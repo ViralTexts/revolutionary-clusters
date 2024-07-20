@@ -132,7 +132,7 @@ said, not having as yet made the relinquish­
 ment afd as above required, and attempting since  
 the date of the above Resolutions to extend an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1870070801:0541/pct:53.18404478656403,166.79576555641623,39.39818054583625,39.24606248386264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1870070801:0541/pct:13.300665033251663,41.69894138910406,9.852992649632482,9.81151562096566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ into the Federal Union, that they explic­
 itly relinquish all demands of lands, or  
 jurisdiction on the east side of the Connec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1879030501:0229/pct:19.99260901699926,28.882497945768282,14.541759053954175,2.7800602574637088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1879030501:0229/pct:15.00646830530401,21.66529717885511,10.903714655331731,2.09531635168447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ jurisdiction on the east side of the
 west bank of Connecticut river,&quot;  
 etc. Vermont State Papers, p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022553:00202197255:1879071901:0014/pct:60.863509749303624,98.81790410413069,83.07799442896936,60.77832381458361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022553:00202197255:1879071901:0014/pct:15.218526902315864,24.704476026032673,20.773115096639387,15.194580953645902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

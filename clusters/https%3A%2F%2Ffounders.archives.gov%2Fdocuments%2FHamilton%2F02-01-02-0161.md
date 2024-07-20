@@ -41,7 +41,7 @@ copie:thc&#x27;rth. b e g
 | himfclf or by any perlon or peclons in his  
 &quot; behalf, be entaled to 2 copy of the sentenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806090201:0349/pct:59.65598123534011,83.79029828261524,17.18530101641908,7.7935121020387665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806090201:0349/pct:59.66640604639041,83.79364601118141,17.190513421944228,7.796859830604935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +65,7 @@ the end that the persons entitled thereto
 may be enabled, upon application, to oh*  
 tain copies thereof,” and are embrace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820022901:0139/pct:56.77028451001054,8.994708994708995,35.695468914646995,85.23478835978835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820022901:0139/pct:56.75533315775613,8.993222020168623,35.69265209375823,85.22483055050422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,7 +86,7 @@ titled thereto may be enabled, upon ap­
 plication, to obtain copies thereof.” In  
 this case, the sentence of the court w a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820022901:0140/pct:8.455497382198953,20.678246484698096,17.460732984293195,4.516129032258065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820022901:0140/pct:8.453284480502486,20.674826331458817,17.462706097880137,4.5195170360568975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ preserved in the office ol said secietary, to the end that tin* person enti­
 tled thereto may be enabled, upon application to the said office, to obtain  
 copies thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:24.122425297360024,81.60017206151198,18.639396576733393,2.9250457038391224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:24.11892675852067,81.59139784946237,18.640319071791154,2.9274193548387095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

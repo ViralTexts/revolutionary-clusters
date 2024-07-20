@@ -100,7 +100,7 @@ In tiie iii&#x27;St or second year of the c:
 &quot;listra ion of President Atl.i,  
 Andrew Fl.icott, then emplo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808012501:0001/pct:6.2487278648483615,35.554098360655736,18.074496234479952,39.265573770491805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808012501:0001/pct:6.2487278648483615,35.56284153005465,18.08128095528869,39.265573770491805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ jbe competent to the remedy.
 Th : JEFFERSON. J&quot;  
 January 20, I_o_
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808012501:0001/pct:8.487685731732139,4.18360655737705,73.84490128231224,88.7344262295082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808012501:0001/pct:8.494470452540877,4.192349726775956,73.85168600312097,88.72568306010929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ t
 m: mof: rmcntn: me umou; wmcn co—mm- lss  
 undone had : ken placcbclure the e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808012601:0232/pct:53.97439714200655,5.567338282078473,23.548675200952665,29.118062919759634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808012601:0232/pct:53.9663640422682,5.566846337368561,23.550131467976385,29.118435392182853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ ctthe fotfpcf chief ch-tk, who May Psith&#x27;si
 give information t&#x27;cepectirg them. Ass&#x27;ct  
 385 out memories enable us-to Gay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808012601:0232/pct:53.97439714200655,3.897136797454931,44.52217922000595,92.93036408624955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808012601:0232/pct:53.9663640422682,3.8967924361579924,44.52051396537183,92.92509793525964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ remedy.
 TH: JEFFERSON.  
 January £0, 18GS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808012801:0346/pct:42.09281164695177,10.068280571073867,35.723384895359416,83.61266294227188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808012801:0346/pct:42.085152838427945,10.067030784508441,35.722950024260065,83.60642171466402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ remedy.
 TH: JEFFERSON.  
 January 20, M308
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808012901:0039/pct:4.040404040404041,13.676190476190476,36.34457785401182,82.65396825396826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808012901:0039/pct:4.039634146341464,13.67445403758253,36.34400406504065,82.64770611139326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1091,7 +1091,7 @@ Clarke, cyf New-Orleans, (ben a subject of Spam
 and now a member of the house of repr, sentatKcs of  
 tbe y. Mating certain commercial transaction*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808020201:0959/pct:74.74411463664278,54.14427617651848,22.28761514841351,42.729197199153234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808020201:0959/pct:74.72499360450243,54.13546076196678,22.28830903044257,42.726310647997394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1176,7 +1176,7 @@ the remedy.
 Til: JE1TERSOX.  
 Jafiuaiy 20, JS08.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808020201:0960/pct:3.464443865589997,1.765571358509073,22.610054701745245,47.735818211541606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808020201:0960/pct:3.4635416666666665,1.7652827721477606,22.610677083333332,47.73210199411572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1580,7 +1580,7 @@ January 20, UC«.
 1 Ht JhFFliRSON.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808020501:0908/pct:51.470588235294116,3.909537166900421,42.06437291897891,92.60168302945301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808020501:0908/pct:51.45631067961165,3.908851884312007,42.059639389736475,92.58983347940404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1783,7 +1783,7 @@ ly will be competent to the remedy,
 TH : JEFFERSON.  
 Fanuary 20, 1808
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808020901:0022/pct:8.152591908937087,3.0080482897384306,34.53314874634672,92.4446680080483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808020901:0022/pct:8.162846741526945,3.01140174379611,34.54340357893658,92.4446680080483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1808,7 +1808,7 @@ The President states that about twelve
 that “ HE WAS LISTENED TO FREELY,”  
 | In the conclusion of the Message the Pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808020901:0023/pct:22.97130515273064,23.90606182256122,16.5998148719531,6.67402649538338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808020901:0023/pct:22.981590044225033,23.91275257594005,16.594672426205904,6.670681118693965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1957,7 +1957,7 @@ me, charging Gcnerai Wiikinson with the
 corrtipt receipt of money.&quot; si &#x27;  
 &#x27; And what then was the insorm&#x27;ntion, made c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808072101:0171/pct:23.26247550128147,49.248421239882596,23.759987939092415,8.10281953215334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808072101:0171/pct:23.258968947844437,49.244041266453216,23.761431011958596,8.105063441242736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1980,7 +1980,7 @@ p ed to the secretary of smite, other paperq, :
 ! with at request that after perusal,,the_v might  
 be burnt.&quot; A reference to documents wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809101301:0404/pct:28.206364513018322,12.271611671666212,24.959819993571198,6.953913280610854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809101301:0404/pct:28.20183191386791,12.270496273404836,24.961165568589642,6.9563109737623465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2010,7 +2010,7 @@ money.&quot; With Mr. ]cﬀerson&#x27;s motives tur
 asset&#x27;ting- to the house .of representatives  
 that mine was — the first accusation, I have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809101301:0404/pct:28.86531661845066,73.47513862376148,23.641915782706526,10.626306699390964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809101301:0404/pct:28.860678129519524,73.4684602799491,23.64347313728641,10.62837059928498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

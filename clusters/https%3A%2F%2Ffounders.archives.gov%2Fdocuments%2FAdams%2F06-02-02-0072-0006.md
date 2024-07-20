@@ -277,7 +277,7 @@ is to trace the Spirit of Opposition to Great-
 Britain thro’ the General Court and theCourts  
 of common Law. 1 7o becontinu’d. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012001:0388/pct:64.97175141242938,84.34676060652474,27.819209039548024,2.940725991729208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012001:0388/pct:64.98681732580037,84.34676060652474,27.83427495291902,2.9458314187981824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ published with the Representatives Names in
 the next Gazette. This was commonly fol­  
 lowed by fevereSrictures and the moit ilhbera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012701:0391/pct:34.12590579710145,11.32960217818787,28.192934782608695,5.88413250642868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012701:0391/pct:34.12590579710145,11.33968638128372,28.215579710144926,5.88413250642868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ ciple can we reconcile their oftenfibleCond uck
 in the House to their Declarations in private  
 Circles.~ The apparent Unanimity in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012701:0391/pct:34.51086956521739,38.76871880199667,28.759057971014492,12.433822417183482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012701:0391/pct:34.518417874396135,38.77880300509252,28.781702898550726,12.433822417183482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ Agent as would answer their Purposes. The
 House therefore refufed to join with the other  
 two Branches of theGeneral Court in the Ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012701:0391/pct:34.8731884057971,65.2700045378914,28.034420289855074,5.687490546059598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012701:0391/pct:34.8731884057971,65.2700045378914,28.06461352657005,5.692532647607523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ Independence could remove them, were tum­
 bled from their Seats in Disgrace. . Thus the  
 ~ Board which was intended to moderate be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012701:0391/pct:63.97192028985507,42.68643170473453,28.84963768115942,11.314475873544094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012701:0391/pct:63.979468599033815,42.68643170473453,28.84963768115942,11.314475873544094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ to Government at Home tc firengthen his
 Hands, some oflicious Person procured and  
 sent back his Letters. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012701:0391/pct:64.78713768115942,61.685070337316596,28.35144927536232,8.576614733020723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012701:0391/pct:64.79468599033817,61.695154540412446,28.35899758454106,8.576614733020723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ filled, before his Appointment to the Chair,
 and refle&amp;@ Honour cn his Native Country.  
 But his Abilities &amp; Integrity, added to his tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775020301:0395/pct:67.10642040457344,38.93684688777828,28.078276165347404,19.76374375283962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775020301:0395/pct:67.10642040457344,38.9469433085971,28.078276165347404,19.76879196324903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ Importance.
 They had often petitioned the Assembly to&#x27;  
 enlarge&#x27;them without fuccels. They were a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775020301:0395/pct:67.12840809146877,79.29728911101014,28.056288478452068,15.114341965773134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775020301:0395/pct:67.14306654939901,79.30233732141956,28.048959249486956,15.119390176182543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ ment to no Effe&amp;t. . They were enjoined to
 prevent Riots &amp; Insurrections, of which there  
 was ample Evidence, with as little success
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775020301:0396/pct:6.570796460176991,10.497900419916016,27.63274336283186,7.723455308938212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775020301:0396/pct:6.5855457227138645,10.507898420315938,27.625368731563423,7.723455308938212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ sequence to theCommunity, had they not cut
 a-fundet the very Sinews ofGovernment, and  
 broke in Pieces the Ligaments of social Lif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775021001:0399/pct:38.19184123484013,55.45303282408108,27.364939360529217,14.158221146573892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775021001:0399/pct:38.1991914737229,55.45303282408108,27.364939360529217,14.173347451217667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ annihilatéd the Freedom of the Board, and
 réndered the Governor 2 meére Dorge of Ve=  
 nice. &#x27; They ingroflfed:all the Power of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775021001:0399/pct:67.01212789415656,50.64286794736046,28.29106945975744,13.341400695810014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775021001:0399/pct:67.01947813303933,50.64286794736046,28.298419698640206,13.341400695810014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2193,7 +2193,7 @@ and multiplied demonstrations that the whole people
   
 are so unanimously bent against them, we wouiu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841101601:0556/pct:88.09936452917388,15.081967213114755,20.37839399191219,2.330210772833724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841101601:0556/pct:66.09361456226524,11.311475409836065,15.299046518347298,1.756440281030445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2226,7 +2226,7 @@ rrjins n these?&#x27; A Loco Foco an enemy to the
   
 Constitution!. -.We&#x27; would advise him to take thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841101601:0556/pct:88.15713460427499,30.491803278688526,20.63835932986713,8.899297423887587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841101601:0556/pct:66.13695463738804,22.868852459016395,15.486853510546085,6.686182669789227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2265,7 +2265,7 @@ it prodigious weight and influence t Had the whigs any r
 such advantage &quot;  
 if The name doctrines are to be found in the celebrated ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120101:1188/pct:0.8556316116988176,4.85678704856787,31.829495955196016,90.56039850560398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120101:1188/pct:0.8556316116988176,4.865089248650892,31.839867247459033,90.56039850560398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2338,7 +2338,7 @@ ance to luwofut authority makes rebellion.
 HAMPDEN, RussELl, SYdneY, HoLt,  
 Somers, TiLlotson, were no rebels. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:101.8018018018018,164.2724795640327,37.41741741741742,10.114441416893733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:25.458095524181434,41.06811989100817,9.35716431360769,2.5286103542234333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

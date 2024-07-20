@@ -74,7 +74,7 @@ Your obedient servant,
 ALBERT GALLATIN,  
 LEVI LINCOLN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051101:0065/pct:23.055162659123056,8.118521236583799,22.63083451202263,23.52077791028346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051101:0065/pct:23.05153991200503,8.117776554760594,22.6325162371674,23.521677979575614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ act—re;p rtfully submit the following report on
 the claims made by settlers and other persons, to  
 lands within the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062701:1198/pct:5.794910556815319,34.967163222809546,21.49155958679768,7.848790645522985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062701:1198/pct:5.793450881612091,34.961563100576555,21.492443324937028,7.851537475976938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ mentioned act,’* which was reported to the
 Senate, and „  
 j On motion, the further consideration o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813012101:0020/pct:58.00438596491228,86.54246843975977,17.251461988304094,7.562201250153205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813012101:0020/pct:57.993787684999084,86.53186274509804,17.254400389792313,7.565359477124183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ a government in the Mississippi ‘Ierritory,”
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-12_10_24/page/n6/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-12_10_24/page/n6/mode/1up?view=theater)
 
 #### 1849-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -405,7 +405,7 @@ This act of Congress, first section, de
 ,( Uement of the hmiU with the State of Georgia, and au  
 ? thorizing the establishment ?[
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850060201:0661/pct:67.23806472284524,61.13904953482525,16.228772829221402,1.986421926074931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850060201:0661/pct:67.23806472284524,61.147431061939486,16.234112997970737,1.986421926074931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ seventh section read3:is follows: &quot;Section
 and after the establishment of the afore­  
 said government, it shall not be lawful to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190662:1860071901:0063/pct:43.326082657702194,12.623801289105486,13.802649792367015,4.307498820940104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190662:1860071901:0063/pct:43.331026300177975,12.635591888067914,13.807593434842792,4.319289419902531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ S ate of Georgia, and authorizing
 the establishment of a government  
 in the Mississippi Territory.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn87007277:00415662415:1887043001:0377/pct:61.077057793345006,38.629507254704784,16.74693520140105,9.89800316046545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn87007277:00415662415:1887043001:0377/pct:45.83880858519492,28.975721879040368,12.571178274200614,7.427093808360867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ State of Georgia, authorizing the
 establishment of a Government in  
 the Mississippi Territory.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878812:1887051301:0479/pct:38.80355699272433,86.18592528236316,48.90864995957963,12.974225311323487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878812:1887051301:0479/pct:9.700889248181083,21.54648132059079,12.227162489894907,3.2435563278308717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ Again in 1808, the Congress of
 the United States (tenth) at its  
 first session passed another ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878009:1887051401:1156/pct:97.60432766615146,121.4207650273224,44.28129829984544,32.568306010928964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878009:1887051401:1156/pct:24.41051410900657,30.3551912568306,11.074603788171627,8.142076502732241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

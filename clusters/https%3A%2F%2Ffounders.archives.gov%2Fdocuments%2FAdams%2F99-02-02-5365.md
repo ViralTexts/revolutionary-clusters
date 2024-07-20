@@ -449,7 +449,7 @@ bj the French faction and the British faction :
 the former aided by the republicans, and the lat­  
 ter by Alexander Hamilton and his satellites.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809063001:0066/pct:6.149102122256485,3.8410113042421297,35.46163613277707,90.28807584781816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809063001:0066/pct:6.147986942328618,3.840544482255712,35.46125015113046,90.28115378382758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ der Hamiiton. To me only it was
 dangerous. To me, as a public mar,  
 it was fatal, and that ooly becagf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809070401:0311/pct:41.78302900107411,10.70470132193619,51.91038821543655,83.55034290825962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809070401:0311/pct:41.78302900107411,10.70470132193619,51.925732699094674,83.55696915482226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ tion ; the former aided by the repub­
 licans, and the lai&#x27;er by Alexander  
 Hamilton, and his fatetlites.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809070401:0312/pct:7.035019455252918,3.495260663507109,16.91828793774319,8.155608214849922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809070401:0312/pct:7.035019455252918,3.4985518694049498,16.93385214007782,8.162190626645604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -943,7 +943,7 @@ British treaty, of Irish murderer Nash,!
 immaa upon the publick for humob.  
 bifis ! Did we recollect lbelﬁiyin i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809070501:0056/pct:50.173446862188584,12.328632014991616,22.37464522232734,76.41779268172404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809070501:0056/pct:50.18395879323032,12.331919650195614,22.37464522232734,76.41779268172404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1078,7 +1078,7 @@ or uﬁu’c of the French arms :We must
 take cm send men who, are ual such  
 A trials. The French have piot, a 8 yet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809070501:0056/pct:50.86723431094292,6.1347272906598285,44.00819930621255,88.42094881151988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809070501:0056/pct:50.87774624198465,6.1347272906598285,44.00294334069169,88.42423644672387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ French fuction and the British factjon : the
 ter by Alexander Hamilton,and his satellites.  
 : JOHN ADAMS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809070501:0057/pct:5.313781141595711,0.5209869261771356,21.948912015137182,14.617123758969822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809070501:0057/pct:5.313781141595711,0.5275402208460304,21.954167980658045,14.613847111635375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1175,7 +1175,7 @@ it back, at Mr. Jcflersnn did the treaty with
 “ England, Without laving it before the Senate.”  
 There can be no doubt of the right of • govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809082801:0643/pct:8.916728076639647,65.99777034559644,20.781134856300664,10.479375696767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809082801:0643/pct:8.914538310412574,65.98726114649682,20.782170923379176,10.481687898089172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1553,7 +1553,7 @@ and hept in order onh , as many people tho&#x27;!
 by a military patrol, ordered, I believe, by  
 the gan. of Pennsylvania.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809111401:0512/pct:28.20872274143302,5.121535563727688,48.271028037383175,91.38936227464346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809111401:0512/pct:28.204329543684786,5.121076233183857,48.268701656024504,91.38415545590433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1581,7 +1581,7 @@ AND THE FRENCH momsin coxe HERE,
 THE! WQULD ]om THEM AGAlNST THE re­  
 DERALISTB AND THE Excusu.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809111401:0512/pct:52.86604361370716,29.356892994887435,23.2398753894081,10.763297156695668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809111401:0512/pct:52.85781030992057,29.3542600896861,23.241447334267768,10.765321375186845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1665,7 +1665,7 @@ only, as many people thong1 t, by «
 military patrol, ordered, 1 believe, by  
 the Governor of Pennsylvania.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809112001:0714/pct:4.434589800443459,18.23679612955248,17.716186252771617,44.91331810240559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809112001:0714/pct:4.433606739082244,18.234345606019886,17.717800931057415,44.910642300456864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1695,7 +1695,7 @@ if\ve went to war with France, am
 T HEY WOULD JOIN THEM AGAINST Till  
 FkDKRALIS 1 £ AKU I U W 1.NO LI£11. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809112001:0714/pct:4.855875831485587,63.203870447520494,17.29490022172949,10.469022980782153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809112001:0714/pct:4.854799379295057,63.19537758667025,17.296608290844603,10.470975544208546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

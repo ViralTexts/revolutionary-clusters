@@ -98,7 +98,7 @@ isted, and bad been finally extinguish- j
 cdby the treaty af 1795.  
 TH: JEFFERSON, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808020501:0002/pct:41.87372708757638,6.116953064888433,35.53971486761711,89.67684021543985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808020501:0002/pct:41.887304820095046,6.116953064888433,35.53971486761711,89.68966401641447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ found any information of the -_cm*:siupt l&#x27;eceﬀ&#x27;pt
 ;ofmosineysi by an} oiIiccz of it L. S from any  
 vsorcisi) vn agcnts iur dismc mberiuq ti (: union, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808020801:0269/pct:46.16366472840732,4.058782365290413,45.99347610268047,93.35199440167949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808020801:0269/pct:46.15711854792966,4.058427359398233,45.99168084704103,93.34674480305549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ mem existed, and had been finally0 extin­
 guished by the treaty of 17&#x27;JJ.  
 TH: JEFFF.RKTlK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808020901:0368/pct:74.77654629960672,18.00808526277104,17.94780121558813,22.28347421291192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808020901:0368/pct:74.76318141197498,18.005879470847624,17.95055108728031,22.284827698840438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ government existed, and had been finally
 extinguished by the treaty of lT9j.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808020901:0053/pct:59.02100525131283,27.957674655787862,18.079519879969993,23.355430902600713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808020901:0053/pct:59.00993812113257,27.95411089866157,18.0823801487593,23.356702783089016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ ed, and had finally been extinguished bv the treaty
 of 1795.  
 “ Til: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808021201:0980/pct:24.974093264248705,12.641083521444695,22.17616580310881,24.798452112221863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808021201:0980/pct:24.967624967624968,12.639045623085604,22.176897176897178,24.798484604223763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ government existed, and had been final­
 ly extinguished bvthe treaty of 1795.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808021201:0913/pct:5.32033426183844,55.47406082289803,20.055710306406684,32.9695885509839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808021201:0913/pct:5.31885268727374,55.46413879449115,20.05708716235032,32.96816311929887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ omcer of the United States, from any foreign
 agents g* to the combination with foreign s­  
 gents for difmemliering the union Thefe na
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808022201:0348/pct:39.993038635572574,31.602827899124197,18.169161155586494,18.507966656114803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808022201:0348/pct:39.98607969375326,31.599493564043048,18.17034974769445,18.50865161426461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ exide , and had been finally extiuguidicd by
 the treaty of 1795.  
 TH: JEFFERSON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808022201:0348/pct:39.993038635572574,50.08969083043157,17.942916811695092,5.043790228975414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808022201:0348/pct:39.98607969375326,50.08440599282549,17.944144771184966,5.045895758598861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ ment existed, and had been finally ex­
 ‘tinguifhed by the treaty of 17g5s.  
 . .TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808022301:0030/pct:61.02760736196319,46.465456733179586,16.211656441717793,31.174170259701192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808022301:0030/pct:61.037832310838446,46.47214144857783,16.206543967280165,31.170827902002074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -401,7 +401,7 @@ ied, had not appc
 lieve th U I should spirit of  
 my instructions, and cd |io
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112101:0001/pct:40.80550098231827,23.254299114121938,17.347740667976424,56.00573215216259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112101:0001/pct:40.80550098231827,23.262984193156157,17.36083824492469,56.01007469167969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ before, and there I left the subject.
 re follows Icney&#x27;s letter to  
 Mr. C n ing, and Mr. Manning&#x27;s reply a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112101:0001/pct:41.47347740667976,9.940072954663888,33.791748526522596,87.33715476810839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112101:0001/pct:41.48657498362803,9.948758033698107,33.791748526522596,87.33715476810839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ new system, as it bhected the United States. To
 that explanation, with the particular of which I  
 &#x27;! 1 not, and indeed, for wart of time, cannot, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0227/pct:32.48423707440101,3.5113748763600396,43.22824716267339,93.9004286185295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0227/pct:32.47604639435199,3.5107961101038403,43.22365103378719,93.8890720290094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -772,7 +772,7 @@ dential considerations, which had been so of­
 ten pressed belore, and tlieic 1 left the sub­  
 ject.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0244/pct:41.941358586778364,2.714196372732958,36.0043707885631,93.84615384615384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0244/pct:41.93372177713037,2.713856928464232,36.003884437970385,93.8385859596465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ Upon the terms, 03: general plan &#x27;of my
 :ssssss _ ﬂducover that It was pre Pan-ed under &quot;  
 --__ ] 7 . ,that whatever aught be it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120101:0008/pct:5.114638447971782,62.65135886626603,23.927101704879483,21.14987891290699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120101:0008/pct:5.113886847905952,62.6457399103139,23.92848395787411,21.150971599402094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -870,7 +870,7 @@ To tbat explanation, with -!t te particulats of
 ! so often presctssd besort, &#x27;and then: I left the  
 ! subject.&quot; c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120101:0008/pct:29.144620811287478,16.369181092474662,22.97178130511464,27.89487846443627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120101:0008/pct:29.14033798677443,16.367713004484305,22.973303943179037,27.895366218236173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ determined,in consequence* to lay hefo e
 l it, in writing, the in entions of the Pr-«u  
 dent, with the same fu.ik.ieu which i,a4
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0397/pct:77.48406449193851,70.09262783910671,18.635170603674542,24.438523030072325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0397/pct:77.46954076850984,70.08373509261608,18.637925648234926,24.439651526685275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ denier) the completion of which was yes­
 terday postponed by an adjournment of the  
 house, was finished; and the said petitio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0398/pct:2.865221489161169,4.898371417750284,19.32139491046183,17.548289357404368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0398/pct:2.8646814926498303,4.89775309265337,19.324035682874733,17.550281915341245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ i trouble you, I added a concise recapitola
 imns which had been ,o often pressed be­  
 &#x27; lute, and there I iti the subject.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120901:0401/pct:21.729323308270676,17.841634738186464,18.1203007518797,65.45338441890166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120901:0401/pct:21.72523961661342,17.839356404035243,18.123159807053813,65.44928276507896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

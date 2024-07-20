@@ -44,7 +44,7 @@ in hi* possession, before it becomes a law by the lapse
 of ten day*1  
 GEO WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841081001:0833/pct:50.0177242112726,13.083992851672198,15.508684863523573,7.135562930814399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841081001:0833/pct:50.0177242112726,13.088247808697131,15.514592933947773,7.139817887839333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -64,7 +64,7 @@ the subscribers to the Bank of the U nited
 State-.&quot; 1  
 tvu I.: 11 l. ,L. r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841081401:0102/pct:3.548626577579807,8.358304794520548,18.09948032665182,3.274828767123288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841081401:0102/pct:3.558525117545162,8.358304794520548,18.09453105666914,3.2819634703196345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ session, before it becomes a law by the lapse
 often davs  
 GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841082101:0522/pct:107.10688304420817,53.75279839754919,19.529938444320088,10.451278425827736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841082101:0522/pct:80.35264483627203,40.32049016142335,14.66554715924993,7.835513137740073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ can the President retain it in his possession, tie­
 lore it becomes a law by the lapse of ten days?  
 Geo. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1841082801:0301/pct:9.301872074882995,92.31359312672599,18.662246489859594,9.23596195151887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1841082801:0301/pct:6.985365853658537,69.23903037741638,14.009756097560976,6.934642528382939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ in his possession before it becomes a law by the
 lapse of ten days?  
 GEO. WASIlINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841111201:0319/pct:75.53101104502974,228.69477622679523,59.55819881053526,23.71564253849475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841111201:0319/pct:18.894792773645058,57.17369405669881,14.8990435706695,5.928910634623687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ sion before it become a law by the lapse
 of ten davs?  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016922:00200292108:1841111301:0006/pct:76.81858019281333,38.27430176314558,22.80893952673094,13.496645342487128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016922:00200292108:1841111301:0006/pct:57.637519175980714,28.709627086909034,17.115932500547885,10.126384771415198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ nipt , gross at 12 o&#x27;clock on Monday, the fourteenth instant
 tan- interpretation of the constitution, can the President 1  
 nf it in Ins possession, before it becomes a law by the la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120601:1203/pct:51.31807419100237,66.2614362702093,15.185477505919495,2.3060533901491413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120601:1203/pct:51.32859773743752,66.26979153611563,15.180215732701921,2.3060533901491413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ constitution. can tin* President retain it in hi­
 pos.-c*sion. before it become* a law bv the  
 lapse of ten daw-&quot; If the proper constructs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848120701:0440/pct:70.78189300411523,78.12565960740167,12.517944300890038,3.61640751424752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848120701:0440/pct:70.77511961722487,78.12016321936119,12.519936204146731,3.6184981942685615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ pretation of the constitution, can the Presi­
 dent retain it in his possession, before it be­  
 comes a law by the lapse of ten days.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848120701:1019/pct:166.48609606356086,306.9695405265875,48.62766341639581,14.416623644811564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848120701:1019/pct:41.61400974905217,76.73248161053039,12.15472106878498,3.60369079881275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ od, by legal interpretation of the constitution, can the presi
 ent retain it in his possession before it be considered law  
 by the lapse of the ten days
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848120901:0443/pct:198.99912967798085,145.06162417693736,59.13838120104439,10.332601722100287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848120901:0443/pct:49.75519529974976,36.26540604423434,14.786203895114786,2.583150430525072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ what precise period, h&#x27;y legal interpretation of the
 constitution, can the President retain it in his pos­  
 #ession, before it becomes alaw by the lapse of te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848120901:0908/pct:31.15112540192926,80.49742189869579,12.334405144694534,2.3860074815488828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848120901:0908/pct:31.15112540192926,80.50079196576011,12.338692390139336,2.3860074815488828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ tation of the Constitution, can the President retain it in
 his possession, before it becomes a law by the lapse of  
 ten days.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848121101:0153/pct:257.6908889708595,35.72659391154509,59.55367023238657,15.637564618035611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848121101:0153/pct:64.41084270698875,8.930366116295765,14.885672137193435,3.908829863603733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ construction of the Constituiion, can the
 President retain it in his possession before  
 it becomes a law by the lapse of days.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1848121201:0487/pct:205.35499398315284,218.9083603080701,57.46089049338147,19.555753990400714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1848121201:0487/pct:51.361926260346124,54.72709007701752,14.37170805116629,4.888938497600178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ interpretation of the Constitution, can the President
 retain it in his possession before it becomes a law by  
 the lapse of ten days.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848121201:0412/pct:52.46814120404277,66.97719241888854,14.428006444997802,3.554984473712389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848121201:0412/pct:52.47790635222889,66.97719241888854,14.41824129681168,3.5585537352321803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ opinion &quot;to what precise period, by legal interpretation,
 : possession, before it becomes a law by the lapse ot ten  
 .&#x27; days.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1848121301:0418/pct:6.8894389438943895,44.98042949328256,20.297029702970296,4.13625304136253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1848121301:0418/pct:5.171939477303989,33.735322119961914,15.226960110041265,3.1101237702316724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ stitution, can the President retain it in his­
 possession before it becomes a law by lapse  
 of days.&quot; If the proper construction was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027054:1848121301:0110/pct:8.698727015558699,106.37976075897154,16.38967468175389,5.82978138319813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027054:1848121301:0110/pct:6.525198938992043,79.78825794032724,12.307692307692308,4.372336037398598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ i precise period, by legal interpretation of the consli­
 ; lotion, ean the President retain il in liis possession,  
 beforoit becomes a law by the lapse often days.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848121301:0202/pct:48.835855646100114,30.71660872490748,14.639115250291036,3.1288549960749132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848121301:0202/pct:48.82875018187109,30.713164386633775,14.641835200543188,3.1322419077521118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ tion, can the President retain it in his pos
 session before it comes a law by the lapse  
 of da  e o  
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1848121501:0282/pct:70.83015993907082,325.1435132032147,51.40898705255141,16.073478760045923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1848121501:0282/pct:17.714285714285715,81.28587830080367,12.857142857142858,4.018369690011481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ terpretation of the constitution can ihe President
 retain it in his possession, before it becomes a  
 law by the lapae of the ten days.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848121501:0645/pct:7.742181540808543,58.70511425462459,19.317315026697177,5.1550598476605005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848121501:0645/pct:5.8172801831012775,44.02883569096844,14.495517833301545,3.876496191512514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ day the 1 Ith utst.,&quot; and he r&gt; quested his opinion us 1
 the President retain it in his possession, before it  
 becomes a law by the lapse of days.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151337:1848121501:0306/pct:44.03251105090546,4.42744802326834,26.450876942820475,90.90811160185285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151337:1848121501:0306/pct:44.03726412852322,4.42744802326834,26.450876942820475,90.91529318826528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ the constitution, can the President retain it in
 his possession, before it becomes a law by the  
 lapse of ten days.&quot; It the proper constructio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1848121601:0204/pct:69.32675565873477,39.32093231734648,20.89378990133488,6.454504706409682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1848121601:0204/pct:52.02496733923646,29.49350067234424,15.677166497314559,4.840878529807261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -838,7 +838,7 @@ instant,&quot; and he requested his opinion &quot;to
 it in his possession, before it becomes a ae o e eo e e­  
 by the lapse of ten days.n and oti to ea te oen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848121601:1260/pct:21.375310687655343,80.43609933373713,121.37531068765534,18.594791035735916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848121601:1260/pct:5.344934742075823,20.109024833434283,30.350113942407294,4.648697758933979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ legal construction of the constitution, can
 the President retain it in his possesson  
 before it becomes a law by the lapse o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848121901:0502/pct:246.04851330203442,152.36783557580253,39.31924882629108,17.98919377052654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848121901:0502/pct:82.04827136333985,50.789278525267505,13.111545988258317,5.996397923508846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -972,7 +972,7 @@ the President retain it in his possession,
 before it became a law by the lapse of the  
 ten days
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1848122101:0051/pct:5.568720379146919,62.41055811734775,19.05608214849921,7.441564636667197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1848122101:0051/pct:4.187240766344065,46.81189378279536,14.299822239778788,5.581173477500397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1024,7 +1024,7 @@ constitution, could the President retain it in his
 possession, before it become a law by the lapse of  
 the ten days.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1848122301:0637/pct:63.77620268436133,70.71032186459489,14.552857789172071,3.7291897891231964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1848122301:0637/pct:63.781229578243604,70.71032186459489,14.56291157693661,3.7439881613022568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1047,7 +1047,7 @@ the President retain it in his possession,
 before it became a law by the lapse often  
 days.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848122601:0172/pct:83.73983739837398,79.7320121607927,12.751390671801454,5.100776939533836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848122601:0172/pct:83.73983739837398,79.7320121607927,12.760899538819949,5.115790263859175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1067,7 +1067,7 @@ terpretation of the cons itutinn, can the Pre­
 sident retain it in his possession before ii  
 becomes a law by the lapse of the ten days
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1848122601:0768/pct:56.87679083094556,26.008127539856204,21.943648519579753,5.079712410128165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1848122601:0768/pct:42.689918776875295,19.506095654892153,16.459627329192546,3.813691778680838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1128,7 +1128,7 @@ atten of a censtutien can the President apparent prosperity; of sudden and disas
  of tc Ooliatitswtt  ti eoe ee  
 retain it in his possession, before it becomes trous commercial revulsions; of unprec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849010501:0207/pct:14.42392260334213,312.4611053489406,113.7203166226913,14.461401689139132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849010501:0207/pct:3.6083608360836084,78.11527633723514,28.448844884488448,3.615350422284783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -130,7 +130,7 @@ his farm than he made emperor of the
 world,” “and yet, that they were charging  
 him with wanting to be a king.” What 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1834052201:0338/pct:64.01620663459103,52.66306445387881,14.889845530514053,12.755692782709378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1834052201:0338/pct:64.0,52.652903723712136,14.89240506329114,12.758055180397454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ him with wanting to be a king.” What
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n2/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n2/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -192,7 +192,7 @@ earth to produce any single act of his since he bad
   
 &#x27; &#x27;, Ne ws and , bock Pri ntirig - Ink ; ,Wri ting been in the government which had not Jaeen don
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065697:00295877595:1855021601:0281/pct:27.671000565291124,87.47564407880493,38.28434143583946,4.3624161073825505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065697:00295877595:1855021601:0281/pct:20.763250883392224,65.60943927256982,28.720848056537104,3.2691058670707944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ will every day as if he would become the -distributer
   
 bate Court of the an i-rnudent design .to insult him. &#x27;pi .-&#x27;? k &#x27;-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065697:00295877595:1855021601:0281/pct:39.796495195025436,92.6715739337519,26.14471452798191,8.486685429746698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065697:00295877595:1855021601:0281/pct:29.851590106007066,69.50638666378003,19.618374558303888,6.365014072310024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ would become the distributor of them,
 act in which he could see nothing but  
 impudent design to insult him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022020:1864020401:0545/pct:26.208503203261504,22.753541076487252,89.57483983692487,359.342776203966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022020:1864020401:0545/pct:6.553079947575361,5.688385269121813,22.396971020824232,89.8356940509915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ be made Emperor of the world, and yet
 ,aaid he, indignantly, thej are cjiarging me  
 with wantingitobe asking. grom Kan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868032401:0290/pct:7.117647058823529,102.55333259644081,14.470588235294118,18.868133082789875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868032401:0290/pct:5.340591437398852,76.9205261412623,10.87244372517287,14.148336465126562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ had rather be on his farm than to be made empe­
 or of the world; &quot;and yet,&#x27; sail he, indignantly,  
 &quot;they are charging me with wanting to be a king.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868032701:0595/pct:4.984544049459042,156.66496424923392,45.26661514683153,23.97854954034729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868032701:0595/pct:1.6615146831530139,52.22165474974464,15.08887171561051,7.992849846782431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ nantly, &quot;they are charging me with wanting
 to be a king.&quot; From Randolph, Secretary  
 of State, he demanded an explanation of his
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82016242:00211105483:1868050901:0428/pct:72.01336675020886,326.19151727153474,64.07685881370092,51.88747995918962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82016242:00211105483:1868050901:0428/pct:18.003341687552215,81.54787931788368,16.01921470342523,12.971869989797405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ pudent design to insult him; be ended in this
 high tone.  
 Thomas Blount opposed a clause in the las
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525322:1871101801:0063/pct:73.11275297141022,52.29274903998193,10.873755220044973,8.278744070476622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525322:1871101801:0063/pct:73.10101172314116,52.28684359119142,10.876023767464268,8.280632411067193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ would become their distributor, and he
 could see nothing in this but an impudent  
 design to insult him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_devilsbag_ver01:data:sn84024670:00280762416:1873032501:0297/pct:30.535426731078903,16.622340425531913,12.962962962962964,10.77127659574468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_devilsbag_ver01:data:sn84024670:00280762416:1873032501:0297/pct:30.550523349436393,16.629728132387708,12.957930756843801,10.767582742316785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1009,7 +1009,7 @@ would rather be on my farm than be made
 emperor of the world; and yet they are  
 charging me with wanting to be a king!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1873041101:0486/pct:176.54929577464787,269.83716722667356,38.943661971830984,17.213750323080898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1873041101:0486/pct:44.13732394366197,67.45929180666839,9.735915492957746,4.3034375807702245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1037,7 +1037,7 @@ my farm than be made Emperor of the
 world; and yet they are charging me  
 with wanting to be ? King!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551207:1873082801:0314/pct:64.89006156552331,15.465587044534413,16.27088830255057,8.82591093117409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551207:1873082801:0314/pct:64.9017883318675,15.474583895636528,16.282615068894753,8.82591093117409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1073,7 +1073,7 @@ come the distributor of them, an act
 in whioh he could see nothing but an  
 impudent design to insult him.&quot; Hil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1875090201:0475/pct:64.27044361304115,65.71745935575078,14.898450026723678,15.944663233363627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1875090201:0475/pct:48.21595616731258,49.28809451681309,11.171989843645596,11.966070887609815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1145,7 +1145,7 @@ lowin  ver there was a peried for rejoieing,
 this is the moment. Every heart in unison  
 with freedom and happiness of the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558342:1875121701:0603/pct:115.31974701335207,111.49259599004063,44.132115249472946,32.65627047569126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558342:1875121701:0603/pct:28.829936753338018,27.873148997510157,11.033028812368237,8.164067618922815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1225,7 +1225,7 @@ he bad rather bo on his farm than bo Em;&gt;eror
 of tho world: and yet that they were charging  
 him with wanting to bo a King!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880012101:0009/pct:71.7941882164756,6.476421776968225,13.063183151159691,5.302570329892735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880012101:0009/pct:71.7941882164756,6.476421776968225,13.069848040522528,5.307630034405991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1268,7 +1268,7 @@ on his farm than be Emperor of the world
 and yet that they were charging him with  
 wanting to be a king
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102391:1880012601:0093/pct:87.03427719821163,22.134155291354762,94.33681073025335,357.9627183325994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102391:1880012601:0093/pct:21.76262343953792,5.533538822838691,23.58859698155394,89.49067958314986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1362,7 +1362,7 @@ m tins untking nut an inipnueni uesign to insuii
 lie unlet! in tins Iiigu tone.  
 George Washington Not Iris
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:83.52107558139535,72.13869700663687,14.91642441860465,11.689015305431397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:62.66812068338786,54.11079506975484,11.195928753180661,8.763375321684952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1516,7 +1516,7 @@ the following appeared in The Aurora:
 depart in peace, for mine eyes have  
 seen Thy salvation,&quot; was the piou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348080:1887010601:0308/pct:60.63633973179069,43.16539440203562,10.807257428346043,13.506361323155216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348080:1887010601:0308/pct:60.64072223683057,43.172179813401186,10.807257428346043,13.502968617472435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1561,7 +1561,7 @@ nothing but an impudent design to in­
 sult him.&quot;  
 On the second day after Washingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297167:1887010601:0032/pct:171.9387755102041,188.87228035210097,65.91836734693878,59.99003487792726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297167:1887010601:0032/pct:42.995662158713955,47.21807008802524,16.48379688696096,14.997508719481814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1601,7 @@ sult him.&quot;
   
 On the second day after Washington&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623367:1887011401:0208/pct:56.9919323857088,40.21580635753864,11.774875144064541,11.461067366579178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623367:1887011401:0208/pct:56.9919323857088,40.21580635753864,11.789281598155974,11.464712744240304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1646,7 +1646,7 @@ the following appeared in The Aurora:
 depart in peace, for mine eyes have  
 seen Thy salvation,&quot; was the piou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1887012001:0027/pct:54.291310541310544,47.301876955161624,15.277777777777779,18.156934306569344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1887012001:0027/pct:43.433048433048434,37.8415015641293,12.226970560303894,14.532499131039277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1714,7 +1714,7 @@ Aurora: &quot;Lord, now lettest Thou
 Thy servant depart in peace for mine  
 eyes have seen Thy salvation,&#x27; wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776580:1887030301:0345/pct:157.76306107431935,233.29309188464117,50.55187637969095,85.41918175720993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776580:1887030301:0345/pct:39.44076526857984,58.32327297116029,12.637969094922738,21.35479543930248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1804,7 +1804,7 @@ ing to be a king.&quot; JEyen Congress went
 back on him. and when he finally left the  
 Executive chair the opposition papers wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280167:1890110201:0025/pct:51.756198347107436,78.95174708818635,14.944903581267218,11.674986134220743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280167:1890110201:0025/pct:38.83244360254865,59.220743205768166,11.210607887032891,8.74930671103716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1844,7 +1844,7 @@ reso
 lutions to him and when he finally left the  
 executive chair the opposition papers wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048789:1890110201:0023/pct:18.165924984106802,64.68070728685663,12.794024157660521,9.57315012951909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048789:1890110201:0023/pct:18.165924984106802,64.68070728685663,12.794024157660521,9.58065848256185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1917,7 +1917,7 @@ bis farm than he emperor of tin­
 world, and yet they were charging  
 him with wanting to be a king.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890122701:0206/pct:7.850500715307582,77.89125034501794,10.300429184549357,12.006624344465912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890122701:0206/pct:7.849097085642768,77.8805022768042,10.303057393170034,12.008417276114255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1947,7 +1947,7 @@ bis farm than the emperor of the world, and
 yet they were charging him with wanting  
 to he a king,&quot; Even Congress weut hac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777420:1891010901:0322/pct:101.26886145404664,82.31452455590387,12.808641975308642,7.8239289446186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777420:1891010901:0322/pct:75.99931377594784,61.74242424242424,9.607136730142392,5.864681295715778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2097,7 +2097,7 @@ farm than to be made Emperor of the world--and
 yet, said he, indignantly, they are charging me with  
 wanting to be a King
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0962/pct:123.66239638281839,316.0059612518629,49.736247174076865,38.986587183308494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0962/pct:30.915599095704597,79.00149031296573,12.434061793519216,9.746646795827123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

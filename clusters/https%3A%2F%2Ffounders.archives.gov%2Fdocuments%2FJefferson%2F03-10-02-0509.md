@@ -111,7 +111,7 @@ places before us,and to be thankful for what we
 have rather than thoughtful about what we  
 have not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663675:1871081101:0115/pct:2.687877125617115,56.23769800356172,18.129456939111353,28.971787421501546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663675:1871081101:0115/pct:2.687877125617115,56.24394663667323,18.138599378314133,28.971787421501546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ have tatber than thoughtful about what wo
 have not;  
 ^ . , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1871102101:0158/pct:81.33217743100708,18.08888410631658,12.686028030631412,31.81964919832132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1871102101:0158/pct:81.32042762207455,18.086937809339357,12.68901088317442,31.819812065131625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ places before us, and be thankful for what we
 have rather than thoughtful about what we  
 have not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663699:1872081301:0171/pct:3.8514824050983654,7.721069358758647,15.821557218065946,19.5176668536175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663699:1872081301:0171/pct:3.8514824050983654,7.727301053156353,15.835411471321695,19.514551006418646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ Would not Speak.
 Tat--, having been cmpaueled in arose,  
 was, with the rest of tho jury, cautioned b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1872083101:0332/pct:82.13869463869464,14.111817300441668,12.325174825174825,24.53948077130238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1872083101:0332/pct:82.12672978878369,14.110297285652736,12.328235008497208,24.540427976446935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ places before us, and be thankful for
 what we have rather than thoughtful  
 about what wo have not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623732:1872092801:0180/pct:49.19545161982407,56.487788669214154,11.306586569405708,21.88071108157501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623732:1872092801:0180/pct:49.19545161982407,56.487788669214154,11.320889651719945,21.89732513706596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ places before us, and bo thankful for
 what we have rather than thoughtful  
 about what we havo not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623732:1872092801:0182/pct:48.87218045112782,56.55424489117794,11.25671321160043,21.930553248047847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623732:1872092801:0182/pct:48.88650196920874,56.5653209281719,11.263873970640889,21.925015229550866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ learned, some were unlearned; and
 vet they all agree in what they write.  
 There is not so 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033435:00212470466:1873071201:0350/pct:90.62333510921684,12.835184561875911,11.734150239744272,35.341635812857625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033435:00212470466:1873071201:0350/pct:67.99467021985343,9.626388421406933,8.807461692205196,26.511836643105575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

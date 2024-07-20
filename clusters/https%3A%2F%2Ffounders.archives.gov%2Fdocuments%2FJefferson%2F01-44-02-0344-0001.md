@@ -111,7 +111,7 @@ quarterly, into the Treasury of
 the United States, the balance in  
 bis hapds. . And the Post-maste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792032101:0979/pct:49.80217606330366,14.744103962778759,43.42235410484669,78.05230226215306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792032101:0979/pct:49.810418727332674,14.754799721910263,43.41411144081767,78.0469543825873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ blishment. He shall once in three
 months, render to the Secretary of the  
 Treasury a quarterly account of all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810061901:0199/pct:22.539981185324553,30.831099195710454,17.68579492003763,18.958253542703943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810061901:0199/pct:22.53574115876599,30.82716364564718,17.688738399799348,18.960088503106117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ the carriage of the mail on all post roads that
 as he, having regard to the productiveness there­  
 of, and other circumstances, shall think proper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810082101:0126/pct:6.043350477590008,15.22638753651412,17.67083027185893,3.201071080817916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810082101:0126/pct:6.042240587695133,15.224534501642935,17.673706764615854,3.2047381444971808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ law for a post road, which route shall he const,
 del t d the general post road. He shall obtain from  
 the po*t masters their accounts ami vouchers fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810082101:0126/pct:6.080088170462895,18.403115871470302,17.376928728875825,2.568159688412853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810082101:0126/pct:6.078971533516988,18.400876232201533,17.379859198041018,2.5719037767230537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ ment of the general poft-office. *He shall
 profccute offznces againlt the post office -  
 eftablithment. He shall once in thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810090401:0565/pct:6.604812077370656,25.259067357512954,17.298317345494574,13.122758070944599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810090401:0565/pct:6.610053991717775,25.262388733891324,17.314043088535932,13.119436694566229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ law for &amp; post road, which route shial! be considered
 the post read. He shall obtain, from the Postmast.  
 ers, there aceounts and vouches for their receipt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1825040701:0874/pct:2.2990726429675425,42.33885170834801,21.4258114374034,5.060467300692732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1825040701:0874/pct:2.3119526017516745,42.34276544949317,21.419371458011334,5.064381041837893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ which route shall be considered the post
 road. He shall obtain, from tbe Post­  
 masters, their accounts and vouchers fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825041901:0044/pct:4.852101712506487,40.45598269262773,17.151011935651272,7.072724246962889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825041901:0044/pct:4.850843060959792,40.44925124792013,17.153047989623865,7.075707154742097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ penses arising on the coliection of the revenue,
 and management of the General Post Office.  
 He shall prosecute offences zgainst the Pos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825072601:0533/pct:4.315253221456398,31.636795722348747,16.272100689241835,12.763639964352906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825072601:0533/pct:4.32024772749975,31.640096379179457,16.282089701328538,12.770241278014325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ ccs, shall think proper.”* The act of
 Mav Sth, 17‘U, introduces a new clause:  
 “ That every Deputy Post Master shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830042801:0023/pct:24.226464779460173,86.47710586036577,17.862628922536757,4.645574689627553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830042801:0023/pct:24.221149627029398,86.46556326748532,17.866023109550973,4.649403808506852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ ductiveness thereof, and other circumstances,
 shall think praper.” Having failed on this  
 point, they now forward their memoriai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830122801:0418/pct:4.0652863835575035,67.24030686294837,16.17047000151126,10.88534107402032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830122801:0418/pct:4.07032391315299,67.24721819061442,16.180545060702233,10.888796737853342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ Post Office on any established Host Road, to tho court­
 house ol any county which is now or herealtcr may he  
 established in any ol the Slates or Teirl&#x27;oiies ol the Uni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834070801:0077/pct:33.91363947909527,25.24501884760366,14.653872515421522,8.669897684437265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834070801:0077/pct:33.90899122807018,25.24230023691579,14.65643274853801,8.672553665015435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ established Post Road, to the court house of
 any county which is now or herealier may be  
 established in any of the States or Territo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834072201:0429/pct:19.56460277070964,28.65808236671278,13.980774667797569,12.461423858678302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834072201:0429/pct:19.569314861935727,28.65808236671278,13.976062576571483,12.468518321450109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +1065,7 @@ quired, on these resources, to provide for the
 carriage of the mail on all post r oads that are  
 or may be established by law. He is requir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834072201:0429/pct:48.346055979643765,33.44684473768224,14.178682499293187,8.619772267745025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834072201:0429/pct:48.350768070869854,33.45039196906814,14.183394590519272,8.630413961902734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1291,7 +1291,7 @@ Ontr naron. The clause is in these words: &quot;He may
 ene, betwern places designated by law for a past road.  
 awhich route shall be considered the post road.&quot; A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653042A:1853092901:0198/pct:150.65370432450553,195.5937995850116,48.24002681863895,6.310264860246552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653042A:1853092901:0198/pct:50.217901441501844,65.19793319500387,16.080008939546317,2.103421620082184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1315,7 +1315,7 @@ by lnw for a post road, whicn route shall be
 contidered the post road. He shall obtain  
 from the postmaster* their accounts and vouch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654061:1855091801:0135/pct:65.98133797248141,26.005968920448698,16.14739838684169,4.919213749099517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654061:1855091801:0135/pct:65.98924561126047,26.005968920448698,16.15135220623122,4.929504991252444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1335,7 +1335,7 @@ are, or may he, established by law, and as often as iio, fo
 having regard to the productiveness thereof, and other iH  
 circumstances, shall think proper. He may direct the route c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859031101:0244/pct:21.116504854368934,22.048040455120102,16.601941747572816,3.173198482932996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859031101:0244/pct:21.127292340884573,22.05646860514117,16.596548004314993,3.173198482932996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1365,7 +1365,7 @@ regard to the productiveness thereof, and other circum­
 stances, shall think proper.&quot; The consideration thus  
 early announced by Congress for the Government of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743336:1859122801:1081/pct:97.08886618998979,159.72534627678465,45.760980592441264,7.363561027583757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743336:1859122801:1081/pct:32.36295539666326,53.24178209226155,15.253660197480421,2.4545203425279194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1448,7 +1448,7 @@ can be safely restored.
 when be deems it advisable, contract for the  
 transportation of the mails to and. from, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:00200293745:1873022101:0173/pct:41.57319952774498,87.63810715030228,19.244391971664697,12.89347508859704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:00200293745:1873022101:0173/pct:31.19279598464718,65.7285803627267,14.437555358724534,9.672712111736502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

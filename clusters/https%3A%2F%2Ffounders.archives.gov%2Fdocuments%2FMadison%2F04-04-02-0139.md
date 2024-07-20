@@ -112,7 +112,7 @@ dormitories adjoining his Pavilion, or either of
 them: he paying the rent anti making the repairs  
 required ofa&#x27;udents occupying dormitories
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0319/pct:64.18124006359301,55.588870232669706,15.023847376788554,3.010314224034541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0319/pct:64.17103799078048,55.582204101211175,15.026757802151222,3.0139505136507174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ sign the cause thereof, shall be communica­
 ted to tho parent or guardian, and laid before  
 the Visitors at their next meeting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:29.936305732484076,51.520674336484795,15.627314471930084,10.63902494589361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:29.93187203791469,51.51480637813212,15.629936808846761,10.641609719058467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ assign the cause thereof, shill be communicated to
 the parent or guardian, and laid before the Visi­  
 tors at their next meeting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.703988467083136,44.672919672919676,15.21704308825885,7.852332852332852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.69827033952595,44.66754839485392,15.219944480034167,7.855396577291492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ Each student who may reside without the pre­
 (S.&#x27;hvta, shali he rc&lt;^uiicdj..o rcgja(lci his jilacc of rest  
 Ueuec .walh t he Pi nr lac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.72496984318456,48.52043753598158,16.14897466827503,3.4312032239493377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.71641791044776,48.51485148514851,16.151565405296747,3.4346457901604115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ sion; underpaid of such punishment as the Facul­
 ty rmy choo e to direct.  
 No sti-pendcd student
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.66465621230398,72.35463442717328,15.937876960193003,4.525043177892919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.65611337253128,72.34630439788165,15.940499522589075,4.5283598127254585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ under such accommodations and arrmge-nrnis as
 the Librarian shall prescribe, on his owu lesoonsi­  
 hilit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0054/pct:12.446096654275093,7.059496567505721,32.66914498141264,83.47826086956522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0054/pct:12.444246208742195,7.0586889371925405,32.66924373079592,83.47252412004728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ Etch student who may re-ide without the pit-,
 cincta, shah be required to register his place of  
 resilience w iih the Proctor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:19.50439648281375,58.48138233146751,15.059952038369305,3.4558286687758577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:19.501278772378516,58.47426694245042,15.062872975277067,3.459463843938841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ No keeper of any of the hotel* of the University
 -hall require or receive more than one hundred dol­  
 lars for dieting sny student
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:19.50439648281375,83.07374056948163,15.411670663469225,10.245801898272086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:19.501278772378516,83.06363304538264,15.41453537936914,10.248610942125968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ the table UDiJer such accommodations ai d arrange­
 ments as the Librarian shall prescribe, on Lis own  
 responsibility
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827020601:0362/pct:4.5469100224143455,4.121212121212121,31.348062760166506,91.2969696969697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827020601:0362/pct:4.546182167440372,4.120712640892013,31.348380556000212,91.28994465317335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

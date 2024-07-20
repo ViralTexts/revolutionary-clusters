@@ -188,7 +188,7 @@ this, my dear friend. being the order of iy
 march, I will move gently down the stream  
 of hife until 1 sleep with my fathers.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829021201:0232/pct:18.59504132231405,21.892305879580533,17.468069120961683,14.56344998232591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829021201:0232/pct:18.607563235662408,21.896233455088176,17.474330077635862,14.567377557833549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ smile—can have very little conception.
 * down the stream of life until I sleep with  
 ! my fathers.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829032401:0221/pct:74.18872758326216,83.82006920415225,20.239111870196414,20.207612456747405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829032401:0221/pct:57.506066622545774,64.96710526315789,15.684976836532098,15.66075514874142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ being the order of my march, I will move
 gently down the stream of life until I sleep  
 with my fathers.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1829032601:0038/pct:6.086592763020288,49.84722222222222,17.54862999372516,16.63888888888889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1829032601:0038/pct:6.085319949811794,49.840299958339116,17.550188205771644,16.640049993056518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1341,7 +1341,7 @@ little flock.
 “With every sentiment of esteem, ad­  
 miration, and love, lam, &amp;c.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215622:1837073101:0556/pct:15.824452847484817,26.584305650880804,15.457774722126732,26.973232669869596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215622:1837073101:0556/pct:15.822639780018331,26.582278481012658,15.459822792545065,26.973717655431855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1567,7 +1567,7 @@ friend, i* the order of try march. I
 will move gently down the stream of  
 life, until I sleep with my father*. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1837090701:0739/pct:14.858705560619873,67.15055022243034,12.929200850805227,16.249121985483495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1837090701:0739/pct:14.856448427768495,67.14268992157322,12.93230036963897,16.251121776112996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1603,7 +1603,7 @@ j flock.
 admiration, and love, I am, k«.&quot;  
 John ffouwrd Pome, has become th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1837090701:0739/pct:14.691583105439076,83.25918988527278,13.096323305986022,13.287286349800983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1837090701:0739/pct:14.68935135956251,83.24944398923095,13.099397437844955,13.289632837800928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1869,7 +1869,7 @@ dear friend, being the order fr my march, 1
 will move gently down the stream of life, until  
 1 sleep with my lathers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026141:1846071101:0680/pct:1.96347928529354,73.15671432576394,15.000981739642647,12.391365292963274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026141:1846071101:0680/pct:1.9765691471954971,73.15671432576394,15.000981739642647,12.4053826745164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2269,7 +2269,7 @@ my dear friend, being the order for my march,
 I will move gently down the stream of life un­  
 til I sleep with mv fathers.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870060201:0194/pct:21.0867802108678,31.078403622983302,14.983779399837793,10.600056609114068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870060201:0194/pct:21.082505574700992,31.07400594311589,14.985809852017027,10.602094240837696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2339,7 +2339,7 @@ On the eve of Christmas I entered these doors an
 older man by nine years than when I left them  
 I am just beginning to expertence that case and freedo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122501:0724/pct:180.70692194403534,177.03110842645725,48.379970544919,10.163092721232257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122501:0724/pct:45.20169460305765,44.25777710661431,12.101676183459201,2.540773180308064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2360,7 +2360,7 @@ determined to be pieased with all, and this, my dear
 friend, being the order for my march, I will move gently  
 down the stream of it7e until I sleep with my fathers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122501:0724/pct:180.78055964653902,198.97311990335245,48.60088365243004,8.637873754152825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122501:0724/pct:45.220114201510405,49.743279975838114,12.156934978817462,2.159468438538206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2560,7 +2560,7 @@ dear friend, being the order of my march,
 I will move gently down the stream of  
 life until I sleep with my fathers. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521687:1891090301:0389/pct:55.30551905387648,44.72676644622346,12.844940867279895,13.99234249912983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521687:1891090301:0389/pct:55.30551905387648,44.72676644622346,12.855891371003066,13.996209923811733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2615,7 +2615,7 @@ tho order of my march, I will move gently
 down the stream of life until I sleep with my  
 fathers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016373:00211103358:1891100401:0799/pct:160.9719058466211,302.2653721682848,63.85725132877752,48.70550161812298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016373:00211103358:1891100401:0799/pct:40.250617049553824,75.5663430420712,15.967343838997532,12.176375404530745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2691,7 +2691,7 @@ imm actti lure, all. and the courtier,
 vho i uh .v - w. : king the countenance  
 of bis prim . in hopes of catching 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1891110701:0420/pct:27.299241687730895,46.48967551622419,15.18568928640871,10.575221238938052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1891110701:0420/pct:21.167369901547115,36.0373404457992,11.774161141249749,8.192036578395886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2844,7 +2844,7 @@ The wish of Washington when old “to
 move gently down the stream of life until  
 I sleep with my fathers,” was granted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_clabbert_ver01:data:sn85040451:00414215142:1899021501:0231/pct:44.460876579725735,63.8133530843297,12.75880613068029,30.896201460162946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_clabbert_ver01:data:sn85040451:00414215142:1899021501:0231/pct:34.45748819116421,49.45742790761241,9.895109752709086,23.944239442394423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2875,7 +2875,7 @@ The wish of AVashington Avhen old , &quot;to
 move gently down the stream of life&quot;&quot;until  
 I sleep with my fathers , &quot; was granted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn95069779:00206538983:1899021601:0177/pct:34.133765468473776,73.44722134345672,13.361814967589865,9.12158599599283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn95069779:00206538983:1899021601:0177/pct:34.133765468473776,73.4551302330486,13.361814967589865,9.12158599599283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2906,7 +2906,7 @@ The wish of Washington when old “to
 move gently down the stream of life until  
 I sleep with my fathers,” was granted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1899021601:0887/pct:47.11004075583549,78.83388619545802,14.449796220822527,9.2625669813728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1899021601:0887/pct:47.11004075583549,78.84026537381985,14.45905891070767,9.268946159734627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2937,7 +2937,7 @@ The wish of Washington when old ‘“to
 move gently down the stream of life until  
 I sleep with my fathers,” was granted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1899021601:0422/pct:33.598673300165835,74.81634527089072,14.660033167495854,9.515610651974288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1899021601:0422/pct:33.609729132117195,74.81634527089072,14.654505251520177,9.527089072543617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2965,7 +2965,7 @@ Vernon were busy days: for, every
 morning, rain or shine, he would  
 mount his horse and make the circui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1899021601:0827/pct:66.22345703512602,27.377363661277062,18.178209962294105,10.04384762948753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1899021601:0827/pct:51.3226699477084,21.221238938053098,14.098226186814314,7.794690265486726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2997,7 +2997,7 @@ The wish of Washington when old &quot;to
 move gently down the stream of life until  
 I sleep with my fathers,&quot; was granted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624669:1899021701:0267/pct:36.87315634218289,77.70319568072377,15.044247787610619,10.097767401138187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624669:1899021701:0267/pct:34.1195731263643,71.87978043732565,13.915837982051904,9.349410600197967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3046,7 +3046,7 @@ The wish of Washington when old &quot;to
 move gently down the stream of life until  
 I sleep with my fathers,&quot; wns granted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_flycatcher_ver01:data:sn85033162:00200298512:1899022401:0246/pct:13.719806763285025,106.33194278903457,23.309178743961354,13.662097735399286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_flycatcher_ver01:data:sn85033162:00200298512:1899022401:0246/pct:10.294828419526342,79.75268176400476,17.49637506041566,10.250297973778308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3115,7 +3115,7 @@ none, I am determined to be pleased
 mu&#x27; h, J will move gently down the  
 ‘ ii irn of life until I sleep with my fa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182288:1899121401:1185/pct:2.6528258362168398,64.15990197580028,12.437524029219531,10.598866595190687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182288:1899121401:1185/pct:2.6656414199666796,64.15990197580028,12.437524029219531,10.61418287639761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

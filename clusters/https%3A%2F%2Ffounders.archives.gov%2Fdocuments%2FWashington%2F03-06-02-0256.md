@@ -117,7 +117,7 @@ up to the noble cause in which they are engaged,
 and to support the honers and liberties of their  
 country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn82014371:00212470211:1864112101:0780/pct:129.5647258338044,297.45671641791046,51.27190503109101,6.782089552238806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn82014371:00212470211:1864112101:0780/pct:32.39575971731449,74.36417910447761,12.819787985865725,1.6955223880597015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ country, having fallen yesterday while gloriously fighting.
 Captain,&quot; gown is to take command. oy  
 I trus that the simple facts I have narrated ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743646:1868121001:0803/pct:240.9166115155526,232.3756778585439,46.790205162144275,9.011191877235492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743646:1868121001:0803/pct:80.30553717185087,77.4585592861813,15.596735054048091,3.0037306257451637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ turiously fight ng, Captain lirown is to take the come
 of the party lately led by Colonel Knowlton.&quot;  
 Finding the Americans too strongly entrenche
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743981:1876091501:0813/pct:58.92652593683521,56.05763688760807,49.124529536900674,19.677233429394814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743981:1876091501:0813/pct:19.642175312278404,18.685878962536023,16.37484317896689,6.5590778097982705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ The gallant and brave Col. Knowlron, who would
  terdar, while sloriously fightins Capt naow is to take  
 command of the party lately led by cok Ksowaro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887052901:1050/pct:2.157164869029276,147.52078842008007,59.55315870570108,25.315676008623345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887052901:1050/pct:0.5394990366088632,36.88019710502002,14.89402697495183,6.328919002155836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -41,7 +41,7 @@ MARCH 11, 1852.
 the staff of each regiment, and one to the com­  
 missioned officers of the companies, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1852031101:0396/pct:58.34522111269615,16.9978752655918,31.758202567760343,107.01162354705662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1852031101:0396/pct:43.774527292186946,12.748406449193851,23.831608990367464,80.2649668791401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ hind those of the soldiers, and only
 generals were accorded the conven­  
 ience of having a whole house to them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539288:1896021901:0144/pct:22.624309392265193,50.93389296956978,14.502762430939226,13.29485834207765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539288:1896021901:0144/pct:16.97982868195634,38.20566631689402,10.886985355070461,9.968520461699896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ hind those of the soldiers, and only
 generals were accorded the conven­  
 ience of having a whole house to them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1896022001:0091/pct:30.838323353293415,56.27090301003344,21.074517631403857,29.682274247491637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1896022001:0091/pct:20.56914628057913,37.517916865742954,14.062239973373273,19.792164357381747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ hind those of the soldiers, and only
 generals were accorded the conven­  
 ience of having a whole house to them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1896022001:0048/pct:31.72147001934236,84.42514630923164,21.615087040618956,35.170851425335094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1896022001:0048/pct:23.796856106408708,63.31885973192373,16.2273276904474,26.39229752690202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ hind those of tho soldiers, and only
 generals were accorded tho conven­  
 ience of having a whole house to them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473728:1896022101:0056/pct:28.290676416819014,53.063783106096224,18.875685557586838,26.07741733270647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473728:1896022101:0056/pct:21.234285714285715,39.80567309199185,14.17142857142857,19.558062999529856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ hind those of the soldiers, and only
 generals were accorded the conven­  
 ience of having a whole bouse to them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_ancientbison_ver01:data:2018270203:00279527367:1896022101:0193/pct:19.839307787391842,35.509786736780605,13.988463123197363,19.529652351738243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_ancientbison_ver01:data:2018270203:00279527367:1896022101:0193/pct:19.83522142121524,35.50460055498758,13.990731204943357,19.530451292536878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ renerals were accorded the conven
   
 ience of having a whole house to them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896022201:0192/pct:19.281750924784216,64.98457470251212,18.603575832305797,26.465403261348612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896022201:0192/pct:12.860447185813415,43.32304980167475,12.41326137239784,17.65094755398854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -114,7 +114,7 @@ III,, from any express power by fair and sale rule3 oi mU
 jted tatlcm &quot;  
 The weight of the precedent of the bank of 1791, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120601:1203/pct:51.270718232044196,82.07795463090613,15.390686661404894,6.366712620629151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120601:1203/pct:51.28124177847935,82.08630989681247,15.380163114969745,6.370890253582321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ The experiment of that bank satisfied the country
 that it ought not to be continued, and at the end of  
 twenty years Congress refused to recharter it I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848120601:0657/pct:246.38339279922153,52.752345427828644,49.059357768407395,25.61320221544026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848120601:0657/pct:82.12779759974052,17.584115142609548,16.3531192561358,8.537734071813421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ greatly weakened by the development of these facts.
 The experiment of that bank satisfied the country  
 that it ought not to bo continued, and at the ead o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848120601:0293/pct:45.72781065088758,20.875869211421808,18.650887573964496,9.838733540464565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848120601:0293/pct:35.44481809844084,16.178718850328696,14.466523998777133,7.636447026448555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ ment of these facts. 1 he experiment of that
 bank satisfied the country that it ought r.ot ?«.  
 continued, and at the end o( twenty y ear.-t o- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848120701:0440/pct:84.00803904679874,10.757756983043693,12.556225476122117,10.321536621402942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848120701:0440/pct:84.0,10.757000140706346,12.558213716108453,10.323155574316402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ greatly weakened by the devrelopment of there facts
 The eaperiment of that hant satiafled the sountry  
 hat it ought not to be continned, and at the end o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022356:00200290136:1848120701:0853/pct:174.206672091131,104.25280567040755,49.064279902359644,32.07324276432369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022356:00200290136:1848120701:0853/pct:43.56939356939357,26.06320141760189,12.271062271062272,8.018310691080922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ ought not to be continued, and at the end o
 twenty years Congress refused to recharter it  
 It would have been fortunate lor the countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1848120701:0304/pct:60.02267145286227,17.653478854024556,12.601549215945589,11.70532060027285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1848120701:0304/pct:60.01133358519078,17.651070795253034,12.603891197582168,11.707134088118947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ rules of interpretation.&quot;
 Tiie weight of the precede: tf ih ? hankof 1791,  
 and the sanction of he grctt nun&quot; of Washing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848120801:0417/pct:44.694000602954475,26.30706203667577,13.280072354537232,6.232930159968786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848120801:0417/pct:44.70404984423676,26.310313434776955,13.270023113254949,6.23618155806997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ een so eften inoked in its supor b
 of these facts should satisty the country that it ought not  
 to be continued. It would have been fortunate for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848120901:0443/pct:199.1296779808529,210.23130170521696,59.7911227154047,33.564072260678714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848120901:0443/pct:49.78783592644979,52.55782542630424,14.94940702861495,8.391018065169678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ Fr.-.nly wearkened by the development of these facts,
 Uhe experiment of that bank satsticd the countrey  
 that it ought not to be continued, and at the end o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848120901:0908/pct:44.257234726688104,9.119401476089374,12.37299035369775,8.260034374684055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848120901:0908/pct:44.257234726688104,9.122771543153709,12.37727759914255,8.26340444174839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ been so often invoked-in its support, are greatly weaken­
 ed by the development of these facts. The experiment  
 of that bank satisfied the conntry that it ought not to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848121101:0153/pct:257.24824787901144,125.04307869040781,59.40612320177056,39.93394600804135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848121101:0153/pct:64.3002028397566,31.256281407035175,14.848792181449383,9.982053122756641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ isfied the people that it ought not to be
 continued, und at the end of twenty years  
 coligress relused to charter it. It woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1848121201:0487/pct:204.45246690734055,256.99296796517467,58.48375451263538,60.49782341779216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1848121201:0487/pct:51.136192626034614,64.24824199129367,14.627539503386005,15.12445585444804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ gent to the President at his request, to be ready in case
 his judgment should finally decide gﬁni&#x27;niq_t&#x27; _the bill for  
 incorporating &amp; national bank, the bill being then be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848121201:0412/pct:52.3363117035301,86.6902237926973,14.618426834627215,2.1843880501124318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848121201:0412/pct:52.34119427762316,86.6902237926973,14.623309408720278,2.1950958346718066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ myself that it results from any express power by fair
 and safe rules of interpretation&quot;  
 The weight of the precedent of the bank of 1791 , an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1848121301:0418/pct:6.834433443344334,70.41150957368032,20.33828382838284,9.27747804929652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1848121301:0418/pct:5.130674002751031,52.80863218026023,15.254470426409904,6.960753200042315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ cause I cannot satisfy myself that it results
 frrm any expressed power by fair and safe  
 rules of interpretation.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027054:1848121301:0110/pct:25.53041018387553,26.344012099546266,16.44271570014144,13.653238003574867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027054:1848121301:0110/pct:19.151193633952253,19.7580090746597,12.343059239610964,10.243365873779734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ that it results from any express power by fair and safe i
 rules of interpretation.”  
 The weight of the precedent of lln* hank of 17‘)1, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848121301:0202/pct:49.0104772991851,54.18862846248739,14.551804423748544,6.885723898172031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848121301:0202/pct:49.0033464280518,54.18255214173581,14.554537077452835,6.888689541750766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ from tiny express power by fair and safe rules of
 interpretation.&quot;  
 The weight of tho precedent of the bank o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848121401:1001/pct:90.47805642633229,71.4170475934391,18.025078369905955,10.459801021780049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848121401:1001/pct:67.89494315954528,53.56278569507932,13.524108192865542,7.851573003495563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1103,7 +1103,7 @@ sults from any expressed power by fair and safe
 rules of interpretation.&quot;  
 The weight of the precedent of ihe Bank o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848121501:0645/pct:7.951945080091533,96.25952121871599,19.41266209000763,13.343307943416757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848121501:0645/pct:5.969864581346557,72.19804134929271,14.571810032424185,10.01088139281828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1133,7 +1133,7 @@ cause I can not satisfy myself that it results from
 any express power, by fair and safe rules of inler­  
 pretat 01.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151337:1848121501:0306/pct:57.707115357193786,8.887213185392653,12.776272636532154,7.152860066788754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151337:1848121501:0306/pct:57.71186843481154,8.890803978598873,12.776272636532154,7.1564508599949725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ rr-it . ...
   
 meveight ot the precedent of the bank of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1848121601:0204/pct:69.13813116656993,71.08919766920664,20.60359837492745,11.160914388166741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1848121601:0204/pct:51.87980839018726,53.31689825190497,15.459428073740746,8.370685791125055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1237,7 +1237,7 @@ the development of these facts. The experi­
 ment of that bank satisfied the country that  
 it ought not to be continued, and at the en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848121601:1260/pct:20.712510356255176,197.69836462749848,62.13753106876553,51.84736523319201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848121601:1260/pct:5.179200331468821,49.42459115687462,15.537600994406464,12.961841308298002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1363,7 +1363,7 @@ not to be continued, and at the end of
 twenty years Congress refused to rechar.­  
 ter it. It would have been fortunate fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848121901:0502/pct:244.60093896713616,185.77179785994278,39.827856025039125,51.647420277571776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848121901:0502/pct:81.56555772994129,61.92393261998093,13.281148075668623,17.215806759190592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1441,7 +1441,7 @@ o often invoked in its support, are great­
 ly weakened by the development of these  
 sisted the temporary pressure of the time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848122001:1174/pct:95.48929663608563,173.37395681547224,59.862385321100916,76.51344548946881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848122001:1174/pct:23.88602027156244,43.34348920386806,14.974182444061961,19.128361372367202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1491,7 +1491,7 @@ riilen of interpretation.&quot;
 The weight of tho precedent of the  
 flank of 1791. and tho sanction of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1848122101:0051/pct:6.496840442338073,108.90443631737955,19.253554502369667,17.220543806646525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1848122101:0051/pct:4.878530515504641,81.68230243281921,14.438080189610902,12.927333439338527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1547,7 +1547,7 @@ Washington, which has been so often invoked
 :u its support by the developments of these  
 lactu should satisfy the country that it ough
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769751:1848122201:0046/pct:82.38272921108742,18.708263772954925,14.458955223880597,11.81135225375626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769751:1848122201:0046/pct:78.27151116175044,17.77961341483562,13.735915938726421,11.224186353874112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1579,7 +1579,7 @@ power, by fair and sate rule* of interpretation.&quot;
   
 The weight of the precedent of the Bank of 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1848122301:0637/pct:78.78148092293772,4.8501664816870145,15.005278238576384,8.49056603773585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1848122301:0637/pct:78.78148092293772,4.857565667776544,15.005278238576384,8.49056603773585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1615,7 +1615,7 @@ and safe rules of interpretation.&quot;
 The weight of the precedent of the  
 Bank of 1791, and the sanction of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848122601:0173/pct:4.259233055044573,19.293325855300058,12.890901372576765,11.5086932136848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848122601:0173/pct:4.259233055044573,19.300803888577303,12.900334889863686,11.5086932136848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1654,7 +1654,7 @@ by the developeraent of these facts. The
 experiment of that bank satisfied the country  
 that it ought not to be continued, and at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1848122601:0768/pct:57.306590257879655,70.0531416067521,22.3018147086915,20.975304782744608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1848122601:0768/pct:43.00047778308648,52.54767114723351,16.74629718107979,15.723663644889028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1685,7 +1685,7 @@ cannot satisfy myse&#x27;f thai it results fiom any ex­
 pressed power by fair and safe rules of interpre­  
 tation.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1848122701:0326/pct:45.0775561886673,66.1144401362942,13.010446343779677,6.356479849606392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1848122701:0326/pct:45.08283211986916,66.12227313672503,13.02099820618339,6.364312850037207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

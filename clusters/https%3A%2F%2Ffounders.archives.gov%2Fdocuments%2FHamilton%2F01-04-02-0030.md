@@ -1796,7 +1796,7 @@ the whole and New York more than her
 quota In about three years after the  
 beginning of the war about $1otni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_elkweed_ver01:data:sn92070464:00280773797:1893060301:0273/pct:115.86466165413533,57.45242394777053,103.15789473684211,331.3793582442006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_elkweed_ver01:data:sn92070464:00280773797:1893060301:0273/pct:28.977059044753666,14.363105986942632,25.799172621286196,82.84483956105015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1837,7 +1837,7 @@ Island, and Haryland, about one-half; Virginia, about
 three-firths: Pennsylvania, nearly the whole, and  
 New York, more than her quo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895051901:0823/pct:2.097902097902098,17.972070431086824,116.00621600621601,378.6126290224651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895051901:0823/pct:0.5246793626117373,4.493017607771706,29.01282549553051,94.65315725561628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1873,7 +1873,7 @@ not pay a shilling in the voluntary consumption of
 articles on which a duty is pald rather than a penny  
 imposed immediately on his touse and lan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895051901:0823/pct:66.58896658896658,99.87856709168184,51.437451437451436,40.43715846994535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895051901:0823/pct:16.653711620676255,24.96964177292046,12.864360668480373,10.109289617486338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

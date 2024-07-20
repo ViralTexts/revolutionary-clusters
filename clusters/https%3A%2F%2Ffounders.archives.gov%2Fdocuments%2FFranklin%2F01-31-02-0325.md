@@ -620,7 +620,7 @@ and nl?o the laugh of the company.
 Similar cases in tae alVurs of life  
 have often I II under my ob?et vation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1829081201:0917/pct:63.43242750319168,64.87023614683189,18.40233448841875,13.783025485153145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1829081201:0917/pct:63.444586297039336,64.87413295923935,18.40233448841875,13.786922297560595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -725,7 +725,7 @@ was obliged to bear the heat I strove to
 quit, and also the laugh of the company.  
 Similar cases in the affairs of life have ofte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829112501:0919/pct:25.936145053212456,89.1782990358325,18.939692550256208,22.693912793207655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829112501:0919/pct:20.11099231200041,69.11409346072345,14.673387302072197,17.595449644968216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1281,7 +1281,7 @@ my bovs; turn quic the team. passenger in a little sloop descending the ele o o 
 A e e o e o  ee e e o e e o oa e i oee an e eo o o e  e e    o  
 The word i e o to  ea e e e i e e e o in e ao i in e i o a aen a a e o e ee 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296229:1855090801:0354/pct:14.564220183486238,63.315768139440614,202.69495412844037,12.606404539927038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296229:1855090801:0354/pct:3.6415770609319,15.828942034860153,50.681003584229394,3.1516011349817594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1319,7 +1319,7 @@ laugh of the company. Similar
 cases in al-  
 fairs of life have since fallen under iny obser
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296229:1855090801:0354/pct:17.259174311926607,54.235914065666805,98.91055045871559,317.8759627077422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296229:1855090801:0354/pct:4.315412186379929,13.558978516416701,24.731182795698924,79.46899067693555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1513,7 +1513,7 @@ en to quit, and also the laugh of the
 company. Similar cases in affairs of  
 life have since fallen under my observ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629229:1870042601:0451/pct:269.2667706708268,138.65323435843055,50.78003120124805,76.67020148462355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629229:1870042601:0451/pct:67.35609756097561,34.66330858960764,12.702439024390245,19.167550371155887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1600,7 +1600,7 @@ I found the greater! part of mi meadow
 «»&#x27; *y eve I was ap m my hare* m  
 hunch aad castas tee the Sat a«mi an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291074:1877111701:0714/pct:20.586993243243242,57.04823614110871,14.168074324324325,26.13390928725702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291074:1877111701:0714/pct:20.597550675675677,57.05543556515479,14.168074324324325,26.137508999280058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1680,7 +1680,7 @@ length learn what they now Improperly
 callhumanitj.&quot; .  
 Notice that Dr. Frnnleltn speaks of tru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109166:1898062101:0018/pct:77.49807840122982,104.13783363931648,16.69869331283628,7.64016381866968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109166:1898062101:0018/pct:58.16189194385695,78.11043637904251,12.536050759469333,5.733653438779833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1736,7 +1736,7 @@ of old aje, and our lives lengthened at
 pleasure even beyond the antedeluv-  
 lan standard. lhe era or mind 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_folio_ver01:data:sn92053934:00212471951:1899012001:0207/pct:43.130630630630634,37.71557817359344,16.087516087516086,10.093299406276506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_folio_ver01:data:sn92053934:00212471951:1899012001:0207/pct:32.36240746700998,28.286683630195082,12.069520437721275,7.577042691546509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1760,7 +1760,7 @@ standard.&#x27; &quot;
 SAYS IT ISN&#x27;T MURPHY.  
 Justice &quot;Walls Describe Hla Vialt t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109191:1899021001:0338/pct:59.99234303215926,46.76429567642957,16.86447166921899,6.206415620641562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109191:1899021001:0338/pct:45.02968779927217,35.07670850767085,12.660409883164144,4.658298465829847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -59,7 +59,7 @@ An honest zeal and an unremitting attention to
 the interests of the United States, are all I dare  
 promise.&quot;--Sparks, vol x, p.2--where will als
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848083001:1110/pct:156.95817490494298,304.4143298000805,57.71863117870723,35.42197772708976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848083001:1110/pct:39.247005134055904,76.10358245002013,14.432401597261837,8.85549443177244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ tion which, if well administered, bids
 fair to make America a happy nation.  
 With very sincere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:00199919751:1893031601:0463/pct:68.92523364485982,57.44622924040294,14.853137516688918,20.9229512659951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:00199919751:1893031601:0463/pct:68.9363595905652,57.45076685724658,14.853137516688918,20.927488882838734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ ica a happy nation. Wills very sincere regard
 and esteem, I am, dear sir, your most cbed&#x27;t  
 h&#x27;ble serv&#x27;t. (i. \Vasi; usoto.v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762313:1894022101:0042/pct:84.36830835117773,18.820608317815022,10.591335859001813,10.924891371818745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762313:1894022101:0042/pct:84.37654422665129,18.8268156424581,10.599571734475374,10.924891371818745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ In a peaceable manner a coustitntion whicl
 If well administered, bids fair to make Amer­  
 ica a happy nation. With very sincere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896489:1894022201:0242/pct:66.66666666666667,84.99935342040605,9.84996738421396,10.203025992499677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896489:1894022201:0242/pct:66.65579651067993,84.98836307214896,9.852437632480026,10.204939229376778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ ica a happy nation. With very sincere regard
 and esteem, I am, dear air, your most obed&#x27;t  
 h&#x27;bleserv&#x27;u , O. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023607:1894022301:0234/pct:97.12752525252525,89.20719520319787,20.533459595959595,19.95336442371752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023607:1894022301:0234/pct:64.7773918534891,59.47146346879858,13.688032838648564,13.302242949145015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ ta a happy nation. With very sincere regard
 ind estevia I an dear ar yowment sbact  
 e seryt. O. WASHInOTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524123:1894032701:0271/pct:172.12043561819345,213.42262478319523,30.22421524663677,32.90614761996531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524123:1894032701:0271/pct:57.366128619011015,71.1340206185567,10.073447775215646,10.967659055143399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

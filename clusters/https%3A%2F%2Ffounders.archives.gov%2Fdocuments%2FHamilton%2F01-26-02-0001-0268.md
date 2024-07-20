@@ -355,7 +355,7 @@ Psja m cnga red in &amp; smv&#x27;si !&quot; tra usactim}?
 M. 1! \\ &#x27;I! you tmsshsi-y all your &#x27;fzz&#x27;si ?sizcncc  
 :.ociu} !) ()&quot;; scountc. numct, -- sifz-s barbarous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804071801:0305/pct:27.00495771361913,1.554543017957652,46.3400408282298,95.05047797730724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804071801:0305/pct:27.0010205569325,1.5544041450777202,46.33814453030082,95.04496456434995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ V/Þh great respect, I remain
 Your friend and servant,  
 BENJAMIN M &#x27;ORE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804071801:0305/pct:50.33537474482356,38.81890467256321,22.717993584135318,25.551684088269454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804071801:0305/pct:50.32803615687418,38.81543684116491,22.719541235359866,25.552379250789112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ With great refpect, I remain v
 Your friend and ferv&#x27;e,  
 BENJAMIN MOORE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804071901:0526/pct:2.59126158501986,7.006077284715055,42.197843767732174,86.56117417727324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804071901:0526/pct:2.59126158501986,7.006077284715055,42.20414854044512,86.56881856056263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ With great reSpect, I remain
 Your Sriend and Servant.  
 BENJA..-IN MOORE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072001:0002/pct:25.152985861996203,1.675977653631285,36.31567841316733,94.41340782122904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072001:0002/pct:25.152985861996203,1.675977653631285,36.32271224590279,94.4315756006722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ V, Ith great refpeS, 1 rena&#x27;n
 You: trie&#x27;ll and ilrv ii’t.  
 liLNjAMIN MOOkE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072101:0095/pct:23.59591539022611,1.5305482373604316,35.35740335521517,94.17889850708819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072101:0095/pct:23.59161349134002,1.5303562468640242,35.35703433606806,94.1712660980097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ aad hi* country of a great Statefman and a real patriot.
 with great refped, I remain, your fraffiM and fervour.  
 BENIAMIN MOORE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804072301:0156/pct:5.109649122807017,42.43582741671218,45.96491228070175,24.52211906062261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804072301:0156/pct:5.108528831396623,42.430034129692835,45.96031572023679,24.522184300341298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1139,7 +1139,7 @@ m-m of your si.,* p-.-.i &gt; ||ave yrn n |iv,.}r
 fauth f’r(1’s ir.cvr.y thrdugh Christ, with  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0220/pct:78.41974363879855,44.521353010317355,20.030610292710925,51.48230377432415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0220/pct:78.40474368783474,44.515539305301644,20.03315480744708,51.47993383825194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ WVh great respect,
 I remain vour friend and servant,  
 BENJAMIN MOORE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0221/pct:5.17175572519084,2.7370350969093766,17.862595419847327,30.73598742797276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0221/pct:5.17076893722572,2.736676705512636,17.865547287413342,30.736327528261533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1276,7 +1276,7 @@ fs&#x27;m engaged fas a similar transaction t
 and will you employ all your influence in  
 &gt;ici|ty tm ri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804072701:0308/pct:75.27964205816555,47.94092093831451,22.14765100671141,47.36750651607298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804072701:0308/pct:75.25859658932066,47.93259207783183,22.148448420464074,47.363620569840165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1353,7 +1353,7 @@ With great respect, I remain,
 Tour friend ami servant,  
 BKNJAMIN&#x27; MOORE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804072701:0309/pct:4.00219298245614,3.8942976356050067,21.82017543859649,48.417941585535466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804072701:0309/pct:4.001096190737188,3.893620719624544,21.821046862154017,48.41387102381366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1765,7 +1765,7 @@ I‘mtgiltbe to affard conlolation to 2 tellow
 .wﬁ&#x27; of the gospel, 1o hold up the law  
 “of ‘Gad: 5 parsgiouit to elf otber law ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:76.17642491070042,63.75768049155146,16.493244292592017,31.048387096774192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:76.18677848527204,63.75768049155146,16.482890718020396,31.05478750640041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1832,7 +1832,7 @@ o hold sl thar precicus faih which is the
 ‘oniy {surce of tiue coufelation in che latt  
 extzemity of pature. Le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0536/pct:8.181679155834225,6.4729574223245105,16.883315491665392,30.55235903337169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0536/pct:8.18677677524596,6.479350466692239,16.888413111077128,30.55235903337169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1851,7 +1851,7 @@ fidence in the mercy of (God, through
 the interceflion of the Redeemer of  
 sinners. This might be given hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0536/pct:43.538767395626245,22.497123130034524,16.149258296375592,3.270042194092827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0536/pct:43.54386501503798,22.500319652218387,16.159453535199063,3.2796317606444187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1982,7 +1982,7 @@ fidence in the mercy of God through the interces­
 sion of the Redeemer&quot; declaring that he wished  
 no personal harm to his antagonist, and that in hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1856051401:0080/pct:43.333333333333336,52.82479665860629,20.014367816091955,4.8252363156737745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1856051401:0080/pct:32.50467021123725,39.62409320729831,15.016525362839488,3.6161793800835347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2002,7 +2002,7 @@ fidence in the mercy of God through the interces
 sion of the Radecmer&quot; declaring that he wished  
 no personal harm to his antagonist, and that in hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022755:1856051401:0159/pct:43.4825543120474,55.148600320631395,19.963791968400262,4.747811074115181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022755:1856051401:0159/pct:32.63088574250906,41.361450240473545,14.981890023049061,3.5639412997903563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

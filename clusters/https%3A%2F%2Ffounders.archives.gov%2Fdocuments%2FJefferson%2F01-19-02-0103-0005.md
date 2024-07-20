@@ -45,7 +45,7 @@ fifth article of the original Constitution.
 ARTICLE THE FIRST.  
 After the firft enumeration, required by the firft article of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092301:0001/pct:30.6282722513089,79.75600457491421,25.82897033158813,9.797941288600839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092301:0001/pct:30.64281559045957,79.77030118185284,25.836242001163466,9.788410217308426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -76,7 +76,7 @@ latures of the several States, pursuant to the fifth
 article of the original Constitution.  
 Article i. After the firft enumeration re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789100301:0003/pct:4.722304722304722,40.0876858558902,25.482625482625483,13.000381242851697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789100301:0003/pct:4.737154737154738,40.097216927182615,25.467775467775468,13.014677849790317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ States, pursuant to the fifth article of
 the original Conititution.  
 Arrticie 1. After the firft enume
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789101501:0473/pct:50.265060240963855,71.56926057474976,21.06024096385542,15.56344849854698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789101501:0473/pct:50.28112449799197,71.56926057474976,21.06024096385542,15.584974706705413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ bill te establish offices, for the purpose
 of granting lands, within the territo­  
 ries of the United States ; and afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791031201:0764/pct:8.349467570183931,34.060162342829855,20.571151984511133,13.942384211363999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791031201:0764/pct:8.349467570183931,34.060162342829855,20.57921910293643,13.963605496312802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ was read a third time and pafled.
 The House again resolved itfelf into  
 a committee of the whole, on the bil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791031901:0767/pct:71.2172647914646,77.24808673469387,20.46556741028128,12.755102040816327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791031901:0767/pct:71.2172647914646,77.25871598639456,20.46556741028128,12.755102040816327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ enrolled bill regulating the number of
 Representatives to be chosen by the  
 States of Kentucky and Vermont ; als
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791032601:0772/pct:51.58045977011494,55.46232047765048,20.593869731800766,5.793125705986768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791032601:0772/pct:51.58844189016603,55.47307837125491,20.593869731800766,5.793125705986768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ Speaker of the Houle of Representatives.
 ;’OHN ADAMS, Vice-President of the  
 United States and President of the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791040201:0775/pct:5.119131870724227,19.3084050297816,20.146260910592122,18.58041032428855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791040201:0775/pct:5.126995360541008,19.3084050297816,20.13839742077534,18.60247076990955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ chosen by the states of Kentucky and Vermont, 88
 An ast to incorporate the fubferibers to the bank of the  
 United States, ibid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791042001:0004/pct:9.265075376884422,71.25,27.701005025125628,3.0576923076923075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791042001:0004/pct:9.272927135678392,71.25,27.708856783919597,3.0673076923076925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ An a&amp; supplementary to the ad,
 intitled, ** An a&amp; to iuncorporate the  
 subscribers to the bank of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791061601:0819/pct:6.914765906362545,46.25990491283677,20.912364945978393,9.683042789223455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791061601:0819/pct:6.922769107643057,46.27047015319599,20.90436174469788,9.683042789223455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ mitted to the Legislatures of the several States,
 pursuant to the fifth article of the original Consti­  
 tution, were ratified (the first ten) as follows 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854092301:0280/pct:2.6452793020965246,67.66578831796222,15.67468692838047,10.408432147562582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854092301:0280/pct:2.6546597251536044,67.6731078904992,15.67937713990901,10.408432147562582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -723,7 +723,7 @@ Article of the original Constitution.
 ARRTICLE I.  
 Congress shall make no law respectin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862010201:0151/pct:56.56656785668256,234.7904078549849,41.70640546462173,39.879154078549846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862010201:0151/pct:18.855522618894188,78.26346928499497,13.90213515487391,13.293051359516616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -769,7 +769,7 @@ ARTICLE 1.
   
 Congress shall make no law respecting a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1862091201:0627/pct:50.953766569673455,65.243757431629,14.500484966052376,16.884661117717002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1862091201:0627/pct:50.959155081366525,65.2516845025763,14.500484966052376,16.892588188664288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ cites that
 &quot;Congress shall make no law respecting  
 asestabllshment of religion, or prohibit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102184:1899051401:0579/pct:27.03396524486572,88.46499102333932,15.936018957345972,8.36325553560742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102184:1899051401:0579/pct:20.292432325627345,66.35248354278875,11.954159257063822,6.268701376421305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +887,7 @@ in Addition to and Amendment of the Con­
 stitution, provides that  
 Rerettetitativcs riiall Iw apportioned among th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899122201:0691/pct:28.44626168224299,14.511076303423584,17.5963785046729,9.465204743790558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899122201:0691/pct:18.971812472615746,9.677780264041173,11.72776398422667,6.310136495860371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

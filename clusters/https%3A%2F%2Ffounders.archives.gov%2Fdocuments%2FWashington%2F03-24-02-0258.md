@@ -212,7 +212,7 @@ that we should be able to keep it together,
 nor could it have been done but for the great  
 exertions of the county magistrates. Noth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847100501:0382/pct:173.5474006116208,219.85457783053866,52.293577981651374,20.83395162487016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847100501:0382/pct:43.3868501529052,54.963644457634665,13.073394495412844,5.20848790621754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ frequent desertion in all armies; and so it
 happened with us, though it did not excite a  
 single mutiny.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847100501:0382/pct:173.70030581039757,240.51046149280307,52.44648318042813,22.733343225997924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847100501:0382/pct:43.42507645259939,60.12761537320077,13.111620795107033,5.683335806499481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

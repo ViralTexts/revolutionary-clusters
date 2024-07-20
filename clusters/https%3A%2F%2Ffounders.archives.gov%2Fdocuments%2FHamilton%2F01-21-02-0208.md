@@ -123,7 +123,7 @@ manumission of slaves and protecting such
 of them as have been or may be liberated;  
 which was read and referred to a commi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819010501:0073/pct:27.540500736377027,55.05668934240363,17.55031909671085,13.09145880574452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819010501:0073/pct:27.533742331288344,55.048367593712214,17.552147239263803,13.093258766626361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ or may be liberated, and that petition was
 referred to another committee.  
 SAVING OF FUEL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819011501:0600/pct:62.53307461633445,75.56066075921672,17.040042335508907,4.594683295044306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819011501:0600/pct:62.52204585537919,75.55239553708161,17.04291593180482,4.597826879603296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ eminent statesmen, joint authors of the Federalist,
 and memhers of the cabinet ol Yt uM. niton; and  
 Whereas, Tho recorded miutiti s r.f the said soc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1853111901:0809/pct:86.03672532517216,74.61034231609614,18.420045906656465,5.477057538237436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1853111901:0809/pct:64.57416267942584,55.96504005826657,13.818181818181818,4.107793153678077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ and in Europe. The New York &#x27;Society for
 Promoting the Manumission of Slaves’ was or­  
 ganized Jan. 25.1785, and John Jay was th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171876:1872112101:1112/pct:20.725776281331836,10.535665482372233,13.973063973063972,1.3118338343809783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171876:1872112101:1112/pct:16.07229148545472,8.172126517932787,10.819561225475983,1.0166619598983337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -59,7 +59,7 @@ sl e tnviesitiy fall into a cocvultieo, b &gt;J h­
 &#x27; pul h*r a sisjt, a«d eihIcav&gt;,re J to tooths h&lt; r  
 , bj every method in my power, though yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1834070301:0108/pct:44.28288169200265,69.80110627280216,14.441506939854593,14.263857832176063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1834070301:0108/pct:44.27556583512308,69.79289244528124,14.444628008150229,14.26610182788107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ iu her love of the man. But a virtuous mind
 cannot long esteem a base one, and time will  
 make her despise, if it cannot make her hate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn85025007:0041421650A:1834092901:0305/pct:2.2282241728561782,13.885563801771607,17.319378798109387,30.5242997366531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn85025007:0041421650A:1834092901:0305/pct:2.2278481012658227,13.883901855176541,17.32208157524613,30.524635946539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ a virtuous mind cannot long esteem a base
 one, and time will make her despise, if it can­  
 not make her hate.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834102801:0488/pct:22.608192213055435,7.739770513098073,14.488348530901723,29.19463087248322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834102801:0488/pct:22.61301683794085,7.739770513098073,14.493173155787138,29.201847441726205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ love for him. But o virtuous mind cannot long es­
 teemn a base one, and time will make her dispise, if  
 it carnot make her hate,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834112601:0170/pct:0.7657247037374658,6.177859391395593,19.90884229717411,30.010493179433368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834112601:0170/pct:0.777879064114251,6.177859391395593,19.896687936797328,30.010493179433368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ that I wished myself her brother, to have a
 right to become her defender.&quot;  
 e o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1843071501:0539/pct:92.72478736330498,205.9258416742493,38.13791008505468,59.50864422202002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1843071501:0539/pct:30.908262454434993,68.64194722474977,12.712636695018226,19.836214740673338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ every circumstance that iuteii ?l our *ym alhy , am
 Iter sufferings were so el queiil that I wished myself  
 her brother, lo have a tight to become her defender.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661320:1843072601:0089/pct:81.96085346499736,6.227848101265823,17.72174219714336,17.037974683544302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661320:1843072601:0089/pct:81.96085346499736,6.227848101265823,17.727620055251865,17.046413502109704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ thy; and her sufferings were so eloquent that I wished
 myself her brother, to have a right to become her  
 defende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843091301:0740/pct:148.89128426239606,219.73922491850777,44.59501077918078,57.20149704213449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843091301:0740/pct:49.62278675904542,73.23756639304683,14.862714908904286,19.06486399484951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ and she upbraided him with&#x27; beins in a
   
 plot to murder her child. One moment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87090169:00295878174:1843100701:0308/pct:87.8140703517588,115.24013314312886,19.676507537688444,15.394674274845459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87090169:00295878174:1843100701:0308/pct:65.87089681168526,86.43604374702805,14.76362494110256,11.54303376129339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ too, expresses his conviction that she had no know­
 ledge of Arnold&#x27;s plan till his announcement to her  
 that he must banish himself from his country for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:0029587238A:1848102701:0408/pct:192.41140215716487,100.13469827586206,44.20261941448382,13.375538793103448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:0029587238A:1848102701:0408/pct:64.13713405238829,33.37823275862069,14.734206471494607,4.458512931034483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1053,7 +1053,7 @@ viction that she had no knowledge of Arnold&#x27;s
 plan till his announcement to her that lie must  
 banish himself from his country forever. The 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848110901:0348/pct:71.07644906605046,5.989072569347156,13.065665318698247,4.86130568786775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848110901:0348/pct:71.06960623856745,5.98865307837781,13.067616571997048,4.863299946300577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1076,7 +1076,7 @@ and conduct.&quot; He, too, expresses his conviction that ?be
 had no knowledge of Arnold&#x27;s plnn till his announcement to  
 her that Le must banish himself from his country fotever. &#x27;Hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848111101:0393/pct:80.86770981507824,12.821954785738388,15.88904694167852,4.588910133843212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848111101:0393/pct:80.87245139876718,12.829453004911334,15.898530109056425,4.585161024256739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ ness of innocence--all the tondetness of a
 wife, and all the fondness of a mother,  
 showed themseives in her appearance an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022356:00200290136:1848111501:0847/pct:83.1275720164609,268.4146341463415,56.79012345679013,17.865853658536587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022356:00200290136:1848111501:0847/pct:20.790448744339233,67.10365853658537,14.203375874845616,4.466463414634147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1151,7 +1151,7 @@ Arnold&#x27;s plan till his announcement to
 her that he must banish himself from his  
 country forever. The opinions of othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848112201:1158/pct:156.0338201383551,339.0556804655469,116.75634127594158,31.741833090860997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848112201:1158/pct:39.023452518262204,84.76392011638673,29.200307574009997,7.935458272715249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,7 +1187,7 @@ Catharine Livingston, says, &quot;All the world
 are cursing Arnold, and pitying his wife?  
 Ao S tt te 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1848120201:0751/pct:278.3901377810007,212.4204272174282,51.776649746192895,50.70024048663177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1848120201:0751/pct:69.63540721929984,53.10510680435705,12.951206239796845,12.675060121657943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1213,7 +1213,7 @@ all the fondness of a mother, showed them-
 selves in her appearance and conduct.&quot; He  
 too, expresses his conviction that she had n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848120201:1251/pct:67.70491803278688,192.9383239884831,60.08196721311475,25.034096075162903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848120201:1251/pct:16.936641377896247,48.23458099712077,15.029731392249333,6.258524018790726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1231,7 +1231,7 @@ All the sweetness of beauty
   
 all the loveliness of innocence—all the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848121201:0164/pct:57.3483338080319,56.26543902986751,12.617487895186557,1.0330114529530654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848121201:0164/pct:57.353080793696,56.272924620106295,12.631728852178867,1.0404970431918557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1272,7 +1272,7 @@ edge ol Arnolds plan, till his announce-1, i
 ,, &#x27;. ,. iturwards, and I have never seen her  
 ment that he must banish himse from rvr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848121201:0164/pct:57.31985189404728,53.4022007635302,25.761891199088577,7.3433640242533125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848121201:0164/pct:57.31985189404728,53.4022007635302,25.776132156080887,7.3433640242533125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1569,7 +1569,7 @@ loveliness of innosence, all the tenderness of a
 wife, and all the fondness of a mother, showed  
 themselves in her appearance and conduct.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684964:1859092201:0184/pct:20.279329608938546,40.0089605734767,14.064245810055866,9.027777777777779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684964:1859092201:0184/pct:20.276497695852534,40.00447978497032,14.066936647581809,9.030499869339605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1631,7 @@ and all the fondness of a mother, showed
 themselves in her appearance and conduct.&quot;  
 Once safe in the British ranks, Arnol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861053101:0091/pct:164.06109613656784,202.51610923596195,38.78406708595388,42.04766288227473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861053101:0091/pct:54.67884413834406,67.49846594395582,12.926086739531867,14.014454216949614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1656,7 +1656,7 @@ itsolf. All tho loveliness of beauty, all
 tho sweetness of innocence, all tho tender­  
 ness of a mother, showed thcmsclvos i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033622:00296026462:1862050701:0607/pct:51.99798522498321,121.76567269312045,20.26527871054399,9.826250293496125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033622:00296026462:1862050701:0607/pct:34.68256634195499,81.18102841042499,13.520322472287537,6.550833528997417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1698,7 +1698,7 @@ pearance and conduct.” She had been
 only one year a mother and not two a  
 bride. Toward evening she became mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1876042701:0287/pct:60.763888888888886,85.20245398773007,11.127645502645503,7.840490797546012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1876042701:0287/pct:60.75384361051413,85.19200098147466,11.129938832864937,7.842596000490738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

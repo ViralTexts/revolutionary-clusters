@@ -305,7 +305,7 @@ They give their whole form and colour to our lives.
 According to their quality, they aid morals, they  
 •tiiiply them, or they totally destroy them, of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804090101:0084/pct:2.087090955939191,74.02362979980309,21.566606544704975,6.957663275352806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804090101:0084/pct:2.0865533230293662,74.01148482362592,21.56749098402885,6.960623461853979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ they supply them or totally destroy them ”
 So imporlant is it, that those who furnish the  
 root should give it a depth and stability
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826021501:0131/pct:24.874220165023143,79.99719848718308,19.541155162004426,8.8667880655554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826021501:0131/pct:19.2825578372758,62.00470417948254,15.154665973485834,6.875339243712683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ tally destroy them.
 TI M E.  
 There are few words much oftener in ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn84020048:0029587823A:1844122101:0167/pct:260.4559748427673,168.67739678096572,62.57861635220126,70.25892232330301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn84020048:0029587823A:1844122101:0167/pct:65.13959889893826,42.16934919524143,15.650806134486826,17.564730580825753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ A Western editor, very sorrowfully, informs
 his readers that his wife has presented him  
 with twins?that the office devil has got th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016312:00415661563:1845060701:0024/pct:6.136282554405994,86.66350261034647,18.069925080271137,9.551495016611296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016312:00415661563:1845060701:0024/pct:6.136282554405994,86.67141275114697,18.081817100725413,9.551495016611296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ ant clor to our lives. According to their
 equality, they aid morals; they supply them or  
 they totally destroy them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845072901:0564/pct:11.89953335163327,125.72724256166353,38.059291792478724,33.02731998672713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845072901:0564/pct:3.9659667901742828,41.90444591904446,12.684689629934587,11.00788911007889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ and color to our lives. Accordi. gto their
 quality, they ai I morals; they supply them  
 or they totally- destroy them ”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1845080501:0385/pct:41.75205657382018,77.67953418158292,12.902294703420408,9.478110847530731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1845080501:0385/pct:41.75205657382018,77.68672273740205,12.90710540241497,9.478110847530731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -893,7 +893,7 @@ and color to our lives. According to their
 quality, they aid morals; they supply  
 them, or they totally destroy them 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157315:1845081401:0031/pct:42.366741417974815,38.881797293847335,12.195963429360013,5.884605565483788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157315:1845081401:0031/pct:42.35943428768541,38.87683471601787,12.198171783373578,5.887045309508615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1001,7 +1001,7 @@ our lives. Acconding to their qriality, they
 ald morls, they supply them, or they totally  
 destroy the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846051301:0382/pct:15.797979797979798,206.60499139414802,38.397306397306394,22.43975903614458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846051301:0382/pct:5.26528413681659,68.86092287834785,12.797378579764791,7.479115126743394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1061,7 +1061,7 @@ morals ; they supply them or they totally destroy
 them.”  
 &#x27;IF3 Two vessels cleared at this port, this fore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021203:00517172091:1847022001:0425/pct:12.093541202672606,62.14569160997733,23.719376391982184,9.665532879818594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021203:00517172091:1847022001:0425/pct:9.378056498475347,48.16943691879622,18.399401645474946,7.490664128285861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1122,7 +1122,7 @@ bands to their wives.
 A Vera Cruz correspondent of the last Diario  
 of Havana declares that, the killed and woun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003399:00415660947:1847060101:0117/pct:33.71374227294341,73.33636157165569,15.929624346172135,14.98977969566205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003399:00415660947:1847060101:0117/pct:33.71374227294341,73.34393216746157,15.929624346172135,14.993564993564993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1322,7 +1322,7 @@ quality, they aid morals, they supply them,
 or they totally destroy them.  
 Good.—On a certain occasion the coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624293:1858060301:0248/pct:79.384661117717,51.977215467192465,14.625445897740784,8.084127505750903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624293:1858060301:0248/pct:79.39456995640111,51.977215467192465,14.630400317082838,8.091430240625114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1403,7 +1403,7 @@ According to their quality, they aid morals,
 they supply them, or they totally destroy  
 them.” Burke.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1858082801:0141/pct:57.117290748898675,78.63687841037785,12.816629955947137,10.820549778647173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1858082801:0141/pct:57.10942876806607,78.62878319950586,12.819454003211746,10.822867339235467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1428,7 +1428,7 @@ whole form and color. According to their
 quality, they aid morals, they supply them, or  
 they totally destroy them.&quot;-Burles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858082901:0201/pct:140.59184812953657,218.68838405486497,38.13512004466779,14.95927989712816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858082901:0201/pct:35.162686775590004,54.67209601371624,9.537774053903085,3.73981997428204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1454,7 +1454,7 @@ they supply them, or they totally destroy them.”
 Burke.  
 The Tartars pull a man by the ear when the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1858083101:0131/pct:43.87851095282892,86.92546291944731,12.767101196075796,5.808816618103205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1858083101:0131/pct:43.87261488847084,86.9172932330827,12.769864731702947,5.81140350877193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1513,7 +1513,7 @@ they aid morals, they supply them, or they
 totally destroy them.  
 SoilabSe A’ew loir’s Presents
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624499:1859010101:0101/pct:39.24121257206621,79.02008260931491,15.901060070671377,12.191995442244695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624499:1859010101:0101/pct:30.41702700105698,61.240709397306645,12.323436148746037,9.456177790860254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1594,7 +1594,7 @@ steady, uniform, insensible operation, like
 that of the air we breathe. They give out­  
 lives their whole form and color. Accor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1859041901:0427/pct:57.7120822622108,110.72201189832342,16.934447300771208,7.368848025959978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1859041901:0427/pct:43.30493489792638,83.04488912925906,12.714997588812087,5.530016224986479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1627,7 +1627,7 @@ by a constant, steady, uniform, insensible oper­
 ation, like that of the air wc breathe. They  
 give our whole lives their form and color. Ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1859063001:0230/pct:79.44453161776244,79.74683544303798,14.639887023379885,4.994868286007526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1859063001:0230/pct:79.44453161776244,79.75443798228608,14.650347821538784,4.994868286007526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1756,7 +1756,7 @@ our lives. According to their quality,
 aid morala, thoy supply them or they totally  
 destroy them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862103101:0829/pct:20.533728687916977,350.1748251748252,99.4810971089696,33.44988344988345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862103101:0829/pct:5.134383688600556,87.5437062937063,24.874884151992585,8.362470862470863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1807,7 +1807,7 @@ cording to the quality they aid
 morals; they supply them or they  
 totally destroy them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022799:no_reel:1863071801:0318/pct:30.303030303030305,24.497213472255876,97.56293089626423,345.8929004119215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022799:no_reel:1863071801:0318/pct:7.575757575757576,6.124303368063969,24.39073272406606,86.47322510298038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1834,7 +1834,7 @@ and color to our lives. According to the
 quality, they ald morals--they supply them,  
 or they totally destroy them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:0027955419A:1864010201:0007/pct:332.8623334679047,361.9804400977995,51.493742430359305,23.431132844335778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:0027955419A:1864010201:0007/pct:83.21558336697618,90.49511002444987,12.873435607589826,5.8577832110839445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1880,7 +1880,7 @@ purity, exalt or debase, barbarize or define,
 by a constant, steady, uniform, insensible  
 operation, like that of the air we breathe in.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528372:1867041901:0177/pct:14.614278869190224,127.99009200283086,32.42293563328542,17.61028544468035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528372:1867041901:0177/pct:4.871426289730075,42.663364000943616,10.807645211095139,5.870095148226783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1907,7 +1907,7 @@ purify, exalt or debas
 They give their whole form and colors to  
 lives. According to their quality, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524007:1867060701:0959/pct:238.93154713282144,247.39905420152783,43.53863747753635,39.29913908087789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524007:1867060701:0959/pct:79.63083959490362,82.45635305528613,14.51050854840466,13.098124797930812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2030,7 +2030,7 @@ ing.
   
 The WAshINGTON PATRiOT, SAYS: &quot;Un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293046:1871092201:0331/pct:58.03623611922852,188.786534743546,37.93103448275862,22.01751393153645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293046:1871092201:0331/pct:14.51117930732135,47.1966336858865,9.484144381119393,5.504378482884112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2060,7 +2060,7 @@ little to say about either their cour- 1
 age or their honesty. The sun has no *  
 need to boast of its brightness nor th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn84026857:00295862142:1871112301:0020/pct:4.379350348027843,84.31534413373232,18.314965197215777,10.90702713858219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn84026857:00295862142:1871112301:0020/pct:4.389017788089713,84.31534413373232,18.314965197215777,10.913906373611255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2112,7 +2112,7 @@ our i’ es. According to their quality they
 aid r. .rals; they supply them or they to­  
 tally leslrov them.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769337:1872022901:0337/pct:71.73682817050569,77.8561209891682,10.81546200688377,4.731248722665032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769337:1872022901:0337/pct:71.73682817050569,77.8561209891682,10.819874680081194,4.731248722665032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2138,7 +2138,7 @@ quality they aid morale; ^?I,e|X&lt; ffapty
 them, or they totally destioy tnem*  
 FJJIIE members of the Democratic Party o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067790:00294558755:1872052201:0080/pct:80.8944374209861,22.960649594003748,16.48230088495575,10.693316677076828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067790:00294558755:1872052201:0080/pct:80.8944374209861,22.964813658130335,16.48756847871892,10.697480741203414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2204,7 +2204,7 @@ steady, uniform, insensible operation,
 like that of the air we breathe in.&quot;  
 Miss Kate Fox, one of the Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1873021301:0024/pct:129.41616766467067,195.50707700298662,48.80239520958084,45.240877808076874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1873021301:0024/pct:32.35404191616767,48.876769250746655,12.20059880239521,11.310219452019219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2270,7 +2270,7 @@ in the country, and will pay liberally
 for business secured. The principal  
 features of the company are its grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1873081501:0770/pct:50.76284796573876,62.28577666193647,14.681477516059957,16.613906778735945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1873081501:0770/pct:38.09077520417726,46.71979041589346,11.018878029187308,12.45497216461085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2304,7 +2304,7 @@ BurkE.
   
 ThE CLOUD
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873082101:0594/pct:69.9021207177814,56.649892163910856,85.97063621533442,330.9273903666427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873082101:0594/pct:17.486227300550908,14.162473040977714,21.505815139767396,82.73184759166068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2335,7 +2335,7 @@ The cold-blooded manner in which
 our city contemporaries destroyed  
 the New State movement, indicate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033435:00212470466:1873083001:0379/pct:109.51749734888654,101.91119249256123,12.11558854718982,10.952162966353857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033435:00212470466:1873083001:0379/pct:82.16653407584195,76.43625543602656,9.095730575444179,8.216983291371022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2406,7 +2406,7 @@ Kissrno the baby may result in de-
 forming the nose and bringing on near­  
 sightedness. The safest plan is not t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553962:1878112601:0497/pct:61.216582719876016,347.8622987229317,44.033320418442464,32.05163797890061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553962:1878112601:0497/pct:15.301181483633547,86.95350451075642,11.00619794693008,8.011797362942401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2435,7 +2435,7 @@ bur lives. According to thelr qual­
 ity, they aid morals, they supply  
 them, or they totally destroy them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1878112701:0012/pct:228.03625377643505,337.9756901056458,40.120845921450154,28.581165511757355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1878112701:0012/pct:57.03491008009672,84.49392252641145,10.034758954208856,7.145291377939339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2460,7 +2460,7 @@ whole form and color to our lives. According
 to their quality, they aid morals, they supply  
 them, or they totally destroy them.&quot; C.A.S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471549:1878122101:0114/pct:89.79907264296754,315.8204956463496,58.65533230293663,27.11319490957803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471549:1878122101:0114/pct:22.449768160741886,78.9551239115874,14.663833075734157,6.778298727394508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2600,7 +2600,7 @@ in the moulding of tfeeir characters.
 The message I would bring home to  
 you, one and all, is this: Never fright
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537966:1886012001:0025/pct:34.82712319570326,7.599954694755918,14.971466935213158,13.172499716842225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537966:1886012001:0025/pct:34.82712319570326,7.6037301317627515,14.977061653798813,13.168724279835391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2639,7 +2639,7 @@ in the moulding of their characters.
 The message I would bring home to  
 you, one and all, is this: Never fright
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478714:1886012101:0950/pct:80.53504021007714,83.33932207449995,13.934022648941408,14.432866211522338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478714:1886012101:0950/pct:70.47391096218286,72.92576419213974,12.197223551938727,12.62882096069869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2680,7 +2680,7 @@ lives. According to their quality they aid
 mortals, they supply laws, or they totally  
 destrov them.?Eamimd Burke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861939:1886021101:0329/pct:84.2409892133649,85.01503964998632,15.680084188371481,12.432777322030809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861939:1886021101:0329/pct:84.24537402437954,85.02111627624343,15.688853810400772,12.43581563515936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2707,7 +2707,7 @@ According to their quality they aid
 mortals, they supply laws, or they  
 totally destroy them.?Edmund Burke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kingjulius_ver01:data:sn93067668:00202193961:1886021601:0339/pct:34.28305977082688,81.4200777498285,17.621554660885725,7.797850445918134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kingjulius_ver01:data:sn93067668:00202193961:1886021601:0339/pct:34.2933828842779,81.4277002820337,17.611231547434706,7.797850445918134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2750,7 +2750,7 @@ on their return voyage. Before go­
 ing a mile, however, the water began  
 to soften the clay, and the huge lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177295:1887051201:0474/pct:55.182072829131656,17.935615738375063,30.602240896358545,103.43638221768012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177295:1887051201:0474/pct:42.77508932205689,13.906672826876115,23.716702093980373,80.15642531846083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2777,7 +2777,7 @@ ding to their quality, they aid morals, i
 they supply them, or they totaly destroy  
 them.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861940:1887072001:0186/pct:42.717274678111586,91.67957714389865,14.87392703862661,5.8780643397430055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861940:1887072001:0186/pct:42.726216022889844,91.68565266259607,14.878397711015737,5.875026580394302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2810,7 +2810,7 @@ sullied by his inordinate love of mak- j
 ing money. It belittles him.&quot; To j  
 make money and not to love it, to ge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287277:1887072001:0482/pct:17.765095729013254,63.54291178579967,16.91826215022091,10.494860148218981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287277:1887072001:0482/pct:17.777368679430534,63.54291178579967,16.912125675012273,10.506813291895769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2842,7 +2842,7 @@ As the pleasure the ear finds in
 rhyme is said to arise from its recurrence  
 at mens ired perio is from the gratifle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_james_ver01:data:sn94057006:00415620457:1888020401:0549/pct:56.988352745424294,163.0982182300103,50.582362728785355,32.63142394345457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_james_ver01:data:sn94057006:00415620457:1888020401:0549/pct:14.250052007489078,40.774554557502576,12.648221343873518,8.157855985863643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2871,7 +2871,7 @@ whole form and color to our lives. Ac­
 cording to their quality, they aid morals;  
 hey destroy them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:0051415000A:1888020401:1026/pct:30.88969586926918,35.59743954480797,12.21062187925556,6.614509246088193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:0051415000A:1888020401:1026/pct:30.90671811166591,35.59743954480797,12.19927371765774,6.614509246088193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3004,7 +3004,7 @@ whole even of human love, or the burden
 of human sorrow. What then?  
 Shall men be like the caged eagle tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1889051501:0273/pct:56.22163092815777,69.15670299439213,16.168414462357177,13.099142947836208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1889051501:0273/pct:56.22684822872646,69.16022995802913,16.168414462357177,13.106196875110218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3040,7 +3040,7 @@ and color to our lives according to
 their quality they aid morals, they sup­  
 ply them or totally destroy them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1892030301:0039/pct:9.329590488771466,78.11577461173148,14.597093791281374,7.6370170709793355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1892030301:0039/pct:7.004791012720965,58.5932486202028,10.953246324136792,5.7245539725324095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3137,7 +3137,7 @@ destroy them.
 Sam Jones speaks of the Prohi­  
 bition party to which he belongs a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192233:1894062701:0317/pct:2.883934890304317,73.11859443631039,12.101910828025478,10.366032210834554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192233:1894062701:0317/pct:2.883934890304317,73.1259150805271,12.106334041047417,10.3696925329429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3167,7 +3167,7 @@ to their q lality they aid morals,
 they supply them or they totally de­  
 stroy thom. ? Burke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84037217:00271764856:1896011601:0232/pct:26.803990154165046,58.7729937335759,12.112968001036403,8.065494238932686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84037217:00271764856:1896011601:0232/pct:26.808308502828517,58.7729937335759,12.112968001036403,8.07223232935786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3265,7 +3265,7 @@ ing to their quality they aid morals
 they support them or they totally de­  
 stroy them Burk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn86090270:0020653624A:1897121501:0513/pct:12.574850299401197,94.66900995899239,21.61676646706587,11.50165983206405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn86090270:0020653624A:1897121501:0513/pct:9.436788496105452,71.00175746924428,16.23726782504494,8.645772310095685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3294,7 +3294,7 @@ lives. According to their quality they
 aid morals, they supply them, or they  
 totally destroy them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_electabuzz_ver01:data:sn89051214:00414212670:1898031601:0473/pct:25.628461866212184,71.8368442238025,17.809970174691095,10.559506239098349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_electabuzz_ver01:data:sn89051214:00414212670:1898031601:0473/pct:25.623003194888177,71.82720686879527,17.81150159744409,10.56144352025758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

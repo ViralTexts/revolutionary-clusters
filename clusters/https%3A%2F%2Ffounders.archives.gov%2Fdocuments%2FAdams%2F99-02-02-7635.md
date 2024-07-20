@@ -893,7 +893,7 @@ NY. Yet you will have seen that they
 have dragged me out into the arena of  
 the newspapers.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823090201:0138/pct:27.770340621746243,28.921323602919124,16.123754276364718,6.308107567729681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823090201:0138/pct:27.78025682978829,28.921323602919124,16.118796172343696,6.314772234996168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,7 +993,7 @@ And films, slow gathering, dim the sight,
 And clouds obscure the mental light,  
 ’Tis nature’s precious boon to die
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825041601:0186/pct:34.51544369995097,30.289679480118956,13.907501225690472,7.5558982266769465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825041601:0186/pct:34.509803921568626,30.2863436123348,13.910675381263616,7.558737151248164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1442,7 +1442,7 @@ is arisen around us whom we know not, is
 death an evil?  
 When one by one our ties are torn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1850031901:0747/pct:94.69142259414225,155.24384980578333,37.42154811715481,50.88476478204575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1850031901:0747/pct:31.57619359058208,51.74794993526111,12.47874427730543,16.961588260681918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1466,7 +1466,7 @@ spirits, and as much of life as you think
 worth having.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1850031901:0747/pct:132.6621338912134,39.71730686232197,37.18619246861925,13.757013379369875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1850031901:0747/pct:44.2380640941792,13.239102287440655,12.400261608894702,4.585671126456625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1658,7 +1658,7 @@ spirits, and as much life as you think worth
 having.  
 &quot;THOMAS JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1852111001:0261/pct:71.92004845548152,46.2453531598513,10.878255602665051,23.475836431226767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1852111001:0261/pct:71.92408641227539,46.251548946716234,10.882293559458914,23.475836431226767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1707,7 +1707,7 @@ the horn*, and theTuik by the tail. Go! bless
 you, and give you health, strength, good spirits,  
 and us much ol life as you think worth having
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853072701:0088/pct:55.892691951896396,9.079558854130541,12.553191489361701,11.375459526947354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853072701:0088/pct:55.887521968365554,9.0789291163823,12.555113618845004,11.376982475609193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1791,7 +1791,7 @@ bless you, nnd give you health, strength, good
 spirits, and as much of life ns you think worth  
 having. Thomas Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:0051717211A:1853072801:0570/pct:46.82034976152623,92.97748831941101,17.945151033386328,15.616593515503327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:0051717211A:1853072801:0570/pct:36.28523024795934,72.05661826560842,13.917552235741054,12.110017921802422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1831,7 +1831,7 @@ God bless you, and give you health, strength,
 good spirits, and as much of life as you think  
 worth having. &quot;ThoMAs J EFEERsON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853072901:1205/pct:19.743336623889437,247.1042471042471,69.75320829220138,67.33876733876734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853072901:1205/pct:4.934859849980261,61.76722905347441,17.43485984998026,16.83228481555619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1879,7 +1879,7 @@ the mechanism of the Universe. The cocks
   
 eoe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021842:1853080201:0207/pct:17.687074829931973,35.276721588508664,361.84807256235825,29.235318969159273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021842:1853080201:0207/pct:4.423649510846448,8.819180397127166,90.50049624273359,7.308829742289818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1918,7 +1918,7 @@ oedine so the florios
   
 thonks to any ather conrse than this wouldenr la is advertised in the Lexingtonorns and the Turk by the tail. God bless
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021842:1853080201:0207/pct:17.970521541950113,65.4837346852556,179.47845804988663,25.34854245880862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021842:1853080201:0207/pct:4.494541329930526,16.3709336713139,44.888699844038,6.337135614702155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1971,7 +1971,7 @@ God bless you, and give you health strength,
 good spirits, and as much of life as you think  
 worth having.&quot; &quot;THoMas JErFERsON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1853080401:0212/pct:226.05531295487629,78.5036292573981,49.34497816593886,55.55555555555556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1853080401:0212/pct:56.524112829845315,19.625907314349526,12.338489535941765,13.88888888888889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2012,7 +2012,7 @@ health, strength, good spirits, and as much of life as
 you think worth having.  
 &quot; THOMAS JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853080501:0588/pct:86.71586715867159,85.31912813996676,20.426989984185557,17.349232724073893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853080501:0588/pct:65.0540469285526,63.991789658879874,15.33087266016346,13.009480989150621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2054,7 +2054,7 @@ strength, good spirits, and as much of life as you
 think worth having.  
 &quot;THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853080601:0254/pct:69.31137724550898,76.34716261325704,20.104790419161677,17.870767763471626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853080601:0254/pct:52.00658879904163,57.26037195994277,15.079365079365079,13.412017167381974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2100,7 +2100,7 @@ much of life as you think worth having. &#x27;
   
 THOMAS JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1853081101:0132/pct:106.80105501130369,87.17544111318318,16.69178598342125,23.224788409123512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1853081101:0132/pct:80.15080113100848,65.38516712092957,12.535344015080113,17.41500502080046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2198,7 +2198,7 @@ bless you, and give you health, strength good
 spirits, and as much of life as you think worth  
 having nu&quot;ThoMAs JEFFERsON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853081601:0402/pct:198.76740139211137,183.5376162299239,42.80742459396752,39.21174978867287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853081601:0402/pct:66.28463658784274,61.17920540997464,14.275351806180183,13.070583262890954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2238,7 +2238,7 @@ strength, good spirits, and as much of life as you
 think worth liaving.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1853082401:0428/pct:6.143827859569649,21.481882098431583,20.4841449603624,22.04434829637642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1853082401:0428/pct:4.615602435225825,16.116819902650082,15.361744301288404,16.527852893455922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2276,7 +2276,7 @@ give you hea tb, strength, good spirits, and as
 mueli ot lite as you Hunk worth having  
 &quot; Thomas Jekkkkson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1853082601:0574/pct:94.41087613293051,56.8989156175994,17.94561933534743,16.52748348498068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1853082601:0574/pct:70.83711090964037,42.67730275458058,13.463281958295557,12.40184469649757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2320,7 +2320,7 @@ trengtli, good spirits, and as much oflife
 s you think worth having.  
 &quot; Thomas Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853090701:0394/pct:84.72949389179756,8.627222384144565,13.595113438045376,17.47303993004955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853090701:0394/pct:84.72949389179756,8.627222384144565,13.612565445026178,17.476683182745557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2361,7 +2361,7 @@ health, strength, good spirits, and as much of
 life as you think worth having.  
 Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556641:1853091701:0115/pct:54.56910005202011,63.50847661416376,15.27657360846194,12.817121558254177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556641:1853091701:0115/pct:54.58210508063118,63.50847661416376,15.27657360846194,12.823133341349044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2432,7 +2432,7 @@ health, strength, good spirits, aud as much &quot;life
 as vou think worth havin  
 Tuo: Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1853092301:0123/pct:46.42215568862275,73.46851196223581,17.739520958083833,36.41240210277867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1853092301:0123/pct:34.83078766097634,55.10138397167686,13.31236897274633,27.31466580838966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2502,7 +2502,7 @@ bless you! and give you health, strength,
 good spirits, and as much ot lite as you think  
 worth having. THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854051901:0474/pct:57.27410494411821,6.199158485273492,12.578139799204395,18.043478260869566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854051901:0474/pct:57.26868074628279,6.198723792160438,12.580105439277709,18.04455040553491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2546,7 +2546,7 @@ its, and as much of life as you think worth
 having.  
 T1IOM JXITEKSO.N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1854052901:0076/pct:55.99645704162976,61.245813797722704,12.79007971656333,15.726724715338245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1854052901:0076/pct:55.98653914275593,61.237610500937585,12.792242295430393,15.72796678274846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2585,7 +2585,7 @@ health, strength, good spirits, and as mu« h of life as
 you think worth having.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347221:1854053101:0559/pct:67.17653662643839,10.892127057343536,14.538310412573674,11.19614215326554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347221:1854053101:0559/pct:67.18121433249135,10.895621483733445,14.542988118626626,11.19614215326554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2758,7 +2758,7 @@ God bless you, and&#x27;giveyou health, strength
 good spirits and as much of life as you think  
 worth having. Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_oldenburg_ver01:data:sn96027384:00393349451:1859061701:0305/pct:70.31013094417644,53.824042706087674,12.860096485182632,18.66338158299969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_oldenburg_ver01:data:sn96027384:00393349451:1859061701:0305/pct:70.30044101433296,53.81851775816054,12.862918044836457,18.664887429001574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2799,7 +2799,7 @@ means of improving it in other parts. Let the latter
 be our office; and let us milk the cow while Russia  
 holds her by the horns, and the Turks by the tail
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475221:1859061801:1172/pct:47.608153078202996,216.96768060836501,44.55074875207987,35.78897338403042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475221:1859061801:1172/pct:15.869384359400998,72.32256020278834,14.850249584026622,11.929657794676807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3048,7 +3048,7 @@ you ami give you strength, nnd u* much
 of life as you think worth having.  
 Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688076:1875050401:1179/pct:28.710827547382248,9.752821063944117,13.304559954963407,47.59537882858678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688076:1875050401:1179/pct:28.72333771189091,9.752821063944117,13.304559954963407,47.599856707863154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3127,7 +3127,7 @@ paper; and the more because of the treach­
 erous practice some people have of publish­  
 ing one&#x27;s letters without leave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1876120801:0626/pct:133.98601398601397,101.87459599224304,39.09090909090909,34.906270200387844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1876120801:0626/pct:33.5082196572228,25.46864899806076,9.776145505421477,8.726567550096961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3167,7 +3167,7 @@ her by the horns and Turkey by
 the tail &quot;  
 Mvmcws relative to the change «
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554632:1876121301:0490/pct:6.9225335530963035,55.848278051103,14.433717918530727,19.346135534042215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554632:1876121301:0490/pct:6.9209039548022595,55.839416058394164,14.43620527306968,19.347032688035544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3264,7 +3264,7 @@ Let l!,e latter be our oul :c, and let us milk Ihe cow,
 white the Itassian holds her by ihe horns and llic  
 Tmk by the tad.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197619:1877052301:0378/pct:103.28997704667177,82.23587551756378,14.785768936495792,3.1387738747161746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197619:1877052301:0378/pct:77.51196172248804,61.68024575931615,11.10047846889952,2.3640977694670764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3311,7 +3311,7 @@ my delight. God bless you, and give you
 health, strength, good spirits, and as much  
 life as you think worth having.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1880070701:0690/pct:18.392765739634875,31.72723560636995,12.011602115679919,4.995236150809855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1880070701:0690/pct:18.38962811327192,31.72291780076211,12.01381780962129,4.997958628198149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3334,7 +3334,7 @@ a penitentiary felony.&quot; So wrote Ihomas Jefferwa
 from Monticello, to John Adams. Jeflerson is ofter  
 called the patron saint of Democracy. No end o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884101801:0164/pct:249.97604216578821,90.48587570621469,45.05670020763456,13.186440677966102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884101801:0164/pct:83.32534738859607,30.16195856873823,15.01890006921152,4.395480225988701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3355,7 +3355,7 @@ clared it a breach of trust and punishable at
 law. I think it should be made a penitentiary  
 felony.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210077:1884102701:0449/pct:5.434103685196752,10.251014579888771,18.6966479283781,4.449120697429731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210077:1884102701:0449/pct:4.216867469879518,7.944396986875825,14.490103270223752,3.4635396443270947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3393,7 +3393,7 @@ health, strength, good spirits and as
 much life as you think worth having.”  
 The death of Adams and Jefferson lef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896489:1893062901:0109/pct:45.69319114027892,59.5098422630687,9.95898277276456,6.2442967018641635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896489:1893062901:0109/pct:45.68569553805774,59.50208550573514,9.961450131233596,6.246741397288843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

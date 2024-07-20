@@ -103,7 +103,7 @@ cation of the whole people, and must be will­
 ing to bear the expense of it. * * # If  
 nations should ever be wise, instead of erect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210028:1883070501:0259/pct:103.51668169522092,81.68341294679624,18.620378719567178,4.216768242464174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210028:1883070501:0259/pct:80.22361984626136,63.30368920471469,14.447938504542279,3.2764563210076165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ whole people, and must be willing to bear the
 expense of it,I nations should  
 ever be wise instead of erecting thousands o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_kilo_ver02:data:sn84022109:00211101878:1883070501:0224/pct:280.5229936880072,251.4228322731838,44.63480613165014,21.426180113826582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_kilo_ver02:data:sn84022109:00211101878:1883070501:0224/pct:70.14656144306652,62.85570806829595,11.161217587373168,5.356545028456646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ said : “The whole people must take upon themselves
 the education of the whole people, and must be  
 willing to bear the expense of it. Statistics sho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895126:1885010901:0035/pct:72.04814673290026,24.17074877536739,13.278563240351547,1.8054583624912526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895126:1885010901:0035/pct:72.03438395415473,24.167366358802127,13.28080229226361,1.8087041701651274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ take upou themselves the education of the
 whole people, and must be willing to bear  
 the expense of it. Statistics show tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524718:1885011501:0229/pct:32.25216994061215,27.11864406779661,13.704888076747373,2.3635515471932824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524718:1885011501:0229/pct:32.24480474994291,27.114427860696516,13.707467458323817,2.3670708955223883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

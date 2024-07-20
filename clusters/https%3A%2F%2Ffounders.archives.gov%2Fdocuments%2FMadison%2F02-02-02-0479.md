@@ -87,7 +87,7 @@ CENSUS.
 Mr. Giles, referring to the census lately  
 taken, moved the following resolution: -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801122201:0627/pct:40.30861281687923,53.581549887618486,16.69028499448906,11.648587901886055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801122201:0627/pct:40.31910985146696,53.58480732271409,16.69028499448906,11.65184533698166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ taken, moved the following resolution :
 - prefentatives among f# the feverel slates, ac­  
 ~cording tothe second enumeration of the peo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801122901:0631/pct:39.78045763760049,55.01272762874486,16.86765615337044,13.442334051302135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801122901:0631/pct:39.785611214182644,55.01272762874486,16.872809729952586,13.445597545852099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ supplcm ntary to the act providing for the iu«
 demmncaiion of certain claimants of lands in  
 the Mississippi territory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815030101:0059/pct:75.12168739859383,54.244993242413074,16.92806922660898,6.364418233198181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815030101:0059/pct:75.10814708002884,54.238329238329236,16.93102619562605,6.367731367731368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ al acts impesing duties on the tonnage of ships
 and vessels and on goods, wares, and meérchan­  
 dise, imported into the United
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815042501:0277/pct:23.9442688882505,82.57375281779869,16.661878770468256,8.232872684504558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815042501:0277/pct:23.953844680647325,82.57701983076873,16.652302978071436,8.242673723414683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ part of our government.
 The amou&#x27;t appropriated by con­  
 gress for the relief of the widow of Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820052401:0051/pct:38.02944919105617,12.09744503862151,17.833121250681693,9.530600118835412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820052401:0051/pct:38.02944919105617,12.09744503862151,17.857359268011876,9.538522479698951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ eign vessels and Vessels of the United States
 ing the discriminating duties of tonnage between  
 foreign vessels and vessels of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826011701:0292/pct:21.547223540579022,5.480930678819861,14.744502452143648,1.1033821060206284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826011701:0292/pct:21.543815248339133,5.480273414078427,14.747442792365286,1.107247071991046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ public. 99
 In this novel and peculiar way the bargain was con­  
 summated, and France was released forever from thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:63.72389033942559,30.02036141511835,15.51892950391645,2.9524051921608554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:63.729329852045254,30.02884533808433,15.51892950391645,2.9481632306778653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ dise imported into the United States, as
 imposes a discriminating duty on tonnage  
 between foreign vessels and vessels of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1899012601:0398/pct:33.71218452281464,60.79486885809186,14.708340297509611,3.080975833237888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1899012601:0398/pct:33.71775586383642,60.80250448593136,14.713911638531394,3.080975833237888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

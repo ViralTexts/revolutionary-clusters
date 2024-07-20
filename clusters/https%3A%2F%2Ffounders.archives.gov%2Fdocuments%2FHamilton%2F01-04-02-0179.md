@@ -149,7 +149,7 @@ mong their numerous advamsages, is, that
 they afford too ealy an inlet to foreign cor­  
 ruption, .of which history furnifhes man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802012601:0013/pct:78.51723047739488,67.93923645812512,16.598166297818526,2.988207075754547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802012601:0013/pct:78.51723047739488,67.94256779265774,16.60343555696069,2.991538410287161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ strong. “The interfering and unneighborly rc­
 “that of foreigners and aliens.” In the con­  
 vention of Virginia, when this clause to “re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824021301:0024/pct:34.032,17.521713954834976,15.744,14.834973943254198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824021301:0024/pct:34.026555751079826,17.519685039370078,15.746813843118435,14.837115948741701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ better light than that of fori&#x27;ijjiirrs and ali­
 this clause lo “ regulate commerce between  
 the states,” was under consideration, Mr. Mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824021401:0367/pct:48.83459250924289,44.472005669737776,15.3994534640733,16.028821167021025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824021401:0367/pct:48.82674381227901,44.46675327743002,15.40233579770706,16.030864926577692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ Mr IJ.«i it;1 »&gt;i ay- in ttt£ 12 i&lt;| mini »m . *h tqn’hci
 &#x27;‘li &#x27;nli&#x27;iiii*, with Pennsylvania, or VVgui or .North  
 &quot;Carolina. I»* nperati .p comrade- h imp /•,#.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829111101:1173/pct:5.311814478219993,9.687388565315583,35.20839862112191,87.66195174135267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829111101:1173/pct:5.310982296725678,9.686237223674828,35.208104861872684,87.6554948102369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ I “we.hi re of the smaller 8tate* impend on union,&#x27; they
 “ought read.h to renounce a protciisinn, which if not  
 relinquished, would prove fatal to us duration.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829111101:1173/pct:22.422438107176433,32.30714370616902,17.8314008147916,3.2568643765600855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829111101:1173/pct:22.418925270249098,32.303304017114336,17.833829442790748,3.2604389509547578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ conformity of this language to that of the friends c
 equal re presentation in this Convention, is too appn  
 rent to need any other proof of it, than would ari
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829111201:0343/pct:4.057695355840862,81.54878048780488,17.30860675225868,14.78048780487805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829111201:0343/pct:4.057052297939778,81.53883672722839,17.311146328578975,14.782750071129538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ nentn, I leave it to the Committee to jud»e.
 “votes of the Status will be a majority of confedera­  
 [ ted America. For the words “sovereigns,” an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829111201:0343/pct:21.493105087969568,13.097560975609756,18.21207798383262,2.902439024390244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829111201:0343/pct:21.489698890649763,13.095963906840629,18.214474379292128,2.9061496565459497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ welfare of tho smaller States depend on union, they
 “ought readily to renounce a protension, which if not  
 ‘relinquished, wouid prove fatal to its duration.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829111201:0343/pct:21.493105087969568,17.963414634146343,18.25962910128388,10.951219512195122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829111201:0343/pct:21.489698890649763,17.961224240946226,18.26201796090861,10.953948705442425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ that ol tho friends of equal representation in this Con­
 vention, is too apparent to need anv other proof of it,  
 than would arise trom substituting the county of War
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829111401:0147/pct:49.80740740740741,39.630437277631124,15.466666666666667,6.3583151612533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829111401:0147/pct:49.800029625240704,39.625889373422076,15.469313188169654,6.36141075663683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ pend on union, they ought readily to renotmro a preten­
 sion, which il not relinquished,would prove fatal to its  
 duration.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829111401:0147/pct:49.86666666666667,51.21083438540113,15.422222222222222,8.837369447951337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829111401:0147/pct:49.859280106650864,51.20495753959146,15.424875327112034,8.840180552367837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1107,7 +1107,7 @@ o rest on the solid basis of the consent ok the ,
 •EOPLE.”  
 Sin li is the laniroaee. sir. addressed to the Peo­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833031601:0384/pct:64.05706332637439,60.217714002968826,17.936673625608908,6.914893617021277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833031601:0384/pct:64.0459210297443,60.21026592455164,17.93935177132255,6.918161203875489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1219,7 +1219,7 @@ lion ol delegated authority. The fabric ol American em- 1
 j I’tce ought forest outlie solid basis ol the consent of  
 i’ll E PEOPLE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833040201:0425/pct:65.20156774916013,32.32768112750495,15.383538633818588,3.3803127064523233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833040201:0425/pct:65.1924422673198,32.324121986127935,15.386050851411243,3.383610407721384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1317,7 +1317,7 @@ I tg»tie- i authority. The fabric oftlic American empire
 &#x27; ought to rest on the solid basis uf the cos sent of  
 1 the people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348847:1833041101:0268/pct:50.4469727752946,84.96348274380638,15.684681023973994,4.740083058857224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348847:1833041101:0268/pct:50.436725573837094,84.95131729667813,15.686573227706683,4.742983963344788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1459,7 +1459,7 @@ iiieensible to the love of power, but even to sacrifice the
 desire of tonality, it is neither natural to e.xpect the  
 hrst. nor just to require the last
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836010901:0141/pct:49.48033707865169,1.0355029585798816,32.050561797752806,97.05128205128206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836010901:0141/pct:49.489700374531836,1.042077580539119,32.04588014981273,97.04799474030243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1491,7 +1491,7 @@ streaws of National power ought 10 low Hinme.
 diately from the pure, origina fountain of wll Je.  
 giimate authority,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1844061201:0109/pct:4.151436031331593,80.61317413740767,12.049608355091383,3.3694222402104623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1844061201:0109/pct:4.151436031331593,80.61317413740767,12.049608355091383,3.376167830280954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1750,7 +1750,7 @@ Alexander Hamilton wrote : &quot; The fabric of American em -
 &#x27; diately from that pure, original fountain of all legitimate au­  
 thority.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850042701:0167/pct:51.680614624777064,11.345702708466623,15.626286184661819,3.039027511196417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850042701:0167/pct:51.680614624777064,11.352811544750125,15.635432386701423,3.0425819293381675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1795,7 +1795,7 @@ ple. The streams of national power ought
 to flow immediately from the pure original  
 fountain of all legitimate authority
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851092201:0232/pct:338.46730372868655,230.54298642533936,45.36256323777403,61.043552036199095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851092201:0232/pct:84.60097414762083,57.6275979075357,11.33851629823904,15.25873038314718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1847,7 +1847,7 @@ ons sources of animosity snd discord, than injuri­
 ous impediments to the intercourse between the  
 different ports of the Confederacy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852082801:0838/pct:27.645611156685806,66.44124027051167,13.65053322395406,4.70843434987878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852082801:0838/pct:27.645611156685806,66.44549359874101,13.661471151216844,4.71268767810812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1881,7 +1881,7 @@ would at le gth come to be considered and treated by
 the other in no better light than as foreigners and  
 aliens.&quot; When this power was introduced into the Co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855060801:1231/pct:43.61124814997533,221.98540484188578,60.07235652030916,23.387003359203057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855060801:1231/pct:14.537082716658444,73.99513494729526,20.024118840103053,7.79566778640102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2094,7 +2094,7 @@ Among the many serious questions wlneh the ln some instanceß) given birth to th
 present crisis forces upon our consideration, that doc,rjne of fct of Lpgislative repeal.-  
 touching the right of secession, is the first which (10wjnrr itg ralification t0 a law of a Slftte) it Ua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860111301:0473/pct:3.5648606592162966,28.32300619628223,22.718913566275287,3.1680991405156904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860111301:0473/pct:3.5648606592162966,28.329668865347458,22.723628990427688,3.1647678059830766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2127,7 +2127,7 @@ Constitution was ratified, he wrote as follows :
 &quot;The fabric of American empire ought to rest on  
 &quot;the solid basis of the consent of the people.&quot;—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860111301:0474/pct:15.362851888527373,28.023186088346993,11.019946244164663,8.325004997001798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860111301:0474/pct:15.372282736832178,28.029848757412218,11.024661668317066,8.325004997001798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2212,7 +2212,7 @@ ought to rest on the solid basis of the consent of the people.
 The streaurs of national power ought to flow immediately  
 from that pure original fountain of all legitimate authority
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861011901:0173/pct:205.0287356321839,138.2545045045045,45.274584929757346,32.218468468468465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861011901:0173/pct:68.34291187739464,46.08483483483484,15.091528309919115,10.73948948948949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2266,7 +2266,7 @@ of the people. The streams of national power
 ought to flow immediately from the pure original  
 fountain of all legitimate authorit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032101:0275/pct:158.44229675952246,319.53757225433526,45.42353610005685,7.314766158696795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032101:0275/pct:39.62183679272107,79.88439306358381,11.359112880295706,1.8286915396741987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2330,7 +2330,7 @@ fabric of American empire ought to rest on
 the solid basis of the consent of the people.&quot;  
 &quot;There was a party,&quot; says Mr. Motley
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861062801:0107/pct:243.76396960214572,110.47008547008546,38.01221874534347,17.287342287342288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861062801:0107/pct:81.24255065554232,36.81961542374606,12.668851807707588,5.761861159154882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2552,7 +2552,7 @@ ceeded their abilities, while those at a distance were
 exceedingly remiss in their exertions.  The  
 appointment, too, by the States, of all regimental offi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862112101:0606/pct:286.39344262295083,162.21752198597352,42.404371584699454,29.566959812980073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862112101:0606/pct:71.61792839573654,40.55438049649338,10.603990161246243,7.391739953245018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2734,7 +2734,7 @@ of national power ought to flow, and should
 flow, immediately, from the highest fountain of  
 all legitimate authority And the uni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110120:1864052901:0004/pct:28.851437992306284,54.48580610605249,12.200036636746656,5.436529191215854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110120:1864052901:0004/pct:28.860597178970508,54.48580610605249,12.204616230078768,5.453267273701125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2778,7 +2778,7 @@ tional power onght to flow immediately
 from that pars original fountain ot all  
 legitimate authority.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190741:1864081201:0139/pct:41.45892930118512,75.65031280869279,13.853698406211688,15.920316101415871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190741:1864081201:0139/pct:41.47425418880262,75.66266052025024,13.838373518594198,15.924432005268358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2880,7 +2880,7 @@ to flow immediately from that pure
   
 riginal fntain o a leitme aore e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1867022301:0229/pct:33.93416927899686,78.95287958115183,63.87147335423197,19.842931937172775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1867022301:0229/pct:8.488531660458733,19.73821989528796,15.977259360909626,4.960732984293194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2923,7 +2923,7 @@ The streams of national power ought
 to flow immediately from that pure orig­  
 inal fountain of all legitimate anthority.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030201:0198/pct:144.70300061236986,262.9580573951435,37.78322106552358,39.381898454746135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030201:0198/pct:36.18128923595162,65.73951434878587,9.447251569438064,9.845474613686534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3112,7 +3112,7 @@ the wolid basls of the consent of the people. The streams
 of power ought to flow immediately trom that pure original  
 fountain of all legitimate a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038541:1892031101:0143/pct:243.1441890371323,192.1455287317239,47.05031345442855,12.070724243454608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038541:1892031101:0143/pct:81.04806301237743,64.0485095772413,15.683437818142849,4.023574747818202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3143,7 +3143,7 @@ ary to the true
 rit of the Union, have, in different in  
 stances, given just c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:00175048352:1892041001:0612/pct:106.37528754518567,19.5273631840796,46.50016431153467,32.28648424543947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:00175048352:1892041001:0612/pct:35.458429181728555,6.509121061359867,15.500054770511557,10.76216141514649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3604,7 +3604,7 @@ empire ought to rest on the solid basis
 of the consent of the people.&quot; On this  
 essential principle of American Govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899111001:0503/pct:177.48080330773774,74.67904630903256,38.29001772002363,6.762952773956901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899111001:0503/pct:59.16026776924591,24.893015436344186,12.763339240007875,2.254317591318967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

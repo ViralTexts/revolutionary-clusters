@@ -42,7 +42,7 @@ tised in obtaining the fame, the boat or
 velfel upon which such allowance shall  
 have been paid, if found within the dif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792022301:0001/pct:29.447665547757094,16.18530723008335,20.9948123283491,10.932351230858693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792022301:0001/pct:29.447665547757094,16.18530723008335,21.010070186145864,10.946888931963558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -63,7 +63,7 @@ or Sffirmed to, before the said colleQor of the diftrift, in older to
 entitle the owner, his agent or lawful representative, to receive the  
 allowance aforefaid. And if at any time within one year afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792022501:0001/pct:7.163232963549921,62.5,27.828843106180667,4.74481658692185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792022501:0001/pct:7.187004754358162,62.514952153110045,27.820919175911254,4.734848484848484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ order to entitle the owner, his a­
 gent or lawful representative, to  
 receive the allowance aforefaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792031401:0975/pct:27.237067908801176,41.51185137732223,20.985535670507478,15.374759769378603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792031401:0975/pct:27.25341178393397,41.51185137732223,20.969191795374684,15.385436685885116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ agent, oh lawful representative to receive di
 entitle the owner, his agent, or lawful represehtas  
 tive to receive the allowances aforesaid. And &#x27;if o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813111801:0932/pct:71.95406125166444,18.35972071983479,23.202396804260985,2.7633002261775985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813111801:0932/pct:71.95406125166444,18.366276592257513,23.219041278295606,2.756744353754876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

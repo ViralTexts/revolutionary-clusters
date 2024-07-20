@@ -1214,7 +1214,7 @@ With every gentle care eluding art,
 T&#x27;o raise the virtues, animate the bliss,  
 And sweeten all the toi&#x27;s of human life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1831051101:0243/pct:53.3356024506467,64.60123441849207,14.193328795098706,3.073944088103594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1831051101:0243/pct:53.3356024506467,64.6093025132115,14.204674381665532,3.069910040743878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1327,7 +1327,7 @@ With every gentle, cart-eluding art,
 To raise her virtues, animate die bliss,  
 And sweeten all the toils ot&#x27;lmman life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624414:1842042301:0152/pct:43.786345035537366,102.70227560050569,15.421063967262546,2.354614412136536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624414:1842042301:0152/pct:33.934234685361375,79.59991835068381,11.96238802648417,1.8289446825882834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1443,7 +1443,7 @@ With every gentle rale eluding ar&#x27;.
 i To raise the virtue., animate tlie lili.s.  
 And sweeten all the toils of human life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854072801:0304/pct:29.952250036174217,29.37157155230488,12.530748082766603,2.107593109421615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854072801:0304/pct:29.952250036174217,29.37798736085715,12.545217768774418,2.1043852051454786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1461,7 +1461,7 @@ the bliss, and sweeten all the toils of hu­
 man life. For in the mute land of silence  
 where ear hath not heard, and in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859051401:0180/pct:104.51293340671437,40.09693765146508,43.423225096312606,6.873760740251156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859051401:0180/pct:26.131828815191962,10.02423441286627,10.85730012384753,1.718440185062789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1486,7 +1486,7 @@ ing city of Jackson. They are not as highly im­
 proved as it is hoped they will be. The accommo­  
 dations are ample, however, for a large concours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293289:1859110201:0428/pct:158.20652173913044,308.6974275214373,42.44565217391305,14.046549612086565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293289:1859110201:0428/pct:39.55163043478261,77.17435688035933,10.611413043478262,3.5116374030216413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1507,7 +1507,7 @@ The fair grounds of the Western Division
 society are situated about half a mile from the  
 thriving city of Jackson. They are not 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859110501:0434/pct:122.44897959183673,322.2406730875678,34.142305570877,8.280748367098417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859110501:0434/pct:30.620689655172413,80.56016827189195,8.537931034482758,2.070187091774604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1542,7 +1542,7 @@ tion that solid food injured him.
   
 &#x27;The Freeman Clare Letter.—The Com- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn85025697:00393348306:1866031701:0225/pct:4.865876481597006,7.015421832476565,29.985443959243085,88.37314786815845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn85025697:00393348306:1866031701:0225/pct:4.864864864864865,7.014361300075586,29.984407484407484,88.36356764928193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1609,7 +1609,7 @@ With every gentle, care-eluding art,
 To raise the virtues, animate the bliss,  
 And sweeten all the toils of human life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn89058302:00212470417:1872101001:0726/pct:169.24219910846955,235.94666666666666,43.83358098068351,9.6/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn89058302:00212470417:1872101001:0726/pct:42.32627276105537,58.986666666666665,10.962467484206615,2.4/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1762,7 +1762,7 @@ bliss and sweeten all the toils of
 human life, possessing a fair face,  
 an easy dignity of mien, claiming r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86089443:00206536007:1891120301:0333/pct:63.81165919282511,65.63814866760168,19.013452914798208,3.303724481845099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86089443:00206536007:1891120301:0333/pct:47.89143113503813,49.22861150070126,14.266487213997308,2.4777933613838243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1826,7 +1826,7 @@ sweeten all the toils of human life ;
 &quot;To raise the virtues, animate the bliss,  
 And sweeten all the toils of human life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524822:1899032301:0105/pct:41.340549542048294,54.267554479418884,12.15653621981682,0.8171912832929782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524822:1899032301:0105/pct:41.33194588969823,54.25934331971554,12.159209157127991,0.82085035557573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

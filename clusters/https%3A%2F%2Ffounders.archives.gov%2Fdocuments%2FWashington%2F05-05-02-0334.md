@@ -108,7 +108,7 @@ ment was unexceptionable in itself.” Here
 we have the true reason of establishing  
 what is called levees; and the man wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813031901:0380/pct:49.343647444913266,43.326102675343456,21.237693389592124,20.332610267534346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813031901:0380/pct:49.33208343098195,43.31983805668016,21.238575111319427,20.333285135916714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ ble to discover ; perthaps it consists in nol
 sitting, |  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1843062901:0528/pct:6.8612099644128115,6.225889412773253,12.725978647686834,17.12387483926275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1843062901:0528/pct:6.8612099644128115,6.225889412773253,12.730723606168446,17.131018716959566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ Notwithstanding the explanations of
 Washington and his friends, in the above  
 and other similar terms, the oppositio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1843062901:0528/pct:6.761565836298932,23.40334333476211,12.725978647686834,10.597942563223318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1843062901:0528/pct:6.771055753262159,23.406915273610515,12.730723606168446,10.597942563223318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -723,7 +723,7 @@ custom was already far down the road to
 ruin. It started originally in the gentle­  
 men calling merely on their relatives an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777080:1886010801:0024/pct:264.9233543733093,224.73563218390805,59.15238954012624,72.27586206896552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777080:1886010801:0024/pct:66.23083859332732,56.18390804597701,14.78809738503156,18.06896551724138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ tended at the seat of Government by the officers
 HHHHJk of Btata and the representatives of oery power  
 JWPJf of Europe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889022201:0052/pct:0.0,347.0404984423676,73.72881355932203,10.903426791277258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889022201:0052/pct:0.0,86.7601246105919,18.442859895933704,2.7258566978193146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ PBJBJBBJl tended at the seat of Government by the officers
 Ki&#x27;WsSMbBf of State and the representatives of every pow or  
 jiliWniBBFi of Europe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889022202:0056/pct:0.0,348.30865159781763,76.62632375189108,12.59547934528449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889022202:0056/pct:0.0,87.07716289945441,19.1602042746359,3.1488698363211225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,7 +993,7 @@ chat with each other and act as they
 please. What ‘pomp’ there is in all this  
 Tam unable to discover.” Yet pomp wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153577:1889042701:0402/pct:15.81,13.747617232176896,10.96,6.191383911551658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153577:1889042701:0402/pct:15.81,13.747617232176896,10.963333333333333,6.199008768585589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1040,7 +1040,7 @@ chat with each other and net as they
 please. What &#x27;pomp&#x27; there is in all this  
 I am unable to discover.&quot; Yet pomp wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mauve_ver04:data:sn85034357:00175033877:1889060701:0486/pct:29.647374472978154,6.861187346526073,13.395937140666922,3.92893254369493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mauve_ver04:data:sn85034357:00175033877:1889060701:0486/pct:29.647374472978154,6.870817083152776,13.408713427877858,3.92893254369493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ public convenience, and which, in my
 judgment, was unexceptionable in it­  
 self.&quot;Under his auspices Washington sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897060401:0392/pct:52.87994448299792,91.15940239535745,20.645385149201942,16.088405976046424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897060401:0392/pct:35.25941349991324,60.7729349302383,13.777546416796808,10.729719718483764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

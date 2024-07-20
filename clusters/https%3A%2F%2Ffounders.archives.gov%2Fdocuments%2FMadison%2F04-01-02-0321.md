@@ -36,7 +36,7 @@ Virginia. Abo, a few hints on the Culti­
 vation of Native Vines ; and Directions for  
 making Domestic Wines. For sale b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819040101:0065/pct:56.855413105413106,31.85080469769465,17.485754985754987,5.208786428882123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819040101:0065/pct:56.84529108064803,31.847341524410133,17.48857634561747,5.211844442028197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -58,7 +58,7 @@ Virginia. Also, a few hints on the Culti­
 vation of Native Vines ; and Directions for  
 making Domestic Wines. For sale b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819040301:0073/pct:75.85527494178757,59.427701011859426,17.71449041733835,4.689370035904689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819040301:0073/pct:75.84169054441261,59.42123585726719,17.717287488061128,4.6924862199013635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ by a citizen ot Virginia. Also, a few hints
 rections for making domestic wines.  
 Georgetown, I). C. published, and fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819042101:0133/pct:21.56485209172064,24.64500860585198,17.748993523542797,2.90447504302926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819042101:0133/pct:21.561078053902694,24.64235774981177,17.751720919379302,2.9077480190742535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ by a citizeiyof Virginia. Also, a few hints
 on the cultivation of native vines, and di­  
 rec tions for making domestic wines
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819042301:0141/pct:22.57894736842105,50.740979381443296,17.29824561403509,4.6284364261168385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819042301:0141/pct:22.57498684441326,50.73553097820251,17.30105829386657,4.631518665664483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ Virginia. Aho, a lew hints on the ( udi­
 vnlion of Native Vines ; and Directions lor  
 makng Doinestir \\iius. lor sale b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819061701:0325/pct:57.354737393125106,36.45754050233772,17.41406386320014,4.708056975100576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819061701:0325/pct:57.34473133286811,36.45357686453577,17.41684112584322,4.711169094730739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ Virginia. \lso, a lew hints on the cultiva­
 tion 01 Native Vines ; and directions for ma­  
 king Domestic Wines. For sale b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819101601:0035/pct:60.150639341390786,38.04209183673469,18.12926957435628,4.613095238095238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819101601:0035/pct:60.14010507880911,38.03804867679881,18.131932282545243,4.616147660041804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ Virginia: Al*o, a few hints on the cultiva­
 tion of Native Vines ; and directions for ma­  
 king Domestic Wines.- Fnrsaieb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819110201:0092/pct:61.609358383551935,92.58901758901759,18.521800779865295,2.3166023166023164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819110201:0092/pct:61.59844054580897,92.57908847184987,18.5244255419694,2.319928507596068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ Virginia. Also, a few hints on the cultiva- j
 tiovi of Native Vines ; and directions for ma­  
 king Domestic Wines. For sale b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819110401:0100/pct:60.09774829813231,89.43020546494387,18.51981148542503,4.575301842829909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819110401:0100/pct:60.08726003490401,89.42073493593138,18.52239674229203,4.57834727664231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ Virginia. Also, a few hints on the cultiva­
 tion of Native Vines ; and directions for ma­  
 king Domestic Wines. For sale b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819110901:0116/pct:61.00317908866125,51.50999574649086,18.403391027905332,2.2649936197362823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819110901:0116/pct:60.99240685149214,51.504518872939926,18.406027429513216,2.2682970051391105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ Virginia. Also, a few hints on the cultiva­
 tion of Native Vines : and directions for ma­  
 king Domestic W ines. Fcrsa&#x27;e h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819111601:0140/pct:61.14196459562652,89.7757186479941,18.1881291218327,4.590923449510372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819111601:0140/pct:61.13135519694603,89.7662665824384,18.190757128810226,4.5939496034252825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ Virginia. Also, a few hints on the cultiva­
 tion of Native Vines ; and directions for ma­  
 king Domestic Wines. Forsa*eb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819111701:0144/pct:23.24086603518268,80.92979127134726,17.777401894451963,2.340290955091714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819111701:0144/pct:23.236935565702687,80.92126067249922,17.780032696318845,2.3435578510944803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

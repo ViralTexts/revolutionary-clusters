@@ -208,7 +208,7 @@ esteem and consideration, I remain your
 Lordlhip&#x27;s most obedient servant,  
 G&#x27;. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060701:0002/pct:50.78864353312303,6.951577402787968,38.514482363062804,85.38151137197359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060701:0002/pct:50.810151993117294,6.956162876008804,38.50731287639805,85.3952677916361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ to rilk injutiice by fo marked a preference.
 ronlideration, 1 temain vour lordfhip&#x27;s molt  
 obedientfcrvant, G WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800030301:0348/pct:9.035863996273871,14.919181805178086,21.98416394969725,26.133600343298525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800030301:0348/pct:9.033760186263097,14.917048054919908,21.9848661233993,26.133438215102974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

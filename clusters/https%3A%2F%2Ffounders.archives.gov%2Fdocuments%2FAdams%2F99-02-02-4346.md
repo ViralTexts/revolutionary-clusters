@@ -44,7 +44,7 @@ said Aft, that so much as may be necefTary of
 the surplus of the duties on Imports and Ton­  
 nage beyond the permanent appropriate ns her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011201:0002/pct:43.93191909225456,5.386163132642006,17.612234829797732,8.853118712273641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011201:0002/pct:43.93191909225456,5.393901872775112,17.630735076467687,8.864726822473301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,7 +74,7 @@ said Ail, that so much as may be necessary ef
 the surplus of the duties on Imports and Ton­  
 nage beyond the permanent appropriations her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011801:0004/pct:25.60255779636006,7.288006111535523,17.609444171175603,8.846447669977081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011801:0004/pct:25.62100344318741,7.291825821237586,17.60329562223315,8.861726508785333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ the expiration of fifteen years from the date o
 such loan, jlnd &lt;whercas, it is declared by the  
 said Ait, that so much as may be neceifary ot 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012601:0004/pct:5.209097578870139,8.24915824915825,20.127170457324528,7.835935108662381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012601:0004/pct:5.227439471753485,8.260636669727578,20.108828564441183,7.847413529231711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ said that so much as may be n:celTary of
 the surplus of the duties on Imports and Ton­  
 nage beyond the permanent appropriations her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012901:0004/pct:10.097642295784711,7.399414213041467,17.004048582995953,10.06628641899183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012901:0004/pct:10.097642295784711,7.4109757977493445,17.015956180042867,10.070140280561123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ said that so much as may be necefTary of
 the surplus of the duties on Imports and Ton­  
 nage beyond the permanent appropriate ns her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799013001:0004/pct:26.242006886374817,6.451612903225806,17.21593703885883,8.863287250384024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799013001:0004/pct:26.260452533202166,6.459293394777266,17.22823413674373,8.870967741935484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ the expiration of fifteen years from the date of
 such loan, /tnd whereas, it is declared by the  
 said Atfl, that so much as may be ntceflary o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020101:0004/pct:25.65367538233843,8.81766600214691,17.26689689195856,5.489955528293207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799020101:0004/pct:25.6660088801184,8.821499769973931,17.273063640848545,5.505290599601288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ said A.£l, that so much as may be necefiary of
 the surplus of the duties on Imports and Ton*  
 nage beyond the permanent appropriations herq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021901:0004/pct:78.65724381625442,6.946736684171043,16.749116607773853,8.687171792948238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799021901:0004/pct:78.65724381625442,6.946736684171043,16.77856301531213,8.702175543885971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ thj expiration of fifteen years from the date of
 such loan. And whereas, it is declared by the  
 said Ail, that so much as be neceflary e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799022001:0004/pct:77.31314587839462,5.136727602356851,16.96707522230233,8.279196253210454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799022001:0004/pct:77.31915404950733,5.14050460794682,16.979091564527756,8.298081281160297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ clared by the said A&amp;, that so much asmay
 be necessary of the surplus of the duties on  
 Imports and Tonnage beyond the perma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799022001:0032/pct:43.568981625661785,5.341566206017838,16.459047025848644,11.575026952857003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799022001:0032/pct:43.57417211668224,5.341566206017838,16.459047025848644,11.575026952857003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ as it is declared by said aft, that so much
 as may be necessary of the fur lus of the  
 duties an imports and tonnage, beyond th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800070201:0004/pct:77.58323057953145,3.3001143603986276,16.892725030826142,14.049991831400098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800070201:0004/pct:77.59556103575832,3.3001143603986276,16.892725030826142,14.066329031204052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ g:ration of fifteen years from the date of such
 oan~=AND WauerkAs it is declared  
 by {aid att, that so much as may be necessary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800071501:0324/pct:60.18575851393189,9.265956406998338,16.05263157894737,8.09305053269475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800071501:0324/pct:60.19091847265222,9.265956406998338,16.062951496388028,8.099566676440883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ as it is declared by said aft, that so much 1
 as may be necefTary of the surplus of the 1  
 duties on imports and tonnage, beyond the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071801:0001/pct:59.10843373493976,11.595848199805385,17.325301204819276,14.060979565358418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071801:0001/pct:59.1144578313253,11.608011676938048,17.33132530120482,14.060979565358418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ as it is declared by said aft, that so much
 as may be necefTary of the surplus of the  
 duties on imports and tonnage, beyond th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072201:0001/pct:59.83527131782946,16.519079053292547,16.90891472868217,8.790854934793108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072201:0001/pct:59.85343992248062,16.527129286749314,16.91497093023256,8.782804701336339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ piration of fiftcen years from the date offuch
 Loan.—ANp WHEREAS it is declared  
 by said aét, that fe much as may be neceflar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800072201:0328/pct:43.25238241623117,17.69720725134738,16.06209652628343,10.49485546300833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800072201:0328/pct:43.257505891997134,17.7004736240405,16.072343477815348,10.49485546300833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ as it is declared by said ad, that so much
 as may be necessary of the surplus of the  
 duties on imports and tonnage, beyond th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072301:0001/pct:59.324094335035255,11.887096774193548,16.994894237782642,14.161290322580646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072301:0001/pct:59.33017262338925,11.887096774193548,16.994894237782642,14.173387096774194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ as it is declared by said aft, that so much
 as may be necessary of the surplus of the  
 duties on imports and tonnage, beyond th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072401:0001/pct:59.819026656884326,15.553388590931252,16.825629738322327,10.921501706484642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072401:0001/pct:59.819026656884326,15.565577766942955,16.843971631205672,10.925564765155208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ as it is declared by said adt, that so much
 as may be neceflary of the surplus of the  
 duties on imports and tonnage, beyond th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072501:0001/pct:59.46210268948655,11.3831684773796,17.139364303178485,14.15599156802335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072501:0001/pct:59.46210268948655,11.395329982163126,17.151589242053788,14.151937733095508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ as it is declared by said aft, that so much
 as may be neceflary of the furphis of the  
 duties on imports and tonnage, beyond th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072601:0001/pct:59.58803334968122,11.900906735751295,17.2388425698872,14.135362694300518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072601:0001/pct:59.60642471799902,11.913050518134716,17.232712113781265,14.131314766839377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ terms which may be fixed pursuant to the
 authority aforefaid. AND WHEREAS  
 by the said aft the faith of the U. States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072901:0001/pct:24.034229828850854,12.299204932662665,17.09046454767726,19.53594028882038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072901:0001/pct:24.052567237163814,12.303261398669479,17.0721271393643,19.548109686840824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ of this act.
 Sec. 2. And be it further enacted. That  
 the President of the United States d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813013001:0344/pct:23.28314359162688,3.603049680275455,36.026441424899005,91.1829808165273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813013001:0344/pct:23.278869102258124,3.6026066642075496,36.02594700446729,91.17586786343702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ any fam or ‘fums {hus borrowed, at any
 time after the expination of twelve years  
 from the firft day of Jasuacy, one thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813030901:0466/pct:37.246016664230375,27.718385822979872,15.348633240754276,3.5346239044592123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813030901:0466/pct:37.246016664230375,27.724806574849914,15.353505822735467,3.5346239044592123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ into which shall preclude the United States from reimbursing
 any sum or sums thus borrowed after the expiration of five  
 years from the first of January next; and that the rate of in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845032901:0124/pct:18.410448798110323,72.51354279523294,15.534250382103654,7.410617551462622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845032901:0124/pct:18.419711917002456,72.51354279523294,15.52961882265759,7.421451787648971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

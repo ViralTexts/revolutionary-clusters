@@ -48,7 +48,7 @@ I shall be happy, on every occasion, to rvince my regard for
 the fraternity, tor \our piolpciity individually, I offer my best  
 wishes. G. WASHINGTON&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060101:0001/pct:6.8893528183716075,76.94599627560521,26.125857441097523,8.398510242085662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791060101:0001/pct:6.904264837458992,76.95996275605214,26.14076946018491,8.398510242085662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ association whose principles lead to purity of morals
 and are beneficial of action. I shall be happy on  
 every occasi n to evince my regard for the frater
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1868111501:0003/pct:19.494184973232418,41.01900944006207,12.18386560827026,2.8320186214923058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1868111501:0003/pct:19.494184973232418,41.025475236001554,12.18386560827026,2.841717315401526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ of morals and are beneficial of action. I shall
 be happy on every occasion to evince my regard  
 for the fraternity.” In 1797 he says to the Gran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110211:1874101801:0003/pct:44.801512287334596,71.45122918318795,12.476370510396976,2.590536611155168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110211:1874101801:0003/pct:44.810964083175804,71.45122918318795,12.476370510396976,2.6070578905630453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ with pleasure my relation to the brethren of your
 society, and shall be glad on every occasion to  
 evince my regard for Free Masonry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1879022601:0498/pct:249.03325599381284,146.77887405687753,42.92343387470998,8.415554265815437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1879022601:0498/pct:62.29444766879474,36.69471851421938,10.73708647707487,2.1038885664538594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ sion 10 evince my regard for the frater­
 nity. For your prosperity individually  
 I offer my best wishes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186877:1896092701:0772/pct:29.76209232708366,5.005313496280553,27.067906097368837,92.58235919234856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186877:1896092701:0772/pct:29.75740390674228,5.0047816385081285,27.06889308968704,92.57606347182376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

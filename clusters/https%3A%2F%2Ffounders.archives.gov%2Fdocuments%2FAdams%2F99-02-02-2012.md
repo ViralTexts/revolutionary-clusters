@@ -108,7 +108,7 @@ or to claims of jurisdiction of any indivi­
 dual State.  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061401:0002/pct:11.788048552754436,13.513117397039425,16.596638655462186,43.8077092188187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061401:0002/pct:11.799719887955183,13.520445551810054,16.596638655462186,43.81503737358933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ such negociation has exilled ; and that t n&#x27;s
 is the tirft time that these objections to the  
 evacuation of the post? have been heard of.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061601:0002/pct:77.6441717791411,9.318364073777065,17.153374233128833,11.323175621491579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061601:0002/pct:77.65030674846626,9.318364073777065,17.15950920245399,11.331194867682438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ panies, or to claims of jurifdiGtion of
 any individual state.  
 Fohn Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797062701:0312/pct:25.758731127039805,16.89973222255281,15.830410248589294,60.03173658633343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797062701:0312/pct:25.76889837832342,16.89973222255281,15.825326622947486,60.0383483751529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ the other, according to the above men­
 tioned boundaries, they shall be witidrawn  
 from the {aid territories, within the ter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797111501:0391/pct:25.46747025189306,21.52324431256182,15.79354041106475,6.85459940652819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797111501:0391/pct:25.47777262659043,21.526541378173427,15.79354041106475,6.85459940652819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ hereof to ihe Atlantic ocean.&#x27;
 &#x27;?other, according to the above-mentioned boundaries, they  
 ?shall bewrhdruwn from the said territory within the term o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848022601:0096/pct:3.3460938607684674,18.005415162454874,15.993194385367929,3.023465703971119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848022601:0096/pct:3.3460938607684674,18.012936221419977,16.002646627912473,3.019705174488568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -147,7 +147,7 @@ red to many, though I do not recoHeft yet to
 met with if in print;—lt is this :  
 If thiConvcatio:} iutf poiTelTedclear evidence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793071701:0002/pct:10.412147505422993,59.36347758587231,19.95661605206074,34.15486124587619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793071701:0002/pct:10.427641772544158,59.36347758587231,19.987604586303068,34.17426741703862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ which his been dated. They perceived a,Co
 that thelV views had their effect- upon Come ol  
 the devoted partisans of Fiance among ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793071701:0002/pct:30.52370622869538,2.581020764603144,63.09265571738457,91.96584513875412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793071701:0002/pct:30.52370622869538,2.5907238501843586,63.10040285094515,91.95614205317291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ s combined svith the other meani of infli
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793071701:0002/pct:49.0238611713666,56.14205317290899,24.109079640533004,27.091014942751794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793071701:0002/pct:49.047102572048345,56.156607801280806,24.085838239851256,27.091014942751794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ and departed sires. The above sentences, uttered
 by a man whom Congress has honored, and  
 thought worthy of honor, passes unheeded, as i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840052301:0599/pct:3.4216867469879517,26.716294458229942,18.16867469879518,9.760132340777503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840052301:0599/pct:3.4216867469879517,26.720233171846075,18.174029451137883,9.768009768009769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ is truly a Greciun horse to the Republic.
 We cannot be too careful to exclude its  
 entrance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845012401:0577/pct:258.76106194690266,169.91626794258374,56.991150442477874,10.705741626794259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845012401:0577/pct:64.69026548672566,42.479066985645936,14.247787610619469,2.6764354066985647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ Foreign influence is a Grecian horse
 to the Republic,-we cannot be too care-­  
 ful to exclude its entrance.--Madison.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1854091601:0167/pct:172.89388117055867,166.29412415624654,37.525864617203666,5.875843753458006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1854091601:0167/pct:57.63129372351956,55.43137471874885,12.508621539067889,1.958614584486002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -668,7 +668,7 @@ Foreign Influence is a Grecian horse to
 the Republic--we cannot be too careful to  
 exclude its entrance.--Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1855012501:0486/pct:24.83171278982797,280.12994044396316,51.38369483919222,6.334596643205198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1855012501:0486/pct:6.2090892089021885,70.03248511099079,12.848326164204227,1.5836491608012995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -685,7 +685,7 @@ WForeign influence is a Grecian horse to
 the Republic- we cannot be too careful to  
 exclude its entrance.&quot;Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1855080301:0308/pct:222.23901098901098,213.6919315403423,32.56868131868132,4.227791361043195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1855080301:0308/pct:74.06949594835874,71.22338800040745,10.85473607105251,1.4091202336083664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -703,7 +703,7 @@ exclude its entrance.&quot;Madison
 tho republic. &#x27; We cannot be too careful  
 to exclude its entrance&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855080801:0145/pct:109.7719298245614,9.871191478820906,16.403508771929825,2.340847163735447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855080801:0145/pct:82.3477803123355,7.40648996779787,12.300403579575365,1.7587317314837752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ its entrance. [Madison
 Foreign in fluence is a drecian horse to the Republic.­  
 we cannot be too careful to exclude its entrance. (Mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855103001:0417/pct:89.17224080267559,246.55774111675126,38.31521739130435,2.5222081218274113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855103001:0417/pct:29.724080267558527,82.18591370558376,12.771739130434783,0.8407360406091371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ Millard Fillmore.—By refercnco
 to the resolution of the American  
 Convention, held at Princeton on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1856022301:0255/pct:7.826619696737632,45.02970749542962,12.375555215193751,5.038848263254113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1856022301:0255/pct:7.825421133231241,45.02456300696904,12.377488514548238,5.041128755855135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ We cannot be too careful to exclude Its
   
 entrance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1894092101:0069/pct:107.82681099084097,79.07535699137566,18.21398834304746,3.2093878128092745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1894092101:0069/pct:80.90379008746356,59.31005231160752,13.68179925031237,2.403506291531175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ truly a Grecian horse to the republic.
 We cannot be too careful to exclude its  
 entrance.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1894101201:0094/pct:50.785773366418525,91.14495205865764,18.15550041356493,3.0315848843767625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1894101201:0094/pct:38.11297330850403,68.35871404399323,13.635423132629837,2.284263959390863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -836,7 +836,7 @@ truly a Grecian horse to tho republic,
 We cannot be too careful to exclude its  
 entrance.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1894101901:0102/pct:49.281487743026204,92.8723858301323,18.63905325443787,3.1014369042538057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1894101901:0102/pct:36.96892834495878,69.65428937259924,13.99281335869795,2.333191065585432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -875,7 +875,7 @@ not be too careful to exclude its en
   
 trance.&quot; Van Buren said : &quot;Foreigners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1895071201:0410/pct:48.927038626609445,80.92927510660196,18.56223175965665,3.2348184090574916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1895071201:0410/pct:36.71891775821344,60.696956329951476,13.936010307064635,2.440817526834289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

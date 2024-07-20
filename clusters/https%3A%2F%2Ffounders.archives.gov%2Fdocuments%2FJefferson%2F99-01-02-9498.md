@@ -65,7 +65,7 @@ satisfy the wishes of both &#x27;1
 who remain m p I&gt;c assured of our  
 patronage, our aid and good iiqiydi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031001:0002/pct:75.24339360222531,70.24588019879675,16.968011126564672,23.515563693434476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031001:0002/pct:75.25001655738791,70.25459935478246,16.96138817140208,23.519923271427327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ fa In ~ who will hold it as I have
 done.  
 Th: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031001:0003/pct:7.606308644440008,4.132879937222077,17.129167498502696,40.94951608684279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031001:0003/pct:7.606308644440008,4.141599093207778,17.13582218673055,40.94515650884994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ PORTSMOUTH, TUESDAY, AUGUST 25, 1818.
   
 their anxious desire for thefull a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818082501:0309/pct:23.16280384397965,9.71025841816758,39.4855850763143,83.57478465152701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818082501:0309/pct:23.16751460335406,9.71025841816758,39.48087431693989,83.58131036282956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ end maede choice of the couotry on the A -
 kin.as aad White rive s, and setuled them  
 s lves d wn open the United States’ land.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1818102801:0786/pct:1.6122766122766123,51.70920692798541,21.134421134421135,37.26071103008204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1818102801:0786/pct:1.6187516187516187,51.71680340322091,21.140896140896142,37.26830750531753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ kees, that the United States would “ still con­
 sider them as our children,” and “ always hold  
 them firmly by the hand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829102101:0899/pct:24.58133971291866,87.60142348754448,19.597288676236044,12.341637010676157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829102101:0899/pct:19.050316732759953,67.89365301169376,15.208322603903795,9.571964403912627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +751,7 @@ sonably asked, they are willing to satisfy tbe wishes of both_
 Those who remain may be assured of our patronage, our aid  
 and our good neighborhood &quot; “To those w ho remove, every 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830050701:0156/pct:22.974683544303797,35.39949838767467,17.81645569620253,2.8424698435447273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830050701:0156/pct:22.971048884670147,35.39527107714354,17.81891050994041,2.8461109784252847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ and our good neighborhood &quot; “To those w ho remove, every
 aid shall bn administered, and when established at tlicir new !  
 settlements, we shall still consider them as our children, and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830050701:0156/pct:22.990506329113924,38.05087782156933,17.800632911392405,1.0032246506628448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830050701:0156/pct:22.98686916627116,38.0463338906138,17.803090228339396,1.0070854231351007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ in the years 1617 and 1810, made provision
 for those desiring to remain, agreeably to the  
 promise of the President; and they were mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084131:00295861800:1838112801:0007/pct:5.136282700999863,70.97991134584552,15.354061087522258,5.734226162406866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084131:00295861800:1838112801:0007/pct:5.136282700999863,70.98619887453236,15.358626672145368,5.734226162406866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1138,7 +1138,7 @@ and Whits rivers, and the hiuher up, tub better, as
 they will be the longer unapproached by our settlements,  
 which will begin at the mouth of those rivers;&quot; the nex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841101601:0130/pct:6.2690909090909095,38.88946549039959,17.672727272727272,3.310845874416191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841101601:0130/pct:6.2690909090909095,38.89638470852794,17.682424242424243,3.310845874416191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1159,7 +1159,7 @@ and White rivers, and the iiiohkr LP, THE Blttkk, as
 they will be the longer unapproached by nur set lemens,  
 which wdl begin at the mouth of those rivers;&quot; the nei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841101601:0951/pct:2.851033499643621,37.93501990496982,15.342124019957234,3.5058430717863107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841101601:0951/pct:2.851033499643621,37.9435811823124,15.359942979330008,3.5015624331150206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1240,7 +1240,7 @@ them and you the Mcfonye of that for just a por­
 tion of the country they leave, nod to a- part rs  
 vlixh.-prepoitiened to their ucatbors, they hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82016488:00513688040:1843041501:0021/pct:21.790772042028323,28.19203268641471,16.902695294655093,9.056860742254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82016488:00513688040:1843041501:0021/pct:21.79838586873763,28.203382135966404,16.9103091213644,9.06253546702985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1280,7 +1280,7 @@ children, give them the benefit of exchanging their
 peltries tor what they will want at our lactones, and  
 always hold them firmly by the hanil.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845081801:0376/pct:33.772705352837164,34.1676147136898,16.65327117826716,11.452408039438756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845081801:0376/pct:33.77806354819697,34.1676147136898,16.663987568986766,11.460835124088822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1316,7 +1316,7 @@ the party thus designated had a country allotted to
 the United S ates, the &quot;eastern Cnerokees,&quot;  
 mid the &quot;Arkansuq chiefs,&quot; in the year 1817; whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845082501:0399/pct:4.590429845904298,12.782805429864254,15.912408759124087,10.243841126194067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845082501:0399/pct:4.590429845904298,12.782805429864254,15.928629359286294,10.252220546338194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1497,7 +1497,7 @@ execute a tieaty. The nation of the
 Dr. Price&#x27;s Cream Baking Powder  
 World&#x27;s Fair Highest Award.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1895012301:0564/pct:38.85281385281385,96.27598520596862,15.981240981240981,31.501084045402372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1895012301:0564/pct:29.15388778639726,72.21017727330698,11.979072704311745,23.632189771712792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

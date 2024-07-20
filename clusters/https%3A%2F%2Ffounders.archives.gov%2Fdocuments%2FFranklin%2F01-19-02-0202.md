@@ -551,7 +551,7 @@ Whether rubject, sons, squirrels o
 Daughters,  
 That apparent restrain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059651:00415664965:1854072201:0059/pct:217.81981605351172,213.21799897733084,35.44105351170568,37.12289074484404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059651:00415664965:1854072201:0059/pct:72.60660535117057,71.07266632577695,11.813684503901895,12.374296914948014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

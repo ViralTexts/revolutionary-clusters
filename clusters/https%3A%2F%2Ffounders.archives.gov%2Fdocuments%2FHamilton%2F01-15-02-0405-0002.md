@@ -931,7 +931,7 @@ pasTed a bill providing an annual allowance
 for the education of Hugh Mercer, son of  
 the late general Mercer ; also, that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030601:0004/pct:49.6,41.907630522088354,20.864,2.4096385542168677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793030601:0004/pct:49.624,41.907630522088354,20.864,2.4196787148594376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +950,7 @@ of the firft fellion of the third Congrels, and
 for printing an edition of the fame, to be dif­  
 tribu&#x27;ed according to law, two thousand an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032401:0001/pct:69.921875,56.93606755126659,19.23828125,3.05589063128267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032401:0001/pct:69.93815104166667,56.9410936871733,19.222005208333332,3.0609167671893847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1088,7 +1088,7 @@ For the annual allowance to the widow and or­
 phan-children of Colonel John Harding, and to the  
 orphan-children of Major Alexander Trueman, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796021501:0002/pct:52.54949010197961,32.48953178530643,21.265746850629874,2.150742291587362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796021501:0002/pct:52.57198560287942,32.50380662352493,21.258248350329936,2.1364674533688617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1106,7 +1106,7 @@ lor the annual allowance for the education of
 Hugh Mercer, ton of the late Major General Mer­  
 cer, by the aQ of Congress of the second of Mat ch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796021501:0002/pct:52.51949610077985,36.75295013323182,21.385722855428913,2.0746098210886945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796021501:0002/pct:52.534493101379724,36.75295013323182,21.400719856028793,2.0936429387133613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1153,7 +1153,7 @@ widow and orphan-children of Col.
 John Harding, and to the orphan­  
 children of Major Alexander True
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796082001:0133/pct:42.98677330052291,21.127871438430443,15.287603814211012,2.6126392586019915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796082001:0133/pct:42.99189992822721,21.13115777712051,15.282477186506716,2.609352919911926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1170,7 +1170,7 @@ For the annual allowance for the
 education of fugh Mercer, son of  
 the late Major-General Mercer, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796082001:0133/pct:42.89449400184559,26.313713891353643,15.379883112888342,1.9520851818988465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796082001:0133/pct:42.89449400184559,26.317000230043707,15.379883112888342,1.955371520588912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1304,7 +1304,7 @@ and orphan children of Colonel Joha Har­
 ding, and to the orphan children of Major  
 Alexander Trueman, by the aft of eon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032101:0002/pct:28.623270582898616,33.901018922852984,15.604445452483557,2.3580786026200875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032101:0002/pct:28.634611022907688,33.90465793304221,15.621456112497166,2.3726346433770016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1348,7 +1348,7 @@ ses of the three several Departments, namely,
 Treasury, State, War, and of the General Board  
 of Commissioners twenty-one thousand five hun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1854112701:0339/pct:19.20185078079815,286.9475847893114,58.24175824175824,19.10145353105271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1854112701:0339/pct:4.799537393986122,71.72636523781561,14.55763299922899,4.774662360540223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

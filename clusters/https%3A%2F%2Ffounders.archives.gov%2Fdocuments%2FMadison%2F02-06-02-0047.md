@@ -326,7 +326,7 @@ ries, from October Session, 1792, to December Session,
 HESATeTEsATLarE OF VIRGINIA- New Serles. From  
 October session, 1792, to December session, 1806, inclusive, being 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011001:0037/pct:45.41383793153257,201.51530256205763,40.1848909432327,1.8343136277539627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011001:0037/pct:15.135759676487579,67.16507177033493,13.393029077604467,0.6113769271664008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ October session, 1792, to December session, 1806, inclusive, being
 rHEStATUresAT LArGE OF VIRGINIA- New Series. From  
 October session, 1792, to December session, 1806, inclusive, being 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011101:0041/pct:44.861030689056165,159.72778222578063,39.968152866242036,1.8714971977582067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011101:0041/pct:14.951512519901577,53.237266086260384,13.320789308631253,0.6237699723139531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ October session, 1792, to December session, 1806, inclusive, being
 tHESiTUtEsATLArGE OF VIRGINIY- New Scries. From  
 October session, 1792, to December session, 1806, inclusive, being 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011201:0045/pct:47.66233766233766,133.0715795832075,40.01443001443001,1.792006443169234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011201:0045/pct:15.885153657480883,44.35272800483189,13.336218919828788,0.5972753506476075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ the University of Wiliam and Mary, Virginia. Price $2­
 THESTATUTES ATLARGE OF VIRGINIA--New Series. From  
 October session, 1792, to December session, 1806, inclusive, being 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011301:0049/pct:130.33886085075702,248.655479175091,39.46647440519106,12.838657501010918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011301:0049/pct:43.44002306805075,82.87678156272112,13.15359477124183,4.2791199164392335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ October session, 1792, to December session, 1806, inclusive, being
 Tie STATUTES ATLarE OF VIRGINIA- New Serles. From  
 October session, 1792, to December session, 1806, inclusive, heing 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011401:0053/pct:88.42059838895283,109.03077077277739,39.283659378596084,1.7841034379071865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011401:0053/pct:29.469293830001437,36.33994788534776,13.092669830768493,0.5946415447317431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ October session, 1792, to December session, 1806, inclusive, heing
 THESTATUTES AT LARDE OF VIRGINIA- New Series. From  
 October session, 1792, to December session, 1806, inclusive, heing 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011601:0057/pct:87.69164015041945,106.96177062374245,39.62973676598207,1.881287726358149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011601:0057/pct:29.22631959508315,35.65033698823056,13.208001928175465,0.6270328270127083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ the University of William and Mary, Virginia. Price
 THe STaTUTes ATLArGE OF VIRGINIA- New Series. Frem  
 October session, 1792, to December session, 1806, inclusive, being 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011701:0061/pct:89.21611087050671,94.75436295773227,40.4215389057312,13.386462221325532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011701:0061/pct:29.734411085450347,31.5816017752673,13.471901462663588,4.461703987626925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ October session, 1792, to December session, 1806, inclusive, being
 THeSTATUTES AT LARE OF VIRGINIA- New Serles. From  
 October session, 1792, to December session, 1806, inclusive, being 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011801:0065/pct:87.55066589461494,109.91535671100362,39.53387376954256,1.9145505844417574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011801:0065/pct:29.179331306990882,36.63476070528967,13.176050562068799,0.6381192275398825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ October session, 1792, to December session, 1806, inclusive, being
 The STatUtes At Lare OF VIrGINIA--New Series. From  
 October session, 1792, to December session, 1806, inclusive, being 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011901:0069/pct:87.758346581876,237.47349288094517,39.38430409018644,1.8580228213672625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860011901:0069/pct:29.248554913294797,79.14983844911147,13.126204238921002,0.6192784060312332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ October session, 1792, to December session, 1806, inclusive, being
 THeSTAtUtES AT LarE OF VIRGINIA- New Serles. From  
 October session, 1792, to December session, 1806, inclusive, being 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860012001:0073/pct:86.97863682604273,201.28153380423814,39.60180206365354,1.7961654894046417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860012001:0073/pct:28.98866608544028,67.08707496720815,13.198682553521262,0.5986614199710759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ October session, 1792, to December session, 1806, inclusive, being
 TheSTATUTeS AT LarGE OF VIUGINIA- New Series. From  
 October session, 1792, to December session, 1806, inclusive, being 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860012101:0077/pct:85.4973973395026,108.00968425300111,39.35801041064199,1.8258852012508826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860012101:0077/pct:28.495012288564407,35.99959653015937,13.11744012336755,0.6085670096160312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ the University of William and Mary, Virginia. Price $2.
 THESTATUTeS AT LARGE OF VIRGINIA- New Series. From  
 October session, 1792, to December session, 1806, inclusive, being 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860012501:0089/pct:88.50409541600804,106.02458190610518,39.2872539157925,12.643562361474915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860012501:0089/pct:29.49712643678161,35.33796716026997,13.093869731800766,4.2140962358550755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

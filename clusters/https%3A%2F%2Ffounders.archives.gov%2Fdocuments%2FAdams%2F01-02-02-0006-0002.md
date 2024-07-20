@@ -194,7 +194,7 @@ dence.” The question was put whether
 such a resolution should be considered,  
 and the voles of seven colonics by thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562377A:1876021201:0035/pct:49.65545196595055,39.069280263354784,11.228212403729225,4.653598683226096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562377A:1876021201:0035/pct:49.66220780975544,39.069280263354784,11.234968247534116,4.663574243104394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

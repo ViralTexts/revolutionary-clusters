@@ -118,7 +118,7 @@ of the distich,
 An honest man’s the noblest work of God.”  
 The expectation was, that the intrude
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818080101:0044/pct:45.86846543001686,27.669390983390457,16.71585160202361,3.4932770893751646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818080101:0044/pct:45.858798735511066,27.665744035850796,16.719353705655074,3.4972101401520144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ will his virtues he remembered.
 il A wit’s a feather, and a chief’s a rod.  
 An honest man’s the noblest work of God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840081801:0747/pct:49.30875576036866,7.1082390953150245,14.903900191075644,2.0693899530733133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840081801:0747/pct:49.303214205439424,7.107692307692307,14.905971379336181,2.071794871794872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ An honest man&#x27;s the noblest work of
   
 God.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1844112801:0481/pct:47.14,79.76811594202898,19.16,5.666666666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1844112801:0481/pct:35.381228737242346,59.82608695652174,14.388633179907945,4.260869565217392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ God.&quot;
 A wit&#x27;s a feather, and a chief&#x27;s a rod,  
 An honest man&#x27;s the noblest work of God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1845012501:0012/pct:320.0324412003244,227.5120294367393,58.6374695863747,5.321256722332295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1845012501:0012/pct:80.0081103000811,56.87800735918483,14.659367396593675,1.3303141805830738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ moral bard will equally apply to either
 &quot;A Wit&#x27;s a feather, and a Chief&#x27;s a rod,  
 An honest man&#x27;s the noblest work of God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1845120601:0372/pct:87.51993620414673,71.13090961345021,18.799840510366828,2.8164966230780286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1845120601:0372/pct:65.6761069006781,53.35536715045265,14.100518548065416,2.1123724673085214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ An honest man&#x27;s the noble work of God)&#x27;
 An honest man’s the noblest work of God !”  
 So said Alexander Pope, the bard of Twicken
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847010301:0002/pct:85.3923476005188,17.44982868330886,10.522049286640726,1.162506118453255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847010301:0002/pct:85.40450713359273,17.459006363191385,10.513942931258107,1.1563876651982379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ An honest man&#x27;s the noblest work of God.&quot;
   
 MB. EDITOR:—To the numerous Presidential ticket
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026323:1858061701:0408/pct:5.758064516129032,75.98542563762835,12.290322580645162,1.0047477089544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026323:1858061701:0408/pct:5.763440860215054,75.98542563762835,12.295698924731182,1.0084281034926945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ MB. EDITOR:—To the numerous Presidential ticket
 An honest man&#x27;s the noblest work of God.&quot;  
 I PopE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021957:1859123101:0219/pct:77.97385620915033,160.59677634208072,43.20261437908497,4.369255361662448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021957:1859123101:0219/pct:19.496649779375716,40.14919408552018,10.802418695865338,1.092313840415612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ An honest man&#x27;s the noblest work of God.&quot;
 An exemplification of the sterling truth  
 of this couplet was afforded us yesterday
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867032101:0290/pct:94.01891567869988,202.74979580724204,40.74863460769948,6.00780470097105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867032101:0290/pct:31.339638559566627,67.58326526908068,13.582878202566494,2.00260156699035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ truthfully be said:
 &quot;A wit&#x27;s a feather and a chief&#x27;s a rod,  
 An honest man&#x27;s the noblest work of God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293022:1870093001:0371/pct:110.95334685598377,195.34663989606707,42.866801893171065,6.519428368961852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293022:1870093001:0371/pct:27.752409944190767,48.83665997401677,10.722137662776932,1.629857092240463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ An honest man&#x27;s the noblest work of God.
 A wit &#x27;s a feather, and a chief&#x27;s a rod,  
 An honest man&#x27;s the noblest work of God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559917:1874013001:0646/pct:68.87791107974594,42.513661202185794,39.237826393789696,2.841530054644809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559917:1874013001:0646/pct:17.22555594775856,10.628415300546449,9.81291916696082,0.7103825136612022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ God.
 i R  
 Beauntiful Nentiment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053283:00517177015:1898050401:0928/pct:11.564348358148072,57.60113372842051,21.864164797063022,9.778407626900284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053283:00517177015:1898050401:0928/pct:8.96253754149323,44.64154962391,16.9503135043996,7.5916927378020365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ doggerel on his slab:
 &quot;A wit&#x27;s a feather, and a chief&#x27;sa rod;  
 An honest man&#x27;s the noblest work of God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199471:1898061001:0749/pct:205.1824817518248,165.66347469220247,37.81021897810219,9.370725034199726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199471:1898061001:0749/pct:68.39416058394161,55.221158230734154,12.603406326034063,3.123575011399909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ a man.&quot; was his reply.
 An honest man&#x27;s the noblest work of  
 God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:0020219266A:1899041901:0671/pct:56.88040345821326,102.06358911647814,16.498559077809798,3.9131763986548456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:0020219266A:1899041901:0671/pct:42.69237700486574,76.55151329868542,12.380609118760137,2.934882298991134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

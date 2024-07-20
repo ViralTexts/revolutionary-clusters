@@ -49,7 +49,7 @@ After dinner I produced the draught of MeJEiLTL .? d,«&quot;fht—
 France end Rurlind, proposing that that relative to R &#x27;* *&#x27;&#x27;^l**t ef  
 subsequent an/aecrit. &gt;•* »el*U»e to Sp„„ .hookl b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831010401:0282/pct:81.9967746664712,79.36777702243371,15.115085764550653,1.4276002719238614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831010401:0282/pct:81.98475520375257,79.35878554435256,15.117756278706146,1.431214833276689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ mat he would refer it to Congress, and let them
 decide for themselves whether the Constitution  
 aatnorized it or not. This discussion indicate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879072701:0012/pct:71.88531353135313,89.18592357649902,13.139438943894389,3.2472436187887026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879072701:0012/pct:71.89562706270627,89.19347530584504,13.154909240924093,3.2472436187887026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

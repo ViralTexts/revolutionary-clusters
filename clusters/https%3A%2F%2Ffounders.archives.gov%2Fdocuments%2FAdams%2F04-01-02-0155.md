@@ -324,7 +324,7 @@ the Lord, who is great and terrible, and fight for
 your brethren, your sons and your daughters, your  
 wives and your houses.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849070301:0092/pct:17.619762522178245,15.343289996776619,13.18411355261362,2.471258192758139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849070301:0092/pct:17.62431190573677,15.350453064002005,13.18411355261362,2.467676659145446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ the place of my fathers&#x27; sepulchres,
 lieth waste, and .the gates thereof are  
 consumed with fire?&quot; L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023127:1866071401:0097/pct:71.57200229489386,57.00478278198486,18.416523235800344,4.0852929453965725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023127:1866071401:0097/pct:53.70157819225251,42.75607811877242,13.81635581061693,3.068951773614986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ Their thoughts, at times, revert to “Zion’s
 Hill” or “Olive’s Height” or “Siloam’s Brook,”  
 and many of them still look forward to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1869072201:0015/pct:50.249451207343846,69.70425923305504,15.06685292356815,10.35800198103863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1869072201:0015/pct:50.239425379090186,69.69439728353142,15.068834796488428,10.360073571024335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ your sons and your daughters, your wives and your
 houses. And it came to pass, when our enemies heard  
 that it was known unto us, and God had brought thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531174:1874042701:0222/pct:56.90553745928339,230.49965301873698,47.11726384364821,9.426324311820496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531174:1874042701:0222/pct:18.968512486427795,76.83321767291233,15.705754614549402,3.142108103940165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ terrible, and fight for your brethren,
 your sons, and your daughters, your  
 wives, and your houses.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624633:1893021701:0251/pct:72.91572780531772,60.71485305798252,16.516448850833708,2.4463860206513104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624633:1893021701:0251/pct:61.989274770173644,51.61580700333063,14.044943820224718,2.0793950850661624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ of my fathers’ sepulchres, lieth waste
 and the gates thereof are consumed with  
 tire?”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1895050401:0240/pct:2.52262661274793,82.88133161142201,12.51684960523782,2.755058114507103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1895050401:0240/pct:2.522140931844436,82.86944045911048,12.519252984212553,2.7582496413199427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ when the city, the place of my father&#x27;s
 sepulcher, lleth waste, and the gates  
 thereof are consumed with fire?&quot; Siif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478076:1895050601:0274/pct:37.57916959887403,92.41699493528418,14.039408866995075,2.743387732132808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478076:1895050601:0274/pct:28.19926069353987,69.31626336522228,10.54391832423869,2.0540236353404615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ fight for your brethren, your sons, and j
 &#x27;your daughters, your wives, and your j  
 houses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_fishermanscove_ver01:data:sn83032307:00513685361:1899110901:0358/pct:36.43634747833815,25.288072251635004,14.818929126860697,6.913734039240112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_fishermanscove_ver01:data:sn83032307:00513685361:1899110901:0358/pct:36.428254109284765,25.284135139342986,14.821190581963572,6.9165498988011835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

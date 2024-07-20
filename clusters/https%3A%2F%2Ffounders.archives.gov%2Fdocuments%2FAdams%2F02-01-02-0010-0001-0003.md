@@ -1724,7 +1724,7 @@ The flpirit-stirringrum the car-piercing fife,
 The royal banner, and all quality.  
 Pride, pomp, and circumstance of glorious wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1845030501:0221/pct:69.23076923076923,23.118957545187055,18.222554144884242,3.6990332072299283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1845030501:0221/pct:51.9424729174449,17.346223903600954,13.672020918939111,2.7742749054224465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2341,7 +2341,7 @@ The immortal Jove&#x27;s dread clamors counter-
 - felt  
 Farewell ! Othello&#x27;s occupation&#x27;s gone 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879031901:0106/pct:87.85601265822785,83.9763040023118,19.026898734177216,6.025140875596012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879031901:0106/pct:65.92797783933518,62.98222800173385,14.265927977839334,4.522467851466551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2473,7 +2473,7 @@ Far round illumined hell.
 AH through antiquity and the middle  
 ages the sword held its place as a weapon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280106:1889111701:0188/pct:52.014218009478675,37.95423956931359,14.708869329722411,3.5935397039030956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280106:1889111701:0188/pct:39.03471634208298,28.465679676985197,11.041490262489416,2.7052489905787347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

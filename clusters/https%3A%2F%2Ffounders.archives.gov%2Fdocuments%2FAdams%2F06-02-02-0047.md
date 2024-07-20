@@ -165,7 +165,7 @@ a wiser investment of a like amount of
 money could be made. There was danger  
 that reading would become one of the los
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742149:1878062101:0599/pct:165.85173501577287,161.5094686523258,41.14090431125131,14.184592756021328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742149:1878062101:0599/pct:55.28391167192429,53.83648955077526,13.713634770417105,4.7281975853404425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ manded to forgive our friends.&quot;
 BaconThe good things which be*  
 Ions to prosperity are to be wished, bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341644:1881090601:0233/pct:36.43847487001733,36.59158521036974,10.961871750433275,2.868678283042924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341644:1881090601:0233/pct:36.43321299638989,36.58769786465526,10.965102286401926,2.8719147278586354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ forgive our enemies, but you never
 read that wo are commanded to for­  
 give our friends.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:00200297131:1881090801:0132/pct:116.79571173317451,38.302277432712216,12.894580107206671,2.277432712215321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:00200297131:1881090801:0132/pct:87.62287756925826,28.732459167241775,9.681263032469467,1.7023234414538762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ but tho good things bolong to adversity
 aro to bb admired. Tho virtue of pros­  
 perity is temperance, the virtue of ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027200:1881101301:0435/pct:52.6482440990213,35.40937718684395,13.687392055267702,5.633310006997901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027200:1881101301:0435/pct:39.49906434432129,26.55703289013296,10.263423060313805,4.233729881035689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

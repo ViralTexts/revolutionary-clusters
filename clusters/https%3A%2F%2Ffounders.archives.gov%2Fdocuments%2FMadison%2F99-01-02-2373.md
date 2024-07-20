@@ -62,7 +62,7 @@ lCr»
 mg made on lands ceded to the United  
 States, until authorized by hnv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807032601:0029/pct:10.430963491627779,83.98617511520737,26.104858632994784,6.566820276497696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807032601:0029/pct:10.428100987925356,83.96682791983415,26.1068422978412,6.572986255087153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ the city of Natchez be, and the fame
 is hereby forever vested in the corpo­  
 ‘r ration of the said city, so-as not te af
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808091301:0145/pct:23.316862260654727,71.56184170929883,16.53798641136504,10.953957267529342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808091301:0145/pct:23.32200947086679,71.56184170929883,16.532839201152974,10.960644665128566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ tled “ An art to prevent settlements
 being made on land ceded to the United  
 States until authorized by law.” It
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822060801:0259/pct:42.42424242424242,28.19044502617801,17.223517223517224,2.5032722513089007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822060801:0259/pct:42.41325737959606,28.185833469654835,17.225530813050234,2.506952396531981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ lar cases by the second section of the *‘act to pre­
 vent settlements being made on lands ceded to  
 the United States, wntil authorized by law’’ an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830033001:0260/pct:57.71842462652784,72.0197839911174,15.889542779538253,1.4333299687089935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830033001:0260/pct:57.72345455459987,72.02314861545709,15.894572707610282,1.4333299687089935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ of the act of the third of March, 1807, entitled “An
 act to prevent settlements being made on Jauds ce­  
 ded to the United States, until authorized by law;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1833031301:0157/pct:64.17193426042984,47.40795017402455,16.030341340075854,1.52042498626122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1833031301:0157/pct:64.15571284125379,47.3992673992674,16.032608695652176,1.5247252747252746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ ma are directed, is found in the Act ol Congress of March
 made on lands ceded to the United States, until aulhorixcd  
 hy law.” This Act, a* is well known, was passed upon 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833100801:0179/pct:64.30250241946634,37.765547605943866,15.028342319922578,1.8161805173362686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833100801:0179/pct:64.29361349184407,37.76139115122166,15.030872730623905,1.819649277276396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ preventatives of the Untied States oj America in Con­
 gress assembled, That if any person or persons shall,  
 after the passing of this act, take possession of, or mak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838071801:0533/pct:2.367850591962648,32.98632126861155,16.058029014507255,6.924101198402131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838071801:0533/pct:2.367850591962648,32.99035629261994,16.063587349230172,6.924101198402131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ under the pretence that he was empowered &quot;to
 prevent settlements being made on lands ceded to  
 the United States, until authorized by law.&quot; Liv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295876104:1848032301:0073/pct:62.29935794542536,235.28291621327529,45.02407704654895,4.529379760609358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295876104:1848032301:0073/pct:20.76645264847512,78.42763873775843,15.008025682182986,1.5097932535364527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ We give the main section of this &quot;Act to prevent
 settlements being made on lands ceded to the  
 United States until authorized by law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849040901:0349/pct:61.13251155624037,188.38046958377802,43.68258859784284,4.64247598719317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849040901:0349/pct:20.377503852080125,62.79348986125934,14.560862865947612,1.5474919957310567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -763,7 +763,7 @@ It will be observed that the right of the
 United States to this mine is stated in Ibis  
 warrant to consist in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1863072501:0116/pct:39.08218920443859,72.08955223880596,14.199736693624224,12.333785617367706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1863072501:0116/pct:39.096294903140866,72.09972862957937,14.195034794056799,12.340569877883311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

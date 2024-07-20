@@ -526,7 +526,7 @@ the river Iberville; and from iheuce along the mid- !
 die of the said river and lakes Maup-pas audfoni hur­  
 liain, to the gulph of Mexico ; thence bounded b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811030601:0398/pct:25.74134064291054,35.31331592689295,21.654622476949914,6.772193211488251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811030601:0398/pct:25.734927752864973,35.30755425028553,21.65545590433483,6.775167237722304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ properties, of persons resident in districts in
 the possession of his majesty’s arms, and, who  
 have not borne arms, against the U. States.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1826012301:0699/pct:79.02934907361863,30.486593843098312,17.101164125266436,8.540218470705064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1826012301:0699/pct:79.01639344262296,30.48323036187114,17.103825136612024,8.542953809944102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -926,7 +926,7 @@ i source, and from its source directly north to
 I vers that fall into the Atlantic Ocean, from  
 j those which fall into the river St. Lawrence,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828041901:0138/pct:23.136766765209273,8.121591831999071,17.939940874435973,5.186216498433693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828041901:0138/pct:23.133167392657125,8.120649651972158,17.94233561501763,5.189481825212684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1009,7 +1009,7 @@ the St. Lawrence, to the north westernmost licad
 of Connecticut river,” thus abandoning altogeth­  
 er, the beundaries of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831051001:0493/pct:62.382585358580585,6.60262891809909,32.309527359475176,85.49039433771486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831051001:0493/pct:62.38755529049252,6.609369733737783,32.309527359475176,85.49039433771486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1049,7 +1049,7 @@ lands which divide the rivers that fall into
 me Atianuc ucean irom tnoe which fill  
 into the river St. Lawrence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1839032301:0417/pct:33.31702544031311,95.7950942766561,23.33659491193738,6.190555648256299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1839032301:0417/pct:25.006116956202593,71.85049224094777,17.51896256422804,4.655431336559319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1246,7 +1246,7 @@ into the Atlantic,-i, it not clear, that they must have
 regarded the St. Croix as falling j?to the Atlantic or  
 sea, although by the medium
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841012601:0541/pct:35.22462860211205,63.12507952665734,15.643458027563987,10.675658480722738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841012601:0541/pct:35.22462860211205,63.13356237010646,15.649424258695781,10.675658480722738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1304,7 +1304,7 @@ debtor before tho treaty cf peace, and the
 real question before the court was wheth  
 er upon, tius con. truction, the treaty i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1843052701:0123/pct:32.00483091787439,51.05232388190588,19.726247987117553,9.14937152879275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1843052701:0123/pct:24.01852224682907,38.292896813797135,14.797664586269377,6.86933645133002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1324,7 +1324,7 @@ middle of the said river Mississippi until it shall
 intersect the northernmost part of&quot; the thirty-first  
 degree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845042301:0282/pct:70.55464926590538,49.167200512491995,20.241979336595975,3.95045910740978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845042301:0282/pct:52.937177046505305,36.878069613495626,15.189012782159368,2.9681827888105916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1361,7 +1361,7 @@ ty io fishj for it acknowledged the &quot;unmolested
 1 tea, where the inhabitants of both countries used  
 &#x27; at anp time heretofore to fish.&quot; This was clearl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852073101:0286/pct:3.2194573316462813,57.58167806360577,15.591171095177843,4.189731900575274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852073101:0286/pct:3.2241435868597406,57.58167806360577,15.600543605604761,4.193349976482507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1470,7 +1470,7 @@ lated for a continuance of the same privi­
 lege from the United States.  
 The United States also succeeded to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861012501:0030/pct:10.376608930557763,21.90912293060937,26.537422532973146,69.48456029118235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861012501:0030/pct:10.387202712008051,21.90912293060937,26.548016314423432,69.4884740323275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1498,7 +1498,7 @@ United States, stipulated for a continuance of
 the same privilege from the United States.  
 The United States also succeeded to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861013001:0112/pct:175.9087669280114,181.64556962025316,48.8952245188881,24.68354430379747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861013001:0112/pct:44.000713139597075,45.41139240506329,12.230344089855588,6.170886075949367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1540,7 +1540,7 @@ States, stipulated for a continuance of the
 same privilege from the United States.  
 The United States also succeeded to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021970:1861013101:0213/pct:124.00505369551485,49.29082628497072,100.37902716361339,329.4729993493819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021970:1861013101:0213/pct:31.011058451816744,12.32270657124268,25.10268562401264,82.36824983734547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1570,7 +1570,7 @@ remain free and open to the subjects of
 Great Britain and the citizens of the Uni­  
 ted States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1861020701:0215/pct:177.54952311078503,197.58698092031426,49.1562729273661,33.95061728395062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1861020701:0215/pct:44.403669724770644,49.396745230078565,12.293577981651376,8.487654320987655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1591,7 +1591,7 @@ main free and open to the subjects of I
 Great Britain and the citizens of thej  
 United States, 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_archer_ver01:data:sn86092243:00393348896:1861021601:0020/pct:51.31295738269479,90.35717899423253,15.267613717893529,4.522918142264494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_archer_ver01:data:sn86092243:00393348896:1861021601:0020/pct:51.305595408895265,90.34803723188992,15.270205643232902,4.525832996087954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1609,7 +1609,7 @@ first article reads as follows:
 ted States, viz: New Hampshire, &amp;c., &amp;c., to be free,  
 sovereign and independent States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861080801:0134/pct:137.3891001267427,279.36507936507934,50.760456273764255,6.159677801468846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861080801:0134/pct:34.3636075447773,69.84126984126983,12.696148359486449,1.5399194503672116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1848,7 +1848,7 @@ States
   
 RATHEr DLl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881101501:0453/pct:173.60066833751046,47.7298072327545,90.30910609857979,332.64298231639316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881101501:0453/pct:43.400167084377614,11.932451808188626,22.577276524644947,83.16074557909829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1960,7 +1960,7 @@ wish to restore&quot; was the avowed mo­
 tive and desire of the negotiators of  
 the first Fisheries Treaty between th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1888032901:0495/pct:7.2796934865900385,74.2251655629139,15.081853012887496,5.28476821192053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1888032901:0495/pct:5.828263595411694,59.38261575954508,12.060558212975433,4.231271853918694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

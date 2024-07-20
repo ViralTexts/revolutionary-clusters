@@ -38,7 +38,7 @@ construing which no common arbiter is known,
 each state has the right lo construe the compact  
 lor itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021201:0381/pct:48.877485567671584,9.865578492558809,15.394483643361129,2.2803648583773404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021201:0381/pct:48.86964886964887,9.864394575783031,15.397359841804287,2.284091363654546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -57,7 +57,7 @@ construing which no romtuon arbiter is known,
 each state hu9 the right to construe the compact  
 tor itseif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021401:0385/pct:48.6090775988287,16.212946158499697,15.324548560273303,2.323049001814882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021401:0385/pct:48.601171112556926,16.210984756835227,15.327477770548688,2.326800548431325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -76,7 +76,7 @@ construing which no common arbiter is known,
 each state has the right to construj the compact  
 for itself.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829022401:0400/pct:67.25069592271164,85.52568410945752,15.408547568364172,2.268362938070091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829022401:0400/pct:67.23968565815323,85.51542061682467,15.411482209124646,2.2720908836353453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ construing which no common arbiter is known,
 each state has the right to construe the compact  
 for itself. P
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829022601:0405/pct:48.32762277696198,30.240673886883272,15.369554576603035,2.322503008423586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829022601:0405/pct:48.31973898858075,30.237035254482013,15.372485046220772,2.326234307945293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ stales, in construing which no common arbiter
 is known, each Slate has the right to construe  
 the compact for itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829030501:0233/pct:21.017234131988232,91.69329073482429,14.754098360655737,2.454255010165553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829030501:0233/pct:21.01281781886951,91.67997676782343,14.756251313301114,2.457528677217947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ known, each State has the right to c&gt; n
 strut the compast for itself. —lea* 134,  
 May* 68
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829030501:0045/pct:62.53822629969419,36.99958442997645,17.693315858453474,5.305443967308491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829030501:0045/pct:62.52456868311859,36.99445983379501,17.694911552740773,5.308171745152355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ To the first proposition contained in thi* resolu­
 tion, if I properly understand it, I yield mv un  
 qualified assent The Constitution of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829030601:0415/pct:48.2571522525485,84.44551128180508,15.554094048010523,3.9366298607777246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829030601:0415/pct:48.249219135295085,84.43537741509661,15.557016822839607,3.9401576063042523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ which no common arbiter is known, each
 State has the right to construe&#x27;the compact  
 for itself.—Yeas 134, Nays 68
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829031001:0215/pct:33.697791384211676,48.063973063973066,19.92127706101028,4.236812570145903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829031001:0215/pct:26.12699130041803,37.257175993041464,15.427635295446843,3.287184691214845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ which no common arbiter is known, each
 state lias the right to construe the compact  
 for itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1829032501:0247/pct:54.28754608110274,46.55991165102154,15.146658118288187,4.527885146327995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1829032501:0247/pct:54.27884615384615,46.5547703180212,15.149572649572649,4.531065959952886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ a federal compact between sovereign states, in
 constructing which no common arbiter is known,  
 each s&#x27;atr. has a right to construe the compact fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1829051601:0276/pct:48.16838046272493,5.9779005524861875,15.295629820051413,7.94475138121547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1829051601:0276/pct:48.16064257028113,5.977240083968622,15.298527443105757,7.94755643943579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ ter is known, each State
 h&#x27;s the right to construe  
 the compact for itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829071301:0376/pct:5.1173991571342565,81.92702394526796,14.388922335942203,5.772519954389966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829071301:0376/pct:5.11637239165329,81.91534843950406,14.391051364365971,5.775260082656406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ pact between sovereign States, in construing which no
 common arbiter is known, each Slate has the right to  
 construe the compact for itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835040701:0458/pct:19.97269624573379,12.60131849130012,14.443686006825939,2.183075759213228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835040701:0458/pct:19.96996996996997,12.599956775448454,14.446264446264447,2.1864418989986314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

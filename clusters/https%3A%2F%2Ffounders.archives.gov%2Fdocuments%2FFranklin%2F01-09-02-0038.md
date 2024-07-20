@@ -52,7 +52,7 @@ the mean litre you will read with more satisfac­
 tion, because with inure understanding/’  
 * •»
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833060601:0659/pct:26.84458398744113,70.14335145823036,18.245246816675387,14.705882352941176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833060601:0659/pct:26.839902336937566,70.13468429506982,18.24787815370306,14.708184027348738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ lints of what you find that is curious or uia;
 to useful.&quot;  
 The first carriage said to be built in Am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859031701:0144/pct:71.96802646085997,6.486541185994738,12.913450937155458,2.782837482291034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859031701:0144/pct:71.96802646085997,6.489914322336909,12.927232635060639,2.786210618633205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ hints of what you find that is curious or may
 be useful.  
 The first carriage said to Ie built in Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477631:1859040601:0432/pct:79.3103448275862,25.71076785314529,18.483343074225598,3.548242668457578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477631:1859040601:0432/pct:59.49145111793073,19.285874188493395,13.868186467923426,2.6639802999776134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ your hand, and enter in a little book short
 hints of what you find that is curions, or may  
 os te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859041001:0340/pct:201.29504504504504,28.47072200113701,33.671171171171174,4.729960204661739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859041001:0340/pct:50.337932976626306,7.117680500284252,8.420163334272036,1.1824900511654348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ hand, and enter in a little book short hints of what
 you find that is curious, or may be useful.&quot;  
 The first carriage said to be built in America wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859042401:0397/pct:21.5527950310559,94.4424778761062,49.68944099378882,6.7492625368731565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859042401:0397/pct:5.390709958054995,23.61061946902655,12.428149759204599,1.6873156342182891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ advise you to read with a pen in your hand and en­
 ter in a little book, short hints of what yon find that  
 er in a little book, short ii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475221:1859050201:0844/pct:50.227649006622514,255.82909783989834,37.74834437086093,4.002541296060991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475221:1859050201:0844/pct:16.742549668874172,85.27636594663278,12.582781456953642,1.3341804320203303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ hand, and enter in a little book short hints of
 what you find that is curious, or may be useful ”  
 The first carriage said to be built in America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860040701:0002/pct:44.04090267983075,82.0850583364697,12.11212976022567,2.1327311504202733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860040701:0002/pct:44.04090267983075,82.08819470580856,12.120944992947814,2.135867519759127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ ments in science might we not flatter our-
 seives with the hopes of accomplishing had  
 we only activity and industry to treasur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531009:1880051501:0480/pct:90.28048597570121,96.51710715017414,40.72296385180741,20.876869493956157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531009:1880051501:0480/pct:30.09349532523374,32.17236905005805,13.574321283935804,6.958956497985385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ and enter in a little kook short hints of
 what you find that is curious or may be  
 useful.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627609:1881012201:0375/pct:61.971129915380786,94.31292517006803,11.133233781317404,2.4761904761904763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627609:1881012201:0375/pct:61.98357391737183,94.31292517006803,11.129085780653725,2.489795918367347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

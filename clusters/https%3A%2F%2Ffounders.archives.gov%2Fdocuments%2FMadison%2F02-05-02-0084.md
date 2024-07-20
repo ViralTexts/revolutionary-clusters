@@ -181,7 +181,7 @@ St0) ard Mareh I, 1817, Sec. 30 Stat, at Large, 0)
 cor cernirg seamen, certair ly imply there may be per­  
 sors of color, netives of the Unised States, who are no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857031301:0486/pct:201.3055693273839,87.63395544852499,47.18228392001322,14.726068633353401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857031301:0486/pct:67.1018564424613,29.211318482841662,15.72742797333774,4.908689544451134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ Stat, at Large, 351,) concerning seamen, certainly
 imply there may be persons of color, natives  
 of the United States, who are not citizen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn84026752:00415620378:1857040201:0065/pct:3.189119474733263,9.172445677300047,13.448235432055341,5.492371705963939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn84026752:00415620378:1857040201:0065/pct:3.189119474733263,9.175527816304516,13.448235432055341,5.4954538449684085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ import or bring &quot;any negro, mulatto, or other
 person of color, not being a native, a citizen,  
 or registered seaman of the United States,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857041701:0276/pct:28.16679779701023,93.12863317931138,51.53422501966955,11.805038008645104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857041701:0276/pct:7.045857114741192,23.282158294827845,12.891163156858886,2.951259502161276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ The acts of March 3, 1813, section 1, (2 Stat, at Large,
 i-51,) concerning seamen, certainly imply there mxy be  
 l&gt;?rsons of color, natives of the United &quot;States, who ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661629:1857062701:0055/pct:82.16773474505433,71.55710807663809,15.491780440234049,4.784587699798878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661629:1857062701:0055/pct:82.17237856413114,71.56416499064959,15.487136621157239,4.784587699798878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ impoitation ot certain persons into certain States where, i
 by the laws thereof, their admission is prohibited.&quot; In  
 tiiis manner the impoitation of African slaves into th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663481:1859121901:0340/pct:17.436766991663134,25.546009729841632,16.306344496255477,2.1115826518993894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663481:1859121901:0340/pct:17.436766991663134,25.549460028292447,16.315764683717205,2.1184832488010215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ the importation of certain persona into certain
 States where, by the laws thereof, their admission  
 is prohibited.&quot; In this manner the importation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061076:00200293897:1859122302:0612/pct:24.4579945799458,9.489461358313818,17.181571815718158,2.1733021077283374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061076:00200293897:1859122302:0612/pct:18.354344584519453,7.11943793911007,12.891419276128508,1.629976580796253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ the importation of certain persons into certain
 States where, by the laws thereof, their admission  
 is prohibited.&quot; In this manner the importation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743336:1859122801:1077/pct:53.88680531878622,210.78662270372115,45.4653937947494,5.734809232218558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743336:1859122801:1077/pct:17.96226843959541,70.26220756790705,15.155131264916468,1.9116030774061863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ portation of certain persons into certain States where, by
 the laws thereof, their admission is prohibited.&quot;&#x27; In this  
 manner the importation of African slaves into the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859122801:0625/pct:15.108119719318344,66.3613487669854,11.069740799083489,1.1071967790639154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859122801:0625/pct:15.108119719318344,66.36805905049488,11.074514296625138,1.1071967790639154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ portation of certain persons into certain States whers.
 y the laws thereof, their admission is prohibited.&quot;  
 In this manner the importation of African slaves in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1859122801:0365/pct:57.28,46.527579308373824,50.56,5.887396398971134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1859122801:0365/pct:14.322864572914582,11.631894827093456,12.64252850570114,1.4718490997427836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ act to take effect &quot;from and after the 1st day of
 January, 1868,&quot; prohibiting the importation of  
 African slaves into the United States. Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859122801:0604/pct:53.16738709196601,52.79099956728689,37.1143240423312,14.214625703158806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859122801:0604/pct:17.722462363988672,17.596999855762295,12.371441347443731,4.738208567719602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ into ceitain States where, by the laws thereof,
 their admission is prohibited.*&#x27; In this manner  
 the importation of African slaves into the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859122901:0645/pct:14.594659900930289,58.26883141400793,12.299142201280658,2.369265622050217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859122901:0645/pct:14.602714348999235,58.27512428418602,12.29108775321171,2.369265622050217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ into certain States, where, by the laws thereof,
 their admission is prohibited.&quot; In this man­  
 ner the importation of African slaves into th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775691:1859122901:0402/pct:124.98060512024826,35.76590619243304,48.719937936384795,6.858438429927731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775691:1859122901:0402/pct:31.26334174267417,8.94147654810826,12.187075490005823,1.7146096074819328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ into certain States where, by the laws there.
 of, their admission is prohibited.&quot; In this  
 manner the importation of African slave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775228:1859122901:0799/pct:229.30194805194805,146.82098301518113,49.26948051948052,7.395160078160228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775228:1859122901:0799/pct:57.33712198092145,36.70524575379528,12.319870103511265,1.848790019540057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ manner the importation of African slave
 to certain States where, by the laws thereof, their  
 admission is prohibited.&quot; In this manner the im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1859122901:0495/pct:140.72308303535956,108.60774119006355,59.69408025427096,6.022530329289428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1859122901:0495/pct:35.17378351539225,27.14801444043321,14.920556107249256,1.5054151624548737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ prevent the importation of certain persons into
 certain States where, by the laws thereof, their  
 admission is prohibited.&quot; In this manner th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859123001:0004/pct:3.0524092916106738,91.79082240762813,9.713956613553465,1.0429082240762813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859123001:0004/pct:3.0620080629679403,91.80199642431467,9.704357842196199,1.054082240762813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ sons into certain States where, by the laws
 thereof, their admission is prohibited.&quot; In  
 this manner the importation of Africa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021957:1859123001:0215/pct:72.85336856010568,208.85756084585717,49.73579920739762,7.607394600345791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021957:1859123001:0215/pct:18.216350123864576,52.21439021146429,12.436003303055326,1.9018486500864478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ portation of certain persons into certain States
 where, by the laws thereof, their admission is pro­  
 hibited.&quot; in this manner the importation of Afri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293289:1859123101:0622/pct:18.992248062015506,336.2247513585563,43.798449612403104,5.700810007177279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293289:1859123101:0622/pct:4.748719368683372,84.05618783963908,10.95112834002492,1.4252025017943197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ tion of certain persons into certain States
 where, by tee laws thereof, their admission  
 is prohibited.&quot; In this manner the impor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860010301:0591/pct:96.09756097560975,231.15535317166155,35.56910569105691,6.544530339934343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860010301:0591/pct:32.03252032520325,77.05178439055385,11.856368563685637,2.1815101133114476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ importation of certain persons into certain States
 where, by the laws thereof, their admission is pro­  
 hibited.&quot; In this manner the importation of Afri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1860010301:0005/pct:26.963993453355155,38.954505686789155,19.489907255864704,2.6137357830271215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1860010301:0005/pct:20.229163824853362,29.22134733158355,14.622834538262174,1.957567804024497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ of certain persons into certain States where, by
 the laws thereof, their admission is prohibited.&quot;  
 In this manner the importation of African slave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1860010301:0014/pct:18.120805369127517,21.878015827060413,12.44192049561177,1.8818760856977417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1860010301:0014/pct:18.129409740147995,21.88444959145596,12.44192049561177,1.8850929678955157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ vent the importation into certain States
 where, by the laws thereof, their admiss­  
 ion is prohibited.&quot; In this manner the im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn82016350:00202191496:1860010401:0021/pct:70.17811704834605,160.70222822417287,42.595419847328245,4.861580013504389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn82016350:00202191496:1860010401:0021/pct:17.551228204149165,40.17555705604322,10.652920962199312,1.2153950033760972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -830,7 +830,7 @@ the importatation of certain persons into certain
 States where, by the laws thereof, their admission  
 is prohibited.&quot; In this manner the importation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022652:1860010401:0220/pct:27.561058344640433,34.50066417099384,18.775440976933513,2.4634705953387273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022652:1860010401:0220/pct:20.682049541907023,25.878517087308296,14.099083814048184,1.8476029465040453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -905,7 +905,7 @@ manner the importation of African slave
 certain States where, by the laws thereof, their admission is  
 prohibited.&quot; In this matter tho importation of African slave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1860010501:0005/pct:8.408969567538708,104.41543482434248,19.9679658302189,1.5837972739489345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1860010501:0005/pct:6.315086782376502,78.31637550393549,14.979973297730307,1.1902476483010174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -926,7 +926,7 @@ certain States, where, by the laws there
 of, their admission is prohibited.&quot; In  
 this manner the importation of Africa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028034:1860010501:0006/pct:131.3846153846154,127.23767557146792,48.30769230769231,10.52051776370146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028034:1860010501:0006/pct:32.85879184301655,31.80941889286698,12.08156983455175,2.630129440925365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -945,7 +945,7 @@ States, where, by the laws thereof, their
 admission is prohibited.&quot; In this man­  
 ner the importation of African slaves in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1860010501:0193/pct:24.945215485756027,80.19010883041742,16.4536157779401,3.6919685907149744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1860010501:0193/pct:18.728302576283575,60.146025623364096,12.351543942992874,2.7689764430362307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -963,7 +963,7 @@ sons into certain States where, bv the laws
 thereof, their admission is prohibited.&quot; In  
 this manner the importation of African slave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1860010501:0330/pct:17.368751964790945,82.00205690778196,14.602326312480352,2.2625985601645526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1860010501:0330/pct:17.379230849837576,82.00586599626709,14.602326312480352,2.266407648649678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -981,7 +981,7 @@ the importation of certain persons into certain
 States where, by the laws thereof, their admis­  
 sion is prohibited.&quot; In this manner the impor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197619:1860010501:0008/pct:5.120751341681574,37.066315327184896,22.025939177101968,3.1034987556726685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197619:1860010501:0008/pct:3.8470140908074257,27.799736495388668,16.52874077387609,2.3276240667545016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1017,7 +1017,7 @@ into certain States where,by the laws thereof,
 their admission is prohibitid.&quot; In this man­  
 ner, the importation of Afrcan slaves into th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1860010601:0413/pct:17.06798866855524,42.719947014019205,11.090651558073654,1.744121867755823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1860010601:0413/pct:17.077431539187913,42.719947014019205,11.085930122757318,1.7551606137542775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ certain persons into certain States, where, by
 the laws thereof, their admission is prohibit­  
 ed.&quot; In this manner the importation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1860010601:0007/pct:165.71351131589645,210.1356102461075,35.38419840086733,5.464590657960824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1860010601:0007/pct:55.230352303523034,70.0381679389313,11.793134598012648,1.8213472612829784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1064,7 +1064,7 @@ and after the 1st day of January, 1808,&quot;
 prohibiting the importation of African slaves  
 into the United States. This was followe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523982:1860010601:0415/pct:89.40650925335035,173.23529411764707,38.20995532865348,20.95860566448802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523982:1860010601:0415/pct:29.797415855798373,57.73880840867008,12.734620088265007,6.985440946883055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1082,7 +1082,7 @@ persons into certain States where by the laws
 thereof, their admission is prohibited” In this,  
 manner the importation of African slaves into the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1860010601:0004/pct:70.95588235294117,32.72911832946636,13.235294117647058,1.638631090487239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1860010601:0004/pct:70.94139268940168,32.724372915760476,13.237696548907495,1.642018268812527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1100,7 +1100,7 @@ certain persons into certain States where,
 by the laws thereof, their admission is pro­  
 hibited.” In this manner the importatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860010601:0184/pct:27.926992135331652,74.67801287948483,12.46475738240095,2.1274149034038636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860010601:0184/pct:27.926992135331652,74.68184605949095,12.47959637928476,2.138914443422263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1119,7 +1119,7 @@ States where, by the laws thereof, their ad­
 mission is prohibited.&quot; In this manner  
 the importation of African slaves into th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860010601:0218/pct:127.46268656716418,289.62973471414386,48.507462686567166,9.249538941693856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860010601:0218/pct:31.883516893783835,72.40743367853597,12.133656897517268,2.312384735423464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1137,7 +1137,7 @@ passed an act on fibth February, 1808, &#x27;-to prevent
 States where, by the laws thereof, their admission  
 is prohibited.&quot; Jn this manner the importation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028551:1860010601:0627/pct:17.836210993188658,50.465966733514215,14.12957389513702,1.8284770555621093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028551:1860010601:0627/pct:17.836210993188658,50.473831150957494,14.145414224615871,1.8245448468404704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1155,7 +1155,7 @@ of certain persons into certain States where, by
 the laws thereof, their admission is prohibited.”  
 In this manner the importation of African slave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349463:1860010601:0004/pct:40.684464640727064,42.89995866060355,13.334280034081226,1.8396031417941299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349463:1860010601:0004/pct:40.67868805906574,42.89552547277049,13.337119598655876,1.8428576349419585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1173,7 +1173,7 @@ of certain persons into certain States, where,
 by the laws thereof, their admission is pro­  
 hibited.&quot; In this manner, the importatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776993:1860010601:0215/pct:49.322333529758396,159.56039026578446,43.60636417206835,6.683862285522037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776993:1860010601:0215/pct:12.330583382439599,39.890097566446116,10.901591043017088,1.6709655713805092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1190,7 +1190,7 @@ passed an act, on 25th February, 1503, &quot;to prevent the
 importation of certain persons into certain States where,  
 by the laws thereof, their admission is prohibited.&quot; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1860010601:0854/pct:66.38330757341576,345.19330469560066,50.0,3.910531773070656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1860010601:0854/pct:16.59903381642512,86.29832617390016,12.502415458937199,0.977632943267664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1208,7 +1208,7 @@ persons into certain States where, by the
 laws thereof, their admission is prohibit  
 ed.&#x27; In this manner the importation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:0020219493A:1860010601:0002/pct:39.222549742078115,67.11171662125341,16.488577745025793,3.337874659400545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:0020219493A:1860010601:0002/pct:29.432362698120162,50.34059945504087,12.384813859196461,2.5068119891008176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1236,7 +1236,7 @@ sons iuto certain States where, by the laws
 thereof, their admission is prohibited.&quot; Iu  
 manner the importation of African slave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1860010701:0319/pct:44.36548223350254,65.53516143299424,12.55982596084119,1.9570986289252543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1860010701:0319/pct:44.36548223350254,65.53884711779449,12.574329224075417,1.9534129441250185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1254,7 +1254,7 @@ sons into certain States where, by the laws
 thereof, their admission is prohibited.&quot; Iu  
 this manner the importation of African slave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1860010701:0320/pct:44.140625,65.63192904656319,12.55787037037037,2.0177383592017737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1860010701:0320/pct:44.15027006172839,65.63192904656319,12.553047839506172,2.0214338507021434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1301,7 +1301,7 @@ to certain States where, by the laws
 thereof, their admission is prohibited.&quot;  
 In this manner the improved portio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1860011201:0012/pct:145.39473684210526,175.33504805739813,55.26315789473684,12.40016244754298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1860011201:0012/pct:36.348684210526315,43.83376201434953,13.81578947368421,3.100040611885745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1318,7 +1318,7 @@ February, 1863, &quot;to prevent the inporta
 tion of certain persons into certain States  
 where, by the laws thereof, their admission
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1860011401:0284/pct:90.80208508491677,208.79888268156424,34.9419875567513,4.1264601320467245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1860011401:0284/pct:30.267361694972255,69.59962756052141,11.647329185583768,1.3754867106822415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1348,7 +1348,7 @@ into certain States where, by the laws there­
 of, their admission is prohibited.&quot; In this man  
 ner, the importation of African slaves into th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296527:1860020101:0456/pct:78.36538461538461,216.52917354132293,58.65384615384615,34.31828408579571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296527:1860020101:0456/pct:19.595271488679625,54.13229338533073,14.666399519134442,8.579571021448928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1384,7 +1384,7 @@ persons into certain States where, by the
 laws thereof, their admission is prohibited.  
 In this manner the importation of Africa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1860020301:1207/pct:99.78529253891573,59.241339268434295,41.97530864197531,7.780143216566673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1860020301:1207/pct:33.261764179638575,19.7471130894781,13.991769547325102,2.5933810721888912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

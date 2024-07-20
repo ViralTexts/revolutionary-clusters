@@ -30,7 +30,7 @@ popular control pushed to the maximum of its practi
 catne exercise. I shall then believe that our Govern-  
 ment may be pure and perpetual.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.1158864159632,245.75960951799877,52.1105141980046,5.247101891397193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.80614203454894,61.43990237949969,13.032629558541267,1.3117754728492983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -50,7 +50,7 @@ ticable exercise. I shall then he
 lievc that our Government may be  
 pure and perpetual.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.17618040873855,77.02183582693085,12.290345313601128,4.063890012131015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.1662908680947,77.01405033862326,12.293310785419015,4.0668486134977595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -71,7 +71,7 @@ believe that our Government may be pure and
 perpetual  
 I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:66.24605678233438,123.52136232324769,53.23343848580441,23.110840808879427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:16.561514195583594,30.88034058081192,13.308359621451103,5.777710202219857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +89,7 @@ ment of popular oontrol pushed to the maximum of
 its practicable exercise. I shall then I elieve that  
 our goverumemt may be pure and perpetual
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:50.989208633093526,72.03154666277202,18.682553956834532,2.8187527384255877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:38.250505959073536,54.023659997079015,14.031931639307398,2.1177157879363224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ practicable exercise. I shall then
 believe that our Government may  
 be pore and perpetoal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071201:0313/pct:66.67702345813267,23.921139101861993,10.424110610532857,3.099671412924425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071201:0313/pct:66.68220185386568,23.92479006936838,10.42928900626586,3.1033223804308143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ of its practicable exorcise. I shall then
 believe that our government may be pure  
 and perpetual.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:0033289206A:1899041901:0676/pct:6.597402597402597,45.24844355691296,14.303030303030303,6.46070715376483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:0033289206A:1899041901:0676/pct:6.597402597402597,45.24844355691296,14.32034632034632,6.472453894044403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ then believe that our government
 may be pure and perpetual.&#x27;&#x27;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878988:1899050401:0281/pct:37.4372559955382,23.761131482451546,14.905186837702175,5.9402828706128865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878988:1899050401:0281/pct:28.093178964988144,17.82084861183866,11.187055377319012,4.463069669984285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

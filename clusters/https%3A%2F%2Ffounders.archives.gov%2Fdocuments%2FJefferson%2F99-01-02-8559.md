@@ -135,7 +135,7 @@ vtsled in him hy the congress of the United Slates ;
 and if any doubts should exist as to the sufficiency  
 of those powers, that he he requested to call con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808081701:0058/pct:26.35755021076122,38.46651569071498,20.158690800892636,5.8557101261727595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808081701:0058/pct:26.35101636093208,38.46029435549086,20.159890927119484,5.858806404657933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ U. States ; and if any doubts should
 exist as to the sufficiency of those  
 powers, that he be- requested&#x27;to cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808081901:0002/pct:4.616344354335621,22.47594611930725,17.446454564358493,4.746632456703015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808081901:0002/pct:4.616344354335621,22.484498610220225,17.453386012337976,4.746632456703015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ Ports of Spain, except such as may be still
 in the possession or under the controul of  
 Frame, shall be forthwith raised
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808082201:0453/pct:5.557443915703603,47.66649720386375,17.573079537729434,2.491103202846975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808082201:0453/pct:5.556499575191164,47.66165107767385,17.57434154630416,2.4933916226108175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ sident of the U. S. to suspend the laws
 “sufficiency of those powers, that he be  
 “ requested to call congress together, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808082301:0278/pct:41.9144446575868,25.504377617053674,17.648187224247074,5.2023854840756245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808082301:0278/pct:41.906405830456464,25.50114184217204,17.651195499296765,5.205954495474922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ ports of Spain, except such as may be still
 in the possession, or under the control of  
 France, shall be forthwith raised
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808082601:0282/pct:40.761285386381026,68.76513317191284,17.750573833205816,2.2811265451765004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808082601:0282/pct:40.75349015108051,68.75637104994904,17.75355389813221,2.285083248386001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ exist as to the sufficiency of those pow­
 ers, that Congress may be convened to  
 take the subject into consideration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808082901:0458/pct:20.946989191971177,33.72900110652852,18.648138617258535,30.560305804245047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808082901:0458/pct:20.943396226415093,33.72560852947093,18.649228130360207,30.559746529873266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ the ports of Spain, except such an
 may be still in the possession or un­  
 der the i &#x27; Prance, shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808092301:0002/pct:21.827305038678652,21.26971812774761,17.41584779427138,2.6247737264028963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808092301:0002/pct:21.827305038678652,21.27833807430394,17.422816921039793,2.6247737264028963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ ately, by a legal vote of the qualified voters of said
 town of North Yarmouth, in legal town meeting,  
 assembled unreasonably refuse to accept said re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210557:1886042801:0066/pct:50.613298902517755,44.239741595884674,10.797288573273079,0.9450891254934801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210557:1886042801:0066/pct:50.60513151524931,44.23444976076555,10.799580442149427,0.9479665071770335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ ately, by a legal vote of the qualified voters of said
 town of North Yarmouth, in legal town meeting,  
 assembled unreasonably refuse to accept said re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210557:1886050501:0090/pct:73.01841473178543,61.245341988219735,10.840672538030425,0.9255920182714269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210557:1886050501:0090/pct:73.00672430355428,61.23798076923077,10.842939481268012,0.9284855769230769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ ately, by a legal vi&gt;te of the qualified voters of said
 town of North Yarmouth, in legal town meeting,  
 assembled unreasonably refuse to accept said re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210557:1886051201:0115/pct:75.44581618655693,70.78973592426507,9.693644261545495,0.9466865969108121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210557:1886051201:0115/pct:75.4343188052423,70.78091916801594,9.695976836330386,0.9496824012953046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

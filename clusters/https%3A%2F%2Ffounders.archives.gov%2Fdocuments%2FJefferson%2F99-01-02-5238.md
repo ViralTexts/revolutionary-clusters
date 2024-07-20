@@ -83,7 +83,7 @@ BE it enacted by the Senate and
 flouse of Representatives of the Uni­  
 ted States of America in Congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041401:0127/pct:7.753857877690988,53.66227789850441,18.136787959611354,18.96970471686054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041401:0127/pct:7.752380952380952,53.65541922290389,18.13968253968254,18.971540558963873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ lavs.
 BE it enacted by the Senate and House of Repre­  
 sentative of the United States cf America,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112002:0243/pct:2.6490066225165565,3.766160764474424,74.88010961406714,26.71913059771407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112002:0243/pct:2.6484018264840183,3.765455226676658,74.87062404870625,26.720369676533032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ act to prevent settlements beintr made
 on lands ceded to the United States  
 until authorised by law,” and the per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808052001:0169/pct:41.075514874141874,41.10476190476191,17.887109077040428,5.041269841269841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808052001:0169/pct:41.06768350810295,41.099542915185374,17.890054019701303,5.044862028102251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ taining such pci mission shall be entitled to all the
 benefits, rights and privileges granted by law to  
 those who obtained the same prior to the fii-9
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808061401:0058/pct:40.73467903255137,36.07369758576874,17.330423713402435,4.917407878017789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808061401:0058/pct:40.72727272727273,36.06911447084233,17.333333333333332,4.921018083259222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ thousand eight hundred and seven :”
 the importation of slaves into any pert or place  
 within the jurisdiction of the United Staies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052801:0501/pct:23.572558607795198,77.32717989002357,16.66906371350496,4.006284367635507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052801:0501/pct:23.57735270147179,77.33372610631055,16.66906371350496,4.006284367635507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ ments being made on lands ceded to the United
 Slates until authorized by law.&quot; I need not waste  
 time in refuting a proposition the bare statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1867061501:0306/pct:44.57877566685857,65.58954473646416,12.569564383035885,2.4558380008616973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1867061501:0306/pct:44.583573210516214,65.59313514289818,12.57915947035118,2.459428407295706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

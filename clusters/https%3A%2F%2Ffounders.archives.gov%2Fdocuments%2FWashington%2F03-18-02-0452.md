@@ -94,7 +94,7 @@ from Eluabethtown on the morning of the 5th, and got within
 twelve or fifteen mile, of King&#x27;s Ferry, when I was met by an  
 expres. informing me that the enemy hod landed at that plac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852041701:0165/pct:33.89924085576259,70.62656097296123,15.62456866804693,7.047453578021501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852041701:0165/pct:33.89924085576259,70.63380026785391,15.62916954221302,7.05107322546784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ might h&lt;ippen ; and I posted back from Elir.abethtown at f?t,r I
 j teen miles of King&#x27;s Ferry, when I was met by ?n express &#x27;  
 informing me that the enemy had landed at thai pLwe, iJHr?r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852041701:0165/pct:33.92684610075914,78.40156368769682,15.652173913043478,8.01389944619394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852041701:0165/pct:33.93604784909133,78.40880298258949,15.647573038877386,8.01751909364028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ or fifteen miles of King&#x27;s Ferry, when I was
 met by an express, informing me that the  
 enemy had landed at that place, burned twc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852042101:0489/pct:150.6503442999235,49.90026085622219,89.90053557765876,334.7552554856529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852042101:0489/pct:37.669791467380904,12.475065214055547,22.479433709584846,83.68881387141323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ one prepared lor Ilamau. No punishment, in
 my opinion, is too severe for the m who can  
 build hi gr-atcess upon his country&#x27;s ruin.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862021801:0027/pct:15.699569696179424,66.87222971670842,12.687442952145,6.321063788783966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862021801:0027/pct:15.708262702655713,66.87222971670842,12.691789455383145,6.3306995567546736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ for Hainan. .No punishment, in my opinion, is
 too severe for the man who can build bis greatnet.3  
 upon bis country&#x27;s ruin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1862022501:0460/pct:67.01858108108108,96.45335389360062,19.98873873873874,11.036457759665161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1862022501:0460/pct:50.27453188793468,72.34276902742593,14.99366464873997,8.282850534199802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ for Hainan. No punishment, in my opinion,
 is too severe for the man who can  
 bnild his greatness upon his country&#x27;s rain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862701:1862022701:0291/pct:83.93835180231818,63.609022556390975,12.966501082664628,10.197368421052632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862701:1862022701:0291/pct:83.94259754596017,63.609022556390975,12.970746826306627,10.206766917293233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ ishment, in my opinion, is too severe for
 th&quot; muii who can build his greatness up­  
 on his country&#x27; luin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn84024443:00280779246:1862022801:0152/pct:101.44578313253012,56.46586345381526,17.349397590361445,13.90896921017403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn84024443:00280779246:1862022801:0152/pct:76.11490558457211,42.35609103078983,13.03736440337485,10.428380187416332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ est enemies we have to the hap­
 America. I would to God that sop,  
 he more at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1862030801:0101/pct:20.888194599419773,33.459357277882795,49.38629770140594,25.66162570888469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1862030801:0101/pct:5.220883534136546,8.36352181445897,12.343819723337795,6.4143959678689555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ These are the feelings, says the N. O. True Wit-,
 ness, it seems to os,-of true patriots.- Let all such  
 men he marked.&#x27; We know some of these extor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022809:1862031201:0085/pct:71.11260053619303,115.53146358708462,20.241286863270776,6.245580956870139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022809:1862031201:0085/pct:53.34338863750629,86.64859769031345,15.200268141444612,4.690077775159086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ prepared for Ham in. No punishment ia my opinion,
 is too severe for the man who can budd Lis gia.tutsi up­  
 on his country&#x27;s ru&#x27;n.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1862032701:0498/pct:105.81395348837209,87.36059479553903,19.62532299741602,8.364312267657992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1862032701:0498/pct:79.39769936667959,65.52533750733711,14.721468269355046,6.270788495402074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ punishment, in my opinion, is too
 severe for the man who can build his  
 greatness upon his country&#x27;s ruin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_dust_ver01:data:sn86079090:00280762155:1862041801:0107/pct:14.67764060356653,109.80060831361946,56.104252400548695,56.52247380871916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_dust_ver01:data:sn86079090:00280762155:1862041801:0107/pct:4.8925468678555095,36.60638837248606,18.701417466849566,18.844008788237282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -668,7 +668,7 @@ punishment, in my opinion, is too severe for the
 man who can build his greatness upon his coun­  
 try&#x27;s ruin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862060701:0561/pct:64.91391344811541,49.47396339846168,49.883666821777574,15.100344797100169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862060701:0561/pct:16.234144070755267,12.36849084961542,12.475270569067845,3.775086199275042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ try&#x27;s ruin
 mm who can build his greatness upon his coun­  
 try&#x27;s ruin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1862060901:0342/pct:57.063449023861175,96.82875264270614,16.71637744034707,2.8792912513842746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1862060901:0342/pct:42.81258475725522,72.62659820799355,12.544073772714944,2.1544347125742473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ i 5
   
 country 8 ruin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042595:00415620305:1862062001:0131/pct:74.14477414477415,65.02242152466367,27.915327915327914,17.304141387496703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042595:00415620305:1862062001:0131/pct:74.15107415107416,65.03121427943374,27.915327915327914,17.299745010111668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ opinion, is too severe for the man who
 can build his greatness upon his country&#x27;s  
 ruin.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862072401:0736/pct:101.1690046760187,88.62864077669903,43.62057448229793,18.16747572815534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862072401:0736/pct:33.7230015586729,29.542880258899675,14.540191494099309,6.055825242718447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -830,7 +830,7 @@ ment, in my opinion, is too severe for the
 man who can build his greatuess upon  
 his country&#x27;s ruin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862080801:0392/pct:120.2826855123675,200.07823705828662,47.06713780918728,20.550267309949145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862080801:0392/pct:30.075985156388054,50.019559264571654,11.7688637568475,5.137566827487286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -854,7 +854,7 @@ ion, is too severe for the man who can
 build his greatness upon his couutry&#x27;a  
 ruin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1862082701:0262/pct:78.0248833592535,66.07339046363437,14.541213063763609,6.262359920896507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1862082701:0262/pct:78.0300673924313,66.07705266241851,14.546397096941421,6.258697722112356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ ment, in my i pinion, is too severe for the
 man who can build his greatness upon his  
 country’s ruin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1862091301:0351/pct:57.25701542464226,84.25092641609317,12.637056309236202,2.660137638962414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1862091301:0351/pct:57.2463768115942,84.23977768955935,12.639353400222966,2.6630938202990606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ No punishment, in my opinion, is too se­
 vere for the man who can build bis great­  
 ness upon bis country’s ruin.&quot; An at m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862092001:0151/pct:51.32585869371774,34.33408279328131,11.318739989321944,3.941277608781907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862092001:0151/pct:51.33030788396512,34.33408279328131,11.332087560064068,3.954503372569766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,7 +944,7 @@ ny Republican scoundrels,encouraged and
 retained in office by the Administration  
 are “ building their greatness upon thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863091201:0355/pct:34.01426093659665,49.80134264967804,12.391597610329542,5.959720509658857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863091201:0355/pct:34.02871458855271,49.80819290313742,12.381961842358836,5.952870256199479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -971,7 +971,7 @@ ishment, in my opinion, is too great fur the
 man who cau build his greatness upon las  
 country’s ruin.” Comment upon these ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1864052001:0118/pct:80.94650205761317,61.79215930304916,12.592592592592593,6.979879693009749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349475:1864052001:0118/pct:80.93539980798245,61.785751322202636,12.595437297124308,6.982612603270075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1004,7 @@ I onopelisers, forestallers and engrossers to condign
  onop ltrers intiemneh to be lamented that cach state  
 I ng ere this has not hunted them down as pests to s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864071901:0557/pct:5.851157857521654,82.19281663516068,48.205762771787164,12.514177693761814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864071901:0557/pct:1.9503859525072182,27.397605545053562,16.068587590595723,4.171392564587271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1047,7 +1047,7 @@ another, he drew this picture, which
 he solemnly declared to be a true one  
 From what I have seen, heard and in par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn83035143:00280775599:1864072101:0505/pct:203.81895332390383,182.1152192605331,45.82743988684583,61.67956434508455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn83035143:00280775599:1864072101:0505/pct:50.96374889478338,45.52880481513328,11.458885941644562,15.419891086271138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1132,7 +1132,7 @@ my opinion, is too severe for the man who
 can build his greatness upon his country’s  
 rain.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1864110101:0002/pct:12.417667570709028,55.06912442396313,10.170476559473073,6.869239631336406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1864110101:0002/pct:12.422510654784967,55.076324884792626,10.185005811700892,6.869239631336406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ ment, in my opinion, is too severe for the
 man wo can build his greatness upon his  
 country&#x27;s ruins.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191332:1864110501:0020/pct:63.863337713534825,88.23978942005604,44.064826982041176,34.77965526025304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191332:1864110501:0020/pct:15.965834428383706,22.05994735501401,11.016206745510294,8.69491381506326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1180,7 +1180,7 @@ me very sincere pleasure that the Assembly is so
 hese tideseeooo e e  
 those murderers of our cause, the monopolizers, for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn83045586:00200293617:1864110901:0686/pct:81.16554054054055,361.9129438717068,60.304054054054056,7.560137457044673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn83045586:00200293617:1864110901:0686/pct:20.291385135135137,90.4782359679267,15.076013513513514,1.8900343642611683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1206,7 +1206,7 @@ gallows five times as high as the one prepared for artermasters, and Commissary 
 Haman. No punishment, in my opinion, is too seer ekeran offi on the we si o a  
 vere for the man who can build his greatness uponre over as bok Store, between Cumberlan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn83045586:00200293617:1864110901:0686/pct:79.8141891891892,366.3230240549828,122.46621621621621,19.988545246277205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn83045586:00200293617:1864110901:0686/pct:19.9535472972973,91.5807560137457,30.616554054054053,4.997136311569301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1237,7 +1237,7 @@ No punishment, in my opinion, is too
 severe for the man who c.^ti build his&#x27; greatness  
 |v;^ upon his country&#x27;s Vuin.&#x27;&#x27; But, the excesses o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027852:00295862312:1864120901:0073/pct:3.6178861788617884,51.347443144472194,34.1260162601626,11.371105560667806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027852:00295862312:1864120901:0073/pct:3.624661246612466,51.35620700232242,34.11924119241193,11.371105560667806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1264,7 +1264,7 @@ St iee wrote to a iriend
 for the man who can build his greatness on his  
 country&#x27;s rui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191411:1864122301:0597/pct:225.51305970149255,39.26595838089384,49.8134328358209,22.68855913600843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191411:1864122301:0597/pct:56.38483965014577,9.81648959522346,12.454810495626822,5.672139784002107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1288,7 +1288,7 @@ Speech, on Saturday evening, quoted -
 but they grind exceeding fine.&quot;  
 Butler&#x27;s case has verified the proverb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1865032901:0376/pct:107.45717660956882,80.1570306923626,16.199054932073242,8.160837497025934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1865032901:0376/pct:80.62038404726735,60.123721151558414,12.156573116691286,6.114679990482989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1322,7 +1322,7 @@ The Mobile Advertiser is unstinted in its
 praises of President Johnson, yet with  
 charming consistency, asserts that to hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn85038553:00212470442:1866090701:0149/pct:227.82222222222222,248.0912547528517,54.84444444444444,49.946768060836504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn85038553:00212470442:1866090701:0149/pct:56.955555555555556,62.02281368821293,13.71111111111111,12.486692015209126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1349,7 +1349,7 @@ prepared for Haman. No punishment, in my opin­
 ion, is too severe for the man who can build his  
 greatness upon his country&#x27;s ruin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293599:1866092601:0172/pct:177.11721817162086,308.6588138045051,49.91587212563096,20.8307501549907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293599:1866092601:0172/pct:44.28551395316225,77.16470345112627,12.480717991866499,5.207687538747675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1379,7 +1379,7 @@ cowUry&#x27;l nda,”
   
 RECONSTRUCTION
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866100401:0002/pct:61.51883830455259,2.6116519857827227,16.797488226059656,93.91129655385566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866100401:0002/pct:61.5335557299843,2.6116519857827227,16.80729984301413,93.9228867253902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1409,7 +1409,7 @@ myy oppirton, is tot severe for the mors
 agho oun budif hit greatnes upon Ais  
 country&#x27;s ruin.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529418:1866101101:0201/pct:131.23824451410658,45.09566480988133,36.9435736677116,22.741583918624364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529418:1866101101:0201/pct:43.7460815047022,15.031888269960442,12.314524555903866,7.580527972874788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1493,7 +1493,7 @@ punishment, in my opinion, is too se­
 vere for the man who can build his  
 greatness upon his country&#x27;s ruin.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774960:1866101901:0792/pct:328.00575953923686,30.30031376064545,43.84449244060475,38.60750037352458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774960:1866101901:0792/pct:82.01620162016202,7.575078440161363,10.963096309630963,9.651875093381145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1522,7 +1522,7 @@ opinion is too severe for the man who
 can build his greatness upon his coun­  
 try&#x27;s ruin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775915:1867061901:0075/pct:14.456596035543404,102.82294783400546,15.293916609706084,10.537270716794588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775915:1867061901:0075/pct:10.85284566740728,77.1172108755041,11.468125106819347,7.909457525692728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1541,7 +1541,7 @@ ment, in my opinion, is too severe for
 the man who can build his greatness on  
 his conntry&#x27;s ruin.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529418:1870102701:1006/pct:14.018544711614018,104.56342076895437,37.812352663837814,8.947179302910529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529418:1870102701:1006/pct:4.672848237204673,34.854473589651455,12.604117554612603,2.982393100970176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1599,7 +1599,7 @@ ization which makes the getting of the
 almighty dollar paramount is erroneous.  
 There is something of more worth tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767833:1887081901:0548/pct:15.289815817984833,54.844678157561596,11.94474539544962,7.741747005550686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767833:1887081901:0548/pct:15.298844348140122,54.847924173077544,11.940231130371975,7.748239036582595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1620,7 +1620,7 @@ No punishment, fn my opinion, Ia too
 severe for tho man who con build his  
 greatness upon his country&#x27;s ruin,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282735:1887090901:0296/pct:10.234254992319508,97.07749077490774,14.285714285714286,5.623616236162362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282735:1887090901:0296/pct:7.68344218209758,72.81180811808117,10.718401844026124,4.22140221402214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1785,7 +1785,7 @@ bets upon a gallows five times as high a
   
 the one prepared for Haman.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_hollyhock_ver01:data:sn84020613:00280774030:1898080201:0738/pct:31.05187319884726,297.05882352941177,43.15561959654179,20.754716981132077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_hollyhock_ver01:data:sn84020613:00280774030:1898080201:0738/pct:7.767165255000901,74.26470588235294,10.7947377905929,5.188679245283019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1808,7 +1808,7 @@ each state was hung in gibbets
 upon a gallows five times as high  
 as tho one prepared for Haman.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_agave_ver01:data:sn84024828:00211100667:1898080601:0019/pct:8.717811158798284,88.99747262005054,17.086909871244636,6.368997472620051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_agave_ver01:data:sn84024828:00211100667:1898080601:0019/pct:8.717811158798284,89.01010951979781,17.086909871244636,6.368997472620051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1826,7 +1826,7 @@ one of the most atrocious in eaoh state
 were hung on a gallows five times as  
 high as the one prepared by Haman.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479925:1898081701:0270/pct:49.487888148268574,77.4435249384925,13.997723947325639,2.359651084768508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479925:1898081701:0270/pct:49.487888148268574,77.44725266532468,14.008562293394029,2.359651084768508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1848,7 +1848,7 @@ one of the most atrocious in each state
 were hung on a gallows five times as  
 high as the one prepared by Haman.&#x27;&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jackson_ver01:data:sn87057934:0041562265A:1898081801:0516/pct:24.71619199362677,17.357586012408348,16.98864767974507,5.470953186689227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jackson_ver01:data:sn87057934:0041562265A:1898081801:0516/pct:19.772691061660204,13.893589020492573,13.59604864836157,4.369242338785486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1866,7 +1866,7 @@ one of the most atrocious in each state
 were hung on a gallows five times as  
 high as the one prepared by Haman.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153048:1898081901:0231/pct:59.68867418142781,15.414240931482311,16.10305958132045,2.427227944469324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153048:1898081901:0231/pct:59.69762032563965,15.41722645170921,16.10753265342637,2.427227944469324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1926,7 +1926,7 @@ energetic words: &quot;I would to God that
 were hung on a gallows five times as  
  high as the one prepared by Haman.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524159:1898082301:0347/pct:223.2258064516129,193.76477004181058,29.94026284348865,5.380839847300491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524159:1898082301:0347/pct:74.39971329590252,64.58238662183041,9.978895392824434,1.7934502711381743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1962,7 +1962,7 @@ one of the most atrocious in each state
 were hung on a gallows five times as  
 high as the one prepared by Human.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:00415623161:1898082601:0153/pct:32.85964145168343,15.787811809283234,13.642326191517272,2.289232712346069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:00415623161:1898082601:0153/pct:32.87603847835592,15.799652668140196,13.636860515959773,2.2931796652983896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1980,7 +1980,7 @@ one of the most atrocious in each state
 were hung on a gallows five times as  
 high as the one prepared by Haman.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663637:1898082701:0530/pct:37.354651162790695,16.726285925743184,14.425872093023257,2.158628345873936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663637:1898082701:0530/pct:37.366763565891475,16.726285925743184,14.419815891472869,2.1709633649932156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2026,7 +2026,7 @@ one of the most atrocious in each state
 were hung on a gallows five timesas  
 high as the one prepared by Haman.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624669:1898092301:0036/pct:58.44926350245499,58.513976041072446,15.036824877250409,2.410154021677125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624669:1898092301:0036/pct:54.078092474610486,54.12452730630552,13.909039298555479,2.246943980300765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2052,7 +2052,7 @@ ion is too great for the man who can
 build his bridges upon his country&#x27;s  
 ruin.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199604:1898110201:0152/pct:52.5633556655986,197.64424718333902,37.780367025924846,20.427904859451463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199604:1898110201:0152/pct:17.521118555199536,65.88141572777967,12.593455675308283,6.8093016198171545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2070,7 +2070,7 @@ one of the most atrocious in each state
 were hung on a gallows five times as  
 high as the one prepared by Hamnn.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173551:1898112501:0380/pct:6.2858403176003526,15.679280397022332,14.380238200264667,2.248759305210918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173551:1898112501:0380/pct:6.284454244762955,15.676849123895177,14.38257993384785,2.252287176306404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2129,7 +2129,7 @@ No punishment, in my opinion, istoo great
 for tiie limn who would build his greatness  
 upon his country’s ruin.—ti-nrue U&#x27;us/ii nylon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627658:1899032501:0060/pct:9.351692484222605,36.560069144338804,15.605278255880666,6.669547680783636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627658:1899032501:0060/pct:7.2575465639049455,28.341768383447455,12.094264117385505,5.1689490919916645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

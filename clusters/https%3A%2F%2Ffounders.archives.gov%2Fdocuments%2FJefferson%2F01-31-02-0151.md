@@ -184,7 +184,7 @@ linnate ami conciliatory language our warm attachment
 to union with our si-ler Slates, and to the Instrument  
 and principles by w hich we are united; that we are wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830100501:0167/pct:36.35196805476326,79.84557738162825,14.788933257273246,10.400817531509027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830100501:0167/pct:36.346784542991585,79.83651226158038,14.791577546461333,10.403421132303967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ sent communication is U&gt; procure a concert in the general
 plan ot action, as ills extremey desi. able that Virginia  
 and Kentucky should pursue the same track on this oc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830100501:0167/pct:51.35482030804335,3.3496082661519244,15.059897318881916,15.260588168502327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830100501:0167/pct:51.34749750463425,3.3492279745685742,15.062502970673512,15.262640024220406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ peasant journey and happy return, I am. w ith great
 and sincere esteem, Dear Sir, vmir affectionate friend  
 and servant, TH: JKFFEHSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830100501:0167/pct:51.35482030804335,18.530714204609968,14.788933257273246,4.496423299648007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830100501:0167/pct:51.34749750463425,18.52861035422343,14.791577546461333,4.499697244928853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ journey and happy return, I am. w.tf, groat and sin­
 c*re esnem, dear air, your affectionate friend and  
 SOrvwt- Til. JEfTURSOtf, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830103001:1038/pct:78.64185750636132,58.09304997128087,18.09796437659033,37.78288340034463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830103001:1038/pct:78.62935283828908,58.086377211118766,18.10038691895903,37.782372310284096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ sincere esteem, dear sir your affecilnii­
 ate Irieud and servant.  
 TH. JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830110501:0255/pct:34.11281403065255,10.462730795532254,14.109653973771527,57.157510827444725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830110501:0255/pct:34.107424960505526,10.461538461538462,14.112690889942074,57.154795821462486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ to Ins judgment, hut because as wc should never think of
 separation but tor repeated andenormous violations,so these,1  
 when they occur, will he cause enough of themselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832031301:0403/pct:65.17660044150111,64.62486002239642,15.052428256070641,12.967525195968644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832031301:0403/pct:65.1676093254242,64.61762400627029,15.054950108060883,12.96980554622476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ judgment, hut because, as we should never think of
 peated and enormous viol itions, so these, when they oc­  
 cur, will ho cause enough of themselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832091401:0147/pct:2.697765912603625,65.00165398610652,15.287340171420542,16.220090417907155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832091401:0147/pct:2.697386906434392,64.99448732083793,15.289875433174112,16.221977214259464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -782,7 +782,7 @@ repeated and enormous violations, so these, when
 they occur, will because enough of themselves.”  
 We think the right as one which flows from the vr- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832122001:0266/pct:65.97894736842105,17.702240370819997,15.298245614035087,2.107935106500386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832122001:0266/pct:65.96968846477688,17.700286912381372,15.30077649920479,2.111380857794453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ lo hi* judgment, lint because, as we should never think ol
 peated and enormous violations, so thc-e, when they oc­  
 cur, will he cause enough ol themselves.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832122801:0279/pct:49.62343096234309,68.15265486725664,15.313807531380753,16.42699115044248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832122801:0279/pct:49.61651094686933,68.14511669063157,15.31632036443081,16.428861114183533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -893,7 +893,7 @@ and enormous violations, so these, when they
 occur, will be cause enough of themselves.”  
 Are the Tariff laws now about to peris
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833010801:0158/pct:50.78113593225288,54.024701873935264,14.352460213169806,22.18909710391823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833010801:0158/pct:50.79086971334015,54.024701873935264,14.352460213169806,22.199744463373083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -913,7 +913,7 @@ never think of separation, but for repealed and enormous
 violations, so these, when they occur, will be cause enough  
 ol themselves.’ He think the right as one which flniv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833011501:0307/pct:35.12222534419781,57.47622207476222,15.018263557178983,2.74275602742756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833011501:0307/pct:35.1172917544599,57.469866194846844,15.020836259774313,2.746138818238785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -961,7 +961,7 @@ proposed, does not concur In the reservation proposed
 above; ami Irorn this I recede readily, not only in defer­  
 ence to his judgment,’ &amp;c. S-e 3d Cor. 429. In a lette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833122101:0269/pct:49.278518921862236,68.33241607044579,14.484072964878846,1.7061089708310402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833122101:0269/pct:49.271811623792026,68.32489544353952,14.486638537271448,1.7095898451830656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1017,7 +1017,7 @@ because, as we should nev*r thiiik of tepa.anou but lor re­
 peated and enormous violations, so lb*s*, ?I&lt;M ibey uccar,  
 will be cause enough of ih*ms*iv*s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850062801:0749/pct:83.51559987134127,42.57537688442211,15.953682856223866,20.665829145728644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850062801:0749/pct:83.52632143240056,42.57956448911223,15.953682856223866,20.665829145728644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1081,7 +1081,7 @@ iVuU&#x27;/icatiim 1 No?but) He pa ration but for repeated and
 enormous violations, so those, when they oocur, will be  
 cause enough of themselves 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850080701:0879/pct:52.93927125506073,5.100502512562814,31.465587044534413,90.79145728643216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850080701:0879/pct:52.93927125506073,5.1046901172529315,31.465587044534413,90.7998324958124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1099,7 +1099,7 @@ think of teparation but lor repealed and enormous viola­
 tions, so these, when they occur, will be cause enough of  
 themselves.&quot; Wo think the right as one which flows fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850080701:0879/pct:68.8582995951417,19.912060301507537,15.578947368421053,1.821608040201005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850080701:0879/pct:68.8582995951417,19.92043551088777,15.595141700404858,1.821608040201005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1149,7 +1149,7 @@ an wiih indulgence, and kv wait with patleocc till those us?­
 eral government hajp? astluliy aaoitad to oever iiaown  
 abuses, and concoa 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851021101:0173/pct:47.5004152134197,71.56724996806744,15.944195316392626,16.055690381913397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851021101:0173/pct:47.5114875712783,71.57576531698386,15.94973149532193,16.055690381913397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1195,7 +1195,7 @@ very rights which we are now vindicating, will,
 betore it shall be too late, rally with us round  
 the true principles of our Federal compact.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860012401:0583/pct:138.41524573721165,282.2478386167147,59.15747241725175,21.1671469740634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860012401:0583/pct:34.59687123947052,70.55179368967008,14.786401925391095,5.291024348076646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1238,7 @@ violations, so these when they occur will be &#x27;?
 cause enough of themselves.&quot;  
 These were the sentiments enunciated by the ,i.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861053101:0649/pct:1.665556295802798,90.98008590394377,13.164556962025317,2.869972666926982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861053101:0649/pct:1.665556295802798,90.98333984120787,13.16899844548079,2.8732266041910712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

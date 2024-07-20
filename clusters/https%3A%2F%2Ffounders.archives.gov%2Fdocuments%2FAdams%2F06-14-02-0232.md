@@ -43,9 +43,9 @@ Of hireling wolves, whose Gospel is their maw.
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-09_11_51/page/n80/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-09_11_51/page/n80/mode/1up?view=theater)
 
-#### 1842-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

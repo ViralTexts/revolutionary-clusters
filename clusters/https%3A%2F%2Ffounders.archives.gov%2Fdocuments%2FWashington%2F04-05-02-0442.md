@@ -214,7 +214,7 @@ door is opened for amendments, and
 may be adopted in a peaceable man­  
 ner, without tumult or disorder.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788013001:0131/pct:24.640835872877666,45.393352965923434,18.959512407488027,36.47454774926378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788013001:0131/pct:24.648091713829633,45.402701818351794,18.959512407488027,36.483896601692145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ Among the most vehement of those op­
 ponents was Samuel Chase. Amend­  
 ments were proposed and it is said whil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:00415625650:1887050601:0069/pct:5.877342419080068,59.07539900935608,10.448608745031231,9.157952669235003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:00415625650:1887050601:0069/pct:5.8820745788377815,59.07539900935608,10.462805224304372,9.168959823885526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

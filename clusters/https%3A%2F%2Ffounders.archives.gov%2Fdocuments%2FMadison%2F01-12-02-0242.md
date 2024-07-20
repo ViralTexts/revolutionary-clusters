@@ -96,7 +96,7 @@ Ift vo^Va£and fubfifte&quot;ce &#x27;hall have been
 11&#x27; „ . glialded as to prevent evil onlv —  
 However if we do not have them now, I |,av
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092901:0002/pct:3.9933993399339935,62.45866562925501,22.97029702970297,26.356739933865008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092901:0002/pct:4.018151815181518,62.46839136354795,22.995049504950494,26.371328535304414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ jury, &amp;e.&quot; The category of crime in which
 the third President herein places national  
 ingratitude proves the detestation i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112601:0330/pct:125.80645161290323,213.117754728493,50.99846390168971,19.280048810250154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112601:0330/pct:31.46369573568959,53.27943868212325,12.754514022281983,4.8200122025625385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

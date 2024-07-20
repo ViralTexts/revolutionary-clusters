@@ -112,7 +112,7 @@ publithing what they pleased, fas vel nefas,
 while little has been publithed on the Part of  
 Government, theEffeét this mufi have had up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774123001:0376/pct:68.1159420289855,19.924585218702866,27.426438296003514,16.923076923076923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774123001:0376/pct:68.12326160152247,19.92961287078934,27.426438296003514,16.933132227249875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ legiance to the Person of the King, they will
 owe none to the imperial Crown of Great-Bri  
 tain, nor yield Obedience to any of her Law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774123001:0377/pct:7.482842594642462,61.170212765957444,27.71751162275847,8.465045592705167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774123001:0377/pct:7.497601653014538,61.175278622087134,27.71751162275847,8.470111448834853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ more difgraceful to the Annal¢ of America
 than that of the Witchcraft ? I will attempt in  
 the next Paper to retrace the Steps and mar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774123001:0377/pct:64.97675448306398,28.328267477203646,27.186185521363736,10.379939209726444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774123001:0377/pct:64.98413401225002,28.33839918946302,27.193565050549775,10.385005065856129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1311,7 +1311,7 @@ the Opposition could have feared.
 &quot;Lay not the flattering unction to your soul-,&quot; that  
 there is a division?no&#x27; their motto is &quot;UNITED \\ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840011601:0306/pct:51.650190114068444,73.37859748682611,16.09125475285171,6.566680178354276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840011601:0306/pct:51.650190114068444,73.38535333063099,16.09632446134347,6.566680178354276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1332,7 +1332,7 @@ of this article. But general assertions are only to be
 confuted by an examination of particulars which  
 necessarily fi.&#x27;Is up so much space.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840012501:0190/pct:2.76867627785059,36.064267693533395,19.67562254259502,3.8640286814500064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840012501:0190/pct:2.080943798132066,27.048200770150046,14.763231197771587,2.9079803478953656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1380,7 +1380,7 @@ private clubs, and circles, have been actuated
 by one great, wise, active, and noble spirit, one  
 masterly soul,&#x27; animating one vigorous body.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1844060601:0088/pct:26.274441340782122,35.272584651588446,19.692737430167597,10.09282259118839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1844060601:0088/pct:19.71707998602864,26.4609752908877,14.77471184072651,7.569616943391293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1441,7 +1441,7 @@ pectauts, until virtue, integrity, public spirit, simplicit
 vanity, luxury, foppery, selfishness, meanness, ami dowi  
 r ght venality, swallow up the whole society
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120101:1188/pct:1.042314872433105,65.3549190535492,14.70130678282514,18.7546699875467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120101:1188/pct:1.0526861646961212,65.36322125363222,14.70130678282514,18.7546699875467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1484,7 +1484,7 @@ Quincy, “ they were united and inspired then, circum­
 stances that might never happen again. They had  
 seized the happy and glorious opportunity for es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860050501:0001/pct:56.29642425289342,83.36911226164919,11.780963897046123,2.853895693900745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860050501:0001/pct:56.309379858352045,83.37226922591236,11.776645361893246,2.8507387296375803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1509,7 +1509,7 @@ ing: like a cancer it cats faster and faster
 every hour.&quot;  
 A Northern editor predicts tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862091801:0271/pct:228.21308507887252,244.43064577760794,40.56115852081717,20.57699656094765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862091801:0271/pct:76.07102835962417,81.47688192586932,13.520386173605724,6.858998853649217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1560,7 +1560,7 @@ ment is to grow every day more encroach­
 every hour.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862101101:0164/pct:1.4448804851944346,88.61604163886294,11.398501605422762,4.911250500467102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862101101:0164/pct:1.453799500535141,88.6193780862138,11.398501605422762,4.917923395168824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1606,7 +1606,7 @@ ers, betrayers, and destroyers press upon
 them so that there is no resisting aftere  
 wards. The nature of the ancroaching
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529315:1863051601:0010/pct:62.97648605228567,197.0924534465861,39.33109390974149,11.216378089948819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529315:1863051601:0010/pct:20.99216201742856,65.69748448219536,13.110364636580497,3.738792696649606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1628,7 +1628,7 @@ them so that there is no resisting after-
 wards. The nature of the encroaching,  
 like a cancer it eats faster every hour.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529315:1863052301:0014/pct:61.417552030272155,74.5677938458193,39.6303303740358,13.00424051321083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529315:1863052301:0014/pct:20.47251734342405,24.855931281939764,13.2101101246786,4.334746837736943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1650,7 +1650,7 @@ them so that there is no resisting after-­
 wards. The nature of the encroaching,  
 like a cancer it eats faster every hour.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529315:1863052301:0015/pct:200.07147962830592,222.2534906375149,38.59899928520372,12.771945015694339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529315:1863052301:0015/pct:66.69049320943532,74.08449687917162,12.866333095067906,4.257315005231447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1672,7 +1672,7 @@ them so that there is no resisting after-­
 wards. The nature of the encroaching,  
 like a cancer it eats faster every hour.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529315:1863053001:0018/pct:106.47160565004324,73.24140902725412,39.13231478812338,13.08844123666918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529315:1863053001:0018/pct:35.49053521668108,24.413803009084706,13.044104929374459,4.362813745556394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1700,7 +1700,7 @@ ers press upon them so that there is no
 resisting afterwards The nature of  
 the encroaching, is like a cancer, it eat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1863060501:0765/pct:79.84977139124756,24.55907223967142,14.532984977139124,9.591688813723122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1863060501:0765/pct:79.84977139124756,24.567125714745913,14.549314173742651,9.587662076185874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1722,7 +1722,7 @@ them so that there is no resisting after-­
 wards. The nature of the encroaching,  
 like a cancer it eats faster every hour.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529315:1863060601:0025/pct:32.38711575231652,37.72806255430061,39.858802765112515,12.999565595134666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529315:1863060601:0025/pct:10.795705250772173,12.576020851433537,13.286267588370839,4.3331885317115555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1744,7 +1744,7 @@ them so that there is no resisting after-
 wards. The nature of the encroaching,  
 like a cancer it eats faster every hour.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529315:1863061301:0026/pct:60.51601681403102,65.82306097960074,39.25206551674156,13.079524380931602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529315:1863061301:0026/pct:20.172005604677008,21.941020326533582,13.084021838913852,4.359841460310534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1774,7 +1774,7 @@ terwards. The nature of the oncroachm n
 is to grow every day more encroaching:  
 like a cancer it eats faster every hour.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1863061801:0317/pct:332.4822695035461,191.82843409132926,49.83451536643026,42.66962469957478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1863061801:0317/pct:83.1303936635536,47.957108522832314,12.460101666863695,10.667406174893696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1800,7 +1800,7 @@ is no resisting afterwards. The nature of the
 encroachment is to grow every day more en­  
 croaching ; like a cancer it cats faster ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557360:1863062001:0319/pct:15.56350626118068,70.1180744777475,13.178294573643411,6.509234029669997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557360:1863062001:0319/pct:15.56350626118068,70.12185891613684,13.193202146690519,6.509234029669997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1822,7 +1822,7 @@ afterwards. The nature of the encroachment is
 to grow every day more encroaching; like u  
 cm.cer it eats last) r every hour.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1863062001:0096/pct:23.502824858757062,47.50952640174197,14.519774011299434,3.6064235166031575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1863062001:0096/pct:23.512241054613934,47.51292868807839,14.524482109227872,3.6166303756124116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1852,7 +1852,7 @@ JVovanglus. 1775.
 That is Democratic doctrine.  
 &quot;To these nhmi poxer is delegate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1863091601:0052/pct:60.50445103857567,53.29985652797704,16.439169139465875,12.745098039215685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1863091601:0052/pct:45.399228257643216,39.98087039693927,12.333036509349956,9.552845528455284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1896,7 +1896,7 @@ destroyers press upon them so fast that there U
 no resisting afterwards. The nature of tyran­  
 ny is so encroaching; liko a cancer it cat 3 fast
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028459:1863100201:0268/pct:83.08201544685546,74.50508293204922,14.251563074659801,3.852327447833066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028459:1863100201:0268/pct:83.08201544685546,74.50508293204922,14.251563074659801,3.856786160156947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1955,7 +1955,7 @@ faster every hour.--John Adams,
   
 THe Exiles Hieart reas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1863100801:0951/pct:144.53703703703704,13.750678487425366,115.92592592592592,363.52451601230325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1863100801:0951/pct:36.15936993282372,3.4376696218563416,29.001621496409545,90.88112900307581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1993,7 +1993,7 @@ The people failed to &quot;nip the shoots of arbi­
 trary power in the bud,&quot; and what is the result?  
 Just what he prophecied. The encroachmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863110601:0450/pct:7.981220657276995,41.30589070262597,50.28169014084507,50.319375443577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863110601:0450/pct:1.9953051643192488,10.326472675656493,12.570422535211268,12.57984386089425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2029,7 +2029,7 @@ The people failed to &quot;nip the shoots of arbi­
 trary power in the bud,&quot; and what U the result?  
 Just what he prophecied. The encroachment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191630:1863110901:0203/pct:6.71602326811211,13.415475603745687,16.115811739820202,15.150320354854609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191630:1863110901:0203/pct:5.0383496429516,10.064070970921636,12.099973551970379,11.365204534253326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2066,7 +2066,7 @@ the encroaehmeut is to grow evrey day more
 encroaching like a cancer it eats faster  
 and faster cvruy hour.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1863111101:0543/pct:61.64068489649885,80.95879063988403,11.104012266802965,7.237523296748809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1863111101:0543/pct:61.64068489649885,80.95879063988403,11.108271573387853,7.237523296748809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2116,7 +2116,7 @@ encroachment is to grow every day
 more encroaching like a cancer it eats  
 faster and faster every hour. —Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1863112001:0865/pct:81.29307515589105,23.37067823153837,14.620938628158845,53.87302734610288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1863112001:0865/pct:81.29854501695657,23.37067823153837,14.615468767093315,53.87302734610288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2146,7 +2146,7 @@ encroachment is to grow every day more
 encroaching like a cancer, it eats faster  
 and faster every hour.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1864102601:0761/pct:3.4319375080035854,62.29141229141229,11.140991164041491,4.609279609279609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1864102601:0761/pct:3.4362060869936397,62.29480396147063,11.140991164041491,4.619454619454619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2169,7 +2169,7 @@ ment is to grow every day more encroaching;
 like k cancer, it eats faster and faster erpry  
 hour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1864122401:0621/pct:33.7057375497065,10.32876712328767,12.099981064192388,3.5616438356164384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1864122401:0621/pct:33.7057375497065,10.33904109589041,12.099981064192388,3.5616438356164384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2205,7 +2205,7 @@ ment is to grow every day more encroach
 inp;: like a cancer, it eats faster and  
 faster every hour. John Adams, 1775.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775903:1866050901:0295/pct:33.03632625085675,107.7177368086459,15.198766278272789,16.414494596312778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775903:1866050901:0295/pct:24.789987999314246,80.78830260648442,11.41779530258872,12.320406865861411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2242,7 +2242,7 @@ The nature of the encroachment is to grow
 every day more encroaching; like a cancer,  
 it eats faster and faster every hour.-JoA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn88077244:00280775071:1866051401:1202/pct:324.83660130718954,342.2229269066117,59.19701213818861,41.47772316473759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn88077244:00280775071:1866051401:1202/pct:81.26605933193179,85.55573172665292,14.809623919644944,10.369430791184397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2271,7 +2271,7 @@ The nature of the encroachment is to grow
 every day more encroaching; like a cancer,  
 it eats faster and faster every hour. Jo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn88077244:00280775071:1866061201:1303/pct:95.6639566395664,322.9381035301567,55.91689250225836,26.27829665980687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn88077244:00280775071:1866061201:1303/pct:23.926796204247626,80.73452588253917,13.985539990962494,6.569574164951717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2364,7 +2364,7 @@ the Constitutional Convention
 What is the Government now  
 forming-over States or over p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1866072801:0528/pct:36.40293990488543,54.34409608485416,42.90964115866839,179.08282639213851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1866072801:0528/pct:9.09876810028096,13.58390517779164,10.725091852172033,44.763724266999375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

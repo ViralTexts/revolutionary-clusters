@@ -35,7 +35,7 @@ Athens the considerations recommending
 and urging the preparation of adequate means  
 for maintaining them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812011701:0057/pct:1.152604887044721,4.304786122967941,46.08882741662825,93.11597493415675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812011701:0057/pct:1.1524277811923787,4.304395205230658,46.08686744519566,93.1105460709529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ rights, strengthens the considerations recom­
 mending and urging the preparation of ad­  
 equate me ansfor maintaining them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812012001:0028/pct:78.4405318002156,71.13220815752462,16.798418972332016,5.473511486169714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812012001:0028/pct:78.42644153044728,71.12387202625102,16.801389138374947,5.476776436579554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ rights, strengthens the considerations re­
 commending and urging the preparation of  
 adequate means for maintaining them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812012101:0313/pct:5.320899616017553,22.332506203473944,17.626622782958492,5.558312655086849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812012101:0313/pct:5.319926873857404,22.32973576479345,17.629494210847046,5.561758259934665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ the considerations recommending and urging the
 preparation of adequate means for maintaining  
 them. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812012201:0943/pct:73.1951219512195,21.706053739074132,20.78048780487805,6.60407898996439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812012201:0943/pct:73.17727383564984,21.70254086421751,20.78151670324311,6.607056157954362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ Britth, goveroment agaiaft cur ‘natioual
 meading and urging the preparation o  
 adequate means for maintaining them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812012801:0226/pct:5.271129960617994,49.48484248068159,16.176916086034534,5.6568258371309685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812012801:0226/pct:5.271129960617994,49.4881447724721,16.197111986266787,5.660128128921471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ ngits, strengthens the considerations reCoM=
 ~meading and urging the preparation of ‘  
 Quate meuns tor maintaining them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812012901:0557/pct:25.839793281653748,73.45871467363975,23.72093023255814,7.30161922960877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812012901:0557/pct:25.851277634223372,73.45871467363975,23.715188056273327,7.30161922960877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

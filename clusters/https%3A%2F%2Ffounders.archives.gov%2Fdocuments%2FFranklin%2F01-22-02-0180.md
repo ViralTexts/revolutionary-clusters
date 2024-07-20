@@ -639,7 +639,7 @@ And never, never forger,
 that licbcllion to tyrants is obtdience to  
 God 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1835042001:0278/pct:32.53952371422854,72.05058198016957,15.489293576145688,20.778847535565454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1835042001:0278/pct:32.53301320528211,72.04022988505747,15.491196478591437,20.779454022988507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ Pass not on till thou hast blest hia memorv;
 And never, never forget  
 That ht ln/tinn In Jurntits isohedii lire In (&gt;n&gt;l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215695:1841041001:0016/pct:70.70330693991616,32.5703125,15.381928272007451,13.640625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215695:1841041001:0016/pct:70.69507509605309,32.56776814311382,15.384018318003648,13.642163372653178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +751,7 @@ And never, never forget,
 &quot;That rerellION to tirants is onedtenee  
 Gop?&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1841041701:0063/pct:204.99379652605458,231.84257602862255,37.36042183622829,54.13685152057245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1841041701:0063/pct:68.33126550868487,77.28085867620752,12.45347394540943,18.04561717352415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ Pass not on till thou&#x27; hast blessed his memo
 ry; and never, never forget,&#x27; &#x27;­  
 That rebellion to tyrants is obedience t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846052801:0265/pct:53.40909090909091,24.421831637372804,23.07312252964427,21.214924452667283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846052801:0265/pct:40.07907091672844,18.316373728029603,17.29676303434643,15.911193339500462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ memory;
 THAT REBELLION TO TYRANTS,  
 IS OBKD1KKCB TO IoD.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1859080901:0549/pct:7.9292641186537365,51.051646294460966,20.56474614945807,22.387402268472634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879178:1859080901:0549/pct:5.947796320068464,38.288734720845724,15.432891171016973,16.793304702125315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ Pass not on till thon bast bes ed h&#x27;s msmory;
 And never, never fo get,  
 that rebellion to t ants is ebedi-nce to Ged
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1861040301:0478/pct:83.91484328799527,128.39090143218198,38.985807214665876,33.993260320134794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1861040301:0478/pct:27.971614429331755,42.79696714406066,12.995269071555292,11.331086773378265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1139,7 +1139,7 @@ selfish considerations, despising alike the pagean­
 try of court- and the flatteiy of Princes, presided  
 in that little band of Heroes, who fairly aud opca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895941:1878072701:1094/pct:81.66575542190633,51.80217937971501,12.502278111900857,7.753562447611064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895941:1878072701:1094/pct:81.65087463556851,51.79494342785305,12.504555393586006,7.755971504400056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1192,7 +1192,7 @@ Pass not on, till thou hast blest his memory.
 And never, never forget,  
 That Rebellion to Tyrants is Obedience to God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764315:1889062801:0618/pct:33.65217391304348,36.49945341916677,13.405797101449275,11.769707275598202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764315:1889062801:0618/pct:25.253696723688027,27.3776266245597,10.060887213685126,8.830317016883274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1240,7 +1240,7 @@ And never , neverforget.
 That rebellion to tyrants  
 la obedience to Qed 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206539471:1899050101:0046/pct:25.65880721220527,113.1275720164609,16.33148404993065,16.89986282578875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206539471:1899050101:0046/pct:19.250780437044746,84.8525377229081,12.261533125216788,12.674897119341564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

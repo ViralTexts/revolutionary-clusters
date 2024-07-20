@@ -542,7 +542,7 @@ to employ all the means requisite an^/nir­
 fy applicable to the attainment of the ends  
 ■of such povv t r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819070201:0376/pct:61.51190887124611,72.79285099052541,16.96582671729375,4.242032730404824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819070201:0376/pct:61.501294219154445,72.78501453331899,16.968651136036815,4.245164531524742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ It never entered into the ntind of the
 advocates ol the United States Bank at  
 that time, to deny the rigid ot the slate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819090701:0139/pct:34.11707475271607,66.68273866923819,14.85325117561213,7.160077145612343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819090701:0139/pct:34.11154345006485,66.67470169940943,14.85624729788154,7.1632316901691375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ sidered as necessary, but those w ithoul
 which the giant ol power would be nu­  
 gatory.” This was Mr. Jelfersou’a co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819091001:0143/pct:35.31239777559699,86.68524351829416,14.654890415439974,6.6513205718439545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819091001:0143/pct:35.306623058053965,86.67474258025439,14.657944944126465,6.6545527962850795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ that any person should have ever hesitat­
 ed in allowing this power t&gt;» reside in the  
 slates, who had attended to the theory o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819091701:0151/pct:19.17808219178082,10.337401292175162,14.730056406124094,11.761186886815027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819091701:0151/pct:19.174991943280695,10.336164612991984,14.733054033730799,11.763767595804921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ ents which may be adopted, is that of bills
 issued under the authority of the United  
 States.&quot; These are the views of Hamilton 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837101001:0091/pct:34.038978494623656,30.911256700416914,15.759408602150538,16.164383561643834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837101001:0091/pct:34.044578853046595,30.915227317847926,15.759408602150538,16.168354179074846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -995,7 +995,7 @@ torney General, that the regulation of trade between the
 States, aa it concerua the medium of circulation and  
 exchange, ought to be conaidered aa confined to coin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837110701:0129/pct:2.5200267022696927,11.206383232106704,15.637516688918558,9.658211265928308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837110701:0129/pct:2.5311526479750777,11.214322575523004,15.637516688918558,9.662180937636457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ at a fit and necessary measure, in order to enable Con­
 gress lo exercise its important duty of regulating com­  
 merce, and to fulfil, especially, that part of the dut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837110701:0129/pct:2.636849132176235,20.55496010479933,15.620827770360481,5.394783851375491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837110701:0129/pct:2.6424121050289275,20.56289944821563,15.631953716065865,5.394783851375491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1047,7 +1047,7 @@ garded it as a lit and m cessary measure, iu order t&lt;»
 enable Congress to cxeicUe its important duty ul  
 regulating commerce, and to fulfil, especially, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1837111301:0526/pct:33.67088607594937,73.48539880865901,15.443037974683545,6.494261223303792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1837111301:0526/pct:33.664330218068535,73.47472399767577,15.444898753894082,6.496949447995352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,9 +1187,9 @@ nature sovereign, and including by the force of the term, a
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1839-01_5_13/page/n101/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1839-01_5_13/page/n101/mode/1up?view=theater)
 
-#### 1839-01-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1839-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1215,9 +1215,9 @@ This general }
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1839-01_5_13/page/n110/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1839-01_5_13/page/n110/mode/1up?view=theater)
 
-#### 1839-01-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1839-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1235,9 +1235,9 @@ is truly to be considered a quality, capacity, or means to an end.” We have li
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1839-01_5_13/page/n121/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1839-01_5_13/page/n121/mode/1up?view=theater)
 
-#### 1839-01-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1839-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1258,9 +1258,9 @@ the East India company; if it should be oppressed with demands it could not an
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1839-01_5_13/page/n127/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1839-01_5_13/page/n127/mode/1up?view=theater)
 
-#### 1839-01-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1839-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1287,7 +1287,7 @@ does, would be lo depart from its obvious and popular ,
 sense, and lo give it a restrictive operation: an idea  
 never before entertained _ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840040701:0437/pct:48.11334824757643,61.16952037648944,16.032811334824757,2.4131370782016623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840040701:0437/pct:48.11334824757643,61.17285804879677,16.037782749192147,2.4131370782016623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1375,7 +1375,7 @@ led by restrictions and exceptions specified inoi a  a eie e one
 the Constitution, are not immoral, are not con Te ee a a soae o  
 trary to the essential ends of political society.&quot; e eoai oin on tat e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843042701:0283/pct:59.770114942528735,200.53160070880094,121.39699381078691,26.816302421736562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843042701:0283/pct:14.95244414952444,50.132900177200234,30.369387303693873,6.704075605434141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1413,7 +1413,7 @@ making of all neediul rules and regulatiuns ne
 cerning the property of the United States, as the  
 same had been practiced upon by the govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843042701:0283/pct:60.654288240495134,286.59184878913175,62.68788682581786,34.14057885410514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843042701:0283/pct:15.17363415173634,71.64796219728294,15.682371156823711,8.535144713526284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,7 +1433,7 @@ coins; tluit of making all needful rules and regulations, respecting the pro­
   
 pcrty of the, United States; as well as the reason and nature of the thing.&#x27;1&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844013001:0086/pct:53.79179593243709,31.724590163934426,23.73319544984488,2.767213114754098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844013001:0086/pct:53.7825262795106,31.72043010752688,23.73341375150784,2.77012850773669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1468,7 +1468,7 @@ Again be sr.vs: a power ol erecting a e-r­
 I poration may as well be iv rliid a? any oilier  
 ihing, if may as well baem| loved as an instn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844092701:0551/pct:19.738196793646125,82.99240210403273,13.737314310928078,9.0492889148646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844092701:0551/pct:19.738196793646125,82.99889603220988,13.747119674461931,9.0492889148646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1510,7 +1510,7 @@ whole mass of powers of the Government, and from
 the nature of political society, than a consequence  
 of either of the powers specially enumerated. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850042901:0552/pct:82.85385500575374,28.866324481142602,15.002876869965478,7.576433831733988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850042901:0552/pct:82.85385500575374,28.873763296883137,15.022056003068661,7.580153239604255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1526,7 +1526,7 @@ of either of the powers specially enumerated.
 
 ---
 
-## [From _The United States Review (1853-1856)_](https://archive.org/details/sim_united-states-democratic-review_1855-09_36/page/n59/mode/1up?view=theater)
+## [From _The United States review_](https://archive.org/details/sim_united-states-democratic-review_1855-09_36/page/n59/mode/1up?view=theater)
 
 #### 1855-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1679,7 +1679,7 @@ witli the Legislature, and with it alone, to determine
 whether or not there existed a necessity for its passage;  
 its judgment in the matter being conclusive in regard t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860041901:0389/pct:15.695701357466064,49.49464321811199,11.029411764705882,8.146351324034768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860041901:0389/pct:15.700414781297134,49.50138130853716,11.024698340874812,8.149720369247355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1707,7 +1707,7 @@ of the United States, shall be the supreme
 law of the land, and the judges in every State  
 shall be bound thereby, anything in the con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1860111401:1214/pct:27.236421725239616,87.03359542530379,58.466453674121404,30.879199428162973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1860111401:1214/pct:6.809105431309904,21.758398856325947,14.616613418530351,7.719799857040743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1871,7 +1871,7 @@ charter, or are not immoral nor contrary to
 public policy. And we can see no essential  
 ditl’erence in the transaction whether th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1864021801:0500/pct:15.934684684684685,24.526014109347443,10.923423423423424,5.709876543209877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1864021801:0500/pct:15.939376876876876,24.529688418577308,10.928115615615615,5.709876543209877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2181,7 +2181,7 @@ scriptive of the other enumerated powers; that the &quot;common defense and neit
 the seventeen specified powers following the authority to lay and collect Congress can be considered as only under one restriction which does not thority, among others, of Mr. Hamilton and Mr. Monroe in celebrated  
 taxes, such as war, treaties, foreign and interstate commerce, postal ser- apply to other governments. They cannot apply the money they raise to documents under their official sanction.&quot; If any question can be re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1885102901:0607/pct:35.667539267015705,56.752929058838674,92.75196335078535,4.36461954422557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1885102901:0607/pct:26.755031909671086,42.564696794129006,69.57944689903452,3.28312089609888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2196,7 +2196,7 @@ taxes, such as war, treaties, foreign and interstate commerce, postal ser- apply
   
 vice, bankruptcy, copyright and patent right, naturalization, coinage, etc. any purpose merely or purely local. But with this exception, they have as garded as settled this should be. The right of appropriation contende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1885102901:0607/pct:35.83115183246073,61.181923522595596,92.44109947643979,0.8111239860950173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1885102901:0607/pct:26.885943380788742,45.8864426419467,69.35035182457862,0.6179992275009656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2211,7 +2211,7 @@ vice, bankruptcy, copyright and patent right, naturalization, coinage, etc. any 
   
 sanctioned or adopted, and could not be maintained without greatly dimin- whatever. The constitutional test of a right application must always be the great purposes for which the Government was ordained and established
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1885102901:0607/pct:35.83115183246073,62.932921333848334,92.39201570680628,0.875498905626368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1885102901:0607/pct:26.885943380788742,47.19969100038625,69.3012600229095,0.6694991631260461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2226,7 +2226,7 @@ sanctioned or adopted, and could not be maintained without greatly dimin- whatev
   
 ishing, if not destroying, the Government&#x27;s ability to accomplish the great whether it be for a purpose of general or local nature. If the former is approved by the undoubted and overwhelming weight of authority, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1885102901:0607/pct:35.83115183246073,63.82129522338097,92.42473821989529,0.8368739539075576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1885102901:0607/pct:26.885943380788742,47.86919016351229,69.33398789068892,0.6308742114072358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2243,7 +2243,7 @@ objects and purposes for which it was ordained and established. It was there can
 at once challenged and controverted with a force, power and clearness of as how far it will really promote, or not, the welfare of the Union, must the Government, beginning with the bounty to cod fisheries and extending  
 argument never surpassed, if ever equaled, and the construction was be a matter of conscientious discretion, and the arguments for or against a to the $1,000,000 donated at the close of the last administration to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1885102901:0607/pct:35.79842931937173,64.69679412900734,92.5065445026178,2.549246813441483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1885102901:0607/pct:26.853215513009328,48.52581434273207,69.39944362624774,1.9183726020342475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2258,7 +2258,7 @@ argument never surpassed, if ever equaled, and the construction was be a matter 
   
 settled that the terras &quot;common defense and general welfare&quot; for which measure in this light must be arguments concerning expediency or inex- exposition in the city of New Orleans. Nothing short of an express pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1885102901:0607/pct:35.76570680628272,67.37479078151152,92.19568062827226,0.8626239217200978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020552:1885102901:0607/pct:26.83685157911962,50.53431183211021,69.15398461790214,0.6437491953135058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

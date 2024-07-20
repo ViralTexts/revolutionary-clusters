@@ -604,7 +604,7 @@ spectacle; and pray you to be assured of
 my greatest rcspict.  
 Til. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816071701:0084/pct:19.70827117520305,36.56763993369884,15.216310293386375,59.03353308682902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816071701:0084/pct:19.705004971826316,36.56297807241204,15.219312783117887,59.030256671766104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,7 +714,7 @@ tacle; and pray you to be assured of my
 great respect.  
 THOMAS JKFFICI180N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816071701:0228/pct:11.17936117936118,21.60174652418706,17.11126711126711,54.80868665977249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816071701:0228/pct:11.177399543779611,21.59926470588235,17.114113587179038,54.8062193627451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ happy spectacle; and pray you to be assured of
 my great respect. £  
 e TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816072301:0554/pct:26.32573005956705,16.16596535864566,16.79500217928229,48.71318132889715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816072301:0554/pct:26.33541575863238,16.16596535864566,16.79500217928229,48.71318132889715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -935,7 +935,7 @@ happy spectacie ; and pray you te be assyred
 of my great respect.  
 TH: JEFFCRSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816072401:0321/pct:29.76697061803445,4.572495042575528,45.89665653495441,90.58672576694272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816072401:0321/pct:29.773725092874027,4.572495042575528,45.88990206011483,90.60227847116917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1336,7 +1336,7 @@ happy spectacle ; and pray you to he a»-j
 isured of inv great respect.  
 THOMAS JKFFKUSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816082101:0492/pct:43.838054278511045,5.999639119451461,36.06703247812546,91.55539516420065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816082101:0492/pct:43.83155397390273,5.999097880018042,36.06662712534599,91.5501428356638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1430,7 +1430,7 @@ fr - i
   
 THE SPIItIT OP DEMOCFACY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1846050901:0460/pct:71.42279708973322,7.027183342972816,38.1770412287793,116.9895893580104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1846050901:0460/pct:53.609706774519715,5.2776171197223825,28.65520728008089,87.73857721226142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

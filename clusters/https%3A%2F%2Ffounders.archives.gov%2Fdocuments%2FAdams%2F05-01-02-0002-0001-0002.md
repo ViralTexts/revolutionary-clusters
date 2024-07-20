@@ -700,7 +700,7 @@ County, or to any or either of them, Greeting:
 In the name of the Commonwealth of Mas­  
 sachusetts, You are required to summo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826030801:0143/pct:25.267839094400646,33.7770144554172,19.243986254295532,4.12194074710176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826030801:0143/pct:19.587467362924283,26.18501811728167,14.929503916449086,3.1945574206906753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ G , as shall then and there appear. Here­
 of fail not; and make due return of this writ,  
 and of your doings therein, unto myself, at o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826030801:0143/pct:25.146553466747523,44.854730213253184,19.345057610673134,4.1076284528409905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826030801:0143/pct:19.488250652741513,34.76299637654367,15.002610966057441,3.198254825112771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1137,7 +1137,7 @@ the Margin, and are to be delivered in the like good
   
 order, and well conditioned, at the aforesaid port of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1845080101:0108/pct:71.76381529144588,247.19679633867275,49.20514761544285,7.551487414187643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1845080101:0108/pct:17.94774706550549,61.79919908466819,12.305944717909883,1.8878718535469108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1158,7 +1158,7 @@ ton (Dangers of Tories excepted) unto­
  or his Assignees, he or they paying  
 Freight for said Goods-- as per Agree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845082301:0626/pct:213.32781456953643,106.0458958517211,39.707505518763796,7.722859664607237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845082301:0626/pct:71.0994619947579,35.34473248758963,13.234009288637512,2.574002574002574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,7 +1187,7 @@ as shall then and there appear, with other due dam­
 ages. Hereof fail not, and make due return of this  
 writ and of your doings therein, to my self, at or l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1851080801:0317/pct:211.20548840248284,219.07742998352555,38.19013394315583,17.210323997803403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1851080801:0317/pct:70.39033153682836,73.01779046782342,12.727965594207632,5.736144666520243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1329,7 +1329,7 @@ ing to&#x27;Custoin with Primage aud Avarage accus­
 tomed. Is witness whereof, the Master or Purser  
 of the said Ship hath affirmed to two Bills of Lad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860040501:0340/pct:14.710022522522523,87.21995926680245,10.9375,2.7291242362525456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860040501:0340/pct:14.719406906906906,87.2233536999321,10.932807807807809,2.7257298031228783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1352,7 +1352,7 @@ According to Custom with Primage and
 Average accustomed. In Witness where-­  
 of, the Master or Purser of the said Shi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529091:1860041701:0570/pct:58.90759869817462,231.08891752577318,35.970001415027596,14.46520618556701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529091:1860041701:0570/pct:19.635866232724872,77.02963917525773,11.990000471675865,4.821735395189004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1540,7 +1540,7 @@ unto Mr. Humphrey Bell, Merchant there,
 or to his assigns, he, or they paying freight,  
 for the said goods, at and after the rate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1872101101:0140/pct:31.801741460147355,76.23221282738709,12.069658405894172,4.805114456588988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1872101101:0140/pct:31.81067202500558,76.23908709699595,12.069658405894172,4.805114456588988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1572,7 +1572,7 @@ the owner in fee simple of real estate, situ­
 ate in said county of the value of one  
 thousand dollars over and above all hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1874012401:0732/pct:49.31553151935102,22.20294882914137,14.162582389724523,9.267748730021063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1874012401:0732/pct:38.21872953503602,17.20705438018116,10.97576948264571,7.185609576545146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1593,7 +1593,7 @@ Eighteen Months: and shall procure and
 provide for said Apprentice Sufficient Meat,  
 Drink, Washing, Lodging &amp; apparel suit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1874110701:0055/pct:35.80184718723761,44.11801475184398,14.18975650713686,4.188023502937868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1874110701:0055/pct:27.750303661287525,34.19131895103992,11.001214645150096,3.2521638031262112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1625,7 +1625,7 @@ three pounds with primage and average
 accustomed. In withess whereof the  
 master or purser of said ship ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293113:1875030601:0204/pct:189.29440389294405,310.2224219276567,41.78832116788321,28.308245338126262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293113:1875030601:0204/pct:47.33799817462732,77.55560548191417,10.450258594463037,7.077061334531566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1662,7 +1662,7 @@ to the damage of the said plaintiff (as lie says) the I
 sum of one thousand dollars.  
 Writ dated October 12, 1*71; returnable Octobe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895916:1875090701:1160/pct:69.18978504501194,74.68838526912181,12.860554841080287,4.645892351274788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895916:1875090701:1160/pct:69.17707567964732,74.67780767596658,12.862784717119764,4.648774961053675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1702,7 +1702,7 @@ to her destined port in safety.&quot; On the
 margin is givn the items comprising the  
 cargo of the vessel, with their value i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:0020029595A:1876050501:1155/pct:79.56630525437865,265.61514195583595,67.05587989991659,60.19978969505783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:0020029595A:1876050501:1155/pct:19.895724713242963,66.40378548895899,16.767466110531803,15.049947423764458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1832,7 +1832,7 @@ The Sunday-schools connected with
 the Central M. E. church, of this city,  
 and the Shiloh Seven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1886070801:0222/pct:51.629464285714285,45.68714570246668,14.419642857142858,20.576068637965374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1886070801:0222/pct:51.61794242356617,45.68014705882353,14.4220040169605,20.576746323529413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1961,7 +1961,7 @@ and Date; the one of which three Bills
 being accomplish&#x27;d, the other two to  
 stand void. And so God send the goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:0028077652A:1893092001:0474/pct:218.46246973365618,219.64641142723335,39.46731234866828,29.692073527689967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:0028077652A:1893092001:0474/pct:54.615617433414045,54.91160285680834,9.86682808716707,7.423018381922492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1994,7 +1994,7 @@ ties, with primage and average accustomed.
 In witness whereof, the master or purser  
 cf sail ship hr;th affirmed to two bills o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00296029865:1893101601:0466/pct:30.19859813084112,114.73955813578455,18.189252336448597,9.087243992904371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00296029865:1893101601:0466/pct:22.657162888525356,86.0587002096436,13.648048609488198,6.813417190775682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2045,7 +2045,7 @@ custody and them safely keep till then
 enter into bond with good and sufficient  
 a sefficient Security for their appearanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031157:1895022101:0295/pct:79.81403719256149,169.73091822845774,35.15296940611878,21.076327086168988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031157:1895022101:0295/pct:26.604679064187163,56.57697274281925,11.71765646870626,7.025442362056329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2110,7 +2110,7 @@ and Average accustom&#x27;d.
 &quot;In witness whereof the Master or Purs­  
 er of tlie said. Ship hath affirmed to thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:0033289528A:1895101701:0122/pct:44.02050113895216,36.30837657524092,11.902050113895216,5.411415863602668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:0033289528A:1895101701:0122/pct:44.01214651736572,36.30299436703231,11.904535965078763,5.414319596798102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2133,7 +2133,7 @@ and Average nooustom’d.
 &quot;In witness whereof tbo Master or Purs­  
 er of tho said Ship hath affirmed to thro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583218:1895111701:0373/pct:81.07074569789675,37.26218787158145,13.469301041002762,4.310344827586207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583218:1895111701:0373/pct:81.053525913339,37.25665031951256,13.471750212404418,4.3134195274186355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2186,7 +2186,7 @@ Nett at the King&#x27;s Beam, with Primage
 and Average accustomed. In witness  
 whereof the Master or Purser of the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182227:1897122901:1225/pct:55.261234928754114,63.756388415672916,12.47716477895506,4.372515616127201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182227:1897122901:1225/pct:55.26732432103276,63.761120575430624,12.48325417123371,4.381979935642628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2212,7 +2212,7 @@ accustomed In witness 1
 whereas the Master or Purser i  
 of the said Ship hath affirm- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1898081201:0793/pct:21.49557060969255,83.66412213740458,16.362688900468996,10.763358778625955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1898081201:0793/pct:21.50425568872677,83.66921119592875,16.371373979503215,10.773536895674301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2241,7 +2241,7 @@ ot this Tenor and Date; the one of
 which three Bills being accom  
 plished the others to stand void, au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898081201:0991/pct:66.71270718232044,23.409395973154364,18.587213891081294,9.651006711409396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898081201:0991/pct:50.069101678183614,17.55704697986577,13.958538993089832,7.248322147651007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

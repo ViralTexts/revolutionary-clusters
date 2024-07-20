@@ -77,7 +77,7 @@ Provided, that no person or persons malting
 payment for lauds in certificates, authorized  
 to be issued hy this act, shall be entitled t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814041601:0079/pct:21.84620836286322,53.68458108425252,16.45995747696669,6.043182351560667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814041601:0079/pct:21.842338352524358,53.678282294966564,16.462946560377915,6.046384293480386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ certificates of stock shall be receivable in pay­
 ment of the public lands to be fold after the date  
 of such certificates. in the Miffiflippi territory 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814060701:0096/pct:24.238975817923187,47.92635658914729,16.913229018492178,2.306201550387597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814060701:0096/pct:24.238975817923187,47.929586563307495,16.913229018492178,2.306201550387597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -36,7 +36,7 @@ eleven o’clock to-tnorrow, to advise with them
 on the terms of the treaty to be negotiated with  
 the Southern Indians 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846062001:0184/pct:83.81047381546135,85.06142837856082,14.58354114713217,2.349129202106116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846062001:0184/pct:83.80211450229403,85.05568680391495,14.585411264046812,2.351220609742378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ chamber, at half-past 11 o&#x27;clock to-morrow, to ad­
 wise with them on the terms of the treaty to be ne­  
 gotiated with the Southern Indians
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854100701:0299/pct:3.7836282549273488,37.107474568774876,15.781901884620918,3.5603715170278636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854100701:0299/pct:3.793219201074186,37.111160253575115,15.781901884620918,3.5640572018280996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ to-morrow to advise with them on the terms
 of the treaty to be negotiated with the southern  
 Indians. Go. WAshingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102007:1885031601:0336/pct:239.85330073349633,148.62271742494585,45.23227383863081,6.8709377901578454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102007:1885031601:0336/pct:60.0,37.15567935623646,11.314984709480122,1.7177344475394614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ the terms of the treaty to be negotiated with
 the Southern Indians.  
 Go. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1885040301:0531/pct:193.09734513274336,124.42159383033419,57.78761061946903,11.855436261908363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1885040301:0531/pct:48.27433628318584,31.105398457583547,14.446902654867257,2.9638590654770907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ o&#x27;clock to-morrow, to advise with them on
 the terms of the treaty to be negotiated with  
 the Southern Indians.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885041101:0390/pct:24.432001722838375,33.743512472794244,9.830946484332939,1.9922986773815503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885041101:0390/pct:24.43559096945551,33.74630280707629,9.834535730950073,1.9922986773815503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ the terms of tha treaty to be negotiated with -J
 the Southern Indians.  
 Go. Washington. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194059:1885042201:0137/pct:86.92818648953502,30.654173472019256,13.084346409324477,2.3553683486632853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194059:1885042201:0137/pct:86.93654175544137,30.659904295252012,13.07599114341814,2.3553683486632853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ advise with them oh the terms of the treaty to
 be negotiated with the Southern Indians.  
 ‘‘George Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210156:1886031501:0124/pct:65.50176774544465,81.95503421309873,14.63149306499864,3.5386119257087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210156:1886031501:0124/pct:65.50630042607197,81.9582926034539,14.626960384371317,3.5386119257087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ treaty to be negotiated with the
 Southern Indians  
 GForGe WasrixGto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283405:1886032501:0587/pct:350.62240663900417,40.920336467095495,42.11618257261411,9.450766947055913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283405:1886032501:0587/pct:87.67075912156321,10.230084116773874,10.53086633235345,2.362691736763978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ morrow, to advise with them on the terms of the
 treaty to be negotfated with the Southern Indians.  
 GEORGE WASIlINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:0017503822A:1888040801:0371/pct:101.48823811809889,236.6500277315585,46.631461033765405,10.083194675540765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:0017503822A:1888040801:0371/pct:33.82941270603297,78.88334257718617,15.543820344588468,3.361064891846922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ o&#x27;clock to-morrow&#x27;, to advise with them on the
 terms of the treaty to be negotiated with the  
 Southern Indians. Georoe Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888041401:0356/pct:74.68834688346884,44.994453688297284,15.971093044263776,3.882418191902385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888041401:0356/pct:57.88294595351442,34.878389511767026,12.391486978437413,3.012501343267543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ terms of the treaty to be negotiated
 with the southern Indians.  
 Go. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283211:1889041201:0227/pct:27.701778385772915,96.9409682720263,18.17715458276334,4.841360131462521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283211:1889041201:0227/pct:18.47417037290455,64.63152572367589,12.127950735545673,3.223359878649981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ terms of the troaty to be negotiated with
 the southern Indians.  
 &quot;GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:0028065498A:1895021601:0539/pct:70.23829933139037,60.52329291640076,13.920795474027088,4.04594767070836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:0028065498A:1895021601:0539/pct:70.23829933139037,60.53286534779834,13.929367392422424,4.039566049776643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ them on the terms of the treaty to be ne­
 gotiated with the southern Indians.  
 “Gj:&lt;&gt;}«;i: Washington,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867110:1895032701:0050/pct:55.20910299985223,23.757982465634807,12.427959213831832,4.62171230652668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867110:1895032701:0050/pct:55.20094562647754,23.755411255411257,12.431048069345941,4.624819624819625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ of the Treaty to be negotiated with the
 Southern Indians.  
 GO: WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896111501:0556/pct:22.426937738246504,59.933963338267105,13.97712833545108,3.484003187976773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896111501:0556/pct:22.43752647183397,59.941553759155944,13.982422702244811,3.4802079775323542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ with them on the terms of the treaty to
 be negotiated with the Southern Indians  
 GO WASHINGTO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534631:1896112901:0288/pct:57.761139517896275,78.64384463462804,12.892622352081812,2.2119815668202767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534631:1896112901:0288/pct:57.761139517896275,78.65262233925829,12.892622352081812,2.2032038621900374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ the terms of the treatj- to be negot ated
 w.th the Southern Indians.  
 &quot;GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:00211109397:1896120601:0202/pct:59.193173002327384,112.64594176396118,16.87354538401862,3.291602194401463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:00211109397:1896120601:0202/pct:44.41210710128056,84.48445632297089,12.6697710516104,2.4757349838233225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -604,7 +604,7 @@ advise with them on the terms of the
 Treaty to be negotiated with the Southern  
 Indians.O WASHinGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199409:1897010201:0348/pct:138.35036496350364,77.21145745577086,37.81021897810219,6.465880370682393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199409:1897010201:0348/pct:46.11678832116788,25.73715248525695,12.603406326034063,2.155293456894131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ with them on the terms of the Treaty to be
 negotiated with the Southern Indians,  
 GO: WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn92063989:00514153425:1897020601:0557/pct:38.104738154613464,68.60251302482378,10.912718204488778,2.2678516702421083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn92063989:00514153425:1897020601:0557/pct:38.10806317539485,68.60506691183981,10.919368246051539,2.2678516702421083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ with them on the terms of the treaty to he
 negotiated with the Southern Indians. Ho  
 signs himself &quot;Go. Washington.&quot; A lette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102354:1897061701:0373/pct:23.19724284199364,59.70979924468296,16.675503711558854,4.700854700854701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102354:1897061701:0373/pct:17.406867294180035,44.78234943351222,12.501657165583985,3.528125621148877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

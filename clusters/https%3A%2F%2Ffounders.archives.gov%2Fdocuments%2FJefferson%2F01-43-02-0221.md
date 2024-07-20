@@ -53,7 +53,7 @@ to such person or persons, and shall be
 exercised by and in such manner as the  
 President of the United States shall di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0384/pct:60.58596761757903,77.35961768219833,16.576715497301464,10.941855834328953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0384/pct:60.58596761757903,77.35961768219833,16.586995630943203,10.94517456524625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ same, shall be vested in such person and per­
 sons, and shall be exercised in such manner as  
 the President of the United States shall direct.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898082101:0060/pct:68.30932524639879,19.43844492440605,51.09931766489765,31.28663992594878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898082101:0060/pct:17.08704722169543,4.859611231101512,12.78209747771667,7.821659981487195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

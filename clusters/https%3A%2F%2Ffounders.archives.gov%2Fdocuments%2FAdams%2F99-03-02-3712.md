@@ -180,7 +180,7 @@ other person or persons in my name or be­
 half shall or will hereafter claim or demand  
 any right or title to the premises aforesaid,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1847040801:0980/pct:7.8936688311688314,34.25736796031514,19.379058441558442,4.975196965275751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1847040801:0980/pct:5.927730410069022,25.69302597023636,14.535119772634998,3.7350452290633207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ have hereunto set my hand and seal this 23d
 day of October, in the year of our lord, one  
 thousand eight hundred and sixty-one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768133:1879021301:0243/pct:80.45805664724217,66.11570247933884,11.817319419975606,7.298615951408942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768133:1879021301:0243/pct:80.46709129511677,66.11902154070829,11.821836743912906,7.305254074147831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ unto the said Claus Spreckels, his heirs
 and assigns, all and singular the several  
 lands reserved by His late Majesty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn82015415:00237284203:1893082401:0279/pct:9.300077339520495,45.737344093910494,16.163959783449343,8.862802641232575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn82015415:00237284203:1893082401:0279/pct:6.982591876208898,34.30667644900954,12.127659574468085,6.647101980924432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ lot, piece or parcel of land situated in the
 [ said county of Los Angeles, state of Cali­  
 i fornia. and bounded and described panic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769654:1896012101:0240/pct:56.529516994633276,30.521054225992124,12.44285430331942,2.9233565586186003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769654:1896012101:0240/pct:56.529516994633276,30.521054225992124,12.44285430331942,2.934716752499243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ ally appeared, and acknowledged this in­
 strument, by him sealed and subscribed, to  
 be his free act and deed. Before me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1896061001:0198/pct:12.961567445365485,247.27163099186012,49.811605124340616,6.9339764847754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1896061001:0198/pct:3.2403918613413714,61.81790774796503,12.452901281085154,1.73349412119385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

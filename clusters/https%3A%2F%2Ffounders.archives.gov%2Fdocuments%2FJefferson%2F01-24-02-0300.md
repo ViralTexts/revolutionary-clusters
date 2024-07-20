@@ -204,7 +204,7 @@ ed to man, will be lost perhaps forever.”’
 We subjoin the replies of Hamilton and Jefferson  
 to these letters of the President, omitting such part
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838020601:0021/pct:19.28337793636634,65.17262895174709,14.377044305679453,17.37728785357737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838020601:0021/pct:19.29328972147884,65.17956184137549,14.377044305679453,17.37728785357737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ throwing their wetKht tnm the diself-cted scnle, may ac­
 complish the rain of the goodly fabric we have been ereot­  
 in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850070601:0775/pct:36.33403874328504,79.45535148828372,15.806609148624451,11.48828372387587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850070601:0775/pct:36.33946497368278,79.45535148828372,15.822887839817678,11.496727886848216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ j Government will clog ; our enemies will triumph ; and, by
 i throwing their weight into the disaffected scale, may accom­  
 plish the ruin of the goodly fabric we have been erecting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850071301:0284/pct:52.878808213662595,75.73482765912455,15.138907529190712,11.662085007401142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850071301:0284/pct:52.887755558538004,75.74187636568689,15.138907529190712,11.658560654119968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ picions and irritating charges, there may be
 liberal allowances, mutual forbearances, and  
 temporizing yiclding on all sides,&quot; he did jus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053572:00237289018:1872020601:0129/pct:63.87832699619772,101.26582278481013,44.29657794676806,8.931082981715893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053572:00237289018:1872020601:0129/pct:15.973377703826955,25.31645569620253,11.076776800570478,2.232770745428973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ long time past filled me with painful sensa
 tions, and cannot fall, I think, of producing  
 unhappy consequences at home and abroad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053572:00237289018:1872020601:0129/pct:64.06844106463879,113.85372714486638,44.20152091254753,12.306610407876232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053572:00237289018:1872020601:0129/pct:16.02091751842168,28.463431786216596,11.053006893273116,3.076652601969058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

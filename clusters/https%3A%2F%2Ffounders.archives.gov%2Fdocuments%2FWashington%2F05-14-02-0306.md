@@ -1153,7 +1153,7 @@ strenuous and warmest co-operations,
 (Signed) .  
 x zeo. Wafhmaton, =
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793122101:0145/pct:7.133666904932094,5.139062650370513,81.21515368120086,88.83649311904533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793122101:0145/pct:7.138432213485824,5.139062650370513,81.22944960686205,88.83970102332147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1783,7 +1783,7 @@ Speech—&quot; That the Militia may be trained
 to a degree of energy, equal to every military  
 exigency of the United States&quot;—and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010801:0003/pct:51.01362578929877,56.059373729158196,19.175805915586572,3.151687677917853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010801:0003/pct:51.03024260551678,56.07462383082554,19.192422731804587,3.1466043106954045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2555,7 +2555,7 @@ gree of energy, equal to every military
 His concluding advice is worthy of him­  
 » an{J ought not to be Overlooked b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794041701:0002/pct:71.72897196261682,31.94418604651163,19.684579439252335,41.06046511627907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794041701:0002/pct:71.7508761682243,31.948837209302326,19.699182242990656,41.06976744186046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2580,7 +2580,7 @@ But as thejegiflative proceedings of the
 reproached for the want of temper 01 cf  
 caudour : so fliall not the public hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794041701:0002/pct:71.64135514018692,72.83720930232558,18.89602803738318,8.688372093023256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794041701:0002/pct:71.64865654205607,72.84186046511628,18.932535046728972,8.702325581395348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2955,7 +2955,7 @@ well admiuifrered by the judiciary, who pofsefs a
 long eftablifhed courle of inveftigatiou, effectual  
 procefs, and officers in the habit of executing it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1796121501:0186/pct:15.251572327044025,24.783524455885793,26.729559748427672,33.67657383571262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1796121501:0186/pct:15.245579567779961,24.77772578380908,26.728880157170924,33.67454375292466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3026,7 +3026,7 @@ who pofiefs a long established course of in­
 vefltigation, effe€tual process, and officers  
 in the habit of executing i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796121701:0201/pct:41.83346065699007,29.298922179373083,16.0733384262796,33.046573716997926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796121701:0201/pct:41.843646549528906,29.305514354461256,16.0733384262796,33.04327762945384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3198,7 +3198,7 @@ has organized them fo as to produc
 10. The Militia—&quot; Equal to every mi­  
 litary exigency of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801031601:0004/pct:27.468900736227468,70.8672294704528,21.604468139121604,1.5195702225633154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801031601:0004/pct:27.468900736227468,70.87234586850857,21.62985529322163,1.524686620619084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3279,7 +3279,7 @@ inftruments of our riling profper::y&gt; it
 moft be known that we are at all times  
 ready for war.” Unlike the prbu exe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024679:00414184364:1803050401:0140/pct:8.204074004858905,19.6771714066103,20.10839095496169,9.08275685370228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024679:00414184364:1803050401:0140/pct:8.20254110612855,19.674650954271808,20.11086198305929,9.085863114299134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3329,7 +3329,7 @@ at all times ready for war.&quot;
 The means, by which thefe deferable  
 end* are to be fecured, ate ftated in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102601:0001/pct:79.77827050997783,26.282140375260596,20.0,18.73523280055594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102601:0001/pct:79.78566149297856,26.28677322214501,20.00739098300074,18.73523280055594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3377,7 +3377,7 @@ ait, wh&#x27;Ch can f.tarcely ever Oe attained
 by practice alon ;&quot;&#x27;  
 In this earned Lnguage, does ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102601:0001/pct:79.82261640798227,47.2550382209868,18.736141906873613,24.572619874913133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102601:0001/pct:79.82261640798227,47.2550382209868,18.75092387287509,24.581885568681955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3405,7 +3405,7 @@ wfih li ct*r not be too scumnly pursued,
 whether «hea^l lm&gt; organized them so a*  
 to produce their lull eflV&#x27; \ ” \n&lt;| j.gai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804102701:0329/pct:78.08871121264039,68.81720430107526,17.70416904625928,8.693941778127458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804102701:0329/pct:78.0738484963837,68.8081814606005,17.707143763481792,8.697172326384337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3455,7 +3455,7 @@ a otti ?”
 In this earnest l.tngurge, does our great  
 patiiot urge, on Ins country, as the be.i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804110301:0338/pct:4.614497212074601,23.75065070275898,17.900403768506056,22.384174908901613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804110301:0338/pct:4.61361014994233,23.747560182173064,17.903370498526208,22.385599653003688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3483,7 +3483,7 @@ which cannot be too folemnly pur­
 fued, whether the ad has organized  
 them fo as to prodace their full effet.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804120601:0605/pct:11.757835312439166,42.30333257764679,20.22581273116605,11.06325096350034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804120601:0605/pct:11.77081305560963,42.307111010352905,20.23230160275128,11.067029396206454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3615,7 +3615,7 @@ d&#x27;siﬄfsif be&#x27; ncgscctcd ; as ii would leave no­
 thing to the uncsszaimy of procuring a war­  
 like appararus in the moment of public dan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807012601:0404/pct:53.3482475764355,66.17920765753789,22.609992542878448,10.954533368784897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807012601:0404/pct:53.340292275574114,66.17334278624601,22.611591609503925,10.956516601677892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3660,7 +3660,7 @@ f\(lem of fortifications commenced for
 the protection of our harbours and  
 frontiers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807062901:0212/pct:57.46742398930839,28.58472035562907,17.123287671232877,22.216478858678798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807062901:0212/pct:57.45782528812427,28.581765557163532,17.124603307165525,22.216766590862104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3687,7 +3687,7 @@ Had the mission of Mr. Jay not ended in a
 treaty, war would inevitably have been recom­  
 mended by President Washington against th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812082701:0677/pct:26.486300189557127,15.291407971159623,22.919179734620023,9.142799919887842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812082701:0677/pct:26.486300189557127,15.29808398424461,22.930668045263943,9.146137926430336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3705,7 +3705,7 @@ due to the U. States, amongst nations,
 than will be withheld, if not absolutely  
 lost, by the reputation of weakness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216286:1820061301:0254/pct:62.12477928193055,81.22095671981776,17.99587992937022,2.8154897494305238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216286:1820061301:0254/pct:62.115639252611444,81.21355685131195,17.998136432739933,2.818270165208941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3922,7 +3922,7 @@ meats of our rising prosperity, it must be known ;
 that we are, at ail times, rermv for war.”  
 ANDREW JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215609:1836022401:0412/pct:6.880992667794699,59.40025681698013,18.420755781161873,8.067074552458646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215609:1836022401:0412/pct:6.8802165576359124,59.39577039274924,18.422437777276485,8.068982880161128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3965,7 +3965,7 @@ Dean. If we desire to avoid insult, we must lie able to
 &quot; must be known that we are, at all times ready foi  
 war.&quot; Ahdksw Jackson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030311:00271743105:1836022501:0194/pct:3.05973773676542,85.776,25.25497814473045,11.76/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030311:00271743105:1836022501:0194/pct:3.0759268253197347,85.78133333333334,25.246883600453295,11.770666666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3998,7 +3998,7 @@ a persuasion that, contrary to the order of human
 “ that we are, at all times, ready tor war.”  
 ANDREW JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836022501:0360/pct:4.072778166550035,57.44193653909061,15.325402379286214,8.603205757278378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836022501:0360/pct:4.072208228379513,57.435673789795025,15.327922380819107,8.605902020642535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4035,7 +4035,7 @@ most powerful instrument of our rising
 prosperity.- it mui be known that we  
 are at all uoie readv fr war.&quot; 4. ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1836022601:0157/pct:75.14478764478764,36.86285553365249,24.54150579150579,19.65643480709659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1836022601:0157/pct:56.38426261163408,27.65418192058575,18.416606323919865,14.742326105322444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4068,7 +4068,7 @@ be known that we are at all times,
 ready for war.,?  
 ANDREW JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836022701:0295/pct:50.074147305981214,5.698960777740529,15.101334651507662,12.05162587998659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836022701:0295/pct:50.061774153694095,5.698005698005698,15.103780578206079,12.053795877325289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4158,7 +4158,7 @@ to secure-peace, one of the most powerful in­
 struments of our rising prosperity, it must be  
 known that we are, at all times, ready for war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836030101:0242/pct:8.310911808669657,75.06221484861054,14.185351270553065,6.65698880132725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836030101:0242/pct:8.310911808669657,75.06567122908889,14.19531639262581,6.660445181805613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4186,7 +4186,7 @@ of our rising prosperity, it must be known that we
 are at all times ready for war.”  
 ANDREW JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836030201:0428/pct:5.491907619567194,59.74179949940719,18.18512456810329,8.444210248979054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836030201:0428/pct:5.497969327756562,59.74619066438326,18.18512456810329,8.444210248979054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4313,7 +4313,7 @@ powerful instruments of our rising prosperity,
 It must he known that we are, at all times,  
 ready for war.&quot; ANDREW JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1836030301:0252/pct:8.383233532934131,51.077414205905825,16.926147704590818,12.68954509177973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1836030301:0252/pct:8.381560566753143,51.070621093230486,16.927758930353225,12.691182338076873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4351,7 +4351,7 @@ struments of our rising prosperity, it must
 be known that we are, at all times, ready  
 for war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836030301:0291/pct:109.85813549507817,72.139564124057,21.14939200926462,17.93797150041911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836030301:0291/pct:82.4210831161309,54.10729253981559,15.870257746886764,13.453478625314334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4382,7 +4382,7 @@ at all times, ready for war.”
 Fenrvary 22, I‘O  
 [The documents which accompanic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836030301:0045/pct:34.71003269660988,82.54008016032064,15.126484254001033,10.796593186372746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836030301:0045/pct:34.71576894395686,82.54843019372078,15.126484254001033,10.804943219772879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4420,7 +4420,7 @@ j nrospt idy, it must he known that we are,
 j «t ad time* readv for war.”  
 ANDREW JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1836030301:0220/pct:26.349514563106798,17.361878453038674,14.79611650485437,13.176795580110497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1836030301:0220/pct:26.34439914579693,17.35948073470515,14.798097456804504,13.17842839386825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4452,7 +4452,7 @@ I to repel it. If we desire to secure j
 ‘must he known that we arc, at all!  
 times, ready for war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1836030301:0444/pct:14.745429823236138,77.15368711233631,13.446139900287053,10.38364346427751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1836030301:0444/pct:14.743202416918429,77.1448260020673,13.449144008056395,10.386279238926534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4561,7 +4561,7 @@ erful instruments of our rising prospe
 rity, it must be known that we are, at  
 all times, ready (or war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1836030401:0113/pct:29.440069991251093,92.50224483687519,19.00699912510936,23.87009877282251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1836030401:0113/pct:22.095821483264057,69.38042502244836,14.263837234740757,17.898832684824903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4597,7 +4597,7 @@ of our rising prosperity, it tiiuxt be known that
 we nre, ai an nines, rennv mr wiir.  
 ANDREW JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1836030401:0011/pct:70.62607204116638,10.20121665886757,20.711835334476845,9.889252846669786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1836030401:0011/pct:52.991636285653016,7.658711589455623,15.526485095432125,7.4247387303072845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4848,7 +4848,7 @@ ty.it must be known that we are,at all times
 &quot; ready for war.&quot;  
 ANDREW JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836030801:0041/pct:34.250978200111796,61.18324709557747,18.963107881498043,15.815679000292883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836030801:0041/pct:34.25563629588224,61.1865013505158,18.958449785727595,15.822187510169547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4971,7 +4971,7 @@ known that we are, at all times, rea­
 dy for war.&quot;  
 ANDREW JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82016416:00271744730:1836031201:0320/pct:9.52467343976778,16.804781958972967,20.246734397677795,25.41774215459856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82016416:00271744730:1836031201:0320/pct:7.151933200217825,12.606982746909388,15.193320021782538,19.05991033826926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5036,7 +5036,7 @@ ments of our rising prosperity, it. must be
 ‘♦known that we are, at all times, ready for  
 “war. ANDREW JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1836031801:1067/pct:8.487486398258977,62.18071958253227,17.47551686615887,8.802526778357594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1836031801:1067/pct:8.485639686684074,62.17218179321708,17.47896721787061,8.80589500663646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5076,7 +5076,7 @@ struments of our rising prosperity, it must
 be known that we are, at all times, ready  
 for war.&quot; ANDREW JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn87065592:00415662385:1836031801:0330/pct:104.29654591406909,85.69299552906111,20.05054759898905,18.6560086709118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn87065592:00415662385:1836031801:0330/pct:78.25537294563843,64.27313372171793,15.044247787610619,13.995393578105947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5286,7 +5286,7 @@ public, and may be trained to a degree of energy equal j
 to every military exigency of the United States^&#x27; How j  
 different this lrom the canting, whining tone of Mr. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840031901:0413/pct:16.256524981357195,42.781655034895316,16.092468307233407,3.8983050847457625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840031901:0413/pct:16.26646781009197,42.78497839813892,16.08749689286602,3.904951811232968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5332,7 +5332,7 @@ pride in being the depository of the power of the Re­
 public, and may be trained to a degree of energy equal  
 to every military exigency of the I S. Out, it is a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840061901:0519/pct:65.4458120684479,80.62941938053979,15.746022215550886,3.445871925107061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840061901:0519/pct:65.45081557089964,80.6360588254822,15.746022215550886,3.4425522026358597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5548,7 +5548,7 @@ ess a tee wotloi te ta  te wel o
 the mminid who ought to possess a pride in bemg  
 the great depository of the force of the Republic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1842021101:0375/pct:135.97972972972974,90.14813749460664,59.12162162162162,20.422839062275276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1842021101:0375/pct:34.00929446556823,22.53703437365166,14.78664976763836,5.105709765568819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5567,7 +5567,7 @@ There is no resource so firm for the Government of
 the United States as the affection of the people, guided  
 by an enlightened policy, and this affection, so essentia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842022201:0033/pct:49.35713205263954,22.84886312973696,16.064135531689608,3.555506018724922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842022201:0033/pct:49.35713205263954,22.84886312973696,16.07421973478546,3.5629365433199585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5589,7 +5589,7 @@ of the most powerful instruments of our rising prosperity,
 it must be known that we are at all times ready  
 for war.&quot; Let us suppose this to be the text, and w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842022401:0039/pct:79.18176328502416,33.95849517256686,17.14975845410628,3.8619465098213297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842022401:0039/pct:79.18176328502416,33.96219435504754,17.159822866344605,3.869344874782673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5613,7 +5613,7 @@ for war.&quot; Eel Us suppose this to be the text, and we.
 will furnish a comment. Adams urged the establish  
 tnentof an ellicient Navy, and the only pause in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842022401:0246/pct:77.25986349259198,32.65625,17.49625436990178,4.7235576923076925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842022401:0246/pct:77.26541257421897,32.66025641025641,17.49070528827479,4.727564102564102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5713,7 +5713,7 @@ nothing personal for their olpest, I have obeved
 the suffrage which commanded me to resume the  
 Executive power; and I humbly implore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843061301:0364/pct:103.12217194570135,82.77580071174377,49.29110105580694,29.608540925266905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843061301:0364/pct:34.374057315233784,27.591933570581258,16.43036701860231,9.869513641755635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5743,7 +5743,7 @@ cander, so shall not the public happiness languish
 from the want of my strenuous and warmest co  
 operation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843061301:0364/pct:103.36349924585218,148.65277071682766,49.276018099547514,26.90391459074733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843061301:0364/pct:34.454499748617394,49.550923572275885,16.425339366515836,8.96797153024911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5847,9 +5847,9 @@ that we are at all times prepared for war.
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1845-02_16_80/page/n14/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1845-02_16_80/page/n14/mode/1up?view=theater)
 
-#### 1845-02-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1845-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5898,9 +5898,9 @@ are at all times ready for war&quot; Let Gov. Gra
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1848-07_23_121/page/n61/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1848-07_23_121/page/n61/mode/1up?view=theater)
 
-#### 1848-07-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1848-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -5925,7 +5925,7 @@ people, and diffuse through them in return the policy and course of th
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n20/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n20/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5997,7 +5997,7 @@ of the law of nations, may have been indistinctly mark
 ed, or are inadequate; these offences cannot receive too early  
 and close attention, and require prompt and decisiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851050601:0440/pct:51.808426073131955,174.3374558303887,37.97694753577107,46.73144876325088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851050601:0440/pct:17.26947535771065,58.11248527679623,12.65898251192369,15.577149587750295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6048,7 +6048,7 @@ the act of 1794, ch. 60, was passed. Its fifth section
 is copied 111(0 the act of 1818, and is the same as  
 the sixth section of the latter act giveu you i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851092701:0320/pct:45.780474351902924,21.52641878669276,14.24434638720353,3.533376821048054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851092701:0320/pct:45.785070785070786,21.53366673914619,14.24434638720353,3.533376821048054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6069,7 +6069,7 @@ the United States. On thie recommendation the act of 1794,
 ch. 50, war paseed. Its fifth section is copied into the set of  
 1618, and is the same ss the sixth section of the latter ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851092701:0781/pct:79.79002624671917,28.800765468849672,15.734217433347148,3.519030406123751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851092701:0781/pct:79.79923562186306,28.807853143383657,15.7296127457752,3.5225742433907437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6135,7 +6135,7 @@ iglit to the ininiunilies belonging to our situa
 which will be laid beforo you was issued.&quot;  
 Of this proclamation the Senator from Louilian
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852041501:0380/pct:45.29100529100529,35.040208136234625,14.5275888133031,8.786660359508042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852041501:0380/pct:45.29100529100529,35.04809208451593,14.5275888133031,8.786660359508042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6254,7 +6254,7 @@ fence ought not to be to afford an opportunity
 for the study of those branches of art which can  
 scarcely ever be attained by practice alone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861070201:0612/pct:20.56672760511883,317.15817694369974,57.76965265082267,10.79088471849866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861070201:0612/pct:5.1452092385090324,79.28954423592494,14.452321061056484,2.697721179624665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6278,7 +6278,7 @@ ooi llie United States.”
 proceedings,&quot; is precisely what the Ad­  
 ministration is nfraid of and wishes sup
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862071901:0116/pct:14.298307475317348,11.122811636172173,11.265867418899859,4.409635382387784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862071901:0116/pct:14.307122708039492,11.132683954192444,11.265867418899859,4.399763064367513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6327,7 +6327,7 @@ faithful representation of publfe proceed-­
 ings, diffused without rafraint shrough-­  
 out the Unfted States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1862082701:0437/pct:43.95439543954395,264.74307391654213,68.48184818481849,11.633521094378665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1862082701:0437/pct:14.651465146514651,88.24769130551404,22.827282728272827,3.877840364792888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6475,7 +6475,7 @@ proceedings,&quot; is precisely what the Ad­
 ministration dreads and wishes suppress­  
 ed. Its proceedings cannot stand the tes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1864082001:0549/pct:33.14372392870686,8.742498636115657,12.210845657944635,10.092744135297327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1864082001:0549/pct:33.14372392870686,8.745908346972177,12.229806598407281,10.102973267866885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6520,7 +6520,7 @@ representation of pabiie proceedings, diffused without
 restraint throughout the country.  
 Vanity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864122201:0421/pct:66.73417721518987,50.60427342163782,19.911392405063292,6.149086338586484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864122201:0421/pct:50.05696923661223,37.95803925360147,14.938599822762376,4.611814753939862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6613,7 +6613,7 @@ and every insertion.
 AH Obitoaries and private pnblieations of every okarao­  
 ter, are charged as advertisements.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1865011901:0438/pct:87.4748490945674,8.459994264410668,38.66951710261569,115.44785393365835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1865011901:0438/pct:65.6308969681721,6.347385527196253,29.02251855579318,86.58828027913201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6641,7 +6641,7 @@ duce more than a faithful representation &#x27;
 of public proceedings diffused without re­  
 straint throughout the country. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101209:1865012501:0266/pct:18.363939899833056,89.7204588484241,15.926544240400668,9.355162044771133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101209:1865012501:0266/pct:18.363939899833056,89.7204588484241,15.932109070673345,9.362586776552696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6691,7 +6691,7 @@ more than a faithfuL. representation of
 public proceedings,&#x27;, aiffused withoufj re?  
 straint throughout the country.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1865030901:0155/pct:50.28432168968318,90.04246759052302,16.05199025182778,7.420652659812249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1865030901:0155/pct:50.28432168968318,90.04619281776188,16.073652856756024,7.42437788705111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6714,7 +6714,7 @@ nothing: can c)rnduce more than a faithfinl rep­
 reenttatonl ofi &#x27;pu1ic proeerigs diffrused  
 witcu At restraint throughout the country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn86053216:00237288051:1865032801:0007/pct:32.381280110117,78.37677020111865,18.582243633860976,6.580982982268238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn86053216:00237288051:1865032801:0007/pct:32.38701537049782,78.38470387559998,18.5879788942418,6.580982982268238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6975,7 +6975,7 @@ must the known that we are at all times
 ready for war.&quot; This sentiment is respect­  
 fully submnitted by the Repunlican to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102019:1885121201:0647/pct:237.4327440430438,181.55985489721886,43.42813220599539,60.09673518742443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102019:1885121201:0647/pct:59.381007304882736,45.389963724304714,10.861207227989235,15.024183796856107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7032,7 +7032,7 @@ cure peace- one of the most powerful instru
 ments of our prosperity- it must be known  
 that we are, at all times, ready for wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887030101:0528/pct:16.28440366972477,41.54982662445349,52.37003058103976,33.529323081561884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887030101:0528/pct:4.071100917431193,10.387456656113372,13.09250764525994,8.382330770390471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7073,7 +7073,7 @@ ready for war.
 The S Ik M«nul*ctur»T»&#x27; Strike.  
 N;:w YOBK, March Ist.—There are RO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036519:1887030201:0501/pct:50.43246839654025,65.28895391367959,10.69527611443779,6.608144355035357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036519:1887030201:0501/pct:50.43246839654025,65.28895391367959,10.703592814371257,6.611192392099488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7150,7 +7150,7 @@ one of the most powerful instruments
 of our prosperity it must be known that  
 we are at all times ready for wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_angel_ver01:data:sn85047239:00211100308:1887031101:0263/pct:81.30287648054146,89.45588235294117,19.077834179357023,10.544117647058824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_angel_ver01:data:sn85047239:00211100308:1887031101:0263/pct:61.01587301587302,67.09926470588235,14.328042328042327,7.911764705882353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7183,7 +7183,7 @@ are ready for war.
 The period commonly known as  
 &quot;The Dark Ages&quot; embraces tho firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_mazama_ver01:data:sn84022644:00295867516:1887031101:0368/pct:36.706837186424,103.60544217687075,14.658140678799803,16.219630709426628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_mazama_ver01:data:sn84022644:00295867516:1887031101:0368/pct:27.536588365514696,77.70651117589892,10.994957569794613,12.167152575315841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7207,7 +7207,7 @@ st-- men&#x27;os our rising prosperity, it must
 be known that we are at all times prepared  
 for war. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00295876864:1887081301:0538/pct:21.001412651075185,54.30707552280854,13.938157275153037,4.323328637988948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00295876864:1887081301:0538/pct:21.006644692094387,54.31068732618196,13.943389316172238,4.323328637988948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7230,7 +7230,7 @@ struments of our rising prosperity, itmust
 be known that we are at all tunes prepared  
 for war.—Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1887082501:0692/pct:6.090242276061347,54.49386503067485,14.003111802622804,4.355828220858895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1887082501:0692/pct:6.088888888888889,54.48550835761386,14.005555555555556,4.35899401932219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7254,7 +7254,7 @@ erful instruments of our rising pros­
 perity, it must be known that we  
 are at all times prepared for war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102925:1887082701:0279/pct:60.77878103837472,89.47619957943031,19.173250564334086,9.338558593003249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102925:1887082701:0279/pct:45.59051784958375,67.10953928503154,14.392549738958657,7.00630854521124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7296,7 +7296,7 @@ struments i f our rising prosperity, ituiusl
 be known that we are at all times prepared  
 for war.— Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.857449549162731,53.77239861678717,13.653928724774582,4.935554856963219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.855763039278815,53.76394782335377,13.656364026615153,4.938708156529938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7345,7 +7345,7 @@ rising nrosporitp, it must be known
 that we are at all times prepared  
 for war. It is time tbat we msn-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_juniper_ver02:data:sn87090072:00280774236:1891082901:0394/pct:236.66666666666666,201.48911798396335,53.17460317460318,34.13516609392898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_juniper_ver02:data:sn87090072:00280774236:1891082901:0394/pct:59.190154823342596,50.37227949599084,13.298928146089718,8.533791523482245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7422,7 +7422,7 @@ depository of the force of the republic, and
 may be trained to a degree of energy equal to  
 every military exigeacy of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892040401:0251/pct:270.655487804878,67.02339091881976,50.0,9.600978443663049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892040401:0251/pct:67.68966831871903,16.75584772970494,12.504765535646207,2.4002446109157622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7442,7 +7442,7 @@ your own experfence in the several States has
 not detected some imperfections in the  
 scheme.&quot; The story of the way in which nu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892042501:0516/pct:178.3434650455927,112.36575636698373,49.92401215805471,9.512120282295182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892042501:0516/pct:44.58586626139817,28.091439091745933,12.481003039513677,2.3780300705737956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7493,7 +7493,7 @@ gress &quot;whether your own experience. in the
 several states has not detected some im­  
 perfections in the scheme.&quot; The story o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deckle_ver01:data:sn92053945:00212471719:1892052001:0421/pct:29.574742268041238,53.281519861830745,19.995704467353953,2.029360967184801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deckle_ver01:data:sn92053945:00212471719:1892052001:0421/pct:22.200730711369008,39.96833621185953,15.022566086395873,1.5256188831318365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7510,7 +7510,7 @@ gress “‘whether your own experience in the |
 several states has not detected some im- |  
 perfections in the scheme.” The story of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:0041418991A:1892060301:0108/pct:4.280532043530834,40.17720224910547,14.582829504232164,1.5675583574714602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:0041418991A:1892060301:0108/pct:4.286577992744861,40.18998125745442,14.594921402660217,1.5675583574714602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7527,7 +7527,7 @@ perfections in the scheme.” The story of
 ral states has not detected some imper­  
 fections in the scheme.&quot; The story of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jay_ver01:data:sn83025308:00212476651:1892060801:0171/pct:12.962962962962964,122.32142857142857,37.26851851851852,3.9115646258503403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jay_ver01:data:sn83025308:00212476651:1892060801:0171/pct:4.320987654320987,40.773809523809526,12.42283950617284,1.3038548752834467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7554,7 +7554,7 @@ fections in the scheme.&quot; The story of th
 if we desire to secure peace it must be known that we are at  
 all times ready for war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894062801:0352/pct:71.9928895911515,14.569627192982455,21.35097768121667,1.4254385964912282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894062801:0352/pct:71.97867298578198,14.567630533095793,21.353343865192205,1.4298113379927824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7658,7 +7658,7 @@ them the fulnlment of their duties toward us
 To be prepared for war is one of the most effectual  
 means of preservins pencr. rr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895080601:0831/pct:177.89553368660106,138.22053231939162,51.551854655563965,48.22813688212928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895080601:0831/pct:44.48230172250615,34.555133079847906,12.890403180011358,12.05703422053232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7723,7 +7723,7 @@ time, too, mercenary commerclal Interests,
 most in evidence In New York city, ham­  
 pered and opposed the national patrioti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655053:1896040601:0663/pct:2.6381019830028327,61.81479510377861,13.757082152974505,10.258116019159127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655053:1896040601:0663/pct:2.646954674220963,61.81479510377861,13.76150849858357,10.274747205960617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7755,7 +7755,7 @@ one of the most powerful instruments in our
 rising prosperity, it must be known that we are  
 at all times ready for war.&quot; American polic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175042866:1896050301:0626/pct:282.38851095993954,38.29917405934537,50.85034013605442,32.85408381768125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175042866:1896050301:0626/pct:70.61047061047061,9.574793514836342,12.714987714987714,8.213520954420312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7783,7 +7783,7 @@ ranted, and they are as timely now as
 ever. If not more so. This country does  
 not need u navy such us Englund boast
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031534:1896050901:0292/pct:28.241152409745688,26.436781609195403,14.120576204872844,9.537123330226779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031534:1896050901:0292/pct:28.24708044341692,26.436781609195403,14.120576204872844,9.547478512995754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7813,7 +7813,7 @@ too early and close an attention, and require
 prompt and dectsive remedies.&quot; The bill was  
 passed in the Senate by the decisive vote of Presl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175038942:1896052601:0489/pct:150.03310162197948,176.59047404571558,47.848394571334,9.987614007431596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175038942:1896052601:0489/pct:50.011033873993156,58.863491348571856,15.949464857111332,3.329204669143865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7859,7 +7859,7 @@ known that we are at all times ready
 for war.&quot;  
 Although It is not our government&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478118:1896061101:0614/pct:27.505827505827504,27.257754597858906,16.083916083916083,5.9154542959099645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478118:1896061101:0614/pct:20.637388262728333,20.450178424375515,12.067625340069958,4.4331594839418065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7942,7 +7942,7 @@ powerful instruments of our rising
 pros)crity, it must be known that  
 we are at all times- ready for war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292340:1897022701:0070/pct:35.096964586846546,31.695906432748536,18.043844856661046,13.654970760233919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292340:1897022701:0070/pct:26.333544170356316,23.771929824561404,13.535736875395319,10.248538011695906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7976,7 +7976,7 @@ ol oar rising prosperity, it
 must be known that we arc atoll  
 times ready for war 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069313:00206533158:1897062501:0321/pct:89.72,17.96710248840152,15.48,15.295937016729932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069313:00206533158:1897062501:0321/pct:67.34040424254553,13.482356249121327,11.606964178507104,11.471952762547449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8003,7 +8003,7 @@ the most powerful instruments in our
 prosperity, it must be known that we are  
 at all times ready for war.” Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340263:1897080401:0120/pct:14.724864130434783,64.74687144482367,11.124320652173912,4.735494880546075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340263:1897080401:0120/pct:14.722363728986245,64.73766529219394,11.126676855153676,4.738376226361439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8028,7 +8028,7 @@ insult, we must be able to repel it; if we desire to se­
 cure peace, it must be known that we are at all times  
 ready for war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897103101:0973/pct:278.184591914569,17.00960219478738,50.9534706331045,20.17985063252553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897103101:0973/pct:69.55941255006675,4.252400548696845,12.740797253480832,5.044962658131382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8090,7 +8090,7 @@ moat powerful instruments of our rlelnir
 prosperity, tt must oe known that we era  
 at all times prepared for war.&quot; Neve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655181:1898022601:0491/pct:28.904646389251727,91.44206724090024,13.883187161783916,4.098360655737705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655181:1898022601:0491/pct:28.904646389251727,91.44554042789663,13.892517260682963,4.108780216726869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8153,7 +8153,7 @@ pared for war, to secure the rank
 among the nations due to the United  
 States by not exposing ourselves to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871386:1898030301:0429/pct:40.523909985935305,81.6451810926949,16.666666666666668,12.814610190300797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871386:1898030301:0429/pct:30.402672762440655,61.23388581952118,12.502197995428169,9.622467771639043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8177,7 +8177,7 @@ most powerful instruments of our rising
 prosperity, It must be known that we are  
 at all times prepared for war.&quot; Neve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031571:1898030401:1150/pct:51.040653569344485,33.798103736754044,15.989107177591908,4.447852760736196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031571:1898030401:1150/pct:51.040653569344485,33.80275144078825,15.995591000453867,4.447852760736196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8209,7 +8209,7 @@ most powerful instruments of our rising
 prosperity, it must be known that we are  
 at all times prepared for war.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199458:1898030701:0757/pct:134.09683966367064,89.23848609211126,37.750072484778194,25.911992704058367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199458:1898030701:0757/pct:44.698946554556876,29.746162030703754,12.583357494926066,8.637330901352788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8237,7 +8237,7 @@ desire peace, one of the most powerful instrumentn
 in our rising prosperity, it mist be known that we  
 are at all times ready for war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036829:1898032001:0358/pct:101.38933764135703,219.4652645709811,48.578352180936996,15.639333258753776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036829:1898032001:0358/pct:33.796445880452346,73.15508819032704,16.19278406031233,5.213111086251258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8291,7 +8291,7 @@ sire to avoid insult, we must be able to re­
 pel it; if we desire to secure peace, one of  
 the most powerful instruments of our rising
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1898040601:0959/pct:132.98969072164948,356.79359905171134,48.89543446244477,22.284782930804564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1898040601:0959/pct:33.253544466948995,89.19839976292783,12.226109372122998,5.571195732701141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8316,7 +8316,7 @@ have been placed in the humiliating sitna­
 tion of taking money from the American  
 Treasury to feed American citizens who ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1898040601:0959/pct:182.1060382916053,126.18165654170988,48.82179675994109,23.114535486738777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1898040601:0959/pct:45.53489228503038,31.54541413542747,12.207696556803535,5.778633871684694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8443,7 +8443,7 @@ are at all times ready for war.&quot;
 There is no single European nation whose  
 present and future contain or suggest stronge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899083101:0205/pct:235.40740740740742,144.53576864535768,49.48148148148148,24.170471841704718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899083101:0205/pct:58.873656909966655,36.13394216133942,12.374953686550574,6.042617960426179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8488,7 +8488,7 @@ j powerful instruments of our prosper­
 ! ity—it must be known that we are at  
 all times ready for war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:0028076887A:1899091401:0253/pct:30.37324649298597,34.96971921453478,12.637775551102205,15.213800697375666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:0028076887A:1899091401:0253/pct:30.377421509686037,34.96971921453478,12.64195056780227,15.216859362574173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8529,7 +8529,7 @@ it must be Known that we are at all
 times ready for war.&#x27;&quot; In the light of  
 recent events this declaration is pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_folio_ver01:data:sn92053934:00212471975:1899091401:0031/pct:9.830729166666666,71.74033917153183,16.292317708333332,12.329719210453156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_folio_ver01:data:sn92053934:00212471975:1899091401:0031/pct:7.3742471105323135,53.80872949680289,12.225297086114276,9.243814289685849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -35,7 +35,7 @@ ferson says :—“ 1 enclose a copy of the declaration
 and also as originally framed.—You trill judge -whe­  
 ther it is the better or worse for the critics&quot; Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811051001:0509/pct:29.336989032901297,24.504065040650406,21.46061814556331,2.731707317073171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811051001:0509/pct:29.329678544729628,24.500081287595513,21.461500124595066,2.735327589009917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ and believe me to be,
 Your friend and servant,  
 &quot;THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416157108:1873092401:0394/pct:79.44664031620553,303.1456953642384,56.36363636363637,47.51655629139073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416157108:1873092401:0394/pct:19.873442752620132,75.7864238410596,14.099268340913586,11.879139072847682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ your aid. Adieu, and believe me to be,
 Your friend and servant,  
 Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623744:1873092701:0180/pct:73.92619479733817,73.00312360553325,10.969953619681387,6.440577123308047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623744:1873092701:0180/pct:73.92619479733817,73.01303981357529,10.99011897559992,6.440577123308047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ aid. Adieu, and believe me to be,
 &quot;Your friend and servant,  
 &quot;Thomas Jeffeiisox
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876070601:0643/pct:94.27536231884058,62.50175094551057,16.52173913043478,7.928281271886819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876070601:0643/pct:70.7193332125385,46.883316991175235,12.393549556079,5.953214735957417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -34,7 +34,7 @@ CONNEXION, or so far alter the national
 compact, as to invi’-e yourselves a due share  
 in die government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815020801:0036/pct:59.87836343531146,69.73502448825819,17.13969775156653,4.633931935200302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815020801:0036/pct:59.86733001658375,69.7262682069312,17.14268165346109,4.6375355767620965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ stitution as to sreure yourselves a due share in the
 fJovernment. The Union lias Jong since been vir­  
 tually dissolved, and it is full time that this portio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829030301:0414/pct:19.636186454442097,89.96993385447986,15.59200909533864,3.872519542994588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829030301:0414/pct:19.63299772653459,89.95911495911496,15.594890115838476,3.876062209395543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ tution, as to aceurft yourselves a dcro abate jn the
   
 , Government. *1 he union has long since bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1829030701:0066/pct:8.348457350272232,7.157941536067578,34.84573502722323,87.00678003779038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1829030701:0066/pct:8.347194919098746,7.157146032451656,34.84550632592369,87.00081499592503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ full time, that this put1 of the disunited States
 should take care of i Sf If.  
 Another R* vnend Gentleman, Pastor of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830021801:0477/pct:19.633092256129828,19.992747491840927,18.52178514729229,12.619364196784721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830021801:0477/pct:19.62962962962963,19.990331157843848,18.5243974132863,12.62186769800983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ you must either, in the language of the day, cut the
 connexion, or so lar alter the national compact, as  
 lo secure to yourselves a due share in the govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830022601:0082/pct:59.94852822904938,21.62648434688737,18.111629403249154,9.27192035504378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830022601:0082/pct:59.938887101962045,21.623890621252098,18.11407740967085,9.274806108579195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ is full time, that this part of the disunited
 States should take care of itself.”  
 Another reverend gentleman, pastor o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830030901:0330/pct:7.657453556864522,104.08134837721131,21.20525600362483,17.13330547430004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830030901:0330/pct:5.946388856373639,80.6657070888809,16.422802294276014,13.281756027347967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ should take care of itself.”
   
 Another Keverend trentleman, ras
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830041401:0017/pct:6.517000871839581,31.105467183531612,17.545771578029644,9.985296083411308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830041401:0017/pct:6.515580736543909,31.101309810211173,17.549211883489505,9.988416644390982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ and wrealk their vengeance on their belrayers, by
 driving them from their stations, and placing at the  
 belm more skilful and faithful hands.— Discourse de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835111001:0178/pct:82.37463126843657,35.8341051764948,13.982300884955752,2.706596686220027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835111001:0178/pct:82.38446411012782,35.8341051764948,13.982300884955752,2.706596686220027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ the church at Medford, June 27, 1812, page 17.
 war appear, they certainly will soon ; unless the  
 courage of the war party should fail them.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835111001:0178/pct:82.37463126843657,38.92147782237316,13.923303834808259,1.9347535247504373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835111001:0178/pct:82.38446411012782,38.92833865047511,13.918387413962636,1.9313231106994615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ the helm more skilful and faithful hands.&quot;
 war appear, they certainly will soon unless . the  
 courage of the war party should fail them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838012401:0018/pct:109.86659255141745,83.99200710479573,21.067259588660367,6.105683836589698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838012401:0018/pct:82.41834607366226,62.999555950266426,15.802640722724114,4.573712255772646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ courage of the war party should fail them.
 war appear, they certainly will soon, unless the  
 courage of the war party fail them. A civil wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838111401:0783/pct:21.8044113739038,55.84607794770597,14.456550624501727,1.391218549580661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838111401:0783/pct:21.8044113739038,55.84607794770597,14.456550624501727,1.397796415063312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ and wreak their vengeance on their betrayers, by
 driving them from their stations, and placing ut the  
 helin more skilful and faithful hands.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838111401:0783/pct:21.711400478341748,82.89097187962506,14.64257241562583,2.7331031080414405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838111401:0783/pct:21.72025865887147,82.89754974510771,14.64700150589069,2.736392040782766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ stations, and placing at the helm more skilful and faithful real
 hands. botl  
 &quot;If at the present moment no symptoms of civil war ap o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846061801:0633/pct:54.02317092524996,48.42657342657343,14.727820980796698,2.435064935064935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846061801:0633/pct:54.03375125641433,48.434898434898436,14.717240649632334,2.4309024309024307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ their vengeance on their betravers, by driving them
 from their stations, and placing at the helm more skilful  
 and faithful hand.&quot;--Hem, poge 17
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742952:1847021401:0197/pct:12.003935716628403,105.60564031437818,50.24598228927517,7.258437355524734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742952:1847021401:0197/pct:4.001311905542801,35.20188010479273,16.748660763091724,2.419479118508245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ hands.&quot;?Idem, page 17.
 &quot;If at the present moment no symptoms ol civil war ap­  
 pear, ihey certainly will soon, unless the courage ol the wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854041301:0557/pct:35.71545648254384,81.35897435897436,15.833469922963449,5.102564102564102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854041301:0557/pct:35.72092006774846,81.36324786324786,15.83893350816806,5.1068376068376065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -849,7 +849,7 @@ by the Rev. Mr. Gardiner, July S3, 1813.
 The Christian injunction of &quot;cutting the  
 connexion,&quot; thst is, rebelling against thrir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1856072401:0662/pct:90.53763440860214,111.681136543015,16.845878136200717,11.983688503025519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1856072401:0662/pct:67.93975255513718,83.76742962378322,12.641204948897256,8.984477769008155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -899,7 +899,7 @@ civil war appear, they certainly wilt soon, un­
 less the courage of the war party should fail  
 thein.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028459:1863070301:0319/pct:20.22389429253074,64.40151310456633,14.131033217104056,2.053499054309646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028459:1863070301:0319/pct:20.230011622927755,64.40151310456633,14.131033217104056,2.06250562910925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -920,7 +920,7 @@ of the day, cut the connection, or so far alter the
 national compact so as to insure yourselves a  
 due share in the government.&quot;—ldem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028459:1863070301:0319/pct:20.18719031014865,77.99243447716833,14.1493852082951,3.863820589029992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028459:1863070301:0319/pct:20.19942497094268,77.99693776456813,14.16161986908913,3.8728271638295957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ their vengeance on their betrayers by driving
 them from their stations, and placing at the helm  
 more skillful and faithful hands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864022301:0191/pct:171.57502329916122,325.5633118317575,50.51258154706431,8.235398073694443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864022301:0191/pct:42.90875189371868,81.39082795793938,12.63256030765645,2.0588495184236106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,7 +956,7 @@ It at the present moment no symptoms of civil
 war appear, they certainly will soon, unless the  
 urage of the war party should fail them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864022301:0191/pct:171.668219944082,334.25819563488557,49.34762348555452,5.195723248210657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864022301:0191/pct:42.93205920055937,83.56454890872139,12.341218972147768,1.2989308120526641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ toms oi a civil war appear, they certainly will
 soon unless the courage of the war party  
 should fail them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1864051401:0283/pct:62.265595101416,55.26786943947115,14.236509758897819,2.134692191158243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1864051401:0283/pct:62.265595101416,55.274755543313596,14.236509758897819,2.1450213469219115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -992,7 +992,7 @@ sent moment, no symptoms of civil war ap­
 pear, they certainly will soon, unless the cour  
 age of the war parly should fail them. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879030101:0046/pct:40.69554606467358,9.560342283859546,10.799267846247712,1.8589554440838005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879030101:0046/pct:40.70910446749373,9.570178026949936,10.792488644837638,1.8589554440838005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -488,7 +488,7 @@ woes ;
 And awake us to their cause and conse­  
 quence 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813100101:0048/pct:26.384976525821596,77.62759924385634,17.52738654147105,10.047258979206049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813100101:0048/pct:26.380848067595057,77.6202627350912,17.5298596985344,10.049459723403585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

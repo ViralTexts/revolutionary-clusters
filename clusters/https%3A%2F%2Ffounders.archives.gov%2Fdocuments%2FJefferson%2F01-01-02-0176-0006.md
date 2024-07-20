@@ -785,7 +785,7 @@ legiflatures.
 He has affefted to render the military in«  
 dependentof,and fuperior
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801070301:0001/pct:70.30317498209597,48.48883048620237,21.317736930054906,27.24485326325011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801070301:0001/pct:70.30317498209597,48.493697376746,21.349566324500678,27.24485326325011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ dowed by their Creator with certain unalien­
 able rights; that among these arc life, liberty,  
 and the p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826070401:0535/pct:4.262129380053908,17.58547722463526,18.69946091644205,26.1053569439804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826070401:0535/pct:4.26141148728314,17.583518930957684,18.701925776205716,26.106161841128433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ endowed by their Creator with certain unaliena­
 ble rights; that among these are life, liberty, and  
 the pursuit o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836070401:0088/pct:7.666777298373714,4.256599232909679,18.021905077995353,23.24584492742724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836070401:0088/pct:7.665929203539823,4.256279139720259,18.023598820058996,23.246603499273075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1109,7 +1109,7 @@ by *heir Creator, with certain unalienable rights­
 that among these are life, liberty, and the pursuit  
 of hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846070401:0116/pct:79.28118393234672,20.501386043148127,17.459478505990134,23.526575870796673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846070401:0116/pct:79.26721860137397,20.498915401301517,17.46227467559157,23.527757692616696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1178,7 @@ they are endowed by their Creator with
 certain unalienable rights; that among  
 these are life, liberty, and the purs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1847070201:0009/pct:18.587360594795538,18.99548378267415,150.0371747211896,156.3979745449569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1847070201:0009/pct:4.647704034207102,4.748870945668537,37.51626696411972,39.099493636239224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1207,7 +1207,7 @@ are created equal ; that they nre endowed by their Creator
 with certain unalienable rights; that among these are  
 lil&#x27;e, liberty, and the pursuit of ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855070401:0741/pct:50.90157154673284,6.428752214629208,15.88089330024814,8.12452543659833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855070401:0741/pct:50.90708574579542,6.437188897325572,15.875379101185553,8.12874377794651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1257,7 +1257,7 @@ endowed by their creator with certain unali-
 enable rights; that among these are life,  
 liberty and the pursuit of happi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1858070301:0611/pct:225.58459422283357,273.9770425388251,48.693259972489685,82.97096556380824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1858070301:0611/pct:56.39614855570839,68.49426063470628,12.173314993122421,20.74274139095206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1379,7 +1379,7 @@ certain unalienable rights; that among
 these are life, liberty, and the pursuit of  
 happines
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174324:1862070401:0290/pct:3.6287923854848305,3.3834586466165413,92.1772754312909,35.128261831048206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174324:1862070401:0290/pct:3.6282527881040894,3.383084577114428,92.16852540272615,35.12806338676985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1427,7 +1427,7 @@ their Creator with certain unalienable rights; that
 among these are life, liberty and the pursuit of hap­  
 pi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151258:1876070601:0485/pct:64.26102585372598,4.350399526487126,29.393059587999446,93.7358192759199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151258:1876070601:0485/pct:64.27024286833495,4.350399526487126,29.393059587999446,93.73910755976456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

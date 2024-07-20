@@ -377,7 +377,7 @@ tion leaving then) to r.cfult to their oiott na­
 tural department, the legiflatuie would be  
 without a rival in its cl-aint.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082401:0001/pct:28.2245348470514,2.639183201695242,64.67991169977925,90.00192641109612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082401:0001/pct:28.232418795332702,2.639183201695242,64.69567959634185,90.01155846657677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ power M ena&lt;3ing laws. Are contrails with foreign nations, which
 the principal officers in each of the executive &quot; obligation* of good faith. They are not  
 departments upon any fubjeA relating to th&amp; •&#x27; rules prescribed by the sovereign to thefub­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082801:0001/pct:4.793289394847214,9.054132151801195,76.45296584781306,84.70429589674437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082801:0001/pct:4.81575793888556,9.054132151801195,76.43049730377471,84.70911192448469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ u laws and the enaoloyment of the common
 &quot; the execution of the subsisting laws, nor to  
 •&#x27; the enaitiou of new ones, aadftilllcfs to au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082801:0001/pct:26.45296584781306,24.927759583895202,40.50329538645896,68.83066846465036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082801:0001/pct:26.46794487717196,24.937391639375843,40.51827441581786,68.82585243691004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -806,7 +806,7 @@ them by that instrument. The amendment leads tint
 Constitution, r pr, Inbited by it to the States, are re­  
 wived to the Staler respectively, or l» the People.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835021001:0373/pct:49.130970302449704,75.85646140503036,15.13617079512796,4.986990459670425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835021001:0373/pct:49.12424740010947,75.84823848238483,15.138660828316,4.990063233965673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ that the Executive Department naturally includes a
 legislative power. In theory this is an atmurdity?in  
 practice a tyranny.&quot; |Ap|&gt;endix to the Federalist
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840110301:0428/pct:66.93416013131497,68.44450101832994,16.23198978661317,4.327902240325866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840110301:0428/pct:66.93416013131497,68.45298710115411,16.25630737430847,4.323659198913782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1077,7 +1077,7 @@ ISow, with the lights derived from this authoritative defini­
 tion of treaties and the treaty-making power, Mr. R. turned  
 to the joint resolution which had been received from the Hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845022201:0105/pct:20.487871728107443,21.34891700621917,15.22543511031931,9.42526270641218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845022201:0105/pct:20.49243981544927,21.356065480020014,15.22543511031931,9.42526270641218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1177,7 +1177,7 @@ nient, analogous to that which separates the sword from thi
 ! purse, or the power of executing from the power of erteet  
 ing laws.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847010801:0037/pct:37.533301990283654,85.32789922193405,15.514809590973202,4.013832283561813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847010801:0037/pct:37.533301990283654,85.33201597299411,15.520033432586324,4.013832283561813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1274,7 +1274,7 @@ alogousio thai which separates the sword from
 j the purse, or the power of executing from the  
 power o! enacting laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215786:1847011101:0200/pct:21.155789048292583,91.2980570483671,15.54859567589412,5.477470028937578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215786:1847011101:0200/pct:21.15365188402869,91.29176713744403,15.550392295518066,5.479389137673671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1350,7 +1350,7 @@ Chairman, about the doctrines of old fashioned federalism
 Now, here, sir, are the doctrines of old fashioned democracy,  
 in the very language of one of its ablest and nn^t honorei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847012301:0489/pct:61.95696861723996,66.39935846030473,15.30766068247225,6.426853018673388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847012301:0489/pct:61.96610479192362,66.40699583762935,15.30766068247225,6.4306717073357005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1368,7 +1368,7 @@ are to condttct a war cannot, in the nature of things, be
 proper or safe judges whether u war ought to he commenced,  
 continued, ?r concluded Who can read these paragraph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847012301:0489/pct:62.05289845141839,76.60671325466835,15.04727970398794,2.176652537518616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847012301:0489/pct:62.062034626102054,76.61435063199298,15.03814352930428,2.176652537518616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1396,7 +1396,7 @@ iru principle in free government, analogous to that which sepu
 urates the sword from the purse, or the power of executing  
 ^ from the power of enacting laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847042301:0401/pct:51.68592686401773,41.041821331353624,17.85657748931455,5.778272704776046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847042301:0401/pct:51.68592686401773,41.041821331353624,17.872407788507203,5.786521488080508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1421,13 +1421,13 @@ the society and its foreign enemy. In like innnn?
 onclusion of peace nnnult all the lawi peculiar to a stale  
 .var, and return the general Uwt incident to n state ol 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847082101:0809/pct:84.23458931105155,80.343368997263,16.01765725997162,5.449116695695446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847082101:0809/pct:84.24509958484418,80.343368997263,16.012402123075304,5.457410632827403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1848-04_7_4/page/n2/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1848-04_7_4/page/n2/mode/1up?view=theater)
 
 #### 1848-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1505,7 +1505,7 @@ their executive, legislative, and judiciary
 qualities, are not to be expected in the  
 works of the most received jurists, wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848062901:0600/pct:17.887972376750433,7.105449398443029,24.918473048148858,90.07784854918613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848062901:0600/pct:17.886256833221445,7.104946571367915,24.919280074166426,90.07383294411814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1524,7 +1524,7 @@ England. The natural province of the
 executive magistrate is to execute laws,  
 as that of the legislature is to make law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848062901:0600/pct:30.308843276424323,23.43949044585987,12.583924803376174,2.788393489030432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848062901:0600/pct:30.305936510981105,23.43783171750053,12.585914772545635,2.790555044464888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1542,7 +1542,7 @@ declaring war, expressly vested in Con­
 gress, tchere every other legislative pow­  
 er is declared to he invested ’ It may h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848062901:0600/pct:30.308843276424323,26.199575371549894,12.497602148474966,2.285916489738146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848062901:0600/pct:30.305936510981105,26.197721321916354,12.499600396406764,2.2881136036609817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1564,7 +1564,7 @@ with a stale of war and of enacting as a rule for the
 Executive * neu.&#x27;code adapted to the relation between eo­  
 ciety and its foreigu enemy.” Tho italics ar&lt;* Mr. Mnd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1863082201:0760/pct:8.251186564439577,10.714754098360656,14.20226359985396,2.9901639344262296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1863082201:0760/pct:8.255750273822564,10.718032786885246,14.211391018619935,2.9901639344262296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1601,7 @@ analagous to that which separates the
 sword from the purse, or the power of ex­  
 ecuting from the power of enacting laws
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864033001:1124/pct:312.6903553299492,165.54296370678526,58.3756345177665,49.23253478697461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864033001:1124/pct:78.20567075751164,41.385740926696315,14.600084638171815,12.308133696743653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1629,7 +1629,7 @@ to fill up vacancies that may happen during the
 recess of the Senate.&quot;  
 By vacancies, they understood to be meant va
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475567:1877041301:0100/pct:104.77941176470588,256.68956043956047,44.582043343653254,18.667582417582416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475567:1877041301:0100/pct:34.9264705882353,85.56318681318682,14.860681114551083,6.222527472527473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

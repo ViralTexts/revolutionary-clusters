@@ -92,7 +92,7 @@ straints upon -Stale sovereignties.
 Now, that which does not exist, cannot be restrained,  
 lie, therefore, admits th • existence of the sovereigntie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830041301:0366/pct:4.39223697650664,82.06067544361763,15.234203998248942,6.708643388666285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830041301:0366/pct:4.3915961482346075,82.05128205128206,15.236844664915864,6.711691086691086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ reignty of eaefi is hut a moral person. That of Iho
 State and (hat of the Union are each a moral person, and  
 m that respect precisely equal. In physical lorce, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830042001:0373/pct:80.54782481324155,77.3220887245841,15.497290171378351,4.597966728280961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830042001:0373/pct:80.5360281195079,77.3131569827885,15.499902362819762,4.601286049824805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

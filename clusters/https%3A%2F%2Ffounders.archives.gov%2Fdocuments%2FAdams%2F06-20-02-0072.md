@@ -316,7 +316,7 @@ If that was vested in the President alone
 he might render himself despotic.  
 Mr. Gray&#x27;s Partissahip
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654929:1893122001:0101/pct:28.75685557586837,61.202473358768586,14.149908592321754,6.722799631627417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654929:1893122001:0101/pct:28.76142595978062,61.20905144059992,14.154478976234003,6.732666754374424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ one of the kings of England, &quot;That while one king
 have what religion and laws he pleased.&quot; To give  
 that observation its full effect, they must hold thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:0017503867A:1893122101:0700/pct:54.630375261716864,212.2549019607843,47.576099210822996,22.805258467023172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:0017503867A:1893122101:0700/pct:18.210125087238954,70.7516339869281,15.858699736941,7.601752822341058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

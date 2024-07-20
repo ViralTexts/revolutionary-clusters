@@ -4962,7 +4962,7 @@ from one nation only, as lor instance]
 wiih Englishmen.” The only question^  
 will) us therefore is, shall we the pioneer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824062201:0259/pct:6.044678055190539,4.930035795639441,35.74244415243101,88.69183208590954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824062201:0259/pct:6.04308985811876,4.929233772571986,35.73962165002627,88.68147063608264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5002,7 +5002,7 @@ I ills treatise oil population. And have
 been completely and undeniably sub­  
 stantiated as it relates tu slaves in ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824062201:0259/pct:23.942181340341655,36.495281483891965,17.42444152431012,16.287015945330296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824062201:0259/pct:23.93589069889648,36.48934439564015,17.426431949553336,16.28843338213763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5119,7 +5119,7 @@ wise strengthen a nation doubly, by in­
 creasing it* own people, and diminish­  
 ing its neighbors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824111101:0506/pct:25.886727688787186,83.29639152407128,17.83466819221968,10.612642964801845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824111101:0506/pct:25.883025883025883,83.28900709219859,17.836884503551172,10.61465721040189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5181,7 +5181,7 @@ b- eon -iei.d io liircign countries, maybe called, (with
 lopeot -u the people tiiat make them,) gmeratiee lairs, as,  
 t&gt;j: increasing suhsistenre, then cncoura &#x27;c marria rc ’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827100601:0240/pct:6.412856919956312,46.62424885118416,17.70947105632704,4.85448332744197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827100601:0240/pct:6.41185647425897,46.61875589066918,17.711908476339055,4.857838517122212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5588,7 +5588,7 @@ make ten nations, equally populous and powerful;
 or, rather, increase^ nation tenfold in number or  
 strength.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838041401:0170/pct:23.516630452950025,33.56780442804428,18.80327594852081,14.679428044280442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838041401:0170/pct:23.52220179397181,33.57164821648217,18.81998997158616,14.679428044280442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5776,7 +5776,7 @@ white children become proud, disgusted with labor,
 and, icing edncated in adlegess. &quot;fe rendered unfit to  
 get a living by ir dustry.&quot; Spurks&#x27; Horks of Frant.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:201.07455777814513,72.5925925925926,48.50388493965945,56.16696061140505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:67.02485259271505,24.19753086419753,16.16796164655315,18.722320203801686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5813,7 +5813,7 @@ pui; take it&#x27; n way, ( iis. place is - sooausupf
 plied;&#x27; cut it 1 iii two,&#x27; and&#x27; each . deficient  
 part shall igrow but-ef the jr remaining.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1857122901:0150/pct:61.495673671199015,111.28445137805512,16.23918417799753,16.796671866874675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1857122901:0150/pct:46.13601236476043,83.46333853354135,12.194744976816073,12.597503900156006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

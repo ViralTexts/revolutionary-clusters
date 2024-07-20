@@ -1607,7 +1607,7 @@ k¢ a Tradeytill they have been whippedata Latin
 ¢t under right Direction ; and this would have  
 ¢ been ufeful to them as long as they lived.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1765092001:0468/pct:3.974527887571366,38.038698328935794,29.11725955204216,22.310172969803578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1765092001:0468/pct:3.974527887571366,38.0435844815792,29.11725955204216,22.319945275090394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2757,7 +2757,7 @@ to acquire Habits of writing their own Language easily un­
 &amp; der right Dire€tion ; and thigwould haveiygen ufeful tothem  
 as long as they lived.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773052801:0075/pct:4.682843763303533,22.522897585345547,26.798637718177947,16.264224257563143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773052801:0075/pct:4.689938981126721,22.53214913498011,26.791542500354762,16.25959848274586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3566,7 +3566,7 @@ To pour the fresh instruction o’er the mind,
 i To brea he the enlivening spirit, and to fix,  
 The generous purpose in the glowing br« asS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809011301:0022/pct:60.296071360789526,17.00273188500065,17.935092047826913,2.9140106673604786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809011301:0022/pct:60.284629981024665,17.000520291363163,17.938013915243516,2.9179673950745753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3764,7 +3764,7 @@ mao gets behindhand before he is aware,
 for want of this care, or skill to do it.”  
 The arithmetic that is here recommend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1818102701:0032/pct:19.67687484928864,56.37778455904791,16.97612732095491,10.75678974671956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1818102701:0032/pct:19.672131147540984,56.36918382913806,16.978061716489876,10.758962623951183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3999,7 +3999,7 @@ by regaining to know God aright, anil
 out of that knowledge to love Him, to  
 imitate Him, to be like Him.” If th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822032601:0220/pct:21.604139715394567,59.90066225165563,16.869340232858992,6.30794701986755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822032601:0220/pct:21.598551474392135,59.89074656513822,16.871443352302123,6.311041218341334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5700,7 +5700,7 @@ and magnanimously, all the offices, both private
 and public, of peace and war.&quot;—Tractate of  
 Education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1845080801:0108/pct:65.5802562170309,71.87906842181397,14.732479276563678,9.417040358744394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1845080801:0108/pct:65.56790355999246,71.86867225918427,14.734413260501036,9.419294185710154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5760,7 +5760,7 @@ their country, to recover their bad soil, and to rem
 edy the waste that is made of good; for this was one  
 of Hercules praises
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530224:1845100701:0437/pct:45.73283858998145,68.4533456818708,41.72850958565244,24.727946283862003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530224:1845100701:0437/pct:15.244279529993817,22.817781893956933,13.90950319521748,8.242648761287334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6186,7 +6186,7 @@ etL what was to be the fate of the pirates who
 should dare to profane the soil of this island, and  
 in view pf the declarations of the fifty individual
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851090301:0355/pct:28.560126582278482,7.217140709184313,41.50316455696203,117.99273274025812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851090301:0355/pct:21.427441050799178,5.412855531888234,31.144168381072955,88.4976819947375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6456,7 +6456,7 @@ and valuable part to be aimed at in education;
 all other considerations and accomplishments  
 should&quot;give way and be postponed to this.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1856122401:0183/pct:43.72496662216288,82.67312890297325,12.616822429906541,1.500605834653742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1856122401:0183/pct:43.71912962221332,82.6654240447344,12.619587949984426,1.5035725380552967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6501,7 +6501,7 @@ virtue, which, being united to the heavenly grace
 and out of that knowledge to love him, as we may  
 the nearest by possessing our souls of true virtue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857080501:0337/pct:69.95291347851678,122.32315203815148,20.085344320188344,1.5442261837174975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857080501:0337/pct:52.487488960847806,91.74520267968661,15.072122460994995,1.158169637788123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6519,7 +6519,7 @@ our first parents, by regaining to know God aright,
 and out of that knowledge to love him, as we may .  
 the nearest by possessing our souls of true virtue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857080501:0249/pct:71.32304661851609,119.67674788784132,19.829284307288248,2.5958124158197626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857080501:0249/pct:53.505171564603515,89.7636831149749,14.87440485962896,1.9468593118648219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6663,7 +6663,7 @@ to imitate him, to be like him.&quot; Rev. J. P.
 Norris.  
 Not prosperity, but adversity is the tru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858120201:1002/pct:11.161971830985916,111.7917892313595,16.1443661971831,11.254636142729249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858120201:1002/pct:8.381757351646417,83.8470392633329,12.114808945236838,8.440977107046937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6734,7 +6734,7 @@ dence ean be trusted, in the remains of the
 Grecian Law-givers, the Roman Institutes, and  
 the Saxon and Common Laws of England
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859101301:0193/pct:11.665239726027398,93.75088164762307,18.450342465753426,8.520242629425871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859101301:0193/pct:8.759905761405012,70.32021441670193,13.85735703576783,6.390181972069403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6825,7 +6825,7 @@ To pour the fresh instruction o&#x27;er the mind,
 To breathe enlivening spirit, and to fix  
 The generous purpose in the glowing breast.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1861022801:0336/pct:165.87490102929533,228.4521289108445,37.05463182897862,11.291460832745237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1861022801:0336/pct:55.29163367643178,76.15070963694816,12.351543942992874,3.7638202775817455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7503,7 +7503,7 @@ xlmerehant*%thcPnMht German and SptmUh;
 “difche to learn them bhould ho refused;  
 •i tbeir English arithmetic, and other studies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865021901:0002/pct:1.2549166510582506,1.3340902639795629,20.340887806705375,93.79789951745671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865021901:0002/pct:1.2595991758756322,1.3411864887879648,20.350252856340138,93.80499574226512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7543,7 +7543,7 @@ the “ college course,” and multitudes read
 much more in the rocks than God has ever  
 wiitten there. lam uot bl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865021901:0002/pct:32.66529312605357,66.52001135395969,9.926952612848847,8.699971615100766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865021901:0002/pct:32.67465817568833,66.5306556911723,9.936317662483612,8.699971615100766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7567,7 +7567,7 @@ wiitten there. lam uot bl
 “ dcsire&#x27;to learn them should be refused;  
 “ tbclr English arithmetic, and other studies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865022501:0002/pct:3.381825051955413,70.71956769055745,10.239939542792367,4.052901023890785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865022501:0002/pct:3.391271490648026,70.72667804323095,10.239939542792367,4.06712172923777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7590,7 +7590,7 @@ best languages that ever were, the most ex­
 pressive, copious and beautiful; the great  
 men whose lives and actions we rcadda histo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865022501:0002/pct:45.70187039486114,66.69510807736064,9.805403362932175,2.986348122866894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865022501:0002/pct:45.70187039486114,66.69866325369739,9.814849801624787,2.9899032992036405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7829,7 +7829,7 @@ to chance, or his genius, or any thing rather
 than to his education or any care of his  
 teacher.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1869111901:0405/pct:74.20718816067654,95.36965975952928,38.6892177589852,10.744435917114352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1869111901:0405/pct:18.551797040169134,23.84241493988232,9.6723044397463,2.686108979278588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7961,7 +7961,7 @@ Him, and to imitate Him as we may the
 nearest, by possessing our souls of&#x27; true  
 virtue. Milton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033386:00296020709:1873022801:0041/pct:21.868336886993603,54.92377879158785,13.00639658848614,2.748414376321353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033386:00296020709:1873022801:0041/pct:16.41114518064258,41.192834093690884,9.758698840154645,2.069656170023367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8027,7 +8027,7 @@ parents, by learning to know God aright,
 and out of that knowledge to be like  
 him. Our youth must proceed, by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287460:1873120601:0021/pct:24.346076458752513,42.32012246980779,56.841046277665995,10.750127572716448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287460:1873120601:0021/pct:6.089582284851535,10.580030617451948,14.217413185707096,2.687531893179112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8073,7 +8073,7 @@ To breathe the enlivening spirit, and to llx
 The generous purpose in the glowing  
 . breast,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1875031801:0040/pct:66.84261974584555,74.53362255965293,12.043010752688172,2.848879248011569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1875031801:0040/pct:66.8295543393276,74.52284557547715,12.045543393275997,2.852082128397918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8223,7 +8223,7 @@ and imitate Him as we may the nearest
 by possessing our souls of true virtue.—  
 Milton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:0051701610A:1880120201:0396/pct:69.72034715525554,91.64791901012373,12.131147540983607,3.5854893138357706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:0051701610A:1880120201:0396/pct:69.70690320092557,91.63503444397583,12.133629001156962,3.5884999297061717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8519,7 +8519,7 @@ wise men in all ages, as the surest founda
 tion of the happiness both of private families  
 and of commonweaiths;&quot; and then proceed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887061501:0517/pct:63.727764887857695,205.18370834520078,51.430781129157,7.974935915693535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887061501:0517/pct:15.938104448742747,51.295927086300196,12.86266924564797,1.9937339789233837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8545,7 +8545,7 @@ their Eoglish, arithmetic and other studies
 absolutely necessary, being at the same  
 time not neglected.&quot; It is needles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887061501:0517/pct:63.65042536736272,235.431500996867,51.430781129157,19.310737681572203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887061501:0517/pct:15.918762088974855,58.85787524921675,12.86266924564797,4.827684420393051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9279,7 +9279,7 @@ of that knowledge to love him, to
 imitate him, to be like him. &quot;For  
 Christ and the Church,&quot; was and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021180:1890052801:0862/pct:29.280397022332505,49.08579465541491,17.72125723738627,5.977496483825598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021180:1890052801:0862/pct:21.964839710444675,36.82137834036568,13.298862461220269,4.486638537271449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9409,7 +9409,7 @@ and out of that knowledge to love Him
 as we may the nearest, by possessing our  
 souls of true virtue. Milton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020527:1891060601:1025/pct:58.44155844155844,35.45894984941731,20.38961038961039,11.784732224695562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020527:1891060601:1025/pct:43.84065815111496,26.59421238706298,15.306343364364581,8.83854916852167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9507,7 +9507,7 @@ edge to love him, to imitate him, to be
 like him, as we may the nearest  
 by possessing our souls of true virtue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663455:1893072201:0609/pct:17.39852398523985,38.862735381565905,14.723247232472325,3.7041625371655105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663455:1893072201:0609/pct:17.404674046740467,38.862735381565905,14.729397293972939,3.708292038321771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9530,7 +9530,7 @@ fix
 The generous purpose in a glowing  
 breast.—Thompson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529054:1893083101:0549/pct:42.284047098051474,8.373550080433494,8.773575075544441,3.166539666412666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529054:1893083101:0549/pct:42.28752040568233,8.373550080433494,8.777048383175298,3.1750063500127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9596,7 +9596,7 @@ To pour the fresh instruction o&#x27;er the mind,
 To breath the enlivening spirit, and to fix  
 The generous purpose in a glowing breast
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529066:1894110801:0254/pct:50.83179297597042,52.4027643844423,8.317929759704251,1.9286403085824493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529066:1894110801:0254/pct:50.83503583357655,52.40544305153755,8.317929759704251,1.9339976427729562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9619,7 +9619,7 @@ fix * .
 The generous purpose in the glowing  
 breast. —Janies Thomson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1895032801:0384/pct:5.241675617615467,7.966426152260345,13.920515574650913,4.505963775585333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1895032801:0384/pct:5.240549828178694,7.965253239104829,13.922895189003436,4.508981154299176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9740,7 +9740,7 @@ breast ”
 As a teacher, she is in the major­  
 ity in the home, in the secular an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898030301:0108/pct:49.80202375714914,14.664310954063604,14.16630004399472,8.083038869257951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898030301:0108/pct:49.791071035847814,14.662152215515972,14.168682647899715,8.085529221257177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

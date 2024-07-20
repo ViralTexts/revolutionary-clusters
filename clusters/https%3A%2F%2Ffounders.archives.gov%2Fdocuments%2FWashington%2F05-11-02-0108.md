@@ -192,7 +192,7 @@ on the smooth furfaceof a river, we lhall observe
 the circular waves to be fniall, and iflbe only to  
 a little distance from the centre. If&quot; we drop ano
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791102901:0001/pct:61.75567833026397,24.399849962490624,28.05402087170043,54.744936234058514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791102901:0001/pct:61.77102516881522,24.409227306826708,28.06169429097606,54.735558889722434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ per/or lodging wo kmen and fecurlng maurials
 Ifor building, It it to be underltood that I&#x27;vsJt  
 may be with the epprVbat&#x27;too of tt(
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791103101:0003/pct:30.83083083083083,61.73116470368293,16.666666666666668,27.65002804262479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791103101:0003/pct:30.83083083083083,61.73583847448121,16.69794794794795,27.66872312581791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ i conditions under. JLnd upon which conveyances;
 of the lands within the city,  
 Qftv ty* GEO. WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791103101:0003/pct:47.872872872872875,7.6462890259861656,16.99199199199199,16.05907646289026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791103101:0003/pct:47.88538538538538,7.660310338381006,16.99199199199199,16.05440269209198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ to the deeds in trust of the lands within
 the city.  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791111001:0904/pct:8.771929824561404,4.607989391679098,42.73011295361692,90.6845682081883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791111001:0904/pct:8.779940719378354,4.61903972595171,42.73011295361692,90.6845682081883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ Gentlemen, in poffejjion of Subferipiion
 papers for this Gazette, are requejltd to  
 transmit them to the Editor*s OJjice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010401:0001/pct:70.24278215223097,40.94730367028911,19.94750656167979,50.358827147836784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010401:0001/pct:70.2509842519685,40.95242977240107,19.963910761154857,50.374205454172646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -790,7 +790,7 @@ produce the amount of money required to pay for
 the improvement of certais nvenues, Ac., to  
 which the funds derived from the sale are by la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852110301:0453/pct:41.596989966555185,83.3719263424854,14.255852842809364,5.149410078288676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852110301:0453/pct:41.596989966555185,83.37560186716654,14.26049795615013,5.153085602969824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ any building over two stones high.
 3. lie it further enacted. That if any person  
 ; .-hall lay or begin to lay the torn dation of an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853022501:0189/pct:54.158338402711394,65.38931395872179,12.522812201268794,9.554426798688356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853022501:0189/pct:54.15363225582204,65.38510993956538,12.524620553817634,9.555955595559556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ builder shall have occasion to make use of,
 before such next builder shall or may use or  
 break into said wall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887031901:0186/pct:70.91875474563402,214.68097120271034,50.417615793470006,23.433088650479956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887031901:0186/pct:17.739791073124408,53.670242800677585,12.611585944919279,5.858272162619989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -918,7 +918,7 @@ breadth and thickness thereof, wnich foundations
 shall be laid equally upon the lands of the persons  
 between wnom the same Is to be built It ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654693:1888031901:0100/pct:14.340683735385527,69.70820377900024,12.031966849193429,3.635493900980627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654693:1888031901:0100/pct:14.348083468995116,69.70820377900024,12.035666715998223,3.6384836163597227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

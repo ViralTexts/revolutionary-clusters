@@ -164,7 +164,7 @@ forty years ago, and before which, a plan for
 the education of the people generally, had  
 never been suggested in this State.” Again
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831033001:0045/pct:50.65268065268065,80.60918774966711,15.407925407925408,4.310918774966711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831033001:0045/pct:50.640876252621766,80.59577300715593,15.41016080167793,4.314361790647363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ doubt, that the present pian of primary schools, of putting
 money into the hands of 1200 persons, acting for nothing  
 and under no responsibility, is wholly inefficient.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845092601:0830/pct:94.67284308048639,191.5064662705348,37.75332947307469,8.784807176977747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845092601:0830/pct:31.553046750615138,63.828052190121156,12.582621701162735,2.9279279279279278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ schools, of putting money into the hands of 1000
 persons, nctine lor nothing and under no respon­  
 sibility, is wholly inefficient.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845092601:0344/pct:30.892857142857142,59.54368932038835,13.467261904761905,3.8349514563106797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845092601:0344/pct:30.89781746031746,59.54368932038835,13.467261904761905,3.838187702265372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ opinions and principle* in discord with those of their
 vn country. This cnnker is eating on the vitals of our extence,  
 and, if not arrested at once, will be beyond remry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847110201:1058/pct:52.657386902878834,67.77998510057114,17.6842771274913,7.375217283337472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847110201:1058/pct:52.657386902878834,67.78412383080871,17.694822313613834,7.379356013575035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ ring opinions and principles in discord with those of th
 n country. This canker is eating on the vitals of our  
 snce, and, if not arrostod at once, will he beyond r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848062801:0659/pct:31.541906589891234,77.37180294821721,14.203454894433781,6.8791734912435425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848062801:0659/pct:31.552569844316487,77.37600268783335,14.203454894433781,6.883373230859687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ now annually turning out young men
 worthy io take the rains of government  
 from the hands ot their sires, as the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016883:0029587790A:1852040801:0152/pct:56.63013698630137,30.45618641286511,15.808219178082192,24.855048681763485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016883:0029587790A:1852040801:0152/pct:42.496916541044264,22.842139809648835,11.867890914074277,18.65222623345367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ LATELY MARKED OUT BETWEEN* DIFFERENT rOtlTK&#x27;NB OF
 3UB CONFEDERACY* 13 SUCH A3 WILL NEVER, I FEAR, DE Cn[ iterated.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854021701:0126/pct:20.195107746068725,81.7269657501206,19.831100757134536,2.5277375783888085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854021701:0126/pct:20.199961172587848,81.73018170123814,19.84080761017278,2.5309535295063514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ The line of division lately marked out between dif­
 ferent portions of our confederacy is such as will  
 never, I fear, be obliterated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854022201:0242/pct:43.59122401847575,88.41643835616438,20.092378752886837,3.287671232876712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854022201:0242/pct:32.69813772195756,66.31232876712329,15.071459506279774,2.4657534246575343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ The line of division lately marked out between dif­
 ferent portions of our confederacy is such as Mill  
 never, I fear, be obliterated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854022201:0063/pct:42.19814241486068,88.39553582143286,20.340557275541794,3.1921276851074043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854022201:0063/pct:31.671054669351093,66.30265210608424,15.254762273501626,2.4000960038401535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ or later. The line of division lately marked out
 befwten difl&#x27;erent portions of our confederacy is  
 such as will never, 1 /ear, be obliterated.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854030801:0543/pct:78.57891976927111,27.872722122556887,11.667540639748296,1.9733736191105655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854030801:0543/pct:78.57891976927111,27.872722122556887,11.680650235972733,1.9796682718031033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ ions and principles in discord with those of their own coun­
 try. This canker is eating on the vitals of our existence,  
 atid, if not arrested at once, will be beyond remedy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061101:0788/pct:16.046549745943288,38.50125944584383,15.784297656121947,4.685138539042821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061101:0788/pct:16.046549745943288,38.50965575146935,15.78976124132656,4.680940386230059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ out between different portions of our Confed­
 eracy, is such as will never, I fear, be oblite­  
 rated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856071701:0834/pct:45.64276048714479,77.93272301469023,13.24763193504736,2.8422397274856293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856071701:0834/pct:45.64276048714479,77.93272301469023,13.24763193504736,2.845788091689731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ marked out between different portions of
 our confederacy is such as will never, I fear,  
 be obliterated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1856072601:0398/pct:160.66134549600912,77.42080937887499,44.75484606613455,10.370871378649532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1856072601:0398/pct:40.18251818052189,19.355202344718748,11.193497789818908,2.592717844662383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ fereat portions of our confederacy, is
 such as will never, I fear, be oblitera  
 ted. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856082001:0034/pct:68.63179669030733,23.193040808494306,14.22872340425532,4.413457848279391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856082001:0034/pct:51.50036954915004,17.3979787642318,10.672579453067257,3.313291544070615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ ion lately marked out between the differ
 ent portions of our confederacy, is such as  
 will never, I fear, be obliterated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1856090401:0415/pct:85.24173027989822,71.13303192218112,56.65818490245971,14.851349499931498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1856090401:0415/pct:21.310432569974555,17.78325798054528,14.164546225614927,3.7128373749828745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -761,7 +761,7 @@ lately marked out between different por
 lions of &quot;our coniederacy is such as will  
 never, Ior, be obliterated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1856100901:0705/pct:72.55747126436782,69.93025398078694,16.792385057471265,4.579549940781682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1856100901:0705/pct:54.4278785701455,52.454270298723515,12.610023351895096,3.4346624555862615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -943,7 +943,7 @@ of their own country. This canker is eating
 on the vitals of onr existence, and, if not ar­  
 rested at once, will be beyond remedy.&quot; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857080501:0278/pct:55.98871053095784,62.496469923750354,11.818662903510319,8.683987574131601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857080501:0278/pct:56.00047039454342,62.50588346041608,11.806903039924737,8.674574037465876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -972,7 +972,7 @@ of their own country. This canker is ea&#x27;ing
 on the vitals of our existence, and, if not ar­  
 rested at once, will be beyond remedy.&quot; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857080502:0123/pct:56.96736340300697,62.64563796533106,12.98129812981298,9.07928388746803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857080502:0123/pct:56.96736340300697,62.650374159325565,12.99352157437966,9.088756275457042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1037,7 +1037,7 @@ Missouri question, he declared that Rufus
 King (a distinguished federalist) was  
 &quot;ready to risk the baion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:278.3279220779221,198.39279974284796,50.64935064935065,45.130183220829316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:69.6243654822335,49.59819993571199,12.67005076142132,11.282545805207329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1094,7 +1094,7 @@ country. This canker is eating on the vitals of
 onr existence, and, if not arrested at once, will  
 be beyond remedy.&quot; In a letter to Mr. Madi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1857081401:0498/pct:47.82471127986078,51.16497999529301,15.060908084163898,7.472346434455166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1857081401:0498/pct:47.83525813426146,51.16497999529301,15.071454938564573,7.484113909155095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1150,7 +1150,7 @@ Confederacy, is such as will never,
   
 If,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:67.15412421952021,37.57082152974504,14.82090042720999,7.0113314447592066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:67.16507832183153,37.57082152974504,14.815423376054332,7.019200503619767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1203,7 +1203,7 @@ neo. and if not arrested at once will
   
 o beyond remedy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:67.05553729871836,39.010859301227576,14.952349654945778,12.523607176581681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:67.05553729871836,39.01479383065785,14.963303757257092,12.523607176581681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

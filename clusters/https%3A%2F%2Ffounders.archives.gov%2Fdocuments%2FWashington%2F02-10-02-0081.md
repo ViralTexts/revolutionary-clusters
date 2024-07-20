@@ -249,7 +249,7 @@ the thoughts of making off a fair
 bumble servant,  
 GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809022401:0001/pct:23.334670947030496,10.38536903984324,35.29293739967897,88.43892880470281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809022401:0001/pct:23.34804708400214,10.389723492270846,35.29293739967897,88.43892880470281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ thore hights of patriotism upon our mean
 politics and our shifty statesmanship, like a cataract.  
 Renewed applause.. This was the Iden of the Revolutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530443:1854070601:0454/pct:149.5342113716672,26.53621286242692,48.47414070028911,32.80038181601241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530443:1854070601:0454/pct:49.84473712388907,8.84540428747564,16.15804690009637,10.93346060533747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ has no more right to put their hands into
 my pocket without my consent than I  
 have to put my hands into yours.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:42.57586705202312,32.77101769911504,16.329479768786126,3.747234513274336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:31.94795807734008,24.585176991150444,12.251535959522949,2.8069690265486726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

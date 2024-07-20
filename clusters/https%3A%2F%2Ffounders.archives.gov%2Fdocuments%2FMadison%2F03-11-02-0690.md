@@ -80,7 +80,7 @@ Legislature, whose authority alone can finally
 decide cm it.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817021101:0372/pct:67.6475450487684,36.04532722179781,14.762770705901803,13.547237076648841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817021101:0372/pct:67.63636363636364,36.04073838319542,14.765840220385675,13.549755994058986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ anenrl the case to the favorable attention of the I.e-’islaUne
 wh»vse authority alonecaufinally decide on it.  
 January d 1,1817. J Ail US MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829070301:0181/pct:3.837650031585597,43.53453489778638,17.782691092861654,8.6730373775251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829070301:0181/pct:3.8370440549502605,43.529269472665696,17.785146586662457,8.676019996774714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

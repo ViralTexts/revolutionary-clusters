@@ -130,7 +130,7 @@ ector, with whom entry shall have been
 made of any of the said spirits, pursuant to the ast, entuuledf  
 &quot; An ast to provide more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031601:0001/pct:62.75986742994878,86.53703703703704,26.664658029526965,1.9814814814814814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031601:0001/pct:62.77493220849654,86.54629629629629,26.6872551973486,1.9953703703703705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ or distiller &#x27;of spirits, from mobiles, sugar, or other foicign ma­
 terials, or from material? the growth ar.d produtlion of the Uni­  
 ted States, shall write or paint, or cause
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031901:0001/pct:36.86821705426357,54.84057971014493,27.65891472868217,3.845410628019324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031901:0001/pct:36.87596899224806,54.84541062801932,27.689922480620154,3.8550724637681157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ kinds, proofs and marks, and shall also
 give a certificate to every such distiller  
 of the quantity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791042301:0787/pct:71.58403869407498,28.7994787424662,20.386940749697704,8.307541944942173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791042301:0787/pct:71.60016122531238,28.810338274420374,20.370818218460297,8.307541944942173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ person to whom the fame may belong, the kind
 or kinds thereof, and words &quot; Old Stock,&quot; and  
 lhall grant a certificate for each cask, calc, bo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792062001:0001/pct:28.110310247571295,79.2893600314095,20.74584769664682,6.105221829603455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792062001:0001/pct:28.133813851457223,79.29426776599921,20.730178627389535,6.100314095013742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ lhall grant a certificate for each cask, calc, bo
 and shall make a record thereof in a book, to  
 be by him kept for that purpose, and (hall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793040601:0001/pct:49.83674680914218,40.56866753391563,19.204511724547345,1.3566251626091805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793040601:0001/pct:49.85158800831107,40.582605463668465,19.21193232413179,1.3426872328563464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ their opinion thereon, to Congress.
 The Senate proceeded to consider the act  
 for the admission of Michigan, &amp;e.; and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837011001:0411/pct:49.31779855894527,37.63671675355208,14.241913230108846,4.344270673617499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837011001:0411/pct:49.32290868209924,37.63671675355208,14.247023353262813,4.344270673617499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ spection of the revenue, fot the port where the said
 teas shall be landed; and upon every such storchou  
 the said inspector, or officer of inspection, sha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1841081001:0343/pct:79.1703442188879,40.537683129436644,75.28684907325685,53.285002265518806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1841081001:0343/pct:19.792586054721976,10.134420782359161,18.82171226831421,13.321250566379701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

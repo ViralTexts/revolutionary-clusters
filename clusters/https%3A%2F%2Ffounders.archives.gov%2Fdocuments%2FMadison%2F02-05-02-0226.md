@@ -83,7 +83,7 @@ by bill or otherwise. Adopted and a commit­
 tee of 3 ordered.  
 The House in committee of the whole, Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812060201:0505/pct:1.3650306748466257,50.00887468938587,22.515337423312882,4.98757543485978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812060201:0505/pct:1.364821346419261,50.00443695092732,22.51699637069979,4.990090809595646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ entitled ** Ae act supplementary to the act
 eoncerning consuls and vice consuls, andfor  
 the further protection of American seamen,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1840072501:1282/pct:6.612881893929375,82.22375418554265,13.86060044967597,1.5658853653732518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1840072501:1282/pct:6.6216990697879465,82.23031974263016,13.851783273817396,1.5658853653732518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ the further protection of American seamen,
 consuls and vice consuls, and for the further  
 protection of American seamen,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861848:1842110801:0145/pct:49.13031080695751,67.41562104853614,17.27972626176219,2.3246765878805564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861848:1842110801:0145/pct:49.13981560688148,67.42210550205881,17.27497386180021,2.3246765878805564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ gagement on board of any vessel to return to the United
 States, and the remaining third to be retained for creat­  
 ing a fund for the payment of the passage of mariners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846062901:0781/pct:49.65447497050396,271.4564892516381,47.395921119164,5.276468559604552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846062901:0781/pct:16.551491656834653,90.4854964172127,15.798640373054665,1.7588228532015173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

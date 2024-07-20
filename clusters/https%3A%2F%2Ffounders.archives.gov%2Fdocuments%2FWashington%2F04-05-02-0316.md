@@ -103,7 +103,7 @@ been agreed on by the Convention, anarchy would
 soon have ensued, the seeds being deeply sown in  
 every soil. I am, ete
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475245:1860030501:0489/pct:91.125,98.97003745318352,38.0,20.131086142322097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475245:1860030501:0489/pct:30.375,32.990012484394505,12.666666666666666,6.710362047440699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ the Convention, anarchy would soon have en­
 sued, the seeds being deeply town in every  
 soil. I am, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1860032101:0462/pct:68.53108380707867,58.99191891521709,12.873647533467816,8.601561429941103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1860032101:0462/pct:68.51851851851852,58.98384004382361,12.875870920425376,8.603807176116133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ Convention, anarchy weuld soon have
 ensued, the seeds being deeply sown  
 in every spot. I am, &amp;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026922:00237288154:1866080901:0578/pct:62.06019499788046,160.11260927544822,56.84612123781263,61.46095717884131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026922:00237288154:1866080901:0578/pct:20.686731665960153,53.37086975848274,18.94870707927088,20.486985726280437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ Convention, anarchy would soon have
 ensued, the seeds being deeply sown  
 in every spot. I am, &amp;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1866081501:0034/pct:11.717844727694091,49.862198214088856,44.27867902665122,45.959651637085216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1866081501:0034/pct:3.9059482425646967,16.62073273802962,14.759559675550406,15.319883879028406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ is, in my opinion, desirable.&quot;
 To amend the new Constitution of Ken­  
 tucky is easier than to amend tho Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060190:00211103863:1891072701:1018/pct:36.765957446808514,84.2246366586708,21.574468085106382,14.463101453365317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060190:00211103863:1891072701:1018/pct:27.586206896551722,63.17200507972344,16.198382290336312,10.85085367574432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ time, and the adoption of it, under the
 present circumstances of the Union,  
 is, in my opinion, desirable.&quot; Fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121401:0610/pct:70.07633587786259,13.407485344957163,101.98473282442748,373.6058920787615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121401:0610/pct:17.52577319587629,3.3518713362392907,25.505918289423445,93.40147301969037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

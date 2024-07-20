@@ -326,7 +326,7 @@ there are several cases which may excuse the
 latter bofore his great JuJge. but none which  
 can excuse tho former
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839120501:0960/pct:79.86649440137812,95.50467681139187,23.88027562446167,24.556749965098422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839120501:0960/pct:59.91815636441956,71.63199776629904,17.919448632349773,18.428032947089207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

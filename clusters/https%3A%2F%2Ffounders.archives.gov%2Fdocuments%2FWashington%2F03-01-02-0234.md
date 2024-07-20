@@ -495,7 +495,7 @@ on that occasion that the above officers were broke, for
 I never spared one that was accused of cowardice, but  
 brot &#x27;em to immediate tryal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533456:1874041401:0380/pct:184.04815650865314,93.72858632504096,49.20993227990971,32.3551318337554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533456:1874041401:0380/pct:46.02935641701167,23.43214658126024,12.307113285660519,8.08878295843885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ some bitterness, that &quot;Massachusetts people
 suffer nothing to go by them that they can lay  
 hands upon.&quot; This is perhaps too sweeping a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533456:1874041401:0380/pct:184.34913468773513,147.475048413526,49.1346877351392,9.295396990913154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533456:1874041401:0380/pct:46.10462928114415,36.8687621033815,12.288295069627399,2.3238492477282886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ Court, Thursday, the retnrn of County
 Auditor Taft and County Treasurer  
 Gorney to the rale to show cause wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551219:1874051001:0455/pct:1.256388415672913,20.431281561348438,19.250425894378193,26.177152995769074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551219:1874051001:0455/pct:1.256388415672913,20.440380328465494,19.264622373651335,26.1817023793276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ for I never spared one that was a rcused of
 cowardice, but bro em to immed ate try-  
 ake
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1874051501:0078/pct:171.23002084781098,352.0454252161569,39.680333564975676,31.746031746031747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1874051501:0078/pct:42.829827915869984,88.01135630403923,9.925256387971492,7.936507936507937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ officers were broke, for I never spared one j
 I that was accused of cowardice, but brought:  
 them to immediate trial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862750:1874052101:0093/pct:58.298097251585624,10.526789734353894,27.14059196617336,88.34759117514633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862750:1874052101:0093/pct:58.30690627202255,10.532793036169894,27.136187455954897,88.35059282605432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ who enquire after
 Yr Affectiont&#x27;e friend and Sery&#x27;t  
 Go WAshiNGrON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875071201:0042/pct:5.823099213467642,5.971122496506753,86.0356009383193,286.4741499767117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875071201:0042/pct:1.9410330711558805,1.990374165502251,28.678533646106434,95.49138332557057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1061,7 +1061,7 @@ bors who enqu re after
 5 r Affcct&#x27;e friend and Scrv&#x27;t  
 Go Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769283:1875072901:0517/pct:35.49512868983568,5.338386572820791,27.046677330231205,87.79642663779101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769283:1875072901:0517/pct:35.49512868983568,5.338386572820791,27.046677330231205,87.80364555134452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1245,7 +1245,7 @@ bors who enquire after
 Yr Affect&#x27;e friend and Serv&#x27;t   
 Go Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1875073001:0992/pct:46.697332106715734,6.721698113207547,35.93376264949402,116.02463312368972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1875073001:0992/pct:36.19943913684111,5.212740750770064,27.843528684823422,89.92316284737501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1454,7 +1454,7 @@ Neighbors who enquire after
 Yr Affectiont&#x27;e friend and Serv&#x27;t  
 Go WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85026955:00200293538:1875090701:0347/pct:63.27124563445867,53.70449678800856,94.9359720605355,333.70449678800856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85026955:00200293538:1875090701:0347/pct:15.817811408614668,13.42612419700214,23.733993015133876,83.42612419700214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1493,7 +1493,7 @@ Alt. IIoAit. 1) &gt;es the Senator from South
 Carolina know whether at the ch se of the war,  
 after tho Alassachusetts troops had scoured th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867031:1880060501:0298/pct:56.71554252199414,13.264006791171477,25.747800586510262,82.71434634974533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867031:1880060501:0298/pct:56.70722767922592,13.26259946949602,25.748912671651272,82.70910698496905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2004,7 +2004,7 @@ II
 (Gen. Washington to George Mason, Es, of Gunston  
 Hall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888022601:0718/pct:283.4365325077399,30.43746149106593,51.52863777089783,130.06777572396797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888022601:0718/pct:70.88656600851724,7.609365372766482,12.887146728610142,32.51694393099199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2097,7 +2097,7 @@ met with a shameful defeat. * ® * It was
 for their behavior on that occasion that the  
 above officers were broke. * * *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623926:1892040201:0065/pct:48.86605931382051,12.9455374964357,11.358790463268075,10.50755631593955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623926:1892040201:0065/pct:48.87252051431156,12.955042296359661,11.352329262777024,10.50755631593955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2115,7 +2115,7 @@ setts people suffer nothing to go by them
 that they can lay hands upon.&quot;  
 It seems that the Massachusetts patriot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623926:1892040201:0065/pct:48.86605931382051,31.565440547476477,11.320023260321769,1.8962075848303392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623926:1892040201:0065/pct:48.87252051431156,31.570192947438457,11.320023260321769,1.905712384754301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

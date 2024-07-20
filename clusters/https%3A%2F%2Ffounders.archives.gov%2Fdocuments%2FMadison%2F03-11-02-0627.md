@@ -95,7 +95,7 @@ lower thatnhirtj five feet, on any of the avjnues.&quot;
 And whereas the above recited articles have been  
 , found, by experience, te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796070501:0002/pct:30.544147843942504,68.65838113448056,21.12422997946612,9.082217973231357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796070501:0002/pct:30.556981519507186,68.67033142128744,21.13064681724846,9.074251115360102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ of erecting houses authorized by the said
 Regulations; for which cause, the Prefi.  
 dent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801031401:0329/pct:25.62048588312541,27.408328154133002,21.825344714379515,22.084110213383052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801031401:0329/pct:25.617121848739497,27.405489383738995,21.826855742296917,22.085275332297602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ third day of January, in the
 year 1802.,  
 Th: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802012901:0003/pct:73.85683966814587,15.87460815047022,16.226123866486592,32.80250783699059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802012901:0003/pct:73.86327094990031,15.87460815047022,16.226123866486592,32.80250783699059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ regulation*, for which caul* the &lt;&gt;
 ttwt of the Caid aru.-lcs, has b.-e;i luf- |  
 j [tended by feveral ac\? of the Prr.f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804010201:0003/pct:40.79244508314515,44.588089671296935,17.77869020734962,14.27589052399945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804010201:0003/pct:40.79928830493396,44.597258515564114,17.78553342913844,14.27130610186586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ iy part of the city, nor fhall aCy be lower
 thirty five feet on any oi t.]&gt;s Avenues,&quot;  
 wheraas the ahjtvcfyoted articles w.r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805020801:0004/pct:79.56725407093464,35.111297774044516,19.072049966540263,14.251714965700685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805020801:0004/pct:79.56725407093464,35.120630920714916,19.072049966540263,14.242381819030285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ i j for which cause tho pperattan of the fakl ar­
 tiek ■ baa ben. fufpeuded by feveral net? of the i  
 }■ resident of the Unite ie fifth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806030701:0004/pct:59.153392974034475,7.410894418291863,19.37595461488108,10.127774041694687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806030701:0004/pct:59.16793948650811,7.415377718000449,19.3832278711179,10.123290741986102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ ticleshai beoa firfpended by (everjil
 President of the United Ptat**, from th  
 day of Jtaie in the ftar 1796 to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806042101:0004/pct:59.62826885671061,15.920122035778672,18.889129025286362,13.839966717514908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806042101:0004/pct:59.62826885671061,15.920122035778672,18.896333117210574,13.844589284888828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ e-1 the avenues.&quot; &#x27;±ud whereas the above
 riiCited articles were foued to impede the j  
 lctti*-.msnt in tbe city of mechanics an-4 others 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807041701:0004/pct:59.50893818651734,68.05802654988368,18.93172517768684,9.853565074586013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807041701:0004/pct:59.52329671907531,68.06258838556636,18.924545911407854,9.849003238903334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ ns | the year one thousand eight hundred and I
 ,{-s&#x27; : teii/and that all houses which shall  
 l!u&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031501:0004/pct:57.194973652209164,4.248881873191266,19.112282124037293,20.41568008418837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031501:0004/pct:57.194973652209164,4.248881873191266,19.119037967842182,20.42444970621766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -647,7 +647,7 @@ President of the United States.
 The sale will commence at 10 o&#x27;clock a. m., and  
 will be continued (from day to day if necessary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852110101:0445/pct:41.23235992734386,46.357760981487566,14.782730194215453,3.9215686274509802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852110101:0445/pct:41.23235992734386,46.361412348924674,14.792045084066881,3.9288713623251907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ tion of Washington may adopt with the approbation ot the
 l&#x27;rssideut of the United States.  
 The sale will commence at 10 o&#x27;clock a. m.. and will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852110401:1089/pct:3.0764351411354265,39.7024639702464,15.191880748493498,3.219432821943282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852110401:1089/pct:3.0764351411354265,39.7024639702464,15.202452690559255,3.223306988997366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -752,7 +752,7 @@ fore he suspded the act and rmitted the v
 erection of fae houses. In 150 a Paragraph 10  
 states that the House had been in &quot;secret sit- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1880030601:0657/pct:41.70701093778017,59.40460081190798,14.523937600860679,7.388362652232747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1880030601:0657/pct:41.70701093778017,59.41474966170501,14.537385691231846,7.395128552097429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ others whose circumstances do not ad
 mit of erecting houses of the description  
 authorized.&quot; Therefore he suspende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1880041501:1693/pct:24.059318282425853,208.15565826748173,46.94555112881806,39.928432980468166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1880041501:1693/pct:8.019772760808618,69.38521942249392,15.648517042939353,13.309477660156055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ ces do not admit of erecting houses of the
   
 description authorized. Therefore, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn84022650:00295868740:1880041601:0284/pct:58.8235294117647,78.73015873015873,15.717900063251108,11.898412698412699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn84022650:00295868740:1880041601:0284/pct:44.138585666824866,59.04761904761905,11.801930074355324,8.926984126984127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

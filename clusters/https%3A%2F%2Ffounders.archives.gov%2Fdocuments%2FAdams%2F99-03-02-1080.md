@@ -138,7 +138,7 @@ to enslave America.
 perior Courts of Judicature, Court of Assize,  
 &amp; General Goal Delivery, &amp; Inferior Conrt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774092301:0319/pct:35.54919656614572,32.948224219084295,26.986572749284612,12.508914562829839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774092301:0319/pct:35.5638711570915,32.95297865259354,26.971898158338835,12.513668996339087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ ouncil. That you were entitled
 &quot; of being tried by your peers oi&quot; the vicinage,  
 &quot; according to the course of that law. That i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790072401:0001/pct:9.402222889756684,36.861817465010844,26.374286572544307,3.9424403705893947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790072401:0001/pct:9.402222889756684,36.87660161640055,26.389306097927307,3.937512320126158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ those rights:
 &quot; Rtfolved N. C. 5 that the rt?fpe&lt;W colonies  
 are entitled to the common law of England,&quot; Sic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796021801:0002/pct:74.28341816233592,18.53582554517134,20.86793463702116,7.165109034267913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796021801:0002/pct:74.29011518885615,18.540152301834546,20.88132869006161,7.173762547594324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ ilege of being tried by their peers of the vicinage,
 according to the course of that law” : And where­  
 as, n¢ well before as since the passage of that re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1844090701:0183/pct:56.98049851478755,23.025516403402186,12.243316543975203,2.501012555690563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1844090701:0183/pct:56.98910844203367,23.025516403402186,12.243316543975203,2.504387741325773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ privilege of being tried by the peers of the viein­
 age according to the conrse of the law.” Our  
 ‘ forefathers bronght this right over with them, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0593/pct:56.665807117070656,34.04475756319934,12.467766890149562,4.154579361790303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0593/pct:56.67010486505071,34.05166459455726,12.467766890149562,4.161486393148225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,7 +1023,7 @@ one and the other, but they will never
 be able to fathom the depths of  
 either.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478714:1886072201:1118/pct:89.3465909090909,17.681636491888078,13.52588383838384,6.06630613684458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478714:1886072201:1118/pct:78.18901625005755,15.475088296814457,11.844588684804124,5.308095874909989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1049,7 +1049,7 @@ one and the other, but they will never
 be able to fathom the depths of  
 either.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623367:1886072301:0030/pct:81.45596723142803,16.284563012366263,11.729659281325638,5.182715020147284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623367:1886072301:0030/pct:81.46993111152486,16.284563012366263,11.715695401228821,5.1931360289009305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1072,7 +1072,7 @@ will never be able to fathom, the depths
 of either.&quot; &quot;It is very odd,&quot; said Ser­  
 geant Channell to Thesiger, &quot;that Tin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00295876864:1886081401:0139/pct:63.872695761777216,30.67551397802676,13.943595399401293,5.373653867072773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00295876864:1886081401:0139/pct:63.872695761777216,30.682765872584213,13.959350874428864,5.373653867072773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -80,7 +80,7 @@ Where rumor of oppression and deceit,
 Of unsuccessful or successful war,  
 Might never reash cue inure. My ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813032301:0572/pct:51.25876354365838,13.561691716183153,18.021032504780116,3.1632296399860187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813032301:0572/pct:51.25059741914927,13.560506771515946,18.023471934575966,3.165865734673074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ Where rumor of oppression and deceit,
 Of unsuccessful or successful war,  
 Might never reach me more.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813032601:0386/pct:26.978584729981378,76.49862776253069,19.622905027932962,3.495594395493283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813032601:0386/pct:26.972306260181522,76.48757943385327,19.6241563881778,3.498700173310225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ Where rumor of oppression and deceit,
 Of Unsuccessful or successtul w ar  
 Might never reach me more ; My ear is pain’d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1817062401:0482/pct:56.72971705486947,65.71039579889137,18.336720337658278,6.126616746085773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1817062401:0482/pct:56.72085026570803,65.70400622325943,18.337761800562674,6.128451964216258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ Where rumor of oppression and deceit,
 Of unsuccessful and successful war,  
 Might never reach me more. My ear is pain&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839033001:0045/pct:10.387469084913437,46.58132091940646,18.89942291838417,4.30608088449229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839033001:0045/pct:7.793814432989691,34.9432644748327,14.185567010309278,3.2295606633692175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ garnished the delightful essays and docu
 ments tiiat have since emanated from his  
 brilliant pen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1846091001:0465/pct:87.96102992345163,122.44042943178843,19.29366736256089,5.315527625032731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1846091001:0465/pct:65.98225160953541,91.83032207384132,14.477118496606925,3.9931919350615344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ brilliant pen.
 &quot;Where rumor of oppression and deceit  
 Of unsuccessful and successful war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1846092901:0167/pct:337.9154078549849,206.24002321869105,42.06948640483384,4.063270933101147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1846092901:0167/pct:84.47885196374622,51.56000580467276,10.51737160120846,1.0158177332752867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ Of unsuccessful or successful war,
 Might never reach him more.&quot;  
 ami once more &quot;pulling up stakes&quot; to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1853102001:0041/pct:69.18808411214954,29.650623518499433,18.29731308411215,4.8644749046686595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1853102001:0041/pct:51.91352614665498,22.240544161599505,13.730645632486123,3.648356178501494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ Where rumor of oppression and deceit.
 Of unsuccessful or successful war,  
 Might never reach me more ! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152342:1861090401:0065/pct:28.272330170206356,50.44994375703037,10.543756589847868,2.2159730033745784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152342:1861090401:0065/pct:28.272330170206356,50.44994375703037,10.55379826279058,2.2309711286089238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ Where rumor of oppression and deceit,
 Of unsuccessful or successful war,  
 Might never reach me more. My ear is pained
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191411:1864113001:0517/pct:170.71264367816093,212.90436005625878,44.50574712643678,6.9971870604782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191411:1864113001:0517/pct:42.67816091954023,53.226090014064695,11.126436781609195,1.74929676511955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ Where rumor of oppression and deceit,
 Of unsuccessful, or successful war,  
 Might never reach me more. My ear is pai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864120201:0982/pct:142.1889616463985,202.48618784530387,56.59494855004677,10.773480662983426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864120201:0982/pct:35.55555555555556,50.62154696132597,14.152046783625732,2.6933701657458564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ deceit, of unsuccessful or successful war
 might never reach him more.” He would  
 have shown a much nobler spirit If, instea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_keota_ver01:data:sn83025510:00340585677:1885021401:0522/pct:55.25777033314722,75.2542372881356,12.73031825795645,3.0117340286831813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_keota_ver01:data:sn83025510:00340585677:1885021401:0522/pct:55.262423227247346,75.2542372881356,12.73031825795645,3.0215123859191655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -624,7 +624,7 @@ That is the way customers come to those
 who advertise in The Cnitic.  
 Wants of 3 lines in The Critic 3 times 25c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82000205:00211102846:1885113001:0742/pct:20.13372956909361,18.637570038336772,351.04011887072807,17.457976997935713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82000205:00211102846:1885113001:0742/pct:5.035302861389818,4.659392509584193,87.79264214046823,4.364494249483928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ Where rumor of oppression and deceit,
 Of unsuccessful or successful war,  
 Might never reach me more.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82000205:00211102846:1885121401:0794/pct:20.4801200300075,17.16307873783545,340.960240060015,11.795930404010617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82000205:00211102846:1885121401:0794/pct:5.120030007501875,4.290769684458862,85.24006001500375,2.9489826010026543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ hot stove lid without help. Be that as
 it may, he was surely disgusted with  
 the world. Perhaps the world had se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90060762:00199919763:1894080901:0072/pct:29.983416252072967,46.941457586618874,14.643449419568823,16.332138590203105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90060762:00199919763:1894080901:0072/pct:29.983416252072967,46.941457586618874,14.6489773355445,16.332138590203105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ hot stove lid without help. Be that as
 it may, he was surely disgusted with  
 the world. Perhaps the world had se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90060762:00199919763:1894080901:0073/pct:30.812603648424545,47.34767025089606,14.593698175787727,16.344086021505376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90060762:00199919763:1894080901:0073/pct:30.818131564400222,47.35563520509757,14.599226091763406,16.352050975706888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ ceit.
 &quot;Of unsuccessful nnd successful war,  
 &quot;Might never reach me morel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:00175031418:1899060301:0432/pct:34.73298002445984,7.2211011818968,16.061964940888707,11.314499855866243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:00175031418:1899060301:0432/pct:34.74656882728632,7.230710098971846,16.055170539475473,11.314499855866243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

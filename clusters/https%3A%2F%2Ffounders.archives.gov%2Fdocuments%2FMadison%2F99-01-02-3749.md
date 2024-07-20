@@ -122,7 +122,7 @@ opies ofletters which lately pas ! be­
 department of state, and Mr.  
 in- I have tie honor to be, with the hi ches
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809020101:0002/pct:76.35802469135803,2.8627450980392157,19.25925925925926,13.437908496732026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809020101:0002/pct:76.37174211248285,2.8627450980392157,19.252400548696844,13.442265795206971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ l
   
 4
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809020201:0200/pct:5.2654932702262975,2.615204256470376,49.001626978257654,93.95797637298223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809020201:0200/pct:5.264714581484768,2.6149684400360687,48.99930986887509,93.95250976856026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ with the highest consideration,
 Sir,  
 tour obt. humble sevvn.i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809020301:0346/pct:42.3716687533536,17.0752847944527,17.17045251296727,20.071817731550272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809020301:0346/pct:42.36409155937053,17.073170731707318,17.173342870767762,20.07345961784491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ arose out of circumstances,” will be found
 explained in the same letter by passages  
 which immediately follow the remark
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809020301:0347/pct:6.1195613724796605,11.28052559811578,16.908383445348427,3.9171935044006445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809020301:0347/pct:6.1184792219274975,11.279127416955875,16.911287945770706,3.9208395306560897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ and Mr. Erskine.
 wnii the highest consideration,  
 your ob*. hnmbie v-r\*nt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809020301:0044/pct:5.776105362182502,14.990316333118141,17.347130761994357,21.80761781794706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809020301:0044/pct:5.775018811136192,14.98838109992254,17.35013794833208,21.809105775023667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ I have the henour to he,
 With the highest consideration,  
 Sir,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809020401:0338/pct:3.2853171594642405,38.315926892950394,21.784179934293658,21.279373368146214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809020401:0338/pct:3.284487114704396,38.3096753140806,21.78499242041435,21.279980420949585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

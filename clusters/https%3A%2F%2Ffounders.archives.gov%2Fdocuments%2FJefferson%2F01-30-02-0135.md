@@ -1022,7 +1022,7 @@ ni the moving ir. Were this its&#x27;oidy office the
 prucV.ce. lint the fod is to he turned over alfo. To  
 do this the one *oge in it is not to lie raifed at all ; fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805080601:0108/pct:1.497566454511419,13.19197562214322,18.981654810932234,30.11681056373794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805080601:0108/pct:1.4972861688190156,13.190300875968008,18.984340882151102,30.11721890736744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ defer.h»* it. Whatever1 may not be intelligible from
 tie delta iption, may be fuppiied from the model 1 fend  
 you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805080601:0108/pct:1.497566454511419,43.86744540375825,18.625982777985772,21.66074149314373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805080601:0108/pct:1.4972861688190156,43.86187634886378,18.628735417056586,21.662223350683423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1130,7 +1130,7 @@ cic-: ■ as in nation*, which keep the fword of the
 jav. m perpetual adtvity. Public reproach, a refu­  
 pa! of common offi. tfjf, interdidion of th.- commerc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805080601:0108/pct:2.3025084238113065,66.65820213306247,18.00823661549981,22.536820721178263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805080601:0108/pct:2.3020774845592364,66.64973974863527,18.01110487241874,22.538191358808344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1191,7 +1191,7 @@ a d efteeni, with which I have the honor to be, Dear
 Sir, your affedlionate friend and hcnible fervant.  
 THOMAS J hi-PERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805080601:0108/pct:20.479221265443655,2.2219400711020825,18.420067390490452,25.025393600812595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805080601:0108/pct:20.47538835860004,2.2216579916211754,18.42285856884397,25.02644830942406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1464,7 +1464,7 @@ have the honor to be, dear »»r, your affec­
 tionate friend and humble servant.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805083101:0315/pct:40.120224936978865,12.048351070818551,18.285825092107814,28.458809617658652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805083101:0315/pct:40.11244668476154,12.046768260641093,18.28874240661755,28.4594499912419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2589,7 +2589,7 @@ Public even
 towards redressing wrong, and iitulliplicd in-  
 kli&#x27;J vfiudoiiiilifyiiijr losses.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1846091801:0246/pct:71.32174616006468,122.23064100621306,18.41147938561035,2.0760721321412334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1846091801:0246/pct:53.52881698685541,91.68055766025155,13.832153690596563,1.5608425519018032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2610,7 +2610,7 @@ of indemnifying losses. Jefferson.
   
 The &quot; Arithmetic of Peace&quot; says multiply the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1846111201:0565/pct:28.5659509202454,65.90120160213618,19.401840490797547,3.2176234979973297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1846111201:0565/pct:21.44638403990025,49.42590120160214,14.559754460003836,2.416555407209613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3014,7 +3014,7 @@ a o o o  o o o o o o  e e e ee e e oeee eo
 dressing wrong, and multiplies in  
 stead of indemnifying losses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869051201:0693/pct:161.70212765957447,218.12455261274158,45.171849427168574,7.902648532569793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869051201:0693/pct:40.4503582395087,54.531138153185395,11.299897645854657,1.9756621331424482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3035,7 +3035,7 @@ nations never devise a more rational
 umpire of their differences than force?’  
 The philosophical mind of Frankli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528864:1871011901:0296/pct:45.381734969835655,25.410769481047666,9.39255252756397,3.0909386692695624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528864:1871011901:0296/pct:45.38866930171278,25.41348083075755,9.389085361625407,3.0882273195596768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3121,7 +3121,7 @@ acrong, and multiphes instead of indemnift­
 ing losses.&quot; And Franklin who used so  
 often to repeat his favorite maxim, &quot;ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1873082201:0559/pct:339.2378263937897,180.77370940613275,39.44954128440367,15.88821322292664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1873082201:0559/pct:84.80945659844743,45.19342735153319,9.862385321100918,3.97205330573166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3270,7 +3270,7 @@ One may live as a conqueror, or as a
 king, or a magistrate, but he must die  
 a man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1876012001:0215/pct:58.40530226953204,56.70889720702563,12.37196224141394,5.096458393319896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1876012001:0215/pct:58.393574297188756,56.70073412984022,12.374497991967871,5.099323448970779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3343,7 +3343,7 @@ myself. Will nations never devise a more rational um
 pire of differences than force! Must blood  
 and treasure always flow before interna
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175038024:1884071001:0084/pct:156.96734059097977,81.35818908122504,44.93001555209953,6.8464269862405684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175038024:1884071001:0084/pct:52.32244686365993,27.119396360408345,14.976671850699844,2.282142328746856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3363,7 +3363,7 @@ that sentiment no one is responsible but myself. Will
 nations never devise a more rational umpire of dif­  
 ferences than force? Must blood and treasure alway
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210065:1884071001:0072/pct:20.676982591876207,54.45990180032733,14.835589941972922,2.414075286415712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210065:1884071001:0072/pct:20.683430045132173,54.46899436261138,14.835589941972922,2.4049827241316604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3404,7 +3404,7 @@ ment no one is responsible but myself. Will
 nations never devise a more rational umpire  
 of differences than force: Must blood an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83008556:00296028538:1884071701:0318/pct:78.51417119954193,53.840186190845614,13.899227025479531,2.0461598138091546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83008556:00296028538:1884071701:0318/pct:78.51417119954193,53.84665115076287,13.908769920793969,2.0493922937677786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3436,7 +3436,7 @@ wilt loathe it.
 Will nations never devise a more ra- %  
 tional umpire of differences than force? ?|
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287356:1890030501:0145/pct:83.90121913097843,26.198905696813647,16.25507971241013,4.463040446304045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287356:1890030501:0145/pct:83.90121913097843,26.206058005221184,16.2654996353027,4.463040446304045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

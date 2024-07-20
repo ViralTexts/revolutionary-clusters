@@ -502,7 +502,7 @@ Administration on the said Inteftate’s Estate ; and
 praying, that he may beauthorifed and impower=  
 ed to fell and convey that Part of the (aid Estat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764030201:0182/pct:4.062706999337602,3.5404840155363013,58.68845219695297,92.27666567074992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764030201:0182/pct:4.070066975785678,3.5504431829499055,58.695812173401045,92.26670650333632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -985,7 +985,7 @@ pariel for hur Body of all sorts both Wool­
 in and limn, also ye benefit of half my  
 dwelling lious and use of half ye sellai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174348:1865072701:0332/pct:17.399017467248907,59.6509562127704,12.18613537117904,13.951301076392518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174348:1865072701:0332/pct:17.39664347114204,59.64472309299895,12.189020785009324,13.953326367119471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1021,7 +1021,7 @@ day and year aboue written Signed sealed
 published and declared by ye sd John Dur­  
 ke as his last will and Testament In y
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174348:1865072701:0332/pct:30.131004366812228,31.622949106489706,12.213427947598253,10.941582192496604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174348:1865072701:0332/pct:30.126893164142448,31.619644723093,12.216309637513076,10.943921978404736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1084,7 +1084,7 @@ bless me with in this life, I give and dis-
 pose of them in the following manner and  
 form,&quot; &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296254:1867011801:0438/pct:76.73031026252983,141.20028337212833,55.48926014319809,39.550652767938466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296254:1867011801:0438/pct:19.191165497686914,35.30007084303208,13.878525593195045,9.887663191984617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1142,7 +1142,7 @@ mighty power of God, and as touching such
 worldly estate as it hath pleased God to bless  
 me with hear in this Life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1870101401:0381/pct:114.05185961236249,48.34945646753765,33.28968046097433,19.33778797247432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1870101401:0381/pct:38.01230849810135,16.11487834064619,11.095107153768932,6.445286531046404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1483,7 +1483,7 @@ by me in any wise made,
 and delivering this and no other to be  
 my last will and testament. Given unde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190893:1874092801:0936/pct:38.02747791952895,31.99291408325952,15.039254170755642,10.363153232949513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190893:1874092801:0936/pct:38.045878312070656,32.001771479185116,15.051521099116782,10.380868024800709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1600,7 +1600,7 @@ That is to say: Principally and first of all,
 1 give and recommend my soul into the  
 hand* of Almighty God that gnvo it, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193468:1881010101:0010/pct:26.61587613664291,34.68570433571304,13.418530351437699,8.427651053456382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193468:1881010101:0010/pct:26.62816416810027,34.69876371234547,13.43081838289506,8.427651053456382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1649,7 +1649,7 @@ testament. In witness whereof I have
 hereunto set my hand affixed my seal  
 this 23d day of Jan&#x27;y, 1780. Signed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762234:1882101001:0175/pct:17.440938639606784,12.47577519379845,10.76581576026637,6.237887596899225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762234:1882101001:0175/pct:17.452830188679247,12.47577519379845,10.76977960995719,6.253028100775194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1687,7 +1687,7 @@ ner at the discretion of my executors
 hereinafter named, and as to such worldly  
 estate as it hath pleased God to bless m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349554:1882120101:0410/pct:15.929203539823009,4.228410832907511,11.193051458538184,12.28921819110884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349554:1882120101:0410/pct:15.926593478617074,4.227870737003449,11.195313780108144,12.290841742240389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1833,7 +1833,7 @@ thing I possess to be sold, to the best ad­
 vantage, and equally divided among my  
 children, which is John (Eakle, Benjami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762349:1885061701:0105/pct:81.89280540801545,71.02955911823648,10.703363914373089,8.667334669338677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762349:1885061701:0105/pct:81.89682922903589,71.03895290581163,10.723483019475294,8.667334669338677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1902,7 +1902,7 @@ provides if the chitdren do not obey their
 mother they are to be sent away trom home,  
 but she is to pay for their maintenanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887061101:0505/pct:17.344589409056024,54.498419085944235,51.57329240214889,46.45012934751365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887061101:0505/pct:4.336147352264006,13.624604771486059,12.893323100537222,11.612532336878413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1957,7 +1957,7 @@ hat is to say principally and first of all
 give and recommend my soul into the  
 ands of Almighty God. that gave it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685312:1887082501:0344/pct:61.81008430093844,53.930131004366814,10.434229362175918,3.396409509946628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685312:1887082501:0344/pct:61.80025445292621,53.92359005457853,10.436545801526718,3.399029714978775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1992,7 +1992,7 @@ in this life, After my funeral Expenses and
 all oilier my Just Debts are paid and Satis­  
 fyed, I dispose of in the|Manner following. &quot;-• 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kasota_ver01:data:sn90059522:00175033415:1889050201:0023/pct:38.08425584255843,15.321556402263019,11.546740467404675,7.678097217411384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kasota_ver01:data:sn90059522:00175033415:1889050201:0023/pct:38.08425584255843,15.32925374283185,11.551865518655186,7.670399876842551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2067,7 +2067,7 @@ unto set our hands and seal, the day
 and year above written. Senior class  
 B. S. N. S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776853:1891070301:0226/pct:48.34947183098591,25.537674838321553,19.366197183098592,9.625507595127086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776853:1891070301:0226/pct:36.291565734419734,19.160776056549857,14.534243558687514,7.2191306963453155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2096,7 +2096,7 @@ Class, as a codicil to their last will and
 testament, in the presence of us the  
 subscribers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776853:1891070301:0226/pct:48.26144366197183,71.18363663708828,19.432218309859156,12.10708377199579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776853:1891070301:0226/pct:36.22550099097115,53.39148744172056,14.600308302136094,9.084072792901187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2118,7 +2118,7 @@ and depose our gigantic mental ability
 into the hands of the school directors  
 of the commonwealth, and the di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776853:1892070101:0669/pct:27.42587601078167,13.267148014440433,19.743935309973047,5.670878459687124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776853:1892070101:0669/pct:20.584269662921347,9.957882069795428,14.831460674157304,4.256919374247894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

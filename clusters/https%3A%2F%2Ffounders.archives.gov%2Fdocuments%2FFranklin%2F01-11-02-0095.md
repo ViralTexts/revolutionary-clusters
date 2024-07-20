@@ -319,7 +319,7 @@ unto our said attorney full power and authority to do and
 perform all and every act and thing whatsoever requisite  
 and necessary to be done in and about the premises, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857070801:0589/pct:100.55338541666667,160.68685042928152,46.533203125,11.873023045639403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857070801:0589/pct:33.517795138888886,53.562283476427176,15.511067708333334,3.957674348546468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ Time for appearing enlarged until the 9th day of March
 next.  
 Dated FEaRUARr 3, 1874
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874021601:0543/pct:100.21808421405804,218.6649307610368,46.955208857574235,12.202627529885193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874021601:0543/pct:33.40602807135268,72.88831025367894,15.651736285858078,4.067542509961731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ United States Nary, at ay thesyper giving and grant
 unto-er atld attorney by these presents, ull and en  
 power and authority, in and about the premises;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877080901:0468/pct:247.78731836195507,193.4405800385182,51.20541611624835,10.026056417808995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877080901:0468/pct:82.59577278731837,64.48019334617273,17.068472038749448,3.342018805936332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ tents and purposes as we might or could do ir
 personally present.  
 Witness our hands this 7th day of July, A.D
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553986:1879070701:0024/pct:229.11343399148276,35.83844580777096,49.806426635694926,20.41155419222904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553986:1879070701:0024/pct:57.26727307915618,8.958466453674122,12.449196826011224,5.10223642172524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -222,7 +222,7 @@ the law of nations does not require the U. S. to
 prohibit.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816123101:0300/pct:52.89915268316996,8.387826961770624,14.886193719887025,13.682092555331993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816123101:0300/pct:52.89036544850498,8.386772287187226,14.889258028792913,13.684563477094597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ liws and which the law of nations does not
 Mquire the Uoited States to probhibit.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817010801:0414/pct:0.0,17.471736896197328,21.72,19.310266072856002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817010801:0414/pct:0.0,17.47934985345057,21.733333333333334,19.314072551482624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ gerops expeditiens ; and of a private commerce
 i mibiary stores permitteddt by our taws, and  
 which thie aw of nationts does not require th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817011401:0006/pct:22.33373277411624,74.4295508032334,16.95626123427202,14.939117978102937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817011401:0006/pct:22.338725783902536,74.4295508032334,16.961254244058317,14.939117978102937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ stores permitted by our laws, and
 which the law of nations does not require  
 the United States to prohibit.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849061901:0044/pct:30.537634408602152,3.285290377278508,28.70967741935484,94.03348876642646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849061901:0044/pct:30.5421146953405,3.292355517874806,28.705197132616487,94.03348876642646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -811,7 +811,7 @@ was passed for the express purpose of
 meeting the rolnt made by the counsel for  
 the Three Friends, and Chief Justice Ful
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn84024441:00211102433:1897041201:0152/pct:69.63636363636364,78.62518252274515,17.939393939393938,9.805683477479501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn84024441:00211102433:1897041201:0152/pct:46.43127746628277,52.42053240480737,11.971510834974996,6.537122318319668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

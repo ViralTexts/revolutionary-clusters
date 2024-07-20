@@ -390,7 +390,7 @@ monwealth ; keepers of the public, district and cOun­
 | ty jails, and of the public hospital; millers actually  
 and necessarily employed in the management of wate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811032901:0065/pct:24.168005508377323,8.507291964541036,22.653201744319485,10.809265084358021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811032901:0065/pct:24.16245984396512,8.506075768406005,22.6537402478201,10.811293781272337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ ing words:
   
 faithful and true to the commonwealth of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023295:00200296096:1844062001:0854/pct:75.93984962406014,171.00817438692098,58.22890559732665,18.310626702997276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023295:00200296096:1844062001:0854/pct:18.992895946510657,42.752043596730246,14.563309653155036,4.577656675749319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ panies, the free mulattoes in said com­
 panies or battalions to be employed  
 as drummers, fifers, and pioneers. Again
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857072401:0756/pct:238.67721063982745,154.20941672522838,43.56578001437815,10.00702740688686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857072401:0756/pct:59.69075871988493,38.552354181307095,10.895361380798274,2.501756851721715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ the free mulattoes in said companies or bat­
 talions to be employed as drummers, fifers  
 and pioneers.&quot; Again: &quot;All free born mal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857080601:0339/pct:64.1185647425897,150.8048743794193,51.40405616224649,11.85497216789529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857080601:0339/pct:16.035895435037066,37.70121859485482,12.856028092079594,2.9637430419738227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ ed into battalions,&quot; &amp;!,
 quivocal, in the first yonr of our independence.  
 &quot;All free male person&quot; nre exprossly recognised a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1858020601:0747/pct:47.272074659009334,79.54267047774601,18.16223977027997,8.438818565400844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1858020601:0747/pct:35.482133237565094,59.65700285830951,13.629017776979708,6.329113924050633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ wealth into a militia, and disciplini.t i the same
 1Assembly, that all free male person^ hired ser1  
 vants, and apprentices, between e ages o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858021101:0247/pct:28.126123965951326,50.96572618822193,11.713223834072654,2.461654989585306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858021101:0247/pct:28.1341166127163,50.97203812409266,11.705231187307676,2.4648109575206716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -688,7 +688,7 @@ Here we have it on the record, pi- .n and unequivocal,
 in the first ]fear of our in&gt; &gt;pendence.  
 &#x27; All tree male persons&quot; are expr* tsly recognise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858021101:0247/pct:28.16209087639372,53.62620715773528,14.30284138592495,4.5540617307328155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858021101:0247/pct:28.170083523158695,53.62620715773528,14.30284138592495,4.560373666603548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ while on duty at any muster, the commanding
 officer may cause him to be confined for the  
 day. And that the commanding officer of eac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861050901:0431/pct:147.2811059907834,277.8328490856264,56.774193548387096,10.801572380789608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861050901:0431/pct:36.82027649769585,69.4582122714066,14.193548387096774,2.700393095197402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ of the public hospitals and lunatic asy?
 lums, and the superintendent of the  
 penitentiary and his assistants.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aqua_ver01:data:sn83045830:00175031613:1898042401:0353/pct:16.25,41.382488479262676,14.484126984126984,10.87557603686636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aqua_ver01:data:sn83045830:00175031613:1898042401:0353/pct:16.263227513227513,41.38760880696365,14.477513227513228,10.87557603686636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

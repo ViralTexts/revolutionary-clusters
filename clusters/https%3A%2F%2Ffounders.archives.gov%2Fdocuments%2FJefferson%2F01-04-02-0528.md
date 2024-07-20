@@ -40,7 +40,7 @@ ed with tho lessor seal of the Commonwealth
 and made patent.  
 Witness, James McDowell our Governor, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845101601:0361/pct:4.2513058618688335,61.871866295264624,14.14683691236216,4.56824512534819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845101601:0361/pct:4.250689104889018,61.86497326203209,14.149620387833068,4.5714497920380275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -59,7 +59,7 @@ ed with the lesser seal of the Commonwealth
 and made patent.  
 VA itness, James McDowell our Governor, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845102301:0365/pct:33.24507208002353,54.45888415863769,14.31303324507208,2.5879453282545373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845102301:0365/pct:33.24018237976173,54.452783689929426,14.315830759425406,2.5913894178708787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -78,7 +78,7 @@ ed with the lesser seal of the Commonwealth
 and made patent.  
 Witness, J ames McDowell our Governor, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845110601:0373/pct:77.11215778628201,63.1855244052273,14.527524286134826,2.4572768904277895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845110601:0373/pct:77.10080941869022,63.17846772392227,14.530291881285258,2.460725187997915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ ed with the lesser seal of the Commonwealth
 and made patent.  
 Witness, James McDowell our Governor, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845111301:0377/pct:62.4963375329622,69.33558558558559,14.635218283035453,4.54954954954955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845111301:0377/pct:62.48718324300571,69.32777840333296,14.637957130999462,4.552790601658972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ In tastimony whereof, these our Letters are sealed with the Less
 of the Commonwealth, and made patent  
 Withess John Letcher, our Governor, at Richmond
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861051301:0452/pct:4.482114638701336,115.41764645741745,39.18977158454245,10.469277170023515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861051301:0452/pct:1.4938236139040506,38.46861582498467,13.061380829263621,3.4894023035507393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ sealed with the Less Seal of the Commonwealth,
 and made patent.  
  Withess.-Jone LeTCHer, our Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861051301:0458/pct:177.21311475409837,270.8729565124479,38.10730253353204,8.184635110588738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861051301:0458/pct:59.07103825136612,90.2909855041493,12.702434177844014,2.7282117035295794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ Sea&#x27; of the Commonwealth, and made patent.
 Witness-John Letcher, our Governor, at Richmond,  
  a a a  e eo e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861051401:0456/pct:165.1006711409396,207.985257985258,38.14079680137084,15.91932841932842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861051401:0456/pct:55.02569960022844,69.3213225509264,12.711783742623263,5.305899614426587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ sealed with the Less Seal of the Commonwealth,
 and made patent.  
 , Witness--JonN LEtChEr, our Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861051401:0463/pct:123.78539493293592,175.6170531039641,37.52608047690015,14.082701143284538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861051401:0463/pct:41.26179831097864,58.53901770132136,12.50869349230005,4.694233714428179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ for a member of the Coavention to fill the vacaacy
 In testimony whereof, these our letters are  
 sealed with the Less beal of the Commonwealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861051501:0467/pct:126.8107302533532,150.02671225558285,37.79433681073025,7.874772945827545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861051501:0467/pct:42.2702434177844,50.00890408519429,12.598112270243417,2.6249243152758486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ In testimony whereof, these our Letters are soaled with the Less
 Seal of the Commonwealth, and made patent.  
 Witness- John Letcher, our Governor, at Richmond
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861051701:0468/pct:164.86180014174346,163.31162222674536,37.73210489014883,4.3150824343578265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861051701:0468/pct:54.94614512471655,54.431667853871986,12.575585789871504,1.4382144432007056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ oe ooe e o o on e
 By the Governor:  
 GerOR W. NursOrd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861052101:0480/pct:167.7,15.550557202740006,38.02857142857143,7.923525201922094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861052101:0480/pct:55.892015426367664,5.18298916377019,12.674379850497548,2.6409050637224833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ In testimony whereof, these our Letters are sealed with
 the Less Henl of the Commonwealth, and made paten&#x27;.  
 . Witness?John Iatchkm, r.ttr Governor, at lltch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861052101:0638/pct:61.017628205128204,43.63458720078163,12.219551282051283,2.442598925256473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861052101:0638/pct:61.02207977207977,43.63784399934864,12.228454415954415,2.442598925256473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ wealth  F. H. PEIRPOINT.
 By the Gevernor,  
 J. M. HErNdON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866041801:0360/pct:59.31619401007156,44.93349667483374,47.64113437582825,11.226811340567028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866041801:0360/pct:19.772064670023855,14.977832224944581,15.880378125276085,3.742270446855676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ sealed with the Less seal of the Common
 wealth, and made patent. Withess,  
 SSEAl) FrANeIS lI PEIRFOINr, our Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866042501:0384/pct:86.33639632441071,195.41436464088397,41.08403249434013,10.70902394106814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866042501:0384/pct:28.77879877480357,65.13812154696133,13.694677498113375,3.569674647022713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ sealed with the Less Seal of the Common
 wealth, and made patent. Witness,  
 fSEALl FRANCIS H. PEIEPoigr, our Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866043001:0396/pct:129.14593140551446,255.0984883188273,41.761936785474106,10.81081081081081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866043001:0396/pct:43.04864380183815,85.0328294396091,13.920645595158037,3.6036036036036037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ sealed with the Less Seal of the Common-­
 wealth, and made patent. Withess,  
 ISEALl FRANcIS H. PeIapoiEr, our Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866050701:0421/pct:169.95449678800856,83.1263696128561,40.805674518201286,10.692111029948867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866050701:0421/pct:56.651498929336185,27.70878987095203,13.601891506067094,3.564037009982956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ sealed with the Less Seal of the Common-­
 wealth, and made patent. Witness,  
 fSEALl FEANEIS H. PSIRPOiNr, our Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866050901:0431/pct:132.2259583053127,161.650036954915,40.84734364492266,10.624538063562454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866050901:0431/pct:44.075319435104234,53.88334565163834,13.615781214974222,3.5415126878541514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ sealed with the Less Seal of the Common-­
 wealth,and made patent. Witness,  
 FSEall FAANEIS H. Pataroier, our Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866052201:0475/pct:174.12402485786063,171.1522443313281,40.922914187491735,11.031929662193429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866052201:0475/pct:58.04134161928688,57.0507481104427,13.64097139583058,3.6773098873978096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ in the 94th year of the Commonwealth.
 ad ereG.O WALKER.  
 By the Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870112901:0526/pct:131.62231527759016,267.12971481140755,41.942455761177904,14.553817847286108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870112901:0526/pct:43.87410509253006,89.04323827046917,13.9808185870593,4.851272615762036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ in the 9sth year of the Commonwes ith.
 esaG. C. WALKER.  
 By the Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870120101:0534/pct:214.08564503097227,250.68256279577722,41.77215189873418,14.87986894794321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870120101:0534/pct:71.36188167699075,83.56085426525907,13.924050632911392,4.959956315981071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ JAMES MCDONaLD,
 Seery of the Common wea th. o  
 MEW LEATHER AND
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870120201:0538/pct:255.04241281809612,200.00916002564807,41.093308199811496,18.81469268113951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870120201:0538/pct:85.01413760603205,66.66972000854936,13.697769399937167,6.271564227046502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ in the 6th year of the Commonwesith.
 feeal GC.WALKEa.  
 ny the dovernog
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870120501:0547/pct:172.24412124507273,276.5961361545538,42.136740519233385,15.00459981600736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870120501:0547/pct:57.414707081690906,92.19871205151794,14.045580173077795,5.001533272002454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ in the 5sth year of the Commonwes lth.
 ea G. C. WALKER.  
 By the Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870120601:0551/pct:128.22161422708618,269.3629467141943,42.10670314637483,14.879809889406818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870120601:0551/pct:42.7405380756954,89.78764890473144,14.035567715458276,4.9599366298022725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ in the 35th year of the Commonweslth.
 Iseal arG. C. WALEER.  
 By the Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870120801:0559/pct:169.5443973183746,191.11758281761922,41.49678478588042,14.515835456862032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870120801:0559/pct:56.51479910612487,63.70586093920641,13.832261595293474,4.838611818954011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ in the 93th year of the Common weslth.
 G. C. WALEER.  
 By the Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870120901:0562/pct:135.0201342281879,192.6034958601656,41.2751677852349,14.903403863845446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870120901:0562/pct:45.006711409395976,64.20116528672186,13.758389261744966,4.967801287948482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -455,7 +455,7 @@ whole world, he was cast out, into the
 earth, and his angels were cast ont with  
 him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861092801:0308/pct:57.43427017225748,10.294383240021672,13.553943789664551,4.85822647643128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861092801:0308/pct:57.4456029011786,10.294383240021672,13.565276518585675,4.871771717536572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ which deceiveth the whole world: he was
 cast out into the earth, and his angels  
 were cast out with him.” There follow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184431:1879090301:0068/pct:26.569111424541607,26.235034290363828,15.796897038081806,4.870394048587702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184431:1879090301:0068/pct:26.564427992243964,26.231985123198513,15.799988248428228,4.873702154036882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ Devil and Satan, which deceiveth the whole
 world; he was cast out into the earth, and  
 his angeft were cast out with him. . . .Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:0041566395A:1886120401:0332/pct:67.43218249075215,27.06873794293837,15.659679408138102,4.294852269265915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:0041566395A:1886120401:0332/pct:67.43218249075215,27.07550681964328,15.664817098232634,4.29146783091346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ Sec. And the great dragon was cast out,
 that old serpent called the devil and  
 Satan, &amp;c.&quot; It is most astonishing tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762690:1888091901:0174/pct:83.19559228650138,30.044150110375277,14.40771349862259,1.7660044150110374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762690:1888091901:0174/pct:62.413888123449986,22.538631346578367,10.81565169468173,1.3245033112582782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ fought against the dragons, etc. And the
 great dragon was cast out, that old ser­  
 pent called the devil and satan,” etc. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1888111501:0107/pct:57.395114179500794,14.413974821899092,12.05523101433882,1.3369766761003221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1888111501:0107/pct:57.395114179500794,14.413974821899092,12.06408213843158,1.3402296607137048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ old serpent called the Devll, and Satan, which
 decelveth the whole world; he was cast out into the  
 earth and his angels were cast out with him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038589:1892092501:0342/pct:151.4669318746892,112.17508720603128,48.15183159290569,9.35073703161922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038589:1892092501:0342/pct:50.48897729156307,37.39169573534376,16.050610530968562,3.116912343873073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -870,7 +870,7 @@ thrown for a time, but satan rallied
 his forces and got into power again by  
 the invention of popery. lie is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1895101101:0515/pct:48.15698178664354,31.948128499852636,18.9071986123157,5.835543766578249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1895101101:0515/pct:36.13882863340564,23.96109637488948,14.186550976138829,4.376657824933687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -892,7 +892,7 @@ earth and his angels were cast out with
 him.” And the devil is still on earth  
 He is the man with an evil spirit. To
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663625:1895120701:0094/pct:6.548042704626335,68.81822496440437,14.839857651245552,4.959658281917418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663625:1895120701:0094/pct:6.559905100830368,68.81822496440437,14.845788849347569,4.971523493118178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ Satan, which deceiveth the whole
 world: he was cast out into the earth,  
 and bis angels were cast out with him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1898071501:1231/pct:67.71479185119574,116.31533352584465,19.04340124003543,8.518625469246318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1898071501:1231/pct:50.80841638981174,87.23650014438348,14.285714285714286,6.396188276061219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -962,7 +962,7 @@ earth, and his angels were cast
 out with him.&quot; Kev. 12; 7, 8, V.  
 These latter angeli, under th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1899070701:1432/pct:28.45790378006873,66.27957613586878,18.814432989690722,11.728843083176077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1899070701:1432/pct:21.353383458646615,49.716940049354044,14.113856068743287,8.796632312382059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

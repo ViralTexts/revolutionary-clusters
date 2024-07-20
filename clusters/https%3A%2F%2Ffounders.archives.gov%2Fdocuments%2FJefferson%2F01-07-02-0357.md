@@ -95,7 +95,7 @@ ingof awar fomerich iliips, notupon their guard,
 are surprized and taken—This encourages the  
 firft
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789111101:0001/pct:5.659259259259259,6.50853889943074,72.29629629629629,87.2865275142315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789111101:0001/pct:5.666666666666667,6.522770398481973,72.3037037037037,87.27229601518026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -972,7 +972,7 @@ ed many honest, innocent trailers and families,
 whose subsistence was obtained in ser\ ing tin  
 common interests of mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841010901:0512/pct:66.10473457675754,15.902414101417806,16.068866571018653,20.551794609784135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841010901:0512/pct:66.10473457675754,15.910929450334228,16.080822572931613,20.547536935325926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1239,7 +1239,7 @@ serving the common interests of mankind
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1847-04_5_4/page/n23/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1847-04_5_4/page/n23/mode/1up?view=theater)
 
 #### 1847-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

@@ -126,7 +126,7 @@ totality in the latter. In this, however,
 fati»fa£ti in, had we all judged from the  
 Cime pofiiicn 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092901:0001/pct:29.712556732223902,17.571511967308815,42.299546142208776,77.87507297139521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792092901:0001/pct:29.735249621785172,17.58124148667056,42.314674735249625,77.88966725043782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ in the latter. In this, however, I lhould have
 done it with more complete fatisfa&lt;stion, had we  
 all judged from the fame position.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092901:0001/pct:72.3651191969887,31.861691736667318,21.831869510664994,57.45262746630201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092901:0001/pct:72.38864491844417,31.861691736667318,21.824027603513173,57.45262746630201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ ous faith fhallbc uapuni/hcd, does net give
 impunity to criminal ails ditlatcd by religi­  
 ous error.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798121501:0003/pct:6.778868630201028,17.061540753985994,16.80691912108462,9.208761734465803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798121501:0003/pct:6.790556334735858,17.072716435702578,16.812762973352033,9.219937416182388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ redress against the Government for damages.&quot;
 It is remarkable that the only attempt by Con  
 gress to suspend the writ was in the tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861060501:0549/pct:175.0,245.68581169682665,48.99425287356322,15.840545502229215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861060501:0549/pct:43.75785881084965,61.42145292420666,12.250763427339681,3.960136375557304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ gencies, lot him be taken and tried, retaken and re­
 tried, whi&#x27;ie the necessity continues, only giving  
 Imu redress against the government for damages.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022809:1862032601:0102/pct:84.92744063324538,42.84864350309376,19.29419525065963,5.092812946216087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022809:1862032601:0102/pct:63.72484328604421,32.13945740123751,14.467172550313428,3.819609709662066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ gencies, let him be taken and tried, retaken and re­
 tried, while the necessity continues, only giving  
 him redress against the government for damages.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1862032601:0052/pct:86.19217081850533,43.40312815338042,19.00355871886121,5.1715438950555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1862032601:0052/pct:64.66714133143468,32.55549949545913,14.275542897828409,3.884964682139253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ charged at once, or sham plots where it
 was shameful that they should ever havo  
 been suspended.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1863102101:0531/pct:85.04492939666238,61.09846917666529,11.309370988446727,11.977658254033926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1863102101:0531/pct:85.05348737697904,61.09846917666529,11.300813008130081,11.991449455247553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ Mr; JclFcrson, remarks the Xw iiavcir
 Register, was npp is d to the siispei:«i-t!t  
 of the habeas corpus at nil. t Vv.ii ill Suite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863120501:0399/pct:46.38577502899111,45.03365846956999,12.272902976420564,8.764940239043824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863120501:0399/pct:46.38577502899111,45.043962082703665,12.282566679551604,8.7615057013326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ was, to.be necessarily imprisoned. His &#x27; opposition
 to the power of suspension had justly beej doubly  
 as great, bad he supposed that it could be used t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1864082601:0351/pct:50.050641458474004,103.59049005337215,19.9696151249156,6.477438136826783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1864082601:0351/pct:37.5548801080716,77.69286754002911,14.994934143870314,4.864143619602135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ was to M necessarily imprisoned. His opposition
 to the pewer of suspension had justly been doublv  
 &#x27; as great, had he supposed tiat it could be used t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1864083101:0515/pct:48.346656976744185,107.07161125319693,20.148982558139537,6.253196930946292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1864083101:0515/pct:36.27112484099582,80.30690537084399,15.119025985825914,4.69309462915601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

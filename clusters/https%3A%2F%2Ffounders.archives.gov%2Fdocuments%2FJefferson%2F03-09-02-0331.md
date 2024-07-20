@@ -73,7 +73,7 @@ statement and vouchers herewith transmitted for the de­
 cision ol the Second Comptroller of (he Treasury thereon.  
 T. WATKINS, Auditor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833051001:0008/pct:81.23551070503204,38.474222271078375,14.864312014182463,2.2644827965263272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833051001:0008/pct:81.2244341423507,38.46999340514399,14.866830288155622,2.2678977064556314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ statement and vouchers herewith transmitted for the deci­
 aiou ol the Second Comptroller of the Treasury thereon.  
 &#x27;I. W A I Iv INS, Auditor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834011601:0309/pct:34.081884157195674,79.22705314009661,14.596741065315623,2.7119016249451033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834011601:0309/pct:34.07721796276013,79.2183554726095,14.599306316173786,2.7152632927141656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ vouchers herewith transmitted for the decision of the
 Second Comptroller of the Treasury thereon.  
 W. B. LEWIs, Second Auditor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743154:1842032601:0344/pct:193.59143327841846,138.66446826051114,51.31795716639209,11.035213755741374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743154:1842032601:0344/pct:64.53047775947282,46.22148942017038,17.105985722130697,3.6784045852471245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ requisition, as appears from the statement and
 vouchers herewith transmitted for the decision ol  
 the Second Comptroller thereon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850091301:0276/pct:66.5474316783517,30.735590939672573,13.02046072399485,1.4352993944830679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850091301:0276/pct:66.5569704774169,30.739328698512374,13.01569132446225,1.4427749121626672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ Let a draft for the amount be remitted to them, 130 Pearl
 street, New York.  
 Submitted for the decision of the Comptroller thereon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869111401:0563/pct:50.60694135749701,250.18735646077602,51.94050265002564,13.030339659132116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869111401:0563/pct:16.868980452499002,83.39578548692533,17.31350088334188,4.343446553044039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ thereon.
 As appears from accounts and vouchers herewith  
 transmitted for the decision of the Comptrolle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876092601:0001/pct:57.00757575757576,27.18189233278956,13.257575757575758,0.7952691680261011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876092601:0001/pct:57.00757575757576,27.192088091353998,13.264339826839826,0.7901712887438825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ transmitted for the decision of the Comptrolle
 As appears from accounts and vouchers here-  
 with transmitted for the decision of the comptrol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774996:1877092801:0392/pct:111.07921928817451,263.2686980609418,37.54305396096441,2.3490304709141276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774996:1877092801:0392/pct:27.773790727716378,65.81717451523545,9.387110664561504,0.5872576177285319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ as appears from the statement and vouchers here-­
 with transmitted for the decision of the comptroller  
 of the the Treasury thereon. I H. ELA, Auditor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878112301:0685/pct:101.34048257372655,116.30372162691555,46.916890080428956,8.445673464684871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878112301:0685/pct:33.78016085790885,38.76790720897185,15.638963360142984,2.8152244882282904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

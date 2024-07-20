@@ -101,7 +101,7 @@ racy here, seem more determined on resistance to Northern
 oppression than any. Rome of them disagree with the Dem­  
 ocrats as to the name, bat all unite on the remedy. A ge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1860122001:0226/pct:105.54089709762533,38.0059609652918,19.788918205804748,4.451495048553023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1860122001:0226/pct:79.16611690196596,28.506874339005865,14.843646919118617,3.336217671377752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

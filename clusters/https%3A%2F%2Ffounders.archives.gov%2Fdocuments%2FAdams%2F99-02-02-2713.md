@@ -38,7 +38,7 @@ WHEREAS armed vessels, failing un­
 der authority, or pretence of autho­  
 rity, from the Republic of France, hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798052801:0003/pct:56.51302605210421,49.12391475927387,15.831663326653306,2.336227308602999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798052801:0003/pct:56.51302605210421,49.12786108918706,15.856713426853707,2.3480662983425415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +65,7 @@ WHEREAS armed vessels failing un­
 der authority or pretence of au­  
 thority from the republic of France, hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798053001:0002/pct:61.196623634558094,15.177012224162565,15.764647467725919,8.334656294649944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798053001:0002/pct:61.196623634558094,15.188918876012066,15.777060575968223,8.342594062549612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -82,7 +82,7 @@ WHEREAS armed vefTels, failing
 under authority or pretence of authori­  
 ty, from the republic of France, hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798061101:0027/pct:30.25830258302583,89.47986380180815,21.984851427461642,2.512621815193143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798061101:0027/pct:30.25242718446602,89.46935900446114,21.985436893203882,2.5152617985442594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ and he is hereby authorized to grant to the
 owners of private armed (hips and vtflels of  
 the United States, who (hall make applica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798071201:0002/pct:28.96039603960396,26.20135497085237,16.138613861386137,12.446825271781945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798071201:0002/pct:28.972772277227723,26.20135497085237,16.132425742574256,12.450764140538837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ had concerning such capture or recapture in&#x27; due
 form of law, and us to vight shall appertain.  
 By command of the President o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805041901:0457/pct:73.79525918207867,48.39282829914392,22.29747330033863,3.811985139718947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805041901:0457/pct:73.77604166666667,48.38501291989664,22.298177083333332,3.815406976744186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ shall accrue and be distributed as by law is
 or&#x27;shuil be provided respecting the capture  
 which shall he made by the public armed ves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809030301:0379/pct:6.312410841654779,17.980326235836134,16.904422253922966,6.736396463703151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809030301:0379/pct:6.31128543412373,17.97808764940239,16.90735128067986,6.739707835325365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

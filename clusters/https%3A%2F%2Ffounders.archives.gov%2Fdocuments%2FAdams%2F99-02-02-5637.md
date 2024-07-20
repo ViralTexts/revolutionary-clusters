@@ -105,7 +105,7 @@ limited, and also their possessions, and the addition* or
 conquest* that the confederation might obtain during the  
 war, conformably to the .&#x27;ith and Oth article* [Art 12:]
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012301:0096/pct:22.681744749596124,71.23569499807124,15.638126009693053,8.923749517808924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012301:0096/pct:22.692514808831447,71.24426728387124,15.638126009693053,8.91946337490892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ and unlimited, and also their possessions, and the
 ; additions or conquests that the Confederation  
 might obtain during the war. conformably to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851013001:0250/pct:30.485294117647058,11.153884118053499,14.117647058823529,7.857072352186359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851013001:0250/pct:30.495098039215687,11.15717434935676,14.117647058823529,7.857072352186359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ between France and England, the reciprocal guar- ar
 inty declared in that article should have its full jn  
 force and effect the moment such rupturs should g
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:28.50042601533655,84.58415497042107,14.981539335416075,10.219232107644125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:28.50042601533655,84.59188802536443,14.981539335416075,10.215365580172447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ conquests that their confederation might obtain daring
 the war, assumed ver&gt; grave obligations, which she ful­  
 filled in tbe moat noble and generous manner, by sendin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:79.34073107049609,29.651310766098245,15.600522193211487,3.385085263425808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:79.34073107049609,29.651310766098245,15.600522193211487,3.3935691863917876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ recipra, al guarantees declared in the
 rticls shall have full force and effect the moment  
 sugh was shall bhteat oul aates at ryanes to arntest he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743804:1872121701:0995/pct:59.342277486910994,88.83456509380329,46.79319371727749,16.281978396816374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743804:1872121701:0995/pct:19.780759162303664,29.611521697934432,15.597731239092496,5.427326132272125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ reciprocal guarantee should have full force
   
 and effect the moment it should break out.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn82015483:00271762732:1882061701:0586/pct:33.142458100558656,41.20885293787215,13.184357541899441,6.448713627682283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn82015483:00271762732:1882061701:0586/pct:24.86728136350936,30.90663970340411,9.89103101424979,4.842152567127289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ tween France and England the reciprocal guar­
 antee shall have full force and effect the mo  
 merit such war shall break out.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210041:1884031501:0559/pct:63.95897435897436,90.83582089552239,18.666666666666668,4.895522388059701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210041:1884031501:0559/pct:49.56812039637539,70.40678619625989,14.471941073605002,3.790244842876422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ the United States of America.
 (Signed.) SAML. HUNTING-TON,  
 CHAS. THOMPSON, President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0640/pct:14.552305759913871,7.266260162601626,13.20653149111789,6.516768292682927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0640/pct:14.549695012558306,7.265337228502477,13.2086472909939,6.5191159659596085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

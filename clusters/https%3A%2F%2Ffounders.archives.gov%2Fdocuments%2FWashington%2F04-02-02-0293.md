@@ -58,7 +58,7 @@ sumablo this liberty would be taken.
 &#x27;I&#x27;our mast obed. serve.,  
 &quot;U. WASHING PON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1859020901:0752/pct:24.51508620689655,48.3011583011583,16.720545977011493,14.247104247104247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1859020901:0752/pct:18.40071877807727,36.22908622908623,12.560646900269541,10.682110682110682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ Sir,
 &quot;Yr. most obed, servt.,  
 &quot;G. WASHiNGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1859021001:0487/pct:91.38176638176638,61.8563463430633,39.287749287749286,38.75587624357713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1859021001:0487/pct:30.460588793922128,20.618782114354435,13.095916429249762,12.91862541452571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ ould be taken.
 &quot;Yr, most obed, servt.  
 &quot;G. WAsHinGToN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84020047:0029587756A:1859021201:0237/pct:65.33996683250415,262.4256837098692,37.03703703703704,39.00118906064209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84020047:0029587756A:1859021201:0237/pct:16.341766901700538,65.6064209274673,9.263099682012996,9.750297265160523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ presumable this liberty would be taken.
 “Yr. mostobed. serv’t,  
 “GEO. WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1859022601:0240/pct:69.86773215761917,18.622896665634354,12.86855883163406,14.524620625580676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1859022601:0240/pct:69.85810717729714,18.620974401321224,12.87137805942049,14.526562069914672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ able this liberty would be taket. I am
 sir, I&#x27;r most obed, sevi  
 G. WASIlinrTo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536548:1894010201:0015/pct:161.9889502762431,249.4976419930285,50.93922651933702,58.39655525938077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536548:1894010201:0015/pct:40.51962410171365,62.37441049825713,12.741846323935876,14.599138814845192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ not presumable this liberty would be taken.
 I am, sir, your most obedient servnnt.  
 G. Washisgtos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102330:1894011101:0324/pct:92.10805084745763,44.976124154397134,16.843220338983052,12.19657779546359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102330:1894011101:0324/pct:69.10849119088621,33.73458018304815,12.637435421910187,9.152407481098288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ taken.-
 I am, Sir, Yr Most Obed Serv., - !  
 Go. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177325:1896050701:0235/pct:99.09730998375159,53.67267229431775,18.541252933742552,15.257654025450423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177325:1896050701:0235/pct:76.81078307914743,41.596146335112614,14.369665593955506,11.837651347480797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

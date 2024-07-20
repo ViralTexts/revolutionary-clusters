@@ -58,7 +58,7 @@ tion, to be applied to the feparateand refpedtive
 nuntbers of the state? ; and the bill has allotted  
 to eight of the states more than one for 30,000
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792040701:0003/pct:36.709657124882035,35.77620173364854,27.776030198175526,17.001576044129237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792040701:0003/pct:36.709657124882035,35.78605200945626,27.8232148474363,17.01142631993696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ the states : and the bill has allotted to eight
 of the slates more than one for thirty thou­  
 far.d. G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792040901:0002/pct:6.513647642679901,54.78702618210238,21.33995037220844,19.050410316529895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792040901:0002/pct:6.5214019851116625,54.78702618210238,21.36321339950372,19.06506447831184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ be applied to the separate and re­
 and the biil has allotted to eight  
 of the States more than one fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792042501:1001/pct:28.029197080291972,8.361858190709047,20.851581508515814,34.66992665036675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792042501:1001/pct:28.045417680454175,8.367291496875849,20.851581508515814,34.680793262700355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ proportion or divisor, wldeh. a- plied to the respective
 numbers of the states, will \ i.l the number nnd allot­  
 ment of re presentatives pr. posed by the hill.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832050801:0473/pct:3.772271714922049,46.375838926174495,14.977728285077951,2.7404921700223714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832050801:0473/pct:3.771746694502436,46.37065205234314,14.980282996984458,2.7439138053163328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ Iiaratc and respective tin,.. s of the Stales; and the bill l
 has allotted to eight of tin- .. frs more than one for every !  
 thirty thousand. GKO. WASHINGTON.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832050801:0473/pct:34.8413140311804,41.1744966442953,15.17260579064588,8.993288590604028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832050801:0473/pct:34.83646485734168,41.169891511016665,15.175133379726281,8.996010886179771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ rate and respective numbers of the States, and the bill has
 allotted to eight ol the States more than one lor every  
 thirty thousand. “GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832052201:0023/pct:18.672775232541998,60.6823451473998,15.049285020130501,8.832946891906813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832052201:0023/pct:18.670183231538033,60.67564583793332,15.051823061262262,8.835651725914477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ bers of the States; and the bill has allotted to eight
 of the Scates more than one for every 30,000.  
 &quot;GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530169:1842011301:0041/pct:51.431100619651815,190.07788004450288,48.40660961935674,34.71224840699909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530169:1842011301:0041/pct:17.143700206550605,63.359293348167625,16.13553653978558,11.570749468999697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ tho sepernto and respective number of the
 Smtes; and the bill has allotted to 8 of  
 iha Slates more than one for every 30,00
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065337:00295878204:1842090301:0377/pct:24.439252336448597,42.31098430813124,23.10747663551402,21.711840228245364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065337:00295878204:1842090301:0377/pct:18.345407805562047,31.74037089871612,17.340500116849732,16.291012838801713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ tatives proposed by the bill; Second, that the
 bill had allotted to cight of the States more than  
 one for every thirty thousand, the number limite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843052501:0300/pct:103.72093023255815,94.49958643507031,48.822205551387846,28.80479735318445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843052501:0300/pct:34.57364341085271,31.499862145023435,16.274068517129283,9.60159911772815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ tied to eight of the Stutes more than one for every thir
 isand.  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848071501:0715/pct:17.262955238248036,49.32070297893556,13.974009305310444,10.120902405583946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848071501:0715/pct:17.262955238248036,49.329012422618305,13.984705064441949,10.116747683742574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ oconsider the bill passed by the two houses, entitl
 i act for an apportionment of representatives amoi  
 several States, according to the first enumeratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848071501:0715/pct:17.343173431734318,60.47613112302131,13.845660195732393,1.5829490215630064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848071501:0715/pct:17.353869190865822,60.47613112302131,13.84031231616664,1.5912584652457518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ respective numbers of the States; and the bill has allotted
 to eight of the States more than one for every thirty thou­  
 sand. a a G. WAShiNGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072601:0279/pct:23.103748910200522,306.6544209735326,58.28247602441151,32.5290139433915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072601:0279/pct:5.775937227550131,76.66360524338315,14.570619006102877,8.132253485847874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ representatives shall not exceed one for every
   
 thirty thousand, (which he construed to mean
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869072801:0797/pct:114.0215716486903,41.47270418958951,44.99229583975347,19.579630413316405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869072801:0797/pct:28.521873193293505,10.368176047397377,11.254576989786086,4.894907603329101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ not exceed one for every 80,000, they had
 violated that proviso by giving to eight of the  
 states more than one for that number. Fishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1869080501:0126/pct:31.277533039647576,22.684085510688835,12.863436123348018,2.6920031670625493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1869080501:0126/pct:31.27202255109232,22.681092492413246,12.865574348132487,2.6949465628710914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ tives among the several States, according to the
 first enumeration.”  
 2 Rstnrned to the House of Representa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879040301:0207/pct:73.7131757850437,43.32932692307692,10.925865976044028,1.40625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879040301:0207/pct:73.70124615633598,43.32411969715179,10.928143712574851,1.4090854464607618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ and respective numbers of the State
 and the bill has allotted to eight of the  
 states more than one for ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:0041566803A:1892072901:0514/pct:56.840796019900495,213.92469298690753,36.940298507462686,39.24692986907541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:0041566803A:1892072901:0514/pct:18.9469320066335,71.30823099563585,12.313432835820896,13.08230995635847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,7 +857,7 @@ the separate and respective numbers of the
 States; and the bill has allotted to eight  
 of the States more than one for every ,o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871908:1899032701:0268/pct:21.590394200271863,65.75952075310227,16.69687358405075,11.878476679503637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871908:1899032701:0268/pct:16.203966005665723,49.3196405648267,12.53257790368272,8.917415489944373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -895,7 +895,7 @@ the separate and respective numbers of the
 states; and the bill has allotted to eight of  
 ine states more man one tor every so.ooo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109014:1899042301:0037/pct:42.57120862201693,74.58362491252625,16.95535026943803,11.3925822253324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109014:1899042301:0037/pct:31.934552454282965,55.94121763470959,12.723772858517805,8.55143456962911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +940,7 @@ respective numbers of the states; and
 the bill has alloted to eight of the  
 states more than one for every 30,000.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:0020219266A:1899042801:0741/pct:40.0320970042796,55.288317896623845,16.672610556348076,19.002091425156856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:0020219266A:1899042801:0741/pct:30.033886213661493,41.469973110247984,12.50222935616194,14.251568568867643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

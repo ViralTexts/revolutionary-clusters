@@ -632,7 +632,7 @@ me; but God meant it unto good, to bring to
 pass, as it is this day, to save much people  
 alive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588289:1880121101:0387/pct:26.85025817555938,66.3640357299751,17.72805507745267,6.560257724410602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588289:1880121101:0387/pct:20.820364606491776,51.43559674673728,13.733881725211205,5.091734442973331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -801,7 +801,7 @@ me, but God meant it unto good to bring it
 to pass, as it is this day, to save much peo­  
 ple alive.&quot; In almost the very same wor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1894050301:0149/pct:247.7891156462585,193.62643847742697,57.6530612244898,7.435821776335202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1894050301:0149/pct:61.98681131674112,48.40660961935674,14.422463305679642,1.8589554440838005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -819,7 +819,7 @@ against me, but God meant it unto good
 to bring it to pass, as it is this day, to save  
 much people alive.&quot; In almost the ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1894050301:0839/pct:178.4829721362229,212.8547323209081,49.76780185758514,7.915324436263231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1894050301:0839/pct:44.63801780874952,53.21368308022703,12.446767324816106,1.9788311090658077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ me. but God meant it unto good to bring it
 to pass, as it is this day, to save much peo­  
 ple alive.” In almost the very same word
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894050501:0102/pct:35.67615658362989,47.67280037111489,14.279359430604982,1.7627957321787537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894050501:0102/pct:35.66822325995108,47.66542980828695,14.281743384478542,1.7663883735312307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ against me, but God meant it unto goo*,
 to bring it to pass, as it is this day, to save  
 much people alive.” In almost the ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1894050501:0282/pct:77.61087267525036,39.12211130862847,9.817596566523605,1.5451934910433474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1894050501:0282/pct:77.59699624530663,39.116762373530214,9.82031110316467,1.5484003281378178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ me; but God meant it unto good, to
 bring ?0 pass, as it is this day, to save  
 much people alive.&quot; Tbo l&#x27;salmlst also
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelly_ver01:data:sn95079481:00175031789:1896032201:0062/pct:50.13508297954458,81.68533187653647,16.113469702817444,2.362742420103797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelly_ver01:data:sn95079481:00175031789:1896032201:0062/pct:50.13508297954458,81.69443685696076,16.132767271323814,2.3581899298916507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

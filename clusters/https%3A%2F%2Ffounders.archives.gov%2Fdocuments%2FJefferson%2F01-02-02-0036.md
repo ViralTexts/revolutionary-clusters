@@ -166,7 +166,7 @@ nine hundred in width.” In a foot note he adds
 ‘•This was truly upon a small scale.” The nam&lt;  
 of the town was fixed by law, before the town wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348690:1868030401:0277/pct:31.732629727352684,5.940461887598452,12.576956904133684,4.325190228273929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348690:1868030401:0277/pct:31.72704889201548,5.939668980245595,12.57914175167077,4.327949813134009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ Rnalrhridire. there shall ha laid off a town, to
 be (sailed iexington, thirteen hundred feet in  
 length, and nine hundred in width.&quot; In 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663626:1868030701:0431/pct:2.122905027932961,67.69296013570823,16.54872749844817,3.435114503816794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663626:1868030701:0431/pct:2.1311814607903994,67.69578739044388,16.544589282019448,3.4379417585524457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ ami the public buildings for the
 said county shall he erected on the  
 land reserved as aforesaid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:0017503237A:1886022601:0392/pct:66.55879180151025,15.563132424109106,10.648790260440746,23.00923889133304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:0017503237A:1886022601:0392/pct:66.56392869985103,15.570464877548028,10.648790260440746,23.0129051180525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ the Kanawha and New rivers and Mont
 gomery county on the south, and by thi  
 Alleghany mountain on the east, and ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348744:1886070101:0059/pct:61.87977099236641,88.2400461627236,10.782442748091603,5.701096364685516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348744:1886070101:0059/pct:61.86993162664971,88.22986383567967,10.784703450469072,5.703323332564043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ Fairfax Stone, and thence by the
 line run by the commissioners fr&lt; m  
 the said stone to the head of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:0034058854A:1894032201:0095/pct:10.566615620214396,21.080428549871737,18.63924742944651,33.06171721744379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:0034058854A:1894032201:0095/pct:8.194868316943596,16.337270494678986,14.45122640443088,25.634428721786925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ Natural Bridge in the southeast part.
 FIRST SCOTCH-IRI8H SCHOOL.  
 The Hanover Presbytery, then the onl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334961A:1895062101:0314/pct:35.61443433029909,51.3298878104122,11.232119635890767,6.491869406277575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334961A:1895062101:0314/pct:35.60864618885097,51.323418200151245,11.234357224118316,6.494202167885052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

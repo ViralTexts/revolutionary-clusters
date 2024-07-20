@@ -241,7 +241,7 @@ On the 11th of January, 177G, &#x27;Con­
 gress ordered that persons refusing to  
 receive the Continental bills in pay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn85038524:0021247048A:1863031901:0233/pct:27.431539187913124,77.51581368602645,25.59017941454202,10.552041403105234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn85038524:0021247048A:1863031901:0233/pct:20.59518186112423,58.13686026451984,19.20170051960321,7.921219091431857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ whose going at large, may, in their opin­
 ion, endanger the safety of the colony  
 or the liberties of America.&quot; Journa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1868102001:0246/pct:59.347707423580786,108.43793584379358,16.239082969432314,7.275685727568573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1868102001:0246/pct:44.52026750375324,81.33426313342632,12.187798553296028,5.4509530450953045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

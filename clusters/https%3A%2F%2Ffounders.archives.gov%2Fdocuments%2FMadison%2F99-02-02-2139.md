@@ -95,7 +95,7 @@ to speak more pmpoﬂ{‘.th‘l it could be wafe-
 Iy established under the first alone, is &amp; posi­  
 won ot likely Lo be combated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830101401:0566/pct:54.196556671449066,81.33921318324242,16.176470588235293,9.782987118486712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830101401:0566/pct:54.196556671449066,81.34308150555104,16.188426590148254,9.779118796178098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ ho sevea, to expound it, nnd to insist on the exposi
 sition? That tho seven might, iii particular instances  
 &gt;%
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830101501:0334/pct:22.949767292569412,4.017216642754663,36.19001765366715,91.96556671449068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830101501:0334/pct:22.946084724005136,4.01673640167364,36.189559264013695,91.95855748157004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ tinder the locnl Governments ; or, to apeak mote pro­
 perly, that it could be safely established under (he first  
 alone, is a ptsilion not likely to be combatted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830102901:0249/pct:75.68664169787765,83.48776431456403,13.795255930087391,5.405084343074364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830102901:0249/pct:75.67483226712436,83.47784772538306,13.798304467675665,5.408401631230946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ established under the General Government.—
 Mr. Martin, who hail been a member of the con­  
 vention, asserted the same thing to the Legis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833031801:0388/pct:9.090909090909092,64.96476696748671,17.734159779614323,4.413400914822598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833031801:0388/pct:9.089344121191255,64.95673671199012,17.736845125380157,4.4169756901524515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ del the tirsl alone, i* a position not likely to be combatted.” j
 Having quoted the above from the Federalist, Mr. Madi­  
 son proceeded and remarked, “(hat the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833092001:0161/pct:63.675391220052624,64.7710896796364,15.081013710012463,6.606806340760448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833092001:0161/pct:63.666574356134035,64.76391044114386,15.083541032031755,6.609768713515111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -84,7 +84,7 @@ require.
 That on the application of the 9  
 piivat&lt; armed veffels of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802021001:0003/pct:74.22521655437922,9.07930021708594,16.265640038498557,23.100498020687013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802021001:0003/pct:74.23804940648058,9.087813391222918,16.278472890599936,23.104754607755503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ and make prize of all veff-ls, goods and effects,
 belonging to the Bey of Tripoli, or to his fub.  
 jedts, and to bring or fend the fame into por
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802022701:0077/pct:29.229514879739096,42.19011995356636,21.09661638809621,21.256287888559267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802022701:0077/pct:29.243103682565565,42.19011995356636,21.089821986682974,21.26488671052066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ andeffedfs, belonging to the Bey of Tripoli, or 10 his
 fubjedT, and to bring or fend them into port, to be  
 proceeded againft.and diilributcd according to law, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802030101:0762/pct:2.2714681440443214,14.22154048427742,21.75438596491228,16.873014133888464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802030101:0762/pct:2.271048744460857,14.219982471516214,21.754985228951256,16.873904469763364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ of private armed veflels of the United
 States, the President of the United 1  
 States may grant to them {pecial com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802031601:0043/pct:23.351185921958685,19.017495304932293,16.786534047436877,31.007215577740435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802031601:0043/pct:23.351185921958685,19.020790089288656,16.796735526651364,31.010510362096802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ ers of private armed vessels of the
 United States the President of the  
 United States may graut them sp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815030401:0109/pct:39.21625968708876,59.01869569033617,17.780377248135693,29.21969630474853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815030401:0109/pct:39.21052631578947,59.0135158855538,17.782651072124757,29.22005734012053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ Sec. 3.1ntlbe it further enacted,&quot;Hm on the an­
 pb. an on ofthe on iv .-re of private armed vessels ot tlie  
 United States, the President or the United Slides ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815030801:0388/pct:42.067220816769066,42.25699149932241,17.130466208890496,11.506714303314032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815030801:0388/pct:42.05962059620596,42.25178615422518,17.133393556157785,11.509402972817607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ on the application of the owners of private
 armed vessels of the United States, the  
 President of the United States may gran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1815030901:0644/pct:9.382479655337482,4.095513748191028,43.53757778841551,91.91027496382056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1815030901:0644/pct:9.380234505862646,4.094921140211257,43.53314189997607,91.90059325712632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ ol all vesseis, ‘voz aud effects of or belonging to
 the dey of Algiers, or to bis subjects, and 1o bring  
 or send the same int:a‘, to be proceeded againa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815031501:0043/pct:3.7607170693686673,74.54418766693763,21.76539360872954,13.32017187318546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815031501:0043/pct:3.773707456482203,74.54418766693763,21.758898415172773,13.331784926257113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ l tion or hostility, as the state of wat&#x27; will justly,
 Sec. 3. And be it further enacted, That on the  
 application of the owners of private armed ves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815032801:0261/pct:38.81844380403458,12.67398549304058,33.94812680115274,81.82709272691629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815032801:0261/pct:38.823246878001925,12.67398549304058,33.94812680115274,81.82709272691629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

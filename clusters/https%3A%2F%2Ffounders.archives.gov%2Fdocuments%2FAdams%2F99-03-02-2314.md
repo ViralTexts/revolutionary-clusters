@@ -1406,7 +1406,7 @@ didst leave among thy sinful servants; spare us
 from thy wrath, from everlasting damnation. Break  
 not the bruised reed. Quench not the smoking flax
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1825030501:0223/pct:36.07734806629834,36.29050279329609,26.87845303867403,15.888268156424582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1825030501:0223/pct:36.067384700359014,36.282394995531725,26.880235662340052,15.89216562406911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1948,7 +1948,7 @@ silence. In her occasional prayer for a sick per­
 son, we read, “Or else give him grace to take thy  
 visitation, that after this painful life, he ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1860030101:0036/pct:17.94220387424579,21.8863361547763,12.480152429342649,4.171704957678355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1860030101:0036/pct:17.93935545324655,21.883690001209043,12.48214002222575,4.174223189457139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2519,7 +2519,7 @@ and passion, by thy precious death and burial,
 by thy glorious resurrection and ascension­  
 good Lord deliver us.” Each side of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:0039334748A:1881110301:0600/pct:39.04002092597437,34.17383565707505,11.273868689510856,2.4621773954316226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:0039334748A:1881110301:0600/pct:39.03491565319733,34.170456792564764,11.276753410923673,2.465229714587041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2624,7 +2624,7 @@ tribulation, m all time of our prosperity, in
 the hour of death, and m the day of judg­  
 ment. Good Lord deliver us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342132:1885021601:0493/pct:76.94674872892695,20.36659877800407,9.874230666309874,3.890020366598778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342132:1885021601:0493/pct:76.95120863437695,20.36659877800407,9.87869057175988,3.8968092328581125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2648,7 +2648,7 @@ our tribulation: in all time of our prosperity; in
 the hour of death and in the day of judgment,  
 good Lord deliver us.’-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885021601:0402/pct:25.4755886656911,73.47855163848286,18.677663961686843,5.627209324543804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885021601:0402/pct:19.743624991408343,56.948935014932005,14.482094989346347,4.361132364192808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2685,7 +2685,7 @@ the Ohio or Susquehanna, will reach heaven,
 although the latter in ode is the only gate  
 into their particular society in tbis world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341723:1885021601:0367/pct:49.98517640083012,73.39055793991416,11.710643344203973,10.729613733905579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341723:1885021601:0367/pct:49.97776789684304,73.38287628218548,11.713848130033101,10.73197962459005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2718,7 +2718,7 @@ precious death and burial; by Thy glorious
 resurrection and ascension, aad by tne com­  
 ing of the Holy Ghost. In all time of our
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn83016223:00200295754:1885022201:0466/pct:24.701955174058178,101.90856635596982,34.39437291368622,4.67820683533067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn83016223:00200295754:1885022201:0466/pct:18.528675330869202,76.43142476697736,25.80183617503279,3.515312916111851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2760,7 +2760,7 @@ the subject of the sermon. The words of the
   
 text were: &quot;I believed, therefore have 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764236:1885052501:0497/pct:33.8907469342252,45.7807386629266,13.043478260869565,11.746143057503506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764236:1885052501:0497/pct:25.421602787456447,34.33847592332866,9.78397212543554,8.812529219261338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

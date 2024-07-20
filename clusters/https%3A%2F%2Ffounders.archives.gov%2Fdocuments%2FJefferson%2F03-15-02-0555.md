@@ -63,7 +63,7 @@ to see you here finally, it would be a day of jubllce; but
 our days are all numbered, and mine are not many. God  
 bless you and preserve you, muchos amos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845022001:0379/pct:2.39769820971867,152.3217947171632,42.551150895140665,42.58834881196478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845022001:0379/pct:0.7992327365728901,50.77393157238773,14.183716965046889,14.196116270654928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ you here finally, it would be a day of jubilee: but
 our days are all numbered, and mine are not  
 many. God bless you and preserve von, viucho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845022001:0095/pct:44.630571343105,48.50345356868765,13.864792102901585,17.68035303146585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845022001:0095/pct:44.6355568850334,48.50984906625735,13.864792102901585,17.68035303146585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ you here iinally, it would be a day of jubilee; but
 our days are all numbered, and mine are not  
 many. God bless vou and preserve you, muefw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845022201:0098/pct:27.518752757758495,11.863277158906978,27.283424032946023,84.97572122250786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845022201:0098/pct:27.528558121292345,11.869624551715383,27.293229396479873,84.97254752610365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ here finally, it would be a day of jubilee ; but out
 days are all numbered, &quot;ancf mine are not many.  
 God bless you and preserve you, mtuchrrs anos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845022601:0250/pct:71.90398254228042,9.76023764056864,20.403709765411893,11.086356885211119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845022601:0250/pct:53.935343063702085,7.32017823042648,15.318510435138453,8.317419902397624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ cumstances. I really think, too, that neither the
 state of our finances, the condition of our, country,  
 nor the public opinion, urges us to precipitation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845022601:0250/pct:49.97272231314785,105.26204116274135,20.30823786142935,20.528325907065565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845022601:0250/pct:37.48465420815714,78.95183534903458,15.236666211976537,15.393592191809887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ years? I shall be happy to see you
 here hnally, it would be a day of ubl  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1845030801:0037/pct:142.26142742582198,218.01596351197264,59.42261427425822,146.35119726339795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1845030801:0037/pct:35.57962294424388,54.50399087799316,14.861612515042118,36.58779931584949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ southern part will make more sugar than we can con
 sunie, and the Red river on its north is the most lux  
 uriant couutry on earth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1845031801:0359/pct:51.90873844318521,12.023366967604886,15.07605129734566,2.4747742963356347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1845031801:0359/pct:51.913709116214335,12.030447866879094,15.07605129734566,2.4747742963356347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ you here finally, it would be a day of jubilee. But our days
 are all numbered, and mine are not many. God bless you  
 and preserve you muehoa afios. TH. JEFFERSON. ge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120301:1195/pct:52.156676181414525,28.121470698958465,16.936251189343484,16.20027606977036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120301:1195/pct:52.156676181414525,28.121470698958465,16.94682313140924,16.208641820387335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ lex as he says:
 tour times that of Florida. Tbe cli  
 mate is delicious, the soil fertile
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:00200297131:1881042801:0056/pct:74.87908101571946,43.27492166647325,13.331318016928657,9.481257978414762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:00200297131:1881042801:0056/pct:56.192348404657494,32.4590924915864,9.99546348102223,7.113844725542532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ knowledgment of our right to ft. This province,
 moreover, the Floridas, and poastbly Cuba, will join  
 us on the acknowledgment of their independence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897091101:0323/pct:72.22653219550038,240.21937842778794,51.04732350659426,37.599024984765386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897091101:0323/pct:18.056633048875096,60.054844606946986,12.761830876648565,9.399756246191346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

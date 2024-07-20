@@ -92,7 +92,7 @@ that Congress may be convened as ear­
 ly as possible, for the purpose of taking  
 the subject into consideration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808081501:0449/pct:77.97958830652136,30.33468559837728,18.180245632243558,38.28600405679513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808081501:0449/pct:77.96610169491525,30.331609370246426,18.18142511241785,38.28465672852652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ iry war, and the annals of the
 ple testimony of their readiness to  
 personal sacrifices, and t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808081701:0003/pct:22.485586162716206,26.589443201263656,18.15075806107196,11.070159273397394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808081701:0003/pct:22.499822051391558,26.593830898161556,18.157876005409637,11.070159273397394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ vene- as possible, for the pur­
 of taking the subject into consi­  
 deration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808081701:0003/pct:22.464232329703183,43.75411346584178,18.684603886397607,23.917335790443595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808081701:0003/pct:22.464232329703183,43.75850116273968,18.69883977507296,23.926111184239392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ request, that congiess may be convened as early as
 possible, fur the purpose of taking the subject into  
 consideration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808081701:0058/pct:26.332754773121746,61.9055321902297,20.40664517728738,29.246198641216434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808081701:0058/pct:26.3262270699058,61.89551997412259,20.40778383738225,29.245511887433285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ that Congress may be convened as early as
 possible, for the /mrficse of taking the sub­  
 ject into considc) ation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808081901:0131/pct:5.127737226277373,9.57004160887656,17.39051094890511,5.182196444332367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808081901:0131/pct:5.126801678525816,9.568835098335855,17.393419692270268,5.185745503445958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ that Congress may .l&gt;e convened as early as
 possible, for the pm pose of taking the subject,  
 into consideration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808082301:0134/pct:23.24383964692902,3.1392405063291138,35.85877160720853,94.24050632911393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808082301:0134/pct:23.239566096708955,3.1388431844070372,35.85830728687871,94.23279753617686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ request, that congress may be convened as
 early as possible, for the purpose of taking  
 the s ibject into consideration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808082301:0278/pct:23.28793401112603,3.2863849765258215,36.35142911950892,90.44537495241721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808082301:0278/pct:23.283467587265054,3.285968028419183,36.35085027490091,90.43812907045589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ bly request, that congress may he convened as early
 as possible, for the purpose of taking this subject in­  
 to consideration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808082601:0073/pct:32.556390977443606,5.274506551666943,20.67669172932331,5.9213799966827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808082601:0073/pct:32.548233525432224,5.27363184079602,20.677774993735905,5.9245439469320065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ occasioned by the existing embargo on the vessels
 and commercial exports of the United States ; they  
 should with a like sentiment continue to Lear the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808090501:0089/pct:53.93564356435643,35.21930539703245,20.445544554455445,5.7720528289580955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808090501:0089/pct:53.92229646127196,35.213563743071404,20.446671615936648,5.77518747962178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ To the inhabitants of the town of Boston, in
 legal Town Meeting assembled.  
 \onr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808091601:0163/pct:40.823765263349735,51.863470949930985,17.040277018407146,1.7442590036391015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808091601:0163/pct:40.816326530612244,51.85696361355082,17.04324586977648,1.7482225010455876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

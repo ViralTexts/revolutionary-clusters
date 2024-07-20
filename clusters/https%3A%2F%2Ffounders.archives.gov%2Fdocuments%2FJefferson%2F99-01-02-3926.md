@@ -301,7 +301,7 @@ scribed with the first and great commandment, man’s duties to
 his Maker; requiring him to lore the Lord his God with all his  
 heart, and with all his mind, and with all his strength ; th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528864:1871091401:0438/pct:61.17948717948718,16.174055829228244,15.825641025641026,1.3628899835796386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528864:1871091401:0438/pct:61.182905982905986,16.174055829228244,15.82905982905983,1.3711001642036125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ all his heart, and with all his soul,
 with all his mind, and with all his  
 strength.” “ He is, therefore, happ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865970:1897040801:0257/pct:22.34660925726588,5.304922850844967,28.546824542518838,90.50698016164584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865970:1897040801:0257/pct:22.341799397331037,5.304143402879812,28.546061127851914,90.49735527475757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

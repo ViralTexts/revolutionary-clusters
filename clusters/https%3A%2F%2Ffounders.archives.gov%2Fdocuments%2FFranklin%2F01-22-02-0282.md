@@ -466,7 +466,7 @@ and that [ am to be longer deprived of an op­
 portunity 10 assare you personally of the re­  
 gerd with whick I am,” ke. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817112601:0596/pct:70.09892994144963,71.06990671426927,22.0674338784575,17.09086721179316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817112601:0596/pct:70.10565986943939,71.0775845521901,22.0674338784575,17.087028292832738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -48,7 +48,7 @@ ADVOCATE AND DEFENDER” a­
 GAINST THE Mt&#x27;LTirAR!OVS ASSAULTS  
 IT ENCOUNTERED.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818070601:0934/pct:27.671755725190838,23.31424108305129,17.00593723494487,6.144233272585264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818070601:0934/pct:27.665889336442653,23.311206559937524,17.00939862907215,6.147772137619853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ safely.
 At eept the assurances of my respect and best  
 wi-lic. &#x27;I I JfcPPKKbON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818071001:0078/pct:35.196350008147306,77.82691847956012,14.89327032752159,14.546975854649773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818071001:0078/pct:35.19061583577712,77.81761682801482,14.896274573693928,14.549221146567866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ gress—its ablest advocate and defender
 against the multifarious assaults it en­  
 countered. He was our Colossus on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897070401:0038/pct:17.11031833150384,84.1347129235139,12.733260153677278,2.4142828159870158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897070401:0038/pct:17.114892060007318,84.13809427199567,12.746981339187705,2.4142828159870158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

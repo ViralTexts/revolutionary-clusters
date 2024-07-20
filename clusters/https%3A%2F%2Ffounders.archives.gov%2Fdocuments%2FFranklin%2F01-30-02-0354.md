@@ -226,7 +226,7 @@ healthy, wealthy and wise.&#x27;&quot; This oft­
 repeated quotation was made to rinsf in my  
 ears, and was therefore forced indelibl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040092:1891053101:0292/pct:74.67727213456774,23.70471367354889,11.448689529273699,2.678223607323724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040092:1891053101:0292/pct:74.68596514104404,23.71120633683937,11.45738253574999,2.681469938968965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ wealthy snd wise This oft repeated
 quotation was made to ring In my ears and  
 was therefore forced indelibly upn m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048510:1891053101:0623/pct:5.772931366260424,52.183881692078415,20.028864656831303,4.470938897168406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048510:1891053101:0623/pct:3.8498556304138596,34.793075776682336,13.362207250561438,2.9806259314456036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ her gentle but forcible voice saying,
 ‘early to bed, early to rise, will make  
 a man healthy, wealthy and wise.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063544:00332899806:1891062601:0496/pct:17.846820809248555,39.64315254637835,16.74494219653179,9.34656741108354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063544:00332899806:1891062601:0496/pct:17.85585260115607,39.64906061680255,16.74945809248555,9.34952144629564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

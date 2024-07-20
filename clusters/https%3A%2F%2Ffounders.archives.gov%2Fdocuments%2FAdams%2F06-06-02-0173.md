@@ -84,7 +84,7 @@ authority, with fidelity and honor, and ac­
 cording to th= bett of my tkill-and under­  
 flanding, So bhelp me GOD. . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1777022501:0151/pct:36.390845070422536,40.060370849504096,28.679577464788732,21.65804225959465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1777022501:0151/pct:36.402582159624416,40.06755785539744,28.667840375586856,21.661635762541326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ will faithfully and truly return the same,
 according to the best of my skill and un­  
 derstanding; and that I will truly an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876060801:0297/pct:27.728426395939085,38.45683541208119,10.723350253807107,3.864025434091465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876060801:0297/pct:27.724028548770818,38.452133512654356,10.725614591593972,3.86660960997677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -358,7 +358,7 @@ Europe than thole letters. There i ■ hard!
 in European language into which they haw  
 not been tranflated ; and as if this v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800111401:0004/pct:29.562043795620436,49.77531455961654,21.19221411192214,4.493708807669263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800111401:0004/pct:29.578264395782643,49.77531455961654,21.19221411192214,4.503694827241861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -836,7 +836,7 @@ of the Electrical Matter Arising From
 Experiments and Observations Mads at  
 Philadelphia, 1749,” the fcllowing pas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153036:1896040301:0301/pct:51.12774451097805,7.069174757281553,10.93812375249501,2.3134101941747574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153036:1896040301:0301/pct:51.12774451097805,7.071703074433657,10.951430472388557,2.3184668284789645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ of the Electrical Hatter Arising From
 Experiments and Observations Made at  
 Philadelphia, 17-3,&quot; the following pas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:00212471823:1896042001:0489/pct:58.428246013667426,16.626433313216655,16.305998481397115,3.6511768255884127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:00212471823:1896042001:0489/pct:43.83899753180179,12.477368738684369,12.22707423580786,2.730838865419433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

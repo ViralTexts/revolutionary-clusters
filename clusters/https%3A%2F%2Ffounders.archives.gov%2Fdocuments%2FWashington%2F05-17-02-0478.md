@@ -181,7 +181,7 @@ elible for announcing my purpose.
 For these reasons I give yau the trouble of this  
 address, and the assurance of being, gentlem-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1879111501:0216/pct:2.6093215763901387,11.988582302568982,13.640453482094655,27.579176294685332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1879111501:0216/pct:2.6213184572011277,11.993113134882877,13.628456601283666,27.58370712699923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ have o\cr auy other place in the United States,
 ought to be preferred as a proper site lor such a  
 university
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654450:1886013001:0068/pct:25.187001839362356,59.52618952419032,12.188841201716738,13.964414234306277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654450:1886013001:0068/pct:25.196198651134274,59.528688524590166,12.188841201716738,13.964414234306277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ ardent and susceptible mind from being too str
 and too early prepossessed in favor of other I  
 systems before they are capable of arre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nash_ver01:data:sn83030214:00175038693:1894022301:0715/pct:54.777581499919705,117.00740413305337,46.94074193030352,12.39916012819096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nash_ver01:data:sn83030214:00175038693:1894022301:0715/pct:18.25919383330657,39.002468044351126,15.64691397676784,4.133053376063653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ own.
 &quot;Now,&quot; said Gov. McKinley, &quot;I fear that  
 the hazard Washington deprecated ninety
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654930:1894022301:0108/pct:57.35507246376812,53.60460552139212,14.003623188405797,6.463430590082428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654930:1894022301:0108/pct:57.36865942028985,53.611147455187755,13.994565217391305,6.460159623184613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ our own.&quot;
 &quot;Now,&quot; said Governor McKlnley, &quot;I fear  
 that the hazard Washington deprecated 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665465:1894022301:0500/pct:86.42891918208375,29.625263157894736,18.390944498539437,7.536842105263158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665465:1894022301:0500/pct:64.83262325015217,22.223157894736843,13.804017041996348,5.650526315789474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ they.are capable of appreciating our
 own.&quot; &quot;Now,&quot; said Gov. McKinlev. &quot;I  
 fear that the hazard Washington depre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00206536780:1894022301:0487/pct:84.2928407712013,30.222826655507898,10.691654307671564,6.935871953133173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00206536780:1894022301:0487/pct:84.2928407712013,30.229800885727236,10.700642667745269,6.935871953133173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ are capable of appreciating our own. &quot;
 &quot;Now , &quot; said Governor McKInley , &quot;I fear  
 that the hazard which Washington depre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538855:1894022301:0511/pct:41.96927374301676,41.20827138802541,16.550279329608937,9.366130558183539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538855:1894022301:0511/pct:31.487949703108626,30.909582375996756,12.417045057631855,7.027976753615353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ practical evidence of his Interest In the
 natter, he adds that &quot;If a suitable plan can  
 be adopted and put Into execution he wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654942:1894060901:0647/pct:30.66595059076262,62.16747477394837,13.927676333691371,10.326300615908792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654942:1894060901:0647/pct:30.66595059076262,62.17730310575285,13.936627282491944,10.329576726510288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ the liberal knowledge which is necessary
 to qualify our citizens for the exigencies  
 of public as well as private life.&quot; It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472360:1898031801:0054/pct:41.62000260450579,84.66863483660796,11.238442505534575,3.318741728596152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472360:1898031801:0054/pct:39.548022598870055,80.44165054803352,10.672605055878593,3.1592520954223082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ the liberal knowledge which is nqcessary
 to qualify our citizens for the exigencies  
 of public as well as private life.” It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340275:1898040401:0373/pct:50.451524961662976,60.65408442587523,11.211449991480661,3.8611151130960955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340275:1898040401:0373/pct:50.442930153321974,60.6453471622011,11.213798977853493,3.8641601843849034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -108,7 +108,7 @@ suance thereof, and treaties made or to be
 made under the authority of the U. States,  
 over the constitutions ami laws of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816012701:0183/pct:64.76578411405295,45.041374920432844,15.257976917854718,3.462762571610439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816012701:0183/pct:64.75479382318004,45.03564154786151,15.261044176706827,3.4665648336727766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ Is is no restric- j ]iave gaid thus much upon this branch of f&lt;f ^1?article w
 ver, much less t^e 8ubject, not so much because I considered subject ua to g;  
 lative author- jt ncceasary upon the present occasion, as be- jf wJe refuae 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854070101:0017/pct:39.29339065018807,27.66160704808407,22.20580333154218,15.316845345504724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854070101:0017/pct:39.30234640874082,27.665145242897076,22.201325452265806,15.316845345504724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ eret on which is esseutial to the nature
 of Legislative power.  
 I have said thus mnuch upon this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288464:1854072601:0167/pct:214.1405082212257,61.4921644333409,79.82062780269058,227.41312741312743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288464:1854072601:0167/pct:71.38016940707524,20.49738814444697,26.606875934230196,75.80437580437581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ dent apd Senate can, by treaty, regulate trade,
 they can also declare war, raise armlea,levy taxes,  
 borrow money, appropriate money, Ac. No lin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870071601:0002/pct:10.788224121557455,74.2953431372549,9.287749287749287,7.582720588235294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870071601:0002/pct:10.788224121557455,74.30683210784314,9.29249762583096,7.582720588235294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

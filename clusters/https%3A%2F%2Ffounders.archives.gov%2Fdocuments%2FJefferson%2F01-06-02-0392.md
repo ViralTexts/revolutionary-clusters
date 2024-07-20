@@ -160,7 +160,7 @@ From New-Oileans to Illinois, the voyage is com­
 monly performed in eight or ten weeks:—A prodigious  
 number of islands, some of which are of great extent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785102801:0173/pct:65.66347469220246,26.776364996260284,27.701778385772915,17.12789827973074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785102801:0173/pct:65.67107463140294,26.786337571677887,27.716978264173886,17.12789827973074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ the spring ; •» 1 autumn in bittcaux, rowed
 &gt;&gt;&#x27; IS or *u tacit, and carrying about 4Ctous.  
 From
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806102901:0357/pct:23.44627299128751,3.0516732914476217,35.58567279767667,91.31939992306705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806102901:0357/pct:23.441734417344172,3.051282051282051,35.585236804749,91.3119658119658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

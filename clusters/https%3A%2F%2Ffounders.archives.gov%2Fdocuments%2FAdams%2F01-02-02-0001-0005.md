@@ -298,7 +298,7 @@ he hail nevertseen in Philadelphia cr Eng­
 land any place equal to UarUordor Weth­  
 ersfield
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1850101701:0298/pct:82.67987065481003,19.009389032521433,15.198059822150364,25.976323309293782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1850101701:0298/pct:82.66316427561124,19.006802721088434,15.200040412204485,25.976190476190474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ next week to go home, one hundred and fifty miles.
 1 must improve every moment. It is twenty-live  
 miles a dav, if 1 ride every day next week.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851092601:0316/pct:70.87486157253599,91.6168965142795,14.174972314507198,2.714735584754045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851092601:0316/pct:70.87486157253599,91.62413580917219,14.18420081210779,2.714735584754045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

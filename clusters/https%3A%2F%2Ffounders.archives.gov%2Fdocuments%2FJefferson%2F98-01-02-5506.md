@@ -56,7 +56,7 @@ lished among their different use when claimed
 han oue, or to preseribe regula  
 for their preservation while in use.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875113001:0474/pct:201.23893805309734,84.8943622189583,47.723250201126305,35.45362105976726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875113001:0474/pct:67.07964601769912,28.29812073965277,15.907750067042102,11.817873686589087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ clusively used lor killing our fellow
 citizens only, and never against the  
 public enemy.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1875120901:0195/pct:20.867978097748935,87.98399771395914,12.330156154938146,9.329904272038863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1875120901:0195/pct:20.86374695863747,87.97142857142858,12.33272506082725,9.332142857142857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ children were poisoned in New York
 with tea prepared in a copper l&gt;ottomed  
 vessel which had not been used for som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1875121001:0165/pct:46.059243586352814,76.59551874269937,13.131446707220313,12.774769034724434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1875121001:0165/pct:46.0531535105117,76.58738585686983,13.134117854466922,12.77695193600906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ an instrument exclusively used for
 killing our fellow-citizens only, and  
 never against tho public enemy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_ely_ver01:data:sn86076199:00415668351:1875123101:1229/pct:28.89713679745493,105.73457127252867,21.394485683987273,12.634261787729837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_ely_ver01:data:sn86076199:00415668351:1875123101:1229/pct:21.703369594056777,79.3009284543965,16.0520031838684,9.484798834880758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

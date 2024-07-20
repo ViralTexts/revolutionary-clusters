@@ -365,7 +365,7 @@ Shall it lie, unproductive, in the public
 vaults? Shall the revenue be reduced? Or,  
 shall it not, rather, be appropriated to the im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1846010301:0640/pct:16.137123745819398,221.19981957600362,62.458193979933114,41.738084498571645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1846010301:0640/pct:4.0342809364548495,55.299954894000905,15.614548494983278,10.434521124642911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

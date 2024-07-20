@@ -337,7 +337,7 @@ jects of state expenditure,) arc insignificant in
 comparison with those which relate to the national  
 defence.”—The 2nd is in the 35th No.—“ Exorbi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829010601:0317/pct:17.740094570357083,53.35094883497478,15.261699005380727,4.744174873889023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829010601:0317/pct:17.737202477991524,53.34454185180737,15.264645147266602,4.747608182218486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ Constitution, addressing the People, 44 will not al­
 &#x27; moderation, or hope to extinguish the ambition of  
 ? others.&quot; Hut Foreign War, as the means of ag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847062601:0576/pct:5.250663315179445,44.103234237177396,15.542521994134898,4.7152346727648915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847062601:0576/pct:5.250663315179445,44.11049402882137,15.561141367592981,4.7152346727648915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ Constitution, addressing the People, 44 will not al­
 Upon this fundamental rule in the construction  
 of grants of power by written constitutions, it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848082601:0306/pct:35.1103468042419,88.76061120543294,15.247922040699342,9.145444255800792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848082601:0306/pct:35.1103468042419,88.76061120543294,15.25269895863189,9.156762874929258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -624,7 +624,7 @@ To this quotation we need not add a word It
 settles the question. There is nothing objectionable \
 in the adapting the revenues and disbursements o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850031601:0117/pct:20.63470627954085,66.3487016428193,15.48953409858204,28.46846846846847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850031601:0117/pct:20.63920774251632,66.3522345875287,15.48953409858204,28.472001413177885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -668,7 +668,7 @@ human affairs.&quot; Thews ought to exist in the Na­
 tional Government (tney argued) a capacity for  
 contingencies, as they may happen. Kvery powe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852100201:0358/pct:2.7689764430362307,90.37116729424422,15.429122468659594,6.863905325443787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852100201:0358/pct:2.773568443770951,90.37833960910883,15.429122468659594,6.863905325443787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ ments whidh were then successful, and now appear
 to be unanswerable, the form of Government was  
 constructed to carry out these views, and so adapt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853031201:0544/pct:34.60002753683051,3.7048934575436343,15.778603882693101,11.33954384837777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853031201:0544/pct:34.609206480334116,3.7120319805832174,15.769424939189499,11.343113109897562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ and independent power in the States to provide for their own
 nncesatte So that the right of taxation in both, except in  
 elation to imports and exports, is equally sovereign
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862102201:0378/pct:152.47629083245522,23.052386210280947,48.770635756937125,11.1152005888848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862102201:0378/pct:50.82543027748507,7.684128736760315,16.25687858564571,3.7050668629616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -192,7 +192,7 @@ had and he was therefore acquitted “with the high­
 est honor.” At the battle of Germantown, he evin­  
 ced his wonted valor, leading his division into th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1833060501:0192/pct:4.156738151972465,78.21637426900585,17.288853587503308,3.0884502923976607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1833060501:0192/pct:4.1556379036527265,78.20208295267678,17.29089465325569,3.092453864425361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

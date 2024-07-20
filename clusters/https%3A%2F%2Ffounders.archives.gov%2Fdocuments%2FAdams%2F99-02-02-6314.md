@@ -148,7 +148,7 @@ here., as in Europe, where every branch of
 sci. :tee., useful at this day, may b* taught iu  
 its highest degree.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830011401:0228/pct:18.87317909168809,12.32761047002533,18.337617823479007,19.30762735716296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830011401:0228/pct:18.869136860141356,12.325875897002955,18.33904476333262,19.308428310116785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ plying ignorance by bold presumption, kb *d
 supposed him a great mao until nis outr-ocs  
 into the Assembly of Five Hundred Fn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830042901:0288/pct:77.69516728624535,75.54027504911592,18.412420730373935,12.643839461128263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830042901:0288/pct:77.67818102317446,75.5296758804546,18.413860953213817,12.645573172442823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ Kentucky to maintain her rights before
 Supreme Court of the I’. Stales. The  
 then Speaker of the House of Repre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830063001:0105/pct:54.40454266421117,14.004602991944765,14.840392879066913,17.019562715765247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830063001:0105/pct:54.396194568052785,14.00299160050627,14.843230525292824,17.021439803628276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ upon an excrement. idimension. Yet this, which should have con-
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1850-11_12_35/page/n39/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1850-11_12_35/page/n39/mode/1up?view=theater)
 
 #### 1850-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -525,7 +525,7 @@ the Platonisms engrafted on them: and
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1850-11_12_35/page/n40/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1850-11_12_35/page/n40/mode/1up?view=theater)
 
 #### 1850-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -567,7 +567,7 @@ ill he was able to write upon his own tomb
 stone the completing line and the crowning  
 glory that he was Father of the Universit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870122201:0605/pct:168.5234899328859,62.3859905144108,40.85906040268456,22.64684421743889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741996:1870122201:0605/pct:56.1744966442953,20.795330171470265,13.619686800894854,7.5489480724796305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

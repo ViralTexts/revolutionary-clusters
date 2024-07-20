@@ -1024,7 +1024,7 @@ your colonies, verat believe that ft oy uro
 general, or that you have given occasion for  
 m m ; therefore do not n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773121601:0505/pct:7.190860215053763,17.79529776150922,116.19623655913979,105.72997325073912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773121601:0505/pct:5.578703703703703,13.798872522276778,90.05208333333333,81.94217130387344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1114,7 +1114,7 @@ ail the plagues attendii g their commerce and
 connexion from thenccfoith and forever.  
 Q. E. D.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773121601:0506/pct:6.416758544652701,5.62429696287964,27.364939360529217,81.53824521934759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773121601:0506/pct:4.978638564511535,4.358881220486742,21.207633152947878,63.20377769705775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2441,7 +2441,7 @@ arise out of the duties of condemnations,
 and whose appointments are during pleas­  
 ure.&quot; Who with the tariff and income act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1864072801:0968/pct:229.0416971470373,219.7980931015143,48.64667154352597,16.601233875490745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1864072801:0968/pct:57.29185727355901,54.949523275378574,12.168344007319305,4.150308468872686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2541,7 +2541,7 @@ blood of mart yrs shall work miracles in favor of
 your purpose.&quot; (i. e., your own ruin) So I say so­  
 ciety may hang a number of the diseipiee o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:0041418196A:1887110201:0257/pct:88.3695652173913,78.85389204939642,16.08695652173913,3.9822394893853197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:0041418196A:1887110201:0257/pct:68.49494571321603,61.115492149974905,12.47192062897791,3.0862427414151554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2575,7 +2575,7 @@ lang a few accordingly, and the blood of the martyrs
 hall work miracles in favor of your purpose--fo e., your  
 own ruin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044917:1887110201:0926/pct:109.20951650038373,288.9833080424886,50.03837298541826,30.030349013657055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044917:1887110201:0926/pct:27.307618499328346,72.24582701062215,12.511993859144118,7.507587253414264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2596,7 +2596,7 @@ Catch and bang a few accordingly; and tho­
 Mood of the martyrs thall work miracles ia  
 favor of your purpose i. e., your own ruin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023784:1887110901:1195/pct:122.670639219935,73.84071134907735,20.842361863488623,3.929629983746056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023784:1887110901:1195/pct:81.79601787891102,49.230327947222484,13.896789922795612,2.619753322497371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2629,7 +2629,7 @@ and hang a tew accordingly and the hiood
 of the martyrs shall work miracles in favor  
 of your purpose&quot; (i. e. your own min
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341814:1887111101:0045/pct:13.020536223616658,73.03177494434325,11.52310325156874,4.027524792552115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341814:1887111101:0045/pct:13.018679595037787,73.02438530810483,11.526213223061932,4.030490067118621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2660,7 +2660,7 @@ Cat eh and hang a fexv accordingly aud the blood
 of t.n* martyrs shall work miracles in favor of  
 your purpobo&quot; u. e., your own ruiuj.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895709:1887111201:0463/pct:63.69668246445497,46.526054590570716,10.80568720379147,2.178108629721533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895709:1887111201:0463/pct:63.684609552691434,46.519641626464505,10.808377558756634,2.1812543073742248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2681,7 +2681,7 @@ Catch and hang a few accordingly aud the blood
 of the martyrs shall work miracles in favor ol  
 your purpose&quot; t.i. e., your own ruin).
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623033:1887111201:0630/pct:70.66840926064226,22.842998585572843,11.893203883495145,2.5176803394625176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623033:1887111201:0630/pct:70.67774458551158,22.853606789250353,11.88386855862584,2.5176803394625176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2712,7 +2712,7 @@ Catch and hang a few accordingly and the blood
 of the martyrs shall work miracles in favor of  
 your purpose &#x27; (i. e,, your own ruin).
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016925:00415661988:1887111601:0623/pct:62.27347611202636,17.038049190666385,12.808896210873147,2.6382173638848014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016925:00415661988:1887111601:0623/pct:46.72435105067985,12.781164599537524,9.6140640021975,1.9865461425268025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2733,7 +2733,7 @@ Catch and hang a few accordingly and the blood
 of the martyrs shall work miracles in favor of  
 your purpose&quot; (L e., your own ruin)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861940:1887111601:0251/pct:51.54296355413674,52.868514960197636,12.383612662942271,2.3698417055540304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861940:1887111601:0251/pct:51.55183116076971,52.874614938847714,12.379178859625787,2.3698417055540304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2754,7 +2754,7 @@ Catch and hang a few according&#x27;}- and the blood&#x27;
 of the martyrs shall work miracles ia favor of  
 your purpose&quot; (.1 e., your own ruin)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551359:1887111601:0237/pct:75.11819681143486,45.98366505431766,11.54480483782298,2.4423122670684325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551359:1887111601:0237/pct:75.11819681143486,45.98366505431766,11.555799890049478,2.447598657256892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2775,7 +2775,7 @@ itch and hang a few accordingly and the blood
 ! the martyrs shall work miracles in favor of  
 dut purpose&quot; (i. ? , your o.vu ruin).
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887111601:0129/pct:82.77989475594266,19.601290619958515,16.439847577572127,2.9960820465545055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887111601:0129/pct:82.77989475594266,19.601290619958515,16.457993104699693,3.0037643082123378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2799,7 +2799,7 @@ Catch and hang a few accordingly and the blood
 of the martyrs shall work miracles in favor of  
 your purpose&quot; (L e., your own ruin).
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478726:1887111701:0385/pct:20.917655268667133,31.463077116618443,14.863921842288905,2.629261542332369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478726:1887111701:0385/pct:18.307637510812597,27.533573053496735,13.010736274360148,2.3042489175900784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2865,7 +2865,7 @@ your purpose” (i. e.. your own ruin).
   
 INTERIOR OF THE JAIL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173460:1887111801:0369/pct:33.82007385028533,20.204105033826394,14.23296408190668,17.19986240110079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173460:1887111801:0369/pct:33.81439838899144,20.20178858060078,14.23616937964983,17.20171214553237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2908,7 +2908,7 @@ of the martyrs shall work miracles In favor of
 your purpo8o&quot; (J. e., your own ruin).  
 INTEIUOIl Or TUB JAIL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288026:1887111801:0659/pct:94.89795918367346,92.54165564665432,13.994169096209912,17.4424755355726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288026:1887111801:0659/pct:71.19941669704703,69.4128537423962,10.49945315348159,13.078550647976726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2933,7 +2933,7 @@ your purpose&quot; U* e., your own ruin).
   
 INTERIOR 07 THE JAIL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1887111801:0880/pct:77.93490895001938,31.693379790940767,14.374273537388609,17.923344947735192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1887111801:0880/pct:66.24951973214776,26.94676986258095,12.212525385586476,15.242457747591217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

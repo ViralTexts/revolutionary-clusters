@@ -472,7 +472,7 @@ by a dirc&amp;ion to Mr. Elias Ellicot, merchant is
 Baltimore towa. e  
 B. B. ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796111701:0002/pct:28.186022610483043,5.304136253041363,43.448098663926004,90.31630170316302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796111701:0002/pct:28.192446043165468,5.308191403081914,43.46094552929085,90.32846715328468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ fortitude have become unequal to the conflict,- we
 are unavoidably led to a serious and grateful sense  
 of the manifold blessings which we have undeser
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845021401:0026/pct:195.16129032258064,261.8870088901635,55.83717357910906,13.306567249784916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845021401:0026/pct:48.809066461774876,65.47175222254087,13.964656165962351,3.326641812446229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1811,7 +1811,7 @@ wrought, when even hope and human fortitude had
 become unequal to the confliet, we are unavoidably  
 led to a serious and grateful sense of the manifol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530480:1855090401:0021/pct:2.694660274425525,120.88071618678926,48.70226483716317,16.682796999758047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530480:1855090401:0021/pct:0.898220091475175,40.29357206226309,16.23408827905439,5.560932333252682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1849,7 +1849,7 @@ become unequal to the connict, we are
 unavoidably led to a serious and grateful  
 sense of the manifold blessings, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855091501:0151/pct:44.29102496016994,35.37585641223584,16.92777482740308,20.399498214802662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855091501:0151/pct:29.53911542037455,23.583904274823894,11.28967990436977,13.606098620090707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1869,7 +1869,7 @@ erances wrought, whon even hope and human for­
 titude have become unequal to the conflict, we are  
 unavoidably lod to a serious and grateful sense o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1855111701:0309/pct:10.901060070671377,114.23872824448404,18.074204946996467,3.6316294367548307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1855111701:0309/pct:8.181657536667256,85.67904618336303,13.553631383636684,2.7271481430724958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1899,7 +1899,7 @@ supplied, and our deliverances wrought, when even hope
 and human fortitudejinve. become unequal to the conflict,  
 we are unavoidably led to a serious and grateful sense o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn84026752:00415620366:1856092501:0590/pct:50.60602424096964,56.9297583081571,12.060482419296772,2.01095166163142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn84026752:00415620366:1856092501:0590/pct:50.60602424096964,56.9297583081571,12.076483059322372,2.017245720040282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2020,7 +2020,7 @@ Slates, aud who, notwithstanding, are detained in
 bondage by fraud or violence. From a full con  
 viction of the truth and obligation of these princi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1858111301:0900/pct:64.91291727140784,33.48786473956913,18.178519593613935,8.0992637032997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1858111301:0900/pct:48.72027591214376,25.115898554676846,13.65039027046651,6.08126533951459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2064,7 +2064,7 @@ tade have become uncqual to the conflict, we
 are unavoidably led to a serious and grateful  
 sense of the manifold blessings, which w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776373:1859091601:0644/pct:79.10569105691057,237.9161528976572,50.24390243902439,20.65351418002466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776373:1859091601:0644/pct:19.776422764227643,59.4790382244143,12.560975609756097,5.163378545006165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2100,7 +2100,7 @@ advantages 1 have had to encounter.”
 What a lesson! In calling your atten­  
 tion to him, I wish particularly to impres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_superior_ver01:data:sn83030179:00220720445:1860031701:0001/pct:82.27138643067846,41.09729668073457,12.669616519174042,6.718375727158663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_superior_ver01:data:sn83030179:00220720445:1860031701:0001/pct:82.27138643067846,41.09729668073457,12.684365781710914,6.722177863959545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2146,7 +2146,7 @@ human fortitude have became unequal to
 the conflict, we are unavoidably led to a  
 serious and grateful sense of the manifol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021994:1862032901:0293/pct:222.47263361236315,86.67377398720683,49.64584674822923,19.989339019189764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021994:1862032901:0293/pct:55.6271131862824,21.668443496801707,12.41345999033972,4.997334754797441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2259,7 +2259,7 @@ that you might not only have an earlier inspection,
 but that you might also view it in my own  
 baud writing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871112301:0262/pct:17.614892379290286,79.84200017362619,14.3804537521815,2.8127441618196025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871112301:0262/pct:17.614892379290286,79.84778771305379,14.384331975955012,2.8127441618196025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2467,7 +2467,7 @@ in Baltimore Town. B. B.
 TnKRK is no man in Pennsylvania whose  
 trio Ws An t)ia rolatiivn i.T *Ua Vifafa .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871112301:0262/pct:43.688190808609654,0.19098880111120756,28.237347294938917,96.83132216338224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871112301:0262/pct:43.69594725615668,0.19098880111120756,28.237347294938917,96.83421593309605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2488,7 +2488,7 @@ might net only have an earlier inspection, but
 that you might also view it in my own hand  
 writing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1876052701:0044/pct:27.50836120401338,12.921461740359378,10.64659977703456,2.523722996163941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1876052701:0044/pct:27.517651430694908,12.924826704354263,10.64659977703456,2.527087960158826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2630,7 +2630,7 @@ otherwise than by recommending to you and
 1 all others, to wean yourselves from those nar­  
 row prejudices which you have imbibed with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1876052701:0044/pct:27.313266443701227,48.960226125580455,11.190078037904124,45.669291338582674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1876052701:0044/pct:27.322556670382756,48.96359108957534,11.19472315124489,45.67602126657245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2695,7 +2695,7 @@ B. Banneker.
 When be published his first almanac, Ban- s  
 neker was 59 years old, aud had high respec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1876052701:0044/pct:38.57302118171683,12.154249949525541,11.106465997770346,17.625681405208965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1876052701:0044/pct:38.58231140839837,12.160979877515311,11.10182088442958,17.62904636920385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2961,7 +2961,7 @@ same relation to Ulm.”
 John R. Slaitiry.  
 To be continued
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83027106:00211664447:1884010501:0193/pct:67.0138393494079,76.42467657436117,12.62662291339706,10.88420827541965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83027106:00211664447:1884010501:0193/pct:67.02335092975697,76.42467657436117,12.62662291339706,10.89490003207527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3133,7 +3133,7 @@ N.B.—Any communication to me may be had bv a di­
 rection to Mr Elias Ellicott, merchant In Baltimore  
 town. B B 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83027106:00211664447:1884011201:0198/pct:72.6377390807879,18.92933618843683,13.01741364544676,48.640256959314776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83027106:00211664447:1884011201:0198/pct:72.64725473403749,18.936473947180584,13.01741364544676,48.640256959314776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3347,7 +3347,7 @@ Fbiladelpbia.
 be had by a dlreetiau to Mr. Elias Ellicott, i  
 merchant, in Baltimore town. B. B.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn84020670:00513687941:1884011901:0109/pct:38.751379473435286,17.47978085050874,22.95443796310894,76.72841116618837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn84020670:00513687941:1884011901:0109/pct:38.7566346103316,17.47978085050874,22.96494823690157,76.72841116618837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3402,7 +3402,7 @@ and stand in the same relation to him.”
 John R. Slattery.  
 To be continued
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664484:1884012601:0089/pct:43.53170439214511,78.49439402028831,12.292010193374306,13.529097704217833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664484:1884012601:0089/pct:43.53170439214511,78.49795337248621,12.302003697596563,13.536216408613633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3639,7 +3639,7 @@ B. B.”
 The boldness of thjs letter may startle  
 us. There is no cringing nor unmanl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664484:1884020201:0092/pct:5.501097293343087,16.202423984690622,24.886613021214337,78.87518605145652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664484:1884020201:0092/pct:5.505974152645696,16.205967821957614,24.88173616191173,78.87518605145652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -157,7 +157,7 @@ sion will bring this matter to maturity.
 I he home r to be, sir, your most bumble arid obe- j  
 client servant, “G. WASHING TON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1844011201:0579/pct:64.12542871141598,52.34249866524293,14.718275355218031,18.926855312333156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1844011201:0579/pct:64.11914560062708,52.339005672339006,14.720099288000522,18.927816705594484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ With the highest tespect, I have the honot to be
 Alf, your moal humble and obedient servant,  
 GO. WASIHiNGTO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186440:1844011501:0037/pct:276.9029443838604,150.56988602279543,63.18429661941112,67.50149970006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186440:1844011501:0037/pct:69.21064108155255,37.63682711051132,15.792629742695159,16.87284450442345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ of what they conceived more important business.
 1 think it highly probable that next session will  
 bring the matter to maturity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849092601:0378/pct:31.628095818107997,19.50123086802954,14.819326025172554,4.035106496842556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849092601:0378/pct:31.637118238823476,19.50123086802954,14.814814814814815,4.042241963680474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ sitting, and a pressure of what they conceived more im
 portant business. I think it highly probable that next  
 session will bring the matter to maturity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850013101:0195/pct:78.1055900621118,51.24512451245125,61.12189440993789,15.916591659165917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850013101:0195/pct:19.52260818940423,12.809359532023398,15.277508247622745,3.9785510724463777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ and a pressure of what they conceived more Important
 business. 1 think It highly probable that next session will  
 bring this matter to maturity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050501:0436/pct:32.502906493937886,11.999491546968349,31.805347948845707,84.75912037625524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050501:0436/pct:32.502906493937886,12.007965764162536,31.810884127775008,84.76335748485234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ they conceived more important business. I
 think it highly probable that tint session will  
 bring this matter to maturity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852051301:0538/pct:4.220873084706563,75.55468289809542,14.700780572419774,8.649126251718045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852051301:0538/pct:4.225691432976776,75.55795536357091,14.705598920689987,8.655671182669023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ tional board of agriculture, recommended by
   
 me at the opening of the session. Foor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1881012601:0964/pct:164.28027418126428,352.8208043200227,42.04112718964204,9.26531192269433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1881012601:0964/pct:41.09354162697657,88.20520108000568,10.516288816917507,2.3163279806735826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ have the honor to b.\ N.r,
 Yr. most Jl&#x27;bly O&#x27;bt Serv&#x27;t,  
 (i, Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193511:1886021701:0170/pct:63.55184743742551,13.435862768294744,12.419547079856972,20.71995943890485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193511:1886021701:0170/pct:63.56972586412396,13.444312996450904,12.413587604290822,20.728409667061012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ pect, I have the honor to lie, Sir,
 Yr. most H&#x27;bly O’bt Serv’t,  
 G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157480:1886022701:0639/pct:66.0585862129451,53.98132894014278,10.278898438870373,24.98627127951675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157480:1886022701:0639/pct:66.04700105226236,53.97391901166781,10.281480182392142,24.98627316403569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -210,7 +210,7 @@ pour a little oil on the sea, in order to still
 its motion, that they might be enabled to  
 see the oysters lying beneath--which wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854051301:0914/pct:164.6229739252995,103.27604726100967,49.04862579281184,27.6047261009667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854051301:0914/pct:41.155743481324876,25.819011815252416,12.26215644820296,6.901181525241675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ followed among fishermen in various other
 parts; and Dr. Franklin says, that the  
 fi-herruen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1862111501:0388/pct:44.088026855650874,32.09513629075361,12.644535621036926,10.074826296098344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1862111501:0388/pct:44.079806078687305,32.090848363393455,12.646839455528623,10.07682030728123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ to still its motion, that they might be
 enabled to see the oysters lying beneath,  
 which were large and valuable, and wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864072301:0711/pct:1.1363636363636365,341.04390622976297,64.41761363636364,35.021370288822695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864072301:0711/pct:0.2840909090909091,85.26097655744074,16.10440340909091,8.755342572205674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ ana were Kshed up with ease by this aid
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1884-04-19_50_16/page/n6/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1884-04-19_50_16/page/n6/mode/1up?view=theater)
 
 #### 1884-04-19 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -508,7 +508,7 @@ its motion, that they may be able to see the
 ovstors lying at its bottom, which, it seems,  
 are very&#x27;large and luscious. Another ob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888030201:0011/pct:4.026367361482273,31.92648059904697,15.44628540887226,9.244383934649422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888030201:0011/pct:3.12960235640648,24.743247045582443,11.961524300441827,7.175014068655036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ the fishermen know where to look for them.
 This property of oil is known particularly  
 tv divers, who make use of it in order t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888030201:0011/pct:4.026367361482273,41.70183798502383,15.428469624086942,4.016337644656229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888030201:0011/pct:3.12960235640648,32.319217782779965,11.961524300441827,3.1232414181204278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ the wake of a ship that has been newly tal­
 lowed than it is in the wake of one that is  
 foul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888030201:0011/pct:4.115446285408872,96.65078284547312,15.46410119365758,2.7229407760381212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888030201:0011/pct:3.194035346097202,74.90855374226224,11.984536082474227,2.1102982554867755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ be able to see the oysters lying at its bot­
 tom, which, it H»rms. are very large and  
 luscious. Another observation worth at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150011:1888032801:0028/pct:3.297199638663053,27.375606251122687,12.104787714543813,5.873899766481049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150011:1888032801:0028/pct:3.308491418247516,27.389078498293514,12.110433604336043,5.860427519310221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ look fur them.
 This property of oil i»&gt; known particu  
 larly to divers, who make use of it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150011:1888032801:0028/pct:3.297199638663053,33.8243218968924,12.104787714543813,3.969822166337345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150011:1888032801:0028/pct:3.308491418247516,33.83779414406323,12.110433604336043,3.969822166337345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ be able to see the oysters ling at its bo­
 tom, which, it seems, are tery large and  
 luscious. Another observation worth at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555328:1888042001:0391/pct:316.3736496504978,95.73046761545164,54.98834992586316,25.210572175428407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555328:1888042001:0391/pct:79.09341241262445,23.93261690386291,13.74708748146579,6.302643043857102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -795,7 +795,7 @@ look for them.
 This property of oil is knowlt particu­  
 larly to divers, who make use of it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555328:1888042001:0391/pct:317.8140224528702,123.61312808597154,53.7174327472993,16.55532965437119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555328:1888042001:0391/pct:79.45350561321754,30.903282021492885,13.429358186824825,4.138832413592797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -830,7 +830,7 @@ its bottom, which, its seems, are very
 large and luscious. Another observation  
 worth attention bas been made by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769362:1888051001:0808/pct:41.38389886892881,63.819827317174656,10.83166999334664,9.924061167169459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769362:1888051001:0808/pct:41.38833444222666,63.82329484378793,10.83166999334664,9.927528693782724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ look for them.
 This property of oil is known particu­  
 larly to divers, who make use of it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769362:1888051001:0808/pct:41.39720558882235,73.74388848434411,10.791749833666001,3.5368771455320918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769362:1888051001:0808/pct:41.406076735418054,73.75082353757065,10.791749833666001,3.5368771455320918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

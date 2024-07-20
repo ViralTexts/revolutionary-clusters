@@ -84,7 +84,7 @@ all degrees of it so much as may enable
 v going on in the world;, and keep their  
 part of it going on right.&quot; ThTs&#x27;expres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87090168:00295878174:1843072901:0272/pct:8.214285714285714,89.2292847666144,21.1525974025974,7.960439030273791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87090168:00295878174:1843072901:0272/pct:6.169832765059263,66.9279942105898,15.86296476700763,5.970329272705343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ tree, and went ashore.
 “Bill Stumps,” exclaimed Handy, coming di­  
 rect to the business in hand, “you want t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00205954958:1846062101:0001/pct:72.43464052287581,63.130200685266765,10.9640522875817,12.652961331375428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00205954958:1846062101:0001/pct:72.4468954248366,63.130200685266765,10.9640522875817,12.659079784630446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ rogue of a pilot has runthein into an enemy&#x27;s port But,
 metaphor apart, there is much dissatisfaction with Mr. Juy  
 aud his treaty &quot;?Jtjf &#x27;trton&#x27;t IVorks, vol. 3, y 815
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050601:0441/pct:19.956939383901954,22.49460180363267,15.932427956276912,3.353232567001143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050601:0441/pct:19.956939383901954,22.503069562640245,15.943469139891796,3.3489986874973536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ sation for their services to be ascer­
 tained by law;&quot; and tells us that this  
 is the only provision in the Constit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873100901:0623/pct:24.56140350877193,121.95399034365236,51.355661881977674,46.06645839250213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873100901:0623/pct:6.1440255336126075,30.48849758591309,12.846598843008179,11.516614598125532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

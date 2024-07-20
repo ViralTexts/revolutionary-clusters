@@ -227,7 +227,7 @@ j With the vaft region which is popuPt&#x27; g
 ! (beyond all on weft wind  
 w f r th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802092701:0001/pct:57.03260659849508,13.012230487958643,33.20470769824426,78.08599167822469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802092701:0001/pct:57.03743005981092,13.01538267557685,33.20470769824426,78.09544824107931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ it will be but a fmafl return tort
 !vo ry f have received pom you; and 1 ft r.!l  
 i happy in having had it in my powe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802092701:0001/pct:73.50955045340537,49.060648089774304,16.438356164383563,27.14663976799899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802092701:0001/pct:73.5143739147212,49.07010465262893,16.452826548331082,27.1497919556172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ armet, or congenial to the growth of the stuali.
 er grams.  
 . * * ‘lave no hesitation in giving it as my opi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828100201:0595/pct:19.285714285714285,24.54366750912665,18.073593073593074,4.731816905363662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828100201:0595/pct:19.281540792036356,24.540221816650288,18.075091971434755,4.7346623613645935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ Gov. Jackson to the secretary of state.
 *&#x27;The moment they attacked with tbeir^ras*  
 falsehoods the dignity of the cowt, and its or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828100201:0595/pct:19.285714285714285,9.028362819432743,37.056277056277054,50.16849199663016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828100201:0595/pct:19.281540792036356,9.02709532500351,37.05366803722138,50.16495858486593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ to the cultivation uf them.&quot;
 is within the bounds of the country designated, by  
 the wisest man of the age, as the most desirable o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849092601:0378/pct:18.514007308160778,9.290377822969068,14.562187034781433,8.851546612437119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849092601:0378/pct:18.51851851851852,9.290377822969068,14.562187034781433,8.858682079275036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -822,7 +822,7 @@ Stonignmery county and the adjacent territories are
 within the hounds of the country designated, by the wis­  
 thi hen of the age, as the most desirable of any withi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850013101:0195/pct:16.770186335403725,284.9084908490849,59.879658385093165,38.77887788778878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850013101:0195/pct:4.191732971084805,71.2164391780411,14.96700950902387,9.693265336733162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1044,7 +1044,7 @@ habits, and hardly anything short of necessi­
 ly is aols to accomplish it. That necessity is  
 approaching by pretty rapid strides.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897021401:0595/pct:126.46153846153847,270.46458492003046,50.38461538461539,89.56587966488956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897021401:0595/pct:31.615384615384617,67.61614623000762,12.596153846153847,22.39146991622239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1062,7 @@ United States, George Washington wrote to
 States of New York, New Jersey, Pennsyl­  
 vania, Maryland, and Virginia.&quot; and hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0547/pct:75.09128251939754,110.43315462513829,17.024189867640345,2.45936516041188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0547/pct:56.32774164099053,82.82699344736618,12.769599452242383,1.846651348821377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1104,7 +1104,7 @@ twenty-five miles from the margin of the
 Potowmac. It Is the river more  
 than any other-In my opinion which mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0547/pct:74.98858968507531,113.6584120500383,17.069831127339114,15.743340992255979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0547/pct:56.2478603218076,85.24380903752872,12.815245920346912,11.811760701216917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1169,7 +1169,7 @@ of necessity Is able to accomplish it. That
 necessity is approaching by pretty rapid  
 strides.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0547/pct:93.06252852578731,57.918475023402266,17.081241442263806,31.512211726661562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0547/pct:69.80486134885314,43.44311122457663,12.815245920346912,23.632031316483705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

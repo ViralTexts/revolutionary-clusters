@@ -282,7 +282,7 @@ chawing or settling in any part of your country, and
 it ia this right which tho King granted to the U.  
 States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830081801:0784/pct:2.9479200786112023,4.6541923259118905,37.307566328201766,91.43770724774988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830081801:0784/pct:2.947437366955952,4.653641207815276,37.30691556137766,91.43082691928163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ ted by the King aa above stated.&quot; * * *
 These papers are to be found in tho manuscript  
 volumes of the Senate. They were communicate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830081801:0784/pct:22.109400589584016,12.695405021316912,18.293481821159514,5.246328754144955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830081801:0784/pct:22.10578025216964,12.693901716992302,18.295944544511762,5.249654627985001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ to that body by General Washington. The origin­
 als wore doubtless in tho War Depaitineut when  
 the present Secretary wrote his letter of the ICtl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830082001:0274/pct:4.021618184708314,2.494628789687276,36.369416626927354,92.43256147051802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830082001:0274/pct:4.020979020979021,2.494331065759637,36.36893409620682,92.4255082149819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ affords food for its present inhabitants, and we have re­
 solved to leave our bones in the small space to which  
 we are now confined.” There lived then in this vas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210132:1885112201:0193/pct:65.14803298634581,51.66005226986739,14.411247803163445,5.740005807763043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210132:1885112201:0193/pct:65.14803298634581,51.66005226986739,14.415754134559055,5.7464588778111185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

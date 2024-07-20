@@ -233,7 +233,7 @@ shewing that they are groundless—to restore
 &quot; couutiics, and the real sentiments of your own,&quot;  
 have been attended with success. And as a confe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797013001:0002/pct:34.89736070381232,63.883557261676266,19.037145650048878,5.710172744721689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797013001:0002/pct:34.89736070381232,63.8915547024952,19.049364613880744,5.70617402431222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ impaired—to explain the relative interefls
 of both countries, and the real {entiments  
 of your own,’”” have been attended wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797030401:0246/pct:58.67101381773016,51.60616608652412,15.820524763235522,5.837891596220786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797030401:0246/pct:58.681364177405165,51.60616608652412,15.815349583398023,5.841206696502569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ nations, as might bhappily remove the dil­
 contents and fulpicions of the French go.  
 vernment, and vindicate the ¢onduélt o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:7.717442041387895,58.66,15.7305119029096,5.21/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:7.717442041387895,58.66,15.7305119029096,5.213333333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ Between the two Republics ; the firft step
 ‘of the Frénch government corresponded  
 with that expeflation : A few days befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:7.561848451843784,66.82,16.02613972304341,15.72/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:7.572221357813391,66.82,16.02613972304341,15.733333333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ been so unfortunately and injurioully impaired,
 and to explain the relative interests of both coun­  
 tries, and the real sentiments of his own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797052501:0002/pct:77.24411284681744,58.946439081812834,15.83119608300303,5.591524426133019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797052501:0002/pct:77.24411284681744,58.95011771630371,15.837024947540218,5.598881695114773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ i &quot; corn, flour, or meal, bound to any port in
 &quot; France, or any port occupied by the ar­  
 f. &quot; mies of France, and to fend them to fue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797053001:0003/pct:22.33844723384472,60.87983466194272,16.503951650395166,2.288160614112784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797053001:0003/pct:22.350069735006972,60.88721582521406,16.49814039981404,2.2807794508414525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1234,7 +1234,7 @@ and injuriously impaired, and to explain the
 relative interests of both countries, and the  
 real sentiments of his own.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061201:0004/pct:44.39263231522499,15.722526253512793,16.693868034506878,11.329684957846473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061201:0004/pct:44.39263231522499,15.722526253512793,16.717183492655632,11.337080313563082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1623,7 +1623,7 @@ aJdreffeJ the recalled MiniUer in the following
 terms. “ In prerent&#x27;ng to day to the Executive  
 Dire&amp;orv your le ters of recall, you give to Eu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798071601:0048/pct:72.33761329305136,29.20883164673413,21.922205438066467,7.831186752529899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798071601:0048/pct:72.32395695676799,29.205473151661494,21.92278648291486,7.833160860066689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1647,7 +1647,7 @@ favourable ix’nptéﬂiom. banish suspicion and
 to reflore that cordiality which was at once  
 the evidence and pledge of a friendly unios
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798071701:0535/pct:7.645593273123637,87.24555020159308,16.39676113360324,5.821614711377717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798071701:0535/pct:7.650783764144088,87.24882813780444,16.40714211564414,5.824892647589078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1733,7 +1733,7 @@ go-&lt;ls, the produce of the French West India islands,
 and coming direct hi from any.port of the said islands  
 to any port in Europe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805071701:0605/pct:28.57866734228528,66.15109084988603,21.43400050671396,2.4096385542168677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805071701:0605/pct:28.571428571428573,66.14032231808562,21.434903748733536,2.4133159693960606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1855,7 +1855,7 @@ or any part eccapicd by the armies of
 France ”’ - |  
 She issued her orders in council of No- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815052301:0294/pct:27.75235916499857,60.386131608207826,16.4426651415499,3.9522894976245833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815052301:0294/pct:27.761891144790773,60.39287037972978,16.4378991516538,3.9489201118636075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1921,7 +1921,7 @@ or commander thereof, in order that it may thereby ap­
 pear that the said ship really and wruly belongs to thie  
 cittzens vs oo of the parties. They have likewis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839052101:0289/pct:48.90446976336547,44.69988557162176,14.548641542506573,5.086861541662333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839052101:0289/pct:48.90446976336547,44.7068206248483,14.563248612328367,5.079926488435799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

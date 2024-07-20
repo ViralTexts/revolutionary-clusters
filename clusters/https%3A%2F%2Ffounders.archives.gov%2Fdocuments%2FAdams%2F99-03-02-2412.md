@@ -240,7 +240,7 @@ tomb.
 Can Smile at fate and wonder how they  
 mourn.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn85026955:00200293526:1879050601:0246/pct:114.5880574452003,66.80562793121418,50.11337868480726,35.07034914017718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn85026955:00200293526:1879050601:0246/pct:28.663263376819813,16.701406982803544,12.535450935904707,8.767587285044295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ Can smile at Fate, and wonder now they
 mourn.  
 Shall Spring to these sad scenes no more re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1879101501:0343/pct:116.11940298507463,156.26471357572586,48.88059701492537,20.612084750196182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1879101501:0343/pct:29.046107896210565,39.066178393931466,12.226992719805862,5.1530211875490455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

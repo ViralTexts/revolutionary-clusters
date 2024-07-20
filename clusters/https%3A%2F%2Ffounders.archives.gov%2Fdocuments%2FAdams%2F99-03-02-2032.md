@@ -443,7 +443,7 @@ Israel like unto Moses, whom the Lord knew face
 to face.  And in all that mighty band,  
 and in all the great terror which Moses showed i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743725:1870101601:0204/pct:203.54324097397145,154.44019914322104,47.0528967254408,4.943846242908418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743725:1870101601:0204/pct:67.84774699132382,51.48006638107368,15.684298908480269,1.6479487476361392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ death of Moses) testifies, “ tnere arose not a
 prophet since in Israel like unto Moses, whom  
 the Load knew face to face,” (ch. xxxiv. 10)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110181:1871082701:0003/pct:55.25342212356641,88.7146529562982,12.190159082500925,1.8123393316195373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110181:1871082701:0003/pct:55.25342212356641,88.71786632390746,12.19478357380688,1.8219794344473008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ man that ever lived, excepting the man Christ
 lesus, and that opinion in iater years had been ine  
 The lite of this wonderful man presente
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872032501:1029/pct:6.93564521507169,174.7937245787333,56.768922974324774,24.590354445090064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872032501:1029/pct:2.31188173835723,58.26457485957776,18.922974324774923,8.196784815030021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ unto Moses.&quot;
 hunt in the neighborhood of Ennis  
 yesterday, laden with the feathery
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297568:1876091001:0361/pct:62.65625,14.328520839008444,92.03125,252.9011168618905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297568:1876091001:0361/pct:15.667122484860323,3.582130209752111,23.012307091228756,63.225279215472625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -805,7 +805,7 @@ in Israel, like unto Moses, whom the Lord
 knew face to face.&quot;  
 The argument of the reverend gentlema
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn94052989:00175040109:1891080801:0352/pct:49.29441949967928,74.5134498574439,10.744066709429122,1.4999380190901201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn94052989:00175040109:1891080801:0352/pct:49.3024374599102,74.52274699392586,10.736048749198204,1.4937399281021446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1005,7 +1005,7 @@ America, in Holy writ finds expression in
 these words: &#x27;And there arose not a  
 prophet- since in Israel like unto Moses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:00211109397:1897021301:0880/pct:39.40774487471526,78.72457394172622,16.74259681093394,1.319406267179769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:00211109397:1897021301:0880/pct:29.561420163280804,59.043430456294665,12.568824757926713,1.0032985156679495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ whom the &#x27;Lord knew faco to face.
 burial so pathetic as this; and to me there  
 has been the death of but one great,an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109105:1897021401:0010/pct:23.11178247734139,18.895790200138027,16.805135951661633,2.8847481021394064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109105:1897021401:0010/pct:17.343661439637255,14.175293305728088,12.620442093330814,2.1670117322291236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

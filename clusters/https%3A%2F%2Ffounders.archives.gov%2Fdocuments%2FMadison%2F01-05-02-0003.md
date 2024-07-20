@@ -231,7 +231,7 @@ ou
 lion®and, “shall be free from all taxes, cus­  
 toms and impositions whatsoever, without th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842072301:0076/pct:5.978207519387454,82.18896907899092,15.009325611072937,0.9733165596239158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842072301:0076/pct:5.977620730270907,82.18352754237289,15.011124198403351,0.9754590395480226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ free trade as the people of England, to all places j
 ami with all nations,” and “shall be free from  
 all taxes, customs and impositions whatsoever, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080401:0308/pct:32.78468899521531,57.061755746330654,12.947368421052632,1.7931320963721962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080401:0308/pct:32.78155200459286,57.05780546902042,12.94931904442956,1.7953155647859698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ England, to all places and with all nations,&quot;
 and &quot;shall be free from all taxes, customs,  
 and impositions whatsoever, without the con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851082701:0724/pct:131.06312292358805,347.63721749339595,179.2358803986711,15.262694452597593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851082701:0724/pct:32.78620403075005,86.90930437334899,44.83690006233119,3.8156736131493982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ with all nations’ and &quot;shall be free from all
 taxes, customs and impositions whatsuver, without  
 the consent of tneir own assembly.” Betkele
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007020:00393342894:1851090201:0833/pct:41.9283276450512,64.84079870480302,12.8839590443686,2.2531030760928226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007020:00393342894:1851090201:0833/pct:41.921173861115854,64.83205180089033,12.886026275379628,2.256171590449211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ the people of England do enjoy, to all place&quot;, ! c
 and with all nations, according to the laws of I c  
 that commonwealth,&quot; accorded to her; and the &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851101301:0984/pct:45.62793427230047,49.246054938632376,13.482981220657276,7.060198714202221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851101301:0984/pct:45.63282472613459,49.24995129553867,13.482981220657276,7.067991428014806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ country, and that they ?MI have and enjoy
 auch freedom* and privilege* a* belong to the  
 free born people of Cngland,*1 ?kc. Security t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851101501:0190/pct:43.605236656596176,47.059479968753486,14.918716731405553,10.23323289811405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851101501:0190/pct:43.605236656596176,47.059479968753486,14.928307677552391,10.236952721050478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ and impositions, what soever, without the consent
 of their own assembly&quot;--thus early insisting on  
 the principle, that &quot;tuxation, without represe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857031901:0755/pct:81.52424942263279,137.0326409495549,59.98845265588915,12.655786350148368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857031901:0755/pct:20.377140658071966,34.253078178311824,14.994227438907062,3.1634772288977895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ all taxes, customs and impositions whatsoever;
 without the consent of ther assembly&quot;-thus early  
 insisting on the principal that &quot;taxation, withou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191009:1857032801:0299/pct:104.23318385650224,104.05176584421868,42.88789237668161,6.0595065312046446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191009:1857032801:0299/pct:34.74439461883408,34.68392194807289,14.295964125560538,2.019835510401548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ all nations, and be free from all taxes, customs, and
 impositions whatsoever; without the consent of their  
 assembly&quot; thus early insisting on the principle tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879099:1857041001:0064/pct:110.2543720190779,60.266535044422504,19.91255961844197,3.415597235932873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879099:1857041001:0064/pct:82.73028495692512,45.20236920039487,14.937044400265076,2.566633761105627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -734,7 +734,7 @@ inpositioiis whatever, without tbo consent of the
 &gt;rn:id Assembly, so that neither ports or castles be i  
 necled. or garrisons maintained without thuir con 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857060901:0205/pct:71.20991253644316,51.38941398865784,14.956268221574344,3.4782608695652173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857060901:0205/pct:71.21963070942662,51.395715185885315,14.956268221574344,3.4782608695652173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ ever; without the consent of their As­
 sembly—thus early insisting on the prin­  
 ciple that “ taxation without representa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1858030601:0213/pct:43.69320247182843,42.13738475522659,12.522719011268629,10.609011816647188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1858030601:0213/pct:43.706833878589606,42.147123750162315,12.513631406761178,10.599272821711466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -843,7 +843,7 @@ lotu and privileges as belong to the free born I
 leople of England, and that the foi uier govern- i  
 aent by the commissions and instructions b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861041501:0587/pct:15.113788487282463,47.78233685033216,12.356091030789827,5.402500976944119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861041501:0587/pct:15.122713074520304,47.78233685033216,12.351628737170905,5.409013937736095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ jndition, that neither forts nor castles should i
 e erected, nor garrisons maintained within t  
 er limits without her consent 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861041501:0587/pct:15.194109772423026,60.39468542399375,12.315930388219545,1.4458772958186792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861041501:0587/pct:15.194109772423026,60.39794190438973,12.329317269076306,1.4523902566106552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +887,7 @@ such freedoms and privileges as belong
 to the free-born people of England.  
 &quot;Secondly. That the Grand Assembly,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:0028077795A:1865012501:0083/pct:106.72937771345876,251.81514596574382,43.89290882778582,29.063880211138642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:0028077795A:1865012501:0083/pct:35.576459237819584,83.93838198858128,14.630969609261939,9.687960070379546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ fleet.
 &quot;Tenthly. That this agreement should  
 be tendered to all persons, and that suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:0028077795A:1865012501:0083/pct:149.31982633863964,43.7143164925132,43.95079594790159,74.15706129484003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:0028077795A:1865012501:0083/pct:49.77327544621322,14.571438830837732,14.650265315967196,24.719020431613345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

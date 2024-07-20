@@ -226,7 +226,7 @@ Will it not be useful also to make the places of Rendezvous and the portions of 
 Copy of a letter from Major-General  
 Harrison to the Secretary of Wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813102301:0081/pct:2.819548872180451,8.235184146569452,16.917293233082706,1.4395214058702561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813102301:0081/pct:2.8191072826938135,8.234414431255258,16.919864265204907,1.4425024145558776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ Harrison, to the Secretary of War, dated
 “ Col. Baby, a militia captain, taken from  
 the township of Delaware, upon the Thames
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814033001:0069/pct:21.614445034519385,12.730648717651155,16.64011329438839,7.055819890913311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814033001:0069/pct:21.61061946902655,12.729171501508471,16.64306784660767,7.058869033805214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ E xtradt of a letter from Major General Har­
 rison, to the Secretary of Wary dated  
 “Cincinnat, March 5, 181
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814041201:0061/pct:59.41595441595442,41.853932584269664,16.424501424501425,1.8984889577683068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814041201:0061/pct:59.42545109211776,41.85716130698695,16.424501424501425,1.9049464032028929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ places of rendezvous) the points, the impor­
 tance of exposure of which will be most  
 likely to attract the views of the enemy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814071301:0176/pct:40.0,69.18465227817745,17.155963302752294,2.8657074340527577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814071301:0176/pct:39.99266189689965,69.1763577508692,17.158931082981717,2.8693601886264637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ will be most likely to attract the views
 of the enemy, need but be suggested.  
 A report of the organization of you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814071401:0493/pct:43.79161118508655,58.02629142751342,18.009320905459386,5.536011849657471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814071401:0493/pct:43.78432351472791,58.02092011478293,18.01187108226549,5.538584960967633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ need but be suggested.
 A report of the organisation of your quo.  
 ta, when completed, and of its place or pla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814071801:0076/pct:62.3504721930745,79.96887820059415,17.985309548793285,8.190691752723158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814071801:0076/pct:62.33738984473353,79.95756718528996,17.9867813680235,8.193069306930694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ rendezvous, ) the points, the importance or ex­
 posure of which will b: nifost likely to attract ]  
 the views of the enemy, need but be suggested. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814071901:0118/pct:25.458161670691858,59.33842731405358,17.076289245631482,2.911306702775897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814071901:0118/pct:25.458161670691858,59.34165135248412,17.095231330207888,2.908082664345359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ which will be most likely &quot;to attract the views of the
 enemy, need but be sugyested. !  
 A report of the organization of your quota, whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814072001:1073/pct:25.644527915315006,15.59134472878174,23.134710602697627,4.080624444224879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814072001:1073/pct:25.650219111035227,15.59134472878174,23.15178418985829,4.090504890821065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ places of rendezvous) the points, the im­
 | portance or exposure of which will be most  
 likely to attract the views of the enemy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814072101:0527/pct:25.483718735252477,45.60117302052786,21.330816422840964,4.252199413489736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814072101:0527/pct:25.477707006369428,45.59448761178713,21.331682000471808,4.255241166984313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ fore n successor can he nominated, I shall continue to
 act until the 81st mat., by which time I hone to be re­  
 lieved
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840022901:0110/pct:35.334291876347955,75.37918410041841,15.744069015097052,3.3865062761506275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840022901:0110/pct:35.334291876347955,75.37918410041841,15.762041696621136,3.399581589958159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ vice should suffer before a successor can be nomi
 nated. I hall continue to act until the 31st instant,  
 bv which time I hope to be relieved
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840032501:0472/pct:47.99548277809147,8.06507045480582,20.666290231507624,10.79161415969756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840032501:0472/pct:36.00677774639932,6.048802841104365,15.518215193448178,8.09943865276664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ act until the 31st instant, by which time I hops
   
 to De reiieveu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840042501:0241/pct:113.25657894736842,14.998679693688937,19.0625,7.27488777396356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840042501:0241/pct:84.96463234084554,11.249009770266701,14.295114328014476,5.466068127805651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -811,7 +811,7 @@ I jwail myself of this occasion to offer to you toy
   
 great respect and best wishes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840091601:0571/pct:1.917693169092945,95.18155619596541,20.28275475923852,13.014409221902017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840091601:0571/pct:1.4419711605767884,71.38904899135447,15.217695646087078,9.763688760806916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ dent&#x27;s acceptance of his resignation.
 War Department, May 28, 1814.  
 Sir: Your resignation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840091601:0571/pct:2.2396416573348263,110.98559077809799,20.07278835386338,11.06628242074928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840091601:0571/pct:1.6799664006719865,83.23919308357348,15.06369872602548,8.29971181556196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ ored me:
 cessir could be nominated, I shall continue to act to  
 the 31st inst by which time I hopo to be rolieved
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840092601:0398/pct:135.8303606817281,261.66448230668414,40.005284713964855,15.11577107907383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840092601:0398/pct:45.270805812417436,87.2119689854756,13.333333333333334,5.0380401150303955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

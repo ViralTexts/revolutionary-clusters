@@ -77,7 +77,7 @@ work without interruption. No contract or any
 part of it is to be transferred or assigned. Any  
 workmen who may commit depredations on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832071801:0058/pct:37.19830803682508,64.94827283885674,17.193331674545906,10.135016657899351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832071801:0058/pct:37.18905472636816,64.93688639551192,17.195273631840795,10.137622720897616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ with any other person or persons to execute the
 work without interruption. No contract or any  
 part of it is to be transferred or assigned. An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832072501:0062/pct:54.95626822157434,81.31945669430235,17.006802721088434,9.648968071970366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832072501:0062/pct:54.94291960165169,81.30511463844798,17.00874423123634,9.651675485008818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ guch time as the Superintendant shall direct, the
 oontrnet shall become null and. void, and the Uni­  
 ted States shall be at liberty te employ or oenuaet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832080801:0071/pct:11.67076167076167,84.11115069469184,16.953316953316953,9.209120057000357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832080801:0071/pct:11.66789486612626,84.09617097061442,16.955293539670844,9.211932324131789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ work without interruption. No contract or any
 part of it is to be transferred or assigned. Any  
 workmen who may commit depcedations on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832081501:0075/pct:44.506973330070956,7.042747021723896,33.83900171274774,84.96846531184303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832081501:0075/pct:44.49608610567515,7.041513399894903,33.83683953033268,84.95796111403048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ n that no wiember of Congress shall be admitted to any
 or agreement, or to any benefit to arise  
 therto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530613:1859022501:0383/pct:151.68369911207907,264.86421533285267,47.59591221310102,3.7010334054313865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530613:1859022501:0383/pct:50.56123303735969,88.28807177761756,15.865304071033673,1.2336778018104622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ understood, before making a contract, &quot;that no member
 of Congress shall be admitted to any share or part  
 therein, or any benefit to arise therefrom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1859050601:0243/pct:107.92349726775956,100.96274591879447,42.595628415300546,3.8509836751778987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1859050601:0243/pct:35.974499089253186,33.65424863959816,14.198542805100182,1.2836612250592996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

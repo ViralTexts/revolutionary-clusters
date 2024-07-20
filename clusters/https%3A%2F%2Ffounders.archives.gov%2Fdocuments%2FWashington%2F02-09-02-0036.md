@@ -271,7 +271,7 @@ cil will be put to it iif desoribiug to the
   
 world what manner of man I am.&quot; , In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028297:0029602918A:1897022501:0892/pct:95.47116165718927,63.87434554973822,16.186027619821285,6.62232913541814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028297:0029602918A:1897022501:0892/pct:71.62299410928296,47.912834300268855,12.147064797887467,4.966746851563605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ the skill of this gentleman&#x27;s pencil
 will be pul to it in describing to the  
 world what manner of man 1 am.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_firefriend_ver01:data:sn91070630:00514152962:1899062601:0688/pct:29.954411370340573,59.573371805441056,12.630732099758648,4.863973619126133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_firefriend_ver01:data:sn91070630:00514152962:1899062601:0688/pct:29.96335031733262,59.573371805441056,12.626262626262626,4.867408628744161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

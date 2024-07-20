@@ -105,7 +105,7 @@ j deck till the flames had issued from the
 spar deck, hatch wavs and pom, and  
 before I pot from along side, the fire ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804060801:0279/pct:47.700358028091436,66.89802455953017,20.490223079041588,4.751735184196476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804060801:0279/pct:47.68722466960352,66.88612099644128,20.491464757709252,4.755338078291815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ got out of the harbour her cablet burnt
 off* *nd she drifted!* under the castle  
 where she was consumed. H can for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804060801:0279/pct:48.058386119526304,82.98629649403809,20.077113742770585,10.838227442605445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804060801:0279/pct:48.04515418502203,82.97153024911032,20.078469162995596,10.840747330960854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ then lying in the hurhour of Tripoli. Lieutenant De- :
 catur had orders to enter the harbour in the night,  
 h&#x27;mrd and let fire to the Philadelphia, and lieutenant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804112801:0243/pct:7.4303954601879765,3.46971769680388,17.27256605781167,8.25767939311031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804112801:0243/pct:7.429078014184397,3.4692862472021884,17.275413711583923,8.260797479897207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ the starboard quarter, and their g-n boats
 within halt gun shot on the starboard bow.  
 All the gtms of the frigate were mounte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813061701:0188/pct:41.09417040358744,48.08464064210142,16.8609865470852,3.988811869147513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813061701:0188/pct:41.08680057388809,48.07879377431907,16.86394069823051,3.9923800259403373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ strongly fortified harbor.
 Although from the entrance to the pl  
 where the (rigate lay was only three mil 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813062401:0848/pct:26.5082574991574,9.913283405597163,22.615436467812604,8.85888845092629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813062401:0848/pct:26.513874845522974,9.916568125082119,22.632288506909337,8.862173170411246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ in half gunshot on the starboard bow.
 All the guns of the frigate were mount­  
 e ? and loaded. Such were the imme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820050301:0040/pct:24.093311463459084,30.532246463677776,17.896847093129214,5.945816350994965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820050301:0040/pct:24.093311463459084,30.540238152321585,17.915071988336067,5.94182050667306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ gun-shot, on the starboard bow, and all the batte­
 ries on shore were openeilupon the assailants.  
 Decatur set fire to the frigate, and continued alon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840062001:0066/pct:51.33289986996099,40.24079648066682,23.650845253576072,8.682565408659412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840062001:0066/pct:38.51406275402373,30.180597360500116,17.736953340920177,6.517712433433665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

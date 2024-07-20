@@ -49,7 +49,7 @@ I templated. I recommend therefore to j
 &#x27;■ may think the exigency requires.  
 TH: JEFFEHSON. j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804032101:0002/pct:24.568023833167825,84.44884488448845,17.557100297914598,12.778877887788779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804032101:0002/pct:24.581264481959614,84.44884488448845,17.5504799735187,12.783278327832782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ appropriation as they shall thiuk the exi­
 gency requires.  
 TH : JEFFERSON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804033001:0244/pct:51.400598313842806,35.970464135021096,20.397062822953494,13.537271448663853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804033001:0244/pct:51.386623164763456,35.964141325364736,20.39831430125068,13.539286342063631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ to that appropriation as they may think the ex­
 igeney requires, TH : JEFFERSON.  
 March 20th, 1804
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804040501:0465/pct:53.29996292176492,12.065154159394996,19.799777530589544,10.389761489237928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804040501:0465/pct:53.312322333456926,12.07291060694202,19.793597824743543,10.389761489237928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ jjaVvIe : —
 exigency require*.  
 Tu: JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804040701:0098/pct:3.364649333624645,44.13676179711783,22.30718811448547,11.58519355750212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804040701:0098/pct:3.363914373088685,44.13052691058059,22.30777632153779,11.58708857183218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ that appropriation as they may think
 the exigency requires.  
 &#x27; TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804041001:0472/pct:24.996128232925507,17.548076923076923,16.47824066904135,12.576923076923077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804041001:0472/pct:25.00129058902483,17.55128205128205,16.483403025140674,12.580128205128204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

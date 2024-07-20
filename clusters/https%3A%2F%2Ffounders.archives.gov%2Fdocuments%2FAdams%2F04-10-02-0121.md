@@ -655,7 +655,7 @@ ty’ ol every one who lives by the plough,
 prompts me lo quote for your recollection  
 this remark of the lion. Senator DicfaxsoN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624232:1845120401:0087/pct:26.73872180451128,56.82878772166338,16.744987468671678,11.915379031421757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624232:1845120401:0087/pct:26.73872180451128,56.83224446057589,16.755430242272347,11.918835770334267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ wnoseoreatli perfumes you and whose pencil
 , .paints.  
 Or in the still more sublime and loftv la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1846070901:0821/pct:47.00244698205547,23.92191142191142,19.33115823817292,4.108391608391608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1846070901:0821/pct:35.278514588859416,17.94871794871795,14.507243419710264,3.0885780885780885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +940,7 @@ In adoration join ; and, ardent, raise
 One general song ! To him, ye vocal gales.  
 Breathe soft, whoae spirit in your freshness breathes 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474290:1876123001:0325/pct:7.681347150259067,36.777408637873755,14.455958549222798,5.946843853820598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474290:1876123001:0325/pct:5.766489568485163,27.58582502768549,10.84618375016198,4.462901439645626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

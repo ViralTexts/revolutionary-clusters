@@ -156,7 +156,7 @@ liberty to consider the whole convention as dissolved.
 The convention of the State ofVirgina, which  
 met to ratify the Federal Constitution, in the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00202193973:1850043001:0135/pct:76.48141332351858,47.1967133881102,22.101582627898416,25.70082165297245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00202193973:1850043001:0135/pct:76.49368175683965,47.1967133881102,22.095448411237886,25.71290478492025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ breach of any one article, by any one party,
 leaves all the other parties at liberty to consider  
 the whole dissolved; that tliey were a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00202193973:1850043001:0136/pct:4.410943606923507,23.467079414215977,20.770519262981576,5.048220026193595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00202193973:1850043001:0136/pct:4.410943606923507,23.467079414215977,20.770519262981576,5.060126205500655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ which met to ratify the Federal Constitution,
 in the terms of ratification, used the following  
 lanmuure:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850071901:0119/pct:79.51956074124914,19.1001514168289,15.223061084420042,21.27406446030716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850071901:0119/pct:79.51956074124914,19.107361742014564,15.232212308396248,21.277669622899992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ to it !&quot;
 And what more &#x27;fundamental principle of the  
 compact&quot; can be pointed to than these : the equalit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850073101:0160/pct:59.34992520059839,25.065713384502157,14.86468108255134,7.422983913363474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850073101:0160/pct:59.354458497665355,25.072722812182384,14.869214379618297,7.419479199523359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ tions, that a breach of any one article by any
 one party, leaves all the other partics at liherty  
 to consider the whole convention as dissolved.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026923:00237288154:1851011601:0005/pct:165.68868333574216,46.662927650028045,38.28587946235005,18.1491867638811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026923:00237288154:1851011601:0005/pct:55.22956111191405,15.554309216676014,12.76195982078335,6.0497289212937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ Mr Mndisoo. And, in the third place, where
 slavery exists, the republican theory becomes  
 still more fallaoiou*.?Pag* 899
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853060901:0778/pct:48.00613496932515,92.00420328620558,12.70217512548801,1.5284677111196026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853060901:0778/pct:48.01078267335936,92.00738759393708,12.71611823759063,1.5316520188511018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ in the third place, where Slavery exists
 the Republican theory becomes still more  
 fallacious.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860011701:0600/pct:177.04918032786884,251.04376390802162,36.22950819672131,6.2625834481297025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860011701:0600/pct:59.04059040590406,83.68125463600721,12.081454147874812,2.087527816043234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ member of the Union to discharge its duty.
 And in the 21st number of the Federalist  
 which was an elaborate exposition of the Co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860121401:0405/pct:26.48590890877521,26.266453928998803,13.650327233872044,22.93577981651376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860121401:0405/pct:26.48590890877521,26.26977795505917,13.654779395396465,22.939103842574127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -910,7 +910,7 @@ Extract from a speech of Mr. Webster&#x27;s, deliver­
 ed at Capon Springs, Va. &quot;I do not hesitate to  
 say and repeal that if the Northern States refus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1861011801:0268/pct:84.3815128110825,49.7947418988558,13.546647051612112,22.298890732815092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1861011801:0268/pct:84.38968575048015,49.7947418988558,13.542560581913285,22.301802195242672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -942,7 +942,7 @@ cases enumerated. The necessity of any such provision sup­
 posed a danger of undue acquital in the State tribunals,of  
 what avail would an appellate tribunal be after an acquital
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861011901:0173/pct:251.62835249042146,80.52927927927928,45.80140485312899,18.75/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861011901:0173/pct:83.87611749680715,26.843093093093092,15.267134951042998,6.25/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,7 +1006,7 @@ tions of this sort to the Articles of Confede­
 ration? So far from it, that there is not even  
  an express stipulation that force shall be use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861012701:0042/pct:65.87651598676958,184.58769265384183,34.454244762954794,68.21914726065924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861012701:0042/pct:16.47366969947615,46.14692316346046,8.615936035290874,17.05478681516481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1117,7 +1117,7 @@ page 32
 pane e  
 &quot;In the first place, it is tor bes remembered, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032701:0294/pct:247.39467849223948,293.2995138448531,47.72727272727273,90.88987529063623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032701:0294/pct:61.85724185724186,73.32487846121327,11.933471933471933,22.722468822659057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1223,7 +1223,7 @@ by any one party leaves all the- other par­
 ties at liberty &#x27;to consider the whole Con­  
 vention ; aV ; dissolved;&#x27;;&quot;&#x27;- In f whichever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1866021701:0063/pct:58.268540669856456,112.36627171287243,16.357655502392344,13.321062924191878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1866021701:0063/pct:43.71167937789741,84.27470378465432,12.27755346194108,9.996548947428966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

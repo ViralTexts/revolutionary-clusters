@@ -169,7 +169,7 @@ nations as would leave no doubt on
 th&#x27;s sum  
 I have the honor to be, kc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111401:0001/pct:57.77733912356889,8.152882859379076,34.4255823134623,88.03809026871902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111401:0001/pct:57.79049874983551,8.157231063570745,34.412422687195686,88.04243847291069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ tility towards theif union, the t justly
 no doubt on this sul.ji ct.  
 I have the liunour to !. ■, &amp;r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808111801:0215/pct:53.572343149807935,2.829878249424153,43.40588988476313,93.59986837775584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808111801:0215/pct:53.558627752176136,2.8294127323572957,43.40117767537122,93.58858364862643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ thelatt&#x27;er might justlyct expect a tend-(us (if
 ,on shis dubjsct. &#x27; ss &#x27; &#x27; si - &quot;  
 _&#x27; I have: the-}-xonor&#x27;t01.&gt;e, &amp;c. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111801:0576/pct:30.73782443861184,36.996793729960814,23.126275882181393,27.351264695404346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111801:0576/pct:30.733343052923168,36.99349897586606,23.12776400835885,27.35179742927539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ of such explanations as would leave no doubt
 on this subject.  
 1 have the honor to be, 5cc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112201:0236/pct:5.185589519650655,2.345415778251599,35.55312954876273,94.30578201429826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112201:0236/pct:5.18464617063853,2.345121645347379,35.55272572918562,94.29813560739069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ pb.nations as would leave n« doubt on thi­
 subjsrtl.  
 1 have the honor to he, Stc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112501:0385/pct:40.66350710900474,40.49480835790283,17.80094786729858,22.779130880656325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112501:0385/pct:40.65579984836998,40.489618046654705,17.803891837250443,22.780483636674358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ of such explanations aswooW leave
 no doubt On this aubjcct.  
 I I have the honor to be, tfi#£ ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808120201:1073/pct:37.75067750677507,40.043470991473,16.504065040650406,31.01488045477345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808120201:1073/pct:37.74044974261718,40.03677699765964,16.506366838255214,31.013874958207957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ titude of redress.&quot; Has this redress ever
 been obtained? To my knowledge or be­  
 }in it never has. The mere-mors of Ros
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809011001:0124/pct:4.040252328026434,74.57764929081218,23.700811054370682,7.877857078326858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809011001:0124/pct:4.039645592431296,74.57091237579043,23.702257596235672,7.880156579343571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

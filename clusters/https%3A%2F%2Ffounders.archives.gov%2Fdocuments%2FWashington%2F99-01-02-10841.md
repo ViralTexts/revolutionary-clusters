@@ -689,7 +689,7 @@ obje&amp;s of his mifion are accomplithed.
 The meeting was then d&#x27;flolved.  
 ~ Horatio Gatss, Mej, Gen. Prefidest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0350/pct:9.117743522466382,13.523729525409491,27.25483765168908,52.84544309113818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0350/pct:9.117743522466382,13.527229455410891,27.265770197879085,52.84544309113818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ Banner totally fubveriive of all difeipiine and good order.”]
 Many among us even at this day, ahtrfe the memory of  
 &#x27;Vh&amp;mgtyn becaufe the army wa* dilcharged when ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804080601:0165/pct:5.020170327207531,75.46862265688672,22.658000896458987,16.232002173322467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804080601:0165/pct:5.019045485099709,75.45837294581013,22.65852565538875,16.23319299198696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ to sully the reputation and glory which thev
 have acquired at the price of their blood, and  
 eight years faithful services
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816031201:0222/pct:61.51572725353599,5.291005291005291,36.457673633101116,92.76419276419277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816031201:0222/pct:61.50274377374419,5.290248784672577,36.45525538201773,92.75450386045182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1000,7 +1000,7 @@ meeting, and the resolutions were drawn by a
 committee consisting of General Knox, Colonel  
 Brooks and Captain Howard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1843042701:0420/pct:81.76024279210925,46.368977673325496,15.098634294385432,12.103407755581669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1843042701:0420/pct:81.74783796085572,46.36352954999413,15.101400900217469,12.105902165824618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1188,7 +1188,7 @@ hour. In half an hour the report was
 ready. The resolutions were short and  
 spicy and to the point. They were car
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876062901:0141/pct:103.80139643134213,18.78761191839131,86.65632273079908,363.7164244826068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876062901:0141/pct:25.955383123181377,4.696902979597827,21.668283220174587,90.9291061206517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1217,7 +1217,7 @@ hour. In half an hour the report was
 ready. The resolutions were short and  
 spicy and to the point. They were car
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292510:1876062901:0108/pct:254.62686567164178,336.29723721816447,65.67164179104478,33.280406478247066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292510:1876062901:0108/pct:63.7042569081404,84.07430930454112,16.430171769977594,8.320101619561767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1301,7 +1301,7 @@ be appoinied to draft resolutions and
 report in half an hour. In half an hour  
 the report was ready. The resolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063991:00514153541:1876070701:0046/pct:30.936613055818352,31.078639327519838,12.561757594870178,6.449838950428156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063991:00514153541:1876070701:0046/pct:30.940117032832266,31.078639327519838,12.565261571884088,6.4576950271034645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1328,7 +1328,7 @@ lie appointed go draft resolutions and
 report in half an honr. In half an hour  
 the report was ready. The resolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1876072701:0465/pct:16.001040718095485,83.40197693574959,9.600624430857291,5.467462932454695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1876072701:0465/pct:16.001040718095485,83.40884129599121,9.609297081653008,5.467462932454695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ b6 appointed to draft resolutions and
 report in haSf an hour. In half an hour  
 the report was ready. The resolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194035:1876080201:0001/pct:12.396278601961278,83.71813816032508,12.47171234598944,8.173254525304765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194035:1876080201:0001/pct:12.396278601961278,83.72121659894101,12.48009387310368,8.179411402536633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1579,7 +1579,7 @@ late anonymous addross to them.&quot; The
 crestfallen Gates, as chairman, had nothing  
 to do but put the question and report i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886050101:0241/pct:71.7551622418879,42.14046822742475,49.18879056047198,9.810479375696767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886050101:0241/pct:17.942098469481838,10.535117056856187,12.29946524064171,2.4526198439241917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1762,7 +1762,7 @@ and glory which they leave acquired at j
 the price of their blood and eight years  
 of faithful service.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898022001:0388/pct:46.336633663366335,54.07390917186109,14.752475247524753,6.444790739091719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898022001:0388/pct:46.336633663366335,54.07761947165331,14.757975797579759,6.448501038883942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1791,7 +1791,7 @@ and glory ay Inch they have
 the price of -their blood and  
 of faithful service.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn99061556:00415667450:1898022201:0167/pct:85.69428891377379,78.14993596689982,19.21892497200448,8.403112993793714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn99061556:00415667450:1898022201:0167/pct:64.29571548585831,58.61491478672052,14.42173060767292,6.3047975568909465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

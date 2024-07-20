@@ -230,7 +230,7 @@ mota, who met him with tlx? gratulatory song,
 Itasr made such an impre*»i«Ni oti hi* metnorv, as,  
 he »»»un » litem, will tu tci U eflaevd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186920:1833062701:0201/pct:24.186617556783304,46.51292958692488,14.472068753836709,5.787529385424829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186920:1833062701:0201/pct:24.182906245204848,46.50772330423103,14.474962917497827,5.790612640847698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ maiie such an impression on his remem­
 brance, as, he assures them, will never be  
 affaiied.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874030501:0242/pct:84.31626701231367,54.548816568047336,11.195722618276086,7.0266272189349115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874030501:0242/pct:84.30260813218857,54.54209293726119,11.19795885306982,7.028842598299026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ ed for the present occasion, and the inno­
 cent appearance of the white-robed choir  
 who met him with a congratulatory song.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876122101:0412/pct:62.385471204188484,40.85756530310498,11.027486910994764,3.4622966978807295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876122101:0412/pct:62.375265826926224,40.85253172354318,11.029772615736954,3.464950104718492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ him with the gratulatory song, have made
 such impression on his remembrance ns,  
 he assures them, will never be effaced
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1885043001:0496/pct:16.73547157827882,64.39846926572591,10.828834550651,6.350155465199713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1885043001:0496/pct:16.73281473249722,64.39076886284826,10.831084299095094,6.352385507592969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ pearance of the white-robed choir, who
 met him with the gratulatory song.&#x27;  
 “And now, my dear Nancy, I trus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889050901:0079/pct:51.19846596356663,14.102202145680407,11.083413231064238,1.821005081874647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889050901:0079/pct:51.188650306748464,14.100211714890614,11.086081288343559,1.8242766407904023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ ratulatory song, have made ‘such im­
 ressloh# on his remembrance as he as- j  
 ures them will never he effaced.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340251:1897010601:0020/pct:50.450450450450454,80.3105151729005,11.13377528471868,13.182780522230063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340251:1897010601:0020/pct:50.4418762746431,80.29918148461755,11.13613188307274,13.18444820773356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -89,7 +89,7 @@ preserving it within iis present limits. A
 climate, laws, language and manners. d?f-j j  
 ferent f om our own; seas and chains cfj 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806100101:0324/pct:40.20520615618469,59.14926728050836,18.012540376211287,5.31707949682272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806100101:0324/pct:40.19756838905775,59.141597510373444,18.015450861195543,5.320712309820194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ ritime blockade Is incomplete wilh regard to states
 at peace, unless the place which it would affect.is  
 Invested by Lml
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811111801:0836/pct:5.580246913580247,56.46853146853147,20.938271604938272,3.0356007628734902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811111801:0836/pct:5.57886941495927,56.45955823931352,20.939274253270796,3.0390910535515654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ be contended, on principle and early mage,
 that a maritime blockade is incomplete with  
 regard to state*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811120201:0394/pct:4.995340167753961,63.10349174335056,17.539608574091332,2.205975040968108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811120201:0394/pct:4.994409243384271,63.09553819006806,17.54255186979749,2.2098983278716076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ blockade is in complete with regard to states
 at peace, unless the place which it affects, n  
 invested by land as well as by sea. ’ And ) c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812061801:0560/pct:30.941036331149494,10.42939192269122,21.73913043478261,4.494484456194731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812061801:0560/pct:30.936429953848446,10.428441203281677,21.740856533174533,4.497113339410514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ that if these two questions bad nut been united to­
 gether, the orders in council would have been, in  
 1810, revoked. How. could, it be expected tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812062201:1203/pct:52.411417322834644,12.220058422590068,20.693897637795274,4.803635183382019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812062201:1203/pct:52.398523985239855,12.218075612526366,20.694956949569494,4.806912218075612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ plete with regard to states at peace, unless
 the place which it aHecta U invested by land  
 aa well aa by aea.” And yet in this sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062201:0192/pct:9.943977591036415,60.6420507996237,16.316526610644257,3.8099717779868296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062201:0192/pct:9.942237003325749,60.63492063492063,16.319505222008285,3.813443072702332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ these two questions had not been united to­
 gether, ther the Orders in Council would  
 have been, in 1810, revoked, llow could it b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812062601:0062/pct:41.66821130676552,7.119144227222427,17.53475440222428,4.401819746710931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812062601:0062/pct:41.66048925129726,7.118268994344726,17.537682233753397,4.4053766084747155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ with regard to States at peace, unless the
 J place which it would effect is invested by land  
 ! as well as hy sea.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861091301:0119/pct:37.29346970889064,86.42843382777885,11.932861264096513,2.8703525332305913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861091301:0119/pct:37.302211731794735,86.43485519809927,11.924119241192411,2.8703525332305913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ ship between tbe pure maxims of an honest
 and magnanimous policy and the solid re­  
 wards of prosperity and public happiness.’”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872063001:0001/pct:27.387950036737692,78.93823231592651,10.892725936811168,1.1138434832923478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872063001:0001/pct:27.401726671565026,78.94908144076378,10.892725936811168,1.1102271083465933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

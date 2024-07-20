@@ -68,7 +68,7 @@ onsistvnt w ith the strictest irood faith havinir never lie
 lieved there was one code of morality for a public and i  
 another for a private man &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661113:1858011401:0072/pct:83.06962025316456,29.01087907965487,16.914556962025316,18.48193072402151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661113:1858011401:0072/pct:83.06962025316456,29.01087907965487,16.930379746835442,18.490267183527155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ mil that oar hostility should never be etercised by such petty means.&quot; ing 
 Still the political enemies of the* President charger! him in N  
 with favoring this expedition ; but he repels the charge emi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661113:1858011601:0080/pct:66.86766105998096,62.124248496993985,17.28022849888924,6.450400801603206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661113:1858011601:0080/pct:66.86766105998096,62.13259853039412,17.29080715116894,6.450400801603206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ i public and another for a private man.&quot; What a mark- sumi
 sd difference all this presents to the gigantic scheme of jn II  
 ivur, conquest, and alliance which the federal leaders en- Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661113:1858011601:0080/pct:66.97873690891781,70.30310621242485,17.1374166931133,4.534068136272545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661113:1858011601:0080/pct:66.97873690891781,70.30310621242485,17.1374166931133,4.538243152972612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ cles
 t  
 It is to be regretted that Mr. Jefferson di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896031501:0989/pct:123.19164802386278,112.61901163669337,49.88814317673378,37.23741876983527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896031501:0989/pct:30.80939947780679,28.154752909173343,12.47668780305856,9.309354692458818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ and sense of fair play that no suggestion is
 made of partisan purpose in connection  
 with the case. Whatever the result, w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199379:1896032501:0166/pct:75.15985274171672,250.7446221731936,49.990311955047474,51.99944842801985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199379:1896032501:0166/pct:18.78996318542918,62.6861555432984,12.497577988761869,12.999862107004963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -71,7 +71,7 @@ and the Last Button Hole on the
 Breast to be right opposite the Button  
 on the Hip.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn84020358:00271763025:1894112401:0987/pct:61.46864686468647,17.027067896567367,16.604785478547853,14.395886889460154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn84020358:00271763025:1894112401:0987/pct:46.11099649267588,12.777861787388478,12.461316278110171,10.796915167095115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ and the last Button Hole on the Breast
 to be right opposite the Button on the  
 Hip
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn97067584:00200296345:1895011501:0563/pct:137.36654804270464,310.33470346447444,57.11743772241993,46.741045214327656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn97067584:00200296345:1895011501:0563/pct:34.35692033822875,77.58367586611861,14.285714285714286,11.685261303581914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ and the last Button Hole on the Brea3t
 to be right opposite the Button on the  
 Hip.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340214:1895020801:0137/pct:15.199590583418628,73.05475504322767,11.071306721255544,7.334293948126801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340214:1895020801:0137/pct:15.196998123827392,73.04422993804927,11.07368241514583,7.336839072179801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ of any other of God’s creatures. He
 used to spend hours watching the ways  
 of the birds in the back yard and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895022101:0032/pct:66.10452749924035,80.68570034163007,10.042540261318749,8.089311859443631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895022101:0032/pct:66.0944857967492,80.67585702086129,10.044812395564332,8.09137489325363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ lel with the button holes and the last
 button hole on the breast to be right  
 opposite the button on the hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00175048753:1895022801:0530/pct:107.85851472471191,90.29588482031515,19.638284250960307,13.377168121528172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00175048753:1895022801:0530/pct:71.94555644515613,60.19725654687677,13.09847878302642,8.92189094207006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ and the last Button Hole on the Breast
 to be right opposite the Button on the  
 Hip.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_elizabethtown_ver01:data:sn86090439:00517175390:1895031601:0556/pct:25.742115027829314,25.310467179183913,16.512059369202227,12.448255470136015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_elizabethtown_ver01:data:sn86090439:00517175390:1895031601:0556/pct:25.74791280148423,25.31785925487877,16.517857142857142,12.451951507983441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ to be right opposite the Button on the
   
 Hip.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_beaver_ver01:data:sn92070477:00280773505:1895050801:0611/pct:17.903458213256485,63.20251937984496,62.39193083573487,25.944767441860463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_beaver_ver01:data:sn92070477:00280773505:1895050801:0611/pct:13.441441441441441,47.40794573643411,46.810810810810814,19.476744186046513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ and the lust Button II ule on the Breast
 to bo right opposite the Button on the  
 Hip.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_cinquefoil_ver04:data:sn92070454:00280773669:1895092701:0249/pct:32.308970099667775,91.68298930239565,17.400332225913623,14.464366430616243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_cinquefoil_ver04:data:sn92070454:00280773669:1895092701:0249/pct:24.23676012461059,68.76600873888805,13.063343717549325,10.848274822962182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -115,7 +115,7 @@ my departure for the land of spirits.
 It was evident, however, that, full of health and  
 viger, he looked forwardto his long cherished hope, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859052001:0135/pct:199.21246923707957,252.93977624375148,48.1214109926169,9.021661509164485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859052001:0135/pct:66.40415641235985,84.31325874791716,16.0404703308723,3.0072205030548282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ and vigor, he looked forward to his long-
 cherished hope, the enjoyment of a serene old  
 Se in this nome of his heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1859061101:0710/pct:133.5635359116022,356.0889131324151,50.69060773480663,18.982681030955952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1859061101:0710/pct:33.39088397790055,89.02222828310377,12.672651933701658,4.745670257738988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ and vigor, he looked forward to his long-cher
 ished hope, the enjoyment of a serene old age  
 in this home of his heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859070201:0007/pct:49.13805805215854,103.93368010403121,37.39501989096803,8.539228435197225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859070201:0007/pct:16.379352684052847,34.64456003467707,12.465006630322677,2.8464094783990754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ health and vigor, he looked forward to hi*
 loug-cheri.-hed hope, the enjoyment of a  
 serene old age in this home ol hi- heart.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859071201:0537/pct:31.949685534591193,35.65049725999594,15.164220824598184,4.718895879845748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859071201:0537/pct:31.949685534591193,35.65387998105676,15.168879571395294,4.718895879845748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ long cherished hope, the enjoyment of
 n serene old age in this home of his  
 heart.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1859071401:0905/pct:3.4812384077614498,54.00924777264012,13.939221001569411,6.653885192286005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1859071401:0905/pct:3.4812384077614498,54.00924777264012,13.943976791743948,6.661403706627571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ health and vigor, he looked forward to
 his long-cherished hope, the enjoyment of  
 a serene old age in this home of his heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1859072001:0114/pct:126.671974522293,68.35211696618946,47.77070063694268,26.74383186110265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1859072001:0114/pct:31.680605336519314,17.088029241547364,11.947431302270012,6.685957965275662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ health and vigor, he looked forward to his
 long cherished hope, the enjoyment of a se­  
 rene old age in the home of his heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859072101:1198/pct:65.74585635359117,43.136963941237575,13.45698500394633,5.163970915566107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859072101:1198/pct:65.75243357011313,43.136963941237575,13.45698500394633,5.163970915566107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ It was evident, however, that full of
 health and vigor, he looked forward to  
 his long cherished hope, the enjoymen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1859072701:0013/pct:17.17826776192535,63.08768860704133,12.364894076956334,4.646840148698884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1859072701:0013/pct:17.17826776192535,63.08768860704133,12.369697843108998,4.650484729207668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ health and vigor, ho looked forward to his
 long-cherished hope, the enjoyment of a  
 serene old age in this home of his heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1859072901:0154/pct:43.417667238421956,87.81127129750983,19.51114922813036,5.854084753167322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1859072901:0154/pct:32.58258258258258,65.86573467307413,14.65036465036465,4.397844764817242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ health and vigor, he looked forward to his
 long cherished hope, the enjoyment of a  
 serene old age in this home of his heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84020047:0029587756A:1859090701:0324/pct:255.03023639362286,156.27610901133878,36.998350742166025,12.572110602745177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84020047:0029587756A:1859090701:0324/pct:63.77508935936211,39.069027252834694,9.252130877096508,3.143027650686294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ health and vigor, he looked forward to his
 long cherished hope, the enjoyment of a  
 serene old age in this home of his heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1859091301:0527/pct:215.89643652561247,130.94725511302477,37.58351893095768,12.852529601722281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1859091301:0527/pct:71.9855193539404,43.64908503767492,12.531328320802006,4.284176533907427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ and vigor, he looked forward to his long cher­
 ished hope, lite enjoy men t of a serene old age  
 in this bogie of his heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1859102901:0565/pct:30.77884958913898,41.81985294117647,12.450875312611647,3.6896008403361344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1859102901:0565/pct:30.783315469810645,41.82641806722689,12.450875312611647,3.6896008403361344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ form, that no reproagh may attach itself to me
 when I have taken my departure for the land  
 of spirits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077568A:1860022201:0175/pct:173.45003646973012,176.1237059363124,47.921225382932164,8.282007600576595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077568A:1860022201:0175/pct:43.378329076979206,44.0309264840781,11.98467712513681,2.0705019001441487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ form,&#x27; that no reproach may attach itself to me
 when I have .taken my departure for the land  
 Of spirits. &#x27; - &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1860032801:0268/pct:7.5927015891701,76.57242495952174,16.288993525603296,4.5958400797110475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1860032801:0268/pct:5.695364238410596,57.4293187196413,12.229580573951434,3.449993772574418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ form th it no reproach can attach itself
 to me when 1 have taken my departure  
 for the land of spirits.” This system o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1886122901:1002/pct:60.92495859345139,23.440968718466195,10.714740731303351,5.630676084762865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1886122901:1002/pct:60.933452244447274,23.440968718466195,10.714740731303351,5.640766902119072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ form th-it no reproach can atlaeh itself !
 to me when I have taken my departure  
 for the land of spirits.&quot; This system o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287277:1887010501:0252/pct:70.64007421150278,14.988061645322336,14.100185528756958,6.088560885608856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287277:1887010501:0252/pct:70.64007421150278,14.988061645322336,14.105339105339105,6.092178568844512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

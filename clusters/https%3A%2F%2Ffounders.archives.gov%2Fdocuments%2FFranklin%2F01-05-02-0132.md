@@ -187,7 +187,7 @@ Cuyahoga river, known then as the Tioga
 river, &quot;where a post should be formed and  
 a town erected for the trade of the lakes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1887102201:0295/pct:191.68,52.881176314743676,57.84,7.577162538084514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1887102201:0295/pct:47.92,13.220294078685919,14.46,1.8942906345211286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

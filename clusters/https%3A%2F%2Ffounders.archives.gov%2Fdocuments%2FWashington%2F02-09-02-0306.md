@@ -168,7 +168,7 @@ lo the professors. With very great
 &#x27;our most obedient, humble servant,  
 George Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898111801:0847/pct:2.629615814994405,69.08526673562879,12.56993659082432,19.742869809368997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898111801:0847/pct:2.6420489866965062,69.09511846707059,12.56993659082432,19.752721540810796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ crally for your own particular atten­
 tion to Mr. Custis and sufficiently re­  
 ward the other gentlemen who wero
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_jasper_ver01:data:sn90051300:00340586104:1899021601:0175/pct:24.48773083733873,31.45129996119519,11.61143435365545,13.93092743500194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_jasper_ver01:data:sn90051300:00340586104:1899021601:0175/pct:24.50037945863901,31.465851765618936,11.61775866430559,13.93092743500194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ regard, reverend sir, I am your most
 obedient humble servant.  
 &quot;GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_jasper_ver01:data:sn90051300:00340586104:1899021601:0175/pct:24.41183910953706,57.14008537058595,11.282570199848216,7.586340706247575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_jasper_ver01:data:sn90051300:00340586104:1899021601:0175/pct:24.41183910953706,57.154637175009704,11.295218821148495,7.586340706247575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ regard, reverend sir, I am your most
 obedient humble servant.  
 &quot;GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283077:1899021601:0090/pct:77.1236187845304,43.13009614214433,43.83632596685083,100.69368382621394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283077:1899021601:0090/pct:51.424624417199105,28.75745405865888,29.235019858400968,67.1291225508093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ regard, reverend sir, I am your most
 J obedient humble servant.  
 &quot;GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669550:1899021601:0675/pct:56.43327348892878,47.01761615329144,42.908438061041295,96.52827856186258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669550:1899021601:0675/pct:37.632799640879846,31.34851138353765,28.60990573095915,64.3556196559184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ regard, reverend sir, I am your most
 obedient humble servant.  
 “GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013857:1899021601:0397/pct:35.65729483282675,29.60810810810811,29.217325227963524,66.67567567567568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013857:1899021601:0397/pct:35.65052231718899,29.604107553033373,29.216524216524217,66.67004458856911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ regard, reverend sir, I am your most
 obedient humble servant.  
 &quot;GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_isabel_ver01:data:sn85030529:00212473893:1899021701:0869/pct:32.21311475409836,40.391061452513966,37.21311475409836,87.61173184357541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_isabel_ver01:data:sn85030529:00212473893:1899021701:0869/pct:24.16478786636606,30.293296089385475,27.936052469768395,65.7122905027933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ regard , reverend sir. I am yo.ur most
 obedient humble servant.  
 &quot;GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536676:1899021701:0406/pct:48.91590013140605,38.673213062343,36.74441524310118,84.7567937885362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536676:1899021701:0406/pct:36.70719684521853,29.010618862754054,27.571475517581334,63.56474080840375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ regard, reverend sir. I am your most
 obedient humble servant.  
 *’G EORG E W ASH INGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_elkton_ver01:data:sn90051267:00383340913:1899021801:0709/pct:64.10116943160185,29.07385697538101,29.94288822409573,66.04142243063697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_elkton_ver01:data:sn90051267:00383340913:1899021801:0709/pct:64.11476747348382,29.07874169597499,29.936089203154747,66.04630715123095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -727,7 +727,7 @@ regard, reverend sir, I am your most
 obedient humble servant.  
 &quot;GEorGdE WASHiNGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1899022401:0377/pct:68.18910256410257,87.86703601108033,82.6923076923077,190.52631578947367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1899022401:0377/pct:22.741849278460716,29.289012003693443,27.57883484767504,63.50877192982456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

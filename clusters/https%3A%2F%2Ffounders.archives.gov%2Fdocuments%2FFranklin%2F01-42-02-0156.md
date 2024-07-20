@@ -88,7 +88,7 @@ the strength it is capable of procuring, will be
 lost, and new dangers ensue.”  
 Perhaps I could say, poor Hungary has wel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172145:1852042701:0222/pct:29.62116885589187,104.48563746993067,18.370454978107748,3.1696618084052637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172145:1852042701:0222/pct:22.95662437297138,80.98040649217722,14.242155994885414,2.4674660038017255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ frtended us our reputation, and all the strength is is ca
 pable of procaring, will be lost, and new dangers ensuc  
 Perhaps I could say, poor Hungary has well serve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530376:1852043001:0630/pct:5.361746004468122,22.81824528740982,47.740161539783465,6.143821270653945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530376:1852043001:0630/pct:1.7872486681560407,7.60608176246994,15.913387179927822,2.047940423551315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

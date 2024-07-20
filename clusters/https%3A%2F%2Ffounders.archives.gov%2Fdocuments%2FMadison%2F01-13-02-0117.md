@@ -93,7 +93,7 @@ wards the proposed loan ; and that if any part of the said do­
 mestic debt shall remain unfubferibed, the surplus of the said  
 funds be applied, by a temporary appropriation, to the paymen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790021001:0003/pct:6.664609688367788,49.31992903607333,27.30638691761802,7.68775872264932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790021001:0003/pct:6.672323356988584,49.33471318746304,27.329527923480406,7.68775872264932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ according to the fccond of the foregoing resolutions, be applied in
 the firft place to the payiment of interest on the sums fubferibed to­  
 wards the proposed loan ; and that if any part of the said domesti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790031701:0002/pct:7.802547770700637,77.82583054845685,27.898089171974522,8.197365834480047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790031701:0002/pct:7.826433121019108,77.82583054845685,27.906050955414013,8.221938274031846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ tions, be applied in the firft place to
 the payment of interest on the sums  
 prescribed towards the proposed loan 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790040701:0569/pct:48.2725295965209,19.96792301523657,20.87460739309012,16.712109061748194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790040701:0569/pct:48.280583071595395,19.978615343491047,20.890714343239107,16.717455225875433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ sums.]
 That the remainder ought to be left to the refpe&amp;ive states to  
 provide for, until a final settlement of their accounts with the U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790042401:0002/pct:41.447992412266835,61.73930113859443,27.9481504900411,7.636435021594032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790042401:0002/pct:41.447992412266835,61.744208873184135,27.963958267467593,7.651158225363172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ That the remainder ought to be left
 to the refpedtive States to provide for,  
 4ntil a final settlement of their account
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790051201:0589/pct:4.105642256902761,24.22636348093691,20.744297719087633,14.857240553940844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790051201:0589/pct:4.121648659463785,24.232062460819513,20.76030412164866,14.862939533823445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ not stop merely with securing justice to the cre­
 ditors of the government, we Ihould also endea­  
 vour to secure justice to every private creditor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790051901:0001/pct:6.949100883876866,3.6352918058557675,83.9073453215483,90.94124582432698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790051901:0001/pct:6.949100883876866,3.645116918844567,83.9073453215483,90.95107093731578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ otifin and every other noble and generous motive will lead ei;
 minority to acquiefee in mealurcs which will tend to cftaM.ih  
 public credit by a due provision for the public engagements.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790051901:0002/pct:7.854406130268199,3.4543670264965654,86.90932311621967,90.57899901864573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790051901:0002/pct:7.878352490421456,3.4543670264965654,86.8853767560664,90.5937193326791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -905,7 +905,7 @@ United States.
   
 These debts consists of certificates given by the individual State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790062301:0001/pct:65.25084641428131,54.701537232980634,27.42382271468144,14.753443801157916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790062301:0001/pct:65.25084641428131,54.706528249151525,27.44690674053555,14.758434817328808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

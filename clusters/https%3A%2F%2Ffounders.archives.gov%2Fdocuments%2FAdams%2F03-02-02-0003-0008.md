@@ -396,7 +396,7 @@ Their dearest action in ilia tented field;
 And little of this great world can 1 speak.  
 More than pertains to feats of broil and battle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851111301:0535/pct:69.25980854793043,48.16523840914085,12.12080355939059,8.954076027246758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851111301:0535/pct:69.25980854793043,48.168900607924996,12.125297739427442,8.961400424815059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ Their dearest action in the tented field
 And little of this great world can I speak.  
 More than pertains to feats of broil and battl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190133:1857120501:0392/pct:20.241116751269036,66.5909090909091,51.713197969543145,30.545454545454547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190133:1857120501:0392/pct:6.747038917089679,22.196969696969695,17.237732656514382,10.181818181818182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ Their dearest action in the tented fiehi;
 And little of this great world can I speak.  
 More than pertains to feats of broil and ba&#x27;tfe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1858012201:0578/pct:5.030559473436766,82.26208863015326,14.464817426735621,9.81347273375312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1858012201:0578/pct:5.035783315049888,82.2660488693517,14.4595935851225,9.821393212150014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ Their dearest action in the tented field :
 And little of this great world can I speak,  
 More than pertains to feats of broils and battle 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110211:1874050301:0007/pct:43.15431164901664,77.6619606808286,12.51891074130106,5.713154769758543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110211:1874050301:0007/pct:43.15431164901664,77.6685578572371,12.528366111951588,5.71975194616704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -79,7 +79,7 @@ mOM WASHINGTON iv iorr?tAjj,
 &quot;Mjiinl Vernon, 1 August, l&#x27;,*o.  
 &quot;In answer to your obliginz inquiries respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847061801:0432/pct:46.54990185716443,44.204643992677525,13.679601389098595,8.546102707389922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847061801:0432/pct:46.554934823091244,44.211067219064134,13.679601389098595,8.549314320583228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ from WASHINGTON TO JKFFKRSOV.
 “*Vou»i/ iernni, \$t .August, 178(5.  
 “In answer to your obliging inquiries respect- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847061801:0040/pct:53.805774278215225,52.90353653502133,15.152432868968303,11.056832255401128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847061801:0040/pct:53.80034319168265,52.899896800825594,15.1542680259749,11.058364866414403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ From II ashington to Jefferson
 Mount VErsoN, I August, 1786.  
 &quot;In answer to your obliging inquiries respecting th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1847070101:1204/pct:261.2370341913177,222.79777141996686,61.179408374951976,39.46694774883301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1847070101:1204/pct:65.29671595928558,55.6910569105691,15.291914730170923,9.86525143029208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ small From ftfu/iington to &#x27;Jrjfertnn.
 Mouirr Vkrnon, 1st August, 1788.  
 ibJh&#x27;t &quot;In answer to your obliging inquiries respecting the dres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847081101:0774/pct:14.61877756773787,80.95887016848364,18.793320730938877,8.325074331020813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847081101:0774/pct:14.624028565427432,80.96299966963991,18.793320730938877,8.333333333333334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ ple with some degree of instruction.&quot;
 Those great American statesmen be­  
 lieved that the general common sens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869051201:0695/pct:69.85413290113452,212.2215876641919,44.89465153970826,15.533980582524272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869051201:0695/pct:17.46353322528363,53.055396916047975,11.223662884927066,3.883495145631068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ too of tho people with a certain degree of
 instruction. This it is the business of THE  
 state to effect, and on a general plan.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762428:1873100201:0347/pct:18.943425980682044,46.04658062601988,12.497535974768383,3.6344755970924196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762428:1873100201:0347/pct:18.953282081608517,46.04658062601988,12.502464025231617,3.6456015427978046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ of it was, that auy person who came to Vir­
 ginia, acted with the Republican party, and  
 happened to be chosen as a caadijats for of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1873100901:0355/pct:54.58259325044405,69.12769311613242,13.037300177619894,8.920126116657908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1873100901:0355/pct:54.57290001775883,69.11861289898857,13.039424613745338,8.922238276632077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ tance of education in itself and in its relations to the State,
   
 and the impossibility of adequately providing for it without
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83045232:00415661976:1877011401:0037/pct:23.028985507246375,57.17167641718782,32.34782608695652,9.20919911236635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83045232:00415661976:1877011401:0037/pct:17.280371122064366,42.87875731289086,24.267903740214553,6.909421020778697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ instruction. This is the business of
 the State to effect, and on a general  
 plan.&quot; Jealous of expenditure and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291128:1891052201:0162/pct:44.13416075650118,27.435456110154906,9.722222222222221,4.23407917383821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291128:1891052201:0162/pct:44.13416075650118,27.444061962134253,9.722222222222221,4.239816408491107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ of a certain degree of instruction. This
 it is the business of the state to effect  
 and on a general plan.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583231:1896052301:0191/pct:5.280312907431552,37.615094339622644,14.450239026510213,3.018867924528302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583231:1896052301:0191/pct:5.279165761459917,37.60941744642318,14.452530958070824,3.0221853305161486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

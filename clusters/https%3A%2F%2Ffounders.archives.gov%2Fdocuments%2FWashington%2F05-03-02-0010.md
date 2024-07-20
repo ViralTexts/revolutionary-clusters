@@ -126,7 +126,7 @@ and will therefore rather be disposed to rejoice that so much has
 been effected, than regret thai more could not all at once be ac­  
 compli (bed. We ft nceniv.believe America is the only country 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789072901:0004/pct:45.3786351857184,87.80580314811303,25.02159516268356,2.048169922245401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789072901:0004/pct:45.400230348401955,87.80580314811303,25.0,2.0623933244832164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ the State of North-Carolina, and the States now in union under
 tJic new general government.  
 C. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789072901:0004/pct:72.01266916210768,20.842025412478666,23.75467895191477,23.288450597382894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789072901:0004/pct:72.02706593723006,20.85150768063721,23.77627411459833,23.297932865541437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ lu • re could not ail at once be accomplished.
 G.atitled by tho fi ora&#x27;lc sentiments whi h  
 are evinced in |our address to me, aud impressed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832090501:0081/pct:79.97533908754625,69.5213228894691,16.991368680641184,22.732811140121846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832090501:0081/pct:79.95562130177515,69.50922380786635,16.993343195266274,22.73320570831883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ is to subsist hereafter between the State of N rh
 new General Government.  
 G WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832090501:0082/pct:3.1802120141342756,7.112824106517169,17.364967188288745,6.464611072179397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832090501:0082/pct:3.1794095382286147,7.111578209844105,17.366893767347968,6.467857768435803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ Carolina, and the States now in union under the
 new generaT government.  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843102501:0600/pct:22.490239821528164,15.093499554764024,41.78750697155605,110.84149599287622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843102501:0600/pct:16.873518337749267,11.320124666073019,31.348486961372192,83.1366874443455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -794,7 +794,7 @@ points, is not to be imputed to freeman, as
 a fault. It is to he presumed that they  
 all actiiated by an equally laudab
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1855062001:0316/pct:132.77533039647577,86.52677445247105,36.8575624082232,7.797270955165692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1855062001:0316/pct:44.25844346549192,28.84225815082368,12.2858541360744,2.599090318388564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1230,7 +1230,7 @@ presumed that they are all actuated by an
 equally laudable aud sacred regard for the lib­  
 erties of their country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022101:0448/pct:26.186338724769417,33.180647008302316,18.79427883972731,4.53287527435824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022101:0448/pct:20.294209054180048,25.714919633172272,14.568873234573017,3.5178976432304507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1251,7 +1251,7 @@ are actuated by an equally laudable
 nnd sacred regard for the liberties of  
 their country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1888012001:0144/pct:5.528892301785372,55.510907003444316,11.902476483010174,3.0998851894374284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1888012001:0144/pct:5.543290458821271,55.510907003444316,11.902476483010174,3.1034730195177955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1269,7 +1269,7 @@ rrelation which is to subsist hereafter be­
 tween the State of North Carolina and the  
 States now in union.&quot; And to Gouverneu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:20.04389173372348,331.19465815067497,43.7454279444038,6.503120917404558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:5.012806439809733,82.79866453766874,10.940358580314673,1.6257802293511394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

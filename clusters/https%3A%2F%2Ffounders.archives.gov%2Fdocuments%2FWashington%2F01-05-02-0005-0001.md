@@ -181,7 +181,7 @@ ble.
 On His Excellency&#x27;s arrival at the Stairs, prepared and ornament­  
 ed, at Murray&#x27;s wharf,for his landing, he was saluted by Col. Bau
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789042501:0003/pct:3.2713085234093637,49.2792619642514,26.440576230492198,20.334422448587354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789042501:0003/pct:3.293817527010804,49.28406688448972,26.448079231692677,20.334422448587354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ man&#x27;sartillery, and received and congratulated by his Excellency
 the Governour, and the Officers of the State and Corporation—from  
 whence the PROCESSION moved, in the following Order, viz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789042501:0003/pct:3.8115246098439375,69.72900249855853,26.17046818727491,2.3832404382087256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789042501:0003/pct:3.826530612244898,69.73380741879684,26.20048019207683,2.38804535844705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -676,7 +676,7 @@ New York, with the beat disposition to render
 service to mv countrv, in obedience tops call,  
 hut with less hope of answering its expecia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840071601:0646/pct:37.67843310833241,72.08930204206035,14.68407657408432,3.9088692471807374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840071601:0646/pct:37.674264217747286,72.08380952380952,14.686140001475252,3.911111111111111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ sic on hoard; Inc decorations of the ships, the
 roaro] cannon, and the loud acclamations &lt;f  
 the people, which rent the skv as I passed a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840071601:0646/pct:37.72269558481797,80.97378847912222,14.783667146176828,2.948796098750381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840071601:0646/pct:37.718521796857715,80.96761904761905,14.785719554473703,2.951111111111111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ Senate. The second day allerwards he
 set out for New York, in company with  
 Mr. Thompson and Colonel Humphrey
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1842123001:0486/pct:85.72710951526032,93.32312404287902,19.210053859964095,16.84532924961715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1842123001:0486/pct:64.3097643097643,70.0,14.433221099887767,12.633996937212864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ were pleasing.&quot;
 Before the arrival of the President elect,  
 Vice President Adams reached the city, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1847062501:0585/pct:21.69936373276776,34.27639781336914,17.338282078472957,6.454397237939964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1847062501:0585/pct:16.28431242540777,25.71209360314568,13.008884763293993,4.843195550014386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ m-chiel of the American forces during the war
 which established the independence of Ins couri­  
 ll v. first President ot ihe I nited States: by J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848121101:0453/pct:69.0433637475308,16.47687333052158,12.209575768977519,1.778433853507662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848121101:0453/pct:69.03686982693755,16.475715189428552,12.211562578379734,1.7806518122818116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -809,7 +809,7 @@ in-chiet of the American forces during the war
 which established the independence o! In* roun­  
 t, v. first President of the Tinted States: by .1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848121201:0458/pct:69.58551691281562,16.576011157601116,12.596474511672225,1.8549511854951186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848121201:0458/pct:69.57888719512195,16.574855309950493,12.598450203252032,1.857146177625921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ in-chiet of the American forces during the war
 which established the indej&gt;endence ol hibcoun­  
 ti-N. first Piesuient of the Initcd Mates: b&gt; J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848121401:0466/pct:70.54919688371646,15.991860220335415,12.686351832259305,1.894603887446495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848121401:0466/pct:70.54241200230814,15.990738142015156,12.688337500801437,1.896809804471887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ in*chiel ot the American forces during the war
 which established the independence of his coun­  
 try. tiist Ihesulimt ot the? ( niteii States: b\ J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848121501:0470/pct:69.40305681053542,35.24405682937122,12.717485340767086,1.8568012378674918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848121501:0470/pct:69.39638600538254,35.241578170054154,12.719466871716007,1.859014933070774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ aies and appropriate festivities, on the 30th of
 j April, 1789, and became a model President.  
 I He remained in the Presidential chair tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870060201:0194/pct:20.802919708029197,61.9162185111803,15.227088402270883,6.5808095103311635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870060201:0194/pct:20.798702615041556,61.90745719541531,15.229069531725116,6.583415876609594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1196,7 +1196,7 @@ to render service to my country in obedience
 to its call, hut with less hope of answering its  
 expectation.” From State to State, from tow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342107:1883112701:0517/pct:44.0415889096241,66.40559732664995,9.837376699546788,7.111528822055138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342107:1883112701:0517/pct:44.0415889096241,66.40559732664995,9.846263218697237,7.121971595655806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1218,7 +1218,7 @@ the best disposition to render service to my
 country in obedience toitscall, but witli less  
 hope of answering its expectation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:0041421003A:1883112701:0644/pct:48.39378238341969,62.63355906696764,18.632124352331605,5.297215951843492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:0041421003A:1883112701:0644/pct:37.5113776302404,48.54410449792015,14.44557477110885,4.1130505773043575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1240,7 +1240,7 @@ for New York, with the best disposition to ren
 der service to my country in obedience to its call;  
 but with less hope of answering its expectation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn83045160:00280779957:1883112701:0522/pct:162.49336870026525,297.6036342986939,34.16445623342175,8.858603066439523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn83045160:00280779957:1883112701:0522/pct:40.634120456354474,74.40090857467348,8.543380206951445,2.2146507666098807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1264,7 +1264,7 @@ render service to my country in obedienra
 to its call, tut with less hope of ausweriug  
 its expectation.&quot; From State to State, froa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341693:1883112701:0095/pct:24.87620157296825,12.401411374014113,11.535100495193708,3.9435450394354503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341693:1883112701:0095/pct:24.872579001019368,12.400124520078863,11.538274841027135,3.946594721732213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1312,7 +1312,7 @@ bed disposition to render service to my
 country in obedieno ;•&gt; its call, bat with  
 lets hope of answering i;~ expectations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:0017503657A:1888111901:0471/pct:8.303484207098665,31.2885707232782,10.582872028655162,4.665514687731425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:0017503657A:1888111901:0471/pct:8.307554542494302,31.29782769686497,10.595083034842071,4.665514687731425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1411,7 +1411,7 @@ tion with whom he embarKed on board the
 Barge built for the purpose of wafting him  
 across the bay. Thirteen Pilots in whit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1889042501:0571/pct:43.16568047337278,97.72083002608005,15.902366863905325,3.991382242884681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1889042501:0571/pct:32.39603374278526,73.29629209660959,11.928370578659168,2.9935366821635108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1467,7 +1467,7 @@ private life and domestic felicity, and with
 a mind oppressed with anxious and painful  
 sensations set out for New York with Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342742:1889042601:0247/pct:29.53995157384988,23.707414829659317,10.233210144004078,1.5430861723446894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342742:1889042601:0247/pct:29.5361875637105,23.705039575192867,10.235091743119266,1.5454363290251478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1489,7 +1489,7 @@ with the best disposition t i reader service to
 my country in obedience to its call, but with  
 less hope of answering its expectations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654723:1889042701:0325/pct:70.47635078269651,54.911778731521224,13.802390170005049,3.683834048640916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654723:1889042701:0325/pct:70.48897492004713,54.91773962804006,13.810806261572125,3.6957558416785883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1597,7 +1597,7 @@ State. Keference was also made to his
 election to the position of Commander­  
 in-Chief of the Colonial forces by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn85042460:00280769265:1889050101:0008/pct:77.70864621325896,70.82662765179225,13.773868268611887,8.705193855157278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn85042460:00280769265:1889050101:0008/pct:77.70864621325896,70.82662765179225,13.788171350926124,8.710070714459889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1643,7 +1643,7 @@ disposition to render service to my country
 In obedience to its call, but with less hope  
 of answering its expectations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889050101:0488/pct:71.79808747452579,76.00518806744488,10.409155039974918,3.11284046692607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889050101:0488/pct:71.78683385579937,75.99622730488092,10.411442006269592,3.115420891299222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1665,7 +1665,7 @@ diary &quot;filled my mind with sensations as
 scene, which may be the case after all my  
 efforts to do good) as they are plejsia&amp;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889050101:0013/pct:35.783055198973045,114.56717935680692,14.168806161745827,4.550654633278251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889050101:0013/pct:26.849622853474564,85.92856234905301,10.624297865511155,3.419346637854328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1816,7 +1816,7 @@ private life and domestic felicity, and with
 a mind oppressed with anxious and painful  
 sensations set out for New York with Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473467:1889050201:0291/pct:26.934443847393876,68.17632186435088,17.853304674905964,2.528306034956579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473467:1889050201:0291/pct:17.965600644987905,45.45454545454545,11.905401773716743,1.6818731449928548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1838,7 +1838,7 @@ with the best disposition to render service
 to niy ceuntry In obedience to Its coll, but  
 with less bdpo of answering Its expecta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284653:1889050201:1008/pct:96.78341672623303,27.203924316748424,14.260185847033595,3.8962859145059565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284653:1889050201:1008/pct:72.62649740747362,20.40644709180098,10.709815841230109,2.9292221443587945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1861,7 +1861,7 @@ service to my country in obedience to it­
 call. but with less hope of answering its  
 eagectatione.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072021:no_reel:1889050201:1006/pct:109.61775585696671,234.4904458598726,41.94410193177148,15.270700636942674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072021:no_reel:1889050201:1006/pct:36.53925195232224,78.16348195329087,13.981367310590493,5.090233545647559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1929,7 +1929,7 @@ to my country in obedience to its call, but
 with* less hope of answering its expecta­  
 tions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065152:00279523374:1889050301:0555/pct:38.21138211382114,58.18950334624868,17.41349971639251,4.203357989902548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065152:00279523374:1889050301:0555/pct:38.21138211382114,58.18950334624868,17.43870927081364,4.2190129544831905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1950,7 +1950,7 @@ tion with whom he embarked on board the
 Barge built for the purpose of wafting him  
 across the bay. Thirteen Pilots in whit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn89058007:00296020461:1889050301:0670/pct:37.0112479914301,103.56023287057769,14.033208355650777,3.7057769816390507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn89058007:00296020461:1889050301:0670/pct:27.765871952852933,77.67577250335871,10.527725689793732,2.7765338110165696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1971,7 +1971,7 @@ tion- with whom he embanccd on board the
 Barge built for the purpose of wafting him  
 across the bay. Thirteen Pilots in whit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688660:1889050401:0067/pct:28.380706287683033,76.44169835234474,12.424633936261843,3.1368821292775664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688660:1889050401:0067/pct:28.380706287683033,76.44697929869032,12.446167097329887,3.142163075623152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2066,7 +2066,7 @@ previous. He says, ‘‘l bade adieu to
 Mount Vernon, to private life, and to  
 domestic felicity.” At every point b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768540:1892022501:0139/pct:42.942211395317365,20.18933731938216,12.126133441602382,1.6243148978574988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768540:1892022501:0139/pct:42.946722605675106,20.195980734097326,12.126133441602382,1.617671483142335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2108,7 +2108,7 @@ witn more anxious and painful sen­
 sations than I have words to express, set  
 out for New York,” while Mrs. Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013912:1896032601:0234/pct:34.23559982676483,35.729679802955665,14.400173235166738,3.7407635467980294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013912:1896032601:0234/pct:34.22818791946309,35.72418039094967,14.4024680666811,3.7440357087886715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2192,7 +2192,7 @@ excellency across the hay, and rowed by
 thirteen pilots of the harbor, dressed in  
 white uniforms; immediately in the train 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655119:1897012301:0298/pct:56.55767817781043,68.66245536940401,14.548126377663483,5.341939027739632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655119:1897012301:0298/pct:56.562270389419545,68.66932161494096,14.548126377663483,5.345372150508102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2266,7 +2266,7 @@ doubted the new scheme of Government. A
 large majority of the public men of the nation  
 belleved in the right of the States to nullify th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121501:0620/pct:79.43854324734446,214.1912206855081,49.77238239757208,20.20444978953698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121501:0620/pct:19.870943252989182,53.54780517137703,12.450180299867148,5.051112447384245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

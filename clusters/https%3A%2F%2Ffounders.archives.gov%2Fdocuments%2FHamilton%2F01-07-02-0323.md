@@ -40,7 +40,7 @@ cause the two together are necessary,
 by their quantity, to meet the needs  
 of circulation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554504:1892061801:0229/pct:51.22648249583234,50.943396226415096,14.69397475589426,8.148991541964866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554504:1892061801:0229/pct:51.214285714285715,50.935111400227676,14.696428571428571,8.151731988941291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -88,7 +88,7 @@ I value of the two metals
 Under the question What ought to  
 be the nature of the money unit o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653462A:1895050901:0542/pct:83.45541401273886,88.93621920331569,19.745222929936304,6.9537186276767216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653462A:1895050901:0542/pct:55.663533535128245,59.29081280221045,13.1750836386809,4.639650011512779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ between the value of the two metals.&quot;
 Under the question, &quot;What ought to be  
 tho nature of the money unit of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1895051601:0919/pct:10.218508997429305,84.9840718216044,18.87317909168809,5.3721401679698815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1895051601:0919/pct:7.670880651382044,63.74167390674776,14.163274051853438,4.039965247610773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ of standard silver so as to keep the
 unit of money a part of the system of  
 measures weights and coins Jeffe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653459A:1895090801:0214/pct:26.71694480102696,92.03075847605733,19.62451861360719,13.340323896073635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653459A:1895090801:0214/pct:17.814155031295137,61.35383898403821,13.095811266249399,8.897432910015922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ the dollar, i iti.r . r... ounce of pure ?liver &lt;r
 one ounce of standard silver, so ?i-i t.. k&gt;. ;. Ik?  
 unit of money a part 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175034018:1896011701:0429/pct:51.432710882163555,5.239726027397261,23.792659368963296,92.86529680365297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175034018:1896011701:0429/pct:51.432710882163555,5.2473363774733635,23.792659368963296,92.86529680365297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ one ounce of standard Bllver, so as to keep the
 unit of money a part of the system of meas­  
 ures, weights and coins.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064526:00212479263:1896013101:0858/pct:69.05525846702318,18.889850414142664,15.026737967914439,4.69773766843862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064526:00212479263:1896013101:0858/pct:63.874690849134375,17.47665332570993,13.904918933773015,4.356775300171527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ one ounco of standard silver, so us to keep the
 unit of money a part of the system of meas­  
 ures, weights and coins
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00296029956:1896020601:0591/pct:82.21510451786918,16.3112607557052,12.019554956169927,11.77204140167103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00296029956:1896020601:0591/pct:82.21510451786918,16.319574344265703,12.02517419644864,11.76372781311053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ one ounce of standard silver, so as to keep the
 unit of money a part of the sjbte-m of meas­  
 ures, weights and coins
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2018270201:00279527665:1896020601:0868/pct:85.61072056239016,23.5505682635592,18.27768014059754,5.53877139979859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2018270201:00279527665:1896020601:0868/pct:64.22764227642277,17.666522802474464,13.711272247857615,4.157675154654006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ Mr. Hamilton was at the time of
 this correspondence, Secretary of  
 the Treasury, under (Jeneral Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1896050701:0323/pct:2.645198389879241,67.06127370382549,14.836112708453134,18.491724213526254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1896050701:0323/pct:1.9844693701466782,50.30143593116299,11.144664941041128,13.866052833497752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ reduction of the value would have so
 much matter to urge in support of the  
 first point of fixatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:206534527:1896070301:0321/pct:26.02761721258831,44.60415240702715,18.898522800256906,12.605521332420716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:206534527:1896070301:0321/pct:17.365461847389557,29.73990417522245,12.610441767068274,8.407483458818161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ reduction of the value would have so
 much matter to urge in support of the  
 first point of fixatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:206534527:1896070301:0324/pct:25.803341902313626,44.599064674346984,19.039203084832906,12.62689631572944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:206534527:1896070301:0324/pct:17.210348706411697,29.73651191969887,12.694841716214045,8.41793087715296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ ver.” Here we have dearly set forth the
 evils of the nse of symbollo names foi  
 eolns and the mischief occasioned b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210648:1896091001:0085/pct:50.73465859982714,34.69135802469136,11.01123595505618,11.419753086419753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210648:1896091001:0085/pct:50.72589007950225,34.686005246103996,11.013653646733495,11.421848480172812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ the unit of money a part of the system j
 of measures weights and coins I  
 That makes it perfectly plain that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534515:1896100901:0510/pct:24.936828806064433,32.2693831352575,19.662034112444726,32.212790039615165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534515:1896100901:0510/pct:16.635071090047393,21.516694963214487,13.11216429699842,21.478966232786266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ coins.&quot;
 That is. he would reduce silver to the  
 status of mere merchandise, the silve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193675:1897041501:0736/pct:18.549642079053843,15.416367552045944,17.366946778711483,7.5915290739411345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193675:1897041501:0736/pct:18.549642079053843,15.425340990667625,17.374727668845317,7.609475951184494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ one ounce of standard silver, so.
 keep the unit of rioney a part of the  
 tem of measures
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049393:1897050201:0271/pct:214.07881441562816,144.81003669073263,41.377568204782754,36.71440407148775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049393:1897050201:0271/pct:71.35960480520939,48.27001223024421,13.792522734927585,12.238134690495917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ ver so as to keep the unit of mo
 f the system of me  
 oms.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049393:1897050501:0291/pct:215.32258064516128,124.09454374412041,40.00336021505376,14.534336782690499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049393:1897050501:0291/pct:71.7741935483871,41.36484791470681,13.334453405017921,4.8447789275635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -723,7 +723,7 @@ silver or one ounce of standard silver, so as to
 keep the unit of money a part of the system  
 of measures, weights and coins.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1897050601:1002/pct:31.915880624710066,31.3222351818471,13.870419050564404,13.095111865125649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1897050601:1002/pct:31.92361218493892,31.3222351818471,13.866553270449977,13.100413529848373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -801,7 +801,7 @@ silver or one ounce of Standard silver, so as to
 Keep the unit of money a part of the system  
 of measures, weights and coins.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076145:00199918047:1899020301:0211/pct:25.107020547945204,35.017158544955386,16.05308219178082,4.6122168840082365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076145:00199918047:1899020301:0211/pct:25.107020547945204,35.02745367192862,16.069135273972602,4.619080301990391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ you establish between the two metals.&quot;
 In another place (volume 1, page 171) Jefferson  
 says: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037858:1899051701:0020/pct:38.67983693947946,10.074022669442517,17.74851050486046,4.302567661346287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037858:1899051701:0020/pct:38.69028953694993,10.074022669442517,17.753736803595693,4.3141337034466805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

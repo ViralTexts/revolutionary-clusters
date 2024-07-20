@@ -449,7 +449,7 @@ ons, recommends it to this house, to take the
 fame into consideration, and to enable his  
 Majesty to give them a proper compensatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1759071301:0384/pct:37.071917808219176,3.4831460674157304,57.83390410958904,91.0252808988764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1759071301:0384/pct:37.079052511415526,3.49250936329588,57.841038812785385,91.01591760299625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ glish colonies tooy along the frontiers, are very
 &#x27; ehindpdantioda . o coonden t Lo  
 2. From the thinness of the back fsttlements,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766103101:0680/pct:3.7218631602406953,24.325526237770532,29.81947849342545,71.27186480877558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766103101:0680/pct:3.7218631602406953,24.325526237770532,29.83433623059208,71.29162960766874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ by our traders. ; &gt; :
 &quot; 9. Have vou heard of any difficulty lately laid  
 on the Spanish trade; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766103101:0680/pct:34.70024515266325,20.471390453602133,29.2400267439269,74.81470501037651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766103101:0680/pct:34.70767402124656,20.471390453602133,29.2400267439269,74.81964621009982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -723,7 +723,7 @@ Great Britain, for its laws, its customs and man­
 ners, and even a fondnefs for its fafhions, that  
 greatly increased the commerce, Natives of Bri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766103101:0680/pct:64.85402273233787,20.560332048621405,29.55203922442612,73.67328787429588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766103101:0680/pct:64.86145160092119,20.5652732483447,29.55203922442612,73.67328787429588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -912,7 +912,7 @@ Q. But who is to judge of that, Britain or the
 Calony? 13  
 A. Those that feel can best judge.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766103101:0681/pct:5.091875138366173,4.869745411486086,59.021474429931374,91.13380698638248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766103101:0681/pct:5.091875138366173,4.869745411486086,59.021474429931374,91.13874087231103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1001,7 +1001,7 @@ cotten of they own raising for the reitof the year.
 Colonies, obliged to fodder their sheep all thef  
 L winter,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766110701:0684/pct:3.482905982905983,25.624816230520434,28.824786324786324,70.61158482799176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766110701:0684/pct:3.4971509971509973,25.629716749975497,28.81054131054131,70.61648534744683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1180,7 +1180,7 @@ postage was generally abated near thirty per cent.
 through all America; they certainly cannot  
 confider such abatement as a tax.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766110701:0684/pct:33.333333333333336,15.245516024698619,56.94444444444444,80.62334607468392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766110701:0684/pct:33.34757834757835,15.255317063608743,56.93732193732194,80.61844555522886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1386,7 +1386,7 @@ bighefl degree of praise, to-morrow, he isdown
 at the bottom ; and all the ignominy and contempt of  
 the meanest mortal is cast upon him. How much then
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766110701:0685/pct:8.74894336432798,5.888354467278822,85.62975486052409,89.12694942428217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766110701:0685/pct:8.755987602141449,5.898071223825487,85.62975486052409,89.12694942428217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1474,7 +1474,7 @@ annually to the Crown, tO be distributed in such
 ‘compenfation to the Colonies. This isthe ftrong­  
 “eft of all proofs that the Colonies, far frem being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766111401:0688/pct:4.606112785191563,24.85523385300668,28.842014636246233,69.78470675575353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766111401:0688/pct:4.613287415698092,24.85523385300668,28.842014636246233,69.79460529571888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1568,7 +1568,7 @@ A Not particularly, but tonjointly a British
 and an Amencan interest.  
 2. You will not deny that the preceeding war,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766111401:0688/pct:34.5673697804563,19.985152190051966,28.174773999139045,74.3132887899035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766111401:0688/pct:34.57454441096284,19.990101460034644,28.167599368632516,74.3083395199208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1662,7 +1662,7 @@ be against their doing ify:do they think they can
 grant a revenue to the King, without the consent  
 ‘of the parliament of Gré‘atf,if‘itain ? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766111401:0688/pct:63.81833835557469,19.851521900519675,28.368489022815325,73.94209354120267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766111401:0688/pct:63.825512986081215,19.851521900519675,28.375663653321855,73.96189062113338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1911,7 +1911,7 @@ Withdrew. - :
 EBE TN I  
 S Y RO A e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766111401:0689/pct:8.18008877615726,4.555473916238061,86.34538152610442,90.521675238795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766111401:0689/pct:8.187134502923977,4.560372275287778,86.35242725287114,90.53147195689444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1932,7 +1932,7 @@ sng it to them to grant {uchAids as are {uitable to
 their Abilities. ,  
 This led me into a RefleCtion on the Debate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766112101:0692/pct:4.487594390507012,24.52419003341566,28.78101402373247,6.407089931715822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766112101:0692/pct:4.487594390507012,24.529032882948325,28.80978065444085,6.407089931715822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5595,7 +5595,7 @@ on their,trade, and the difficulties of making
 remittances, it is their interest to make eve­  
 ry thing.” In another part/ Dr. Frankli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808072901:0108/pct:23.871906841339158,2.4921334172435494,35.78966521106259,95.1919446192574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808072901:0108/pct:23.867564125886847,2.4918197835388876,35.78921836153053,95.18415974494505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5617,7 +5617,7 @@ They would manufacture more and plough
 less.”  
 And so it is that these petiti ».ers say th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808072901:0108/pct:42.30349344978166,11.025802391441157,17.358078602620086,4.60667086217747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808072901:0108/pct:42.29579770784064,11.02441479989932,17.36098477957674,4.610286097826999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5640,7 +5640,7 @@ Q. “ What is now their pride?”
 -•/. “To wear their old clothes again, till  
 they can make new ones.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808072901:0108/pct:42.37627365356623,26.381371932032724,17.30349344978166,5.097545626179987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808072901:0108/pct:42.36856467163908,26.378051849987415,17.306409556727914,5.1010990854937495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6012,7 +6012,7 @@ proved ungrateful. They come among us in­
 deed predetermined to find fault, and seeing  
 every thing through the medium of their ow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811121701:0253/pct:6.2228654124457305,29.854041457132343,17.45658465991317,3.3239298417760335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811121701:0253/pct:6.221739916802315,29.850380181506008,17.459456200639053,3.327610170877279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6286,7 +6286,7 @@ laying duties to regulate commerce, hut a right to
 iay internal taxes was never thought to bo tu par- &#x27;  
 lixmcnt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831111001:0373/pct:34.624009567947375,26.743119266055047,15.532964568694872,4.254587155963303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831111001:0373/pct:34.61883408071749,26.740052746244697,15.535625311410065,4.257921492183618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6308,7 +6308,7 @@ I cssioncd the distinction in which I think every
 assembly on tho continent, and every member in  
 every assembly has been unanimous.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831111001:0373/pct:34.624009567947375,35.05733944954128,15.488114815368515,3.876146788990826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831111001:0373/pct:34.61883408071749,35.05331957344341,15.49078226208271,3.879524519359401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6372,7 +6372,7 @@ within the realm ; they have. Assemblies ol ihcir own,
 which me their Parliament-, mid jliev are in that respect  
 in the same situation w ith liclaml,&quot; which it would h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833022801:0382/pct:20.05317660229499,14.500501169395255,15.00139938427092,4.432564873593941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833022801:0382/pct:20.050370784944732,14.498886414253898,15.003964367333614,4.435783221974758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6676,9 +6676,9 @@ duties to regulate commerce, that the Americans would neve
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1850-11_27_149/page/n53/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1850-11_27_149/page/n53/mode/1up?view=theater)
 
-#### 1850-11-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1850-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6693,9 +6693,9 @@ nal taxes. It was never disputed in laying duties to regulate commerce.’ The s
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1850-11_27_149/page/n53/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1850-11_27_149/page/n53/mode/1up?view=theater)
 
-#### 1850-11-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1850-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -6959,7 +6959,7 @@ duties upon sugar, molasses, &amp;c, was attempted
 by means of &quot;writs of assistance,&quot; which em­  
 powered the Kings officers to search for a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860112401:0872/pct:152.74410774410774,18.123591507531728,46.043771043771045,54.63171628513818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860112401:0872/pct:50.91470258136925,6.041197169177242,15.347923681257015,18.21057209504606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7344,7 +7344,7 @@ the ten Southern States up into five military
 districts and place an army in and over each one  
 of them ; but you cannot force the people ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1867031201:0258/pct:4.105610561056106,57.41500586166471,12.58085808580858,4.493942946463462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1867031201:0258/pct:4.114411441144115,57.41500586166471,12.58085808580858,4.493942946463462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7441,7 +7441,7 @@ an Old England man was, of itself, a char­
 acter of some respect, and gave a kind of  
 rank among ns.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1875121801:0758/pct:49.14101037591427,25.737959606421544,11.753699608777003,16.778871051268773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1875121801:0758/pct:49.13265306122449,25.734627831715212,11.755952380952381,16.779935275080906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7562,7 +7562,7 @@ amd; and to be an Old England man was,
 tself, a character of some respect and a  
 ind of rank among us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1878091901:0236/pct:104.0,52.97082633267145,41.95744680851064,21.99480678173209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1878091901:0236/pct:26.01106853980417,13.242706583167863,10.493827160493828,5.498701695433023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7590,7 +7590,7 @@ gard; and to be an Old England man was,
 of itself, a character of some respect and a  
 kind of rank among us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1878092601:0238/pct:104.1343669250646,48.344059017422694,43.41085271317829,22.665201695181292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1878092601:0238/pct:26.03359173126615,12.086014754355674,10.852713178294573,5.666300423795323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7613,7 +7613,7 @@ Acts of Parliament. Numerous as the
 people are in the several old provinces,  
 they cost you nothing in forts, citadels,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1878092601:0238/pct:63.910422049956935,372.1864699419244,43.238587424633934,15.507769580913514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1878092601:0238/pct:15.977605512489234,93.0466174854811,10.809646856158484,3.8769423952283786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7698,7 +7698,7 @@ know a siugle article imported into
 the colonies but what they can either  
 do without or make themselves.&quot; llo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291086:1880092401:0605/pct:80.2711157455683,58.55906963551269,14.118873826903023,1.985533966813218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291086:1880092401:0605/pct:80.27632950990615,58.562615231882,14.139728884254431,1.9926251595518367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7825,7 +7825,7 @@ covery deb;.-; they should neither marry
 nor make their wills unless they should  
 pay such and such sums in specie for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175036465:1885070601:0532/pct:32.2289156626506,48.91317401224931,11.730254350736278,8.262279332292543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175036465:1885070601:0532/pct:32.23728246318608,48.919178575717545,11.738621151271754,8.256274768824307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7921,7 +7921,7 @@ found to be true: &quot;They cannof force
 a man to ta ke stamps who chooses to  
 do without them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030918:1886090501:0274/pct:113.96284829721363,142.805061119451,35.294117647058826,13.457001930087927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030918:1886090501:0274/pct:37.98761609907121,47.601687039817,11.764705882352942,4.485667310029309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8545,7 +8545,7 @@ manufactuns continually used in the province
 or sold to foreigners by oiif traders,  
 There could hardly be a clearer lesson i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020758:1888011901:0164/pct:178.57142857142858,339.2862102485766,49.53917050691244,28.440494375781142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020758:1888011901:0164/pct:44.651430766276164,84.82155256214415,12.387171115805646,7.110123593945286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8689,7 +8689,7 @@ were led by a thread.&quot; The temper of the
 American people, although severely ruf­  
 fled for a time toward Great Britain, be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282371:1888102701:0925/pct:231.76923076923077,124.73811442385173,49.0,20.30620467365028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282371:1888102701:0925/pct:57.94230769230769,31.18452860596293,12.25,5.07655116841257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8742,7 +8742,7 @@ were led by a thread. The temper of the
 American people, although severely ruf-­  
 fled for a time toward Great Britain, be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pinkfloyd_ver01:data:sn86071854:00175048224:1888110501:0522/pct:152.61350629530713,99.28711897738447,46.08927890118275,19.02654867256637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pinkfloyd_ver01:data:sn86071854:00175048224:1888110501:0522/pct:50.871168765102375,33.09570632579482,15.363092967060918,6.342182890855457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8771,7 +8771,7 @@ were led by a thread. &quot; The temper of the
 American people, although severely ruf­  
 fled for a time toward Great Britain, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415629588:1888111501:1021/pct:39.703647416413375,59.026511432178424,14.437689969604863,6.648898863795764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415629588:1888111501:1021/pct:29.804219730089336,44.26988357413382,10.83444212126972,4.993687754243232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8797,7 +8797,7 @@ were led by a thread.” The temper of tho
 American people, although severely ruf­  
 fled for a time toward Great Britain, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150011:1888111501:1084/pct:37.96137863603031,32.446156540010506,14.1774627230506,5.778322535457888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150011:1888111501:1084/pct:37.96748961134197,32.45053405708282,14.1774627230506,5.787077569602522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8823,7 +8823,7 @@ were led by a thread.&quot; The temper of tho
 American people, although severely ruf­  
 fled for a time toward Great Britain, be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286613:1888112501:0434/pct:26.02905569007264,8.192586093441545,18.417070217917676,8.20355341083571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286613:1888112501:0434/pct:17.363003330305784,5.461724062294363,12.276718135028762,5.472691379688528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8919,7 +8919,7 @@ gard; and lo he unOld Knglaud man was of it.
 self a character of some respect mid gave a kind  
 of rank among us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760936:1890043001:0376/pct:47.25929456625357,119.00032041012496,29.38512869399428,15.892342198013457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760936:1890043001:0376/pct:31.52873837347961,79.33354694008331,19.604102074886715,10.605575136174304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8957,7 +8957,7 @@ Old England man was of itself a char­
 acter of some respect and gave a kind  
 of rank among us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528426:1890071701:0336/pct:190.2940443558435,196.8434102613008,32.13306753052579,37.659736791913026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528426:1890071701:0336/pct:63.4313481186145,65.61447008710026,10.711022510175264,12.553245597304342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9141,7 +9141,7 @@ particular regard, and to be an old England
 man was of itself a character of some respect  
 and gave a kind of rank among us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199094:1891101201:0607/pct:205.33256880733944,138.39559741771615,37.05561926605505,20.20319610540798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199094:1891101201:0607/pct:68.44418960244649,46.131865805905385,12.351873088685016,6.73439870180266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9196,7 +9196,7 @@ Q. What is now their pride?
 A. To wear their old clothes over  
 again, until they can make new ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206538673:1892110601:0062/pct:60.8301264431006,79.8309561542525,10.678944474986256,7.955625990491284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206538673:1892110601:0062/pct:60.839288986622684,79.8309561542525,10.674363203225216,7.966191230850502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9315,7 +9315,7 @@ expense of a little pen, ink and paper;
 they were led by a thread­  
 Q. What is their temper now
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287034:1892122101:0087/pct:26.513157894736842,31.37621540762902,12.118421052631579,6.282722513089006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287034:1892122101:0087/pct:26.521929824561404,31.382448267265023,12.118421052631579,6.282722513089006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9336,7 +9336,7 @@ Q. What is now their pride?
 A. To wear their old clothes over  
 again; until they can make new ones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287034:1892122101:0087/pct:26.5,38.032909498878084,12.144736842105264,4.094988780852655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287034:1892122101:0087/pct:26.5,38.032909498878084,12.144736842105264,4.0981052106706555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9429,7 +9429,7 @@ was the temper of America towards
 Great Britain before 1773?&quot; He an­  
 swered, &quot;the best in the world. Bat i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:0028076095A:1893080201:0648/pct:48.217592592592595,107.12570056044837,29.51388888888889,5.428342674139311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:0028076095A:1893080201:0648/pct:32.17512161223072,71.41713370696557,19.689599258744497,3.618895116092874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9473,7 +9473,7 @@ urice.&quot; Modern Republicanism would
   
 have the people believe that tariff is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_cane_ver01:data:sn91068076:00296022925:1894021501:0163/pct:13.632619439868204,25.60323652651351,15.815485996705107,5.259355584453114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_cane_ver01:data:sn91068076:00296022925:1894021501:0163/pct:10.236869207003089,19.20242739488513,11.864057672502575,3.958965467418003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9589,7 +9589,7 @@ regard; and to be an old England man was
 of itself a character of some respect and  
 gave a kind of rank among us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550793:1895110601:0404/pct:13.079816130380276,18.87546189953061,12.313692714862794,8.968341156496555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550793:1895110601:0404/pct:13.084459302595533,18.87879090515663,12.313692714862794,8.974999167748594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9699,7 +9699,7 @@ and to he an old England man was of
 Itself a chancier of some respect aid  
 gave a kind of rank among us. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1896022001:0452/pct:62.34347048300537,75.62116340251389,18.828264758497316,17.860274773458052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1896022001:0452/pct:46.77852348993289,56.72318035662087,14.138702460850112,13.387898275358083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9931,7 +9931,7 @@ tax by stamps, taking OM&#x27;ny at thn
 same time trials by jury, and refusing  
 to receive and hear their petition.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270205:00279527823:1899011901:0648/pct:86.01340033500837,44.35494697274802,19.367671691792296,24.352262048597126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270205:00279527823:1899011901:0648/pct:64.52356020942409,33.26621022956102,14.534031413612565,18.270908846825076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

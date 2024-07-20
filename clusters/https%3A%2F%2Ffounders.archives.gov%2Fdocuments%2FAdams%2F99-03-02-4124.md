@@ -254,7 +254,7 @@ ing is not yet crected, but will soon be come­
 menced. Meanwhile the books remain  
 upper room of the Town Hall. The library i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530595:1858072201:0142/pct:55.41132838840189,61.71394085697043,47.42076871207013,20.531080265540133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530595:1858072201:0142/pct:18.470442796133963,20.571313618990143,15.806922904023375,6.843693421846711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -92,7 +92,7 @@ their prosperity.
   
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812031001:0227/pct:28.085038363171357,37.708036138849266,23.353580562659847,27.798383262006656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812031001:0227/pct:28.08054978424165,37.70445036135413,23.355175536732194,27.79890959807278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ their safety, their tranquillity and their pros­
 perity.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812031201:0089/pct:6.261376046596287,5.236486486486487,35.293046960320346,89.20125482625483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812031201:0089/pct:6.260236578707916,5.235854747255399,35.29269032453746,89.19451481883621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ guarantee of their liberties, their safety, their
 tranquility, and their prosperity.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812031301:1032/pct:48.06573957016435,60.564069122921424,21.76991150442478,17.786110205412456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812031301:1032/pct:48.0535894843276,60.55419722901385,21.77072800808898,17.78728606356968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ liberties, their safety, their tranquility and
 their prosperity.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812031301:0384/pct:3.2511210762331837,31.643378261407197,18.628550074738417,16.186472115741314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812031301:0384/pct:3.2505137306183447,31.63946587537092,18.631297091973348,16.188592152983844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ liberties, their fafety, their tranquility
 and prosperity.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812031701:0254/pct:64.0345559260382,36.52250317289857,16.307972112761444,22.737479254124768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812031701:0254/pct:64.03960796200869,36.52901168277523,16.302920076790947,22.7407335090631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ the guarantee of their hiberties, their salety,
 therr tranquility and prosperity.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812031801:0586/pct:26.64516129032258,58.377476947223855,21.403225806451612,19.246615656268393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812031801:0586/pct:26.64516129032258,58.38074684454908,21.413978494623656,19.249885553593618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ berties, their safety, their tranquility, and
 their prosperity.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812032001:0217/pct:2.3631258773982218,33.87954578122754,22.110435189518014,20.20986057208567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812032001:0217/pct:2.3625730994152048,33.87467663121587,22.11111111111111,20.21054900833573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ dence, is the guaranty of their liberties, theirv safety, their
 tranquility and their prosperity.  
 March 9, 1812, JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812032501:0589/pct:6.233233391194571,34.3713163064833,28.830676976487297,15.157170923379175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812032501:0589/pct:6.2384935037609806,34.37459070072037,28.830676976487297,15.16044531761624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ ployed in “intrigues with the disaffected, for
 the purpose of bringing about resistance to  
 the laws.” The very documents brought for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812032601:0283/pct:0.8947116152740054,44.14654301717014,21.760664642914204,8.107611789551006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812032601:0283/pct:0.8945686900958466,44.14248990084466,21.76251331203408,8.109927775737544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ to the laws, and eventually, in concert viin \
 British force, of destroying the union.” Bjt  
 there is nothing in Henry’s papers to warran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812052301:0472/pct:77.02140766979825,35.73830077237619,21.53087940859387,9.541117673784644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812052301:0472/pct:77.00954727440714,35.73505360712339,21.532696848372858,9.543279423344842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1099,7 +1099,7 @@ concert with a Rritish force, of destroying the
 Union, and forming Ihe Eastern part thereof into  
 a political connexion with Great Britain.” Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080701:0121/pct:66.80154142581888,18.39389226636505,14.508670520231213,7.563975682171638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080701:0121/pct:66.78867270275477,18.391292055414194,14.51069158158351,7.5664404862878145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1128,7 +1128,7 @@ a British force, of destroying the Union, ah&#x27;d form­
 ing the Eastern part thereof into a political con­  
 nexion with Great Britain.&quot; This exposition, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851080901:0724/pct:3.2897453544390913,25.058697972251867,15.98072952512044,10.202774813233725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851080901:0724/pct:3.2989217710484056,25.062255425115616,15.976141316815783,10.206332266097474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1202,7 +1202,7 @@ Union, and forming the Eastern part thereof into
 a political connexion with Great Britain.&quot;  
 We well remember the excitement which wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851082001:0551/pct:67.56756756756756,213.96201702685002,57.76061776061776,47.570399476096924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851082001:0551/pct:16.89189189189189,53.490504256712505,14.44015444015444,11.892599869024231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1258,7 +1258,7 @@ with a British force, of destroying the Union, and
 forming the Eastern part tbereqf into a political  
 connexion with Great Britain.” This exposition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1851090301:0485/pct:16.51576646893537,18.649252853276856,14.080549484857945,7.2243793387457345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1851090301:0485/pct:16.520969924029554,18.657096913362356,14.085752939952128,7.228301368788485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1276,7 +1276,7 @@ j observe the laws of peace and neutrality toward &#x27;
 1 Great Hritain, and in th : midst of amicable professions ;  
 i and negotiations on the part of the Hritmli Govcrn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851091901:0167/pct:71.13893858079905,42.82210172992512,17.754919499105547,2.233410792667183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851091901:0167/pct:53.362158938422546,32.11980376968758,13.329357387803787,1.678285566744126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1307,7 +1307,7 @@ force, of destroying l.ie Union, and forming the East
 ern part thereof inlu a political connection vvitit Cii&#x27;eal j  
 Britain.1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851091901:0167/pct:71.15384615384616,43.69997418022205,31.61896243291592,7.0746191582752385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851091901:0167/pct:53.37706873415834,32.77820810741028,23.721485015655286,5.305964368706429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1328,7 +1328,7 @@ stroying the Union and forming the eastern part thereof
 into a political connection with Great Britain.&quot; His  
 station was in Boston, from which point he carried o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861030901:0597/pct:207.98069187449718,150.22476961114856,45.93724859211585,9.215554057091481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861030901:0597/pct:69.32689729149907,50.07492320371619,15.312416197371949,3.071851352363827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1437,7 +1437,7 @@ part thereof into a political connection
 with Great Britain.&quot; His station was in  
 Boaton, from which place he carried o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1868013001:0445/pct:261.3941018766756,213.6483755635007,58.26630920464701,20.767915436032954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1868013001:0445/pct:65.3923541247485,53.41209389087518,14.576346970713168,5.1919788590082385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1467,7 +1467,7 @@ part thereof into a political connexion with 1
 Great Britain.&quot;  
 There is no cud to the proofs that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879020101:0029/pct:27.883447996762445,42.836041358936484,11.12909753136382,6.602658788774003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879020101:0029/pct:27.883447996762445,42.84588872476613,11.156077161742884,6.607582471688823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1496,7 +1496,7 @@ j Mr. Wolfe, says—“ During the progress of
 the war. this opposition (the opposition of  
 ! the Federalists,) continued and became row-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879022201:0041/pct:39.7640943622551,30.142836106611693,11.235505797680927,8.45236342217641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879022201:0041/pct:39.7640943622551,30.14774456388357,11.242169798747168,8.462180336720168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1560,7 +1560,7 @@ constituted authoritles of the nation.
 Early in the following month he recom­  
 mended to congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898032601:0196/pct:54.92589363557106,155.6649688737974,37.54722464399884,13.09564233163554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898032601:0196/pct:18.30863121185702,51.888322957932466,12.515741547999612,4.36521411054518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

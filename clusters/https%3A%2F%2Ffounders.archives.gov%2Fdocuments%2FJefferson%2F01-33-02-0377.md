@@ -46,7 +46,7 @@ to many of my friends. That torrent thad been pressing
 me heavily, and will require all my force to bear up  
 aganst it, but myimaxim is Fiat justitia ruit całum.&quot; H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869011801:0119/pct:246.70082285359416,162.82220753469926,48.284427883868965,7.920246750385547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869011801:0119/pct:82.23360761786472,54.27406917823309,16.094809294622987,2.6400822501285157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +65,7 @@ individuals only, probably not twenty, will
 be removed, and these only for doing what  
 they ought not to have done.&quot; In anothe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877031701:0877/pct:54.07746363784932,90.28446891488873,48.73345317862396,9.669649002064693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877031701:0877/pct:18.025821212616442,30.09482297162958,16.244484392874654,3.2232163340215645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ be restored. But, as Mr. Morse rominds us
 the serious question was not how vacancies  
 should be filled, but how they should b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883042201:0517/pct:129.30127723516154,161.8093503339405,50.03756574004508,11.900425015179113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883042201:0517/pct:32.343544446532604,40.452337583485125,12.516444277391468,2.9751062537947783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ twenty will be removed; and these only for doing what
 they bught not to have done.&quot; Three days later he  
 writes,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:00175038073:1885041401:0120/pct:199.8037291462218,231.2162627770759,46.94144586195617,14.919030664982198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:00175038073:1885041401:0120/pct:66.6012430487406,77.07208759235864,15.647148620652056,4.973010221660733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ and will require all my foroe to bear up
 against, but my maxim is Fiat justitia,  
 ruat ceelum, ”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_deathkiss_ver01:data:sn92064073:00514153760:1897011201:0293/pct:34.428969359331475,38.41935167956126,14.052924791086351,9.538732739202821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_deathkiss_ver01:data:sn92064073:00514153760:1897011201:0293/pct:34.433611884865364,38.41935167956126,14.062209842154132,9.545261645937387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ pressing mo heavily and will requlro all
 my force to bear up against, but my  
 maxim is fiat Justltia, ruat coelum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100217:1897092001:0662/pct:10.78966521106259,62.362637362637365,31.950509461426492,51.84065934065934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100217:1897092001:0662/pct:8.098271155595997,46.77197802197802,23.96724294813467,38.887362637362635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

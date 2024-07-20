@@ -36,7 +36,7 @@ the Secretary thereof fball be, and he is hereby authorized and
 required to execute all the powers, and perform all the dutiesof  
 rhe Governor, during the vacancy, occasioned by the removal,t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0004/pct:72.8476821192053,38.900513600913065,22.890872444572416,3.823473463952825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082901:0004/pct:72.8476821192053,38.914780292942744,22.919665994817162,3.8187178999429334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -68,7 +68,7 @@ tatives.
 JOHN ADAMS, Vice-President of the  
 United States, and President of the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789100101:0467/pct:50.04830917874396,14.242181234963914,20.917874396135264,14.819566960705693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789100101:0467/pct:50.05636070853462,14.247527399091153,20.925925925925927,14.824913124832932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ the Governor, during (he vacancy occasioned
 by the removal, resignation, or necessary ab­  
 sence, of the said Gevernor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052801:0501/pct:6.126851718682583,43.126472898664574,16.697828275564504,5.970149253731344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052801:0501/pct:6.136439906035764,43.126472898664574,16.693034181887914,5.970149253731344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ sence, of the said Governor; who shall, in
 no case, leave the said territory without permis­  
 sion first had of the President of the Wnite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823042201:0061/pct:5.524781341107872,45.56025369978858,16.18075801749271,4.093792043052085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823042201:0061/pct:5.534499514091351,45.566660260106346,16.18075801749271,4.08738548273432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ of the said Governor.”
 The third section of the act of Congress of 1792 pro­  
 vides, “that the official duties of the Secretary of sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831081501:0275/pct:50.8769322235434,60.97367226509306,14.848394768133176,6.309577848388561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831081501:0275/pct:50.86937137761926,60.966753659366844,14.851141823946104,6.312644199856273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ secretary thereof shall be, and be is hereby authorized and
 required to execute all the powers, and perform all the du­  
 ties of the governor, during the vacancy occasioned by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191617:1850013101:0168/pct:87.39384288747345,71.61396642290659,18.869426751592357,4.294984035431043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191617:1850013101:0168/pct:65.56071665560717,53.71304974765681,14.16058394160584,3.2238129570501597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ removal of whom? Why the Judges,
 the only territorial officers who could not  
 be removed by Congress. All the power 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851122501:0560/pct:16.76727028839705,54.80522379729881,12.246814218645204,12.7134724857685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851122501:0560/pct:16.771741560473956,54.808944450645534,12.251285490722111,12.724634445808684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ act of the First Congress, and certain alterations
 were made, in its merely formal parts, t^adapt  
 j it to the Constitution of the United States, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856103001:0608/pct:37.83816868649774,0.12244513516059151,25.841596278614272,96.08175567486107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856103001:0608/pct:37.84632962010854,0.12244513516059151,25.841596278614272,96.09117453141188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ quired to execute all the powers and perform all the
 uties of the Governor, during the vacancy occacioned  
 by the removal, resighation, or necessary absenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859101501:0320/pct:103.96759795007439,116.51168335717692,46.7680608365019,8.047210300429185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859101501:0320/pct:34.65586598335813,38.83722778572564,15.5893536121673,2.6824034334763946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ I Approved Aug, 7th, 17S&#x27;J.
 Are you reading, Mr. Senator ? Here  
 | is the act passed by the first Congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1859110401:1026/pct:43.13105773282764,45.91320349639626,12.852928782132322,5.8579972396871645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1859110401:1026/pct:43.12197177164525,45.90616375344986,12.855487676427217,5.860932229377491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ execute all the powers and perform all the
 duties ot the Governor during the vacancy  
 occasioned by the removal, resignation, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287897:1859121501:0273/pct:104.7648136835675,51.52580945484638,19.059254734270006,6.3101272369918275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287897:1859121501:0273/pct:78.59761686526123,38.646943208854864,14.298808432630613,4.737767663184028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ hereby authorized and required to execute all the powers and
 perfo m all the duties of the Governer during the vacancy occa  
 sioned by the removal, res gnation, or necessary absence of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293290:1860053001:0517/pct:108.07522123893806,275.890637945319,43.41814159292036,4.556752278376139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293290:1860053001:0517/pct:27.022541833771264,68.97265948632975,10.856036509473102,1.1391880695940348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ Governor, the Secretary shall exercise all the
 |&gt;owers and perform all the duties of the Governor  
 during such vacancy or absence, or until
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654334:1870011501:0572/pct:55.32561505065123,35.764731847274334,15.253256150506513,5.440300154491283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654334:1870011501:0572/pct:55.32561505065123,35.764731847274334,15.274963820549928,5.456852791878172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

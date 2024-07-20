@@ -61,7 +61,7 @@ exactions of fees by persons pos
 messed of patents.  
 J:\S. M DiSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816041601:0060/pct:45.177358490566036,70.19717800289436,18.505660377358492,13.793415340086831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816041601:0060/pct:45.17054029580441,70.19082933888035,18.507898178891235,13.795182538964758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ and further guards provided against fraudulent
 exactions of fees by persons possessed of pa­  
 tents. ;&#x27; JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816042301:0502/pct:42.125748502994014,49.653870358716176,17.230538922155688,17.663100482483742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816042301:0502/pct:42.13073852295409,49.653870358716176,17.230538922155688,17.670093000489477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ pr Tided against fraudulent exactions of te. * by
 persons possessed of patents  
 JAMES MAD1SONT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816042701:0135/pct:76.02112676056338,59.02785738851313,16.70774647887324,6.993006993006993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816042701:0135/pct:76.0077451152966,59.02109124254929,16.71067300357918,6.996026287635641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

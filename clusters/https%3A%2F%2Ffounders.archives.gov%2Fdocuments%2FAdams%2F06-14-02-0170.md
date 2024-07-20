@@ -467,7 +467,7 @@ end to the calamities of war, asfoon and as far
 as may be possible, it has been agreed between  
 Us, his most Christian Majetty, and his Cathicli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0961/pct:60.46511627906977,15.262119503945884,27.734711455641687,15.24802705749718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0961/pct:60.46511627906977,15.266816986095453,27.734711455641687,15.24802705749718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ particular description of time and place.
 . ART, XXVI. The &#x27;ratifications .of the pre-  
 Timinary articles shall be expedited in good an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0963/pct:36.61559260928346,34.125973106864826,27.670121676430824,17.409766454352443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0963/pct:36.62310350007511,34.125973106864826,27.670121676430824,17.409766454352443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1109,7 +1109,7 @@ reign; and in the year of our Lord one thou­
 - sand seven hundred and eighty three,  
 [How art thou fallen, O NorTH ! an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783041901:0341/pct:30.127442650807136,4.540125759352019,33.050127442650805,84.96216561867206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783041901:0341/pct:30.133106768620788,4.547230807488721,33.050127442650805,84.96216561867206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1163,7 +1163,7 @@ or Equator ; and lastly, five Months in.all
 other parts of the World, without any Ex­  
 ception or more particular Description o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783042601:0345/pct:36.61850705194358,38.887736044822574,27.949776401788785,35.702427889603655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783042601:0345/pct:36.61850705194358,38.887736044822574,27.95550968925582,35.71626201839939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1523,7 +1523,7 @@ other distinction more particular with res.
 pect to time and place.  
 , XlI. All the sequellration laid on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801112601:0577/pct:45.396047188601194,18.135352579271178,22.52183238853991,6.256507335541883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801112601:0577/pct:45.3890931372549,18.133636191557827,22.523488562091504,6.259069972868951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1543,7 +1543,7 @@ ivell by Sea as Land, agreed upon be­
 tween his Majesty and the French Rc­  
 pvblic, and enjoining the observatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801112701:0002/pct:27.277904328018224,13.308733087330873,15.831435079726651,3.726937269372694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801112701:0002/pct:27.29055935206277,13.308733087330873,15.818780055682106,3.7351373513735138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1603,7 +1603,7 @@ and in the year of oiir Lord one
 tlionland eight hundred and one.  
 GOfl SAVE THE KINS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801112701:0002/pct:27.145026575550492,33.505535055350556,15.85041761579347,29.82779827798278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801112701:0002/pct:27.145026575550492,33.50963509635096,15.87572766388256,29.83189831898319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1637,7 +1637,7 @@ or place: And whereas the rsittification o &#x27;
 the said prelimina ry atticlcs between us and  
 the French republic were esse-hanged by t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801112701:0580/pct:78.05186590765338,68.10942843185148,20.88867805186591,15.261358085002442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801112701:0580/pct:78.03952569169961,68.10277452129738,20.89064558629776,15.263123615995832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1667,7 +1667,7 @@ ill? penalty
 leasure. - &quot;  
 Given at our court at Vi&#x27; tndsor the tzth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801112701:0581/pct:1.7454433117083719,2.5121324578932342,20.003089280197713,10.705109905795032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801112701:0581/pct:1.7451737451737452,2.511893434823977,20.005148005148005,10.707262924199176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1800,7 +1800,7 @@ tive treaty. Lt ‘
 ~ The decision of all claims between  
 the individuals of both nations ref
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801120801:0616/pct:25.900277008310248,34.3588241039164,16.605109264389043,13.243480808672722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801120801:0616/pct:25.905406791833386,34.3588241039164,16.59997948086591,13.243480808672722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1821,7 +1821,7 @@ by Sea asby Land, agreed upon be­
 tween his Majefly and the French Re- |  
 public, and enjoining the observatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801120801:0616/pct:60.89566020313943,14.161539212813752,16.543551862111418,5.420451215939057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801120801:0616/pct:60.900789986662566,14.16479473906957,16.55381142915769,5.430217794706515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1844,7 +1844,7 @@ Republic ; and whereas, for the put­
 ting an end to the calamities of war  
 as soon and as far as may be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801120801:0616/pct:60.92643890427824,20.84187908975486,16.00492459218221,5.869713839242113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801120801:0616/pct:60.92643890427824,20.84187908975486,16.020313942751617,5.872969365497933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1932,7 +1932,7 @@ months in all other parts of the globe,
 without any further exception or diftio&amp;ion  
 of time or place. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802052501:0085/pct:4.594553476342614,55.36332179930796,16.126578426897915,7.59268413247652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802052501:0085/pct:4.599624727420254,55.36332179930796,16.126578426897915,7.599275004119295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2059,7 +2059,7 @@ Given at the Court at Carlton house, the 8th day of
 May, in the fifty fourth tear of his lusjctty’k reign, and  
 in the vear cf our Lord, 1814
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814072701:0014/pct:71.46542827657379,62.85012285012285,22.62641898864809,9.352989352989352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814072701:0014/pct:71.44699509930359,62.839829675728794,22.62703120969822,9.355551916148052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2079,7 +2079,7 @@ his moat Christian Majesty, and enjoining
 the observance thereof.  
 caoaca, r. a.—Whereas a Convention fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814072701:0191/pct:26.559616094499816,23.018238169030873,17.183462532299743,3.0873763261413756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814072701:0191/pct:26.554714892046505,23.015494636471992,17.186442763117427,3.0909813269765594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2113,7 +2113,7 @@ bear all acts of hostility, either by sea or land,
 against the kingdom of France, her allies, her  
 vessels or subjects, under the penalty of incur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814073001:0091/pct:41.49090909090909,20.36550256602829,17.363636363636363,11.82876455125798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814073001:0091/pct:41.48336666060716,20.362953692115145,17.366539417075682,11.83145598664998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

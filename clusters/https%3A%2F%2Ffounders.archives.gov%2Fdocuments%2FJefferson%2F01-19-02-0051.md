@@ -90,7 +90,7 @@ no longer susceptible df.demotion ? The
 present legislative body may now and  
 for years to come, be actuated by tii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824021201:0239/pct:4.861854786892268,31.880033324076646,17.0272006853716,10.024993057484032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824021201:0239/pct:4.860813704496788,31.875607385811467,17.028907922912207,10.02707205331112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ main, so tar as to permit Congrt-s itself to hold lands :
 for certain purposes, yet not so far as to permit tlu m to |  
 communicate similar right to their corporate bodies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829092401:0764/pct:23.842716711349418,2.7244582043343653,57.74798927613941,95.82662538699691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829092401:0764/pct:23.838456040028593,2.7241208519068847,57.743626399809386,95.81888723790655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1267,7 +1267,7 @@ on that degree of ncecmity which can honestly justify it.
 “ It may be said, that a bank wbn&lt;e bills would have a  
 currency all over the State*, would be more convenient 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831121701:0267/pct:65.82348853370397,82.18397228121158,15.149409312022238,10.394545657762379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831121701:0267/pct:65.81434130072262,82.17478766204738,15.151936260885677,10.397109223662643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1296,7 +1296,7 @@ against mortmain, the laws of alienage, the rules of de­
 scent, the nets ol distribution, the laws of escheat and for­  
 feiture, and the laws of monopoly,”—.Mr. Jefferson&#x27;s Ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831121701:0267/pct:81.1952744961779,83.82698111098692,14.996525364836693,7.119704929026489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831121701:0267/pct:81.1839911061701,83.81761287438533,14.999073559384843,7.122634480703323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1791,7 +1791,7 @@ aie cleatly misled hy erior, amhitioti, or interest, that the
 Constitution has placed a check iu the negative of the  
 1 resident
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833090301:0140/pct:82.23874432052871,31.651526759330196,14.911193721602643,10.813177191638394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833090301:0140/pct:82.22742290748899,31.64806303348654,14.91372980910426,10.815641642956153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1811,7 +1811,7 @@ sh.mhl he authorize,I t„ break down the most anrlent and
 fundamental laws of the sever,! Sla.es, such a* ,|10 J  
 again*, mortmain, Ihr law s ol alienage, ll.e rules of dasren
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833090301:0140/pct:82.2112074900179,73.68939476852358,14.924962136858047,3.184852796322644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833090301:0140/pct:82.1998898678414,73.68133070693806,14.927496328928047,3.1881520391041076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1875,7 +1875,7 @@ lor cases where they are clearly misled by error, ambi­
 tion, or interest, dial llio Constitution has placed a check  
 in Ihe negative ol die President.” This reasoning pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833102501:0200/pct:6.0952118877270225,22.707279524961514,15.121078701155751,4.409500769738289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833102501:0200/pct:6.094373366350254,22.704782847718526,15.123584170220571,4.412680960234561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1910,7 +1910,7 @@ The gentleman from Goochland (Mr. Watkins,) tells
 us; the agitation into which the whole nation is now  
 thrown, shows the power, and cousequen&#x27;ly the dange
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834020601:0344/pct:6.175836030204962,35.897716096601464,14.738403451995685,9.365096710741996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834020601:0344/pct:6.175003370635028,35.89379370629371,14.740910520875467,9.367715617715618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1949,7 +1949,7 @@ j.ei m enquire, whether the power fo create a corpora­
 powers? We have a right to demand o! the advocates oi  
 the Bank, to put their finger on the specified grant, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834022501:0378/pct:20.7681755829904,49.31835532773476,14.993141289437586,10.535500054531573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834022501:0378/pct:20.765327115622,49.31297709923664,14.995656745759613,10.537986186841149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1975,7 +1975,7 @@ charter, said, “I consider the foundation of the Constitu­
 &quot;gated to the United States by the Constitution”  
 i be late eminent and distinguished statesman, Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834032501:0421/pct:34.44157959017506,44.50879685280297,14.88668747455557,5.813572287181729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834032501:0421/pct:34.436906377204885,44.50393356643357,14.889190411578472,5.8165792540792545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2003,7 +2003,7 @@ grant of the power would be nugatory.”
 1 might hero content myself with a few interro­  
 gatories. What powers of the Constitution woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834032501:0422/pct:19.65167306637411,40.98200737047475,14.810751508502468,6.85020593973553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834032501:0422/pct:19.648978472507885,40.97756583938442,14.813291283879519,6.853076117192298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2256,7 +2256,7 @@ Constitution -leas placed a check in the negative of the
 President. TH, JEFFEltSON.  
 February &#x27;15,1*31
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834051301:0016/pct:2.9913335197092534,2.342718873735152,31.339110986860497,95.00659920809503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834051301:0016/pct:2.9909154437456325,2.3424612339161994,31.33938970416958,94.99981670882364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2337,7 +2337,7 @@ well done, wit..out this assumption: iherelore, it does not
 stand in lhai degree of necessity vvI ich can honestly jus­  
 1 uly i .”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834071101:0084/pct:20.057859209257472,51.70404573438874,15.002066400330625,7.4318381706244505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834071101:0084/pct:20.05509641873278,51.69836209739474,15.004591368227732,7.4346854274302885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2415,7 +2415,7 @@ for cases where they are clearly misled by error, ambition
 or interest, that the Constitution lias placed a check in  
 the negative of the President.&quot; It is a fact well know
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835031401:0430/pct:19.27644297155482,23.316175665315956,15.07870753935377,5.7715474756324605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835031401:0430/pct:19.273781582217314,23.313622426631625,15.081227852179115,5.774565630018981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2492,7 +2492,7 @@ bound to the national bank, who sm free to refuse afi
 arrangement* hut mi their own terms, and the putdic not  
 free, on such refusal, to employ any other bank.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092801:0072/pct:34.12831709774941,17.567727434047082,15.619751427611689,8.777948657281438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092801:0072/pct:34.12831709774941,17.567727434047082,15.625349904825887,8.789778776765646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2524,7 +2524,7 @@ fore, it does not stand in that degree of neceasity, which
 can honestly justify it.&quot;  
 &quot;Mr. B. ssid, that what Mr. Jefferson affirmed in 1791
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837093001:0075/pct:33.40094658553076,36.76101755643138,15.753887762001352,8.742386241490506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837093001:0075/pct:33.412215460897,36.76101755643138,15.759522199684472,8.750348341892591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2551,7 +2551,7 @@ there were prejudice* and jealousies on that
 subject adverse to the reception of the Con­  
 stitution.&quot;?Jefferson * Official opinion in 1771
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837100301:0079/pct:65.02841858910064,3.2250386766630963,32.56435974590438,91.36022848982506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837100301:0079/pct:65.03956313384599,3.2290055139037643,32.56435974590438,91.36419532706573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2777,7 +2777,7 @@ measure as a ‘regul.t on Jf trade,” but as ‘productive of
 cousiderable advantage to uwade.’  
 Some have attempted to locate the power to in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837111401:0585/pct:78.63814401928292,36.97837343892781,14.236215727628803,9.12783023657224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837111401:0585/pct:78.64316561213217,36.98514231563272,14.236215727628803,9.12783023657224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2804,7 +2804,7 @@ controverted, that the powe: to ercet a bank, “pro­
 posed as a means, was rejected as an ead,’” by the  
 very aunthors of the constitution uself. The fact
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837111401:0586/pct:5.028017567772225,59.272801137517774,14.599424504013328,5.78915295551493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837111401:0586/pct:5.033065778181634,59.2761866070824,14.594376293603917,5.78915295551493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3029,7 +3029,7 @@ will be a competition among them for it&quot;??Does he for- i
 gel. that Mr. Madison, in his able speech, argued, that  
 a National Bank was not necessary and conalitulional, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838032701:0153/pct:16.33655994043187,36.59654238700271,16.723752792256143,2.999375130181212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838032701:0153/pct:16.34152395135269,36.60348538498924,16.723752792256143,2.999375130181212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3089,7 +3089,7 @@ They are not among the powers specially enumera­
 ted ; nor are they among the general powers &gt;’  
 2. James Mapison.—*“He denied the right o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838072401:0119/pct:17.712733856366928,33.38151781104801,14.393482196741099,9.437274135260713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838072401:0119/pct:17.72279219472943,33.38151781104801,14.39851136592235,9.451041128893477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3109,7 +3109,7 @@ petition among iheni for it, whereas the bill delivers us
 up bound to the National Bank, who are free lo refuse  
 all arrangement, but on their own terms. The thing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838081801:0569/pct:18.752085418752085,70.49700818170717,15.331998665331998,3.1261448284283797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838081801:0569/pct:18.752085418752085,70.49700818170717,15.331998665331998,3.1342858305857453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3201,7 +3201,7 @@ lion of a non enumerated poictr as the means of carry
 &quot; assumption; therefore it dots not stand in that degree ?J  
 &quot; necessity, tehich can honestly justify it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839031401:0600/pct:48.50164818699431,74.12688572019012,15.867545699730297,7.780533168009919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839031401:0600/pct:48.50164818699431,74.12688572019012,15.882529217860354,7.783977405800097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3234,7 +3234,7 @@ I •&#x27; rangement wall the Ticasury, are paid by any oth­
 &quot;that, degree of necessity, which can honestly justify  
 it.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1839032801:1093/pct:50.0,87.7657202319013,15.356169715842741,9.424706407016501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1839032801:1093/pct:49.99027048063826,87.75267538644471,15.358046312512162,9.427021403091558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3271,7 +3271,7 @@ the constitution restrains congress to
   
 those means, without which the powe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839102601:0650/pct:64.26076833527357,58.543619322278296,16.82188591385332,10.18985820716174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839102601:0650/pct:48.2025905981662,43.907714491708724,12.618250618541698,7.642393655371305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3317,7 +3317,7 @@ whole system of jurisprudence. Jf con
   
 gress have the power to create one co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839102601:0650/pct:63.94062863795111,84.03028118240807,16.63271245634459,15.621244893054554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839102601:0650/pct:47.969727841653324,63.025714972362415,12.472711395721147,11.715933669790916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3354,7 +3354,7 @@ if the Asylum for the Insane had been located at!
 Nashua instead of Portsmouth, the editor would  
 have declared that place to be in the State o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839102901:0382/pct:66.36869871043376,56.9913712444121,14.830011723329426,13.785216758498805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839102901:0382/pct:66.36869871043376,56.9913712444121,14.83978116451739,13.79907821325848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3709,7 +3709,7 @@ cases where they are clearly misled by error, ambition
 or interest, that the Constitution has placed a check in  
 the negative of the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1840120101:0058/pct:3.0572289156626504,2.0502979497020504,32.9066265060241,95.03080496919503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1840120101:0058/pct:3.0572289156626504,2.0502979497020504,32.911646586345384,95.03753829579503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4104,7 +4104,7 @@ Ull&#x27;;?ut doubt, enter into arrangements for lend­
 e a competition among them for it.&quot; Could we be­  
 *ve it certain, that Mr. Tyler would return the Ban
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841041301:0257/pct:0.9142685851318945,93.1580519868539,16.321942446043167,3.2865252464893935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841041301:0257/pct:0.9142685851318945,93.1580519868539,16.33193445243805,3.289844968960595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4135,7 +4135,7 @@ all laws veceseary nnd proper for Carrying into ex­
 ecwlion all the enumerated powers,”” und concludes,  
 “ But they ean
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1841071401:0344/pct:64.7684437264405,62.71068116086566,14.176090468497577,10.05285728532961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1841071401:0344/pct:64.7684437264405,62.71400551843356,14.180577993178963,10.06283035803331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4159,7 +4159,7 @@ taxes&quot;--to borrow money and to regulate com­
 a. &quot;Whr are they within cither of the general  
 phrases.&quot; The whole opinion is well worth th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841071601:0253/pct:259.5600676818951,316.13832853025934,58.79864636209814,21.844380403458214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841071601:0253/pct:64.93121693121694,79.03458213256484,14.708994708994709,5.461095100864553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4241,7 +4241,7 @@ is chielly lor cases, where they are clearly misled by
 error, ambition,or interest, that the Constitution has  
 placed a check in the negative of the President.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841081001:0833/pct:50.0,60.02042379371969,15.561857497341368,12.011743681388818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841081001:0833/pct:50.0059080704242,60.02042379371969,15.561857497341368,12.02450855246362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4278,7 +4278,7 @@ ambition or interest, dial the Cm stMiition has
 placed a check in lhe negative of the Pres&gt;  
 dent ” Sir, this se fitnent ought to he printe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215695:1841081301:0420/pct:38.785320670653064,62.224660970447594,15.171766912885449,6.365132868229208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215695:1841081301:0420/pct:38.78077373974209,62.219783665151276,15.17389605314576,6.367246694884256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4332,7 +4332,7 @@ is chiefly for cases, where they are clearly misled by *&#x27;
 error, ambition, or interest, that the Constitution has ?  
 placed a check in the negative of the President.&quot; e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841081401:0102/pct:-0.5642167780252413,55.69349315068493,20.71269487750557,10.627140410958905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841081401:0102/pct:-0.5642167780252413,55.70062785388128,20.72259341747092,10.630707762557078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4357,7 +4357,7 @@ chiefly for cases where they are clearly misled by
 error, ambition, or interest, that the Constitution  
 has piaced a check in the negative of the President.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081401:0732/pct:49.501402306014334,56.31868131868132,38.20504830165161,12.957875457875458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081401:0732/pct:16.497896868671134,18.77074510701614,12.733032144155372,4.3187974514516805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4390,7 +4390,7 @@ early misted by crror, ambition, or interest, that
 he Constirution has plated a check in the negative  
 of the Presiden.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081401:0732/pct:128.87192271735742,85.54258241758242,38.81271424119664,22.19551282051282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081401:0732/pct:42.95061536064808,28.510930525351952,12.935555901750012,7.397657472053718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4423,7 +4423,7 @@ would have a power to erect a Hank which would render the great
 cities, where there were prejudices mid jealousies ou that subject  
 adverse to the reception of the Constitution.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841081701:0400/pct:48.047284153823135,56.25312906778812,15.920993565763878,3.264243516571543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841081701:0400/pct:48.047284153823135,56.25312906778812,15.925981345703027,3.2742565334935416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4508,7 +4508,7 @@ merated.&quot;
 ay taxes.&quot; Nor does any body contend that it  
 does; and he then undertakes to shew that the ter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081801:0744/pct:85.26757934038581,160.48580225795416,39.499066583696326,50.26798950849584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081801:0744/pct:28.418105459636024,53.48916761687571,13.164307564680874,16.754085898897756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4538,7 +4538,7 @@ y errors, ambition, or interest, that the Constitu­
 tion has placed a check in the nogative of the Pre­  
 sident.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081801:0744/pct:86.20099564405724,223.87957577830994,38.845675171126324,18.82768844794161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841081801:0744/pct:28.729195831389017,74.61801596351198,12.946544304453777,6.275180539718738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4574,7 +4574,7 @@ ses where they are clearly misle by errur, ambilion,
 or interest, that the Constitution has planed a chech  
 in the negative of the President.&quot; S this se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1841081901:0024/pct:137.87731256085686,219.8182351216652,61.71372930866602,42.05511580181765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1841081901:0024/pct:34.46261682242991,54.94650447017441,15.425428348909657,10.51223801846695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4605,7 +4605,7 @@ rights of the Executive. 2. Ofthe Judicijuv.
 present is the case of a right rema ining ex­  
 clusively with the States, and is consequently
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841082101:0522/pct:108.01622831561276,120.30163779898669,19.37604924454393,5.9620596205962055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841082101:0522/pct:81.03834312902323,90.23211971250147,14.53960257486706,4.477436078708613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4645,7 +4645,7 @@ the negative of4he President.&quot;
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841082101:0523/pct:3.8096607245543415,8.850804084986502,19.939620471535367,11.351097546660407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841082101:0523/pct:2.8616623526028184,6.643972297217983,14.969801553062986,8.510388543256251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4725,7 +4725,7 @@ are clearly misled by error, ambition, or in­
 terest, that tho Constitution has placed a!  
 check in tho ncgativo of the President.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841082601:0108/pct:10.775862068965518,5.394689414874445,28.74076354679803,85.22167487684729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841082601:0108/pct:10.774203478528552,5.39404132628544,28.741470422246167,85.21544129424956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4768,7 +4768,7 @@ views in regard to a National liank, are
 contained in a letter written last October  
 in reply to interrogatories put him by sui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1841082801:0301/pct:28.432137285491418,36.39153114452286,18.993759750390016,24.363301626265727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1841082801:0301/pct:21.346341463414635,27.293648358392144,14.24390243902439,18.272476219699293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4796,7 +4796,7 @@ were prejudices and jealousies on that sub­
 ject, adverse to the reception of the Constitu­  
 tion.&quot;It is thus seen said Mr. C. that Mr. Jeffe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1841082801:0340/pct:58.41143392689784,79.85730877716941,23.125585754451734,13.174050107848018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1841082801:0340/pct:43.82470119521912,59.89712958354073,17.34239512538083,9.888833582213373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4906,7 +4906,7 @@ ly misled by error, ambition, or interest, that the
 Constitution has placed a check in the negative of  
 the President.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841111201:0319/pct:75.78589634664401,59.346668585407976,120.47578589634665,320.679234422219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841111201:0319/pct:18.95855472901169,14.836667146351994,30.138150903294367,80.16980860555475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4945,7 +4945,7 @@ they are clearly misled by error, ambition
 or interest, that the Constitution has placed &#x27;  
 a check in the negative of the President.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016922:00200292108:1841111301:0006/pct:76.09553023663453,23.232953658917147,48.40052585451358,107.36464347012014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016922:00200292108:1841111301:0006/pct:57.08963401271094,17.428616008737713,36.313828621520926,80.52738336713996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4987,7 +4987,7 @@ urged in debate was, lhat they would have a power to
 erect a bank.&quot; Notwithstanding the power lo incor­  
 porate was thus expressly refused to be conferred upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841122901:0566/pct:32.96570478924309,91.6532582461786,16.210907992143827,3.811343523732904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841122901:0566/pct:32.96570478924309,91.65996245642263,16.23105202195699,3.811343523732904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5014,7 +5014,7 @@ The charter of the Hank of 1791, which has been
 called &quot;the pioneer iri constitutional encroachments,  
 together with other kindred subjects, gave rise to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841122901:0566/pct:49.206828826106666,16.371681415929203,15.984287656745732,5.913113435237329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841122901:0566/pct:49.206828826106666,16.375033521051222,15.989323664199024,5.913113435237329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5040,7 +5040,7 @@ i purpose they please, but only to pay debts, or
 I provide for the welfare qf the UnionThese views  
 * are substantially the same as those of Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843031001:0238/pct:7.2687875504776915,6.494576410819717,30.34571062740077,92.92187285459289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843031001:0238/pct:7.268071695883395,6.494130569094529,30.346004858512245,92.91778220178028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5073,7 +5073,7 @@ Congress to open Canals, end an amendatory
 one to empower them to Incorporate, but the  
 whole was rejected, and o.m of the reasons urge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843040601:0227/pct:3.4579112818721622,55.842851763524536,13.534753754802654,8.422241747207229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843040601:0227/pct:3.4573074908328967,55.83584337349398,13.53675571852628,8.424322289156626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5114,7 +5114,7 @@ ambition or interest, that the Constitution has placed a check
 in the negative of the President.&quot;  
 ONE OF THE PEOPLE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843042001:0364/pct:92.0429795266444,23.74175633460604,40.30782633948018,19.79636700219831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843042001:0364/pct:30.676538908246226,7.9130032392410925,13.43399148277197,6.598025605429585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5197,7 +5197,7 @@ we have no power to continue it bevond
 the period limited for its termination.  
 &#x27;Much has been said of the President&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877935:1843083001:0647/pct:47.412254610350985,62.613515744781225,20.24092801903629,27.37351102724378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877935:1843083001:0647/pct:35.56977090151741,46.963085269489326,15.188931865516215,20.533081731336242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5233,7 +5233,7 @@ WouW: renaer-tne greai, cuies,wnere5 mere re
 prejudices or jealousies on this subject&quot;; adverse tpi  
 the reception of the constitution.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843090601:0571/pct:2.776250687190764,109.8360655737705,21.055525013743814,17.48633879781421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843090601:0571/pct:2.089347079037801,82.37983718077395,15.793814432989691,13.114754098360656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5258,7 +5258,7 @@ and o!h-r powers assumed by this bill, have not, in
 my opinion been delegated to the United States by&#x27;the  
 Constitution. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843102701:0121/pct:51.45631067961165,27.67538644470868,15.90739357729649,4.894966309948474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843102701:0121/pct:51.46128951954195,27.67538644470868,15.902414737366193,4.898269256176509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5282,7 +5282,7 @@ which would render the great cities, where there are
 prejudices or jealousies on this subject, adverse to the  
 reception of the Constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843102701:0121/pct:51.53099327856609,32.47126436781609,15.877520537714712,4.528339278636544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843102701:0121/pct:51.53099327856609,32.47787026027216,15.887478217575305,4.528339278636544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5310,7 +5310,7 @@ are clearly iif.-Hed by error, ambition or interest;
 that the constitution lias placed a check in the  
 negative of the President.” flow much evi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844022201:0036/pct:80.92707410687925,74.23437676573624,14.968999114260408,6.893434286360041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844022201:0036/pct:80.91512915129151,74.22598870056497,14.971709717097172,6.8964218455743875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5340,7 +5340,7 @@ are cle arly misled by error, ambition or in­
 terest, that the constitution luis placed a  
 elnck in the negative of the President.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1844041301:0363/pct:64.72680705748435,37.397260273972606,20.19066590779738,13.253424657534246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1844041301:0363/pct:48.56248220893823,28.04794520547945,15.15798462852263,9.942922374429223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5388,7 +5388,7 @@ PULL Assoth ent Of
   
 DauGs And Medloins.s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023295:00200296096:1844051601:0837/pct:82.47508305647841,29.44383860414395,113.53820598006645,158.77862595419847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023295:00200296096:1844051601:0837/pct:20.623052959501557,7.360959651035987,28.390446521287643,39.69465648854962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5454,7 +5454,7 @@ arises. It&#x27; the power to charter a Bank is so
 ■ doubtful, that its friends cannot agree upon  
 ! the clause in the Constitution under wliie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844052201:0150/pct:19.97006983704689,41.28052805280528,13.634852011972065,29.47854785478548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844052201:0150/pct:19.966749792186203,41.27507919746568,13.636741479634248,29.477956705385427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5537,7 +5537,7 @@ in favor of their opinion; it is chiefly for
 kV interest, that the Constitution has pU­  
 cbeak in the negative a( the President.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157315:1848062201:0515/pct:44.88674217188541,65.5536028119508,11.22584943371086,18.03916645744414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157315:1848062201:0515/pct:44.879267277268944,65.54537467051588,11.228143213988343,18.040040165683443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5571,7 +5571,7 @@ resident s mind, on a view of evfcry thing whict
 * urged for and against this bill, is tolerablt  
 ■iear that it is unauthorized by the Constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157315:1848062201:0515/pct:44.15389740173218,70.52473010293748,11.925383077948034,10.180768265126789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157315:1848062201:0515/pct:44.14654454621149,70.51587799673653,11.927560366361366,10.18262834191038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5609,7 +5609,7 @@ by error, ambition or interest, that (he Constitu­
 tion has placed a check in tho negative of the  
 President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777341:1848081101:0132/pct:94.81382978723404,78.85636021229242,16.9104609929078,17.565485362095533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777341:1848081101:0132/pct:71.16877356398315,59.15083033727102,12.685739631847417,13.165553843519945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5649,7 +5649,7 @@ error, ambition, or interest, that the Constitution
   
 ell re hos place a check in the negatise of the re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848083001:1110/pct:205.0190114068441,347.45739970481685,67.07224334600761,32.63115523950087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848083001:1110/pct:51.264498954173796,86.86434992620421,16.77124928693668,8.157788809875218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5679,7 +5679,7 @@ Legislature— 1st, of the Rights of the Executive&#x27;;
 i 2nd, of the Judiciary ; 3d, of the States and State  
 i Legislatures.” And again lie says, “it was chiefl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848092001:0153/pct:20.613515115589806,62.184778921180595,14.937759336099585,3.8335406536243357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848092001:0153/pct:20.610460809008742,62.17774762550882,14.940485010124958,3.8368762249359265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5709,7 +5709,7 @@ gative of the President.
 THOMAS JEeFFErSON.&quot;  
 &quot;February 15, 1791.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1848092201:0140/pct:130.82901554404145,331.31609870740306,58.63557858376511,33.72502937720329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1848092201:0140/pct:32.721382289416844,82.82902467685076,14.665226781857452,8.431257344300823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5756,7 +5756,7 @@ d, of the States Hnd State legislatures. The pi
 &gt;ank) is the case of a right reinaitiingexclusively  
 lates, and is consequently one of those intended 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848102101:1051/pct:69.2589641434263,46.1211742660837,12.828685258964143,2.985633978763273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848102101:1051/pct:69.2589641434263,46.12533833021028,12.849933598937582,2.9897980428898605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5775,7 +5775,7 @@ men ; for he gave it as his opinio;! that &quot; it is chief­
 constitution has placed a check in the negative ol  
 the President,&quot; and that, even in a question ol con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102801:0376/pct:20.590322122889173,6.500394989278862,15.566907904072655,3.092201783094459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102801:0376/pct:20.59505226810463,6.504156791934695,15.566907904072655,3.0959635857502916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5796,7 +5796,7 @@ to balance his judgment, a ji st respect kuk ihk
 WISDOM OF THE LEGISLATURE WOULD NATURaLLA  
 DECIDE THE BALANCE IN FAVOR OF THEIR OPINION
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102801:0376/pct:20.54775081595005,9.389459428958357,15.581098339719029,4.130459316104277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102801:0376/pct:20.557211106380965,9.389459428958357,15.585828484934488,4.141744724071775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5839,7 +5839,7 @@ In favor of their opinion. It is chiefly for cases
 4 or interest, that the Constitution has placed a  
 ? check in the negative of the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848110401:0382/pct:66.59930715935334,69.83536310329274,16.05080831408776,11.152458276950835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848110401:0382/pct:66.6089299461124,69.8391219365509,16.045996920708237,11.159975943467147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5871,7 +5871,7 @@ by cager ambition or interest, that the Consti
 tution has placed a check in the negative of the  
 President  i  o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021805:1848110601:0530/pct:34.83709273182957,297.1099546008194,67.10526315789474,49.87266083490201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021805:1848110601:0530/pct:8.712002507051082,74.27748865020484,16.781573174553433,12.468165208725502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5912,7 +5912,7 @@ List of Presidents and of Bills I&#x27;etoed.
 MASHINGTON.  
 1. &quot;An act for the apportionment of Representives a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848111601:0124/pct:267.05796038151135,65.74414007342558,59.44607483492297,33.78988986162101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848111601:0124/pct:66.75224646983312,16.43371452774248,14.858793324775354,8.446279824932938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5942,7 +5942,7 @@ is urged for and against this bill, is tolerably
 clear that it is authorized by the Constitu­  
 tion,&quot; &amp;c. The word should be unaut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848112501:0981/pct:67.45519713261649,335.8917653180695,49.69534050179212,28.684792506829712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848112501:0981/pct:16.860777638416053,83.96201873048908,12.42160903063967,7.170265348595214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5969,7 +5969,7 @@ a Bank, and the power assumed by this bill Iisvk
 not in my opinion been delegated to the United  
 States by the Constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1851010201:0178/pct:45.06437768240343,13.448232482073216,16.452074391988557,7.0449113095986915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1851010201:0178/pct:33.80432838490431,10.089319411246697,12.359148631729566,5.283683482199018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6077,7 +6077,7 @@ clearly minted by error, ambition, or interest, that tli? Con­
 stitution has placed a chock in tho negative of the I resi­  
 dent/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854052001:0502/pct:81.7440484019466,36.32919385392549,13.00802314875707,11.092401599663228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854052001:0502/pct:81.7440484019466,36.32919385392549,13.021175851637512,11.095909633059707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6308,7 +6308,7 @@ rrrv: Kote.ct asain8t the &#x27;&quot;&quot;&quot;&quot;&#x27;ons &lt;&gt;f n.- 
 [jucidary. 3d. Of the States and State legislatures. The  
 Cr.,&#x27;&quot; lhe caHe cf tt rlSht remaining exclusively with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061001:0787/pct:67.82780151166612,48.51697589296983,16.381860006572463,2.839833396440742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061001:0787/pct:67.82780151166612,48.51697589296983,16.403768211195093,2.8482477176153815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6333,7 +6333,7 @@ this .ill, ir lovably tUar, ihat it is unauthorised by the con­
 ?l&#x27;t&quot;twn; if &#x27;he pro and the eon lung s5 even as i0 ba an.r  
 hajuinju.t respect for tho wisdom of the UguUlu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061001:0787/pct:68.28787380874137,52.391770793891205,16.069668090699967,5.856367537548908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061001:0787/pct:68.28787380874137,52.391770793891205,16.075145141855625,5.860574698136228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6431,7 +6431,7 @@ It is unnecessary that I should multiply
 authorities on this point.  
 Neither is there in this plain and unde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866051401:0568/pct:234.8787446504993,208.5117631509384,49.35805991440799,18.926777689664288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866051401:0568/pct:58.74063503389226,52.1279407877346,12.343917231537638,4.731694422416072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6449,7 +6449,7 @@ gated to us by-the constitution,.-not pro
 hibited by it to the. states&#x27; belong to the  
 states respectively or to the people. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn94052319:00416152676:1880080701:0037/pct:41.69435215946844,50.84217975937721,19.642857142857142,3.170559094125973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn94052319:00416152676:1880080701:0037/pct:31.283755712505194,38.131634819532906,14.748649771499792,2.3779193205944797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6509,7 +6509,7 @@ ctearly misled by error, ambition or interest
 that the Constitution has placed a check in  
 the negative of the President.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103085:1886070901:0660/pct:163.0066322770818,56.21397960691591,42.593957258658804,21.397960691591546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103085:1886070901:0660/pct:40.774193548387096,14.053494901728978,10.654377880184331,5.3494901728978865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6544,7 +6544,7 @@ chiefly for cases where they are clearly misled by
 error, ambition or interest that the Constitution has  
 placed a check in the negative of the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041421017A:1886071201:0100/pct:81.99149636538198,11.317400750543156,14.428747771224797,4.5032589373889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041421017A:1886071201:0100/pct:81.99149636538198,11.32069260649154,14.428747771224797,4.509842649285667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6581,7 +6581,7 @@ be the sole judges of the good or evil,
 it would be a power to do wbatersr  
 evil they pleased.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623562:1889080101:0104/pct:77.77777777777777,19.295789813718102,12.756680731364275,12.296758910304726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623562:1889080101:0104/pct:77.78715424285045,19.295789813718102,12.756680731364275,12.311115896773268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6649,7 +6649,7 @@ the States, are reserved to the States
 respectively or to the people.&quot;  
 From the foregoing, two genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892102501:0345/pct:64.57010963646856,19.481993602311423,19.950952106174263,12.950159942214425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892102501:0345/pct:48.448549574253136,14.611495201733566,14.980516669072015,9.720359096068517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -628,7 +628,7 @@ ity and honor which keep you true to me
 and enable you, in themidst of such a flood  
 of evil, to walk. courageously in the path
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280761692:1871082701:1058/pct:51.106526631657914,85.8489033306255,14.872468117029257,6.238830219333875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280761692:1871082701:1058/pct:50.62232955600966,85.25330751855438,14.73156232584061,6.195546950629235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ is being helped by a sudden and some­
 what unseasonable cry of &quot;hot corn.&quot;  
 The crowded condition of the elevator
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293514:1875052901:0517/pct:6.877213695395514,60.731042007637754,14.256198347107437,6.764866339334424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293514:1875052901:0517/pct:5.166814289932093,45.55870798777826,10.687924416888102,5.0742034046268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ be more tolerable for Tyre and Sidon at
 the day of Judgment than for you?’ What  
 if He spoke now to those who have ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182239:1898022701:0626/pct:19.165293794618343,46.2759113652609,12.538898041369212,5.060757684060043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182239:1898022701:0626/pct:19.171395448166454,46.28544198236836,12.538898041369212,5.065522992613772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

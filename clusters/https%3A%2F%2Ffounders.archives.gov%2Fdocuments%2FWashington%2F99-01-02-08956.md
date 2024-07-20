@@ -130,7 +130,7 @@ Souitywpd affacecdt. . oo T e
 ver waut the comfort, it is in your power. to beflaw  
 08 ———— (Signed) , ASGILL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783010401:0281/pct:6.299611552102685,29.69997841571336,28.424252660023644,42.33757824303907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783010401:0281/pct:6.305241231773912,29.70717317792647,28.42988233969487,42.33757824303907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ Homage to your virive to implore ie. ~ . .
 sideration, your Excellescy’s very humble and  
 obedient servant, (Signed) VERGENNES.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783010401:0281/pct:6.080054044924844,4.705374487373192,58.46985306536058,88.9488452406648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783010401:0281/pct:6.091313404267297,4.708971868479747,58.45859370601813,88.95244262177135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1934,7 +1934,7 @@ does uol operate as a aafeguard, it howeu- 1
 er ju.iities the interest 1 permit myeelf to  
 aae in mis ailair. In secklUB hi deliver 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035172:00296027273:1853101201:0092/pct:108.36919104991394,17.598024081506637,16.80292598967298,10.960172892868169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035172:00296027273:1853101201:0092/pct:81.33476856835307,13.19851806112998,12.615715823466093,8.227848101265822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1981,7 +1981,7 @@ will justify this act of clemency.
 was born to abundance, to independence, and  
 to the happiest prospects. Permit me onc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860021201:0124/pct:124.29218573046433,283.1371686283137,35.27746319365799,41.75558244417556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860021201:0124/pct:31.08184650240725,70.78429215707843,8.821863494760692,10.43889561104389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2226,7 +2226,7 @@ clemency. His honor, sir, led him to Ameri­
 ca; he was born to abundance, to independ­  
 ence, and to the happiest prospects. Permi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525231:1867022201:0190/pct:17.47588687264999,28.326229697039512,11.018473107732548,12.049303075682525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525231:1867022201:0190/pct:17.47303040209219,28.322967058281503,11.02075841778359,12.050794747753974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2260,7 +2260,7 @@ which threatens him, I am far from engaging
 you to seek another victim; the pardon, to be  
 perfectly satisfactory, must be entire.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525231:1867022201:0190/pct:17.32875592610757,52.65522405252851,11.083864639529182,8.60499942402949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525231:1867022201:0190/pct:17.325923504413208,52.64915917991246,11.08613926119647,8.606887813867772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2300,7 +2300,7 @@ far from engaging you to seek another victim;
 the pardon, to be perfectly satisfactory, must bo  
 entire.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070801:0009/pct:56.537753222836095,29.714515480498594,12.970270981320706,10.755930840369924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070801:0009/pct:56.55090765588003,29.729593888218737,12.963693764798737,10.755930840369924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2330,7 +2330,7 @@ of misery; my husband, given over by hi* physi­
 cian* some hours before the arrival or this nows,  
 not Innsltnatlon to receive St; my daughter, at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070801:0009/pct:56.64298868718758,44.00884599919582,12.865035516969218,5.9710494571773225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070801:0009/pct:56.64956590370955,44.02392440691596,12.865035516969218,5.960997185363892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2357,7 +2357,7 @@ will Justify this act of clemency. Ills honor, sir,
 led him to America; he was bom to abundance, to  
 Independence, ami to the happiest prospects. Permi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070801:0009/pct:56.64298868718758,51.085645355850424,12.865035516969218,4.90550864495376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070801:0009/pct:56.64956590370955,51.100723763570564,12.89134438305709,4.915560916767189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2404,7 +2404,7 @@ the young officer. The interest in his case
 was very great in Europe daring all the  
 Summer months; and on the arrival o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883070501:0110/pct:72.64889030815903,65.94724220623502,10.937250518920646,13.908872901678658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883070501:0110/pct:72.63729246487867,65.93933581105384,10.93949553001277,13.910202613595493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

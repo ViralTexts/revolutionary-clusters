@@ -153,7 +153,7 @@ but now commencing1*
 Tw: JEFFERSON.  
 Feb. 19, 1806
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022101:0003/pct:1.9247594050743657,39.91706979958535,19.247594050743658,58.700760193503804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022101:0003/pct:1.9320501603966171,39.921677032941716,19.247594050743658,58.70536742686017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ si-siin to the best information hehad been a- !]
   
 Ible to collect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806022401:0248/pct:5.642276422764228,12.811218162739674,24.552845528455286,45.86473337784985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806022401:0248/pct:5.641359128596976,12.809996184662342,24.55427301793746,45.86353808978761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ lj&#x27;si&#x27;--_;:mmi&lt;:tttions. The examination of .Red
 &#x27;ss* sz-jEFFE-RSON.  
 .ctFcbruary 19, 1805
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806022401:0248/pct:5.3983739837398375,58.67595154058952,24.878048780487806,19.278832395306686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806022401:0248/pct:5.397496342058202,58.67035482640214,24.87942339998916,19.2801729619738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ Th : JEFFERSON,
   
 Fib. 19. 1R06
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022801:0374/pct:3.2397003745318353,25.854345321899398,18.333333333333332,43.78599769614745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022801:0374/pct:3.239093802658678,25.851036600972613,18.336141796168008,43.784660011944375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ now commencing.
 , TH: JEFFERSON.  
 Feb. 19, 1806
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022801:0074/pct:59.19909331318474,13.894274266511568,35.9652436720816,80.94868812201112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022801:0074/pct:59.18791312559018,13.892478676660636,35.96474661630469,80.94253467734987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ now commencing.
 TH: JEFFERSON.  
 Fcbmary-ii), 1800
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030101:0268/pct:54.76386374856015,11.868322263933006,23.6959025835116,65.37684088940225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030101:0268/pct:54.754853570253374,11.867179980750722,23.69748820884063,65.37375681745267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ fage with the accompanying commarica­
 tions,.be printed for theufe of the members.  
 The Houle took into. consideration th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806031101:0250/pct:43.9740957194756,5.827854154213987,33.975675248775865,89.78880255030883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806031101:0250/pct:43.97936081714316,5.834495583449558,33.975675248775865,89.78880255030883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1033,7 +1033,7 @@ Territory of Louisiana, and the countries
 adjacent to its northern and western boun­  
 daries, viz 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806100101:0326/pct:40.02642007926024,30.329981954111883,17.324023400641632,16.099510183036866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806100101:0326/pct:40.0188679245283,30.326072947544787,17.32704402515723,16.101731322764962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1234,7 +1234,7 @@ the Territory of Louisiana and the Countries
 Adjacent to its Northern and Western Boun­  
 daries.” The geological formation of this tow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876050901:0432/pct:36.957349581111956,86.77837228949592,13.823305407463824,1.8304702900591383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876050901:0432/pct:28.652238071815052,67.25956641932198,10.713231677324151,1.4113196566273825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

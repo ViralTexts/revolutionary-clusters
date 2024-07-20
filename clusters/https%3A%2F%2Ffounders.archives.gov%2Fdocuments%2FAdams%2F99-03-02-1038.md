@@ -157,7 +157,7 @@ England&#x27;s sweetest poet?
 41 Hope humbly then, with trembling pinions soar,  
 Wait the great teacher dkatii, and God adore.&quot; Q
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853071601:0687/pct:80.92889436909165,48.787234042553195,15.481572818194273,3.074468085106383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853071601:0687/pct:80.92889436909165,48.794326241134755,15.486139653833858,3.0709219858156027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ the Antwerp exhibition.
 Hope, humbly, then; with trembling pinions soar;  
 Wait the great teacher. Death, and God adore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210119:1885083001:0560/pct:4.761267888190451,27.139854795567445,14.604788016584191,9.30454719144058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210119:1885083001:0560/pct:4.761267888190451,27.139854795567445,14.618162364584727,9.31091580690358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ And Swift expires a driv’ler and a show.
 Hope humbly, then; with trembling pinions soar;  
 Wait the great teacher, death, and God adore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_blackhole_ver01:data:sn90050096:00513687692:1885102401:0636/pct:4.898595943837753,22.234492913675684,27.269890795631824,22.952328363703295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_blackhole_ver01:data:sn90050096:00513687692:1885102401:0636/pct:4.908996359854394,22.234492913675684,27.280291211648468,22.958463709430028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ Hoik? humbly, then; with trembling pinions
 soar.  
 Wait the great teacher. Death; and GodSadore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:0041562556A:1893021001:0026/pct:23.865110246433204,17.095379012064647,13.813229571984436,1.1154108809469612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:0041562556A:1893021001:0026/pct:18.499748701625062,13.2519847103793,10.709499078572625,0.8615113201999411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

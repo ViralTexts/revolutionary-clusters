@@ -270,7 +270,7 @@ pay in money, or in securities on interefl 3¢
 fix per eent. per anium, as Congress shall  
 find most convenient. =~ . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783041901:0340/pct:39.078947368421055,73.40633130962706,26.282894736842106,6.51561144839549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783041901:0340/pct:39.084429824561404,73.41355883203238,26.288377192982455,6.51922520959815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ officers, the commutation, if accepted by them,
 Jhall he in lieu of -whatever may be norv due, as ivelt  
 as what might hereafter become due. Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793012601:0002/pct:74.74402730375427,78.96058732612056,20.22959975178405,10.780525502318392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793012601:0002/pct:74.75954080049644,78.97507727975271,20.22184300341297,10.79501545595054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ ed States, provided it is at the option of tin
 lie retiring officers, the commutation, ii  
 accented by them, Jhall be in lieu of what
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793020601:0001/pct:49.12734324499031,38.91881109116298,20.685197155785392,11.071214841412328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793020601:0001/pct:49.12734324499031,38.923798124875326,20.69327731092437,11.071214841412328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ ingly, and to issue to them certificatesbea r
 ing interest at 6 per cent. That all officers en­  
 titlod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021601:0368/pct:59.053384700055034,28.04000487864374,18.253531462117042,31.320892791803878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021601:0368/pct:59.04255319148936,28.036585365853657,18.25629738322328,31.321138211382113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -787,7 +787,7 @@ fleers who continued in actual command until tho end
 of tho war.” The construction given by Congress to  
 her act, must be regarded as a powerful argumen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830030201:0320/pct:34.86736039865162,85.23513139695713,15.154624065660267,5.751498386353158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830030201:0320/pct:34.86225087924971,85.22530828627406,15.15728800312622,5.75467711574661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ not belonging to the lines of particular States, and who are
 pariment and to retired half pay officers; und  
 4. To all officers entitled to half pay for life, not include
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850051701:0357/pct:68.2726204465335,15.538563202114604,15.981198589894243,3.2663079392051353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850051701:0357/pct:68.2726204465335,15.544856666351993,16.00078339208774,3.2631612070864406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -930,7 +930,7 @@ months, and through Ihe commanding officer of Ibe
 ? iuthern army from those under his command wilhin six  
 months from the date of this resolution,&quot; fc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854011701:0075/pct:32.186569632815086,66.9716609480239,15.828647039364869,8.6923370186809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854011701:0075/pct:32.19208291983681,66.98013301139493,15.828647039364869,8.688100986995384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1155,7 +1155,7 @@ state of public credit, and the imperious necessity which
 cbmpelled many of the holders of certificates of public debt  
 to part with them at a price far below their neminal value
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:1.5592680986475735,37.19994972979766,16.84964200477327,4.6625612668090985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:1.5645717316361707,37.208328096853926,16.860249270750465,4.658372083280969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1206,7 +1206,7 @@ individually in those lines, to accept or refuse the same.
 &quot; 3. The same commutation shall extend to the oorps m  
 belonging to the lines of particular States.&quot;?Journal of Co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:22.810655606954857,62.24270741255209,15.185835061413304,15.20393989140043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:22.815972776094007,62.25112598392053,15.191152230552454,15.20393989140043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1284,7 +1284,7 @@ therefore, resolved, etc.
 The committee ascertained that the  
 number of officers on whose accoun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn85033413:00211101179:1876030401:1061/pct:177.69953051643193,26.018099547511312,102.8169014084507,354.75113122171945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn85033413:00211101179:1876030401:1061/pct:44.43357464292702,6.504524886877828,25.709254549011934,88.68778280542986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1460,7 +1460,7 @@ instances the individual states made provi­
 sions for soldiers who had served through  
 the war, notably Pennsylvania. Whateve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471562:1886041001:0838/pct:87.61904761904762,92.58675078864353,57.93650793650794,17.139852786540484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471562:1886041001:0838/pct:21.91780821917808,23.146687697160882,14.492753623188406,4.284963196635121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

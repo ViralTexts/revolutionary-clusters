@@ -214,7 +214,7 @@ of Britain and the generous assistance of France p
 The note concludes by calling on Americans to re­  
 member, that if generous minds are alive to inj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796111801:0003/pct:49.89738327347358,75.05295747107708,21.959979476654695,3.5359296072999835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796111801:0003/pct:49.903796818881474,75.05703112269839,21.966393022062597,3.54407691054261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ Mbnfie.il Pattiwas ordered to quit. England immedi­
 atc.y. And uit not neceftry. that we ftbuld adept  
 remedy adeqwaie to&#x27;Jhi. evi:, «n avoid these feri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121501:0003/pct:46.33129516397999,45.51760939167556,22.707059477487494,9.142653859836358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121501:0003/pct:46.35214007782101,45.526503023834934,22.68621456364647,9.155994308075417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ to &quot;declare them to be so by a treaty, cannot be
 coufidered as a privilege granted to one nation, or  
 an injury to any other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121601:0002/pct:12.061281337047355,5.305978068623983,82.25626740947075,87.60169791298196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121601:0002/pct:12.075208913649025,5.305978068623983,82.24930362116991,87.610541209763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ r occasion, and the di-fpafition it appeared to j,^Jhi
 • mtcreft ot the French to unite with America in ,hc ,t  
 war agiinft Great Britain, They therefore acte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121701:0002/pct:30.921382073109665,4.904717275851296,42.313470205307965,87.17588253670728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121701:0002/pct:30.933900851276917,4.908622305529522,42.31972959439159,87.17197750702906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ m. men, and in th- e„d, the pumfhment justly &lt;]Ue ,0
 ot, foch conduit, from an injured people. *  
 ,ad: AMERICA NUS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121701:0002/pct:71.68252378567851,6.451109028428616,22.208312468703056,6.747891283973758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121701:0002/pct:71.68252378567851,6.458919087785067,22.233350025037556,6.751796313651984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -783,7 +783,7 @@ on the part of the United States, the liber&#x27;y of
 treating with every other nation whatfover, upon  
 the fame footing of equality and reciprocity. But
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122001:0002/pct:73.0933803171407,82.14343795739144,19.63251950667002,4.781265246381525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122001:0002/pct:73.09967279134156,82.15156936087169,19.626227032469167,4.785330948121646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ to a war, to embrue ourjiands in the blood of one
 nation, to gra ify the hatred, or serve the interest  
 of another, we fh uild now (at it was &gt;lie lad time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122001:0003/pct:7.438631291842301,7.854000325892129,19.34044135878998,1.9879419912009124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122001:0003/pct:7.438631291842301,7.854000325892129,19.35903793701959,2.0001629460648527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1128,7 +1128,7 @@ Frencbmen, for having gone to_live &quot;
 in foreign countries.” -If France  
 may rightfully ‘prohibit‘ her citizen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796123101:0209/pct:9.336455893832943,6.66931321953156,73.72365339578454,84.83525208416039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796123101:0209/pct:9.341660161332292,6.672621410612677,73.73926619828259,84.83856027524149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1486,7 +1486,7 @@ the fa&amp;, proves this. _sm,mﬁm
 all apr solicitations for effeQual af­  
 filtance for ‘mear three years ; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796123101:0209/pct:43.98126463700234,16.47479158396189,49.99219359875097,75.57562524811433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796123101:0209/pct:43.98646890450169,16.47479158396189,49.98698933125163,75.58224163027657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1603,7 +1603,7 @@ such condu, from an injured peo­
 ple. e s  
 » - AMERICANUS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796123101:0210/pct:7.048929663608563,5.188911906875801,16.085626911314986,67.6630166715991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796123101:0210/pct:7.054026503567788,5.188911906875801,16.09072375127421,67.66959323928842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1674,7 +1674,7 @@ that the United States have reserved the liberty of treating with every nation
 and his predeceflora, probably refers to the princi­  
 ples declared by the armed neutrality? during .th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012101:0003/pct:6.74435903793702,59.44913230377328,19.5140094222663,7.769463461232288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012101:0003/pct:6.762955616166625,59.461073077535424,19.507810562856434,7.781404234994428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1696,7 +1696,7 @@ reserved the liberty as treating with every naiiatf
 tvh ite&#x27;uer upsn the fame footing of equality and re­  
 ciprocity.&quot; Wby afttr all this, do we hear fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012401:0001/pct:68.3114306967518,42.85028022417934,19.414827671708405,5.172137710168134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012401:0001/pct:68.32382841557154,42.85828662930344,19.414827671708405,5.180144115292234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1726,7 +1726,7 @@ mentionced by Mr. Adet and his predecef­
 {or probably refers to the principics de­  
 clared by the armed neutrality, during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797021101:0234/pct:25.55955548599155,40.53865336658354,15.980591641884489,9.316708229426434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797021101:0234/pct:25.55955548599155,40.5453034081463,15.996243543590547,9.313383208645053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1749,7 +1749,7 @@ have reserved the liberty of treating with
 every naiion whatever upon the fame fool­  
 ing of equality and rectiprocity.” Why
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797021101:0234/pct:76.8038816716231,31.551122194513717,15.636249804351229,5.266832917705735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797021101:0234/pct:76.8038816716231,31.557772236076474,15.651901706057286,5.263507896924356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1812,7 +1812,7 @@ French nation, and that the United States have rferved
 the liberty of treating with every nation whatever itpm the  
 fame footing of equality and red/.cit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1797033001:0237/pct:31.741256111320045,17.91399382276075,25.98721323805942,5.250653361843669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1797033001:0237/pct:31.729323308270676,17.909738717339668,25.986842105263158,5.255344418052257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

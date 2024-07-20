@@ -157,7 +157,7 @@ die.’ He was obliged to command an army i
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1847-05_5_5/page/n92/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1847-05_5_5/page/n92/mode/1up?view=theater)
 
 #### 1847-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -268,7 +268,7 @@ that, if nothing else would satisfy a tyrant and his diabo­
 lical ministry, we are determined to shake off all connex­  
 ion with a State so unjust and unnatural.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:18.097643097643097,88.33098362433576,15.614478114478114,5.01030257022015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:18.10231949120838,88.3345985612551,15.619154508043398,5.01030257022015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ do more than othera; for, whilst they compel me to en­
 list without a bounty, they give forty dollars to others,  
 which will, I expect, put an end to our enlistments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:49.396745230078565,93.97028521852293,15.502244668911336,2.3858583667714997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:49.396745230078565,93.97751509236164,15.511597456041901,2.3858583667714997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ ny?&quot; Mr. Sparks gives us the account of
 the evacuation of Boston, which Washing-­  
 ton sent to Congress, to which there can b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875080701:0134/pct:50.075394105551744,186.75252989880406,41.57642220699109,10.16559337626495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875080701:0134/pct:16.691798035183915,62.25084329960135,13.858807402330363,3.38853112542165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ my own vanity than as a compliment
 to her, I laid it aside till I came across  
 it again in themanner just mentioned.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664484:1884082301:0207/pct:6.793072558972828,54.99946415175222,12.108091967751568,7.5340263637337905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664484:1884082301:0207/pct:6.793072558972828,55.003036473404066,12.113068577684881,7.544743328689315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ virtue which is ascribed to these people,
 there is no nation under the sun that pays  
 more adoration to money than they do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623926:1892040201:0065/pct:72.59158751696066,24.87881380096949,11.436324869160691,1.9674935842600514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623926:1892040201:0065/pct:72.59158751696066,24.87881380096949,11.449247270142793,1.9769983841840129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ these people, there is no nation under the
 sun which pays greater adoration to  
 money than they do.&quot; Aain: &quot;Such 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:00175048388:1892102601:0372/pct:55.90551181102362,153.6740880108707,47.22697706264978,18.469739730322985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:00175048388:1892102601:0372/pct:18.635170603674542,51.22469600362357,15.742325687549926,6.156579910107662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

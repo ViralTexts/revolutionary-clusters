@@ -58,7 +58,7 @@ tablished in some convenient aud pioperpart
 ot the state, a university, to be called “ The  
 University ot Virginia ;” wher ein ail tiie bran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818022401:0346/pct:36.23428193249504,45.76457645764577,14.841164791528788,2.786945361202787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818022401:0346/pct:36.22828784119107,45.75898313370814,14.84422387648194,2.790678725657948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ ment ; and the said University shall in «)i
 tiling*, lit nil times, be subject to the control of  
 (In 1 egisiatuic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818022401:0346/pct:36.730641958967574,89.51228456178951,14.890800794176043,6.087275394206087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818022401:0346/pct:36.72456575682382,89.50134441456856,14.893851668045217,6.090605393954209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ notice as 1 lieuiselves shall prcmil e by a
 general rule: which meetings shall he at  
 the university : a majority ol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819012801:0330/pct:66.34962282715644,3.170614979660206,30.46900623155133,91.70854271356784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819012801:0330/pct:66.33874405640269,3.170235674123699,30.46947587036126,91.70155919767117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ their functions and hdtil those ol their
 successors until the first actual meeting  
 ol their said successors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819012801:0330/pct:82.04329288291243,29.564489112227804,14.791734995080354,16.09236659487916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819012801:0330/pct:82.02984095753402,29.560952267017587,14.794775099743127,16.094429158192767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ Kector of their own body, who shall preside at
 their meetings, and a Secretary to record and  
 preserve their proceedings; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:3.7476577139287945,70.02242417089579,14.881324172392254,2.785318069160864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:3.747072599531616,70.01416096294548,14.884205048139474,2.78892298009598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -676,7 +676,7 @@ have control of the respective institutions du­
 ring the interim of the stated meetings of the  
 Board : their acts however, shall be subject t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn85026051:00296027029:1852050801:0361/pct:59.18958031837916,15.61046511627907,16.859623733719246,13.241279069767442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn85026051:00296027029:1852050801:0361/pct:44.408251900108574,11.715116279069768,12.64929424538545,9.92732558139535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ from its own number, a committee of three
 mittee shall have control of the respective  
 ins.it&#x27;jiions during the interim o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85042199:00296026670:1852051201:0325/pct:58.55643994211288,35.12721459970694,16.4616497829233,6.287465032636206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85042199:00296026670:1852051201:0325/pct:43.94570135746606,26.348741174903424,12.361990950226245,4.715598774477154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ yversity and Agricultural and Mechanical Col­
 lege, and to sue and be sued in courts of jus­  
 tice, and in general to do all acts for the bene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475579:1877060101:0013/pct:18.214285714285715,134.65189873417722,43.1390977443609,18.55221518987342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475579:1877060101:0013/pct:6.071428571428571,44.88396624472574,14.3796992481203,6.184071729957806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

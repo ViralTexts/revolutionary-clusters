@@ -170,9 +170,9 @@ and ensure it.’
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-02_10_44/page/n4/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-02_10_44/page/n4/mode/1up?view=theater)
 
-#### 1842-02-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -196,9 +196,9 @@ spent during the last seven centuries, by our mad wars in doing
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-02_10_44/page/n5/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-02_10_44/page/n5/mode/1up?view=theater)
 
-#### 1842-02-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

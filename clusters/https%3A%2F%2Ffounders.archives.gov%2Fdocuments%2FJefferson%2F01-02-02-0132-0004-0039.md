@@ -157,7 +157,7 @@ tion of the kind, marks, brand, stature, color
 and age of the said estray, which certificate  
 so made, you are forthwith to return to me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814101501:0272/pct:61.3012410680707,25.00315537044049,18.014291086874763,3.5845008203963147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814101501:0272/pct:61.28971611205114,25.0,18.017171147458797,3.5882550900218746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ tion of the kind, marks, brand, stature, color
 and age of the said estray, which certificate  
 so made, you are forthwith to return to me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814101901:0276/pct:42.335216572504706,15.885022692889562,17.66478342749529,3.441754916792738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814101901:0276/pct:42.32724533986067,15.883020294970377,17.667733634594867,3.44552292113114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ Isaac W. Pleasants, and certify the valuation under your
 hands, together with a particular desciiption of the kind,  
 marks, brand, statute, colour ami ace ol each of them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825090601:0202/pct:77.12976134028766,67.45527306967985,17.63869132290185,1.435969868173258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825090601:0202/pct:77.11757269279393,67.44733435330116,17.641171512852928,1.4397238240947785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ marks, brand, statute, colour ami ace ol each of them.
 to require you, having been first duly sworn, to view and  
 appraise such estrays as may be shewn to you by the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825091601:0203/pct:21.352997755690925,80.93470949785457,17.601795447258738,0.9857358227994898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825091601:0203/pct:21.349575252444303,80.92532467532467,17.604316931132125,0.9894867037724181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ Isaac W. Pleasants, and certify the valuation under your
 hands, together with a particular description of the kind,  
 marks, brand, stature, colour and age ot each of them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825091601:0203/pct:21.352997755690925,81.932042212687,17.697980121833922,1.4728052881827671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825091601:0203/pct:21.349575252444303,81.92254174397031,17.70048618902602,1.476499690785405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ your hands, together with a particular description
 of the kind, marks, brand, stature, colour, fit. age,  
 of the said estray, which certificate -o made, yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829032001:0434/pct:83.1185777197847,53.123875764480154,15.299298646224107,5.264420194267898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829032001:0434/pct:83.10502283105023,53.117505995203835,15.30223961730811,5.2677857713828935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ the value thereof, under your hands, together with a particular
 1 description of the kind, marks, brand, stature, colour and age  
 j of the said estray: which certificate, so made, you are forth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831041501:0138/pct:40.26905829596413,82.87179487179488,16.95067264573991,1.8803418803418803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831041501:0138/pct:40.26303990434913,82.8623518687329,16.953121107955962,1.8839258584017016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ hands, together with a particular description of the kind
 marks, brand, stature, colour, and age of the said estray,  
 which certificate, so made, you are forthwith to rerurn t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846011901:0611/pct:86.22800306044377,213.68267831149927,59.16220351951033,27.554585152838428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846011901:0611/pct:21.552878179384205,53.4128947751419,14.7877223178428,6.8876437199825356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ hands, together with a particular description of the kind
 marks, brand, stature, colour, and age of the said estray,  
 which certificate, so made, you are forthwith to return t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846012601:0619/pct:210.29439696106363,24.492164828787,59.96201329534663,27.988972721996518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846012601:0619/pct:52.56361564755032,6.1221529087480056,14.987656665400683,6.996228057449587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ hands, together with a particular description of the kind
 marks, brand, stature, colour, and age of the said estray,  
 which certificate, so made, you are forthw ith to return t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846020201:0627/pct:208.00902425267907,139.01581722319858,58.82684715172025,28.309900410076157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846020201:0627/pct:51.99248120300752,34.74886513398741,14.703947368421053,7.07643871723532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ with this warrant, to the Clerk of the Oirrui&#x27;
 Court of aid «ountv of such, your certificate of  
 valuation and description. Given under in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187134:1869062501:0481/pct:71.18081180811808,59.53964734452539,13.284132841328413,7.211487699292578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187134:1869062501:0481/pct:71.172057557496,59.533361486486484,13.286598614356578,7.214245495495495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ and age of the animal, or kind, burden and
 build of the boat or vessel. The procedure  
 thereafter is the same as under the presen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193481:1883012301:0086/pct:39.87403100775194,61.90977707565385,11.991279069767442,8.881867649640162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193481:1883012301:0086/pct:39.88614341085271,61.914165350184305,11.99733527131783,8.890644198701072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ brands, stature, color and age,
 which certificate shall be returned  
 or transmitted to the Ranger, with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn87007277:00415662415:1888122901:0725/pct:61.64412510566357,30.36649214659686,16.420118343195266,21.38106693080515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn87007277:00415662415:1888122901:0725/pct:46.24815049672374,22.781944247912833,12.322976114986261,16.032262629121266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

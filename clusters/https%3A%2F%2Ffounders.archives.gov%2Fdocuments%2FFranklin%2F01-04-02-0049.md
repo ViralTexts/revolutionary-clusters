@@ -395,7 +395,7 @@ his wounds, pouring in oil and wine, snd
 set liim on his own beast, and brought  
 Kim to aninn, and took ‘csre of him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833111301:0584/pct:82.65167007498296,23.235117257967527,15.558963871847308,9.885748647023451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833111301:0584/pct:82.65735060213588,23.239126077370216,15.570324926153146,9.885748647023451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ up his wounds, pouring in oil and wine,
 and set him on his beast, and brought him  
 to an inn, and took care of him. And o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027042:1847082501:0569/pct:61.54937570942111,33.905925755130276,16.11804767309875,7.747290753977404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027042:1847082501:0569/pct:46.18223105307976,25.43232649296749,12.091967073516889,5.810468065483053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ morals, being left m a state of the utmost desti­
 tution, and as it were half dead. But the priests  
 and Bevites of the Christian church, the hol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00205958174:1850072101:0001/pct:76.40382317801672,70.69423587847984,9.55794504181601,6.399445535404874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00205958174:1850072101:0001/pct:76.41129032258064,70.70001155134574,9.56167861409797,6.4109968811366524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ and took care of him; and wo doubt not so
 far forgot the dictates of a w ise neutrality. a?  
 to indulge in a few execrations of the villain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851112701:0434/pct:17.16617419445617,67.83374083129584,14.394259181089067,10.581907090464547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851112701:0434/pct:17.17555461751325,67.83700081499593,14.394259181089067,10.585167074164628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -741,7 +741,7 @@ care of him; and we doubt not, so far forgot
 the dictates of a wise neutrality, as to in­  
 dulge in a few execrations of the villain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026203:0029602756A:1852010901:0381/pct:84.6644010195412,47.27448810182623,18.755310110450296,5.437188710570005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026203:0029602756A:1852010901:0381/pct:63.53591160220994,35.45932484781406,14.067148321291969,4.081350304371887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ pouring in oil and wine, and set him on his own
 breast, and brought him to an Inn, and took  
 care of him;&quot; our Savior says, &quot;go and d j the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1854102501:0316/pct:107.37257281553399,41.778505182760505,18.037014563106798,7.899618112384069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1854102501:0316/pct:80.54923380367167,31.336606655755592,13.533606433014716,5.924713584288052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ of him&quot; while the priest and the Levite, though
 they saw the stranger thus wounded and in distress,  
 &quot; passed by on the other side.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855062701:0215/pct:22.92168674698795,23.06562193927522,19.77409638554217,13.638589618021548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855062701:0215/pct:17.201385750866095,17.299216454456417,14.836571772857358,10.235063663075417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ and bound up his wounds, pouring in oil and
 wine, and sethim on his own beast, and brought  
 him to an inn, and took care of him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855090601:0363/pct:39.76530365352045,59.93947418195574,12.037261069441083,5.069037261206733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855090601:0363/pct:39.77336882006613,59.94577895466868,12.03322848616824,5.069037261206733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ and wine, and set him on his own beast,
 and brought him to an inn, and took care  
 of him. And onthe morrow, when he de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_superior_ver01:data:sn83030179:00220720445:1860011401:0001/pct:16.26737651582372,13.903133903133902,25.894705708370303,80.95726495726495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_superior_ver01:data:sn83030179:00220720445:1860011401:0001/pct:16.27723553189392,13.90693257359924,25.899635216405404,80.95726495726495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -984,7 +984,7 @@ liis wounds, pouring in oil and wine, and set
 him ou iiis own beast and brought him to an  
 inn, and took care of him. And on the mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557207:1860072801:0095/pct:30.030190019534718,69.93865030674847,12.41342567927544,4.9079754601226995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557207:1860072801:0095/pct:30.034629728289826,69.93865030674847,12.417865388030545,4.920756646216769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1004,7 @@ and bound up his wounds, pouring in oil
 and wine, and set him on his own beast and  
 brought him to an inn and took care of him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1860091201:1087/pct:64.48768197088467,119.73724411854568,43.19708846584547,9.47143293614421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1860091201:1087/pct:21.495893990294885,39.91241470618189,14.399029488615154,3.1571443120480702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1061,7 +1061,7 @@ pouting in oil and wine, and sat him on
 his own beast, and brought him to an  
 iun and took care of him. And on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022044:1864122301:0335/pct:160.69812540400775,206.89142290530492,43.8267614738203,21.51710461080813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022044:1864122301:0335/pct:40.18102472927105,51.72285572632623,10.958461289801196,5.379276152702032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1192,7 +1192,7 @@ oil and wine, and sat him on his own
 beast, and brought him to an inn, and  
 took care of him. And on the mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776464:1872060501:0004/pct:56.287425149700596,350.2048247610378,40.41916167664671,29.813381884387802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776464:1872060501:0004/pct:14.073963168138944,87.55120619025945,10.106303338823178,7.4533454710969504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1268,7 +1268,7 @@ beast and brought him to an
 inn, and took care of him.&quot; Is  
 not that more than giving 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85038222:00280774911:1874051401:0740/pct:121.74267100977198,318.5328185328185,48.85993485342019,57.142857142857146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85038222:00280774911:1874051401:0740/pct:30.435667752442995,79.63320463320463,12.214983713355048,14.285714285714286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1374,7 +1374,7 @@ in oil and wine, and set him on his
 own beast and brought him to an  
 inn, and took care of him. Luke 10c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn84022109:00211101842:1878090301:0060/pct:31.26843657817109,289.10091743119267,47.984267453294,20.31192660550459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn84022109:00211101842:1878090301:0060/pct:7.820954254795868,72.27522935779817,12.001967535661583,5.077981651376147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1400,7 +1400,7 @@ pouring in oil and wine, and set him on his own
 beast and brought him to an inn, and took care  
 of him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475488:1879052701:0461/pct:61.25592417061611,69.98663101604278,45.023696682464454,13.836898395721924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475488:1879052701:0461/pct:20.418641390205373,23.328877005347593,15.007898894154819,4.612299465240642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1502,7 +1502,7 @@ A certain Samaritan—The Samaritans
 wero listed by tho Jews and most cordi­  
 ally returned the hatred; this makes th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1881033101:0052/pct:3.9044289044289044,12.971993869304724,25.330225330225332,81.18991221959035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1881033101:0052/pct:3.903670615653525,12.970186681526888,25.330161196348804,81.18208414600167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1563,7 +1563,7 @@ beast, and brought him to an inn, and took care
 of him.-St. Luke, chup, 2, 930.31  
 The black man in the southern Jerich
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883112401:1016/pct:92.1030042918455,217.96852646638055,56.30901287553648,24.721030042918454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883112401:1016/pct:23.04058406699592,54.49213161659514,14.086321666308782,6.180257510729613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1588,7 +1588,7 @@ bound up his wounds, pouring in oil and win*,
 and set him on his own beast, and brought him  
 to an inn, and took care oi him. And on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958290:1887071701:0003/pct:82.5593761077632,62.136047410461224,11.609358383551932,3.955166194279825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958290:1887071701:0003/pct:82.56380716058135,62.14248904921412,11.61822048918823,3.958387013656274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1614,7 +1614,7 @@ he had compassion on him and went to him
 and bound up his wounds, pouring  
 ou oil and wine.&quot; Was that enough
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042460:00280768819:1888030501:0041/pct:4.992012779552716,71.5944055944056,11.980830670926517,4.181818181818182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042460:00280768819:1888030501:0041/pct:4.99866879659212,71.6037296037296,11.987486687965921,4.186480186480186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1705,7 +1705,7 @@ im, and passed by on the other side. But a certain Samaritan, as he journeyed, c
 him, he had compassion on him. And went to him, and bound up his wounds, pouring in oll and wine, and sot him on his  
 own beast, and brought him to an inn, and took care of him. Which now of these three, thinkest tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536500:1893032401:0832/pct:160.3053435114504,137.9366368805849,159.82824427480915,8.069320335770376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536500:1893032401:0832/pct:40.09929348863854,34.484159220146225,39.97995035325568,2.017330083942594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1839,7 +1839,7 @@ pouring in oll and wine, and set him on his own
 beast, and brought him on to an inn, and took  
 care of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539756:1894090101:0682/pct:83.35889570552148,34.21354764638347,74.30981595092024,250.8036739380023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539756:1894090101:0682/pct:27.807623433103096,11.404515882127823,24.78894858019954,83.60122464600076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1875,7 +1875,7 @@ oil and wine, and set him on his own
 beast and brought him to an inn and  
 took care of him. And on the morro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020639:00414187493:1895021001:0301/pct:34.97652582159625,19.132767098793025,13.444302176696542,6.2136790344211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020639:00414187493:1895021001:0301/pct:34.96906336675912,19.129916567342075,13.446767655216556,6.216477949940405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1898,7 +1898,7 @@ eyes of priests and Levites, but see his con­
 duct and observe that it is the Lord Jesus  
 who is telling us all this and learn at leas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1895021501:0901/pct:71.9022687609075,274.9549549549549,58.289703315881326,17.47747747747748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1895021501:0901/pct:17.979489417412175,68.73873873873873,14.575605498581716,4.36936936936937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1924,7 +1924,7 @@ oll and wine, and set him on his own
 beast and brought him to an inn and  
 took care of him. And on the morro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1895021601:0600/pct:282.970297029703,77.95093349791699,55.445544554455445,25.243018052769635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1895021601:0600/pct:70.74257425742574,19.487733374479248,13.861386138613861,6.310754513192409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1947,7 +1947,7 @@ eyes of priests and Levltes, but see his con­
 duct and observe that It Is the Lord Jesus  
 who Is telling us all this and learn at loas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014102:1895021601:0602/pct:41.26281922380856,64.1984505363528,12.125477578926201,4.126936829558999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014102:1895021601:0602/pct:41.25452352231604,64.18888723372561,12.128065942903095,4.130046179055564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1970,7 +1970,7 @@ priests and Levites, but see his conduct an t
 observe that it is the Lord Jesus who is tell­  
 ing us all this and learn at least one thin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1895021601:0376/pct:43.93622582331417,69.78600543478261,16.57083115525353,4.381793478260869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1895021601:0376/pct:43.924745231251634,69.77415520461878,16.573033707865168,4.385294617082697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1996,7 +1996,7 @@ oil and wine, nnd set him on his own
 beast and brought him to an inn and  
 took care of him. And on the morro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074064:00383343616:1895021901:0347/pct:31.03201573958147,17.730952075035333,12.716866392416383,6.051651034305538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074064:00383343616:1895021901:0347/pct:31.026466380543635,17.728674203494347,12.719062947067238,6.054085303186023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2050,7 +2050,7 @@ oil and wine, and set him on his own
 beast and brought him to an inn and  
 took care of him. And on the morro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hematite_ver01:data:sn87065216:0038334461A:1895031401:0119/pct:22.130204738900392,20.4671675922901,13.802622498274673,6.337798105194381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hematite_ver01:data:sn87065216:0038334461A:1895031401:0119/pct:22.125114995400185,20.463824922423647,13.805197792088316,6.340845990527519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2075,7 +2075,7 @@ have been a pa radlse on earth.
 &quot;We must therefore take things as we  
 find them,&quot; said Dr. McKim, &quot;and seek t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024442:211103140:1895091601:0068/pct:75.54878048780488,88.63498789346247,16.097560975609756,6.522397094430993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024442:211103140:1895091601:0068/pct:56.68971126474177,66.48002421307505,12.078080520536803,4.888014527845036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2192,7 +2192,7 @@ wounds, pouring In oil and wine, and set
 him on his own beast, and brought him lo  
 an Inn, and took care of him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_ancientbison_ver01:data:2018270203:00279527367:1896030601:0207/pct:79.1188524590164,34.795698924731184,13.995901639344263,5.161290322580645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_ancientbison_ver01:data:2018270203:00279527367:1896030601:0207/pct:79.10264290104487,34.79071100917431,13.998156115550092,5.1641341743119265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2219,7 +2219,7 @@ him on his own beast, and brought him to
 an inn, and took care of him.  
 35. And on the morrow when he de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_aerodactyl_ver01:data:sn87058235:00279528396:1896031001:0193/pct:63.888441076898275,35.2527619685303,13.590198291149443,5.490458654168061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_aerodactyl_ver01:data:sn87058235:00279528396:1896031001:0193/pct:63.89918856467301,35.2527619685303,13.584824547262077,5.501618122977346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2348,7 +2348,7 @@ were the standard medicines of that
 time. He then conveyed the man to  
 an Inn, where he took care of him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00237281998:1899090401:0509/pct:42.6602086438152,80.94318808604523,16.28166915052161,14.258135686707115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00237281998:1899090401:0509/pct:32.02236719478099,60.714285714285715,12.208760484622553,10.686707115278544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

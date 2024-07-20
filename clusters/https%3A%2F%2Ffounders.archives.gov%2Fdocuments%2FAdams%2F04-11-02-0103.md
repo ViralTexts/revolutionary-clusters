@@ -221,7 +221,7 @@ of a great Poet:—
 “And power too great to keep, or to resign?”  
 S. S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832080301:0263/pct:81.04312938816449,58.999027132201924,14.887519701963033,3.913090476705221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832080301:0263/pct:81.03151862464183,58.99265023778642,14.890162368672398,3.916270355959072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

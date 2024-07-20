@@ -86,7 +86,7 @@ rences.’ The volumes are interesting, as affording a picture of this republic,
 Kichmond in He-gone Days, with a Glance at the Present, being  
 Reminlacencas and Last Words of an old citizen. By Samuel Mo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860080301:0117/pct:91.43351147437913,164.51612903225808,37.83401446086136,1.724910394265233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860080301:0117/pct:30.47304730473047,54.83256803673424,12.609356173712609,0.5749057378579161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ Reminlacencas and Last Words of an old citizen. By Samuel Mo
 Richmond in B.-gone Days, with a Glance at the Present, being  
 Reminiscences and Last Words of an old citizen. Byamuel Mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860080401:0121/pct:92.34749882389839,127.696105936483,37.980241492864984,1.7282010997643362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860080401:0121/pct:30.777673251803073,42.560592459605026,12.65809553674088,0.5760023937761819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ Reminiscences and Last Words of an old citizen. Byamuel Mor
 Kichmond in B?-gone Days, with a Glance at the Present, being  
 Reminiscences and Last Words of an old citizen. By Samuel Mo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860080601:0125/pct:93.77652050919377,132.3002366730531,37.96951123683797,1.7017919531161951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860080601:0125/pct:31.253928346951604,44.095109308091054,12.654514980096376,0.5672000601006686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ With a Glance at the Present--being reminis­
 cences and last words of  
 AN OLD CITIzEN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860092701:0296/pct:136.65889892222546,65.23237597911228,37.226915234488786,6.757180156657963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860092701:0296/pct:45.55296630740849,21.744125326370757,12.408971744829595,2.2523933855526543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ Richmond in by-gone days, with a glance at
 the Present. Being reminiscenses and last words of an  
 old citizen. By Samuel Mord-cai. New edition, $10
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860101101:0352/pct:172.09193245778613,228.80836078609565,37.77360850531582,17.15324321254118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860101101:0352/pct:57.35501016101298,76.26079054975011,12.589234537022563,5.717098288656671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ BY-GonE DAYS,-with a glance at the pres
 ent. Being reminiscences and last words of  
 an old citizen. By Samuel Mordecai. 2d edi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860101101:0344/pct:138.50859306728807,124.43264626275244,37.299737838625106,3.97668124089111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860101101:0344/pct:46.16953102242936,41.47754875425082,12.43324594620837,1.3255604136303698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ Iichmond in by-gone days, with a glance at
 the Present.  Being reminiscenses and last words of an  
 old citdzen By Samuel Mordecal. New edition, $1 0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860101501:0364/pct:209.19416730621643,275.1742747919946,36.807367613200306,2.8446143467506184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860101501:0364/pct:69.7206875383671,91.71444631815626,12.267239615305913,0.9480981824995316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ American army, and many other
 very singular snd intoresting occur­  
 rences, with a description of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688647:1880031301:0874/pct:56.10533021873009,38.52713178294574,12.083244850286684,6.186046511627907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688647:1880031301:0874/pct:56.11948750619381,38.52713178294574,12.069087562822963,6.2015503875969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

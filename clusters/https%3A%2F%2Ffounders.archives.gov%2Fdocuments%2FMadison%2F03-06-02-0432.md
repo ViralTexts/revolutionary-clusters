@@ -50,7 +50,7 @@ ing the recess of the senate, to the following
 persons, I now nominate them to the same  
 offices respectively annexed to their names 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813080601:0071/pct:26.300249829661595,21.246707638279194,21.96229843288667,2.955809189347381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813080601:0071/pct:26.294277929155314,21.243599122165325,21.964880411746897,2.9602535966837356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -67,7 +67,7 @@ Commissions have been granted during the recess of
 the Senate, to the following persons. I riow nominate  
 th-.-ra to the same offices respectively annexed to thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080701:0563/pct:52.49686323713927,80.09130931028861,21.50564617314931,1.7935757378118375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080701:0563/pct:52.48369292523834,80.07825236387349,21.506522829904668,1.7973589827192697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ Commissions having been granted during the re­
 cess of the Senate, to the following persons for  
 tho offices respectively annexed to their names, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832073101:0261/pct:4.841449603624009,61.90682088422873,14.510192525481314,1.8808777429467085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832073101:0261/pct:4.840764331210191,61.90012970168612,14.512856805850436,1.8842772733823316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ ring the recess of the Senate, to the follow
 ing persons, 1 now nominate them to the  
 same offices respectively annexed . to thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027042:1848062101:0764/pct:92.8322692977365,116.96900114810562,16.38131166569936,2.939150401836969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027042:1848062101:0764/pct:69.66177964871534,87.72675086107922,12.294962984467993,2.2043628013777266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

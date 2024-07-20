@@ -68,7 +68,7 @@ that, if the Constitution is carried into effect, the
 States south of the Potomac will be little more  
 than appendages to those northward of it, etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475245:1860030501:0489/pct:90.25,133.7078651685393,38.0625,26.310861423220974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475245:1860030501:0489/pct:30.083333333333332,44.56928838951311,12.6875,8.770287141073657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ effect, the States south of the Potomac will hi
 little more than appendages to those north  
 ward of it, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1860032101:0462/pct:68.60443792407848,74.702095603342,12.800293416468,10.464319956170387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1860032101:0462/pct:68.5918591859186,74.69186524239934,12.802530253025303,10.466310599835662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ of it.&quot; Upon the adoption of the Constitution
 here arose two great parties, the one desir­  
 ous of using the Constitution as an instru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863091701:0384/pct:242.84855769230768,149.32692307692307,42.84855769230769,17.548076923076923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863091701:0384/pct:60.73038773669973,37.33173076923077,10.71535918244665,4.387019230769231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ and such powers must sooner or later
 estalish a tyranny, &amp;e.  
 The freat Johnson Wigwa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026922:00237288154:1866080901:0578/pct:62.03899957609156,53.311601718773154,113.6074607884697,241.5913468662024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026922:00237288154:1866080901:0578/pct:20.679666525363853,17.770533906257718,37.869153596156565,80.5304489554008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ vith them in favor of their measures, I
 e e a a i o    
 entimen e te meantie  sh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1866081501:0034/pct:12.64484356894554,120.8246058868923,43.873117033603705,42.63036048947195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1866081501:0034/pct:4.214947856315179,40.2748686289641,14.624372344534569,14.210120163157315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

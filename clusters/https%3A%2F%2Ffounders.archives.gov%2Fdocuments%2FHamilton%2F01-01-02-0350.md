@@ -935,7 +935,7 @@ the care of religion ; the choice of
 Magistral&#x27;s ; the teaching and dispen­  
 sing of thc&#x27;laws, and the interpretatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1871042201:0027/pct:46.09516161413371,21.377610585030485,13.912868901826942,4.5531197301854975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1871042201:0027/pct:46.09516161413371,21.386258485752585,13.912868901826942,4.557443680546547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

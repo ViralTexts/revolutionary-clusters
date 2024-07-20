@@ -287,7 +287,7 @@ from time to time, the Judge* and officer- thereof, a* hisi
 Majesty, hi. heirs and foocrftors, stall tiiink neceifary 01 j  
 proper* for die circumftanees of tire said province. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774090801:0637/pct:68.54875283446712,102.56009102545869,27.46031746031746,7.765609443891338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774090801:0637/pct:53.13689883428036,79.48341110335453,21.281705816882432,6.021971561891465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ to the said Province of Quebec, and the Commission under the
 Authority whereof the Government of the said Province is at  
 present administered, and all and every the Ordinance and Ord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090901:0311/pct:5.840232714253748,82.41710296684118,26.76213918102484,2.414194299011053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090901:0311/pct:5.8476915044379805,82.42679852627496,26.754680390840605,2.4044987395772734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ in Chics for the Tire being, by &amp; with the Advice &amp; Consent
 of the Legiflaiive Council of the fame, to be appointed in Man­  
 n#- herein-after mentioned. . | ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090901:0311/pct:34.45961065115238,55.67190226876091,26.672633698814053,9.496800465386853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090901:0311/pct:34.45961065115238,55.6767500484778,26.680092488998284,9.506496024820633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ aforefaid, That the fame shall continue to be adminiftered,and
 (hall be observed as Law, in the Province of Quebec, as well in  
 the Description and Quality of the Offence, asin-the Mett od o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090901:0311/pct:34.45961065115238,71.26236183827807,26.941150145446407,8.9586969168121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090901:0311/pct:34.45961065115238,71.27205739771185,26.963526515999106,8.9586969168121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ being, By and with the Agvice and Consent of the Legislative
 Council of fsid P-ovince, he easter to be appointed, shall, from  
 Time to Time cause to be made theiein, in Manner hercin-af
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090901:0311/pct:34.817632579995525,80.74461896451426,26.538375475497876,6.908086096567772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090901:0311/pct:34.817632579995525,80.75431452394803,26.568210636234802,6.9177816560015515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ the said Province of Quebec,and appointing, from Time to Time
 SuceefTors, shall think necessary and propes, for the Citcumftan­  
 ~ ces of the f2id Province. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090901:0311/pct:62.22868650704856,53.3304246655032,27.50055940926382,6.835369400814427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090901:0311/pct:62.22868650704856,53.34012022493698,27.522935779816514,6.825673841380648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -922,7 +922,7 @@ sors shall think necessary and convenient
 in ine circurastances ol the said Pro­  
 vince.XVIII. Provided always and it is b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1839072401:0063/pct:26.319204152249135,83.15668862790031,23.291522491349482,5.428244056144371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1839072401:0063/pct:19.74908068353883,62.37467774276711,17.477828250054078,4.067602406187339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -971,7 +971,7 @@ Law, and afterwards loy that of the Repre-
   
 nlative system, with so much of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1841021101:0345/pct:84.4311377245509,159.85033817815514,69.20444824636441,48.06446970787164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1841021101:0345/pct:21.107784431137723,39.962584544538785,17.301112061591102,12.01611742696791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

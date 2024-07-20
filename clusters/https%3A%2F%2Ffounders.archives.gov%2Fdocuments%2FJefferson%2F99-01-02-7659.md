@@ -117,7 +117,7 @@ sied to fulfil the. dutics whichthc public
 :zervxcc may all for. ss  
 &#x27; si &#x27;_ TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808032801:0420/pct:32.5386504840341,70.41891772207953,21.644271059095505,20.910459658134798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808032801:0420/pct:32.533949725512855,70.41268154445625,21.645959741885775,20.91155980635258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ on better information, the characters rtiost quali­
 may call for.  
 Til : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808032901:0427/pct:40.83454810495627,59.145968432644075,18.057580174927114,13.654716750275297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808032901:0427/pct:40.82710876298051,59.138732566674825,18.060363150543512,13.65712421499062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

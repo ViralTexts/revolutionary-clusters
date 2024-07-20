@@ -185,7 +185,7 @@ Montecclla, Sept. 15, 1804.
 Sir, t  
 I hi&gt;ve received your If nets of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804092401:0002/pct:25.1654301183076,54.97592295345105,17.545618608381794,21.629213483146067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804092401:0002/pct:25.1654301183076,54.98038166577492,17.558986698750083,21.629213483146067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ I am, Sir, • ■
 . Your most obedient servant,  
 __ , , W. JACKSQN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804092901:0133/pct:74.5017884517118,68.6870328241794,21.99795605518651,12.86967825804355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804092901:0133/pct:74.48275862068965,68.67587327376117,21.998722860791826,12.871649065800163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ I am fir,
 Your mod obedient ferv.mt,  
 _ W. JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804092901:0175/pct:25.11652922194335,30.74274471224791,17.425600573682324,10.698475159862273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804092901:0175/pct:25.112027245025992,30.738964711668512,17.4284519328434,10.701258248288864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ sident of the United Slates.
 Sir, |  
 I have received your letters of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:40.323201231242784,5.013020833333333,19.045786841092728,27.760416666666668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:40.31544527793807,5.012368181226403,19.048534974674617,27.76114221238554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ transaction.
 I am Sir, ycur moll obedient fefvAnt,  
 W..J ACrlSOI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804100101:0196/pct:49.847494553376904,4.015141273489252,46.710239651416124,90.03650128430445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804100101:0196/pct:49.836636898279245,4.014598540145985,46.70551078196471,90.02771019194377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ ther publicity to the tranfa&amp;ion.
 I am, Sir, your molt obedient ferv’t,  
 , W. JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804100201:0572/pct:58.61115378706406,58.67190494442315,16.100783530496237,16.356841701801457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804100201:0572/pct:58.62139601577303,58.67190494442315,16.09054130178727,16.356841701801457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

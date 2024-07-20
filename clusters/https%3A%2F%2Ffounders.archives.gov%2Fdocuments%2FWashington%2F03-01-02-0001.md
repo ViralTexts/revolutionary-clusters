@@ -1047,7 +1047,7 @@ keep an exact account of my expenses. Those,
 I doubt not, they will discharge, and that is  
 all I desire.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848080301:0631/pct:73.66071428571429,177.60042564511838,50.83705357142857,52.68688480978984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848080301:0631/pct:18.411753766040544,44.39420135656337,12.706899758229495,13.169969410825908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1136,7 +1136,7 @@ that 1 this day declare, with the utmost sinceri­
 ty, I do not think myself equal to the command  
 l am honored with.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853030201:0203/pct:79.38837920489297,31.938254860169216,12.433377020532983,2.706193890072983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853030201:0203/pct:79.38144329896907,31.936192198398345,12.435202982118936,2.708171876345475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1158,7 +1158,7 @@ mand I am honored with.&quot;
 And when the war was over, in 1783, he  
 thus acknowledged his gratitude to the Give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190923:1853030201:0203/pct:190.21641924521552,201.19738751814222,42.83670184224647,11.078858248669569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190923:1853030201:0203/pct:63.405473081738506,67.06579583938074,14.278900614082156,3.692952749556523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1178,7 @@ I this day declare, with the utmost sincerity, I
 do not think myself equal to the command 1 urn  
 honored with.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348410:1853030501:0217/pct:17.041608600437986,80.33426183844011,15.429026478200278,2.9247910863509747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348410:1853030501:0217/pct:17.038216560509554,80.32307478067122,15.43093152866242,2.927865199832892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1340,7 +1340,7 @@ smp ey ment at the expense of femeste case and hap
 piness, I do not wish to make any profit of it. I will  
 tinesan e te soit o my expenses; these I oub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856070801:0073/pct:106.93564521507169,56.01968413824674,46.38212737579193,11.833371480888076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856070801:0073/pct:35.645215071690565,18.673228046082247,15.460709125263977,3.9444571602960252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1432,7 +1432,7 @@ koep an exact account of my expenses.
 Those I doubt not they will discharge,  
 and that is all I desiro.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033622:00296026462:1862022601:0568/pct:33.167467398764586,15.771292435973795,21.27659574468085,11.79273377010125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033622:00296026462:1862022601:0568/pct:22.124957088911774,10.518165574746874,14.194987984895297,7.861822513400834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1465,7 +1465,7 @@ will keep an exact account of ray expenses.
 Those I doubt not they will discharge. That  
 is all I desire.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870050501:0178/pct:6.297941057731126,39.13411366520942,14.775938635446105,4.9499365392751375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870050501:0178/pct:6.296670030272452,39.12859560067682,14.778002018163471,4.952763677382967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1491,7 +1491,7 @@ penses. Those, I doubt not, thcy
   
 will discharge, and that is all I de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_goldfield_ver01:data:sn84020345:00416150461:1871031901:0038/pct:23.80952380952381,227.87514605241196,67.20779220779221,23.768986813553663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_goldfield_ver01:data:sn84020345:00416150461:1871031901:0038/pct:5.9523809523809526,56.96878651310299,16.801948051948052,5.942246703388416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1636,7 +1636,7 @@ any profft from it. I will keep an exact account of my
 expenses. These I doubt they will discharge, and that is  
 all I desire.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061501:1040/pct:151.08803165182988,165.0707413695529,46.66996373227827,26.93831352574986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061501:1040/pct:50.36267721727663,55.023580456517635,15.556654577426091,8.979437841916619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1728,7 +1728,7 @@ exact account of my expenses. These I
 doubt they will discharge, and that is all I  
 desire.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1875070201:0658/pct:342.1580188679245,218.05496828752644,44.575471698113205,56.36363636363637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1875070201:0658/pct:85.57734847367645,54.51374207188161,11.148798112372805,14.090909090909092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1778,7 +1778,7 @@ I will keep an exact account of my ex
 penses. Thoso I doubt not they will  
 discharge, and that is all I desire.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1875071001:0508/pct:74.08602150537635,84.83036526712596,16.612903225806452,28.220460158585727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1875071001:0508/pct:55.59340265328075,63.62927336539711,12.459662961634995,21.162095411412974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1839,7 +1839,7 @@ I doubt nof they will discharge, and
   
 S all I desire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875071401:0819/pct:303.0684500393391,77.3914298081085,40.597954366640444,56.730630500649255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875071401:0819/pct:75.78201849301594,19.347857452027124,10.1514853433012,14.182657625162314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1874,7 +1874,7 @@ from it. I will keep an exact account of my ex­
 penses. Those, I doubt not, they will discharge  
 and that is all I desir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1880022201:1115/pct:71.58135981665393,78.20131030375224,50.11459129106188,31.804645622394283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1880022201:1115/pct:17.902178066488347,19.55032757593806,12.533435231180741,7.951161405598571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1956,7 +1956,7 @@ any proft from it. I will keep an exact account of my
 expenses. These, I doubt not, they will discharge, and  
 hat is all I desire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122401:0720/pct:229.97762863534675,65.53982031368966,49.21700223713646,34.10994365768235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883122401:0720/pct:57.52658086177952,16.384955078422415,12.311135982092893,8.527485914420588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2016,7 +2016,7 @@ with the utmost sincerity, I do not think my.
 self equal to the command I am honored  
 with.&quot; And, in 1777, when informfd tba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885022101:0241/pct:27.27803738317757,108.42431594554522,16.121495327102803,2.871006874241812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885022101:0241/pct:20.46738072054528,81.31823695915891,12.093476144109056,2.156624882059577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2040,7 +2040,7 @@ Laurens, then President of Congress, he
 wrote privately to heg that the paper  
 might at once be submitted to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0193/pct:220.0,112.91778613648576,33.41810022438295,15.153143471252015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0193/pct:73.33333333333333,37.63926204549525,11.139366741460982,5.051047823750672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2139,7 +2139,7 @@ from it. I will keep an exact account of my ex­
 penses. Those, I doubt (not, they will discharge,  
 and that is all I desire. ”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152111:1889022101:0353/pct:4.375441072688779,4.624602134431754,69.76711362032464,91.50908069649878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152111:1889022101:0353/pct:4.380145848035756,4.6277226486925045,69.7718183956716,91.50908069649878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2229,7 +2229,7 @@ from it. I will keep an exact account of
 my expenses; tuese.i aouut not, tney will  
 discharce. and that is all I desire.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_greengear_ver01:data:sn96061150:00200297921:1889043001:0393/pct:8.84325230511316,101.27790608160123,16.80637049455155,16.797536566589685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_greengear_ver01:data:sn96061150:00200297921:1889043001:0393/pct:6.6443093691050095,75.96612779060816,12.596939844896248,12.594303310238645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2367,7 +2367,7 @@ an exact account of my expenses;
 those I doubt not they will discharge,  
 and that is all I desire.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894052501:0835/pct:27.257799671592775,223.8831615120275,57.060755336617405,116.32302405498282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894052501:0835/pct:6.818648593140275,55.970790378006875,14.273978229615938,29.080756013745706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2483,7 +2483,7 @@ exact account of my expenses. Those
 I doubt not they will discharge, and  
 that is all I desire.&quot; Some of thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621164:1897022301:0370/pct:39.60674157303371,117.52982032311641,16.653290529695024,9.965272535104937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621164:1897022301:0370/pct:29.72701726214372,88.14736524233732,12.484945804897631,7.473954401328703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2512,7 +2512,7 @@ to the command 1 am honored with.&quot;
 HIS ABIDING FAITH.  
 In tho wilderness of the West Washin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022301:0570/pct:57.23654454997739,22.174060853306138,16.50836725463591,7.76814550399456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022301:0570/pct:42.9379169964944,16.63267040625531,12.382675562591881,5.83035866054734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2633,7 +2633,7 @@ as to what it should&#x27; contain. He
 was qnick to recognize his own limit  
 ations and to lean on others. But thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:00416156761:1899113001:0601/pct:36.005692599620495,48.2391869534389,16.714104996837445,8.709524935003545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:00416156761:1899113001:0601/pct:27.012494069270915,36.1852989836918,12.541515103590068,6.535098085558969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2656,7 +2656,7 @@ honored with.&quot; When he wrote
 his farewell message he differred to  
 the judgment of others as to wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_isley_ver01:data:sn88076514:0029586381A:1899120101:0223/pct:35.313791068266774,42.77432712215321,14.223883533346449,5.741890959282264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_isley_ver01:data:sn88076514:0029586381A:1899120101:0223/pct:35.32854613417273,42.77777777777778,14.23863859925241,5.755693581780538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2725,7 +2725,7 @@ am honored with ” When he wrote his
 farewell message he deferred to the judg­  
 ment of others as to what it should con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895485:1899120601:0808/pct:34.30765419866237,19.344827586206897,14.614812979935596,3.9655172413793105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895485:1899120601:0808/pct:34.29915799900941,19.341492846061023,14.617384843982169,3.9691432511635925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2757,7 +2757,7 @@ room, that I this day declare, with the ut­
 most sincerity, I do not think myself equal  
 to the command I am honored with.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899121001:0557/pct:121.69203747072599,52.61394101876676,17.62295081967213,4.92627345844504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102214:1899121001:0557/pct:81.14478114478115,35.07596067917784,11.75523349436393,3.284182305630027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

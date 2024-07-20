@@ -39,7 +39,7 @@ with an ardor, an art, a skill, and conse­
 quently with a success which no vulgar  
 democrat can attain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823110801:0130/pct:78.24335213537469,66.89826302729529,17.888799355358582,5.028949545078578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823110801:0130/pct:78.22234156820623,66.88719814753556,17.890708915145005,5.032252729077076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ withnn ardour, uii art, a skill, and
 cense*.ueiuU with u success, whis’h  
 no vulgar democrat can attain/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824052701:0299/pct:55.9858421819696,11.476103200338361,35.33208411409536,84.33666995629494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824052701:0299/pct:55.97418817651957,11.474485480687905,35.32993338884263,84.32830561037497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ the people with an ordour, an art, a skitl, and
 conscquenily a success which no vulgar Demo­  
 crat can aliain.” : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827103001:0383/pct:61.92481203007519,46.29007633587786,16.1203007518797,4.132315521628499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827103001:0383/pct:61.92481203007519,46.29007633587786,16.13032581453634,4.135708227311281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ crat can aliain.” :
 “ success, which no vulgar democrat can  
 “ attain.” Cunninghatn /otters: lrI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102501:0210/pct:19.88256401892024,28.156156156156158,15.674441363562226,3.7837837837837838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102501:0210/pct:19.87932159165036,28.152774441508527,15.677321156773212,3.7873328529105614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ crat can aliain.” :
 &#x27;l a success which no vulgar democrat can at­  
 | tain,” and to have hecome wise by sud expe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831020101:0436/pct:36.069382065974914,48.506006776876475,16.757007898404833,2.813430537016121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831020101:0436/pct:36.069382065974914,48.50942944176336,16.757007898404833,2.8168532019030015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ crat can aliain.” :
 people with an ardor, an arl, a skill, and consequently  
 a success, which no vulgar Democrat can ailain.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840062301:0518/pct:50.50922509225092,71.69714403123074,14.819188191881919,1.3457982329977398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840062301:0518/pct:50.50922509225092,71.70399287720019,14.833948339483396,1.3423738100130127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ a success, which no vulgar Democrat can ailain.”
 Mary&#x27;s eyes nnd face brightened as she com I the lowest of the people with an ardor,  
 caught up the &quot; Book&quot; an art, a skill, and consequently with a sue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848093001:0586/pct:84.59279561472201,76.9956002514142,38.07752545027408,1.77561282212445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848093001:0586/pct:63.46191501860192,57.74670018856065,28.568631290385746,1.3356379635449402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ crals, and court the lowest of the people with an ardot,
 an art, a skill, and consequently with a success which  
 no vulgar democrat can attain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856101501:0100/pct:251.27351423339437,204.70223176990095,47.411353421008826,18.188327962764053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856101501:0100/pct:83.75783807779813,68.23407725663365,15.803784473669607,6.062775987588018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

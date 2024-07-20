@@ -316,7 +316,7 @@ edge is pleasant unto thy soul, discretion shall pre
 serve thee, understanding shall keep thee, to deliver  
 thee from the way of the evil man, from the ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845011701:0011/pct:321.5596330275229,218.4315970234688,56.039755351681954,9.101316542644533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845011701:0011/pct:80.38990825688073,54.6078992558672,14.009938837920489,2.275329135661133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ oe i ean to t o ire
 shall preserve thee, understanding shall keep  
 thee; to deliver thee from the way of the wick.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190649:1859070601:0019/pct:129.43327239488116,193.22445019404915,68.149502335974,16.93078913324709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190649:1859070601:0019/pct:32.35831809872029,48.30611254851229,17.0373755839935,4.232697283311772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ edge is pleasant unto thy soul, discretion
 shall preserve thee, understanding shall keep  
 thee, to deliver thee from the way of evil.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1870081701:1023/pct:19.688715953307394,73.83110343835419,45.60311284046693,13.005322975111495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1870081701:1023/pct:4.923136797042226,18.457775859588548,11.402996691963416,3.251330743777874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ keep thee.”
 &quot;Then shalt thou understand righteousness and  
 judgment and equity; yea, every good path, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744055:1879022301:0701/pct:243.58889623265037,39.87849610270518,46.16655651024455,3.266850068775791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744055:1879022301:0701/pct:81.19629874421679,13.29283203423506,15.388852170081515,1.0889500229252635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ knowledge Is pleasant unto thy soul, discretion
 shall preserve thee, understanding shall keep  
 thee.—Proverb*, If., id, It.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881052301:0007/pct:27.961215932914047,28.68217054263566,13.050314465408805,1.0932220234545815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881052301:0007/pct:27.98087002096436,28.68713973365136,13.06341719077568,1.1081295965016895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -733,7 +733,7 @@ many bave been paid. If you are discreet
 enough to insure in the Union Mutual Life,  
 your discretion shall preserve you from an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00414210521:1884100401:0018/pct:15.79291197125592,76.7605633802817,10.958680385431977,12.67605633802817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00414210521:1884100401:0018/pct:15.790333115610713,76.75140231531209,10.96097322011757,12.677527151211361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,7 @@ ever before in the school room. It is
 very pleasing to find that the children  
 take so much interest in singing. On
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551141:1891051401:0458/pct:23.75764993880049,14.618309989796865,10.771113831089352,6.177534551525833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551141:1891051401:0458/pct:23.76580987352101,14.62449370806666,10.76703386372909,6.177534551525833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ not.”—1,10. “Discretion shall preserve thee,
 understanding shall keep thee ■’’—*,16. “To de­  
 liver thee from the strange woman, even fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059538:0051415742A:1893050601:0432/pct:3.2190195665895223,71.85929648241206,12.51840942562592,1.2943505405816964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059538:0051415742A:1893050601:0432/pct:3.218342448464451,71.8483556638246,12.52103491796382,1.2979598051157126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -919,7 +919,7 @@ liver thee from the strange woman, even fro
 not.”—1,10. “Discretion shall preserve thee,  
 understanding shall keep thee.”—2,10. &quot;To de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059538:00514157819:1893051201:0594/pct:23.647294589178358,48.1556106633602,14.250723669561346,0.9299442033477991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059538:00514157819:1893051201:0594/pct:23.642030276046306,48.148148148148145,14.253116651825467,0.9336742600340927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

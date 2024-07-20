@@ -119,7 +119,7 @@ as to displease his People, who are Beafis of
 burden. ML  
 _A Prince, who forms his Resolutions t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1770101901:0552/pct:6.352162218084006,78.46669459572685,27.829505483136767,18.53093143415724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1770101901:0552/pct:6.352162218084006,78.46669459572685,27.829505483136767,18.535586277521762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ ty are like heat and moisture: where they
 are well mixed, everything prospers; where  
 they are single, they are destructive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1847121901:0004/pct:55.47761194029851,94.9865920485018,9.343283582089553,1.5040223854494579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1847121901:0004/pct:55.47761194029851,94.98950682056663,9.35820895522388,1.5011076133846333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ mercenary motives, though they may enlarge
 their possessions, and increise their fortune,  
 live in splendid misery, and find that the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn85026051:00296027029:1850112301:0106/pct:5.114475627769572,86.8695652173913,17.300590841949777,6.115942028985507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn85026051:00296027029:1850112301:0106/pct:3.842601145390726,65.15942028985508,12.987252909661924,4.594202898550725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -490,7 +490,7 @@ often destructive
 Thy sire engaged in a corrupted State,  
 Wrestling with vice and faction; now thou seest m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852061601:0587/pct:21.84514003294893,11.123897199846567,14.00329489291598,1.4192558496355965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852061601:0587/pct:21.85612300933553,11.132421259003538,13.99780340472268,1.4192558496355965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ Wrestling with vice and faction; now thou seest m
 [ Thy sire engaged in a corrupted State,  
 Wrestling with vice and faction; now thou seest m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852061701:0597/pct:0.807054251980272,93.36515513126491,13.495740547003438,1.1813842482100239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852061701:0597/pct:0.8120360683505206,93.36913285600636,13.505704179743935,1.1813842482100239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ long time was crace  e
 er.  
 We was preacnin aud annoved be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854083101:0400/pct:328.88222055513876,343.4293552812071,52.06301575393849,28.14814814814815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854083101:0400/pct:82.23597824048021,85.85733882030178,13.018195460513974,7.037037037037037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ where they are well mixed everything prospers;
 where they are single they are often dostruc­  
 tive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854092601:0317/pct:225.663082437276,282.86568864834067,48.17204301075269,11.964107676969093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854092601:0317/pct:56.43599856579419,70.71642216208517,12.047328791681606,2.991026919242273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ the battle of New Orleans to one who
 thinks the army of England invincible.  
 Real merit of any kind, cannot long b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775460:1857080601:0209/pct:110.23477622890682,115.44207524107021,16.15920763022744,8.148852369957897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775460:1857080601:0209/pct:82.73077628922738,86.58155643080266,12.130666177280235,6.12522069808502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ My son, thou oft has seen
 Thy sire engaged in a corrupted State,  
 Wrestling with vice and faction; now thou seest m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470272:1860042801:0417/pct:156.941431670282,324.263135412217,44.73969631236442,3.8445108927808627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470272:1860042801:0417/pct:39.245999457553566,81.06578385305426,11.187957689178194,0.9611277231952157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ Thy sire engaged in a corrupted state,
 Wrestling with vice and faction; now thou  
 seest m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021957:1860050301:0637/pct:15.115511551155116,276.95961995249405,49.76897689768977,7.495381367115334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021957:1860050301:0637/pct:3.780749545979858,69.23990498812351,12.448406802047218,1.8738453417788334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -748,7 +748,7 @@ peace and Kood-will to men,emancipating all na-.
 lions, you insist upon retaining an absolute  
 power over wives.11 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876030301:0002/pct:85.88453389830508,68.988988988989,13.188559322033898,2.5625625625625625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876030301:0002/pct:85.89115466101696,68.998998998999,13.201800847457626,2.5525525525525525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ and good-willto men macipating
 all nations, you insist upon retain­  
 ing an absolute power over wives.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287058:1876031501:0042/pct:74.15527178212227,46.36140637775961,11.707537574867217,5.641864268192968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287058:1876031501:0042/pct:74.15527178212227,46.36140637775961,11.715071382830452,5.650040883074407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -801,7 +801,7 @@ will to men, emanr.ipaliug all nations.
 you Insist upon retaining an absolute  
 power over wi ves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:0020029841A:1876032401:0121/pct:75.53426676492262,44.34855233853007,16.507000736919675,4.565701559020044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:0020029841A:1876032401:0121/pct:56.67158127534095,33.26837416481069,12.384813859196461,3.4242761692650334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ will to men, emancipating all nations
 you insist upon retaining an absolute  
 power over wives.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1876041901:1182/pct:239.632277834525,145.6536618754278,66.39427987742594,19.917864476386036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1876041901:1182/pct:59.90806945863125,36.41341546885695,16.598569969356486,4.979466119096509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -998,7 +998,7 @@ that absolute power, like most other
 things which are very bad, is most  
 likely to be broken
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn86076999:00415627373:1881111501:0053/pct:6.469115191986645,48.08391608391609,22.746243739565944,6.937062937062937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn86076999:00415627373:1881111501:0053/pct:4.863285326654143,36.06993006993007,17.052807347109162,5.2027972027972025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1040,7 +1040,7 @@ to men, emancipating the men of all na
 tions, you insist on retaining absolute pow­  
 er over wives.&quot;-DAvid PuMd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285025:1882090101:0096/pct:92.87598944591029,207.48985507246377,54.155672823219,13.495652173913044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285025:1882090101:0096/pct:23.23049001814882,51.87246376811594,13.545619534730243,3.373913043478261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1063,7 +1063,7 @@ Judge D. B. Harrell of Americus,
 has taken the field as an lodepen­  
 dent candidate for Congress in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1882090701:1177/pct:54.57147969225264,47.38176746544947,15.387368044372876,8.241409915050083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1882090701:1177/pct:42.29720360526924,36.72125777923354,11.925121331176335,6.393711103832296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1104,7 +1104,7 @@ sold or money borrowed ; be content to
 want things that are not of absolute  
 necessity, rather than to run up th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763852:1882092001:0170/pct:113.94517282479141,21.349663784822287,14.749702026221692,21.517771373679153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763852:1882092001:0170/pct:85.47161376843988,16.01825168107589,11.071375353896588,16.138328530259365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1141,7 +1141,7 @@ moisture, where they are well mixed,
 everything prospers ; where they ara  
 Bingle, they are destructive. Saville
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197474:1882100501:0135/pct:113.2677801724138,7.598582188746123,12.648168103448276,16.27159946832078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197474:1882100501:0135/pct:84.96564731240738,5.704474966770049,9.484036104001078,12.206468763845812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1165,7 +1165,7 @@ remember, that absolute power like most
 other things which are very bad, is mos  
 likely to be broken.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_blackhole_ver01:data:sn90050095:00513687692:1886071001:1055/pct:57.17562254259502,24.556868537666173,30.209698558322412,12.407680945347119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_blackhole_ver01:data:sn90050095:00513687692:1886071001:1055/pct:57.17562254259502,24.569177744953226,30.242463958060288,12.413835548990646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1188,7 +1188,7 @@ moisture ; where they are well mixed
 everything prospers, where they are  
 single they are destructive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473066:1889122001:0350/pct:97.01327433628319,29.20726572837724,21.01769911504425,7.578491519307109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473066:1889122001:0350/pct:64.71146245059289,19.475520269457476,14.023715415019764,5.052327679538073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1230,7 +1230,7 @@ moisture; where they are well mixed
 everything prospers, where they are  
 single they are destructive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1890011101:0015/pct:92.57086999022484,22.912992357436803,15.288367546432063,6.011169900058789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1890011101:0015/pct:71.74747474747475,17.757612574986712,11.858585858585858,4.666261675146177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

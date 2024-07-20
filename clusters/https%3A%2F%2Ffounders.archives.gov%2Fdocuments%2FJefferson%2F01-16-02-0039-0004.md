@@ -497,7 +497,7 @@ nuntantem hostium aciem subito irruens praeclarum
 bellicae virtutis specimen dedit in pngna,  
 ad Cowpens, 17th Jan. 1781?Because, rushin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654619:1883120101:0171/pct:30.213040671400904,22.754831375521032,15.171078114912847,2.2830617658203867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654619:1883120101:0171/pct:30.219496449322143,22.761936339522546,15.180761781794706,2.2830617658203867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

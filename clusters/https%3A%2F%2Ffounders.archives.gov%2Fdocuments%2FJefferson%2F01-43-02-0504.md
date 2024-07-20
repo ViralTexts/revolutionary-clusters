@@ -60,7 +60,7 @@ Captain and firft civil com­
 mandant of Us per Loui­  
 fiana
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804111401:0001/pct:0.13577732518669383,7.728106049922437,76.0805612129441,90.84755323649696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804111401:0001/pct:0.14332050991928794,7.728106049922437,76.0881043976767,90.85695482536549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ _ cap&#x27;siain and sing civil com­
 lct manciant of Uppcr Louis­  
 ana
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804111601:0516/pct:27.700165239597418,3.3874130861116063,47.45380802163137,93.31431627741131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804111601:0516/pct:27.696004806248123,3.3871111507264464,47.451687193351354,93.30896990224916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ Your very humble servant,
 AMOS STODARD,  
 Cc.pt, cud first riv i) commandant of Upper Louisiana
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804111901:0221/pct:75.11688311688312,61.443029709435194,22.233766233766232,10.479921645445641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804111901:0221/pct:75.09737730459621,61.43300146890811,22.23448454946767,10.482291496654154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ AMOS STODDARD,
 mandant of Upper Eoui­  
 siana
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804112101:0357/pct:23.562891291974957,75.83322441510914,17.738569531398216,14.59939877140243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804112101:0357/pct:23.558421851289832,75.82331416623106,17.74152756702074,14.601847011674508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ refpedt, your very humble ferve,
 Captain and firlt civil Comman.-  
 ~ danr of Upper Louiliana
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804112801:0601/pct:12.523791397030834,59.47056138749429,19.984773505900268,16.727521679598357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804112801:0601/pct:12.53013576957239,59.47816826411076,19.991117878441823,16.727521679598357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ AMOS SI ODDAHT,
 Capuut and first civil coir*  
 taarubuit of Upper Louitf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804113001:0338/pct:48.205128205128204,12.482319660537483,42.87749287749288,82.92079207920793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804113001:0338/pct:48.19139846197665,12.480113134170054,42.87240102534891,82.91055329680043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

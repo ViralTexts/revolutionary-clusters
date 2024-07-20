@@ -2954,7 +2954,7 @@ u resolved to fulfil, each on its own part, the clauses
 &#x27; tneither, whatever may bethe event of the war.&quot;  
 ■ lam here naturally led to notice Mr. Adet&#x27;s charge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012801:0002/pct:13.917402721413225,26.19047619047619,19.312485079971353,4.138702460850112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012801:0002/pct:13.929338744330389,26.19447107702141,19.312485079971353,4.1347075743048896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2976,7 +2976,7 @@ ces, there fhadl be no after claim of compen-
 Jation; on one fide of the other, whatever  
 ~may be the event of the war,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797030401:0245/pct:25.642208890939855,65.71087216248506,16.07445008460237,4.739147749900438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797030401:0245/pct:25.652463723529713,65.71087216248506,16.06419525201251,4.749103942652329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3158,7 +3158,7 @@ has been originally agreed on tod written
 in the French language; to which they  
 have hereunto affixed their seals. - - 7 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803110401:0164/pct:75.31172069825436,30.281810418445772,20.53200332502078,12.587532023911187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803110401:0164/pct:75.29085872576178,30.276639344262296,20.533240997229917,12.589651639344263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3222,7 +3222,7 @@ arms, until the &#x27;independence Of the United States
 ibatl have been formally or tacitly assured.”  
 &#x27;‘Such were the terms of the treaty of alliance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808031101:1027/pct:5.8274470232088795,60.19386106623586,21.46821392532795,4.894991922455573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808031101:1027/pct:5.825977301387137,60.18413826522371,21.469104665825977,4.8982393797447905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3241,7 +3241,7 @@ U. S. shall have been formally or tacitly
 assured.&quot;  
 Such were the terms of the treaty of al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808031901:0400/pct:6.608669108669108,69.77578475336323,23.092185592185594,3.9551569506726456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808031901:0400/pct:6.607660613459484,69.76952739664604,23.093748410397275,3.957791528412997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3310,7 +3310,7 @@ councils and their forces, according to the
 emergency of the conjunctures as become  
 good and faithful allies. In that case th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811091301:0151/pct:49.5101389838232,33.35220838052095,21.394395078605605,6.681766704416761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811091301:0151/pct:49.49886104783599,33.34748761500354,21.395216400911163,6.684359518754423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3331,7 +3331,7 @@ obtained ; and they mutually engage not to
 laydown their arms, until she shall recog­  
 nize the equal right of nations to navigate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811091301:0151/pct:49.25951241740715,75.87768969422423,21.326042378673957,5.167044167610419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811091301:0151/pct:49.24829157175399,75.86694975230007,21.326879271070617,5.169851380042463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3360,7 +3360,7 @@ said states, at the moment of the cessation
   
 of the present war with England, accord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811091301:0151/pct:49.35064935064935,10.78708946772367,43.928001822738665,82.92751981879955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811091301:0151/pct:49.33940774487471,10.78556263269639,43.92369020501139,82.91932059447983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3380,7 +3380,7 @@ ty was originally composed and concluded
 in the French language, and they have here­  
 unto affixed their seals
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811091301:0151/pct:71.77033492822966,35.489807474518685,21.827295511506037,4.31766704416761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811091301:0151/pct:71.75398633257403,35.48478414720453,21.828018223234626,4.320594479830149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3400,7 +3400,7 @@ cations shall be exchanged within one
 year fiom the date hereof, or sooner if  
 possible. But the execution of the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1823030501:0479/pct:73.54687781176894,83.44542772861357,17.563433507288106,4.011799410029498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1823030501:0479/pct:73.54687781176894,83.44936086529007,17.569431947693598,4.019665683382498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3449,7 +3449,7 @@ possessions of the Crown of France in America,
 as well as those which it might acquire by the  
 future treaty of peace with Great Britain—al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826060601:0090/pct:28.70943396226415,21.46813009767395,16.332075471698115,8.599335414359077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826060601:0090/pct:28.714465408805033,21.47148659080992,16.332075471698115,8.609404893766992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3710,7 +3710,7 @@ pendence of the United States should be formal­
 ■y W ‘•rnljf &quot;Mured by the treaty or treaties  
 which should terminate the war. Whereas, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024657:00414184583:1833040401:0012/pct:32.31481481481482,11.973947895791584,12.716049382716049,4.38376753507014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024657:00414184583:1833040401:0012/pct:32.309828730134235,11.972448340638698,12.719230571413876,4.387393028595283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4032,7 +4032,7 @@ was declared to be 44 the essential and direct end of
 4 sovereignty, and independence, absolute and un- !  
 4 limited, of the United States.&quot; The contracting 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0650/pct:35.68188261979019,55.36604275113523,15.409696626027786,4.3858677594417985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0650/pct:35.68188261979019,55.36973455901355,15.41914752858898,4.3858677594417985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4057,7 +4057,7 @@ would admit. France makes no provision for ob­
 taining possessions on the American continent, either  
 by conquest or cession, not even Canada and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0650/pct:35.582648142897646,59.35319525971868,15.338814856818827,6.545575368257836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0650/pct:35.587373594178246,59.36057887547532,15.33408940553823,6.541883560379518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4087,7 +4087,7 @@ their arms until the independence of the United States shall
 have been formally or tacitly assured by the treaty or treaties  
 that shall terminate the war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0652/pct:2.4677187948350072,18.622247317899493,15.710186513629843,3.489553924336533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0652/pct:2.4677187948350072,18.622247317899493,15.714968914395026,3.4933182759269714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4117,7 +4117,7 @@ truce. The simple pledge is, that independence ;
 shall be established in such a manner and with such 1  
 guaranties that the United States shall constitute 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0652/pct:2.5107604017216643,22.213438735177867,15.7532281205165,9.282891022021456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0652/pct:2.5155428024868485,22.217203086768304,15.748445719751315,9.286655373611895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4160,7 +4160,7 @@ whole, as their possession, shall he affixed and as­
 sured to the said States at the moment ot the cessa­  
 tion of their present war with England.&quot; Fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847091101:0660/pct:2.7104959630911187,22.886459959848317,15.873702422145328,5.286638411777828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847091101:0660/pct:2.7201076509034987,22.886459959848317,15.86889657823914,5.294073908840806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4186,7 +4186,7 @@ hindering her commerce ail navigation, contrary to the
 right*Ot nations and the peace subsisting between those  
 countries, and that thi&#x27;refoie tin y ha I agreed tlisi (ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012301:0096/pct:22.69789983844911,59.701684454159704,15.525040387722132,5.722000771505722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012301:0096/pct:22.69789983844911,59.71025673995971,15.525040387722132,5.722000771505722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4211,7 +4211,7 @@ tain effectually the liberty, sovereignty, and indepeud­
 ence, absolute and unlimited, of the United Stale- of  
 America, as well in matter* of government as ot com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012301:0096/pct:22.633279483037157,65.23080879516523,15.621970920840065,5.297672624405298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012301:0096/pct:22.633279483037157,65.23938108096525,15.627355950457728,5.297672624405298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4236,7 +4236,7 @@ til the moment ol the cessation of Ihe w*r then exmtinc
 between the United States and Fngland should have as  
 renamed their possession
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012301:0096/pct:22.778675282714055,78.98932750417899,15.55735056542811,5.773434486305773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012301:0096/pct:22.778675282714055,78.997899789979,15.573505654281098,5.769148343405769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4284,7 +4284,7 @@ if war should break out between France and
 dreat Britain, during the continuance of the exist.  
 tieat a between the United States and Magland
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851012501:0165/pct:246.9747340425532,221.45687645687644,47.2406914893617,21.083916083916083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851012501:0165/pct:82.32491134751773,73.81895881895882,15.746897163120567,7.027972027972028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4307,7 +4307,7 @@ the moment of the cessation of the war then ex.
 isting between the United States and England  
 should have ascertained their possessions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851012501:0166/pct:7.532641446267157,8.09463063898875,48.22564445932374,15.273106807375623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851012501:0166/pct:2.5108804820890525,2.6982102129962504,16.07521481977458,5.0910356024585415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4352,7 +4352,7 @@ ommorce and navigation,Contrary to the rights |
 if nation* nnd the peace subsisting between \
 hone countries; nnd that therefore they ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012701:0110/pct:6.4137308039747065,80.05490570541896,13.38452273411623,5.800907137741705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012701:0110/pct:6.4137308039747065,80.05888437972467,13.389541302820435,5.800907137741705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4373,7 +4373,7 @@ the United State* would make it a common | &#x27;
 rait*&#x27;, nnd aid each other mutually with their1  
 good office*, their counsel, nnd their forces, as 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012701:0110/pct:6.172839506172839,85.5096681785629,14.453477868112014,3.7956552876581524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012701:0110/pct:6.172839506172839,85.51762552717435,14.45849643681622,3.7956552876581524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4401,7 +4401,7 @@ Lbs cessation nt&#x27; the war then existing between &lt;
 the United States and England should have as- 1  
 ;erlaincd their possessions. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012701:0110/pct:19.527250828063835,10.241107662926712,13.61035832580548,6.779661016949152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012701:0110/pct:19.527250828063835,10.249065011538155,13.625414031918098,6.779661016949152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4426,7 +4426,7 @@ the moment of the cessation of the war then existing
 between the United States and England  
 should have ascertained their possessions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851013001:0250/pct:30.529411764705884,19.188628960615933,15.382352941176471,4.856381403612674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851013001:0250/pct:30.53921568627451,19.19520942322245,15.377450980392156,4.853091172309413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4449,7 +4449,7 @@ hostilities or by hindering her commerce and navi- In
 gation, contrary to the rights of nations and the cc  
 peace subsisting between those countries;. and t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:28.585629082646975,73.0889687971233,13.873899460380574,4.048254262846537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:28.590362586386444,73.09670185206666,13.873899460380574,4.048254262846537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4476,7 +4476,7 @@ pendence, absolute and unlimited, of tho United -jo
 Stales of America, as well in matters of govern- he  
 inent as of commerce. [Arts. 3 and 4.J That e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:28.472024992899744,77.20682055446004,14.058506106219824,5.625797471291033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:28.476758496639214,77.2145536094034,14.058506106219824,5.625797471291033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4496,7 +4496,7 @@ of the war then existing between the United ln
 States snd England should have ascertained their ^s  
 possessions. p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:28.64243112752059,94.15381046282334,14.569724510082363,3.2362834937942235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851013101:0144/pct:28.647164631260058,94.16154351776669,14.579191517561298,3.2362834937942235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4521,7 +4521,7 @@ that their confederation mar obtain during the war fVom *ny of th
 dominions now or beiwtorore punansil by Great Britain in Nort  
 America, coi.r&gt;rioa&gt;4e totbafltfc and 0th arttaim above written i t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:63.93603133159269,92.03359633494527,15.469973890339425,4.059557139221176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:63.94691035683203,92.03783829642826,15.464534377719756,4.063799100704165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4609,7 +4609,7 @@ violated by France; and she had expended many millions
 of dollars in the war it brought upon her. The obliga­  
 tions resting upon the United States were great and em
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852011801:0068/pct:69.04213298222516,25.42608256533266,15.750493745885452,5.718974876909481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852011801:0068/pct:69.05310511301295,25.434499011067626,15.76146587667325,5.718974876909481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4640,7 +4640,7 @@ were exposed to such conquest.
 I By the treaty of amHy and commerce of the  
 ! same date, each party stipulated to make it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852012301:0206/pct:61.377331420373025,37.69811059588899,13.24725011956002,7.675271645096546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852012301:0206/pct:61.371461361897474,37.69550173010381,13.249171129813822,7.677047289504037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4667,7 +4667,7 @@ fnvernment as commerce, and also their pos*e*sians, and
 the additions or conquest*&quot; that might be made from Great  
 Hrnain during the then pending war between the tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050801:0448/pct:0.3286230693394676,76.90262124857541,15.346697338153138,6.2175509687223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050801:0448/pct:0.33410012049512544,76.90684226077413,15.346697338153138,6.22599299311975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4754,7 +4754,7 @@ conquests that their confederation may obtain front any of
 the dominions now or hereto!ore possessed by Great Britain  
 in North Amen.* The*e guarantees were declared to h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855020301:0145/pct:65.00653167864141,12.644968200523756,15.920966688438929,5.960842997880035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855020301:0145/pct:65.01197474417592,12.649124994804007,15.931852819507947,5.964999792160286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4848,7 +4848,7 @@ not to lay down their arms until the indenen
 dence af the United States shall hans been for mally  
 The definitive treaty with Great Britain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870033001:0328/pct:67.20379146919431,84.70756573063852,44.360189573459714,22.464675371132177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870033001:0328/pct:16.812900165994783,21.17689143265963,11.097936921982452,5.616168842783044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4872,7 +4872,7 @@ ence of the United States should be for­
 mally or tacitly assured by the treaty or  
 treaties which should terminate the war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870120101:0767/pct:244.83870967741936,85.37717088691502,51.29032258064516,16.81028768394538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870120101:0767/pct:61.23436869705527,21.344292721728756,12.827753126260589,4.202571920986345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4889,7 +4889,7 @@ reciprocal guarantees declared in the said article shall
 have full force and effect, the moment such war shall  
 break out.&quot; The bossessions thus guaranteed comprise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1872121701:0631/pct:341.6097190584662,166.19012527634487,49.65831435079727,5.187914517317612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1872121701:0631/pct:85.45109211775879,41.54753131908622,12.421652421652421,1.296978629329403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5150,7 +5150,7 @@ Of the said United States,
 As well in matt.rs of Government as of Com­  
 morco
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_goforwand_ver02:data:sn2008060934:00280762581:1881101501:0058/pct:20.39921035314762,23.353941267387945,13.621408203553411,4.250386398763524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_goforwand_ver02:data:sn2008060934:00280762581:1881101501:0058/pct:20.41566132923887,23.365533230293664,13.626891862250494,4.2542503863987635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5168,7 +5168,7 @@ Of the said United States,
 As well ln matters of Government aa of Com­  
 merce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1881102501:0405/pct:41.054313099041536,67.623701893708,10.686900958466454,1.5271838729383018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1881102501:0405/pct:41.054313099041536,67.63286499694563,10.69888178913738,1.5302382406841784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5191,7 +5191,7 @@ French, but they agreed to allow the French
 ships of war to carry prises into American  
 ports and there condemn and sell them at al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885031501:0786/pct:74.64684014869889,146.57555049354593,49.36802973977695,14.760820045558086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885031501:0786/pct:18.66517940137572,36.64388762338648,12.344301914854062,3.6902050113895215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5215,7 +5215,7 @@ French, but they agreed to allow the French
 ships of war to carry prizes into American ports  
 and there condemn and sell them at all times
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210090:1885031901:0040/pct:86.01694915254237,106.03744745892243,18.63082627118644,5.626671761559037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210090:1885031901:0040/pct:66.6621057672573,82.18454628464254,14.448929328863652,4.3631697144690404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5233,7 +5233,7 @@ the United States their &quot;liber
 ty, sovereignty, and independence,  
 absolute and unlimited,&quot; and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885032401:0297/pct:114.95398773006134,78.57142857142857,34.23312883435583,6.28997867803838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885032401:0297/pct:38.31799591002045,26.19047619047619,11.411042944785276,2.0966595593461266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5364,7 +5364,7 @@ place until the moment of the cessation of the pres- c
 cut war between the United States and England c  
 shall have ascertained their possessions. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623896:1888081801:0158/pct:61.19705340699816,73.90756302521008,11.215469613259668,11.07843137254902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623896:1888081801:0158/pct:61.19705340699816,73.90756302521008,11.221608348680173,11.097105508870214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5496,7 +5496,7 @@ Washington, fearing the French minister
 might call for the fulfilment of this guar­  
 anty anel so Involve us In the war wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665635:1896122801:0587/pct:93.87111311401532,109.11752044769695,16.40378548895899,10.452001721911321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665635:1896122801:0587/pct:70.4112676056338,81.84244511407663,12.304225352112676,7.834696513129574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5588,7 +5588,7 @@ ogous to the principal aim of the alli­
 ance. and comfortable to the rules of  
 equality, reciprocity and friendship.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0639/pct:59.72842594246918,2.524544179523142,26.835804895479722,22.873900293255133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0639/pct:59.717756341550555,2.52422233554309,26.835476956055736,22.874171341152472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

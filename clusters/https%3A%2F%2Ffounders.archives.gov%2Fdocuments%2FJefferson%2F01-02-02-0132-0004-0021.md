@@ -760,7 +760,7 @@ up the same, w hen requited, to the. Executors or Admini­
 strators of the said Cornelius Calvert, deceased ; and allowing  
 the said Samuel Coleman, to make oath and give bond ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805062001:0562/pct:71.61716171617162,62.534569708801044,21.85833968012186,3.985684073531804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805062001:0562/pct:71.5989847715736,62.52439817826936,21.859137055837564,3.989102147039688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ t le Judges of our Court of Appeals, at the Capitol in the
 t-ity ot Richmond, for cause of errour in the same to befepr­  
 rectetl, on the humble petition of James Tucket, we hiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805062201:0564/pct:48.333333333333336,13.087572440437862,21.414141414141415,6.084996780424984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805062201:0564/pct:48.321131027518305,13.085465958474167,21.41504670537743,6.088041203927249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -813,7 +813,7 @@ the Judges of our Court of Ap,eals, at the Capitol in the
 x-ity ot Richmond, for cause of errour in the same to be cor­  
 rected, on the humble petition of James Tucker, we hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805062901:0579/pct:51.414733622227885,37.854021686357015,21.692582207494265,7.703511895128662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805062901:0579/pct:51.401630988786955,37.84789644012945,21.6934250764526,7.706310679611651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ cordmgly, you altogether supersede. Which&#x27;order before
 the Judges of our Court of Appeals, at the Capitol i„ the  
 City ot Richmond, for cause oferrour in the seine to he co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805070201:0583/pct:51.28596893302775,41.67205692108668,21.7214158390629,4.382276843467012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805070201:0583/pct:51.27291242362526,41.665319320937755,21.72225050916497,4.385610347615198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,7 +857,7 @@ cordingly, you altogether supersede. Which older before
 the Judges of our Court of Appeals, at the Capitol in the  
 City of Richmond, for cause of errour in the same to be co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805070801:0591/pct:6.707162743609213,39.417004048582996,21.285750442925842,4.372469635627531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805070801:0591/pct:6.705465587044534,39.41062176165803,21.28669028340081,4.375809585492228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -881,7 +881,7 @@ cnrdmgly, you altogether supersede. Which order before
 i ic Judges of our Court of Appeals, at the Capitol in the  
 City of Richmond, lor cause of errour in the same to be cor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805071001:0592/pct:27.958656330749353,74.93104007788415,21.7312661498708,5.451890313159176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805071001:0592/pct:27.951433738052184,74.91888384166126,21.732110565745284,5.455061648280338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ tate, by reason of any omission or mis­
 take in pleading or false pleading of  
 such executor or administrator. &#x27;Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810051501:0159/pct:59.11643579183826,65.12866015971606,17.72744290527892,4.068956775256686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810051501:0159/pct:59.10537151413064,65.12040557667935,17.730363715765176,4.072665821715251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,7 +929,7 @@ sonaable that tne amount of asms wasted t
 by the executor or administrator, should  
 be ascertained by the verdict of a jury, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810051501:0160/pct:41.58527422990233,51.00791018116867,17.93764087152517,8.305690227098749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810051501:0160/pct:41.57746478873239,51.00140324020921,17.940532081377153,8.308882935748608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ I * &quot;• devisees aud legatees, ate to contribute, piupoi lion. fl
 ally, out of the parts devised and bequeathed to them, 1  
 by the will of ibe said tealatur, agreeably lo ibe act of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820061601:0054/pct:81.68138698070003,12.943155870688619,16.78115799803729,1.6584545126787646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820061601:0054/pct:81.66802943581358,12.941600576784428,16.783864813300628,1.6622606745173436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2262,7 +2262,7 @@ dispose of his moveables and personal estate,
 as he might have done before the making of  
 this act. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822082701:0553/pct:40.84607689009575,47.81498576058136,16.29269687008718,17.381911028184227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822082701:0553/pct:40.850840836549,47.818259190153526,16.297460816540422,17.381911028184227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2311,7 +2311,7 @@ dible witnesses subscribing tliftir names in
 his or her presenep.  
 $3. An act, increasing the stock of di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823032201:0110/pct:50.41876046901172,38.349172826469555,20.435510887772196,11.175642379443858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823032201:0110/pct:50.404688808261234,38.34242477564666,20.436784817192297,11.178074960408235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2391,7 +2391,7 @@ of the la»t will and te&amp;’aine&#x27;it, (or ad­
 •ministrator -or administratrix w ith the  
 will-annexed) of-- deceased, d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825033101:0479/pct:7.945145842403135,16.21212121212121,17.675228558989986,20.826446280991735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825033101:0479/pct:7.943416757344941,16.209888445117752,17.67682263329706,20.82702107147776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2443,7 +2443,7 @@ shall be given, before u r.’r i ficat* shall
 be granted, notwithstanding any direc­  
 tions to the contrary in the vvili. If a- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825033101:0479/pct:5.920766216804528,46.77685950413223,19.699608184588595,25.234159779614323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825033101:0479/pct:5.919477693144723,46.770417297892855,19.70076169749728,25.23412753064316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2486,7 +2486,7 @@ dissent from such _.ant without securi­
 ty, or his dissent 1&#x27;com tea s.iliiriRnoy  
 of the security root ived by the court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825033101:0479/pct:7.901610796691337,73.98071625344353,17.65346103613409,18.760330578512395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825033101:0479/pct:7.899891186071817,73.97052747555433,17.6550598476605,18.761189918743973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2523,7 +2523,7 @@ assents; but the executor or adminis­
 trator with the will annexed, shall apply  
 the assets legal and equitable, in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825033101:0479/pct:25.772747061384415,29.820936639118457,17.501088376142796,14.986225895316805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825033101:0479/pct:25.76713819368879,29.81682963779094,17.50272034820457,14.987605013083597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2574,7 +2574,7 @@ the wife&#x27; -( hen follow other regulations about
 the stares, &amp;c )  
 Wi h these explanations, we submit the fol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829060101:0372/pct:43.50232059978579,56.80684248039915,18.832559800071405,4.870515561891185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829060101:0372/pct:43.49455648759593,56.800095023161894,18.835147837468025,4.873896345567565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2871,7 +2871,7 @@ act of Assembly is, that the widow is entitled absolutely
 to a moiety or a third, as the case may be, ol the personal  
 estate, alter funeral debts and just expenses paid—and the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833011001:0299/pct:49.95102840352595,7.727022564667034,15.167203022247097,9.57622454595487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833011001:0299/pct:49.944040290990486,7.726172132951794,15.16974445066219,9.578839239856189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2889,7 +2889,7 @@ vise therein of chattels shall be revoked by
 a subsequent will, codicil or declaration,  
 unless the same be in writin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1833071101:0331/pct:52.96318172868675,21.376965575860602,14.510730458751723,2.2666100014166313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1833071101:0331/pct:52.95275590551181,21.373937677053824,14.512795275590552,2.2698300283286117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2913,7 +2913,7 @@ attested by two or more credible witnesses, in his or her
 presence. Such wills not to be made in derogation of  
 the rights of creditors,or o&#x27;widows renouncing the will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835032001:0435/pct:80.42400881057269,43.11038607939097,15.101872246696034,4.491571506253399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835032001:0435/pct:80.41293874741913,43.10569812962157,15.104381738930947,4.494707843990141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2941,7 +2941,7 @@ his or her presence. Such wills not to
 be made in derogation of the rights of  
 creditors, or of widows renouncing th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835040401:0117/pct:50.37110341415141,31.045477429098842,15.41316180108857,8.004698774962241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835040401:0117/pct:50.35864457086322,31.040268456375838,15.415533020034628,8.00755033557047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3285,7 +3285,7 @@ and legatees to contribute proportiombly thereto. If
 such pretermitted or posthumous child dies nnd. -rage,  
 unmarried ami without issue, the estate v. iii-.rli suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840032401:0422/pct:50.911263818344786,5.760047751691205,15.835076187630714,10.783923597294072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840032401:0422/pct:50.91624340205159,5.76336384135827,15.835076187630714,10.7905557766282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3327,7 +3327,7 @@ the amount. If, after the time shall have clapsed
 for which the estate is directed to be kept together,  
 the debts charged upon the estate by the will shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840033001:0278/pct:261.79018286814244,240.39696438995912,62.30991337824832,57.04903677758319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840033001:0278/pct:65.43494996150885,60.09047132642638,15.574480369515012,14.260178024222968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3356,7 +3356,7 @@ of the banks of this Commonwealth, passed De­
 cember 11th, 1839, extends that act until the close  
 of the present session of the General Assembly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840033001:0278/pct:261.86717998075073,297.08114419147694,62.54090471607315,30.020431990659663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840033001:0278/pct:65.45419553502694,74.25944841675178,15.632217090069284,7.504012841091493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3392,7 +3392,7 @@ time shall have elapsed for which (be ea­
 ute is directed to be&#x27;kept together, the  
 debts charged upon the estate by the wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1840040201:0471/pct:83.22465915826912,38.450753592709425,12.877889745109663,11.508353779647155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1840040201:0471/pct:83.2123277522596,38.44626168224299,12.880920630216822,11.510903426791277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3433,7 +3433,7 @@ had died intestate, the devisees end lega­
 tees to contribute propoitionably thereto.  
 I (&#x27;such preternutted or posthumous chil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840040901:0479/pct:79.87251303843925,20.60810810810811,15.02800849913077,15.77027027027027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840040901:0479/pct:79.8570876786404,20.605323604918254,15.029934337582079,15.771517362518578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4237,7 +4237,7 @@ tablished, so much of such share as shall j
 lot exceed .he devise or bequest to him,  
 shall be saved to him; and tho devic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85042199:00296026670:1852060201:0341/pct:110.32293178519593,101.02927416120839,16.364296081277214,9.062959497393397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85042199:00296026670:1852060201:0341/pct:82.77676950998185,75.7786392193557,12.286751361161524,6.790536024595642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4265,7 +4265,7 @@ sn.rens shall not exceed the bequest or de
   
 vise to him shall be saved to htm; and ttie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1852060301:0199/pct:7.730147575544624,77.10003943736032,16.654954321855236,9.451820691468384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1852060301:0199/pct:5.7986294148655775,57.82831602471408,12.51098225267967,7.085579071907453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4299,7 +4299,7 @@ n... ..,u;u chr.il h iripH Iw a iurv. whose bv her subsequent marriage
   
 v..t,n shull be final between the parties, Skc. 38. , if the testator had no children
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1852060301:0199/pct:24.27969079409698,9.688444853424478,50.808151791988756,10.989877744182989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1852060301:0199/pct:18.22175364610789,7.269620086762193,38.11280969952556,8.242408308137241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4410,7 +4410,7 @@ verdict shall be final between the oarties,
   
 :&#x27;&#x27; unless the court shall grant a new trial, or th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026203:0029602756A:1852061101:0475/pct:6.867671691792295,35.01431102630503,20.540201005025125,3.993457816546272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026203:0029602756A:1852061101:0475/pct:5.152911604524507,26.264140656944257,15.416841223292836,2.998500749625187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4431,7 +4431,7 @@ died intestate; towards raising which portion,
 the devisees and legatees shall equally contri­  
 bute, in proportion to the value of, what the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026203:0029602756A:1852061101:0475/pct:28.182579564489114,43.069374403707236,18.73953098827471,4.334196538094589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026203:0029602756A:1852061101:0475/pct:21.15626309174696,32.30203080278043,14.055299539170507,3.257462178001908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4487,7 +4487,7 @@ not established, so much of such share as
 shall not exceed the bequest or devise to him,  
 shall be saved to him; and the devises an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn85026051:00296027029:1852061901:0384/pct:41.177536231884055,96.45245710962489,16.77536231884058,8.287292817679559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn85026051:00296027029:1852061901:0384/pct:30.89887640449438,72.3466123873219,12.595143167814426,6.222739168362896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4524,7 +4524,7 @@ of the court, dead or have become in compe­
 tent since the probate, shall be admitted in  
 evidence upon such trial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn85026051:00296027029:1852061901:0384/pct:58.405797101449274,40.564117476010466,17.028985507246375,16.2547252108171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn85026051:00296027029:1852061901:0384/pct:43.82022471910113,30.430357662111078,12.79449075752084,12.198313463216051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4554,7 +4554,7 @@ pass by the will ; Provided, that if such child,
 supposed to be dead at the time of the execu­  
 tion of the will, shall have a child or children
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn85026051:00296027029:1852061901:0384/pct:75.83333333333333,85.86798487932539,16.865942028985508,11.180575748764175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn85026051:00296027029:1852061901:0384/pct:56.904675607104025,64.40825821459727,12.649510692279812,8.389066589124745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4573,7 +4573,7 @@ i ,; writing produced be , the last wi&#x27;l of, the
 jury, whose verdict shall be final between  
 the parties&#x27;, unless the( court shall gran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1852062501:1099/pct:6.6182937554969214,89.71317014566752,19.744942832014072,4.144766481453671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1852062501:1099/pct:4.970310094567847,67.2923862441808,14.822960193534199,3.1085748610902537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4668,7 +4668,7 @@ equally contribute, in proportion to the
 value of what they shall respectively re­  
 ceive under the will, unless, in cons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1852072801:1059/pct:30.378726833199032,28.386167146974064,18.896051571313457,7.1469740634005765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1852072801:1059/pct:22.79782301955251,21.296829971181555,14.19068736141907,5.360230547550432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4704,7 +4704,7 @@ valid unless it be in writing and signed by
 the testator, or by some other person, in his  
 presence and by his direction, in such man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853113001:0568/pct:33.06122448979592,79.86111111111111,12.440106477373558,1.7083333333333333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1853113001:0568/pct:33.055358410220016,79.85002083044022,12.442334989354151,1.7115678378003054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4843,7 +4843,7 @@ The form of the bond shall be joint and
 several, and the penalty shall not be less  
 than twice the value of the estate; whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1854060301:0069/pct:13.019787783194722,36.545938203396766,204.01491253226268,249.3145078780438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1854060301:0069/pct:4.339929261064908,12.181979401132256,68.00497084408757,83.10483595934792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5041,7 +5041,7 @@ by some other person in his presence and
 by his direction, in such manner as to  
 m:ike it manifest that the name is intend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1856012301:0020/pct:43.058491895701195,78.73791927231382,13.865398167723749,3.0557134735645253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1856012301:0020/pct:43.07170542635659,78.74147242751563,13.865398167723749,3.073479249573621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5301,7 +5301,7 @@ or parent, be exempt from being taken under execn­
 tion for his debts, and the same shall not be taken  
 into account by the administrator or executor of sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024660:00414184777:1866010501:0115/pct:85.47717842323651,76.60142348754448,34.8686030428769,26.1071569790431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024660:00414184777:1866010501:0115/pct:28.48845249619693,25.531283977463676,11.62126031438713,8.701525485156996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5335,7 +5335,7 @@ own motion and accord,&quot; cite the adminis­
 trator to appear, and require of him the per­  
 formance of the duty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016892:00295878782:1866030901:0538/pct:47.08597807270629,30.473403699446127,47.31679169070975,26.753056745741457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016892:00295878782:1866030901:0538/pct:11.771494518176572,7.618350924861532,11.829197922677437,6.688264186435364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5356,7 +5356,7 @@ in the slaves--whether designated by the term dower or other
 phrase--partakes of theInature of personalty, and is to ad­  
 ministered and distributed upon principles applicable to tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293599:1866072501:0136/pct:328.18232351306284,227.94394478142647,49.91662034463591,8.533779544028446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293599:1866072501:0136/pct:82.06839032527105,56.98598619535662,12.482624409229913,2.1334448860071116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5540,7 +5540,7 @@ oath, setting forth his or their interest in said
 estate, and stating that he o.&#x27; they verily be­  
 lieve a bond to be necessary for the eventua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877492:1878040301:0519/pct:76.19900771775083,105.19339417644503,19.211686879823596,13.646240764884833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877492:1878040301:0519/pct:57.1605789110958,78.90047805302042,14.417643004824258,10.234680573663624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5604,7 +5604,7 @@ ments must be in writing, signed by the tes­
 tator or by some other person in his pres  
 sence and by his express direction, and sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044747:1880040401:0169/pct:79.3180133432172,17.852328890220157,99.70348406226834,371.10977984124605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044747:1880040401:0169/pct:19.8295033358043,4.463082222555039,24.925871015567086,92.77744496031151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5785,7 +5785,7 @@ portion from the devisees and legatees in propor­
 tion to and out of the parts devised and bequeathed  
 to them by such will. 2d. A will executed by a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958290:1887032001:0004/pct:8.232532948185593,53.97402597402598,11.753024011554432,3.1818181818181817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958290:1887032001:0004/pct:8.232532948185593,53.97727272727273,11.766564361798158,3.1915584415584415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

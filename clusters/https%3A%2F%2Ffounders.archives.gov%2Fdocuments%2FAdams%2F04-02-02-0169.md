@@ -151,7 +151,7 @@ nake a goed use of it. If you do net, I
 shall repent in Heaven that 1 have ever  
 tuken half the pains to procure it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152792:1855032201:0470/pct:42.590642395065444,38.52202951632015,12.426658642996841,3.51179575568243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152792:1855032201:0470/pct:42.59565718870668,38.525620309526374,12.441703023920565,3.51179575568243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ UBe of it. If you do not, I shall repent in Hea­
 ven that I. havo ever taken half the pains to  
 procure it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855062101:0424/pct:62.850467289719624,58.6282331746236,15.959741193386053,3.603139879037447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855062101:0424/pct:47.159295217547644,43.9711748809677,11.974110032362459,2.702354909278085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ use of it. If you do not; I shall repent
 in heaven that I havByer taken half the  
 rjains to procurer il.&#x27;V: T; &quot; . y
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855080401:0124/pct:93.14681724845995,134.86611789194816,16.478439425051334,5.941905572901883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855080401:0124/pct:62.126075234304786,89.9138991389914,10.989857491333932,3.9644242596272115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ hope you will make good use of it. If you do not,
 I shall repent in Heaven that I ever took half the  
 pains to procure it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1861062201:0002/pct:30.64204045734389,6.2822611104116834,12.031662269129287,2.593478534558731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1861062201:0002/pct:30.646437994722955,6.288555961223719,12.02726473175022,2.6029208107767845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ hope you will make good use of it. If
 you do not, I shall repent in Heaven that  
 I ever took half the pains to preserve it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202193419:1876061701:0583/pct:1.5031645569620253,69.71631205673759,12.104430379746836,3.2624113475177303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202193419:1876061701:0583/pct:1.516350210970464,69.72517730496453,12.111023206751055,3.266843971631206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -2888,7 +2888,7 @@ and another man take her,&quot;9 ieeuninqetta.
 &quot;When a man hath taken a hew wife, he  
 shall not go out to war neither shall he b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn82015209:00212470168:1863050801:0094/pct:104.03292181069959,215.8360738679484,65.59670781893004,23.52643561851758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn82015209:00212470168:1863050801:0094/pct:26.013583041778144,53.9590184669871,16.402551965424983,5.881608904629395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2911,7 +2911,7 @@ another man take her.&quot;
 &quot;When a man hath taken a new wife, he shall  
 not go out to war, neither shall he be charge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777997:1863052201:0271/pct:162.91342054975746,188.3435582822086,37.64515654858151,12.603594876762457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777997:1863052201:0271/pct:54.30447351658582,62.78118609406953,12.548385516193836,4.201198292254153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2933,7 +2933,7 @@ her.&quot;
 When a man hat it taken a new wife, he shall not  
 go cut li war neither shall he be charged with an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1863052801:0087/pct:89.1459074733096,93.00283009661365,20.157600406710728,5.113691812237728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1863052801:0087/pct:66.87428498792424,69.7570020493803,15.113766365831957,3.835268859178296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3002,7 +3002,7 @@ another man take her.&quot;
 &quot;When?? man hath taken a now wife, he  
 .shall not go out to war, neither shall he b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042595:00415620305:1863060501:0289/pct:3.100202989481454,67.11729110338612,25.26296364642923,7.621990472511909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042595:00415620305:1863060501:0289/pct:3.1063541858891552,67.12158276468821,25.26296364642923,7.626282133814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3024,7 +3024,7 @@ The second reference disclosed
 &quot;When a man hath taken a eis e, At  
 I thall not go out to war, neither shall he b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296539:1863061001:0155/pct:203.1114952463267,361.18836915297095,55.92048401037165,15.929203539823009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296539:1863061001:0155/pct:50.77787381158168,90.29709228824274,13.980121002592913,3.982300884955752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3095,7 +3095,7 @@ another man take her.”
 “When a man hath taken a new wife he  
 shall not go out to war, neither shall he b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:0051415935A:1863081101:0657/pct:29.03551833670228,50.10841283607979,13.066705168928674,4.293148308759757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:0051415935A:1863081101:0657/pct:29.03551833670228,50.10841283607979,13.076330734430648,4.300375831165077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3207,7 +3207,7 @@ there returned of the people twenty and two thousand,
   
 and there remained ten thousand. And the Lord sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1864042201:0165/pct:115.55690072639226,349.3349603416718,43.644067796610166,15.277608297742526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1864042201:0165/pct:28.897971541023313,87.33374008541794,10.914320314865273,3.8194020744356316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3425,7 +3425,7 @@ from Mount Gilead. And there returned of the
 people twenty and two thousand, and there re­  
 mained ten thousand.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871010901:0102/pct:62.33066753713073,150.5265567765568,47.511016810837276,20.55860805860806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871010901:0102/pct:20.77688917904358,50.17551892551892,15.837005603612425,6.8528693528693525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3475,7 +3475,7 @@ brethren&#x27;s heart faint as well as his
 heart.&quot;  
 The preacher defined the Hebrew word
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293034:1871031301:0281/pct:224.0023823704586,94.90504863362668,38.47528290649196,9.865678554886522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293034:1871031301:0281/pct:56.01727733095025,23.72626215840667,9.621686029192732,2.4664196387216304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3926,7 +3926,7 @@ faint-hearted return to his own homo lest:
 his brethren&#x27;s heart faint as well as his  
 heart.&quot; Golden Rule
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473030:1883041201:0146/pct:118.94913359418669,119.88588334742181,20.458356623812186,5.262045646661031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473030:1883041201:0146/pct:79.33734097581434,79.92392223161454,13.64462463302111,3.508030431107354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3947,7 +3947,7 @@ faint-hearted return to his own home lest
 his brethren&#x27;s heart faint as well as his  
 heart.&quot;—Golden Rule
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625054:1883041401:0034/pct:77.50650390234141,100.45548654244307,17.37042225335201,4.513457556935818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625054:1883041401:0034/pct:62.00971236458722,80.37101107880305,13.901488873472438,3.6070521550296295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4193,7 +4193,7 @@ passages!
 The vast strides made in fruit growing&#x27;  
 and vine culture in the past few year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551128:1885082701:0171/pct:38.40402392604676,41.12112896903175,12.234910277324634,7.722461779694237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551128:1885082701:0171/pct:38.40855537429763,41.12439566183196,12.243973173826355,7.728995165294656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4219,7 +4219,7 @@ eaten of it? Let bim also go and retnrn
 unto his bouse, lest he dio In the battle  
 and another man eat of it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026965:00294551190:1885082702:0667/pct:38.02213001383126,39.8352260075707,11.950207468879668,5.811623246492986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026965:00294551190:1885082702:0667/pct:38.031350852927616,39.842648259481926,11.94559704933149,5.811623246492986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4471,7 +4471,7 @@ be molested or piudlced for bis or
 her Concientious Persuasion or Prac­  
 tices nor shall be or she at any tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280143:1890072701:0286/pct:35.649087221095336,61.32710537161698,14.705882352941176,10.125017172688556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280143:1890072701:0286/pct:26.75460848976831,45.99532902871274,11.04346355487908,7.597197417227641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4665,7 +4665,7 @@ ering cowards of his army, “Whosoever
 is fearful and afraid let him return and  
 depart early from Mount Gilead.” Clos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182100:1893100901:1190/pct:40.355233002291826,111.78652968036529,16.348357524828113,2.8110730593607305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182100:1893100901:1190/pct:31.280836787053484,86.64110881745798,12.6850207223209,2.1748746682394575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4684,7 +4684,7 @@ ards of his army. &quot;Whosoever is fear­
 ful and afraid, let him return and depart  
 early from Mount Gilead.&quot; Close up th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063954:0028076033A:1893100901:0361/pct:171.34052388289678,309.95645863570394,50.38520801232666,11.088534107402031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063954:0028076033A:1893100901:0361/pct:42.8433827778848,77.48911465892598,12.598728568676556,2.772133526850508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4703,7 +4703,7 @@ ards of his army. &quot;Whosoever is fear­
 ful and afraid, let him return and depart  
 early from Mount Gilead.&quot; Close up th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196421:1893100901:0749/pct:71.94277108433735,102.82976324689966,19.17168674698795,3.765501691093574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196421:1893100901:0749/pct:53.977101536607414,77.12514092446449,14.386863513106357,2.829763246899662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4725,7 +4725,7 @@ Lift the Gospel standard. Forward
 Into this Armageddon that is now open­  
 ing and let the word run all along th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_holt_ver01:data:sn86092518:00414186749:1893100901:0219/pct:43.744692895556184,83.53160947792745,12.510614208887631,3.873758725789008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_holt_ver01:data:sn86092518:00414186749:1893100901:0219/pct:43.738502900806566,83.52339756193473,12.513560681099948,3.8766548695766154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4763,7 +4763,7 @@ ards of his army. &quot;Whosoever is fear­
 ful and afraid, let him return and depart  
 early from Mount Gilead.&quot; Close up th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762719:1893101201:0403/pct:54.562634989200866,23.570733816059658,13.917386609071274,3.026045606830217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762719:1893101201:0403/pct:40.94530722484807,17.680752188479413,10.438892640108035,2.269534205122663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4782,7 +4782,7 @@ army. &quot;Whosoever is fearful and afraid,
 let him return and depart early from Mount  
 Gilead.&quot; Close up the ranks. Lift th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029178:1893101201:0344/pct:54.65210355987055,11.576285473447598,16.262135922330096,3.1188536105647655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029178:1893101201:0344/pct:41.01578308377175,8.682214105085698,12.201537838931607,2.3461646529924134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4801,7 +4801,7 @@ army. &quot;Whosoever is fearful and afraid, let
 him return and depart early from Mount  
 Gilead.&quot; Close up the ranks. Lift the gos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776592:1893101201:0880/pct:127.71693344566133,251.1435738527372,57.877000842459985,8.971521322118932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776592:1893101201:0880/pct:31.94268857985672,62.7858934631843,14.47534766118837,2.242880330529733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4820,7 +4820,7 @@ army, &quot;Whosoever is fearful and afraid,
 let him return and depart early from Mount  
 Gilead.&quot; Close up the ranks. Lift th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893101201:0492/pct:166.90251572327045,84.45945945945945,50.62893081761006,10.012285012285012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893101201:0492/pct:41.73383133477492,21.114864864864863,12.659720857086691,2.503071253071253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4858,7 +4858,7 @@ army. “Whosoever is fearful and afraid. let
 him return and depart early from Mount  
 Gilead.&quot; Close up the ranks. Lift the gos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1893101301:0110/pct:50.849327156408556,51.92994388709403,10.611074343701743,1.8534262880462506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1893101301:0110/pct:50.838112042346715,51.92111526691601,10.614247904719894,1.8573614416865012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4877,7 +4877,7 @@ ards of his army. “Whosoever is fear­
 ful and afraid, let him return and depart  
 early from Mount Gilead.” Close up th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn92064044:00514153024:1893101301:0329/pct:58.52950326661827,58.28922132719601,12.30944726744789,2.7080935941695436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn92064044:00514153024:1893101301:0329/pct:58.52950326661827,58.2917785449431,12.31636074527291,2.7080935941695436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4896,7 +4896,7 @@ shivering cowards of his army, &quot;Whoso­
 ever is fearful and afraid, let him return  
 and depart early from Mount Gilead.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063544:0033289982A:1893101301:0578/pct:64.69926925238899,22.14170692431562,17.762788083192806,2.4499654934437545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063544:0033289982A:1893101301:0578/pct:64.70863781150459,22.144582470669427,17.772156642308413,2.458592132505176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4935,7 +4935,7 @@ ards of his army. &quot;Whosoever is fear?
 ful and afraid, let him return and depart  
 early from Mount Gilead.&quot; Close up th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ivory_ver01:data:sn94060041:00175033993:1893101401:0497/pct:86.07229647630619,51.57564203207357,11.846901579586877,2.8148480430638108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ivory_ver01:data:sn94060041:00175033993:1893101401:0497/pct:86.08242203321183,51.58311838809764,11.841838801134063,2.8148480430638108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5032,7 +5032,7 @@ to the shivering cowards of his army:
 let him return and depart early  
 from Mount Gilead.&quot; Close up th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn89058007:00296020473:1893102001:0745/pct:59.9399235390497,99.89651247024733,15.729109776078646,3.7565973300217324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn89058007:00296020473:1893102001:0745/pct:44.967909326778646,74.92497154092932,11.798443260958624,2.8252095622477493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5051,7 +5051,7 @@ army. &quot;Whosoever is fearful and afraid, let
 him return and depart early from Mount  
 Gilead.&quot; Close up the ranks. Lift the gos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_styx_ver01:data:sn95079246:00175032277:1893102001:0169/pct:43.94716394716395,41.33575939205823,13.37995337995338,2.269078454457883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_styx_ver01:data:sn95079246:00175032277:1893102001:0169/pct:43.94716394716395,41.33575939205823,13.385133385133384,2.2797816547147596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5071,7 +5071,7 @@ to the shivering cowards of his army:
 let him return and depart early  
 from Mount Gilead.” ( lose up th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768941:1893102001:0576/pct:31.062924038845285,54.74488783005757,12.026074231741386,2.92833035537026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768941:1893102001:0576/pct:31.06735843199858,54.74488783005757,12.026074231741386,2.9382568989477864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5090,7 +5090,7 @@ irmy. &quot;Whosoever is fearful and afraid, let
 him return and depart early from Mount  
 Gilead.&quot; Close up the ranks. Lift the gos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn86053634:00212478039:1893102501:0583/pct:40.83005249343832,30.581637976004174,14.009186351706036,2.4517475221700575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn86053634:00212478039:1893102501:0583/pct:30.64172000656491,22.939488784559206,10.520269161332676,1.838810641627543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5171,7 +5171,7 @@ is earful and faint-hearted ? let him go
 and return unto his house, lest his oretli  
 reu&#x27;a heart fufnt at well as his heart.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_fisher_ver01:data:sn91068305:00296024235:1894031901:0275/pct:31.65938864628821,18.514634378873104,18.736353711790393,4.728763466488703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_fisher_ver01:data:sn91068305:00296024235:1894031901:0275/pct:23.75102375102375,13.890742682810563,14.05951405951406,3.546572599866527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5244,7 +5244,7 @@ expressed the thought as Gideon did :
 return and depart early from Mount  
 Gilead.” The form of expression, how
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1895042501:0069/pct:14.021060842433698,58.90949971894322,11.310452418096723,2.1922428330522767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1895042501:0069/pct:14.01832715929031,58.90122242517915,11.313121466172744,2.1954475200224812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5309,7 +5309,7 @@ and return unto his hou-e, lest his
 brethren’s heart faint as well as his  
 heart.&quot;—Deut. xx. 8. This in turn wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1895110901:0456/pct:83.52460610776113,36.713236353161456,12.760163392336121,3.9752268471842145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1895110901:0456/pct:83.50836250486192,36.70794930875576,12.762543757292882,3.978254608294931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5354,7 +5354,7 @@ faint as well as his heart.&quot; Tho coward
 was not to enter battle lest ho should  
 infect others with his cowardice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897110301:0806/pct:68.15318302387269,22.038385175380544,21.982758620689655,7.3902492830355175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897110301:0806/pct:45.456053067993366,14.692256783587029,14.660033167495854,4.930509596293845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5392,7 +5392,7 @@ well as hie heart.&quot; &#x27;We say an unkind
 thine,and another is hindered In learning  
 the holy lesson of charity that thirket
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_inspector_ver01:data:sn90052410:00414182471:1898041701:0164/pct:65.90090090090091,40.78700811992505,18.13063063063063,6.089943785134291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_inspector_ver01:data:sn90052410:00414182471:1898041701:0164/pct:51.07348577413161,31.61758773699072,14.074591260836678,4.72367890278338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5478,7 +5478,7 @@ hath not taken her? let him go and return
 unto his house, lest he die in the battle  
 and another man take her.” Great armie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182240:1898051601:0180/pct:4.530627038782168,24.12095639943741,12.522653135193911,8.382559774964838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182240:1898051601:0180/pct:4.536667874833877,24.12095639943741,12.52869397124562,8.391936240037506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5507,7 +5507,7 @@ bath not taken her. Let him go and re­
 turn nutothis house, lest he die in the  
 battle and another man take her.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196457:1898051601:0172/pct:8.106884057971014,33.736544223726554,19.882246376811594,11.308400843413606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196457:1898051601:0172/pct:6.084855805526197,25.30240816779492,14.917711007096482,8.489623793141716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5568,7 +5568,7 @@ taken her? let him go and return
 unto his house, lest he die in the  
 battle, and another, man take her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028272:0029602806A:1898051801:0380/pct:9.636517328825022,32.11133740665309,18.23753169907016,11.079429735234216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028272:0029602806A:1898051801:0380/pct:7.2319729329668005,24.086897488119483,13.702685557200255,8.309572301425662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5598,7 +5598,7 @@ her? Let him go und return unto his
 house, lest he die in the battle and  
 another mun take her.” (ireat armie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187316:1898051801:1591/pct:2.5624496373892023,20.749553837001784,12.812248186946011,7.888161808447353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187316:1898051801:1591/pct:2.5620367386400256,20.747085415179633,12.81555483940273,7.891188833372987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5627,7 +5627,7 @@ hath not taken her. .Let him go and re
 turn nnto his bonse, lest he die in the  
 battle and another man take her.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:0027176358A:1898051901:0097/pct:7.012020606754437,29.63630221821867,13.981110475100172,9.39083436549938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:0027176358A:1898051901:0097/pct:5.267678213569997,22.227226663664002,10.492413398225022,7.048755770746538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5659,7 +5659,7 @@ anotlu-r man take her.&quot; tireat armies
 marched and fought. Ill time of  
 Moses and Jodma all the men wor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn86069620:00212474629:1898051901:0489/pct:54.71092077087794,28.639240506329113,14.453961456102784,10.469409282700422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn86069620:00212474629:1898051901:0489/pct:41.064095697196926,21.479430379746834,10.837350473129797,7.858649789029536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5720,7 +5720,7 @@ lie die in the battle and another man
 take her.&quot; Groat armies marched and  
 fought. In the lime of Moses an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:0023728530A:1898052001:0209/pct:6.078610603290676,39.18222794591114,18.921389396709323,13.039278815196393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:0023728530A:1898052001:0209/pct:4.571428571428571,29.394719896973598,14.194285714285714,9.787508048937541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5750,7 +5750,7 @@ her? Let him go and return unto his
 house, lest he die in the battle and  
 another man take her.&quot; Great armie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1898052001:0872/pct:120.62750333778371,87.44161909704204,41.989319092122834,27.919045147898288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1898052001:0872/pct:30.156875834445927,21.86040477426051,10.497329773030708,6.979761286974572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5781,7 +5781,7 @@ ouse, lest he die in l he battle and
 another man take her.&quot;&#x27; Great armies  
 marched anil fought. In time o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_iron_ver01:data:sn86069201:00280763664:1898052001:0087/pct:69.96855345911949,16.250732278851785,17.735849056603772,12.337434094903339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_iron_ver01:data:sn86069201:00280763664:1898052001:0087/pct:46.65827960371128,10.837727006444053,11.825758767101746,8.224956063268893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5811,7 +5811,7 @@ and return unto his house, lest he die
 in the battle and another man take  
 her.&quot; Great angles marched an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_baldwin_ver01:data:sn98066406:00296023346:1898052001:0460/pct:32.64248704663213,36.60673645880747,20.514896373056995,13.484296768320437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_baldwin_ver01:data:sn98066406:00296023346:1898052001:0460/pct:21.768707482993197,24.40828402366864,13.686426951733074,8.989531178880291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5840,7 +5840,7 @@ hath not taken her? Let him go and
 return unto his house, lest he die in  
 the battle and another man take her.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_green_ver01:data:sn91068367:00296024260:1898052001:0321/pct:9.600656455142232,31.183011118902133,18.462800875273523,9.175598517479715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_green_ver01:data:sn91068367:00296024260:1898052001:0321/pct:7.210288685182651,23.389762596413902,13.85962511971542,6.881698888109787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5869,7 +5869,7 @@ hath not taken her. Let him go and re­
 turn unto his house, lest he die in the  
 Skttle and another man take her.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_harveycedars_ver02:data:sn85035776:00513685609:1898052001:0081/pct:3.452029233400715,24.842153598897944,9.827398538329964,6.48605211801171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_harveycedars_ver02:data:sn85035776:00513685609:1898052001:0081/pct:3.451492537313433,24.839302112029383,9.829757462686567,6.48817722681359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5898,7 +5898,7 @@ hath not taken her. Let him go and re
 turn nnto his house, lest he die iu the  
 battle and anotnet man tako h?r.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:0017503402A:1898052001:0285/pct:62.10201429499675,29.497907949790793,11.647173489278753,7.461645746164574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:0017503402A:1898052001:0285/pct:62.112843837990035,29.50178211684488,11.64175871778211,7.465519913218658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5927,7 +5927,7 @@ hath not taken her. Let him go and re­
 turn unto his house, lest he die in the  
 battle and another man take her.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn85038102:00202194898:1898052001:0515/pct:11.919748229740362,34.511666899538916,17.604248623131394,10.926365795724466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn85038102:00202194898:1898052001:0515/pct:8.954930131863806,25.890736342042754,13.206061798858492,8.20176051418192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5998,7 +5998,7 @@ lest he die in the battle and another
 man take her.” Great armies marched  
 ■and fought. In the time of Moses an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688672:1898052101:0675/pct:8.243306716768435,25.327102803738317,16.744950681070925,10.919003115264797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688672:1898052101:0675/pct:8.251135118208861,25.33748701973001,16.752779082511353,10.919003115264797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6058,7 +6058,7 @@ he die in the battle and another man
 take her.&quot; Great armies marched and  
 fought. In the time of Moses an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn93060416:00294556436:1898052101:0508/pct:25.27267508610792,33.12348668280872,12.428243398392652,9.782082324455207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn93060416:00294556436:1898052101:0508/pct:18.966259870782483,24.84261501210654,9.332376166547022,7.336561743341404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6119,7 +6119,7 @@ hath not taken her. Lot him go and ro­
 turn unto his houso, lest ho die in tho  
 battle and another man take her.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ivory_ver01:data:sn94060041:00175031224:1898052101:0281/pct:39.30703159120687,29.071729957805907,11.58829523948173,7.415611814345992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ivory_ver01:data:sn94060041:00175031224:1898052101:0281/pct:39.31673703110594,29.078762306610408,11.58829523948173,7.415611814345992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6149,7 +6149,7 @@ and return unto his house, lest he die
 in the battle and another man take  
 her.&quot; Great armies marched an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_avocado_ver01:data:sn85042303:00200295353:1898052201:0606/pct:26.821608040201006,31.208003583694193,19.430485762144052,12.34881290129909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_avocado_ver01:data:sn85042303:00200295353:1898052201:0606/pct:20.13408757594804,23.41346871733612,14.582023884349466,9.257876661191577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6179,7 +6179,7 @@ go and return unto his house, lest he
 die in the battle and rnother man take  
 her.&quot; Great armies marched an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550604:1898052501:0451/pct:1.5092230296254892,18.504486540378863,12.548910005589715,7.876370887337986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550604:1898052501:0451/pct:1.513881125395938,18.507809903622466,12.553568101360163,7.883017613825191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6209,7 +6209,7 @@ go and return unto his house, lest he
 die in the battle and another man take  
 her.&quot; Great armies marched an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237288385:1898052501:0136/pct:0.5089706069474488,19.819737800437,16.41430207405522,7.529133284777859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237288385:1898052501:0136/pct:0.5089706069474488,19.82580723476572,16.418543495779787,7.529133284777859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6307,7 +6307,7 @@ and return unto his house, lest he die
 in the battle and another man take  
 her.&quot; Great armies marched an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767852:1898052601:0179/pct:5.468248877485568,23.929983060417843,13.742783835792174,8.797289666854883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767852:1898052601:0179/pct:5.47893949112679,23.929983060417843,13.737438528971563,8.801054018445322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6339,7 +6339,7 @@ lest he die lu tiie battle and another
 man take her.&quot; Great armies marched  
 and fought. In the time of Moses an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898052601:0523/pct:8.035355564483728,37.01459652988157,18.260345520289274,12.875240980446158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898052601:0523/pct:6.227296315516346,28.68983671872221,14.172288531395953,9.981857635800932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6374,7 +6374,7 @@ nun tnlf,. her.&quot; Great armies marched
   
 .l fnuirht. In the time of Moses and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn86074075:00415662361:1898052701:0552/pct:11.561382598331347,34.85113835376532,23.599523241954707,14.185639229422067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn86074075:00415662361:1898052701:0552/pct:8.676207513416816,26.147110332749563,17.71019677996422,10.630472854640981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6404,7 +6404,7 @@ battle and another man take her.&quot; Great |
 armies mure hod and fought, In the time : t  
 or Moses and Jtishua all the men wore soi- , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_flopeye_ver01:data:sn93067853:00295861447:1898052701:0700/pct:57.780082987551864,17.66217870257038,15.767634854771785,7.73561811505508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_flopeye_ver01:data:sn93067853:00295861447:1898052701:0700/pct:57.78502272278206,17.6703386372909,15.762695119541593,7.731538147694819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6466,7 +6466,7 @@ battle ami another man take her.&quot; Great
 armies man-lied and fought. In the tint  
 of Mose- and Joshua all the nieu were sol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1898052701:0742/pct:27.007575757575758,22.846955567745475,15.700757575757576,8.488754799780581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1898052701:0742/pct:20.27667235171499,17.14207350521119,11.78700018950161,6.363137685134394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6536,7 +6536,7 @@ A wife andehath not taken her? Let him
 go and retarn unto his house, lest he die in  
 battie anl asother man take her.” Grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898052801:0344/pct:13.73054426489541,14.429023985518178,10.86547040745514,5.166691808719264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898052801:0344/pct:13.73715343180992,14.431538190777895,10.868774990912396,5.1692060139789815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6564,7 +6564,7 @@ a wife and hath not taken her? Let him
 KO and return uuto his house, lest he die in  
 battle and another man take her.&quot; Grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86053634:00212478052:1898060101:0075/pct:96.47651006711409,30.215253786872175,14.412751677852349,6.909380813180973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86053634:00212478052:1898060101:0075/pct:72.39006377979187,22.668083975551422,10.808996307485733,5.182035609885729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6657,7 +6657,7 @@ and return unto his house, lest he die
 in the battle and another man take  
 her.&quot; Great armies marched an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294282:1898060201:0367/pct:34.894613583138174,89.45876636523147,47.07259953161593,32.39303549736807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294282:1898060201:0367/pct:8.728763913298184,22.364691591307867,11.775043936731107,8.098258874342017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6686,7 +6686,7 @@ and hath not Uikea ber? Let him go and
 return unto his house, lest he die in the  
 battle and another man take her.&quot; Grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2018270201:0027952813A:1898060901:0470/pct:11.834319526627219,43.55471588431914,18.047337278106507,10.013079494259555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2018270201:0027952813A:1898060901:0470/pct:8.88137026855572,32.66967010608923,13.554662719390992,7.513442813544543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6714,7 +6714,7 @@ a wife and hath not taken her? Let him
 go nnd return unto his house, lest he die In  
 battle and auother mau take her.&#x27;&#x27; Grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898060901:0179/pct:4.84472049689441,18.942667819072312,14.244306418219463,6.021319504465572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898060901:0179/pct:4.858523119392685,18.942667819072312,14.244306418219463,6.035724575050418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6774,7 +6774,7 @@ lest he die in the battle and another
 maw take her.&quot; Great armies marched  
 and fought. In the time of Moses an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021209:1898061101:0601/pct:67.60416666666667,34.62819089900111,17.916666666666668,12.62486126526082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021209:1898061101:0601/pct:50.729470612755314,25.971143174250834,13.443101292205085,9.47558268590455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6869,7 +6869,7 @@ go and return unto his house,
 lest be die in the battlo nnd another  
 niiiu take her.&quot; Great armies marche
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020448:1898062401:0417/pct:42.661230541141585,26.882707950669115,15.622683469236472,11.16504854368932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020448:1898062401:0417/pct:32.01705598813496,20.16531094200997,11.71672228401928,8.370506428758857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

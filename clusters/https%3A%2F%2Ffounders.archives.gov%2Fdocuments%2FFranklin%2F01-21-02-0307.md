@@ -257,7 +257,7 @@ then
 ?joice in a happy  
 ^-conciliation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839062201:0962/pct:65.59410088821853,84.0117994100295,15.384615384615385,7.539823008849558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839062201:0962/pct:65.6052734484107,84.0196656833825,15.3790291045193,7.543756145526057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ then
 juice in a happy  
 L -conciliation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1839081701:0412/pct:90.83195364238411,75.76416247792419,20.736754966887418,11.886971878820813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1839081701:0412/pct:68.1432415648934,56.82651813612281,15.566135375698613,8.925417742154599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ with the foluatary grant of the colonics,
 joice in a lappy  
 Cconciliation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874430:1840101001:0185/pct:206.2958435207824,228.91689373297004,41.21332518337408,40.974114441416894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874430:1840101001:0185/pct:68.76528117359413,76.30563124432334,13.737775061124694,13.658038147138965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ Re-quire, and
 Re-ceive payment for the destroyed  
 tea, and then
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:0020219137A:1857061901:0344/pct:69.84924623115577,224.42641017934073,43.165829145728644,46.28794709948903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:0020219137A:1857061901:0344/pct:17.4667001759236,56.106602544835184,10.794169389293792,11.571986774872258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ Re-quire and
 Re-eeive pay ment for the destroyed lea,  
 and then
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857071101:0113/pct:41.106538637402835,38.574594657646095,12.757201646090534,10.33477195847428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857071101:0113/pct:41.11669969008789,38.574594657646095,12.747040593405476,10.342548310587503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ then
 Re-juice in z happy  
 Re-conciliation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1857101601:0526/pct:3.4170697456701515,78.94365368780143,14.354813543454517,10.786966239265968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1857101601:0526/pct:3.4170697456701515,78.95149590244284,14.375617621053726,10.783045131945261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ the voluntary grants of the Cuis.uics aud thui
 Ilc-joice in a happy  
 Ke conciliation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776166:1864112601:0574/pct:38.99406087602079,72.96161389745026,16.870824053452115,8.994115998879238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776166:1864112601:0574/pct:29.26648096564531,54.7212104230877,12.66480965645311,6.752591762398431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ I - store Castle \\ illiam,
 -quire aud  
 - eeive pay for tea destroyed; aud the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1875120401:0277/pct:18.19669151063443,43.479482855536816,12.543173968369388,7.855536818437324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1875120401:0277/pct:18.193384223918574,43.47337361247717,12.54543802253726,7.857945763664465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ colonies and then-&quot;Ro-joice
 in a happy  
 &quot;Re- conciliation. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270502:00271762768:1896100201:0223/pct:25.941583397386626,70.61927673444048,18.927747886241352,13.471985100108645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270502:00271762768:1896100201:0223/pct:19.47702364929821,52.97221791091107,14.208805998846376,10.103988825081483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

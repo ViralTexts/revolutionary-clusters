@@ -56,7 +56,7 @@ itruclure ; and an eft;mate of the cubic feet
 ot brickwork, compoling the whole mass of  
 the walls. 7 he Commissioners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792032201:0003/pct:73.00952966492468,43.94382679929784,21.14970796188134,19.036473571289253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792032201:0003/pct:73.01721487857363,43.953579091086404,21.165078389179218,19.026721279500684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -90,7 +90,7 @@ dire&amp;ions as may be necessary to explain the internal ft-uclure;
 aud an eft i mate of the cubic feet of brick-work com poling the  
 whole mass of the walls.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792032401:0003/pct:66.23944982807127,40.52170450019912,27.539856205064083,13.102349661489447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792032401:0003/pct:66.23944982807127,40.52170450019912,27.539856205064083,13.127240143369175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ whole mass of the walls.
   
 tf THE COMMISSIONERS,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792032801:0004/pct:8.047493403693931,7.168246445497631,28.79287598944591,14.020537124802528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792032801:0004/pct:8.063984168865435,7.183056872037914,28.79287598944591,14.020537124802528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ ftruiture ; and an estimate of the cubic feet
 of brickwork, composing the whole mass of  
 the walls. The Commissioners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792040201:0004/pct:70.63611697316853,29.062317996505534,20.89237262586675,18.81188118811881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792040201:0004/pct:70.64365390413023,29.0768782760629,20.90744648779017,18.80217433508057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ whole mass of the walls,
   
 tj THE COMMISSIONED
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792040401:0004/pct:68.0064308681672,78.62368993474392,26.012861736334404,13.881748071979434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792040401:0004/pct:68.01446945337621,78.63852086217125,26.020900321543408,13.876804429503657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ truCture ; and an estimate of the cubic feet
 )f brickwork, composing the whole mass of  
 he walls. The Commissioners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792040501:0004/pct:70.47677261613691,31.580981832238113,20.965770171149146,18.960185543100117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792040501:0004/pct:70.49969437652811,31.59547738693467,20.973410757946212,18.965017394665637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ March 14, 179*?
   
 &#x27;/ THE COMMISSIONERS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792040701:0004/pct:6.732348111658457,81.54879494271039,28.735632183908045,14.006321612011062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792040701:0004/pct:6.748768472906404,81.54879494271039,28.74384236453202,14.021137890161992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ truiture ; and an eltimate of the cubic fee&#x27;t
 )f brickwork, compoling the whole mass of  
 he walls. The Commissioners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792040901:0004/pct:70.66265060240964,31.671211530970005,20.72289156626506,19.55590183093105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792040901:0004/pct:70.68524096385542,31.680950525905725,20.707831325301203,19.55590183093105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ directions as may be necessary 10 explam the internal ftruflure •
 »nd an eft,mate of the cubic feet of br.ck-work composing the  
 whole mass of the walls. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041101:0004/pct:9.345490068381634,60.74803149606299,28.23184630413546,15.039370078740157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041101:0004/pct:9.345490068381634,60.75295275590551,28.264408987300552,15.044291338582678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ dircclionsas may be necessary to explain the internal iiuflure;
 and an estimate of the cubic feet of brick-work, compofiog the  
 whole mafc of the walls.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041401:0004/pct:68.07405001623904,57.383548067393455,26.8268918480026,13.022794846382556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041401:0004/pct:68.09028905488795,57.383548067393455,26.851250405975968,13.037661050545093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ may be necessary to explain the internal
 of brickwork, Coaipofiiig the whole mass of  
 the walls. The Commutiokbks
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041601:0004/pct:48.89705882352941,73.79189399844115,20.80269607843137,19.81683554169914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041601:0004/pct:48.920036764705884,73.80650818394388,20.81035539215686,19.81683554169914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ directions as may be neccflary to explain the internal ftruflure ;
 and an estimate of the cubic feet of brick-work composing the  
 whole mass of the walls.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041801:0004/pct:38.38607594936709,64.62745098039215,27.689873417721518,12.92156862745098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041801:0004/pct:38.38607594936709,64.63725490196079,27.69778481012658,12.92156862745098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ may be necefiary to explain the internal
 of brickwork, composing the whole mass of  
 :he walls. The Commissioners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041901:0004/pct:70.69070904645477,6.461658232775399,20.35452322738386,19.287660568314518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041901:0004/pct:70.71363080684597,6.461658232775399,20.35452322738386,19.307123394316854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ Itruilure ; and an eltimats of the cubicfee!
 of brickwork, composing the whole maCs of  
 the wails. Tii£. Commissioners.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042301:0004/pct:51.600985221674875,74.44959443800695,20.62807881773399,19.17728852838934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042301:0004/pct:51.600985221674875,74.44959443800695,20.651169950738915,19.18694476631904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ direction* as may be nec&lt; iTary to explain the internal tbuflure,
 and an rltimate of the cubic teet ot forick-work. computing the  
 whole mass of the walls.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792042501:0004/pct:65.5363748458693,5.887001185302252,25.801479654747226,12.998814697747926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792042501:0004/pct:65.5363748458693,5.90181746345318,25.816892725030826,12.998814697747926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ trufture ; and an estimate of the cubic feet
 )f brickwork, compoling the whole mass of  
 he walls. The Commissioners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042601:0004/pct:71.9437652811736,15.07274490785645,20.690709046454767,19.14645974781765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042601:0004/pct:71.9437652811736,15.077594568380214,20.721271393643033,19.151309408341415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ ltru;ture ; and an estimate of the cubic feet
 of brickwork, composing the wjiole mass of  
 the walls. The Commissioners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792043001:0004/pct:69.91525423728814,5.211158465710965,20.61138014527845,19.236729949631926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792043001:0004/pct:69.92282082324455,5.216001549786904,20.626513317191282,19.241573033707866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ diredions as may he necedarv 1 o exolatn the internal ftrudure ;
 and an eftiinxe of the cnbic feet of brick-work com paling the  
 whole mass of the walls.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792050201:0004/pct:37.22239599624648,47.69775678866588,27.119174225836723,12.908303817394726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792050201:0004/pct:37.23803565842978,47.7125147579693,27.119174225836723,12.898465171192443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ truiture ; and an eltimate of the cubic feet
 )f brickwork, compoling the whole mass of  
 he walls. The Commissioners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792050301:0003/pct:70.75208913649026,49.73730297723292,20.86041473228103,18.563922942206656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792050301:0003/pct:70.76756422160322,49.73730297723292,20.875889817393997,18.568787701887526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ may be neceflary to explain the internal
 3f brickwork, composing the whole mass of  
 :he walls. The Commissioners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792050701:0004/pct:70.52696078431373,5.854616895874264,20.74142156862745,18.88015717092338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792050701:0004/pct:70.52696078431373,5.869351669941061,20.772058823529413,18.87033398821218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -822,7 +822,7 @@ ftruiture ; and an estimate of the cubic feet
 of brickwork, composing the whole mass of  
 the walls. The Commissioners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792051401:0004/pct:70.40221062327295,43.33398399375366,21.000921093030396,19.500292797189147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792051401:0004/pct:70.42523794903285,43.34374390005856,20.993245317777095,19.500292797189147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ dire&amp;ionsas may be necelTary 10 explain the internal ftru&amp;ure ;
 and an estimate of the cubic feet of brick-work composing the  
 whole mass of the walls.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792051601:0004/pct:37.60656772971266,49.084825821688646,27.912851278812756,20.330643574099586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792051601:0004/pct:37.630249447426586,49.09466640425113,27.897063467003473,20.340484156662075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ itriivfcure ; and an eft imate of the cubic feet
 of brickwork, compoling the whole mass of  
 the walls. The Commissioners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792051701:0004/pct:70.60975609756098,4.911323328785811,20.701219512195124,19.66478269343208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792051701:0004/pct:70.6173780487805,4.925940362502436,20.701219512195124,19.65991034885987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +950,7 @@ frufture ; and an ellimate of the cubic feet
 if brickwork, composing the whole mass of  
 he walls. The Commissioners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792052101:0004/pct:71.67842896594047,19.465723826360243,20.86529610309911,19.642506383814574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792052101:0004/pct:71.68610003068426,19.465723826360243,20.880638232586684,19.652327637006483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -984,7 +984,7 @@ direction* as may be ueccHary to explain the internal ftru&amp;ure ;
 and an eliiinate of the cubic feet of brick-work composing the  
 whole mass of the walls.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052301:0004/pct:7.503875968992248,50.51546391752577,27.162790697674417,13.0253766851705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052301:0004/pct:7.511627906976744,50.53033306899286,27.170542635658915,13.020420301348137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ may be neceflary to explain the internal
 of brickwork, conipoiing the whole mas, of  
 the walls. The Commissioners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792052401:0004/pct:71.1848635235732,19.33411214953271,21.805210918114145,19.528816199376948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792052401:0004/pct:71.1848635235732,19.338979750778815,21.828473945409428,19.52394859813084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1058,7 +1058,7 @@ directions as may be necessary to explain the internal ftruflure •
 ami an eft. mate of the cubic feet of brick-work compofinK the  
 whole mass of the walls. Pu&quot;&quot;b &#x27;&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052601:0004/pct:37.40870117497618,57.594311672921194,27.691330581136867,12.996247284218843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052601:0004/pct:37.432518259765004,57.59924945684377,27.68339155287393,13.011060635986569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1099,7 +1099,7 @@ Itruiture ; and an estimate of the cubic feel:
 ot brickwork, composing the whole mass of  
 the walls. The Commissioners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792052801:0004/pct:70.93701996927804,19.957455037710307,21.41321044546851,19.473989557145618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792052801:0004/pct:70.93701996927804,19.962289692515956,21.451612903225808,19.483658866756915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1133,7 +1133,7 @@ dire&amp;ion* as may be neceflary to explain the internal ftru&amp;ure ;
 and an estimate of the cubic feet of brick-work composing the  
 whole wafs of the walla.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792053001:0004/pct:66.87578419071518,55.214356929212364,26.756587202007527,13.180458624127617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792053001:0004/pct:66.87578419071518,55.22931206380857,26.780112923462987,13.190428713858426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ ftrufture ; and an elt imate of the cubic feet
 of brickwork, compoling the wholemafsof  
 the walls. The Commissioners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792053101:0004/pct:71.59689922480621,44.4184231069477,21.302325581395348,19.711163153786103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792053101:0004/pct:71.59689922480621,44.4184231069477,21.31782945736434,19.730679156908664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1215,7 +1215,7 @@ ltrufture ; and an eltimate of the cubic feet
 of brickwork, composing the whole mass of  
 the walls. The Commissioners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792060401:0004/pct:71.34918184624884,45.125510799766495,21.611608521148504,19.78984238178634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792060401:0004/pct:71.36461870947824,45.14010507880911,21.6193269527632,19.78497762210547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1249,7 +1249,7 @@ dire&amp;ions&#x27;as may be neCcffary to explain the internal ilu&amp;ure­
 and an estimate of the cubic feet of brick-work compiling the  
 whole naafs of the walls.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792060601:0004/pct:66.14125492573507,6.310861423220974,26.12913003940588,12.434456928838951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792060601:0004/pct:66.1639890876023,6.324906367041199,26.136708093361626,12.434456928838951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1289,7 +1289,7 @@ ilriK&#x27;t Lire ; and an eft I mate of the cubic feet
 of brick work, compoling the w hole mass of  
 the walls. The CoMjMissionters
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792060701:0004/pct:71.82183730281473,6.198989506412747,21.558923600371173,18.460940536338903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792060701:0004/pct:71.82183730281473,6.198989506412747,21.597587380142283,18.470656820831714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1334,7 +1334,7 @@ hze, and distribution of the apartments. It will be a rccommen &#x27;
 &lt; ifipril of any plan if the ecntral part of it may be detached and  
 creaed for the prcfent, w.th the appearance of i complete whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792061301:0004/pct:39.0634820867379,41.003861003861005,28.189817724701445,21.042471042471043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792061301:0004/pct:39.08705216844752,41.01833976833977,28.174104336895034,21.0472972972973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1368,7 +1368,7 @@ directions as may be neceifary to explain the internal ftruflure;
 and an elkimate of the cubic feet of brick-work com poling the  
 whole mass of the walls.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792062001:0004/pct:39.07682579829276,25.824493731919,27.41068605754031,12.516875602700097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792062001:0004/pct:39.092633575719255,25.829315332690452,27.418589946253558,12.52651880424301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1402,7 +1402,7 @@ direction* as may be necessary to explain the internal ftru&amp;ure;
 and an ellimate of the cubic feet of brick-work compofmg the  
 whole mass of the walls.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792062301:0004/pct:37.54266211604096,31.02455871066769,27.582997207570585,12.701458173445895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792062301:0004/pct:37.5659323611542,31.02455871066769,27.59075395594167,12.71105141980046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1438,7 +1438,7 @@ whole mass of the walls.
   
 tf THE COMMISSIONERS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792062701:0004/pct:39.32964329643296,4.923076923076923,26.752767527675278,13.461538461538462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792062701:0004/pct:39.33733087330873,4.927884615384615,26.768142681426813,13.471153846153847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

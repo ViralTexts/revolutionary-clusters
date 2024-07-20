@@ -126,7 +126,7 @@ majority, if united, have always an opportunity ; the only remedy is,’’ &amp
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n105/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n105/mode/1up?view=theater)
 
 #### 1845-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -193,7 +193,7 @@ of color made, in tho most enlightened
 period of time, a ground of the most oppressive  
 dominion ever exercised by man over ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853060901:0778/pct:48.41048522030117,89.70194879633168,14.138315672058003,2.072984333205961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853060901:0778/pct:48.41048522030117,89.70831741179468,14.147611080126417,2.072984333205961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ made, in the most enlightened period of time,
 a ground of the moat oppressive dominion ever  
 exercised by man over man.&quot;?Madison J&#x27;a}&gt;ers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855072601:0337/pct:50.968288549987896,60.920083128660494,12.841926894214476,2.5033062535424144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855072601:0337/pct:50.968288549987896,60.920083128660494,12.849995965464375,2.5096038793374897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ enlightened period of time, a ground of
 the mo-t oppressive dominion ever exercised  
 by man over man.&quot; Pago 162
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858083101:0298/pct:62.29662077596996,84.39659755449229,15.832290362953692,5.329611908559277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858083101:0298/pct:46.73759974964794,63.30409356725146,11.876075731497417,4.0005316321105795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ made, in the most enlightened period of time, a
 ground of the most oppressive dominion ever  
 exercised by man over man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860052901:0441/pct:71.83667364642537,42.56803907885555,13.027221058929106,1.7329611537566876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860052901:0441/pct:68.24381926683716,40.43901001767826,12.375674907644218,1.6499705362404242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ Col. Mason, of Virginia, had before said in
 the Convention that “tho present Confedera­  
 tion, |[moaning the original leaguo of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557207:1861010501:0643/pct:22.531293463143253,27.51019367991845,12.291376912378302,8.830275229357799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557207:1861010501:0643/pct:22.54433240611961,27.51019367991845,12.278337969401948,8.833460754332314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ color made, in the most enlightened period of
 a time, a ground of the most oppressive do*  
 minion ever exercised by man over man.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862052301:0003/pct:35.41514930808449,64.83532084043158,9.777858703568828,1.362862010221465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862052301:0003/pct:35.419701383831026,64.83886996024985,9.786962855061908,1.3735093696763203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ of time, a ground of the most oppressive
 dominion ever exercised by man over  
 man.&quot;-JameS Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775629:1862101701:0168/pct:62.63656227239621,123.94613583138174,43.40859431900947,8.840749414519907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775629:1862101701:0168/pct:15.659140568099053,30.986533957845435,10.852148579752367,2.2101873536299768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ dominion ever exercised by man over
 man.&quot; James Madison.  
 We have tound that this evil has onrue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1862102201:0098/pct:83.53469640644362,55.82536178562668,14.06443618339529,3.3603139563404465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1862102201:0098/pct:62.674310505113105,41.86902133922001,10.55159590951348,2.5263674270296788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ color made in the most enlightened period
 of time, u ground of tbe most oppressive  
 dominion ever exercised by man over mat,.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862102201:0380/pct:55.75401311327153,34.11172983653673,13.542844223377799,2.2813005209268904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862102201:0380/pct:55.759665385484965,34.11622058559368,13.559801040018087,2.294772768097719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ made in the most enlightened period of time, a
 ground of the most oppressive dominion ever  
 exercistd by man over man.&quot;—[James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862102501:0435/pct:47.45646978490952,70.24425460233425,14.236940935472857,2.3823847912405247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862102501:0435/pct:47.467850233299195,70.25227609994786,14.231250711278024,2.3863955400473267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ neither the heart nor the
   
 head of that man from the North, wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862103001:1072/pct:150.97942386831275,53.293413173652695,42.76543209876543,29.880239520958085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862103001:1072/pct:50.32647462277092,17.764471057884233,14.25514403292181,9.960079840319361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ pressive dominion exercised by man over
 man.&quot;--James Madison.  
 &quot;The tariff was only the pretext, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862103001:0354/pct:122.75769745649264,148.8678251711427,47.32262382864793,12.848867825171142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862103001:0354/pct:30.68942436412316,37.216956292785675,11.830655957161982,3.2122169562927856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -734,7 +734,7 @@ or made, in the most enlightened period of
 time, a ground of the most oppressive domin­  
 ion ever exercised by man over man,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862103101:1033/pct:4.194697269489513,100.59119125036949,15.730114760585675,2.7933786579958615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862103101:1033/pct:3.2610918012676344,77.96189530754839,12.195869965242283,2.164865793593219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -763,7 +763,7 @@ or made, in the most enlightened period of
 time, a ground of the.most oppressive domin­  
 ion ever exercised by man over man,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021295:0051717158A:1862110501:0147/pct:62.7632327831531,19.261006289308177,10.344336937962437,1.8980233602875112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021295:0051717158A:1862110501:0147/pct:62.7632327831531,19.261006289308177,10.349079870992222,1.9092542677448339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -782,7 +782,7 @@ time, aground of the most oppressive domin­
 ion ever exercised by man over man.&quot;—[Jas.  
 Mahsnu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1862111401:0353/pct:16.101936218678816,76.63878842676311,10.990888382687928,2.2377938517179023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1862111401:0353/pct:16.111427486712223,76.64255575647981,11.000379650721337,2.2415611814345993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ dominion ever exercised by man over
 man.&quot;- U ames Madtson.  
 &quot;Wo have found that this evil ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862112101:0838/pct:329.61567445365483,138.39612959976543,49.434815373021856,12.549479548453306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862112101:0838/pct:82.45051837888784,34.59903239994136,12.36569274269557,3.1373698871133264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ riod of time, a ground of the most oppreso e
 sive dominion ever exereised by man over  
 Janes isonoe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1862112501:0676/pct:24.631396357328708,163.6927091828413,60.8846487424111,47.30060349045833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1862112501:0676/pct:6.161857235842916,40.923177295710325,15.231069646344109,11.825150872614582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,7 +956,7 @@ a grouud of the most oppressive dominion
 ever exercised by man over man.—James  
 Madison.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1862121301:0451/pct:79.18687057068259,37.8698224852071,14.677359194330474,3.9588616511693435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1862121301:0451/pct:79.18687057068259,37.87334460411383,14.696008951883625,3.9623837700760776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -986,7 +986,7 @@ dominion ever exerciesd by man.&quot; -James
 Madison.  
 &quot; We have fonnd that this evil has preye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn84030186:00294555699:1863032101:0293/pct:50.830140485312896,101.36698212407991,22.20625798212005,5.526346535810259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn84030186:00294555699:1863032101:0293/pct:33.90832135441623,67.57798808271994,14.805941542884524,3.6920200958055847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1024,7 +1024,7 @@ riod ot time, a ground ol the most op­
 pressive dominion ever exercised by man  
 over man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1863121901:0095/pct:7.343574372424129,110.23262451833881,15.829898838516298,3.368060510917654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1863121901:0095/pct:5.6913323331558825,85.43356437103672,12.277984803755505,2.6139212505530156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1070,7 +1070,7 @@ or slavery question.-Iadrew Juchson, Hay,
  on otho te oant on te te  
 e ie  healt hor the he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn83045586:00200293617:1864050701:0593/pct:313.76451077943614,136.55348771132262,59.950248756218905,70.57820713169484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn83045586:00200293617:1864050701:0593/pct:78.44112769485903,34.138371927830654,14.987562189054726,17.64455178292371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1130,7 +1130,7 @@ We have seen the mere distinction nf color, made in
 the nio.t enlightened period of time, a ground of the most  
 oopreive dominion ever exercised by man over man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866022001:0033/pct:8.7636695018226,95.95777857742593,16.859052247873635,5.433609211946743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866022001:0033/pct:6.577548230290141,71.96833393306945,12.653805255962327,4.078205589540602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1208,7 +1208,7 @@ of qharactj^r than the other can hard­
 ly be denied.  
 The pe|ple are now represente
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn2007060551:00514157467:1892060701:0135/pct:27.77872340425532,40.93017425097155,11.982978723404255,29.97367431365175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn2007060551:00514157467:1892060701:0135/pct:27.773995915588834,40.925043870644274,11.985194009530293,29.973050889947356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1351,7 +1351,7 @@ That was Madisons idea of “major­
 ity rule” and popular government.. He  
 wanted it to distract the people, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1898020901:0385/pct:20.089710479815142,24.98903989478299,11.55362240043496,15.059184568171855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1898020901:0385/pct:20.098772144442933,24.99269326318866,11.558153232748856,15.066491304983195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

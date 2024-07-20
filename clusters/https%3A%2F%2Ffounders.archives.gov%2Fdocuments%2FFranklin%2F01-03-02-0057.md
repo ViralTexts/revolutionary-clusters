@@ -3414,7 +3414,7 @@ of religion are violated by my tran(greflions.
 1f mm‘. i‘sg réligions cifeoce, lcave nt  
 so. religious pomthmenss. You bave al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803062101:0306/pct:6.253928346951603,29.52751972829887,17.111879321181647,58.04614923584057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803062101:0306/pct:6.259166142887073,29.52751972829887,17.127592708988058,58.04614923584057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3462,7 +3462,7 @@ disgrace &amp; puaithment ; &amp; therefore ought,
 in my humblec opinion, instead of a whipping  
 have a flatue erefled to my memory. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803062101:0306/pct:23.868636077938405,4.874637898311857,16.829038340666248,19.388672460293677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803062101:0306/pct:23.879111669809344,4.877967569007425,16.829038340666248,19.395331801684815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4364,7 +4364,7 @@ have frequently endured public disgrace and
 humble opinion, instead of a whipping, to  
 have a statue erected to my memory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851062601:0453/pct:32.811878562906,17.67967815592041,12.541429139599629,66.88050451234098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851062601:0453/pct:32.82071677935393,17.68692689645174,12.545848247823589,66.88412888260665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5164,7 +5164,7 @@ therefore ought in my humble opin
 ion, instead of a whipping, to have a  
 statue erected to my memory.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769441:1875052001:0065/pct:50.819231802309965,16.80672268907563,28.619392962664516,75.18207282913166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769441:1875052001:0065/pct:50.82370847882532,16.80672268907563,28.614916286149164,75.18207282913166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5182,7 +5182,7 @@ the court to dispense with her punish­
 ment, and induced one of the judges  
 to marry her the next day. She eve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769441:1875052001:0065/pct:65.43110394842869,64.46311858076564,13.900080580177276,2.362278244631186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769441:1875052001:0065/pct:65.43558062494404,64.46311858076564,13.895603903661922,2.3685029567382507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

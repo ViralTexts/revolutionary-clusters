@@ -390,7 +390,7 @@ the schools ol music, drawing, ami other
 associated purposes.  
 3. 4. In proceeding to the 3d ami 1t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121001:0250/pct:82.5197889182058,37.0,14.313984168865435,9.096385542168674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121001:0250/pct:82.50618301731245,36.99554270569811,14.317120087936246,9.099305304581778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ ion with us. It will be thou for the wis- I
 «lom and discretion of the visitors to de­  
 vise ami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121001:0251/pct:3.794569839712136,2.9839883551673947,60.893032384690876,94.0441533236293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121001:0251/pct:3.793949304987735,2.9836264402668284,60.88852548378305,94.03678997372145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ James Madison, Wm. A, (I. Dade’,
 A. T. Mason, H&#x27;wi. Jones.  
 Hugh Holmes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121001:0251/pct:49.983644095518486,3.287239204269772,30.847235852142624,92.24890829694323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121001:0251/pct:49.97547015535568,3.286840509399636,30.84764240937585,92.24176268445522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1037,7 +1037,7 @@ Hie said university shall, in alhhihgs, and
 at all times, be subject to the control of  
 tlie It gislature. And the said rector an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819012801:0330/pct:82.12528697933749,4.86958602536492,14.791734995080354,17.791337640583873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819012801:0330/pct:82.11182161010002,4.869003469314511,14.794775099743127,17.79319695338358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1061,7 +1061,7 @@ tion ol the act, entitled “ An act appro­
 priating part of tin* revenue of the Litera­  
 ry Fund, and for other purposes,&quot; i a se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819012801:0330/pct:82.05969170219744,46.745632926537446,14.74253853722532,5.455850681981335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819012801:0330/pct:82.04623708804722,46.740040674721854,14.74558670820353,5.459185708019301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2228,7 +2228,7 @@ tions may he exercised by them in the form of
 bye-laws, rules, resolutions, orders, instruction-,  
 or otherw ise, as they shall deem proper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:19.19113054341037,32.597663165348756,15.068707058088695,13.584326684763367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:19.188134270101482,32.593816379513804,15.071558678116055,13.586657226024704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2303,7 +2303,7 @@ exercised the stricter government necessary for
 young boys, but unsuitable for youths arrived at  
 years ofdisereetiou.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:18.76951905059338,3.5878673433258585,30.80886945658963,93.57960580668004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:18.766588602654178,3.587443946188341,30.809263596148842,93.57249626307922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2323,7 +2323,7 @@ provement is hopeless; and that we can never render
 ourselves wiser, happier, or better than our forefa­  
 thers were. In our country, more especially tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831030201:0034/pct:4.156200045672528,49.131800893004794,15.300296871431835,3.638167686456094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831030201:0034/pct:4.155251141552512,49.12367724867725,15.302511415525114,3.6416997354497354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2469,7 +2469,7 @@ tion in the Anglo-Saxon,&quot; which lies be
   
 fore me, he says: &quot;Its acquisition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn90061576:0020029208A:1894092001:0967/pct:26.328310864393337,243.73030875866414,42.74385408406027,36.67296786389414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn90061576:0020029208A:1894092001:0967/pct:6.5859948422931955,60.932577189666034,10.692322951795278,9.168241965973534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2559,7 +2559,7 @@ ual action, shall leave us free to do what­
 over does not violate the equal rights of  
 anuther,” From every point of view thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152913:1897082301:0809/pct:30.141223940820442,42.98501248959201,13.019502353732348,5.797252289758535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152913:1897082301:0809/pct:30.141223940820442,42.99195115181793,13.023985653440933,5.804190951984458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -112,7 +112,7 @@ pedition under Gen. St. Clair, and that the said committee be em­
 powered to call for such persons, papers and records as may be  
 neceflary to aflift them in such inquiry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792032801:0003/pct:6.401766004415011,64.10103420843278,27.59381898454746,2.645186953062848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792032801:0003/pct:6.40964995269631,64.10600636435959,27.59381898454746,2.655131264916468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ committee be empowered to call for
 such persons, papers and records, as may  
 benecelfary to assist their enquiries.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792040201:0001/pct:72.43805445090241,74.9902761571373,20.954420312022027,7.117852975495916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792040201:0001/pct:72.43805445090241,74.99513807856864,20.99265830529214,7.122714896927266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ persons, papersand records as may
 benece Tary toafiill theirinquiries.”  
 A committee was accordingl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792050201:1004/pct:7.090997095837367,4.775734107776702,43.489835430784126,88.68989996773152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792050201:1004/pct:7.090997095837367,4.775734107776702,43.52210390448532,88.70065612563192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ the majority wc-e satisfied, and both in unit out of
 doors it gave pleasure to have, at length, an instance of  
 (lie nega(ive being exercised.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830070601:0069/pct:65.14251781472684,49.35394554683895,15.751187648456057,9.460083064143978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830070601:0069/pct:65.13284844886448,49.34825239358634,15.753797437039236,9.462836928519245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ doors it gave pleasure to have, at length, an instance of the
 negative being exercised.”—[Afr Jefferson&#x27;s .1nas, 4th  
 vol. of his works.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832052201:0023/pct:18.936554213522143,69.13989179640058,14.81327224767458,2.550513415038092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832052201:0023/pct:18.933925596890617,69.13225877677192,14.81584305015732,2.553911827482152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ house, when the executive should propose what lie did
 not like, and subject to the executive when the house  
 should propose any thing disagreeable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031402:0410/pct:56.37545402408717,31.462333825701624,19.250621296119288,12.60910433731704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031402:0410/pct:56.36467889908257,31.45810955961332,19.253312945973498,12.61188686000716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ ALONE; but ilia the committee should iiis&#x27;ruct their
 chairman to move the House lo address the Presi­  
 dent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834082601:0141/pct:81.1026878015162,36.58907983467479,16.071674707098552,31.270393735044593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834082601:0141/pct:81.09151047409041,36.58510059815117,16.074053656743843,31.27061808954142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ and who** paper* tone. andtr the President alone, bill &gt; (
 that the committee should instruct their Chairman to 1 ,  
 move the House to address Hie President. Note. //„. 1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031901:0398/pct:5.212942477876106,84.52883263009845,15.638827433628318,5.312128096938223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031901:0398/pct:5.212221761371492,84.51968844655993,15.641273791418959,5.315159382662628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ fied, and both in and out of doors it gave pleasure to
 have at length an instance of the negative being ex­  
 ercised. Written this the 9th April
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841111801:1007/pct:32.984757178305564,27.41749068961089,15.561857497341368,20.431488378066007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841111801:1007/pct:32.99657331915397,27.41749068961089,15.561857497341368,20.435769016737297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -776,7 +776,7 @@ friends of the hill expressed passion, but the ma
 jority were satisfied, and both in and out of doors,  
 it give pleasure to have an exercise of the negn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841111901:0324/pct:22.250209907640638,325.3280091272105,58.85810243492863,6.332002281802624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841111901:0324/pct:5.566057550934677,81.33200228180263,14.723797521529091,1.583000570450656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -987,7 +987,7 @@ gave pleasure to liaveat length an instance of the j
 negative being exercised. Written this the 9th  
 April.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841120201:0160/pct:34.64590507561012,57.62310606060606,15.436442581224734,21.022727272727273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841120201:0160/pct:34.64071856287425,57.616285951000116,15.439121756487026,21.02418432161597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1037,7 +1037,7 @@ sir, says Raodolpu, &quot;I do, upon my honor. He
 sent it to the House of lepresentatives instantly.  
 The question at the time seems to have excite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530169:1842011301:0041/pct:51.66715845382119,226.145443511682,49.778695780466215,60.341863052493174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530169:1842011301:0041/pct:17.222386151273728,75.381814503894,16.592898593488737,20.113954350831058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1132,7 +1132,7 @@ It had been said that the doctrine of the President on
 liys subject was a federal doctrine. Hut here we find  
 hese men, the fathers of the republican party, were al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848020901:0161/pct:53.945686900958464,21.015585721468074,19.456869009584665,9.67823026646556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848020901:0161/pct:53.945686900958464,21.015585721468074,19.46751863684771,9.686609686609687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1221,7 +1221,7 @@ as the public good would permit, and ought to refuse those the
 disclosure of which would injure the public ; consequently were  
 to exercise a discretion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848021201:0077/pct:49.01231033495563,35.63853790613718,15.645576868021758,11.292870036101084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848021201:0077/pct:49.01231033495563,35.642298435619736,15.645576868021758,11.292870036101084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1273,7 +1273,7 @@ werg of the executive departments, without consulting the Preii,
 dent.&quot;  
 i ?w That a conspiracy exists somewhere to mutilate, if no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848102101:1051/pct:81.67330677290836,27.557776389756402,17.673306772908365,3.6102435977514054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848102101:1051/pct:81.67330677290836,27.566104518009578,17.689243027888445,3.6102435977514054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1323,7 +1323,7 @@ were satisfied, and both in and out of doors it gave
 pleasure to have at length an instance of the negative &gt;  
 being exercised. Written this luth April.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848110501:1102/pct:62.28295819935691,61.90357232075943,19.083601286173632,16.162877841618787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848110501:1102/pct:62.28295819935691,61.91189940877675,19.083601286173632,16.162877841618787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1340,7 +1340,7 @@ being exercised. Written this luth April.
 him to sign. They came ; our minds had  
 been before made up ; we drew the instru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1848110601:0505/pct:27.996422182468695,84.12998895724878,23.076923076923077,1.829941631172109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1848110601:0505/pct:21.006711409395972,63.10143555765894,17.315436241610737,1.3724562233790818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1454,7 +1454,7 @@ the l onstitntion a legislature and an inquest.
 but not a council.&quot; In other words Congress  
 was distinctly a co-ordinate branch of the gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654838:1892010901:0132/pct:1.3192612137203166,40.2,12.302110817941953,3.1066666666666665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654838:1892010901:0132/pct:1.3316292875989446,40.21,12.30623350923483,3.1/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1488,7 +1488,7 @@ The convenience of a standing commit­
 tee undoubtedly suggested the system and  
 it has grown with the growth of the countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jay_ver01:data:sn83025308:0021247664A:1892011101:0090/pct:238.79841549295776,151.6891891891892,44.102112676056336,24.78885135135135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jay_ver01:data:sn83025308:0021247664A:1892011101:0090/pct:79.59947183098592,50.56306306306306,14.700704225352112,8.26295045045045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1570,7 +1570,7 @@ altenate an inch of territory of any State he attacked
 and denied the doctrine. See my report, his note, and  
 my answer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897021801:0639/pct:344.95412844036696,52.50075780539557,51.29969418960245,15.398605638072143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897021801:0639/pct:86.25501816096349,13.125189451348893,12.82737526285605,3.8496514095180356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

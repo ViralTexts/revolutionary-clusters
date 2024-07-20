@@ -88,7 +88,7 @@ fo&#x27;.md in arms, in jfition to the nati­
 onal will and authority—2d lo aid  
 aud support the civilß^gi&#x27;^rate 10 knDß*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794102901:0002/pct:78.54100106496273,56.994733377221856,16.45367412140575,33.624094799210006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794102901:0002/pct:78.55431309904154,56.994733377221856,16.473642172523963,33.63232389730086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ rection, and that this dirc&amp;ion will be
 ably and faithfully seconded by aIL  
 Go. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794102901:0003/pct:4.133545310015898,4.684654858467141,16.50768415474298,16.189372620427083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794102901:0003/pct:4.133545310015898,4.692931633835458,16.52755696873344,16.189372620427083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ direction will be ably and laitblully
 couded by all­  
 GEO: WASHINGTO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824082101:0366/pct:82.03479023534571,27.628774422735347,16.649612629732495,42.60213143872114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824082101:0366/pct:82.02280035077463,27.62632093064559,16.652051057195752,42.601308350353726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ tion, will be ably and faithfully
 seconded hv all.  
 GEO WASHINGTO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824090901:0361/pct:22.657076369790566,27.17789681420919,17.643325576475565,53.284465745700594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824090901:0361/pct:22.65228426395939,27.174066243833686,17.644881556683586,53.28047921071177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ magnitude of the stake.&quot;
 This large army marched to Fort Pitt, but the in­  
 surrectionists had disappeared. Not a man Wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851072601:0711/pct:33.426378227494766,63.268349845531056,15.854849965108166,9.683604985618409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851072601:0711/pct:33.426378227494766,63.268349845531056,15.859502209816236,9.687155995880827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ the slake.”
 This large army marched to Fort Pitt, but the insur­  
 rectionists had disappeared. Not a man was found i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080601:0117/pct:37.242955064737245,68.17542873207759,14.185072353389184,5.355636772561147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080601:0117/pct:37.235865219874356,68.16584680252987,14.187131163144869,5.358397751229796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ throughout will he, in every respect, answerable m
 ^k*Td**** eMB&gt; **&lt;* magnitude of the  
 This army marched to Port Pin, but the taaorre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851081401:0411/pct:30.037250253979003,78.08539436446414,12.461903149339655,5.131044665928387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851081401:0411/pct:30.032165227695955,78.0757874015748,12.464025732182156,5.133489173228346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -885,7 +885,7 @@ belongs to the civil magistrates; and let it
 ever be our pride and our glory to leave the  
 sacred deposit there inviolate.&quot;-Irving&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862010901:0390/pct:144.88778054862843,137.25759867968642,55.61097256857855,33.227891624260764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862010901:0390/pct:36.22194513715711,34.314399669921606,13.902743142144638,8.306972906065191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -926,7 +926,7 @@ ever be our pride and our glory to leave the
 sacred deposit there inviolate.&quot;-Irving&#x27;s  
 F o i ao el ak o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862011601:0394/pct:150.54759898904803,138.08525506638713,56.86604886267902,34.3256464011181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862011601:0394/pct:37.6527602191319,34.52131376659678,14.222503160556258,8.581411600279525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ sition to the national will and authority
 secondly to aid and support the civil mag-­  
 istrates in bringing offenders to justice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1862012201:0316/pct:123.66631403959498,162.3117298037426,33.882424059241345,25.433591967138295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1862012201:0316/pct:41.22210467986499,54.10390993458086,11.29414135308045,8.477863989046098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ belongs to the civil magistrates; and let it
 ever be our pride and our glory to leave the  
 sacred deposit there inviolate.&quot;--Irving&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862012301:0398/pct:151.25628140703517,135.45441969843685,55.86264656616415,33.476276110112046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862012301:0398/pct:37.82991202346041,33.86360492460921,13.971512358609132,8.369069027528012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ belongs to the civil megistrates; and let it
 ever be our pride and our glory to leave the  
 sacred deposit there inviolate.&quot; Irving&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862013001:0404/pct:148.48739495798318,137.3547315993359,56.05042016806723,33.31488655229663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862013001:0404/pct:37.137452711223204,34.33868289983398,14.01849516603615,8.328721638074157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1050,7 +1050,7 @@ belongs to the civil magistrates; and letit
 ever be our pride and our glory to leave the  
 sacred deposit there inviolate.&quot;-Irving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862020601:0410/pct:153.80212591986918,134.04840484048404,54.37448896156991,33.608360836083605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862020601:0410/pct:38.466257668711656,33.51210121012101,13.599182004089979,8.402090209020901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1080,7 +1080,7 @@ belongs to the civil magistrates; and let!&#x27;
 ever be our pride and our glory to leave the  
 sacred deposit there inviolale.&quot;-Irving&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862021301:0419/pct:87.86367414796342,58.07632727784819,54.86284289276808,33.74172651739192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862021301:0419/pct:21.979621542940322,14.519081819462048,13.72426699937617,8.43543162934798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1110,7 +1110,7 @@ belongs to the civil magistrates; and let it
 ever be our pride and our glory to leave t  
 sacred deposit there inviolale.&quot;-Irving&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862022001:0422/pct:140.0,148.7058823529412,54.5748987854251,33.77162629757785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862022001:0422/pct:35.00708645474793,37.1764705882353,13.646487143146386,8.442906574394463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1140,7 +1140,7 @@ belongs to the civil magistrates; and let it
 ever be our pride and our glory to leave the  
 sacred deposit there inviolate.&quot;-Irving&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862022701:0426/pct:93.55648535564853,54.29052159282109,55.48117154811715,33.70723499719574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862022701:0426/pct:23.40380992254553,13.572630398205272,13.87900355871886,8.426808749298935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1170,7 +1170,7 @@ belongs to the civil magistrates; and let it
 ever be our pride and our glory to leave the  
 sacred deposit there inviolate.&quot;Irving&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862030601:0430/pct:140.59405940594058,253.60710321864596,55.52805280528053,33.074361820199776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862030601:0430/pct:35.155766453476375,63.40177580466149,13.88487724365587,8.268590455049944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1199,7 +1199,7 @@ to justice. the dispensation of this justice
 belongs to the civil magistrates; and let if  
 ever be our pride and our glory to leave the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862031301:0434/pct:136.78929765886286,328.271954674221,56.93979933110368,31.89801699716714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862031301:0434/pct:34.218782681447394,82.06798866855524,14.24388203304748,7.974504249291785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1229,7 +1229,7 @@ belongs to the civil magistrates; and let it
 ever be our pride and our glory to leave the  
 sacred deposit there inviolate.&quot;Irving&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862032001:0438/pct:203.01507537688443,91.57175398633258,55.778894472361806,33.65603644646925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862032001:0438/pct:50.77503142019271,22.892938496583145,13.950565563468789,8.414009111617313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1259,7 +1259,7 @@ belongs to the civil magistrates; and let it
 ever be our pride and our glory to leave the  
 sacred deposit there inviolate.&quot;--Irvin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862032701:0442/pct:141.44295302013424,54.97792337273893,56.04026845637584,34.01224896738356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862032701:0442/pct:35.38300104931794,13.744480843184732,14.018887722980063,8.50306224184589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1298,7 +1298,7 @@ aaeeeeteeee eeoeee
 ever be our prile and our glory to leave  
 red densit there inviolate.&quot; Irving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862040301:0446/pct:140.55415617128463,248.27586206896552,61.544920235096555,130.46919163369134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862040301:0446/pct:35.13853904282116,62.06896551724138,15.386230058774139,32.617297908422834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ belopgs fo the civil magistrates; and let it
 ever be our pride and our glory to leave the  
 sacred denosit there inviolate.&quot;-Iruing&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862041701:0452/pct:194.77551020408163,29.101045296167246,115.18367346938776,350.55052264808364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862041701:0452/pct:48.71376071866068,7.275261324041812,28.80767660269498,87.63763066202091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1361,7 +1361,7 @@ and let it
 ever he our pride and our alory to leave the  
 sacred deposit there inviolale.&quot;-Irving&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862042401:0456/pct:256.9672131147541,161.42975893599336,55.81967213114754,33.25020781379884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862042401:0456/pct:64.28132048390404,40.35743973399834,13.963502152962887,8.31255195344971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1392,7 +1392,7 @@ ever be our pride and our glory to leave the
 sacred deposit there inviolate,&quot;-Feving&#x27;s  
 F 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862050101:0462/pct:257.46938775510205,163.45106798827308,55.42857142857143,34.11978221415608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862050101:0462/pct:64.39363005308289,40.86276699706827,13.862801143323805,8.52994555353902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1431,7 +1431,7 @@ be longs to the civil megistiates; and let
 ever be our pride and our glory to leave!  
 ered deposit there inviolate.&quot; Irving&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862050801:0468/pct:195.9703947368421,28.20335226485663,113.65131578947368,347.85981437872283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862050801:0468/pct:49.02283480765275,7.050838066214157,28.430364122608516,86.96495359468071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1459,7 +1459,7 @@ belongs to the civil magistrates; and let it
 clever be our prie and our glory to leave the  
 sacred deposit there invioiate.  Ire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862051501:0472/pct:153.85220125786162,223.99781091804624,107.15408805031447,31.63223423176905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862051501:0472/pct:38.47061136229605,55.99945272951156,26.793788087281307,7.908058557942263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1489,7 +1489,7 @@ belongs to the civil magistrates; and let it
 ever be our pride and our glory to leave the  
 sacred deposit there inviolate.&quot;-Irving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862060501:0480/pct:139.1902834008097,160.31020634261182,54.25101214574899,33.01481789225869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1862060501:0480/pct:34.804616319092936,40.077551585652955,13.565499088884389,8.253704473064673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1514,7 +1514,7 @@ trate, and let it ever be our pride and
 glory to leave the sacred deposit there in  
 violate.&quot; Let us not, my friends, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862100201:0273/pct:186.9989722507708,210.6643691365116,41.880781089414185,18.542982959984684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862100201:0273/pct:62.33299075025694,70.22145637883719,13.960260363138062,6.180994319994895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1698,7 +1698,7 @@ tion of this justice belongs to civil magistrates
 and let it ever be our pride and our glory to  
 leave the sacred deposit there inviolate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1863031801:0122/pct:77.98471824259789,37.89736356732126,14.804202483285577,9.55842465010307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1863031801:0122/pct:77.99002440836252,37.89736356732126,14.814814814814815,9.565657661567393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1726,7 +1726,7 @@ justice belongs to the civil magistrates; and let it ever
 be our pride and our glory to leave the sacred deposit  
 there inviealate. GIrving&#x27;s Life of Washington, vol. 5
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1863040101:0750/pct:264.6090534979424,177.98835792608637,57.03703703703704,21.8221199404359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1863040101:0750/pct:66.1794977356937,44.49708948152159,14.265129682997118,5.455529985108975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1767,7 +1767,7 @@ belongs to the civil magistrates, and let it
 ever be our pride and our glory to leave  
 the sacred deposit their inviolate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1863040801:0926/pct:68.5,237.21262316150222,58.5,45.180636869912895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1863040801:0926/pct:17.13213839099625,59.303155790375556,14.631096290120883,11.295159217478224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1865,7 +1865,7 @@ tion of this justice belongs to the civil magis­
 trates; and let it ever be our pride and our glory  
 to leave the sacred deposite there inviolate.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864020101:0115/pct:168.9929742388759,131.92165166754896,50.11709601873536,38.927121934003885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864020101:0115/pct:42.25319124019206,32.98041291688724,12.530741304602412,9.731780483500971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1932,7 +1932,7 @@ pensation of that justice belongs to the civil magis
 trate, and let it be our pride and glory to have the  
 sacred deposit there inviolated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174352A:1865070701:0068/pct:204.82180293501048,9.41282950560018,93.35591033704242,287.1139269148094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174352A:1865070701:0068/pct:68.27393431167016,3.1376098352000605,31.11863677901414,95.70464230493646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2072,7 +2072,7 @@ iJiis justice belongs to the civil ?nagisirate; and
 let it ever be our pride and our glory to  
 leave this sacred trust there unviolated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879130:1870100701:0158/pct:5.827534791252485,90.31356101457959,17.805666003976143,27.15198721789495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879130:1870100701:0158/pct:4.374844643301019,67.7351707609347,13.360676112353964,20.37147992810066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2123,7 +2123,7 @@ magistrates, and let it ever be our pride and our
 glory to leave the sacred deposit there inviolate.  
 After the rebels had laid down their arm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103401:1880091901:0127/pct:118.06043569922699,196.9664715274082,43.921293042867184,16.870675891431613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103401:1880091901:0127/pct:29.52548330404218,49.24161788185205,10.984182776801406,4.217668972857903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2154,7 +2154,7 @@ sacred deposit there inviolate.
 After tho rebels had laid down  
 their arms Goneral Washingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84038198:00202192506:1880100201:1070/pct:56.755895474824726,17.892052698682534,13.607393244104525,10.029749256268593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84038198:00202192506:1880100201:1070/pct:56.763862332695986,17.892052698682534,13.631293817718293,10.050998725031874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2191,7 +2191,7 @@ ongs to Hie civil magistrates and let it ever be
 our pride and our glory to leave the sacred  
 deposit there inviolate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880102101:0566/pct:11.782877316857899,113.16829075585989,18.51279788172992,8.085330524097973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880102101:0566/pct:8.854051667034666,84.88280221227285,13.888275557518217,6.057413747695549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

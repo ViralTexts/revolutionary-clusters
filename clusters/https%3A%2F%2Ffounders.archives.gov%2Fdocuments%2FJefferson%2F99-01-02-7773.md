@@ -199,7 +199,7 @@ the inhabitants of the land, into the house of
 the Lord your God, and cry unto the Lord,&quot;&#x27;  
 | pThe Whigs ol Prince George’s Count
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215695:1841051401:0133/pct:47.23285764009746,57.313032502366674,15.094558533472561,3.439570842537078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215695:1841051401:0133/pct:47.22737819025522,57.3085114774789,15.096674400618717,3.4419289526964842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ the elders and sall the inhabitants of the land
 into the House of the Lord your God; and cry un­  
 to the Lord. Alas for the day.-JoeL 1, 64
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861061601:0571/pct:257.8265765765766,82.11836691634139,45.21396396396396,28.357421668952423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861061601:0571/pct:64.46571871040406,20.529591729085347,11.30508235956638,7.089355417238106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ the children.
 In compliance therewith, and recog­  
 nizing our dependence upon a God wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1868032401:0794/pct:68.9539748953975,265.0997371269522,50.79497907949791,22.452450904592546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1868032401:0794/pct:17.245709501883635,66.27493428173806,12.70406027626622,5.613112726148136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ ness of those that dwell therein,&quot; I do hereb
 appoint Friday, The Tenth Day O  
 AlRIl next, to be observed as a day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868032501:0488/pct:53.02795031055901,30.224253678045994,46.506211180124225,24.339380088558777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868032501:0488/pct:13.256987577639752,7.556063419511498,11.626552795031056,6.084845022139694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ FrIdAY, THe tentH DaY oF APrIl next,
 to be observed as a day of FastinG, hiuMIlI­  
 ATION AND PRaYER
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1868032701:0051/pct:38.065843621399175,75.00952864947274,42.38683127572016,66.62431711345445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1868032701:0051/pct:9.5180929514663,18.752382162368185,10.598525124335449,16.656079278363613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ to the children.
 In compliance therewith, and re­  
 cognizing our dependence upon 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:0020219722A:1868032701:0290/pct:79.52270977675134,150.45168354776897,49.34565050038491,23.706542567752532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:0020219722A:1868032701:0290/pct:19.884504331087584,37.61292088694224,12.33878729547642,5.926635641938133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ the children. &#x27; &#x27;&#x27; &#x27; !i &#x27; &#x27;&#x27; &#x27;
 In compliance therewith, and recogni­  
 zing our dependence upou a God wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1868032701:0498/pct:47.00610221205187,9.133765468473777,16.056445461479786,8.588685916322923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562847A:1868032701:0498/pct:35.279526807861096,6.850324101355333,12.058767410799465,6.452563347083088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ legacy unto the children.
 In compliance therewith, and recog­  
 nizing our dependence upon a God wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296266:1868032701:0052/pct:55.87525844245348,18.594196975888842,67.45348035837354,271.0257458111974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296266:1868032701:0052/pct:18.628295709115974,6.198065658629615,22.48836808547303,90.34191527039913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ habitants of the land into the House of
 the Lord your God and cry unto the  
 Lord Joel i ; 14
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628389:1872041101:0120/pct:19.29316338354577,52.306334142573384,14.687137891077636,2.8911939969101743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628389:1872041101:0120/pct:14.47616287494566,39.22975060693004,11.027387335168816,2.1739130434782608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ ol the Lord your God, and cry unto the
 Lord.” In chan, ii: 15, the command  
 seems to be addressed to the Church
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184455:1881032301:0097/pct:22.329755410874537,28.46813725490196,16.927679042759106,3.7377450980392157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184455:1881032301:0097/pct:22.325826882477127,28.464648940080874,16.93056532958011,3.7413715639423275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ tue land into the house of the Lord
   
 your God, and cry unto the Lor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:0029455628A:1884022801:0244/pct:29.17713567839196,89.86510684015758,14.007537688442211,2.9843619434164976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:0029455628A:1884022801:0244/pct:21.90102120974077,67.39883013011818,10.510604870384917,2.2442401814492063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ the elders and aii the inhabitants of the land into the
 house of the Lord your God, and cry unto the  
 laird.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886032401:0285/pct:4.724261246000377,29.525831564048126,12.53529079616036,1.7551309271054494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886032401:0285/pct:4.7233722243131355,29.521652986130768,12.53763643206624,1.7584206057175205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -795,7 +795,7 @@ the elders ami all the inhabitants of the laud Into the
 house of the Lord your God, and cry unto the  
 Lord • *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886032501:0289/pct:4.322274881516588,28.4725166030804,12.644549763033176,3.17931326833404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886032501:0289/pct:4.321455648218347,28.468493924837524,12.646891584533737,3.182396157106527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -813,7 +813,7 @@ er the elders and all the Inhabitants of the lam
 into the house of the Lord your God, and cry untc  
 the Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210545:1886032501:0600/pct:6.213159152461367,16.83215695657375,10.562370559184323,1.5073573393946644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210545:1886032501:0600/pct:6.212169480726346,16.830143540669855,10.564670277158331,1.5101674641148326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ the elders and alt the inhabitants of the land into the 1
 house ot the Lord your God, and cry unto the ]  
 Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886032601:0293/pct:5.086354146896944,26.844406827479194,12.924653634465743,3.1457187191423333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886032601:0293/pct:5.0853889943074,26.84062059238364,12.926944971537003,3.1488011283497883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ the elders and all the inhabitants of the land into the
 house of the Lord your God, and cry uuto the  
 Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886032901:0301/pct:4.813137032842582,26.375764313507503,13.118157795394488,4.544191217342968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886032901:0301/pct:4.8122287224004525,26.3720994858969,13.120400075485941,4.547033486174795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ er the elders and all the inhabitants of the land
 iuto the house of the Lord your God, and cry unto  
 the Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210545:1886032901:0612/pct:4.425627096980349,17.009323452067893,10.688608403898387,3.5142242409753766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210545:1886032901:0612/pct:4.424920127795527,17.007290546193378,10.690894568690096,3.5167921596749134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,7 +915,7 @@ the elders and all the inhabitants of the laud into the
 house of the Lord your God, and cry unto the  
 Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886033001:0305/pct:5.428409305844524,27.23740807548217,12.653678834878002,4.5372554460940755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886033001:0305/pct:5.427382753403934,27.233629300776915,12.656013615733738,4.540094339622642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ the elders and all the inhabitants of the land Into the
 house of the Lord your God, and cry unto the  
 Lord.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886033101:0309/pct:5.082831325301205,27.85072563925363,12.575301204819278,4.547339322736697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886033101:0309/pct:5.081874647092039,27.84687672747374,12.577639751552795,4.550165837479271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ the elders and all the inhabitants of the land into the
 house of the Lord your God, aud cry unto the  
 Ix&gt;rd.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886040101:0313/pct:5.628765060240964,27.46459316856429,12.556475903614459,4.554290474868092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886040101:0313/pct:5.627705627705628,27.46078023045953,12.558817993600602,4.557128974038595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1004,7 @@ the elders and all the inhabitunts of the land into the
 houseotthe Lord your God, and cry unto the  
 l-ord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886040201:0317/pct:5.086989409984872,29.480411225340372,12.916036308623298,3.1536537927202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886040201:0317/pct:5.086027604462092,29.476316155021532,12.918321043675553,3.156688428948465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ the elders and all the inhabitants of the land into the
 house ot the Lord your God, and cry unto the  
 fajrd.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886040501:0325/pct:5.275099262620533,27.878703186137507,12.68670826243146,3.158188932364449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886040501:0325/pct:5.274102079395085,27.874807880396816,12.689035916824196,3.16124074332821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1062,7 @@ twenty third day of March, in the year of
 our Lord one thousand, eight hundred and  
 eighty six, and of the independence of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524093:1886040601:0060/pct:16.811555436672464,125.22099447513813,33.87722348535509,24.042357274401475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524093:1886040601:0060/pct:5.60310243380583,41.73648835282202,11.290897744494963,8.013381211060983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1090,7 +1090,7 @@ twenty-third day of March, iu the year of our Ix&gt;rd
 one thou-and eight hundred and eighty six. and  
 of the Independence ol the United States of Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886040601:0329/pct:4.525575204411485,26.713780918727917,12.7020346073398,6.23321554770318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886040601:0329/pct:4.524714828897339,26.71000565291125,12.704372623574145,6.235867721876766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1114,7 +1114,7 @@ the eiders and all the inhabitants of the land Into the
 house of the Lord your God, and cry unto the  
 Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886040801:0337/pct:4.599236641221374,27.374222724703223,12.709923664122137,4.607122668174109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886040801:0337/pct:4.598359091776379,27.370354670057935,12.712268651020798,4.610004239084358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1135,7 +1135,7 @@ the eiders and all the inhabitants of the land into tin­
 house of the Lord your God, and cry unto the  
 Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886040901:0341/pct:5.342932929139826,29.407636159460978,12.580522925350511,3.1443009545199327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886040901:0341/pct:5.341920818336806,29.403508771929825,12.582875544610722,3.1473684210526316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1156,7 +1156,7 @@ the eiders and all the inhabitants of the lund into the
 honse of the Lord your hoti, and cry unto the  
 Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886041001:0345/pct:4.46189199540406,29.198821383471305,13.02183071620069,3.1429774098498666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886041001:0345/pct:4.461037717786713,29.19472502805836,13.024124066628374,3.146043771043771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1177,7 +1177,7 @@ the eiders and ull the inliubituuts of the land into the
 * house of the Lord your God, and cry unto the  
 fiord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886041201:0349/pct:2.552380952380952,29.023746701846967,14.247619047619047,3.1662269129287597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886041201:0349/pct:2.551894877166254,29.019716745348514,14.24966673014664,3.16925853929464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1201,7 +1201,7 @@ the eiders and all the inhabitants of the land Into the
 house ot the Lord your God, and cry unto the  
 Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886041301:0353/pct:4.224006116207951,27.531601611334906,13.01605504587156,4.597860814001945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886041301:0353/pct:4.223198929868144,27.52777777777778,13.01834511752341,4.600694444444445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1222,7 +1222,7 @@ the elders and all the inhabitants of the laud into the
 house ol the Lord your God, und cry unto the  
 Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886041501:0361/pct:3.6669213139801373,28.995560488346282,12.872421695951108,3.16315205327414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886041501:0361/pct:3.6662211189612375,28.991538354834233,12.874737445102157,3.1661811624358442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1246,7 +1246,7 @@ the elder? and all the inhabitants of the land Into the
 house ot the Lord your God, and cry unto the  
 Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886041601:0365/pct:4.289238944771304,26.173010380622838,12.848737900929967,4.567474048442906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886041601:0365/pct:4.28842504743833,26.169388319955715,12.851043643263758,4.570301688347634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1270,7 +1270,7 @@ the elders and all the inhabitants of the land into the
 house of the Lord your God, and cry unto the  
 I*ord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886041701:0369/pct:4.1595115435985495,27.375847281781713,12.955542835336768,4.5787799142343335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886041701:0369/pct:4.158718046547119,27.372060857538035,12.957840518885922,4.581604426002766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1301,7 +1301,7 @@ the elders and all the inhabitants of the land into the
 bouse of the Lord your God, and cry unto the  
 Lord,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886041901:0373/pct:4.932904932904933,28.705363297945677,12.795312795312796,3.1435268164897283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886041901:0373/pct:4.931972789115647,28.70140612076096,12.797619047619047,3.146539840088227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ twenty third day of March, in the year of
 our Lord one thousand, eight hundred and  
 eighty six, and of the in lependence of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524093:1886042001:0068/pct:14.625302175664787,179.34752300399666,34.09884501745904,14.062645227251604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524093:1886042001:0068/pct:4.874446085672083,59.77695167286245,11.364755382480642,4.6871127633209415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1353,7 +1353,7 @@ the elders and all the inhabitants of the land into the
 house of the Lord your God, and cry unto the  
 Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886042001:0377/pct:5.384615384615385,27.51271827306476,12.73921200750469,4.069847380723223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886042001:0377/pct:5.383605327330708,27.508935936211163,12.741511911461265,4.072724773164696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1387,7 +1387,7 @@ the eiders and all the inhabitants of ttie land into the
 house oi the Lord your God, and cry unto the  
 Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886042201:0385/pct:4.462934947049924,26.59119149523678,12.821482602118003,4.569929587187629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886042201:0385/pct:4.462091132539232,26.587520706791828,12.823785214596333,4.572749861954721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1410,7 +1410,7 @@ er the elders and all tlie inhabitants of the land
 into the house of the Lord your God, and cry unto  
 the Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210557:1886042201:0048/pct:4.5585412667946255,16.597064789404605,10.620601407549584,3.507934614007875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210557:1886042201:0048/pct:4.557812250119943,16.595084705320925,10.622901007516392,3.510498687664042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1453,7 +1453,7 @@ and all the inhabitants of the land
 into the house ot the TLord your  
 God, and cry unto the Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053284:00517176990:1888022901:0171/pct:15.24900036350418,110.02056202878684,14.122137404580153,4.222069910897876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053284:00517176990:1888022901:0171/pct:11.822706357404451,85.2721413647792,10.958775471875294,3.2791529445093666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1500,7 +1500,7 @@ of the land into the house of the Lord your
 God, and cry unto the Lord.&quot; It is fitting  
 that we observe the customs of the fother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777717:1893032201:0087/pct:12.153038259564891,54.88676996424314,49.437359339834956,10.96543504171633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777717:1893032201:0087/pct:3.0388294879009567,13.721692491060786,12.361658225473645,2.7413587604290823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1522,7 +1522,7 @@ It is fitting that we observe the customs
 of the fathers who sought divine aid in  
 their struggle to maintain an existenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202196901:1893032301:0642/pct:35.832606800348735,58.56612082014586,56.49520488230166,19.485344708958305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202196901:1893032301:0642/pct:8.958151700087184,14.641530205036466,14.123801220575414,4.871336177239576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1540,7 +1540,7 @@ gather the elders and all the inhabitants of
 the land into the house of the Lord your God,  
 and cry unto the Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893032401:0090/pct:12.343470483005367,117.1162932479805,58.67620751341681,6.767261088248743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893032401:0090/pct:3.085867620751342,29.279073311995123,14.669051878354203,1.6918152720621857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1559,7 +1559,7 @@ land into the house of the Lord your God, and
 unto the Lord.&quot;  
 It is fitting that we observe the customs of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296333:1893032401:0835/pct:75.52816901408451,161.34695639660382,56.602112676056336,7.425528853072384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296333:1893032401:0835/pct:18.890356671070013,40.336739099150954,14.156759136944077,1.856382213268096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1585,7 +1585,7 @@ gather the elders and all the inhabitants of
 the land into the house of the Lord your God,  
 and cry unto the Lord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893033001:0149/pct:20.917573872472783,64.42467199517418,50.85536547433904,28.894586035288796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893033001:0149/pct:5.232445049601245,16.106167998793545,12.721260455164366,7.223646508822199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1603,7 +1603,7 @@ gather the eiders and all the inhabitants of
 the land into the house of the Lord your God,  
 and cry unto the Lord. the customs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893033101:0098/pct:6.654835847382431,120.54794520547945,58.0301685891748,7.184170471841704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893033101:0098/pct:1.664816870144284,30.136986301369863,14.517203107658158,1.796042617960426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

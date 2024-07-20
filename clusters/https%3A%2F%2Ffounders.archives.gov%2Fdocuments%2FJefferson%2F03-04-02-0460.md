@@ -62,7 +62,7 @@ Independence can bo trusted nowhere
 but with tho pcoplo en masse.  
 Thoy are inherontly independent of al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:83.08823529411765,26.770805278750338,14.583333333333334,10.74602747104767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:62.34238178633976,20.07810395906275,10.950087565674256,8.066253703204955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,7 +86,7 @@ Independence can be trusted nowhero
 but with tho peoplo In mass. They aro  
 Inherently Independent ot all but mora
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:39.35050798258345,90.81716315933315,15.947024673439767,8.062312107133096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:29.53349065166092,68.11970483738726,11.96224360137956,6.053566548237224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ ciety.
   
 Our greediness for wealth and fan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011800:1899071501:0204/pct:62.166172106824924,56.15718528672607,13.600395647873393,4.706419922321224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011800:1899071501:0204/pct:62.177162325530276,56.164800852943415,13.605890757226069,4.710227705429899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ proportion to every one&#x27;s circum­
 stances, are certainly among the  
 debts we owe to society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:80.51428571428572,88.45121820328431,14.857142857142858,4.357625845229151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:60.394342048864125,66.34109691960931,11.144449207029576,3.2735859182140175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

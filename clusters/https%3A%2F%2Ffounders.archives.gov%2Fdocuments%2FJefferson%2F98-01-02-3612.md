@@ -62,7 +62,7 @@ of my brave fellow-citizens, who so nobly
 sustained what is emphatically called our Se­  
 cond War for Independence, and also to fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824021701:0374/pct:35.00160410651267,45.200718993409225,15.062560153994225,6.21929298981426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824021701:0374/pct:34.99599037690457,45.19530313922837,15.065490510558675,6.222541736560428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

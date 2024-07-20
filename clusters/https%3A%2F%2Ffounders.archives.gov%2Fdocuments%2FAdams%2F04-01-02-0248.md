@@ -78,7 +78,7 @@ xnenor? ? :i3 n, there 18 no kuow.og wliere
 they wili &quot;tor. nor into wha&#x27; evils, natural,  
 gnoral or &gt;s lilie??l they will lead us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654437:1876030901:0550/pct:0.15202189115232592,72.33578318787322,14.046822742474916,4.294901240238861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654437:1876030901:0550/pct:0.16342353298875037,72.33865411116216,14.035421100638493,4.309255856683509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ women, there is no knowing where they
 will stop, nor into what evils, natural,!  
 moral or political, they wih lead us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151258:1876031601:0361/pct:4.159957058507783,80.93777821743001,14.38539989264627,7.478484518745672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151258:1876031601:0361/pct:4.164430130613706,80.94437300095625,14.389872964752191,7.478484518745672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ natural, moral or political, they will lead
 us.&quot;  
 A very sensible provision relating t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1876031701:0771/pct:199.375,216.7346063076593,43.57954545454545,34.62776228277194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1876031701:0771/pct:49.85083108396079,54.183651576914826,10.896434152578491,8.656940570692985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ and elegant entertainments gat the better of
 the principles and Judgments of men and  
 women, there is no knowing where they will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654437:1876032101:0592/pct:71.94134718191538,93.40333257247204,13.838399266839774,4.7135357224378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654437:1876032101:0592/pct:71.95280281044754,93.40903903218444,13.826943638307622,4.716388952293997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ there js uo knowing where they will stop, nor
 into what cViis, uatural, uioral, or political,  
 they will lead us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663766:1876032201:0280/pct:67.37709576584257,70.2392958650408,15.728900255754477,5.418538553222701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663766:1876032201:0280/pct:67.37709576584257,70.24540814767275,15.743108837737994,5.415482411906726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ there ia no knowing where they will
 stop, nor into what evils, natural, moral  
 or political, they will lead us.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1876032401:0529/pct:73.41197822141561,34.14448669201521,12.855414398064125,8.428390367553865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1876032401:0529/pct:55.08320726172466,25.61470215462611,9.636913767019667,6.32446134347275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ where they will stop, nor into
 what evils, natural, moral, or po­  
 litical, they will lead us.’’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349190:1876040101:0931/pct:16.40391139493115,56.36848757197023,15.046896826980642,13.256565089172868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349190:1876040101:0931/pct:16.400638467677574,56.360572872788545,15.048882681564246,13.25821398483572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ ing where they will stop, nor into
 what evils, natural, moral or politi­  
 cal, they will lead us.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1876041301:0469/pct:28.719447396386823,89.76192908960867,10.613708820403826,5.425564524369061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1876041301:0469/pct:28.72387530995395,89.7687408467014,10.626992561105208,5.425564524369061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ nicii, tnere i&gt; no knowing where they will stop,
 re r into w hat evils, natural, moral, or politi­  
 cal, they will lead us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:004141867018:1876042201:0271/pct:18.156259248298312,58.868617078700204,12.947617638354544,4.944402461405592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:004141867018:1876042201:0271/pct:18.15357301375943,58.862262521588946,12.950633722937319,4.947466896948762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ where they will stop, nor into what
 evils, natural, moral, or political, they  
 1 will lead us.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1876042701:0417/pct:66.51849915021572,91.53498871331828,9.896718525297425,4.555715165195978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1876042701:0417/pct:66.52285701834663,91.53840891989876,9.901076393428335,4.555715165195978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ men, there is no knowing where they
 will stop, nor into what evils, natural.1  
 moral, or political, they will lead us.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1876042801:0233/pct:17.84525236383007,66.41318124207858,13.317352510320948,6.14702154626109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1876042801:0233/pct:17.842876165113182,66.40616749392755,13.320017754105637,6.149892632097722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ they will stop, nor into what#evils,
 natural, moral or political, they will  
 lead us.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:0039334846A:1876050401:0274/pct:42.9527772751945,74.32642487046633,11.959471684458114,5.466321243523316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:0039334846A:1876050401:0274/pct:42.94500723589002,74.31679834218366,11.961830680173662,5.468851185079653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ men, there is no knowing where they
 will step —nor Into what evils—naturai  
 moral or political—they will lead us.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1876051201:0240/pct:69.95949300927741,79.38859123857549,12.870769632823729,6.114087614245194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1876051201:0240/pct:69.9503527567285,79.38025210084034,12.873443079871091,6.116946778711484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ will stop, nor into what evils, natural,
 moral, or political, they will lead us.  
 &#x27;John Adamt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023759:1876063001:0125/pct:97.8780633592349,121.16659759635309,21.383741781231322,12.246166597596353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023759:1876063001:0125/pct:65.27653213751869,80.78118524658102,14.260089686098654,8.164111065064235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -748,7 +748,7 @@ get the better of the principles and iudgment,
 of moa and women, there is no knowirs  
 where they will stop, nor into 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1876081901:0361/pct:85.30063021631749,266.23543123543124,36.9443025038324,19.149184149184148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1876081901:0361/pct:28.433543405439163,88.74514374514375,12.314767501277466,6.383061383061383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -777,7 +777,7 @@ in our infancy as a nation, before
 Americans got in the way of borrow­  
 ing evil things from Paris. Now le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349190:1876101401:1145/pct:32.85685924161207,38.654519971969165,14.61187214611872,8.647512263489839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349190:1876101401:1145/pct:32.850337435490275,38.649103139013455,14.613934100833664,8.649803811659194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ women, there is no knowing where thev
 will stop, nor into what evils, natural,  
 moral or political, they will lead us.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669203:1877021501:0806/pct:125.57796360059027,106.57286044718582,15.998524348253811,6.890902081727062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669203:1877021501:0806/pct:83.72893862993482,71.0485736314572,10.675193703111548,4.597147262914418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ there is no knowing where they
 slop, nor into what evils, natural, moral  
 political they will lead them. Juhn .l.iim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1877022301:0441/pct:22.87516600265604,91.59717767799872,14.392430278884461,7.9281590763309815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1877022301:0441/pct:17.173227038697892,68.69788325849903,10.795548912140841,5.95253367543297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ men and women, there is no ki dig where
 they will stop, nor into wh-.t is. natural,  
 moral or politic ill, they v. ill h ad «&gt;.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1877061301:0099/pct:17.37258953168044,79.63320463320463,11.27754820936639,6.177606177606178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1877061301:0099/pct:17.36959889826132,79.62222528608852,11.27991048373214,6.180201296015442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ where they will stop, nor into what
 evils, natural, moral or political, they  
 will lead us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588265:1877111701:0288/pct:101.01837502767323,96.13259668508287,17.51162275846801,7.596685082872928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588265:1877111701:0288/pct:78.30140120102945,74.51135868056932,13.565913640263082,5.883519010426991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -924,7 +924,7 @@ men and women, there is no knowing where
 they will stop, nor into what evils, natural,  
 moral or political, they will lead us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1878052901:0305/pct:62.087087087087085,330.5361968425544,41.81681681681682,19.229128146778553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1878052901:0305/pct:15.527600450619602,82.6340492106386,10.458129928651896,4.807282036694638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ they will stop, nor into what evils, na
 tural, moral or political, they will lead  
 as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1878062601:0346/pct:258.28750981932444,323.6977676016027,40.1413982717989,56.09616485403549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1878062601:0346/pct:64.58456098998232,80.92444190040068,10.037320762129248,14.024041213508873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ will lead ua.&quot;
 Our Little Ones.  
 Tiic Spring of the Year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016093:1878062701:0287/pct:30.499380932728023,5.085495283018868,25.546842756912916,92.01061320754717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016093:1878062701:0287/pct:30.493088508355683,5.084745762711864,25.54672993604291,92.00073691967576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1086,7 +1086,7 @@ where they will stop, nor into what evils,
 natural, moral, or political, they will  
 lead us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211101921:1881022301:0200/pct:146.51698330454806,48.370091447014524,46.97754749568221,25.820333512641206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211101921:1881022301:0200/pct:36.63979268643824,12.092522861753631,11.747768499856033,6.455083378160301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ men and women, there is no knowing where
 they will stop, nor into what evils, natural,  
 moral or political, they will lead us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155884:1882080901:0128/pct:48.983139231705195,86.67925037076985,10.898661567877628,5.905352568423891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155884:1882080901:0128/pct:48.97462634688912,86.66756538150445,10.901112269725408,5.907926664869237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ knowing where they will stop nor into what
 evils, natural, moral, or political, they will lead  
 Us. [John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524706:1882101201:0389/pct:15.842055185537584,72.09598887085555,11.227402473834443,2.7938789705541387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524706:1882101201:0389/pct:15.839543364515617,72.08763185348324,11.229586174092278,2.7964529964066305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1281,7 +1281,7 @@ where they will stop, nor into what evils,
 natural, moral, or political, they will  
 lead us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1892071401:0118/pct:9.851485148514852,81.77851918388298,14.405940594059405,5.543436417297575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1892071401:0118/pct:7.393959399240798,61.33709739509816,10.810364746657864,4.1575773129731814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1313,7 +1313,7 @@ will stop nor into what evils,
 natural, moral or political, they  
 will lead us.--John A dams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344037:1893062901:0897/pct:185.55442522889115,186.73527730131505,48.03662258392676,47.35563178959406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344037:1893062901:0897/pct:46.37917005695687,46.6771473488638,12.006712774613506,11.837215949692725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1352,7 +1352,7 @@ the house within, or rather the common j
 throughfare to let our affections pass in  
 and out. Love, anger, pride and avar- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:0039334877A:1893070601:0306/pct:1.7603359173126616,68.20995001190192,14.06653746770026,12.485122589859557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:0039334877A:1893070601:0306/pct:1.7600516712417245,68.20183267880519,14.06830292265461,12.486611924312745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

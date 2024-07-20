@@ -425,7 +425,7 @@ Than Fancy’s feet have ever trod.
 There shall the morn her earliest tears bestow,  
 There the first roses ot the year shall blow.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829071501:0520/pct:61.80965613060091,59.19653893695921,18.200764154220217,10.34610630407911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829071501:0520/pct:61.79892342420559,59.18922259300457,18.203391792556577,10.34894739010423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ I here the first blossom* of (he year shall bl -\v;
 While Angels, with their silver wings o&#x27;ersha le  
 d h- ground, more sacred by thy re lies m»«
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216456:1831111001:0297/pct:19.56369982547993,58.09421329507413,16.998254799301918,3.2879005260640843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216456:1831111001:0297/pct:19.560286162973302,58.08726838015541,17.00110510091316,3.291492329149233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ A link may be bro ken, and our connexion
 dissolved with the d ead, yet we have high  
 and responsible duties to perform toward
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1845062801:0101/pct:141.14376489277205,142.41783044152913,59.17394757744241,47.17167442516575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1845062801:0101/pct:35.285941223193014,35.60445761038228,14.793486894360603,11.792918606291437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ es! for the name of that orphan boy was Andrew
 JAckson. Fame was yet to crown him victor on the  
 plains of New Orleans. The acclamations of a na
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191290:1845100101:0157/pct:80.95238095238095,272.11732973701953,57.754477937964175,21.98246797033041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191290:1845100101:0157/pct:20.24251693248853,68.02933243425488,14.441774087830456,5.495616992582603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ There the tint roses of the year shall blow,
 While angels with their silver wings o&#x27;ershade  
 The ground now sacred by her relics mads.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1849060801:0708/pct:46.72067901234568,19.85135135135135,18.942901234567902,4.972972972972973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1849060801:0708/pct:35.05691684352691,14.891891891891891,14.219563959097048,3.72972972972973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ Will throw aside their trappings gay—-their jestings light
 and free ;,  
 No more upon their rosy lips tlie smile be wreathin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110119:1863072601:0003/pct:84.06674000733406,45.997069401891565,12.284561789512285,2.65085919808179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110119:1863072601:0003/pct:84.06674000733406,46.00372985213801,12.298313164649798,2.660849873451445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1098,7 +1098,7 @@ hip this stone is dedicated by Thomas
 defferson, who, of all men living, loved  
 him most
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_kilo_ver01:data:sn88074142:00280761485:1872040301:1130/pct:128.09853733641262,243.41194746504732,50.26943802925327,9.0382714305889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_kilo_ver01:data:sn88074142:00280761485:1872040301:1130/pct:32.030798845043314,60.85298686626183,12.569778633301251,2.259567857647225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ son, who, of all men living, loved him
 most.&quot;  
 o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774972:1872040501:0527/pct:198.6413043478261,197.95137092602172,37.71739130434783,20.155199172271082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774972:1872040501:0527/pct:49.66707433075146,49.48784273150543,9.430629161570865,5.038799793067771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1170,7 +1170,7 @@ And on I he glorious morning of the resurrection
 thou wilt arise resplendent in beauty, and re­  
 ceive from Him in whom thou didst put th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625510:1877041301:0060/pct:63.1543736410771,70.6186935740839,14.149523331660813,9.25385023898035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625510:1877041301:0060/pct:48.94793691942104,54.736589381259435,10.965651328580687,7.178625325833448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1202,7 +1202,7 @@ And the green turf lie lightly on thy breast;
 There s hall the morn her earliest tears bestow;  
 There the first roses of the year shall blow.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664424:1879012901:0108/pct:164.8645004718889,193.63737692736393,49.561817446406906,8.45253576072822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664424:1879012901:0108/pct:54.95483349062963,64.54579230912131,16.52060581546897,2.8175119202427394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1247,7 +1247,7 @@ And the green turf lie lightly on his breast;
 There shall the morn her earliest tear bestow,  
 There the first roses of the vear should blow.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287496:1885081501:0368/pct:255.79432079815808,205.24257784214336,43.28472755180353,12.976104272266474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287496:1885081501:0368/pct:63.9608520437536,51.31064446053584,10.823258491652274,3.2440260680666184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1312,7 +1312,7 @@ And the rreen turf lie lihhtly on thy breast!
 There shall the morn her earliest tear bestow.  
 There the first roses of the. year shall blow.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654899:1893052701:0287/pct:51.09837631327603,25.7742782152231,11.095192613817256,1.4829396325459319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654899:1893052701:0287/pct:51.106335561922954,25.784120734908136,11.107131486787647,1.4763779527559056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

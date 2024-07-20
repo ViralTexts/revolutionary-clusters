@@ -613,7 +613,7 @@ That in no caso of distress for ren
 rent, shall desert the demised premises,&#x27; and  
 leave the &#x27;same unoccupied and uncultivated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289687:1853071601:0681/pct:44.190140845070424,108.76175002901242,20.05441741357234,2.2977834513171635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289687:1853071601:0681/pct:33.15722062119757,81.57131252175931,15.04963176432917,1.729140071950795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ sections may be taken by ihe tenant to any
 Circuit Judge at chambers, or to the Su­  
 preme Court, at any time within one mont
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289687:1853071601:0681/pct:44.14212548015365,17.778809330393408,40.82906530089629,111.67459672739933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289687:1853071601:0681/pct:33.12520012808197,13.334106997795056,30.627601665065644,83.76465127074388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ paid by tho landlord or landlords, lessor or lessors, if
 they shall see cause lor the same; and in case they shall  
 affirm the act of the said judges, to award costs to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1877041901:0481/pct:26.70277367470868,57.28023671557145,11.078286558345642,8.88916286524473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1877041901:0481/pct:26.698391860846733,57.273175542406314,11.080571053495241,8.891148915187376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ ceeds of the sale, pay all costs of the
 proceedings, and shall pay to the  
 plaintiff the amount of his demand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065460:00415661940:1881012701:0110/pct:248.16479400749063,243.17708333333334,43.52059925093633,36.354166666666664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065460:00415661940:1881012701:0110/pct:62.06444361183964,60.794270833333336,10.884226301985763,9.088541666666666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -895,7 +895,7 @@ turning the said goods and chattels in case a re­
 turn shall be awarded ; provid d, the said  
 sheriff may accept in lieu of such bond a de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529650:1890072401:0253/pct:49.3141592920354,93.03459838439262,14.756637168141593,2.179545800944978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529650:1890072401:0253/pct:49.30325149303251,93.02042060347455,14.75890289758903,2.1830234684547394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -924,7 +924,7 @@ without delay and for duly returning the said goods
 and chattels in case a return shall be awarded; pro­  
 vided, the said sheriff may accept m lieu of suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685324:1890081401:0685/pct:79.90026019080659,42.30075187969925,15.329575021682567,6.69172932330827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685324:1890081401:0685/pct:79.88293951875136,42.29439182077883,15.331671363537827,6.694482032777026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1000,7 +1000,7 @@ bund, as a distress for the said arrears
 &gt;f such rent, and the same to sell or  
 &gt;therwise dispose of, in such manne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295861484:1898031901:0436/pct:50.5,13.205430270391563,17.089285714285715,8.773701335128465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295861484:1898031901:0436/pct:50.5,13.212909981674708,17.101190476190474,8.773701335128465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1038,7 +1038,7 @@ found, as a distress for the said arrears
 of such rent, and the same to sell or  
 otherwise dispose of, in such manne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550604:1898032301:0415/pct:38.6603668704836,8.240031428010214,12.645914396887159,11.490866234531525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550604:1898032301:0415/pct:38.664999073559386,8.243305179074182,12.650546599962942,11.490866234531525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1062,7 @@ landlord&#x27;s title or interest, and during
 the possession of the tenant from  
 whom such arrears became due
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550604:1898032301:0415/pct:38.61867704280156,39.147515222942445,12.284602556976099,4.979375368296995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550604:1898032301:0415/pct:38.62330924587734,39.15078897400642,12.284602556976099,4.979375368296995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1095,7 +1095,7 @@ and chattels whenever same shail be
 found, as a distress for the said arrears  
 of such rant, and the same to sell or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237288385:1898032301:0100/pct:38.76882776686313,10.967923995861161,13.975114603798298,9.086633430533347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237288385:1898032301:0100/pct:38.76882776686313,10.971059480136708,13.988212180746562,9.09290439908444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1122,7 +1122,7 @@ the possession of the tenant from
 whom such arrears became due.  
 Section 4. That any person or person
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237288385:1898032301:0100/pct:38.89980353634578,38.74517919292635,14.263261296660119,7.036026714326027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237288385:1898032301:0100/pct:38.89980353634578,38.74517919292635,14.276358873608382,7.039162198601574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

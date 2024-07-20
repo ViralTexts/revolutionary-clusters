@@ -35,7 +35,7 @@ reserve, a land office shall be established, which
 shall b ■ kept at such place as the President of the  
 United States may direct : and that for the dispo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807111302:0233/pct:25.41998231653404,48.43364344028859,21.419098143236074,7.2716916650844885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807111302:0233/pct:25.414364640883978,48.42444950645406,21.421731123388582,7.276638825613769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -73,7 +73,7 @@ ed at such place as the President of the
 United States might direct. And it was  
 further enacted, that the Lands afore­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808021801:0314/pct:7.3265136853746196,10.018682858477346,29.80370472767487,20.69126576366184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808021801:0314/pct:7.32448866777225,10.01634368433341,29.80468030219274,20.694217448828702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ posal of the public Lands situated be­
 tween the United States Military Tract,  
 and the Connecticut Reserve, and to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808030201:0004/pct:57.697783201138904,69.47112306313228,16.981899532235104,4.610065309258548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808030201:0004/pct:57.711341603959056,69.47539164212233,16.981899532235104,4.618602467238656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ United States Military Tract and the
 Connecticut Reserve, and other pur­  
 poses,” it was enacted, that for the dis­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808031701:0346/pct:10.093959731543624,12.142038946162657,26.899328859060404,11.20274914089347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808031701:0346/pct:10.091250670960816,12.139257901969767,26.901055645017,11.207817987479004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ act, making provision lor the disposal
 Connecticut Reserve, and other pur­  
 poses,” it was enacted, that for the dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808033101:0362/pct:8.147138964577657,38.76611418047882,28.092643051771116,11.256906077348066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808033101:0362/pct:8.144919640424952,38.75719217491369,28.09407064378462,11.26198695818949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ United States Military Tract and the
 Connecticut Reserve, and other pur­  
 poses, 7 it was enacted, that for the dis­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808040701:0370/pct:8.676307007786429,10.028248587570621,28.114571746384872,11.629001883239171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808040701:0370/pct:8.673894912427022,10.025888444339845,28.116022611435454,11.634109986663528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ reserve and for other purposes,&quot; is still in full force.
 3. That the lands containing lead mines in the Indiana ter­  
 rify, if) {hat part of it made into new land districts by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845040501:0130/pct:47.466007416563656,14.276387377584332,15.107814860596072,3.6996735582154514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845040501:0130/pct:47.466007416563656,14.283641639463184,15.112392986311404,3.6996735582154514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ poses,’ is still in full force.
 in the Indiana territory. or in that part ot  
 it made into new land districts by the ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1845042201:0325/pct:42.8954802259887,77.90836870170857,12.598870056497175,4.82098160844488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1845042201:0325/pct:42.90489642184557,77.90836870170857,12.589453860640301,4.835491711103856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

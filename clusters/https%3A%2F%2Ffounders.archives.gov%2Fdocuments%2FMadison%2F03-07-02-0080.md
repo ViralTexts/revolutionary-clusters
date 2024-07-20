@@ -87,7 +87,7 @@ icitra.pls will aflrct thnj- ...n.* nbo arc ntott veotiy
 f o sacr.llce the ot their oou.itrr, ip nurru&#x27;t r.f  
 their o wn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813122301:0269/pct:6.70611439842209,3.8954635108481264,34.80365788058096,90.66814595660749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813122301:0269/pct:6.704912154894227,3.894983360039443,34.803394287080195,90.66107892682525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ most who 4re ir«Mt ready to sacrifice the inlc­
 rtst of tin ir country, in p*« «nil of their own.  
 JAMfcS MAIIWON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122301:0412/pct:58.75980575270825,59.61772583394205,18.266716473664548,34.94034575115656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122301:0412/pct:58.74883286647992,59.61046865489958,18.269530034235917,34.94015013187259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ rests of their country, in pursuit of
 Choir own.  
 JAME8 MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813122501:0185/pct:25.75068243858053,26.943430656934307,16.92447679708826,53.877737226277375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813122501:0185/pct:25.74677786201668,26.940972539001915,16.926964872378065,53.875862907885534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ will effect those most who are most ready to sucrifice
 the intercsts of their country, in pursuit of tiei own,  
 Dece. Y. JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813123001:0957/pct:74.2928870292887,52.27627979679562,22.410041841004183,33.41148886283705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813123001:0957/pct:74.29846582984658,52.27953627719161,22.426778242677823,33.41474534323304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1054,7 +1054,7 @@ Supplies of the most essential kind, fiod
 et ok only, xp BAG ot AN  
 Bl Mo s o, Piie bir S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814010401:0001/pct:75.10308545428693,86.94688132652078,17.929759704251385,7.818374626434012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814010401:0001/pct:75.10308545428693,86.94688132652078,17.93449926536803,7.818374626434012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1128,7 +1128,7 @@ ready to facrifice the interest of their coun­
 try, in purfuii of their own.  
 : ; JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814010401:0002/pct:7.3226219252097255,4.492432276101417,17.88710365420162,40.05591439313603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814010401:0002/pct:7.3226219252097255,4.492432276101417,17.89184321531826,40.065554805745684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

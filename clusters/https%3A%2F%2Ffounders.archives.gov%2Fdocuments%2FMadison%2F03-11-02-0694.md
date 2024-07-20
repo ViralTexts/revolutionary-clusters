@@ -81,7 +81,7 @@ ter the signature of that convention^ and
 hee:i collected previous to the 17th August,  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817020801:0368/pct:51.703992210321324,33.748271092669434,14.735475494969165,13.793537030051553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817020801:0368/pct:51.69560279084861,33.744028161931105,14.738493158094002,13.795993630039392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ tion, and been collected previous to the
 17th Augutt, 1815. ,  
 james madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1817021201:0411/pct:43.197586726998495,37.26677737618443,16.968325791855204,21.96932695125525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1817021201:0411/pct:43.19107223646509,37.26313733151006,16.969537023073443,21.96962297323696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ Britiih ports afier the fizoature of that con--
 17th Augufl, 1815 n S  
 o - . JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817021801:0025/pct:24.79477044694436,71.53307232639604,17.908178777743995,20.574902122398516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817021801:0025/pct:24.799837843316105,71.53650662820249,17.908178777743995,20.574902122398516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ whateve: Mh‘ dutics may have
 mmenced ia B sish porte after the signa­  
 re of that coetention, sad base collecte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817021901:0438/pct:1.4870606411741984,59.41647597254005,21.2630359212051,17.837528604118994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817021901:0438/pct:1.4870606411741984,59.42410373760488,21.2630359212051,17.837528604118994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

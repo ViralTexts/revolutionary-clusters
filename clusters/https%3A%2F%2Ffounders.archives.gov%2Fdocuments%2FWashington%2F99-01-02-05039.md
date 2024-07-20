@@ -121,7 +121,7 @@ State waiting to see what another will de. This
 thwarts all our measures, after a heavy though ineffee-­  
 tual expense is incurred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0289/pct:235.4688796680498,203.40317166338696,54.93775933609958,25.53536288922329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0289/pct:78.4896265560166,67.80105722112899,18.312586445366527,8.511787629741097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ plans The willing fVate? are almost ruined by their ex
 ertions i distrust and jealousy ensue Hence proceed neg­  
 lect end Ill-timed compliance*?one State waiting to se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:15.590421139554088,77.58115849777212,15.755573905862923,7.3838319541693185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:15.595926231764382,77.58964566093783,15.761078998073218,7.388075535752175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ one Stat uAilina i wb.K another will do.
 Thisth warts all our measures, after a heavy ihuugh  
 ineffectual expense is incurred.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0059/pct:89.93975903614458,86.61417322834646,17.21385542168675,13.708532335097457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0059/pct:67.4853096278439,64.96708403252872,12.927527497363267,10.274945140054214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ tale, and not merely recommend, and leave
 it to the states afterward to do as they  
 please
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1861073101:0232/pct:23.907632743362832,82.56806645131518,17.049225663716815,9.125519150899862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1861073101:0232/pct:17.936661595906514,61.92893401015228,12.792144931544739,6.852791878172589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -66,7 +66,7 @@ public service, to the prejudice of his private
 affairs, he has a right to a reasonanle c mi­  
 pensation ; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556677:1866012001:0226/pct:23.007518796992482,55.33315421816228,13.101503759398497,4.325631380977969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556677:1866012001:0226/pct:23.021616541353385,55.343229446534124,13.101503759398497,4.315556152606126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ into public service to the prejudice of his
 private affairs, he has a right to a reasonable  
 compensation; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1881022501:0250/pct:105.66318926974665,129.9875225287675,38.22652757078986,13.974767780396506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1881022501:0250/pct:26.420719209986956,32.496880632191875,9.558412520961431,3.4936919450991266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ discord among the people. But if any
 man Is called into public service to the  
 prejudice of hfs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hydrogen_ver01:data:sn85000631:00199918242:1899071501:0451/pct:95.80108359133126,91.0181236673774,16.69891640866873,6.063432835820896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hydrogen_ver01:data:sn85000631:00199918242:1899071501:0451/pct:76.65118679050568,72.81449893390192,13.353973168214655,4.850746268656716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ lic service to the prejudice of his private
 affairs he has a right to a reasonable  
 compensation; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289328:1899072001:0071/pct:27.980852915578765,86.91891891891892,18.690165361183638,7.45945945945946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289328:1899072001:0071/pct:21.010232963204878,65.1891891891892,14.021336816895275,5.6061776061776065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ prejudice of his private affairs he has
 a right to a reasonable compensation;  
 and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_irving_ver01:data:sn92067221:00514150126:1899072001:1015/pct:40.23697852382128,78.0765456329735,12.61416934090348,5.691854759568204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_irving_ver01:data:sn92067221:00514150126:1899072001:1015/pct:40.23697852382128,78.0765456329735,12.620340656627993,5.701668302257115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ prejudice of his private affairs he has
 a right to a reasonable compensation;  
 and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1899072101:0515/pct:64.40397350993378,213.57156082206998,42.63245033112583,18.163303092019998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1899072101:0515/pct:21.48577740955537,71.19052027402333,14.222590444628556,6.054434364006665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ man is called into public service to the
 prejudice of his private affairs he has  
 a right to a reasonable compensation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_barberry_ver04:data:sn92070446:00280774480:1899082501:0150/pct:75.9663564781675,100.68282233230687,15.497494631352899,6.520283839871468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_barberry_ver04:data:sn92070446:00280774480:1899082501:0150/pct:56.98943977089672,75.51211674923015,11.634150706998389,4.900254384790467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ to the prejudice of his private affairs
 he has a right to a reasonable compen­  
 sation ; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291141:1899090101:0459/pct:72.64701245467444,16.503228892609425,21.72473592937096,77.6967232719445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291141:1899090101:0459/pct:72.65883651269115,16.51219803874671,21.712911871354247,77.69971298732361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

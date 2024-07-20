@@ -68,7 +68,7 @@ truth, whose power alone is wide to
 reduce the spirits of nuture to suita­  
 ble silence and submission
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814112201:0657/pct:26.73785594639866,55.30235518777849,17.71356783919598,26.594525779758115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814112201:0657/pct:26.73225873979485,55.29531568228106,17.716837624729607,26.595383570943653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ spirit, which leadeth into all trath, whose
 power aloae is able to reduce the wpirits of  
 nalure to suirabie silence and submission
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814122101:1163/pct:1.7691659646166806,47.65041289815179,23.352990732940185,21.067636649626426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814122101:1163/pct:1.7803987643920247,47.65368986761043,23.347374333052514,21.07091361908507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ uto ell tratbt whose power alone ie a-&#x27;
   
 |ctoredUvr the o! «ature %
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816110101:0124/pct:61.16981132075472,6.399491094147582,34.0377358490566,89.2239185750636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816110101:0124/pct:61.158272024146385,6.398677013102659,34.03760296799346,89.21680871814442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ power alone is able to reduce the spirit of nature
 into suitable silence and submission  
 WM, CANDY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1850051101:0557/pct:114.74903474903475,194.0703957937783,52.74131274131274,54.79772162991091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1850051101:0557/pct:28.69279783742035,48.51759894844457,13.187874106970458,13.699430407477728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ whose power alone is able to reduce the
 splrit of nature into suitable silence and  
 subjection. W CAneY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779982:1885032501:0287/pct:96.22030237580994,198.6013986013986,33.36933045356371,46.50942278060922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779982:1885032501:0287/pct:24.064821066846726,49.65034965034965,8.345712356515868,11.627355695152305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -828,7 +828,7 @@ able to reduce the spirit of nature into
 suitable silence aud subjection.  
 Wm.Caxby
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:00202198053:1885042301:0840/pct:61.522633744855966,34.384624861401996,22.445130315500688,28.44647037082666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:00202198053:1885042301:0840/pct:41.03619831875107,22.92718984846618,14.976839938239836,18.960206973019588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ effectually turned to that spirit which lead­
 to redece the spirit of nature into suitable  
 silence and subjection. W.n. Casüv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn83016223:00200295766:1885050301:0419/pct:69.8329853862213,19.174367215749296,18.632567849686847,20.50020088388911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn83016223:00200295766:1885050301:0419/pct:52.3884103367267,14.383286460425873,13.978073610023493,15.377661711530735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -926,7 +926,7 @@ i eth unto all truthwhose power
 le jr able to reduce the spirit of  
 tion oatare into suitable silence andsubje
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535106:1885050701:0282/pct:4.238329238329238,97.94319294809011,20.27027027027027,25.297327550020988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535106:1885050701:0282/pct:2.8267103646046703,65.30012592696237,13.519049569848423,16.86022107177837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -34,7 +34,7 @@ was cfiublifhed hy the treaty of Grenville : Provided,
 !de (hall not expend in opening die fame, more than  
 fix thonfar.d dollars. And to caufe to he opened 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806060301:0032/pct:57.84259768849752,33.30867850098619,17.739864245092644,3.833826429980276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806060301:0032/pct:57.831988261188556,33.30457290767903,17.742724382489605,3.8374625087308436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +89,7 @@ pensations for clerks in their respective
 departments, in such manner, ms the ser­  
 • vices to he performed shall, in their jndg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806062801:0218/pct:23.605229239550727,76.00558304783657,17.308046400294604,12.320771475701052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806062801:0218/pct:23.600883652430046,75.99594011672164,17.310996563573884,12.323437367842342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ lot msr Indian boundary line which was
 established by the treaty of Grenville: Pro.  
 vided, he shall rtot expend in opening th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806062801:0218/pct:41.171055054317804,89.12574546377363,17.34487203093353,4.75827940616673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806062801:0218/pct:41.16347569955818,89.11443795990866,17.347815414825725,4.761904761904762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ thousand dollars. And te caule to be
 opened a road from Nathville in the  
 state of Tenneffze, to Natchez in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806090901:0353/pct:24.81260517056754,54.86830423202131,16.062413951353832,8.010259445595343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806090901:0353/pct:24.81260517056754,54.87159251586597,16.067513130386008,8.016836013284667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ United States, three thousand lout hun­
 dred dollars:  
 For compensation to the marshals o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807030901:0002/pct:78.96447140381282,61.7603047204462,18.82582322357019,13.24989797306489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807030901:0002/pct:78.9789139225881,61.7603047204462,18.833044482957828,13.258967033963634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ in addition to the sums allowed by the act, intruded,
 clerks, and to authorise the laying out certain pub­  
 lic roads ; and for other purposes,” thirteen thou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807031801:0421/pct:4.666170265574585,42.61123741474505,21.07222635889799,2.7119194543683016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807031801:0421/pct:4.66501240694789,42.604318882935544,21.073200992555833,2.7155382367267413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ compensation of clerks, anti to authorise
 the laying out certain public roads; and  
 for other purposes,” thirteen thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807033101:0109/pct:61.371773129828526,10.30640668523677,17.957414735255323,5.760952139782224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807033101:0109/pct:61.36021100226074,10.305101911634384,17.960311479527757,5.764442756467063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ district of Orleans, fifty-nine thousand font* hun­
 dred dollars :  
 For the like compensation granted to the sever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112002:0245/pct:3.0303030303030303,36.77456425972036,21.840628507295175,10.630147481325416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112002:0245/pct:3.0296229802513466,36.76752202221371,21.84320766008378,10.63449508489723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ ciatu judges of the District of Colum­
 bia : to the ottorney general, and to  
 the District judge of the territory o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051701:0167/pct:40.49429657794677,6.203222123557022,18.288973384030417,11.92439426614233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051701:0167/pct:40.48659950579738,6.202435312024353,18.291832984857123,11.927109758159986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ intituled “ An act to regulate and fix the com
 ! pensAtion of clerks, and to authorise the laying!  
 J out certain public roads, ami for other purposes,” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810070601:0074/pct:24.466546112115733,47.974206107799006,17.974683544303797,2.153546660177637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810070601:0074/pct:24.462122581811606,47.968369829683695,17.977460374856868,2.157339821573398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ veral district atiornies of the U. S. three thou­
 sand four hundred dolbrs :  
 For compensation granted to the several mar­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070201:0070/pct:23.348017621145374,64.2830723708544,16.969162995594715,9.567254345949944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070201:0070/pct:23.343904157857647,64.27514792899409,16.972046041813485,9.570184089414859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ late ami fix the compensation of clerks, and
 to authorise the laying out certain puidii  
 roads and for other purposes,” onethousand*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813032501:0091/pct:57.38615327656424,47.485080988917304,17.734172528693076,2.216538789428815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813032501:0091/pct:57.375532111789745,47.47929858743302,17.737059658214573,2.220327975320669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ allowed by the act, diticlc*fytii ‘ An act to regulate and
 fix the Compensation &lt; f clerks, and to authorise the  
 laying out of certain public roc Is and for other pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814083101:0130/pct:5.825945359146011,24.700654240217258,16.935046137144926,1.9256881866436242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814083101:0130/pct:5.824891461649783,24.69760552949889,16.938012542209357,1.9295647165308978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ rise the laying out certain pnWic roads, and for other
 purposes,’ six thousand six hundred nu.l tliirty four  
 dollars and nine cents
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814083101:0130/pct:5.880224353175321,56.27700283915566,16.79030215306676,3.7279348228613753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814083101:0130/pct:5.879160636758321,56.27005677610467,16.793294741919922,3.7315889080885376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

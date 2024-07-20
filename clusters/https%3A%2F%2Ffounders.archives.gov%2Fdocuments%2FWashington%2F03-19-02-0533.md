@@ -109,7 +109,7 @@ in this case will be productive of much
 discontent in those who are held in servi­  
 tude.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862121201:0552/pct:42.26898444647758,32.415679124886054,13.79231473010064,3.7374658158614404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862121201:0552/pct:42.27470265324794,32.415679124886054,13.815187557182067,3.7420237010027346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ regard and attachments
 Yr Most Obcd&#x27;t Servt,  
 , G. Washington*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1870121501:0068/pct:16.47196261682243,47.01415803211263,16.38700084961767,23.625721743257138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1870121501:0068/pct:16.47196261682243,47.01943104221045,16.394080996884735,23.625721743257138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

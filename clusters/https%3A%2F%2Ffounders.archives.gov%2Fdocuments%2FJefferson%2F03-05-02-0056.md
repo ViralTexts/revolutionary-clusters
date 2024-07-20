@@ -134,7 +134,7 @@ oof by the fies of bfood and inferest, and enjoy ing, like us, the
 rights of self-government.&quot;&quot;  
 &quot;These are antiquated opinions, I shall be told
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845022501:0395/pct:2.0696293919460933,268.888096935139,43.381999037381675,12.105013067236873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845022501:0395/pct:0.6898764639820312,89.62936564504633,14.460666345793893,4.035004355745625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ with free and independent Americans, unconnected with us
 but by the ties of blood and interest, and enjoying, like us,  
 the rights of self-government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845022801:0174/pct:209.84803337306317,188.88888888888889,38.98986889153755,9.440355181680102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845022801:0174/pct:69.93892447489945,62.955607476635514,12.994686925865237,3.146417445482866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ with Us, but by the ties of blood and interest,
 and enjoying, like us, the rights of self-govern­  
 ment.1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1845030301:0628/pct:53.29933707292198,85.24146544546211,14.757776644569097,4.968082153760755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1845030301:0628/pct:53.29390169284112,85.23555123846528,14.759670949758652,4.970050186174518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ pendent Americans, unconnected with us but by the ties of
 blood and interest, and enjoying, like us, the rights of sell­  
 government.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845083001:0216/pct:63.89342033713975,27.660747766626226,15.19847743338771,3.97044226315209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845083001:0216/pct:63.89342033713975,27.668100437483915,15.203008881638572,3.9741185985809344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ e; and scarcely loss singular are the expresions, though
 iess minute, of Mr. JerrERSON.  
 It would be curlous indeed, if the very esgerness with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845083001:0742/pct:93.26173311755186,271.83230176340066,39.29674856554362,15.777180894546303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845083001:0742/pct:31.08267137393351,90.60018682858477,13.096989310581543,5.258446208936634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ icans, uncortnected with us bil by the ties of
 blood and interesl, and enjoying like us the  
 rights of self-Governitient
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845090501:0666/pct:132.40154227485542,23.138923094145305,37.978518314513906,15.056531960147767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845090501:0666/pct:44.12777089357015,7.712111036489814,12.657763091468173,5.018282217744944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ free and independent Americans, unconnected
 with us but&quot; by the ties of blood and interest,  
 aud enjoying, like ua, the rights of.self-government-.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1845091101:0317/pct:48.39765678842178,10.695394142691265,19.572708476912474,6.592697716423687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1845091101:0317/pct:36.321323909670745,8.024770997290672,14.687122909843131,4.941297897045542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ o the time when its descendants should have spread
 themselves through the whole length of that coust cov  
 ering it with free and independent American
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845112401:0549/pct:213.25209444021326,207.29884215154624,59.34881949733435,11.681078704382237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845112401:0549/pct:53.3028745478774,51.81711606096131,14.83438035408338,2.919841735052755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ free and independent Americans, unconnecttdicilh
 us but by the ties of blood and intenst, and enjoying,  
 like us, the right of self government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1845112901:0184/pct:38.775510204081634,76.8016656592115,15.016006402561024,4.332057223453556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1845112901:0184/pct:38.77163148944683,76.79650772330423,15.017838684938814,4.334004925005597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ forward with gratification to the time
   
 e ee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1857121001:0268/pct:15.468923418423973,260.73011429904363,29.203662597114317,7.662701189643107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1857121001:0268/pct:5.156307806141324,86.9100380996812,9.734554199038106,2.5542337298810356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ tween the Atlantic coast and the val-­
 ley of the Great West. Fifty years  
 ago and that impression was remove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1857121001:0268/pct:15.052719200887902,267.7280149288547,30.382907880133185,20.142290646139493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1857121001:0268/pct:5.017573066962634,89.24267164295156,10.127635960044396,6.714096882046497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ by the ties of blood and inttrest, and
 enjoying, like us, the rights of self­  
 government&quot; The American f ur co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_jonesville_ver01:data:sn96077142:00415669951:1894090801:0694/pct:96.98023426061494,36.3390092879257,20.259882869692532,5.559855521155831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_jonesville_ver01:data:sn96077142:00415669951:1894090801:0694/pct:64.6832662028561,24.226006191950464,13.51153423654339,3.7151702786377707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

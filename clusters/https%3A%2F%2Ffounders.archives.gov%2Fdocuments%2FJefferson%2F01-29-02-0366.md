@@ -290,7 +290,7 @@ llli mors gravis incubat
 Cgui notus nimis omnibus.  
 Ignotus moritur sibi.”—.ictus ii. 191—103
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1845022201:0599/pct:64.38228919393126,25.243590629534932,12.83930230157911,2.936908299357335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1845022201:0599/pct:64.37564499484004,25.241846323935878,12.84141726866185,2.9390086604016954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ nimis omnibus, ignotus moritur sibi.&quot;
 evil; whereof the latter is a curse: for  
  in evil the best condition is not to will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1859101501:0030/pct:1.7543859649122806,327.2983643542019,69.77671451355661,12.803158488437676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1859101501:0030/pct:0.43859649122807015,81.82459108855048,17.444178628389153,3.200789622109419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

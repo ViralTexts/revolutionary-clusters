@@ -120,7 +120,7 @@ dciit in his wiiiioin will provide aeainft this e­
 vil.  
 (Signed) ELIAS BOUDINOT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805021501:0351/pct:5.051432770022043,14.051756469558695,17.87288758265981,43.91798974871859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805021501:0351/pct:5.05050505050505,14.05,17.87572696663606,43.916666666666664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ About 11.( 00 dollars of the gold coin,
 is the produce of virgin gold, found in the  
 county of Cabarrus, N. Carolina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805021601:0069/pct:21.820975797157125,83.04272594170105,17.038033038801384,1.9699188074005058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805021601:0069/pct:21.816785096984827,83.03167420814479,17.04116253760963,1.9740928045426316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ that the finelt particles are negleéted,
 and only the large grains and lumps  
 forfihgateend gl CT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805051401:0078/pct:78.11912225705329,61.522491349480966,16.567398119122256,13.544241225902125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805051401:0078/pct:78.12434691745037,61.529082221123744,16.562173458725184,13.544241225902125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +655,7 @@ ELIAS BOUDI NOT, Director.
 Mint of the United States, &gt;  
 Philadelphia, 1st Jan. 1805. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805052201:0199/pct:21.313386438702157,1.746493781423657,36.972993977074026,93.87404075152156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805052201:0199/pct:21.30924630924631,1.7462627331657627,36.97228697228697,93.86603166203642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

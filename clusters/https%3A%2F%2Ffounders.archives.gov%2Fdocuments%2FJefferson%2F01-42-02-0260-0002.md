@@ -545,7 +545,7 @@ lakes Maurepas. and Pontchartain, to the sea 5 and
 to this purpsfe, the most Christian King cedes in full  
 ~ right, and guarantees to his Britannic Majesty, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0962/pct:39.082687338501295,19.771702367531002,27.670111972437553,11.85174746335964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0962/pct:39.097042779213325,19.771702367531002,27.670111972437553,11.85174746335964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -946,7 +946,7 @@ of his Britannic majefty and thofe of his moft
 chriftian maiefty, in that part of the world fhall  
 be fixed irrevocably by a line drawn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804092201:0167/pct:24.30780294857965,77.81659388646288,17.439769866954332,4.616344354335621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804092201:0167/pct:24.303433399245012,77.80688622754491,17.442626879980825,4.6199268130405855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -986,7 +986,7 @@ Are. XXIV. Great Britain (hall at
 the end of three months after the ex­  
 c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804100101:0001/pct:40.53872053872054,28.78470768801451,19.663299663299664,18.75261615738803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804100101:0001/pct:40.54620276842499,28.78470768801451,19.65581743359521,18.76656899679085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1036,7 +1036,7 @@ tie in lihe manner the boundaries between
 the other British and&#x27; French colonies is thosn*  
 parts.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042201:1094/pct:72.7387251196775,49.056,22.146636432350718,9.312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042201:1094/pct:72.72040302267003,49.0481522956327,22.14735516372796,9.314509678451447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1059,7 +1059,7 @@ isiana to the west, at that time it was under­
 stood, as it has been ever since, till very late­  
 ly, that the Mississippi took its source i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042201:1094/pct:72.78911564625851,86.112,21.7939027462837,6.464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042201:1094/pct:72.77078085642317,86.09822428411454,21.79471032745592,6.466965285554311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1120,7 +1120,7 @@ the riicr Iberville, and from thence .v h &#x27;
 und o/the lakes Alaure/ias and Punch ier  
 train to .he sea ; and to this purpose, the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011201:0316/pct:58.117475373951116,76.12031921424186,17.730755198832544,8.606507059545734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011201:0316/pct:58.10687579792084,76.11097471151486,17.733600826797982,8.609542515754153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1145,7 +1145,7 @@ river Iberville, and from thence, by a line drawn
 aioog the middle of this river, and the lake  
 Maurepas and Pontchartrain, to the sea ; 8c fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011701:0325/pct:59.76406533575317,13.32355457767999,17.549909255898367,5.696125168072363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011701:0325/pct:59.75322083106514,13.321926179418234,17.552773241395997,5.699502974007985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1256,7 +1256,7 @@ France. By the 16th art. Great Britain re­
 store* to Spain all that she had conquered in  
 the island of Cuba with the fortress of Ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811012501:0031/pct:71.63383545770567,63.71907876030708,22.43337195828505,19.88911003696332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811012501:0031/pct:71.61723818350325,63.71002132196162,22.433966635773864,19.889836531627576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1595,7 +1595,7 @@ fixed&quot; as &quot;the confines between the dominions of g
 his Britannic Majesty and those of his most Chris- j,  
 tiA Msjrsty in that port of the world;&quot; without re- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845050501:0022/pct:0.8234362628661916,86.53244966862573,14.014251781472684,3.9639864949356007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845050501:0022/pct:0.8234362628661916,86.54078612813139,14.03008709422011,3.968154724688425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1635,9 +1635,9 @@ world, shall be fixed irrevocably, by a line drawn
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1845-06_16_84/page/n4/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1845-06_16_84/page/n4/mode/1up?view=theater)
 
-#### 1845-06-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1845-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1681,7 +1681,7 @@ of liia Britannic Majesty in that part of the
 world, s&#x27; all be fixed irrevocably by a line drawn  
 alon?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845060901:0141/pct:4.444092993832042,10.936517913262099,15.530602562074964,3.431803896920176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845060901:0141/pct:4.449364753018082,10.940708150010476,15.525330802888924,3.4401843704169286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1709,7 +1709,7 @@ We have thus explained all the original titles to
 the country. It remains to trace them to the present  
 claimants, Great Britain and America. Gr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845060901:0141/pct:4.428277716273921,14.2049025769956,13.632769255100428,7.027027027027027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845060901:0141/pct:4.438821234646001,14.209092813743977,13.627497495914387,7.027027027027027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1747,7 +1747,7 @@ the confines between the dominions of his Britannic?settlement shall be formed h
   
 lajesty in that part of the world, shall be fixed irre-Fsubjects in such parts of those coasts as are situater
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191290:1845062101:0037/pct:27.70979020979021,32.260774594640004,124.82517482517483,25.606989834495504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191290:1845062101:0037/pct:6.9289617486338795,8.065193648660001,31.21311475409836,6.401747458623876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1805,7 +1805,7 @@ same commissioners shall also have orders to describe and
 settle, in like manner, the boundaries between the other  
 British and French colonies in those parts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845111101:0672/pct:26.787741203178207,74.94331065759637,13.620885357548241,2.683295540438398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845111101:0672/pct:26.798551429652452,74.9517090786932,13.610075131073996,2.6874947509868146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1831,7 +1831,7 @@ fixed between the said bay of Hudson and the c
 places appertaining to the French, which limits both *  
 the British and French subject* shall be wholly for- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845111401:0683/pct:59.43089430894309,87.95059238719435,14.325203252032521,5.82304008066549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845111401:0683/pct:59.43089430894309,87.95899504243341,14.330623306233063,5.827241408285018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1855,7 +1855,7 @@ for the settlement of limits according to
 he treaty of Utrecht, which has been discovered,  
 s contained in a passige in Charlevoix&#x27;s Histoire d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845111401:0683/pct:73.36585365853658,53.90723468616083,15.75609756097561,4.713889589110159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845111401:0683/pct:73.36585365853658,53.91563734139988,15.766937669376693,4.709688261490631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1877,7 +1877,7 @@ also have orders to describe and settle, in like manner,
 the boundaries between the other British and French co-­  
 lonies in those parts.&quot;-2 Jenkinson&#x27;s Treaties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742927:1845111401:0572/pct:52.69778219132738,161.77501413227813,46.408474015226744,9.429055963821368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742927:1845111401:0572/pct:17.565927397109125,53.925004710759374,15.469491338408915,3.143018654607123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1910,7 +1910,7 @@ shall also have orders to describe and settle, in like
 manner, the boundaries between the other Brili.-h  
 and French colonies in those parts.—[2 Jenkinsoo’s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845111901:0779/pct:44.91295938104449,49.45347533632287,12.572533849129593,7.875560538116592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845111901:0779/pct:44.90427383484819,49.44654616785764,12.574937149487527,7.877959927140255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1933,7 +1933,7 @@ cribe and settle, in like manner, the boundaries
 between the other British and French colonies in  
 those parts.—2 Jenkiiisnn’s &#x27;I&#x27;reaties.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1845112001:0428/pct:43.30960854092527,28.866731517509727,17.793594306049823,5.070525291828794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1845112001:0428/pct:43.30190357587618,28.86322188449848,17.7963588922493,5.073961499493414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1970,7 +1970,7 @@ source to the river Iberville; and from thence, by a line
 drawn along the middle of this river and the lakes  
 Maurpas and Ponchartrain, to the sea,&quot; ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742927:1845121001:0680/pct:51.601886485607416,238.94579353205202,46.54415352089771,15.744044193808262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742927:1845121001:0680/pct:17.200628828535805,79.64859784401735,15.514717840299236,5.248014731269421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1999,7 +1999,7 @@ nions of his Britannic Majesty in that part of the world (the
 continent of America) shall be fixed irrevocably by a line  
 drawn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845121301:0275/pct:50.53554040895813,47.916666666666664,15.45416608707748,2.4671052631578947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845121301:0275/pct:50.54481383595308,47.9203216374269,15.444892660082534,2.4707602339181287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2064,7 +2064,7 @@ part of the world fthe continent of Aine­
 rici) sh ill be fixed irrevocably by a line  
 drawn along the middle of the Mississippi,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1845123001:0469/pct:55.48414738646101,52.30919340849957,12.596401028277635,3.751084128360798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1845123001:0469/pct:55.48414738646101,52.312807169702225,12.596401028277635,3.7546978895634577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2088,7 +2088,7 @@ America) shall be fixed irrevocably by a
 line drawn along the middle of the Mis­  
 sissippi river, from ils
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1846010701:0229/pct:104.89350912778905,47.72768422958537,19.726166328600407,8.274488502625385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1846010701:0229/pct:78.71638762049722,35.79576317218903,14.814814814814815,6.2103929024081115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2190,7 +2190,7 @@ Iso to describe and settle in like manner the
 aries between the other British and French  
 fs in those parts. On this let me read fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846031101:0278/pct:34.29654192325912,49.8625,11.747986736144007,3.3/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846031101:0278/pct:34.30180535817674,49.87083333333333,11.747986736144007,3.3041666666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2215,7 +2215,7 @@ sioners shall also have orders to fcsc?be and . et
 tie in like manner the boundaries beum  
 British and French colonies in those parts. L n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846031301:0542/pct:45.565840549417736,13.59447004608295,13.541355628545835,4.637096774193548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846031301:0542/pct:45.57081715935105,13.600870455709165,13.541355628545835,4.640296979006656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2235,7 +2235,7 @@ and the places appertaining to the French, ana also to itsscribe
 and settle, in like manner, the boundaries between &#x27;&#x27;Is  
 the other British and French colonies in those parts.&#x27; th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040101:0358/pct:32.518414041686256,35.35883970992748,14.966306221595362,2.3380845211302828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040101:0358/pct:32.52363788329938,35.3630074185213,14.961082379982239,2.3380845211302828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2274,7 +2274,7 @@ t other British and French colonies in those paits.&#x27;
 - power, who executed the stipulations of the treaty  
 &#x27; in establishing the boundaries proposed by it. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040201:0371/pct:66.72424623115577,30.218145761031234,14.368718592964823,6.494794248884482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040201:0371/pct:66.72424623115577,30.218145761031234,14.379187604690117,6.50305734589324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2344,7 +2344,7 @@ lishing the boundaries proposed Init. They fixed the north
 4 settle, 111 like manner, the boundaries between the other 11.1­  
 4 tish and French colonies in those parts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0340/pct:21.263736263736263,61.01905083981513,15.0,4.24980272799008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0340/pct:21.272893772893774,61.02656596400256,15.0,4.253560290083794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2367,7 +2367,7 @@ lishing the boundaries proposed Init. They fixed the north
 ? settle, in like manner, the liouridarie* between the other  
 &#x27; British and French colonies in those parts.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0342/pct:37.14956497721309,91.49977748108589,15.066979698936612,4.572763684913218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0342/pct:37.14956497721309,91.49977748108589,15.066979698936612,4.5764723334816795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2392,7 +2392,7 @@ pertaining to the French; and also to describe and
 t settle, in like maimer, the boundaries between the  
 I other British and French colonies in those parts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846040401:0612/pct:37.23340040241449,44.36480305822923,15.462776659959758,5.659089357635334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846040401:0612/pct:37.22965496428931,44.3617747440273,15.464574321832142,5.660978384527873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2438,7 +2438,7 @@ withiu a year, the limits between the said bay
 of JIudsou and the places appertaining to the  
 Freuch; and also to describe aud settle, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846041101:0352/pct:45.63380281690141,43.47323389987282,19.690140845070424,8.000924962423401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846041101:0352/pct:34.234995773457314,32.604925424904614,14.778810932657086,6.012255752110071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2533,7 +2533,7 @@ and Spain. The subsequent cession of Louisiana
 by Spain to France in 1800 enabled her to cede the  
 same to the United States by the treaty of 1803. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846042801:0510/pct:98.81548214881548,203.54898766581337,47.36403069736403,30.47474982545962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846042801:0510/pct:32.93849404960516,67.84966255527112,15.788010232454678,10.158249941819875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2591,7 +2591,7 @@ ver Iberville, and from thence, by a line drawn ,
 ong the middle of thia river and the lakes Man- i  
 ipas and Pontehartrnin, to the sea 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846051601:0521/pct:27.27130814861068,81.68108776266996,12.925382453949423,6.415327564894932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846051601:0521/pct:27.281715058799044,81.68108776266996,12.92017899885524,6.427688504326329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2613,7 +2613,7 @@ thence further southwest direct to the latitude of
 nine degrees. All the lands to the north ot the imagiUne  
 being assigned to (treat Britain, and all south
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846052301:0547/pct:27.559793653274973,93.29373917347192,12.724714710020322,3.093293739173472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846052301:0547/pct:27.5650044291595,93.30198795677637,12.724714710020322,3.093293739173472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2650,7 +2650,7 @@ forty-nine degrve*. All the lauds to the north of the imagi­
 ? Louisiana and Canada, Crozat&#x27;a Grunt not subsisting long af­  
 4 ter the death of Louis XIV.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846052301:0368/pct:67.16251911580703,2.392933020239293,31.336021131655777,94.42021692944202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846052301:0368/pct:67.16715325084573,2.4003876402400386,31.336021131655777,94.42021692944202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2714,7 +2714,7 @@ i well as any buildings there made, in the condition
 ley now are, and likewise all fortresses there erectI,  
 either before or since the French seized the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846060201:0579/pct:28.333333333333332,63.893783035489555,13.461538461538462,4.329222250188774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846060201:0579/pct:28.333333333333332,63.893783035489555,13.461538461538462,4.341807198590486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2754,7 +2754,7 @@ e only commissaries for the settlement or determi- &#x27;
 ition of limits mentioned in the treaty. f  
 Other commissaries were indeed to be ap- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846060201:0579/pct:28.237179487179485,72.80392650390134,14.246794871794872,12.131890259249937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846060201:0579/pct:28.247863247863247,72.81231646950248,14.252136752136753,12.127695276449366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2815,7 +2815,7 @@ French.
 Louisiana and Canada, Crozet&#x27;s Grant not subsisting long af­  
 ter the death of Louis xlY.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846060301:0063/pct:259.00702987697713,131.58728834765202,57.8207381370826,7.239969972474769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846060301:0063/pct:64.75175746924428,32.896822086913005,14.45518453427065,1.8099924931186921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2853,7 +2853,7 @@ French.
 Louisiana and Canada, Cmzet&#x27;s Grant not subsisting long af­  
 ter the death of Louis XIV.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846060401:0340/pct:86.78742674480554,33.68399125091136,19.445924347362812,13.102801791480054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846060401:0340/pct:65.0992407086719,25.26820122903864,14.586386039696283,9.83230913446516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2871,7 +2871,7 @@ scriptior of Louisiana and West Florida,&#x27; printed at
 Philadelphia in 1784  
  &quot;After stating the grant to Crozat, of Lnuisiana
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846060401:0764/pct:256.3422945853843,125.79212318626,59.39038243089739,8.010068107787978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846060401:0764/pct:64.07344311943972,31.44337527757217,14.844785159947,2.002220577350111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2906,7 +2906,7 @@ timagmary line running from a cape or promitory in
 &quot;Louisiana and Canada, Crozat&#x27;s Grant not subsisting  
 &quot;long after the death of Louis AlV.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846060401:0764/pct:256.2665656948126,133.60971276280722,60.526315789473685,40.99792715427895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846060401:0764/pct:64.05451448040886,33.397483345669876,15.128714745409805,10.247964470762398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2983,7 +2983,7 @@ These extracts, sir, are similar in their statements,
 and almost the same in their language. The one  
 was parent, and the other offspring. There are bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846061001:0071/pct:260.0877192982456,294.9339575321853,57.76315789473684,10.700551747199466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846061001:0071/pct:65.02906020396973,73.73348938304632,14.442373067222283,2.6751379367998664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3013,7 +3013,7 @@ are we to choose! Are we to stop at 19 deg., with
 Salmon and Hutchins! or are we to go on indefinitely  
 west with the other authorities? Is t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846061001:0071/pct:318.640350877193,88.54706570807558,59.03508771929825,30.864403945828457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846061001:0071/pct:79.6688233358921,22.136766427018895,14.760390393683519,7.716100986457114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3044,7 +3044,7 @@ that line and the river St.
 Lawrence, or Canada, to  
 Fi ante.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846061101:0344/pct:86.72707889125799,91.50844982265804,9.208422174840086,9.263509284373043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846061101:0344/pct:65.06264996001066,68.63133736699353,6.918155158624367,6.958063843104528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3080,7 +3080,7 @@ These extracts, sir, are similar in their Statements,
 and almost the tamc in their language. The. one  
 was parent, and the other offspring. There are bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846061101:0344/pct:86.75373134328358,91.48758606300855,19.056503198294244,12.549551429167536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846061101:0344/pct:65.08930951746201,68.62090548716878,14.289522793921622,9.409555601919466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3503,7 +3503,7 @@ preliminaries, and that transmission produced
 later complications with Spain. For the loss of  
 the basins of the St. L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895063001:0373/pct:336.2307692307692,162.16216216216216,51.92307692307692,49.524384719915446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895063001:0373/pct:84.10621512411007,40.54054054054054,12.988262459111025,12.381096179978861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

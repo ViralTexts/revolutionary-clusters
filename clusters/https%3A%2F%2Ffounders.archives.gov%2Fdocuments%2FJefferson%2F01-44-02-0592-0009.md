@@ -107,7 +107,7 @@ hundred thousand dollars of the public
 fE-bt, exclusive of interest. This payment.!  
 with those of the two preceding yens,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804111401:0350/pct:57.616865261228234,86.17589576547232,17.176901924839598,5.4332247557003255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804111401:0350/pct:57.606304985337246,86.1646690984888,17.179863147605083,5.436859475421226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ intereft.—THhis payment, with those
 of the two precéding years, has ex­  
 “tinguithed upwards
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804112701:0604/pct:8.459261567222308,67.11158056462455,16.949680635613024,6.078356059151143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804112701:0604/pct:8.46445448408371,67.11158056462455,16.949680635613024,6.081556878560912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ ryland, and two millions of dollars, on account of
 the American claims assumed by the French conven­  
 tion. As the preater part of those demands will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120301:0246/pct:3.3933161953727504,11.11111111111111,21.979434447300772,9.595959595959595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120301:0246/pct:3.392444101773323,11.10930118911875,21.980210742739654,9.598468805994461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ expedient to retain in the treafury.
 PUBLIC DF.BT.  
 It appears by the eftimate (D) that the pay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804120401:0249/pct:76.34212920837125,58.676028084252756,17.54322111010009,13.916750250752257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804120401:0249/pct:76.32823871906841,58.66867243324558,17.54609412906356,13.919184321591242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

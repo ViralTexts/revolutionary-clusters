@@ -316,7 +316,7 @@ Bth, That in all capital and
 criminal prosecutions, a man hath  
 a right to demand the cause an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0253/pct:47.734593085677474,59.838973799126634,18.638608546274426,8.96561135371179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0253/pct:47.74890845322454,59.84807132459971,18.631450862500895,8.96561135371179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ any longer term than four years, except
 in time of war, and then for no longer  
 term than the continuance of the war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0254/pct:33.40398473929631,9.366466411796832,18.96990250105977,9.120699071545603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0254/pct:33.41104987989261,9.375568905880211,18.962837360463475,9.116147824503914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ which is contraditory to the constitution
 of the United States.  
 XXIIV. That the latter part of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0254/pct:54.493429419245444,13.585472419442928,18.73675286138194,6.362643364281813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0254/pct:54.50755970043804,13.590023666484617,18.729687720785645,6.362643364281813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ Carolina to the conltitution of the United States
 of America. [Signed.]  
 JOHN HUNT,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789123001:0002/pct:20.49203242941012,6.641148325358851,24.573665082471344,13.129186602870814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789123001:0002/pct:20.506010623427454,6.645933014354067,24.594632373497344,13.15311004784689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ whether it is not the praihee in Gteat Bn&#x27;ain tofubmit treaties
 to Parliament belore tlieyare eltcemed valid, Ihe king has  
 the lolc authority, by.the laws of tha country, to make trea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796040401:0002/pct:51.15384615384615,13.689400164338537,20.487179487179485,7.52670501232539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796040401:0002/pct:51.15384615384615,13.701725554642564,20.5,7.530813475760065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ Terrible Republic were a set of rovers and
 pirates ; but they must fay so, if they said  
 this bill was against them. He believe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797122901:0002/pct:25.07874969711655,19.78787878787879,17.567240125999515,15.030303030303031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797122901:0002/pct:25.096922704143445,19.791666666666668,17.573297795008482,15.034090909090908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -927,7 +927,7 @@ lepartment, papers could not be safely communicated, he
 night on that ground refuse thein ; because he was the  
 ompetent, though responsible judge within his own delartinen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848020901:0161/pct:53.86581469648562,37.870789341377574,17.875399361022364,8.446455505279035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848020901:0161/pct:53.86581469648562,37.879168761521704,17.88604898828541,8.446455505279035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1031,7 +1031,7 @@ Again he says:
   
 &quot; If the Executive conceive* that, in relation to hi* own de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848021201:0077/pct:48.98368164901231,51.26353790613718,15.616948182078442,8.540162454873647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848021201:0077/pct:48.98368164901231,51.26353790613718,15.621719629735662,8.543922984356197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1054,7 +1054,7 @@ asserting and securing from encroachment the
 essential and unalienable rights of the people; and,  
 secondly, twenty separate “amendments to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850043001:0603/pct:21.678732146351006,26.937217194570135,14.341616122089611,4.751131221719457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850043001:0603/pct:21.67449139280125,26.933408737452282,14.34370109546166,4.753994061925633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1074,7 +1074,7 @@ ing laws or the execution of laws, unless
 derived by or from the Legislature,  
 ought to be exercised or allowed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851030801:0343/pct:27.276785714285715,91.56531353656611,18.90625,4.70699731480019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851030801:0343/pct:21.13943028485757,70.96339821275554,14.65805558759082,3.6601787244460766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1097,7 +1097,7 @@ ing from encroachment the great principles of civil and reli
 IkhViiSr?&#x27; and lbe inilienibk&gt; ri*hu of the people, togethe,  
 with amendments to the most exceptionable parti of the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851051701:0633/pct:1.6166281755196306,43.40499081775953,15.459855997826383,5.077238846278492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851051701:0633/pct:1.6166281755196306,43.40499081775953,15.464384368065932,5.084440603507256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1121,7 +1121,7 @@ it is proper to search into the meaning and use of the
 power in other nations. This search is proper to limit  
 .. the power still further within the scope of the constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854072801:0306/pct:43.73907979033198,15.347629579767286,16.176470588235293,4.461967496874699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854072801:0306/pct:43.74878664337022,15.350835016187453,16.166763735197048,4.468378369715037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1171,7 +1171,7 @@ ing laws or the execution of laws, unless
 by or derived from the Legislature, ought  
 to bo exercised or allowed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864100601:0163/pct:3.2873229204504177,64.11667583929554,11.569197239375226,3.852504127682994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864100601:0163/pct:3.2873229204504177,64.11667583929554,11.581305242765469,3.857090442120712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1191,7 +1191,7 @@ Art. 9. That no power of suspending laws or the exe.­
 cution of laws, unless by or derived from the Legislature,  
 ought to be exerdised or allowed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:0027174349A:1864103101:0505/pct:157.54549846996295,260.3704966473463,44.61265904332421,7.057620184111831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:0027174349A:1864103101:0505/pct:52.51516615665432,86.79016554911543,14.870886347774736,2.3525400613706102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1213,7 +1213,7 @@ any court of judicature.
  e oe  
 Arr. 18. Provides for the proper regulation of taxes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743580:1867052301:0270/pct:151.48531101263745,124.07428636936834,45.52765468570491,9.411899575834003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743580:1867052301:0270/pct:50.49510367087915,41.35809545645611,15.175884895234969,3.137299858611334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

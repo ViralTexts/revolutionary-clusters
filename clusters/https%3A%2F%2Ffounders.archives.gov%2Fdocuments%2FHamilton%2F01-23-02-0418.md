@@ -39,7 +39,7 @@ That the army be in future paid in such
 manner that the art ears (hall at no time  
 exceed two months
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794062801:0002/pct:8.85002649708532,37.76235333002809,15.89825119236884,7.254999173690299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794062801:0002/pct:8.856650768415474,37.770616427036856,15.89825119236884,7.263262270699058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -60,7 +60,7 @@ it unavoidable.
   
 Sec. 14. And be it further enalled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802051101:0075/pct:77.60351317440401,55.76806925709684,16.34253450439147,4.439299375880814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802051101:0075/pct:77.60351317440401,55.76806925709684,16.352990380593894,4.439299375880814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -82,7 +82,7 @@ Sec. 13. And. it it further exacted, That the
 said carps si 1 a! 1 be paid in such manner, that  
 the arrears shall at no time, exceed two months
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812013001:0039/pct:40.34311991510435,28.07696820368415,16.749204103289706,4.118268215417107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812013001:0039/pct:40.335985853227236,28.07367433129986,16.752136752136753,4.1216956045674955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ nrsumstanccs of the case shall render it unavoida­
 ble.  
 See. 14 And be it further enacted. That if any offi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812020701:0204/pct:28.061831153388823,2.1081709799360278,22.378121284185493,4.739749927304449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812020701:0204/pct:28.055159296243463,2.1078645151911615,22.378744650499286,4.742695159180113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ the said corps shall be paid in such manner,
 that the arrears shall at no time exceed t v  
 months, unless the circumstances of the cas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812021101:0349/pct:5.986818015378982,81.72675987245523,17.35627975100696,4.966887417218543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812021101:0349/pct:5.985722130697419,81.71673819742489,17.359204344377325,4.970365828734927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ uepanmeui. auc law requires mat our troops snan oe
 paid in such manner that the arrears shall at no time  
 exceed two months. The organization of our army 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1862092501:0605/pct:108.35974643423138,52.0837467751538,20.760697305863708,6.925977376463584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1862092501:0605/pct:81.30532434931959,39.065290732288155,15.576694411414982,5.199444334193292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -540,7 +540,7 @@ examination of the nature, ground, and root of
 American slavery, of the evidence which thepres  
 ent position of the struggle now presents and a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839062901:0094/pct:53.56846473029046,44.88405797101449,23.38174273858921,9.985507246376812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839062901:0094/pct:40.21175005189952,33.666666666666664,17.54203861324476,7.492753623188406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1183,7 +1183,7 @@ every just way in our power remember those
 that are in bonds, as bound also with them.  
 &quot; I proved in my lecture, from the law of Oo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859120101:0630/pct:25.211788569383128,3.247670149675233,24.85383605774967,96.46051021368729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859120101:0630/pct:25.211788569383128,3.2539458407857165,24.86179055800819,96.45737236813204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1228,7 +1228,7 @@ Objection. But they were of their own Na­
 tion that the Command was agiinst; now  
 these Negroes are not of our own Nation, bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860062901:0615/pct:21.325536062378166,34.95419309372798,15.867446393762183,7.639182522903453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860062901:0615/pct:16.532379897270623,27.092663389768795,12.302346661295196,5.931185144729656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1250,7 +1250,7 @@ world that all men were created equal,
 that they were endowed by their Creator  
 with certain inalenable rights--Life Liber
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1860101301:0437/pct:157.60266370699222,332.2946806142889,43.28523862375139,13.799243267304696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1860101301:0437/pct:39.40613292632163,83.07367015357222,10.82281115582073,3.449810816826174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1379,7 +1379,7 @@ lasted eighteen months, and then entered Je­
 rusalem, slaughtered old and young, burned  
 the city, earned off the remnant captive t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861080101:0002/pct:45.29400713883149,66.01858470335954,9.956791283111027,5.6897784131522515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861080101:0002/pct:45.30809693781702,66.01858470335954,9.966184482434718,5.707648320228735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1518,7 +1518,7 @@ brother and every man to hit neigkborl Behold
 I proclaim a liberty for you, saith the Lord, to  
 the sword, to the pestilence, and to the &amp;m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862101101:0421/pct:77.5,87.05260629353832,14.246575342465754,3.0386740331491713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862101101:0421/pct:77.51141552511416,87.05660981663864,14.240867579908675,3.046681079349828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1569,7 +1569,7 @@ I have chosen ? to loose the bands of;
 wickedness, to undo the heavy burdens, j  
 and to let the oppressed go free, and that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1863022801:0039/pct:43.70786516853933,47.47621564482029,13.164794007490636,7.056025369978858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1863022801:0039/pct:43.6996817075454,47.46994318932488,13.16700992323535,7.058396089311666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1725,7 +1725,7 @@ Jer. exxix, 17.
 The Declaration of Independence,  
 the principles of which were held s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028034:1864111001:1034/pct:127.51937984496124,125.74933779450718,49.224806201550386,17.67740136623449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028034:1864111001:1034/pct:31.89839053713399,31.437334448626796,12.313360480899748,4.419350341558623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1796,7 +1796,7 @@ they were endowed by their Creator with
 certain inalienable rights; that among  
 these are life, liberty, and the pursuit o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:0023728687A:1867013001:0325/pct:88.01266586248492,57.8088861838101,12.997587454764776,3.8953134510042604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:0023728687A:1867013001:0325/pct:66.02322424973609,43.35970785149117,9.757201025486353,2.9214850882531955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1916,7 +1916,7 @@ south, and drop thy word toward the south,
 and prophesy against the forest of the south  
 field ; and say to the forest of the south, Hea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775204:1876102701:0109/pct:38.68232224396608,75.90229675537732,14.008480104370514,5.8937902539798275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775204:1876102701:0109/pct:29.02120717781403,56.932798638959774,10.522022838499185,4.423380726698262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1935,7 +1935,7 @@ a liberty for you, saith the Lord, to the sword, to
 the pestilence, and to the famine.&quot;  
 That a nation, the great body of whom be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531356:1879071201:0527/pct:55.92158123091756,113.28576282704724,48.176120842037605,8.370143844149961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531356:1879071201:0527/pct:18.64052707697252,37.76192094234908,16.05870694734587,2.790047948049987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2002,7 +2002,7 @@ and 1 lay a stumbling block before
 him, he [.ball die, because thou hast  
 not given him warning, &amp;c.” Rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1885061301:0628/pct:31.369150779896014,16.264591439688715,12.305025996533795,3.470817120622568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1885061301:0628/pct:31.38359329867129,16.27496757457847,12.29058347775852,3.4811932555123217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2058,7 +2058,7 @@ government, laying its foundation on
 such principles and organizing its powers  
 in such form as to them shall seem mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535659:1888110101:0570/pct:95.31914893617021,267.4425544613548,55.40425531914894,33.54222620113399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535659:1888110101:0570/pct:23.84500745156483,66.8606386153387,13.859910581222056,8.385556550283498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2117,7 +2117,7 @@ equal that they were endowed by their
 Creator with certain inalienable rights  
 among which are life liberty and the pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048741:1890080201:0527/pct:27.510917030567686,7.081329007718984,18.356207111665626,6.7904687325204165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048741:1890080201:0527/pct:18.346333853354135,4.7208860051459896,12.246489859594384,4.530708132900772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2155,7 +2155,7 @@ equal rights of another It is this inesti­
 mable blessing that all governments ought  
 to secure and in organizing its powers t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048704:1890101701:0506/pct:47.03680598877106,121.59154771271216,18.761696818465378,15.870518152186131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048704:1890101701:0506/pct:31.36796131648729,81.06103180847477,12.509748869131181,10.584092016035367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

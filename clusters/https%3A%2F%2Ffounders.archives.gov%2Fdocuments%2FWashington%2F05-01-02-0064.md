@@ -146,7 +146,7 @@ the pre-cut government; and with that policy
 are the sentiments of Messrs. Adams, Clay,  
 Calhoun and Jackson. If either of these gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824100701:0377/pct:4.744757466638424,33.40915553028149,16.627833086210547,8.316747227750923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824100701:0377/pct:4.743752647183397,33.4044065387349,16.629606099110546,8.31911869225302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ limed parsimony, and contracted way of thinking,
 which intermingle so much in our public cotfnr.il*,  
 lean counteract it.w To these wise am) patrioti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825010401:0007/pct:81.55744271751323,80.0,15.830796346739305,6.884661117717004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825010401:0007/pct:81.54437680230696,79.99048864582095,15.8336003417708,6.887805651329608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ in our public councils, can counteract it.”
   
 If the policy which opposed this measure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:42.64094461999002,7.040704070407041,35.95542990187926,88.64686468646865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:42.63385433987363,7.039929600703993,35.95499390311495,88.64078025886408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ plied parsimony, and contracted way of think­
 ing, which intermingle so much in our public  
 councils, can counteract it ”4Willnot those wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826053001:0417/pct:21.020475561426686,14.670790985417588,17.305151915455745,2.9717189571365443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826053001:0417/pct:21.017005118045237,14.669170440737878,17.307798139893237,2.975072719908686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ short of that ill-timed and misapplied
 ing, which intermingle so much in our  
 public councils, can counteract it.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826061501:0103/pct:23.982188295165393,49.74683544303797,17.217981340118744,6.624472573839663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826061501:0103/pct:23.977104091583634,49.739839684995076,17.219631121475516,6.627056672760512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ of timo—and wo shall, I think, he deficient in |
 foresight if we neglect the means of effecting j  
 it.&quot; As has been before stated, when this great 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026128:1844112601:0059/pct:17.91044776119403,78.85568616343294,15.462686567164178,5.4241608837275175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026128:1844112601:0059/pct:17.923714759535656,78.86512769673796,15.449419568822554,5.414719350422509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

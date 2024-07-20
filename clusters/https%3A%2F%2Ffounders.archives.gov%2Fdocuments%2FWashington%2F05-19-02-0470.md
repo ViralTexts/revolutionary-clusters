@@ -101,7 +101,7 @@ tions are engaged by me? Without this the
 heart of sensibility will struggle against a pas.  
 sion that is not reciprocated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190637:1859051901:0467/pct:65.32928064842959,137.56782636450686,67.55825734549138,89.466964570699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190637:1859051901:0467/pct:16.332320162107397,34.391956591126714,16.889564336372846,22.36674114267475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ by me? Without this the heart of sensibility
 will struggle against a passion that is  
 not reciprocated.&quot; * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859052401:0375/pct:3.216623968118417,28.82689556509299,16.851693709080557,22.409564684242795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859052401:0375/pct:3.226112534396053,28.833708018257376,16.861182275358193,22.41297091082499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ affections are engaged by me? Without this, the
 heart of sensibility will struggle against a pas-  
 sion that is not reciprocated.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191046:1859052501:0491/pct:16.599876695437732,120.45599829533347,38.02404438964242,40.70956744086938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191046:1859052501:0491/pct:5.5332922318125775,40.151999431777824,12.674681463214139,13.569855813623127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ and it is, therefore, cutended that it cannot
 and it muy be atari iu its birth, or much  
 | stinted in its griHli- » » 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859052601:1139/pct:20.77429654759529,26.464047442550036,13.270804230692477,4.670126019273536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859052601:1139/pct:20.77429654759529,26.473931307141093,13.29741235947582,4.675067951569064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ b me. W ithout this, tlie heart of sensibil­
 ,f will struggle against a passion that is  
 Of reciproealed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859052601:1139/pct:20.77429654759529,37.138621200889546,13.250848134104968,6.790214974054855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859052601:1139/pct:20.77429654759529,37.148505065480606,13.257500166300805,6.790214974054855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ me 1 Without this the heart of insensibility
 will struggle against a passion that is not re­  
 ciprocated. *****
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172042:1859052801:0491/pct:6.060023085802231,38.91891891891892,16.737206617929974,23.173943173943172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172042:1859052801:0491/pct:4.696585656776502,30.162196999534533,12.986432085880423,17.96340721114254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ affections are engagod by mo? Without
 this the heart of sensibility will struggle  
 against a passion that is not reciprocated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775095:1859061701:0589/pct:344.1509433962264,127.0347525199338,46.264150943396224,85.87332631262224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775095:1859061701:0589/pct:86.0377358490566,31.75868812998345,11.566037735849056,21.46833157815556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ firmness and constancy of her resolves.
 same  
 inclination toward each other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1859061801:0449/pct:17.88501353718745,63.066202090592334,33.763338111164195,8.803716608594657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1859061801:0449/pct:5.961671179062483,21.022067363530777,11.254446037054732,2.934572202864886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ Although we cannot avoid
   
 promise, and taxed with her delinquency
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1859061801:0449/pct:17.789456919891702,81.26596980255516,34.161490683229815,85.45876887340302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1859061801:0449/pct:5.929818973297234,27.088656600851724,11.387163561076605,28.48625629113434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ raised than allaved. Do not, therefore,
 boast too soon, or too strongly of your in-­  
 sensibility.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1859061801:0449/pct:18.02834846313107,70.41811846689896,33.84296862557732,10.557491289198607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1859061801:0449/pct:6.0094494877103575,23.472706155632984,11.280989541859107,3.519163763066202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ fections are engaged by me? Without this
 the heart of sensibility will struggle against  
 a passion that is not reciprocated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1859061801:0449/pct:17.837235228539576,92.6829268292683,33.73148590539895,28.164924506387923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1859061801:0449/pct:5.9457450761798585,30.89430894308943,11.243828635132983,9.388308168795973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -713,7 +713,7 @@ Without this the heart of sensibility will
 struggle against a passion that is not recip-­  
 ocat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1859061801:0915/pct:101.37024608501119,79.14793624846752,45.19015659955257,70.64773191663261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1859061801:0915/pct:33.79008202833706,26.38264541615584,15.06338553318419,23.54924397221087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ me? Without this the heart of sensibility
 will struggle against a passion that is not  
 reciprocated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1859062401:0950/pct:90.88937093275489,114.41919483216057,45.97252349963847,89.64125043257584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1859062401:0950/pct:30.29645697758496,38.13973161072019,15.324174499879488,29.880416810858616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ affections aro engaged by me? Without this
 tho heart of sensibility will strugglu against a  
 passion that is not rccipiocntcd.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1859070201:0540/pct:58.175355450236964,76.43898695318495,16.725908372827803,25.387567152724483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1859070201:0540/pct:43.65863295140261,57.32924021488872,12.544448834452785,19.048349961627014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -893,7 +893,7 @@ me? Without this the heart of sensibility
 will struggle against a passion that is not re­  
 ciprocated. *****
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059500:00383347191:1859071601:0120/pct:17.374905707819966,29.00549725137431,10.9001760120694,18.3808095952024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059500:00383347191:1859071601:0120/pct:17.383287234934205,29.008828918873895,10.90855753918364,18.38414126270198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1073,7 +1073,7 @@ this the heart of sensibility will struggle
 against a passion that is not reciprocated.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058101:00279557426:1859081301:0148/pct:248.99041403222517,169.5372173131646,52.804405466041196,102.53107683091208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058101:00279557426:1859081301:0148/pct:62.247603508056294,42.38430432829115,13.201101366510299,25.63276920772802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1108,7 +1108,7 @@ isipid in its pr gieevf hut let t):ese he witi-.-i
 drawn, and it may be stilled in its birth, -r j  
 much stinted in its growth. ° * 0 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1859111701:0162/pct:49.134823359769285,62.63091746962715,11.0310021629416,9.272447982125401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1859111701:0162/pct:49.134823359769285,62.63091746962715,11.043018505167026,9.281757668854443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1144,7 +1144,7 @@ that his affections are engaged bv me? With­
 out this the heart of sensibility will struggle  
 against a passion ti nt is nt reciprocated.&quot; ® 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1859111701:0162/pct:48.93655371304975,72.01508169250104,10.976928622927181,9.398128752967462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1859111701:0162/pct:48.93655371304975,72.01973653586556,10.988944965152607,9.393473909602942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1236,7 +1236,7 @@ looks, words, or actions given for no other
 purpose than to draw men on to make  
 overtures that they may be rejected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1860092901:0659/pct:219.4142259414226,198.8488735405361,52.97071129707113,185.56158526558133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1860092901:0659/pct:54.85355648535565,49.71221838513402,13.242677824267782,46.39039631639533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1464,7 +1464,7 @@ by encouraging looks, words ox- actions, given for
 no other purpose than to draw men on to make  
 overtures that they may be rejected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1860112401:0002/pct:30.86376404494382,45.3548468423043,12.745786516853933,20.08067565864112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1860112401:0002/pct:30.87693117977528,45.364301021051304,12.750175561797754,20.071221479894113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1538,7 +1538,7 @@ looks, words or action, given for&#x27;no other pur­
 pose than to draw men on to mako overtures  
 that they may be rejected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1860112401:0835/pct:93.19433516915814,40.5272082626792,16.66011014948859,37.95282873439186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1860112401:0835/pct:69.94686085416257,30.399260058578697,12.497539854359378,28.47232927393248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1618,7 +1618,7 @@ io- tions, given for no other purpose thas
 draw men on to eiake overtures that they  
 j,V b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1861030901:0043/pct:17.42331288343558,63.13878429263045,12.690622261174408,34.96503496503497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1861030901:0043/pct:17.420259376095338,63.130294473578054,12.692779530318962,34.9636950383219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1700,7 +1700,7 @@ aneouraging looks, words of actions, given
 fes as ather nurnose than to draw men on  
 to make overtures to be rejected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1861041201:0342/pct:218.26677994902295,206.85820203892493,159.0484282073067,155.88507877664503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1861041201:0342/pct:54.56669498725574,51.71455050973123,39.762107051826675,38.97126969416126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1875,7 +1875,7 @@ overtures that may be rejected.&#x27;
 WATERLOO THE DAY AFTER THE  
 BATTLE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861070401:0509/pct:49.872634643377005,36.288951841359776,10.91703056768559,37.76203966005666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861070401:0509/pct:49.884764677341096,36.29367327667611,10.91703056768559,37.76203966005666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1947,7 +1947,7 @@ others by encouraging looks, words, or action&quot;,
 given lor no other purpose than to draw men ou  
 to make overtures that they may be rejected.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1861081001:0375/pct:77.85388127853881,36.86981703303936,15.068493150684931,26.826378833750166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1861081001:0375/pct:77.86339421613394,36.87639857838621,15.058980213089802,26.81979728840332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2131,7 +2131,7 @@ than to draw men on to make orer- j
 tures that may be rejected.&#x27;  
 Get a taste for Bible literature, and yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1862122401:0134/pct:54.0,61.388098478287766,16.571428571428573,58.2951874304095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1862122401:0134/pct:40.52080025404891,46.04725968081158,12.432518259765004,43.721390572807124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2241,7 +2241,7 @@ nan to render it permanent and valuable, and
 iothiug short or goact senso nod an easy, uoiffec&#x27;cd  
 conduct c?n d&#x27;aw tho liDO betwee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663821:1879031201:0240/pct:80.9104938271605,18.58915205577771,18.641975308641975,10.048190300420384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663821:1879031201:0240/pct:80.9156378600823,18.59598755938344,18.647119341563787,10.048190300420384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2388,7 +2388,7 @@ make overtures that they may be rejected
 Best regards are presented to your mam­  
 mBest restart and samily, and ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475476:1879031601:0384/pct:187.32692307692307,112.18684759916492,46.15384615384615,172.89926931106473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475476:1879031601:0384/pct:62.44230769230769,37.39561586638831,15.384615384615385,57.63308977035491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2424,7 +2424,7 @@ have nothing to fear from the malignancy of
 criticism* and your ideas are lively and your de-  
 Bcrluiioiiß agreeable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879031701:0002/pct:72.28601252609603,61.68974513345374,12.995824634655532,4.5354204294601645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879031701:0002/pct:72.30558455114823,61.69977924944812,12.982776617954071,4.525386313465783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2522,7 +2522,7 @@ to render U purmnmuit mid valuable. „ cls*,«
 ht« short of good *cn&lt;m and uti vw minll1*  
 conduct can draw din line between or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879031701:0002/pct:72.33820459290187,2.4282560706401766,25.36534446764092,95.46457957053984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879031701:0002/pct:72.33820459290187,2.443307244631748,25.397964509394573,95.44952839654826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2552,7 +2552,7 @@ person and character until her death, can draw the line between prudery and
 which occurred in Clarke count Vircoquetry. It would be no great depart­  
 ginia, in 1852, when she was about 73 ure from truth to say that it rarely hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879032001:0299/pct:125.34530386740332,342.22280956786045,99.79281767955801,10.572221488040174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879032001:0299/pct:31.341737178380246,85.55570239196511,24.952512519426698,2.6430553720100436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2682,7 +2682,7 @@ they may be rejected.
   
 &quot;Best regards are presented to your cerning the remains of the marden,an an ecieations aw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879032001:0299/pct:174.93093922651934,124.91079688119466,153.1767955801105,244.58834412580944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879032001:0299/pct:43.74028665170091,31.227699220298664,38.300811604213436,61.14708603145236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2702,7 +2702,7 @@ one, is bestowed on you by
 &quot;Yours, affectionately,  
 &quot;G. WAsHINGrON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879032001:0299/pct:175.13812154696132,372.0364741641337,51.24309392265194,9.67358266155676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879032001:0299/pct:43.7920911759627,93.00911854103343,12.812985667414955,2.41839566538919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2835,7 +2835,7 @@ which a good hasband, Wbeu you want ano de
 serve one, is bestowed on you by yoars .fiec  
 tioaate&#x27;y, G- Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879032001:0159/pct:73.48965966454975,54.164660568127104,11.691906855560983,43.36783822821377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879032001:0159/pct:73.47769456203191,54.15814177398002,11.694073591663953,43.36562763268745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2934,7 +2934,7 @@ rs. by encouraging looks, words or action,
 nen on to make overtures that they may he  
 ejected.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1879032001:0650/pct:16.164095371669003,7.508845498624034,10.93969144460028,41.331411348447126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1879032001:0650/pct:16.161262050832605,7.5078616352201255,10.942156003505696,41.3292714884696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3286,7 +3286,7 @@ may be accomplished. When the tire
 is beginning to kind&#x27;e and your  
 heut grows warm pro: ound these
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667425:1879032701:0090/pct:2.2827891532927502,41.068859198355604,39.250138350857775,88.21171634121275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667425:1879032701:0090/pct:1.71578801715788,30.8016443987667,29.445136294451363,66.16649537512846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3318,7 +3318,7 @@ Yours affectionately.
   
 tr. W ASIIIMiTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667425:1879032701:0090/pct:43.67736579966796,9.958890030832476,19.83951300498063,10.184994861253854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667425:1879032701:0090/pct:32.76601632766016,7.471736896197328,14.888612148886121,7.636176772867421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3379,7 +3379,7 @@ say that it rarely happens otherwise
   
 than thit a thoroughpacea coquen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667425:1879032701:0090/pct:20.66961815163254,87.50256937307297,46.27836192584394,41.67523124357657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667425:1879032701:0090/pct:15.511277155112772,65.63206577595066,34.717033347170336,31.253854059609456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3436,7 +3436,7 @@ Inflammable matter, however dormant
 it may lie for a time, and, like an inti  
 mate acquaintance of yours (a siste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1879032701:0645/pct:18.911335578002245,201.42241379310346,35.970819304152634,58.87931034482759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1879032701:0645/pct:4.728497263925916,50.355603448275865,8.99396660586502,14.719827586206897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3538,7 +3538,7 @@ Yours, affectionately,
   
 referr waser
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1879032701:0645/pct:17.957351290684624,260.30172413793105,38.439955106621774,125.17241379310344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1879032701:0645/pct:4.489967728356953,65.07543103448276,9.611337168514101,31.29310344827586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3566,7 +3566,7 @@ deal of inflammable matter, however
 dormant it may lie for a time, and, like  
 an intimate acquaintance of yours (a sis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551104:1879032701:0243/pct:61.253389575173244,15.174840554211569,11.871045495631215,6.916648339564548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551104:1879032701:0243/pct:61.253389575173244,15.178505974635291,11.871045495631215,6.920313759988271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3658,7 +3658,7 @@ no other purpose than to draw men on
 to make overtures that they may be re?  
 jected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551104:1879032701:0243/pct:61.17806568243447,21.6186496591159,11.931304609822236,37.1233780514625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551104:1879032701:0243/pct:61.17806568243447,21.6186496591159,11.936326202671488,37.13070889230995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3766,7 +3766,7 @@ no other purpose than to draw men on
 to make overtures that they may be re­  
 jected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550847:1879032702:0545/pct:62.22936164268753,16.325395058980636,12.110629976253668,43.467616292009794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550847:1879032702:0545/pct:62.23867393025097,16.325395058980636,12.105973832471946,43.47874471399955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3921,7 +3921,7 @@ one, is bestowed on you by
 “Yours, affectionately,  
 “G. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688155:1879041001:0287/pct:9.5900439238653,4.981549815498155,36.09077598828697,91.22906613681522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688155:1879041001:0287/pct:9.606312022124614,4.98628063203709,36.09077598828697,91.23379695335414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4138,7 +4138,7 @@ draw men on to make overtures that they
 may be rejected.&quot;  
 The small boy of a clergyman in Port
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287472:1879042601:0521/pct:341.2293853073463,186.61304222924446,43.403298350824585,180.75265728239012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287472:1879042601:0521/pct:85.30734632683658,46.653260557311114,10.850824587706146,45.18816432059753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4195,7 +4195,7 @@ isa:. ;t»«•;. in 1 ue &lt; l,ml.&quot; .-f tie- hu y Lu’
 li&#x27;-cause tin-: •• is : elet «•: ; . Il&#x27;-m II I MOHS  
 that love m,i »nd therefore gut l, he und&#x27;-rtl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524688:1879050801:0313/pct:84.21402459288801,12.177985948477751,11.050182784978398,15.099223468507335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524688:1879050801:0313/pct:84.20003322811098,12.176485087503082,11.052500415351387,15.100443677594281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4247,7 +4247,7 @@ there is a good deal of inflammable matter,
 however dormant it may lie for a time;  
 and, like an intimate acquaintance of your
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349542:1879050901:0079/pct:73.36739581670126,23.196856382304475,10.87338336260578,19.165927240461404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349542:1879050901:0079/pct:73.35568326947637,23.193916349809886,10.875638569604087,19.166666666666668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4341,7 +4341,7 @@ when you want and deserve one, is be­
 stowed on you by yours, affectionately,  
 G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349542:1879050901:0079/pct:73.36739581670126,42.47686652300672,10.857416573527063,41.703637976929905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349542:1879050901:0079/pct:73.35568326947637,42.47148288973384,10.859674329501916,41.70152091254753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4761,7 +4761,7 @@ thrift, a drunkard? Is his suf­
 | ficient to maintain me in the manner I  
 i have been accustomed to live?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889050901:0302/pct:43.347982421094684,41.79474467030243,12.385137834598481,5.989092711948438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889050901:0302/pct:43.347982421094684,41.80135514790943,12.394016069605362,5.982482234341431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4868,7 +4868,7 @@ pitious. I hope, of her future happinese, for a
 ull measure of which she and Mr. Law have  
 my earnest wishes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897051601:0837/pct:76.69172932330827,355.893536121673,49.849624060150376,13.262357414448669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897051601:0837/pct:19.18014291086875,88.97338403041825,12.467092892064686,3.3155893536121672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4897,7 +4897,7 @@ reason, for although we cannot avoid
 first impressions, we may assuredly  
 place them under guard.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fugazi_ver01:data:sn89051168:00393343084:1899021901:0933/pct:31.96940726577438,75.62857522947985,13.919694072657744,8.354396700811494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fugazi_ver01:data:sn89051168:00393343084:1899021901:0933/pct:31.96329573695278,75.61851556264963,13.921812272987957,8.356610800744878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4959,7 +4959,7 @@ what his walk of life the extent of
   
 his fortune and above all the hon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533225:1899100301:0656/pct:48.68943606036537,18.771576524741082,19.26131850675139,6.501726121979287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533225:1899100301:0656/pct:36.53884363202861,14.082278481012658,14.46453407510431,4.876294591484465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5079,7 +5079,7 @@ er he was a man of sense, “for be as­
 sured a sensible woman can never be  
 happy with a fool;” what his walk o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_hegmeister_ver01:data:sn85033255:00514152548:1899110201:0383/pct:14.334846608887055,68.68409490333919,9.69872059430458,2.680140597539543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_hegmeister_ver01:data:sn85033255:00514152548:1899110201:0383/pct:14.344017975879305,68.69141769185705,9.703306277800706,2.680140597539543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

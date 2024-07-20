@@ -104,7 +104,7 @@ cftimated in the statements accompanying the aforefaid report.
 Andbe itfurther cnatted, That all the expcnces arising from, and  
 incident to the sessions of Congress, which may happen in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040301:0004/pct:10.124223602484472,21.716873400275645,27.111801242236027,1.9098247686552472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040301:0004/pct:10.124223602484472,21.72179562906084,27.142857142857142,1.929513683796023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ Treaties to establish Peace with certain Indian
 Tribes.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790073101:0004/pct:8.96774193548387,4.564734397091497,28.322580645161292,18.380125227226824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790073101:0004/pct:8.991935483870968,4.579882851949101,28.338709677419356,18.390224197131893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ rolled bills.
 An ast lor the relief of d&#x27;.fabled soldiers and seamen lately in  
 Che few ice of the United States, and of certain other persons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081101:0003/pct:11.015694403316553,91.05914718019257,26.177080248741486,4.499901748870112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081101:0003/pct:11.015694403316553,91.07388484967578,26.199289310038495,4.499901748870112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ Che few ice of the United States, and of certain other persons
 37. An ast to provide more effectually for the collection of the  
 du*es imposed by law on goods, wares and merchandize lmport
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0002/pct:40.81761006289308,78.1404549950544,27.48427672955975,1.42433234421365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0002/pct:40.81761006289308,78.15529179030662,27.48427672955975,1.42433234421365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ diers and seamen latcly in the service of
 the United States, and of certain other  
 persons. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790082601:0652/pct:51.41418983700863,34.286173117070824,20.90124640460211,8.479203468765055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790082601:0652/pct:51.41418983700863,34.29152614956373,20.909236177692552,8.473850436272148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ AN ACT for the Relief of disabled Soldiers, anil
 Seamen1 lately in the Service of the United  
 States, and of certain other Perlons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790090801:0004/pct:33.37484433374844,7.0735090152565885,28.8293897882939,26.035268476322567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790090801:0004/pct:33.39041095890411,7.08836932831385,28.8293897882939,26.02536160095106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ lief of di fabled soldiers and seamen, late
 ly in the service of the United States  
 and of certain other persons,&quot; as relate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791111001:0002/pct:17.242281527995814,47.404191051538604,17.16378859236002,5.927883707759109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791111001:0002/pct:17.242281527995814,47.404191051538604,17.18341182626897,5.95148197092694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ lief of disabled folJiers and feainen lately in the
 service of the United States, and of certain other  
 persons,&quot; as relates to the pen lion of John Young
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111201:0002/pct:65.98347107438016,75.4331321783142,28.793388429752067,5.547985205372786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111201:0002/pct:65.98347107438016,75.43799883200312,28.818181818181817,5.562585166439556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ dfectually for the collection of duties
 imposed by law on goods, wares an I  
 mcrchand ze imported into the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809011301:0019/pct:58.989401968205904,40.95164806977042,17.54352763058289,2.8600743875849686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809011301:0019/pct:58.978240302743615,40.94639651192613,17.546515294859667,2.8639822176626484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

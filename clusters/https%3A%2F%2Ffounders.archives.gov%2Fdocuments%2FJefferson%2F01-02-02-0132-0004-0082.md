@@ -1538,7 +1538,7 @@ j mind, yec cliofe not to propagate it
 ! by coercions on either at wat tn his;  
 j almighty power to do; that the im-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1800090501:0094/pct:23.679883062305866,75.19771813820822,17.37621048784944,9.814598729417867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1800090501:0094/pct:23.675557179393497,75.18796992481202,17.379125563268786,9.817647567193847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1613,7 +1613,7 @@ w apons, free argument and debate,
 errors cealing to b~ dangerous,  
 whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1800090501:0094/pct:41.18399415311529,20.62751199273953,16.499177781838114,49.786075457020615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1800090501:0094/pct:41.1764705882353,20.62483795696137,16.502253075143102,49.78394261515859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1829,7 +1829,7 @@ i indeed thofe aie criminal who do i.ot |
 c are thofe innocent v.ho lay tbe but in !  
 j tbdr way ; that to fuiTer the civsl uv.i- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803060801:0002/pct:43.57478833490122,5.612687399330938,17.064910630291628,14.124643786395739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803060801:0002/pct:43.587331451865786,5.620947424937017,17.064910630291628,14.124643786395739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1862,7 +1862,7 @@ Seeing then this tendency to mischief and
 evileven in the heat establishments,ought  
 any man to he hlamed for attempting t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818061901:0053/pct:18.117229129662523,37.68759755072638,14.661714839334733,10.361387921719293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818061901:0053/pct:18.11430416532128,37.683073229291715,14.664729307932408,10.364145658263306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1984,7 +1984,7 @@ tion disarmed of htr r.uturn] weapons, tree argument
 and debate, errors ceasing to be da-.gerous when  
 if is permitted freely to contradict them.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826070401:0069/pct:32.94455983383927,4.760170006071645,30.851573733823294,93.34547662416514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826070401:0069/pct:32.93929712460064,4.759592034968431,30.851970181043665,93.33819005989963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2010,7 +2010,7 @@ clesiastical, who bring themselves but fallible ami
 • uninspired men, have assumed dominion, orer  
 ihe taiih of others. un &lt;ulm.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826071401:0081/pct:33.76231331426756,25.22749042145594,14.775977121067683,6.046455938697318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826071401:0081/pct:33.756949960285944,25.224470250209507,14.778925072809107,6.049722654535297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2044,7 +2044,7 @@ tablished and maintained false religions over
 the greater part of the world and through all  
 time;” “That truth is great and will prevail
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071701:0575/pct:23.25970548862115,37.99643016510486,17.888219544846052,12.282463186077644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071701:0575/pct:23.25581395348837,37.99219185722253,17.89080363616084,12.28481130321621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2075,7 +2075,7 @@ itne, and how transcendantly impor­
 ant are the truths which it announces  
 o the world. What, but his great an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826072101:0538/pct:17.041318775422823,59.42507068803016,12.481267394562192,8.19981149858624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826072101:0538/pct:17.03767123287671,59.41573739594786,12.483946917808218,8.202450133500864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2338,7 +2338,7 @@ free to profess, and by argument to maintain, their Opin­
 ions in matters of religion, and that the same shall in no  
 wise diminish, enlarge or affect their civil capacities
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021391:00340588010:1826120201:0140/pct:5.627705627705628,9.875,17.54187841144363,5.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021391:00340588010:1826120201:0140/pct:5.633979547023025,9.883333333333333,17.548152330761027,5.0/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2366,7 +2366,7 @@ buting to a pastor, whose morals we would make
 our psttern, and whose powers we felt most per­  
 suasive to righteousness ” History has develope
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827020301:0357/pct:2.01076630778974,9.395078191295914,15.136162127929069,7.091768699236271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827020301:0357/pct:2.010447997467152,9.393939393939394,15.139042794575484,7.094949494949495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2554,7 +2554,7 @@ argument to maintain their opinions in matter* of reli­
 gion, end that the same shall in no wise dimini-h, en­  
 large, or a/Tect their civil capacities
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829102401:0133/pct:3.2077692760447323,10.369088811995386,15.067686874632136,4.094579008073818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829102401:0133/pct:3.207297337060468,10.367892976588628,15.070374184689324,4.097951024487756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2592,7 +2592,7 @@ that the same shall in no wise dimin­
 ish, enlarge or effect their civil capa­  
 cities.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1829110401:0964/pct:70.3657448706512,7.746641963872163,17.716324710080286,9.275127373784159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1829110401:0964/pct:70.3776390127862,7.754361587154547,17.716324710080286,9.27898718542535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2643,7 +2643,7 @@ od, molested or burthened in his body or
 goode, nor shall otherwise suffer on ac­  
 count of religious opinious of belef.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834012901:0017/pct:1.35236664162284,86.75191141576589,15.49586776859504,5.299235433693646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834012901:0017/pct:1.3586275982970197,86.75191141576589,15.502128725269221,5.31681167062132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2667,7 +2667,7 @@ opinions or belief.””&quot; LT o g
 This act contains the priaciples upon  
 which our Siafe was settled and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021520:00340588046:1834020101:0369/pct:34.39277350284376,41.673570836785416,15.122114419538308,6.142738785655107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021520:00340588046:1834020101:0369/pct:34.40392550462808,41.67751607685328,15.122114419538308,6.1506292657908235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3177,7 +3177,7 @@ jority undertakes to proscribe any one sect and art
 successful in prosecuting and suppressing that sect, i  
 that were possible, that they may, by means of ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854090101:0343/pct:14.500941619585687,30.271398747390396,15.630885122410547,10.315050294173467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854090101:0343/pct:14.500941619585687,30.277725058518378,15.640542759186827,10.318213449737458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3217,7 +3217,7 @@ will make his opinions the rule of judgment
 I and approve or condemn the sentimentsof others only  
 as they shall square with or differ from his own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854090101:0343/pct:14.29813124728379,43.167583981780226,16.02201941184992,12.602011766938698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854090101:0343/pct:14.29813124728379,43.173910292908204,16.02201941184992,12.602011766938698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3356,7 +3356,7 @@ present or to narrow iw operation, such
 act will be an infringement of natural  
 rights.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:0020129302A:1854101801:0166/pct:2.9401219074937255,18.324918324918325,13.840086052348513,59.5040095040095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:0020129302A:1854101801:0166/pct:2.9446038006453925,18.33234333234333,13.844567945500179,59.50772200772201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3443,7 +3443,7 @@ act shall be hereafter passed to repeal the present, or to ni
 row its operations, such an act will be an infringement  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854122401:0611/pct:5.019493177387914,6.260254953931591,30.73424301494477,90.78631831377004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854122401:0611/pct:5.019493177387914,6.260254953931591,30.75590210093134,90.79473263494468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3519,7 +3519,7 @@ errors ceaaing to he dangerous when It ifl permitted
 freely to combat them. ,  
 Be it, therefore, enacted by General At
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854122701:0157/pct:80.23300229182583,16.014144986107603,16.10007639419404,28.984592068704217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854122701:0157/pct:80.23300229182583,16.014144986107603,16.119174942704355,28.993011703292076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3542,7 +3542,7 @@ oring to impost tk*&gt;n upon others, has established
 and maintained fmlss religions over the grsstcst  
 part of the world, and through all time,&quot; Ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854122701:0158/pct:3.4560480841472576,79.08447142134547,15.514650638617582,4.501770359129995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854122701:0158/pct:3.4560480841472576,79.08447142134547,15.52717255196594,4.514415781487101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3644,7 +3644,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an Met will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854122801:0161/pct:33.26375711574953,14.013467157921484,16.337760910815938,41.392453309617586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854122801:0161/pct:33.2764073371284,14.021937068563927,16.337760910815938,41.3966882649388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3747,7 +3747,7 @@ F mankind, and that if any act shall be hereafter
 | rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854122901:0165/pct:34.37439753229227,13.773133576734232,16.059379217273953,41.49565655293969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854122901:0165/pct:34.380823854508066,13.78152671115028,16.05295289505816,41.49985312014772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3786,7 +3786,7 @@ passed to repeal tho present, or to narrow it* ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854123001:0169/pct:33.054552366470254,42.756860242501595,15.9095229043908,12.393107849393745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854123001:0169/pct:33.067224228600395,42.76111465645607,15.9095229043908,12.397362263348224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3825,7 +3825,7 @@ passed to repeal the present, or to narrow its ope­
 rations, sticli an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010201:0173/pct:33.55275531314651,43.69598373157092,15.6855369569306,12.341128622267412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010201:0173/pct:33.55902451256974,43.70445687171666,15.691806156353834,12.336892052194543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3917,7 +3917,7 @@ Hi no. \yiac dimmish, enlarge, or aftect their civil
 capacities. j ,, . , .  
 And though 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010301:0177/pct:33.66374380480366,14.325628651257302,15.878764773160503,36.63957327914656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010301:0177/pct:33.66374380480366,14.334095334857336,15.878764773160503,36.635339937346544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4020,7 +4020,7 @@ to repeal the present, or to narrow its ope
 I such an act will be an infringement of  
 qatarsl sight
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010401:0181/pct:32.782212086659065,14.446695365915422,16.381603952869632,41.605469739174474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010401:0181/pct:32.782212086659065,14.455136321431587,16.394273406816165,41.605469739174474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4122,7 +4122,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010501:0185/pct:33.8417540514776,15.235421717493939,15.919923736892278,41.393390327931606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010501:0185/pct:33.8544645694312,15.243928373952619,15.907213218938672,41.38913699970227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4163,7 +4163,7 @@ leate and cwufom to It; that though, Indeed, theeO
 1 WO criminal who do ifot withstand snob teinpta­  
 I lions Tet neither are those Innocent who lav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010601:0189/pct:33.35225122966326,23.25581395348837,15.891032917139613,12.90569895221058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010601:0189/pct:33.35855719510657,23.264332566658148,15.909950813469543,12.909958258795468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4243,7 +4243,7 @@ i hot- natuiai weapon*, free argument and debate,
 oreors ceasing to be dangerous when it is permitted  
 freely to ottmW them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010801:0193/pct:33.75856816450876,13.690248565965582,15.974866717440975,31.051625239005737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010801:0193/pct:33.771261741558774,13.698746547694922,15.962173140390963,31.047376248141067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4279,7 +4279,7 @@ p??H-^i to repoal the pewnt, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010901:0197/pct:33.263717486235045,45.394317747483754,15.758496297702678,10.600076442858963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010901:0197/pct:33.27004619960762,45.394317747483754,15.752167584330106,10.608570093854844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4382,7 +4382,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011001:0201/pct:33.70489325524277,15.533240116944198,15.832231248819195,41.79483920172874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011001:0201/pct:33.71748850683292,15.541714334138383,15.819635997229044,41.79907631032583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4485,7 +4485,7 @@ passed to repeal the present, or to narrow its ope­
 1 rations, such an act will be an infringement of |  
 natural right. . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011101:0205/pct:33.062995096190114,14.3802494273352,15.918521312712183,42.03359633494528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011101:0205/pct:33.062995096190114,14.388733350301179,15.918521312712183,42.03359633494528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4577,7 +4577,7 @@ in no wise diminish, enlarge, or affect their civil
 copacitieg,  
 And though wc well know
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011201:0209/pct:32.96142208774584,14.10174678056866,15.790468986384266,36.40188703302308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011201:0209/pct:32.97402924861321,14.110246929321264,15.78416540595058,36.39763695864678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4680,7 +4680,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such un act will be an Infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011501:0217/pct:34.21952145841246,13.775901765157329,15.970375996961641,41.91609107188539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011501:0217/pct:34.23218128877073,13.784429095250276,15.976705912140778,41.91182740683892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4783,7 +4783,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011701:0225/pct:33.21258341277407,13.774733637747337,15.88179218303146,41.603247082699134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011701:0225/pct:33.21258341277407,13.783189582276341,15.894502700985065,41.59901911043463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4830,7 +4830,7 @@ passed to repeal the presen t, or to narrow its ope­
 rations, such an act will bo an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011801:0229/pct:33.917797888386126,40.423901940755876,15.705128205128204,16.11338100102145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011801:0229/pct:33.917797888386126,40.423901940755876,15.711412770236299,16.121893088185224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4933,7 +4933,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011901:0233/pct:34.070712800151256,14.090619017230377,15.900926451124976,42.04211869814933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011901:0233/pct:34.08331757736182,14.099127845139332,15.894624062519695,42.04211869814933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5025,7 +5025,7 @@ in no wise diminish, enlarge, or affect their civil
 ^parities.  
 And though we well kn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012001:0237/pct:32.796818784321154,14.271099744245523,15.735656125733762,36.470588235294116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012001:0237/pct:32.809442656062615,14.27536231884058,15.729344189863031,36.470588235294116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5064,7 +5064,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will bo an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012201:0241/pct:33.30172577280486,43.644716692189895,15.645742461596814,12.238386932108218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012201:0241/pct:33.30172577280486,43.644716692189895,15.652063973702509,12.251148545176111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5167,7 +5167,7 @@ passed to repeal the present, or to narrow iu ope­
 rations, Huoh an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012301:0245/pct:33.95073515371396,13.68515205724508,15.906053083826619,41.94991055456172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012301:0245/pct:33.9634650881548,13.693670670414857,15.906053083826619,41.94991055456172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5270,7 +5270,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012401:0249/pct:32.088703563305536,14.380502743396708,15.902198635329796,41.9420696695164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012401:0249/pct:32.088703563305536,14.389009399855388,15.90851655294415,41.9420696695164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5373,7 +5373,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012501:0253/pct:33.68081880212282,38.08124680633623,15.788476118271419,42.2713336739908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012501:0253/pct:33.68081880212282,38.0897632430591,15.788476118271419,42.2713336739908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5475,7 +5475,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012601:0257/pct:33.40978593272171,38.33886195458025,16.035932721712538,41.502934422046444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012601:0257/pct:33.41615698267074,38.3431147401548,16.0486748216106,41.502934422046444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5578,7 +5578,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012701:0261/pct:34.104704097116844,37.79255659291469,15.762518968133536,41.96188770942576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012701:0261/pct:34.1110268082954,37.80108283241676,15.775164390490643,41.96615082917679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5680,7 +5680,7 @@ mankind, and that if any aot shall be hereafter
 passed to repeal the present, or to narrow its ope­  
 rations, snch an act will be an infringement o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012901:0265/pct:33.13081450541105,37.16147164026571,15.87241313840896,41.38988247317322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012901:0265/pct:33.13081450541105,37.16998807698859,15.878741851781532,41.38988247317322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5784,7 +5784,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855013101:0273/pct:18.797276853252647,12.25897075724684,31.44856278366112,83.7696335078534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855013101:0273/pct:18.803580433686335,12.25897075724684,31.442259203227433,83.77814668199038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5887,7 +5887,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will bo an infringement of  
 natural right. ? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020101:0277/pct:17.867325603497434,12.477763659466328,31.72400684280555,83.39263024142312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020101:0277/pct:17.873661534562505,12.486234646336298,31.72400684280555,83.38839474798814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5943,7 +5943,7 @@ to oomipt the principles of the very religion it is I
 1 meant to encourage. by bribing, with a monopoly  
 of worldly honors, theae who wil extemollv pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020201:0281/pct:17.439209726443767,71.49431164514893,15.786474164133738,20.081810047296432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020201:0281/pct:17.451874366767985,71.49857258511227,15.786474164133738,20.090331927223147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6046,7 +6046,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be au infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020301:0285/pct:18.592774730470968,12.840516690113825,31.700397200680914,83.8086711855736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020301:0285/pct:18.59907950318391,12.849042929615893,31.70670197339386,83.8086711855736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6116,7 +6116,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such on act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020501:0289/pct:17.825176156922492,12.651757188498403,31.34641020757951,83.69329073482429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020501:0289/pct:17.837872151336253,12.651757188498403,31.34006221037263,83.70181043663472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6172,7 +6172,7 @@ to corrupt the principles of the very religion It is
 meant to enoourage, by bribing, with a monopoly  
 of worldly honors, those who will externally pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020601:0293/pct:16.729965818458034,71.00126742712294,16.21724268894797,19.771863117870723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020601:0293/pct:16.729965818458034,71.00971694127588,16.21724268894797,19.771863117870723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6226,7 +6226,7 @@ thta act irrevocable would be of no effect in law ?
 yet we ore free to declare, and do declare, that the  
 nghts hereby asserted are of the natural rights o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020601:0293/pct:17.242688947968098,12.610899873257289,31.522977592100265,83.29531051964511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020601:0293/pct:17.242688947968098,12.610899873257289,31.522977592100265,83.29953527672158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6254,7 +6254,7 @@ men, have Mourned dominion orer th? Muto o j
 others, setting up their own opinions and modes of &gt;  
 thinking as the only true and infallible, and ?u^1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020701:0297/pct:17.562929061784896,70.01788451711803,15.961098398169336,7.217680122636689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020701:0297/pct:17.575642003559622,70.02640095384092,15.954741927281972,7.217680122636689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6339,7 +6339,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement oi  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020701:0297/pct:17.658276125095348,11.893203883495145,31.52173913043478,83.68676545733265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020701:0297/pct:17.658276125095348,11.897462101856583,31.528095601322146,83.69528189405553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6362,7 +6362,7 @@ forcing bun to sapport this or that teacher of his
 t?.Fi*bt*on&#x27;n^ ?&quot;d withdrawing from  
 the ministry those temporal rewards, which pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020801:0301/pct:17.90053151100987,77.13227783452503,15.85041761579347,6.307456588355465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020801:0301/pct:17.913186535054418,77.13227783452503,15.85041761579347,6.315968675519238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6430,7 +6430,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020801:0301/pct:17.90053151100987,12.691521961184883,31.473044798785118,83.42696629213484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855020801:0301/pct:17.913186535054418,12.700034048348655,31.466717286762844,83.42696629213484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6494,7 +6494,7 @@ it tends also to corrupt the DrinciD.es of the
 very religion it is. meant to encourage,- by  
 onoing, wun a monopoly oi woruly hon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026203:0029602756A:1855020901:0676/pct:30.6346623270952,31.69750603378922,18.592351505288853,37.42290158219362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026203:0029602756A:1855020901:0676/pct:22.995522995522997,23.773129525341915,13.96011396011396,28.077232502011263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6562,7 +6562,7 @@ religious liberty, because, he being of oourse judge
 of that tendency, will make his opinions the rule  
 of judgment, and approve or coadeaaa the senti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021001:0309/pct:17.448652722818917,69.30642483075744,16.07311098549086,25.53327372589092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021001:0309/pct:17.454933735318132,69.31494017967387,16.079391997990076,25.52901605143271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6594,7 +6594,7 @@ lghts hereby asserted are of tho natural righu of
 &quot;wnkind, and that if any act sliall be hereafter  
 I^d to repeal the present, or to narrow its opc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021001:0309/pct:32.99415865837573,17.90777877123515,16.11079706048615,9.426491250478989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021001:0309/pct:32.99415865837573,17.916294120151573,16.117078072985365,9.422233576020778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6697,7 +6697,7 @@ passed to repeal the present, or -to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021201:0313/pct:18.221546646399393,12.469594162079119,31.331939958198745,83.88170528741519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021201:0313/pct:18.23421369307746,12.469594162079119,31.32560643485971,83.88597277343916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6723,7 +6723,7 @@ religion* liberty, because, he beiug Of course Jndgn
 11 j his opiates* the nde  
 of judgment, and approve or condemn the senti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021301:0317/pct:18.59807801017524,90.21402784940692,15.507819860561522,5.9824651882413615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021301:0317/pct:18.59807801017524,90.22262334536703,15.507819860561522,5.9824651882413615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6827,7 +6827,7 @@ passed to repeal the present, or to narrow its ope­
 rutious, such an act will bo an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021401:0321/pct:18.126428027418125,11.95097037793667,31.378522467631377,84.03983656792646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021401:0321/pct:18.126428027418125,11.95097037793667,31.378522467631377,84.04834865509022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6923,7 +6923,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021501:0325/pct:17.364016736401673,12.03420112302195,31.799163179916317,84.0096988259316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021501:0325/pct:17.370356282490174,12.042708865067212,31.81184227209332,84.0096988259316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6992,7 +6992,7 @@ of that tendency, will make his opinions the rule
   
 0t^?r8 0nI* 113 they shall square with o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021601:0329/pct:18.391023202738683,12.099871959026888,31.171548117154813,84.00768245838668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021601:0329/pct:18.391023202738683,12.108408023900981,31.17788766324331,84.00768245838668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7014,7 +7014,7 @@ lation only, have no power to restrain the acts of
 succeeding assemblies, constituted with powers  
 equal to our own ; and that, therefore, to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021601:0329/pct:34.04336249524534,21.062740076824586,16.96462533282617,4.532650448143406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021601:0329/pct:34.05604158742234,21.067008109261632,16.95828578673767,4.536918480580453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7110,7 +7110,7 @@ passed to repeal the present, or to narrow Its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021701:0333/pct:18.25009387908374,11.817367949865712,31.35561396920766,83.65519887453638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021701:0333/pct:18.25009387908374,11.821631069616746,31.368131180373013,83.65519887453638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7182,7 +7182,7 @@ rightful purposes of civil government, for its offi­
 cers to interfere when principles break out into  
 fi^n ?agmin!&#x27; P*&quot;?* ,U1(1 good order; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021901:0337/pct:17.5485344499429,11.836578846888125,32.07080319756376,83.4542446226295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021901:0337/pct:17.5485344499429,11.840821348266939,32.07080319756376,83.46272962538713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7210,7 +7210,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021901:0337/pct:34.01218119527979,21.67493954435535,15.778454510848878,6.758304696449026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855021901:0337/pct:34.01852556782134,21.683424547112978,15.784798883390433,6.758304696449026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7313,7 +7313,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an %ct will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022101:0345/pct:18.417540514775975,11.482948013794866,31.591992373689227,83.791033337591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022101:0345/pct:18.42389577375278,11.482948013794866,31.611058150619638,83.80380636096564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7366,7 +7366,7 @@ the offlce&#x27;of trust and emolument, unless he pro­
 &#x27; advert*0&quot; 10 &quot;l*&quot;0*1, in common with bis fellow­  
 f citizen/&quot;&#x27; * n*tu&quot;d right; that it tends als
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022301:0349/pct:17.062146892655367,70.50938337801608,16.497175141242938,18.281629005489595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022301:0349/pct:17.074701820464533,70.51363887825013,16.48462021343377,18.281629005489595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7413,7 +7413,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022301:0349/pct:33.27683615819209,12.792033703561854,15.743879472693033,15.958125877696924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022301:0349/pct:33.28311362209667,12.796289203795906,15.743879472693033,15.962381377930976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7517,7 +7517,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022401:0353/pct:18.420053171287506,11.83605720122574,31.447018609950625,83.78447395301328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022401:0353/pct:18.432713001645777,11.844569288389513,31.434358779592355,83.78447395301328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7566,7 +7566,7 @@ overt acts again* peace and good order; and
 tinaliy, that truth. is great, and will prevail if left ti!  
 herself; that she is the proper and suffloient antag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022601:0357/pct:17.94871794871795,11.685823754789272,31.320037986704655,83.75478927203065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022601:0357/pct:17.95504906616018,11.690080885483184,31.320037986704655,83.75478927203065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7583,7 +7583,7 @@ tfi^fl 0W1l\ Md ^ therefore, to declare
 this act irrevocable would be of no effect in law ?  
 yet, we are free to declare, and do declare, that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022801:0365/pct:32.87697280851873,25.089013224821972,15.497242821829245,1.7675483214649033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022801:0365/pct:32.88964948976358,25.09749067480502,15.497242821829245,1.7717870464564258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7655,7 +7655,7 @@ otbera only as thoy shall square with or
 ^ htfiil m* 0Wni tbat&#x27;&#x27; &quot; tiuie enough, for the  
 cin to i.fXX&#x27;Zr I civil Kovt&#x27;r&quot;&quot;&#x27;ent, ?or its offi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030101:0369/pct:17.608532934131738,11.983154670750382,31.081586826347305,83.94589076059214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030101:0369/pct:17.621007984031937,11.991662412795645,31.075349301397207,83.94589076059214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7675,7 +7675,7 @@ this act irrevocable would be of no effect in law ?
 t0 declaro. *&quot;&lt;? do declare, that the  
 rights hereby asserted aro of the natural riirhts o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030101:0369/pct:33.383233532934135,23.711077080142932,15.999251497005988,3.0117406840224605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030101:0369/pct:33.383233532934135,23.715330951165562,16.01172654690619,3.015994555045091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7744,7 +7744,7 @@ of judgment, slid approve or condemn the senti­
   
 menu, of others only as they shall wutit ^th o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030201:0373/pct:18.264840182648403,12.307889344262295,31.183409436834093,83.70901639344262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030201:0373/pct:18.271182141045156,12.307889344262295,31.183409436834093,83.72182377049181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7773,7 +7773,7 @@ others, setting up their own opinions and modes of
 thinking as the only true and infallible, and as such  
 endeavoring to impose them upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030301:0377/pct:17.76591688905833,69.65578559634193,16.66031261913839,7.214530674457005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030301:0377/pct:17.77862498411488,69.6642533553495,16.67302071419494,7.218764553960794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7826,7 +7826,7 @@ the V. of trust and emolument,
 foss or renounce this or that religious opinion, is  
 depriving him injuriousl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030501:0381/pct:17.041306436119115,69.31513837520724,16.753121998078772,18.74760872337712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030501:0381/pct:17.054114633365355,69.31513837520724,16.74031380083253,18.751859881817797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7848,7 +7848,7 @@ this act irrevocable would be of no efTect in law :
 40 declare&gt; and do declare, that the  
 righto hereby asserted are of the natural rights o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030501:0381/pct:33.2180595581172,22.573651319984695,16.368876080691642,4.017344726437955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030501:0381/pct:33.230867755363434,22.582153636866046,16.37528017931476,4.017344726437955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7952,7 +7952,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will bo an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030601:0385/pct:17.78158947970269,13.170546558704453,31.90394511149228,82.45192307692308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030601:0385/pct:17.7879423162442,13.178981106612685,31.910297948033797,82.45192307692308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8020,7 +8020,7 @@ religious liberty, because, be being of oourae judge
 of that tendency, will make his opiniona the rule  
 of judgment, and approve or condemn the sent!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030701:0389/pct:17.976889562417124,70.4717830055277,15.66584580412957,25.787376269443374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030701:0389/pct:17.976889562417124,70.48035308737198,15.672160131338005,25.783091228521233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8124,7 +8124,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030801:0393/pct:17.976461655277145,12.582781456953642,31.359149582384205,83.6092715231788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030801:0393/pct:17.976461655277145,12.591271862795042,31.36547709440648,83.6092715231788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8204,7 +8204,7 @@ ner natural weapoos, free argument aad debate,
 errors oeariog to be dangerous whan it la permitted  
 freely t? combat them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030901:0397/pct:17.418738049713195,12.202954399486192,31.64435946462715,84.17469492614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030901:0397/pct:17.431485022307204,12.202954399486192,31.64435946462715,84.18325840291158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8240,7 +8240,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030901:0397/pct:33.154875717017205,18.31727681438664,15.889101338432122,10.533076429030187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855030901:0397/pct:33.154875717017205,18.32584029115821,15.908221797323137,10.528794690644402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8267,7 +8267,7 @@ deed, those are criminal who do not withstand such teipt­
 atton, yet neither are those innocent who lay the bait&#x27;,,,  
 their way. In the struggle which terminated&#x27; iu llie com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031101:0312/pct:0.7195421095666394,36.34538152610442,15.764513491414554,6.061746987951807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031101:0312/pct:0.7195421095666394,36.34538152610442,15.780866721177432,6.07429718875502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8302,7 +8302,7 @@ her natural weapon*, free argument and debate,
 enow searing to be dangerwU when It la permitted  
 freely to oomhat them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031201:0405/pct:17.22689075630252,12.573248407643312,31.569900687547747,83.4267515923567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031201:0405/pct:17.23325693913929,12.573248407643312,31.569900687547747,83.43524416135881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8328,7 +8328,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will bo an Infringement of  
 natural right. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031201:0405/pct:32.734912146676855,22.662420382165607,15.928189457601222,6.445859872611465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031201:0405/pct:32.734912146676855,22.666666666666668,15.940921823274765,6.450106157112526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8384,7 +8384,7 @@ to corrupt the principled of tho very religion it is
 meant to encourage, by bribing, with a monopoly  
 of worldly honors, those who will externally pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031301:0409/pct:16.73254281949934,71.4795918367347,16.03613777526821,19.897959183673468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031301:0409/pct:16.738816738816737,71.48809523809524,16.048685613903004,19.897959183673468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8428,7 +8428,7 @@ knowledge, the acquisitions of his own iuduatrv, to
 honor ami confidence from his fellow-citizens, resulting,  
 not from creed, wealth, of birth, but from bi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855031301:0562/pct:58.19672131147541,32.12415500333238,15.45872878918608,11.587165571741407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855031301:0562/pct:58.20630812002684,32.130502396140784,15.449141980634646,11.583991875337205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8471,7 +8471,7 @@ of judgment, and approve or ootid asm the aantl­
   
 menu of other* only m they shall square with, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031401:0413/pct:17.58994860079954,12.6078132927448,31.353512278697888,83.4728564180619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031401:0413/pct:17.60263976140618,12.616269237273803,31.353512278697888,83.46862844579739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8562,7 +8562,7 @@ profess, and by argument to maintain, their opin­
 ions in matters of religion, and that the same shall  
 in no wise diminish, enlarge, or affect their civi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031501:0417/pct:17.637083097795365,12.49518922386145,31.48671565856416,83.70750481077614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031501:0417/pct:17.637083097795365,12.499465469317938,31.49927768356259,83.71605730168912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8631,7 +8631,7 @@ irliriou* liberty, because, he being of course judge
 of that tendency, will make his opinions the rule  
 of judgment, and approve or condemn the ssnti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031601:0421/pct:17.797256097560975,68.40837032339886,15.796493902439025,26.13823715916297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031601:0421/pct:17.803607723577237,68.41682519551892,15.790142276422765,26.142464595222997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8686,7 +8686,7 @@ advantages *0 which, in common with his fcUow­
 cttizensne has s natural right; that it tends slso  
 i to corrupt t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031701:0425/pct:17.235494880546074,70.01904761904763,15.96511186954873,19.3015873015873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031701:0425/pct:17.241815194033624,70.02751322751323,15.971432183036278,19.305820105820107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8790,7 +8790,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031901:0429/pct:17.35063943500668,12.403395413657671,31.62817331551823,83.17496515900164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031901:0429/pct:17.363364509766495,12.411841716288695,31.62817331551823,83.17918831031716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8853,7 +8853,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an ^infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855032001:0433/pct:17.665973141668243,12.07643312101911,31.39776811045962,83.3375796178344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855032001:0433/pct:17.665973141668243,12.07643312101911,31.40407288317256,83.34182590233546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8958,7 +8958,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855032101:0437/pct:18.071833648393195,12.575079872204473,31.304347826086957,84.12779552715655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855032101:0437/pct:18.071833648393195,12.57933972310969,31.304347826086957,84.13631522896699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9061,7 +9061,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855032201:0441/pct:17.57737867787543,11.54581368675927,31.524646541841804,83.57334012998598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855032201:0441/pct:17.58374729333843,11.554309502569984,31.518277926378804,83.56909222208063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9165,7 +9165,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such aq act will be an infringement of  
 , natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855032301:0445/pct:17.716236722306526,12.168705402650357,31.79059180576631,83.53720693170234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855032301:0445/pct:17.722559433485078,12.172952769283045,31.79059180576631,83.53720693170234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9211,7 +9211,7 @@ to corrupt the principles of the very religion it is
 meant to encourage, by bribing, with a monopoly  
 of worldly honors, those who will eiternally prj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855032601:0453/pct:18.048965648130576,72.9781525488693,15.809451508825203,18.180656701162643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855032601:0453/pct:18.055291959258557,72.98241131127294,15.803125197697224,18.184915463566288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9250,7 +9250,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855032801:0461/pct:33.155893536121674,16.349712827058074,16.159695817490494,12.354818123803446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855032801:0461/pct:33.155893536121674,16.35822165496703,16.172370088719898,12.354818123803446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9328,7 +9328,7 @@ ouiat of error, and haa nothing to fear from the
 conflict, unices by human interposition disarmed of  
 her natural weapona, free argume
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855032901:0465/pct:16.473933649289098,11.965592502246759,32.132701421800945,84.04159712414945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855032901:0465/pct:16.486571879936808,11.969872041768305,32.12638230647709,84.045876663671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9432,7 +9432,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will bo an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855033001:0469/pct:17.228250523510376,11.670480549199084,31.429659242337713,82.95194508009153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855033001:0469/pct:17.24094168411701,11.670480549199084,31.423313662034392,82.95618272734977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9466,7 +9466,7 @@ K dVl1 *&quot;?????* I iUl offl­
 SrttTV&#x27; #***? and wi&quot; to  
 herself, that she is the proper and suffiuient autag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855033101:0473/pct:18.192176224838587,11.379800853485063,30.820357007216103,84.4950213371266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855033101:0473/pct:18.192176224838587,11.388421914737703,30.82668692239524,84.49071080650027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9502,7 +9502,7 @@ passed to repeal the present, or to narrow its ope­
 rations such an act will be an infringement of  
 natural righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855040201:0477/pct:34.13072141646261,18.05276381909548,15.746844980222264,10.28894472361809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855040201:0477/pct:34.13700006278646,18.06113902847571,15.753123626546117,10.284757118927974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9542,7 +9542,7 @@ to the particulrr pastor whose morals ho would
 make his pattern, and whose powers he feels most  
 persuasive to righteousness, and is withdrawing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855040301:0481/pct:18.563889935921598,69.21337019351596,15.736901620806634,12.264388037195275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855040301:0481/pct:18.576454328433222,69.22174750774901,15.730619424550824,12.264388037195275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9627,7 +9627,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855040401:0485/pct:18.37003576134011,11.967109424414927,31.206474684735554,83.16255534471853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855040401:0485/pct:18.37003576134011,11.971326164874553,31.21274860405295,83.16677208517815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9704,7 +9704,7 @@ rtghts hereby asserted are of tho natural rights of
 mankind, and that If any act shall be hereafter  
 passed to repeal the present, or to narrow ifci opo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855040501:0489/pct:17.268089930096355,12.360115679617754,31.513319478556586,82.29598893499309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855040501:0489/pct:17.268089930096355,12.364306970116099,31.525914730146734,82.29598893499309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9746,7 +9746,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will bo an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855040601:0493/pct:34.167921686746986,14.821360939275344,15.90737951807229,13.546269410427977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855040601:0493/pct:34.1804718875502,14.825569162142827,15.901104417670682,13.546269410427977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9823,7 +9823,7 @@ cera^ufL&quot;!?0**&#x27; f dvil 8overuuieut, for its offl­
 ersoll;that she is the proper and suffiuient antae­  
 oiurt of error, and has nothing to fear from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855040701:0497/pct:17.50236518448439,11.657214870825458,31.428571428571427,82.78512917454316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855040701:0497/pct:17.51497950173447,11.665616467128755,31.42226426994639,82.78092837639151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9890,7 +9890,7 @@ religion* liberty, because, he tying of course j udge
 of that tendency, will make his opinions the nHe  
 of judgment, end approve or condemn the seat*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855040901:0501/pct:18.95115486558122,68.99195575666164,16.0734570238546,24.61035696329814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855040901:0501/pct:18.957465606462197,68.99614546673371,16.07976776473558,24.614546673370203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9993,7 +9993,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041001:0505/pct:17.455843667794063,12.389492296034351,31.661029688087186,82.93761050770397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041001:0505/pct:17.455843667794063,12.389492296034351,31.661029688087186,82.94182032499789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10045,7 +10045,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041101:0509/pct:33.181126331811264,14.590972310026553,15.791476407914764,13.427740548741939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041101:0509/pct:33.19381024860477,14.590972310026553,15.778792491121258,13.436169764403422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10144,7 +10144,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will bo an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041201:0513/pct:17.31168585992071,12.829856747926614,31.60279403435907,81.13847700427243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041201:0513/pct:17.317978730098798,12.829856747926614,31.609086904537158,81.15104297562202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10243,7 +10243,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041301:0517/pct:15.794445494048743,12.835032087580219,31.551105233327036,82.52170630426576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041301:0517/pct:15.794445494048743,12.835032087580219,31.55740285912211,82.52590075919635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10305,7 +10305,7 @@ tions, yet neither are these innoeent who lay the
 bait &#x27;in their way i that to suffer the civil ma­  
 gistrate to intrude his powers into the fteld of opin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041401:0521/pct:18.519216277317256,69.34407654538587,15.693293142426526,22.535565907088003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041401:0521/pct:18.53177593569455,69.34407654538587,15.693293142426526,22.54395904150405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10345,7 +10345,7 @@ would make his pattern, and whose powers he feels
 most persuasive to righteousness, and is withdraw  
 ing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855041401:0122/pct:28.88755980861244,25.033548859338783,19.452751196172247,16.37184335732585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855041401:0122/pct:21.672150762787915,18.775161644504088,14.597666766377506,12.284982310601439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10405,7 +10405,7 @@ fess and oonform to it; that though, indeed, those
 are criminal who do not withstand sach tempts  
 tions, yet neither are thorn innocent who lay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041601:0525/pct:18.496669838249286,69.73917447455052,15.71836346336822,21.66371233223601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041601:0525/pct:18.509356168728196,69.74761543006669,15.712020298128767,21.659491854477928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10456,7 +10456,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041601:0525/pct:18.763082778306376,11.901747277791847,31.189343482397717,83.31223094454292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041601:0525/pct:18.763082778306376,11.910188233308011,31.202029812876624,83.31223094454292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10549,7 +10549,7 @@ in no wise diminish, enlarge, or affect their civil
 rapacities.  
 And though we well know t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041701:0529/pct:17.664840355186094,11.997979287698914,31.45664084640091,82.84920434453144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041701:0529/pct:17.664840355186094,12.006398922286772,31.469236097991057,82.84920434453144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10652,7 +10652,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 Mini righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041801:0533/pct:19.1135216008977,11.828901154039137,30.914531512997943,82.09984947315604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041801:0533/pct:19.125989651517987,11.837263756481017,30.914531512997943,82.09984947315604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10672,7 +10672,7 @@ tabhahed and maintained false r. ligioni over the
 greatest part of the world and through all time ?  
 that to compel a man to furnish contributions o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041901:0537/pct:17.96088855135751,74.4726537829986,15.701537877349535,2.9809271188581534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041901:0537/pct:17.96088855135751,74.48107448107449,15.714195304094677,2.9851374678960885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10715,7 +10715,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041901:0537/pct:33.51053730776533,13.969938107869142,15.739510157584963,14.00783124921056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855041901:0537/pct:33.51053730776533,13.974148456907077,15.752167584330106,14.012041598248494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10819,7 +10819,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042001:0541/pct:17.734921535261865,11.577752553916005,31.25354509359047,82.7090427544457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042001:0541/pct:17.741223923867146,11.586160507840416,31.24724270498519,82.7132467314079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10879,7 +10879,7 @@ religious liberty, because, he being of ceunWjudge
 of that tendency, will make his opinions the rule  
 I of judgment, and approve or condean the Mnti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042101:0545/pct:17.494313874147082,72.74222109790033,15.788476118271419,21.540602074373894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042101:0545/pct:17.500631791761435,72.74643730500043,15.801111953500126,21.544818281473987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10975,7 +10975,7 @@ passed to repeal the present, or to narrow its ope­
 ration*, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042301:0549/pct:18.275926971579146,12.60952380952381,30.999435347261436,82.93333333333334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042301:0549/pct:18.275926971579146,12.613756613756614,30.999435347261436,82.93756613756614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11026,7 +11026,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042401:0553/pct:18.912839737582004,11.057631412286257,30.890346766635428,82.88790373654211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042401:0553/pct:18.919087785067166,11.066075575258603,30.896594814120586,82.89212581802829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11058,7 +11058,7 @@ righto hereby asserted are of the natural rights of
 nJ^D?&#x27; if ^ a&quot; shall be hereafter  
 passed to repeal the present, or to narrow its ope
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042501:0557/pct:33.778446492382926,18.37994457042076,16.099304118864023,8.89392794154699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042501:0557/pct:33.778446492382926,18.388342991517593,16.105573318287256,8.89392794154699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11090,7 +11090,7 @@ are criminal who do not withstand such
 temptation, ret neither as those innocent  
 who lay the bait in their way.&quot; In th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:0020129302A:1855042501:0274/pct:15.802382620882971,10.395128168814615,13.54239663629993,10.522588868432234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:0020129302A:1855042501:0274/pct:15.80676243868255,10.405749893782751,13.54239663629993,10.526129443421611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11148,7 +11148,7 @@ to corrupt the prineiplee of the verv religion it is
 meant to enoourage, by bribing, with a monopoly  
 of worldly honors, those who will externally pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042601:0561/pct:17.579737335834896,68.7303384925129,15.74108818011257,20.598968164087076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042601:0561/pct:17.592245153220762,68.73872740237407,15.74108818011257,20.594773709156495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11200,7 +11200,7 @@ passed to repeal the present, or to narrow ita ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042601:0561/pct:17.804878048780488,12.2184472127847,31.03189493433396,82.19453881968039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042601:0561/pct:17.81113195747342,12.226836122645862,31.03189493433396,82.19453881968039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11304,7 +11304,7 @@ passed to repeal the present, or to narrow Its ope- .
 rations, such an act will be an Infringement of |  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042701:0565/pct:18.31543244771057,11.72161172161172,31.185227058601846,82.30390299355817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042701:0565/pct:18.31543244771057,11.725822070649658,31.19150807110106,82.30390299355817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11336,7 +11336,7 @@ I Pastor whose momls he would
 8 Us pattern, and whose powers he feels most  
 persuasi ve to righteousness, and is withdrawing fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042801:0569/pct:18.156055167201966,72.61784085149519,15.794445494048743,9.02179422199696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855042801:0569/pct:18.16235279299704,72.62628822436223,15.800743119843819,9.01757053556344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11375,7 +11375,7 @@ to the perticulrr peetor whoee morels he would
 make his pattern, and whose powers he feels moat  
 persuasive to righteousness, and is withdrawing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855043001:0573/pct:17.814682015474617,70.18925441381938,15.757690130213248,11.901435285151784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855043001:0573/pct:17.820972510536578,70.19772217282696,15.776561615399132,11.901435285151784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11432,7 +11432,7 @@ passed to repeal the present, or to narrow its ope- ,
 ration*, such an act will be an infringement Of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855050101:0577/pct:19.92099322799097,12.618655866346032,30.944319036869828,82.9515251234021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855050101:0577/pct:19.927263606721844,12.618655866346032,30.944319036869828,82.95574399864996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11454,7 +11454,7 @@ agate by coercions on either, as was in his aliniehtT
 power to do ; that the Impious presum^T&quot;?)  
 Ishteres and raters, civil ? well a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855050401:0589/pct:18.425995492111195,69.62888159555668,15.49586776859504,4.822014642766978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855050401:0589/pct:18.432256448785374,69.62888159555668,15.514650638617582,4.830430026087688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11516,7 +11516,7 @@ passed to repeal tho present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855050401:0589/pct:18.519909842223893,12.471598081292603,31.0480841472577,82.41605655137592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855050401:0589/pct:18.519909842223893,12.475805772952958,31.05434510393188,82.42447193469663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11549,7 +11549,7 @@ part of the world, and through all time; that to com- v
 fi&#x27;S h a man to furnish contributions of monoy for the j  
 fii propagation of opinions which he disbelieve?, is sintu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855050401:0624/pct:0.10127314814814815,63.389959916014504,17.549189814814813,7.262836419163962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855050401:0624/pct:0.10127314814814815,63.39314118470446,17.56365740740741,7.266017687853916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11652,7 +11652,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will bo an infringement of  
 natural righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855050501:0593/pct:17.90623234795707,12.310987903225806,30.954622481641874,82.10685483870968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855050501:0593/pct:17.91878491181824,12.310987903225806,30.942069917780707,82.11525537634408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11684,7 +11684,7 @@ Of judgment, and approve or soadsma the senti­
 J !* ,U1J *?uar? &#x27;Tith, or  
 OfferApm, his own; that it is time enough, for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855050701:0597/pct:17.97123108537269,11.79513056641857,30.917242667662993,81.99823388419327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855050701:0597/pct:17.97123108537269,11.79513056641857,30.923469705461113,82.00664395946343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11788,7 +11788,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be Jin infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855050901:0605/pct:16.69512426484538,11.79989816700611,32.38474672737621,83.27393075356416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855050901:0605/pct:16.70144817555176,11.79989816700611,32.38474672737621,83.28241683638832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11822,7 +11822,7 @@ FROM HIS ACTIONS, and their sense of them.&quot;
 Thomas Jefferson.  
 &quot;Jiesolced, That the liberal principles unbodie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855050901:0498/pct:47.08092485549133,96.54871122761031,19.971098265895954,13.073394495412844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855050901:0498/pct:35.32302355831768,72.41153342070773,14.973262032085561,9.807776321537789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11957,7 +11957,7 @@ passed to repeal the present, or to narrow Its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051001:0609/pct:18.942142447966393,12.113954367830582,31.659346954363183,81.84797680574815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051001:0609/pct:18.94850741518681,12.122358082272365,31.659346954363183,81.84797680574815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11992,7 +11992,7 @@ equal rght to the -honor and confidence of his fcllow­
 citizens. resulting, NOT FROM BIRTH, BUT FROM  
 HIS ACTIONS, and their sense of them.&quot; Tnoma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855051101:0294/pct:106.67014069828035,18.553581885613898,20.14069828035435,13.497950419675972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855051101:0294/pct:80.03388505147922,13.917626390786648,15.117946044571875,10.121022838180753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12048,7 +12048,7 @@ to oormpt the principles of the very religion it Is
 meant to encourage, by bribing, with a monopoly  
 of worldly honors, these who will externally pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051201:0617/pct:19.485155956407365,69.56027293404094,15.614430665163473,19.686631286328026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051201:0617/pct:19.491419265940124,69.56869682419341,15.614430665163473,19.686631286328026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12084,7 +12084,7 @@ passed to repeal the present, or to narrow its ope*
 rations, such an act will be an Infringement of  
 natural right. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051201:0617/pct:34.96805712138294,18.132423553196865,15.689590379556558,10.487743239828152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051201:0617/pct:34.9743204309157,18.14084744334934,15.689590379556558,10.487743239828152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12151,7 +12151,7 @@ religions liberty, because, be being of course judge
 of that tendency, will make his opinion* tbe rule  
 of judgment, and approve or winilww tha Mali
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051401:0621/pct:18.316549496484896,69.39287506271951,15.846475394261828,24.623682890115404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051401:0621/pct:18.316549496484896,69.4012376651614,15.859142440939895,24.623682890115404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12300,7 +12300,7 @@ passed to repeal tho present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051501:0625/pct:17.874669686674217,11.817953231078702,31.332578331445827,82.00905204928338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051501:0625/pct:17.874669686674217,11.817953231078702,31.332578331445827,82.01743357639762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12326,7 +12326,7 @@ fellow-citizens, he has a natural right; that it tends to
 oorrupt the principle of that religion which it is  
 meant to encourage, and therefore proclaims as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855051501:0633/pct:28.26367944851357,21.314931953229827,15.539279046388051,4.284071305347901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855051501:0633/pct:28.26846665709225,21.318126637275572,15.54406625496673,4.290460673439397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12431,7 +12431,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051601:0629/pct:17.96079909536374,11.678277390753642,31.341877120241236,82.27992400253325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051601:0629/pct:17.96708129161955,11.686721553725986,31.354441512752857,82.27570192104707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12513,7 +12513,7 @@ error* oeaalng to be dangerous when It is permitted
 freely to combat them.  
 Be it, tktrefure, by tkt General At
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051701:0633/pct:18.433091879527257,11.602490786631083,31.490659550133437,82.28491549116788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051701:0633/pct:18.439445927055534,11.610962850002117,31.490659550133437,82.28067945948236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12549,7 +12549,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051701:0633/pct:34.006862371330534,12.962256957682044,15.916889058330156,10.420637946371839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051701:0633/pct:34.006862371330534,12.970729021053078,15.935951200914984,10.420637946371839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12645,7 +12645,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051801:0637/pct:17.725118483412324,11.93088661874133,31.37440758293839,82.39374448228024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051801:0637/pct:17.725118483412324,11.93088661874133,31.393364928909953,82.40215243620464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12715,7 +12715,7 @@ onist. of error, and has nothing to fear from the
 oonflict, unices by human interposition disarmed of  
 hsr natural weapons, free argument and debate,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051901:0641/pct:17.018846373500857,67.64076080110846,16.676185037121645,25.834487970777175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051901:0641/pct:17.018846373500857,67.6491581643364,16.682530617424963,25.834487970777175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12820,7 +12820,7 @@ passed to repeal the present, or to narrow its ope- j
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052101:0645/pct:18.076850274465265,11.778725539387857,31.27011167897028,81.59809332664325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052101:0645/pct:18.076850274465265,11.782906840608797,31.28273077165752,81.60227462786419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12898,7 +12898,7 @@ onist of error, and has nothing to fear from the
 : conflict, unlpsH by human interposition disarmed of  
 j her natural weapons, free argument and debate,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052301:0653/pct:19.213973799126638,64.67012789666963,15.87241313840896,29.85944029378245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052301:0653/pct:19.213973799126638,64.67434890886835,15.87241313840896,29.8678823181799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12930,7 +12930,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052301:0653/pct:34.80159483576989,15.841458781815879,15.81545471805582,8.319615043687476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052301:0653/pct:34.80159483576989,15.84990080621333,15.828112144800961,8.31539403148875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12963,7 +12963,7 @@ conform to it. Every person has an equal
 right to the honor and confidence of bis fellow  
 citizens, resulting, NOT FROM BIRTH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855052301:0537/pct:28.89776357827476,76.52249565001243,18.929712460063897,14.069102659706687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855052301:0537/pct:21.680779677264738,57.39497887148894,14.203546892474836,10.551826994780015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12994,7 +12994,7 @@ forcing him to support this or that teacher of his
 b^rsbi&#x27;s;  
 make his pattern, and whose powers he feels mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052401:0657/pct:17.8319679939036,67.7334005291672,16.288816917508097,9.1092352274159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052401:0657/pct:17.8319679939036,67.7334005291672,16.30786816536483,9.121834446264332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13033,7 +13033,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an act will be an infringement of |  
 natural right. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052401:0657/pct:20.441988950276244,12.674814161521986,29.2246142122309,82.2602998614086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052401:0657/pct:20.454689782180733,12.679013901138129,29.218263796278656,82.26449960102474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13073,7 +13073,7 @@ to the particulrr pastor whoee mords hoWnM
 make his pattern, and whoee po*?? he feels most |  
 persuasive torighteoosne^udis^?^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052501:0661/pct:17.374005305039788,65.92433253194989,18.56763925729443,12.564848791598127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052501:0661/pct:17.374005305039788,65.93276814711713,18.59290135152204,12.560630984014509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13103,7 +13103,7 @@ piABoa to repeal the present, or to narrow its ope­
 rations, such an net will be an infringement of  
 natural right. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052501:0661/pct:33.66805608184919,18.031127419967103,15.668813944676014,7.6047070732633175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052501:0661/pct:33.66805608184919,18.031127419967103,15.668813944676014,7.613142688430554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13206,7 +13206,7 @@ passed to repeal the present, or to narrow its ope­
 rations, such an aot will bo an infringement of  
 natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052601:0665/pct:17.363344051446944,12.827324478178369,32.07868356345754,82.21378874130298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052601:0665/pct:17.36964882415989,12.827324478178369,32.09129310888343,82.22222222222223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13237,7 +13237,7 @@ rightfol purposes of dvU noTemm^Tfol- iu offl­
 oers to interfere when principles break oat Into  
 overt acts against peace and road order- and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052901:0673/pct:18.77474081055608,84.33826317785362,15.626767200754006,8.50714195424093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052901:0673/pct:18.77474081055608,84.34247672017865,15.626767200754006,8.511355496565963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13271,7 +13271,7 @@ courage, by bribing with a monepoly of worldly honors and
 em sluments those whe will externally profess or conform to  
 it. That truth is great and will prevail
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855060101:1166/pct:101.00543926157903,236.33964429145152,46.678753914620074,19.931153184165233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855060101:1166/pct:33.66847975385968,78.77988143048384,15.559584638206692,6.643717728055077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13303,7 +13303,7 @@ It tends, also, to corrupt the principles of the
 very religion it is meant to encourage, by  
 bribing with a monopoly of woridly toni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1855060801:0933/pct:349.1411501120239,273.36059794105205,45.10828976848394,33.28162459455648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1855060801:0933/pct:87.31789316398954,68.34014948526301,11.281285020545386,8.32040614863912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13354,7 +13354,7 @@ in eomruoi with his fellow-citizens, he has a
 natural, indefeasible right. And we hold that  
 every person has an equal right to the hono
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855062001:0553/pct:67.55591054313099,53.748915602924775,19.105431309904155,8.92303879043252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855062001:0553/pct:50.6871204857782,40.31478497955137,14.33365292425695,6.69227909282439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13448,7 +13448,7 @@ citizens, resulting. NOT FROM BIRTH. BUT
 FROM HIS ACTIONS, and their sense of them.  
 To this we add the indorsement of Goorg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93052117:00279557955:1855063001:0170/pct:43.38073302623673,15.376429901569566,17.364310034047666,17.970204841713223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93052117:00279557955:1855063001:0170/pct:43.38574003605047,15.37975525405693,17.364310034047666,17.973530194200585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13580,7 +13580,7 @@ hereafter passed to repeal the present, or to nar
 row its operations, such an act will be an infringe­  
 ment of natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855070401:0557/pct:87.90115532734275,58.04432202328784,19.72079589216945,59.49668210842619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855070401:0557/pct:65.94447119242497,43.53324151746588,14.796982827796501,44.63503192688118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13609,7 +13609,7 @@ tends also to corrupt the principles of the
 very religion it is mieant to enc mrage, by  
 bribing with a monupoly of woshily h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1855072101:1207/pct:219.0990990990991,193.19727891156464,50.38288288288288,9.66958211856171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1855072101:1207/pct:54.762440891691064,48.2914979757085,12.592884485476244,2.417004048582996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13688,7 +13688,7 @@ cotiblt tettt.
 a Be it, therefore, enacted by the general  
 exsembly. That no man shall be compelle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1855080401:1217/pct:109.57035689929529,248.07060044990482,51.6708342805183,87.09119224779374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1855080401:1217/pct:27.386363636363637,62.00692041522491,12.914772727272727,21.769031141868513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13754,7 +13754,7 @@ officers to iliterlri&#x27;e, whetl plllielples break out into overt
 i? great and will prevail, it left to herself; that she is tin:  
 proper ami sufficient antagonist to Krror, and h.e nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1855080701:0086/pct:57.85518138459315,18.122417603536082,15.363491834080069,17.35370423753243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1855080701:0086/pct:57.85518138459315,18.12562057589443,15.368309485956544,17.35370423753243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13787,7 +13787,7 @@ mankind; and thnt i! any act shall he herealter passed to
 repeal the present, or to narrow its operation, ouch act will  
 he an infringement of natural light
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1855080701:0086/pct:57.782916606446015,36.54271163639858,14.90099725393843,6.389929854905352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1855080701:0086/pct:57.782916606446015,36.545914608756924,14.90099725393843,6.393132827263701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13836,7 +13836,7 @@ kind; that our civil rights have no dependence
 on our religious opinions any more than our  
 opinions in physics or geometry; that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855081401:0248/pct:24.80246417570644,76.10891089108911,11.51734297576001,15.03960396039604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855081401:0248/pct:24.799143010176753,76.1013761013761,11.519148366363149,15.040590040590041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13887,7 +13887,7 @@ is d-.-jliving him nMuriot^lr of those privileges and
 ad van .ages to which, in common with his fHIow cit­  
 izens,.* ha * a nitural right; tint it ten Is onl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1855081401:0315/pct:50.530530530530534,27.384374183433497,16.396396396396398,15.246929709955579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1855081401:0315/pct:50.545545545545544,27.3876404494382,16.396396396396398,15.263261039979096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13903,7 +13903,7 @@ izens,.* ha * a nitural right; tint it ten Is onl
 ureiolii on either, as Was in His almighty power to do ; that  
 the impious presumption of legislators and rulers, civil as wel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855093001:1037/pct:50.998336106489184,22.89531716175898,15.790349417637271,1.0636917888182644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855093001:1037/pct:51.0038824181919,22.89531716175898,15.790349417637271,1.076663639901414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13965,7 +13965,7 @@ I lief; but that all men shall be free to profess, and by argu­
 &#x27; that the same shall in no w&#x27;jo diminish, eulargo, or afl&#x27;oct their ,  
 | civil capacities
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855093001:1037/pct:50.98169717138103,27.072253210533145,16.123128119800334,20.27500324296277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855093001:1037/pct:50.98169717138103,27.072253210533145,16.12867443150305,20.27932719332382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13991,7 +13991,7 @@ with his fellow-citizens, he has a natural right.
 Vlso &quot; every person has an equal right to the honor  
 and confidence of his fellow-citizens, resulting no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855101001:0342/pct:8.590441621294616,19.252908756889163,19.99395039322444,7.911818738518065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855101001:0342/pct:6.4438057782483735,14.43968156766687,15.005294206625322,5.939987752602572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14025,7 +14025,7 @@ NOT FROM HIRTII, HUT FROM HIS AC­
 TIONS, and their sense of them.”  
 To this we add the endorsement of Georg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557955:1855120101:0260/pct:46.55901576316801,73.64405604105978,14.5520953479431,11.499514495769178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557955:1855120101:0260/pct:46.568627450980394,73.64405604105978,14.556901191849288,11.51685393258427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14087,7 +14087,7 @@ of trust and emolument, unless they profess
 or renounce this or that religious opinion&quot;?  
 who would &quot;Buffer Ibe civil magistrate to in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856071501:0830/pct:4.3020903573836815,87.92472556194458,13.418745785569792,6.231050705697856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856071501:0830/pct:4.311081141829624,87.93169541732009,13.418745785569792,6.234535633385607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14243,7 +14243,7 @@ erpose when prinoiples break out in overt
 acts against peace and good order.  
  And finally, that truth is great, and will
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1862011501:0311/pct:14.082822544476006,41.13938560293443,63.91089849005831,121.25171939477303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1862011501:0311/pct:4.694274181492002,13.713128534311478,21.303632830019435,40.41723979825768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14268,7 +14268,7 @@ iievea, is sinful and tyrannical. That to
 suffer tlie civil magistrate to intrudo bit  
 powers into tho field of opinion, is a dan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038519:00200293344:1866111101:0429/pct:6.958021851638873,123.86603995299647,13.614146060954571,6.310223266745006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038519:00200293344:1866111101:0429/pct:5.219266714593817,92.90246768507637,10.222861250898633,4.735605170387779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14294,7 +14294,7 @@ religion; and that the same shall in no
 wise diminish, enlarge, or effect their civil  
 capacities.&quot; Referred to Committee o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868010601:0026/pct:92.95640326975477,214.2023346303502,41.62125340599455,18.213822493978135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868010601:0026/pct:30.985467756584924,71.40077821011673,13.873751135331517,6.071274164659378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14345,7 +14345,7 @@ lators and rulers, civil as well as ee
 ciesiastical, both established and main  
 tained false religions over the greates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1875021101:0027/pct:131.2033195020747,180.65990572775317,52.448132780082986,60.27710327096129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1875021101:0027/pct:32.81444582814446,45.16497643193829,13.117476131174762,15.069275817740323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14382,7 +14382,7 @@ nonors and emoluments those who will
 externally profess and conform to it  
 The separation of Church and Sta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1875021101:0027/pct:131.53526970954357,243.05099271532637,52.19917012448133,49.93572346807599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1875021101:0027/pct:32.897467828974676,60.76274817883159,13.055209630552095,12.483930867018998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14447,7 +14447,7 @@ their way; that the opinions of men are
 not the object of civil government, nor  
 under its jurisdiction;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881071301:0042/pct:123.95900064061499,35.23513965146813,134.27290198590646,349.96419193124854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881071301:0042/pct:30.99967958987504,8.808784912867033,33.578981095802625,87.49104798281213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14775,7 +14775,7 @@ of religion, and that the same
 shall in nowise diminish, enlarge,e  
 or effect their civil capacities.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_iceman_ver01:data:sn88064119:00280761837:1888122801:0047/pct:90.9468438538206,10.306078767123287,40.36544850498339,29.184503424657535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_iceman_ver01:data:sn88064119:00280761837:1888122801:0047/pct:30.3156146179402,3.435359589041096,13.455149501661129,9.728167808219178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14830,7 +14830,7 @@ what to the State United Slates
 Supreme Court inlfe Kejnolds case  
 The rights of conscience we neve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_iavaroni_ver01:data:sn83045555:206534096:1889122101:0110/pct:71.12939416604338,35.815459328207204,28.833208676140615,20.96317280453258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_iavaroni_ver01:data:sn83045555:206534096:1889122101:0110/pct:23.718668163112607,11.938486442735735,9.614665170220725,6.987724268177526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15089,7 +15089,7 @@ act shall be hereafter passed to repeal the pres­
 ent or to narrow its operations such act will  
 bo an infringement of natural righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048510:1891043001:0366/pct:7.561436672967864,8.987881508078994,38.768115942028984,139.21678635547576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048510:1891043001:0366/pct:5.042546485975418,5.991921005385996,25.85880869839269,92.81493117893477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15125,7 +15125,7 @@ ed and maintained false religion over
 the greatest part of the world, and  
 through all time.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762313:1894100301:0171/pct:50.74798619102417,45.25139664804469,10.817031070195627,4.89137181874612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762313:1894100301:0171/pct:50.756205819496955,45.25139664804469,10.817031070195627,4.9099937926753565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -736,7 +736,7 @@ part of the United States, or that the particular representa­
 tives are nor best able to judge of the sense of their immediate  
 constituents.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848070801:0249/pct:33.56703391043067,36.35235732009926,15.796251251967377,13.79427024588315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848070801:0249/pct:33.57657270949588,36.35235732009926,15.801020651499977,13.805549289420258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ against danger, as well internal as external. Every thing,
 therefore, which tends to increase danger, though it be a local  
 affair, yet, if it involve national expense or safety, becomes of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848090701:0779/pct:322.6848528356066,360.31679866611086,50.25125628140704,15.562039738780047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848090701:0779/pct:80.67121320890165,90.07919966652771,12.56281407035176,3.890509934695012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -821,7 +821,7 @@ tiia* or safely, it becomes of concern to erery part of the Union, co&#x27;
 I is a proper subject for the consideration of those charged with or  
 general administration of the government &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848092201:0949/pct:47.97955598147261,45.70390781563126,16.099664590321034,6.55060120240481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848092201:0949/pct:47.97955598147261,45.712257849031396,16.10498855347921,6.554776219104877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ i-comes ol concern to every part oi the L nion, unit is a
 roper subject lor the consideration of those charged with  
 to general administration of the government 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848092901:0973/pct:62.83772852289274,14.736842105263158,16.308040770101925,8.788839568801523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848092901:0973/pct:62.83772852289274,14.736842105263158,16.318826511351993,8.797294440921581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ Resolved, That Congress ought to make im-
 mediate provision by law, for the abolition of  
 slavery and the slave trade, in the District o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849032701:0556/pct:130.7771487390633,206.30774131889137,36.97889861039629,9.875756610385473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849032701:0556/pct:43.6036036036036,68.76924710629712,12.32947232947233,3.291918870128491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ on a country filled with slaves.”
 James Monroe. “This evil has preyed up­  
 on the very vitals of the Union, and has bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769751:1849041301:0103/pct:68.63617405811205,55.86413159581286,14.875573474211038,3.172399060029908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769751:1849041301:0103/pct:65.20360994937266,53.07130293600325,14.144838212634824,3.020565552699229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -995,7 +995,7 @@ I conceive the constitution, in ihia partlouler, was &#x27;orm^
 ml in order that the government, wUilat It wa* reatrained  
 from laymj a total prohibition, might b? able to give *om
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850070901:0780/pct:31.775244299674267,65.95367674977851,15.749185667752442,6.7459815213264145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850070901:0780/pct:31.775244299674267,65.95367674977851,15.749185667752442,6.750200396574273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1036,7 +1036,7 @@ part of the Union, and is a proper subject for the
 consideration of those charged with the general  
 administration of the Government.Vide De
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777614:1850080101:0127/pct:226.57555049354593,100.23501762632198,50.79726651480638,52.291421856639246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777614:1850080101:0127/pct:56.65464211125878,25.058754406580494,12.701727738750712,13.072855464159812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1058,7 +1058,7 @@ and so save ourselves/rom reproaches and our
 posterity from the imbecility ever attendent on a  
 country filled with slaves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854021701:0178/pct:29.963390594198817,45.64448374972363,13.601802309208674,5.129338934335618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854021701:0178/pct:29.963390594198817,45.64448374972363,13.601802309208674,5.140393544107893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1090,7 +1090,7 @@ Union, and a proper subjeot for the considera
 tion of those charged with tho general admin­  
 istration of the Government.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854021701:0178/pct:29.935229512813294,50.60800353747513,13.545480146437622,11.18726508954234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854021701:0178/pct:29.935229512813294,50.61537327732331,13.550173660001878,11.183580219618248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ and so save ourselves from reproaches and our
 posterity from the imbecility ever at ten dent on a  
 country filled with slaves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854022301:0037/pct:63.48617263258709,18.189549277142586,12.067520651263019,4.431635642067467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854022301:0037/pct:63.490163214813045,18.189549277142586,12.075501815714913,4.434785347570002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1144,7 +1144,7 @@ Union, and a proper subject for the considera;ion
 of those charged with the general adminstration  
 of the Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854022301:0037/pct:63.43828564587573,22.517244637626384,13.34849754579193,9.789284701880375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854022301:0037/pct:63.44626681032763,22.517244637626384,13.344506963565983,9.795584112885445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ ison, in debate in Congress:
 receive t&lt;» their number of slaves, tends to weaken them,  
 and render them less capable of self defense.&quot;—An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171992:1854071001:0610/pct:21.24634858812074,23.154410706576485,16.26095423563778,2.331270686429702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171992:1854071001:0610/pct:16.471298485686976,17.94862262537641,12.61759822910902,1.810476225882003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1178,7 @@ and render them less capable of self defense.&quot;—An
 na) receive to their number of slaves, tends to weak  
 en them, and render them less capable of defense.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1854072101:0117/pct:254.64788732394365,180.52800670484706,42.25352112676056,2.905433719793267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1854072101:0117/pct:63.673181898221515,45.132001676211765,10.565240359218173,0.7263584299483168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1246,7 +1246,7 @@ the consideration ol those charged with tlie
 general administration of ibe government.&quot;  
 i [ Price ok Newspapers.—The proprietors o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1854093001:0649/pct:42.01005025125628,58.3979692568044,12.512562814070352,10.915244676350303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1854093001:0649/pct:42.0212171970966,58.40737084567292,12.506979341150195,10.905843087481784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1267,7 +1267,7 @@ filled with slaves.&quot; , - . r
 James Mokhos. vThis evil has prey­  
 ed upon the very vitals of the Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1856032901:0265/pct:119.93368700265252,61.49925871015567,19.20424403183024,5.698665678280207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1856032901:0265/pct:79.99203927292027,41.002594514455154,12.803502719915086,3.799110452186805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1298,7 +1298,7 @@ tice and degradation. No one proposes to exclude any
 person from emigrating and settling on the public domain.  
 The Territory, it is troc, is the common property of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1856032901:0292/pct:76.91711851278079,34.18938793981219,14.53137103020914,7.69317796130784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1856032901:0292/pct:76.92228246837077,34.18938793981219,14.541698941389104,7.696949126975148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1328,7 +1328,7 @@ person from emigrating and settling on the public domain.
 The Territory, it is true, is the • -&gt;miu&lt;ra propertv of the  
 whole people, hut by the Federal Constitution they agree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1856032901:0293/pct:76.70023237800154,35.39993211901799,14.515879163439195,6.912546668175133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1856032901:0293/pct:76.70539633359154,35.39993211901799,14.510715207849213,6.916317833842441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1423,7 +1423,7 @@ and the obligations these connections and re­
 lations impose upon us a? men—as citizens of  
 the States, of the United States, make up the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856122501:1059/pct:6.7074335944964645,7.422096317280453,15.688897381998853,9.135977337110482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856122501:1059/pct:5.203139655427753,5.7557905521607085,12.17356963025127,7.087709027040872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1446,7 +1446,7 @@ pense or safety, becomes of concern to every part of
 pion of the Government.&quot; Surely Senstors cannot  
 be surprised at the discussion of questione so vast a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856122601:0598/pct:104.5522018802573,188.892827602505,47.43526307108692,12.962306510693608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856122601:0598/pct:34.85073396008577,62.96427586750168,15.811754357028974,4.320768836897869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1464,7 +1464,7 @@ of the Union, and is a proper subject for the consideration ot w
 those charged with the general administration of the governs&#x27; lnt&gt; 1  
 ment.&quot; . Ooo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010101:0010/pct:48.65122183433831,61.23496993987976,16.80418914630276,1.7284569138276553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010101:0010/pct:48.661800486618006,61.243319973279895,16.80418914630276,1.7284569138276553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1502,7 +1502,7 @@ becomes of concern to erery part of the Union, and is a
 proper subject for the consideration of those charged with  
 the general administration of this Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857010901:0217/pct:167.13178294573643,69.41497423461655,50.62015503875969,22.12791755077296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857010901:0217/pct:41.78294573643411,17.353743558654138,12.655038759689923,5.53197938769324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1521,7 +1521,7 @@ concern to every part of the Union, and is a
 4 charged w ith the general administration of the  
 4 Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857012201:0025/pct:15.231943628890194,65.72277411568099,11.532589547856723,2.14464766502646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857012201:0025/pct:15.231943628890194,65.72896357503173,11.540418868663144,2.147742394701823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1625,7 +1625,7 @@ special purpose; but for them, as a principle of |
 general application, it was not entirely safe. They .  
 had discovered that their system of servile labor 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858012801:0239/pct:15.654990403071018,49.60704478742543,12.212092130518235,6.94063062210018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858012801:0239/pct:15.654990403071018,49.6102010541931,12.216090850927703,6.94063062210018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1668,7 +1668,7 @@ prevailing expectations of our fellow a ti-
 land, which he considers examples &quot;nem-ly zeHS uml perform our duly in executing the  
 ns dissimilar to each other as lo a genuine ! nurnoses of the Constitution. It is to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858083101:0298/pct:78.37922403003755,21.278575225943648,31.648936170212767,20.25518341307815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858083101:0298/pct:58.80143952433109,15.962254120148858,23.736504459396027,15.191387559808613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1687,7 +1687,7 @@ into a discussion of the proposed motion.
   
 If it is taken up in a separate view, we
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858083101:0298/pct:78.44180225281602,61.52312599681021,15.206508135168962,3.4688995215311005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858083101:0298/pct:58.848380535127525,46.145667198298774,11.406665623533094,2.604997341839447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1779,7 +1779,7 @@ to givo some testimony of the sense of
 America with respect to the A mean trade.  
 We have liberty to impose a lax or duty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858083101:0298/pct:78.48873591989988,66.02870813397129,15.472465581977472,59.782030834662415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858083101:0298/pct:58.87967454232515,49.52153110047847,11.610076670317634,44.843168527379056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1850,7 +1850,7 @@ comes of conicm to every part of the j iCirft Is said that a nun who is hung
   
 Union, and is a proper subject for the con-&#x27; does not puy the debt ot nature, but snn-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858083101:0298/pct:94.05506883604505,41.812865497076025,32.180851063829785,36.656034024455074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858083101:0298/pct:70.55233922703802,31.36629452418926,24.143326552965107,27.485380116959064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1908,7 +1908,7 @@ will be the best reasou for making it the
 object of a separate ono. If this be the  
 object of the Committee, I shall submit.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858083101:0298/pct:94.27409261576972,78.69484316852738,16.160826032540676,30.44922913343966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858083101:0298/pct:70.72445626662494,59.02445507708666,12.126427789078392,22.84688995215311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2002,7 +2002,7 @@ in
 a  
 The Onton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1859120201:0260/pct:46.364290856731465,97.8011340063615,61.98704103671706,251.08560365094732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1859120201:0260/pct:11.597334773996039,24.450283501590373,15.505132360886007,62.77140091273683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2041,7 +2041,7 @@ of those charged with the geperal
 among other things, said  
 &quot;The gentleman from Connectien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1859120201:0260/pct:54.21166306695464,224.20135527589545,50.611951043916484,75.5082284607938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1859120201:0260/pct:13.5602377093463,56.05033881897386,12.659823518818657,18.87705711519845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2087,7 +2087,7 @@ posterity from the&#x27; imbecility ever attendant
 on a country ruled with slaves. :  
 At the next session, Mr. Scott, alluding t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027157:1860032101:0053/pct:67.92880258899676,66.04246340498483,15.080906148867314,5.6178293551364895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027157:1860032101:0053/pct:50.97943985753602,49.53184755373863,11.31617289946576,4.219965712778584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2132,7 +2132,7 @@ of the same debate, referred to the fact
 that &quot;white slaves were imported  
 from all the jails in Europe; wretche
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1860092001:0582/pct:118.07439824945295,351.98245318036106,44.37636761487965,40.29019740172094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1860092001:0582/pct:29.51859956236324,87.99561329509027,11.094091903719912,10.072549350430235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2225,7 +2225,7 @@ ment of the entire Western territories. An
 ordinance was framed by Mr. Jefferson  
 1 7R1 Sir States voted lor it Three acains
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1862070301:0648/pct:91.62,78.37408701174976,16.24,14.099714194982534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1862070301:0648/pct:68.74749899959984,58.780565258812324,12.184873949579831,10.5747856462369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2246,7 +2246,7 @@ ftom reproaches, and our posterity
 from the imbecility ever attendant  
 on a country filled with slaves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1862091201:0692/pct:73.0739893211289,206.2834805270016,47.139588100686495,19.053134501230634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1862091201:0692/pct:18.27546737886303,51.5708701317504,11.789393361312476,4.7632836253076585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2289,7 +2289,7 @@ as it is at this day.
 Burke said &quot;that if slaves were not  
 mentioned in the list of articles to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1862091201:0692/pct:72.61632341723875,228.4638772260026,47.97864225781846,79.68727378022297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1862091201:0692/pct:18.161007249141548,57.11596930650065,11.999236932468524,19.92181844505574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2494,7 +2494,7 @@ the general administration of this go? era
   
 ment,&#x27; Mr. Madison.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879890:1865110901:0718/pct:49.062278839348906,6.367432150313152,30.48478414720453,123.25156576200418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879890:1865110901:0718/pct:36.82067622588069,4.775574112734864,22.871304655691272,92.44519832985387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2537,7 +2537,7 @@ it and save our country from reproaches and our
 posterity from the imbecility ever attendant on a  
 country filled with slaves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558342:1875080501:0128/pct:13.696715583508036,216.8600154679041,44.0251572327044,10.002577984016499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558342:1875080501:0128/pct:3.425375742747291,54.215003866976026,11.010136315973435,2.5006444960041248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

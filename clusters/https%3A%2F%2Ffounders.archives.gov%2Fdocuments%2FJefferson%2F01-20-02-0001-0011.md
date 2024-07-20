@@ -77,7 +77,7 @@ Mr. Elliott&#x27;s opinion.
 With regard and esteem, I am, dear sir, your most  
 obedient servant, GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857072401:0349/pct:83.70617166428684,83.81669805398619,17.404410598127875,4.55743879472693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857072401:0349/pct:83.70617166428684,83.82506800585897,17.420276059019514,4.553253818790542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ objects; and of this I am convinced, as well by
 \\ ith regard and esteem. I am dear sir, your  
 inost obedient servant, Geo. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654097:1857072501:0509/pct:33.858392999204455,16.72151378033731,16.451869530628482,4.09296585767174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654097:1857072501:0509/pct:33.8703261734288,16.72665569724393,16.443914081145586,4.103249691484986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ such parts of the land as mav be taken for pub­
 lic use for squares, walks, Ac., they shall be  
 allowed at the rate of ?25 an acre (in Marylan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654723:1889042701:0327/pct:42.26281075596144,43.54800095762509,13.86774902756638,5.087383289442183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654723:1889042701:0327/pct:42.27126670049044,43.54800095762509,13.863521055301877,5.096361024658846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ nexing the seal of the United States and your
 counter signature, you will cause to be pub­  
 lished.&quot; This proclamation, dated March 30
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896112901:0397/pct:182.03240058910163,185.6578547553935,48.379970544919,14.706776055910058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896112901:0397/pct:45.50810014727541,46.41446368884837,12.09499263622975,3.6766940139775146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

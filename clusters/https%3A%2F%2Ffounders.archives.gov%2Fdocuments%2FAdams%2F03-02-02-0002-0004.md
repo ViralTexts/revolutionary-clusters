@@ -854,7 +854,7 @@ Germany ; with anecdotes rela.
 ting to some eminent charact­  
 ers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793073001:0064/pct:41.63103237629811,22.797216504949525,16.967012828344533,3.645986474566304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793073001:0064/pct:41.63103237629811,22.797216504949525,16.977194054164123,3.6557875134764286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1301,7 +1301,7 @@ Or when the soul is press&#x27;d with care
 a e oi e wi  
 Exalts her in enlivening air
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852111701:1238/pct:208.25,93.796992481203,38.5,21.663533834586467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852111701:1238/pct:69.41666666666667,31.265664160401002,12.833333333333334,7.221177944862156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

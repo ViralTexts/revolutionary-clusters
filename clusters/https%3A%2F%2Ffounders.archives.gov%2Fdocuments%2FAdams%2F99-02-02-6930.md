@@ -650,7 +650,7 @@ or otherwise, arrive to the Stock of half a
 Crown to wait them over to Holland, become  
 Servants to the Dutch, who refuse none.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861061901:0262/pct:73.71884346959122,14.922564770589087,15.732801595214356,24.1568968012737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861061901:0262/pct:57.14212125895019,11.568517479902786,12.192860454334724,18.7249953262292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -756,7 +756,7 @@ These arc the &quot;gentlemen,&quot; adds the
 Journal, the men of blood, of family.who  
 settled Eastern Virginia, and whose de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283508:1861081401:0397/pct:66.74368453481208,79.58536585365853,14.109673444239064,22.609756097560975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283508:1861081401:0397/pct:50.0847588226229,59.69512195121951,10.587147480351364,16.951219512195124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -805,7 +805,7 @@ English. They are styled in the chroni­
 cles of the times &quot;low bred people&quot;- and  
 their early legislation and practices wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861081601:0567/pct:131.9910514541387,54.26928181684117,99.4034302759135,327.6212947942781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861081601:0567/pct:33.01622831561276,13.567320454210293,24.86476403656034,81.90532369856953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ cendants cannot without degradation
 associate with those of the Winthrops,  
 and Hancocks, the Broadstreets, the Li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861081601:0567/pct:182.47576435495898,98.74649756673057,49.515287099179716,80.87302757705353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861081601:0567/pct:45.64446931542623,24.686624391682642,12.385748927438911,20.218256894263384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -911,7 +911,7 @@ the Stock of , half a Crown to waft them fo
 Holland, become&#x27;Servants to the Dutch,  
 who refuse none.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555614:1861082201:0210/pct:57.79970215934475,78.24990041163193,16.827997021593447,35.25428229982738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555614:1861082201:0210/pct:43.36250232731335,58.690744920993225,12.623347607521877,26.43739211260125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -941,7 +941,7 @@ must have come to be hanged or starved, or
 died untimely of some of those miserable dis­  
 eases that proceed from want and vice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862022001:0186/pct:238.58195211786372,196.94105516411756,53.95948434622468,27.289912356074925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862022001:0186/pct:59.6592217361271,49.23526379102939,13.492977204697214,6.822478089018731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1011,7 +1011,7 @@ States of America :
 the laws, I declare the said person free, and  
 forever absolved from all claims 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862052001:0474/pct:91.49315883402737,64.5662368112544,15.962720602815784,34.24677608440797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862052001:0474/pct:70.9133753393781,50.04353586977096,12.386660519440602,26.541737649063034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1069,7 +1069,7 @@ otherwise, arrive to the stocks of 2s and 6d,
 to waft them over to Holland, become ser­  
 vants to the Dutch, who refuse none.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021295:0051717158A:1862052101:0110/pct:71.34189360801467,45.041089721940786,10.399322703541696,18.192052234605427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021295:0051717158A:1862052101:0110/pct:71.3513005032689,45.04859469398477,10.399322703541696,18.188299748583436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1113,7 +1113,7 @@ who refuse none.&quot;
 REnOVAL.  
 THE nndersigncd would respectfully inform hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525164:1863041401:0287/pct:18.00921658986175,49.23669371475725,12.47926267281106,14.207124191995598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525164:1863041401:0287/pct:18.00589753040914,49.22992299229923,12.481570217471434,14.208608360836084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1243,7 +1243,7 @@ were first peopled with a sort of coarse vagrant
 people, vicious and destitute of means at home.”  
 Another author, whoso writings are, however
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875040401:0005/pct:57.379162191192265,43.1619786614937,13.254564983888292,1.9883608147429679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875040401:0005/pct:57.3952738990333,43.170061429033304,13.243823845327604,1.9843194309731653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

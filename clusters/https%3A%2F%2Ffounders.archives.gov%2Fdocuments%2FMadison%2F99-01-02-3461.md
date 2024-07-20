@@ -94,7 +94,7 @@ vernor shall appoint a time and place for
 thcmtomect, and when met, the}’shall  
 nominate~r persona, having the ■»!»*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804030901:0232/pct:56.020066889632105,63.93821022727273,20.178372352285397,4.634232954545454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804030901:0232/pct:56.00445806631374,63.92685957748979,20.1797157982725,4.637848393396059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ ta^ves siinh be elected. the governor shall
 appoint a time and place for them to meet,  
 and when met, they shall nominat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804031401:0046/pct:21.462669467252244,8.507306889352819,17.643689135000955,2.635699373695198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804031401:0046/pct:21.45857197403589,8.506196999347685,17.646684485172457,2.6397042835399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ of the Council shall be appointed in the following manner:
 As soon as Representatives shall be elected, the Governor  
 shall appoint a time and place for them to meet together
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742915:1845013101:0141/pct:59.20306768922974,214.58261568492364,47.449149716572194,17.648409691124126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742915:1845013101:0141/pct:19.734355896409916,71.52753856164121,15.816383238857396,5.882803230374708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ gress, five of whom Congress shall appoint and commission to
 serv# as members of the Council five years, unless sooner re­  
 moved. And the Governor, Legislative Council, and Hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:48.28620394173093,49.478757986772784,15.85261353898886,8.967604528640287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0649/pct:48.29572503094354,49.48623099054665,15.847852994382558,8.963868026753353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

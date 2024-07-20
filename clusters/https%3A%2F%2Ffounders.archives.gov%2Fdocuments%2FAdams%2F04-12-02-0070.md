@@ -60,7 +60,7 @@ For mean, ungraceful, dull and bad,
 He sncaked to hell without them.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843102801:0680/pct:19.438116932422172,310.35965037971056,59.453302961275625,63.5621149161771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843102801:0680/pct:4.860451870134802,77.58991259492764,14.866147712170116,15.890528729044275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ lie sneaked to Ilcll without Vm!&quot;
 EPIGRAM.  
 To Flavia&#x27;s shrine two suite r* ru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1850030501:0057/pct:79.83804556684052,11.726816330396893,12.640680757617348,6.592782040352373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1850030501:0057/pct:79.83804556684052,11.7331312557229,12.654405709580017,6.592782040352373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ I The following tribute to the memory of
 *m. Makepeace Thackeray, by Charles  
 Dickeys, opens the February number of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769428:1864022501:0361/pct:18.565568347227735,5.5468597143416165,24.149794892152972,90.9313245940129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769428:1864022501:0361/pct:18.565568347227735,5.5468597143416165,24.15420581359446,90.9411074153786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ He sneaked to hell without them*”
   
 DIOKENS ON THACKERAY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152354:1864022701:0141/pct:16.41768969087413,3.963143872113677,24.670906670610858,94.0164298401421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152354:1864022701:0141/pct:16.422619928018538,3.966844286560095,24.66597643346645,94.02383066903494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

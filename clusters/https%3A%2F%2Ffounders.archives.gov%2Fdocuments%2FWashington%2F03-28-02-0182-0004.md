@@ -178,7 +178,7 @@ Not forgetting bur former acquaintance,
 ; ; BEV. ROBINSON, Col.  
 o 8 }lis Excellenicy Loyl., Americ.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0436/pct:6.234691605433088,36.33936517353901,28.65731462925852,26.075348561257787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0436/pct:6.242113857344318,36.34430930485514,28.64989237734729,26.07040442994166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

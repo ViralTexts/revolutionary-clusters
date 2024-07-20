@@ -439,7 +439,7 @@ sii.ill arrvf, receive you into tho‘e. mansi­
 «&gt;ns of bliss, rtsti ved for tLoac w.a&gt; h*v&amp;  
 deserved well.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808010101:0008/pct:79.4263862332696,15.219586067642604,19.292543021032504,51.13579000504796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808010101:0008/pct:79.41120244695087,15.217665615141955,19.295227171350284,51.1335436382755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ of our final separation shall arrive, receive you into
 those&#x27; mansions of bliss, reserved for those who  
 have deserved well
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808010401:0911/pct:6.767676767676767,1.6118633139909735,44.217171717171716,92.81108961960025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808010401:0911/pct:6.765968189851048,1.6116035455278002,44.21232012118152,92.80016116035455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ TO THOMAS JEFFERSON,
 President of the United States.  
 Sir,—The general assembly o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808020201:0018/pct:27.749576988155667,5.125628140703518,14.367020458391016,3.919597989949749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808020201:0018/pct:27.759831820745525,5.1289782244556115,14.367020458391016,3.9229480737018427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -220,7 +220,7 @@ hurt enlistments and placing too great dependence on t
 tie, the evil consequences of which were foretold tifte  
 iths ago.&quot; ?&#x27;You can form no ide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:33.253778838504374,82.0661053160739,13.651551312649165,7.8798542164132215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:33.259082471492974,82.0661053160739,13.667462211614957,7.884043399941351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ at Brunswick; but the few militia tliat were in
 arms disbanded themselves, and left the poorrem­  
 nant of an army to wake the best we could of it.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863033001:0004/pct:12.01090130426319,33.28450043949604,10.16157290247226,2.6955757398183415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863033001:0004/pct:12.025501265329959,33.29182537357164,10.16157290247226,2.6992382068561382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ it is a curious coincidence that this place,
 Hackensack, where Washington could not  
 make a stand because of the defection of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1863040301:0264/pct:153.78955114054452,147.28791955813625,44.370860927152314,28.947741113156777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1863040301:0264/pct:38.46153846153846,36.82197988953406,11.096797938903203,7.236935278289194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ have made a stand at Havensack, and af­
 ter that at Hrunswiok; but the few militia  
 that were in arms disbanded themselves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:0027952830A:1863041801:0302/pct:165.4964257347101,46.208133971291865,73.15329626687847,189.94019138755982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:0027952830A:1863041801:0302/pct:55.16547524490336,15.402711323763956,24.384432088959493,63.313397129186605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ is well it is not the main artery,&#x27; said the
 surgeon, as he performed the operation he  
 would have bled to death before it could hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1863051502:0447/pct:16.057142857142857,49.154081980242985,22.614285714285714,4.507777903940048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1863051502:0447/pct:16.057142857142857,49.15786684834033,22.623809523809523,4.507777903940048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ would have bled to death before it could hav
 guage, &quot;from place to place, till we were obliged to cross  
 the Delaware with less than three thousand men fit fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863090101:0413/pct:10.026084121291165,258.46099871360076,44.52233452885556,2.888551046661209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863090101:0413/pct:3.341483292583537,86.14359214218896,14.838359141537625,0.9627377611474899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ till we were obliged to. cross the Delaware wit
 language, &quot;from place to place, till we were  
 obliged to cross the Delaware with less tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_barbaro_ver01:data:sn84025980:00280762210:1863091101:0200/pct:22.8467815049864,30.464862240563175,16.409791477787852,1.128777764291783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_barbaro_ver01:data:sn84025980:00280762210:1863091101:0200/pct:22.8467815049864,30.468908039001498,16.415835599879117,1.128777764291783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ man, I beiieve, ever had a greater choice
 of difficulties and less means to extricate  
 himself IronSAthem.” He was full o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340780:1893100201:0339/pct:26.85978745286253,65.32107455825313,11.09016112444292,4.582674903031173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340780:1893100201:0339/pct:26.855184233076265,65.31169204251651,11.09254498714653,4.585607584027578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ man, I believe, ever had a greater choice
 of difficulties and less means to extricate  
 himself from them.” He was full o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340226:1895100801:0340/pct:61.75162504276428,8.911887307747593,11.238453643516936,5.275262325715107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340226:1895100801:0340/pct:61.741063793398325,8.910606496119575,11.240807251582007,5.2780971543546995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

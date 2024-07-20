@@ -181,7 +181,7 @@ The people of th» Lusted States find
 their disorders increasing evetv hour.  
 T.tf vit^r part of them arc sensible o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812102301:0109/pct:2.262172284644195,47.58731005065316,16.719101123595507,26.979472140762464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812102301:0109/pct:2.2618334331935293,47.58308157099698,16.72158977431596,26.98003672768201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ the Union.&quot;
 It was granted, when the States were bound  
 by the articles of confederation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1841010101:0755/pct:62.01904761904762,26.38710597632292,14.19047619047619,12.480387961774355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1841010101:0755/pct:62.03174603174603,26.39186040983217,14.184126984126983,12.485142395283601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ United States;&quot; and remarks, that &quot;a very large portion
 of this fund has ulready &quot;been surnndrrcd by the States.&quot;  
 He then expresses the hope that the remaining State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841010701:0103/pct:32.06465833945628,90.37889307677048,15.73842762674504,1.9638960523705613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841010701:0103/pct:32.07445505755572,90.38550552139125,15.728630908645604,1.9638960523705613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ surrendered by the States.&quot; He then expresses
 the hope that the remaining States will give similar  
 prooss of their equity and generosity, and that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841012901:0158/pct:147.658175842235,351.3939735285835,57.84716516023008,17.85412559842298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841012901:0158/pct:36.93730729701953,87.84849338214588,14.47070914696814,4.463531399605745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ Stock. They have begun to render it productive.
 Congress have undertaken to do more, they have pro­  
 ceeded to form new States, &amp;c.&#x27; He then urges th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841122501:0560/pct:79.94286573447602,28.683495926782662,15.982559013682152,11.48546716282812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841122501:0560/pct:79.94286573447602,28.690200811291025,15.992582569037237,11.482114720573938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ ceeded to form new States, &amp;c.&#x27; He then urges th
 lic interest, the necessity of the case imposed upon m  
 the task of overleaping them (lli ) Who n?irt but a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844031201:0316/pct:64.721723518851,70.686492227479,15.649311789347696,1.506227672105822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844031201:0316/pct:64.72671055256333,70.69292909787261,15.659285856772392,1.503009236909015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ which such Stales thai! be admitted into t/ie Coiifeiki&#x27;ary. All
 this lias been done, and done urithout the least color of constitu­  
 tional authority.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845022201:0105/pct:50.50020556393038,56.937593823718636,15.34877346854872,3.5813853742226036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845022201:0105/pct:50.50477365127221,56.941168060619056,15.357909643232379,3.5813853742226036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ conditions on which such States shall be admitted into the
 Confederacy. All this has been done, and done without  
 the least color of constitutional authority.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845030301:0182/pct:92.94030950626382,82.62134792224421,38.43773028739867,9.300430683273193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845030301:0182/pct:30.975537872089596,27.537243947858475,12.810688672757639,3.0997827436374923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ admitted into the Consederacy. All this has been
 done, and done teithont the least color of constitutional  
 anthority
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845030301:0244/pct:318.7195002927972,197.93814432989691,60.687097403864925,19.602789569436023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845030301:0244/pct:79.66432474629195,49.47703501591633,15.168813427010148,4.899954524783992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ the least color of constitutional authority.&quot;
 lie would now proceed to inquire whether that 01  
 nance was consistent with the interests and wishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847011401:0057/pct:68.92302768442951,68.79871334900409,14.690350456072972,3.488803662006681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847011401:0057/pct:68.92836187123272,68.79871334900409,14.690350456072972,3.501175306198194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ the conditions on which the States shall be admitted
 into the confederacy. And all this has been done, and  
 done without the least color of constitutional arthority.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847022601:0208/pct:15.29713278872337,33.824075219596686,17.443536761172513,4.268217246072003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847022601:0208/pct:15.29713278872337,33.82819910099386,17.443536761172513,4.268217246072003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ itself. At the time of the cession of the territory
 it was uninhabited except by a few French and  
 Canadian settlers who held slares. And the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1847031101:0540/pct:82.23704152773568,6.335968807538178,15.125795695665353,8.188021228203183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1847031101:0540/pct:82.22457948173965,6.3352826510721245,15.128554831540132,8.190744350588405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ e I dune, and done without the least color of constitution
 tliority. Veil no blame lias been \vhis|&gt;ered ; no atari  
 _ I been sounded I mean not, by anythin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847033101:0320/pct:61.462007053542806,38.086999505684624,14.73228598909907,3.6085022244191793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847033101:0320/pct:61.47269423960671,38.095238095238095,14.74297317516298,3.604382929642445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -777,7 +777,7 @@ prescribe the conditions on which the States shall be ad- d
 mitted into the confederacy. And all this has been done, a  
 anil done without the least color of constitutional authori- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848051801:0518/pct:5.3097345132743365,10.589283441517118,16.5728077232502,4.581901489117984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848051801:0518/pct:5.3097345132743365,10.589283441517118,16.5728077232502,4.594628993254423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -809,7 +809,7 @@ interest, the necessity of the case, in&#x27;ipoMd upon them the uik
 of overleaping their constitutional limits.&quot;  
 He thus approved the mi asure, is did Mr. Jefferson, wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848052001:0190/pct:5.133735979292494,39.801392535098735,15.861374748346275,4.234676406802876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848052001:0190/pct:5.1433227878439265,39.80900201651257,15.861374748346275,4.234676406802876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -830,7 +830,7 @@ ic interest, the necessity of the ease, imposed ni&gt;o
 i the task ol overleaping tfieir constitutional limits.&#x27;  
 e thus approved the measure, as did Mr. Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848052101:0529/pct:64.0976847446876,70.77946529433915,13.954963526799872,3.313668884147107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848052101:0529/pct:64.0976847446876,70.78364921969792,13.960249497832752,3.3220367348646502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ to prescribe the conditions on which such States shall be ,
 admitted into the confederacy. All litu hat bttn dont, and &quot;lt&quot;  
 dune without thelratt color of contlitulional authority 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848062901:0663/pct:32.065825211695156,3.678971903741968,16.71193481386803,4.3341312838604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848062901:0663/pct:32.07115087607179,3.6873713829742556,16.71726047824466,4.3341312838604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -986,7 +986,7 @@ At the time ol ihe cession ol the territ ry, it was
 uninhabited except by a lew French and Cana­  
 dian settlers, who held slave*. And they con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848072101:0255/pct:58.17422434367542,36.93154388336391,13.842482100238664,6.411122912040166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848072101:0255/pct:58.17919649960223,36.934762318560715,13.837509944311854,6.417559782433781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1012,7 +1012,7 @@ Confederacy. All thi. has been donv and
 on without th least color of constitutional au  
 thority.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848072201:0232/pct:22.116644823066842,67.27272727272727,17.447575360419396,7.433831990794016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848072201:0232/pct:16.59839423234475,50.46029919447641,13.09192200557103,5.5811277330264675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ an alarming proof of the danger resaUnj; from
 a government which doe not potwet rj;uUr  
 power couimens urate to iu object.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848072201:0232/pct:22.051114023591087,77.65247410817031,17.480340760157272,4.672036823935558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848072201:0232/pct:16.549238079632968,58.23935558112773,13.10830738980829,3.509781357882624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1092,7 +1092,7 @@ jects? A dissolution or urusrpation is the t
 dreadful dilemma to which it is continually 1  
 exposed.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1848082301:0149/pct:33.62282878411911,12.186850453998469,19.773573200992555,26.97735477518871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1848082301:0149/pct:33.633167907361454,12.186850453998469,19.773573200992555,26.984647923276082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1127,7 +1127,7 @@ leard. ^B
 But, suppose 1 am wrong in this. Admit that it be true  
 ihat the constitution confers jjpon Congress the right ^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848082401:0849/pct:78.47718963598791,71.91994996873045,17.151486250198698,9.318323952470294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848082401:0849/pct:78.48248821067133,71.92828851365437,17.156784824882106,9.318323952470294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1156,7 +1156,7 @@ porary governments; to appoint officers
 &#x27;of constitutional authority &quot;  
 If the power has been unconstitutionall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027054:1848090601:0048/pct:75.0697350069735,48.86561954624782,16.405160390516038,10.551751913008458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027054:1848090601:0048/pct:56.33065922567143,36.64921465968586,12.312521799790723,7.920526245133575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1192,7 +1192,7 @@ alarming proof of the danger resulting from a government ][. I
 which does not possess regular powers commensurate to a(1 aln  
 its objects V an(
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848091701:0933/pct:16.397849462365592,31.83581529220373,17.773561037318153,9.235389813540232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848091701:0933/pct:16.397849462365592,31.839986651649774,17.789373814041745,9.239561172986276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1235,7 +1235,7 @@ ted into the confederacy. AAll this has
 been done, and done without the least color  
 of constitutional authority.&quot; In his lette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1848100301:0449/pct:15.843373493975903,214.79745564111147,56.9277108433735,21.73864524048655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1848100301:0449/pct:3.9614399758999848,53.69936391027787,14.234071396294622,5.434661310121638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1292,7 +1292,7 @@ gress, because they could not have done otherwise.
 &quot;The public interest, the necessity of the case, imposed  
 on theui the task of overleaping their constitntional au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850012301:0097/pct:37.50198886237072,18.711229269527788,15.369928400954654,6.215976705912141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850012301:0097/pct:37.50198886237072,18.715449212980545,15.380535666931848,6.215976705912141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1319,7 +1319,7 @@ could not have done otherwise. &quot;The public interest, the
 necessity of the case, imposed on them the task of overleap­  
 ing their constitutional authority.&quot; As I have already re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850012601:0068/pct:64.08212886667567,25.249134585125354,15.507226799945968,6.3044162383300115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850012601:0068/pct:64.08212886667567,25.2526312108815,15.51623215813409,6.3044162383300115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1344,7 +1344,7 @@ interest, the nece-sity of the case, imposed on
 them the task of overleaping their constitutional  
 authority.1&#x27; Cer&#x27;ainly. it is the moral duty o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850013101:0028/pct:16.970128022759603,74.2647777234978,14.551920341394025,4.767953102100635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850013101:0028/pct:16.974869606448554,74.2647777234978,14.556661925082977,4.771209900667643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ powers commensurate to its objects ? A dissolution
 or usurpation is the dreadful dilemma to  
 which it is continually exposed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850062801:0055/pct:14.882434301521439,36.2001733102253,15.73997233748271,18.110918544194107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850062801:0055/pct:14.882434301521439,36.2001733102253,15.73997233748271,18.118139803581744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1454,7 +1454,7 @@ noiic ?Jve??ry ?na State ?tfhVwUoT^&#x27;burd&quot;n &quot;Tuxe!
 ler. iu the institution a d.rect and irres.st.bI.  
 tendency to w^ioura. t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851011901:0083/pct:15.986227250368913,11.367401554734293,31.333005410723068,84.7075315407162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851011901:0083/pct:15.986227250368913,11.367401554734293,31.343936164398535,84.72027526443226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1487,7 +1487,7 @@ shall be admitted into the Confederacy, [alluding to the
 Ordinance.] All this has been done, and done without the  
 least color of constitutional authority.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853043001:0598/pct:49.43518780005648,15.996168582375478,15.701779158429822,4.395487441464453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853043001:0598/pct:49.43518780005648,15.996168582375478,15.711192695095548,4.40258265928764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1561,7 +1561,7 @@ self what is or what is not constitutional. The Supreme
 Conrt had declared the charter of the existing bank to  
 be constitutional: the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854101401:0307/pct:2.25466107819049,64.1638981173865,16.05723370429253,9.169435215946844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854101401:0307/pct:2.259478730066965,64.17128091546697,16.05723370429253,9.169435215946844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1599,7 +1599,7 @@ Revi S.-Moodt and Lady would ten.
 dee &quot;&#x27; tteir gratef ol ? acknowledgements  
 to the members of Hopewell and Orang
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027273:1856012301:0545/pct:38.920780711825486,101.00401606425703,14.121699196326063,19.352409638554217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027273:1856012301:0545/pct:29.20315865039483,75.75301204819277,10.610193826274228,14.52058232931727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1696,7 +1696,7 @@ ing from a government which does not pos­
 sess regular powers commensurate to its ob­  
 ject! eee e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857021701:0001/pct:235.51564310544612,230.34519383961762,44.017960602549245,33.552841210833776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857021701:0001/pct:78.52796290930165,76.78173127987255,14.676905244856563,11.18428040361126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1732,7 +1732,7 @@ tance of adopting it, from the very considera­
 tion that it confers the absolutely necessary  
 power &quot;of erecting temporary governments,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857021701:0002/pct:21.615339918651948,29.51908879983126,42.27193492155723,36.416367854882935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857021701:0002/pct:7.20616010460555,9.839696266610419,14.092692140055208,12.138789284960978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1763,7 +1763,7 @@ definite number, and appropriate money to
 their support for au ludefimto period ol  
 time.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215968:1857042001:0521/pct:58.608198284080075,48.35240590100648,12.411820781696854,8.155246105059975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215968:1857042001:0521/pct:58.60261176246306,48.349072861377266,12.413815016045499,8.156981687001677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1932,7 +1932,7 @@ ral State Conventions called to .consider the
 &quot;ernment over individuals.&#x27;&#x27; It was said &quot;that  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860111301:0474/pct:15.617484792757109,9.224465320807516,10.97750742679304,1.6090345792524485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860111301:0474/pct:15.617484792757109,9.224465320807516,10.982222850945442,1.6190285828502897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1965,7 +1965,7 @@ might be a little large or smaller, or the ceiling a
 planned them.  
 I answer, in the lieat place, that a shoeld eateet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032701:0294/pct:248.059866962306,234.79179877404354,44.01330376940133,28.535193405199745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032701:0294/pct:62.02356202356202,58.697949693510886,11.004851004851005,7.133798351299936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2097,7 +2097,7 @@ generals, and required no other proof of the
 danger to their liberties than the illustrious  
 merit of a fellow citizen. The America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00175035229:1880082001:0256/pct:15.70855614973262,37.74170446407257,13.218582887700535,5.717354977321556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00175035229:1880082001:0256/pct:15.70855614973262,37.74568313837829,13.235294117647058,5.713376303015835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2348,7 +2348,7 @@ to make usoof ft. Is it improper and unsafe
 to Intermix the different powers of gov­  
 ernment in tho same body of men
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888093001:0433/pct:71.08251324753974,160.68012752391073,49.96214988644966,36.79975709731289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888093001:0433/pct:17.780723347850785,40.17003188097768,12.497633024048476,9.199939274328223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2394,7 +2394,7 @@ stitution rather than the dostructlvo strictures
 to wblch the old Artloles of Confederation were  
 liable, in which wo hae at present any direc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888093001:0433/pct:70.77971233913702,203.55245179899802,49.96214988644966,62.42599058752087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888093001:0433/pct:17.70498011740201,50.888112949749505,12.497633024048476,15.606497646880218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2583,7 +2583,7 @@ and no alarm has been sounded.
 On the adoption of the Constitution in 1780  
 this ordinance formed the basis for section 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898120301:0421/pct:236.15903975994,88.39203675344564,49.887471867966994,30.505359877488516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898120301:0421/pct:59.06191369606004,22.09800918836141,12.476547842401501,7.626339969372129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

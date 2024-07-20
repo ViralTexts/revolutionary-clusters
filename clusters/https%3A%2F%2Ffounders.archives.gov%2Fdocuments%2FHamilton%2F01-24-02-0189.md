@@ -38,7 +38,7 @@ their grief for the death of General George
 Washington, by fuittble eulogies, orations  
 and discourses, or by public prayer*and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800010801:0003/pct:41.728336118405345,36.31880369074133,16.567199809023634,7.636016544702514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800010801:0003/pct:41.728336118405345,36.31880369074133,16.58510384339938,7.647947820553611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -63,7 +63,7 @@ and discourses, or by public prayer ;
 and that the President of the United  
 States be requested to issue his pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800011501:0218/pct:78.4298895779761,32.88208750245242,15.640599001663894,7.416127133608005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800011501:0218/pct:78.43997378107196,32.88862729710287,15.630514798568043,7.416127133608005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ they may bo, publicly to (etdiny their Joy at tho oue
 hundredth return of that auspicious day. by suitable  
 eulogies, orations,and discourses, or by public prayer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876021001:0001/pct:43.59375,70.96575763789215,12.96875,3.4037318023375027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876021001:0001/pct:43.61328125,70.98113594422801,12.955729166666666,3.419110108673365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ joy at the one hundredth return of that auspi­
 cious day by suitable eulogies, orations and  
 discourses, or by public prayers, and advocate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876021001:0133/pct:48.9159891598916,95.77344528248186,14.014711575687185,4.126938949765192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876021001:0133/pct:37.92068810321548,74.2325649792287,10.866629994499174,3.198411823094739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ day by suitable eulogies, orations and dis­
 courses, or by public prayers and such re­  
 ligious exercises and ceremonies as may b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876021001:0136/pct:155.35846267553583,78.05870386515548,43.4589800443459,23.249055507120023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876021001:0136/pct:38.84679356865644,19.51467596628887,10.866752910737386,5.812263876780006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ shall not take effect until after the centen-
 nial commission and board of finance have  
 filed in the treasury of the United States 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022488:00280777936:1876021101:0887/pct:149.6741491672701,165.4462242562929,42.57784214337437,30.205949656750573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022488:00280777936:1876021101:0887/pct:37.425312330255295,41.36155606407323,10.64638783269962,7.551487414187643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ suitable eulogies, orations, and discourses, or
   
 by public prayers and such religious exercise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022553:00202197243:1876021901:0364/pct:160.8356940509915,121.7461819164752,43.20113314447592,15.029057980808217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022553:00202197243:1876021901:0364/pct:40.22316684378321,30.4365454791188,10.804109103790294,3.757264495202054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ return of that auspicious day, by suitable
 eulogies, orations, and discourses, or by  
 public prayers and such religious exercises an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85026954:0041562010A:1876031601:0061/pct:30.101641907740422,12.764592687620269,14.607766484232473,4.380097131861083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85026954:0041562010A:1876031601:0061/pct:30.10598557901138,12.770701609700968,14.61645382677439,4.380097131861083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ These resolutions were agreed to
 by the Senate next day, and ap­  
 proved by the President of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_iraryan_ver01:data:sn96061150:0020029824A:1886022101:0184/pct:45.67610062893082,61.10916110916111,18.69496855345912,14.238914238914239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_iraryan_ver01:data:sn96061150:0020029824A:1886022101:0184/pct:30.470347648261757,40.73944073944074,12.474437627811861,9.5004095004095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ ington, by suitable enolgies, orations and dis­
 courses, or by public prayers. And it is further  
  resolved, that the President be requested to issu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038218:1888021901:0501/pct:194.70643347907557,26.40946274596507,47.32979387882573,14.592084899403051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038218:1888021901:0501/pct:64.90214449302519,8.803154248655023,15.776597959608578,4.864028299801017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ testify their grief for the death of General
 George Washington, by suitable eulogies,  
 orations and discourses, or by public prayers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00415665684:1888022201:0507/pct:45.977337110481585,22.8710714656156,19.06515580736544,6.814645783632403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00415665684:1888022201:0507/pct:34.499858316803625,17.155896691214604,14.310002833663928,5.113577429727207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ ington by suitable eulogies ora
 tion and discources or by public  
 prayers President Adams after
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_alpha_ver01:data:sn86089174:00175036052:1893022201:0351/pct:31.233877901977642,26.548173226124984,22.63542562338779,15.742699957680914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_alpha_ver01:data:sn86089174:00175036052:1893022201:0351/pct:23.445902344590234,19.91818310057836,16.99290169929017,11.807024968260686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ ble eulogies, orations and discourses,
 or by public prayers.&quot;  
 This resolution was made the sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878964:1893022301:0221/pct:63.83098591549296,50.16677089847821,15.112676056338028,5.430477381696894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878964:1893022301:0221/pct:47.88672865595942,37.627683969147384,11.341222879684418,4.075463831561392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ orations and discourses, or b
 public prayers.”  
 This resolution was made t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1893022501:0036/pct:17.46473968309246,42.20008188890405,9.872888734111092,6.496519721577727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1893022501:0036/pct:17.461699164345404,42.19432314410481,9.875522284122562,6.499044759825328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ eulogies, orations and discourses, or
 by public prayers.”  
 This resolution was made the sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157509:1893022501:0034/pct:44.986922406277245,76.94704049844236,10.11333914559721,3.556593977154725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157509:1893022501:0034/pct:44.97907949790795,76.93705386112914,10.115934449093444,3.5593770279039583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ General George Washington by suita­
 ble eulogies, orations and discourses  
 and by public prayers.&quot; Thus the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479937:1899121301:0408/pct:22.60999007608336,82.53514687392845,14.02580218326166,5.5777803177506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479937:1899121301:0408/pct:22.621016650126805,82.53895683316189,14.014775609218216,5.573970358517164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ General George Washington by suita­
 ble eulogies, orations and discourses  
 and by public prayers.&quot; Thus the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:0028076646A:1899121401:0436/pct:20.44132740335272,81.04066985645933,14.112213479302087,5.598086124401914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:0028076646A:1899121401:0436/pct:20.44132740335272,81.04864433811802,14.12361728817425,5.594098883572568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ the death of General George Washington by
 suitable eulogies, orations and discourses and  
 by public prayers.” Thus the first national cel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899121401:0653/pct:29.734651404786682,36.38506163886875,20.915712799167533,4.8404641044234955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899121401:0653/pct:29.726918075422628,36.378466557911906,20.916775032509754,4.8441181801703825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ General. George Washington by suita­
 ble eulogies, orations and discourses  
 and by public prayers.” TIius the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896519:1899121401:0200/pct:45.9211732355637,77.01765063907486,9.746410021387106,4.418746195982958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896519:1899121401:0200/pct:45.91415915686574,77.00827653359299,9.748739880861462,4.421251217137293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -610,7 +610,7 @@ General George Washington, by&#x27; suitable
 eulogies, orations and discourses  
 or by public prayers.&quot; Memorial service
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_germany_ver01:data:sn84026844:00202193729:1899121401:1161/pct:34.3171114599686,63.7372634643377,18.084772370486657,2.6200873362445414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_germany_ver01:data:sn84026844:00202193729:1899121401:1161/pct:34.33281004709576,63.741812227074234,18.100470957613815,2.6200873362445414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ General George Washington by suita­
 ble eulogies, orations and discourses  
 nd by public prayers.&quot; Thus the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270205:00279527823:1899122101:1033/pct:6.879194630872483,111.38457307850956,18.519295302013422,7.232228791420321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270205:00279527823:1899122101:1033/pct:5.161561057490558,83.54186717998076,13.911036508602601,5.431046335762409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

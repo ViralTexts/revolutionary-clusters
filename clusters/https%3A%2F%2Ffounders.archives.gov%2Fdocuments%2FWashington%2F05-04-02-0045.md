@@ -138,7 +138,7 @@ tion by your sincere friend,
 The next letter we quote is written to a  
 nephew, to whom General Washington was 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:0041421566A:1839112801:0307/pct:82.17821782178218,32.76989221980093,14.629566404916353,18.28729607161788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:0041421566A:1839112801:0307/pct:82.17120423316548,32.76796230859835,14.631162698074023,18.28818217510797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ ry, you will be recollected with respect,
 veneration, and affection by your sincere  
 friend,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1839121401:0574/pct:32.06310679611651,41.489709245344656,23.883495145631066,30.98660568441686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1839121401:0574/pct:24.059237679048312,31.117281934008496,17.916970138383103,23.24403789611238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ I &#x27; - :mindoon most hilvd. the pleasing cori,,
 ,os .-&#x27;wolation to kno!tohet -you have rmt lie­  
 , , . ð ed in rain. , And I flutter-myself this&#x27;s&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1839122001:0065/pct:7.564962279966471,36.618023168346625,23.113998323554064,28.22325861290808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1839122001:0065/pct:5.681341719077568,27.471039566721828,17.358490566037737,21.16744395968106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -448,7 +448,7 @@ shall be transmitted for the approbation or
 disapprobation of Congrefs,as feon as it fhail  
 have pafled., . _ ‘-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778072801:0026/pct:3.062583222370173,3.2905181122817146,90.30181979582778,88.483186607014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778072801:0026/pct:3.0773783104009467,3.2953288112762786,90.30921733984317,88.483186607014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ I have the honour to be, with the greate/l re­
 spect. Sir, your must obedient Servant,  
 G. WASHINGTON,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778072801:0027/pct:7.410655557991668,2.6205903527717784,28.349046261784697,17.68178545716343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778072801:0027/pct:7.425272235620843,2.6301895848332135,28.349046261784697,17.686585073194145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2092,7 +2092,7 @@ al Wayne, whose good conduct and bravery
 through the whole action, deserves particu­  
 lar commendation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1852051201:0603/pct:30.0,24.321503131524008,14.376947040498443,6.5066109951287405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1852051201:0603/pct:30.0,24.32923528956932,14.376947040498443,6.502744916106085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2115,7 +2115,7 @@ er, forebare mentioning General Wayne, whose
 good conduct and bravery through the whole  
 action, deserves particular commendation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1852051501:0965/pct:272.9329173166927,76.99077359829667,51.40405616224649,14.705464868701206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1852051501:0965/pct:68.23322932917317,19.247693399574167,12.851014040561623,3.6763662171753015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2138,7 +2138,7 @@ Wayne, whose good conduct and hravery throu­
 the whole action deserves particular commen  
 dation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_fluttershy_ver01:data:sn83016867:00295877923:1852061901:0326/pct:251.36518771331058,73.49624060150376,58.19112627986348,18.984962406015036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_fluttershy_ver01:data:sn83016867:00295877923:1852061901:0326/pct:62.85470450181353,18.37406015037594,14.550885427778963,4.746240601503759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2165,7 +2165,7 @@ viduals—all the artillery, both officers
   
 and men, were distinguished in a mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1852081201:0603/pct:42.78537538375663,17.093553288474062,18.46218252860731,5.589320599088344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1852081201:0603/pct:42.79467857475114,17.093553288474062,18.452879337612803,5.596555965559656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2184,7 +2184,7 @@ good conduct and bravery through the
 whole action, deserves particular com­  
 mendation.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1852081201:0603/pct:42.7574658107731,22.69372693726937,12.308121685738207,2.821792923811591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1852081201:0603/pct:42.7574658107731,22.700962303740685,12.31742487673272,2.821792923811591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2240,7 +2240,7 @@ transactions, ia too long to admit or par­
 ticularizing individuals all the artillery,  
 both officers and men, were distinguishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1854112401:0439/pct:23.11715481171548,29.591836734693878,17.615062761506277,4.531812725090036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1854112401:0439/pct:17.35398785848859,22.193877551020407,13.230060707557044,3.4063625450180073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2260,7 +2260,7 @@ through the whole action deserves par
   
 ticular commendation.1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1854112401:0439/pct:23.03347280334728,34.28871548619448,17.740585774058577,4.426770708283313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1854112401:0439/pct:17.291186937408416,25.7202881152461,13.313795268997278,3.316326530612245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2283,7 +2283,7 @@ all the artillery, both officers and men, were di­
 tinguished in a most remarkable manner. I e  
 tinguished in a most remarkable manner. I ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854113001:1152/pct:247.87190082644628,13.334344660194175,39.17355371900826,15.655339805825243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854113001:1152/pct:82.62396694214875,4.444781553398058,13.057851239669422,5.218446601941747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2326,7 +2326,7 @@ In this age of moral and intellectual enjoyment,
 when throughout the length and breadth of our happy  
 country American freemen are rejoicing in the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530558:1857071701:0117/pct:102.78723059471723,172.99443061974168,47.54496840058337,19.362483706600308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530558:1857071701:0117/pct:34.262410198239074,57.66481020658056,15.848322800194458,6.454161235533436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2455,7 +2455,7 @@ men should disencumber themselves of
 their packs and blankets. Affeer Washington !  
 had marched about five miles he found Leo’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1875051301:0074/pct:26.663413047014803,36.59517426273459,11.273792093704246,50.47526200341214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1875051301:0074/pct:26.6590761223162,36.59071524308517,11.276024723487312,50.47215791397588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2500,7 +2500,7 @@ delivered such a constant fire as to make the
 enemy retire back to the defile, !he enemy  
 now had their flanks bordered by thic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1875051301:0074/pct:26.679681145274117,5.678771630514258,22.433707499593297,91.33560809164027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1875051301:0074/pct:26.67534157449577,5.678079688071159,22.43412491867274,91.32752528329475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2525,7 +2525,7 @@ of the bravery of the officers, and particu­
 larizes General Wayne for his bravery.  
 The enemy’s loss consisted about-1 officer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1875051301:0074/pct:38.21376281112738,16.829149402875945,11.029770619814544,4.6916890080428955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1875051301:0074/pct:38.20754716981132,16.827098818082124,11.032042940793755,4.69416351894724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2844,7 +2844,7 @@ I have the honor to be with the great­
 est respect, Sir, your most obedient ser­  
 vant, G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1875052001:0077/pct:39.521242866201646,15.658056580565805,33.13253012048193,80.11070110701107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1875052001:0077/pct:39.51497860199715,15.656130857213135,33.13124108416548,80.10392325667199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2920,7 +2920,7 @@ House, in the parting of the roads leading
 to Shrewsbury and Middletown, and their  
 left on the road from Allentown to Free
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1884111301:0397/pct:39.5583596214511,88.26590962857819,10.694006309148264,2.9216938727229715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1884111301:0397/pct:39.552121116543134,88.2554701360142,10.696262419176787,2.9243051448846837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3253,7 +3253,7 @@ Elizabethtown, the latter rejoin the
 corps from which they were detached.  
 1 have the honor to be, &amp;o. G. \V
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85035661:00513685075:1885062701:0631/pct:19.481961147086032,6.263354700854701,25.975948196114707,88.43482905982906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85035661:00513685075:1885062701:0631/pct:19.478357380688124,6.262518360261717,25.975767665556788,88.42635865936707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

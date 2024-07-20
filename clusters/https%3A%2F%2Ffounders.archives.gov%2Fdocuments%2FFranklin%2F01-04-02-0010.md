@@ -3676,7 +3676,7 @@ thev all returned safely to the main land, l&#x27;hose
 two Indians who, in the above-mentioned manner,  
 were first brought to the Island are yet alive. Ih
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859072001:0069/pct:85.21367521367522,69.7639225181598,11.025641025641026,4.933414043583535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859072001:0069/pct:85.22317188983855,69.7639225181598,11.016144349477683,4.940139897767017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3710,7 +3710,7 @@ dian &gt; go to the island now to kill deer, but if
 the King of France were to give me all Cana­  
 da 1 would not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172042:1859072301:0682/pct:7.04653371320038,13.55290819901892,15.935422602089268,11.030133146461107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172042:1859072301:0682/pct:5.47078161032334,10.50363879937724,12.354644031205535,8.552083710489155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4298,7 +4298,7 @@ is quite impossible, the whole cours
 of the water, for two leagues and a half  
 up to the great fall, being a serice o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn87065522:00295878058:1885103101:1141/pct:326.03071948261925,83.53235212440988,43.49232012934519,9.497361843932241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn87065522:00295878058:1885103101:1141/pct:81.52415605417424,20.88308803110247,10.875277946230039,2.3743404609830603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4332,7 +4332,7 @@ same breadth&quot; (barely 350 feet then,
 but in his engraving not half that). &quot;The  
 breadth of the island at its lower end i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn87065522:00295878058:1885103101:1141/pct:326.1115602263541,131.68564287697862,43.8965238480194,35.8789225215218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn87065522:00295878058:1885103101:1141/pct:81.54437032544976,32.921410719244655,10.976349302607641,8.96973063038045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4435,7 +4435,7 @@ same breadth&quot; (barely 350 feet then,
 but in his engraving not half that). &quot;The  
 breadth of the island at its lower end i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539252:1886060901:0231/pct:22.873781148429035,43.08600337268128,14.152221018418201,11.8570826306914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539252:1886060901:0231/pct:17.163370360335954,32.31450252951096,10.62042806827418,8.895446880269814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

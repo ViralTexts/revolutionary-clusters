@@ -178,7 +178,7 @@ ENT, &amp;C.&quot;
 * Vol. I, p. 433 ; vol. IV, pp. 324, 332, 449,  
 453 ; vol. V, pp. 31, 59, 458 ; vol. VJ, p. 489
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844080201:0935/pct:3.50744861399208,39.48588843248973,19.32868187818216,57.731548959851594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844080201:0935/pct:3.50744861399208,39.494721964577536,19.32868187818216,57.731548959851594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ rHE PRESENT ATTACKS ON 01&#x27;R COMMERCE SHOULD
 VoL l,p. 433 ; vol. IV, pp. 324,332,449,  
 153; vol. V, pp. 31, 59, 453; vol. VI, p. 499
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844080501:0598/pct:53.24182242990654,35.50798504926945,14.739096573208723,45.87155963302752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844080501:0598/pct:53.236639735228266,35.50557216634955,14.740906583601026,45.87070761982423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ DEPENDENT &gt; (Sc.&quot; . , r
 . ‘Vo‘ I- Pae« *33 ; roi.IV. page 324 : 332:  
 Jg® : 453 : V&gt; P*S® 31: » : 458; rol. VI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1844080801:0463/pct:46.43335565974548,34.69517627593229,12.458137977227059,41.51711849306351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1844080801:0463/pct:46.425581784697805,34.690761007890046,12.460237736480831,41.515016543649786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ Charcoal Hammers.
 Reported for The Tribune.  
 At a large and enthusiastic meeting of thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844081001:0450/pct:132.8750193109841,189.83090108871903,40.522169009732735,72.97892054667594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844081001:0450/pct:44.29167310366136,63.27696702957301,13.507389669910912,24.326306848891978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ nereadeat, Sc.&quot;
 &quot;Vol. 1, poge 433, sul. I, pages 324.432,449,  
 sol. V, pages 31450.138, vil. V1, 480
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1844081501:0020/pct:261.99882652063366,140.14864249962082,61.35341286915705,163.52191718489306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1844081501:0020/pct:65.4868987094251,35.031847133757964,15.335353930387173,40.874279648165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,7 +857,7 @@ country from the beginning, would contin and me parties to the publication in 18
 Rives and yourself, I pray you to accept  
 a re-assurance of my great and cordial es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1844081601:0521/pct:98.66548042704626,25.318681318681318,240.48042704626334,14.534798534798535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1844081601:0521/pct:24.67185761957731,6.329670329670329,60.13348164627364,3.6336996336996337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +887,7 @@ present attucks on our commerce should
 blot over, that we may be the less depend­  
 ent, c.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1844081601:0521/pct:32.47330960854092,38.91575091575091,306.4056939501779,55.91208791208791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1844081601:0521/pct:8.120133481646274,9.728937728937728,76.61846496106786,13.978021978021978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ the country, he naturally recurred to en to the power to regulate frede of com.
   
 thes tee chers of ar. Clay, upon merce, in favor of Manufactures, by reco
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1844081601:0521/pct:153.02491103202846,235.19413919413918,121.26334519572954,9.611721611721611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1844081601:0521/pct:38.26473859844271,58.798534798534796,30.322580645161292,2.402930402930403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ stitution, whether federal or state, but to
   
 slrike at the foundation of the social co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1844081601:0521/pct:89.6797153024911,345.2014652014652,182.82918149466192,25.377289377289376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1844081601:0521/pct:22.42491657397108,86.3003663003663,45.717463848720804,6.344322344322344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ Vol. 1, page4S3 vol. IV. ne 9I4S39
 449:453; vol. V, page 31 109:468) volume  
 VI, 489
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1844082101:0836/pct:46.119929453262785,13.788914198936977,57.032627865961196,115.36826119969628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1844082101:0836/pct:34.59757442116869,10.341685649202734,42.80044101433297,86.52999240698557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1223,7 +1223,7 @@ an address in 1808, signed, among others,
 by our friend Mr. Riremiz, wisaine Cox-  
 akess to ENcotkacE our MAnteacterls,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn86074085:00295877765:1844082401:0351/pct:55.63973063973064,167.42413933868553,215.23569023569024,205.9599945570826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn86074085:00295877765:1844082401:0351/pct:13.91578947368421,41.856034834671384,53.83157894736842,51.48999863927065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1364,7 +1364,7 @@ cles.) even it&#x27; tlii* present att.:cks oil our com­
 merce should blow over, thai we may be the  
 less dependent, &amp;e.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844090601:0527/pct:45.631929046563194,16.709881878421204,13.599408721359941,3.5724575050417746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844090601:0527/pct:45.636856368563684,16.709881878421204,13.599408721359941,3.5788597586350397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1386,7 +1386,7 @@ cles ) even it the present attacks on our com-&#x27;
 inerce should blow over, that we may be the less  
 dependent, &amp;c.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846090801:0103/pct:41.650700073691965,32.62092238470191,13.633014001473839,3.4401949756280463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846090801:0103/pct:41.650700073691965,32.624046994125734,13.642839597150576,3.4433195850518685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1431,7 +1431,7 @@ in tho margin as abridging aresearch,
 if your curiosity should at any time  
 prompt ono
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1888061301:0760/pct:69.91786447638604,79.77824709609293,14.476386036960985,17.47624076029567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1888061301:0760/pct:52.473891456942305,59.83368532206969,10.854305769560007,13.107180570221752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

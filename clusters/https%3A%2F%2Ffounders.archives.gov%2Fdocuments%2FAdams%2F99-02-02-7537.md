@@ -207,7 +207,7 @@ sir, that we have not hitherto once thought
 of humbly applying to the Father of Lights  
 to illuminate our understandings?—In th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818111601:0400/pct:62.91532690246517,84.06615041344008,17.106109324758844,6.444415277595485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818111601:0400/pct:62.901843120445776,84.05511811023622,17.109587083869123,6.447944006999125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ a reproach and a bye-word down to future
 ages. And wuat is worse, mankind may  
 hereafter, from this unfortunate instance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818111601:0400/pct:80.51446945337621,10.985693660585378,16.677384780278672,12.88883055519097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818111601:0400/pct:80.49721388769824,10.984251968503937,16.680954422060296,12.8915135608049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ ertg once thought of humbly applying to
 the Father of Lights, to illuminate our un­  
 derstandings ? In thé begiming of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829120301:0392/pct:2.6634382566585955,28.041525720284614,16.949152542372882,5.295695789105331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829120301:0392/pct:2.6696467374433475,28.04930207239784,16.955361023157632,5.291807613048719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1210,7 +1210,7 @@ vided by our little, partial interests; our projects will
 be confounded, and \vi ourselves shall become a re­  
 proach ar.d a by-word Jown to future ages. An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839122801:1186/pct:19.09924937447873,51.422029404675826,15.529608006672227,8.929862617498193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839122801:1186/pct:19.09924937447873,51.42604643689242,15.546288573811509,8.93789668193139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1279,7 +1279,7 @@ the contest with Britain, when we were sensible of
 danger, we had daily prayers in this room for Divine  
 protection. Our prayers, sir, were heard; and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1840012801:0015/pct:148.381601362862,155.82920198304814,59.028960817717206,16.568047337278106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1840012801:0015/pct:37.119113573407205,38.957300495762034,14.766673769443852,4.1420118343195265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1306,7 +1306,7 @@ divided by our little, partial interests, our projects
 will be confounded, and we ourselves shall become a  
 reproach and a bye word down to future ages. An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1840012801:0015/pct:148.381601362862,186.66240204701742,58.51788756388416,25.267871421717576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1840012801:0015/pct:37.119113573407205,46.665600511754356,14.638823780098019,6.316967855429394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ derstanding ? In the beginning of the contest
 with Britain, when we were sensible of danger,  
 we had daily prayers in this room lor divine pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840020101:0539/pct:38.55809462504023,72.57894119028055,17.62149983907306,6.385726024181242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840020101:0539/pct:38.55809462504023,72.58676683491802,17.637592532990023,6.385726024181242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1365,7 +1365,7 @@ will be confounded; and we ourselves shall be­
 come a reproach and a by-word down to future  
 ages. And what is worse, mankind may her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840020101:0539/pct:38.41326037978757,81.1714990022303,17.685870614740907,13.194036858786243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840020101:0539/pct:38.41326037978757,81.1714990022303,17.696599077352214,13.205775325742458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1388,7 +1388,7 @@ guish it when presented to us, how has it happened, sir, that
 we have not hitherto once thought of applying humbly to the  
 Father of lights to illuminate our understanding? In th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840032301:0075/pct:321.8680504077094,158.0979020979021,57.07931801334322,11.020979020979022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840032301:0075/pct:80.49684835001854,39.52447552447553,14.275120504263997,2.7552447552447554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1424,7 +1424,7 @@ chance, war, and conquest. I therefore beg leave to move
 That, henceforth, prayers, imploring the assistance of Heav­  
 en and its blessings on our de iberations, be held in this as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840032301:0075/pct:322.23869532987396,176.8951048951049,57.37583395107487,34.68531468531469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840032301:0075/pct:80.58954393770857,44.22377622377623,14.349276974416018,8.671328671328672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1471,9 +1471,9 @@ projects will be confounded, and we ourselves shal
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n11/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n11/mode/1up?view=theater)
 
-#### 1842-10-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1626,7 +1626,7 @@ frequent instances of a superintending
 Providence in our favor. To that kind  
 Providence we owe this happy oppor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1845051501:0070/pct:76.5756114979468,39.41757670306812,13.765399035886448,12.142485699427978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1845051501:0070/pct:76.56194216351304,39.41245287924087,13.768892062358681,12.14524026170978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1659,7 +1659,7 @@ our projects will be confounded; and
 we ourselves shall become a reproach  
 and a by-word down to future ages.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1845051501:0070/pct:76.52204963399393,54.75819032761311,13.765399035886448,12.129485179407176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1845051501:0070/pct:76.50838986076401,54.75107240348369,13.768892062358681,12.13224143160449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1751,7 +1751,7 @@ ing Providence in our favor. To that kind Provi
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n103/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n103/mode/1up?view=theater)
 
 #### 1845-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1919,7 +1919,7 @@ moved, that prayers should be performed
 in that assembly every morning before  
 they proceeded to business
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661022:1846020601:0187/pct:39.77544634640162,12.887039530045282,35.781336278299285,83.11100232529678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661022:1846020601:0187/pct:39.77544634640162,12.887039530045282,35.793606969752744,83.11916126137152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2009,7 +2009,7 @@ hereafter, from this unfortunate instance,
 
 ---
 
-## [From _The International Monthly Magazine of Literature, Science and Art (1850-1852)_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n22/mode/1up?view=theater)
+## [From _The International magazine of literature, art, and science_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n22/mode/1up?view=theater)
 
 #### 1852-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2029,7 +2029,7 @@ that an empire can rise without his aid?” But i
 
 ---
 
-## [From _The International Monthly Magazine of Literature, Science and Art (1850-1852)_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n22/mode/1up?view=theater)
+## [From _The International magazine of literature, art, and science_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n22/mode/1up?view=theater)
 
 #### 1852-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2072,7 +2072,7 @@ be divided by our little partial local interests; our proe­
 jects will be confounded, and we, ourselves, will beeome a  
 reproach and a bye word down to future ages, Ans wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853051301:1014/pct:246.35294117647058,235.3676554153881,47.2436974789916,21.025116490510285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853051301:1014/pct:82.11764705882354,78.4558851384627,15.747899159663865,7.008372163503428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2102,7 +2102,7 @@ lieve this; and I also believe that without His concur­
 ring aid we shall succeed in this political building no  
 better than the builders of Babel.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854011501:0073/pct:1.21931125391333,23.15950920245399,15.406162464985995,7.4003067484662575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854011501:0073/pct:1.21931125391333,23.168029993183367,15.417147251057285,7.396046353101568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2153,7 +2153,7 @@ deliberations, be held in this assembly
 every morning before we proceed to  
 business, and that one or more of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022366:0020029015A:1854042101:0280/pct:190.77046548956662,117.56798044607393,44.62279293739968,86.15948670944088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022366:0020029015A:1854042101:0280/pct:47.702187437286774,29.391995111518483,11.157936985751554,21.53987167736022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2177,7 +2177,7 @@ to once thought of humbly applying to
 the Father of Lights to illuminate our  
 understandings? In the beginning o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1854042601:0066/pct:289.607390300231,264.2100414555504,44.49576597382602,20.942729924765853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1854042601:0066/pct:72.40184757505774,66.0525103638876,11.123941493456504,5.235682481191463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2218,7 +2218,7 @@ local interests, our projects will be con e te i ti a te i
 founded, and we ourselves shall becomee o i te ara te ae  
 a reproach and by word down to futuree an o o ie e ta e sho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1854042601:0066/pct:289.2994611239415,316.2904959312145,90.68514241724404,37.586365730078306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1854042601:0066/pct:72.32486528098538,79.07262398280362,22.67128560431101,9.396591432519577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2280,7 +2280,7 @@ deliberations, be held in this assembly
 every morning before we proceed to bus­  
 iness, and that one or more of the cler
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854052301:0275/pct:124.75836431226766,47.72596430627519,47.5092936802974,53.77086931491077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854052301:0275/pct:31.195389477598066,11.931491076568797,11.879531511433353,13.442717328727692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2485,7 +2485,7 @@ uas thor ta tain who band it. I firmly
 Iit to isars    aee oo  
 believe this; and I also believe that without
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1859100501:0980/pct:33.873581847649916,173.1121281464531,57.21231766612642,37.07093821510298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1859100501:0980/pct:8.471828131333604,43.278032036613276,14.308877178759627,9.267734553775744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2577,7 +2577,7 @@ cal interests; our projects will be confounded, and
 we ourselves bocome a reproach and a by-word  
 down to future ages. And what is worse, man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1859121701:0462/pct:256.8985619898951,152.19285506825443,58.70579090555771,33.647981411559684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1859121701:0462/pct:64.21216242471343,38.042689124437345,14.673596269671654,8.410773921881807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2625,7 +2625,7 @@ its blessings upon our deliberations, be held
 in this assembly every morning before we  
 proceed to business; and that one or mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1859123101:0344/pct:278.8106630211893,164.67761313576293,50.444292549555705,73.31464423975437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1859123101:0344/pct:69.70266575529733,41.16940328394073,12.611073137388926,18.328661059938593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2743,7 +2743,7 @@ fest with Britain, when we were sensible of
 danger, we had daily prayer in this room for  
 divine protection. Our prayers, sir, wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861010401:0015/pct:123.45100336897612,79.53732912723449,37.45422586787755,16.382754994742378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861010401:0015/pct:41.150334456325375,26.512443042411498,12.484741955959182,5.4609183315807925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2780,7 +2780,7 @@ be confounded, and we ourselves shall become
 a reproach and a by-word to future ages. And,  
 what is worse, mankind may hereafter, fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861010401:0015/pct:123.45100336897612,99.15878023133544,37.30774864508569,25.131440588853838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861010401:0015/pct:41.150334456325375,33.05292674377848,12.435916215028563,8.37714686295128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2849,7 +2849,7 @@ and we ourselves shall become a reproach
 and a by-word down to future ages. And,  
 what is worse, mankind may hereafter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1864071301:0715/pct:99.13793103448276,93.43323049801674,86.49425287356321,55.70736007051565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1864071301:0715/pct:24.80230050323508,23.358307624504185,21.639108554996405,13.926840017628912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3336,7 +3336,7 @@ dence is so conspicuous in all this, that ho must
 be worse than un infldol that lacks faith, and  
 more tlilin wicked that has not gratitude to a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1875073001:0875/pct:81.89741035856574,69.22816519972918,22.435258964143426,9.123222748815166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1875073001:0875/pct:61.47520558185896,51.929587000677046,16.845252927984053,6.838185511171293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3367,7 +3367,7 @@ to the ground without His notice, is it pos-
 sible that an empire can rise without His  
 aid?&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1875092901:1001/pct:65.244375484872,370.32021441670196,42.746314972847166,11.680067710537452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1875092901:1001/pct:16.3174233604967,92.58005360417549,10.690725649980598,2.920016927634363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3482,7 +3482,7 @@ leading statesmen at that period were skeptics,
 like Franklin and Jcllcrson, owing to the low  
 state of religion In the churches uudthepre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876092501:0001/pct:70.96860031931878,90.5556686342357,13.065460351250666,2.5849786281294524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876092501:0001/pct:70.96860031931878,90.56075717484225,13.078765300691858,2.5951557093425603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3520,7 +3520,7 @@ lieve that without his concurring aid
 we shall succeed in this political build  
 ing no better than the bullders of Babel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1876111001:0394/pct:59.12408759124087,231.4478200076268,43.53019243530193,42.913435871361386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1876111001:0394/pct:14.78838174273859,57.8619550019067,10.887966804979254,10.728358967840347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3558,7 +3558,7 @@ our projects will be confounded, and we
 ourselves shall become a reproach and  
 bye-word down to future ages. An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84038485:00279528967:1876112301:0363/pct:6.671102977873898,32.76723276723277,10.14806188654134,8.978521478521479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84038485:00279528967:1876112301:0363/pct:6.671102977873898,32.77555777555778,10.170243442577497,8.982683982683982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3663,7 +3663,7 @@ become a reproach and a by-word
 down to future ages. Aod what is  
 worse, mankind may hereafter, fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1878071101:0109/pct:83.27137546468401,70.74148296593187,10.541688794476899,13.446893787575151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1878071101:0109/pct:83.27580102673039,70.74148296593187,10.537263232430519,13.460253841015364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3745,7 +3745,7 @@ and we ourseives shall become a re­
 proach and a byword down to future  
 nges. And what is worse, mankind ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1878102301:2227/pct:24.866023579849948,282.6741337066853,68.91747052518757,57.33286664333217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1878102301:2227/pct:6.218172071830608,70.66853342667133,17.233985526668455,14.333216660833042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3777,7 +3777,7 @@ ests; our pj-eitsw ul.ba tSonfonnded,;
 and we ourselves shall become a re­  
 proach and a byword down to futur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775216:1878121301:0062/pct:79.37458416500333,80.3825404610103,14.238190286094477,9.845512506130456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775216:1878121301:0062/pct:59.56065901148278,60.286905345757724,10.700615743052088,7.393330063756744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3810,7 +3810,7 @@ proach and a byword down to future
 ages. And what is worse, mankind may  
 nereafter, from this unfortunate instance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1879041701:0451/pct:60.56923076923077,82.86063569682152,12.907692307692308,10.012224938875306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1879041701:0451/pct:45.44475223145583,62.15158924205379,9.679901508156355,7.506112469437653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3931,7 +3931,7 @@ sings on our deliberations, be held
 in this Assembly every morning  
 before we proceed to business, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn87065522:00295878058:1882012101:0316/pct:91.8854415274463,205.74647887323943,44.55051710421639,63.54929577464789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn87065522:00295878058:1882012101:0316/pct:22.98507462686567,51.436619718309856,11.144278606965175,15.887323943661972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3957,7 +3957,7 @@ ourselves shall become a reproach and a by-word
 down to future ages. And what is worse, man­  
 kind may hereafter, from this unfortunate in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn83045160:00280779623:1882042301:0379/pct:20.60353798126951,247.4143434773356,35.27575442247659,10.555437327090871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn83045160:00280779623:1882042301:0379/pct:5.151554572655132,61.8535858693339,8.820085859242878,2.638859331772718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3975,7 +3975,7 @@ thought prayers u .necessary. But
 it it almost always cited as if  
 the motion were adopted, and prayer dail
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_vasa_ver01:data:sn83025287:00175035308:1884011301:0113/pct:29.879856451864566,78.76581924067645,13.10656888750195,2.038302161496248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_vasa_ver01:data:sn83025287:00175035308:1884011301:0113/pct:29.879856451864566,78.76581924067645,13.122171945701357,2.0457684697801173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4024,7 +4024,7 @@ their danger , they had daily prayers in
 that room for divine protection. Hamil­  
 ton thought it was rather late in the da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538181:1887091201:0610/pct:17.897930049964312,15.815760266370699,12.473233404710921,3.2880133185349614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538181:1887091201:0610/pct:17.897930049964312,15.815760266370699,12.473233404710921,3.298418423973363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4087,7 +4087,7 @@ the fathers of the Republic labored on
   
 for four weary long months in alte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn82000205:00211103590:1887091701:0931/pct:104.18943533697632,48.48264582954752,84.8816029143898,333.4181355624205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn82000205:00211103590:1887091701:0931/pct:26.04735883424408,12.12066145738688,21.22040072859745,83.35453389060513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4126,7 +4126,7 @@ A*e shall be divided by our little partial, local in- i
 yrests, our projects will be oNMBM(tll Ml  
 ourselves shall become a reproach and by-word 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887091701:0620/pct:61.98114362679075,11.934610370073212,23.90106526264234,86.64125965299368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887091701:0620/pct:61.987265825884656,11.939624912245511,23.898004163095383,86.65128873733828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4157,7 +4157,7 @@ jects will be confounded, and wo ourselves
 shall become a reproach and by-word down  
 to future ages; and, what is worse, man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pink_ver01:data:sn85025007:00175034316:1887091701:0162/pct:66.64828093399522,56.522266715204466,16.289759146902004,9.210047324353841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pink_ver01:data:sn85025007:00175034316:1887091701:0162/pct:66.64828093399522,56.5303563483396,16.295887724459153,9.210047324353841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4362,7 +4362,7 @@ We shall be divided by our little partial, local interests; our
 projects will be confounded, and we ourselves shall ber ome a  
 reproach and by-wor! down to ruture ages. And, what i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175038188:1887091801:0707/pct:146.8817871548247,25.913292253521128,90.41265901334161,267.34154929577466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175038188:1887091801:0707/pct:48.9605957182749,8.637764084507042,30.137553004447202,89.11384976525821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4402,7 +4402,7 @@ confounded, aud we ourselves shall be­
 come a reproach and a by-word down to  
 future ages, and what is worse mankind ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181958:1887091801:1170/pct:23.727598566308245,37.249283667621775,16.03942652329749,12.702960840496656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181958:1887091801:1170/pct:18.39351851851852,28.875572788156504,12.425925925925926,9.844906591469863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4443,7 +4443,7 @@ jects will be confounded and we
 ourselves, shall become a reproach and  
 by . word . down .to future ages
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175033270:1887091801:0207/pct:74.39557238566852,36.037234042553195,11.637052140984562,9.75177304964539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175033270:1887091801:0207/pct:74.40528206622002,36.037234042553195,11.627342460433052,9.755466903073286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4495,7 +4495,7 @@ confused and we ourselves shall
 bear reproach, and bear it down to  
 future ages; and wnatis worse, man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_cane_ver01:data:sn84020682:0029602286A:1887091801:0051/pct:73.79890185312286,11.14068947158259,30.988332189430338,115.74604019699188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_cane_ver01:data:sn84020682:0029602286A:1887091801:0051/pct:55.372468245794714,8.358844669239984,23.257809818056987,86.80953014774391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4523,7 +4523,7 @@ fall to the ground without His notice, is it probable that
 an empire can rise without His aid? We have been as  
 sured Tir, in the sacred writinga that &quot;except the Lor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044917:1887091801:0604/pct:69.4508894044857,173.0958230958231,50.50270688321732,19.164619164619165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044917:1887091801:0604/pct:17.366080061883583,43.27395577395578,12.628118352349642,4.791154791154791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4570,7 +4570,7 @@ our projects will be confounded, and we
 ourselves shall become a reproach and by  
 word down to future ages; and, what i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887091801:0664/pct:57.73857257417803,117.81779091642032,47.554129911788294,41.54797097554421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887091801:0664/pct:14.434643143544507,29.45444772910508,11.888532477947074,10.386992743886053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4613,7 +4613,7 @@ also believe that without his con­
 curring aid we shall succeed in this  
 political building no better than the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:0020653560A:1887091801:0479/pct:275.379017586416,277.7074844520695,52.865372953305034,46.57945528629637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:0020653560A:1887091801:0479/pct:68.855193328279,69.42687111301737,13.218347232752086,11.644863821574093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4739,7 +4739,7 @@ projects will bo confounded, and wo our­
 selves shall bo become a roproach and by­  
 word down to futuro ages; and what i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060189:00206533699:1887091901:0890/pct:55.19864750633982,16.0,21.217244294167372,17.47142857142857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060189:00206533699:1887091901:0890/pct:41.407736207989856,12.0,15.916296766011413,13.114285714285714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4779,7 +4779,7 @@ ests ; our projects will be confounded, and
 we ourselves shall become a reproacli aud  
 byword down to future ages; and, what i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210570:1887091901:0475/pct:33.73302513724357,45.403800475059384,9.650390060676106,8.764845605700712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210570:1887091901:0475/pct:33.728152535028165,45.39840874005463,9.65260725119168,8.76677354233464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4820,7 +4820,7 @@ projects will be confounded, and we our­
 selves tball become a reproach and by-word  
 down to future ages; and, what is worse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:0020219154A:1887092101:0321/pct:25.894354387926217,16.740564507407807,16.238121855785355,15.74564723694171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:0020219154A:1887092101:0321/pct:19.432405983503426,12.555423380555856,12.190689221305746,11.809235427706284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4862,7 +4862,7 @@ interests, our projects wilt be confounded,
 and we ourselves shall become a reproach  
 and byword down to future ages ; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762350:1887092101:0159/pct:29.209058089924515,49.780178369551564,10.84673449294388,11.518653435498052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762350:1887092101:0159/pct:29.209058089924515,49.789599296570785,10.850836888743025,11.512372817485241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4956,7 +4956,7 @@ will be confounded and we ourselves
 shall become a reproach and a by-word  
 down to future ages and, what is more,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91090200:00415667541:1887092201:0154/pct:36.83503492745835,74.63369963369964,15.529285330467491,14.652014652014651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91090200:00415667541:1887092201:0154/pct:27.64413385297675,55.97527472527472,11.65165972315549,11.000457875457876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4999,7 +4999,7 @@ projects will be confounded, and we
 ourselves shall become a reproach and  
 a by-word down to future ages; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029142:1887092201:0559/pct:45.796460176991154,84.83781006898576,20.02212389380531,16.982239835608397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029142:1887092201:0559/pct:34.3660101792432,63.62835755173932,15.025448107988494,12.740349332159107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5042,7 +5042,7 @@ our projects will be confounded, and we
 ourselves shall become a reproach and  
 by-word down to future ages; and, wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455113A:1887092201:0139/pct:23.330474206592328,32.79419966536531,10.85651268226933,13.329615170105967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455113A:1887092201:0139/pct:23.330474206592328,32.797298134721444,10.85651268226933,13.329615170105967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5087,7 +5087,7 @@ and ourselves shall become a reproach and
 a by-word down to future ages, and what  
 is worse, mankind pay hereafter, fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1887092201:0900/pct:62.813021702838064,97.8747048201139,18.823038397328883,21.155716071676622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1887092201:0900/pct:47.149718103988306,73.41297402417003,14.115681770724578,15.86331434921517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5165,7 +5165,7 @@ founded, and we ourselves shall become a re­
 proach and by-word down to future ages; and  
 what is worse, mankind may hereafter, fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052141:00206533651:1887092301:0147/pct:152.6315789473684,161.6978750262992,41.88365650969529,31.180307174416157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052141:00206533651:1887092301:0147/pct:38.163180495913565,40.4244687565748,10.472364593433994,7.795076793604039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5204,7 +5204,7 @@ selves shall become a reproach and a by-word
 down to future ages and, what is more, mankind  
 may hereafter from this unfortunate instanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023036:1887092301:0159/pct:24.052812858783007,100.6631155560387,17.121125143513204,13.7623654745081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023036:1887092301:0159/pct:18.04737975592247,75.49733666702903,12.849964106245514,10.327209479291227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5244,7 +5244,7 @@ founded, and we ourselves shall become a re­
 proach and by wort down to future ages; and,  
 what is worse, mankind may hereafter, fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016943:00295877832:1887092401:0390/pct:136.7363344051447,163.78755364806867,45.17684887459807,32.2961373390558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016943:00295877832:1887092401:0390/pct:34.1978287092883,40.94688841201717,11.298753518295134,8.07403433476395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5293,7 +5293,7 @@ founded, and we ourselves shall b ??
 come a reproach and by-word down  
 toi&#x27;titineages. And, what is worse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ivory_ver01:data:sn94060041:0017503397A:1887092401:0468/pct:14.330969980389199,1.8993032142054393,23.638557851863027,96.0777702854574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ivory_ver01:data:sn94060041:0017503397A:1887092401:0468/pct:14.341026801428068,1.9067955345770584,23.638557851863027,96.0777702854574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5377,7 +5377,7 @@ and we ourselves shall become a re­
 proach and by-word down to future  
 ages; and, what is worse, mankin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1887092901:0520/pct:271.9877206446662,249.17309812568908,49.04067536454336,71.33406835722161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1887092901:0520/pct:68.0099788908079,62.29327453142227,12.26252158894646,17.833517089305403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5462,7 +5462,7 @@ founded, and we ourselves shall become a re­
 proach and by-word down to future ages and,  
 what is worse, mankind may horeaftor, fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1887093001:0321/pct:32.411230388109004,13.289730030615084,18.00165152766309,20.289451711661563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1887093001:0321/pct:25.93999449490779,10.63158675968532,14.40132122213047,16.23868190589283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5632,7 +5632,7 @@ Lord build the house, their labor is but lost
 that build it.&#x27; I firmly believe this, and I  
 also believe that without His concurring
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_emerson_ver01:data:sn84020631:00415627890:1889050401:0440/pct:46.24702144559174,87.98313422347154,15.984908657664814,4.202389318341532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_emerson_ver01:data:sn84020631:00415627890:1889050401:0440/pct:34.697120158887785,65.98735066760365,11.996027805362463,3.162333099086437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5653,7 +5653,7 @@ sparrow can not fall to the ground with­
 out his notice, is it probable that an  
 empire can rise without his aid?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_orwell_ver01:data:sn86071719:00280777705:1889050801:0147/pct:328.08098591549293,120.79178449173985,57.394366197183096,14.704569132311356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_orwell_ver01:data:sn86071719:00280777705:1889050801:0147/pct:82.02024647887323,30.19794612293496,14.348591549295774,3.676142283077839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5686,7 +5686,7 @@ dence we owe this happy opportunity of con­
 sulting In peace on the means of establishing  
 our future national felioity and have w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764030:1890041701:0369/pct:100.14384349827388,101.13034263511126,12.859608745684696,9.007417873542918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764030:1890041701:0369/pct:75.13669064748201,75.85070057694573,9.640287769784173,6.758507005769458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5717,7 +5717,7 @@ will be confounded and we ourselves shall
 become a reproach and a by word down  
 to fnture ages. And, what ia worse, man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764030:1890041701:0369/pct:100.18699654775604,111.1503591192747,12.873993095512082,8.183209702107618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764030:1890041701:0369/pct:75.16546762589928,83.36276933945602,9.654676258992806,6.14623807841752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5739,7 +5739,7 @@ In that service.
 except the three or four persons, thought  
 prayers unnecessary ,bnt prayers were adopte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764030:1890041701:0369/pct:100.30207134637514,122.26539503120216,12.931530494821635,3.8031319910514543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764030:1890041701:0369/pct:75.25179856115108,91.69904627340162,9.697841726618705,2.8611797951253974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6009,7 +6009,7 @@ aid we shall succeed in this political
 building no better than the builders  
 of Babel. ... I therefore be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898061601:0228/pct:63.28056288478452,68.16117216117216,14.182058047493404,11.062271062271062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898061601:0228/pct:63.266652011431084,68.15118663932024,14.184436139810947,11.06431292118371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

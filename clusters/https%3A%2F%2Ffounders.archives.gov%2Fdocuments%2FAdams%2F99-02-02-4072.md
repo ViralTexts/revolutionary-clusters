@@ -50,7 +50,7 @@ serious consideration the various and important
 matters recommended to their attention.  
 This resolution being agreed to by the House
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011301:0002/pct:39.079754601226995,14.556838192134611,26.901840490797547,3.267462336137742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011301:0002/pct:39.09509202453988,14.556838192134611,26.91717791411043,3.287027978869106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -70,7 +70,7 @@ tion.
   
 The above resolution being agreed to by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790121101:0003/pct:6.834848929304782,71.56198498443509,26.28336755646817,3.75389122871269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790121101:0003/pct:6.856849515987093,71.56656290056766,26.29803461425638,3.763047060977843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -88,7 +88,7 @@ sideration the various and important matters
 recommended to their attention.”  
 Mr. Sedgwick seconded the motion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795122901:0566/pct:11.308170380475975,26.385142145673377,19.569501288464455,2.6457771321851005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795122901:0566/pct:11.31322318225456,26.38860067787231,19.579606892021626,2.6457771321851005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ tion.&quot;
 The resolution was carried unanimously,  
 and the committee rose and reported it. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797051801:0003/pct:7.740732105385871,78.14336075205641,15.807880624854278,4.171562867215041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797051801:0003/pct:7.740732105385871,78.15437720329025,15.807880624854278,4.16789071680376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ The resolution passed unanimouf­
 1y in the Committee, and the House  
 concurred. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797053001:0296/pct:7.910750507099391,28.292098962490023,16.383211109377438,5.277334397446129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797053001:0296/pct:7.910750507099391,28.29542431497739,16.393613148177042,5.277334397446129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ important matters recommended to their at­
 tention.”  
 Mr. Lyon objeéted. He had another Re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797120601:0405/pct:4.361274358181256,46.29960317460318,16.517166718218373,3.5416666666666665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797120601:0405/pct:4.361274358181256,46.30621693121693,16.537787400762966,3.544973544973545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ the trull reposed-mvyouii&#x27;tr&gt;&#x27;-render the
 people of the United. Stales prosperous and  
 happy. &#x27; •.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799121001:0003/pct:23.720682302771856,4.392183987549715,34.914712153518124,89.29621303821546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799121001:0003/pct:23.73400852878465,4.392183987549715,34.914712153518124,89.31350510115857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ will be, “/5 2o execute the trust reposed
 in himy, as to render the people of the  
 United States prosperous and happy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799121801:0203/pct:58.35799968842499,45.9737460815047,16.310951861660694,2.674373040752351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799121801:0203/pct:58.363192605286386,45.9737460815047,16.316144778522094,2.6841692789968654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ defile fo co execute die trujV rept led in you, as
 to render the people of the Un ted States prolp­  
 erous and happy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799122301:0308/pct:9.437009690816797,4.816901408450704,66.17443470235348,87.94366197183099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799122301:0308/pct:9.434832756632064,4.816223067173637,66.16493656286043,87.9347979157865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ required of the French Government. .
 previous to the departiire, of our Ex.  
 voys, had been giver through thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799122501:0205/pct:75.20520365494812,37.607674236491775,16.911878581384546,57.253328112764294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799122501:0205/pct:75.21552836714676,37.61419994779431,16.901553869185896,57.25006525711303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -834,7 +834,7 @@ Thould thercfore exhibit a fyllem “of
 ~+eondut as indiscreet as it would be  
 - new in the history of the world, if we.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799122501:0206/pct:8.055987558320373,4.673902415175516,17.418351477449455,79.34878263420357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799122501:0206/pct:8.055987558320373,4.68042110752583,17.418351477449455,79.34878263420357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -866,7 +866,7 @@ the trust reposed in you, as to render
 the people of the Utited States pros­  
 perous afid happy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799122501:0206/pct:26.25194401244168,4.908575339786839,16.749611197511665,12.036765424855774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799122501:0206/pct:26.257128045619492,4.911834685961996,16.749611197511665,12.043284117206088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1892,7 +1892,7 @@ city, by the criminal elf.rt of a part to op
 pose with lawless violence the will of the  
 whole. 1 hix, sir, is sound doctrine, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810012001:0324/pct:6.309374439863775,11.782513925890045,34.28929915755512,82.53814482925648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810012001:0324/pct:6.308243727598566,11.781087298704444,34.28912783751493,82.53218710901238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1928,7 +1928,7 @@ tian people to the source from which they flow, and to |
 the merciful dispensations of His protecting Providence.  
 That an united expression.of ths gratitude may b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848103101:0388/pct:66.28771316134674,72.83087840017203,14.633435359277073,5.816578862487905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848103101:0388/pct:66.28771316134674,72.83804608823424,14.64801049409707,5.809411174425689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1964,7 +1964,7 @@ THIE CAPITOL AS FIRST DESIGNED.
   
 ernment of the United States.&quot; The plan of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:00175038668:1893091701:0205/pct:6.943073379401119,92.08463949843261,68.98650871997367,57.03090013434841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:00175038668:1893091701:0205/pct:2.314357793133706,30.694879832810866,22.99550290665789,19.010300044782802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

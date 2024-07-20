@@ -215,7 +215,7 @@ Plenipotentiary to the French Repub­
 lic, with full powers to discuss and  
 fettle,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799031301:0043/pct:23.649703403059632,56.999606763664964,16.390883546674992,5.908375933936296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799031301:0043/pct:23.649703403059632,57.00288373312361,16.396087001769175,5.914929872853585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ fhallbeappointed and commiffionedto
 treat with them. JOHN ADAMS.  
 February, 25, 1769
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799032001:0046/pct:60.95414543770264,4.495806514530915,16.14945190674695,25.19016968987712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799032001:0046/pct:60.95414543770264,4.499057278460438,16.17003756883331,25.19016968987712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ from the Executive Directory assi
 - -vi. ilfied hy their Secretary of  
 ions, tha&gt; (boy shall he 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809051901:0001/pct:6.602641056422569,29.633015541334725,18.507402961184475,17.918244743372078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809051901:0001/pct:6.615979725223423,29.637368856384136,18.500733626784047,17.913891428322668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ x i&#x27;!&quot;i: ly believe that the Bourbons
 c are or will be tored ti the  
 a throne ML
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809051901:0001/pct:24.009603841536613,8.776283139610813,54.98199279711885,84.83740368290454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809051901:0001/pct:24.009603841536613,8.780636454660224,54.98199279711885,84.83740368290454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ from C&#x27;.oium.a to Paris on the aam&lt; P
 route whii ii M Dana and I had Ira  
 veiled twcni&#x27; that is, in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809051901:0001/pct:41.83673469387755,40.15933133080841,18.647458983593438,53.1800966435941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809051901:0001/pct:41.84340402827798,40.16803796090723,18.654128317993866,53.184449958643505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -808,7 +808,7 @@ lust arrival, and Mr. Fu.-vorth declared
 I himself satisfied and willing to embark a I  
 I soon as I pleased
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809051901:0016/pct:21.559633027522935,3.2040265160815125,54.34862385321101,93.49373925853179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809051901:0016/pct:21.555677857273896,3.203633239229164,54.34476854399804,93.48635489546254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -911,7 +911,7 @@ tion for all spoliations.
 I Quincy, May 2, 1809,  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809051901:0016/pct:57.92660550458716,35.56346673213847,17.871559633027523,45.81389639086668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809051901:0016/pct:57.91597871950101,35.55910150975819,17.8743961352657,45.81236446953889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ _heads of departments. Fwofigwm
 was gone to Virginia. Many days  
 ~wete employed-in conferencés wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809060601:0295/pct:59.919404835709855,11.697247706422019,34.02045877247365,84.61308336657359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809060601:0295/pct:59.919404835709855,11.700571732482382,34.03079148584418,84.61308336657359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1557,7 +1557,7 @@ and obtained compensation for all
 spoliations. - 5  
 ~ JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809060601:0296/pct:4.928035043804756,3.4115774815993634,35.294117647058826,92.52038989456932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809060601:0296/pct:4.928035043804756,3.414892911610636,35.30454735085524,92.5237053245806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1868,7 +1868,7 @@ ved, he would probably hLave finished the
 business long before, and obtained compensa­  
 tion for all spoliations. - &#x27; &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809060701:0041/pct:26.591820368885326,3.280943025540275,67.90697674418605,94.29273084479371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809060701:0041/pct:26.59716653301256,3.280943025540275,67.91766907244052,94.29927963326784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1933,7 +1933,7 @@ Republic, with full powers to discuss and
 treaty all controversies between the United States  
 and France. We were then almost at war wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:0017503898A:1896090701:0131/pct:197.06359506813757,258.73813512004466,47.2744970798183,5.8291457286432165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:0017503898A:1896090701:0131/pct:65.68786502271253,86.24604504001489,15.758165693272767,1.9430485762144054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

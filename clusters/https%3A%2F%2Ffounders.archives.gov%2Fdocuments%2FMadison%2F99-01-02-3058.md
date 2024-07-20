@@ -286,7 +286,7 @@ to-morrow, and the ship will sail as
 ■ soon after he reaches Falmouth as  
 possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111801:0002/pct:24.7354761429427,29.29121524605143,17.768017568376923,62.38089022320846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111801:0002/pct:24.74213083117056,29.29121524605143,17.768017568376923,62.38959230735761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ with my letters, will leave town the day aftei to­
 morrow, and the slop will sail us soon alter she reach­  
 es Talmooth as possible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0226/pct:68.39979808177688,44.17920209287116,21.453811206461385,43.81948986265533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0226/pct:68.38253848094878,44.171979728625146,21.45470603078476,43.81641327448096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ Within-eve mumdffibpqmmmu­
   
 _ i ] description, that our relations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112901:0612/pct:3.800265134776845,59.83367247633372,24.96685815289439,29.195788728656108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112901:0612/pct:3.799705449189985,59.82837933474876,24.96809032891507,29.196154753479593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ the day after to-morrow, and the ship will
 sail as soon after he reaches Falmouth as pos- j  
 sible.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0244/pct:24.494627572391185,19.224515322076297,17.5195774904389,43.08943089430894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0244/pct:24.490167516387473,19.222111055527765,17.522456907016267,43.08821077205269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ town the day alter to-morrow, ami the ship
 will sail as soon — tier lie readies t&#x27;ulmouUi  
 as possible.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0397/pct:24.015748031496063,12.815632533942393,35.133108361454816,81.18259104174597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0397/pct:24.01124648547329,12.814006597310327,35.13277100905967,81.17652034170685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -655,7 +655,7 @@ Silk. The Committee on Agricul­
 ture, of which L. F. Allen i3 chairman,  
 in the legislature of this State, have in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1838032101:0316/pct:89.56521739130434,70.61683050664362,20.46583850931677,10.003240790752944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1838032101:0316/pct:67.1843453952477,52.9653235389435,15.359527876999534,7.5078319109862806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ beast, or the number of his name.
 &quot; 18tli. Hero is wisdom. Let him that hath  
 understanding count the number of the beast; fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852012401:0136/pct:35.303488927831765,35.120705663881154,15.755934363549466,4.83983286908078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852012401:0136/pct:35.31410971270777,35.124574435159396,15.745313578673464,4.847570411637264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ derstanding count the number of the beast; for it
 is the number of a man; and his numberis six hun­  
 dred three score and sir.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852012901:0055/pct:189.65995836224843,64.75998488093738,42.71339347675225,13.632354794002772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852012901:0055/pct:63.21998612074948,21.586661626979126,14.237797825584085,4.54411826466759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ of the beast, or the number of his name.”
 that had understanding count the number of  
 the beast; for it is the number of a man : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183748:1852021801:0031/pct:31.373597006948156,24.58079268292683,12.814003206841262,5.5354420731707314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183748:1852021801:0031/pct:31.36940547762191,24.578450985996,12.816744600311734,5.538090248007367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -989,7 +989,7 @@ of the beast, or the number of his name.&quot; Like the
 ancient Jews, our feet run to evil, and we make haste  
 to shed innocent blood; our lips have spoken lies, ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743270:1857102701:0464/pct:23.830524492045992,171.79691049522944,44.98346196251378,9.541117673784644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743270:1857102701:0464/pct:7.943508164015331,57.265636831743144,14.994487320837926,3.1803725579282145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1140,7 +1140,7 @@ the case is substantially the same with s now.
 The business of the country is fast degenerat­  
 ing into garibling and a game of chance, wher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873100901:0699/pct:112.49036237471087,69.7014484185634,51.272166538164996,9.872893881170558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873100901:0699/pct:28.138862102217935,17.42536210464085,12.825458052073289,2.4682234702926396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1201,7 +1201,7 @@ i
 New EnGLAnd sketches  
 SPARREEGEASS AND THE ITALIaNs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038115:1886050901:0357/pct:155.5083412023922,7.521826729348556,90.73024866226,288.000895455563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038115:1886050901:0357/pct:51.836113734130734,2.5072755764495187,30.243416220753332,96.00029848518767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1232,7 +1232,7 @@ mark in their hand or on their foreheads
 and that no man might buy or sell save  
 he that had the mark,&quot; etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035151:1886053001:1234/pct:154.86577181208054,257.9353523587653,51.59395973154363,12.82760629004077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035151:1886053001:1234/pct:38.72456471575414,64.48383808969132,12.901195720578981,3.2069015725101924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1455,7 +1455,7 @@ three score and six.&quot;
 After careful study and long consider­  
 ation the only conclusion reached i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1895011101:0199/pct:9.37231298366294,84.9744711889132,18.852106620808254,12.603938730853391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1895011101:0199/pct:7.03377070337707,63.734500364697304,14.153581415358142,9.452954048140043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1531,7 +1531,7 @@ the liberty of cosscience and worship
 and the right of private judgment, why  
 does not she secure these rights t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1895121301:0589/pct:9.538327526132404,82.88155568650559,18.77177700348432,9.222156747200943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1895121301:0589/pct:7.166194728817251,62.16853270477313,14.071008494881289,6.9239835002946375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1552,7 +1552,7 @@ the name of the beast or the number of
 his name,&quot; papists have even the mo­  
 nopoly of begging, priests, nuns an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1896031301:0667/pct:49.97816593886463,115.28792750657702,18.799126637554586,5.787781350482315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1896031301:0667/pct:37.50546089995631,86.46594562993276,14.110965487112276,4.340836012861736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

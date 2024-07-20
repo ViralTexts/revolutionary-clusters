@@ -168,7 +168,7 @@ people fball be thought on, it «xilly in my poor judgment,
 require great tenderne(s, &amp; wery Jerious circum/pediion.”  
 Sir Josiah Child’s Difcourfeon Trade
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768031101:0045/pct:64.78964401294499,42.249964931968016,28.19848975188781,13.466124281105344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768031101:0045/pct:64.78964401294499,42.25931640716323,28.205681409564903,13.475475756300556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,7 +888,7 @@ thcr kingdom than the increase of shipping
 The same unnatural jealousy was shown  
 through all our colonial history, as if the Britis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014166:00415661459:1853081901:0172/pct:3.4870269376962484,48.16729323308271,17.055032226078335,9.034304511278195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014166:00415661459:1853081901:0172/pct:3.4980444003745936,48.17120927318296,17.055032226078335,9.042136591478696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ held the foltowing remark able language: &quot;Nev-­
 &quot;her coleoes&quot;  
 The policy of England, from the restoration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530467:1855041801:0734/pct:150.75161059413028,61.830787007318015,48.031496062992126,23.468994736166387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530467:1855041801:0734/pct:50.25053686471009,20.61026233577267,16.010498687664043,7.8229982453887965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ by reason of their cod and mackerel fisheries; and in
 &quot;than the increase of hipping in her Colenies.&quot;  
 The policy of England, from the restoration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855071601:0515/pct:151.65892501658925,15.527875196517112,47.24618447246184,18.164227838916435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855071601:0515/pct:50.55297500552975,5.175958398839037,15.748728157487282,6.054742612972145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1201,7 +1201,7 @@ not only by reason of the natural industry of
 the people, but principally by reason of their  
 cod and mackerel fisheries.&quot; A contemporar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899102901:1007/pct:114.53313253012048,101.52868170122598,50.0,11.624035114272742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899102901:1007/pct:28.64946317573931,25.382170425306494,12.507063477114334,2.9060087785681854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

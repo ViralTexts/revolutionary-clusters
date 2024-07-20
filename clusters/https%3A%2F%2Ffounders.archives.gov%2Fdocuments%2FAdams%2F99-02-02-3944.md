@@ -135,7 +135,7 @@ neithar of them will in future make any treaty
 that shall be inconfiltent with this or the pre­  
 ceding article
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0471/pct:7.321482374209099,28.219013237063777,19.614341669177463,3.40954673084637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0471/pct:7.331525559907603,28.22235592993716,19.619363262026713,3.40954673084637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ firmation. It is ftippofed to have been circulated
 in order to induce the peopli in the Nothern seaports  
 to imnifelt their disapprobation of the Treaty b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795080401:0003/pct:49.57356076759062,4.829545454545454,21.4818763326226,7.637032085561497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795080401:0003/pct:49.58022388059702,4.833723262032086,21.50186567164179,7.641209893048129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ continue in amity, neither of them will in fu&#x27;nre
 make a treaty that (hall be inconsistent with tf i»  
 and the preceding article.&quot; What can be the ob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795080501:0002/pct:73.06543578604399,33.64705882352941,21.694270974748846,2.7899159663865545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795080501:0002/pct:73.0857996198751,33.64705882352941,21.70784686396959,2.7983193277310923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -707,7 +707,7 @@ in amity, neither of them will in fu­
 ture make any treaty that shall be in­  
 consistent with this article. c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801010101:0080/pct:53.672537508153944,52.092071611253196,22.374429223744293,19.04859335038363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801010101:0080/pct:53.665536133576836,52.08674304418985,22.375858770327856,19.050054555373706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -784,7 +784,7 @@ iliips or goods belonging to Uie subjects or citi- |
 &lt;seiis ol&#x27; the other to Lie taken within cannon shot  
 it tlie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0443/pct:22.92232482346551,34.39685851024666,17.79829802643491,4.429991409988956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0443/pct:22.91817523533671,34.392638036809814,17.801110306541155,4.433537832310838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ will in future make any treaty that j (
 shall be inconsistent with this or the jc  
 preceding article
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051801:0001/pct:60.648053800692885,56.55349135169763,17.87242714489505,4.6764894298526585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051801:0001/pct:60.654846817471636,56.55776211830023,17.8792201616738,4.680760196455264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -911,7 +911,7 @@ in the new treaty.&quot; When the negotiation was opened,
 the French commissioners refused at first to concur  
 in the fact that the treaties were annulled b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846091401:0930/pct:17.444516971279374,60.538172715894866,14.588772845953002,4.305381727158949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846091401:0930/pct:17.45539599651871,60.54234459741343,14.594212358572673,4.309553608677514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ all the engagements to which the United Stales
 are to become parlies, be specified in ihe new  
 treaty&quot; When the negotiation was opened, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846091501:0114/pct:58.60002922694724,68.3426619865288,13.18135320765746,3.064225405559245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846091501:0114/pct:58.60490038482147,68.34898649716978,13.186224365531688,3.06106315023875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ ami existing public treaties with other sovereigns or States. But the
 two partie* agree that, while they continue in aunty, uettherof them  
 will in future make any treaty that shall be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0144/pct:6.077165093558536,50.902160101651845,15.863553568471602,1.2198221092757306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0144/pct:6.082684771209362,50.902160101651845,15.863553568471602,1.2240576027107157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

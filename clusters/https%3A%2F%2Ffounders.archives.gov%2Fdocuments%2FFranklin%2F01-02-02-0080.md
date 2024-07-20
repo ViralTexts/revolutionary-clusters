@@ -1320,7 +1320,7 @@ Hut to borrow or beg, or to get a man&#x27;s
 own,  
 It is the worst world that ever was known
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822122001:0262/pct:7.941119504164246,43.499031633311816,17.431725740848343,4.480309877340219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822122001:0262/pct:7.939581719597212,43.493415956622776,17.434805060676478,4.484034770634306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1378,7 +1378,7 @@ ACTION,
 If thon dost ill, the joy fades, not the pains;  
 If well, the pain doth fade-~the jov remains
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830020901:0233/pct:12.029051293690422,36.03193854861532,15.766379179906188,6.337174044875682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830020901:0233/pct:12.034094921067231,36.03530759382791,15.771422807282997,6.337174044875682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1398,7 +1398,7 @@ Tho tlow’ry plains, and silver-streaming Hoods,
 ldv snmv disguis&#x27;d, in bright confusion lie,  
 And with one dazzling waste fatigue the eye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830022601:0316/pct:5.848386141545751,20.286506469500925,10.660349422564407,2.241219963031423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830022601:0316/pct:5.847520355292376,20.28416310500173,10.663705896866519,2.244811520542143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1508,7 +1508,7 @@ te ttl nl dal
 Against disease here, the strongest fence,  
 Is the defensive virtue, Abstinence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:20.33832644628099,100.21263023601956,28.938533057851238,2.5196682968318096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:6.779442148760331,33.40421007867319,9.646177685950413,0.8398894322772699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1531,7 +1531,7 @@ rivals.
 Against diseases here, the strongest fence,  
 Is the defensine virtue, Abstinence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849030301:0502/pct:261.53846153846155,209.9703583939639,55.32245532245532,22.95877122069523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849030301:0502/pct:65.41002720559658,52.49258959849097,13.835989117761368,5.739692805173807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1570,7 +1570,7 @@ have no rivals.
 Against diseases here, the strongest fence,  
 l Is the defensive virtue, Abstinence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:172.48563218390805,114.34190195252143,50.35919540229885,19.440932715269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:43.13690262306863,28.585475488130356,12.594322673374057,4.86023317881725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1590,7 +1590,7 @@ vals.
 Against diseases here, the strongest fence,  
 Is the defensive virtue, Abstinence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:210.5615470435106,229.58880881729547,59.52026775753068,13.80528472516603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:52.63060048336122,57.389092964114155,14.877300613496933,3.450833568804747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1613,7 +1613,7 @@ no rivals.
 Against diseases here, the strongest fence,  
 Is the defensive virtue. Abstinence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:3.074813944379162,19.22941714125009,13.102232667450059,4.499753919707516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:3.0745128757465974,19.22806524184477,13.104213583994255,4.501781027371578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1639,7 +1639,7 @@ Is the defensive virtue. Abstinence.
 Against d&#x27;senses here, the strongest fence.  
 Is the defensive virtue, Abstinence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849053001:0309/pct:34.801223241590215,23.963675213675213,14.525993883792049,1.3888888888888888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849053001:0309/pct:34.811416921508666,23.97079772079772,14.515800203873598,1.3888888888888888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1692,7 +1692,7 @@ To lend and to spend and to give in;
 But to beg or to borrow or to get a man&#x27;s own,  
 It is the worst world that ever was known
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851111501:1102/pct:162.88680781758958,63.02710843373494,37.561074918566774,5.873493975903615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851111501:1102/pct:54.295602605863195,21.009036144578314,12.520358306188925,1.9578313253012047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1721,7 +1721,7 @@ To lend and to spend- to invite and to give in;
 But to borrow or beg or to get a man&#x27;s own,  
 It is the worst world that ever was known
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1854091501:0149/pct:71.32817990161631,150.44792833146695,41.110330288123684,7.558790593505039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1854091501:0149/pct:17.832044975404077,37.61198208286674,10.277582572030921,1.8896976483762598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1797,7 +1797,7 @@ never opens it but at another&#x27;s expense.
 Against disease here the strongest fence  
 is the defensive virtue, abstinence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1862012401:0528/pct:11.476608187134502,30.834272829763247,16.06359649122807,2.0293122886133035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1862012401:0528/pct:8.612177729018102,23.125704622322434,12.068019747668679,1.536076662908681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1922,7 +1922,7 @@ Such Cloe is—and common as the air.”
 Against disease here, the strongest fence.  
 Is the defensive virtue, Abstinence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1870033101:0226/pct:4.704230296647358,43.54136429608128,11.778128839740214,0.9631877556405858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1870033101:0226/pct:4.703404703404703,43.53562005277045,11.78044928044928,0.966358839050132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2164,7 +2164,7 @@ Against diseases the strongest
 fence is the defensive virtue, ab­  
 stinence.—Herrick
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:00517175420:1893102601:0809/pct:9.76,42.74875984826379,16.708571428571428,3.180624452874234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:00517175420:1893102601:0809/pct:9.771428571428572,42.752407353370295,16.714285714285715,3.1879194630872485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2181,7 +2181,7 @@ and show none ourselves.—George Eliot.
 Against diseases the strongest fence is  
 the defensive virtue, abstinence.—Her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:0039334877A:1893110201:0374/pct:3.486503856041131,38.339452801137035,11.166452442159382,1.57526945398555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:0039334877A:1893110201:0374/pct:3.4859437751004014,38.33491236380862,11.168674698795181,1.578043581241118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2199,7 +2199,7 @@ derers for the first offense.
 Agamst disease the strongest fence  
 is the defensive virtue, abstinence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153590:1893111801:0744/pct:15.03101800061019,48.537151702786375,10.749516932777382,1.4628482972136223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153590:1893111801:0744/pct:15.037797891453948,48.537151702786375,10.746126987355504,1.4628482972136223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2233,7 +2233,7 @@ derers for the first offense.
 Against disease the strongest fence  
 is the defensive virtue, abstinence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_licklog_ver01:data:sn85042052:00416156906:1893120901:0409/pct:261.28472222222223,67.34530938123753,56.36574074074074,7.105788423153693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_licklog_ver01:data:sn85042052:00416156906:1893120901:0409/pct:65.34954407294833,16.836327345309382,14.097553915183095,1.7764471057884232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2526,7 +2526,7 @@ of God, labor in the first place to bring
 thy appetite to reason” (as if the physical  
 laws of life are to be ignored), and bid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340299:1899032001:0307/pct:3.733242830476837,57.809798270893374,11.165789920244357,2.92507204610951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340299:1899032001:0307/pct:3.7326094333220223,57.80146952888633,11.168137088564642,2.9282524131969456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2611,7 +2611,7 @@ capering for joy, on the other side,
 with these words: &quot;I have gained  
 my suit;&quot; but he was stark naked.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_muddy_ver02:data:sn88085012:00200290501:1899041401:0071/pct:56.78466076696165,43.651488616462345,14.05394016013485,19.030939871570343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_muddy_ver02:data:sn88085012:00200290501:1899041401:0071/pct:56.78992836072482,43.66243432574431,14.05920775389802,19.02729130180969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2716,7 +2716,7 @@ vigorous mind, and be acquainted also
 with the wonderful works of God, labor  
 ir. the first place to bring thy appetit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069162:00100479278:1899071901:0126/pct:102.12891780011827,24.338928489307886,13.010053222945002,2.8397332720165553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069162:00100479278:1899071901:0126/pct:76.6306759355125,18.257070590940447,9.761869545925158,2.1269257300528857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2734,7 +2734,7 @@ pains
 If well, the pain doth fade, the joy  
 remains
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016810:00280768005:1899072201:0542/pct:69.33115823817292,76.87138130686517,11.174551386623165,1.7473118279569892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016810:00280768005:1899072201:0542/pct:69.34022113467464,76.8748276812793,11.170019938372304,1.7576509511993383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

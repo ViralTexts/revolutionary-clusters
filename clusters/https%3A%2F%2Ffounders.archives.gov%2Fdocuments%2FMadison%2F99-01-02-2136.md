@@ -194,7 +194,7 @@ jo . most obt. servant. th,
 f| &#x27; P. S. A copy of my note to Mr. w  
 n Canning is enclosed. h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808032801:0001/pct:39.257569473247614,11.15140525838622,38.013272501036916,86.97059966325605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808032801:0001/pct:39.257569473247614,11.15572248845141,38.013272501036916,86.97059966325605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ servant. JAMES MONROE.
 P. S. A copy of my note to Mr. Canning is  
 enclosed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040101:0431/pct:23.937319884726225,0.7477322873253248,35.14048991354467,92.33880853150282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040101:0431/pct:23.933009184224744,0.747640642235568,35.1401644756588,92.33157658209748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ James monroe.
 P. 8. A copy of my note to Mr Canning  
 is « nelosed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040101:0113/pct:40.95614530397139,25.709996246715875,17.54187841144363,36.75716251720255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040101:0113/pct:40.94843808806925,25.706780085063798,17.544850081545604,36.756734217329665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ JAS. MONROE.
 P. S. A copy of my note to Mr. Canning is en­  
 closed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040401:1066/pct:4.411014788373279,36.53598971722365,21.978582355940848,36.13431876606684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040401:1066/pct:4.409890390007647,36.53012048192771,21.979352536324242,36.13253012048193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ TAMES MONROE. .
 7. 8. A conv of my note to Mr,  
 Caauiwe 15 enclosed. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808041901:0061/pct:59.809932556713676,12.743345252284465,33.41508277130595,83.72069924513309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808041901:0061/pct:59.81504189658696,12.746656072043438,33.40997343143266,83.71738842537412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

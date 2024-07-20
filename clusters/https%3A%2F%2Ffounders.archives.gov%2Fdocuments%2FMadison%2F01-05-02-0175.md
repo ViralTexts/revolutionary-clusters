@@ -407,7 +407,7 @@ destruction they wished.&quot;
 The CAsE oF JoHn McKisney.--It will be  
 Treasurer. He was tried last summer in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1862050601:1065/pct:94.9972958355868,62.758985200845665,37.52028123309897,33.32980972515856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1862050601:1065/pct:31.67004732927654,20.91966173361522,12.508451656524679,11.109936575052854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ justice to all concerned, that the substitute
   
 for the confiscation bill offered in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862050801:0149/pct:51.99096880131363,85.3518821603928,19.848111658456485,13.20240043644299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862050801:0149/pct:39.006364196263604,64.02073104200764,14.884007390679532,9.901800327332243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ any independent State of this Union
 subjected to the adjudication of any power  
 or powers on earth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775605:1864020301:0429/pct:112.24794622852875,108.4664055438385,44.66019417475728,87.9180476047002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775605:1864020301:0429/pct:28.061986557132187,27.116601385959626,11.16504854368932,21.97951190117505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ to agree to any such restitution or submit that the laws
 made by any independent State of this Onion lie subject­  
 ed to the adjudication of any power or powers on earth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1864021001:0199/pct:49.25712553062462,55.71895424836601,14.599757428744693,9.527400703871292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1864021001:0199/pct:36.96344607917488,41.792357968828554,10.951008645533141,7.151835093011564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ ent State of this Union be subjected to the
 adjudication of any power or powers on  
 earth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:0028077523A:1864021201:0139/pct:134.88023952095807,231.3690999706831,49.70059880239521,59.68924069187921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:0028077523A:1864021201:0139/pct:33.72005988023952,57.842274992670774,12.425149700598803,14.922310172969803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

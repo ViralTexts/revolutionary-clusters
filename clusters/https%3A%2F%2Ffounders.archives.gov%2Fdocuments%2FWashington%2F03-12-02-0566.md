@@ -97,7 +97,7 @@ ance in the measures neceflary for our de­
 fence, we shall finally obtain the end of our  
 warfare, independence, liberty, aud peace.”--
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778090801:0049/pct:66.66666666666667,50.49405699556065,28.45744680851064,9.336961191464987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778090801:0049/pct:66.66666666666667,50.49405699556065,28.479609929078013,9.336961191464987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ all officers and soidiers whose absence is not
 indispensably necussary to attenn with rey rence the  
 solomnity of the day. GEorge washinio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744018:1878010301:0039/pct:196.85065473230566,178.00228310502283,53.14105751698989,73.73287671232876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744018:1878010301:0039/pct:65.61688491076855,59.33409436834094,17.71368583899663,24.577625570776256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ whose absence is not indispensably nec­
 essary to attend with reverence the  
 solemnities of the day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1881110501:0437/pct:4.450537861210715,75.43917799138217,9.860788863109049,5.8584686774942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1881110501:0437/pct:4.450537861210715,75.43917799138217,9.867819728608591,5.8695171804220525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ soldiers whose abscence is not indis­
 pensably necessary to attend with  
 reverence the solemnities of the day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881112301:1032/pct:138.5457388584832,95.48461317227495,39.405785770132916,35.49036525740581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881112301:1032/pct:34.65675728535106,23.871153293068737,9.857226677097595,8.872591314351453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ are j ^hose absence is not indispensably nt
 for j essary to attend with reverence ti  
 tlie | solemnities of the day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194047:1881112301:0230/pct:22.02544275380394,71.00381414701803,11.411823397355949,6.154646324549237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194047:1881112301:0230/pct:22.029600066517002,71.00670365233472,11.424295335495136,6.157535829865927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ cers and soldiers, whose absence is not abso­
 lutely necessary, to attend with reverence the  
 solemnities of the day.&quot; But on the retur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1883113001:0905/pct:18.674698795180724,257.810660837397,44.66437177280551,38.204136539431644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1883113001:0905/pct:4.669679363029911,64.45266520934925,11.168495803744351,9.551034134857911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ soldiers whose absence is not abso­
 lutely necessary to attend with rever­  
 t ence the solemnities of the da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535921:1885112601:0427/pct:2.895392278953923,38.87269193391642,34.10647571606476,13.486664507072671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535921:1885112601:0427/pct:1.931163370191559,25.915127955944282,22.753465192337643,8.994708994708995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ the honorable Congress to render thanks for
 the brilliant successes of the recent cam­  
 paign, which had resulted in the surrende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887112401:1250/pct:232.47261345852894,328.54995216618835,51.01721439749609,14.978816454831215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887112401:1250/pct:58.118153364632235,82.13748804154709,12.754303599374023,3.7447041137078036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ horts all officers and soldiers, whose absence
 is not indispensably necessary, to attend  
 with reverence the solemnities of the day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887112401:1250/pct:232.3943661971831,345.4967883012163,50.93896713615023,11.370780374470412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887112401:1250/pct:58.098591549295776,86.37419707530408,12.734741784037558,2.842695093617603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +864,7 @@ warm and dry,” in which the troops “will
 be more secure against surprises and at  
 hand to protect the country. ’ But, firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889112801:0195/pct:38.54573885848319,53.64173228346457,11.297888975762314,2.249718785151856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889112801:0195/pct:38.538205980066444,53.6341909180374,11.300566738323237,2.252917193870378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -886,7 +886,7 @@ absence is not indispensably necessary, to
 attend with reverence the solemnities of  
 the day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889112801:0195/pct:38.58483189992182,58.12710911136108,11.317435496481627,3.5714285714285716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889112801:0195/pct:38.57729138166895,58.11893715731759,11.320109439124487,3.574441164065795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ not indispensably necessary, to at­
 tend with reverence the solemnities  
 of the day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_lawrencium_ver01:data:sn88076679:00199918527:1889120701:0665/pct:59.04394544703127,29.668285625710446,11.888689902190384,11.53249974165547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_lawrencium_ver01:data:sn88076679:00199918527:1889120701:0665/pct:59.05312944850071,29.67173021942062,11.884097901455664,11.535944335365643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -987,7 +987,7 @@ to ronder thanks for the briiiiant suc­
 cesses of the rocent campaign, which had  
 resulted in the surrender of Burgoyn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_harveycedars_ver02:data:sn87068108:00513685713:1891112101:0329/pct:6.622816965298253,39.769277474195505,14.334316171467453,4.887674559805707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_harveycedars_ver02:data:sn87068108:00513685713:1891112101:0329/pct:6.621315192743764,39.76324176658066,14.33673469387755,4.890726969191076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1009,7 +1009,7 @@ whose absence is Bot indispensabty neces-,
 sary, to attend with reverence the eoiata-,  
 nities of the day.&quot; ^ —-** ** * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_harveycedars_ver02:data:sn87068108:00513685713:1891112101:0329/pct:6.350646405080517,45.066788099574985,14.85597641188478,4.022465088038858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_harveycedars_ver02:data:sn87068108:00513685713:1891112101:0329/pct:6.349206349206349,45.059948398846565,14.85827664399093,4.025648808620428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1176,7 +1176,7 @@ sence is not indispensably necessary
 to attend with reverence the solemni­  
 ties of the day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270502:00271762768:1896112501:0594/pct:45.89147286821706,91.58530915853092,19.031007751937985,11.266077793274446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270502:00271762768:1896112501:0594/pct:34.43195036835983,68.69673020300635,14.288483908491663,8.445684177901752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1205,7 +1205,7 @@ sence is not indispensably necessary
 to attend with reverence the solemni­  
 ties of the day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623380:1897112001:0003/pct:62.10374639769452,56.64412860493997,10.662824207492795,6.995998344142404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623380:1897112001:0003/pct:62.117255043227665,56.64757830826549,10.662824207492795,7.002897750793432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1239,7 +1239,7 @@ seine i&gt; mu imlispetisaliiy ucce-sary
 to attend with reverence tin* solemni­  
 ties of tin* day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065763:00332899685:1897112701:1279/pct:61.89737470167064,57.11733734486649,10.059665871121718,6.891688604738624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065763:00332899685:1897112701:1279/pct:61.90135242641209,57.1236053654256,10.05568814638027,6.885420584179516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

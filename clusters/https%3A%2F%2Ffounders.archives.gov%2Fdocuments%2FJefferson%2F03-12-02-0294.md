@@ -707,7 +707,7 @@ for the prosperity of their country and
 blessings lo those who promote it.  
 Til : JEFFEUSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021001:0323/pct:50.10809911857642,2.9785688339992733,30.9662398137369,92.94103402348952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021001:0323/pct:50.0997672098437,2.9782082324455206,30.96663341093005,92.93381759483455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1099,7 +1099,7 @@ myself to take an interest. A or am I tenacious
 1 of tbe form in which it shall be introduced. Be  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0036/pct:81.25690825832939,79.7710374129588,15.41133743881257,16.983358904756283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0036/pct:81.24407957057151,79.76162379041774,15.414166929796863,16.985288332939973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1121,7 +1121,7 @@ past all other services but prayers for the pros­
 perity of their country, and blessings to those  
 who promote it.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:3.669581511555278,3.434438805617845,14.975015615240475,4.909713206656438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:3.669008587041374,3.434033514278971,14.977881863127765,4.913067421918024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1270,7 +1270,7 @@ receive for the inestimable boon the l&#x27;&#x27;&quot; ,e0l
 young and the blessings of the old, who .  
 other services but prayers for the prospe&quot; J ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1852121501:0650/pct:92.65552995391705,103.90164600690916,38.94009216589862,11.38996138996139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1852121501:0650/pct:69.5288863276185,77.93131477342004,29.217691975219708,8.545011176590124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ cerns in which I shall permit myself to
 take an interest It has been a sub­  
 ject that attracted the attention of al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665143:1872041001:0343/pct:49.04016538688718,18.941354031910308,12.152982870643827,4.7326433807675725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665143:1872041001:0343/pct:49.04508761567238,18.941354031910308,12.157905099429021,4.743423889607589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1505,7 +1505,7 @@ the third, and not one in the State can go be
   
 yond the fifth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:0021247549A:1879061101:0092/pct:52.43001555209953,76.96335078534031,45.023328149300156,36.910994764397905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:0021247549A:1879061101:0092/pct:17.476671850699844,25.654450261780106,15.007776049766719,12.303664921465968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1775,7 +1775,7 @@ and will not lay aside. These habits of
 study will naturally lead them to seek  
 companionship in good books as the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:0028077487A:1886070101:0010/pct:87.69982238010657,6.657303370786517,38.210479573712256,121.50280898876404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:0028077487A:1886070101:0010/pct:65.81519324744558,5.0,28.67614393602843,91.12359550561797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1802,7 +1802,7 @@ then think of the problems in our repub-
 statistical, industrial, financial and  
 social, that today confront the rising gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199094:1891101101:0603/pct:48.62385321100918,38.0040215895862,37.85837155963303,16.742512435178327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199094:1891101101:0603/pct:16.207951070336392,12.668007196528734,12.619457186544343,5.580837478392775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1828,7 +1828,7 @@ old.&quot;
 He prophetically saw that the hope  
 of this Republic reposed in the lap o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287034:1893112201:0276/pct:13.677536231884059,58.36420896628381,11.72360248447205,5.928121526491293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287034:1893112201:0276/pct:13.677536231884059,58.370384092873906,11.736542443064183,5.925033963196245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1891,7 +1891,7 @@ concerns in which I shall permit, myself
 to take an interest.” If he could to day  
 vLsit Raleigh and many other of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn85042104:00332891947:1895070901:0534/pct:19.907628603280777,38.47107903935055,14.046822742474916,4.915999548990867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn85042104:00332891947:1895070901:0534/pct:19.91293730424165,38.478595858232794,14.046822742474916,4.919757958431991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1913,7 +1913,7 @@ concerns in which I shall permit myself
 to take an interest. He was the author  
 of the bill abolishing primogeniture i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186907:1897041101:0648/pct:42.66645479103766,4.239269018274543,13.284601938662005,4.685507862303442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186907:1897041101:0648/pct:42.65967588179218,4.238818655051524,13.287787310666243,4.688551294309288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1975,7 +1975,7 @@ tablish, adorns his memory no less worth­
 ily than does the Declaration of Inde­  
 pendence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655211:1898071201:0094/pct:57.38562091503268,48.88421052631579,13.744164332399626,2.9614035087719297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655211:1898071201:0094/pct:57.39028944911298,48.887719298245614,13.744164332399626,2.9719298245614034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1999,7 +1999,7 @@ form in which it dhall bo introduced.
   
 Bo that what it may, our descendants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_estlund_ver01:data:sn99063956:00280760389:1899071301:1037/pct:52.10843373493976,47.32201605474405,16.54854712969525,6.816686406106067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_estlund_ver01:data:sn99063956:00280760389:1899071301:1037/pct:39.099610067352,35.49151204105804,12.424672102091456,5.119094617712857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2026,7 +2026,7 @@ who are past nil other scrvlco but
 prayers for tho prosperity ot our conn­  
 y, nnd blessings for those who pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_estlund_ver01:data:sn99063956:00280760389:1899071301:1037/pct:52.232459248759746,54.217660218449794,16.495393338058115,6.395578365574417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_estlund_ver01:data:sn99063956:00280760389:1899071301:1037/pct:39.18823112371499,40.663245163837345,12.38922367954626,4.80326358731412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2061,7 +2061,7 @@ prayers for the prosperity of our
 country, and blessings for those who  
 promote it.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175109:1899071301:0623/pct:48.96755162241888,26.20074777106701,14.412136536030342,10.181190681622088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175109:1899071301:0623/pct:48.97808680994522,26.207937877480585,14.406868942267172,10.188380788035662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -99,7 +99,7 @@ weeks have gone l&gt;y without any new condemnati­
 on. My remonstrances continue to remain unan­  
 swered.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:54.04646413071228,5.214673466030598,20.985448046974724,2.4346109557493008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:54.0326697294538,5.213815789473684,20.986472690148034,2.4383223684210527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ answered.”
 “ P. S. I enclose a copy of my note of yester­  
 day to M. de Chainpagny.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:59.763737247180956,67.77557100297915,17.05745480579918,3.413604766633565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:59.75304223335719,67.76715899218071,17.060367454068242,3.4173182739646686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -128,7 +128,7 @@ Given under my hand this 30th day
 of May, 1804.  
 (Signed) TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804111401:0001/pct:1.267255035075809,54.60442814835707,18.64675265897262,24.96121844591736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804111401:0001/pct:1.282341404540997,54.60912894279133,18.639209474240023,24.96591924035162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ May 1304. &#x27;
 .Sigucd&#x27; _ _  
 &#x27;TH: IEFF&#x27;ERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804111601:0516/pct:27.42977317109809,54.947405954715634,23.764458464773924,27.455874487430915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804111601:0516/pct:27.42565334935416,54.942508244941614,23.765895664363672,27.456398371809726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ Cr-&#x27;ii ttttd- r ant he:id, thin SC;&#x27;h dm cf
 Men, !%!.  
 (Signed) Tii: Jkr1t.usox
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804111901:0221/pct:75.16883116883118,41.5932092719556,22.38961038961039,15.687234737185765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804111901:0221/pct:75.14931186704752,41.586420760567975,22.390288236821604,15.688754692345357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ Given under my hand this noth day of May,
 (Signed)  
 TI-I : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804112101:0233/pct:6.112424959068583,55.96125186289121,17.518646534473348,16.977148534525583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804112101:0233/pct:6.111313204801746,55.95430274431889,17.521522978052626,16.97917960180471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ Given u: der my hand this 30th day of
 May, 1804,  
 (Signed) TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804112101:0357/pct:23.88541073800038,49.30074500065351,17.9093151204705,21.252123905371846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804112101:0357/pct:23.880880121396054,49.29430214323053,17.91224076884168,21.253702735668234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ Given under my hand this 3oth day
 of May, 1804. :  
 ~ (Signed) Tu - Jerrerson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804112701:0604/pct:43.838604143947656,5.684655271749568,16.513475619255335,22.39293259074323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804112701:0604/pct:43.84379706080906,5.684655271749568,16.513475619255335,22.396133410153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ Given under my hand this joth
 day of May, 1804. :  
 &quot; (Signed) TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804112801:0601/pct:11.914731633041493,24.612049292560474,20.784164446136277,27.727065267001368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804112801:0601/pct:11.927420378124603,24.615852730868706,20.77782007359472,27.727065267001368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ of May 1804.
 ‘ Signed , ■, . - • r —  
 til.* JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804113001:0338/pct:48.11965811965812,57.054455445544555,21.48148148148148,25.636492220650638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804113001:0338/pct:48.105952720022785,57.04436980731837,21.48248362289946,25.636379706558248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +526,7 @@ oue : and do also designate ho t Stoudert within the district
 (Signed^  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804121001:0253/pct:28.280254777070063,83.12510141165016,21.579617834394906,12.850884309589485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804121001:0253/pct:28.2730514518594,83.11161583387411,21.580489047376464,12.852855288773524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

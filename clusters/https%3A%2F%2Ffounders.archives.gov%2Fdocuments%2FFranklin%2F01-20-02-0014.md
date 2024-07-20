@@ -112,7 +112,7 @@ your Kindness shall ever be gratefully
 remembered and your donation be  
 made the best use of.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768832:1898112901:0252/pct:56.36890512788207,45.641402092126995,12.422829784553358,5.450541383740136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768832:1898112901:0252/pct:56.36890512788207,45.64751942252401,12.422829784553358,5.447482718541629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ ise, that your Kindness shall ever be
 gratefully remembered and your do­  
 nation he made the best use of.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1898120101:0380/pct:46.75915889876436,47.53376840188192,17.450682852807283,8.468659887691608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1898120101:0380/pct:36.243489947919585,36.842311612953814,13.524108192865542,6.559240962910688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ promise, that your Kindness shall ever be
 gratefully remembered and your donation  
 be made the best use of.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479925:1898121401:0416/pct:5.138466463902673,36.124082721814545,13.990715543460862,5.537024683122081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479925:1898121401:0416/pct:5.138466463902673,36.131495070787935,14.001387332586308,5.5444370320954715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ ise, that your Kindness shall ever be
 gratefully remembered and your do­  
 nation be made the best use of.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_juanita_ver01:data:sn84002889:0051368101A:1898122201:0587/pct:32.34427195912753,83.7488457987073,12.438593043820005,6.786703601108033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_juanita_ver01:data:sn84002889:0051368101A:1898122201:0587/pct:32.35409707211633,83.756540473992,12.443505600314404,6.77900892582333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ ise, that your Kindness shall ever be
 gratefully remembered and your do?  
 nation be made the best use of.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_navy_ver01:data:sn95079154:00175031236:1899031601:0451/pct:37.808300103382074,55.40102478301788,11.918475852902082,6.211439924709819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_navy_ver01:data:sn95079154:00175031236:1899031601:0451/pct:37.818146014867324,55.40451043954129,11.928321764387338,6.214925581233225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

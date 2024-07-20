@@ -45,7 +45,7 @@ proceeding in suits in thofc of common law shall be the lame as
 are now used in the said courts refpeftivciv in pursuance of the  
 ast, entitled, &quot; An ad to regulate processes in the courts of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792053001:0001/pct:7.744733581164808,25.297619047619047,27.44733581164808,11.130952380952381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792053001:0001/pct:7.760223048327138,25.307539682539684,27.439591078066915,11.130952380952381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,7 +74,7 @@ maritime jurifditfion according to;the principles
 rules and usages which belong to courts of   
 and to courts ot admiralty itl, edli vely, as contr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792061801:0004/pct:9.26039119804401,23.431124927142026,20.110024449877752,9.500680007771518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792061801:0004/pct:9.275672371638143,23.431124927142026,20.110024449877752,9.520108801243444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ certificates with the seal of the Court
 and the signature of the clerk, and al­  
 lowed the Democratic Ward Commit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1880092301:0669/pct:248.40055632823365,218.16795832803965,42.55910987482615,16.008131114216745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1880092301:0669/pct:62.11093722830812,54.54198958200991,10.641627543035995,4.002032778554186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

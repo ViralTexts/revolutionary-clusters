@@ -417,7 +417,7 @@ write to Temple. This is all the paper I have, and
 it is Sunday. Remember me to dear Ben. I long  
 for another little F&#x27;rench letter.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859082301:0187/pct:74.08402885839581,18.710402615982016,11.03409251662187,31.02391171060699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859082301:0187/pct:74.09345970670061,18.71380884256421,11.029377092469467,31.030724163771374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ let me know. The last person to whose care
 they were given left them to a hair-dresser&#x27;s,  
 with dircctions not to send them to me till he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090601:0227/pct:57.31843575418994,187.50695913595368,35.69832402234637,26.233158890992094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090601:0227/pct:14.333612740989103,46.87673978398842,8.92707460184409,6.5582897227480235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ paper I have, and it is Sunday. Remember
 me to dear Ben. I long for another little  
 French letter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090601:0227/pct:51.1731843575419,122.16902349404297,76.87150837988827,196.23649927624987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090601:0227/pct:12.796870634255379,30.542255873510744,19.223246716960045,49.05912481906247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

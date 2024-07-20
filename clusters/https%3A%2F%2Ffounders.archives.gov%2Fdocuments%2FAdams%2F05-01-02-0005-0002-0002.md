@@ -63,7 +63,7 @@ idence, Ilou-ewright-—in a plea of the case—
 for that the said Tebey, on the day of the pur­  
 chase of this writ, being indebted to the Plain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1837072601:0268/pct:48.272138228941685,4.274854378517129,14.578833693304535,9.635699476749926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1837072601:0268/pct:48.27663786897048,4.274854378517129,14.583333333333334,9.642281238687596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ fore our Justices of our Courr or Commoxn
 Preas, next to be holden at Tauuton, within  
 and for said County of Bristol on the secon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1837072901:0272/pct:63.18175756767569,4.004318382569438,14.601946926256835,7.65531455491216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1837072901:0272/pct:63.19064764190781,4.004318382569438,14.610837000488955,7.661857558805248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ Tobey (if he may be found in your precinct)
 and Lim safely keep, so that you have him be­  
 fore our Justices of our Couvrr oy CoMMo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1837080201:0277/pct:37.64325198867466,6.1472200469851215,14.561143319401376,6.391934220830071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1837080201:0277/pct:37.64325198867466,6.150482902636387,14.57013167947508,6.398459932132602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ fore our Justices of our Courr or Common
 Preas, next to be holden at Taunton, within  
 and for said County of Bristol on the secon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1837080501:0281/pct:52.01133909287257,5.433605669849395,14.835313174946004,7.579486169898612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1837080501:0281/pct:52.02033837293016,5.440167995537618,14.835313174946004,7.579486169898612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ fore our Justices of our Courr or Common
 Piras, next to be holden at Taunton, withine  
 and for said County of Bristol on the second
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1837080901:0285/pct:80.9255374934452,4.604691572545613,14.446775039328788,8.099237378125302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1837080901:0285/pct:80.92990735885334,4.604691572545613,14.451144904736934,8.105673005759886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ fore our Justices of our Courr or Coxox
 Prras, next to be holden at Taunton, within  
 and for said County of Bristol on the secon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1837081201:0289/pct:50.659010831267125,7.208962493911349,14.276393057549262,6.468582562104237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1837081201:0289/pct:50.659010831267125,7.208962493911349,14.280742964026274,6.475077122909563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ ntonwMlth, snd for more than twelve yeara now iaat
 past has been and atill is a preacher and minister ef  
 the (ioepel. legally settled nnd ordsined over th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743129:1838011601:0074/pct:3.7710208934941396,91.00401606425703,18.668252080856124,7.355134825014343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743129:1838011601:0074/pct:3.7710208934941396,91.00784088735897,18.668252080856124,7.355134825014343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ Which is to the Damage of the faid Eliza­
 beth Hatch. (as fhe faith) the Sum of  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:0027952407a:1882011701:0020/pct:61.659555686332205,207.44023083264634,38.10504634397528,42.64220939818632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:0027952407a:1882011701:0020/pct:20.550161812297734,69.13961875321999,12.699813670687456,14.21260518633007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ We command you to arreft the Body of
 Refolved Waterman of Warwick in the  
 County of Providence Mariner (if h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153036:1896121101:0470/pct:14.986458019861571,8.352420216826996,11.274952352292106,3.443273782256833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153036:1896121101:0470/pct:14.989801718661184,8.354965134626152,11.278296051091719,3.440728864457678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

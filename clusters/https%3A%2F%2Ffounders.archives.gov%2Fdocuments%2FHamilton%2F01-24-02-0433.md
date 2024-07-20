@@ -33,7 +33,7 @@ receives his discharge to the place of his re­
 sidence, computing at the rate of twenty  
 miles to a day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800031401:0002/pct:28.144016227180526,78.80144653004994,15.821501014198782,3.788531083175478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800031401:0002/pct:28.150354969574035,78.8143619769244,15.84051724137931,3.784225934217324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -54,7 +54,7 @@ of difchargeto the place of his resi­
 dence, computing at therate of twen­  
 ty miles to a day. e L B 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802051101:0076/pct:24.649204864359213,2.1743486973947896,16.495166822575616,5.110220440881764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802051101:0076/pct:24.649204864359213,2.177688710754843,16.505560752520527,5.113560454241817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -73,7 +73,7 @@ him to travel fiom the place; of dicchc-py to the
 i place of his r. M ds nee, Cetf.putir.g at the rate  
 1 Ot twenty rr.ilts 11 a day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812013001:0039/pct:40.18394057304563,89.96832101372756,17.049876193845066,2.663381438460636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812013001:0039/pct:40.17683465959328,89.95776630689816,17.05275567344533,2.6669795088377914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ ficient tor him to travel from the place of dis­
 charge to the place of his residence, compu­  
 ting at the rate of twenty miles to a day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812020501:0561/pct:29.53686200378072,64.21146421146422,21.12476370510397,6.207306207306208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812020501:0561/pct:29.547363999159842,64.21806421806421,21.135265700483092,6.204006204006204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ sufficient for him to travel from the place of
 discharge to the place of his residence, com­  
 puting at the rate of twenty miles to a day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812021101:0349/pct:23.94727206151593,60.66961000735835,17.502746246796047,2.8820210939416238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812021101:0349/pct:23.942888522789676,60.66217044757817,17.505644029532004,2.885755160433272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ e of discharge to the place of his residence, computing at the rate of o
 e twenty milea a day.&quot;  
 eoeeoee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_indianplum_ver02:data:sn87093407:00211107285:1899102501:0793/pct:126.35237888333695,323.3742045630917,97.08885509450359,9.095142014589477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_indianplum_ver02:data:sn87093407:00211107285:1899102501:0793/pct:31.58809472083424,80.84355114077293,24.272213773625896,2.2737855036473693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

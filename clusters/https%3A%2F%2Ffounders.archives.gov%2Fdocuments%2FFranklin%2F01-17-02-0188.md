@@ -815,7 +815,7 @@ sination, and by dividing the shame
 among them ii is so little apiece that  
 none mind it.v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_isley_ver01:data:sn88076514:00295863808:1887010101:0375/pct:6.039273805113004,40.51929824561404,11.80066691367173,4.968421052631579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_isley_ver01:data:sn88076514:00295863808:1887010101:0375/pct:6.0439051500555765,40.526315789473685,11.79603556872916,4.964912280701754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -849,7 +849,7 @@ ashamed of doing injustice; * **&#x27;
 by dividing the shame among them  
 it is so little apiece that no one mind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550768:1887011201:0252/pct:15.816245429979336,69.92234496335995,13.01859799713877,15.946625833971344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550768:1887011201:0252/pct:15.816245429979336,69.92234496335995,13.02389657182218,15.957563163075577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -904,7 +904,7 @@ if it is strong enough. It cannot apprehend tuuiait­
 sinatlon, and by dividing the shame amougeo many  
 it Is so little apiece that no ono minds it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102949:1889072501:0037/pct:40.776955602537,64.34332370805537,16.582980972515855,2.877626207308573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102949:1889072501:0037/pct:30.597409463388846,48.262471373095686,12.437219138250066,2.1607089515085134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

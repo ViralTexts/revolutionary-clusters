@@ -85,7 +85,7 @@ ded to the high opinion entertained by
 congress, of his merits and military ta*  
 lents.”—When he was about to take hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823080701:0127/pct:74.37407952871871,67.73162939297124,16.81043551441195,9.695791082094736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823080701:0127/pct:74.35843500210349,67.72222222222223,16.812158182583087,9.697916666666666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ gallantry and address in its defence, have greatly ad­
 ded to the high opinion entertained by Congress of  
 hi« merit and military talents.&quot; During his militar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824083101:0134/pct:22.177354223873365,17.680562287930197,14.924890970764013,4.0475036354823075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824083101:0134/pct:22.17377260981912,17.678419968496303,14.92786391042205,4.051052142655196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

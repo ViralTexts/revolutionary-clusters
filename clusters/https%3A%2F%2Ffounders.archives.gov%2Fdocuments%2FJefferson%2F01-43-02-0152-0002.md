@@ -64,7 +64,7 @@ they may be employed : Provided, That exclusive ot an outfit,
 which (hall in no cafe exceed the amount of one year&#x27;s full salary  
 to the minister plenipotentiary or charge des affaires to who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790070701:0002/pct:38.20754716981132,21.034959510171834,27.547169811320753,11.455658700375272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790070701:0002/pct:38.215408805031444,21.03989729409441,27.562893081761008,11.48034761998815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ in foreign parts, and for the expense inci­
 deut to the bufirtefs in which they may be  
 employed : Provided, that, exclusive of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032101:0002/pct:45.02154683601724,34.49781659388646,15.468360172374688,2.940320232896652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032101:0002/pct:45.03288727602631,34.50509461426492,15.47970061238376,2.954876273653566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ cles were expressive of the friendly disposi­
 tion that then prevailed between the great con­  
 tracting parties, and in point
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808100501:0140/pct:25.773453093812375,51.74813855616704,20.55888223552894,13.240530916154094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808100501:0140/pct:25.76702419555999,51.73976371581162,20.55999002244949,13.242434050817284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ ployed. Provided, That, exclusive of an outfit,
 ; year s full salary to the Minister Plenipotentiary  
 or C barge dcs Affaires, to whom the same may b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828022101:0393/pct:34.562359730682914,16.89156626506024,15.469701827508818,3.9518072289156625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828022101:0393/pct:34.556820003205644,16.889531381761234,15.472565047817492,3.9553467453720437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ tion are these: ‘‘He shall have power, by &amp;. with the
 “The President shall have power to fill xrp all va­  
 cancies (lint tmy happen during the recess of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831042901:0153/pct:10.01674531892221,22.19279051019233,16.943218145836504,7.4167914315328805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831042901:0153/pct:10.015220700152208,22.190234914785812,16.945712836123796,7.419775832949486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

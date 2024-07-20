@@ -151,7 +151,7 @@ c. may be paid during the course of its own
 le existence.  
 l-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793022301:0003/pct:26.901547579848536,50.83932853717026,22.884425419822193,21.942446043165468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793022301:0003/pct:26.909779387553506,50.83932853717026,22.90912084293711,21.952438049560353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ principles of every government.&quot; The whig pa­
 pers now say that Mr. Jefferson&#x27;s principles were  
 &quot;absurd, mischievous and destructive.&quot; Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841082501:0139/pct:22.975206611570247,21.571314377069772,20.41322314049587,7.685280347150851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841082501:0139/pct:17.238528317486566,16.181340641772298,15.32313628221028,5.7668151193331045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ ture revenue out of the public lands. Andrew
 JACKSON.  
 eag For cnress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853052001:0479/pct:21.96349905601007,35.55663943421534,52.17117684078036,17.80270698695281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853052001:0479/pct:5.493467653077286,8.889159858553835,13.048953250432866,4.4506767467382025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ ing.&quot;--THONAS JErFERSON.
   
 opportunity of secaring an independent frechold, i o  e o o ee ae oe 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853052501:0495/pct:20.025268477574226,35.669724770642205,103.72710044219836,13.357798165137615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853052501:0495/pct:5.0063171193935565,8.917431192660551,25.93177511054959,3.3394495412844036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ opportunity of secaring an independent frechold, i o  e o o ee ae oe
 &quot;I set out on this ground, which I suppose to be self.  
 evident, that the earth belongs, in usufruct, to the le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853060201:0523/pct:20.037570444583594,39.88002399520096,53.66311834690044,3.839232153569286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853060201:0523/pct:5.010176921872554,9.97000599880024,13.417880068889932,0.9598080383923215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ scems to me best to abandon the idea of raising a fu­
 ture revenue out of the public lands.&quot;  Andrew  
 JAckson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853060401:0531/pct:21.508034610630407,34.4869166767153,51.17428924598269,18.23224406125648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853060401:0531/pct:5.378670788253477,8.621729169178826,12.797527047913446,4.55806101531412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ seems to me best to abandon the idea of raising a fu­
 ture revenue out of the public lands.&quot; Andrew  
 JACKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853060501:0535/pct:26.037735849056602,33.087791329549574,50.81761006289308,14.104576741939379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853060501:0535/pct:6.511481597986788,8.271947832387394,12.708398867568418,3.5261441854848448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ seems to me best to abandon the idea of raising a fu-
 ture revenue out of the publicy lands.&quot;  Andrew  
 JAcESon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853061001:0551/pct:23.672704559650217,39.46102021174206,52.09244222361024,14.24446583253128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853061001:0551/pct:5.920949851585689,9.865255052935515,13.02921418528355,3.56111645813282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ ewident, that the earth belongs, in usufrnct, to the lin­
 ang.Toas eeson  
 Th aford every merican citizen of enterprise th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853061101:0555/pct:18.291905672402805,32.13469633193024,51.75270873167623,10.438965724594107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853061101:0555/pct:4.572976418100701,8.03367408298256,12.938177182919057,2.6097414311485267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ seems to me best to abandon the idea of raising a fu­
 ture revenue out of the public lands.&quot; Andrew  
 JAcKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853061201:0559/pct:20.859277708592778,32.92697646348823,50.37359900373599,14.194327097163548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853061201:0559/pct:5.2148194271481945,8.231744115872058,12.593399750933997,3.548581774290887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ JAcKSON
 evidont, that the earth belongs, in usufruct, to the ht­  
 ing.&quot;-THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853061401:0563/pct:26.971214017521902,35.98699265325786,49.812265331664584,5.588341563290377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853061401:0563/pct:6.74491392801252,8.996748163314464,12.456964006259781,1.3970853908225942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ seems to me becd to adundon the ilea of ruising a are
 revenue out of the public lands.&quot; Andrew  
 JACESON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853061601:0571/pct:19.22110552763819,32.01542912246866,51.50753768844221,17.020250723240117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853061601:0571/pct:4.805276381909548,8.003857280617165,12.876884422110553,4.255062680810029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ JACESON
 &quot;I set out on this ground, which I suppose to beself­  
 evident, that the carth belongs, in usufruct, to the hu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853061701:0575/pct:21.38364779874214,37.28813559322034,50.691823899371066,4.019370460048426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853061701:0575/pct:5.34675263406196,9.322033898305085,12.674948891335115,1.0048426150121066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ evident, that the carth belongs, in usufruct, to the hu
 .  
 evident, that the earth belongs, in usufruct, to the lev
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853061801:0579/pct:15.962145110410095,37.9530403371463,52.618296529968454,3.9494280553883203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853061801:0579/pct:3.9924254379043713,9.488260084286575,13.160801641155121,0.9873570138470801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ evident, that the earth belongs, in usufruct, to the lev
 &quot;I set out on this ground, which I suppose to  
 evident, that the earth belongs, in usnfruct, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853061901:0583/pct:15.812776723592663,36.46060606060606,44.402277039848194,3.7818181818181817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853061901:0583/pct:3.9544447959506486,9.115151515151515,11.104080987029421,0.9454545454545454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ seems to me best to abandon the idea of raising a fu
 ture revenue out of the public lands.&quot; Andrew  
 Jaso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853062501:0603/pct:23.8332296204107,36.08658846293385,50.902302426882386,17.84980045954771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293150:1853062501:0603/pct:5.961089494163424,9.021647115733462,12.731517509727626,4.462450114886927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ Iset out on this ground, which I suppose to beself-
   
 evident, that the earth belongs, in usufruct, to the liv-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853070701:0021/pct:23.3921815889029,16.135265700483092,53.15258511979823,18.93719806763285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853070701:0021/pct:5.850812174735846,4.033816425120773,13.29443305472323,4.734299516908212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ t.
  evident, that the earth belongs, in usufrnct, to the liv.­  
 ing.- ThoNas Jerrenson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853070901:0029/pct:18.6875,34.064080944350756,54.3125,6.889906046735726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853070901:0029/pct:4.6726050945460225,8.516020236087689,13.580246913580247,1.7224765116839316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ ing.- ThoNas Jerrenson
 evident, that the earth belongs, in usufruct, to the lin­  
 ing.&quot;---THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853071201:0037/pct:21.04930467762326,41.72434729811779,50.37926675094817,5.585913782635094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853071201:0037/pct:5.263989883022447,10.431086824529448,12.598798608915587,1.3964784456587735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ Col. Jounsox proposes no change in the appoint­
 ment of Judges of the Supreme Court except to  
 limit the time of their holding office. They no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853071301:0041/pct:20.747663551401867,35.970873786407765,51.651090342679126,36.89320388349515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853071301:0041/pct:5.187723944539648,8.992718446601941,12.914784234304408,9.223300970873787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ evidenf, that the earth belongs, in usufruct, to the tes
 ing.&quot; ThoMas JerFerson.  
  o e ean cien o ate t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853071401:0045/pct:19.247648902821318,38.671875,52.16300940438872,7.91015625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853071401:0045/pct:4.813421135152085,9.66796875,13.044841643148322,1.9775390625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ ing.&quot; ThoMas JerFerson.
 evident, that the earth belongs, in usufruct, to the liv­  
 ing.&quot;--THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853071601:0053/pct:21.43302180685358,35.766863762519606,50.77881619937695,5.26125256425727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853071601:0053/pct:5.359925210345902,8.941715940629901,12.698660018697414,1.3153131410643175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ IETHOR OF THE HOUESTEIn.
 &quot;I set out on this ground, which I suppose to beself  
 that the earth belongs, in usufruct, to the liv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853071701:0057/pct:23.370927318295738,28.64376130198915,47.744360902255636,7.4743821579264615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853071701:0057/pct:5.8454787650838425,7.160940325497288,11.941701927597554,1.8685955394816154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ that the earth belongs, in usufruct, to the liv
 evident, that the eorth belongs, in asutfruct, to the liv­  
 ang.&quot; THoMAs JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853072301:0077/pct:22.884012539184955,35.08771929824562,50.156739811912225,5.323653962492438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853072301:0077/pct:5.7227971150830985,8.771929824561404,12.543116964565694,1.3309134906231095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -737,7 +737,7 @@ AETHeR oF THE IEsTED.
 evident, that the earth belongs, in usufruct, to the lit­  
 ing.&quot;--THONAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853072401:0081/pct:21.246105919003114,30.257769212238014,49.59501557632399,8.913514815707059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853072401:0081/pct:5.311526479750778,7.564442303059503,12.398753894080997,2.2283787039267646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ evident, that the earth belongs, in usufruct, to the liv
 ing.&quot;--THOMAS JEFFERSON.  
 &quot;T afford every American citizen of enterprise the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853072701:0089/pct:22.504767959313416,35.9626802374894,51.68467895740623,7.173149157881983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853072701:0089/pct:5.628875814914931,8.99067005937235,12.927333439338527,1.7932872894704956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ cems to me best to abundon the idea of raising a fu­
 ture revenue out of the public lands.&quot;  Andrew  
 Jackson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853073101:0105/pct:21.9573400250941,33.20062733743516,51.63111668757842,17.854988539027627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853073101:0105/pct:5.490196078431373,8.30015683435879,12.909803921568628,4.463747134756907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ AETHR OF THE hOMESTEAD.
 I set out on this ground, which I suppose to beself-  
 oident, that the earth belongs, in usufruct, to the li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853080301:0113/pct:24.172392254840723,30.17148339129392,51.46783260462211,7.962585441899508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293162:1853080301:0113/pct:6.043098063710181,7.54287084782348,12.866958151155528,1.990646360474877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ ince we do not owe a shilling which will not
 be paid, principal and interest, by the moas  
 ures you have taken, within our own lives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293149:1876103101:0416/pct:75.18756698821008,214.7488874761602,37.40621650589496,8.094935367662641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293149:1876103101:0416/pct:18.79941042476216,53.68722186904005,9.352807182098353,2.0237338419156603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -856,7 +856,7 @@ No generation can contract debts greater
 han may be paid during the course of its  
 Y  
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779568:1879030601:0177/pct:128.0420353982301,328.21444797819174,41.3716814159292,10.40436165379373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779568:1879030601:0177/pct:32.02379305574768,82.05361199454794,10.347212615852815,2.6010904134484325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -945,7 +945,7 @@ oblige the lands he occupled, or the persors
 who succeed him in that occupation, to  
 the payment of debts contracted by him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899112401:0726/pct:138.6539868324799,198.56098675194153,37.820043891733725,12.357240749200548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899112401:0726/pct:46.21799561082663,66.1869955839805,12.606681297244574,4.119080249733516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

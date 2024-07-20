@@ -33,7 +33,7 @@ other in the mind of every American, it
 is that we should have nothing to do with  
 conquest.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848011301:0981/pct:216.7559296097934,242.3959548813691,57.15378729915838,14.624659665499806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848011301:0981/pct:54.18898240244835,60.59898872034228,14.288446824789595,3.6561649163749514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -52,7 +52,7 @@ to be more deeply rooted than another in the
 mind of every American, it is that we should  
 have nothing to do with conquest.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1848020501:0616/pct:81.84853543785097,56.89195197865718,14.205494005160116,2.200978212538906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1848020501:0616/pct:81.85359437446249,56.895657329183344,14.205494005160116,2.204683563065066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ denunciation of the doctrine that territory
 should be acquired by force. If it is said  
 that we have outgrown the ideas of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86071197:0017503495A:1898122601:0658/pct:47.12,113.25869180907483,51.6,19.858573954036537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86071197:0017503495A:1898122601:0658/pct:11.782356471294259,28.314672952268708,12.902580516103221,4.964643488509134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ written than any other in the mind of
 every American, it is that we should  
 have nothing to do with conquest.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892125:1898122901:0631/pct:5.566438132549788,37.45169482168488,14.185439111981717,2.0536601523683338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892125:1898122901:0631/pct:5.57732070954402,37.45169482168488,14.190880400478834,2.0536601523683338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ ten than any other In the minds of every Ameri­
 can, It Is that we should have nothin* to do with  
 conquest.&quot; Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896829:1899042101:0093/pct:4.209583519928348,7.799727520435967,10.994178235557547,3.0483651226158037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896829:1899042101:0093/pct:4.208641146183121,7.798399455133662,10.997313633310947,3.0521028435211988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

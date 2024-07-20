@@ -1718,7 +1718,7 @@ probation of military or naval exploits.
 Which are not immediately connected  
 with the defence of our sea coast and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824012801:0081/pct:25.35485125413183,109.9323753169907,18.393933501847172,15.567765567765568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824012801:0081/pct:19.650391802290535,85.19799097394089,14.26059875426964,12.072354054447517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1993,7 +1993,7 @@ becoming a moral and religious people to express any
 approbation of military and naval exploits not directly  
 connected with the defence of our seacoast and soil.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861030901:0597/pct:208.06114239742558,202.41627331984716,45.438455349959774,8.136659923578332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861030901:0597/pct:69.35371413247519,67.47209110661572,15.146151783319924,2.7122199745261106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2015,7 +2015,7 @@ ligious people to express any approbation of military
 r naval exploits which are not immediately con  
 nected with the defence of our seacoast and soil.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861061201:0560/pct:161.60361377752682,223.2421052631579,45.059288537549406,11.284210526315789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861061201:0560/pct:40.41231290595877,55.810526315789474,11.2680033888732,2.8210526315789473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2031,7 +2031,7 @@ nected with the defence of our seacoast and soil.
 &quot;That in a war like the present, waged without  
 justifiable cause, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022652:1861080701:0556/pct:48.9385065885798,83.89819670034531,19.472913616398245,1.2405678475508377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022652:1861080701:0556/pct:36.73319904779344,62.923647525258986,14.612708295184031,0.9336232254764036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2079,7 +2079,7 @@ if express any approbation of military and
   
 a as*a. o naval exploits not immediately connect-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1864081701:0711/pct:67.80468951301211,22.4580658521433,16.464828652409174,3.2511907227169186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1864081701:0711/pct:67.80898393884738,22.4580658521433,16.460534226573905,3.2615448332988195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2148,7 +2148,7 @@ people to express any approbation of minitary
 or naval exploits which are not immediately  
 connected with the defense of our seacoast o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475300:1879080301:0025/pct:109.96860282574568,202.01612903225808,44.976452119309265,11.733870967741936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475300:1879080301:0025/pct:36.65620094191523,67.33870967741936,14.992150706436421,3.911290322580645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

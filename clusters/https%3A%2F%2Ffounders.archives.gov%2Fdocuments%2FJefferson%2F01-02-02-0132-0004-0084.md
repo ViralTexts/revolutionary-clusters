@@ -81,7 +81,7 @@ sonment or amercement at the discretion of a
 Jury.”  
 Fr.if.vo Pleasants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811102401:0349/pct:22.89400921658986,13.451966152314585,18.17511520737327,9.731209556993528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811102401:0349/pct:22.889789900479176,13.450292397660819,18.17790883400909,9.734146240305256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ ing every apprentice, servant, or slave so
 employed, and every day Hp shall be so  
 employed, as constituting a distinct of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824082601:0375/pct:19.579500657030223,6.563100017455053,18.06103080741714,9.713737126898238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824082601:0375/pct:19.576642335766422,6.562527271140588,18.063260340632603,9.715798353550339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ be fined the sum of one dollar for every of­
 fence, deeming every apprentice, servant,  
 or slave so compelled as constituting a dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1835122501:1024/pct:39.29637526652452,48.55643044619423,17.803837953091683,10.30529078602017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1835122501:1024/pct:39.287998294606695,48.549723756906076,17.807148440275704,10.308471454880294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ ef necessities or charity, ho shall he stibjnrt to a,
 line of two dollars for every&#x27; such offence deeming  
 every apprentice, servant or slave so employed a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065417:00295878228:1838010601:0087/pct:3.0361757105943155,110.2032293986637,23.363479758828596,9.312360801781738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065417:00295878228:1838010601:0087/pct:2.2830066767176396,82.65590200445435,17.531768253284515,6.987750556792873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ fine of two dollars for c .-ery S&#x27;ich off &#x27;nee deeming
 every apprentice, servant or slave so employed as  
 constituting a distinct offence. , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065417:00295878228:1838012001:0091/pct:26.767241379310345,29.633286318758817,21.810344827586206,13.187588152327221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065417:00295878228:1838012001:0091/pct:20.090536753610692,22.22849083215797,16.361284759646477,9.901269393511988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ fine of two dollars for every such oft nee deeming
 every apprentice, servant or slave so employed as  
 constituting a distinct offence. &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065417:00295878228:1838012701:0095/pct:24.21121822962314,50.62831611281765,22.12971078001753,7.1209159452666855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065417:00295878228:1838012701:0095/pct:18.17185444980272,37.978218374755656,16.615519508987287,5.3476682490924325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ every such offence; deenling every apprentice, servant or
 slave, so employed, and every day he shall be so employed,  
 as constituting a distinct offence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845073101:0642/pct:91.00335913538775,112.0464952448045,38.52782240397254,14.171656686626747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845073101:0642/pct:30.33002336448598,37.34444705329889,12.840732087227414,4.723330985364327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ ness, except it be in the ordinary household offices
 of daily necessity, or other work of necessity, or  
 i charity, within the City of Richmond, he shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845080101:0280/pct:31.625074272133094,20.994633959371406,13.680926916221035,5.854733614411652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845080101:0280/pct:31.625074272133094,20.994633959371406,13.685878391760745,5.864315829819854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ I mond, for every such offence; deeming every ap­
 day he shall be so employed, as constituting adis­  
 | tinct offence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845080101:0280/pct:31.65478312537136,27.836335760827904,13.591800356506239,1.983518589497892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845080101:0280/pct:31.66468607645078,27.84272390443337,13.581897405426817,1.986712661300626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ slaves, in labor or other business, except it be in the ordinary house­
 hold offices of daily necessity, or other work of necessity or chari  
 ty, within the City of Richmond, he or she shall forfeit a sum no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845081401:0686/pct:133.93093313739897,64.83279395900755,38.28067597354886,6.340644851971713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845081401:0686/pct:44.63708492506612,21.608341323106423,12.758350475071015,2.113294982422499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ of said City of Richmond, for every such offence; deeming every
 apprentice, servant, or slave, so employed, and every day he or she  
 shall be so employed, as constituting a distinct offence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845081401:0686/pct:133.8868479059515,73.21107515282273,38.19250551065393,3.212273762435575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845081401:0686/pct:44.6223920070526,24.400767018216683,12.728964639043982,1.070629594119527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ slaves in &#x27;abor or other buriness, except it be in the ordinary houre
 hold offices of daily necessity, or other work of necessity or chart  
 ty, within the City of Richmond, he or she shall forfeit a sum no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845081501:0690/pct:254.76435178387902,86.86725663716814,38.335046248715315,7.339233038348082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845081501:0690/pct:84.90898414562537,28.95233600755073,12.776472890976708,2.4461223847726914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -624,7 +624,7 @@ of said City of Richmond, for every such offence; deeming every
 apprentice, servant, or slave, so employed, and every day he or she  
 shall be so employed, as constituting a distinct offenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845081501:0690/pct:254.72030538834238,96.10619469026548,38.37909264425195,3.162241887905605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845081501:0690/pct:84.89430416911333,32.031618688060405,12.791152867488746,1.053956268680195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ slaves, in labor or other business, except it be in the ordinary house
 hold offices of daily necessity, or other work of necessity or chari­  
 ty, within the City of Richmond, he or she shall forfeit a sum no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845081601:0694/pct:255.2551242913214,75.30434782608695,37.65082134031109,7.107246376811594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845081601:0694/pct:85.07267441860465,25.09853929979133,12.5484496124031,2.3688074812582114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ of said City of Richmond, tor every such offeace; deeming every
 apprentice, servant, or slave, so umployed, and every day he or she  
 shall be so employed, as constituting a distinct offence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845081601:0694/pct:255.21151330135194,84.59130434782608,37.69443233028056,2.933333333333333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845081601:0694/pct:85.05813953488372,28.19383259911894,12.562984496124031,0.9776644253806323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ slaves, in tabor or other business, except it be in the ordinary house
 hold offices of daily necessity, or other work of necessity or chart  
 ty, within the City of Richniond, he or she shall forfeit a sum no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082001:0706/pct:214.3918426802622,79.02903491242506,38.38310269482884,7.135300340895733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082001:0706/pct:71.45353917856103,26.339915373765866,12.792504126614235,2.3781538943739227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ of said City of Richmond, for every such offeace; deeming every
 apprentice, servant, or slave, so employed, and every day he or she  
 shall be so employed, as constituting a distinct offence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082001:0706/pct:214.3481427530954,88.37428000470202,38.38310269482884,2.9387563183260843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082001:0706/pct:71.43897465773377,29.454630935590032,12.792504126614235,0.9794703024604294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ slaves, in tabor or other buriness, except it be in the ordinary house
 hold offices of daily necessity, or other work of neceesity or chan  
 ty, within the City of Richmend, he or she shall forfest a sum no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082201:0715/pct:210.71845794392524,266.6588179891688,38.52219626168224,7.287497056745939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082201:0715/pct:70.22923054460504,88.875809299588,12.838857254100356,2.428879733176378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ of said City of Richmond, for every such offence; deeming every
 apprentice, servant, or slave, so employed, and every day he or she  
 shall be so employed, as constitiiting a distinct offenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082201:0715/pct:210.71845794392524,276.0890040028255,38.56600467289719,3.1198493053920413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082201:0715/pct:70.22923054460504,92.0188346085933,12.85345792573125,1.0398273494212282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -759,7 +759,7 @@ slaves, in tabor or other bu iness, except it be in the ordinary house
 hold offices of daily necessity, or other work of necescity or charl  
 ty, within the City of Richinond, he or she shall forfeit a sum no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082301:0718/pct:173.31440738112136,219.3447194144301,37.40241305890703,7.191820611130475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082301:0718/pct:57.76326994039171,73.1064126394052,12.465701580092723,2.396995043370508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -776,7 +776,7 @@ of said City of Richmond, for every such offence; deeming every
 apprentice, servant, or slave, so employed, and every day he or she  
 shall be so employed, as constituting a distinet offenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082301:0718/pct:173.31440738112136,228.72080864412686,37.44499645138396,3.009178575578018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082301:0718/pct:57.76326994039171,76.2314126394052,12.479894029709527,1.0029429987608427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,7 +797,7 @@ slaves, in labor or other business, except it be in the ordinary house­
 hold offices of daily necessity, or other work of necessity or charl­  
 ty, within the City of Richmond, he or she shall forfelt a sum no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082701:0730/pct:256.3692398004109,105.0932989085788,38.53830349280892,7.123577044947776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082701:0730/pct:85.44387380777697,35.026988969725416,12.844216189777452,2.37424704685911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ of said City of Richmond, for every such offeace; deeming every
 apprentice, servant, or slave, so employed, and every day he or she  
 shalf be so employed, as constituting a distinct offence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082701:0730/pct:256.3692398004109,114.38798263114658,38.53830349280892,3.00434221335524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082701:0730/pct:85.44387380777697,38.12485332081671,12.844216189777452,1.001329891261832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ slavas, in tabor or other business, except it be in the ordinaty house
 hold offices of daily neressity, or other work of necessity or charl  
 ty, within the City of Richmond, he or she shall forfelt a sum no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082801:0734/pct:213.9718804920914,271.49560117302053,38.8107791446983,7.507331378299121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082801:0734/pct:71.31351588812417,90.48791930565329,12.935031971494118,2.502150285401517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ of said City of Kichmond, for every such offencs; deeming every
 apprentice, servant, or siave, so employed, and every day he of she  
 shall be so employed, as constituting a sisuinct offence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082801:0734/pct:213.9718804920914,280.891495601173,38.8107791446983,3.495601173020528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845082801:0734/pct:71.31351588812417,93.61951677222613,12.935031971494118,1.1650637266400814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ trade or calling, or shall employ his or her apprentices, servants, of
  hold offices of daily necessity, or other work of necessity of charl  
 ty, within the Chity of Richmiond, he or she shall forfeit a sum no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845083001:0742/pct:173.50301603648668,249.34018451477286,39.42915992349566,7.649188368562419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845083001:0742/pct:57.825831126802,83.10368986454928,13.141119937236443,2.549431729721314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ of said City of Richmond, for every such offence; deeming every
 spurentice, servant, or slive, so employed, and evory day he or she  
 shall be so employed, as constituiting a distinct offence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845083001:0742/pct:174.2974841841989,258.8345206119351,38.59055465646609,3.024640896881934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845083001:0742/pct:58.090614886731395,86.26809901914993,12.861625968422086,1.0080959053401837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -911,7 +911,7 @@ elaves, in &#x27;abor or other business, except it be in the ordinary house
 hold offices of daily necessity, or other work of necessity or chari­  
 ty, within the City of Richmond, he or she shall fortcit a sutn no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845090101:0747/pct:169.6527053212103,168.43021232161504,38.112982560739304,7.181807634296322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845090101:0747/pct:56.5424739195231,56.1368909512761,12.702434177844014,2.393658159319412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -928,7 +928,7 @@ of said City of Richmond, for every such offexce; deeming every
 apprentice, servant, or slave, so employed, and every day he or she  
 shall be so employed, as constituting a distinct offence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845090101:0747/pct:169.60798926814726,177.6192133658197,38.2024146668654,3.074602622113934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845090101:0747/pct:56.52757078986587,59.19953596287703,12.73224043715847,1.0247486465583913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ slaves, in tabor or other business, except it be in the ordinary house
 hold offices of datly necessity, or other work of necessity or charl  
 ty, within the City of Richmond, he or she shall forfeit a sum no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845090201:0751/pct:3.5376328432086184,84.0521800446586,37.88033192604455,7.16888000940181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845090201:0751/pct:1.1790393013100438,28.014101057579317,12.62493934983018,2.389345867606737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ of said City of Richmond, for every such offence; deeming every
 apprentice, servant, or slave, so employed, and every day he or she  
 shall be so employed, as constituting a distinct offence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845090201:0751/pct:3.5376328432086184,93.43048536843342,37.74930848740719,2.9733223645551767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845090201:0751/pct:1.1790393013100438,31.139835487661575,12.581271227559437,0.990990990990991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ deeming every apprentice, servant and slave so employ
 ed, and every day he shall be so e uployed, as cunstitu  
 ting a distinct off nce.&quot; Revised Code, vol, 1, pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846090301:0866/pct:135.9713585830036,128.80143112701253,58.80912003014886,20.050685748360166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846090301:0866/pct:33.98643556895252,32.195558205395734,14.699510173323286,5.011924280816813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1009,7 +1009,7 @@ fir or other business except it be in the ordinary house
 held eflices of daily nrressity or charity he shall forfeit  
 the sum of one dollar and sixty seven cents for each o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846101201:0909/pct:327.87644787644786,42.64173703256936,60.55984555984556,10.02714113389626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846101201:0909/pct:81.95329087048832,10.658827076737525,15.13703918162517,2.5064073571536256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1047,7 +1047,7 @@ offence: deeming every apprentice, servant ot
 slave so employed, and every day lie shall be so  
 employed, as constituting a distinct offence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848082301:0102/pct:4.432266128256899,27.174749807544266,13.671762330545139,12.016236265658899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848082301:0102/pct:4.431840030763315,27.172848145556333,13.673652502723835,12.017728014928855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1078,7 +1078,7 @@ for each offence—every day any servant, appren­
 tice or slnve, is so employed, constituting a dis­  
 tinct offence.”—Ch. 196, § 1G, Rev. Code Va
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852021301:0142/pct:21.494230393115586,60.8282036933408,14.531586152943477,3.553441522104085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852021301:0142/pct:21.49002737583105,60.81969506224647,14.533633163863904,3.556441460344104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1356,7 +1356,7 @@ lars for each offence; every day any apprentice or
 other employee is so employed constituting a dis-­  
 tinct offence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742034:1872092801:0314/pct:90.4964929170678,213.45196385764336,41.58987759592903,7.615710861146967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742034:1872092801:0314/pct:30.1654976390226,71.15065461921446,13.863292531976345,2.538570287048989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1439,7 +1439,7 @@ for each e ffenoe ; every day any servant or ap
 prentice is so employed, constituting a distinct  
 offence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663766:1876070301:0633/pct:1.722158438576349,83.40794083300895,15.757749712973594,2.753989879330479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663766:1876070301:0633/pct:1.722158438576349,83.41442844167639,15.757749712973594,2.753989879330479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1458,7 +1458,7 @@ offence; every day any servant or ape­
 prentice is so emploved constituting a  
 distinct offence.&quot; Section 18 except
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664436:1878071901:0073/pct:44.14595028067362,98.01415831571205,40.8981555733761,7.538843431093133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664436:1878071901:0073/pct:14.715316760224539,32.67138610523735,13.632718524458701,2.5129478103643774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1546,7 +1546,7 @@ any other trade or calling, or shall employ
 his appreetices or other person in I bor or  
 other business, whether the same be fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052141:00206533638:1880042301:0039/pct:155.58823529411765,259.1808717538039,41.411764705882355,30.797391602791443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052141:00206533638:1880042301:0039/pct:38.89705882352941,64.79521793845097,10.352941176470589,7.699347900697861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1570,7 +1570,7 @@ bo deemed a separate offense. Persons who are
 members of a religious society, who observe as  
 a Sabbath day any other day In the week tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880042601:0008/pct:44.620253164556964,68.40104062437463,13.080168776371307,3.78226936161697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880042601:0008/pct:44.6334388185654,68.40104062437463,13.086761603375528,3.8072843706223733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1611,7 +1611,7 @@ offense. Persons who are members
 of a religious society, who observe as  
 a Sabbath day, any other day in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069392:00202195088:1880042701:0291/pct:116.59886086248983,20.947922761849036,44.91456468673719,50.96547688706846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069392:00202195088:1880042701:0291/pct:29.161579161579162,5.236980690462259,11.233211233211232,12.741369221767116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1630,7 +1630,7 @@ the Sabbath day shall himself be found
 at kis own or any other trade or calling,  
 or shall employ his apprentice or othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:00296026967:1880042901:0742/pct:11.052871467639015,5.757439808583819,38.149498632634455,120.2482428592792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:00296026967:1880042901:0742/pct:8.297241850923182,4.3218184537161655,28.63004330977889,90.1899207417377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1654,7 +1654,7 @@ other trade or calling, or shall employ his
 apprentices or other person in labor or other  
 business, whether the same be for profit o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779581:1880050901:0424/pct:7.696054554310765,247.4520994700367,35.50901120311739,16.591928251121075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779581:1880050901:0424/pct:1.9244823386114494,61.863024867509175,8.879415347137638,4.147982062780269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1685,7 +1685,7 @@ mitted above, he shall be fined not less than $2
 nor more than $50 for each offense. Every  
 l)erson or apprentice so employed shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479767:1880051301:0079/pct:28.404767943190464,69.6212493851451,11.2351001775298,8.027545499262175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479767:1880051301:0079/pct:26.992731799381602,66.14641744548287,10.673412841826286,7.623052959501558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1715,7 +1715,7 @@ shall on conviction he fined not more
 than twenty dollars for every offer  
 deeming every apprentice or servan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065460:00415661940:1881031001:0133/pct:106.76968359087564,340.7991587802313,43.56144223693892,22.450052576235542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065460:00415661940:1881031001:0133/pct:26.702245123297754,85.19978969505783,10.89436878910563,5.612513144058886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1735,7 +1735,7 @@ of daily necessity, or other
 work of necessity or chari­  
 ty, &lt;S?c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1882081901:0314/pct:59.479905437352244,83.01771533292609,10.44917257683215,3.811850946854001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:2018270504:00383343562:1882081901:0314/pct:59.470532618972584,83.00757390666992,10.451465490072486,3.8144392865868557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1795,7 +1795,7 @@ ult, So employed as constituting a
   
 distinct offense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878812:1887031801:0446/pct:53.634085213032584,222.99897194889118,50.87719298245614,32.721398149508005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878812:1887031801:0446/pct:13.408521303258146,55.749742987222795,12.719298245614034,8.180349537377001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1816,7 +1816,7 @@ forfelt two dollars for each offence; every
 dey any servant or apprentice is so em  
 ployed constituting a distinct offence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030931:1887061801:0684/pct:42.35453315290934,193.82857142857142,35.889339948879865,9.184415584415584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030931:1887061801:0684/pct:14.118177717636446,64.60952380952381,11.96311331629329,3.0614718614718615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1836,7 +1836,7 @@ prentices or other persons In labor or other busi
   
 ness, whether the same bo for profit or amuse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060190:00211103863:1891061501:0810/pct:33.011168384879724,41.39937553221686,21.606529209621993,3.6048822026681804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060190:00211103863:1891061501:0810/pct:24.779712013754565,31.053079761566845,16.226090694175802,2.7107578768095375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1870,7 +1870,7 @@ than awenty dollars for every offence,
 deeming every apprentice or servant, so  
 employed, as constituting a distinct of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1892061701:0100/pct:145.46952224052717,43.16748423265592,48.352553542009886,42.831114225648214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1892061701:0100/pct:36.36738056013179,10.79187105816398,12.088138385502472,10.707778556412054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1917,7 +1917,7 @@ religious society, who observe as a Sab
 bath any other day in the week than Sun  
 day, shall not be liable to the penalt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1895030101:0449/pct:203.66422385076615,70.19157088122606,41.688874083944036,23.243933588761173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1895030101:0449/pct:50.94150974837527,17.547892720306514,10.42742876187302,5.810983397190293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1937,7 +1937,7 @@ or shall employ his apprentices, or
 other persons, in labor or other business,  
 whether tho samo be for profit o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533791:1895040301:1135/pct:67.6460239268121,9.191973969631237,14.42646023926812,4.189262472885033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533791:1895040301:1135/pct:50.75677578317494,6.900759219088937,10.823653643083421,3.1453362255965294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1980,7 +1980,7 @@ each seven that they shall go free and
 unpunished  
 In answer to this question it is inge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069161:00100481881:1895061201:0563/pct:46.88228438228438,56.533458338216334,9.761072261072261,13.008320637524903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069161:00100481881:1895061201:0563/pct:46.893210955710956,56.5422477440525,9.750145687645688,12.999531231688739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1999,7 +1999,7 @@ nary houschold offices of daily neces.
 sity, or other work of necessity or  
 charity&quot; (railroads or steamboats 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1895102501:0798/pct:348.5,61.826828927122676,47.5,9.008252902503846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1895102501:0798/pct:87.17948717948718,15.456707231780669,11.882426516572858,2.2520632256259616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2016,7 +2016,7 @@ found at his own 0r any other trade
 or calling or shall employ his appren­  
 tices or other persons in labor ethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069457:00206533298:1899062201:0574/pct:61.666666666666664,90.59188420780563,10.436893203883495,1.8609459808736108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069457:00206533298:1899062201:0574/pct:61.666666666666664,90.60157663478935,10.436893203883495,1.8609459808736108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -124,7 +124,7 @@ y God croton your attempt with successt I
 most heartily wish it, though individually I  
 may be the greatest sufferer.&quot; The fact is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862090601:0024/pct:274.11095305832146,99.35534798052888,49.075391180654336,16.734640178923826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862090601:0024/pct:68.55211668445394,24.83883699513222,12.273212379935966,4.183660044730956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ suecess! I most heartily wish it, though
 individually I may be the greatest suf-  
 ferer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862091001:0504/pct:178.39943342776203,270.0328731097962,47.30878186968839,34.18803418803419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862091001:0504/pct:44.62356067316209,67.50821827744905,11.833480956598759,8.547008547008547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ dod crown your attempt with success! I most
 heartily wisn it, though individually I may be the  
 greatest sufferer.&quot; The bombardment, which wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875042001:0307/pct:244.2256341789052,141.54130988197176,46.111481975967955,6.2601249710715114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875042001:0307/pct:81.40854472630174,47.18043662732392,15.370493991989319,2.086708323690504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

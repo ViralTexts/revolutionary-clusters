@@ -295,7 +295,7 @@ With great estevm and regard,
 ^ our inost obedient Servant,  
 (signed) gko. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820121901:0271/pct:81.13022113022113,13.942018525201492,15.331695331695332,46.902441958378446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820121901:0271/pct:81.11693416311824,13.940341592494587,15.334643520034938,46.90080987891909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ Every debtor should insure for the pro­
 tection of his creditor and it is also a  
 duty of the creditor to see that it is done
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1867110601:0403/pct:49.601518026565465,33.4510595358224,11.05629348513599,18.65792129162462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1867110601:0403/pct:49.601518026565465,33.45778674739321,11.06472696605524,18.651194080053816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ eriy bind ess toa ard one another.­
 s we should take your wines, your  
 and surplusage of such artite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528621:1867111601:0031/pct:9.745464772887077,115.24870582939455,30.642666291660806,20.245329732162954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528621:1867111601:0031/pct:3.2484882576290253,38.41623527646485,10.214222097220269,6.748443244054318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -35,7 +35,7 @@ ARTICLE IV.
 itively condemned; &quot;r which may be captu­  
 red before the exchange of ratificatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800121501:0002/pct:39.788484136310224,73.79332172812154,16.28672150411281,3.9246716252571607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800121501:0002/pct:39.80611045828437,73.79332172812154,16.292596944770857,3.944453236271562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -54,7 +54,7 @@ Je&amp;t to the 4th article, which slates, that
 condemned, or which may be captured be.  
 fore the exchange of ratifications,” &amp;c. shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801010601:0424/pct:60.73515841279606,23.043944265809216,16.010458320516765,2.9426093734775405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801010601:0424/pct:60.74541166820465,23.047192179024975,16.010458320516765,2.9458572866932995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,7 +86,7 @@ condemned, or which may be captured be­
 fore the exchange of ratifications,&quot; &amp;c.  
 shall be restored, on producing certain pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801011501:0129/pct:24.276927103782228,38.301381158524016,22.680277450595472,17.46031746031746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801011501:0129/pct:24.273750327139492,38.29743378336597,22.681671464712554,17.46195334776186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ the property so condemned shall without delay be restored or paid
 for &#x27;  
 AaT 5. &quot; The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:48.27023498694517,84.37261389666581,15.535248041775457,4.14863833036396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851020401:0143/pct:48.27023498694517,84.3810978196318,15.540687554395126,4.14863833036396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ ten square leagues, the quantity specified in the
 original grant set forth in the record, and within the  
 limits therein mentioned, the said land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855080501:0288/pct:11.128205128205128,152.4423742983399,46.97435897435897,37.143198375731515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855080501:0288/pct:3.7094017094017095,50.8141247661133,15.658119658119658,12.381066125243839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

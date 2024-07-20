@@ -225,7 +225,7 @@ ever remain free and open to the sub
 jects of Great Britain and tho citizens of  
 the United States.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn84024443:00280779246:1861021501:0022/pct:75.95505617977528,123.8188207731355,16.198501872659175,5.0761421319796955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn84024443:00280779246:1861021501:0022/pct:56.97696197789848,92.8673695171157,12.155834425922457,3.8136144735129505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ ocean, shall forever remain free and open to
 the subjects of Great Britain, and the citi-  
 zens of the United States.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529480:1861021601:0237/pct:66.87055711687883,27.68327743172017,111.67135063646884,245.92716818399617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529480:1861021601:0237/pct:22.290185705626275,9.227759143906724,37.22378354548961,81.97572272799873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ free and open to the subjects of Great
 Britain, and the citizens of the United  
 States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_sands_ver01:data:sn86079096:00212475014:1861021601:0233/pct:153.1591263650546,256.53801843317973,43.23322932917317,16.4602534562212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_sands_ver01:data:sn86079096:00212475014:1861021601:0233/pct:51.05304212168487,85.51267281105991,14.411076443057722,5.486751152073733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ forever remain free and open to the subjects
 of Great Britain and the citisens of the Uni-­  
 ted States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861021901:0309/pct:21.432568550643538,164.95317589576547,43.31281477336318,25.0814332247557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861021901:0309/pct:7.144189516881179,54.984391965255156,14.437604924454392,8.360477741585234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ ocean, shall forever remain free and open to
 the subjects of Great Britain and the citi­  
 zens of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021970:1861022001:0282/pct:80.01269035532995,356.66969736329395,48.3502538071066,9.299909079101182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021970:1861022001:0282/pct:20.01269639739724,89.16742434082349,12.093318520869703,2.3249772697752955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ the oeeanf shall forever remain free and
 open to the subjects of Great Britain and  
 th« oiticeM of the Uarted S Wee.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1861022201:0031/pct:4.359673024523161,91.26826029216467,10.98522873942349,3.2425852146967684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1861022201:0031/pct:4.364453367751804,91.26826029216467,10.990009082652135,3.2425852146967684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ from its source to the ocean, shall forever re
 main free and open to I he subjects of Great  
 Britain nnjJ the citizens of tlip United Stales
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861030801:0091/pct:41.99561403508772,28.46411804158283,12.51827485380117,2.9912810194500334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861030801:0091/pct:42.004751461988306,28.47082494969819,12.51827485380117,2.9912810194500334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

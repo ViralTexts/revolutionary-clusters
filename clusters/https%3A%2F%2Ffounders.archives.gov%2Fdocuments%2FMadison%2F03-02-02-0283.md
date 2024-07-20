@@ -70,7 +70,7 @@ ent powers having in force orders or decrees
 violating the lawful commerce and neutral  
 rights of the United States :—and also th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808121301:0199/pct:23.25144734783289,55.10469892796313,16.382412767954936,10.20939785592626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808121301:0199/pct:23.26187868356543,55.11137828540895,16.382412767954936,10.20939785592626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -87,7 +87,7 @@ or decrees violating the lawful com- :
 merce and neutral rights of the Unit­  
 ed States—and also the in.porta.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808121901:0003/pct:57.876106194690266,26.889989572471325,16.676499508357914,2.059436913451512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808121901:0003/pct:57.88266142248443,26.889989572471325,16.696165191740413,2.0724713242961417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ neutral rights of .the United Slates
 s, violating-the lawful commerce  
 and neutral rights ofthe United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809012501:0002/pct:58.72952457051538,23.84745984066867,16.520175789053138,1.345174350267729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809012501:0002/pct:58.72952457051538,23.85616647076749,16.546810494073778,1.3364677201689086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ edidls, orders or decrees, violating the law=
 ful commerce and neutral rights of the U~  
 nited States. Y 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809020701:0226/pct:76.02961591855622,69.64073044859072,16.39672990899275,2.2330289797538705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809020701:0226/pct:76.02961591855622,69.64403863967183,16.401871561519872,2.2330289797538705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ rce edicls, orders ot
 - neutral rights of the United States. ,  
 - Mr. Otis, secretary of the senate inform
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809020701:0227/pct:22.164236377590175,66.16548839988052,16.868764389869533,2.3698098177835307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809020701:0227/pct:22.164236377590175,66.17212652261941,16.8738807879253,2.3698098177835307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ rce edicls, orders ot
 s, violating the lawful  
 commerce and neutral rights of the Unite ) .&#x27;Stales
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809020801:0340/pct:3.6713735558408214,32.35101506221349,21.28369704749679,1.2770137524557956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809020801:0340/pct:3.6704312114989732,32.345719430348666,21.28465092402464,1.280897037158291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ pursuance of the authdtities vested’ by C(l)&#x27;l:!‘re“ in
 the exceutive, aﬂ&#x27;tetink their neutrdll comméree, ex­  
 cept such parts as may in his judgment require ‘se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810020701:0170/pct:47.65862234297587,23.001471309465423,21.016461563049386,2.4521824423737124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810020701:0170/pct:47.66927707634117,23.001471309465423,21.016461563049386,2.4554520189635443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ either violating the lawful commerce and neutral
 rights of the United States, except such parts as  
 may, in his judgment, require secrecy ; and als
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810022701:0382/pct:40.91075347476225,10.376324442820607,17.9407461594733,4.713189623675557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810022701:0382/pct:40.903272993234594,10.37506088650755,17.94356067532151,4.716674784867673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ orders and decrees of either violating the lawful
 commerce and neutral rights of the United States,  
 except such parts as may, in his judgment, requir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810022801:0951/pct:72.75204359673025,82.05830246416492,20.832301213772602,2.1742631663713965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810022801:0951/pct:72.73402674591382,82.0450885668277,20.833333333333332,2.177938808373591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ commerce and neutral rights ofihe U,
 States, except such parts as may, in his  
 i udgment, require secrecy; and als
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810030201:0077/pct:3.001667593107282,5.832703451751071,19.455252918287936,2.7840765936004033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810030201:0077/pct:3.0011115227862173,5.831968761808792,19.45782388538965,2.787924591678213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

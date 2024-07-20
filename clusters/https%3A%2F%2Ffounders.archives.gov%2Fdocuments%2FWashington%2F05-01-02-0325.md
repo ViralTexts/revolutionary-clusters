@@ -64,7 +64,7 @@ in making nominations, by the motives arising Iroiu ties
 of family or blood !&quot;  
 These are sentiments worthy of their great author
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839062901:0969/pct:67.16216216216216,52.00522069292833,15.557432432432432,2.978168011390603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839062901:0969/pct:67.1677927927928,52.01313083372884,15.557432432432432,2.982123081790856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ Allow me to reciprocate the favorable sentiments
 you are pleased to express for me individually, and  
 to unite in the strong convictions and hopes you enter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1841012601:0014/pct:35.63049853372434,63.26190971499896,14.67741935483871,1.383399209486166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1841012601:0014/pct:35.63049853372434,63.26190971499896,14.687194525904204,1.3938007073018515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ cemmunitr, required that I should hold mpsalf ansoe
 at iiberty to act, while in ofhce with a sols refse  
 to justice and the publie good.&quot; In practice, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848122601:0739/pct:15.089185280411376,2.642322522113858,101.01237345331833,285.6883647085507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848122601:0739/pct:5.029728426803793,0.8807741740379527,33.67079115110611,95.22945490285024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ public good.&quot; In practice, he verified these decla­
 rations, Acting in every caso with perfect Independ­  
 ence, jooklng first to the national Interests, and nex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849010101:0019/pct:2.305366591080877,12.582286056253741,13.45427059712774,20.33213644524237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849010101:0019/pct:2.311665406903502,12.587273089966088,13.45427059712774,20.33712347895472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ invself ahsolutelv at liheity to act while in
 office, with a sole reference to ju*t:ce and the  
 public good.” In practice, he verified the*e de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1849010101:0516/pct:56.73049167709035,55.00527611677805,13.076108919465025,24.115371086880057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1849010101:0516/pct:56.72503367327304,55.00140686550366,13.078057853890066,24.116019508534983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ public good.” In practice, he verified the*e de
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n4/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n4/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -379,7 +379,7 @@ of the community, required that I should hold myself
 absolutelyat liberty to aot, while in office, with a sole  
 reference to justice and the public good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849071201:0042/pct:0.06552006552006552,32.28087900985097,21.474201474201475,21.94998737054812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849071201:0042/pct:0.07644007644007644,32.28929864443883,21.474201474201475,21.95419718784205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ and the distribution of appointmects in as equal a
 proportion as might be to per sons belonging to the  
 different States in the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1870120601:0127/pct:80.59360730593608,230.46357615894038,50.22831050228311,31.547260686333534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1870120601:0127/pct:20.15990862364363,57.615894039735096,12.564249000571102,7.886815171583383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ blood.Ihue of Washinzion, Vol V. p.
 Then again he declared his purpose,  
 To discharge the daties of office with that linpartiality and real
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872060101:0241/pct:151.89197930142302,115.87869003690037,46.73350582147477,6.192343173431734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872060101:0241/pct:50.63065976714101,38.62623001230012,15.577835273824924,2.0641143911439115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ would not be in the remotest degree influenced in
 making nominations, by motives arising from the  
 tles of family or blood.&quot; Then again he declare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:153.87358184764992,59.74144834687107,45.26742301458671,5.2167944171147465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:51.29119394921664,19.91381611562369,15.089141004862237,1.7389314723715823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +526,7 @@ tho remotest degree influenced in making
 nominations by motive arising from the ties  
 of family or blood.&quot; How many relation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293472:1873050901:0445/pct:23.350029463759576,25.808573621313453,14.260459634649381,3.3548952965683587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293472:1873050901:0445/pct:17.518785914247825,19.36191207104484,10.696920583468396,2.521653327486021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ equal a proportion as might be to persons
 belonging to the different States in the  
 Union,&quot; and referring to this in still anothe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877031701:0877/pct:54.420656970093155,66.51754989676532,48.308547148226836,7.742601514108741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877031701:0877/pct:18.14021899003105,22.172516632255103,16.102849049408945,2.5808671713695803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ measures with regard to appointments, the
 government itself would be in the utmost  
 danger of being utterly subverted. &quot;M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053943:0029587319A:1877122001:0694/pct:11.342155009451796,53.66795366795367,16.36735979836169,2.4301612536906654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053943:0029587319A:1877122001:0694/pct:8.509297195083517,40.25664319781967,12.29120705956508,1.8169429934135817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ appointments, the government itself
 would be in the utmost danger of being  
 utterly subverted. &quot;My political con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1877122101:0420/pct:28.3744557329463,39.46621834611747,10.88534107402032,2.1330251129557634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1877122101:0420/pct:28.3744557329463,39.46621834611747,10.899854862119014,2.140030121536899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ regard to appointments, the government
 itself would bo in tho utmost danger of  
 being utterly subverted. &#x27;My politica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877122101:0819/pct:100.40250447227191,68.96341463414635,22.54025044722719,9.481707317073171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877122101:0819/pct:75.36361602148132,51.72256097560975,16.916536137838442,7.1189024390243905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ ular measures with regard to appointments,
 the Government itself would be in the ut­  
 most danger of being utterly subverted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779532:1877122301:0596/pct:127.27713178294573,226.93409742120343,35.94961240310077,5.2722063037249285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779532:1877122301:0596/pct:31.830849388101296,56.73352435530086,8.99067005937235,1.3180515759312321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ ments, the government itself would
 be in the utmost danger of being  
 utterly subverted. &quot;My politica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:0029602109A:1877122601:0409/pct:66.5615141955836,88.98828541001065,14.392744479495269,11.352502662406815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:0029602109A:1877122601:0409/pct:49.92769817273564,66.74121405750799,10.80583672932825,8.519701810436635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ ments, the Government itself would
 be in the utmost danger of being ut­  
 terly subverted. &quot;My political con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1877122601:0893/pct:28.241430700447093,143.05357374497342,47.91356184798808,13.12751329614736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1877122601:0893/pct:7.0643056849953405,35.763393436243355,11.985088536812675,3.28187832403684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ pointments, the government itself would
 lx* in the utmost danger of being utterly  
 subverted. “My political conduct/&#x27; fi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768795:1877122601:0427/pct:5.838739573679333,89.55512572533848,14.298954057990203,2.680298424979276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768795:1877122601:0427/pct:5.838739573679333,89.55512572533848,14.303367315415509,2.6833686408154493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -710,7 +710,7 @@ pointments. tiie government itself would
 he in tin; utmost danger of being utterly  
 ,-iibvcrted. “My political conduct,&quot; b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768813:1877122601:1246/pct:28.158923143725577,6.840077071290944,16.934433347807207,2.9865125240847785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768813:1877122601:1246/pct:28.17339701838182,6.8492522249747685,16.927196410479084,2.9911001009266904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -772,7 +772,7 @@ with regard to appointments, the government
 itself would be in the utmost danger of being  
 utterly subverted. “My political conduct,” h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347272:1878011001:0434/pct:48.99687337154768,27.169959697237786,11.00833767587285,4.767521871620957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347272:1878011001:0434/pct:48.99049107724372,27.167289168468645,11.011245712300813,4.770329598322522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -790,7 +790,7 @@ or unpopular measures with regard to appoint­
 ments, the government itself would be in the  
 utmost dinger of being utterly subverted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777390:1878011101:0006/pct:96.28279883381924,51.28277817150957,14.322157434402332,2.154500354358611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777390:1878011101:0006/pct:72.25159525979946,38.46917080085046,10.756608933454878,1.6158752657689581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,7 @@ regard to appointments, the Govern­
 ment itself would be in the utmost dan­  
 ger of bting utterly subverted. &quot;M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1878013001:0230/pct:65.53497942386831,65.84763390535622,14.454732510288066,11.414456578263131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1878013001:0230/pct:49.168238724061055,49.38897555902236,10.838621162750815,8.567342693707749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1024,7 +1024,7 @@ be to persons belonging in the different
 States.  
 The last rule is one to which to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:0033289206A:1899020701:0188/pct:20.843415139993088,40.821596244131456,14.223988938817836,3.9788732394366195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:0033289206A:1899020701:0188/pct:20.84917617237009,40.82942097026604,14.23551100357184,3.974960876369327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

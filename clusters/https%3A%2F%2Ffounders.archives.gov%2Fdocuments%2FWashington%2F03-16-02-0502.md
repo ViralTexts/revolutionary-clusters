@@ -135,7 +135,7 @@ or flattering project; and it.is the folly of too
 many of them to condemn without investigating  
 circumstances.— WcuMngton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1855040301:0187/pct:82.75630703166935,80.83918974782968,12.47987117552335,3.048780487804878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1855040301:0187/pct:82.75630703166935,80.83918974782968,12.488817319735194,3.0625602866198154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ thing that disappoints a favorite hope or flattering pro­
 ject ; and it is tbe folly of too m my oi them, to con­  
 demn without investigating circumstances
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864122201:0421/pct:66.68354430379746,58.16494247317026,19.924050632911392,7.763704921202746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864122201:0421/pct:50.01898974553741,43.623706854877696,14.951259653120648,5.8300299719617135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ Sense of Honor.
 I feel everything that hurts the sensibility of a gen­  
 tleman. a Hie 2 rial of Virtue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864122201:0421/pct:66.70886075949367,70.63714589577492,19.759493670886076,4.2154113893454515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864122201:0421/pct:50.04430940625396,52.98269360920429,14.824661349537916,3.161558542009088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ ooudemp without investigating cironm
 stacoes.  
 Some persons seem to forget that me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551578:1872090401:0426/pct:65.60069144338807,82.78453340620304,15.903197925669836,7.104795737122558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551578:1872090401:0426/pct:65.60645347162202,82.79364211868652,15.897435897435898,7.104795737122558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ hope or Haltering project, and it is the folly
 of too many of them to condemn without in­  
 vestigating. circumstances.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1875050501:0548/pct:81.82901907356948,81.19716389419143,12.193460490463215,13.53967821107172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1875050501:0548/pct:81.81508598671888,81.18609406952966,12.195641069300187,13.541240627130197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ thinks, or, more properly, without think
 ing, and consequently will judge of ef­  
 fects without attending to their causes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1888101101:0305/pct:52.47823174815807,76.00772698003864,14.601473543201607,5.602060528010303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1888101101:0305/pct:39.373639256405966,57.01223438506117,10.952939206163121,4.198325820991629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

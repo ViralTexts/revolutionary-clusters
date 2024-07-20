@@ -111,7 +111,7 @@ onlSrmulion of the personal regard with which
 I have been, and am,  
 • Very sincerely, dear sir, • &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1869010701:0008/pct:5.78845816523417,59.58438790462235,12.664444834239607,6.047688823764487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1869010701:0008/pct:5.787443002455279,59.57645178476292,12.66660820764644,6.050213106020245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ attachment of friends, and that the most
 liberal professions of good will are very  
 far from being the surest marks of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883071401:0793/pct:7.444852941176471,95.72160289243749,15.790441176470589,5.709551069599277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883071401:0793/pct:5.589262732119875,71.79873455860199,11.840411840411841,4.278397107562519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ good-will are very far from being the
 surest marks of it.  
 Infinite toil would not enable you t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296138:1883080101:0122/pct:201.35236664162284,347.64957264957263,43.57625845229151,26.068376068376068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296138:1883080101:0122/pct:50.34754837497652,86.91239316239316,10.896111215479992,6.517094017094017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ very far from being tbe surest marks of
 it.  
 Infinite toil would not enable you t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:0029602739A:1883082101:0373/pct:37.44124559341951,21.593940040541984,14.380141010575793,6.934812760055478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:0029602739A:1883082101:0373/pct:28.08873218745409,16.195455030406485,10.78301748200382,5.206444041395498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ professions of good-will are very far from
 being the surest marks of it.  
 Infinite toil would not enable you t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762246:1883082101:0149/pct:6.835236541598695,58.67652683921968,10.619902120717782,3.965319393089379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762246:1883082101:0149/pct:6.83931484502447,58.68608950656637,10.619902120717782,3.9748820604360575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ world must convince every man that
 actions, not words, are the true eri­  
 terion of the attachment of friends.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053287:00517177155:1883102501:0158/pct:52.497204621692134,117.30516924691682,16.19455833022736,4.421411702965101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053287:00517177155:1883102501:0158/pct:40.689389562873096,90.91679376376885,12.555362988638551,3.4265378749364515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ friends and that the most liberal
 professions of goodwill are very far  
 from being the surest marks of i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:00206534291:1883110601:0271/pct:106.17852604828462,42.87264048600564,21.72808132147395,10.739856801909308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:00206534291:1883110601:0271/pct:70.8022239872915,28.585376437405078,14.48768864177919,7.159904534606206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ good-will are very far from being tho
 surest marks of it  
 Each one of us is bound to make th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556850:1890020601:0049/pct:106.83962264150944,29.92937362510131,15.55129716981132,5.082783373856663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556850:1890020601:0049/pct:80.16516737944256,22.449924742387402,11.679693260581034,3.8207711010767627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ and that the most liberal professions ol
 good-will aro very far from being the  
 surest marks of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_inman_ver01:data:sn84020151:00340583644:1890021501:0516/pct:77.62679425837321,36.5406355985429,14.679425837320574,3.6301972114056023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_inman_ver01:data:sn84020151:00340583644:1890021501:0516/pct:77.61194029850746,36.536046219542825,14.681400688863375,3.6328811856317507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ and that the most liberal professions of
 good-will are very far from being the  
 surest marks of i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479834:1890021901:0061/pct:78.1648675171737,27.25435148792813,13.918874713771672,3.795620437956204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479834:1890021901:0061/pct:78.1703194853342,27.258094703350178,13.924326681932177,3.799363653378252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ and that the most liberal professions of
 good-will are very far from being the  
 surest marks of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152524:1890022001:0031/pct:34.572087345720874,21.947483588621445,9.58904109589041,2.888402625820569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152524:1890022001:0031/pct:34.58112934581129,21.951130561633843,9.58904109589041,2.8920495988329686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ the most liberal professions of good will
 are very far from being the surest  
 marks of it.—George Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edina_ver01:data:sn90059522:00175033531:1890122901:0558/pct:61.59912972531956,82.68943436499467,10.538482458525973,4.194236926360726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edina_ver01:data:sn90059522:00175033531:1890122901:0558/pct:61.6081950865742,82.68943436499467,10.538482458525973,4.201351832088225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ liberal professions of good will are very ,
 far from being the surest marks of it.  
 If you suppress the exorbitant love o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287290:1891012801:0079/pct:30.485527544351072,23.550106609808104,13.694366635543107,5.362473347547974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287290:1891012801:0079/pct:30.495902064529517,23.557213930348258,13.689179375453886,5.366027007818053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ friends; and tbat the most liberal
 professions of good will are wry far  
 from being the surest marks of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026817:00202192221:1891042901:0285/pct:25.738180576890255,19.67447173043975,12.186379928315413,4.640205596801827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026817:00202192221:1891042901:0285/pct:25.742447516641064,19.681610508280983,12.186379928315413,4.643774985722445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ and that the most liberal professions of good
 will are very far from being the surest marks  
 of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891051401:0543/pct:50.396196513470684,77.66308835672997,21.176703645007922,15.01513900357831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891051401:0543/pct:50.386215092097444,77.65240126599697,21.179111375189805,15.017659740378882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ that the moi-t lilieral professions f
 good will are very far from being sur­  
 est marks of i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn86053634:00212478039:1891121601:0205/pct:38.166779203241056,89.54888212726551,14.415935178933154,6.1780658817303875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn86053634:00212478039:1891121601:0205/pct:28.634138105689683,67.16496891123164,10.822218470369744,4.643471358645323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -955,7 +955,7 @@ selves and laid on solid foundations, re­
 membering that the truly valuable man  
 is valuable in every stage or his career
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775307:1891123101:0483/pct:5.606680299931834,60.32961328834674,15.132924335378323,28.082014015053204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775307:1891123101:0483/pct:4.210705762018411,45.25045419153906,11.353562904875554,21.061510511289903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ and that the most liberal professions
 of goodwill are very far from being  
 the surest marss of i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bouie_ver01:data:sn85031378:00211663790:1892012901:0026/pct:8.755626542761725,10.262008733624453,14.215188035429069,7.383882493052798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bouie_ver01:data:sn85031378:00211663790:1892012901:0026/pct:8.755626542761725,10.268625115786687,14.224868108997628,7.377266110890565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1045,7 +1045,7 @@ and that the most liberal professions
 of goodwill are very far from being  
 the surest marss of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661769:1892020401:0497/pct:12.864077669902912,14.454067868805907,15.736245954692556,8.930853329547068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661769:1892020401:0497/pct:9.65391621129326,10.847650149084197,11.81946974296701,6.701689620900185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1071,7 +1071,7 @@ and that tho most liberal professions
 of goodwill aro very far from being  
 the surest marcs of i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn87091222:00206536196:1892020501:0285/pct:8.884136858475895,13.626405725135095,13.919129082426128,8.018110121220973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn87091222:00206536196:1892020501:0285/pct:6.6705562038117465,10.223455527968452,10.44340723453909,6.017233825032861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ and that the most liberal professions
 of goodwill are very far from being  
 the surest marics of i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_jonesville_ver01:data:sn96077142:0041566994A:1892021301:0589/pct:13.609246830723341,22.56263793327275,20.786726323639076,7.789173049461249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_jonesville_ver01:data:sn96077142:0041566994A:1892021301:0589/pct:9.080738392690659,15.046085940542646,13.85418608987507,5.192782032974166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1202,7 +1202,7 @@ the most liberal professions of good will
 are very far from being the surest marks  
 of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1892081101:0134/pct:11.147757255936675,52.40963855421687,14.577836411609498,5.524224557805691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1892081101:0134/pct:8.36495627784194,39.31043322225071,10.938788978716383,4.152781338118431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1223,7 +1223,7 @@ most liberal professions of good will are
 very far from being the surest marks of  
 it.” This forcible utterance will apply t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173526:1892090201:0288/pct:19.92921919929219,13.41670526478308,15.17363415173634,4.045082599969121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173526:1892090201:0288/pct:19.924812030075188,13.414634146341463,15.175807164971252,4.048317381907997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1370,7 +1370,7 @@ that the most liberal professions of good
 will are very far from being the surest  
 marks of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1893122801:1269/pct:23.715182424480187,21.600642398286936,18.477834444880344,6.022483940042827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1893122801:1269/pct:18.38451403668795,16.743880514451668,14.320462146549103,4.670861568247822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1427,7 +1427,7 @@ It IS understood that ex Assemblyman
 John C. Eisele will be re-appointed a  
 member of the Board of Managers o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896593:1899021701:0055/pct:5.248990578734858,5.960368232173506,25.110555662372622,90.87221095334685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896593:1899021701:0055/pct:5.2479815455594006,5.959438377535101,25.11053440984237,90.8619344773791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

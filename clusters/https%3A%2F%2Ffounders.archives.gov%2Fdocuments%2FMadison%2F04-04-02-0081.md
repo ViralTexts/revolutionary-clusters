@@ -70,7 +70,7 @@ Constitution of the State.
 Be pleased to accept,Sir, my friendly respects.  
 ,, .f „ JAMES MADISO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826110301:0220/pct:5.201560468140442,60.79980842911878,15.377113133940181,19.707854406130267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826110301:0220/pct:5.20071509832602,60.79252963007303,15.380031420987052,19.709485613951074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ sentiment thus manifested, the celebrated Bill
 “Establishing Religious Freedom” enacted into  
 a permanent Banier against
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826110801:0288/pct:5.928958140763238,39.74836080099238,19.450680047537304,25.43859649122807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826110801:0288/pct:5.928175336678109,39.74483919553469,19.45251298301206,25.43929594518768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ people of every religiofs denomination
 that at the ensuing session the pro­  
 jected measure was entirely frmtra?ed.:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021518:00340588034:1826120901:0179/pct:1.867179980750722,34.763368162261834,17.01636188642926,17.50460971112477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021518:00340588034:1826120901:0179/pct:1.8800128328521013,34.76746568326163,17.009945460378567,17.500512190124976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ the rights of conscience, as declared in t Ingreat
 the State. Be pleased to accept my friendly  
 respects. JA.MKS M.\l&gt;ISt)\
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859072101:0569/pct:3.701077708451503,26.187551187551186,16.378332387975043,20.505733005733006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:0041566347A:1859072101:0569/pct:3.701077708451503,26.194376194376193,16.378332387975043,20.505733005733006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

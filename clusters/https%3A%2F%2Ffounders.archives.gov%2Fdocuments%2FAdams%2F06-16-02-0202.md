@@ -75,7 +75,7 @@ pounds sterling upon it and the next day
 we return the civility by inviting the same  
 company to dine with us upon earthenwaro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654784:1890112201:0443/pct:31.980022555179637,10.601583737146909,13.323666827775092,12.717172911003427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654784:1890112201:0443/pct:31.992105687127438,10.604538470629949,13.31561140647656,12.717172911003427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -103,7 +103,7 @@ England, because there was money in the latter i
 office, whereas to be minister would have ?  
 ruined him. For. prat remember, the consu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654784:1890112201:0443/pct:31.980022555179637,23.212386242760903,13.339777670372161,6.134026710790686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654784:1890112201:0443/pct:31.980022555179637,23.215340976243944,13.355888512969228,6.134026710790686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ Oo geilders a year to spend in it. In short, that
   
 aatien which piaces its own Ambansadors at the tan o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175045077:1893041401:0372/pct:2.9618082618862043,11.24179013288529,115.90023382696805,386.42126164655565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175045077:1893041401:0372/pct:0.7404520654715511,2.8104475332213226,28.975058456742012,96.60531541163891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ the next day we return the civility by
 inviting the same company to dine with  
 us upon earthenware. Depend upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760511:1895060401:0455/pct:8.780560524746571,80.6086956521739,18.336314847942756,12.032608695652174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760511:1895060401:0455/pct:5.859549724168779,53.73913043478261,12.226032503354704,8.021739130434783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ at the head.&quot;&#x27; And yet. the same penuri­
 ous policy is pursued until this day.  
 Our representatives at foreign court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760511:1895060401:0455/pct:8.810375670840788,92.67391304347827,18.246869409660107,4.478260869565218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760511:1895060401:0455/pct:5.874459519904577,61.78260869565217,12.16639332041151,2.989130434782609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ the next day we return the civility by
 inviting the same company to dine with  
 us upon earthenware. Depend upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1895061301:0301/pct:34.759504019621204,66.5162852112676,9.60621338056956,2.0796654929577465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1895061301:0301/pct:34.764045964481994,66.52362089201878,9.610755325430349,2.0796654929577465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ at the head.” And ye?, the same penuri­
 ous policy is pursued until this day.  
 Our representatives at foreign court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1895061301:0301/pct:34.73225235045646,68.62896126760563,9.633465049734296,2.5308098591549295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1895061301:0301/pct:34.74133624017804,68.6362969483568,9.638006994595086,2.5308098591549295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ the next day we return the civility by
 inviting tho same company to dine with  
 us upon earthenware. Depend upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285281:1895061401:0207/pct:65.7202216066482,89.2252894033838,17.97091412742382,3.7908663019972013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285281:1895061401:0207/pct:43.82683982683983,59.48352626892253,11.982683982683982,2.531484543951151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ at the head.&quot; And yet, the same penuri­
 ous policy is pursued until this day.  
 Our representatives at foreign court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285281:1895061401:0207/pct:65.75484764542936,92.97799262180384,17.93628808864266,4.52868591782216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285281:1895061401:0207/pct:43.84415584415584,61.98956875715558,11.965367965367966,3.0148836025950896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ the next day we return the civility by
 inviting the same company to dine with  
 us upon earthenware. Depend upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871659:1895061501:0265/pct:47.659449970743125,99.29358878304613,18.695143358689293,3.7782296906775126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871659:1895061501:0265/pct:35.767598419435096,74.47286738734881,14.020196107127177,2.8363480680723536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ at the head.&quot; And yet, the same penuri­
 ous policy is pursued until this day.  
 Our representatives at foreign court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871659:1895061501:0265/pct:47.586307782328845,103.1360376752649,18.724400234055004,4.334796104035107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871659:1895061501:0265/pct:35.70905897848676,77.35202825644868,14.049465827601347,3.2537728780905493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ the next day we return the civility oy
 inviting tho same company to dine with  
 us upon earthenware Depend upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533237:1895062101:0399/pct:28.67025365103766,78.85468476945826,19.119907763259032,11.869874983196667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533237:1895062101:0399/pct:21.510957324106112,59.14773491060627,14.359861591695502,8.89568490388493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ at tho head And yet the same penuri­
 ous policy is pursued until this day  
 Our representatives at foreign court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533237:1895062101:0399/pct:28.920061491160645,90.8589864229063,19.023827824750192,4.355424116144643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533237:1895062101:0399/pct:21.70319108035371,68.1509611506923,14.282968089196462,3.266568087108482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

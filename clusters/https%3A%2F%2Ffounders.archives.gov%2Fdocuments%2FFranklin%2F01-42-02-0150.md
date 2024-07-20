@@ -314,7 +314,7 @@ Your 1110 ft: obedient and
 most humble servant,  
 13. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112801:0001/pct:5.892910559377804,12.826875357892728,53.48489380795692,82.28669593433861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112801:0001/pct:5.900388872270415,12.826875357892728,53.49237212084954,82.29146783737355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ our contratls, and our friends, by gratitude
 and kindness ; for we know not how soon we  
 may again have occasion for all of them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794120201:0342/pct:11.104495385531408,58.10906158653361,19.26168502530515,12.599536337062796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794120201:0342/pct:11.109457179716186,58.11242146289017,19.271608613674704,12.602896213419346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1000,7 +1000,7 @@ tle regarded tiy a former poiTeSfor, that
 Several leaves cS it were torn out ; I i.t the  
 ndcrgavc me Such at turn of th&gt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800111901:0004/pct:71.68361021572031,20.54794520547945,21.79518968509794,13.231973505946108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800111901:0004/pct:71.69187536160013,20.552963018716444,21.79518968509794,13.226955692709117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1071,7 +1071,7 @@ let us pr&lt; Serve our reputation, by per­
 nents; our credit by  
 fulfilling our contracts ; and our frie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800111901:0004/pct:71.60922390280189,43.06789101309649,22.092734936771635,43.51949420442571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800111901:0004/pct:71.6174890486817,43.07290882633348,22.10100008265146,43.5245120176627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1268,7 +1268,7 @@ think of it when I see prid« mm lift&#x27;d
 Sc misfortune* brought upon pei pie by  
 currying their head* too h gh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813011601:0351/pct:52.96569413273485,71.31966351209253,17.906380250080154,12.968804766912022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813011601:0351/pct:52.95720468023722,71.31341452729343,17.908852914462788,12.97058909430766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1313,7 +1313,7 @@ high. Dk. 8. Franklin.
   
 I CLOVER SEED
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813012901:0354/pct:69.12442396313364,37.63255947262826,21.820276497695854,23.02952135282316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813012901:0354/pct:69.1085003455425,37.62716721593352,21.821008984105045,23.0298036968047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1784,7 +1784,7 @@ ami have the world before you, stoop as
 you pass through if, and you will avoid  
 many hard thumps.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1818121501:0063/pct:28.58541360744004,30.067720090293452,17.44982868330886,10.790067720090294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1818121501:0063/pct:28.57841937851725,30.063195907312668,17.45167604599951,10.792205838098104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2460,7 +2460,7 @@ t v«lue on the character of a doer oj
 , gnod% than on any other kind of repu­  
 I lation; and if 1 have been, as you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830081801:0133/pct:24.828322905539448,33.65176845217787,14.51243705173203,6.016149209598544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830081801:0133/pct:24.824534635337198,33.64794177848533,14.515308717322755,6.0192555530285805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2536,7 +2536,7 @@ high.’
 Artificial Palate?—We&#x27; have seen an artificial  
 palate and roof for the mouth, made by Mi- - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831011901:0175/pct:76.85018050541517,61.30519843487982,23.172382671480143,17.67747344885411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831011901:0175/pct:76.83284457478005,61.29663266731871,23.174674787578013,17.67966093800941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2885,7 +2885,7 @@ shink of it when | sce pride mortified, and mis-
 Sortunes brought upon people by their carrying  
 their heads to high.&quot;&quot;— Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838041401:0557/pct:5.285810356422327,88.36431592406807,14.80833893745797,4.042490410150487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838041401:0557/pct:5.294776955839498,88.3675945050982,14.80833893745797,4.042490410150487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3144,7 +3144,7 @@ people, by thus carrying their heads too
   
 high.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1842120201:0533/pct:76.55389457120377,174.11048040980202,59.402045633359556,58.36909871244635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1842120201:0533/pct:19.138473642800943,43.527620102450506,14.850511408339889,14.592274678111588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3362,7 +3362,7 @@ pride tuortilion and misfortunes brought
 upon people by their carrying tbeix beads  
 too higli.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1844082701:0190/pct:17.17459413272572,52.751794648683926,12.759897465109656,12.812703937350445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1844082701:0190/pct:17.17934111838982,52.75542020158074,12.759897465109656,12.812703937350445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3445,7 +3445,7 @@ mortified and misforlunes brought upor
 people by their carrying theirs heads tor  
 hig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287940:1844102601:0093/pct:84.30566967953985,153.76852727846105,60.230073952341826,76.0643330179754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287940:1844102601:0093/pct:21.085080147965474,38.44213181961526,15.063707357172216,19.01608325449385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3572,7 +3572,7 @@ carrying their heads too high.”
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1846-09-26_2_1/page/n5/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1846-09-26_2_1/page/n5/mode/1up?view=theater)
 
 #### 1846-09-26 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3615,9 +3615,9 @@ their carrying their heads too high.”
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1847-01_20_103/page/n31/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1847-01_20_103/page/n31/mode/1up?view=theater)
 
-#### 1847-01-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1847-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -3728,7 +3728,7 @@ il when I see pride mortified, and misfor­
 tunes brought upon a people by carrying  
 their heads too hi&#x27;&#x27;h.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn92058841:00280779659:1848092301:0062/pct:77.485966319166,71.71398527865405,17.822774659182038,14.826498422712934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn92058841:00280779659:1848092301:0062/pct:58.13114096651293,53.792999849782184,13.374774413475036,11.116118371638876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3793,7 +3793,7 @@ reputation by performing our engagements; our
 credit by fulfilling our contracts; and our friends  
 he gratitude and kindness.&quot; The speech of Dr.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850102101:0487/pct:270.5814178095422,175.10210255634547,60.74946880432683,11.087581303887461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850102101:0487/pct:67.63229045963692,43.76890502117362,15.18443414445732,2.7714761040532365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3972,7 +3972,7 @@ hood quaffed from the Circe-cup of ah evil
 book until the entrancing poisoh coursed  
 through young veins beyond the power of ant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859041301:0347/pct:93.73942470389171,68.1535152269897,34.34856175972927,30.431337031586096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859041301:0347/pct:23.43485617597293,17.038378806747424,8.587140439932318,7.607834257896524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4020,7 +4020,7 @@ greater value on the character of a doer of
 good than any other kind of reputation;  
 and if I have been a useful citizen, the pub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1859121001:0332/pct:279.6725784447476,62.861693655428724,50.13642564802183,15.343774887178126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1859121001:0332/pct:69.93006993006993,15.715423413857181,12.536244243561317,3.8359437217945316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4059,7 +4059,7 @@ pamphlet, &quot;The greatest good to the great­
 est numbor.&quot; There are single sentences  
 in the New Testament that have awaken
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860022101:0619/pct:95.84677419354838,123.121387283237,35.685483870967744,23.741460851287442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860022101:0619/pct:31.95321951875252,41.040462427745666,11.896760317246942,7.9138202837624805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4080,7 +4080,7 @@ J have always set a greater value on the
 character of a doer of good than any oth­  
 er kind of reputation; and if I have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn85025697:00393348288:1860022501:0491/pct:7.804202262756869,10.936205468102735,14.315400600323251,4.2419221209610605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn85025697:00393348288:1860022501:0491/pct:7.802400738688827,10.934393638170974,14.31786703601108,4.2453611663353215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4109,7 +4109,7 @@ the end of a pamphlet, The great e.-t
 good to the greatest number.&quot; There are  
 single sentences iu the New Testamen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477655:1860032201:0591/pct:63.659274193548384,46.14003590664273,19.976478494623656,12.259553731726083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477655:1860032201:0591/pct:47.76470588235294,34.61143883046935,14.991596638655462,9.194665298794563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4196,7 +4196,7 @@ eeee oe e e e a ee
   
   tan t tamt a ut on the character of a doer of good, than
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1860071301:0179/pct:115.39108494533221,253.69413195500152,157.1068124474348,9.364548494983278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1860071301:0179/pct:28.8659793814433,63.42353298875038,39.30149379339365,2.3411371237458196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4218,7 +4218,7 @@ I greater value &lt;?n the character of a doer;
 jof good, than any other kind of reputu-1  
 . tion : and if I have been a useful citizen, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1860072601:0571/pct:61.58457550226831,35.31895976883752,15.473104342190538,4.878861969326517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1860072601:0571/pct:61.595376971268095,35.31895976883752,15.462302873190755,4.882566496258428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4244,7 +4244,7 @@ tingle phrase that oaught his eve at the end of
 a pamphlet, “The greatest good of the greatest  
 number.” There are single sentences in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1860072601:0123/pct:17.50275200503224,70.99291631648457,12.470514231797452,5.775003001560812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1860072601:0123/pct:17.5,70.984393757503,12.47248427672956,5.777310924369748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4273,7 +4273,7 @@ at the end of the pamphlet, &quot; The greatest
 good of the greatest number.&quot;  
 There are single sentences in the Kt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1860100401:0123/pct:7.043051359516617,108.32476875642344,16.46525679758308,8.926736162090736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1860100401:0123/pct:5.290005667863215,81.25091763324035,12.355941809937654,6.695052121568052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4320,7 +4320,7 @@ life ; for I have always set a greater value on the
 character of a doer of good, than any other kind  
 of reputation ; and if I have been a useful citize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1860110801:0183/pct:17.861080485115767,21.844601897442057,12.348401323043,3.878948000480365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016524:1860110801:0183/pct:17.858267716535433,21.841978866474545,12.350393700787402,3.8814841498559076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4343,7 +4343,7 @@ life; lor I have always set a greater value
 oh the character of a doer of good, than any  
 other kiud of reputation ; and if I have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197619:1860112901:0262/pct:61.261843238587424,16.41311933007676,21.03789836347976,7.411025819958129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197619:1860112901:0262/pct:45.97156398104266,12.309839497557572,15.790607496768635,5.568736915561758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4363,7 +4363,7 @@ life ; fur I have always set a greater value on
 the character of a doer of good, than any  
 other kind of reputation : and if 1 have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1860120801:0089/pct:55.482290881688016,82.34714003944774,15.730972117558402,3.6911806142575374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1860120801:0089/pct:42.99897795298584,63.82661231620323,12.206161483428238,2.8570388702867957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4401,7 +4401,7 @@ pamphlet:- &quot;The greatest good of the greatest
 number.&quot;  
 There are single sentences in the New Teste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191319:1861011701:0058/pct:278.21380243572395,292.753120665742,49.2106450157871,31.830790568654646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191319:1861011701:0058/pct:69.56129468816962,73.1882801664355,12.304048719972933,7.957697642163661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4587,7 +4587,7 @@ ber.&quot; There are single sentences in the
 New Testament that have awakened to  
 spiritual life tens of thousands of dorman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861053101:0523/pct:281.0502283105023,69.05749851807943,49.77168949771689,37.225844694724366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861053101:0523/pct:70.26255707762557,17.264374629519857,12.442922374429223,9.306461173681091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4689,7 +4689,7 @@ a greater value on the character of a doer of ■
 goad than on any other kind of reputation,,  
 and if I have been a useful citizen, the pub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1863062401:0178/pct:78.90799108564151,43.38664361357251,15.138490926456543,5.738059217635617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1863062401:0178/pct:78.91329725140614,43.393847705496725,15.143797092221162,5.738059217635617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4818,7 +4818,7 @@ Tho President has kindly exempted the1
 following list of persons from military  
 duty under the last call for five hundre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1864032301:0171/pct:108.41204250295159,69.34643618280843,17.001180637544273,19.46483542505328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1864032301:0171/pct:81.35242876125794,52.01278711816244,12.756533293961317,14.59862656878996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4877,7 +4877,7 @@ phamphlet; &quot;The greatest good to the
 greatest number.&quot;  
 There are single sentences in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668168:1865062001:0595/pct:249.20749279538904,117.74851050486046,38.04034582132565,25.274380683599876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668168:1865062001:0595/pct:83.1050886550382,39.249503501620154,12.685598962087358,8.424793561199959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4899,7 +4899,7 @@ le character of a doer of good than any
 •ther kind of reputation and if I have  
 been a good citizen, tbe public owes all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1865062101:0896/pct:5.966438781852082,81.07281256373649,10.926041019266625,3.7120130532327145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1865062101:0896/pct:5.974725502382432,81.07621184308927,10.917754298736275,3.7222108912910463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4965,7 +4965,7 @@ I Jave always set a greater value on
 the character ol a doer of good than  
 any other ivputai ion ; and if I hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194953:1868102701:0571/pct:95.85441259134345,65.73765199612612,14.629005059021923,4.5518131927257075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194953:1868102701:0571/pct:71.90442726633871,49.305929194017004,10.976809557273366,3.4111696976218657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5035,7 +5035,7 @@ and J often think of it when I see pride
 moitified and misfortune brought upon a  
 people by carrying their heads too high.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1869090201:0148/pct:34.848971722365036,57.05534893896303,16.163239074550127,12.065193611901115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1869090201:0148/pct:34.85432733504713,57.06264128928754,16.16859468723222,12.06883978706337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5071,7 +5071,7 @@ brought upou a people by currying their
 heads too high.&quot;  
 Col. E. T. Htac-khouse, of Marion, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn84026920:00294558718:1869091801:0179/pct:70.93341003883216,73.52358765288294,13.93643031784841,17.181129877693653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn84026920:00294558718:1869091801:0179/pct:70.93820413250874,73.52747039409823,13.93163622417182,17.18501261890895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5121,7 +5121,7 @@ For A covun mix and take often
 one teaspoonful of castor oil, one do.  
 of paregoric, and one do of spirits o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869120101:0810/pct:64.92776886035313,266.62857142857143,45.50561797752809,53.08571428571429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869120101:0810/pct:16.23194221508828,66.65714285714286,11.376404494382022,13.271428571428572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5192,7 +5192,7 @@ iujj their heads too high.&quot;
 Dr. David Livinotone.. The foreign  
 mails bring later intelligence of the salet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1870021201:0212/pct:88.67380560131795,85.67493112947659,19.481054365733115,21.255618384804986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776075:1870021201:0212/pct:66.5430572723527,64.25982311149775,14.627111660486197,15.94896331738437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5523,7 +5523,7 @@ Ihink of it w hen I see pride lllorlilied. amt |
 mUlorUllies brought upon |M&#x27;ople by tint&#x27; i  
 carrying their heads too high.&quot; — l&gt;r 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895825:1882072401:0079/pct:4.397487150199885,52.37084217975938,13.116314486959832,8.945506015569709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895825:1882072401:0079/pct:4.396650171298059,52.36343051231248,13.118576322801674,8.947778092272856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5757,7 +5757,7 @@ so forcibly given, and said that it did
 him good service.  
 A Methodist minister once starte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1888121901:0112/pct:16.12700408676517,36.68702453659059,16.189877397044956,13.168327440265724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1888121901:0112/pct:16.132243529288484,36.68702453659059,16.189877397044956,13.171898996392729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5787,7 +5787,7 @@ and have the world before you
 go through it, and you will miss  
 many hard thumps..&quot; FranHm wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89064939:00206537991:1889010901:0016/pct:65.85365853658537,76.50651944085516,14.650967199327166,9.644073769528955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89064939:00206537991:1889010901:0016/pct:65.86487244182787,76.50651944085516,14.650967199327166,9.651904929715338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5819,7 +5819,7 @@ and have the world before you
 go through it, and you will miss  
 many hard thumps.&quot; Franklin wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348092:1889011001:0014/pct:41.857405945803734,59.50725822940094,10.760326229939489,9.067675322020037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348092:1889011001:0014/pct:41.86179075681838,59.50725822940094,10.755941418924845,9.074490560894159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5849,7 +5849,7 @@ and have the world liefore you;
 go through it. and you will miss  
 many hard thumps.” Franklin wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kale_ver01:data:sn99068116:00340581209:1889011001:0027/pct:13.543343297309727,57.38183749336166,9.795355254081398,7.178261639228182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kale_ver01:data:sn99068116:00340581209:1889011001:0027/pct:13.543343297309727,57.38478786805924,9.795355254081398,7.1812120139257685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5879,7 +5879,7 @@ and have the world before you
 go through it, and you will miss  
 many hard thumps.&quot; Franklin wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1889011701:0824/pct:55.62610229276896,81.3335097235084,15.167548500881834,10.874454292895885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1889011701:0824/pct:44.49983539481729,65.07443731037888,12.147862484127357,8.703167995484371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5911,7 +5911,7 @@ and have the world before you;
 go through it, and you will miss  
 many hard thumps.&quot; Franklin wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270209:00279527756:1890012501:0129/pct:74.69102632993014,88.8990082979154,16.523374529822675,12.841530054644808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270209:00279527756:1890012501:0129/pct:56.033324375167965,66.67678607569317,12.402579951625906,9.633677393240236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5938,7 +5938,7 @@ I have always set a greater value o]
 j than any other kind of reputation  
 and if I have been a useful citize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551372:1891061701:0277/pct:49.04065783462769,23.420285158781596,11.854728186386478,7.266688269604666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551372:1891061701:0277/pct:49.04446474798234,23.420285158781596,11.854728186386478,7.269388636854612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5966,7 +5966,7 @@ and I have often thought of it when I have
 seen pride mortined, and men brought low,  
 by carrying their heads too high
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:00175048376:1892073101:0572/pct:53.15736719011026,12.749663665528304,45.67323755429335,19.383214322674117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:00175048376:1892073101:0572/pct:17.71912239670342,4.249887888509434,15.224412518097784,6.461071440891373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6005,7 +6005,7 @@ house through a narrow passage, which
 was crossed by a beam overhead. We  
 were still talking as I -withdrew, he ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206538673:1892110601:0062/pct:60.92633315008246,89.0121500264131,10.582737768004398,6.117274167987322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206538673:1892110601:0062/pct:60.92633315008246,89.0156717731995,10.582737768004398,6.120795914773728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6039,7 +6039,7 @@ misfortunes brought upon people by
 their carrying their heads too high.  
 B. Fit A UN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206538673:1892110601:0062/pct:71.92138537658055,48.13523507659799,10.788894997251237,8.378235604860011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206538673:1892110601:0062/pct:71.92138537658055,48.13523507659799,10.80263881253436,8.385279098432823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6084,7 +6084,7 @@ pride mortified or misfortunes brought
 upon people by their carrying their  
 heads too high. B. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287034:1892122101:0087/pct:26.526315789473685,43.56768885564697,12.25,17.352281226626776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287034:1892122101:0087/pct:26.526315789473685,43.57392171528297,12.25438596491228,17.346048366990775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6188,7 +6188,7 @@ duct through life, and made him always “set a greater value
 on the character of a doer of good than on any other kind  
 of reputation.” ... . .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894051701:0314/pct:6.817733990147783,46.70683280843489,20.76847290640394,1.9580994112008763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894051701:0314/pct:6.81639085894405,46.70043811610077,20.770948253217757,1.9623950346841914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6257,7 +6257,7 @@ of it when I see pride mortified and misfor­
 tunes brought upon people by carrying their  
 heads too high.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1896010201:0707/pct:27.877947295423024,50.00683153436262,21.161085793540718,13.936330099740402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1896010201:0707/pct:27.87242472266244,50.0,21.163497094558902,13.938979963570128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6302,7 +6302,7 @@ TYPOGRAPHICAL ERRORS.
   
 lOW EASY IT IS TO HAVE THEM AND HO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1896011101:0257/pct:51.506979695431475,53.063138153782035,19.71763959390863,16.816003334027922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1896011101:0257/pct:51.51226734348562,53.063138153782035,19.712351945854483,16.81947627978051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6332,7 +6332,7 @@ think, a useful citizen, the public
 owes it to that book.”  
 * *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349268:1896090501:0351/pct:72.78155581356775,35.5132351179782,10.648532094874772,8.875314408911247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349268:1896090501:0351/pct:72.76948590381426,35.50898203592814,10.650912106135987,8.877245508982035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6409,7 +6409,7 @@ may again have occasion for all of
 them. Respectfully,  
 H. L. Sand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1896121601:0134/pct:17.425388529775823,40.50948509485095,11.704029707055426,10.937669376693767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1896121601:0134/pct:17.434557374043003,40.50948509485095,11.699445284921836,10.944896115627824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6465,7 +6465,7 @@ and misfortunes brought upon
 eople by carrying their heads too  
 igb.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287162:1897062301:0306/pct:16.273658082531803,57.61526232114468,14.024201054917778,11.012188659247483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287162:1897062301:0306/pct:16.273658082531803,57.61526232114468,14.024201054917778,11.022787493375729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6511,7 +6511,7 @@ mortified,and misfortunes brought
 upon people by carrying their  
 heads too high.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_elgincatfishstomp_ver02:data:sn93067841:00295862488:1897070101:0094/pct:49.03795233892321,44.37748720864127,18.923212709620476,24.63899943149517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_elgincatfishstomp_ver02:data:sn93067841:00295862488:1897070101:0094/pct:49.03795233892321,44.38506727307182,18.940864960282436,24.63899943149517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6556,7 +6556,7 @@ book.’
 &quot;If children can be spoiled by reading  
 end books, who shall say how muc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00340587935:1897090901:0471/pct:3.0557677616501144,51.62224797219003,12.738731856378916,7.633256083429896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00340587935:1897090901:0471/pct:3.055184265801031,51.61477190441709,12.741073133473362,7.635771180304127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

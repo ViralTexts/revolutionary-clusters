@@ -62,7 +62,7 @@ ts be for
 bet take  
 world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn83045160:0020029290A:1858011001:0033/pct:136.05927552140506,91.512133093144,39.51701427003293,27.763060294585145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn83045160:0020029290A:1858011001:0033/pct:34.02882635552505,22.878033273286,9.883321894303362,6.940765073646286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ that one would suppose that they owned
 the premises, and their master was only a  
 boarder
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_evart_ver01:data:sn85033781:00296023735:1858012901:0035/pct:82.95843520782397,106.28603310396132,19.841075794621027,25.36730518876697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_evart_ver01:data:sn85033781:00296023735:1858012901:0035/pct:55.32591414944356,70.85735540264088,13.232236761648526,16.91463641435745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ yourself, and then all the world will
 love you, and I more than all the  
 world.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1858030401:0676/pct:141.98473282442748,166.5938864628821,57.25190839694657,63.646288209606986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1858030401:0676/pct:35.518777848504136,41.648471615720524,14.322087842138766,15.911572052401747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ world will love VOU. and I mnm thon oil
 . J wut.U Ull fcUH  
 world.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858031101:0849/pct:107.20186781609195,105.85453150965103,16.307471264367816,15.390515147641569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858031101:0849/pct:80.43478260869566,79.39409433721079,12.23499820337765,11.542886360731178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ i tojbe ; take more pleasure in giving what is
 and then all the world will love you, an! I  
 more than all the worl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1858032701:0052/pct:44.04614750721055,87.00164406083024,12.676830105754703,10.491163173037402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1858032701:0052/pct:44.04009887393573,86.99270522963116,12.679666758216607,10.4935100517141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ even cold to us, but we love it for! October 13, 183s,
 its laughing skies, its gorgeous  
 unsets, and the bracing tone of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295877972:1858102001:0373/pct:163.5593220338983,281.3599062133646,148.19915254237287,108.79249706916764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295877972:1858102001:0373/pct:40.90066225165563,70.33997655334115,37.05960264900662,27.19812426729191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ The world is good enough, if those
 who inhabit it would make the best of it.  
 Leave your grie vances as Bonapart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1859060301:0095/pct:68.47662141779789,183.22808048171538,49.09502262443439,16.507563518872082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1859060301:0095/pct:17.125612976235384,45.807020120428845,12.278385514900037,4.126890879718021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ Try to let everybody&#x27;s faults be
 forgotten--as you would wish yours  
 to bee e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82014296:0029602207A:1866060201:0331/pct:193.1547619047619,65.17607602012298,56.026785714285715,28.228060368921184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82014296:0029602207A:1866060201:0331/pct:48.29767441860465,16.294019005030744,14.009302325581395,7.057015092230296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ gotten, as you would wish yours to be.
 ii tnere is any person to wnom you  
 feel a dislike that is the person of who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628377:1871011201:0433/pct:53.39861751152074,47.67710049423394,14.559331797235023,2.57001647446458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628377:1871011201:0433/pct:40.06627287134419,35.760571114772105,10.935023771790808,1.9330038440417354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

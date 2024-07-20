@@ -379,7 +379,7 @@ happens, I mako a supplement to my night&#x27;s
 rest of ono or two hours of tho most pleasant  
 sleep that can bo Imagined.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102949:1889082201:0073/pct:41.56282450674974,64.72222222222223,16.303219106957425,8.521825396825397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102949:1889082201:0073/pct:31.190754447474355,48.541666666666664,12.232177639267627,6.398809523809524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ it does not, in fact, contribute much
 t-;  
 to its preservation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556023:1899063001:0450/pct:44.922879177377894,96.97189045723248,19.489074550128535,29.195319097599228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556023:1899063001:0450/pct:33.69757351759601,72.734949933647,14.623172103487065,21.89648932319942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ much to its preservation. I shall,
 therefore, call it for the future, a brac­  
 ing or tonic bath.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768868:1899072401:0469/pct:56.061098472538184,5.050872093023256,24.780630484237893,89.89825581395348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768868:1899072401:0469/pct:56.061098472538184,5.050872093023256,24.79688007799805,89.91036821705427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

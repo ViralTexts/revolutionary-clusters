@@ -325,7 +325,7 @@ bill, I do not know what is. Blackstone defines a
 revenue bill to include all bills by which money is  
 directed to be raised upon the subject, for any purpose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530583:1858060101:0422/pct:155.28601868546139,139.74811676082862,46.582527454515656,4.743408662900189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530583:1858060101:0422/pct:51.76200622848713,46.58270558694287,15.527509151505217,1.5811362209667295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ know what is. Blackstone defines a revenue
 bill to include all bills by which money is  
 directed to be raised upon the subject, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1858062501:0955/pct:19.65753424657534,238.49267271458478,42.32876712328767,5.4152128401953945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1858062501:0955/pct:4.915225209796198,59.623168178646196,10.584004110292858,1.3538032100488486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

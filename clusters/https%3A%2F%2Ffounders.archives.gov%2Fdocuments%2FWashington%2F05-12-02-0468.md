@@ -45,7 +45,7 @@ j proceeding in a foreign power is justly con­
 sidered as a sufficient cause for declaring  
 war against him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812012301:0316/pct:23.116596058205932,7.700837851158206,17.645975317738074,8.304583538689009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812012301:0316/pct:23.112338858195212,7.699889121596649,17.648864333947206,8.307667036261345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ and supposing even that they had received such an order, I
 they ought not to hare obeyed it, their sovereign having no  
 right to command what isoantrary to the law of Nature.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855112101:1209/pct:67.4136786188579,26.43898695318496,15.96945551128818,9.567664364287541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855112101:1209/pct:67.42474546259407,26.447514283277904,15.974988933156263,9.567664364287541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ that they had received auch an order, they ougbt not to hate
 obeyed it; tetr soverelgn having no right to comamand what is  
  contrary to the law of nature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022901:0483/pct:150.32822757111597,13.887301405874958,95.20282780676654,278.1232140816093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022901:0483/pct:50.10940919037199,4.629100468624986,31.734275935588848,92.7077380272031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ ceived such an order, they ought not to have obeyed it:
 their sovereign having no right to command what is con­  
 trary to the law of nature.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856030101:0262/pct:48.60215053763441,77.70668673943044,15.930521091811414,6.448375360682474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856030101:0262/pct:48.607664736697,77.71505039100072,15.936035290874,6.4441935348973365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ haring no right to command what is oontrarv to the law
 of natnre. ? e ? But if it appears that tliey acted by­  
 order, ancli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856031301:0311/pct:80.25842329080798,59.90130330254334,15.848871442590776,9.679868404403392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856031301:0311/pct:80.269327227129,59.90973891771058,15.84341947443027,9.68408621198701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ justy considered as an miury and as a sufficient cause for de-
 claring war against him, unless he condescends to make sult  
 able reparation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857021401:0380/pct:51.40172029308697,191.37202579497443,45.0939789741956,16.3553480097843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857021401:0380/pct:17.133906764362322,63.79067526499148,15.031326324731868,5.4517826699281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

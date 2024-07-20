@@ -62,7 +62,7 @@ Affairs, has this day notified to the Minis- *
 ters of friendly and neutral powers resident  
 at this Court, that inconsequence of the re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807050101:0145/pct:60.23071104387292,85.03677402992645,17.946293494704992,3.0053258939893484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807050101:0145/pct:60.219323123463795,85.02599213896285,17.949202747841433,3.00917121000803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ consequence of the recent hostile proceedings of the
 Ottoman Porte, his majesty has judged it expedi­  
 ent to direct, that the blockade of the straits of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807070101:0602/pct:49.40886699507389,82.88127334740945,21.182266009852217,4.710086080883547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807070101:0602/pct:49.3967003201182,82.86781422539785,21.18320610687023,4.713380967846703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ jesty has judged it expedient to direct that the most
 rigorous blockade should be established at the en­  
 ti since of the river Lvder, and that the same will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807120201:0859/pct:73.11201216421694,37.15881883479649,21.870248352762292,4.692737430167598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807120201:0859/pct:73.09348872561439,37.152888605170766,21.871041297187737,4.695978295563358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ ous blockade of the ]:ortof Copenha­
 gen, and of all the other ports in the  
 tl of Zealand ; r.nd that the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808062901:0003/pct:42.21345514950166,39.72638100154879,17.877906976744185,5.9499225606608155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808062901:0003/pct:42.21345514950166,39.73498537256926,17.88482834994463,5.954224746171055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ reign Affairs, has this day nqtificd to the
 Ministers of friendly and neutral powers re­  
 sident at this court, that his Majesty ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808070101:0076/pct:5.316223648029331,10.734463276836157,17.56186984417965,2.9880728185812933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808070101:0076/pct:5.31524926686217,10.733115741903088,17.564760508308897,2.9918821658716213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ reign affairs, has this day notified to the mi­
 nisters of friendly and neutral powers resi- |  
 dent at this Court, that his Majesty ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808070101:0219/pct:5.809205642167781,3.766816143497758,17.780252412769116,2.9596412556053813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808070101:0219/pct:5.808127667470774,3.7663335895465027,17.783138491989856,2.963532325561534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -254,7 +254,7 @@ us, who, in his presence, and in the presence of each
 other, and at his request, have subscribed our names as  
 witnesses hereto. (Signed) A Pakl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855031101:0573/pct:155.6955380577428,140.5034046692607,46.78915135608049,14.421206225680933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855031101:0573/pct:51.89851268591426,46.8344682230869,15.596383785360164,4.807068741893644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ presence, and in the presence of each other, and
 at his request, have subscribed our names as  
 witnesses hereto. H. C. Rice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171876:1872083001:0823/pct:34.813834813834816,42.49585406301824,14.023814023814024,3.1923714759535655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171876:1872083001:0823/pct:26.990869586445974,32.9418064976794,10.863727357062643,2.4776865405212423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ at his request in his presence and in
 the presence of each other subscribed  
 our names as witnesses theret
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:00206535817:1887092101:0284/pct:117.68115942028986,106.5262076053443,20.16304347826087,10.739979445015416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:00206535817:1887092101:0284/pct:78.50280949791554,71.0174717368962,13.449338408555374,7.168550873586844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ same for the uses and purposes there
   
 in set forth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_desdemona_ver03:data:sn85047084:0020219607A:1899092001:0521/pct:46.101145989038365,36.00229313969042,17.762830094668658,3.153067074335945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_desdemona_ver03:data:sn85047084:0020219607A:1899092001:0521/pct:34.58328142518998,27.00171985476782,13.330011212158963,2.369577680107013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

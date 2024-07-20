@@ -37,7 +37,7 @@ evil, so as neither to be exalted
 by the one, nor overthrown by  
 the other, but to bear ourselve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065521:00295878174:1856090301:0546/pct:44.203125,109.14285714285714,18.671875,9.934065934065934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065521:00295878174:1856090301:0546/pct:33.16143147366776,81.85714285714286,14.002187841850288,7.461538461538462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -73,7 +73,7 @@ which happens with such ease and indif-­
 ference of mind, as to hasard as little as  
 may be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:0027955419A:1864031901:0275/pct:16.252039151712886,285.8612177729018,53.466557911908644,24.23203510696654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:0027955419A:1864031901:0275/pct:4.063009787928221,71.46530444322545,13.366639477977161,6.058008776741635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ how to receive these certain vicissitudes of life,
 —the returns of good and evil,—so as neither  
 to be exalted by the one, by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1869090701:0347/pct:83.18640603040757,46.63346422756441,12.214130573655297,3.179772052485394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1869090701:0347/pct:83.19492355521486,46.63665676978578,12.21838933605894,3.182964594706765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ vicissitudes of life, there turns of good and
 evil, so as neither to be exalted by the one  
 nor overthrown by the other, but to bea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0028077585A:1880123001:0352/pct:33.78628783199506,30.569262245757614,13.048177887584929,4.224335058370442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0028077585A:1880123001:0352/pct:25.34754402224282,22.92694668431821,9.793018226753167,3.1772776507401614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ certain vicissitudes of life—the returns
 of good and evil—so as neither to be ex­  
 alted by the one. nor overthrown by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn83025287:00100493913:1881060501:0312/pct:42.988326848249024,89.32038834951456,12.933852140077821,6.238143064390135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn83025287:00100493913:1881060501:0312/pct:42.9935149156939,89.32782799538742,12.939040207522698,6.238143064390135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ neither exalted by the one, nor over­
 thrown by the other, but to bear our­  
 selves toward everything that happen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768825:1882041301:1383/pct:81.44481887110362,73.18207440811724,14.932603201347936,12.626832018038332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768825:1882041301:1383/pct:81.4588598708228,73.19146937241638,14.925582701488345,12.626832018038332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ neither exalted by the one, nor over­
 thrown by the other, but to bear our­  
 selves toward every thing that happen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876487:1882042001:0443/pct:36.11676849966056,84.12579957356077,9.911744738628649,6.076759061833688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876487:1882042001:0443/pct:36.11676849966056,84.12579957356077,9.925322471147318,6.083866382373845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

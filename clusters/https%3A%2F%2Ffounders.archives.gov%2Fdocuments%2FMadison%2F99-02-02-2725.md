@@ -189,7 +189,7 @@ Yonr most ohediciit servant,
 ROUT. H RANDOLPH,  
 ft tic &lt;1 the l . S. Savy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348847:1833052001:0312/pct:49.472830494728306,21.18353344768439,15.936739659367397,48.484848484848484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348847:1833052001:0312/pct:49.46280154064464,21.180505931113334,15.938576930873708,48.481492068029155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ Your most obedient servant,
 ROBT. U RANDOLPH,  
 Late of the U S. JYavy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1833053001:0309/pct:17.24339035769829,24.596830739026785,14.696734059097977,60.524470621231245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1833053001:0309/pct:17.240038872691933,24.593381940549637,14.698736637512148,60.519489624228825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ ery latitude of the globe, and have always
 sustained the reputation of an officer dew  
 voted to his country’e service, .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021520:00340588046:1833060101:0313/pct:78.2825761357963,35.979649787032656,15.343651189881843,20.409370563180314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021520:00340588046:1833060101:0313/pct:78.2825761357963,35.979649787032656,15.354745659288845,20.421202082347374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ and almost every latitude of the globe, and
 hare always sustained the reputation of an of­  
 ficer devoted to his country&#x27;s service.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1833060601:0905/pct:41.09926168990976,61.765544780376494,17.001640689089417,20.393610952652594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1833060601:0905/pct:41.09083452942382,61.75673748752317,17.00328070535165,20.394267788392984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

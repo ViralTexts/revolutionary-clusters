@@ -130,7 +130,7 @@ uot fall upon me.&quot;?Washington to Gen. Lincoln.
 State pfUurfi) I would cot nay that I would yield my proten­  
 sions, for I have not the vanity to believe that I have any fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102101:0365/pct:32.6302195436935,3.420816509645581,31.195293442387715,95.32301480484522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102101:0365/pct:32.635002630697855,3.420816509645581,31.195293442387715,95.33049199940183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ or propriety, s.ty to yon, that I most heard
 ly wish the choice to which you allude  
 might not fall upon me.”—Washington t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848102101:0264/pct:63.626445559677066,53.893249607535324,18.503163866463016,3.877551020408163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848102101:0264/pct:49.32078236852489,41.767377727309594,14.328391860661744,3.0091653824316653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ modesty or propriety, say to you, that I
 most heartily wish the choice to which you  
 allude, might not fall upon me.&quot; Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1848102601:0017/pct:44.9528672427337,73.32807570977918,18.89238020424195,4.684542586750789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1848102601:0017/pct:33.73943800353704,55.0,14.187463155826292,3.5173501577287065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ that I would yield my pretensions, for I
 have not the vanity to believe that I have any  
 for that distinguished station; but would ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848103101:0612/pct:278.08946171341927,116.29072681704261,51.47839272175891,20.168067226890756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848103101:0612/pct:69.56191921107529,29.072681704260653,12.876920159302106,5.042016806722689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ and private letters irom ray correspondents in almost
 j obliged to sraswer tbe question, whether I would go aga&#x27;n  
 e into public life or not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849071301:0045/pct:82.50999200639488,20.780524532563685,17.42605915267786,21.332664073283976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849071301:0045/pct:82.51532107647216,20.78889028318066,17.4367172928324,21.336846948592463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ modesty or propricty, say to you, that I
 most heartily wish the choice to which  
 you gillible might not fall upon me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874429:1850072001:0100/pct:52.18917112299465,26.403061224489797,38.00133689839572,7.966141001855288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874429:1850072001:0100/pct:17.39639037433155,8.801020408163266,12.667112299465241,2.6553803339517623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ eptable to him. There is nothing in such
   
 can be reconciled with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881073101:0149/pct:5.071428571428571,287.0780963140799,69.0,14.743680271148143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881073101:0149/pct:1.2685367160979095,71.76952407851998,17.259246024656065,3.685920067787036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

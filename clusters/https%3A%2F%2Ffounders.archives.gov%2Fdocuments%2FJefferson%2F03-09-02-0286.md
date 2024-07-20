@@ -45,7 +45,7 @@ missioners consists of the five following members, viz: E. War­
 foise, the Attorney Generaliof the State, and ex-officio Pres  
 Your petitioners further show that the Central Board of Co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475397:1857072201:0832/pct:244.11644951140065,92.08743842364532,38.17182410423453,27.94027093596059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475397:1857072201:0832/pct:81.37214983713355,30.695812807881772,12.723941368078176,9.313423645320198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ a of what concerus the State generally;
 ties with the focal concerns of the  
 ; and each ward direct the interest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859101101:0345/pct:15.181518151815181,84.4238819123155,46.31463146314631,28.552544613350957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859101101:0345/pct:3.7959015266125706,21.105970478078873,11.580250309448495,7.138136153337739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ words, Carthago delendum est, so do I every
 opinion with the injunction, Divide the  
 counties into-wards
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1873082901:0564/pct:146.92144373673037,337.6663254861822,39.91507430997877,49.02763561924258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1873082901:0564/pct:36.73036093418259,84.41658137154555,9.978768577494693,12.256908904810645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ Carthaga delendum est, so do I every
 opinion with the injunction, Divide the  
 counties into wards.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629229:1873090401:1128/pct:46.24233128834356,87.38822901374617,151.7638036809816,54.6643533965034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629229:1873090401:1128/pct:11.565017261219793,21.847057253436542,37.955504411200614,13.66608834912585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ case of the embargo I felt the foundation of
 tlie government shaken under my feet by the  
 New England Townships,” Again he sat*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1879010301:0219/pct:42.18951241950322,35.2388958946336,15.087396504139834,3.278688524590164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1879010301:0219/pct:32.69642093255383,27.310239982625692,11.697324017301202,2.5482318022224635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ subdividing from ’he great nation down; by
 placing under every one what his own eye  
 may superintend that all will be done t!i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1879010301:0219/pct:42.18951241950322,38.55961888748774,15.087396504139834,3.8671710802858343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1879010301:0219/pct:32.69642093255383,29.891048611865205,11.697324017301202,2.993448438122127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ vailed at tne sontn, oouia compete, xet au
 bat the commercial States sustained the em­  
 bargo, and the Federalist party was left 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764212:1884022701:0198/pct:101.68408826945412,116.7065868263473,13.385598141695702,4.946107784431137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764212:1884022701:0198/pct:76.29629629629629,87.53293413173652,10.050835148874365,3.712574850299401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ Venetian senate
 Nothing truer was ever said as to the  
 cause Hi at has destroyed liberty and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058117:206534886:1885072701:0505/pct:50.21526980482204,78.59249466083597,18.94374282433984,35.25882233296044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058117:206534886:1885072701:0505/pct:33.491243181165665,52.39499644055731,12.632787826586275,23.50927150072884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +593,7 @@ body, no matter whether of the autocrat of
 Russia or France or the aristocrats of a  
 Venetian Senate. So far as I am concerned, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044917:1887093001:0682/pct:123.58855375096674,251.12885885424666,50.193348801237434,42.52802948855783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044917:1887093001:0682/pct:30.90909090909091,62.782214713561665,12.553191489361701,10.632007372139457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ one body, no matter whether of the
 autocrat of Russia or France or the  
 ristocrats of a Venetian Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887100301:0799/pct:23.252032520325205,283.15633821750237,48.292682926829265,68.45006049200161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887100301:0799/pct:5.8141898759910555,70.78908455437559,12.075625127058345,17.112515123000403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ ter whether of the autocrat of Ilossia
 or FfJ4ace or lh- MittocrAia of a Vene.  
 ,iail tfa.e. So far as I am concerned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477734:1887101401:0081/pct:54.71116096466629,39.375368296994694,15.002804262478968,14.637595757218621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477734:1887101401:0081/pct:41.051893408134646,29.534472598703594,11.26227208976157,10.984089569829111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ ment is not to trust if all to one, but to divide it among
 the many, distributing to every one exactly the funo­  
 tions he is comperent to.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.1158864159632,230.93349603416718,50.49884881043745,7.62660158633313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.80614203454894,57.733374008541794,12.629558541266794,1.9066503965832824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ I every one exactly the functions he is
 competent to.  
 &#x27; My
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.17618040873855,73.39264051758997,12.290345313601128,4.791750909826122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.1662908680947,73.38522187405236,12.293310785419015,4.794635937868526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ every one exactly the functions be
 ia competent to.  
 Whence! an. one Slate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.28012279355334,63.49258649093905,10.744435917114352,4.151565074135091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.28012279355334,63.49258649093905,10.744435917114352,4.162548050521691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ ment. It has to do with tho adminis­
 tration of the poor laws, dispensing re  
 lief to, tho poor, building bridges, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870382:1890040701:0381/pct:29.168570123343994,39.40631380555992,18.147555961626313,14.928537772891472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870382:1890040701:0381/pct:21.889637838455386,29.558661850164913,13.618188049811494,11.198366577666091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1146,7 +1146,7 @@ der every one what his own eye may
 superintend, that all will be done for  
 the best.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_faribault_ver01:data:sn90059522:00206538685:1893020601:0380/pct:16.93683622135271,71.25824994677454,10.63443264393516,8.303172237598467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_faribault_ver01:data:sn90059522:00206538685:1893020601:0380/pct:16.94615241289361,71.26179831097863,10.62977454816471,8.299623873394365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1178,7 @@ der every one what his own eye may
 superintend, that all will be done for  
 the best.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_faribault_ver01:data:sn90059522:00206538685:1893020601:0381/pct:16.89491335941867,71.22631466893762,10.63443264393516,8.313817330210773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_faribault_ver01:data:sn90059522:00206538685:1893020601:0381/pct:16.89957145518912,71.22986303314173,10.62977454816471,8.313817330210773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1327,7 +1327,7 @@ powers la proportion as the trustees become
 more and more remote.&quot;  
 Again: &quot;Ihe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556874:1894101101:0117/pct:68.52739726027397,10.671167077761911,37.68835616438356,121.67986498766714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556874:1894101101:0117/pct:51.421719767043506,8.009866285862651,28.28023295649195,91.26314422952096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1426,7 +1426,7 @@ thage must be destroyed.&#x27; so do I every
 opinion with the injunction: &#x27;Divide the  
 counties into, townships.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665519:1894122901:0574/pct:56.93950177935943,14.24061433447099,16.11432384341637,3.4897610921501707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665519:1894122901:0574/pct:42.71887862943598,10.68259385665529,12.092557570363779,2.6194539249146755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1444,7 +1444,7 @@ Government is not to trust it all to one, but to
 divide it among the many, distributing to every­  
 one exactly the functions he is competent t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:278.2110091743119,250.86010047191354,50.993883792048926,9.072918252397626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:69.55275229357798,62.715025117978385,12.748470948012232,2.2682295630994065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1626,7 +1626,7 @@ functionaries so ns to trust fewer and
 fewer powers In proportion ns the trustees  
 hoc .me more and more remote.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212025:1896102301:0834/pct:37.59519038076152,63.78328255398066,14.809619238476953,13.617697708305736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212025:1896102301:0834/pct:37.58765778401122,63.77483443708609,14.811660989781608,13.619205298013245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1654,7 +1654,7 @@ aristocrats of the Venetian state
 Thomas Jefferson.  
 A gentleman tramp appeared a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_kocoum_ver01:data:sn89066489:00294556692:1898012701:0033/pct:42.56061719324026,48.85284810126582,19.61792799412197,13.343881856540085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_kocoum_ver01:data:sn89066489:00294556692:1898012701:0033/pct:31.93678794560823,36.642932489451475,14.718853362734288,10.007911392405063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1679,7 +1679,7 @@ Senate.&quot;
 This &quot;concentrating of all powers&quot; in  
 the hands of the Federal authority a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898020801:0514/pct:131.88622754491018,367.7251112133763,49.40119760479042,23.80733241294677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898020801:0514/pct:32.983901160614,91.93127780334407,12.354923249719207,5.951833103236693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1787,7 +1787,7 @@ of the Venetian senate. &quot;
 This &quot;concentrating of all powers&quot; In the  
 hands of the federal authority nt Washing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539434:1898021101:0902/pct:68.26990838618745,62.98478826915171,12.491190979563072,4.138687131697958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539434:1898021101:0902/pct:68.26990838618745,62.98478826915171,12.491190979563072,4.148965328217075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1816,7 +1816,7 @@ destroyed the lights and liberties of
 man in every government which has  
 ever existed under the sun. We there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:00296021143:1898090801:0785/pct:75.43432939541349,36.01380721043211,15.514246004169562,3.7586295065200717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:00296021143:1898090801:0785/pct:56.60410149461244,27.01355152135004,11.644073687869309,2.8253643569419586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -37,7 +37,7 @@ ing within the limits nf tire British sovereignty
 and ot using the shores of the British territories  
 for purposes connec ted with the fisheries
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814101501:0095/pct:51.24491869918699,81.22435581815198,21.875,4.661086492696537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814101501:0095/pct:51.23190246380493,81.2110272399081,21.875793751587505,4.6644240236298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +65,7 @@ day.
 The American Commissioners at this meet­  
 ing stated, that upon the first and third points
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814101501:0184/pct:42.06947252343319,60.608327100473694,17.1475831648594,7.903266018449265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814101501:0184/pct:42.06174200661521,60.600772778262495,17.150557393115275,7.906435664132286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,7 +86,7 @@ limits of the British Sovereignty and of using
 the shores of the British territories for purpo*  
 ses connected with the fisherisa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814101501:0270/pct:60.43018727980716,52.13815789473684,17.633969961060632,3.896761133603239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814101501:0270/pct:60.418984056358916,52.13156230234029,17.636880484488938,3.900484925152857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ on the shores of the British territories, would pot be
 venewed without an equivalent, &#x27;  
 &quot; The extent of what Wwas considered by them a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814101701:1125/pct:2.39673635900051,58.66222701008716,23.610402855685873,6.306923905592009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814101701:1125/pct:2.408068445804295,58.66875591682173,23.610402855685873,6.306923905592009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ an Indian pacificationy they knew that the
 government of the United States had appoin­  
 ted Commissioners to treat of peace with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814101701:1125/pct:51.334353221145676,51.57183429634708,23.015468298487168,13.740084222896876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814101701:1125/pct:51.340019264547564,51.57183429634708,23.02680038529095,13.74334867626416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ ing stated, that upon the first and third points
 propossd by the British Cominissioners, they  
 were provided vith instructiors from their gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814101801:0170/pct:43.32012454005095,76.38820879443738,16.61477497877158,8.314562726471452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814101801:0170/pct:43.324841966223225,76.38820879443738,16.624209831116143,8.314562726471452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ eries, viz That the Brit sh government did
 not intend to grant to the United States,  
 gratuitously, the privileges formerly grant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814102001:0577/pct:69.55909943714822,94.05017921146954,20.98968105065666,2.121863799283154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814102001:0577/pct:69.54279015240328,94.03669724770643,20.990621336459554,2.1251433486238533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ Lad appointed Commissioners to treat of
 peace with the Indians, and that it was not  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814102001:0578/pct:8.23890462700661,4.8426498060066105,22.285174693106704,13.421468601810606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814102001:0578/pct:8.236960113287704,4.841954022988506,22.28581543544961,13.423132183908047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ ers, they were piovidtd with instructions
 f om tlkcir government, and that the second  
 and fourth of these points were not provide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814102401:0129/pct:38.7841558991739,11.688680585144155,36.79305231942385,82.91435875585854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814102401:0129/pct:38.775942397289285,11.68702073274638,36.79055484963998,82.90613462084634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ to them of fishing within the British sovereignty, and
 of using the sluires of the British territories fur pur­  
 poses connected with thefishtr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815042401:0057/pct:19.72619788425638,43.14391291321282,17.828251400124454,8.678717667032858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815042401:0057/pct:19.723129569139836,43.13960455362493,17.82936693109348,8.680347513481127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ Bttllsh sovereignty, and o! unrig the
 snores ol the British territories, for tho  
 purpese connected with the fisheries.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824102601:0326/pct:75.5386232264845,30.155320555188368,17.44613767735155,11.450760079312625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824102601:0326/pct:75.51878119254006,30.150338675037172,17.448121880745994,11.452998513133982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +593,7 @@ ot the treaty of 17*2. On the 27th of November,
 the British .Ministers returned our projects with  
 marginal alterations and suggestions, anil with a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828110701:0228/pct:19.230141901810473,7.311491206938087,15.690751916489969,10.358949650686581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828110701:0228/pct:19.227005870841488,7.310610622666506,15.693629049793433,10.361716648600908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ to exist, and would not be agaiu granted without an
 equivalent, nor unless we thought proper to provide ex­  
 pressly in the treaty of peace for their renewal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852072401:0277/pct:2.9120802563745296,6.062874251497006,30.89034415493939,92.29041916167665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852072401:0277/pct:2.9120802563745296,6.062874251497006,30.89498862105801,92.29754776161961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ fisheries.&quot;
 Very soon after the ratification of the treaty, says  
 the Salem Ouzette, as set forth in the National lIntel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288282:1852080401:0292/pct:15.460433680653336,62.46871558714586,13.517319065052098,3.6540194213635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288282:1852080401:0292/pct:15.460433680653336,62.47538959522141,13.526706092180607,3.64734541328795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -725,7 +725,7 @@ necessary by the government of the United States lo en- j
 title them to the full enjoyment of all of them.&quot;  
 After the peace, during some yeat* difficulties an I 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852080501:0754/pct:63.44737272876085,74.70871327254306,15.730888852512686,4.685916919959473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852080501:0754/pct:63.44737272876085,74.7129348193178,15.736345282915916,4.690138466734211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ the almost hostile pretensions of the parties, that finally
 led to the negotiations of Messrs. Gallatin nnd Rush,  
 whioh terminated in the existing convention of 1818
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852080701:0295/pct:49.371157070989376,30.360613258475492,15.721073225265512,6.855970632692723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852080701:0295/pct:49.37581516675983,30.36781112790614,15.730389416806409,6.859569567408047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -153,7 +153,7 @@ accounts fettled by the Auditor and cer­
 tify the ballances arising thereon to the  
 Register ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789110501:0485/pct:68.4450853160298,24.117168429617575,21.2929584234559,24.768104149715217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789110501:0485/pct:68.4611071056637,24.117168429617575,21.308980213089804,24.77895307838351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ tone.
 Such accounts were designed as a check,  
 and do certainly militate powerfully again I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022001:0002/pct:12.934716290420988,23.092668403423893,19.463087248322147,5.08001488649051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022001:0002/pct:12.934716290420988,23.097320431708226,19.49359365466748,5.08001488649051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ plied&quot;—if you fiiot.ld let fa&amp;s speak in
 that review ot the cafe, which I now pre­  
 sent to the public in lupport of my charg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793022301:0002/pct:72.79742765273312,30.584467574059246,21.2540192926045,5.684547638110488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793022301:0002/pct:72.80546623794213,30.589471577261808,21.262057877813504,5.699559647718175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ fame session, the Secretary had given the
 precise information which was directed by  
 the President; he ftatedthe terms of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030901:0002/pct:53.049907578558226,31.632653061224488,20.024645717806532,12.189239332096475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030901:0002/pct:53.049907578558226,31.641929499072358,20.055452865064694,12.203153988868275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ een accepted the following vi
 hat the bulpefs may be so regulat&#x27;d as to  
 ive it the form of two loans, one for tw 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793032001:0001/pct:26.479053405820274,14.611689351481186,65.59002238567317,79.62369895916733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793032001:0001/pct:26.479053405820274,14.611689351481186,65.60601215222258,79.64371497197759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ ly had 110 reference btyon the cafe of fu­
 pt lintending the regular and ordinary col­  
 li ftion of the revenue, and granting war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793032001:0004/pct:6.449532408900355,3.2076984763432237,65.62399226056111,89.75541299117883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793032001:0004/pct:6.473718155433731,3.2227345629510826,65.62399226056111,89.7654370489174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1003,7 +1003,7 @@ l ight to know ; v. hich U was important to
 them, and their conftititents, that they  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793032301:0001/pct:5.725313605660984,15.2708374975015,21.807655194596332,79.912052768339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793032301:0001/pct:5.733354776455452,15.27583449930042,21.8156963653908,79.912052768339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1102,7 +1102,7 @@ dence which had been produced, to de­
 cide, by a negative vote, against the truth  
 of the fa£ts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793032301:0001/pct:28.2084271469926,18.28902658404957,21.13219684786105,58.045172896262244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793032301:0001/pct:28.22450948858154,18.294023585848493,21.124155677066582,58.05516689986008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1616,7 +1616,7 @@ Jaid of it, contained not a word from which it
 couid be known that a fii&#x27;gte florin had been  
 actually drawn over to the U &lt;lted-StaU«. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032301:0001/pct:7.533234859675037,6.336853807670928,83.27917282127031,87.64128219381138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032301:0001/pct:7.533234859675037,6.346118213822494,83.29394387001477,87.65054659996294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1884,7 +1884,7 @@ had toupd po explanations th?t to hjn, were
 fatisfaiftory. He had.looked thrpugh aU the  
 reports and all the co:ttmuni&lt;atior.i t&gt;ef«re fa.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032701:0001/pct:5.159558604235014,5.795475789867265,84.67044437816881,87.10039259674706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032701:0001/pct:5.174470623322398,5.809497102262105,84.68535639725619,87.10506636754533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2021,7 +2021,7 @@ reconcileahle with the evidence which had
 been produced, to decide, by a negative vote,  
 against the truth of the facts. • •
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032701:0002/pct:11.73939766441303,6.307977736549165,20.497848801475108,77.19851576994434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032701:0002/pct:11.762446220036878,6.312615955473098,20.505531653349724,77.19851576994434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3047,7 +3047,7 @@ imbtirftfrtrent of all arrears and inllalmenu
 which had accrued o&#x27;n aicdtmt of that  
 debt.&quot;—Dub it AT UR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793080301:0001/pct:71.53920619554695,18.484362469927827,20.90997095837367,8.259823576583802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793080301:0001/pct:71.53920619554695,18.4943865276664,20.926105195224267,8.264835605453088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3122,7 +3122,7 @@ which he could not easitv express; audio!
 which, he persuaded himself, the-heart  
 of no other member, could be 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810040601:0426/pct:57.52621290207926,19.929858507679285,17.36271547894082,12.64965533921877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810040601:0426/pct:57.51599147121535,19.927448609431682,17.365553186448707,12.652156388553003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3246,7 +3246,7 @@ directed to perform ”
 Atter nn attentive perusal of the prov i. ions of this law,  
 no other effort the mind is necessary to determin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813111801:0368/pct:49.1665140135556,13.957793409848204,22.604872687305367,13.698630136986301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813111801:0368/pct:49.15750915750916,13.956071076011845,22.60683760683761,13.701052977953275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3296,7 +3296,7 @@ pro* iaionx of t his l&gt;t v, no other effort
 of the mind is necessary tn.deter­  
 mi::r th» tmipilde. and tbsolute jo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813120701:0157/pct:62.26531240381656,17.308397506417307,17.282240689442904,23.46901356802347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813120701:0157/pct:62.25573165102323,17.306810890090752,17.284710468277172,23.469917804870597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3322,7 +3322,7 @@ to him, he, Row it \% veil known, i
 that the plan for the improvement of  
 the revenue, left behind him, wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813120701:0157/pct:62.57309941520468,82.07737440410708,16.974453678054786,8.168316831683168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813120701:0157/pct:62.563471303277424,82.06985058208818,16.976970816022977,8.170623644085923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3585,7 +3585,7 @@ i &#x27;representatives, or which shall appertain to hia ollice; and
 ; generally to perform all such setvicc* relative to (he  
 ! htianees, a* he shall he diiected to perlorm.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833100401:0177/pct:19.74870254028954,3.901300433477826,29.868888281890193,90.44125819717684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833100401:0177/pct:19.746005735354363,3.900866859302067,29.869361372843553,90.43491146180632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3673,7 +3673,7 @@ wiitiug, (as lie may be required,) respecting all matters
 releired to him l.y the Senate or House of Representa­  
 tives. or which shall appertain to his office. And the ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833121901:0263/pct:80.041011619959,41.37511071744907,14.764183185235817,5.403011514614703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833121901:0263/pct:80.0300710770913,41.37053027787003,14.766721341352287,5.406103546256319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3851,7 +3851,7 @@ act, except in the 7th section, which
 charges the Assistant with the duties of  
 the office, in case the Secretary is remov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1834021301:0290/pct:17.8553363682347,32.87852946750047,15.427415275670207,26.587075990145916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1834021301:0290/pct:17.850821744627055,32.87230011367942,15.429835651074589,26.586775293671845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4106,7 +4106,7 @@ intend flic collection of the revenue, to
 deride on the forms of keeping and sta­  
 ting accounts, and to grant warrants i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1834042401:0322/pct:64.89549231931504,49.3598318364227,14.958448753462603,8.08331740875215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1834042401:0322/pct:64.87915407854985,49.35040122277417,14.960976837865056,8.086549484142148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4193,7 +4193,7 @@ to perform all such services, relative to
 The act does not say by whom  
 he may he thus directed. It by the Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1837061401:0303/pct:19.308635174218427,50.444150444150445,17.408070513703347,6.048006048006048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1837061401:0303/pct:19.317816646008357,50.44730044730045,17.408070513703347,6.048006048006048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4224,7 +4224,7 @@ the public e*|&gt;enditiire* ; to miperinlend the collcction of
 the reroute; to decide on the forms of keeping and  
 slating accounts, and mukine icturns,&quot; fa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839040301:0869/pct:67.13852376137513,55.46995377503852,15.75665655544321,3.449093279601754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839040301:0869/pct:67.13852376137513,55.46995377503852,15.767891248174362,3.4530441310102327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4298,7 +4298,7 @@ to perform.&quot;
 These constitute all the duties devolving  
 upon the Secretary of the Treasury under th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1839051801:0042/pct:9.123376623376624,48.352531476024645,19.74025974025974,19.019555317439057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1839051801:0042/pct:6.85398733149261,36.27109563353871,14.812408640571707,14.264666488079293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4389,7 +4389,7 @@ venue and public expenditures, and plans for improv­
   
 ing or increasing ilio revenues t&#x27;rom time to time, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840100601:0396/pct:34.038286235186874,43.51448346577801,15.952597994530537,12.240451166367597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840100601:0396/pct:34.05044059556366,43.51448346577801,15.946520814342145,12.24472357515167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4444,7 +4444,7 @@ annual communication, Dec. 20th, 1841, (House Doc.
 No. 18,) states that the accruing revenue is insufficient  
 to meet the wants of the Treasury, and declares tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842033101:0097/pct:2.760597375169709,22.613120920455803,17.725147081007695,5.763911937161191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842033101:0097/pct:2.760597375169709,22.613120920455803,17.735203902046564,5.767599660729432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4471,7 +4471,7 @@ enue is insufficient to meet the wants of the Trea
 sury, and declares that &quot;the state of the national  
 affairs, the disposition of the Government in whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842040101:0424/pct:89.58529688972668,178.6955021281491,38.75274897895068,17.025192683768548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842040101:0424/pct:29.857075545782944,59.558316080055214,12.91555415946809,5.67441147151292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4599,7 +4599,7 @@ issued from the Treasury in pursuance of appropriation* by
 &#x27;aw, he., and generally to perform all sueh service* in relation  
 J.o thf finances as he shall be directed to perform.&quot;?I Stat, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848051301:0179/pct:64.55405792945226,15.848164000901104,15.887582449096644,5.429150709619283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848051301:0179/pct:64.56361724500526,15.85191860028535,15.882802791320142,5.436659908387775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4675,7 +4675,7 @@ to ihe finances, as he shall he directed to perform.&quot; &quot;J c
 Mction ti. &quot;That it shall ho the duty of the Register to do  
 keep all account# of die receipts and expenditures of the a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848062301:0641/pct:0.1738305941845765,55.93624497991968,16.5929203539823,11.031626506024097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848062301:0641/pct:0.17909818794774546,55.93624497991968,16.603455541508637,11.035809906291833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4710,7 +4710,7 @@ receipts, and expenditures which is not at all the duty ol to
 ihe Secretary of the Treasury, but of the Register ot the Tli  
 &#x27;reasury, is commented on as 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848062301:0641/pct:0.7901390644753477,69.99246987951807,16.466498103666247,9.713855421686747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848062301:0641/pct:0.8006742520016856,70.00083668005355,16.477033291192583,9.70967202141901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4752,7 +4752,7 @@ the law defining the duties of the Secretary, that he ii
 not required to keep the booh, or to certify tie conditio!  
 of the public debt*, receipts, and expenditure*. He is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848062501:0649/pct:31.472402340661077,81.29785364629095,17.301913648584534,12.903225806451612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848062501:0649/pct:31.48294585903316,81.30203757164972,17.296641889398494,12.903225806451612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4805,7 +4805,7 @@ and for the support of public credit; to prepare and
 estimates of the public revenue and the public ex  
 tures; to superintend the collection of the reve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854072201:0077/pct:1.9096941252629875,57.46436609152288,13.642984301666937,3.738434608652163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854072201:0077/pct:1.9096941252629875,57.472701508710514,13.648378917839995,3.738434608652163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4857,7 +4857,7 @@ appertain to his office; and generally to perform all such ser­
 vices relative to the finances, and all such other duties, as he  
 may by law be duected to perform
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861022601:0506/pct:2.479740680713128,62.9367486799236,46.11021069692058,18.312549151780697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861022601:0506/pct:0.826580226904376,20.9789162266412,15.370070232306862,6.104183050593567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4893,7 +4893,7 @@ y to nerfarm all such services relative t
 the finances, and all such other duties as he may  
 by law be directed to perform
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475269:1861022801:0420/pct:207.5581395348837,147.25155279503105,39.80481727574751,26.832298136645964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475269:1861022801:0420/pct:69.18604651162791,49.08385093167702,13.268272425249169,8.944099378881987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4945,7 +4945,7 @@ tain to his office.&quot; ....
 You perceive how pregnant of meaning and suggestive  
 it the language ot the act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1864040701:0286/pct:3.6482175058954085,41.990969683938935,15.647107781939242,9.610836379273275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1864040701:0286/pct:3.6482175058954085,41.990969683938935,15.660979331391317,9.621586755536443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4972,7 +4972,7 @@ the act. v . ,
 When required, the Secretary of the  
 Treasury is to appear before either Hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1864040701:0900/pct:2.763496143958869,73.36333284947017,19.13024850042845,9.057918420670635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1864040701:0900/pct:2.0784229697878724,55.029757584555085,14.356117420184273,6.7934388155029755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5007,7 +5007,7 @@ reports of all his proceedings, and of the state
 of the the Treasury department, within ten  
 day s after tLe commencement . f each sessio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864092901:0162/pct:39.17151162790697,42.16784183602931,11.173691860465116,7.977326144061938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864092901:0162/pct:39.17151162790697,42.17245034333379,11.185804263565892,7.991151665975391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5061,7 +5061,7 @@ office, and generally to perform all such ser­
 vices relative to the finances as be shall b- di­  
 rected to perform.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greyhound_ver02:data:sn83045462:00280654231:1864122301:0019/pct:66.33614278631632,24.561016013252345,15.782515286729467,12.269464384318056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greyhound_ver02:data:sn83045462:00280654231:1864122301:0019/pct:66.34440588332507,24.561016013252345,15.786646835233846,12.280508006626173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5094,7 +5094,7 @@ with and accustomed to the complicated
 operations of finance, to systematize and give  
 unity to their administration, to survey fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667127:1865010601:0012/pct:17.314487632508833,335.9266878623527,56.335184250378596,40.2094632504208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667127:1865010601:0012/pct:4.328621908127208,83.98167196558818,14.083796062594649,10.0523658126052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5197,7 +5197,7 @@ bill. That act conferred no right upon
 the Secretary of the Treasury to attend­  
 the sittings of the House and engage i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528335:1865032901:0382/pct:87.86117836965295,53.481282770393854,38.660209846650524,28.59407389342763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528335:1865032901:0382/pct:29.28705945655098,17.827094256797952,12.886736615550175,9.531357964475877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5287,7 +5287,7 @@ required respecting all matters relerred to
 him by the Senate or House of Representa­  
 tives, or which shall pertain to his office.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn84027691:00237283338:1874010101:0590/pct:17.190388170055453,121.64663461538461,13.200862600123228,5.949519230769231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn84027691:00237283338:1874010101:0590/pct:12.89875173370319,91.23798076923077,9.909076899368161,4.459134615384615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5320,7 +5320,7 @@ shall appertain to his office.&quot; No Secretary of the
 Treasury has ever used his privilege of speech in  
 either House, but the law permits this, and it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744006:1877110901:0514/pct:7.6961026147015295,157.19709659408153,46.83440223647426,13.523171412618648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744006:1877110901:0514/pct:2.565367538233843,52.39903219802717,15.611467412158088,4.507723804206217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5354,7 +5354,7 @@ tives, or which shall appertain to his offico.&quot; This is
 generally understood to give the Secretary of the  
 Treasury the special right to a voice in either Hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744018:1878011701:0193/pct:9.943652635067949,172.27460901563938,45.442492542260524,15.236890524379024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744018:1878011701:0193/pct:3.3145508783559827,57.42486967187979,15.147497514086842,5.078963508126342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5397,7 +5397,7 @@ matters referred to him by the Senate or
 House of Representatives, or which shall ap­  
 pertain to his office,&quot; This is generally un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768108:1878012201:0038/pct:31.013721646597592,76.75067134889485,12.209465135816298,8.314397851683536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768108:1878012201:0038/pct:31.013721646597592,76.75411416374027,12.218799589284048,8.321283481374373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5431,7 +5431,7 @@ he may be required) respecting all matters reterred
 to him by the Senate or House of Representatives, or  
 whioh shall appertain to his office.&quot; This, certainly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744031:1878081201:0493/pct:149.3859940258878,245.5836865620346,45.9840690341852,10.344827586206897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744031:1878081201:0493/pct:49.79533134196261,81.86122885401153,15.328023011395066,3.4482758620689653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5474,7 +5474,7 @@ to-day unchanged. It cov
 It was called into exercise repeatedly in the  
 y of the Government. When 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531344:1879042901:0848/pct:103.37512054001928,159.17139614074915,46.44808743169399,10.261066969353008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531344:1879042901:0848/pct:34.458373513339765,53.05713204691638,15.482695810564662,3.4203556564510027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5494,7 +5494,7 @@ izing his department, to &quot;make report and
 &quot;Legislature, in person or in writing, as may  
 &quot;be required?, and Mr. Pendleton pertie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531344:1879042901:0850/pct:102.67569310122502,137.19262295081967,47.48549323017408,11.122495446265939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531344:1879042901:0850/pct:34.22523103374167,45.73087431693989,15.82849774339136,3.707498482088646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5520,7 +5520,7 @@ generally shall perform all such service In rela­
 tion to the llnances a* ho shall he required to  
 perform.’1 That law stands on Dm statute-boo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879042901:0001/pct:71.2280701754386,79.52003254016677,13.252361673414304,5.1250762660158635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879042901:0001/pct:71.24831309041835,79.53528574333943,13.232118758434549,5.114907463900752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5540,7 +5540,7 @@ ture in person or in writing as may be
 required. That is to say, Congress might  
 summon him in person at its discretion fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879050101:0842/pct:22.850678733031675,357.18108831400536,49.39668174962293,12.548319952423432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879050101:0842/pct:5.715902659875495,89.29527207850134,12.356159215242407,3.137079988105858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5610,7 +5610,7 @@ performs all such services relative to the
 linances as he is directed to perforin;  
 Controls the Ertctlo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341620:1880121401:0571/pct:24.025596276905176,37.572785779957094,11.431064572425829,6.548166309122484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341620:1880121401:0571/pct:24.02210266104406,37.56894790602656,11.434249430468713,6.55090228123936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5679,7 +5679,7 @@ of the Secretary were not then, nor
 have they at any time since been called in  
 question. The bill now proposed only pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84027490:0020219123A:1881021201:0230/pct:7.054760730143069,86.67092418574947,16.34188455846078,20.965240397773925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84027490:0020219123A:1881021201:0230/pct:5.293028994447872,65.0031931393121,12.264034546576188,15.728491925919167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5713,7 +5713,7 @@ sentatives, and generally performs all
 such services relative to the finances as  
 he is directed to perform; controls th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195052:1881041501:0225/pct:68.62123613312203,78.14330779630464,39.83095615425251,17.214961694456964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195052:1881041501:0225/pct:17.15757495707304,19.53582694907616,9.959054286091666,4.303740423614241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5737,7 +5737,7 @@ i tives, and generally performs all such
 service* relative to the finances as he is  
 directed to perform: controls th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1881051201:0969/pct:79.15855083755356,28.07814004677397,14.530580444098169,6.507084881001513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1881051201:0969/pct:79.17153616413452,28.07814004677397,14.53707310738865,6.520841931489889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5775,7 +5775,7 @@ ing and stating Accounts; grant, under regula­
 tions precribed by Law, all warrants for money  
 to he paid out of the Treasury, in pursuance o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624360:1881061001:0094/pct:4.604077104423797,4.947229551451187,21.82776313964776,88.52242744063325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624360:1881061001:0094/pct:4.608699671797717,4.950894165933744,21.8370082743956,88.52242744063325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5851,7 +5851,7 @@ sentatives, and generally performs all
 such services relative to the finances as  
 he is directed to perform; controls th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288117:1882051101:0743/pct:214.49972051425377,55.43600867678959,39.161542761319176,18.6117136659436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288117:1882051101:0743/pct:71.49990683808458,18.478669558929862,13.053847587106391,6.2039045553145336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5884,7 +5884,7 @@ Representa ives, and generally performs
 all such services relative to the finances  
 as ho is directed to perform; contr ds th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181909:1885040501:0037/pct:41.66364624864081,58.97225638923056,12.323305545487495,3.936039360393604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181909:1885040501:0037/pct:41.66968708469252,58.97225638923056,12.329346381539205,3.936039360393604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5932,7 +5932,7 @@ presentatives,and generally performs
 all Mich services relative to the fi­  
 nances as he is directed to perform 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349086:1885101001:0312/pct:5.032101336109665,47.83587028457975,11.157383307305222,7.968232958305758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349086:1885101001:0312/pct:5.031228313671062,47.829539438856536,11.159784871616933,7.970487030174696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5955,7 +5955,7 @@ required, respecting all matters referred to
 him by the Senate or House of Representa­  
 tives, or which shall appertain to his office.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886020101:0131/pct:68.10810810810811,144.0048877348404,44.94208494208494,17.47365205437605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886020101:0131/pct:17.033603707995365,36.0012219337101,11.239860950173812,4.3684130135940125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5987,7 +5987,7 @@ any other Department head.
 In reply Mr. Sherman recited the action of Democratic  
 committees in compelling the production of papers an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038103:1886020901:0344/pct:111.92674669128962,69.69058445159143,45.15235457063712,25.385383165132527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038103:1886020901:0344/pct:37.30891556376321,23.230194817197145,15.050784856879039,8.461794388377509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6030,7 +6030,7 @@ furnish the papers called for by the Senate
 was a denial of the right of the Senate to  
 inquire into the management of a publi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886031701:0311/pct:53.129890453834115,30.736262054186437,44.5226917057903,28.776978417266186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886031701:0311/pct:13.287671232876713,7.684065513546609,11.135029354207436,7.194244604316546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6065,7 +6065,7 @@ it was his duty to obey the law. The senatot
 stated in his minority report that from 178f  
 to 1870 there could not be found a &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886031701:0260/pct:28.104575163398692,54.512685429086375,13.225682429834679,9.76015527519756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886031701:0260/pct:28.09917355371901,54.50512891599667,13.227945416106092,9.762267812586638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6096,7 +6096,7 @@ was a denial of the right of the Senate to in­
 quire into the management of a public office.  
 The Attorney General was an officer of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210545:1886031701:0571/pct:50.67178502879079,36.61294202549916,10.620601407549584,5.857589607890305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210545:1886031701:0571/pct:50.6636814329122,36.608538785327724,10.622901007516392,5.859891761876128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6121,7 +6121,7 @@ House of representatives,&quot; and said it was
 perfectly clear that the Senate had a right  
 to call on the secretary to come before an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777080:1886031901:0141/pct:19.128113879003557,357.03040592684056,57.65124555160142,19.941348973607038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777080:1886031901:0141/pct:4.783092324805339,89.25760148171014,14.416017797552836,4.9853372434017595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6143,7 +6143,7 @@ required reepecting all matters referred to
 him by the Senate or Houae of Representa­  
 tives,&quot; aud Baid it was perfectly clear tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777419:1886031901:0302/pct:42.08273894436519,67.94121649203973,14.051355206847362,4.09579534630562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777419:1886031901:0302/pct:31.57894736842105,50.95931419240713,10.56199821587868,3.075248333106545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6201,7 +6201,7 @@ before the committee on finance, brought
 papers, and was subjected to two or three  
 hours of examination, and gave us valn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777080:1886050701:0228/pct:19.516562220232768,331.5365551425031,58.63921217547001,36.926889714993806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777080:1886050701:0228/pct:4.882418812989922,82.88413878562578,14.669652855543113,9.231722428748451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

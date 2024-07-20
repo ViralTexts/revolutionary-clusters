@@ -40,7 +40,7 @@ mind that he will prove himsclf the ablest of
 all our diplomatic corps.””. At that period, it  
 will be recollected that our foreign minister
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1827060901:0072/pct:65.04721030042919,44.74567839820918,15.34763948497854,3.171247357293869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1827060901:0072/pct:65.04721030042919,44.74982381959126,15.359084406294707,3.1753927786759526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ on your part. .
 gard, I am ever yours. „  
 “GEORGE WASHING I ON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827092501:0173/pct:19.740932642487046,62.21451632189406,18.53195164075993,17.278488580652876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827092501:0173/pct:19.737523743740287,62.207077953132476,18.5345075692166,17.280408098198627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ delicacy on your part.
 With sincere esteem and affectionatn regard, T am ever  
 yours, GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1842031201:0446/pct:76.17689015691869,64.81203007518798,23.87660485021398,13.43814080656186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1842031201:0446/pct:57.142857142857146,48.61244019138756,17.92402354200107,10.075187969924812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ your part.
 With sincere esteem and affectionate regard, I  
 am ever yours. GEO. WASIlinGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842032801:0504/pct:197.2179289026275,62.073883896733705,56.2596599690881,56.25445728141492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842032801:0504/pct:49.33307558476706,15.518470974183426,14.073071718538566,14.06361432035373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ am ever yours. GEO. WASIlinGTON.
 character we have abroad , and the ablest of all our  
 diplomatic corps” Dirges and solemn musi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848031501:0613/pct:71.71206225680933,29.58971824023727,12.373540856031129,1.532377656945131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848031501:0613/pct:71.71206225680933,29.596309111880046,12.382187635105923,1.5257867853023563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

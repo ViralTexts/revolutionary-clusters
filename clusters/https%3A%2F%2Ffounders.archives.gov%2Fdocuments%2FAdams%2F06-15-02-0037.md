@@ -167,7 +167,7 @@ in-due form, and exchanged in the space of one
 month, or{ooner, if it can be done, to be com­  
 puted from the day of. the fiznature ‘of the pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0963/pct:36.68319062640829,49.53998584571833,27.512392969806218,4.713375796178344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0963/pct:36.69070151719994,49.549422033498466,27.53492564218116,4.708657702288275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ life more easy to obtain and more general, shall be
 allowed to pass freely, unmolested.  
 In reference to this article he says
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539033:1899060101:0012/pct:286.9109947643979,55.23610904215701,49.81301421091997,26.813645166095636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539033:1899060101:0012/pct:71.72774869109948,13.809027260539253,12.453253552729992,6.703411291523909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ of public opinion that the British en­
 voys refused even to consider it; but  
 later it was made part of the treat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768868:1899073101:0530/pct:69.210612512283,61.654501216545015,12.201113658696364,19.355231143552313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768868:1899073101:0530/pct:69.210612512283,61.654501216545015,12.20520799213888,19.358272506082724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ voys refused even to consgider it; but
 later it was made part of the treaty the  
 with Prussia, and in that form received
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_firefriend_ver01:data:sn91070630:00514152962:1899080901:0997/pct:56.583389601620524,15.782383419689118,12.991222147197838,20.528497409326423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_firefriend_ver01:data:sn91070630:00514152962:1899080901:0997/pct:56.59239252757146,15.782383419689118,12.991222147197838,20.528497409326423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

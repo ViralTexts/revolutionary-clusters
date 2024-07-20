@@ -887,7 +887,7 @@ WhAisoever.11, Ch. 4) TOl restra hing il
 commerce and fisheries of the Provinces of xew England;  
 and for interdicting the trade of other Colonics wifl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882061801:0511/pct:342.1875,257.01767638616104,52.232142857142854,23.93110741803898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882061801:0511/pct:85.546875,64.25441909654026,13.058035714285714,5.982776854509745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

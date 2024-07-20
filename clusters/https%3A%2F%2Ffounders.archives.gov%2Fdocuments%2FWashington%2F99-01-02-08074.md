@@ -132,7 +132,7 @@ a circumstance, I thought it proper for you to be &#x27;
 advertised of.”  
 This intelligence of the awakened vigilance 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216444:1831071201:0648/pct:26.361323155216287,77.60645237812834,18.286683630195082,7.567311113746887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216444:1831071201:0648/pct:26.356852103120758,77.59724857685009,18.289235639981907,7.570366856419987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ every night,&quot; and that it was &quot;more than prob­
 able the same precaution extends to other per­  
 sonages in the city of New York.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896071301:0571/pct:283.20552147239266,353.1466425775369,49.923312883435585,4.336043360433604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896071301:0571/pct:70.80138036809817,88.28666064438423,12.480828220858896,1.084010840108401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

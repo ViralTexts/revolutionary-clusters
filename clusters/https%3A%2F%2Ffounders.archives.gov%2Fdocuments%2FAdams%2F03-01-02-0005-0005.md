@@ -40,7 +40,7 @@ COMMERCIAL GRAMMAR ;
 And Present State of the Several  
 KINGDOMS OK THE WORLD
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793051501:0003/pct:70.78213964638897,61.362367392518145,18.669463590050945,2.512562814070352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793051501:0003/pct:70.789631405454,61.376326074818536,18.684447108181,2.503257025870091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -58,7 +58,7 @@ AND COMMERCIAL GRAMMAR;
 And present Sratc of the Several  
 KINGDOMS OF THE WORLD
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793052201:0004/pct:29.033301002263176,58.24659727782226,20.530229550598126,2.4819855884707764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793052201:0004/pct:29.05754930488199,58.25160128102482,20.546395085677336,2.4819855884707764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ COMMERCIAL GRAMMAR;
 And Pre fen t State of the Several  
 KINGDOMS OF THE WORLD
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793052501:0004/pct:33.06208559373116,13.231552162849873,18.71609403254973,2.380952380952381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793052501:0004/pct:33.06962025316456,13.24518356961105,18.723628691983123,2.380952380952381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ and commercial grammar ;
 And prtlent State of the Several  
 KINGDOMS OF THE WORLD
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793052901:0004/pct:50.67394094993581,6.611901422560609,20.314505776636715,3.526347425365658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793052901:0004/pct:50.68196405648267,6.626928471248247,20.354621309370987,3.526347425365658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ AND COMMERCIAL GRAMMAR;
 And present State of the Several  
 KINGDOMS OF THE WORLD
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793060501:0004/pct:51.75749758142535,8.76701361088871,20.38052241212512,2.582065652522018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793060501:0004/pct:51.75749758142535,8.772017614091274,20.42083198968075,2.5770616493194556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ AND COMMERCIAL GRAMMAR ;
 And prclcnt State of the Several  
 KINGDOMS OF THE WORLD
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793061201:0004/pct:51.17401093599228,13.975030205396697,20.521067867481506,2.557390253725332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793061201:0004/pct:51.17401093599228,13.985098670962545,20.545191379864907,2.5473217881594845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ AND COMMERCIAL GRAMMAR}
 And prcfent State of the Several  
 KINGDOMS OF THE WORLD
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793062601:0004/pct:50.72,15.807354116706634,20.096,2.5379696243005596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793062601:0004/pct:50.72,15.812350119904076,20.144,2.552957633892886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ AND COMMERCIAL GRAMMAR;
 And prefeut State of the Several  
 KINGDOMS OF THE WORLD
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793072401:0004/pct:50.50769734687193,19.457831325301203,21.25777923354078,2.5502008032128516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793072401:0004/pct:50.524074680641995,19.47289156626506,21.274156567310843,2.535140562248996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ new geographical, historical, and commer­
 cial grammar ; and present state of these*  
 ver tl kingdoms of the world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809031001:0085/pct:59.329418450464104,49.40399067115833,17.74957378291343,2.3451671417465665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809031001:0085/pct:59.31818181818182,49.397590361445786,17.752525252525253,2.3491816729282724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ new geographical, historical, and commer­
 cial grammar ; and present state of the se­  
 veral kingdoms of the world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809032401:0102/pct:60.17316017316017,6.681284664001032,17.466591379634856,2.347478395459822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809032401:0102/pct:60.161836657884834,6.680423007480011,17.46957721741312,2.3514745077809303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ new geographical, historical, and commer
 cialgrammar ; and present state of these  
 veral kingdoms of the world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809041401:0115/pct:4.833056631617783,10.685929975270076,86.95812580704667,17.206820252505533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809041401:0115/pct:4.83216525267429,10.684539302446643,86.94823558342556,17.208918965816416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ COMMERCIAL grammar,
 and present 1 ate of the several kingdoms of the  
 World
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809123001:0291/pct:40.25668835864064,51.50024003840615,17.22704266088214,14.906385021603457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809123001:0291/pct:40.249412615217786,51.49405976239049,17.229953611663355,14.908596343853754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ COMMERCIAL GRAMMAR,
 And prtsent state of the several kingdoms  
 of the World
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010501:0014/pct:23.495218451153196,54.22696115765423,17.494843427714233,2.7545062198527543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010501:0014/pct:23.490813648293962,54.22007869018911,17.497812773403325,2.758387274188772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ Present State of the Several Kingdoms
 of the World,&quot; by William Guthrie,  
 Esq., London, 1771. There were school
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn84020358:00271763025:1894101001:0681/pct:2.464494569757728,109.07451923076923,16.666666666666668,3.3203125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn84020358:00271763025:1894101001:0681/pct:1.8599791013584117,81.80588942307692,12.497387669801462,2.4939903846153846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

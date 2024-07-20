@@ -1891,7 +1891,7 @@ ford lis this gracious protection, confound
 the designs of our enemies, and give peace  
 in all our borders.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1859120101:0171/pct:15.683791606367583,50.72992700729927,10.89001447178003,6.471083660864683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1859120101:0171/pct:15.69585142305837,50.73460602657683,10.883984563434636,6.4757626801422425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1966,7 +1966,7 @@ tection, confound the designs of our ene­
 mies, and give peace in all our borders.”  
 Let prayer be offered itp by sincere an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340640:1869121701:0203/pct:73.25336359215432,42.14793563677186,10.941805803209597,7.608831233628539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340640:1869121701:0203/pct:73.24149108589951,42.1426789723123,10.944084278768234,7.611000249438763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2345,7 +2345,7 @@ denise some means of avoiding or pre-
 venting the mischief before it is too late.  
 Fellew Citizens, we have a natural af
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296321:1888042601:0066/pct:296.37526652452027,49.700272479564035,39.30348258706468,40.54495912806539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296321:1888042601:0066/pct:74.10698418340145,12.425068119891009,9.827616847343167,10.136239782016348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2392,7 +2392,7 @@ people secure, and to a large land, for God hath
 given it into your hands, a place where there is no  
 want of anything that is in the earth.—Judges 18
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173502:1889120601:0395/pct:50.78322385042951,75.12655315232398,14.940205490988715,5.499309710078233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173502:1889120601:0395/pct:50.77467160660155,75.11791096284367,14.943303020096554,5.502511599371141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2441,7 +2441,7 @@ as 1 believe him of a very uneasy
 spirit.&quot; In 1764 John added: &quot;Never  
 will there be any prospect of ease an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1897021101:0865/pct:26.687668766876687,47.738546833965565,18.72187218721872,5.71928800700321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1897021101:0865/pct:20.040531411844178,35.803910125474175,14.050889439315469,4.289466005252407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

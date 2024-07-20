@@ -117,7 +117,7 @@ hath affirmed to one sill of Lading, all of this
 tenor and date; one of which being accomplish­  
 ed, the others to stand void
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742915:1845050201:0503/pct:63.825154915424555,195.32217381334556,41.19912912409981,12.932813574868149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742915:1845050201:0503/pct:21.27505163847485,65.10739127111519,13.733043041366605,4.310937858289384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ steamboat hath affirmed to three bills of lading,
 all of this tenor and date, one of which being ac­  
 complished, the others to stand void
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475294:1866022701:0401/pct:137.15334420880913,103.80299251870325,37.43882544861338,17.627805486284288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475294:1866022701:0401/pct:45.71778140293638,34.600997506234414,12.479608482871125,5.8759351620947635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ lading of this tenor and date, one of
 which being accomplished, the others  
 to stand void.&quot; The blanks were writ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_onamia_ver01:data:sn90059522:00206536901:1896011901:0210/pct:31.40388768898488,48.85600335852225,12.397408207343412,7.53568429890848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_onamia_ver01:data:sn90059522:00206536901:1896011901:0210/pct:31.40388768898488,48.85600335852225,12.407007439404847,7.539182759585782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

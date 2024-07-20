@@ -92,7 +92,7 @@ States, on account of the claim of this
 Commonwealth, for diiburfements made*  
 and expenses incurred, for the defence of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819113001:0553/pct:73.17767653758543,22.245077872465473,15.888382687927107,3.2618277990008817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819113001:0553/pct:73.17767653758543,22.245077872465473,15.90261958997722,3.268357984784667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ Pavilions, and also the window a, t.oors aim locks
 external dining ihrit oct npilum, in as goo n-paii  
 at.d con «itiun as (hey shall nave icccivcu the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827010601:0050/pct:33.008274231678485,41.53299725022915,15.913120567375886,5.92346471127406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827010601:0050/pct:33.00339784310829,41.52823920265781,15.915694095632048,5.926604803910338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ external during their occupation, in as good re­
 pair and condition as they shall have received  
 them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0319/pct:64.22893481717011,49.784120892300315,14.976152623211446,6.584312784840489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0319/pct:64.21872516293116,49.778150857416954,14.97907063000053,6.587520486069473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ vernment.
 This irrnngeinent, however, shall not be under­  
 stood a«
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0319/pct:64.29252782193959,69.45310626049412,14.912559618441971,22.811225713600383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0319/pct:64.28230805913209,69.44477755126513,14.915487733799608,22.812487508494225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ shall be lest adapted to the nature of the science
 an.t number ot the school; Jfnd exerci.es shall be  
 prescribed to employ the vacant days and hour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0051/pct:54.123322780039196,58.57583019513865,16.025930951304087,3.02407851192514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0051/pct:54.115164305094964,58.56914650844363,16.028539845241685,3.02753689335159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ tui:’, fifty dollars lor the session of ten months and
 a half; if two, thi ty dollars each, if threeor more,  
 twenty-five dollars each
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.61942098914355,78.49165227403569,15.968033775633293,2.4755325273459987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.610884969093924,78.48261570343081,15.970651791547313,2.479085117814107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ I Aiithmetic, Algebra, Tiigououietry plane and spherical, Geum
 | initials. Military and Civil Architecture, .,ud bv a late enact­  
 meut, natural Philosophy tuith the uppUcnltsn of Mulhemat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827080301:0115/pct:65.710643722116,42.29011306230455,15.20076481835564,5.316333894635554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827080301:0115/pct:65.70017524295045,42.28502705953097,15.203653549997345,5.319703347364201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ i&quot;m of Uhan.-eiy, the laws f eudal, Civil, Merrjto­
 rial, Maritime, au.l of Nature and Nations, and also ilie priori­  
 I&#x27;,*0&#x27; Government, under Ih.di.ectioi. of Profes • i Lomax
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827080301:0115/pct:66.01338432122371,54.46235265816695,15.344168260038241,3.1031994226605724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827080301:0115/pct:66.00286761191651,54.45580276608539,15.347034145823377,3.1068350370815794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

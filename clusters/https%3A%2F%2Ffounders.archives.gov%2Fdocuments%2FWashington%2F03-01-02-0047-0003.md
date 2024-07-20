@@ -207,7 +207,7 @@ accustomed to the watchfulness of the bakwoodsmen
 in the viemity of wily enemies, he strongly condemned  
 the want of subordination, and the almost stupid coa-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860062101:0388/pct:4.069478908188586,181.03488644345586,47.99007444168735,13.064856005619292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860062101:0388/pct:1.3564929693961951,60.34496214781862,15.996691480562449,4.354952001873098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ General Putnam that he left the army without
 visiting me or making known his intentions in  
 any respect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061401:1025/pct:9.057669935183647,105.82612653618571,46.75087252783779,9.069185252617205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061401:1025/pct:3.019223311727882,35.275375512061906,15.58362417594593,3.023061750872402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ deficiency of numbers, discinline and stores
 can only lead to this concius on, that their spirit  
 hse ceat eeced their atrengiate liow fong was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743907:1875070401:0061/pct:60.37361547363201,46.945337620578776,50.239709042817,18.259072117593018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743907:1875070401:0061/pct:20.124538491210668,15.64844587352626,16.746569680938997,6.086357372531006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ yoke has been laid so heavily upon it, that
 great allowances are to be made for troors  
 raised under such circumstances.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875072901:0100/pct:121.42177518010058,176.47382414962868,50.700013592496944,10.002750527184377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875072901:0100/pct:40.47392506003353,58.824608049876225,16.900004530832312,3.3342501757281258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ hill about 200 yards above the meeting­
 house, which, with the brokenness of  
 the ground, had made that pass ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344037:1896081301:1507/pct:214.5742574257426,207.06955530216646,45.56435643564357,9.250285062713797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344037:1896081301:1507/pct:53.632943971490796,51.76001140088357,11.388833894278362,2.312241698731652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ Viill about 200 yards above the meeting­
 house, which, with the brokenness of  
 the ground, had made that pass ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479378:1896082001:1130/pct:39.46148359486448,69.81981981981981,15.638373751783167,2.48998998998999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479378:1896082001:1130/pct:35.521318140480396,62.83783783783784,14.085486545765795,2.240990990990991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +864,7 @@ hill about 200 yards above the meeting­
 house, which, with the brokenness of  
 the ground, had made that pass ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918163:1896082101:0280/pct:44.604454685099846,77.97169163116669,16.916282642089094,3.421739727909853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918163:1896082101:0280/pct:35.68868407578085,62.37678185349408,13.54326676907322,2.737366704532962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

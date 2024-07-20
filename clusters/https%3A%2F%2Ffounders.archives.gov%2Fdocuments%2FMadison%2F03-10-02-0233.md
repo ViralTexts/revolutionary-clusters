@@ -84,7 +84,7 @@ from the President of the U. Mates by JMr.C-oies,
 us Secretary.  
 To the Senate of the United States&quot;: I nomi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840040401:0012/pct:70.70281124497993,54.25954198473283,19.61847389558233,15.801526717557252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840040401:0012/pct:53.04277967463346,40.70229007633588,14.721831693111067,11.84732824427481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ on the 19:h January next, to be Governor of the
 same Territory, for three years next, ensuing that  
 date
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041101:0016/pct:69.02654867256638,53.04254994662193,19.589702333065166,4.300747292969346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041101:0016/pct:51.7907444668008,39.78953789842916,14.70824949698189,3.2179350312642976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ on the 19th January next, to L e Governor of the
 same Territory, for three years next , ensuing tluit  
 date
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041801:0020/pct:49.52229299363057,53.95738203957382,19.26751592356688,3.6377473363774735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041801:0020/pct:37.16391157140012,40.471841704718415,14.479187412865963,2.7245053272450535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ same Territory, for three years next, ensuing that
   
 dale.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840042501:0024/pct:49.20823436262866,53.08928019771393,19.358669833729216,3.768921841210998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840042501:0024/pct:36.92338150861216,39.820821748532595,14.531775885963176,2.8266913809082483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ ments of John Willard and WMf H DRRiSO
 agreeably to the nominations respectively.  
 In the same Journal, 1812, pages 296, 300, 308, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840042501:0186/pct:134.41376550620248,73.53095213155966,38.38868880885688,19.555881428721065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840042501:0186/pct:44.798612963456925,24.507750314201928,12.79452298390682,6.5179444211702275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ on the 19th January next, to be Governor of the
 same Territory, for three years next, ensuing that  
 date
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050201:0028/pct:48.204309656823625,55.44827586206897,19.632881085395052,3.7241379310344827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050201:0028/pct:36.16766467065868,41.593869731800766,14.730538922155688,2.789272030651341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ on the 19th January next, to be Governor of the
 same Territory, for three years next, ensuing that  
 date
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050901:0032/pct:49.8804780876494,52.79312461632904,19.44223107569721,4.373848987108656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050901:0032/pct:37.42526903148665,39.59484346224678,14.607413312076524,3.284223449969306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ lard and WILLIAM II. HARRISON agreeably
 to the nominations respectively.,&#x27;  
 In the same journal, 1812, page 296, 300
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840053001:0044/pct:47.4481658692185,54.36355240880406,19.517543859649123,11.559181160535632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840053001:0044/pct:35.59322033898305,40.77266430660305,14.656031904287138,8.680929659843004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ Wednesday December 20, 1809
 1 lie Semite took into consideration the mes-  
 age of the President of the United States of ye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840060601:0048/pct:48.273809523809526,53.531202435312025,19.384920634920636,6.773211567732115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840060601:0048/pct:36.21750347291129,40.15220700152207,14.546537011311768,5.083713850837139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ on the 19th January next, to be Governor of the
 same Territory, for three years next, ensuing tlmt  
 date
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840070401:0060/pct:48.52707006369427,53.77054215942252,19.386942675159236,3.6399938565504533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840070401:0060/pct:36.42700657239594,40.33174627553371,14.558852818163713,2.733835048379665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ on the 19th January next, to be Governor ol the
 same Territory, for three years next, ensuing that  
 dale
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840071101:0064/pct:49.09090909090909,54.54264524103832,19.308300395256918,3.7391841779975277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840071101:0064/pct:36.8254595769915,40.91470951792336,14.489029452460962,2.796662546353523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

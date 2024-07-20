@@ -311,7 +311,7 @@ mgtonxao, were too much overawed by the
 terrors of the British navy, than by any fears  
 of ATufioU on,*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811092301:0317/pct:40.27673896783845,33.59708615925647,17.894540014958864,33.37101230846521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811092301:0317/pct:40.26920919798093,33.59286700992089,17.897426310213746,33.37100757670895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ queflion is, whether War with either
 that Fofrfon or .Madison have been’  
 Bhbedor jatimidated by Bongparte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811101501:0165/pct:24.410774410774412,19.77848101265823,16.743189470462198,60.17602848101266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811101501:0165/pct:24.415875931027447,19.77848101265823,16.75339251096827,60.17932489451477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ Fefforfon or Madison. have been bribed of,
 detestation, I [heuld believe it of Wafbing­  
 ton as soon as either.” This is the rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811121701:0203/pct:39.49064130101258,46.59373446046743,16.446762810678123,3.500745897563401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811121701:0203/pct:39.50086938733763,46.59373446046743,16.451876853840645,3.507376098126968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ have burned them! upon those whose whole prop­
 erty bas been stolen, to reward the thieves  
 those whose relatives have been slain, to compen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862040801:0676/pct:201.1049723756906,47.6664592408214,49.4386027446088,14.225264467952707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862040801:0676/pct:67.03499079189687,15.888819746940468,16.479534248202935,4.741754822650902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ ed them ? upon those whose whole property
 has been stolen, to reward the thieves ? upon  
 those whose relatives have been slain, to com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862040901:0002/pct:66.84481771330407,29.41597480675637,10.269135331170071,3.4926996850844545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862040901:0002/pct:66.84481771330407,29.41597480675637,10.278679137239932,3.4998568565702834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

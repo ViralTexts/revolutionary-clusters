@@ -190,7 +190,7 @@ sand eight hundred and flfty seven. Soaled and delivered
 in presence of  
 Governor Walker and the south
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857070801:0589/pct:100.55338541666667,174.18662449164032,46.565755208333336,10.777225485765928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857070801:0589/pct:33.517795138888886,58.0622081638801,15.521918402777779,3.5924084952553095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ Governor Walker and the south
 ter of the Interior, have constituted, and by these presents do  
 constitute W. A. Aldrk-li, Charles R. liishop, M. B. Beckwith
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471380:1860022501:0820/pct:65.44766708701135,61.41539828907899,19.76670870113493,0.8887901344295078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471380:1860022501:0820/pct:49.10897334805236,46.06154871680924,14.83993061031383,0.6777024775024997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ cause to be done by virtue of these
 presents.&quot;  
 This power of attorney wa9 re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195684:1892072801:0440/pct:26.445484581497798,36.328125,16.024229074889867,4.368832236842105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195684:1892072801:0440/pct:19.840286383037313,27.25123355263158,12.019826517967783,3.2791940789473686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ said attorney or his substitutes shall lawfully
 do or cause to be done by virtue hereof.&quot; This  
 power of attorney was duly recorded in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760961:1894121201:0590/pct:72.76227141482194,64.43274293920535,30.221366698748795,3.494494973671613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760961:1894121201:0590/pct:48.51985559566787,42.95516195947024,20.168471720818292,2.3296633157810755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ tue of these presents.
 In witness whereof we have hereunto set  
 our hands and seals this 5th day of October
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_albatross_ver01:data:sn84021930:00279526727:1899101801:0214/pct:41.07002360346184,83.75914237050395,16.99449252557042,2.6851016932171126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ak:batch_ak_albatross_ver01:data:sn84021930:00279526727:1899101801:0214/pct:41.07002360346184,83.76582172794977,17.004982953055336,2.6851016932171126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

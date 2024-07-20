@@ -396,7 +396,7 @@ beyond tbe limits of it, unless, perchance, I should
 visit some property (under lease) at the distance  
 of about seventy miles from it.&quot; Sir John&#x27;s ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn83025121:0021110885A:1872121101:0367/pct:2.684563758389262,97.50973845297719,16.81580909768829,7.401224262659989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn83025121:0021110885A:1872121101:0367/pct:2.0141738157403952,73.13578185865332,12.625885863483775,5.550918196994991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

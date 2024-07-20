@@ -233,7 +233,7 @@ And, without sneering, teach the rest to sneer;
 Willing to wound, and yet afraid to strike,  
 Just hint a fault, and hesitate dislike
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_fluttershy_ver01:data:sn83016867:00295877923:1852060501:0319/pct:95.69983136593592,241.5977531596193,54.806070826306915,17.725074114526446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_fluttershy_ver01:data:sn83016867:00295877923:1852060501:0319/pct:23.93000210837023,60.39943828990482,13.704406493780308,4.431268528631612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ their own affair. And so it is if President
 Grant makes himself busy in distributing  
 Seward&#x27;s speeches with intent to show hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776282:1869102101:0349/pct:25.106990014265335,41.0721764623761,19.52567760342368,9.604914142119224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776282:1869102101:0349/pct:18.840321141837645,30.811112662292334,14.665477252453167,7.203685606589418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ And without sncering teach the rest to sneer;
 Willing to wound, and yet afraid to strike,  
 Just hint a fault and hesitate dislike
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292546:1891091201:0762/pct:88.36501901140684,87.703785576126,46.7680608365019,5.913235700469743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292546:1891091201:0762/pct:22.09545540977372,21.9259463940315,11.694238448374216,1.4783089251174357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ And without sneering teach the rest to sneer;
 Willing to wound, and yet afraid to strike,  
 Just hint a fault and hesitate dislike
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473479:1891091701:0479/pct:83.5882984433709,31.734837799717912,18.089103596349972,2.3868937832266464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473479:1891091701:0479/pct:55.75244999328769,21.156558533145276,12.068734058262853,1.5948790278832592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,7 +861,7 @@ And, without sneering, ce&amp;ch the rest to sneer; &#x27;
 Willing to wound, and yet afraid to strike,- -• •■ •,;  
 Just hint a fault, and hesitate d:s Ik*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037470:1896122601:0439/pct:43.11853619729515,42.38977485928705,12.90373906125696,2.4624765478424013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037470:1896122601:0439/pct:43.12383983028374,42.39759224515322,12.90373906125696,2.4585678549093184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

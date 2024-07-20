@@ -331,7 +331,7 @@ That thou no more will weigh my eyelids down,
 And steep my memory in forgetfulness ?  
 Why rather, steep, iiest thou in smoky crib
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1885061801:0034/pct:23.881036513545347,113.59617682198328,12.971142520612485,2.3536439665471924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1885061801:0034/pct:17.926056856679924,85.19713261648745,9.736338194137575,1.7682198327359617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ lids down
 And Steep my senses In forgetfulness?  
 Why rather, sleep, liest thou in smoky crib
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:0034058336A:1899043001:0247/pct:51.29689174705252,39.69856819894499,14.14790996784566,3.165033911077619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:0034058336A:1899043001:0247/pct:51.28589798542649,39.69258589511754,14.150235747963995,3.1683242917420134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

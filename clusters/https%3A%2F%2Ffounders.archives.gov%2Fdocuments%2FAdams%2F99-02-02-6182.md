@@ -252,7 +252,7 @@ Full royally he rode
 And on the wings of mighty winds  
 Came flying all abroad.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830040701:0017/pct:21.45541510078579,32.162593638708096,14.332080628629997,4.826231118752302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830040701:0017/pct:21.466803325361575,32.162593638708096,14.343468853205785,4.834418109623808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ arranging the matter which Is evidently
 Him (Christ.” In the same letter he des­  
 serlbes the book as the &quot;most sublime an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182197:1896090501:0040/pct:40.52871467639015,69.98115668937527,16.18960802187785,3.362806203797652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182197:1896090501:0040/pct:31.419555388093443,54.23874784692578,12.55180859080633,2.602411443121396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

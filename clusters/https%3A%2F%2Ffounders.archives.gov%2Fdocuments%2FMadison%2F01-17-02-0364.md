@@ -138,7 +138,7 @@ mny other district than that whereof he is an inhabitant,
 or in which he shall be found at the time of serving the  
 writ. In the case of Lay vs. the Newark India Rubbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858010301:0024/pct:244.26494345718902,67.15485921889191,45.848142164781905,16.201180744777474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858010301:0024/pct:81.42164781906301,22.384953072963974,15.282714054927302,5.400393581592492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

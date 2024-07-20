@@ -217,7 +217,7 @@ iummons having been ferved upon him,
 or a copy thereof having been left at.  
 hisitfoal place of abode, and if he doth 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805080701:0001/pct:59.37124549459351,12.544411041268106,17.66119343211854,11.341896693085543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805080701:0001/pct:59.37792017087171,12.544411041268106,17.66119343211854,11.341896693085543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ have been rendered by default, without
 actual service ol tile process, may, ill any  
 time before lie shall have paid the fine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819030901:0397/pct:64.37438745508004,71.72363812054596,14.880757922247632,13.8422514796473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819030901:0397/pct:64.36387391801405,71.71497584541063,14.88377157166966,13.844605475040257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ unable to agree at previous terms of the
 court survived. These related to two  
 checks on the bank, w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823032601:0140/pct:8.980674497915878,33.40500885403491,16.93823417961349,17.55628636478624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823032601:0140/pct:8.978973290395908,33.40078411534084,16.94133990023363,17.558281691328357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ been unable to agr**e at previous terms
 ol the court had survived. These re.  
 lated to two cheeks on the Ba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183633:1823032901:0016/pct:60.29684601113173,67.50592047862395,16.41929499072356,18.197681665212514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183633:1823032901:0016/pct:60.28566128733074,67.4975074775673,16.422432449143635,18.19956796277833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ the.act of Assembly io the following words:_
 “illation before the justices, he shall he forever  
 “ discharged of the crime ; unless micIi failur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823103101:0209/pct:64.8575088056356,19.86407535471563,14.873519052193403,9.633957314892095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823103101:0209/pct:64.84712662077797,19.861707200762996,14.876474040872953,9.636782705452234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

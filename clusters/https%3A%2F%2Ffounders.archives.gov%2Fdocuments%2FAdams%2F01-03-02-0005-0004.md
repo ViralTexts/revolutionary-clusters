@@ -265,7 +265,7 @@ tbe growth, and the defense of New Eng­
 land,” and as the place where &quot;the virtues  
 and talents of the people are formed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173526:1893012001:0453/pct:33.49514563106796,24.43418013856813,14.916151809355693,2.8175519630484986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173526:1893012001:0453/pct:33.487756452680344,24.430418719211822,14.918376351202294,2.820966748768473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ to get to heaven, but I know this, that
 ‘ it will not take you a millionth part of  
 the time to go to the other place.”—Ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn93058748:00517171529:1897041001:0095/pct:89.90600735594606,115.55062823355506,16.550878626890068,7.37620103473762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn93058748:00517171529:1897041001:0095/pct:69.67537608867775,89.55588650857295,12.842438638163104,5.716576927483103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ i “I don’t know the distance nor the
 » time,” exclaimed a Scotchman who was  
 present, &quot;that It would take you to ge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_alcott_ver01:data:sn92066979:00513687400:1897041001:0033/pct:41.64383561643836,85.01674598977613,11.872146118721462,5.534990304953287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_alcott_ver01:data:sn92066979:00513687400:1897041001:0033/pct:41.66095890410959,85.02555966860568,11.866438356164384,5.539397144368059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ claimed a Scotchman who was present,
 “that it would take you to get to Heav­  
 en, but I know this, that it will not tak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00271769830:1897041401:0365/pct:34.66542750929368,32.45164960182025,14.006903876792352,4.854000758437619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00271769830:1897041401:0365/pct:34.66542750929368,32.4579699153078,14.006903876792352,4.850840601693844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

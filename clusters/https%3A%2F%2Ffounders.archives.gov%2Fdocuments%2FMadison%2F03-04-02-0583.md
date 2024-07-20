@@ -100,7 +100,7 @@ cannot be less their duty to complain of the dally anJ
 practical outrages on the part of France ! It is in  
 need true that were the |&gt;eople of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810061801:1137/pct:31.598513011152416,47.42736568738841,20.76827757125155,4.009089433533517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810061801:1137/pct:31.590683845391478,47.41966893865628,20.7693260654113,4.01249594287569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ ty to comftlatn of the daily and practical
 outrages on the part of France ! It is indeed  
 true that were the people of the U. State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810061901:0052/pct:60.133912414042705,79.98539079620161,17.281939920376402,5.648892135378622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810061901:0052/pct:60.123032386466434,79.97565429093122,17.28484409866715,5.6522621221343075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ not be less their duty to complain of the daily
 and practical outrages on the part of France !  
 It is indeed true, that were the people o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810062601:0526/pct:77.1817328745699,55.39303482587065,16.249609008445418,3.482587064676617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810062601:0526/pct:77.18694609529767,55.39303482587065,16.254822229173183,3.4925373134328357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ duty to complain of the daily and praeticel
 outrages on the part of France ! It 15 in­  
 deed true that were the people of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810062701:0251/pct:26.824963901812932,34.08023483365949,21.12947216428686,4.7749510763209395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810062701:0251/pct:26.830311781378683,34.083496412263536,21.12412428472111,4.7782126549249835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ plain ni the daily and practical outrages on
 tile part o. France.&quot;  
 The tone of Mr Smith’s intended letter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811083001:0135/pct:40.375843824119684,88.41381005037474,17.67925561029009,3.993119547856002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811083001:0135/pct:40.3684786574243,88.4029484029484,17.682111151647817,3.996723996723997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

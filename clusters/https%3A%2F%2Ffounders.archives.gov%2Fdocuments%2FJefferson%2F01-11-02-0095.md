@@ -176,7 +176,7 @@ on Air. ISeckar an ardent passion for glory,
 without, at the same time, granting him those  
 qualities required for its pursuit, by direct means
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829062601:0060/pct:51.79901727690601,21.888665642359058,15.10540497701696,41.023519678525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829062601:0060/pct:51.79080824088748,21.886078941148664,15.108293713681986,41.02261088789096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ ton to do business with It is impossible to have
 a clearer, better organized head ; tint age has  
 chilled Ills heart.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829070201:0364/pct:2.56357670221493,11.080612539728403,14.909762100082034,44.4380236925744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829070201:0364/pct:2.563051055977035,11.079011989022101,14.91183104367439,44.435215946843854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ business with. It is impossible to have
 a clearer, better organized bead; but  
 age has chilled bis hear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829073001:0126/pct:37.464167585446525,20.76105204252938,18.235942668136715,69.79574706211528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829073001:0126/pct:37.45590828924162,20.758147992726254,18.237433862433864,69.78948104630018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -884,7 +884,7 @@ rebellions, as not to discourage them too
 much. It is a medicine necessary for the  
 sound health of government.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830011501:0123/pct:63.64336310440407,60.83323662527562,14.813674160763782,25.33364279911802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830011501:0123/pct:63.63356428021555,60.82617776746345,14.816525532460867,25.33457105283515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -908,7 +908,7 @@ i punishmout cl lebsllions, as not to discourage tbem
 j too much. It is a njediriue, necessary for the  
 sonndj health of the government.”-1 hopo tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830090301:0841/pct:40.1738845144357,63.18989152461557,18.192257217847768,5.447609965430922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830090301:0841/pct:40.16729539117599,63.1823599523242,18.194740582800286,5.45093365117203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ punishment of rebellions, as not to discourage them
 too much. It is a medicine, necessary for the  
 sound, health of the government.”-1 hope tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830090301:0285/pct:42.17293474766956,62.22408829174664,17.96849887495982,6.070057581573896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830090301:0285/pct:42.166157801703356,62.21662468513854,17.970967914724945,6.07332773579625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1041,7 +1041,7 @@ not to discourage them 100 much.
 *****  
 “ A*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557438:1861102601:1074/pct:15.20258157045536,41.69924420119885,11.366081032628182,18.02189210320563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557438:1861102601:1074/pct:15.20258157045536,41.70901746155851,11.375044818931517,18.02189210320563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1069,7 +1069,7 @@ rizing the publication of the secret journals of the old
 Congress. Questions no fess vitally interesting will have  
 to be met by the people of the Confederate States. Le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743415:1862082401:1003/pct:202.15248110417352,75.41754881204423,45.415708182714425,16.513761467889907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743415:1862082401:1003/pct:67.38416036805783,25.139182937348075,15.138569394238143,5.504587155963303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1090,7 +1090,7 @@ there local the throats of their own brothers and
 sons, or rather to lie themselves the subjects in­  
 stead of the perpetrators of the parricide.&#x27;’ F ro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1864062501:0307/pct:32.65541059094397,73.502272414268,14.255564082885648,3.1400633521553507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1864062501:0307/pct:32.65541059094397,73.50915851811045,14.255564082885648,3.1538355598402426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1259,7 +1259,7 @@ discourage them too much. It is a medicine
 Herniary fur the sound h -:aUh of government.  
 This is what Mr. Jefferson said one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877492:1877082901:0387/pct:20.101258894362342,72.22222222222223,15.681444991789819,32.25190839694657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877492:1877082901:0387/pct:15.085557837097879,54.166666666666664,11.772758384668036,24.19423240033927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1298,7 +1298,7 @@ tion of this truth should reader honest republican
 Governors so mild in their punishment of rebellions  
 as not to discourage them too much.&quot; &quot;God forbi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039958:1883042701:0238/pct:10.904836193447737,262.2628877482705,46.06864274570983,7.699174291452801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039958:1883042701:0238/pct:3.6349453978159127,87.42096258275683,15.356214248569943,2.5663914304842668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1480,7 +1480,7 @@ They tell me a rich man has gotten
 hold of it, and slicked it tip. Probably  
 there is a spring-mattress on it ho station
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898032001:0590/pct:5.586319218241043,19.879253567508233,14.364820846905538,9.923161361141602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898032001:0590/pct:5.591748099891422,19.879253567508233,14.364820846905538,9.937797292352727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

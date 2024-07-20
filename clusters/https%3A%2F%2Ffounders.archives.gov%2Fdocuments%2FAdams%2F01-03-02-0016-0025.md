@@ -186,7 +186,7 @@ day- lu the lie a/i tunc pains weic taken out
 ol doors to obtain a unanimity, and tho voices were  
 generally so clearly in favur ol Washingtuii that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850091401:0281/pct:71.93332383530418,4.691582415085766,28.437099301894857,91.70737248665228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850091401:0281/pct:71.93807284988365,4.699155590897043,28.45134634563328,91.71115907455791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ perience in war, I could not advise General
 Ward to humiliate himself and his country so,  
 far as to serve under him. General Ward wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850091701:0609/pct:8.975428836346778,5.317831590533847,25.442744552619377,90.53384700055035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850091701:0609/pct:8.974596699425181,5.317465776982871,25.443476111008096,90.5299121781202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ well as among ours, and the burning ot Charles- J
 town.  
 +Mr. Adams was one of the committee of three
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850091701:0609/pct:21.872971719981457,5.138965327462851,25.35002318034307,90.53384700055035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850091701:0609/pct:21.870943816057853,5.138611818119282,25.35076333518759,90.5299121781202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ the battle ot Bunker Hill, the death of General War­
 ten, the slaughter among the British officers and men,  
 as well as among ours,and the burning of Charlestown
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348355:1850091701:0081/pct:66.85905790355613,12.455710002725539,14.671383355054925,60.01635322976288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348355:1850091701:0081/pct:66.84661206254654,12.454012808284508,14.673306031273269,60.011581959395016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -790,7 +790,7 @@ of General Warren, the slaughter among (hi*
 llritish (fliniTN i\n&lt;I men. its well as among our*,  
 ami the hurtling of (&#x27;harlestown.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850091901:0170/pct:30.963503649635037,10.267103564690697,16.437956204379564,74.9677291232251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850091901:0170/pct:30.97323600973236,10.267103564690697,16.4330900243309,74.97434879025585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1030,7 +1030,7 @@ niong the Briiicdi officers and men, as well
 as among ours, anil the burning of Charlos,  
 town
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1850100101:0177/pct:3.58063203580632,8.937428462418923,46.643157466431575,88.99275085845098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1850100101:0177/pct:3.58063203580632,8.937428462418923,46.66124146661242,88.99910975454661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1066,7 +1066,7 @@ delegates were divided. Mr. Hancockpains were taken out of doors to obtain a
 and Mr. Cushing hung back; Mr. Paine unanimity, and the voices were senerally  
 did not come forward; and even Samuel o clearly in favor of asington that the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1850100901:0222/pct:116.7420814479638,62.19653179190752,154.37405731523378,27.45664739884393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1850100901:0222/pct:29.18552036199095,15.54913294797688,38.593514328808446,6.864161849710983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1090,7 +1090,7 @@ know not. To the compliment he had
 some pretensions, for, at that time, his  
 exertions, sacrifices, and general merits in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1850100901:0222/pct:168.02413273001508,91.73410404624278,102.71493212669684,21.791907514450866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1850100901:0222/pct:42.00603318250377,22.933526011560694,25.67873303167421,5.4479768786127165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ the Northern army, I can not say. But
 the intention was very visible to me, that  
 Col. Washington was their object, and so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1850100901:0222/pct:113.04675716440423,291.04046242774564,50.829562594268474,100.28901734104046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1850100901:0222/pct:28.261689291101057,72.76011560693641,12.707390648567118,25.072254335260116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1280,7 +1280,7 @@ ed, and the army adopted.
 &quot;The next question was, who should  
 be the second officer. General lce was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1850100901:0222/pct:165.3846153846154,97.22543352601156,105.052790346908,293.8150289017341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1850100901:0222/pct:41.34615384615385,24.30635838150289,26.263197586727,73.45375722543352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1300,7 +1300,7 @@ That ee must e anf sundus ant lus i i o  oi o te a­
 To this I as strenuously thjected, that ittive village the woed was very scarce, the  
 would be a great deal to expect of General Baaar having barned it all in their
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1850100901:0222/pct:219.8340874811463,118.4971098265896,102.33785822021116,13.526011560693641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1850100901:0222/pct:54.958521870286575,29.6242774566474,25.58446455505279,3.3815028901734103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1361,7 +1361,7 @@ kraal, started with Piet and Ruyter as my
 after-riders. It was a very cool day. We  
 crossed the river, and at once took up th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1850100901:0222/pct:219.00452488687782,118.03468208092485,158.29562594268478,76.9364161849711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1850100901:0222/pct:54.751131221719454,29.508670520231213,39.573906485671195,19.234104046242773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1633,7 +1633,7 @@ their object, and so many of our staunchest men
 were in the plan, that wo could carry nothing  
 without conceding to it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850101101:0407/pct:66.75328227571116,20.586347100363792,18.47647702407002,24.51316071046437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850101101:0407/pct:66.75784099197666,20.586347100363792,18.471918307804522,24.523860475069547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1851,7 +1851,7 @@ Washington was nominated, I believe, hy
 Air. Thomas Johnson, of Maryland, unan­  
 imously elected and the army adopted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1850112801:0321/pct:33.81803890744744,12.232167073501492,29.966594615838083,82.24844046650394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1850112801:0321/pct:33.81139489194499,12.230508474576272,29.965618860510805,82.2406779661017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1983,7 +1983,7 @@ to withdraw their opposition, and Mr. Washington was nomi­
 nated, I believe, by Mr. Thomas Johnson, of Maryland,  
 unanimoualy elected, and the army adopted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851050301:0611/pct:62.853661838364694,13.611845584346906,15.64911330716123,62.41142252776309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851050301:0611/pct:62.85817427011416,13.611845584346906,15.6536257389107,62.42199894235854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2147,7 +2147,7 @@ adopted. &#x27; 1
 THE Annual Meeting ot the Stockholders of  
 \he Alexandria Canal Company, will be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851050301:0685/pct:7.7971960821970425,6.730635516617995,13.116957941232956,69.94159365874009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851050301:0685/pct:7.796447431589054,6.730167558923729,13.118899023843815,69.93904841363647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3048,7 +3048,7 @@ j i no ton was m minuted. I believe by Mr. Thoe.
 j Jobnsi&gt;n of Mart land unanimously elected,  
 ; and the Army adopted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851052001:0055/pct:81.59151193633953,14.10427807486631,13.474801061007957,75.65508021390374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851052001:0055/pct:81.57708628005658,14.102392728244887,13.476838755304103,75.6483090495923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3420,7 +3420,7 @@ Mr. Washington was nominaled, I believe,
 by Mr. Thomas Johnson, of Maryland,  
 unanimously elected, and the army adopt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1851052401:0278/pct:215.58803061934586,54.10136947621064,149.7564370215727,330.4814344204433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1851052401:0278/pct:53.925152306353354,13.52534236905266,37.458659704090515,82.62035860511082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3719,7 +3719,7 @@ and Mr. Washington was nominated, I believe
 by Mr. Thomas Johnson, of Maryland,  
 unanimously elected, and the array adopted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067976:00202193985:1851060301:0073/pct:39.02743142144639,12.290631858611528,38.76024225151407,82.69608409379693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067976:00202193985:1851060301:0073/pct:39.02743142144639,12.298332755766047,38.76617978862368,82.69223364521967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5021,7 +5021,7 @@ ously elected General and Cor
 Army of the United Colonies. Two days after  
 memorable event, and on the very day on w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530406:1853022301:0370/pct:201.58265955616721,167.18494271685762,47.1357302597626,25.4150105213935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530406:1853022301:0370/pct:67.19421985205574,55.728314238952535,15.711910086587533,8.471670173797833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5044,7 +5044,7 @@ character, would command the approbation of all
 America, and unite the cordial exertions of all the  
 colonies, better than any other person in the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853022301:0408/pct:198.4568936598457,200.01159151501102,46.91378731969138,12.287005911672656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853022301:0408/pct:66.15229788661523,66.67053050500367,15.637929106563792,4.095668637224218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5367,7 +5367,7 @@ can ;/ nothin;’ without conceding to it.
 So yon see Messrs. Editors, that in the early  
 days of the Revolulii n, the North and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861051101:0082/pct:22.561307901907355,72.99018307243301,14.895549500454132,10.135314407004511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861051101:0082/pct:22.57039055404178,73.00013266118334,14.909173478655768,10.135314407004511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5476,7 +5476,7 @@ had not proceeded twenty miles from Philadelphis
 before he was met by a courier with the news of the  
 Battle of Bunker&#x27;s Hill.&quot; Sparks says that he di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531216:1875061201:0744/pct:246.33402855767687,102.40027829313543,47.92234878870528,26.99443413729128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531216:1875061201:0744/pct:82.11134285255896,34.13342609771181,15.97411626290176,8.998144712430427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5498,7 +5498,7 @@ was irresolute.&quot; The truth is, Hancock, who
 had never seen a battalion in the field, wanted to  
 be Commander-in-Chief himself. When Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061501:1039/pct:196.29689783985708,57.606098532256226,45.52541822316063,14.484014108544772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061501:1039/pct:65.43229927995236,19.20203284408541,15.17513940772021,4.828004702848257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5535,7 +5535,7 @@ cenly changed countenance, and forcibly ex
 hibited mortification and resentment. On the 15th  
 of June, 1775, the army status was regularly adopte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743907:1875070301:0049/pct:8.417397056391598,59.13522192912031,50.43823383495948,34.14382383300837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743907:1875070301:0049/pct:2.8057990187971997,19.711740643040105,16.812744611653162,11.381274611002791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5561,7 +5561,7 @@ character would command the approbation of all
 America, and unite the cordial exertions of all the colo-­  
 nies better than any other person in the Union.&quot; Ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070501:0041/pct:52.59138911454102,68.77084051971944,49.03330625507717,14.073818558123492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070501:0041/pct:17.53046303818034,22.923613506573147,16.34443541835906,4.69127285270783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5853,7 +5853,7 @@ cordial exertions of all the colonies,
 better than any other person in the  
 Union.&quot; Tho vote, which was give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:2016270502:00271763013:1896063001:0423/pct:6.0678167757287325,99.40507808350154,37.016656751933375,29.32115159885265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:2016270502:00271763013:1896063001:0423/pct:4.552216602201725,74.5564644640391,27.774471883368044,21.99086369913949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5921,7 +5921,7 @@ by ballot, was found to be unanimous
 for Washington.  
 11 u received his commission on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776865:1896070201:1142/pct:2.5686448184233837,89.92643747185107,19.154118689105402,18.480708602311964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776865:1896070201:1142/pct:1.9277642366496788,67.45233448431166,14.38067804121427,13.856778261522294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

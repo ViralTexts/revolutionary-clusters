@@ -125,7 +125,7 @@ zon. But the manner of making said i
 road, in every other particular, is left *  
 to the direction of the President. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806040401:0001/pct:40.520115581240276,48.00712231201205,19.648810846854857,11.340912203807697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806040401:0001/pct:40.53493368896792,48.016253481258275,19.641401792991037,11.34547778843081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ inserted an express condition, that no mem hero I’
 ■ ol £Ut.h contract or agreement, or to any benefit  
 : to arise thereupon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808061001:0054/pct:58.04246131702051,53.26221781195733,17.974091399784093,6.9213594641528156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808061001:0054/pct:58.03202014750855,53.25561205506635,17.976854350302812,6.924635164744306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ ted to any share or part of such con.
 traét or agreement, or to any benefit  
 to arise thereupon. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808081601:0129/pct:7.315943818490508,59.252262105995825,16.854452847661676,12.399323854032017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808081601:0129/pct:7.315943818490508,59.252262105995825,16.8698873282914,12.40263829505154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ in addition to the act, to regulate the laying
 out and making aroad fiom Cumberland,  
 -: Maryland, to the state of Ohio, which wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809062801:0060/pct:52.327690447400244,24.128927703250202,23.79081015719468,3.1961825875573964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809062801:0060/pct:52.31978237872148,24.12675549153763,23.792252279482142,3.1988956907934223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -490,7 +490,7 @@ Cumberland In the state of Maryland, to the
 state of Ohio,** as in his opinion shall be deemeu  
 : Provided, That no deviation aiiait tx
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811061401:0050/pct:39.95617238860482,5.751666255245619,17.64061358655953,2.6166378671932855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811061401:0050/pct:39.94887712251232,5.750956435887943,17.6434787900919,2.620428647825908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -713,7 +713,7 @@ of Congress shall be admitted to any
 ment, or to any benefit to arise there­  
 upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822020501:0198/pct:3.3453422542460114,4.801704359226483,35.69222851260937,90.05244182235333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822020501:0198/pct:3.3444816053511706,4.800917581517287,35.689477746333935,90.041782729805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -853,7 +853,7 @@ tion that no member of Congress shall be ad­
 mitted U&gt; any share or part of such contract  
 or agreement, or to any benefit to arise there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654061:1855100401:0191/pct:50.18344233530068,79.6315570358035,16.063167969373104,1.665278934221482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654061:1855100401:0191/pct:50.18743021215505,79.63415903413822,16.063167969373104,1.6704829308909241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -946,7 +946,7 @@ It wus a general belief that the substan­
 tially built road with its firm founda­  
 tion of packed stone would remain smooth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037251:1895051201:0647/pct:43.031598229277975,87.88286772130596,13.188826133414747,10.647369011556155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037251:1895051201:0647/pct:43.031598229277975,87.88286772130596,13.19391441510202,10.654848722839299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

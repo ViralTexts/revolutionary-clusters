@@ -95,7 +95,7 @@ a L teutenant 200
 Each non commifiioned oficer and fol 2  
 dier IQO acres. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776102201:0085/pct:36.72375021622557,30.015050526768437,58.069538142189934,65.62029671038486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776102201:0085/pct:36.72375021622557,30.015050526768437,58.069538142189934,65.62388016913926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ west corner, ami counting from West to Fast,
 and from East to West continuous!}; and aso. ;  
 that the land thus subdivided should be first
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1850010301:0400/pct:6.228861330326945,55.920592758283235,12.993235625704623,9.443590102055081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1850010301:0400/pct:6.228276186002819,55.91668414063046,12.995146391106935,9.445259896088162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ ot one mile square each, to be numbered from I to
 counting from west to east, and from east to west  
 sentmnnously; and also thit the lands thus suod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850011101:0054/pct:6.593406593406593,102.22602739726027,52.14785214785215,12.180365296803654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850011101:0054/pct:2.197802197802198,34.07534246575342,17.382617382617383,4.060121765601218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ cal miles square, each h undred to be divided into
 lots of one mile square, and numbered from 1 to  
 ICO. The report was debated, and amended b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00205958174:1850090101:0002/pct:3.7786774628879893,37.77015437392796,9.596641175588545,6.986849628359062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00205958174:1850090101:0002/pct:3.789923526765632,37.77587192681532,9.596641175588545,6.98399085191538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ States, whenever the same hall have been
 purchased of the Indian inhabitants and offer­  
 ed for sare by the Hnited States, shall be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090901:0239/pct:132.59762308998302,131.67283742847525,34.46519524617997,6.103444407045888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090901:0239/pct:33.16348195329087,32.91820935711881,8.61995753715499,1.525861101761472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ whenever the same shall have been purchased
 of the Indian inhabitants and offered for sale  
 by the United States, shall be formed into ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0477/pct:11.079943899018232,15.712682379349046,13.012311048776686,2.1997755331088666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0477/pct:11.09033296971586,15.712682379349046,13.007116513427874,2.2072577628133185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

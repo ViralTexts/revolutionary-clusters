@@ -249,7 +249,7 @@ dressed his remarks to those who did think
 favorably of it, in order to prevail on them  
 to tone their government as high as possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883083001:0141/pct:26.864823930329422,47.24966819053237,10.923892464975388,2.212063117534287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883083001:0141/pct:26.859738784781374,47.24270126806252,10.926556880560288,2.2154231790032437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ think favorably of It in order to provall on
 them to on their government as high at  
 possibl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069309:00100481807:1883110701:0683/pct:73.98107714701601,108.78734622144113,16.2117903930131,5.421116668919832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069309:00100481807:1883110701:0683/pct:55.515107389879866,81.59726916317426,12.158718602111394,4.072596998783291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

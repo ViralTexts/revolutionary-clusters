@@ -391,7 +391,7 @@ their hurtful works are.fulfilled.” “Evil
 doers shall be cut off, but those that wait  
 upon the Lord, they shall inherit th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348495:1885041601:0497/pct:50.125746620559575,81.59180823830579,10.735617730273498,2.3388410518966722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348495:1885041601:0497/pct:50.11786892975012,81.58231529959279,10.737859500235738,2.341477603257708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

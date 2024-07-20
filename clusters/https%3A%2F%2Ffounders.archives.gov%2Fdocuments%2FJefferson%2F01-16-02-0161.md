@@ -39,7 +39,7 @@ be faithful to all engagements under ad
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:111.2280701754386,159.66231367893417,140.7017543859649,105.73802928373566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:27.816777816777815,39.91557841973354,35.18778518778519,26.434507320933914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -70,7 +70,7 @@ The people are the
 governors, and even the  
 to keep these to the tr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:181.5015479876161,267.3514714047751,49.845201238390096,26.985008328706275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.384168763305595,66.83786785119378,12.463712018579447,6.746252082176569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ poorly most of the time since that
 bullet was extracted :Ann his head  
 List summer, is some better with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1888120601:0130/pct:42.89730887669032,45.10095011876484,12.036417191056366,5.56215360253365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1888120601:0130/pct:42.906234658811975,45.10424914225389,12.040880082117196,5.565452626022697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ I have but ono system of ethics for man and
 for nations to be grateful to be faithful to all  
 engagements under all circumstance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:11.277602523659306,321.95529876843545,52.12933753943218,25.072221377527747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:2.8194006309148265,80.48882469210886,13.032334384858045,6.268055344381937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ grateful, to be faithful to all en?
 gagements andei all circumstances.  
 The people are tbe onlt censor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.17267843438219,39.79132344865459,10.529547198772065,2.745744096650192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.17267843438219,39.798645432912316,10.534663596827833,2.7420831045213254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ everything.
 “and I thought It charming. But. let  
 me see, who was It wrote it? I neve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521675:1890060901:0102/pct:4.1261722080136405,37.1382820542148,15.225916453537938,15.692554043234587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521675:1890060901:0102/pct:4.137539073600455,37.14209462808342,15.22023302074453,15.703991764840444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ and or nations—to be grateful, to be faitb­
 fnl to all engagements under all circum­  
 stances
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762507:1891011401:0234/pct:5.864811133200795,64.65899025686448,10.702451954937045,3.580918638491712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762507:1891011401:0234/pct:5.868952948972829,64.66848032392762,10.706593770709079,3.587245349867139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -90,7 +90,7 @@ There is no flesh in man’s obdurate
 heart,  
 It does no! feci
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813032301:0572/pct:51.11536010197578,16.025865082139113,18.10070108349267,4.919608528486543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813032301:0572/pct:51.10721682332324,16.02446483180428,18.103127821145982,4.922091160623271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ till&#x27;d.
 There is no flesh in man&#x27;s obdurate heart.  
 It does not feel for man. Toe nat&#x27;ral bon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813032601:0386/pct:26.978584729981378,79.43088256536184,20.926443202979517,4.723385815397949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813032601:0386/pct:26.972306260181522,79.41941074523398,20.927391203164998,4.72631426920855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ of Iowa, to the procurement of a Fire Engine, to be
 in readiness to meet, if necessary, the devouring pro­  
 gress of the flames. We are as liable as others, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1842050601:0164/pct:51.934570619691726,70.35427807486631,15.806857502359232,8.333333333333334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1842050601:0164/pct:51.94505609730523,70.35427807486631,15.80161476355248,8.3407605466429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

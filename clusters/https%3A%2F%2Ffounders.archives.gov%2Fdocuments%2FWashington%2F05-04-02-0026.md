@@ -105,7 +105,7 @@ which 1 have long been, my dear friend,
 “Yours, most sincerely,  
 tlB. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:0041421566A:1839112801:0307/pct:82.22089450324343,20.654926674126862,14.603960396039604,10.913481359326227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:0041421566A:1839112801:0307/pct:82.21387727233933,20.653710247349824,14.605558874569713,10.914801727522576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ dear fried,
 Yours; most sincerely,  
 B. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1839121401:0574/pct:31.57766990291262,19.43809212675596,23.66504854368932,20.058804312316237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1839121401:0574/pct:23.69507161932508,14.58673636066645,17.771303714493808,15.044103234237177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ hereafter if! main my memorg 01
 ,,:-friend,  
 71fours, most sincerely. B. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1839122001:0065/pct:8.046940486169321,7.883255604031894,22.65297569153395,27.14006318639988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1839122001:0065/pct:6.037735849056604,5.91244170302392,17.0020964360587,20.35504738979991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ tain the csteum , i aspect and affection with
 which I have long been , my dear friend ,  
 yours most sincerely
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206539628:1888122401:0425/pct:77.4025069637883,66.49172385950747,16.678272980501394,19.243708787511775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206539628:1888122401:0425/pct:58.070694758836844,49.8687928946306,12.502176562772071,14.439510160139955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -127,7 +127,7 @@ any other man.
 obliged frieud, and humble servant,  
 JOHN ADAMS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823042301:0402/pct:101.3911620294599,94.0085401654657,20.826513911620296,10.30157459300774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823042301:0402/pct:78.57935627081021,72.86359405701678,16.151366206860104,7.980281981454032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ convert these nine Clergymen to Chris­
 tianity, I will contribute as much as any  
 other man:” I am, with great esteem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823050101:0073/pct:20.746455379482903,34.81318075279195,17.222685571309423,14.917964980008273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823050101:0073/pct:20.742130498228057,34.80838158257513,17.2243068584532,14.919354838709678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ to convert these nine Clergymen te Christ­
 tanity, I will contribute as much as any  
 other man. I am with great esteem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823050601:0070/pct:60.99912357581069,74.1680331822128,16.21384750219106,8.006173434937784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823050601:0070/pct:61.003992599084626,74.17446384360632,16.21871652546499,8.006173434937784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ In convrrt these nine Clergymen tu Chili
 lianili/, I vviil contribute as much as any  
 other man. I aln with great . :.;* . |*I, Tou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823050601:0312/pct:33.45151199165797,60.64309617343227,15.015641293013555,3.331878364615161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823050601:0312/pct:33.444537114261884,60.63427407622927,15.017723102585489,3.335030549898167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ Clergymen to CAns/icmiry. 1 will contri­
 bute as much as any other man.” I am  
 with great esteem, your friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823051701:0138/pct:47.67785234899329,62.184431977559605,19.677852348993287,15.585553997194951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1823051701:0138/pct:47.66505636070853,62.17353198948291,19.679280730005367,15.587204206836109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -808,7 +808,7 @@ other. Now, if you will raise a fund to convert
 ymen to Christianity I will con  
 tribute as much as any man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883020401:0308/pct:63.33846153846154,42.983437779767236,45.323076923076925,17.72605192479857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883020401:0308/pct:21.112820512820512,14.327812593255745,15.107692307692307,5.908683974932856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ other. Now. if you will raise a fund to con­
 vert these nine clergymen to Christianity I will  
 contribute m much as any man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883030201:0410/pct:51.44800351031154,6.538874955213185,10.969723562966212,5.589394482264422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883030201:0410/pct:51.46445809565599,6.538874955213185,10.958753839403247,5.607309208169115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,7 +861,7 @@ other. Now, if you will raise a fund to con­
 vert these nine clergymen to Christianity I will  
 contribute as much as any man.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470843:1883030901:0520/pct:77.63583716572985,55.42897828408687,14.239482200647249,6.1825086032989205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470843:1883030901:0520/pct:77.64151479021177,55.432933823820264,14.250837449611083,6.186464143032317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

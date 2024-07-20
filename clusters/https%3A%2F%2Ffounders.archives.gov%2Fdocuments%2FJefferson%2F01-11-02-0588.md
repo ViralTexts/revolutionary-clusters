@@ -78,7 +78,7 @@ two parties make a compact, there results to each, a pow -
 er ot compelling the other to execute it.” Accordingly,  
 hi liis letter to Mr. Giles,after deploring (be course of\h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832122001:0267/pct:34.364548494983275,45.34692535350214,15.20345596432553,4.02279951770251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832122001:0267/pct:34.35976034554828,45.34195528277071,15.205982072360783,4.02601198304837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ has always shown thut it would wait, as it ought
 to do, to the last extremity, before it would exercise  
 nny of its powers, which are disagreeable.”—If tin*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348847:1833010701:0161/pct:81.97389885807505,76.2505374802924,15.558727569331158,5.919449620180593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348847:1833010701:0161/pct:81.9571865443425,76.23961020349671,15.560652395514781,5.922184006878762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ general plan would ho, to make the Slates one. as to eve­
 ry thing connected with foreign nations, and several as to  
 every thing purely domestic.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833030501:0391/pct:34.18911335578002,36.785042593207216,15.025252525252526,3.020245602389645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833030501:0391/pct:34.18431757609763,36.780973451327434,15.027820638705755,3.023598820058997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ cute any ol its powers which are disagreeable.”
 Thus, you see, that even under the Articles of Con­  
 federation, the greatest o( the great statesmen, the apos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833031901:0412/pct:35.98426303217648,19.58018658374056,14.809610791063651,9.840071079520213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833031901:0412/pct:35.979207642596236,19.57801221543587,14.812213168493022,9.842679992596706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ would he to make the Slates one as to every thing eon­
 ; nected will, foreign nations, and several as to every thing  
 purely domestic.&quot;(d) How far these important ^tinci
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833040201:0426/pct:81.14811202452277,67.24269101184653,15.075937021039431,1.9563090968373003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833040201:0426/pct:81.13680691000279,67.2353836122582,15.078480542398069,1.9597189016880388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ Hut tin? would he war , and it vva • evident Llmt a
 confetlciaey c mid not l ei * hold together, which J  
 should In* .it war with iu ni ■uiIicik The coasti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348847:1833041101:0268/pct:50.48760666395774,24.029786624659888,15.64404713531085,3.021623943863669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348847:1833041101:0268/pct:50.47735120861263,24.02634593356243,15.64594759293114,3.024770904925544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ it would wait, as it ought to do, to the last extremities
 before it would execute any of its powers which are dis­  
 agreeable.” [Letter Irom Paris to E. Carrington,dat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851050701:0425/pct:19.161442006269592,13.952164009111618,14.772727272727273,5.8798405466970385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851050701:0425/pct:19.157688540646426,13.95017793594306,14.774730656219393,5.882562277580071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ hat it would wart, as it ought to do, to the
 ast exlremities befors it would execute any  
 f its powers which are disagreeable.&quot; Le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851052801:0677/pct:22.768974145120936,21.602478972996902,121.18432026688907,37.89287295263391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851052801:0677/pct:5.695806384310453,5.400619743249226,30.315042770707283,9.473218238158477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ which has always shown that it would wait, as it ought
 to do, to the last exiremitjes before it would execute  
 any ot its power-* which arc disagreeable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851100901:0337/pct:5.185621685327048,27.273993592422343,14.869377332547634,5.738960858058225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851100901:0337/pct:5.184603299293008,27.270194986072422,14.871366849960722,5.741643454038997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ sion. Why, is it not perfectly notorious that the
 Legislature ot that State, at its last session, made  
 provision for the pu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851100901:0337/pct:5.146336672559419,42.93077030227051,14.908662345315262,11.575428332636857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851100901:0337/pct:5.1453260015710915,42.92479108635097,14.910644147682639,11.577298050139277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ gress, which has always shown that it would wait, at
 n on,?!]t to do, to tlic last extremities before it would  
 execute any of its power* which are disagreeable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851101101:0345/pct:50.4846839860411,5.1008968609865475,29.778984102365257,90.5829596412556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851101101:0345/pct:50.474898236092265,5.100182149362477,29.77805776313239,90.57377049180327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ it ought to do, to the last extremities, before it
 would execute any of its powers which are  
 disagreeable.” [Letter from Paris to E. Car
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851101401:0558/pct:57.68247656915649,11.489539167303816,12.458581842279655,13.074303190380204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851101401:0558/pct:57.677016281711474,11.488740617180984,12.46055786949388,13.075711240848856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ wait as it ought to do, to the last extremities
 before it would execute any of its powers  
 which are disagreeable.&quot; etter 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851101601:0261/pct:344.7576099210823,134.19937870658006,45.64073656520105,65.08048573849194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851101601:0261/pct:86.17321059552884,33.54510800508259,11.408040578621078,16.267824368205563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ In the sixteenth number of the Federalist,
   
 ! Alexander Mammon considered the subject o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_archer_ver01:data:sn86092243:00393348896:1861051801:0071/pct:63.37870071558861,21.257574252508196,15.336046022169215,11.959868878513957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_archer_ver01:data:sn86092243:00393348896:1861051801:0071/pct:63.36980920314254,21.255462852602303,15.33857089412645,11.961991789166998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,13 +994,13 @@ In the sixteenth number of the Federalist,
 sults to each a power of compelling the other to  
 execute tt.’’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151374:1861052301:0610/pct:50.237103032044836,57.69732550554468,11.165397327202184,1.3155033702978909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151374:1861052301:0610/pct:50.237103032044836,57.69732550554468,11.179767207932175,1.3191273465246067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1861-06-01_4_22/page/n3/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1861-06-01_4_22/page/n3/mode/1up?view=theater)
 
 #### 1861-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1034,7 +1034,7 @@ which should he at war with its members. The
 Constitution was adopted to avoid this necessity.  
 It was adopted, that there might hen Governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861062901:0110/pct:63.365262967648654,72.37790232185749,14.585215976866076,4.1900186816119565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861062901:0110/pct:63.378818001084404,72.3879103282626,14.598771010301826,4.180010675206832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1066,7 +1066,7 @@ State Corresponding Committee, and the Gover­
 nor of the State gave a public dinner in Rich­  
 mond. The fourteenth regular toast was as fol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861072501:0590/pct:74.03788634097707,86.30414249089192,13.918245264207378,3.265416273107543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861072501:0590/pct:74.04785643070788,86.31426258264742,13.918245264207378,3.265416273107543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1176,7 +1176,7 @@ the last extremities, before it would exe.­
 cute any of its powers which are disagree-­  
 able.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861091801:1031/pct:68.32705455560206,241.46391122874886,42.486395981582255,32.39336251654281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861091801:1031/pct:22.775684851867354,80.48797040958296,14.16213199386075,10.79778750551427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1227,7 +1227,7 @@ My general plan would be t make the States one as to
 everything connected with foreiirn nations, and several  
 as to evervthinir purely domestic Alt Lttter to Jr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1862092901:0408/pct:43.43434343434343,33.333333333333336,15.909090909090908,1.3345108429005985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1862092901:0408/pct:32.58875149581173,25.002453144931803,11.939901608828613,1.000883132175449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1260,13 +1260,13 @@ My general plan would be to make the States one ast
 everything connected with foreign nations, and several  
 as to everything purely domestic--so LettEr to Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862100401:0347/pct:279.0719257540603,128.4717930608281,49.837587006960554,32.80656837644566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862100401:0347/pct:69.77607611091774,32.117948265207026,12.460842325095719,8.201642094111415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1863-02_3_2/page/n61/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1863-02_3_2/page/n61/mode/1up?view=theater)
 
 #### 1863-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1310,7 +1310,7 @@ it by tbe law of nature. When two parlies make a com­
 to execute it.&quot;&quot; (See Jefferson&#x27;s writings, vol. ii, page !W8,  
 aso Rives&#x27; life of Madison, vol. i. page 80S.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863062301:0160/pct:47.48908296943232,22.513734723623724,19.307548346849657,4.1260230967597264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863062301:0160/pct:35.63182527301092,16.885301042717792,14.492979719188767,3.0945173225697946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1332,7 +1332,7 @@ rtby tbelkwof nature. &#x27; When two parties make a coto­
 to execnto it.&#x27;.&#x27; (See JeaTeraon&#x27;s. writiagix ftU Hi pair 8i)3.  
 a&#x27;sa Bives&#x27; lire of Madison, vol. i pajje Sua.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:48.68222891566265,21.425857920729392,20.57605421686747,4.267443332911232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:36.541721604822,16.069393440547042,15.445469956677341,3.203748258832468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1402,7 +1402,7 @@ and admirers in the 8outb obeyed bie
 teachings and practiced his theories, tbe  
 present crisis wnuld not now be upon th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190741:1864091401:0249/pct:57.47955747955748,15.735235830360681,13.780663780663781,11.09789932619897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190741:1864091401:0249/pct:57.497594997594994,15.740190249702735,13.768638768638768,11.112762584225129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1461,7 +1461,7 @@ results in edch a powCr of compelling the other to
 execute it.&#x27;&#x27; Thus spoke the author of the Decla­  
 ration of Independence, and the father of Democ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1864092301:0375/pct:62.243109765811695,66.6704263478457,14.529233710371196,9.181141439205955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1864092301:0375/pct:62.243109765811695,66.67794571020377,14.529233710371196,9.18490112038499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1482,7 +1482,7 @@ without comparison, the best existing, or
   
 that ever did exist. Its greatest defect is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287459:1864100601:0237/pct:65.59748427672956,89.23727894108713,19.150943396226417,3.027015297819247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287459:1864100601:0237/pct:49.2135891789871,66.93067158511447,14.375589808115759,2.267549094065314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1499,7 +1499,7 @@ that ever did exist. Its greatest defect is
 It has been so often said as to be gen- will be multiplied a hundred fold. Our  
 orally believed, that Congress have no j territory is nearly as large as all Europe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287459:1864100601:0237/pct:65.61320754716981,93.93511988716502,38.789308176100626,1.5840295106867743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287459:1864100601:0237/pct:49.229317395407364,70.456764673972,29.097200377477193,1.1934468916133232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1525,7 +1525,7 @@ power of compelling the other to execute
   
 it&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287459:1864100601:0237/pct:65.61320754716981,96.27861560160572,19.166666666666668,5.283714874688076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287459:1864100601:0237/pct:49.229317395407364,72.21438645980254,14.375589808115759,3.960073776716936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1553,7 +1553,7 @@ sults to each a power of compelling the other to
 * execute it.&#x27;*  
 Farther than this, Mr. Jefferson was in favor o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1867101901:0379/pct:1.25676720804331,71.18065433854908,13.244392884764114,1.7069701280227596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1867101901:0379/pct:1.25676720804331,71.1842105263158,13.263727764887857,1.7140825035561877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

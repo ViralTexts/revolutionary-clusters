@@ -230,7 +230,7 @@ ses, to withdraw from the same with­
 out delay 5 and commanding all per­  
 sons whatsoever, engaged or in any ways
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815091101:0633/pct:21.036814425244177,71.08190976784933,18.978211870773855,17.766097240473062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815091101:0633/pct:21.033653846153847,71.07568325157673,18.98036858974359,17.767460873627655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ By the President :
 James munroe,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815091101:0633/pct:40.66115702479339,5.685501533070521,18.512396694214875,20.41173893999124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815091101:0633/pct:40.65504807692308,5.685003503854239,18.514623397435898,20.412870824573698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ Ur the President,
 JAMES MONROE,  
 Secretary o/Stute
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815091301:0152/pct:63.032516084159276,18.127490039840637,17.17962093548948,35.794322709163346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815091301:0152/pct:63.02155771905424,18.12523341217478,17.18242929995364,35.79401634922611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ Isy the President :
 JAMES MONROE,  
 Secretary o f State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815091301:0278/pct:22.548103866990473,4.064938333752831,35.736969923407436,92.54971054618676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815091301:0278/pct:22.54389241688457,4.064426827733736,35.736520981197856,92.54225913342562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ participate in said unlawful enterprises, to w itli­
 draw from the same without delay—and com­  
 manding all persona
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815091401:0551/pct:74.3311458859162,66.18310767246938,21.47905098435134,14.00709219858156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815091401:0551/pct:74.31238960383548,66.17244157937148,21.47993943981832,14.008863819500403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ By tub President :
 JAMES MONJWVB,  
 Secretary oj State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815091401:0552/pct:3.8980891719745223,2.026811362910948,21.656050955414013,9.288222151292691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815091401:0552/pct:3.8970962812022414,2.02648795276847,21.656902699949057,9.290729216531036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -920,7 +920,7 @@ BY THE PRESIDENT :
 JAMES MONROE,  
 Secretary of Siate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815091901:0382/pct:44.391648668106555,19.342887783952424,16.645068394528437,32.99210295408014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815091901:0382/pct:44.39644828413727,19.346137597088166,16.645068394528437,32.99210295408014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -998,7 +998,7 @@ JAMES MALtibON.
 By the President :  
 JAMES MONROE, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815092001:0130/pct:46.07734806629834,3.9404984730568415,37.93212312549329,89.81381144714807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815092001:0130/pct:46.07007575757576,3.9401103230890464,37.93008207070707,89.80742710795903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1069,7 +1069,7 @@ By Tue PacsivENT ! i
 JAMES MONROFE,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815092001:0150/pct:72.42143432715552,29.050082294850693,22.522159548751006,32.424171173289444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815092001:0150/pct:72.42814934192855,29.050082294850693,22.528874563524038,32.43200877811741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ Chief Justice Jay, as follows:
 &quot;That the right of levying soldiers selongs solely to the na  
 tion; this important power is the appendage of the sovereign
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857021401:0380/pct:51.25836253583944,170.31354236157438,47.0691302962727,21.603291082944185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857021401:0380/pct:17.08612084527981,56.77118078719146,15.689710098757566,7.2010970276480615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1436,7 +1436,7 @@ spective department, in searching out and bring­
 ing to punishment all persons engaged or con­  
 cerned in the undertaking
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861022701:0199/pct:11.835973904939422,125.46304310195603,58.90027958993476,29.773238705210318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861022701:0199/pct:2.961063184891583,31.365760775489008,14.735369550011658,7.4433096763025794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1490,7 +1490,7 @@ Under the authority and by virtue of
 this proclamation, the Virginia militia  
 of Wood County were called out, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1861052901:0175/pct:72.04836415362732,283.82466034350165,52.13371266002845,55.165342219943604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1861052901:0175/pct:18.01209103840683,70.95616508587541,13.033428165007113,13.791335554985901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1521,7 +1521,7 @@ engaged or concerned in the undertak-
   
 robes around her, his wife placed her ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1861112001:0279/pct:180.4937149780403,75.19648636153491,70.02877479933363,99.53767914932963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1861112001:0279/pct:60.16457165934676,25.065495453844967,23.342924933111213,33.17922638310988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

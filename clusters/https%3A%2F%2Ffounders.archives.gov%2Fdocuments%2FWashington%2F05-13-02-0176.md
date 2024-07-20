@@ -171,7 +171,7 @@ and they progress in that siyie in proportion as
 larm them; because it is difficult to prescribe bounndr  
 he effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850020501:0359/pct:88.63090472377903,107.21940878577317,41.45716573258607,35.64951124720292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850020501:0359/pct:29.54363490792634,35.739802928591054,13.819055244195356,11.883170415734307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ ever barbed and well pointed, never ean reach the moat
 vulnerable part of me, though, while I am up for a mark,  
 they will be continually aimed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850040601:0448/pct:0.8455284552845529,23.97337686801457,15.853658536585366,3.491146552806731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850040601:0448/pct:0.8563685636856369,23.98174892209804,15.842818428184282,3.4869605257649963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ part of me, though, while 1 am up for
 a mark, they will be continually aimed.&quot;  
 THIRTY-FIRST CONGRESS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850052201:0635/pct:4.280432309442548,30.733333333333334,15.799203640500568,5.511111111111111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850052201:0635/pct:4.280432309442548,30.74074074074074,15.808684110731893,5.511111111111111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ aimed. The publications In Frenun&#x27;a
 and Buoh&#x27;a papers aro outrages on  
 common decency.&#x27;&#x27; Hlldroth&#x27;s His
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1875090201:0475/pct:64.19027258150722,50.065636675754824,14.818278995189738,10.855296374835909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1875090201:0475/pct:48.14913804623814,37.55427648187418,11.118535346786048,8.1389477935979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ will be continually aimed. The publi­
 cations in Freeman&#x27;s and Buck&#x27;s papers  
 are outrages on common decency.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348080:1887010601:0308/pct:60.63633973179069,33.73027989821883,10.833552458585327,8.580152671755725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348080:1887010601:0308/pct:60.645104741870455,33.73027989821883,10.824787448505566,8.583545377438508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ will be continually aimed. The publi­
 cations in Freeman&#x27;s and Buck&#x27;s papers  
 are outrages on common decency.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297167:1887010601:0032/pct:171.83673469387756,138.38232851685765,65.61224489795919,45.90599568178043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297167:1887010601:0032/pct:42.97014544526665,34.595582129214414,16.407246746619034,11.476498920445108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ will be continually aimed. The publi­
 cations in Freeman&#x27;s and Buck&#x27;s papers  
 are outrages ou common decency.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623367:1887011401:0208/pct:57.01114099116404,30.548264800233305,11.563580484056857,8.73432487605716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623367:1887011401:0208/pct:57.02554744525548,30.555555555555557,11.563580484056857,8.730679498396034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ will be continually fumed. The publi­
 cations in Freeman&#x27;s and Buck&#x27;s papers  
 are outrages on common decency.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1887012001:0027/pct:54.32692307692308,34.61939520333681,15.206552706552706,11.587591240875913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1887012001:0027/pct:43.46153846153846,27.70246784845325,12.174738841405508,9.263121306916927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ When, on one occasion, as Jeffer
 son tells us, Knox made somo allus-  
 ions to recent libels uttered by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776580:1887030301:0345/pct:157.98381162619575,182.9644533869886,50.6990434142752,52.36753856472166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776580:1887030301:0345/pct:39.495952906548936,45.74111334674715,12.6747608535688,13.091884641180416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -624,7 +624,7 @@ ly effort can deprive me of, and that is that
 neither ambition nor interested motives have  
 influenced my conduct.” Washington under
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894030101:0266/pct:6.2586105097421765,84.20474818169343,21.058846683723676,3.0602442706189104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1894030101:0266/pct:6.257378984651712,84.19319429198683,21.06126197035288,3.0643980973289424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ bary for the people to place, uutil they
 have unequivocal proof of demerit in thetr  
 public servants.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898041801:0609/pct:14.728906929544795,257.34068903400134,37.60510292838504,29.193875253321323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898041801:0609/pct:4.909635643181598,85.78022967800045,12.535034309461679,9.731291751107108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ duct.&quot;
   
 The naTIonal Uahd urDee CaLI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898041801:0609/pct:53.827196288779355,85.37491555955866,37.67758770658162,23.778428281918487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898041801:0609/pct:17.94239876292645,28.458305186519553,12.559195902193872,7.926142760639496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ He had led the country successfully
 through a war to a triumphant end.  
 He had amazed the world with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199604:1898110101:0140/pct:53.262452665307315,18.868783430067143,38.11535100495194,45.64697849095254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199604:1898110101:0140/pct:17.75415088843577,6.289594476689048,12.705117001650645,15.21565949698418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -105,7 +105,7 @@ they are at war or not will; the power whose
 subjects have taken possession of the sai l ef­  
 fects.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818041401:0408/pct:18.853670553457054,26.172869438719843,14.91213663984234,1.6729300521275305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818041401:0408/pct:18.850574712643677,26.169696969696968,14.915161466885605,1.6767676767676767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ ken possession of the said etlects.”
 You observe— Thirdly,&#x27; that I ranee &amp; Spain  
 woic their allies, in a war against England 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818042401:0420/pct:50.80072643222717,27.157792365669827,14.842331187056299,2.8324823729637734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818042401:0420/pct:50.79234070650379,27.15449130910417,14.845383514911411,2.836189781613387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ to some port of either stawe, and shall be delivered so
 the zustody of the officers of that port, in order to be ta­  
 ken care of, and restored entire lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839091701:0358/pct:82.16849816849818,51.774530271398746,14.505494505494505,4.206680584551148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839091701:0358/pct:82.16849816849818,51.781489213639524,14.515262515262515,4.206680584551148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ power whose subjects have taken posses,
 ion of the said effects.&quot;  
 4 Art. 9 All ships and merchandise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084131:0029586185A:1839092701:0051/pct:3.968143076708118,29.22705314009662,17.19994411066089,3.681159420289855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084131:0029586185A:1839092701:0051/pct:3.9774579665595455,29.23027375201288,17.19994411066089,3.684380032206119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ whether they are at war or not with the
 power whose subjects have taken posses­  
 sion of the said effects.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:0051415935A:1861072401:0287/pct:2.110366462284329,51.42495250158328,11.89220019962926,2.1638167616635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:0051415935A:1861072401:0287/pct:2.110366462284329,51.42847090282176,11.901706354864775,2.1638167616635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ re at war or not with the Power whose subjects have
   
 taken possession of said effects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174383A:1873091701:0948/pct:8.984503791625453,172.88508274505264,47.1480382459611,6.052540215252864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174383A:1873091701:0948/pct:2.9948345972084844,57.62836091501755,15.716012748653698,2.017513405084288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ trom them, within the extent of their said jurisdiction,
 whether they are at war of not with the f&#x27;ower whose  
 sul acts have taken possession of the said efects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743841:1873111701:0629/pct:11.450381679389313,260.7854297097325,45.24930972876401,5.258964143426295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743841:1873111701:0629/pct:3.816793893129771,86.92847656991083,15.083103242921336,1.752988047808765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ the said effecis.o
 Art.4-Mmburpoe crorvued e  
 the subjects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873112601:0523/pct:120.0,368.40640222686153,43.098591549295776,11.273486430062631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873112601:0523/pct:30.0,92.10160055671538,10.774647887323944,2.8183716075156577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

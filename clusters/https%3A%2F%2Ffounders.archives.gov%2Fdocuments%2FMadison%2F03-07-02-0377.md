@@ -157,7 +157,7 @@ tion or employment in war of the native
 subjects of each other.  
 Resolved, That the President of the U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1814031101:0138/pct:51.18756936736959,84.13068844807468,21.287458379578247,5.863477246207701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1814031101:0138/pct:51.17620949844652,84.11841913373195,21.290131676283472,5.867483350347577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ of i he letter of marque Argus, praying on©
 i alf the moiety of the prize brig Atlantic,  
 which was captured by tin. Argtis, re cap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1814031101:0138/pct:73.7402885682575,7.890898483080513,21.46503884572697,8.182613768961494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1814031101:0138/pct:73.72392365734576,7.8897477030771475,21.46767273265276,8.186281658645667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ which punishment retaliation has been
 inflicted hy the nation in whose service  
 they were taken
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814031201:0301/pct:44.66988192250125,6.219445953286257,37.33577249293198,86.04019554589897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814031201:0301/pct:44.66245427336216,6.218882954648321,37.33510697261944,86.03542439878096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ gainst her, and for which punishment retal­
 iation na3 been inflicted by the nation in  
 whose service they were taken.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814031601:0393/pct:22.89025715320536,29.700748129675812,17.493661716769285,10.049875311720697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814031601:0393/pct:22.886112619952925,29.69704525620247,17.496529663830046,10.052778124090928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ charge native citizens of the U. States, im­
 pressed into her service  
 Resolved, That the President of the U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814031701:0470/pct:74.08810990052108,73.56488882429879,21.08005684509711,4.752216247638424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814031701:0470/pct:74.07056594837793,73.55419936065097,21.080985081695477,4.755158384190643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ ollice not before full.
 Resolved, That in the opinion of the  
 Senate the ofliee of envoy extraordinary i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814031701:0470/pct:74.08810990052108,79.14547304170905,21.198484130743722,13.820665600930097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814031701:0470/pct:74.07056594837793,79.13397268235978,21.199384323940325,13.822290031967452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ per Ib. Those who melted the cents coin­
 ed at the Mint of the U. S. would gain  
 from 20 to 80 per cent. These pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814032901:0054/pct:23.170904958090638,12.851055587836528,16.962636738173035,15.2527600232423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814032901:0054/pct:23.17564047923474,12.857511782555362,16.962636738173035,15.249531925882884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ pectire commissaries, coin
 cerning the treatment oft  
 prisoner!. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814042301:0847/pct:51.75057500638896,41.54302670623145,22.514694607717864,19.090009891196836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814042301:0847/pct:51.73735309146653,41.536179330806,22.515329586101174,19.09098401186748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ grounds (i B»»*ain has r-fim d to *&#x27;;s
 charge native citize- s of the tJ. S*n cs irn.  
 P&#x27;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814042301:0439/pct:42.5641940085592,43.819810973364426,17.385877318116975,23.775622928685404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814042301:0439/pct:42.55660545551792,43.81443298969072,17.388720508706246,23.776795941744396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ thru b&quot; *r.&#x27;n how many of nur na&#x27;ive citizen* ,
 havr participated in the In; of the unfo. tr,  
 i, te. me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814042301:0439/pct:42.49286733238231,4.774763716705536,35.02139800285307,90.929176383945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814042301:0439/pct:42.4852914958103,4.774177712322042,35.0210970464135,90.922107674685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -808,7 +808,7 @@ dem.
 All wh&#x27;ch is respectfully suh:r.&#x27;*V fi *  
 (Si.tied) JAS. MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814042301:0439/pct:60.21754636233951,4.9711550263900826,34.62910128388017,90.97827421136614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814042301:0439/pct:60.206810483152076,4.970544918998527,34.62887026802163,90.97119947635412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ and for trial by tne ffrit,»i, Commander jf,&#x27; -
 V*1* ; of &#x27;,,c CorP* »luch hey i,  
 he time, when, and of the places where they
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814042301:0089/pct:78.04743519029233,68.57073702045263,18.367346938775512,26.310056880067773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814042301:0089/pct:78.03308823529412,68.56243949661182,18.370098039215687,26.310906744111005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1104,7 +1104,7 @@ Ail which is respectfully submitted.
 (Signed)  
 3 AS. MONRCE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814042301:0090/pct:2.659956865564342,4.447422931643719,35.0647016534867,89.77701961739979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814042301:0090/pct:2.6594788858939804,4.446881091617934,35.06439053608865,89.77014294996751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1770,7 +1770,7 @@ ninilui.n
 All wliitth isrespctfallysufemitted.  
 (Signed) JAS. MONHOE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814042601:0365/pct:4.0241448692152915,6.876920296403398,58.75251509054326,86.61666365443702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814042601:0365/pct:4.0234702430846605,6.8762989066594375,58.74825370215144,86.61184904069154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2347,7 +2347,7 @@ immocent persons in support of righte fairly.
 ‘btained, and fan@joned by .ﬂ.&#x27;_ﬁf;  
 pinion and praflice of the nations 61 Lurop
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814050301:0073/pct:42.23691776883266,10.184192573823214,52.932719953996546,84.38748659974661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814050301:0073/pct:42.246501820969904,10.190689666374297,52.932719953996546,84.38098950719554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2753,7 +2753,7 @@ and incorporated themselves into the American
 society. And it hns become an historical fact, i  
 that during the late war with England, many na-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838072801:0232/pct:24.72644128695084,37.812865497076025,17.997713539114812,5.847953216374269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838072801:0232/pct:24.72644128695084,37.82066276803119,18.003157493603354,5.847953216374269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2783,7 +2783,7 @@ who had been naturalized in America, and were
 taken prisoners on the Northwestern frontier,  
 j were transported to England to be tried for tiea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838081101:0240/pct:24.383744170552966,36.09795541180547,18.17121918720853,10.222940972623311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838081101:0240/pct:24.383744170552966,36.10565630895999,18.17677104152787,10.222940972623311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2812,7 +2812,7 @@ who had been naturalized in America, and were
 taken prisoners on the North Western Frontier,  
 were transported to England to be tried for treaso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839051101:0386/pct:42.7423322945711,42.33014242353491,17.992455305888143,9.526033154331076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839051101:0386/pct:42.7423322945711,42.33403377694762,18.008856814826963,9.53381586115651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2833,7 +2833,7 @@ and incorporated themselves into the Ameri
   
 can society. And it has U.come an historica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839081501:0908/pct:9.868995633187772,44.772851669403394,24.27947598253275,3.2293377120963327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839081501:0908/pct:7.404980340760157,33.579638752052546,18.239405854084755,2.4220032840722494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2860,7 +2860,7 @@ with England, many native-born subjects of the King
 of Great Britain, wbo had been naturalized in Amer­  
 ica, and were taken prisoners on the North-wester
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn84025908:00211664137:1856090801:0241/pct:6.5369018653690185,57.56653134866937,14.679643146796431,5.469102390617953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn84025908:00211664137:1856090801:0241/pct:6.5369018653690185,57.574049015185686,14.690456880237901,5.469102390617953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

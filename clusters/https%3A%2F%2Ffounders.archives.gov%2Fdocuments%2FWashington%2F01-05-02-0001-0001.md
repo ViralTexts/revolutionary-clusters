@@ -358,7 +358,7 @@ manners, and a particular account of
 the American system of agriculture with  
 its recent improvements. By Richar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:00175048388:1892110201:0418/pct:103.34156378600824,100.0,45.16872427983539,18.972822155626744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:00175048388:1892110201:0418/pct:34.44718792866941,33.333333333333336,15.056241426611797,6.324274051875581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

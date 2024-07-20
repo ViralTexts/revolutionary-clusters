@@ -204,7 +204,7 @@ thousand eight hundred and four­
 teen, and of the independence of  
 the U. States, the thirty-eighth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814070201:0474/pct:17.89543130463467,5.992123030757689,37.78657430315025,88.58777194298575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814070201:0474/pct:17.892480211081793,5.991561181434599,37.7858399296394,88.58259102984842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ By the JPreeitf nf,
 JAMES MONDOK,  
 Secretary rtJ State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814070201:0065/pct:40.5902714519949,39.44402704733283,17.48952450355256,42.57450538442274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814070201:0065/pct:40.58287795992714,39.43908851884312,17.492410443230117,42.57334835774801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ one thousand eight hundred mid fourteen,
 and Of the independence of the U. States^  
 the thirty eighth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070201:0164/pct:37.7212389380531,38.862673926194795,17.330383480825958,27.973381730187537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070201:0164/pct:37.714285714285715,38.85797241713041,17.333333333333332,27.97403016372288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ ear one thousand eight hufidred end
 gourtcen, and of the Indepengence of the  
 United States, the thirty-eighth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814070601:1066/pct:51.673178189230505,50.7841599686336,22.982843553592662,35.34601058615958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814070601:1066/pct:51.68450257629806,50.7841599686336,22.977181360058886,35.349277919362216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ br si may he, the (Vw and nnilually beneficial
 Commercial intercourse of ull frieuilly nations  
 dianbsett to cij-aXMlirrciii. niid/ with »tinl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814070601:0931/pct:6.758793969849246,54.84189723320158,22.512562814070353,16.222002635046113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814070601:0931/pct:6.75709620698317,54.832866787419725,22.513187641296156,16.223448048740327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1167,7 +1167,7 @@ one thoufand eight hundred and
 fourteen, and of the independence  
 of the United States, the 38th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814071101:0072/pct:43.8031970105875,6.6591262547716665,18.517749636703343,39.714406899476884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814071101:0072/pct:43.794105437941056,6.658184902459712,18.51909506019095,39.71232683064744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1238,7 @@ By Whe President, |
 &quot; JAMES MONROE, |  
 7 Secretary of State. Sy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814071201:0116/pct:6.74950578932505,50.21805081532044,17.38209545326179,37.16344330678802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814071201:0116/pct:6.7589193259907745,50.22437112880799,17.391508989927516,37.16028315004424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

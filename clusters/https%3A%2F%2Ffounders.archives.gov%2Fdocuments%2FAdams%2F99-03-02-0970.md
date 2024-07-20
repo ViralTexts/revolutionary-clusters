@@ -349,7 +349,7 @@ More free from peril, than the envious court?
 Than that of painted pomp? Arc not these wood s  
 Mine free from peril, than the envious court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83025196:00415668818:1836051801:0013/pct:3.2218739115290838,66.32559359832086,14.820619993033786,1.9414928505837596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83025196:00415668818:1836051801:0013/pct:3.2218739115290838,66.32996632996633,14.832230349471729,1.9458655822292186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ painted pomp ?&quot; Here repose, exempt fro
 A habitation giddy and unsure hath he  
 that buildeth on the vulgar haare nath he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556539:1875020601:0213/pct:117.56535947712419,283.52993877855755,41.42156862745098,2.807227116619382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556539:1875020601:0213/pct:29.391339869281047,70.88248469463939,10.355392156862745,0.7018067791548455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -928,7 +928,7 @@ Hath not old custom made this life more sweet
 Than that of painted pomp? Are not these woods  
 More tree from peril than the envions court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876061501:0965/pct:149.75949577044287,255.6111426947129,46.02753358765965,18.15804434337692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876061501:0965/pct:49.919831923480956,85.20371423157097,15.342511195886548,6.052681447792306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ then the song shall be surely full of
 variety, old crotchets and most sweet  
 closes. It shall be humorous, grave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767955:1878010901:0113/pct:36.97583787996882,75.62624695189537,13.764614185502728,5.02105963201064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767955:1878010901:0113/pct:36.98623018965965,75.62624695189537,13.764614185502728,5.032143648858346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ A habitation giddy and unsure
 hath he that buildeth on the vulgar  
 heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763839:1878082201:0158/pct:112.7010125074449,51.5083135391924,14.770696843359142,2.7790973871733966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763839:1878082201:0158/pct:84.56725755995829,38.634204275534444,11.08297333531953,2.0902612826603324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1078,7 +1078,7 @@ Hast not old custom made this life more sweet
 . Than that of painted pomp ? Are not these woods  
 More free from peril than the envious court 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print0020595823A:1881022001:0004/pct:6.413517441860465,65.13124034997426,12.063953488372093,0.9650025733401956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print0020595823A:1881022001:0004/pct:6.418059593023256,65.13445702521874,12.077579941860465,0.9714359238291302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1325,7 +1325,7 @@ An habitation giddy and unsure
 Hath he that buildeth on the vulgar heart.  
 There was a time when the re wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kingjulius_ver01:data:sn93067668:00202193961:1886111601:0573/pct:2.7277002664994514,20.318265682656826,15.692114751528452,3.4940036900369003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kingjulius_ver01:data:sn93067668:00202193961:1886111601:0573/pct:2.7381512253749283,20.32210947109471,15.686889272090715,3.501691266912669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1501,7 +1501,7 @@ More free from peril than the envious
 court?  
 in trees, books in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529066:1895080101:0446/pct:25.18973964838121,75.31327320616171,8.214045537515611,3.2803894963684255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529066:1895080101:0446/pct:25.18973964838121,75.31593370048155,8.217247894450315,3.2777290020485808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1540,7 +1540,7 @@ And he that stands upon a slippery place,
 Makes nice of no vile hold to stay him up.&quot;  
 A PARLIAMENT OF CATS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0271/pct:41.680936073059364,53.05110996386164,12.57134703196347,2.5503355704697985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0271/pct:41.68569254185692,53.05799346067803,12.580859969558599,2.5503355704697985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1563,7 +1563,7 @@ Mere free from peril than the envious court?&quot;
 —Shakespeare.  
 How long had they been silent, those two
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537024:1899030501:0063/pct:5.177174413253566,5.55994313694519,21.12287160607455,7.660717106302322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537024:1899030501:0063/pct:5.184844301273201,5.570473332280314,21.12287160607455,7.660717106302322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

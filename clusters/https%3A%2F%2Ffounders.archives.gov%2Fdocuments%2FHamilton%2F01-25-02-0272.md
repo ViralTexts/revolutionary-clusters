@@ -855,7 +855,7 @@ important it f;rences from the Ihort experience
 hitherto had, is worfe thin puerile.  
 LUCIUS CRASSUS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802031501:0771/pct:9.896391568417291,6.566783551163532,43.90853876384423,85.76134310912762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802031501:0771/pct:9.894624040007145,6.566085847853803,43.90516163600643,85.75488737781555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -905,7 +905,7 @@ ing in the Supreme Court as a criterion
 for the necessity of the new Judiciary  
 act was characterized by Hamilton a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895090901:0104/pct:38.91823610473128,50.082016748683415,16.743224621038127,6.267806267806268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895090901:0104/pct:29.201608271108558,37.56367089700423,12.567489948305571,4.705171371838039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -926,7 +926,7 @@ tions was pronounced &quot;a sure symptom
 of a pigmy mind.&quot; In another letter  
 Hamilton wrote:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895090901:0104/pct:38.791915480018375,56.56565656565657,16.846577859439595,4.705171371838039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895090901:0104/pct:29.109707064905226,42.42424242424242,12.63641585295807,3.531036864370198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -946,7 +946,7 @@ even our judiciary sysem pas not passed unassalled
 And the poblle ocedit, too, that delicate fabric whose threads of spun glass  
 are threateened by the rude touch of u free silver president--its fragle ealstenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86071197:00175034869:1896072401:1226/pct:86.99825479930192,91.48351648351648,104.01396160558464,12.225274725274724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86071197:00175034869:1896072401:1226/pct:21.76380702903296,22.87087912087912,26.02051953721895,3.056318681318681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ extraordinary zeal for economy, even our judiciary system has
 not passed unassailed.”  
 And the public credit, too, that delicate fabric whose threads of spun glass ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334961A:1896080701:0545/pct:71.93438362839045,26.117407360244492,22.673379892804938,4.176747739717306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334961A:1896080701:0545/pct:71.92270217603118,26.114081996434937,22.67375771354336,4.179399032340209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

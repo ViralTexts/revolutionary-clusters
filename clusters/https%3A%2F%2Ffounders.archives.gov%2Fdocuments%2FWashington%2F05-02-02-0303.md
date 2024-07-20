@@ -185,7 +185,7 @@ the motives by which 1 a,u actuated in s i
 public transactions.&quot; 7  
 1 TRAVELLING CABINET 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829071601:0379/pct:68.23289070480082,3.446286950252343,28.94790602655771,92.54506128334535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829071601:0379/pct:68.21895424836602,3.4457900807381776,28.947099673202615,92.5353229527105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ on every consideration, and from the best in­
 formation l can obtain, will, in my judgment,  
 be most likely to answer that great end.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834060701:0550/pct:2.354887983706721,25.022341376228777,18.16446028513238,18.48078641644325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834060701:0550/pct:2.354588265241186,25.020105441872932,18.166390904077044,18.482113603193042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

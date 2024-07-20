@@ -38,7 +38,7 @@ may require fecreey, and that this rule (hall com­
 mence and be in force 011 the firft day of the next  
 feflionof Congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030201:0002/pct:68.66898514068922,16.99321778447626,27.82168827062915,5.406932931424265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030201:0002/pct:68.66898514068922,16.997927656367747,27.82168827062915,5.430482290881688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ may require secrecy, and that this rule
 thall commence and be inforce on the  
 firft day of the next session of Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791040201:0775/pct:67.04411417787215,48.29583057577763,19.93394668553904,23.85837193911317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791040201:0775/pct:67.0598411575057,48.30686079858813,19.949673665172604,23.86940216192367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ such occasions as i.n their judgment may re­
 quire secrecy ; and that this rule take place  
 un the firft day of; the next feliion of Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792040901:0003/pct:50.27985074626866,76.93203883495146,21.175373134328357,4.194174757281553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792040901:0003/pct:50.27985074626866,76.94174757281553,21.19092039800995,4.199029126213592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ fecrecv; and that this rule ftiall commence
 and ,be in force on the firft day of the next  
 feifion of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793021601:0002/pct:49.60212201591512,44.51758510438217,18.8623636899499,5.059243934549558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793021601:0002/pct:49.60212201591512,44.51758510438217,18.869731800766285,5.08745533195411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ day of
 Pifcataqua-Bridge.  
 &quot;I HE Treasurer of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794020801:0175/pct:67.65044630002879,10.180387641527538,19.349265764468758,8.779504893494531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794020801:0175/pct:67.65524522506958,10.183586003965969,19.35886361455034,8.779504893494531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ commence on day of &quot;
 It passed in the affirmative—Yeas 14—  
 Nays 13
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794022501:0002/pct:32.704,22.54983388704319,18.624,7.039036544850498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794022501:0002/pct:32.728,22.560215946843854,18.632,7.039036544850498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ tion that the doors of the Senate Chamber remain
 open while the Senate was sitting in their legis.  
 lative capacity, which was negatived 17 to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843052501:0300/pct:104.51612903225806,64.81596360628619,49.16729182295574,5.965674110835401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843052501:0300/pct:34.83870967741935,21.605321202095396,16.38909727431858,1.9885580369451337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ occasions as, id their judgment, may recure secrecy
 and that this role shall commence and be m force oa  
 the first day cf th? ceil ????*? on of Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843071401:0659/pct:83.78254211332312,38.98422775518302,15.773353751914241,2.8271004860628905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843071401:0659/pct:83.78764675855028,38.987534305459114,15.773353751914241,2.8337135866150844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ After an animated debate, this resolution
 was rejected by a vote of 17 to 9.  
 At the next session of the Virginia Leg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843091201:0351/pct:192.19298245614036,353.79361544172235,58.421052631578945,18.827023014105418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843091201:0351/pct:48.069328652917946,88.44840386043059,14.611671785870996,4.7067557535263544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ ciary capacity, except on such occasions
 as in their judgment may require secrecy;  
 and that this rule commence on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554231:1866032201:0280/pct:74.187832250443,294.96822033898303,48.769442803701516,12.672139830508474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554231:1866032201:0280/pct:18.543307086614174,73.73229180458097,12.18996062992126,3.1676155170131075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

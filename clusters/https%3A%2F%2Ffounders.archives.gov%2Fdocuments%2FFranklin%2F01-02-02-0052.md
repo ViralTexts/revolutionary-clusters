@@ -192,7 +192,7 @@ their professions by works. A large number o sa this hope asprin po e an
   
 of intelligent Africans wish to return to thei oe oe e e e aa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1854020201:0928/pct:180.41340223370563,216.61519456454602,92.93215535922654,37.80111179740581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1854020201:0928/pct:60.13780074456854,72.20506485484867,30.97738511974218,12.60037059913527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ perhaps wear some of the stolen clonths above
 mentioned.  
 hoever seceres the said Thief so that he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1854031001:0042/pct:63.74643874643875,353.5799690533127,44.94301994301994,39.38669292446195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1854031001:0042/pct:15.939447907390917,88.39499226332818,11.237756010685663,9.846673231115487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ may be bi ought to Justice, shall have Thirty
 Shillings Reward, and reasonable charges paid  
 by * &#x27; B. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862270:1854041101:0259/pct:81.7385866166354,58.73015873015873,18.277048155096935,15.951263134361726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862270:1854041101:0259/pct:81.74900979779028,58.737610850286906,18.271836564519493,15.947537074297637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ thirty shillings reward and reasonable charg­
 es, paid by  
 BENJ. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854042001:0351/pct:121.63173652694611,313.5744739375602,51.49700598802395,53.472699766194474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854042001:0351/pct:30.413625304136254,78.39361848439005,12.876661051843534,13.368174941548618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ charges paid by
   
 B. FrANKLIN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:0027952925A:1857081501:0749/pct:42.28448275862069,16.291743970315398,29.813218390804597,46.498144712430424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:0027952925A:1857081501:0749/pct:14.094827586206897,5.430581323438466,9.937739463601533,15.499381570810142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ may be brought to justice, shall have thirty
 shillings reward, and reasonable charges  
 paid by ee B. FANEtI.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528657:1857082801:0319/pct:128.35280566068784,66.54524089306697,37.88053315780813,36.768507638072855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528657:1857082801:0319/pct:42.78426855356261,22.18174696435566,12.626844385936042,12.256169212690951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ may be brought to justice, shall have thirty
 shillings&#x27; reward, and reasonable charges  
 paid by B. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jubilee_ver02:data:sn83025802:00295862038:1857090301:0021/pct:81.8033010503342,75.31942776018347,14.991133542490793,15.518182810964289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jubilee_ver02:data:sn83025802:00295862038:1857090301:0021/pct:81.8033010503342,75.32306796257872,15.000227345064339,15.521823013359542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ may be brought to justice, shall have thirty
 suillings reward, and reasonable charges  
 Pa&#x27;u By B. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn86083444:00296028551:1857091101:0306/pct:67.89103152739516,19.056152927120667,12.121212121212121,18.291517323775388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn86083444:00296028551:1857091101:0306/pct:67.8961330476482,19.060135404221427,12.121212121212121,18.28753484667463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ be brought to justice, shall have thirty shillings
 reward, and reasonable charges paid by  
 B. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857091601:0349/pct:56.87692513727066,74.24440298507463,12.72264631043257,10.951492537313433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857091601:0349/pct:56.86930905195501,74.23747784721574,12.72540617746831,10.95358020085191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ be brought to justice, shall have thirty
   
 shil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528566:1857091701:0774/pct:81.73476702508961,79.97410444540354,13.232974910394265,14.976262408286578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528566:1857091701:0774/pct:81.73476702508961,79.97770105020861,13.24731182795699,14.976262408286578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ be brought to justice, shall have thirty shil
 lings reward, and reasonable charges paid by  
 B. FRANELIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857092001:0349/pct:66.1878453038674,169.92639327024185,38.729281767955804,34.61619348054679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857092001:0349/pct:16.54696132596685,42.48159831756046,9.682320441988951,8.654048370136698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -707,7 +707,7 @@ Whoever seijfjfesTne thief so that ho may
 be brought shall have thirty shil­  
 lings reward, M charges paid b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857100701:0312/pct:54.435340220876384,81.29124820659972,11.934449590309939,13.357245337159254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857100701:0312/pct:54.447215295095596,81.29124820659972,11.922574516090725,13.376374940219991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ Whoever secures the thief so that he way
 bo brought to justice, shall have thirty siwl-  
 Uttgs rewajd, and charges paid b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857100702:0159/pct:56.66483817882611,79.16725676249823,12.616566099835437,14.473870556578389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857100702:0159/pct:56.67093313829463,79.17669829580323,12.610471140366917,14.473870556578389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ may be brought to justice, shall have
   
 thirty shillings reward, and charge pai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1857100801:0850/pct:124.15603900975243,208.79636012684406,52.21305326331583,59.23066317385909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1857100801:0850/pct:31.03900975243811,52.199090031711016,13.053263315828957,14.807665793464773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -848,7 +848,7 @@ Whoever secures the thief so that he
 may be brought te justice, shall have  
 thirty shillings reward and charges pai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857110701:0810/pct:43.31022085259374,82.18296916479477,35.91422701592193,41.81131304880539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857110701:0810/pct:14.436740284197912,27.39432305493159,11.97140900530731,13.937104349601798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ t v shillings r ward, and reasonable char­
 ges paid by  
 B. FRANKLIN, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857111401:0185/pct:68.01891108738752,40.45507584597433,12.96324538660973,16.03267211201867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857111401:0185/pct:68.01891108738752,40.46285492026449,12.968329012251537,16.02489303772851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,7 +931,7 @@ reward, and reasonable charges paid by
 B. Frankmk.  
 Philadelphia, February 22d, 1738.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1857121601:0292/pct:21.638655462184875,53.97212071998917,14.629488158899923,13.317092976045473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1857121601:0292/pct:21.652979373567607,53.97888753552578,14.619938884644768,13.317092976045473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -971,7 +971,7 @@ be brought to justice, shall have thirty shil­
 lings reward, and reasonable charges paid by  
 B. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1858011401:0657/pct:62.03760789149199,50.6938959720185,14.519112207151665,14.351799616382715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1858011401:0657/pct:62.042745581586516,50.6938959720185,14.51397451705713,14.355560570160593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1197,7 +1197,7 @@ have thirty shillings reward and rea­
 sonable charges pald by  
 BENjOMIN FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553937:1874020601:0129/pct:74.24012158054711,300.11614401858304,47.28343465045592,55.55555555555556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553937:1874020601:0129/pct:18.55650522317189,75.01935483870967,11.818613485280151,13.887096774193548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1302,7 +1302,7 @@ affd jfffidfy other things;
   
 K. ft* 1 hte said Lloyfl t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348458:1874022601:0441/pct:57.5707460492466,66.87002652519894,12.274898934215361,9.496021220159152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348458:1874022601:0441/pct:57.560169024435055,66.86115899748044,12.277236817931287,9.49807717809309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1327,7 +1327,7 @@ thirty sftrfliOga reward and reasonable
 charges paid bjr  
 H. f^RAS^Lrit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348458:1874022601:0441/pct:57.533994854832784,78.93899204244032,12.146269753766997,6.870026525198939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348458:1874022601:0441/pct:57.523424582031964,78.92852406842594,12.148631269520486,6.872430712107148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1383,7 +1383,7 @@ brought to justice,, shall have Thirty Shillings
 rewind and reasonable charges paid bv  
 It. .&#x27;FKANKLIX
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1875091101:0545/pct:27.606038820992094,79.7321892875715,16.37311286843997,11.193447737909516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1875091101:0545/pct:20.71569861535695,59.80239209568383,12.299946052868188,8.398335933437338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1418,7 +1418,7 @@ aewed on lh ki ln nf Ik Crown wilh white
 thread, and an old dai k-coloured Wigi but  
 may psrhap wear sou of th Cloths abov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1876090801:0344/pct:49.45255474452555,99.53614224971008,14.382879893828799,10.526993944079372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1876090801:0344/pct:37.09971793595487,74.65532792165958,10.801393728222996,7.898466692436542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1582,7 +1582,7 @@ Thief so that he may be brought to Justice,
 shall have Thirty Shillings reward and reason­  
 able charges paid by B. FRANKLIN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766240:1897021701:0061/pct:50.06379585326954,47.29221297457531,13.732057416267942,10.43210580321514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766240:1897021701:0061/pct:50.06379585326954,47.299813780260706,13.748006379585327,10.43210580321514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1657,7 +1657,7 @@ Thief so that he may be hronght to Justice,
 shall have Thirty Shillings reward end reascr  
 aMe -charges paid by B. Frjlsktjs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_harrison_ver01:data:2010270504:00211102524:1897022301:0012/pct:11.03305785123967,56.23391331205601,16.03305785123967,16.915474106867084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_harrison_ver01:data:2010270504:00211102524:1897022301:0012/pct:8.280518049049325,42.180582724184084,12.028106916505925,12.684031710079275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1696,7 +1696,7 @@ Thief so that ho may be brought to Justice
 shall havo Thirty Shillings reward and reason­  
 able charges paid by B FiiaskLin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn86069675:00206534199:1897030201:0473/pct:26.636225266362253,68.98648648648648,18.89269406392694,14.54054054054054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn86069675:00206534199:1897030201:0473/pct:19.984773505900268,51.73986486486486,14.179672630376857,10.908783783783784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1734,7 +1734,7 @@ Thief lei that l»e may be brought to Justice,
 ahall havi Thirty Shilling* reward and r( anon !  
 able ehurgos putd by U Khaniu.is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1897030301:0039/pct:15.872156013001083,57.29298024379992,11.06897797038642,8.75718088832843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1897030301:0039/pct:15.869290485647229,57.28495376856262,11.071493049286875,8.759456430372653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1772,7 +1772,7 @@ Thief so that ho may be brought to Justice,
 Shall have Thirty bhillinea rewcrd and reason­  
 able charges paid by B. FltASKXIB
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86053634:00212478040:1897031001:0560/pct:32.70764119601329,90.48819315468295,14.551495016611296,11.873175908729106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86053634:00212478040:1897031001:0560/pct:24.54711650324082,67.86946139559565,10.919062655808542,8.914831520297161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1792,7 +1792,7 @@ Where advertisements are taken in, and (
 Book Binding is done reasonably, in tho  
 best manner;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1897031101:0942/pct:79.24586617215269,43.73202683991905,14.402719826920105,3.354989881776547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1897031101:0942/pct:79.2497295626642,43.74001491106614,14.402719826920105,3.3576525721589094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1831,7 +1831,7 @@ Thief so that he may be breught to J ext‘re,
 able chargee paid by B. Fraxulis.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1897031101:0942/pct:78.87498068304744,47.331984236872934,14.603616133518775,11.108744275215678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1897031101:0942/pct:78.88657085458198,47.33730961763766,14.603616133518775,11.119395036745127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1869,7 +1869,7 @@ Thief so that he may be brought to Justice,
 shall have Thirty Shillings reward and reason­  
 able charges paid by B. Fiuhkuh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1897031101:0944/pct:78.9213413691856,47.59825327510917,14.711791067841137,10.363190968154223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1897031101:0944/pct:78.9213413691856,47.60091596549153,14.731108020398702,10.365853658536585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1913,7 +1913,7 @@ Thief so that lie may be brought to Justice, I
 shall have Thirty shillings reward and reason- ;  
 able charges paid by B. Fhankli::
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:0041562766A:1897041701:0287/pct:53.47842984842596,70.75104512036904,16.653711620676255,16.649848637739655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:0041562766A:1897041701:0287/pct:41.45582329317269,54.83931031914497,12.906626506024097,12.896138234089301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1951,7 +1951,7 @@ Thief ho that he may he brought to .tuatiee,
 tdiall have Thirty Shillings reward and reason  
 able ehur.s - paid hy B. Fkvmu.in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1897052601:0089/pct:30.307262569832403,57.01219512195122,10.631983240223464,8.73059866962306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1897052601:0089/pct:30.301972421015883,57.00429541360676,10.634491185198115,8.732852986005266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

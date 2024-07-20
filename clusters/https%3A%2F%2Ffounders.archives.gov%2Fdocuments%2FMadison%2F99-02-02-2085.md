@@ -119,7 +119,7 @@ he does who resides in a maritime State Local ex
 penditurcs have not, of themselves, a corresponding  
 oper^on. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830120901:1174/pct:23.93106811900504,33.88712147991045,17.867013493740856,8.000471309060917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830120901:1174/pct:23.927178153446032,33.88312912346843,17.869527524924145,8.003455859252277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ ticular States would not bo deemed to coincide with
 the general interest in relation to improvement with­  
 in such States But if the danger to be apprehende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830120901:1174/pct:60.86815152007804,61.36443973135383,17.91578605104861,4.948745139625309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830120901:1174/pct:60.85825747724317,61.35721017907634,17.91829215431296,4.952089224002513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ our foreign commerce, the burden and benefit of pro­
 tecting an&lt;l accommodating it necessarily go together,  
 and mu-l do *«v*» long aa the public revenue Is draw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830120901:0242/pct:50.39439088518843,4.126406729566898,14.972246567338592,1.7392292827100149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830120901:0242/pct:50.38703081641595,4.125937713116618,14.974928192395696,1.742820337955596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ States under the restriction of confining to each State the
 expenditure ol its appropriate quot,. It mav.howevei he  
 assumed as a safe general rule,that such improvendnfe a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830120901:0242/pct:65.51270815074496,82.88052745254063,15.205959684487292,5.547345686029328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830120901:0242/pct:65.50314006134073,82.8711070697886,15.208607175892118,5.5505039024020615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ does who rrsidcs in a maritime fUale. |,o.
 cal expenditures have not, of themselves, a  
 coirespondent operation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830121001:0274/pct:52.13476168296848,83.2649231851765,13.709051389535786,10.754075290254486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830121001:0274/pct:52.12666873641726,83.25515947467167,13.712097692228086,10.756722951844903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ does who resides in a maritime State. Local
 expenditures have not, of tbemseivea, a cor­  
 respondent operation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830121001:0420/pct:52.16647662485747,1.9303931238551502,30.40668947168377,96.44920388896718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830121001:0420/pct:52.15656469694091,1.9301211608903917,30.405662169865096,96.43913778529163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ be disposed to uuite in, the application of
 t lie quotas of those States, under the restric­  
 tion of confining to each State the expendi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830121001:0421/pct:0.26370314560180824,29.060554612337295,17.216048220003767,13.455008488964346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830121001:0421/pct:0.263653483992467,29.056443627104258,17.217514124293785,13.456641674918659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ does who resides in a maratime State. Local ex­
 penditures have net,of themselves, a correspond­  
 ent operation. - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830121401:0407/pct:62.37669543773119,70.56026462683481,16.646115906288532,10.109572048790573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830121401:0407/pct:62.38183312782573,70.56715595065812,16.651253596383068,10.109572048790573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ coincide with the general interest in relation
 to improvement within. such States. But if  
 the danger to be apprehended from this source 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830121401:0408/pct:23.270249810749434,29.60696878564762,16.502649507948522,5.402882920253033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830121401:0408/pct:23.270249810749434,29.60696878564762,16.522836235175372,5.4063396591655435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ commerce and navication that he does
 who resides in a maitime State, Local|  
 expenditures have not of themselves, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830121501:0158/pct:63.943467769734575,46.66748950876327,15.029300241296104,13.675635645519625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830121501:0158/pct:63.949212915086754,46.66748950876327,15.035045386648282,13.683864066485642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ jcerned might not be disposed to unite in, the
 application of the quotas of those states, under |  
 the restriction of confining to each state the ex- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830121501:0159/pct:37.625617441662406,5.2560481395063245,15.159257366717766,7.540218592656269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1830121501:0159/pct:37.631295066144325,5.260141634942077,15.159257366717766,7.544312088092021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ reign commerce and navigation, that
 &#x27; Imeal expenditures have not, of them  
 .selves, a correspondent operation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830121501:0200/pct:75.9975445058318,69.4744089970163,14.947820748925722,20.782648611429885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830121501:0200/pct:75.98588307503452,69.46643717728055,14.950641910899698,20.784088735895963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ tion that he does who resides In a maritime
 State. Local expendituras have not) of them­  
 selves, a correspondent operation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830121601:0393/pct:79.16225936111698,51.94675064414543,17.474085043367886,10.62124248496994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830121601:0393/pct:79.14551607445009,51.93931587233433,17.47567681895093,10.623300415056534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ the Stales concerned might not lie disposed
 to unite in, the application of the quotas of  
 those States, under the restriction of confin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830121601:0394/pct:39.726027397260275,49.87205004264999,18.124341412012644,9.311913562695478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830121601:0394/pct:39.717656974294144,49.86496090973703,18.125790139064474,9.314143567874911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -914,7 +914,7 @@ who resides in a martime State. Local
 expenditures have not of themselves, a  
 correspoudent operation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830121601:0603/pct:79.58067456700091,11.845761926817971,18.176845943482224,14.53219082908754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830121601:0603/pct:79.58675174718931,11.853481550100355,18.176845943482224,14.53219082908754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -935,7 +935,7 @@ correspoudent operation
 incide with the general interest in relation to  
 improvement within such states. Bat il th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830121601:0604/pct:37.929145361577795,63.93693375691258,18.371073776479182,3.6710201200141195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830121601:0604/pct:37.929145361577795,63.94477781699808,18.377160944728512,3.6710201200141195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1199,7 +1199,7 @@ sides in a maratime State. Local expendi­
 tures have not, of themselves, a correspond­  
 ent operation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831010101:0004/pct:49.23511414450459,78.29247675401521,15.909625794304542,10.431107354184277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831010101:0004/pct:49.22352941176471,78.2792427315754,15.911764705882353,10.433569979716024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1226,7 +1226,7 @@ the States concerned might net be disposed
 to unite in, the application of the quotas of  
 those States, under the restriction of confin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831010101:0005/pct:3.5474147924878277,58.78909516641579,15.650359378622769,6.991135641411607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831010101:0005/pct:3.5465924895688454,58.779264214046826,15.65252665739453,6.9941471571906355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1299,7 +1299,7 @@ a maritime State. Local expenditures
 have not, of themselves, a correspond­  
 ent operation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831010501:0167/pct:6.4804469273743015,49.65263588067021,17.854748603351954,12.818417109385642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831010501:0167/pct:6.478999106344951,49.645873059111956,17.85820673220137,12.821211295741396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1325,7 +1325,7 @@ States. Hut if the danger to be apprehend­
 ed from this source is sufficient to require  
 it, a discretion might he reserved to Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831010501:0167/pct:80.40223463687151,28.64732325296281,17.162011173184357,6.7157063070426375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831010501:0167/pct:80.38427167113494,28.643421411059656,17.165624069109324,6.719331698901298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1364,7 +1364,7 @@ ticular states would not be deemed to coincide with the
 general interest in relation to improvement within such  
 States. Bui, if the danger to be apprehended fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1836070101:1127/pct:53.98786302557434,37.274993076710054,22.149978326831384,3.1154804763223485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1836070101:1127/pct:53.976164680390035,37.26983247957912,22.152401589021306,3.119664036180719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1419,7 +1419,7 @@ tion ol confining lo each Stale the (xpendi
 lure of its appropriate quota II may.  
 however, be assumed bs a safe genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1843052601:0563/pct:85.82589285714286,38.44621513944223,18.816964285714285,17.6064970885688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1843052601:0563/pct:64.38937262781872,28.838492185105732,14.110292475999106,13.208703646950658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1463,7 +1463,7 @@ interest, in relatisn to improvement
 within such states. But if the danger  
 to be apprehended from this source i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557487:1852092401:0367/pct:32.38073807380738,48.27746741154562,14.806480648064806,5.726256983240224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557487:1852092401:0367/pct:32.38823882388239,48.28781295261742,14.813981398139815,5.721084212704325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

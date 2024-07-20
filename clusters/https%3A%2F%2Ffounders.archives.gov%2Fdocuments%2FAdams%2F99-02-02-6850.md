@@ -90,7 +90,7 @@ ces in his poem:
 “With mighty wings outspread,  
 Dove-like sat brooding on the vast abyss.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819050601:0184/pct:43.881024905930836,23.6479895957516,17.68500268769038,13.287092229326975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819050601:0184/pct:43.87316374059477,23.64542696142176,17.687806043234204,13.289264557144921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ And mad’st it pregnant: what in me is dar
 Was present, and with mighty wings outspread,  
 Dote-like sat&#x27;st brooding on the tast abyss.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1858090201:0070/pct:69.8881118881119,27.92441803837538,12.741258741258742,1.5194311872991138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1858090201:0070/pct:69.8881118881119,27.930911334047597,12.750582750582751,1.5194311872991138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ from the first wast present, and with mighty
 wings outspread, dove-like sat’st brooding on  
 the vast abyss mad’st It pregnant.” Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877102801:0010/pct:17.23779854620976,12.941899784814018,12.77258566978193,2.33630494927759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877102801:0010/pct:17.242990654205606,12.945742391638488,12.782969885773625,2.3555179833999387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ How is a sentence transformed?
 Write 3 sentences and transform each  
 by a different process
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289407:1894032201:0616/pct:26.6142735768904,65.68848758465012,18.882752761257436,6.109857035364936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289407:1894032201:0616/pct:19.97874601487779,49.27012791572611,14.176408076514347,4.5899172310007526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

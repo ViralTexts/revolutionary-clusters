@@ -424,7 +424,7 @@ On the first and s-jcond questions I am of the opin­
 ion that it is not within the power of the judicial  
 branch of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887012901:0283/pct:26.06655290102389,48.83958695429915,19.62457337883959,9.191289234229629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887012901:0283/pct:19.561815336463223,36.632246191595954,14.7247119078105,6.890910949800634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

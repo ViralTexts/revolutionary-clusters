@@ -150,7 +150,7 @@ honor and interest would permit, to avoid
 such an extremity.”  
 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041901:0451/pct:23.156368907410762,5.4945054945054945,17.919913027722412,65.84859584859585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041901:0451/pct:23.152173913043477,5.493834696618239,17.92270531400966,65.84462621576527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ ill the practice of them.&quot; ,
 In the same letter of Mr. Monroe, t  
 the 3d of October, 1804, we 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808102601:0001/pct:59.94748535649364,59.79738394460118,18.48111492627752,29.199794819184405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808102601:0001/pct:59.9609506497004,59.79738394460118,18.48111492627752,29.204069419509278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ r»u tvhat comemed us, with moderation in the
 fictiee of them.”  
 fe another dasp.itoh, dated the 9th of June, I8t&gt;6
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809090401:0655/pct:7.20540405303978,56.13643608543194,21.691268451338505,10.822441823398151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809090401:0655/pct:7.20360180090045,56.12749003984064,21.692096048024013,10.824701195219124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ questions in favor of the doctrines of the modern law,
 Great Britain on certain great neutral questions in favor  
 of the doctrines of the modern law, which he termed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:234.0257648953301,122.25574379206313,49.75845410628019,5.163611046646554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:78.00858829844337,40.75191459735437,16.586151368760063,1.721203682215518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ under date of Oct, 19, 1805:
 .On a review of the condoct of this Government toward  
 the United States, I am inclined to thisk that the delgy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862011001:0069/pct:248.33094041636755,18.702242264812728,49.102656137832014,20.180383314543406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862011001:0069/pct:82.77698013878918,6.234080754937576,16.367552045944006,6.726794438181135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

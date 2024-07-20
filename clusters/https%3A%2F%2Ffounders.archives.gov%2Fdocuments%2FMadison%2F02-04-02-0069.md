@@ -61,7 +61,7 @@ in the poft between this T- rntory and &#x27;
 I renin » ani fuppofing it of importance  
 I that th&lt; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802123001:0001/pct:24.08155414502789,55.43739713887834,16.907097518753606,22.585137359159386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802123001:0001/pct:24.08155414502789,55.439507110604715,16.924729114573314,22.58302738743301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ There being at press-ent an interruption
 in the post between this Territory and  
 Tennessee, and supposing-it of importanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803010601:0020/pct:30.654349499615087,44.386610428071435,21.632024634334105,21.529211163959438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803010601:0020/pct:30.64963054187192,44.38262742282843,21.633825944170773,21.530270399617134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

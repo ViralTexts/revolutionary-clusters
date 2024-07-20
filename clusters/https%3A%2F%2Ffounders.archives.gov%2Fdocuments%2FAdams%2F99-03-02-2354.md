@@ -262,7 +262,7 @@ Tell them, though ’tis an awful thing to die,
 Heaven lifts its everlasting portals high  
 And bids the pure in heart behold their God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1825072301:0306/pct:66.99055330634278,26.417159115780258,26.639676113360323,20.485883125410375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn85059803:00514157832:1825072301:0306/pct:66.97247706422019,26.411378555798688,26.641482280985787,20.48869438366156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ Heaven lifts its everlasting portals hich
   
 And bids the pure in heart behold their God,temerane to stand uponthat sh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022355:00200290136:1845032701:0051/pct:140.57724957555178,297.4547684759276,120.79796264855688,38.76111622201778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022355:00200290136:1845032701:0051/pct:35.15923566878981,74.3636921189819,30.212314225053078,9.690279055504446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ shall put on immortality.&quot;
 Heaven lifts its everlasting portals high.  
 &#x27; And bids the pure in heart behold their God.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1845032701:0551/pct:88.87540453074433,101.39010828211882,19.660194174757283,13.930348258706468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1845032701:0551/pct:66.6801537527817,76.0462393912789,14.748128666801538,10.447761194029852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ shall put on immortality.&quot;
 Heaven lifts its everlasting portals high,  
 And bids the pure in heart behold their God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1845040701:0480/pct:31.895777178796045,212.76731567188,70.97933513027853,37.91892754548356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1845040701:0480/pct:7.977528089887641,53.19182891797,17.752808988764045,9.47973188637089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ eae ee eeeee eee
 Heaven lifts its everlasting portals high,  
 And bids the pure in heart behold their tod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846072701:0826/pct:126.42526964560862,13.258026159334126,122.8235747303544,367.01843043995245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846072701:0826/pct:31.600231080300404,3.3140139693862385,30.6999807433083,91.74097191261703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ Twas even to thee--yet the dread path once trod
 Heaven lifts its everlasting portals high  
 And bids the pure in heart aehold their God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021829:1850081301:0071/pct:263.86083052749717,303.87858347386174,57.9685746352413,42.41146711635751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021829:1850081301:0071/pct:65.96520763187429,75.96964586846543,14.492143658810326,10.602866779089377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ Heaven lifts its everlasting portals high,
 And bids the pure in heart behold his  
 God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1851091001:0359/pct:159.35334872979215,192.6636743538152,40.03079291762894,7.429190527782077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1851091001:0359/pct:39.838337182448036,48.1659185884538,10.007698229407236,1.8572976319455192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -948,7 +948,7 @@ Heaven lifts its everlasting pertals high,
 And bids the pure in heart behold their God,  
 R
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776476:1876040501:0129/pct:218.50089232599643,88.5637989086265,40.03569303985723,34.22733077905492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776476:1876040501:0129/pct:54.6333482076454,22.140949727156624,10.010412018444146,8.55683269476373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -964,7 +964,7 @@ R
 “Heaven lifts its evcrlaitiag portals high.  
 And bids the “pure in heart’ behold their God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1884073101:0337/pct:50.50071530758226,50.67049808429119,10.10968049594659,0.6226053639846744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1884073101:0337/pct:50.49268912905276,50.66443194062013,10.112047043865227,0.6255237639171555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

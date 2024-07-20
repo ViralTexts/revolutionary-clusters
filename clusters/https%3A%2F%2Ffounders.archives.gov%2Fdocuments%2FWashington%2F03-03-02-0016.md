@@ -177,7 +177,7 @@ received, as from the general Appearance of Affairs in Europcd
 fee no Probability that the Measures which you may adopt will  
 interrupted by Disputes with any Foreign Power, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1776010901:0496/pct:64.61641690896892,34.348337746396,27.44352493849251,2.8832009414533686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1776010901:0496/pct:64.63132781629763,34.35324114935766,27.44352493849251,2.897911150338335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ xngnt. By thia lime, I presume, they begin to think it i
 atrunge that we have not made a formal surrender of ou- 1  
 lines.’ The principal flag hitherto used by the Continen- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030362:print00211110089:1853121801:0001/pct:12.894670371305885,90.45820494980619,8.85324576913362,2.7929629261504823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030362:print00211110089:1853121801:0001/pct:12.904142460217226,90.46317463472816,8.859560495074513,2.79544776861147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ drawing six white stripes through the red field, thus making
 thirteen white and red stripes, representing the rebellious Col­  
 onies in Union. This flag probably was originated by the Com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855030401:0001/pct:5.8217962371317,20.6625,12.176073837415691,4.9875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855030401:0001/pct:5.826233581824636,20.66875,12.184948526801563,4.990625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ hear, by a person out of liostoii, Inst liight.
 it strange that wo have not mudo a formal  
 suriimil l of our lives.’ Thus we have ni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn85025203:00279557232:1855060901:0101/pct:79.25726380604195,52.094861660079054,14.142774677698672,7.444005270092227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn85025203:00279557232:1855060901:0101/pct:79.27169520877429,52.09815546772069,14.157206080431019,7.453886693017128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ time, I presume they begin to think it
 strange that we have not made a formal  
 surrender of our lives.&quot; Thus we have a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1856121201:0549/pct:226.6825019794141,84.7813296724848,42.016363156505676,32.16316924887233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1856121201:0549/pct:75.56083399313803,28.2604432241616,14.005454385501892,10.721056416290775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ to the United Colonies.’ The national forces
 and the national flag began together. Shortly  
 after a fleet of five sail left Philadelphia ami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557402:1868022901:0241/pct:64.65149359886202,57.48847926267281,13.726884779516359,2.6625704045058884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557402:1868022901:0241/pct:64.6603840682788,57.49807987711213,13.735775248933143,2.6625704045058884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ wear a better face in Virginia than they
 did some time ago.” And this was writ­  
 &#x27; ten while Norfolk was in the first of wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562377A:1876011501:0018/pct:72.20624486442071,35.29674917983895,11.56532456861134,10.960334029227557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562377A:1876011501:0018/pct:72.20624486442071,35.29674917983895,11.579019446726925,10.965304702256686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +864,7 @@ the union flag in compliment to the united
 colonies.&quot; An English captain writing from  
 Boston Jan. 17, 1776, says: &quot;I can see th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883070501:0032/pct:37.53191489361702,342.2637739080788,55.91489361702128,15.358264344847274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883070501:0032/pct:9.386973180076629,85.5659434770197,13.984674329501916,3.8395660862118186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ the fishing towns were rich and porulons, In
 1775, in the hope of starving New England into  
 subnussion, the British Parliment passed th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1893123001:1237/pct:29.295014290250872,71.15087935822277,20.006351222610352,6.7777434948061295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1893123001:1237/pct:29.30559966126813,71.15087935822277,20.006351222610352,6.7846000891357265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,7 +976,7 @@ read : “ We now know the ultimatum of British
 justice,” and we of to-day now read still deeper,  
 which in the present light is as clear as the mid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1897062401:0108/pct:71.69117647058823,42.841429880843265,21.402310924369747,4.289642529789184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1897062401:0108/pct:71.67235494880546,42.83357771260997,21.403255447624048,4.293438416422287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1049,7 +1049,7 @@ a more detailed description of the
   
 flag. It says: &quot;So great was the rag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1898010701:1002/pct:48.862660944206006,65.09296920395118,18.798283261802574,18.172574084834398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1898010701:1002/pct:36.668097896092746,48.82335851249274,14.104765993988837,13.625798954096455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

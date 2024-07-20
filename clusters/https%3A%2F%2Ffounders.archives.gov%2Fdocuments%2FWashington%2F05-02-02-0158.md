@@ -53,7 +53,7 @@ one candidate brought forward for every office, with
 such clear pretensions as to sccure him agsinst cone  
 Extract of a Letter from General Washington to Mrs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848122601:0739/pct:62.976056564358025,20.00453617600363,52.064920456371524,28.872760263098208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848122601:0739/pct:20.992018854786007,6.668178725334543,17.354973485457176,9.624253421032735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -87,7 +87,7 @@ able to me than to have one candidate brought for­
 ward for every office, with such dear pretensions as  
 to secure him against competition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849010101:0019/pct:2.305366591080877,35.7869539198085,13.397581254724113,4.368641532016756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849010101:0019/pct:2.305366591080877,35.7869539198085,13.397581254724113,4.378615599441452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ have one candidate (untight forward for eveiv
 office, with &gt;uch clear pretensions a- to seethe  
 him against competition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1849010101:0516/pct:56.7882228422977,83.86211748153359,13.018377754257674,5.03693281744636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1849010101:0516/pct:56.78275928420243,83.85621834552617,13.020332242960682,5.038923278934534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ h aa o in pa womcn plarpesty emtar
 though I will fondly hope, unmerited censure.&quot; No  
 sentiment ever expressod by Washington afforded a true
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857053101:0290/pct:241.48869346733667,82.29537366548043,51.005025125628144,14.946619217081851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857053101:0290/pct:80.4962311557789,27.43179122182681,17.001675041876048,4.98220640569395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ ffcey are heaping upon me at this moment,
 equally extravagant, though I will fbndly  
 hope, uumerittd, censures.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn86083444:00296028551:1857082101:0298/pct:81.12511527820473,45.682551056968826,12.111896710728558,6.401528723277201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn86083444:00296028551:1857082101:0298/pct:81.13536222973666,45.686532107169874,12.1067732349626,6.413471873880329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ of friend to the Revo
 to myself every frend  
 lution and of every lover of good governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534631:1896110401:0058/pct:103.83639822447685,78.0431786862655,19.150285351934052,3.6747818098300415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534631:1896110401:0058/pct:69.26249008723235,52.03261368856224,12.767644726407614,2.4536824376052673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ Edward Rutledge of South Carolina; and
 he never seemed to his friends more at­  
 tractive or more noble than now
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182197:1896110801:0657/pct:105.97756115504875,80.6071068910948,16.44289130034946,5.725794849661919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182197:1896110801:0657/pct:82.13912382400456,62.47073252313525,12.748265703696664,4.444939978444271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ Bdward Rutledge of South Carolina; and
 he never ssemeii to his friends more at­  
 tractive or more noble than now
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210648:1896112801:0676/pct:19.07095256762054,72.5119212428857,12.524500196001568,4.445469927703431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210648:1896112801:0676/pct:19.06721536351166,72.50076899415565,12.526944934352342,4.448631190402953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

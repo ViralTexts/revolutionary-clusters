@@ -521,7 +521,7 @@ j mirks. ■ &quot; The love of liberty, you fay,
 j &quot; and political institutions ; w men Ait %  
 ,IHII,ST PROimCKI), AND CONSTANT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802091001:0002/pct:57.79334500875657,61.970187945560596,17.00719984432769,6.934543097861309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802091001:0002/pct:57.79334500875657,61.970187945560596,17.00719984432769,6.943184273061136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ puerile interrogation) that* whenever
 “lectively or by representation an Es­  
 ‘““ SENTIAL sHARYE in the sovereignty 3
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802101201:0159/pct:41.253666821059134,39.720499950792245,16.02593793422881,6.00334612734967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802101201:0159/pct:41.25881323658072,39.723780467801724,16.02593793422881,6.0099071613686315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ been “ essential parties in the prefer­
 - can be more ill founded than this as­  
 sertion. Were it my defignto contes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802101201:0159/pct:41.20734908136483,83.61381753764394,16.381040605218466,6.623363842141521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802101201:0159/pct:41.21249549688642,83.61381753764394,16.386187020740053,6.6332053931699635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +593,7 @@ love againlt its enemics”’—apd ¢ that
 these civiland political institutions are  
 firlt produced ard cenltantly support
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802101201:0159/pct:58.622819206422726,63.66499360299183,15.840666975451597,7.272906210018699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802101201:0159/pct:58.622819206422726,63.668274120001314,15.850959806494776,7.2696256930092185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ Yes, Bir, it is too true, “the people
 “ he loves, and knock down all who  
 “ will not swim with him.” This i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802101201:0159/pct:75.76038289331481,34.553685660860154,15.794349235757295,6.6332053931699635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802101201:0159/pct:75.76038289331481,34.56024669487911,15.804642066800474,6.6332053931699635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ Sir, though this man “bave not great
 “ beautiful or uncommon genius or  
 *“ talents to produce deep aamiira
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802101201:0159/pct:75.80670063300911,51.048125184529084,15.809788482322062,3.936620411376833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802101201:0159/pct:75.8118470485307,51.05140570153856,15.804642066800474,3.936620411376833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ liftcal institutions, which are at first produced and i
 constantly supported and improved hy a few—that  
 is hy the nobility.&quot;—[John Adams’ nobility let
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020201:0361/pct:4.482647814910026,66.90004828585225,15.5366323907455,4.369869628198938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020201:0361/pct:4.481927710843373,66.89197344598672,15.539491298527443,4.373365520016093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1160,7 +1160,7 @@ A. “ The Nobles have been essential parties
 in the preservation of liberty, whenever and wher­  
 ever it has existed.”—[John Adams’ nobility let
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020201:0361/pct:4.7075835475578405,86.76967648478995,15.27956298200514,1.47271849348141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020201:0361/pct:4.706827309236948,86.75920337960169,15.282463186077644,1.4765640716153692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1179,7 +1179,7 @@ nature ha* made and we cannot abolish, are nei­
 ther pious nor benevolent —They are as pernici­  
 ous as they are f;&gt;lsc.”—•[John Adams’ nobility let
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020201:0361/pct:4.739717223650386,89.66682761950749,15.199228791773779,2.4625784645098987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020201:0361/pct:4.738955823293173,89.65600482800241,15.202141900937082,2.4663045664856167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1201,7 +1201,7 @@ put those lanuiios into a hole by thcm^eUxn/ and I
 set two watches upon them; a superior* to them&#x27;  
 all on one side, and the peojtle on the other.”_
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020201:0361/pct:4.836118251928021,4.128440366972477,30.97686375321337,91.36890391115404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020201:0361/pct:4.835341365461847,4.127942063971032,30.97724230254351,91.36189901428284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1383,7 +1383,7 @@ inculcate the same aristocratic sentiments.—
 The Senate, which being elected for six years  
 and during that period placed beyond the pow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834072201:0431/pct:21.454854231531275,47.470238095238095,14.039060288706482,15.561224489795919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834072201:0431/pct:21.464289083875837,47.470238095238095,14.039060288706482,15.568310657596372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

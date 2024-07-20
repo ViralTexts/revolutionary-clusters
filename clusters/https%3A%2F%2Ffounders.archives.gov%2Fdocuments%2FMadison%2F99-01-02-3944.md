@@ -139,7 +139,7 @@ and the Chesapeake, by taking away
 I the discrimination between Great Bri  
 | tain and France in the exclusion of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122001:0002/pct:59.084604715672675,30.732950924155514,17.634238161283932,26.539196940726576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122001:0002/pct:59.097813882834686,30.732950924155514,17.634238161283932,26.556192904185256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ should call on him in the course of a
 dlay or two for the purpose of a free ;  
 communication upon what he had sug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122001:0002/pct:59.064790964929664,57.794773741236455,17.49554190608282,6.806883365200765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122001:0002/pct:59.064790964929664,57.794773741236455,17.50875107324483,6.819630337794774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ See. illegal, and its citizens, who should
 eugage in it, delinquents, ond after  
 having given to Great Britain by com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122001:0002/pct:58.92609470972855,2.6641172721478648,34.614622548048345,94.39133205863607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122001:0002/pct:58.93930387689056,2.6683662630125347,34.608017964467344,94.39133205863607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ I understood Mr. Canning to say that
 he might still be brought to a court  
 ) martial; although I did not understan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122001:0002/pct:76.48107786804042,15.908221797323137,17.05963938973648,28.05608667941364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122001:0002/pct:76.48107786804042,15.916719779052475,17.066243973317484,28.0475886976843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ speaking ol the appointment as unfor­
 tunate.  
 In both of these conversations, Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122001:0002/pct:76.99623538735882,44.63989802421925,16.44541311670299,5.2644996813256855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122001:0002/pct:77.00944455452084,44.64414701508392,16.44541311670299,5.260250690461016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ on e subject, and therefore contentsi-d my- si
 unfortunate.  
 ln both of these convex-nations, Mr. Cans
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1809122201:0012/pct:28.525196486361533,26.5459202341749,24.025273539836647,19.11818514452982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1809122201:0012/pct:28.52080123266564,26.543492179639625,24.026707755521315,19.119485350163114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ In the interview of the S2d, Mr. Can-!
 ning’s impressions appeared to be in all res- 1  
 pects the same with those which he had 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122301:0276/pct:40.61645084807587,51.954757806737156,17.508663140616452,30.415539709859846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122301:0276/pct:40.609044493070755,51.94837123540258,17.5115487478726,30.415898381479206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -688,7 +688,7 @@ it had itself declared a commerce with
 France, &amp;c. illegal, and its citizens, who  
 should engage in it, delinquents, and afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122301:0276/pct:40.63468903884735,11.1261372018687,35.491519241291265,84.3988197688714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122301:0276/pct:40.627279358132746,11.124769514443761,35.49112569900316,84.39254251178038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ my. But I undei stood Mr. Canning to say,
 that he might still be brought to a court mar­  
 tial ; although 1 did not understand him t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122301:0276/pct:58.25278132409265,28.9033685763462,17.782236002188583,20.076223260388492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122301:0276/pct:58.24215900802334,28.89981561155501,17.785071723802577,20.077852898996106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -759,7 +759,7 @@ with speaking of the appointment as unfor­
 tunate.  
 In both of these conversations, Mr. Ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122301:0276/pct:58.41692504103593,49.532825178264076,17.4721867590735,3.946397836242931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122301:0276/pct:58.40627279358133,49.52673632452366,17.4750790177486,3.9500102438024993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ its.*.ll declared a commerce with
 France, etc. illegal, and its citizens  
 who should engage in it, delinquent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809122601:0408/pct:4.596412556053812,22.491888384166124,17.544843049327355,42.16742375081116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809122601:0408/pct:4.595553895012142,22.48896963405139,17.547792515100568,42.166277359633185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ lie might stili be brought t&lt;&gt; a c&#x27;vtr;
 m irtitl ; :Hth&#x27;»&#x27;i jh I did not im ler­  
 stand hi &gt;1 to s »y th it this would oe th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809122601:0408/pct:3.3632286995515694,2.7125243348475014,36.846038863976084,91.92731992212849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809122601:0408/pct:3.3626004109844945,2.7121723332468206,36.8453826514727,91.91971623842893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,7 +929,7 @@ I proposed to Mr. Canning, that 1 should call on
 him in the course of a day or two far tn# purpose oi  
 a free communication upon what he had suggested
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809122701:0847/pct:52.644526445264454,74.54574434172777,20.93480934809348,14.121772394007014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809122701:0847/pct:52.63157894736842,74.53386454183267,20.935809149040825,14.123505976095618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +950,7 @@ the exch
 ports.  
 peced act of congress (if uahuuid paw; au opetun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809122701:0847/pct:52.54612546125461,83.4236531718202,20.88560885608856,11.794708320051004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809122701:0847/pct:52.53320216428923,83.41035856573706,20.88662075750123,11.796812749003983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1016,7 +1016,7 @@ moment after its orders were removed, nr derfin*
 ntier that event to apply it exclusively to France,  
 ami the now, IS banner.td with her in system
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809122701:0847/pct:74.29274292742927,8.989480395282117,21.7220172201722,27.175645521198597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809122701:0847/pct:74.27447122479094,8.98804780876494,21.722823413674373,27.175298804780876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

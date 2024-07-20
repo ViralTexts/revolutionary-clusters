@@ -42,7 +42,7 @@ ernment than is necessary, too many parasites living on
 the labor of the industrious.  
 I never appointed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.34612432847274,150.39658328248933,50.729086722947045,28.92007321537523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.8637236084453,37.59914582062233,12.687140115163148,7.230018303843807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -61,7 +61,7 @@ machinery of Governmdnt than is
 necessary, too many parasites living  
 ou the labor of the industrious.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:33.23943661971831,90.93746853287685,12.04225352112676,3.463900916322626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:33.23475566821575,90.92831252517117,12.045251842463502,3.466908309840247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ essary too many parasite liying on the
 labor of the industrions.  
 I never appointe!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:111.08771929824562,268.14404432132966,43.228070175438596,10.658224508640021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:27.781677781677782,67.03601108033241,10.81081081081081,2.6645561271600053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ I thiuk, myself, that we have more machinery
 oi government man is necessary too many para­  
 sites living on the labor of the industrious
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:51.03417266187051,69.46107784431138,18.705035971223023,1.4458887103841098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:38.29548009894311,52.09580838323353,14.031931639307398,1.0953702351394772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ I think, myself, that we have more machiner,
 of Government than is necessary, too many par  
 asites living on the labor of the industriou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:278.42125382263,191.68823260770284,50.3822629969419,10.899680316638758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:69.6053134556575,47.92205815192571,12.595565749235474,2.7249200791596895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ their interest to preserve pcaco and order,
 and they will prescrvo them.  
 Tho cement of this Union is in tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192427:1895030501:0046/pct:14.639358860195903,57.02775290957923,11.665182546749778,4.729931363772009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192427:1895030501:0046/pct:14.643811219946572,57.03521336914354,11.669634906500445,4.737391823336318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ chinery of government than li necessary;
 too many parasites living on tho labor ot  
 the Industrious
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:55.96879535558781,81.18338343809783,15.838171262699564,3.7031975949713036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:42.0039934652387,60.89095381251708,11.8896351424941,2.7739819622847772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ chinery of government than is neces­
 sary; too many parasites living on the  
 laVr of the industrious
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898110401:1087/pct:67.85995279307632,37.29980145598941,18.981117230527143,16.73064195896757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898110401:1087/pct:50.93485534343633,27.98146922567836,14.249163550482189,12.547981469225679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ necessary, too many parasites living
 on the labor of the industrious.  
 Political dissension is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:95.91428571428571,62.058602554470326,14.714285714285714,3.6063110443275734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:71.95313616230891,46.549318450144895,11.044434919274183,2.70473328324568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

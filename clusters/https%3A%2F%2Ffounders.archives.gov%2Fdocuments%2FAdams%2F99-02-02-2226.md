@@ -50,7 +50,7 @@ John Adams
 Jide contracted before the peace, and still remaining  
 due to them from the citizens of this country, unles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795071501:0002/pct:28.98704046548532,21.657000828500415,21.13197566781275,1.2096106048053024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795071501:0002/pct:28.98704046548532,21.665285832642915,21.151811690029092,1.2137531068765535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ Senate, thall appoint another, and the f{aid
 two commissioners shall agree on the  
 choice of a third, or if they cannot agre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796040901:0057/pct:76.63363270362342,29.611940298507463,15.438216165995664,8.298507462686567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796040901:0057/pct:76.64395581707443,29.615257048092868,15.438216165995664,8.30514096185738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ goes hSving b»tn taken by the Subje&amp;s of His Cath­
 olic Majesty, during the late War between Spain  
 and France, that they are ready to receive (at thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797052201:0001/pct:56.35346234553509,48.17539729252501,16.017719748193052,2.928193054738081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797052201:0001/pct:56.37094893914666,48.17539729252501,16.02354861273024,2.935550323719835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ goes having bren taken by the Subjects of His Cath­
 olic Majesty, during thd late War between Spain  
 and France, that they are ready to receive (at thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797052501:0001/pct:21.799953369083703,32.37198351971748,15.877826999300536,2.957622130665097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797052501:0001/pct:21.811611098158078,32.37934078869924,15.889484728374912,2.9723366686286052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ goes having b&#x27;en take* by the Suhje&amp;s of His Cath­
 olic Majesty, during the late War between Spain  
 and France, that they are ready to receive (at thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797052601:0001/pct:22.662625320587548,32.72939801285798,16.34413616227559,3.053769725306838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797052601:0001/pct:22.662625320587548,32.736703682057275,16.355793891349965,3.0574225599064873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ _of the United States, in consequence
 Catholic Majeflty, during .the late  
 war between Spain and France. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797053001:0296/pct:58.87033858636293,7.72146847565842,16.227180527383368,8.828810853950518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797053001:0296/pct:58.87553960576273,7.728119180633147,16.237582566182972,8.832136206437882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ goes having b-cn taken by the Subje&lt;£ls of His Cath­
 olic Majesty, during the late War between Spain  
 and France, that they are ready to receive (at thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060701:0001/pct:22.37464522232734,66.68618266978923,16.769157994323557,2.971311475409836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060701:0001/pct:22.37464522232734,66.69716042154566,16.792809839167454,2.974970725995316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ goes having b-en taken by the of His Cath­
 olic Majesty, during the late War between Spain  
 and France, that they are ready to receive (at thri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060901:0001/pct:73.1610800744879,14.495090136303679,16.038175046554933,5.569397625677854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060901:0001/pct:73.1610800744879,14.506082368459621,16.055633147113593,5.573061703063169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ goes having bft n taken by the Subjects of His Cath­
 olic Majesty, during the late War between Spain  
 and France, that they ace ready to receive (at thri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061201:0001/pct:72.58102121706692,16.333777185974256,16.017719748193052,2.9738126941855305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061201:0001/pct:72.59267894614129,16.33747595798195,16.02354861273024,2.9738126941855305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ oes having bren taken by the Subjects of His Catli­
 olic Majesty, during, the late War between Spain  
 and France, that they are ready to receive (at thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070601:0001/pct:58.9264027204275,53.592497352896686,16.832645129948993,1.5428830736651036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070601:0001/pct:58.9264027204275,53.59627892905763,16.86300704396405,1.5391014975041597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ mong the Indian tribes, residing within the i
 territory of the United States, to influence j  
 them to transfer their affeftions and force
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112301:0003/pct:23.273480662983424,4.961263408820024,34.23112338858195,88.78128724672229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112301:0003/pct:23.273480662983424,4.961263408820024,34.23687845303867,88.79618593563767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ i ces, they reasonably expfeft reimburfemeflts
 : | from the United States.  
 &gt; I The consular aft relative to seamen re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112301:0003/pct:40.26243093922652,4.961263408820024,33.40239410681399,88.2300357568534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112301:0003/pct:40.26818600368324,4.961263408820024,33.41390423572744,88.23376042908224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ e Tn all such nieafures, yon may rely on my
 zealous and hearty concurrence.  
 d JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112301:0003/pct:56.37661141804788,31.898092967818833,17.288213627992633,27.607270560190702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112301:0003/pct:56.38812154696133,31.901817640047675,17.293968692449354,27.610995232419548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1254,7 +1254,7 @@ be referred, oc. 1
 5. &quot; That fq much as relates, to the reim­  
 hurfement of certain advances made by the con- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797113001:0003/pct:7.034353820986212,71.15241635687732,17.247020331853236,7.449814126394052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797113001:0003/pct:7.040196307548492,71.1635687732342,17.25286281841552,7.449814126394052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1440,7 +1440,7 @@ transfer their affe@ions and force to a Fo­
 reign Nation ; to form them into a confede­  
 racy, and to prepare them for War, agains
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797120601:0404/pct:6.205398696866274,4.519268970997219,35.1690971144896,91.13031386571315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797120601:0404/pct:6.205398696866274,4.519268970997219,35.17943944565105,91.13031386571315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1541,7 +1541,7 @@ monies for their relief. For these advances
 they reasonably expe&amp; reimbursements from  
 the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797120601:0404/pct:24.573378839590443,17.37187127532777,16.925224945702762,50.50655542312276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797120601:0404/pct:24.578550005171167,17.378492914845715,16.930396111283482,50.50655542312276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1598,7 +1598,7 @@ of wildom and firmnefs. s
 In all such measures you ifiay rely on my  
 zealous and hearty concurrence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797120601:0404/pct:24.40273037542662,4.54906634882797,34.750232702451136,90.91179976162098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797120601:0404/pct:24.407901541007345,4.5523771685869425,34.760575033612575,90.908488941862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1620,7 +1620,7 @@ es for national defence, which a beneficent
 Providence has kindly placed within our  
 power.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121601:0002/pct:60.7487922705314,14.771519659936239,16.76328502415459,4.964323667830575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121601:0002/pct:60.76690821256039,14.775315014422347,16.769323671497585,4.983300440261121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2297,7 +2297,7 @@ es sustained by the citizens of the United States, in
 been taken by the SubjeA- of His Carholic Majes­  
 ty, during the late war between Spain and Franc:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032201:0001/pct:22.306281522237505,83.23829531812726,16.506189821182943,2.7611044417767108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032201:0001/pct:22.312012838147638,83.24954981992798,16.51765245300321,2.7611044417767108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2357,7 +2357,7 @@ in the univerfe of mm. The ma ftc incan a
 lions of demoniac diplomacy are d:ftblved as in  
 the twinkling of an ey
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798102901:0109/pct:29.665509047706088,58.86008142275552,21.842441966733688,29.890722091279194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798102901:0109/pct:29.660087719298247,58.85377611140868,21.843019005847953,29.890198178896625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2454,7 +2454,7 @@ the Spanish garrisons were still continued within our
 country, and the running of the boundary lino had  
 not been commenced, These circumstance* are the.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806080801:0040/pct:72.4756918474196,89.33977455716587,21.590625779107455,7.85829307568438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806080801:0040/pct:72.45762711864407,89.32539043632265,21.59147557328016,7.861052970536146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2480,7 +2480,7 @@ in the Spanish horse at New Orleans. Among the
 various documents which were collected by general  
 Wayne relative to the conspiracy, is a letter from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806080801:0041/pct:6.970509383378016,2.651880424300868,21.155252254447966,7.778849244615879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806080801:0041/pct:6.968810916179337,2.651454282500402,21.156189083820664,7.7816165836413305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2518,7 +2518,7 @@ likewise were the partizans of governour Blount, fu­
 tile purpose of exciting them to commence hostili­  
 ties against the subjects of Spain in the Florklas an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806080801:0041/pct:6.799902510358274,12.825458052073289,21.325859127467705,14.271938283510126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806080801:0041/pct:6.798245614035087,12.823397075365579,21.32675438596491,14.27366222079383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2576,7 +2576,7 @@ fudged it prop■:--, t&#x27;.tat tve shouldcoiitl*
 nut in a ut ite of re idihess to receive the &#x27;  
 posts, and to run the- li .c cf limits.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806090101:0001/pct:40.771884432945235,65.38827689378485,18.58559724018974,15.055079559363525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806090101:0001/pct:40.77907143883858,65.38827689378485,18.60715825786977,15.055079559363525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2612,7 +2612,7 @@ I judged it proper that we fhould continue in a
 ft «te of rradinrfs to receive the polls, and to  
 run *hp line of limits.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806090201:0134/pct:6.776218611521418,3.5143769968051117,36.22599704579025,91.43524207421972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806090201:0134/pct:6.774967694295736,3.5139452021132818,36.22546304842779,91.42810337060244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2641,7 +2641,7 @@ of Governor Blount, for the purpofe of exciting
 them to commence hoflilities againlt the (ub­  
 jeCts of Spain in the Floridas and Louiltana
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806090201:0134/pct:25.498522895125554,25.86630621774392,17.614475627769572,7.729171786679774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806090201:0134/pct:25.49381576518368,25.863128148421183,17.61737739216048,7.732317647540648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3042,7 +3042,7 @@ cumulation of public debts in other countries
 ought to admonish us to be careful of their growth  
 in our own case.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040301:0049/pct:10.354041416165664,140.05102040816325,46.22578490313961,5.936920222634508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040301:0049/pct:3.4513471387218884,46.683673469387756,15.408594967713205,1.9789734075448362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3061,7 +3061,7 @@ as well as our moral and religious principles,
 against all open andsecret tricks.&quot;  
 Again, tho same President says, in anothe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202193419:1876070301:0636/pct:13.677248677248677,54.65529495380242,15.158730158730158,3.1272210376687988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202193419:1876070301:0636/pct:13.677248677248677,54.65973702914001,15.191798941798941,3.140547263681592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3117,7 +3117,7 @@ from the continual accumulation of
 to warn us to be careful to prevent  
 their growth in our own. Immediat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hemlock_ver02:data:sn88085617:00211108484:1898102901:0108/pct:74.180778535298,44.24831712789828,16.91224983505608,6.252804786836201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hemlock_ver02:data:sn88085617:00211108484:1898102901:0108/pct:74.18627666593358,44.25953627524308,16.91224983505608,6.252804786836201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

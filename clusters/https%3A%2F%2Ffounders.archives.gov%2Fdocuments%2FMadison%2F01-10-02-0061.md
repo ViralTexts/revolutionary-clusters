@@ -96,7 +96,7 @@ for restraining the instability and encrouchments of
 the latter, a revolution of some kind or other would  
 he inevitable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841102901:0311/pct:257.85536159600997,201.75080245112343,57.85536159600998,17.624744674642546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841102901:0311/pct:64.46384039900249,50.43770061278086,14.463840399002494,4.4061861686606365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ other Would be inevitable.&quot;
 
 ---
 
-## [From _The United States Review (1853-1856)_](https://archive.org/details/sim_united-states-democratic-review_1855-11_36/page/n0/mode/1up?view=theater)
+## [From _The United States review_](https://archive.org/details/sim_united-states-democratic-review_1855-11_36/page/n0/mode/1up?view=theater)
 
 #### 1855-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -674,7 +674,7 @@ croachments of tho Legislature, a revolu
 lion of some kind or other would be in  
 evitable. &#x27; His subsequent&#x27; language i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868031701:0264/pct:22.36765561372891,48.02863436123348,14.136125654450261,6.552863436123348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868031701:0264/pct:16.785454545454545,36.02422907488987,10.603636363636364,4.922907488986784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ ter, a revolation of some kind or
 other would be inevitable.  
 on the Legislative would render i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1868032101:0837/pct:252.5709219858156,138.0263580842173,39.73847517730496,29.395692703310832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1868032101:0837/pct:63.12873919787281,34.501044512293106,9.932417460669178,7.347742246504901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ encrouchments of the latter (the Congress)
 a revolution of some kind or another  
 would be inevitable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870011101:0044/pct:101.1621150493899,301.0656985595503,38.9889599070308,62.20868954210095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870011101:0044/pct:25.290528762347474,75.26642463988757,9.7472399767577,15.552172385525237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

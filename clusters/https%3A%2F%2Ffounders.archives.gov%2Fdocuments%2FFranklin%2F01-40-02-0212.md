@@ -149,7 +149,7 @@ means Inve foreign commodities cheaper, and j-t 11 11-&lt;
 own productions dearer, and bo on the whole most  
 )&gt;rosp&gt; rmi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844030101:0302/pct:32.3868677905945,36.511427751745245,15.868086364980774,4.360715310318447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844030101:0302/pct:32.396726806664695,36.511427751745245,15.863156856945677,4.363902967709031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ maxim among the merchants that, if there
 were no Algiers, it would be worth lng  
 land&#x27;s while to bulld on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035151:1886020201:0270/pct:303.2911392405063,27.03488372093023,53.83966244725738,11.279069767441861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035151:1886020201:0270/pct:75.82278481012658,6.758720930232558,13.459915611814345,2.8197674418604652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ while to bulld one.&quot; It was largely
 because of such feelings that the great  
 states of Europe so long persisted i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn87065177:00383343549:1886081901:0570/pct:52.7067994802945,51.61190328580285,35.44102786198932,21.678032651374252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn87065177:00383343549:1886081901:0570/pct:17.566397228637413,17.20219030891621,11.811970746728253,7.225264317939181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ while to build one.&quot; It was largely
 because of such feelings that tho great  
 states of Europe so long persisted i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn87007277:00415662415:1886082801:0225/pct:39.245446660884646,22.41176470588235,16.543798785776236,9.911764705882353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn87007277:00415662415:1886082801:0225/pct:29.451312079809153,16.808823529411764,12.405118195619172,7.4411764705882355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ Baltimore Sun: The Presi­
 dent’s message to Congaess in re­  
 gard to the situation created by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521638:1888082901:0580/pct:22.299651567944252,16.215601546508985,16.045296167247386,11.428246531726177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521638:1888082901:0580/pct:22.305458768873404,16.223182472898188,16.051103368176538,11.428246531726177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ ed, sell its own productions dearer,
 and be; od the whole, most prosper  
 bus.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_flamingo_ver01:data:sn83004226:0029587580A:1888090601:0677/pct:181.99203187250995,161.8761618761619,47.330677290836654,42.9000429000429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_flamingo_ver01:data:sn83004226:0029587580A:1888090601:0677/pct:45.49800796812749,40.46904046904047,11.832669322709163,10.725010725010724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ be, on the whole, most prosperous.
 If your appetite is gone nothing will  
 restore it more quickly than &quot;C. C. C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1889082801:1024/pct:39.479166666666664,63.39957035445757,14.340277777777779,8.754027926960259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1889082801:1024/pct:29.623198471956936,47.556390977443606,10.748393818371245,6.565520945220193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ chants had been heard to say that If
 there were no Algiers It would be worth  
 England&#x27;s while to build one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621176:1897082601:0393/pct:8.199679230152366,11.240721102863203,16.94065757818765,1.9996970156036964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621176:1897082601:0393/pct:6.158475426278836,8.438115437054991,12.71815446339017,1.4997727617027723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ some dependence on our joint judgment, since
 one alone could have made a treaty by diree­  
 tion of the French Ministry as well as twenty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898120401:0441/pct:184.22238918106686,15.513818903649412,106.83696468820436,375.81310123683005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898120401:0441/pct:46.064249483374034,3.878454725912353,26.71425887657336,93.95327530920751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ his senses.&quot;
 VII.  
 In a final chapter on Franklin, considered a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898120401:0441/pct:239.6694214876033,38.78454725912353,51.16453794139745,107.49732783631089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898120401:0441/pct:59.928611685139956,9.696136814780882,12.793537478865302,26.874331959077722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -759,7 +759,7 @@ solutely out of his senses.&quot; Our fore­
 fathers had their little differences of  
 opinion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn90061371:00294557192:1899011101:0122/pct:13.439597315436242,64.29942418426104,15.218120805369127,3.27575175943698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn90061371:00294557192:1899011101:0122/pct:10.085584829669408,48.22776711452335,11.411310622587683,2.456813819577735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ solutely out of his senses.” Our fore­
 fathers had their little differences of  
 opinion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074063:00383343628:1899011101:0110/pct:3.0758476057322612,45.77749683944374,11.604334148898987,2.3640960809102403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074063:00383343628:1899011101:0110/pct:3.0753101520181723,45.77171027682973,11.60667482089813,2.366957401087094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,7 +797,7 @@ solutely out of his senses.&quot; Our fore­
 fathers had their little differences of*  
 opinion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479391:1899011201:0227/pct:6.59983291562239,47.82382881479173,11.946532999164578,2.5864755375506387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479391:1899011201:0227/pct:6.59983291562239,47.83075378276376,11.955815464587394,2.5864755375506387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -817,7 +817,7 @@ fathers had their little differences of
 opinion.  
 Cordelia Yiau has been sentenced a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_hegmeister_ver01:data:sn85033255:00514152548:1899011201:0214/pct:3.9950913553313336,50.016565433462176,9.749113716934824,3.0590833793484262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_hegmeister_ver01:data:sn85033255:00514152548:1899011201:0214/pct:3.9950913553313336,50.016565433462176,9.749113716934824,3.0627645867844655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

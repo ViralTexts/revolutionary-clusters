@@ -160,7 +160,7 @@ I am, dear sir, your most obedient
 And affectionate humble sen ant,  
 GEO. WASHINGTO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827082301:0064/pct:80.35592060232717,3.4335273850540573,19.404517453798768,20.63680646311037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827082301:0064/pct:80.34217279726262,3.43311950582086,19.406900484744796,20.638314722420212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ and yourtelf.Iam Dear Sirt
 Your most oh&#x27;t, and affec&#x27;e.  
 Humble Servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845011501:0254/pct:44.11764705882353,270.11980267794223,43.194618272841055,25.005872680291287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845011501:0254/pct:14.705882352941176,90.03993422598074,14.398206090947017,8.335290893430429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ it seems, he had lieeri marked.
 It gives me pleasure to hear from you. I shall always feel  
 an interest in your happiness ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845011801:0084/pct:48.962368566685115,57.50726509525347,15.190924183729939,12.097728985039286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845011801:0084/pct:48.962368566685115,57.51085279661321,15.209370964766649,12.101316686399024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ my own for Mrs. Hopkinson and yourself,
 alleclionate humble scivnnt.  
 Go. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624426:1845012501:0321/pct:28.274383708467308,39.15027537372148,19.09967845659164,33.73721479150275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624426:1845012501:0321/pct:21.923801085391517,30.34552845528455,14.807841399933547,26.15447154471545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ your happiness; and with Mrs. Wash
   
 ington&#x27;s cumpliments and best , wishes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065517:00295878174:1845020101:0015/pct:106.97954271961493,17.905594797623053,19.04332129963899,30.41820831931831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065517:00295878174:1845020101:0015/pct:80.25880228708998,13.431999103038457,14.29431236834186,22.8164592443099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ It was not long after this that M. Houdon, an artist
 of great merit, chosen by Mr. Jefferson and Dr. Frank  
 lin, arrived from Paris to make a study of Washingio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530546:1857052701:0399/pct:148.65582475937603,159.8402670163309,47.32824427480916,24.031469781857194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530546:1857052701:0399/pct:49.55194158645868,53.280089005443635,15.776081424936386,8.01048992728573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ aa interest in your happiness, and with Mrs. Was hiuguls com­
 pliments and best wishes joined to my own f-r Mrs. llopkinsou  
 and yourself, I am, Jt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1859050501:0408/pct:17.781787895613547,84.67407891868324,18.364797334813993,9.984739481142359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474216:1859050501:0408/pct:13.345368698791834,63.50555918901242,13.77586446326899,7.488554610856769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ reluctantly, but with less flouncing—noW,
 no dray moves more readily to the thill  
 than I do to the painter&#x27;s chair.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869120801:0847/pct:81.87311178247734,26.0694514343231,10.876132930513595,3.844992450931052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869120801:0847/pct:81.87730782141658,26.07616171783258,10.884525008392078,3.8416373091763125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ I am. Dear Sir,
 Yr most obedt &amp; affect&#x27;e H&#x27;bl servant,  
 G&#x27;o WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742113:1876071501:0054/pct:8.025443226417648,174.29049967432772,42.170794424144,42.29087187121988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742113:1876071501:0054/pct:2.675147742139216,58.09683322477591,14.056931474714666,14.096957290406625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -870,7 +870,7 @@ wishes joined to my own for Mrs. Hopkins and
 1 yourself, I am, dear sir, yonr most obedient and  
 affectionate hnmble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:53.23401162790697,115.63050250575647,15.025436046511627,12.962210483543275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:39.94910941475827,86.72626303670594,11.268629589240277,9.725044020046052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -917,7 +917,7 @@ Yr. Most obedt &amp; affecte
 HIbll. Servant,  
 Go WASHiNGToN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82000205:00211102846:1885120301:0756/pct:56.961077844311376,168.99660115265257,43.712574850299404,43.9781291561992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82000205:00211102846:1885120301:0756/pct:14.240269461077844,42.24915028816314,10.928143712574851,10.9945322890498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1047,7 +1047,7 @@ Says the Brooklyn Times. The views
 of Senator Colquitt of Georgia on the  
 temperance question are shared in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103085:1886090201:0861/pct:13.243039879608729,103.02210193955796,43.86756960120391,42.33949781987671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103085:1886090201:0861/pct:3.3120060218291307,25.75552548488949,10.971019947308996,10.584874454969178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1087,7 +1087,7 @@ tantly, but with less flouncing. Now
 that I yielded a ready obeyance to your  
 request and to the views of Mr. Pine.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877832:1886091801:0177/pct:120.25210084033614,277.0841945707593,49.32773109243698,32.79592117955078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877832:1886091801:0177/pct:30.06934229880227,69.27104864268982,12.334524059676403,8.198980294887695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1117,7 +1117,7 @@ easily be conceived, therefore, that I yielded
 | a ready obedience t) your request, and to  
 | the views of Mr. Pine.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1886091801:0688/pct:44.98879282740954,83.773775458677,10.065108336001709,5.512539976434944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1886091801:0688/pct:44.99590849254634,83.77658082253268,10.068666168570108,5.512539976434944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ conceived, therefore, that I yielded a ready
 obedience to your request, and to the view  
 of Mr. Pine.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296138:1886102701:0684/pct:166.0336011687363,84.36401510220024,42.220598977355735,24.059367269886735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296138:1886102701:0684/pct:41.50840029218408,21.09100377555006,10.555149744338934,6.014841817471684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1245,7 +1245,7 @@ conceived, therefore, that I yielded a ready
 obedience to your request, and to the views  
 of Mr. Pine.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_isley_ver01:data:sn88076514:00295863808:1887070201:0489/pct:55.849685301740095,22.206506364922205,11.847463902258422,6.817538896746817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_isley_ver01:data:sn88076514:00295863808:1887070201:0489/pct:55.858941132913735,22.206506364922205,11.847463902258422,6.8316831683168315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1524,7 +1524,7 @@ kinson and yourself,
 I am Dr. Sir &quot;Your most obedt. and nflccte.  
 hblc. Servant, Go. &quot;Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102342:1895052301:0194/pct:41.248665955176094,67.63410728582866,16.675560298826042,14.791833466773419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102342:1895052301:0194/pct:30.94888562658481,50.73058446757406,12.518350460429735,11.088871096877503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1556,7 +1556,7 @@ er&#x27;s chair. It in be easily conceived,
 therefore, that I ded a ready acquies­  
 cence to the vlewtMr. Pine to take por
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344672:1895080501:0276/pct:30.57010785824345,4.512548262548263,24.684129429892142,90.0699806949807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344672:1895080501:0276/pct:30.575243965074474,4.52059202059202,24.67899332306112,90.0699806949807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1631,7 @@ tantly, but with less flouncing: now no dray
 horse moves more readily to the thill then I  
 to the painter&#x27;s chai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022301:0725/pct:174.8324646314222,103.03307422648986,49.4415487714073,25.1181222374638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022301:0725/pct:43.70811615785555,25.758268556622465,12.360387192851825,6.27953055936595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1661,7 +1661,7 @@ tantly, but with less flouncing: now to dray
 horse moves more readily to the thill than I  
 to the painter&#x27;s chai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022301:0726/pct:171.39622641509433,102.85714285714286,50.264150943396224,25.045592705167174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022301:0726/pct:42.86523216308041,25.714285714285715,12.570781426953568,6.261398176291793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1846,7 +1846,7 @@ gether at their be
 on a monument&#x27; while they are delineat-  
 ing the lines of my face. It is a proof o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032861:1897022101:0408/pct:6.126325787557385,74.59944456312753,41.20626879848029,8.384960478530228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032861:1897022101:0408/pct:2.0421085958524614,24.866481521042513,13.735422932826763,2.7949868261767428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1880,7 +1880,7 @@ to his thills than I do to the painter&#x27;s
 :hair.&quot;  
 Twice, at least, he has been convicte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897041601:0334/pct:52.599862258953166,87.42632612966601,20.609504132231404,36.45628683693517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897041601:0334/pct:35.09043927648579,58.28831041257367,13.746770025839794,24.30009823182711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1939,7 +1939,7 @@ less flouncing. Now, no dray moves more
 readily to the mill than I do to the painter&#x27;s  
 chair.&quot; Among the most notable portrait
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016810:00280768005:1899021801:0432/pct:68.72228939943571,62.249614791987675,12.145640198844552,5.177195685670262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016810:00280768005:1899021801:0432/pct:68.72228939943571,62.249614791987675,12.159075641542389,5.187467899332306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

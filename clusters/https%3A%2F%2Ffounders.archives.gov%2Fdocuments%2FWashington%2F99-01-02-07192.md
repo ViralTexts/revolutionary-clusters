@@ -96,7 +96,7 @@ of hostilities may take place. , . 3
 -« 1 Mave the honor to be, my Lord,  
 - Your Lordship’s most obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111701:0044/pct:38.420963076399524,4.4880636604774535,57.85264590777608,85.87798408488064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111701:0044/pct:38.4266349044297,4.495137046861185,57.85264590777608,85.8815207780725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ shouldered ariua, eolors cased and drums beating
 —they are then to giound their arms and return  
 to tbeir enoarnpment—officers to retain tbei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862042601:0262/pct:51.77378655187769,50.77311108674197,11.20676859136114,3.2569360675512664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862042601:0262/pct:51.77873435258028,50.77311108674197,11.216664192766315,3.2715575538253465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

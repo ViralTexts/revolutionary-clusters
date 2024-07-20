@@ -435,7 +435,7 @@ as my clerk informed me, by a perfoti
 w. th Mr. Francis Breuil,mer­  
 chant in Philadelphia 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804092401:0002/pct:7.65991578103068,66.03798822899947,16.803689592941648,2.7554842161583735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804092401:0002/pct:7.67328387139897,66.03798822899947,16.803689592941648,2.7599429284822543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ i 3K;..i&#x27;i ai.d tlie United States—and, as
 I I w.fhed to 1-arn ins opinions refpe_ting  
 yfi* m,I tuff &gt;ed him to proceed. Amon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804092401:0002/pct:7.639863645478243,2.314071696094168,35.2115500300782,94.47565543071161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804092401:0002/pct:7.639863645478243,2.3185304084180487,35.2115500300782,94.47119671838773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ Iwer. With d facility I fup&#x27;.re fled the
 indignation of my feelings and left the  
 houfc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804092401:0002/pct:25.566472829356325,37.06527554842162,17.28494084620012,12.265917602996256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804092401:0002/pct:25.579840919724617,37.07419297306938,17.27157275583183,12.261458890672374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ sitiisittc (] nim to proceed. &#x27;
 Among other (hings uCsi&#x27; said that is Mr  
 Pin-&#x27;k
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804092401:0437/pct:24.459335973195248,4.412811387900356,47.63935424916235,92.1797153024911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804092401:0437/pct:24.45561139028476,4.412418823948047,47.63717577787929,92.17448032500074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -805,7 +805,7 @@ would give him an anfwer. With dit­
 ficuity I fupprefled the indignation of  
 my feelings and left the houle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804092701:0565/pct:51.84409052808047,3.782185536528274,46.2070410729254,91.83195761981027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804092701:0565/pct:51.84409052808047,3.782185536528274,46.2070410729254,91.84838404993634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ who lives with Mr. Francis Breuil, merchant, in Phi­
 ladelphia i  
 “ fhe Marquis de Casa Yrujo presents his com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804092901:0133/pct:74.5017884517118,3.396165095872603,22.50894225855902,11.342216444588885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804092901:0133/pct:74.48275862068965,3.395613322502031,22.509578544061302,11.344435418359058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -933,7 +933,7 @@ asked me when 1 would give him answer. • With
 difficulty I suppressed the indignation of my feelings  
 and left (he house. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804092901:0133/pct:74.5017884517118,14.429639259018524,22.176801226366887,49.30126746831329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804092901:0133/pct:74.48275862068965,14.427294882209585,22.177522349936144,49.29731925264013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1031,7 +1031,7 @@ me when I would give him an anf-.ver. With difficul­
 ty I fupprefled the indignation of my feelings and left  
 the houfe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804092901:0175/pct:7.278594478307637,2.6192818494835217,35.424883470778056,92.6463354648303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804092901:0175/pct:7.277289836888332,2.6189597934341573,35.424508573818486,92.63904258371245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1134,7 +1134,7 @@ j res et-1 ng them, I suffered him to pro­
 | if Mr# I’mckn. v had acf ed hv ins&#x27;ru5\ions  
 i from the adin 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:21.854559445940748,26.848958333333332,18.276260100038478,57.6171875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:21.850355837661088,26.84546283036063,18.279156247996408,57.61402595148201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1170,7 +1170,7 @@ svouM give him an answer. Y*&#x27;i h dffi- i
 culty 1 suppressed the indignation of my i  
 feelings and left the house* 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:21.83532127741439,4.309895833333333,37.533666794921125,93.07291666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0298/pct:21.831121369494134,4.309334722041401,37.53285888311855,93.06513908779239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1280,7 +1280,7 @@ when I would give him an anfwr. With dif­
 ficulty I fupprefTed the iudigucrhn of mv feci­  
 isf Ood lcR the howl*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804100101:0196/pct:49.847494553376904,17.45302149520076,22.352941176470587,66.37826145734758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804100101:0196/pct:49.836636898279245,17.45066234117329,22.35351775212372,66.37266828872669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1413,7 +1413,7 @@ I would give him an answer. With
 difficulty I fupprefled ¢he indignation  
 of my feelings and left the house
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804100201:0572/pct:41.03548932247657,4.024530471444998,33.737901367337535,88.73131467995401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804100201:0572/pct:41.03548932247657,4.027724543247732,33.748143596046496,88.73131467995401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1958,7 +1958,7 @@ of the fine and si}; frigatcs to Sandy Hook,
 what wouid you do ?&quot; Aye, indeed,  
 What would wesido? Order them away b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808080201:0208/pct:29.66254896053028,72.54831782390838,22.461584814703222,5.377594846098783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808080201:0208/pct:29.658081036300647,72.54182696609108,22.463222372847316,5.380096030538905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1979,7 +1979,7 @@ and sis frigates to the Chesapeake, and three strips
 ol the line and six frigates to Sundy-Hook, what  
 would you do &gt;&quot; Aye, indeed, what would we do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808080301:0033/pct:11.790182868142445,72.85178542312082,19.898941289701636,3.9132561552258274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808080301:0033/pct:11.787346644214578,72.83990870557548,19.900168390666344,3.916693837626345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2081,7 +2081,7 @@ the American colours,
 , they should besuppor­  
 | ted.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810122901:0294/pct:22.55410481130388,73.19123020706455,8.49579681631193,9.890377588306944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810122901:0294/pct:22.550071530758228,73.1823164048228,8.500238435860753,9.893232655380993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

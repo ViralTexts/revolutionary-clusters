@@ -68,7 +68,7 @@ tirely liberated from debt. Then it will nuf­
 fi.ee for war, without creating new debts or  
 taxes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776178:1866011001:0055/pct:6.442376521116679,37.93246609465818,19.917680744452397,6.656518128978688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776178:1866011001:0055/pct:4.833512352309345,28.4528092997509,14.948084496956678,4.9958483254912815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,7 +86,7 @@ ours as the same, and that the object of both
 must be to exclude all European influence in  
 this homisphere.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00175044875:1886010501:0286/pct:81.43074581430746,77.69110764430577,50.076103500761036,7.488299531981279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00175044875:1886010501:0286/pct:20.361560418648907,19.422776911076443,12.521408182683158,1.8720748829953198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ land, politically or commercially. We con
 and the object of both must be to exclude  
 European influence from this hemispher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175045065:1893030801:0804/pct:0.0,70.9618320610687,71.6923076923077,66.25954198473282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175045065:1893030801:0804/pct:0.0,17.740458015267176,17.933423128728112,16.564885496183205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ le sphere&quot; and not merely &quot;this continent.«
  1S aithough at that time the independence of  
 WE some of the republies south of us had no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894060601:0290/pct:0.0,288.7513211535558,78.38638045891932,41.008606371734864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894060601:0290/pct:0.0,72.18783028838895,19.60022209883398,10.252151592933716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ essential principle of the Monroe doctrine
 was discussed long before the formal decla  
 ration by that Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895070901:0489/pct:10.53446940356313,358.92802915274825,51.897753679318356,19.389614333434558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895070901:0489/pct:2.6341274452837498,89.73200728818706,12.976951384853766,4.8474035833586395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ and that the object of both must be to ex­
 clude all European influence from this  
 bemisphere.&quot; Accordingly, when Mr. CA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042829:1895101201:0707/pct:4.951237809452363,147.05091832163654,67.21680420105027,12.60265790652531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042829:1895101201:0707/pct:1.2378094523630907,36.762729580409136,16.804201050262566,3.1506644766313276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ objects of both must be to exclude all European
 influence from this hemisphere.&quot;  
 By the time the Spanish colonies had gaine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897010101:0014/pct:341.5466262319939,235.37777777777777,49.65883244882487,24.533333333333335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897010101:0014/pct:85.4190367842245,58.84444444444444,12.419416003033751,6.133333333333334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ in a
   
 letter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1898021801:0626/pct:42.431906614785994,23.17006053935058,16.1284046692607,8.379196477710511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1898021801:0626/pct:37.13896612381547,20.273686745053975,14.112239686772968,7.343793892210763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

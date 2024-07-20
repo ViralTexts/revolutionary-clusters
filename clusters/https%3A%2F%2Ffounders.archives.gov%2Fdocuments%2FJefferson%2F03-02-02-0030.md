@@ -50,7 +50,7 @@ it you the assurances of my great esteem k
 n re-peel­  
 h TH 2 JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809121201:0393/pct:77.53771652076736,69.52628163530176,18.848947662506983,13.329007138221934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809121201:0393/pct:77.52327746741155,69.5172592784843,18.851644941030415,13.331603079851199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -84,7 +84,7 @@ imu the assuianccs of my gita. tsUein ic
 •« pecL  
 TII» JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809121901:0402/pct:77.99242424242425,78.2591725214676,17.859848484848484,13.361956804579755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809121901:0402/pct:77.97765574701761,78.248991804345,17.862778514170294,13.36455487619791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ the reward you uare men td, I lender
 re peel.  
 Tli: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809122601:0410/pct:79.3609022556391,28.752237279468165,17.5,13.001789823574534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809122601:0410/pct:79.34598759631648,28.748561932762367,17.502975631147027,13.004388768162256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ cerely wishing you may reip the reward vou hava
 merited, I tender you the assurances of thy great es­  
 teem and respect. , * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810010801:0868/pct:71.62128403697227,20.239831469777993,21.184111916062953,8.81542699724518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810010801:0868/pct:71.6033966033966,20.23655217109527,21.185064935064936,8.81804925469864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ merited, J tender you the assurances of my great es­
 teem and respect.  
 TH s JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810011201:0877/pct:8.271421495789996,20.449474019764107,21.94155522535909,9.324195090851132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810011201:0877/pct:8.269373607328546,20.44621513944223,21.942312453577618,9.326693227091633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ you the assurances of my grra- esteem 6c
 rc-p^ct.  
 Til: IMFFERbOP
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810011201:0022/pct:60.16027475672582,32.93254018478674,17.553901927113145,12.78319200101253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810011201:0022/pct:60.148798168637924,32.92837256390787,17.55691212005596,12.785792626339324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ merited, f tender you the assurances of my great es­
 teem and respect.  
 TH t JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810011501:0881/pct:8.140403286034354,20.3930412371134,21.110281304456063,9.39110824742268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810011501:0881/pct:8.138377302140368,20.389756804638427,21.1112493777999,9.393622161378644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ merited, I tender you the assurances of my great es­
 teem and respect.&#x27;  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810011701:0885/pct:8.886138613861386,21.309370988446727,20.99009900990099,9.274711168164313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810011701:0885/pct:8.883939618906211,21.30595218995668,20.99109131403118,9.277234076688593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ merited, I tender youths assurances of my great es­
 teem and respect.’  
 TH: JF.FFERdON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810011901:0889/pct:8.90547263681592,21.34686644111487,21.069651741293534,9.279845335911068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810011901:0889/pct:8.90325789604576,21.343427835051546,21.070629196717235,9.282377577319588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ tiffin the tenure .of our ngkP *nd property. Sin
 «apely wishing you may reap the reward you hav«  
 merited. I fender vou the assurances of ray great es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810012501:0897/pct:8.056171470805618,21.095758354755784,21.72949002217295,8.258354755784062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810012501:0897/pct:8.054187192118226,21.092369477911646,21.730295566502463,8.261044176706827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ merited, I tender you the assurances of my great es­
 teem and resner.t.  
 JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810012901:0901/pct:8.039068369646882,20.64516129032258,21.111945905334334,9.306451612903226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810012901:0901/pct:8.037055583375063,20.64183196258668,21.112919379068604,9.308982422189969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ ir^f our rights nnd nmperty. Sin­
 __gnay reap the reward vou have  
 •r you the assurances of my great es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810013101:0905/pct:8.99755501222494,21.943775100401606,21.589242053789732,7.662650602409639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810013101:0905/pct:8.995355658763138,21.94025056215869,21.590075776093865,7.665435271442338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ rity to the tenure of our rights and property. Sin­
 &#x27; cerrly wishing yon may reap the reward you have  
 merited, I tender you the assurances of my great cs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810020201:0909/pct:6.924034869240349,20.70406687027809,23.063511830635118,8.32663558913358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810020201:0909/pct:6.922310756972111,20.70073931211829,23.06399402390438,8.329315332690454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ merited, f tender you the assurances of my great es­
 teem and respect.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810020501:0913/pct:8.093346573982124,20.45527412632254,21.22641509433962,9.313882654697018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810020501:0913/pct:8.091337800943162,20.4519955121013,21.22735170017374,9.31639685847091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ you the s^urabcesuf my great esteem tc
 respect. ’  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810020901:0054/pct:58.281649033199564,33.5707019328586,17.493615468807004,12.9323499491353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810020901:0054/pct:58.27101951486413,33.56643356643357,17.496504346768802,12.934943844034754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ th-. assurances of my jweat esteem and
 respect*^  
 * Til : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810022001:0065/pct:59.529587455665485,30.658227848101266,17.677804741459774,14.79746835443038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810022001:0065/pct:59.51847704367301,30.65434755094292,17.68072663929327,14.799814369489095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ ihe asswances of flfiy great esteem and
 respect! a f &#x27;*•  
 VTH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810022301:0069/pct:59.011464010524335,30.707559175362686,17.966547641420785,14.672944769661491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810022301:0069/pct:59.000375798571966,30.70365186410485,17.969435049480147,14.675319166984773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

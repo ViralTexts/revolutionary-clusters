@@ -647,7 +647,7 @@ enabie you to do the first.
 To these weekly letters and reports Washington  
 replied by every Monday&#x27;s post, reviewing hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:196.63304887509696,58.4958217270195,46.23739332816137,37.83844011142061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:65.54434962503232,19.498607242339833,15.412464442720456,12.612813370473537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ the night without your knowledge or that of the
 Overseers. No doubt rests upon my min that this  
 is too much practised
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:196.6175329712956,118.20612813370474,45.585725368502715,51.17548746518106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:65.53917765709852,39.40204271123491,15.195241789500905,17.058495821727018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ first.
 To these weekly letters aud reports Wash­  
 ington replied by every Monday’s Post, re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883031301:0618/pct:16.120533508974148,39.08087353011759,11.048904989296888,13.834893208543317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883031301:0618/pct:16.117879486335198,39.076184763047394,11.051201843924925,13.83623275344931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -842,7 +842,7 @@ edge or that of the Overseers. No doubt
 rests upon my mind that this is too much  
 practised
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883031301:0618/pct:15.955870245348263,60.81113510919126,11.114770294747242,18.658507319414447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883031301:0618/pct:15.95324333223576,60.80383923215357,11.117056305564702,18.659268146370724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ enable you to do the first.
 To these weekly letters and reports Washing­  
 ton replied by every Monday&#x27;s post, reviewin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:39.04433921653035,29.715206878022567,10.848041325871717,12.251477700161203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:39.049720189410245,29.72416263657532,10.853422298751614,12.24699982088483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ knowledge or that of the Overseers. No d’onbt
 rests upon my mind that this Is too nineb  
 practised
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:39.06586310804993,48.790972595378825,10.804993542832545,17.517463729177862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:39.07124408092983,48.804406233207956,10.810374515712441,17.517463729177862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1094,7 +1094,7 @@ first.”
 To these weekly letters and rejmrts  
 Washington replied by every M ut lay’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883040701:0189/pct:4.370889030341608,58.94327894327894,12.645873116910673,22.53302253302253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883040701:0189/pct:4.377961666313035,58.95363895363895,12.667091024824952,22.538202538202537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1161,7 +1161,7 @@ I that of the Overseers. No doubt rests
 upon i.iy mind that this is test much  
 practiced
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883040701:0189/pct:4.434542754084447,3.9782439782439782,25.334182049649904,91.96581196581197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883040701:0189/pct:4.4416153900558735,3.988603988603989,25.334182049649904,91.97099197099197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1213,7 +1213,7 @@ you to do the first.&quot;
 To these weekly letters and report  
 Washington replied by every Monday&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1883042501:0271/pct:33.40175150519978,18.028716398574975,15.311986863711002,23.18903163122099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1883042501:0271/pct:25.058163404954154,13.526935118212242,11.482140413302313,17.39177372341574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1280,7 +1280,7 @@ practiced.
 iNov. 3. 17st - Speaking  
 of gentlemen&#x27;s servants it calls to m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1883042501:0271/pct:33.36070060207991,54.24808377415524,14.833059660645867,32.224981107632516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1883042501:0271/pct:25.030792390858082,40.688761740256936,11.126317230053374,24.17143474036489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2060,7 +2060,7 @@ overseers to give them in immediately,
 or they will have to pay for them.&quot;  
 &#x27;1 liese letters present to us the pictur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624621:1892021901:0704/pct:8.282342657342657,93.07432432432432,16.848776223776223,4.054054054054054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624621:1892021901:0704/pct:7.046003343446226,79.11590671771667,14.327286236146369,3.4502262443438916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2083,7 +2083,7 @@ These letters present to us the picture
 of a wise and orderly man striving pa­  
 tiently to get order, beauty and prosper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473078:1892022501:0382/pct:8.498402555910543,100.38157536113383,15.958466453674122,5.723630417007359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473078:1892022501:0382/pct:5.671832561111999,66.9255928045789,10.640677424508707,3.815753611338239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

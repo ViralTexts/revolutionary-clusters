@@ -368,7 +368,7 @@ PuzzÞPd in mazes, and perplex&#x27;d with errors
 Pnizled in Mazes, and perplex’d with errors ;  
 Our understanding traces them in vain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808102501:0207/pct:60.076183566116455,34.342922316563175,16.216216216216218,1.634773792928653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808102501:0207/pct:60.06528835690968,34.3385707045109,16.21932051747068,1.6387903362054401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ Puzzled in mazes and perplexed with errors:
   
 Our understanding traces them in vain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877820:1874031401:0766/pct:326.3823064770932,91.13642678521812,45.26066350710901,6.335093081411503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877820:1874031401:0766/pct:81.61169267232866,22.78410669630453,11.317400750543156,1.5837732703528757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

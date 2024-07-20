@@ -41,7 +41,7 @@ at Philadelphia.&quot; - -
   
 Jefferson, while Secretary of State un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:00200293733:1872080901:0130/pct:30.376028202115158,13.544579061820441,19.24206815511163,6.399502951227089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033437:00200293733:1872080901:0130/pct:22.78871583896562,10.15843429636533,14.443138407287687,4.804804804804805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -63,7 +63,7 @@ it hero at Quincy as really as I could do
 at Philadctyhia.&quot;  
 Jcfierson, while Secretary of State un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293563:1872081401:0875/pct:77.12717291857274,34.96437054631829,22.529734675205855,5.732383214568488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033438:00200293563:1872081401:0875/pct:57.858613589567604,26.223277909738716,16.906886296042096,4.307205067300079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ them. Tile post goes very fapidlv,
 and I answr by r turn of it, so that  
 nothing surTers. or ts lost.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280544:1872102401:0532/pct:38.815441565309364,93.52243009454838,14.66155473294553,14.252665459666064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280544:1872102401:0532/pct:29.11543038476795,70.14685174009254,11.00092555864075,10.692013679340173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ uring the recess of Congress President
 dams followed the example of Washington.  
 efferson and Madison continued the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743877:1874081901:0560/pct:151.9570602807597,94.16126042632067,52.22130470685384,32.88924930491196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743877:1874081901:0560/pct:50.6523534269199,31.387086808773557,17.40710156895128,10.963083101637318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ adelphia. Nothing is done without my advice
 and direction when I am here more than when  
 I am in the same city with the heads of de-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875062401:1155/pct:242.56723312984656,40.68627450980392,46.015508991915524,11.114911080711355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875062401:1155/pct:80.85574437661552,13.562091503267974,15.338502997305175,3.7049703602371182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ SENATOR DORSEY TRUE TO HAYEs.
 Senator Dorsey, whose name has been con­  
 nected with the threatened treachery of Southern 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531289:1877040701:0715/pct:197.39017668990112,90.17919478706074,47.47933214459394,24.842913660693508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531289:1877040701:0715/pct:65.79672556330037,30.059731595686912,15.82644404819798,8.28097122023117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ with (hem. The post roos very rapidly, ami I an*
 swer by tbo return of It, so that nothing suffers or  
 is lost.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877090101:0009/pct:2.65625,29.614767255216695,12.760416666666666,4.093097913322633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877090101:0009/pct:2.67578125,29.624799357945424,12.766927083333334,4.098113964686998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

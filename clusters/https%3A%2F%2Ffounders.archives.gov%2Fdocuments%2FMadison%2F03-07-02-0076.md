@@ -354,7 +354,7 @@ dominions long prior to the state of war be­
 tween the two nil.ions, who had incorporat­  
 ed themselves into our political society, ij^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813120801:0122/pct:51.83104920242642,5.331179321486268,45.72006290721186,91.84902335144662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813120801:0122/pct:51.81940700808625,5.330396475770925,45.717280622941,91.84043073910915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ repose our trust in the smiles of Heaven
 on so righteous a cause.  
 JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813120801:0123/pct:4.251469923111714,4.512608759769946,68.20443238353685,91.90384898982451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813120801:0123/pct:4.250508704499208,4.511943379534061,68.19654834576833,91.89521281824437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1254,7 +1254,7 @@ in the smiles of Heaven on so righteous
 a cause.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813120901:0161/pct:5.401618929016189,6.8086273076220065,90.87795765877958,88.32023396088466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813120901:0161/pct:5.400778210116732,6.808005117426665,90.86900129701687,88.3152091138932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1620,7 +1620,7 @@ pecuniary supplies, will not lie wauling. &#x27; 1
 1 .ie expn.ceg ol the curreni year, from the ninl-l  
 tip.led OUcraiinu* lalliug within ii, have ret&#x27;csk-.rdy 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813120901:0245/pct:23.247832369942195,5.453177886423467,53.10693641618497,92.65387990472608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813120901:0245/pct:23.24363373668051,5.452494359488593,53.10336523990127,92.64644438873569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1715,7 +1715,7 @@ tmg &#x27;tie for.ii&#x27;.-r, a.,,1 of providingprot eti ... against
 the Utter; demonstrating to a i, tbit everv blow  
 aimod at oar n,.»ritime in iej-rndre.r \% . „ j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813120901:0245/pct:58.399566473988436,50.01880406167732,17.666184971098264,39.513601604613264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813120901:0245/pct:58.38901932454398,50.01253446979193,17.66901450845825,39.51282694075374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2208,7 +2208,7 @@ nation, and m ty humbly repose our trust ir
 the smiles of Heaven on so righteous a cause  
 JAMBS MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813120901:0395/pct:20.939197476782898,6.029738906451235,51.84860697389171,86.6643250204894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813120901:0395/pct:20.93552908199019,6.0290330133458205,51.84536323288951,86.6580816358386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2334,7 +2334,7 @@ lofrnuwiee. iiitfiMfdb^a IjKbrfy fanaticisri^ reeeigf propaga­
 §mnwt*B«|i. — 5 &quot;f ■ &#x27;7 a &#x27;■ &#x27;  
 ;-lf|I|^as. imm+r? to emsh such a wagheforeit- could spread s.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813121101:0697/pct:10.672853828306264,12.895069532237674,33.72969837587007,70.72421889109626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813121101:0697/pct:10.669759350536387,12.892741061755146,33.727167294868075,70.71596244131456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2452,7 +2452,7 @@ ited.’ States ■
 hfeet{ tlie enemy  
 is honorabte t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813121101:0697/pct:44.60556844547564,11.359942206971285,25.72505800464037,69.2071518873036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813121101:0697/pct:44.59263554653523,11.357890935355725,25.72484778196579,69.19916937522571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2505,7 +2505,7 @@ Upper Cai^idi^:, Br.Mje* have also bejtn fou^
 dertTwr t  
 on Jlie borifet^fr the St. Lawyrnefe, whielt^ii*5
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813121101:0697/pct:70.53364269141531,32.11125158027813,25.812064965197216,26.675094816687736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813121101:0697/pct:70.51319222963178,32.1054532322138,25.81182951580168,26.674792343806427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2544,7 +2544,7 @@ markets as may correspond *ith the pri­
 vilege* allowed by SaCb powers to A­  
 fcncan citizens, oe referred to a selec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813121101:0166/pct:38.8300322432059,44.65852555404794,17.457392906494704,15.531433740388964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813121101:0166/pct:38.82407123119435,44.654486251808976,17.459830109507728,15.533043897732755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2566,7 +2566,7 @@ Mr. Clay observed, in reply, that, if
 »t belonged to any the committees  
 proposed in the revdutions just agree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813121101:0166/pct:38.92215568862275,63.98009950248756,17.764471057884233,4.712799638172773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813121101:0166/pct:38.91618053423396,63.974312590448626,17.76686111963975,4.715388326097443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2613,7 +2613,7 @@ of hntk.
 1 J»e British Cabinet, either mi it a !  
 Kir.j oar dasiic of sate for r d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813121101:0085/pct:42.48934659090909,46.60729963627242,16.175426136363637,20.569421798570175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813121101:0085/pct:42.481803657021125,46.601454727865566,16.178472098940766,20.57102248975838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2757,7 +2757,7 @@ mar enterprise* of the enemy int*.
 that vifiniiy. With this view a for*.  
 I’-as called into t t* service of, it&#x27; U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813121101:0085/pct:42.41832386363637,5.079643797817634,33.06107954545455,90.63087921735858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813121101:0085/pct:42.410793538079176,5.07900677200903,33.0611278773892,90.62369367109774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2799,7 +2799,7 @@ I&#x27;rfcr ofh ii-.dlir.g Ihtir ordinary propen­
 sity to war Into h passion, which, e­  
 **.*. among best disposed toward
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813121101:0085/pct:59.21519886363637,63.7902922362975,16.264204545454547,18.04841339520883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813121101:0085/pct:59.20468666785017,63.782292450464006,16.267234747618204,18.050330239946494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2932,7 +2932,7 @@ meat, p.i well as a resource peculiar­
 ly adapted *0 a country hariy-&#x27; tl,«  
 extent ami the oxpoeurcof tha IT. &gt;J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813121101:0085/pct:75.60369318181819,5.568794682051926,16.672585227272727,74.42618838580208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813121101:0085/pct:75.59027161370496,5.568096313017306,16.67554293153441,74.42103503051584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3102,7 +3102,7 @@ pose our trust in the smiles of Ucaveu on so
 righteousness a danse.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813121101:0086/pct:6.1900452488687785,4.67077930253053,34.02714932126697,91.14943975827772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813121101:0086/pct:6.188925081433225,4.67019133937563,34.027023766437445,91.1421617992615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4394,7 +4394,7 @@ ports awl markets as ma\ ct&gt;. respond with
 the privileges allowed by such powers to  
 American citizens be referred to a selec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813121301:0399/pct:4.025854108956602,53.1431394343584,18.005540166204987,5.11300481659874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813121301:0399/pct:4.025110782865584,53.13657693257594,18.008370260955193,5.116489668230839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4678,7 +4678,7 @@ ment, to retaliate any other procectiny e
 us, conLraLy 1o the lesiimat@awdes oi wa  
 faree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813121601:0949/pct:52.15875124543341,2.4682926829268292,46.81169046828296,92.8/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813121601:0949/pct:52.16982176464076,2.4747967479674795,46.81169046828296,92.79674796747967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4886,7 +4886,7 @@ nation; and may humbly repose our trust in the
 smiles of Heaven on so nighteous u cause, :  
 JAMLS MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813121601:0950/pct:3.052928488468558,1.0356050892592958,45.92666334826614,92.84939343130486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813121601:0950/pct:3.0584591560201315,1.0421803596672914,45.93772468336928,92.84939343130486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4925,7 +4925,7 @@ tlic market ol the Shores of the Baltic and
 manufacture&#x27;s or by the opposition of our  
 Eastern States to &#x27;he war against her, w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813121601:0256/pct:75.38048343777977,6.864817808730257,17.260519247985677,14.077851013555527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813121601:0256/pct:75.36698890082349,6.8639641880129325,17.263396586704857,14.08024537842991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5130,7 +5130,7 @@ of their cavuge associates ; and who hava not
 controuled them either from their usual  
 practice of indiscriminate massacre o&amp; de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813121601:0429/pct:47.816801139060274,13.824214202561118,45.72852396772662,83.9057043073341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813121601:0429/pct:47.805456702253856,13.822202822639314,45.723606168446025,83.8971337116252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5448,7 +5448,7 @@ may humbly repose our trust in the
 smiles of Heaven on so righteous a cause  
 JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813121601:0430/pct:6.165520512212473,5.929370730998401,68.5321318472848,92.13777067286732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813121601:0430/pct:6.164058795637743,5.928509154315606,68.52181128496917,92.12801511188609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7630,7 +7630,7 @@ of war, ‘ compel citizen* of the United States,*
 | being there under certain circumstances, to bear  
 ■ arms against the United States.” It is not per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813123001:0717/pct:74.08064925183871,73.66349622827157,22.29267055541466,3.345359134142342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813123001:0717/pct:74.06186612576064,73.6514182652894,22.293356997971603,3.3489096573208723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7744,7 +7744,7 @@ And w hat prevented our * minister from haViiig
 ‘fpropse opportunities to press the objects of his  
 mission SI* I* it n*t a fact, well known to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814010101:0721/pct:7.5863795693540315,25.779083047805514,21.331997996995494,6.705824767498776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814010101:0721/pct:7.584480600750939,25.774877650897228,21.33291614518148,6.708809135399674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7796,7 +7796,7 @@ ot a want of power they still avail them­
 selves of such instruments.”  
 One would have supposed, that it was e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814010601:0294/pct:5.3509885724650825,6.190769230769231,17.57663703972429,6.1292307692307695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814010601:0294/pct:5.350018135654697,6.190007383706621,17.579494619755774,6.132578554434326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7882,7 +7882,7 @@ from the success with which it has pleased
 the Almighty to bless our terms, both on  
 the land and on the water.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814012001:0443/pct:2.3227969348659006,45.784341841124174,22.31800766283525,4.201319185546315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814012001:0443/pct:2.322240842710079,45.77777777777778,22.318649748623415,4.204301075268817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9401,7 +9401,7 @@ by the occupancy or command of a large
 portion of Upper Canada ; and by the bat­  
 tles fought on’borders of the St. Lawrence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814021501:0026/pct:59.80085348506401,9.128105211885046,16.657183499288763,7.998051631758402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814021501:0026/pct:59.81033665244192,9.128105211885046,16.666666666666668,8.00779347296639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9444,7 +9444,7 @@ rt«A»mial service.”
 • t«ie b&#x27;H which passed the Senate, nor  
 j the provisJ...! suggested to Congress bv th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814030201:0377/pct:57.93154214206846,14.331762955616167,17.99779168200221,10.699231341433176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814030201:0377/pct:57.92088316467341,14.329986364199826,18.000613308800983,10.702037105904715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9467,7 +9467,7 @@ are employed by her govern­
 ment, in common with native subjects*”  
 This is admitted—Great Britain by he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814031501:0306/pct:0.6348145673237554,6.362213424178252,37.01971266288005,87.04539176871374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814031501:0306/pct:0.6347085351595123,6.36162769287424,37.01909693224208,87.04044681765176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9491,7 +9491,7 @@ recognised by the Jaw and practice of Great
 Britain,” &amp;e. In consequence of this British  
 prisoners have been put in close confinement, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814042301:0846/pct:48.49633560778368,61.40900841445306,21.58200657063432,6.946048506847055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814042301:0846/pct:48.48408287013643,61.39887825800066,21.582870136432543,6.949026723853514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9539,7 +9539,7 @@ ted on the American pri.
 ••ners »f war aent to Great  
 Britain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814042301:0847/pct:51.75057500638896,41.49357072205737,10.707896754408383,19.13946587537092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814042301:0847/pct:51.73735309146653,41.48673149826933,10.71154828819622,19.140431844404155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9574,7 +9574,7 @@ their adopted country, fighting for it&gt;
 rights and safety ” Banners of their a  
 dofited country indeed ! a pretty princi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814051201:0389/pct:25.619834710743802,45.48236141108711,18.67093945016023,6.758459323254139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814051201:0389/pct:25.615514333895447,45.47826869432197,18.673412029229905,6.760850655388584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9592,7 +9592,7 @@ tion,” and tk the Amcric .n minister has
 not been enabled, bv proper opportuni­  
 ties, to press the object of his mission.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814051201:0389/pct:25.8390959689661,58.27933765298776,18.502276943835387,2.564794816414687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814051201:0389/pct:25.834738617200674,58.2740934041213,18.50477796514896,2.5675635142025857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9631,7 +9631,7 @@ me success on j.nke Kne is the first meme
 victory gained ever a British squadron of supe­  
 rior force. Now the force was not superior.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814051401:0870/pct:27.105395864851236,16.916983000495133,21.810388300554717,16.45486053804258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814051401:0870/pct:27.09856314595412,16.914191419141915,21.811192336778422,16.456270627062707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9652,7 +9652,7 @@ a general action, which quickly terminated In&#x27;
 the capture of the Britjsh and dispersion of the  
 savage force.” How the President “ swells i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814051401:0870/pct:27.029752899647,41.508499752434396,21.88603126575895,4.753259613797656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814051401:0870/pct:27.022939248802622,41.5016501650165,21.88681623392992,4.756600660066007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9678,7 +9678,7 @@ down, that an Englishman may fight against his
 native country, because he has adopted another!  
 Upon tire rest of Ibis precious document w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814051401:0870/pct:27.23146747352496,72.25614787918798,21.684316691880987,8.384221818781977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814051401:0870/pct:27.224602974539955,72.24422442244224,21.685152508192587,8.386963696369637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9694,7 +9694,7 @@ Upon tire rest of Ibis precious document w
 American minister lias not been enabled, by pro­  
 per opportunities, to press the object of his mis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814051401:0870/pct:27.332324760463944,84.58491500247565,21.482602118003026,1.4358805083347086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814051401:0870/pct:27.325434837408622,84.57095709570957,21.483488782455257,1.4397689768976898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9741,7 +9741,7 @@ the recovery of Detriot. American valor has
 also been well displayed by the battles fought  
 on the borders of the St.Lawrenee. Our tri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814080201:0126/pct:25.82059988681381,26.65117179934147,17.02037351443124,6.585318613209375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814080201:0126/pct:25.825315978117338,26.657627994060302,17.02037351443124,6.5885467105687905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9768,7 +9768,7 @@ assembling, a» well as the subsequent move­
 ments, of detachments called into the Nati­  
 onal service.&quot; I have heard that die expen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814110201:0286/pct:4.665385287436659,72.01166180758017,16.285165123187138,7.067055393586005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814110201:0286/pct:4.664570230607967,72.00326492537313,16.28814348940135,7.07011815920398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9786,7 +9786,7 @@ ages into present peace, but make a lasting im­
 pression en their fears.”  
 The foreign papers, which we have received
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815022101:0242/pct:29.496402877697843,60.5819353615771,15.96307859372879,2.170410387640982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815022101:0242/pct:29.50092755983892,60.5819353615771,15.96760327586987,2.1830474204656745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10047,7 +10047,7 @@ signally honorable to Major General
 Harrison, by whose military talents it  
 was peilormed.” “Its effect” he con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836050701:0332/pct:1.9021739130434783,25.893155258764608,17.119565217391305,7.312186978297162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836050701:0332/pct:1.9017041244751791,25.88883324987481,17.121511484317114,7.315139375730262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10069,7 +10069,7 @@ The Bon. L. Cheves, on the floor
 of Congress, in alluding to the battle ol  
 the Thames, remarked : “The victor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836050701:0332/pct:4.150197628458498,33.27212020033389,14.871541501976285,5.258764607679466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836050701:0332/pct:4.149172635218572,33.26656651644133,14.874042973573722,5.262059756301118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10206,7 +10206,7 @@ the British, and dispersion of the savage force.
 hal Hakiusun, by whose military talents it was pre­  
 pared
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840011101:0030/pct:34.714003944773175,7.7783491900231425,15.743231127846512,4.847004371303677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840011101:0030/pct:34.719980873827026,7.782634781863376,15.743231127846512,4.855575554984143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10231,7 +10231,7 @@ This result is signally honorable to Major Gene- I
 IUL Harrison, by whose military talents it was pre­  
 pared. ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840011401:0035/pct:2.201933404940924,39.60964408725603,16.219119226638025,5.3833397116979205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840011401:0035/pct:2.2079007041413057,39.60964408725603,16.225086525838407,5.396096440872561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10267,7 +10267,7 @@ rai. Harrison, by whose military talents it was pre­
 pared.  
 The following trihuteof praise was paid to Gene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840012301:0047/pct:2.5397961008764085,37.94798809677837,15.98998390270077,5.938672532022254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840012301:0047/pct:2.5517200262326356,37.94798809677837,15.995945865378882,5.947298054944581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10294,7 +10294,7 @@ Eral HArrison, by wh se military talents it was
 prepared.&quot;  
 The following, tribute of praise was paid t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840020301:0047/pct:77.78608825729245,310.33040568799663,57.36724008975318,24.81527952042381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840020301:0047/pct:19.45379723157501,77.58260142199916,14.34717545828657,6.203819880105953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10319,7 +10319,7 @@ This result is signally honorable to Major Gene­
 ral Harrison, by 1chose tnililaiy talents it teas pre­  
 pared
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840020401:0067/pct:2.431994235272924,39.01413832632786,15.780940371104306,5.298688065214622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840020401:0067/pct:2.437999159310635,39.01413832632786,15.786945295142017,5.302933808856621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10343,7 +10343,7 @@ This result is signally honorable to Major Gen­
 eral Hakkisor, by whose military talents it was  
 prepare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840020601:0444/pct:20.3812893081761,32.01219512195122,15.389150943396226,4.947339246119734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840020601:0444/pct:20.377284338769897,32.00775945683802,15.391039496954216,4.950117777469863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10394,7 +10394,7 @@ This result is signally hnnorahU to Major Gene­
 ral Harrison, by whose militaiy talents it was pre  
 pared.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840020801:0076/pct:2.10508588750421,38.61101115509176,15.779723812731559,5.325656711047139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840020801:0076/pct:2.10508588750421,38.61101115509176,15.796564499831593,5.333653192595258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10415,7 +10415,7 @@ posed on its citizens the most harrassing service.&quot;
 And reference to this trrumph is found in the  
 message of the patriotic Gevernor Suider to the L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840021301:0226/pct:196.79474802085343,178.18918137113104,60.9577138443715,13.78362742262077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840021301:0226/pct:49.189189189189186,44.540853217642805,15.236486486486486,3.445408532176428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10439,7 +10439,7 @@ action, which quickly terminated in the
 capture of the Birtish, and dispersion of  
 the savage foe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840022001:0909/pct:95.30973451327434,202.5,58.67256637168141,23.928571428571427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840022001:0909/pct:23.843258800088556,50.625,14.677883551029444,5.982142857142857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10464,7 +10464,7 @@ This result is signally honorable to Major Gene­
 ral Harrison, by whose military talents it was pre­  
 pared
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840022201:0097/pct:2.3736737996763173,38.35792174470814,15.554756338787987,5.375240538806928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840022201:0097/pct:2.3736737996763173,38.366474235621126,15.566744590301505,5.379516784263417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10520,7 +10520,7 @@ ral Harrison, by whose mililat ^ tatenti il was pre- I
 pared.  
 The following tributeol praise was paid to Gene- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840022701:0105/pct:2.434625788999098,38.94329896907217,16.140667267808837,5.86340206185567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840022701:0105/pct:2.4406372107003307,38.95189003436426,16.14667868951007,5.86340206185567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10551,7 +10551,7 @@ Major General Harrison, by whose mili
   
 tary talents it was prepare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1840022901:0714/pct:11.744186046511627,68.66595263596335,16.700581395348838,9.103891467333096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1840022901:0714/pct:8.810700785111951,51.505414732833515,12.532712997964525,6.830893728430323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10598,7 +10598,7 @@ This result is signally honorable to Major Gene­
 ral Harrison, by whose military talents it teas pre­  
 pared
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840030701:0123/pct:4.0718349928876245,38.22574360306533,15.54054054054054,5.3903104299259645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840030701:0123/pct:4.077761972498815,38.23007316967571,15.54054054054054,5.3946399965363465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10624,7 +10624,7 @@ age force.; J---&#x27; &#x27;-? !i iJ
 jor General Harrison, by whose military  
 talents it teas prepared? &#x27; a ( . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065543:0029587823A:1840030701:0713/pct:0.79963789981895,70.95881310894598,21.122510561255282,9.864924712134632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065543:0029587823A:1840030701:0713/pct:0.6036824630244492,53.22187776793623,15.84666465439179,7.395925597874225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10649,7 +10649,7 @@ dispersion of the lavage force.
 This result is signally honorable lo Major General  
 Harrison, by whose military talents it was prepared
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840031001:0125/pct:67.38053097345133,19.760479041916167,15.5929203539823,6.0921634990887785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840031001:0125/pct:67.38643067846607,19.760479041916167,15.5929203539823,6.096502646880153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10675,7 +10675,7 @@ HArrrson, by whose military talints it was pre
 pared.  
 The following tribute of pmise was paid t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840031001:0552/pct:160.57185854025582,237.6536312849162,69.82693754702784,27.821229050279328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840031001:0552/pct:40.142964635063954,59.41340782122905,17.45673438675696,6.955307262569832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10701,7 +10701,7 @@ General Harrison, by whose military talents it
 was prepared.&quot;  
 Tho following tribute of praise was paid t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1840031201:1006/pct:81.40297202797203,70.39199332777315,23.68881118881119,9.716430358632193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1840031201:1006/pct:61.09774764924557,52.793994995829856,17.778263721845615,7.297748123436197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10729,7 +10729,7 @@ The following tribute of praise was paid to Gene­
 ral Harrison, in 1S11, by eleven of the officers who  
 fought under his b inner at the battle of Tippecanoe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840031701:0139/pct:1.4448257178977786,37.65360238002846,16.236229004876286,6.790842064415988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840031701:0139/pct:1.450845825055686,37.66222567153883,16.236229004876286,6.786530418660803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10755,7 +10755,7 @@ HArrison, by whose mililary talents it was pre
 pared.  
 The follow ing tribtite of praise was paid t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840031701:0559/pct:101.73978819969743,266.59173925259904,71.18003025718608,27.08626018544535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840031701:0559/pct:25.44938505203406,66.64793481314976,17.80510879848628,6.771565046361338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10815,7 +10815,7 @@ This result is signally honorable to Major Gene­
 ral Harrison, by whose military talents it was pre­  
 pared
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840040401:0171/pct:3.2559812915992086,38.1612737544941,15.560352581399533,5.3287108371854135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840040401:0171/pct:3.261977573904179,38.165553843519945,15.560352581399533,5.332990926211266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10840,7 +10840,7 @@ TAi&#x27;s result is signally honorable to Major Gen
 eral Harrison, by whose military talents it was  
 prepared
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840040401:0012/pct:30.44176706827309,54.61068702290076,19.63855421686747,7.404580152671755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840040401:0012/pct:22.83591082546696,40.961832061068705,14.741916047399076,5.557251908396947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10865,7 +10865,7 @@ This result is signally honorable to Major Gene­
 ral Harrison, bij whose military talents it was pre­  
 pared
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840041101:0180/pct:1.8440196244290306,37.75313404050144,15.56420233463035,5.327868852459017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840041101:0180/pct:1.8440196244290306,37.76117004178721,15.569841538374781,5.327868852459017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10886,7 +10886,7 @@ as would have secured to a Roman General, in the
 best days of the republic, the honors of a triumph.&quot;  
 &quot;He put an end to the war in the uppermost Can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840041301:0087/pct:263.39820359281435,67.32179930795847,57.18562874251497,13.508650519031141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840041301:0087/pct:65.88653810147912,16.830449826989618,14.304437371278787,3.3771626297577853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10913,7 +10913,7 @@ General Harrison, by whose military talents it
 was prepared.&quot;  
 The following tribute of praise was paid t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016474:00296026402:1840041501:0023/pct:54.39400249895877,27.915407854984895,16.3265306122449,6.525679758308157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016474:00296026402:1840041501:0023/pct:54.40788560322088,27.925478348439075,16.3265306122449,6.520644511581067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10939,7 +10939,7 @@ eral Ha iitisox, Oy whose military talents it was
 prepared.  
 The following tribute of praise was paid to Gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050201:0028/pct:7.681564245810056,56.337164750957854,19.692737430167597,8.199233716475096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050201:0028/pct:5.7684630738522955,42.252873563218394,14.790419161676647,6.160919540229885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10964,7 +10964,7 @@ ral Harrison, by whose military talents it teas pre­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840051601:0207/pct:1.477293452489513,35.71244855967078,15.648367681925953,5.426954732510288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840051601:0207/pct:1.4894522463371633,35.7210219478738,15.642288285002127,5.422668038408779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10988,7 +10988,7 @@ This result is signally honorable to Major Gene­
 ra!. Harrhon, 6y whose military talents it was pre­  
 pare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840051901:0211/pct:2.674376581134803,35.25436695142165,15.720997470184315,4.755833227081474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840051901:0211/pct:2.674376581134803,35.262867100174255,15.720997470184315,4.760083301457776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11040,7 +11040,7 @@ ral Harrison, by trhose military talents it was pre­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840052101:0215/pct:3.737646001796945,35.245370969830375,15.615453728661276,5.528939531270232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840052101:0215/pct:3.7496256364180893,35.25400319392291,15.615453728661276,5.528939531270232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11065,7 +11065,7 @@ ral Harrison, by whose military talents it irat pre­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840052301:0219/pct:2.2046961821114897,35.081164648286524,15.773436099659436,5.51404277248132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840052301:0219/pct:2.216645754914262,35.08545907412179,15.767461313258051,5.51404277248132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11090,7 +11090,7 @@ savage force.
 eral Harrison, by whose military talents it was pre  
 pared
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840052501:0112/pct:202.43362831858408,35.354516442347716,56.48967551622419,21.36811433328708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840052501:0112/pct:50.60840707964602,8.838629110586929,14.122418879056047,5.34202858332177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11115,7 +11115,7 @@ rai. Harrison, by whose military talents it iras pre­
 ?pa red. .  
 The followini&gt; tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840052601:0223/pct:4.399714998218739,35.31233866804337,15.586034912718205,5.4723799690242645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840052601:0223/pct:4.399714998218739,35.32094303906384,15.59197244982781,5.4723799690242645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11140,7 +11140,7 @@ ral Harrison, by whose military talents it tras pre­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840052801:0227/pct:3.319502074688797,35.192182410423456,15.533104816886162,5.52442996742671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840052801:0227/pct:3.319502074688797,35.192182410423456,15.539118407601178,5.528773072747014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11165,7 +11165,7 @@ ral Harrison, by whose military talents it vat pre­
 pared.  
 The following tribute of praise nai paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840053001:0231/pct:3.509719222462203,35.13827862496769,15.712742980561556,5.518221762729388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840053001:0231/pct:3.509719222462203,35.13827862496769,15.730741540676746,5.52683725338158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11191,7 +11191,7 @@ eral Harkison, by whose military talents it was
 prepared.  
 The following tribute of praise was paid to Gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840053001:0044/pct:6.957735247208931,54.99461289826073,19.557416267942585,8.219178082191782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840053001:0044/pct:5.22432701894317,41.24980760350931,14.675972083748754,6.172079421271356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11216,7 +11216,7 @@ savage foe.
 Harrison, by whost nit&#x27;itary tulents it toas prepar.  
 ed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840060101:0115/pct:317.9315476190476,244.84342379958247,56.99404761904762,20.876826722338205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840060101:0115/pct:79.49767441860465,61.21085594989562,14.251162790697675,5.219206680584551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11242,7 +11242,7 @@ xral Harrison, by whose military talents it teas
 prepared.  
 The following tribute of praise was paid to Ge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840060601:0048/pct:7.658730158730159,54.26179604261796,19.841269841269842,8.082191780821917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840060601:0048/pct:5.755110140900973,40.70015220700152,14.88390553681286,6.057838660578387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11266,7 +11266,7 @@ This result is signally honorable to Major Gk.NF.­
 ral Harrison, by whose military talents it irat pre­  
 pared. ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840060901:0247/pct:2.81893747741236,35.620872717855754,15.522226237802675,4.920367732746342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840060901:0247/pct:2.8249608480905914,35.62950494194829,15.516202867124443,4.916051620700073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11290,7 +11290,7 @@ This result is signally honorable to Major Gene­
 ral Harrison, hy irhose military talents it irai pre  
 pare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840061101:0251/pct:3.228715728715729,35.194519839731164,15.63852813852814,4.782215328938865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840061101:0251/pct:3.2347282347282347,35.20313644392745,15.656565656565656,4.782215328938865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11320,7 +11320,7 @@ The following tribute of praise was paid to General |
 Harrison, in 1811, by eleven of the officers who fought  
 under his banner at the battle of Tippecanoe 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840061301:0255/pct:2.3196810438564697,4.62293388429752,15.857194635737587,37.048037190082646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840061301:0255/pct:2.3196810438564697,4.627238292011019,15.863235471789295,37.048037190082646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11345,7 +11345,7 @@ ral Harrison, by whose military talents it was pre­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840061801:0263/pct:3.8309352517985613,34.51178451178451,15.53956834532374,5.477855477855478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840061801:0263/pct:3.8309352517985613,34.520417853751184,15.53956834532374,5.477855477855478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11379,7 +11379,7 @@ This result is signally honorable to Major GkNE­
 HaI. Harrison, Ay whose military talents it was //re­  
 pare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840062301:0271/pct:3.667745415318231,34.30075767304482,15.516001438331536,4.661615513034545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840062301:0271/pct:3.667745415318231,34.30075767304482,15.516001438331536,4.670176790377124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11423,7 +11423,7 @@ This result in signally honorable to .Major Gene­
 ral Harrison, by whose military talents it inn fire­  
 pared.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840062501:0275/pct:3.597769382982551,34.868933298728265,15.74024105054866,4.801453412924993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840062501:0275/pct:3.6037656652875216,34.8732589324336,15.73424476824369,4.801453412924993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11458,7 +11458,7 @@ raI. Harrison, by uhuse military talents it tea* pre­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840063001:0283/pct:2.4385870539716694,35.715210355987054,15.617715617715618,5.5792880258899675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840063001:0283/pct:2.4445639830255215,35.72384034519957,15.635646404877175,5.5792880258899675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11509,7 +11509,7 @@ RAL Harrison, bj whose military talent it was pre
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840070701:0291/pct:3.7780187997107735,35.69412368488581,15.690527838033262,5.452912496792404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840070701:0291/pct:3.7780187997107735,35.70267727311607,15.690527838033262,5.452912496792404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11533,7 +11533,7 @@ This result is signally honorable to Major Gr.sr.­
 Rai. Harrison, by whose military talents it was /ire­  
 pared.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840071101:0299/pct:2.9385414800215015,35.044962856770496,15.463178641820463,4.8351361918415225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840071101:0299/pct:2.9385414800215015,35.05365133150875,15.481096577674252,4.830791954472392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11558,7 +11558,7 @@ haI. Harrison, fty whose military talents it was pre­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840071401:0303/pct:2.007596310363538,35.17339914274581,15.789473684210526,5.403299129757111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840071401:0303/pct:2.019653945861217,35.182058275966575,15.777416048712848,5.398969563146729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11583,7 +11583,7 @@ ral Harrison, by ichnie military talents it tra? pre­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840071601:0307/pct:2.449126598235188,34.97147302904564,15.70322348280209,5.433091286307054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840071601:0307/pct:2.4611321207755568,34.97147302904564,15.69121796026172,5.441735822959889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11621,7 +11621,7 @@ rison is now as he ever has been since the last
 war, an object or slander and ridicule by the  
 loyal subjects of Great Britain. And as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840072101:0628/pct:230.91859596713965,96.84862127180642,70.64973861090365,71.86268992684299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840072101:0628/pct:57.751214045573406,24.212155317951606,17.66903249906612,17.965672481710747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11646,7 +11646,7 @@ ral Harbison, by whose military talents it teas pre- j
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840072501:0319/pct:4.036598493003229,34.43195036835983,15.823466092572659,5.402610831071475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840072501:0319/pct:4.04257863891879,34.436258670457974,15.823466092572659,5.406919133169618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11671,7 +11671,7 @@ ral Harrison, by whose military talents it was pre­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840080701:0334/pct:3.0559050871831746,35.4648176682075,15.746899155132123,5.3929121725731894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840080701:0334/pct:3.0559050871831746,35.4648176682075,15.76487506740967,5.401472350624893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11696,7 +11696,7 @@ rai. Harrison, by whose military talents it was fir Cl­
 int red.  
 The following tribute of praise was jmid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840081101:0338/pct:2.163243046718778,35.3411582613182,15.742592255953463,5.430156068618599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840081101:0338/pct:2.163243046718778,35.34975708327959,15.742592255953463,5.430156068618599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11720,7 +11720,7 @@ This result is signally honorable to .Major Gene­
 ral Harrison, by whose military talents it was pre­  
 pare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840082101:0346/pct:3.0733285406182604,34.25064599483204,15.546369518332135,4.8062015503875966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840082101:0346/pct:3.0793194344596215,34.25925925925926,15.552360412173496,4.8062015503875966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11746,7 +11746,7 @@ of the savage force.
 Gen. Harrison, by wkeme military tulenhrit o)tt!f  
 prepared
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840082201:0423/pct:53.843175217812195,6.026312066770406,28.654404646660215,90.4229735464705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840082201:0423/pct:53.843175217812195,6.035742915075211,28.660858341400452,90.4229735464705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11771,7 +11771,7 @@ age force.
 Harrison, by whose military talents it was prepar-  
 ed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840082401:0163/pct:196.8242245199409,90.38031319910515,56.72082717872969,20.74944071588367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840082401:0163/pct:49.22423346878463,22.595078299776286,14.185445142223864,5.187360178970917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11797,7 +11797,7 @@ hal Harrison, by whose military talents it was pre­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840082501:0350/pct:2.7648114901256733,33.99922168893501,15.637342908438061,6.0319107536645475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840082501:0350/pct:2.7648114901256733,34.00786958965711,15.649311789347696,6.0319107536645475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11824,7 +11824,7 @@ This result is signally honorableto MMAion Gener
   
 at Ianarsos, by wshose militury tatente if wuspr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840082801:0777/pct:16.521317829457363,258.0825116761806,37.1124031007752,14.322781525687597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840082801:0777/pct:5.508885298869144,86.0275038920602,12.374798061389338,4.7742605085625325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11848,7 +11848,7 @@ This result is sifinnllij honorable to Major Gene­
 ral IDriusun, b\j whose military talents it was jire­  
 jtared
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840090101:0358/pct:1.8662801232107267,34.323730784136416,15.83620221054539,4.908926495284847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840090101:0358/pct:1.8662801232107267,34.323730784136416,15.848281693543516,4.913232571157904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11873,7 +11873,7 @@ Hal Harrison, by whose military talents it was pre­
 pa red.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840090401:0362/pct:2.419061476900691,34.270967741935486,15.933066569661696,5.445161290322581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840090401:0362/pct:2.4251242876197403,34.27956989247312,15.939129380380745,5.449462365591398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11907,7 +11907,7 @@ This result is signally honorable to .\Tajor Gene­
 ral Harrison, by whose military talents it was pre­  
 pared
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840090801:0366/pct:2.3580627607473246,33.626828952479606,15.780881552693634,4.829729379774699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840090801:0366/pct:2.3580627607473246,33.63546117657214,15.78692786746478,4.834045491820968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11935,7 +11935,7 @@ jor General Harrison, by whose military
 talents it was prepared.11  
 The fclfowinar tribute of praise was pai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn87065543:00415662026:1840091201:0033/pct:74.1060225846926,78.49158979924037,21.486825595984943,12.425393380358111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn87065543:00415662026:1840091201:0033/pct:55.60960301270987,58.871405317417256,16.130550761023066,9.321758003255562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11960,7 +11960,7 @@ ral Harrison, by irhose military talents it iras pre­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840091501:0374/pct:3.7472845763939175,34.36328377504848,15.731354091238233,5.481577246283129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840091501:0374/pct:3.7533188510741007,34.3675931911226,15.72531981655805,5.485886662357251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11984,7 +11984,7 @@ This result is signally honorable to Major Gfnf­
 Ral Harbison, by whose military talents it was pre­  
 pared. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840091801:0378/pct:2.2016011644832605,34.52227659026526,15.884279475982533,4.8544939479783675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840091801:0378/pct:2.2016011644832605,34.53086101811314,15.884279475982533,4.85878616190231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12032,7 +12032,7 @@ posed on iu citizens the most harrassing ser­
 vices.&quot;  
 In the whole message, the names of Brown
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840092501:0384/pct:19.58521190261497,3.5,31.776375112714156,93.37179487179488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840092501:0384/pct:19.5912233243162,3.5,31.794409377817853,93.37606837606837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12056,7 +12056,7 @@ This result is signally Hon ? hie to Major Gene­
 NaL IIuihison, by ichose military talents it teas pre­  
 pare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840092501:0386/pct:2.02991452991453,34.280979092299845,15.491452991452991,4.831718510963794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840092501:0386/pct:2.0417853751187085,34.289478157402684,15.491452991452991,4.835968043515213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12091,7 +12091,7 @@ ral Harrison, by whose military talents it was pre­
 pared.  
 The following tribute of praise was j&gt;aid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840092901:0390/pct:4.033129276197335,34.566326530612244,15.628375945264674,5.38265306122449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840092901:0390/pct:4.045132637138399,34.574829931972786,15.634377625735207,5.38265306122449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12110,7 +12110,7 @@ been to rescue the inhabitants of .\llchi-‘
 gan lrom oppression—~to alienate the  
 suvages of numerous tribes from the en- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1840100101:0951/pct:5.610514414923686,35.12012813667913,12.817976257772752,2.808328884143086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1840100101:0951/pct:5.610514414923686,35.12724684107492,12.817976257772752,2.811888236340986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12135,7 +12135,7 @@ bai. Harrison, by whose military talents it was pre­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840100201:0394/pct:1.5190336749633968,35.0294796206101,15.995607613469986,5.434503973340169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840100201:0394/pct:1.5251342118106392,35.03802443817825,15.995607613469986,5.438776382124241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12179,7 +12179,7 @@ ought at an advanced age, a share in the hardships
 and battles for maintaining its rights and safety.&quot;  
 MysrerIOes Areaia. Extract of a letter dated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030312:00271743142:1840100501:0894/pct:51.34558582212012,175.14001600182877,53.72497538562521,26.1629900560064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030312:00271743142:1840100501:0894/pct:17.11519527404004,58.380005333942925,17.908325128541733,8.720996685335466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12206,7 +12206,7 @@ The following tribute of praise was paid to Genersl
 Harrison, in 1&amp; i1, by eleven of the officers who fought  
 under his banner at the battle of Tippecano
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840100601:0398/pct:2.3399238164338834,34.68692690594708,15.90785416288772,6.392454807440398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840100601:0398/pct:2.3399238164338834,34.69565976770588,15.92599310720116,6.392454807440398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12231,7 +12231,7 @@ ral Harrison, by whose military talents it ifiu pre­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840100901:0402/pct:2.930535455861071,35.30927835051546,15.7561505065123,5.463917525773196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840100901:0402/pct:2.930535455861071,35.31786941580756,15.762180414857694,5.463917525773196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12255,7 +12255,7 @@ This result is signally honorable to Major Gene­
 ral Harrison, by whose military talents it was pre­  
 pared. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840101301:0406/pct:2.0253164556962027,35.023219814241486,15.750452079566003,4.863261093911249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840101301:0406/pct:2.0313441832429175,35.031819745442036,15.744424352019289,4.858961128310973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12280,7 +12280,7 @@ kaL HiHRison, by whose military talents it was pre­
 pa-ed.  
 The following tribute of piaisc was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840101601:0410/pct:3.81651376146789,35.84639095812998,15.688073394495413,5.48420241459029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840101601:0410/pct:3.8226299694189603,35.85067214658789,15.688073394495413,5.4884836030482065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12305,7 +12305,7 @@ HAk Harrison, by whose military talents it tras pre­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840102301:0418/pct:3.291958985429034,34.94907825190151,15.74024105054866,5.427355936573417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840102301:0418/pct:3.291958985429034,34.94907825190151,15.752233615158602,5.435950324438142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12330,7 +12330,7 @@ ral Harrison, by whose military talents it was pre­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840102701:0422/pct:3.089080459770115,34.12127440904419,15.55316091954023,5.331449126413156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840102701:0422/pct:3.095067049808429,34.12127440904419,15.547174329501916,5.340013703323056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12355,7 +12355,7 @@ ra l. Harrison, by whose military talents it was pre­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840103001:0426/pct:3.855289603508131,34.663945925264635,15.823131737621049,5.458487437826808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840103001:0426/pct:3.855289603508131,34.67244824214598,15.835312747426762,5.458487437826808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12390,7 +12390,7 @@ ral Harrison, by whose military talsnts it was pro­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840110301:0430/pct:1.1863478736995803,35.94729435844953,16.00657054206972,5.4496609952667265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840110301:0430/pct:1.1863478736995803,35.95155856893096,16.00657054206972,5.453925205748155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12415,7 +12415,7 @@ ral Harrison, by whose military talents it was pre­
 pared.  
 The following tribute of praise was paid to Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840110601:0434/pct:3.503069700252799,34.31410011463508,15.655471289274105,5.3878486816966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840110601:0434/pct:3.515107740459853,34.32259160191908,15.643433249067051,5.3878486816966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12446,7 +12446,7 @@ guaage:
 “ The blensings of thoutand* of women anil  
 children rescued from ihe ncal, ing knife of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1841052701:0087/pct:68.65021770682148,70.40233700703757,12.481857764876633,7.967069446288673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1841052701:0087/pct:68.63776528206058,70.39298990971854,12.484128423725739,7.969330855018588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12467,7 +12467,7 @@ might to be dependent on none; and is even rapidly giving
 them an extent which will create additional staples hi our  
 future intercourse with foreign markets.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846072701:0761/pct:14.537935422299984,52.78125783011777,14.378877047876571,2.7060886995740416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846072701:0761/pct:14.537935422299984,52.78960995573373,14.384178993690684,2.7102647623820264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12567,7 +12567,7 @@ amine Gen Scott&#x27;s pretension of having been the
 man who put this retaliatory system into opera-­  
 tion. Observe what a heroic demonstration h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852092201:0531/pct:2.1402089652847995,228.3626062322946,48.887765419615775,59.274787535410766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852092201:0531/pct:0.7134029884282664,76.1208687440982,16.29592180653859,19.75826251180359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12633,7 +12633,7 @@ effectuating a return to the established usages oi war.
 VVith these fad* before the reader, let him examine  
 | General Scott&#x27;s pretentions of having been the man wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852092501:0936/pct:64.09709693291782,26.871181262729124,16.024274233229455,24.121690427698574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852092501:0936/pct:64.1025641025641,26.871181262729124,16.035208572522006,24.13017651052274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12701,7 +12701,7 @@ Gen. ^cotpi pretension of having been the man who put
 this retaliatory system into opeiatiou. OI&gt;aerve what a  
 heroic demonstration he makes of himself, in setting u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852100701:0974/pct:48.39494163424124,12.128524257048515,31.33916990920882,85.17907035814072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852100701:0974/pct:48.40034587116299,12.132757598848531,31.35538261997406,85.18330369994074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12785,7 +12785,7 @@ amine General Scott&#x27;s pretension of having been
 the man who put thisretaliatoiy system into opera­  
 tion. Observe what a heroic demonstration h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016866:00295877625:1852102301:0032/pct:47.06959706959707,6.57336239531949,42.124542124542124,121.81943329126993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016866:00295877625:1852102301:0032/pct:35.3183692166743,4.93288975564988,31.623148572301115,91.36170700929219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12814,7 +12814,7 @@ Believing that properly organized militia should
 be regarded as the great bulwark of defence and se-­  
 curity for the support of the laws and independenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853012901:0221/pct:7.480711170748071,87.48425512424139,48.47366655484737,20.92064582617657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853012901:0221/pct:2.493570390249357,29.16141837474713,16.157888851615787,6.973548608725524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12861,7 +12861,7 @@ The third and last point of view in which this history
 deserves animadversion is to be found in the following  
 paragraph on pages IOC and 197 of the firat volume
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854102801:0323/pct:3.849923001539969,70.59607059607059,15.469690606187877,11.843711843711844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854102801:0323/pct:3.849923001539969,70.6034706034706,15.479023752858277,11.843711843711844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12967,7 +12967,7 @@ nitude.&quot;
 In his animal message of the &quot;Oth of September,  
 ISM, Cougress having been convened in anticipatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857091501:0319/pct:57.896261953057085,50.023802723031515,14.763836569110403,4.608207178901266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857091501:0319/pct:57.90109147107119,50.030150115839916,14.768666087124505,4.611380875305469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12995,7 +12995,7 @@ its uaval ann^la with a victory never sqri
 paued in lustre, however much it ipajf  
 hayo beep in magnitude.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1857092401:0673/pct:29.680759275237275,85.5243553008596,13.963186655162497,8.148997134670488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1857092401:0673/pct:29.680759275237275,85.52817574021013,13.967980059438213,8.156638013371538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13023,7 +13023,7 @@ u
 OetMl III IILigllllUUC.  
 In his annual message of tho 20th o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1857100101:0196/pct:22.175141242937855,33.36761406133134,16.98446327683616,9.508227374719521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1857100101:0196/pct:16.63331371394938,25.028047868362005,12.748675691583284,7.133507853403142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13051,7 +13051,7 @@ war between the two nations, Ac.,&quot; adding that
 &quot;the protection due to these citizens required an  
 effectual interposition in their behalf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557190:1859071901:0062/pct:18.68346344925479,67.14723143659097,12.63307310149042,5.6391936718550655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557190:1859071901:0062/pct:18.69233498935415,67.14723143659097,12.6375088715401,5.648762439397806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13077,7 +13077,7 @@ was never surpassed in lustre, however much
 it may have been in magnitude;&quot; nor may I  
 detail the consequences of that noble succes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775678:1860091001:0349/pct:150.77138849929875,269.651086240948,43.75876577840112,20.85582620144832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775678:1860091001:0349/pct:37.69284712482469,67.412771560237,10.93969144460028,5.21395655036208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13204,7 +13204,7 @@ pendence of his country, sought, at an advanced age, a
 share in hardships and battles for maintaining its rights  
 and its safet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:0020653090a:1868111101:0496/pct:104.73400154202005,263.27732926030984,47.9568234387047,21.361553567532184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:0020653090a:1868111101:0496/pct:34.91133384734002,87.75910975343662,15.985607812901568,7.120517855844062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13321,7 +13321,7 @@ however much it may have been in magnitude.&quot;
 Tho attempt in subsequent years to wrest the  
 glory of this victory from commodore Perry, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1881092201:0334/pct:98.40695148443157,77.68076398362892,14.627081824764664,8.949522510231924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1881092201:0334/pct:73.81857686040196,58.267394270122786,10.972297664312874,6.712141882673943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13352,7 +13352,7 @@ magnitude.&#x27;&#x27; The attempt in subsequent
 years to wrest the glory of this victory  
 from Commodore Perry, and transfer th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83008556:00296028526:1881111001:0371/pct:43.24289736370617,81.60229162816485,12.452009214230868,8.473479948253557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83008556:00296028526:1881111001:0371/pct:43.25142905895402,81.60537177354772,12.452009214230868,8.482720384402144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13389,7 +13389,7 @@ resource neculiarly adapted to a country hav.­
 ing the extent and exposure of the United  
 States.&quot; In 1814 the subject was again take
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892040401:0251/pct:269.5121951219512,165.23467359730927,50.15243902439025,7.521785659685063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892040401:0251/pct:67.40373617994662,41.30866839932732,12.54288982081586,1.8804464149212659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13465,7 +13465,7 @@ g.. waft for the evidence before reaching a
  was directed.  
  But while he hoped, for the credit of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022801:0774/pct:0.07763975155279502,213.11922435994546,66.77018633540372,38.539615209816695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022801:0774/pct:0.019417475728155338,53.279806089986366,16.699029126213592,9.634903802454174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13490,7 +13490,7 @@ by every occasion that puts it to the
 test.- -James Madison.  
 The teachers&#x27; institute will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898030501:0216/pct:5.408583186360964,81.43313798614811,18.302959043699783,9.523175279701652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898030501:0216/pct:5.4134822653341175,81.43313798614811,18.31275720164609,9.543153969099627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13525,7 +13525,7 @@ ty of all and of each, is strengthened
 by every occasion that puts it to the  
 test. James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1898031101:0251/pct:72.35039028620989,290.79348258047423,51.98612315698178,28.255398065969004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1898031101:0251/pct:18.08759757155247,72.69837064511856,12.996530789245446,7.063849516492251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13551,7 +13551,7 @@ freedom anfl tho safety of all and of
 each, Is strengthened by every occasion  
 that puts it to the test
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898041001:0504/pct:6.4802314368370295,5.877218504509747,25.033751205400193,87.53273203375036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898041001:0504/pct:6.489874638379942,5.877218504509747,25.03857280617165,87.54364271166715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13580,7 +13580,7 @@ strengthened by every occasion that puts
   
 ic to tne test. James iladison. New
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023504:1898052701:0865/pct:77.53646163601776,65.78634051304253,21.813570069752696,6.689035609914493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023504:1898052701:0865/pct:51.71265461465271,43.85756034202836,14.541706311449413,4.459357073276329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

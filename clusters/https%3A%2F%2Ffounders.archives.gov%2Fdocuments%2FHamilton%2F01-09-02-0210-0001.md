@@ -446,7 +446,7 @@ law of this State, and in cost* pf excess, the
 Direc rs under whose adiuinistratiqi} it  
 shall .ppen, shall he liable for Lite sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623719:1870052601:0098/pct:62.42622950819672,26.59132458035566,11.431693989071038,14.409174006980223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623719:1870052601:0098/pct:62.4408014571949,26.59132458035566,11.431693989071038,14.420253725555371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

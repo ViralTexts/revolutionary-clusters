@@ -185,7 +185,7 @@ every denomination, thail be delivered, un­
 impaired, to the heads of departmenis 2p­  
 pointed so receive them. &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111001:0041/pct:37.92587668273226,61.44358644358644,26.95695529333555,12.172887172887172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111001:0041/pct:37.92587668273226,61.44358644358644,26.95695529333555,12.18003718003718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ State may be réclaimed, . .
 in Virginia, Maryland or Pennsylvania, as  
 much by regiments as poflible, &amp; allowed th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111001:0041/pct:37.709822170516865,79.92277992277992,27.289346850589997,7.604032604032604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111001:0041/pct:37.715362029804446,79.92277992277992,27.29488670987757,7.6183326183326185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ order of St. Loeuis, co mmg ;ﬂﬁ&amp;‘ﬁ**
 iﬂary troops of his Most Chi ?&amp;g*&amp;}t’{*‘f‘  
 t¥ in America, and his Excellency Count
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111701:0044/pct:67.84073506891271,81.05039787798408,28.38182746299132,9.315649867374006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111701:0044/pct:67.84640689694288,81.05393457117594,28.376155634961147,9.326259946949602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ d=partment of the army and navy 1o be included in
 this acticle : Paffports™o go by land 16 be granted to  
 thofeto whom vefleh ¢csn- ot be forsithed FGranted }
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111701:0045/pct:3.860803324099723,4.0648671716632885,30.003462603878116,73.70105622532807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111701:0045/pct:3.8723453370267773,4.0648671716632885,29.99192059095106,73.70816885379992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ previotily unioabing the private pioperty, parc of
 which had been a 4 board for {ecurity during ibe ficge.  
 [Grance ] 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111701:0045/pct:3.860803324099723,4.566307478928838,60.28393351800554,85.75696148511682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111701:0045/pct:3.8723453370267773,4.569863793164764,60.28393351800554,85.75696148511682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ tion, were surrendered to General Washington ;
 the ships, seamen, and marines to Admiral Do  
 Grasse- The soldiers, accompanied by a du
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824091401:0269/pct:50.830140485312896,32.604713640249116,15.341634738186462,3.858835022591281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824091401:0269/pct:50.82202713487629,32.6007326007326,15.344506517690876,3.8624338624338623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -866,7 +866,7 @@ forts of Lord Cornwallis to obtain that the Bri­
 tish army should he sent to Europe, on condi­  
 tion of not serving either against France o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824091401:0269/pct:50.84610472541507,36.86652826962999,15.389527458492976,4.298449139089022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824091401:0269/pct:50.83798882681564,36.86202686202686,15.392391593508911,4.301994301994302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1070,7 +1070,7 @@ ereign Prince of Antibes, Lieut. General of the
 Naval Armies of his Most Christian Majesty, Com­  
 mander of the Royal Order of St. Louls, and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190960:1855011901:0067/pct:105.30060476698684,187.89840029307607,43.436499466382074,3.8099890096470874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190960:1855011901:0067/pct:35.10020158899561,62.63280009769203,14.47883315546069,1.2699963365490292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1089,7 +1089,7 @@ rendered to the land and naval forces of
 America and France. The army, artillery,  
 arms, military chest, and public stores of ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862041801:0754/pct:202.2369362920544,87.12387161484453,49.05153901216893,10.78234704112337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862041801:0754/pct:67.41231209735147,29.041290538281512,16.35051300405631,3.5941156803744567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1125,7 +1125,7 @@ and soldiers to keep their private property,
 and no part of their baggage or papers to be  
 subject to search or inspection.&quot; The spot o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862041801:0754/pct:202.02219040801717,101.35406218655967,50.42949176807444,44.79689067201605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530704:1862041801:0754/pct:67.34073013600573,33.784687395519896,16.80983058935815,14.932296890672015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1167,7 +1167,7 @@ memorable by a like surrender of a much
 larger army--and thus combine in one glorious  
 memory two great victories on the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862042101:0392/pct:326.8984446477585,249.85795454545453,49.862763037511435,51.42045454545455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862042101:0392/pct:81.78072785534447,62.46448863636363,12.474250400549325,12.855113636363637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ and soldiers, to keep their private property,
 and no part of their baggage or papers to be  
 subject to search or inspection.*l The spo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862042201:0002/pct:13.626251390433815,90.14693171996542,10.011123470522802,5.762028233938346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862042201:0002/pct:13.640155728587319,90.15773552290406,10.011123470522802,5.765629501584558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1244,7 +1244,7 @@ rendered more memorable by a like surrender of
 a much larger army—and thus combine in one  
 glorious memory two great victories on the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862042601:0262/pct:51.75894314976993,53.14179186314289,11.177081787145614,4.430310341046168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862042601:0262/pct:51.7688387511751,53.149102606279925,11.182029587848202,4.430310341046168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1287,7 +1287,7 @@ der of a much larger army--and thus com-
 bine in one glorious memory two great vic  
 tories on the same ground.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862042801:0103/pct:19.465917076598735,248.34954115874538,46.31061138439916,52.5955348582386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862042801:0103/pct:4.869045526454562,62.087385289686345,11.583758129724028,13.14888371455965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1317,7 +1317,7 @@ ered up unimpaired the garrison to march&#x27;
 out at two o&#x27;clock, to a place appointed in  
 front of the post, with shouldered arms
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn84030186:00294555699:1862050801:0123/pct:121.49873257287706,29.64893986791797,22.17997465145754,14.876607577337504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn84030186:00294555699:1862050801:0123/pct:81.03011093502377,19.765959911945313,14.786053882725833,9.917738384891669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1339,7 +1339,7 @@ orable surrender was made is well known.
 It is designated in tho plan of the siege, and  
 is soon, wo may trust, to bo rendered mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn84030186:00294555699:1862050801:0123/pct:121.43536121673004,46.20553817634109,22.11660329531052,7.507820646506778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn84030186:00294555699:1862050801:0123/pct:80.98256735340729,30.8075541652184,14.754358161648177,5.005213764337852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1357,7 +1357,7 @@ naval forces of America and France The
 army, artillery arms, military chest, and  
 public stores of every kind, were surren
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862051501:0219/pct:175.55123216601817,156.36070853462158,39.896238651102465,6.5833096523633605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862051501:0219/pct:58.51707738867272,52.12023617820719,13.298746217034155,2.194436550787787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1395,7 +1395,7 @@ to be subject to search or inspection.
 From the N. Y I ader!  
 What TheY Prorose to DO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862051501:0219/pct:174.82490272373542,166.3824950269963,41.11543450064851,43.146727289949794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862051501:0219/pct:58.27496757457847,55.46083167566543,13.705144833549502,14.382242429983265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1507,7 +1507,7 @@ known.
 MABIIN VAN BUIIBN, ex-Prcsident of  
 the United States, died on the 24th inst.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026190:1862073101:0179/pct:56.82153392330383,59.41637010676157,13.40339233038348,25.03914590747331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026190:1862073101:0179/pct:56.82153392330383,59.425860023724795,13.409537856440512,25.04389086595492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1655,7 +1655,7 @@ Amnorica, and His Ixcollency the Count as Graase, com
 lander in-chief of the naval army of France in the  
 Chesapeake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eucalyptus_ver01:data:sn83030313:00271744079:1879102401:0345/pct:100.95669687814703,54.00652224551595,50.016784155756966,7.407407407407407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eucalyptus_ver01:data:sn83030313:00271744079:1879102401:0345/pct:33.652232292715674,18.002174081838653,16.672261385252323,2.4691358024691357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1675,7 +1675,7 @@ mander in chief of the Naval Army of
 France in the Chesapeake.&quot;  
 4. Besolved, That the Hon, John Goode
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664412:1879102401:0405/pct:168.61709332249762,235.99962490622656,41.676825138832456,8.514628657164291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664412:1879102401:0405/pct:56.20569777416588,78.66654163540885,13.892275046277485,2.838209552388097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1717,7 +1717,7 @@ several destinations in Virginia, Mary
 land and Pennsylvania. At 3F. M  
 the garrison of Gloncester marche
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1879110501:0618/pct:299.38271604938274,149.2741246797609,39.50617283950617,32.22317107884999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1879110501:0618/pct:74.86011962184064,37.31853116994022,9.878448774840825,8.055792769712497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1739,7 +1739,7 @@ France in the Chesapeake&quot;; and,
 Wheregs, That resoluition has not been carried into  
 effect, and the pledge of the Nation made nearly on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lisp_ver01:data:sn83030214:00206531368:1879120401:0685/pct:54.24596193826963,216.94819181498696,47.43323204861667,9.500056682915769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lisp_ver01:data:sn83030214:00206531368:1879120401:0685/pct:18.081987312756542,72.316063938329,15.811077349538888,3.166685560971923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1760,7 +1760,7 @@ Christian majesty in America, and his excellency
 the Count de Grasse, commantting in chief the haval  
 army in France in Chesapeake; and whereas tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879122601:0620/pct:336.3976083707025,156.51932165693634,38.191330343796714,6.394217403391715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879122601:0620/pct:84.1151186694076,39.129830414234085,9.549616894038497,1.5985543508479287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1783,7 +1783,7 @@ commanding in chief the naval army
 in France in Chesapeake;&quot; and  
 Hereas that resolution has no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1879122601:0622/pct:188.66869918699186,110.06204478014567,34.09552845528455,12.30105206366334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1879122601:0622/pct:62.889566395663955,36.68734826004856,11.365176151761517,4.10035068788778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1801,7 +1801,7 @@ America and France; to Count De Roch­
 ambeau, commanding the auxiliary troops  
 of his most Christian majesty, and t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282243:1880020401:0117/pct:128.6346396965866,329.55856386109474,48.798988621997474,8.522660388463802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282243:1880020401:0117/pct:32.16374269005848,82.38964096527368,12.201675359570096,2.1306650971159504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1865,7 +1865,7 @@ Christian Majesty in America; and Ills Excellency
 count l)e Grasse. commaudlng-ln-chlef  
 the naval army of France in Chesapeake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:0028065453A:1880082301:0561/pct:29.319814110688636,17.854113655640372,14.899309956344178,2.44910941475827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:0028065453A:1880082301:0561/pct:29.319814110688636,17.854113655640372,14.90635121813829,2.45706106870229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1888,7 +1888,7 @@ ica, and his Excollency, Count de Grasse, com
 manding in chief the naval army of France in  
 the Chosnpeake.&quot; The Forty sixth Congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044747:1880082901:0850/pct:72.10884353741497,348.9249736881672,49.735449735449734,13.29123440084198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044747:1880082901:0850/pct:18.027210884353742,87.2312434220418,12.433862433862434,3.322808600210495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1907,7 +1907,7 @@ the Count de Grasse, commanding-in-chief the naval
 army of France in the Chesapeake.  
 That of the 6th of November is in these words
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_honda_ver01:data:sn83030214:00175039831:1881010401:0036/pct:7.2099805573558005,222.95790671217293,47.35904082955282,6.302616609783845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_honda_ver01:data:sn83030214:00175039831:1881010401:0036/pct:2.4033268524519333,74.31930223739097,15.786346943184274,2.100872203261282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1955,7 +1955,7 @@ de Grasse, commandlng-in-chief the naval
 army of France in the Chesapeakeand  
 whereas, the forty-sixth congress did, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1881040701:0048/pct:87.0552355133853,20.334116418689636,10.55574381565571,3.471678412947011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1881040701:0048/pct:87.04048788751483,20.33146287354822,10.558190750465865,3.474487798512332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1978,7 +1978,7 @@ lency Count de Grasse, commanding-in chief the nava
 army of France in the Chesapeake ; and wheieas, th&lt;  
 forty-sixth congress did, to carry into effect the for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1881040701:0055/pct:27.968675083906025,11.639950678175092,22.295029566885088,84.3403205918619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1881040701:0055/pct:27.96420581655481,11.638515596104057,22.295461808884628,84.33300456170632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2000,7 +2000,7 @@ Christian Majesty in America, and to his Ex
 cellency Count de Grasse, commander of the  
 naval army of France in Chesapeake
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881063001:0066/pct:187.3140857392826,250.7696906292034,54.94313210848644,14.422358391869675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881063001:0066/pct:46.84901531728665,62.69242265730085,13.741794310722101,3.605589597967419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2046,7 +2046,7 @@ bo any doubtful expressions In It, they nro to bo
 Interpreted according to tbo common meaning  
 and acceptation of too words.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quincy_ver01:data:sn84031492:no_reel:1881100501:0012/pct:58.307453416149066,21.225296442687746,12.836438923395445,11.620553359683795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quincy_ver01:data:sn84031492:no_reel:1881100501:0012/pct:58.3203933747412,21.240118577075098,12.842908902691512,11.625494071146244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2071,7 +2071,7 @@ the naval army of France in the Chesa­
 peake  
 The French nation were our friends i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881101301:0448/pct:124.00339270568278,88.09293320425944,50.551314673452076,16.32784769280413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881101301:0448/pct:31.000848176420696,22.02323330106486,12.637828668363019,4.081961923201033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2090,7 +2090,7 @@ t And to His Excellency the Comte de Grasaee,
 j Commanding-in-Chief’ the Naval Army of  
 France in Chesapeake
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522230:1881101401:0205/pct:50.872776099362206,110.64388961892247,14.434373950990265,2.536136662286465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522230:1881101401:0205/pct:39.43112344447817,85.75259691764546,11.186749338767724,1.972299545115079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2113,7 +2113,7 @@ lency the Comte de Grasse, commanding-in
 chief the naval army of France in the Ches­  
 apeak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881101501:0453/pct:173.60066833751046,322.4310976581169,49.289891395154555,12.760873028516807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881101501:0453/pct:43.400167084377614,80.60777441452923,12.322472848788639,3.1902182571292017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2138,7 +2138,7 @@ to His Excellency the Comte de Grasse
 the naval army of France in the  
 Chesapeak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101933:1881101501:0374/pct:284.8412698412698,182.78268299629735,50.23809523809524,17.772714326402735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101933:1881101501:0374/pct:71.23858674077015,45.69567074907434,12.564509726081779,4.443178581600684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2316,7 +2316,7 @@ Christian Majesty in America,
 And to his Excellency the Comte de Grasse, !  
 Commanding-in-Chief tho Naval Army c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551323:1881101801:0045/pct:73.90480700923514,17.81848459616986,12.372720814586787,10.41631973355537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551323:1881101801:0045/pct:73.91270029205147,17.821260061060226,12.376667455994948,10.41909519844574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2362,7 +2362,7 @@ Christian Majesty in America,
 And to His Excelleccy. the Comte de Grasse,  
 Commanding in-Cnief the Naval Army o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342065:1881101901:0381/pct:47.1293459437858,11.174340403517848,19.808179032902625,85.78375581996896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342065:1881101901:0381/pct:47.13822654411438,11.177789274012762,19.80373873273833,85.78720469046387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2382,7 +2382,7 @@ The orator then drew a most life-like
 picture of the imposing scene of the sur­  
 render, the French army drawn up fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881102101:0384/pct:130.37893384714195,218.71779508687837,49.06872190109184,11.072498502097064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881102101:0384/pct:32.60520398329586,54.67944877171959,12.271121105043367,2.768124625524266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2402,7 +2402,7 @@ France in the Chesapeake.&quot;
 WEST.  
 &quot;The. treaty concluded February (I, 177S, be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn82016187:00211102305:1881102201:0077/pct:30.36322360953462,105.84789612418237,22.814982973893304,4.881382407497803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn82016187:00211102305:1881102201:0077/pct:22.782114975159686,79.39080347554427,17.118523775727468,3.6610368056233527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2426,7 +2426,7 @@ Comte de Roch&amp;mbeau, commanding the aux­
 iliary troops of his Christian majesty in Amer­  
 ica, and to his excellency the Comte de Grasse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766409:1881102201:0176/pct:49.03236298585136,65.55872504030758,14.213693283460726,4.712886022572244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766409:1881102201:0176/pct:49.043204857158344,65.5628591508537,14.21911421911422,4.7252883542105915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2466,7 +2466,7 @@ And to His Excellency the Co.ute de Grassee,
 Commanding-in-Chief the Naval Army of  
 France in Chesapeake
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1881102201:0429/pct:55.621176966884626,60.871726881007625,9.607677705125502,8.087504143188598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1881102201:0429/pct:55.621176966884626,60.87448900673959,9.618224003374815,8.090266268920562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2492,7 +2492,7 @@ up to heads of departments appointed
 to receive them. Officers were allowed  
 to retain their side arms. The genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763840:1881102601:0444/pct:97.88836385115181,52.80952380952381,14.678086237448317,7.857142857142857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763840:1881102601:0444/pct:73.4525040626385,39.607142857142854,11.020830255576895,5.892857142857143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2560,7 +2560,7 @@ in America,
 And to his Excellency the Comte de Grasse,  
 Commanding-in-chiet the Naval Army o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1881102701:0188/pct:253.3661119515885,175.74844479004665,30.206757438224912,3.9852255054432346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1881102701:0188/pct:84.4553706505295,58.58281493001555,10.06891914607497,1.3284085018144116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2582,7 +2582,7 @@ I To his Excellency the Count de Rochambeau, ;
 ; And to his Excellency the Comte de Grasse, ;  
 ; Command in g-in-chiet the Naval Army of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151283:1881102801:0464/pct:39.3135935397039,78.89833940866748,9.986541049798117,2.5212636695018227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151283:1881102801:0464/pct:39.31807985643786,78.89833940866748,9.982054733064155,2.5212636695018227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2859,7 +2859,7 @@ eo
 on account of its eleg  
 The party then repaired to t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032976:1898102301:0437/pct:127.566120906801,36.23788258359656,40.08186397984887,40.76897941400719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032976:1898102301:0437/pct:42.522040302267,12.079294194532187,13.36062132661629,13.589659804669063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

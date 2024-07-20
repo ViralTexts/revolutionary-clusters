@@ -122,7 +122,7 @@ Must be as boisterously niaintain&#x27;d as gaiti&#x27;d,
 And he that stands upon a slippery pi tee  
 Mokes nice of no vile hold to stay hint up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862658:1861122501:0166/pct:3.789473684210526,69.27316569066483,12.796992481203008,2.1242392926857274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862658:1861122501:0166/pct:3.7944862155388472,69.28082060703487,12.796992481203008,2.120411834500708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ Inclination. Emerson.
 He that stands upon a slippery place  
 Makes nice of no vile hold to stay him up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880111801:0603/pct:102.24077328646749,55.04123437084331,18.717047451669597,14.817770683692471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880111801:0603/pct:76.72527472527473,41.28757648310721,14.043956043956044,11.106677307794627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ that stands upon a slippery place,
 makes nice of no vile hold to stay him  
 up.” The truth of that quotation i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554474:1886051501:0709/pct:57.129277566539926,41.326050103597666,17.20532319391635,2.3544923714447163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554474:1886051501:0709/pct:57.111181501425406,41.31826741996233,17.207792207792206,2.3587570621468927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ a rare virtue iu the liquor traffic. “He
 that stands upon a slippery place makes  
 nice of no vile hold to stay him up.” N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016160:1893052501:0085/pct:3.3282325937260904,77.57192982456141,11.017597551644988,1.6421052631578947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016160:1893052501:0085/pct:3.327596098680436,77.56104406399102,11.020271562440238,1.6453831041257367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ nice of no vile hold to stay him up.” N
 &quot;And he that stands upon a slippery place  
 Makes nice of no vile hold to stay him up.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199604:1898112701:0507/pct:208.60277980980248,210.37391700866394,37.87856620336503,2.24578203374373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199604:1898112701:0507/pct:69.53425993660083,70.12463900288797,12.626188734455011,0.74859401124791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ gain&#x27;d,
 And he that stands upon a slippery place,  
 Makes nice of no vile hold to stay him up.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0269/pct:42.19463470319635,45.317501290655656,12.728310502283104,9.53020134228188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0269/pct:42.19939117199391,45.317501290655656,12.72355403348554,9.53020134228188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

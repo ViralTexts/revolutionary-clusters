@@ -215,7 +215,7 @@ cester Massachusetts. It is well knowm
 how the Hutchinson kin filled the chief  
 places of public trust in that province
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768758:1874080501:0243/pct:49.189334047969986,40.01496585913385,14.109607396489347,3.1615377420260034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768758:1874080501:0243/pct:49.189334047969986,40.021201633772954,14.114073875563893,3.1677735166651075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ nates is proverbial to this day. In
 South Carolina the gentry, we are told,  
 were more -numerous than In any othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1874080701:0183/pct:45.71212121212121,25.689127105666156,12.893939393939394,9.430832057172026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1874080701:0183/pct:34.29307470828913,19.27003573251659,9.668131535081073,7.0826952526799385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ etts. It is well-known how the Hutch­
 inson kin filled the chief places of pub  
 lic trust iu that province. In New 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1874081201:0174/pct:67.25016995241333,99.70864786121044,14.428959891230456,3.89352403655145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1874081201:0174/pct:50.46760754973644,74.7847967156668,10.831491242985887,2.926764666931532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

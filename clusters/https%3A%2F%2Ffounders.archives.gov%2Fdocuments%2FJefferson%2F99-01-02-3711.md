@@ -164,7 +164,7 @@ By the President.
 (Countersigned Frederick F. Frelinghuysen,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82014681:00294552054:1882082501:0351/pct:274.7300215982721,105.22375361579037,77.64578833693305,56.96784073506891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82014681:00294552054:1882082501:0351/pct:68.73817887057552,26.305938403947593,19.427181842745203,14.241960183767228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ entire confidence that he will constant y endeavor to
 advance the interest and nrosperity of both Govern  
 ments, and to render hims if acceptable to your Ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885081601:0565/pct:111.57154026583268,99.31203179941905,51.60281469898358,14.921265861489069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885081601:0565/pct:27.9092509290045,24.82800794985476,12.908273029532564,3.730316465372267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ Jlis wise keeping,
 Written at Washington thib &#x27;J7th  
 tlay of September, in tho year IBM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_gold_ver01:data:sn82016412:00294552194:1893110701:0658/pct:42.568569310600445,102.27372103191955,16.252779836916233,22.970412476315406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_gold_ver01:data:sn82016412:00294552194:1893110701:0658/pct:31.94882254774708,76.70893455764465,12.201001297978861,17.227809357236556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ God have your Excellency in His wise keep­
 ing. .  
 &quot;Written at Washington, this 27th day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665453:1893111901:0179/pct:47.57236227824463,6.420468259715182,37.46498599439776,122.83369538981414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665453:1893111901:0179/pct:35.68760214802708,4.819374044573175,28.111137053467196,92.12326011746721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ and to rtndtr himself acceptable to
 » your Excelien: y. ’  
 r ihe government hold that fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84042105:0033289173A:1893111901:0201/pct:26.558073654390935,82.08022797018852,11.586402266288951,7.069267864971504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84042105:0033289173A:1893111901:0201/pct:26.567516525023606,82.08753470699985,11.57695939565628,7.0619611281601635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ informed of the relative interests of tho
 two countries aud of ouraincere desire to  
 cultivate, tothefulleatextent, the friendshi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193602:1893112001:0556/pct:2.94811320754717,39.08144101075636,17.423349056603772,5.241591258323374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193602:1893112001:0556/pct:2.962853773584906,39.085709407546524,17.43808962264151,5.250128051903705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ e Ige of his high character and ubility has
 given me entire confidehce that he will  
 constantly endeavor to advance the in»er
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_holt_ver01:data:sn86092518:00414186750:1893112001:0107/pct:18.03232998885173,7.5222954633578905,12.555741360089186,5.476929042264444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_holt_ver01:data:sn86092518:00414186750:1893112001:0107/pct:18.02981747248154,7.521566346806242,12.558636384747572,5.479629091144067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ wishes of this government for tho psocpfffcy
 of tho Hawaiian Islands. May God have your  
 excellency In his wise keeping
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_leadville_ver01:data:sn90051167:00340586037:1893112401:0784/pct:41.06635071090047,17.559633027522935,11.018957345971565,10.623853211009175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_leadville_ver01:data:sn90051167:00340586037:1893112401:0784/pct:41.084123222748815,17.573394495412845,11.030805687203792,10.623853211009175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ wishes of this government for tbo prosperity
 of tho Hawalinn Islands. May God havo your  
 excellency In his wlso keeping
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_fairplay_ver01:data:sn90051265:00383340962:1893113001:0053/pct:31.658163265306122,25.81366965012205,12.244897959183673,11.228641171684297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_fairplay_ver01:data:sn90051265:00383340962:1893113001:0053/pct:31.664540816326532,25.828925956061838,12.264030612244898,11.21847030105777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ full credence to what he shall say on
 the part of the republic of Hawaii and I­  
 to the assurance that I have charged 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534588:1895120501:0315/pct:73.60026041666667,103.77754459601259,17.317708333333332,4.184155299055614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534588:1895120501:0315/pct:49.0882448713774,69.1894018887723,11.5434711820254,2.789436866037076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ United States.
 ALL FOUR WERE DROWXKD.  
 A Minister and His Wife and an Unmar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621176:1897091401:0517/pct:57.13998390989541,60.96749811035525,16.753821399839097,21.51171579743008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621176:1897091401:0517/pct:42.87726358148893,45.72940287226002,12.575452716297788,16.13000755857899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ enough to receive him favorably and to
 place confidence In all he may say on be­  
 half of the United States and in the as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665726:1897091401:0124/pct:43.422489082969435,73.56837171387814,12.595524017467248,6.663949459955166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665726:1897091401:0124/pct:43.4315866084425,73.57176822226751,12.590975254730713,6.660552951565791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ that the entire official world of Spain
 regrets the departure of the retiring  
 United States minister, Mr. Hanni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206537462:1897091401:0162/pct:55.44388609715243,77.71569786182444,12.623724684026191,10.78757924143118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206537462:1897091401:0162/pct:55.44388609715243,77.71569786182444,12.633876452971931,10.794742308656566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,7 +832,7 @@ the Standard from San Sebastian says that
 the entire official world of Spain regrets  
 the departure of the retiring United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034900:1897091401:0329/pct:224.91935483870967,226.7620642411326,52.016129032258064,61.42487441010808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034900:1897091401:0329/pct:56.25252117789431,56.69051606028315,13.009277934651069,15.35621860252702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ majesty of the best wishes of our govern­
 ment for the prosperity of Spain. God  
 preserve your majesty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:0051717354A:1897091701:0724/pct:36.575616255829445,15.904907975460123,14.479236064845658,11.702453987730062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:0051717354A:1897091701:0724/pct:36.56749555950267,15.902468946480601,14.481571936056838,11.704493175893267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -919,7 +919,7 @@ iy on behaK of the United States and
 in the assurance he is commissioned to  
 convey to your majesty the best wifhe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2018270201:0027952813A:1897092301:0175/pct:104.4983416252073,35.32818532818533,18.677446102819236,18.753447324875896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2018270201:0027952813A:1897092301:0175/pct:78.42771209292678,26.50303364589079,14.021987139597593,14.065085493656921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

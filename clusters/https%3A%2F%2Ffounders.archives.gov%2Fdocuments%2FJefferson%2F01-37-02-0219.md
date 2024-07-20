@@ -144,7 +144,7 @@ yet unrestored my old office held by him
 Chat extruded me the best Branch of it  
 given to another.&quot; He wanted that offic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897033101:0472/pct:83.09171597633136,66.44373673036094,18.505917159763314,5.6687898089171975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897033101:0472/pct:55.42400473582951,44.29936305732484,12.342755660796211,3.7791932059447984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ The oTce cannot produce 1200 Dollars per
 annum, and is a very uncomfortable and  
 inconvenient one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897033101:0472/pct:82.9585798816568,74.45859872611464,18.56508875739645,7.059447983014862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760584:1897033101:0472/pct:55.33520793251443,49.639065817409765,12.387154062453751,4.713375796178344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ soes me yet unprovided for, yet unre­
 stored, my old office held by him who  
 uded me, the best branch of it give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152901:1897041201:1121/pct:4.500534188034188,73.64575722784679,12.606837606837606,1.8056570295376266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152901:1897041201:1121/pct:4.500534188034188,73.65271544376021,12.61574074074074,1.8056570295376266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ my substantial losses, nor restore me to
 public honor und confidence The office  
 eannot produce $l2OO per year and is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152901:1897041201:1121/pct:18.843482905982906,5.40653376474272,12.580128205128204,2.2753366036948126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152901:1897041201:1121/pct:18.843482905982906,5.40653376474272,12.580128205128204,2.285773927564972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ for?yet unrestored?my old office held
 by him that exiruded me?the best  
 branch of it. given to another.&quot; He wante
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193675:1897042301:0793/pct:34.440614227514885,29.515338536939552,16.54653713569414,3.1040116173534216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193675:1897042301:0793/pct:34.45628329677217,29.515338536939552,16.554371670322784,3.1221637320747866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ Awkward contretemps on the stage
 are more amusing to the audience  
 than to the actor*. Some time ulnce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193675:1897042301:0793/pct:34.377937950485745,33.41804320203304,18.458163585083046,6.843347249954619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193675:1897042301:0793/pct:34.40144155437167,33.431657288074064,18.458163585083046,6.8342711925939374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ yet unprovided for yet unrestored my old
 office held by him that extruded me the  
 best branch of It given to another. &quot; H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538958:1897042401:0892/pct:41.832532601235414,75.32956685499059,16.231983527796842,3.8202851762173795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538958:1897042401:0892/pct:31.393752145554412,56.49717514124294,12.16958462066598,2.878665590529997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ lic honor and confidence. The offlco cannot
 produce $1,200 per annum , and la a very  
 Jivoomfortablo and Inconvenient one. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538958:1897042401:0892/pct:41.86684969114619,80.83131557707829,16.146190803019906,4.977132095776164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538958:1897042401:0892/pct:31.41091658084449,60.62348668280872,12.118091314795743,3.7429378531073447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ my old office held by him that extruded
 methe best branch of it given to another  
 other He wanted gen Iaceo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534655:1897052001:0602/pct:93.14285714285714,17.64254666325748,16.80952380952381,5.4973152646382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534655:1897052001:0602/pct:62.11495712924738,11.761697775504986,11.20990790727215,3.6691383277934033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ dence The office cannot produce Sl
 200 ncr annum and Is a very uncom­  
 fortable and inconvenient on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534655:1897052001:0602/pct:93.0952380952381,25.134236768090002,16.857142857142858,6.2132446944515465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534655:1897052001:0602/pct:62.083201016195616,16.760419330094606,11.241664020323912,4.142163129634365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ administration. He came back to
 !that pxtruded me—the best Branch of  
 it given to another.” He wanted tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_kokomo_ver01:data:sn90051185:00513681082:1897052101:0060/pct:17.509633911368017,70.3610562241782,12.789017341040463,4.07760014370397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_kokomo_ver01:data:sn90051185:00513681082:1897052101:0060/pct:17.521676300578033,70.37452847134902,12.801059730250481,4.073109394647027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ duce $1,200 per annum, and is a very
 luncomfortable and inconvenient one.”  
 &amp; Philadelphia Inquirer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_kokomo_ver01:data:sn90051185:00513681082:1897052101:0060/pct:17.509633911368017,76.1990299982037,12.69267822736031,5.514639841925633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_kokomo_ver01:data:sn90051185:00513681082:1897052101:0060/pct:17.521676300578033,76.20801149631758,12.69267822736031,5.514639841925633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ restored my old office held by him
 that extruded me the best Branch of  
 it given to another.&quot; He wanted tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473297:1897052101:0231/pct:64.96699669966996,106.99797160243408,18.2013201320132,5.945740365111562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473297:1897052101:0231/pct:43.3382862803368,71.33620689655173,12.134720158494304,3.968052738336714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ and confidence. The office cannot pro­
 uncomfortable and inconvenient one,&quot;  
 Philadelphia Inquirer. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473297:1897052101:0231/pct:64.95049504950495,116.15111561866125,18.184818481848186,7.492393509127789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473297:1897052101:0231/pct:43.32177645699191,77.43407707910751,12.134720158494304,4.994929006085193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ duce $1,200 per annum, and Is a very
 uncomfortable and Inconvenient one.&#x27;  
 Philadelphia Inquirer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020448:1897052101:0240/pct:43.257411424439624,105.19143413367942,15.365148228488792,15.600259571706683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020448:1897052101:0240/pct:32.45931283905968,78.89682024659312,11.537070524412297,11.706683971447113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ restored my old office held by him
 that extruded me the best branch  
 of It given to another.&quot; He wante
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100217:1897092401:0695/pct:57.22670579603815,42.98885372230632,16.03081438004402,4.967662033851658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100217:1897092401:0695/pct:42.943659387043496,32.24164029172974,12.038906221325014,3.729186734553461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ First Trnms What do they mean by
 hangln&#x27; a man In effigy?  
 Second Tramp That&#x27;s when they Jus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100217:1897092401:0695/pct:57.263389581804844,50.54355304802532,16.06749816581071,9.467455621301776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100217:1897092401:0695/pct:42.98036336942558,37.911104995183706,12.057258212516057,7.100591715976331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

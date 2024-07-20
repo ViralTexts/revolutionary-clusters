@@ -35,7 +35,7 @@ Countersign--St. Patrick.
 The regiments under marching orders to  
 march to-morrow morning- Brigadier o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876031601:0256/pct:63.91752577319588,170.09050423789685,43.446244477172314,8.504525211894842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876031601:0256/pct:15.97938144329897,42.52262605947421,10.861561119293079,2.1261313029737106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -53,7 +53,7 @@ march to-morrow morning- Brigadier o
 &quot;The regiments under marching orders to march  
 to-morrow morning. Brigadier of the Day, Gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876031701:0271/pct:65.85872576177286,104.15293342122611,42.86703601108033,4.957152274225445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876031701:0271/pct:16.473237484843235,26.038233355306527,10.722328078988394,1.2392880685563612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

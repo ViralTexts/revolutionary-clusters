@@ -122,7 +122,7 @@ quires more serenity of temper, a deeper under-
 standing, and more courage than fell to the lot of  
 Marlborough, to ride in this whirlwind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856012501:0163/pct:102.39720326286,174.44228903976722,47.9607125020809,14.755092143549952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856012501:0163/pct:34.132401087619996,58.1474296799224,15.986904167360303,4.918364047849984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ per, a deeper understanding, and more cour­
 ige than fell to the lot of Marlborough, to  
 ride in this whirlwind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1856032801:0435/pct:253.4774824404352,212.07474357672388,33.02575402837075,6.286178531532446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1856032801:0435/pct:84.48085926741945,70.68440292445166,11.00706875975397,2.095180070403466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ of temper, a deeper understanding and
 more courage than fell to the lot o  
 Mariborough to ride on the whirlwind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0194/pct:191.62805066419523,284.4203683640303,34.15199258572753,6.85807150595883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0194/pct:63.87601688806508,94.80678945467677,11.383997528575842,2.28602383531961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ nity of temper, a deeper understanding and
 more courage than fell to the lot of Marl­  
 borough to ride on the whirlwind ’ of suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_blackhole_ver01:data:sn90050096:00513687692:1885031401:0311/pct:11.891891891891891,72.13921282798835,29.85691573926868,5.047376093294461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_blackhole_ver01:data:sn90050096:00513687692:1885031401:0311/pct:11.913089560148384,72.13921282798835,29.846316905140434,5.047376093294461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ of temper, a deeper understanding and
 more courage than falls to the lot of  
 most men, to ride on the whirlwind o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663625:1897032001:0651/pct:32.81452658884565,37.08214241332173,14.785992217898833,3.690816453336647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663625:1897032001:0651/pct:32.82687913038107,37.08628474379686,14.792168488666544,3.6949587838117726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

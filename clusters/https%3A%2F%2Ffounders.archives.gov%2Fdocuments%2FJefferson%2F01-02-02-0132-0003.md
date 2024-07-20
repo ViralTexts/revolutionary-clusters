@@ -739,7 +739,7 @@ breakers. Such were the most precious
 fruits of the appointment of that truly re­  
 publican and patriotic committee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806061701:0204/pct:41.620485381234474,64.46195581966154,17.33231416013759,3.9271411962278777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806061701:0204/pct:41.61253343523118,64.45362955308705,17.335371290281493,3.930939464393352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ ol exchange, and allowing assignees of
 obligations to bring actions thereupon in  
 their ow n names,” with amendments t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818011501:0279/pct:20.215369554576604,60.276420826879544,14.50481318322728,2.7046348147265578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818011501:0279/pct:20.212071778140295,60.26923993328568,14.507884719956499,2.7082836947025655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ and malicious prosecutions, and mode­
 rating amercements,&quot; contains tin- fol  
 lowing new provisions, among oilier* o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819030901:0397/pct:48.93825547206795,68.7764222732214,14.619405423064357,5.024761444618916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819030901:0397/pct:48.93026294300179,68.76811594202898,14.622461756219717,5.0281803542673105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ concerning wills, the distribution of in­
 testates estates, and the duty of execu­  
 tors and administrators, and for othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823031301:0044/pct:61.64556962025316,64.47711969218085,16.60337552742616,14.071732856946545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823031301:0044/pct:61.632566968993885,64.46826051112943,16.605146593545665,14.073234405056334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ ami prosecutions on penal statutes ; and
 for preventing vexatious and malicious  
 prosecutions, be moderating amercements,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825011801:0169/pct:52.22852512155592,31.096491228070175,14.809562398703404,3.7865497076023393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825011801:0169/pct:52.21794612112619,31.09194562198509,14.811626493822159,3.7896506358719484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -882,7 +882,7 @@ A bill to amend the 52d section of the act, entitled
 cerning wills, the distribution of intestates&#x27; estates and  
 the duty of executots and administrators,&quot;--the citl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840020301:0215/pct:14.508580343213728,102.08516886930984,60.00390015600624,8.002936857562409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840020301:0215/pct:3.6264379021251707,25.517545147555424,14.998050302203158,2.0004404639553663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -912,7 +912,7 @@ dictments, informations and prosecutions, in penal statutes,
 and for preventing executions and malicious prosecutions,  
 and moderating amercements
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184649:1847010701:0028/pct:132.59452411994783,111.18155619596541,38.95407793712879,19.688760806916427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184649:1847010701:0028/pct:44.191772885283896,37.05624711848778,12.98281189648513,6.562163823574612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -962,7 +962,7 @@ Sabbath breakers.”
 act providing when the death of persons ab­  
 senting themselves shall be presumed ; to do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1873040901:0119/pct:6.037284077304601,55.6351612014329,11.971951428082777,1.0195646183521632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155860:1873040901:0119/pct:6.03625170998632,55.62749690039951,11.974179206566347,1.022868163658906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -989,7 +989,7 @@ ployment, government, and support of mal­
 efactors condemned to labor for the Come­  
 monwealth&quot; was framed to accompany it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742149:1878032001:0279/pct:76.71178867131029,65.17727930535456,50.361414114863976,18.198263386396526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742149:1878032001:0279/pct:25.570596223770096,21.72575976845152,16.787138038287992,6.066087795465509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

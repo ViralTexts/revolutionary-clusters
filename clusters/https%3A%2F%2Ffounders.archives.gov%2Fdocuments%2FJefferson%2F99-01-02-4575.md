@@ -55,7 +55,7 @@ warning, after your signification that this tender
 is acceptable, my Orders shall be given conforma­  
 bly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828080201:0050/pct:59.00726766661512,74.90003427396321,17.566104839956704,6.489203701588027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828080201:0050/pct:58.998144712430424,74.89147818140279,17.56854256854257,6.492270200289392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ Accept assurances of my high consideration
 and respect, ANDRKW JACKSON,  
 b. 2d Division, TTeiinesseo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828080201:0050/pct:77.19189732488016,7.7687649948589055,17.67434668316066,7.962984119730378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828080201:0050/pct:77.1799628942486,7.767877541695225,17.67676767676768,7.96588226334628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ three regi.. of volunteers (to be commanded by
 their own officers and such as may he recommend­  
 ed by their General) can bo brought into the field
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828080801:0113/pct:1.6672062156037553,64.24408231235874,15.522822920038848,8.6356607588914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828080801:0113/pct:1.6669363974753195,64.23644148430067,15.525705346064628,8.638598160482081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ Accept assurances of my high consideration
 and respect, ANnRKW JAC K&gt;ON  
 M. G. 2d Division. Tennesse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1828081401:0006/pct:18.998167379352473,69.89773872965577,14.742414986764407,11.868068558260118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1828081401:0006/pct:18.9942996742671,69.88767281105991,14.74450325732899,11.869959677419354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ i Accept assorances of my high cersideration
   
 M. G. 2d Division, Tenacssce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828090901:0555/pct:60.709969788519636,5.40232268768146,33.413897280966765,87.57776856076318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828090901:0555/pct:60.709969788519636,5.4057790681598235,33.418932527693855,87.5743121802848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

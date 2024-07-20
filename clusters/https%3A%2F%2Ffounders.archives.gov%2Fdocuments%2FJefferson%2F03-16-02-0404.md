@@ -248,7 +248,7 @@ as reason is left free to combat it.&quot;
 That sentiment antedated by many  
 years the preceding quotations in re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897081901:0043/pct:125.86605080831409,368.03874092009687,50.80831408775982,17.493946731234868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897081901:0043/pct:31.4725697786333,92.00968523002422,12.704523580365736,4.373486682808717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ That sentiment antedated bv
 mny years the preceding quota  
 tions in regard to heretica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84020751:00415667851:1897082601:0369/pct:24.971064814814813,74.72675917966352,14.250578703703704,7.822669777723198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84020751:00415667851:1897082601:0369/pct:18.74366767983789,56.04813950632445,10.696193370965407,5.870072454869213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

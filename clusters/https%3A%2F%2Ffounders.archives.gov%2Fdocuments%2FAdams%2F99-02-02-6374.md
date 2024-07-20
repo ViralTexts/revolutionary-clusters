@@ -123,7 +123,7 @@ f£i ves that, by most of them, the customs of
 &quot; mons, a house of lords, and a king. They  
 &quot; endeavor to balance these different powers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790100901:0001/pct:9.244203553146642,62.52689223547819,25.986148750376394,10.42440837081948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790100901:0001/pct:9.244203553146642,62.531781732837864,26.00120445648901,10.439076862898494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ ro this opinion, at orice determined utterly to a­
 bolish the forms of governtment, which then ex­  
 iited, colleifted all authority into one centre, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791081001:0001/pct:34.69015795868773,46.92838967648128,26.731470230862698,16.212286441294076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791081001:0001/pct:34.69775212636695,46.92838967648128,26.723876063183475,16.23046165030898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

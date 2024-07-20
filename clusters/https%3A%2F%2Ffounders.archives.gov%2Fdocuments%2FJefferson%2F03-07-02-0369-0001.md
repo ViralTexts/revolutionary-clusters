@@ -283,7 +283,7 @@ around, be completes his stnteoce with &quot;and George
 the Third may profit by their example. If this be  
 treason, make the most of it 1&quot; His resolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn83025121:00211108861:1876070501:0497/pct:36.68191414496833,84.92636843567658,15.99225897255454,3.6121144762434008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn83025121:00211108861:1876070501:0497/pct:27.52551918338613,63.69824951375382,12.002815909890883,2.7090858571825507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ by their&#x27; example. If thii be treason,
 make the most of it,&quot; .and so mastered  
 the* situation and became a leader o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:0021247938A:1898062301:0615/pct:43.23984930933445,5.886023294509151,11.929677689409795,2.0694675540765393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:0021247938A:1898062301:0615/pct:43.23984930933445,5.886023294509151,11.934328635877401,2.0694675540765393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ to British taxation became general.
 Patrick Henry considered the draft  
 ing and passage of these resolutions hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877844:1898062501:1063/pct:119.80115990057995,68.852009326567,45.40182270091135,19.20175558908243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877844:1898062501:1063/pct:29.968911917098445,17.21300233164175,11.357512953367875,4.800438897270608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ with—&quot;and George the Third may profit
 by their example. If this be treason,  
 make the most of it,” and so mastere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688192:1898071601:0556/pct:70.14528340495191,22.410865874363328,12.707182320441989,1.4714204867006224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688192:1898071601:0556/pct:70.15210422208581,22.415581965666856,12.700361503308097,1.4714204867006224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

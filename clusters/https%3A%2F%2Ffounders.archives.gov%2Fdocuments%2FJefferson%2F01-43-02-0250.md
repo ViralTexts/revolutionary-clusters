@@ -104,7 +104,7 @@ the highed refpect,
 Sir,  
 Your mod obedient fervant*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102601:0003/pct:20.84257206208426,31.758165392633774,19.15742793791574,41.82070882557331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102601:0003/pct:20.84257206208426,31.758165392633774,19.17220990391722,41.82997451934214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ Your moll obedient firrvants.
 New-Orleans. June, 1301.  
 To the Sorur TIktcte d. 2,t. Xavier r . jon Superior
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804110701:0218/pct:58.15914924825816,63.37376516193573,17.84011734506784,24.946855070651495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804110701:0218/pct:58.14848762603116,63.36584146036509,17.842957531316834,24.947903642577312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ secure;&#x27; to them—It is not. therefore,!
 which they plead. It is the cause of ih­  
 t ■ • • .... want, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804110701:0343/pct:58.72863453043979,23.160655737704918,18.72479354714807,23.895081967213116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804110701:0343/pct:58.7173579109063,23.157618672960922,18.727598566308245,23.896319608357373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ New-Orleans, Fune 1854
 Tothe Socur Therefe de St. Xaier Far­  
 gon Supcrior, and the Nuis of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804110801:0589/pct:11.896745230078563,6.396539949920328,39.88028432472877,84.5435920783064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804110801:0589/pct:11.90298042149894,6.400333864481372,39.88651951614914,84.54738599286745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ Sir,
 .\cw-Or leans, June, tfc04.  
 To the So.-itr Thcrese de St. Xavier Frajon, Sitheri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804110801:0201/pct:73.7477523760596,57.897302567435815,23.118417672745956,28.420539486512837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804110801:0201/pct:73.72881355932203,57.887896019496345,23.118900873138163,28.419983753046303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ New-Or eans, Jui&#x27;t 1804.
 ANSWER.  
 To toe Steur Therrjtt dt St. Xavier Fanert, faferior^ and the Kur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804111201:0220/pct:74.04614019520852,31.449565798263194,23.070097604259097,21.148964595858384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804111201:0220/pct:74.02971834109559,31.445364680737377,23.070525615435795,21.149479027518034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ whose affairs yon dire®.&quot;
 W have bt BoRGHE 1Y e ith  
 the highelt refpe@ Sir, your most obe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804112001:0600/pct:77.60736196319019,54.248869213742665,16.487730061349694,38.32162448272543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804112001:0600/pct:77.60736196319019,54.255285022294935,16.49795501022495,38.315208674173164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

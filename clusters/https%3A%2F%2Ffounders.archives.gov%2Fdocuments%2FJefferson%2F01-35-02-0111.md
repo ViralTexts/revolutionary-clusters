@@ -61,7 +61,7 @@ the only States where any thing considerable is de­
 sired.”  
 To the same, dated Oet. 25, 1801
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830051101:0396/pct:34.28655660377358,46.773265846083056,15.30070754716981,4.601403428045554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830051101:0396/pct:34.28150331613854,46.76788589832068,15.303365266519283,4.604708227896634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ is impracticable, would EE THE LAsT Mo­
 MENT OF MY WISHinG To reMAin wieteI  
 AMt.&quot; How opposite this to the savage ferecit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841070901:0249/pct:200.33222591362127,252.7065527065527,57.64119601328904,10.54131054131054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841070901:0249/pct:50.09345794392523,63.17663817663818,14.413291796469366,2.635327635327635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ all men not monarchists in principle.&quot;
 Surely, that large and moat respectable  
 portion of the Democratic party who reall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.21837183718372,58.481855271634096,15.470297029702971,9.662873094266695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.21837183718372,58.48901295540763,15.488632196552988,9.662873094266695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ that the heaping of abase on me personally has been with
 the design and the hope of provoking me to make a gen­  
 eral sweep of all Federalists out of office.” lie wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1849081501:0334/pct:66.96652411148798,33.29188333710152,14.466892788674237,2.023513452407868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1849081501:0334/pct:66.95664995576526,33.28812026675709,14.46967462891969,2.0270524848347837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ a belief that we meant to do nothing.
 Some occasion of public explanation was  
 eagerly desired, when the New Haven remonstranc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849082101:0254/pct:31.828163601427395,88.9733433251258,16.277793027724403,4.860293330478536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849082101:0254/pct:31.828163601427395,88.97691182243157,16.277793027724403,4.86386182778432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ Have policy and justice so completely
 changed that the Whigs should now consent  
 to a continuation of every thing i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849082101:0254/pct:44.757068350260774,21.057702601434535,15.811144660993687,4.7532384113049995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849082101:0254/pct:44.757068350260774,21.057702601434535,15.824869612956356,4.760375405916569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ where, the most wholesome effect. Appear
 ances of schismatizing from us havo boen  
 entirely dono awa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885040101:0863/pct:126.19760479041916,191.5083135391924,52.17065868263473,68.70546318289786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885040101:0863/pct:31.54940119760479,47.8770783847981,13.042664670658683,17.176365795724465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ nations tf delinquencies ts- obtain To?
 bis friencto s fiat participation hi ttiaof-floes-,  
 and on this idea he sketched&quot; fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027388:1885042801:0189/pct:7.930733410942957,72.72141706924316,14.49359720605355,12.012882447665056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027388:1885042801:0189/pct:5.952554213360501,54.54643048845947,10.871779944695096,9.006977992485238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ fairs will be so confessedly salutary as
 to unite all men not monarchists in  
 principle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1893022301:0166/pct:28.894472361809044,42.39046887009992,15.703517587939698,3.7535229310786575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1893022301:0166/pct:21.691506554138982,31.796054317191903,11.779493625426468,2.8183448629259544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

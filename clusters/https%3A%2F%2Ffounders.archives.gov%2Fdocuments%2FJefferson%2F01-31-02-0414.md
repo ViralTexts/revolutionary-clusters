@@ -483,7 +483,7 @@ Dunmore, and that the murders perpetrated as
 above were considered as ultimately the cause  
 of the war of 1774, commonly called Cresap’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210016:1883050501:0046/pct:6.630316248636859,50.9344262295082,18.015267175572518,16.24590163934426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210016:1883050501:0046/pct:5.138607167004733,39.47401854910431,13.973405454135678,12.60322703595477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ abundance of tears, delivered to him the
 speech nearly a3 related by, Mr. Jeffer­  
 son in his &quot;Notes on Virginia,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288415:1883112201:0549/pct:39.36633124830024,14.372639530004196,13.27168887680174,16.13512379353756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288415:1883112201:0549/pct:39.37539660955489,14.376136522590572,13.27168887680174,16.13162680095118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ State of Virginia.’” (Dillon’s History of In­
 diana, Page 97.) That is final, I fancy. Mr.  
 Gibson does not say that he gave a report of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210144:1886021401:0383/pct:19.682977257064092,4.378848597400059,29.841488628532048,91.95582054540124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210144:1886021401:0383/pct:19.687571789570413,4.38536474114619,29.850677693544682,91.9590786172743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

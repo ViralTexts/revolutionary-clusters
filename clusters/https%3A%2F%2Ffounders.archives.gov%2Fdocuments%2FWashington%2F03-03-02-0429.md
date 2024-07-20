@@ -62,7 +62,7 @@ By all accounts there never was a more miserable set of
 beings than these wretched creatures now are.&quot; On a  
 moment&#x27;s comparison you will observe that the paragrap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:33.543771043771045,11.538878646567618,15.712682379349046,5.303112460687561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:33.54844743733633,11.54610852040632,15.717358772914329,5.306727397606911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ power of Great Britain was superior to all
 opposition, and, if not, that foreign aid was  
 at hand, they were even
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624311:1861060601:0077/pct:63.298325290945215,61.51053013798112,13.894408174850978,14.679946052495072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624311:1861060601:0077/pct:63.298325290945215,61.51053013798112,13.899138991389913,14.690320572673514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

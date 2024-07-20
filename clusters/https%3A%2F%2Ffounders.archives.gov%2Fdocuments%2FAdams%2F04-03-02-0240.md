@@ -1281,7 +1281,7 @@ er.”’ — pp. 146 - 151.
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1846-07_4_1/page/n33/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1846-07_4_1/page/n33/mode/1up?view=theater)
 
 #### 1846-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1370,7 +1370,7 @@ Acts not by partial, but by geacral laws
 &quot;The universal cause  
 Acts not by partial but by general laws;&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854062401:0211/pct:5.303568889520831,27.965263273606684,13.834778899473909,1.1322413982631636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854062401:0211/pct:5.313048011754112,27.968927485251548,13.834778899473909,1.1359056099080282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1461,7 +1461,7 @@ ones still assert that there must have been
 Acts not by partial, but by general laws,”  
 and that the all wise and gracious Jehova
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1861121401:0199/pct:30.343686822275316,38.99687372570341,12.424186730380445,1.658284626885959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1861121401:0199/pct:30.33811098860713,38.99157379722751,12.426497611172364,1.6614569176406633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1701,7 +1701,7 @@ Ac; well jour par*, there all the honor lies.
 Know then this truth (enough for man to know),  
 Virtue alone is happiness below
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175036428:1883113001:0130/pct:28.982409995068224,79.60144927536231,10.751274042413282,10.144927536231885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175036428:1883113001:0130/pct:28.990629623541015,79.61050724637681,10.75538385664968,10.141908212560386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1757,7 +1757,7 @@ Acta not by partial but by general laws,&quot;
 And makes what happiness we Justly call  
 Subsist not in the good of one but al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023565:1884011101:0178/pct:12.394685677252106,33.69400814426992,19.31302657161374,2.3734729493891797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023565:1884011101:0178/pct:8.264462809917354,22.466550319953463,12.882839086047642,1.5823152995927865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1775,7 +1775,7 @@ Acts not by partial but by general laws,&quot;
 And makes what happiness we justly call  
 Subsists not in the good of one, but all.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296941:1885043001:1175/pct:162.96296296296296,278.81920827098355,47.76234567901235,7.345939327982587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296941:1885043001:1175/pct:40.74074074074074,69.70480206774589,11.940586419753087,1.8364848319956468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1794,7 +1794,7 @@ Those who hold that &quot;the Universal
 Cause acts not by partial but by general  
 laws&quot; try to find in the character of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886031501:0302/pct:118.62595419847328,41.40875133404482,42.97709923664122,9.574630279005946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886031501:0302/pct:29.667812142038947,10.352187833511206,10.748377243222604,2.3936575697514866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

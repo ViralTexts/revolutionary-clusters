@@ -90,7 +90,7 @@ to all fuech deserters, who shall sur­
 render themselves to any of his Ma­  
 jesty’s troops before the firft day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780121101:0440/pct:5.0072719717431955,19.649218964099752,26.760856014959483,25.198684571115376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780121101:0440/pct:5.0072719717431955,19.658353886909655,26.767781702333956,25.203252032520325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ Whereas, the enemy have adopted a
 practice of enrolling Negroes among  
 their troops; I do hereby give Notice tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863021801:0141/pct:277.57575757575756,74.59296757422356,93.25757575757575,303.24257764400056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863021801:0141/pct:69.40708467512786,18.64824189355589,23.31881038075393,75.81064441100014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ Nova 8eotia to We?t Florida, inclusive, Ac.
 PROCLAMATION.  
 Protection snJ encouragement is hereby gven to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1863082701:0171/pct:2.1682448195416497,70.03367003367003,15.548236585700563,3.0954708374063213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1863082701:0171/pct:2.1773935318603908,70.04091090112595,15.557385298019303,3.0954708374063213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ to called evidence for the prosecution of
 such other persons as may appear to have  
 been crimiun! iu fj.ia Svshm.wii-ca.” Vaar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883070501:0110/pct:83.905476608654,47.721822541966425,10.825482995369631,2.5419664268585134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883070501:0110/pct:83.89208173690932,47.71610118690804,10.827745849297573,2.5446589137993048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

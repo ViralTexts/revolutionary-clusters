@@ -1398,7 +1398,7 @@ But when his own great work is but begun
 What reason weaves, bv nasslon ia nndann.  
 Trace science tbea, wilh modesty thy guide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1882011401:0218/pct:31.029323758228607,79.82620948802254,12.881508078994614,3.499295443870362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1882011401:0218/pct:23.28644118527387,59.87552841709723,9.667764142472313,2.6303428839830905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

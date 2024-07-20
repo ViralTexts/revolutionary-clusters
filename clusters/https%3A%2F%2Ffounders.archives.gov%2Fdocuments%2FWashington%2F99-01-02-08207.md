@@ -66,7 +66,7 @@ view, and further determine to hang man for
 man while there is a refugee existing. Up  
 goes Huddy for Philip White, . =
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782051101:0144/pct:7.8762541806020065,44.680851063829785,28.193979933110366,10.5390805864844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782051101:0144/pct:7.8762541806020065,44.68820049241172,28.205128205128204,10.535405872193436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ determine to hang man for man while
 there ia a refugee existing. Up goes Had  
 difor Philip mite.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035172:00296027273:1853101201:0092/pct:57.6592082616179,36.80148193887002,16.1144578313253,9.462797159617166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035172:00296027273:1853101201:0092/pct:43.272335844994615,27.601111454152516,12.099031216361679,7.100957085520222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ your view; nnd. further, determine to hang
 man for man, while there 1* n refugee existing,  
 lit) goes Huddy for Philip White.” On the 80t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070801:0009/pct:42.96237832149434,54.483313228789704,12.89134438305709,5.086449537595497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876070801:0009/pct:42.97553275453828,54.49839163650985,12.897921599579059,5.081423401688782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ further determine to hang man for man, as
 long as a refugee is left existing. Up goes  
 Huddv for Philip White.” Captain Hudd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883062801:0106/pct:72.72727272727273,16.69068203650336,22.112158491771847,78.56628242074927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883062801:0106/pct:72.71565495207668,16.68867811261856,22.11261980830671,78.55985112258374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ sent to your vlew, and determine to hang man for man
 while there is a refugee existing. Up goes Huddy for  
 Philip White.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:0017503853A:1892013101:0429/pct:248.45887588594033,244.68109082713545,48.14570627987473,11.246337615505972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:0017503853A:1892013101:0429/pct:82.81962529531344,81.56036360904515,16.048568759958243,3.7487792051686575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

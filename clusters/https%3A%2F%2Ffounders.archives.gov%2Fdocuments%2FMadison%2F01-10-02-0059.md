@@ -225,7 +225,7 @@ Stakard,) endeavored to sustain their positions by re­
 ferring to what was said in the convention to form the  
 constitntion of the United States. The last gentlema
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851061301:0288/pct:23.32651271558024,35.50111791581608,15.565624086524409,6.085350442305823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851061301:0288/pct:23.331384585403878,35.50435825151486,15.570495956348047,6.085350442305823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ fore to bear a proportion to the votes whioh
 their constituents, if convened, would res- j  
 pectivuly have.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852032401:0083/pct:3.8623595505617976,70.8706971362453,13.412921348314606,6.624240671102112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852032401:0083/pct:3.8755266853932584,70.87431298814,13.412921348314606,6.624240671102112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ sanctions, for the States as political bodies,
 had been exploded. The more he reflected  
 ou the use ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663523:1861050201:0013/pct:2.3519376066292956,11.928002149189576,13.356080916402632,7.9878212590668936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663523:1861050201:0013/pct:2.3559996750345276,11.928002149189576,13.356080916402632,7.996776215635355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

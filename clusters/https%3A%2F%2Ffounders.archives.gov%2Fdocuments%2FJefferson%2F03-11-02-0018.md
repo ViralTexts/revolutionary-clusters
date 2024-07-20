@@ -155,7 +155,7 @@ manufuetures in the mass will gain, by beatiig doten the
 competition of our&#x27;s in our own markets.&quot;  
 Against these evidences of Mr. Jefferson&#x27;s opinions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842080401:0422/pct:73.71103705155852,150.80716172585852,64.24230543030778,46.56589374816554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842080401:0422/pct:18.424147393179144,37.696258253851795,16.057428459427676,11.639765223771093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ tnense lmisirt.it on* but British commerce anil
 manufacture* tn the mass will gain by heating  
 down Ihe competition of ours In our own ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062948:00340581076:1892063001:1016/pct:59.82918789331735,43.509139597159155,10.338627509739286,3.597624869018512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062948:00340581076:1892063001:1016/pct:59.83293377284986,43.509139597159155,10.334881630206773,3.6034462684829434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

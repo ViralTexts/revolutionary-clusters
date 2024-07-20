@@ -67,7 +67,7 @@ all his or her other progonitors, except
 those desending from the negro, shall have  
 been white persons, who shall have on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021521:00514152718:1835112801:0168/pct:18.365980244433285,32.89810860280659,14.88364306043864,3.6973764490543015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021521:00514152718:1835112801:0168/pct:18.37714158156147,32.89810860280659,14.872481723310452,3.7095790115924343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ i descending from the negto, shall have been white per
 person, who shall have one fourth parlor more of no  
 gro blood, shall, in like manner, be deemed a mulatto.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839061401:0037/pct:49.333535292335654,55.69646144405809,16.34353226295062,3.252198813663326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839061401:0037/pct:49.333535292335654,55.70327947092112,16.353630213066747,3.2556078270948388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ shall be deemed a mulatto; and so, every ouch person,
 who shall have one-fourth part or mure of negro blood, shall  
 in like manner be deemed a mulatto.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854010301:0080/pct:22.1549815498155,24.774947328098065,17.25461254612546,2.853859413905382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854010301:0080/pct:22.1549815498155,24.778139564578943,17.269372693726936,2.860243886867139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ deemed a mulatto; and so, overy such person
 who Bhall have one-fourth part or more of  
 negro blood shall in like manner be deemed 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854072401:0710/pct:58.6887944040598,21.556079488043114,13.290357975586339,4.356124396542046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854072401:0710/pct:58.6887944040598,21.56356423786535,13.304073515292826,4.359866771453164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ deemed a mulatto ; and so, every such person
 who shall have one-fourth part or more of ne­  
 gro blood, shall in like manner be deemed 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854072401:0710/pct:58.64764778494034,34.47850005613562,13.276642435879852,3.8958122824744583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854072401:0710/pct:58.64764778494034,34.48224243104674,13.28578612901751,3.899554657385577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ doemed a mulatto ; and ho. every such persoi
 who shall have one-fourth part or more o  
 negro blood shall in like manner be deonied 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854082401:0145/pct:27.291315852778446,60.352963382408454,11.63098388260765,4.27519818799547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854082401:0145/pct:27.291315852778446,60.35925506480433,11.634993184187314,4.272052346797533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ and so every such person shall have one-fourth part
   
 or more of negro blood, shall be deemed a mulatto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84020047:0029587756A:1859080301:0305/pct:261.0595303113053,160.43781094527364,36.3189513926816,6.766169154228856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84020047:0029587756A:1859080301:0305/pct:65.26488257782633,40.10945273631841,9.0797378481704,1.691542288557214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

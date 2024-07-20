@@ -170,7 +170,7 @@ And we, too wise to trust them. CoWPER
 &quot;The age of virtuous politicks is past  
 And we are deep in that of cold pretence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1848060501:0353/pct:334.5744680851064,373.36973005762815,55.71808510638298,4.746739460115256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1848060501:0353/pct:83.62773029439695,93.32827899924185,13.92687559354226,1.1865049279757391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ Sir, the age of virtuous politics is past
 Patriots are grown too shrewd to be sincere  
 And we too wise to trust them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849020201:0223/pct:193.30985915492957,309.49246745648674,56.16197183098591,10.764955389790844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849020201:0223/pct:48.34874504623514,77.37311686412168,14.046675473359754,2.691238847447711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ has well said
 &quot;Paatriots are grown too shrewd to be sincere,  
 And we too wise to trust them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470065:1856050101:0424/pct:75.73696145124717,335.49827481225896,49.6031746031746,9.011568906028009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470065:1856050101:0424/pct:18.94229405926556,83.87456870306474,12.406068339713597,2.252892226507002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ And we are deep in that of cold pretence:
 Patriots are grown too shrewd to be sincere,  
 And we too wise to trust them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857041401:0881/pct:25.384122919334185,118.65704772475027,32.63444302176696,4.051054384017758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857041401:0881/pct:8.461374306444728,39.55234924158343,10.878147673922323,1.3503514613392527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ And we are deep in that of cold pretence;
 Patriots are grown too shrewd to be sincere,  
 And we too wise to trust them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857041801:0859/pct:87.93337207050165,205.22147257260193,48.130931628897926,7.054854796127897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857041801:0859/pct:21.979085979860574,51.297844258688954,12.03040278853602,1.7634550520604195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ And we are deep in that of cold pretense;
 Patriots are grown too shrewd to be sincere,  
 And we too wise to trast 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859082701:0805/pct:159.25621194668423,49.483924546209515,31.331248971532005,5.006525091944478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859082701:0805/pct:53.08540398222807,16.49464151540317,10.443749657177335,1.668841697314826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ And we are deep in that of cold pretence,
 With patriots grown too shrewd to be sincere,  
 And we too wise to trust them,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470272:1860031401:0261/pct:55.95301655098772,81.10520722635493,38.86812600106781,6.291179596174283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470272:1860031401:0261/pct:13.98825413774693,20.276301806588734,9.717031500266952,1.5727948990435707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ And we are deep in that of cold pretence,
 Patriots are grown too shrewd to be sincere,  
 And we too wise to trust them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1861032701:0496/pct:71.9521316379955,23.282680174175777,13.799551234106207,3.421309872922776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1861032701:0496/pct:71.9521316379955,23.282680174175777,13.803706473863542,3.427234219023075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ And we are deep in that of cold pretence.
 Patriots are grown too shrewd to be sincere,  
 And we too wise to trust them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1869071501:0084/pct:4.804177545691906,66.7530448302669,12.497824194952132,4.534853589012697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1869071501:0084/pct:4.803341454925166,66.74439694260914,12.5,4.537504858142246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ And we are deep in that oi&quot;cold pretence;
 Patriot- are grown too shrewd to be sincere,  
 And we too wise to trust them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762337:1878070201:0288/pct:7.432755053318479,33.07785888077859,9.963393283463313,1.1922141119221412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762337:1878070201:0288/pct:7.444692026102181,33.07785888077859,9.963393283463313,1.1922141119221412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ The age of virtuous politics is past,
 And we are deep in that of cold pretense;  
 Patriots are grown too shrewd to be sincere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:00211101131:1880063001:0094/pct:141.85855263157896,44.540075309306076,50.0,5.9171597633136095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:00211101131:1880063001:0094/pct:35.471930906847625,11.135018827326519,12.502570429775858,1.4792899408284024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -612,7 +612,7 @@ are deep in that of cold pretence
 patriots are grown too shrewd to be sincere,  
 And we too wise to trnst them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528414:1885041601:0076/pct:80.08711885500934,210.51451958682517,31.673926571250778,8.585071136230754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528414:1885041601:0076/pct:26.695706285003112,70.17150652894172,10.55797552375026,2.861690378743585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ pathon are drow in twat ot ga opretens
 triols are grown too shrewd to be sincere­  
 And we tos giew to trust the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539719:1896062701:0213/pct:108.83514313919052,131.24645356534896,36.20434353405726,10.497446567051258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539719:1896062701:0213/pct:36.2962962962963,43.74881785511632,12.074074074074074,3.4991488556837527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

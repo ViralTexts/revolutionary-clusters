@@ -864,7 +864,7 @@ tings. replied. “ My Lord, we will do our
 I utmost endeavors to save your lordship  
 that mortification.&#x27; Adams was pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1852011501:0545/pct:48.88801417043889,12.74895000677415,29.502066522338122,83.62010567673757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1852011501:0545/pct:48.878394332939784,12.747222974803575,29.501180637544273,83.61216472500678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -933,7 +933,7 @@ I Howe affected a cool superiority to the
 ledge, spoke of Adams as if he was ab­  
 sent?&quot; Mr. Adams is a decided charac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853020201:0266/pct:3.6,11.909290416971471,27.565217391304348,85.47183613752743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853020201:0266/pct:3.608695652173913,11.92026335040234,27.582608695652173,85.47549378200439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -958,7 +958,7 @@ a man who stood recorded by the Privy j
 Council, a rebel expressly exempted from  
 pardon.&quot; That interview with Georg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853020201:0266/pct:17.182608695652174,39.09290416971471,13.547826086956523,6.788588149231894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853020201:0266/pct:17.182608695652174,39.10387710314557,13.552173913043479,6.788588149231894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -983,7 +983,7 @@ good humor, pointed to the seats, and, :
 ! Siaten Island, said : &quot; Ay ! now we must;  
 | turn you away among the foreigners!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853020201:0266/pct:17.16521739130435,61.50694952450622,13.617391304347827,6.627651792245794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853020201:0266/pct:17.17391304347826,61.51426481346013,13.634782608695652,6.642282370153621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1166,7 +1166,7 @@ mission contained any other authority
 than that expressed in the act of Parlia  
 ment, namely, that of granting pardons.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528736:1865030201:0221/pct:182.07405177603854,25.489518544114258,41.28537025888019,178.44966597558167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528736:1865030201:0221/pct:60.691350592012846,8.49650618137142,13.761790086293397,59.48322199186055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1265,7 +1265,7 @@ what light you please, and indeed I should be
  your lordship, exeept that of a British subject.&quot;  
 Howe contented himsolf with remarking tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533493:1877071501:0900/pct:77.1969696969697,197.9658988932097,50.75757575757576,11.00807657792402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533493:1877071501:0900/pct:19.299242424242426,49.491474723302424,12.68939393939394,2.752019144481005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1353,7 +1353,7 @@ your lordship, excqtt that of a British
 subject.”  
 There is hardly ever a complet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn86092472:00514157790:1881113001:0327/pct:39.637236596425716,82.15192014887498,17.444651907175245,6.4117746574183725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn86092472:00514157790:1881113001:0327/pct:39.626666666666665,82.13802435723952,17.446666666666665,6.414918809201624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

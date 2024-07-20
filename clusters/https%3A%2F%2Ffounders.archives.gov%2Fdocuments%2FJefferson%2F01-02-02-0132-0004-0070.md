@@ -55,7 +55,7 @@ Prowvided newerthelefs, That no citizen
 or inhabitant of the United States, who  
 shall have contrated debts prior
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790090901:0658/pct:10.637791527843884,5.545899826196871,41.76582579723941,86.11155000790015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790090901:0658/pct:10.645724258289704,5.551166587665245,41.78962398857687,86.11681676936851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ lators of the laws of nations and disturbers of the public
 years or fined $1,000 at the discretion of the court  
 Mr. TrunnuLt, after discussing the objections of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866040501:0734/pct:245.77228596646071,211.86419443748434,48.77316857899382,6.990729140566274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866040501:0734/pct:81.92409532215358,70.62139814582811,16.257722859664607,2.3302430468554247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ Mr. TRUMBULL, after discussing the
 objections of the President to the second  
 section, reviewed other portions of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775551:1866040901:0137/pct:171.16935483870967,132.2166689180062,38.23924731182796,21.126570309334053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775551:1866040901:0137/pct:42.81391830559758,33.05416722950155,9.564632711380064,5.281642577333513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ President&#x27;s own acts and those of his au­
 thorized and special agents, that they had  
 seen and recognized the dangers and in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:0029602868A:1866041701:0255/pct:53.34666871826435,56.140159371247684,14.694568395137713,6.745988429210785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:0029602868A:1866041701:0255/pct:53.35692670667282,56.14379798420842,14.68431040672924,6.756904268093003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ thorised and special agents, that they
 had seen and recognized the danger and  
 injustice against which the Civil Right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:0023728687A:1866041801:0149/pct:96.02848101265823,15.51994216170623,14.382911392405063,6.338113025665743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:0023728687A:1866041801:0149/pct:72.03671467004273,11.639956621279673,10.792846969457193,4.759609591517051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ being eonvicted thereof, shall be deemed viola­
 tors of the laws of nations and disturbers of the  
 publio repose, and shall be imprisoned not ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477813:1866041801:0128/pct:29.137073863636363,64.931650893796,19.3359375,4.061514195583596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477813:1866041801:0128/pct:21.868893231479838,48.698738170347006,14.514123290104815,3.0494216614090432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

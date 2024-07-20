@@ -240,7 +240,7 @@ of this country,” he said, “ had that been
 consulted before these arm aments were un­  
 dertaken.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863040701:0002/pct:12.933333333333334,33.59067734887108,9.980952380952381,2.272396212672979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863040701:0002/pct:12.938095238095238,33.60160233066278,9.99047619047619,2.2687545520757464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

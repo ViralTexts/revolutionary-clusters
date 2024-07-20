@@ -129,7 +129,7 @@ the army of the TJnked States sinoe the inauguratio
 C. K. GARDNER. A Dictionary of all Officers  
 who have been commissioned in the U.S. Ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861032801:0300/pct:212.35036496350364,91.28082405576943,36.846715328467155,1.9769014670689835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861032801:0300/pct:70.78345498783455,30.426941351923144,12.282238442822385,0.6589671556896611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ who have been commissioned in the U.S. Ar
 C. K. GARDNeR. A Dictionary of all Officers  
 who have been commissioned in the U. S. A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861032901:0304/pct:174.2189781021898,77.5673707210488,36.81751824817518,1.7792113203620852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861032901:0304/pct:58.07299270072993,25.8557902403496,12.27250608272506,0.593070440120695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -76,7 +76,7 @@ you had succeeded, nor will you, I fear, have bet
 ter success in Georgia.  
 In a remarkable and very interesting lette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851022201:0356/pct:153.83575532274418,51.163334502513734,47.803311929705984,23.46545071904595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851022201:0356/pct:51.27858510758139,17.054444834171246,15.934437309901995,7.82181690634865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ h ive been surprising if yon had miceoeded ;
 nor will you, 1 fear, have hotter success in  
 I (Jeorgia. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051901:0766/pct:7.9045385570423505,67.91571319603356,13.312180990481446,7.227307398932113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051901:0766/pct:7.9045385570423505,67.91571319603356,13.321377661286615,7.230485634375794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ commencement of this contest would have gladly sacrificed­
 everything to the attainment of its object, has long since  
 subsided, and every selfal pusrion has taken its pace.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854042401:0772/pct:151.26162018592296,33.525248890488186,49.75099601593625,10.43540842029507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854042401:0772/pct:50.42054006197432,11.175082963496061,16.583665338645417,3.47846947343169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ rbject, has long since subsided, and every selfsh
 passion has taken its place. It is not the  
 &gt;ublic, but private interest which influences
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855072601:0337/pct:39.300411522633745,92.54675987152844,14.4880174291939,4.84602304931041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855072601:0337/pct:39.308480593883644,92.55305749732351,14.479948357944,4.84602304931041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ h I fear, have better success in Georgia.&quot;
 It will be seen that Washington attributed  
 e the ultra Pro-Slavery spirit of his day, which i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855072601:0337/pct:50.580973129992735,7.047043264689212,13.822319051077221,3.5896467031928965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855072601:0337/pct:50.58500766561769,7.047043264689212,13.82635358670217,3.599093141885509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ have better success in Georgia.&quot;
 In a remarkable and very inter-  
 esting letter written by Lafayette, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856091901:0151/pct:240.55299539170508,172.87683414851045,43.77880184331797,46.12420334963688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856091901:0151/pct:60.17291066282421,43.219208537127614,10.951008645533141,11.53105083740922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,13 +232,13 @@ nor can the Americans any longer boast an exception. Under
 these ctrcumatances it would rather have been surprising if  
 you had succeeded.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530716:1862073101:0690/pct:104.6218487394958,43.35724888668976,48.38935574229692,16.48936170212766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530716:1862073101:0690/pct:34.87394957983193,14.452416295563253,16.129785247432306,5.49645390070922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1862-09_2_3/page/n74/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1862-09_2_3/page/n74/mode/1up?view=theater)
 
 #### 1862-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -290,7 +290,7 @@ better success in Georgia.”
 Hut though the Southern colonies, some of  
 which furnished more traitors than troops
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525152:1862090601:0250/pct:16.98252069917203,61.02157880360557,12.456301747930082,8.290084676317946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525152:1862090601:0250/pct:16.979396615158205,61.01324593745733,12.458609271523178,8.292366516455004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ floating Slaughter Pens.
 [From the New Tork Evening Post.]  
 Is it a crime to imperil the lives of 1,50
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862122201:0002/pct:66.10996434603115,18.35506519558676,10.114468005254269,5.6598366528155895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862122201:0002/pct:66.1146556577219,18.3622295457802,10.123850628635767,5.667001003009027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ tion. Under these circumstances it would rath­
 er have been surprising if yon had succeeded  
 nor will you, I fear, have better success in Geor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862122701:0510/pct:68.65038996269922,75.96731554914685,14.32689047134622,5.9961547704878635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862122701:0510/pct:68.65038996269922,75.96731554914685,14.343845371312309,5.9961547704878635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ interest which influences the generosity
 of mankind, hor can the Americans any  
 longer boast an exception.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1863020501:0679/pct:143.63036303630363,67.20165674346363,49.306930693069305,23.19440849081025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1863020501:0679/pct:35.90759075907591,16.800414185865908,12.326732673267326,5.798602122702563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ ther bave been surprising if you had succeeded
 nor will you, I fear, bave better success in  
 Georgia.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1863021401:0558/pct:33.50610265841833,40.447007930785865,14.061193780304297,6.92141312184571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1863021401:0558/pct:33.51167586245332,40.45101337819435,14.072340188374296,6.9294240166626615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ i eeptlon. Under these circumstance?, it would rather
 1 bare been surprising If yeq had s.viccead^d ner  
 will yon, fear have better ancceaa In Georgia.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:0027952858A:1863030501:0145/pct:57.495096665732696,15.962106549862483,12.83272625385262,4.451461750025466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:0027952858A:1863030501:0145/pct:57.49976650789203,15.962106549862483,12.84206593817129,4.458252690910325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ private interest influences the general­
 ity of mankind, nor can the Americans  
 any longer boast an exception.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688258:1863040101:0142/pct:4.295641187618446,62.59044004269956,12.728995578016425,7.2826473727908905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688258:1863040101:0142/pct:4.300905453779743,62.59044004269956,12.739524110339019,7.286601035859724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ public, but private interest that influences the
 generality of mankind, nor can the Americans  
 any longer boast an exemption
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863050201:0205/pct:72.29190421892817,338.01196502531064,42.98745724059293,15.09433962264151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863050201:0205/pct:18.07297605473204,84.50299125632766,10.746864310148233,3.7735849056603774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

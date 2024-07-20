@@ -589,7 +589,7 @@ of Cicero, &quot;0 praeclarein diem cum
 ad illud divinum animorum concilium  
 coetumque proficiscor.&quot; If any perso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:0020219347A:1882091301:0877/pct:23.599701269604182,46.08605495075169,13.890963405526513,2.0563331605322275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:0020219347A:1882091301:0877/pct:23.612148369429924,46.090374978399865,13.897186955439382,2.0606531881804044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -315,7 +315,7 @@ ward. For God governs, and He is good.&quot; Here is
 the advice to a young married man:-&quot;Treat your  
 wite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:55.781406197934025,224.17429597867655,46.38453848717094,12.504345810638544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:18.593802065978007,74.72476532622552,15.46151282905698,4.168115270212848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -85,7 +85,7 @@ gents, and at all times amenable
 to them,  
 3d. That government ought t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0253/pct:26.798368048099636,70.82423580786026,18.810392956839166,11.64028384279476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788091801:0253/pct:26.812683415646696,70.83333333333333,18.803235273065635,11.644832605531295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -107,7 +107,7 @@ powers veftrd by this conftitution in the
 government of the U. States, or in any  
 department of or officer thereof.&quot; In hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801020201:0001/pct:49.87599206349206,81.64901664145235,21.89980158730159,6.2178517397882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801020201:0001/pct:49.87599206349206,81.64901664145235,21.916335978835978,6.238023197175996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ tion all the powers vested by the constitu­
 tion, in the government of the U. States^  
 or in any department or officer thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1822051501:0093/pct:69.05100589311115,64.90236382322713,19.7724039829303,3.4943473792394655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1822051501:0093/pct:69.03697683868346,64.89402697495183,19.775159149397265,3.4981802611860418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ ment of the U. States, or in any depart­
 ment or office thereof,” without any limi­  
 tation, was thought to afford too great 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830081801:0086/pct:19.60308710033076,30.68396864017302,17.90518191841235,6.907272235739389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830081801:0086/pct:19.598765432098766,30.67982159751318,17.908583186360964,6.910843807721764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,9 +365,9 @@ command mearmy aud navy, and to repel in
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-07_11_49/page/n74/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-07_11_49/page/n74/mode/1up?view=theater)
 
-#### 1842-07-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -403,7 +403,7 @@ ly derived from the people; that magistrates,
 therefore, are their trustees and agents, and i  
 til till times amenable to them.” In the ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1843121601:0059/pct:40.628236106316876,13.162729658792651,13.393165343458751,4.330708661417323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1843121601:0059/pct:40.621225194132876,13.161002493111141,13.395168248490078,4.333420810917202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ Rights expressly declares &quot;that all power of suspending
 laws without the consent of the representatives of the peo­  
 ple, is injurious to their rights and ought not to be exer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184649:1847010401:0016/pct:91.2928759894459,134.88832014890647,37.965406039284666,3.5714285714285716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184649:1847010401:0016/pct:30.426498607650593,44.95754332906828,12.653280570618985,1.1903377147066807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ declares ‘that all power of suspending laws with­
 out the consent of the representatives of the peo­  
 pie, is injurious to their rights and ought nit to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215786:1847010601:0185/pct:2.7504517165227864,52.84386108832376,14.65569162818711,1.8594476346732294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215786:1847010601:0185/pct:2.750175649904647,52.84024882083533,14.657566328749708,1.8615991067970015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ quently derived from, the people; that magistrates
 therelore are their trustees, and agents, and at all times  
 amenable to them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850043001:0603/pct:21.502641361768735,55.542986425339365,14.43944433574643,1.5695701357466063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850043001:0603/pct:21.498435054773083,55.53513360667326,14.441510172143975,1.572882793722607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ ing and protecting property, nnd pursuing and
 &#x27; their trustees and agents, and atall times amenable  
 &#x27; to them;&quot; and &quot; that the powers of the Govern- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850062001:0029/pct:68.3783039647577,60.10770059235326,13.463656387665198,3.3064081852450187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850062001:0029/pct:68.3783039647577,60.11488063184348,13.477422907488986,3.3099982049901273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ Trustees and Agents, and at all
 amenable to them.  
 s.-That the rights of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288488:1851052101:0409/pct:172.09773022986843,187.18818380743983,39.424606043082264,14.814004376367615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288488:1851052101:0409/pct:57.36591007662281,62.39606126914661,13.141535347694086,4.938001458789205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ in and consequently derived from the people; that
 magistrates therefore are tjieir trustees*,  
 andal all limes, amenable to them.” “ &#x27;l’hat th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860122001:0170/pct:66.53498871331828,49.0321901956659,13.99548532731377,1.6200294550810015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860122001:0170/pct:66.5443942814146,49.035696752927976,13.99548532731377,1.6235360123430815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ people; that magistrates, therefore are
 their trustees, and agents, and at all  
 times amenable to them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775927:1871022201:0108/pct:53.295868772782505,48.88837424733673,13.669501822600242,6.299212598425197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775927:1871022201:0108/pct:39.98784563962322,36.67207040296434,10.255241567912488,4.724409448818897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

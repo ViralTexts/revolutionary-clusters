@@ -166,7 +166,7 @@ cied peifon. h it every one makes 1 inifelf a judge in ;
 [• t oxvji r.iufc ; condemns the offender without ajury.1  
 -i.c Undertakes lumfcif tt&gt; be the exccuttr-ner-”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072101:0095/pct:59.536834427425234,7.665286664157571,17.74252370532458,14.088571070129218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072101:0095/pct:59.52597994530538,7.6643251379829405,17.74536615010635,14.090985114567653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ cause,- condemn: the ossemler without :\
 jory, and undertakes himself to &#x27;be she ex­  
 ecutiouer.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804080901:0353/pct:1.0041966426858513,2.335016227912009,47.58693045563549,94.8160836639019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804080901:0353/pct:1.0040461561516558,2.334805733345353,47.584794445276984,94.81054118212687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ the olleitder willinut a iry, and uu
 dertak.es himself to ho tile execution  
 er
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825042101:0268/pct:61.49765354009386,10.733478576615832,29.97347480106101,86.12926652142339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825042101:0268/pct:61.48510811913505,10.731919837351148,29.972460220318236,86.12038919546907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ sand years old. The largest is over four hundred
 and ninety-nine feet high is six hundred and ninety­  
 thrco feet on each side at the base, and the founda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191617:1849080901:0058/pct:86.92123469930814,109.96897621509824,18.98616285258116,7.890382626680455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191617:1849080901:0058/pct:65.22028483961134,82.48190279214064,14.24198056701717,5.915201654601861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ out a jury, and undertakes himsel to
 be the executioner.&quot;  
 A LiTTLE ISCIDENT. A bachelo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1853081601:0386/pct:47.5136491072746,22.21592840149541,40.327578574590525,68.0299082360938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1853081601:0386/pct:15.837883035758201,7.405309467165138,13.442526191530176,22.676636078697936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -756,7 +756,7 @@ be the executioner.&quot;
 A LirTLE ISCIDEET. A bachelor,  
 friend of ours was riding a day or tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1853081601:0387/pct:19.456746383229998,24.03726002499148,68.08385001476233,225.01419970464613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1853081601:0387/pct:6.485582127743332,8.012420008330494,22.694616671587443,75.00473323488205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ makes himself judge in his own cause.
 demns the offender without a jury, and un-  
 dertakes himself to be the execntioner.&quot; T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1860061501:0953/pct:340.2700555996823,183.77581120943952,52.18427323272439,13.333333333333334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1860061501:0953/pct:85.08440913604767,45.94395280235988,13.04865938430983,3.3333333333333335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ ing to it makes himself judge in his own cause,
 condems the offender without a jury, and under­  
 takes himself to be the executioner. To thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775678:1860070301:0119/pct:145.77617328519855,123.59994729213335,45.12635379061372,5.323494531558835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775678:1860070301:0119/pct:36.45062285611121,30.899986823033338,11.283625203105254,1.3308736328897088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ judge in his own cause, condemns the
 offender without a jury, and under­  
 takes himself to be the executioner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1860070501:0538/pct:250.32708242477105,240.85803563888186,43.61098996947231,12.26247783126425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1860070501:0538/pct:62.58859448260822,60.214508909720465,10.903936321011885,3.0656194578160627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ in his own cause, condemns the offender without
 a jury, and undertakes himself to be the execu  
 tioner.&quot; To these emphatic words I would ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860071101:0322/pct:46.44556811421773,218.78363832077503,38.771564544913744,6.97524219590958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860071101:0322/pct:15.486462362392146,72.92787944025834,12.92770008925915,2.32508073196986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1142,7 +1142,7 @@ duchy. The latter replied to the
 bearer of the challenge: &quot;That the  
 virtue of a prince did not consist i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293009:1869102501:0505/pct:61.111111111111114,283.965625654999,37.11583924349882,22.385244183609306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293009:1869102501:0505/pct:15.28003546623319,70.99140641374974,9.280331018176444,5.596311045902326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ sent a challenge to Humbert II. of the
 bearer of the challenge: &quot;That the virtue  
 of a prince did not consist in strength o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1869111801:0191/pct:65.66274762441617,34.67724407737448,15.992913512642938,9.182786350793306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1869111801:0191/pct:65.67348472647232,34.68448887922915,15.992913512642938,9.182786350793306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1311,7 +1311,7 @@ to the bearer of the challenge, &quot;That
   
 the virtue of a prince did not co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:0020219722A:1869123101:0633/pct:69.08249807247495,192.84316466312552,49.65304548959136,34.498182834777744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:0020219722A:1869123101:0633/pct:17.280617164898747,48.21079116578138,12.420443587270974,8.624545708694436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1432,7 +1432,7 @@ matter. For if you will kill me, I shall
 smell too ;and it I kill you, yoa will smell  
 if possible worse thaa you do at present
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vnstcsc:batch_vnstcsc_adelphi_ver01:data:sn84037526:00414219949:1877072101:0233/pct:50.30331311245917,34.345408086577486,30.564629024731683,9.98045994288291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vnstcsc:batch_vnstcsc_adelphi_ver01:data:sn84037526:00414219949:1877072101:0233/pct:38.98499186305828,26.617224508814164,23.693568802362726,7.742486604022676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

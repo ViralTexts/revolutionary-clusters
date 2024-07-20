@@ -439,7 +439,7 @@ had great influence in the government of the col
 who dares think one thing and another tell  
 My heart detests him as the gates of hell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744031:1878092901:1080/pct:60.9881031064111,82.40836493163278,37.40912095175149,2.757669769045157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744031:1878092901:1080/pct:20.329367702137034,27.469454977210923,12.469706983917163,0.9192232563483856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ Town from 1749 to 1879; together with a History of all the Church Organiza
 Who dares think one thing and another tell.  
 My heart detests him as the gates of hell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762349:1885021101:0035/pct:39.80473751600512,57.756563245823386,10.051216389244559,0.7159904534606205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762349:1885021101:0035/pct:39.81274007682458,57.756563245823386,10.05521766965429,0.7254113804798392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ My heart detests him as the gates of hell
 tell  
 My heart detests him as the gates ot hell,&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347737:1887112301:0452/pct:48.52467465532792,13.26701467546538,10.887772194304858,1.2902590367379099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347737:1887112301:0452/pct:48.52467465532792,13.270297777340032,10.89636215264356,1.2968252404872123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ tell,
 My heart detests him as the gates of  
 hidl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332891704:1891100201:0191/pct:61.58789663944303,28.59220779220779,11.12598741464721,1.8805194805194805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332891704:1891100201:0191/pct:61.58789663944303,28.5991341991342,11.134913196768867,1.8805194805194805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

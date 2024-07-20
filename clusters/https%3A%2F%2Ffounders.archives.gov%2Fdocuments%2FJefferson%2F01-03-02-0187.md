@@ -34,7 +34,7 @@ PROCLAMATION.
 WHEREAS it is, at all times, our duly to approach the  
 throne of Almighty God with gratitude and piaife, hu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791112601:0001/pct:6.509433962264151,20.57965376385917,27.38993710691824,3.170589379498152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791112601:0001/pct:6.533018867924528,20.58451663100564,27.37421383647799,3.1900408480840303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -59,7 +59,7 @@ tice of virtue ; and for this purpose to pour out his holy spirit on
 all ministers of the gospel, and to spread the saving light thereof  
 to the nroft drftant parts of the earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791112601:0001/pct:6.572327044025157,31.39467029760747,27.51572327044025,7.7027815600077805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791112601:0001/pct:6.572327044025157,31.404396031900408,27.52358490566038,7.71737016144719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ f these United States upon the basis of religion
 nd virtue, and support and protect them in the  
 njoyment of peace, liberty, and safety
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851112701:0569/pct:29.408474339253253,21.22898808861182,14.627324849671375,25.24769008126461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851112701:0569/pct:29.417797044702372,21.23640951426769,14.622663496946814,25.24769008126461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ itpon the basis of religion and virt ue, and support
 and protect them in the, enjoyment of peace, liberty,  
 and safety.&#x27;&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853111301:0187/pct:2.323972886982985,23.622388221283966,13.459676303776456,18.458373930929955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853111301:0187/pct:2.3285839442984275,23.62599689653928,13.459676303776456,18.46198260618527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ abundance, that we may with gratitude
 and gladness enjoy them ; that Ho would  
 tako into
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_emerson_ver01:data:sn84020631:00415627890:1889050401:0440/pct:12.430500397140587,7.758257203092059,49.861000794281175,41.85523541813071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_emerson_ver01:data:sn84020631:00415627890:1889050401:0440/pct:9.334657398212512,5.818692902319044,37.39821251241311,31.39845397048489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ dependence of these I&#x27;nited States upon
 the basis of religion and virtue, and sup­  
 port them in the enjoyment of pence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_emerson_ver01:data:sn84020631:00415627890:1889050401:0440/pct:45.92930897537728,45.72030920590302,15.984908657664814,5.579761068165847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_emerson_ver01:data:sn84020631:00415627890:1889050401:0440/pct:34.458788480635555,34.2937456078707,11.996027805362463,4.188334504567814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ triumph over the bulwarks of the foe.
 The year 17S0 was perhaps the darkest  
 in the Revolutionary war. The arm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210879:1894112701:0072/pct:18.11962470680219,3.9058895894202674,25.80140734949179,91.18868214670152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210879:1894112701:0072/pct:18.116083642759428,3.905289052890529,25.80125073285128,91.17850553505535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ difficulties and dangers, and for arm­
 ing the hands of Just and mighty  
 princes In our deliverance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pipit_ver04:data:sn85042400:00202194333:1899113001:1215/pct:26.82639434406913,98.98793844447525,15.946582875098192,2.6895882434493275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pipit_ver04:data:sn85042400:00202194333:1899113001:1215/pct:20.13356904340994,74.24095383335644,11.962286387743076,2.024123111049494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

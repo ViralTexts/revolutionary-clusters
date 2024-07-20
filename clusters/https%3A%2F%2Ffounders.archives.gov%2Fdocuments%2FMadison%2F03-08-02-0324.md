@@ -102,7 +102,7 @@ these States, his blessing on their arms, and
 the speedy restoration of peace.  
 H. CLAY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812072301:0657/pct:26.58102766798419,7.5575027382256295,22.348484848484848,24.94274619137708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812072301:0657/pct:26.586517347386913,7.5575027382256295,22.353974527887573,24.949384314115967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ independence of the United State*
 the thirty eigth­  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814112601:0315/pct:44.67860906217071,6.044740599714422,33.17527221636811,86.53022370299857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814112601:0315/pct:44.670763827919224,6.044021415823915,33.175299970734564,86.52389450723776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ Given under my hand, at the City of Washing­
 ton, the 16¢h day of November, 1814, and of  
 the Independence of the United Siates th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814112901:0193/pct:23.736644527866012,11.670725767169996,17.210511117528156,27.03360935216756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814112901:0193/pct:23.736644527866012,11.673973047572657,17.21532390027914,27.03360935216756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ eight bu® ired and {o\lﬂlﬂ!, and of the Indepen­
 dence of the Übited States, the t\vlra-oisl&#x27;gz‘o 3  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814113001:1148/pct:48.84979702300406,7.8949946125967285,22.69959404600812,18.552257811734744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814113001:1148/pct:48.85543527289129,7.898259705488621,22.693955796120886,18.55878799751853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1052,7 +1052,7 @@ hundred and fourteen, and of the Independence of the
 United States, the thirty-eighth.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841051801:0298/pct:17.248709383540845,3.433603799722937,32.660188278165805,95.54719968335642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841051801:0298/pct:17.25377062455714,3.4402005409327794,32.665249519182105,95.55049805396135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

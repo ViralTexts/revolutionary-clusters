@@ -72,7 +72,7 @@ it. 1 cannot therefore bat recosumend
 the suspension of this net «on-  
 on considerations af justice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806120501:0003/pct:41.08212147134303,7.477489233981469,17.57912745936698,14.341641654704423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806120501:0003/pct:41.089250071286,7.48183914045848,17.57912745936698,14.341641654704423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ reasonable time, on cons drra mns ol jua.
 &#x27;ticc amnssy and the Fubssnc me: (9 9.  
 Tfi: jEI—ÞLRSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1806120601:0253/pct:49.176680017801516,2.5880469583778014,46.31360332294912,92.41373176805408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1806120601:0253/pct:49.169385938890535,2.5878168074699865,46.311678038168694,92.40847784200385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ fufpenfion of this a&lt;ft for a realonabte time, on
 lic interefts.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806120901:0247/pct:40.81970226061386,2.8018844532606,35.47142069472523,92.21423258120505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806120901:0247/pct:40.81220139654539,2.801537126565018,35.471027808403775,92.20693359778521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ considerations of justice, amity, and the pub­
 lic interests.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806120901:0405/pct:60.0347021399653,62.810977173634264,18.141507615191827,25.04488330341113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806120901:0405/pct:60.02313030069391,62.80292345172458,18.14443587766641,25.04594606146087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ sonable time, on considerations of justice, amity,
 and the publick interests.  
 Til: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806121001:0256/pct:3.982191441998516,2.3172905525846703,43.35889191194657,94.60379192999514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806121001:0256/pct:3.9812067260138475,2.3169151004536617,43.35435212660732,94.59251458198315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ a reasonable time, on considerations of justice,
 amity, and the public interefls,  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806121601:0412/pct:42.10526315789474,29.10812157448929,17.38247696392316,24.075734927752865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806121601:0412/pct:42.10526315789474,29.11144328184687,17.392888750065072,24.072413220395283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

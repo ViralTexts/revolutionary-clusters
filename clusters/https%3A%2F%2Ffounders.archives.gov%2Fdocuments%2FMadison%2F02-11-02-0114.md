@@ -116,7 +116,7 @@ ing to 010 lor er less tleft­
 Britain, d the Resumed  
 right to impress persons from Amen- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806020301:0001/pct:4.475079533404029,32.34630195193201,18.324496288441146,46.89948214048599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806020301:0001/pct:4.475079533404029,32.3507281016244,18.338635560268646,46.90390829017837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ i ■ St. DeimlngOj a &#x27;trans-&#x27;
 Tlie irregular mode of search above  
 the crni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806020301:0001/pct:3.9660657476139978,8.777054839994689,73.70095440084836,88.84610277519586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806020301:0001/pct:3.9731353835277483,8.781480989687072,73.71509367267586,88.85495507458062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ nate. &#x27;­
 si\ All which is scapetsully submitted,  
 ; sssi . ]AMES MADlsoNsi 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806020701:0196/pct:53.37096774193548,5.024842973657073,44.145161290322584,90.11905877941314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806020701:0196/pct:53.36236090953072,5.024371953505812,44.14341772832339,90.11373578302712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ nate.
 All which is n fprdCnlly fubmitted.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806020801:0348/pct:3.0594900849858355,15.91664535924316,18.54579792256846,61.58271541805165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806020801:0348/pct:3.0589123867069485,15.914610763134348,18.548590130916416,61.579104350419705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ the resolution of the Senate.
 Ml which it ret/iecrfully submitted.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806021001:0952/pct:5.5798156234837455,27.05375657999681,20.96069868995633,58.557983729462435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806021001:0952/pct:5.578462284744118,27.049441786283893,20.96167838952219,58.55263157894737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ royal majesty provides, that every fo­
 v w^acrfcsta on hoard the vsassli of war  
 ^ najnlconrincrce of the enemy, is to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806021401:0569/pct:4.934770277935337,40.16684416045438,21.80941576857629,5.307064252751154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806021401:0569/pct:4.933371136943578,40.15971606033718,21.810320385596825,5.3105590062111805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ the refolution of the Senate.
 All which is refpe&amp;fullv fubmitted.  
 JAMUS M i DISUN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806021701:0780/pct:8.39539607312119,3.308397429143399,54.57007447528775,93.02497102518176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806021701:0780/pct:8.393975291927568,3.3080488832701223,54.565070231849724,93.01780446691951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ purvicw of the relolution of the Senate.
 Al awbich is refpefully submitted.  
 : JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806021801:0238/pct:59.834177798249655,5.19055180627233,32.98019345923537,91.39539499801509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806021801:0238/pct:59.844413736629306,5.19055180627233,32.98019345923537,91.3987031890962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1157,7 +1157,7 @@ voyage is liable to capture, on account
 t age, contraband articles to an enemy&#x27;s  
 . port. To these may he added the righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806032401:0001/pct:40.242557883131205,16.57190403550132,19.095920617420067,6.3098044654000836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806032401:0001/pct:40.24990812201396,16.576526602875237,19.095920617420067,6.3098044654000836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1183,7 +1183,7 @@ important, tho’ totally destitute of any legal or e­
 quitable foundation, and against which this nation  
 ought to lift up her hands to Heaven by way of so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806033101:1035/pct:54.58547322083639,4.967948717948718,20.763022743947175,7.163461538461538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806033101:1035/pct:54.572127139364305,4.967152699887839,20.7640586797066,7.166319500080116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1310,7 +1310,7 @@ the 22d of last month, but the honor to
 etate that it appears from the records in this ,  
 ssdepartma-nt that in the years 1801 and !SOLs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810021401:0191/pct:50.99348806144599,68.10116655229879,22.324261145433294,4.489755906283698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810021401:0191/pct:50.98497495826377,68.09449127622035,22.326099053978854,4.492583153630007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1339,7 +1339,7 @@ ence with the ocean—1st. by claiming this
 navigation as a natural right sanctioned by  
 the general principles of the law of nation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021601:0370/pct:2.4215740231150247,11.81352208933366,17.648137956338285,8.33536734195753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021601:0370/pct:2.421129860601614,11.812080536912752,17.651014918072878,8.33841773439089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1419,7 +1419,7 @@ itself an interpolation ;” which is, that a
 vessel is liable to re capture on her return 1  
 voyage, if she had only on her outward on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810111601:0230/pct:22.70821942773829,57.86509976741339,17.605248769819575,3.403109315705717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810111601:0230/pct:22.70408163265306,57.858017135862916,17.608114674441204,3.4067727458180332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1439,7 +1439,7 @@ ns a prisoner of war” was in contraven­
 tion of the law of nations.  
 The Geneva or Red Cross convention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_arguingmatch_ver02:data:sn96060765:0038334184A:1898060401:0282/pct:4.007150305377626,33.427187746367835,12.095933263816475,3.0296204527536883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_arguingmatch_ver02:data:sn96060765:0038334184A:1898060401:0282/pct:4.012115795223199,33.434696099410594,12.105864243507622,3.0296204527536883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1462,7 +1462,7 @@ Enint
   
 of the law o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065832:00415624839:1898070801:0496/pct:57.519788918205805,20.476389469285415,15.72965293281916,30.268839671263407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065832:00415624839:1898070801:0496/pct:57.52486299979704,20.486836606769746,15.744875177592856,30.26187491294052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1505,7 +1505,7 @@ prisoner of war” was in contravention of the
 law of nations.  
 The Geneva or Red Cross convention, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898072801:0372/pct:52.19344608879493,23.42721287490856,21.19450317124736,3.6210680321872712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898072801:0372/pct:52.17965653896962,23.42292923752057,21.195508586525758,3.624977143901993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1545,7 +1545,7 @@ as a prisoner of war” was in contraven­
 tion of the law of nations.  
 The Geneva or Red Cross convention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_garfield_ver01:data:sn86066870:00383341425:1899010601:0035/pct:23.46153846153846,33.1013484123532,17.435897435897434,3.5667681600695955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_garfield_ver01:data:sn86066870:00383341425:1899010601:0035/pct:23.46955128205128,33.11222270552414,17.451923076923077,3.5722053066550674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -39,7 +39,7 @@ a judiciary nature. The right of expounding the
 Constitution, in cases not of this nature, ought not  
 to he mven to that department.&quot; Mr. Madiso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851120601:0561/pct:72.04812534974818,18.790143641247226,18.578623391158366,7.707579119467477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851120601:0561/pct:54.058214385670304,14.095527268480673,13.937867338371117,5.780684339600607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -63,7 +63,7 @@ this Consditntion.&quot;
 of this nature, ought not to be given to that depart­  
 ment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1858043001:0496/pct:27.446483180428135,31.005917159763314,49.38837920489296,13.78698224852071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1858043001:0496/pct:6.862932517683044,7.7514792899408285,12.349455171095393,3.4467455621301775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ ought not to be limited to cases of a judiciary nature.
 The right of expounding the Constitution, in cases not of  
 this nature, oughtt not to be given to that department.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858050601:0883/pct:77.28260869565217,103.67278797996661,16.286231884057973,3.351740079619879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858050601:0883/pct:57.99202609641174,77.75780146397842,12.214570496556723,2.517015538718377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ cases of judiciary nature. The right of expound­
 ing the Constitution, in cases not of this nuture  
 ought not to be given to that depurtment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1858051201:0880/pct:337.8267973856209,286.5261514441842,49.91830065359477,14.676034348165496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1858051201:0880/pct:84.49121373109931,71.63153786104606,12.48467511238251,3.669008587041374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ to be limited io oaaes of a judicia-y na
 tore.&quot; The motion was agreed to nem  
 eon, &quot;it being generally supposed thk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_mazama_ver01:data:sn84022644:00295867516:1887020401:0348/pct:82.4009900990099,108.08287131601985,14.78960396039604,5.748468047855267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_mazama_ver01:data:sn84022644:00295867516:1887020401:0348/pct:61.82223322604605,81.06215348701488,11.091854419410746,4.3186460461044645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ cases of this nature ought not to be given to
   
 that department The motion of Dr. Johnso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887022401:0543/pct:48.79372738238842,60.917507541870386,20.702653799758746,5.305315718298138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887022401:0543/pct:36.611856992004824,45.68813065640279,15.537788505053552,3.9841880786435038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

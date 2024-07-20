@@ -122,7 +122,7 @@ to express public Utanks to these our brethren, as to them
 we are indebted for every late happy success over the com  
 mon enemy in Canada. 6. WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855041201:0452/pct:36.138044371405094,79.72616505464137,16.121610517666394,8.617007913578696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855041201:0452/pct:36.14900027389756,79.72616505464137,16.121610517666394,8.625382070929113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ same cause?the deb me ot the general lihertv of i
 America. At such a juncture, and in such circtim- ]  
 f stain es, to be in. lilting their religion, i? *,? monstrous I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855041701:0601/pct:56.05621558968415,14.993744586661535,13.807592002318168,4.965835819459147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855041701:0601/pct:56.06104510769825,15.000160395213808,13.807592002318168,4.969043723735283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ picas public thanks tollies* our bretheriu, as to
 ihom we arc indebted lor every late happy sue- j  
 eras evur the common euerny in Canada
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1855042101:0249/pct:56.425774296902816,66.81362725450902,12.993948024207903,9.245156980627922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1855042101:0249/pct:56.41573233671472,66.80470211060647,12.99608471258231,9.247261554902485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ our duty to express public thanks to these our bre­
 thren, as to them we are indebted for every late  
 happy success over the common enemy in Canada
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855042501:0489/pct:64.57257601835916,58.44184027777778,19.965576592082616,11.54513888888889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855042501:0489/pct:48.44355185769617,43.83680555555556,14.976330512121647,8.658854166666666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ duty to express public thanks to these our brethren
 as to them we are indebted for every late happy gUC!  
 cess over the common enemy in Canada
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855050401:0291/pct:109.7022860180755,31.254917387883555,20.04253056884636,11.575531077891425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855050401:0291/pct:82.29429748770437,23.446105428796223,15.033896052106872,8.684107002360346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ public thanks to those our brethern,
 to them we are indehted for every late  
 happy success over the common enemy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855050401:0086/pct:203.3117932148627,216.92627206645898,55.65428109854604,67.49740394600208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855050401:0086/pct:50.82794830371567,54.231568016614744,13.91357027463651,16.87435098650052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ brethren, as to them we are indebted for ey­
 ery late happy success over the common en­  
 emy in Canada
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1855050501:0022/pct:219.10420475319927,235.69391634980988,52.65082266910421,44.961977186311785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1855050501:0022/pct:73.03473491773309,78.56463878326996,17.550274223034734,14.987325728770596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ nreaa public thanks to these, our brethren, aa to
 them we are indebted for every late happy success  
 over the common enemy In Canada
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855111601:1251/pct:19.32245922208281,55.073968336361276,15.630041226026169,13.28834674279782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855111601:1251/pct:19.32245922208281,55.08261960377195,15.630041226026169,13.284021109092482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ it is our duty to tender thanks to
   
 them, our brethren, as to them we
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295877996:1876012901:0311/pct:105.55555555555556,311.0801781737194,46.3768115942029,59.465478841870826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295877996:1876012901:0311/pct:26.394201731427422,77.77004454342985,11.596537145158043,14.866369710467707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ brethern as to tbem we are iudebted for
 every late success oyer the common  
 enemy in Canada.&quot; Washington&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1889122101:0170/pct:36.07803758427772,49.751596877217885,13.914789843637928,17.23613505018757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1889122101:0170/pct:36.07803758427772,49.75497651154145,13.924353273083728,17.23613505018757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ I see the impropriety of such a step.&quot;
 I When trying to secure some servants  
 j too, be wrote that &quot;if they arc goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovelock_ver01:data:sn85042461:00280769708:1896122001:0570/pct:43.967280163599185,49.413942011104254,12.781186094069529,4.7193090684762495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovelock_ver01:data:sn85042461:00280769708:1896122001:0570/pct:43.98261758691206,49.41779765576804,12.776073619631902,4.7193090684762495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1400,7 +1400,7 @@ public thanks to our Catholic brethren, as to
 them we are indebted for every late success  
 Over the common enemy m Canada
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_fredsplace_ver01:data:sn85066387:00175037615:1897102601:0398/pct:57.15175097276265,34.35105641978175,13.354085603112841,5.305316925934525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_fredsplace_ver01:data:sn85066387:00175037615:1897102601:0398/pct:57.156939040207526,34.35105641978175,13.359273670557718,5.320795604055414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

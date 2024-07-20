@@ -224,7 +224,7 @@ he has done his house, upon an eleva­
 ted situation, from which he might  
 contemplate the universe. - &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801060901:0511/pct:41.21475054229935,52.09274906661427,16.702819956616054,3.9889958734525446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801060901:0511/pct:41.21475054229935,52.0960241042772,16.707984712323107,3.9922709111154777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ he had placed his mind; as he has done his
 houfé, upon an elevated fituation, from which  
 he might contemplate the Univerfe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804011901:0426/pct:46.39657187378263,62.750146284376825,20.27658745617452,3.311878291398479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804011901:0426/pct:46.40955720036359,62.754047201092256,20.27658745617452,3.3157792081139066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ has dene his house, upon an elevated
 situation, from which he might con­  
 template the Universe. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0521/pct:24.538893344025663,60.54619407321325,16.680032076984762,3.9318225837691263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0521/pct:24.549585672280138,60.54619407321325,16.669339748730287,3.935050681128543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ By the shade of yon sumach, whose red berry
 “In the gush of the fountain how sweet to  
 *’ 1 recline
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806110801:0371/pct:5.539745778789603,21.6006216006216,17.890343388351358,2.331002331002331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806110801:0371/pct:5.538694992412746,21.59782467952868,17.89327263530602,2.335016617031378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ Retirement, rural quiet, friendship, books,”
 Dy the shade of yon summack, whose red Lerry dips,  
 In the gush of the fountain, how sweet to recline
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809082301:0087/pct:3.4970722186076775,48.792460239544475,20.90110605074821,1.1682701747496564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809082301:0087/pct:3.5079158533940578,48.792460239544475,20.90110605074821,1.1748151057006349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ How blest could I live aud how cal.*n could I die.
 By the shade of yon Sumach, whose red berry dips  
 In the gush of the fountain, bow sweet to recline
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812042401:0236/pct:5.485632866302541,38.30998248686515,22.393730705295653,10.42031523642732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812042401:0236/pct:5.484330484330484,38.304392236976504,22.394349477682812,10.422442725813513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ dips &#x27;
 In the gush of the fountain, how sweet to re­  
 cline
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816022701:0476/pct:4.496100321150023,21.62828947368421,17.173879798134273,2.2203947368421053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816022701:0476/pct:4.501197940561758,21.62828947368421,17.173879798134273,2.2341008771929824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ Retirement, rural quiet, friendship, books,
 Ease and alternate labor, useful life,  
 Progressive virtue and approving heaven 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818092901:0244/pct:45.71609900571187,7.477251747329553,16.88174317749101,2.967163391797442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818092901:0244/pct:45.706429780033844,7.47626582278481,16.885222786238014,2.971167369901547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ house Monticello, (in Italian, Little Mountain) a
 very modest title, for it is situated upon a very  
 lofty one, but which announces the owner’s a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071401:0568/pct:22.57001647446458,11.155422621025812,17.528830313014826,4.364683726597984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071401:0568/pct:22.56629879756218,11.154186973859105,17.531433591390766,4.367892482646581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1026,7 +1026,7 @@ Progressive virtue and approving Heaven.”
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-05_9_17/page/n25/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-05_9_17/page/n25/mode/1up?view=theater)
 
 #### 1849-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1193,7 +1193,7 @@ Retirement, rural quiet, friendship, books,
 &#x27; Ease and alternate labor, useful life,  
 &#x27; Progressive v irtue and approving Heaven.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:00415663456:1858050501:0426/pct:58.77807983974817,55.69633186880556,13.76448705108027,4.689894758352917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:00415663456:1858050501:0426/pct:58.77807983974817,55.69973774735193,13.769256450612868,4.693300636899288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1369,7 +1369,7 @@ Retirement, rural quiet, friendship, books,
 Ease and alternate labor, useful life,  
 Progressive virtue,and“apprdving Heaven’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151222:1872062701:0450/pct:49.97998131589483,82.4074074074074,14.360069398104898,11.01364522417154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151222:1872062701:0450/pct:49.97998131589483,82.4074074074074,14.373415187508341,11.02014294996751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1405,7 +1405,7 @@ Retirement rural quiet, iriendship, books,
 Ease and alternate labor, useful li e,  
 Progressive virtue, and approving heave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293101:1874071901:0069/pct:57.18407386035776,303.62728785357734,31.90998268897865,4.170826400443705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293101:1874071901:0069/pct:14.3001443001443,75.90682196339434,7.97979797979798,1.0427066001109262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1506,7 +1506,7 @@ berry dips
 In the gush of the fountain, how sweet  
 to recline
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035800:00332896921:1886042701:0455/pct:15.650209745079058,4.914817992401029,9.648273636656986,11.631327368550068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035800:00332896921:1886042701:0455/pct:15.647685110501694,4.91421568627451,9.650750120987256,11.63296568627451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1546,7 +1546,7 @@ berry dips
 In the gush of the fountain, how sweet  
 to recline
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_antelope_ver02:data:sn86075021:00294555365:1886042901:0421/pct:32.142857142857146,34.91055972302366,55.05226480836237,59.31909982688979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_antelope_ver02:data:sn86075021:00294555365:1886042901:0421/pct:8.035714285714286,8.727639930755915,13.763066202090592,14.829774956722447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1586,7 +1586,7 @@ berry dips
 In the gush o&#x27; the fountain, how sweet  
 to rechne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn86063756:00294558792:1886042901:0126/pct:1.8744142455482662,4.1774173731416635,16.26991565135895,15.481017323995577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn86063756:00294558792:1886042901:0126/pct:1.8806622930334271,4.185608387598804,16.282411746329274,15.485112831224146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1604,7 +1604,7 @@ larry dips.
 In the gush of the fountain, how sweet  
 to recline
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_kirby_ver01:data:sn88067211:00514150643:1886042901:1100/pct:37.31923159939564,17.55671902268761,10.748974746384633,1.675392670157068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_kirby_ver01:data:sn88067211:00514150643:1886042901:1100/pct:37.324627671055474,17.56108202443281,10.759766889704295,1.692844677137871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

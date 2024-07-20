@@ -48,7 +48,7 @@ St. Lawrence, and all other place* in the aeas
 where the inhabitant* of both countries used at  
 anj tine theretofore to fish. &#x27;The eoutinuauec t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815041701:0295/pct:73.48562628336755,4.151683556717882,22.17659137577002,4.004576659038902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815041701:0295/pct:73.46676930972544,4.1510050661872855,22.177315884013343,4.008007844419023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -68,7 +68,7 @@ rence, and all other places in the sea
 wl&gt;ere the inhabitants of both countries  
 used at any time theretofore to fish. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815042101:0196/pct:62.14233308877476,39.14886102772382,17.887013939838592,3.99964683030196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815042101:0196/pct:62.13321596244131,39.145404785026926,17.88928012519562,4.002236543951032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ fuch fettiement, without a previous agree­
 ants, proprietors crp&lt;ff:fiofs of the  
 ground.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815042401:0056/pct:24.170846141401068,62.08033573141487,18.70247532761689,17.086330935251798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815042401:0056/pct:24.166936266580393,62.07413328004796,18.703494014881915,17.08712159056849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ without a previous agreement for that pur­
 pose, with the inhabitants, pioprietors, or pos­  
 sessors of the ground.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818100201:0173/pct:18.6046511627907,34.112092966953156,15.132890365448505,11.330347415567122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818100201:0173/pct:18.601561202458065,34.10796417332365,15.135913192714389,11.333010570483337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ of Labrador; but so soon a* the same, or any portiou thereof,
 ?hall be settled, it shall not be lawful for the said fishermen to  
 dry, or cure fish without previous agreement for such purpos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743130:1839062601:0305/pct:6.620439161300974,32.45159837910851,18.11127620934456,6.3372354795137325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743130:1839062601:0305/pct:6.620439161300974,32.45535044274351,18.11127620934456,6.3409875431487315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ portion so settled without previous agreement for such
 purpose, with the inhabitants, proprictors or possessors  
 of the ground
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530388:1852072001:0346/pct:4.193658370269349,229.62707974756168,48.09069212410501,25.083189902467012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530388:1852072001:0346/pct:1.3978861234231164,76.5423599158539,16.030230708035003,8.361063300822337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ at such portion so settled, without previous agree­
 ment for suoh purpose with the inhabitants, proprietors,  
 or possessors of the ground. And the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852072401:0275/pct:3.067057019378224,72.1976401179941,15.446814443050327,8.807416772018541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852072401:0275/pct:3.067057019378224,72.204663576345,15.446814443050327,8.807416772018541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ so settled without previous agreement for such j
 purpose, w ith the inhabitants, proprietors or pos- ,  
 eessors of the ground
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1852073001:0349/pct:37.41166077738516,94.75735479004274,17.108362779740872,13.540357053055066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1852073001:0349/pct:28.070692194403534,71.0711591651999,12.842415316642121,10.15841086245914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ was the broadest and most direct conveyance
 of authority to the people of the United States  
 to fish &quot;on all the coasts, bays and creeks&quot; o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022601:0456/pct:58.443928334439285,199.7710884743047,46.566025215660254,20.54480943115486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022601:0456/pct:19.481309444813096,66.59036282476822,15.522008405220085,6.848269810384953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ enuen to dry or cure lih at such settlement without
 a previoua agreement for that unrpoi with the uv  
 babitauts, proprietors or possessor of the groun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197590:1869012001:0006/pct:51.23526108927569,20.01870907390084,14.03705783267827,3.3676333021515434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197590:1869012001:0006/pct:38.43886003088586,15.014031805425631,10.52927137442089,2.525724976613658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ men to ury or cure fish at such settlement without a previous
 agreement for that purpose with the inhabitants, proprietors  
 of possessors of the ground.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871022001:0546/pct:57.21107927411652,235.95821163783418,45.4632282712512,17.614019321500788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871022001:0546/pct:19.07035975803884,78.6527372126114,15.154409423750398,5.871339773833595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

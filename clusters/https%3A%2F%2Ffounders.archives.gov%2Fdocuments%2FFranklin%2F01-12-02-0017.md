@@ -372,7 +372,7 @@ manner prejudicial to the commonwealth, quietness.
 rest, and peace of the subjects inhabiting within the  
 same.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070701:0474/pct:287.9573170731707,183.47509113001215,50.609756097560975,6.622114216281895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070701:0474/pct:71.98932926829268,45.86877278250304,12.652439024390244,1.6555285540704738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

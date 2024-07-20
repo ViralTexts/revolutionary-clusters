@@ -200,7 +200,7 @@ shall get something by it worth our pains if we live
 till spring. It is no matter how old the linen is—l  
 am afraid you never have any bad enough.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859082301:0187/pct:73.98500495119536,61.904761904761905,11.048238789079077,19.282648681790313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859082301:0187/pct:73.98500495119536,61.9081681313441,11.048238789079077,19.27924245520812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ al that has been wrote on the subj ct, and,
 being given in the manner they were, are a  
 y proceeded tom a bue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090601:0227/pct:57.20670391061452,42.31154659837435,71.89944134078212,344.7722970715956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090601:0227/pct:14.305671975412126,10.577886649593587,17.979882648784578,86.1930742678989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ them good colors, and my daugh er Jenny, with
 pring.  
 I am afraid you never have any bad enough.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090601:0227/pct:93.35195530726257,69.92539806257655,35.02793296089386,36.56608395501615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859090601:0227/pct:23.344509639564123,17.481349515644137,8.75943000838223,9.141520988754037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ money to her descendants.
   
 RISE AND FALL OF LAND.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768832:1898112901:0252/pct:56.305909033639914,72.17838135437695,12.422829784553358,8.955771701229583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768832:1898112901:0252/pct:56.31010877325606,72.17838135437695,12.422829784553358,8.961889031626598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ fested yours for me in such large meas­
 ure that 1 have no reason to suspect  
 its strength.” Jane Mecom alone o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1898120101:0380/pct:46.75915889876436,89.19411139778418,17.49403858660308,7.77052663530126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1898120101:0380/pct:36.243489947919585,69.12491178546225,13.552108416867336,6.0221124441307925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ fested yours for me in such large meas­
 ure that I have no reason to suspect  
 its strength.” Jane Mecom alone o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_juanita_ver01:data:sn84002889:0051368101A:1898122201:0587/pct:45.2937708783651,71.1603570329332,12.418942817842405,6.232686980609419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_juanita_ver01:data:sn84002889:0051368101A:1898122201:0587/pct:45.3035959913539,71.1603570329332,12.418942817842405,6.232686980609419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ fested j&#x27;ours for me in such large meas?
 ure that I have no reason to suspect  
 Its strength.&quot; Jane Mecom alone o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_navy_ver01:data:sn95079154:00175031236:1899031601:0451/pct:37.808300103382074,84.31454564467218,12.007089056269384,5.604935689637143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_navy_ver01:data:sn95079154:00175031236:1899031601:0451/pct:37.808300103382074,84.32151695771898,12.021857923497267,5.604935689637143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

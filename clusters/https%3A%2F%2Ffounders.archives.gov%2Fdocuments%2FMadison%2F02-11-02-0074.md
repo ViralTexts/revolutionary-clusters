@@ -69,7 +69,7 @@ serving that although this government
 no doubt may have hid their reasons to  
 solicit it, they hitherto have forgotten t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021901:0003/pct:21.97968446077372,33.28248509222022,18.694618543332613,24.80931909582582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021901:0003/pct:21.986888552697934,33.28248509222022,18.6874144514084,24.80931909582582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ of having employed all my zeal anel fee­
 ble talents in defence of the rights of the  
 best of kings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021901:0003/pct:22.022909012318998,69.39398141727915,18.41365895828831,19.98335875745389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021901:0003/pct:22.022909012318998,69.403226552027,18.41365895828831,19.98335875745389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ and above all, with the corfolir.g fatisfaftion of
 ; hating employed all my zeal and feeble talents  
 in defence of the rights of the heft of kings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022101:0366/pct:39.2065561557087,27.874340157074805,17.805922890668654,14.741856572679284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022101:0366/pct:39.19925512104283,27.870751802265705,17.80881440099317,14.744249914177823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ observing that although this government no doubt,
 may have had their reasons to solicit it, they hither­  
 to have forgotten to communicate them to mine ; fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022401:0975/pct:53.66435903556935,27.0786874800892,20.983528288374313,19.321439949028353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022401:0975/pct:53.65155131264916,27.07437490046186,20.984486873508352,19.32234432234432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ faction of having employed all my zeal and feeble ta­
 lents in defence of the rights and interest of the best  
 of kings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022401:0975/pct:54.07018381475292,49.95221408091749,20.577703509190737,17.56928958266964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022401:0975/pct:54.05727923627685,49.944258639910814,20.57875894988067,17.570473005255614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ sires far my departure from the United
 Slates are to he accomplished*  
 In regard to the objections which thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022501:0071/pct:58.531598513011154,7.182812102720569,17.490706319702603,23.201118738876175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022501:0071/pct:58.52072105556588,7.181899072073217,17.493650498668153,23.20240667768315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ of Having employed all my z.&#x27;al and fee­
 ble talents in defence of the rights of the  
 best of kings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022501:0071/pct:58.531598513011154,57.25908975336893,16.95167286245353,7.627765064836003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022501:0071/pct:58.52072105556588,57.251811363925256,16.954717214891904,7.631032583365112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ ments of affection Towards a virtuous
 people, in whofe bofom l have lived  
 ten years, with the intimate teftuno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806030301:0787/pct:58.300155790202524,53.016134004727164,17.760083088108015,15.291336964340767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806030301:0787/pct:58.29006576670128,53.01068639539663,17.761336102457598,15.292334566378956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ zeal and feeble talents in defence of]
 the rights and interefts of the belt of  
 Kings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1806092901:0055/pct:21.96561024949427,14.631383855024712,35.83951449763992,79.9835255354201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1806092901:0055/pct:21.961907972358,14.629877483784618,35.8376875105343,79.97786471738907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

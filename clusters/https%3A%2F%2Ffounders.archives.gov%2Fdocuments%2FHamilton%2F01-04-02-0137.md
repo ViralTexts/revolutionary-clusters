@@ -172,7 +172,7 @@ Here are three of its provisions :
 ed in two distinct bodies of men, one  
 bly, the other the Senate, subject to the negative herunaite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848072901:0273/pct:14.403879064460924,18.58457344087243,15.701654306902453,3.123935022151539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848072901:0273/pct:14.403879064460924,18.58457344087243,15.706408062369272,3.135294785868454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ stitution. It is evident that he intended
 to establish a Senate for life, and to make  
 the President a part of the logislative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848080801:0437/pct:17.21183800623053,24.76595744680851,37.38317757009346,30.28723404255319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848080801:0437/pct:5.738024146436453,8.25531914893617,12.462676879137998,10.095744680851064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ one to be called the Assembly, the other the
 Senate, subject to the negative herein after  
 mentioned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848080801:0563/pct:169.8340874811463,99.41486249268578,51.96078431372549,26.38970157987127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848080801:0563/pct:42.482550462176945,24.853715623171446,12.997547632522165,6.597425394967818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ the President a part of the legislative power.
 But the Executive practice in these days  
 (all of which se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848080801:0563/pct:169.30618401206635,128.73025160912815,52.48868778280543,36.51258045640726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848080801:0563/pct:42.35049990567818,32.18256290228204,13.129598189020939,9.128145114101814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ of men, one to be called the Assembly, the
 other the Senate, subject to the negative  
 hereinafter mentioned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848081001:0761/pct:322.1586847748392,335.09896849735156,49.82130092923517,22.30275996654586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848081001:0761/pct:80.5684662138005,83.77474212433789,12.45977833392921,5.575689991636465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ the mind of the author of the veto power
 was at an infinite distance from the opinions  
 of those who made the Constitution. It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848081001:0761/pct:322.0872051465332,359.74351826038475,49.82130092923517,26.819068859771395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848081001:0761/pct:80.55058991776905,89.93587956509619,12.45977833392921,6.704767214942849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ acts of (he two Houses of the Legislature about
 io be passed into laws.  
 &quot;Article 111. Sec. 6. The Senotors shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848081901:0563/pct:10.078740157480315,7.91802515137401,39.56692913385827,118.78590281012265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848081901:0563/pct:7.563521764821745,5.946281633286756,29.702580263935396,89.08554572271386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ ded to establish a Senate for life, and to make
 the President a part of the legislative power.  
 Loco rocoism converts the re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848082601:1195/pct:133.9344262295082,236.61119515885022,60.16393442622951,55.6732223903177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848082601:1195/pct:33.48360655737705,59.152798789712556,15.040983606557377,13.918305597579424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ he intended lo establish a Senate for life, and
   
 to in nkc&quot; the President a part of the legislative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1848091501:0519/pct:61.08490566037736,82.1656050955414,20.82547169811321,21.91386108583561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1848091501:0519/pct:45.836282142014625,61.6317864725508,15.616890776126445,16.43918713982408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ crecy. Neither house without the consent of the
 other, shall adjourn for more than three days,  
 nor to any other place than where the legisla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1850073001:0821/pct:167.4920127795527,197.1643581633766,37.659744408945684,8.735958119751336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1850073001:0821/pct:55.852976428286055,65.72145272112553,12.558263417232654,2.911986039917112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1288,7 +1288,7 @@ they shall by joiot ballot, by plarality of rotes,
 elect a President of the United States; and the  
 constitution thus organized shall be carried int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851041001:0544/pct:0.2288329519450801,9.813296903460838,149.39522719843086,280.85154826958103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851041001:0544/pct:0.07627765064836003,3.2710989678202793,49.79840906614362,93.61718275652701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1365,7 +1365,7 @@ I lion so far as to desire that the legislation of each
 state should be controlled by the United States;  
 and to effect this object, in the t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1852071601:0321/pct:42.30880648899189,12.269871017528388,26.506373117033604,83.35354426193364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1852071601:0321/pct:42.31363460795674,12.27354573181935,26.506373117033604,83.34986954764267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1397,7 +1397,7 @@ All vacuncies in ofices ty appointments, to continue in
 intil the end of the next session of the Senate;  
 and he shall commission all officers.&quot; The committe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530832:1866052601:0186/pct:154.25061425061426,5.062998497283551,94.92219492219492,288.3366084845683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530832:1866052601:0186/pct:51.416871416871416,1.6876661657611838,31.64073164073164,96.11220282818942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1430,7 +1430,7 @@ to continue in force until the end ot the next
 eoBJion of the Senate; and he shall commission  
 all olliccrs.&quot; The committee (Mr. Hamilton, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:0028077618A:1866052801:0191/pct:8.084045584045585,64.15569868384206,19.034900284900285,11.607392887146458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:0028077618A:1866052801:0191/pct:6.0730186999109526,48.12377485298236,14.283170080142476,8.70904508541025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1461,7 +1461,7 @@ the members of the House of Representa­
 tives by which such alteration shall have  
 been ij iade. No session shall extend beyon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664204:1867121901:0835/pct:46.75061513967289,60.43654710979489,12.823852945433492,8.32510694307338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664204:1867121901:0835/pct:46.75061513967289,60.440203283243754,12.833502195204323,8.32510694307338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1576,7 +1576,7 @@ to the coustitutton, as adopted, declares one
 of ita objects to be to &quot;provide for the com­  
 mon defense,&quot; and to &quot;promote the genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191666:1880081801:0261/pct:44.43244910549044,17.260154633562017,18.507094386181368,9.670042469781118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191666:1880081801:0261/pct:33.34361981175744,12.947838397038005,13.886745872550533,7.252531852335838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1637,7 +1637,7 @@ Art. VII contains this clause: &quot;Be
 it enacted by the people of the United  
 States of America,&quot; as the enactin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1880090101:0785/pct:106.7629179331307,61.25036012676462,38.37386018237082,47.19101123595506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1880090101:0785/pct:26.695800874026222,15.312590031691155,9.595287858635759,11.797752808988765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1663,7 +1663,7 @@ State which he shall be Governor or
 President, subject to such regulations  
 as the legislature of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1880090101:0785/pct:106.53495440729483,110.8038029386344,38.297872340425535,25.583405358686257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1880090101:0785/pct:26.63879916397492,27.7009507346586,9.576287288618659,6.395851339671564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1840,7 +1840,7 @@ tions and regulations as the legislature of
 the United States shall prescribe  
 In the speech of Mr. Hamilton, re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535568:1886102001:1140/pct:60.09615384615385,219.86686390532543,51.041666666666664,18.949704142011836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535568:1886102001:1140/pct:15.033072760072159,54.96671597633136,12.76808979755462,4.737426035502959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1939,7 +1939,7 @@ per diem and mileage.
 Sec. 17. The House of Representa  
 tives shall have the sole power of i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_contador_ver01:data:sn85058090:00206535313:1895050901:0379/pct:224.0128068303095,45.519203413940254,175.77374599786552,331.72119487908964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_contador_ver01:data:sn85058090:00206535313:1895050901:0379/pct:56.01814785161463,11.379800853485063,43.95516413130505,82.93029871977241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1969,7 +1969,7 @@ of every description
 A further proof that the framers of the  
 Constitution considered the term &quot;direc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895051901:0823/pct:66.74436674436674,138.91924711596843,52.836052836052836,35.57984213721919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895051901:0823/pct:16.692576758647494,34.72981177899211,13.214146910221531,8.894960534304797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -65,7 +65,7 @@ j Aaron Burr had surrendered himself
 j to the civil authority of th it territory.  
 TH : jr.FFEt.SON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807022001:0002/pct:78.70648904168458,9.768324075328547,18.758057584873228,15.878607234792034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807022001:0002/pct:78.70648904168458,9.772840175224676,18.7795444778685,15.892155534480423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ us that Aaron burr had futrendered himfelt to the ci­
 vil authority of that territory.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807022401:0367/pct:61.38777004760161,25.84004959702418,18.03368729403149,9.287042777433355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807022401:0367/pct:61.376533040453964,25.83684602033226,18.036487888217707,9.290023968923052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ the Misdfeippi territory,&#x27; acting&#x27;s# governor, in­
 forming n# that Aaron Burr had surrendered him*  
 adf to the Civil authority of that territory. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807022701:0390/pct:50.9789156626506,83.22789943227899,21.762048192771083,11.630170316301703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807022701:0390/pct:50.96612296110414,83.21440155692507,21.762860727728985,11.632338631203373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ Aaron Barr had surrcndcrd himself to
 tha civil authority of that territory.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807022701:0725/pct:26.44808743169399,3.9352254919031866,41.28415300546448,91.03256137907017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807022701:0725/pct:26.440863152144225,3.934540389972145,41.27970499863425,91.02106545961003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ surrendered himlelf to the civil suthority of
 that territory,  
 | Tn: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807031001:0460/pct:25.2534705974107,11.061285500747385,17.080018717828732,13.542600896860986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807031001:0460/pct:25.2534705974107,11.064607208104967,17.095616908438622,13.542600896860986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ Pour days accordingly did elapse,
 when the treaty was signed.  
 On these tacts, these enquiries pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807111301:0003/pct:21.907047785293475,35.97753116865324,18.088588260964436,12.864775996711879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807111301:0003/pct:21.92159429776711,35.98666483993241,18.0740417484908,12.860209161072293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ ject of theii negociation, and on terms which they
 • trusted we would approve.”  
 The accompaiiiiig letter is dated Dec. C7th, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807112301:0842/pct:48.30682401231401,54.6112988894254,22.703950743971266,6.05182681474328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807112301:0842/pct:48.29443447037702,54.60251046025105,22.70453962554501,6.054876086256839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ her, 1806, “ uras tint to affect our Commerce, which
 would still be governed by the rule6 of the treaty  
 established between the two eountfif|.” Nolwith
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812071001:1237/pct:51.12458933535507,15.000797066794197,21.379833206974983,4.03315797863861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812071001:1237/pct:51.11167256189995,14.99840612049729,21.38074785245073,4.036499840612049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,13 +468,13 @@ cree, of the 21st November, 1S06, u was not to affect our
 “ commerce, which would sli&#x27;l he governed by the rules of  
 “ the treaty, established between the two countries.&quot;’ Not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:66.42145230185098,36.9396992261644,30.018984337921214,7.081325740984085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:66.40569395017793,36.934306569343065,30.01779359430605,7.083941605839416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1850-11_12_35/page/n33/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1850-11_12_35/page/n33/mode/1up?view=theater)
 
 #### 1850-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

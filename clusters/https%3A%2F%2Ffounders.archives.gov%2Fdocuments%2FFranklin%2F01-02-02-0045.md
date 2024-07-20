@@ -145,7 +145,7 @@ September 10, 1741, &quot;printed by B.
 Franklin, Postmaster, at the new print  
 ing office near the market.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872020101:0233/pct:120.92651757188499,107.95334040296925,51.277955271565496,7.370095440084835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872020101:0233/pct:30.231629392971247,26.98833510074231,12.819488817891374,1.8425238600212088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ were promised that it would be ‘fitted up
 with benches, and covered over, so that  
 passengers may sit easy and dry?” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895126:1885062701:0611/pct:43.94115369725126,71.08673978065802,12.988772744870305,1.4955134596211366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895126:1885062701:0611/pct:43.93264950648345,71.07661634861863,12.991097348558158,1.4988607234406153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ dry.&#x27; &quot;
   
 William Boyd AHen toid a Bratton aud
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn91064052:00513685579:1885070301:0340/pct:81.93832599118943,78.95426740460239,12.296494924343996,3.233323623652782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn91064052:00513685579:1885070301:0340/pct:81.92263500574492,78.94276976845784,12.298927613941018,3.236493374108053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ had always been very friendly, and
 now expressed many good wishes for  
 my future. Holding my hand in hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194412:1885070601:0313/pct:97.01472191930208,68.10868099046151,14.653762268266085,14.847287792658252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194412:1885070601:0313/pct:72.77436946148603,51.083919452741114,10.988411724608044,11.13787455438867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ be fitted up with benches, and covered
 over, so that passengers may sit easy  
 and dry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296138:1885072201:0450/pct:197.1089696071164,278.1057326511872,42.69829503335804,8.867899776990686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296138:1885072201:0450/pct:49.30465418134619,69.5264331627968,10.680511774522529,2.2169749442476716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ be &#x27;fitted up with benches, and covered
 over, so that passengers may sit easy  
 and dry.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415629588:1885072301:0329/pct:52.012791572610986,95.85831822618881,14.559819413092551,2.984242086180449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415629588:1885072301:0329/pct:39.03632599284773,71.90071119788036,10.935441370223979,2.2312090363965975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ elers wero promised that it would bo
 over, so that passengers may sit easy  
 and dry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025001:00237281032:1885073001:0767/pct:41.157205240174676,69.71683272155218,26.200873362445414,3.9984268484530676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025001:00237281032:1885073001:0767/pct:30.893864918987802,52.29417933927635,19.661387220098305,3.00209753539591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ covered over, so that passengers may
 sit easy and dry. Century.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283181:1885073101:0660/pct:67.44467496542185,51.56899810964083,18.309128630705395,3.427851291745432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283181:1885073101:0660/pct:44.9844344517468,34.379332073093885,12.21030785195434,2.293635790800252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ be ‘fitted up with benches, and covered ;
 over, so that passengers may sit easy  
 and dry.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522138:1885073101:0297/pct:78.39986175911525,89.78515373729577,14.377052013132884,2.933230412967966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_easton_ver01:data:sn85025407:00279522138:1885073101:0297/pct:60.76068032677112,69.59021569344279,11.160216061782956,2.2732560071787034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ would be fitted up with benches, and
 covered over, so that passengers may  
 sit easy and dry. Century
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539252:1885092301:0078/pct:96.5521978021978,56.51943650037072,14.23076923076923,2.4361826077746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539252:1885092301:0078/pct:72.43748282495191,42.389577375278044,10.6760098928277,1.8324330049782862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ water. The places ohoseu for its pro- 8
 duction are selected on aoeount Of the 1  
 extraordinary saline strength of th« 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_apple_ver01:data:sn2001063565:00279522758:1888080301:0537/pct:78.64602088584803,79.65176715176715,13.93590205257472,5.756237006237006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_apple_ver01:data:sn2001063565:00279522758:1888080301:0537/pct:78.6580242467891,79.66042966042966,13.947905413515784,5.751905751905752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ Where advertisements are taken in, ond
 Book Binding is done reasonably, in the  
 best manner:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86053634:00212478040:1897031001:0560/pct:32.7906976744186,86.6012204828867,14.46843853820598,3.608384186786946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86053634:00212478040:1897031001:0560/pct:24.613594814691705,64.95091536216503,10.852584344357654,2.7195542584239853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ Where advertisements are taken in, anil
 Book Binding is done reasonably, in the  
 best manner:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1897031101:0944/pct:78.87498068304744,44.15805730109703,14.06274146190697,3.173926935775908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1897031101:0944/pct:78.88657085458198,44.16604537224411,14.070468242929996,3.171264245393546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ according to the Weekly Mercury, waa “ fitted
 up with benches and covered over, so that pas­  
 sengers may sit easy and dry.” Traffic fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899031601:0515/pct:50.877652606759234,54.086670323642345,20.7492795389049,3.035289815322728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899031601:0515/pct:50.864326872708226,54.076782449725776,20.75039287585123,3.039305301645338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,7 +693,7 @@ and covered over, so that passengers may
 sit easy and dry.” Traffic from these  
 humble beginnings developed with pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340299:1899040801:0389/pct:61.84366030727672,70.39274924471299,11.04170184028364,2.575169040425838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340299:1899040801:0389/pct:61.833220796758944,70.38262370540852,11.044058068872383,2.5783947065592634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -235,7 +235,7 @@ by these presents do give, grant, bargin,
 sell and convey to the said h.  
 H. Harrington a certain piece of lan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777109:1892071401:0940/pct:322.91504286827745,55.178679588128404,50.42868277474669,27.074500302846758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777109:1892071401:0940/pct:80.76023391812865,13.794669897032101,12.612085769980506,6.7686250757116895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

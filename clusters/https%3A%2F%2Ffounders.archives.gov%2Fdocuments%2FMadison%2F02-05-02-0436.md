@@ -45,7 +45,7 @@ the United States, who have b-en and
 are yet creditors of France, for fuppliet  
 for embargoes and prizes made at 1e..,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803102101:0003/pct:56.374425727411946,34.01326492303842,15.601071975497703,2.552871980978601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803102101:0003/pct:56.374425727411946,34.01326492303842,15.613833588565594,2.5612146998706877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ commerce ought to he regarded as
 domiciliated in the places where fuch  
 houfes exift All agreements an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803102101:0003/pct:55.953292496171514,46.11437867601051,16.51990811638591,16.506069327993995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803102101:0003/pct:55.953292496171514,46.11437867601051,16.51990811638591,16.51441204688608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ which the appeal ban been properly 1
 ed within the time psentiooed in the  
 convention, 8th Vcndemaire nint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803110401:0164/pct:54.17013022998061,19.265584970111018,20.28262676641729,5.858240819812126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803110401:0164/pct:54.15512465373961,19.262295081967213,20.28393351800554,5.86150956284153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ ture of their commerce ought to bs re­
 garded aadomicilaledin the places where  
 such houses exist. . All agresments an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803110401:0164/pct:54.08700471044611,33.304867634500425,20.448877805486283,14.773697694278395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803110401:0164/pct:54.07202216066482,33.299180327868854,20.450138504155124,14.775443989071038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ garded as domicihated in the places where fuch
 houfes exift. All agreements and bargains con  
 cerntng merchandise, which fhali not be the pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803110701:0007/pct:48.38544336237827,77.96281160604822,23.065094823167605,12.331426236207601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803110701:0007/pct:48.37717799795012,77.95484727755644,23.065425350187905,12.332720400449483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ in partperfhip with toreigners, and who by
 ought&#x27;to be regarded as domiciliated in &#x27; the  
 places where such houfesexift. Al agree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0384/pct:8.296067848882036,58.353245718837115,16.90053970701619,5.276782158502589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0384/pct:8.306347982523773,58.356564449754416,16.90053970701619,5.28673835125448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ in partnership with foreigtters, and who by
 that reason and the nature of their com­  
 merce. ought to be regarded as domiciii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806010701:0096/pct:52.60640841702535,86.21636983705949,22.891758329348,6.2239484653277755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806010701:0096/pct:52.59802358941664,86.20820308799848,22.893422590585484,6.226516371443908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ L nited States, in partnershf|. with foreigners, and who b&#x27;
 ? reason, on the nature of their commerce, ought to be  
 regarded as domiciliated in the places w hers such house
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021801:0216/pct:1.5270856775438033,51.06007067137809,15.431602636232117,6.486622917718324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021801:0216/pct:1.5270856775438033,51.06007067137809,15.431602636232117,6.499242806663301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ that reason, on the nature of their commerce,&#x27;
 ought to be regarded as domiciliated in the places  
 where such houses exist. All agreements an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855022001:0184/pct:57.20559978040077,13.965113805573282,13.450452923414767,7.987662199532014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855022001:0184/pct:57.21474974837588,13.965113805573282,13.450452923414767,7.994752889456144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ States, in partnership with foreigners, and who by that
 rcason, on the nature af their commerce, ought to be re-­  
 garded as domiciliated in the places where such house
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855022001:0421/pct:156.8535009603632,58.09118541033435,47.09271870089052,16.64437689969605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855022001:0421/pct:52.28450032012106,19.36372847011145,15.697572900296839,5.548125633232016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ that reason, on the nature ot their commerce
 ought to be regarded as domiciliated in the  
 place* where such houses exist. All agre*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022001:0032/pct:86.78844109403691,20.135375846099038,12.138784188653716,10.630566441040257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022001:0032/pct:86.78005411673753,20.1339412938159,12.14083236696302,10.632183908045977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ I the citizen* of the United States, who have been
 ii. | bus been properly lodged within the time mentioned  
 ill&#x27; j in 4lie said convention, *th Vendeiuuirc, uintli year, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855022201:0544/pct:57.26718885987815,2.8347059950201112,15.129097766173484,2.1451829151503543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855022201:0544/pct:57.26718885987815,2.8410904679818683,15.133932888502079,2.1451829151503543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ ie of American citizens, are equally excepted from the
 n. benefit of the said convention, saving, however, to 0  
 n- such persons their claims in like manner as if this 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855022201:0544/pct:57.13664055700609,7.670944263551044,16.666666666666668,7.642214135223138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855022201:0544/pct:57.14631080166328,7.674136500031922,16.676336911323858,7.6454063717040155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

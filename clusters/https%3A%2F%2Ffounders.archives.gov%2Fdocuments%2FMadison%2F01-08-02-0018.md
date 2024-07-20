@@ -200,7 +200,7 @@ ProvipeED, That toall a&amp;s of the United States
 in Congress assembled, in pursuance of the above pow­  
 crs, the assent of nine states thall be necessary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786032501:0257/pct:6.20579511749943,58.10670233318472,27.994524298425734,20.59741417744093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786032501:0257/pct:6.213400258574796,58.111656016248084,27.994524298425734,20.59246049437757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ which are not the produce or manufacture of the do:;-.ini­
 &gt;- otis of the sovereign whose fubjefls they arc.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796040601:0002/pct:50.256410256410255,86.85733179037858,22.205128205128204,8.166639113903125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796040601:0002/pct:50.27564102564103,86.86973053397256,22.19871794871795,8.162506199371798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ ture of the dominions of tho sovereign whoso sub­
 jects thoy arc.&quot;  
 Subsequently, on the 13th July, 1785, the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022101:0345/pct:81.08674928503336,14.152509899093115,15.767397521448999,10.461106143824244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855022101:0345/pct:81.08674928503336,14.161025248009537,15.780108039402606,10.461106143824244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ vided That to all acts of the United States in Congress
 assembled, ;n pursuance of the above powers, tbe assent of  
 nine States shall be necessary.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863062301:0160/pct:7.142857142857143,77.40778114138357,18.83967560823456,10.102029375490526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863062301:0160/pct:5.366614664586583,58.055835856037675,14.134165366614665,7.579325036439062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ State, Kingdom orKmpire,Qnle3saulGorixed by treaty, from
 importing into the United States any goods, wares, or mer­  
 chandise, -tsjiieh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:4.668674698795181,78.51082689628973,20.726656626506024,7.205267823224009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:3.503484648709738,58.883120172217296,15.558485590506686,5.407116626567051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

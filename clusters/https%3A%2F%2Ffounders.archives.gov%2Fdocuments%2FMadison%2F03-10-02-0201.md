@@ -104,7 +104,7 @@ tion* at Dartmoor prison. in the month
 of priJ last. so far as the prisoner  
 war there confined were ufiveted fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1816010801:0312/pct:80.74436208799874,37.348566926031715,17.61551805708879,8.72648478282281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1816010801:0312/pct:80.73163040050457,37.344888713807364,17.617996425943446,8.728908147856346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ paper* mentioned in the subjoined list, which contain all
 the information in this department called for by the reso­  
 lution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856030101:0263/pct:67.31788079470199,34.19371006139581,15.894039735099337,1.8794637263500815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856030101:0263/pct:67.3289183222958,34.20206323351292,15.894039735099337,1.8752871402915257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ which contain all the information in this Department
 called for by the resolution. All which is respectfully  
 submitted.W.L 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856030101:0413/pct:52.04081632653061,46.66824476269381,48.2101037136166,7.5275180494733105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856030101:0413/pct:17.346938775510203,15.556081587564604,16.070034571205532,2.5091726831577703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ the papers mentioned in the subjolned list, which con­
 tain all the information in this Department called for by  
 the resolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856030101:0485/pct:147.03340535150406,89.38032973280274,46.46833970417151,5.901080159181353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856030101:0485/pct:49.011135117168024,29.793443244267575,15.489446568057172,1.9670267197271176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ mentioned in the subjoined list, which contain
 all the information in this department called  
 for by the resolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856030401:0614/pct:58.82990249187432,11.377182892397784,13.36673889490791,6.650632646658998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856030401:0614/pct:58.83893102202961,11.38066854892119,13.362224629830264,6.654118303182404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ tain all the information in this department
 called for by the resolution. The records of  
 the department do not show that there was an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1860060901:0744/pct:8.500385505011565,29.75130488179306,16.326137239784117,3.8071845256370893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1860060901:0744/pct:6.381337960285329,22.321154436598096,12.24214382109119,2.855388394227817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -93,7 +93,7 @@ I hope I shall always possess firmness
 and virtue enough to maintain what I  
 consider the rao-it enviable of all title
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197292:1888030101:0034/pct:73.56670341786108,89.52615660356223,12.872105843439911,12.064523356110675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197292:1888030101:0034/pct:55.19713261648746,67.14461745267167,9.649848359525778,9.051193009969754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ does require firmness and virtue
 to be an honest man, especially  
 in these days when so many peo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1896022801:0257/pct:12.363919129082426,71.17897922685377,16.524105754276828,8.267987343513552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1896022801:0257/pct:9.274742368267548,53.391112945384506,12.405210966362045,6.204429770257257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ The most enviable of all titles, the char­
 acter of an honest man.—Washington.  
 Hall’s Catarrh Cur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1896071801:0144/pct:7.457230589267437,23.415361670395228,12.019301067407516,8.778097368701395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1896071801:0144/pct:7.462104596188526,23.418912680657648,12.019301067407516,8.778097368701395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ acter of an honest man. Washington.
   
 Eat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877844:1896071801:0701/pct:25.693311582381728,135.80828369580274,46.084828711256115,45.934339936279265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877844:1896071801:0701/pct:6.4272597429096106,33.952070923950686,11.528259538869618,11.483584984069816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ lion,allay* pain, cures Wind colic. If5c. a bottle.
 The most enviable of all titles, the charac­  
 ter of an honest man.—Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187195:1896082701:0481/pct:72.82186459489456,29.395604395604394,12.597114317425083,8.125528317836011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187195:1896082701:0481/pct:72.81176307393535,29.392498679344953,12.599990752300366,8.128191583025181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ tion,allays pain, cures wind colic. 28c. a bottle
 The most enviable of all titles, the charac?  
 ter of an honest man.-Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_styx_ver01:data:sn95079246:00175032277:1896082801:0749/pct:69.91743262190373,26.507578200580458,13.506776756504129,8.835859400193486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_styx_ver01:data:sn95079246:00175032277:1896082801:0749/pct:69.91743262190373,26.51474434770146,13.51196967336553,8.832276326632986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ ter of an honest man.-Washington
 The most enviable of all titles, the char­  
 acter of an honest pran. -Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:0020029256A:1896082901:0193/pct:288.08608762490394,75.64245810055866,46.11837048424289,3.0726256983240225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:0020029256A:1896082901:0193/pct:72.02152190622598,18.910614525139664,11.529592621060722,0.7681564245810056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ does require firmness and virtue
 to be an honest man, especially  
 in these days when so many pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1898021801:0681/pct:10.9399375975039,56.24742268041237,16.59516380655226,8.24742268041237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1898021801:0681/pct:8.214634146341464,42.18556701030928,12.448780487804878,6.1993127147766325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ the way our schools are graded
 and, on being asked for criti  
 cisms or suggestions for the i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472360:1898100701:0181/pct:54.46852160533402,56.0,11.10398769072958,9.46095717884131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472360:1898100701:0181/pct:51.75004060419035,53.203369280837215,10.557089491635537,8.994320719800907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

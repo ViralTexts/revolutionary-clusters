@@ -292,7 +292,7 @@ duration to twelve years, to be computed ;
 from the day on which the ratifications ofj  
 this treaty ihall be exchanged, but full
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804021101:0066/pct:26.497395833333332,11.368778280542987,22.005208333333332,7.664027149321267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804021101:0066/pct:26.49164677804296,11.367170931712145,22.005858103710132,7.666478156369291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ tion to twelve years, to be computed
 from the day on which the ratifications  
 jof this treaty shall be exchanged, bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805100201:0002/pct:79.72761777182407,4.441321152494729,19.089082384460816,1.9255094869992972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805100201:0002/pct:79.74250204658777,4.450691028343875,19.089082384460816,1.9255094869992972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ on. That whereas the said twelfth article
 will expire by the limitation therein con­  
 tained, at the end of two years from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805100901:0359/pct:3.2432432432432434,27.310650501890237,17.7027027027027,4.666927388867162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805100901:0359/pct:3.242617255356109,27.307090719499477,17.705719616547643,4.6706638859923535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ duration to twelve years, to be computed from the
 day on which the ratifications of this treaty shall be  
 exchanged.’&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806111701:0215/pct:30.61023622047244,60.10271224522548,21.481299212598426,6.0022468303643075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806111701:0215/pct:30.60270602706027,60.09306803594352,21.482164821648215,6.005295250320924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

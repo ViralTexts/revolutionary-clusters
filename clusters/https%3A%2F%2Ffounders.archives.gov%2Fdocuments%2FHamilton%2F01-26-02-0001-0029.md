@@ -87,7 +87,7 @@ Genemfs who havv [lien asi cchd.
 Vx&#x27;izh cikcem, I am, Sir, your obedient  
 {n&#x27;-ab, A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802081601:0305/pct:5.154833836858006,6.430976430976431,41.786253776435046,86.86868686868686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802081601:0305/pct:5.153860675854257,6.430254741330939,41.78465798250582,86.86267908577413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ tlicr uf the Generals who have been ac u ed—
 With cUeem, i am, fir, vour o‘-ed cat fervant.  
 A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895060:1802082301:0051/pct:48.23838737949168,60.77173798759331,21.82296231375986,22.342550730732835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895060:1802082301:0051/pct:48.229933403434984,60.76534903280067,21.823519102698913,22.342830109335576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

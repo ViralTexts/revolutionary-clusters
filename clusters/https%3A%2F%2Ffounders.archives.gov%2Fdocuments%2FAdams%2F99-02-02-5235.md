@@ -205,7 +205,7 @@ Congress, as the grounds of the Embargo.
 return of hie subjects, the seamen especially, front foreign « uuu­  
 trics,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808032101:0364/pct:4.506363949088407,49.909986233188604,29.308565531475747,3.198136185534258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808032101:0364/pct:4.505588993981084,49.904701397712834,29.307824591573517,3.2004447268106735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ tain requiring the return ot his subjects, the seamen
 -specially, from foreign countries, to aid, in this  
 oour of peculiar danger, in the defence of thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808032301:1047/pct:51.63893091275845,2.211103938024532,43.847705496722135,95.31956100710136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808032301:1047/pct:51.625913788757245,2.210747135710828,43.84295437358205,95.30821365176699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ of the embargo.
 1. The proclamation of the King of Great­  
 Britain requiring die return of liis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808032401:0423/pct:58.61021793497678,21.94098036794666,17.05966416577349,2.839856772441042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808032401:0423/pct:58.59974995534917,21.938271604938272,17.0625706971483,2.843621399176955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ furnish the slightest ground for an embargo.
 2. The extract of a letter from the Grand  
 Judge Kegmer to the French Attorney Ge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808032401:0423/pct:58.592354412290106,26.509445610569205,17.11325473383351,3.4695641437214473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808032401:0423/pct:58.58188962314699,26.506172839506174,17.116151693754837,3.4732510288065845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ Great-Britain requiring the return ot hia
 subjects, the seamen especially, from fo­  
 reign countries, to aid, ip
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808040101:0935/pct:28.127600554785023,46.39139486467731,20.249653259362,5.25676613462873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808040101:0935/pct:28.119800332778702,46.383347788378146,20.250970604547977,5.260190806591501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ the seamen especially, from foreign countries,” and then
 ,a right to the fervige of its fubje@s in time of war.” Is  
 ‘this, fir, a 2 correct statement either of the Proclamation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808042601:0065/pct:73.61715351149782,65.43722768264261,21.783716594157863,5.3602188671597935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808042601:0065/pct:73.62751191216076,65.44060526226906,21.773358193494925,5.363596446786233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ acknowledge d principle that every nation
 h .* a right 10 the service of its subjects in  
 time ot war. ’ Is this, si&gt;-, a correct s;ate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808050601:0154/pct:40.98236298122511,27.717528373266077,17.637018774890954,3.480453972257251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808050601:0154/pct:40.97459233978005,27.714033539276258,17.63999494374921,3.4842180473248434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ quiring the return of his subjects, the
 seamen especially, from forrgn coun­  
 tries,” and then it is an ackno wledge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808052001:0966/pct:33.742498636115656,90.41916167664671,19.394435351882162,6.199365973934484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808052001:0966/pct:33.73329697300245,90.4032400070435,19.39596400327243,6.202676527557669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ AASWER
 Of the late President of the U. $?i  
 to the Address of the Legislature of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042601:0003/pct:60.87747674888799,30.17038007863696,18.520016174686617,7.391874180865006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042601:0003/pct:60.87747674888799,30.17474879860201,18.533495080199486,7.387505460899956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ of ihe United States has as legal au­
 thority to issue similar proclamations,  
 alul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809050201:0137/pct:59.981308411214954,22.216441207075963,18.299065420560748,7.648283038501561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809050201:0137/pct:59.97009904690712,22.213551827285734,18.30187503893353,7.6516235314518575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ s to account; and at last I can say that
 - j beat a Frenchman by the aid of this j  
 r i meritorious impressment, and I am 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809050501:0002/pct:57.47285291214215,17.07035755478662,17.966436327739387,9.470716391131615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809050501:0002/pct:57.48601513655808,17.07462941603657,17.973017439947352,9.46644452988167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ No. lie would sooner throw ever bea d
 the press-gang, and run down the gun boat.  
 Such will be the perpetual altercation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809050901:0451/pct:2.726423902894491,30.44241132974057,17.81512605042017,10.753227221456322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809050901:0451/pct:2.725914861837192,30.43859649122807,17.818023400547673,10.756056808688388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -604,7 +604,7 @@ or lawyer that gver I heard of, till Foster,
 evér ventured to give a private opinion to ¢n­  
 courage it. .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809051001:0027/pct:6.455321944809461,2.2107813446396123,21.911957950065702,5.612759943468605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809051001:0027/pct:6.466272448532632,2.2107813446396123,21.90648269820412,5.612759943468605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ be found to ‘“be emigrants, or the descendants
 of emigrants, from Germany, Holland, Swee*  
 den,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809051701:0030/pct:72.23195794169189,43.22758078774187,21.538951728532737,6.178175031922208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809051701:0030/pct:72.23195794169189,43.234128932979736,21.54957251340874,6.171626886684346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ imarial was, an immediate order to the
 J Jefferson’s administration* because the ne­  
 g-Ciations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051901:0154/pct:39.65356677221084,5.189646335212712,35.87260197429689,91.70937980522808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051901:0154/pct:39.646182495344505,5.188981422165279,35.872129112352575,91.70190049113816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ ggm and friendship between the two pations.
 &#x27;ing of Mr. Jefferson’s administration, because  
 _the negotiations already made publick, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809052401:0035/pct:8.583556044647068,3.832923832923833,21.789026882565633,10.437346437346438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809052401:0035/pct:8.588796310852592,3.8394758394758393,21.789026882565633,10.43079443079443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ solemn tiibunal and venerable judge without smiling, till
 the humiliation of our country comes into our thoughts and  
 interrupts the sense of ridicule by the tears of grief o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:188.84057971014494,138.08308192155954,44.2512077294686,12.39266651195173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011001:0088/pct:62.94685990338164,46.027693973853175,14.750402576489533,4.130888837317243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

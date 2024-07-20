@@ -214,7 +214,7 @@ fu,n of. cents for every gallon,
 English wine-meafur«, ofthe capacity of each  
 still, including its head
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790122901:0003/pct:6.215022091310751,71.01043997017152,26.539027982326953,17.002237136465325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790122901:0003/pct:6.2297496318114876,71.01043997017152,26.539027982326953,17.02087994034303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ tion of the party or parties applying for the fame, secured to be
 paid in manner following ; that is to fay : The said party or par­  
 ties (hall give bond with one or more surety or (ureties to the fa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791040201:0004/pct:7.67479674796748,48.51561003639149,28.910569105691057,15.169507757134648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791040201:0004/pct:7.682926829268292,48.525186745834134,28.91869918699187,15.179084466577285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ plying for the fame, secured to be paid
 in manner following, that is to fay :  
 The said party or parties shall giv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051901:0803/pct:3.776325344952796,45.89325663151166,21.59283466473009,32.390540108660915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051901:0803/pct:3.776325344952796,45.898583146905295,21.617041878479785,32.38521359326729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ the condition of the obligation to be
 given to the colle@or of the diftri&amp;k,  
 within which the fame shall have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051901:0803/pct:4.720406681190995,15.548098434004475,41.85427257322682,78.45957174816235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051901:0803/pct:4.728475752440894,15.553424949398103,41.86234164447672,78.46489826355598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -748,7 +748,7 @@ any other place than a city, town or
 village, or at any distillery in acity,  
 town or village at which there shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796052801:0085/pct:41.513547181563375,32.947284345047926,15.571473061351604,3.2947284345047922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796052801:0085/pct:41.513547181563375,32.95394036208733,15.576663552372054,3.2880724174653886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ mount of the duties, payable as specified in lbc
 act And if the duties on any parcel ot the  
 teas shall not have been paid or secured to li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072001:0587/pct:78.68714141073237,43.703373789110344,17.66790415119811,14.018483465092974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072001:0587/pct:78.67386536190315,43.69850812736584,17.670547213317587,14.02063386031322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ the obtaining of such permit, it shall be necessary that
 the duties upon the teas for which the same shall be re­  
 quired, be first paid, or secured to be paid, to the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1841081001:0343/pct:81.02383053839364,76.90681165987012,73.87466902030009,50.86844887479233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1841081001:0343/pct:20.25595763459841,19.22670291496753,18.468667255075022,12.717112218698082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -926,7 +926,7 @@ sesding the proper limit, in this ree o ee eon i ee e­
 spect, which i be felt eer heree a i e i e o­  
 Iwill fall with particular severity on seses ninety-nine out of 100 pas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_flamingo_ver01:data:sn83004226:00295875811:1893092901:0022/pct:32.016460905349795,337.9849449913144,92.42798353909465,24.60914881297047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_flamingo_ver01:data:sn83004226:00295875811:1893092901:0022/pct:8.009059089973235,84.4962362478286,23.121268272596254,6.152287203242618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

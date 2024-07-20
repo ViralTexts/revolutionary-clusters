@@ -462,7 +462,7 @@ provided he could be assured of
 having always meat, horses, and  
 women.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075000:00237286923:1871072101:0187/pct:111.7915309446254,40.95082379574896,42.54071661237785,63.488869324613255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075000:00237286923:1871072101:0187/pct:27.94788273615635,10.23770594893724,10.635179153094462,15.872217331153314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ would not be hurt if he were to lose his throne
 provided he could be assured of having always  
 meat, horses, and women.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1871072901:0702/pct:97.89473684210526,274.2406311637081,69.23076923076923,49.17817225509533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1871072901:0702/pct:24.478639400688397,68.56015779092702,17.31119659850172,12.294543063773833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ lose his throne, provided he could bo
 assured of having always meat, hors­  
 es, and women.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280544:1871081001:0285/pct:79.69000534473544,41.16935483870968,15.045430251202566,24.344758064516128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280544:1871081001:0285/pct:59.78348035284683,30.87701612903226,11.293771718791767,18.266129032258064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -643,7 +643,7 @@ assured of having always meat, horses
   
 and women.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283363:1871081701:0096/pct:70.58823529411765,242.35894527927417,51.60089352196575,59.42727530479161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283363:1871081701:0096/pct:17.650344442375722,60.58973631981854,12.9026252094582,14.856818826197902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ of justice, morality, religion, or of
 the rights of men, or any anxietyl  
 for the opinion of theworld.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177271:1871081801:0523/pct:57.29568572430726,98.7051282051282,15.275341985268327,18.371794871794872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177271:1871081801:0523/pct:44.41373686118159,76.49864211432735,11.838528452337803,14.237928065178512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ The Habits of Some Noted Men of Washing­
 ton at the Dinner Table.  
 Washington Letter to Galveston News
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210077:1884102501:0438/pct:83.74796084828711,10.734124005404594,18.291190864600328,45.96907371265576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210077:1884102501:0438/pct:64.90544171100458,8.318789994182664,14.191645156192383,35.6369982547993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

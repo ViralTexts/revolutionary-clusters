@@ -644,7 +644,7 @@ vested by law, in tiie President and Directors of the
 Literary Fund, or which, by the provisions of this act,  
 shall or may hereafter be forfeited and vested, in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831040501:0127/pct:23.980242192479285,65.08109416606149,17.67049075844487,5.398208666182523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831040501:0127/pct:23.976421857575275,65.07321795957884,17.67298603366789,5.401589414659728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ Literarj luinJ, or which, by the provisions of this act,
 •ball or may hereafter be forfeited and vested, in the’  
 said President sod Directors, are held by prrsons othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831041401:0398/pct:24.33328073220767,65.4466791393826,17.737099573930884,5.68288119738073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831041401:0398/pct:24.329441464184285,65.43902724190343,17.73956032397181,5.686114034062123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ hmpieot or forfeited lands shall Ire excepted ami exempted
 from the operations of the provisions in this act above contain­  
 ed, save only the section thereof concerning lists of delinquen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831041901:0416/pct:61.72241325414192,26.677520641935107,17.708658955923728,5.442493313175951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831041901:0416/pct:61.712767619940614,26.674418604651162,17.711100692816586,5.445736434108527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ l.iteran Fund, or which, by the provisions of this act.
 •hall or nmy hereafter be forfeited am! vested, in the  
 ; said President and Directors, are held by persons othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831043001:0456/pct:22.835018963337546,63.939216832261835,17.809734513274336,5.751022793687902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831043001:0456/pct:22.831410965397378,63.9317438055166,17.812187286037815,5.754246532647655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

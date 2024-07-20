@@ -817,7 +817,7 @@ And anxious mainly that the flock ne feeds
 Mav feel it too; affectionate in ioorf,  
 And tender in address, as well become
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216286:1820052301:0182/pct:6.28140703517588,15.36441828881847,18.415607449009755,7.23404255319149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216286:1820052301:0182/pct:6.280478794148071,15.363027340213652,18.417811930446778,7.236405335264651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1514,7 +1514,7 @@ And anxious mainly that the flock he feeds
 May feel it too; affectionate in look,  
 i And tender in address, as well become
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836072101:0144/pct:25.95961837142223,15.797884483677041,17.850011093854004,5.669279354691424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836072101:0144/pct:25.9567387687188,15.796682392329934,17.85172860048068,5.671384365647035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1576,7 +1576,7 @@ And anxious mainly for the flock he feeds
 May feci it too affectionate in look,  
 And tender in address, as well becoinc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83025196:00415668818:1836083101:0069/pct:34.063848144952544,38.735541535226076,14.374460742018982,6.887486855941114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83025196:00415668818:1836083101:0069/pct:34.063848144952544,38.735541535226076,14.385964912280702,6.905012267788293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1855,7 +1855,7 @@ Himself, as conscious of his awful charge,
 : And anxious mainly that the flock he feeds &#x27;r  
 May feel it too; aflectionatwin look, &gt;;» • s r* 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1846062601:0292/pct:66.821594565606,32.20594276324798,13.496603503754022,4.956867040942079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1846062601:0292/pct:66.80965147453082,32.20153340635268,13.498659517426274,4.959611171960569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2155,7 +2155,7 @@ And anxious mainly that the flock he feeds
 May feel it too; affectionate in look,  
 And tender in address, as well become
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1852102901:0281/pct:249.10327767470625,333.19045577939704,56.66872809729953,16.416630947278183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1852102901:0281/pct:62.26298433635614,83.28571428571429,14.164262159934047,4.103571428571429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2578,7 +2578,7 @@ nd anxious mainly that the flock he feed
 May feel it too; affectionate in look,  
 And tender in address, as well become
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1859030901:0038/pct:280.9486166007905,61.90329534955343,45.29644268774704,12.750230982445334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1859030901:0038/pct:70.23715415019763,15.475823837388358,11.32411067193676,3.1875577456113335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2841,7 +2841,7 @@ And anxious mainly that the flock he feeds
 May feel it too; affectionate in look,  
 And tender in add res-, as well become
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864031101:0101/pct:51.8275088169285,64.34181221427734,13.065084963129207,4.723947954518814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864031101:0101/pct:51.8275088169285,64.3496268510921,13.075772149193117,4.723947954518814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3101,7 +3101,7 @@ And anxious mainly that the flock he feeds
 May feel it too, affectionate in look  
 And tender in address as well becom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629229:1871022801:0611/pct:182.27344992050874,138.59459459459458,104.21303656597775,38.648648648648646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629229:1871022801:0611/pct:45.577419996024645,34.648648648648646,26.058437686344664,9.662162162162161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3264,7 +3264,7 @@ And anxious mainly that the flock he feeds
 May feel it too; affectionate in look  
 And tender in address, as well become
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743920:1876011601:0172/pct:61.18221623442236,261.95701874714223,37.84102391377568,11.156835848193873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743920:1876011601:0172/pct:20.394072078140788,87.3190062490474,12.613674637925227,3.718945282731291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3326,7 +3326,7 @@ And anxious mainly that the fiock he feeds
 May feel it, too; affectionate in look,  
 Aud tender iu address, as well become
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1877121501:0725/pct:66.27090301003345,29.68964227844946,14.23076923076923,7.790103452573851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1877121501:0725/pct:51.36944876447209,23.01574524261841,11.024710558147572,6.0405061660817205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3366,7 +3366,7 @@ And anxious mainly that the flock he feeds
 May feel it too allectionate in look  
 And tonder in address, as well become
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1878062101:0306/pct:180.24596464258263,136.4236550077258,82.32129131437355,157.15690405955894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1878062101:0306/pct:45.08748317631225,34.10591375193145,20.592193808882907,39.289226014889735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3391,7 +3391,7 @@ And anxious mainly that the flock ho feeds
 May feel it too;&quot; etc.  
 He was a prophet in honor *• in his ©w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184443:1880122901:0418/pct:79.94094851448607,86.3210493441599,17.25410592360214,6.608369768894441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184443:1880122901:0418/pct:79.92619926199262,86.31026729952535,17.257072570725708,6.611707885752352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3502,7 +3502,7 @@ i Am} anxiouk. mainly, that the flock be feeds
 - May feer It. too;- affectionate in look,  
 j And tender in address, as well become
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623884:1887050701:0098/pct:61.364472232438395,93.35183900069396,9.856564913571166,2.4149895905621097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623884:1887050701:0098/pct:61.364472232438395,93.35183900069396,9.874954027215889,2.4242424242424243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3524,7 +3524,7 @@ And anxions mainly that the flock he feeds
 May feel it too. Afectionate in look,  
 And tender in address, as well become
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020758:1888040201:0748/pct:19.659442724458206,294.64740866610026,44.42724458204334,12.291135655621638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020758:1888040201:0748/pct:4.916763453348819,73.66185216652507,11.11111111111111,3.0727839139054094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3585,7 +3585,7 @@ And anxious mainly that the flock he feed
 feel it too affectionate in look  
 And tender in address, as well becom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1888122901:0806/pct:90.9307875894988,90.30056437852737,58.3134447096261,42.84026775167345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1888122901:0806/pct:22.737219017306543,22.575141094631842,14.581261189576288,10.710066937918363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3636,7 +3636,7 @@ And anxious mainly that the flock he feeds
 May feel it too ; affectionate in look  
 And tender in address, as well become
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1889110701:0197/pct:92.00111482720179,69.23076923076923,15.858416945373467,7.499464323976858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1889110701:0197/pct:69.01742160278745,51.928433683308334,11.888501742160278,5.624598242982644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3661,7 +3661,7 @@ And anxious mainly that the llock he feeds
 May feel it too ; affectionate in look  
 And tender in address, as well become
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1889111401:0202/pct:10.120412844036696,20.698549167114454,16.05504587155963,6.878022568511553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1889111401:0202/pct:7.600745733543668,15.529285330467491,12.046464936182417,5.1585169263836645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

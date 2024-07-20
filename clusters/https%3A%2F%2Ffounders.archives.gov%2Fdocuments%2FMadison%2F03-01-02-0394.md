@@ -160,7 +160,7 @@ olutions Le signed by the Chulrnua of this
 Meeting,an trasmitted by him te the Presi­  
 dent of the United States. A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809091301:0096/pct:45.73007103393844,0.07850063781768227,44.056827150749804,96.37915808065941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809091301:0096/pct:45.74059458037359,0.07850063781768227,44.05156537753223,96.37915808065941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ hetoh rd, 7 hat a r-rr y &#x27;jSjk f refoing resolutions
 he Signed by the ehoirmanVKis meeting, and trans­  
 mitted hy him to the president of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809091501:0676/pct:27.031019202363368,7.568696770046602,20.901033973412112,31.929937329262415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809091501:0676/pct:27.024366231848386,7.567480719794345,20.902042825498402,31.928823907455012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ Resold ions be signed by’ the Chairman of
 this meeting, and transmitted by h m to cue  
 President,of tne U States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809091501:0152/pct:60.450819672131146,2.2825952115122194,37.35096870342772,94.31832278873588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809091501:0152/pct:60.43956043956044,2.2823120813693873,37.35022040106786,94.31075828991979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ i of this Meeting be
 the Chairman and Secretary,  
 lor their attention. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809092501:0002/pct:6.61455201443175,38.86206446561399,17.498496692723993,24.911914393840533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809092501:0002/pct:6.627914745774036,38.86206446561399,17.49181532705285,24.929314019748574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ fleet and eiteemt 1 am your most obedient
 serx’ant,  
 DAVID RAMSAY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809101301:0185/pct:5.414426107917671,2.3914104441190824,36.15798256999815,91.50805270863836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809101301:0185/pct:5.413422321097515,2.391118701964133,36.15745890495612,91.5009556341751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ With the n
 of respect and esteem, I am. your most}  
 obedient ser
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809101601:0001/pct:42.28675136116153,67.35575035980636,18.007662835249043,21.313620306162502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809101601:0001/pct:42.30019493177388,67.35575035980636,18.007662835249043,21.32670417375376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -755,7 +755,7 @@ beloved country, . o
 - going Resolutions be signed by the  
 Chairman *of this - meeting, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809101701:0371/pct:77.6313725490196,16.769938037177692,16.92549019607843,69.79812112732361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809101701:0371/pct:77.64183006535947,16.77660070624292,16.920261437908497,69.80145246185621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ spec and tsa ■«, 1 am j air most o:&gt;en:eiv
 I servant.  
 | DAVID HA MS AY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809102401:0333/pct:21.427219382926367,47.48799169154875,17.982207079310996,16.04569648189017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809102401:0333/pct:21.42316426949281,47.481827622014535,17.985112288670198,16.047940463828315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ obedient servant, . I
 . DAVID RAMSAY. ?_}  
 ‘An answer from the President was 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809103101:0380/pct:7.4339035769828925,3.2877797583679937,34.80559875583204,90.73083778966132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809103101:0380/pct:7.444271643338517,3.2910807420611343,34.80559875583204,90.73413877335446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

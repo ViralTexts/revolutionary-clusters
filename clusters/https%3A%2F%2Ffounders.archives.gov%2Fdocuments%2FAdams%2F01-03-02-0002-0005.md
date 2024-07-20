@@ -471,7 +471,7 @@ Duke of Brufwick, whom the people confider
 as the adviser of the Stadtholder, to pegle®  
 marching t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784091101:0574/pct:4.665605095541402,63.61011549183592,29.29936305732484,20.031859816806055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784091101:0574/pct:4.665605095541402,63.61011549183592,29.31528662420382,20.038497278640648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ and may be lawful for his Majesty in
 Council, by order or orders, to be issued  
 and publithed from time to time, to au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788060501:0203/pct:5.371900826446281,5.553905553905554,19.138755980861244,3.8313038313038312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788060501:0203/pct:5.37915035522691,5.5638055638055635,19.146005509641874,3.836253836253836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ ther goods and merchandize, being of
 the growth, produétion or manufalure  
 of the said United States, as are no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010801:0729/pct:25.478011472275334,50.43823383495948,20.33938814531549,20.224904911526377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010801:0729/pct:25.478011472275334,50.44374621024199,20.363288718929255,20.235929662091394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ diretions herein, as to them may re­
 {peétively appertain,  
 W. FAWKENER.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010801:0729/pct:46.510516252390055,2.9105341491648753,20.100382409177822,25.070282784851994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010801:0729/pct:46.518483110261315,2.9160465244473843,20.100382409177822,25.0757951601345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ appertain.
   
 W. FAWKENER.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031201:0003/pct:50.589005235602095,77.41804937272359,19.01178010471204,5.766895993524889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031201:0003/pct:50.589005235602095,77.43322541481182,19.01178010471204,5.761837312828814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ pal Secretary of State, for foreign affairs,
 plenipotentiary of our good friends, the  
 United States of America, did conclud
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796030501:0039/pct:5.17854382439326,16.97831708772628,15.860256608440254,8.732842649691666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796030501:0039/pct:5.18369660431803,16.97831708772628,15.870562168289792,8.73947350971421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ tain iVAmerica.
 X- And be it further enafted, That  
 there shall.be allowed and paid the fem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110801:0002/pct:43.29207920792079,61.47050014974543,17.202970297029704,8.68523510032944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110801:0002/pct:43.29826732673267,61.477987421383645,17.215346534653467,8.68523510032944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1157,7 +1157,7 @@ chandises and goods expo.ted Irom Great Britain into the
 teriitories ol the United State* of America, as allowed in  
 the case of exportation to the island*, plantations, or colo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853021801:0235/pct:31.973791973791975,28.060644346178144,15.79033579033579,5.6601389766266585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853021801:0235/pct:31.984711984711986,28.064855759107182,15.784875784875785,5.668561802484733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1175,7 +1175,7 @@ Fe, therefore, that  we, reposing especlal trust
 and confidence in the wisdom, loyalty, diligence  
 and circumspection of our right trusty and right wel be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871051701:0629/pct:11.8837740777016,231.0965998648953,45.91903362716291,4.582301283494709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871051701:0629/pct:3.961258025900533,77.0321999549651,15.306344542387638,1.5274337611649027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

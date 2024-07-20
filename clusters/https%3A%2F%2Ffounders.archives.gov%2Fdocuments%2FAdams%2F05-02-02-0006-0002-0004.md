@@ -217,7 +217,7 @@ or removed from onewarehousing port to another or from
 one warchouse to another in the same port, without a  
 true and lawful permit granted by the proper officer o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742927:1845102901:0507/pct:59.310459693537645,238.41955656623082,46.75216522318454,12.097782831154065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742927:1845102901:0507/pct:19.770153231179215,79.47318552207693,15.584055074394849,4.032594277051355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ or Police officer refusing such assistance,
 shall be liable to a fine of five hundred dollars.  
 Section 20. If any Collector or othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1848061701:0430/pct:69.13281753707285,23.46784509826724,20.003223726627983,15.04826142574718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1848061701:0430/pct:51.8703643985811,17.606698453308525,15.011286681715575,11.292010698918478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

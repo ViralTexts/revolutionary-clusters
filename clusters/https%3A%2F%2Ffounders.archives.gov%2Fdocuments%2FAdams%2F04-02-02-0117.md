@@ -44,7 +44,7 @@ only; and the chances are millions and millions
 to one, that that person is now in Asia or Afri  
 ca, and that I have nothing to do with it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842020501:0314/pct:77.26931732933234,112.04767986377182,60.09002250562641,38.03036753228324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842020501:0314/pct:19.317329332333085,28.011919965942955,15.022505626406602,9.50759188307081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -72,7 +72,7 @@ the chances are millions and millions to one, that
 that person is now in Asia or Africa, and that I  
 have nothing to do with it.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530169:1842020701:0125/pct:3.632286995515695,272.8118609406953,48.95366218236173,25.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530169:1842020701:0125/pct:1.210762331838565,90.93728698023176,16.31788739412058,8.333333333333334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ now in&#x27;--Africa;&quot; and therefore that our populae
 tion which we have been in the habit of calling  
 blac have in fact nothing to do with it, and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530169:1842020801:0129/pct:53.20910973084886,164.91443795470846,48.506359065365274,36.755815144994365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530169:1842020801:0129/pct:17.736369910282953,54.971479318236156,16.16878635512176,12.251938381664788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ SLEEP AND DEATHI.
 Hand in hand they wandered over the  
 earth, the angel of Sleep and his brothe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1842022501:0247/pct:20.629114850036576,28.529584065612184,100.2194586686174,359.16813122437026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1842022501:0247/pct:5.157278712509144,7.132396016403046,25.05486466715435,89.79203280609256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ it.&quot; . &#x27; .. ;:.v :.- r &quot;
   
 The Breaking Up,&quot; at Hand . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853100701:0627/pct:26.382306477093206,6.921568627450981,37.7567140600316,122.8529411764706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853100701:0627/pct:19.78933508887426,5.196078431372549,28.334430546412115,92.13725490196079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ Mortality among Cows. A fearful
 mortality hm, for the&quot; past three or four  
 months, been raging among the cows of Ih
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1853102001:0140/pct:27.92760823278921,56.00825167612171,15.951029098651526,12.648272305312016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1853102001:0140/pct:20.95829636202307,42.00618875709129,11.960958296362023,9.489427539969057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ to millions to one, that that person is now ia
 Asia or Africa, and that 1 have nothing to do with  
 it.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556641:1853110501:0143/pct:70.12600630031501,64.99818203854079,15.383269163458174,7.13852866319234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556641:1853110501:0143/pct:70.1347567378369,65.0042419100715,15.396394819740987,7.141558598957702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

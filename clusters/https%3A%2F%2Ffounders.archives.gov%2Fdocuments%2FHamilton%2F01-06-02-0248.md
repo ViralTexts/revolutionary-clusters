@@ -255,7 +255,7 @@ are in quantity, quality and value, astherein exprelfcd, according
 to the inward entry thereof, which entry was duly made at the  
 time of importation pursuant to the dircftions of this ast ; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081501:0004/pct:45.581927366313984,54.01028767384263,25.193022590792108,4.49609449418937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081501:0004/pct:45.596225336002284,54.024576109735186,25.20017157563626,4.481806058296819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ pursuant to the diretions of this a&amp; ;
 and that the quality is the fame as at  
 the importation ; and the exporter o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091701:0458/pct:8.197896749521988,23.98758981058132,21.152007648183556,15.00653167864141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091701:0458/pct:8.205863607393244,23.99303287611583,21.152007648183556,15.017417809710429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ with the oath or affirmation of the mas­
 ter and mate of the vessel in which they  
 were exported, certifying the deliver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091701:0458/pct:8.126195028680689,45.689092096668844,21.032504780114724,2.5473546701502285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091701:0458/pct:8.126195028680689,45.69453516220335,21.040471637985977,2.5473546701502285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ ted States, in any other manner than by
 sea, nor in any fthip or veflel less than  
 thirty tons burthen, except within th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091701:0458/pct:73.94837476099427,11.46309601567603,20.91300191204589,5.911169170476812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091701:0458/pct:73.95634161886552,11.468539081210539,20.9289356277884,5.916612236011321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ trading between different diftrifts, or be employed in the bank
 or whale fi(heries, every such ship or vessel (hall be fubjeft to the  
 lame tonnage and fees, as foreign (hips or vessels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789093001:0004/pct:18.801711840228247,44.44231138414283,24.964336661911556,5.740065271645229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789093001:0004/pct:18.801711840228247,44.44231138414283,24.971469329529246,5.740065271645229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ every such ship or veficl shall be fubje&amp;t
 to the {ame ronnage and fees, as foreign  
 ships or veflels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789102901:0481/pct:51.588830043331726,78.11033813298819,21.352912855079442,11.616243326322602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789102901:0481/pct:51.59685443748997,78.11573100361322,21.3448884609212,11.616243326322602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ growth or manufatture, twenty cents.
 For every permit to proceed to the  
 place of destination, twenty-five cents
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789110501:0485/pct:24.24897861091084,41.887713588283155,21.028598894496515,8.380797396257119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789110501:0485/pct:24.25698950572779,41.89856251695145,21.044620684130418,8.380797396257119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ colleaor, on pain of forfeiting the value of such excess, And il
 iny of the said articles (hall be landed for the purpose of being  
 io.d, or to be otherwifc used than as the fca stores of the (h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790092201:0001/pct:9.258698940998487,25.583676672552482,26.838124054462934,7.1806945261918775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790092201:0001/pct:9.258698940998487,25.583676672552482,26.86838124054463,7.185599372179714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ futi, and from, misapprehension in oth­
 €s, has operated to the prejudice of  
 individuals ; and it being proper tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790102101:0681/pct:29.595765158806543,13.800868586134792,41.9153031761309,78.57487534180473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790102101:0681/pct:29.595765158806543,13.806230228942148,41.939364773820984,78.57487534180473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ ports within his district ; and shall pro­
 vide at the public expence, and with  
 the approbation of the principal office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790121801:0717/pct:6.24677336086732,18.670725520040587,22.19927723283428,14.594960257060714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790121801:0717/pct:6.263982102908278,18.670725520040587,22.190672861813802,14.594960257060714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ or veflel belonging in the whole or any
 part to a citizén or citizens, inhabitant  
 E or inhabitants of the United States, un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790121801:0717/pct:29.09137842023748,43.615761880602065,22.14765100671141,19.144258413664808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790121801:0717/pct:29.108587162278436,43.6270364733074,22.14765100671141,19.144258413664808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ and of the goods, wares or merchandize
 brought in, landed or unladen, in any  
 other manner. And all goods, ware
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010801:0727/pct:49.6414913957935,52.70382007607078,20.17208413001912,12.551678518273524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010801:0727/pct:49.6414913957935,52.70933245135329,20.180050987890375,12.557190893556033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ isville, nor shall be lauded or unladened at
 any other place than Is by this act directed,  
 under the penalty of seizure and forfeitur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809011201:0314/pct:23.944687045123725,58.423981785985326,17.066957787481805,5.78041993422717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809011201:0314/pct:23.940331089685284,58.41659289237385,17.069916924382998,5.783904557143459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ manner than by sea, nor in any ship or
 vessel of less than thirty tons burthen,  
 except within the district of Louisville
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809011301:0019/pct:58.989401968205904,45.414903167885086,17.58137774413323,5.7073233294857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809011301:0019/pct:58.978240302743615,45.40907925109002,17.584358246609902,5.710866034025819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ torae for, the collection of the duties, impos
 ed by this act on goods, wares, and merchan­  
 dise, imported into the United Stetes ; wn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819071401:0934/pct:28.20813771517997,41.90095282907893,21.009389671361504,2.6820374073638393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819071401:0934/pct:28.221178925404278,41.90487393639964,21.009389671361504,2.685958514684547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -802,7 +802,7 @@ by all concerned to be temporary. Indeed, whenever a i
 national bank shall be instituted, some new disposition  
 of the thing will be a matter of course.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1837011201:0626/pct:65.12303013547138,54.873610701288484,17.915399502350013,14.006098160716043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1837011201:0626/pct:65.12303013547138,54.873610701288484,17.915399502350013,14.009376741746172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -830,7 +830,7 @@ convenience of the community might dictate ; those
 arrangements being compatible with the eventual  
 receipt of duties in specie.&quot; This interpretation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838070401:0517/pct:34.76595035815426,76.78593234827207,15.55888722305514,6.6919037733545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838070401:0517/pct:34.76595035815426,76.79000284935076,15.55888722305514,6.6919037733545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -935,7 +935,7 @@ cerned, to be temporary.
 stituted, some new disposition of the thing will be a  
 matter of course.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838071101:0526/pct:2.9070716968806143,44.72343522561863,15.368283521149763,41.72731683648714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838071101:0526/pct:2.9125156513691546,44.73152191492803,15.373727475638304,41.73136018114184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1017,7 +1017,7 @@ munity might dictate; those arrangements beingcnmpa
 j ble with the eventual receipt of duties in specie.&quot; &#x27;J&#x27;l  
 interpretation, thus placed upon the act of 1780, was 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838082101:0329/pct:17.916540671303295,44.4843238678349,15.890535228303598,6.407684999472184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838082101:0329/pct:17.916540671303295,44.4843238678349,15.900614857373249,6.418241317428481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1045,7 +1045,7 @@ by law on the tonnage of ships or vessels, and on
 goods, wares, and merchandises imported into the United  
 States,&quot; and approved July thirty-one, seventeen hundre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846080301:0149/pct:151.76192884842354,102.56767747182526,49.41831057157309,5.2631578947368425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846080301:0149/pct:50.58730961614118,34.189225823941754,16.472770190524365,1.7543859649122806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1062,7 @@ States,&quot; and approved July thirty-one, seventeen hundre
 law on the tomnage of ships or vessels, and on goods, wares  
 and merchandises imported into the United States, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846080401:0217/pct:130.3529039404969,113.24353319823578,41.69963601835733,3.945643104064847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846080401:0217/pct:43.450967980165636,37.74784439941193,13.899878672785778,1.3152143680216155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1080,7 +1080,7 @@ duties imposed by law on the tonnage of ships or
 vessels, ami on goods, wares and merchandise  
 imported into the United States,” and approve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846080701:0344/pct:39.747232291564615,35.66414867303964,14.352895072009405,1.9720569556788556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846080701:0344/pct:39.74333855799373,35.661764705882355,14.354754440961338,1.9741532976827094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1098,7 +1098,7 @@ of duties imposed by law on the tonnage of ships
 or vessels, and on goods, wares and merchan.  
 dises imrom‘d into the United States,”” and ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1846081201:0025/pct:70.01688092455525,5.803525409751572,12.413972211401116,2.154417070405113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1846081201:0025/pct:70.01688092455525,5.81039755351682,12.418300653594772,2.1612892141703606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

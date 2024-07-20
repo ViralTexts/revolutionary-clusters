@@ -30,7 +30,7 @@ States from privateering against natipns in
 amity with, or against citizens of the Uni­  
 ted States. Both which were twice read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060601:0003/pct:39.76553341148886,61.10454813939752,15.96717467760844,2.3183697578263436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060601:0003/pct:39.76553341148886,61.11193148257531,15.984759671746776,2.3183697578263436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -53,7 +53,7 @@ BE it enacted by the Senate and
 j House of Representatives of the  
 - United States of America, in Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797062701:0312/pct:58.959890193686135,38.024397500743824,15.891413756290987,5.563820291579887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797062701:0312/pct:58.959890193686135,38.03100928956329,15.901581007574602,5.560514397170154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -72,7 +72,7 @@ mi­
 1. An aft to prevent citizens of the Uni-|  
 ted States from privateering against nations 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071201:0002/pct:26.39121089085264,10.277275467148884,16.957248626701695,3.3001808318264017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071201:0002/pct:26.40315261523764,10.288577456298976,16.9811320754717,3.292646172393008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ S &quot; States,&quot; or the ad pasTed the 14th day
 e Yen will also consider it to be your duty  
 ? to prevent evasions of the aft passed on til
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032201:0003/pct:55.6854653828519,51.72569027611044,17.21687299403943,8.148259303721488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032201:0003/pct:55.69692801467217,51.73694477791116,17.222604309949563,8.137004801920769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ of the United States”” -~ .« |
 . &#x27;You will also confider it to be your  
 duty to prevent evasions. of the ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041101:0476/pct:24.066002490660026,68.56457896314055,16.500622665006226,11.607232044750774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041101:0476/pct:24.071191365711915,68.57123830453168,16.500622665006226,11.607232044750774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ vateering against. nations in amity with, er a­
 gainst the citizens of the United States,” and  
 the act, passed the third day of March, on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818080401:0297/pct:56.42898052691867,66.271899774885,16.122565864833906,3.8661055104238033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818080401:0297/pct:56.438526155021,66.27842484747643,16.122565864833906,3.8661055104238033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

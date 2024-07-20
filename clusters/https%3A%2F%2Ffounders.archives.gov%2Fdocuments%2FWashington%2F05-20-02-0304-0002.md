@@ -121,7 +121,7 @@ its Mimfter, the Citizen Fauehet, by the English
 ship Alnca. in concert with the Vice Cor ful of that  
 nation, within the waters of the Uniud^tatcs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012801:0002/pct:72.26068274051086,89.67721316714605,18.811172117450464,3.659316075423458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012801:0002/pct:72.26665075196945,89.6852029402365,18.835044163284792,3.66331096196868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ marks. He fays &quot;it will be easy to prove that
 &quot; the Republic, and the molt essential and least  
 &quot; comefted prerogative of neutrality.&quot;—The re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797013001:0002/pct:34.26197458455523,10.924504158669226,19.110459433040077,3.166986564299424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797013001:0002/pct:34.26197458455523,10.936500319897632,19.134897360703814,3.174984005118362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ decisions executed in all dif.mtes between
 Frenchmen, of which the confuls have tlicex­  
 clufive cignizancc ; 2d. Becaufe ihe judge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1797021401:0008/pct:9.623176661264182,4.064363989457623,39.85008103727715,92.2735469551949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1797021401:0008/pct:9.621227466072513,4.06380027739251,39.84876105597191,92.26537216828478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ of giving to the Consuls the means of hav- |
 ing their decisions executed in all difpates  
 between Frenchmen, of which the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797030401:0246/pct:24.71665890389691,22.45648930880159,16.08445893494799,6.911984087518648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797030401:0246/pct:24.71665890389691,22.459804409083375,16.08963411478549,6.921929388363998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ Fauchet, by the Englith ship Africa, in
 concert with the Vice Consul of that na- l  
 tion, within the waters of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797030401:0246/pct:24.763235522434403,32.37195425161611,16.022356776897997,4.594728990551964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797030401:0246/pct:24.768410702271904,32.37195425161611,16.037882316410496,4.604674291397314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ publi¢; and the most essential and least
 contested prerogatives of neutrality”’~—~The  
 reverse of what the minister confiders s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797030401:0246/pct:41.51529265641981,80.60666335156638,16.053407855922995,4.107409249129786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797030401:0246/pct:41.51529265641981,80.61329355212995,16.058583035760492,4.104094148848002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ tending its negociation, in terms not to have
 been expefted by thefirft and almost [only] .  
 voluntary friend of the Republic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798051001:0002/pct:42.77509763381576,46.01523586287723,17.091660923501035,18.34163492528567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798051001:0002/pct:42.786583965081554,46.02622326399062,17.09740408913393,18.34163492528567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ colonies, and even in France, by the force
 of a bare ploclamation.&quot; t  
 The objedions to this article (hall be con- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798051101:0002/pct:6.206566019650132,8.30638047633049,18.835370237239395,15.701264334019406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798051101:0002/pct:6.2245387011742155,8.31740664510438,18.829379343398035,15.712290502793296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ facrificed their conneétion with this Repub­
 li¢ and the most essential and least contefled  
 prerogatives of neutrality.” ‘With the firm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798052201:0504/pct:42.375502629137024,64.17530815887302,15.991339313331272,2.9152807669731953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798052201:0504/pct:42.375502629137024,64.18183003978348,16.006804825239715,2.9120198265179678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -806,7 +806,7 @@ je&amp;lions efficially made to the Treaty with
 Britain by the government of France either  
 in Paris or Philadelphia, are nec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798052201:0504/pct:42.298175069594805,75.15163373116808,16.269718527683267,19.526511445900997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798052201:0504/pct:42.30333024023095,75.15163373116808,16.269718527683267,19.533033326811452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -828,7 +828,7 @@ the law of nations, l»y their treaties with all other na­
 tions &amp; even by tbofc of fcogUnd with the greater part  
 cf t!ie maritime power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798052801:0023/pct:3.7029741973606463,23.27545753167527,22.532991924364783,4.633974659784139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798052801:0023/pct:3.7022449783379283,23.272727272727273,22.533477747144545,4.636363636363637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ edged the pretentions failed by England to create block­
 ades in our colonics, and even in France, by the foice  
 of a hart proclamation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798052801:0023/pct:50.54165845972031,40.110276865321445,22.82844199330313,10.030502111684655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798052801:0023/pct:50.53170539582513,40.105571847507335,22.82886963371406,10.03225806451613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -878,7 +878,7 @@ treatics with all other nations, and even by
 those of England with a greaier part of the  
 mantime powers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798052901:0507/pct:6.246076585059636,45.18737672583826,16.494036409290647,2.948717948717949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798052901:0507/pct:6.251307804980121,45.1939513477975,16.48880518937016,2.948717948717949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ pretensions raised by England to . ¢reate
 blockades in our ecolonies, and gven in  
 France, by the force of a bare proclamapop.?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798052901:0507/pct:41.63527934714375,50.581854043392504,16.55681104833647,8.83629191321499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798052901:0507/pct:41.64574178698472,50.581854043392504,16.55681104833647,8.839579224194608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,7 +956,7 @@ in contempt ot the 5th art cle admittidg in the
 tribunals of both powers, copies certified by the  
 Conful. (continued
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798070201:0039/pct:27.930837925137755,24.146574361422775,21.47064411932358,4.3685843876820245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798070201:0039/pct:27.925531914893618,24.143692564745198,21.471314589665653,4.371046664279747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1012,7 +1012,7 @@ It is then uinderflood to be required,
 thould execute the judgments of the consuls.  
 ~endly. That the judges of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798071001:0531/pct:42.642735571715924,85.24638247946812,16.509360977874053,9.82596793116934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798071001:0531/pct:42.642735571715924,85.25290053448052,16.514518541441024,9.82596793116934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1138,7 +1138,7 @@ i complete freedom ol the article: they have tacitly ac- &#x27;
 . knowledged the pretensions of England to extend the  
 1 blockade to our colonies, and even to France, by forc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012301:0095/pct:16.782868525896415,44.64399439561839,16.03585657370518,3.3881034263151193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012301:0095/pct:16.782868525896415,44.65248588290239,16.04138999557326,3.38385768267312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1166,7 +1166,7 @@ hoy have tacitly acknowledged the pretensions *
 ind even to France, by force of proclamation  
 ilonc.&quot; This was what Mr. Adet meant whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012501:0106/pct:18.539749585156134,62.29914933837429,14.57233368532207,6.2263705103969755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851012501:0106/pct:18.544777995675567,62.307025834908636,14.58239050636094,6.2224322621298045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1188,7 +1188,7 @@ mination of contraband even t&quot; provisions, instead cf restrict­
 1 oar colonies, and even to France, by force of proclamation  
 &#x27; alone.&quot; This waa what Mr. Adet meant when he said 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851012501:0512/pct:20.4502305397342,22.090261282660332,15.486845673989693,3.9624271215720146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851012501:0512/pct:20.4502305397342,22.090261282660332,15.50040683482506,3.969624991002663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

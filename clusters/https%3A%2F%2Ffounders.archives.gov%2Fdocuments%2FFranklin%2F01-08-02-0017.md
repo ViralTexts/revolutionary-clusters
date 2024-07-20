@@ -217,7 +217,7 @@ pleasantly that social harmony among
 fellow-citizens that is so desirable after  
 long and bitter dissensions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_gorham_ver01:data:sn84022565:00332895680:1888020101:0761/pct:23.9770279971285,22.048022598870055,10.050251256281408,4.392655367231638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_gorham_ver01:data:sn84022565:00332895680:1888020101:0761/pct:23.972725641485734,22.04490891117074,10.052933787905975,4.395565598079368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ ents than I have in Mr. Hughes and you.
 It is impossible to get or keep out of  
 your debts. Nor was he himself ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00271769854:1899072501:0139/pct:50.25620811982657,33.821620619321344,13.992905005912496,2.2343778972742445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00271769854:1899072501:0139/pct:50.26058774580651,33.82780147104271,14.00604388385232,2.237468323134928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

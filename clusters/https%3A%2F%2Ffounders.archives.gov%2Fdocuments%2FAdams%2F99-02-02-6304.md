@@ -30,7 +30,7 @@ mark. Home Tooke observes “ that
 &quot; meaning, are the everlasting engines of  
 &quot; Iraud and injustice.&quot; Those engine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819122901:0278/pct:82.10371339767708,85.18650510810168,14.673646327498773,2.3045854122119267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819122901:0278/pct:82.09028459273797,85.17638674426891,14.676698288081997,2.308270974383339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

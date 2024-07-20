@@ -61,7 +61,7 @@ Aeccpt the assurances of my good will and re­
 spect.  
 Taos JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1856040901:0163/pct:18.276877761413843,63.468715697036224,11.119293078055964,7.4094401756311745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1856040901:0163/pct:18.276877761413843,63.47237467983901,11.129111438389788,7.413099158433956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ lines sentiment on thesubject.
 Accept the assurances of my good will and  
 respect. Tnos Jeherson.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1856051501:0589/pct:42.669308357348704,33.36286546006835,16.282420749279538,15.985318314137452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1856051501:0589/pct:32.02378806992251,25.022149095051258,12.218417732924852,11.998481204910771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ two lines of sentiment on the subject.
 “ Accept the assurance of my good will and  
 respect. Tiros1. Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:0038334735A:1856070501:0109/pct:19.159939455095863,59.35706084959816,12.045913218970737,8.43857634902411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:0038334735A:1856070501:0109/pct:19.16834846955937,59.36343921418548,12.037504204507231,8.43857634902411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ I prayers. This is written for yourself,
 Accept the assurance of my good will and  
 ri-q.. .:. Thomas jk*&#x27;ifkbson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856091101:0580/pct:1.0273144790911288,68.0827067669173,12.327773749093547,8.533834586466165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856091101:0580/pct:1.0313431633228587,68.0827067669173,12.323745064861816,8.540100250626567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ line* of sentiment on the subject.
 &quot; Accept the assurance of inv good will and reaped.  
 &quot;THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856091801:0585/pct:26.63919524906072,13.814180929095354,13.016604047994182,4.777129960504044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856091801:0585/pct:26.643235163414534,13.814180929095354,13.024683876701815,4.783399159927277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ niot to be eapected ih a iay or perno
 outlve this cril also. Hy sentimen&#x27;s hure  
 been fortg vears before the public. Hed I ce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296229:1856092701:0576/pct:262.42111302352265,330.87338501291987,53.01204819277108,15.297157622739018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296229:1856092701:0576/pct:65.62410329985653,82.71834625322997,13.256814921090387,3.8242894056847545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ lines of sentiment on the subject. Accept the assure
 ance of my good will and respect.  
 Me le mee win Ti EFErso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856100801:0054/pct:200.13256006628004,230.5254378648874,48.03645401822701,38.32956034790897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856100801:0054/pct:66.71085335542668,76.84181262162913,16.012151339409,12.776520115969657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ tire f&quot; see them consummated, they utill tut! die with me ,
 but. living or dying, they will over be in my most fervent  
 prayers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0602/pct:3.6903473975237406,46.008542952064545,11.684096646231518,2.5344091124822024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0602/pct:3.69435428937773,46.01487106470495,11.684096646231518,2.5375731688024046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ the subject. Accept the assurance
 of my good will and respect.  
 TH. JEFFErSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856103101:0178/pct:66.64098613251156,156.73925838728664,44.60708782742681,70.62978222483814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856103101:0178/pct:16.666666666666668,39.18481459682166,11.15606936416185,17.657445556209534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ ring tho deliverance of these, this case requires is not to be expected in
 our suffering huetukkn. When the i dv, or perhaps in an age ; Out tone wncli  
 measure of iheii tears shall be full, when j outires oil things will outlive this evil also
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858081701:0289/pct:91.5,52.80435938330675,34.53225806451613,2.6315789473684212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858081701:0289/pct:68.64010324245847,39.60659223817119,25.907404420067753,1.9803296119085594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ be expected in a day, or perhaps in an age.
 But time, which outlives all things, will out­  
 live this evil also.” I felt then that Time wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059500:00383347191:1859080601:0134/pct:4.6912338070682935,50.84442678323068,10.690479185008176,5.752036558712497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn90059500:00383347191:1859080601:0134/pct:4.6954261518467275,50.84442678323068,10.694671529786609,5.758659513875091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ they would have only become the more stale andt
 threadbare. Although I shall not live to see  
 them consummated, they will not die with me.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:239.71170600348486,195.5045545960014,37.38317757009346,7.807878859576482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:79.90390200116163,65.16818486533381,12.461059190031152,2.602626286525494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ ThCs, JEFFERSON,
 Is it not profanation of his name and  
 memory to link them with the so calle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn86081582:00280776543:1867040301:0226/pct:123.92638036809817,235.94080338266386,48.84969325153374,57.674418604651166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn86081582:00280776543:1867040301:0226/pct:30.999424515633994,58.985200845665965,12.219451371571072,14.418604651162791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

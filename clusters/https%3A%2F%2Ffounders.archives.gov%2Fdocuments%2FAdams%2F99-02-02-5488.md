@@ -101,7 +101,7 @@ press thejnfcvfs, it is as much as is ever, and
 more than is always, true. All kinds of experi­  
 ence shew, that greater numbers of individual
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789052701:0004/pct:15.270790174607873,48.934145413018655,26.339153595738384,7.765511990864104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789052701:0004/pct:15.27818881325836,48.938903692424816,26.35395087303936,7.779786829082604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ lates to those powers, which have not passed or do
 not execute any decrees injurious to the neutral  
 rights of the United States. ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112801:0231/pct:55.32776512275373,78.9796256418751,20.8301695773222,4.025178068577108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112801:0231/pct:55.31376518218624,78.96654521364691,20.831224696356276,4.028651871480623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ Cadiz, or Gottenborgb, would receive, at prices re­
 duced by glutted markets and for want of competi­  
 tion, all the provisions, naval stores, raw material
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112801:0231/pct:56.264236902050115,2.7497101209209873,41.888129587446215,94.05333775053835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112801:0231/pct:56.25,2.7492547201059954,41.88385627530364,94.04190129181848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ passed or do not execute any decrees in­
 jurious to the neutral rights of the United  
 States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0242/pct:23.243441570354065,11.97297635431002,17.336268574573474,4.466408107093707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0242/pct:23.239178283198825,11.971478608956717,17.339202739056002,4.470019181052456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ glutted markets and for want of competi­
 tion, all the provisions, naval stores, raw  
 materials for her manufactures, and othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0242/pct:23.09667950834709,21.156011510071313,17.648137956338285,12.323282872513449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0242/pct:23.092443140132062,21.153365023767826,17.651014918072878,12.32591109999166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ ed that a measure which would supply ex
 clusively one of the belligerents, would be  
 war with the other. Considered merely a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0242/pct:23.151715281599706,38.621293631927934,17.26288754356999,2.3145252095583637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0242/pct:23.147468818782098,38.61646234676007,17.26583516752262,2.318405470769744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ issed or do not execute any decrees injn. ai
 ms to the neutral right* of the United ol  
 ite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0390/pct:41.84504641030498,89.02147971360382,18.109490433794278,4.509483733199347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0390/pct:41.83712121212121,89.01029891986938,18.112373737373737,4.513103910240308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ Gottenburg, would receive, at prices re­
 duced by glutted markets and for want of  
 competition, all the provisions, naval stores
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0390/pct:60.087137715476416,17.183770883054894,17.446486076908506,3.818615751789976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0390/pct:60.07575757575758,17.181612660135645,17.449494949494948,3.8223226994892405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ tion of profit, it would be nVch more elt­
 g ble at once to raise the embargo in re­  
 iaiion to Great Britain, as we would then.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0390/pct:60.16290964197765,28.011556337143574,17.351771168781966,4.421555081019973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0390/pct:60.15151515151515,28.008038181361467,17.35479797979798,4.425186301599263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ Gottenburg, would receive, at prices reduc­
 = by glatted markets and for want of  
 competition; all the provisions, naval stores
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808120601:0194/pct:8.08471170196321,45.06915213469633,15.999381666409027,3.397474443776308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808120601:0194/pct:8.08471170196321,45.07583350036747,16.014840006183334,3.3941337609407363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ supply exclusively one of the bel­
 ligerent*, would-be war with the­  
 other. Considered merely as 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808120901:1078/pct:76.33527234267584,18.917576961271102,16.261237440507667,2.962595167163191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808120901:1078/pct:76.31509384086704,18.914446466986597,16.26354744911446,2.9662419328148273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ mittee, (page 13) a measure which would supply exclu­
 sively one of the belligerents, would be war w ith the other.”  
 This is the state secret; tins is the master key to the whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808122401:0275/pct:12.613521695257315,8.639168561221176,20.610494450050453,1.6076648262422863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808122401:0275/pct:12.610340479192939,8.637765871082967,20.611601513240856,1.6114628998213996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ and arrives at this cerclusicn, ‘““that it has been
 the common people, and not the gentlemen, who  
 have establisged monarchy all over the world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828100701:0570/pct:58.572697660645545,71.21243958814877,15.8868818477939,1.5234292918680394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828100701:0570/pct:58.572697660645545,71.21243958814877,15.901687888658573,1.5374378370806192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -822,7 +822,7 @@ is vulnerable the man who, without firm­
 ness enough to avoid a dishonorable action.  
 has feeling enough to be ashamed of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1843061701:0683/pct:107.75254502740799,79.46127946127946,19.18559122944401,2.494643403734313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1843061701:0683/pct:80.8460634547591,59.5959595959596,14.394829612220917,1.8824609733700643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

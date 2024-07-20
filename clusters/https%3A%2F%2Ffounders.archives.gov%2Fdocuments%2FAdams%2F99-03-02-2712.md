@@ -386,7 +386,7 @@ Days of my youth ye have glided away;
 Hairs of my youth ! ye ore frosted and grey;  
 F.yes of my youth ! your keen sight is no more ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820041101:0166/pct:8.27693909422176,7.238917482981902,17.334721499219157,6.309148264984227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820041101:0166/pct:8.274785323965652,7.237715803452855,17.33671610720791,6.312250996015936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ Hays of my youth ! ye have glided away ;
 Ilairs of my youth ! ye are frosted and gray ;  
 F.y es of my youth ! your keen sight is no more 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823111501:0137/pct:4.982493940210072,41.949506771442906,17.66765418798815,2.023073064704899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823111501:0137/pct:4.98115239633818,41.94249414911401,17.66962843295638,2.0269140755600135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ ed to court the poetic muse.
 Hairs of my youth, ye are frosted and gray.  
 Eyes of my youth, your keen sight is no more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1827012601:0123/pct:4.448434071414323,44.62878473662381,17.334929184121286,3.152218996267109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1827012601:0123/pct:4.447546868767451,44.62261542714957,17.336457917830074,3.1552391484655793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ Days of my youth! ye have glided away ;
 Hairs of my youth! ye are frosted and gray;  
 Eyes of my youth 1 your keen sight is no more 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1828071501:0080/pct:12.496906706260827,85.96361484987428,21.504578074733978,19.804762609081497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1828071501:0080/pct:9.69762833216135,66.62845789393245,16.665601227386052,15.344643130062662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ Days of my youth, ye have glided away;
 Hairs of my youth, yo-are frosted and gray­  
 Eyes of my youth, your keen sight is no more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840100901:0123/pct:28.650586701434158,16.456876456876458,94.377444589309,61.86480186480186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840100901:0123/pct:21.49959250203749,12.342657342657343,70.79054604726976,46.3986013986014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1410,7 +1410,7 @@ Days of my youth, ye have glided away ; &#x27;
 Hairs of my youth, ye are frosted and gray ; (  
 Eyes of ray youth, your keen sight is no more; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562427A:1854051101:0229/pct:4.427614331488494,39.170205815093105,14.637343431401106,5.869541544157682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562427A:1854051101:0229/pct:4.427614331488494,39.170205815093105,14.656762792504127,5.880431231623652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1446,7 +1446,7 @@ Days of my youth—ye have glided away;
 Hairs of my youth—yc arc frosted and gray;  
 Eyes of my youth—your keen sight is no more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349013:1855011001:0210/pct:27.000534664052754,23.216261061946902,12.778470860809126,13.564712389380531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349013:1855011001:0210/pct:26.995723449750535,23.2130512926863,12.780648610121169,13.566293377575004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1536,7 +1536,7 @@ can not expire:
 These shall resist the empire of decay,  
 When time is o&#x27;er, and worlds have passed away
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776373:1857081401:0192/pct:269.21202274573517,150.44001852709587,46.222583265637695,5.311100818280068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776373:1857081401:0192/pct:67.31667682307535,37.61000463177397,11.557993093642088,1.327775204570017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1554,7 +1554,7 @@ to live,” these cannot expire:
 When time is o&#x27;er, and worlds have passed  
 awav; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152329:1857082601:0037/pct:69.60537363560033,36.350132625994696,11.502938706968934,1.9522546419098143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152329:1857082601:0037/pct:69.61470286407314,36.35720601237843,11.502938706968934,1.95579133510168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1586,7 +1586,7 @@ expire.
 “These shall resist the empire of decay,  
 When time is o’er and worlds have passed away
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1857121201:0270/pct:83.01622831561276,20.57884656309853,12.688864017907107,10.24686103426261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1857121201:0270/pct:83.01622831561276,20.57884656309853,12.688864017907107,10.25395474214372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1605,7 +1605,7 @@ pire :
 When time is o’er, and worlds have passed  
 away
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1858010201:0284/pct:31.019099400529765,71.14443735375453,12.421580928481808,2.722824930865773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1858010201:0284/pct:31.02374645661973,71.15152804367865,12.426227984571774,2.715734240941644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1682,7 +1682,7 @@ not expire:
 When time is o&#x27;er, and worlds have passed &#x27;  
 away 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1859051901:0046/pct:49.02031930333817,84.56755228942906,11.211901306240929,2.0209157716223856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1859051901:0046/pct:49.02636671504596,84.57226304880346,11.230043541364296,2.0256265309967967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1718,7 +1718,7 @@ Days of my youth, ye have glided away,
 Hairs of my youth, ye are frosted and gray;  
 Eyes of my youth, your keen sight is no more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1860061601:0441/pct:66.5751544269046,271.30434782608694,50.78929306794784,44.32147562582345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1860061601:0441/pct:16.646644928779818,67.82608695652173,12.699502316801098,11.080368906455863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1736,7 +1736,7 @@ These shall resist the empire of decay,
 When time is o&#x27;er and worlds have passed  
 away
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862011101:0779/pct:226.85560053981106,128.78522313603884,49.12280701754386,8.197384387218552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862011101:0779/pct:56.73304083698954,32.19630578400971,12.284846439419507,2.049346096804638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1771,7 +1771,7 @@ Days of my youth, ye have glided away,
 flairs of my youth, ye are frosted and gray ;  
 Eyes of my youth, your keen sight is no more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744791:1866022201:0025/pct:8.352872215709262,17.488349276428746,32.88393903868699,106.04611233750306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744791:1866022201:0025/pct:6.272900483658215,13.122393917095904,24.66656895793639,79.53151827324012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1798,7 +1798,7 @@ Days of my jouth, ye have glided away;
 Hairs of my youthye are frosted and gray;  
 Eyes of my youth, your keen sight is no more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879208:1867022601:0245/pct:7.746666666666667,8.348755911988485,38.85333333333333,116.71807526218383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879208:1867022601:0245/pct:5.8141085478063745,6.2615669339913635,29.15055340712095,87.54883816574132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1833,7 +1833,7 @@ these cannot expire.
 &quot;These shall resist the empire of decay,  
 When time is o&#x27;er and worlds have passed away
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn81004761:00212478295:1868072901:0226/pct:122.70531400966183,80.87924475130336,47.82608695652174,5.636184303226716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn81004761:00212478295:1868072901:0226/pct:30.694864048338367,20.21981118782584,11.963746223564955,1.409046075806679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1893,7 +1893,7 @@ Days of my youth! ye have glided away,
 Hairs of my youth! ye are frosted and gray.  
 Eyes of my youth! your keen sight is no more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1870020401:0323/pct:9.156452775775055,77.20840774831707,44.98918529199712,10.00137381508449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1870020401:0323/pct:2.289938694554634,19.302101937079268,11.25135232600072,2.5003434537711224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1933,7 +1933,7 @@ Days of my youth! ye have gFded away;
 Hairs of my youth! ye are frosted and gray;  
 Eyes of my youth! your keen sight is no mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1873011701:0470/pct:14.513654495243939,33.67934108089812,12.396440625958883,3.2043326187521157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1873011701:0470/pct:14.518768538406464,33.686862988453875,12.396440625958883,3.2005716649742375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1976,7 +1976,7 @@ Day of my youth ye have passed awaj,. ;
 Hairs of my youth ye are frosted and gray,  
 Eyes of my youth your keen sight Is no more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197607:1874021101:0239/pct:5.793742757821553,9.009812667261373,14.687137891077636,1.6726137377341659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197607:1874021101:0239/pct:4.3465662126919735,6.7573595004460305,11.025789626195305,1.260035682426405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2088,7 +2088,7 @@ Days of my youth, ye have glided away,
 Hairs of my youth, ye are fostered and gray ;  
 Eyes of my youth, your keen sight i&lt; no more,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663754:1875100701:0362/pct:2.851123595505618,4.068502223483773,15.997191011235955,8.846626927807739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663754:1875100701:0362/pct:2.8604868913857677,4.07480997886902,15.987827715355806,8.846626927807739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2128,7 +2128,7 @@ Days of my yonth, ye have glided away;
 Hairs of my youth, ye are frosted and gray;  
 Eyes of my youth, your keen sight is no mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876083101:0175/pct:333.23029366306025,54.32967032967033,41.267387944358575,4.102564102564102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876083101:0175/pct:83.33977580208736,13.582417582417582,10.320834943950523,1.0256410256410255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2232,7 +2232,7 @@ Hairs of my youth, you are frosted and ay
 Eyes of my youth, your keen sight is no  
 mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768121:1878102701:0122/pct:35.84482205835204,9.004001778568252,13.94677781340173,11.582925744775455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768121:1878102701:0122/pct:35.85550924441595,9.004001778568252,13.936090627337823,11.597747146880096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2269,7 +2269,7 @@ Hairs of my youth, you are frosted a id sray
 Eyes of my youth, your keen sight is no  
 mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479214:1878103101:0069/pct:38.67772687879163,38.48261526832955,10.672279311625603,7.851473922902494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479214:1878103101:0069/pct:38.67772687879163,38.48261526832955,10.6805332012711,7.85777273872512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2347,7 +2347,7 @@ Days of my youth! ye have glided away.
 Hairs of my youth 1 ye are frosted and gray ;  
 Eyes of my youth! your keen sight Is no more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1880032301:0181/pct:39.36543367346939,8.806404657933042,10.794005102040817,7.8481319747695295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1880032301:0181/pct:39.37739158163265,8.81246967491509,10.790019132653061,7.8481319747695295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2426,7 +2426,7 @@ gray ;
 Eyes ot my youth, your keen sight is no  
 more, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:0027176781A:1880121101:0407/pct:42.5996338543867,8.771589365418203,27.08069286016054,88.56006209974773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:0027176781A:1880121101:0407/pct:42.5996338543867,8.774823727278608,27.08538703468995,88.56329646160812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2496,7 +2496,7 @@ Eyes of my youth.
 Your keen sight is no more;  
 Cheeks of my youth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888053001:0724/pct:75.54347826086956,80.84580530001374,16.05072463768116,8.403130578058493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888053001:0724/pct:58.545488581055785,62.65961975028377,12.453201048296519,6.516032917139614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2541,7 +2541,7 @@ Eyes of my youth.
 Your keen sight is no more;  
 Cheeks of my youth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340586320:1892022601:0075/pct:14.926931106471816,18.25522710886806,11.294363256784969,3.7923576063446287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340586320:1892022601:0075/pct:11.568331355840794,14.147886012292792,8.76388739078848,2.942819891972434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2562,7 +2562,7 @@ Ye are frosted and fray £g S®ff£j
 Eyes of my youth,  
 Your keen sight is no mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:0019991814A:1892022601:0942/pct:13.913384283754654,17.087995579499932,13.541054281795022,3.3706313026661143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:0019991814A:1892022601:0942/pct:11.141304347826088,13.67788992853459,10.832984949832776,2.689162307522287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2597,7 +2597,7 @@ Eyes of my youth.
 Your keen Bight is no more;  
 Cheeks of my youth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026499:1892030401:0474/pct:24.205581652390162,11.333621996103053,19.894998618402873,84.11993938081837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026499:1892030401:0474/pct:24.214792299898683,11.337230280724544,19.890393294648614,84.12715595006134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2651,7 +2651,7 @@ gray;
 of myfyouth, your keen sight is no  
 mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032903:1897100301:0028/pct:43.06664494052469,115.99867139061116,41.6653087827929,38.651461470327725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032903:1897100301:0028/pct:14.355548313508228,38.66622379687038,13.888436260930964,12.88382049010924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2684,7 +2684,7 @@ gray;
 Eyes of my youth, your keen sight Is no  
 in. ire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1897122201:0594/pct:57.69230769230769,7.300699300699301,34.634424980959636,120.57342657342657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1897122201:0594/pct:43.2952380952381,5.4825174825174825,25.98095238095238,90.43356643356644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -96,7 +96,7 @@ able, | have always said, as [ fay now,
 that I wiil be the last to dilturb the  
 independence of the United Siates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788122401:0310/pct:31.338199513381994,8.135313531353136,19.951338199513383,10.214521452145215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788122401:0310/pct:31.346309813463098,8.135313531353136,19.959448499594487,10.214521452145215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -643,7 +643,7 @@ at this, hecHtisu f in null it an indisc;efion,
 and a descent It mi In* dignify, i was ahltle  
 emhirrassett, but determin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819051801:0018/pct:34.73193473193473,6.3058709833293065,15.417915417915419,75.77917371345735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819051801:0018/pct:34.726152821708006,6.305109312718927,15.420897841407248,75.77404678503845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -707,7 +707,7 @@ lionoui to Iip, clear Sir,your most obedient and
 most humble servant,  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819051801:0018/pct:35.264735264735265,0.9664170089393573,30.952380952380953,93.51292582749457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819051801:0018/pct:35.25886465789912,0.9663002778113299,30.952777315354307,93.50565688287635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1945,7 +1945,7 @@ as 1 can recollect them.
 lam, See. . JOHN ADAMS.  
 AVe learn that the son of Jrumi ft tut a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822091701:0054/pct:32.514817950889075,7.851786501985003,15.643522438611347,84.5905013968534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822091701:0054/pct:32.507936507936506,7.850632167009703,15.645502645502646,84.58174066451043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3193,7 +3193,7 @@ ment bu» to my own country.” The King re­
 Dined as quick as lightning, “an honest man  
 dll never have any other.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1828100601:0329/pct:42.26201028186492,85.48755560899363,18.24144655202978,9.48659372369845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1828100601:0329/pct:42.25451967387451,85.47727819187304,18.244121469927922,9.489460607517833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4100,7 +4100,7 @@ to retire. I retreated, stepping backward&quot;,
 as is the etiquette; and, making my last rever  
 once at the door of the chamber, 1 went t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215658:1839070401:0540/pct:35.28408121480976,3.0277794301350305,30.9930046067224,96.49634168104217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215658:1839070401:0540/pct:35.281071398106285,3.027599333809184,30.993204242372546,96.49258466174955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4714,7 +4714,7 @@ now held is* so extremely proper, and the fee­
 lings you have discovered so justly adopted  
 to tl c occasion, that f 1104 only n ccivo with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840060601:0605/pct:75.74171029668412,41.132206529289185,18.277010947168016,56.7376707571197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840060601:0605/pct:75.74171029668412,41.13606544724859,18.292876408059655,56.7376707571197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4779,7 +4779,7 @@ tire. 1 retreated, stepping backwards, us is the
 etiquette; and making my last reverence, at  
 the dour of the chamber. I went to my carriage, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840060601:0606/pct:5.441199936173608,7.9640718562874255,18.541566937928835,34.61077844311377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840060601:0606/pct:5.446518802191373,7.972055888223553,18.546885803946598,34.61077844311377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5065,7 +5065,7 @@ the separation having become inevitable, he
 would be the first to meet the friendship of the  
 United States as an independent power.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843042201:0570/pct:21.85185185185185,201.54767119287487,57.7037037037037,50.81033727551468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843042201:0570/pct:5.463974810150027,50.38691779821872,14.42859788849787,12.70258431887867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7024,7 +7024,7 @@ the preference, that moment I shall say, let the
 circumstances of language, religion and blood have  
 their natural and full effect.&quot; After this answer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853080401:0273/pct:152.58795669824087,48.26290010251737,47.42895805142084,76.03371682423966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853080401:0273/pct:50.86265223274695,16.08763336750579,15.809652683806947,25.344572274746554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7055,7 +7055,7 @@ mission.&quot;
 On the 10th June, Mr. Adams was presented to  
 Queen Charlotte by the Lord Chamberlain, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853080401:0273/pct:152.63870094722597,129.02380681170976,47.412043301759134,28.021414739719784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853080401:0273/pct:50.87956698240866,43.007935603903256,15.804014433919711,9.340471579906595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7089,7 +7089,7 @@ minds were not to be found in the broad surface of
 both hemispheres. The meeting fitly terminated  
 here. Seldom has it happened, with the empt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856092401:0590/pct:202.64388199258423,138.38901175648934,47.18684507496373,19.345827028285417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856092401:0590/pct:67.54796066419475,46.12967058549645,15.728948358321242,6.448609009428472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7450,7 +7450,7 @@ confess I was not less so.&quot;
 A CURIOUs LEGNd. There is a tra­  
 dition in connection with the site o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn86091413:00212470673:1860072601:0034/pct:207.0616883116883,65.94700686947988,189.0422077922078,228.17888686387215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn86091413:00212470673:1860072601:0034/pct:51.786439301664636,16.48675171736997,47.279740154283395,57.04472171596804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8397,7 +8397,7 @@ and blood have their natural and full eifect.&quot;
 George had evilently heard something of the  
 distrust of France which was so prominent 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1878010501:0625/pct:172.46130294267732,93.55719031798766,37.84657254635142,78.14428096820123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1878010501:0625/pct:57.48710098089244,31.185730105995887,12.61552418211714,26.048093656067078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8430,7 +8430,7 @@ I have always said, as 1 say now. that 1
 would be the first to meet the friendship of  
 the United Staten as an independent power. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:0039334992A:1878030201:0206/pct:16.606267320400768,68.59756097560975,10.957151993178426,8.357245337159254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:0039334992A:1878030201:0206/pct:16.616926028565338,68.60652797704448,10.957151993178426,8.370695839311335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8512,7 +8512,7 @@ recorded them, impressively adds;
 &quot;The king was Indeed much affected:  
 and I confess I was not less so.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1878050201:0351/pct:77.53120665742026,64.08616187989556,15.273925104022192,19.12532637075718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1878050201:0351/pct:58.168574401664934,48.067885117493475,11.463753035032951,14.347258485639687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8715,7 +8715,7 @@ door, another abont half way and the
 the usage established at this and all the  
 Northern Courts of Europe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:00202198053:1885050701:0856/pct:15.728360309641097,107.8590457737951,24.032371569317384,8.839912811818841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:00202198053:1885050701:0856/pct:10.491110719943672,71.9060305158634,16.03590917092061,5.8973116977476385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8740,7 +8740,7 @@ at this and all northern courts of Eu­
 ropCamns then spoke, and with dignity;  
 as did the king, whom the ministerpr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777079:1885052201:0699/pct:29.447852760736197,114.36472576432632,58.36985100788782,23.229374711937318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777079:1885052201:0699/pct:7.3668055251041435,28.59118144108158,14.602060951545713,5.8073436779843295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8764,7 +8764,7 @@ fore the presence, according to the usage
 established at this and all the Northern  
 Courts of Europe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624591:1885052301:0047/pct:99.32067315115022,41.855743969429184,12.582985950285627,6.173871507045617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624591:1885052301:0047/pct:76.97431397574984,32.44485577664661,9.759891512444161,4.778651858707389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8804,7 +8804,7 @@ guished honor to be the first to stand
 in Your Majesty&#x27;s royal presence in a  
 diplomatic character.&#x27;&#x27; The KingAva
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537954:1885091601:0269/pct:63.47911227154047,77.78903523584374,14.164490861618798,3.29843521332883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537954:1885091601:0269/pct:63.489991296779806,77.79278772186574,14.15905134899913,3.3059401853728096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8826,7 +8826,7 @@ I would be the first to meet the friend­
 ship of the United States as an inde­  
 pendent power.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537954:1885091601:0269/pct:63.47911227154047,81.40267927501971,14.180809399477807,4.660587639311044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537954:1885091601:0269/pct:63.47911227154047,81.40643176104169,14.197127937336814,4.660587639311044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9127,7 +9127,7 @@ blood.&quot; And let us remember, too, the answer from
 the old monarch, who, with all his faults, must have  
 had something of a noble and royal nature stirrin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039090:1897052701:0486/pct:248.86491708259538,97.52991546821825,47.7539848655611,14.491162586452958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039090:1897052701:0486/pct:82.95497236086513,32.509971822739416,15.917994955187034,4.830387528817653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9144,7 +9144,7 @@ in his bosom, when he replied: &quot;Let the circum-­
 stances of language, religion and blood have their  
 natural and full effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039090:1897052701:0486/pct:249.0259217517308,111.73564606433197,47.609080663339235,4.314414315512131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039090:1897052701:0486/pct:83.00864058391026,37.24521535477733,15.869693554446412,1.4381381051707103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9177,7 +9177,7 @@ and full effect.”
 
 ---
 
-## [From _The Living Age (1897-1941)_](https://archive.org/details/sim_living-age_1897-06-12_213_2762/page/n19/mode/1up?view=theater)
+## [From _The Living age_](https://archive.org/details/sim_living-age_1897-06-12_213_2762/page/n19/mode/1up?view=theater)
 
 #### 1897-06-12 &middot; [Boston](http://dbpedia.org/resource/Boston)
 
@@ -9380,7 +9380,7 @@ cairiage.”
 Cicadas or locusts.  
 “The Periodical Cicada in Wes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:0039334927A:1898052101:0292/pct:2.3813573737030107,3.2570529119748155,24.23881612519136,93.75227025063568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:0039334927A:1898052101:0292/pct:2.380952380952381,3.2566585956416465,24.23894557823129,93.74394673123487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9400,7 +9400,7 @@ P pie w have !1 same language, a sim­
 ilar religion and kindred blood.&quot;  
 It has b?? r: the happy result of this wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655223:1898092201:0156/pct:2.0810107766629504,82.08068527217463,13.489409141583055,2.611218568665377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655223:1898092201:0156/pct:2.085655890003716,82.08068527217463,13.507989594946118,2.614672561481072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9421,7 +9421,7 @@ guage, a similar religion, and kindred
 blood.”  
 It has been the happy result of this wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340287:1898092201:0343/pct:27.269565217391303,40.60737527114968,11.130434782608695,2.6174981923355025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340287:1898092201:0343/pct:27.264823508954965,40.6015037593985,11.13284646148496,2.6207345286292654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9443,7 +9443,7 @@ humor between people who have the same
 language, a similar religion and kindred  
 blood.’ It has been the happy result of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740530:1898092301:0207/pct:57.48276328241179,19.208299758259468,12.478031634446397,2.7800161160354553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740530:1898092301:0207/pct:57.48276328241179,19.208299758259468,12.478031634446397,2.7934461455815205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9463,7 +9463,7 @@ in better words, the good humor, between
 people whohave the same language, a  
 similar religion and kindred blood
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:0028076064A:1898092301:0596/pct:46.01126927639383,94.29611650485437,18.104982206405694,4.2144748455428065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:0028076064A:1898092301:0596/pct:30.688223079204985,62.86407766990291,12.073568673983981,2.8133274492497793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9485,7 +9485,7 @@ if I can be instrumental in restoring an entire
 esteem, confidence and affection, or, in better  
 words, the old good humor between peopl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898092301:0496/pct:71.0,212.11280628756356,51.15384615384615,12.081984897518877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898092301:0496/pct:17.756829549826858,53.02820157189089,12.793382070026933,3.0204962243797193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9505,7 +9505,7 @@ twoen people who have the name language.
 a similar religion and kindred  
 Wood.**
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193705:1898092301:0603/pct:34.57627118644068,42.4811338118903,17.966101694915253,2.834529725750046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193705:1898092301:0603/pct:34.57627118644068,42.48573532118535,17.989214175654855,2.8437327443401434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9548,7 +9548,7 @@ same language, a similar religion, and
 kindred blood.’  
 “It has been the happy result of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898092501:0253/pct:56.12927191679049,74.17509898812142,12.685735512630014,4.032849391406365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898092501:0253/pct:56.12927191679049,74.17998729041403,12.698117880138682,4.0426259959915924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9569,7 +9569,7 @@ language, a similar religion, and kindred
 blood.&quot; It has been the happy result ot  
 this war to havo brought back, toreve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:0021110028A:1898092601:0631/pct:59.32422451994091,86.68659149572069,16.02658788774003,3.722320336910746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:0021110028A:1898092601:0631/pct:44.51422238640561,65.01833989947018,12.024381233838197,2.7985328080423857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9591,7 +9591,7 @@ ligion and kindred blood.&quot;
 It has been the happy result of  
 this war to have brought back, for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:0051368535A:1898092901:0733/pct:65.1685393258427,4.652605459057072,14.584269662921349,4.032258064516129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:0051368535A:1898092901:0733/pct:65.15389800044933,4.651884013025275,14.58660975061784,4.035509381299426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

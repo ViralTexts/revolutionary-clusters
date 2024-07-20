@@ -69,7 +69,7 @@ and 1815, with an Atlas illustialive of
 the different Action*.  
 Morier’s Journey through Pcsia. A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816080801:0448/pct:26.033621081326668,62.284990041644036,17.976677267908528,3.2953105196451205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816080801:0448/pct:26.029678982434888,62.27935186023355,17.979002624671917,3.298029630970701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ isiana in IS11—15,’’and the reason given lor re­
 questing its publication at this lime is, tiiat “ it is  
 considered to he perfectly in point when Jackso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828091201:0152/pct:36.490658001624695,38.82182520521487,15.142160844841593,2.4384355383872527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828091201:0152/pct:36.484730344379464,38.8171394085697,15.145115876110028,2.4421645544156108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,9 +120,9 @@ considered to he perfectly in point when Jackso
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1843-01_12_55/page/n59/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1843-01_12_55/page/n59/mode/1up?view=theater)
 
-#### 1843-01-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1843-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

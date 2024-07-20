@@ -313,7 +313,7 @@ he moves, and every one may be tenet
 lively called upon to exert them for the  
 common benefit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065337:00295878204:1843100701:0460/pct:110.5650522317189,27.43722822275214,19.871794871794872,11.852994809931266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065337:00295878204:1843100701:0460/pct:82.9888334521264,20.577921167064105,14.920408648134948,8.893252910646655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -171,7 +171,7 @@ string to the pot, and began to eat again. This
 was done till the treacle was gone; one swarm  
 running down the string, the other up it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829050501:0072/pct:10.74541629095281,8.895612708018154,33.198076345055604,85.17397881996975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829050501:0072/pct:10.74541629095281,8.895612708018154,33.20308586313997,85.18070263909901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ pot, and began to eat again. This was
 done till the treacle was gone; one swarm  
 running down the string, the other up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829051201:0230/pct:33.37653920933247,8.620928620928622,51.52300712896954,111.57311157311158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829051201:0230/pct:25.86639879457559,6.681227398045043,39.9408449132206,86.47284184897418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ consequence was that every year afterwards they
 caught herrings In that river, and this Is still tho  
 case.” &#x27;lhtH Item, preserved for over a hundre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877033101:0012/pct:17.012448132780083,34.515800203873596,12.83713692946058,7.951070336391437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877033101:0012/pct:17.03189834024896,34.53109072375128,12.83713692946058,7.945973496432212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

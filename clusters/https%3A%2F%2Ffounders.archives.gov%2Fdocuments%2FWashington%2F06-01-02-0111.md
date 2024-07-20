@@ -52,7 +52,7 @@ happens, it must be under iny own vine and
 fig-tree, us 1 do not tbiuk it probable that 1  
 shall go twenty miles from them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859052601:1139/pct:7.124326481740171,24.047442550037065,13.230892037517462,12.942920681986656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859052601:1139/pct:7.130978513936007,24.047442550037065,13.237544069713298,12.95774647887324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ happens, it must be under my own vine and
 fig-tree, as I do not think it probable that I  
 shall be beyond twenty miles from them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1859062401:0950/pct:11.814895155459146,45.39162533164148,78.94432393347795,248.18318145114776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1859062401:0950/pct:3.938298385153049,15.130541777213827,26.314774644492648,82.72772715038259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ j if ever this happens, it must be under my
 probable that I shall agaiu go beyond  
 twenty miles from them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1862040501:0259/pct:70.88372093023256,35.65715809117569,12.855813953488372,5.825113303119168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1862040501:0259/pct:70.87053571428571,35.65240570438491,12.858072916666666,5.827668932427029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ in agric itural and rural pursuits, will constitute employ-
 ment for the fow years I have to remain on this terret  
 globe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743518:1865061801:0660/pct:59.40886699507389,177.359781121751,50.18062397372742,6.46374829001368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743518:1865061801:0660/pct:19.80295566502463,59.119927040583676,16.72687465790914,2.1545827633378933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ the few years I have to remain on this
 terrestrial globe.&quot;  
 &quot;1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:00340582433:1899021601:0454/pct:57.20190121926018,24.996149699676575,12.068609216780327,4.620360388110273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:00340582433:1899021601:0454/pct:57.1900826446281,24.99230058515553,12.071280991735538,4.623498614105328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ terrestrial globe.&quot;
 sun,&quot; he writes to his former Secretary  
 of War, James Mellenry; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elephanttree_ver01:data:sn94051692:00211106153:1899031101:0496/pct:49.711891042430594,37.86193672099712,18.019905709795704,8.561840843720038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elephanttree_ver01:data:sn94051692:00211106153:1899031101:0496/pct:33.15865321629766,25.244487056567593,12.013625049128782,5.704697986577181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

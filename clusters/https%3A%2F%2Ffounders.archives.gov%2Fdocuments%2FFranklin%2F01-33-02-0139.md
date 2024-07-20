@@ -70,7 +70,7 @@ Van Buren, for whom
 never can true reconcilement grow  
 Where wounds of deadly hate have pierced so deep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843010501:0020/pct:177.40488933892667,183.82489549465862,38.724142919137854,7.083139804923363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843010501:0020/pct:59.126410182238935,61.26785092302334,12.906180696172019,2.3607724757150046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,7 +86,7 @@ Where wounds of deadly hate have pierced so deep
  Never can true reconcilement grow,  
 Where wounds of deadly hate have pierced so deep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855021201:0363/pct:154.91430570129415,209.03548347762467,44.4036376355369,3.036215095720034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855021201:0363/pct:51.63810190043139,69.67849449254156,14.801212545178966,1.0120716985733447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ Where wounds of deadly hate have pierced so deep.”
 Where wounds of deadly hate have pierced so  
 deep.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861062201:0660/pct:281.0403832991102,220.59783318104687,50.58179329226557,5.482313013966845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861062201:0660/pct:70.26009582477755,55.14945829526172,12.645448323066393,1.3705782534917113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ Never can true reconcilement grow
 Where wounds of deadly hate have pierced so  
 deep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1862022701:0379/pct:56.678297278436844,44.96637242538882,12.212142358688068,1.7759562841530054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1862022701:0379/pct:56.67038794306447,44.96164757801828,12.213926876918784,1.7783965535357782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ Where wounds of deadly hate have pierced so deep
 Never can true reconcilement grow  
 Where wounds of deadly hate have pierced so deep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1863071601:0065/pct:266.83501683501686,149.8133554541684,54.54545454545455,3.041614820959491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1863071601:0065/pct:66.75089492524742,37.4533388635421,13.644977890082123,0.7604037052398728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ Milton. Sir— V our correspondent &#x27;Alpha&#x27;
 Where wounds of deadly hate have pierced so  
 deep.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774716:1865032201:0085/pct:120.33045977011494,247.2087219230264,47.77298850574713,4.3609615132011035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774716:1865032201:0085/pct:30.093424362199066,61.8021804807566,11.947538627380524,1.0902403783002759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ deadly hate havepierced so deep but a
 Where wounds of deadly hate have pierced so  
 deep.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663625:1896022901:0199/pct:2.456827487982909,17.183969556427638,14.402706070856329,1.1416339636104174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663625:1896022901:0199/pct:2.4686962198089133,17.19189757006382,14.408640436769332,1.1416339636104174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

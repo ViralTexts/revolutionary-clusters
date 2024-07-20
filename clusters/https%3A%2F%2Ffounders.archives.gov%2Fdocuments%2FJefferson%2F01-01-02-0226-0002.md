@@ -160,7 +160,7 @@ Henrico on the fourth Thursday in May
 nent by the county tcourt) of Henrico in  
 such manner as the said county court ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867020201:0125/pct:207.27054429028814,222.17895308820866,40.76840981856991,20.757109219344322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867020201:0125/pct:69.09018143009605,74.05965102940289,13.589469939523301,6.919036406448107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ taxes shall be collected from the persons
 or property within said limits by the an­  
 thorities of the city of Richmond for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867021401:0165/pct:88.86820055858492,203.33995306011914,41.228886820055855,43.825600288860805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867021401:0165/pct:29.622733519528307,67.77998435337305,13.742962273351953,14.608533429620268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

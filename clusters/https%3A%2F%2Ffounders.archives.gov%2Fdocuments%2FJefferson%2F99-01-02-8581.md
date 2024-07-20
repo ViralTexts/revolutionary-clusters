@@ -54,7 +54,7 @@ pear to require : Provided, auch aus­
 peosion shall not extend beyond twenty  
 days after the next: meeting of congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808042901:0955/pct:24.98597868760516,53.20084417868449,20.863712843522155,17.358424199788956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808042901:0955/pct:24.97897392767031,53.191489361702125,20.864872441827867,17.359767891682786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ expe@ them. But while these ediéts
 scribe the contfe to bﬁu_ggled;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808091301:0146/pct:43.21600248100481,81.07185869128864,16.452163126066058,11.93295865114412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808091301:0146/pct:43.22117124101928,81.07854944466747,16.457331886080528,11.93295865114412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ ally to expect them. But wbhile these €difls ve­
 main the legislature ALONE can preferibe the course  
 to be purfued”’ Can any man of sense an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808091301:0147/pct:24.587869362363918,51.93705806194602,16.329704510108865,9.042924011552634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808091301:0147/pct:24.587869362363918,51.94369750688843,16.334888543286677,9.036284566610231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ j alone can prescribe the course to be C
 I pursued. r  
 TH: JEFFERSON. |
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808091401:0003/pct:41.54769294434099,25.56604994177772,19.84274777570867,27.907879415189544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808091401:0003/pct:41.54769294434099,25.570362703238885,19.84274777570867,27.916504938111874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

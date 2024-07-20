@@ -3310,7 +3310,7 @@ of the evil that I whought to do unte
 individuals and as a community, iny,  
 ted and cficotraged to fitthite olrsel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022355:00200290136:1845032701:0051/pct:322.0713073005093,64.52008586323214,59.507640067911716,20.177859552284577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022355:00200290136:1845032701:0051/pct:80.55201698513801,16.130021465808035,14.883227176220807,5.044464888071144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3330,7 +3330,7 @@ pull down and destroy it if that nation against whom
 I have pronounced, urn from their evil. I will repent  
 of the evil that I thought to do unto them.&quot; By suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1845032801:0046/pct:25.18628912071535,113.24512732963437,48.211624441132635,9.105135865699246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1845032801:0046/pct:6.298919120387626,28.311281832408593,12.057398434588148,2.2762839664248116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3351,7 +3351,7 @@ from their evil, I will repent of the evil that I
 thought to do unto them.&quot; By such motives are  
 we, as individuals and as a community, invited an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845032801:0051/pct:206.640625,81.7351598173516,56.953125,13.356164383561644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845032801:0051/pct:51.680343884329815,20.4337899543379,14.243845252051583,3.339041095890411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3392,7 +3392,7 @@ and to pull down and destroy it, if that nation against
 whom I have pronounced, turn from their evil, I will  
 repent of the evs that I thought to do unto them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1845033101:0474/pct:30.603060306030603,194.029379244985,71.01710171017102,12.63623440214816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1845033101:0474/pct:7.655933348344967,48.50734481124625,17.766268858365233,3.15905860053704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3530,7 +3530,7 @@ that God hath raised him from the dead, thou
 shalt be saved. For with the heart man be­  
 lieveth unto righteousness,” or justification.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1846120401:0020/pct:65.51600786979074,56.44943212547323,14.272938651404042,6.936181719848567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1846120401:0020/pct:65.50429184549357,56.44180073002568,14.274856938483548,6.93862376639178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3658,7 +3658,7 @@ fess with thy mouth, the Lird Joshs and shalt be­
 lieve in thy heart that God raised him from the  
 dead, tnou shalt be saved.&quot; “ For ye a*e not un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847051401:0112/pct:20.71005917159763,87.44123572867696,14.326698942083558,5.789120214909335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847051401:0112/pct:20.70634636070276,87.42949234488316,14.328612405880245,5.791700241740532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3684,7 +3684,7 @@ repent of the good wherewith I said I would be­
 nefit them.&quot; Thus the Lord said concerning the  
 Jewish nation, to build it up, and to plant it, Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847060401:0124/pct:34.60096411355115,19.773401672511465,14.372433494018924,6.44726193687618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847060401:0124/pct:34.59478757586576,19.770734996628455,14.374330596215637,6.449763991908294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3725,7 +3725,7 @@ perish: yea, those nations shall be utterly wast­
 ed.&quot; To this all history bears witness. Where  
 are those ancient kingdoms that warred agains
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1848010701:0573/pct:21.659324522760645,155.05057909397448,47.797356828193834,14.601964521331183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1848010701:0573/pct:5.414831130690161,38.76264477349362,11.949339207048459,3.650491130332796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4633,7 +4633,7 @@ I said I would benefit them.”
 So far as human ken is privileged to pene­  
 trate the future, “the beginning of the end 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1857120301:0248/pct:30.937787312289306,78.97330124899736,12.519154152620288,7.688781941102326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1857120301:0248/pct:30.93304734181094,78.96425297891842,12.521066339819212,7.69076535288726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5123,7 +5123,7 @@ of the good wheremmit the destiny of our natia
 inc. Tlny hands of God, and confide to his wisdom  
 and mercy, the time, the manner, and the measure o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861061601:0571/pct:304.5045045045045,312.9866019622323,44.81981981981982,34.81379892393712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861061601:0571/pct:76.13684358721667,78.24665049055808,11.20653245107701,8.70344973098428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5151,7 +5151,7 @@ plant it; if it do evil in my sight, that it
 obey not my voice, then I will repent of the  
 good wherewith I said I would benefit them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1861101601:0171/pct:36.64795509222133,237.51771039954662,57.57818765036087,30.830263530745253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1861101601:0171/pct:9.163825947463405,59.379427599886654,14.397433326649288,7.707565882686313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5205,7 +5205,7 @@ plant it; if it do evil in my sight, that it o
 bey not my voice, then I will repent of the  
 good where with I said I would benefit them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1862010801:0217/pct:103.29411764705883,103.3324446814183,66.50980392156863,41.748866968808315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1862010801:0217/pct:25.82859384192979,25.833111170354574,16.63071190429496,10.437216742202079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5290,7 +5290,7 @@ to plant it; if it do evil in my sight, that it
 obey not my voice, then I will repent of the  
  good where with I said I would benefit them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191228:1862091601:0380/pct:74.53658536585365,120.16173497518838,49.65853658536585,20.21687189854806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191228:1862091601:0380/pct:18.640966207148956,30.040433743797095,12.419177747956569,5.054217974637015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5452,7 +5452,7 @@ kingdom, to build and to plant it ; if it do evil in my
 sight, that it obey my voice, then 1 will repent of the  
 good wherewith 1 said I would benefit them 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1863090301:0142/pct:25.151975683890576,112.4191836340828,19.934143870314085,6.976744186046512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1863090301:0142/pct:18.875095008867493,84.31921258322879,14.948061819103117,5.230145710701534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5877,7 +5877,7 @@ benetit them.&quot; Jkbkmuh 18, 7-10.
 Man is not left to grope his way in the  
 darkness of this life assisted only by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026633:1865061601:0429/pct:25.545702592087313,43.225806451612904,16.16643929058663,5.913978494623656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026633:1865061601:0429/pct:19.171072829609415,32.41935483870968,12.126897492751151,4.435483870967742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6089,7 +6089,7 @@ thing we could do.
 see the right .and I approve it too,  
 Condemn the wrong, and yet the wrong pursue.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348434:1867100301:0204/pct:21.12416820048138,66.86291000841042,13.492850063712304,1.703111858704794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348434:1867100301:0204/pct:21.12117780294451,66.85588142541785,13.495658739146847,1.706436805774554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6171,7 +6171,7 @@ and to plant it. It ,t do evil in my sight, tha
 it obey not my voice, the,, I Wil! repent of the  
 rood wherewith! said Ijwould benefit them 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn83045232:00415662257:1868011101:0190/pct:95.509977827051,76.28775398132893,16.948447893569845,5.579352004393191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn83045232:00415662257:1868011101:0190/pct:71.65234266703632,57.22130697419001,12.725256445799834,4.184514003294893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6521,7 +6521,7 @@ LESSONS TAUOHT BF MRS. FAIR&#x27;s THIAL.
 Condemn the wrong, and yet the wrong pursue.&quot;  
 The San Francisco correspondent of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_lasvegas_ver01:data:sn84022043:00279555065:1871042201:0671/pct:5.884834423117486,141.6309625821194,67.64395697110314,10.468437589260212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_lasvegas_ver01:data:sn84022043:00279555065:1871042201:0671/pct:1.4712086057793714,35.40774064552985,16.910989242775784,2.617109397315053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6831,7 +6831,7 @@ Mr. Brooke follows this change in all its
 varions phases through coleridze and words  
 worth in several lectures, which are so attractiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743890:1875011801:0212/pct:52.32808616404308,195.3357134630888,55.376967688483845,39.871012322929865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743890:1875011801:0212/pct:17.44269538801436,65.11190448769626,18.458989229494616,13.290337440976622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7010,7 +7010,7 @@ them.&quot; And when He repents, who then
 shall turn him back?  
 Only by the repentance of the threatene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876010801:0022/pct:337.5366568914956,263.5931421985305,42.81524926686217,17.57671805215387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876010801:0022/pct:84.43058866678892,65.89828554963262,10.709701081973225,4.394179513038467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7145,7 +7145,7 @@ from the dead, thou shalt be saved.&#x27;
 These Scriptures clearly reveal converting  
 power to be in the Gospel, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00271767523:1878010701:0024/pct:14.511911679256247,79.17575002595245,13.509587449157467,6.3323990449496526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00271767523:1878010701:0024/pct:14.516753825295371,79.1826706806464,13.51442959519659,6.335859372296619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7173,7 +7173,7 @@ be saved.
 The Scriptures clearly reveal that  
 the converting power is in tho Gospel, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193432:1878010701:0029/pct:24.63579604578564,22.178919397697076,12.096774193548388,6.554472984942427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193432:1878010701:0029/pct:24.63579604578564,22.187776793622675,12.10327783558793,6.558901682905226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7259,7 +7259,7 @@ to us ? How near is that which is in our
 moath and in our heart ? So near is Jesus.  
 So near is His great salvation. We ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184431:1879040201:0043/pct:4.945188794153472,39.45922746781116,12.618757612667478,10.163090128755364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184431:1879040201:0043/pct:4.94458653026428,39.455840700369066,12.621280396216457,10.165078820129889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7305,7 +7305,7 @@ found in the past. But what saith it?
 &quot;The word is nigh thee, even in thy mouth,  
 and in thy heart.&quot;--Christian Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1879043001:0533/pct:156.8217054263566,256.49832629893757,42.945736434108525,14.321059525542134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1879043001:0533/pct:39.21302578018996,64.12458157473439,10.738515216127157,3.5802648813855336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7360,7 +7360,7 @@ the Lord Jesus, and believe in thine
 heart that God hath raised Him from  
 the dead, thou shalt he saved.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556266:1879112001:0771/pct:65.85832801531589,107.60274770054721,14.661774090619017,8.918383979508674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556266:1879112001:0771/pct:49.417398244213885,80.70788217487484,11.013567438148444,6.682966585167074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7554,7 +7554,7 @@ to plant it.
 voice, then I will repent of the good, wherewith I  
 said I would benefit them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779611:1881073101:0106/pct:350.3987240829346,93.32067109844887,36.25730994152047,13.168724279835391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779611:1881073101:0106/pct:87.63462305544475,23.330167774612217,9.067943092673847,3.292181069958848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7578,7 +7578,7 @@ Jesus, and shalt believe in thy heart that
 God hath raised Him feom the dead, thou  
 shalt be saved.” He also preached in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1882112901:0098/pct:79.83193277310924,77.82246199117215,13.865546218487395,4.845512506130456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1882112901:0098/pct:79.84126984126983,77.82246199117215,13.874883286647993,4.848782082720287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7628,7 +7628,7 @@ Long since. With many au arrow deep in­
 fixed,My panting side was charged when I with­  
 drewTo seek a tranquil death In distant shades.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197504:1884022201:0659/pct:7.398697539797395,47.682291666666664,15.918958031837915,3.2682291666666665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197504:1884022201:0659/pct:5.5565610859728505,35.768229166666664,11.945701357466064,2.4479166666666665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7647,7 +7647,7 @@ My pareingg side was charged when I with
 drew  
 To seek a tranquil death in distant shades.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1884022201:0060/pct:77.90594498669033,66.45131518227964,57.142857142857146,10.76757421935087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1884022201:0060/pct:19.48945615982242,16.61282879556991,14.295227524972253,2.6918935548377174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7668,7 +7668,7 @@ drew
 To seek a tranquil death in distant shades.”  
 The llamas of South America hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769350:1884022801:0794/pct:50.282714054927304,25.63383208645054,10.662358642972537,2.3898586866167912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769350:1884022801:0794/pct:50.28720157960869,25.640759213078415,10.666846167653922,2.3898586866167912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7696,7 +7696,7 @@ lution in other animals, without question.
 The dying whale is at once set upon by  
 the shark tribe. The aged bum o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1884030101:0158/pct:35.01493174061434,37.46507493014986,9.748293515358363,5.655744644822623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1884030101:0158/pct:35.01848691695108,37.46789715801654,9.7589590443686,5.652922416955945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7716,7 +7716,7 @@ My pan ing side was charged when I with­
 To seck a tranqull death in distant shades.  
 The llamas of South America hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:0021110112A:1884030601:0446/pct:88.20224719101124,213.3118625872249,54.97592295345105,11.647879763821793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:0021110112A:1884030601:0446/pct:22.06384260188717,53.32796564680623,13.752258582613933,2.9119699409554483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7742,7 +7742,7 @@ tion in other animals, without question
 The dying whale is at once set upon by the  
 shark tribe. The aged buffalo of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:02202296588:1884030601:0084/pct:128.39903459372485,44.66102909559983,50.0402252614642,18.804643829726242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:02202296588:1884030601:0084/pct:32.11267605633803,11.165257273899957,12.515090543259557,4.7011609574315605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7762,7 +7762,7 @@ To seek a tranquil death in distant shades.&quot;&#x27;
 The llamas of South America have regular  
 cemeteries in weieh they retire t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287265:1884031201:0320/pct:22.8232023252875,27.69483041339432,13.130291924680904,3.2104945197203762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287265:1884031201:0320/pct:22.8232023252875,27.70058398780242,13.130291924680904,3.2076177325163258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7805,7 +7805,7 @@ drew
 To seek a tranquil death in distant shades.”  
 The llamas of South America hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769477:1884031301:0504/pct:65.38563127311146,18.321982595535378,13.853671421024828,2.9133560348089294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769477:1884031301:0504/pct:65.39003345659447,18.321982595535378,13.84926923754182,2.9196620002522384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7843,7 +7843,7 @@ fixed,My panting side was charged when I with­
 drewTo seek a tranquil death In distant shades.&quot;  
 The llamas or South America have regu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032575:00237281901:1884032701:0059/pct:91.8778801843318,50.38830516217451,11.463133640552995,3.620374600274098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032575:00237281901:1884032701:0059/pct:68.93819334389858,37.791228871630885,8.615473274744273,2.7181361352215623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7995,7 +7995,7 @@ To seck a dranqull death in distant shades.
 There was I found by One who had Himself  
 Been hurt by th&#x27; archers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101994:1884090601:0274/pct:284.3996494303243,101.76479775105419,48.64154250657318,46.29080118694362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101994:1884090601:0274/pct:71.14667836000876,25.441199437763547,12.168384126288094,11.572700296735905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8022,7 +8022,7 @@ evil in my sight, that it obey not my
 then I will repent of the good wherewith  
 I said I would benefit them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030864:1884112801:0525/pct:117.22650231124807,263.39168490153173,34.77657935285054,16.181619256017505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030864:1884112801:0525/pct:39.07550077041603,87.79722830051058,11.592193117616846,5.393873085339169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8108,7 +8108,7 @@ me live. —Cowpkh.
 Two Fortunes.  
 ALICE CABY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn86092472:00514157807:1886031701:0435/pct:5.669291338582677,2.395001735508504,35.69553805774278,90.26379729260674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn86092472:00514157807:1886031701:0435/pct:5.667803726056153,2.3945861530452888,35.69273156651798,90.25247267048412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8338,7 +8338,7 @@ In one of the northern counties on
 Wedm szlay last the deputies into  
 one of the towns and having made s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206535830:1887041701:0249/pct:7.686567164179104,31.90919525570718,27.611940298507463,10.381328912128556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206535830:1887041701:0249/pct:5.13347022587269,21.27279683713812,18.424491319768528,6.925137099859712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8498,7 +8498,7 @@ The kingdoms of this world?the ; . ^
 United States&#x27;no exception?&quot;become  
 the kingdoms of our Lord and of ht
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1888070401:0405/pct:84.05865657521286,24.569522169608266,16.256701356039105,9.362892811020233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1888070401:0405/pct:84.05865657521286,24.576696800114796,16.256701356039105,9.362892811020233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8767,7 +8767,7 @@ against whom I have pronounced, torn from
 t lie i e, i&gt;. | wih r-;»nt oi tile evil I t hoiiuht  
 to do untotli,m.&quot; I&#x27;ldnk you : he groat Jeho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176606:1890032201:0537/pct:41.13589330880662,43.778665483059626,17.130374798804322,5.281846426986241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176606:1890032201:0537/pct:41.14164175672568,43.789761799082704,17.141871694642447,5.2781476549785475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8801,7 +8801,7 @@ confessed:
 see the right, and I approve It. too,  
 Condemn the wrong and yet the wrong pursue.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877832:1890071201:0947/pct:117.5925925925926,63.13453536754508,46.96969696969697,37.28155339805825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877832:1890071201:0947/pct:29.41671930932828,15.78363384188627,11.749842072015161,9.320388349514563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8870,7 +8870,7 @@ Condemn the wrong and yet the wrong pursue.
 ‘•I see the right. and I approve It, too,  
 Condemn the wrong and yet the wrong pursue.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn86092009:00514157273:1890090401:0303/pct:26.74897119341564,22.47080343323484,11.298166853722408,0.74574363303785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn86092009:00514157273:1890090401:0303/pct:26.743968580512437,22.46764209341587,11.300729380961286,0.7491558806978053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9222,7 +9222,7 @@ said: &#x27;Inasmuch as you have dOne it unto
 one of the least of these little ones you  
 have done it unto me.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_garberville_ver01:data:sn94052989:0017504033A:1894032901:0496/pct:57.257072570725704,62.70070463208964,13.022755227552276,1.2359939933002195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_garberville_ver01:data:sn94052989:0017504033A:1894032901:0496/pct:57.26219762197622,62.7045550806669,13.027880278802789,1.2398444418774788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9416,7 +9416,7 @@ It sets the prisoner free.
 His blood can make the foulest clean;  
 His &#x27;blood availed for me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031558:1897050901:0655/pct:71.40002854288569,71.75771088814567,13.386613386613387,1.7094017094017093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031558:1897050901:0655/pct:71.40002854288569,71.76596886741814,13.391370534227677,1.7094017094017093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9474,7 +9474,7 @@ availed for me&quot;. And you will neve
 when the earth shall be covered with  
 righteousness as the waters covers the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534746:1897100901:1010/pct:76.66498486377397,34.86997635933806,35.267406659939454,2.7186761229314422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534746:1897100901:1010/pct:25.56789500252398,11.623325453112686,11.761736496718829,0.9062253743104807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9680,7 +9680,7 @@ I aee the right, and I approve it, too,
 Condemn the wrong, and yet the wrong  
 pursue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529698:1899092101:0719/pct:65.61946902654867,28.436678521725685,12.212389380530974,1.1597340343281275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529698:1899092101:0719/pct:65.60495465604954,28.432282003710576,12.215217872152179,1.1634199134199135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

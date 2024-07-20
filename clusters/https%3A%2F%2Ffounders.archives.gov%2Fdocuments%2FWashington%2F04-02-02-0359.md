@@ -393,7 +393,7 @@ Territory. .
 The Ordinance for ascertaining the mode of disposing of  
 lands in the Western Territory, adopted by the Continental Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:0028077487A:1888022301:0734/pct:13.62862010221465,19.033064740205614,29.89778534923339,3.1397610447346485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:0028077487A:1888022301:0734/pct:10.223642172523961,14.281744929146985,22.42811501597444,2.3478744095582105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

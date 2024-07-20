@@ -232,7 +232,7 @@ speak their own sentiments, it would be imprudent
 CVCn if wcre reduced to  
 certainty. Maryland has ratified by a very lanr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852022801:0106/pct:2.086521073862846,77.47104038107611,15.913200723327305,8.736602793114647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852022801:0106/pct:2.091157787360319,77.47825773158674,15.908564009829833,8.736602793114647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ With great esteem and regard, I nave the honor
 to be, sir, your most obedient humble servant,  
 GO. WASH INGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1852030501:0270/pct:27.73830669034932,96.4027149321267,20.204262877442275,12.330316742081449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1852030501:0270/pct:20.820376129127794,72.3076923076923,15.163630978824227,9.2420814479638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ none appears to me,) policy, I think,
   
 X&amp;STwenty shares of Wilmington must recommend the one that is sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023085:1852032001:0264/pct:29.829389102916895,84.6843373493976,58.94331315354981,5.36867469879518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023085:1852032001:0264/pct:22.381280110117,63.51807228915663,44.22573984858913,4.028915662650602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ members are in favor of the Constitu
   
 tion; but as they are soon to speak their : other state; select from it fifty men wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023085:1852032001:0264/pct:69.52394056136488,91.04578313253012,39.391854705558615,6.20722891566265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023085:1852032001:0264/pct:52.16792842395045,68.28915662650603,29.56641431520991,4.655421686746988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ With great esteem and regard, I have the honor to
 be, sir. Your most obed&#x27;t h&#x27;ble serv&#x27;t,  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475221:1859030501:0445/pct:211.81930693069307,181.79245283018867,38.242574257425744,39.62264150943396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475221:1859030501:0445/pct:70.60643564356435,60.59748427672956,12.747524752475247,13.20754716981132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

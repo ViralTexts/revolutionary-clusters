@@ -53,7 +53,7 @@ or to carry on the bank or whale filhery for one yeas, and it (ball
 be the duty of the collector to grant the fame; but no license shall  
 he granted for any vessel until
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789093001:0004/pct:18.887303851640514,40.69879055480899,24.935805991440798,3.1867920906124017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789093001:0004/pct:18.901569186875893,40.69879055480899,24.935805991440798,3.1963908619696677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -73,7 +73,7 @@ diftrié&amp;ts in the United States, or to car­
 ry on the bank or whale fithery for one  
 year, and it shall be the duty of the col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789102901:0481/pct:51.63697640828117,69.03413687105646,20.991815117958595,4.9506552337809415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789102901:0481/pct:51.63697640828117,69.04492261230654,20.999839512116836,4.945262363155908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ different diftrits of the United States,
 or to carry on the bank or whale fifhery  
 for one year, fifty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789110501:0485/pct:24.369142033165105,24.47518307567128,20.9324681566931,18.25874694873881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789110501:0485/pct:24.377152927982056,24.47518307567128,20.924457261876153,18.269595877407106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ district in one state to a district in any other
 than an adjoining state : And ‘1th, that the  
 trade between the districts not included i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819021601:0700/pct:26.578900551503292,35.8669574700109,17.470201031844866,5.517993456924755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819021601:0700/pct:26.574172892209177,35.86304655980809,17.473022649116565,5.521026423872351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ joining state.
 j Lest it may be supposed, that these ex­  
 ! emptions from the performance of certai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819050301:0172/pct:24.91141034727144,66.23531970421922,18.107725017717932,5.121792083514571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819050301:0172/pct:24.90699734278122,66.22811786452104,18.11042220253912,5.124859555652206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

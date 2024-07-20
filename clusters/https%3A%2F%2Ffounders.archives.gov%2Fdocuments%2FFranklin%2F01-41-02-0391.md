@@ -2017,7 +2017,7 @@ ox workee, make ebery ting workee, only de heg. He
 de hog, no workee 5 he eat, he drink, he walk about, he  
 go tofleep when he pleas ; he libb like a gentleman.’s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784112501:0594/pct:66.12047440699126,19.35707907530509,28.4019975031211,5.446968945331879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784112501:0594/pct:66.13087806908031,19.360386281707843,28.407199334165625,5.45027615173463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5338,7 +5338,7 @@ more and wmk lus. Asii&#x27;xcrctczrs: the go.
 vemmeuts in Amcrica (50 nu&#x27;sihxug 10 en.  
 com&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1806112101:0200/pct:54.3537210003013,2.5401305344858,44.742392286833386,92.50308696419121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1806112101:0200/pct:54.34553396595873,2.5399065173295705,44.740673796254455,92.49786871270247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5409,7 +5409,7 @@ tli«* inannlucitiie, it may he carried on t,y j
 ptivatp peraon* In advantage, and it 1101, it n |  
 &lt;i fcil&#x27;y to tlimk of forcing iMturr—Great 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820111401:0225/pct:64.57340128226204,58.73359817021789,14.89396679270097,8.9803779944625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820111401:0225/pct:64.56278763971072,58.72652864708714,14.89699758930528,8.98330926015086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6456,7 +6456,7 @@ jects &quot;
 Hut enough of this to remove doubts in the most in­  
 credulous. Having shown that the present Tariff wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844030101:0302/pct:32.25377107364685,52.424213445538875,15.897663413191363,30.15205125753084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844030101:0302/pct:32.26363008971705,52.43058876032004,15.90752242926156,30.15205125753084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6588,7 +6588,7 @@ receive, makes them neither happier nor rich­
 er, SINCE THEY ONLY DRINK MORE AND  
 WORK LESS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844032301:0490/pct:41.9820157362308,19.366383881230117,19.183214687148745,6.05779427359491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844032301:0490/pct:41.9820157362308,19.375220926122303,19.19570375921069,6.05779427359491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6609,7 +6609,7 @@ ON LY DRINE MOrE AND WOrK LeSS.&quot;
 This outrageous insult to the workmen of our coun  
 try, shows the feeling of Loco Focoism and its con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1844040101:0263/pct:228.9922480620155,72.52807450013695,71.31782945736434,16.214735688852368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1844040101:0263/pct:57.25915875169606,18.132018625034238,17.832913355301415,4.053683922213092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6696,7 +6696,7 @@ of argument before the Senate? We contend
 that he not only used them both, but that the  
 first is his own language, and that he fully an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844040301:0526/pct:42.92836041358937,45.58299220916414,18.75923190546529,10.788326951010168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844040301:0526/pct:42.94066962087641,45.58739381134733,18.75923190546529,10.788326951010168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6714,7 +6714,7 @@ great prices, while the higher
 makes them neither happier nor richer, since they  
 only drink more and work les
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1844040401:0709/pct:171.2211784799317,263.88677522447114,67.54910333048676,7.304824227667022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1844040401:0709/pct:42.805294619982924,65.97169380611778,16.88727583262169,1.8262060569167555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6736,7 +6736,7 @@ WORK LESS ?&quot;
 We know not what the cause is of the disap­  
 pearance of this speech ; but two things we d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844040501:0534/pct:41.18938700823422,34.781453434303174,18.2067703568161,5.526770293609672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844040501:0534/pct:41.18938700823422,34.79031043797883,18.21286977737115,5.5311987954475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6756,7 +6756,7 @@ pearance of this speech ; but two things we d
   
 ONlY DrinK MOhe And work Less.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1844040501:0698/pct:275.41576283441793,38.40749414519906,48.951554591467826,8.13817330210773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1844040501:0698/pct:68.87884267631102,9.601873536299765,12.242314647377938,2.0345433255269323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6804,7 +6804,7 @@ ment be given, it must be by the Government of some
 separate State. This, however, hasrarely been done  
 in America.”” And after speaking of tte manner o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844040901:0058/pct:52.071439027960764,45.40318438623523,14.873371395110526,2.157164869029276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844040901:0058/pct:52.07631874298541,45.40660845745592,14.873371395110526,2.1537407978085943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6861,7 +6861,7 @@ necessarily charged by the merchaat. And the
 case is the same with the workmeninevery oth­  
 er mechanic art,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844040901:0058/pct:52.05679988288684,48.782742681047765,14.888010540184453,20.482794042116076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844040901:0058/pct:52.05679988288684,48.78959082348913,14.888010540184453,20.479369970895394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6892,7 +6892,7 @@ er wages they receive, Makes theM ner­
 ther happier Nor richer, since tey  
 only Drink More and WOr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023649:00280777778:1844041001:0664/pct:76.2360446570973,284.9097030915213,50.95693779904306,15.549433731251913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023649:00280777778:1844041001:0664/pct:19.0666134822497,71.22742577288032,12.744315915436777,3.887358432812978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6924,7 +6924,7 @@ of his flesh-pots. He fears the party which has
 permitted him to transfer three or four hundred  
 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844041101:0554/pct:43.41517857142857,71.85224414140077,18.694196428571427,13.027935919502184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844041101:0554/pct:43.41517857142857,71.86107065625139,18.70659722222222,13.027935919502184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6955,7 +6955,7 @@ This is the estimate of this free-trade demagogue
 this patent democrat--this dear lover of the peo­  
 ple--of the Mechanics of the country. They onl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1844041201:0938/pct:137.87761425251742,134.94455501848165,56.467854376452365,32.12965595678135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1844041201:0938/pct:34.48275862068966,33.73613875462041,14.122433165439752,8.032413989195337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7017,7 +7017,7 @@ less.&quot;
 This outrageous insult to the workmen of  
 our country, shows the feeling of Loco Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023649:00280777778:1844041701:0668/pct:185.7484076433121,89.99692212988612,51.43312101910828,18.036318867343798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023649:00280777778:1844041701:0668/pct:46.446346804698386,22.49923053247153,12.860840135377265,4.5090797168359495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7034,7 +7034,7 @@ seen, says that high duties on the importation en­
 ables the manufacturer to tax the home consumer  
 by greater prices. He could draw lightning fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82016488:00513688040:1844042001:0232/pct:63.99221453287197,35.68652849740933,16.998269896193772,1.797279792746114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82016488:00513688040:1844042001:0232/pct:63.99221453287197,35.697322970639036,17.02710495963091,1.7864853195164077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7056,7 +7056,7 @@ ges they receive, MAkes theM NeItHer Har­
 Pier Nor richea, sinoe they onlY Drink  
 MORE AND WORK LESS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295875045:1844042701:0066/pct:171.2372448979592,171.500900090009,37.73915816326531,10.902340234023402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295875045:1844042701:0066/pct:57.079081632653065,57.16696669666967,12.579719387755102,3.634113411341134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7075,7 +7075,7 @@ since you only Drink MOre and WOrk
 LESS.&quot; The American Mechanic, then,  
 drinks just in proportion to the wages he re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295875045:1844042701:0066/pct:171.18941326530611,186.85868586858686,37.786989795918366,6.885688568856886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295875045:1844042701:0066/pct:57.06313775510204,62.28622862286229,12.595663265306122,2.295229522952295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7099,7 +7099,7 @@ wages they receive, makes them xeith­
 ER UAI&#x27;PIF.R xok richer, since TlIFY ox­  
 ly DRINK MORE axd WORK LESS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1844042701:0285/pct:11.04983660130719,24.640418422199623,52.716503267973856,16.707830887694318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1844042701:0285/pct:8.295872496935022,18.480313816649716,39.55864323661626,12.538137440069738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7255,7 +7255,7 @@ Therefore the Governments in America do
 nothing to encourage such projects.&quot;  
 This language, the language of D
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023295:00200296096:1844052301:0840/pct:22.075782537067546,235.981435981436,57.90774299835255,60.33306033306033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023295:00200296096:1844052301:0840/pct:5.522357304759942,58.995358995359,14.48588501957552,15.083265083265083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7312,7 +7312,7 @@ nothing to encourage such projects.”
 The above is clipped from the Portsmouth Journal  
 ofSaturday, which contains no farther explanation. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844101501:0167/pct:3.183218424526918,5.614945511157239,15.153293237494498,3.943954333160353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844101501:0167/pct:3.1881081609701236,5.621864729285591,15.158182973937706,3.940494724096177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7350,7 +7350,7 @@ given, it must be by the Government of some separate
 i State. This, however, has rarely been done in Amner­  
 | ica.”” And after speaking of the manuner of manufic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844102201:0170/pct:66.10615587074133,73.18389373183894,14.665886825559292,2.6774595267745953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844102201:0170/pct:66.11102987766243,73.18389373183894,14.670760832480383,2.6809187768091878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7408,7 +7408,7 @@ he can add to his price a sum nearly equal to
 merchaut, And the case is the same with the  
 } workmen in every other mechanic art.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844102201:0170/pct:66.10615587074133,4.867164798671648,30.51615733294341,89.5288501452885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844102201:0170/pct:66.11102987766243,4.87062404870624,30.511283326022323,89.53922789539227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7427,7 +7427,7 @@ DRINK MORE AND WORK LESS!”
 JOSEPH BARBER.  
 The Register says that Mr. Barber, the forme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1844103101:0932/pct:77.74621212121212,61.55507559395248,17.376893939393938,3.532860228324591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1844103101:0932/pct:77.72781065088758,61.54558074965294,17.37869822485207,3.536171525528305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7448,7 +7448,7 @@ eat, he drink, he walk about, he era to
 sleep where he please, he liff like a gen  
 tleman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1849053101:0032/pct:30.41267942583732,94.60142430507696,19.497607655502392,5.410062026188835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1849053101:0032/pct:22.827225130890053,70.95106822880771,14.629768137621541,4.066161268090972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7477,7 +7477,7 @@ ting workee, only de hog ; he, de hog, rto workee ; he eat
 he drink, he walk about, ho go to sleep when he please, he  
 liff like a gentleman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print0021111003A:1852080101:0004/pct:76.52322113336174,55.0,9.671921602045163,1.3440860215053763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print0021111003A:1852080101:0004/pct:76.52677176537424,55.00268817204301,9.679022866070161,1.346774193548387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7519,7 +7519,7 @@ quotation should be pondered by every pa- dise
 ie citizen in Edgetield. It describes, as ficr&lt;  
 rly as words can describe any thing, the de. &#x27;pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288270:1854051101:0196/pct:44.66019417475728,66.62746251102617,13.550021105951878,8.615113201999412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288270:1854051101:0196/pct:44.66488438628582,66.63399653696625,13.554711317480418,8.615113201999412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7588,7 +7588,7 @@ were sitting down to table. “Thank you,”said
 the boy, as he turned over in bed to adjust him­  
 self for a new nap, “thank you, but I never ea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026213:print00211110090:1862022301:0007/pct:80.92569155668053,60.05085653104925,12.113541854999095,4.764453961456103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026213:print00211110090:1862022301:0007/pct:80.93473151328874,60.05085653104925,12.127101789911409,4.7711456102783725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7629,7 +7629,7 @@ a gentleman.”
 A woman has suggested that  
 when men break their hearts, it is all the same as when 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110119:1863081601:0007/pct:82.80102790014685,65.14461703267274,12.132892804698972,2.4638457418318156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110119:1863081601:0007/pct:82.81479441997062,65.14461703267274,12.142070484581497,2.4671933583288697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7683,7 +7683,7 @@ eat, he drink, he walk bout, he go to
 sleep when he please, he liff like a gentle-­  
 man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:00279554188:1863102301:0047/pct:82.61969637991436,307.55705200149646,59.80926430517711,14.864696346177828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:00279554188:1863102301:0047/pct:20.65492409497859,76.88926300037411,14.952316076294277,3.716174086544457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7732,7 +7732,7 @@ sleep when he pleass, he liflf like a gen­
 tleman.”  
 A Smart Clock.—There is an Irish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:00271769118:1864012801:0076/pct:6.865719303847996,85.6599552572707,13.954973654798021,4.429530201342282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:00271769118:1864012801:0076/pct:6.865719303847996,85.66368381804624,13.954973654798021,4.436987322893363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7752,7 +7752,7 @@ to have some profession, calling, trade or
 farm, whereby he can honestly subsist, there  
 can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556677:1866012001:0226/pct:23.007518796992482,52.82106394411607,13.082706766917294,2.874798495432563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556677:1866012001:0226/pct:23.021616541353385,52.82106394411607,13.078007518796992,2.8882321332616874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7781,7 +7781,7 @@ compensation ; and when-ver an office, through ,
 -1 aide as to o c ision m my to applv for it. the prof­  
 i its ought to lie lessened by the Lcgisl ititrc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025202:00279557396:1866040701:0463/pct:65.77012730858884,18.131797824696097,14.075667921821768,6.615483045425464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025202:00279557396:1866040701:0463/pct:65.77909270216962,18.13499680102367,14.084633315402547,6.621880998080615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7803,7 +7803,7 @@ ippiy for it, the profits ought to be lessened
 by the Lrgitkture. &quot; Let u recur to first  
 pr.nciple?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866082901:0145/pct:111.61492374727669,34.53229398663697,14.7739651416122,5.757238307349666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866082901:0145/pct:83.72599754868583,25.902004454342986,11.08538744382405,4.320712694877505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7957,7 +7957,7 @@ itable as to occasion many to apply for it the
 profits ought to ho lessoned by tho Legislature.”  
 Hero is a rule for Mr. Ruudoll and a lesson fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873122401:0005/pct:3.558967201674808,24.064951651158548,12.863456617818096,5.966064586754242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873122401:0005/pct:3.570597813444987,24.06951286261631,12.863456617818096,5.970625798212005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8005,7 +8005,7 @@ as to oocasion many to apply for it, the
   
 profits ougbt to be lessened by theLegislature.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn84022048:00415627397:1874010601:1630/pct:13.256227758007118,74.39731461702777,16.281138790035588,9.414098260604211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn84022048:00415627397:1874010601:1630/pct:9.946595460614152,55.797985962770824,12.238540275923453,7.06438815990235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8044,7 +8044,7 @@ by the Legislature. Benjamin Franklin.
 These words should be painted in large  
 letters over the door of every City Coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295873620:1874010801:0692/pct:44.0537084398977,107.25732600732601,16.847826086956523,10.989010989010989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295873620:1874010801:0692/pct:33.04556354916067,80.44871794871794,12.645883293365308,8.241758241758241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8121,7 +8121,7 @@ The Cincinnati Gazette says: Black­
 guard journalism, in which one editor  
 vents his vicious feelings against an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1874011501:0146/pct:163.4669678147939,228.61504907306434,35.79898362507058,46.0196292257361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1874011501:0146/pct:40.86674195369847,57.153762268266085,8.949745906267646,11.504907306434024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8155,7 +8155,7 @@ becomes so profitable as to occasion
 many to apply for it, the profits ought  
 to be lessened by the Legislature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn92073987:00296023152:1874011601:0013/pct:55.986119144013884,69.69594973634018,14.415847310584153,12.98103893189723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn92073987:00296023152:1874011601:0013/pct:42.00781136988283,52.27196230225513,10.820193837697092,9.7385840906541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8188,7 +8188,7 @@ so jirofitable as to occasion many to
 aoDlv for it. the profits oiiht to Ik  
 lessened by the Legislature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293496:1874011701:0060/pct:74.23122412773508,80.1480997495372,10.644589000591367,8.37416966133072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293496:1874011701:0060/pct:74.23122412773508,80.15682857765192,10.644589000591367,8.37508168155086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8219,7 +8219,7 @@ so profitable as to occasion many to
 apply for it, the profits ought to be  
 lessoned by the Legislature,’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1874012201:0014/pct:6.397216274089936,74.90411526899554,10.840471092077088,8.406758577796206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1874012201:0014/pct:6.406138472519629,74.91102588023911,10.836009992862241,8.406758577796206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8255,7 +8255,7 @@ islature.&quot;jl ran dm a, why don&#x27;t you keep a ser,-
 Well, you see,  
 now, aud can&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1874012301:0020/pct:21.818663838812302,112.81099956350938,14.779957582184517,13.225665648188563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1874012301:0020/pct:16.3727959697733,84.61370580532518,11.083123425692696,9.919249236141424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8288,7 +8288,7 @@ so profitable as to occasion many to
 apply for it, the profits ought to be  
 lessened by the Legislature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:00202197243:1874012301:0009/pct:235.2299298519096,78.86353852776583,48.168355416991425,36.274931841010186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:00202197243:1874012301:0009/pct:58.84187950867616,19.715884631941456,12.049132384480405,9.068732960252547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8320,7 +8320,7 @@ lussened by the Legislature.&quot;
 Cures all Klads of Catarrh.  
 80 suooeasful hM Dr. Plaree&#x27;s Oolden Medl 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:0020219249A:1874012601:0530/pct:57.06354102405922,19.109892427757856,13.78778531770512,9.765872178865218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:0020219249A:1874012601:0530/pct:57.06354102405922,19.125711875131827,13.810919185687847,9.765872178865218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8370,7 +8370,7 @@ profits oncLt to le l?M;ue4 by the lt-g-
   
 laiaiure. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1874012901:0227/pct:85.73770491803279,115.08889401985685,13.019125683060109,13.934426229508198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1874012901:0227/pct:64.32964329643296,86.31955668436851,9.77176438431051,10.459478180558762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8401,7 +8401,7 @@ to occasion many to apply for it, the
 profits ought to be lessened by the  
 Legislature.” - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:00414215543:1874013001:0112/pct:19.82472447218165,49.93685028660254,12.37551453990174,9.249004177596424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:00414215543:1874013001:0112/pct:19.82472447218165,49.93685028660254,12.37551453990174,9.25871951811911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8433,7 +8433,7 @@ lessened by the Legislature.&quot;
   
 The Salary Hill
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028721:1874020501:0632/pct:43.47712418300654,5.487179487179487,17.41176470588235,91.27179487179487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028721:1874020501:0632/pct:43.47712418300654,5.490598290598291,17.416122004357298,91.27521367521368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8465,7 +8465,7 @@ to oocaion many to apply for it, the
 profits ought to be lessened by the legis-  
 iture.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1874021801:0073/pct:36.67920656634747,114.83785572468564,14.312585499316006,10.191925876902713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776671:1874021801:0073/pct:27.527801539777588,86.12839179351423,10.744225834046194,7.650562541363335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8498,7 +8498,7 @@ profitable as to occasion many to apply
 for it, the profits ought to be .lessened  
 by the Legislature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293496:1874032201:0281/pct:22.27592267135325,65.86115992970123,14.220855301698887,11.928822495606326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293496:1874032201:0281/pct:16.71794871794872,49.39586994727592,10.666666666666666,8.952108963093146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8536,7 +8536,7 @@ occasion many to apply for it, th ; profit ought to be
 lessened.  
 Here the rights of tin? citizen, the func
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197607:1874062401:0309/pct:83.58877964141122,62.9674841859949,14.90746096009254,5.28243258239929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197607:1874062401:0309/pct:62.70426608821403,47.23116191321718,11.178597252349963,3.9618244367994673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8557,7 +8557,7 @@ Legislature.&quot;
 The centennial year commences bad  
 for mothers-in-law. At St. John, N. B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477709:1876021101:0312/pct:63.97199236155315,90.32336790726052,18.045830681094845,4.453935326418548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477709:1876021101:0312/pct:47.98663059048226,67.74862721171446,13.54448511857393,3.343502135448444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8605,7 +8605,7 @@ fees, or otherwise, becomes so profitable as to
 occasion many to apply for it, the profits  
 ought to be lessened by the Legislature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876030901:0095/pct:10.689261854326219,36.91796008869179,13.328988104937265,2.266568120226657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876030901:0095/pct:10.700124925316388,36.91796008869179,13.318125033947096,2.266568120226657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8651,7 +8651,7 @@ workee; he eat, he drink, he walk
 &#x27;bout, he go to sleep when he please,  
 he lifl like a gentleman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1877032101:1565/pct:237.76150627615064,191.91034845035895,67.36401673640168,16.949746104009805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1877032101:1565/pct:59.44037656903766,47.97758711258974,16.84100418410042,4.237436526002451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8680,7 +8680,7 @@ man, to preserve his independence, if with
   
 out sufficient estate, ought to have some pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1877042701:0067/pct:22.02876608629826,101.81108943995542,38.75851627554883,19.726943438283644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1877042701:0067/pct:5.50927678909504,25.452772359988856,9.6932979931844,4.931735859570911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8713,7 +8713,7 @@ he go to sleep when he piease, he libb like
 a gentleman.  
 Franklin says: &quot;The game of chess i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022473:00280777936:1877051501:0459/pct:126.03071948261925,77.45113129136524,47.53435731608731,41.680775742650454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022473:00280777936:1877051501:0459/pct:31.5267947421638,19.36278282284131,11.890798786653185,10.420193935662613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8749,7 +8749,7 @@ please, he liff like a gentleman.&quot;
   
 The crow can fly atthe rate of twenty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028897:1877070501:0216/pct:21.446620341124447,114.65975208702251,14.07138344914719,12.661269921578548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028897:1877070501:0216/pct:16.097946287519747,85.99797622059195,10.552922590837282,9.499114596508981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8814,7 +8814,7 @@ plan and policy of the Government of
 this state was arranged with a view  
 that the office should seek the man, no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1878080201:0331/pct:79.43298969072166,130.38740920096853,34.896907216494846,40.31476997578692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1878080201:0331/pct:26.491318549080283,43.46246973365617,11.63830152999828,13.438256658595641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8857,7 +8857,7 @@ his independence (if without a sufficient es­
 tate), ought to have some profession, calling,  
 trade or farm, whereby he may honestly sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1881022501:0250/pct:105.51415797317436,120.3937335366699,38.375558867362145,11.091085539997227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1881022501:0250/pct:26.383454443823364,30.098433384167475,9.595677287125023,2.7727713849993068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9050,7 +9050,7 @@ ufacture it may be carried on by privato
 persons to advantage, and if not, it is  
 folly to think of forcing nature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296026839:1887102701:0189/pct:65.43786220218931,16.705999254750964,13.828074694140373,6.968078499565271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296026839:1887102701:0189/pct:49.10613625382509,12.532604645385666,10.372040586245772,5.229164078996398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9319,7 +9319,7 @@ ufacture it may be carried on by private
 jMTions to advantage, an I if not, it is  
 folly to think of forcing nature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn85038119:00237282668:1887110301:0340/pct:36.86440677966102,42.53621409280628,12.790332705586943,5.192732629511417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn85038119:00237282668:1887110301:0340/pct:27.65656882749961,31.9052295605205,9.590331188196515,3.903756444880923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9343,7 +9343,7 @@ ufacture it may be carried on by private
 persons to advantage, and il not, it is  
 folly 10 think of forcing, nature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029142:1887110301:0613/pct:62.101185050136735,75.04014012552912,18.322698268003645,6.378630856809225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029142:1887110301:0613/pct:46.61345496009122,56.28375419646767,13.751425313568985,4.787622244927748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9572,7 +9572,7 @@ becoming tree men in the possessors or ex­
 pectants, faction, contention, corruption  
 and disorder among the people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00175033580:1891082001:0492/pct:26.987951807228917,17.680839315295415,10.602409638554217,5.974599668691331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00175033580:1891082001:0492/pct:26.987951807228917,17.688201730167496,10.602409638554217,5.981962083563409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9605,7 +9605,7 @@ liecoiiiiu freemen iu tbo possessors- or ex­
 pectants, faction, contention, corruption  
 and disorder among tho people. Hut it nn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777109:1891082101:0369/pct:170.04573170731706,263.0641509433962,49.61890243902439,37.25283018867925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777109:1891082101:0369/pct:42.519534972365165,65.76603773584905,12.407089765580332,9.313207547169812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9626,7 +9626,7 @@ We have lived to sou the prohibition of
 slavery iu tho earliest constitution of Ver­  
 mont become n part of the fundamental la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777109:1891082101:0369/pct:170.1219512195122,306.1735849056604,49.69512195121951,13.766037735849057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777109:1891082101:0369/pct:42.53859348198971,76.5433962264151,12.426148275204879,3.4415094339622643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9649,7 +9649,7 @@ esmee and servility unbecoming freemen ia the
 possessors or expertants, faction, contetoi.  
 eorruption and disorder among the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654814:1891082201:0471/pct:1.2347711557458019,24.58070575607138,12.216002634178466,4.722930363611968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654814:1891082201:0471/pct:1.2347711557458019,24.58070575607138,12.23246624958841,4.7363477794176845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9670,7 +9670,7 @@ Sere was civil service reform in a high place,
 in the organic law of a state not yet in the  
 CUion, of a small eaumuanity of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654814:1891082201:0471/pct:1.1359894632861376,30.631960284449214,12.298320711228186,3.662954514960419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654814:1891082201:0471/pct:1.1401053671386236,30.642023346303503,12.306552518933158,3.6663088689118477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9739,7 +9739,7 @@ or expectants, faction, contention,
 corruption and disorder among the  
 people, iiut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_interceptor_ver01:data:sn98062890:0041562475A:1891082701:0215/pct:65.19136198417789,39.37366980845242,14.004703870002139,12.07053815749468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_interceptor_ver01:data:sn98062890:0041562475A:1891082701:0215/pct:65.20205259781912,39.381270903010034,14.01539448364336,12.085740346609912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9794,7 +9794,7 @@ or expectants, faction, contention,
 corruption and disorder among the  
 people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076144:00199918023:1891082801:1005/pct:39.02877697841727,29.71842765542236,10.737410071942445,5.840535266239197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076144:00199918023:1891082801:1005/pct:39.04226618705036,29.72191246166713,10.741906474820144,5.854474491218288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9831,7 +9831,7 @@ or expectants, faction, contention,
 corruption and disorder Among the  
 people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063544:00332899806:1891082801:0566/pct:36.65773011617516,63.42148373508074,16.47899910634495,14.228879007722911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063544:00332899806:1891082801:0566/pct:36.666666666666664,63.42148373508074,16.487935656836463,14.237655043295108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9997,7 +9997,7 @@ through increase of fees or otherwise,
 becomes so profitable as to occasion  
 many to apply for it tho profits ought
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fennal_ver01:data:sn96086441:00415628869:1896040301:0366/pct:60.20140105078809,36.92079940784604,17.86339754816112,12.849740932642487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fennal_ver01:data:sn96086441:00415628869:1896040301:0366/pct:45.181778361804646,27.6980014803849,13.403416557161629,9.637305699481866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10022,7 +10022,7 @@ Hie man in the fable, if in wrestling
 with a Hercules, tiie corporate wealth  
 of our country, we now and then re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1896121601:0134/pct:17.480401595378904,39.111111111111114,11.649016641452345,5.029810298102981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1896121601:0134/pct:17.480401595378904,39.111111111111114,11.649016641452345,5.033423667570009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10079,7 +10079,7 @@ occasion many to apply for it, the
 profits ought to be lessened by the leg­  
 islature.&quot; Another provided for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn85054468:211102160:1898111301:0324/pct:12.372748629600627,109.25898315193082,15.563821456538763,3.20560608319666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn85054468:211102160:1898111301:0324/pct:9.285014691478942,81.94423736394812,11.694417238001959,2.415386909199344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10118,7 +10118,7 @@ which are dependence and servility, unbe
 eean  
 contention, corruption and disorder among the peo-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175037019:1899053001:0585/pct:4.560313828048382,187.85026027245542,48.26740764955868,5.792446561080961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175037019:1899053001:0585/pct:1.5201046093494606,62.61675342415181,16.089135883186227,1.9308155203603206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10173,7 +10173,7 @@ ought to have some profession, call­
 ing, trade or farm, whereby he may  
 honestly subsist there can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hydrogen_ver01:data:sn85000631:00199918242:1899071501:0451/pct:95.82043343653251,85.68763326226012,16.679566563467493,6.063432835820896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hydrogen_ver01:data:sn85000631:00199918242:1899071501:0451/pct:76.66150670794633,68.5501066098081,13.343653250773993,4.850746268656716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10190,7 +10190,7 @@ so profitable as to occasion many to
 apply for it, the profits ought to b«  
 lessened by the legislature.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hydrogen_ver01:data:sn85000631:00199918242:1899071501:0451/pct:95.78173374613003,98.34754797441364,16.737616099071207,2.798507462686567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hydrogen_ver01:data:sn85000631:00199918242:1899071501:0451/pct:76.63570691434468,78.67803837953092,13.379772961816306,2.24591329068941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10219,7 +10219,7 @@ have some profession, calling, tiadeor
 farm, whereby he may honestly subsist,  
 there can be no necessity for uor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289328:1899072001:0071/pct:27.980852915578765,75.75289575289575,18.711923411662315,11.814671814671815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289328:1899072001:0071/pct:21.010232963204878,56.818532818532816,14.04310907903331,8.864864864864865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10248,7 +10248,7 @@ ought to have some profession, call­
 ing, trade or farm, whereby ho may  
 honestly subsist, there can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_irving_ver01:data:sn92067221:00514150126:1899072001:1015/pct:40.18760799802518,69.85279685966634,12.66353986669958,8.57703631010795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_irving_ver01:data:sn92067221:00514150126:1899072001:1015/pct:40.20612194519872,69.86751717369971,12.657368550975068,8.581943081452405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10270,7 +10270,7 @@ ought to have some profession, call­
 ing, trade or farm, whereby he may  
 honestly subsist, there can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1899072101:0515/pct:64.23841059602648,201.85150897981856,42.466887417218544,13.164228846509905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1899072101:0515/pct:21.43054404860536,67.28383632660618,14.167357083678542,4.388076282169968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10362,7 +10362,7 @@ ought to have some profession, call­
 ing, trade or farm, whereby he may  
 honestly subsist, there can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_barberry_ver04:data:sn92070446:00280774480:1899082501:0150/pct:75.98425196850394,91.899852724595,15.53328561202577,9.224795822733967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_barberry_ver04:data:sn92070446:00280774480:1899082501:0150/pct:57.007338464292104,68.92488954344624,11.652049400393771,6.9219440353460975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10381,7 +10381,7 @@ so profitable as to occasion many to
 apply for it, the profits ought to be  
 le??ened by the legislature.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_barberry_ver04:data:sn92070446:00280774480:1899082501:0150/pct:75.9663564781675,107.27004953809077,15.461703650680029,3.2534475833444905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_barberry_ver04:data:sn92070446:00280774480:1899082501:0150/pct:56.98943977089672,80.45253715356809,11.598353320207625,2.4501271923952337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10404,7 +10404,7 @@ tate, ought to have some profession,
 calling, trade or farm, whereby he  
 may honestly subsist, there can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291141:1899090101:0459/pct:72.61548163329655,89.14135374312366,10.720479268484944,4.4486964840947145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291141:1899090101:0459/pct:72.61942298596878,89.14135374312366,10.728361973829418,4.463645060990194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

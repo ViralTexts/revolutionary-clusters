@@ -67,7 +67,7 @@ mie cherish the hope, t weew yeu and
 quest remembrance; yecip d by analogi­  
 cal chjects in the w . Wheneve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809081601:0080/pct:72.60952990086345,77.49827365098156,22.161816437480013,12.29160501134458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809081601:0080/pct:72.62018974522972,77.50485021867088,22.161816437480013,12.288316727499918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ regret with which the réemembrance of you can
 ever be associated, is that which I now experi­  
 ence in bidding you farewell !” .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809081601:0081/pct:5.315931879675315,2.1621621621621623,21.359223300970875,7.547911547911548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809081601:0081/pct:5.315931879675315,2.1654381654381654,21.375139264682478,7.554463554463554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ precepts and examples of him, whose whole law
 i . love and who taught us to remember injuries  
 only to forgive them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809091201:0150/pct:5.7001466275659824,61.72563625077591,17.778592375366568,12.799503414028553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809091201:0150/pct:5.699102070734836,61.717974180734856,17.78144279518661,12.802052300562728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ regret with which the remembrance of you c tii
 ever be associated, is that which 1 now experi­  
 ence in bidding you farewell /
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809091201:0150/pct:23.79032258064516,7.796399751707014,17.88856304985337,26.393544382371196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809091201:0150/pct:23.785962983324172,7.7954319761668325,17.89139331745159,26.394405825885467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ precepts and example of Httn whose whole
 law is love, and who taught us to remember in­  
 juries only to forgive them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1828112101:0487/pct:4.25642807505212,2.632214440956291,38.46421125781793,92.63462931659019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1828112101:0487/pct:4.2556887267674135,2.631896655801038,38.463320016212144,92.62746991830657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ as in the precepis and example of Hun whose
 whole law is love, and who taught us to re­  
 member injuries only to forgive them.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1828112601:0684/pct:65.1032847951236,22.514299622733358,14.866237724348121,15.17585493489108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1828112601:0684/pct:65.11457275087481,22.518356253296012,14.854949768596907,15.179911565453734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ Burke: as well as in the precepts and ex
 who taught us to remember injuries only to  
 : forgive them.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828120301:0716/pct:26.51026392961877,57.62108262108262,19.13978494623656,19.943019943019944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828120301:0716/pct:20.545454545454547,44.66401707514536,14.843434343434344,15.45595054095827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ Prcccpm and example of Him whose whole
 aw 18 love, und who taught us to remem­  
 ber injuries only to forgive them.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1828120401:0191/pct:28.488372093023255,31.09273066169618,17.310577644411104,19.221808014911463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1828120401:0191/pct:28.5008752188047,31.096613855234544,17.310577644411104,19.225691208449827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -710,7 +710,7 @@ patriotism ol i.ieero. Ormosiheite*, and Burke ;
 I whole law is love, and who t.u.ght ?-.* jd rf*mem*  
 lb&#x27;- .nieti* &#x27; mleto h»rgi^Mlt.M» 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1828121501:0145/pct:67.72858916011585,82.82740676496097,14.81175010343401,11.997687192830298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1828121501:0145/pct:67.71458117890383,82.81543575661223,14.813857290589452,11.999566411331116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ EANCY.
 &quot;A being more intense.&quot;  
 There is a World, a lovely world, far lovelier than th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190546:1853080301:0051/pct:63.30629586713017,178.73256159097656,56.662804171494784,65.68714752151973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190546:1853080301:0051/pct:15.826573966782542,44.68314039774414,14.165701042873696,16.421786880379933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ and examples of Him whose whole law is love, and
 who taught us to remember injuries only to forgive  
 them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531204:1875021501:0446/pct:56.53790205269112,198.42943941304597,48.14934540164862,29.691619855554283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531204:1875021501:0446/pct:18.84596735089704,66.14314647101533,16.04978180054954,9.897206618518094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1062,7 @@ Him whose law is love, and who taught
 us to remember injuries only to forgive  
 them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_napa_ver01:data:sn82015104:00175036672:1891073101:0088/pct:18.448063500752703,68.67710098694049,12.494867934856986,10.427674209949158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_napa_ver01:data:sn82015104:00175036672:1891073101:0088/pct:18.448063500752703,68.68374705080916,12.499429770539665,10.42435117801482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1161,7 +1161,7 @@ and example of Him Who e law is love
 and Who taught us to remember in­  
 juries only to forgive them.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mead_ver01:data:sn88086003:00220720421:1894050901:0002/pct:62.5,17.45049504950495,17.024818401937047,24.047981721249048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mead_ver01:data:sn88086003:00220720421:1894050901:0002/pct:62.51008878127522,17.45049504950495,17.019774011299436,24.047981721249048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1209,7 +1209,7 @@ t
 juries onl  
 only to forgive the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:206534618:1897030201:0567/pct:110.21419437340154,6.358681546846613,36.0613810741688,48.74124059174669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:206534618:1897030201:0567/pct:73.51671197825044,4.243446664936413,24.05245482168559,32.4941603944978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

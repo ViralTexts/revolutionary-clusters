@@ -290,7 +290,7 @@ Nor hearken to a f?lse report,
 By malice whispered round!  
 Who, to his plighted vows and irusl,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1852091001:0178/pct:2.850079976734041,3.37609723160027,15.980805583830158,10.552715346773416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1852091001:0178/pct:2.854927051524405,3.3825278929937945,15.995346808201251,10.555930677470178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ Whose no rewards can ever bribe
 The guiltless to destroy.  
 It is stated that this psalm was copied by Thomas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855080701:0490/pct:221.2415856394914,68.03433726174887,101.42109199700823,40.21533537028954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855080701:0490/pct:55.331088664422,17.00858431543722,25.364758698092032,10.053833842572384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ Can treat with just neglect;
 And pity, though clothed in rags  
 Religiously respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022401:0180/pct:297.7202711028959,56.763925729442974,37.95440542205792,38.90362511052166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022401:0180/pct:74.43006777572397,14.190981432360743,9.48860135551448,9.725906277630415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ Has ever firmly stood,
 And tho&#x27; he promise to his loss,  
 He makes his promise good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779593:1880110401:0496/pct:169.38144329896906,246.55601659751036,28.45360824742268,15.269709543568466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779593:1880110401:0496/pct:42.361737785226246,61.63900414937759,7.11615315199175,3.8174273858921164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ Whom no rewards can ever bribe
 The guiltless to destroy.” .  
 This psalm was also neatly copied by Thoma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210065:1884072601:0194/pct:5.03156686435814,67.89637867896379,14.118997512913717,8.422623084226231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210065:1884072601:0194/pct:5.03156686435814,67.900899679009,14.125374657228493,8.43618608436186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ Has ever fimly stood;
 And tho he promise to his lose  
 1o makes his promise good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1885080201:0082/pct:164.950634696756,287.22724853645553,34.41466854724965,21.766897285790314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103383:1885080201:0082/pct:41.25220458553792,71.80681213411388,8.606701940035274,5.441724321447579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ Has ever firmly steod;
 And tho&#x27; he promise to his loss  
 He makes his promise good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885080501:1176/pct:78.76811594202898,359.3266358946511,45.072463768115945,23.676350800977463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885080501:1176/pct:19.70273699474352,89.83165897366277,11.274243248142106,5.919087700244366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ Has huppim-ss insured,
 When earth’s foundation shakes shall stand  
 By providence secured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625546:1888110901:0426/pct:6.632181784592647,51.852887708012865,14.28043598743765,17.885610404139282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625546:1888110901:0426/pct:5.139830104037415,40.193634623026625,11.071871719003532,13.857880856905458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

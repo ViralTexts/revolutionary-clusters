@@ -87,7 +87,7 @@ lated that it should be formed into States.
 The old provision in the eleventh article of the  
 confederation was omitted in the new Constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845020701:0023/pct:88.13559322033899,117.7508896797153,56.163328197226505,26.419928825622776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845020701:0023/pct:22.038142939703334,29.437722419928825,14.04353689077249,6.604982206405694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -107,7 +107,7 @@ fttltntionnl rlcht to sanction the acquisition. &quot;
 The constitutionality of the purchase of  
 Louisiana has been repcntadly confirmed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:0020653882A:1892030101:0360/pct:6.134423897581792,4.384162214001918,16.78520625889047,3.9320454856829703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:0020653882A:1892030101:0360/pct:4.60772104607721,3.2881216605014387,12.595623554527664,2.9593094944512948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ authorize the several branches of the Govern
 ment to make war, to make treaties, and to  
 govern the territory of the Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175036957:1899011301:0230/pct:103.02883057985099,224.01312192454893,48.94719792678976,55.01366867140514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175036957:1899011301:0230/pct:34.342943526617,74.67104064151631,16.315732642263253,18.337889557135046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1140,7 +1140,7 @@ ance to such people, and to defend citi­
 zens who have fuffered or are now fuf­  
 fering in the canfe of liberty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793021601:0001/pct:28.287363694676074,69.17670682730923,20.654265554842848,9.056224899598394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793021601:0001/pct:28.295381654906993,69.18172690763052,20.6783194355356,9.061244979919678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

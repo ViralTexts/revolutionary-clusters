@@ -67,7 +67,7 @@ These resolutions lie on the table one
 dav of course.  
 Nlr. Tait, from the naval committee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817011101:0320/pct:37.799120950675565,46.07685654269122,14.585707309132346,8.98307179043618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817011101:0320/pct:37.79296875,46.0711638250556,14.588758680555555,8.986080224034264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ Slr—lnreply to your letier of the 26th inst.
 requesting me to furnish information as to the  
 expediency of requiring the directors of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817012101:0010/pct:38.70133819951338,29.88235294117647,17.579075425790755,15.202046035805626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817012101:0010/pct:38.70133819951338,29.885763000852513,17.59935117599351,15.208866155157715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ Mr. Campbell, from the commiiice an
 finance, reported a bill requiring the Dirce­  
 tors of the Bank of the Uuited States to es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817012201:0422/pct:0.0,47.04927536231884,21.422940480882932,11.779710144927536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817012201:0422/pct:0.0,47.05314009661836,21.442648797792668,11.775845410628019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ money paid by the Government of the United
 States during the last three years for tolegraph  
 service, including cable dispatches, and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053572:00237289018:1872031301:0259/pct:285.7142857142857,154.15422448621115,43.421052631578945,7.307219392236079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053572:00237289018:1872031301:0259/pct:71.42857142857143,38.53855612155279,10.855263157894736,1.8268048480590198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

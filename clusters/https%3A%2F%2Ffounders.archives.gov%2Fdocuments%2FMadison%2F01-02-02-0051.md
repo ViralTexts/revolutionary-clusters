@@ -199,7 +199,7 @@ Being a Collision of all the
 From the First Session of the Legislative^ in  
 the year 1619.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811021201:0062/pct:78.91181303633375,40.54188416604524,17.546101880591564,18.381804623415363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811021201:0062/pct:78.89740781307046,40.53684602957624,17.548983814044053,18.383662648606105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ Territory of Michigan, all occupied by the
 Indians at the time of the Revolution, with  
 the exception of a small portion of Ken
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1833090401:0654/pct:55.693069306930695,31.108397775064443,18.271827182718273,7.475240808574142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1833090401:0654/pct:55.68053993250844,31.104177970699947,18.275215598050245,7.478748417435341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -36,7 +36,7 @@ will give hin to see the Governor; but, at the same
 time, he most earnestly begs that the Governor will  
 tot harard his health on the occasion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859052001:0135/pct:199.21246923707957,13.246845989050225,48.137817883511076,10.949773863365865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859052001:0135/pct:66.40415641235985,4.415615329683408,16.045939294503693,3.649924621121955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ be at home until two o’clock, “he most
 earnestly begs that the Governor will not  
 hazard his health on the occasion.’’ Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349554:1881112501:0191/pct:74.2627345844504,68.51595006934812,10.755401356252957,3.454797629554911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349554:1881112501:0191/pct:74.25102491327657,68.50731215330308,10.75764742983286,3.457513867876954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ that he would be at home until 2 o&#x27;clock,
 &quot;he most earnestly begs that the Gov­  
 ernor will not hazard his health on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:0027952357A:1882060701:0696/pct:27.506150061500616,23.47506810375459,10.808733087330873,8.859410162264599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:0027952357A:1882060701:0696/pct:27.506150061500616,23.47506810375459,10.818983189831899,8.863358206008922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ that he would be at home until 2 o&#x27;clock
 &quot;he most earnestly begs that the Gov-  
 ernor will not hazard his health on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82014681:00294552054:1882093001:0387/pct:202.04657727593508,117.43119266055047,42.83697953422724,44.147901028634976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82014681:00294552054:1882093001:0387/pct:50.52947405577127,29.357798165137616,10.713025061771972,11.036975257158744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ ident need not express the pleasure it will
 be to him to see the Govornor; but at the  
 same time he must earnestly beg he wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887101501:0901/pct:78.46034214618973,215.83333333333334,50.38880248833593,14.944444444444445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887101501:0901/pct:19.622714896927267,53.958333333333336,12.602100350058343,3.736111111111111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ B expres? the pleasure it Will be to him to se&lt;
 the Governor, but at the same time he mus  
 ! earnestly beg he will not hazard his health o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887110201:0111/pct:28.23966558290757,30.449715573682514,13.995974609072611,3.209187506708168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887110201:0111/pct:28.23966558290757,30.456870952738722,14.016617639469475,3.2056098171800653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

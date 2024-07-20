@@ -742,7 +742,7 @@ erate retribution of the wrong to which
 lht-y have betn accessory.  
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183621:1822060801:0082/pct:59.53453453453454,5.058168942842691,34.38438438438438,90.30096105209914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183621:1822060801:0082/pct:59.52336273221993,5.0575293968896196,34.38418715206105,90.29375816580267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1064,7 +1064,7 @@ tribution of the wrong to which they have
 been acceflory.  
 ; TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822061101:0509/pct:39.91348233597693,12.21471250857087,33.482335976928624,81.53589969634636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822061101:0509/pct:39.923095409757266,12.217977601462762,33.47272290314828,81.53916478923826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1194,7 +1194,7 @@ diary is in these words: ¢ 1789, Oct. 31,
 seot to Girand &amp; Co. letter of ciedit on Wil  
 links, Vap Steaphorsts and Hubbard for 280
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822062601:0302/pct:66.06873111782477,25.20258367586612,20.940332326283986,69.07809747504405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822062601:0302/pct:66.07502517623364,25.206498336269327,20.934038267875128,69.07809747504405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1281,7 +1281,7 @@ that of the answer a moderata retnbygtion of
 ha wreng 1o whien they huve been accessary.  
 TH JYIFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822062601:0303/pct:9.16961826052735,3.2968326857411987,22.2353404171586,48.35747085835394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822062601:0303/pct:9.16961826052735,3.3007574865575573,22.255017709563162,48.3613956591703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -637,7 +637,7 @@ The army had, in fact, about this time dwin­
 dled away to three thousand, and the paper­  
 money issued by Congress, with which th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870060201:0194/pct:3.6496350364963503,10.444381545428815,17.011354420113545,13.586187376167564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870060201:0194/pct:3.648895195621326,10.442903636620914,17.01297384958443,13.587802462148012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1709,7 +1709,7 @@ ceive a powerful aid of ships, land troops, and
 money from our generous allies.&quot;  
 A month later the prospects were brighter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894061001:0331/pct:55.15961395694135,174.62326702833033,49.44320712694878,11.693791440626883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894061001:0331/pct:13.79246333766475,43.65581675708258,12.36309634304808,2.923447860156721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1732,7 +1732,7 @@ ships , land troops and money from our
 generous allies. &quot;  
 A month later the prospects were brighter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539161:1894061501:0489/pct:74.11785462244178,114.66411796832332,16.707833450952716,4.96996176952485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539161:1894061501:0489/pct:55.61242499117543,86.00150191152376,12.530885986586657,3.7274713271436375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

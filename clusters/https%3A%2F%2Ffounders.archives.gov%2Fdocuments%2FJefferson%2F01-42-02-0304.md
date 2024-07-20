@@ -397,7 +397,7 @@ duct inspired me with distrust, I habit
 ually cautioned Mr. Madison against  
 trusting him too much. Thns accordin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026142:00296026827:1837120201:0191/pct:28.169014084507044,57.98129635601419,19.300176056338028,4.401805869074492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026142:00296026827:1837120201:0191/pct:21.131410961919435,43.485972267010645,14.48382126348228,3.305385359561432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

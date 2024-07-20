@@ -51,7 +51,7 @@ I may mention to you, in confidence, that considerable pains have been taken to 
 “ der the imprimatur of an oligarchy of  
 “ purse-proud speculators.&quot; And again at 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823100301:0479/pct:52.21828785669652,92.78455284552845,15.288481566340346,2.8745644599303137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823100301:0479/pct:52.20741357767597,92.7710843373494,15.290503956684715,2.877776164900566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ was about the time ho was publicly writing in
 defence of the Democratic party. No man can  
 mistake his motives, none can deubt that in ih
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828100701:0571/pct:42.96594982078853,47.3149030823006,15.830346475507765,3.516576633831162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828100701:0571/pct:42.96594982078853,47.32196448116372,15.830346475507765,3.5201073332627195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ tcrnal seperation between him and the federalists,
 at least that part of them who now constitute the  
 absolute Oligarchy.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828110401:0223/pct:33.06675371307328,27.359632139399807,15.39089276970785,8.50677637947725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828110401:0223/pct:33.061357702349866,27.35632183908046,15.393820713664056,8.509780197620488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ found ; according to him, the federalists were
 the absolute oligarchy of the country. Between  
 his son and them, he did not wish to see a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829021701:0027/pct:4.6881846063969626,57.84920868966873,15.758726449539944,4.7773518136243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829021701:0027/pct:4.693052918553137,57.84920868966873,15.75385813738377,4.783905108293195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ the majority into the hands of those who were
 shapen in toryism, and in British idolatry did  
 their mothers conceive them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834032501:0378/pct:38.078551613374216,46.31702377145294,14.264856183384437,5.649717514124294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834032501:0378/pct:38.078551613374216,46.31702377145294,14.2745899644717,5.656824077035142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ the majority into the hands of those who
 were shapenin toryism, and in British idola­  
 try did their mothets conceive them,”—Jon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834051301:0390/pct:24.08295711060948,42.83902335905295,13.981376975169301,2.2196385160131062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834051301:0390/pct:24.08295711060948,42.84606983053236,13.99548532731377,2.2125920445336997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ for they can fix the the value of every
 acre of land from Flcrida to the Lake  
 of the Woods,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834060401:0090/pct:52.7577505407354,43.389296956977965,15.10454217736121,9.955403987408184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834060401:0090/pct:52.76976688296082,43.39804127317244,15.098534006248498,9.955403987408184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -490,7 +490,7 @@ the hands of those who were shapen in tory­
 ism, and in British idelatry did their mothers  
 couceive them—an Aristoaracy of Bankers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840100301:0039/pct:9.821669818967846,10.597165991902834,13.955687651985949,2.520242914979757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840100301:0039/pct:9.830676393767451,10.600539811066128,13.951184364586148,2.5168690958164643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ party, he said in the same letter: &quot; Banks and other vile
 pranks have thrown the majority into the hands of those  
 who were shapen in toryism and in British idolatry.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854041101:0549/pct:5.765735998678341,42.290017870819504,15.975549314389559,3.880520806739852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854041101:0549/pct:5.771242909851864,42.29427282784444,15.981056225563082,3.88903072078972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ John Adams said: “Banks and other vile freaks have thrown the
 majority into the hands of those who were shapen in Toryism and in  
 British idolatry did their mothers conceive them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:0038334685A:1891103001:0220/pct:36.39275989107801,56.64352406033038,26.541726733942014,1.6519032798659326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:0038334685A:1891103001:0220/pct:36.39809920444231,56.64751416487112,26.541726733942014,1.6558933844066714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ its power and then find if you can
 i the means to ‘ bell the cat,’ it wilt be  
 I beyond your power, it will overaw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522552:1891112701:0895/pct:56.82489659247587,28.52368497529788,16.623990545597795,9.430398140075559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522552:1891112701:0895/pct:44.03907800335826,22.113363363363362,12.888617513865567,7.308558558558558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -531,7 +531,7 @@ Same with my hand. S
 . Done at the city of Philadelphia, the  
 ~Jewenth day of Marck, one thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796032601:0050/pct:43.72506903958269,40.29895070283112,16.01718318502608,9.908928924965354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796032601:0050/pct:43.73018308274522,40.29895070283112,16.022297228188606,9.915528278228734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ delphia, the Tenth day cf June, tic
 one Thousand seven Hundred ans fe;  
 Ninety-seven, and of the Indtpen-. t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061601:0003/pct:60.02942618930849,56.80114814224207,18.710152035311427,11.959815021527668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061601:0003/pct:60.04168710152035,56.80513474724924,18.710152035311427,11.959815021527668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ two, &quot;with the advice. and consent of the _
 America and the Cbacta-w nation (gf  
 siI/xdiam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051201:0068/pct:8.900941138937629,6.666666666666667,23.783697559419366,14.155124653739612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051201:0068/pct:8.89952153110048,6.666051149478349,23.78522062732589,14.156895331302126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ these presents, and/{glad the-same with
 my [Jaw-{. _  
 Dan/e at the Cigy of lVashing-tm, {beforn;-l.!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051201:0068/pct:33.48221406922954,68.36565096952909,21.725953102568194,13.213296398891966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051201:0068/pct:33.47687400318979,68.35933893453975,21.727804359383306,13.215154033176377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -703,7 +703,7 @@ Amctrr&#x27;ca and the C/zickqsafwt.
 of America, by ]ames Wiikinson brigadier  
 genetal in the service ofthe Uniscdbtatcs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051401:0077/pct:47.873690891780385,53.89664417121198,22.67534116153602,18.470925395211243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051401:0077/pct:47.866095510074565,53.89166204474025,22.67703210111587,18.472299254329204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ TH: ]EFFFQSON- .
 Bj the Pnszdmt,  
 _ ]AMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051401:0077/pct:71.18375119009838,68.75288897106407,22.40558552840368,21.660349449939908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802051401:0077/pct:71.17245755989211,68.7465335551858,22.40731926595801,21.661428483391877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ Th; Jlil-VfcKSON.
 By the Prtlideiit,  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803122801:0001/pct:76.69491525423729,77.12488288047116,17.64830508474576,17.842323651452283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803122801:0001/pct:76.70197740112994,77.12934457680811,17.64830508474576,17.855708740463125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ bearing cftice, civil or milkary, within !
 the United States, and all others, citi- \
 I zens or inhabitants thereof, or being 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803123001:0002/pct:23.228503184713375,89.71874579464406,17.535828025477706,6.593998116000538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803123001:0002/pct:23.228503184713375,89.72771722065222,17.555732484076433,6.593998116000538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ lie, and 1 dcﬁumby enjoin and reguire all
 petfons bearing office, .civil or military,  
 within the Übpited
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804011701:0424/pct:58.54075917859365,4.097298375037384,33.80522713130056,92.39357990230286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804011701:0424/pct:58.55113047085667,4.097298375037384,33.81041277743207,92.39357990230286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -875,7 +875,7 @@ th. Jefferson.
 Uy the President,  
 j am i s M adison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804021801:0017/pct:41.10876654517552,80.46678159395306,17.47554191444466,16.297573266145072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804021801:0017/pct:41.10088224012274,80.45611243701936,17.47858330136811,16.299832051622026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,7 +915,7 @@ United States*- by and with the advice
 and confent of the Senate, fhall be bind­  
 ing upon&#x27;the faid parties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805022001:0001/pct:40.26439614609007,17.463414634146343,20.120994846515796,18.662020905923345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805022001:0001/pct:40.26439614609007,17.472706155632984,20.14340129957428,18.657375145180023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +950,7 @@ of Indian* of the one p-irt, and the chiefs and
 hen! men of the united Sac and Fox tribes of  
 the Ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805030401:0002/pct:60.57283508614903,27.31185781727298,18.77377489371224,12.940849763954457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805030401:0002/pct:60.57283508614903,27.31185781727298,18.788692474080705,12.945478107932981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -983,7 +983,7 @@ trict of Louisiana, superintendant&#x27;of Indian affairs
 foi the said territory and district, and commissioner  
 plenipotentiary of the United States, for concludin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805032901:0422/pct:2.5170424750917673,76.2315070720208,22.889355007865756,13.201105511298977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805032901:0422/pct:2.5163826998689385,76.21911573472042,22.889908256880734,13.203023407022107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1017,7 +1017,7 @@ Tk : JLFFLHSON.
 By the President,  
 James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805032901:0422/pct:49.50183534347142,33.571776946837915,22.653382275825905,12.111851731425784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805032901:0422/pct:49.48885976408912,33.56631989596879,22.65399737876802,12.113946684005201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1056,7 +1056,7 @@ of America, the twenty-ninth,
 : | By the Prefidegt, .  
 JAMES MADISON, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805040201:0054/pct:7.169870784746297,64.4722891566265,17.05011030570438,16.106024096385543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805040201:0054/pct:7.169870784746297,64.47871485943774,17.055362958293937,16.106024096385543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1076,7 +1076,7 @@ tii° United State;--, 1 have caused the.
 •dsesto he made public; and 1 do  
 hereby .&#x27;enjoin and require all person
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806042501:0003/pct:59.47334617854849,37.8869915313064,17.662170841361593,3.8039705678189644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806042501:0003/pct:59.47334617854849,37.8869915313064,17.669307072004568,3.8039705678189644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1105,7 +1105,7 @@ sents, and signed the same with my hand.
 Done at the city of Washington the 2 2d day of  
 April, in the year of our Lord, one thou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806043001:1088/pct:47.0933072789448,31.36123136123136,20.786516853932586,8.209074875741543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806043001:1088/pct:47.081807081807085,31.3562039115101,20.78754578754579,8.211766591856364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1128,7 +1128,7 @@ TREATY
 Of Peace and amity, between- the United!  
 States of Ametico and the Bashaw-, Bey 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806050201:0152/pct:40.58879392212726,19.14810978767478,18.271604938271604,6.38270326255826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806050201:0152/pct:40.58108621344474,19.145631067961165,18.274465122167364,6.386192017259979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ caused the seal of the U, S. to
 the Htime with my bind.  
 Doiti at the City of Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806080601:0002/pct:60.343716433942,67.74326553051127,18.045112781954888,6.418361737218252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806080601:0002/pct:60.35087719298246,67.74326553051127,18.066595059076263,6.432105552501374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1181,7 +1181,7 @@ into, at Groirseland, near Vjncenrres, j
 i in the Indiana .territory, by and between t  
 j William Henry Harrison, governor o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806081101:0002/pct:21.53712548849327,83.58596203741637,19.148936170212767,10.678683599617644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806081101:0002/pct:21.53712548849327,83.59051390595839,19.148936170212767,10.68323546815968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1211,7 +1211,7 @@ J(c s) be hereunto aßixed, and signed
 same with my band.  
 Doxk at the C.it.y of Washi &lt;;gton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806081101:0002/pct:59.37907077724707,38.358596203741634,18.866695614415978,10.118803768947153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806081101:0002/pct:59.38630771457519,38.36314807228367,18.8739325517441,10.132459374573262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1238,7 @@ j pawn, Munsec, and Delaware, Shawanee,
 anil Pottawatima nations, hidden at Port  
 Industry, on Miami of the lake, on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806081601:0272/pct:21.696854146806483,23.595068137573005,18.169685414680647,8.578844905905257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806081601:0272/pct:21.692718261532598,23.592006228912535,18.172575930867964,8.582057271390259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1273,7 +1273,7 @@ year of our Lord one thousand citrlit
 hundred and six, and of ilie indepen­  
 dence ol the United Stales the thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806081601:0272/pct:40.11439466158246,60.73977936404932,18.0743565300286,13.316028552887735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806081601:0272/pct:40.10674799847503,60.73189722294316,18.07726521794383,13.318626178735185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1343,7 +1343,7 @@ these presents, and signed the j
 same with my hand.  
 DONE at the city of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808030701:0004/pct:43.613138686131386,16.822310349238837,15.267639902676398,13.342714596392478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808030701:0004/pct:43.61989726953231,16.822310349238837,15.26088131927548,13.355507227836766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1389,7 +1389,7 @@ which Treaty is in the words follow­
 ing, to wit :  
 ARTICLES of a Tn un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031001:0004/pct:6.496379726468222,11.522254411377403,16.8141592920354,8.49354753752963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031001:0004/pct:6.496379726468222,11.53103327188131,16.8141592920354,8.502326398033535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1426,7 +1426,7 @@ one thousand eight hundred and
 d nine and of the indepci de eoi  
 1 the Unite States the thirty hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031001:0004/pct:22.58648431214803,27.745588622596788,18.32260659694288,15.880958651567026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031001:0004/pct:22.58648431214803,27.745588622596788,18.336015017430945,15.889737512070933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1782,7 +1782,7 @@ John Bid lle, eol 1st regt Ohio Militia.
 SH swa tcnase,  
 Toawsskoots, or blue jacket, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814122801:0343/pct:26.491862567811935,4.505363528009535,32.09764918625678,87.11561382598332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814122801:0343/pct:26.487072862050262,4.504826599928495,32.097872596878204,87.1092043062011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1819,7 +1819,7 @@ of the United States the thirty-ninth.
 By the President,  
 JAMES AiONHOK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814122801:0343/pct:44.177215189873415,73.492252681764,16.654611211573236,12.300357568533968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814122801:0343/pct:44.16922798770566,73.48349421999761,16.65762671005846,12.302864179875263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2091,7 +2091,7 @@ the U. States on thirteenth day of December, in .
 the year of our Lord 1814, with the advice and  
 consent of the Senate. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815010301:0214/pct:59.16019955654102,85.13310836145482,16.754434589800443,6.524184476940382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815010301:0214/pct:59.16481892091648,85.13310836145482,16.759053954175904,6.524184476940382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2118,7 +2118,7 @@ States on the thirteenth doy of December, in
 the year of our Lotd 1814; with the udvice  
 and consent of the Seoat..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815010401:0003/pct:50.4769320615145,63.392440503966405,21.58847576406463,8.691087260849276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815010401:0003/pct:50.48990980468496,63.40021776326023,21.5819868924794,8.691087260849276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2234,7 +2234,7 @@ V.-nlnth,
 VI.UAM HENRY HARRISON,  
 t. FAY IS CASS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815010501:0318/pct:4.6918123275068995,33.20749968541588,19.116835326586937,50.97521077136026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815010501:0318/pct:4.690949227373069,33.20332159033719,19.11945057640422,50.97299110887435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2266,7 +2266,7 @@ than u ibes as still continue hostile, and to
 make no peace with either without the con­  
 sent ol the United Statts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815011601:0009/pct:53.82991556091677,18.758085381630014,17.29493365500603,5.154741765349786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815011601:0009/pct:53.821800090456804,18.756218905472636,17.296095281169908,5.156716417910448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2499,7 +2499,7 @@ llte port of the s.e.1 tribe or in.t. j &gt;, wl.icli treaty i.~.
 in the words following, to wit :  
 A Treaty of peace uni t. ienridiin wade v-d cou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816010601:0150/pct:1.736806947227789,33.87056471764118,15.297261189044756,6.809095452273863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816010601:0150/pct:1.7365169477375189,33.86633354153654,15.300272722212945,6.812408911097231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2527,7 +2527,7 @@ following articles, which, when ratified by the
 President, with the advice and con-cnt of the  
 Senate of the United Slates, shall he Lindingot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817012101:0338/pct:36.46363487112133,24.77333673860299,14.693810540141191,1.9410037032307497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817012101:0338/pct:36.457649376231124,24.77017364657814,14.696870212300285,1.9450119169220292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2618,7 +2618,7 @@ signed on the twenty-ninth day of September, in
 the year of our Lord one thousand eight hun­  
 dred and seventeen, by Coinmissioners on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819012601:0397/pct:4.661675377878232,15.67927441142416,16.245232377454442,3.801620995754535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819012601:0397/pct:4.671092903894147,15.682490672841888,16.240523614446484,3.798404734336807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2660,7 +2660,7 @@ John Johnston, Indian Agent,
 B. F. Stickney, Indian Agent.  
 W. Knaggs, Indian Agent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819012601:0397/pct:55.586947308941944,49.45966808182169,16.061590620144088,13.990737167116944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819012601:0397/pct:55.5916560719499,49.45966808182169,16.066299383152046,13.993953428534672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2725,7 +2725,7 @@ Wm. Turner, Secretary, g
 Jno. Johnson, Indian Agent,  
 William Prince, Indian Agent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819020901:0405/pct:39.80337078651685,68.51833740831296,16.179775280898877,21.4278728606357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819020901:0405/pct:39.81273408239701,68.52159739201304,16.189138576779026,21.424612876935615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2834,7 +2834,7 @@ of September, 1o the year of our Lotd
 one thousand eight hundred and cigh­  
 teen. LEWIS CASS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819030301:0858/pct:27.320799059929495,9.47554507955215,21.249510379945164,8.226281673541544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819030301:0858/pct:27.32732732732733,9.483402082105677,21.249510379945164,8.22235317226478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3075,7 +3075,7 @@ Wm. Turner, Secretary,
 Johin Johnson, Indian Agent,  
 B. F Stickney, Indian Agent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819090101:0962/pct:27.438540840602695,27.320986197947388,21.292624900872323,11.088828595021823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819090101:0962/pct:27.445149352365846,27.328850615390664,21.292624900872323,11.088828595021823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3122,7 +3122,7 @@ fiilli.
 JAMES MONROE.  
 l)y the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821022701:0388/pct:51.66289958023894,20.402812537242283,14.17500807232806,11.691097604576331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821022701:0388/pct:51.6545601291364,20.40038131553861,14.178100618778585,11.69367651731808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3152,7 +3152,7 @@ premises to be made publie ; and I do hereby
 enjoin and require all persons bearing office,  
 civil or military, within the United
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821030601:0246/pct:57.85249129183704,27.320382362010484,17.128577919127668,3.350806866070511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821030601:0246/pct:57.85753950224645,27.32380854490013,17.128577919127668,3.350806866070511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3263,7 +3263,7 @@ ty-fifth.
 JAMES MONROE.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821040301:0049/pct:78.47404299947561,43.97541646449943,17.278447823807028,15.736697396086042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821040301:0049/pct:78.45347313237221,43.96830530401035,17.280471821756226,15.73819534282018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3332,7 +3332,7 @@ my hand
 Done at Washington, this fourth day of Jan­  
 uary, in the year of our Lord one thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832022101:0029/pct:21.658836870241373,48.43817787418655,15.907986392353799,7.3101952277657265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832022101:0029/pct:21.658836870241373,48.43817787418655,15.918786111561099,7.313810556760665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3429,7 +3429,7 @@ of the Unitod States to be hereunto
 with my hand.  
 Done at Washinglon, this fourth day of Jan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832031301:0239/pct:17.474764189971868,69.89636056881176,15.27387059407579,8.375512171607616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832031301:0239/pct:17.485796238071597,69.89636056881176,15.27387059407579,8.387563268257411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3475,7 +3475,7 @@ our Lord, one thousand eight
 hundred and thirty-two, and  
 of the Independence of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1832060601:0442/pct:39.6268325188805,33.032866454028564,17.76988005330964,14.810705866037997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1832060601:0442/pct:39.61803242282922,33.02828618968386,17.773336294322302,14.813274172675172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3513,7 +3513,7 @@ chief and deputies, delegates cu the part of the
 Wyandot tribe or nation of Indians, have, here­  
 unto set their hands, at ••“* c&#x27;ly &quot; uslnugton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1851021201:0373/pct:31.810331292196576,44.52615348120033,14.36646255299105,6.867512750563397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1851021201:0373/pct:31.820798660176898,44.53010714426917,14.36646255299105,6.8714664136322305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

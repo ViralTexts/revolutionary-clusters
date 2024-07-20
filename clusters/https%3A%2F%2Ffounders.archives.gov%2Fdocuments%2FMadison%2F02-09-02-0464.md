@@ -54,7 +54,7 @@ the United Slates, or in the wat- rs with- (
 h the jnrifdictiqn of the United States, j  
 it fh-.1l be the duty of any or jai*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804113001:0002/pct:1.0842557036367744,1.7728999577880962,39.05579399141631,96.70747150696496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804113001:0002/pct:1.0993148106317296,1.7728999577880962,39.063323544913786,96.72154214155059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -71,7 +71,7 @@ For the more effectual preservation of peace in the
 ports anti harlwurs of the United States, and in  
 the waters under their jurisdiction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120301:0246/pct:3.4961439588688945,82.76311502117954,21.799485861182518,1.8084066471163245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120301:0246/pct:3.4952454381906963,82.74963349079654,21.800308404009254,1.8121843948525818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +89,7 @@ vation of peace in the ports and harbors
 of the United States, and in the waters un­  
 der their jurisdiction, went to lire commit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804120501:0377/pct:59.86905449643751,88.371788148925,17.71615636433661,2.7530152071316203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804120501:0377/pct:59.85752791682711,88.36020448289422,17.719163136952893,2.7570236378730284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ entered on the journal as having “ passed unani­
 mously.” Lost.  
 The “bill extending the time for issuing and lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808031801:1039/pct:51.850912778904664,25.354609929078013,22.03346855983773,10.186976144422953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808031801:1039/pct:51.837769328263626,25.350523771152297,22.03422053231939,10.189363416599516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ United States, and in the ivatcrs un­
 der their jurisdiction,” passed on the  
 third day of March, in the year of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051301:0161/pct:41.25847776940467,49.38053097345133,17.52072343632253,10.518331226295828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051301:0161/pct:41.250706347711436,49.37428896473265,17.523701889872545,10.52121518560654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ the Umted States to arm, man, and fit out for im­
 mediate service all the publirk ships of war, vessels ;  
 and gun-boats of the United States, was read th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808121901:0267/pct:55.93719332679097,76.59094570646045,20.55937193326791,10.552601901079427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808121901:0267/pct:55.923473142016185,76.57860824742268,20.56046112337503,10.55492912371134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

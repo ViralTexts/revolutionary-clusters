@@ -44,7 +44,7 @@ meo, which has been communicated to the
 department of state, since the last report  
 made to the eeoate, in-virtue of a resolutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810041601:0391/pct:30.609024928999684,21.91300963316143,21.331650362890503,6.704291135545392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810041601:0391/pct:30.604196245464586,21.91087760264643,21.33354367145186,6.706882013361874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -72,7 +72,7 @@ the President, that accounts have been received
 at this departmer.&#x27;, ekclusively of those reported  
 by the agents t. e United States, of the im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810042001:0443/pct:25.447316103379723,15.805252428348723,17.3504427977589,7.195107327017628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810042001:0443/pct:25.442717744850018,15.80335731414868,17.353330923985062,7.198241406874501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ ers.&quot;
 The resolution was agreed to rum ccn.  
 and a committee appointed to lay it befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815022201:0051/pct:77.88138754196196,32.259273136005994,17.34427452443118,7.04383664293743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815022201:0051/pct:77.86686556032072,32.25524475524475,17.347255889116788,7.047119547119547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ he calculates to extort from the U
 &gt;8. a degrading Treaty.  
 JAS. MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815030201:0104/pct:24.57852706299911,28.467481135465324,19.003253475303165,37.27093065037729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815030201:0104/pct:24.574892799053675,28.464924099523937,19.005372369264133,37.27057696338214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ the United States, a degrading Trea­
 ty­  
 JAS. MONttOE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815030401:0384/pct:23.884372177055106,22.201676528599606,17.615176151761517,23.742603550295858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815030401:0384/pct:23.88005780346821,22.19893997288303,17.61801541425819,23.743785693742552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ culates to extr rt from the United States a
 degrading Treaty.  
 ^ JAS. MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815030401:0064/pct:24.64840858623242,54.872639716132305,17.50555144337528,25.82689139526042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815030401:0064/pct:24.643848288621648,54.86568677141409,17.508479802651866,25.82784254096976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ rv Powers.”
 The resolution was agréed to nem. con.  
 and a committee appointed to lay it befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815030701:0250/pct:9.66183574879227,19.89031436685927,16.28303495311168,7.77592792086965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815030701:0250/pct:9.666571942786776,19.89357882022655,16.287771147106184,7.77592792086965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ by the Dey as a means by which he ealeu
 lates io extort from ti e U bta&#x27;es a degrad­  
 ing Treaty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815031301:0036/pct:27.475592747559276,10.885826771653543,18.069115140244847,22.716535433070867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815031301:0036/pct:27.471335605825843,10.884755437456944,18.070189030058877,22.716760161401435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ lease of the others has proved abortive ; and
 . States a degrading T&#x27;reaty.  
 | JAS. MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815031401:0253/pct:21.947360851431036,60.61768466607652,17.057385301308788,29.477722041900265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815031401:0253/pct:21.947360851431036,60.62424182813678,17.07656167601515,29.477722041900265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

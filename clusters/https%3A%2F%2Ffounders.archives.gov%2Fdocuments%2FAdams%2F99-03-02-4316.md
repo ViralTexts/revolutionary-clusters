@@ -83,7 +83,7 @@ Plural, is plural then no more,
 And sweet, what bitter was before.”  
 Solution.—The word is cares, to which, by add
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn85059803:00514158320:1827092901:0690/pct:36.417910447761194,80.93809653667849,24.17910447761194,9.462776111262613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn85059803:00514158320:1827092901:0690/pct:36.40583554376658,80.91603053435115,24.179376657824935,9.46701199563795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ Plural, ib plural then no more,
 And sweet, what bitter was before.”  
 Solution. The word is cares, to which b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1827100301:0472/pct:30.656086704083606,111.15209988649262,17.26340236113799,5.76049943246311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1827100301:0472/pct:23.76381180940953,86.14888392038999,13.389330533473327,4.467983726129824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ How- strange the metamorphosis!
 Plural is plural, now&#x27; no more,  
 And sweet’s what bitter was belore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556641:1854021801:0207/pct:13.746279761904763,18.940529735132433,12.12797619047619,4.385307346326837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556641:1854021801:0207/pct:13.75093005952381,18.94677661169415,12.12797619047619,4.385307346326837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ ans, you have caress.
   
 Fom the New Orleans Picayune, of the 10th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293186:1854092001:0277/pct:72.51243781094527,15.536286969948925,94.7139303482587,361.8482004988716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293186:1854092001:0277/pct:18.136568673199566,3.8840717424872313,23.689531808990512,90.4620501247179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -824,7 +824,7 @@ Plural is plural then no more.
 And sweet what bitter was before.  
 Solution.?The word is caret, to whioh, by addin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854101401:0308/pct:80.55634001694436,91.74891870910503,13.513131883648686,4.6135078185649325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854101401:0308/pct:80.55634001694436,91.75631215112196,13.522545420314412,4.6098110975564675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ Plural is plural then no more,
 And sweet what bitter was before.  
 Solution.—The word is carts, to which, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215920:1854101401:0287/pct:81.24822962893022,12.467349099894106,11.509772448305165,4.574655841863748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215920:1854101401:0287/pct:81.2405589123867,12.466469010306367,11.511832829808661,4.576685961692315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -866,7 +866,7 @@ Plural is plural then no more,
 And sweet what bitter wa3 before. &#x27;.  
 Solution. The word is cares, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470338:1854101901:0753/pct:103.26633165829146,88.46067415730337,14.475153545505304,3.6292134831460676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470338:1854101901:0753/pct:77.46754153287729,66.34831460674157,10.861370933966215,2.730337078651685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ Plural, is plural &#x27;hen no more,
 And sweet, what bitter was before.  
 Solution.—Tbe word is cares, to which by adding an S, yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030364:print00211110089:1854102201:0001/pct:86.2468193384224,63.596359635963594,8.664122137404581,2.0202020202020203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030364:print00211110089:1854102201:0001/pct:86.2531806615776,63.596359635963594,8.670483460559796,2.03020302030203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -913,7 +913,7 @@ How strange the metamorphosis!
 Plural is plural then no more  
 And sweet, what bitter was before
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1854102501:0318/pct:33.30815709969789,107.0249271608935,15.861027190332326,7.359447501888421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1854102501:0318/pct:24.996221852803384,80.274090860041,11.908719963729787,5.51419013704543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -981,7 +981,7 @@ Strange is the metamorphosis,
 Plural is plural now no more,  
 And sweet what bitter was before
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776361:1855052501:0435/pct:37.72691397000789,41.99584199584199,38.20047355958958,14.612414612414613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776361:1855052501:0435/pct:9.433589895401619,10.498960498960498,9.552003157686995,3.653103653103653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1004,7 @@ Plural is plural then no more,
 Au^ sweet what bitter was befure.  
 Solution.—The word is cares, to which, by ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:0041418375A:1855070401:0283/pct:70.41031036296685,49.83073161557269,11.533403471856918,4.30694000376152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:0041418375A:1855070401:0283/pct:70.40105193951348,49.82604607428303,11.536269997808459,4.30966933082589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1027,7 +1027,7 @@ Plural is plural then no more,
 And sweet, what bitter was before.  
 Solution. The word is cares; by addin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1855070701:0048/pct:320.94594594594594,229.42372881355934,44.66216216216216,16.8135593220339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1855070701:0048/pct:80.26360256843529,57.355932203389834,11.169313957418046,4.203389830508475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1101,7 +1101,7 @@ But if an S you add to this,
 plural is plural then no more.  
 And sweet what bitter was before
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028599:1860030801:0293/pct:8.678435901666392,49.92969299273494,9.83336083154595,3.7965783923131005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028599:1860030801:0293/pct:8.678435901666392,49.933598937583,9.849859759115658,3.804390282009218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1157,7 +1157,7 @@ Piural is plural then no more,
 And sweet what bitter was before.&quot;  
 The solution will be found in the word cares, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475294:1866010601:0044/pct:128.2277960526316,43.95414572864322,38.42516447368421,10.92964824120603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475294:1866010601:0044/pct:42.74259868421053,14.65138190954774,12.808388157894736,3.64321608040201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1180,7 +1180,7 @@ Plural ia plural then no more,
 And sweet what bitter was before.&quot;  
 The solution will be found in the word cares
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn85025697:00393348306:1866011101:0019/pct:6.446176532546872,43.75755743651753,13.903518011375606,4.307738814993954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn85025697:00393348306:1866011101:0019/pct:6.444818871103623,43.75094453679915,13.905855096882899,4.3108659513374645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1230,7 +1230,7 @@ How strange the metamorphosis
 Plural is plural then no more,  
 And sweet, what bitter was before
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295878046:1866030301:0087/pct:169.25465838509317,257.311785573512,41.45962732919255,32.47930626724478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295878046:1866030301:0087/pct:42.31366459627329,64.327946393378,10.364906832298137,8.119826566811195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1252,7 +1252,7 @@ Strange is the metermorphosis.
 Plural is plural word no more,  
 And sweet what bitter was before
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629217:1866082101:1000/pct:23.032490974729242,305.6691690396065,45.55956678700361,17.085166968677193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629217:1866082101:1000/pct:5.7591623036649215,76.41729225990163,11.391948005055063,4.271291742169298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1286,7 +1286,7 @@ Plural is plural then no more,
 And .-sweet what bitter was before.&quot;  
 Solution—The word is CAKES, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058043:00279529340:1867030801:1575/pct:85.03242973557292,63.35722819593787,11.924164310660236,4.372759856630824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058043:00279529340:1867030801:1575/pct:85.03797328011531,63.36121067303863,11.935251399744997,4.372759856630824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1379,7 +1379,7 @@ Plural is plural then no more,
 And sweet what bitter was befor  
 SolupION. The word is cares, to whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029564A:1867062001:0477/pct:331.8860877684407,348.69137082145636,46.21848739495798,16.066338429644986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029564A:1867062001:0477/pct:83.0005837711617,87.17284270536409,11.558669001751314,4.016584607411247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1402,7 +1402,7 @@ Uow strange the metamorphosis ;
 Plural is plural then no more.  
 And sweet what bitter was before
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1868042201:0083/pct:75.28481012658227,97.50096116878123,10.395569620253164,3.9728309624503395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286868:1868042201:0083/pct:56.49833781858477,73.12572087658593,7.804337501978788,2.9860310137126747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1496,7 +1496,7 @@ How strange the metamorphosis;
 Plural is plural then no more.  
 And sweet what bitter was before.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279555193:1871030101:0204/pct:185.3658536585366,346.4767234800305,35.590994371482175,10.798778936657339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279555193:1871030101:0204/pct:46.33277058713187,86.6081648225868,8.896079534796474,2.699351392598245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1539,7 +1539,7 @@ Now auy word you chance to take.
 By adding s&#x27; you plural make  
 But if yon add an s1 to this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn84027183:00279528979:1871050401:0737/pct:68.26625386996903,83.39487652896376,10.767113863089095,1.9616893607200554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn84027183:00279528979:1871050401:0737/pct:68.26625386996903,83.39487652896376,10.778580438023162,1.9693822601738595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1680,7 +1680,7 @@ How strange the metamorphosis I
 Plural is plural then no more,  
 And sweet what bitter was before.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349505:1872101801:0366/pct:63.174807197943444,68.60195674562307,8.129820051413882,3.141091658084449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349505:1872101801:0366/pct:63.16465863453815,68.59312652851075,8.132530120481928,3.1439052645128074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1702,7 +1702,7 @@ How strange the metamorphosis !
 Plural is plural then no more,  
 And sweet what bitter was before.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192336:1872102901:0389/pct:57.96604356028126,91.99710564399422,10.461327388098097,4.356005788712012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192336:1872102901:0389/pct:57.96604356028126,92.00072358900145,10.478477105127766,4.36685962373372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1759,7 +1759,7 @@ How strange the metamorphosis !
 Plural is plural then no more.  
 And sweet what bitter was before
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1875081201:0135/pct:116.10665844636252,125.72418915573162,9.04747225647349,3.292894280762565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1875081201:0135/pct:87.12413261372397,94.2931418667987,6.800308404009252,2.475860361475613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1939,7 +1939,7 @@ How strange the metamorphosis!
 Plural is plural then no more,  
 And sweet what bitter was before.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1888010701:0642/pct:43.5790273556231,35.48205489092189,10.50531914893617,4.729064039408867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1888010701:0642/pct:43.5707502374169,35.47706163805235,10.50807217473884,4.731916690121024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1961,7 +1961,7 @@ How strange the metamorphosis!
 Plural is plural then no more  
 And sweet what bitter was befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102068:1888021201:0157/pct:157.06959706959708,328.3289817232376,32.014652014652015,10.850014505366985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102068:1888021201:0157/pct:39.26739926739927,82.0822454308094,8.003663003663004,2.7125036263417464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1984,7 +1984,7 @@ How strange the metamorphosis.
 l&#x27;lural is plural then no more -.- .  
 And sweet what bitter was before
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763190:1888082401:0534/pct:36.11435239206534,55.74766355140187,13.054259043173863,4.077102803738318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763190:1888082401:0534/pct:27.093667931135105,41.8107476635514,9.804493726291216,3.060747663551402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2167,7 +2167,7 @@ How strange the transformation is!
 Plural is plural then no more  
 And sweet what bitter was before
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1895071201:1065/pct:139.71248876909254,278.258221680877,45.103324348607366,13.64190012180268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1895071201:1065/pct:34.93596944506852,69.56455542021925,11.278364412491575,3.41047503045067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2189,7 +2189,7 @@ How strange the transformation Ist
 Plural is plural then no more  
 And sweet what bitter was before
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_bathouse_ver01:data:sn96027724:00271761594:1895072401:0478/pct:44.0,21.00132919805051,20.121827411167512,6.645990252547629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_bathouse_ver01:data:sn96027724:00271761594:1895072401:0478/pct:34.099134539732496,16.276230446394507,15.609756097560975,5.154521175123999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2211,7 +2211,7 @@ How strange the transformation is!
 Plural is plural then no more  
 And sweet what bitter was before
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524147:1895080601:0134/pct:81.0336421257923,169.14044583065774,22.79375914188201,8.402898816622328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524147:1895080601:0134/pct:27.00792199878123,56.37497706842781,7.59699370302661,2.800709349966367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2249,7 +2249,7 @@ Now any wrord you choose to take,
 By adding &quot;s&quot; you plural make;  
 But if an ea you add to this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036854:1898042401:0455/pct:109.66742745353766,216.627292158848,33.403977828496906,6.119923500956238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036854:1898042401:0455/pct:36.55580915117922,72.20909738628266,11.134659276165634,2.039974500318746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2281,7 +2281,7 @@ Strange is the metamorphosis:
 Plural is plural then no more.  
 And sweet what bitter was before
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013456:1899072701:0482/pct:8.592814371257486,10.317297850562948,18.323353293413174,6.816786079836233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013456:1899072701:0482/pct:8.59024244238252,10.315186246418339,18.325351691110445,6.820507572656569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

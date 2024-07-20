@@ -145,7 +145,7 @@ rorco.
 Joel Hart, of New York, to be  
 Consul at Leith
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031001:0551/pct:44.520699579366834,62.90090325958895,17.777285809165374,8.286424924728367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031001:0551/pct:44.51084550686144,62.89267015706806,17.780728936107423,8.289703315881326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ at Mogodore, in Morocco.
 Joel Hurt, of New-York, to be Consul at  
 Leith
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817031101:0413/pct:17.18646317186463,60.80061388924415,14.880557398805575,4.796009719913032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817031101:0413/pct:17.183612539392936,60.79283887468031,14.883618068225797,4.799658994032396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ Indiana.
 John Vawter, of Indiana, to be Mar­  
 shal for the said district.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031701:0249/pct:22.847100175746924,15.828092243186584,17.418472954501073,5.14937106918239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031701:0249/pct:22.84263959390863,15.826018603432464,17.42158011193544,5.153063452552513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

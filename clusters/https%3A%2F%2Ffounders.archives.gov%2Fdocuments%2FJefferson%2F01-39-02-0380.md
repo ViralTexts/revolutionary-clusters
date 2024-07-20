@@ -33,7 +33,7 @@ States to ellablith, when it fhall appear to him
 to be proper, in addition to the port of entry  
 aud delivery already citablifhed on (he Miffifip- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802080701:0165/pct:54.868270332187855,20.539346739509472,20.12218403970981,3.3825409740788097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802080701:0165/pct:54.868270332187855,20.539346739509472,20.14763904798269,3.3864155914603433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -58,7 +58,7 @@ thall appear to him to be proper, in
 addition to the port of entry and deii- 1  
 very already eltablifhed on Lake Oot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1803040401:0180/pct:41.3846954711088,13.905579399141631,18.49731042859622,7.832618025751073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1803040401:0180/pct:41.377515614156835,13.904087544254908,18.498438584316446,7.8344598219075205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ when it shall appear to him to be pro- &#x27;
 per, in additicn to the pott of entty |  
 and delivery already established ¢t 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803050301:0275/pct:23.679646854800566,61.21393034825871,16.96358190130853,4.0497512437810945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803050301:0275/pct:23.684901991696883,61.22056384742952,16.958326764412213,4.0431177446102815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ Seates, to eftab&#x27; fh when it fhall appear to him
 to be proper, in addition to the port of entry  
 and deiivery already eablifhed on Lake Onts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803051401:0325/pct:34.583864505554544,62.79596691967826,19.10398834456383,5.596465390279823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803051401:0325/pct:34.58993504522552,62.79974321211434,19.097917804892855,5.600241682715909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ when it shall appear to him to be proper, in ad­
 dition to the ports of entry and delivery already  
 established on Lake Ontario, ofie other port o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818072101:0289/pct:76.84321396328619,74.65573106520858,16.95756846223292,2.754151478331308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818072101:0289/pct:76.84321396328619,74.65910625084379,16.967599558631758,2.757526663966518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

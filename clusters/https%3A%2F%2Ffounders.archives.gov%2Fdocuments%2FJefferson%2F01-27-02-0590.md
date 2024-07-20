@@ -123,7 +123,7 @@ ber is speaking, shall pass between him and the chair.
 N&#x27;o member shall vote on any question, in the event of which  
 he is immediately and particularly interested ; or in any other ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789041501:0002/pct:39.537606087211,32.89473684210526,26.309628328943518,6.879699248120301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789041501:0002/pct:39.544922446590576,32.90413533834587,26.302311969563945,6.879699248120301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ the judgement of the house, and cannot again be
 drawn into debate d*. ingtne same session.”  
 ^ A motion \v.,s made to suspend the operation 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808010701:0313/pct:22.66294227188082,34.70213287570483,18.156424581005588,2.181907330227997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808010701:0313/pct:22.658722770433812,34.697879642113,18.159250294793026,2.185725374841688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ Mr. Harvio observed, that the House w.is then
 but in a full House. He, therefore, moved to lay  
 the proposition on the table—which motion pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829013101:0361/pct:1.1120196238757154,23.330129745314753,15.224856909239575,6.355117731859683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829013101:0361/pct:1.1118378024852844,23.32732732732733,15.227817745803357,6.358358358358358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ the proposition on the table—which motion pre
 us t lie judgment of the House, and cannot again be  
 drawn into debate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829100901:1065/pct:21.80511182108626,23.214703816436433,17.843450479233226,1.4282369468508547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829100901:1065/pct:21.8016291327264,23.211986421631746,17.84592450620242,1.431971594677904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ drawn into debate
 j is the judgment of the House, and cimnot again be  
 | drawn into debate* 3 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829101001:0291/pct:22.343799555978432,28.319882611885546,18.109736758642562,1.6629982880899976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829101001:0291/pct:22.340256857459966,28.316420100256757,18.112150520585594,1.6668704405591555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ any committee thereof, as a witness inonv matter de­
 pending before them, .«Sai! !»e privileged from arrest,;  
 during his coming to. nttcndiug on, or going from 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829101001:0291/pct:22.31208372978116,47.67669356810956,18.141452584839836,7.691367082416239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829101001:0291/pct:22.308546059933406,47.67086440885194,18.14386131811215,7.69450218038065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ llotifr, or nny t otnmiltee thereof, a* a wiluu.ss
 in any matter depending before fliatu, Shull be  
 privileged from uni&#x27;ll, durieg hit coining to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829101501:0482/pct:63.10182339684491,54.370198579504276,14.628149969268593,8.04464415132628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829101501:0482/pct:63.088897992625974,54.36231884057971,14.630274477673085,8.047101449275363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ that &quot;No member shall vote on any question in the
 event of which he is immediately and porticularly  
 interested.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841030301:0200/pct:12.33322991002172,37.33378793044664,38.271796462922744,21.4569837481532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841030301:0200/pct:4.110438963859159,12.443181818181818,12.755286696654775,7.151515151515151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ larly interested.
 The Sreaxer said it was not for him to desig  
 nate what members should not vote
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850082701:0810/pct:202.21948212083848,76.78484107579462,46.43297516293817,16.026894865525673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850082701:0810/pct:67.4064940402795,25.594947025264872,15.477658387646057,5.342298288508557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ and shall aot be ugain drawn inio debate,&quot; that he might
 be enabled to present a motion for the re-consideration of the  
 Compromise of tho Basis question, adopted on the ^ist 0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851071101:0343/pct:63.7247786326027,77.79055284085466,15.735230076934243,2.1270480022995115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851071101:0343/pct:63.7247786326027,77.79055284085466,15.74490734020419,2.1334355338379485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ bers absent had paired off, and that as fair
 a vote could be had then as at any other  
 time.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851071401:0154/pct:54.59672870840384,126.67609618104667,45.59127655574356,36.902404526166904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851071401:0154/pct:13.646616541353383,31.66454532597935,11.395676691729323,9.224296422005374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ n?ne shall entertain private discourse, read, stand up, walk
 7. No member shall vote on any question in the event of  
 which he is immediately and personally interested, nor i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1852012301:0567/pct:64.13483796296296,44.55079605761941,15.610532407407407,2.1038665655799846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1852012301:0567/pct:64.13483796296296,44.553955016426585,15.615354938271604,2.110184483194339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ lece.
 40. Any person summoned to attend this house, or any on­  
 ol its committees, as a witness, shall be privileged fr&gt; in ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1852012301:0567/pct:79.87557870370371,42.769143290371495,15.596064814814815,4.40674753601213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1852012301:0567/pct:79.87557870370371,42.77546120798585,15.600887345679013,4.403588577204953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ fect when the qBc.i.on was put by the speaker or
 eh firman in any commuter.  
 8. Every In,-tuber who shall he in the House whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852012301:0073/pct:22.4284304047384,49.53465759133213,14.669299111549853,4.0283372690651476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852012301:0073/pct:22.424003158310303,49.52777777777778,14.671338333991315,4.03125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +526,7 @@ ring the c •ntmuancfi of the member’s privilege.
 40. Any person summoned to attend this house, or  
 any one of its committees, 83 a witness, shall be pri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852012301:0073/pct:37.74925962487661,60.61953049034588,14.550839091806516,4.597860814001945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852012301:0073/pct:37.741808132649034,60.611111111111114,14.552901697591789,4.600694444444445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ session, be drawn again into debate,&quot; and the fol­
 lowing: &quot;No motion to suspend the rules for the  
 purpose of re considering a bill which has bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190935:1853120801:0551/pct:101.5614156835531,128.0535481578012,41.70714781401804,7.5109584172491415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190935:1853120801:0551/pct:33.853805227851026,42.6845160526004,13.902382604672681,2.503652805749714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ thesame session, be drawn again into debate,
 add the following: &quot;No motion to suspend the  
 rules for the purpose of re-considering a bil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334796A:1853121201:0457/pct:79.1838336276241,210.27190332326285,61.075142240533644,10.372608257804632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334796A:1853121201:0457/pct:19.792075323656334,52.56041426927503,15.265790506080815,2.5927790563866515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ rules for the purpose of re-considering a bil
 ing that no member shall vote on any question, in the event  
 of which he is immediately and particularly intereste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854031501:0501/pct:53.873581847649916,102.31377641364656,47.017828200972446,3.187345059615158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854031501:0501/pct:17.957860615883305,34.104592137882186,15.672609400324149,1.0624483532050526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ saying that no member shall vote on any question in the
 event of which he is immediately and particularly in­  
 terested
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854031501:0607/pct:141.28125510704365,98.69169510807735,45.62837064879882,4.9032992036405005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854031501:0607/pct:47.09375170234788,32.89723170269245,15.20945688293294,1.6344330678801668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ terested
 saying that no member shall vote on any question in the  
 event of which he is immediately and particularly inter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184662:1854031701:0236/pct:135.5701754385965,205.00461254612546,38.654970760233915,2.4331180811808117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184662:1854031701:0236/pct:45.183452711591876,68.32699181367462,12.883106758271207,0.8109458472654598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ which provides that no member shall vote on any
 question in the event of which he is immediately er  
 personally interested
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530467:1855020801:0260/pct:249.18735488480087,120.2730551262236,47.633505983211286,6.491499227202473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530467:1855020801:0260/pct:83.06245162826696,40.09101837540786,15.877835327737095,2.1638330757341575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ providing that •no member shall vote on any
 question in the event of which he is immedi­  
 ately and particularly intetested,&#x27; in orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856031201:0222/pct:40.817105765559376,45.427477669076985,15.769377625047728,2.367786757408195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856031201:0222/pct:31.643322154271058,35.21353746978243,12.211481554547248,1.8350304007032452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ tirely to the question of voting. It was for the gentle
 man himself to decide upon his honor and his oat  
 memer. he har cod not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531058:1870062301:0376/pct:252.14723926380367,18.403798326927426,47.72360348724572,24.21433416233326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531058:1870062301:0376/pct:84.04907975460122,6.134599442309142,15.907867829081907,8.071444720777752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ Mr. Burler said he would not ask half of it. He
 only wanted the record to be read, which would  
 brand the statement of the member from i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743701:1870062301:1012/pct:193.26748971193416,207.69404077954263,59.45679012345679,32.88273065224738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743701:1870062301:1012/pct:64.42249657064473,69.2313469265142,19.818930041152264,10.960910217415794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -821,7 +821,7 @@ half of it, he only wanted the record
 to be read, which would brand the  
 statement of the member from Illinoi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870062301:0642/pct:201.1089367253751,92.22858478438705,41.68297455968689,40.902185345331304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870062301:0642/pct:50.29363784665579,23.057146196096763,10.424143556280587,10.225546336332826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,7 @@ keeper of members.
 Mr. Butler only wanted the record to  
 be read, which would brand the statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775009:1870062901:0426/pct:45.034246575342465,11.231076164769393,13.156392694063927,8.168055392559559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775009:1870062901:0426/pct:33.79014989293362,8.426241051519774,9.878658101356175,6.126041544419669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ when the question was put; and when any
 member shall ask leave to vote, the President  
 shall propound to him the question: &quot;Wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475488:1879042601:0221/pct:202.32558139534885,261.44640998959414,46.04651162790697,11.86264308012487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475488:1879042601:0221/pct:67.44186046511628,87.14880332986472,15.348837209302326,3.9542143600416235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -928,7 +928,7 @@ when the question was put; and when any
 member shall ask leave to vote, the President  
 shall propound to him the question: &quot;Wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475488:1879042701:0234/pct:98.3501552795031,80.37974683544304,45.18633540372671,8.979430379746836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475488:1879042701:0234/pct:32.7833850931677,26.793248945147678,15.062111801242237,2.9931434599156117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ organization of the Government, and until
 recently was accepted in its general and  
 proper meaning, easily understood by u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881072601:0129/pct:77.77777777777777,297.1026842778015,49.287749287749286,18.81834966624059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881072601:0129/pct:19.444444444444443,74.27567106945037,12.321937321937321,4.704587416560147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ rends, &#x27;No member shall be per­
 mitted to vote on any question when  
 his private right, distinct from pub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82016412:00294551918:1884070201:0010/pct:29.877567140600316,6.760875588805764,54.443127962085306,120.15793848711554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82016412:00294551918:1884070201:0010/pct:22.421967601738444,5.070656691604323,40.85341762149348,90.12191742865059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

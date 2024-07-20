@@ -511,7 +511,7 @@ ernment. addressed to him a long letter. in which
 he points out the defects of that Government,  
 and suggests remedies That letter, it :s justl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848011001:0036/pct:6.56015037593985,49.51388403161502,12.5,5.819402671889208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848011001:0036/pct:6.5595338783948876,49.5104210379074,12.501957836042978,5.82132699212011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

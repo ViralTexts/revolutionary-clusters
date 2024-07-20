@@ -125,7 +125,7 @@ it was from grief or joy, whether from the
 loss of their beloved President or from the  
 cecossion of an unbeloved one, or some other 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152901:1897030101:0827/pct:70.78757031877846,23.398007341373887,12.93865523707474,3.513371788148925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152901:1897030101:0827/pct:70.78757031877846,23.401503233700403,12.95204929011519,3.5203635728019576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ thing he knew, and that was that he was a
 being of too much sensibility to act any part  
 well in such an exhibition,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152901:1897030101:0827/pct:70.7206000535762,32.679601468274775,12.697562282346638,2.391190351337179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152901:1897030101:0827/pct:70.72506473792303,32.68659325292781,12.697562282346638,2.391190351337179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ whether from the loss of their beloved
 president or from the accession of an un­  
 beloved one, or some other cause, he coul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665659:1897030201:0600/pct:94.04761904761905,15.443106725807912,17.018950437317784,4.3812799855164295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665659:1897030201:0600/pct:70.56750516466157,11.586856160043451,12.771904241098554,3.2859599891373223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ that was that he was a being of too much
 sensibility to act any part well in such an  
 exhibition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665659:1897030201:0600/pct:94.02332361516035,24.241875622340906,16.97035957240039,3.810989408889291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665659:1897030201:0600/pct:70.54320087495442,18.185932832443196,12.735447806537854,2.860505114510727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ whether from the loss of their beloved
 President or from the accession of an un­  
 beloved one, or some other cause, he coul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655120:1897030501:0257/pct:43.347639484978544,65.0994575045208,13.808546370591529,4.173042147725692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655120:1897030501:0257/pct:43.352304534428065,65.0994575045208,13.827206568389625,4.186952288218111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ was that he wasn a being of too much sen­
 sibility to act any part well in such an ex­  
 hibition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655120:1897030501:0257/pct:43.42228027617093,72.83349561830575,13.808546370591529,3.2688830157184587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655120:1897030501:0257/pct:43.4362754245195,72.84045068855195,13.8225415189401,3.2723605508415634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ or joy, whether from the loss of their be­
 loved president or from tho accession of an  
 unbeloved one, or some other cause, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109105:1897030701:0239/pct:94.39090208172706,103.21463211860885,16.76946800308404,2.743522239157545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109105:1897030701:0239/pct:70.83895853423337,77.4144381321879,12.594021215043394,2.0645697658306776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ from the loss of their beloved president or
 from the accession of an unbeloved one, or  
 some other cause, he could not say. H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479901:1897031701:0087/pct:5.068448500651891,21.965640339134314,14.146023468057367,4.64078536367693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479901:1897031701:0087/pct:5.079313342025206,21.97307749516585,14.151455888744024,4.64078536367693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ that was that he was a being of too much
 sensibility to aot any part well in such an.  
 exhibition.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479901:1897031701:0087/pct:5.035853976531943,30.957161981258366,14.227509778357236,4.0829986613119145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479901:1897031701:0087/pct:5.035853976531943,30.957161981258366,14.232942199043894,4.086717239327681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ whether from the loss of their beloved
 president or from the accession of an  
 unbeloved one, or some other cause
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1897031701:0514/pct:274.7767857142857,113.13428445359612,49.25595238095238,21.061920870716282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1897031701:0514/pct:68.70697674418605,28.28357111339903,12.316279069767441,5.2654802176790705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ sensibility to act any part well in such
 an exhibition.  
 If the tears at the inaugural exer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1897031701:0514/pct:274.7767857142857,165.0831004559494,49.107142857142854,10.530960435358141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1897031701:0514/pct:68.70697674418605,41.27077511398735,12.279069767441861,2.6327401088395352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ other cause, he could not say. He sus­
 pected that the novelty of the sun set­  
 ting full-orbed, and another rising
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669422:1897031801:0219/pct:67.23090277777777,47.88866546724521,18.446180555555557,10.255053444808974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669422:1897031801:0219/pct:44.840063685048484,31.929304688326805,12.302793457808656,6.8367022965393165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ much sensibility to act any part well
 in such&#x27;an exhibition.  
 If the tears at the inaugural exer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669422:1897031801:0219/pct:67.1875,67.0652979151233,18.37384259259259,4.624828024129537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669422:1897031801:0219/pct:44.811115935736,44.71372632024553,12.25937183383992,3.079690972589692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -490,7 +490,7 @@ or joy, whether from the loss of their be­
 loved President or from the accession of  
 an unloved one, or some other cause, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472359:1897031901:0413/pct:17.104610808130886,37.2020320437671,11.006445215666831,4.05431809300508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472359:1897031901:0413/pct:16.249313132898973,35.34216062368519,10.460004709945835,3.857814626902611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ that he was a being of too much sensi­
 bility to act any part well in such an ex­  
 hibition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472359:1897031901:0413/pct:17.129400099157163,46.74677608440797,10.981655924640556,1.6803438843298164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472359:1897031901:0413/pct:16.276787816940104,44.415913872045536,10.440379935630741,1.5901497339438189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ or Joy, whether from the loss of their
 beloved president or from the acces­  
 sion of an unbeloved one, or Bome oth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473091:1897032501:0355/pct:83.26788830715532,51.67080110900336,18.171902268760906,7.690062746242521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473091:1897032501:0355/pct:62.497271338135775,38.75674886910842,13.643309321108928,5.7638990223259885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ knew, and that was that he was a be­
 ing of too much sensibility to act any  
 part well In such an exhibition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473091:1897032501:0355/pct:83.26788830715532,67.97023201517584,18.215532286212916,6.026557711950971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473091:1897032501:0355/pct:62.497271338135775,50.98497008609368,13.665138616022702,4.52356632131913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ beloved president or from the acces
   
 ion of an unbeloved one, or some ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294270:1897032701:0281/pct:175.88187038556194,142.83369803063457,49.38474159146842,16.028446389496718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294270:1897032701:0281/pct:43.970467596390485,35.70842450765864,12.346185397867105,4.0071115973741795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ ing of too much sensibility to act any
   
 part well in such an exhibition.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294270:1897032701:0281/pct:177.19442165709597,192.3960612691466,48.974569319114025,6.017505470459518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294270:1897032701:0281/pct:44.29860541427399,48.09901531728665,12.243642329778506,1.5043763676148796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ or Joy. whether from the loss of their
 beloved president or from the acces­  
 ilon of un unbeloved one. or some oth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_aberdeen_ver01:data:sn90051889:00414214216:1897040301:0078/pct:83.61334307280254,31.427412814274128,10.713416118821524,4.339010543390105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_aberdeen_ver01:data:sn90051889:00414214216:1897040301:0078/pct:83.63160457755052,31.442619626926195,10.695154614073534,4.333941605839416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ Washington moved toward the door,
 there was a precipitate rush from the  
 gallery and corridors for the street
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_aberdeen_ver01:data:sn90051889:00414214216:1897040301:0078/pct:84.00292184075968,40.896188158961884,10.445580715850985,7.785888077858881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_aberdeen_ver01:data:sn90051889:00414214216:1897040301:0078/pct:84.00292184075968,40.90125709651257,10.469929388848307,7.811232765612328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

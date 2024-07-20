@@ -118,7 +118,7 @@ inst gatlon of the dovil on the soventeenth day of sep
 in the year of our Lord one thousand cight hu  
 and forty-one, with force and arms at the Ward
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743154:1842012501:0102/pct:147.85071642785738,39.56686146442076,53.19893368877041,11.836828234215652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743154:1842012501:0102/pct:49.28357214261913,13.188953821473588,17.732977896256802,3.9456094114052176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ editor, being a person of an evil and wicked mind and
 malicious disposition and a common duellist, fighter and  
 listurber of the peace of the people of the State of Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842100101:0384/pct:240.12024699382516,73.53209961160613,46.10009749756256,11.286269134110121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842100101:0384/pct:80.04008233127504,24.510699870535376,15.366699165854188,3.7620897113700402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ and for the body of the city and county of New York,
 upon their oath present,  
 That Anthony Dey, long before, and at the time of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843011101:0059/pct:112.49416524039209,31.427300033374124,44.71759763497744,7.587050839915452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843011101:0059/pct:37.4980550801307,10.475766677791375,14.905865878325812,2.529016946638484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ of Erooklyn and residents of the County of Kings, which
 can only be remedied by the establishment of other Fere­  
 ries, and, in the opinion of the Grand Inquest, the publi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851021501:0312/pct:4.092375615554423,95.8673826756946,48.10663949736797,8.487041793135653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851021501:0312/pct:1.3641252051848078,31.955794225231536,16.03554649912266,2.8290139310452176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ the County of Kings, which can only be. remedied by
 the establishment of other Ferries ; and. in the opin­  
 ion of the Grand Inqueatr the public necessity require
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00205958162:1851021601:0004/pct:6.765551687604057,11.528033835809564,9.686695928560617,2.158117340852402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00205958162:1851021601:0004/pct:6.776903284395338,11.528033835809564,9.686695928560617,2.1635397462314283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ and publishing the false, scandalous, and malicious
 libel hereinatter mentioned, in and by a certain act  
 of the Legislature of the State of New York, en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852021401:0271/pct:9.877149877149877,23.696362202950784,46.65028665028665,9.742088072981192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852021401:0271/pct:3.2923832923832923,7.898787400983594,15.55009555009555,3.2473626909937305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ liam Pocle, then and there wilfally, telont
 oualy, and of his maltee aforethought, 4id shoot and iise­  
  atri harge; and that the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855032401:0672/pct:89.99297752808988,263.69357376255596,57.75983146067416,27.18141110976643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855032401:0672/pct:29.997659176029963,87.89785792085199,19.253277153558052,9.060470369922143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ in the county of New York atoresaid, on the tirst day of Feb,­
 ruery in the year of our Lord one thousand eigh, hun ired and  
 five at the ward, city and county aforesaid, with force an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855092501:0691/pct:99.4486560992419,228.01376364499288,45.434183321847,7.225913621262459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855092501:0691/pct:33.14955203308063,76.00458788166429,15.144727773949,2.4086378737541527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ York, afpresald, on the 30th day of January, in the year
 of our Lord 1857, at the Ward, City and County afore  
 said,with force and arme in and up none ifarvey Burdel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857022301:0359/pct:151.54707044107965,188.98588854341068,47.63001974983542,14.254962927529299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857022301:0359/pct:50.515690147026554,62.99529618113689,15.876673249945139,4.751654309176433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ aforesaid, on the 30th day of January, in the
 year of our Lord, 1857 at the ward, city and  
 county atoresaid, with force aud arms, in an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1857032001:0439/pct:56.43093763502809,6.364524798436355,25.018003744778913,87.85731737112143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1857032001:0439/pct:56.43093763502809,6.368596791269647,25.022804743386626,87.85731737112143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ lots number two and number thirty-one Bond stroct in
 said city and county; and that the said Harvey Eure  
 dell being in the city and county aforesaid, on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530558:1857091101:0502/pct:249.39064558629775,199.0149537146926,47.430830039525695,20.887728459530027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530558:1857091101:0502/pct:83.13021519543258,66.33831790489754,15.810276679841897,6.962576153176675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ cath, present that heretofere, to wit; on the 2d day
 of October, in the year 1818, Edward E. Marvine, of  
 the City of New-York, was jointly concerned and in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857112701:0397/pct:148.633969716919,47.76453934174826,46.7083607636603,10.852896071723487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857112701:0397/pct:49.544656572306344,15.921513113916086,15.569453587886768,3.617632023907829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ by covenants of the Corporation already existing,
 shall be for a longer period than ten years.  
 And the durors aforesaid, upon their oath aforesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530601:1858110401:0240/pct:57.491749174917494,88.04437625398324,47.87128712871287,15.508084503717692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530601:1858110401:0240/pct:19.163916391639162,29.348125417994414,15.957095709570957,5.169361501239231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ City and County of Neie YorL. The Jurors of the people of
 State of New York, in and for the body of the City and Coun­  
 ty of New York on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743300:1858110401:0533/pct:243.7315875613748,83.81803779563201,45.237315875613746,3.9606201199502094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743300:1858110401:0533/pct:81.24386252045826,27.939345931877334,15.07910529187125,1.3202067066500698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ The jurors of the people of the State of New York, in
 and for the body of the city and county of New York, upon  
 thea oath, present that they have inquired into the mod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743300:1858122501:0945/pct:103.56397495585166,244.6613856967533,45.0473591266656,3.9495704563204286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743300:1858122501:0945/pct:34.52132498528389,81.5537952322511,15.0157863755552,1.3165234854401429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ at the city and county of New York aforesaid, on the 10th
 day of November, in the year of our Lord one thousand  
 eight hundred and sixty one, one lsaac Dayton was a dul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862020501:0297/pct:153.64651773981603,67.38609112709833,45.05584756898817,7.491149937193103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862020501:0297/pct:51.21550591327201,22.46203037569944,15.018615856329392,2.4970499790643674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ York, on the thirteenth day of July, in the
 year of our Lord one thousand sight hundred  
 and sixty three, at the ward, city and county aforesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743452:1863081101:0364/pct:61.864552817508184,135.3491720662347,46.02791659486473,14.974802015838733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743452:1863081101:0364/pct:20.62151760583606,45.1163906887449,15.342638864954909,4.9916006719462445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ and Cnarles Mekay, late of the same place, and Daniel
 Young, late of the same place, and Eben S. Poor, late of  
 the same place, and Samuel P. Jones, late of the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743488:1864052301:0226/pct:94.42205384491375,264.9034038638454,45.606964372078025,10.867065317387304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743488:1864052301:0226/pct:31.474017948304585,88.30113462128182,15.202321457359343,3.6223551057957684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ defrand the Importers&#x27; and Traders Bank and divers other
  persons, to the jurors aforesaid unknown, certain false,  
 forged and counterieited
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174352A:1865090901:0583/pct:101.90132765120472,180.01836336508666,52.057039829536144,17.755078618156777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174352A:1865090901:0583/pct:33.96710921706824,60.00612112169555,17.35234660984538,5.918359539385593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ day of May, in this chrrent year of our Lord one
 hundred and sixty-six, at the said ward, city and coun-  
 to trapg ting and intencding to transact therein the bus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866052401:1317/pct:51.13191489361702,237.713127459163,46.00851063829787,8.882794801478479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866052401:1317/pct:17.043971631205675,79.23770915305433,15.336170212765957,2.960931600492826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -676,7 +676,7 @@ investications they have found reasons to believe the re
 quest of the Court one of necessary precantion. The  
 pressure of prison business, the short torm, and the nea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743567:1866122301:0814/pct:239.0086956521739,20.44654774905958,45.6695652173913,10.544836791651498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743567:1866122301:0814/pct:79.66956521739131,6.815515916353194,15.223188405797101,3.5149455972171664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ County of New-York, upon their oath, Present: That John Kane, late of
 venty-first Ward on the 12th of December, 1896, with force and  
 a pepe of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530856:1867021401:0306/pct:245.89665653495442,263.45054945054943,46.77811550151976,5.285714285714286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530856:1867021401:0306/pct:81.96555217831813,87.81684981684981,15.592705167173252,1.7619047619047619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ house of divers inhabitants of the efy and county of
 Now York, and also near divers public streets and com­  
 mon higways in the said city and county of New Yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743609:1867101601:0184/pct:7.639123102866779,45.02139470336533,49.29173693086003,17.41644500983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743609:1867101601:0184/pct:2.54637436762226,15.007131567788443,16.430578976953345,5.805481669943333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ for the payment of money, being then and there due and
 unsatisiied, and of the kind known as United States  
 Treasury notes of the denomination of $00, and valtie o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869082401:0295/pct:12.519561815336463,262.08596518256047,51.72143974960876,50.34663380064705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869082401:0295/pct:3.131728322568017,65.52149129564012,12.937952632609122,12.586658450161762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,7 +797,7 @@ Justice Dowling is determined to have these mis
 creants brought to punishment. His memory holds  
 the facts of their tortuous career of crime in its ten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206536111:1870070101:0636/pct:341.36328427575523,226.07385079125848,56.00309837335399,14.64958553127355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206536111:1870070101:0636/pct:85.3573503776874,56.51846269781462,14.00348634514817,3.6623963828183874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -822,7 +822,7 @@ tween that day and the day of the taking of this inqui­
 sition, at the City and County aforesaid, with force and  
 arms, unlawfully, willfully, dangerously, imperfectly, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:0020653106A:1870122801:0852/pct:151.26862006875103,75.38673083533861,48.32214765100671,12.925403918872465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:0020653106A:1870122801:0852/pct:50.42287335625034,25.128910278446202,16.107382550335572,4.308467972957488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,7 @@ of New York- to wit, over and upon the public sidewalks in
 certain public streets thereof, known as Greenwich street  
 and Ninth avenue, and which streets were then and ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743725:1870122801:1092/pct:91.21058650547296,137.33562035448827,59.81048848227414,13.802172670097198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743725:1870122801:1092/pct:30.403528835157655,45.77854011816276,19.93682949409138,4.600724223365733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ the county of New York aforesaid, he, the said Edward .
 Anderson, being an attorney and counsel of the Supreme  
 Court of the State of New York, and as such counsellor an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871031001:0749/pct:150.50683829444893,183.79907229324584,45.34191472244569,7.127503111211675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871031001:0749/pct:50.16894609814964,61.26635743108195,15.113971574148565,2.375834370403892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ found, ie oniously did steal, take and carry awa
 again.t the form of the s atute in such cases mande an  
 previded, and against the beace of the people of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1871041501:0576/pct:272.54004576659037,107.75798616222582,49.8093058733791,18.371853378477844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1871041501:0576/pct:68.14800686629792,26.939496540556455,12.454701506770933,4.592963344619461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -924,7 +924,7 @@ being moved and seduced by the instigation of the devil, on
 the 25th day of April, in the year of our Lord 18I, at the  
 inight handward ciy and count atoresad with force and arm in an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871050301:0446/pct:91.16256318278167,98.58092127491835,56.93787705853579,10.339002139880618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871050301:0446/pct:30.387521060927224,32.86030709163945,18.979292352845263,3.4463340466268724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ said steamboats being known and designated by the name
 and title of the Westseld, which boat was, at the date afore.­  
 said, and at the eity and county aforesald, moored at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871090401:0024/pct:154.29946879150066,75.95492289442467,48.35657370517928,11.814946619217082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871090401:0024/pct:51.43315626383355,25.31830763147489,16.11885790172643,3.9383155397390275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -972,7 +972,7 @@ the 10th day of September, in the year of our
 Lord 1871, at the ward, city and county aforesaid, with  
 force and arms, one paper, bill, voucher, document and re-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743762:1871103101:0399/pct:104.36933223413025,86.38999431495168,46.64468260511129,9.198408186469585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743762:1871103101:0399/pct:34.789777411376754,28.79666477165056,15.548227535037098,3.066136062156528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1060,7 +1060,7 @@ further provision for the Government of the county of New
 York,&quot; it was enacted that all liabilities against the county of  
 sew Vork incurred previous to the passar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743762:1871121701:0990/pct:12.701514411333658,42.45594087549744,46.865331379254194,10.437748720864127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743762:1871121701:0990/pct:4.23383813711122,14.15198029183248,15.621777126418065,3.479249573621376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1105,7 +1105,7 @@ troller of the said city of New York and the then President of
 the Board of Supervisors of said county, and that the amounts  
 which should be fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743762:1871121701:0990/pct:106.59501709819247,154.58783399658898,46.81647940074907,40.51165434906197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743762:1871121701:0990/pct:35.53167236606416,51.52927799886299,15.605493133583021,13.503884783020656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1132,7 +1132,7 @@ tully, and of his malice aforethought (and with a
 premeditated design, then and there to effect the  
 death of the said James Fisl), did make an a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872011601:0480/pct:111.10277569392348,47.69253166399767,49.437359339834956,18.576211966807396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872011601:0480/pct:27.786116322701687,11.923132915999417,12.363977485928705,4.644052991701849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1151,7 +1151,7 @@ the city and county of New York, upon their oath pre­
 ent that Henry W. Genet, late of the First Ward of the  
 city of New York aforesaid, on the 14th day of July
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872020601:0554/pct:115.89506172839506,162.42171189979123,51.31172839506173,6.4419922457500745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872020601:0554/pct:28.979355585568204,40.60542797494781,12.830407100135057,1.6104980614375186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1173,7 +1173,7 @@ provision for the Government of the county of New York,&quot;
 passed the 26th day of April, in the year 1840,  
 it was enacted that all liabfities against th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872021101:0510/pct:101.47132586523993,93.03782780227431,46.413643203477676,8.3197957762822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872021101:0510/pct:33.82377528841331,31.01260926742477,15.471214401159227,2.773265258760733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1192,7 +1192,7 @@ for the body of the county of Ainas, upon their oatus, pree
 That Fanny Hyde, late of the county of Kings aforesaid,  
 on the twenty-sixth day of January, in the vear of our Lor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872030601:0792/pct:149.23790589794567,232.0784669463658,49.30417495029821,6.191178138110897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872030601:0792/pct:49.745968632648555,77.35948898212193,16.434724983432737,2.0637260460369657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1213,7 +1213,7 @@ the city of New York, in the county of New York afor­
 ald, on the 10th day of December, in the year of our  
 Lor 1872, at the ward, city, and county aforesaid, wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1873031501:0951/pct:60.99456099456099,238.6914498141264,52.05905205905206,8.802973977695167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1873031501:0951/pct:15.25456665371162,59.6728624535316,13.019821220365332,2.200743494423792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1237,7 +1237,7 @@ habilities against the County of New-York, incurred
 us to the passage of the said act, should be aule­  
 Mayor of the said City of New-York, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531150:1873112001:0664/pct:4.377766847024103,250.16125316747292,48.22101983931792,11.898180142824234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531150:1873112001:0664/pct:1.4592556156747007,83.38708438915765,16.073673279772642,3.966060047608078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1265,7 +1265,7 @@ ork, by which said
 Heath a Smith,  
 ork, ec., at ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531216:1875061001:0728/pct:2.706645056726094,123.46114461258391,48.15235008103728,17.362612356354536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531216:1875061001:0728/pct:0.902215018908698,41.15371487086131,16.050783360345758,5.787537452118178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1290,7 +1290,7 @@ the Sinth edition of the Revised Statutes
 ofthe State of. New roik; ontuled tor ofe  
 against the public peace and publi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877012401:0260/pct:102.31946043757196,241.0625792324536,51.06102977463399,12.008758787599401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877012401:0260/pct:34.10648681252399,80.35419307748454,17.02034325821133,4.002919595866467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1333,7 +1333,7 @@ York in and for the body of the city and county of
 New York upon their oatus present: That for a long  
 time before and untit the time of the encroachment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174402A:1878060101:0816/pct:242.79146141215108,135.41951664386684,45.66502463054187,5.745554035567715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174402A:1878060101:0816/pct:80.9304871373837,45.13983888128895,15.22167487684729,1.915184678522572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1358,7 +1358,7 @@ one Mary Ann Degnan, in the peace of the people
 of our sald state then and there being willully.  
  fetoulously and witof a deliberte and promenitated do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0216/pct:103.16106372303061,233.39114348479592,46.94765010871383,10.995490808185917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0216/pct:34.3870212410102,77.7970478282653,15.64921670290461,3.665163602728639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

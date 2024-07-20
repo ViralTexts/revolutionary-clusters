@@ -207,7 +207,7 @@ had never seen Col. Burr, till he came
 as a member of the Senate. His con  
 duct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026142:00296026827:1837120201:0191/pct:28.036971830985916,47.355691712350854,19.432218309859156,13.140922283134472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026142:00296026827:1837120201:0191/pct:21.043363416244773,35.5207997420187,14.571868809156944,9.851660754595292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ had been forgotten, to run the same course
 and to meet, it is to be hoped, the same  
 fate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881071401:0046/pct:121.8508997429306,195.88536092282078,49.16452442159383,18.31371149958378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881071401:0046/pct:30.46272493573265,48.971340230705195,12.291131105398458,4.578427874895945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ tors bad been forgotten, to run the
 same course and to meet, it is to bo  
 hoped, the sntne fate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1881080401:1064/pct:34.189878383679876,57.829993089149966,14.33895645351118,6.786454733932274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1881080401:1064/pct:34.19641689551458,57.83460032250633,14.332417941676475,6.791061967288643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ again only after the lapse of more than
 half e century when the crimes of itsan­  
 cestor had been forgotten to run the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048479:1891062101:0167/pct:84.71267957526545,76.87167289613772,18.722673329169268,8.019028202514441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048479:1891062101:0167/pct:56.48914571294706,51.25155736776532,12.478525691082305,5.346018801676294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

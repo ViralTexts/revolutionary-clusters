@@ -312,7 +312,7 @@ the genius and advancing the instruction of
 youth, by Robert Dodsley; published at  
 London in 1775. It is divided into twelv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876021601:0154/pct:289.8835516739447,347.20812182741116,42.79475982532751,11.834662799129804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876021601:0154/pct:72.51046786819589,86.80203045685279,10.704533042053523,2.958665699782451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ Down in a Way Most Suitable for Try­
 ing the Genius and Advancing the In­  
 struction of Youth,&quot; Is one of these
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206536962:1898050801:0101/pct:70.26164645820039,63.03106441297396,12.492022973835354,2.855185015989036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206536962:1898050801:0101/pct:70.27228249308658,63.038678239683264,12.486704956392257,2.8589919293436883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

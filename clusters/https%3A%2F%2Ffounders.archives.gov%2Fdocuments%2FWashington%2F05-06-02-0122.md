@@ -44,7 +44,7 @@ part, and by the Sachems and Warriors of the
 said Nations an their part : Which Treaty is in  
 the form and words following, viz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789100701:0001/pct:31.039531478770133,37.99010277883517,25.7393850658858,8.564902931100114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789100701:0001/pct:31.061493411420205,37.99010277883517,25.732064421669108,8.56966121050628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -70,7 +70,7 @@ one part, and the Kin&#x27;gs, Chiefs and Warriors of the said Creek
 nation, whose names are thereunto signed,onthe other part; which  
 Ircaty is in the form and words following :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0003/pct:8.490284005979074,12.007835455435847,26.576980568011958,7.9725759059745345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0003/pct:8.51270553064275,12.007835455435847,26.58445440956652,7.982370225269344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ and mdependcucc of the United States.
 By The Prcfident,  
 |Siowed.) THOMAS JEFFERSOJJ.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790092201:0004/pct:9.070440656159537,24.94490082147866,27.27565133483435,5.830494890803446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790092201:0004/pct:9.078481826954004,24.94490082147866,27.27565133483435,5.845521939491084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ Warriors of the Cherokee Nation, whose names are hereunto
 finned, on the other part; which Treaty is in the Form and  
 Words following
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111901:0002/pct:8.602150537634408,21.020845509448666,28.119908765070054,13.598285602961232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111901:0002/pct:8.618442489410231,21.030586401714398,28.103616813294234,13.598285602961232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ Cherokee nation, wbcje names are hereunto signed, a
 the other part; which treaty is in the form aru  
 words following 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112101:0004/pct:16.995329527763364,50.465337132003796,17.618059159315,27.21747388414055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112101:0004/pct:17.00830306175402,50.47483380816714,17.618059159315,27.236467236467238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

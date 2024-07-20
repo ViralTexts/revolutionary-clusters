@@ -57,7 +57,7 @@ which were made from the fort, to bring
 them back to then* boats, and suffered,  
 themselves to be anuned and drawn int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813052001:0021/pct:77.9007563180225,19.90031152647975,17.708909795240732,6.1433021806853585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813052001:0021/pct:77.88638878642567,19.897832045850983,17.711791466863396,6.1466899244123265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -79,7 +79,7 @@ t &gt; the enemy, they leinaiucdMipou the &gt;
 ground, in spite of repeated calls* which)  
 were made troni the fort, to bring them 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813052001:0158/pct:58.039706671436235,16.62092829018017,17.0094795206582,4.450542894642644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813052001:0158/pct:58.02932761087268,16.618945359102838,17.01239866475918,4.45398870595721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ ment arrived to tbe^ljmnyj theyssremained upon
 the ground, in spitelrtjlisrepeated calls which  
 were made from the fort, tobiiug jthera back t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813052901:0485/pct:51.997023071198214,44.71836734693878,21.036963532622178,5.485714285714286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813052901:0485/pct:51.98412698412698,44.71106758080313,21.037946428571427,5.488899771465883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ CALLS WHICH WE MADE ACROSS THE RIVER TO
 BRING THEM BACK, SUFFERED THEMSELVES TO  
 BE AMUSED AND DRAWN INTO THE WoOoDS B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840091501:0565/pct:19.750915750915752,85.14503974398679,14.827838827838828,4.707339733663673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840091501:0565/pct:19.750915750915752,85.1519218196208,14.837606837606838,4.700457658029662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

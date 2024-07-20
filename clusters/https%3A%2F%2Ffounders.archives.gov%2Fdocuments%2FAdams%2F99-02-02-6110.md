@@ -288,7 +288,7 @@ Is a bold spirit in a loyal breast,
 Mine honor is my life; both grow in one;  
 Take honor from me, and my life iB done. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340172:1855071401:0114/pct:2.4415405777166437,82.26790450928382,12.4828060522696,13.116710875331565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340172:1855071401:0114/pct:2.4411208526731993,82.25699509348892,12.484957882069795,13.11828669937674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ lings of his heart were the firstlings of
 his hand. When he went to lowa, a  
 young man of 24, the railroads had no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152639:1896062501:0576/pct:20.185720809864517,17.050789586000853,14.3553052214949,3.371745625266752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152639:1896062501:0576/pct:20.185720809864517,17.054346279698393,14.360379560562237,3.3788590126618296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -69,7 +69,7 @@ and manner, neither unfavorable to a dispassionate
 n soh, oor unworthy of the great and advancing cause !  
 of Representative Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828030101:0076/pct:42.17676452217364,69.47733524698003,17.59837601499063,18.263365626121278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828030101:0076/pct:42.17017954722873,69.46902654867256,17.600832682799897,18.265167822689946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ unfavorable to a dispassionate rrsul , nor un»
 Worihy &lt;&gt;! the great and advancing cause of  
 Rrpre»tntatiie Governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216390:1828030401:0224/pct:5.143747835122965,71.48725383593089,18.91236577762383,15.077926785067053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216390:1828030401:0224/pct:5.142857142857143,71.47861802367721,18.914862914862915,15.080132076991221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ to a dispassionate result, nor unworthy of the
 great and advancing cause of Representative Gov­  
 ernment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828030401:0412/pct:81.2198261989057,34.1712204007286,15.513356935951078,17.510625379477837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828030401:0412/pct:81.20675784392598,34.167071393880526,15.516224188790561,17.512546543629593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ favorable to a dispassionate refill, not miwor­
 thy of the great niul adva•icing &lt; iu,e of uepre­  
 sentutive Govermm u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1828030601:0658/pct:6.289825282631038,5.490196078431373,25.38540596094553,91.6485112563544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1828030601:0658/pct:6.288532675709002,5.489398780133604,25.385326757090013,91.6388324135928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ conducted in a spiritand manner, neither unfavor­
 able to ardispassionate result, nor unworthy of the  
 great and advancing cause of Representativ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828031001:0456/pct:2.869287991498406,27.728067468888202,17.018369515712767,18.543659364393704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828031001:0456/pct:2.869287991498406,27.728067468888202,17.023429988360913,18.547087661558503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ to a dispassionate result, nor unworthy of
 the great and advancing cause of Repre­  
 sentative Government. With great es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1828031101:0007/pct:22.350230414746544,21.078569417065616,22.37327188940092,33.97634469163616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1828031101:0007/pct:17.321428571428573,16.342936126873273,17.357142857142858,26.32765895533246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ increasing years.’’
 Mr. Monroe says:  
 “ After the long and laborious service i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828031201:0564/pct:104.02671380868199,69.88258593860517,19.013946179532507,10.12873107936059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828031201:0564/pct:80.62109910184199,54.15874872094723,14.746029329679809,7.857038444671832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ passionate result, nor unworthy of
 tlm great and advancing cause of re­  
 presentative gov eminent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1828031201:0694/pct:19.19334866442597,47.95846943537097,17.7958606049885,30.436304246383575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1828031201:0694/pct:19.199245238516422,47.95846943537097,17.807653753169408,30.44797013532431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ x dispassionate result, nor unworthy of the
 threat advancing cause of Representative  
 liovernment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1828031201:0046/pct:1.4492753623188406,49.27344782034346,14.902331442974164,27.454865697930426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1828031201:0046/pct:1.449047094030556,49.26802421574023,14.905234420118655,27.45551274995414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ able to a dispassionate result, nor un­
 worthy the great and advancing cause  
 of Representative Governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828031301:0477/pct:57.13668754048802,41.89623828835128,17.922694882314836,30.876800447489863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828031301:0477/pct:57.12435233160622,41.8903803131991,17.92422279792746,30.87597874720358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1057,7 +1057,7 @@ vorable to a dispassionate result, nor unworthy
 of the great and advancing cause of Representa­  
 tive Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840090901:0480/pct:51.21713729308666,40.88977047322187,14.001947419668939,17.55454803060357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840090901:0480/pct:51.21713729308666,40.89921601964674,14.014930217461863,17.559270803816002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

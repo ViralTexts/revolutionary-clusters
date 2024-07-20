@@ -3024,7 +3024,7 @@ resembling that of the Mother Country, as. by his
 Majesty’s Royal Predeceflors was tho’t conveni­  
 ént ; and these Legislatures seem to have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766042501:0574/pct:64.6304347826087,78.33727111636149,28.369565217391305,12.315416420555227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766042501:0574/pct:64.6376811594203,78.34711557393187,28.3768115942029,12.325260878125615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3050,7 +3050,7 @@ greatly detrimental to the Commercial Interests
 of these Kingdoms 3 AMay it therefore please your  
 most Excellent Mayefly, that it may be enalled 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766052201:0590/pct:64.73224288595115,71.37296002395568,29.150795429083576,11.378948944452763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766052201:0590/pct:64.74718052132347,71.37296002395568,29.150795429083576,11.383939711533662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3071,7 +3071,7 @@ Things therein contained, shall be, and is, and
 are hereby repealed and made void to all Intents  
 ‘and Purposes whatsoever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766052201:0590/pct:64.59780416760027,85.46189549333732,29.173201882142056,6.7674801617008535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766052201:0590/pct:64.60527298528643,85.47187702749913,29.180670699828216,6.7674801617008535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3107,7 +3107,7 @@ Things therein contained, shall be, and is, and
 are heteby repezled and made void to all Intents  
 and Purposes whatsoever. - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766053001:0595/pct:5.639344262295082,26.667648358121042,29.15846994535519,20.703872772787513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766053001:0595/pct:5.646630236794171,26.667648358121042,29.151183970856103,20.708781230059394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3160,7 +3160,7 @@ now (in year 1752) about fix times that number,
 In those days we had not only our Naval Stores,  
 but our Ships from our Neighbours : Germao
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1767111301:0896/pct:63.753213367609256,24.02437255186421,28.170522707797772,8.51588568112578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1767111301:0896/pct:63.76035418451871,24.034044199429374,28.170522707797772,8.52072150490836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3192,7 +3192,7 @@ for exportation, which is as great an emolument
 to the Mother-kingdom, as to the Plantations  
 themselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1767111301:0896/pct:63.81748071979435,48.135789931814884,28.14910025706941,16.49499492238503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1767111301:0896/pct:63.83176235361325,48.135789931814884,28.163381890888317,16.49983074616761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3481,7 +3481,7 @@ tyrants {tarved thein to death or submission. This
 may be called the most perfe@ kind of political  
 neceflity. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768012901:0018/pct:37.18972587955968,32.41340467473951,28.663932657025686,34.483244156575616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768012901:0018/pct:37.18972587955968,32.418098188303766,28.68551694366501,34.483244156575616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3530,7 +3530,7 @@ tyrants starved them todeath or submission. This
 may be called the most perfe&amp; kind of political  
 neceflity. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768020501:0022/pct:37.23885418910187,34.6918629248343,28.81757484385096,32.22394584684812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768020501:0022/pct:37.23885418910187,34.6918629248343,28.83193337640893,32.22394584684812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3549,7 +3549,7 @@ gious quantitics, and employ mear tavo thirds of all our
 Engliyh fbitping ; oo that we have more people in England  
 Ly reajon of our plantations in America,” Idem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768031101:0045/pct:64.81121898597627,55.772198064244634,28.241639697950376,4.166082199466966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768031101:0045/pct:64.82560230133046,55.77687380184224,28.234448040273282,4.175433674662178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3571,7 +3571,7 @@ their increment and advantage, ai every ome they cam
 offibly reap mufl at leafl vetirn to us awith interefl.”  
 e ,P ¢ Beawes’s Lex Merc. Red
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768031101:0045/pct:65.04854368932038,65.04418572029738,28.09061488673139,6.634871651002945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768031101:0045/pct:65.06292700467458,65.0535371954926,28.097806544408485,6.625520175807734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3605,7 +3605,7 @@ Poftlethwayt’s Univ. Di&amp;. of Trade &amp; Com.
 us more or less, in divers of our flaple manufaßures,  
 awithin balf a century, not only in our awoslen, bat in ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768031101:0045/pct:65.0269687162891,71.76322064805723,28.220064724919094,16.832655351381682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768031101:0045/pct:65.0341603739662,71.77257212325244,28.234448040273282,16.832655351381682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4665,7 +4665,7 @@ and as the Commons of Great Britain in Parliament
 sflembled, do enjoy a constitutional Right of humbly  
 petitioning his Maj sty as the common Father of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769021001:0233/pct:35.05503810330229,41.98271054099275,27.815410668924642,23.07585052983826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769021001:0233/pct:35.06915043748236,41.98271054099275,27.808354501834604,23.08049823387247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4690,7 +4690,7 @@ the Crown ordinarily exercised for Prorogations er Dis­
 solutions only extepted )  
 R fslved, That it is thie Opinion of this Committee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769021001:0233/pct:35.266723116003384,69.26938092582265,27.667231160033868,9.39765755716676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769021001:0233/pct:35.266723116003384,69.27867633389106,27.674287327123906,9.393009853132552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4862,7 +4862,7 @@ east part, to the south sea on the weft part
 with the Islands, &amp;c. Provided alz ays that  
 the said islands, or any the prrmifes, by sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772060401:0249/pct:6.99205448354143,90.68786045857364,27.96821793416572,12.420874947249965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772060401:0249/pct:5.43044804128548,70.2859842290781,21.66901243255923,9.629710381917947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4978,7 +4978,7 @@ diately, from this original —Should the/
 be able to effect a fubmiflion to their ads,  
 so repugnant to the interest and happwtfs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773040101:0406/pct:93.06184012066365,42.00601257174091,27.149321266968325,11.61519540858158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773040101:0406/pct:72.13470637350403,32.554363174244564,21.040912886167547,9.005224512849477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5789,7 +5789,7 @@ Majesty’s government of the province, and
 the protedtion and preservation of the inha­  
 bitants thereof : To the intent that the in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774030301:0541/pct:8.07563959955506,74.25990271021543,28.008898776418242,11.146629603891592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774030301:0541/pct:6.2701149425287355,57.55421513715353,21.695402298850574,8.634927473790032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5809,7 +5809,7 @@ the inhabitants there according to such aft* a* are or Ihall be
 in force within our laid province ; and to dispose of matters  
 and things whereby our (übjeAs, inhabitant* of our sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774030301:0543/pct:8.013468013468014,89.63730569948187,27.67676767676768,4.831256126592915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774030301:0543/pct:6.216294578138591,69.47509315197337,21.449695563931574,3.7441666968129366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5827,7 +5827,7 @@ Defence and Support of his Majesty&#x27;s Government as the Pro­
 vince, and the Rroteétion and Preservation of the Inhabitants  
 thereof : Tolthe Intent, that the Inhabitants of this his Majes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774031101:0207/pct:64.72868217054264,74.62579159470351,25.796726959517656,2.8785261945883707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774031101:0207/pct:64.73585989089865,74.6353866820188,25.80390467987367,2.8785261945883707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5973,7 +5973,7 @@ merce of his Majesty’s fubjerts cannot be fafely car­
 ried on there, nor the customs payable to his Maief­  
 ty duly collected ; and it is therefore expedient tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774051201:0585/pct:7.248975409836065,6.153846153846154,94.69774590163935,44.166666666666664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774051201:0585/pct:5.624669137109581,4.773338853239495,73.40524086818422,34.22893810805216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5996,7 +5996,7 @@ said town of Bollon, that the trade of Great Britain
 may fafely be carried on there, and his Mujctty’s  
 Customs duly collerted, and his Majcfty, in hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774051201:0585/pct:83.68340163934427,71.34615384615384,35.220286885245905,9.599358974358974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774051201:0585/pct:64.86897829539438,55.29290002069965,27.296188459502382,7.451873318153591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6020,7 +6020,7 @@ our, the commerce of his Majesty’s fub­
 jeéts cannot be fafely carried on there, nor  
 the customs payable to his Majesty duly col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774052001:0252/pct:7.494356659142213,32.49448123620309,27.539503386004515,9.683590875643855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774052001:0252/pct:7.5018811136192625,32.49448123620309,27.547027840481565,9.683590875643855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6046,7 +6046,7 @@ ried on there, and his Majesty’s customs duly
 colleéted, &amp; his Majesty in his privy council,  
 shall adjudge the fame to be true, it shall 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774052001:0252/pct:66.04966139954853,81.00073583517292,27.742663656884876,11.287711552612215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774052001:0252/pct:66.04966139954853,81.00073583517292,27.76523702031603,11.287711552612215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6082,7 +6082,7 @@ continue.
 The upper aCembly yesterday, went through the bill for  
 regulating the government of Quebec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774070701:0614/pct:65.58049201553733,55.20776380535812,26.219249028916703,16.593767085839257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774070701:0614/pct:50.830638867209274,42.78954802259887,20.33671535288215,12.860169491525424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6110,7 +6110,7 @@ Merchants and Master Manufa&amp;turers, or we thall have Work­
 men and poor People put out of Employ, and turned adriit in  
 that Proportion, Thefc are some of the Difiiculties and Dif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774071501:0284/pct:9.34173365196611,52.853881278538815,26.852053008907234,9.503424657534246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774071501:0284/pct:9.34173365196611,52.853881278538815,26.859294662901007,9.503424657534246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6128,7 +6128,7 @@ tended with many inconvenicncies, and might be
 productive of consequences greatly detrimental  
 to the conmercial interest of Great-Britain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774112401:0665/pct:37.036242762170275,37.603699170406635,27.042676388591037,3.6583707330341357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774112401:0665/pct:28.714681440443215,29.146611390225907,20.96398891966759,2.8387731440817903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8498,7 +8498,7 @@ He then defines human, or municipal
 law, ** to be a rule of civil conduét prefer­  
 “ bed by the supreme power in a State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0075/pct:4.042945814460661,24.91005291005291,27.747022311692668,14.931216931216932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0075/pct:4.042945814460661,24.91358024691358,27.763798020466364,14.931216931216932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9867,7 +9867,7 @@ law “ being coeval by mankind and die
 “ and all their authority, either mediately  
 ” or immediately,, from this original.” A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813061801:0057/pct:21.768078416867024,32.53505397692021,17.421860551137414,5.124705298424122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813061801:0057/pct:21.76405325443787,32.531017369727046,17.424802761341223,5.128205128205129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9922,7 +9922,7 @@ gate* to ivh &#x27;sc charge &gt;v rznrndtecl /.&#x27;•••
 ![fe But since tint c .n hardly r,e expect­  
 ed &gt;n persons ol ii.l.g.nt fortunes, or sue!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816071301:0080/pct:21.604735284445905,15.28264132066033,15.669187767181848,11.730865432716358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816071301:0080/pct:21.60118362650008,15.280730273852695,15.67209162145871,11.733566754199492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10357,7 +10357,7 @@ viduals, whose wiils may be supposed inde­
 pendent, more thoroughly upou e level with  
 each other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824090901:0759/pct:7.438955139125497,44.156908665105384,20.87828885103161,18.091334894613585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824090901:0759/pct:7.4515742318127325,44.16471506635441,20.865669758344374,18.091334894613585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10753,7 +10753,7 @@ selves out of this kingdom of England
 into America j but also, since their arri­  
 val ‘there, after their first settlemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833111901:0587/pct:48.42819324950364,49.91162955107812,15.271343481138318,15.859549899846824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833111901:0587/pct:48.43922347231414,49.91555712658576,15.265828369733068,15.863477475354463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10773,7 +10773,7 @@ people of this Our realm of England, or
 any corporation or body politic within  
 the same, may lawfully do. Aund fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833111901:0587/pct:79.10324288550629,28.066454577589255,14.70880211780278,4.559915164369035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833111901:0587/pct:79.10324288550629,28.074309728604533,14.72534745201853,4.563842739876674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11046,7 +11046,7 @@ venient for the general goot| of the colony.
 Unto which we promisy all due submission  
 and obedience.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1834082101:1157/pct:57.08757637474542,25.311668300882477,17.25050916496945,12.760890881075781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1834082101:1157/pct:57.07595194461413,25.30812324929972,17.252087151293015,12.762605042016807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11216,7 +11216,7 @@ dome: May it therefore please your
 Most Excellent Majesty that it may be  
 enacted, and be it enacted by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1837042701:0672/pct:16.268723120272874,48.391451068616426,12.768797271244253,4.656917885264342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1837042701:0672/pct:16.266310794780544,48.38600832302328,12.771846579675762,4.660143215986203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11236,7 +11236,7 @@ therein contained, shall he, and is, and
 are hereby repealed and made void, to  
 all intents and purposes whatsoever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1837042701:0672/pct:16.22423253744624,55.72553430821147,12.724306688417618,3.4308211473565806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1837042701:0672/pct:16.221826809015422,55.719266674164885,12.727362593910637,3.434184381209463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11708,7 +11708,7 @@ their force and all their authority, mediately or
 immedintely, from this origiaal.- Upon these two  
 foundations, the law of nature and the law of reve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1841032301:0771/pct:181.7898832684825,240.9893010976796,71.284046692607,22.842851187995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1841032301:0771/pct:45.45631445806577,60.2473252744199,17.824479470714145,5.71071279699875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11815,9 +11815,9 @@ whereof we have hereunto subscribed our names, at Cape Cod, the
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1841-12_9_42/page/n55/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1841-12_9_42/page/n55/mode/1up?view=theater)
 
-#### 1841-12-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1841-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -11870,7 +11870,7 @@ for the general good of the colony ; into which
   
 wc promise all due submission and obedience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1842011501:0614/pct:45.94519015659955,59.427207637231504,19.40715883668904,6.34162973065121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1842011501:0614/pct:34.47552447552447,44.57324695988181,14.55944055944056,4.761904761904762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11890,7 +11890,7 @@ human laws are of any validity if contrary to
 this;&quot; if such human laws as are vald derive all  
 their force and all their authority from this origin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842021401:0481/pct:269.3861693861694,328.53272493939824,56.02175602175602,11.350349351204905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842021401:0481/pct:67.35962696716534,82.13318123484956,14.008160093258208,2.837587337801226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11936,7 +11936,7 @@ man nature, by the hnnd of tho Divinity itself;
 and can never be erased or obscured by mortal  
 J power.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1842061601:0264/pct:81.6821310984735,71.82228557852221,15.160131697096677,3.670705630791162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1842061601:0264/pct:81.66990872362712,71.8137546026844,15.162851015013217,3.6742289266342003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12096,7 +12096,7 @@ all due subjection and obedience. In witness whereof we
 have hereunto subscribed our names, at Cape Cod, the 11th  
 fay of November, in the year of the reign of our Sovereig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842122301:0506/pct:55.59157212317666,108.4616985845129,48.033004272874614,21.357202331390507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842122301:0506/pct:18.530524041058886,36.15389952817097,16.01100142429154,7.119067443796836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12180,7 +12180,7 @@ tives, met and convened in general assembly.
 Sundry other provisiens relative to the forms of  
 election, government and legislation, (amon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1843022301:0714/pct:56.196994494866836,88.13227567734624,50.09671179883946,39.095498094158856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1843022301:0714/pct:18.732331498288946,29.377425225782083,16.698903932946486,13.031832698052952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12256,7 +12256,7 @@ by any Christian prince, or inhabited by a Chris-
 tian people; with authority to establish govern  
 ment and laws over those who should inhabi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843032901:0102/pct:3.525264394829612,173.41064402567818,49.309635722679204,6.823358873472769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843032901:0102/pct:1.1750881316098707,57.803548008559396,16.436545240893068,2.274452957824256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12278,7 +12278,7 @@ cords; they are written as with a sunbeam, in
 the whole volume of human nature, by the hand  
 of the Divinity itself, and can never be erased b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1843040801:0662/pct:53.061934585942936,111.46288209606988,23.086290883785665,7.164301310043668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1843040801:0662/pct:39.82593559617058,83.5971615720524,17.31940818102698,5.376637554585153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12301,7 +12301,7 @@ the whole volume of 11 man nature, by the hand
   
 of the Divinity itself. j&amp;e vu. never be increased by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843061401:0523/pct:86.87807545106615,53.98868301342505,19.8332422088573,4.637745478752913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843061401:0523/pct:65.16746411483254,40.497059802507486,14.887218045112782,3.4727615666259846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12433,7 +12433,7 @@ sion and obedience. In witness whereof, we have hereunder
 suWribed cur names, at Cape Cod, the 11th of November,  
 in the year of the reign of our sovereign lord, King James, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845041201:0133/pct:66.16680948300485,48.3996120271581,15.495572693516138,8.750942989546287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845041201:0133/pct:66.16680948300485,48.406796709415524,15.50033323812244,8.750942989546287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12457,7 +12457,7 @@ advocates of Slavery have attempted to justify it
 by the Word of God. They have said, for in­  
 stance, that Slavery existed in the times of Chris
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845050201:0070/pct:192.7962819519752,52.34230385874982,56.00309837335399,19.25103232236936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845050201:0070/pct:48.22708777368727,13.085575964687456,14.008913001356326,4.81275808059234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12591,7 +12591,7 @@ all due submission and obedience: In witness
 whereof we have hereunder subscribed our  
 names at Cape Cod, the 11th of November
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1846010601:0013/pct:276.50111193476647,284.03964947565004,51.44551519644181,63.0369199827611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1846010601:0013/pct:69.16373076209902,71.00991236891251,12.868533283886519,15.759229995690275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12750,7 +12750,7 @@ same territory, limits and places aforesaid, and of all other
 the premises, saving always the faith, and allegiance and  
 sovereign dominion to us, our heirs and successors, for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846081001:0238/pct:46.113908118313404,244.54329774614473,41.25235997482694,6.085409252669039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846081001:0238/pct:15.371302706104467,81.51443258204824,13.750786658275645,2.0284697508896796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12773,7 +12773,7 @@ successors, for the same ; to have, hold, pos­
 sess and enjoy the said territories, limits, and  
 pi ices, and all and singular other the premise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846082101:0408/pct:68.28641039523552,6.8287485470747775,19.66702761234434,6.586594343277799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846082101:0408/pct:51.225125219981045,5.123982952344052,14.75565182076621,4.939945757458349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12859,7 +12859,7 @@ asserts that bad laws are void, without touch­
 ing the question of tlio remedy in such case,  
 or whether Judges may declare and treat the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1847040201:0354/pct:101.6373801916933,84.0323081702392,18.450479233226837,10.857409133271203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1847040201:0354/pct:76.2532454563611,63.031997514756135,13.84062312762133,8.139173656415036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12900,7 +12900,7 @@ Lby the hand of the Divinity itself; and can
 never ba erased oi obscured by mortal pow­  
 er. Hampden Peat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1847060401:0458/pct:53.349514563106794,50.764006791171475,22.936893203883496,5.695323352369193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1847060401:0458/pct:40.04371053909665,38.07686371353604,17.217095677513356,4.2753511344343265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13011,7 +13011,7 @@ general good of the colony ; unto which wo promise all due
 siiDiius.iiou ana ODeaieace.&quot;  
 And the inhabitants of Oregon, three thousand mile
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848011401:0060/pct:62.41493907263808,49.45123472187578,15.413831302421269,6.0863058119231725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848011401:0060/pct:62.41493907263808,49.4595493473019,15.419106398691776,6.0863058119231725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13106,7 +13106,7 @@ have no will of their own, are excluded from voting, in
 order to set other individuals, whose wills may be supposed  
 independent, more thoroughly upon a levd with cach oth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848051601:0292/pct:65.94139831737743,33.10883044686765,14.360313315926893,10.594398118451998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848051601:0292/pct:65.94623343970602,33.11595752262846,14.369983560584084,10.590834580571592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13328,7 +13328,7 @@ civil body politic for onr better ordering and preservation
 and furtherance of the ends aforesaid, etc.*&#x27; The signa­  
 tures of all the men in the company were attached to thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849083001:0164/pct:45.127027414956224,26.36645630548722,12.745801636285345,4.545940742325382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849083001:0164/pct:45.127027414956224,26.37358719292616,12.750586096359026,4.545940742325382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13417,7 +13417,7 @@ All valid laws derive all their force and all their au-
 vit te li tale ttedietel ta  
 thority, mediately or immediately, from this ori
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1850040601:0538/pct:128.21512081060015,9.945241971289034,104.3647700701481,382.89181589462777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1850040601:0538/pct:32.06627680311891,2.4863104928222586,26.101364522417153,95.72295397365694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13438,7 +13438,7 @@ at all mimes. No haman laws are of any validity if con
 wary to this and such of them as are valid derive ill their  
 force and all their authority mediately or immediately tro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850040901:0605/pct:2.4499599679743795,268.63884691386727,42.257806244996,8.578402882715332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850040901:0605/pct:0.8166533226581265,89.54628230462242,14.085935414998666,2.859467627571777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13488,7 +13488,7 @@ no human Ioks are qf any validity if contrary to this; and
 such of tlici i as are valid, derive all their force and authority,  
 mediately o. Immediately from this original.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850043001:0337/pct:20.014619883040936,25.704761904761906,15.847953216374268,2.5047619047619047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850043001:0337/pct:20.024366471734893,25.711111111111112,15.857699805068226,2.507936507936508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13592,7 +13592,7 @@ this; and such of them as are valid, derive
 all their force and all their suthority, me.  
 diately, or immediately from this original.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022363:00200290148:1850062001:0105/pct:175.12,298.8840946287755,51.84,16.366612111292962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022363:00200290148:1850062001:0105/pct:43.78,74.72102365719387,12.96,4.091653027823241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13811,7 +13811,7 @@ which we pren ise all due submission and obedience.
 In witness whereof we have hereunder subscribed our names  
 at Cape Cod, the 11th at November, in the year of the reiga o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743026:1850122401:0897/pct:49.266862170087975,82.97263254322684,52.1505376344086,31.432497423565785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743026:1850122401:0897/pct:16.422287390029325,27.657544181075615,17.38351254480287,10.477499141188595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13865,7 +13865,7 @@ as shall be thought most meet and convenient
 for the general good of the colonv. unto which,  
 ! we promise a!! due submission and obedience.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1850122701:0233/pct:21.611218036843553,83.64266775443606,12.418660067821465,8.817730641104086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1850122701:0233/pct:21.60923753665689,83.63698164513936,12.420576735092864,8.819397235440743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13944,7 +13944,7 @@ globe, in all countries, and at all times; no human
 lomes are of any ralidity if contrary to this and  
 such of them as are valid, derive all their forc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530327:1850122801:0814/pct:55.35486225141398,73.68094351334575,48.4765553731071,12.004965859714464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530327:1850122801:0814/pct:18.451620750471324,24.560314504448584,16.158851791035698,4.001655286571488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13961,7 +13961,7 @@ and all their authority, mediately or immediately,
 from this original.The truth is that the princi  
 ple is too plain to be gainsaid. Take any illustra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530327:1850122801:0814/pct:54.91698595146871,84.97827436374922,48.22112753147236,5.26381129733085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530327:1850122801:0814/pct:18.305661983822905,28.326091454583075,16.073709177157454,1.7546037657769502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13994,7 +13994,7 @@ time, ai shall be thought roost meet and convenient for the ge­
 neral good of the colony ; unto which we promise all due sub­  
 mission and obedience.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850122801:0478/pct:20.21000954588845,35.863317010858,15.57343515614346,8.49478390461997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850122801:0478/pct:20.21000954588845,35.8668653750621,15.582526478476295,8.498332268824072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14027,7 +14027,7 @@ time to time, as shall be thought most meet and convenient
 fo? the general good of the colony; unto which we promise  
 all due submission and obedience.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850123101:0613/pct:63.95298215063126,62.9817158931083,15.84675663909447,7.238631036099391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850123101:0613/pct:63.957819377932566,62.984841381465856,15.84675663909447,7.238631036099391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14067,7 +14067,7 @@ In witness whereof we have hereunder suh-
 scribed our namies at Cape Cod, the 11th of  
 November, in the year of the reign of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1851010201:0002/pct:164.02930402930403,111.7208386098213,101.53846153846153,50.54171943154636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1851010201:0002/pct:41.02986989188199,27.930209652455325,25.398570643210554,12.63542985788659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14194,7 +14194,7 @@ and convenient for ihe general good of ihe
 colony unto which we promise all due  
 submission and obedience.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1851011601:0453/pct:42.197035745422845,37.35433750539491,13.092124382446963,4.887785930082003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1851011601:0453/pct:42.197035745422845,37.35793411019997,13.092124382446963,4.898575744497195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14259,7 +14259,7 @@ selves together into a civil body politic
   
 U,e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1851011601:0453/pct:42.167974426038946,27.46007768666379,26.082534147050275,24.492878722485973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1851011601:0453/pct:42.172817979269595,27.467270896273916,26.087377700280925,24.500071932096102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14283,7 +14283,7 @@ thority, mediately or immediately, from this
 original.&quot; The truth is that the principle is  
 too plain to be gainsaid. Take any illustra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172170:1851011601:0035/pct:73.00490414623272,34.702489801659866,22.336156932679447,7.131804754536503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172170:1851011601:0035/pct:56.59084365102217,26.901413568807005,17.30492369709185,5.53072422689778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14320,7 +14320,7 @@ thought most meet and convenient for the gene­
 ra! good cd the colony; unto which we promise  
 all due submission and obedience.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851011701:0029/pct:21.93877551020408,44.31937172774869,17.157434402332363,15.418848167539267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851011701:0029/pct:16.46012538270885,33.246073298429316,12.873596734217816,11.557591623036648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14429,7 +14429,7 @@ and of such of them as are vatid, derive all their
 force, and all their authority, mediately or imnme­  
 diately, from the original.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1851032001:0047/pct:31.841526045487896,309.3865905848787,205.8694057226706,34.29386590584879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1851032001:0047/pct:7.960381511371974,77.34664764621968,51.46735143066765,8.573466476462198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14468,7 +14468,7 @@ all the globe, in all countries, and at all times.
 I No human laws are of any validity if contrary to &#x27;his ;  
 and such of them as are valid derive all thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851091101:0384/pct:17.771345875542693,23.860958366064416,14.848046309696093,3.8393558523173605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851091101:0384/pct:17.78099372889532,23.86423147420791,14.843222383019778,3.8393558523173605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14484,7 +14484,7 @@ and such of them as are valid derive all thei
 force and all their authority, mediately or imme!  
 diately, from this original
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851091101:0384/pct:17.930535455861072,27.50392772977219,13.01013024602026,1.1390416339355853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851091101:0384/pct:17.935359382537385,27.51047394605918,13.01013024602026,1.1390416339355853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14546,7 +14546,7 @@ ted in them by the immutable laws of
 nature.  
 as the Whigs expected. We expecte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022363:00200290148:1851103001:0413/pct:55.261106780982075,265.0768567734521,51.13016367887763,19.82473782502514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022363:00200290148:1851103001:0413/pct:13.815276695245519,66.26921419336303,12.782540919719407,4.956184456256285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14595,7 +14595,7 @@ mission and obedience. In witness whereof we
 I herevnder subscribed our names Cape Cod.  
 11th of Novemlier, in the yeare of the raigne o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851112701:0435/pct:28.540955631399317,46.6432474629196,15.187713310580206,10.489851678376269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851112701:0435/pct:28.540955631399317,46.64975279729378,15.20193401592719,10.486599011189176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14646,7 +14646,7 @@ al gets! ef the colony. Unto which we
 promise all due subjection aud obedi­  
 ence.&quot; . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557487:1851122501:0135/pct:83.88476254782805,68.00814281240213,14.269637632230475,11.14938928906984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557487:1851122501:0135/pct:83.89976742441293,68.01336256394195,14.284642508815365,11.14938928906984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14850,7 +14850,7 @@ rogated by any writen enactments.”—[Cicero.
 “ Neither the Senate nor the people can give  
 us any dispensation for not obeying this univer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1852121701:0405/pct:82.72502544714266,32.054250744293746,12.883524792787552,6.6600507222406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1852121701:0405/pct:82.73471959672338,32.054250744293746,12.873830643206825,6.667401771602896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14885,7 +14885,7 @@ colony; unto which we promise all due submission and
 obedience.&quot;  
 This crude but mibllme theory of free government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853073001:0866/pct:16.623334416639583,26.790417659601154,15.599610009749757,9.60742505957607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853073001:0866/pct:16.623334416639583,26.79877921317781,15.605026541003141,9.60742505957607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14925,7 +14925,7 @@ time to time, ar shall be thought most convenient for
 the general goed of the colony. Unto which we  
 promise all due submission and obedience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853080101:0251/pct:140.8783783783784,239.97703788748564,55.523648648648646,38.48450057405281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853080101:0251/pct:46.95945945945946,79.99234596249522,18.507882882882882,12.828166858017605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15001,7 +15001,7 @@ proceeded. &quot;The sacred rights
 &quot;They are written, as with a sunbeam, inthe wholey  
 of Human Nature, and can never be er
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653042A:1853091601:0110/pct:2.579034941763727,81.43408981168518,48.10316139767055,14.558184451955578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653042A:1853091601:0110/pct:0.8596783139212424,27.14469660389506,16.03438713255685,4.852728150651859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15141,7 +15141,7 @@ such just and equal laws, ordinances, acts, constitutions,
 und offices, from time to time, as should la1 thought most  
 convenient for the general good of the colony.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854052101:0700/pct:0.5780346820809249,38.91419893697798,15.342691990090835,6.466717286762845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854052101:0700/pct:0.5780346820809249,38.922635619674345,15.364712358932012,6.466717286762845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15806,7 +15806,7 @@ Hinil law slalt aliow of rettire us to connit
 coeval with mankind, and dictated by God  
 himself, is of course superior to any other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856110701:0179/pct:287.6058506543495,286.8801191362621,43.26404926866821,8.041697691734921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856110701:0179/pct:71.9291490180978,71.72002978406553,10.820177127454755,2.0104244229337302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15865,7 +15865,7 @@ we promise all due submission and obedience.&quot; The
 caretulness in regard to justice and equity with  
 which this instrument was framed, and the icalous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857040901:0829/pct:193.02026375040205,49.871061778226256,47.92537793502734,13.68987554658594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857040901:0829/pct:64.34008791680068,16.623687259408754,15.975125978342447,4.56329184886198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15888,7 +15888,7 @@ meet and convenient for the generalgood, unto which
 we promise all due submission and obedience. The  
 carefulness in regard to justice and equity wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857040901:0830/pct:193.1355252606255,49.88804299149127,50.104250200481154,12.304075235109718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857040901:0830/pct:64.3785084202085,16.629347663830423,16.70141673349372,4.101358411703239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15969,7 +15969,7 @@ prinilegef Natural libsity is the gift of the benetle
 llsend one  Biut let men, howover gifted, speak to  
 Hamilt  they would be set down as madmen, knav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530558:1857072901:0195/pct:149.00214415305953,139.24169503462846,49.87629886194953,17.86594670736002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530558:1857072901:0195/pct:49.66738138435318,46.41389834487616,16.625432953983175,5.955315569120006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16063,7 +16063,7 @@ or obscured by- mortal poWer. Alrfnen are
   
 mankind, and dictated by God himself, is of come. Where there had never been a villag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857100201:0371/pct:221.45110410094637,156.59779822047958,103.07570977917982,3.740009048408988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857100201:0371/pct:55.37369355156774,39.149449555119894,25.774009071189116,0.935002262102247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16084,7 +16084,7 @@ of them as are valid, derive all their force and
 all their authority mediately or immediately  
 from this original.&quot;-Dlachston
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857100201:0371/pct:221.29337539432177,160.57909817523753,50.94637223974763,13.572613482129393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857100201:0371/pct:55.33425359889568,40.14477454380938,12.739104713074344,3.3931533705323482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16142,7 +16142,7 @@ ture, by the hand of the Divinity itself, and can
 never be erased or obscured by mortal power.&quot;  
 These pamphlets, which show a maturity of intel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857123001:0622/pct:102.98067474615132,71.93919961999762,47.34687192924992,19.997624985156158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857123001:0622/pct:34.32689158205044,23.979733206665873,15.782290643083305,6.665874995052053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16167,7 +16167,7 @@ by the hand of the Divinity itself, and can never
 be erased or obscured by mortal jower.—Ham­  
 ilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1858011901:0265/pct:75.12771858122902,85.00914076782449,11.998248430886003,5.00053769222497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1858011901:0265/pct:75.11675423234092,85.0,12.000145942790427,5.002688172043011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16531,7 +16531,7 @@ ed in the Scriptures as this Law of nature,
 which lies at the basis of all binding Law.  
 But who shall decide the question whether 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775708:1859042701:0097/pct:24.166048925129726,107.89010691568548,49.88880652335063,22.953038300175937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775708:1859042701:0097/pct:6.043752317389692,26.97252672892137,12.476826103077494,5.738259575043984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16558,7 +16558,7 @@ ed in the Scriptures as this Law of nature, which
 lies at the basis of all binding Law.  
 But who shall decide the question whether 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1859043001:0192/pct:73.27989311957248,171.8653614053909,49.23179692718771,27.57140941397345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1859043001:0192/pct:18.326094219846308,42.966340351347725,12.312061476779151,6.892852353493362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16582,7 +16582,7 @@ and such of them as are valid derive all tlieir au­
 thority mediatoly or immediately from this orig­  
 inal,&quot; - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1859050701:1004/pct:26.67977126518942,32.48165262299538,18.048606147248034,6.482739874966024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1859050701:1004/pct:20.01787310098302,24.36803479206306,13.54781054512958,4.86545256863278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16647,7 +16647,7 @@ if contrary to this ; and such of them as ar
 valid derive all their force, and their authority  
 mediately or immediately, from this original.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859071401:0547/pct:73.28633932912008,32.43652898825312,11.825473991249392,3.770367563471012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859071401:0547/pct:73.29444174363961,32.43652898825312,11.821422783989629,3.7766830870279144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16669,7 +16669,7 @@ this : and such of them as are valid, derive all
 their force, and all their authority, mediately or  
 Immediately, from this original
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1859073001:1052/pct:28.020014295925662,42.414266117969824,18.155825589706932,4.910836762688614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1859073001:1052/pct:21.01876675603217,31.810699588477366,13.637176050044683,3.689986282578875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16818,7 +16818,7 @@ body politic, &quot;to enact, constitute and frame such just
 and equal laws as should be thought most meet and con­  
 venient for the general good,&quot; promising all due sube
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743336:1859120501:0892/pct:23.21761219305673,158.4247140667374,44.8264182895851,3.796722084659828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743336:1859120501:0892/pct:7.7392040643522435,52.8082380222458,14.9421394298617,1.2655740282199426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16862,7 +16862,7 @@ ume of human nature, by the hand of
 Divinity itself, and can never be eras­  
 ed or obscured by mortal power.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557505:1859122301:0298/pct:30.76351476871633,71.18790496760259,11.889281070035297,4.535637149028077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557505:1859122301:0298/pct:30.76351476871633,71.18790496760259,11.889281070035297,4.542836573074154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16883,7 +16883,7 @@ whole volume of human nature, by the hand
 of Divinity itself, and can never be erased  
 or obscured by mortal power.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn93051083:00279557517:1860021101:0320/pct:7.603920243325447,76.08436606291707,14.413653261236904,3.6701620591039084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn93051083:00279557517:1860021101:0320/pct:7.609552776839022,76.09231013663806,14.424918328264052,3.662217985382904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16996,7 +16996,7 @@ ity itself, and can never be erased or obscured by mor­
 tal power.”  
 The Virgin Mary Ennobled.—It is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860030301:0006/pct:79.6669588080631,53.578960426746065,11.93689745836985,2.778811561840963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860030301:0006/pct:79.6669588080631,53.58206177893562,11.941279579316388,2.785014266220072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17018,7 +17018,7 @@ human nature, by the hand of Divinity
 itself, and can never be crased or obscured  
 by mortal power.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860030901:0259/pct:74.32432432432432,335.87081891580164,49.02402402402402,17.531718569780853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860030901:0259/pct:18.588058580548253,83.96770472895041,12.260608336462637,4.382929642445213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17061,7 +17061,7 @@ itself, and can never be crased or obscured
 by mortal power.&quot;  
 The Delegates at large from the State o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470272:1860031601:0268/pct:158.72501350621286,352.0389789217244,44.84062668827661,18.048935494121384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470272:1860031601:0268/pct:39.691975141853554,88.0097447304311,11.21318562550662,4.512233873530346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17081,7 +17081,7 @@ tries and at all times; no homan laws are of any validity
 oi conta to thi an o o tem as a a erie  
  e te o a a e to ee o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743348:1860032901:0765/pct:156.32103514600453,49.06362545018007,53.908025878650115,7.827130852340936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743348:1860032901:0765/pct:52.10701171533485,16.35454181672669,17.96934195955004,2.6090436174469787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17103,7 +17103,7 @@ institution of friendly and social communities. Hence it
 follows that the first and primary end of human laws is  
 to maintain and regulate these absolute rights of iadtyidu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743348:1860032901:0765/pct:158.5766742437489,203.68547418967586,49.74645917118377,10.660264105642257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743348:1860032901:0765/pct:52.85889141458297,67.8951580632253,16.58215305706126,3.553421368547419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17166,7 +17166,7 @@ the whole volume of human nature, by tbe band
 of Divinity itself, and can never be erased or ob­  
 scured by. mortal power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1860050501:0047/pct:71.35678391959799,94.42703365581141,17.982770997846373,4.333015397193078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1860050501:0047/pct:53.5271943995692,70.82708815914975,13.49847424160833,3.2429486306036246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17238,7 +17238,7 @@ the whole volume of human nature, by
   
 the hand of Divinity itself, and can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1860051701:0510/pct:301.23131046613895,363.4758995247794,64.2919964819701,18.73727087576375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1860051701:0510/pct:75.30782761653474,90.86897488119484,16.072999120492526,4.684317718940937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17261,7 +17261,7 @@ power.”
 Brevities.  
 If your friend, though a man of strong sense,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860051901:0006/pct:82.06426825008732,9.869248177017854,12.102689486552567,4.5763138043751574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860051901:0006/pct:82.07300034928397,9.875534322353532,12.10705553615089,4.573170731707317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17317,7 +17317,7 @@ er.&quot;
   
  The Republicans of New York cit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1860052901:0731/pct:112.89106145251397,231.94900906284235,43.812849162011176,13.245692660093615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1860052901:0731/pct:37.630353817504655,77.31633635428078,14.604283054003725,4.415230886697872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17392,7 +17392,7 @@ in the whole volume of human nature, by
 the hand of Divinity itself, and can never  
 be erased or obscured by mortal power.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860060801:0386/pct:34.9428208386277,20.52142777218306,13.310038119440915,6.411547499160792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860060801:0386/pct:34.9428208386277,20.52888739696393,13.33121558661584,6.411547499160792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17416,7 +17416,7 @@ obscured by mortal power.
 The Times seems to exult over the fact  
 that Mr. Lincoln is poor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1860061301:0185/pct:30.345123872261205,67.988172160771,12.143777745954461,6.669587120797284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1860061301:0185/pct:30.354670867344502,67.988172160771,12.134230750871163,6.6732376884605555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17455,7 +17455,7 @@ the band &#x27;of Divinity itself, and can never
 be erased or obscured by moral power.  
 &#x27;The Burlington (Wis.) Gazette, say
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:0021247292A:1860062301:0182/pct:90.25473933649289,121.62730886135141,19.238744075829384,6.593406593406593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:0021247292A:1860062301:0182/pct:60.2015113350126,81.08487257423428,12.8315305971255,4.395604395604396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17474,7 +17474,7 @@ superior in obligation to any other, and conse-­
 quently a human law against the law of Nature  
 has no binding force on the conscience, and if 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:124.5525106922224,145.41582869986988,37.28813559322034,5.619306754998226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:41.51750356407413,48.47194289995662,12.429378531073446,1.8731022516660751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17493,7 +17493,7 @@ vested in them by the immutable laws of nature. Hence
 it follows that the first and primary end of human laws  
 is to maintain thosi absolute rights of individuals.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:201.36226833518137,127.67064947355968,37.034690321558685,4.613746598840648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:67.12075611172712,42.55688315785323,12.344896773852897,1.5379155329468828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17510,7 +17510,7 @@ void,&quot; tbat &quot;the law of nature, being coeval with
 mankind, and dictated by God himself, is,  
 course, superior In obligation to any other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1860070701:0081/pct:69.03789004457653,116.02634467618002,18.62927191679049,2.181668496158068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1860070701:0081/pct:51.79268066134126,87.01975850713502,13.988482258963403,1.646542261251372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17530,7 +17530,7 @@ sont am in th whole volume of human nature by
 band of the Dl vinity itself, and can never be crased  
 clscured by mor tal power. So wrote the judici
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860070901:0503/pct:154.5721271393643,15.736160188457008,45.59087204563977,9.305064782096585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860070901:0503/pct:51.5240423797881,5.245386729485669,15.19695734854659,3.1016882606988614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17552,7 +17552,7 @@ beam, in the whole volume of human nature
 by the hand of Divinity itself, and can never  
 be crased or obliterated by mortal power.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1860071001:0867/pct:16.142384105960264,85.676527396564,43.57064017660044,12.513977838771984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528670:1860071001:0867/pct:5.380794701986755,28.55884246552133,14.52354672553348,4.171325946257328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17573,7 +17573,7 @@ man nature, by the hand of Divinity it-.
 self, ami can never bo erased or obscured ,  
 by mortal power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1860071201:0664/pct:106.22669649515286,101.90437601296597,17.28187919463087,4.956780118854673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1860071201:0664/pct:79.69420100689912,76.43165856293895,12.959164646652992,3.714208535926526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17595,7 +17595,7 @@ of human nature, by the hand of Divinity
 itself, and can never be erased or ob­  
 scured by mortal power.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860071301:0330/pct:225.0947687642153,350.1517999132572,49.12812736921911,17.117247361572936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860071301:0330/pct:56.29503223359879,87.5379499783143,12.286689419795222,4.279311840393234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17664,7 +17664,7 @@ whole volume of human nature, by the hand of
 Divinity itself, and can never be erased or ob  
 seured by mortal power.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860080801:0339/pct:54.64222353636901,206.81575005349882,38.45357776463631,9.918681789000642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860080801:0339/pct:18.214074512123005,68.93858335116627,12.817859254878769,3.306227263000214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17727,7 +17727,7 @@ human nature, by the hand of divinity
 itself, and can never bo erased or obscur­  
 ed fey mortal power.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1860091101:0465/pct:7.057057057057057,63.21215986394558,12.667212667212667,3.8052721088435373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1860091101:0465/pct:7.066157066157066,63.21215986394558,12.667212667212667,3.8194444444444446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17753,7 +17753,7 @@ and sneers nt merriment; and ajialn
 deeper wisdom, that stoops to be gay  
 often as occasion serves, and oftenes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1860092001:0768/pct:23.896551724137932,98.5569214323891,16.120689655172413,8.965793693212186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1860092001:0768/pct:17.937219730941703,73.91769107429182,12.090375991721283,6.734366648850882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17776,7 +17776,7 @@ nature, by the hand of Divinity itself, and
 gan never be erased or obscured by mortal  
 lpa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523982:1860092101:0570/pct:244.40710513682188,276.44983461962516,38.18210913746199,15.85446527012128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523982:1860092101:0570/pct:81.456,92.13978613162827,12.725333333333333,5.284239150406056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17870,7 +17870,7 @@ validity, if contrary tu this; and such ol theni as
 are valid derive all their forjo. and ull their au  
 thority, mediately or immediately, frora this origi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1861020901:0207/pct:7.317952415284787,42.03551912568306,18.330930064888246,5.9289617486338795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1861020901:0207/pct:5.498467640165855,31.530054644808743,13.75518298179196,4.453551912568306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17947,7 +17947,7 @@ been in presence in the States. The Northern States find th
 unalterable form and rale of Government  
 in Carolina forever.&quot;&#x27; o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555614:1861121901:0278/pct:107.62584522915101,92.33412635474491,16.94214876033058,2.022204599524187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555614:1861121901:0278/pct:80.75911311537016,69.25720327782183,12.720781661029688,1.5199577055247158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18006,7 +18006,7 @@ erased or obscured by mortal pow
   
 er.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470351:1862031301:0663/pct:26.03734439834025,117.63066202090593,16.315945465323058,8.75725900116144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470351:1862031301:0663/pct:19.53750370589979,88.22299651567944,12.244292914319598,6.5737514518002325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18027,7 +18027,7 @@ the hand of Divinity itself, and can never
 be erased or obscured by mortal power.&quot;  
 Of all the fruits in cultivation the appl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862032901:0830/pct:69.67047747141896,215.21386031402275,49.89912575655683,16.296697347049268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862032901:0830/pct:17.41761936785474,53.80346507850569,12.474781439139207,4.074174336762317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18049,7 +18049,7 @@ human nature by the him lof Divinity
 itself, and can never be erased or obscur­  
 ed by mortal power.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152342:1862040901:0187/pct:67.38388484938419,70.63937493122043,12.598308354355245,4.379883349840432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152342:1862040901:0187/pct:67.39377751397339,70.63937493122043,12.598308354355245,4.383551593852023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18092,7 +18092,7 @@ the enrol ing.
 uals iu the enjoymeut of those absolute rights which  
 were vciti-d in them by the immutable laws of us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1862050101:0889/pct:74.17920656634747,52.43033862301637,16.928864569083448,3.148819192802699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1862050101:0889/pct:55.65247135283051,39.32275396726228,12.707371301522148,2.374109708859178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18113,7 +18113,7 @@ l.&#x27; Thev are written as with a sunbeam in
 jhe whole volnaieof buuutu nature by Uio hand of  
 Jiivinity itself, and can neyer be erasea or ooscurc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1862050101:0889/pct:74.65800273597812,95.06435086842434,17.031463748290015,3.8485567912032987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1862050101:0889/pct:56.011629895672996,71.29826315131825,12.775782452539763,2.8989129076596276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18141,7 +18141,7 @@ Fitly spoken, they fall like the sunshine,
 the dew and the summer rain but unfit­  
 ly, like the frost, the hail, aud the deso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028848:1862050201:0230/pct:58.82145377558221,101.64998647552069,17.007762879322513,12.645388152556126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028848:1862050201:0230/pct:44.14048711613131,76.23748985664052,12.760324744087539,9.494184473897755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18162,7 +18162,7 @@ volume of human nature by the hand of
 Divinity itself, and can never be erased  
 or obscured by mortal power.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1862052201:0503/pct:26.200873362445414,313.29940860954474,49.053857350800584,14.798514647228718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1862052201:0503/pct:6.551410373066424,78.32485215238619,12.265696087352138,3.6996286618071794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18186,7 +18186,7 @@ in the whole volume of human nature by the
 han(i f Divinity itself, and can never be erased  
 i nD9cl)rc(1 bv ,ortal power.&quot; Alexande
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775848:1862053001:0864/pct:39.84198645598194,90.67180145485665,16.94883370955606,5.7766367137355585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775848:1862053001:0864/pct:29.902145276627774,68.00741691627442,12.72111403838916,4.336043360433604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18277,7 +18277,7 @@ I be wrested from no part of them, without
 Mr Koscoc Oonkling.-^Mr. Speaker, I  
 said I think, at the outset, a ithough i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1863031301:0668/pct:83.76428141912207,89.16946431177931,13.14892764080978,6.582980586775653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1863031301:0668/pct:83.74749498997996,89.15645067133684,13.151302605210422,6.585668417980152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18324,7 +18324,7 @@ In accordance with Blackstone is the
 universal law maxim, which affirms, &quot;Lex  
 natuta lex suprema;&quot; that is, &quot;The law o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1863081501:0083/pct:177.09190672153636,252.70233933853186,50.205761316872426,36.51519225598279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1863081501:0083/pct:44.295762566477954,63.175584834632964,12.557900154400413,9.128798063995697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18406,7 +18406,7 @@ dience. lu witness whereof we have hereun­
 to inscribed our names. Cape Cod, lltli Xo­  
 vember, in the reign of our sovereign lord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525176:1863121501:0404/pct:17.562855569829328,16.371801850843767,12.350890071572765,12.46597713663582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525176:1863121501:0404/pct:17.559633027522935,16.369574091713158,12.353211009174313,12.467682677915363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18455,7 +18455,7 @@ Witness whereof we have hereunto subscribed
 our names, at Cape Cod. the eleventh &gt;*f Novem­  
 ber, in the reign of our sovereign Lord Kin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174336:1863121801:0248/pct:1.8793628065151244,40.311688311688314,16.806873098263825,19.792207792207794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174336:1863121801:0248/pct:1.879026485325698,40.30645370731074,16.80833929849678,19.79288404103363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18643,7 +18643,7 @@ tl em that are valid, derive all their force, and all
 their authority, mediately or immediately, from  
 this original
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110132:1865102201:0006/pct:69.52450890398384,14.133955175540873,12.226913897558289,2.474413784168934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110132:1865102201:0006/pct:69.53827795116578,14.137193937038477,12.231503579952268,2.4776525456665373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18835,7 +18835,7 @@ to any other, it is binding over all toe globe—in
 all countries, aid at aU times; no human laws are  
 of any validity, if contrary to this.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867051401:0002/pct:80.5009633911368,30.313216195569137,9.32562620423892,1.8029029793735676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867051401:0002/pct:80.51541425818883,30.3170359052712,9.330443159922929,1.8029029793735676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18862,7 +18862,7 @@ ILton wrote, &quot;Civil liberty cannot be
 wrested from any people without the most  
 manifold violation of justice, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:102.10210210210211,143.78201634877385,37.17717717717718,4.708446866485014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:25.533193151096427,35.94550408719346,9.297086212075698,1.1771117166212535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18884,7 +18884,7 @@ ude, though sanctioned by immemorial
 usage, and to model their government  
 upon the principles of civil liberty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:101.92192192192192,148.8392370572207,37.35735735735736,13.55858310626703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:25.48813457494743,37.20980926430518,9.342144788224692,3.3896457765667574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18939,7 +18939,7 @@ and if they but conform their actions to
 that standard, all cavils against them  
 betray either ignorance or dishonesty.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:140.9009009009009,90.94277929155314,37.41741741741742,66.26702997275204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867060101:0509/pct:35.23580654851307,22.735694822888284,9.35716431360769,16.56675749318801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19158,7 +19158,7 @@ whole volume of human nature, by the
 hand of divinity itself, and can never be  
 erased or obscured by mortal powers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554152:1868031301:0252/pct:28.548833531039936,151.59940612768256,48.41834717279557,26.035902281009584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554152:1868031301:0252/pct:7.135797588456216,37.89473684210526,12.102194109507808,6.508097165991903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19192,7 +19192,7 @@ ture, by the hand of Divinity itself, and can
   
 never be erased or obscured by mortal powers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn84022040:00415668302:1868032501:0289/pct:69.47004608294931,271.51470856934037,222.46543778801842,96.5466837200804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn84022040:00415668302:1868032501:0289/pct:17.372515125324114,67.87867714233509,55.63238259867473,24.1366709300201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19334,7 +19334,7 @@ ing over all the globe, in all countries, and at
 all times,&quot; and &quot;no human laws are of any  
 validity if contrary to this.&quot; And yet the ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:0020029953A:1869020601:0270/pct:55.82833583208396,55.96212896622313,51.10569715142429,43.75639713408393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:0020029953A:1869020601:0270/pct:18.60944527736132,18.654042988741043,17.035232383808097,14.58546571136131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19376,7 +19376,7 @@ uals in the enjoyment of those absolute
 rights which were vested in them by the  
 immutable laws of nature.&quot; In order tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054846:00212477679:1869051301:0594/pct:16.172276098117514,89.84452530598743,18.65373645179692,3.5174771198588597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054846:00212477679:1869051301:0594/pct:12.138068749108543,67.38339397949058,13.99229781771502,2.6463777704267284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19395,7 +19395,7 @@ whele volume of haman nature, by the hand of
 divinity itself, and can never be crased or obscur-  
 ed by mortal powers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1869051401:0086/pct:7.145692735212386,47.20125477894324,33.9552732565833,6.862072345848446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1869051401:0086/pct:2.381582429214078,15.732209370711626,11.316926876598748,2.2871332418480037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19428,7 +19428,7 @@ when they gathered in their tents, began
 the death whoop, and taking out their  
 knives went for the soldiers. Cardego
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556689:1869061901:0311/pct:15.097788338512155,8.531826133763962,25.863644671906414,83.51500470999865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556689:1869061901:0311/pct:15.111496984097972,8.535190418517024,25.863644671906414,83.52509756425783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19540,7 +19540,7 @@ at all times; no human laws are of
 any validity, if contrary to this.”  
 “Municipal law is also a rule of civi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528864:1869102801:0019/pct:6.008178672538534,57.190744828713925,9.457900807381776,4.7992805167198105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528864:1869102801:0019/pct:6.011673831743036,57.19347014416919,9.461395966586277,4.802005832175074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19703,7 +19703,7 @@ for our lietler ordering &amp; preservvation &amp;
 furtherance of ye ends aforesaid; and by vir­  
 ture hereof to Jnacte, constitute, and fra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn84027691:00237283338:1870120101:0128/pct:25.699513381995136,83.20385162490426,14.476885644768856,9.038187985556407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn84027691:00237283338:1870120101:0128/pct:19.288104654700334,62.40288871867819,10.860967447520535,6.784112047269942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19757,7 +19757,7 @@ whereof we have hereunto sub­
 scribed our names, at Cape Cod,  
 the eleventh of November, in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:0020219722A:1870123001:0820/pct:32.99922898997687,146.0564751703992,51.349267540478024,79.51036305466685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:0020219722A:1870123001:0820/pct:8.251397725081935,36.5141187925998,12.839791787160209,19.877590763666714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20002,7 +20002,7 @@ are valid derived all their authority
 mediately or immediately from this  
 original.-AecandEr HmmITTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279555211:1872012001:0072/pct:81.70147537842499,354.9897119341564,48.22762981414064,16.88528806584362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279555211:1872012001:0072/pct:20.421455938697317,88.73601645878874,12.054597701149426,4.220779220779221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20027,7 +20027,7 @@ from “ye counsel! established at Pliraoth in ye
 County of Devon for ye planting, ruling, order­  
 ing and governing of New England in Ameri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525334:1872061701:0225/pct:27.48699609882965,29.3631669535284,10.90702210663199,4.429145152036718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525334:1872061701:0225/pct:27.482528847716562,29.359798072510326,10.90931253047294,4.431505277650298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20047,7 +20047,7 @@ and such of them as are valid derive all
 their authority meciately or immediatel  
 from this origina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_quentin_ver01:data:sn86079088:00200299541:1872090701:0011/pct:14.52127659574468,198.38949454905847,39.41489361702128,7.953419226957384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_quentin_ver01:data:sn86079088:00200299541:1872090701:0011/pct:4.840425531914893,66.12983151635282,13.138297872340425,2.6511397423191276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20067,7 +20067,7 @@ and such of tbctn as are valkl derive all
 their authority mediately or immediately  
 from this original.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877509:1872090701:0121/pct:5.299785867237687,75.10761466528129,15.060670949321914,3.3694522784622234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877509:1872090701:0121/pct:3.9807211710103534,56.33071099896096,11.299535880042843,2.53822176042749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20091,7 +20091,7 @@ the Sunday liquor law does not apply to
 persons whose religion entails the obsery­  
 ance of a day other than the Christia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559917:1872091301:0360/pct:40.55944055944056,224.45260437916497,42.37762237762238,15.775873793009655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559917:1872091301:0360/pct:10.143406785589367,56.11315109479124,10.598111227701994,3.9439684482524138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20161,7 +20161,7 @@ acts, constitutions and offices from time to time
 as shall be thought most meet and convenient for  
 the general sood of the colony.&quot; If more wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743841:1873122301:1067/pct:5.226310647997395,256.86005263760154,46.532074242917616,7.50657970019453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743841:1873122301:1067/pct:1.742103549332465,85.62001754586719,15.510691414305873,2.502193233398177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20228,7 +20228,7 @@ Creator to the whole race; civil liberty is
 founded on it; civil liberty is only natural  
 liberty modified aud secured by civil sovie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:00415620391:1874011501:0446/pct:2.965088474414156,75.55712769720552,13.741431531962379,2.9359745313052708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:00415620391:1874011501:0446/pct:2.9704022530421383,75.56498840545534,13.752059089218344,2.9359745313052708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20257,7 +20257,7 @@ mature, by the hand of the Divinity
 aE lueif, an&lt;1 can never be erased or obscured  
 by mortal power.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:00415620391:1874011501:0446/pct:-1.068069504224454,89.83610423299139,19.51219512195122,6.968517863459498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:00415620391:1874011501:0446/pct:-1.068069504224454,89.84396494124121,19.522822679207184,6.972448217584405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20281,7 +20281,7 @@ man nature, by the hand of the Divinity itself,
 and can never be erased or &quot;obscure I hv mortal  
 power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1874011601:0333/pct:8.41288782816229,120.21919491959439,21.002386634844868,6.3402642630339034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1874011601:0333/pct:5.609428614053409,80.14954419748028,14.00865284201104,4.230257093106627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20326,7 +20326,7 @@ nnto which we promise all due submission and
 obedience. In witness whereof we have here­  
 under subscribed our names.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895904:1874012801:0405/pct:5.775577557755776,5.281090289608177,25.540887422075542,91.35434412265758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895904:1874012801:0405/pct:5.774518790100825,5.280340667139815,25.540788267644363,91.34492547906316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20400,7 +20400,7 @@ as with a -sunbeam in tne whole vol­
 ume of human nature, and CAn never  
 be erased or obscured by mortal po
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174481A:1874030701:0633/pct:94.93424985056784,39.06360841806573,14.509862522414824,6.360841806573658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174481A:1874030701:0633/pct:71.2363582000299,29.297706313549302,10.883540140529227,4.776542917947506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20599,7 +20599,7 @@ volume of human nature by the hand
 of divinity itself, and cii never Ik  
 erased or obscured by mental power.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn84026853:00202194023:1875050501:0161/pct:49.86121256391527,81.95993502977802,12.067202337472608,2.360584731997834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn84026853:00202194023:1875050501:0161/pct:49.86608229851473,81.96715394333152,12.076941806671536,2.356975275221079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20718,7 +20718,7 @@ The other fact to be remarked is that either
 by these charters or by their own acts aud the  
 acquiescence of the crown and parliament, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070601:0626/pct:35.81860107609531,73.80241648898365,14.066102997694081,9.253731343283581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070601:0626/pct:27.7686770910896,57.19741480611046,10.905931993050384,7.182726204465335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20796,7 +20796,7 @@ thought most meet and convenient for the
 neral good of the colony; unto which we  
 promise all due submission and obedience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1877071001:0007/pct:103.57303877366998,129.27112142028727,29.519837691614068,21.090195378713535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1877071001:0007/pct:34.53213077790304,43.09037380676242,9.84216459977452,7.030065126237845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20824,7 +20824,7 @@ to despise the clamors of hi.- adversa­
 ries.— Hume.  
 Theiwall thought it very unfair t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623525:1877101101:0719/pct:52.76685393258427,76.93703308431164,11.853932584269662,7.908217716115262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623525:1877101101:0719/pct:52.77153558052434,76.94059053717538,11.858614232209737,7.9188900747065105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20853,7 +20853,7 @@ to despise the clamors of his adversa­
 30* Thelwall thought it vety unfair to  
 influence a child t mind by inculcatin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623525:1877101102:0739/pct:54.276315789473685,77.16967204471159,11.979166666666666,8.425603711905515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623525:1877101102:0739/pct:54.28545321637427,77.16967204471159,11.979166666666666,8.43614889802805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20907,7 +20907,7 @@ his own party for what promotes the
 common interest, and he soon learns to  
 despise the clamors ot adversaries
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1877112401:0976/pct:107.8102453102453,79.94871794871794,16.305916305916305,9.205128205128204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1877112401:0976/pct:80.87678152624932,59.96153846153846,12.231643514342414,6.910256410256411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20951,7 +20951,7 @@ common interest, and he soon learna to
 despise the clamors of adversaries.  
 Fortear to jud
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776129:1877120501:0298/pct:48.44599844599845,104.81099656357388,19.34731934731935,24.212485681557848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776129:1877120501:0298/pct:36.36540330417881,78.6082474226804,14.518950437317784,18.170103092783506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20993,7 +20993,7 @@ his own warty for what promotes the
 common interest, and he soon learns to  
 despise the clamors of adversaries
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776129:1877120501:0300/pct:48.616448885472714,105.45118132650157,18.908531898539586,22.046683746085968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776129:1877120501:0300/pct:36.492982118823306,79.09194420723028,14.189578927129398,16.53857102191859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21040,7 +21040,7 @@ had some very dear views as to hia ca­
 reer in life, provided he had been ac­  
 quitted of In* crime. He intended t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028745:1877121301:0082/pct:85.68821689259646,36.30592812531995,9.710636079249218,14.610422852462372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028745:1877121301:0082/pct:85.69690649982621,36.309340978123615,9.710636079249218,14.610422852462372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21191,7 +21191,7 @@ In witness whercof we have hereunto subscribed
   
 out linllits, at tape tod, the rirchth of aosvinbey:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878122401:0648/pct:132.49027237354085,23.506891271056663,49.221789883268485,23.124042879019907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878122401:0648/pct:33.130625152031136,5.876722817764166,12.308440768669424,5.781010719754977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21862,7 +21862,7 @@ and mutually, in the presence of God and of one another,
 covenant and bind ours lves together into a civil body  
 pelitic or the better and more orderly preservation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:00175039934:1882122301:0752/pct:55.4890864995958,146.66137626119487,48.01940177849636,21.131390998752977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:00175039934:1882122301:0752/pct:18.49636216653193,48.88712542039829,16.006467259498788,7.043796999584325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21952,7 +21952,7 @@ them as are valid derive all their force and
 all their authority, mediately or immediately,  
 from this original.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152500:1883032201:0248/pct:35.366352844862874,23.3241607044579,9.673898212580161,3.148046230049532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152500:1883032201:0248/pct:35.366352844862874,23.331498807558248,9.673898212580161,3.1517152815997065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22116,7 +22116,7 @@ valid, derive their force, and all their
 authority, mediately or immediately,  
 from this original.&quot; And again, &quot;In 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556813:1883083001:0712/pct:102.99319727891157,37.55780527434071,18.3843537414966,8.161479815023123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556813:1883083001:0712/pct:77.28432873915263,28.171478565179353,13.799557597413646,6.124234470691164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22354,7 +22354,7 @@ ther it be the one or the other, it was
 ordained and established &quot;to promote  
 the general welfare&quot; of the people o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885012001:0078/pct:148.00606520090977,21.583421891604676,34.69294920394238,22.476089266737514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885012001:0078/pct:49.335355066969925,7.194473963868226,11.564316401314127,7.492029755579171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22746,7 +22746,7 @@ for the general good of the colony. Unto
 vrhicb w&#x27;e promise all due submission, abd  
 obedience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_lawrencium_ver01:data:sn88076679:00199918527:1886112501:0043/pct:21.036437246963562,7.4407474931631725,28.761133603238868,64.68778486782134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_lawrencium_ver01:data:sn88076679:00199918527:1886112501:0043/pct:21.04183535762483,7.448343968398663,28.771929824561404,64.68018839258583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22846,7 +22846,7 @@ Civil liberty is only national liberty,
 modified and secured by the sanctions of  
 civil society.—Alexander Hamilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1887082501:0692/pct:6.068015114469882,74.06441717791411,14.0697932873972,1.8865030674846626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1887082501:0692/pct:6.066666666666666,74.05305934672596,14.072222222222223,1.8900475387210551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22866,7 +22866,7 @@ erty, modified and secured by the
 sanctions of civil society.- Alex­  
 ander Hamilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102925:1887082701:0279/pct:80.44582392776523,29.028866373542343,19.00395033860045,4.320397629516345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102925:1887082701:0279/pct:60.34993650345704,21.774039380615562,14.251446310145337,3.2402982221372585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22939,7 +22939,7 @@ Civil liberty is only national liberty,
 modified and secured by the sanctions of  
 civil society.—Alexander Hamilton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.857449549162731,74.3791260609871,13.761270931730357,1.91763596353348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.855763039278815,74.36743674367436,13.763683193818416,1.9212635549269212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23188,7 +23188,7 @@ liritlsh Parliament had abandoned an Lord
 Chatham wished them to do the pretended  
 right to directly tax this colonies the latte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889071401:0722/pct:119.18559122944401,281.22634367903106,51.605324980422864,30.779712339137017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889071401:0722/pct:29.813907933398628,70.30658591975777,12.908912830558275,7.694928084784254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23250,7 +23250,7 @@ sion and obedience. In witness -whereof we have
 hereunder subscribed our names at Cape-Codd,  
 yell of November, in ye year of ye ralgne o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870345:1889080201:0304/pct:9.88647114474929,11.316416194464974,18.342005676442763,7.612712490761271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870345:1889080201:0304/pct:7.417484916597657,8.491418247515808,13.770259079616704,5.707481317237415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23458,7 +23458,7 @@ would be great let him be a servant&quot;
 There is no greatness apart from useful­  
 ness.It is one of the strangest of al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556850:1890052201:0164/pct:91.70595167943429,20.974552094031726,15.571596935769005,22.298299669063105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556850:1890052201:0164/pct:68.80341880341881,15.73661987903686,11.685823754789272,16.729430560310394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23526,7 +23526,7 @@ There is no greatness apart from useful­
 ness.  
 —It is one of the strangest of al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479834:1890060401:0186/pct:77.65207411050991,23.69715947215388,14.281029676996228,10.993066428092149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479834:1890060401:0186/pct:77.66300486418538,23.704614925818237,14.281029676996228,10.985610974427795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23559,7 +23559,7 @@ There is no greatness apart from useful­
 ness.   
 —lt is one of the strangest of al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152524:1890060501:0090/pct:65.33351409978307,20.028628055494384,9.558026030368763,8.158995815899582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152524:1890060501:0090/pct:65.33351409978307,20.028628055494384,9.56706435285611,8.166336342949423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23660,7 +23660,7 @@ commodities, jurishictions, royalties, priv­
 iliges and franchises, both within the same  
 tract of land upon the maine, as also with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn83025308:00212477369:1890122001:0762/pct:10.990427098674521,157.9945054945055,37.55522827687776,16.35989010989011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn83025308:00212477369:1890122001:0762/pct:3.6634756995581736,52.66483516483517,12.51840942562592,5.4532967032967035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23709,7 +23709,7 @@ by virtue hearof to enact constitute, FAIRBANKS&#x27;
   
 ana iranie sucu just x equal! lawes,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_iraryan_ver01:data:sn96061150:00200298263:1890122201:0630/pct:59.35656836461126,34.19335705812574,23.65951742627346,22.01463028865164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_iraryan_ver01:data:sn96061150:00200298263:1890122201:0630/pct:39.581657280772326,22.795571372083828,15.781710914454278,14.679715302491104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23736,7 +23736,7 @@ In witness whereof we have here­
 under subscribed our names at Capo  
 Cod yo 11 of November, in ye yeare of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_iraryan_ver01:data:sn96061150:00200298263:1890122201:0630/pct:59.369973190348524,56.19810201660736,16.13941018766756,5.960854092526691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_iraryan_ver01:data:sn96061150:00200298263:1890122201:0630/pct:39.59506570126039,37.4654013444049,10.766961651917404,3.973902728351127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23791,7 +23791,7 @@ of Gotland the fifty fourth. Anoo I »omini lnV.
 Each man was asked to sign this instru­  
 ment, and thus, by granting to each hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199069:1890122501:0299/pct:21.991881704841983,214.39966414777498,37.257175993041464,44.42695214105793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199069:1890122501:0299/pct:7.330627234947328,71.466554715925,12.419058664347153,14.808984047019312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24092,7 +24092,7 @@ two Indian arrows of those parts and &quot;also the
 fifth part of all gold and silver ore which shall  
 from time to timme be found within the afore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654826:1891101901:0208/pct:37.59709138985291,19.325932860773037,12.163278796893076,1.4310552360572422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654826:1891101901:0208/pct:37.60535448686168,19.332620034773306,12.179804990910593,1.4343988230573759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24233,7 +24233,7 @@ wliereof, we have hi teunder subscribed
 our name-, at Cape Cod, tlie lltli day  
 of November, in the year of the reig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890700:1892060801:0094/pct:64.30329886755293,36.300897170462385,14.278680452978827,20.496894409937887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890700:1892060801:0094/pct:64.28747231110017,36.294635156115234,14.28131922224957,20.49767120924616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24320,7 +24320,7 @@ of tksir oppression, until in 1619 the
 governor of the colony called upon  
 them to choose representatives to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890700:1892062901:0106/pct:49.29333002727498,71.30539748232454,14.455740143813538,17.778927401276082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890700:1892062901:0106/pct:49.28111056023798,71.29310344827586,14.458353991075855,17.780172413793103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24416,7 +24416,7 @@ whereof, we have hereunder subscri­
 bed our names, at Cape Cod, the 11th  
 day of November, in the year of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:00212472876:1892070801:0218/pct:10.832606800348735,94.83980720158775,18.352223190932868,26.963425007088176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:00212472876:1892070801:0218/pct:8.135223555070883,71.13694357811171,13.784078516902945,20.215480578395237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24803,7 +24803,7 @@ thought most meet and convenient for the
 promise all due submission and obedi­  
 ence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_garberville_ver01:data:sn94052989:0017504033A:1894030701:0233/pct:57.04083216891787,3.087996285117251,27.1852196863841,95.51892268400279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_garberville_ver01:data:sn94052989:0017504033A:1894030701:0233/pct:57.04083216891787,3.087996285117251,27.190394866221602,95.52666202306322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24830,7 +24830,7 @@ home; some of the liberties that bad been
 wrested from the crown had been resumed.  
 The English constitution during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_garberville_ver01:data:sn94052989:0017504033A:1894030701:0233/pct:70.78093463747865,76.81680984443929,13.538270454898308,5.769677269561179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_garberville_ver01:data:sn94052989:0017504033A:1894030701:0233/pct:70.78093463747865,76.82067951396951,13.543445634735807,5.773546939091402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24864,7 +24864,7 @@ met and convenient for the general good
 of the colonv, unto which we promise all &#x27;  
 due submission and obedience.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665477:1894030901:0084/pct:48.31529758976882,56.272310045894955,18.261190359075258,9.731429542750297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665477:1894030901:0084/pct:36.248462484624845,42.20635730069692,13.702337023370234,7.300696923338433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24887,7 +24887,7 @@ and enjoy all liberties, franchises and Im­
 munities within any of our other dominions,  
 to all intents
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665477:1894030901:0084/pct:67.38809640924742,24.630290668026518,17.978357107722577,3.8500764915859254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665477:1894030901:0084/pct:50.55350553505535,18.476967533571308,13.493234932349324,2.889682134965154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24932,7 +24932,7 @@ certain qualifications whereby some
 who are supposed to have no will of  
 their own are excluded from voting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:0023728527A:1894040601:0369/pct:30.363204344874404,134.36370434999378,18.21113374066531,5.945406955004363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:0023728527A:1894040601:0369/pct:20.258108337578538,89.57995762183722,12.141280353200884,3.963604636669575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25072,7 +25072,7 @@ due submission and obedience.
 der subscribed our names, at Cape Cod,  
 the 11th of November (O. R), in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762313:1894112801:0202/pct:61.04364949130292,20.11173184357542,10.666229077781423,12.091868404717566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762313:1894112801:0202/pct:61.05185428290122,20.1179391682185,10.678536265178865,12.094972067039107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25113,7 +25113,7 @@ due submission and obedience.
 der subscribed our names, at Cape Cod,  
 the 11th of November (O. S.), in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777717:1894112801:0809/pct:228.83755588673623,113.3492252681764,48.435171385991055,59.29678188319428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777717:1894112801:0809/pct:57.20938897168406,28.3373063170441,12.108792846497764,14.82419547079857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25283,7 +25283,7 @@ ance of the
   
 endB
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479883:1895011601:0028/pct:35.395470955037744,51.38983823194349,13.980964883491959,9.546593757120073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479883:1895011601:0028/pct:35.40094081610327,51.39363560416192,13.975495022426431,9.550391129338498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25310,7 +25310,7 @@ due submission and obedience.
 der subscribed our names, at Cape Cod,  
 the 11th of November (O. S.), in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479883:1895011601:0028/pct:35.395470955037744,60.309865573023465,13.980964883491959,6.197311460469355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479883:1895011601:0028/pct:35.40094081610327,60.317460317460316,13.991904605623017,6.197311460469355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25351,7 +25351,7 @@ due submission and obedience.
 der subscribed our names, at Capo Cod,  
 the 11th of November (O. S.), in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_katherine_ver01:data:sn86086770:00271768862:1895022101:0264/pct:21.672025723472668,39.717538550223374,14.769560557341908,15.636258826920306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_katherine_ver01:data:sn86086770:00271768862:1895022101:0264/pct:21.672025723472668,39.717538550223374,14.783851375491247,15.636258826920306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25729,7 +25729,7 @@ premise all due submission and obedience. In
 witness whereof wo have hoieunto subscribed  
 our names at Cape Cod the 11 of November, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102354:1897012101:0207/pct:22.576396206533193,23.701266327649815,16.873024236037935,15.106192043075083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102354:1897012101:0207/pct:16.945579127684805,17.778442516701567,12.663064962445645,11.327151261342108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26031,7 +26031,7 @@ as are valid derive all their force and
 their authority, mediately or im­  
 mediately, from this original.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534746:1897060901:0065/pct:149.30769230769232,36.68979187314172,37.07692307692308,14.390485629335977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534746:1897060901:0065/pct:49.76923076923077,12.229930624380575,12.35897435897436,4.796828543111992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26067,7 +26067,7 @@ clearly defined Human laws are some
 g ron dedH W ds  
 times confounded with justice and it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534643:1897061001:0087/pct:6.280788177339901,111.0697316039553,18.895144264602393,11.467831000385257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534643:1897061001:0087/pct:4.188665962689194,74.0464877359702,12.601196761703626,7.649501305594795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26557,7 +26557,7 @@ tions and offices, from time to time as
 shall be thought meet and convenient  
 for the greater good of the colony.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn86086481:00517171815:1899121201:0807/pct:71.84899533184493,55.93245013830252,15.912319870103511,13.932158975105546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn86086481:00517171815:1899121201:0807/pct:55.683724832214764,43.3546446032343,12.337458053691275,10.80105302745393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26574,7 +26574,7 @@ member of those absolute rights which
 are vested In them by the immutable  
 laws of nature.” We learn to respec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn86086481:00517171815:1899121201:0807/pct:71.84899533184493,97.93274130149949,15.689060280089304,1.5286067841024895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn86086481:00517171815:1899121201:0807/pct:55.683724832214764,75.90447536667921,12.169672818791947,1.1884166980067694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -71,7 +71,7 @@ ReadhefFer, and to“ make as specific a rep­
 “ importance and the public expectation  
 “ require,” beg leave to report
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813020901:0362/pct:23.59675036927622,64.19406085787608,17.466765140324963,4.949285103262862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813020901:0362/pct:23.59239431419605,64.18621700879766,17.469694172666298,4.952753339850114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ make as specific a representation re­
 “ spectiug it as its alledged importance  
 “ and the public expectation require,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813021001:0038/pct:16.987602215774203,58.010680907877166,23.793194407807967,10.146862483311082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813021001:0038/pct:16.9831223628692,57.99777530589544,23.795710267229254,10.152020763811642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ Charles Readheffer, ao^to “ make as specific a
 representation respoCtiug it as its alledged im­  
 pwtane* and the public expectation require,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813021201:0354/pct:24.296738859845657,74.46498054474708,21.259646502364948,4.199092088197147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813021201:0354/pct:24.2906918865107,74.45290970983952,21.260577401692384,4.202463932566056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

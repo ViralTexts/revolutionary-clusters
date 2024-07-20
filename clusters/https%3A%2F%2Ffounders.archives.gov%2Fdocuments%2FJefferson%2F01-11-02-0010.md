@@ -622,7 +622,7 @@ a
   
 &quot;THOMAS JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775915:1868020501:0206/pct:30.816326530612244,11.119751166407465,32.60204081632653,116.48522550544324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775915:1868020501:0206/pct:23.120108880571625,8.346293416277865,24.46410343654304,87.36391912908243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ wise influence my conduct. Substantial jus- I
 tice is my object, as decided by reason, not i  
 by authority or compulsion.&quot; Kver since the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:00415620391:1873030601:0259/pct:16.413867822318526,86.01303639326453,13.795594077284218,2.97392721347094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:00415620391:1873030601:0259/pct:16.413867822318526,86.01303639326453,13.795594077284218,2.9784537389100127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ conduct. Substantial justice is my ©bject,
 as decided by reason, not by  
 authority or compulsion.” Ever sinc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271769805:1873031301:0985/pct:43.25336291776453,43.022024565861926,12.314519484121481,2.3612875900042356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271769805:1873031301:0985/pct:43.26260805251236,43.022024565861926,12.319142051495401,2.3683467457292107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ closed, he had been struggling to reduce
 these debts ; and finally, made an ar­  
 rangement for paying them off at the rat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025132:00279556690:1873032201:0477/pct:56.00807191341038,18.850415512465375,11.887727022564667,3.3795013850415514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025132:00279556690:1873032201:0477/pct:56.0126582278481,18.860803324099724,11.892313337002385,3.369113573407202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -752,7 +752,7 @@ the wrar closed, he had been struggling to
 reduce these debts; and, finally, made an  
 arrangement for paying them off at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768527:1873032701:0548/pct:81.49210903873744,31.806458268853813,12.898134863701578,3.7656040441555763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768527:1873032701:0548/pct:81.49689143950263,31.809897176656694,12.902917264466762,3.77248185976134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,7 +797,7 @@ the deposit as originally made for my¬
 self and not for you.&quot;  
 &quot;Thus the discharge of the debt&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82015133:00211105732:1883070701:0409/pct:44.036989795918366,66.98226270373921,12.962372448979592,10.965963566634708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82015133:00211105732:1883070701:0409/pct:33.051523368958364,50.239693192713325,9.730419524645079,8.221476510067115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

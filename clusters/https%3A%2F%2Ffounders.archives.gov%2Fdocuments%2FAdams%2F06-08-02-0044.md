@@ -335,7 +335,7 @@ drags the backward on. Why should we grieve,
 when grieving wc must bear, or take with guilt,  
 what guiltless wc mav share. Resignation to Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811082201:0279/pct:38.60049105576991,54.40191387559808,16.099614170466502,4.688995215311005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811082201:0279/pct:38.59372260213922,54.39540724793685,16.102636039511367,4.692421161743013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ Fate leads the willing, drags the backward on,
 Why should | grieve, when geieving | must bear?  
 Oc take with guilt, what guiitiess I migut share 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824040801:0673/pct:8.234838209649293,61.392405063291136,21.526835884518505,5.70771001150748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824040801:0673/pct:8.241296906284312,61.39624088991177,21.53975327778854,5.711545838128116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

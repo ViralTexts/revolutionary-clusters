@@ -2012,7 +2012,7 @@ sensible conversation of a few good lady
 ephemera, and now and then a kind Pmile  
 jind a tunp from theevertagiiable SriUanU
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1857071601:0873/pct:90.82696316886727,24.665442141170296,17.268936761640028,71.94961952243506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1857071601:0873/pct:68.15574482878498,18.499081605877723,12.967147575178167,53.96221464182629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2034,7 +2034,7 @@ friends whe play, she kindly entertains me and my
 n with hitle concerts a cup of tea and a game  
 of chers. I call this my Ogera, for I rarely go to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864061101:0297/pct:51.54602951510893,93.93373193821624,48.92832044975404,10.924265072247135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864061101:0297/pct:17.18200983836964,31.311243979405415,16.309440149918014,3.641421690749045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

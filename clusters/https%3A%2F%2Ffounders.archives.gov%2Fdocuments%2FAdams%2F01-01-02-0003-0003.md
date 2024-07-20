@@ -455,7 +455,7 @@ stitions of the day: &quot;An imagination that these
  frem real Revelation, because it is far from being  
 etrue, though few persons were persuaded to thin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530595:1858073101:0203/pct:5.254433946626886,123.80330205487587,47.604840046411404,8.575840361088016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530595:1858073101:0203/pct:1.751477982208962,41.267767351625295,15.868280015470468,2.8586134536960053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -883,7 +883,7 @@ shall be Bessextile, or Leap Years consisting of 366
 days.&quot;  
 The reason which induced the passing of the abov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850012101:0181/pct:327.4835717046772,119.3635544881417,60.6300734441438,55.79405583908736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850012101:0181/pct:81.85507246376811,29.836410025514034,15.154589371980677,13.94642053129221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ Bissextile, or Leap Years consisting of
 366 days.&quot;  
 The reason which induced the passin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852010101:0345/pct:351.5938156136667,164.6153846153846,45.90570719602977,82.4074074074074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852010101:0345/pct:87.88167938931298,41.147984617575844,11.474236641221374,20.598917533114943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -999,7 +999,7 @@ sidered as leap years.”
 time to come shall be deemed and reckoned  
 the first day of the year, &lt;fco.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:0041421597A:1857123101:0628/pct:72.21956126065714,34.39904855183993,12.616150972315356,2.9382957884427032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:0041421597A:1857123101:0628/pct:72.21264367816092,34.396642182581324,12.618135376756067,2.9404220589949865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1040,7 +1040,7 @@ thus;
 “And that the natural day next immediately  
 following the 2d day of September shall be call
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1858011301:0011/pct:56.60228616476153,51.12495351431759,12.37682301931415,3.198214949795463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1858011301:0011/pct:56.59485023646873,51.120200799479406,12.379576107899807,3.201016392426637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1082,7 +1082,7 @@ The act also further corrects the calendar
 Jitis:  
 And that the natural day nexl immediatel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1858011901:0266/pct:24.33405327573794,76.59095778872938,11.691864650827934,2.9247910863509747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1858011901:0266/pct:24.330549956809676,76.58275307980718,11.693780593147135,2.927155865024103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1100,7 +1100,7 @@ tion of the year of our Lord*?according
   
 to which the year beginneth on the 25t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1858012101:0725/pct:70.25010969723563,75.84935181046043,13.456194237238554,2.179257934734019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1858012101:0725/pct:70.25010969723563,75.8530770376993,13.47082053532251,2.179257934734019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1170,7 +1170,7 @@ of the year of our Lord—according to which
 the year beginneth on the 25th day of March—  
 had been found by experience to be attende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1858032701:0045/pct:11.519382693367628,59.486111111111114,12.474738195847879,1.7916666666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1858032701:0045/pct:11.523975748668015,59.49652777777778,12.474738195847879,1.7881944444444444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1186,7 +1186,7 @@ had been found by experience to be attende
 day of December, shall be reckoned, taken,  
 deemed, and accounted to be the first day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1858032701:0045/pct:11.556127135770714,64.95833333333333,12.529854859452508,0.9027777777777778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1858032701:0045/pct:11.565313246371486,64.96180555555556,12.543634025353665,0.9166666666666666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1207,7 +1207,7 @@ thus;
 And that the natural day next immediately  
 following the 2d day of September shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1858032701:0045/pct:11.574499356972257,66.33333333333333,12.511482638250964,3.125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1858032701:0045/pct:11.588278522873415,66.34027777777777,12.502296527650193,3.1319444444444446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1228,7 +1228,7 @@ January next following the said last day of
 December shall be reckoned, taken, deemed  
 and accounted to be the first day of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557967:1858032701:0260/pct:33.38254290459494,29.072847682119207,14.467613950913453,4.079470198675497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557967:1858032701:0260/pct:33.3917696992065,29.082781456953644,14.472227348219228,4.079470198675497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1253,7 +1253,7 @@ be called and accounted to be the 14th day
 of September, omitting for that time only  
 the eleven intermediate nominal days of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557967:1858032701:0260/pct:33.345635726148736,33.735099337748345,14.486067540136556,6.3841059602649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557967:1858032701:0260/pct:33.345635726148736,33.74503311258278,14.495294334748108,6.380794701986755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1334,7 +1334,7 @@ December, shall be reckoned, taken, deem
 ed, and accounted to be the first day of  
 the year of our Lord, 1752, and so o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1858123001:0093/pct:167.68759571209802,208.96447085598686,35.52833078101072,4.969022632444051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1858123001:0093/pct:55.895865237366,69.65482361866228,11.842776927003573,1.6563408774813504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1356,7 +1356,7 @@ The act also further corrects the then
 existing calender, thus:  
 And that the natural day next immedi-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1858123001:0093/pct:167.73864216436957,214.23694525224428,35.25608303556236,12.138070552535087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1858123001:0093/pct:55.912880721456524,71.41231508408143,11.752027678520788,4.046023517511696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1376,7 +1376,7 @@ which the year beginneth on the 25th day
 of March--had been found by experience  
 to be attended with divers inconvenience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1858123001:0093/pct:167.7726731325506,184.09407004678215,35.47728432873915,8.55986850423568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1858123001:0093/pct:55.92422437751687,61.36469001559405,11.82576144291305,2.8532895014118935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1395,7 +1395,7 @@ which the year beginneth on the 25th day
 of March--had been found by experience  
 to be attended with divers inconveniences
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858123101:0977/pct:145.49852190271432,217.774343122102,41.655468959957,9.041731066460587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858123101:0977/pct:48.499507300904774,72.59144770736734,13.885156319985667,3.0139103554868623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1412,7 +1412,7 @@ last day of December shall be reckoned,
 taken, deemed and accounted to be the  
 first day of our Lord, 1752, and so on fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858123101:0977/pct:145.6328943832303,242.52318392581142,41.655468959957,5.197063369397218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858123101:0977/pct:48.54429812774344,80.84106130860381,13.885156319985667,1.7323544564657394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1436,7 +1436,7 @@ ately following the 2d day of September,
 shall be called and accounted to be the  
 14th day of September, omitting for tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858123101:0977/pct:145.36414942219832,247.3531684698609,42.058586401504975,18.701700154559507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858123101:0977/pct:48.45471647406611,82.4510561566203,14.019528800501657,6.233900051519835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1560,7 +1560,7 @@ except only every fourth hundredth year
 of our Lord, whereof the year 2uoo snail  
 be the first, shall uot be considered a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1863030401:0367/pct:48.270584634220995,53.88263842929627,14.401591674318947,3.14361350099272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1863030401:0367/pct:48.27568615447403,53.88263842929627,14.411794714825017,3.14361350099272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1695,7 +1695,7 @@ year of our Lord which shall happen in time to come,
 except only every four hundredth year of our Lord,  
 whereof the year 2000 shall be the first, shall not be con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110193:1870051501:0001/pct:5.692704495210022,52.358247422680414,12.14075165806927,5.193298969072165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110193:1870051501:0001/pct:5.701915991156964,52.358247422680414,12.14075165806927,5.202963917525773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1764,7 +1764,7 @@ January next following the said last day of
 December shall bo reckoned, taken, deemed,  
 and accounted to be the first day of our Lord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776312:1871020401:0243/pct:49.65940054495913,15.928739848048206,19.056539509536783,10.413937647367042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776312:1871020401:0243/pct:37.2508942258559,11.946554886036154,14.30761369443025,7.82027770500393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1784,7 +1784,7 @@ reckoned the first day of the year,&quot; etc.
 ine act further corrects the calendar thus:  
 &quot;And that the natural dav next immed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776312:1871020401:0243/pct:49.65940054495913,26.43437254388263,19.141689373297,4.021482839926644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776312:1871020401:0243/pct:37.2508942258559,19.83232905423107,14.358712314767502,3.0128373067854337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1802,7 +1802,7 @@ tipn of the year of our Lord—according to
 which the year beginneth on the 25 ih day of  
 March—bath been found by experience to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871031101:0005/pct:22.404779686333086,59.98180991359709,8.943241224794622,1.3945732908897983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871031101:0005/pct:22.404779686333086,59.99317871759891,8.95257654966393,1.3832044868879794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1823,7 +1823,7 @@ ing the said last day of December shall be
 reckoned, taken, deemed, and accounted to  
 be the first day of our Lord 1752, and soo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871031101:0005/pct:22.348767737117253,62.589055631347584,8.999253174010455,2.3343944217068366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871031101:0005/pct:22.36277072442121,62.59284523268152,8.999253174010455,2.3457632257086556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1843,7 +1843,7 @@ day of the year,” etc.
 The act further corrects the calendar, thus:  
 “And that the natural day next immediate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871031101:0005/pct:22.33009708737864,64.86281643171138,9.017923823749067,1.9705926936486282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871031101:0005/pct:22.339432412247945,64.86660603304533,9.017923823749067,1.985751098984387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1862,7 +1862,7 @@ ing to which the year beginneth on the
 25th day of March--hath been found by  
 experience to be attended with divers in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074142:00280761473:1871031401:1140/pct:286.4380358534684,259.44666370764907,50.662509742790334,10.179020565172364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074142:00280761473:1871031401:1140/pct:71.6095089633671,64.86166592691227,12.665627435697584,2.544755141293091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1884,7 +1884,7 @@ last day of December shall be reckoned,
 taken, deemed, and accounted to be the  
 first day of our Lord 1752, and so on fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074142:00280761473:1871031401:1140/pct:286.28215120810603,277.3191300488238,50.74045206547155,15.919514721112591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074142:00280761473:1871031401:1140/pct:71.57053780202651,69.32978251220595,12.685113016367888,3.979878680278148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1905,7 +1905,7 @@ The act further correets the calendar,
 thus:  
 diately following the 2d day of Septembe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074142:00280761473:1871031401:1140/pct:286.28215120810603,292.7652019529516,52.37724084177709,16.215416481728067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074142:00280761473:1871031401:1140/pct:71.57053780202651,73.1913004882379,13.094310210444272,4.053854120432017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1974,7 +1974,7 @@ according to which the year begin­
 neth on the 25th day of March—  
 hath beon found by experience to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn84027352:00279528748:1871081001:0883/pct:55.58079660760261,23.11132031066133,10.01060124185976,2.2475876676865143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn84027352:00279528748:1871081001:0883/pct:55.58836892321672,23.12014591668628,10.014387399666818,2.2505295363614968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2002,7 +2002,7 @@ which shall happen in time to come,
 shall bo doomed and reckoned tho  
 first day of tho year,&quot; etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn84027352:00279528748:1871081001:0883/pct:55.671664394971984,27.677100494233937,10.05603513554445,6.5544834078606735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn84027352:00279528748:1871081001:0883/pct:55.67545055277904,27.68004236290892,10.059821293351506,6.56330901388562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2094,7 +2094,7 @@ ing to which the year beginneth on the
 20th day of March, hath been found by  
 experience to bo attended with diver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1878020801:0657/pct:203.99129172714078,201.12866817155756,43.90420899854862,8.803611738148984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1878020801:0657/pct:51.025594481757125,50.28216704288939,10.982029406425848,2.200902934537246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2116,7 +2116,7 @@ following the said day of December,
 shall be reckoned, taken, deemed, and  
 accounted to be the first day of the yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1878020801:0657/pct:203.84615384615384,216.9864559819413,44.339622641509436,14.446952595936795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1878020801:0657/pct:50.9892902523144,54.246613995485326,11.09094209475404,3.6117381489841986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2145,7 +2145,7 @@ mon calendar.&quot;
 It is said that in the State of Rhode  
 Island to this day all farm and othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1878020801:0657/pct:203.84615384615384,233.0135440180587,44.12191582002903,26.693002257336342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777833:1878020801:0657/pct:50.9892902523144,58.253386004514674,11.036485750589943,6.673250564334086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2188,7 +2188,7 @@ which the new year beginneth on the 25th
 day of March—had heen found by experi­  
 ence to be attended with divers, inco
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn84022144:00415624918:1879010201:0570/pct:23.010526315789473,63.51111111111111,14.189473684210526,2.577777777777778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn84022144:00415624918:1879010201:0570/pct:23.026315789473685,63.51851851851852,14.18421052631579,2.5814814814814815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2209,7 +2209,7 @@ ary next following the last day of Decern
 ber shall be reckoned, taken, deemed and  
 accounted to be the first day of the year o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn84022144:00415624918:1879010201:0570/pct:23.05263157894737,68.26666666666667,14.126315789473685,3.5555555555555554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn84022144:00415624918:1879010201:0570/pct:23.063157894736843,68.27037037037037,14.147368421052631,3.5703703703703704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2227,7 +2227,7 @@ which shall happen in time to-come, shall
 be deemed aud reckoned the first dat of the  
 year,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn84022144:00415624918:1879010201:0570/pct:23.010526315789473,72.34074074074074,14.189473684210526,2.0148148148148146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn84022144:00415624918:1879010201:0570/pct:23.01578947368421,72.34444444444445,14.205263157894738,2.025925925925926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2424,7 +2424,7 @@ time only the eleven intermediate nom­
 inal days of the calendar.&quot; The Rus­  
 sians have never &quot; corrected&quot; their cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_anoka_ver02:data:sn83025287:0010049386A:1880032801:0413/pct:84.32667245873154,86.06403013182674,13.08427454387489,11.211550533584433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_anoka_ver02:data:sn83025287:0010049386A:1880032801:0413/pct:84.3382565884738,86.06403013182674,13.078482479003766,11.211550533584433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2456,7 +2456,7 @@ d^ of September, shall be
 and&#x27; acMoonted/ to be the fourteenth  
 day of&#x27; &#x27;f&amp;piember, omitting fot Hfto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479214:1880040201:0370/pct:55.67805953693495,88.23988298391029,9.46955776062722,7.625548512920527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479214:1880040201:0370/pct:55.68622646902691,88.24313343084674,9.4736412266732,7.62879895985698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2521,7 +2521,7 @@ of the calendar -conflicting with th
 putation of the year of our Lord, accord­  
 ing to which the year beginneth on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623860:1885012401:0023/pct:70.94932191291934,21.087993064586044,10.335474660956459,1.3979193758127437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623860:1885012401:0023/pct:70.94932191291934,21.091605259355585,10.3449916726148,1.4015315705822857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2543,7 +2543,7 @@ of December shall be reckoned, taken,
 deemed and accounted to be the first day  
 of our Lord, 1752, and so on from time t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623860:1885012401:0023/pct:70.94932191291934,25.249241439098395,10.34975017844397,3.619419159081058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623860:1885012401:0023/pct:70.94932191291934,25.25646582863748,10.364025695931478,3.619419159081058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2560,7 +2560,7 @@ time. The first day of January in every
 year which shall happen in time to come  
 shall be deemed and reckoned the first da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623860:1885012401:0023/pct:70.94932191291934,28.901170351105332,10.378301213418986,1.365409622886866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623860:1885012401:0023/pct:70.94932191291934,28.908394740644415,10.387818225077325,1.369021817656408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2673,7 +2673,7 @@ tore. By the use of Ayer’s Sarsaparilla
 the weakestand most disordered stomach  
 is restored to its natural condition, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00271769829:1896010101:0407/pct:55.793417179555796,56.86724850711989,14.035322451164035,7.018833256775379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00271769829:1896010101:0407/pct:55.793417179555796,56.87337314346961,14.035322451164035,7.015770938600521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2708,7 +2708,7 @@ vear of our Lord, wherefore the year
   
 2000 shall be the first, shall not be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:0020029256A:1896011801:0066/pct:196.137339055794,280.4597701149425,53.90557939914163,39.19259882253995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:0020029256A:1896011801:0066/pct:49.0343347639485,70.11494252873563,13.476394849785407,9.798149705634987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2726,7 +2726,7 @@ happen in time to come, exceptiug every
 fourth hundred year of our Lord. whereof  
 tho year 2000 Is the first, shall not b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_jonesville_ver01:data:sn96077142:00415669963:1896021501:0292/pct:46.22820318423048,87.01582807875434,21.51250947687642,3.4487195985072705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_jonesville_ver01:data:sn96077142:00415669963:1896021501:0292/pct:30.824644549763033,58.010552052502895,14.350710900473933,2.3034358512417965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2766,7 +2766,7 @@ every fourth hundredth year, whereof
 the year 8000 shall be the first, shall not  
 be oonsldered as leap years. Our presen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_exeggutor_ver01:data:sn87058308:0027952908A:1899012601:0314/pct:23.899123239089747,22.572675615580994,8.491774209437494,7.082269620357407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_exeggutor_ver01:data:sn87058308:0027952908A:1899012601:0314/pct:23.90569073654484,22.578165747069644,8.488490460709947,7.082269620357407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

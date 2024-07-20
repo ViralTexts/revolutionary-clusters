@@ -144,7 +144,7 @@ Fire them with ambition to be useful. Make them
 lisdain to be destitute of any useful or ornamental  
 knowledge.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842090201:0116/pct:55.851765050534645,156.48110524177164,48.42536985498755,11.64160910199106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842090201:0116/pct:18.61725501684488,52.16036841392388,16.141789951662517,3.8805363673303535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ ly. Fire them with ambition to be useful.
 ‘hke them disdain to be destitute of any  
 useful or ornamental knowledge,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842090301:0814/pct:21.00405537687037,90.77,14.31967556985037,3.79/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842090301:0814/pct:21.00871672959493,90.77,14.31501421712581,3.796666666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ Fire them with ambition to be useful. Make them
 disdain to be destitute of any useful or ornamental  
 knowledge.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842090501:0126/pct:55.61797752808989,268.6848026181223,48.96510940272029,12.006545305788505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842090501:0126/pct:18.53932584269663,89.56160087270744,16.321703134240096,4.002181768596168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ every vice as shameful and unmanly. Fire them
 with ambition to be useful. Make them disdain to  
 be destitute of any useful or ornamental knowledge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1842091501:0538/pct:20.646876384581304,15.55587474863545,17.36818785999114,3.4760126400459637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1842091501:0538/pct:20.642303433001107,15.553640672124084,17.369878183831673,3.4791038345540715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ ambition to be useful. Make them disdain
 to be destitute of any useful or ornamental  
 knowledge.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1842091601:0709/pct:106.14787581699346,110.39915966386555,19.730392156862745,5.47719087635054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1842091601:0709/pct:79.66482730431228,82.8031212484994,14.817085632536276,4.111644657863145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ t stder every vice as shameful, unmanly. Fire
 r them with ambition to be uselul. Make them  
 &#x27; disdain to he destitute of any uselul or orna
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842091701:0216/pct:21.091445427728612,37.831549557933926,15.604719764011799,2.8784152097321014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842091701:0216/pct:21.08937174319143,37.82903483116193,15.606462819126275,2.8804395993973233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ ful and unmanly. Fire them with ambition to be use
 ful. Make them disdain to be destitute of any useful or  
 ornamental knowledge.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842092201:0477/pct:133.59208228216573,134.6261201704128,61.575781098389285,12.002350521521963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842092201:0477/pct:33.39154055102833,33.651586368977675,15.390958478851378,3.0001468860164513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ sider vice shameful and unmanly. Fire
 them with ambition to be useful. Make  
 them disdain to be destitute of any usefu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197218:1842092801:0010/pct:69.20861127956337,77.30984099699184,19.784718010915707,4.727116458960034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197218:1842092801:0010/pct:51.925993327267214,57.982380747743875,14.846830451925994,3.5453373442200258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ Fire them with ambition to be useful.
 Mske them disdain to be destitute of sny  
 usefulor or aamental knowledge.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1842101301:1253/pct:240.0309119010819,165.17412935323384,56.10510046367852,21.576328881906257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1842101301:1253/pct:60.042528513435144,41.29353233830846,14.034409433597526,5.394082220476564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ ambition to be useful. Make them disdain
 to be destitute of any useful or ornamental  
 knowledge.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1842102801:0117/pct:95.97495527728086,69.71655328798185,21.138938580799046,5.714285714285714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1842102801:0117/pct:72.01014017297942,52.290249433106574,15.851476289889652,4.285714285714286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ manly- Fire them with ambition to be
 useful. Make them disdain to be desti­  
 tute of any or ornamental knowledge.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843040601:0226/pct:44.694703501671654,14.687618806234951,12.933309871546719,3.7257635280699533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843040601:0226/pct:44.686840253342716,14.685757729346173,12.935432793807179,3.7284591991890523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ ambition to -be useful. Make them dis­
 dain to be destitute of any useful ov orna-(  
 mental knowledge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1843112301:0275/pct:66.84426229508196,106.39483719565855,19.487704918032787,6.350836022293928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1843112301:0275/pct:50.1640016400164,79.80346142563802,14.616646166461665,4.766793781167498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -782,7 +782,7 @@ be useful. Make them disdain to be destitute of any use­
 ful or ornamental knowledge.--John AdMs to his wife.  
 Every friend of education, who insists upon qualification
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845091601:0794/pct:91.77617008711059,35.99297012302285,38.683006053447514,8.553016988869361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845091601:0794/pct:30.587540596397993,11.996251171508904,12.892431847259129,2.8506716651046546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -806,7 +806,7 @@ John Jldams to his wife.
 Every friend of education, who insists upon  
 qualifications superior to the present, is bound t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845092501:0349/pct:32.76652373207157,28.55694491382224,14.43146532603874,5.193195899515602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1845092501:0349/pct:32.76167947959787,28.553728317188558,14.434259806820421,5.19636554779605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ dain to be destitute of any usefid or ornamental
 knowledge.&quot; What says Horace Mann :  
 &quot;Every friend of education, who insists upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661022:1845121601:0087/pct:40.15875879487642,74.2002442002442,17.86036442359733,5.604395604395604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661022:1845121601:0087/pct:40.170785976306455,74.2083842083842,17.866378014312346,5.604395604395604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,7 +861,7 @@ ty , and spirit Make them consider every
 l»-! sh: uieful and unmanly. Make them  
 disdain to lie d&lt; siitute of any useful or orna
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1846010701:0455/pct:81.40129560177293,16.52881711960089,12.68325946130242,4.319285808060917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1846010701:0455/pct:81.38742116925175,16.52664741401943,12.68535878643259,4.322000525072197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -884,7 +884,7 @@ ambition to be useful. Make them
 disdain to be destitute of any useful or  
 ornamental knowledge.” What say
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87090125:00414212621:1846011001:0131/pct:81.69370128502212,34.17498532002349,15.167474194227934,7.178508514386377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_emerald_ver02:data:sn87090125:00414212621:1846011001:0131/pct:81.67649536647009,34.1699691765742,15.169545071609098,7.181124321150741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -908,7 +908,7 @@ bition to be Useful. Make them disdain
 to be destitute of any useful or ornamental  
 knowledge.&quot; What says Horace Maun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065542:0029587756A:1846011401:0476/pct:27.110128617363344,22.438682550805886,21.60369774919614,7.105816398037842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065542:0029587756A:1846011401:0476/pct:20.345798150381988,16.832515767344077,16.224366706875752,5.325858444288718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ spirit Make (hem consider ever vice as hame­
 U and unmanly. Make them disdain to be des­  
 titute of anv useful knowledge.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026593:00202198065:1846031101:0335/pct:33.59184914841849,48.28599412340842,24.118004866180048,6.148656001741212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026593:00202198065:1846031101:0335/pct:22.406449650136903,32.19066274893895,16.07849102525099,4.102731526825552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ unmanly. Fire them with ambition to be use­
 ful. Make them disdain to be destitute of any  
 useful knowledge.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1846070201:0485/pct:6.105990783410138,80.83824317086234,19.412442396313363,7.820032137118372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1846070201:0485/pct:4.589975033608604,60.632029994643815,14.55732667562896,5.865024102838778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1094,7 +1094,7 @@ them with ambition to be useful. Make
 them disdain to be destitute of any useful or  
 ornamental knowledge.” What says Horac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1847012301:0161/pct:31.46788990825688,25.217747720053286,12.568807339449542,3.9758171943846707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1847012301:0161/pct:31.47662734818698,25.221163370563925,12.568807339449542,3.9860641459165898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1230,7 +1230,7 @@ and unmanly ; fire them with ambition to be
 useful; make them disdain to be destitute of  
 any useful knowledge.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068958:00296027017:1850031601:0100/pct:22.102706453851493,67.55129958960329,17.192921582234558,4.8700410396716824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068958:00296027017:1850031601:0100/pct:16.594341260197883,50.6703146374829,12.897066481513626,3.652530779753762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1372,7 +1372,7 @@ shamefu and unmanly. Fire thorn with
 ambition to he useful. Make them dis­  
 dain to be destitute of any useful knowl- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93052117:00279557943:1853122401:0275/pct:26.01015228426396,33.81304640215198,17.868020304568528,4.895763281775387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93052117:00279557943:1853122401:0275/pct:26.02030456852792,33.81977135171486,17.868020304568528,4.895763281775387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1401,7 +1401,7 @@ keep it constantly in the mind.
 If all of us who arc parents, would  
 make this fentiment true, so far as wo ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855010401:0008/pct:107.6086956521739,86.72878368169226,15.794836956521738,13.422311760261898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855010401:0008/pct:80.72023101749618,65.04658776126921,11.856633259724818,10.073029463611181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1438,7 +1438,7 @@ s&#x27;uIer every
 diseoveror ot th&#x27;j circulation of the tuanly. Fire them with ambition to  
 blood, the four hundredth of Maoh- be useful. Make them disdain to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058333:00279528931:1869091601:0545/pct:50.68870523415978,87.4770009199632,22.58953168044077,4.197332106715732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058333:00279528931:1869091601:0545/pct:50.698371272533954,87.4770009199632,22.594364699627857,4.204998466727997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1459,7 +1459,7 @@ and respect. We vesterday visited Nassau
 professors, and president, whom we are this  
 to hear preach. Toi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875123101:0720/pct:6.518925913943708,194.47532614861032,46.58686509220317,8.065796937039138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875123101:0720/pct:2.1729753046479026,64.82510871620345,15.52895503073439,2.688598979013046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1476,7 +1476,7 @@ to hear preach. Toi
 not been able to be so particular as I could wish. I am,  
 ith the to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875123101:0720/pct:6.179230022646393,258.1735677821894,47.31478485926885,3.4486670448099828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875123101:0720/pct:2.059743340882131,86.05785592739649,15.771594953089615,1.1495556816033277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1552,7 +1552,7 @@ live.&quot;
 Teach them the real value of edu­  
 cation. Teach them that all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776579:1882041301:0462/pct:220.8299430431245,222.97897542197217,50.935720097640356,46.668640805448625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776579:1882041301:0462/pct:55.24119682475066,55.74474385549304,12.741705678811316,11.667160201362156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1574,7 +1574,7 @@ manly. Fire them with ambition to be
 useful; make them isdain to be des  
 titute of any useful knowledge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:0029455998A:1895022201:0501/pct:254.04388714733543,143.71080781999262,41.37931034482759,17.213820238534367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:0029455998A:1895022201:0501/pct:63.510971786833856,35.927701954998156,10.344827586206897,4.303455059633592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1605,7 +1605,7 @@ vice as shameful and unmanly. Fire them
 with ambition to be useful Make them dis­  
 dain 10 be destitute of any useful knowledge.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_clabbert_ver01:data:sn85040451:00414215142:1898033001:0051/pct:71.75202156334232,48.36829836829837,12.601078167115903,2.670057215511761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_clabbert_ver01:data:sn85040451:00414215142:1898033001:0051/pct:55.610486369808164,37.48836700060218,9.772656059603802,2.069305304647725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1636,7 +1636,7 @@ tivity and spirit. Make them conside;
 every vice as shameful and unmanly  
 Fire them with ambition to be usefu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287198:1899091301:0371/pct:3.9212694537686907,81.8861172508157,13.350625572169667,3.7574992106094096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287198:1899091301:0371/pct:3.9212694537686907,81.89313405606427,13.355711524768589,3.7539908079851245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -46,7 +46,7 @@ his nomination with thankfulness, and prays
 VI. Duponceau to be assured ol his high and  
 inmdly esteem and respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826110101:0265/pct:1.5249966847898158,40.91029606716748,17.464527251027715,12.602739726027398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826110101:0265/pct:1.5247944842216918,40.90668080593849,17.46663130911341,12.604571697890892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ thankfulness; and prays M. Oupanceau
 to be assured of his high asd friendly  
 esteem and respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826110701:0662/pct:31.816248404934072,24.474217167783145,12.71799234368354,12.089110453341641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826110701:0662/pct:31.809483308526474,24.470404984423677,12.720603869870295,12.091121495327103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ nation with thankfulness, and prays M. Dupmiceati
 to he assured of bis high and friendly esteem, and  
 rcipect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826111001:0228/pct:20.592020592020592,61.362266425557564,15.17052767052767,9.813140446051838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826111001:0228/pct:20.58870838024771,61.35486981677917,15.173449144817972,9.815975570556091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ llihR» &quot;&#x27;ho hts laid ilia foundation of government
 *l’vl ,0 only legitimate object of government,  
 th* happiness of man.” Mr. Madison observes’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826111301:0118/pct:1.9657577679137603,81.82207625303441,14.71147748890298,9.69584463801228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1826111301:0118/pct:1.9653423499577345,81.81039406053684,14.713651732882502,9.69802969731582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ of a Lycurgus, is truly an abandonment Q.-
 ail regaid to the only legitimate object CJ­  
 government, the happiness of man.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1844041601:0121/pct:55.876957810074785,77.29395156911717,12.741639621842811,8.13334781192312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1844041601:0121/pct:55.88636470532901,77.29395156911717,12.73223272658859,8.140587106815795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

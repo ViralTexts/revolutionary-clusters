@@ -124,7 +124,7 @@ oil which this ppli( y ha;
 which alone could vindicate our c .  
 i has been roul&#x27;.-d, and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800112801:0001/pct:35.86124401913876,15.086661642803316,37.27272727272727,79.81914091936699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800112801:0001/pct:35.86921850079745,15.096709369505149,37.29665071770335,79.81914091936699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ by our industry and dispatch, the zeal and
 sincerity with which we regard the public  
 good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800120101:0002/pct:7.141139697042559,3.6847982134311694,34.04664582832412,91.5776040835859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800120101:0002/pct:7.1591728780956965,3.6927739671398947,34.04664582832412,91.58159196044026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ poiicy has placed oursiﬂonntry. &#x27;.(&quot;h.e na.
 ticnass spirit, which alone could— vindicatc  
 our common rightsct has been wiss-at Me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121101:0015/pct:49.069266810181084,21.127903438482605,44.64986703811574,73.82087432802516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121101:0015/pct:49.063053937705746,21.125760649087223,44.64843420275175,73.81676808654497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ sitestisyyby our industry and dispat&#x27;ch, the {
 meal! and {incerity with which use-&quot;regard I  
 -the&quot;sipublicssssgoo&#x27;d. _ ,]
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121101:0018/pct:4.700038211692778,10.389875484792816,22.53216150808814,25.239844866299244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121101:0018/pct:4.6994396332144674,10.388815185222981,22.533537103073527,25.240670816750008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ on our part, to teifify f y our indutlry and d-f­
 patch, the real and ft nee; tty with wh vh  
 regard the pulj’ic g?od
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800121501:0507/pct:71.60833661030279,17.20797720797721,23.574518285489578,79.4074074074074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800121501:0507/pct:71.5942598781207,17.20601640838651,23.574798505995677,79.40120783956245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1205,7 +1205,7 @@ culated to promote the general interefl, we
 our industry and difparch, the zeal and fin­  
 ~cerity with which we regard the publi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800121601:0410/pct:23.78001549186677,18.180037222058967,16.886134779240898,69.64443138407287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800121601:0410/pct:23.785179447456752,18.18656740784275,16.886134779240898,69.64769647696477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1423,7 +1423,7 @@ erasing these powers, a regard must be had to
 those e&#x27;cnts winch will necessarily attend the  
 Capital of America.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830031501:0560/pct:43.767857142857146,58.54680392626287,18.482142857142858,8.893943021307159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830031501:0560/pct:43.760042849491164,58.539796529024535,18.484794381955602,8.896868142828646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1470,7 +1470,7 @@ these powers a regard must be had to those events
 which will necessarily attend the Capitol »f Ame­  
 rica.” On the 31st ot December 1SOO, on a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833072201:0049/pct:1.7587493338070705,24.00247831474597,18.067152247290814,8.364312267657992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833072201:0049/pct:1.758436944937833,23.999504398463635,18.06986382474837,8.367405938958411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1595,7 +1595,7 @@ Two Saa Fires.
 Saturday afternoon about 4:8S o&#x27;clock  
 somne excitement was caused in the pensio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654905:1893091801:0554/pct:50.24835763499439,64.69142191745375,11.937189552956257,4.541337818605253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654905:1893091801:0554/pct:50.25636917160711,64.69789105964549,11.9532126261817,4.544572389701125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1614,7 +1614,7 @@ tions, and that the wisdom, magnanimity, and steadi
 ness which mark the events of his public life may be  
 imitated in all succeeding ages.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045107:1893091901:0354/pct:116.02760736196319,277.4233128834356,51.15030674846626,6.319018404907975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045107:1893091901:0354/pct:29.02359485900633,69.3558282208589,12.794935737579129,1.5797546012269938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1643,7 +1643,7 @@ powers a regard must be had to those
 events which will necessarily attend the  
 capital of America.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655028:1895102401:0494/pct:57.003654080389765,26.772373837475225,13.784003248071457,6.616862326574173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655028:1895102401:0494/pct:57.003654080389765,26.777455912994867,13.790770063608067,6.616862326574173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1671,7 +1671,7 @@ be had to those events which will neces­
 sarily attend the capital of America.&quot;  
 A citizen of ashiugton suggests t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871295:1895102501:0190/pct:75.42814594192107,53.9232310775397,16.660461653015638,9.048866964698629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871295:1895102501:0190/pct:56.58164215229939,40.45013103129335,12.511636566747347,6.782796361954679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1701,7 +1701,7 @@ powers regard must be had to thos
 events which will necessarily attond  
 the capital of Ameri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539732:1895102501:1115/pct:38.035714285714285,60.90662533901588,36.42857142857143,22.956218519953506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539732:1895102501:1115/pct:12.68504338948443,20.30220844633863,12.149055640632977,7.652072839984502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1750,7 +1750,7 @@ ers regard mist be had to those events
 which will necessarily attend the capi­  
 tal of Americ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653459A:1895102601:0656/pct:42.98076923076923,121.6810592976396,19.21474358974359,10.166954519286126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653459A:1895102601:0656/pct:28.66762866762867,81.12454423335252,12.82667949334616,6.774131644597966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1808,7 +1808,7 @@ events which will necessarily attend
 the capital of America.&quot;  
 A citizen of Washington suggests t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760973:1895103001:0130/pct:78.27552986512524,90.18855864493449,30.948940269749517,21.140939597315437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760973:1895103001:0130/pct:52.2294528802121,60.131032278683286,20.655579657748856,14.093959731543624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1893,7 +1893,7 @@ events which will necessarily attend
 the capital of America.&quot;  
 A citizen of Washington suggests t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn84022650:00295868776:1895103101:0175/pct:90.73883161512028,78.93282931084617,15.446735395189004,10.831637103809246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn84022650:00295868776:1895103101:0175/pct:68.07011514005843,59.203256760686244,11.582746176318954,8.12736260540855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1958,7 +1958,7 @@ powers, regard must be paid to those
 events which will neoessarily attend  
 the capital of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_larch_ver01:data:2004260421:00295867693:1895110101:0892/pct:91.69470142977292,77.65151515151516,16.52649285113541,9.727272727272727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_larch_ver01:data:2004260421:00295867693:1895110101:0892/pct:68.81969282558384,58.24242424242424,12.413212707763519,7.303030303030303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1987,7 +1987,7 @@ be had to those events which will ne­
 cessarily attend the capital of Amer­  
 ica.&quot; A citizen of Washington sug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:0020029113A:1895110101:0391/pct:16.101162425384857,40.61077844311377,10.728872133207666,8.491017964071856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:0020029113A:1895110101:0391/pct:16.105089538171537,40.61077844311377,10.740653471567704,8.5/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

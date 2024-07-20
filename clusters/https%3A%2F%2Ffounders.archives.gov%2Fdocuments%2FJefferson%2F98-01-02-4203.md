@@ -141,7 +141,7 @@ neral good, I have only to add assurances to
 yowfelf of my great esteem and respect.  
 Til : JKFFF.HSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824042701:0465/pct:48.67300131061599,26.641294005708847,15.317824377457406,60.10941960038059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824042701:0465/pct:48.665028665028665,26.638125817576405,15.32077532077532,60.10623538272486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ aid assurances to yourself of my great esteem
 rcs* co(»  
 TiJ. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824042701:0109/pct:66.31729394949976,4.716870986573263,32.44402096236303,90.40280210157619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824042701:0109/pct:66.30676405208003,4.7163203362129344,32.44416216788398,90.39613977741459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ to add assurances to yourself of my
 1 great isieemami respect,  
 TH: JEFFEIISOX
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824050601:0288/pct:25.822573927530197,3.7083160370831605,34.652228238234066,90.9090909090909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824050601:0288/pct:25.817197584842805,3.707802988378528,34.65021861336665,90.89997232982844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -969,7 +969,7 @@ t h i, yet It could he mi more than an in t o
 j the legislature, subject iis their other act  
 »v, redo allei ali&gt;af*.y their successors.” W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824062201:0765/pct:21.97938144329897,5.409717186366932,30.90721649484536,90.51486584481508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824062201:0765/pct:21.974850546279118,5.408932714617169,30.90599876314162,90.50536542923435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1009,7 +1009,7 @@ male citi/.c ns.” Thus speaks Jelli rsnn on
 the so&#x27; jei t of extending the use of Hie  
 elective franchise, ami the ideas therei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824062201:0765/pct:37.34020618556701,32.86439448875997,15.525773195876289,14.474256707759245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824062201:0765/pct:37.33250876108019,32.859628770301626,15.527726242011957,14.47578306264501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ majority of our freemen from the right of repre­
 sentation, is merely arbitrary, and an usurpation  
 of the minority over the majority.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846100901:0142/pct:71.73489278752437,13.381294964028777,13.630229419703104,3.92326139088729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846100901:0142/pct:71.73489278752437,13.381294964028777,13.63522767031539,3.932853717026379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1173,7 +1173,7 @@ In the Arkansas case the question was fairly met by
 Gen, Jackson&#x27;s Attorne,-General, who decided that  
 the Legislature could not act in the formation of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857121801:0542/pct:154.7976501305483,93.76028202115158,47.193211488250654,29.518213866039954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857121801:0542/pct:51.599216710182766,31.253427340383862,15.73107049608355,9.839404622013317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1259,7 +1259,7 @@ tion.&#x27; Besides, no authority hMs yet decided whether I
 tbe resistance must be instantaneous ; when the right i  
 to resist oeaaes; or whether it has yet ceased.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1858020501:0481/pct:45.029662856316016,14.295181293193222,14.976125018087108,7.895484237432548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1858020501:0481/pct:45.03448608498529,14.301492631512513,14.980948246756379,7.8923285682729025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1379,7 +1379,7 @@ than the direction of government, yet among
 men who either pay or fight for their coun­  
 try, no line of right can be drawn. Iorks
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:00279554218:1865032001:0268/pct:105.19299641862315,188.16934845687155,68.52367688022284,21.22131363756265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:00279554218:1865032001:0268/pct:26.29824910465579,47.04233711421789,17.13091922005571,5.305328409390662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1419,7 +1419,7 @@ drawn.”
   
 To sum up our view?, if the writer o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664198:1865052001:0066/pct:25.569743009536126,40.53104256149941,19.16922579602392,2.674736431081609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664198:1865052001:0066/pct:25.580518291040352,40.537550436027594,19.163838155271808,2.674736431081609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1441,7 +1441,7 @@ permanent inducement to the entire race for its
 elevation. You give them a great motive to fill  
 up the ranks of our armies and navies, when th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528347:1865081901:0068/pct:54.27104403298584,137.83129613941668,36.984596234635134,8.991891564806972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528347:1865081901:0068/pct:18.09034801099528,45.94376537980556,12.328198744878378,2.9972971882689903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1466,7 +1466,7 @@ the direction of Government,&#x27;&quot;, yet
 for their country no line of right  
 can be drawn.”—Works, vol. 7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664198:1865100801:0544/pct:69.33113129644921,51.252566735112936,14.715111478117258,7.381930184804928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664198:1865100801:0544/pct:69.33663638865951,51.252566735112936,14.720616570327554,7.392197125256674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1543,7 +1543,7 @@ of right can be drawn.-WOrEs, VOL. 7, page 340.
 And to claim that persons of visible  
 admixture, who by the laws of the stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775174:1868070401:0225/pct:178.69986168741355,29.093820899506206,49.861687413554634,14.78713465901508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775174:1868070401:0225/pct:44.68269064499395,7.273455224876551,12.46757738198167,3.69678366475377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1564,7 +1564,7 @@ direction of Government, yet among
 men who either pay or fight for their  
 country no line of right can be draw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774972:1869080601:0382/pct:108.31928049465992,345.21986436228394,37.830241708825184,12.513673156858456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774972:1869080601:0382/pct:27.091241389006044,86.30496609057099,9.461549275973569,3.128418289214614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1585,7 +1585,7 @@ ernment, yet among men who either
 pay or fight for their country no line  
 of right can be drawn.&quot; Works, vol. 7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1869081201:0581/pct:92.09125475285171,52.5863227193336,16.692015209125476,5.172645438667204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1869081201:0581/pct:69.09471281856219,39.44645976084912,12.533282616964625,3.8828429396748625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1606,7 +1606,7 @@ Government, ret amonemen who eith
 er pay or fight for their country no line  
 of right o-o be drawn.&quot; Hro-,t, Vol.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026657:1869081301:0232/pct:86.78909952606635,97.89910680588753,13.047985781990521,3.434394263429362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026657:1869081301:0232/pct:65.1014664494149,73.43062020379922,9.791142053029182,2.5789407472638066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

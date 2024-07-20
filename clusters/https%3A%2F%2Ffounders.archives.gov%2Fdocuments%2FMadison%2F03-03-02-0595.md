@@ -286,7 +286,7 @@ Againfl the attack of M. Turgot, in his letter to Dr.
 Price, dated the twenty second day of March, 177 X,  
 By JOHN ADAMS, LL. D
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797030101:0001/pct:46.889599213179245,36.08247422680412,19.178755839685273,8.521262886597938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797030101:0001/pct:46.901893287435456,36.09052835051546,19.172608802557168,8.525289948453608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -895,7 +895,7 @@ session of tho Congress of the United
 States of America, begun and held at  
 the city of New York, 011 the fourth o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1873050801:0085/pct:52.37623762376238,25.127942681678608,14.653465346534654,1.76560900716479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1873050801:0085/pct:39.29691368212576,18.845957011258957,10.99191285690708,1.330603889457523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -102,7 +102,7 @@ near Charlottesville. * ’
 Arthur S. BuockHwbkovoh.  
 I rnetor ol the University
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1825021901:0040/pct:58.922498657598,6.222168732699482,34.07911222480759,87.97689252617644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1825021901:0040/pct:58.91195418754474,6.221419975932611,34.07897876401813,87.9703168872844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ opening the Institution, is the 7th of March —
 2. of Modern Languages; 3, Mathematics; 4,  
 Natural Philosophy,* 5, Natural History; b,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825030301:0464/pct:2.5192143467122117,22.42158608409807,16.737830913748933,2.7530475277359265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825030301:0464/pct:2.5186766275346852,22.41851547521227,16.73959445037353,2.7560942207614354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

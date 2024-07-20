@@ -84,7 +84,7 @@ deeply impressed -with the sacred principles of our
 tioiy Alliance 01 tvestrictmnists.&quot; 1 V. vol. Corres.  
 Loco tactics. Ono of the beneficiaries of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840051601:0034/pct:46.377101681345074,13.336445689386865,19.735788630904725,8.061002178649238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840051601:0034/pct:34.801762114537446,10.006224712107064,14.817781337605126,6.05353252412076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ were Virginians. These will return home, no doubt, deeply
 impressed with the sacred principles of our holy alliance of  
 restriciionisis.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854021701:0126/pct:20.064065230052417,78.4370477568741,17.152009318578916,2.8171731789676797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854021701:0126/pct:20.06891865657154,78.44347965910919,17.152009318578916,2.8203891300852226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ with the sacred principles of our holy alliance of rcs­
 trictionists.&quot;On the 15th February 1821, he wrote :  
 &quot; All, I fear, . do not sec the speck in the horizor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854022201:0242/pct:43.59122401847575,82.46575342465754,20.092378752886837,6.684931506849315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1854022201:0242/pct:32.69813772195756,61.85205479452055,15.071459506279774,5.019178082191781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ These will return home, no doubt, deeply impressed
 with the sacred principles of our holy alliance of rcs­  
 trictionists.&quot;On the loth February, 1821, he wrote 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854022201:0063/pct:42.22910216718266,82.62330493219729,20.325077399380806,5.78423136925477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854022201:0063/pct:31.686541737649062,61.97047881915277,15.254762273501626,4.344173766950678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ On the Ifitli of Feb 182i, he wrote
 &quot;All, i lear, do no&#x27; fee the Speck in oat-bori*  
 aon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854030801:0543/pct:78.57891976927111,23.519969785667076,11.667540639748296,5.117552639033141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854030801:0543/pct:78.57891976927111,23.519969785667076,11.680650235972733,5.123847291725679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ doubt, deeply imprassed with the sacred
 principles of our holy alliance of rese  
 rietionists.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856072501:0063/pct:84.98648071723353,38.028012449977766,101.3376974526825,15.506891951978657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856072501:0063/pct:28.32882690574451,12.67600414999259,33.77923248422751,5.168963983992886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ These will return home, no doubt, deeply
 impressed with the sacred principles of our  
 holy alliance of restrictionists.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1856072601:0398/pct:160.77537058152794,57.85142599481456,44.526795895096924,15.962123774095367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1856072601:0398/pct:40.211036646228436,14.46285649870364,11.136460858405817,3.990530943523842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ tionibts.&quot;.
 On the 15th of Feb., 1821, he wrote ;  
 &quot; All, I fear, do not see the sneek i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856082001:0034/pct:68.73522458628841,15.926826148138671,14.19917257683215,7.8418830753485995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856082001:0034/pct:51.57427937915743,11.948317768965076,10.65779748706578,5.884610464372521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ halt were Virginians. These mill return home 1
 no doubt deeply impressed with the sacred prin­  
 ciples of the Ifoly Alliance of liestriclionists!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857080501:0278/pct:55.97107073557947,57.11663371928834,11.959781266537307,4.7161818695283815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857080501:0278/pct:55.97695066737226,57.12604725595406,11.97154113012289,4.7161818695283815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ hall were Virginians. These will return home
 no douht deeply impressed with the socred prin­  
 ciples of the Holy Alliance of Rcstrictionists
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857080502:0123/pct:56.96736340300697,57.10429099175902,12.944627796112945,4.830917874396135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857080502:0123/pct:56.96736340300697,57.10429099175902,12.962962962962964,4.8356540683906415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ These will relurn home no doubl deeply
 impressed with the sacred principles of the  
 Holy lliance of Restrictionists!&quot; An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:277.67857142857144,174.92767598842815,51.13636363636363,20.76502732240437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:69.46192893401015,43.73191899710704,12.791878172588833,5.191256830601093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ will return home, no doubt, deeply im­
 pressed with the sacred principles of the  
 holy alliance of Restriclionists. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1859050501:0505/pct:110.49235181644359,49.354053548024716,16.551147227533463,4.437371278786744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1859050501:0505/pct:82.89505139851781,37.015540161018535,12.419316280181688,3.3327092304811834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ ot
 restrictionists.  
 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:67.23627998685508,27.86827195467422,14.886625041077883,7.766761095372994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:67.24175703801073,27.86827195467422,14.903056194544858,7.774630154233554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

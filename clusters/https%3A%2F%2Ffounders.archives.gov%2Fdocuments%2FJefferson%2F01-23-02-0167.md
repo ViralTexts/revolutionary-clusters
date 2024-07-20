@@ -67,7 +67,7 @@ clfticliye ol&#x27; morality, and which liad introduced m
 poison into the government itself.”  
 “Lot tlie Americans, said Win. 1’ilt, ndopt their fund
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031402:0410/pct:55.89753393232652,3.2764871760440446,40.22175492257694,92.26534174835504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031402:0410/pct:55.8868501529052,3.276047261009667,40.22043832823649,92.25742928750448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -90,13 +90,13 @@ selves in a species of gambling, destructive of mo­
 rality, and which had introduced its poison into the  
 government,’” was, in the words of Mr Jefferson, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838010901:0006/pct:36.71490593342981,73.75282282898789,13.907380607814762,4.208581400123178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838010901:0006/pct:36.71490593342981,73.7596660507767,13.92667631452002,4.205159789228769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n13/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n13/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -311,7 +311,7 @@ other branches of useful industry, to occu­
 py themselves and their capital in a spe­  
 cie of gambling destructive of morality.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1876100601:0359/pct:39.44407677035076,30.121872995509943,14.460622104566513,8.274534958306607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1876100601:0359/pct:29.592850049652434,22.591404746632456,10.857332009268454,6.209108402822322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ cies of gambling destructive of morality, and
 which introduced its poison into the Govern­  
 nent itself. He apprehended all sorts o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475427:1878051901:0397/pct:58.64661654135338,266.9371727748691,44.15413533834587,14.803664921465968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475427:1878051901:0397/pct:19.548872180451127,88.97905759162303,14.718045112781954,4.93455497382199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ jealous of his commanding lulluouce with tho
 people; fearful that they might again refuse to  
 permit his retirement at tho end of bis secon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880012101:0009/pct:58.27779258864303,82.10888484112527,13.089842708611037,15.057680631451124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880012101:0009/pct:58.28445747800586,82.10888484112527,13.10317248733671,15.06274033596438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ Instead of endorsing this paper, ns
 many embryo politicians, who are  
 not old enough to oxcrciso tho dut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1888062701:0768/pct:39.47098976109215,91.27195316657797,14.607508532423209,30.667908461947846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533626:1888062701:0768/pct:29.612561870626386,68.45396487493348,10.957501280081924,23.014236295902077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ Supreme Court in the Topeka bridge
 case To lay with one hand the  
 power of the gpvernment on the prop
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653459A:1895100701:0486/pct:44.3717277486911,11.549328938073934,19.50261780104712,33.72969154697434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653459A:1895100701:0486/pct:29.585992472590412,7.699552625382623,13.009327442317133,22.486461031316225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ ment. itself.&quot; His Democracy taught
 that cont ml of law should be only by  
 and for the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891972:1896041401:0483/pct:50.707202080962446,40.85261598085034,14.420419443992847,7.728257152627379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891972:1896041401:0483/pct:50.718040427030836,40.856415517306885,14.415000270958652,7.735856225540484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ them and their capitals in a species of
 tive of morality, and  
 which had introduced its poison into th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175032824:1896041401:0125/pct:86.78918169209432,46.43152058511266,40.96740638002774,8.446384334080452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175032824:1896041401:0125/pct:28.929727230698106,15.477173528370885,13.655802126675914,2.8154614446934842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -805,7 +805,7 @@ ofllcers of the govewlmant retire at the same
 time * would , he thought , produce a shockon  
 the public mind of dangerous consequence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538946:1896092001:0928/pct:60.72168508287293,44.25873080581601,16.281077348066297,12.637586628618019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538946:1896092001:0928/pct:45.561312607944735,33.194048104362004,12.210708117443868,9.488381573583368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ the enumeration of powers in the con­
 stitution does not at ail constitute the  
 limits of their authority.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899062501:0410/pct:81.6509280364702,60.58563535911602,14.376424617388473,11.138121546961326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899062501:0410/pct:81.6617822641919,60.58931860036832,14.381851731249322,11.138121546961326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

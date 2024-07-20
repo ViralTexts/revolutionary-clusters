@@ -64,7 +64,7 @@ a declaration to the effect of that first reso­
 lution, And on the 11th of June the ap  
 pointment was nude. The members ch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811051701:0085/pct:1.0658016682113067,23.413096432153605,23.795180722891565,9.915460667717438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811051701:0085/pct:1.0655547834144081,23.40974212034384,23.795459810053277,9.917621776504298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ Congress agree thereto, a committee be appointed
 to prepare a declaration to the effect of the words,  
 * That these United Colonies,’ &amp;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021391:00340588010:1826042201:0011/pct:40.15264333581534,49.646621202727836,17.18168279970216,5.331680099194048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021391:00340588010:1826042201:0011/pct:40.15884834946637,49.65488737342426,17.18168279970216,5.331680099194048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ all political connexion between them and the
 state of Great Britain is and ought to be, total­  
 ly dissolved.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072801:0613/pct:61.563025210084035,74.93903790733762,17.69747899159664,9.931279095544225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072801:0613/pct:61.55268022181146,74.9307325723152,17.700106424690528,9.933872695703572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ crown; that all political connexion between them
 anti the state of oftireat Britatu is and ought to  
 he. totally dissolved.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080101:0100/pct:21.36522014570795,23.78617555608706,14.855875831485587,6.0631427888065055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080101:0100/pct:21.361836896278703,23.783331340428077,14.858801794668778,6.066403603172705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ connexion between them and the state ol
 Great Britain is, aud ought to be totally  
 dissolved &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826090801:0262/pct:3.95010395010395,58.72516556291391,17.307692307692307,11.639072847682119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826090801:0262/pct:3.9490776825149387,58.715444462837276,17.3096908287867,11.641284555537164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ Crown ; and that all political connection
 between them and the State of Great Britain  
 is, and ought to bo, totally dissolved.’ ’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:0051701655A:1855101801:0067/pct:57.29429581019687,32.67781892478611,12.131919905771495,7.074447707827864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:0051701655A:1855101801:0067/pct:57.28465679676985,32.67364657814096,12.134084791386272,7.076736465781409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ crown and that all political connexion be
 twoen them and the Statu ot II rest Hritain i&gt;.  
 and ought to la-, totally duMolvr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1856071001:0148/pct:2.8831562974203337,31.086736902871987,12.5948406676783,8.240727377687978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1856071001:0148/pct:2.8958017197774404,31.09154760186655,12.607486090035406,8.250348775677105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ all political connexion between them and the
 State of Great Britain is, and ought to be, total­  
 ly dissolved.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857070101:0293/pct:70.30643650475044,26.916319926028663,12.59199785895892,7.184466019417476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857070101:0293/pct:70.29702970297029,26.913831360946745,12.594772990812595,7.186883629191321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ e next; and in the meanwhile, that no time be lost, ii
 l* be appointed to prepare a declaration to the effect o  
 ~ the said first resolution, which is in these word
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857070701:0239/pct:30.424665503199535,60.603787736733544,14.339732402559628,2.306394149634352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857070701:0239/pct:30.424665503199535,60.60691293205825,14.349427961993406,2.30951934495906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ political connexion between them and the
 State of Great Britian is, and ought to be  
 totally dissolved.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858070301:0315/pct:31.81587409037062,78.11136093109377,12.320189541377559,7.4064277212009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858070301:0315/pct:31.810490693739425,78.10103147315525,12.32233502538071,7.408754297804814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ and that all political connection between them
 and the State of Great Britain is, and ought to  
 be, totally dissolved.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858071101:0037/pct:74.47513812154696,236.94267515923568,37.790055248618785,23.312101910828027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858071101:0037/pct:18.626502694486664,59.23566878980892,9.451430150614895,5.828025477707007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ of Great Britain is, and ought to be,
   
 totally dissolved.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293046:1871070401:0016/pct:65.76524741081703,255.04977071915894,37.80207134637514,34.62699921708981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293046:1871070401:0016/pct:16.446043165467625,63.762442679789736,9.453237410071942,8.656749804272453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,7 +797,7 @@ British crown : and that all political connexion
 between them and the State of Great Britain  
 is, and ought to be, totally dissolved/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874070401:0157/pct:2.690034644385572,57.68545994065282,11.351131037293662,9.56973293768546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874070401:0157/pct:2.696827661164323,57.69040553907023,11.364717070851166,9.57467853610287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -953,7 +953,7 @@ Crown ; and that all political cuonection between
 them and the State of Great Britain is, j  
 and ought to be, totally dissolved.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1881101301:0317/pct:29.954456733897203,57.06487125830225,15.992192582953805,7.478846328814485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1881101301:0317/pct:29.963131641726306,57.07093682710096,16.00086749078291,7.475813544415128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ that a committee be appointed to prepare a
 declaration to the effect of the said first  
  resolution.&quot; Here, then we se the distinc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884070401:0648/pct:4.08781226343679,310.3701437748547,69.34140802422407,30.529213826858367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884070401:0648/pct:1.0221465076660987,77.59253594371367,17.338633352261972,7.632303456714592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

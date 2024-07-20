@@ -99,7 +99,7 @@ cause I would continue to merit this confidence for the
 fature that I have taken the liberty of entering into these  
 details. Allow me also to correct an error that has bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661629:1857101701:0062/pct:15.08813160987074,80.77981216203396,13.243243243243244,1.3471207665306897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661629:1857101701:0062/pct:15.08813160987074,80.77981216203396,13.247160203681943,1.3502830218511843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

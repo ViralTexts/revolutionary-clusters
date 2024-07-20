@@ -41,7 +41,7 @@ house, and sent to the Senate for their
 concurrence.  
 The bill sent from the Senate, rela
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791120501:0001/pct:67.26599682707563,61.67766258246937,17.79481755684823,12.120640904806786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791120501:0001/pct:67.26599682707563,61.69180018850141,17.808038075092544,12.115928369462772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -69,7 +69,7 @@ Hr it enacted, by the Senate and House
 of Representatives of the United States of  
 America in Congress assembled, Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808102801:0353/pct:58.73499714231282,73.56219913858627,17.812916746046866,8.221434000506713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808102801:0353/pct:58.72380952380952,73.55288157061432,17.815873015873017,8.224614735064387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,9 +105,9 @@ America in Congress assembled, Tha
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1838-01_1_2/page/n93/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1838-01_1_2/page/n93/mode/1up?view=theater)
 
-#### 1838-01-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1838-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -150,7 +150,7 @@ the first Monday of November next ; nnd afterwards,
 except when a special election shall be Ii-ld in pur­  
 suance of the 10th section of the act to which this i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844031201:0315/pct:20.89020771513353,30.031570639305446,15.786350148367953,7.280978689818469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844031201:0315/pct:20.89020771513353,30.038147855827415,15.79129574678536,7.277690081557485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ ing the electors of President and Vice
 President of the United States, in each  
 Slate, shall be the Tuesday next afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1844061501:0254/pct:19.435736677115987,13.566739606126914,20.543364681295717,15.346462436177973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1844061501:0254/pct:15.073152297144091,10.521952138684757,15.915348485666469,11.893725268513284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ President and Vice President of the United States,
 the President ot the Ienate pro tempore ana in case  
 there shall be no President of the Senate, then th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853042201:0529/pct:67.61917659804983,37.398134511536576,21.113217768147347,7.785959744722631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853042201:0529/pct:50.73150907613113,28.051055473735886,15.83581685180168,5.841924398625429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ pore, and in case there shall be no President of
 the Senate, then the Speaker of the Honse of Rep­  
 resentatives for the time being shall act as Pres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853042601:0343/pct:65.67304086989127,70.20679468242245,56.44919385076865,37.91728212703102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853042601:0343/pct:16.418260217472817,17.551698670605614,14.112298462692163,9.479320531757756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ dent of the United States, the President of
 the Senate pro tempore, and in case there shall  
 be no President of the Senate, then the Spea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1853042901:0119/pct:25.68671121009651,35.24647395615138,16.369710467706014,11.101801424382069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1853042901:0119/pct:19.2686096157416,26.434855467113533,12.288843512158902,8.336824465856724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ dent of the United States the President of the
 Senate pro tempore, and in case there shall be  
 no President of the Senate, then the Speake
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn87065674:00295878460:1853062101:0577/pct:24.779151943462896,46.94639390771987,20.53886925795053,11.213976407346573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn87065674:00295878460:1853062101:0577/pct:18.599514026949414,35.2097954307899,15.396509829909432,8.421681349858146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ tor a Vice President of the United States; and
 that the term of the President and Vice Pres­  
 ident so elected shall conmence on the fourt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470077:1856081501:0158/pct:235.04273504273505,303.96890343698857,49.287749287749286,33.5924713584288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470077:1856081501:0158/pct:58.76068376068376,75.99222585924714,12.321937321937321,8.3981178396072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ tors shall be equal to the number of Sena­
 tors and Representatives to which the seve­  
 ral States may by law be entitled at the tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292479:1856082101:0133/pct:74.45283018867924,52.025064954913645,16.566037735849058,10.713739874675225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292479:1856082101:0133/pct:55.88068718142345,39.01879871618524,12.422125731546158,8.039125783279841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ Senate pro tempore, and in case there shall be no Presi-
 dent of the Senate, then the Speaker of the House of  
 Representatives, for the time being, shall act as Presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862031901:0184/pct:195.5188679245283,63.385295200687366,44.221698113207545,14.09107646986621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862031901:0184/pct:48.87971698113208,15.846323800171842,11.055424528301886,3.5227691174665523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ and duties of the office of President, then the
 President of the Senate pro tempore, and in case  
 there shall he no President of the Senate, then th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1862060501:0417/pct:68.76673713883017,37.92556565870163,12.614517265680057,4.567561852400084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1862060501:0417/pct:68.75704622322435,37.92155618987208,12.616262683201803,4.5697219579236705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

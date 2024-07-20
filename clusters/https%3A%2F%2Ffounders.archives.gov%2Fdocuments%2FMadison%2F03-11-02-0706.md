@@ -265,7 +265,7 @@ as a debt of honor it cun never be cancelled until it he
 I fail Iv discharged.”  
 j That after the conclusion of a war. said by Congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826012001:0019/pct:39.672867222578574,75.29205607476635,18.02437459910199,3.7733644859813085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826012001:0019/pct:39.666506333173,75.28326130124985,18.02682913794025,3.776817349998053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ June 18,1763 ; It is therefore more than a common debt?
 t( ii a debt qf honor ; it can never be contidtred at a pension  
 or gratuity, nor cancelled until it is fairly discharged.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853122801:1377/pct:68.15399484536083,29.13840743531776,15.882731958762887,2.260738507912585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853122801:1377/pct:68.16473367697594,29.146780540902622,15.877362542955327,2.260738507912585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ honor; it can never be considered ax a pension
 or gratuity, nor cancelled until it is fairly dis­  
 charged.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854051001:0458/pct:44.704482348274496,30.782312925170068,12.878487372735687,5.399659863945578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854051001:0458/pct:44.704482348274496,30.785856009070294,12.8828947948345,5.406746031746032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ It can never be considered as a pension or
 gratuity, nor cancelled, until it is fairly dis­  
 charged.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340172:1855030301:0039/pct:66.78111587982832,47.63026970411102,12.600858369098713,3.757528148730034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340172:1855030301:0039/pct:66.76965327840713,47.62403455949732,12.602986611740473,3.7603089409608588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ honor; it can never be considered a* a pension
 or grgtuity, nor cancelled until it is fairly dis­  
 charged/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855121501:0486/pct:44.704482348274496,30.782312925170068,12.904931905328572,5.420918367346939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855121501:0486/pct:44.704482348274496,30.785856009070294,12.909339327427388,5.420918367346939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ Washington, dated at Newburg, June t71783:
 it can never be consicdered as a pension or gratuity, nor  
 cancelled until it is fairly dischargod.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855121601:1359/pct:56.91196698762036,248.9212897107634,45.856258596973866,9.42389758179232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855121601:1359/pct:18.970655662540118,82.97376323692113,15.285419532324621,3.141299193930773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ CoaOijQ debt—it is &lt;j debt of honor; it can
 aever be considered as a pension or gratuity,  
 nor cancelled until it is fairly discharged.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215944:1856032001:0652/pct:5.139949109414759,72.35170260654904,13.16030534351145,12.342989907790605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215944:1856032001:0652/pct:5.13942601261958,72.34644983301872,13.162358368953118,12.34451381830502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ fore, more than a common debt?it it a debt of honor ;
 it can never be considered as a pension or gratuity,  
 nor cancelled until it is fairly discharged. (Letter date
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856032202:0363/pct:63.61097420732709,53.92807918807167,15.83702973550189,5.450444806415236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856032202:0363/pct:63.61097420732709,53.93643236018878,15.858934340945183,5.454621392473792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ can never be considered as a pension or gra­
 tuity, nor cancelled until it is fairly dis­  
 charged.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856071601:0316/pct:6.58167803142603,28.99062725306417,12.847119280561321,7.995674116798846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856071601:0316/pct:6.5810276679841895,28.988537235959917,12.849143610013176,7.997500781005936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ debt; it is a debt o) honor. It can never be
 considered as a pension, or i;r utility, nor can 1  
 celled, until it is fairly discharged.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857010101:0009/pct:71.34175984443364,54.820811351646356,12.433155080213904,1.9647080225577587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857010101:0009/pct:71.3458110516934,54.820811351646356,12.433155080213904,1.9707719362076284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ common debt: it is a debt of honor; it can never
 be considered a pension or gratuity, nor canceled  
 until fairly discharged.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885012401:0505/pct:0.8103727714748784,14.801876434773929,16.18044300378174,5.040423195927738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885012401:0505/pct:0.8137493246893571,14.809362211797584,16.18381955699622,5.042918454935623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

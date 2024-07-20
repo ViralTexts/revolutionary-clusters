@@ -131,7 +131,7 @@ Lafayette, &quot;The basis of our proceeding with
 &quot;lators, and the lawless conduct of our fron-­  
 &quot;tiersmen,&quot; but yet these efforts were neve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531058:1870060101:0222/pct:151.43182557761145,6.015471654543355,96.98991213797592,291.05184158873107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531058:1870060101:0222/pct:50.47727519253715,2.0051572181811186,32.32997071265864,97.01728052957704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ acter.&quot;Tho kov of the Bastilo. and the
 itrnwinff renresentins the demolition  
 of the fortress, are at Mount Vernon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1888071901:0695/pct:131.875,207.1723770163978,51.40625,39.461405145980535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:00200296953:1888071901:0695/pct:32.975190466888066,51.79309425409945,12.854073061144755,9.865351286495134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ much lustre you reflected on à country
 η which you made the first displays of  
 your character.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340214:1895040601:0334/pct:73.78756830601093,51.46538298173581,11.116803278688524,5.3659917881919865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340214:1895040601:0334/pct:73.77497012122247,51.458097395243485,11.119173638381424,5.3687712344280865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ a part you bore, and bow much lustre you
 reflected on a country in which you made  
 the first displays of your character.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1895050901:0079/pct:14.878561866513675,69.41474395047834,11.2067316886594,5.936972425436128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1895050901:0079/pct:14.875717017208412,69.40497960331973,11.209369024856597,5.9396539597693065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

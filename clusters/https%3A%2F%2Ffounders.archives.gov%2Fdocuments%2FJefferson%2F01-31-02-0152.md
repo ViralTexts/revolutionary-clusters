@@ -77,7 +77,7 @@ great regard Sir •*
 ^ our rnoft obedient frrvt.  
 . Tils. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024678:00414184352:1802100601:0134/pct:28.443616029822927,39.61169944528492,20.205032618825722,30.168935955622793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024678:00414184352:1802100601:0134/pct:28.438315318673126,39.606706164124546,20.207479189961486,30.169334846001934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ great regard Sir &quot;
 l Your most obedient servant. -  
 &#x27;lsiH&#x27;sss jEFF-ERSON&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100901:0440/pct:31.578122551324245,4.006827778276884,44.96160476414355,92.45350822028568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100901:0440/pct:31.573174553431524,4.006467840459935,44.95978272223963,92.44819738890885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ with great regard Sir,
 Your moil obedient fervant,  
 TH’s JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1802120601:0111/pct:42.51148004238785,4.122011541632316,37.70752384316496,93.48722176422093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1802120601:0111/pct:42.50397315910295,4.121586810922205,37.7052798869857,93.48016486347244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ that book was neat-ly printed, wrote to M r­
 Ca&#x27;ilender another letter, in which are these  
 words :, &quot; 1 thank yousesiir the proof sheets 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021201:0212/pct:28.800388538125304,50.40877176108493,23.085640278452324,21.563912667115513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021201:0212/pct:28.79572677241826,50.403923831506056,23.087299018020936,21.565044559851252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

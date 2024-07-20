@@ -205,7 +205,7 @@ gress, the several States containing wasto and un­
 cultivated lands, made cessions of litem to tho Uni­  
 ted States. The declared object having been sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832051501:0175/pct:3.98066533977822,34.88903394255875,14.61472846175718,5.6244560487380335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832051501:0175/pct:3.9800995024875623,34.885238768628305,14.617389244254916,5.627470176583633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ particular State, pursuant Jo the recommendation of
 Congress of the 6th of September last, shall be deposed  
 V for the common benefit of the United State*?&#x27; O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1840013001:0024/pct:61.166306695464364,21.517241379310345,17.084233261339094,2.9793103448275864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1840013001:0024/pct:61.153098682789896,21.514273893256103,17.085942561001943,2.982347262446559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ particular State, pursuant to the recommendation ol
 Congress in September last, shall be disposed ot fob  
 THE COMMON BENEFIT OF THE UNITED STATES.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1840031901:0044/pct:25.508196721311474,15.779283639883834,16.983606557377048,2.1850366477665606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1840031901:0044/pct:25.502622377622377,15.777101769911505,16.98535839160839,2.188191371681416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ Resolution of Congress, Oct 10, 1780.
 &quot;Resolved, That the unappropriated lands that  
 may be ceded or relinquished to the United States,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840081701:0160/pct:136.044776119403,264.6733111849391,56.791044776119406,9.30232558139535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840081701:0160/pct:34.0302408064215,66.16832779623478,14.205712152324063,2.3255813953488373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ one is, that by the cession of Virginia a fund was ce­
 ded?expressly and emphatically a fund?to be used in  
 the general charge and expenditure, for the use and be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841012801:0139/pct:31.892129561776343,81.68915542228885,15.594313351897991,4.287856071964018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841012801:0139/pct:31.897014998290096,81.69248708978844,15.594313351897991,4.291187739463601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ contract ontered into between the parties, and for be
 slowing these lands upon the States as Mr Benton pro­  
 poses? There is none, and the pfety slang upon th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841020201:0572/pct:12.792674950948332,202.39468814629367,37.802485284499674,16.59954283226298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841020201:0572/pct:4.263667277007586,67.457553330431,12.599180399337344,5.532578725874329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ disposed of for the common benefit of the United
 States.&quot;  
 Your committee consider this a solemn pledg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841062801:0346/pct:143.52941176470588,151.77149134853062,56.10294117647059,17.028288931612195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841062801:0346/pct:35.89554983449798,37.942872837132654,14.030893710923133,4.257072232903049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ may be ceded to the United States by any particu­
 ar State, pursuant to the recommendation of  
 of the 6th of September last, shall be dispose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841100501:0908/pct:53.91169635941131,70.63213841456519,38.5437645236251,8.255117041727921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841100501:0908/pct:17.967781908302353,23.54138398914518,12.845931433292028,2.7513945424393187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ the sixth of September last, shall be disposed of for the !
 common benefit of the United States, which sha&#x27;l be­  
 come members of the Federal Union and have the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1841110901:0174/pct:35.1138353765324,15.028660760812924,14.973730297723293,4.304325169359041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1841110901:0174/pct:35.11870013621327,15.035608824040299,14.983459817085036,4.297377106131666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ pursuant to the recommendation of Congress of the
 6th day of September last, shall be disposed of for  
 the common benefit of the United States,&quot; &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842071801:0784/pct:56.47504737839545,17.411491584445734,38.060644346178144,8.020893789901335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842071801:0784/pct:18.822043265435024,5.8031569173630455,12.684878151481657,2.673320953265243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ any particular State, shall be disposed of tor the
 the patriotic impulses thus awakened?In 1781, i  
 New York made her compact of cession of he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845020801:0074/pct:4.122023809523809,30.116504854368934,13.913690476190476,3.495145631067961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845020801:0074/pct:4.122023809523809,30.12297734627832,13.92361111111111,3.4919093851132685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -643,7 +643,7 @@ States.
 Agreeably to this recommendation, Virginia,  
 in March, 1784, ceded to the United States th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00202193973:1850050701:0143/pct:57.44091580502216,38.25743994263177,20.365583456425405,7.816421656507709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00202193973:1850050701:0143/pct:57.44091580502216,38.25743994263177,20.37173806006893,7.824389466555117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ mendation of Congress of the Gth of September
 last, shall be disposed of for the common benefit ol  
 the United States,” that is, of the confederate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852033101:0297/pct:19.4359756097561,32.811641954969794,14.691310975609756,5.28555738605162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852033101:0297/pct:19.432272813869307,32.80713795470144,14.693274909506572,5.288263555250515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ gress of the 6th of September last, shall be disposed of for
 the common benefit of the United States,  
 The foregoing resolution prompted the State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853053001:0565/pct:8.735440931780365,128.21691176470588,38.87271214642263,7.169117647058823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853053001:0565/pct:2.9118136439267888,42.7389705882353,12.95757071547421,2.389705882352941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -772,7 +772,7 @@ may be ceded or relinquished to the United States
 by any particular State, pursuant to the recommen­  
 dation of Congress, shall be disposed of for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1853110901:0177/pct:68.567335243553,70.35069075451648,20.630372492836678,4.782146652497343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1853110901:0177/pct:51.44003438888093,52.76301806588735,15.474996417824903,3.59192348565356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ may be ceded or relinquished to the United States
 by any particular State, pursuant to the recommen­  
 dation of Congress, shall be disposed of for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853110901:0363/pct:69.47289156626506,72.19907131801405,20.045180722891565,4.691034646981784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853110901:0363/pct:52.13198734367937,54.14930348851054,15.036914268494803,3.5242290748898677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ suant to the recommendation of Congress of the
 common benefit of the United States, and be set­  
 tled and formed into distinct republican States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1854051701:1036/pct:259.3220338983051,227.25588780100557,58.55161787365177,20.428684837258533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1854051701:1036/pct:64.84299749566557,56.81397195025139,14.640724330572144,5.107171209314633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -856,7 +856,7 @@ lands that may be ceded or relinquished to
 the United States, by any particular .State,  
 pursuant to the rccomiuedation of Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1854072901:0113/pct:23.741959894059782,46.49392475479432,16.04237608777904,5.328648806909676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1854072901:0113/pct:18.399960903137522,36.03600196649397,12.447463591046818,4.125855613962107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -878,7 +878,7 @@ members of tbe federal Union, and have the same rights or
 sovereignty, freedom, and independeoc? as the other  
 States,&quot; and &#x27;&#x27;that tbe said lands shall be gran ted, or set
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856020801:0162/pct:80.39763391390076,52.308472856418064,15.9875123233651,3.8559107052257735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856020801:0162/pct:80.39763391390076,52.31692880094707,16.003943476832074,3.8559107052257735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ recommendation of Congress of the 0th of Sep
 tember last, shall be disposed of for the common  
 benefit of the United States,&quot; that is of the cox
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857042901:0895/pct:19.147694103911267,368.2549048532232,58.552247518972564,18.660569405517037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857042901:0895/pct:4.785992217898833,92.05014749262537,14.635214007782102,4.6644542772861355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -922,7 +922,7 @@ the common benofit of the United States.&quot; (See
 Hickey&#x27;s compiiation, pa 421.) Then, and  
 not till then Maryland agreed to come into th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn96091000:00212470089:1857062201:0596/pct:86.15819209039547,279.4581033617662,49.26553672316384,16.658304064224787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn96091000:00212470089:1857062201:0596/pct:21.545634359988696,69.86452584044154,12.319864368465668,4.164576016056197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -945,7 +945,7 @@ State.&quot; (See Hickey&#x27;s compilation, p.
 421.) Then, and not till then Maryland  
 agreed to come into tho confederacy; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033372:00200293897:1857070301:0120/pct:44.01737967914438,90.34618632141851,16.49398395721925,6.867435969603152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033372:00200293897:1857070301:0120/pct:33.03795351947835,67.75963974106389,12.372512957699382,5.1646495918941735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1062,7 @@ common benefit of the United States
 and be settled and formed into dis­  
 tinct republican states, which shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1896071001:0912/pct:21.18096357226792,66.08710923779417,15.893066980023502,6.726378644186863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1896071001:0912/pct:21.202996474735606,66.0958904109589,15.907755581668626,6.743940990516333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

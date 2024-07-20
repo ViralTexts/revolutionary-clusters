@@ -69,7 +69,7 @@ gance, and infidelity to their engagements.’ The last named
 wrote in 1787, &quot;there is no person whom I  
 shall see again with more cordial joy tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664436:1878071001:0044/pct:49.62706446457113,44.74981738495252,41.07618540223761,3.506208911614317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664436:1878071001:0044/pct:16.54235482152371,14.916605794984173,13.69206180074587,1.168736303871439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ teem. It is indeed as
 for sonsible minds, but it is a  
 cine. It will prevent their crediti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045132:1894042401:0802/pct:336.1111111111111,296.53905053598777,52.31481481481482,76.93721286370597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045132:1894042401:0802/pct:84.07643312101911,74.13476263399694,13.086276780544296,19.23430321592649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ teem than, Dear Sir,
 your friend a servant.  
  TH lEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:0017503111a:1894042401:0692/pct:11.333899745114698,10.635458371830408,83.10960067969414,280.97731239092496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:0017503111a:1894042401:0692/pct:3.7779665817048995,3.545152790610136,27.70320022656471,93.65910413030832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ try one of the happiest upon
 earth.&quot; Many a man and woman  
 too would have a happier lot if the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_quartz_ver01:data:sn85025007:0017503366A:1894042501:0394/pct:2.1233569261880687,57.7313769751693,13.953488372093023,3.8826185101580135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_quartz_ver01:data:sn85025007:0017503366A:1894042501:0394/pct:2.1345916189192224,57.73890142964635,13.947871025727446,3.878856282919488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ esteem titan Dear Sir
 your friend it servant  
 Th: Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513688027:1894050201:0837/pct:67.2193074501574,29.6822272215973,12.717733473242392,58.787964004499436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513688027:1894050201:0837/pct:67.2193074501574,29.691601049868765,12.731724379153551,58.79265091863517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ prevent their crediting u
 abroad. In which case we cannot be  
 credited at home,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_iavaroni_ver01:data:sn83045555:206539768:1894052301:1393/pct:69.28284854563691,160.53452984783456,36.25877632898696,45.94225516972298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_iavaroni_ver01:data:sn83045555:206539768:1894052301:1393/pct:23.1058705469142,53.51150994927819,12.092323130958354,15.314085056574328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

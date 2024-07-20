@@ -48,7 +48,7 @@ and Patriot, now lies numbered with the fu, Jcknowlcd^cnt w;d un.
 mighty dead :at a period too, the mod in- fe;gned thanks for the personal refpeft and  
 tersdingand eventful in the annals of time ; &#x27; evidences of condolence exprefled by Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800011001:0003/pct:8.308121945543402,58.05390159824506,33.046311380032584,9.793168285803823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800011001:0003/pct:8.325575983244123,58.05390159824506,33.046311380032584,9.793168285803823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ and yourfelf, I remain very leipedlfilly. Sir,
 Your moll obedient humble fervant  
 MARTHA WASHING I ON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800012001:0325/pct:3.891941391941392,27.504685022343953,23.282967032967033,17.77425400028831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800012001:0325/pct:3.8910505836575875,27.500720668780627,23.28336003662165,17.775295474200057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ fully, fir, your most obedient and humble
 {ervant, A &quot;]  
 MARTHA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800012201:0223/pct:39.71771133707695,53.31778878849704,16.178479283654575,15.75828232779559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800012201:0223/pct:39.72277027368847,53.32102723533793,16.1835382202661,15.75828232779559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ gress and yourself­
 Sir, your most obed’t humble serv’t,  
 martha Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824012001:0040/pct:26.491477272727273,75.82741671217914,17.347301136363637,14.60404150737302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824012001:0040/pct:26.486774365347063,75.81913499344692,17.350139061482928,14.606087083151303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ I remain very res(Ji)ec&#x27;tfully, Rl
 : your most obed’t humble serv’t.  
 it MARTHA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824012701:0221/pct:38.933063466820876,71.64710409851837,16.047419401474627,17.75062536078507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824012701:0221/pct:38.933063466820876,71.65031107690334,16.047419401474627,17.757039317554998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ do’.ence expressed by Congress, and yourself, I remain !
 very respectfully, sir, your most obedient humble ser- &#x27;  
 vant, MAKTlI A * ASHING ION” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830022401:0497/pct:37.78409090909091,8.698282119525768,18.821022727272727,11.625937575610937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830022401:0497/pct:37.77738327711699,8.697229950405225,18.823599029528374,11.628563364380469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -713,7 +713,7 @@ Crr&amp;», ami yourself, l remain, very, respect­
 lully, your most obedient humble servant,  
 “MA&amp;TliA WASHINGTON 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1832021601:0032/pct:25.34640801534854,2.257747861450007,35.87721168194415,90.29589117935774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1832021601:0032/pct:25.341005967604435,2.2574312955692655,35.87489343563512,90.28673583847448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ evidences of condolence expressed by Con*
 fully, your most obedient bumble servant,  
 MARTHA WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1832022301:0446/pct:15.622496394808524,31.006864988558352,14.741227367409069,12.734553775743708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1832022301:0446/pct:15.6199935917975,31.003317698203865,14.744205916906974,12.736910345879572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -945,7 +945,7 @@ this I need not, I caunot, say what a sacrifice of
 individual feelings I make to a sense of public  
 duty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843060901:0521/pct:332.8686720469552,172.1800116890707,49.88994864269993,13.091759205143191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843060901:0521/pct:83.23243441570354,43.04500292226768,12.474775270592552,3.2729398012857978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -985,7 +985,7 @@ request made by Congress; and in doing this I
 need not, I cannot, say what a sacrifice of indi­  
 vidual feeling 1 make to a sense of public duty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843070601:0638/pct:37.454580225664564,22.848999071987272,14.237903996940142,2.976269388837333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843070601:0638/pct:37.450999139497085,22.847484589381587,14.239729738343373,2.9782815227237576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1024,7 +1024,7 @@ this I need not, I cannot, say what a sacrifice of
 individual feeling I make to a sense of public  
 duty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843072201:0622/pct:257.5780089153046,179.98269397173348,57.949479940564636,18.57513700605711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843072201:0622/pct:64.43040327076751,44.99567349293337,14.495446942947408,4.643784251514277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +1065,7 @@ gress; and in doing this, I need not, I can­
 not, say what a sacrifice of individual feel  
 ings I make to a sense of public duty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1843090601:0535/pct:115.3782894736842,276.8027530111059,52.796052631578945,17.456593148756454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1843090601:0535/pct:28.84457236842105,69.20068825277647,13.199013157894736,4.3641482871891135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ request made by Congress; and in doing this, I
 need not, I cannot say what a sacrifice of individu­  
 al feeling I make to a sense of public duty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845091801:0150/pct:132.94842186297151,158.44748858447488,55.73518090839107,11.58675799086758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845091801:0150/pct:33.23710546574288,39.61187214611872,13.933795227097768,2.896689497716895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1148,7 +1148,7 @@ doing this, I need not, 1 cannot say what a sacri­
 fice of individual ieeling 1 make to a sense of  
 public duty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021203:00517172066:1848112501:0350/pct:97.21303731695797,30.87006626332469,25.38970240906944,5.848458657447422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021203:00517172066:1848112501:0350/pct:75.35082367297133,23.92825245608812,19.682733374008542,4.5363203334325695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ and that his best services and most anxious wishes
 were always devoted to the welfare and happiness of  
 his beloved country, and his example will teach wisdo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530388:1852071501:0315/pct:247.68618344667442,109.549222209606,46.39243655664289,4.269331213807199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530388:1852071501:0315/pct:82.56206114889147,36.516407403201995,15.464145518880965,1.4231104046023997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1239,7 +1239,7 @@ gress and yourself, I remain, very respect­
 follj, sir, your most obedient, humble ser­  
 vant, MARTHA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853030301:0240/pct:1.4170692431561998,70.71569955203667,19.613526570048307,21.21054276487134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853030301:0240/pct:1.4210950080515299,70.72351286592354,19.62157809983897,21.218356078758205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1273,7 +1273,7 @@ prerzed by Congrers and yourrell, I remain, very respeet­
 fully, sir, your mont obadient cervant,  
 MARTHIA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853092601:0683/pct:57.73660490736104,118.12420785804817,47.03722250041729,22.779122018665745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853092601:0683/pct:19.245534969120346,39.37473595268272,15.679074166805764,7.5930406728885815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1315,7 +1315,7 @@ With grateful acknowledgments and unfeigned tba i
 for the personal respect and evidences of condolence ex­  
 pressed by Congress and yourself, I remain, very respcct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853102201:0781/pct:34.413965087281795,55.27129303912163,15.613743419229703,8.549195181750347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853102201:0781/pct:34.41858317170038,55.274846320577055,15.613743419229703,8.55274846320577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1461,7 +1461,7 @@ by Congress und yourself,
 humble servant,  
 &quot; MARTHA. WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859032601:0297/pct:1.5614938828074694,29.3425172197871,17.128139085640697,10.720100187852223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859032601:0297/pct:1.5722257995277957,29.350866207472343,17.128139085640697,10.720100187852223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1499,7 +1499,7 @@ of condolence expressed by Cong
 I  
 very respectfully, sir, your mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859040301:0315/pct:24.98605688789738,147.875226039783,33.90964863357502,30.289330922242314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859040301:0315/pct:6.249128190821593,36.96880650994575,8.48095968754359,7.5723327305605785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1539,7 +1539,7 @@ I remain, very respectfully, air, your moat
 obedient humble servant,  
 Martha Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859041401:1082/pct:51.255685188847146,22.248555769515626,13.248961835080086,11.73159531921197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859041401:1082/pct:51.255685188847146,22.25349330963314,13.268736404983192,11.736532859329483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1598,7 +1598,7 @@ goodness to transmit to me; and in doing this I need
 not, I canno say, what a sacrifice of individual feel­  
 ing I make to a sense of public duty.&quot; But to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871010101:0027/pct:55.67741935483871,208.31712618693513,45.53225806451613,17.629561835030316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871010101:0027/pct:18.559139784946236,69.43904206231171,15.17741935483871,5.8765206116767725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1623,7 +1623,7 @@ d transmit to me; and in doing this I need not, /;
 cannot say, what a sacrifice of individual fcelag  
 I make to a sense of public duty,&quot; Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663675:1871092601:0260/pct:66.7407613225896,2.5910627112279383,33.16198944151153,96.01952684941794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663675:1871092601:0260/pct:66.7407613225896,2.5973213168106146,33.166620357506716,96.01952684941794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1642,7 +1642,7 @@ private wishes to the public will, I need not,
 1 cannot, say what a sacrifice of individual  
 feeling I make to a sense of public duty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895904:1874062501:0905/pct:17.97649651120088,51.81443005550021,12.541314726404702,2.917318912765049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895904:1874062501:0905/pct:17.973196254819168,51.80705748434832,12.543601982742794,2.9204610130904953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1684,7 +1684,7 @@ this I need not, I cannot, say what a sacrifice of
 individual feeling I make to a sense of dublic  
 duty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876022201:0184/pct:288.55172413793105,156.84734223618747,43.310344827586206,23.618748363445928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876022201:0184/pct:72.16281476371162,39.21183555904687,10.831321145222491,5.904687090861482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1728,7 +1728,7 @@ wishes to the public will, I need not, I cannot
 say what a sacrifion of individual feeling I make  
 to a sease of publis duty. e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1876051701:0991/pct:132.48610007942813,337.7224714223701,40.42891183478952,37.73694110837795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1876051701:0991/pct:33.12152501985703,84.43061785559253,10.10722795869738,9.434235277094487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1783,7 +1783,7 @@ will, I need not, I cannot say, what a
 sacrifice of individual feeling I make to a  
 sense of public duty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623781:1877042101:0075/pct:37.20788457630563,52.266626901282436,11.115626905100589,2.907843722039964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623781:1877042101:0075/pct:37.21465826728985,52.27656824734069,11.108853214116372,2.907843722039964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1803,7 +1803,7 @@ the public will, I need not, I cannot, say
 what a sacrifice of individual feeling I  
 make to a sense of public duty.&quot; In vie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287472:1880031301:0718/pct:56.628352490421456,68.55983772819472,43.2183908045977,12.170385395537526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287472:1880031301:0718/pct:14.162514373323113,17.13995943204868,10.808738980452281,3.0425963488843815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1845,7 +1845,7 @@ this, 1 need not, I cannot, say what a
 sacrifice of individual feeling 1 make  
 to a sense of public duty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768825:1881021001:0903/pct:63.61050328227571,30.248212031973075,17.024070021881837,4.86607768896368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768825:1881021001:0903/pct:63.61050328227571,30.25288645818726,17.024070021881837,4.861403262749498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1867,7 +1867,7 @@ this, I need not, I cannot, say what a
 sacrifice of individual feeling I make  
 to a sense of public duty.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876487:1881021701:0168/pct:41.99752713284792,38.08726587841373,10.81192471493337,3.6517735691116457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876487:1881021701:0168/pct:42.00668590007785,38.09075372327439,10.807345331318405,3.6517735691116457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1887,7 +1887,7 @@ wishes to tbs public will, I need hot, I
 cannot say what a sacrifice of individual  
 feeling I make to a-sense 6f public d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775265:1881063001:0255/pct:82.99935358758889,50.63145809414466,14.431157078215902,4.286261002678913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775265:1881063001:0255/pct:62.279708973322556,37.97678275290215,10.832659660468876,3.214695752009185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1909,7 +1909,7 @@ sacrifice of individual feeling I make to a
 sense of public duty.&quot;  
 Yet, notwithstanding the painful sac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296138:1884040901:0265/pct:196.4152352501867,74.67015022860875,42.79312920089619,14.944480731548008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296138:1884040901:0265/pct:49.13132822716234,18.667537557152187,10.704277974967308,3.736120182887002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1928,7 +1928,7 @@ my private wishes to the public will, I need
 not, cannot say what a sacrifice of individual  
 feeling I make to a sense of punlic duty.&quot; Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82014424:00211102858:1884120601:1178/pct:79.64022894521668,125.34880075246905,47.914963205233036,7.399278883837592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82014424:00211102858:1884120601:1178/pct:19.922274493761506,31.33720018811726,11.986091225199427,1.849819720959398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1959,7 +1959,7 @@ have so long had before me. never to oppose
 ! consent to th r»*|U***t made bv congress,  
 i which you have bail the go *!«•»• to traas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867055:1884121101:0403/pct:18.09338521400778,25.094645754461872,13.334331038611195,8.307193077339102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867055:1884121101:0403/pct:18.09067783929373,25.09193164611724,13.337323557284652,8.30989977647992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1976,7 +1976,7 @@ sented to the removal of the body, saying, I need
 not, I cannot say, what a sacrifice of individual  
 feeling I make to a souse of public duty.&quot; But th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:0017503805A:1885021501:0396/pct:7.469287469287469,156.26361031518624,48.173628173628174,5.765042979942693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:0017503805A:1885021501:0396/pct:2.48976248976249,52.08787010506208,16.057876057876058,1.9216809933142311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2003,7 +2003,7 @@ feeling I make to a souse of public duty.&quot; But th
 so long had before me never ta oppose my  
 private wishes to the public wiil, I nee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82014424:00211102834:1885022101:0186/pct:17.438921651221566,317.5815433571997,48.60994102780118,5.3460620525059666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82014424:00211102834:1885022101:0186/pct:4.3597304128053915,79.39538583929992,12.152485256950294,1.3365155131264916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2022,7 +2022,7 @@ wishes to the public will, I need not, I can1
 not say what a sacrifice of individual feeling I  
 make to a sense of public duty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885022101:0625/pct:55.38025889967638,37.78751369112815,15.102481121898597,1.951608085233496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885022101:0625/pct:55.38700107874865,37.79000298715523,15.105852211434735,1.9590759733147467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2042,7 +2042,7 @@ will, I need not, i cannot say, what a sac­
 rifice of Individual feeling I make to a  
 sense of public duty.&quot; This incident af
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175035278:1885080601:0379/pct:43.271352032776555,25.015954052329292,13.378506145603529,2.9780897681344394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175035278:1885080601:0379/pct:43.27660468536611,25.023044742253422,13.378506145603529,2.9816351130965044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2083,7 +2083,7 @@ fully, sir,
 Your most obedient and humble servant,  
 M a k r 11 a Wash i v&lt;m &gt;n 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341796:1887051001:0249/pct:25.76129311588974,46.56550328780981,11.560109683937076,11.755184623166414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341796:1887051001:0249/pct:25.757575757575758,46.56079304066356,11.563251563251564,11.757367320790344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2171,7 +2171,7 @@ gress and yourself, I remain, very repect­
 fully, sir, your most obedient and humble  
 servant, Martha Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181958:1887052201:0185/pct:39.02792890823359,31.86783178590934,16.340224882118246,14.814309120699072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181958:1887052201:0185/pct:30.2553291168892,24.69754153292653,12.663387210119465,11.48107650523791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2238,7 +2238,7 @@ It does not appear in the records that
 Mrs. Washington ever formally with­  
 drew this permission or changed her de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524123:1894010201:0220/pct:256.89851767388825,83.87222819185308,29.317116432281768,26.23815570968057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524123:1894010201:0220/pct:85.62199138586269,27.95467864817347,9.771134194747065,8.745197629745393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2275,7 +2275,7 @@ it does not nppear in the records that
 Mrs. Washington ever formally with?  
 drew this permission or changed her de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:0017503173A:1894010501:0501/pct:33.36512781381152,44.27719012747491,16.31056848531095,11.499864388391646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:0017503173A:1894010501:0501/pct:33.36512781381152,44.28623090136516,16.316927381406586,11.499864388391646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2312,7 +2312,7 @@ It does not appear in the records that
 Mrs. Washington ever formally with&#x27;  
 drew this permission or changed her de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn85038102:00202197279:1894011201:0341/pct:31.295546558704455,60.809844040635284,18.360323886639677,14.022034625840607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn85038102:00202197279:1894011201:0341/pct:23.49129202106116,45.614537129775364,13.770757391656542,10.516525969380455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2355,7 +2355,7 @@ Your most obedient a humblo
 servant  
 MARTHA WASIIINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175038784:1895033101:0479/pct:53.83229610219456,264.33481152993346,49.16475597772683,31.419068736141906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175038784:1895033101:0479/pct:17.94409870073152,88.11160384331116,16.388251992575608,10.473022912047302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2501,7 +2501,7 @@ Your most obedient a humble
 servant.  
 MARTHA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058217:206534874:1895061401:0300/pct:200.36958817317847,24.76609796367639,96.30411826821542,258.00770500825536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058217:206534874:1895061401:0300/pct:66.84280052840158,8.25536598789213,32.12681638044914,86.00256833608512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2561,7 +2561,7 @@ our most obedlent A humble
 servant  
 MArtha washindto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895072201:0651/pct:283.5809806835067,258.8368580060423,49.47994056463596,76.31419939577039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895072201:0651/pct:70.89524517087668,64.70921450151057,12.36998514115899,19.078549848942597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2676,7 +2676,7 @@ Your most obedient &amp; humble
 servant  
 MARTHA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:0029602305A:1895072601:0550/pct:55.18580144204104,102.80634104541559,17.276760953965614,16.80591259640103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:0029602305A:1895072601:0550/pct:41.3950908334489,77.11011139674379,12.966301483844127,12.607112253641816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2738,7 +2738,7 @@ Your most obedient &amp; humble
 servant  
 MAHTHA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn97067584:00200296345:1895072601:0893/pct:72.88288288288288,17.716708083613508,120.36036036036036,361.467621692735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn97067584:00200296345:1895072601:0893/pct:18.22072072072072,4.429177020903377,30.09009009009009,90.36690542318375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2781,7 +2781,7 @@ Your most obedicnt &amp; humble
 sorvant  
 MAwruA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_deathkiss_ver01:data:sn92064071:00514153759:1895072701:0908/pct:34.490358126721766,10.02235831632157,14.352617079889807,12.919218431029455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_deathkiss_ver01:data:sn92064071:00514153759:1895072701:0908/pct:34.490358126721766,10.02559865202035,14.36179981634527,12.922458766728234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2826,7 +2826,7 @@ Your most obedient &amp; humble
 servant.   
 MARTHA AYASIIINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344672:1895072901:0271/pct:33.810497614178594,83.39618456078084,15.371506475800954,12.089618456078083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344672:1895072901:0271/pct:33.81617814133151,83.40357882283348,15.377187002953875,12.089618456078083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2882,7 +2882,7 @@ Your obedient &amp; humble
 servant  
 MARTHA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_onamia_ver01:data:sn90059522:00206536871:1895080201:0311/pct:50.270197243988115,23.79087734151762,10.84841934612267,14.583553815218542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_onamia_ver01:data:sn90059522:00206536871:1895080201:0311/pct:50.274700531387914,23.797932761844287,10.852922633522471,14.583553815218542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2921,7 +2921,7 @@ never to oppose my
 private wishes to the p.ji .  
 must consent to the ref
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:0041418683A:1895080501:0224/pct:83.82276281494353,10.701419792328883,13.69244135534318,12.216571307480399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:0041418683A:1895080501:0224/pct:83.80820013898541,10.700286047250769,13.695853602038452,12.218808489599887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2965,7 +2965,7 @@ Your most obedient &amp; humble
 servant  
 MARTHAWASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:00280776531:1895081401:0202/pct:98.57904085257549,51.16380247987818,40.556542332741266,45.94300630846204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:00280776531:1895081401:0202/pct:24.64840858623242,12.790950619969545,10.140636565507032,11.48575157711551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3055,7 +3055,7 @@ Your most obedient and humble
 servant  
 MARTHA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194588:1895090801:0349/pct:57.84905660377358,20.982142857142858,15.79245283018868,20.36502100840336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194588:1895090801:0349/pct:43.41260853152133,15.743172268907562,11.853529633824085,15.270483193277311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3098,7 +3098,7 @@ Your most obedient &amp; humble
 servant  
 Martha Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:00296021143:1895091901:0153/pct:30.38327526132404,41.32553606237817,16.045296167247386,18.583495776478234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:00296021143:1895091901:0153/pct:22.795399093760892,30.994152046783626,12.04252352736145,13.944119558154647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3218,7 +3218,7 @@ Your most obedient &amp; humble
 servant,  
 MARTHA WASUINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83016943:00415661927:1896010401:0130/pct:224.60567823343848,125.2715837621498,46.92429022082019,58.43339050886221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83016943:00415661927:1896010401:0130/pct:56.184651805089764,31.31789594053745,11.738015387650425,14.608347627215553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3277,7 +3277,7 @@ Your most obedient &amp; humble
 servant  
 MARTHA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539288:1896021901:0144/pct:36.79558011049724,87.5131164742917,14.972375690607734,35.110178384050364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539288:1896021901:0144/pct:27.60431058303399,65.63483735571879,11.232384636639956,26.33788037775446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3370,7 +3370,7 @@ Your most obedient &amp; humble
 tervant  
 MARTHA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669549:1896022001:0176/pct:77.23676202069386,91.3464575218444,21.256847230675593,47.0891672807664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669549:1896022001:0176/pct:51.50684931506849,60.90114748920939,14.185692541856925,31.392778187177598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3399,7 +3399,7 @@ and gratefully remembered affords no
 inconsiderable consolation.  
 Taught by the great example which 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1896022001:0048/pct:77.07930367504835,113.42269208986218,21.5183752417795,15.574853690768359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1896022001:0048/pct:57.823458282950426,85.06701906739664,16.15477629987908,11.685859920709836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3515,7 +3515,7 @@ Your most obedient &amp; humble
 servant  
 MARTHA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473728:1896022101:0056/pct:67.87020109689215,85.12772292744084,18.784277879341865,42.328788591129914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473728:1896022101:0056/pct:50.925714285714285,63.84579219558063,14.102857142857143,31.750509324557278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3609,7 +3609,7 @@ and gratefully remembered affords no
 inconsiderable consolation.  
 Taught by the great example which I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896022201:0192/pct:97.25647348951911,96.65050683120317,18.541923551171394,11.425738210665491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896022201:0192/pct:64.8727833461835,64.43367122080211,12.367000771010023,7.624504186866461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3645,7 +3645,7 @@ Your most obedient &amp; humbl
 servant  
 MARTHA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896022201:0192/pct:78.2521578298397,125.47377699427061,37.80826140567201,17.86029087703834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896022201:0192/pct:52.197378565921355,83.64918466284706,25.212027756360833,11.910533274570295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3768,7 +3768,7 @@ Your most obedient &amp; humble
 servant,  
 MARTHA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294269:1896051201:0502/pct:120.79207920792079,25.660377358490567,101.15511551155116,356.9509433962264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294269:1896051201:0502/pct:30.21671826625387,6.415094339622642,25.304437564499484,89.2377358490566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3824,7 +3824,7 @@ Your most obedient A humble
 servant,  
 MARIMA WASIlINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294269:1896051301:0506/pct:165.5683690280066,59.6310855760508,50.24711696869852,93.9824614454188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294269:1896051301:0506/pct:41.409147095179236,14.9077713940127,12.566955088586733,23.4956153613547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3881,7 +3881,7 @@ Your most obedient A humble
 servant,  
 MARTHA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294269:1896051501:0514/pct:162.36559139784947,60.433398999848464,50.86848635235732,94.55978178511896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294269:1896051501:0514/pct:40.59139784946237,15.108349749962116,12.71712158808933,23.63994544627974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3905,7 +3905,7 @@ I need not, I cannot, eay whnt a mcri­
 fice of individual feeling I make to a  
 sense of public duty.&quot; But Itwaede-veloDedsubsequentlythatMBrthaWaflh&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283806:1896073001:0757/pct:31.577797202797203,118.12018489984591,18.75,8.197226502311247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283806:1896073001:0757/pct:23.704351629127487,88.59784283513098,14.08265908593921,6.147919876733436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3932,7 +3932,7 @@ veloped subsequently that Martha Wash­
 ington understood that her remain!  
 were to be interred l-eside those of he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1896080601:0541/pct:35.941353795560424,5.385896724042198,9.646478487256783,5.585785674625209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1896080601:0541/pct:35.95048871837033,5.385896724042198,9.646478487256783,5.596890616324265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4012,7 +4012,7 @@ veloped subsequently that Martha Wash­
 ington understood that her remains  
 to be interred beside those of he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877844:1896080801:0713/pct:258.3743842364532,23.39085182141879,45.1559934318555,24.705560120514928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877844:1896080801:0713/pct:64.62012320328542,5.847712955354697,11.293634496919918,6.176390030128732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4168,7 +4168,7 @@ Your most obedient &amp; humble
 servant  
 Martha Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1897032701:1033/pct:56.57486423584174,24.88249537102977,12.626066718386346,13.217490385984902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1897032701:1033/pct:56.563893736668604,24.878951865565366,12.628466162497576,13.21916832811165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4191,7 +4191,7 @@ r need not I cannot say what a sacri­
 fice of individual feeling I make to a.  
 sense ot public duty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn85054468:00211102093:1897050201:0060/pct:83.1858407079646,127.95932358318099,17.71386430678466,6.261425959780621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn85054468:00211102093:1897050201:0060/pct:55.465407877268035,85.30621572212065,11.81590205044992,4.181901279707495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4255,7 +4255,7 @@ Your most obedient a huble
 servant  
 MARTHIA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039090:1897053001:0553/pct:15.082956259426847,204.20851267336204,67.91639732816203,51.80934162282799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039090:1897053001:0553/pct:5.027652086475616,68.06950422445401,22.638799109387346,17.269780540942666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4485,7 +4485,7 @@ Your most obedient humble
 servant  
 MARTHA WASHINGTO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn95069778:00206538971:1898021701:0235/pct:48.50148367952522,89.63940559077211,17.7893175074184,16.024108905746647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn95069778:00206538971:1898021701:0235/pct:36.39602196823512,67.23215213550867,13.35906189698679,12.023277564169177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4530,7 +4530,7 @@ sir,
 servant  
 ‘ ‘ Mart ha Wash 1 ugton. ’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898021701:0415/pct:64.77522477522477,75.11374603612299,18.42157842157842,23.49372673376534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898021701:0415/pct:50.211623825745846,58.22054423707081,14.266542789305255,18.207721897706225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4575,7 +4575,7 @@ sir,
 servant  
 “Martha Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150941:1898022101:0395/pct:47.1517119244392,55.963396034570415,14.757969303423849,18.271479410269446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150941:1898022101:0395/pct:47.15663124754034,55.963396034570415,14.757969303423849,18.285036434502626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4619,7 +4619,7 @@ Tour moat obedient It humbl
 errant  
 UAUTilA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2018270201:0027952813A:1898022401:0356/pct:48.59402460456942,90.11984799766151,18.36555360281195,15.974861151710027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2018270201:0027952813A:1898022401:0356/pct:36.46153846153846,67.59719380298158,13.802197802197803,11.984799766150248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4664,7 +4664,7 @@ Your most obedient and humble
 servant.  
 MARTHA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00271769842:1898030901:0143/pct:20.2157411106672,39.27506522549385,14.049806898388601,11.638091688408498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00271769842:1898030901:0143/pct:20.2157411106672,39.281277177289105,14.05424601589204,11.638091688408498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4709,7 +4709,7 @@ Your most obedient and bumble
 servant.  
 MAUTIIA WASIIIM:T&lt; IN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769258:1898031201:0268/pct:6.071719641401793,23.802892340653454,10.6492800869329,10.080342795929297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769258:1898031201:0268/pct:6.076247396540795,23.802892340653454,10.6492800869329,10.08748437778968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4759,7 +4759,7 @@ servant.
   
 MARTHA WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472360:1898031801:0054/pct:6.459174371662977,24.442634633004175,11.329600208360464,10.65865825104347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472360:1898031801:0054/pct:6.144583281784816,23.220502901353964,10.763330446616356,10.138620245003224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

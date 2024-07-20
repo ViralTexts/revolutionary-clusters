@@ -97,7 +97,7 @@ ct _ _&quot; &#x27;ency ofauctthorising the ex­
 &quot; &#x27; &#x27;npursuanee ofarrange­  
 . ssctdcsired by the Spa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811062801:0578/pct:6.78461288751826,54.18593212001968,22.05810745008927,34.68765371372356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811062801:0578/pct:6.783511846802986,54.180602006688964,22.059937249810666,34.68752049314709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ vernment of the same, during such posses­
 sion,  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070201:0068/pct:41.6532474503489,58.70640613405887,17.51655036679191,29.940638139995052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070201:0068/pct:41.64579606440071,58.69914677878076,17.51937984496124,29.94105766456453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ r“&#x27;&lt;&quot; F,l*l^» i«u.&lt;&gt;i in* a aid urritorv, rn pursuance,,
 of arrangements, which m ,y be dctjied i&gt;y iWm,,.  
 It is Ik UlUKnriiLa and &#x27;r 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811070301:0599/pct:73.42275211127671,34.54192295241178,24.29210134128167,17.254775008093233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811070301:0599/pct:73.40451949341941,34.536332739925555,24.292277129376707,17.256028483573395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ making provision for the government of the
 same, during such possession.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811070401:0224/pct:7.404103479036574,18.305204768086863,17.752007136485283,26.578543609111296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811070401:0224/pct:7.4027827327863,18.30304460703328,17.754786538232846,26.57934072850287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ he event of a subversion of the Spanish authorities
 v.thin the territories in question, and an apprehended  
 iccupancy thereof by any foreign power.&quot;?(2 Se:.c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1844070501:0335/pct:82.7366504854369,26.176154672395274,18.886529126213592,12.116004296455424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1844070501:0335/pct:82.7467637540453,26.183315431435734,18.886529126213592,12.116004296455424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ w.lln.i the territories in question, and apprehended
 occupancy thereof hp foreign power.&quot;?(2 8ec.et  
 Jour., 190 p., Madison&#x27;s Message.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661344:1844070501:0021/pct:81.27327540344032,27.711907164480323,18.81539280014187,12.209889001009081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661344:1844070501:0021/pct:81.27918661701247,27.72031617894383,18.82721522728616,12.209889001009081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ can provinces;’’ and it was resolyed that we could not
 «with indifference™ see it pass from the hands of  
 Spain into those of any other foreign power,”’—(Pag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844081301:0129/pct:35.00146756677429,89.1852770885029,14.837100088054006,2.750206782464847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844081301:0129/pct:35.01125134526954,89.19216983733112,14.837100088054006,2.750206782464847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ Spain into those of any other foreign power,”’—(Pag
 lite Perdido, pass from the hands of Spain into those of  
 any other foreign power;&quot; and we should have resisted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847062801:0625/pct:68.55067887590779,36.77875666956198,15.314177455004737,1.2160317657277577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847062801:0625/pct:68.56120408378065,36.78289283203044,15.308914851068309,1.2201679281962194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,7 +714,7 @@ ing that Spain was the broprietor
   
 of the territory; and from that day on t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071197:00175034857:1897020801:0817/pct:153.42349957734572,309.50279993212285,49.95773457311919,22.00916341422026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071197:00175034857:1897020801:0817/pct:38.372093023255815,77.37569998303071,12.494714587737844,5.502290853555065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

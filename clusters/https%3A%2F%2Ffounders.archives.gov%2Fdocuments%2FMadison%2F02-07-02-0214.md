@@ -91,7 +91,7 @@ fii.cere friendfhip of the king, of which
 ht ha- givan fo many proof..  
 C.rlpiftfcrveyorJ many years. Phi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804111401:0001/pct:1.3577732518669383,33.323931744464815,18.75990042996153,15.963897898744888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804111401:0001/pct:1.3577732518669383,33.333333333333336,18.774986799426717,15.968598693179148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ the sincere friendship of the king, of which
 he has given so many proofs.  
 Godsipreservc you many years
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804111601:0516/pct:27.42977317109809,29.64877874844001,24.01982875168995,16.732037796398647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804111601:0516/pct:27.42565334935416,29.646136019253053,24.021227595874638,16.73351754464153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ many proofs.
 God preferve you many years. Philadelphia,  
 15th May, isoi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804112101:0233/pct:6.148808440967801,31.780923994038748,17.409496088775697,21.311475409836067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804112101:0233/pct:6.1476900691160425,31.776977523904137,17.412392385109737,21.312968251997184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ j which he has giveq so many proofs.
 | God preserve you many years. Phila­  
 delphia, 15th May, 15J04
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804112101:0357/pct:23.392145702902674,18.847209515096065,18.459495351925632,26.45405829303359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804112101:0357/pct:23.38770864946889,18.844746471510717,18.46231664137582,26.454957309635827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ he has given so many proofs. =
 - ladelphia 1§ May,.1804.  
 L e Matn, KR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804112701:0604/pct:26.265773484966505,76.46437487996927,17.105468141455056,16.439408488573076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804112701:0604/pct:26.27615931868931,76.47077651878881,17.100275224593656,16.439408488573076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ cere friendfhip of the king, of which
 he has given fo many proofs,  
 God preferve you many years,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804112801:0601/pct:12.618956985154169,5.967594705613875,20.098972211648267,13.350068461889547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804112801:0601/pct:12.618956985154169,5.967594705613875,20.11166095673138,13.365282215122471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ cere friendship of the sing, of which he
 I has given so many proofs.  
 “oM preserve you many years
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804113001:0338/pct:47.94871794871795,35.113154172560115,21.50997150997151,16.690240452616692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804113001:0338/pct:47.93506123611507,35.10694714512993,21.51096553688408,16.69170938660067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ manner, and to sc ttle upon the most liberal
 &quot;basis, with the government of Spain.  
 It was not, therefore, a fair topic, with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032501:0408/pct:4.768919167740748,7.212744606121425,18.081384643712024,10.66231811339689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032501:0408/pct:4.768041237113402,7.211839959864543,18.084192439862544,10.665161587022869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

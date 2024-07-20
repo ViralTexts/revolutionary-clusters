@@ -79,7 +79,7 @@ public accommodation.
 Th: JEFFERSON.  
 December 5, I*os
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803120701:0003/pct:22.27577535624476,10.53775122216187,18.378038558256495,33.446496469310155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803120701:0003/pct:22.27577535624476,10.542277747600941,18.378038558256495,33.446496469310155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ Mirboha. &#x27;yieided by them &quot;for the public
 accommodation. &#x27; &#x27; .  
 TH : &#x27;IEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803120901:0392/pct:51.54561824729892,56.09799874360585,23.07923169267707,32.71111908821682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803120901:0392/pct:51.53788447111778,56.0929648241206,23.080770192548137,32.7111749222302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ for the public. accommodation. ‘
 Tu: JEFFERSON.  
 Dec. 5, 1803
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803122001:0408/pct:60.93654667480171,15.235923869944488,16.336180597925566,30.313243457573353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803122001:0408/pct:60.94163107585926,15.235923869944488,16.336180597925566,30.313243457573353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ or taken. 1 inclose the emperor’s orders
 The conduct of our odcars generally,  
 trho have had a part in these transactions,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803122301:0187/pct:47.10104914411927,82.44547729710403,20.320265046935393,13.87200572041473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803122301:0187/pct:47.088048578526084,82.4307417336908,20.321556720949488,13.873994638069705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

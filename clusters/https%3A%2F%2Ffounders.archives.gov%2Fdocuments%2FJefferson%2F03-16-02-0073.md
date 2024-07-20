@@ -220,7 +220,7 @@ Hon ; but see no cause to doubt exactness....
 y»jur work, he pleased to accept the assurance  
 ol my grval respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820072801:0102/pct:4.145585115064469,41.36320076665069,14.721723518850988,19.345951126018207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820072801:0102/pct:4.14490861618799,41.35824649658642,14.724760661444735,19.347626462250968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

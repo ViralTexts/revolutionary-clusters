@@ -127,7 +127,7 @@ magistrate, it should seem that in general the constitution mull
 have intended that he should have that species of power m all its  
 extent, which is necessary toaccompliih the purposes of the de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789062401:0002/pct:16.798361135498975,6.930505586063245,52.7363184079602,85.91175913652717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789062401:0002/pct:16.798361135498975,6.935239537966294,52.75095112671934,85.92596099223631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ There is another maxim which ought to direst us in expounding
 the constitution. It is the opinion of all great civilians and po­  
 litical writers, that the great departments of government ought t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789062401:0002/pct:43.7518290898449,22.382124597614087,25.665788703541118,7.422836583980307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789062401:0002/pct:43.75914544922447,22.386858549517136,25.680421422300263,7.422836583980307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ when placcd in that exalted responsible station. Perhaps, as has
 been observed, the great danger arises from the continuance of un­  
 worthy men in office; but so is the fyftein contrived that thoug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789062401:0002/pct:43.69329821480831,32.796818784321154,25.7243195785777,13.08464306002651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789062401:0002/pct:43.69329821480831,32.8110206400303,25.746268656716417,13.08464306002651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ Butfuppofe the perfccuted individual lliould not be able to ac­
 complish t.ie object of his resentment in thi way, there are other  
 modes in which he can be very troublesome to the President. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789062401:0002/pct:43.546971027216856,51.80836962696459,25.7243195785777,13.614845673167961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789062401:0002/pct:43.55428738659643,51.81783753077069,25.717003219198126,13.624313576974059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ oeoole&#x27; T b&#x27;aCP&quot;&#x27;a;n, 0n lhe President, and he again on the
 people— 1 he chain of security therefore terminates in the general  
 community, who will possess,, in aid of tlieir great original pow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789062401:0002/pct:43.4006438396254,74.00113614845674,25.607257828504537,8.786214732058323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789062401:0002/pct:43.41527655838455,74.00587010035979,25.61457418788411,8.790948683961371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ branches which the preservation of liberty requires to be°ai &#x27;
 ftantly feparatcd.  
 [For the remainder ofWednefday&#x27;s Debate, fee laji Page.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789062401:0002/pct:70.70529704419081,10.054913842075365,24.78782557799239,6.457110395758379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789062401:0002/pct:70.71992976294996,10.064381745881462,24.780509218612817,6.4665782995644765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ by a part—by us, as well as by the executive or
 the judiciary. As it will be equally conllitution­  
 al,it canrtot belefs fafe that the explanation Shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789062401:0004/pct:16.314723748915245,9.56964892412231,25.80271912062482,42.90298225745564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789062401:0004/pct:16.32918715649407,9.583805209513024,25.831645935782472,42.89354473386184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ and that it is not only conlillent with liberty, but
 more favorable to. it than any other poilible in­  
 terpretation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789062401:0004/pct:16.22794330344229,56.15326538316346,25.455597338733007,9.229898074745186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789062401:0004/pct:16.22794330344229,56.15798414496036,25.484524153890657,9.229898074745186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ cers v. ou.,1 subject him io impeachment and removal
 from Ins nxvn high trust ”  
 Mr. Hamilton waa not a mend,or of that Congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829060301:0628/pct:79.4810947634868,44.24830488660276,17.876918209144122,8.908113163432313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829060301:0628/pct:79.46852261942423,44.24313267095266,17.8793630707582,8.910968244691214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ merito rius officers, would subject him to im­
 peach ment and removal from his own high  
 trust, &quot; *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829060401:0291/pct:25.7658334899455,41.64722351843211,17.628265363653448,12.92580494633691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829060401:0291/pct:25.778362463196142,41.64722351843211,17.64079433690409,12.933582205630735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ KCitate, for s&#x27;uch an act or mal-adininistration; fur l
 from his own high trust”  
 ( Mr. Hamilton was not a member of that Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829060501:0150/pct:3.7792065234436256,36.638716733503465,18.049239454288852,8.567262121764491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829060501:0150/pct:3.7786139855754155,36.63426488456865,18.05163583150413,8.570271364925071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ subject him to nnpcischiiicnt and lemovul from
 his own high trust &quot;*  
 Mr. Hamilton was not a member of that Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829060801:0336/pct:16.334578663345788,75.59351476548929,14.881693648816936,8.757961783439491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829060801:0336/pct:16.331189043369992,75.58257345491388,14.883793318115792,8.760312635692575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ nistration; for I contend, that the wanton removal of
 meritorious officers would subject him to impeach­  
 ment and removal from his own high trust.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829060801:0396/pct:63.0074126367808,27.770456451419673,18.74338157430286,5.510962022283455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829060801:0396/pct:62.99629433562732,27.767129851461426,18.74595612022822,5.5142948410797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ give suert 89 lo those exertions which will X
 pursued to pievem his re-election.”  
 The discussion closed on the 19 b «
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829060801:0396/pct:82.10377691493117,54.13921169282377,16.87257324391105,8.146639511201629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829060801:0396/pct:82.08928886536086,54.132726401533304,16.87547791306394,8.149656604376299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ Chief Magistrate can take a man nway from a I&gt;&gt;­
 pnrtmrrmt without assigning any rearon, he may as  
 well Ire invested with power, on certain ocensious t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829062301:0696/pct:42.164833413040014,74.35347396019544,18.029650884744143,4.7312596829936835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829062301:0696/pct:42.15811284666879,74.34461391801716,18.03209010732122,4.734667937718462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ against the President; it will facilitate ilw-r combinations. and
 give »urc*.-&lt;* to those exertions which will be pursued to prevent  
 ms re election &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829062301:0696/pct:60.800255061374145,67.7392444285544,17.965885541208355,2.1570730544631154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829062301:0696/pct:60.79056423334396,67.73117254528123,17.968334927212837,2.1607880521131237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ WOULD SUBJECT HIM [the rnnsroENT,! TO
 IMPEACHMENT, AND REMOVAL FROM  
 Ills HIGH TRUST.”—[James jMa IMSO^f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829082101:0235/pct:76.33275672275515,74.76236899829394,17.754363893693977,2.7906409943943458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829082101:0235/pct:76.32075471698113,74.75325941269648,17.756813417190777,2.7943625360464646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -881,7 +881,7 @@ ADMINISTRATION: lor I contend, that the wanton removal i
 of meritorious officers would subject him to impeachment, and j  
 removal from his own high trust &quot; Due constitutional lawyer 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830040701:0332/pct:24.82134349690329,13.076288173564437,18.10385898046689,4.398066265770546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830040701:0332/pct:24.817402349952367,13.074746522046688,18.106277125013232,4.401477638921638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ ADMINISTRATION; for I contend, that the wanton removal
 of meritorious officers would subject him to impeachment, and  
 removal from his own high trust.” Our constitutional lawye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830040901:0126/pct:23.04368698991839,10.154365653642065,18.690990558489357,5.137481910274964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830040901:0126/pct:23.04,10.153141203424575,18.69333333333333,5.1408818682422925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -963,7 +963,7 @@ moval of meritorious officers would subject him
 [i. e. the Piesident J »o impeachment and remov­  
 al from his own high tru-t.” The father of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832033101:0008/pct:81.203007518797,50.78648945250579,17.190704032809297,2.5484696988172173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832033101:0008/pct:81.18913377754997,50.78029748841746,17.193462042257533,2.552223035032106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -992,7 +992,7 @@ ous officers would subject him [i. e., the Presi­
 dent] lo impeachment and removal from his  
 own high trust.’’ The Fsther of tho Cqnetitu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1832041801:0110/pct:43.314500941619585,113.36585365853658,15.6120527306968,2.8710801393728222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1832041801:0110/pct:33.578204816346386,87.85914884424281,12.094380929214303,2.2287031036220926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1048,7 +1048,7 @@ dy, (tor where there arc two negatives required either can
 prevent the removal,) I confess I do not see how the Pre­  
 sident can take care that the laws l»e faithfully executed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833101501:0188/pct:35.76642335766423,3.7727474478473146,14.93646931603136,9.509542831779848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833101501:0188/pct:35.76158940397351,3.772328858315766,14.938955714736226,9.51218610155701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1076,7 +1076,7 @@ the suptemc hotly, namely, in tlte people, who will pos­
 I «ess besides, in aid of their original power, tho decisive j  
 I engine ol impeachment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833101501:0188/pct:35.64476885644769,13.748335552596538,15.01757231684239,8.26675543719485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833101501:0188/pct:35.63995134477632,13.746810163097747,15.020047754201018,8.269536595288287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1141,7 +1141,7 @@ therefore, terminates in the supreme body, namely, in
 the people ; wdio will possess besides, in aid of their ori­  
 ginal power, the decisive engine of impeachment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834010201:0284/pct:82.41803278688525,26.499394739738086,14.726775956284152,6.250687795752174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834010201:0284/pct:82.40677503073351,26.496478873239436,14.729317488503392,6.253667840375587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1234,7 +1234,7 @@ p.t-h that e nd. Now.il the officer, when once appointed,
 ts oo to depend upon the President for his official exist*  
 ence but u,on , disfinct body. I confess 1 do not se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834021101:0352/pct:20.971867007672635,52.795710690447535,14.510701305693903,5.066199803041909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834021101:0352/pct:20.969044414535666,52.78993435448578,14.513234634365187,5.069292487235595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1263,7 +1263,7 @@ or that purpose,” and (hat fidelity in the discharge of
 their duties w*s hi be secured by a power of euperitdend­  
 ence and control over them on the part of the Chief Ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834021101:0352/pct:20.864180912639654,58.57314804683226,14.645308924485127,7.1342597658387135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834021101:0352/pct:20.861372812920592,58.566739606126916,14.64782413638403,7.137126185266229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1387,7 +1387,7 @@ once appointed, is not to depend on (lie President lor his
 official existence, I context 1 do not see how the Presi­  
 dent can take care that the laws beJaitt\fully executed.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0411/pct:79.13551719450864,36.47853562867727,15.019709120565448,1.874046633253432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0411/pct:79.12476216363142,36.47456149907397,15.02219806106732,1.8774739441478738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1405,7 +1405,7 @@ h‘h at once that great principle of unity and responsi­
 bility \u the Executive Department, which was intended  
 tor Hie security oj liberty and the public good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0411/pct:79.13551719450864,38.20004358247984,14.720674187848308,1.8522553933318806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0411/pct:79.12476216363142,38.19588190434688,14.723203769140165,1.8556850782583434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1425,7 +1425,7 @@ means you link together two branches of the Government,
 which the preservation oj liberty requires to be constantly  
 separated.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0411/pct:79.09473970368357,40.34648071475267,14.843006660323502,2.5931575506646327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834031801:0411/pct:79.08399021473227,40.342085194465625,14.845519615837636,2.5965065185023786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1637,7 +1637,7 @@ removal from his otOti high trust. If this
 was sound doctrine as applicable to the  
 President of the United States, it must b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:0039334894A:1834121101:0617/pct:44.494076519712564,28.138706140350877,13.944455234026025,8.40186403508772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:0039334894A:1834121101:0617/pct:44.48543689320388,28.13484993833082,13.946601941747574,8.404138687131699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1927,7 +1927,7 @@ fore the senate, for such an act of mal-admintstration,” &amp;e
 the laws. —“Now, if the officer, when once appointed  
 is not to depend on the President for his official existence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031901:0398/pct:5.489491150442478,65.06545493887266,14.93362831858407,0.9304338418262469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031901:0398/pct:5.488732199640537,65.05841627001298,14.936172173832896,0.9339391316890235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1946,7 +1946,7 @@ lish that great principle of unity and responsibility in the
 Executive. Department, which was intended for the securi­  
 ty of libertu and the public good.&quot; * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031901:0398/pct:5.461836283185841,66.36373471816509,14.93362831858407,2.142161635832522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031901:0398/pct:5.461081155813632,66.35655560363479,14.936172173832896,2.1455358430693785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1966,7 +1966,7 @@ and hy this means, you link together two branches of the’
 Government, which the preservation cf libertu const,mil,,  
 requires to be separated.&#x27;’ * * * » *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031901:0398/pct:5.489491150442478,68.48425835767608,14.905973451327434,2.553283565941794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836031901:0398/pct:5.488732199640537,68.47684984855042,14.90852113000599,2.5566132987162846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2011,7 +2011,7 @@ Mure is executive, it must be that power st
 hich is employed in superintending and m  
 xing that the laws are faithfully executed.&quot; c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836060701:0093/pct:35.541490857946556,34.914425427872864,16.765119549929675,12.37163814180929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836060701:0093/pct:35.54617909048289,34.92094539527302,16.774496015002345,12.374898125509372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2036,7 +2036,7 @@ nistration ; for I contend that the wanton removal of
 meritorious officer* would aubject him to impeachment,  
 and removal fro in hia high trust.&quot; Then, they wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092801:0073/pct:80.81230152097609,34.005007750089426,15.89503593514959,6.4027661857636815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837092801:0073/pct:80.81230152097609,34.012956559755175,15.900607276171375,6.3987917809308055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2071,7 +2071,7 @@ nnd removal from his own high trust. Hut
 what can be his motive fur displacing a  
 worthy man .&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1839072601:0546/pct:12.275215011727912,52.10084033613445,21.61845191555903,17.817974647486114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1839072601:0546/pct:8.193195150567071,34.73864121919954,14.411419632381698,11.878649764990742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2112,7 +2112,7 @@ him to impeachment and removnl from his
 own high trust. But whnt can bo his mo­  
 tivo for displacing a worthy man ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1839081601:0475/pct:45.204918032786885,74.31986161346124,19.75409836065574,22.802327409970122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1839081601:0475/pct:33.93479598113594,55.74775908161661,14.824687307771171,17.10960842899827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2156,7 +2156,7 @@ branches of the Government, instead of operating&#x27;as checks upon each
 other, all work harmoniously together in accomplishing his ends, for  
 they are under the control of the Executive. The Post Office Departmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:0029586185A:1840070801:0200/pct:3.0425680390788554,54.72919937205651,28.70900209351012,13.118131868131869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:0029586185A:1840070801:0200/pct:3.051872528494999,54.72919937205651,28.704349848802046,13.124672946101517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2185,7 +2185,7 @@ witnessed in our day is a confirmation of the truth
 of the remark. Removal of meritorious officers  
 has become an every day occurrence, since the ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842092601:1016/pct:130.2001876759462,211.14627285513362,37.456990928995936,20.018752930145336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842092601:1016/pct:43.39327599687255,70.37384272823157,12.483711232733906,6.672135630298058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2266,7 +2266,7 @@ tion; for I contend that the wanton removal of me­
 ritorious officers would subject him to impeachment  
 and removal from his own high trust.&quot; Again h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842102001:1100/pct:173.47846813920228,74.80296973158195,39.15461624026696,20.09137635636779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842102001:1100/pct:57.816968541468064,24.931475559616263,13.04946509903612,6.696360590832953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2289,7 +2289,7 @@ palace, at the moment John I yler asked Jonathan
 Roberts--&quot;How many Clay men are there?&quot;--and  
 then to have known that the refusal of Roberts t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842102001:1100/pct:173.47846813920228,94.81439177612792,38.963928174161765,10.531125071387779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842102001:1100/pct:57.816968541468064,31.601187756966652,12.985912509268086,3.5099741129891884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2335,7 +2335,7 @@ val of meritorious officers would subject the President to
 mpeachment and removal from office.&quot;  
 We have lived to see such a poor thing as Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1844102801:0105/pct:141.47661383842288,268.6126993680409,59.85697719366061,23.668371953054468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1844102801:0105/pct:35.36231884057971,67.14307206258462,14.96135265700483,5.916202798254852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2376,7 +2376,7 @@ ousofficer? Such abuse of power exceeds my
 conception.&quot;  
 Mr. Ames was another advocate of the pow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845062401:0464/pct:53.09375844366387,22.400976367469212,37.78708457173737,50.10540330633529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845062401:0464/pct:17.695528839659598,7.466163745285112,12.593993426088522,16.69994822868131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2406,7 +2406,7 @@ but some of them the framers of the excellent
 constitution of this country. The anticipations of  
 some of these sages seem to have been realize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845080601:0464/pct:23.538961038961038,71.68245626166932,15.310470779220779,7.904017702786806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845080601:0464/pct:23.536572993811504,71.67749965426636,15.312299212065875,7.905776056792513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2484,7 +2484,7 @@ which this vast power lias been granted. Ex­
 perience has shown that, it should not be en­  
 trusted to the hands of auy one mail. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952522A:1866112701:0596/pct:4.706840390879479,54.62527825871877,11.009771986970684,4.860252287905021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952522A:1866112701:0596/pct:4.706073929327471,54.618523556324966,11.012050154697931,4.862742673426487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2601,7 +2601,7 @@ held that “the wanton removal of meritorious
 officers would subject a President to impeauh­  
 ment and removal from his own high trust.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867102101:0351/pct:60.674157303370784,53.21617275442224,10.942843185148998,1.2405237767057202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867102101:0351/pct:60.664278736567894,53.210060870563915,10.94513187886682,1.2432525554151832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2723,7 +2723,7 @@ wanton removal of meritorious officers
 would subject him to impeachment  
 and removal from his own high trust.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775113:1868031901:0333/pct:203.19465081723627,223.3394186209802,44.13075780089153,26.96250526611431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775113:1868031901:0333/pct:50.82698383200149,55.83485465524505,11.038840364244564,6.740626316528577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2748,7 +2748,7 @@ subject him to impeachment and removal
 from his own high trust.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775174:1868032101:0164/pct:125.2387448840382,21.693828479829016,48.84038199181446,24.205183008282127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775174:1868032101:0164/pct:31.325712335778878,5.423457119957254,12.216345333560826,6.051295752070532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2768,7 +2768,7 @@ ject of removals Mr Madison said
 the Senate, jointly with the Presi-­  
 dent, and you abolish at once
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868032701:0082/pct:13.72172112967618,201.43561174201844,36.62575779979299,11.217055924576815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868032701:0082/pct:4.573907043225393,67.14520391400615,12.208585933264331,3.7390186415256053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2797,7 +2797,7 @@ that responsibility for the exercise
   
 o ei oe i o e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868032701:0082/pct:14.46103800088718,264.4632526248125,47.59722016856425,20.505678165845296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868032701:0082/pct:4.820346000295727,88.15441754160418,15.865740056188082,6.835226055281765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2851,7 +2851,7 @@ power is more highly prized than a
   
  i e i e a e oe e in te ine o t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868032701:0082/pct:13.869584503918379,171.437754446111,112.65710483513234,63.34904649667881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868032701:0082/pct:4.62319483463946,57.145918148703664,37.55236827837744,21.11634883222627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2876,7 +2876,7 @@ with the subordinate officers, they
 are dependent on their superior, and  
 e on woo e ee a e e o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868032701:0082/pct:14.29838828922076,246.0788515106064,59.219281384001185,18.54510392114849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868032701:0082/pct:4.766129429740253,82.0262838368688,19.739760461333727,6.181701307049496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2962,7 +2962,7 @@ trust.&quot;
 Strengthening this view, we find that within ten years  
 afterward impeachment was applied by the very me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868033101:0611/pct:198.2779827798278,184.21110259498522,47.50922509225092,15.460418263440271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868033101:0611/pct:66.09266092660927,61.40370086499507,15.83640836408364,5.153472754480091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2993,7 +2993,7 @@ for I contend that the wanton removal of merttorious officers
 would subject him to impeachment and removal from his  
 own high trust
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868033101:0875/pct:239.2862962359459,258.9485981308411,45.836728043017764,19.5911214953271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868033101:0875/pct:79.7620987453153,86.31619937694704,15.278909347672586,6.530373831775701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3309,7 +3309,7 @@ removal or meritorious officers would
 suttfect him to impeachment and removal  
 from bis own high trust.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190819:1868040201:0308/pct:14.136013686911891,5.4035683942226,14.285714285714286,8.853016142735768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190819:1868040201:0308/pct:14.14136013686912,5.412064570943076,14.3071000855432,8.848768054375531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3340,7 +3340,7 @@ in ten vears afterward impeackent we se­
 plied by the very men who frame the Comge  
 tution to the acts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528694:1868040301:0320/pct:24.30359937402191,22.386850329899293,64.92957746478874,255.122120615812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528694:1868040301:0320/pct:8.101199791340637,7.462283443299764,21.643192488262912,85.04070687193733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3372,7 +3372,7 @@ President, the Senate of the United States
 as a court? he says:-&quot;We claim and re­  
 spectfully insist that this tribunal has non
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1868040401:0614/pct:72.75341480948957,180.07196235815113,50.5391804457225,35.37226681428176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:0028077604A:1868040401:0614/pct:18.19816579751843,45.01799058953778,12.641611221003417,8.84306670357044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3439,7 +3439,7 @@ been found to He so much is the facility of introducing impraper persons
 inte office as in the difaculty of displacing those whe are unworthy of the  
 public trust. (Tage bls, vol I. Aunals of Corgres,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042301:0778/pct:8.126269729645257,9.43416876436467,94.60853258321613,288.617708219328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042301:0778/pct:2.708756576548419,3.1447229214548904,31.536177527738708,96.20590273977601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3467,7 +3467,7 @@ tead that the waulon remeval of meritorious afficers would subject him
 to impeachment and removal from his high trast. (Page $17, vol 1,  
 Annals of Congress.)e wedtson tac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042301:0778/pct:55.18049695264885,13.330414796979316,47.85122675418034,14.983036007442267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042301:0778/pct:18.393498984216283,4.443471598993105,15.950408918060113,4.9943453358140895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3502,7 +3502,7 @@ his own case, or does he expect to realize the
 points of the argument, and then repudiate the  
 very grounds on which the alleged constructio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042901:0821/pct:51.168994194257024,154.5013774104683,48.53287305821434,24.385674931129476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042901:0821/pct:17.056331398085675,51.500459136822776,16.177624352738114,8.128558310376492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3555,7 +3555,7 @@ that operates to prevent it? In the first place he
 will be impeachable by the House for such an act  
 of maladministration,&quot; Ao. Annats of Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:0027952391A:1868060501:0512/pct:253.02476654486398,151.13749750548791,34.07768304236026,15.186589503093195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:0027952391A:1868060501:0512/pct:84.33017591339649,50.374139479197844,11.357690572846188,5.0616914430144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3574,7 +3574,7 @@ torious officers would subject him to im­
 peachment and removal from his high  
 trust.” (1 Lloyd s Debates, 5J3; 2 Story’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623720:1871111801:0205/pct:39.518682710576314,57.73927392739274,10.850749419463796,2.3267326732673266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623720:1871111801:0205/pct:39.52571951305327,57.74477447744774,10.84371261698684,2.337733773377338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3591,7 +3591,7 @@ in it. In thehrst place he will be Impeach­
 able by the House for such an act of mal­  
 administration, fori contend t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83045232:00415661964:1876010401:0297/pct:31.35441527446301,104.46123589690508,19.376491646778042,2.277196977538557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83045232:00415661964:1876010401:0297/pct:23.533800925235038,78.34592692267881,14.535144008356962,1.7078977331539178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3615,7 +3615,7 @@ him to impeachment and removal from his own
 high trust.  
 MUST A CRIME TO BE IMPEACHABLE BE OF 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877492:1876010501:0065/pct:16.769316909294513,90.69117488982049,15.649496080627099,6.578523057078362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877492:1876010501:0065/pct:12.587510501260152,68.02106847253575,11.733408008961076,4.933892292808771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3652,7 +3652,7 @@ that the wanton removal cof meritorious
 officers would subject him to impeachment  
 and removal from &quot;his own high trust. (An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877492:1876011901:0073/pct:32.54585881045025,32.38831615120275,15.786548082267927,13.466494845360824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877492:1876011901:0073/pct:24.42652578896149,24.29123711340206,11.844849158904491,10.105240549828178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3686,7 +3686,7 @@ In the hrst place, he will be impeacha
 ble by tiiiV J?ouse b.eore the Senate lor such  
 an act of mal-adm.CLtIOD 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877492:1876022301:0094/pct:21.38250140213124,121.95278969957081,15.367358384744811,3.1008583690987126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877492:1876022301:0094/pct:16.047131434983868,91.46995708154506,11.530368915696451,2.328326180257511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3725,7 +3725,7 @@ mal-administration : for I contend
 that the wanton removal of meritorious officers.  
 wouia suojeci mm 10 imp u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83045232:00415661964:1876022301:0465/pct:53.88821385176185,17.31109953100573,20.565006075334143,19.18707660239708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83045232:00415661964:1876022301:0465/pct:40.422299863284216,12.985930171964565,15.433692845207352,14.392912975508077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3803,7 +3803,7 @@ Such was tho opinion of ono of the
 fathers of the Constitution, and a man  
 who took a conspicuous part in organiz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023759:1877062201:0508/pct:74.82185273159145,119.1199417455529,20.887767220902614,21.678976386143763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023759:1877062201:0508/pct:49.896049896049895,79.41329449703527,13.92931392931393,14.459585977322376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3872,7 +3872,7 @@ fare, terminates In ^
 *h, In IMH rile found the women very ambi  
 tiou* for fnritkm and very ignorant of H. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347272:1877122701:0429/pct:2.8975831219121377,76.90412848556508,11.149686206436106,9.124051630702532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347272:1877122701:0429/pct:2.897196261682243,76.89655172413794,11.152647975077882,9.126436781609195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3963,7 +3963,7 @@ position or me constitution will depend the
 genius and character of the whole govern­  
 ment.” He and others took the ground tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210508:1884011901:0392/pct:15.798045602605864,71.92815510883787,10.879478827361563,3.401926965623885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210508:1884011901:0392/pct:15.795473049991857,71.91960038058991,10.881778212017586,3.404495718363463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3987,7 +3987,7 @@ sition of the constitution will depend
 the genius and character of tho whole  
 government.&quot; He and others took th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669227:1884021401:0426/pct:74.49074074074075,88.8631857237277,20.015432098765434,7.799074686054197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669227:1884021401:0426/pct:49.68349544542227,59.24212381581846,13.354948278524008,5.199383124036132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4012,7 +4012,7 @@ position of the constitution
 will depend the genius and  
 character of the whole govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82016412:00294551906:1884060401:0564/pct:8.346273291925465,65.00563063063063,18.633540372670808,11.402027027027026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82016412:00294551906:1884060401:0564/pct:6.273062730627307,48.76126126126126,13.983297727714119,8.558558558558559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4224,7 +4224,7 @@ manent expo Ition of the constitution will de­
 pend the genius and character of too whole  
 government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886030201:0228/pct:55.75076978808187,88.86252616887649,12.29849664915776,4.577808792742498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886030201:0228/pct:55.76284489524844,88.86252616887649,12.292459095574474,4.5917655268667135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4351,7 +4351,7 @@ of meritorious officers would subject tho
 President to Impeachment and removal  
 from his own high trust,&quot; nnd adds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn2008058171:00211103553:1891022501:0255/pct:75.18853695324283,310.4047976011994,43.13725490196079,6.6566716641679164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn2008058171:00211103553:1891022501:0255/pct:18.797134238310708,77.60119940029985,10.784313725490197,1.6641679160419791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

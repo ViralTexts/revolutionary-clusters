@@ -46,7 +46,7 @@ been made, and so far credited, as to fo­
 ment the flagrant outrage which has  
 been committed on the laws.&quot; Tfii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794112801:0003/pct:72.53762872986533,18.772985623537277,16.45101663585952,5.382815112002675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794112801:0003/pct:72.54423026142065,18.777164827816783,16.47082123052548,5.391173520561685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ Itappinefs, by verifying its character of
 being the best fafe-guard of human  
 rights.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794120101:0003/pct:22.476446837146703,7.549052211506485,36.177658142664875,83.92085134685733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794120101:0003/pct:22.476446837146703,7.561523112736947,36.184387617765815,83.92085134685733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ obeyed ; and from the sentiments which
 lwm_ witnefled in-every description of  
 citizens, in every quarter of the Unien.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794121601:0349/pct:68.75375375375376,49.45993210575044,19.6996996996997,44.62503857627816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794121601:0349/pct:68.76376376376376,49.45993210575044,19.694694694694693,44.62846757878133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ debt, e
 We shall on this as on all&#x27;occafions; be  
 disposed to adopt any 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794121601:0350/pct:11.499034318823355,4.910118130457113,19.789035804486705,38.07909604519774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794121601:0350/pct:11.508938741147922,4.916966272898477,19.79398801564899,38.08252011641842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -737,7 +737,7 @@ prefentation^.
 The power of cenfiiring, to the extent,  
 which has been contended i&#x27;or ; the powe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795030601:0003/pct:21.877346683354194,41.0913140311804,15.444305381727158,8.654152083996182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795030601:0003/pct:21.877346683354194,41.0913140311804,15.4630788485607,8.662106267896913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -88,7 +88,7 @@ ie tones that have joined them, o,- a„v
 ther they may have in their power, tliat  
 c are interested to get into ours.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819021801:0365/pct:33.3550382549243,71.92011549566891,14.162461338108416,6.616939364773821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819021801:0365/pct:33.349609375,71.91146397209191,14.165581597222221,6.620153173743935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ ieir ferns.&quot;
 Slid) were the orders given by General  
 W ashington for inflicting exemplary pun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819021801:0365/pct:33.3550382549243,79.03031761308951,14.12990395572196,7.832050048123195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819021801:0365/pct:33.349609375,79.02081077829905,14.13302951388889,7.835117687156663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -735,7 +735,7 @@ on which the Indian depended for food
 or shelter was to be destroyed. In view  
 of the diflleultles lie had to encounter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478131:1896120901:0558/pct:8.75968992248062,68.1899518238128,16.143410852713178,8.823124569855471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478131:1896120901:0558/pct:6.573589296102385,51.149346180316584,12.11944929222416,6.620784583620097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

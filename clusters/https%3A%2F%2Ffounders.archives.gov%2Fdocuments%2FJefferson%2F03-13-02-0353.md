@@ -52,7 +52,7 @@ lose again. God bless you and support you under
 your heavy affliction.  
 TIIOMAH JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826090501:0140/pct:67.04472843450479,56.71786189382029,15.0,11.83940016930705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826090501:0140/pct:67.03402012458074,56.711003627569525,15.002928179736996,11.841999193873438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ still love and never lose again. Clod bless you and sup­
 port you under yo.ir heavy affliction.  
 I__THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826090801:0220/pct:42.375551354757405,4.07530981887512,18.03717706364209,8.686844613918018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826090801:0220/pct:42.36887698850212,4.074824258310497,18.039586286554314,8.689781166845387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ again. God bless you and support you
 under your heavy affliction.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826091301:0253/pct:44.317718940936864,43.82504288164665,19.34826883910387,22.18410520297313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826091301:0253/pct:34.35230979690624,33.96477234961781,14.990003156897822,17.20394372438241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ still love and never lose again. God hless you
 and support you under your heavy affliction.  
 &quot; TH; JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826091901:0150/pct:26.50621362277804,59.725212755049725,16.73745477426459,13.011381113503537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826091901:0150/pct:26.50621362277804,59.72863050685259,16.74269833779036,13.014798865306402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ aguin,
 God bless you end suport you under your  
 heavy afflicti iii. . Til. JEFFERSON 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1845021301:0218/pct:66.92745376955904,41.4953515778447,19.86130867709815,14.979704072279691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1845021301:0218/pct:50.22238035936666,31.12478722011261,14.908379291940935,11.234778054209768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ God bless you, and support you under
 your heavy affliction.  
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1845021301:0240/pct:70.93522493933172,9.815950920245399,13.253686764980399,14.919129949804796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1845021301:0240/pct:70.92198581560284,9.814582462010316,13.255879059350503,14.920535340861564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ and whom we shall still love nnd never lose again.
 find .bless yOU and support sou u d r your heavy  
 affliction. &#x27; THOMAS JEKFERSON, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83016731:00415661897:1845022201:0034/pct:60.027223230490016,105.71197411003236,18.42105263157895,13.36569579288026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83016731:00415661897:1845022201:0034/pct:45.041978670297254,79.28802588996764,13.818924438393465,10.032362459546926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ we shall still love and never lose again.
 God bless you and support you under your  
 heavy affliction.” Imagine the hide-boun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182094:1893041601:0679/pct:19.766167336499816,10.891914420672409,15.9846547314578,6.724090025006946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182094:1893041601:0679/pct:15.318546484190655,8.444891074184403,12.397357243983011,5.218389979542763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ have loved and lost and whom we shall
 bless 3-0U and support you under your  
 heavy affliction.&quot; Imagine the hide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286789:1893042301:0351/pct:10.366586538461538,124.35883324160704,17.938701923076923,8.871766648321408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286789:1893042301:0351/pct:6.913134956417193,82.90588882773802,11.962729185452359,5.921849201981288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ still love and never lose again. God
 bless yen anal - . pport you under your  
 heavy all! let ion. Imagine the hide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1893050401:0992/pct:10.58869244219934,108.9188108252233,18.4379250048572,9.69204106119184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1893050401:0992/pct:8.2061834972897,84.41245350599256,14.299337482433247,7.518253202920512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ whom we shall still love and never
 lose again. God bless and support  
 you all under your heavy alUictiou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_baldwin_ver01:data:sn98066406:00296023346:1898031101:0378/pct:51.22186495176849,109.37819711265205,20.755627009646304,6.752301921109469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_baldwin_ver01:data:sn98066406:00296023346:1898031101:0378/pct:34.16438796847354,72.92258724565193,13.849123371400998,4.5015346140729795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -104,7 +104,7 @@ the country was explored, the more it would
 rise in estimation ” The assent and co-opera­  
 tion of Maryland being indispensable to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:24.09778812572759,37.05170517051705,17.82803924829536,7.876787678767877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:24.093781177253078,37.047629523704764,17.830617448176476,7.879587870787959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ ern gentry, and smooth the way for the commissioners, who
 have proceeded to Fort Pitt.&quot;  
 The same paragraph transcribed from the letter-book 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852041701:0165/pct:49.51000690131125,21.68530785101531,15.62456866804693,6.699967423172983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852041701:0165/pct:49.51460777547734,21.68892749846165,15.62456866804693,6.703587070619322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ ind smooth the way for the commissioners, who have proceed­
 &gt;d to Cuyahoga.&quot;  
 These specimens will serve to show the state of the tex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852041701:0165/pct:49.551414768806076,28.265826908459115,15.445134575569359,6.873710500597242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852041701:0165/pct:49.55601564297216,28.269446555905454,15.445134575569359,6.8809497954899195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ ges which woud resul from the accomp ishment of these
 great objecis; and I hove will embrace the present moment to  
 put them. n train for executl n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:25.139309027224964,78.91363022941971,50.995064480178314,7.984705353126405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:8.379769675741654,26.304543409806566,16.998354826726104,2.661568451042135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ O tHis.&quot;
 We need not multiply instances.  
 The life of the closing years of the las
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555353:1887111301:1113/pct:42.08782104391052,271.77947598253274,53.43827671913836,17.139737991266376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555353:1887111301:1113/pct:10.52195526097763,67.94486899563319,13.35956917978459,4.284934497816594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

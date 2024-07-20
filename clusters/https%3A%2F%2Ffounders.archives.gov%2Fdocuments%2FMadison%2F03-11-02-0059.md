@@ -40,7 +40,7 @@ gislature heretofore, and during its present ses­
 sion, and to comprehend in such system the es­  
 tablishment of one university, to be called th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816030201:0834/pct:26.270104671942814,75.13626162231485,21.82792953791167,5.9955113818531585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816030201:0834/pct:26.263399693721286,75.12421862477962,21.82873915262889,5.9985574611315915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -63,7 +63,7 @@ the establishment and maintenance, and good or­
 der and discipline in the management thereof.—  
 Ibis resolution was sent up tot be senate and ob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816030201:0834/pct:26.270104671942814,81.11574222507214,21.930048506510083,6.059634498236615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816030201:0834/pct:26.263399693721286,81.10274082384997,21.930832057172026,6.062670299727521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ on the subject.
 In common with their fellow citizens  
 at large, they hail with pleasure, and de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816121001:0267/pct:47.55607633076666,35.441907919908175,15.232674924673585,17.178931258768014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816121001:0267/pct:47.54811715481171,35.43738842132109,15.235704323570433,17.18099124373034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ tablishment and maintenance, and crood order and dis­
 cipline in the management thereof.” The Senate agreed  
 to the Resolution; the Pro ident and Directors of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830041601:0370/pct:3.4375,33.69666048237477,15.297619047619047,5.925324675324675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830041601:0370/pct:3.436988543371522,33.69275362318841,15.300302534345088,5.928502415458937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ additional Colleges, Academies, and Schools,
 as shall diffuse the benefits of education  
 throughout the Commonwealth?” Such is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:0041421566A:1839112901:0311/pct:20.955436101959425,28.473627812834863,15.224553494017687,3.1789498749851175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:0041421566A:1839112901:0311/pct:20.953619419159082,28.471932853146022,15.226123392573328,3.1807448856082705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ such additional colleges, academics and
 schools as &quot;shall diffuse the benefit of  
 education throughout the commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024442:211103140:1895102901:0476/pct:26.91095350669819,73.03387779794313,15.602836879432624,3.781004234724743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024442:211103140:1895102901:0476/pct:20.19704433497537,54.77918935269207,11.704433497536947,2.8433151845130067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

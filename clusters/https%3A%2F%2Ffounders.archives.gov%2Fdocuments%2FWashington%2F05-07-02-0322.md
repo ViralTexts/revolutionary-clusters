@@ -63,7 +63,7 @@ tion District, composed of the counties of
 Lancaster, Northumberland, Richmond, West­  
 moreland, King George, Stafford and Princ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829031701:0429/pct:17.257068573285668,39.83572895277207,15.25836854078648,1.920521802150018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829031701:0429/pct:17.25426482534525,39.830917874396135,15.261305171946926,1.924315619967794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ ChT* r|,ly’ York. &#x27;V«««ck, Elizabeth
 City, Gloucester, Matthews, Middlesex,  
 Essex king &amp; Queen, King William,Car
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1838041201:0330/pct:7.923981317442422,13.565501634397787,14.221291673377355,4.727181292431481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1838041201:0330/pct:7.9227053140096615,13.563796354494029,14.224369296833064,4.730777288916824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ toway, Amelia, Chesterfield, Powhatan and the city of
 Petersburg.  
 The third circuit, of the counties of Cumberland
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072301:0073/pct:50.43971076802814,57.7683013503909,14.617940199335548,9.068941009239516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072301:0073/pct:50.42985541227042,57.76009096077317,14.619968737788199,9.071205230244457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ and Queen, and Essex.
 The filth circuit, of the counties of Stafford, Prince  
 William, Fairfax, Alexandria, Loudoun, Fauquier an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072501:0081/pct:66.01042269832078,58.00447802966695,14.244354371742906,2.4909040022390148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072501:0081/pct:65.99768429177924,57.99636210997621,14.246429949826322,2.4940534489995803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ The fifth circuit, of the counties of Stafford,
 Prince William. Fairfax. Alexandria, Loudoun.  
 Famjuiei and Bappahannock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851072601:0281/pct:3.7880237229768507,48.78984445839436,12.961545819781902,3.7106786635976845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851072601:0281/pct:3.787661406025825,48.78644162365742,12.963494340825761,3.712744687776073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ Queen and Essex, shall constitute the eighth circuit
 ix. The counties of Stafford, Prince William, Alex­  
 andria, Fairfax, Loudoun, Fanquier and Rappahan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080201:0104/pct:63.40458913512453,84.98420901521676,14.37536771916062,2.526557565317255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080201:0104/pct:63.3921568627451,84.97201090856896,14.377450980392156,2.529783263958662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ eighth circuit. . ...
 i\. The counties of Stafford, Prince W illiam,  
 Alexandria, Fairfax, Loudoun, h auquier am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0364/pct:14.803978935049736,78.85928961748634,15.564657694558221,3.2581967213114753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0364/pct:14.802246665106482,78.85390342189741,15.566736874951244,3.2602508936092707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ It consists of the counties of Lancaster, North­
 umberland, Richmond, Westmoreland and King  
 ieorge. The low*r end &lt;*t the peninsula hor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853111401:0460/pct:84.31647940074906,49.36185133239832,12.340823970037453,1.4305750350631137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853111401:0460/pct:84.30858533845145,49.35839001472547,12.34278937677496,1.4328120982633288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ Sheriff of each of the counties of Lancaster, North­
 umberland, Richmond, Westmoreland, King George,  
 Spottsylvania, Caroline, Hanover, King William
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191009:1857012001:0070/pct:24.70651013874066,201.98436560432953,42.10245464247599,5.748647023451594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191009:1857012001:0070/pct:8.235503379580221,67.32812186810985,14.034151547491996,1.9162156744838645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ the counties of Lancaster, Northumberland, Rich­
 mond, Westmoreland, King George, Spottsylvania,  
 Caroline, Hanover, King William, King and Quee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191010:1857071501:0054/pct:56.07274969173859,188.8574229386777,36.91430332922318,3.9102494281668663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191010:1857071501:0054/pct:18.690916563912864,62.95247431289257,12.304767776407727,1.3034164760556222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

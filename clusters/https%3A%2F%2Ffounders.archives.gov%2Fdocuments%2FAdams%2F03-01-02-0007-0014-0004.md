@@ -556,7 +556,7 @@ TRANSLATED FROM THE GERMAN.
 “If any man serve me let him follow m e, and  
 where I am there shall also my servant be.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016561:1855042001:0347/pct:44.47174447174447,49.299507762211285,11.973791973791974,11.44768395809668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016561:1855042001:0347/pct:44.46446118571897,49.293286219081274,11.975925319358009,11.449394245330641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ Hebrews, that Christ is “ the Mediator
 of a better covenant which was estab­  
 lished upon better promises ” than th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016068:1871021402:0046/pct:3.56619443087445,47.8904282115869,16.560820713238886,2.188287153652393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016068:1871021402:0046/pct:3.5653235653235655,47.882889973240985,16.562881562881564,2.191877852982843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +887,7 @@ I am there shall also my servant be; if
 any man serve me, him will my Father  
 honor.&quot; What I want to call your at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1877030201:0037/pct:48.25462012320329,77.51351351351352,34.13757700205339,8.27027027027027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1877030201:0037/pct:16.084873374401095,25.83783783783784,11.379192334017796,2.7567567567567566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1038,7 +1038,7 @@ must be a putting off of the mortal in
 order to put on the immortal.  
 In the 15th of Corinthians he says, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jicama_ver01:data:sn83025668:0041562802A:1887092901:0161/pct:184.5247446975648,251.61202557475173,48.70384917517675,32.75744796626309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jicama_ver01:data:sn83025668:0041562802A:1887092901:0161/pct:46.14024749558044,62.90300639368793,12.178353957965037,8.189361991565773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1074,7 +1074,7 @@ to Jesus the mediator of the ne
 “Jesus is the mediator of a better covenant,  
 which was established on better promises; for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340708:1889031501:0049/pct:56.000499001996005,32.20738413197172,9.256487025948104,0.6284367635506677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340708:1889031501:0049/pct:56.00881570192947,32.21065724011521,9.25232867598137,0.6349829798376538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ be: if any man serve Me, him will My
 Father honor.”—John 12: 26.  
 H:ve ye looked for sheep in the desert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn84025834:00220720366:1889062201:0004/pct:9.237650719564371,9.41352259992529,16.433294437961884,2.801643630930146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn84025834:00220720366:1889062201:0004/pct:9.250615843381304,9.41352259992529,16.42032931414495,2.8057942140870793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1155,7 +1155,7 @@ Me and where I am, there shall also My
 servant be if any man serve Me, him will  
 My Father honor.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479846:1891100701:0324/pct:7.027818448023426,30.33096401599289,14.202049780380673,9.429142603287428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479846:1891100701:0324/pct:7.0332411474431975,30.338368132681772,14.196627080960903,9.429142603287428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1211,7 +1211,7 @@ Me; and where I am, there shall also My
 servant be; If any man serves Me, him will  
 My Father honor.” If we follow Him i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1891101001:0380/pct:83.52468427095293,43.405310767435076,11.978568694986606,2.1009629413481177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1891101001:0380/pct:83.50870480198967,43.39897884755653,11.981059881385116,2.1043034281546316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1234,7 +1234,7 @@ honor.”
 We can only serve Him by serving  
 those for whom He died, and in thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542866007:1893072001:0063/pct:35.42928765406309,66.72099570306712,14.079799456862336,6.4009482886353535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542866007:1893072001:0063/pct:35.421888053467,66.71111111111111,14.082080200501252,6.4037037037037035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

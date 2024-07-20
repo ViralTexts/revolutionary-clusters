@@ -102,7 +102,7 @@ to letters into which neither interest nor inclination
 on hia part entered, and of&#x27;en from persons whose  
 names he never before h? ard.&quot; And again he write
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743117:1837102101:0555/pct:21.519624287151963,70.39048059149722,18.399865816839988,3.211645101663586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743117:1837102101:0555/pct:21.519624287151963,70.39818237831177,18.422229676842225,3.2077942082563156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ souht in my hfe ; iff that has been honest
 and dutiful to society, the re&#x27;igion which has  
 regulated it cannot be a bad one.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1849110801:0186/pct:41.30813953488372,20.789560986398318,12.834302325581396,2.3443547495300234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1849110801:0186/pct:41.31782945736434,20.793247078771795,12.839147286821705,2.351726934276973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ world u to be sought iri my hie; it that has been
 horwst and dutiful to society , the religion which has  
 regulated it cannot be a bad one.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1850010101:0566/pct:57.987137145836954,85.34494306764903,13.019294281244568,4.916275954454119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1850010101:0566/pct:57.97705943691345,85.33351192070721,13.021376433785193,4.918965979105277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ surht in my life; if that has been honent and duttful to
 ets the religion which has regulated it cunnot be a bos  
 s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850021101:0385/pct:2.760391590434922,97.33813785888644,40.057775637939336,5.858421480878763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850021101:0385/pct:0.920130530144974,32.446045952962145,13.352591879313112,1.9528071602929211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ world is to be sought in my life if that
 lias been honest and dutiful to society,  
 the religion which lu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1850032201:0095/pct:3.815145407428736,63.43127544844283,12.755542758422113,2.9382634532849123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1850032201:0095/pct:3.815145407428736,63.43861193646601,12.765140608503696,2.930926965261729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ life; if that has been hoiest and dutiful to soci­
 ety, the religion which has regulated it cannot  
 be a bad ono.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00205958174:1850102701:0004/pct:44.896728478818034,93.399416909621,9.513040856324439,4.513119533527697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00205958174:1850102701:0004/pct:44.90803557967737,93.399416909621,9.509271822704658,4.518950437317784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ l.fe if &#x27;hat has been honest and dutiful t» so­
 cii ty the religion which has regulated item-!  
 not be a bad one.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1853110901:0477/pct:27.70096659733268,11.503280051741662,11.097516211917288,3.372447565370045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1853110901:0477/pct:27.70096659733268,11.506359912531954,11.105673151433582,3.372447565370045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ if that has been honest and dutiful to socic
 the religion which has regulated it cannot b.  
 bad one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190649:1859103101:0416/pct:202.28136882129277,14.71924699772801,58.95537322393436,11.57091853294385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190649:1859103101:0416/pct:50.57034220532319,3.6798117494320026,14.73884330598359,2.8927296332359624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ religion which has regulated it eannot be a
   
 bad one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1859112301:0398/pct:5.1024140453547915,24.271712496596788,12.948061448427213,2.6817315545875307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1859112301:0398/pct:5.101481075150851,24.26840887437049,12.95026513073688,2.6847692935892202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ that has been honest and dutiful to socicty, the
 regligion which has regulated it cannot be a bad  
 one.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1860011301:0387/pct:61.934041363890444,145.46762589928056,43.82336500838457,8.920863309352518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1860011301:0387/pct:20.644680454630148,48.489208633093526,14.607788336128191,2.973621103117506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ if that has been honest and dutiful to society,
 the religion which has regulated it cannot  
 be a bad one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058101:00279557426:1860042801:0309/pct:242.16171617161717,179.40681852927688,52.64026402640264,16.541813178413086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058101:00279557426:1860042801:0309/pct:60.54042904290429,44.85170463231922,13.16006600660066,4.135453294603272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ that has been honest and dutiful to so-­
 ciety, the religion which regulated it  
 cannot be a bad one.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1865091401:0846/pct:27.585030144465932,146.2692163479565,41.34910704129223,15.119985001874765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1865091401:0846/pct:9.19501004815531,48.756405449318834,13.783035680430743,5.039995000624922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ my life; if that haii been honest aud duti­
 ful to society, the religion which has regu­  
 lated it capnot be a bad one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775836:1865102001:0596/pct:52.5305410122164,123.57967154904571,14.470622454915649,3.8282290279627165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775836:1865102001:0596/pct:39.40936863543788,92.68752774079006,10.867035205120745,2.873945849977807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ been honest ami dutiful to society, the re­
 ligion which has regulated it cannot ho a  
 had one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558005:1865120901:0199/pct:47.80868902439025,49.13709788761563,14.272103658536585,3.810575728289383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558005:1865120901:0199/pct:47.82298018292683,49.14745271296424,14.26733993902439,3.81402733673892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ been honest and dutiful to society, the
 religion which has regulated it cannot  
 be a bad one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1880011401:0400/pct:130.80324244657334,164.6049896049896,47.82608695652174,15.904365904365905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1880011401:0400/pct:32.71286398820494,41.1512474012474,11.96092886103944,3.9760914760914763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

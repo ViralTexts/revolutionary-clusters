@@ -49,7 +49,7 @@ military, of government, to the extent
 j the engagements of the United States,  
 , and to difcharge, within eight years, thir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801123001:0002/pct:58.0264496439471,24.51346307651293,18.00610376398779,5.465209277525993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801123001:0002/pct:58.0264496439471,24.517906336088153,18.00610376398779,5.460766017950768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -80,7 +80,7 @@ authorifed by existing laws ; to meet
 all the engagements of the United  
 States ; and to discharge within 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802011201:0007/pct:58.615948670944086,32.607202433519774,16.101435991445157,4.7198508487881465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802011201:0007/pct:58.62613300743457,32.607202433519774,16.09634382319992,4.726392568606286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ thorized by exilling laws ; to meet all
 the engagements of the United States,  
 and to discharge, within eight years
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802011901:0010/pct:25.616438356164384,17.69720725134738,16.347031963470318,8.71141597256247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802011901:0010/pct:25.621511922881787,17.7004736240405,16.347031963470318,8.717948717948717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ eight years, thirty-two millions of dollars of the
 principal, and, within fifteen years and a half,  
 the whole of the public debt : that any increaf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802012301:0057/pct:33.15036267398549,28.195532686235527,20.21172319153107,10.653724710560168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802012301:0057/pct:33.15689734039077,28.195532686235527,20.21825785793635,10.661521069660468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ difeharge, within eight years, 3* millions ofdcl­
 lars of tne principal, and, within fifteen years and  
 a half, the whole of tne public debt : that any in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802012501:0745/pct:77.2437034409365,66.0341754900933,19.971621142249024,6.6044658769263025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802012501:0745/pct:77.23000532009222,66.02725366876311,19.97251285688952,6.606394129979035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ that they have been mistaken tnthegþ&#x27;,
 ject? ry&quot; their stir/lah).  
 LUCIUS CRASSL&#x27;S.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802050701:0052/pct:7.066795740561472,3.8144423303433905,91.4488544691836,93.72111986952976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802050701:0052/pct:7.065655750927569,3.814096756658815,91.43947948593859,93.71564897022408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ gin to fufpttf, that they have been mdl.ikenia
 the OBJECT OF THEIR IDOLATRY.  
 LUCIUS CRAUSSUS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895060:1802062101:0015/pct:4.537612146307798,10.639665702346512,89.75155279503106,83.44583735133398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895060:1802062101:0015/pct:4.536829394514404,10.638525819584315,89.74038295670174,83.43957574458967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1164,7 +1164,7 @@ barrassmenti,&#x27; we are aagaciously informed that the**
 &#x27; useat riLUas of our prosperity ought to be le.ft to tak?  
 care of theinaelves.&#x27;&quot; Thua does Hamilton define th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852101901:1014/pct:1.4495114006514658,84.89629723883446,15.2442996742671,3.3337574755057897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852101901:1014/pct:1.4495114006514658,84.89629723883446,15.255157437567862,3.3422403189549135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

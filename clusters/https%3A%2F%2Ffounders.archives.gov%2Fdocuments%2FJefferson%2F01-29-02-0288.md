@@ -91,7 +91,7 @@ proposed.”
   
 The reader wiliobs rv ■ that the public is abou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829031001:0421/pct:48.574686431014825,64.06193734245589,15.491122332627464,9.782739166966751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829031001:0421/pct:48.56677524429968,64.05424867978877,15.494028230184583,9.78556569051048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ thill* might happen which lias happen il The
 second office of this goveruiueul is honornh!  
 and easy, the first is but a s/jlcuilitl miu.nt. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829031601:0245/pct:52.182866556836906,29.09090909090909,14.806425041186161,7.070707070707071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829031601:0245/pct:52.172122709491454,29.086711874188428,14.80852378011118,7.073293896984562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ yf their dependents, in the latter by their insi tu­
 itions and the influence of their legers; that tl.&lt;?&gt;?  
 jre advancing fast to a monopoly of our bank*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838090101:0249/pct:75.91917853593905,89.57033957033957,17.70453792646572,7.045507045507046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838090101:0249/pct:75.91917853593905,89.57803957803958,17.710058518273158,7.045507045507046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ its institutions, of which we are now complaining
 by the increase of foreign population. He then  
 said:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838090101:0250/pct:4.839522769282474,3.6758756213154546,18.40026886237607,9.941047277771355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838090101:0250/pct:4.839522769282474,3.683581859515278,18.41147146137904,9.937194158671444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ bond the interests of this country, entirely to the
 will ol another, Ac.&quot;  
 Let the voice of the American Mercantile in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839050401:0384/pct:5.901639344262295,3.3913946245241666,36.52459016393443,93.09032183642866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839050401:0384/pct:5.901639344262295,3.3990848617679856,36.540983606557376,93.08647671780675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ it as much, as any one, and acknowledging the
 preference of his claims, if any 1 could have bad,  
 to the high office conferred on him.&quot; Let thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840061801:0236/pct:69.17307692307692,6.707490743377955,27.71153846153846,90.54400455710623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840061801:0236/pct:69.17307692307692,6.707490743377955,27.71153846153846,90.55824551409854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ SOF
 JUNE 23, 1840.  
 had, to the high office lofee en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840062501:0835/pct:125.92885375494072,38.35616438356164,117.23320158102767,322.85791028740266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840062501:0835/pct:31.494661921708186,9.58904109589041,29.319889284302096,80.71447757185067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ any one, and acknowledging the preference of his
 claims, if any 1 could have had, to the high office J  
 conferred on him.&quot; Let those who support all 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840062501:0524/pct:20.17133956386293,57.22375690607735,15.36214953271028,3.4806629834254146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840062501:0524/pct:20.16741288689897,57.21585416378953,15.364025695931478,3.4836348570639415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ of Silas Deane?&#x27; that there were an ocean
 of fire between this and the old world.&#x27; &quot;?  
 Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840100301:0660/pct:2.542372881355932,23.766294227188084,15.547588005215124,3.468342644320298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840100301:0660/pct:2.5478053020425904,23.77405338299193,15.563885267275097,3.468342644320298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ the old world.&quot; And Madison said—&quot;Foreign
 influence is truly a Grecian horse to the Repub­  
 lic. We cannot be too cartful to exclude it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026128:1844111901:0036/pct:4.712755598831548,36.45615502579116,14.936708860759493,5.158232259863377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026128:1844111901:0036/pct:4.725738396624473,36.46544913797109,14.936708860759493,5.158232259863377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ myself from joining in the wish of Silas
 Deane-that there were an ocean of fire  
 between this and the old world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845012401:0577/pct:258.4070796460177,138.63636363636363,111.59292035398231,23.983253588516746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845012401:0577/pct:64.60176991150442,34.65909090909091,27.898230088495577,5.9958133971291865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ tain Marryatt, of tho British Navy, visited Un­
 united States. He made a tour throughout  
 the country, visiting every portion of it, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855033101:0474/pct:18.428080885158337,50.28477407923048,15.814574589851201,4.37919250727756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855033101:0474/pct:18.428080885158337,50.28899295447834,15.82093348594684,4.37919250727756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ ests of this country entirely to the will of another,
   
 Let the voice of the American mercantile interests
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn84025908:00211664137:1856090801:0238/pct:46.970187945560596,40.82678510420225,14.54957874270901,8.985309190297233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn84025908:00211664137:1856090801:0238/pct:46.97558868006049,40.83437725391945,14.544178008209116,8.985309190297233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ wish to keep out of the broils of Europe, I would
 vet go with my brethren into these latter rather  
 than separate from them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860012401:0583/pct:137.21163490471415,121.09510086455332,59.63891675025075,51.77233429394813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860012401:0583/pct:34.29602888086642,30.269413629160063,14.906738868832731,12.941218844546896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ for us to say we stand on independent ground?Impossible
 for a free mind not to see and to groan under the bondage  
 In which it Is bound.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860072001:0243/pct:39.50928381962865,1.8586258032624814,25.358090185676392,95.68956994562531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860072001:0243/pct:39.50928381962865,1.8652166749052561,25.371352785145888,95.68956994562531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ there were an ocean of fire between us
 and the Old World. An entire cessation  
 of intercourse would benefit us, but a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1878040501:0804/pct:133.914913957935,103.3446795915347,49.3546845124283,20.837649844605593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1878040501:0804/pct:44.638304652645,34.44822653051157,16.451561504142767,6.945883281535198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -755,7 +755,7 @@ record as saying, &quot;The second office
 of the Government is honorable and  
 easy; the first is but a splendid misery.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn83045555:00206539781:1893030901:0829/pct:98.4472049689441,218.58204688393369,36.80124223602485,5.145797598627787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn83045555:00206539781:1893030901:0829/pct:32.84123284123284,72.86068229464456,12.276612276612276,1.7152658662092624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ ment,” said Jefferson, &quot;is honorable
 and easy, the first is but a splendid  
 misery.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187316:1893031501:0085/pct:8.020426554520878,45.87896253602305,12.090717933313307,2.4207492795389047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187316:1893031501:0085/pct:8.019222105421234,45.8736745043799,12.093907994193323,2.4243122790840634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ said Jefferson, &quot;is honorable
 and easy, the first is but a splendid  
 misery.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1893031701:0056/pct:26.034712950600802,190.08049857179952,41.52202937249666,7.102051415216827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1893031701:0056/pct:6.510851419031719,47.52012464294988,10.38397328881469,1.7755128538042066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -821,7 +821,7 @@ ment,&quot; said Jefferson, &quot;is honorable
 and easy, the first is but a splendid  
 misery.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn87075048:00237289523:1893031801:0939/pct:9.040940106141015,64.5096921322691,16.034874905231234,3.3209806157354618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn87075048:00237289523:1893031801:0939/pct:6.788016685627607,48.38939566704675,12.040197193780811,2.494298745724059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ war.—John Adams.
 I abhor war, and view it as the  
 greatest scourge of mankind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916270:1898030501:0897/pct:4.647589782984444,39.36051382295448,15.632801997311311,16.36414409382854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916270:1898030501:0897/pct:3.6118277435999206,30.504256240080796,12.115499106965668,12.696580580002886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +940,7 @@ The most successful war seldom
 I abhor war and view it as the  
 greatest scourge of mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513687989:1898030601:0141/pct:30.942275042444823,37.07186973610331,13.306451612903226,16.63391353172375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513687989:1898030601:0141/pct:30.949349179400112,37.07186973610331,13.299377475947935,16.64327157027887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ war.--John Adams.
 I abhor, war, and view it as the  
 greatest scourge of mankind. Thom-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1898031101:0251/pct:73.54726799653079,113.03483905153,47.961838681699916,7.590409325738508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1898031101:0251/pct:18.386816999132698,28.2587097628825,11.990459670424979,1.897602331434627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

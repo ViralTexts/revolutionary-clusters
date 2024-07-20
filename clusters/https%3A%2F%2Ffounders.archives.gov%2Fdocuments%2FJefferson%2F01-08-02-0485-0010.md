@@ -85,7 +85,7 @@ to pay; and they shall enjoy all the
 eights, privileges, and exemptions in na­  
 vigation and commerce, which the mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825082701:0092/pct:4.024039717794617,66.29064366290643,17.40266527305984,7.083609820836098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825082701:0092/pct:4.022988505747127,66.27964836622989,17.404649947753395,7.086581522640571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ all the rights, privileges, and exemptions
 in navigatiun and commerce, which  
 the most lavored nation does or shall en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825082701:0092/pct:4.154690357982754,78.00265428002655,17.428795401097464,6.320504313205043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1825082701:0092/pct:4.153605015673981,77.9897163708741,17.430773249738767,6.32360258749378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ they shall enjoy all the rights, privileges, and
 exemptions, in pavigation and commerce,  
 which native citizens do or shall enjoy, sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826112101:0185/pct:22.106261859582542,50.576824910668705,16.540164452877924,3.8489025012761613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826112101:0185/pct:22.111532785157074,50.58022800748682,16.534893527303396,3.859111791730475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ decrees, and usages, there established, to |
 which native citizens are subjected. But  
 it is understood that this article does not 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826113001:1176/pct:2.975270479134467,66.03395425607168,18.276661514683152,6.8380099033246875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826113001:1176/pct:2.981710458526533,66.04181403756975,18.28310149407522,6.830150121826613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ and they shall enjoy all the rights. privileges and
 exemptions, in navigation and commerce, which  
 native citizens or subjects do or shall enjoy, sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829041401:0057/pct:5.39647577092511,45.9122844368746,16.755821271239775,3.651266766020864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829041401:0057/pct:5.40172015942941,45.9158328010787,16.771554436752673,3.654815130224966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ they shall enjoy all the rights, privileges
 and exemptions, in navigation and com  
 merce, which native citizens or subjects do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830093001:0558/pct:1.1262066499821237,59.64850615114236,16.21380050053629,4.018746338605741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830093001:0558/pct:1.1262066499821237,59.652411638351886,16.21975926588011,4.02265182581527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ or shall be obliged to pay ; and they shall en­
 joy all the rights, privileges, and exemptions  
 in navigation and commerce, which the mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834061701:0409/pct:4.493590646569939,69.41371109502637,14.001972108747712,5.242477510081687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834061701:0409/pct:4.5029816406066585,69.41715782580222,13.997276611729351,5.242477510081687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +526,7 @@ and merchandise ; and that they shall enjoy
 all the rights, privileges, and exemptions, in  
 navigation and commerce, which native citi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848070701:0109/pct:37.808807733619766,59.73110191801429,17.61546723952739,3.7608123354644603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848070701:0109/pct:28.360413589364846,44.800676946220385,13.213374513226803,2.8206092515983454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ tures, and merchandise; and that they shall enjoy all the
 rights, privileges, and exemptions, in navigation and com­  
 merce, which native citizens do or shall enjoy, submittin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072201:0275/pct:80.52401746724891,119.93399339933994,57.55458515283843,9.801980198019802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072201:0275/pct:20.131004366812228,29.983498349834985,14.388646288209607,2.4504950495049505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ chandise; and they shall enjoy all the rights,
 privileges, and exemptions in navigation and  
 commerce which native citizens do or shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852090101:0565/pct:290.3890160183066,338.60350661334974,44.241037376048816,10.027683789603199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852090101:0565/pct:72.63880938752146,84.65087665333743,11.06659034535394,2.5069209474007996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

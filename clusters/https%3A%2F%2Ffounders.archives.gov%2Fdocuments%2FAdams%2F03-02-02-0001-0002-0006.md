@@ -243,7 +243,7 @@ good? and what doth the Lord require of thee
 but to do justly, to love mercy and walk hum­  
 bly with thy God?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1871051301:0512/pct:122.89416846652267,168.6039886039886,50.107991360691145,23.247863247863247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775186:1871051301:0512/pct:30.723542116630668,42.15099715099715,12.526997840172786,5.811965811965812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ Lord require of thee, but to act justly, and to
 love mercy, and to walk humbly with thy  
 God?&quot; (Micah, vitth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102044:1887020701:0147/pct:241.98473282442748,267.82874617737,42.900763358778626,16.452599388379205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102044:1887020701:0147/pct:60.530838266182926,66.9571865443425,10.731334733626122,4.113149847094801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ require of thee? But to do justly, to
 love mercy and to walk humbly with  
 thy God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898010801:0439/pct:54.526166902404526,86.50906002265006,38.03041018387553,19.110985277463193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898010801:0439/pct:18.175388967468177,28.836353340883353,12.676803394625177,6.370328425821064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

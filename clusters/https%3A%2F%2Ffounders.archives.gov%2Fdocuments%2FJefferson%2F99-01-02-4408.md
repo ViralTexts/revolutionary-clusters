@@ -41,7 +41,7 @@ the United States.
 And be it further enaSed, That the ref­  
 peftive functions and duties of the offi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041201:0001/pct:7.160194174757281,41.24206883291674,20.78276699029126,5.5373966544895215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041201:0001/pct:7.167779126213592,41.24206883291674,20.78276699029126,5.5422034224187655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -70,7 +70,7 @@ shall be adjufled and fettled in the trea­
 sury department of the United States  
 and a quarter yearly account of the re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041201:0001/pct:28.489077669902912,19.073255143241685,20.78276699029126,11.690059603922323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041201:0001/pct:28.489077669902912,19.078061911170927,20.78276699029126,11.694866371851568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ services performed in relation thereto, and all other accounts con­
 cerning the bufiuefs and administration thereof, shall be adjufled  
 and fettled in the treasury department of the United States ; and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041401:0001/pct:6.7748091603053435,83.45266507557677,27.608142493638677,6.523468575974543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041401:0001/pct:6.798664122137405,83.46260938743039,27.616094147582697,6.528440731901353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ y in number, such wages and allowances as are
 customary and reasonable, according to their res­  
 pective stations and oceupations. For the branche
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1835072901:0305/pct:41.605839416058394,76.50026553372278,18.503649635036496,1.9118428040361126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1835072901:0305/pct:41.61192214111922,76.50469109576916,18.509732360097324,1.9251194901752522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ allowances as are customary and reasonable,according
 leir respective stations and occupations,  
 tc. . Ami be it further enacted. That the officers an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847030401:0229/pct:39.00223143130379,84.05779204741911,14.249282754223781,2.148678686095332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847030401:0229/pct:39.007544362979495,84.06190829011278,14.249282754223781,2.1569111714826708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ tomary and reasonable, according to their respective
 stations and occupatioas.  
 Sec. 3. And be it further enacted That the officer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851021101:0228/pct:60.53729350909394,30.737327188940093,46.737860837643915,17.37327188940092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851021101:0228/pct:20.179097836364647,10.245775729646697,15.579286945881305,5.7910906298003075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ reasonable, according- to their resp? clivo stations
 and occupations.  
 Skc. 3 And be it furtller ineicUd. That the off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852070701:0041/pct:56.09119626424942,42.74061990212072,13.967861557478368,5.0679717237629145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852070701:0041/pct:56.10035251568008,42.74061990212072,13.963283431763037,5.0752220409642925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ cupations.
 See, 3. And be it further enaced,  
 That the officers and clerks to be ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022165:00296025148:1853021901:0076/pct:106.2358276643991,252.88216289746643,64.96598639455782,16.323754463526612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022165:00296025148:1853021901:0076/pct:26.566487099518003,63.22054072436661,16.246101502693506,4.080938615881653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ are customary and reasonable. The general direction
 of said Mint to be under control and regulation of  
 the Direetor of the Mint. The salariss of the asnis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eucalyptus_ver01:data:sn83030313:00271744079:1879121201:0968/pct:244.00789084333388,257.517981504738,49.136939010356734,6.176504167142368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eucalyptus_ver01:data:sn83030313:00271744079:1879121201:0968/pct:81.33596361444462,85.839327168246,16.37897967011891,2.0588347223807895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -645,7 +645,7 @@ u ious to return to the feat of govern
 was neceffary to a full communi  
 u cation upon the leveral points he ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798073001:0055/pct:52.77136258660508,0.7330695834303003,45.32332563510393,90.0628345357226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798073001:0055/pct:52.761208389455454,0.7329842931937173,45.319415047142584,90.05526468877254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ to be, Dear Sir, your most obe­
 dient humble servant, .  
 Geo : Waflangton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798073101:0543/pct:6.149567367119901,5.8633831720902965,74.08838071693448,88.84979966774162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798073101:0543/pct:6.1547177585496495,5.8633831720902965,74.09353110836423,88.85631453793283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1422,7 +1422,7 @@ Dear Sir, •« • »•-
 f&#x27;Yourmoft obedient humble servant.  
 Go: WASffIM^TON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012201:0003/pct:23.314943631566322,2.478066800061567,35.5241065003598,92.50423272279514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012201:0003/pct:23.314943631566322,2.4896105895028473,35.53010314224034,92.49653686316762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1654,7 +1654,7 @@ had in charge.
 to be, dear Sir, your mult obedient hupihle (el-emu.  
 VHOKOE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804121701:0239/pct:27.87381158167675,9.58807816673696,44.07951598962835,86.78476029804582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804121701:0239/pct:27.867790019442644,9.586730390778746,44.07539425361849,86.77607534439134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1697,7 +1697,7 @@ quence of the ascendancy acquired by the democra­
 tick party. He was the political Messiah, who ap­  
 peared to congratulate the American people, on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806091201:0100/pct:27.669172932330827,49.31001283697047,21.704260651629074,17.458279845956355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806091201:0100/pct:27.662240040090204,49.30210171666934,21.705086444500125,17.459489812289426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1875,7 +1875,7 @@ commission, &quot; Lieutenant General and Commander-in-chiel
 of all the armies raised or to be raised for the service  
 of the United States.&quot; *ot only this, but we find, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855110701:1165/pct:19.86721991701245,31.085379819315435,15.966804979253112,5.038809008779743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855110701:1165/pct:19.872752420470263,31.089621241039996,15.966804979253112,5.043050430504305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1913,7 +1913,7 @@ prove of the wife and prudent measures of your
 administration—they ought to inspire universal  
 confidence. , „ ..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872011101:0003/pct:15.286032689450224,96.43012625163256,11.274145616641903,1.436656508489334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872011101:0003/pct:15.290676077265973,96.43012625163256,11.274145616641903,1.4402844289653172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1975,7 +1975,7 @@ ceive any emoluments annexed to the ap­
 pointment before I am in a situation to  
 icaar e x pecan. .M .-Eh aj ) &#x27;s Life cf Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016925:00415661988:1885032501:0069/pct:17.819148936170212,5.114300903774588,13.157894736842104,3.4343434343434343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016925:00415661988:1885032501:0069/pct:13.369732605347894,3.8383838383838382,9.869802603947921,2.573099415204678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2005,7 +2005,7 @@ shall not be called into the field until the
 army is in a situation to require my pre- Rimt Pg-igy Pnorm.  
 , or natU it become necessary by the I P&#x27;per.-ifW rtruy rw 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016925:00415661988:1885032501:0069/pct:5.039193729003359,122.71132376395535,23.096304591265397,4.508240297713982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016925:00415661988:1885032501:0069/pct:3.7799244015119697,92.0361509835194,17.331653366932663,3.3811802232854866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2053,7 +2053,7 @@ decline having my acceptance considered as de­
 serving after it any immediate charge npon  
 the public, and that 1 cannot receive any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889050501:0065/pct:49.96774193548387,15.488086087624904,13.96774193548387,3.1898539584934666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889050501:0065/pct:37.489917728665915,11.61926723033564,10.485562187449588,2.3955931334870613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2071,7 +2071,7 @@ emoluments annexed to the appointments be.
   
 fore entering into a situation to incur expense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889050501:0065/pct:49.96774193548387,18.6010760953113,13.903225806451612,0.8967460927491673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889050501:0065/pct:37.489917728665915,13.950807071483474,10.437167285045975,0.6789648987957981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2093,7 +2093,7 @@ France had already made &quot;war upon
 our defenceless commerce and demands  
 amounting to tribute.&quot; Perhaps shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892041501:0383/pct:134.26838514025778,203.2589016294508,50.03790750568613,16.777308388654195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892041501:0383/pct:33.58619381756116,50.8147254073627,12.516593969277451,4.194327097163549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2118,7 +2118,7 @@ kind providence who has heretofore and
 so often signally favored the people of  
 these United States 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210697:1898032501:0558/pct:26.55812324929972,45.83841463414634,11.099439775910364,4.923780487804878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210697:1898032501:0558/pct:26.55347453176965,45.83142813595489,11.101872921407317,4.926840420667581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

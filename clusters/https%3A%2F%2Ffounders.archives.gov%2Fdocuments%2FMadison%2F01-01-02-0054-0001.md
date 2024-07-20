@@ -54,7 +54,7 @@ the dic&#x27;atea of conscience; and that it is the mutual1
 duty of ail to practice Christian forbearance, Ipvc, &amp;  
 charity towards each other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:7.326980159350102,74.06846762925012,17.403530698328385,3.6213320912901725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:7.32583567635114,74.05984398649436,17.406018952410705,3.6247913998525245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -75,7 +75,7 @@ the dictates of conscience; and that it is the mutual
 duty ot all to practice Christian forbearance, love, St I  
 chanty towards each thcr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020401:0122/pct:5.0784408863011485,75.74187470560527,18.000970402717126,3.603391427225624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020401:0122/pct:5.077619663648124,75.73295655245497,18.003449762828804,3.6068919502335257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ the dictates of conscience; and that it is the mutual
 duty of all to practice Christian forbearunco, love. &amp;  
 charity towards each other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:23.632243444480416,40.56614947293616,17.8051149239236,1.6226459789174463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:23.628418837999675,40.561345333964944,17.807627987268706,1.6264013895468183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ to the dictates of consoieuce; and that it is the
 mutual duty of all to practice Christian forbear  
 ance, love, and charity, towards each other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851082101:0370/pct:85.55571783262742,39.70818644731688,13.991529136848255,3.7211124167645906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851082101:0370/pct:85.5605861447836,39.71471471471472,13.986660824692079,3.7211124167645906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ tiie dictates of conscience: ami tea: it is the
 mutual duty of all to practice Christian for­  
 bearance, i*\»• and ehnritv towards eac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215920:1854113001:0445/pct:16.024244720143955,47.00486448922863,12.359124917132304,1.8763029881862405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215920:1854113001:0445/pct:16.022727272727273,47.00159822111041,12.36111111111111,1.878488870358789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ of conscience; and that it is tne mutual
 duty ol all to practice Christian forbearance,  
 love and charity towards each o&#x27;.’.ier.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348781:1856032201:0049/pct:30.31416498254639,9.094583670169765,13.09939371670035,4.79655079493398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348781:1856032201:0049/pct:30.308596620132256,9.093358480398761,13.101579720793534,4.799272531321568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ science ; and that it is the mutual duty of oi: i.
 ( to practice Christian forbearance, love ar.d  
 j ciiatity towards each other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861071901:0055/pct:71.99631530464535,64.0517157577525,13.62021318594552,4.257801108194809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861071901:0055/pct:71.99631530464535,64.05819642915006,13.633372812212134,4.25456077249603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ and that it j-&gt; the mutual duty of all to practice
 Christian forbearance, love and charity towards  
 each other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0362/pct:43.52635003253091,67.46684735262801,12.739102147039688,3.2910657245184396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0362/pct:43.52635003253091,67.46684735262801,12.747777054868791,3.2942922595424773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ and that it is the mutual duty of all to practice
 Christian ftlllwaiitl»&lt;l, love and charity towards  
 each oilier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862010701:0014/pct:82.91824227409049,67.52746193871651,12.687442952145,3.27616111004047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862010701:0014/pct:82.91824227409049,67.52746193871651,12.691789455383145,3.27616111004047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ and that it is the mutual duty of all Jo practice
 Christip-j: :orbearance, love and charity towards  
 each ot&#x27;:er
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862012101:0019/pct:3.7162602686139,67.53709770668722,12.843917068718216,3.305068413952592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862012101:0019/pct:3.7162602686139,67.54030962934412,12.856956578432651,3.3082803366094944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ tates of conscience; and that it is the mutual
 duty of all to practice Christian forbearance,  
 love, and charity, towards each other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868041801:0386/pct:43.406518478112645,89.50200656694636,42.2473748806764,9.649762860269975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868041801:0386/pct:14.468839492704214,29.834002188982122,14.082458293558798,3.2165876200899914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ the mutual duty of all men to practise
 Christian forbearance, love and charity  
 toward each other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101039:1879013101:0395/pct:104.73092844470727,28.65656393665929,86.75340035481963,259.03286225097906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101039:1879013101:0395/pct:34.910309481569094,9.55218797888643,28.91780011827321,86.34428741699301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ ty of all to practice Christian forbear­
 ance, love and charity towards each  
 other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074064:00383343604:1892102701:0788/pct:18.513249155255203,27.89309807991697,12.502223012626711,1.868188894654904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074064:00383343604:1892102701:0788/pct:18.5099573257468,27.889479828771567,12.504445234708392,1.8711895187443248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

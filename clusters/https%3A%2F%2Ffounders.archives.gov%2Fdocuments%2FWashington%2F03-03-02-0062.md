@@ -40,7 +40,7 @@ stances, 1 had taken my musket upon my
 shoulder and entered the ranks, or, if 1  
 could have jui’ified it to posterity, snd m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816073001:0303/pct:20.186915887850468,91.91355374266494,17.63239875389408,4.780306283097181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816073001:0303/pct:20.182724252491695,91.90040068689181,17.633928571428573,4.783199771036061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ their knowing the disadvantages we labor under.
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1847-05_5_5/page/n92/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1847-05_5_5/page/n92/mode/1up?view=theater)
 
 #### 1847-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -306,7 +306,7 @@ conrcience, had retired to the back country and lived
 &quot;in a wigwam.&quot; At length, however, the reenlistment  
 of the army was completed; advanced lines wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855070601:0454/pct:199.96689289852674,247.8021319918553,47.558351266346634,20.062282908132712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855070601:0454/pct:66.65563096617558,82.60071066395177,15.852783755448877,6.687427636044236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ posterity and my own conscience, had retired to
 the buck country and lived in a wigwam.&quot;  
 At length, however, tho re-enlistme nt of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855070701:0806/pct:35.188308038223724,38.967547926325025,15.214540003747423,6.703420623981957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855070701:0806/pct:35.19455374430079,38.97590109844214,15.208294297670351,6.707597210040513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ tified the measure to posterity and my own con­
 science, had retired to the back county and lived  
 in a wigwam.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855071101:1097/pct:143.36452167271338,40.37780401416765,59.06053083826618,29.058441558441558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855071101:1097/pct:35.834287896143564,10.092961487383798,14.762313860252005,7.2635384388372435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ being cashiered, and recruits of beiag treated as deserters, to
 join tbelr regiments by the first day of next month, that I  
 may know my real strength,&quot; As., Ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071701:0779/pct:45.93385524844224,64.97869140135373,15.337913404697236,4.637753823013287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071701:0779/pct:45.93918091281888,64.97869140135373,15.337913404697236,4.646110136207905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ prlie-sbip and from the Soldiery, notwithstanding the regl
 I meaU are not half completed.&quot;  
 I might mnltiplr similar Mtraets, bnt I do not eire t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071701:0779/pct:45.901901262182456,74.11631987966909,15.369867390957022,3.923289044873402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071701:0779/pct:45.901901262182456,74.1246761928637,15.380518719710285,3.9191108882760926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ enemies ; for surely, if we get wejl through this month, it ,.
 must be for want of their knowing the disadvantages we labor  
 under.&quot;?3 Sparks, p. 238. *\ef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:16.913285600636435,51.26303883373131,16.801909307875896,11.185120020108082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:16.913285600636435,51.27141720078757,16.817820206841688,11.18093083657995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -139,7 +139,7 @@ which a majority of the ministers, magistrates,
 lawyers and physicians, inhabiting said town  
 may advise.” This Academy it was provide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849072601:0532/pct:20.79310997539277,74.09362411446034,12.597009275033125,2.6531462703153217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849072601:0532/pct:20.79114223526072,74.08847836655323,12.598971641273145,2.655276986827789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ liberty to take from the land by him granted, ns |
 much stone as they may need in erecting their  
 church,&quot;—a privilege of which the Society has 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849072601:0532/pct:20.79310997539277,79.85831365467426,12.833617262918796,2.701764133907487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849072601:0532/pct:20.79114223526072,79.85276755330231,12.835557237942021,2.70389147394495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ It was provided in the deed &quot;that all the future rents,
 profits, and emoluments arising from said land, be ap  
 phed to the support of a school for the teaching of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531150:1873091501:0115/pct:4.58984375,184.75532527346,47.672526041666664,4.467472654001152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531150:1873091501:0115/pct:1.5299479166666667,61.58510842448666,15.89084201388889,1.4891575513337172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

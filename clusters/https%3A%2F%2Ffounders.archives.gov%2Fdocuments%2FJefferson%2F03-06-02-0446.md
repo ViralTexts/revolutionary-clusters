@@ -179,7 +179,7 @@ cbievous ingredient in government, and
 &#x27;provision should be made to prevent its  
 ascendancy.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829123101:0219/pct:41.58500213037921,33.99132017359653,18.172134639965915,21.083578328433433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829123101:0219/pct:41.57614483493078,33.98656215005599,18.173588924387648,21.08412653975364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ sd Ibe grrat objeaiol qualifying them lo ssl.et .he
 venia de an»loi lor the irttsls of Oov» rnro-n*. to )■• 1  
 exclutioo ol the pseudaliits.”—18 ft. Vof. iv , p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831071501:0082/pct:5.476326297775242,71.33877370974857,14.97432972047918,22.209969122187914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831071501:0082/pct:5.475545415656637,71.33090748704377,14.976947573553876,22.211195648178776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ cy should be put in a separate chamber of legislal
 lion, where they may be hindered from doing misa  
 chief by co-ordinate branches, and be a protection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845091601:0476/pct:27.186061801446417,32.854418308963766,15.253122945430638,6.077558804831532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845091601:0476/pct:27.191540653079116,32.8628946810765,15.253122945430638,6.0817969908879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ choose the good and the wise. Wealth will
 take care of itself. Cabals m the Senate of the  
 United States furnish many proofs that to giv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845091901:0616/pct:52.68452930910584,48.16092747222414,14.957396571193923,9.426540611413982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845091901:0616/pct:52.67912133032232,48.15760419541816,14.959282830356532,9.428190265893827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ a protection to wealth against Ihe agrarian
 and plundering enterprises of a majority  
 of the people. &quot; That,&quot; wrote Jeflerson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1845100801:0177/pct:45.17364657814096,95.40584710368621,19.892747701736464,5.756310150717269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1845100801:0177/pct:33.89527458492976,71.56346468131468,14.942528735632184,4.321772289812965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -784,7 +784,7 @@ subjects, to be completed at a universit
 where all the useful sciences should  
 taught. Mr. JetTer^on regarded 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190868:1871042001:0377/pct:1.8015794669299112,65.90869337064895,11.8213228035538,5.4748994227741825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190868:1871042001:0377/pct:1.8200888450148076,65.91306629351058,11.839832181638696,5.4748994227741825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -817,7 +817,7 @@ age than the lirecr republics of the cow
 ty or State.&quot; lfeeven said such a sysU  
 would be &#x27; the keystone of the arch of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190868:1871042001:0377/pct:1.8509378084896349,75.37169844323947,11.771964461994077,9.21812139233864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190868:1871042001:0377/pct:1.869447186574531,75.38044428896275,11.778134254689043,9.22686723806192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ ing the privilege of primogeniture, and
 dividing the lauds of intestates equally  
 among all their children, and the la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871042401:0380/pct:45.59183673469388,5.032074126870991,16.428571428571427,2.5374198146828224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871042401:0380/pct:34.21804818293181,3.7776193870277974,12.331563903634136,1.910192444761226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ country or State.&quot; He even said such a
 Byslem would be &quot; the keystone of the  
 arch of our Government.&quot; &#x27; The schem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871042401:0380/pct:45.326530612244895,10.064148253741982,16.755102040816325,13.285816108339272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871042401:0380/pct:34.01388321763985,7.555238774055595,12.576561861984484,9.964362081254455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -898,7 +898,7 @@ nation of jurors, administration of justice in
 small cases, elementary exercises of militia; in  
 short, as he expresses it, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1871042501:0064/pct:81.01346202692406,27.59520587666731,12.192024384048768,5.306398608157743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1871042501:0064/pct:81.0219287105241,27.59520587666731,12.196257725848785,5.312842322314582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ the wealthy, because enough
 of these will find their way into every  
 branch of legislation. &quot;&quot;I think th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175033014:1899040901:0328/pct:131.9468606674047,168.3391380060949,40.3922188834414,33.04309969525468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175033014:1899040901:0328/pct:43.982286889134905,56.11304600203164,13.464072961147135,11.014366565084893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ says :
 principle that coition is not for the sake  
 of pleasure. The selecting the bes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1899060801:0670/pct:45.79596412556054,97.84142797841427,31.838565022421523,9.609796596097967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1899060801:0670/pct:34.37061956826465,73.39144873391449,23.88561816652649,7.2021585720215855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1052,7 +1052,7 @@ would doubtless improve the human
 as it does the brute animal , aud produce  
 a race of veritable aristocrats. &quot; ( Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1899060801:0670/pct:45.85201793721973,107.76255707762557,31.782511210762333,5.749273557492735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1899060801:0670/pct:34.3986543313709,80.82191780821918,23.85758340342024,4.3171440431714405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1102,7 +1102,7 @@ lection of these natural aristocrats into
 the offices of governments. &quot;  
 If the democracy , as at present writ , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1899060801:0670/pct:45.79596412556054,14.528850145288501,84.3890134529148,111.02117061021171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1899060801:0670/pct:34.37061956826465,10.896637608966376,63.302495093916455,83.28663345786633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

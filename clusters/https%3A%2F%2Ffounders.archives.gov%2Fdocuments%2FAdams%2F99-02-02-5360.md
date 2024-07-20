@@ -250,7 +250,7 @@ government of the United States&#x27; of Ame-.
 Rica, by informing you that the Prefidrot  
 Ira« appointed Oliver EHfworth, chief Jufiice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799121101:0003/pct:7.688284518828452,6.173266470689954,16.527196652719667,41.50095106346187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799121101:0003/pct:7.688284518828452,6.186235517897285,16.553347280334727,41.50527407919765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ Modification bf that nomination &#x27;gave me
 feat plealnre, always cooceiving-aa I tho&#x27;t&#x27;-,  
 did, tljtt any with Franc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799121101:0003/pct:7.949790794979079,61.64620439218399,16.86715481171548,29.690472073318347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799121101:0003/pct:7.969403765690377,61.65917343939132,16.86715481171548,29.694795089054125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ Faithfully your an.fl obedient,fervant.
   
 WILLIAM V. MURRAY. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799121101:0003/pct:24.764644351464437,6.934117240186755,16.422594142259413,13.332180529137126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799121101:0003/pct:24.7711820083682,6.9427632716583085,16.42913179916318,13.336503544872903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ dny«, In&#x27;d who..W!.dei;fl?*&#x27;d. fj&#x27;&#x27; well tbe..val»e_
 of&#x27;rime; jirJv&#x27;rt the ntftoration of harmony  
 ■ke»wet&lt;n two Rrpublipa, thip
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799121101:0003/pct:24.790794979079497,21.009856475877573,16.39644351464435,28.289814974926507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799121101:0003/pct:24.80387029288703,21.014179491613348,16.402981171548117,28.289814974926507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ diately to fend you paflports. ;
 (Signed) , |  
 &#x27; ‘CHA.MAU. TALLEYRAND.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799122501:0206/pct:43.763608087091754,4.742348684853818,33.88802488335925,90.52508066881784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799122501:0206/pct:43.768792120269566,4.742348684853818,33.89320891653706,90.52834001499299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ Accept, fir, the aiTuranees of n;y veiy linccre
 conlldcration. (Signed)  
 OH. MAU. TALLEYRAND
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799123001:0311/pct:5.9613196814562,13.50240861433834,43.640500568828216,82.09124397846415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799123001:0311/pct:5.959963603275705,13.50049582093781,43.63626023657871,82.08315625442697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1202,7 +1202,7 @@ fend you paflports.” = U 0 s
 very sincere consideration. =- ..  
 ~ (Signed) CH. Mavu. TALLEYRAND.. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010101:0210/pct:8.620689655172415,3.9897798742138364,34.35960591133005,90.01572327044025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010101:0210/pct:8.630952380952381,3.9930555555555554,34.354474548440066,90.02227463312369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1954,7 +1954,7 @@ Newark to Trenton, to convince me
 that I ought to suspend the mission ?  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809052401:0001/pct:7.040258952053409,6.429134893505127,73.01234068379527,87.31264790954509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809052401:0001/pct:7.040258952053409,6.437899903584889,73.01908422685278,87.31264790954509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2235,7 +2235,7 @@ ton, convince tne that I ought to suspend
 the mission t  
 ■ ) JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809052601:0023/pct:40.823903818953326,11.72446897875915,52.61669024045262,82.9353174126965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809052601:0023/pct:40.81668729008308,11.723062155027598,52.613281480172056,82.92936565074794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2549,7 +2549,7 @@ MNewark te ‘Trenton, to convince me
 that I ought to fufpénd the mission 2  
 | &#x27; JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809061301:0299/pct:24.669260700389106,10.181562844818938,69.12062256809338,85.74581201725348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809061301:0299/pct:24.67963683527886,10.188250242418164,69.12062256809338,85.74581201725348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2825,7 +2825,7 @@ porth snd Hemiltcn cyme all the way from
 me that I ought to suspend the mission ? -  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809061401:0044/pct:29.305993690851736,8.133595284872298,65.99369085173501,88.96856581532417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809061401:0044/pct:29.31125131440589,8.136869679109365,65.99369085173501,88.9652914210871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

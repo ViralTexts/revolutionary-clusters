@@ -141,7 +141,7 @@ our assaim &#x27;A refidencc ot at last five
 years ought to be :equiled. ,  
 If the rigbuol mcuxaiiz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802021201:0708/pct:52.22649807586586,5.354653546535466,40.10445299615173,86.45346453464535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802021201:0708/pct:52.21932114882507,5.354214496556248,40.10352251385644,86.44910899748551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ o^ene ics compound ; toclnn,e and corrupt
 t ie national fpi t; to comp icatc and confound  
 public opiui n, to introduce fcrei&amp;u pio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802032901:0778/pct:66.25642909625276,70.45329821095379,21.399706098457017,21.611239161453188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802032901:0778/pct:66.24426078971534,70.44556628621598,21.40036730945822,21.61161106233538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ as recommended in the nrieilage, would be no- j
 thing hef&gt; thrin to let the Grecian horfc iuio the j  
 CiuJel of our liberty and foverei^nty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802032901:0779/pct:10.987849973586899,5.6844794549712585,22.292657157950345,41.10070257611241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802032901:0779/pct:10.985915492957746,5.683874401277275,22.2931338028169,41.09898882384247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ at least, of feeling a real interest in our affairs,
 A residence of not less than five years ought  
 to be required.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:18.159333506899245,28.43178036605657,12.522780525904713,10.420133111480865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:18.163672654690618,28.43178036605657,12.522780525904713,10.430532445923461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

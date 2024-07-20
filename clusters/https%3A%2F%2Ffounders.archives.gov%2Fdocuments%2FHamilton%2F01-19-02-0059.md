@@ -848,7 +848,7 @@ are very unjust and blameable in their own nature,
 because they cannot oppose it by open force, with­  
 out violating the liberty of some particular State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1847010201:0116/pct:41.5124698310539,75.6340459434338,28.640386162510055,13.783030142079404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1847010201:0116/pct:31.140615570307784,56.72553445757536,21.504727419030377,10.343911831098128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -908,7 +908,7 @@ prince has thought fit to make reprisals upon
 a debt due from himself to private men.&quot;  
 I observe thai this covers not merely th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861070901:0040/pct:38.680879413724185,42.278481012658226,11.992005329780147,3.7877312560856864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861070901:0040/pct:38.680879413724185,42.28172671210646,11.99644681323562,3.7909769555339174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -943,7 +943,7 @@ though it is certain many English bad money
 m the French funds, and mr.nv French had  
 money in the.English funds.&quot; The author the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861070901:0040/pct:38.57428381079281,46.338851022395325,14.13724183877415,9.532619279454723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861070901:0040/pct:38.57428381079281,46.338851022395325,14.13724183877415,9.542356377799416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ of the enetnv, though it is certain that many
 English had money in the French funds and  
 many French had money in ours.&#x27; In al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861070901:0040/pct:50.7128580946036,23.85589094449854,13.057961359093937,4.225900681596884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861070901:0040/pct:50.72174106151454,23.862382343395,13.057961359093937,4.2291463810451155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1068,7 +1068,7 @@ That is international law. It has been de
 ided over and over by the Supreme Court  
 f the United Stales that we did not stan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531009:1880022401:0197/pct:130.84126264914664,104.56309661176964,39.94864824044706,48.49470261197944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531009:1880022401:0197/pct:43.61375421638222,34.85436553725655,13.31621608014902,16.164900870659814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

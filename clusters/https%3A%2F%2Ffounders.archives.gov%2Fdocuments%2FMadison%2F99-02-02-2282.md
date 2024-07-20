@@ -137,7 +137,7 @@ my reasons for the principles I have laid down. They
 are few and simple and rest on the ground, that the  
 nomination is in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530194:1844020301:0442/pct:54.17986503236469,236.81266590822904,48.340448973970524,35.49488054607509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530194:1844020301:0442/pct:18.05995501078823,78.93755530274302,16.113482991323508,11.831626848691695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ quire but a few words to explain my reasons for
 the principles L have laid down. They are few  
 and simple and rest on the ground, that the nom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1844020701:0026/pct:89.01333333333334,13.477830344372318,19.96,17.262625151281767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1844020701:0026/pct:66.78671468587434,10.111123335900539,14.979325063358678,12.949719441082628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ plain my reasons for the principles I have
 laid down. They are few and simple, and  
 rest on the ground, that the nomination i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1844020901:0429/pct:90.73083778966132,98.59876450203406,62.032085561497325,64.36643061624228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1844020901:0429/pct:22.69788182831661,24.649691125508514,15.518394648829432,16.09160765406057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ the loss of the coastitution itself. The object of giving
 to the smaller states an equality with the larger ‘in the  
 eventual choice of the house was to counterpoise th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844021301:0025/pct:49.454759799587386,14.755295836376918,14.765694076038903,6.563706563706564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844021301:0025/pct:49.454759799587386,14.758774218233677,14.780430297671677,6.574141709276844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ the principles I have laid down. They are
 few and simple, and rest on the ground  
 that the nomination is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1844022401:0033/pct:48.31395348837209,69.3145710394916,19.26356589147287,21.258889393251625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1844022401:0033/pct:36.26139228233469,51.98971100015131,14.465774675198759,15.947949765471327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ The object of giving to the smaller States an
 equality with the larger in the eventful choice  
 by the House, was to counterpoise the pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844022701:0102/pct:19.837986901068597,11.819960861056751,13.357462943812479,7.671232876712328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844022701:0102/pct:19.834568326727556,11.818418992955909,13.35946924004825,7.673493347247587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ plain my reasons Tor the principles I have
 laid down. They are lew and simple,  
 and rest on the ground that the nomina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878216:1844030201:0100/pct:25.199645075421472,106.62938207611512,21.8944099378882,12.794980220979403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878216:1844030201:0100/pct:18.903927224317727,79.97544673305143,16.44109163523408,9.603055517664712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

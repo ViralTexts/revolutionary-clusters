@@ -531,7 +531,7 @@ COQUKIKY
 O how she rolls her charming ey es in spite,  
 And looks delightfully with all her might
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn85059803:00514158320:1828040501:0799/pct:66.26016260162602,68.24708751015984,24.932249322493224,21.945272283933893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn85059803:00514158320:1828040501:0799/pct:66.23772434812055,68.22860238353196,24.93227226549272,21.946099674972913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ The saints in heaven are full of joy. All
 their tears are wiped away, and this means  
 that all the sources of sorrow are exhaust
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016123:1886011401:0211/pct:70.15366430260048,41.341017711554684,12.076438140267928,5.791397244869271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016123:1886011401:0211/pct:70.13984636596415,41.335207308503165,12.078983651762853,5.794096978215038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

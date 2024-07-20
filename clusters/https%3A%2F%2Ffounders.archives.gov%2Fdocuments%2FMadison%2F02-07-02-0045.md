@@ -134,7 +134,7 @@ lattbr assn additional evidence of bis OMiestv’s eon-,
 aunt and aiwear. - {aterrupt the harmony  
 Slant and s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810101901:0166/pct:27.183753364325913,79.30304510666015,20.895522388059703,17.586712261846603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810101901:0166/pct:27.177103718199607,79.29013350700097,20.896526418786692,17.587919244545752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ tional evidence of his majesty’s enstan&#x27; 7:
 sincere ds re.to re n ivu an) groumt o mi -  
 jndtrs&#x27;.andingthat coo&#x27;d n*vc a ten k ilj t&gt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810101901:0197/pct:77.86467806475082,76.97272284461764,17.770098217533647,17.864101315148563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810101901:0197/pct:77.8505182760502,76.96335078534031,17.772928411226285,17.865984820812532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ happdy subsists between this govern..
   
 mem and that of tie United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810101901:0341/pct:2.966417910447761,8.960080090101364,19.720149253731343,27.09297960205231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810101901:0341/pct:2.965864577504197,8.95895895895896,19.722688553130634,27.09376042709376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ ceflary dire@ions on the fubje&amp;, to the
 judges of the vice admiralty courts in the  
 Weft Indies and America 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810111301:0601/pct:77.29695829413609,16.996913272926417,17.152712449043587,35.66663347605297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810111301:0601/pct:77.30741089160657,16.996913272926417,17.15793874777882,35.673271598791864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ Nor ought it to be presumed, that the Bri ,
 tish government will finally resort to the  
 plea that her naval force, although unap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121101:0261/pct:40.904993690283035,40.35319557904853,17.324680007211104,7.808745795290726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810121101:0261/pct:40.89762076423936,40.348348348348345,17.32756548906513,7.811811811811812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ ance complained of. Nor ought it to he presumed,
 that the British government will tinuily retoit to  
 the plea, that hei naval force, alt bo’unapplied, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810121201:0257/pct:52.882949764909675,80.0874210781933,21.15812917594655,7.4631698235389345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810121201:0257/pct:52.8698664027709,80.07445775331823,21.159079663532903,7.466008416963419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

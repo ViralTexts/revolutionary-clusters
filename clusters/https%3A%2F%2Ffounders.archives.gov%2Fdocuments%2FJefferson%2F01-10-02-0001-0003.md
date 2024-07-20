@@ -214,7 +214,7 @@ o!utio:t hid threaten, d cn vuUions, which wmiid
 frii.ike tiietr ii.fint t&#x27;iifsueraey to its centre, ouu&#x27;tly  
 intent ! in its grave.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82015677:00202191307:1842041201:0194/pct:5.271009448035803,62.90975703817971,19.43063152660368,15.985345160046279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82015677:00202191307:1842041201:0194/pct:3.9542402387465803,47.18472811415349,14.585923899527481,11.993829541072117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ was no longer any adequate reward for labor. The
 farmer could not sell his produce, and, of course,  
 could not pay his debts. His failure to pay mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857100601:0036/pct:54.596053297352,137.52994729276475,48.50733681902513,13.620028749401055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857100601:0036/pct:18.198684432450666,45.84331576425491,16.169112273008377,4.540009583133685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ to prove that the States were able to fulfil this engage.­
 ment. Liberty, they said, would be cheaply purchasod at  
 this price. These conservative efforts, however failed o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863012601:0210/pct:56.69345187211489,111.01756074091894,46.45238502308087,24.04378157324994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863012601:0210/pct:18.897817290704964,37.00585358030631,15.484128341026956,8.01459385774998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ The following table contains the official statement laid
 before Congress of the various issues, with their respect­  
 ive values in Spanish dollars at the time of emission. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863012601:0210/pct:57.08668148401436,144.49121962954052,45.68302273892973,18.19821987009863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863012601:0210/pct:19.028893828004787,48.16373987651351,15.22767424630991,6.066073290032876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ could not sell his produce, and, of
 his tax. Congress had no ee  
 aper money. Not being able t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863041601:0182/pct:10.584823586273561,242.84393063583815,47.91364588367971,23.942196531791907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863041601:0182/pct:3.5277061855670104,80.93861981273841,15.96864261168385,7.979809655916465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ that price. The declaration was mnenectual. No
 man received the money at a better rate. They  
 even went further. On the 14th January, 1777
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874041101:0153/pct:13.667274838281639,8.545140885566417,93.3819870625311,279.252443933295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874041101:0153/pct:4.555758279427213,2.848380295188806,31.1273290208437,93.084147977765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ Justice was at last done to all by paying what the
 paper actually cost them, with interest at six per  
 cent from the time they received it. In deter-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874041101:0153/pct:60.2587493780063,56.6992524439333,47.0558965002488,53.11098332374928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874041101:0153/pct:20.086249792668767,18.89975081464443,15.685298833416265,17.703661107916428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,7 +714,7 @@ in the other States, withont a single groan.”
 Or, an Dr. Ramsay more poetically expresses  
 It, &quot;Like an aged Ban expiring by the decay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525449:1878052701:0428/pct:5.155138978668391,48.65225837785333,10.843568196509374,4.577464788732394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525449:1878052701:0428/pct:5.15430602682178,48.64635182712153,10.845855550169656,4.579944154425155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -737,7 +737,7 @@ dollars of paper to one of silver; in
 three years to four to one; in nine  
 months more it fell to ten to one, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878110701:0456/pct:8.241411913016073,23.609802073515553,12.748187834856603,5.195570216776626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878110701:0456/pct:8.241411913016073,23.61765629908891,12.753440487446161,5.195570216776626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ in the six months following, that is to
 say by September, 1779, it had fallen  
 to twenty for one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536366:1894092401:0222/pct:299.21612541993284,126.08519269776876,53.41545352743561,67.99188640973631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536366:1894092401:0222/pct:74.84593837535014,31.52129817444219,13.361344537815127,16.997971602434077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ more It fell to ten to one; in the six
 months following, tbat Is to say, by  
 September, 1779, it bad fallen to 20 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556977:1898020301:0651/pct:44.32258064516129,61.41892752515603,13.516129032258064,16.88956820787161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556977:1898020301:0651/pct:33.25266214908035,46.07056425933002,10.148434979025492,12.660807540440707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -935,7 +935,7 @@ vulsions which should shake their
 infant Confederacy . to ita center,  
 auletlT Interred in its grave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556977:1898020301:0651/pct:44.45161290322581,79.07272958858744,13.564516129032258,13.081136160998598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556977:1898020301:0651/pct:33.34946757018393,59.304547191440584,10.180703452726686,9.820405043943447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ of property, annexed to certain mer­
 cantile houses in London.&quot; And our  
 modern plutocrats propose to make o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898060201:0819/pct:56.73305588585018,8.088150455751702,32.86266349583829,117.44548286604362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898060201:0819/pct:42.572490706319705,6.068997346255913,24.66914498141264,88.08122764509058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1008,7 +1008,7 @@ of property, annexed to certain mer­
 cantile houses in London.&quot; And our  
 modern plutocrats propose to make o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:0020029256A:1898060401:0565/pct:186.73862760215883,25.10390689941812,47.9568234387047,31.864782488223884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:0020029256A:1898060401:0565/pct:46.71166827386693,6.27597672485453,11.996142719382835,7.966195622055971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1033,7 +1033,7 @@ British merchants, on the tobacco con­
 signed to them were so enormous that  
 they spared no means of increasing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:0020029256A:1898060401:0565/pct:134.8496530454896,352.2305347741757,47.57131842713955,21.72346910501524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:0020029256A:1898060401:0565/pct:33.73191899710704,88.05763369354392,11.899710703953712,5.43086727625381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1074,7 +1074,7 @@ of property, annexed to certain mer­
 cantile houses in London.” And our  
 modern plutocrats propose to make o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212037:1898061001:0133/pct:17.25200246457178,9.518007040346601,14.582049702197576,15.245058218250744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212037:1898061001:0133/pct:17.248459958932237,9.516718559631785,14.584188911704311,15.24637877352105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ of property, annexed to certain mer
   
 cantile houses in London.&quot; And our
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470715:1898061001:0826/pct:191.869918699187,34.95618305744888,58.832224685883226,59.00681596884129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470715:1898061001:0826/pct:47.97634448345962,8.73904576436222,14.710774348549252,14.751703992210322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1144,7 +1144,7 @@ confederacy to Its center, quietly interred
 In its grave.&quot; Congress and all the states  
 made -this money legal tender. It was pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109178:1898092401:0285/pct:23.305722891566266,9.88169798190675,16.566265060240966,7.599164926931106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109178:1898092401:0285/pct:17.495291902071564,7.418232428670842,12.429378531073446,5.706332637439109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1189,7 +1189,7 @@ ed to certain mercantile houses In
 London.&quot;  
 And nur modern plutocrats pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688672:1898102201:0836/pct:23.937575030012006,14.55376852727846,34.50180072028812,81.91422264269946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688672:1898102201:0836/pct:23.937575030012006,14.55376852727846,34.51780712284914,81.91947860822033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

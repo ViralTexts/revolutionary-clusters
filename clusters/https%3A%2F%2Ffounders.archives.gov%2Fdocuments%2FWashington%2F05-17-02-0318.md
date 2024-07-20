@@ -46,7 +46,7 @@ States, in cafe he shall think it neceflary, to authorize any per­
 son or persons at his discretion to perforin the duties of the  
 said refpeftive office1; until a fuccellor be appointed, or unti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052601:0001/pct:64.16166719292706,83.99122807017544,27.597095042627092,7.4362041467304625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052601:0001/pct:64.18534891064098,83.99122807017544,27.597095042627092,7.441188197767145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ E aereby they cannot perform thedntie*
 of their said respective offices, it shall  
 be lawful for the President of the Unit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813090301:0548/pct:3.6089753648203358,20.17535677642011,17.228934567707515,11.752635015390355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813090301:0548/pct:3.608409162221525,20.17347509792949,17.231461144231776,11.754647764720513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ ry, to authorise any person or persons,
 at his discretion, to perform the duties  
 of the said respective offices, until 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813090301:0548/pct:3.561901773105288,46.16173864378323,17.276008159422563,6.771756366010633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813090301:0548/pct:3.561342955757766,46.1574333146801,17.278527350695533,6.774233662873842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ necessary, to authorise any person or per­
 sons, at i,is discretion, to perform the du­  
 ties of the said respective offices until 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813111201:0099/pct:26.632147681224673,12.719555035128806,21.90454750112562,7.43559718969555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813111201:0099/pct:26.626153499887465,12.717693546026636,21.90711981393953,7.439387287184741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ Government” u not the absence contemplated by the
 act of Congress; and that Mr. Madison created‘the  
 absence; and of course the neces
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813120201:0384/pct:51.10195305500806,74.64202667972097,21.304425730155884,12.042589646310121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813120201:0384/pct:51.092798280186315,74.63289280469897,21.306580675982325,12.045194974710393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ who was appointed temporarily to discharge
 the duties of another office, under the circum­  
 stances quoted, claimed and was allowed th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654036:1854060801:0561/pct:29.97934493951018,73.77518666257544,13.942165830628504,10.299682929323923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654036:1854060801:0561/pct:29.983033343169076,73.78030070573796,13.953231041605193,10.299682929323923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ of either office, for not exceeding six months, it
 er bhalf he lawful for the President to authorize any person,  
 at his discretion, to perform the duties of suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854072201:0077/pct:78.62113610616605,38.32208052013003,18.401035766305228,6.601650412603151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854072201:0077/pct:78.62653072233911,38.33041593731766,18.406430382478288,6.597482704009336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ pointed, or until such absence or inability shall cease.
 Sec. 5. And be it further enacted, That the commis-­  
 sions of all offiecrs of the United States shall be mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854122301:1441/pct:54.554455445544555,184.52676756268355,47.17821782178218,21.685114072735487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854122301:1441/pct:18.184818481848186,61.50892252089451,15.726072607260726,7.228371357578496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ shall cease.&quot;
 Now, sir, by the President&#x27;s commission, under his hand  
 and seal, he did authorize this man to perform the duties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857012201:0106/pct:16.25220600032087,52.5065963060686,16.90999518690839,11.609498680738787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857012201:0106/pct:16.257553879886625,52.5065963060686,16.915343066474144,11.6178749424132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ To do what?
 &quot;to authorize any person or persons, at his discretion, to perform  
 the duties of the said respective offices until a successo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857012201:0106/pct:61.94448901010749,67.86028395527076,16.605166051660518,4.5106169116723205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857012201:0106/pct:61.94448901010749,67.86866021694517,16.615861810792023,4.5106169116723205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ to do what ?
 •&#x27;to authorise any person or pprsmi’, at his discre­  
 tion, to perform the duties of the said respectiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348781:1857020701:0230/pct:42.505962208769034,58.721241305510965,12.970097229866079,3.063135366506153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348781:1857020701:0230/pct:42.49816581071167,58.713387722348536,12.972303741746149,3.066069279122643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ of the United States, in case he shall think it necessary,
 to authorize any person or persons, at bis discretion, to perform  
 the duties of the said respective offices, nntil a successo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857021001:0199/pct:8.14176245210728,18.42105263157895,16.235632183908045,3.0870445344129553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857021001:0199/pct:8.14708386547467,18.42948717948718,16.246275010642826,3.0912618083670713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ The President sent to Congress to-day, in
 compliance with a resolution of the House, the  
 report of the Secretary of State in relation t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn86053570:00237288877:1863010601:0025/pct:239.4167450611477,225.79479768786126,50.423330197554094,35.910404624277454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn86053570:00237288877:1863010601:0025/pct:59.86826629028464,56.448699421965316,12.608797929898847,8.977601156069364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ ments, whose appointment is vested in the Presi­
 dent, at his discretion.to perform the duties of the  
 said respective offices until a successor be appoint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863060401:0554/pct:21.197552447552447,112.69680774230825,19.16520979020979,5.431171457460638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863060401:0554/pct:15.919527662366061,84.52982810920122,14.388803848677018,4.0733785930954785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ and consent oof the Senate, at his discretion, to
 perform the duties of said respective offices until  
 a successor tie appqinted, or until such absenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frontier_ver01:data:sn86053571:00237288567:1868021401:0194/pct:179.37937937937937,283.9653512993263,52.152152152152155,20.55822906641001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frontier_ver01:data:sn86053571:00237288567:1868021401:0194/pct:44.86730095142714,70.99133782483158,13.044566850275412,5.139557266602503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ officer in either of said departments, whose appoin ment
 is vested in the President at his discretion, to perfrm  
 the duties of the said respective offices until a successo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868022501:0496/pct:2.2052862007459058,73.16708802574121,54.98621696124534,18.31762813146403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868022501:0496/pct:0.7350954002486352,24.389029341913737,18.328738987081778,6.105876043821344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ partments whose appointments are vested
 in the President, nt his discretion, to per­  
 form the dutiesof the said respective offi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868022501:0192/pct:67.84037558685446,96.83494929232141,14.011150234741784,13.094840075782905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868022501:0192/pct:50.88774761555393,72.6289981054274,10.520909757887013,9.829488465396189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -886,7 +886,7 @@ duties of the said respective officers until such
 absence or inability by sickness shall close,  
 provided that no one vacancy shall be sup
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525255:1868022601:0136/pct:27.742252828332514,11.159737417943107,10.985407443843252,5.712311413106069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525255:1868022601:0136/pct:27.737704918032787,11.158452326116997,10.987704918032787,5.7145324735145095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ hose appointment is vested in the president, at
 his discretion, to perform the duties of the said  
 respective officer until a successor be appointed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868022901:0414/pct:17.171344165435745,110.1823708206687,43.20531757754801,19.98480243161094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868022901:0414/pct:5.723781388478582,36.7274569402229,14.401772525849335,6.661600810536981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -992,7 +992,7 @@ of said departments whose appointment is
 vested in the President, at his discretion, to  
 perform the duties of said respective office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879932:1868030301:0472/pct:45.88910133843212,48.296007789678676,16.427660930529,6.280428432327167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879932:1868030301:0472/pct:34.43328550932568,36.22200584225901,12.338593974175035,4.722492697176241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1061,7 +1061,7 @@ ments, whose appointment is vested in the
 President, at his discretion to perform the  
 duties of said respeciive offices until a succes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84026601:00296028629:1868030401:0453/pct:55.29703738172793,75.42362839198957,12.626027609740964,9.254651025002962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84026601:00296028629:1868030401:0453/pct:55.30220774520449,75.4275783070664,12.626027609740964,9.258600940079788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1121,7 +1121,7 @@ departments whose apnointment is vested in
 the President, at his discretion, to perform  
 the duties of the said respective officers un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn86079037:0028077490A:1868030501:0267/pct:230.52208835341366,258.9018302828619,46.10441767068273,26.511369938990573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn86079037:0028077490A:1868030501:0267/pct:57.66526019690577,64.72545757071548,11.533052039381154,6.627842484747643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1178,7 @@ vested in the President, at his discre­
 tion, to perform the duties of the said  
 respective offices until a successor b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028472:1868030601:0248/pct:69.82137712474791,57.01707290883711,12.22990492653414,13.32545903575647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028472:1868030601:0248/pct:69.82617881494286,57.02065213500841,12.22510323633919,13.321879809585168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1211,7 +1211,7 @@ departments whose apuointmuut is vested in
 the President, at his discretion, to perform  
 the duties of the said respective officers un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152366:1868030701:0399/pct:56.54002320185615,60.68018452955692,12.035962877030162,7.3168115009119195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152366:1868030701:0399/pct:56.54485692188708,60.68733683796445,12.035962877030162,7.3168115009119195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1248,7 +1248,7 @@ ise he shallt
 authorize any person or persons, at his discretion, to per­  
 form the duties of the said respective offices un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868033101:0612/pct:151.30594165266535,104.60490757755919,47.013899495952344,14.91730623716355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868033101:0612/pct:50.435313884221785,34.86830252585306,15.671299831984115,4.97243541238785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1284,7 +1284,7 @@ shall think it necessary, to authorize any person or
 persons, at his discretion, to perform the dutles of  
 the said respective offices until a successor be ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868033101:0876/pct:240.964245267756,63.88761991777067,46.3517230221647,26.930105070808587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868033101:0876/pct:80.32141508925201,21.295873305923557,15.450574340721566,8.976701690269529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1340,7 +1340,7 @@ he shall think it necessary, to authorize any
 person or persons, at his discretion, to per­  
 lorm the duties of the said respective office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528694:1868040501:0328/pct:59.423016619629976,108.94082083478665,65.1928504233302,33.42634577374724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528694:1868040501:0328/pct:19.807672206543327,36.313606944928885,21.730950141110068,11.142115257915746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1368,7 +1368,7 @@ think it necessary, to authorize any other
 officer, in either of said departments, whose  
 appointment is vested in the President,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293551:1868040801:0235/pct:231.51143335192415,297.3521799721282,50.58561070831009,24.646625522596057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293551:1868040801:0235/pct:57.87785833798104,74.33804499303206,12.646402677077523,6.161656380649014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1395,7 +1395,7 @@ perform the duties of sald respective onces untll a successor
 Is appointed, or until such absence or inability by sicknesso  
 shall cease, provided that no vacancy shall be supplied in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868041101:0135/pct:101.98797193451387,168.65006852444037,50.38422986969596,13.750571037003198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868041101:0135/pct:33.99599064483795,56.21668950814679,16.79474328989865,4.583523679001066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1448,7 +1448,7 @@ ed States, in case he should think it necessary, to
 person, or persons, at his  
 of the said respective offices, until a successor be appointed, or until th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868050201:0015/pct:54.653646628013426,132.18667835232253,46.35337198657309,9.487291849255039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868050201:0015/pct:18.21788220933781,44.062226117440844,15.451123995524362,3.1624306164183467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1504,7 +1504,7 @@ case be shall thick It necessary, to authorize any
 person or persons, at his discretion, to perform  
 the duties of tbe said respective offices until 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868051801:0002/pct:40.66967644845749,37.790606958963956,8.841234010534237,6.069589639569355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868051801:0002/pct:40.6790820165538,37.79840848806366,8.845936794582393,6.081291933218911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1539,7 +1539,7 @@ arrangemeut in each case, and fixes no spe­
 cific lhnit of time to the exercise of the au­  
 thority thus conferred, nor docs it restrict th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525255:1868051901:0415/pct:75.58368957579744,88.49365206450875,11.246300559026636,8.017842845705136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525255:1868051901:0415/pct:75.57126417885911,88.48353156450138,11.248561565017262,8.019784995425434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1617,7 +1617,7 @@ Tee a te ea or o te a   e e e ee
 &quot;That in case of vacancy in the office of on eee e o o o   
 Secretary of State, Secretary of t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528694:1868052601:0500/pct:21.760200093793966,84.17684700407213,98.45239956229483,145.52646887725422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528694:1868052601:0500/pct:7.253400031264655,28.058949001357377,32.817466520764945,48.50882295908474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1651,7 +1651,7 @@ to perform the duties of tho mill lespee­
 live olllees until a successor bu appoint­  
 ed, or until such absence or 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237287988:1868052901:0195/pct:98.6517719568567,87.2890216579537,14.869029275808936,11.486183719193427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237287988:1868052901:0195/pct:74.01271431323444,65.46676624346527,11.15392024658062,8.618371919342794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -73,7 +73,7 @@ putes, and lor the promotion of universal peace ’
 without recourse to arms,” to be sent free of  
 expense, on or before the first day of April next, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1831082401:1283/pct:61.30110062893082,61.42657342657343,18.10141509433962,6.13986013986014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1831082401:1283/pct:47.51967504442752,47.60631571340824,14.034018786494034,4.765689923040792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ next, to D. E Wheeler. Esq. 33 Nausau street.
 New York, accompanied with a sealed paper,  
 containing the name of the author, and super
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216456:1831082501:0044/pct:44.50243562978427,82.17798317336177,18.528183716075155,7.714184145040882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216456:1831082501:0044/pct:44.49469472951818,82.16824644549763,18.53075897257494,7.717219589257504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ icable adjustment of National disputes&gt;
 and for the promotion of universal peace  
 without recourse to arms.” Manuscript
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831100501:0322/pct:76.09277430865299,30.216024063439978,17.997323818019627,3.855619360131255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831100501:0322/pct:76.07580824972129,30.211893369788108,18.000743218134524,3.8596491228070176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ tional disputes and for the promotion of uni­
 versal peace without recourse to arms,” to be  
 sent free of expanse, on or before ths first da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1831120701:0034/pct:91.5498367582101,102.2478386167147,15.767236412521605,5.706051873198847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1831120701:0034/pct:70.9515776939869,79.24064768285874,12.234570351260171,4.433277498604132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -166,7 +166,7 @@ therefore, cherish his friendship ; it may undei
 many points of view, be of essential service to  
 us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051101:0152/pct:43.568682278923454,25.266781411359723,16.882209017825936,42.92598967297762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051101:0152/pct:43.56106936921195,25.2638825149151,16.885083580872504,42.92488909285605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ tizen, every lover of the country, to use his per­
 sonal exertion for the prosperity of our common  
 country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816071601:1057/pct:52.60086272519665,25.961227786752826,21.466632834306015,5.945072697899838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816071601:1057/pct:52.58751902587519,25.957034404781133,21.467529173008625,5.94815054110806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

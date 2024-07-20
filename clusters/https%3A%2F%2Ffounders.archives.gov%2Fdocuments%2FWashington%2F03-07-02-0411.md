@@ -227,7 +227,7 @@ suit and carried across the Delaware, there are near
 three hundred prisoners, fourteen of whom are  
 officers, all British.&quot; Washington had intende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875122501:0672/pct:199.8548387096774,82.8445249688597,48.33870967741935,37.311742724493264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875122501:0672/pct:66.61827956989248,27.614841656286565,16.112903225806452,12.437247574831087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ thinks this &quot;would have put an end to the war.&quot;
 Well might he add: &quot;The militia are taking spirits,  
 and, I am told, are coming in fast from this State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875122501:0672/pct:199.53225806451613,122.85131921639679,48.03225806451613,11.84463820631865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875122501:0672/pct:66.51075268817205,40.95043973879893,16.010752688172044,3.94821273543955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ suit and carried across the Delaware, there
 are near three hundred prisoners, fourteen  
 of whom are officers, all British.” Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876122101:0412/pct:51.03075916230367,16.892557910300642,22.365837696335078,79.86692952193198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876122101:0412/pct:51.022411254703094,16.89047677713441,22.366268607884834,79.86017001355181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ Well might he add: “The militia are
 taking spirits, and, I am told, are coming  
 in fast from this State.” The success a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876122101:0412/pct:62.33638743455497,23.31197634302612,11.027486910994764,5.0640709709216365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1876122101:0412/pct:62.32619008670047,23.309104348897375,11.029772615736954,5.066527042010595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

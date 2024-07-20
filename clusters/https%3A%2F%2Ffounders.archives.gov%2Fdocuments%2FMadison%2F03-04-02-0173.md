@@ -99,7 +99,7 @@ to appoint, by and with the consent of
 the dcuate, three discreet one L hinter­  
 efted citizens of the United States t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806081201:0337/pct:24.093023255813954,11.468210400239546,34.10852713178294,84.29983032238746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806081201:0337/pct:24.098191214470283,11.474864424260572,34.10852713178294,84.29317629836643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ l hat, by the de lay of the answer
 of the legislature ol Pennsylvania to the  
 application for permission to pass th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808033101:0359/pct:35.78800557880056,32.40009571667863,27.559274755927476,15.458243598947117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808033101:0359/pct:35.77802565532627,32.39234449760765,27.560884922848114,15.462519936204147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ in the State of Maryland, to the State of Ohio.”
 Under the provisions of this art, before the 1’res  
 ident could proceed to rut a single tree upon th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021001:0375/pct:63.86004154018214,73.83568187246239,15.098258507748842,3.0093145450203007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021001:0375/pct:63.849840255591054,73.8268656716418,15.101171458998936,3.0129353233830845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ cumberland, Md. to the State of Ohio,&quot; became a law in
 1806, and the first stage coach carrying the United  
 mails over that route made its first trip on Angus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:00175039934:1882100301:0030/pct:199.79309247174916,196.96392561057584,47.36590800572975,7.640600492941967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:00175039934:1882100301:0030/pct:66.59769749058306,65.65464187019195,15.788636001909916,2.546866830980656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ to regulate the laying out and making a road
 from Cumberland, Md., to the State of  
 Ohio,” became a law in 1806, and the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882101001:0336/pct:35.93896399411056,47.256857855361595,9.797885155936287,1.8079800498753118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882101001:0336/pct:35.93896399411056,47.256857855361595,9.802346852273235,1.8149071765031866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

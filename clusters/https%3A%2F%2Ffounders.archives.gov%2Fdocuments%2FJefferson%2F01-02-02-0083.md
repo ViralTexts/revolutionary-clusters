@@ -98,7 +98,7 @@ hundred and twelve, as comes within the
 purview and meaning of this act be, and the  
 same is hereby repealed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814040901:0075/pct:22.3743469645109,57.04362661467219,17.023959646910466,5.081647574945162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814040901:0075/pct:22.370317002881844,57.03667600828561,17.026897214217097,5.085089963851996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ fixth of June onme thousand eight hundred and
 twelve,as comes within the purview and meaning  
 of this act be, and the fame is hercby repealed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814053101:0089/pct:6.086341118188252,80.69326103795507,16.900212314225055,2.2366382649109218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814053101:0089/pct:6.086341118188252,80.69326103795507,16.919084689785326,2.2398657371546604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ oblige the free male inhabitants of the State
 above a certain age to give assurance of allegiance  
 to the same, and for other purposes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860060101:0184/pct:83.64804615788093,12.872444011684518,14.319433516915815,6.679649464459591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860060101:0184/pct:83.64804615788093,12.878935410580981,14.323804528367864,6.679649464459591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ State abvve a certain age to give assurance
 of allegiance to the same, and for other  
 purposes. Witness my hand and seal, thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861101201:0355/pct:29.075288265882886,46.52567975830816,13.47501695681664,4.3006930869024345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861101201:0355/pct:29.080940538096314,46.539008352585746,13.49197377345693,4.314021681180025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ acted, that if any inhabitant of this Com­
 monwealth, who hath not heretofore ta­  
 ken the oath or affirmation of fidelity t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861101201:0355/pct:29.097897354736602,11.284876488359695,27.130906624463034,86.36929091878443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861101201:0355/pct:29.097897354736602,11.298205082637285,27.147863441103322,86.36040518926603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ Witness my hand and seal this 19th
 day of Sept., 1777.  
 Signed! ee. John PowelL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022160:1869102701:0557/pct:158.86325267304446,21.10333753870857,46.032639279684865,23.167794471843102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022160:1869102701:0557/pct:39.72699127497889,5.275834384677142,11.511398817900366,5.7919486179607755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

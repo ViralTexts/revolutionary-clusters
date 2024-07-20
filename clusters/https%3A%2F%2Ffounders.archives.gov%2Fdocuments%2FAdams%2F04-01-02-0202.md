@@ -292,7 +292,7 @@ proach
 On life, and makes him sick ot seeing  
 more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818032601:0590/pct:11.872242067661274,20.315581854043394,16.747215801639,3.7080867850098618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818032601:0590/pct:11.869747899159664,20.312910859847488,16.750700280112046,3.711981768779034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ gather with lots of good advioe.
 &quot;A foe to God was ne&#x27;er true friend to man  
 Some sinister intent taints all he docs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kathak_ver01:data:sn91059394:00383347774:1893071201:0112/pct:29.138236037402073,29.85632749458768,10.715188273944907,2.2830151544971464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kathak_ver01:data:sn91059394:00383347774:1893071201:0112/pct:29.146659927554545,29.859607688775174,10.719400219021145,2.2797349603096504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

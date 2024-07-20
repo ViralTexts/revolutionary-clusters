@@ -168,7 +168,7 @@ ted thenidelves as well asit was pofible. These
 officers have a claim te be more particular  
 ty noticed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779081701:0239/pct:9.137271568210794,6.587084711635265,27.624309392265193,62.99439091039839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779081701:0239/pct:9.137271568210794,6.591878805311856,27.645558861028473,63.00877319142816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ forlorn hope; and all acquitted liiemaelvea us well as pos­
 sible. These otlicers have a claim to be more particu­  
 larly noticed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835070301:0073/pct:18.020861926983255,23.878069432684168,15.028822399121603,3.831498729889924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835070301:0073/pct:18.01838891176067,23.875542385437612,15.03133433969169,3.83462094754295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ to the other two, as it will have no ojx*­
 ration no regimental ranks, may not be  
 amiss.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1835070901:0319/pct:4.758961681087762,52.85663800212039,12.747218788627936,14.477559194251384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1835070901:0319/pct:4.758226479221381,52.850412249705535,12.750399093671147,14.479780133490381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -875,7 +875,7 @@ to the other two, as it will have no
 operation on regimental ranks, may  
 not be amiss.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835072501:0182/pct:65.74167507568113,7.358649789029536,31.937436932391524,89.38396624472574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835072501:0182/pct:65.72509457755359,7.357408032399595,31.935687263556115,89.37310158623018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -958,7 +958,7 @@ head with a musket ball, but continued
 leading on his men with unshaken firm­  
 ness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1852051201:0603/pct:44.93769470404985,22.30340988169798,14.205607476635514,5.230804917652517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1852051201:0603/pct:44.93769470404985,22.30340988169798,14.205607476635514,5.242403154720482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ esh wound in the head with a musket ball, but
 continued leading on his men with unshaken firm  
 ness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1852051501:0965/pct:274.25897035881434,282.0723917672108,50.390015600624025,14.364797728885735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1852051501:0965/pct:68.56474258970358,70.5180979418027,12.597503900156006,3.591199432221434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1002,7 +1002,7 @@ wound 10 the head with &amp; musket ball, bat
 continned leading vu his men with unshaken  
 firmness &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1852071001:0952/pct:20.307211663629264,6.391900184086725,12.470710752408227,3.9067293925138067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1852071001:0952/pct:20.31588995921201,6.395309197518238,12.466371604616853,3.9135474193768323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1029,7 +1029,7 @@ moment of the assault, he received a ilesh
 wound in the head with a musket ball,  
 but continued leading on his men with ttn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1852081201:0603/pct:35.01255930784259,11.840677230301715,58.65196762489534,87.14998914695029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1852081201:0603/pct:35.01255930784259,11.847912596773027,58.65661922039259,87.14998914695029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1073,7 +1073,7 @@ flesh wound in tbe head with musket
 ball, but continued leading on his men  
 with unshaken firmness.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1854112401:0439/pct:41.38075313807531,54.021608643457384,17.84518828451883,7.292917166866746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1854112401:0439/pct:31.065522294326982,40.516206482593034,13.397529830437513,5.47719087635054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1094,7 +1094,7 @@ critical moment of the assault, he received a
 flesh wound in the head with a musket ball, but  
 continued leading on his men with unshake
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854113001:1152/pct:250.41322314049586,169.2506067961165,39.235537190082646,9.375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854113001:1152/pct:83.47107438016529,56.41686893203884,13.078512396694215,3.125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

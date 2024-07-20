@@ -200,7 +200,7 @@ principle of the yovernrretn ; and the laws
 which contrul the community, receive their  
 tone and fpirit from the pub ic wiflics
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801062901:0624/pct:35.09615384615385,8.857231340972437,44.60059171597633,82.87395478476309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801062901:0624/pct:35.08966537252727,8.856317093311313,44.59696801626918,82.86798100743188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ checks against power and ambition? Will you
 leave them the power to resist ordinary acts of  
 legislation and usurpation, by our National ru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826032401:0390/pct:22.07379134860051,49.10756782484531,15.17175572519084,7.198952879581152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826032401:0390/pct:22.070281443790744,49.1017251635931,15.174643557534319,7.202062264525084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ the Constitution, &amp;c., said: ‘ It will be the interest of j
 the large Slates to increase the representation. This !  
 will be the standing instruction to their delegates, &amp;o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836011601:0297/pct:18.32439125051589,26.448882135880183,15.063970284770946,3.1907966138484913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836011601:0297/pct:18.321870701513067,26.446011937059144,15.066483264557542,3.194067643335142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ have it in their power lo instruct their Representatives—
 and the State Legislatures which appoint the Senators  
 may enjoin it ulso on them.’’ What is this but t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836011601:0297/pct:18.310634200027515,29.487736053831128,15.07772733525932,4.3629259822009985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836011601:0297/pct:18.30811554332875,29.484536082474225,15.08023842274186,4.366069813709531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ enture to assert that no combinaticn of de
 signing men under Heaven will be capable of  
 making a good government unpopular&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1863022601:0194/pct:108.52352119236143,99.03642005552834,48.928737773637636,16.740160052261963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1863022601:0194/pct:27.124563445867288,24.755062050947092,12.229336437718278,4.184356629653821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ Alexander HAMIlton- The confidence of the
 people will easily be gained by a good adminis­  
 tration. This is the true touchstone. (T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863081901:0178/pct:69.15238536359426,199.87666284908818,49.467345993515515,10.360320676592371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863081901:0178/pct:17.288096340898566,49.969165712272044,12.366836498378879,2.590080169148093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ of the people will easily be gained by a
 good administration. This is the true  
 touchstone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1863082701:0356/pct:23.141654978962134,360.19937234631715,49.36886395511922,15.359054827395237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1863082701:0356/pct:5.786766425064298,90.04984308657929,12.345101706803835,3.8397637068488093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -685,7 +685,7 @@ of their legulatira leaders, be roused into
 resistance4 and the madness of tytaniiybe  
 extinrufcleJ alablowr&#x27;&#x27; :,Ttfcse extract
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1866021701:0063/pct:25.029904306220097,109.88151386172783,16.208133971291865,7.511791096284367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1866021701:0063/pct:18.782712726185135,82.41113539629588,12.157918349035443,5.636719199355803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ Government, popular election- should
 be perfectly pure, and the most un­  
 bounded liberty to be allowed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1867022301:0228/pct:113.3768352365416,112.39712606139778,51.549755301794455,14.160679294578706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1867022301:0228/pct:28.361558865537646,28.099281515349446,12.8953274841869,3.5401698236446766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,7 +929,7 @@ whether the people subjected them­
 selves t* one tyrant, or many.  
 The branches of government ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343023:1894012201:0392/pct:6.58165364047717,84.66423456289691,15.240641711229946,5.539791920010809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343023:1894012201:0392/pct:6.58030022619782,84.65279654147528,15.242648570841045,5.542420967306134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -954,7 +954,7 @@ Representatives is established upon
   
 the popular principle, and given, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343023:1894012201:0392/pct:6.643356643356643,3.9048777192271316,30.60468942821884,90.96068098905553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343023:1894012201:0392/pct:6.6419905408184245,3.9043501756282084,30.60353691137158,90.95176979194812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

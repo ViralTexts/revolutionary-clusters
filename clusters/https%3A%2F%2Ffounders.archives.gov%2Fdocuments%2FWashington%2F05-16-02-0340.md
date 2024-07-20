@@ -108,7 +108,7 @@ strength will enable them, it will be a very bad ex-­
 ample to othors, none of whom would work if by  
 pretexts they can avoid it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:196.9588828549263,105.08077994428969,45.368502715283164,15.041782729805014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883022301:0469/pct:65.6529609516421,35.02692664809656,15.122834238427721,5.013927576601671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ u&#x27;oukl work if by pretexts they can avoid
 ??? __  
 The following is another glaring ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663894:1883030101:0583/pct:3.8641321283889063,5.55956678700361,32.346525397320036,91.38731304796286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663894:1883030101:0583/pct:3.8693258543679234,5.566443183771703,32.356912849278075,91.38387484957882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ strength will enable them, it will be a bad
 example to others, none of whom would  
 work if by pretexts they can avoid it . . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883031301:0618/pct:16.10406718261156,54.919606431485484,11.01597233657171,6.239500839932806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952533A:1883031301:0618/pct:16.101415870925255,54.913017396520694,11.018274613105039,6.241751649670066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ them, it wvill be a verv bad example to otliera,
 none of whom would work if by pretexts they  
 cau avoid i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:39.06586310804993,45.83557227297152,10.82651743435213,3.582303421099767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1883031501:0454/pct:39.07124408092983,45.84452803152427,10.831898407232028,3.5957370589288913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ be a very bad extuntdv to others, none of 1
 whom would work if bv pretexts they I  
 can avMd it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883040701:0189/pct:4.413324846170168,86.74436674436674,12.624655208996392,5.625485625485625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1883040701:0189/pct:4.413324846170168,86.75472675472676,12.63172784496782,5.63066563066563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ will enable them, it wii! be a very bad
 example to others, none of whom would  
 work if by piclexts they can avoid it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1883042501:0271/pct:33.40175150519978,47.54399222714024,14.819376026272579,6.693295908452985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1883042501:0271/pct:25.058163404954154,35.657994170355174,11.112631723005338,5.0307675699017596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

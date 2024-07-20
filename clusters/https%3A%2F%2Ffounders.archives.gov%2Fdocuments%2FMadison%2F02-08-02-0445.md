@@ -175,7 +175,7 @@ be accounted for with the treasury
 every {ix months by the persons re­  
 ceiving the fame. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803051001:0279/pct:42.690513219284604,29.866507272365013,16.20528771384137,14.943215780035864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803051001:0279/pct:42.690513219284604,29.8698279869828,16.215655780196993,14.949857209271435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ months pay over and above the wages which may then
 be due him two thirds thereof to be paid by such con­  
 sul or agent to the person so discharyed,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846062901:0781/pct:49.40165177818979,268.11127715829406,47.61503455250295,5.287964133808484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846062901:0781/pct:16.467217259396595,89.37042571943135,15.87167818416765,1.7626547112694946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ poge of creating a fund for the payment of the passages of
 scamen or mariners, citizens of the United States, who  
 may be desirous of returning to the United States, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846122201:0712/pct:146.88584173137286,223.92560073937153,49.67784569634892,11.7952865064695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846122201:0712/pct:48.96194724379096,74.64186691312385,16.559281898782974,3.931762168823167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

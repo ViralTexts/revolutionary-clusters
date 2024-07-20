@@ -141,7 +141,7 @@ I I am, sir, with great consideration and
 I resnect, your most obedient servan*.  
 JAC. BROWN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814102901:0284/pct:5.854844743733633,10.423697037870266,35.72764683875795,80.38995125609298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814102901:0284/pct:5.853749766224051,10.42239440139965,35.727199052428155,80.38407064900441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ I am, sir, wi»h great consideration and rcr.­
 pe--t, your most olwdifait servant.  
 JAC. BROWN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814110101:0210/pct:41.32201553187647,46.11159655473724,18.168683402564564,42.06715765821995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814110101:0210/pct:41.31455399061033,46.10584123814279,18.171421692548453,42.06606756531869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

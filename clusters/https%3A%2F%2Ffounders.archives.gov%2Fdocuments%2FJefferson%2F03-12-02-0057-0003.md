@@ -473,7 +473,7 @@ singing the following ode:
 Placed in form the corner-stone,  
 True and trusty, Brothers own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293265:1858100701:0338/pct:17.219787100814028,200.54251680622716,50.46963055729493,26.087982073357708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293265:1858100701:0338/pct:4.304946775203507,50.13562920155679,12.617407639323732,6.521995518339427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ treegth. Lift up your hands in the sanctuary and bless
 thee out of zion.  
 After the sermon, Dr. Spring offered a few explanator
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743300:1858110101:0516/pct:55.057109750041384,232.09681067631757,48.369475252441646,7.249491065369826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743300:1858110101:0516/pct:18.352369916680463,77.36560355877252,16.12315841748055,2.416497021789942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ The Brethren responded
 &quot; Amen So mote It be Amen.&quot;  
 The ceremony of laying the Corner Stone was then
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471379:1860072101:0047/pct:90.81315952824333,23.938572719060524,19.754810676598385,5.566847335140018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471379:1860072101:0047/pct:68.14159292035399,17.953929539295395,14.826890234435647,4.177958446251129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ long preserve this structure from decay, and
 geant to us all a supply of the corn of  
 nourishment, the wine of refreshment, and the cil o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530698:1861122701:0837/pct:198.74932999821334,57.95810861658096,49.70519921386457,13.445378151260504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530698:1861122701:0837/pct:66.24977666607111,19.31936953886032,16.568399737954856,4.481792717086835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ long preserve the structure from decay, and crant
 to n» aU a supply of the com of nourishment the  
 wmc of refreshment and the oil of Joy. Amen 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1864091201:0004/pct:14.269406392694064,46.42038946162658,9.91248097412481,2.8350515463917527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1864091201:0004/pct:14.269406392694064,46.42396907216495,9.91248097412481,2.838631156930126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ StASOKIC ADDRESS.
   
 TVotmrr Sm and Buottieb : Having thus, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867032601:0003/pct:1.733457595526561,70.8466819221968,9.133271202236719,5.659801678108314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867032601:0003/pct:1.7381174277726001,70.8466819221968,9.137931034482758,5.659801678108314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ serve the structure from decaf, and grant u:
 all a supply of the corn of nourishment, the  
 wine of refreshment, and the oil of joy. Ame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192312:1867060401:0404/pct:57.533530743772864,71.24251497005989,13.290367531788887,5.179640718562874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192312:1867060401:0404/pct:57.533530743772864,71.25374251497006,13.312140742031005,5.179640718562874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ gave the public grand honors of Ma?
 sonry by throe times three. When  
 the Grand Master ascended tho plat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551670:1867090601:0533/pct:50.60514372163389,1.5160102011901389,32.337367624810895,94.41768206290735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551670:1867090601:0533/pct:50.611447302067575,1.5254557476149995,32.343671205244576,94.41768206290735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ sembly, assist in the erection and con­
 pletion of this building, protect the  
 workmen against, every accident; lon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022795:no_reel:1876061001:0094/pct:192.9592662530348,145.72413793103448,48.79956838413812,11.5/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022795:no_reel:1876061001:0094/pct:64.31975541767827,48.57471264367816,16.266522794712706,3.8333333333333335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -817,7 +817,7 @@ this building, protect the workmen against every
 accident, and protect the building from uoatrnc-  
 Don and decay, and giant peace everlasting. Amen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876071701:0008/pct:71.02754237288136,28.05293763785843,13.241525423728813,1.5841187086424704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876071701:0008/pct:71.03416313559322,28.06296370563465,13.261387711864407,1.5891317425305795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ the members of the fraternity, at the
 command of the Grand Marshal, gave  
 tho public grand honors of Masonry b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551104:1879051501:0273/pct:14.109776493842178,14.584710288609825,12.163600425726015,13.097598589997796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551104:1879051501:0273/pct:14.109776493842178,14.584710288609825,12.173736759414119,13.104942351472424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -892,7 +892,7 @@ grant to us in hopeful supply the corn of
 nourishment, the wine of refreshment and  
 the oil of joy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779568:1879062501:0537/pct:262.3262995367988,117.35571878279119,39.57797220792589,14.606505771248688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779568:1879062501:0537/pct:65.59001415519238,29.338929695697797,9.89576631064213,3.651626442812172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ I nourishment. The wine of refreshment
 j and tho oil of joy. So mote it be. Amen,  
 j The grand master then addressed tho as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035539:1883100401:0315/pct:84.79758105157063,41.455201443174985,13.388207626406853,5.544197233914612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035539:1883100401:0315/pct:84.80877988689177,41.45921026257767,13.388207626406853,5.548206053317298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +1065,7 @@ he grant to us in needful supply, the corn of
 n.°,uri . nieQli *b® wine of refresment and the  
 oil of joy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889053101:0595/pct:45.20057306590258,51.006237495586674,9.541547277936962,3.3658938448864304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889053101:0595/pct:45.19409826672396,51.000235349494,9.543761638733706,3.3684396328547894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1114,7 +1114,7 @@ The brethren, led by the grand mar­
 shal, then gave the grand honors of the  
 craft, when the grand master presente
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065154:00279523386:1892090901:0474/pct:54.38247011952191,66.93809124655729,17.888446215139442,10.226320201173513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065154:00279523386:1892090901:0474/pct:54.38247011952191,66.93809124655729,17.895086321381143,10.23031173911308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1173,7 +1173,7 @@ seven eyes.&quot; He is the stone of Israel, despised
 by the builders and rejected, and  
 yet to be head cornerstone. He is the ston
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287368:1893011801:0486/pct:69.46646341463415,62.745726495726494,14.192073170731707,3.5790598290598292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287368:1893011801:0486/pct:69.47662601626017,62.752849002849004,14.192073170731707,3.5790598290598292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1226,7 +1226,7 @@ before Joshua. Dnon one stone shall be
 seven eyes. Behold, I will engrave the  
 graving thereof, saith the Lord of hosts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_idyllwild_ver01:data:sn94052989:00175040225:1893022701:0544/pct:25.84430825400965,77.59057265290222,11.357412961272656,1.8211920529801324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_idyllwild_ver01:data:sn94052989:00175040225:1893022701:0544/pct:25.85300126048594,77.59057265290222,11.357412961272656,1.8244383846253733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1250,7 +1250,7 @@ to ns in needful supply, the corn of nourish­
 ment, the wine of refreshment, and the oil  
 of joy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895229:1894061501:0504/pct:28.90241507952091,31.258376768428892,12.72334576870214,5.01861504095309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895229:1894061501:0504/pct:28.896741264232432,31.253722453841572,12.725755791126815,5.0215902322811194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1286,7 +1286,7 @@ minds of the youth the principles o
 sound knowledge, to inspire them with  
 the love of religion and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032812:1896011201:0095/pct:90.48747461069736,183.98700394523092,40.04739336492891,28.765374796936644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032812:1896011201:0095/pct:30.162491536899118,61.32900131507697,13.34913112164297,9.588458265645547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1343,7 +1343,7 @@ be disannulled, and your agreement
 with Hell shall not stand, when the  
 overflowing scourge shall pass throug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn97071028:00416152664:1896121001:1286/pct:46.04449938195303,39.35350498026687,19.375772558714463,11.896260101484684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn97071028:00416152664:1896121001:1286/pct:34.580884627281165,29.524525465138133,14.53758119393752,8.926893441082504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1371,7 +1371,7 @@ and Brooklyn, where a speaker&#x27;s stand and
 seats for tho audience had been built in  
 the shade of some large trees. Here th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109178:1898090101:0005/pct:77.66316579144787,35.12373453318335,16.391597899474867,6.847581552305962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109178:1898090101:0005/pct:58.27392120075047,26.349831271091112,12.307692307692308,5.132170978627672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1416,7 +1416,7 @@ all a supply of the Com of Nourish­
 ment, the Wine of Refreshment, and  
 tho Oil of Joy. Amen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285311:1899071401:0234/pct:28.29006266786034,72.18925421010425,18.50940017905103,10.024057738572575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285311:1899071401:0234/pct:21.22704881325571,54.14595028067362,13.905060456784595,7.52205292702486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

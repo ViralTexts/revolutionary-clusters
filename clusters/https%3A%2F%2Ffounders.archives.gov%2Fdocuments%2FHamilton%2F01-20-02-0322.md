@@ -58,7 +58,7 @@ It is a common observation that he is not only
 the most illustrious, but the most meritorious  
 character which has yet appeared.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654115:1858071201:0559/pct:1.8729514593413454,60.28747433264887,15.857655689090057,4.4661190965092405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654115:1858071201:0559/pct:1.8807554237552677,60.29517453798768,15.869361635710941,4.473819301848049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +89,7 @@ Washington, It is a common observation, that he :&#x27;
 not only the most illustrious but the most mei i&#x27;m ions  
 character winch has &gt;et appeared. &#x27; N&#x27;-ir wa- Fran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1858071301:0040/pct:44.424882629107984,38.37410903486804,16.050469483568076,6.482373338470429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1858071301:0040/pct:44.4297730829421,38.377319720028254,16.060250391236305,6.488794708790856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ j 0,ily the most illustrious, but the most
 I meritorious character which has yet ap­  
 pear ed.’J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1858071701:0116/pct:81.75838926174497,85.73607157381049,12.523489932885907,3.670191134607564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1858071701:0116/pct:81.74741645416722,85.72735590118938,12.526282825571512,3.6732066009284674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ tion that he is not only the most illus­
 trious, but the most meritorious &#x27; char­  
 acter which- has yet appeared,&quot; No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1858072101:0444/pct:98.91631547260687,115.92260022764638,14.22335942203492,4.654103958517769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1858072101:0444/pct:74.20957542908762,86.948273681548,10.674495633845227,3.490577968888327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ common observation that he is not only the
 most illustrious, but the most meritorious  
 character which has yet appeared.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1858080601:0793/pct:47.20047274338898,127.13017410353972,41.85256315556212,16.77620200622622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1858080601:0793/pct:15.733490914462992,42.37672470117991,13.950854385187373,5.59206733540874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ among them and jet I virtually Ie I levo thistn
 ho the fact Much credit is I duo to Mr Jayon  
 this score Hamilton returned to Kin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044954:1891050301:0056/pct:126.06671838634601,64.69872185027388,51.978277734678045,52.221545952525865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044954:1891050301:0056/pct:31.516679596586503,16.17468046256847,12.994569433669511,13.055386488131466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ ous character that has yet appear­
 ed And here I must drop the  
 almost unanimous European ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740888:1891112801:0430/pct:31.036811887875718,49.42483141610472,10.925363053022627,5.831019436731456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740888:1891112801:0430/pct:31.036811887875718,49.42483141610472,10.938027693346843,5.834325003305566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

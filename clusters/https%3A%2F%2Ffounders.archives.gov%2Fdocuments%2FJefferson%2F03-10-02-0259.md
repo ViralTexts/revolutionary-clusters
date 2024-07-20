@@ -169,7 +169,7 @@ might have made them at home.
 high consideration and esteem,  
 &quot;Thomas Jbffshson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661447:1853061101:0293/pct:28.914002205071665,8.594507269789984,12.816979051819184,18.341410877759827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661447:1853061101:0293/pct:28.92319000367512,8.594507269789984,12.821572951120912,18.345000897504935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ might have made them at home.
 &#x27;?Permit me here to renew ^e assurances of my h eh con  
 sideraiien and esteem. THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1853061401:0483/pct:17.639334695068573,61.90070921985816,16.384592938430114,15.120567375886525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1853061401:0483/pct:17.644198035210582,61.9070133963751,16.394319618714132,15.120567375886525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ them at home.
 my high consideration and esteem.  
 THOMAS JEFFERSON 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853061601:0565/pct:79.58398881314456,19.17225373904074,12.751267260968362,21.36410520887055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853061601:0565/pct:79.57703399458184,19.17101785599175,12.753065920941477,21.364876770020842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ at &#x27;home&#x27;* #llCfl,&#x27;t,rB ni&#x27;?ht have made tbeit
 consideration and esteem.  
 &quot; THOMAS JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853061801:0725/pct:84.26567789779139,37.28792099265637,15.21844268902144,18.219802481640922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853061801:0725/pct:84.27105164167875,37.28792099265637,15.21844268902144,18.228243437157087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ ings and a happy issue out of all their afflic­
 tions now commend ourselves and our breth­  
 ren everywhere to Thy protection. Make u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869042701:0412/pct:147.27954971857412,319.31240133309944,43.99624765478424,6.455007893352043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869042701:0412/pct:36.81988742964353,79.82810033327486,10.99906191369606,1.6137519733380108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ firmation give them patience under
 their sufferings and a happy issue out  
 of all their afflictions.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876499:1887091501:0542/pct:55.96890616324264,73.74986201567502,9.71682398667407,3.7752511314714647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876499:1887091501:0542/pct:55.97353322228392,73.7535415976745,9.721451045715343,3.7826102954704344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ them patience under their sufferings,
 and a happy issue out of all their  
 afflictions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542866007:1893090701:0121/pct:33.9622641509434,78.87995233839737,14.365351629502573,5.302353291629431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542866007:1893090701:0121/pct:33.954983922829584,78.86820551005212,14.367631296891748,5.305286671630678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ fort and relieve them giving them pa­
 tience under their sufferings and a  
 happy issue out of al their affliction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069873:00100481613:1898111101:0319/pct:47.02886247877759,111.41539065567333,18.647425014148276,2.208480565371025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069873:00100481613:1898111101:0319/pct:35.28662420382165,83.56645072634473,13.99858457183298,1.6588142913231252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ fort and. relieve them, giving them pa­
 tience under their sufferings, and a  
 happy issue out of all their afflictions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hockey_ver01:data:sn90059182:00393341063:1898111601:0374/pct:44.23006916636331,79.61176754280203,15.289406625409537,6.293706293706293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hockey_ver01:data:sn90059182:00393341063:1898111601:0374/pct:44.23006916636331,79.61176754280203,15.307608299963597,6.305763202314926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ fort and. relieve them, giving them pa­
 tience under their sufferings, and a  
 happy issue out of all their afflictions.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_kensal_ver01:data:sn88076270:00212475944:1898120901:0455/pct:35.63448390862098,60.2937576499388,13.806903451725862,6.438188494492044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_kensal_ver01:data:sn88076270:00212475944:1898120901:0455/pct:31.19011721219785,52.757845132269466,12.071397305578522,5.64064117668059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

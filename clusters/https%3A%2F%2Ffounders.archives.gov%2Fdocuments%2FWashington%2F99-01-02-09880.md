@@ -50,7 +50,7 @@ imake them so tight in the thigh that it is with ife
 they can be drawn on. The measure enclosed is  
 the size I would have, not what they could be brought t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847100601:0408/pct:56.8359375,141.63883322199956,49.8046875,17.94700512135382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847100601:0408/pct:18.9453125,47.21294440733318,16.6015625,5.9823350404512725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ y make them so tight in the thigh that it
 ulty they can be drawn on. The messure  
 wed is the size I would have, not what they coul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530261:1847100901:0243/pct:254.52847805788983,35.61486253307259,40.52287581699346,20.16565052340964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530261:1847100901:0243/pct:84.84282601929661,11.87162084435753,13.507625272331154,6.721883507803214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ lor reiterating my request that they may be made roomy in (
 the seat. They generally make them so tight in the thigh,  
 that it is with difficulty they can be drawn on. The mensur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847101101:0982/pct:15.52892952861422,27.20197652872143,16.900520258552735,6.114885731933292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847101101:0982/pct:15.534184665510537,27.206094296891084,16.900520258552735,6.119003500102944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ beg to have them sent to me as soon as possible. I shall
 thank you for ret erating my request that they may be  
 made roomy in the seat. They generally make them s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191253:1847101601:0367/pct:192.48380129589634,281.877378435518,64.9244060475162,70.93446088794926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191253:1847101601:0367/pct:48.120950323974085,70.4693446088795,16.23110151187905,17.733615221987314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ so tieht in the thieh that it is with difficulty they
 can be drawn on. The measure enclosed is the  
 size I would have, not what they could b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1847101601:0077/pct:42.02492211838006,10.022779043280183,16.4797507788162,10.774487471526196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1847101601:0077/pct:31.54121863799283,7.517084282460137,12.357799594826243,8.086560364464692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ in the thigh that it is with difficulty they can
 be drawn on. The measure enclosed is the size  
 I would have, not what they could be brough
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847101701:0004/pct:63.91374504914185,14.077116130504221,9.62300132022884,6.844626967830253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847101701:0004/pct:63.91374504914185,14.079968058407484,9.637670529558457,6.844626967830253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ could be brought to by streiching. Yours, &amp;c.
 G. WASHiNGrON.  
 OR LTTErArY iNSIiiiTIoNS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847101901:0094/pct:14.04557340306313,12.466607301869992,119.77960403436683,370.62926684476105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847101901:0094/pct:3.510737628384687,3.1161893456002376,29.939309056956116,92.64356729485087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ ir they can be drawn on. The mcasuro enclosed is the pie
 i- size I would have, not what they could be brought del  
 i to by stretching. u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847102901:0228/pct:29.550121336568974,52.43045387994143,14.952398730632817,15.446559297218155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847102901:0228/pct:29.556343724721547,52.435334309419225,14.971065895090536,15.451439726695948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ made so tight in the thigh, that it is with per in the Union. Our readers will b
   
 difficulty they can be drawn on. The mea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1847102901:0060/pct:231.67315175097275,211.07075403167224,106.84824902723736,38.355368298706956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1847102901:0060/pct:57.91828793774319,52.76768850791806,26.71206225680934,9.588842074676739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ in the thigh&quot;, that it is with difficulty thcycan
 be drawn on. The measure enclosed is the  
 size I would have-not what they could be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1847110901:0552/pct:9.327651515151516,108.29972075705864,22.301136363636363,15.730685696556003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1847110901:0552/pct:7.010895310279488,81.22866894197952,16.721932733301752,11.805771020788086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ Whether they are yet to be had, I know
   
 tnot, neither do I know the price of the ti si ana
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1847111801:1128/pct:6.508355321020229,282.92397660818716,120.84432717678101,45.90643274853801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1847111801:1128/pct:1.6281628162816282,70.73099415204679,30.231023102310232,11.476608187134502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ VENTON
 It appears that a gentleman of the city  
 of Troy has invented an article he calls th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1847111801:1128/pct:8.443271767810026,329.00584795321635,117.41424802110818,16.608187134502923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1847111801:1128/pct:2.112211221122112,82.25146198830409,29.372937293729372,4.152046783625731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ drawn on. The measure enclosed is the
 size I would have—not what they could  
 be brought to bv stretching
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1847112401:0039/pct:58.351316357358655,76.56511550050217,12.861458782908935,12.43164825354313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1847112401:0039/pct:58.351316357358655,76.56511550050217,12.861458782908935,12.442807722352416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

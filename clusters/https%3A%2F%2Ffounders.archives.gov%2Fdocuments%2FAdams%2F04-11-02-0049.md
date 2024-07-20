@@ -236,7 +236,7 @@ heart.” *.
 We can scarcely take up a Democra­  
 tic Newspaper, without being stared i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814061601:0452/pct:19.84455101703324,20.643406490339522,18.05854142550025,8.6381541924592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814061601:0452/pct:19.841269841269842,20.64147050548626,18.06106701940035,8.640470161618056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ prepared.&quot;
 A habitation giddy and unsure hath he  
 that buildeth on the vulgar heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1878032001:0043/pct:117.07865168539325,210.1624431448993,49.58801498127341,7.797270955165692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1878032001:0043/pct:29.27514515826934,52.540610786224825,12.399325716426297,1.949317738791423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ And being bow Irimm&#x27;d la thlunwo ik.i
 Thou, beastly feeder, art so full of him  
 That thou prorokat thyself to cast him up.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn86074075:00415662361:1899011301:0768/pct:24.903846153846153,119.52684258416743,24.166666666666668,7.024567788898999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn86074075:00415662361:1899011301:0768/pct:18.691888425777492,89.64513193812557,18.146841936518115,5.277525022747953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

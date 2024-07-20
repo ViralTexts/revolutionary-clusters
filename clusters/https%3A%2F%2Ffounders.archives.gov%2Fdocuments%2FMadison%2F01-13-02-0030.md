@@ -93,7 +93,7 @@ reign debt.
 Resolved, That permanent funds ought to be appropriated for  
 the payment of interest on, and the gradual discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790021001:0003/pct:6.726319037334156,18.982850384387937,27.39895094106757,3.9030159668835007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790021001:0003/pct:6.741746374575748,18.997634535777646,27.406664609688367,3.8882318154937905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ tween the original holders and their allignees,
 and that a scale 6f depreciation be prepared ac­  
 cordingly,&quot;—This being seconded, was laid o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790021301:0003/pct:35.09954058192955,77.59098101265823,26.67687595712098,3.9952531645569622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790021301:0003/pct:35.12251148545176,77.60087025316456,26.66156202143951,4.000197784810126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ revolution just eft&#x27;e&lt;fted, other national capacities
 had been added, and a material change had taken  
 place in the government ; yet that the natio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790021701:0001/pct:62.602118003025716,12.753794598856691,26.53555219364599,16.991917997240293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790021701:0001/pct:62.609682299546144,12.758722649319928,26.55824508320726,16.996846047703528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ mount of the debt due from the United States.
 This, he thought, admitted of a ready answer :  
 the United States owed the value which they had re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790021701:0001/pct:62.6928895612708,30.47506406465602,26.4750378214826,10.36861817465011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790021701:0001/pct:62.71558245083207,30.47506406465602,26.482602118003026,10.38340232603982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ On the other hand, the holders by alignment
 have claims which he by no means wifiied to de­  
 preciate. They will fay, that whatever preten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790021701:0001/pct:63.02571860816944,46.34338655627834,27.019667170953102,47.52611866745516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790021701:0001/pct:63.04084720121029,46.35324265720481,27.049924357034797,47.54090281884486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ that if a tribunal existed on earth, by which nations could be
 compelled to do right.the United States would be compelled to do  
 something not difiimilar in its principles to what he contended for.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790021701:0002/pct:9.409937888198758,5.711481844946025,27.63975155279503,59.92149165848871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790021701:0002/pct:9.425465838509316,5.726202158979391,27.624223602484474,59.92639842983317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ ated for the payment of interest on, and the
 gradual discharge of, the domeflic debt of  
 the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790030301:0549/pct:3.996124969726326,15.596482495437199,21.240009687575686,17.703666832586695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790030301:0549/pct:4.004197949463147,15.596482495437199,21.248082667312506,17.720258835241413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ manent funds ought to be appropriated for the
 payment of interell on, and the gradual discharge  
 of the domestic debt of the United States.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790031001:0003/pct:35.85313174946004,39.13809990205681,27.02869484726936,4.603330068560235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790031001:0003/pct:35.86084541808084,39.14789422135161,27.03640851589016,4.59843290891283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ United: States, &#x27;\ - &#x27;
 7 ?g@ved, ;That the arrears of intercit  
 I%C uding indents iffyed in paymen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790051201:0589/pct:26.96278511404562,11.472046503675841,40.960384153661465,82.93725423149256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790051201:0589/pct:26.96278511404562,11.472046503675841,40.97639055622249,82.94865219125776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -941,7 +941,7 @@ agamft the United Statu, under the new asunder theoldf.rmof
 government—The obligation remains the lame, though 1 hope ex­  
 perience will prove that the ability has been favorably varied.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790062301:0002/pct:9.012738853503185,64.13711115514167,27.770700636942674,10.243709134139092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790062301:0002/pct:9.028662420382165,64.14701803051318,27.762738853503183,10.248662571824847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ States would be compelled to do some­
 thing not d&#x27;ssirmlar in its principles to  
 what I have come did for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808060301:0186/pct:40.77397644419518,29.257084503446514,18.171620863712842,10.95225938218024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808060301:0186/pct:40.76635514018692,29.25335035098915,18.174454828660437,10.95511593278026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

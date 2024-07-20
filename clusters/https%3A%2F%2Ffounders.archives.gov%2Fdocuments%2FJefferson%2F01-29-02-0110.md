@@ -73,7 +73,7 @@ if a Republican, he will of course give fair play to that
 sense and lead things into the channel of harmony be­  
 sasen the governor and governed.&quot; Vol..3, pag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091101:0048/pct:139.89031078610603,337.6827896512936,59.68921389396709,15.255905511811024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091101:0048/pct:34.96618534088832,84.40882890482216,14.919575945896545,3.8134401799522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ will of course give fair play to that sense and lead
 , things into the channel of harmony between tho  
 governors and governed.” Vol. 3, page 335
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848091301:0148/pct:78.6825117370892,84.59884576213648,14.964788732394366,4.119044924748218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848091301:0148/pct:78.6709696347367,84.58927359131025,14.967483252652682,4.1223504563626765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ if a Republican, he will of course give fhir play to that
 sense and lead things into the channel of harm ny between  
 the Governors and governed.&quot; Vol 3 page 332
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091801:0056/pct:23.164048227986846,41.53738644304682,60.74168797953964,13.654786862334031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091801:0056/pct:5.789954337899544,10.382895472330912,15.182648401826484,3.4132196757965345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ ee eeee eo o eee e o e oeee
 Republiean, he will of course sive sair  
 play to that sense and lead things into the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848092701:1126/pct:93.40823970037454,92.38858945707901,56.17977528089887,59.73445510713816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848092701:1126/pct:23.356433789099082,23.097147364269752,14.047574452144596,14.93361377678454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ give fair play to that sense, and lead things
 into the channel of harmony between the  
 governors and governed.&quot;  Vol.3, page 335
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848100301:0466/pct:209.31321540062436,128.12599427298758,37.22684703433923,14.190264078905503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848100301:0466/pct:69.79830839297333,42.70866475766253,12.413793103448276,4.730088026301835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ I republican sense of his constituents; if i
 channel of harmony between the gover  
 &#x27; nors and the governed.&quot; In another le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849090501:0306/pct:17.853246044735407,53.77277599142551,13.14784506273868,4.715969989281886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849090501:0306/pct:17.857792325877433,53.77992140050018,13.14784506273868,4.715969989281886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ has been to them a dear-bought victory. It has given the
 most redical shock to their party which it has ever recelv-  
 berween governors and governe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030201:0461/pct:87.15789473684211,238.60530311879452,41.66801619433198,16.259782735661723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030201:0461/pct:29.05263157894737,79.53510103959817,13.889338731443994,5.419927578553907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

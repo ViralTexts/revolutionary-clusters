@@ -80,7 +80,7 @@ cloth and gold lace wlih bullous like those
 of tbe coat!  
 A blue snrtout coat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654462:1876052201:0062/pct:71.34600760456274,25.496235455167692,13.79467680608365,9.263061829796943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654462:1876052201:0062/pct:71.35361216730038,25.499087383070957,13.798479087452472,9.268765685603467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ A riding waistcoat of superfine scarlet cloth and
 gold Saco, with buttons like those of tho coal I  
 A blue surtout-coat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876052901:0003/pct:16.276651066042643,56.133014735165276,12.896515860634425,8.263639984070092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876052901:0003/pct:16.276651066042643,56.13799283154122,12.903016120644827,8.278574273197929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ A riding walsteoat of superfine scarlet
 f the coat.  
  a a eo o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668168:1876053001:0797/pct:105.41147132169576,210.87619234929687,30.074812967581046,5.044743829285082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668168:1876053001:0797/pct:35.13715710723192,70.2920641164323,10.024937655860349,1.6815812764283606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ cloth and gold lace, with buttons like
 those of the coat!  
 A blue surtont coat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1876060201:0568/pct:46.24553039332539,66.46745485253994,12.648986889153754,5.3267506820839285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1876060201:0568/pct:34.699657176926515,49.85059113940496,9.49470860038754,4.0015590489801225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ riding waistcoat and superfine scarlet cloth
 and gold lace, with buttons like those of the  
 coat; a blue surtout-coat; a neat () switch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1876060701:1150/pct:285.8934169278997,223.2452401250355,43.338557993730404,8.07047456663825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1876060701:1150/pct:71.48736037624927,55.81131003125888,10.83676268861454,2.0176186416595625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ and gold lace, with buttons like those of the
 coat.  
 A blue surtout coat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1876060801:0496/pct:61.71603949826528,75.25551921504497,10.688550840672539,10.742027800490597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1876060801:0496/pct:61.720487501112004,75.2623330607795,10.692998843519259,10.738620877623331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ let cloth and gold lace, with buttons like
 those of the coat.  
 A blue en r tout coat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1876060901:0946/pct:87.74471417384495,75.97297694228227,16.699295223179327,5.6249082097224266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1876060901:0946/pct:65.84410497453976,56.98340431781466,12.534273403838622,4.215009546188868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ and gold lace, with buttons like those of the
 coat.  
 A blue snrtout-coat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876061501:0631/pct:109.9712023038157,72.61754385964912,16.342692584593234,11.817543859649122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876061501:0631/pct:82.53196470376373,54.47017543859649,12.263641274986494,8.856140350877194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ with buttons like those of the coat. A
 blue surtout coat. A neat (I) switch  
 whip, silver cap. Black velvet cap fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876063001:0120/pct:80.62789351851852,35.48916227299355,14.39525462962963,4.323374340949034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876063001:0120/pct:60.48328751266097,26.619800820152314,10.794385761828968,3.245459871118922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

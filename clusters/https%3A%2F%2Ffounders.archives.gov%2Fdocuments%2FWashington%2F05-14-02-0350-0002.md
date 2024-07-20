@@ -407,7 +407,7 @@ for the purpose ofg effeéting a recogni­
 tion of the treaty of the United States,  
 with the new Emperor of Morocco
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051201:0799/pct:49.43387135629969,24.60532610428959,20.621536979041196,16.935098070483175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051201:0799/pct:49.43387135629969,24.61064157763249,20.63759736609652,16.94572901716898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +593,7 @@ t‘&gt; ytu; and that you so cover Iroin the public youi
 departure aac] destination, as that they may nol  
 l, 6 conjectured or noticed.’ Now the idea cf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826053001:0028/pct:7.053810951554364,22.623732856290996,14.62837304718321,5.641025641025641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826053001:0028/pct:7.052698011991164,22.621035058430717,14.631324287367203,5.644327848000636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ and Foreign nations; to he applied, under the di­
 rection of the President, who, if necessary, was  
 authorized to borrow the money, and on accoun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828022101:0393/pct:34.97915998717538,46.24096385542169,15.100993908303943,4.867469879518072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828022101:0393/pct:34.97355345407918,46.23539332610529,15.1039162258909,4.870899088463237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

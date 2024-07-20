@@ -93,7 +93,7 @@ inises of fotl.tiirance made by another department,
 are applicable only to vessels sequestered in Die  
 ports, and not to such as have been raptured at s*a/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0218/pct:69.7948717948718,18.860222077073807,21.41025641025641,5.9764859568909205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0218/pct:69.77698026147142,18.857142857142858,21.411176621379134,5.979591836734694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ parts and not to such as have beee captured
   
 at sea.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112101:0584/pct:28.9610197124648,14.763181411974978,22.439602786423595,9.079535299374442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112101:0584/pct:28.95672791938352,14.761862210705031,22.441217150760718,9.08170255860364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ Pifth division &quot;)
 of prizes. 3  
 Extract from a letter of the Minister o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112201:0234/pct:4.07082876962395,53.40723012973926,18.546914932457103,7.5198387706260235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112201:0234/pct:4.0700857820770215,53.40050377833753,18.549613676461643,7.523089840470193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ tered in port; but as to a prize mane at
 sea, and seized for a contravention of the  
 decree of the 17 h of Dec. lust ; that tn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112501:0386/pct:22.967053894496285,67.85122914278436,17.691868215577983,11.985734301362884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112501:0386/pct:22.962680883472963,67.84258787570046,17.694846407717694,11.988453048055698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ r Wl&quot;; mm* . * •
 5 th division of prizes.  
 Extract of a tetter of the ministe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808120901:1079/pct:55.70256681661815,27.797115862754847,16.40645673458587,10.044753853804078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808120901:1079/pct:55.68783068783069,27.792509115014916,16.408730158730158,10.047232350016573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -667,7 +667,7 @@ humanitatem pertinent, habent quod­
 dam commune vinculum; et, quasi cog-  
 natione quadam, inter se continentur.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1873072401:0114/pct:121.73584905660377,272.4074560252035,49.43396226415094,13.179312155421371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1873072401:0114/pct:30.4397056048311,68.10186400630087,12.360822796754105,3.294828038855343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

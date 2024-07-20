@@ -381,7 +381,7 @@ beneficent in her dispensations. I am, with great re-
 spect, your obedient humble servant.  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530236:1846021201:0352/pct:129.3025432984865,127.72254064802901,41.753783741613354,28.693414434436775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530236:1846021201:0352/pct:43.10084776616217,42.57418021600967,13.917927913871118,9.564471478145592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ beneficent in lier dispensations. I am with great
 respect, your obedient, hum &gt;le servant.  
 George Wasbixctox.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1857032601:0468/pct:19.97129014893235,49.099216710182766,14.911178898259465,10.6266318537859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1857032601:0468/pct:19.967707212055974,49.092807727450726,14.912988876928598,10.628508027672627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ George Wasbixctox.
 notice of me in the elegant lines you enclosed.  
 However undeserving I may be of such encomi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866012301:0014/pct:19.50962695547533,124.53333333333333,16.832129963898918,1.3212121212121213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866012301:0014/pct:14.640385194101714,93.4060606060606,12.6241348179356,0.9939393939393939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ see a person so favoured by the Muses,
 and to whom Nature has been so liberal  
 and beneficent in her dispensations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1872071901:0094/pct:29.557786218122626,54.94018151815182,12.493217580032555,10.334158415841584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1872071901:0094/pct:29.566829444745885,54.94705720572057,12.493217580032555,10.330720572057206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ pily the time has long siuce passed, also,
 when there was need to construct arg u­  
 meuts to show the intellectual capaci ty o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_inman_ver01:data:sn84020151:00340583619:1883010601:0306/pct:33.390087022323115,56.841302136317395,14.774877033673855,8.06205493387589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_inman_ver01:data:sn84020151:00340583619:1883010601:0306/pct:33.383771515036884,56.8340750158932,14.776811045961793,8.064208518753974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -755,7 +755,7 @@ beneficent in her dispensations.
 “Your obedient, humble servant,  
 “George Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664484:1884082301:0207/pct:6.718423409973126,65.8879005465652,12.137951627351448,15.914692958954024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664484:1884082301:0207/pct:6.72340001990644,65.8879005465652,12.132975017418135,15.914692958954024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -802,7 +802,7 @@ and beneficent in her dispensations.
 I am, with great respect, your obedi­  
 ent serv anL George Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664496:1887010101:0112/pct:6.235328638497653,77.68463497453311,12.177230046948356,15.534804753820033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664496:1887010101:0112/pct:6.240219092331769,77.68817204301075,12.177230046948356,15.53834182229768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -848,7 +848,7 @@ and beneficent in her dispensations.
 “I am, with great respect, your obedient  
 servant, “Gbokge Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1887011301:0432/pct:52.036199095022624,59.28152944804194,14.321266968325792,15.140302189330866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1887011301:0432/pct:52.02442886224836,59.27239093571759,14.323682424790771,15.141822105749961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

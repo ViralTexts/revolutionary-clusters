@@ -47,7 +47,7 @@ can Liberty, on the most firm and solid Foundations, shall enable
 us to retarn to our privatc Stations, in the Bosom of &amp; free, peace­  
 ful, and happy Country, LR @ Wasgmc&#x27;fon.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775071101:0466/pct:64.58380329348071,80.5081328135502,28.73900293255132,9.584621588923243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775071101:0466/pct:64.58380329348071,80.5081328135502,28.73900293255132,9.59358336694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ conscience. , .
 When we assumed the . soldier we  
 did not lay aside the citizen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020515:1888022501:0895/pct:31.76086956521739,8.059274665280125,41.108695652173914,115.6375926166645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020515:1888022501:0895/pct:23.836450630709002,6.0444559989600934,30.861244019138756,86.72819446249838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ enable us to return to our private sta­
 tions in the bosom of a free, peaceful  
 and happy country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894052501:0835/pct:86.04269293924466,233.44788087056128,56.65024630541872,52.17640320733104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894052501:0835/pct:21.523926884370507,58.36197021764032,14.17128773875539,13.04410080183276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ hour when the establishment of American
 liberty upon the moat firm and aolid  
 foundations shall -enable us to return to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:42.57586705202312,123.79701327433628,16.419797687861273,5.212942477876106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:31.94795807734008,92.85121681415929,12.323816407661727,3.913163716814159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

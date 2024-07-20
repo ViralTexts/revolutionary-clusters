@@ -38,7 +38,7 @@ of Africa, constituted the whole world, almost, j
 for the Romans, and to u* they aiu scarcely&#x27;l  
 known, scarcely accessible at all.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829120201:0924/pct:65.18474609760916,112.2980122980123,19.126654811302114,7.650507650507651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829120201:0924/pct:50.52319942830892,87.03731067602511,14.828237455974682,5.9327669006280015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,7 +74,7 @@ ot&#x27;Africa, constituted the whole w orld,almost,
 for the Romans, and to ns they are scarcely  
 known, scarcely accessible at all.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829120301:0204/pct:1.4223194748358863,40.3994935996624,18.51203501094092,12.73034182022788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829120301:0204/pct:1.42200831327937,40.39381153305204,18.51345438634872,12.732067510548523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ of Africa, &lt; ouxiiutled the world, almost, for the
 Romans, and to os they are scarcely known  
 Hcaiccly accessible at all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829120701:0543/pct:68.31724716743601,35.56940017386265,14.750314729332773,10.084033613445378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829120701:0543/pct:68.30291588000838,35.564247428654205,14.752464862597021,10.086194408228307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

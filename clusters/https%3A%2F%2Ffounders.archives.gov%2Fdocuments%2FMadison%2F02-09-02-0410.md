@@ -72,7 +72,7 @@ lumber will again be permitted
 in American or other neutral  
 vessels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805052001:0003/pct:75.84838261559834,8.92391870766024,16.76920023814249,37.49348619072433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805052001:0003/pct:75.84838261559834,8.92391870766024,16.782430376397432,37.502171269758556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ may he already arrived) the importation of provifiotis
 and lumb* r wiil again be permitted in American or  
 other neutral veffeis. ATut. Ir.t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805052401:0025/pct:42.52188489476625,2.847336977246727,17.899050102439933,14.808694546841236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805052401:0025/pct:42.513966480446925,2.8469750889679717,17.901924270639356,14.811048974750042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ dy amoved&#x27; the importation of provisions and lum­
 ber will again be permitted in American cr other  
 neutral vessels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805052701:0525/pct:3.5769428718476584,63.97972531066056,22.799794132784353,17.020928711576193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805052701:0525/pct:3.57602263956779,63.96926598005558,22.800360174942114,17.022233120810856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ portation of provisions and lumber
 will again be permitted in American  
 or other neatral veflels, to the Britift
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805060401:0090/pct:60.39943828990482,85.77636152954808,16.383211109377438,1.989185013518733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805060401:0090/pct:60.39943828990482,85.77958027552465,16.383211109377438,1.9924037594953006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

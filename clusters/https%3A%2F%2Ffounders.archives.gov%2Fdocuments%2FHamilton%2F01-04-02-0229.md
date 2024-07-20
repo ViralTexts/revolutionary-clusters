@@ -181,7 +181,7 @@ these circumstances, the election of the President
 once in four years by persons immediately chosen  
 by THE PEOFL. E for that purpose.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825122201:0252/pct:53.46770353912078,7.923854848304581,14.80717346452944,5.568114217727543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825122201:0252/pct:53.45921929546176,7.922912205567452,14.810113191579394,5.571417241652788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ trate. therefore, wouldnot erosion so violent or .so
 general u r&lt; veduttr n the officers or t he government  
 as might ho expected, it ho were the solo dispeacy o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829060301:0628/pct:79.4969150450878,54.67617488894085,18.05094130675526,5.120411503390227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829060301:0628/pct:79.48434039860804,54.6697837521917,18.053358641780026,5.123709331774791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ apprehension that the discountenance of tho Senate
 might frustrate tho attempt, an 1 bring some degree  
 rrf discredit upon himself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829060501:0150/pct:4.061470911086718,46.10523757443189,17.76697506664576,9.563737999756958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829060501:0150/pct:4.0608341172781435,46.099635479951395,17.7694156998014,9.566626164439045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ sion that the discount&#x27;-im &lt;d Ihe Senate
 might frustrate ilia mo m o ami bring some  
 degree of discredit upon Ii. a sit.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829060801:0336/pct:16.27231216272312,86.60972785176607,15.110004151100041,9.119861030689057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829060801:0336/pct:16.268935463789166,86.59719206831669,15.112056443245487,9.122159502098711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ that the discountenance of the Senate might frustrate
 the attempt, and bring some degree of discredit upon  
 himself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829060801:0396/pct:62.86621955524179,18.222115730202468,18.74338157430286,8.66179465676291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829060801:0396/pct:62.85512616904888,18.219932918064206,18.74595612022822,8.664750039929723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ hc&#x27;ision that ihe discontinuance if the Se.i.te
 m ght frustrate the attempt, and bring hmdc  
 degree of discredit upon ItmeM *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829061101:0104/pct:4.062909567496724,2.0493517356754496,31.935342944517256,92.79241600446117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829061101:0104/pct:4.062022275606028,2.049066071926401,31.933828346800613,92.78296626707555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ denied by him to exbt in tho President alone, was
 Mich a displacing power as could defy the ‘discoun­  
 tenance of the Senate’—and that, therefore, tlii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830041001:0344/pct:6.62912308930008,61.581120943952804,17.683024939662108,6.430678466076696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830041001:0344/pct:6.628056628056628,61.5738555922605,17.685542685542686,6.433852446122385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ ry limn any other member of the government.&#x27; The
 Weight of Hamilton&#x27;s opinion is here set in full array  
 against the advocates of constructive power; and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830041001:0344/pct:6.516492357200322,68.99115044247787,17.795655671761867,9.52212389380531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830041001:0344/pct:6.515444015444015,68.9830108541765,17.798155298155297,9.524933144565047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ removal by a temporary appointment, amounting
 only to any ‘attempt to change,’ but that the power j  
 dented by him to exist in the President alone, was 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830041301:0130/pct:5.012771392081737,61.25951891695878,18.071519795657725,5.48773117369757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830041301:0130/pct:5.011971268954509,61.25211505922166,18.073955839318966,5.491096607847877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ rotetnporaneoas with its ratification, that it was then i
 given to, and pressed upon, our countryman for the!  
 purpose of effecting that ratification; that it wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830041301:0130/pct:4.996807151979565,67.23075063459446,18.087484035759896,13.525927716668681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830041301:0130/pct:4.996009577015164,67.2226250906454,18.089917531258312,13.528321650149062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ the «• (1i&lt;*. in I existence ol pohlu men wph the
   
 approbation o&gt; that body, which, from the g.o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830041901:0694/pct:62.26180613090307,22.571346209282215,14.623032311516155,7.394061689247621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830041901:0694/pct:62.2489128183889,22.56809338521401,14.625181196935184,7.396598933563914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ ments, is more likely to attract than to bo attracted
 “by the POWER which merely obstruct then­  
 “courso.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830042401:0392/pct:60.85133827797485,15.30093413740097,18.074814575943243,2.5304481494619844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830042401:0392/pct:60.841528292761566,15.299125088673446,18.07727443710033,2.5340900133995428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -725,7 +725,7 @@ out “bW.’iiMlityot oil times to impeachment, trial,
 lative body. What more canon enlightened and  
 “reasonable people desire?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830042401:0392/pct:60.657852305707834,59.74932008986638,18.36504353434376,7.118363485869693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830042401:0392/pct:60.64807351281638,59.742255852447386,18.36745660701811,7.121462914794671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ out “his liability at all times to impeachment, rr,aJ»
 “he subjected to the control of a branch of the fegis­  
 “lativc body. What more can an enlightened an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830042701:0146/pct:59.21637055837564,59.44364851957975,18.02030456852792,6.482808022922636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830042701:0146/pct:59.20697858842189,59.43655246508297,18.02273328046524,6.486013290358521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -811,7 +811,7 @@ After refuting some objections of that day ti nt
 tlie Senate would influence the President and assume 1  
 the control of the government, Mr. JI. says, »|f »,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830042801:0404/pct:42.50281848928974,61.0055470317479,17.81285231116122,13.855777174554467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830042801:0404/pct:42.49597423510467,60.99834788765636,17.815351583467525,13.858075682479742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ l bo right of notninalioa would produu; all the eoud
 Sorno nnnotntor to this number of the Federalist  
 has appended a noto saying, “this construction ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830042801:0404/pct:42.55113544854244,74.67248908296943,17.76453535190852,5.440811991030332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830042801:0404/pct:42.54428341384863,74.66367713004485,17.767042404723565,5.444103532373535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -863,7 +863,7 @@ has appended a noto saying, “this construction ha
 ot the legidative body. What inmr can an  
 “ enlightened and reasonable people ilesu • !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830042901:0706/pct:62.59382819015847,67.04266088214027,15.158465387823187,6.95589298626175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830042901:0706/pct:62.58077965395039,67.03296703296704,15.160516989785283,6.958502024291498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -911,7 +911,7 @@ the control of the government, Mr. II. says, “If by
 ‘from the uncontrolled agency of that magistrate. !  
 ‘The right of nomination would produce ull the good 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830043001:0147/pct:22.133884560343457,14.84459378375135,17.729368739068214,18.14472578903156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830043001:0147/pct:22.130365659777425,14.842812574994001,17.73184949655538,18.14654827613791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -967,7 +967,7 @@ Some annotator to this number of tin* Fed
 eralist lias appended a note say ing, “ this con  
 ‘ strnction tins since been rejected by the Le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830050301:0710/pct:32.32956921790046,56.867295141406814,15.098285236302802,21.2037708484409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830050301:0710/pct:32.32280995191302,56.859048723897914,15.100355425465189,21.20432134570766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,7 +1006,7 @@ offices, “ is alw ays more likely to attract, than to
 be attracted, by the power which can only obstruct  
 their course.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830080401:0229/pct:23.01749960586473,10.357339197361187,15.387040832413684,2.462891698735569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830080401:0229/pct:23.013871374527113,10.356200527704486,15.389869693148382,2.466285546760481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1163,7 +1163,7 @@ the offices of the Government as might he expected
 if he were the sole disposer of offices.—The Fedt­  
 rah.it. So. 77
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1835070201:0362/pct:65.13725490196079,87.74819826445065,15.607843137254902,6.3832916605383145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1835070201:0362/pct:65.12448539502059,87.73529411764706,15.609684375612625,6.386029411764706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,7 +1220,7 @@ er permanency of its own compoistion, will in all
 probal ility, be less subject to inconstancy than any  
 other member of the Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1841120301:0195/pct:223.24723247232473,129.8777794139302,50.40590405904059,36.99013400088352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1841120301:0195/pct:55.822107399889276,32.46944485348255,12.603801439379959,9.24753350022088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1270,7 +1270,7 @@ conferring the transcendant power of indiscrimi-
 nate removal upon the President alone, and main­  
 tains that, under the Constitution, the co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841120601:0439/pct:203.28358208955223,203.86321362140507,57.76119402985075,70.11017312920303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841120601:0439/pct:50.830378802015304,50.96580340535127,14.442993095726814,17.52754328230076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1306,7 +1306,7 @@ integrity and patriotism of General Washington, is
 proved by the history of the times, and has never been  
 denied from that moment to this. When the Senato
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842031901:0078/pct:5.728387675740353,24.137544802867385,15.794196829195334,10.259856630824373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842031901:0078/pct:5.733373217668761,24.141278375149344,15.789211287266927,10.267323775388292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1338,7 +1338,7 @@ it wus decided, by a vote of thirty-four to twenty,
 that the power of removal was vented in the President  
 alone. That thin decision, in which the country ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842031901:0325/pct:5.873443285089196,23.546998325759386,17.670817906428812,7.797177708682134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842031901:0325/pct:5.879053068551554,23.554970900103644,17.67642768989117,7.797177708682134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1363,7 +1363,7 @@ sion so violent or so general a revolution in the offcers of
 the Government, as might be expected if he were the sole  
 disposer of offices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842092601:1016/pct:130.2001876759462,125.0,37.78542383484517,11.544772620721988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842092601:1016/pct:43.39327599687255,41.66178366342435,12.593171748762053,3.8478065549435523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1452,7 +1452,7 @@ Contrast with this wise and provident view of what
 the power of removal was meant to be, the actual exer  
 cise of it by President Jackson; for instance, in the cas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1844102801:0105/pct:141.0900657131813,331.4474872103521,60.2435253189022,39.73818838399037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1844102801:0105/pct:35.265700483091784,82.84940574695351,15.057971014492754,9.933052504889424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1625,7 +1625,7 @@ laidoration and discussion, was different. In the act for es­
 tablishing the Treasury Department, the Secretary was con­  
 templated as beit&gt;K removable from ollice by the President, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856060601:0643/pct:47.81533388293487,18.583187827388375,16.042868920032976,5.512596657520579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856060601:0643/pct:47.820829898323716,18.587345140101437,16.042868920032976,5.512596657520579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1733,7 +1733,7 @@ revolution as might be expected if he were the sole disposer
 of offices.  
 These are high authorities against the right of the Pres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530820:1866041301:0037/pct:197.92353328938694,80.83901537039178,47.5609756097561,12.908817751068993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530820:1866041301:0037/pct:65.97451109646232,26.946338456797257,15.853658536585366,4.3029392503563315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1786,7 +1786,7 @@ sion so violent or so general a revolution as
 might be expected if he were the sole disposer  
 of offices
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525218:1866050801:0607/pct:3.4533793783917117,56.08327100473697,11.10014800197336,6.955871353777113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525218:1866050801:0607/pct:3.452811575139757,56.076280693007604,11.10243341006248,6.958120403838963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1813,7 +1813,7 @@ not occasion so violent or so general a
 revolution as might be expected if he  
 were the sole disposer of offices.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1866051001:0981/pct:48.70806890299184,123.49671083109423,30.28105167724388,17.418697303808024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1866051001:0981/pct:16.236022967663946,41.16557027703141,10.093683892414626,5.806232434602674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1865,7 +1865,7 @@ the writers of the Federalist, has since stood
 almost alone among our great statesmen in  
 advocating the contrary doctrine. As the Ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525218:1866051501:0633/pct:4.085345683096262,51.741854636591476,11.247105524313596,17.080200501253135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525218:1866051501:0633/pct:4.084670084339342,51.73537150732991,11.249379857780717,17.081192832978324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1891,7 +1891,7 @@ riolent nor so gencral a rerolation in the officers of the
 Gorerument as might be erpected if he teere the sole dis­  
 poser of ofices.&quot; This doctrine, that the consent o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530832:1866052601:0186/pct:200.34398034398035,39.79886718298462,49.156429156429155,22.263322159287945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530832:1866052601:0186/pct:66.78132678132678,13.266289060994875,16.385476385476384,7.4211073864293144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1919,7 +1919,7 @@ as might be expected it he were the solo dis­
 poser of offices.&quot; This doctrine, that the con­  
 sent of the Senate is necessary to &quot;displace a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:0028077618A:1866052801:0191/pct:8.11965811965812,79.50154018482218,18.963675213675213,8.61103332399888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:0028077618A:1866052801:0191/pct:6.090828138913624,59.63315597871745,14.229741763134461,6.454774572948754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1957,7 +1957,7 @@ pected it he were the sole disposer of the of­
 fices.” Our ablest statesmen have concurred  
 in the opinion, tba. this is the ouly sound in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952522A:1866112701:0596/pct:4.641693811074918,37.69478110314123,11.140065146579804,6.838980954736582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952522A:1866112701:0596/pct:4.6409379579872985,37.69011994559169,11.142322097378278,6.84122666007172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2062,7 +2062,7 @@ very purposes of the action of the Con-,
 gress of 1867, to wit! the concurrence of the Sen-  
 ate is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868030401:0475/pct:239.78073610023492,13.678696158323632,103.05403288958496,363.9115250291036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868030401:0475/pct:59.968664316490404,3.419674039580908,25.773599686643166,90.9778812572759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2084,7 +2084,7 @@ would be necessary fto displace as well as to ap­
 Mnt»..# ih ,  
 That is the doctrine vdoammon sense unde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685269:1868031201:0369/pct:23.588265219603187,49.50222687974849,11.785653722231643,3.5761068902279276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685269:1868031201:0369/pct:23.584265852831468,49.49574328749181,11.787894201424212,3.578912901113294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2258,7 +2258,7 @@ which can originate the disposition of honors and emolu-­
 ments is more likely to attract than to be attracted by  
 the power which can merely obstruct their course.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531137:1873031501:0546/pct:54.489465153970826,215.8925896047021,48.33063209076175,13.81813991010718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531137:1873031501:0546/pct:18.16315505132361,71.9641965349007,16.110210696920582,4.606046636702393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2285,7 +2285,7 @@ able him much more effectually to establish a dangerous
 of nomination subject to their control.&quot;  
 It is not questioned on the authority, either of publicist
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531137:1873031501:0546/pct:53.93841166936791,244.40474818485652,48.60615883306321,19.638123775498443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531137:1873031501:0546/pct:17.97947055645597,81.46824939495217,16.202052944354403,6.546041258499481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

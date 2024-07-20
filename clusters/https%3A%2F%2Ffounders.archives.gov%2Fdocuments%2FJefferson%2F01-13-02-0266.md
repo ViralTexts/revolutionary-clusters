@@ -119,7 +119,7 @@ plunder; but that hie table wa* served wi h the
 t-Lte thu* p-. lsged (rom private heuses can be proven  
 by many hund.ed eye witnasiss.”—Vo&#x27;. II. p. S3g
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831062801:0062/pct:22.590529247910865,27.32519422863485,14.317548746518106,7.968923418423973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831062801:0062/pct:22.587383372789304,27.322161802241705,14.320196815670984,7.971738245847668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ you of the sentiments of esteem and respect
 with which ! am, sir, your most obedient, humble  
 servant, Th. Jrkkkrson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072801:0804/pct:46.020280594527016,32.089909134385465,14.529795804972913,34.347202295552364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072801:0804/pct:46.02491086725008,32.09628566873904,14.529795804972913,34.344014028375575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ quartz were taaen out, that contained one
 half gold. The Placer Courier of March 4th,  
 sp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172078:1858042201:0374/pct:56.63393029077604,8.787793161910145,32.21644521471211,114.53800508618254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172078:1858042201:0374/pct:43.90110436772461,6.810467535311508,24.962690279574172,88.76966312639148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ have done right; but twenty-seven of them
 died of small pox and putrid fever, then  
 raging in Cornwallis&#x27;s camp, and what he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1858050701:0285/pct:98.12173421833074,116.72892478546188,36.449654003671796,10.792529025744573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1858050701:0285/pct:32.70262637672974,38.90571370886332,12.148169067118516,3.5971465105323372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ would hate done right—but twenty-seven
 of them died of small pox and putrid fe­  
 ver, then raging in Cornwallis&#x27;s camp, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1858051301:0167/pct:82.32614637109019,73.68699144034662,14.24233221986031,4.269259220120469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1858051301:0167/pct:82.32614637109019,73.69051393145233,14.252454701892905,4.276304202331889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ have done riffht—but twenty seven of them died
 of small pox and putrid fever, then raging in  
 Cornwallis s camp, and what became of the rest 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172078:1858072701:0687/pct:106.30179225284255,21.015736766809727,15.879745615725573,4.74964234620887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172078:1858072701:0687/pct:82.3956984964652,16.2909305935398,12.302100965846858,3.684677359745731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ Point of Fork, and encamped his army
 from thence all along the main of onin  
 river to a seat of mine called Elk Island
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1861041201:0342/pct:272.1325403568394,367.68612913191225,51.91163976210705,8.835341365461847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1861041201:0342/pct:68.03313508920985,91.92153228297806,12.977909940526763,2.208835341365462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ heads were entirely filled. I need not
 tell you how much easier the former was  
 to cut than the latter. The yield was d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1861041201:0342/pct:272.1325403568394,98.60982391102873,106.62701784197111,285.20234785295025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1861041201:0342/pct:68.03313508920985,24.65245597775718,26.656754460492778,71.30058696323756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -604,7 +604,7 @@ as to make it an absolute waste. He carried
 off also, about thirty slaves. Had this been to  
 gire them their freedom, he would have don
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191204:1862032701:0197/pct:76.496138996139,39.1079985256174,47.49034749034749,26.28086988573535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191204:1862032701:0197/pct:19.13095956547978,9.77699963140435,11.87688593844297,6.570217471433837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ e. He carsied aff atso abour thirty slares. Had this
 to gire them frredom, he trould hate dont riyht.  
 in estimate mado at the tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862100701:0269/pct:101.92138198484047,194.95787908820614,48.68676185439803,9.464816650148663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862100701:0269/pct:33.973793994946824,64.98595969606872,16.228920618132676,3.1549388833828873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ on the best information I could colloct, I sup­
 pose the State of Virginia lost under Lord Corn:  
 wallis&#x27;s hands, that year, about thirty thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862100901:0984/pct:222.3034734917733,51.35662351480759,100.18281535648994,332.2574924632027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862100901:0984/pct:55.601280292638315,12.839155878701897,25.057155921353452,83.06437311580068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ about thirty slaves. Had this been to
 them freedom he would have done right.  
 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775629:1862100901:0140/pct:62.32727272727273,277.96906915669683,47.345454545454544,34.549168368835716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775629:1862100901:0140/pct:15.590321993814808,69.49226728917421,11.84282335819538,8.637292092208929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ and carried oil’ all the horses capable of serv­
 I ice. He carried off alno about thirty slures.  
 Had Uli been to yicc them freedom, he woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525152:1862101101:0370/pct:16.12486147026228,62.25047853431775,12.855559660140377,4.0196882690730105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525152:1862101101:0370/pct:16.121883656509695,62.24196855775803,12.857802400738688,4.022556390977444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ From an estimate made at the time, on the
 ! State of Virginia lost under Lord Cornwallis&#x27;  
 \ hands that year about thirty thousand slaves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525152:1862101101:0370/pct:16.14333210195789,66.69401148482362,12.855559660140377,1.7363959529669128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525152:1862101101:0370/pct:16.140350877192983,66.6848940533151,12.857802400738688,1.7395762132604238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -853,7 +853,7 @@ to he tiiu fate of twenty-seven of them.
 implored that the army in the South might  
 be strengthened by enlisting negroes. Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862122201:0002/pct:65.9598423719272,9.542914457658691,10.095702758491274,5.774466255910589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862122201:0002/pct:65.9598423719272,9.546496632755408,10.105085381872772,5.7852127812007454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -882,7 +882,7 @@ able death from the small pox and putrid fever,
 then raging in his camp. Tbis I knew after­  
 wards to be tbe fate of twenty seven of tbem.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862122701:0510/pct:68.65038996269922,63.67459745253545,14.32689047134622,7.005527517423697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862122701:0510/pct:68.65604159602125,63.6826083473524,14.32689047134622,6.997516622606745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ tors
 to  
 thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1863031801:0189/pct:23.4375,72.5267879391976,15.732230392156863,34.35085970595564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1863031801:0189/pct:17.588478627240693,54.39820583104909,11.797150298759002,25.76625965611762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

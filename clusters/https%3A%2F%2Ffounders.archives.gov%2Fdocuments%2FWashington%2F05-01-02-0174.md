@@ -53,7 +53,7 @@ primarily by. tbe abilities which are most
 peculiarly adapted to the narure and  
 duties of&#x27; the office which is to be filled.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877042001:0543/pct:79.08631772268136,7.175642594859241,23.34710743801653,10.128518971848225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877042001:0543/pct:59.36135998162187,5.385556915544676,17.528141511601195,7.6040391676866586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ liarly adapted to the nature and du­
 ties of theoffice which is to be filled.”  
 He was determined to go into th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588265:1877042801:0066/pct:64.33280290975222,18.030232195730093,36.690156853830416,104.08290478416706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588265:1877042801:0066/pct:49.85905567300916,13.977455716586151,28.441390650692977,80.66425120772946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ ties which are most peculiarly adap
 ted to the nature and duties of the ofe  
 fice which is to be filled.&quot; He wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1877061301:1660/pct:243.37714863498482,27.38518895102525,136.70374115267947,342.24707676664974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1877061301:1660/pct:60.89046293953959,6.846297237756312,34.201871995952445,85.56176919166244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ which is to be tilled.&quot; He was determined
 to go into the chair of government per­  
 fectly free; and in March, 1689, he write
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290975:1877062101:0169/pct:42.266666666666666,6.940184049079755,16.36190476190476,9.624233128834355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290975:1877062101:0169/pct:42.266666666666666,6.944444444444445,16.374603174603173,9.619972733469666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ which is to be filled.&quot; He was determined
 to go into the chair of government per­  
 fectly free; and in March, 1689, he write
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1877062901:0395/pct:117.5712143928036,19.0748031496063,48.60569715142429,28.26771653543307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1877062901:0395/pct:39.1904047976012,6.358267716535433,16.20189905047476,9.42257217847769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ by the abilities which are most pecu­
 liarly adapted to the nature and duties  
 of the office which is to be filled.” H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768795:1877082201:0291/pct:35.22356928692478,5.804939606994772,14.105071046799635,7.256174508743465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768795:1877082201:0291/pct:35.22791465693304,5.804939606994772,14.105071046799635,7.256174508743465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ by the abilities Avhich are most pecu­
 liarly adapted to the nature and duties  
 of the office Avhich is to be filled.” H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769453:1877082301:0222/pct:67.51491053677933,48.138536780117775,11.968190854870775,6.72721828525801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769453:1877082301:0222/pct:67.51932847360283,48.1451908041388,11.963772918047272,6.72721828525801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ To Samuel Hanson he wrote: &quot;The
 first wish of my soul is to spend the  
 evening of my days as a private citi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081853:00296026074:1896022101:0281/pct:43.44590726960504,67.42162684712056,12.344972333524137,2.541085485430189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081853:00296026074:1896022101:0281/pct:43.44590726960504,67.42162684712056,12.351332442918018,2.5456889011646644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ first wish of my soul is to spend the
 : evening of my days as a private citizen  
 on my farm. And this was true
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767870:1897022501:0035/pct:60.625083478028586,60.675360062281044,13.102711366368371,13.57532113662904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767870:1897022501:0035/pct:60.633987801077424,60.681847670948486,13.111615689417212,13.572077332295317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

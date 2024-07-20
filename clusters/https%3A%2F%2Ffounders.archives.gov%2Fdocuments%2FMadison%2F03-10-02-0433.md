@@ -49,7 +49,7 @@ i.ncock, Macon and Daggett.
 The bill &quot;providing an additional com­  
 ensation to the District Judge of tl*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816042401:0088/pct:26.444887321784456,87.34522942461763,18.151157442894373,7.301529497450837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816042401:0088/pct:26.44083384426732,87.33727810650888,18.153484569793584,7.303899256561978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -69,7 +69,7 @@ fice of eornmissiouer of the public buildings,
 and of superiutendaiit, and for the appointment  
 of one commissioner for the pubiie buildings,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816042701:0926/pct:2.650356778797146,48.20562560620757,21.661569826707442,4.122211445198836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816042701:0926/pct:2.6496815286624202,48.19783416841765,21.662420382165607,4.125585905931793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ Representatives of the United States of Amerie
 ca in Congress assembled, That there shall be  
 appointed by the President of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816061901:0301/pct:30.2,57.03098007601059,21.86,4.572152481861108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816061901:0301/pct:30.206666666666667,57.03865791393144,21.86,4.572152481861108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ intendent,and for the appointment of one com­
 missioner for the public buildings.  
 Be it enacted by the Senate and House of Rep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816082001:0569/pct:59.918045226893305,37.87181846059491,17.01320382455608,4.190943473372176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816082001:0569/pct:59.918045226893305,37.87863300282803,17.018262761167602,4.184128931139051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ buildines.
   
 Be it enacted by the Senate and ﬁame_ o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816090401:0344/pct:72.23340040241449,40.516097913903295,21.911468812877263,5.703605450379839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816090401:0344/pct:72.2468142186452,40.52413682221954,21.92488262910798,5.699585996221713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ Buildings, and ol Superintendent, and for
 the appointment of one Commissioner for  
 the Public Buildings,” approved th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822061501:0263/pct:24.923234390992835,3.490429467588869,34.723643807574206,88.7566350329741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822061501:0263/pct:24.916858531593757,3.4898681247989707,34.721156305960605,88.74638147314249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ lic Buildings, and of Superintendent, and for
 the appeointinent of one Commissioner for the  
 Public Build_ings,” approved the twenty-nint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822081301:0545/pct:23.474858716128097,63.15581464282185,16.417910447761194,3.74468925995455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822081301:0545/pct:23.479688933970923,63.15581464282185,16.432401101289667,3.7512762243520075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -418,7 +418,7 @@ the Commonwealth, and the p. rson. .0 convicted, and, hi. or her !
 •biers, abettor* and counsellors, being thereof convicted, shall suffer  
 tlonth, by hanging by the neck, without benefit nfcloig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833042601:0456/pct:19.42466533751068,86.19435874834728,15.437197379663914,2.886734244160423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833042601:0456/pct:19.42189947315962,86.18486284014543,15.439745597797712,2.8900885020748412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ tlonth, by hanging by the neck, without benefit nfcloig
 ] simple felonious taking and carrying away  
 (of the personal goods of another, or it ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836052501:0460/pct:67.15820134716913,7.2070880719386405,15.547059894411069,1.573657762496694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836052501:0460/pct:67.17033800594696,7.2070880719386405,15.54099156502215,1.582473772370625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +526,7 @@ lors, being thereof convicted, shall suffer death,&quot; ?&amp;.c
 The second section of the above law makes it treason  
 l r any person to erect or establish, or cause or procur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843051601:0593/pct:3.713727259058788,2.27407553885703,32.05533002556007,94.37413486256673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843051601:0593/pct:3.7237508144138727,2.2806670621580647,32.05533002556007,94.37083910091623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ cted of open deed by the evidence of two sufficient and
 lawful witnesses, or their own voluntary confession, the  
 cases above rehearsed shall be judged treason, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743336:1859112501:0799/pct:5.022207037922787,133.656117146906,45.66108643662453,3.932451582427964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743336:1859112501:0799/pct:1.6740690126409292,44.552039048968666,15.22036214554151,1.3108171941426547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -941,7 +941,7 @@ Larceny is the felonious taking nnd carrying
 away of the personal goods of another. Hurg­  
 lary is tho forcible entry of a dwelling fn th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477709:1878032201:0743/pct:74.60606060606061,17.08733262234862,17.106060606060606,7.915629813959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477709:1878032201:0743/pct:55.9715065171264,12.821424339376703,12.837223401030615,5.93672236046925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

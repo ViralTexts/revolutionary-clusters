@@ -425,7 +425,7 @@ f I have, the honor to be, with the
 - highest consideration, Sir, your obe*  
 • dieut and most humlilc, servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808033001:0001/pct:6.716568885292332,10.256410256410257,63.98948007283027,84.64102564102564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808033001:0001/pct:6.723312428349855,10.256410256410257,64.00296715894531,84.65384615384616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -603,7 +603,7 @@ present nrgncx&#x27;axino; eiPher consisecmly?
 with h&#x27;si; own honor crw&#x27;uh any weii sound  
 ed sixpeczacion 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808040101:0436/pct:28.3725108549184,2.095120226308345,47.28252732444977,92.27369165487977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808040101:0436/pct:28.368263473053894,2.09493503049589,47.28043912175649,92.26848168773388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ I have the honor to he, with the highest consi­
 deration, Sir, your obedient and most humble ser­  
 vant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040501:0435/pct:4.462989840348331,4.435187454055378,17.94267053701016,62.99926488605734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040501:0435/pct:4.462180301106476,4.434644125934093,17.945462240764254,62.9956306913308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -893,7 +893,7 @@ Sir,
 Your most obedient ar.d  
 Most humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040501:0117/pct:58.63894139886578,14.655716993051168,37.75047258979206,80.16424510423246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040501:0117/pct:58.62785862785863,14.653865588681152,37.74963774963775,80.15832912245241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1044,7 +1044,7 @@ to foster, and to ameliorate.
 1 have the honor to be, with the highest conside­  
 ration, sir, your obedient and most humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040701:1070/pct:26.434108527131784,14.808840135505728,22.868217054263567,77.51250201645426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040701:1070/pct:26.427279772668562,14.806451612903226,22.868767760268664,77.50403225806451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ a! oi tiit u: ruthor z^l *ct «n admiral
 herkeky, hi c;h at tr .4 the preten­  
 sion exl.ib t d by thin dReer to ieaic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808041101:0377/pct:5.858987090367428,16.71747967479675,17.461105594174114,28.45528455284553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808041101:0377/pct:5.858017540956479,16.715780916573518,17.462353135859672,28.4549334417234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1238,7 @@ liorate.
 Wiill the higheft conluleration, Sir,  
 Y »ur •bedteiu and mutt hunibie fervan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808041101:0377/pct:5.06454816285998,4.15650406504065,36.72624958622973,88.52642276422765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808041101:0377/pct:5.063710077775939,4.156081699014328,36.72430911798775,88.51996748297937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1816,7 +1816,7 @@ I have the honor to be, - with the
 highest consideration. Sir your most  
 obedient and humble servant,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808042901:0953/pct:5.00136649357748,8.960255500354862,83.32877835474173,87.17175301632363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808042901:0953/pct:5.0,8.958665957069362,83.31284153005464,87.1607237892496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1855,7 +1855,7 @@ tion of this proclamation have unavoidably
 iehisch i oa6 B  
 terially the question of the repirationd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808050301:0069/pct:76.2850107725454,76.00602107375815,16.481994459833796,15.122930255895636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808050301:0069/pct:76.29014055606854,76.01271115571166,16.48712424335693,15.122930255895636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1966,7 +1966,7 @@ I have the honor to be, with the higheß
 consideration, fir, your obedient and molt  
 humble servant, &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808050301:0070/pct:7.466584728836995,4.293796726611436,17.422031033952987,56.69832289351384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808050301:0070/pct:7.476826957545962,4.297164410318583,17.422031033952987,56.70169057722099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2192,7 +2192,7 @@ long at the proclamation of the President
 &#x27;of the United States, o f the £JJuly  
 &#x27; 1807 shah be in force,&quot; uTc. 15*c. ttfe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051901:0154/pct:76.06630657478115,24.577139928241927,17.601043024771837,7.739620707329575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051901:0154/pct:76.05214152700187,24.573991031390136,17.60397268777157,7.742899850523169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

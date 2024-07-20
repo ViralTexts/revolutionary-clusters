@@ -53,7 +53,7 @@ It is true, that the 14. section of the Judicial Act gives to all the Courts of 
 to illue writs of prohibition to the diftria courts, when proceed  
 ing as courts of admiralty and maritraejurifiiaion, and writs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789110701:0004/pct:72.06007367526212,26.75329638830499,23.774440351374327,1.4714313013567744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789110701:0004/pct:72.06007367526212,26.76762851137015,23.795692830830262,1.4666539270017198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -72,7 +72,7 @@ proceeding as courts of admiralty and
 maritime jurisdiction, and writs of man­  
 damus, in cases warranted by the prin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789123001:0514/pct:32.01133144475921,45.97393919144671,20.53824362606232,4.25993985967257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789123001:0514/pct:32.01133144475921,45.98507628911906,20.553981743783442,4.25993985967257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ ol the United States “to issue writs of scire
 *• which maybe necessary for the exercise of  
 “ their respective jurisdictionsThis provi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808092101:0116/pct:66.9645013281816,20.549485861182518,20.18836029944458,4.932519280205655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808092101:0116/pct:66.94833413809754,20.546184738955823,20.18952197006277,4.93574297188755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ ne-exeat, and all other writs not especially
 provided fur by statute, which may be neces­  
 sary to enforce the due administration of righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn85026051:00296027029:1852030601:0324/pct:109.25394548063127,19.764569103328004,16.983500717360116,3.560528992878942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn85026051:00296027029:1852030601:0324/pct:81.95515695067265,14.823426827496004,12.753363228699552,2.674029937509083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ exercise of their respestive jurisdiction, and agresable
 to the principles and asages of law. And either of the  
 Judges of the Supreme Courts, as well as Judges of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854020801:0325/pct:2.271932890597693,77.8753709198813,47.186298497029014,20.059347181008903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854020801:0325/pct:0.7573109635325643,25.958456973293767,15.728766165676337,6.686449060336301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ corjtus shall in no case extend to prisoners
 in jail, unle.ss they are in custody under or by  
 color of the authority of the United States, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855092701:0375/pct:26.256175442824436,40.407741450582485,12.893119652970237,7.215332581736189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855092701:0375/pct:26.26420853918143,40.41400476011525,12.889103104791742,7.215332581736189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ ment of Mr. Phillips insisted that the express delega-
 tion of authority in the thirteenth section was not in­  
 tended to be exelusive, but was inserted for the purpos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1872121701:0631/pct:286.63629460895976,168.78408253500368,52.239939255884586,19.513633014001474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1872121701:0631/pct:71.69990503323837,42.19602063375092,13.067426400759734,4.8784082535003686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ merits of the Buy ward case cannot be
 reached in the pending proceeding that in  
 an application fora writ of prohibition th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182045:1891020601:0312/pct:23.11493411420205,15.874774899570578,16.2701317715959,6.7322343814932815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182045:1891020601:0312/pct:17.91404661718122,12.306315977813563,12.618788709753677,5.224548219717302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

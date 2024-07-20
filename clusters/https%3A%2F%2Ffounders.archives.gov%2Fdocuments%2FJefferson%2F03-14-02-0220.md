@@ -68,7 +68,7 @@ or from time to time may be, made. Also,
 requesting of each town, a free communi­  
 cation of their feniiments on this fubjed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1772110501:0323/pct:8.777075812274369,75.35699137565389,27.030685920577618,10.60370422734342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1772110501:0323/pct:6.802284914898578,58.40973008510172,20.96059687572861,8.214324847510866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ to Rate the rights of the colonists, and of this
 province in particular, enumerate the viola­  
 tions thereof that have been made, and for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1772112601:0334/pct:39.29509632224168,106.87655343827672,26.26970227670753,2.9964098315382492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1772112601:0334/pct:30.458632584968615,82.82799457801241,20.35853644743539,2.3257473068416923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ tain an J inevitable deftrudion.
 particular manner, dearly of opinion, that  
 the affixing stipends or salaries from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773011401:0355/pct:35.2534047778522,17.760292257973866,26.76936816253628,10.28523254180132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773011401:0355/pct:27.33302572384358,13.771324863883848,20.7348021686469,7.974591651542649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ leave to report,
 “ That, from a thorough conviction of the  
 legality, expedience and utillity of the measure 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773031801:0400/pct:7.329401853411963,55.53873675519472,25.905644481887112,10.361910004128251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773031801:0400/pct:5.680396104249415,43.04656949875578,20.07726209260569,8.027017419125489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ Colonics as men, as christians and as iubjetfls,
 and to publilh them to the world, with the in­  
 fringements and violations of them, you will fin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790072101:0001/pct:39.55648786335031,37.43336623889437,26.430925981420437,3.376110562685094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790072101:0001/pct:39.57147138148037,37.44817374136229,26.438417740485466,3.3613030602171765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ and to the world, as the sense of this
 ; tions thereof that have been or from time  
 ,to time may be made.&quot; So strong was hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899101601:0268/pct:42.96238244514107,72.70194986072423,13.746081504702195,3.8765088207985143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899101601:0268/pct:42.97283176593521,72.70968740328072,13.751306165099269,3.8765088207985143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ with the infringements and violations
 thereof that have been or from time to  
 time may be made.&quot; So strong was hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899102001:0317/pct:84.40466926070039,58.93592677345538,13.120622568093385,3.9588100686498855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899102001:0317/pct:84.41504539559014,58.9397406559878,13.115434500648508,3.9626239511823034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ with the infringements and violations
 thereof that have been cr from time to  
 I Umo may be made So strong was hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534850:1899102001:0508/pct:74.2913148371532,127.00712589073635,17.35524728588661,5.7007125890736345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534850:1899102001:0508/pct:49.547511312217196,84.67537608867775,11.568627450980392,3.8044338875692794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

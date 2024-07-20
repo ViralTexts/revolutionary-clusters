@@ -186,7 +186,7 @@ names as witnesses thereto; and said testator at
 the time he so subscribed the foregoing instrument  
 declared the same to be his last will and testament
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743713:1870091701:0849/pct:243.47755102040816,79.34695741523005,45.861224489795916,7.067016782737755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743713:1870091701:0849/pct:81.15918367346939,26.44898580507668,15.287074829931973,2.355672260912585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

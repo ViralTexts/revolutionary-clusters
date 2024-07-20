@@ -74,7 +74,7 @@ States, reciting the allegations and sugges­
 tions of the said petition, and giving a Ihort  
 description ofthe said invention or difcoverv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042001:0001/pct:7.051472775959536,41.409609272761266,19.36923534662303,10.207515423443635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042001:0001/pct:7.066349300803332,41.423630585156104,19.354358821779233,10.202841652645354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ Saturday, 20, 1795.
   
 of shall be competent evidence, in all courts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042001:0001/pct:7.259744123772687,15.96560104692466,55.63820291579887,78.33239857917367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042001:0001/pct:7.274620648616483,15.96560104692466,55.62332639095507,78.34174612077024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ thing so invented, the exclusive right of which
 shall, as aforefaid, have been lecuredtoany  
 person by patent, without the consent of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042001:0001/pct:27.848854507587028,21.574126004860723,19.78577804224933,10.188820340250514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042001:0001/pct:27.863731032430824,21.574126004860723,19.79321630467123,10.202841652645354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ intituled, &quot; An ast to promote tbe progress
 of ufeful arts,&quot; on complying with the con­  
 ditions of this ast, and paying the fees herei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042001:0001/pct:27.997619756024992,49.74761637689288,19.428741445998213,15.928210880538419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793042001:0001/pct:28.005058018446892,49.74761637689288,19.436179708420113,15.94223219293326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1741,7 +1741,7 @@ make, construct, compound and use the
 same ; and in case of any machine, he  
 shall fully explain the yrinciple and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836082401:0511/pct:34.65256246580339,65.47049441786284,14.499361663322999,9.702286018075492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836082401:0511/pct:34.664721259651046,65.47049441786284,14.505441060246824,9.711146553251817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2134,7 +2134,7 @@ nected, to make, construct, compound, and use the
 same; and in case of any wachine, he shali fully ex­  
 ain the principle and the several modes in whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836090601:0347/pct:3.3267507215555217,73.93722685736988,14.537444933920705,8.283671036948748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836090601:0347/pct:3.3267507215555217,73.93722685736988,14.547572028963492,8.290292676466693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2159,7 +2159,7 @@ two witnesses, shall be filed in the Patent Office;
 and he ghall moreover furnish a model of his inven­  
 tion, in all cases which admit of a representation b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836090601:0347/pct:3.2507975087346193,84.38617401668652,14.613398146741607,5.373460468812078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836090601:0347/pct:3.255861056256013,84.38617401668652,14.613398146741607,5.383392928088995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2398,7 +2398,7 @@ ses, shall be filed in the Patent Office ; and he
 shall moreover furnish a model of his invention,  
 in all cases which admit of a representation b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836122801:0448/pct:3.2751716247139586,17.04521556256572,39.95995423340961,109.95793901156676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836122801:0448/pct:2.460306107852954,12.786540483701367,29.98140466313832,82.47108307045215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2625,7 +2625,7 @@ enable any person skilled in the art or science of which it is a branc
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1846-01-29_1_20/page/n0/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1846-01-29_1_20/page/n0/mode/1up?view=theater)
 
 #### 1846-01-29 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2643,7 +2643,7 @@ ed, to make, construct, compound and use the same ;
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1846-01-29_1_20/page/n0/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1846-01-29_1_20/page/n0/mode/1up?view=theater)
 
 #### 1846-01-29 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2717,7 +2717,7 @@ The applicant is also to make oath or affirmation that he believes he i
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1846-10-03_2_2/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1846-10-03_2_2/page/n2/mode/1up?view=theater)
 
 #### 1846-10-03 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2741,7 +2741,7 @@ construct, compound, and use the same; and i
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1846-10-03_2_2/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1846-10-03_2_2/page/n2/mode/1up?view=theater)
 
 #### 1846-10-03 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2777,7 +2777,7 @@ except when the specification describes th
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1846-10-10_2_3/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1846-10-10_2_3/page/n2/mode/1up?view=theater)
 
 #### 1846-10-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2883,7 +2883,7 @@ make, compound, and use the same.” 1 Statutes at Large
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-03-11_3_25/page/n4/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1848-03-11_3_25/page/n4/mode/1up?view=theater)
 
 #### 1848-03-11 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2974,7 +2974,7 @@ things before known, and to enable any person skilled in me
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1851-07-05_6_42/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1851-07-05_6_42/page/n2/mode/1up?view=theater)
 
 #### 1851-07-05 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3049,7 +3049,7 @@ to make, construct, compound, and use the same.
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1853-12-24_9_15/page/n4/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1853-12-24_9_15/page/n4/mode/1up?view=theater)
 
 #### 1853-12-24 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3125,7 +3125,7 @@ accompanying the fees, specifications models, and d awings,
 must be forwarded for fileAn application for a patent,  
 signed by ihe inventor, must be made by petition to the Com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110065:1856022401:0001/pct:6.053733426378227,83.43672456575682,12.05512909979065,3.4863523573200994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110065:1856022401:0001/pct:6.058094905792045,83.43982630272953,12.05512909979065,3.4863523573200994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3272,7 +3272,7 @@ nto the merits and character of the alleged inrention,
 and &quot;if the Commissioners shall deem it  
 :o be sufficiently useful and important, it ahall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862683:1857052801:0294/pct:71.16711248768127,4.18206574596382,28.635787695339996,94.01867340984245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862683:1857052801:0294/pct:71.16711248768127,4.1853076573948,28.645173400910412,94.0251572327044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3293,7 +3293,7 @@ uectcd. to make, construct, compound, and use thi
 same; and in cast&#x27; of any machine, he shall fully ex  
 [iluin the principle, and the several modes in which I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857082501:0457/pct:68.68573264781492,36.288193134666166,15.183161953727506,3.1434678737583304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857082501:0457/pct:68.68573264781492,36.296575715662854,15.188517566409597,3.1434678737583304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3317,7 +3317,7 @@ signed by the inventor, and attested by two witnesses,
 shall be filed in the Patent Office ; and lie shall, moreover,  
 furnish a model of his invention ^iu all cases whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857082501:0457/pct:68.62146529562982,41.00339494530366,17.33611825192802,5.155287312963662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857082501:0457/pct:68.62682090831191,41.00339494530366,17.33611825192802,5.167861184458695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3347,7 +3347,7 @@ in writing, to the Commissioner of Patents, expressing
 such desire, and the Commissioner, on due proceedings  
 had may grant a patent therefore. Frovides the ppe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858021601:0382/pct:56.09120521172638,24.377605046750027,56.88925081433225,21.04314520671398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858021601:0382/pct:18.697068403908794,8.125868348916676,18.963083604777417,7.014381735571327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3391,7 +3391,7 @@ sigued by the hventor and attested by two wite
 and drawings, shall be filed in the Patent  
 omice, and hie Chall, morerver when specially re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858021601:0382/pct:56.56351791530945,44.282978483721976,54.299674267100976,40.74574743719725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858021601:0382/pct:18.854505971769814,14.760992827907327,18.09989142236699,13.581915812399084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3420,7 +3420,7 @@ it appertains, to make, construct, and use the same.”
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1861-07-20_5_3/page/n6/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1861-07-20_5_3/page/n6/mode/1up?view=theater)
 
 #### 1861-07-20 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3496,7 +3496,7 @@ a medel of his invention, in all cases which admit of a re
 presentation by model, of a convenient size to exhibit advan­  
 tageously its several parts. The applicant shall make oath o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861080301:0119/pct:226.76579925650557,332.03225429472946,49.504337050805454,36.41463129601496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861080301:0119/pct:56.71780567178057,83.00806357368236,12.381837904850457,9.10365782400374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3519,7 +3519,7 @@ drawings, signed by the inventor, and attested by tho cithesses,
 shall be filed in the Patent office; ani he shall, moreover, fur-  
 nish a model of his invention, in all cases which admit of a r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861080401:0124/pct:243.64433312460864,137.77621887057174,49.96869129618034,11.130597451186718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861080401:0124/pct:60.920620009394085,34.444054717642935,12.494128698919681,2.7826493627966795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3547,7 +3547,7 @@ science to which it appertains, or with which it is most nearly
 connecte &#x27;to muake construct compound and use the same; and  
 in case of any machive, he shall fully explain the principle an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861081301:0152/pct:239.46216385240774,112.72428755717134,49.906191369606006,17.778820218130644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861081301:0152/pct:59.865540963101935,28.181071889292834,12.476547842401501,4.444705054532661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3570,7 +3570,7 @@ rawings, signed by the inventor, and attested by two witnesses,
 shall be filed in the Patent office; and he shall, moreover, fur  
 nich a moftel of he tavention, in all cases which aimit of a r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861081301:0152/pct:239.3370856785491,135.38172862671513,50.03126954346467,12.665650287322622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861081301:0152/pct:59.834271419637275,33.84543215667878,12.507817385866167,3.1664125718306555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3611,7 +3611,7 @@ drawings, signed by the inventor, and attested by two witnesses,
 shall be filed in the Patent office; and he shall, moreover, fur-  
 nish a model of his invention, in all cases which admit of a r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861082401:0192/pct:244.66876971608832,118.36878599130333,50.5993690851735,34.128569749676814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861082401:0192/pct:61.186494162196276,29.59219649782583,12.653834017040076,8.532142437419203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3630,7 +3630,7 @@ the nature of the case admits of drawings; or with specimens of
   
 ingredients, and of the composition of matter, sumcient in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861090101:0220/pct:242.63322884012538,138.72022419430172,50.21943573667711,4.0635217188229795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861090101:0220/pct:60.66781627214297,34.68005604857543,12.556827088885406,1.0158804297057449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3668,13 +3668,13 @@ in the patent office; and lie shall moreover furnish
 a model ol his invention, in all cases which admit  
 of a tepresentation by model, ol a convenient siz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861111401:0326/pct:7.099761470464431,66.89282306795293,12.65609653430616,9.774196968090745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861111401:0326/pct:7.098765432098766,66.88573245707018,12.657828282828282,9.775810896756413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1863-04-11_8_15/page/n10/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1863-04-11_8_15/page/n10/mode/1up?view=theater)
 
 #### 1863-04-11 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3902,7 +3902,7 @@ ventor and attested by two witnesses.
 the nature of the case admits of drawings, the ap­  
 plicant shall furnish one copy signed by the invent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1870123001:0423/pct:45.15959542887167,54.45840813883902,34.41481676080389,27.927388789148214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1870123001:0423/pct:15.051221434200158,18.15099232073402,11.470098940548112,9.308201190120009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3928,7 +3928,7 @@ sioner, shall furnish specimens of ingredients and of
 the composition, sufficient in quantity for the pur­  
 pose of experiment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1870123001:0423/pct:45.711283331144095,82.16636744464392,33.66609746486274,11.320566527029722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1870123001:0423/pct:15.235093249277647,27.38605764436023,11.220558620085807,3.773145839566504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3986,7 +3986,7 @@ make, construct, compound, and use the same. The specifi
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1872-07-20_27_3/page/n8/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1872-07-20_27_3/page/n8/mode/1up?view=theater)
 
 #### 1872-07-20 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4134,13 +4134,13 @@ when application is made for a re-issue. The Com­
 missioner will then decide whether or not you are  
 entitled to a patent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00205958204:1878012701:0004/pct:6.0622811866592965,16.425687117363555,11.995577667219457,2.943858277973167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00205958204:1878012701:0004/pct:6.0714943799520915,16.432200078155528,11.99097107057306,2.950371238765143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1878-02-09_38_6/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1878-02-09_38_6/page/n2/mode/1up?view=theater)
 
 #### 1878-02-09 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4221,7 +4221,7 @@ should be observed when convenient in
 framing the specification, such portions  
 as refer to drawings being omitted whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919945:1880032501:0285/pct:83.28655627280382,46.274118429807054,11.956216671344373,8.6715457972943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919945:1880032501:0285/pct:72.87573673870334,40.48966654807723,10.465782580222658,7.594036029625796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4283,7 +4283,7 @@ should be observed when convenient in
 framing the specification, such portions  
 as refer to drawings being omitted whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588289:1880041701:0128/pct:50.20549426779148,7.30514811619212,37.594635518061864,112.95657175726201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588289:1880041701:0128/pct:38.9158982956133,5.668858427133252,29.147806649902208,87.54039897470189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4386,7 +4386,7 @@ and S3O when application is made for a re-issue.
 The Commissioner will then decide whether or not  
 you are entitled to a patent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958253:1883061701:0004/pct:5.637164891663606,39.30972078593589,11.935365405802424,3.541882109617373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958253:1883061701:0004/pct:5.637164891663606,39.31295243019648,11.953727506426736,3.545113753877973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4514,7 +4514,7 @@ Section 5. The apjjhcant shall make oath that he believes
 himself to be the original and first mventor or discoverer of  
 the art, machiue, manufacture, composition or improvemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_juliet_ver01:data:sn82015418:00202195416:1884100701:0473/pct:9.1728677733257,108.38304875540013,39.98282770463652,15.81979016663238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_juliet_ver01:data:sn82015418:00202195416:1884100701:0473/pct:6.885198969367306,81.28985805389837,30.00286286859433,11.86998559967085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4756,7 +4756,7 @@ The applicant shall make oath that he verily
 believes himself to be the original and first  
 Inventor or discoverer of the art, machine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_idyllwild_ver01:data:sn85066387:00175037548:1897050101:0009/pct:69.23530278473552,54.99064597777044,12.627081184617651,13.502806206668868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_idyllwild_ver01:data:sn85066387:00175037548:1897050101:0009/pct:69.24021413486568,54.99064597777044,12.6221698344875,13.513810938703642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

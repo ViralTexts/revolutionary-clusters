@@ -47,7 +47,7 @@ cluded from the appropriation. If we
 do not, the fundamental right to labor  
 on the earth returns to the une
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:00206535428:1893021701:0391/pct:58.78787878787879,152.65508684863525,44.696969696969695,24.946236559139784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:00206535428:1893021701:0391/pct:14.69975374123887,38.16377171215881,11.176359158931616,6.236559139784946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ do not, the fundamental right to labor
 on the earth returns to the unem­  
 ployed.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:00206535428:1893021703:0402/pct:247.03647416413375,93.10288065843622,46.12462006079027,24.82304526748971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:00206535428:1893021703:0402/pct:61.78259217027746,23.275720164609055,11.53553781832003,6.205761316872428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ it is clear that the laws of property
 have been so far extended as to violate  
 natural right.&quot;Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:0020653543A:1893041801:0544/pct:294.00299850074964,86.28072957969866,46.626686656671666,7.930214115781126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:0020653543A:1893041801:0544/pct:73.54209638102381,21.570182394924664,11.663228951809488,1.9825535289452816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ hatural right.&quot;Thomas Jefferson.
  to the fir of thi ont the e  
 celpts of the Journeymen Tailors&#x27; tnio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:0020653543A:1893041802:0554/pct:289.4815927873779,89.58830074709903,47.708489857250186,11.762835797170561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:0020653543A:1893041802:0554/pct:72.41120090208608,22.397075186774757,11.933847021236609,2.9407089492926404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ mental right to labor on the earth re­
 turns to the unemployed.&quot;  
 Upon the money question he wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473728:1896051501:0145/pct:83.92040256175663,9.79598193427815,39.066788655077765,120.24606759071796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473728:1896051501:0145/pct:62.974828375286044,7.350879925245289,29.31350114416476,90.18844416757514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ been so far extended ns to violato natu­
 ral right, The earth is given as a com­  
 mon stock for man to labor and live on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_golf_ver04:data:sn84028490:0023728947A:1897070101:0505/pct:24.470802919708028,86.24133148404994,15.967153284671532,12.552011095700417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_golf_ver04:data:sn84028490:0023728947A:1897070101:0505/pct:18.361014783719657,64.68793342579751,11.972987771491148,9.41747572815534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ natural rights. The earth is given as a
 common stock for man to labor and  
 live on.—Thomas Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065832:00415624839:1897123101:0290/pct:28.61294072065091,72.68549804027572,15.78845408756296,4.554669549939181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065832:00415624839:1897123101:0290/pct:28.61294072065091,72.68887687525341,15.78845408756296,4.56480605487228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ a common stock for man tolat&gt;or and
 I live on.-[Thomas Jefferson?  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hemlock_ver02:data:sn88085617:00211108484:1898052801:0020/pct:45.667909629304674,88.22999549617174,14.674270673393288,4.608917579942951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hemlock_ver02:data:sn88085617:00211108484:1898052801:0020/pct:45.673393288001755,88.23374868638342,14.685237990787453,4.608917579942951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

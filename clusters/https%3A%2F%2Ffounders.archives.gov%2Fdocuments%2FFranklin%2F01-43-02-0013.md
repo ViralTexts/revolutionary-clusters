@@ -627,7 +627,7 @@ vmce b.iud now cr • ti-.etn all. lint welmve
 i tseii l»y ibtiereni uiode.*-. i, as a republican  
 ; r.i r, aiwnv ikco a form well pluismt dotn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817042201:0462/pct:20.386758439855786,40.82974955729826,15.044247787610619,10.66278775613458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817042201:0462/pct:20.38341799115189,40.82458581004173,15.047244524550768,10.665654904936554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ i rights, entail them, if such a thing be
 &gt; deira tliese six months.  
 I From the Savnnah Gazette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817042301:0691/pct:24.84676007005254,5.700620475698035,53.74343257443082,89.74922440537746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817042301:0691/pct:24.841321952287153,5.69988367584335,53.73896549208434,89.74193270432123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1127,7 +1127,7 @@ proud, sud favors the humble. May we nev­
 er forget his goodness 1o us, und may our fu­  
 tyre conduct manifest our graticude !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817071601:0520/pct:48.79668049792531,31.528476201613845,22.904564315352697,50.052625423927026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817071601:0520/pct:48.810511756569845,31.528476201613845,22.911479944674966,50.056523603477174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1200,7 +1200,7 @@ ually pestured by the o te and QT:O that arfe
 not easy (0 be corrected. And L ihink they  
 .were tru.«hhﬂ‘w:&quot;ﬁﬂl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817071601:0520/pct:48.941908713692946,9.577827154718745,46.92946058091286,86.86703309554439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817071601:0520/pct:48.941908713692946,9.577827154718745,46.95020746887967,86.87093127509453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1350,7 +1350,7 @@ goodnese to us, and may our future conduct manifest
 our gratitude!  
 If this sounds like Atheism, I should like to know wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531319:1878020901:0287/pct:246.40194489465154,189.23236037692485,47.40680713128039,33.084348425649274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531319:1878020901:0287/pct:82.13398163155051,63.07745345897495,15.80226904376013,11.028116141883093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1407,7 +1407,7 @@ Let mo close this notice of Frank­
 lin’s religious convictions and habits  
 with a quotation from his speech i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1878071101:0109/pct:83.19171534784918,47.61523046092184,10.594795539033457,11.082164328657315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1878071101:0109/pct:83.19171534784918,47.62191048764195,10.603646663126217,11.078824315297261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1441,7 +1441,7 @@ future conduct manifest our gratitude.&quot;
 Let me close this notice of Franklin&#x27;s  
 religious convictions and habits with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1878102301:2227/pct:22.615219721329048,179.48897444872244,70.84673097534834,46.202310115505774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1878102301:2227/pct:5.655320289466631,44.87224361218061,17.716429911551863,11.550577528876444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1476,7 +1476,7 @@ future &#x27;conduct manifet our gratimde.&quot;
 I-et tne close this notice of Franklin&#x27;s  
 religious coiivictious and habits with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775216:1878121301:0062/pct:79.4078509647372,52.29279058361942,14.687292082501664,11.414909269249632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775216:1878121301:0062/pct:59.59394241970378,39.222658165767534,11.016808121151605,8.570377636096126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1511,7 +1511,7 @@ tuiure conduct manliest our gratitude.
 Let me close this notice of Franklin&#x27;i  
 religious convictions and habits wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1879041701:0451/pct:60.89230769230769,55.47677261613692,12.753846153846155,10.464547677261614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1879041701:0451/pct:45.69098184056633,41.613691931540345,9.572176054170514,7.84841075794621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

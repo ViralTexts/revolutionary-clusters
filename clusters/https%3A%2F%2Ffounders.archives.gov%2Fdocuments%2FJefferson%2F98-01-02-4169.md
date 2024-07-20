@@ -81,7 +81,7 @@ I presume, in re-visiting our maritime States, the
 names, of things more changed than the things  
 themse ves. TH JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828080501:0535/pct:49.07074340527578,68.66215512753774,15.99220623501199,5.601249349297241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828080501:0535/pct:49.07074340527578,68.6656255422523,16.002198241406873,5.6047197640118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ presume, in revisiting our maritime States, the
 names of things more changed than the things  
 themsolves.® &#x27;lg;f.l ETFFERSON,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829021001:0022/pct:78.11241985984792,77.81868842670913,15.774563888474727,4.786545924967658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829021001:0022/pct:78.11738979175985,77.82200550635221,15.77953382038666,4.796497163896905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ ed thej views;-—and that they are as sirong,
   
 nearly, as they ever were.”” If this be a fhct, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831032201:0465/pct:45.78978799641684,7.1977913626503645,32.532099134069874,82.62670084795899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831032201:0465/pct:45.799741216283465,7.2043646880957075,32.5420523539365,82.62341418523631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ into a form to bo&#x27; willingly swallowed, and
 that a great deal of indulgence is necessary  
 to strengthen habits of harmony and fraterni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837112401:0150/pct:2.0139813581890813,18.31475488433417,15.196404793608522,6.316672659714731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837112401:0150/pct:2.0250776742121617,18.31475488433417,15.207501109631602,6.328658755843222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ T a&#x27;form to he willingly .wallowed, and
 S a tea. .leal of indulgence i. &quot;pessary  
 !o strengthen habits of harmony and fraterui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837112801:0154/pct:0.9993337774816788,11.237162646286123,15.706195869420386,4.645330785765465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837112801:0154/pct:1.0048856318010215,11.245123795876124,15.706195869420386,4.641350210970464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ into a form to be willingly swallowed, and
 that a great deal of indulgence is necessary  
 to strengthen habits of harmony and fraterni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837120101:0157/pct:65.73997003495921,10.572109654350417,15.798235392042617,6.114421930870083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837120101:0157/pct:65.75106819821319,10.576082638061184,15.798235392042617,6.114421930870083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ to strengthen habits of harmony and fraterni­
 ty.&quot;?lb. p. 392.  
 ? 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837120501:0161/pct:65.72801060129203,10.572687224669604,15.603776710286565,7.036551970472675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837120501:0161/pct:65.72801060129203,10.580624677540976,15.609298216553476,7.036551970472675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ f be willingly swallowed, and that a great deal of indul­
 gence is nsceisary to strengthen habit of harmony and  
 fraternity.&quot; lb. p. 3Di.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058213:00271744730:1837120901:0681/pct:19.54863318499682,19.810340348142375,20.93134138588684,5.20914523252793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058213:00271744730:1837120901:0681/pct:14.676419144538082,14.861002857885165,15.709969788519638,3.910106521174331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ Quincy Adams was President, he says, that
 is now changed, their principles remain the same.&quot;  
 and that they
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061201:0023/pct:187.3083475298126,63.0071599045346,122.65758091993186,312.34030605082125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061201:0023/pct:46.85702109524824,15.75178997613365,30.683997443000212,78.08507651270531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ equally strong in your (&gt;?wer* ami purposes, I piay you to
 accept the aaauranoe W my cordial rateefli and mpMU.  
 THi JEFFERSO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850080401:0869/pct:51.94889212356461,4.749307130259512,31.538088306647257,91.58478206097254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850080401:0869/pct:51.94889212356461,4.757705551356345,31.538088306647257,91.58478206097254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ their own Species for the
 ice of the  
 old monarchs of the political forest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1852030601:0605/pct:1.4425936942296251,58.61212909327344,21.594289113622843,17.70894904835087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1852030601:0605/pct:1.0859863135971437,43.96500768412342,16.200535554894376,13.287622650431492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ babii* of harmony and fiaierriily &quot; Tbe?e were the ripe
 couu?els of Mr. Jetiereon, and he gave them to Edward  
 L fibgiton, m connexion with one of ihose great politi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854020701:0197/pct:0.04984216647283602,24.11704047434906,15.417843495597275,5.968032998195411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854020701:0197/pct:0.04984216647283602,24.125633754404056,15.423381514094258,5.968032998195411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ Much more may we deny their discipleship,
 if we find their measures connected with  
 intolerance in religion, proscription o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:226.05519480519482,254.6448087431694,50.97402597402598,13.050466088074574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:56.54822335025381,63.66120218579235,12.751269035532994,3.2626165220186434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +751,7 @@ have a doubt relative to any power, we ought
 not to exercise it. &#x27; Much more may we deny  
 their discipleship, if we find their measures con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1857081401:0498/pct:33.206771080525236,75.27653565544834,14.63376048093656,4.648152506472111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1857081401:0498/pct:33.21204450772557,75.27653565544834,14.649580762537573,4.652074998038755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -809,7 +809,7 @@ the mere exertion of the coercive powce­
 ers consided to the General Gopernmens.&quot;  
 In the same address, while liscussing th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1861070301:0204/pct:156.60006055101422,158.84170767998168,69.3006357856494,33.5355385143642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1861070301:0204/pct:52.20002018367141,52.94723589332723,23.100211928549804,11.1785128381214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ and tbal a great ce.nl of indulgence is neces&#x27;
 sary to strengthen habits of bann.gny and  
 fraternity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861070601:0115/pct:32.27836720014386,64.82511923688395,14.673619852544507,5.9353471118177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861070601:0115/pct:32.28286279446143,64.82843137254902,14.678115446862074,5.94528351881293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -972,7 +972,7 @@ to Edward Livingston ten years later:
 be the primitive model of what is to change  
 the condition of man over the globe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740517:1898052201:0207/pct:31.967324710687542,46.590793618534704,12.539142273655548,1.5852047556142668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740517:1898052201:0207/pct:31.967324710687542,46.5975679978322,12.543680508282279,1.5852047556142668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

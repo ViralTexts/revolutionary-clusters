@@ -616,7 +616,7 @@ for “ omitting the averment of any matter,
 without proving which, the jury ought not to  
 have given any such verdict.” In this case
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809052601:0025/pct:6.5381844380403455,34.947342936690475,17.128962536023053,2.203123108582496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809052601:0025/pct:6.537007023230686,34.943113047688215,17.13188066510595,2.206890986847414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1362,7 +1362,7 @@ Record of notices,
 out proving which the jury ought not to have given such verdict.  
 10. For any mistake iu the namei of any jiarty of person, or i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1850010901:0147/pct:52.80074686583089,53.76425855513308,24.353160842891437,5.2906029331884845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1850010901:0147/pct:52.80074686583089,53.771500995835595,24.366497732728728,5.283360492485968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1672,7 +1672,7 @@ are mutual debts between the testator it
 intestate and either party, one debt may  
 be set against the other. &quot; By the statut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871021601:0162/pct:50.5625,100.28500178126113,13.71875,2.291889324308277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871021601:0162/pct:37.92780121894046,75.21672010450065,10.298484138146586,1.7218857617860113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1841,7 +1841,7 @@ fect, and in case the judgment of the Ap
 pellate court shall be against him, that  
 he shall perform its judgment, sentenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535647:1888040701:0098/pct:165.19933554817277,316.51034688104806,54.56810631229236,12.37159446181331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535647:1888040701:0098/pct:41.308411214953274,79.12758672026202,13.644859813084112,3.0928986154533273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

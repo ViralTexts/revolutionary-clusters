@@ -55,7 +55,7 @@ I salu e you, venerable patiiot and general, wiih
 alTw-iftion and r.ve.ence  
 Tl!. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806071601:0238/pct:60.003715400334386,31.009738595592005,17.57384358164592,12.134802665299846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806071601:0238/pct:59.992570579494796,31.005765534913518,17.57677067855374,12.137518684603886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ has not lived in vain for his country­
 rence.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806071801:0003/pct:40.576881370635434,43.07587149692413,19.17154630232054,19.097744360902254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806071801:0003/pct:40.576881370635434,43.08042834358624,19.1932335718933,19.093187514240146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ has not lived in vain for his country.
 general, with :ff:&amp;ion audreﬁw}.  
 ST TUTH | JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806072901:0330/pct:25.381976925475524,63.29177057356608,16.744621141253507,19.4214463840399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806072901:0330/pct:25.38717389044798,63.29177057356608,16.744621141253507,19.43142144638404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

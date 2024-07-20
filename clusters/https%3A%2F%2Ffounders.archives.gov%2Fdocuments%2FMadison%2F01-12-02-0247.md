@@ -131,7 +131,7 @@ aiidfaualuy form thebafisof tbe fyftera; and perhaps the Aruffture
 ran reu on no other foundation that the wiidom of ma# can devise.  
 In a federal republic, give me lesve to fay, it is even more necef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091601:0001/pct:4.9911920140927775,60.601446516939475,24.838520258367588,8.203273696231443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091601:0001/pct:4.9911920140927775,60.606204796345644,24.86788021139166,8.203273696231443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ tkfe cottimuhfty *hny be drawn to it, tjfae obfcrva­
 pftAioh of tTfi&#x27;s feritiment fuljy exemplified in what has taken  
 place m the fevenrt State*. In every irrftontr where the Teat of go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091601:0001/pct:5.079271873165003,73.63913208983631,25.044039929536112,8.241339931480777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091601:0001/pct:5.09395184967704,73.64389036924248,25.036699941280094,8.25085649029311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ far as is convenient, and approach that point *rhich will most ac­
 cotfunodate the western country; and in doing this we (hall still  
 stop (hort of that geographical centre, whose circle would embrac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091601:0001/pct:30.504991192014092,13.589645984012181,26.39459776864357,62.12409592691283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091601:0001/pct:30.512331180270113,13.599162542824514,26.39459776864357,62.11457936810049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ ference, it is more likely to be in favor of the Patowmac than the
 Sufquehanna. The position contemplated on the banks of the  
 former is considerably farther from tide water than the place pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091601:0001/pct:31.268349970640045,11.952797868290826,52.96535525543159,81.04301484583175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091601:0001/pct:31.275689958896066,11.957556147696993,52.994715208455666,81.04301484583175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ I do not know that there isa different of more than a degree and
 five or fix minutes between the latitudeof New-York and the pro­  
 posed place on the Patowmac. The advantage the Patowmac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091601:0002/pct:20.331712896768657,5.582015622023243,25.050042893909065,10.668698799771384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091601:0002/pct:20.331712896768657,5.582015622023243,25.06434086359737,10.682987235663935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ mylelt that the considerations which have been suggested will
 have their proper weight, and if they (hould becontradiaed, that  
 we (hall he able further to support them. [Daily AJv 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091601:0002/pct:20.331712896768657,16.70794437035626,24.93565913640263,3.3530196227852924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091601:0002/pct:20.331712896768657,16.717469994284624,24.95710609093509,3.3530196227852924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ I hese, too. Were the lavorite doctrines of Mr. Jefferson
 lification and secession. I.rt ms see what were the mea­  
 sures tor redress and security, which he considered th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833020701:0347/pct:18.540517607127704,4.78922975060693,15.47164474614623,4.469212094460384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833020701:0347/pct:18.53789592760181,4.788701313031005,15.474170437405732,4.472396925227114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ ble to promulgate out laws by some instantaneous
 operation, it would be ol less consequence wheie  
 the government might be placed”—a contingen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847062601:0060/pct:37.4626270679689,51.26321570781271,14.520629858481165,2.0939173417547714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847062601:0060/pct:37.45889387144992,51.259696574449094,14.522504567347617,2.0960618750143016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ more liable to invasion on that quarter, Government
 should be near to protect it.  
 It is the interest of the back country to hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851052101:0559/pct:70.73654390934844,42.88192436683243,14.63172804532578,6.915693304036082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851052101:0559/pct:70.74126534466478,42.88963416984696,14.636449480642115,6.919548205543348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ sible to promulgate our laws by some instanta­
 neous operation, it would he of less conse-1  
 quence where the Government might be placed” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851052201:0060/pct:59.36055833254739,48.47401704701677,12.600207488446665,1.89029419851526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851052201:0060/pct:59.35496039230479,48.470685270465324,12.602162705897145,1.892455380667629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -805,7 +805,7 @@ taneous operation, it would be of less conse­
 quence where the Government might Ik; placed&quot;  
 ?a contingency which now seems to be sup
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014594:00415661046:1851052601:0248/pct:63.48947282519993,33.58044712151048,15.65203198955443,2.76844665817213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014594:00415661046:1851052601:0248/pct:63.50035362602688,33.58430827445075,15.641151188727491,2.772307811112398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -870,7 +870,7 @@ they will be united with their Atlantic brethren
 ou any other principle than that of equality and  
 Justice. We had every inducement, both of inter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869101901:0002/pct:50.48377916903814,58.56477765291379,8.916714095996964,11.045111574891635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869101901:0002/pct:50.48377916903814,58.57280462353508,8.921457029026751,11.053138545512924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -893,7 +893,7 @@ Potomac, Uatareweonooamgawai of govern­
 £.cut for tte present moment only 7 lie pro­  
 anmed no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869101901:0002/pct:50.6924682223487,69.97912987638465,8.745968506924683,3.1626264247872853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869101901:0002/pct:50.70669702143806,69.98715684700593,8.741225573894896,3.166639910097929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -969,7 +969,7 @@ equal inducements to look to the centre in order to find the
 proper seat of government. This equal attention has not  
 been and cannot be given to the interests and rights of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869102201:0277/pct:149.244135534318,144.9021752339288,45.78627280625543,6.343419613561793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869102201:0277/pct:49.748045178106,48.30072507797626,15.262090935418477,2.114473204520598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ long as the capital is located in an inconve­
 nient section of the nation.  
 Resolved, That the vast and fertile regio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053571:00237289006:1869102201:0393/pct:292.2641509433962,150.36445678583826,44.15094339622642,13.745227351614023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053571:00237289006:1869102201:0393/pct:73.11777200849657,37.591114196459564,11.045551097474629,3.4363068379035058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ cannot be given to the interests and rights
 of the people as long as the Capital is loca  
 ted in ansinconventente section of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022160:1869102201:0537/pct:160.33898305084745,218.47002067539628,43.559322033898304,12.9565816678153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022160:1869102201:0537/pct:40.09040824975279,54.61750516884907,10.891368837406413,3.239145416953825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1046,7 +1046,7 @@ long as the capital is located in an in­
 convenient section of the nation.  
 uesolced, That the vast and fertile re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566509A:1869102201:0394/pct:2.8048420431059937,71.79357193551658,12.164157071154413,6.154314103214032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566509A:1869102201:0394/pct:2.8048420431059937,71.79357193551658,12.164157071154413,6.157693737537598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1113,7 +1113,7 @@ Potomac. But are we choosing a seat
 of Government for the present mo­  
 ment only? He presumed not!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293009:1869102401:0499/pct:25.93471810089021,289.84293193717275,37.50741839762611,73.96858638743456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293009:1869102401:0499/pct:6.484641638225256,72.46073298429319,9.378246030568334,18.49214659685864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1140,7 +1140,7 @@ long as the capital is located in an in­
 convenient section of the union.  
 Resolved, That the vast and fertil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074143:00280761461:1869102501:0970/pct:237.12465878070972,94.17867435158502,69.60873521383076,27.377521613832855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074143:00280761461:1869102501:0970/pct:59.32164807648532,23.544668587896254,17.414067835192352,6.844380403458214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1210,7 +1210,7 @@ Potomac. But are we choosing a seat
 of Government for the present mo­  
 ment only? He presumed not!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293009:1869102501:0505/pct:99.64539007092199,296.7092852651436,37.35224586288416,73.98868161810941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293009:1869102501:0505/pct:24.915028816314468,74.1773213162859,9.33944140682725,18.497170404527353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1267,7 +1267,7 @@ seat ot Government. This equal at
 tention has not been, and can not b  
 given to the interests and rights of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028824:1869102801:0394/pct:81.74176193678548,33.67469078334885,14.946200403496974,7.740391009442745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028824:1869102801:0394/pct:61.33535149680458,25.256018087511638,11.217625294315507,5.811943077536906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1290,7 +1290,7 @@ and rights of the people so long as the Capital is
 located in an inconvenient section of the Union.  
 Resolved, That the vast and fertile region know
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:0041421552A:1869102901:0589/pct:57.1602867164862,83.9403399236906,12.200701540338569,3.272054572782981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:0041421552A:1869102901:0589/pct:57.1602867164862,83.9403399236906,12.205785165980377,3.2759085828804873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1325,7 +1325,7 @@ accessible to all.”
 In 1814 the subject of a removal  
 of the capitol came upon a resolutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159361:1869110201:0722/pct:40.738786279683374,12.048437977002138,10.659630606860159,10.328686272514501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159361:1869110201:0722/pct:40.743183817062445,12.051829992198366,10.65523306948109,10.335470302906957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1347,7 +1347,7 @@ der to find the proper seat of Govern­
 ment. This equal atteution has not  
 been and can uot be given to the .in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283636:1869110401:0028/pct:65.3395061728395,68.43668329769541,14.197530864197532,4.953670705630791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283636:1869110401:0028/pct:49.01991048001235,51.33048229983369,10.649791634511498,3.718222855785222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1367,7 +1367,7 @@ diivemenls to took to the centre In order to find
 the jroper seat of government. This equal atte  
 tion nas not been, and cannot be, given to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086770:00271769799:1869110401:0679/pct:47.41340530814215,91.89042582045023,17.341430499325234,2.644426362896664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086770:00271769799:1869110401:0679/pct:45.05698005698006,87.30138280511896,16.488603988603987,2.5165335394657733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1393,7 +1393,7 @@ people so long as the Capital is located in an in­
 convenient section of the Union.  
 Resotved, That the vast and fertile regio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471501:1869110601:1161/pct:96.96223316912972,259.9788247750132,69.6223316912972,25.463208046585496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471501:1869110601:1161/pct:24.25549394126104,64.9947061937533,17.416307249948655,6.365802011646374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1424,7 +1424,7 @@ in order to find the proper seat of government.&quot;
 This equal atteution has not been and cannot be  
 given to the interests and rights of the people s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152615:1869112001:0202/pct:27.9383429672447,34.534494306764906,15.87989723827874,9.765572672471533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152615:1869112001:0202/pct:20.96385542168675,25.907568653717348,11.919678714859439,7.327528466175486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1507,7 +1507,7 @@ the effects of legislative power on the aagregate come
 ints to look to the  
 in order to find the proper seat of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870013101:0220/pct:8.291334742318321,75.86326365631135,47.71581856608682,5.023674789236632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870013101:0220/pct:2.763778247439441,25.287754552103785,15.905272855362272,1.6745582630788776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1537,7 +1537,7 @@ Washington. The capital should be located
 in a manner to Impress the representatives  
 of foreign powers who visit it with a con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870020401:0002/pct:21.282798833819243,56.13636363636363,9.154518950437318,6.363636363636363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870020401:0002/pct:21.282798833819243,56.140422077922075,9.159378036929057,6.367694805194805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1595,7 +1595,7 @@ ent center of population is nearer the Susquehanna than
 the Potomac. But are we choosing a seat of Government  
 for the present moment only? He presumed not!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531071:1871012801:0194/pct:55.79162732137237,120.35516093229745,49.18161787850173,51.74250832408435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531071:1871012801:0194/pct:18.597209107124122,40.11838697743248,16.393872626167244,17.247502774694784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1719,7 +1719,7 @@ where the seat of government might lie
 placed.&quot; That condition, though not  
 prophesied by Madison, and prohabiy no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014023:1889050401:0167/pct:35.25744631724775,29.459927570461346,13.853613484183791,3.8734057628719887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014023:1889050401:0167/pct:35.24930747922438,29.45528967254408,13.8561865189289,3.8767317380352644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

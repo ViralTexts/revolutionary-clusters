@@ -95,7 +95,7 @@ between g&#x27;-ods Imported into the United S ates
 in foreign vessels and in vessels of the Uni  
 ted ^tatea ; the bill supple nectary to the ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815030101:0379/pct:22.58887876025524,88.54848672019766,17.3746581586144,5.188387893761581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815030101:0379/pct:22.584761210353626,88.53754940711462,17.377567140600316,5.191864295125165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ sels ol the United States, and between goods
 imported into the United States in foreign  
 vessels and vessels of the United States, wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815030101:0379/pct:40.820419325433,24.60778258184064,17.3746581586144,3.9407041383570105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815030101:0379/pct:40.81297849070361,24.604743083003953,17.377567140600316,3.94433465085639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ tween goods, imported into the U.
 8. in foreign vessels, and of the U.  
 States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815030701:0112/pct:63.26203986614288,34.34163701067616,18.739997090062563,7.775800711743773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815030701:0112/pct:63.25283677625836,34.33858197669247,18.742120065948985,7.778074311300893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ United States, and between goods impor^.
 ed Into the United States in toreign vessels,  
 and of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815031101:0072/pct:5.431602048280907,39.931826789546776,17.062911485003657,5.58010352228254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815031101:0072/pct:5.430608886450905,39.92678616510982,17.065886511854696,5.583606833291256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ into the United States in foreign vessels
 and vessels of the United States.  
 Be it enacted by the Senate and House of Re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815032501:0090/pct:24.452283698477533,48.83926318445622,17.34125510582993,16.94423416603583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815032501:0090/pct:24.44774457026174,48.83310205626341,17.344223748530414,16.94630166939994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ impos s a di.eliminating doty on tonnage be­
 tween foreign vessels, and vessels of the United  
 States, and oelwei-n goods imported into the U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816021701:0812/pct:2.948717948717949,66.43581897245933,22.128205128205128,6.007408600418747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816021701:0812/pct:2.9479620610099975,66.42512077294685,22.128941297103307,6.010466988727858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ ehandise, imported into the United States, a*
 imposes a discriminating duty on tonnage between  
 foreign vessels, and vessels of the United State*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816022101:0065/pct:75.40713632204941,35.090976606015595,17.017383348581884,4.344597103601931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816022101:0065/pct:75.39334065129894,35.086633663366335,17.020368337602147,4.348184818481848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ vessels of the U. 8. and between goods imported
 into&#x27;the United States in foreign vessels, and in  
 vessels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816042301:0501/pct:23.748876236140244,61.18476430976431,17.06622715013485,12.457912457912458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816042301:0501/pct:23.75886524822695,61.19177890011223,17.0612326440915,12.46141975308642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ States, as imposes a discriminating duty on
 tonnage between foreign vessels, and ves­  
 sels ot the United States, and betwee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816042701:0303/pct:65.0648486863984,37.12337259764414,15.014965081476555,4.972101673899566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816042701:0303/pct:65.05403158769742,37.11877014629308,15.018010529232475,4.975617819654517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ force as to the discriminating duties established
 by this act, on the tonnage of foreign vessels,  
 and the goods, waroa, cad merchandise therei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816050901:0946/pct:25.83185166370333,22.02333386607,21.488442976885953,11.842736135528208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816050901:0946/pct:25.825292026409343,22.0198146372643,21.48933468765871,11.844838606583574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -776,7 +776,7 @@ States,” shall apply and be in full force as to the
 discriéﬁz‘mti:}g “duties established by thi¥ act  
 on the tonuage- of foreign vessels, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816051401:0513/pct:60.79510703363914,59.127146361406375,17.599388379204893,6.142681929681112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816051401:0513/pct:60.80020387359837,59.13396020714091,17.60448521916412,6.13586808394658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -808,7 +808,7 @@ tablished by this act on the tonnage of foreign
 vossels, and the grods, wares, und merchan­  
 dise therein imported
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816051501:0281/pct:26.607947562474397,14.354819204256863,22.347398607128227,12.238481073890433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816051501:0281/pct:26.61477536528745,14.35885032450518,22.35422640994128,12.246543314387068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -923,7 +923,7 @@ and be in full force as to the disciimiuat­
 i::g duties established by this act on the ton­  
 nage of foreign vessels,&#x27; &amp; the gnvds, ware
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816081401:0260/pct:44.733536694778394,20.56299347751459,16.920868472994798,8.170271198077582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816081401:0260/pct:44.72551130247578,20.560640732265448,16.923812941035763,8.173150266971778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1070,7 +1070,7 @@ in the ports of the United States, as imposes a
 .discriminating duty between foreign vessels and  
 vessels of the U: States, is hereby repealed, s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818081101:0301/pct:5.946882217090069,65.41383052185064,16.830254041570438,8.286475288546907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818081101:0301/pct:5.956505003849115,65.41711880569531,16.839876828329484,8.283187004702246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1316,7 +1316,7 @@ ships and vessels, and on goods, wares, and
 merchandize, imported into the United States  
 as imposed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820051601:0079/pct:23.92872920041231,84.10214999495307,17.155058165218673,3.270414858181084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820051601:0079/pct:23.93363765768419,84.10551461929276,17.15996662249055,3.2737794825207764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1357,7 +1357,7 @@ nating duty on tonnage between foreign
 vessels and vessels of the United States  
 and between the goods imported int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216286:1820051701:0163/pct:62.837236881114734,31.363595666577133,18.781500148235992,11.84528605962933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216286:1820051701:0163/pct:62.82792352156514,31.36078782452999,18.783656933945952,11.847209788122948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1389,7 +1389,7 @@ between foreign vessels, ami vessels ot the U.
 .•slate*, and between the goods imported into  
 the United States,&quot; in foreign vessels, in \es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820051901:0021/pct:2.359195879714238,17.124608339358883,14.96926399734175,3.6273800915883347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820051901:0021/pct:2.3588039867109636,17.122544884925894,14.972314507198227,3.6309595533598427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1419,7 +1419,7 @@ States, and between the goodé imported in­
 to the United States in foreign vessels, and  
 vessels of the United States,”” to Frenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820052301:0082/pct:58.65059532559165,59.67285945072698,16.86020873144201,10.6421647819063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820052301:0082/pct:58.66039492380813,59.67622509423802,16.850409133225536,10.652261712439419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1461,7 +1461,7 @@ France shall accede to the provisions of the nct
 above referred to. y  
 ‘Sec. 2. And be it further enacted, That th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820053001:0085/pct:4.324552753909002,81.77880450476465,16.692491900267644,9.538935412455482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820053001:0085/pct:4.324552753909002,81.77880450476465,16.70188289430436,9.551769499791446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1499,7 +1499,7 @@ vessels of the United Slates, ami be­
 tween the goods imported into the Uni­  
 ted Slates in foreign vrsse.h, and vessel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820053101:0053/pct:74.96320824135394,47.443860487338746,18.027961736571008,15.73100812231247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820053101:0053/pct:74.96934020112828,47.443860487338746,18.027961736571008,15.742952699474438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1624,7 +1624,7 @@ ships and vessels, and the goods import­
 ed therein, whenever the government of  
 France shall accede to the provisions o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820062001:0199/pct:75.14511873350924,75.21537442014579,18.100263852242744,12.35917826375083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820062001:0199/pct:75.12529675547349,75.20291535530893,18.102083882880507,12.361272155043896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1720,7 +1720,7 @@ Uniced States, and beiween goods imporied
 into the United States in foreign vessels, and  
 vessels of the United Sintes, were
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1821090501:0143/pct:9.475728155339805,15.241075567918406,21.184466019417474,5.111265646731572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1821090501:0143/pct:9.482200647249192,15.241075567918406,21.19093851132686,5.111265646731572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1767,7 +1767,7 @@ of vessels in the ports of the United States, as
 imposes a discriminating daty between for­  
 eigo vessels and vessels of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824012901:0630/pct:4.1913875598086126,34.952017574286046,20.880382775119617,1.9539831194357729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824012901:0630/pct:4.1913875598086126,34.95972559448106,20.88676236044657,1.94627509924076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

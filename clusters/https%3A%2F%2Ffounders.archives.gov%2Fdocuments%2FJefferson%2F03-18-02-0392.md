@@ -371,7 +371,7 @@ life brood uvei the aillicting evidence that
 1 had lived and labored in vain.  
 THUS. JKFFKRSn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822062101:0064/pct:42.048466489965925,3.7187977585328578,53.483528966300646,89.49312277126846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822062101:0064/pct:42.040507287526026,3.7183242073093083,53.47971480850527,89.48597139097585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1193,7 +1193,7 @@ the affli®ing evidence that I had lived and
 labored in vain.  
 o ek DI JEFEERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822071601:0530/pct:3.936039360393604,3.2803796162574788,54.474169741697416,91.37610893336084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822071601:0530/pct:3.946289462894629,3.2803796162574788,54.47929479294793,91.37954748641772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -285,7 +285,7 @@ Virginia had {ounis to be (aved as well as
 gt&quot;ne people of Eungland, Souls ! said he,  
 1 dumn your fouls I mare tobacco !—( Frank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822031901:0464/pct:3.836120914531226,3.550478542760111,36.212981433174775,91.53030770814037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822031901:0464/pct:3.841235742417268,3.550478542760111,36.223211088946854,91.53373812219135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ Virginia had souls to be saved as well as
 the people of England. “Souls” said he,  
 “ d—n your souls, make tobacco I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1822041001:0080/pct:9.835728952772074,46.18562024009294,20.698151950718685,15.296243707241512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1822041001:0080/pct:9.833709710531718,46.17965926690759,20.70074591117498,15.298571674410601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ out and home, to ask leave of a cross old gcntle­
 ! man at Canterbury, who seems by your account  
 | to have as little regard for the souls of the peopl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1843101701:0288/pct:52.42156862745098,46.004520675442095,14.901960784313726,29.962770908123918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1843101701:0288/pct:52.41642976178806,46.00146247424051,14.903767604483221,29.96299496997496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ people of England. “Souls!&#x27;&#x27; said he, «
 pour souls; Make tobacco.’ 1 have tho  
 h jnor to be. Genii &quot;men, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1843103101:0025/pct:69.35787795332656,4.5147954743255,26.49659370923322,89.19712793733682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1843103101:0025/pct:69.36754118954438,4.522048157818393,26.50625694545103,89.19350159559036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -830,7 +830,7 @@ England. “Souls,” said he, “- your
 souls,—make tobacco.”  
 I have the honor to be, gentlemen, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013535:1849072701:0240/pct:35.79844118180171,10.216426939104718,29.400036251586005,84.6350315902675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013535:1849072701:0240/pct:35.791953606379124,10.21505376344086,29.399238854657483,84.62701612903226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1157,7 +1157,7 @@ irate SEYnOur--&quot;Damn your souls! make to­
 bacco.&quot;  
 Notwithstanding Seynour&#x27;s violence, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024660:00414184777:1866041301:0427/pct:10.161882737042578,74.62209302325581,33.92735682220106,9.835271317829458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024660:00414184777:1866041301:0427/pct:3.3868335146898803,24.871620966960567,11.307580703663403,3.2781061266673124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

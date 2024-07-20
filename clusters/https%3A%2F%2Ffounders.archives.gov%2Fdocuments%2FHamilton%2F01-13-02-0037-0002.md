@@ -113,7 +113,7 @@ Maryland, 1500
 Virginia, 1800  
 Kentucky, 80
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789100801:0469/pct:9.375,62.243744955609365,13.396317829457365,6.731234866828087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789100801:0469/pct:9.383074935400517,62.25450632230293,13.396317829457365,6.736615550174872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ ESTIMATE of the EXPENDITURE
 for the CIVIL LIST of the United States, for the  
 Year 1 789
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789101001:0003/pct:59.36046511627907,71.8707940780619,25.49418604651163,2.3841568929052106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789101001:0003/pct:59.36773255813954,71.87560084599116,25.50872093023256,2.403383964622188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ Year 1 789
 ESTIMATE of the EXPENDITURE  
 For the CIVIL LIST of the United States, for the Year 1789
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789102401:0003/pct:60.21602160216022,41.71396140749149,24.662466246624664,1.2107453651153992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789102401:0003/pct:60.238523852385235,41.71396140749149,24.66996699669967,1.2296632614453273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ For the CIVIL LIST of the United States, for the Year 1789
 ESTIMATE of the EXPENDITURE  
 For the CIVIL LIST of the United States, for the Year 1789
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789102801:0004/pct:20.232360442051572,67.61976898314713,23.462737319353923,1.7799659155462981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789102801:0004/pct:20.246528761688865,67.63397083885627,23.462737319353923,1.765764059837152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ ses of the three Several departments, name­
 ly, T.reafury. State, War, and of the ge­  
 neral Board of Commiflioners, twenty-on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792020201:0001/pct:52.804167943610175,13.029949436017114,41.92460925528655,80.47452353169973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792020201:0001/pct:52.81182960465829,13.044535200311163,41.91694759423843,80.46966161026837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ missioners. 521,545 83.”
 Gen. Alexander Hamilton, then Secreta­  
 ry of the Treasury, submitted his estimat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855010301:0001/pct:59.94039270687237,71.82444974807743,13.604488078541374,5.7809599575709365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855010301:0001/pct:59.94039270687237,71.82886944223459,13.610331930808789,5.785379651728101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

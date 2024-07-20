@@ -49,7 +49,7 @@ dictory to the general confederation. The States
 ought to be pluced under the control of the Gen­  
 eral Government; at least, as much so as the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829022401:0401/pct:32.993923468549845,32.846190704360325,15.58548201675152,6.276952563488261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829022401:0401/pct:32.98850574712644,32.842256557671575,15.58839627805145,6.280193236714976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ laws, and these are effectual nolv if they are
 not contradictory to the General Confedera  
 tion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1833022801:0252/pct:33.217256722770365,80.58157416468615,15.63165022248017,3.2853348245491403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1833022801:0252/pct:33.21083172147002,80.57031031590718,15.633462282398453,3.288370142577579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ control of the General government&quot; la the same
 Convention, Rufus King said : &quot; None of the States  
 are now sovereign or independent Many of thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863102101:0369/pct:6.095736724008975,41.57914715930659,19.76439790575916,5.213210173351892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863102101:0369/pct:4.582865693976805,31.190687080855373,14.833520389075945,3.909907630013919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

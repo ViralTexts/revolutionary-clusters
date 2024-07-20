@@ -273,7 +273,7 @@ And againI
 “But 1 have that within which passeth show, |  
 These but the trappings and the suits of woe.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1860022201:0121/pct:17.7233224105998,57.818341763800305,12.466163271121243,3.7607213547393887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1860022201:0121/pct:17.7233224105998,57.82200718422403,12.475661300280192,3.757055934315666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ me truly—these indeed seem—but I have
 that within which passeth show; these  
 but the trappings and suits of woe.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769349:1878010301:0404/pct:27.8658456701166,55.31150569639741,10.677322153805843,1.8064251257312942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769349:1878010301:0404/pct:27.874579675968384,55.31150569639741,10.686056159657626,1.8132676451469432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

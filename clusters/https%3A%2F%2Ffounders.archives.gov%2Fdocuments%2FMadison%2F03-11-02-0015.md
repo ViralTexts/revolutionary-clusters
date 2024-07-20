@@ -50,7 +50,7 @@ ingthe sale of certain lands in the
 state of Ohio, formerly set apart lor  
 refugees from Canada and Nova Sco
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1816032201:0566/pct:44.07741559953434,78.48986456581393,17.753201396973225,4.567584314419758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1816032201:0566/pct:44.07100247344682,78.48291733050097,17.755468257432465,4.570130406561633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ in the State of Ohio, formerly set apartfor
 Refugees from Canada and Nova-Scotia.  
 BE it enacted by the Senare and House of Rep- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816082001:0569/pct:24.115950827136135,12.215066952877441,17.438154499924117,2.4327915772258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816082001:0569/pct:24.115950827136135,12.218474223994003,17.448272373147166,2.4293843061092373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ apart for Refugees front Canada and ;
 N ova Scotia. I  
 lie it enacted by the Senate and haut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816090201:0084/pct:5.045782193648939,6.854995464558766,18.118059614260666,3.7968122327329272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816090201:0084/pct:5.044799376704324,6.854107281679192,18.12102324373458,3.8006391984106416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

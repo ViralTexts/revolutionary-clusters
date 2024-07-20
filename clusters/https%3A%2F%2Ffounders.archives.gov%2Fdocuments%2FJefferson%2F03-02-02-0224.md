@@ -212,7 +212,7 @@ Kings, from all of whom the Lord dsliver us,
 Hud have you, my fheivl, and all such good  
 i men and true, iu his holy keeping.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830011401:0228/pct:0.4070265638389032,5.572755417956657,36.88946015424165,91.71122994652407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830011401:0228/pct:0.40693938744913255,5.5719712959054455,36.88691368601413,91.70184325313072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ from all of whom the Lord deliver us, and
 have you, my friend, and all such good  
 meu eud true, in his hole keeping.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830021001:0132/pct:77.9032771237671,11.436819897845881,15.351574928412345,36.22029757939152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830021001:0132/pct:77.89088595514554,11.435550127678471,15.354435077673505,36.21997705488324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ all of which the Lord deliver us,”’
   
 Earthguake in Chiie.—A (:iend in Vilpa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830021601:0236/pct:39.90039548850154,42.867077289886744,15.746301450124506,29.634412875024836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830021601:0236/pct:39.9052780625946,42.867077289886744,15.75606659831063,29.647658785350025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ whom t!.i Lord dci;v;*t ut, and luve
 you. my friend, and aucli giM»d men  
 snd true, in his holy keeping.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830022401:0032/pct:0.6033415841584159,17.473395125300378,30.25990099009901,77.10264332303467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830022401:0032/pct:0.6032482598607889,17.471395881006863,30.260376385666408,77.0976353928299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ sexual appetites, immerse them h,
 sensualities, nourish their passions,  
 let every thing bend before fjippi, an,&#x27;j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1830030301:0002/pct:73.81995133819952,81.45477347546637,16.496350364963504,10.23671421852955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1830030301:0002/pct:73.82603406326034,81.46653080420128,16.496350364963504,10.240633328107855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ the Lord deliver us. rnd have you, my friend,
 and such good mm and hue, iu holy keep  
 ing ’*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830030801:0647/pct:68.05819101834282,33.26554328878559,15.011596036263969,28.834979662986637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830030801:0647/pct:68.04384485666104,33.26071169208424,15.013701517706577,28.83442265795207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1031,7 +1031,7 @@ tion.—Mis race is not yet worn out. And so endeth the hooV
 of the King* -from all of whom the Lord deliver us, and havi  
 T°u;tmy fr&#x27;end, and such good oicn and true, in his holy kee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830032401:0284/pct:24.520325203252032,40.62276306370794,18.227642276422763,18.59937962300167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830032401:0284/pct:24.516338806698098,40.617917213408084,18.23009808703192,18.601137222155952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1499,7 +1499,7 @@ have you, my friend, and all such good m 1
 and true, in his holy keeping.  
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831060401:0085/pct:20.24401265250791,5.793742757821553,30.162675101671937,90.61413673232909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831060401:0085/pct:20.23943980121979,5.792783846408474,30.161508922520895,90.60327706057596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1757,7 +1757,7 @@ eration. i I is race is not yet worn out. And
 so endeth the Book of Kings, horn ad o! which  
 the Lord deliver us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215658:1839082101:0699/pct:64.54176384210072,15.962773163692054,15.254383691802712,15.344289332626495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215658:1839082101:0699/pct:64.5361893245811,15.961832960301567,15.255945183393793,15.345348882868025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1895,7 +1895,7 @@ is not yet worn out. And so endeth the
 book of Kings, from all which the Lord de­  
 liver us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1839090501:0988/pct:60.936151855047456,47.47446867237096,17.105263157894736,16.823074799889593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1839090501:0988/pct:60.92301056717705,47.46791775907272,17.106965710588742,16.824203118531806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2016,7 +2016,7 @@ own. Rut he is only of the third generation. Ilia
 race is not yet worn out. Anti so rndctlitlin Rook  
 ol Kings, iiiitn ail ot which the lend deliver us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1839091201:0359/pct:64.11399767351686,26.91039032435404,15.025203567274136,13.51017042330951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1839091201:0359/pct:64.10157007171932,26.90669231826302,15.027137042062416,13.511749347258485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2095,7 +2095,7 @@ from the rederallitin f &#x27;99,
 4ource-cf their aorrows and w whop.&quot;  
 Daniel Webster end his Federal al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840081401:0218/pct:7.2023313905079105,66.27056672760511,22.87676935886761,15.737355271176112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840081401:0218/pct:5.414410662224073,49.71054235222425,17.15951686797168,11.806825106642291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2137,7 +2137,7 @@ king, and an English king, rather than
 Kiiv other. This is the true source of  
 their sorrows and waitings.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1840082701:0024/pct:64.27357689039933,97.50684098510186,18.479184367034833,14.685314685314685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1840082701:0024/pct:48.23629409264768,73.13773183338401,13.854653633659158,11.02158710854363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2164,7 +2164,7 @@ from. Ttis as longing for a king and an English king;
 rather than any other. Thisis the triie soufce of their  
 sorrows and wailing,*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840090101:0557/pct:78.64176078772083,14.479917610710608,14.422241529105126,6.024716786817714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840090101:0557/pct:78.64658750844676,14.483350497768624,14.417414808379187,6.0350154479917615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2232,7 +2232,7 @@ is not is not yet worn out. And so endtih
 the Book of Kings; from ail of which ih  
 Lord deliver us.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877935:1843083001:0648/pct:109.10614525139665,34.236311239193085,18.589385474860336,25.7521613832853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877935:1843083001:0648/pct:81.85247275775356,25.68299711815562,13.956412405699917,19.30835734870317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2289,7 +2289,7 @@ race is not yet worn out. And so endeth the
 Book of Kings; from all of which the Lord  
 deliver us&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843091501:0579/pct:176.30227439471753,311.5064897185358,50.4035216434336,70.70147294735307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843091501:0579/pct:44.09983483207928,77.87662242963395,12.607817948247385,17.675368236838267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2380,7 +2380,7 @@ His race is not yet worn out. And so endeth the
 Book of Kings; from all of which the Lord deliv  
 ef u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1843092201:0696/pct:144.7449768160742,269.92892290869327,58.964451313755795,58.44723892837616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1843092201:0696/pct:36.207229847283976,67.48223072717332,14.749661705006766,14.61180973209404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2434,7 +2434,7 @@ cederafions. Alexander, ihe grandson of Cattle
 arine, it yet an exception. His race it net jirlt,  
 worn out* And
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1843101301:0320/pct:80.6035153212008,79.6119733924612,15.741172810701508,14.955654101995565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1843101301:0320/pct:80.60870016073002,79.6119733924612,15.741172810701508,14.963045084996304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2487,7 +2487,7 @@ generation. His race is not yet worn out.
 And so endeth the Book of Kings ; from all of  
 which the Lord deliver us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845112601:0405/pct:43.71628910463862,97.76911414338315,20.159115426105718,21.160927008880225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845112601:0405/pct:32.80280550310224,73.32683560753736,15.120043161586189,15.876110028156813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2659,7 +2659,7 @@ become without mind and poweriess, and so
 will every hereditary monarch be after a few  
 gencrations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848041201:0301/pct:76.97974217311234,18.757327080890974,100.93922651933701,365.1556597629282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848041201:0301/pct:19.24139200883815,4.688721021099244,25.23016019149328,91.27702526699662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2713,7 +2713,7 @@ to get married as soon as you enter your
 teens; but it is better to remain single and  
 live upon the cold soup of solitude, than t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1848041501:0628/pct:325.0527797325827,204.00966870467795,50.950035186488385,89.74832930470639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1848041501:0628/pct:81.2917986624428,51.00241717616949,12.7419922562478,22.437082326176597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2762,7 +2762,7 @@ struggle. These animals had become without mind
 and powerless, and so will every hereditary monarch  
 be, aiter a few generations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848042901:0176/pct:78.58384013900955,25.741595253790376,58.29713292788879,47.26433750823995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848042901:0176/pct:19.645960034752388,6.435398813447594,14.574283231972197,11.816084377059987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2800,7 +2800,7 @@ hereditary monarch be aftei a lew generations.’
 •And *o endeth the book of kings, from all of  
 wh»m the Lotii deliver o*.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848050201:0291/pct:55.201809324982605,48.706074639062926,13.622129436325679,10.800871697085263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848050201:0291/pct:55.19220734040703,48.69944164510418,13.62410854061576,10.80280539289119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2844,7 +2844,7 @@ monarch be after a few generations. ,
 &quot;And so endeth the book of kings, from  
 ill of whom the Lord deliver us.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1848050301:0085/pct:19.300398895366676,38.27133479212254,18.794108622276774,17.61487964989059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1848050301:0085/pct:19.3055129385292,38.27862873814734,18.799222665439295,17.61852662290299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2892,7 +2892,7 @@ struggle. These animals had become without mind
 and powerless, and so will every hereditary monarch&#x27;  
 be, after a few generations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029798:1848050401:0322/pct:25.149700598802394,6.456408622703621,19.855743059335875,16.41711797812467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029798:1848050401:0322/pct:18.867410835829023,4.842306467027716,14.906071331336783,12.318148030158225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2935,7 +2935,7 @@ generations. .
 &quot;An.l sot endeth the hook of.kings, from­  
 all of whom the L ord deliver us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288300:1848051001:0459/pct:31.747638326585694,53.43345179410753,15.334008097165992,16.41637051473117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288300:1848051001:0459/pct:31.747638326585694,53.43727310940426,15.350877192982455,16.420191830027896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2980,7 +2980,7 @@ te it SiHlll WI w as y Owi to I1l 11 ; aaaa eaaapeaw es wies sata     t  o o o e
   
 o oe i e ea e i e ee ee e ee o e e on a an i e e e o ea o oe an o o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1849040301:0700/pct:119.21331316187594,54.53740593182824,212.70801815431165,13.457281983178397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1849040301:0700/pct:29.808965386797805,13.63435148295706,53.18706260639304,3.3643204957945994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3012,7 +3012,7 @@ The cow&#x27;s in the corn
   
 &quot;That alters the case; he may get up again,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1849040301:0700/pct:181.46747352496217,75.01844473956028,149.62178517397882,62.26944075549653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1849040301:0700/pct:45.375449215055795,18.75461118489007,37.412521278607905,15.567360188874133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3114,7 +3114,7 @@ of kings, from all of whem the Lord deliver us and have you,
 my frleed, and a I sucl good men and true in hle holy keep­  
 ing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743300:1858091001:0091/pct:243.30131857398666,209.14474433435828,47.19192576916816,26.18152829973807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743300:1858091001:0091/pct:81.10043952466222,69.71491477811942,15.730641923056053,8.72717609991269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3260,7 +3260,7 @@ worn out. And so endeth the
 book of kings, from all of whom the  
 Lord deliver us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075000:00237286923:1871072101:0187/pct:111.72638436482085,114.04854735253427,42.14983713355049,87.93862407244372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075000:00237286923:1871072101:0187/pct:27.93159609120521,28.512136838133568,10.537459283387623,21.98465601811093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3309,7 +3309,7 @@ cration. His race is not yet worn out. And so
 endeth the book of kings, from all of whom the  
 Lord deliver u3.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1871072901:0702/pct:97.4089068825911,15.673898750821827,143.1578947368421,367.91584483892177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1871072901:0702/pct:24.357157319295403,3.918474687705457,35.79671998380239,91.97896120973044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3403,7 +3403,7 @@ out. And 4&#x27;so endeth the book of Kings&#x27;&quot; from ,
 all of whom the Lord deliver us!? Harper&#x27;it  
 Magazine for August. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663675:1871080901:0108/pct:20.349895031490554,61.30483689538808,17.90062981105668,17.49156355455568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663675:1871080901:0108/pct:20.349895031490554,61.31108611423572,17.919290879402844,17.49156355455568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3462,7 +3462,7 @@ from all of whom the Lord deliver
 us.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280544:1871081001:0285/pct:79.27578834847675,66.16935483870968,15.820416889363976,25.37298387096774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280544:1871081001:0285/pct:59.47607591553061,49.627016129032256,11.868484362469928,19.032258064516128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3522,7 +3522,7 @@ he is only the third generation. His
 race is not yet worn out. And so endeth  
 the book of kings, from all of whom the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283363:1871081701:0096/pct:69.62025316455696,308.8176920895946,51.89873417721519,77.23277573008222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283363:1871081701:0096/pct:17.40830385403091,77.20442302239864,12.977099236641221,19.308193932520556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3686,7 +3686,7 @@ have you, my friend, and all such good men
 and true, in his holy keeping.-&quot;Life of  
 Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871082301:0189/pct:83.79324269753668,37.15357175523644,42.69753668057612,50.93752858318851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871082301:0189/pct:27.931080899178895,12.384523918412146,14.232512226858708,16.97917619439617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3738,7 +3738,7 @@ only of the third generation. IDs race not
 yet worn out. And &quot;so endetli the book of  
 K ings, from all of whom the Lord deliver us.&quot;- Ifarprr&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871082401:0207/pct:67.57848568790396,59.30321919562804,15.304709141274238,17.803774229357014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871082401:0207/pct:67.58618036318867,59.30321919562804,15.30855647891659,17.80662055617226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3795,7 +3795,7 @@ worn out. And &quot;so endeth the book
 of Kings,&#x27; from all of whom the Lord  
 deliver us.&quot; Harper&#x27;s Magazine fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027431:1871082901:0080/pct:95.84312573443009,38.61495844875346,14.879553466509988,27.069252077562325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027431:1871082901:0080/pct:71.90714075815457,28.96398891966759,11.166617690273288,20.299168975069254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3846,7 +3846,7 @@ His race is not yet worn out. And so
 endeth the book of Kings, from all of  
 whom the Lord deliver us.&quot;Harper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1871083101:0347/pct:251.8942731277533,52.983896431954534,57.97356828193833,86.32775497316072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1871083101:0347/pct:62.987442167878385,13.245974107988634,14.496585150914298,21.58193874329018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4180,7 +4180,7 @@ Bonaparte found Europe, and - it -was
 this st ate of its rulers which lost it with  
 omirr-n a Rtruo-ole. , ...
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775423:1872121201:0338/pct:97.79023746701847,87.8623188405797,14.858179419525065,17.83126293995859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775423:1872121201:0338/pct:73.36302160646545,65.90320910973085,11.149595909615702,13.366977225672878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4441,7 +4441,7 @@ Lord deliver us, and have you, my friend,
 and such good men and true, in His holy  
 keeping.THo JEFFErSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282243:1880052801:0510/pct:178.29158638407193,43.695861405197306,102.37636480411047,342.1559191530318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282243:1880052801:0510/pct:44.59437751004016,10.923965351299326,25.606425702811244,85.53897978825795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4474,7 +4474,7 @@ separate peace and leave us in the lurch? Her
 good faith! The faith of a nation of merchants  
 The Panica sides of modern Carthage,--Jesfe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101969:1883050701:0868/pct:84.85113835376532,57.134662268750894,57.09281961471103,44.80137673884985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101969:1883050701:0868/pct:21.21278458844133,14.283665567187724,14.273204903677758,11.200344184712462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4704,7 +4704,7 @@ animals had become without mind and
 powerless, and so will every hereditary  
 monarch he after a few generations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899062501:0410/pct:66.96515792901334,18.165745856353592,14.408987300553566,16.574585635359117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899062501:0410/pct:66.9705850428742,18.165745856353592,14.408987300553566,16.585635359116022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

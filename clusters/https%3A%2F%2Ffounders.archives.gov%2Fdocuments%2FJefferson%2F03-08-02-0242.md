@@ -99,7 +99,7 @@ ement, and to other distresses of war adds
   
 want of all those
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1858120601:0267/pct:54.36195216369418,220.64348952709997,36.927969030830916,8.561865687756423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1858120601:0267/pct:18.120650721231392,73.54782984236665,12.309323010276971,2.8539552292521413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ within ourselves, without regard to difference
 of prices, secures us against relapse into for  
 eign dependency.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1858120601:0267/pct:54.4725563390018,249.611315050745,37.190653947186505,5.884258259555172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1858120601:0267/pct:18.157518779667267,83.20377168358166,12.39688464906217,1.9614194198517239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ eeae o i eee e o ae e o e ae
 others, even arms and clothing. The factan a oi o a te to a o e­  
 therefore, solves the question by reducing toi i i i a o te o an a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1858120601:0267/pct:54.569334992395966,219.2075145756856,74.86520116134385,14.521701576333406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1858120601:0267/pct:18.189778330798653,73.06917152522853,24.95506705378128,4.840567192111135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ further says: &quot;Experience has taught
 me that manufactures are now as nec  
 essary to our in dependende as to ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85038222:00280774911:1871021601:0033/pct:323.2200647249191,163.73000813228518,49.75728155339806,24.179994578476553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85038222:00280774911:1871021601:0033/pct:80.80501618122977,40.932502033071295,12.439320388349515,6.044998644619138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ eign article which can be mude within ourselves, with­
 out regard to dilerence of price, scoures is apainst a  
 relapse into foreign depenenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883080101:0215/pct:86.73740053050398,247.63203214695753,57.824933687002655,40.98737083811711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883080101:0215/pct:21.69873921698739,61.90800803673938,14.465826144658262,10.246842709529277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ bo made within ourselves, without regard to
 difference of price, secures ns against a re­  
 lapse into foreign dependency.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764200:1883080301:0110/pct:72.28915662650603,63.7560801993119,13.783706253585772,13.346778977340135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764200:1883080301:0110/pct:54.24020662935859,47.82299205125163,10.345817190414694,10.013050183888955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ which can be made within ourselves, without re
 gard to difference of price, secures us against a re  
 lapse into foreign dependenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883100101:0635/pct:148.93617021276594,18.685121107266436,116.66666666666667,359.4434832756632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883100101:0635/pct:37.234042553191486,4.671280276816609,29.166666666666668,89.8608708189158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ he miade within ourselves, withont regard to difference
 of price, secures us against a relapse into foreigad  
 pendenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883102801:0432/pct:63.228699551569505,329.80943738656987,51.270553064275035,9.27102238354507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044826:1883102801:0432/pct:15.810128947860212,82.45235934664247,12.82003363857223,2.3177555958862675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ factured at home, without regard to differ­
 ence of price, secures us against a relapse  
 Into foreign dependency.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00175033543:1891021301:0430/pct:4.48798110323746,55.45221295702373,10.643323607058496,2.8437032285653197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00175033543:1891021301:0430/pct:4.48798110323746,55.45577649490414,10.652586725950627,2.8437032285653197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ ourselves, without regard to diferenp of
 price, secures ns against a relapse into  
 forrign dependent},
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193560:1891021301:0155/pct:66.02506714413607,89.07649896623019,11.951656222023276,4.32460372157133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193560:1891021301:0155/pct:66.03625783348254,89.08511371467954,11.946060877350044,4.328911095796003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ selves without regard to dillerenco of
 price secures us against a relapse into  
 foreign dependenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_coyote_ver01:data:sn84020558:00211106426:1891042201:0645/pct:23.691626409017715,46.53325817361894,16.908212560386474,14.867531003382187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_coyote_ver01:data:sn84020558:00211106426:1891042201:0645/pct:17.777330380511376,34.90698985343856,12.68371250251661,11.147125140924464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ article which can be made within our­
 selves, without regard (4 difference in  
 price.&quot;—Toledo Blade.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035386:00211664502:1891061301:0374/pct:43.331383445451884,92.22092157071405,11.904065516232818,1.936788336703203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035386:00211664502:1891061301:0374/pct:43.34113288485912,92.22092157071405,11.904065516232818,1.9438827994750099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -784,7 +784,7 @@ foreign article which can be made
   
 within ourselves, without renard to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669252:1891061801:0356/pct:47.32394366197183,88.27961490163248,18.211267605633804,2.228966094600251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669252:1891061801:0356/pct:31.562632098069606,58.85307660108832,12.145977173453572,1.4859773964001675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -905,7 +905,7 @@ the defeat of our good friend, A. A.
 Taylor, for delegate from the state at  
 large. It is not only to bo regretted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1892051901:0026/pct:10.89605734767025,50.79974408189379,15.770609318996415,11.593090211132438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1892051901:0026/pct:8.176438945669714,38.1062060140755,11.834319526627219,8.701215611004478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ day! He would not need to ask them to
 voluntarily pass by cheaper and perhaps  
 better foreign articles and pay more fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:00415668028:1892053101:0643/pct:52.275249722530525,88.66311236294135,37.00055493895672,29.333065083995574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:00415668028:1892053101:0643/pct:17.425083240843506,29.55437078764712,12.333518312985571,9.777688361331858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ helven, without regard to difference in
 price, secure* ns against a relapse into  
 foreign dependency.&quot;—From a letter o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187304:1892060801:1094/pct:30.9956449917405,91.30084111072705,12.389247634779997,4.055766793409379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187304:1892060801:1094/pct:30.99099099099099,91.29032258064517,12.392392392392392,4.059139784946237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -983,7 +983,7 @@ elves, without regard to difference in
 price, secures us against a relapse into  
 foreign dependency.- ThOenAs Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:0041566803A:1892060901:0071/pct:164.22197434467373,22.731834604576477,36.89347462353597,13.57888398233641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:0041566803A:1892060901:0071/pct:54.748291730581506,7.577278201525492,12.299539813136244,4.526294660778803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1069,7 +1069,7 @@ regard to difference in price, secures
 us against a relapse into foreign de­  
 pendency.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:00517175444:1892071101:0059/pct:26.181734740706744,27.247518972562755,16.727856815052778,9.836544074722708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:00517175444:1892071101:0059/pct:26.181734740706744,27.251167542323408,16.74506654428637,9.843841214244016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ ourselves without regard to differ­
 ence of price secirres us against a  
 relapse into foreign dependenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1892071401:0057/pct:10.402219140083218,109.62923446252334,14.303051317614424,8.335556148306216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1892071401:0057/pct:7.804370447450572,82.2219258468925,10.735345126604232,6.251667111229661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1117,7 +1117,7 @@ foreign dependency.Thomes Jeffer­
 Although other subjects will prees  
 more immediately on your attention,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559978:1892071501:0653/pct:120.68741893644618,105.09726668308298,43.125810635538265,22.457522777640975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559978:1892071501:0653/pct:30.171854734111545,26.274316670770745,10.781452658884566,5.614380694410244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1138,7 +1138,7 @@ tion uf every good citizen to use no
 foreign article which can be made*  
 within ourselves, without regard t*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769234:1892071601:0577/pct:5.649717514124294,47.803480475382,11.186440677966102,2.8862478777589136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769234:1892071601:0577/pct:5.649717514124294,47.81055461233729,11.191148775894538,2.889784946236559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ price, securen us against a relapse into
 foreign dependency.-Thomas Jefferson.  
 Although
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:0041566803A:1892072401:0475/pct:52.82967032967033,208.60422592442097,36.675824175824175,15.603413246647705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:0041566803A:1892072401:0475/pct:17.612309383157026,69.53474197480699,12.226954251957686,5.201137748882568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1185,7 +1185,7 @@ selves, without regard to difference in
 price, secures us against a relapse into  
 foreign dependency.—Thomas Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624621:1892072901:0985/pct:75.19623233908948,50.78721745908028,16.281677506167302,5.861262665627436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624621:1892072901:0985/pct:63.921718134451645,43.169471313104545,13.851823611640615,4.986528863566097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1229,7 +1229,7 @@ to the difference of price, secure us
 against a relapse into foreign depend­  
 ency.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529054:1892081801:0293/pct:34.27934319886479,84.96683250414594,8.32150821001419,4.676616915422885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529054:1892081801:0293/pct:34.28610041219001,84.96959646213378,8.314750996688966,4.673852957435047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1298,7 +1298,7 @@ within ourselves, without regard to &#x27;
 a relapse into foreign dependency.&#x27;&#x27;  
 Andrew Jackson in n message t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_excalibur_ver01:data:sn86069313:00206533808:1892090901:0163/pct:44.05114899925871,54.244118029377354,15.845070422535212,5.537501624853763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_excalibur_ver01:data:sn86069313:00206533808:1892090901:0163/pct:33.049119555143655,40.68308852203302,11.881371640407785,4.159625633692968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1315,7 +1315,7 @@ Andrew Jackson in n message t
 articles of foreign manufacture, which  
 prudence requires us to establish a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:00415668041:1892091701:0296/pct:49.16713721061547,123.8922586614578,37.77526821005082,5.058085740721703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:00415668041:1892091701:0296/pct:16.39367410336063,41.29741955381927,12.595312058740468,1.6860285802405675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1338,7 +1338,7 @@ can be made within our«ehes, without
 legaid to difference of puce, secures us  
 against a Ielapse into foreign dependen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766318:1892100501:0307/pct:48.15399179551909,70.24710596616207,14.200063111391605,6.044078361531612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766318:1892100501:0307/pct:48.164510360786785,70.25452656574652,14.200063111391605,6.0477886613238345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1366,7 +1366,7 @@ ence of price, secures us agzinst a relapse into
 foreign dependency.&quot;  
 Andrew Jackson and Protection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663455:1892100801:0278/pct:68.25251601097895,23.21752814429246,14.986276303751144,7.868296816366057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663455:1892100801:0278/pct:68.26471485208906,23.21752814429246,14.986276303751144,7.87233184037445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1413,7 +1413,7 @@ to, and so soon as a convenient quan­
 tity of them can get into circulation the  
 bank notes die
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1893101301:0412/pct:23.069460613116025,25.767670915411355,15.89057043073341,9.603128621089224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1893101301:0412/pct:17.878803067515413,19.97754911131899,12.315172171820961,7.442469597754911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1460,7 +1460,7 @@ made within ourselves, without re­
 gard to difference in prices, secures  
 us against foreign dependency.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ellison_ver01:data:sn92066979:00517010145:1894022201:0194/pct:7.8583555663351925,38.59004956856985,12.733446519524618,5.54433633192583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ellison_ver01:data:sn92066979:00517010145:1894022201:0194/pct:7.876546204220228,38.59463925096383,12.72131942760126,5.553515696713787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1484,7 +1484,7 @@ within ourselves without regard to
 difference of price, secures us against  
 a relapse into foreign dependency.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076144:00199918035:1894041301:0501/pct:16.774541531823086,14.110175341709237,10.877382236605538,5.149799806709927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076144:00199918035:1894041301:0501/pct:16.78802588996764,14.113626950158775,10.877382236605538,5.163606240508077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1538,7 +1538,7 @@ without regard to difference of price, se­
 &#x27; cures us against a relapse into foreign  
 dependency.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ibis_ver01:data:sn85042448:00200298767:1894050501:0436/pct:6.594724220623501,118.40856924254017,20.023980815347723,8.400918133129304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ibis_ver01:data:sn85042448:00200298767:1894050501:0436/pct:4.959008198360328,88.814078041316,15.036992601479705,6.30451415455241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1565,7 +1565,7 @@ wrote:
 &quot;My own Idea is that wo should en  
 courage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194576:1894052201:0243/pct:35.12931034482759,88.27627093523047,17.435344827586206,9.441233140655106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194576:1894052201:0243/pct:26.374811300409746,66.20720320142286,13.090360146646539,7.084630206017489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1649,7 +1649,7 @@ foreign dependency.&quot;
 In his letter to Humphrey, 1809, he  
 wrote: “My own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_alcott_ver01:data:sn92066979:00513687394:1896042301:0178/pct:9.059867971773276,44.59936463113308,11.928067379922604,8.983409812919167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_alcott_ver01:data:sn92066979:00513687394:1896042301:0178/pct:9.059867971773276,44.608189198729264,11.93375825176417,8.987822096717261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1678,7 +1678,7 @@ they can trust to, and so soon as a
 convenient quantity of them get into  
 circulation, bank notes die. Histor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1896050701:0323/pct:18.07073030477286,92.40381453469253,14.90799309948246,10.347473418831525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1896050701:0323/pct:13.5605406960023,69.30834155431327,11.187805579522577,7.760605064123643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1763,7 +1763,7 @@ article which can be made at home se­
 cures us against a relapse Into foreign  
 dependency. My own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621152:1896091501:0525/pct:57.783018867924525,118.20074349442379,16.27358490566038,5.263940520446097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621152:1896091501:0525/pct:43.35430593786866,88.6542750929368,12.20998820290995,3.9553903345724906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1782,7 +1782,7 @@ relapse into foreign dependence. Con­
 tinuing he said:  
 My own idea is that we should encourag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037433:1896091501:0248/pct:15.554166015319682,54.419953596287705,13.365640143817414,2.6218097447795823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037433:1896091501:0248/pct:15.55937679120421,54.42382057231245,13.370850919701944,2.6295436968290797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1803,7 +1803,7 @@ no foreign article which can be made at home,
 secure us against a relapse into foreign depend­  
 ency. My own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:0017503898A:1896091501:0256/pct:9.340394800192586,249.6299569203579,48.01797464291446,9.422290953275157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:0017503898A:1896091501:0256/pct:3.1134649333975286,83.2099856401193,16.005991547638153,3.140763651091719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1824,7 +1824,7 @@ zen to use no foreign article which can
 be made at home, secures us against a  
 relapse into foreign dependency. My ow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665623:1896091501:0147/pct:5.139275766016713,102.39982625692258,16.448467966573816,3.4314257791291127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665623:1896091501:0147/pct:3.8595513445729415,76.80529916386143,12.34499094329107,2.5735693343468347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1846,7 +1846,7 @@ article w&#x27;hich can be made at home, se­
 cures us against a relapse into foreign  
 dependency. My own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760560:1896091501:0435/pct:25.25464349910126,108.36131268276833,18.559017375674056,5.24206650059569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760560:1896091501:0435/pct:16.841474378183996,72.24087512184555,12.37638597542703,3.4983212390339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1867,7 +1867,7 @@ eign article which can be made at home, se­
 cure us against a relapse into foreign de­  
 pendency. My own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896091501:0399/pct:274.7692307692308,279.54648526077096,51.23076923076923,10.219198790627361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896091501:0399/pct:68.70552029236391,69.88662131519274,12.810155799192152,2.5547996976568403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1884,7 +1884,7 @@ that the duties we lay on all articles of
 foreign manufactures secure us against  
 a relapse into foreign dependenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534515:1896091501:0283/pct:44.035202086049544,66.6628055137264,12.777053455019557,1.1467624232595852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534515:1896091501:0283/pct:44.035202086049544,66.6628055137264,12.777053455019557,1.1544847291401212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1904,7 +1904,7 @@ patriotic determination of every good oiti-
 to use no foreign article which can be  
 made at home, seoures us against 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199392:1896091501:0098/pct:11.601776848706558,147.1379418204567,33.57721452835119,7.142112397038891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199392:1896091501:0098/pct:3.867258949568853,49.045980606818894,11.192404842783729,2.3807041323462967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1971,7 +1971,7 @@ jan trust to, and so mh:i as a con­
 venient quantity of them ran get  
 into circulation the bank not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn87090065:00296024946:1896091701:1062/pct:13.599013968775678,108.59896219421793,17.502054231717338,10.793180133432172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn87090065:00296024946:1896091701:1062/pct:10.215827338129497,81.4529280948851,13.134635149023639,8.094885100074128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1994,7 +1994,7 @@ citizen to use no foreign article which can be
 made at home, secures us against a relapse  
 into foreign dependency. My own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037433:1896092301:0375/pct:43.158388003748826,5.753552294432797,13.214620431115277,4.786862334032145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037433:1896092301:0375/pct:43.1688014162241,5.75743458343039,13.214620431115277,4.786862334032145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2041,7 +2041,7 @@ article which can be made at home, se­
 cures us against a relapse into foreign  
 dependency. My own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1896092601:0191/pct:5.803245139599474,82.85560923242083,11.869609706183306,3.6822329575952764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1896092601:0191/pct:5.803245139599474,82.85560923242083,11.874482288164499,3.6893898729647523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2063,7 +2063,7 @@ no foreign articles which can bo
 made nt borne secures us against a  
 relapsa into foreign dependenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896100101:0916/pct:52.3110661268556,116.80213191205863,14.304993252361674,6.795469686875417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896100101:0916/pct:39.257383966244724,87.60826115922718,10.734177215189874,5.099933377748168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2084,7 +2084,7 @@ ery good citizen to use no foreign article
 which can be made at home, secure us  
 against a relapse Into foreign dependency
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_jones_ver02:data:sn92067106:00542861915:1896100801:0621/pct:20.388349514563107,56.61280670257331,14.533686378346573,3.4909235986435267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_jones_ver02:data:sn92067106:00542861915:1896100801:0621/pct:20.39570461900559,56.617793736285655,14.52633127390409,3.5058846997805704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2105,7 +2105,7 @@ of every good citizen to nso no foreign J
 umuu wuiuii can 00 maae at nome, se­  
 cures us against a relapso into foreig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283806:1896100901:1001/pct:51.105810928013874,109.95231502845716,18.99392888117953,4.753114905399169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283806:1896100901:1001/pct:38.34309260464108,82.46423627134287,14.248536109303839,3.5686817412705736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2147,7 +2147,7 @@ ery good citizen to use uo foreign article
 &quot; hich can be made at home, secure us  
 against a relapse into foreign dependency
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:0020219977A:1896100901:0136/pct:18.816787982035002,57.313679002164726,14.046770946259873,3.5769508298113597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:0020219977A:1896100901:0136/pct:18.827112694233648,57.320551145929976,14.046770946259873,3.573514757928736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2224,7 +2224,7 @@ mination of every good citizen to use no
 foreign article whieh can be made nt  
 home, ftccures us sgainat n relapse int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669422:1897022501:0188/pct:65.86705202312139,83.64639711344583,18.410404624277458,4.860447840390534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669422:1897022501:0188/pct:43.92888117953166,55.767802186140294,12.272333044232438,3.2367611164172767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2261,7 +2261,7 @@ foreign article which can be made at
 home, secures us against a relapse into  
 foreign dependency.—Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152640:1897022501:0245/pct:66.27680311890838,40.94030639197042,13.795171689908532,13.185419968304279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152640:1897022501:0245/pct:66.28180136952066,40.94734988554323,13.795171689908532,13.178376474731467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2283,7 +2283,7 @@ foreign article which -an be made at
 honn*. secures us against a relapse into  
 foreign -lepcn-ien-t. Thomas .Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1897030401:0066/pct:62.90916134030602,66.96933807079878,14.952546968816579,4.276878536649559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1897030401:0066/pct:62.90916134030602,66.97262797736545,14.962231260894828,4.293328069482826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2304,7 +2304,7 @@ mination of every good citizen to use 110
 ioroign article which can be made at  
 home, secures us against a relapso int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1897030501:0931/pct:49.3613336219961,49.37616968184654,13.509417622862092,3.6182158452900812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1897030501:0931/pct:49.37215847586057,49.380068621335,13.520242476726564,3.626013724266999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2326,7 +2326,7 @@ foreign article which can he mfule at
 home, secures us against a relapse into  
 foreign dependency. Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065763:00332899685:1897030601:0901/pct:72.11455375879521,60.93461396379756,10.504875941241822,3.28777244181751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065763:00332899685:1897030601:0901/pct:72.12278319549027,60.9376924024135,10.496646504546764,3.28777244181751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2387,7 +2387,7 @@ of the legislature last March. That
 Rogers has no respect for the law or  
 constitution of the state has been am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:0020219977A:1897110501:0380/pct:69.55882352941177,25.42074363992172,12.12566844919786,21.125244618395303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:0020219977A:1897110501:0380/pct:69.55882352941177,25.424005218525767,12.130124777183601,21.128506196999346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2426,7 +2426,7 @@ can be made at home, secures us
 -against a relapse into foreign de­  
 pendency. ”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152159:1897123001:0180/pct:6.8852009326567,36.81255946717412,14.620765327115622,18.667935299714557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152159:1897123001:0180/pct:6.889772779225529,36.81573104979385,14.625337173684452,18.667935299714557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2455,7 +2455,7 @@ pendency. ”
 ‘ “this country.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152640:1898011301:0634/pct:36.89352541811558,9.267166762839008,15.482695810564662,10.35199076745528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152640:1898011301:0634/pct:36.899045095766404,9.267166762839008,15.488215488215488,10.359684554722062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

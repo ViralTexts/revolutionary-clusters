@@ -80,7 +80,7 @@ clear conceptions, who will resign if any one is
 put over him. *#*###  
 I an,Stc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845011001:0043/pct:8.487363259147491,71.80160265266649,14.673708034703886,10.002763194252555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845011001:0043/pct:8.493650194895007,71.80160265266649,14.673708034703886,10.007368518006816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ man of great military reading, sound judg-
 ment and clear conceptions, who will resign  
 if any one is put over him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845022801:0597/pct:254.1406945681211,215.47496696520335,60.9973285841496,43.87020995448539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845022801:0597/pct:63.57763421697483,53.86874174130084,15.259523279126753,10.967552488621347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ salvation of the army depends, to a forsign­
 er, who has no other tie to bind him to the  
 interest of the country than honor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854122101:0466/pct:14.00749063670412,174.05834817148335,51.91011235955056,34.406245719764414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854122101:0466/pct:3.502528563401386,43.514587042870836,12.979958793781607,8.601561429941103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ very Taiahle offieer in Gen. Knox, who is a man
 of ir restquinary standing, sound judgment and  
 clear cV-.?eption, who will resign if any one i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058249:00271744778:1855011901:0011/pct:59.17017438364402,19.237126509853784,19.242333132892362,9.243483788938335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058249:00271744778:1855011901:0011/pct:44.390977443609025,14.431023521932612,14.436090225563909,6.9421487603305785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ is a man of greet military standing, sound Judg­
 ment, and clear conoeptlon, who will resign if any  
 one is put over him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012301:0246/pct:18.646926536731634,82.06243602865916,15.77961019490255,7.3311156601842375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012301:0246/pct:18.653173413293352,82.07096554077107,15.773363318340829,7.3311156601842375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ ception, who will resign if any one is put
 over him.  
 &quot;I am, &amp;e.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855021501:0498/pct:22.50733137829912,159.35712339961864,52.27272727272727,47.34404794333969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855021501:0498/pct:5.62683284457478,39.83928084990466,13.068181818181818,11.836011985834922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ valuable officer in Ueueral Knox, who is
 a man of great military standing, sound  
 judgment, and cjear conception, who wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1855022401:0470/pct:3.931409452112087,68.38128451031677,16.14387285654538,10.558946042817011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1855022401:0470/pct:3.931409452112087,68.38774258129096,16.148519912635347,10.56217507830411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ man of great military standing, sound judgement
 and clear conception; he will resign if any one is  
 put over him.&quot; &quot;I am, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855031601:0705/pct:141.91017846636595,126.343690178177,60.65895273583055,32.64614931527021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855031601:0705/pct:35.470588235294116,31.581272084805654,15.161764705882353,8.160335689045937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ of great military reading, sound judgment
 and clear conceptions, who will resign if  
 any one is put over him. I am, 4c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855032901:0061/pct:26.153846153846153,44.13290513833992,16.223776223776223,17.650691699604742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855032901:0061/pct:19.62224554039874,33.10276679841897,12.17208814270724,13.24110671936759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -610,7 +610,7 @@ military standing, sound judgment and clear con­
  ception, who will resign if any one is put over  
 him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855052101:0929/pct:203.11000191975427,208.77557070856804,59.53157995776541,32.567447376222944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855052101:0929/pct:50.767754318618046,52.18615681043427,14.880038387715931,8.140655105973025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ very valuable officer in General Knox, who
 is a man of great military standing, sound  
 judgment, and clear conception, he will re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1855072001:0390/pct:22.296793437733037,45.89827727645611,16.666666666666668,10.514082581350834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1855072001:0390/pct:16.73195299384443,34.4271260596117,12.516321581794442,7.888980038282745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ lose a very valuable officer in General Knox,
 who is a man of great military standing, sound  
 udgment, and clear conception. He will resign, &amp;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86071224:00212470053:1855072401:0078/pct:70.48331415420023,92.01512200710276,50.57537399309551,25.56993928285027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86071224:00212470053:1855072401:0078/pct:17.62589928057554,23.00378050177569,12.647482014388489,6.392484820712568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +887,7 @@ who is a man of great military standing, sound
 judgment, and clear conception, who will resign if  
 any one is put over him. # # 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855100501:1111/pct:20.610833653476757,30.093175522538402,16.077602766039185,11.256610425585494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855100501:1111/pct:20.610833653476757,30.093175522538402,16.084005634524267,11.260807521195332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -912,7 +912,7 @@ pari inent, on the execution of which the j the ateamers in the harbor were all 
 salvation of tho army depend8) to a for- j fire, blown up, sunk or destroyed, either  
 eigncr, who has no other tie to bind him j by the fire of the allied batteries or by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855101001:0185/pct:43.338008415147264,95.92994573260977,32.328190743338006,9.003453379378392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855101001:0185/pct:32.520610419224695,71.95362604834732,24.25890194702684,6.746423285643808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ judgement, and clear conception, who will
   
 resign if any one is put over him:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855101701:0188/pct:74.63183730715288,51.523476523476525,16.23422159887798,17.894605394605396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855101701:0188/pct:56.00771794422031,38.64885114885115,12.190843711629539,13.424075924075924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ military understanding, sound judgment, and
 clear conception, who will resign if any one  
 is put over him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1855102001:0248/pct:78.50897376898297,61.66858457997699,12.639975456358338,8.411967779056386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1855102001:0248/pct:78.49693251533742,61.66148889655966,12.641871165644172,8.41387642388678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1163,7 +1163,7 @@ ble officer in General Knox, who is a man of great milita­
 ry reading, sound judgment, and closer inspections, and  
 who will resign if any one is put over him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856040301:0180/pct:93.2343954604976,126.05941962229387,37.77098792375964,15.31552280055274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856040301:0180/pct:31.07361070701193,42.01496833621186,12.588497720880612,5.1045864517367106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

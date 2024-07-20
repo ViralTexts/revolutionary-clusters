@@ -1414,7 +1414,7 @@ atrocity and impiety the King’s brothel
 of B-lviyw, and the Adoniati lemplo of  
 Madame Du Barry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823110801:0131/pct:4.1256321533138145,72.88246881155614,17.62044184189513,3.824688115561392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823110801:0131/pct:4.124534326769559,72.87050713934023,17.622405534858967,3.828163466272772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1444,7 +1444,7 @@ nes 10 my family, m virtue, 10 my conn rv , and to
 heaven, to dress him in .isuit fr-m the devil’s vvetd­  
 nilie, Xml liold him up to the execration of man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823123001:0288/pct:20.51573143042491,54.05890804597701,15.293545248134933,7.112068965517241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823123001:0288/pct:20.512404734879194,54.05243625044894,15.29647046105616,7.115208108863083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1491,7 +1491,7 @@ Were purchased by the merit of the wearet!
 How many then would cover, that stand bate;  
 How many be commanded that command ” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830071301:0660/pct:59.98389694041868,52.33337251675091,16.666666666666668,2.2099447513812156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830071301:0660/pct:59.97423925293833,52.32722143864598,16.669350077818923,2.2136028835605703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1510,7 +1510,7 @@ Were purchased by the merit of the wearer!
 Hmv many tben would cover, that stand bare;  
 How many be commanded that command.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830071301:0232/pct:60.70686070686071,52.85920230658337,13.769390692467615,2.2825564632388273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830071301:0232/pct:60.6971538215542,52.852852852852855,13.77251892122375,2.2862862862862863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1701,7 +1701,7 @@ participated in this work of death--
 Go to your bosom-  
 Knock there; and ask your heart what it doth know
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841073101:0826/pct:251.43272151062988,46.814044213263976,36.69615740129407,20.426961421759863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841073101:0826/pct:83.79984156324267,15.602990573193196,12.230437461491066,6.808249358904901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1740,7 +1740,7 @@ Knock there; and ask your heart what it doth o a e an eo e te
 oeoa an o ae  o e i  
 Every violation of this kind shakes cate should not be granted. Such hank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841081201:1056/pct:253.3596837944664,303.1545321442832,118.49802371541502,29.3890589644616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841081201:1056/pct:63.364966389877424,75.7886330360708,29.636219849742982,7.3472647411154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1894,7 +1894,7 @@ How much low peasantry would then be gleaned
 From the true seed of honor, and how much honor  
 Picked from the chaff and ruin of the times.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855060701:0989/pct:25.678820791311093,343.56699201419696,45.55857253685027,11.254066844128955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855060701:0989/pct:6.4184603451619155,85.87904775986988,11.387434554973822,2.8131006949578587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1996,7 +1996,7 @@ kiok&#x27;d from the chatf .and ruin of the times,
 To be new varnished ! l.&gt;Aafr.?j??arr.  
 LABOR. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654103:1857110501:0334/pct:1.8387553041018387,7.585711352904948,16.187333019016187,4.413878053787723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654103:1857110501:0334/pct:1.8387553041018387,7.590843769246561,16.1991199119912,4.424142886470951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2258,7 +2258,7 @@ heart, what it doth know that&#x27;s like my brothers fault.
 &quot;There is a vice that most I do abhor,  
 And most desire should meet the blow of Justice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864010601:1078/pct:115.55367709213863,78.3068783068783,58.66441251056636,3.5464035464035466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864010601:1078/pct:28.906745612180163,19.576719576719576,14.675407062803975,0.8866008866008867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2279,7 +2279,7 @@ more constant than love, is Charity. Her
 1 influence ia felt in the domestic circle,  
 and widening, as it extends itself throug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625479:1864111801:0158/pct:62.57822277847309,24.808110065170165,19.16979557780559,5.155684286748733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625479:1864111801:0158/pct:48.49921862369995,19.230049758689063,14.867704909198686,3.9956601444124358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2393,7 +2393,7 @@ How many then should cover that stand
 bare; how many be commanded that com­  
 mand.&quot; Were the above lines applied t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038519:00200293332:1866062601:0694/pct:5.151843817787419,89.85091109884041,12.81182212581345,3.246824958586416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038519:00200293332:1866062601:0694/pct:3.864406779661017,67.38818332413031,9.613559322033899,2.4406405300938707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2441,7 +2441,7 @@ the chall and rain of the times, to be new var­
 arhed  ee  
 EVANS&#x27; ADVERTISERS&#x27; HANDBOOK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1868063001:0840/pct:175.9535655058043,186.97777077092857,50.33167495854063,22.576068106574176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1868063001:0840/pct:43.997511922040225,46.74444269273214,12.585527679867303,5.644017026643544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2469,7 +2469,7 @@ Were not derived corruptly, and that dear honor
 Were purchas’d by the merit of the wearer I”  
 (This has no reference to Judas Winans, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110181:1871042301:0007/pct:68.01900584795321,48.88687548537406,12.006578947368421,1.4367072223660367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110181:1871042301:0007/pct:68.03271198830409,48.89011131245146,12.002010233918128,1.4367072223660367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2649,7 +2649,7 @@ honour
 &#x27;&#x27;Pick&#x27;d from the chsff and ruin of the times,  
 &quot;To be new varnished !&quot; it. v. ii. 9
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053943:0029587319A:1877100601:0439/pct:60.95434369055168,50.38572251007484,16.4711477488903,8.036845135290731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053943:0029587319A:1877100601:0439/pct:45.734221376466856,37.78929188255613,12.353314303837616,6.033390903857225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2676,7 +2676,7 @@ of the consular service and system.
 The committee then rose and at ten minutes to  
 five o&#x27;clock the House adjourned, after which notic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744018:1878031301:0886/pct:196.8848384424192,248.83217500284835,46.512013256006625,13.968326307394326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744018:1878031301:0886/pct:65.62827948080641,82.94405833428279,15.504004418668876,4.656108769131442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2700,7 +2700,7 @@ How manrbe bulldozed mat oulldbze?
 How much mixed wheat would then be gleaned  
 From all the elevators, and how much “no grade
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878081401:0008/pct:57.41869918699187,36.36363636363637,12.601626016260163,3.756243756243756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878081401:0008/pct:57.43775406504065,36.36363636363637,12.601626016260163,3.7762237762237763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2740,7 +2740,7 @@ grees, and offices were not derived cor­
 ruptly! and that clear honor were pur­  
 chased by the merit of the wearer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1880122401:1039/pct:8.722065523974832,30.0014528548598,16.641353872857454,2.9783524625889872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1880122401:1039/pct:8.720173535791757,29.997094712376526,16.644974692697037,2.9827619601007167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2900,7 +2900,7 @@ serpent which goeth basely on the
 belly and notion the feetBacon  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:0020653431A:1883052701:0431/pct:74.79245283018868,23.748300160712077,21.22641509433962,29.348497960192855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:0020653431A:1883052701:0431/pct:49.87733534629175,15.83632092965756,14.153613889413096,19.56978612931141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3008,7 +3008,7 @@ To be new varnished !”
 Were not derived corruptly, and that clear honor  
 Were purchased by the wearer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958289:1886081501:0003/pct:6.870367022238293,19.21588857363941,11.770023503887181,0.9414495744132061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958289:1886081501:0003/pct:6.874887000542397,19.222336858395668,11.788103417103597,0.9446737167913335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3064,7 +3064,7 @@ against my brother.
 We do not marvel at the sunrise of a  
 joy, only at its sunset! Then,- on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1888062101:0238/pct:51.25586068318821,17.810162496775856,14.718687206965841,5.50683518184163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775290:1888062101:0238/pct:38.46540459038365,13.360846014960021,11.040375272239906,4.126902244003095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3192,7 +3192,7 @@ were not deriv&#x27;d corruptly! and that
 clean honor were purchased by the  
 mr-lt ol tne wearer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270209:00279527756:1891061801:0662/pct:92.9632525410477,66.34146341463415,16.673182173573103,2.953929539295393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270209:00279527756:1891061801:0662/pct:69.73607038123167,49.75609756097561,12.512218963831867,2.2222222222222223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3359,7 +3359,7 @@ How many then should cover that stand bare!
 How many be commanded, that command!  
 The Merchant of Venice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nash_ver01:data:sn83030214:0017503870A:1894040901:0551/pct:100.79470198675497,205.90027075812273,47.28476821192053,14.158393501805055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nash_ver01:data:sn83030214:0017503870A:1894040901:0551/pct:33.59823399558499,68.63342358604092,15.76158940397351,4.719464500601685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3467,7 +3467,7 @@ it not sound a thought upon your
 tongue against my brother.—Shakes­  
 peare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890736:1895061201:0092/pct:33.46736045411542,51.22723673792557,15.042573320719017,15.518606492478227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_empire_ver01:data:sn86091319:00332890736:1895061201:0092/pct:33.459446677701585,51.21912602913236,15.044927878931189,15.520107663077898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3508,7 +3508,7 @@ How much low peasantry would then be gleaned from
 the true seed of honor, and how much honor picked  
 from the chatf and ruin of the times to be new var
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896101501:0780/pct:288.4024577572965,339.6249243799153,51.45929339477727,15.849969751966123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896101501:0780/pct:72.11446130209333,84.90623109497882,12.867294027270981,3.9624924379915307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3585,7 +3585,7 @@ Merit of the wearer.&quot;&quot;
 John HelMan.  
 John Helman spoke on the subject
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn84036012:00294550161:1898061801:1123/pct:53.42827004219409,178.28354002254792,38.027426160337555,10.569334836527622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn84036012:00294550161:1898061801:1123/pct:17.80942334739803,59.42784667418264,12.675808720112517,3.5231116121758737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

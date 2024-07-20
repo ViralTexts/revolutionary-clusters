@@ -90,7 +90,7 @@ Or by pronouncing of some doubtful phrase
 As, well, well we know  
 Or, we could, an&#x27; if we wou&#x27;d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293782:1864100401:0017/pct:237.34873487348736,136.0655737704918,42.95929592959296,13.594562175129948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293782:1864100401:0017/pct:59.34534451932334,34.01639344262295,10.741301059001513,3.398640543782487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ Or by pronouncing of some doubtful phrase,
 As, * well, well we know ’—  
 Or, ‘ We could, an’ if we would 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864100701:0383/pct:78.42249878778082,53.66172106824926,13.043478260869565,3.7388724035608307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864100701:0383/pct:78.42249878778082,53.66567754698318,13.054253542373795,3.7388724035608307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ Or by pronouncing of some doubting phrase,
 As, &quot;Well, well, we know,&quot; or &quot;We could an&#x27; if  
 we would.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053571:00237288968:1866040901:0347/pct:212.3148148148148,210.95840205240975,48.888888888888886,8.063038299431922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053571:00237288968:1866040901:0347/pct:53.1032885595183,52.73960051310244,12.22788327929597,2.0157595748579804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ Or such ambiguons giving out, to note
 That you know aught of me:-&quot;  
 And, to this swearing, they &quot;go in&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293113:1875022101:0158/pct:51.00632547441058,179.88270443731327,39.677975848188616,13.632842757552286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293113:1875022101:0158/pct:12.757083273407162,44.970676109328316,9.923773910542211,3.4082106893880715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

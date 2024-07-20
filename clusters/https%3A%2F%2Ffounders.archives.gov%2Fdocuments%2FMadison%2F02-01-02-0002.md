@@ -56,7 +56,7 @@ By the President,
 LEV: LINCOLN,  
 Acting as Secretary oj State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801032301:0002/pct:70.2059833251594,25.844234864618194,21.701814615007358,14.968055978095528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801032301:0002/pct:70.2059833251594,25.84930534428557,21.701814615007358,14.973126457762904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ the faid dates the twentv-tit
 1835; and do authorize and empower him to execute  
 and fulfil the duties of that office according lo la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845081101:0352/pct:16.894087069525668,18.61051569789434,13.612735542560104,1.0843525406632202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845081101:0352/pct:16.89950184102231,18.61892153154289,13.62356508555339,1.0843525406632202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ uary, A. D. 1861, and until his successor is duly elect­
 ed and qualified.  
  In testimony whereof, I have hereunto se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1861012501:1412/pct:64.26070562887153,67.50145602795574,41.74521949905736,12.38594447680062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1861012501:1412/pct:21.420235209623844,22.500485342651913,13.915073166352455,4.12864815893354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ during the pending of the war now existing
   
 between the said Confederate States and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861112901:1128/pct:78.50553505535055,322.51947172367085,56.08856088560886,28.919742634608873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861112901:1128/pct:19.630911188004614,80.62986793091771,14.025374855824683,7.229935658652218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ sixth,    ABRAHAM LiNCOLN.
 By the Presid ant:  
 WitTan H Seward, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868022701:0526/pct:56.46544748341155,15.383738168548295,45.99449749150348,18.91891891891892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868022701:0526/pct:18.821815827803853,5.127912722849432,15.331499163834494,6.306306306306307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ the 15th day of January, in the year of our
 Lord. 1*62, and of the Independence ol the  
 United States of Amtrica. the -6th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654309:1868022701:0429/pct:42.94623059866962,16.500360045262834,13.35920177383592,6.882008023865858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654309:1868022701:0429/pct:42.95662416851441,16.50550354901759,13.348808203991132,6.884579775743236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ the year of our Lord eighteen hundred
 and sixty two, and of the United States  
 of America the ciphtv sixth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1868031801:0815/pct:92.42367833209234,29.177395311017754,16.418466120625464,9.147580973031577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1868031801:0815/pct:69.34823091247672,21.88643447621629,12.327746741154563,6.8572977368207075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ of America the 86th. ABRAHAM LINCOLN.
 By the President:  
 WM. H. SEWARd, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1868040201:0484/pct:203.5180299032542,149.41851449837185,58.57519788918206,59.978291207939215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1868040201:0484/pct:50.91309130913091,37.35462862459296,14.653465346534654,14.994572801984804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ GREAT; By the President:
 j 6eau j TiMoTnv Pickering,  
 : Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293411:1870010501:0018/pct:19.485294117647058,100.5210693248754,13.102941176470589,17.1273221567739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293411:1870010501:0018/pct:14.624098867147271,75.39646579066606,9.842577607768133,12.845491617580427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ affixed, at Washington City, the thirteenth
 day of December, in the year of our Lord |  
 one thousand eight hundred and nineteen. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092523:00383341784:1887010201:0070/pct:62.98690803297236,5.6985500730583345,12.057540003232585,7.99145779476228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092523:00383341784:1887010201:0070/pct:62.97672915319974,5.6979096426163185,12.060978237448825,7.99430583651757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ governments and&#x27; all other persons
 having such matters in charge.  
 And I do hereby pray and reques
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_desdemona_ver03:data:sn85047084:00202196007:1898050401:0234/pct:49.18463966333508,16.30666261028293,18.253550762756444,15.231720920799107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_desdemona_ver03:data:sn85047084:00202196007:1898050401:0234/pct:36.90303907380608,12.2299969577122,13.708722536508354,11.428861170266707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ governments and all other persons
 having such matters in charge.  
 And I do hereby pray and reques
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00294552431:1898050601:0304/pct:21.39894419306184,63.70208702769063,13.122171945701357,11.785568135315783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00294552431:1898050601:0304/pct:21.39894419306184,63.70208702769063,13.122171945701357,11.795798663211022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

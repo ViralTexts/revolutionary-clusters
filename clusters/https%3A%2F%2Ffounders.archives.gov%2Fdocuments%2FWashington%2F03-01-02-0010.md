@@ -78,7 +78,7 @@ tzined ; and that the Expence of said Cou­
 riers be defrayed by theCounty, until it shall  
 be otherwise ordered by the Provincial Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774092301:0320/pct:9.523809523809524,66.71940169710916,26.50866798332236,2.8045448008054077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774092301:0320/pct:9.53843903152659,66.72419579078576,26.501353229463827,2.809338894481998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ vasion thereof &quot; Other powers of supremo
 sovereignty and nationality were exercised  
 by the Continental Congress, in the nam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286637:1889042801:0232/pct:4.784325637910085,129.5607011469379,18.605710814094774,5.475005410084397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286637:1889042801:0232/pct:3.1900349384778974,86.37740748755681,12.41075497493544,3.646396883791387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ bills of credit for the defense of
 - Awerica.  
 In July, 1775, the Congress author
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287034:1894070401:0404/pct:2.0761245674740483,63.66926503340757,12.648981161091887,3.303637713437268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287034:1894070401:0404/pct:2.0846682899739415,63.672358327146746,12.648981161091887,3.309824300915615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ i vein jiniil&#x27;-uee and discreet mamigenu nt
 or from t eto time fall out, you are,  
 tin rofore, t ; on all -noli accidents to use 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522357:1896061301:0298/pct:55.41106128550075,70.86848045621956,10.164424514200299,4.776048473327789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522357:1896061301:0298/pct:55.41106128550075,70.872440695418,10.169407075236672,4.772088234129342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ elisiHiseeif the saiel army, making it your
 sjH&#x27;cial care that the libertie- of America  
 receive no de trime nt &#x27; &quot; Washingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896061601:0602/pct:101.00246761258482,102.05820515657851,18.36829117828501,6.639371472833905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896061601:0602/pct:67.36614719950624,68.04249197742614,12.251195803116802,4.426247648555937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ special care thut the liberties of America
 receive no detriment. &#x27; &quot;Washington  
 Pos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn87078321:00280776622:1896072201:0669/pct:84.9809885931559,79.0288414534789,19.130228136882128,8.750203682581066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn87078321:00280776622:1896072201:0669/pct:63.78121284185494,59.2797783933518,14.36385255648038,6.566726413557112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -642,7 +642,7 @@ dispose of the said army, making it your
 special care that the liberties of America  
 receive no detriment.&quot;&quot;Washingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:00280776531:1896080501:0406/pct:226.14182692307693,155.52871417590865,40.98557692307692,25.9141319863841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:00280776531:1896080501:0406/pct:56.53545673076923,38.88217854397716,10.24639423076923,6.478532996596025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ to order and dispese of the said army
 ¢« * +* that the liberties of America  
 receive no detriment.’”—Washingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn92063989:00514153425:1897022001:0571/pct:51.208946201894015,77.36805715602674,11.122305057424944,9.664285165552739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn92063989:00514153425:1897022001:0571/pct:51.212304385788165,77.36805715602674,11.125663241319094,9.666845919438682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ nominations and the amounts of each were
   
 as follows
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034912:1898010201:0009/pct:53.02287581699346,117.12128216982586,53.83986928104575,20.835259670211126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034912:1898010201:0009/pct:13.255718954248366,29.280320542456465,13.459967320261438,5.208814917552782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -769,7 +769,7 @@ reserve the peace of the province.&quot;
 Colonel Dalrymple wilted, auil pledged his  
 iouor that the troops should be removed, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:00415620391:1873040301:0274/pct:16.334440753045403,54.79396164830681,13.732004429678849,5.739154086767305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:00415620391:1873040301:0274/pct:16.34674541651286,54.79849494537377,13.732004429678849,5.74822068090122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -795,7 +795,7 @@ sence, the Lieutenant Governor,” (in the or­
 iginal Constitution it was the Governor and  
 Council,) “shall have power to grant pardon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895916:1874112401:0213/pct:31.451912365391756,15.369261477045908,12.699591533605645,7.1285999429712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895916:1874112401:0213/pct:31.446073881566736,15.367070563079116,12.701874883979952,7.131147540983607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -811,7 +811,7 @@ Council,) “shall have power to grant pardon
 &quot;the Governor, and, in his absence, the Lieuten­  
 ant Governor,&quot; (in the original constitution it wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874112501:0524/pct:289.08205841446454,281.12798264642083,43.3240611961057,2.807196631364042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874112501:0524/pct:72.27051460361614,70.28199566160521,10.831015299026426,0.7017991578410105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ for over eighty years, declares that &quot;the
 Governor, and in his absence, the Lieu-­  
 tenant-Governor,&quot; (in the original Constitu,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742071:1874112601:0516/pct:90.52211048353767,30.544549894038514,42.08568673370988,20.648668570902053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742071:1874112601:0516/pct:30.174036827845892,10.181516631346172,14.02856224456996,6.882889523634018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ eighty declares that “ the Govern­
 or, and in his absence the Lieutenant-  
 Governor” (in the original Constitutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:0027176943A:1874122401:0374/pct:50.0763358778626,16.06372386325921,13.557251908396946,6.549397057196592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:0027176943A:1874122401:0374/pct:50.08142493638677,16.06372386325921,13.557251908396946,6.549397057196592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -958,7 +958,7 @@ symptom of affectation, into an upright dignity of fign
 and gesture which made a strong impression on spee  
 tors? It borrows nothing from drapery; there is nel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531253:1876061901:0598/pct:200.1153782759189,72.37286163156057,45.590901598813254,8.472012102874432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531253:1876061901:0598/pct:66.70512609197297,24.12428721052019,15.196967199604417,2.8240040342914776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

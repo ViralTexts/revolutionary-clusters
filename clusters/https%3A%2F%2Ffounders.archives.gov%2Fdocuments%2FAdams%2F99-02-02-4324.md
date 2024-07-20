@@ -57,7 +57,7 @@ sent to sentite as soon as they sit.
 Your must ob&#x27;t and hnmb. serv&#x27;t.  
 JOHN .-&#x27;\D.-\.\IS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811031901:0254/pct:54.347480527738036,25.517109903727004,20.728024161500556,9.903727004098752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811031901:0254/pct:54.33884297520661,25.514677849790317,20.730027548209367,9.905960096581522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -84,7 +84,7 @@ to the senate as soon as they sit.
 y With esteem, I am. sir,  
 Ydur most ob’t. and humble s»rv&#x27;t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811032201:0426/pct:3.9761431411530817,27.12688381137579,21.968190854870777,8.604764219737481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811032201:0426/pct:3.9751552795031055,27.12248865845755,21.96894409937888,8.607420609202851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ At
 With esteem, I am sir,  
 Y&#x27;/ur most ob’l luimb serv’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811032201:0414/pct:5.784383954154728,77.64763299170328,17.87249283667622,7.41825280624695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811032201:0414/pct:5.783348254252462,77.63816030254971,17.87526111608475,7.421414338579155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ Your most ob’t acd ho mb. serv’t.
   
 John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811032901:0064/pct:27.19132893496701,14.277498202731847,22.573044297832233,12.350826743350108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811032901:0064/pct:27.184923439340402,14.275445658424381,22.5736160188457,12.35264519838988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ as they siU
 obedient and.hilmble servant,  
 ! &quot;&#x27;John Adauk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868031401:0255/pct:51.606721698113205,50.80332409972299,14.431014150943396,9.163434903047092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868031401:0255/pct:38.72585164430025,38.10526315789474,10.824362188467777,6.869806094182826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ they sit.
 ent and humble servant,  
 &quot;John- Adams.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1868031701:0048/pct:43.340857787810386,58.98517010758942,13.12727904150026,9.275952311718523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1868031701:0048/pct:43.340857787810386,58.98517010758942,13.14464316721653,9.286856644373364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ wer to thia ei, ar at bfer itoy ag
 ing, hecause the nomination of a succe  
 &quot;&quot;With esteem, I am, sir, your most obedien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868031901:0538/pct:111.89248895434463,28.401015228426395,47.60677466863034,13.781725888324873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868031901:0538/pct:37.297496318114874,9.467005076142131,15.868924889543447,4.593908629441624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ With esteem, I am, sir, your most
 obedient and humble servant,  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_empath_ver01:data:sn88064630:00280761515:1868032601:0067/pct:148.23348694316437,43.405724147849845,44.34203789042499,29.685028045448007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_empath_ver01:data:sn88064630:00280761515:1868032601:0067/pct:49.41116231438812,14.46857471594995,14.780679296808328,9.89500934848267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ the Senate as soon as they sit.
 dient and humble servant,  
 &quot;JohN ADAEs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528621:1868033101:0482/pct:41.910845715872796,18.776751520612752,30.051381752534372,20.410002252759632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528621:1868033101:0482/pct:13.970281905290932,6.258917173537584,10.01712725084479,6.80333408425321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ they u.  a
 obedient and husuble servant,  
 &quot;JoHN ApiEs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528736:1868040901:0645/pct:44.45435622955694,209.39767361511,33.942908117752005,23.954854313025454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528736:1868040901:0645/pct:14.818118743185648,69.79922453837,11.314302705917335,7.984951437675151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

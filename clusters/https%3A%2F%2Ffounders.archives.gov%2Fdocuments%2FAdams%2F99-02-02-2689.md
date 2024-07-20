@@ -49,7 +49,7 @@ mies raised, or to be raised in the United
 States.  
 &quot;JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1840070901:1065/pct:3.6392405063291138,81.18688615299489,24.321880650994576,15.133490109282059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1840070901:1065/pct:2.7369373444921963,60.89362290773274,18.253788735580187,11.357034167934707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ to be Lieutenant General and Commander-in-chief of
 all the armmies raised or to be raised in the U. States  
 JohN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840073101:0762/pct:96.19032047089601,267.7599170339642,37.47547416612165,4.977962146746176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840073101:0762/pct:32.07392868825646,89.25330567798807,12.495911023879621,1.6593207155820586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ and Commander-in-chief of all the armies
 raised, or to be raised, in the United States.  
 &quot; JOHN ADAMS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840090401:0103/pct:33.656373193166885,103.92521193821855,23.061760840998687,4.378121008013006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1840090401:0103/pct:25.25883319638455,77.94681221693183,17.304847986852916,3.286494019277668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ ton was nominated by President Adams as &quot;Lisutenan
 General and Commander in Chief of all the armies raised  
 or to be raised in the United States.&quot; The senate un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846122801:0738/pct:247.88399932557746,24.202280843220827,47.42876412072163,6.093767999078447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846122801:0738/pct:82.62799977519249,8.067426947740275,15.809588040240545,2.031255999692816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ ington of Mount Vernon, to be Lieutenant General and
 Commander in Chief of all the armies raised or to be  
 raired in the United States. JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853010701:0063/pct:155.69153394803018,126.1790293040293,46.60519698239732,5.998168498168498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853010701:0063/pct:51.89717798267672,42.05967643467643,15.535065660799106,1.9993894993894994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ tenant General and Commandersin-Chief of
 all the armies raised or to be ralsed int  
 United Stutes. JOH Adans
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1853012701:0113/pct:328.8504883546206,307.6754084855142,51.16453794139745,14.33475216257037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1853012701:0113/pct:82.22806687957919,76.91885212137855,12.793537478865302,3.5836880406425924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ reservation, however, at tire instance of President John Adams
 the office of “Lieutenant-General and Commander in Chief of  
 all the armies raised or to be raised in the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855022501:0001/pct:19.072164948453608,79.15028535193406,12.21116246000711,0.8243500317057705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855022501:0001/pct:19.081052257376466,79.15028535193406,12.220049768929968,0.8370323398858592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ I nominate George Washington, of Mount Vernon, to be
 Lieutenant-General and Commander-in-chief of all the  
 armies raised or to be raised4n the United States.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026213:print00211110119:1863020801:0001/pct:6.402328119316115,41.52429257875067,12.113495816660604,5.92632140950347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026213:print00211110119:1863020801:0001/pct:6.402328119316115,41.52429257875067,12.11804292469989,5.929658302189002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ Gencral and Cemmander-in Chief of all the
 armies raised, or to be raised, in the United  
 States. John Alams.&quot; Next comes the ac-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:00279554188:1863122601:0262/pct:14.1353090271008,115.10145681581686,53.694677325014624,9.144120707596255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:00279554188:1863122601:0262/pct:3.5338272567752,28.775364203954215,13.423669331253656,2.2860301768990636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ title of “Lieutenant General and Comman­
 der-in-Chief of all the armies raised or to be  
 raised in the United States” was conferre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171578:1864030101:0206/pct:8.001553699747523,57.69898697539797,15.847737424742668,1.968162083936324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171578:1864030101:0206/pct:6.211117800521774,44.72110064303873,12.276740919125025,1.5216090922685808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ raised in the United States” was conferre
 John Adams, &quot;Lieutenant General and Commanderin-­  
 Chief of all the armies raised or to be raised in the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743531:1865112701:0480/pct:200.94462540716611,251.340206185567,45.472312703583064,3.2760595647193584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743531:1865112701:0480/pct:66.9815418023887,83.78006872852234,15.15743756786102,1.0920198549064528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ General was-Washington, who in 1798 was, appointed
 •‘Lieutenant-General and Commander-in-Chief of all  
 the armies raised, or to be raised, in,the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110156:1867092201:0001/pct:5.808903365906623,67.64894298526586,11.943539630836048,1.0506085842408712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110156:1867092201:0001/pct:5.813427433948607,67.65855221012171,11.94806369887803,1.0442024343369636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ General and Commander-in Chief of all the
 armies raised, or to be raised, in the United  
 States.&quot; And in notifying him of his appoint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102391:1880040201:0327/pct:26.84172137126185,316.7057444314185,46.900072939460244,8.73388042203986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102391:1880040201:0327/pct:6.711654203902973,79.17643610785463,11.727156666058727,2.183470105509965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ to be Lieutenant General and Commander-in
 Chief of all the armies raised or to be raised in  
 the United States.” And on the 3d of July
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882091801:0265/pct:76.56418554476807,58.688910276975726,9.911003236245955,1.6148005560902576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882091801:0265/pct:76.57317511686443,58.692474958115,9.91549802229414,1.6148005560902576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ be Licutenant General and Commander in Chief of all
 the armies raised and to be raised in the United States.  
 JOHN ADAMe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:0017503805A:1885031601:0645/pct:4.377431906614786,143.31599185704593,47.876134889753565,6.808414385885547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:0017503805A:1885031601:0645/pct:1.4591439688715953,47.77199728568197,15.958711629917856,2.2694714619618486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ commander ineniel of all the armies ralsed,
 and to be raised in the United States.  
 JoHN ADdAMs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102007:1885031601:0336/pct:240.09779951100245,212.132466728567,45.39527302363488,8.48034664190653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102007:1885031601:0336/pct:60.0611620795107,53.03311668214175,11.355759429153924,2.1200866604766326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ mander-in-chief of all the armies raised and
 to be raised in the United States.  
 JoMN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885031601:0690/pct:24.255628177196805,89.53771289537713,50.25417574437182,11.19221411192214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885031601:0690/pct:6.065008171418195,22.38442822384428,12.565825313237697,2.798053527980535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ to be lieutenant -general and cortnnander in -chief of all
 ♦he armies raised and to be reused in the United States.  
 . John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210090:1885031801:0032/pct:6.199785752544188,70.75839756399277,18.867166577396894,3.216290798363308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210090:1885031801:0032/pct:4.804898298048983,54.84021632251721,14.625709146257092,2.4975417895771876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ chief of all the srmies raised and to be
 raised in the United States.  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779982:1885031901:0267/pct:200.80385852090032,38.443396226415096,33.27974276527331,9.669811320754716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779982:1885031901:0267/pct:50.22114997989546,9.610849056603774,8.323281061519904,2.417452830188679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ Lieutenant-General and Commander-in-Chief
 f all the armies raised and to be raised in the  
 United States. JOHN ADAMs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1885040301:0531/pct:193.36283185840708,207.53062150309995,59.203539823008846,10.101315590503553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1885040301:0531/pct:48.34070796460177,51.88265537577499,14.800884955752212,2.5253288976258883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ Lieutenant-General and Commander-in-Chief
 of all the armies raised and to be raised in the  
 United States. JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885041101:0390/pct:24.453537202541188,50.343211116691776,9.830946484332939,1.9337016574585635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885041101:0390/pct:24.453537202541188,50.34600145097383,9.834535730950073,1.9364919917406105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ Lieutenant-General and Commander-in-Chief
 of all the armies raised and to be raised in the  
 Unitfid States. John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194059:1885042201:0137/pct:86.852989096378,46.505630533826185,13.259806993357564,1.8997679016590734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194059:1885042201:0137/pct:86.852989096378,46.50849594544256,13.263984626310732,1.902633313275452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ general and commander-in chief of all the
 armies raised or to be raised in the United  
 States. “John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210156:1886031501:0124/pct:65.52896382920859,86.63734115347019,14.577100897470764,3.059628543499511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210156:1886031501:0124/pct:65.52896382920859,86.63734115347019,14.581633578098087,3.0628869338546756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ and Commander-in chief of all the
 armies raised or to be raised in the  
 United States. JoHN AdAMs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283405:1886032501:0587/pct:343.2918395573997,53.785254824344385,49.37759336099585,12.617516081147947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283405:1886032501:0587/pct:85.83780044959363,13.446313706086096,12.346532941379907,3.154379020286987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ to be Lientenant-General and Commander in Chief of
 all the armies raised or to be raised in the United  
 States.   an e Joln ADAMs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:0017503822A:1888040801:0371/pct:101.66426628260521,249.04048807542983,46.455432869259084,7.598447032723239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:0017503822A:1888040801:0371/pct:33.888088760868406,83.01349602514328,15.485144289753027,2.532815677574413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ mander-in-chief of all the armies raised or to
 be raised in the United States.  
 “John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888041401:0356/pct:74.68834688346884,49.95840266222962,15.953026196928636,3.9794786466999446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888041401:0356/pct:57.88294595351442,38.71834366156822,12.368150844768039,3.098470466024286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ lieutenant general and commandor-in-chief
 of all the armies raised or to bo raised In the  
 United States. Jonx ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206539616:1888081201:0294/pct:93.2905067808708,25.275938189845476,16.916488222698074,3.4078366445916113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206539616:1888081201:0294/pct:69.98036766018204,18.956953642384107,12.707478136712476,2.566225165562914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ inGTon of Mount Vernon to be Lieutenant-General and
 Commander-in Chief of all the armies raised, or to be  
 raised, in the United States. &quot;JouN ADaNs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892041501:0383/pct:134.26838514025778,189.43874471937235,49.96209249431387,11.285455642727822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175045016:1892041501:0383/pct:33.58619381756116,47.35968617984309,12.497629432960364,2.8213639106819555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -817,7 +817,7 @@ Lieutenant General and Commander-in­
 Chief of all armies raised and to be raised  
 in the United States. JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:0028065498A:1895021601:0539/pct:70.13543631064633,65.23292916400766,13.937939310817761,2.986598596043395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:0028065498A:1895021601:0539/pct:70.13543631064633,65.23611997447351,13.950797188410766,2.986598596043395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ in Chief of all armies raised and to be
 raised in the United Staies.  
 “John Adam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867110:1895032701:0050/pct:55.19432540268952,29.905833964714795,12.472292005319934,5.217014828444637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867110:1895032701:0050/pct:55.18617021276596,29.9025974025974,12.475374310480694,5.22005772005772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,7 +931,7 @@ raised or to be raised in the United
 States.  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896111501:0556/pct:22.236340533672173,2.994421040646704,44.949174078780175,93.62404645337584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896111501:0556/pct:22.236340533672173,2.994421040646704,44.970351545955104,93.63163687426467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +950,7 @@ ant-general ana commander in &#x27;chief of the
 armies raised or to be raised in the United  
 States. John Adams.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037470:1896121301:0197/pct:29.232236528373868,91.89504373177843,13.320616754093148,1.8775510204081634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037470:1896121301:0197/pct:29.237535103057276,91.89893100097181,13.315318179409738,1.8892128279883382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ mander in chief of the armies raised or to
 be raised in the United States.  
 John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1897021301:0981/pct:82.35631086499905,86.14483047300125,12.220737063204124,5.511371564113297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1897021301:0981/pct:82.3405880106911,86.1328125,12.223176785032456,5.514090401785714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1026,7 +1026,7 @@ as &quot;lieutenant general andcommander-in-chief
 of all the armies raised or to be  
 raised in the United States.&quot; He selecte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899121401:0453/pct:20.396243701328448,50.108328278013694,16.857535501603298,1.941242742005373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899121401:0453/pct:15.301798190356202,37.58557933963082,12.644599702210515,1.45593205650403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

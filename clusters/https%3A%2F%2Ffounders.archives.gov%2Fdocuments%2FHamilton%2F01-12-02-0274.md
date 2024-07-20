@@ -281,7 +281,7 @@ leading firings ; or to throw all tilings in­
 to condition. FACT.  
 Sept. ii.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792091201:0002/pct:7.875968992248062,5.123191239734063,64.8062015503876,89.38208838482596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792091201:0002/pct:7.875968992248062,5.128079780993351,64.82170542635659,89.38208838482596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ ptitl down every man who will not content to
 walk in their leading firings ; or to throw all  
 thiugs into confufion. FACT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792091501:0001/pct:7.52157829839704,3.4455908117578353,63.316892725030826,91.2594899746934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792091501:0001/pct:7.536991368680641,3.450457465446759,63.316892725030826,91.25462332100447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ observations of this officer, • nrtmely, that
 &quot; the creation of debt should always be ac­  
 companied wi&#x27;h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792101001:0001/pct:50.41653810552299,59.728419010669256,20.888614625115704,8.050436469447138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792101001:0001/pct:50.439679111385374,59.73326867119302,20.88090095649491,8.060135790494666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ the speculators, and their tools and pa­
 trons, to irnpofe on the people, one has  
 been, to call themselves the best friends o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792101001:0001/pct:50.29311940759025,76.76042677012609,21.012033323048442,11.290009699321047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792101001:0001/pct:50.29311940759025,76.77497575169738,21.019746991669237,11.299709020368574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -813,7 +813,7 @@ rendering public credit immortal. And be
 presuir.es that it is diff.oult to conceive a sit-  
 ua(ion in which Uiere may not be an adlier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775897:1862091701:0111/pct:42.349528643944886,112.61513816579895,16.370558375634516,12.321452409558136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775897:1862091701:0111/pct:31.767905711695377,84.46135362434921,12.293744333635539,9.251101321585903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ no right to tax its own funns. The following
 eqtracts rfom Aleqander Hamilton places this  
 subject 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867123001:0584/pct:4.67243914393073,59.75789116415884,11.043947067472635,8.315420296413622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867123001:0584/pct:4.671675922901013,59.751131221719454,11.046226723293042,8.317307692307692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -943,7 +943,7 @@ States, and that they may commence their measurs
 for the establishmient of public credit wwith the obser­  
 vance of it.&quot; &quot;The ineans of extinguishment her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293551:1868010801:0187/pct:123.26760563380282,323.6904761904762,50.19718309859155,20.238095238095237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293551:1868010801:0187/pct:30.816901408450704,80.92261904761905,12.549295774647888,5.059523809523809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -515,7 +515,7 @@ V respect to the oil: h berierea
 P ; cribes all its conduct lo a deep tooted  
 &amp; hostility. The least they can do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042401:0002/pct:57.435387673956264,1.4525287204542454,35.62624254473161,92.68453717153044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042401:0002/pct:57.44864148442677,1.45693032263744,35.63286944996687,92.68453717153044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ i without throwing so much i
 blame on either government, as  
 pre »eni to the 0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042401:0003/pct:6.4652567975830815,4.622616871245756,17.96576032225579,7.456254896839906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042401:0003/pct:6.471970459885868,4.62696961782885,17.98590130916415,7.464960390006094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ and probably attended with success. 1
 do no more than assure you that (  
 this my sincere opinion, and that L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042401:0003/pct:7.009063444108762,1.1882998171846435,35.52870090634441,91.57743536171324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042401:0003/pct:7.009063444108762,1.1926525637677374,35.52870090634441,91.57308261513015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ tion. General Washington, there* j
 I hue, could not consider the negocia- j  
 tion odious. JOHN&quot; ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042401:0003/pct:23.967774420946625,27.278662836249673,18.54984894259819,24.954296160877515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042401:0003/pct:23.981201745552198,27.287368329415862,18.556562604900975,24.945590667711325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ TON, therefore, could not confider the
 negociation odious. : J  
 JOHN ADAMS. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809042501:0272/pct:5.109717868338558,3.88086642599278,70.4858934169279,93.39149618933013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809042501:0272/pct:5.109717868338558,3.8842091188661585,70.49634273772205,93.3948388822035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ it is thought so? Both governments have
 tongues and both have ears. Why will they  
 not speak i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809042501:0433/pct:4.7272727272727275,11.025802391441157,35.345454545454544,86.26809314033984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809042501:0433/pct:4.7264133793855665,11.02441479989932,35.345088771738475,86.26143132813155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1277,7 +1277,7 @@ der to bring oil si public negi&#x27;ciation. • Jen.
 Washington, therefore, could not consider  
 the uegociation odious
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809042501:0433/pct:39.981818181818184,11.189427312775331,17.945454545454545,64.12838263058528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809042501:0433/pct:39.97455008180331,11.188019129121571,17.94825183300006,64.12450708952093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1431,7 +1431,7 @@ ascribes all irs conduct to a deep rooted
 under this impression, is to prepare tor  
 j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809050201:0136/pct:60.33747450398665,2.897985705003249,37.17782310402374,94.13905133203379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809050201:0136/pct:60.32628846866889,2.8976091476091477,37.17711036954641,94.13115038115038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1531,7 +1531,7 @@ public negocianon. Gen. Washington,
 theiefore could not consider the negociu.  
 tiun odious
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809050201:0137/pct:5.214953271028038,3.4209157127991676,17.682242990654206,54.344432882414154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809050201:0137/pct:5.213978695570922,3.420470802445051,17.685167881392886,54.34170026444705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1750,7 +1750,7 @@ are equally clear, though to yox will be des­
 titute of cor aﬁ&amp; cirpamstances and  
 must reston my own infermation and opinion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809050301:0022/pct:4.89836721092969,3.029690971520905,79.7400866377874,94.45566552211675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809050301:0022/pct:4.903920915250472,3.0364236181242847,79.7400866377874,94.45566552211675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1865,7 +1865,7 @@ ch;myé, or bility to cither gov­
 m ailer to ‘brin&amp; on a publick  
 froc General Wasninoron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809050301:0022/pct:27.77407530823059,6.6956170470612,45.26824391869377,91.0725106039184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809050301:0022/pct:27.785182716872153,6.6956170470612,45.26269021437299,91.08260957382348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2578,7 +2578,7 @@ ot.
   
 EUROP
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809051601:0012/pct:4.021739130434782,20.698561062599925,17.536231884057973,4.845652441274136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809051601:0012/pct:4.021010686469842,20.696015740285294,17.53909315945179,4.84915559927857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2597,7 +2597,7 @@ had not received abundant assurances to
 the same effect from regular diplomatic  
 sevrees” Of these he has published tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811040501:0068/pct:4.167653327018707,55.28700906344411,22.377456784276582,3.8699467702488852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811040501:0068/pct:4.166666666666667,55.27905638665133,22.378077651515152,3.872986191024166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

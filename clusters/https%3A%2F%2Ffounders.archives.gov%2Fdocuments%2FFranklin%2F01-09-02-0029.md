@@ -11559,7 +11559,7 @@ the Fuftice of our Demand. i
 Ask the French, what Security they can give you, if we restore  
 Canada to them, however restrained in its Boundaries, that they wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1760110701:0588/pct:10.323637853338795,42.96398891966759,41.15116755428103,7.39612188365651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1760110701:0588/pct:10.323637853338795,42.96860572483841,41.164823159907144,7.391505078485688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12013,7 +12013,7 @@ multiply, and it come to pass, that when there
 Jalleth out any w AR, they JoIN also unto our  
 ENEMIES, and FIGHT against us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769060201:0291/pct:4.406032875783765,24.159544159544158,22.199627181833588,7.378917378917379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769060201:0291/pct:4.406032875783765,24.159544159544158,22.199627181833588,7.38366571699905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12387,7 +12387,7 @@ also unto our enemies, and fight against us,
 and go get them up out of the land.  
 t&#x27;. Therefore they did set over them task
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814041401:0487/pct:3.916386352715041,13.626373626373626,21.3358962037482,6.315018315018315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814041401:0487/pct:3.9154455921210665,13.624377380603574,21.336776363199615,6.3177556401992385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12410,7 +12410,7 @@ they join alto unto our enemies, and fight
 against us, and so separate the Union.  
 0. Therefore they did set over them, col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814041401:0487/pct:26.16530514175877,14.388278388278389,21.311869293608844,6.315018315018315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814041401:0487/pct:26.15901993754504,14.38617052446528,21.312755224597645,6.3177556401992385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12603,7 +12603,7 @@ uniting to one or the cither of these schemes for chcckiu*
 their growth, I dnrc answer for them they would prefe r the  
 la“*r- _ (Button Vat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821111301:0222/pct:51.581313212393646,60.119606003752345,14.737518060683898,8.982176360225141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821111301:0222/pct:51.57303370786517,60.11255715793176,14.740502942750133,8.985031461288935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12939,7 +12939,7 @@ them, lest they multiply, and it come to pass that when
 there falleth out any war, they join also unto our enemies,  
 and fight ag ainst us, and so get them up out of the land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842103101:0504/pct:101.15519839276746,47.8869950968947,52.75405993638038,10.121410226476769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842103101:0504/pct:33.71839946425582,15.9623316989649,17.584686645460128,3.3738034088255895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13056,7 +13056,7 @@ Rachuel weeping for her children, refused to be comforted
 because they were not.&quot; God called upon the oppressor to  
 delist, through his servant Moses. The oppressor replie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855082101:0901/pct:3.772652388797364,55.46854942233633,15.831960461285009,11.566110397946085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855082101:0901/pct:3.772652388797364,55.47282841249465,15.84843492586491,11.570389388104408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13084,7 +13084,7 @@ gerous to Great Britain. The danger of Canada
 being restored became so imminent as to enlist the  
 pen of Franklin in opposition, and the execrabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530595:1858071401:0084/pct:200.75452716297787,181.7622950819672,48.00469483568075,27.459016393442624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530595:1858071401:0084/pct:66.91817572099262,60.58743169398907,16.001564945226917,9.153005464480874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13102,7 +13102,7 @@ and it come to paaa that, when there
 falleth out any war, they join onr enemies,  
 and fight against us. And he spake to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1860020901:0669/pct:38.32099355146883,8.046735136153774,13.016479579651302,2.101196645623292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1860020901:0669/pct:38.32099355146883,8.053016740475517,13.024440729241302,2.104337447784164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13389,7 +13389,7 @@ land. And we are told that this last
 plague made the Egyptians anxious  
 for their departure. &quot; And they bo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1873020101:0228/pct:47.4633431085044,30.651685393258425,13.181818181818182,12.910112359550562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1873020101:0228/pct:35.6168402523104,22.98876404494382,9.887047088161948,9.685393258426966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13582,7 +13582,7 @@ against us, and so get them up out of
 the land.” (Exodus i. 10.) The terms  
 of the treaty which we have quote
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1880022001:0698/pct:40.87032582549749,80.55722891566265,16.81609446752679,5.090361445783133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1880022001:0698/pct:40.86139046786183,80.54509862972444,16.819705582276637,5.094614264919942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13689,7 +13689,7 @@ they join also unto our enemies, and fight
 against us, and so get them up out of the  
 lund
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1881062301:0099/pct:4.1714725105728565,81.11937158086688,12.187620146097654,4.194136625052602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1881062301:0099/pct:4.17067076686527,81.10799438990182,12.190082644628099,4.197054698457223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13767,7 +13767,7 @@ service in mortar aud brick, and in all manner of
 service in the field, all their service wherein they  
 made them serve with rigor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210107:1885051701:0016/pct:26.39444889244729,32.0736527523378,18.82839605017347,12.628940518654199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210107:1885051701:0016/pct:20.45572063842256,24.86178213876575,14.592023165224585,9.787318822533248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14406,7 +14406,7 @@ us aud so get them up out of the land.&quot; He
 hold, the people of the children of Israel  
 are more and mightier than we.&quot; Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191514:1894050901:0253/pct:57.58117776554761,65.75542570951586,16.373142542652726,1.6172787979966612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191514:1894050901:0253/pct:43.19526627218935,49.32178631051753,12.288427136369892,1.2103505843071787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14442,7 +14442,7 @@ taskmasters to afflict them with their
 burdens. And they built for Pharaoh  
 treasure cities. Pithom and Baamses.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191514:1894050901:0253/pct:57.51238304898184,69.66819699499165,16.44193725921849,12.176544240400668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191514:1894050901:0253/pct:43.14022292555387,52.25375626043406,12.343470483005367,9.140233722871452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14460,7 +14460,7 @@ and his God.
 the people of the children of Israel are mora  
 | and michtier than we.&quot; Thi3 is equal to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:0023728737A:1894050901:0115/pct:56.904283284366784,42.59931653139684,13.545693520952529,1.943613840239214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:0023728737A:1894050901:0115/pct:56.909437657852685,42.59931653139684,13.545693520952529,1.950733304855475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14483,7 +14483,7 @@ join also unto our enemies and fight against
 us and so get them up out of the land.&quot; He  
 In his wisdom would fight against the ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:0023728737A:1894050901:0115/pct:57.182619452605536,46.26228107646305,15.076542446265657,4.015378043571124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:0023728737A:1894050901:0115/pct:57.182619452605536,46.26584080877118,15.086851193237463,4.022497508187384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14532,7 +14532,7 @@ eph and his God.
 the people of the children of Israel are more  
 and mightier than we.&quot; This is equal t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1894051001:0161/pct:255.2901023890785,193.3813796146492,58.02047781569966,7.059861744374173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1894051001:0161/pct:63.836142521869,48.3453449036623,14.508214209515682,1.7649654360935432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14555,7 +14555,7 @@ oin also unto our enemies and fight against
 us and so get them up out of the land.&quot; H  
 in his wisdom would fight against the ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1894051001:0161/pct:255.03412969283278,209.08957199588176,57.84982935153584,16.237682012060596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1894051001:0161/pct:63.77213569447408,52.27239299897044,14.4655429912524,4.059420503015149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14573,7 +14573,7 @@ the people of the children of Israel are
 more and mightier than we. This is equal  
 to a confession that he knew Joseph in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1894051001:0851/pct:232.97129557796742,210.77111383108934,50.19394879751746,7.833537331701346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1894051001:0851/pct:58.2541222114452,52.692778457772334,12.550921435499514,1.9583843329253365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14596,7 +14596,7 @@ they join also unto our enemies and fight
 against us and so get them up out of the  
 land.&quot; He in his wisdom would figh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1894051001:0851/pct:233.0488750969744,226.80538555691555,50.116369278510476,17.686658506731945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1894051001:0851/pct:58.273520853540255,56.70134638922889,12.531522793404461,4.421664626682986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14614,7 +14614,7 @@ the people of the children of Israel are
 more and mightier than we.&quot; This is equal  
 to a confession that he knew Joseph in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1894051101:0567/pct:68.83802816901408,206.7106051527861,57.306338028169016,7.609346914319952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1894051101:0567/pct:17.213295179396873,51.67765128819652,14.329738058551618,1.902336728579988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14638,7 +14638,7 @@ against us and so get them up out of the
   
 land.&quot; He in his wisdom would figh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1894051101:0567/pct:68.92605633802818,222.28879568603955,57.394366197183096,17.43559017375674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1894051101:0567/pct:17.23530706581554,55.57219892150989,14.351749944970283,4.358897543439185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14656,7 +14656,7 @@ eph and his God.
 the people of the children of Israel are more  
 and mightier than we.&quot; This is equal to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894051201:0110/pct:35.64987904112602,47.638888888888886,14.2071695623488,1.7592592592592593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894051201:0110/pct:35.64204045734389,47.63153834284832,14.209542656112577,1.7628452399321093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14679,7 +14679,7 @@ join also unto our enemies and fight against
 us and so get them up out of the land.” He  
 In his wisdom would fight against the ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894051201:0110/pct:35.605893996041345,51.651234567901234,14.251154607433472,4.04320987654321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894051201:0110/pct:35.59806508355321,51.64326492825181,14.253518029903255,4.046443450084864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14704,7 +14704,7 @@ they join also unto our enemies and fight :
 against us and so get them up out of the  
 land.” He iu his wisdom would figh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1894051201:0286/pct:76.95753449202653,42.007129147244314,10.08779788568357,4.35974773786674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1894051201:0286/pct:76.94374776065926,42.00137080191912,10.090469365818702,4.362577107607951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

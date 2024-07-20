@@ -253,7 +253,7 @@ FORD.MaNAGER and PrOpriSTOR.
 First follow nature, and your judgment frame  
 By her just standard, which is still the same.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863102901:0423/pct:164.7984267453294,16.262645543042566,99.31170108161258,369.4598205764459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863102901:0423/pct:41.20973690681092,4.065661385760642,24.834029997541187,92.36495514411148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ By her just standard, which is still the same.
 By her just standard, which is still the same;  
 Uherring nature, still dicinely bright
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85042527:00202193997:1869070201:0783/pct:147.6772934287573,217.65215507905566,35.65387117761874,4.59172622915313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85042527:00202193997:1869070201:0783/pct:49.22576447625244,72.55071835968522,11.884623725872913,1.53057540971771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ judgment frame ; . .. : By &#x27;her just
 “First follow nature, and your judgment frame  
 By herljust standard, which is still the same,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1885041101:0024/pct:7.168170103092783,26.042800145085238,20.248067010309278,1.6201184862773546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1885041101:0024/pct:7.178908934707904,26.04683029057349,20.242697594501717,1.6201184862773546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ frame
 By her Just standard, which 4s still the  
 I I&#x27;lMTTimr nature, still divinely bright
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194291:1896031801:0257/pct:14.474739374498798,10.57305397530179,48.33600641539695,114.52754266685167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194291:1896031801:0257/pct:10.870437224227837,7.9367281809352015,36.26153229041316,85.8887193006799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

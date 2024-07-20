@@ -393,7 +393,7 @@ Wifhes of revenge, hr is detenu in d to
 vindicate that honor at fuch hazard as  
 i the nature of the c?.fe demands.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0002/pct:74.15841584158416,46.13492166256636,16.99009900990099,49.553282403211185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0002/pct:74.15841584158416,46.1435538866589,16.99009900990099,49.553282403211185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ W. P. VAN NESS, j
 Wednesday Mornii g,  
 24th, 1804.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0003/pct:5.603960396039604,5.852647934740386,16.613861386138613,9.30985368380163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0003/pct:5.6105610561056105,5.852647934740386,16.627062706270628,9.31848590789417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ N. Pendleton, Esq.
 Wednesday morning,  
 June 27th 1804
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0017/pct:30.547979171832385,6.056782334384858,41.63153979667741,87.98107255520505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0017/pct:30.540406544372832,6.055827156599905,41.62741695587506,87.97114019870683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ W. P. VAN NESS.
 TFt Anefday momf/tg,  
 June i~tb, 1804.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0099/pct:6.494920174165457,2.173373075012419,17.61611030478955,38.32588176850472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0099/pct:6.493742064211863,2.1731031913572583,17.618961243122317,38.325261807194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ Vrr* h- w s not wholly deceived, for the
 : n it.tiii&#x27;. .if n th.». .f Col- liut r should ills*  
 i l i-i efti.sal to 11 ki.owleih e or dei y
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:79.08847184986595,12.676794133053955,19.819992340099578,32.307490832896804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:79.0733295041164,12.675134215005892,19.822579615801903,32.307625158220944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ per and hiskoowledge of faéls. Col. Burr truft­
 ed with confidence, that fsom the franknefs of a  
 foldier, aod the candot of a gentleman, he might
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0528/pct:67.63760166445999,76.12519990861321,19.803291091356158,15.901302261823167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0528/pct:67.64390643717294,76.13281547483055,19.8095958640691,15.901302261823167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ Y our obedient sud very homble fervant,
 W. P. VAN NESS,  
 Wednefday morming, June 371 h, 1504,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0529/pct:12.923368022705771,8.529843168227462,20.45411542100284,29.34672232878258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0529/pct:12.929675181330811,8.529843168227462,20.447808262377798,29.350483282560457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ W. P. VAN NiiSS.
 Wednefdav morning, J  
 Juue 1S04. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0159/pct:72.28489272284892,35.09171241130004,24.50785224507852,50.769848707993035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0159/pct:72.26890756302521,35.08701472556894,24.50796107916851,50.76639892904953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1054,7 +1054,7 @@ Yourobedientand very humble servant,
 Wednelday morning,  
 June e7lh, 1804
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:23.66827147072527,19.0284178187404,34.089144277061656,76.21927803379417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:23.673448258011078,19.034818228366614,34.09432106434747,76.21607782898106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1116,7 +1116,7 @@ prove that the aatiaiactory redrew, ear­
 aculv desired, cannot be obtained, he  
 deeouit use lest to offer an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0312/pct:10.341997264021888,29.21387484748126,20.79343365253078,43.45476729998257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0312/pct:10.339168490153172,29.20878354827466,20.794584245076585,43.45155106308818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1337,7 +1337,7 @@ Sir,
 The letter which I had the honor to re­  
 ceive from you under date of 2d, Januray
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810052901:0510/pct:76.82416731216111,49.174256831148035,16.312935708752903,11.670503453107797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810052901:0510/pct:76.82416731216111,49.1775931671838,16.32326361993287,11.680512461215093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

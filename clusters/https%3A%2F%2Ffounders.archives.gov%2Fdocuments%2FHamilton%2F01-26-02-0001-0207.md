@@ -199,7 +199,7 @@ Sir, your obedient,
 A. BURR.  
 General Hamilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0002/pct:39.504950495049506,6.7719798005956235,17.425742574257427,23.12572834390781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0002/pct:39.51155115511551,6.7719798005956235,17.432343234323433,23.138676680046615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ reply. I have the honor to be,
 &amp; : A.BURR.  
 Gesirar Hanivrrox 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804072401:0532/pct:25.200617283950617,29.881855729516857,17.145061728395063,23.811353376236674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804072401:0532/pct:25.200617283950617,29.888259213011878,17.160493827160494,23.811353376236674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ I have the honour to be,Sir; your obe’dt.
 - / ’ &quot; - \ • A. BURR. 4k  
 General Hamilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0016/pct:69.95459132189707,47.7942373433176,21.84661957618567,23.8971186716588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0016/pct:69.93694829760403,47.786458333333336,21.847414880201764,23.897298177083332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ Sir \ our obedient,
 A. EURR.  
 General Hamilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0098/pct:58.51140890981529,24.28785607196402,17.40311481347338,15.542228885557222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0098/pct:58.500814774579034,24.28482198625859,17.405999155048583,15.544451384551323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ Sir, your obedi nt,
 A. Burr.  
 General Hamilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:23.89888931443891,44.65688842325825,18.402910762160094,27.265584075432162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:23.89431361286617,44.651040984679845,18.405769353500542,27.266378595434507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ I have the bonor to be, |
 . rad Sir, your cbedient  
 Gen, Hamilton. ; A, Burr,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0528/pct:25.156043124645358,51.30226182316655,20.35180631738226,18.67717614804661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0528/pct:25.168652670071243,51.30606960627523,20.345501544669315,18.673368364937932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ Str, y,ur obedient,
 Cm Hamilton. A. BURR  
 On Saturday the izd of Tune, gen. Hamilto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0159/pct:26.144658261446583,19.49390815370197,22.517142225171423,20.93988485741063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0159/pct:26.138876603272887,19.491298527443107,22.51769128704113,20.940428380187416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ I have the honor to be sir, vour ob’dt,
 A. BURR.  
 Cm. Hamilton. — - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0311/pct:27.980665950590762,42.73089585860336,19.790547798066594,24.55380350025992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0311/pct:27.973154362416107,42.723492723492726,19.79194630872483,24.553880803880805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ corum and violated the laws of honour._
 T. he import of the introduction prepares  
 tothe mind to anticipate something of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804082801:0076/pct:47.175651276760384,71.95801902263037,20.737683776115553,8.888160052476222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804082801:0076/pct:47.16348633316142,71.94622069191671,20.738782877772046,8.890801770782096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ licly applied to me under the sanction of your
 name. Your letter has furnished me with new  
 reasons for requiring a definite reply.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:23.702830188679247,43.08075418000711,18.64517819706499,5.763073639274279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:23.69972487881567,43.07692307692308,18.64710249355867,5.76552541870461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ ton&#x27;s authority, he was bound to say whether he had
 authorized it, either directly, or by uttering expres  
 sions or opinions derogatery to Burr&#x27;s honor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851091301:0510/pct:58.347795904199934,85.76836626049923,47.08434571329399,9.866319649828464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851091301:0510/pct:19.449265301399976,28.58945542016641,15.694781904431332,3.2887732166094876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -848,7 +848,7 @@ in, he was bound to say whether he had au­
 thorized it, either directly, or by uttering ex­  
 pressions oropimonsderogatoryto Burr s honor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851091601:0462/pct:32.487795539389296,11.885817978782804,12.501196515746146,3.6850921273031827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851091601:0462/pct:32.48468606431853,11.884988484890782,12.503190403266974,3.687161234791914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -948,7 +948,7 @@ to say whether ho had authorized it, cither di­
 rectly or by uttering expressions or opinions de­  
 rogatory to Burr&#x27;s honor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1851120301:0089/pct:36.419172932330824,108.50686752326096,25.37593984962406,7.255206025697829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1851120301:0089/pct:24.283252389158704,72.34160389898095,16.919943600188,4.840496233938857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -981,7 +981,7 @@ bound to say whether he had authorized
 it, either directly or by uttering expressions  
 or opinions derogatory to Burr&#x27;s honor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852012901:0356/pct:200.37622272385252,234.0966921119593,46.519939804364185,17.825841108283857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852012901:0356/pct:50.084634192213656,58.51590106007067,11.627797630242618,4.455830388692579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1005,7 +1005,7 @@ he had authorized it, either directly or
 by uttering expressions or opinions de­  
 rogatory to Burr&#x27;s honor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852021101:0449/pct:104.74006116207951,109.3480934809348,43.80733944954128,25.092250922509226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852021101:0449/pct:26.18501529051988,27.3370233702337,10.95183486238532,6.273062730627307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ gentlemen from the necessity of a rinhl nA.
   
 Henry R. Pease, who held a brief &quot;ereHce to Vie laws of honor and tfie rides o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877480:1875033101:0570/pct:21.65753424657534,104.33775531690883,31.232876712328768,8.717624763108022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877480:1875033101:0570/pct:16.253254762231055,78.25858075384292,23.434288063587775,6.538218572331017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1063,7 +1063,7 @@ it in others.
   
  as fhoorond follses bet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn85034469:00295878800:1875041701:0256/pct:264.7254575707155,52.54739336492891,98.41930116472545,335.0118483412322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn85034469:00295878800:1875041701:0256/pct:66.18136439267887,13.136848341232227,24.604825291181363,83.75296208530806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1117,7 +1117,7 @@ have authorized the application, either
 directly or by uttering expressions or  
 opinions derogatory to my honor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767827:1895050201:0151/pct:63.76340591485213,23.87241186345831,13.909652258693532,8.617795187465026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767827:1895050201:0151/pct:63.76340591485213,23.87614251072561,13.92590185245369,8.617795187465026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1149,7 +1149,7 @@ have authorized the application, either
 directly or by uttering expressions or  
 opinions derogatory to my honor.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jicama_ver01:data:sn98062949:00340581088:1895050901:0163/pct:45.124387143635374,42.3657913083895,16.578899582349738,9.423657913083895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jicama_ver01:data:sn98062949:00340581088:1895050901:0163/pct:45.124387143635374,42.3657913083895,16.578899582349738,9.429467813153614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1180,7 +1180,7 @@ have authorized the application, either
 directly or by uttering expressions or  
 opinions derogatory to my honor.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1895051101:0017/pct:51.94888178913738,37.69885727089402,13.977635782747603,8.559265068339682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1895051101:0017/pct:51.954206602768906,37.69885727089402,13.982960596379126,8.574202703712002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1213,7 +1213,7 @@ thorised the application, either direct
 ly or by ut. erlng expressions or opin­  
 ions derora:ory to my honor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478088:1895080301:0267/pct:26.048387096774192,8.513005981360411,33.58870967741935,119.51592711086381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478088:1895080301:0267/pct:19.548113778495058,6.3847544860203085,25.21686503933831,89.65085547364028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

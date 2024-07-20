@@ -43,7 +43,7 @@ in which case vessels bound to such ports ought
 not, they acknowledge, to be captured until pre­  
 viously warned not to enter them: let the pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810102901:0181/pct:31.108374384236452,29.42413458427693,20.83743842364532,4.723390488515044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810102901:0181/pct:31.100714109825166,29.419375707585314,20.838463432652055,4.72666990134239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +65,7 @@ ports . light not, they acknowledge to be cap.
 turecl until previously warned not to enter  
 them ; let the people know that a violatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810103001:0209/pct:59.5298833819242,74.65375658781713,17.182944606413994,4.596151489153082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810103001:0209/pct:59.519038076152306,74.64460784313725,17.18588692536588,4.599673202614379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -88,7 +88,7 @@ ought not, they acknowledge,to be cap- |
 tured until previously warned net to  
 enter them : let the people know thii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810103001:0351/pct:59.26695635745324,80.91971544715447,17.986019270734932,6.377032520325203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810103001:0351/pct:59.25576123913865,80.90943731741395,17.9889182722579,6.380456412210508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

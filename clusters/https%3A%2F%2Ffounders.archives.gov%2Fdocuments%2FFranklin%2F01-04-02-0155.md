@@ -2451,7 +2451,7 @@ the moisture is condensed faster in a right
 line downwards than the vapors them­  
 selves can climb in a spiral line upwards.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:0017503738A:1896053101:0564/pct:43.3049779458097,3.7498530621840835,13.279773156899811,2.6683907370400846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:0017503738A:1896053101:0564/pct:43.315479941188826,3.75768974569962,13.269271161520688,2.6683907370400846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

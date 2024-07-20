@@ -53,7 +53,7 @@ fubjeSs of his Catholic majesty, during the f,
 late war between Spain and France. e  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797051801:0003/pct:6.994637444625787,46.930082256169214,16.78712986710189,4.6415981198589895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797051801:0003/pct:6.994637444625787,46.930082256169214,16.798787596176265,4.64527027027027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -75,7 +75,7 @@ and France, that they are ready to receive&#x27;(at their
 Qffi(;e,_between the hours of ten and&quot; one o&#x27;clock,  
 flatly) all complaints and applications, authorize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797052001:0002/pct:77.79868297271872,66.95806786190546,16.133584195672626,3.985775670469699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797052001:0002/pct:77.80456255879587,66.95806786190546,16.139463781749765,3.9894799229515483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ and France, that they are ready to receive.(at their
 Office, between the hours of ten and one o&#x27;clock,  
 daily) all complaints and applications, authorize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060301:0004/pct:61.378353376503235,36.935483870967744,15.818686401480111,3.9589442815249267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060301:0004/pct:61.378353376503235,36.9391495601173,15.836031452358927,3.966275659824047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ and France, that they are ready to receive (at their
 Office, between the hours of ten and one o&#x27;clock,  
 daily) all complaints and applications, authorize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060501:0004/pct:61.49169978957213,36.79245283018868,16.0158989946224,4.024174528301887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060501:0004/pct:61.49754500818331,36.80350825471698,16.021744213233575,4.024174528301887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ the leffe* luftained by the CitizenAf the United
 States, irv consequence of their Vessels and Car­  
 goes having b-en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060601:0001/pct:23.362546125461254,58.87477849970467,15.682656826568266,1.9492025989367985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060601:0001/pct:23.37407749077491,58.88216184288246,15.682656826568266,1.952894270525694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ and France, that they are ready to receive (at their
 Office, between the hours of ten and one o&#x27;clock,  
 daily) all complaints and applications, authorize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060801:0001/pct:22.796978713664455,67.53073618723153,15.770199130235753,3.9697822544808177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060801:0001/pct:22.81414511329824,67.53073618723153,15.764476997024492,3.992001185009628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ ami France, that they are ready to receive (at their
 Office, between the hours of ten and one o&#x27;clock,  
 daily) all complaints and applications, authorize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061901:0004/pct:57.57199602780536,6.620319165744983,17.27904667328699,4.345078211407805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061901:0004/pct:57.59061569016882,6.6242692368462635,17.26663356504469,4.349028282509085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ and prance, that they are ready to receive (at their
 Office, between the hours of ten and one o&#x27;clock,  
 daily) &quot;all complaints and applications, authorize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062401:0001/pct:55.1429889298893,16.55425219941349,15.867158671586715,3.929618768328446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797062401:0001/pct:55.16028597785978,16.55791788856305,15.855627306273062,3.929618768328446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ t power to examine all such persons as eome before
 them, jn oath or affirmation, touching the com­  
 -1 plaints in qneftion, and also to receive in evidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070501:0001/pct:56.460134486071084,44.132381964475485,17.459173871277617,6.755730985274025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070501:0001/pct:56.472142170989436,44.14376802793381,17.471181556195965,6.759526339760134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ the losses sustained by the Citizens of the United
 States, in consequence of their Vessels and Car­  
 goes having bren
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070601:0001/pct:58.9264027204275,52.03448797458781,16.905513723585134,2.042051126909696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070601:0001/pct:58.9264027204275,52.0420511269097,16.92373087199417,2.038269550748752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ the losses fudamed by the Citizens of the United 1
 States, in consequence of their Vessels and Car- !  
 goes havipg been taken by the Subje&amp;s of His Cath- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071101:0004/pct:60.34690436039509,24.39283545840923,16.767044085762468,2.140255009107468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071101:0004/pct:60.34690436039509,24.400425015179113,16.79113466634546,2.136460230722526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ that they are ready to receive (at their Office, be­
 tween the hours of ten and one o&#x27;clock, daily) all  
 complaints and applications, authorized by the fa i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030601:0001/pct:41.89249222567748,79.74305348072902,15.704131497112394,4.660890349566777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030601:0001/pct:41.89804531319414,79.75052285628921,15.715237672145713,4.660890349566777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ that they are ready to receive (at their Office, be­
 tween the hours of ten and one o&#x27;clock, daily) all  
 complaints and applications, authorized by the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030801:0001/pct:39.42528735632184,34.4931465582166,16.20689655172414,4.624190390118994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030801:0001/pct:39.42528735632184,34.49691218557012,16.235632183908045,4.624190390118994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ that they are ready t» receive (at their Office, be­
 tween the hours of ten and one o&#x27;clock, daily) *|!  
 complaints and applications authorized by the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798031301:0001/pct:56.02298850574713,22.296994167788245,18.436781609195403,4.740541348885898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798031301:0001/pct:56.04022988505747,22.30820995962315,18.436781609195403,4.733064154329296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ that they are ready to receive (at tlicir Office; be­
 tween thehours of ten and one o&#x27;clock, daily) all  
 complaints and applications, authorized by the fai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798031401:0004/pct:61.44800553377911,64.95235214037211,16.555222504035047,4.825291181364393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798031401:0004/pct:61.465298593497806,64.95991529269399,16.555222504035047,4.821509605203449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ that they are ready to receive (at their Office, be­
 tween the hours of ten and one o&#x27;clock, daily} alt  
 complaints aild applications, authorized by the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798031501:0004/pct:61.13138686131387,64.15975885455916,16.993613138686133,4.762622456669178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798031501:0004/pct:61.13138686131387,64.17106254709871,16.999315693430656,4.755086661642803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

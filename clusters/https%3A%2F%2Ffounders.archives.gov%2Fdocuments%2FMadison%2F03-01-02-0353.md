@@ -134,7 +134,7 @@ hit: died ai.tl iiin., and of the
 Independence of the said U­  
 nited Sti tes tire thirty-fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809081101:0002/pct:76.28990162617949,43.62091503267974,17.647058823529413,32.10457516339869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809081101:0002/pct:76.28990162617949,43.62091503267974,17.673827210064914,32.113289760348586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ By the President.
   
 R. SMITH, Sccretary ofStafe. s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809081101:0197/pct:47.910863509749305,10.444524756053488,24.06375735066543,54.75243946512468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809081101:0197/pct:47.9034504100263,10.443581172644322,24.065191603486515,54.75050441172042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ JAMES MADISON.
 &#x27;By the President,  
 R. SMITH, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809081201:0251/pct:16.913552951580808,26.239331759578718,21.622816714569975,57.10913382967133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809081201:0251/pct:16.909814323607428,26.234567901234566,21.6254052460949,57.10481723553619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ fourlh. .
 By the President,  
 II. SMITH, Secretary of State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809081401:0624/pct:2.792452830188679,3.5042180402336145,22.641509433962263,24.01038286826736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809081401:0624/pct:2.7917505030181085,3.5036496350364965,22.642102615694164,24.010543390105433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ JAMES MADISON.
 By the President,  
 11. SMITH, Secretary &#x27;&gt;f State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809081501:0117/pct:23.869900771775082,8.523350810876723,17.456817346563763,25.606633337397877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809081501:0117/pct:23.865515340804702,8.522311631309437,17.45973421519995,25.607575388116718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ proclaim the same, and consequently
 that the trade renewable on the event  
 of the said orders bciug|withdrawn,ps
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809081501:0253/pct:76.57058388765707,68.04123711340206,17.79379157427938,28.698453608247423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809081501:0253/pct:76.55643820432293,68.03247004252029,17.79666235605641,28.699050809603573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ JAMES MADISON.
 By the President,  
 |* R. SMITH, Secretary of Statei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809081501:0254/pct:2.220977976857036,3.339350180505415,18.906308324001493,12.05518308406395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809081501:0254/pct:2.2205635379735025,3.338919685445404,18.909000435404614,12.057926174208243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ Great Britain and France and their
 dependencies, and for other purpo­  
 ses,” passed on the 28ih day of June
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809081501:0254/pct:3.7513997760358344,26.959773078906654,17.450541246733856,9.23156266116555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809081501:0254/pct:3.750699757417429,26.956297537707876,17.453505007153076,9.234669760646298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ _ JAMES MADISON.
 By the Pre.ident,  
 R. SMITH, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809081601:0082/pct:3.502129673450071,6.726897770794461,21.233633065152233,29.686732789944024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809081601:0082/pct:3.502129673450071,6.726897770794461,21.24414997107851,29.69327964908835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -870,7 +870,7 @@ thirty-fourth*
 lly the Prelident,  
 R. SMITH, Secretary 6f St a ft
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809082101:0661/pct:6.219458018658374,8.911959013078064,18.236339404709017,36.64554402049346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809082101:0661/pct:6.21807683766378,8.910757616608251,18.23784143904064,36.643974117012675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -925,7 +925,7 @@ thirty-fourth. : ;
 By the Prelident, |  
 - R. SMITH, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809082201:0340/pct:59.95670995670996,48.31882911392405,16.496598639455783,27.689873417721518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809082201:0340/pct:59.967017109874256,48.32542194092827,16.486291486291485,27.689873417721518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ the Treasury, to the Collector of the ports, menti­
 oning—that the trade retiewalde on the withdrawing  
 of the orders,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809082801:0643/pct:52.14934905428642,71.49227584010193,20.83026283468435,16.865742952699474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809082801:0643/pct:52.13654223968566,71.48089171974522,20.831286836935167,16.86703821656051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1409,7 +1409,7 @@ JAMES MADISON.
 By »he Preside . t,  
 R. SMITH, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809120101:0004/pct:5.780113177041229,10.398841648018955,17.562651576394504,34.64525470580492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809120101:0004/pct:5.793586634330369,10.407617041814751,17.569388305039073,34.63647931200913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1512,7 +1512,7 @@ By the President, ; e
 (Signed) R. SMITH,  
 . Secretary of State. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810050101:0493/pct:23.989938688885395,60.63968015992004,16.601163339097628,6.306846576711644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810050101:0493/pct:23.989938688885395,60.64634349491921,16.611643871508672,6.3135099117108116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

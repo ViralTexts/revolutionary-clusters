@@ -477,7 +477,7 @@ Makes man a slave, takes half his worth away.&quot;
   
 The preceding- remarks; if correct, fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197206:1841090801:0206/pct:42.42424242424242,73.5042735042735,18.939393939393938,2.3693605972086984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197206:1841090801:0206/pct:31.82782661412549,55.13361462728551,14.216429220976053,1.7743156983663313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -676,7 +676,7 @@ But the slaves of which Homer speaks were whites
 Notwithstanding these considerations which must  
 weaken their respect for the laws of property, w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530376:1852031901:0328/pct:53.93626184323859,195.6419038620527,46.94229112833764,7.641431439707098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530376:1852031901:0328/pct:17.978753947746196,65.21396795401756,15.647430376112547,2.5471438132356994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ weaken their respect for the laws of property, w
 Jovo fix d it certain, that whatever day  
 Makes man a slave, takes half his worth away
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072101:0798/pct:48.38576727572469,14.536340852130326,10.908091770847644,0.9350298823983034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853072101:0798/pct:48.390346659339656,14.536340852130326,10.92182992169254,0.9414562046140994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -760,7 +760,7 @@ MakcB man a slave takes half his worth away.”
 We would like to inquire whether or no  
 it is best upon the points at issue, to pu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340597:1860092901:0362/pct:56.96400625978091,16.45313553607552,12.397843853242914,2.049898853674983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340597:1860092901:0362/pct:56.95410292072323,16.45091693635383,12.400034770514603,2.052993527508091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ Opinion of the Attorney General as to
 the Pay of Oolored Officers of Regi­  
 ments of Colored Volunteers in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864043001:0480/pct:222.52165543792108,43.02906869098315,102.30991337824831,339.78892797630067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864043001:0480/pct:55.643802647412755,10.757267172745788,25.583634175691937,84.94723199407517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ ments of Colored Volunteers in th
 “Jove has ordained it that whatever day  
 Makes man a slave takes half his worth awiy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152354:1864043001:0174/pct:55.33532041728763,32.23728060431015,11.907600596125187,0.7220617640524328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152354:1864043001:0174/pct:55.34028812717337,32.240983485151446,11.902632886239443,0.7183588832111383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -883,7 +883,7 @@ years ago--that whatever day
 makes man a slave takes half his  
 worth away
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775101:1866092701:0969/pct:156.51526433358154,60.03987467957847,44.22933730454207,19.5955568214184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775101:1866092701:0969/pct:39.15067982864593,15.009968669894617,11.063512758428013,4.8988892053546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -905,7 +905,7 @@ j makes man a tyrant takes all his worth
 \ That is the reason why with all his faults  
 | of necessity and circumstance, the Greek
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347247:1867011701:0015/pct:53.22623123518567,68.1799591002045,12.602054253357915,3.885480572597137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347247:1867011701:0015/pct:53.21922317314022,68.17298844698907,12.60478384902348,3.8884912926421973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -926,7 +926,7 @@ away,&#x27;
 tn find oat who ii the editor of the  
 Tribune, ret him inonire at the northeas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867052801:0494/pct:56.69421487603306,110.31919545255793,16.75619834710744,4.285089637079143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867052801:0494/pct:42.52944823310602,82.74304037312345,12.585244885306881,3.2211047952193557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ thousand six hundred years ago:
 That whatever day makes man a slave  
 takes half his worth awady
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022135:1868022601:0093/pct:87.16461203770848,321.4470284237726,55.40246555474982,39.448751076658056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022135:1868022601:0093/pct:21.799056945955748,80.36175710594316,13.855640188610808,9.862187769164514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1219,7 +1219,7 @@ away,&quot; and if this be true the damage to
 It was the moral effect of slavery upon  
  society and political government that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211102032:1886112001:0542/pct:100.38729666924864,279.47892720306515,44.46165762974439,9.808429118773946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211102032:1886112001:0542/pct:25.101685066821616,69.86973180076629,11.117567305829944,2.4521072796934864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

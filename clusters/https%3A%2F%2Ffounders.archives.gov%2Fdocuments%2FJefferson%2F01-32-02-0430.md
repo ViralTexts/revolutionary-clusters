@@ -157,7 +157,7 @@ verv word ration, gives them the horrors, as in
 the present Deinocratical spirit o| America, they fear  
 they should lose some of the favorite morsels ot th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840051901:0483/pct:63.65398956002983,82.7433628318584,15.749440715883669,6.496379726468222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840051901:0483/pct:63.6639323887646,82.75006704210244,15.749440715883669,6.493027621346205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ lose some of the favorite morsels of the constitu
 tion.&quot;  
 In a letter to Mr. Madison of the 18th of Feb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0027/pct:312.56323777403037,332.399943430915,59.94940978077572,34.903125441945974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0027/pct:78.157284419144,83.09998585772875,14.990512333965844,8.725781360486494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ they should lose seme of the favorite morsel
 of the Canstitution.  
 Ina letter to Mr. Madisen of the 18th 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840070101:1302/pct:6.7328519855595665,74.9476165531692,14.47653429602888,8.761131482451546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840070101:1302/pct:6.738868832731649,74.9476165531692,14.494584837545126,8.765496769687445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ they fear they should lose some of the favorite
 morsels of the Constitution,”  
 Thus was this bold attempt to perpetnate them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1842122801:0030/pct:44.41087613293051,34.4817195660908,12.649415473532116,7.9951787866613095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1842122801:0030/pct:44.41087613293051,34.4817195660908,12.658172424361837,8.00187491629838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ the Middle States would arm, and that no such usurpa­
 tion, even for a sirgle day, should be submitted to  
 rst shook them, &amp;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860082201:0809/pct:3.729756257156879,158.4294796326819,48.68313430394242,11.702378149281847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860082201:0809/pct:1.2432520857189595,52.8098265442273,16.22771143464747,3.900792716427282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ that no such usurpation, even for a&#x27;, ingle
 day, should be submitted to. This first shook  
 them,&quot; A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1860111001:0249/pct:11.515601783060921,95.4701343240926,16.71619613670134,5.744498428122321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1860111001:0249/pct:8.63830577744752,71.60617319234066,12.558053130224781,4.3155187196341815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ legally, by resigning, will prevent my filling
 them without the prerious advice of Senate. How  
 this difficulty is to be got over I know not. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869033101:0729/pct:111.1024237685692,172.8875722951051,46.12978889757623,10.777260544505571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869033101:0729/pct:27.791902992372385,43.22189307377627,11.539213768824565,2.694315136126393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ volume 4, page 354.
 The necessity of a change after the  
 events of 1801 was apparent. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881030201:0884/pct:302.12598425196853,94.00921658986175,40.23622047244095,38.0184331797235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881030201:0884/pct:75.54636739515652,23.502304147465438,10.061035636936404,9.504608294930875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ Again, the day after the election, he wrots the follow,
 ing letter:  
 the minorits of tha otse of nenssentallver alle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062701:0300/pct:234.856700232378,288.69723104857013,51.123160340821066,14.1625056740808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062701:0300/pct:58.74830459213331,72.17430776214253,12.788219337337726,3.5406264185202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ would not receive the Government on capit
 ulation, that I would not go into it with my  
 hands tied.&quot; This was the view of Jreye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062801:0310/pct:177.55261106780983,38.320049049662785,52.4551831644583,16.799509503372164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062801:0310/pct:44.40545808966861,9.580012262415696,13.118908382066277,4.199877375843041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ When we look at these things it ic m;
 hard to see where the seed of rebcllioi  
 was sown, nor what nurtured it int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291979:1893060601:0807/pct:66.40017286084702,54.88350563184694,19.490060501296455,18.34593426940287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291979:1893060601:0807/pct:49.81629565593257,41.16648665329424,14.631510698076507,13.763308131461194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

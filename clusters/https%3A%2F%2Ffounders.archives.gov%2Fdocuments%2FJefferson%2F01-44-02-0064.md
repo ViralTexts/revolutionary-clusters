@@ -65,7 +65,7 @@ I drip and refpejr.
 (Signed)  
 Tr. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102601:0003/pct:20.84257206208426,75.20500347463516,19.26829268292683,22.515635858234884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102601:0003/pct:20.84257206208426,75.20500347463516,19.27568366592757,22.524901552003705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ I falute you, holy fifters, with
 friendfhip and refpect.  
 (Signed) Tu. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804110801:0589/pct:32.19229330340441,46.744821306624175,19.58473625140292,24.709765536080127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804110801:0589/pct:32.19852849482479,46.744821306624175,19.590971442823296,24.717353365202214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ charitable (iijects of your institutions cannot be indif­
 bers in the wav they should go, cannot fail to cutare  
 it the patronage t&gt;f the government it it under ; b»
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804110801:0201/pct:73.7220652453121,85.65160870978225,22.090932442846135,11.732206694832628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804110801:0201/pct:73.70313302516692,85.63769293257515,22.091679506933744,11.734362307067425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ dice can give it,
 / Joint; \tu, ho&#x27;y hjltrs, with JriendJhif and rrJ-tR.  
 (Signet*) &#x27;Eh. JfcfFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804111201:0220/pct:74.06832298136646,52.05076820307281,22.582076308784384,11.075484301937207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804111201:0220/pct:74.05189620758483,52.04381512156024,22.582612552672433,11.077344376168849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ can give it. 1 salute you, boly Sifers,
 dith friendfbip and refpecs. (Signed, )  
 - THOMAS JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804112001:0601/pct:7.914110429447852,6.219359800057676,16.380368098159508,20.09997116216476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804112001:0601/pct:7.924335378323108,6.222564003973213,16.37525562372188,20.103175366080297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ I salute you, holy sisters, with friendshi
 and respect,  
 (Signed) THOs, JEFPERsON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1855072801:0071/pct:22.87430683918669,227.3764258555133,53.51201478743069,54.56273764258555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1855072801:0071/pct:7.624768946395564,75.79214195183776,17.837338262476894,18.187579214195186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ i to insure it the patronage of the government it is under
 &quot;I salute you, holy sisters, with friendship and rcApect  
 thus, jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855083101:0937/pct:67.42562738906432,77.90712549571447,16.087751371115175,10.04221568376615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855083101:0937/pct:67.4311672483519,77.91565391667733,16.104370948977895,10.04647989424758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ the protection my office will give it.
 &quot;I salute you, holy sisters, with friend  
 ship and respect. &quot;Thos, Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855092501:0515/pct:181.61004431314623,232.19455703532137,48.96602658788774,61.146496815286625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855092501:0515/pct:45.4276741178644,58.04863925883034,12.248291150932939,15.286624203821656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ government it is under. Be sure it will
 meet with all the protection my office  
 can give it.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742848:1894081101:0098/pct:36.40319071791153,48.16955684007707,14.169688179840463,17.736537876483116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742848:1894081101:0098/pct:36.41285956006768,48.16955684007707,14.164853758762389,17.746678835817868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

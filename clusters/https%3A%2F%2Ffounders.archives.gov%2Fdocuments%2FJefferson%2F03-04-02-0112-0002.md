@@ -201,7 +201,7 @@ inability to discharge the duties and powers of his
 office, the said powers and duties shall devolve on the  
 Lieutenant Governor; and the legislature mav provid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829101701:0303/pct:3.874861044942036,89.3281116142455,17.754486263299984,4.993268877738343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829101701:0303/pct:3.8742457923150204,89.31718061674009,17.756959881443844,4.996736824930657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ charge the duties and powers of hi* office, (lie said
 power* and duties shall devolve on the Lieutenant Go­  
 vernor, and the. Legislature may provide for the c*«e o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829101701:0121/pct:50.363016743221216,50.201636133195066,15.26152022521855,2.742251411452932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829101701:0121/pct:50.355555555555554,50.19585253456221,15.264197530864198,2.7457757296466974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ ting the opinion of the principal officer of such
 executive departments, including the law offi.  
 cer or attorney genrral, aa may be establishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829102901:0182/pct:27.617406290392072,61.76429664672325,17.492460146488582,13.733129261165994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829102901:0182/pct:27.611458108981264,61.755703951029496,17.494077105319835,13.73469671675014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ cepted,) shall he eligible to a seat in either
 House of the General Assembly.  
 No person who now is, or shall be here
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1836012901:1039/pct:44.22951532275592,32.62823171574727,17.539665290154314,4.355039402737454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1836012901:1039/pct:44.219904389395914,32.62372131600774,17.543097204114154,4.3590452492857805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ ly. if any bill shall not be returned by the Governor
 been presented to him, the same shall become a law in  
  like manner as if he had signed it, unless the Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743270:1857120501:0778/pct:5.130687318489835,257.93704710144925,53.83994837044208,14.390851449275363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743270:1857120501:0778/pct:1.7102291061632784,85.97901570048309,17.946649456814026,4.796950483091788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ shall have been presented to him, the
 same shall become a law, in like manner  
 as if he had signed it, unless the Legisla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82015827:00212472815:1857120501:0402/pct:50.639418254764294,52.56252562525625,19.09478435305918,7.339073390733907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82015827:00212472815:1857120501:0402/pct:33.76802507836991,35.04510045100451,12.727272727272727,4.88929889298893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +526,7 @@ Houses, and on questions of adjournment,
 shall be presented to the Governor, and be­  
 fore it shall take effect be approved by him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85030219:00212472803:1857121901:0103/pct:26.48408812729498,107.85880785880786,22.123623011015912,20.09102009102009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85030219:00212472803:1857121901:0103/pct:17.66146311600857,71.9058719058719,14.75359657177839,13.397713397713398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ was not elected to the office of Governor;
 and the clause in the 1st Section quoted,  
 declaring that the Governor shall not b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022020:1864012501:0509/pct:82.85065303804656,175.2563226247437,41.28336172629188,56.550467076782866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022020:1864012501:0509/pct:20.71266325951164,43.81408065618592,10.32084043157297,14.137616769195716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ pose that Lane was serving out his full term of
 office as Governor, and Morton his full term as  
 Lieutenant Governor, Lane would not of cours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864012901:0107/pct:7.790368271954674,72.16788191356927,52.07743153918791,46.238662635603774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864012901:0107/pct:1.9482819695359546,18.04197047839232,13.023969772110048,11.559665658900943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ shall, by law, provide for the case of removal
 from office, death, resignation or inability both of  
 the Governor and Lleutenant Governor, declarin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864012901:0107/pct:8.073654390934845,223.54614974213052,51.227573182247404,8.643073092655166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864012901:0107/pct:2.0191285866099893,55.88653743553263,12.811429920887944,2.1607682731637916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ in-Chief of the militia of the State, except
 when they shall be called into the actual ser?  
 vice of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555286:1868031301:0251/pct:29.40069030436147,62.563869649142724,13.555067461562597,10.48029976155331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555286:1868031301:0251/pct:29.40069030436147,62.57143938533742,13.565526618554545,10.476514893455963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ three days after it shall have been
 presented to him, Sundays excepted,  
 it shall have the same f oreo and effec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551682:1868031501:0560/pct:38.211038274476635,31.298434287521747,17.868471135546628,15.910169223469872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551682:1868031501:0560/pct:38.21808698103898,31.308977805893825,17.868471135546628,15.904897464283831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -819,7 +819,7 @@ in-chief of the militia of the State, except
 ?when they Shall be called into the actual  
 ierviee of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551256:1868032501:0230/pct:2.133461661854347,86.64096916299559,16.201475777991657,12.103524229074889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551256:1868032501:0230/pct:2.133461661854347,86.64831130690162,16.217516843118382,12.103524229074889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ hall be called into the actual ser­
 ice of the United States.  
 See. 11. HIe shall have power t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237286996:1868032501:0151/pct:69.49879388903778,59.74943481537302,12.89198606271777,25.480406932931423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237286996:1868032501:0151/pct:69.5032609666756,59.75257472996734,12.896453140355579,25.477267018337102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ spectively.. If a bill or joint reso­
 lution shall not be retdrned by the  
 .Governor, iiithin three days afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237286996:1868032501:0151/pct:82.22996515679442,67.79389600602863,13.320825515947467,15.373021853805577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237286996:1868032501:0151/pct:82.23889931207005,67.80017583521729,13.325292593585276,15.373021853805577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -942,7 +942,7 @@ terms, and under such restrictions as ho shall think
 proper ; and he shall have power to remit fines  
 and forfeitures, unless 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862725:1868040201:0259/pct:30.198150594451782,12.964359796341693,29.075297225891678,85.86649066566095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862725:1868040201:0259/pct:30.202553940995156,12.970645546545981,29.075297225891678,85.86963354076309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ resolution shall not be returned by the Governor
 within three days after it shall have been presented  
 to him, Sundays excepted, it shall have th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862725:1868040201:0259/pct:43.42140026420079,44.76711295493117,15.812417437252313,7.920045257401471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862725:1868040201:0259/pct:43.42140026420079,44.770255830033314,15.821224130339058,7.923188132503614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1015,7 +1015,7 @@ by their adjournment, prevent
 its return; in which case it sliall not  
 have such force and effect, unless, returned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86053067:00295862348:1868040901:0017/pct:79.47546531302876,32.942607541745,19.746192893401016,17.914408935087913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86053067:00295862348:1868040901:0017/pct:79.48110547095318,32.942607541745,19.740552735476594,17.92546721220834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1036,7 +1036,7 @@ Gov-ernar;&quot; &quot;.&#x27; : &#x27; &#x27; &#x27;-
 Goversor Gray, by the fiat of Providence,  
 will bold th once o&#x27;f Chief Magistrate o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191666:1880112401:0312/pct:24.873382104670792,100.325390994017,16.685424873382104,4.891361393933033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191666:1880112401:0312/pct:18.662913441238565,75.24929148735174,12.526389866291344,3.673769287288758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1080,7 +1080,7 @@ as Governor until the vacancy be filled, and if
 there be no President of the Senate, the Secre­  
 tary of State shall conv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041421017A:1886080601:0318/pct:20.701465954240305,27.12482745020706,14.426633785450061,13.656083612699664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041421017A:1886080601:0318/pct:20.710599625519478,27.12811411292973,14.417500114170892,13.662656938145007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ Governor, the President of the Senate shall act as
 Governor until the vacancy be filled, and if there be  
 no President of the Senate, the Secretary of Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210193:1886120901:0343/pct:35.88484104243417,20.01557632398754,14.490380679492427,7.067757009345795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210193:1886120901:0343/pct:35.88484104243417,20.022066458982348,14.499476963660344,7.067757009345795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1138,7 +1138,7 @@ the disability be removed or a Governor be elected.
 In construing this last section, we must con­  
 sider, also. Section 1, Arfciele 3, of the Constitu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210193:1886123001:0533/pct:35.88075880758807,26.921952645425314,14.40379403794038,4.910844782227419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210193:1886123001:0533/pct:35.88979223125565,26.928448471856832,14.408310749774165,4.914092695443178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1177,7 +1177,7 @@ court msj ansa icTion In any county where any
 part of the cause or action arose. Your Honor  
 announced from the bench that it was a specia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887011501:0147/pct:28.761709601873537,53.4923339011925,19.394028103044498,15.151192504258944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887011501:0147/pct:21.584419387904525,40.11925042589438,14.555571826036022,11.37137989778535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1205,7 +1205,7 @@ Note that this section does not, in any event,
 refer to the filling of the vacancy occasioned by  
 the death, removal or resignation of the Lie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887012701:0268/pct:87.27562246670527,31.090561224489797,19.09380428488709,8.078231292517007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887012701:0268/pct:65.47929336808572,23.32057823129252,14.320880393860412,6.058673469387755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

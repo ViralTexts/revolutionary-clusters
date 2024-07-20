@@ -149,7 +149,7 @@ ly agree that the citizens of each may frequent all
 the coasts and countries of the other, and reside  
 therein, and shall have the power to purchase an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293186:1854110501:0434/pct:124.40846824408469,103.63548230731944,49.50186799501868,19.825496849248665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293186:1854110501:0434/pct:31.102117061021172,25.90887057682986,12.37546699875467,4.956374212312166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ therein, and shall have the power to purchase an
 hiay frequent all .the coasts and countries of. the  
 other, and reside therein, and shall have th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029297:00212472840:1855022301:0095/pct:74.50440528634361,46.18768328445748,21.241740088105725,1.4243820695433598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029297:00212472840:1855022301:0095/pct:49.69012532708993,30.791788856304986,14.171601707753753,0.9530791788856305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ and shall, have the power to purchase and hold lands,
 and all kinds of real estate, and to engage in all kinds  
 of trade., manufactures, and mining, upon the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855050101:0198/pct:14.911575562700964,28.643371017471736,12.794748124330118,5.077081192189106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855050101:0198/pct:14.909578030810449,28.64042749974309,12.796383121232418,5.079128558216011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ of trade., manufactures, and mining, upon the sam
 ot each may frequent all the coasts and countries of the  
 other, and res de therein, and shall have the power to pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1855051201:0355/pct:2.3114593535749264,49.63148379919344,16.669931439764937,0.8900013906271729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1855051201:0355/pct:2.3114593535749264,49.63496036712557,16.68462291870715,0.8865248226950354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ ns of each may frequent all the coasts and co­
 untries of the other and reside therein, and shall  
 have the power to purchase and hold lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1856011201:0082/pct:310.4166666666667,141.1764705882353,66.89814814814815,8.300463042359802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1856011201:0082/pct:77.62662807525325,35.294117647058826,16.729377713458756,2.0751157605899504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ of each may frequent all the coasts and
 countries of the other, and reside therein,  
 and shall have the power to purchase an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1875031801:0047/pct:76.17139334155364,20.304191912946706,12.885326757090013,1.5827871893161864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1875031801:0047/pct:57.14505934946817,15.234326697168294,9.665484815785417,1.1870903919871398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

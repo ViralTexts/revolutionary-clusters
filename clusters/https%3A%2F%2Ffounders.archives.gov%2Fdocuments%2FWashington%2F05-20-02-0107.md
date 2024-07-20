@@ -274,7 +274,7 @@ those great principles of magnanimity
 and wisdom, which form the basis of  
 sound policy and durable glory.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824090101:0206/pct:63.23114158935054,41.483050847457626,18.959257765227914,37.612994350282484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824090101:0206/pct:49.010004168403505,32.14989418375538,14.698832847019592,29.150550974239216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ inose great principles ol magnanimity
 and wisdom, wliich form the basis of  
 [sound policy and durable glory.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826021801:0170/pct:74.62111482147444,35.48704493276484,17.59568456203442,28.79632666448016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826021801:0170/pct:74.60195172059579,35.48122643056239,17.59758602978942,28.795704213805543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ M iy the Almighty an 1 Merciful Sovereign of
 the Universe keep your Majesty under lb-pro­  
 tection and guidance.*’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852020301:0242/pct:58.51145038167939,53.46784363177806,12.891221374045802,21.192377749754797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852020301:0242/pct:58.505867760709855,53.464098073555164,12.89317177114143,21.193228254524225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1060,7 +1060,7 @@ May the Almighty and Merciful Sover­
 eign of the universe keep your Majesty  
 under his protection and guidance.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874429:1852061201:0332/pct:244.88125802310654,48.433242506811986,38.55905006418485,74.42098092643052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874429:1852061201:0332/pct:81.62708600770219,16.14441416893733,12.853016688061617,24.806993642143507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1121,7 +1121,7 @@ glory. May the Almighty and Merciful
 Sovereign of the universe keep your Majes­  
 ty under his protection and guidance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1852061601:0619/pct:1.6519823788546255,37.850411547178815,13.971050975456262,28.49815101992127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1852061601:0619/pct:1.6624711558632264,37.8543878484234,13.971050975456262,28.49815101992127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ it expedient to prescribe.&#x27;
 &quot;The request of our chief magistrate was  
 not so much as replied to, being treated o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028575:1867051701:0152/pct:45.46684709066306,65.73655103066868,12.56765899864682,13.461538461538462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028575:1867051701:0152/pct:45.47248534055029,65.73655103066868,12.573297248534056,13.478297301826714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1222,7 +1222,7 @@ would not
   
 grant.George eshington,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn84027398:00279528438:1872030701:0044/pct:104.40354464894342,272.2593363267988,29.175187457396046,17.68700032855109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn84027398:00279528438:1872030701:0044/pct:34.80118154964781,90.75311210893294,9.725062485798682,5.895666776183696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1271,7 +1271,7 @@ your Majesty may think it expedient to
   
 prescribe,” _ , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342132:1885021501:0486/pct:41.56573116691285,71.37876386687797,11.137370753323486,12.276809297411516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342132:1885021501:0486/pct:41.57065484982767,71.37876386687797,11.142294436238306,12.276809297411516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

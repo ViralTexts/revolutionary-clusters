@@ -268,7 +268,7 @@ Sec. 32. The appointment of all officers
 not otherwise directed by this constitution,  
 shall be made in such manner as may be pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820082201:0235/pct:60.17581246670218,43.364299933643,17.341502397442728,1.6589250165892502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820082201:0235/pct:60.159786950732354,43.35710731464588,17.343541944074566,1.6627964836622988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ Sec. It. The appointment of all offi­
 cers, not otherwise directed by this Consti­  
 tution, shall be vested in the legislature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020866_ver01:data:sn83020866:print:1828030601:0001/pct:22.00278810408922,81.00292262728811,17.030669144981413,2.5996000615289954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020866_ver01:data:sn83020866:print:1828030601:0001/pct:22.00859665427509,81.0106137517305,17.036477695167285,2.5996000615289954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ mittee
 ivir. ncoTT now moved the following :  
 “ Rcsolne*/, That no member ol the Legislature, shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829122501:0215/pct:18.761061946902654,54.398359161349134,14.734513274336283,5.54922515952598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829122501:0215/pct:18.758295236690753,54.392161330750824,14.737256058595094,5.552390718164901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ off nding agaiust the s’ate either oy mal-admi
 lustration, corruption, neglect of du y, or any  
 o&#x27;h&#x27;-r high ctime or misdemeanor, shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830010801:0336/pct:24.66736694677871,66.45306752106325,18.224789915966387,7.428503619318856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830010801:0336/pct:24.663049186066864,66.44518272425249,18.227434506097204,7.4315772820756205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ offices as may be filled by elections by tbe people.
 cr every year. Neither House, during the session or  
 the Legislature, shall, without the consent of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:42.30583695127834,56.88559322033898,17.526933590609424,4.884651600753296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:42.29903536977492,56.87889843474167,17.529474812433012,4.887999686163744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ I 9. The General Assembly shall meot once or often­
 ; or every year. Neither House, during the eession ot  
 the Legislature, shall, without the consent of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:41.898185321984904,56.94642010431484,17.921952786253414,4.777145566619251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:41.89145793192036,56.939670498992534,17.924427317490903,4.780530204259017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ have been created, or the emoluments of which shall
 have been increased, during such term, except such  
 offices ns may be filled by elections by the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:42.34620886981402,68.67179980750721,17.27865204260054,3.476900866217517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:42.33947870311507,68.663539035246,17.28120364484001,3.4804924014595615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ offices as may be filled by elections by the people.
 er even- year, tyeithcr House, during the session oi  
 tlie Legislature, shall, without the consent of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020501:0126/pct:42.56369426751592,68.5097854279651,17.388535031847134,4.338599386937043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020501:0126/pct:42.556917688266196,68.50170930095486,17.391073608236482,4.342017368069472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ or oftener every year. Neither House, dnring
 the session of the Legislature, shall without the  
 consent of the other, adjourn for more than thro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:49.2648196873549,65.13021433510025,14.394056647577774,5.277713758930629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:49.25719591457753,65.12270998963014,14.396987516764675,5.280946345585129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ the Legislature, shall, without the consent of the
 other, ndjourn for more than threo days, nor to any  
 other place than that in which the two Houses shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:42.36541598694943,68.82562277580071,17.99347471451876,6.002372479240806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:42.358505953351816,68.81745937611197,17.995976730277825,6.005614201557743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ offices as may be filled by elections by the people.
 er every year. Neither House, during the tcssioji oi  
 the Legislature, shall, without the consent cf th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:42.49119436439321,67.61430940535418,17.803394172270252,4.856669035773513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:42.484392508404035,67.60630107781594,17.805880155808122,4.860041849263689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ offices as may be filled by elections by the people.
 er every year. Neither House, during the ecssioa oi  
 the Legislature, shall, without tho consent of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:60.56864337936637,29.31339064892239,17.822908204711617,4.805087739959958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:60.55880441845354,29.309938765897314,17.825427766948234,4.80844716596012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ which shall have been increased, during sueli
 term, except such offices as may be filled by  
 elections by the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:48.890589135424634,67.49861342207431,14.185156847742922,3.2612312811980035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:48.88310893512852,67.49112688553683,14.188086495308038,3.264566696243715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -685,7 +685,7 @@ have been created, or the emoluments of which shall
 have been increased, during^uch term, except such  
 offices as may be filled by elections by the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:60.38317908751421,29.258160237388726,17.827569410618608,3.394658753709199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:60.37337662337662,29.25468787087586,17.83008658008658,3.3982118838515705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ within the limits of county, were left to be provided for by th
 28The appointment of all officers not other­  
 wise directed by this Constitution, shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1836020501:1043/pct:44.12981921150076,25.451786453303903,17.447179263776956,1.269140571113257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1836020501:1043/pct:44.12020905923345,25.448275862068964,17.450638792102207,1.2735632183908046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ be elected annually, and no one is per­
 mitted. during the term for which he  
 shall have been elected, to be appoin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1837052701:0545/pct:4.098159509202454,21.592442645074225,16.12269938650307,12.887989203778677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1837052701:0545/pct:4.097154072620216,21.58880080958003,16.124877330716387,12.890032045876202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -881,7 +881,7 @@ to which may bo made in whole or in part
   
 17 eiuicr orancn ot the legislature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1838070701:0696/pct:38.37420526793824,96.82628062360801,22.979109900090826,13.307349665924276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1838070701:0696/pct:28.81163371960918,72.61971046770601,17.246080436264485,9.980512249443207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -916,7 +916,7 @@ the appointment to which may be made in
   
 w noie or in pan, py euuer oiaucu vi uic .ue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1838100201:0525/pct:42.5869432580842,12.700277718436231,17.464917632702868,9.495834223456527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1838100201:0525/pct:31.94995422642661,9.527878658406323,13.106499847421421,7.1245460371715446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ he is elected, be eligible to any office or place,
 the appointment to which may be made in  
 whole or in part, by either bianch of the Le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1838121101:0561/pct:43.56527093596059,10.659624919163614,17.6878078817734,9.46324638930804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1838121101:0561/pct:32.69675034652703,7.997413235611123,13.275835515170183,7.102823884457857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1057,7 +1057,7 @@ fee is elected, be eligible to any office or place,
 the appointment to which&#x27; may be made in  
 whole or in part, by either bianch of the Jje
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1838121801:0565/pct:41.50246305418719,12.580784144765188,17.641625615763548,9.424816889271865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1838121801:0565/pct:31.136433631044042,9.43558810857389,13.24299353249153,7.076691081430418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1086,7 +1086,7 @@ he is elected, be pligible to any office or place,
 the appointment to which may &quot;be made in  
 &quot;whole or in part, by either bianch of tlie L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1838122501:0569/pct:41.71807526218384,12.749946248118684,17.597162245527453,9.481831864115245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1838122501:0569/pct:31.297238932592936,9.567834874220598,13.203763689649854,7.116749086218018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1121,7 +1121,7 @@ the appointment to which may be made in
   
 whole or in part, by either bianca oi tne l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1839010101:0573/pct:41.38461538461539,11.910669975186105,17.6,9.407703096342647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1839010101:0573/pct:31.05570944906125,8.933002481389579,13.204062788550322,7.0557773222569855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1218,7 +1218,7 @@ is elected, be eligible&quot; to any office or place, the&quot;
 appointment to which may be made in whole  
 or in part by cither branch of the legislature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065034:00295877649:1843122101:0164/pct:63.66705813270699,32.13142735225091,18.482090428655315,9.835715809686366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065034:00295877649:1843122101:0164/pct:47.7750036716111,24.09857051418818,13.864003524746659,7.382120759547685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1239,7 +1239,7 @@ is elected, be eligible loany office: or place, the
 appcintmeht to which may bo made in whole  
 r in nart hv either branch of the legislature. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065034:00295877649:1844010401:0168/pct:65.72629051620649,39.56759026028548,18.74249699879952,4.481528127623846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065034:00295877649:1844010401:0168/pct:49.30211616389014,29.68094038623006,14.062734503977188,3.3585222502099077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1293,7 +1293,7 @@ served to me, on the occasion, &quot;Sir, if my . &#x27; , . , , . , . , i i;:t,
 life, reputation, or properly were at stake, 1 . 7  
 would rather be defended by Col. Butkr any office or place, the appointment o( which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065298:0029587806A:1844021701:0402/pct:16.47774979009236,75.67196928140427,45.46599496221663,6.1985737794843665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065298:0029587806A:1844021701:0402/pct:12.371350556605755,56.760833790455294,34.13148498214661,4.648930334613275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1321,7 +1321,7 @@ is attached no annual salary, or the office
 of justice of the peace, shall not be deem­  
 ed lucrative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1844110801:0510/pct:64.61033890363892,19.514908767245217,15.461502420740278,8.522474410324877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1844110801:0510/pct:64.62075068978083,19.52232606438214,15.456296527669322,8.522474410324877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1352,7 +1352,7 @@ to any office or place, the appointment to
 which may be made, in whole or in part, by either  
 branch of the legislature; nor shall the member
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845100101:0527/pct:18.554529249716417,40.972659695098905,15.572840706530545,8.265087564570997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845100101:0527/pct:18.554529249716417,40.972659695098905,15.583643925889914,8.26928730418714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1370,7 +1370,7 @@ elected, be eligible to any otiice or place
 the appointment to which may be made in  
 whole or in part, by either branch of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688210:1845100801:0047/pct:33.09398099260824,58.11271723241838,14.424498416050687,2.322559688159818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688210:1845100801:0047/pct:33.09398099260824,58.11271723241838,14.431538190777895,2.3279735802068107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1386,7 +1386,7 @@ whole or in part, by either branch of th
 33. The appointment of all officers not  
 otherwise directed by this constitution, shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1846013101:0021/pct:66.84914841849148,53.90138822403064,19.505271695052716,1.5158768150630286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1846013101:0021/pct:50.16227180527383,40.43401946704962,14.645030425963489,1.1329184617839476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1410,9 +1410,9 @@ compensation being made, unles by the consent of Sec. &amp;. ‘The senators sha
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1846-04_18_94/page/n5/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1846-04_18_94/page/n5/mode/1up?view=theater)
 
-#### 1846-04-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1846-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1466,7 +1466,7 @@ for which he is elected, be eligible to any office or
 place, the appointment to which may be made in  
 whole or in part, by either branch of the Legislature 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846042301:0316/pct:7.3294243070362475,43.836327759891994,19.243070362473347,3.364835393083394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846042301:0316/pct:5.504464880714381,32.87984214352477,14.434226309476209,2.5236265448125454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1488,7 +1488,7 @@ filled by elections by the people.
 22. No person holding any lucrative of  
 fice under the United States, or this State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668946:1846053001:0514/pct:205.78398281681498,205.53225257907266,38.662166308683645,13.184446207912934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037932:00415668946:1846053001:0514/pct:68.59466093893832,68.51075085969089,12.887388769561214,4.394815402637645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1515,7 +1515,7 @@ iu the militia lo which there is .-.itched
 no annual salary, or the office ol justice of  
 the peace or potinasturs whose compen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1848010501:0164/pct:71.75035194744251,67.14084175875853,12.73267636477397,7.288972490007054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1848010501:0164/pct:71.75556598362793,67.14867936358648,12.737890400959383,7.292891292421036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1575,7 +1575,7 @@ may be made either in whole or in part
   
 by either branch of the legislature.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1850091401:0928/pct:30.922284644194757,66.72200422577724,20.388576779026216,10.006036824630245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1850091401:0928/pct:23.202996956216342,50.04527618472683,15.312573167876376,7.50075460307878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1602,7 +1602,7 @@ senate may propose or concur w ith amend­
 ments as on other bills.  
 0 Each house of the general assembl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851031801:0024/pct:58.698265498883735,63.131041890440386,12.26172076249356,7.075725026852846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851031801:0024/pct:58.68818681318681,63.12256678748825,12.263907967032967,7.078131292790979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1627,7 +1627,7 @@ wo houses of the General Assembly, to be approved or
 rejected by the other; and may lie amended by cither  
 home, with the con-ent of the other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072401:0077/pct:35.829383886255926,72.3847640077284,14.123222748815166,4.430030361578802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072401:0077/pct:35.82259287338893,72.37477576928384,14.125284306292645,4.432868773285498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1661,7 +1661,7 @@ ed in the constitution, that “the appointment of
 all officers not otherwise directed by this con­  
 stitution, shall be made in such manner as ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855022801:0164/pct:1.973506353068397,72.80547206964452,12.733171127331712,1.5960203129858017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855022801:0164/pct:1.9732396269766184,72.79792746113989,12.734829030950129,1.5984455958549222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1710,7 +1710,7 @@ State for two years next
 tion, and attained the age  
 the time of said elec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1857061301:0026/pct:110.14523707817172,60.88960589997696,73.21657411362665,19.32472920027656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1857061301:0026/pct:36.71507902605724,20.296535299992318,24.40552470454222,6.441576400092187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1730,7 +1730,7 @@ r place, the appointment to which may he
 made in whole or in part by either branch  
 of the Legislature; nor shall member
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1857101001:0429/pct:115.38287779534673,104.7130808665454,51.16331601536029,12.055564742847693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1857101001:0429/pct:28.839205058717255,26.173941798941797,12.787940379403794,3.013392857142857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1750,7 +1750,7 @@ office or place, the appoiutment to which
 may be made, in whole or in part, by  
 ther branch of the Legislature, nor shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1859121001:0856/pct:222.21210741920802,126.67107875579087,51.54756486117433,12.657180675049636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1859121001:0856/pct:55.54038680318544,31.662531017369727,12.8839590443686,3.163771712158809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1779,7 +1779,7 @@ or place, the appointment to which may be
 made in whole or in part by either branch  
 of the Legislature. Nor shall members o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296539:1866050501:0410/pct:116.51305683563749,335.81147426006453,47.8494623655914,26.65170430635433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296539:1866050501:0410/pct:29.133858267716537,83.95286856501613,11.964662953716152,6.662926076588582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1812,7 +1812,7 @@ r place, the appointment to which may
 be made in whole or in part by either  
 branch of the legislature. Nor shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1866051201:0479/pct:330.1351940689054,77.91315213995627,43.63279546445704,32.88034989065917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1866051201:0479/pct:82.51580553738827,19.475245978447603,10.905820797907129,8.218803685772293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1832,7 +1832,7 @@ created, or the emoluments of which shall have
 been increased during such term, except such  
 offices as may be filled by elections by the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558029:1870040901:0132/pct:37.0147003392386,87.241653418124,14.172634753109687,2.742448330683625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558029:1870040901:0132/pct:37.019411986430455,87.25158982511924,14.177346400301545,2.742448330683625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1887,7 +1887,7 @@ either Drancn or tne legislature
 0. The appointment of all officers not other­  
 wise directed by this constitution, shall be mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1875072301:0867/pct:35.009910802775025,69.55345060893099,22.2001982160555,1.6407307171853855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1875072301:0867/pct:26.276648487853247,52.165087956698244,16.658403569657906,1.2347767253044655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1927,7 +1927,7 @@ made in such manner as may be prescribed by
 law.  
 Sec, 10. The General Assembly shall have no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1875102901:0180/pct:291.8472652218782,263.6542239685658,66.66666666666667,11.722331368696791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1875102901:0180/pct:72.96181630546955,65.91355599214145,16.666666666666668,2.9305828421741977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1978,7 +1978,7 @@ eligible to any office or place, the appoint
 ment to which may be made in whole or in  
 part, by either branch of the legislature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294701:1880101501:0103/pct:84.32908912830558,39.63133640552996,58.080313418217436,16.95852534562212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294701:1880101501:0103/pct:21.092601665850072,9.90783410138249,14.52719255267026,4.23963133640553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2007,7 +2007,7 @@ by elections by the people.&quot;
 As before remarked, the present ses-  
 sion of the Legislature has been distin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279554012:1881030201:0204/pct:20.410512181085746,239.02439024390245,49.971225781699594,36.59806910569106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279554012:1881030201:0204/pct:5.1016494054468735,59.748507557474916,12.490410433448409,9.148355137812779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2047,7 +2047,7 @@ halls? Why should not a Councillor be ap­
 pointed to another office during the term of  
 his election ? The reasons are obvious an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889040301:0382/pct:15.587015587015587,44.04510218463707,9.70970970970971,5.966643175945501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889040301:0382/pct:15.584786960251645,44.039929536112744,9.711895910780669,5.96887844979448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2066,7 +2066,7 @@ eligible to any office or place the appoint­
 ment to which may be made in whole or  
 in part by either branchof the legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536652:1891060301:0027/pct:134.89294210943694,198.3272727272727,50.59476605868358,8.50909090909091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536652:1891060301:0027/pct:33.74330489982147,49.58181818181818,12.65621900416584,2.1272727272727274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -565,7 +565,7 @@ I tin&#x27; t,niiijr,iuv, and M’tlini&#x27;UJt liimsi&#x27;ll
 l4it‘ I&#x27;fst of l lie evening in joyous cou­  
 1 &#x27; iv.ilily.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825082501:0412/pct:48.544093178036604,10.404114621601764,31.094009983361065,83.18883174136664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825082501:0412/pct:48.533998752339365,10.402585953570378,31.092742773965483,83.18028210402586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ amasements for ten years; I have ru-
 hed as fine health and as good a consti.  
 tution of body as nature ever gave to man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1858081101:0167/pct:191.87554019014692,80.9414466130884,59.03197925669836,7.347876004592423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1858081101:0167/pct:48.0,20.2353616532721,14.767567567567568,1.8369690011481057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -805,7 +805,7 @@ of his country as were those of Mr. Otis from
 170 to 1770.&quot;  
 The only Revolutionary orator whose name en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896080902:0895/pct:183.43239227340268,357.7305398378957,49.10846953937593,13.396543814038845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896080902:0895/pct:45.87513935340022,89.43263495947393,12.281679672984021,3.349135953509711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

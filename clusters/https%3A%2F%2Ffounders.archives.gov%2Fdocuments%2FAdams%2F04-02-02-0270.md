@@ -51,7 +51,7 @@ friends with rum and water. This is much to the honor
 of his wisdom, his policy, and his patriotism.&quot;  
 Dr. Thomas, the State Entomologist of Il
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531289:1877042501:0850/pct:200.24545900834562,269.42446043165467,48.191785305187366,7.240659085634718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531289:1877042501:0850/pct:66.7484863361152,89.80815347721823,16.063928435062454,2.413553028544906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,7 +74,7 @@ his policy, and his patriotism.”
 BRIDGETON MARKETS.  
 These markets are corrected weekly, by the lead
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1877042601:0072/pct:50.13366881585155,50.76904296875,10.724956754206636,4.30908203125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1877042601:0072/pct:50.125786163522015,50.76284633223484,10.727201257861635,4.311607469791285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ honor of his wisdom, his policy and bis
 patriotism.&#x27;  
 Indian Fight
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00415665246:1877042701:0404/pct:3.203797092850786,89.38453445554971,12.014239098190448,3.692793266701736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_enterprise_ver02:data:sn84026847:00415665246:1877042701:0404/pct:3.2087412241669138,89.38804138172891,12.014239098190448,3.692793266701736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ ished wine from his table, and entertains his
 friends with rum ar.d water. This is much to  
 his wisdom, his policy and his patriotism.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525425:1877042801:0383/pct:72.29773462783172,94.83793517406963,10.792880258899677,2.1968787515006003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525425:1877042801:0383/pct:72.28603785795178,94.82655143440164,10.79517877366122,2.199615892449886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ table, and entertains his friends with rum and
 water. This is much to the honor of his wisdom,  
 his policy, and his patriotism
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475567:1877050101:0249/pct:21.2593984962406,162.8968253968254,43.984962406015036,8.492063492063492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475567:1877050101:0249/pct:7.086466165413534,54.2989417989418,14.661654135338345,2.8306878306878307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ claims to have been one of a party who, when
 the Bender family emigrated so suddenly from  
 {the scene of tlieir manifold murders in that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479731:1877050301:0292/pct:28.17878243000257,58.667191652721726,11.71333162085795,4.301604488630771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479731:1877050301:0292/pct:26.774311628096147,55.7370406159409,11.131898971000936,4.0927651881175775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ has banished wine from his table, and enter­
 tains his friends with rum and water.&quot;  
 HOES
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022998:1877050401:0508/pct:47.28232189973615,63.68472906403941,19.432717678100264,3.6748768472906406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022998:1877050401:0508/pct:35.46642037208075,47.76354679802956,14.579759862778731,2.7586206896551726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ with rum and water. This is
 muen to the honor of his wisdom,  
 his policy and his patriotism.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295877996:1877050501:0584/pct:141.71122994652407,359.23531065504636,52.67379679144385,15.12510542592072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295877996:1877050501:0584/pct:35.45150501672241,89.80882766376159,13.177257525083611,3.78127635648018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ with r111mu and wafter. &#x27;his is mnuh
 to the honor of his wisdom, his  
 policy, and his patriotism.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288440:1877050801:0156/pct:58.56293895191788,39.76479235575156,16.96380334954079,4.8879088570378535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288440:1877050801:0156/pct:58.56293895191788,39.77295928784352,16.969806110810975,4.896075789129814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ tains his frieuds with ram and water. This is
 much to tbe honor of his wisdom, his policy, and  
 his pstrielis-n.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555663:1877051001:0114/pct:93.84531590413944,120.1490438695163,16.612200435729847,2.7418447694038246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555663:1877051001:0114/pct:70.4013074269112,90.11529808773903,12.456873070637371,2.0528683914510686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ his friends with rum and water. This is much
 to the honor of his wisdom, his policy, and his  
 patriotism. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346782:1877051001:0184/pct:25.320470463856218,26.13070332735605,12.77917272366856,2.7694759912333136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346782:1877051001:0184/pct:25.329280648429584,26.13734475659162,12.77917272366856,2.7761174204688848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ his friends with rum and water. This is much
 to the honor of hi 3 wisdom, his policy, and his  
 patriotism
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346782:1877051001:0185/pct:25.069380203515262,25.61267184698147,12.76595744680851,2.759513847379956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346782:1877051001:0185/pct:25.07819038808863,25.619313276217042,12.757147262235144,2.759513847379956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ This is much to the honor of his wisdom,
   
 his policy, and his patriotism.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn85034469:00295878800:1877051101:0476/pct:351.2718600953895,97.95196699572712,46.50238473767885,9.783409459260351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn85034469:00295878800:1877051101:0476/pct:87.83542039355993,24.48799174893178,11.627906976744185,2.445852364815088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ tains his friends with rum and water
 This is much to the honor of his wisdom,  
 bis policy, and his patriotism.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688647:1877051201:0433/pct:80.46371833404895,20.43701799485861,12.086732503220267,2.506426735218509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688647:1877051201:0433/pct:80.46371833404895,20.442373607540702,12.108200944611422,2.506426735218509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ tains his friends with rum and water,
 This is much to the honor of his wisdom,  
 his policy, and his patriotism.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877820:1877051201:0898/pct:347.233691164327,75.19553072625699,45.33443435177539,9.273743016759777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877820:1877051201:0898/pct:86.80842279108175,18.798882681564248,11.333608587943848,2.3184357541899443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ rum and water. It is much to the credit
 of his wisdom, his policy and his. pat  
 riotism.&quot; We question whether Pres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027418:1877051501:0160/pct:41.26062322946176,124.54427083333333,13.753541076487252,3.8628472222222223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027418:1877051501:0160/pct:30.962165226016722,93.41362847222223,10.31599829956072,2.8971354166666665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ with rum and water. This is much to
 the honor of his wisdom, his policy, and  
 patriotism.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768795:1877051601:0179/pct:78.22548890930568,90.19987105093487,14.358839742748392,3.2421479229989867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768795:1877051601:0179/pct:78.23423896399352,90.20601148260722,14.363214770092313,3.2482883546713333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ tains bis friends with rum and water
 This is much to the honor of his wisdom  
 his i»olicy, and his patriotism.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1877051701:0460/pct:17.530864197530864,95.03062360801782,12.402659069325736,2.547327394209354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1877051701:0460/pct:17.527535131029243,95.01739735560194,12.405051272312951,2.550452331245651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ and entertains his friends with rum and
 water. It is much to the credit of hi  
 wisdom, his policy, and his patriotism.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285001:1877051701:0532/pct:280.8498583569405,24.58055387103295,49.68838526912181,11.117849201536284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285001:1877051701:0532/pct:70.242312597421,6.145138467758238,12.427377072410373,2.779462300384071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ tertains his friends with rum and water.
 This is much to the honor of his wisdom,  
 his policy, and his patriotism.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1877051701:0497/pct:84.67847769028872,89.10928143712574,11.07283464566929,2.6197604790419162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1877051701:0497/pct:84.66458914220108,89.09816639640763,11.075118910939807,2.622552076836722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ tains his friends with rum and water.
 This is much to the honor of his wisdom,  
 his policy, and his patriotism.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1877051701:0506/pct:321.4227309893704,91.7813934084272,49.05968928863451,9.790015296898902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1877051701:0506/pct:80.3556827473426,22.9453483521068,12.264922322158627,2.4475038242247256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ tains his friends with rum and water.
 This is much to the honor of his wisdom.  
 his policy, and his patriotism.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn86053406:00296020813:1877051801:0398/pct:112.75720164609054,26.5294954580278,12.61574074074074,2.7470723432198754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn86053406:00296020813:1877051801:0398/pct:84.60054033191818,19.89712159352085,9.46867361379133,2.0685126409105834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ the credit of his wisdom, his policy,
 and his patriotism.&quot;  
 &quot; I&#x27;m afraid ynH be lnte nt tli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82014896:00211105719:1877051901:0352/pct:28.406633020908437,118.58654664882617,16.79884643114636,4.476341077727771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82014896:00211105719:1877051901:0352/pct:21.30881557598702,88.94295097919961,12.619433928249505,3.357255808295828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ rum and water, ibis is much to the honor of
 lies wisdom, his policy, and his patriotism.&quot;  
 In the light of a recent event the Boston Tra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474290:1877062301:0427/pct:7.090719499478624,76.89463955637709,17.02294056308655,3.3162987930847017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474290:1877062301:0427/pct:5.320119963489373,57.67097966728281,12.778719520146042,2.489942372512776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ policy and patriotism.
   
 do no better.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200295614:1877062801:0181/pct:39.3073047858942,106.75519630484989,29.546599496221663,16.628175519630485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200295614:1877062801:0181/pct:29.491055681531872,80.07120862201694,22.17183169564122,12.471131639722863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -717,7 +717,7 @@ and entertains his friends with rum and
 water. This much to the honor of his  
 wisdom, his policy and his patriotism.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:00202198041:1883030301:0748/pct:13.876811594202898,85.90762354109759,23.641304347826086,4.978892475788428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:00202198041:1883030301:0748/pct:9.258923718064867,57.27588775763596,15.763725312556623,3.3151229202880557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ the honor of his wisdom, his policy and
 his patriotism.&quot; Was the General an old  
 Rum&#x27;un?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82014424:0021110286a:1883031301:0256/pct:168.5615848406546,356.2,47.88975021533161,10.133333333333333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82014424:0021110286a:1883031301:0256/pct:42.15855234812581,89.05,11.977595863851787,2.533333333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ that rum and water shall be
 adopted as the White House  
 leverage for ail time. Ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn86076999:00415627385:1883032001:0754/pct:12.317666126418152,78.33586311577204,18.253646677471636,13.164067890161446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn86076999:00415627385:1883032001:0754/pct:9.240121580547113,58.75534704015455,13.69807497467072,9.879950324272112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

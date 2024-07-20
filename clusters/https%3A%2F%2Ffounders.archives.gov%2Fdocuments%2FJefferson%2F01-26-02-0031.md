@@ -67,7 +67,7 @@ plunder and murder, may assure you that our proceed- gout
 ings in this respect will lm with good faith, fervor, and best  
 rigilance.&quot; giv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661113:1858011601:0080/pct:67.0739447794351,42.05911823647295,16.994604887337353,3.619739478957916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661113:1858011601:0080/pct:67.0739447794351,42.06746826987308,16.994604887337353,3.615564462257849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ tries, in which we have no concern, would scarcely
 be experted it would be hard in principle and  
 impossible in prag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175038784:1895040701:0568/pct:104.67549452345921,77.36575704225352,47.26172960601602,9.56205985915493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175038784:1895040701:0568/pct:34.89183150781974,25.788585680751172,15.753909868672007,3.1873532863849765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ would be &quot;hard in principle and impossible
   
 in practice&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895061401:0179/pct:74.73841554559043,89.59807315971699,49.10313901345292,17.401776305885896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895061401:0179/pct:18.695083193120208,22.399518289929247,12.282669657879978,4.350444076471474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ ever they meet them and search them for
 articles contraband of war, and if these ar­  
 ticles are destined for the use of the enem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740505:1898031101:0097/pct:43.94843962008141,55.91791120593315,12.42876526458616,10.281418266788581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740505:1898031101:0097/pct:43.95296246042515,55.91791120593315,12.437810945273633,10.288191269599377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ So it would seem the insurgents
 would have the right to purchase here  
 all manner of munitions of war aud shi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1898031601:1030/pct:24.962406015037594,58.79779878651051,16.56015037593985,24.537886270636378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1898031601:1030/pct:18.728845430613013,44.10540426132355,12.429484768710042,18.403414702977283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ Wharton, and one much thought of by Eu­
 ropean powers, declares it to be a settled  
 principle that the right of neutrals to trad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899110201:0366/pct:90.6932711913778,98.01641586867305,37.299737838625106,20.143638850889193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899110201:0366/pct:30.231090397125936,32.67213862289102,12.43324594620837,6.714546283629731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

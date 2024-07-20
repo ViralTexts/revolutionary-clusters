@@ -80,7 +80,7 @@ commission till the arrival of more of­
 ficers in camp. I am, sir, your most  
 Obt. Servt., G. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760523:1895100201:0631/pct:104.96114763897191,79.92047713717695,18.619246861924687,14.590236359620057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760523:1895100201:0631/pct:70.0,53.28031809145129,12.42152466367713,9.73050585376629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ sir.&quot; &quot;Sure there&#x27;s no better Beat la- i..1j ...: r ,
 ,. w -.. - . - -1 yOU Ink yourself warranted and are  
 n ? t ,tr J?8 r ti 5 determined to quit the army I must a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760523:1895100301:0639/pct:105.10416666666667,92.31524942691846,37.55952380952381,4.8248007859404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760523:1895100301:0639/pct:70.09526644834773,61.54349961794564,25.05209883894016,3.220172470254339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ this date inclo&amp;ing your commiaakmj
 The frequency of resignation throuf fcj  
 the Virginia line this spirit uahappUj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760523:1895100301:0639/pct:124.375,85.74391441982317,18.392857142857142,4.4864097805916385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760523:1895100301:0639/pct:82.94135159273593,57.16624822617618,12.265555224769276,2.990939853727759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ commission till tho Arrival of more of-
 fleers in camp 1 am sir your most  
 Obt Servt G Washingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533237:1895110101:0713/pct:7.945884146341464,74.41607821835959,19.226371951219512,14.163498098859316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533237:1895110101:0713/pct:5.965313512483323,55.81205866376969,14.427291785782351,10.6328082563824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ commission till the arrival of more of­
 ficers in camp. I am, sir, your most  
 Obt. Servt., G. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00271769829:1895120401:0375/pct:39.70037453183521,48.66403452391883,14.218833600856073,10.283720503167753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00271769829:1895120401:0375/pct:39.709291956482964,48.6701557861231,14.218833600856073,10.283720503167753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ least* in-i.st upon 3*our retaining your
 ficers in camp. 1 am, sir, your most I  
 blil. Scrvt., G. Washington.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554899:1896011301:0044/pct:26.00504952417945,23.08105928216158,19.634880559331908,12.985616346283102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554899:1896011301:0044/pct:26.019615459312487,23.091141282430435,19.634880559331908,12.995698346551956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

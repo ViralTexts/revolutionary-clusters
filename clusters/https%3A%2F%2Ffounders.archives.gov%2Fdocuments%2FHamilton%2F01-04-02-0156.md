@@ -314,7 +314,7 @@ i defenlive, as the neighbouring monarchies j
 &gt; was never fated of carnage and con-1  
 , que ft. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801012101:0003/pct:7.537331121118749,4.280847281884165,62.929604171604645,89.48303954969634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801012101:0003/pct:7.537331121118749,4.290722362119192,62.937504937978986,89.48303954969634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ j- &quot; differences that neighbourhood occafi­
 id &quot; which difpofes all ftates to aggrandiz&#x27;  
 jf|&quot; themfel ves at the expence of their neigh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801012101:0003/pct:48.89784309077981,42.45296993038068,21.56909220194359,39.25344393423197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801012101:0003/pct:48.89784309077981,42.45296993038068,21.576992968317928,39.263319014466994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ individuals in whoin they place confidence,
 and are of course liable to be tinflured by  
 the passions and views of those ‘individuals.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802012601:0013/pct:78.51723047739488,65.55066959824106,16.582358520392035,2.9282430541674995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802012601:0013/pct:78.51723047739488,65.55066959824106,16.60343555696069,2.9282430541674995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ der the management of a few individual*­
 who had their own private ends in view,  
 were, wrought un to a perfect plimizv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816082601:0509/pct:37.874700239808156,8.038021410114434,17.7757793764988,19.287559985234402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816082601:0509/pct:37.869024426794546,8.037279689951093,17.778110794744993,19.28885607948079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ f confidence, rand that they: are of
 experience, the least fall:lilt- guide of human opinions,  
 * be appealed to (or an answer to these enquiries.&quot; We
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834042501:0457/pct:81.0399668095699,18.47826086956522,14.894205504079657,3.989130434782609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834042501:0457/pct:81.02876106194691,18.47625258124117,14.896755162241888,3.9923196753976016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ assuming the pretext of some public motive, have not
 scrupled to sacrifice the national tranquillity to ?i? tonal  
 aJvniitngt, or personal gratification.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844013101:0109/pct:34.83467381590706,20.796516839544115,17.658623771224306,5.314380842617493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844013101:0109/pct:34.84063151623474,20.796516839544115,17.676496872207327,5.327186579587655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ sovereignties, situated in the same neighborhood, would
 be to di?reg*id the uniform couree of human ev*ut?, uud to  
 eel st defiance the accuinulaied experience of ages.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850032201:0374/pct:0.9256252029879831,44.87002386035414,15.96297499188048,5.048348612332036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850032201:0374/pct:0.9256252029879831,44.878395914437604,15.968388004763451,5.048348612332036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ i suits of a sejiaratioa ef these Slates ni that time,an
 &quot;If these States should either be wholly disu­  
 nited, or only united in partial confederacies, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1850041701:0266/pct:10.256410256410257,313.4246575342466,57.96425796425797,4.435746901500326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1850041701:0266/pct:2.564600738294152,78.35616438356165,14.493879930056343,1.1089367253750815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -842,7 +842,7 @@ of human events, and to set at defiance the accu­
 mulated experience of ages.&quot;  
 If this was a just view of the probable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1850041701:0266/pct:10.256410256410257,323.91389432485323,117.40481740481741,23.222439660795825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1850041701:0266/pct:2.564600738294152,80.97847358121331,29.35690693607927,5.805609915198956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -875,7 +875,7 @@ certain results of a separation of these States experience convulsions and viole
 t that time, and under the then existing cir Whete the dane e ete o e  
 cumstancee, I pray you, sir, upon what, at the whether it is exaggerated on the one hand, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850050101:0456/pct:8.278145695364238,282.09646110198594,122.01986754966887,43.12378677019561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850050101:0456/pct:2.070822116380203,70.52411527549648,30.52391799544419,10.780946692548902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -904,7 +904,7 @@ ences Unit ueiuliborbo id ocoasious, extinguishing that se-,
 crut jealousy which disposes all States to aggrandize them­  
 selves at the ex; ruse of their neighbor*.&quot; This passage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850082401:0938/pct:63.71507923541905,59.894459102902374,15.96144420846267,5.729362985299661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850082401:0938/pct:63.72052496868703,59.90283536457679,15.97233567499864,5.733551116136868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -996,7 +996,7 @@ which would give rise to thès
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1862-07_2_1/page/n3/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1862-07_2_1/page/n3/mode/1up?view=theater)
 
 #### 1862-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1033,7 +1033,7 @@ slavery and the fallacy and wickednes
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1864-09_6_3/page/n99/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1864-09_6_3/page/n99/mode/1up?view=theater)
 
 #### 1864-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1069,7 +1069,7 @@ rative Republic,&quot; he says that the pas­
 sage, at the same time, &quot;points out the  
 evil, and suggests the remedy.&quot; That
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:104.14887126296523,158.85336273428885,38.62111043319097,9.437706725468578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:26.045163259078425,39.71334068357221,9.658223985352457,2.3594266813671445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

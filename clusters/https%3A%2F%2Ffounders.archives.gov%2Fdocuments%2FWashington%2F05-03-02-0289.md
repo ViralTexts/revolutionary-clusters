@@ -411,7 +411,7 @@ y nope for the restoration of order and our ancit nt virtues ;
 eextenfion of genuine religion, end the advancement  
 |jo^r rt&#x27;P abroad, and of our substantial * happiness at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082201:0003/pct:4.868804664723032,82.83368340653045,23.760932944606413,8.229902616001528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082201:0003/pct:4.89067055393586,82.83845713194577,23.760932944606413,8.229902616001528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ the Universe in behalf of me. May you,,and the people zuhom you represent
 be the happy fubjefls of the Divine benedictions both here and hereafter!  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082201:0003/pct:29.183673469387756,52.759213290051555,25.568513119533527,21.978231812106166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789082201:0003/pct:29.198250728862973,52.7735344662975,25.583090379008745,21.987779262936797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ tion of “Nero Cesar Avgvstvs,” with
 a lui:reate;l head, ami on the revcise the  
 inscription of “ Jvppilt-r Cvstos,” wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809112701:0716/pct:59.470287113287334,31.164983164983166,17.315824616069442,9.373737373737374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809112701:0716/pct:59.457053849577214,31.160786426070562,17.317534490431687,9.3758416374899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ done in any former age, or in anv former na
 tion.”  
 i Writing to the Hebrew Congregation of S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855091101:0262/pct:60.54196959682749,64.29422275163788,11.447455386649041,5.74746873138773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855091101:0262/pct:60.533967750462594,64.287841191067,11.449246629659001,5.749379652605459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ done in any former age, or any other
   
 nation. ae to o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn84020048:00295878034:1855101101:0009/pct:340.7258064516129,254.1696163103497,49.75806451612903,18.122610788616736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn84020048:00295878034:1855101101:0009/pct:85.18145161290323,63.54240407758743,12.439516129032258,4.530652697154184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ its numerous friends, and becauze the modera
 wisdom of the p  
 f order, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862100801:0274/pct:165.9972057282571,99.54292773316863,39.04994760740482,6.596664607782582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862100801:0274/pct:55.332401909419026,33.18097591105621,13.016649202468273,2.198888202594194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +864,7 @@ always continue to prompt me to promote the
 progress of the former by inculcating the prac­  
 tice of the latter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022101:0448/pct:26.266541906162278,29.72611890447562,18.74081005213207,3.903044183605306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022101:0448/pct:20.359819054525364,23.037668868947836,14.520529023792259,3.0273148604674094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ for war.— Washington.
 Human happiness and moral duty are in­  
 separably connected.— Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.8789179905538855,57.74913549198365,13.632460283383427,1.9805092738132664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.877226872719468,57.74005972025774,13.6349001931745,1.9841269841269842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

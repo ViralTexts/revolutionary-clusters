@@ -77,7 +77,7 @@ my hand, in the town of Bath, county of
 berheiey in the state of virginla, this 7th  
 of September, 1784.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053571:00237289006:1869072201:0077/pct:118.46011131725417,285.8807402330363,43.59925788497217,29.883481836874573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053571:00237289006:1869072201:0077/pct:29.615027829313544,71.47018505825908,10.899814471243042,7.470870459218643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ by the simplicity of the work, which
 1 county of Berkeley, in the State of Vir.  
 gin la, this 7th of September, 1784.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190844:1869072401:0040/pct:15.084361621757743,44.25267518122195,12.717199697809116,8.646876078702105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190844:1869072401:0040/pct:15.084361621757743,44.26561960648947,12.723495341223874,8.638246461857094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ Given uuder n,y hand and seal in the town
 Virginia, this 7th of September, 17&#x27;}.  
 GEoRUK Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1871072201:0119/pct:7.290597036819715,42.298075877812806,12.68886607011882,9.261876290901185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1871072201:0119/pct:7.28952772073922,42.29347826086956,12.691894006062384,9.264492753623188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ importance, and may be of the
 greatest usefulness in our inland  
 navigation.&quot; James Iiumsey, wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528906:1873101701:0140/pct:78.2217634915954,62.55749770009199,9.834856974343852,2.4149034038638453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528906:1873101701:0140/pct:78.2217634915954,62.56133088009813,9.844686916347193,2.4110702238577124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ opinion that &quot; the discovery is of vast
 importance, and may be of the greatest  
 usefulness in our inland navigation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033386:00296020709:1873102401:0175/pct:86.98966408268734,73.75675377660161,12.609819121447028,2.2273679567758298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033386:00296020709:1873102401:0175/pct:65.26234169035926,55.32032197596207,9.45980873610752,1.6760392546035947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ that &quot;The discovery is of vast impor-
 tance, and may be of the greatest use­  
 fulness in our inland navigation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877820:1873110101:0742/pct:280.34188034188037,261.0851005232718,44.28904428904429,8.70283668410906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877820:1873110101:0742/pct:70.12633624878522,65.27127513081795,11.078717201166182,2.175709171027265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ explained, may be executed by the most com­
 mon mechanic.&quot; This primitive steamboat was  
 taken down the run into the Potomac, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102378:1879072101:0078/pct:81.72043010752688,342.72850067537144,49.53917050691244,14.107759267597178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102378:1879072101:0078/pct:20.437956204379564,85.68212516884286,12.389550518632348,3.5269398168992945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ ecuted by the most common mechanic.
 | county of Berkeley, in the State &lt;&gt;f Virgin­  
 ia this 7th dav of September, 1781
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:0027176781A:1879092001:0157/pct:14.547489159322982,67.46092260770111,13.442439502028256,8.835303088067098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:0027176781A:1879092001:0157/pct:14.55681447288665,67.46727665522938,13.442439502028256,8.838480111831236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ of Bath, County of Berkeley, in the
 State of Virginia, this Tth of September,  
 1784. George Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767869:1895121201:0411/pct:60.64314542377295,70.52028732284994,13.683114177841427,15.928945835760047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767869:1895121201:0411/pct:60.65182484919498,70.52675855820877,13.683114177841427,15.928945835760047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -524,7 +524,7 @@ I cause, as it there appears, was the (efufal
 . of Austria to difarra in Compliance with the  
 r peremptory demand of France ; a deman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040701:0002/pct:77.98956206035852,28.147285693494396,16.723394599500793,60.849949061272014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040701:0002/pct:77.98956206035852,28.15820113520594,16.751758565917857,60.849949061272014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ had given To terrible an example, and had
 provoked retaliation as a mean of felf-pre­  
 fervation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040701:0003/pct:5.967778534150216,6.607480716052977,16.17880644429317,74.99636151942948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040701:0003/pct:5.979124120717041,6.618396157764518,16.184479237576582,75.0/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ avows maxims of coodu&amp; dangerous to the secu­
 rity and tranquility of others, they have a right to  
 aetaaii her, and to endeavor to disable her fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040701:0003/pct:6.262763784887679,81.749381458303,15.770365327887452,4.875563964488429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040701:0003/pct:6.274109371454504,81.75301993887352,15.781710914454278,4.882840925629457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ tiiiutd in the main to givers the conduct of the
 &#x27;y parties who have fucceifivdy triumphed and ty­  
 :h raniztd. TITUS MANLIUS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040701:0003/pct:6.103925572952122,6.680250327463251,32.38030406171999,85.53340125163731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040701:0003/pct:6.109598366235534,6.6875272886042785,32.38030406171999,85.53703973220783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -947,7 +947,7 @@ cial tranquility. There is no term of re­
 proach or execration too strong for so  
 flagitious an attempt. —Alexander Hamilton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00295876864:1887081301:0538/pct:20.813059174383927,77.12644923610358,13.891068905980223,3.900747643298299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00295876864:1887081301:0538/pct:20.813059174383927,77.12644923610358,13.91199707005703,3.900747643298299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ cial tranquility. Thero is no term of re­
 proach or execration too strong for so  
 flagitious an attempt. —Alexander Hamilton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1887082501:0692/pct:6.068015114469882,75.5521472392638,14.092020448988665,6.365030674846626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1887082501:0692/pct:6.066666666666666,75.54056126360987,14.094444444444445,6.367888360680877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -999,7 +999,7 @@ reproach or execration too strong
 for so flagitious an attempt Al­  
 ander Hamilton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102925:1887082701:0279/pct:80.43171557562077,35.65283884534506,18.975733634311513,10.103230739820303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102925:1887082701:0279/pct:60.3358261605757,26.7444083349264,14.237335967264004,7.57981265532403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,7 +1023,7 @@ cial tranquility. There is no term of re­
 proach or execration too strong for so  
 llagitious an attempt. —Alexander Hamilton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.835981107771576,76.92549512731846,13.782739373121512,5.532851304621189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.834299205838163,76.91340562627691,13.785147027259068,5.535910733930536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

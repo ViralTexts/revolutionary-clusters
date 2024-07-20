@@ -388,7 +388,7 @@ home ”
 Your rema k upon and conftruftiin of the  
 words, mt to tbe Id-uu of Eng &#x27;an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0380/pct:15.12907321201862,94.79210415791684,25.81464240372408,7.48985020299594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0380/pct:11.725155788783207,73.47197106690777,20.01202580080901,5.808318264014466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -239,7 +239,7 @@ believes his powers strong enough to torce
 their own way, commonly tries only to  
 please himself.”—Johnson&#x27;s Life of Gay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216286:1820060701:0234/pct:7.233727810650888,12.550753406117478,17.485207100591715,3.564016962916178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216286:1820060701:0234/pct:7.23265789084455,12.549621075424035,17.487551151210372,3.5667027547215207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ And things unknown proposed as things forgot.”
 And things unknown proposed as tﬁlngs forgot.”  
 “Fear not the anger of the wise to ralise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1885041101:0024/pct:7.02319587628866,48.627735461250154,20.3930412371134,1.7047515415306493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1885041101:0024/pct:7.02856529209622,48.627735461250154,20.3930412371134,1.7168419779954056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ Men must be taught as if you taught them not,
 And things unknown proposed as things forgot.  
 What makes the subject of horseshoeing s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895031001:0895/pct:179.65594614809274,78.63038826047081,49.364248317127895,24.02934882298991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895031001:0895/pct:44.93919550982226,19.657597065117702,12.34798877455566,6.007337205747477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

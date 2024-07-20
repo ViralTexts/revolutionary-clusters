@@ -124,7 +124,7 @@ I know 1s fufpé&amp;ed) are totally ignorant of
 any tranfaétions of mine, that they had rea­  
 son to believe were injurious to the pubfe ™
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780102101:0421/pct:65.71679088119247,49.19543592744295,28.9127575624726,42.71503803393797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780102101:0421/pct:65.7240976180038,49.205188219231516,28.92737103609528,42.71503803393797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -688,7 +688,7 @@ actuates my present conduct, however it mav appear in­
 consistent to the world, who very seldom judge o‘ anv  
 man&#x27;s actions. ° 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860110201:1042/pct:73.85466034755135,93.10538116591928,16.113744075829384,3.741591928251121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860110201:1042/pct:57.2361373259195,72.15726025413605,12.487884507473346,2.9069977916953262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ fer from tho mistaken futry of tho coun­
 try.&quot;His fears for his wife wero groundless.  
 Tbero was no heart or hand in all Ameri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033622:00296026462:1862050701:0607/pct:52.13230355943586,20.826485090396808,41.18535930154466,117.17539328480864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033622:00296026462:1862050701:0607/pct:34.766543500167955,13.888236675275886,27.4773261672825,78.11692885653909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ VOL.
   
 for expression ia the ordinary las*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058351:00279529388:1868052901:0395/pct:14.752186588921283,24.055459272097053,10.043731778425656,11.138070479491624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058351:00279529388:1868052901:0395/pct:14.757045675413023,24.0631619487772,10.048590864917395,11.138070479491624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ she is as good and as innocent as an
 angel, and is incapable of doing  
 wrong.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027169:1872032101:0261/pct:91.49000605693519,117.31623088307845,13.628104179285282,5.044400592007894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027169:1872032101:0261/pct:68.63546872633651,87.98717316230884,10.222626079054976,3.7863838184509127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ ceive from blm. His offer was refused,
 and they ordered ber to depart, and not re­  
 turn doing the war. Being then obliged to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776804:1872040201:0121/pct:76.45379023883697,78.77979663277213,23.078920041536865,21.453575595932655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776804:1872040201:0121/pct:57.39153026760197,59.09318219703284,17.329176409457002,16.08601433572262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -918,7 +918,7 @@ to. It ought to fall only on me ; she
 is as good and as innocent as an angel,  
 and is incapable of doing wrong.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:0023728186A:1872051001:0017/pct:51.44230769230769,105.16463689670726,14.393028846153847,4.623364907532702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:0023728186A:1872051001:0017/pct:38.59332732191163,78.87911592241768,10.805530507965134,3.4618854307622913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -965,7 +965,7 @@ and send to the Government unopened, any
 letters she might receive from him. His offer  
 was refused, and they ordered her to depart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1872051701:0292/pct:95.65826330532212,79.80308330094572,39.42577030812325,50.835600466381656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1872051701:0292/pct:23.918753283137804,19.95077082523643,9.858168446856943,12.708900116595414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1004,7 @@ ment unopened, any letters she might
 receive from him. His offer was re­  
 fused, and they ordered her to depart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872060501:0195/pct:240.11345218800648,96.8776854769407,45.705024311183145,48.63935835004297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872060501:0195/pct:60.05269558167815,24.219421369235175,11.430887717875963,12.159839587510742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ the Government, unopened, any letters
 she might receive from him. Her offer  
 was refused, and they ordered her t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dean_ver02:data:sn84038034:00271740566:1872062001:0289/pct:29.965357967667437,7.9540850776502365,37.29792147806005,115.47602970965563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dean_ver02:data:sn84038034:00271740566:1872062001:0289/pct:22.48315688161694,5.968939905469277,27.98845043310876,86.60364618501013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1061,7 +1061,7 @@ to. It ought to fall only on one; she is
 as good and as innocent as an angel,  
 and is incapable of doing wrong.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1872062101:1164/pct:195.31116794543905,57.82422293676313,66.66666666666667,18.756698821007504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1872062101:1164/pct:48.83820081006182,14.456055734190782,16.67021956938819,4.689174705251876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1097,7 +1097,7 @@ the Government, unopened, any letters
 she might receive from him. Her oiler  
 was refused, and they ordered her t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_evart_ver01:data:sn85033781:00296023735:1872062101:0893/pct:29.484304932735427,7.0497573970126535,43.69394618834081,131.9569974312625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_evart_ver01:data:sn85033781:00296023735:1872062101:0893/pct:19.666386319035603,4.699838264675102,29.142136248948695,87.974502901722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ nt tlie time thai, to maintain this cost-1 pose her to. It ought to fall only on
 ly pomp, he was concerned in speen- one ; she i as good and as Innocent  
 htoom unworthy of an officer and as an angel, and is incapable of doing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1872072601:0228/pct:80.15952143569292,19.669145545606312,36.016949152542374,4.188799514342085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152627:1872072601:0228/pct:60.13462976813762,14.751859159204734,27.025679381700325,3.141599635756564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1158,7 +1158,7 @@ she mie ht receive from him. His of­
 fer was refused, and they ordered her  
 to depart, and not to r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472566:1873062601:0100/pct:94.17524479035903,43.3924853772182,10.54481546572935,14.920194309507286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472566:1873062601:0100/pct:87.11487846415854,40.140608283661926,9.75770243071683,13.801008711600183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1345,7 +1345,7 @@ to. It ouirht to fall only on me; she is as good
 and as innocent as an angel, and is incapable of  
 doing wrong.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654607:1883101201:0659/pct:30.454719144058082,16.336010839059323,15.004458030824098,3.1065518242523953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654607:1883101201:0659/pct:30.46108775952108,16.336010839059323,15.007642338555598,3.108971257137327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1374,7 +1374,7 @@ her, she was not permitted to remain at
 her father&#x27;s house, which she said she  
 desired to do. Her father offered to giv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342924:1883101301:0575/pct:67.96456530696332,83.52773826458036,14.565306963329213,8.02275960170697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342924:1883101301:0575/pct:67.95056642636457,83.51585834162992,14.567456230690011,8.02517422841701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1395,7 +1395,7 @@ to. It ought to fall only on me; she is as good
 and as innocent as an angel, and is incapable of  
 doing wrong.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654607:1883101301:0663/pct:30.17646312047734,16.003114961549695,14.967627269264948,3.1052272948505792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654607:1883101301:0663/pct:30.184926579493037,16.006359713163956,14.963395539757098,3.111716798079107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1457,7 +1457,7 @@ inly on me ; she is as good and as innocent fi
 us an angel, and is incapable of doing c  
 vrong.&quot; j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1883111501:0301/pct:71.04212289063507,41.288433382137626,13.83485765812186,4.163616398243045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1883111501:0301/pct:71.05071063592254,41.29148365056125,13.830563785478123,4.166666666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1491,7 +1491,7 @@ to the Government unopened any lettera
 abc might receivo from him. Iiis Offer  
 was refused, and they ordered her to de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026965:00294551190:1883112201:0295/pct:35.87534108861123,57.88598047914818,12.422806261668821,9.560780834072759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026965:00294551190:1883112201:0295/pct:35.88491550576859,57.88598047914818,12.422806261668821,9.568175096125406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

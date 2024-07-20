@@ -195,7 +195,7 @@ you or gone into New-York? Before I
 retire from service, .t is mv wish to re­  
 member what is owing tv her, G. W.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826062901:0111/pct:76.38528138528139,63.22946175637394,17.9004329004329,27.54957507082153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826062901:0111/pct:76.3687513525211,63.22050701033848,17.901969270720624,27.549213992352357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ With much regard and esteem; I
 am, dear Doctor, your most obedient ser­  
 vant, Geo. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1856112601:0448/pct:57.86713286713287,58.26949642094688,16.276223776223777,25.116162250408138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1856112601:0448/pct:43.416681237978665,43.70212231571016,12.204930931981115,18.837121687806103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

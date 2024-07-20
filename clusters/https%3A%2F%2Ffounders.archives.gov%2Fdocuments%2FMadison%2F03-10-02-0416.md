@@ -362,7 +362,7 @@ the Supreme Being, constantly address
 ing my bumble players to the Almighty  
 for your leiicity 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829020501:0030/pct:37.256162915326904,39.385977043285855,17.620578778135048,13.220854653574886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829020501:0030/pct:37.24817831118731,39.38053097345133,17.622160308615516,13.222483407079647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ Supreme lleing, constantly addressing
 my humble prayers to the Almighty for  
 your felicity.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1829021101:0228/pct:32.29615445986916,59.929429926121955,15.605552896122546,12.449002095049067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1829021101:0228/pct:32.29100191448628,59.92282249173098,15.60838119549032,12.45130466740169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ to the Supreme Being, constantly address­
 ing my humble prayers to the Almighty for  
 your felicity.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829030401:0767/pct:64.82934484111416,20.10099593210829,19.282071400549235,12.905035769392622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829030401:0767/pct:50.25336981858721,15.578344687635889,14.938684503901895,10.015944339759386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -727,7 +727,7 @@ mind is not engaged upon self or oc­
 cupied with the idea of exciting at­  
 tention and admiration from those a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1829031801:0004/pct:61.041902604756515,23.299522673031028,15.084937712344281,19.719570405727925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1829031801:0004/pct:61.0475651189128,23.30698090692124,15.090600226500566,19.715841288782816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ erty piratically taken by the Dey of
 Tunis, that potentate said simply: &quot;I  
 know that admiral,&quot; laid down his tel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:0029587935A:1898091201:0323/pct:111.75352877307274,42.73037542662116,18.458197611292075,7.098976109215017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:0029587935A:1898091201:0323/pct:83.84469182731469,32.05265724037055,13.847407005158837,5.324232081911263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ amiable James Madison, emperor of
 America, may his reign be happy and  
 Slorlous.&quot; The emperor thus address
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562850A:1898102201:0914/pct:110.6932635709614,67.40954739303893,14.33943754087639,2.710138946209933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:0041562850A:1898102201:0914/pct:83.06886962211681,50.5571605447792,10.76394568951415,2.0360434722795433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ amiable James Madison, emperor of
 America, may his reign be happy and  
 glorious.&quot; The emperor thus address
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:0051368535A:1898110301:0772/pct:22.182628062360802,42.731072921504875,14.187082405345212,2.229447282861124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:0051368535A:1898110301:0772/pct:22.177688710754843,42.72445820433437,14.189490091293699,2.23297213622291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

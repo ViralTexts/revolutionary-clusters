@@ -93,7 +93,7 @@ of various kinds, including &quot;a moldore
 which plea-&#x27;e to accept toward chaise hire, that  
 you may ride warm to meetings this winter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211103152:1898110501:0461/pct:49.92563950029744,138.51351351351352,17.772159428911362,1.677927927927928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211103152:1898110501:0461/pct:33.28871039714413,92.34234234234235,11.854826714264465,1.1261261261261262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ please to accept towards chaise hire,
 that you may ride warm to meetings  
 this winter.” Upon her death, in 1752
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522576:1898120201:0667/pct:57.950116913484024,97.68278641335637,15.6858924395947,2.56188831318365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522576:1898120201:0667/pct:44.920970502365854,75.70923963562001,12.156448202959831,1.985499163413274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ moldore which please to ac­
 cept toward chaise hire, that you may  
 ride warm to meetings this winter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1898120201:0988/pct:60.27633851468048,58.123884081856886,15.60161197466897,6.386485372888339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1898120201:0988/pct:52.75383409828725,50.85927172214878,13.640434344565096,5.5962824980971835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ of various kinds, including “a moldore
 hire, that you may ride warm to meet­  
 ings this winter.&quot; Upon her death, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340287:1898121001:0669/pct:15.695067264573991,92.03784570596798,10.986547085201794,1.8049490538573507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340287:1898121001:0669/pct:15.692360751853768,92.02445058943385,10.988963614416278,1.8083248435453354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ cluding a moidore . . . which please to accept
 towards chaise hire, that you may ride warm  
 to meetings this winter.” Upon her death, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899020901:0497/pct:73.11296199895888,53.736784542471746,20.66631962519521,2.4425811155668975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1899020901:0497/pct:73.09393702836326,53.72699106980135,20.66744730679157,2.446692181519956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ which please to accept towards chaise
 hire, that vou may ride warm to meetings  
 this winter.”” Upon her death, in 1752
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1899080501:0786/pct:30.04949704614402,26.81500052230231,19.878652403001755,3.1233678052856995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1899080501:0786/pct:30.04949704614402,26.81500052230231,19.889296929054233,3.1268498206762074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

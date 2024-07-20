@@ -1140,7 +1140,7 @@ be thas qualified, than to be master of all the arts and,
 sciences in the world bosides.— Sut. Courier.  
 Haosier Girls.—A correspondent wishes uvs t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842032901:0253/pct:80.7425961396788,12.131554452373566,14.689848239280979,6.381218326610818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842032901:0253/pct:80.74750748980895,12.135001896094046,14.684936889150828,6.384665770331299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1299,7 +1299,7 @@ Mente quatit solida, neque auster
 Dux inquieti turbidus Hadris,  
 Nec fulminantis magna Jovis manus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856011601:0024/pct:138.8717496694579,191.80442374854482,24.959600411341267,4.79627473806752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856011601:0024/pct:46.28378378378378,63.92736584798045,8.31864473168821,1.5985721491483336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1363,7 +1363,7 @@ Nec fulminantis magna Jovis manus.
 I cannot but flatter myself, that were those who  
 occasionally seek to burden me with acrimoniou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293290:1860032201:0283/pct:72.8408473655622,95.79141859987682,42.91146116241173,7.842332169985629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293290:1860032201:0283/pct:18.21515892420538,23.947854649969205,10.730779679434937,1.9605830424964072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

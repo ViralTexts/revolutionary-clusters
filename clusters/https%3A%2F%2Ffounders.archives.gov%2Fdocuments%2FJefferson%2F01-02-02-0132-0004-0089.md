@@ -66,7 +66,7 @@ vered by action of debt or information,
 in any cour t of record : Provideduruvp.v,  
 and it is to he understood, That nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1805012501:0367/pct:73.08806488991888,13.023255813953488,21.060254924681345,7.6923076923076925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1805012501:0367/pct:73.0668983492615,13.020926489000178,21.061395887633942,7.695403326775175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ of the jury convincing him of tin said offence, pro­
 vided ijr- h in.pr-&#x27;r.incnj d&#x27; » i- ’ v&#x27;t •&lt;! •!.  
 month&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1831112801:0539/pct:17.515355656825836,79.34204855624192,15.098078066177928,16.80792989513001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1831112801:0539/pct:17.51188589540412,79.33065211146223,15.100039619651348,16.809106578569377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ exceeding twenty days, that his bodv ma
 him for such time as the court shall direct,  
 not exceeding twenty days, that his bod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fennal_ver01:data:sn83025661:00415628882:1839121101:0260/pct:48.21541377132028,53.660656093851834,20.42008843967151,1.6510971105800565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fennal_ver01:data:sn83025661:00415628882:1839121101:0260/pct:36.18265128772318,40.24549207038888,15.326275872965713,1.2383228329350424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ not exceeding twenty days, that his bod
 dy and detain him for such time as the court shall  
 direct, not exceeding twenty days, that his bod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840011401:0523/pct:28.18590704647676,74.02669632925473,71.81409295352324,4.560622914349277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840011401:0523/pct:7.047797563261481,18.506674082313683,17.95688847235239,1.1401557285873192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ any of said articles before the same shall be in or at
 the Public Market ready there to be sold, or shall by  
 any means buy, obtain or get into possession any o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1856052901:0996/pct:68.57582164136075,109.20867361306674,60.2921391504901,9.363559560687131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1856052901:0996/pct:17.14066102997694,27.29832465155568,15.070138355111453,2.340560326622554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -448,7 +448,7 @@ The Revolutionary Fathers.
 The generous plan of power delivered down  
 From age to age, by our renowned forefather
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1866041401:0065/pct:43.25212683681361,26.96484709917119,12.645011600928074,2.6579022577879394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1866041401:0065/pct:43.25212683681361,26.971991997713634,12.64984532095901,2.66504715633038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ down,
 From age to age, by our renowned fore­  
 fathers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:00414189908:1891051901:0282/pct:38.553069966682536,19.56806282722513,14.136125654450261,2.650523560209424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:00414189908:1891051901:0282/pct:38.56496906235126,19.576243455497384,14.142075202284627,2.646433246073298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

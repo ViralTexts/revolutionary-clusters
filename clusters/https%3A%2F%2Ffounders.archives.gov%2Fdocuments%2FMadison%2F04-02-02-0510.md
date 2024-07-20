@@ -166,7 +166,7 @@ society, and promise so valuable a co-ope­
 ration in carrying them into effect.  
 By order of the Societ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1822111601:0090/pct:25.804125198326844,5.248016737860692,18.794172796769075,90.8900706128498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1822111601:0090/pct:25.80040380732622,5.247559274755927,18.79626958946255,90.88505346350534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ ty and promise so valuable a Cj-operutkm
 iu carrying them into eflect.  
 by order of the. So&lt; irty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1822120701:0053/pct:48.97959183673469,5.389541088580576,43.05555555555556,91.33760227676983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1822120701:0053/pct:48.965712666477756,5.388582607149209,43.05043921790875,91.32580473057087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1136,7 +1136,7 @@ nise so valuable a co-operation in carrying them *
 llloellct.  
 Hy order of the Society. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857022001:0087/pct:71.40790044856027,2.6952643067286703,28.505281435392853,94.59049065198823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857022001:0087/pct:71.4175469058988,2.7015912182468127,28.500458206723582,94.59049065198823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1177,7 +1177,7 @@ taiuinents to which It may cspire.&quot;
 The importance, not to say necessity, of an Agri  
 cultural school, as an integral part of the University
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1858012201:0465/pct:30.2311969563945,32.69904383224463,13.72549019607843,6.532235160465777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1858012201:0465/pct:30.2311969563945,32.70535517056392,13.730367768998146,6.532235160465777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

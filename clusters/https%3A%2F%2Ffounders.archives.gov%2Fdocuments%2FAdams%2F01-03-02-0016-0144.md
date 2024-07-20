@@ -279,7 +279,7 @@ the Declaration of Independence, then only five
 davs old) for declaring the United Colonies free  
 and independent are cogent and conclusiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881110201:0579/pct:235.509904622157,108.80739243430551,51.13719735876742,19.57840023101357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881110201:0579/pct:58.88827738029719,27.201848108576378,12.786644652357365,4.894600057753393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ uDGE MILLS&#x27;S ADDrESS.
 Judge Isaac Newton Mills, of Mount Vernon, the  
 orator of the day, then stepped to the front o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038577:1892071001:0137/pct:51.330989452536414,26.120168737886218,48.384396450694794,17.318435754189945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038577:1892071001:0137/pct:17.110329817512138,8.706722912628738,16.128132150231597,5.772811918063315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

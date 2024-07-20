@@ -240,7 +240,7 @@ allowed in all other cases to any other per-­
 son who is entitled to demand against the  
 Commonwealth any right in law or equity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742083:1875010501:0023/pct:208.87806198403032,165.3765785409285,40.8174313168223,18.1793404197329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742083:1875010501:0023/pct:69.62602066134343,55.1255261803095,13.605810438940768,6.059780139910965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ monwealth,&quot; a:.d a^o to &quot;any other person who
 is entitled to demand a ainst the Commonwealth  
 any right in Uw or equity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663729:1875021501:0168/pct:50.769009630587895,11.389587768531063,15.940779071438838,10.170311592800465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663729:1875021501:0168/pct:50.778592305112355,11.39603896522805,15.931196396914379,10.173537191148958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ the Preasurer made under authority of any
 law heretofore passed or hereaffer to be  
 passed,&quot; and in that act the right of appeal t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742083:1875021501:0163/pct:127.21691678035471,95.4641253550811,42.36016371077763,23.751489049757172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742083:1875021501:0163/pct:42.4056389267849,31.821375118360365,14.120054570259208,7.917163016585723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ to &quot;any other person who is entitled to de-­
 mand against the Commonwealth any right  
 in law or equity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742083:1875021501:0163/pct:127.03956343792633,118.55585082012279,42.21009549795362,10.208008796847796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742083:1875021501:0163/pct:42.346521145975444,39.51861694004093,14.070031832651205,3.4026695989492652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ quire such debtors to render accounts and
 pay into the treasury all sums or balances  
 due, and, on their failure so to do, to insti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779611:1881072801:0096/pct:182.14492753623188,123.77686328303612,39.768115942028984,9.007773205304069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779611:1881072801:0096/pct:45.55603885747426,30.94421582075903,9.946353487023343,2.2519433013260173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

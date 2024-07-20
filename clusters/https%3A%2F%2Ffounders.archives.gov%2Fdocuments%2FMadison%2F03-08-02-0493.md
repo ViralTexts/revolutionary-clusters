@@ -240,7 +240,7 @@ cuondr.rs have;n.»n.*— a sirwere peniomce
 -—that they h*ve the pr wmtioo  
 of tin; woiV cause for tin support of the b st
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815021501:0366/pct:5.064911318339733,6.381922026322324,17.754616931797404,19.307176558231934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815021501:0366/pct:5.063985374771481,6.38112973308504,17.757464960390006,19.30891785640389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ Ey the President,
 JAS. MONROE,  
 Acting Secretary cf State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815021501:0366/pct:4.260376668495154,26.856220511547058,18.85170963613092,31.822696796622797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815021501:0366/pct:4.259597806215722,26.852886405959033,18.854357099329675,31.822884336850816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ Tty the President,
 JAS. MONROE,  
 feting Street ary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815021501:0046/pct:6.072727272727272,5.632560483870968,17.2,46.28276209677419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815021501:0046/pct:6.071623341210689,5.631850825248835,17.202932800096953,46.28113056990467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,7 +956,7 @@ feitures &amp;e, to be discontinued and released.
 Fourthl. The proclamation of President Lincoln, dated  
 the sth day of Becember, 1863, familiar to the public
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869011901:0127/pct:56.88595142944974,239.9226946438432,47.54073163233938,21.535063500828272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869011901:0127/pct:18.96198380981658,79.97423154794772,15.846910544113125,7.1783545002760905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -996,7 +996,7 @@ rights of third parties shall have intervened. In
 this proclamation Mr. Lincoln begins by citing the  
 provision in the constitution empowering the prest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869011901:0210/pct:105.24669909659485,54.77858245280779,46.24739402362752,30.78475602516918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869011901:0210/pct:35.08223303219829,18.259527484269263,15.41579800787584,10.26158534172306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1024,7 +1024,7 @@ in bis proclamation, President Madison grant­
 ed to the offenders a full pardon of all offences  
 committed against the laws or touching in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525267:1869011901:0601/pct:14.668847097301716,27.5,10.923957481602617,5.034403669724771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525267:1869011901:0601/pct:14.666448659254415,27.496846691893133,10.926258992805755,5.036693039789015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1049,7 +1049,7 @@ lawless trade. The Government of the United
 States caused the establishment to be broken  
 up, and prosecuted the offenders by indict
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074143:00280761461:1869012001:0083/pct:32.19298245614035,189.55457520990464,67.63157894736842,25.33086665717945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074143:00280761461:1869012001:0083/pct:8.048245614035087,47.38864380247616,16.907894736842106,6.332716664294862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1072,7 +1072,7 @@ e eea aei an ae a eo­
 vernment of the United States caused the  
 establishment to be broken up, and proe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869012001:0074/pct:77.59466085535277,122.33778186838472,53.609370743666574,13.53888633225955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869012001:0074/pct:25.864886951784253,40.77926062279491,17.869790247888858,4.512962110753183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1092,7 +1092,7 @@ foreign nations; and the President directs
 all suits, indictments, and prosecutions for  
 fines, penalties, forfeitures, ete. to be dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869012001:0074/pct:90.32961046036502,140.80073630924988,40.806319803868156,9.544408651633686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869012001:0074/pct:30.109870153455006,46.933578769749964,13.602106601289385,3.1814695505445623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1141,7 +1141,7 @@ up? aiid proceeded Jarfls&#x27;ecuto.&#x27;ffeeljor-
 fenders by indictment, etc. For the  
 reason&#x27; set &#x27;forth in IJh&#x27;proclamafib
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027157:1869012101:0144/pct:66.7624521072797,68.02398201348988,14.256066411238825,7.8316262802897825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027157:1869012101:0144/pct:50.08781733993294,51.0242318261304,10.6977486827399,5.870597052210842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1164,7 +1164,7 @@ tine and lawless trade. The Government of
 the United States caused the establishment to  
 be broken up, and proceeded to prosecute th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186981:1869012101:0013/pct:44.87066431510876,50.3300508602965,12.477954144620812,5.389027161562601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186981:1869012101:0013/pct:44.86407053637031,50.324605063838995,12.481018858682342,5.392050782658876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ pardon of all offences committed against the
 laws, or touching intercourse and commerce of  
 the United States with foreign nations ; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186981:1869012101:0013/pct:44.900058788947675,57.01763878368142,12.448559670781894,2.3590520506438697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186981:1869012101:0013/pct:44.893460690668626,57.011469378922314,12.451628704384031,2.3624035201615814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1253,7 +1253,7 @@ clastation, President Madison granted to the of.­
 er ful pardon of a ofene omiee  
 aai the a o oin te ieoe a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:0020029953A:1869012301:0166/pct:14.834558823529411,146.77254098360655,48.529411764705884,15.21516393442623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:0020029953A:1869012301:0166/pct:4.944852941176471,48.924180327868854,16.176470588235293,5.07172131147541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1345,7 +1345,7 @@ less trade. The Government of the
 Anited States caused the establish­  
 ment to be broken up, and prosecute
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775009:1869012701:0138/pct:47.183098591549296,80.89740537967151,13.154929577464788,7.617233991906689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775009:1869012701:0138/pct:35.39935202141147,60.67602951678172,9.874630229609805,5.712925493930016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1372,7 +1372,7 @@ proceeded to prosecute the offenders by
 indictment, etc.  
 For reasons set f irth in the procla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023139:1869012801:0230/pct:68.45340194396798,36.61434977578475,14.436821040594625,8.957399103139014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023139:1869012801:0230/pct:51.35830712038891,27.466367713004484,10.83786102373463,6.7152466367713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1412,7 +1412,7 @@ the island of Barataria, near the
 mouth of the river Mississippi, for the  
 purpose of a clandestine and lawless
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869012801:0633/pct:288.22095857026807,175.5437130923232,93.01380991064175,26.328676364683854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869012801:0633/pct:72.08451848841935,43.8859282730808,23.262901259650548,6.582169091170964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1438,7 +1438,7 @@ and proceeded to prosecute the offenders
 by tnuictment, etc.  
 For reasons set forth in the proclam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1869012801:0013/pct:66.21470728983888,58.34060183166158,15.568671239432126,7.3048408198866115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1869012801:0013/pct:66.21470728983888,58.34060183166158,15.573988408571276,7.312109318214857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1461,7 +1461,7 @@ operated in forming an establish-­
 ment on the island of Barrataria,  
 near the mouth of the River Miss
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1869012901:0261/pct:9.53658173148562,178.71632499731675,36.43272239606616,14.994096812278631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1869012901:0261/pct:3.1788605771618736,59.57210833243891,12.14424079868872,4.998032270759544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1481,7 +1481,7 @@ intercourse and commerce of the
 United States with foreign nations,  
 and the President directs all suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1869012901:0261/pct:9.685590821040083,205.7314586240206,36.4774251229325,10.153482880755607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1869012901:0261/pct:3.2285302736800277,68.57715287467353,12.159141707644165,3.3844942935852025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1523,7 +1523,7 @@ indictment, &amp;c. For tho reason set
 forth in the proclamation, President Mad­  
 ison granted to the offenders full pardo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869020301:0669/pct:73.55382454348104,77.85439059014399,11.096922487549483,6.45913607787467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869020301:0669/pct:73.55382454348104,77.8611505441763,11.10117907461797,6.465896031906983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1550,7 +1550,7 @@ ceded to prosecute the offenders by in.­
 diciment, &amp;e.   
 For reasons sof forth in the proclam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1869020301:0532/pct:51.35524798154556,100.90798361200311,40.64302191464821,23.142509135200974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1869020301:0532/pct:17.11841599384852,33.63599453733437,13.547673971549404,7.714169711733658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1576,7 +1576,7 @@ and proceeded to prosecute the offen­
 ders by indictment, etc. For reasons  
 aet forth in the proclamation, Presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058333:00279528931:1869020401:0415/pct:84.9477958236659,56.313131313131315,10.846867749419953,6.095041322314049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058333:00279528931:1869020401:0415/pct:84.95262954369683,56.31695745332109,10.851701469450889,6.102693602693603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1616,7 +1616,7 @@ and released.
 4. The proclamation of President  
 Lincoln, dated the 8th day of De
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296540:1869021301:0239/pct:247.20121028744327,145.2433628318584,44.47806354009077,148.67256637168143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296540:1869021301:0239/pct:61.80030257186082,36.3108407079646,11.119515885022693,37.16814159292036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1665,7 +1665,7 @@ Soon after the piratechief visited Wash
 ington, and was received with much dis  
 tinction by the President and other of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283363:1874062501:0652/pct:66.34615384615384,82.72177702797694,51.1094674556213,54.32307043441586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283363:1874062501:0652/pct:16.592674805771367,20.680444256994235,12.782093969663338,13.580767608603965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1735,7 +1735,7 @@ ington, and was received with much dis­
 tinction by the President and other offi­  
 cials. For a time he seemed to enjoy th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:0020029595A:1874071001:0414/pct:241.68797953964193,80.2049622437972,67.51918158567774,52.85868392664509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:0020029595A:1874071001:0414/pct:60.43487529311447,20.0512405609493,16.8833937326796,13.214670981661273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1766,7 +1766,7 @@ near the mouth of the Mississippi, for the
 &gt;urpose of clandestine and lawless trade.&quot;  
 The President then goes on to recite th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862750:1874071601:0125/pct:58.08611184037805,40.17985611510792,13.914413231819376,8.570143884892087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862750:1874071601:0125/pct:58.08611184037805,40.17985611510792,13.93191563840028,8.576139088729017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1840,7 +1840,7 @@ offenses.
 Boon after tho plrato Chief visited Washington  
 and was received with much distinction by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874080401:0008/pct:71.25805681546909,5.910513717547413,12.819288613034137,8.727674461425153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874080401:0008/pct:71.27596084984484,5.915116921377279,12.801384578658391,8.741484072914748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1921,7 +1921,7 @@ all past offenses. Soon after the pirate
 chief visited Washington, and was re­  
 ceived with much distinction by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293101:1874080901:0140/pct:206.19883040935673,314.0385894876913,35.67251461988304,33.39986693280107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293101:1874080901:0140/pct:51.54970760233918,78.50964737192282,8.91812865497076,8.349966733200267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1962,7 +1962,7 @@ Washington and was received with
 much distinction by the President and  
 other officials. For a time he seeme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768758:1874081901:0266/pct:66.28838451268358,15.576958696054826,14.259012016021362,14.326727171698463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768758:1874081901:0266/pct:66.29283489096574,15.576958696054826,14.254561637739208,14.33290115453479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1994,7 +1994,7 @@ mouth of the Mississippi, for the purpose of
 clandestine and lawless trade.” The Presi­  
 dent then goes on to recite the heroic con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875010701:0007/pct:50.87440381558029,25.83571517335653,10.890302066772655,9.34509755188269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875010701:0007/pct:50.866316960737564,25.832504970178928,10.892544905420442,9.347042743538767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2048,7 +2048,7 @@ ica, do issue this proclamation, here granting,
 publishing, and declaring a free pardon V  
 &quot;What of your leader, tbe famous Lafitte t&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555663:1878020701:0274/pct:93.37574850299401,46.71749258788649,17.42140718562874,17.139630100240012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555663:1878020701:0274/pct:70.06739049045301,35.041649018777356,13.06626731561213,12.861781730904983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2129,7 +2129,7 @@ to peaceful citizenship. The last relic
 of the gang has probably gone from  
 earth in the departure of Mrs. Camp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884010801:0575/pct:234.88843813387425,137.0664969774101,62.57606490872211,53.19758192809418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206536524:1884010801:0575/pct:58.75190258751903,34.26662424435253,15.6519533231862,13.299395482023545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2167,7 +2167,7 @@ part in the early history of Galveston, his
 subsequent exploits on shore and at sea,  
 the time, place, and circumstances, even, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175045090:1893062502:0318/pct:269.5749440715884,113.91291154604764,49.88814317673378,47.397966924594144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175045090:1893062502:0318/pct:67.40630244266269,28.47822788651191,12.4743613649077,11.849491731148536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2229,7 +2229,7 @@ can no longer be considered as oblects of punishment.
 but as objects of a generous forgiveness,  
 Thus the prosecutions against the Barat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042830:1895122901:0763/pct:216.18195376584637,274.1646415552855,49.66442953020134,35.9052247873633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042830:1895122901:0763/pct:54.07573213952621,68.54116038882138,12.42305540011192,8.976306196840826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

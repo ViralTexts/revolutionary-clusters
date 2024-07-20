@@ -2426,7 +2426,7 @@ id are the diiguifed traitors, that call tkemfelves fedc-l
 it ralitts.&#x27; &#x27; . J  
 is — 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101701:0003/pct:6.452386663468458,6.868560724320949,41.520748380906696,86.77802060568217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101701:0003/pct:6.458383305349004,6.8763659069622225,41.53873830654833,86.78582578832345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11215,7 +11215,7 @@ such a cafe with refpeft and gratitude.— 1
 (Page 25 of the letter.) t  
 T hough the year is not exprefled when 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798012701:0003/pct:24.043589149084163,66.35596981802041,16.94875956410851,12.916111850865512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798012701:0003/pct:24.043589149084163,66.3670661340435,16.954555993508,12.916111850865512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11244,7 +11244,7 @@ zled to decide whether yon are an apostate
 or an impostor; whether you have abandon­  
 e ed good principles, or whether you ever ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798012701:0003/pct:57.245536749362394,50.37727474478473,17.458845351263623,9.232134931202841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798012701:0003/pct:57.26292603756086,50.37727474478473,17.4704382100626,9.243231247225921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11303,7 +11303,7 @@ family of Lund Wathington.?? Note by mr. Paine: ‘* Two perfon
 p. 4- S’ s==r=r=  
 FATAL PERSECUTION
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801081001:0648/pct:14.62478184991274,41.81513309578705,20.48865619546248,5.669670928526514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801081001:0648/pct:14.62222997731635,41.81075133605784,20.489443378119002,5.67169653148905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11326,7 +11326,7 @@ iginally from m}&#x27;fgig&#x27;; I proposed it
 il a letter to Chancellor, Livingston.  
 inthe Spring of the year 1782.7 p. 5
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801082501:0556/pct:25.788009888751546,83.37730870712402,16.50185414091471,6.166324635981628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801082501:0556/pct:25.793160280181294,83.38056614221962,16.50185414091471,6.172839506172839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11357,7 +11357,7 @@ which he cannot be reconciled, and if
 he lives to come over he will try to  
 have them altered. But how is that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801082501:0556/pct:43.325092707045734,5.579986318772598,16.285537700865266,10.73976351021206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801082501:0556/pct:43.335393489905236,5.58650118896381,16.28038730943552,10.743020945307665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11378,7 +11378,7 @@ you are an apoftate or an im^oft r ; whether
 you have abandoned good ptiociples, or wheth.  
 er you ever hU any.” (Salem Caz.J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895060:1802082301:0052/pct:29.678439641539274,87.30708661417323,21.806360920752066,4.829396325459317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895060:1802082301:0052/pct:29.67322557976107,87.29792147806005,21.806921995783554,4.831513751837077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11481,7 +11481,7 @@ The sentiments here expressed are ssi: ex­
 actly those which for a long time pervad. -  
 ed the Aurora, and those which filled th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:8.131868131868131,34.18803418803419,22.401883830455258,15.607193732193732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:8.130591743839272,34.18499065254162,22.40359964422121,15.608771773643134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11504,7 +11504,7 @@ the jealousy of America, into all the vices
 and corruptions of the British govern­  
 ment.&quot; , Page 19
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:8.100470957613815,57.745726495726494,22.433281004709578,7.291666666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:8.099199497724062,57.74058577405858,22.43499189033642,7.293984984717647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11535,7 +11535,7 @@ No&quot;; my assectionate Friend- says jesser­
   
 son, you are riot the only one who per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:7.8963893249607535,77.87571225071225,21.899529042386185,11.209045584045585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:7.8951498979752,77.8687794890056,21.90132370637786,11.211015163654707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11557,7 +11557,7 @@ deliberate crime osthe heart, such as Mr.
 -Washington siia capable of acting, is not  
 to be washed awayfss&#x27;&quot; [Page 3
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:30.643642072213503,18.86574074074074,21.978021978021978,6.463675213675214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:30.638832208444516,18.864061248108253,21.97980432166588,6.466067242351405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11584,7 +11584,7 @@ ty. A pohroon may boast of his sore.
 &#x27; this is the only kind of sovereignty shewn  
 ; in the treaty with England.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:30.643642072213503,25.36502849002849,22.07221350078493,10.443376068376068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:30.638832208444516,25.362770408617468,22.073981060011512,10.445413810498827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11602,7 +11602,7 @@ ton talk of his _/_)ctmpa/sib.ic feelfngs, who
 has always been remarked, even among  
 his friends, for not having may.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:31.428571428571427,53.52564102564103,21.569858712715856,3.1962250712250713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:31.423638361324752,53.52087599038547,21.571705122168158,3.198907979465266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11623,7 +11623,7 @@ ther you are an apostate or an impostor ;
 whether you have abandoned good princi.  
 ples or whether you ever had any.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:31.334379905808476,64.84152421652422,21.39717425431711,4.113247863247863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0460/pct:31.329461622979125,64.83575180272412,21.399047768534505,4.115849134989169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11650,7 +11650,7 @@ manner in which what is cailed the exe­
 Arnertcass&#x27;lss will use all my endeavors to  
 si&#x27;sisihat&#x27;e them-&quot;altered? [Page .4..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101601:0464/pct:7.608351787409048,38.58739383102369,22.540335336918698,10.442556995976755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101601:0464/pct:7.607148505456271,38.58394421598427,22.54204227950867,10.444603373264199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11671,7 +11671,7 @@ form of the British government, an imi­
 tation octfi-ts vices was naturally to be ex­  
 pectedct&#x27; . .. &quot; sstPage 7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101601:0464/pct:7.545080670673838,82.44970943227537,22.967415374881366,5.587840858292356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101601:0464/pct:7.543887395223786,82.4423386375827,22.969054773577945,5.59032123487693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11692,7 +11692,7 @@ my endeavours TO HAVE THEM ALTER­
 an.&quot; Aye, replies the Other Thomas,  
 read out address to the people, signed b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102001:0476/pct:55.720606826801514,20.93803864646648,22.060682680151707,5.706250566996281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102001:0476/pct:55.71180281245062,20.936139332365748,22.062463791014906,5.7087566521528785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11817,7 +11817,7 @@ list. But I can go ton date and to a fact ss
 beyond this; for the proposition for e- ss  
 lediug a Cootinental Convention to form
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111301:0560/pct:4.891562450530315,8.571683947086164,23.428842805129015,79.82659992849482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111301:0560/pct:4.8907882241215574,8.570917865761015,23.430410467447505,79.82244466291299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11918,7 +11918,7 @@ and to anticipate what might hereafter be
 the condition of Anterica. I had&#x27;no idea  
 that the picture I then drew was realizing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111301:0560/pct:28.431217350007916,5.80085806220951,23.333861009973088,54.245620307472294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111301:0560/pct:28.426717315606204,5.800339619268925,23.335443705814075,54.243751303363425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11937,7 +11937,7 @@ ton was hurrying it on. As the ex-siract
 &#x27;Iallude to, is congenial with the subject  
 I-am upon, I here transcribe it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111301:0560/pct:29.396865600759856,60.126921701823385,21.70334019312965,3.0925992134429747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111301:0560/pct:29.39221272554606,60.121547948878366,21.705180964440224,3.0953019334465397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12080,7 +12080,7 @@ sor himself, nor have ha (! any fears about
 impeachments. &#x27;lhese are the disguised  
 traitors that call themselves federalisls. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111301:0560/pct:51.875890454329586,5.622095101894887,23.20721861643185,84.92134429746156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111301:0560/pct:51.86767964545742,5.621592635624274,23.208821356969505,84.91673369678553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12109,7 +12109,7 @@ I willhcre explain the cause of my im.
 prisonmenr, and return to Mr. Washing.  
 ton as terwards
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111301:0560/pct:75.19392116511003,4.799785484447622,22.241570365679912,9.608509116910977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111301:0560/pct:75.18201962646407,4.799356510858879,22.24332594702965,9.61062948729407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12170,7 +12170,7 @@ prudence, moderation and impartialityi
 Soon after that I was pot in arreilanon  
 and imprisoned in the Lexembourg, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111301:0560/pct:75.2730726610733,54.53164104397569,21.56086750039576,38.487665355738294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111301:0560/pct:75.26115859449193,54.52676736080079,21.56273082199008,38.487204695087435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12242,7 +12242,7 @@ swer to my letter in whisi.;h the writer says :
 &quot; Mr. Montoe has told me that he has  
 &quot; no orders (meaning from the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111501:0565/pct:23.529411764705884,4.575399332190235,46.568627450980394,92.30213879613753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111501:0565/pct:23.525691699604742,4.574986464537087,46.566534914361,92.29681766227516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12276,7 +12276,7 @@ dated the iSih of September, but did not
 come to h&#x27;and till about the toth otctOc.  
 tober
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111501:0565/pct:46.9797596457938,39.093944589838465,22.185325743200504,16.072556628463136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111501:0565/pct:46.972332015810274,39.090416892257714,22.187088274044797,16.074114179149372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12319,7 +12319,7 @@ to Mr. Monroe, and found occasion, ;
 among other things to say: &quot; It willss  
 &quot; not add to the Popularity of Mr.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111601:0568/pct:7.1909760300798995,11.553148033034367,22.951590161366127,23.754551105585648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111601:0568/pct:7.18984962406015,11.55212218078494,22.953216374269005,23.755401645652046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12526,7 +12526,7 @@ under cover to Mr. Benjamin-Franklin
 Bachess, of Philadelphia. &#x27;l&#x27;he letter is as  
 _ follows 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111601:0568/pct:6.846310512298293,6.526951425273066,46.608177972740094,92.70935085693988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111601:0568/pct:6.845238095238095,6.5263718700053275,46.60609857978279,92.70407861244303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12558,7 +12558,7 @@ wonders at my lengthy respite from the
 scaﬀold; and he marks his palitics Bill  
 further by saying— &quot; It appears more-0. s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0572/pct:31.952477723933093,9.18971458867191,22.698139753009222,14.800742246178316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0572/pct:31.947483588621445,9.188902632974024,22.69980202146504,14.802379690169053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12646,7 +12646,7 @@ with copies of the instructions given to
 things, that he should also be called upon  
 for COplBS osinslructions given to other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0572/pct:32.04627168985462,32.08447468410356,22.6043457870877,58.43421401431475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0572/pct:32.04126289465458,32.08163986570065,22.606022715431905,58.43199623019379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12745,7 +12745,7 @@ to the treaty preexisting with France. It
 is a counteutteaty to that treaty, and  
 pervert; all the great articies of that trca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0572/pct:54.76004377051743,4.877617743218168,22.776301391277162,60.413537156490236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0572/pct:54.75148483901219,4.877186782116982,22.77795144315932,60.41114448960358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12857,7 +12857,7 @@ The second artiele ofthe trs&#x27;xty oscozn­
 merce between she Unircssl State-s siss—ss, France  
 s-KYS: &quot; The moilsi Christian king::zsisil tl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0572/pct:77.64577145536971,4.95714411946629,21.572612161950914,63.33834054961562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0572/pct:77.63363551109722,4.956706131825411,21.574450349067416,63.33568946221358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12892,7 +12892,7 @@ lng in profou&#x27;nd secrecy this treacherous
 treaty. ss &#x27;  
 &quot;ctCEORGE IVASIIINCTON, Presidm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0573/pct:2.4299644017953876,54.47219270279844,21.312490326574835,15.329436769394261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0573/pct:2.429588362735995,54.46736916674046,21.314350562261424,15.331031022167124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13007,7 +13007,7 @@ better to get himself into tune to do this,
 he began by saying the finest thing: of  
 himselt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111801:0576/pct:8.871091945171724,10.421681376482125,23.471430771600186,76.43755014709815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111801:0576/pct:8.869725900831536,10.420752362274916,23.472949389179757,76.4337077316218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13088,7 +13088,7 @@ by the declaration of independence.-— ?
 Even Silas Deane, though he attempted ?  
 to desraud, did not betrav., 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111801:0576/pct:9.872170029262282,5.277703485780512,45.325735407361776,92.46679147722207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111801:0576/pct:9.870649830612873,5.2772330183633445,45.32388871779078,92.46152017590776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13131,7 +13131,7 @@ him the lustre of those actions, and to
 all the military operations in America.  
 He commenced his command Jnne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111801:0576/pct:33.02017557369475,41.50842471248997,22.177729862929308,21.957742711955067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111801:0576/pct:33.01509085309517,41.50472454983063,22.17944769530849,21.9587567599691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13367,7 +13367,7 @@ Washington administration must be ashctsiict
 ed to appear. And as to you, sis. [se-&#x27;llCh&#x27;U&#x27;  
 rous in private friendship (for in you 3
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111801:0576/pct:55.30571384567996,5.286618525452438,44.0166332973972,92.05669965231345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111801:0576/pct:55.29719741299661,5.2861472633267965,44.01498819423057,92.051464907589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13735,7 +13735,7 @@ tpd the long duration of the Senate ; an I if I
 Jjye to return to America, l will ufe all my en­  
 deavours to have it altered.” “ I he Federa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804111201:0219/pct:5.641569459172852,62.45516141889199,21.08165429480382,5.433771755015278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804111201:0219/pct:5.640373197625106,62.44686503719447,21.08248515691264,5.436370882040382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13880,7 +13880,7 @@ br puzzled to decide whether yoj.
 er you have abanknedgood principles  
 or whether you ever had any1 hes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808050201:0388/pct:76.78423580062925,16.762036306235203,17.751283325053816,4.962509865824783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808050201:0388/pct:76.77152317880795,16.76038275623952,17.75248344370861,4.964486534477656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14197,7 +14197,7 @@ picture I then diew was realizing so fast.—
 As the extract I allude to. is congenial with  
 the subject I am upon, I he;v trailsciihe it.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825041801:0265/pct:68.64039612131215,60.19318015512952,14.751392613988035,7.346699839016537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825041801:0265/pct:68.62623762376238,60.18437225636523,14.753506600660065,7.3492829967808015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14414,7 +14414,7 @@ ingston, Robert Morris and Govermn .Morris,
 held a meeting with Paine an the subjerl, ai &lt;  
 Ihe house ol Robert Morris when lire pla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1848051101:0595/pct:67.23664766729998,52.771679473106474,15.832805573147562,9.591108671789243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1848051101:0595/pct:67.22245673279865,52.764439566470024,15.834740396791895,9.593222664288653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14466,7 +14466,7 @@ whether you are an ipostate or an impostor.”
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n27/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n27/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -14516,7 +14516,7 @@ soul and centre of all the military operations
 in America.  
 &quot;He commenced his command in June, 1775
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1852073001:0550/pct:25.437981779957955,246.33150260526688,49.54449894884373,40.83931840585833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1852073001:0550/pct:6.360609777466269,61.58287565131672,12.388295076222184,10.209829601464582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14536,7 +14536,7 @@ whether he was an apostate or an impostor;
 whether he had abandoned good principles, or  
 whether he ever had any!&quot; But all this, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1852073001:0550/pct:25.367904695164682,342.20532319391634,49.264190609670635,14.533164343050275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1852073001:0550/pct:6.343087436481514,85.55133079847909,12.318205712283161,3.633291085762569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14568,7 +14568,7 @@ make him appear as the soul and centre of all
 the military operations in America.  
 &quot; He commenced his command in June, 11 &lt; ?&gt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852080401:0797/pct:64.43315338202603,54.511714219438645,15.401714830104796,9.37137555091626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852080401:0797/pct:64.43315338202603,54.5155802984613,15.412300201122049,9.379107708961572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14637,7 +14637,7 @@ whether you are an impostor or a, vilUau ;
 whether you have abandoned good prin­  
 ciples, or whether you&quot;never had any.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027273:1855031401:0374/pct:96.81897050318103,28.729143143896625,13.779641411220359,3.8138251160456655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027273:1855031401:0374/pct:72.62472885032538,21.553130096600174,10.339840925524223,2.8603688370342493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14657,7 +14657,7 @@ tor or a villain—whether you hare aban­
 doned good principles, or whether you  
 ever had any.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855040401:0037/pct:15.977377165075998,33.35061568373299,13.874160480735242,3.357096565132858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855040401:0037/pct:15.977377165075998,33.3549362713329,13.88594320725816,3.365737740332685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14741,7 +14741,7 @@ decide whether you are an apostate or an impos­
 tor ; whether you have abandoned good princi­  
 ples, or whether you ever had any !” Such i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1857012901:0075/pct:31.084776663628077,31.299704612588048,12.397447584320876,3.862758463985458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1857012901:0075/pct:31.080054686313233,31.296149040099966,12.399361993012304,3.8651596046802226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14775,7 +14775,7 @@ decide whether you are an apostate or an imposs
  whether you have abandoned good principles,  
 or whether you ever had any.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191009:1857020301:0118/pct:26.188388002104894,188.78809869375908,41.94001052446939,24.915336236090955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191009:1857020301:0118/pct:8.729462667368297,62.92936623125302,13.980003508156464,8.305112078696984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14795,7 +14795,7 @@ will be troubled to decide whether you are an apo?- f
 tate or an impostor, whether you have abandoned i  
 good principles or whether you ever bad any.&quot; Put 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857110601:0379/pct:44.131108814410155,39.794546850998465,14.424922486342831,2.486559139784946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857110601:0379/pct:44.131108814410155,39.79774705581157,14.429843988385255,2.4897593445980544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14814,7 +14814,7 @@ in public life, tl\e world will bo puzzled ,
 to decide whether you are an Apostate or i  
 an Imposter.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1858030501:0666/pct:68.625,85.49760099055874,13.1875,2.956198730846618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1858030501:0666/pct:68.61070610289524,85.48437016403591,13.189960424911476,2.9596100278551534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14854,7 +14854,7 @@ im post or.&quot;
 He again vi&#x27;;U Europe, and returned  
 to America in 1SQ2. Hs welcome
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194928:1858042301:0486/pct:90.99630996309963,119.06837374012531,16.420664206642066,5.216562244619994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194928:1858042301:0486/pct:68.27242524916943,89.30809043857259,12.329272794389073,3.9090166167256877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14968,7 +14968,7 @@ puazled toiecide whether you are an apostate er
 an hnposten; whether you have abandoned good  
 principies or whether you ever had uny-he was in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860022101:0673/pct:15.14547628537266,193.9516129032258,59.0872857712236,11.70794930875576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860022101:0673/pct:3.785614664275752,48.480921526277896,14.768878262602112,2.9265658747300214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14992,7 +14992,7 @@ travelled America from one end to the
 other to put yourself in the way of re­  
 ceiving it 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032312:00513685257:1864091501:0278/pct:56.21173928700036,58.443729903536976,12.621534029528268,5.234726688102894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032312:00513685257:1864091501:0278/pct:56.201620162016205,58.43621399176955,12.623762376237623,5.237268518518518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15012,7 +15012,7 @@ j apo&#x27;tate, or an impostor ; whether lie has
 abandoned good principles .or whether he  
 ever iiad any.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032312:00513685257:1864091501:0278/pct:56.10370903853079,66.2379421221865,12.621534029528268,3.12540192926045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032312:00513685257:1864091501:0278/pct:56.09360936093609,66.22942386831275,12.623762376237623,3.128215020576132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15421,7 +15421,7 @@ vhether you are an apostate or an impostor, whether
 tou have abandoned good princibles of whether  
 on ever hadd any ir. Do our enceka tinglo at utte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872033101:1105/pct:149.50693631957213,20.505914041456844,49.87464482700986,8.712964047312331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872033101:1105/pct:49.83564543985737,6.835304680485615,16.624881609003285,2.9043213491041104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15500,7 +15500,7 @@ while he thus addressed the Father of His Country;
 a hypocrite in public lite, the world will be puzzled  
 to decide whether you are an apostle or an impostor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744018:1878020401:0405/pct:151.7299294591871,217.5932280942576,49.34497816593886,15.133836650652025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744018:1878020401:0405/pct:50.57664315306237,72.5310760314192,16.448326055312954,5.044612216884008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15719,7 +15719,7 @@ good principles or whether yon ever had
 m  
 1 -v Thomas Tlvxx
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028271:00296027340:1879061201:0104/pct:8.266625615763546,58.43511450381679,14.17795566502463,4.847328244274809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028271:00296027340:1879061201:0104/pct:6.206684121361466,43.829516539440206,10.642230093947328,3.6386768447837152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15759,7 +15759,7 @@ ypocrite In public life, the world will be puz­
 led to decide whether you are an apostate or  
 n iipostor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1880032701:0744/pct:44.83129935391242,54.83436574198761,13.01148600143575,2.033396175599246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1880032701:0744/pct:44.8402727925341,54.84109884190681,13.02045944005743,2.040129275518449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15816,7 +15816,7 @@ hypocrite in public life, the world will be
 puzzled to decide whether you are an  
 tate or an impostor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102391:1880041501:0373/pct:322.46404239212717,217.41812307240417,49.14837244511734,39.829637244823026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102391:1880041501:0373/pct:80.63127011167897,54.35453076810104,12.289418890781754,9.957409311205756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15834,7 +15834,7 @@ crite in public life, the world will be puzzied
 to decide whether you are an apostate or an  
 impostor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524068:1880050401:0078/pct:89.64619390412008,247.04771893025693,38.65829376627355,4.415312008390141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524068:1880050401:0078/pct:29.87748851454824,82.34060402684564,12.884124553343543,1.471616331096197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15852,7 +15852,7 @@ hypocrite in public life, the world will be puz­
 zled to know whether you are an apostate or  
 an i in poster.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn86076999:0041562735A:1880051301:0043/pct:54.877049180327866,47.89752158173211,22.581967213114755,2.9100529100529102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn86076999:0041562735A:1880051301:0043/pct:41.1764705882353,35.923141186299084,16.929698708751793,2.186020607073239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15870,7 +15870,7 @@ I hypocrite in public life, the world will be
 | puzzled to decide whether you are an apos-  
 I tate or an impostor.&#x27; &#x27;J&#x27;i.:3 cenot.iph i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037901:1880052901:0633/pct:38.5133020344288,63.625905901299895,10.82942097026604,1.6680087426665133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037901:1880052901:0633/pct:38.521126760563384,63.625905901299895,10.82942097026604,1.6737604969515703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15891,7 +15891,7 @@ an imposter; whether you abandoned
 good princpiles or whether you never  
 had any.&quot; John Vjuincy Adam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341620:1880102501:0399/pct:12.110776295020806,87.4454480868771,11.264169895250395,3.1462498731350856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341620:1880102501:0399/pct:12.109038737446198,87.4365739801096,11.267336202773793,3.149313307624653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15912,7 +15912,7 @@ whether  you are an apostateoran impostor,
 whether you abandoned sood principles or  
 whether you never had any,&quot; John Quincy Adam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779593:1880102601:0463/pct:50.051867219917014,163.02104828724723,35.4253112033195,4.044572843582336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779593:1880102601:0463/pct:12.51783629523933,40.755262071811806,8.859774289791153,1.011143210895584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15946,7 +15946,7 @@ postor, whether you abandoned good
 principles or whether you never had  
 any.&quot; John Qiinc Adams console
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880110401:0582/pct:10.447761194029852,95.8355650776647,18.195785776997365,6.628280664167113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880110401:0582/pct:7.839262187088274,71.88002142474558,13.658322353974528,4.981253347616497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15974,7 +15974,7 @@ crite in public life, the world will be troubled to
 decide whether you have abandoned good princi­  
 ples, or whether you ever had any.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210077:1884101301:0324/pct:85.3171334431631,67.85176257909009,18.595551894563428,2.2747815607110575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210077:1884101301:0324/pct:66.12757354897057,52.58610624635143,14.427834228866308,1.766880716092625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16009,7 +16009,7 @@ old, deliberate crime of the heart, such as Mr. Wash
 gton is capable of acting, ls not to be washed away.&quot;  
 his seems to he the reproduction of resterday after
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884110201:0307/pct:149.92842373150947,242.57741347905284,46.158740257674566,31.022313296903462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884110201:0307/pct:49.97614124383649,80.85913782635095,15.386246752558188,10.34077109896782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16049,7 +16049,7 @@ Washington&#x27;s character appear in the world when his
 declarations and his conduct are compared together. Old  
 Mrs. Thempson, the housekeeper of his headquarters
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884110201:0307/pct:149.91251789406712,5.430327868852459,94.62382694448863,287.5341530054645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884110201:0307/pct:49.970839298022376,1.8101092896174864,31.541275648162877,95.84471766848816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16066,7 +16066,7 @@ could have done his habian military work as well as Mr.
 Washington. Deborah would have been as good as  
 Barak.&quot; Here you see General Washington&#x27;s wife i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884110201:0307/pct:197.02560839828217,26.00182149362477,46.42913949419437,4.747267759562842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884110201:0307/pct:65.6752027994274,8.667273831208258,15.476379831398123,1.5824225865209471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16094,7 +16094,7 @@ be troubled to decide whether you are an apostate or an
 impostor- whether you have abandoned good principles  
 or whether you ever had any&quot; It is a singular fact tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884110201:0307/pct:196.59615078733896,32.764116575591984,47.73341816446636,20.776411657559198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884110201:0307/pct:65.53205026244632,10.921372191863995,15.911139388155453,6.925470552519733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16142,7 +16142,7 @@ whether you are an apostate or an imposter,
 whether you have abandoned good principles  
 or whether you ever had any.&quot; Evidentl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886111301:0977/pct:121.9198790627362,202.768069341535,49.88662131519274,9.618341954424716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886111301:0977/pct:30.485730485730485,50.69201733538375,12.474012474012474,2.404585488606179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16163,7 +16163,7 @@ or an impostor, whether you have aban­
 doned good principles, or whether you  
 ever had any.&quot; Evidently in thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477722:1886112601:0606/pct:54.571592869465206,94.10374571664894,14.90799309948246,4.253810705423609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477722:1886112601:0606/pct:40.93457943925234,70.5778092874867,11.186196980589504,3.1903580290677063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16183,7 +16183,7 @@ whether you are an apostate or an Impostor,
 wbother you have abandoned good principles  
 or whether you over had any.” Evidentl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155884:1886122901:1005/pct:82.45309242529534,60.822801828448505,10.458651841556637,2.82333960742135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155884:1886122901:1005/pct:82.43877019280876,60.81462562172335,10.46117769671704,2.82632074203522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16224,7 +16224,7 @@ to decide hetner you are an apostate or an Impostor
 whetheryon bare abandoned good principles or whether  
 you ever nad an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889051001:0099/pct:234.61243284727553,232.21884498480244,52.41749808135073,12.948328267477203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889051001:0099/pct:58.664363845710994,58.05471124620061,13.106889272692381,3.237082066869301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16246,7 +16246,7 @@ whether you are an apostate or im­
 postor; whether you have abandoned  
 good principles, or ever had any.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1890111501:0582/pct:55.62433675274142,64.03662313181634,9.957552175451008,3.6488487949373907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1890111501:0582/pct:55.61450044208665,64.02800215401184,9.960212201591512,3.651723209477652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16269,7 +16269,7 @@ impo3ter ; whether you hive aban­
 oned good principles or whether you  
 ever had any.&quot; Washington had no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291967:1891032401:0778/pct:84.8913043478261,39.735353341643496,19.375,7.718860868731422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291967:1891032401:0778/pct:63.69444066875085,29.80151500623262,14.543971727606362,5.791542813309042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16434,7 +16434,7 @@ to &#x27; appear. You : commenced your presi­
 dential career - by - encouraging and swal­  
 lowing the grossest adulation. Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665532:1895042901:0580/pct:41.063714902807774,32.00393356643357,16.158207343412528,21.798513986013987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665532:1895042901:0580/pct:30.817015530047264,24.005681818181817,12.12694125590817,16.346153846153847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16469,7 +16469,7 @@ you are an apostate or an impostor: wheth­
 er you have abandoned good principles, or  
 whether you ever had any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665532:1895042901:0580/pct:40.99622030237581,53.81337412587413,15.99622030237581,10.052447552447552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665532:1895042901:0580/pct:30.762997974341662,40.36276223776224,12.00540175557056,7.539335664335664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16564,7 +16564,7 @@ decide whether your are an apostate or
 impostor, whether you have abandoned  
 good principles or whether you ever ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665635:1896122101:0516/pct:21.527462551066726,112.98068706204067,16.591012256014526,3.999316356178431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665635:1896122101:0516/pct:16.15209988649262,84.7376516834729,12.451759364358683,2.9994872671338233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16603,7 +16603,7 @@ the filth on their backs.” Aud that is
 exactly what I thought of when I saw  
 an account of the day’s doings at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1897012701:0159/pct:45.7571173153624,45.0840108401084,11.566497043047724,6.775067750677507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1897012701:0159/pct:45.76628615962958,45.0840108401084,11.566497043047724,6.778681120144535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

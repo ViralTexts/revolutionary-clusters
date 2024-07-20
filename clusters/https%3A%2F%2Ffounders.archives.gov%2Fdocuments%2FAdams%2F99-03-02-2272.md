@@ -619,7 +619,7 @@ It would not stain au angel&#x27;s chcek,
 j &#x27;T:s that which pious fathers&#x27; shed  
 t&#x27;pon a duteous daughter&#x27;s head !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843051701:0470/pct:21.51116427432217,60.516102675835775,15.191387559808613,5.596786273575271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843051701:0470/pct:21.50902023323034,60.5119825708061,15.193195787235457,5.598674655047204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,7 +1083,7 @@ It would not stain an Angel&#x27;s cheek,
 &#x27;1 is that which pious father&#x27;s shed  
 Upon a uuteous daughter&#x27;s head. [Scott
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1849051201:0007/pct:79.36406995230524,26.845111434651137,13.227344992050874,3.7630193750699967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1849051201:0007/pct:79.36406995230524,26.845111434651137,13.243243243243244,3.770485683353866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1157,7 +1157,7 @@ It would not stain ah A ngefs cheek,.&#x27;
 &#x27;Tis that which pious fathers shed &#x27; - t;  
 &quot; Upon a duteous daughter&#x27;s head. ! ; &#x27; . &#x27; Scoit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849082201:0565/pct:85.06200676437429,68.78967186659494,20.152198421646,5.056481979558902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849082201:0565/pct:63.805496828752645,51.59763313609467,15.123326286116983,3.797740720817644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1202,7 +1202,7 @@ It would not stain an angel&#x27;s cheek,
 &#x27;Tis that which pious fathers shed  
 Upon a duteous daughter&#x27;s head.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068957:00296027005:1849092901:0124/pct:28.322557471264368,43.56566397652238,14.026580459770114,4.812912692589875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068957:00296027005:1849092901:0124/pct:21.25404240028746,32.67791636096845,10.528206970894718,3.6096845194424065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1270,15 +1270,15 @@ It would not stain an angel&#x27;s cheek,
 &#x27;Tis that which plous fathers shed  
 Upon a dutious daughter&#x27;s head.-Scorr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1850042701:0054/pct:230.5750350631136,314.6772142958045,34.78260869565217,15.143381833592315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1850042701:0054/pct:57.674092264515,78.66930357395113,8.700228030170146,3.7858454583980787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1850-06_26_144/page/n25/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1850-06_26_144/page/n25/mode/1up?view=theater)
 
-#### 1850-06-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1850-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1353,7 +1353,7 @@ It would not stain an angel cheek
 ‘Tie that which pious fathers shed  
 Upon a duteous daughter&#x27;s head. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016573:1852110501:0182/pct:83.8136668479246,25.950960901259112,11.05673373210078,3.3399602385685885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016573:1852110501:0182/pct:83.79847770931497,25.94752186588921,11.05926060166727,3.342830638749006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1375,7 +1375,7 @@ It would not stain an angel cheek
 &#x27;Tis that which pious fathers shed  
 TTt,m&gt; n rtntpmis daughter&#x27;s head.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852111201:0189/pct:4.746317512274959,56.61635661635662,15.348245135479178,5.3703053703053705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852111201:0189/pct:4.746317512274959,56.61635661635662,15.372491968236648,5.374205374205374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1399,7 +1399,7 @@ It would not stain an angel&#x27;s cheek,
 Upon a dutious daughter&#x27;s head.  
 Sir WaTTEr ScOtt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:00202191368:1853123001:0074/pct:154.97044599677594,121.88330322032097,42.50403009134874,18.74800722712297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:00202191368:1853123001:0074/pct:38.7478167405616,30.470825805080242,10.627435173988983,4.687001806780742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1445,7 +1445,7 @@ As would not stain an angel&#x27;s cheek,
 &#x27;Tie that which pious fathers shed  
 Upon a duteous daughter&#x27;s head
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854042101:0198/pct:6.705539358600583,11.873982572057837,10.714285714285714,3.6579526955855597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854042101:0198/pct:6.705539358600583,11.880366433655718,10.719144800777453,3.6611446263845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1519,7 +1519,7 @@ It would not stain an angel&#x27;s cheek
 &#x27; &#x27;Tis that which pious fathers shed&#x27;  
 Upon a duteous daughter&#x27;s head 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654085:1856090801:0106/pct:3.0036169208995127,15.550778050778051,12.533417203962887,3.4295659295659298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654085:1856090801:0106/pct:3.0154112281805316,15.558456183456183,12.529485768202548,3.4244471744471743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1554,7 +1554,7 @@ Upon the duteous daaghter&#x27;s head.&quot;
 Long has she watched with anxiety  
 the youthful steps of her offspring, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857101701:0795/pct:183.00520767178966,164.26460095810825,32.884542105931665,13.882376923860972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857101701:0795/pct:61.00173589059656,54.754866986036085,10.961514035310556,4.627458974620324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1607,7 +1607,7 @@ at once how much you love them. Such
 are not the evidences they desire. They  
 would rather find the proof of your love i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1858040201:0262/pct:167.69686706181201,152.81754492841912,36.12757550098787,20.479236470707686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1858040201:0262/pct:55.891068152956116,50.934010152284266,12.04082592540332,6.825719120135364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1636,7 +1636,7 @@ now much you love them. Such are not the
 evidenoes they desire. They would rather find  
 the proof of your love in your habitual obedienc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1858050601:0336/pct:3.8620689655172415,8.563218390804598,12.582375478927203,6.839080459770115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016548:1858050601:0336/pct:3.861477168250077,8.56223422595104,12.584278271529268,6.841167681875646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1700,7 +1700,7 @@ It would not stain an angel&#x27;s cheek;
 Tis that which pi&gt;&gt;us daughters shod  
 Over a loved, dead father&#x27;s head
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1859031101:0883/pct:3.4686971235194584,13.277693474962064,12.859560067681896,4.855842185128983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1859031101:0883/pct:3.467963628674138,13.275678956152328,12.862127299640516,4.858898497951753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1769,7 +1769,7 @@ It would uot stain an angel&#x27;s cheek,
 &#x27;Tisthat whioh pious fathers shed,  
 Upoa a duteous daughter&#x27;s head &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1863012101:0091/pct:54.99759345419541,91.11617312072893,11.390983475052142,4.317171059767871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1863012101:0091/pct:55.002941333761164,91.11617312072893,11.396331354617894,4.32440250207904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1807,7 +1807,7 @@ Upon a duteous daughter’s head.
 &quot;Some moments are to mortals given  
 With less of earth in them than heaven.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026789:00271768047:1865071201:0156/pct:133.07727067329418,68.65819988956378,30.65220665762916,3.3241303147432357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026789:00271768047:1865071201:0156/pct:44.35909022443139,22.886066629854593,10.21740221920972,1.1080434382477453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1830,7 +1830,7 @@ Upon a dying daughter&#x27;s head.&quot;
   
 iUiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028460:1866081701:0289/pct:29.53593296809539,18.9948006932409,12.375120850789559,3.9630271519352975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028460:1866081701:0289/pct:29.53593296809539,18.9948006932409,12.385863143194758,3.966878490275371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1894,7 +1894,7 @@ It would not stain an angel’s cheek,
 ’Tis that which pious fathers shed  
 Upoaaduteoua daughter’s head
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152378:1870012001:0386/pct:33.585674770708984,6.252063841496973,9.943223176590479,2.8398458998348928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152378:1870012001:0386/pct:33.585674770708984,6.259401944597322,9.948075896540011,2.8398458998348928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1959,7 +1959,7 @@ It would not stain an angel&#x27;s check,
 &#x27;Tis that which jiious father&#x27;s shed  
 Upon a duteous daughter&#x27;s head
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn84026853:00202194011:1872071701:0080/pct:50.58668424522083,61.74045801526717,12.036914963744232,4.061068702290076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn84026853:00202194011:1872071701:0080/pct:50.59107888376181,61.74724342663274,12.045704240826192,4.064461407972859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2138,7 +2138,7 @@ It would not stain an angel&#x27;s cheek,
 Tis that which pious fathers shed,  
 Upon a dutious daughter&#x27;s head.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878459:1887012701:0055/pct:25.831969448990726,66.10561750473386,15.861974904528097,6.606353881758889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878459:1887012701:0055/pct:19.38344018551357,49.57921312855039,11.894693766198335,4.954765411319167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2327,7 +2327,7 @@ It would not stain an angel&#x27;s cheek,
 Upon a duteous daughter&#x27;s head.  
 —Sir Walter Scott.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kathak_ver01:data:sn91059394:00383347798:1896042901:0141/pct:20.161834120026974,32.34247675886606,13.857046527309508,4.579364168483875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kathak_ver01:data:sn91059394:00383347798:1896042901:0141/pct:20.161834120026974,32.3501281609855,13.862665767588222,4.571712766364437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2350,7 +2350,7 @@ TIs that which pious fathers shed
 Upon duteous daughter&#x27;s head.  
 Sir Waller Scott.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760973:1896050601:0580/pct:16.172316384180792,16.682539682539684,26.2241054613936,7.761904761904762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760973:1896050601:0580/pct:10.78662270372115,11.126984126984127,17.498822421102215,5.174603174603175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2374,7 +2374,7 @@ It would not stain an angel’s cheek,
 Upon a duteous daughter’s head.  
 —Sir Walter Scott
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1896061101:0796/pct:73.79459035672285,28.131445070809846,17.130537044296354,5.1423071634813695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1896061101:0796/pct:73.78012933568489,28.127577673907066,17.13371219544059,5.146182751351847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

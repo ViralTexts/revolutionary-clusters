@@ -111,7 +111,7 @@ tary has been unexceptionable, and I
 am confident that trie Congress will  
 never think of separating us.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1888041401:0155/pct:79.45269741985926,68.97790355937738,14.073494917904613,10.395123544138457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1888041401:0155/pct:79.45269741985926,68.97790355937738,14.083919728954912,10.395123544138457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ great deal of pleasure In Ben. He Is a
 good honest lad, and will make, I think,  
 a valuable man.&quot; &quot;He gains dally u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_caliente_ver02:data:sn86091346:00415668284:1897122901:0205/pct:94.74264705882354,96.17667356797791,15.220588235294118,8.198757763975156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_caliente_ver02:data:sn86091346:00415668284:1897122901:0205/pct:71.10538900128748,72.13250517598344,11.421739930108515,6.1559696342305035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ a great deal of pleasure in Ben. He
 is a good honest lad, and will make, I  
 think, a valuable man.&quot; &quot;He gains 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_iceman_ver01:data:sn88064439:00280761886:1899012701:0183/pct:29.085923217550274,62.10252348081928,23.948811700182816,11.033156048432726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_iceman_ver01:data:sn88064439:00280761886:1899012701:0183/pct:19.400255988297676,41.405454339708044,15.96269884805266,7.3554373656218175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ to mvself when I pictured his
 a- 4 -  
 office to serve bis fanuv more than t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069873:00100481960:1899072501:0337/pct:47.34477124183007,59.46133280522824,36.84640522875817,19.45737201703139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069873:00100481960:1899072501:0337/pct:35.51341413591175,44.59599960392118,27.645376549094376,14.597979998019605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

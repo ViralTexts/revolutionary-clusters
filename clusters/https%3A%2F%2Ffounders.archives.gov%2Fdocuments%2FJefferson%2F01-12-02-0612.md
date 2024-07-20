@@ -267,7 +267,7 @@ friends to this proposition iu France will be far
   
 above the need of my asaoriatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849011301:0335/pct:28.026400515132003,20.474607359853263,16.951062459755313,5.686117161526997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849011301:0335/pct:21.03059581320451,15.361687492835033,12.721417069243156,4.264587871145248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ they were, that labored for the establishment of
   
 from spreading itself over our territory. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1850031401:0028/pct:14.30421909696521,11.85242319064147,33.179126572908956,108.67720786733513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1850031401:0028/pct:10.736764161421696,8.895744954364314,24.898185857089967,81.50147833911814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ find its way into the Constitution.
 In the Convention of the State of North  
 Carolina, when the question of the adoptio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1850060401:0071/pct:89.98541565386485,239.33131356849168,38.32442067736186,29.842025535598356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1850060401:0071/pct:29.990278677900193,79.76847343935951,12.772737092244546,9.946265642468173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ Constitution.
 In the Convention of the State of North Carolina,  
 when the question of the adoption of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850071101:0124/pct:4.380816034359341,64.63581331771138,14.931997136721547,7.039640695176724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1850071101:0124/pct:4.390360295872107,64.6423224630606,14.931997136721547,7.039640695176724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ the same letter, he says: “with what execration
 should the statesman be loaded, who, permitting  
 one half the citizens I bus to trample on the rights o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171992:1854020301:0106/pct:29.743481026075894,43.57131937012689,17.51112995548018,4.601742852774805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171992:1854020301:0106/pct:23.051645763732953,33.77172195892575,13.582342954159593,3.566350710900474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ Slavery ; and certainly, nobody- will bo moro
 willing to encounter every saerafico for that ob  
 ject.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1856010301:0523/pct:43.79942487419123,66.03556351541512,16.21135873472322,4.323909428169374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1856010301:0523/pct:32.86587558432219,49.533068952283486,12.171880618482561,3.2493283868491747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ to encounter every sacrifice for that object.&quot;
 In the Virginia Uonvention, James Mon­  
 roe said: &quot;We have found that this evi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1856041701:0714/pct:53.71962062833432,42.18538565629229,14.65619442797866,6.0667568786648625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1856041701:0714/pct:40.29939232251371,31.641858367162833,10.99748036164221,4.555705908885882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ ting despotisin on the one part, and degrading rul
 missimn on the other.&quot;  
  With what execration should th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856052301:0290/pct:49.51737451737452,108.75337533753375,37.853925353925355,12.297479747974798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856052301:0290/pct:16.503136561042304,36.2470469119136,12.615945525709078,4.0986987662654215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ of the condition of slavery ; and certainly, no­
 body will be more willing to encounter every  
 sacrifice for that object.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1856081201:0565/pct:62.03866432337434,24.898051653828727,13.766842413591096,2.6506570004531036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1856081201:0565/pct:58.941656618124476,23.656646818279647,13.0832019293201,2.5252887581605568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ of the condition ot Slavery, and certainly nc­
 bodv Will be mere willing to encounter sacri­  
 fice for that object.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029105:1856091101:0589/pct:87.25152905198777,110.42835637060352,19.094036697247706,4.406733269467634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029105:1856091101:0589/pct:65.46845124282983,82.82468865471466,14.321223709369026,3.3118927056247434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ added, &quot;nobody wishes more ardently than I to see
 the abolition, not only of the trade, but of the  
 condition of slavery.&quot; With such evidences befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1859030401:0242/pct:3.90257798034468,81.53013910355487,11.138014527845037,2.8041510267167147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1859030401:0242/pct:3.90257798034468,81.53749908000295,11.147509851398187,2.8041510267167147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ of the condition of Slavery, aadlcertainly no­
 body will be more willing to encounter any  
 sacrifice for that abject&quot; (Notes on Virgin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860032201:0471/pct:29.97163120567376,2.8136960794455366,12.666666666666666,2.9171407882486813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860032201:0471/pct:29.976359338061467,2.820592393365746,12.671394799054374,2.9171407882486813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ know that nobody wishes more ardently t
 ses an abolition not only of the trade, but  
 of the coxpiriox of slaver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191204:1862032701:0197/pct:26.592664092664094,21.08367121267969,96.95945945945945,368.48507187615184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191204:1862032701:0197/pct:6.650573325286663,5.270917803169922,24.248642124321062,92.12126796903796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

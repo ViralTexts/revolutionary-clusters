@@ -175,7 +175,7 @@ must be worse than an infidel, who lacks
 faith, and more than wicked, who ha* not grat­  
 itude enough to acknowledge his obligations.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851030101:0459/pct:59.166267369429804,39.23589637875352,12.534738859607092,4.94743351886209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851030101:0459/pct:59.16059793024147,39.23320049470936,12.536731825731442,4.949383903623288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ than wicked, who has not gratitude enough to acknowledge
 his obligations &quot; At that critical period,  
 when the cause of freedom was on the brin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851031501:0330/pct:0.9097472924187726,29.61337760910816,16.115523465703973,5.3605313092979125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851031501:0330/pct:0.9097472924187726,29.621283997469956,16.115523465703973,5.3605313092979125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ this that he must be worse than an infidel that lacks faith
 and more wicked that lias not gratitude enough to ac­  
 knowledge his obligations;&quot; and again: &quot;we haveabun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860120101:0534/pct:85.82184969455889,32.53761283851555,11.06691291376616,2.768304914744233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860120101:0534/pct:85.82184969455889,32.53761283851555,11.076383956054364,2.7816783684386492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ infidel that lacks frith, and more wicked that has
 not gratitude enough to acknowledge his obliga­  
 tions.” And again:—“wo have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863112801:0003/pct:76.09838527975967,22.073725950947274,9.819752159218925,3.3044499926567776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863112801:0003/pct:76.10777318813368,22.08106917315318,9.824446113405934,3.3117932148626816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ worse than an infidel that lacks
 faith, and more than wicked that  
 has not gratitude enough to ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033437:00296021003:1879042501:0667/pct:22.55072463768116,71.87159956474429,16.72463768115942,3.0794341675734493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033437:00296021003:1879042501:0667/pct:16.917947231081474,53.906420021762784,12.554363583647435,2.306855277475517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ gratitude enough to acknowledge
 his obligation.&quot;Gencral Geo. Wash­  
 togteta iag to the famlly Bfble o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn84026106:00280776567:1879052201:0762/pct:102.74414850686037,233.25119582548194,50.20177562550444,15.944339759385418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn84026106:00280776567:1879052201:0762/pct:25.686037126715092,58.312798956370486,12.55044390637611,3.9860849398463545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ than an infioel that lacks faith, and
 more than wicked that has not gratitude  
 enough to acknowledge his obligation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470028:1879052201:0369/pct:111.9472182596291,36.67267576616018,16.298145506419402,3.0517640999227402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470028:1879052201:0369/pct:84.014272970562,27.50450682462014,12.221231043710972,2.2920422353850114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ an infidel that lacks faith, and more than
 wicked that has not gratitude enough to  
 acknowledge bis obligations. Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470028:1879052901:0374/pct:54.16967509025271,64.77374695551852,16.444043321299638,3.0637097807973337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470028:1879052901:0374/pct:40.64644275911881,48.58351493398282,12.351029252437703,2.307396487629791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ faith, and more than wicked that
 has not. gratitude enough to ac­  
 knowledge his obligation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn86053968:00383343781:1879060501:0271/pct:8.676177836761779,41.73131387760128,10.68347710683477,3.41090998645487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_chert_ver01:data:sn86053968:00383343781:1879060501:0271/pct:8.674738762647205,41.72617581876385,10.685851716702604,3.413568086678158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ an Infidel that lacksjaith, and more
 than wicked that has not gratitude  
 enough to acknowledge his obligation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn85038603:00415662142:1879090601:0260/pct:29.554003224073078,86.89399716744744,15.515851692638366,2.560191742019828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn85038603:00415662142:1879090601:0260/pct:22.174438919500066,65.17049787558558,11.65165972315549,1.928314631223445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ In all times of trouble good men
 have resorted to prayer and been com­  
 forted. Perplexed, discouraged, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285037:1885050101:0111/pct:71.89721159103335,271.98082109679353,47.62165117550574,15.902507242033764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285037:1885050101:0111/pct:17.97676008202324,67.99520527419838,11.90704032809296,3.975626810508441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -776,7 +776,7 @@ gation.&quot;—GeorgeWashington.
 have resorted to prayer and been com­  
 forted. Perplexed, discouraged, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625066:1885051501:0164/pct:102.70661157024793,85.24315259921744,17.789256198347108,5.589714924538849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625066:1885051501:0164/pct:82.1763085399449,68.20197503260667,14.225895316804408,4.464318986398361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ an infidel that lacks faith, and more
 than wicked that has not gratitude  
 enough to acknowledge his obligation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1885121101:0024/pct:49.12415784408085,8.021166968388803,14.379210779595764,2.5205403147193985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1885121101:0024/pct:41.76165803108808,6.817912803314263,12.23343332424325,2.1503255079897414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,7 +832,7 @@ an infidel that lacks faith, and more
 than wicked that has not gratitude  
 enough to acknowledge his obligation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1885121101:0026/pct:49.5607333842628,7.875330457770976,14.266615737203972,2.6019201335745095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1885121101:0026/pct:42.12662337662338,6.697942127256958,12.137445887445887,2.2155641409761095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ that lacks faith, and more than
 wicked that has not gratitude enough  
 to acknowledge his obligations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870321:1889042901:0560/pct:28.424329501915707,59.60055208248762,18.47461685823755,7.469351303077048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870321:1889042901:0560/pct:21.326787211112443,44.70244377689372,13.854628188240929,5.602013477307786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -895,7 +895,7 @@ an infidel that lacks faith, and more
 than wicked that has net gratitude  
 enough to acknowledge hie obligation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623446:1889100301:0130/pct:56.92622252513205,15.798854232972628,12.250809337195433,2.6352641629535327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623446:1889100301:0130/pct:56.93758164366445,15.798854232972628,12.239450218663032,2.6479949077021008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -986,7 +986,7 @@ and more than wicked that has not
 obligation.”—George Washington.  
 “ So great is my venerat&#x27;on for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349244:1892060401:0290/pct:50.00851353652307,48.295386098060476,10.795164311254895,3.5056017347307553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349244:1892060401:0290/pct:50.0,48.28956877860757,10.797582567245488,3.508190797398217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1072,7 +1072,7 @@ nu inlldol that lacks faith, and more
 than wicked that has not gratitude  
 enough toacknowledgo his obligations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193638:1895022301:0380/pct:1.281640499839795,1.7307341956640554,32.58570970842678,96.01020222262707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193638:1895022301:0380/pct:1.3056712592117912,1.7443978866824559,32.60974046779878,96.01475678629987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ tions.’ And after the close of the con­
 j test he wrote to a friend: ‘To rhe  
 Great Ruler of events, and not to an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186816:1895022301:0276/pct:42.89531593838416,28.593930484091146,13.407733417164414,3.3077811613987187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186816:1895022301:0276/pct:42.888574571742886,28.59092818143637,13.410864896013411,3.3109337813243735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

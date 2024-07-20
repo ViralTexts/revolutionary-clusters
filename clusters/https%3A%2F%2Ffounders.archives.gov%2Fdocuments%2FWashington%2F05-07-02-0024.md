@@ -503,7 +503,7 @@ Thus, wnder Washington, as under Mudison, tlere
 was no ‘* express” act. In both cases, the Executive  
 acted under a previousiy existing law. There 1s a grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812082701:0677/pct:75.46096846458728,68.56599238934508,23.401688781664657,13.128379731624275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812082701:0677/pct:75.47245677523121,68.56933039588758,23.390200471020737,13.135055744709259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ of the merchants in discharging their engagements had
 bean exemplary.&quot; He farther declared that uniformity  
 in the currency of the United Stales ij an object of grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838010901:0218/pct:3.8879736408566723,56.14268440145103,15.337726523887973,3.5308343409915355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838010901:0218/pct:3.8879736408566723,56.15074566706973,15.359692476661175,3.5308343409915355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ encouragements to our own navigation as .
 will render our agriculture and commerce  
 less dependant on foreign bottoms.&quot; . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027534:1855032701:0189/pct:110.68197633959637,48.75397667020148,17.362560890744607,2.889713679745493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027534:1855032701:0189/pct:83.04907761921336,36.57211028632025,13.017751479289942,2.1606574761399786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ I presume, you will resume, of course, and
 which are abundantly urged by their own  
 Importance.&quot; Here are four subjects o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665635:1896120901:0390/pct:39.18010752688172,11.694653872515422,16.364247311827956,4.703564084989719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665635:1896120901:0390/pct:29.400560224089634,8.773132282385195,12.280112044817928,3.5298149417409186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -774,7 +774,7 @@ the prompt payment of the public dues was
 patriotism and integrity of the mercantile  
 and marine part of our citizens.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041566574A:1898022301:0534/pct:68.46883468834689,75.357179045496,12.479674796747968,2.7155740196575135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041566574A:1898022301:0534/pct:68.47786811201445,75.36393420474887,12.479674796747968,2.712196440031074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

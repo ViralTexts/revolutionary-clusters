@@ -382,7 +382,7 @@ consistent with the principles and spirit of the
 British cobftitution, for the people of G. Britain  
 to grant his Majesty the propétty of thecolonies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768021901:0033/pct:33.543890219995646,53.45164896590274,28.120235242866478,17.397987702627166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768021901:0033/pct:33.543890219995646,53.456307061673186,28.13475640746388,17.407303894168063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ mit of their being represented in the Parliament of G. Britain,
 2dly. That no Taxes can be constitutionally imposed on the  
 People in the Colonies but by their respective Legislatures, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774030401:0204/pct:10.387663311201543,48.05045871559633,26.065538659241806,6.092316513761468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774030401:0204/pct:10.387663311201543,48.06001529051988,26.072677946740914,6.097094801223242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ teted by the Britith Navy. The Revenue to
 the Crown, from America amounted to but  
 little more than the Charges of colle&amp;ting it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775010601:0380/pct:66.18115612198453,66.15176964607079,28.62994993172508,4.709058188362327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775010601:0380/pct:66.19632832650584,66.15176964607079,28.62994993172508,4.7240551889622076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ little more than the Charges of colle&amp;ting it
 f&#x27;,‘?{at they should share in the national Benefit.  
 “for this Purpose thé Stamp A&amp; was pafled.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775010601:0380/pct:65.3618570778334,70.84583083383323,29.56304050978607,3.809238152369526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775010601:0380/pct:65.36944318009407,70.85082983403319,29.57062661204673,3.804239152169566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ Partiament, as the supreme Legislature of the
 whole. A&amp;s ofParliament for Rf]s&amp;ulating our  
 internal Polity were familiar. e had pai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775010601:0380/pct:66.15839781520255,79.25914817036593,28.743741465634958,13.107378524295141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775010601:0380/pct:66.15839781520255,79.25914817036593,28.751327567895615,13.107378524295141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ which took off the Duties from all the Arti­
 cles except Teas. This was the lucky Mo­  
 ment when to have ciofed the Dispute. W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775010601:0381/pct:7.131465026201869,53.48376276871474,29.072681704260653,17.18249733191035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775010601:0381/pct:7.139059770638718,53.493926919754024,29.0650869598238,17.187579407429993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -688,7 +688,7 @@ Minds in the Time of the Stamp A¢t was not
 yet allayed, and the Leaders of the Whigs had  
 gained the Confidence of the People by thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775011301:0384/pct:35.961930659415366,68.33433193529059,28.43870382959438,23.127621330137806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775011301:0384/pct:35.969484100007556,68.3393249450769,28.43870382959438,23.137607349710404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ a 2 Window Tax, Hearth Tax, Land Tax, and
 Poll Tax ; and these were only paving the  
 Way for reducing the Country to Lordihips 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775011301:0384/pct:65.19374575118967,29.838226482923908,28.37072286426467,5.766926303175555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775011301:0384/pct:65.19374575118967,29.838226482923908,28.37827630485686,5.781905332534452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -725,7 +725,7 @@ by being told that thePeople of England were
 depraved, the Parliament Venal, and theMi­  
 niftry corrupt : Nor were Attempts wantin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775011301:0384/pct:65.3976886471788,46.749550629119234,28.280081577158395,2.9059316956261236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775011301:0384/pct:65.41279552836318,46.75454363890553,28.264974695974015,2.900938685839824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2712,7 +2712,7 @@ wn;ds toiii..mod it by their own provincial authority &quot;
 (Page 4i&gt;) &quot;It is extremely provoking to courtiers th:  
 they cannot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120101:1188/pct:1.104542626011201,83.52428393524283,14.499066583696328,4.2465753424657535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120101:1188/pct:1.114913918274217,83.53258613532586,14.499066583696328,4.2465753424657535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2742,7 +2742,7 @@ therein by themselves; and that no taxes ever have, been
 or can be constitutionally imposed upon theni, but bv  
 their respective legislatures.&quot;??Vv Marshall&#x27;s /list or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851053001:0260/pct:36.571681677247895,34.59706425585691,15.443673409124465,2.70243997278118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851053001:0260/pct:36.576603179290316,34.60354492725446,15.443673409124465,2.7056803084799586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2773,7 +2773,7 @@ people of (?rert Britain to grant t^his majesty the prop­
 erty of the colonists.&quot; #  
 l&quot; call the attention of the committee to these resolu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851070101:0327/pct:79.00496060694485,58.482531694570795,15.509191712868398,7.364753701732314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851070101:0327/pct:79.00496060694485,58.482531694570795,15.514055053010408,7.3679796122455565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2827,7 +2827,7 @@ they not explain them, show their nature, ends, limitations,
 and restrictions, how much soever it may move the gall of  
 Massaehasettensi*?’’—Kssags of Novanflus, pp 48—I.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040307:00514151362:1856091801:0355/pct:41.33463360267484,42.28297571070689,12.580105879074951,13.800239625313147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040307:00514151362:1856091801:0355/pct:41.33463360267484,42.28297571070689,12.594037336305378,13.807500998438805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2854,7 +2854,7 @@ seem they have “moved Ute gail &quot; of many democratic edi­
 tors and writers, and are now the subjects of democratic  
 censure and abuse. Thus, as it was iu the tiaeuf the Rev
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040307:00514151362:1856091801:0355/pct:41.34856505990527,63.94728243110772,12.46865422123154,5.80546781396362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040307:00514151362:1856091801:0355/pct:41.357852698058885,63.94728243110772,12.477941859385158,5.812729187089278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2885,7 +2885,7 @@ ourses to the times--to preach against
 &quot;such sins as are most prevalent, and to  
 &quot;recommend such virtues as are most wanted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530698:1861093001:0226/pct:105.45672254533014,43.0956733698964,47.143345877523096,13.979280926264472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530698:1861093001:0226/pct:35.15224084844338,14.365224456632134,15.714448625841031,4.659760308754825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2910,7 +2910,7 @@ against such sins as are most prevalent,
 and to recommend such virtues as are  
 most wanted.&quot; The first good Anti-Slave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861100701:1093/pct:111.95274496177902,109.93896236012208,42.90479499652537,19.989827060020346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861100701:1093/pct:37.31758165392634,36.646320786707356,14.301598332175121,6.663275686673448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3037,7 +3037,7 @@ set forth in that declaration, aud which
 led to the Declaration of Independence  
 and the war of the Revolution Bein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665015:1865101101:0351/pct:56.498595297944696,31.09678782755706,13.706934792251959,8.653846153846153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665015:1865101101:0351/pct:56.508452856227514,31.100309946463792,13.706934792251959,8.653846153846153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3065,7 +3065,7 @@ bare-laced word :
 All countries, unaccustomed to taxes, are at first vio­  
 lently prepossessed against them, though the price whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866022001:0032/pct:106.71140939597315,70.02868068833652,17.08358755338621,5.999043977055449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866022001:0032/pct:80.05797985962771,52.52151051625239,12.831858407079647,4.505258126195029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3097,7 +3097,7 @@ and inviolable right of every British
 subject in these colonies, not that they  
 considered them ail criminals and ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665052:1867101901:0383/pct:12.970838396111786,29.927238215754507,12.256986634264885,8.003796267004113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665052:1867101901:0383/pct:12.970838396111786,29.934268339836198,12.267112191170515,8.007311329044958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3141,7 +3141,7 @@ are persons chosen by themselves, and that no taxes
 ever have or can be constitutionally imposed upon them  
 but by Legisiatures composed of persons so chosen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743841:1873121701:0995/pct:7.07935462627593,205.2878026496117,46.378004609812315,10.27866605756053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743841:1873121701:0995/pct:2.35978487542531,68.42926754987056,15.459334869937438,3.4262220191868433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3175,7 +3175,7 @@ e eee  e iete oen a eon oen e te
   
 Al shoud be ete o t ta selves and that no taxes ever have been o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293083:1873122101:0702/pct:74.17893544733862,59.37072503419973,73.66930917327294,11.171910624715002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293083:1873122101:0702/pct:18.549985839705467,14.842681258549932,18.422543188898327,2.7929776561787505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3201,7 +3201,7 @@ men are persons chosen by themselves, and that
 no taxes ever have, or can be, constitutionally  
 imposed upon them, but by legislatures compose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00294558305:1874011601:0058/pct:68.50447966919366,253.42642875614172,42.79807029634735,14.74010861132661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00294558305:1874011601:0058/pct:17.126119917298414,63.35660718903543,10.699517574086837,3.6850271528316525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3369,7 +3369,7 @@ but by their respective legislatures.”
 Putting this and that together, it  
 will be seen that, no matter how con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1877112901:1470/pct:51.235628386414696,86.52271034996276,13.585304612131624,25.65684501648761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1877112901:1470/pct:39.70708725931995,67.05504108158611,10.535299740543493,19.88953312632244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3607,7 +3607,7 @@ ince among the Whigs, nor ever was, who harbors a
 wish of independence.&quot; And again, &quot;Our patriots  
 have never determined or desired to be independen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897071101:0514/pct:278.3536585365854,321.5852367266677,50.83841463414634,5.566480108909394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897071101:0514/pct:69.62821734985701,80.39630918166692,12.716873212583414,1.3916200272273485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3638,7 +3638,7 @@ the province among the Whigs, nor ever was, who
 harbors a wish of independence.&quot; Privately both  
 Adamses were for separation. In a letter to a frien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897072001:0640/pct:226.58610271903322,147.69791824950616,50.6797583081571,34.3412855189181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897072001:0640/pct:56.646525679758305,36.92447956237654,12.669939577039274,8.585321379729525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -276,7 +276,7 @@ j Its bits to forsake thetn, and to new countries that are Just
 l beginning to form systems for the improvement of their  
 l husbandry 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050501:0436/pct:32.469689420362066,59.70509724164231,15.960803853180535,3.813397737384009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050501:0436/pct:32.480761778220675,59.70509724164231,15.94973149532193,3.821871954578196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ forsake them, and to new countries that are
 just beginning to form systems for tho im­  
 provement of their husbandry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293472:1873031301:0249/pct:22.513321492007105,100.48532980366204,14.402013025458851,9.56320317670417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293472:1873031301:0249/pct:16.89119170984456,75.36951246415178,10.80680977054034,7.169644826825502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

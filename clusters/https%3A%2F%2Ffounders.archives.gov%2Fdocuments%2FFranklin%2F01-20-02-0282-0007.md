@@ -173,7 +173,7 @@ teem. Sir, your mutt bumble and m il obedi*
 ent ferv ni,  
 THO. HUTCHINSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773072201:0439/pct:93.38071968014216,21.813348258010354,27.521101732563306,43.29089128305583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773072201:0439/pct:72.38193607620359,16.905226631967036,21.334710506685028,33.55743511891853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -537,7 +537,7 @@ an ast re la ive to the rix dollar of Denmark.
   
 Sundry messages from the Senate, informed that they have pas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030501:0002/pct:38.58169322086848,42.72222222222222,27.553889409559513,4.333333333333333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791030501:0002/pct:38.59731333958138,42.736111111111114,27.561699468915965,4.333333333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ their stead ; and also upon
 nited States ; and for appro­  
 priating the fame.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791041601:0783/pct:4.287425149700598,6.374438021836866,84.52694610778443,25.86705202312139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791041601:0783/pct:4.303393213572854,6.374438021836866,84.52694610778443,25.86705202312139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ mentioned, jfrjj
 An ast to amend &quot; An Ast for eftablilhing the temporary  
 and permanent feat of the government of the United States,&quot; ibid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791042001:0004/pct:9.296482412060302,82.53846153846153,27.60678391959799,5.076923076923077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791042001:0004/pct:9.31218592964824,82.54326923076923,27.63819095477387,5.086538461538462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ lies and a feu de joys from the Volunteers.
 In the evening the town was elegantly iilumi­  
 nated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791051401:0001/pct:6.096813725490196,69.39269746646796,27.05269607843137,4.321907600596125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791051401:0001/pct:6.112132352941177,69.39735469448584,27.037377450980394,4.335879284649776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ lie was received by the light infantry company
 with presented arms who immediately after he  
 pafled, fired thirteen rounds ; after which th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791052101:0002/pct:11.505507955936352,51.042830540037244,27.539779681762546,7.579143389199255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791052101:0002/pct:11.528457772337822,51.047486033519554,27.539779681762546,7.593109869646183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ may arise from the duties imposed by
 the said a&amp; on imported spirits, beyond  
 those which would have arisen by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791060201:0811/pct:49.10778015703069,34.3439282803586,20.318819890554366,9.24205378973105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791060201:0811/pct:49.12364184312793,34.3439282803586,20.302958204457134,9.263787014398261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ iurmed. 1 dined with the citizens in pub­
 lick, and in the afternoon was introduced  
 to upward of fifty ladies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1875061001:0088/pct:3.024273776362913,81.83398522381573,12.037405491444488,4.852962480081124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1875061001:0088/pct:3.023672170280485,81.82213209733487,12.039984085935945,4.855880648899189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ of Richmond at 3 o&#x27;elock, and dined with
 the sivarnor at fo cloce  Wednesday.  
 e es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742137:1877110201:0440/pct:7.67181672882259,263.433242506812,41.662226957911564,28.48319709355132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742137:1877110201:0440/pct:2.557272242940863,87.811080835604,13.88740898597052,9.494399031183772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -916,7 +916,7 @@ iences above mentioned.&quot;
 Neither John Adams nor Thomas Jeffer­  
 son took presidential tours in the sens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887101501:0901/pct:79.23794712286158,22.444444444444443,101.63297045101089,357.27777777777777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887101501:0901/pct:19.817191754181252,5.611111111111111,25.41812524309607,89.31944444444444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,7 +944,7 @@ Road &amp; kindly invited by Doctor Klagg to
 j his house, we lodged there ; it being about io  
 ? miles from Pauley&#x27;s and ?53 from Vareen&#x27;s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:25.21224307417337,15.825211695158972,12.075513851653263,6.2629813069180384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:25.21224307417337,15.827874527347287,12.082960977062854,6.2629813069180384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -979,7 +979,7 @@ cort me to the town. We dined and lodged
 at this Gentleman&#x27;s and Bof;ts being provided,  
 we then, next morning
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:25.245755138516532,22.06422751238217,12.064343163538874,9.27464451190286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:25.249478701221328,22.069553176758802,12.071790288948465,9.27464451190286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ number of Souls in if, but I should not com?
 pute them at more thaD 5 or 600. Its chief  
 expert, Rice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:25.245755138516532,31.258987058635565,12.097855227882038,11.934813868030037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551360:1889050101:0231/pct:25.253202263926124,31.264312723012196,12.094131665177242,11.934813868030037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1578,7 +1578,7 @@ which Is luiier limn mat given Dy the reason given lor not placing it
   
 nnr corresDondent : at tho head of tho navigation thero
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878757:1891042301:0496/pct:96.51780967570441,53.60878119498809,29.226475279106857,7.693900797349073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878757:1891042301:0496/pct:72.41425152884871,40.20917469193331,21.922361074182398,5.767836802319561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1598,7 +1598,7 @@ Wo were rr.-cei ved at thU place by a
   
 good a pal ute as could bo given b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878757:1891042301:0496/pct:111.72248803827752,76.15201408304857,14.274322169059012,3.2204618411514963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878757:1891042301:0496/pct:83.82079234246211,57.11918815367091,10.70194097314544,2.412757585171378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1628,7 +1628,7 @@ to taud without cover. Greenville
 Is on Tar RUer, and theexport the  
 same m from Turbo rough with a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878757:1891042301:0496/pct:111.8288144603934,82.60329294812054,14.314194577352472,5.747126436781609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878757:1891042301:0496/pct:83.90055836213773,61.95505850678264,10.741823982983249,4.318111214662939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1650,7 +1650,7 @@ not more than 20, or 2o. Upon the
 River Neuse, anil I&#x27;d miles above  
 Newbsra, tha Cc-vc-tm cf the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878757:1891042301:0496/pct:112.59968102073366,124.28290359324842,14.167995746943115,5.736771254012633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878757:1891042301:0496/pct:84.47221483647967,93.21735528632081,10.635469290082424,4.297400849124987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1710,7 +1710,7 @@ ports from it. We were received at this
 place by as good a salute as could be  
 given by one piece of artillery.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1891050101:0286/pct:91.91549295774648,49.91993167502936,17.056338028169016,15.554606597629977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1891050101:0286/pct:68.9533737146077,37.43994875627202,12.790533878010988,11.66862389238817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1739,7 +1739,7 @@ of Souls are about 2,000. Its exports
 consist of Corn, Tobacco, Pork, but  
 principally of Naval Stores and lumber
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1891050101:0286/pct:91.95774647887323,74.49556955268496,17.183098591549296,10.782534429379737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1891050101:0286/pct:68.98154669671784,55.877015052845096,12.889139315396534,8.081562933703427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1773,7 +1773,7 @@ have been mentioned, tbat another small
 party of horse under one Simpson met  
 us at Greenville, latter there were about
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1891050101:0286/pct:92.01408450704226,85.47026796199424,17.140845070422536,13.312693498452012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023048:1891050101:0286/pct:69.02380616988309,64.10803885982705,12.860966333286378,9.98185117967332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2021,7 +2021,7 @@ petersburg horse and escorted
 to that place.&quot;   
 ADbrESsE ny THE LECISLATURe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032861:1897022101:0400/pct:87.54363694065376,37.628483628271695,41.71691526499524,12.747695242132034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032861:1897022101:0400/pct:29.181212313551253,12.542827876090566,13.90563842166508,4.249231747377345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2096,7 +2096,7 @@ a little town. His duty as marshal,
 having carried him through all parts  
 him the best means of ascertaining the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032861:1897022101:0400/pct:48.206918438590925,212.31323513828548,41.25674389082831,81.77386881424181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032861:1897022101:0400/pct:16.06897281286364,70.77107837942849,13.752247963609436,27.25795627141394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2121,7 +2121,7 @@ ment given by the citizens of the town
 U ceived and answered an address  
 from the corporation. Sunday, liJ.h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033786:1898090101:0037/pct:27.64200235968313,42.95015716210148,13.955840215742457,5.758868432869331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033786:1898090101:0037/pct:27.6532389460082,42.95764107169585,13.95022192257992,5.758868432869331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

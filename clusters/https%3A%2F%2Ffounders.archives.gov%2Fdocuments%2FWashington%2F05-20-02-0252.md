@@ -95,7 +95,7 @@ caugh--I believe Harriot is distressed to know
 how she is to be Provided with things for a  
 Weding Dress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779544:1878012001:0072/pct:341.1100196463654,123.05448484217106,39.19449901768173,75.4245233878529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779544:1878012001:0072/pct:85.2984524686809,30.763621210542766,9.801031687546057,18.856130846963225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ rid caugh -1 believe Hnrriot is distressed to
 know bow sho is to bo Provided with thiugs  
 for a Weding Dress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288002:1878012501:0239/pct:97.64221556886227,70.228361996053,15.568862275449101,38.72286439244432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288002:1878012501:0239/pct:73.26843878697117,52.678319706794476,11.681018345189068,29.038624189455877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ riot is distressed to know how she is to
 be Provided with things for a Weding  
 Dress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776099:1878020701:0289/pct:23.41356673960613,12.32876712328767,16.083150984682714,39.41850712887895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776099:1878020701:0289/pct:17.563377712930876,9.25356443947442,12.07368229071676,29.56388034665921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ Affectionate sister
 IOWA STATE NEWS.  
 A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84038485:00279528967:1878021401:0668/pct:22.6691042047532,13.738823825714645,18.96293834136613,76.13650673718675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84038485:00279528967:1878021401:0668/pct:22.674644064040773,13.738823825714645,18.974018059941276,76.15329723376568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ painfull}&#x27; know, for such an one has
 just laid his head on the pillow in the  
 room across the hall. I have to devis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84038485:00279528967:1878021401:0668/pct:22.68572378261592,76.84170759350208,20.392222037560245,7.442387608613525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84038485:00279528967:1878021401:0668/pct:22.69680350119107,76.84170759350208,20.403301756135395,7.450782856902993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ have a violent ilcadake and a horrid caoffh—l be­
 lieve Harriot is distressed to know how she is to  
 ho Provided with things for a Wedlrg Dress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878021801:0003/pct:43.42948717948718,41.63621599675193,13.488247863247864,17.72228989037759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878021801:0003/pct:43.44284188034188,41.64636622005684,13.501602564102564,17.717214778725133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ riot is distressed to know how she is to
 be Provided with tliiugs for a Weding  
 Press.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028745:1878022101:0123/pct:3.9994788952579468,7.474518686296716,9.58832725377801,25.491609183568414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028745:1878022101:0123/pct:3.9994788952579468,7.474518686296716,9.605697411846448,25.501904663852567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ Provided with things for a Wedding
   
 Dress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_camas_ver01:data:sn83045610:00202198211:1878022101:0002/pct:84.72559494900437,56.831228473019515,37.6881981544439,92.37834496158261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_camas_ver01:data:sn83045610:00202198211:1878022101:0002/pct:28.241864983001456,18.94374282433984,12.562732718147968,30.792781653860875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -760,7 +760,7 @@ sending me a mule i? you had any to
 spear, but had no write to Expect you  
 to Disfirnish yourself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283144:1878030201:0422/pct:6.484257871064468,46.511000134970985,16.58545727136432,3.29329194223242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283144:1878030201:0422/pct:4.874390701162355,34.88999865029019,12.448443944506936,2.469968956674315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ sending me a mule if you had any to
 spear, but had no write to Expect you  
 to Disfirnish yourself.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688787:1878030701:0246/pct:43.09133489461358,93.79685432897251,12.431693989071038,2.425400558577098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688787:1878030701:0246/pct:43.09133489461358,93.79685432897251,12.444704657819411,2.430300357685335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

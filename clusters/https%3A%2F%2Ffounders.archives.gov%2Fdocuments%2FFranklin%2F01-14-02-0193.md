@@ -567,7 +567,7 @@ L coman thine » hut if we consider the kine&#x27; o
 rev  
 ‘the p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836010501:0209/pct:46.96505211526671,18.53035143769968,17.106069895769465,77.58466453674122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836010501:0209/pct:46.97527079501329,18.5346112886049,17.116288575516045,77.58466453674122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ though it is in the power and nature of a wo­
 man to manifest her devotedness and tender-‘  
 ness by a thousand little attentions, she m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836010501:0209/pct:61.90987124463519,20.10223642172524,14.668914776210913,23.782747603833865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836010501:0209/pct:61.914980584508484,20.10649627263046,14.674024116084201,23.787007454739083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

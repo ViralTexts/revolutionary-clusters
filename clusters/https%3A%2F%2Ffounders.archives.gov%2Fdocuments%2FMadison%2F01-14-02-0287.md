@@ -191,7 +191,7 @@ engrafted with others for the opening of the session.
 1 am ever yours,  
 GEORGE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836072901:0418/pct:0.08385744234800839,33.78646556856519,23.913347309573723,54.19726136138123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836072901:0418/pct:0.08385744234800839,33.78977310312893,23.913347309573723,54.20056889594496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ e you would be so good as to furmsh me with
 n&#x27;t I aim ever yours,  
 . % ¢ GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836080401:0133/pct:64.71591878519024,15.691851119080004,31.359836205425694,79.13935946580932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836080401:0133/pct:64.72729340840584,15.69597296071885,31.354148893817893,79.13935946580932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ lie prepared and engrafted with others lot the
 openiie» *d the s*&gt;s,imi.  
 \\ i tli \ ei v sin* ei e a a* I uHei tnniale r* aid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836080401:0009/pct:18.95083236546651,19.877586709414164,15.582655826558266,20.241911979014866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836080401:0009/pct:18.947164699051672,19.87469036864345,15.584478420747049,20.242605274661226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -836,7 +836,7 @@ sincere and affectionate regard, 1 am
 over yours,  
 GEOUGE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1836081201:0218/pct:4.793906810035843,16.395954642966593,39.26971326164875,108.76494023904382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1836081201:0218/pct:3.609056265411343,12.304627643273061,29.47769558394979,81.58136684033099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1011,7 +1011,7 @@ With very sincere and affectionate
 regard. I am ever yours,  
 GEORGE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290173:1836081201:0103/pct:65.40425531914893,20.9830151811213,38.319148936170215,101.90891327220803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290173:1836081201:0103/pct:49.07427112151522,15.737261385840974,28.750798042136626,76.43168495415603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1320,7 +1320,7 @@ With very sincere and alloc ioiiato regards,
 1 am ever vours,  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836081601:0133/pct:-1.4339940953184311,9.552093476144108,39.125544777168564,89.95131450827654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836081601:0133/pct:-1.4339940953184311,9.558584875040571,39.125544777168564,89.95131450827654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1509,7 +1509,7 @@ opening of the session.
 I am ever yours,  
 Geokce Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1836121701:0013/pct:23.18784099766173,62.58391560487738,20.381917381137956,34.9636936566653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1836121701:0013/pct:17.40740740740741,46.93793670365803,15.282651072124755,26.236470749417727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2499,7 +2499,7 @@ Affectionate regard,
 lam—ever vours,  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1857091501:0195/pct:62.3048004626952,17.698060041183485,11.827646038172354,64.48466457136664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1857091501:0195/pct:62.29579297383258,17.69614217598613,11.829550383114066,64.48038578240138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2735,7 +2735,7 @@ ferntsb me with them in time to l»c prepared, and
 \V)th very s cccrc&#x27;and aflccllunam regard, 1 am,  
 t-vor yours. G. V) isuctuios
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866122101:0003/pct:2.7777777777777777,54.83410065089697,9.31712962962963,13.335450071439912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866122101:0003/pct:2.7777777777777777,54.846007302746465,9.321952160493828,13.331481187490077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2921,7 +2921,7 @@ tbe opening of the season. ,
 I remain yours, -&#x27; &#x27; &#x27; &#x27; j j  
 With sincere affection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779349:1866122701:1001/pct:22.47307373653687,16.84720638540479,34.859154929577464,111.63055872291905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779349:1866122701:1001/pct:16.866970576046416,12.642531356898518,26.150020721094073,83.72291904218928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3046,7 +3046,7 @@ With very sincere and affectionate re­
 gard, I am, ever yours,  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529443:1867012301:0240/pct:62.10126582278481,14.714086471408647,13.683544303797468,31.25124526798167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529443:1867012301:0240/pct:62.10126582278481,14.714086471408647,13.691983122362869,31.25788669721724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3072,7 +3072,7 @@ g&#x27; an&quot;J1 4-
   
 times are productive of more evil than
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529443:1867012301:0240/pct:62.20253164556962,24.337517433751742,22.27848101265823,2.6997409842598126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529443:1867012301:0240/pct:62.20253164556962,24.344158862987314,22.29113924050633,2.6997409842598126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3285,7 +3285,7 @@ Indifference on the part of the people to the iniegrity
 of puolic servants, and to the nonesty of public  
 meastires on the one hand, and groundiess euspiclon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531204:1875030101:0583/pct:150.21770682148042,193.286584664904,47.97613288179326,11.346131739280377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531204:1875030101:0583/pct:50.07256894049347,64.42886155496801,15.992044293931086,3.782043913093459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3434,7 +3434,7 @@ of the Constitution may be doubted
 Following the Washington letters comes a col  
 lection of epistles from doseph dones to Jame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038590:1892112801:0394/pct:55.51531116233125,67.7738993356604,47.77741191965756,13.624591825244904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038590:1892112801:0394/pct:18.505103720777083,22.591299778553466,15.925803973219185,4.541530608414968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

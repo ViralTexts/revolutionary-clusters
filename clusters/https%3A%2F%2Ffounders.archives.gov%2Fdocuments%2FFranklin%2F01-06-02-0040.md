@@ -8014,7 +8014,7 @@ or them, and faithfully to maintain, support,
   
 and deiend to the utmost ot their power th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805052701:0525/pct:73.05712815234173,63.227599738391106,22.207925887802368,5.886200130804447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805052701:0525/pct:73.03833290455364,63.21726336439431,22.208644198610752,5.8893248324342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8606,7 +8606,7 @@ of her body being Protestants): hereby utterly
 remuneing and abjuring any obedience or alle­  
 giance unto any other person claiming or pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080401:0558/pct:26.134625191228963,70.30423280423281,21.82559918408975,21.263227513227513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080401:0558/pct:26.127963293397908,70.29261034881799,21.826408360948253,21.263845263679947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9622,7 +9622,7 @@ most of my power, the succession to the crown,
 which succession, by an act, entitled ‘An act for  
 the further limitation of the crown, and the bette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829050101:0480/pct:4.140854254972286,15.372558476006752,15.389631561786763,10.45333976368459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829050101:0480/pct:4.1401792991035045,15.370705244122966,15.39255637055148,10.45609805103476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10307,7 +10307,7 @@ to be against him, or any of them; and all this I do swear without
 any Equivocation, mental Evasion, or secret reservation, and renounc­  
 ing all pardons and dispensation from any person or power whateve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840081201:0266/pct:134.7864768683274,268.2849299234215,120.4626334519573,13.292876751914463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840081201:0266/pct:33.71161548731642,67.07123248085537,30.129060970182465,3.3232191879786157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10719,7 +10719,7 @@ O!WMiml, Or secret n&#x27;w‘i&#x27;vvmi,an whatsoev
 er: And we do make this recognition  
 acknowledgment, abpiation,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1845052901:0902/pct:7.779670641680863,34.09810990931935,13.358886996024985,30.831421391893368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1845052901:0902/pct:7.779670641680863,34.10175170253833,13.373083475298126,30.831421391893368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11648,7 +11648,7 @@ These are the principles which are to influence
 the actiop of the sovereign State of  
 SOUTH CAROLINA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851040101:0326/pct:85.82494190549961,21.104206500956025,15.693261037955073,4.3021032504780115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851040101:0326/pct:85.83010586108959,21.10818992989165,15.698424993545055,4.3021032504780115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12133,7 +12133,7 @@ upon the true faith of a christian, so help
 i me God.&quot; The name of the Sovereign for  
 i j the time being is to be inserted, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853061701:0599/pct:78.53042479908152,86.64114238410596,20.518287682466788,3.921771523178808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853061701:0599/pct:78.53452517631622,86.64631622516556,20.526488436936198,3.9269453642384105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12441,7 +12441,7 @@ So help me God.
 &quot;I---do solemnly and sincerely, in  
 the presence of God, profess, testify, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855080901:0602/pct:329.3026706231454,134.14239482200648,50.519287833827896,57.28155339805825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855080901:0602/pct:82.34093860137266,33.53559870550162,12.632164718976071,14.320388349514563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12461,7 +12461,7 @@ Bread and Wine into the Body and Blood
 of Christ at or after the consecration there­  
 of, by any person whatsoever, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855080901:0602/pct:330.26706231454006,191.3700107874865,50.074183976261125,12.62135922330097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855080901:0602/pct:82.58208124652198,47.84250269687163,12.520868113522537,3.1553398058252426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12546,7 +12546,7 @@ and iu the Holy Spirit, One God, blessed
 for evermore. And I do acknowledge the  
 Holy Scriptures of the Old and New Testa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855090501:0163/pct:25.90489709013485,50.83511239482607,16.305890702625977,19.465025744066306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855090501:0163/pct:19.435569755058573,38.12633429611955,12.247071352502662,14.605048348612332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12772,7 +12772,7 @@ Spiritual within the Realm of Great Brit­
 ain, or any o( the Dominions thereto be­  
 longing. So help me God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1855101201:0162/pct:55.02958579881657,70.33018867924528,13.144547759932376,10.157232704402515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1855101201:0162/pct:55.01795901119797,70.31913221191637,13.147052609338687,10.159566105958183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14716,7 +14716,7 @@ which I shall know to be against her or any of them;
 and all this I do swear without any equivocation,  
 mental evasion or secret reservation. So help m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871041901:0264/pct:193.09014944560502,86.86567164179104,46.18351277518882,6.440872560275546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871041901:0264/pct:64.36338314853501,28.955223880597014,15.394504258396271,2.1469575200918483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14733,7 +14733,7 @@ oath: &quot;I, Thos. Branan, do declare that I do
 believe that there is not any transfermation in  
 seeration thereof by any person whatsoever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:00237288944:1872092601:0306/pct:112.0640904806786,229.62047661076787,43.07257304429783,6.6372462488967345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:00237288944:1872092601:0306/pct:28.01602262016965,57.40511915269197,10.768143261074458,1.6593115622241836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15078,7 +15078,7 @@ body, being Protestants,&quot; hereby utterly
 renouncing and abjuring any obedience or  
 allegiance unto any other person claiming o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768121:1878112601:0265/pct:55.12556607657472,42.50331260829681,12.186084808563194,7.145041280195699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768121:1878112601:0265/pct:55.13471478889346,42.50331260829681,12.186084808563194,7.15523392110896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15169,7 +15169,7 @@ ame -.words, without any equivocation, men­
 tal evasion or secret reservation whatsoev­  
 er. And I dp make tLScknowledgement
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667425:1879112701:0370/pct:52.49716231555051,59.00968783638321,23.11293984108967,6.803013993541442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667425:1879112701:0370/pct:39.37845891868881,44.26264800861141,17.34071235986945,5.102260495156082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15483,7 +15483,7 @@ thority, ecclesiastically or spiritually, within this
 realm; and I make this declaration upon the  
 true faith of a Christian, so help my God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044759:1881051201:0901/pct:288.6415963161934,136.93156403757268,50.34535686876439,34.396898762486956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044759:1881051201:0901/pct:72.16039907904835,34.23289100939317,12.586339217191098,8.599224690621739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15679,7 +15679,7 @@ in the sacrament of the Lord&#x27;s supper, or in
 the elements of bread and wine, at or after  
 the consecration thereof by any person what
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101994:1884083001:0247/pct:116.3265306122449,210.83959899749374,48.890860692102926,7.268170426065163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101994:1884083001:0247/pct:29.094540612516646,52.709899749373434,12.228140257434532,1.8170426065162908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15741,7 +15741,7 @@ hereby utterly renouncing and abjur­
 ing any obedience or allegiance unto  
 any other person claiming or pretend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1885123101:0616/pct:38.65278011086847,95.91610117211597,14.1441290105829,11.906230721776682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1885123101:0616/pct:32.86373804197801,81.53184646577641,12.031792870401219,10.123750262182758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16103,7 +16103,7 @@ bread and wine at or alter the consecration
 thereof by any peison or persons whatso­  
 ever. EFFECT 3 OF HEAT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282206:1892090401:0060/pct:68.20539419087137,99.15184678522571,15.179806362378976,10.656634746922025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282206:1892090401:0060/pct:51.184916104480195,74.36388508891929,11.39941186645909,8.002735978112176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16145,7 +16145,7 @@ Lord&#x27;s supper or in the elements of bread and
 wine at or after the consecration thereof by  
 any person whatsoever.&quot; The &quot;oaths of gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654887:1893042701:0667/pct:12.809436783518857,5.366966322286328,12.344243229772388,7.969944988595197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654887:1893042701:0667/pct:12.81774381126433,5.366966322286328,12.340089715899651,7.983362404400912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16176,7 +16176,7 @@ of bread and wine at or after the
 consecration thereof by any person  
 whatever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84042105:00332891716:1893072201:0422/pct:33.0188679245283,10.524031680590214,12.031930333817126,3.960073776716936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84042105:00332891716:1893072201:0422/pct:33.028543783260766,10.524031680590214,12.022254475084663,3.9636902824490976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16194,7 +16194,7 @@ stantiation in the sacrament of the Lord&#x27;s Supper, or
 in the elements of bread and wine, at or after the  
 consecration thereof, by any person whatsoever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175045090:1893080101:0742/pct:335.8874120406568,60.98682194299724,52.462861610633304,6.742261722341404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175045090:1893080101:0742/pct:83.9718530101642,15.24670548574931,13.115715402658326,1.685565430585351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16234,7 +16234,7 @@ pread and wine, at or after the conse­
 cration thereof, by any person whatso­  
 ever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:0039334877A:1893081001:0325/pct:26.764227642276424,33.2657926102503,11.170731707317072,2.765196662693683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:0039334877A:1893081001:0325/pct:26.75987644285482,33.26182814920748,11.172980003251503,2.767846502204743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16296,7 +16296,7 @@ of bread and wine, at or after the con­
 secration thereof, by any person what­  
 soever.&quot;Rev. G. Furness Smith, in Eng
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286807:1893091901:0074/pct:105.12514898688916,117.41120069731967,18.42967818831943,5.240793201133145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286807:1893091901:0074/pct:70.11477120286183,78.27413379821311,12.29691459233865,3.4974940074090215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16316,7 +16316,7 @@ of bread and wine, at or after the con
 secration thereof, by any person what­  
 soever.&quot;Rev. G. Furness Smith, an Eng
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn97065075:00296020850:1893092901:0648/pct:90.44493070751277,54.2654028436019,15.645514223194748,4.699842022116903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn97065075:00296020850:1893092901:0648/pct:67.87082649151614,40.7056345444971,11.749680715197957,3.5281727224855186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16356,7 +16356,7 @@ the olements of bread and wine, at or
 after the consecration thereot, by any  
 person whatsoever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00271762628:1893110501:0385/pct:120.63826340515146,349.2289899768697,45.05102867325449,14.430737599588795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00271762628:1893110501:0385/pct:30.159565851287866,87.30724749421742,11.262757168313623,3.607684399897199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16385,7 +16385,7 @@ ought to have any jurisdiction, power,
 superiority, pre-eminence or authority,  
 ecclesiastical or spiritual within this realm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562394A:1894080401:0145/pct:48.668233450842145,19.34741986488429,11.300430865648257,7.330746011211729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562394A:1894080401:0145/pct:48.668233450842145,19.35221120214652,11.320015667841755,7.335537348473959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16460,7 +16460,7 @@ promise heartily, willingly and truly, upon
 the true faith of a Christian, so help me  
 God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562394A:1894080401:0145/pct:48.668233450842145,27.152508265056778,11.339600470035252,29.854822480954436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562394A:1894080401:0145/pct:48.668233450842145,27.162090939581237,11.352657004830919,29.854822480954436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16479,7 +16479,7 @@ supper, or In the Elements of bread and
 wine at or after the consecration thereof,  
 by any person whatsoever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654954:1894081101:0697/pct:41.93091231178034,86.88762709626305,13.46324180690877,2.178793080681368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654954:1894081101:0697/pct:41.939769707705935,86.89753070117523,13.45881310894597,2.182094282318764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16551,7 +16551,7 @@ test oath yet. The Boston Citizunn&#x27;
 Commlttoe of One Hundred have ad  
 vocated this for some years. There I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1894120701:0161/pct:30.922165820642977,24.367491166077738,18.591370558375633,6.572438162544169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1894120701:0161/pct:23.2120186203978,18.275618374558302,13.944138806601778,4.932862190812721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16574,7 +16574,7 @@ and allegiance to the said common­
 wealth; and that I will defend the same  
 against traitorous conspiracies and al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1894122101:0171/pct:106.2874251497006,47.623138602520044,18.88366124893071,6.128293241695304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1894122101:0171/pct:79.76037655113393,35.72451317296678,14.163457424047925,4.596219931271477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16664,7 +16664,7 @@ ments of bread and wine, at or after the
 consecration thereof by any person whatso­  
 ever.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584405:1896120301:0857/pct:41.97975639046149,20.781288268430075,15.525819179962257,2.7675728630908645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584405:1896120301:0857/pct:36.73755316487365,18.1905850417887,13.590192644483363,2.4144581755839702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16684,7 +16684,7 @@ ments of bread and wine, at or after the
 consecration thereof Yy any person whatso­  
 ever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1896120301:0612/pct:46.130625686059275,25.725725725725727,9.632272228320527,1.8907796685574463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1896120301:0612/pct:46.13519941456275,25.729433136840544,9.636845956824002,1.8907796685574463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16703,7 +16703,7 @@ rament of the Lord&#x27;s Supper or in the ele­
 ments of bread and wine, at or after the  
 consecration thereof by any person whatso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871660:1896120501:0272/pct:65.85414987912974,39.40551311856526,18.513295729250604,2.789770840252408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871660:1896120501:0272/pct:49.40560145073544,29.558286283626703,13.882732218416281,2.0923281301893057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16763,7 +16763,7 @@ ments of bread and wine, at or after the
 consecration thereof by any person whatso­  
 ever.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1897010201:0715/pct:65.85566332401775,17.91967044284243,14.072003945421667,2.6433230346721595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1897010201:0715/pct:65.85566332401775,17.927299080749133,14.082963450052057,2.650951672578861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16964,7 +16964,7 @@ of Bread and Wine at or after the
 secration thereof by any person whatsoe­  
 ever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049423:1897112801:0494/pct:52.17749917518971,33.87284583139264,40.82810953480699,9.583139264089427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049423:1897112801:0494/pct:17.392499725063235,11.290948610464214,13.609369844935665,3.1943797546964756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16983,7 +16983,7 @@ i wament of the Lord&#x27;s Supper or in the Elements
   of Bread and Wine at or after the consecration  
  thereof by any person what soever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898061201:0153/pct:0.0,116.39042357274401,67.34992679355783,11.233885819521179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898061201:0153/pct:0.0,29.097605893186003,16.84673136788134,2.8084714548802947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17025,7 +17025,7 @@ capacities of a native-born British subject.
   
 All that then remains is to have the cer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199616:1899012201:0408/pct:177.43003310261813,173.3287069164932,39.106229310863675,33.934767522553784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199616:1899012201:0408/pct:59.14334436753937,57.77623563883106,13.035409770287892,11.311589174184594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

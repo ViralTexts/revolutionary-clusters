@@ -66,7 +66,7 @@ rity of the United States from the com­
 mencement of the present government  
 with a statement of the sums allowed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080301:0448/pct:20.31226542561177,9.987300435413642,16.348896562077766,6.6400580551523944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080301:0448/pct:20.30921645151606,9.986394557823129,16.351446012208545,6.6424792139077855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ including those occasioned by the war with !
 I rinoit and the making of a peace with tiia* I  
 regency.” . , , . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813080601:0113/pct:22.728951255539144,93.22753967262277,17.780649926144758,2.861426964888167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813080601:0113/pct:22.724755399667714,93.21589205397301,17.78352101409144,2.865234049641846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ W. JONI-.S
 deting Sec&#x27;y. of the Treasury  
 The president of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1814021401:0130/pct:31.957714982720066,6.8687430478309235,40.45537710916853,86.01223581757509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1814021401:0130/pct:31.951219512195124,6.867788127346031,40.453929539295395,86.00491218314102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ W. JONES,
 Acting Srey. of Treasury,  
 The President of the U. States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814021601:0360/pct:59.7776562784764,4.369956548727498,17.787497721888098,13.358162631905648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814021601:0360/pct:59.7667638483965,4.369414101290963,17.79033041788144,13.360642171466402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ or to transmit herewith, for the information
 of the House of Representatives.  
 I have the honor, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814021601:0045/pct:21.95460058915266,43.47369648897702,16.392306359383124,19.91134958590925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814021601:0045/pct:21.95079695079695,43.468626078843016,16.395241395241396,19.912915014384573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

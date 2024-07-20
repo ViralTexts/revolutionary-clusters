@@ -62,7 +62,7 @@ want to create any invidious distinction between
 them and foreigners.  
 1 am yours, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839113001:0507/pct:58.63754889178618,49.57973244939031,18.15514993481095,18.98899017402628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839113001:0507/pct:58.63754889178618,49.58762479775857,18.176879617557585,18.98899017402628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ ference of natives, as 1 do not want to create
 any invidious distinctions between thorn and  
 I the foreigners. I am, sir, yours, &amp;.0.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845102501:1037/pct:18.723567858515956,28.279762725893228,14.628988850442138,15.284866878190096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845102501:1037/pct:18.736383442265794,28.28436106129581,14.628988850442138,15.294063548995263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ What is in the wind t I understand that an or­
 der has lately been issued at Washington that no  
 marines be enlisted at the Charlestown Navy Yar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854120201:0079/pct:1.48204446133384,34.961832061068705,15.751472544176325,10.305343511450381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854120201:0079/pct:1.494711508011907,34.97031382527566,15.738805497498259,10.301102629346904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ people, but yet I think it most likely to be fouad :
 in those who lutve family connexions in the country.,  
 l&#x27;ou will therefore send me weite but noMwi.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010601:0192/pct:4.076648506481307,13.881748071979434,15.912079654330265,6.799485861182519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855010601:0192/pct:4.082910639363767,13.89031705227078,15.912079654330265,6.795201371036846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ that in making this choice you give no intimation of my
 preference for natires, as I do not want to create any in  
 vidious distinction between them and foreigners.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856040301:0180/pct:92.97250109122653,89.54398894518656,37.945584169940346,14.106402579456471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856040301:0180/pct:30.986325283677626,29.844559585492227,12.646688003103481,4.701592784494339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ of my preference of natives, as I do not want
 to create any invidious distinction - between  
 them and the foreigners.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477631:1858042801:0623/pct:41.07351225204201,25.022371364653242,37.675029171528585,39.02684563758389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477631:1858042801:0623/pct:30.814123139772395,18.76957494407159,28.27545958564342,29.272930648769574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ them and the foreigners.
   
 Guard. In doing this I wish to be extreme- j active during the earlier period of the war o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477631:1858042801:0623/pct:42.007001166861144,117.59507829977629,38.1855309218203,1.7225950782997763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477631:1858042801:0623/pct:31.514444120221768,88.19910514541387,28.654800116720164,1.2975391498881432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ inviduous distinction between them and
   
 the foreigners.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1858081101:0838/pct:60.76759061833689,100.89471748988846,16.73773987206823,22.62532173060424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1858081101:0838/pct:45.6,75.67103811741634,12.568888888888889,16.975119499938717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ my preference of natives, as I do not want to
 create any invidious distinction between them  
 and the foreigners.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896120601:0501/pct:228.83755588673623,184.69978665041145,50.521609538002984,40.47546479731789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896120601:0501/pct:57.241379310344826,46.17494666260286,12.637465051258154,10.118866199329473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ invidions distinction between them
 and the foreigners,  
 “I am yours, ete.,”’ &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153784:1897110801:0553/pct:42.97922692611097,26.38477801268499,12.319221667104918,18.837209302325583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153784:1897110801:0553/pct:42.983609431150846,26.38477801268499,12.319221667104918,18.844256518675124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ do not want to create any individual dis­
 tinction between them and the foreign­  
 ers. I am yours, etc.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1897112701:0194/pct:5.506149479659413,12.685265911072364,25.241248817407758,83.78378378378379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1897112701:0194/pct:5.520340586565752,12.696163905841326,25.22705771050142,83.7801511188608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

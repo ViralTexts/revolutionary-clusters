@@ -692,7 +692,7 @@ G a no less excellent barrier to
 ■&quot;■rojc/.nnents and oppressio is of the  
 representative body.&quot; This, Sir, to m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802022601:0001/pct:38.859700330803655,77.32360709344736,16.053706946876826,6.577788957363854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802022601:0001/pct:38.859700330803655,77.32360709344736,16.060193293117987,6.594558336477592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ The ca siuplete independence ofthe courts of
   
 ss ju Itice, is esseutial m alimitted consti -tu_
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802043001:0028/pct:32.99051904226258,13.93048128342246,23.589908404306605,35.37433155080214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802043001:0028/pct:32.98521850899743,13.929239818198022,23.591473864610112,35.374149659863946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ siri&#x27;: 3. she convent ion acted wis;- ly in
   
 estaoiifhinw good oerZa-vwr as the tenur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802043001:0028/pct:33.006588462156515,60.73083778966132,22.336493652579144,4.803921568627451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802043001:0028/pct:33.001285347043705,60.725425541395595,22.338260497000856,4.806464070344295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ which can he devised in any government to secure
 steady, upright am! lmpartia1 administration of tin  
 laws.” “Fromthe natural fe&quot;l:!rr,essi ftheju iiciary i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804123101:0285/pct:27.368692070030896,5.611998064828254,21.781668383110194,7.127882599580713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804123101:0285/pct:27.36164736164736,5.611093195743309,21.782496782496782,7.130764269590455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ to the branch which possessed it ; if tob tn there
 w old be an unwillingness to haz .td th.dispiea uiv  
 of i idler.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804123101:0285/pct:27.394438722966015,16.965005644250926,21.88465499485067,8.127721335268506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804123101:0285/pct:27.38738738738739,16.96227023540793,21.885456885456886,8.130441792970009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -885,7 +885,7 @@ not fmnlamentztl.&quot;
   
 Not—cover does not history: disclose so 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805032901:0113/pct:3.617391304347826,50.829135180520574,21.304347826086957,14.231738035264483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805032901:0113/pct:3.6167623022083117,50.8238010284395,21.306439459804093,14.2337426102774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1019,7 +1019,7 @@ substitute their wilt to that of their constituents. It
 * Montesquieu, speaking of them, sjys, “ ol&#x27; the three  
 “ power* above me&#x27;.turned, the juBtctaay is next is so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807111601:0830/pct:26.062753036437247,16.276834347965394,22.317813765182187,79.50977250881128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807111601:0830/pct:26.056159878573236,16.274227134390518,22.31849228434101,79.50104116610603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1157,7 +1157,7 @@ duty as faithful guardians of the constitution, where
 legislative invasions pf it had been instigated by the  
 major voice of the community. . &lt; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807111601:0830/pct:48.55769230769231,14.338353091957705,22.545546558704455,81.57641781480295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807111601:0830/pct:48.545408550468,14.336056383149128,22.546167467746017,81.56735543809066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1271,7 +1271,7 @@ portant feature qf good government. The experi­
 ence of Great Britain affords an illustrious comment  
 on the excellence of the institution. - -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807111601:0830/pct:71.35627530364373,14.578660685677667,24.544534412955464,65.81223966677346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807111601:0830/pct:71.33822413356944,14.576325484542688,24.544649633189984,65.80570238667308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1333,7 +1333,7 @@ willingnels to hazard the difple .jure
 Cobegthert R 0 g e  
 ¢ Thet.rs ¢ Superior Couyrt’’ an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813070601:0534/pct:62.4981500665976,35.58580456976179,16.61980168713926,13.44676713660671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813070601:0534/pct:62.50801637807706,35.58580456976179,16.61980168713926,13.456490034030141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1361,7 +1361,7 @@ nervation, il it proved any thing, would prove
 tlinl liiere ought to he no judges distiller from that ’  
 bndy. ’ I think it must nan hr sufliiieutlj nbvi- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815060701:0383/pct:29.733163913595934,43.090226790667316,21.90597204574333,9.610050579213574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815060701:0383/pct:29.725609756097562,43.08319738988581,21.9067581300813,9.612561174551386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1383,7 +1383,7 @@ ali the reservations of particular riuhts or
   
 privileges would amount to nothing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819010501:0291/pct:2.9435680598471294,62.49251048532055,14.457635387867946,3.882564409826243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819010501:0291/pct:2.9430894308943087,62.4850227653966,14.46070460704607,3.886093138429587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1410,7 +1410,7 @@ h government, ami serious oppressions of
 I the minor party in the cnmmiiniH.” To  
 I discharge these duties properly, it mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819010501:0291/pct:1.5124410473247683,67.88496105452367,15.937550821271751,7.153984421809467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819010501:0291/pct:1.5121951219512195,67.87682722262161,15.940379403794038,7.157121175812764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1479,7 +1479,7 @@ ed that surh a refusal would imply a
 superiority of the judiciary to the legis­  
 lative power; hut even admitting this t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821041001:0055/pct:24.270833333333332,88.88349514563107,16.901041666666668,2.1844660194174756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821041001:0055/pct:24.264514449362146,88.86911502993043,16.90315022129654,2.188157256107426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1496,7 +1496,7 @@ no liberty. There is no liberty if the
 power of Judging be not separated from  
 the legislative and executive powers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216298:1821060601:0497/pct:44.616724738675956,79.36984246061516,17.822299651567945,1.9933554817275747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216298:1821060601:0497/pct:44.60895314405156,79.36133733390484,17.82500145154735,1.9967138162594655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1566,7 +1566,7 @@ nothing.” Ami again, further on, he re­
 marks in the same vein :—“ N’m does this  
 conclusion hy any moans
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823080801:0417/pct:53.580349708576186,23.3278955954323,14.883430474604497,9.773098027584162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823080801:0417/pct:53.56919875130073,23.324436536180308,14.885535900104058,9.775355871886122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1617,7 +1617,7 @@ ultimately depend upon the executive
 arm. Should the federal judiciary  
 however, unmindful of their weakness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825012901:0054/pct:37.84750447081775,67.85871964679912,14.550479596813526,8.653421633554084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825012901:0054/pct:37.841352405721715,67.85123054850457,14.553532726484612,8.656145384983262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1716,7 +1716,7 @@ portion of fortitude in the judges to do their duty
 gi«!a&#x27;.ive invasions had been instigated by the ma­  
 jor voire of the community.” (8) Nor does i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827091401:0163/pct:3.638963928174162,78.96084888401025,14.93723184490704,11.294060251250153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827091401:0163/pct:3.638385764219892,78.95121951219512,14.940154644635102,11.296747967479675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1965,7 +1965,7 @@ It it pit-asm* &#x27;o th nk that we now have one of such
 fortitude at iho halm of allur*. It is ; leasing to know  
 that his word i« nledged on this great subject. Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831080901:0112/pct:48.99770904925544,46.640316205533594,14.948453608247423,7.0267896354852875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831080901:0112/pct:48.990694345025055,46.635195960039525,14.951085659747077,7.029677608226296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2134,7 +2134,7 @@ the people, whenever a momentary inclination happens
 ; would, on that account, he justifiable in u violation I ,  
 1of these provisions. Until THE I&#x27;EOPLK have, by 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838082801:0338/pct:48.277918592515285,34.847535505430244,15.759654092738929,5.075187969924812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838082801:0338/pct:48.282888524427214,34.847535505430244,15.769593956562796,5.082149818991924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2160,7 +2160,7 @@ The attempt to overthrow this indispensable
 ingredient in the Constitution of the Judiciary,  
 must be regarded as a dangerous innovation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840071101:0298/pct:1.717967072297781,62.35219326128417,15.926986399427344,7.705022250476796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840071101:0298/pct:1.7239322357432594,62.3606696333969,15.926986399427344,7.705022250476796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2242,7 +2242,7 @@ rests on the sanctity of an oath. All officers of the Stnte !
 and General Government, ail the members of the State  
 Legislatures and of the Congress, are bound, by an 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843052301:0600/pct:31.717864598866687,66.8906417372675,16.164628690724726,8.491576589736098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843052301:0600/pct:31.722835271895814,66.89388775278346,16.164628690724726,8.494822605252054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2268,7 +2268,7 @@ Federalist,) &quot; which depends on clearer principles , ,
 * authorise, but what they forbid ! ; ,  
 &quot; Though (says (he ?auie No.) I trust the friends of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844032501:0289/pct:34.83823798208737,44.6879405356914,16.834216779382196,5.7029347686787135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844032501:0289/pct:34.844330713458845,44.69221239694135,16.846402242125144,5.711478491178607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2296,7 +2296,7 @@ Federalist,) &quot; which depends on clearer principles , ,
 1 menta can warrant their representatives in a depar  
 &#x27; lure from it, prior to tuch an act.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844032501:0289/pct:35.021019923231584,53.36409073433295,16.13964540303418,6.6000256311675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844032501:0289/pct:35.021019923231584,53.368362595582894,16.157923597148603,6.608569353667393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2344,7 +2344,7 @@ bala of the repiesoniative body. Until the People
 ments can warrant their representatives in a depar&#x27;  
 lure from it, prior to such an act.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1844032601:0325/pct:33.82921749479322,43.62913622690159,16.126152930675396,15.266437473141384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1844032601:0325/pct:33.82921749479322,43.63629852456668,16.126152930675396,15.266437473141384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2366,7 +2366,7 @@ your sentiments can warrant your repres&#x27;ntatives in
 any departure from .t, prior to &quot;such an act &quot;  
 litlt there is cieur and ample evidence to prove, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844041201:0356/pct:16.208222419402542,25.91097009902894,15.808932268559598,3.61503701567157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844041201:0356/pct:16.208222419402542,25.914174919078295,15.818791284629794,3.6182418357209243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2393,7 +2393,7 @@ tive body, and it is the best expedient which can bed
 vised in any government to secure a steady, uprighi aed  
 impartial administration of justice.&quot; &quot;Nthin ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846110601:0937/pct:333.32027424094025,170.1510574018127,60.11753183153771,25.876132930513595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846110601:0937/pct:83.31374853113984,42.53133967678598,15.026439482961223,6.4680561848663345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2508,7 +2508,7 @@ independent body to expound the laws, but also
 ited in its powers, against legislative encroach­  
 ments, or executive nsurpation, while it was itsel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848021901:0585/pct:38.00441157389386,35.03297568658333,18.321006876865187,51.0286445516291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848021901:0585/pct:38.00441157389386,35.03297568658333,18.329657021755114,51.03192571447321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2532,7 +2532,7 @@ of Power.&quot; (See the 7t&lt;th No.) &quot;Of the three powers
 above mentioned, the ,/uiiciary Is next to nothing.&quot;?  
 TMontesquieu Spirit of Laws, vol. 1, p. It#.| For th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848081801:0287/pct:58.475573866980575,83.73297525417226,13.434373160682755,3.433723383848072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848081801:0287/pct:58.475573866980575,83.73936952490568,13.439278006670591,3.430526248481361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2712,7 +2712,7 @@ a tendency, in the meantime, to occasion dangerous in­
 novations in the government, and serious oppressions of  
 the minor party in the community.”—Story on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850032701:0052/pct:5.390420452795318,46.672973825291706,14.954566456183583,17.744139598444235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850032701:0052/pct:5.389590391130274,46.668068110153456,14.957396571193923,17.74577815149604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2734,7 +2734,7 @@ ments, however regulated, or by whomsoever made,
 would, In some way or other, be fatal to their necessa­  
 ry independence.”—Story
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850032701:0052/pct:5.452025257970122,65.15294859665721,14.661943631603265,4.152212761484285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850032701:0052/pct:5.451185709886048,65.146100483498,14.664818807103993,4.155279938336487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3065,7 +3065,7 @@ ind that, so far from being blameable on this account,
 heir plan would have been inexcusably defective if il had  
 ranted this important feature of good government. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852041701:0165/pct:80.57971014492753,23.21641872081659,16.949620427881296,52.99163861439896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852041701:0165/pct:80.58891189325972,23.22365801570927,16.949620427881296,52.995258261845294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3103,7 +3103,7 @@ there is no liberty if the power of judging be not
 separated from the legislative and executive  
 powers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854070401:0043/pct:103.69565217391305,39.87918851151128,47.97658862876254,18.554821062229315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854070401:0043/pct:34.56521739130435,13.293062837170428,15.992196209587513,6.184940354076438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3131,7 +3131,7 @@ there is no liberty if the power of judging be not
 separated from the legislative and executive  
 powers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854070401:0045/pct:103.38147234941881,38.63880597014926,48.11553363860514,18.591044776119404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854070401:0045/pct:34.460490783139605,12.879601990049752,16.038511212868382,6.197014925373134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3203,7 +3203,7 @@ iudarment and must ultimately depend upon the aid
 of the executive arm for the efficacious exercise of  
 this faculty.&quot; The legislative is the most powerfu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1856070901:0111/pct:26.9919168591224,13.132859486057955,19.803695150115473,10.595954073264078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1856070901:0111/pct:20.257002598902684,9.852378348824494,14.857060352295697,7.949699289229087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3232,7 +3232,7 @@ iudcrnent and must ultimately depend upon the aid
 of the executive arm for the efficacious exercise of  
 this faculty.&quot; The legislative is the most powerfu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022755:1856070901:0219/pct:28.03477690288714,16.609839259620067,19.816272965879264,9.76619581100828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022755:1856070901:0219/pct:21.037085658024285,12.457379444715052,14.867082376107646,7.330735509011203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3350,7 +3350,7 @@ judging be not separated from the Legislative
 and Executive ponert.n Federalist p. 484.  
 In this instance is a direct union of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:0038334718A:1857082901:0154/pct:18.634733606557376,67.29768102224325,10.822233606557377,11.708471367723616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:0038334718A:1857082901:0154/pct:18.634733606557376,67.30083609402114,10.830771857923498,11.714781511279382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3372,7 +3372,7 @@ j a dietary, from tbe nature of its functions, will
 always be the least dangerous to the political  
 tights of the Constitution,&quot; (Federalist, No. 78.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859022401:0470/pct:3.147318726546423,42.90703161868806,11.802445224549086,3.5299669655497876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859022401:0470/pct:3.147318726546423,42.91017775680352,11.80648024855748,3.5362592417807144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3390,7 +3390,7 @@ tights of the Constitution,&quot; (Federalist, No. 78.
  separated from the legislative and execue  
 Or tive powers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1860102701:0251/pct:0.32948929159802304,213.68640285629277,71.66392092257001,10.949122285034216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1860102701:0251/pct:0.08240626287597858,53.42160071407319,17.92336217552534,2.737280571258554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3413,7 +3413,7 @@ the sword or purse, no direction of either the
 strength or the wealth of society, and can make no  
 active movement whatever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475257:1860120301:0907/pct:135.03725165562915,101.772030651341,37.5,10.488505747126437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475257:1860120301:0907/pct:45.01241721854305,33.92401021711367,12.5,3.496168582375479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3447,7 +3447,7 @@ And in the 45th number of the Federalist,
 e says:  
 &quot;The Slate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860122501:0416/pct:37.62548520947664,33.28750981932443,12.274126622942042,8.955223880597014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860122501:0416/pct:37.62548520947664,33.29405603561142,12.27858831927899,8.958496988740508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3464,7 +3464,7 @@ Federalist No. 801. Again: &quot;The courts of
 sustice are to be considered as the bulwarks o  
 a limited Constitution againsf legislative en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861031401:0163/pct:25.3781512605042,193.72697845741712,34.84593837535014,4.42013617591249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861031401:0163/pct:6.345426530326376,48.43174461435428,8.712704860624738,1.1050340439781225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3502,7 +3502,7 @@ There is no liberty, if the power of
 judging be not separated from the legisla­  
 tive and executive powers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862050301:0073/pct:28.507834757834758,78.5535172231754,11.324786324786325,1.860894813250627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862050301:0073/pct:28.516737891737893,78.56341559984162,11.338141025641026,1.8707931899168537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3758,7 +3758,7 @@ ful guardians of the Constitution, where legis­
 lative invasions of it had been instigated by the  
 major voice of the community
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864022001:0183/pct:8.372093023255815,22.25975642279314,103.11627906976744,365.5436038759001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864022001:0183/pct:2.0930232558139537,5.564939105698285,25.77906976744186,91.38590096897502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3781,7 +3781,7 @@ courts; as no man can be sure that he may not
 be to-morrow the victim of a spirit of injustice,  
 by which he may be a gainer to-day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864022001:0183/pct:61.81395348837209,49.42661569917326,50.0,17.637123299848877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864022001:0183/pct:15.453488372093023,12.356653924793315,12.5,4.409280824962219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4613,7 +4613,7 @@ by the Radicals upon the ruins of
 republican liberty in the Uuited  
 States, as follows: Atunt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868020701:0053/pct:245.154119739182,110.5410047230571,36.89982216953171,33.08286818376986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529352:1868020701:0053/pct:81.71803991306066,36.84700157435237,12.299940723177238,11.027622727923285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4661,7 +4661,7 @@ ment, and must ultimately depend upon
 the aid of the Executive arm for the effi  
 cacious exercise even of this faculty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774753:1868021301:0428/pct:130.0140252454418,288.5986049461002,50.21037868162693,47.93912492073557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774753:1868021301:0428/pct:32.50920568122041,72.14965123652505,12.554795721550061,11.984781230183893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4710,7 +4710,7 @@ things, to keep the latter within limits as­
 signed to their authority,&#x27;&#x27;&#x27;I—Federalist, So.  
 &lt;*•
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84026601:00296028629:1868031101:0458/pct:30.8546744831842,77.72781065088758,12.619561863622339,6.0828402366863905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84026601:00296028629:1868031101:0458/pct:30.8546744831842,77.73570019723866,12.63498920086393,6.074950690335306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4727,7 +4727,7 @@ tesquieu, &quot;there can be no liberty if the
 &quot;power of judging be not separated from  
 &#x27;.tho legislative and executive powers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294551712:1869020801:0130/pct:15.439770554493307,54.344409519533,13.766730401529637,2.031881454872025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294551712:1869020801:0130/pct:15.445081793074145,54.35189342912738,13.766730401529637,2.0281395000748392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4753,7 +4753,7 @@ tesquieu, &quot;there can be no liberty if the
 &quot;power of judging be not separated from  
 &quot;the legislative and executive powers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555274:1869020802:0197/pct:16.056572379367722,48.87772552372809,13.851913477537437,7.556648140230868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555274:1869020802:0197/pct:16.056572379367722,48.881288299843234,13.8611573303753,7.556648140230868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4817,7 +4817,7 @@ ticA into bands less able and less
 qualified to conduct it with ability and  
 dignity.&quot; Every line of the lore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628353:1869081201:0677/pct:50.40911747516073,4.953354064860062,30.47925189947399,122.03465126610395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628353:1869081201:0677/pct:37.82519731072786,3.720568636161706,22.858813212510963,91.52598844957797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4874,7 +4874,7 @@ Federalist, the production of the pen of John day,
 who afterwards made the bench of the Supreme  
 Court of the United States forever illustrious b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869081801:0808/pct:334.3032159264931,207.032590051458,45.405819295558956,63.693539165237276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869081801:0808/pct:83.57580398162328,51.7581475128645,11.351454823889739,15.923384791309319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4899,7 +4899,7 @@ must compose It, will always be, not only
 the least dangerous to the political rights  
 of the Constitution because of ita inca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:0020029340A:1869111101:0465/pct:100.91848450057405,33.56688584671769,12.715269804822043,5.734612482483562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:0020029340A:1869111101:0465/pct:75.6997272857758,25.18055405842406,9.544997846992967,4.300959361862671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5038,7 +5038,7 @@ mer. 1 ncy ouglit to regulate llicir decis­
 ions by the fundamental laws, rather than  
 by those which are not fundamentaL&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:0020029340A:1869122101:0628/pct:20.372526193247964,5.063291139240507,27.357392316647264,126.90684842583576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:0020029340A:1869122101:0628/pct:15.281618396157764,3.7974683544303796,20.535584339979625,95.18554581845721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5096,7 +5096,7 @@ Without this, all the reservation of particu
 lar rights of privileges would amount  
 nothing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn84038628:00295879968:1870010601:0016/pct:10.222291797119599,52.8644853955121,14.167188478396994,20.872508461827756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn84038628:00295879968:1870010601:0016/pct:7.673034763545255,39.651498056913624,10.632633886626996,15.65751535665037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5161,7 +5161,7 @@ erned by the latter, rather than the former. They
 to regulate their decisious by the fundamental laws,  
 rather than by those which are not fundamental.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870011001:0064/pct:101.7314603070892,139.97710360618203,48.62789937928781,56.290784201488265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870011001:0064/pct:33.91048676902973,46.65903453539401,16.209299793095937,18.76359473382942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5179,7 +5179,7 @@ acts contrary to the manifest tenor of the Constitu-
 tion, void.  
 What, and how many, Ithese limitations are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870011001:0064/pct:101.89480561907874,218.45449341728678,48.056190787324404,8.689181453921007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870011001:0064/pct:33.96493520635958,72.81816447242893,16.01873026244147,2.896393817973669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5224,7 +5224,7 @@ powers do not authorize, but what they
 forbid.&quot;  
 &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665118:1870122001:0587/pct:13.903586125808348,34.85472794506075,12.360376249265139,10.449022715266773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665118:1870122001:0587/pct:13.903586125808348,34.858249691847156,12.36527532823829,10.449022715266773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5294,7 +5294,7 @@ of the constitution and the rights of lodi vidi
 als, where legislative Invasions have been lc  
 vestlgated or attempted. Every attempt 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294551621:1872031901:0276/pct:71.08356142328128,43.06797853309481,13.524392207374014,13.4391771019678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294551621:1872031901:0276/pct:71.08892824558579,43.07170542635659,13.524392207374014,13.4391771019678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5382,7 +5382,7 @@ ually broke away from tbeso restraints upon
 themselves, and in very many of tbo States tho  
 selection or all tho agencies of tho governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873042401:0004/pct:15.738555922605002,66.22589531680441,13.260972156677678,15.29843893480257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873042401:0004/pct:15.744454931571497,66.22589531680441,13.266871165644172,15.312213039485767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5541,7 +5541,7 @@ and to introduce in its stead universal distrust
   
 and distress.&quot; DEMOL&#x27;UAT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556552:1880050101:0533/pct:46.596385542168676,88.99159663865547,13.072289156626505,1.4285714285714286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556552:1880050101:0533/pct:34.96008435005272,66.74669867947179,9.805693628558517,1.0804321728691477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5583,7 +5583,7 @@ tion to that of the people declared in the
 atution, the judges ought to he govs  
 erned by the latter father than the fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531046:1882020901:0146/pct:8.090665827168268,129.61327157169018,42.98756492995435,39.136055154583644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531046:1882020901:0146/pct:2.696888609056089,43.20442385723006,14.329188309984785,13.04535171819455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5656,7 +5656,7 @@ may be brought before them, under rules
 of evidence made by the Legislature, re­  
 moves this great objection. The amend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181909:1885083001:1212/pct:19.24124160464694,62.34190126478988,12.724632419676892,9.057527539779683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181909:1885083001:1212/pct:19.24124160464694,62.34643456185684,12.742784534398258,9.057527539779683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5815,7 +5815,7 @@ public and private right, and the bulwark of a
 limited constitution against legislative encroach­  
 ment.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:0041418201A:1890020501:0812/pct:6.532479414455627,82.05771643663739,16.248856358645927,1.9099400529764394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:0041418201A:1890020501:0812/pct:5.067359962183881,63.60296765828711,12.597494682108248,1.4802276165094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5924,7 +5924,7 @@ Experience susgests that if a judge be
   
 appointed for life with a permanent income 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048789:1890121401:0383/pct:39.242520687460214,31.65241448692153,17.297899427116487,30.558350100603622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048789:1890121401:0383/pct:26.170009551098378,21.101609657947687,11.540910538045209,20.372233400402415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6119,7 +6119,7 @@ never at eek with sucees elther of the other two, and that
 all posible care is requtsite to enable it to defend itsell  
 against the ir attacks.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038541:1892031101:0144/pct:7.295576954463849,41.82347670250896,47.511016810837276,17.43951612903226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038541:1892031101:0144/pct:2.431858984821283,13.94115890083632,15.837005603612425,5.813172043010753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6162,7 +6162,7 @@ and in the face of the declaration of Hamilton that
 there is no liberty if the power of judging be not  
 separated from the legislative and executive power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_isuzu_ver01:data:sn83030214:00175038619:1893020401:0476/pct:105.42411073555448,205.14548927086844,45.66232093996459,4.954499494438827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_isuzu_ver01:data:sn83030214:00175038619:1893020401:0476/pct:35.14137024518483,68.38182975695615,15.220773646654864,1.651499831479609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6319,7 +6319,7 @@ dinal principle of constitutional govern­
 ment. If wus adopted in forming the fed­  
 eral constitution, both in regurd to the ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1895013101:0794/pct:83.0715532286213,12.634601579325198,19.328097731239094,11.313711414213927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1895013101:0794/pct:62.31725943704997,9.475951184493898,14.51014619245036,8.499641062455133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6503,7 +6503,7 @@ tive and executive powers.&quot;
 the Judiciary alone,&quot; said Hamilton in the  
 Federalist, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898103101:1012/pct:72.59953161592506,164.45672191528544,51.678376268540205,15.346838551258442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898103101:1012/pct:18.16051552431166,41.11418047882136,12.927162663542276,3.8367096378146104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

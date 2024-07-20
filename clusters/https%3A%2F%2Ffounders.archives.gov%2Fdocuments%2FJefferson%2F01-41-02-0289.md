@@ -50,7 +50,7 @@ Duke of Brunswick and Lunenburgh, Arch-
 Treafarer and PrinceElefter of-thie Holy  
 ~ Roman Empire. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1761010201:0609/pct:34.89960670668599,20.35053554040896,27.054440074518734,6.593406593406593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1761010201:0609/pct:34.913406472089974,20.35053554040896,27.054440074518734,6.593406593406593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -70,7 +70,7 @@ and l.unenbttrgh, arch-treasurer and elector of
 the holy Homan emfiire, Jff’c. l3r,  
 The court of Pru.ss.ia has avowed those hostile de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806060601:1152/pct:4.860597088576363,11.630887536046139,20.898100172711572,3.4604293495674465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806060601:1152/pct:4.859398125308338,11.629024507448342,20.89911198815984,3.4638795450905016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ A letter of credence being under the signa­
 ture of the head of the government and seal of  
 the naticn, and of course patert to the govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810011301:0427/pct:48.58039215686274,39.014963829154695,20.72156862745098,7.511644039242889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810011301:0427/pct:48.59084967320261,39.014963829154695,20.726797385620916,7.521553859875136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ A letter of credence, being tinder the sig
 natnre of the head of the government and  
 seal of the nation, and of course parent t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810012001:0325/pct:42.26995000925754,5.225509214354995,17.10794297352342,6.001454898157129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810012001:0325/pct:42.26212513883747,5.224875742514244,17.110946563001356,6.004768254737948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ thirty-seven, and in the first year of our reign.
   
 Your good Jriend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841052501:0305/pct:20.05713426552398,41.676767676767675,15.847241016388512,4.636363636363637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841052501:0305/pct:20.05713426552398,41.68350168350168,15.852252794066056,4.636363636363637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ Year of Our Lord 1855, and in the
 Eighteenth year of Our Reign.  
 Your Good Friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471392:1855082501:0288/pct:8.98661567877629,53.920441480800186,20.140216698534097,9.461945274775811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471392:1855082501:0288/pct:6.741035856573705,40.4460795585192,15.123505976095618,7.093584732122327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ day of April, in the year of our Lord 1873, and
 in the thirty-sixth of our reign. Your good  
 friend,  cameen Vicrorla, I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743828:1873062801:1210/pct:154.17009376542194,169.25640730950465,45.96150682678072,12.044592575566027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743828:1873062801:1210/pct:51.39003125514065,56.41880243650155,15.320502275593574,4.0148641918553425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ the year of our Cord, 1887, and in the
 olsl&#x27;year of our reign.  
 Your good friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042460:00280769174:1887081701:0523/pct:56.34952229299363,37.136782423812896,11.624203821656051,5.088589652728562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042460:00280769174:1887081701:0523/pct:56.35615711252654,37.14150720529175,11.63083864118896,5.093314434207418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ Given at our court, at Windsor castle, theiwh
 day of July, in the year of our Lord 1887, in  
 the fifty-first year of our reign
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887081701:0483/pct:49.298352654057354,89.994952044422,11.970713849908481,2.635032811711257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887081701:0483/pct:49.30140329469189,89.997476022211,11.979865771812081,2.640080767289248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ reign.
 Your good friend,  
 Victoria Ri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895709:1887081701:0160/pct:54.65943113772455,54.82462318636428,12.556137724550899,6.874207634878152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895709:1887081701:0160/pct:54.64920486435921,54.816901408450704,12.558465855940131,6.876760563380282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ day of July, in the year of our Lord, 1887, and
 ill the 51st year of our reign.  
 Your Good Friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210570:1887081701:0363/pct:24.72758971378759,77.1356783919598,9.67601336626471,4.833692270878201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210570:1887081701:0363/pct:24.7239976757699,77.12645053236032,9.678239395700174,4.836104797224548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ Given at our Court at Windsor Castle, the
 the fifty-first year of our reign.  
 Your good friend, Vicroria.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_ionia_ver01:data:sn98066392:00296024375:1887081701:0222/pct:170.71428571428572,89.39828080229226,35.97744360902256,12.422589888159719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_ionia_ver01:data:sn98066392:00296024375:1887081701:0222/pct:56.92616271781372,29.799426934097422,11.996991350131628,4.14086329605324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ Given at our court at Windsor Castle the
 1887 and in the fifty-first year of our reigns  
 Your good friend, Victoria; 11. L 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:00175033269:1887081701:0656/pct:86.50829224562976,65.35397733647481,11.66890781413417,4.330752832940648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:00175033269:1887081701:0656/pct:86.51825290104088,65.35771719211638,11.66890781413417,4.327012977299076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ at windsor Castle the eighteenth day of fuly, in the vear
 of our Lord 1887, and in the fifty-first year of our reign  
 our good frien  a i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044917:1887081701:0431/pct:234.38948995363214,221.3598166539343,50.77279752704791,12.345301757066464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044917:1887081701:0431/pct:58.620023192887516,55.339954163483576,12.698105914186316,3.086325439266616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ day of July, in the year of our Lord 1887, and
 in the fitty first year of our reign.  
 &quot;Your good friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887081701:0749/pct:279.43640517897944,240.83202735432397,52.3990860624524,18.065251460321985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887081701:0749/pct:69.85910129474486,60.20800683858099,13.0997715156131,4.516312865080496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ tle, the 18th day of July, in the year
 of our Lord 1887, and in the fifty-first  
 year of our reign. Y our good friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887081701:0379/pct:21.494607087827426,25.35023348899266,91.60246533127889,352.3949299533022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887081701:0379/pct:5.374686958196879,6.337558372248165,22.905027932960895,88.09873248832555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ July 18, in the year of our Lord 1887, and
 in the fifty-first year of our reign. Your  
 good friend, Victoria, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:0020653560A:1887081701:0176/pct:284.9933598937583,200.332852546322,57.10491367861886,25.33007877510263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:0020653560A:1887081701:0176/pct:71.27200265692461,50.0832131365805,14.280969777482564,6.332519693775658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ the 18th day of July, in the year of our
 Lord, 1887, and in the fifty-first year  
 of our reign. Your good friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030943:1887081701:0199/pct:46.030822913637685,217.27244485865177,34.41407385867985,18.56684270477374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030943:1887081701:0199/pct:15.343607637879229,72.42414828621725,11.471357952893284,6.188947568257913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ this 18th day of July, in the year of
 Lord, 1887, and the fifty-first year of  
 our reign. Your good friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072021:no_reel:1887081801:0504/pct:26.888842889670876,216.60930719736646,42.64127509832333,21.562172676941493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072021:no_reel:1887081801:0504/pct:8.962947629890293,72.20310239912214,14.213758366107776,7.187390892313831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ Given at our court at Windsor Castle the
 1887 and in the fifty-first year of our reign.  
 Your good friend, VICTOEIA, R
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016811:00280768170:1887082001:0130/pct:57.82814238042269,68.88634947018491,12.180200222469411,5.183876999792229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016811:00280768170:1887082001:0130/pct:57.82814238042269,68.89327515755939,12.194104560622915,5.1873398434794655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -802,7 +802,7 @@ recommend you to the protection of the
 Almighty. Given at our court at Windsor  
 Castle, Jnly 18, 1887
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062948:00340581064:1887082501:1420/pct:40.11848701200061,50.02295684113866,10.603068509797964,2.835169880624426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062948:00340581064:1887082501:1420/pct:40.11848701200061,50.025826446280995,10.62205681300319,2.835169880624426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ recommend you to the protection of the
 Almighty. Given at our court at Windsor  
 Castle, July 18, 1887.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152512:1887082501:0344/pct:37.80059443393677,67.51174735001639,9.632531748176168,3.365752376789422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152512:1887082501:0344/pct:37.80509772133657,67.51174735001639,9.63703503557597,3.369394965941791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,7 @@ seven and in the fifty-first year of Our
 Reign.  
 Your Good Frien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_iago_ver01:data:sn82016412:00294551979:1887082601:0197/pct:11.775914634146341,47.005263906672354,15.301067073170731,7.981220657276995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_iago_ver01:data:sn82016412:00294551979:1887082601:0197/pct:8.8465204957102,35.253947930004266,11.477597712106768,5.989472186655285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +887,7 @@ in the year of our Lord
 1887 and in the fifty-first year of our reign,  
 Your good friend, VICTORIA, R
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740839:1887082601:0960/pct:57.72282708986898,49.952452112484714,11.939472227348219,5.026490965901372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740839:1887082601:0960/pct:57.72282708986898,49.96264094552371,11.94869902195977,5.026490965901372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -911,7 +911,7 @@ eighty-seven, and in the fifty-first year of
 our reign.  
 Your Good Friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195477:1887082701:0195/pct:61.01129363449692,79.95772482705611,17.967145790554415,6.504611837048424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195477:1887082701:0195/pct:45.770761134642534,59.973097617217526,13.477088948787062,4.880860876249039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +940,7 @@ of Our Reign.
 Your Good Friend,  
 m.e. VICTORIA, R.I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195659:1891050101:0427/pct:13.602178423236515,34.131031777167514,15.949170124481327,6.443703413103178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195659:1891050101:0427/pct:10.20752269779507,25.598273832875638,11.971465629053178,4.835229501765398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -963,7 +963,7 @@ of Our Reign
   
 Your Good Frien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108952:1891050501:0313/pct:10.728346456692913,40.537718611328636,18.77952755905512,5.97755155311929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108952:1891050501:0313/pct:8.054352107128791,30.409814669799008,14.100039385584877,4.486426520490734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -985,7 +985,7 @@ Year of Our Lord 1892 and in the
 55th Year of Our Reign.  
 Your Good Friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_gold_ver01:data:sn82016412:00294552169:1892041101:0353/pct:8.492999263080325,46.76602517725365,16.156963890935888,6.902040225727101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_gold_ver01:data:sn82016412:00294552169:1892041101:0353/pct:6.377880184331797,35.07451888294024,12.129032258064516,5.180147590797279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1069,7 +1069,7 @@ two, and in the lifry-sixth year of Our
 Keign.  
 &quot; Your Good Friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_gold_ver01:data:sn82016412:00294552170:1892090101:0212/pct:4.698972099853157,34.989816700611,21.035242290748897,17.067209775967413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_gold_ver01:data:sn82016412:00294552170:1892090101:0212/pct:3.5261707988980717,26.245756958587915,15.794306703397613,12.803801765105227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -384,7 +384,7 @@ nace the peace of our country.
 « Sd VISSCHER, infer*.&quot; j  
 SENATE U. S.—Feb. 8
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021001:0003/pct:8.862540192926046,3.458587959953192,34.20418006430868,95.61825510336757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021001:0003/pct:8.862540192926046,3.458587959953192,34.210878885316184,95.62692324361808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ the peace ol our country.
 &quot; liy Order,  
 “ S V1SSCJ1LR, Clerk.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809021401:0359/pct:5.16805204192266,39.22845691382766,18.377303939284424,40.95691382765531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809021401:0359/pct:5.167118337850045,39.223544145272385,18.380006022282444,40.955959089960345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ country.
 By Order.  
 S. VISSCIIER, Clerk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809021401:0056/pct:23.721015826278983,36.3376251788269,17.42730953257269,52.4645597606971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809021401:0056/pct:23.716651333946643,36.33289986996099,17.430236123888378,52.46207195491981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ i % 8. VISSCHER, Clerk.”
   
 The faclion fecking neww means so abus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809022801:0241/pct:5.8969970437217984,7.904191616766467,17.2708884393963,47.95409181636727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809022801:0241/pct:5.907369949691406,7.904191616766467,17.2760748923811,47.95409181636727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1319,7 +1319,7 @@ agreed to, after a debate of three days, by a majority of!
 twenty?every Hi publican member votiinr in the affirma-1  
 tivc, and every federal in the negative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840101301:0654/pct:53.08441558441559,57.3872314428266,15.672963400236128,6.506465736686692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840101301:0654/pct:53.08441558441559,57.39062553032617,15.68280204643841,6.509859824186267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1341,7 +1341,7 @@ to moet tho dangers menacing the peace of
   
 our country Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023504:1898052701:0865/pct:77.37793278376664,38.54313237363351,22.36842105263158,3.6908756358913304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023504:1898052701:0865/pct:51.60164922296226,25.69542158242234,14.922296225816682,2.467799545405347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

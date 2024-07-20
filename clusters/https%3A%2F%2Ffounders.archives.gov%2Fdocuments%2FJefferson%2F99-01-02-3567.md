@@ -93,7 +93,7 @@ nuing tine same provisions for a limited
 , time, or making others equivalent.  
 Th: JE &gt;N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806041601:0002/pct:59.93836671802774,2.534593779969859,38.058551617873654,95.43773119605426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806041601:0002/pct:59.93836671802774,2.5437274512490293,38.058551617873654,95.43316436041466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ valent.
   
 _ &#x27;Tu :. ]EFF-ERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806041801:0432/pct:30.842731829573935,20.357142857142858,22.901002506265666,33.919172932330824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806041801:0432/pct:30.837901331245106,20.355229771638005,22.902636387366222,33.91911787739247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ provisions tor a limited time, or making others equi- !
 valent.  
 Tit: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806042101:1071/pct:52.78656607447068,31.33301328212514,21.63543441226576,21.98751800288046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806042101:1071/pct:52.77372262773723,31.328,21.63625304136253,21.988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ fider the expediency of continuing the fame provi­
 fions for a limited time, or making others equivalent.  
 Tti : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806042201:0436/pct:21.147356580427445,47.20766773162939,17.84776902887139,19.642172523961662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806042201:0436/pct:21.14339268978444,47.201635573728595,17.850671665104656,19.643921969503364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ ons for a limited t’.nve, or making others
 equivalent.  
 Tu : JEFFEIISOM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806042201:0141/pct:41.8017338861666,3.8726993865030677,35.88390501319261,90.98926380368098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806042201:0141/pct:41.79385716977577,3.8722044728434506,35.88342440801457,90.98189563365283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ j ptbinjtcns fer a lin i ed time, or ma­
 j king others equivalent  
 1 H : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806042801:0819/pct:5.345027304319047,2.855981298912491,36.273374151911305,90.92387437747739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806042801:0819/pct:5.344142951687624,2.855691056910569,36.27150893448048,90.91717479674797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ may confider the ‘expediency of continuing
 making;others equivalent, | ‘  
 g Noiew o 0 TE - JEEFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806042901:0278/pct:5.5058823529411764,44.30784607696152,17.019607843137255,25.59720139930035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806042901:0278/pct:5.511111111111111,44.30784607696152,17.019607843137255,25.610528069298685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ torgres-, m«y consider the expedienc. of conti
 cr nuking others equivalent  
 TH : JEPFEftSOM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806042901:0149/pct:22.51279135872655,25.498575498575498,18.192154633314384,21.717171717171716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806042901:0149/pct:22.50852595680182,25.495273857309336,18.19502336743716,21.718675816824206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -685,7 +685,7 @@ with a threat of war if refused : it has
 \ to depart without receding from his threat  
 ! or demand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806050601:0158/pct:57.95243403939056,20.209638246197112,17.76291341508733,5.100345136137032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806050601:0158/pct:57.94166821475014,20.207055214723926,17.765805932255866,5.103953646898432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

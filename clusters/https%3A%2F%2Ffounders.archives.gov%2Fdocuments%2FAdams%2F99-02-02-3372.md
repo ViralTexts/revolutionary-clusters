@@ -483,7 +483,7 @@ and of the Independence of
 the said States the twenty  
 &#x27;&#x27;third.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799030801:0003/pct:39.22077922077922,9.620142628438364,17.024793388429753,77.12123417260952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799030801:0003/pct:39.23848878394333,9.627419589579391,17.018890200708384,77.12851113375055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -647,7 +647,7 @@ l&#x27;even hundred and ninety nine,
 and of the independence ot the  
 laid States the twenty third
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799031801:0187/pct:51.133307721859396,0.9973327148324249,47.349212447176335,92.93749275194249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799031801:0187/pct:51.12348761282888,0.9972170686456401,47.344920299596694,92.92961502782931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ By the President.
 TIMOTHY PICKERING,  
 - Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799032701:0049/pct:41.06732096304248,16.95821185617104,34.074528446557274,77.0651117589893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799032701:0049/pct:41.07754434391453,16.95821185617104,34.074528446557274,77.0683511499838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1217,7 +1217,7 @@ hundred and -ninety nine, and of
 the Independence of the said states  
 (lie twenty-third.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799041901:0002/pct:46.31090487238979,11.602836879432624,16.51972157772622,77.87234042553192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799041901:0002/pct:46.31090487238979,11.609929078014185,16.531322505800464,77.88652482269504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1384,7 +1384,7 @@ and I do hereby recommend, that FRIDAY
 Ihe TWENTY,FIRST day ol April next, be  
 observed throughout this State as a day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1848032301:0570/pct:16.79548777940255,29.562243502051984,14.915395863797785,4.049247606019152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1848032301:0570/pct:16.791979949874687,29.558199972643962,14.91750208855472,4.052113254000821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1413,7 +1413,7 @@ and I do hereby recommend, that Thursday, the
 35m day or November next be set apart as a day of  
 public Thanksgiving and Praise throughout thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1858110401:0181/pct:18.42355175688509,12.069440617249931,14.453941120607787,2.1906861394323505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1858110401:0181/pct:18.420053171287506,12.06777793084447,14.45594379035321,2.1938283510125363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1530,7 +1530,7 @@ social obligations, that have produced
 incalculable mischiefs and misery in  
 other countries.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890566:1892061501:0570/pct:22.99183565973137,81.47569444444444,17.197787727153017,8.506944444444445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890566:1892061501:0570/pct:22.98578199052133,81.46155181392119,17.199842022116904,8.509807325117167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

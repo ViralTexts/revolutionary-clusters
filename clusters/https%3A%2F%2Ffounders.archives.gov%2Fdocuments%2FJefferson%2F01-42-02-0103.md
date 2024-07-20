@@ -83,7 +83,7 @@ giving strength to those who were to be their ene­
 mies, and, therefore, he would have nothing to do  
 with it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293216:1856041001:0349/pct:286.35794743429284,158.25049701789266,50.12515644555695,34.52227809612911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293216:1856041001:0349/pct:71.62310220691813,39.562624254473164,12.537173266551886,8.630569524032277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ a literary institution in the South that it was, in fact, giving
 strength to trose who were to be their enemies; and, therefore,  
 he would have nothing to do with it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293289:1859122301:0596/pct:201.92307692307693,96.73256171258835,43.62637362637363,18.068216736658815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293289:1859122301:0596/pct:50.48770435499382,24.183140428147087,10.908091770847644,4.517054184164704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ it was, in fact, giving strength to those who
 were to be their enemies; and, therefore, he  
 would have nothing to do with it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859122801:0605/pct:124.91675915649279,219.71830985915494,34.12874583795782,27.156690140845072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859122801:0605/pct:31.237857341104636,54.929577464788736,8.534554537885096,6.789172535211268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ wes in fact giving strength to these who were to be
 their enemies, and therefore he would have nothing to  
 do with it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861110601:0435/pct:157.31246627091204,255.23489064319918,44.270552257600286,32.31525818558302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861110601:0435/pct:52.42805755395683,85.0672877846791,14.754196642685852,10.770358868184955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ giving strength to those who wrro to be
 their enemies; and, therefore, lie would  
 have nothing to do with it.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1862020701:1029/pct:13.717391304347826,73.47135291285508,17.17391304347826,18.23142352752367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1862020701:1029/pct:10.636863978434235,56.940298507462686,13.32135235313939,14.14179104477612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ that it was in fact giving strength to thesse
 fore, he would have nothing to do with  
 it.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862021301:0172/pct:195.90386354826205,123.21921590281612,41.6849722186329,39.260077305356155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862021301:0172/pct:65.30128784942069,41.07307196760537,13.8949907395443,13.086692435118719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ engags in this enterprise he wrots a paper re-
 commendstory, which he meant to get signed  
 by clergymen, and a similar one for gersens in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1864021901:0082/pct:291.7017438364402,178.51279575084502,42.633794347564645,11.154031868662482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1864021901:0082/pct:72.95833959993985,44.628198937711254,10.663257632726726,2.7885079671656205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ giving strength to those who were to be
 their enemies; and therefore, he would  
 have nothing to do with it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1865060701:0173/pct:189.9588477366255,131.4930991217064,57.94238683127572,50.02091175240485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1865060701:0173/pct:47.489711934156375,32.8732747804266,14.48559670781893,12.505227938101212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ in fact, giving strength to those who were
 to De their enemies, and therefore he  
 would have nothing to do with i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1865112501:0043/pct:57.903587443946186,75.85724282715185,15.07847533632287,16.29344529974341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:0029586753A:1865112501:0043/pct:43.445955418477496,56.89293212036389,11.313612785644189,12.222999766736645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

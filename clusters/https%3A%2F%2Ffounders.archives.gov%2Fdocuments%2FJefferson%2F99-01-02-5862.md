@@ -224,7 +224,7 @@ assist in navigating the said armed vessel, or&#x27;any,
 other, contrary to »he prohibition contained the f  
 said proclamation, unless it-be fbr the purpose of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807071301:0621/pct:72.26647356987691,30.254264563887993,21.144098479362782,2.800128741551336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807071301:0621/pct:72.24903474903475,30.249396621078038,21.145028957528957,2.8037007240547065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ or vessel, unless it be for the purpose ol
 carrying her beyond the limits and juris­  
 diction of the United S.utes, every perso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809030701:0081/pct:4.1697971450037565,53.56772184743124,17.223891810668672,8.951738453554748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809030701:0081/pct:4.169014084507042,53.560773122324555,17.226917057902973,8.95490119773425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ ther person shall assist in navigating or piloting
 m&lt;-;, ship or vessel, unless it be for the purpose of  
 carrying her h-yond the limits and jurisdiction o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810022801:0951/pct:72.65296011890017,45.27299081977774,20.832301213772602,7.456917377999678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810022801:0951/pct:72.63496780584448,45.265700483091784,20.833333333333332,7.459742351046699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ diction of the Un.led States, the person or persons
 so offending, shall be liable to be bound to their  
 good behaviour and shall moreover forfeit and pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810050901:1069/pct:51.55420773313116,55.66144403165886,21.354561536517565,7.446293005976417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810050901:1069/pct:51.54118241536129,55.65245478036176,21.355482566953008,7.449127906976744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ said armed vessel, contrary to this prohi­
 jh^untcss tor tlie purpose or carrying  
 the limits and jurisdiction of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810051101:0008/pct:5.236861584011843,29.731057349871055,18.31976313841599,3.9420361046297434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810051101:0008/pct:5.235892691951896,29.727406679764243,18.32254085723096,3.945645055664702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ the limits and jurisdiction of th
 -the said colle@or, under the authority and  
 -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810051501:0501/pct:24.278996865203762,39.40546491842658,17.100313479623825,10.319287358622761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810051501:0501/pct:24.28944618599791,39.40546491842658,17.105538140020897,10.325960030694292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ United States.&quot;
   
 Two of these native citivens were negroes,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:340.8695652173913,293.4952298352125,43.18840579710145,16.76785198034114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:85.21739130434783,73.37380745880313,10.797101449275363,4.191962995085285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ cumstance might be wanting to mark its
 character, it had been previously ascertain­  
 ed that the seamen demanded were native 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857082101:0773/pct:242.48554913294797,205.25874125874125,42.55780346820809,6.601398601398602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857082101:0773/pct:60.6323396567299,51.31468531468531,10.64137308039747,1.6503496503496504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ might be wanting to mark its charactei,
 it had previously been ascertained that the  
 seamen demanded were .natives of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1857082701:0514/pct:75.95505617977528,100.39284155390659,16.179775280898877,3.2082060235704932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1857082701:0514/pct:56.97429414243574,75.29463116542995,12.13653603034134,2.411610650371017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

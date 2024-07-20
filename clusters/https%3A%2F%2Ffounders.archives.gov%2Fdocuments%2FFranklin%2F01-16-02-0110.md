@@ -54,7 +54,7 @@ have a good sensible instinct, have no need of rea­
 . son. so those who have reasou to regulate their  
 actions, have no occasion for enthusiasm. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833060601:0659/pct:26.84458398744113,84.47849728126545,18.245246816675387,6.7721206129510625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833060601:0659/pct:26.839902336937566,84.46805881626096,18.24787815370306,6.775402611310186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

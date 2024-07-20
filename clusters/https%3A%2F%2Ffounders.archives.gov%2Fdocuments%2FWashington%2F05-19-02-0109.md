@@ -33,7 +33,7 @@ with the approbation of God, and the testi­
 mony ofa good conscience, lie enjoys him­  
 self, and despises the triumphs of guilt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667280:1851071201:0117/pct:65.64469914040114,79.20125645052725,20.0,6.9665694413282475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667280:1851071201:0117/pct:49.25480080252221,59.400942337895444,15.004299226139295,5.227731658065964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -57,7 +57,7 @@ the testimony of a good conscience, he
 enjoys himself and despises the triumphs  
 of guilt. In proportion as such manl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1851091801:0150/pct:320.7253886010363,302.4418106525775,49.88897113249445,23.418534913608454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1851091801:0150/pct:80.18134715025907,75.61045266314437,12.472242783123612,5.8546337284021135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ record is on high, satisfied with the appro­
 bation of God, and the testimony of a good  
 conscious, he enjoys himself, aud despise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028654:1865052501:0285/pct:41.26350051782808,53.99357483106237,12.797751146619323,4.519774011299435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028654:1865052501:0285/pct:41.26350051782808,53.99357483106237,12.812546234650096,4.519774011299435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ the event. His witness is in heaven, and his
 record is on high, satisfied with the approbation  
 of G _&gt;d ami the of a good conscience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028460:1865062301:0069/pct:62.47832256030269,51.41574585635359,14.519943244521519,3.78683241252302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028460:1865062301:0069/pct:62.48883283409533,51.42341927562922,14.525198381417836,3.790669122160835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

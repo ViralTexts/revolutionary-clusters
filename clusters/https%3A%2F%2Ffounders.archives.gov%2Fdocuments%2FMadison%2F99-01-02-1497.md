@@ -182,7 +182,7 @@ without taking some steps on his part to restrain
 this violence; and to retort upon them the evils ol  
 their own injustice, and his majesty is thereupo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807110201:0807/pct:27.950629982000514,66.49384316267012,22.19079454872718,11.681788723266365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807110201:0807/pct:27.943444730077122,66.48307144014255,22.191516709511568,11.683946217398347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -642,7 +642,7 @@ uifl grant a violation of all public law,
 jne king to have recourse.  
 cm I am, with great truth and regard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041501:0002/pct:21.750772399588055,2.847979474021809,38.640576725025745,95.38165490699166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041501:0002/pct:21.764503947820117,2.847979474021809,38.633710950909716,95.38165490699166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ have recourse. j
 1 have ihe honor to be, with great  
 respect mid sir, your
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112301:0001/pct:6.323275033634442,3.0125195618153366,72.3428791082068,64.6452790818988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808112301:0001/pct:6.323275033634442,3.0168666318901063,72.36850534947787,64.65397322204834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ I have the honour to be, &amp;c.
 (Signed) U. M. ERSKINE. j  
 Hon. James Madison, esq. Scentary of State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0227/pct:54.80453972257251,37.48763600395648,21.134930643127365,36.99307616221563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0227/pct:54.790721129601614,37.48145706279875,21.13590519415028,36.9910993901434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -924,7 +924,7 @@ humourse.
 &#x27; &#x27; &quot;Five the bone: to be, With-great respect)  
 . Wderafiovz His; yond. was! obsdssisiemct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120201:0012/pct:5.057675244010648,24.895117379273408,23.425022182786158,50.022315451218425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1808120201:0012/pct:5.056927399083247,24.892895394501963,23.42648725910592,50.020825895513504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -943,7 +943,7 @@ ready, in some instances, been carried in­
 to execution by the privateers of the enemy.”  
 There is even a doubt, whether Mr. E. him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120201:0247/pct:22.89744981009224,43.747643584265425,17.254476397178514,2.8528339826567803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120201:0247/pct:22.893309222423145,43.742146267906506,17.257383966244724,2.856664153472397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1019,7 +1019,7 @@ With great respect and consideration,
 Sir,  
 Your most obedient humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120201:0248/pct:5.324892943585924,12.890381983327112,17.966859057903555,32.28816722657708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120201:0248/pct:5.323901712583767,12.888778303060462,17.969719533382975,32.28829725470681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1098,7 +1098,7 @@ law. it n.ay be ul irna eiy tuccwry lot
 he ki g t&lt;i have recomae  
 1 have ihjjf to tw ir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120901:0401/pct:21.729323308270676,12.43933588761175,35.99624060150376,81.51979565772669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120901:0401/pct:21.72523961661342,12.437747414123356,35.99574014909478,81.5136423615545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1193,7 +1193,7 @@ for the King to have recourse. A - &#x27;
 - j &quot; His majesty, therefore, with thi  
 - ! hearoiice and moderation which have at al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808122301:0002/pct:24.744257865276975,56.12853070743716,17.02374059061957,1.023581238662866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808122301:0002/pct:24.744257865276975,56.132849615617175,17.02374059061957,1.0192623304828539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1212,7 +1212,7 @@ flagrant a violation of all public law, ii may
 Itirhately necessary for the king to have  
 He confides in our good sense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808122301:0002/pct:25.70932252460915,71.78025395180099,15.981470758540823,3.433532003109614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808122301:0002/pct:25.7157562890047,71.78025395180099,15.98790452293637,3.4508076358296624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1262,7 @@ government of the List Nov.1806,hadal—
   
 ; read\, in some instances been carried into
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809021401:0240/pct:29.44360902255639,52.94170808856756,23.30827067669173,15.01129688206055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809021401:0240/pct:29.439182077883025,52.93692391107898,23.309777978248885,15.012952587505271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1294,7 +1294,7 @@ by a knowledge, oil the part of the British
 Government, that the Measures announced, hr  
 t.ie Decree of the French Government of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809021401:0056/pct:77.91682002208319,33.021199115619716,17.280088332719913,9.663155156717389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809021401:0056/pct:77.90248390064397,33.01690507152146,17.283042011652867,9.666233203294322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1311,7 +1311,7 @@ t.ie Decree of the French Government of th
 stances been carried into execution, by the  
 privateers of his enemy. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809021401:0056/pct:78.00883327199116,42.55429834828976,17.132867132867133,1.781766159448563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809021401:0056/pct:77.99448022079117,42.54876462938881,17.135847899417357,1.7858690940615518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1348,7 +1348,7 @@ the 21st November 1805, had already, in
 some instances, been carried into execution,  
 by the privateers ofhis enemy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809021701:0362/pct:59.190979058528725,16.303937602214116,17.129049579380705,12.617939363441943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809021701:0362/pct:59.180386542591265,16.30188679245283,17.13194941541398,12.620545073375261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1378,7 +1378,7 @@ bv tlie dates of certain decrees? Suj pose’,
 th \t these decrees were not intended to af­  
 fect -he United Strtes—Suppose th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809022401:0371/pct:22.87272727272727,39.574682270039006,16.836363636363636,9.148106203598843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809022401:0371/pct:22.868569351027087,39.569703069954706,16.839362540144215,9.151149136050998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

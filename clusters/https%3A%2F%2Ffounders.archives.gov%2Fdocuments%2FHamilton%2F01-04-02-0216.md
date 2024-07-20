@@ -224,7 +224,7 @@ s.cutt.m (tout the ptevalency ol a factious spirit in either
 Mr. H. said there was much matter for elucidation of  
 the present object ol discussion in tire extinct which h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834042501:0456/pct:20.64804772234273,29.00513268537731,14.709869848156183,4.7177023042481165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834042501:0456/pct:20.64524874610275,29.001965494649486,14.71239437892549,4.720826963674747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ I The Fedcralist Hamilton said
 of the Presitlent: &quot;In his act of nomination his  
 he exercised; and as it woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039855:1881052901:0509/pct:152.13333333333333,9.329920893438809,47.65,28.687761749651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039855:1881052901:0509/pct:50.71111111111111,3.1099736311462696,15.883333333333333,9.562587249883666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ also, as manifest in this testimony of the man
 largely instrumental in putting it together, is  
 shown by the way the White Hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654747:1889111501:0367/pct:2.1290976681311253,13.897571531618178,14.008110848259546,16.530415965376292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654747:1889111501:0367/pct:2.1290976681311253,13.906588122144747,14.02500844880027,16.539432555902863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

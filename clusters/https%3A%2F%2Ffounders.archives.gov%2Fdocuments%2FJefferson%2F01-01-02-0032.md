@@ -79,7 +79,7 @@ bers, who do hereby each and every Person, for
 himfelf, upon his Word of Henor, agree, thathe  
 will ftriclly adhere to all the foregoing Articles,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1765122701:0517/pct:66.90186016677357,26.901858304297328,28.458413512935643,6.721835075493612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1765122701:0517/pct:66.90186016677357,26.911536972512582,28.458413512935643,6.721835075493612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ dustry and frugality, and discourage all
 manner of luxury and extravagance.  
 Ninth, That if any British or East Indi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1837111501:0758/pct:17.407673001075654,38.01975051975052,14.575116529221944,4.132016632016632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1837111501:0758/pct:17.419624716146767,38.01975051975052,14.569140671686387,4.132016632016632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ members ol this association.
 Signed in IVilliamsbuig, this 22d of June 1770  
 Peyton Randolph, Moderator, Rub aid Hem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846090301:0436/pct:6.760847628657921,4.141726866185071,30.908173562058526,92.75541795665634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846090301:0436/pct:6.760165472707093,4.141441937259218,30.908418255810044,92.75133003118694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ firmly adhere to and abide by every article and
 resolution therein contained, according to the  
 true intent arid meaning thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846090301:0436/pct:22.613521695257315,79.64912280701755,14.964682139253279,5.999312005503956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846090301:0436/pct:22.611240036323277,79.64364336818932,14.966535499276898,6.0011924417538065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ ciation.
 Signed in Willianteburg, this 22d of June, 1770.  
 Peyton Randolph, Moderator George Loga
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846090401:0812/pct:95.78259578259578,13.367912295178593,80.51678051678051,278.6867853353766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846090401:0812/pct:31.92279138827023,4.455445544554456,26.834941846077704,92.88464560741788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ article and resolution therein contained, according to the
 true intent and meaning thereof.  
 John Wes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846090401:0812/pct:136.36768636768636,134.70470352469644,39.575289575289574,15.147942944712955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846090401:0812/pct:45.44914625092799,44.896275341819894,13.189804503835685,5.048719157630049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,7 @@ TMrdly. Thst we will not hereafter, directly or indirectly,
 h goods hereafter enumerste.l, cither for sale f?, our own  
 ~i 7&#x27;^ ?|&gt;tnK c?Jer, fmrry, l^er, ale, porter, mail, pease
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846090501:0420/pct:5.23404255319149,61.011707532582285,15.886524822695035,31.157499447757896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846090501:0420/pct:5.243498817966903,61.01538914660187,15.881796690307329,31.161181061777484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -884,7 +884,7 @@ of the member* of thi* aaaoriation.
 iSignedin Williamsburg, thi* tld of Juiu, 1770.  
 Peyton Randolph, Moderator (ieorge l&lt;oga
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846090501:0420/pct:20.907801418439718,36.65783079301966,15.617021276595745,10.282747956704219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846090501:0420/pct:20.907801418439718,36.66151240703925,15.626477541371159,10.286429570723806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -914,7 +914,7 @@ and to prevent the levy of any others in luture.?
 And yet we are told in substance by the National  
 Intelligencer and Richmond Whig, that the en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846090801:0104/pct:58.696296296296296,78.21819914244878,13.688888888888888,6.793711291090996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846090801:0104/pct:58.696296296296296,78.22455137367,13.698765432098766,6.790535175480388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1135,7 +1135,7 @@ declared by a general meeting of the members of
 this association.  
 Signed in Williamsburg, this vhJd of June, 17/0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846090801:0104/pct:58.77037037037037,4.344926155312053,27.362962962962964,93.48261076703191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846090801:0104/pct:58.77530864197531,4.348102270922662,27.362962962962964,93.48261076703191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1375,7 +1375,7 @@ Signed in Wiltiamsburg, this 224 of June,
 P. Randolph, Mod. George Logan  
 A. Sprowle, Chairman? Hutching
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846091601:0774/pct:48.522427440633244,11.223491027732463,80.4353562005277,272.0500271886895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846091601:0774/pct:16.172008969792902,3.7407568508046976,26.808248691905202,90.67348122372046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1403,7 +1403,7 @@ here to and abide by every article and resolu­
 tion therein contained, according to the true  
 intent and meuning thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846091601:0774/pct:128.98416886543535,85.93800978792822,38.64116094986807,19.978249048395867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846091601:0774/pct:42.989051576309194,28.642888212266204,12.878687947940026,6.6586921850079746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1467,7 +1467,7 @@ per yard, linens of more than as, sterling per yar,
   
 tex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846092401:0366/pct:87.7630553390491,19.929865575686733,171.5510522213562,199.00642898889538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846092401:0366/pct:21.940763834762276,4.982466393921683,42.88776305533905,49.751607247223845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1634,7 +1634,7 @@ ing of one hundred associators, after one month&#x27;
   
 public notice, shall determine otherwise, the twelfth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846092401:0366/pct:145.05066250974278,60.25715955581531,59.85970381917381,201.6949152542373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846092401:0366/pct:36.262665627435695,15.064289888953828,14.964925954793452,50.42372881355932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1656,7 +1656,7 @@ We, his Majesty&#x27;s most dutiful and loyal subjects
   
 of Firginia, declaring our inviolable and unshaken? article of this agreement still and forever contin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846092401:0366/pct:88.2307092751364,253.8281706604325,115.82229150428682,9.994155464640562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846092401:0366/pct:22.0576773187841,63.457042665108126,28.955572876071706,2.4985388661601404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1676,7 +1676,7 @@ Britain, and our firm determination to support, at
   
 stead of vielding epern thing to the South, as thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846092401:0366/pct:33.35931410756041,265.8094681472823,120.26500389711613,99.59088252483927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846092401:0366/pct:8.339828526890102,66.45236703682058,30.066250974279033,24.89772063120982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1777,7 +1777,7 @@ quences, and proceed to publish an account of their
   
 conduct.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846092401:0366/pct:88.62042088854248,269.1992986557569,59.46999220576773,108.82524839275277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846092401:0366/pct:22.15510522213562,67.29982466393922,14.867498051441933,27.206312098188192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1811,7 +1811,7 @@ frus intenl and meaning thereof.
 John West James Stenurt Will. Balmain  
 William Ramsay Thomas Carson Richard Harriso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846092401:0366/pct:150.42868277474668,347.57451782583286,56.897895557287605,23.9041496201052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846092401:0366/pct:37.60717069368667,86.89362945645821,14.224473889321901,5.9760374050263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1895,7 +1895,7 @@ know that it is the opinion and request of the
   
 country that such goods shall not be opened or a host when he begins,-happened&#x27; to be about
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846103001:0337/pct:69.48640483383686,146.6877424917373,98.86706948640483,117.60310389423768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846103001:0337/pct:17.37488196411709,36.67193562293433,24.721435316336166,29.40077597355942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2067,7 +2067,7 @@ Lastly.
 te oeee e e  e    e  e  
 That these resolves shall be binding ona e to a a eterin te t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846103001:0337/pct:50.83081570996979,62.53772093691622,167.06948640483384,299.4108348900704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846103001:0337/pct:12.71010387157696,15.634430234229056,41.7752596789424,74.8527087225176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2100,7 +2100,7 @@ Signed in WFiliamshurg, this 22d of June, 1770.
 PEYTON RANDOLPII, Moderator.  
 Andrew Sprowle, Chair. Thomas lefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846103001:0337/pct:119.48640483383686,191.2918522776261,82.02416918429003,30.234229055898837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846103001:0337/pct:29.87724268177526,47.822963069406526,20.509915014164307,7.558557263974709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2393,7 +2393,7 @@ conform to the spirit of the Association, and
 to avoid purchasing anything whatever of  
 any importer or seller of British or Europea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859112901:0513/pct:15.822021116138764,24.867035710409205,37.405731523378584,26.15868880929122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859112901:0513/pct:5.274007038712921,8.289011903469735,12.468577174459528,8.719562936430407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2443,7 +2443,7 @@ tured leather neither oil or parnters&#x27; colors. if both,
 or either of them be subject to any duty after the  
 1st of December next.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859112901:0513/pct:15.535444947209653,58.04840985563877,37.69230769230769,33.4852925214371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859112901:0513/pct:5.178481649069885,19.34946995187959,12.564102564102564,11.161764173812367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2540,7 +2540,7 @@ at may
 be imported by others, after the 1st  
 day of November next, unl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030931:1887061901:0690/pct:188.23975720789073,221.38566694283347,35.61456752655539,17.48135874067937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030931:1887061901:0690/pct:62.74658573596358,73.79522231427782,11.871522508851795,5.827119580226457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

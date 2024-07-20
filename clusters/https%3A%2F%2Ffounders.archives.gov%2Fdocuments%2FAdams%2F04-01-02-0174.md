@@ -279,7 +279,7 @@ bodies over him.
 ” ‘ Nor writ his name whose tomb should pierce the  
 skies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00205958198:1872111001:0003/pct:42.18891096261513,43.96440546814547,11.919812172656673,10.033531080732525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00205958198:1872111001:0003/pct:42.19342604298357,43.974077895279855,11.924327253025103,10.023858653598143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

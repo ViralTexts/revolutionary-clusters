@@ -206,7 +206,7 @@ you co him fur a more foil account.
 your molt huinbic snd obedient frrvant.  
 “ THO HU rvHINaON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773061701:0435/pct:37.675977653631286,2.4369629525285252,55.95530726256983,121.14382307367235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773061701:0435/pct:29.209721179934192,1.8922852983988354,43.36431334064538,93.88646288209607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

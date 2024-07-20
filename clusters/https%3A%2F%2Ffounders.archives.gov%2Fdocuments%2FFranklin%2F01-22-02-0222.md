@@ -343,7 +343,7 @@ would enter into any treaty or alliance
 with them for commerce or defense,  
 or both, and the outcome was a serie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn84036012:0021247728A:1899061101:0989/pct:93.46153846153847,202.97379032258064,38.205128205128204,7.913306451612903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn84036012:0021247728A:1899061101:0989/pct:31.153846153846153,67.65793010752688,12.735042735042734,2.637768817204301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ dependent state, France would enter
 into any treaty or alliance with them  
 for commerce or defense, or both, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_acacia_ver01:data:sn94051341:00212476456:1899071501:0088/pct:32.016210739615,74.77647867950482,22.391084093211752,16.127922971114167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_acacia_ver01:data:sn94051341:00212476456:1899071501:0088/pct:24.02432843385707,56.08665749656121,16.827166751140396,12.104539202200826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ dependent state, France would enter
 into any treaty or alliance with them  
 for commerce or defense, or both, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_boozer_ver01:data:sn95060636:00414216638:1899072101:0524/pct:17.441860465116278,64.85287754218953,14.744832041343669,10.796192124621376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_boozer_ver01:data:sn95060636:00414216638:1899072101:0524/pct:17.44724375538329,64.85648348478293,14.750215331610681,10.803404009808164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ dependent state, France would enter
 into any treaty or alliance with them  
 for commerce or defense, or both, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:00340582433:1899072701:0541/pct:18.513149720439014,56.09831029185868,12.611306688755436,2.4731182795698925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:00340582433:1899072701:0541/pct:18.509316770186334,56.08969436338504,12.613871635610765,2.4765780986023653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

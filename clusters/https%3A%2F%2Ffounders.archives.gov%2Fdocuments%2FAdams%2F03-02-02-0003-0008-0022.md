@@ -447,7 +447,7 @@ Their dearest action in the temed field;
 And little of this great world can I speak,  
 More than pertains to feats of broil and battle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877935:1842052401:0470/pct:4.1450777202072535,91.91343963553531,19.530800230282097,12.9498861047836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877935:1842052401:0470/pct:3.109703426432479,68.94077448747153,14.655917074575296,9.715261958997722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ And little of this great world can I speak,
 .More than pertains to feats of broil and  
 and battle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1842070701:0023/pct:8.16179126038281,44.17551126067823,13.831708197905382,12.645612218483045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1842070701:0023/pct:8.160317746885719,44.16979422803158,13.835228982367456,12.648289547474224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ Their dearest action in the tented field:
 And little of this great world can I speak,  
 More than pertains to feats of broil and battle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1857110601:0641/pct:88.69375907111757,79.183908045977,42.75761973875181,32.58620689655172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1857110601:0641/pct:29.564586357039186,26.39463601532567,14.252539912917271,10.862068965517242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ Their dearest action in the tented field;
 And little of this great world can I speak,  
 More than pertains to feats of broil ana battle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862725:1867072501:0120/pct:2.6933333333333334,19.756867112100966,14.28,9.010764662212324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862725:1867072501:0120/pct:2.7022222222222223,19.763053699579313,14.275555555555556,9.010764662212324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ Their dearest action in the tented field;
 And little of this great world can I speak.  
 More than pertains to feats of broil and battle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:0041421552A:1868061901:0308/pct:44.876543209876544,37.47134342044934,12.376543209876543,8.447959651535992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:0041421552A:1868061901:0308/pct:44.88683127572016,37.475164297722756,12.371399176954732,8.447959651535992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

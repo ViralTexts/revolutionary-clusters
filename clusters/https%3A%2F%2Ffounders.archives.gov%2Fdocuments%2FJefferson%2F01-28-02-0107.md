@@ -94,7 +94,7 @@ things, which the Government had so­
 lemnly announced to us, the fame as  
 had the Canton of Zurich, a band o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794110401:0002/pct:43.36492890995261,73.06163021868787,16.324381253291207,11.481113320079523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794110401:0002/pct:43.384676145339654,73.06577203445991,16.324381253291207,11.485255135851558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ that, animate us, you will redouble your
 »clivity and zeal in the execution of  
 this present ordinance.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794110401:0002/pct:43.68088467614534,4.870775347912525,31.911532385466035,85.22200132538104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794110401:0002/pct:43.69404949973671,4.870775347912525,31.90494997367035,85.23856858846918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ bore all, how rapid and inevitable it ij t&quot;
 trausgrefs the feeble in&#x27;tcjval which* &#x27;epa.  
 rates the abuse of liberty from its ruin !&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794121601:0003/pct:57.6993945775204,42.95820993747943,16.346406949197156,5.610398157288582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794121601:0003/pct:57.70597525664649,42.96643632773939,16.346406949197156,5.614511352418559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ ifts on the continent of Europe, the ex.
 feme danger of foreign influence ; and a.  
 bove all, iiow rapid&#x27;and inevitable i; is t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794121801:0003/pct:55.73598742797276,82.37745915305102,16.919853326348875,4.568189396465488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794121801:0003/pct:55.74253535882661,82.38996332110703,16.926401257202723,4.568189396465488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ bove all, how rapid and ineritsble it is t&quot;
 transgress the feeble interval -&#x27;which fepa  
 rates the abuse of liberty, from its rain &#x27;.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794121901:0003/pct:56.60079051383399,76.58796142334553,16.310935441370223,5.670103092783505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794121901:0003/pct:56.613965744400524,76.59211839042234,16.304347826086957,5.674260059860326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ hove all, how rapH and inevitable it is to
 traisgrels the feeble interval which &#x27;epa.  
 iates the abuse of liberty from its ruin !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794122001:0003/pct:55.16973309147448,76.34211403801267,15.988598082404769,5.65188396132044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794122001:0003/pct:55.18268981601451,76.34628209403134,15.975641357864731,5.668556185395132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ bo»e all, how rapid a&gt; dinevitable it is to
 transgrels &#x27;he feeble interval which fepa.  
 rates the abuse of liberty Irom its ruin !&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794123001:0002/pct:7.316421895861148,74.86963835155593,16.528704939919894,5.6854499579478555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794123001:0002/pct:7.316421895861148,74.8780487804878,16.528704939919894,5.681244743481917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ bove all, how rapid and iiitriutable it is* to
 transgress the feeble interval which iepa«&#x27;  
 rates the abase of liberty fron) its ruin ! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794123101:0003/pct:74.4964687418258,69.43056943056943,16.374574941145696,5.644355644355644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794123101:0003/pct:74.51608684279361,69.43889443889444,16.381114308134972,5.64019314019314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ bove all, how rapid and inevitable it is to
 transgrcfs the feeble interval which fepa,  
 rates the abuse of liberty from its ruin !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795010501:0003/pct:74.6352700281546,79.5163122869664,15.817762989506015,5.502353514039928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795010501:0003/pct:74.64166879959048,79.52037006979387,15.836959303813668,5.522642428177244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ treine danger of foreign influence ; and a.
 transgreft &#x27;he feeWe interval which lepa. [  
 rates the abuse Al&#x27; liberty from its ruin !&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795010701:0002/pct:10.083594566353186,64.35452793834297,16.901776384535005,13.102119460500964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795010701:0002/pct:10.09012539184953,64.36657032755299,16.90830721003135,13.102119460500964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ bove all, how rapid and inevitable it i» to
 transgress the feeble interval which lent  
 rases the abu&#x27;t of liberty from its ruin ! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795011301:0002/pct:9.177972865123703,82.4853228962818,16.147911678637936,5.463144161774299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795011301:0002/pct:9.177972865123703,82.49755381604696,16.147911678637936,5.467221135029354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ re bore all, how rapid and inevitable it is tn
 transgress the feeble interval which fepa  
 rates the abuse of liberty from its ruin 1 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795011401:0003/pct:39.138240574506284,82.91803278688525,16.927417286483713,6.229508196721311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795011401:0003/pct:39.138240574506284,82.93032786885246,16.933829186971018,6.233606557377049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ preached the moll extreme principles of the French
 pro- andfeemed to aspire to imitate them in every thing t  
 ■flies, ijr to delivei themselves up to them.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796042901:0002/pct:48.60248447204969,15.901530272787758,23.91304347826087,6.170991350632069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796042901:0002/pct:48.60248447204969,15.914005322687958,23.93245341614907,6.170991350632069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

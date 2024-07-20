@@ -68,7 +68,7 @@ of them in declaring the United Colonies free
 and independent, Sec.” was read in Congress—  
 on the second of July the committee of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072801:0614/pct:4.755525787006028,6.400721208023439,17.598794373744138,3.132747351814289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072801:0614/pct:4.75472961660807,6.4,17.601428651152407,3.136150234741784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ United Colonies or a majority of them in declaring
 the United Colohies free and independent, &amp;tc.”  
 was read in Congress—on the second of July th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080801:0110/pct:23.465813918075224,65.6053143969763,14.039896451956754,4.065971824533272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080801:0110/pct:23.462241169305724,65.59780119102153,14.042833942346732,4.069323560848985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ could, till at length the Jersey gentlemen said they
 were fully satished and ready for the question, which  
 was then put, and determined in the affirmatire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851090101:0422/pct:251.80017226528855,73.91817002711944,47.045650301464256,117.5451008135833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851090101:0422/pct:83.93339075509618,24.639390009039815,15.681883433821419,39.18170027119444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ Dickinson, a brother of Gen. Philemon
 Dickinson, of New Jersey, an officer whom  
 Washington frequently mentions wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:0051701655A:1855101801:0067/pct:57.109204105670536,59.417698889030774,12.09826686858489,3.6010726599412592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:0051701655A:1855101801:0067/pct:57.09959623149394,59.41011235955056,12.100437415881562,3.603804902962206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -624,7 +624,7 @@ The resolution agreed to hy the coaimitbe
 thurenf sras, at the request of a colons post  
 I&#x27;oncd until to-morro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1856071001:0148/pct:2.864188163884674,48.95367296868235,12.38619119878604,13.42185019483331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1856071001:0148/pct:2.870510875063227,48.95367296868235,12.392513909964594,13.431471592822437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ ingeuuity and eloquence, but with equal polite­
 ness and candor, and was answered in the same  
 snirit.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857070101:0293/pct:70.30643650475044,44.59546925566343,12.632142379231901,6.490984743411928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857070101:0293/pct:70.29702970297029,44.59134615384615,12.634912139862635,6.493466469428008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ II He conducted the debate not only with great inge&lt;
 h nuity aud eloquence, but with equal politeness and  
 t candor, Hnd was answered in the same spirit.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857070701:0239/pct:30.46829552065154,76.32664541533846,14.267015706806284,1.200075004687793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857070701:0239/pct:30.46829552065154,76.32977061066316,14.271863486523172,1.2063253953372086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ was ashamed to repeat what I had said
 could be advanced by me. The New Jersey ge  
 g willing to speak, I summed up the r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475397:1857111601:1385/pct:130.23399014778326,34.53703703703704,77.70935960591133,249.62962962962962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475397:1857111601:1385/pct:43.41133004926108,11.512345679012345,25.90311986863711,83.20987654320987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -838,13 +838,13 @@ Dickinson, a brother of Gen. Philmon
 Dickinson, of New Jersey, an officer whom  
 Washington frequently mentions with hono
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1858061001:0021/pct:43.45454545454545,77.94617701350433,14.853146853146853,4.809093558729233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862695:1858061001:0021/pct:43.45454545454545,77.94941546034522,14.862470862470863,4.815570452411023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States democratic review_](https://archive.org/details/sim_united-states-democratic-review_1858-07_42/page/n94/mode/1up?view=theater)
+## [From _The United States Democratic Review (1856-1859)_](https://archive.org/details/sim_united-states-democratic-review_1858-07_42/page/n94/mode/1up?view=theater)
 
 #### 1858-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -904,7 +904,7 @@ with equal politeness and candor, and was
 answered in the same spirit.”  
 Dickinson, a .brother of Gen. Philma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858070301:0315/pct:44.13606363174818,26.98055812723185,12.117109493992215,2.6054754662081736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858070301:0315/pct:44.12859560067682,26.97699021422904,12.119289340101522,2.608436921449352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ ingenuity and eloquence, but with equal po
 liteness and candor, and was answered in the  
 same spirit.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858071101:0037/pct:74.69613259668509,293.88535031847135,37.67955801104972,22.929936305732483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858071101:0037/pct:18.68177421583529,73.47133757961784,9.423794389940584,5.732484076433121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -972,7 +972,7 @@ determination thereof Was, at the request of
 a Colony, postponed till to-morrow &quot; That  
 Colony was Sotith Carolina, whose delegates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1859072101:0288/pct:91.1361954108068,101.63561371070972,17.1539600296077,4.40904565495662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1859072101:0288/pct:68.36942439385527,76.2338216469919,12.881732370905052,3.299672877257858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ other measures as shall be adjudged necessary
 for securing the liberties of America; and that  
 said Colony will hold itself bound by the resolu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071101:0050/pct:72.35697940503432,111.10526777105794,49.016018306636155,15.812078183889911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071101:0050/pct:18.08924485125858,27.776316942764485,12.254004576659039,3.9530195459724777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1114,7 +1114,7 @@ great ingenuity and eloquence, but
 with equal politeness and candor, and  
 was answered in the same spirft.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293046:1871070401:0016/pct:64.21173762945915,375.26003802706634,37.9746835443038,9.350184543115983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293046:1871070401:0016/pct:16.057553956834532,93.81500950676659,9.496402877697841,2.3375461357789957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1144,7 +1144,7 @@ quires that they should declare the causes whioh
 impel them to the separation.  
 “We hold these truths to be sel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872070401:0006/pct:1.399130270372471,40.27313671364231,11.495556816033277,5.4336771756501525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872070401:0006/pct:1.4085838532803934,40.27313671364231,11.500283607487237,5.44094144994915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1186,7 +1186,7 @@ The resolution agreed to by the committee i
 UcreofWMf at th„ request of a colony, post- *  
 poned until to-morrow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874070401:0157/pct:2.6288974933768086,79.56973293768546,11.412268188302425,14.495548961424332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874070401:0157/pct:2.6288974933768086,79.57962413452027,11.43264723863868,14.490603363006924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1317,7 +1317,7 @@ said laughing: &quot;Nobody will speak but you
 &quot;ready, you must satisfy the gentleman from  
 &quot;New Jersey.&quot; He further adds that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876070401:0012/pct:156.0,183.54413874038337,44.14035087719298,14.186986569304993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876070401:0012/pct:39.02053712480253,45.886034685095844,11.040898718623836,3.5467466423262484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1378,7 +1378,7 @@ the debate not only with great ingenuity aud
 eloquence, but with equal politeness and candor,  
 and was answered in tliesnme spirit.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1881101301:0317/pct:30.22771633051399,82.91329269402239,14.43070917371503,2.3291784187062143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1881101301:0317/pct:30.22771633051399,82.91329269402239,14.43070917371503,2.3352439875049282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1551,7 +1551,7 @@ committee o foffhree to proceed to Que
 bee to wip over the Canadians to a  
 union witJr tneffcolonies Appointed o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn93062856:0020653574A:1899123001:0100/pct:43.02581863979849,126.68592378624598,18.90743073047859,9.45450505499389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn93062856:0020653574A:1899123001:0100/pct:28.69291338582677,84.45728252416399,12.614173228346457,6.306706662222716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

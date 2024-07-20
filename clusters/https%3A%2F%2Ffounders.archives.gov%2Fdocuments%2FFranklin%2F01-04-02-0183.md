@@ -585,7 +585,7 @@ the vanity to think 1 deferve it, tne fol-
 I] to expect it, nor the ambition to de­  
 it, hui C&#x27;litent myfeli in lubmi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804110901:0001/pct:59.55363242997039,26.934544938236545,19.107264859940788,41.30342183728525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804110901:0001/pct:59.568815000379566,26.944010601542903,19.122447430349958,41.29868900563207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ and firminefs,
 Being your Friend and 3ervant,  
 BENJAMIN FRANKLIN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804112701:0603/pct:57.38039215686275,5.542725173210162,33.91372549019608,87.82717474980754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804112701:0603/pct:57.38562091503268,5.5459327687965105,33.91372549019608,87.83358994098025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -841,7 +841,7 @@ lement, l have* received much kindness
 font men to whom l shall never have any  
 ib t iflnui&#x27;f of • I ~ \.. J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804122901:0418/pct:77.80713342140027,18.84467265725289,17.305151915455745,15.198973042362002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804122901:0418/pct:77.79245283018868,18.84225388268515,17.30817610062893,15.201300646044581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ that whoever omits them offends God, I I
 health and happiness, being ■  
 Your fiicnd and servant, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804122901:0418/pct:77.69390451028497,42.88831835686778,20.456689941498396,49.52503209242619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804122901:0418/pct:77.67924528301887,42.882813502759596,20.459119496855347,49.522953835622296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1357,7 +1357,7 @@ firmnels. = _
 Being your friend and servant,  
 BENJAMIN FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807051901:0502/pct:7.210567210567211,1.197901197901198,35.042735042735046,88.86248886248886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807051901:0502/pct:7.220927220927221,1.2012012012012012,35.042735042735046,88.86578886578887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1966,7 +1966,7 @@ health *:id happiness, being your friend
 and set vaui,  
 15. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816102301:0117/pct:22.952732931336318,4.40771349862259,36.04357128963237,92.52262888626525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816102301:0117/pct:22.94826915597044,4.4071353620146905,36.043044211072214,92.51486533753061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2234,7 +2234,7 @@ Deing your friend and servant,
 BENJAMIN FRANKLING.  
 DT 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816111301:0385/pct:75.3935046822076,11.69009256085019,21.896792189679218,67.21517540852474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816111301:0385/pct:75.40014611144318,11.69771073782044,21.896792189679218,67.21517540852474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3400,7 +3400,7 @@ wish to such more humility, aud to you
 health and happiness; being your friend  
 and servant, B. FRANKLIN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1820010401:0279/pct:28.192534381139488,30.319395155068662,17.215127701375245,33.94537879956797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1820010401:0279/pct:28.18561257058679,30.314717679728478,17.217039037564447,33.94399876581302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3531,7 +3531,7 @@ and to you health and firmnefs.
 Being your friend and servant,  
 BENJAMIN FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820040401:0056/pct:9.639588100686499,6.690549961270333,34.21052631578947,86.15414407436096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820040401:0056/pct:9.639588100686499,6.693777433514072,34.215293668955,86.15091660211722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3972,7 +3972,7 @@ and firmness ? bein^ your friend ant
 servant,  
 (Bbnjamin Frakkiih.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821082201:0182/pct:5.4646840148698885,4.4064962980654405,36.858736059479554,89.78982565082399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821082201:0182/pct:5.477075588599752,4.4064962980654405,36.87112763320942,89.79778680041397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4477,7 +4477,7 @@ Being your friend and servant,
   
 BENJAMIN FRANKLIN”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1821101001:0161/pct:9.049255441008018,3.912270302311796,43.06987399770905,90.7883817427386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1821101001:0161/pct:9.049255441008018,3.9201738786801026,43.08260150184549,90.79233353092275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4916,7 +4916,7 @@ more humility, and to you health and hap
 pities* : Iwing vuurfiiend and servant.  
 11- IK A Mi LIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823031401:0252/pct:80.93525179856115,47.019188516185736,15.467625899280575,28.724183389482935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823031401:0252/pct:80.91812989210916,47.01230228471002,15.46964247937381,28.723637961335676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6663,7 +6663,7 @@ humility ; and to you, health and happi­
 ness ; being your friend and servant,  
 B. FRANKLIN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1828120401:0502/pct:23.98575103898674,6.870439212446647,35.088066495151395,91.05053008398734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1828120401:0502/pct:23.981005144440047,6.869493392070485,35.086070439256034,91.04143722466961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7166,7 +7166,7 @@ if a tree should value itself upon being water­
 ed and putting forth leaves, though it pever  
 producod any fruit.” How important is exa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1832030701:0085/pct:5.345086271567892,35.135516657255785,15.491372843210803,16.826651609260306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1832030701:0085/pct:4.142441860465116,27.237254758952666,12.020348837209303,13.04427102326599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7228,7 +7228,7 @@ the disposal of that G d wh made me—wh has
 in herto preserved at. &#x27; » lessee! me—aid i» v !. *q  
 I &#x27;herly goodness I may well confine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832101001:0092/pct:71.62872154115587,26.89001929486055,17.212909682261696,28.48623048587967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832101001:0092/pct:71.61080540270135,26.885303402314978,17.214857428714357,28.4856190810242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7254,7 +7254,7 @@ tearing or reading; performing set ceremonies,
 &gt;r making long prayers, filled with compliments  
 •id flatteries, de puted even by wise me«, muc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832101001:0092/pct:71.7788341255942,55.99017716190142,16.887665749311985,7.244343097702157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832101001:0092/pct:71.7608804402201,55.980357769203785,16.889694847423712,7.247457032620133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7294,7 +7294,7 @@ wish to such, m rc In-militv ; and to v. . * h
 : 1 ud ha Dpi ness.  
 BENJAMIN FRANKLI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832101001:0092/pct:71.47860895671754,68.21610243816875,17.287965974480862,15.523592352218909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832101001:0092/pct:71.46073036518258,68.20413889863205,17.289894947473737,15.525254296737987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8261,7 +8261,7 @@ such more humility, and to you health and firm
 ness. Being your friend and servant,  
 eBERAMIN FRANELIN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842110301:1148/pct:95.23505976095618,40.58927519151444,39.21912350597609,105.62168532704773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842110301:1148/pct:31.739961759082217,13.52816403488098,13.070958147439983,35.20307958205672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8371,7 +8371,7 @@ God. I wish to such more bumility, and to you
 health and Firmness--being your friend and ser.­  
 ant. s a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842110501:0342/pct:3.5223880597014925,108.24320067205713,50.76119402985075,162.53281528929958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842110501:0342/pct:1.1741293532338308,36.08106689068571,16.920398009950247,54.1776050964332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8495,7 +8495,7 @@ to sucti more humility, and to von health and
 firmness. Being yovr friend nnrl ffprt:i».t.  
 Brnjamiv FRAWlcr.»lf.,,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842111801:0403/pct:64.6374829001368,14.012823055059819,30.91655266757866,81.66435322889814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842111801:0403/pct:64.63116756228628,14.011896893588895,30.91678879661293,81.66115884556069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8614,7 +8614,7 @@ mility, and to you health and Firmness--being
 your friend and servant,  
 BENjAMIN FRANKLIs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842111901:0479/pct:193.65671641791045,60.45572541101817,118.95522388059702,315.54658205941735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842111901:0479/pct:48.42321328606083,15.113931352754543,29.744355290166077,78.88664551485434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9068,7 +9068,7 @@ and to you health and firmness. Being your friend and
 servant.  
 BENJAMIN FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028889:00296027364:1842120101:0358/pct:33.13304721030043,47.62552934059286,22.76824034334764,73.4573502722323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028889:00296027364:1842120101:0358/pct:24.865793429246295,35.72292800967937,17.092548851191754,55.09679370840895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9200,7 +9200,7 @@ to such more humility, and to you health
 and firmness. Being your friend and servant  
 BENJAMIN FRANKLIN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863092:1842120101:0437/pct:2.527924750146972,10.457433290978399,39.91769547325103,87.67471410419314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863092:1842120101:0437/pct:2.53445685544451,10.457433290978399,39.93729178914364,87.68318509106311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9231,7 +9231,7 @@ tutes an essential part of their education, sened in any man; but I wish it were
 The music master of our academy has fur. ductive of more good works than I have  
 nished me with an observation still more in seen; I mean real good works--works o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842120601:0377/pct:276.73501577287067,64.2502631974733,106.38801261829653,33.62911716047526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842120601:0377/pct:69.21104536489152,16.062565799368326,26.60749506903353,8.407279290118815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9260,7 +9260,7 @@ Some three years since, a family of the it never produced any fruit.
 first standing in our city, was called to! Our Good Master thought less of these  
 mourn the loss of a father who had toiled outward appearances than many of his mod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842120601:0377/pct:276.49842271293375,97.5184238231313,106.38801261829653,33.38847947059708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842120601:0377/pct:69.15187376725838,24.379605955782825,26.60749506903353,8.34711986764927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9283,7 +9283,7 @@ to the conte here oe eaon ee e e  e e
 The journey was commenced, but on thei a e decares shal a the a a  
 same evening, the old lady was returned to be accepted, when those who cry lor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842120601:0377/pct:276.49842271293375,139.69017897428185,106.30914826498423,16.483681756655137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842120601:0377/pct:69.15187376725838,34.92254474357046,26.587771203155818,4.120920439163784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9369,7 +9369,7 @@ such more humility, and to you health and
 firmness--being your friend and servant,  
 BENIAMIN FRANELIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842120601:0377/pct:275.94637223974763,55.16619040457211,107.49211356466877,327.38757707926004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842120601:0377/pct:69.0138067061144,13.791547601143028,26.8836291913215,81.84689426981501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9512,7 +9512,7 @@ such more humility, and to you health and
 firmness. Esing your friend and servant,  
 BENIAMIN FRASELIa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1842123101:0421/pct:242.2749290128612,37.260308309311945,39.18490061800568,148.25166060909888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1842123101:0421/pct:80.75830967095374,12.420102769770647,13.061633539335226,49.41722020303296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9694,7 +9694,7 @@ form miruclfsf bot have neglected good
 works, shalf be neglected. He profes?d  
 that-hacaiile not to call the righteous but
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197218:1843020101:0060/pct:46.96514423076923,15.944503735325506,19.83173076923077,13.564567769477055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197218:1843020101:0060/pct:35.24725687659702,11.963713980789754,14.880505035322411,10.17075773745998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9724,7 +9724,7 @@ much kindness from men, to. whom . I
   
 shall never have an opportunity of mak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197218:1843020101:0060/pct:7.752403846153846,80.13874066168623,39.46814903846154,6.7982924226254005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197218:1843020101:0060/pct:5.816924695626033,60.10672358591248,29.62573275214189,5.101387406616863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9814,7 +9814,7 @@ France, is a full mulatto, his, father being
 a co Ttplete ngro&quot;, from one of the West  
 India islands. He nasi, nevertheless, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197218:1843020101:0060/pct:28.079927884615383,82.4546424759872,39.54326923076923,42.44397011739594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197218:1843020101:0060/pct:21.073200060123252,61.84631803628602,29.67082519164287,31.83564567769477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9966,7 +9966,7 @@ i hese kindnesses from men, we can therefore
 only show cur gratitude to God by a readi­  
 ness to help his other childien, and our brot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1843063001:0225/pct:72.11149624494512,6.2811791383219955,20.912767186597343,11.961451247165533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1843063001:0225/pct:54.11067764773877,4.716553287981859,15.691374078890334,8.968253968253968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10795,7 +10795,7 @@ plied bia modest opinion, thnt there wero
 soiito iu his lime so good that they needed  
 lint hear wen him, bin iiow-n-days we hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1851031501:0257/pct:70.6601466992665,27.328525395120455,18.80603096984515,67.25487187356146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1851031501:0257/pct:53.00590992459751,20.500230167254873,14.122681883024251,50.45266226791468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11013,7 +11013,7 @@ to such more humility, and to you, sir, more
 health and happiness, being, &lt;kc.  
 U. FRANKLIN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028393:1851032701:0182/pct:67.62985286296755,24.728605667559567,12.23187378124446,60.002819681376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028393:1851032701:0182/pct:67.641671098505,24.733305136519572,12.23187378124446,60.01221861929602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11151,7 +11151,7 @@ whoever omits them, offends God. 1 w ish
 to such more humility and to you, sir, more  
 Leal ill and happiness, being, etc. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1851040901:0065/pct:50.41816009557945,24.630487535848225,14.934289127837514,61.449371277299804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1851040901:0065/pct:50.423138191955395,24.630487535848225,14.934289127837514,61.45672475917347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11269,7 +11269,7 @@ to such, humility, and to you, health and hap­
  being your friend and servant,  
 B. FRANRLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1851060601:0280/pct:13.536763512416815,75.9132167367722,38.67878591137802,181.3593092760682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1851060601:0280/pct:4.51152223304122,25.301604869950193,12.890836308557828,60.44641210108836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11301,7 +11301,7 @@ ccach othery much loss to oue Crentor,
 | You will «oe in this, my notion of rool  
 works, that I do not expeet to meit Loa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn92064003:00340587996:1851070301:0066/pct:58.96702877834953,70.04138809296403,17.495711835334475,15.154409423750398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn92064003:00340587996:1851070301:0066/pct:58.973381614891046,70.04138809296403,17.502064671875992,15.165021755279636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11513,7 +11513,7 @@ I wish to such more humanity, and to
   
  Hippecrates and Bacchus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854041801:0255/pct:3.927729772191673,49.20750327177549,109.66221523959152,85.32790460956812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854041801:0255/pct:0.9819324430479183,12.301875817943872,27.41555380989788,21.33197615239203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11540,7 +11540,7 @@ your good offices go round, for man-
   
 kind are all of a family. For my own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854041801:0255/pct:4.32050274941084,134.1864184964374,110.36920659858602,22.858804711356697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854041801:0255/pct:1.08012568735271,33.54660462410935,27.592301649646505,5.714701177839174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11574,7 +11574,7 @@ o o tin tat ta a co e o te eo ei i
 e charge our real obligations to each other o, gradatim, post prandium, hauriend,  
 ud much less to our Creator. You et repr si opis fuerit&quot;--a boule of wine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854041801:0255/pct:0.0,159.13915951723135,116.8892380204242,47.3462265522757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854041801:0255/pct:0.0,39.78478987930784,29.22230950510605,11.836556638068926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11849,7 +11849,7 @@ his petty ministrations, and that whosoever
 ! health and happiness. 13. 1&#x27;uANKUK.  
 From the New York Recorder
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340160:1854090201:0375/pct:6.21840242669363,17.470355731225297,25.092686215032018,76.96969696969697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340160:1854090201:0375/pct:6.217354675652906,17.468054274799105,25.092670598146587,76.96285074430246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11933,7 +11933,7 @@ we have scarce a little par ton that does not think it the duty or
 every man within his reach to ait under his petty ministratiens,  
 ar-d that whoever omits them offencs God. B. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110065:1856010601:0001/pct:5.410152819251713,26.924034869240348,12.13771298085368,18.43088418430884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110065:1856010601:0001/pct:5.414544177059547,26.930261519302615,12.155278412085016,18.43088418430884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11987,7 +11987,7 @@ tion, v.ould be Uiodc^t ill his demands, compared
 with those who think they deserve heaven for  
 the little good they do on earth.—^Letter t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1856013001:0121/pct:40.98215602418522,57.65054294175716,10.957085975519835,11.473072282549085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1856013001:0121/pct:40.98215602418522,57.65054294175716,10.976748758786806,11.48038462944682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12142,7 +12142,7 @@ trations; and that whoever omits them
 God. I wish to such more humility,   
 you health and happiness; being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1857111401:0476/pct:227.39420935412028,70.02150537634408,51.89309576837417,202.95340501792114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1857111401:0476/pct:56.880222841225624,17.50537634408602,12.98050139275766,50.738351254480285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12270,7 +12270,7 @@ I offends God. 1 wish to them rnoro hu­
 mility, and to you, sir, more health and:  
 happiness, being, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1859022501:0511/pct:53.95710059171598,32.9121278140886,14.996301775147929,77.45824255628177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1859022501:0511/pct:41.81713958154199,25.506528590724898,11.627018247826502,60.04052228725799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12401,7 +12401,7 @@ to you health and happiness: being.
 B. Franklin.  
 An Australian, ftom the number o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1859081801:0020/pct:10.017026106696935,13.897901795370972,19.807037457434735,95.12221501189704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1859081801:0020/pct:6.684643769514619,9.26887302617348,13.213170593244394,63.411204845338524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12619,7 +12619,7 @@ be modest in his demands, compared
   
 To Give Tip is to Gain:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296028988:1873120601:0516/pct:72.32451093210587,21.07190819191796,38.83774453394707,19.448174826028566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296028988:1873120601:0516/pct:54.251186879585674,15.810035404712488,29.146885340238814,14.589183249908436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12670,7 +12670,7 @@ those who think they deserve heaven
 for the little good they do on earth.—  
 /VoiiA/in.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028721:1874012201:0625/pct:35.63593627579002,28.095530955309552,9.728388613214939,2.808528085280853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028721:1874012201:0625/pct:35.63593627579002,28.102364356976903,9.728388613214939,2.808528085280853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12705,7 +12705,7 @@ mankind arc all of a family. Foi
 : n -li v ing oth, i , i do not look uj -  
 m myself as eonfening favors, bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1874020401:0674/pct:52.42414763841101,37.057159026598754,12.761964341570222,13.344651952461799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1874020401:0674/pct:52.43457407986654,37.057159026598754,12.761964341570222,13.352197698547444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12772,7 +12772,7 @@ Your good Master thought much
   
 les- of these outward appearance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1874020401:0674/pct:52.42414763841101,17.238256932654217,25.78980294025649,79.20769666100736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1874020401:0674/pct:52.43457407986654,17.238256932654217,25.78980294025649,79.21146953405018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12812,7 +12812,7 @@ fends (7ed.
 to you health and iirmne-s,  
 Being jour friend rnd servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1874020401:0674/pct:65.40506725054739,22.67119411431805,12.808883328120112,17.56649688737974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1874020401:0674/pct:65.41549369200293,22.67119411431805,12.808883328120112,17.577815506508205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13190,7 +13190,7 @@ health and happiness, being your friend and
 servant,.  
 PRAYER OF DR. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653347A:1876042301:1002/pct:267.6056338028169,53.37620578778135,51.074870274277245,140.0175387313651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653347A:1876042301:1002/pct:66.91380908248378,13.344051446945338,12.771084337349398,35.00438468284128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13523,7 +13523,7 @@ friend and servant, B.
   
 FRANKLIN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479305:1876051101:0349/pct:55.89974655026753,15.834386852085967,24.964798648268093,78.77159713442899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479305:1876051101:0349/pct:55.89974655026753,15.834386852085967,24.98357270252511,78.78213232195533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13558,7 +13558,7 @@ debtsy travels and since my settle­
 ? ate received much kindness  
 from God, who is innnarlees. Thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297556:1876051401:1016/pct:101.28928283642225,331.74004192872115,46.97824335213537,46.177498252969954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297556:1876051401:1016/pct:25.327422929679628,82.93501048218029,11.746927261736852,11.544374563242489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13665,7 +13665,7 @@ to such more humility, and to you
 more health and happiness, being your  
 friend and servant, B. FrAnKLin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297556:1876051401:1016/pct:101.85334407735697,19.454926624737947,142.0628525382756,370.6498951781971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297556:1876051401:1016/pct:25.468466653233932,4.863731656184487,35.52286923231916,92.66247379454927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13687,7 +13687,7 @@ duty.. (VThe hearing and reading of
   
 sermons may bo useful; but if men
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876052201:0480/pct:40.6530612244898,15.917475064899577,16.591836734693878,3.975952999043585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876052201:0480/pct:30.496019595835886,11.941522065855992,12.451520718513983,2.9922120508266157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13749,7 +13749,7 @@ modest opinion .&#x27;. that there ;were
 some in his time j.who thought  
 themselves so good that they did
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876052201:0480/pct:40.755102040816325,25.194698729334608,16.877551020408163,21.655963929498565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876052201:0480/pct:30.57766891202286,18.896024047000957,12.67605633802817,16.245388714305232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13787,7 +13787,7 @@ co round. lor mankind are all ol a
   
 tamily. t or my own part, when l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876052201:0480/pct:23.836734693877553,70.74736985927039,17.040816326530614,8.443776472195655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876052201:0480/pct:17.881200244947948,53.06735892881541,12.798530312308634,6.326000819784124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13819,7 +13819,7 @@ by our services. Those kindnesses pastor r was tne reply, ana a ae­
 from men I can therefore only re- scription was given of the magnifi­  
 f,, m, flmir fnllnw-men. and I cent closing spurt with which the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876052201:0480/pct:10.714285714285714,78.93154802568657,47.48979591836735,10.069681650498701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876052201:0480/pct:8.042457644417228,59.202076786446234,35.63992651561543,7.555677005055335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13878,7 +13878,7 @@ best authority that they meet to
   
 it. Giles&#x27;, where they concoct their
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876052201:0480/pct:6.8979591836734695,103.8666484492417,51.63265306122449,14.564831261101244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876052201:0480/pct:5.184731577873035,77.9068178712939,38.72218820167381,10.93045498018855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14005,7 +14005,7 @@ to such more humility, and to you health
 and happiness, being your triend and  
 servant.B. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022795:no_reel:1876052701:0076/pct:36.8874661413445,29.941324392288347,91.33218419108594,234.36714165968147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022795:no_reel:1876052701:0076/pct:12.295822047114832,9.980441464096117,30.444061397028648,78.12238055322716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14254,7 +14254,7 @@ and whoever omits them offends God? I wish to such
 more humility, and to you health and happiness, being  
 your triend and servant,B. FrANkLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876062501:1093/pct:147.34339127582814,10.117352170445482,93.73565103312562,277.4980061524439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876062501:1093/pct:49.11446375860938,3.3724507234818275,31.24521701104187,92.49933538414797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14429,7 +14429,7 @@ such more humility, and to your health and
 happiness, being your friend and servant.  
 PRAYER OF DR. FRANELIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876072001:0681/pct:23.278443113772454,172.533295145353,44.98502994011976,182.04210224831735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876072001:0681/pct:5.820699981283923,43.13332378633825,11.248362343252854,45.51052556207934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14627,7 +14627,7 @@ such more humility, and to you health and
 i happiness, being your friend and servant,  
 B. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1877062801:0521/pct:50.073710073710075,16.660509789434798,22.7027027027027,80.37187538480482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1877062801:0521/pct:50.06550933508025,16.65845850775671,22.70307893874877,80.36505786752032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14647,7 +14647,7 @@ and praying, as too many do. it is as it&#x27; the tree
 should value itself on being watered and putting  
 ibrth leaves, though never producing any fruit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1877092701:0595/pct:5.782652043868395,53.09996302230987,11.166500498504487,2.3788980648342166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1877092701:0595/pct:5.781691310848978,53.09341878235149,11.168798803788004,2.3816859748582697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14697,7 +14697,7 @@ ng favors, but as paying debts
   
 In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1878013001:0018/pct:262.1417797888386,91.827173347215,68.47662141779789,48.88079125455492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1878013001:0018/pct:65.5478031303036,22.95679333680375,17.122383556477466,12.22019781363873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14864,7 +14864,7 @@ more humility, and to you health and
 firmness. Being your friend and ser.  
 vant, BenAMin FrANkli.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1878013001:0018/pct:270.36199095022624,63.1441957313899,111.99095022624434,314.6277980218636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1878013001:0018/pct:67.60324344710541,15.786048932847475,28.003017160098057,78.6569495054659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15109,7 +15109,7 @@ istrations; and that whosoever, mita, them
 offends God. .1 wish to such nior humility,  
 and to you health and happiness jeing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296023000:1878102501:0171/pct:104.66666666666667,26.192522561237645,19.26388888888889,79.8667812634293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296023000:1878102501:0171/pct:78.51090429226281,19.649763644177053,14.460341714126962,59.9054576708208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15155,7 +15155,7 @@ capable of pleasing the Deity.-Frank­
 Ther ass eried wsier in the worid  
 who hardly ever seem to think of thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1878103001:0414/pct:342.3380726698262,257.89473684210526,39.88941548183254,64.07322654462243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1878103001:0414/pct:85.6014220817697,64.47368421052632,9.974323523602607,16.018306636155607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15300,7 +15300,7 @@ to you health and happiness, being
 your friend and servant,  
 I PRAYER OP DR. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020618:1880051501:0289/pct:74.91539763113367,39.28094390026714,13.776085730400451,73.25244879786287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020618:1880051501:0289/pct:56.197997461571006,29.463490650044523,10.337046960936398,54.942119323241315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15735,7 +15735,7 @@ lIN.
 RTTL.  
 Light of my life, thon charming 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buick_ver01:data:sn83030214:00175039892:1882012201:0101/pct:195.39081385979048,6.277771448102996,98.01772763900081,290.281417340777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buick_ver01:data:sn83030214:00175039892:1882012201:0101/pct:65.13027128659684,2.0925904827009987,32.67257587966694,96.76047244692568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15855,7 +15855,7 @@ more health and happiness.
 Your most obedi.t and humb.le serv.t,  
 - Benjm Fbahklix
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84027490:0020219123A:1882020401:0411/pct:23.948140900195696,65.36576343290484,16.364970645792564,58.93831499121428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84027490:0020219123A:1882020401:0411/pct:17.96941896024465,49.02432257467863,12.269113149847096,44.20604827522427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16050,7 +16050,7 @@ i peated weekly can discharge our real
 obligations to each other and much  
 less those to our Creator Benjami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00175048753:1895010601:0053/pct:66.06481481481481,74.73463069438301,18.765432098765434,21.583370190181334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00175048753:1895010601:0053/pct:44.05000771724031,49.82308712958868,12.517363790708442,14.396284829721361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16099,7 +16099,7 @@ in serving othere ton pavins debts
 y travels and since my seitlement, I have  
 3trauch tinines from men to whom I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1895111501:1328/pct:71.9002201027146,304.60333006856024,59.86793837123991,38.883447600391776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1895111501:1328/pct:17.978352595853973,76.15083251714006,14.969730324711062,9.720861900097944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16128,7 +16128,7 @@ rocines I may well confide, that He will never
 oTttthe miserable, and that even  
 I may at any time suffer, shall tend tomy bene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1895111501:1328/pct:74.24798239178283,358.08031341821743,59.280997798972855,21.988246816846228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1895111501:1328/pct:18.565400843881857,89.52007835455436,14.82296826270409,5.497061704211557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16220,7 +16220,7 @@ his demands, compaied with those
 who think they deserve heaen for the  
 little good the) do on earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069162:00100481844:1898112301:0632/pct:16.505406943653956,45.777383198313174,13.218554354012522,4.250360670291865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069162:00100481844:1898112301:0632/pct:12.382578992314262,34.33303739873488,9.920296043267863,3.187770502718899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

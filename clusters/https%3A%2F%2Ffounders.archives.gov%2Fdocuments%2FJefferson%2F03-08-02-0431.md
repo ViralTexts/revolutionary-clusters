@@ -111,7 +111,7 @@ tremble, liul I hope our wisdom will grow with our
 powar, and teach u* tint t ■* lev* we use our power,  
 ne vreat-r it will I a *»—ISIS V.d. iv., p. 274 -2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831071501:0082/pct:20.821448944666287,11.215262461402736,14.589275527666857,7.035730039700044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831071501:0082/pct:20.81847996577784,11.214025802183262,14.59194828651552,7.038629764398868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ sent me from Ralph&#x27;s paper. * * * * The word
 federal or its synonyine, lie, may, therefore, be written  
 under every word of Mr. Ralph&#x27;s paragraph. * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841070601:0354/pct:63.56390977443609,76.23358535614803,15.80451127819549,3.631118185435734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841070601:0354/pct:63.56892230576441,76.23690144581509,15.814536340852131,3.631118185435734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ But lies, to save division among us, are so stale an ar­
 tifice of the Federal prints, and are so well understood,  
 that they need neither contradiction or explanation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841070601:0354/pct:63.65413533834587,79.62594508555512,15.518796992481203,1.5618782331874255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841070601:0354/pct:63.65413533834587,79.63257726488925,15.528822055137844,1.5585621435203607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ artifice of the Federal prints, and are so well
 understood, that they need neither contradic­  
 tion or explanation.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841071001:0498/pct:3.8957399103139014,90.21356489087069,19.70291479820628,12.579206758976767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841071001:0498/pct:2.9300434599747653,67.66017366815302,14.790410766858264,9.434405069232575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ the federal prints, and are so well under
 stood, that they need neither contradic­  
 tion or explanation.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1841071301:0232/pct:49.82683982683983,53.393595832694956,18.549783549783548,4.060058219702773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1841071301:0232/pct:37.40524149880875,40.04902711812471,13.92679228936539,3.048873908380573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ The word led-rol or its syno­
 nyme, hie, may, therefore, be written under overy  
 word of Mr Ralph&#x27;s paragraph. a Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1841073101:0796/pct:26.913779210314264,238.10954787597322,59.709911361805,20.598278923644312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1841073101:0796/pct:6.732513606127797,59.527386968993305,14.936504736948196,5.149569730911078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ artifice of the Federal prints, and are so well un­
 derstood, that they need neither contradiction or  
 explanation.&quot;- Globe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1841073101:0796/pct:27.397260273972602,258.6531894549925,59.548751007252214,9.124436552383553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1841073101:0796/pct:6.853456964321709,64.66329736374813,14.896190284216893,2.2811091380958883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ relied on &quot; in these parts,&quot; and the im­
 pression is, that lies are becoming &quot;stale,&quot;  
 and here cease to be an &quot;artifice&quot; a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016872:00295877765:1841081401:0049/pct:23.04663840096911,113.64747721715936,19.56390066626287,8.890864636585908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016872:00295877765:1841081401:0049/pct:17.30040902893501,85.24116470326739,14.679594000908953,6.668148477439431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ versed or corresponded on those measures.&quot;?
 Jclierson to Leiper, vol. 4, pp. 9, 265.  
 Now, sir, when the Federal party were denoun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844022801:0426/pct:3.7972350230414746,62.32705231255765,19.004608294930875,5.0336012649888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844022801:0426/pct:3.8095238095238093,62.33144463477841,19.010752688172044,5.042385909430315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ we may shake a rod over the heads of all which will make the
 stoutest of them tremble.&quot;  
 Now, sir, here is high confirmation of the ground 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852032701:0139/pct:34.74876150035386,2.7394281987172517,31.705590941259732,93.83628655288618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852032701:0139/pct:34.758197688134,2.746675363264123,31.705590941259732,93.83266297061274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ ever we can, to keep our markets open for what we can
 spare or want, and the less we have to do with the aml  
 ties or enmities of Kurope the better.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.1158864159632,249.66442953020135,52.1105141980046,7.5045759609518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.80614203454894,62.41610738255034,13.032629558541267,1.87614399023795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ I believe this tlie strongest gov­
 ( ernment on earth; the only one where  
 I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.14799154334038,79.96360695511524,12.318534178999295,6.530529720986656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.13810597519729,79.95552410795511,12.321495678316422,6.533238990532026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ I bollovo this tho strongest Government on
 earth the only one whore every man at tho  
 call of the laws would fly to the standard of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:66.24605678233438,143.71293902995288,51.73501577287066,20.617302721605594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:16.561514195583594,35.92823475748822,12.933753943217665,5.154325680401398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ the Northwest, penetrated Dakota they
 found a river calkd the Jaques. This sub­  
 sequently became the James, and is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870345:1889070701:0065/pct:48.59980852082336,95.00405515004056,18.393968405935855,17.210056772100568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870345:1889070701:0065/pct:36.46157529327268,71.25709651257097,13.801771606416088,12.903487429034874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ whatever we can, t. keep our markets open for what
 we can spare or want, and tho less we have to do with  
 tne amities or enmities of Europe, the better.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:51.01169064748201,74.83569446472907,18.637589928057555,1.9570614867825324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:38.27299302900832,56.12677084854681,13.986957499437823,1.4750985833211625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

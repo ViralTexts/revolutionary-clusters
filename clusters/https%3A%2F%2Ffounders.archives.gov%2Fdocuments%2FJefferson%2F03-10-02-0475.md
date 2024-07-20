@@ -79,7 +79,7 @@ life; if that has biea honest and dutiful to
 society, the religion which has regulated it  
 can not beabad one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859102801:0244/pct:48.358473824312334,69.43056943056943,18.944099378881987,3.0112744398458684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859102801:0244/pct:36.284953395472705,52.07649493363779,14.225477141588993,2.269159412016555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ life; if that has been honest and dutiful to
 society, the religion which has regulated it  
 cannot be e bad one.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860033001:0268/pct:135.00363108206244,371.4531384350817,47.56717501815541,9.400974491258241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860033001:0268/pct:33.75703649900127,92.86328460877043,11.893953150535681,2.3502436228145602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ which regulated it cannot be a bad one.&quot;
   
 I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1864012001:0126/pct:107.80141843971631,28.166172106824927,23.625886524822697,98.8486646884273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1864012001:0126/pct:80.86301167430176,21.12759643916914,17.733116595241615,74.13649851632047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ my life ,* if that has been honest and dutiful
 to society the religion which has regulated  
 it cannot be a bad one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862713:1865110901:0220/pct:30.27816411682893,56.82836547827781,14.422809457579973,3.2534580167543345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862713:1865110901:0220/pct:30.28743625405656,56.83485940645497,14.427445526193788,3.2534580167543345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ in my life ; if that has been honest and dutiful
 to society, the religion that has regulated it  
 cannot be bad. Jefferson. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023759:1877030201:0401/pct:75.72700296735906,35.997495826377296,21.12759643916914,5.112687813021703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023759:1877030201:0401/pct:50.512097372717825,23.998330550918197,14.086388600267181,3.4119365609348913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ alone.” Putting all tbe evideuco together,
 Thomas Jeffersou may fairly be classified  
 as having been practioally, though no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182094:1893041601:0679/pct:19.82097186700767,68.39399833287024,16.057727438801606,2.7924423450958598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182094:1893041601:0679/pct:15.36101934874941,53.005778272260706,12.44454931571496,2.167749345009511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ Adams: &#x27;Say nothing of my religion;
 it is known to my God and myself alone.&#x27;  
 He was considered a Unitarian. The sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764091:1893052901:0508/pct:72.45080500894454,30.78055964653903,12.731067382230172,1.681394207167403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764091:1893052901:0508/pct:54.36241610738255,23.08541973490427,9.560029828486204,1.2641138929798723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -122,7 +122,7 @@ none that will be new lo you
 &quot; With great esteem and cordial salutations,  
 &quot; jamks Madiso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852012501:0092/pct:68.25396825396825,5.517848164906988,31.84628237259816,91.45299145299145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852012501:0092/pct:68.25953773322195,5.526227585051115,31.85185185185185,91.45299145299145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ i y°u­
 “With great esteem, and cordial salutations,  
 “JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852013101:0234/pct:45.91680976912803,6.729969503742723,12.87922152261019,30.67646243415581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852013101:0234/pct:45.91242964800153,6.72950308406681,12.881172692295463,30.676646568253748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ aware, none that will be new to you.
 “Mr. Webster &#x27;*  
 “JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852020401:0109/pct:38.326738270209155,38.15020862308762,14.056905973242888,24.54798331015299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852020401:0109/pct:38.319517709118315,38.144903351411486,14.058967596081386,24.54804616882214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ everal StaUw who *?&quot;* parties to it. anil thereore
 made by the States in their highest au- 1  
 horitative capucit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852020501:0474/pct:70.21461716937355,62.592482983131106,14.58816705336427,13.307684719344973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852020501:0474/pct:70.22428460943541,62.59905955082043,14.597834493426141,13.307684719344973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ that will be new-to you.
 &quot;With great esteem and cordial saluta­  
 tions.JAMEs MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852021201:0373/pct:157.83902171929185,10.644257703081232,91.12976820587699,370.7142857142857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852021201:0373/pct:39.45255474452555,2.6606917798627645,22.778284671532848,92.66559305419409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ sents, I am aware, none that will be new to you,
 With great esteem and cordial salutations.  
 JAMKS MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1852022701:0259/pct:104.7209026128266,83.3860959858174,17.102137767220903,42.81372673167026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1852022701:0259/pct:78.55976243504084,62.542737748512096,12.828507795100222,32.11346080790174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ With great esteem and cordial saluta
 tions,  
 JYMES MUDIS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1852031301:0547/pct:219.58976722747175,158.784,52.56971652454482,155.92/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1852031301:0547/pct:54.884792626728114,39.68964965605503,13.139400921658986,38.973764197728364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -875,7 +875,7 @@ precisely according or not with your ideas, pre­
 Willi great esteem and cordial salutations,  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1852061801:0325/pct:35.267857142857146,78.21026282853568,17.529761904761905,40.51314142678348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1852061801:0325/pct:26.470150364746168,58.660826032540676,13.145749590591038,30.387984981226534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1291,7 +1291,7 @@ Mr. Madison wrote to him, &quot;It crushes nulli-­
 fication, and must hasten an abandonment of  
 secession&quot;--held this solemn, deliberat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861012301:0217/pct:63.1697687535251,144.67694192099623,43.59842075578116,7.624783096866388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861012301:0217/pct:21.056589584508366,48.22564730699874,14.532806918593721,2.5415943656221294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1318,7 +1318,7 @@ A faith solemnly pledged. The latter is ar.- !
 other name for revolution, about which there ! r  
 is no theoretic controversy,&quot; &amp;c. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861031201:0515/pct:75.9010220548682,79.83531026369964,13.017751479289942,5.166160180374473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861031201:0515/pct:75.9055047516586,79.83857791719765,13.026716872870718,5.172695487370519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1340,7 +1340,7 @@ ance of it, over the Constitution and laws of the
 States, and subject to the revolutionary rights of  
 the people in extreme cases; that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861031801:0263/pct:45.20811731595319,31.982173174872667,38.2017478892016,8.181239388794568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861031801:0263/pct:15.069372438651063,10.660724391624221,12.7339159630672,2.7270797962648556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1362,7 +1362,7 @@ the laws made in pursuance of it over the Constitution and laws of
 the States, subiect to the revolutionary rights of the people in ex­  
 treme cases; that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861031901:0264/pct:134.79874393377105,122.51020408163265,38.16728518412789,7.142857142857143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861031901:0264/pct:44.92650206935921,40.83256810529538,12.72061272061272,2.380709451416522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1388,7 +1388,7 @@ nee of it, over the Constitution and laws of ; I
 he States, subject to the revolutionary rights j c  
 f the people, in extreme coses, that a political ! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861031901:0527/pct:39.51062976333734,1.9978559594581424,24.735927263003074,94.9517590878082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861031901:0527/pct:39.51062976333734,2.001104505733684,24.74929803449659,94.9517590878082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1410,7 +1410,7 @@ tade in pursuance of it over the Constitution and laws of the
 States, subject to the revolutionary rights of the people in extreme  
 cases; that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861040801:0331/pct:98.23838613439409,140.9852820932134,38.37192783065776,7.277187244480785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861040801:0331/pct:32.74147727272727,46.99029126213592,12.788825757575758,2.4254811786748425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1443,7 +1443,7 @@ of it, over the Constitution and laws of the States,
 and subject to the revolutionary rights of the peo­  
 ple in extreme cases; that a political system doe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861040801:0336/pct:48.59390936908058,78.28224709697668,37.592889406964886,19.824249398472645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861040801:0336/pct:16.197969789693527,26.094082365658892,12.530963135654961,6.6080831328242144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1479,7 +1479,7 @@ ject to the revolutionary rights of the peo­
 ple in extreme eases: that a political system  
 that d ies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1861040901:0540/pct:58.23891625615764,69.23761231207187,13.608374384236454,6.031491860154791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1861040901:0540/pct:58.23891625615764,69.24354298253418,13.624794745484401,6.031491860154791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1505,7 +1505,7 @@ over the Constitution and laws of the
 States, and subjcct to the revolutionary  
 rights of the people in extreme cases; that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190674:1861041001:0345/pct:30.45774647887324,70.76757532281205,13.600352112676056,6.330703012912482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190674:1861041001:0345/pct:30.46324823943662,70.78102582496413,13.627860915492958,6.344153515064562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1533,7 +1533,7 @@ down, only 23 voting in favor of it.?
 Sow what we want to remark here is  
 this: If the Union men in the Convention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190674:1861041001:0346/pct:2.8802094697796203,12.98277425203989,13.615535675321842,9.247506799637353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190674:1861041001:0346/pct:2.891119354134846,12.987307343608341,13.626445559677068,9.256572982774252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1765,7 +1765,7 @@ I am aware, none that are now to you.
 With great esteem and cordial salutation,  
 JAMEs MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191435:1865092301:0504/pct:174.0308267164876,44.62532071131558,50.44371788883699,119.43731752632044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191435:1865092301:0504/pct:43.52295292606004,11.156330177828895,12.615348674220302,29.85932938158011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1783,7 +1783,7 @@ Dear Sir- I return my thanks for the copy of en
   
 your late powerful speech in the Senate of the United
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045586:00200293587:1865100401:0713/pct:131.55579989004949,149.38860103626942,56.129741616272675,3.316062176165803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045586:00200293587:1865100401:0713/pct:32.902516155644165,37.347150259067355,14.038223566616251,0.8290155440414507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1823,7 +1823,7 @@ ee i i a o e e e a aoe e oe o o a e
   
 which may influence the approachin loction o e e  a a o  a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045586:00200293587:1865100401:0713/pct:131.4458493677845,152.7461139896373,99.61517317207257,17.11917098445596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045586:00200293587:1865100401:0713/pct:32.875017186855494,38.18652849740933,24.914065722535405,4.27979274611399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1859,7 +1859,7 @@ purposes, and not so for others.
   
 The Constitution of the United States, being es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045586:00200293587:1865100401:0713/pct:130.95107201759208,179.39896373056996,202.14403518416714,23.04663212435233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045586:00200293587:1865100401:0713/pct:32.751271827306475,44.84974093264249,50.55685411797057,5.761658031088083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1909,7 +1909,7 @@ aware, more than are new to you.
 With great esteem and cordial salution,  
 JAMes MAdIso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045586:00200293587:1865100401:0713/pct:130.2913688840022,210.5699481865285,49.477735019241344,33.409326424870464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045586:00200293587:1865100401:0713/pct:32.586278014574454,52.64248704663213,12.374535954901692,8.352331606217616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2019,7 +2019,7 @@ removal from office without the consent of
 the Senate.  
 &quot;It is too late,&quot; wrote the great Chancel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866082501:0936/pct:236.1918604651163,261.2255678816693,50.218023255813954,17.9080824088748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866082501:0936/pct:59.05869525713247,65.30639197041732,12.556787206978012,4.4770206022187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2044,7 +2044,7 @@ sident&#x27;s power of removal from oflieo
 without the consent of the Senate.  
 &quot;It is too late,&quot; wrote the grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551657:1866082801:0482/pct:81.96752265861028,54.523809523809526,16.106495468277945,7.184873949579832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551657:1866082801:0482/pct:81.980110775428,54.53314659197012,16.100201409869083,7.189542483660131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2068,7 +2068,7 @@ to the President&#x27;s power of removal from office
 without the consent of the Senate.  
 &quot;It is too late,&quot; wrote the great Chancellor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1866083101:0043/pct:205.95238095238096,236.57517899761336,55.95238095238095,23.56801909307876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1866083101:0043/pct:51.518761167361525,59.14379474940334,13.99642644431209,5.89200477326969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2091,7 +2091,7 @@ ooa
 ison, &quot;when disputed theories can be  
 decided by undisputed facts.&quot; Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1867011801:0123/pct:79.67161845191556,24.31592959621358,55.355746677091474,12.897500369767785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1867011801:0123/pct:19.92569417285882,6.078982399053395,13.844348846304262,3.2243750924419463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2131,7 +2131,7 @@ States, in their highest authoritative
   
 capacity.&quot; Iu 1821 ne rote Ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022701:0187/pct:142.09876543209876,202.7433628318584,38.20987654320987,21.8141592920354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022701:0187/pct:35.530174409631115,50.6858407079646,9.553943509800895,5.45353982300885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2195,7 +2195,7 @@ here tlie nil disputed fad is, I iial the (&#x27;oil
 I hat w ere part ie - to it. i::i !, I iierefoi e,  
 ■ made bv the Stales in their highest milhor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1873082301:0361/pct:52.00711884516512,35.77204466692337,13.881748071979434,15.145680913874983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1873082301:0361/pct:52.00711884516512,35.7763231078595,13.888339595280469,15.14140247293886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2251,7 +2251,7 @@ that will he new to yon.
 With great esteem and cordial salutation,!  
 JAMES M VDISDN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1873082301:0361/pct:52.00711884516512,51.37979720189963,13.881748071979434,19.77923244769606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1873082301:0361/pct:52.00711884516512,51.37979720189963,13.888339595280469,19.792067770504428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2269,7 +2269,7 @@ ate of the United States. It crushes nullifica­
 tion, and must hasten an abandonment of se­  
 cession.” Really I think Governor Kempe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1875121601:0805/pct:70.07299270072993,68.64329466962074,12.171108470548294,1.7203179981754204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1875121601:0805/pct:70.061099796334,68.63434975241074,12.173285811269517,1.7233515767526713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2403,7 +2403,7 @@ them as embodied into separate communities, at
 in the cateafthe Constitution of the United States,  
 a dissolution ot tho constitutional compac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533092:1888052701:0464/pct:0.0,10.38961038961039,113.4585289514867,383.24056895485467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533092:1888052701:0464/pct:0.0,2.5974025974025974,28.370181960477403,95.81014223871367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

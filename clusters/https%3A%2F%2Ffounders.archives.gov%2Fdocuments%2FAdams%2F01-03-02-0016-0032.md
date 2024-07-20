@@ -122,7 +122,7 @@ ence, and for the payment of such
 agents as the committee might send on  
 tliis service, should be defrayed b3&#x27; con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286819:1893122801:0119/pct:25.621669626998223,109.68756780212628,18.161634103019537,8.233890214797135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286819:1893122801:0119/pct:17.08870131793277,73.12866131481883,12.113134903006072,5.4892601431980905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ respondence, and for the payment of
 such agents as the committec might  
 send on this service, should be de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152627:1894011801:0200/pct:5.246812683883622,89.03436988543372,15.397188623733246,7.6159301691216585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152627:1894011801:0200/pct:5.2522610875013624,89.04164393526095,15.391740220115507,7.612293144208038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

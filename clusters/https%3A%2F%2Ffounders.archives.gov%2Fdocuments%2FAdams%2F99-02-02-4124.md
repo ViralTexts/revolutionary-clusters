@@ -105,7 +105,7 @@ And be it further resolved, That the Pre­
 fideht of the United States be requested to  
 issue a proclamation, notifying to the peopl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072201:0002/pct:76.85387794796985,30.672268907563026,17.092146851446632,14.576599870717518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072201:0002/pct:76.87211281303185,30.672268907563026,17.086068563092635,14.600840336134453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ mitted lln.se losnlutions to Mrs. Washington,
 who, on the iJI-U December, 1799, returned  
 an answer, which [ will take leave to read t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824012201:0330/pct:5.28901260848207,49.83269598470363,15.179302439823154,6.345602294455067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824012201:0330/pct:5.288146692861821,49.82674154618234,15.182274612530016,6.34882702035289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ Government, will be highly gratified by any arrange­
 ment which may diminish the sacrifice she nukes of  
 her individual feelings JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830022401:0497/pct:37.81960227272727,3.411565448826518,18.46590909090909,4.258407936123881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830022401:0497/pct:37.81288833658797,3.411152776097738,18.46854843481863,4.261924922382162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ WaantasToa, in the manner expressed in the
 first resolution.**  
 This was the pledge solemnly give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1832022301:0446/pct:15.622496394808524,20.606407322654462,14.741227367409069,4.633867276887872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1832022301:0446/pct:15.6199935917975,20.604049879876445,14.744205916906974,4.637150592990886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ highly gratified by any arrangement
 which may diminish the sacrifices she  
 makes of her individual feeling.&quot; It a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524123:1894010201:0220/pct:256.89851767388825,107.46312396209827,29.165082984923348,16.24499365048354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524123:1894010201:0220/pct:85.62199138586269,35.81754248876734,9.720462798750106,5.414468971804389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ highly gratified by any arrangement
 which may diminish the sacrifices she  
 makes of her individual feeling.&quot; It a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn85038102:00202197279:1894011201:0341/pct:31.295546558704455,73.44398340248962,18.279352226720647,8.742309343253684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn85038102:00202197279:1894011201:0341/pct:23.49129202106116,55.08656460151667,13.710004050222762,6.567463156388611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -71,7 +71,7 @@ The United States were fareed into a contra­
 versy in Uelence of their mearine rights, which  
 il they bod filed in vindicanog, wouid hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816022101:0237/pct:26.487163431433938,11.749095295536792,22.917971195992486,24.692400482509047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816022101:0237/pct:26.494120921171643,11.757137112987536,22.911013706254785,24.70044229995979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ deil @0 fooms ot 8000 miles distasce, 10 fur­
 nish the civzens with clothing, when their  
 intgsnal respuices weie adecaste to produc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816022101:0237/pct:26.487163431433938,57.551266586248495,22.87622625756627,20.03618817852835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816022101:0237/pct:26.494120921171643,57.559308403699234,22.87622625756627,20.040209087253718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ supply ol such articles as can be manufacture
 ed amung ourselves. An explanarion from  
 Jou on this subject would grestly contribut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816022101:0237/pct:26.487163431433938,77.50301568154403,22.938843665205592,8.311218335343789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816022101:0237/pct:26.494120921171643,77.50703659026941,22.945801154943297,8.31926015279453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ a feww years, to discharge our trust as citizens,
 and we 1 ust become more active as the per­  
 iod shortens. The real patriot never sacri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816022101:0237/pct:50.63661031099979,8.528347406513872,22.563139219369653,12.207478890229192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816022101:0237/pct:50.650525290475194,8.528347406513872,22.549224239894247,12.215520707679936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ lence could have produced so much good, fr.,n
 hat was conside-ed bv some as produc ivo o  
 m much evil. The United S ates were force,h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030201:0076/pct:60.322931785195934,40.65307113377033,16.654571843251087,15.30711337703326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030201:0076/pct:60.31198984219118,40.64813690981915,16.657597194509947,15.309301290609701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ jil a nation from you on this subject would great.
 r‘cures, which have risen during the late war  
 to a respectable state of maturity and improv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030201:0076/pct:60.177793904209,70.35688273852877,16.96298984034833,23.185239135712553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030201:0076/pct:60.16687828768366,70.34834324553951,16.96595924783844,23.186470850022253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ my ideas, hut being convinced of your patriot­
 ism, and the devntedness to the good of vour  
 country, have urged me to make the toreiroim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030201:0076/pct:77.99346879535558,7.4047098810390874,17.0899854862119,5.5110463704782715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030201:0076/pct:77.97932160348267,7.403811142128899,17.09293185803253,5.514423271432618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ exigencies of his country need hi* advice, and
 mn t become more active as the period shortens.  
 l be real patriot,never sacrifices principles to po
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030201:0076/pct:77.97532656023222,17.625637290604516,17.017416545718433,5.231852391357125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030201:0076/pct:77.96118265916924,17.623497997329775,17.020376080778764,5.235263179188413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ that the encigies. of an Administration, beset
 phedj not only over a foreigr enemy, but havd  
 - baffled the wily projeets of a more dangerou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816040901:0493/pct:76.99440682955549,13.464162031692727,17.132764203709154,27.76786651275055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816040901:0493/pct:76.9993131194191,13.467660125231749,17.132764203709154,27.76436841921153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ byte to the advancement of those manufactures,
 - which have risen dur@&gt; the late war to d res­  
 pectable state of maturity and improvement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816040901:0493/pct:76.99440682955549,45.555672158673524,17.132764203709154,28.030223528177142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816040901:0493/pct:76.9993131194191,45.56266834575157,17.12785791384555,28.030223528177142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -821,7 +821,7 @@ obtained in war. The patriot is always called
 on du, ~while the exigencies of his country­  
 necd his advice, and his-exertio g eeyiive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816040901:0493/pct:76.99440682955549,75.24399202434672,16.911981159846924,16.41305488508763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816040901:0493/pct:76.9993131194191,75.24399202434672,16.921793739574134,16.41305488508763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1293,7 +1293,7 @@ red that, in his opinion, &quot;the manufactures of this
 country were not proper objects for Congressional  
 pursuit.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842090901:0964/pct:12.455745091728355,184.21973407977606,39.89378822014805,7.534406344763238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842090901:0964/pct:4.15124698310539,61.39941690962099,13.295789755966748,2.511175898931001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

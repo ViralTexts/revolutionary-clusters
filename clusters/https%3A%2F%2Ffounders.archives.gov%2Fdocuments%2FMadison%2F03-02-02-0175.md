@@ -105,7 +105,7 @@ hefjue.lhe never be lost on those who live after
 you.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810031601:0403/pct:22.895560876772887,75.53539019963702,17.645975317738074,13.248638838475499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810031601:0403/pct:22.891344383057092,75.52625211710622,17.648864333947206,13.251068634567304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ trial i). mote t.uu a fourth t a century
 May your life still beCoumuM an i«*ikg  
 as it vg.i ok a bicssinj} aau uiuy uic ia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810031601:0092/pct:77.06576728499157,80.38325769036813,17.65036537380551,14.510842158345941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810031601:0092/pct:77.0513300861746,80.37312492121518,17.653303359560386,14.513214840959705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ will | =queath, never be lost on thcse who
 live alier you.  
 JAMIS MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810032101:0193/pct:28.937908496732025,2.1284943599803827,45.86601307189542,92.49632172633643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810032101:0193/pct:28.94880174291939,2.131763936570214,45.85511982570806,92.49632172633643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ he a bltssing ; and may the example it will be­
 queath, never be lost on those wli.i live alter yuit.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032301:0989/pct:51.674052191038896,23.7594957168256,20.630231413096997,14.530467108453209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032301:0989/pct:51.66133398966281,23.755656108597286,20.631306916071868,14.532159017453136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ long as it can be ablefling ; and may
 the example it will “bequeuth,. never  
 be loft on those who live after you. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810032701:0473/pct:25.603637503919725,60.83393094969777,16.27469426152399,21.00194652187276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810032701:0473/pct:25.603637503919725,60.840760851005705,16.27469426152399,21.00194652187276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

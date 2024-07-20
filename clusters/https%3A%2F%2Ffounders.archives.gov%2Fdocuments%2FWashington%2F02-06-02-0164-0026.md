@@ -3634,7 +3634,7 @@ Whole Duty of Woman; Six Dialogues,
 between two young Ladies, concerning  
 Love and Marriage ; The French Convert 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1771051601:0088/pct:38.144329896907216,87.9908610595459,26.97594501718213,3.3271455090675426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1771051601:0088/pct:29.56777451034789,68.19758005016969,20.917716251456472,2.578574590526782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3944,7 +3944,7 @@ Seneca’s Morals, To which is
 added, a discourse under the ti­  
 tle of an After-Thought. Ador
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793073001:0064/pct:59.01038485033598,13.809663824365384,17.272449602932195,3.577379202195433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793073001:0064/pct:59.02056607615557,13.812930837335424,17.267358990022398,3.580646215165474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3985,7 +3985,7 @@ Seneca’s Morals, by way of abfira@, “to -
 which is added a discourse under the title  
 of an after, thought ; adorned with.cuts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796022001:0031/pct:73.22884012539186,38.1113656738719,15.9717868338558,1.842813029186174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796022001:0031/pct:73.23406478578892,38.118006441544644,15.9717868338558,1.836172261513431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4002,7 +4002,7 @@ Seneca’s Morals, by way of abftra&amp;, to
 which is -added a discourse under the title  
 of an after thought ; adorned with cuts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796022701:0033/pct:38.72373540856031,87.54108156558112,16.560311284046694,1.8225276366895728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796022701:0033/pct:38.728923476005185,87.54772101052352,16.570687418936448,1.8192079142183712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4019,7 +4019,7 @@ Seneca’s Morals, by way of abftra&amp;, to
 which is added a discourse under the title  
 of an after thought ; adorned with cats
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796030501:0040/pct:45.689257722452744,36.292168374962685,15.53711387736284,1.7912230072644044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796030501:0040/pct:45.69438041083961,36.29548545460577,15.53711387736284,1.801174246193651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4036,7 +4036,7 @@ Seneca’s Morals, by way of abflra, to
 which is added a discourse under the title  
 of an after thought ; adorned with cuts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796031901:0045/pct:8.389778325123153,50.13423486129064,15.455665024630543,1.8295714427761758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796031901:0045/pct:8.389778325123153,50.14086374332969,15.46592775041051,1.8328858837956978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5432,7 +5432,7 @@ the earth, and of all the general changes which it
 hath already undergone, or is to undergo, till the  
 consummation of all things,&quot; as it was understoo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851101101:0800/pct:20.01106347669755,24.826498422712934,15.475038030701148,3.6172450052576237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851101101:0800/pct:20.01106347669755,24.826498422712934,15.484257594615775,3.6277602523659307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5581,7 +5581,7 @@ beneca&#x27;s Morals. By way of abstract to which is added,
 a discourse under the title of an After-Thought, by Sir Ro­  
 ger L&#x27;Estrange, Knt. 1 vol. 18mo. A copy of this valua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854082301:0275/pct:106.67692307692307,75.1909307875895,20.16923076923077,1.5751789976133652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854082301:0275/pct:80.04001231148045,56.39618138424821,15.12773160972607,1.1813842482100239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5637,7 +5637,7 @@ Seneca&#x27;s Morals. By way of abstract to which is added,
 a discourse under the title of an After-Thought, by Sir Ro­  
 ger L&#x27;Estrange, Knt. 1 vol. ISmo. A copy of this valua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854090601:0289/pct:86.45334928229666,48.91454965357968,19.901315789473685,7.517321016166282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854090601:0289/pct:64.86688603051152,36.685912240184756,14.926712533652408,5.646651270207852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5654,7 +5654,7 @@ feeneca s Morals. Bv way of abstract to which is added.
 a discourse under the title of an After-Thought, by Sir Ro-  
 er L&#x27;Estrange, Knt. 1 vol. 18mo. A copy of this valua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854091301:0297/pct:83.952802359882,53.90708121527367,19.262536873156343,1.6195767821255467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854091301:0297/pct:62.983180879315434,40.43031091145525,14.458542342874004,1.2176380186783309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5670,7 +5670,7 @@ er L&#x27;Estrange, Knt. 1 vol. 18mo. A copy of this valua
 Soueca&#x27;s Morals. Bv way of abstract to which is added.  
 a discourse under the title of an After-Thought, by Sir Ro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854091601:0301/pct:84.25980975029726,53.134222641954906,19.396551724137932,1.0388383898004958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854091601:0301/pct:63.20796789059016,39.85361822689175,14.553292701055447,0.7791287923503718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5687,7 +5687,7 @@ Seneca&#x27;s Morals. Bv wav of abstract to which is added.
 a discourse under the title of an After-Thought, by Sir Ro­  
 ger L&#x27;Estrane-e. Knt. 1 vol. 1ft mo. A emv nf tlii.i valu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854092001:0305/pct:84.68414779499405,53.398863098057795,19.398092967818833,1.4211274277593557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854092001:0305/pct:63.53204172876304,40.05210800568451,14.560357675111774,1.065845570819517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5704,7 +5704,7 @@ ISeneca&#x27;s Morals. Bv way of abstract to which is added.
 a discourse under the title of an After-Thought, by Sir Ro­  
 irer L&#x27;Estranee. Knt. 1 vol. 18mo. A couv of this valu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854092301:0309/pct:84.54164170161773,53.379569766074994,19.502696225284602,1.4693781591630422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854092301:0309/pct:63.434736999850145,40.03761608087457,14.641090963584595,1.1049723756906078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5731,7 +5731,7 @@ its perusal be unproductive of satisfaction and usefulness.&quot;
 Seneca&#x27;s Morals. By way of abstract to which is added.  
 a discourse under the title of an Aftet -Thought, bv Sir Ro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854092701:0313/pct:84.64991023339317,47.96134810275748,19.524236983842012,6.728729672401602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854092701:0313/pct:63.50441418524615,35.97690313457459,14.649109681280862,5.043601225547961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5758,7 +5758,7 @@ Seneca&#x27;s Morals. ; By way of abstract to which is added,!
 a Discourse under tne title 01 an Atter-i bought, by Sir Ho-  
 fer L&#x27;Estrange, Knt. 1 vol. 18mo. A copy of this valua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854093001:0317/pct:84.2355740630577,25.413780960206598,19.67578822129685,7.477403451109285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854093001:0317/pct:63.186077643908966,19.063270336894,14.770191878625614,5.610987205071018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5775,7 +5775,7 @@ beneca&#x27;r Morals. By way of abstract to which ia added,
 a discourse under the title of an After-Thoughtw.bjt Sir Ro-  
 fer L&#x27;Estrange, Knt . i.toI.. ISithju , A copy of thU valua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854100401:0321/pct:84.8868374032162,31.588917830925883,19.371649791542584,1.965427421264504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854100401:0321/pct:63.68781650282991,23.691688373194413,14.536788799523384,1.4799905280606205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5803,7 +5803,7 @@ Seneca&#x27;s Morals. By way of abstract to which is added,
 a discourse under the title of an After-Thought, by Sir Ro­  
 ger L&#x27;Estrange, Kut. 1 vol. 18mo. A copy of this valua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854100701:0325/pct:84.69143199520671,25.819335134500175,19.5176752546435,7.564900740044638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854100701:0325/pct:63.55462310804735,19.37037472101492,14.641090963584595,5.673675555033478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5831,7 +5831,7 @@ Seneca&#x27;s Morals. By way of abstract to which is added,
 a discourse under the title of an After-Thought, bv Sir Rc-  
 fer L&#x27;Estrange, Knt. 1 vol. 18mo. A copy of .this valua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854101101:0329/pct:85.415421398685,25.176720075400567,19.441123729826657,7.846371347785109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854101101:0329/pct:64.09029750336373,18.885485391140435,14.59111974884138,5.89066918001885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5848,7 +5848,7 @@ fer L&#x27;Estrange, Knt. 1 vol. 18mo. A copy of .this valua
 a discourse under the title of an Aftcr-Thooght,by Sir Ko&#x27;... . .  
 per L&#x27;Eatrange, Knt 1 vol.-18mo. -A copy of this V4itu 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854101801:0337/pct:109.50374531835206,18.68091825579983,22.87765293383271,1.7976436292967326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854101801:0337/pct:82.15735248204808,14.016761812219118,17.171401810802372,1.3482327219725494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5875,7 +5875,7 @@ Seneca&#x27;s Morals. By way of abstract to whi cb. i added,
 a discourse under the title of an After-Thought, by Sir Ro­  
 ger L&#x27;Estrange, Knt. 1 vol. 18mo. A copy of this ralua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854102501:0345/pct:109.25,11.784593093455687,20.96875,8.02946148273364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854102501:0345/pct:81.9631134729603,8.838444820091766,15.739293529227883,6.0251147065926105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5902,7 +5902,7 @@ Seneca&#x27;s Morals. By way of abstract ta which is&quot; sdded.
 discourse Under the title of an After-Thought, by Sir Ro-  
 er L&#x27;Estrange, Knt. &quot;1 vol. 18mo. A copy of this Tain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854110101:0353/pct:106.49509803921569,13.73832908936583,20.542279411764707,7.4693828058688005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854110101:0353/pct:79.9080459770115,10.306778222383898,15.417624521072797,5.6020371044016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5936,7 +5936,7 @@ ger L&#x27;Estrange, Knt. lrLWT!&#x27;!r
 a discourse nndr the title of an After-Thought, by.Sir Ro­  
 ger L&#x27;Estrang, Knt. 1 rol. 18mo... A jsopy ; of h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854111801:0373/pct:107.62685643564356,18.725003029935767,20.188737623762375,1.987637862077324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854111801:0373/pct:80.74899411946765,14.046782208217186,15.150108325595792,1.490728396557993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5965,7 +5965,7 @@ Seneca&#x27;s Morals. By way of abstract .to which is added,
 discourse under the title of an After-Thought, by Sir So­  
 ger L&#x27;Estrange, Kntl 1 von48mo A copy of this .valua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854112201:0377/pct:107.23763570566948,16.475322523375546,19.51145958986731,7.9062610959876904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854112201:0377/pct:80.4524886877828,12.356491892531661,14.645550527903469,5.941531542194342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5993,7 +5993,7 @@ Seneca&#x27;s Morals. By way of abstract to which is added.
 a discourse under the title of an After-Thought, by bur Bo­  
 ger L&#x27;Estrange, Knt. 1 vol. 18mo. A copy of this valua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854112501:0381/pct:106.99879590608067,15.742057847321005,19.446116797110175,7.6220957799905165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854112501:0381/pct:80.26494053891314,11.806543385490754,14.586783079933765,5.725462304409673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6020,7 +6020,7 @@ Seneca&#x27;s Morals. By way of abstract to which is .added,
 . a discourse under the title of an After-Thought, by Sir Ro­  
 ger L&#x27;Estrange, Knt. 1 Tl.l8mo. A copy of this valua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854112901:0385/pct:109.251036116045,14.671584959543075,21.181172291296626,7.448833888624464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022731:1854112901:0385/pct:81.96624222682854,11.006663493574488,15.8868818477939,5.592574964302713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6411,7 +6411,7 @@ EDMOnD WAllEr&#x27;s FOEMS, aC. written
 upon several occasions and to several persons.  
 London, 1705. 750
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860110601:0432/pct:140.24992734670155,205.0924963625026,37.14036617262424,2.8060694242361257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860110601:0432/pct:46.74997578223385,68.36416545416753,12.380122057541412,0.9353564747453752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6717,7 +6717,7 @@ oreugh and Jonathan Lord Bishop of
   
 Bristol presented a petition to the King
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292972:1868011801:0056/pct:60.86206896551724,217.42248470786754,37.47126436781609,11.516557688251424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292972:1868011801:0056/pct:15.21551724137931,54.355621176966885,9.367816091954023,2.879139422062856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7019,7 +7019,7 @@ o( the original changes which it had already
 undcrgono, and is to undergo till the consum­  
 mation oi time, cohering the delude and pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281871:1877081601:0543/pct:48.61910241657077,55.6903718683294,12.773302646720369,2.774969104594989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281871:1877081601:0543/pct:36.46957272334916,41.77058757442984,9.581355200690549,2.0896528479946075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7157,7 +7157,7 @@ liam and Mary, published his “Short view
 of the immorality and profaneness of the  
 English stage.&quot; This attack was so keen an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1882060101:0293/pct:86.42985432049491,53.013063632532656,12.392735980842147,2.8655710071639273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1882060101:0293/pct:86.41260973663208,53.00561797752809,12.395251396648044,2.868679775280899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7768,7 +7768,7 @@ of the Immorality and Profaneness of the English Stage,” 1698, wa
 his “Short View of the Immorality and  
 Profaneness of the English Stage,” whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895758:1891040801:0337/pct:77.53194735838261,67.57912745936699,10.1850085828724,0.7556315939549473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895758:1891040801:0337/pct:77.51716247139588,67.56949394155382,10.187833714721586,0.7590876692801141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7794,7 +7794,7 @@ Profaneness of the English Stage,” whic
 his “Short View of the Immorality and  
 Profaneness of the English Stage,” whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:00414189908:1891050201:0210/pct:43.29485834207765,84.85412787088765,12.465897166841552,0.9155803848541278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:00414189908:1891050201:0210/pct:43.30535152151102,84.86188702669149,12.465897166841552,0.9194599627560521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8066,7 +8066,7 @@ her theories in a little book called &quot;A Serions
 Proposal to the Ladies for the Advancement of  
 Their True and Greatest Interest, by a Love
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045119:1894012102:0715/pct:110.66768994627782,43.60535931790499,51.65003837298542,5.602923264311815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045119:1894012102:0715/pct:27.682856594355922,10.901339829476248,12.9199462468804,1.4007308160779537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8102,7 +8102,7 @@ book called &quot;A Serious Proposal to the
 Ladies for the Advancement of Their  
 True and Greatest Interest, by a Lover o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894012801:0826/pct:24.135324135324137,51.41388174807198,16.15951615951616,1.699514424450157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894012801:0826/pct:18.705141350519995,39.84504703929164,12.52868512279674,1.3244788784357129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8120,7 +8120,7 @@ Serious Proposal to the Ladies for the
 Advancement of Their True and Great­  
 est Interest , by a Lever of Her Sex. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538855:1894012801:0278/pct:40.28852920478536,50.91849231187917,16.748768472906406,2.544563886243026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538855:1894012801:0278/pct:30.230512053492873,38.195672880664034,12.563786732359668,1.9152265614369302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8137,7 +8137,7 @@ est Interest , by a Lever of Her Sex.
 the Ladies For the Advancement of Their  
 True and Greatest Interest, by a Lover o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685336:1894020801:0476/pct:36.48351648351648,64.63639153114453,14.527472527472527,1.4421601718318502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685336:1894020801:0476/pct:36.47549989013404,64.62647645344379,14.52977367611514,1.445773891701181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8154,7 +8154,7 @@ little book called &quot;A Serious Proposal to
 the Ladies For the Advancement of Their  
 True and Greatest Interest, by a Lover o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn83025308:00294550513:1894021101:0346/pct:47.269890795631824,205.67536889897843,38.08502340093604,4.001135073779795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn83025308:00294550513:1894021101:0346/pct:15.756630265210608,68.55845629965948,12.695007800312013,1.3337116912599318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8171,7 +8171,7 @@ little hook called “A Serious Proposal to
 the Ladies For the Advancement of Their  
 True and Greatest Interest, by a Lover o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:0041562556A:1894022301:0239/pct:94.5368558382257,74.48385992928026,13.731245923026744,1.4600205315387247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:0041562556A:1894022301:0239/pct:73.26536630576737,57.73050063352683,10.645827189619581,1.1285617467660665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8189,7 +8189,7 @@ Proposal to the Ladies for the Ad­
 vancement of Their True and Great­  
 est Interest, by a Lover of Her Sex.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn92064042:00514153012:1894022401:0205/pct:51.341217190654746,79.31338891613537,14.537063743870782,2.157920549288867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn92064042:00514153012:1894022401:0205/pct:51.35083165080281,79.31992806931503,14.53225651379675,2.1611901258786985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8234,7 +8234,7 @@ little book called &quot;A Serious Proposal to
 the Ladies For the Advancement of Their  
 True and Greatest Interest, by a Lover o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777717:1894031401:0513/pct:182.12415856394915,286.7868315209295,48.39192221391174,5.720244302100403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777717:1894031401:0513/pct:45.54807332585111,71.69670788023238,12.102506546950991,1.4300610755251006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8250,7 +8250,7 @@ True and Greatest Interest, by a Lover o
 In the &quot;Memoirs of the Lives, Intrigues, and  
 Comical Adventures of the Most Famous Gam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:0017504517A:1894122301:0700/pct:15.407854984894259,186.9294920394238,51.3595166163142,4.306292645943897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:0017504517A:1894122301:0700/pct:3.8526912181303117,46.73237300985595,12.842304060434373,1.0765731614859742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

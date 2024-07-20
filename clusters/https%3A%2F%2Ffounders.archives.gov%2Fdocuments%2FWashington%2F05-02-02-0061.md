@@ -132,7 +132,7 @@ hold the communication of my ideas refpeaing the aaual situation
 of our national affairs. It appears to me that little more than  
 common sense sad common honesty in the tranfaaions of the com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789050901:0001/pct:56.45019100793417,88.08705612829324,26.68233911254775,7.541046200840015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789050901:0001/pct:56.47223038495445,88.09660175639557,26.68968557155451,7.555364642993509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ larity, shall ever deter me from pursuing what I conceive to be
 the true intercfts of my country.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789050901:0002/pct:13.703923900118905,7.0594987564568585,26.664684898929846,9.986607996938972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789050901:0002/pct:13.726218787158144,7.073847331165104,26.649821640903685,9.986607996938972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ common honesty, in tlie transactions of the
 community at large, would be necessary to  
 make us a great and happy nation.&quot; Else
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292479:1856103001:0174/pct:25.733634311512414,67.25570155565624,16.440933032355154,4.380003020691738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292479:1856103001:0174/pct:19.303857008466604,50.4455520314152,12.342427093132644,3.292553994864824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ common honesty, in the transactions of the
 community at large, would be nccesaal-y to  
 make us a great and happy nation.1&#x27; Elsewher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1856111301:0513/pct:70.24271147493896,54.467493336423686,14.620134999281918,4.148800556263762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1856111301:0513/pct:70.24271147493896,54.475219222003325,14.620134999281918,4.152663499053579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ make us a great ajid happy nation.— WasA­
 in ton.  
 .he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00295876864:1887081301:0538/pct:21.111285512478418,49.07357243471665,13.812588290692199,2.871383681872359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00295876864:1887081301:0538/pct:21.12174959451682,49.07357243471665,13.812588290692199,2.878607288619208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ J great and happy nation. Wash
 ington.  
 J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102925:1887082701:0279/pct:60.0451467268623,75.75033454406423,19.723476297968396,9.653985853565285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102925:1887082701:0279/pct:45.0402144772118,56.81514050850698,14.801749682517285,7.24526859109157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ community at largo would be noecs3arv to
 make us a great and happy nation.— Wash­  
 ington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.921854873336196,47.28072933039925,13.568054959209961,3.9924552027664255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn86077146:00513685129:1887112301:1098/pct:7.920154539600773,47.273298758447275,13.570508692852544,3.995756718528996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

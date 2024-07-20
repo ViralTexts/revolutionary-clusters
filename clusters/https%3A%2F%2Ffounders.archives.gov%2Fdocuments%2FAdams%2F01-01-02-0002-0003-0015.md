@@ -152,7 +152,7 @@ emulation? The world affords no greater
 pleasure.&quot; Youth&#x27;s Companion.  
 The most pop-ular lady is the on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283016:1890072301:0315/pct:52.872195785180146,98.78646441073512,21.736913664174033,41.1901983663944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283016:1890072301:0315/pct:35.25412204657488,65.85764294049008,14.4994050654428,27.467911318553092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ Tutoi Differ*
 “Qive me intellect every time,” said  
 one of a group of men in a down-tow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:0051717970A:1890073001:0258/pct:23.67941712204007,43.04025997472468,14.207650273224044,28.380574110850333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:0051717970A:1890073001:0258/pct:23.698933125162633,43.05380032496841,14.220660941972417,28.380574110850333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -121,7 +121,7 @@ is owing merely to the degradedcondition of their ex­
 adds his wifhe* for the speedy emancipation of the i  
 negroes in the United States, asfaft as circumstances 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101501:0002/pct:31.844660194174757,78.80639097744361,21.067961165048544,6.484962406015038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101501:0002/pct:31.850728155339805,78.81422305764411,21.074029126213592,6.492794486215539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ j the latter sentence is worded, to admit of a double
 interpretation, if necefiarj, it cannot be denied  
 jhat, taking the whole letter together, it meant t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101701:0002/pct:32.5,12.546816479400748,21.09223300970874,9.098002496878902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101701:0002/pct:32.50606796116505,12.550717852684144,21.104368932038835,9.105805243445692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ raising the condition both of&#x27; their body and mind t6
 ne i- &#x27;hat it ought t&gt; be, that is, in plain English, &quot; from  
 an&#x27; the degraded condition of slavery to a Rate of free
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101701:0002/pct:32.5,23.002496878901372,20.92233009708738,5.181023720349563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796101701:0002/pct:32.50606796116505,23.002496878901372,20.928398058252426,5.181023720349563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ Your most obedient * f
 Humble servant, a  
 THOMAS JEFFERSON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796111701:0002/pct:50.0,51.37064071370641,21.634121274409043,18.18329278183293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796111701:0002/pct:50.01284686536485,51.382806163828064,21.64054470709147,18.179237631792375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ degraded condition r.f their existence both in
 Africa and America; If, we repeat it, if we  
 shew that, beginning with that direct self con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805051501:0505/pct:72.15894710199949,64.26735218508998,21.64009111617312,5.061053984575835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805051501:0505/pct:72.14068825910931,64.2570281124498,21.640941295546558,5.06425702811245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ entertained of them.
 Your most obedient servant,  
 Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1852062401:0453/pct:4.371877230549607,31.705778450668685,16.291934332619558,18.950290184203887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1852062401:0453/pct:3.2851276557757543,23.78248801413071,12.229958935904303,14.219025990411305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ truth, that nobody wishes more ardently to see a
 gtssl system commenced for raisin&quot; the condition j  
 both of their 1kh1v and mind. I have taken the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1857032601:0468/pct:19.97129014893235,39.24281984334203,14.911178898259465,3.1201044386422976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1857032601:0468/pct:19.967707212055974,39.23769742853413,14.912988876928598,3.122960449027542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ them.
 I am with great esteem Sir, your most  
 obedient servant. TUO. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028605:1862072301:0062/pct:36.36512350727957,5.381431105854524,29.85440863733028,89.02424600827912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028605:1862072301:0062/pct:36.37602922732973,5.381431105854524,29.85440863733028,89.03213088902031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1084,7 +1084,7 @@ the imbecility of their present existence, and
 other circumstances which cannot he neglected,  
 will admit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kikideville_ver02:data:sn83025783:00294558494:1865102801:0002/pct:57.73657289002558,233.23835480673935,47.186700767263424,26.201684836471753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kikideville_ver02:data:sn83025783:00294558494:1865102801:0002/pct:19.245524296675192,77.74611826891312,15.728900255754477,8.733894945490585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1194,7 +1194,7 @@ tctertalct d of them.
 1 am. with great esteem, dear sir. your obe­  
 dient. &amp;C.. TUO2LIS JeFFEUSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867071901:0002/pct:88.15551537070525,65.45399879735417,9.041591320072333,6.253758268190018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1867071901:0002/pct:88.16455696202532,65.46527360192424,9.037070524412297,6.25/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1234,7 +1234,7 @@ tification against the doubts which have
 been entertained of them.  
 I am, with great esteem, dear sir, you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867071901:0074/pct:13.29105383888814,118.35588695572126,41.24949399541222,37.650741047592746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867071901:0074/pct:4.43035127962938,39.45196231857375,13.749831331804074,12.55024701586425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1274,7 +1274,7 @@ against the doubts which have been en­
 tertained against them.  
 I am, with great esteem, dear sir, you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867072301:0684/pct:7.040816326530612,71.36703044227455,16.653061224489797,16.858127512923605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867072301:0684/pct:5.2878726010616575,53.532452613440555,12.494895875867702,12.65077541642734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1359,7 +1359,7 @@ I am, with great esteem, dear sir,
 your obedient, etc.  
 THOMAS J EFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028022:1867080101:0543/pct:249.47761194029852,231.62752816614633,42.76119402985075,68.73897108728112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028022:1867080101:0543/pct:62.40433078215419,57.90688204153658,10.696285234272914,17.18474277182028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1442,7 +1442,7 @@ it a document to which your whole
 color have a right for their justifica­  
 tion against the doubts which hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022111:1867080301:0153/pct:201.22566690699352,305.4100227790433,56.596971881759195,61.902050113895214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022111:1867080301:0153/pct:50.3245582401731,76.35250569476082,14.154345474215651,15.475512528473804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1585,7 +1585,7 @@ which have been entertained oi tnem. 4
 &quot;I am, with great esteem, dear sir, your  
 obedient, &amp;o.,. .ThomAs Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054846:00212477679:1867080801:0355/pct:71.21121718377088,74.25553432969997,19.77923627684964,21.586695134284753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054846:00212477679:1867080801:0355/pct:53.423840071609725,55.69165074727498,14.844099656870059,16.19283065512979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1699,7 +1699,7 @@ sir, your obedient, etc.,
   
 IHOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85038222:00280774923:1867082201:0346/pct:221.19521912350598,125.9092712604153,47.49003984063745,88.295199047745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85038222:00280774923:1867082201:0346/pct:55.32084495815066,31.477317815103824,11.877241929055401,22.07379976193625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1744,7 +1744,7 @@ justification against the doubts which
 have been entertained of them.  
 I am, with great esteem, dear sir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774972:1867082301:0023/pct:184.04944084755738,259.4041796353935,40.02354326074161,54.5131169408626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774972:1867082301:0023/pct:46.03268070072133,64.85104490884838,10.010304725452672,13.62827923521565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1791,7 +1791,7 @@ taiaed of them.
   
 I am, with grest esteem, dear sir, your obedient,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293599:1867082801:0369/pct:115.41072640868975,234.38579768854999,51.73116089613035,35.172167282259025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293599:1867082801:0369/pct:28.857579358343237,58.596449422137496,12.934985571210321,8.793041820564756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1832,7 +1832,7 @@ fication against the doubts which have been
 entertained of them.  
 &quot;I am with great esteem, dear sir,&#x27; you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775824:1867091301:0351/pct:116.34615384615384,27.773114282288045,13.399503722084367,12.939201343086701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775824:1867091301:0351/pct:87.2944461681663,20.829835711716033,10.052745888923363,9.713394891473797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1885,7 +1885,7 @@ been entertained again? them.
 obedient servant,  
 THOMAS JEFFERSON 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895023:1868042401:0696/pct:69.9185376515001,23.74910905203136,12.815418239618518,13.884533143264433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895023:1868042401:0696/pct:69.9046483909416,23.745724059293046,12.817838696861342,13.886117445838085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1933,7 +1933,7 @@ entertained of them.
 I am, with great esteem, dear sir, your  
 obedient, ke., ThomAs JerFerson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_ely_ver01:data:sn84022040:00415668314:1870010101:0619/pct:168.18675352877307,319.0485039955399,66.77524429967427,58.42780152388032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_ely_ver01:data:sn84022040:00415668314:1870010101:0619/pct:42.080956261885355,79.76212599888497,16.707416462917685,14.60695038097008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1974,7 +1974,7 @@ I am, with great esteem, sir,
 Your inost obedient servant,  
 THO. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871112301:0262/pct:17.579988365328678,84.33023699973955,14.741128563118092,11.693723413490755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871112301:0262/pct:17.5877448128757,84.33602453916717,14.741128563118092,11.690829643776949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1991,7 +1991,7 @@ lerson, a fact to which his whole color has a
 right for their justification against the doubts  
 that have been entertained of them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871112301:0262/pct:43.88598022105875,47.26972827502387,12.914485165794066,1.4324160083340567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871112301:0262/pct:43.893736668605776,47.27551581445149,12.910606942020555,1.4324160083340567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2049,7 +2049,7 @@ sider it a document for your whole race lor their
 justificatloii against the doubts entertained of  
 them. I am, with great esteem, your obedien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293484:1873092001:0283/pct:67.01409277745155,101.10891523935003,14.048737522019964,5.9398331137461575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293484:1873092001:0283/pct:50.27161943914256,75.83443126921388,10.541770665100573,4.45761967501098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2088,7 +2088,7 @@ been entertained of them. I am, with great
 esteem, sir, your most obediont servant,  
 Tuos. Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1876052701:0044/pct:27.410813823857303,16.818090046436502,10.772017837235229,8.72198667474258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1876052701:0044/pct:27.410813823857303,16.818090046436502,10.772017837235229,8.732081566727237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2127,7 +2127,7 @@ itcrtslncd of
   
 which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876102801:0009/pct:42.56986158265866,3.1362365161805834,20.684251762862367,95.42548941270475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876102801:0009/pct:42.56986158265866,3.1362365161805834,20.697310002611648,95.44047143427886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2217,7 +2217,7 @@ present existence and other circumstance will almit
 I have taken the liberty of sending your almanac to VI  
 de Condorcet, secretary of the Ac demy of Sciences a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83027106:00211664447:1884011201:0198/pct:72.69483300028547,70.57815845824412,12.703397088210105,4.817987152034261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83027106:00211664447:1884011201:0198/pct:72.69483300028547,70.57815845824412,12.703397088210105,4.821556031406138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2256,7 +2256,7 @@ whole color bad aright for their justiflea­
 entertained of them. I am. with great es­  
 teem, sir, your moat obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn84020670:00513687941:1884011901:0109/pct:50.16553681223396,27.78502478476389,11.47721898155447,9.287764153404645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn84020670:00513687941:1884011901:0109/pct:50.17604708602659,27.79372119314723,11.471963844658154,9.287764153404645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2299,7 +2299,7 @@ that have been entertained of them.
 Your most obedient servant,  
 Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664484:1884020201:0092/pct:18.361375274323336,61.37571762704657,11.880029261155816,13.406336381033382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664484:1884020201:0092/pct:18.361375274323336,61.37926146431356,11.889782979761033,13.409880218300376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2317,7 +2317,7 @@ tion against the doubts that have been
 entertained of them.”  
 All must agree with the conclusion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664484:1884020901:0096/pct:18.546365914786968,54.63310123192287,11.912133274362377,1.906802356722014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664484:1884020901:0096/pct:18.551280161187282,54.64024281378325,11.912133274362377,1.906802356722014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2336,7 +2336,7 @@ been entertained of them.’ ”
 All must agree with this con­  
 clusion, and must ask themselve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn84020670:00513687941:1884022301:0129/pct:38.83739198743127,82.53388946819604,10.950510604870384,2.7632950990615224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn84020670:00513687941:1884022301:0129/pct:38.84262896046086,82.53823427181091,10.960984550929563,2.767639902676399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2475,7 +2475,7 @@ cation against tho doubts which have been en?
 tertained of them. lam. witli great esteem,  
 sir, your most obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:00175031704:1892120701:0395/pct:17.296373647237516,34.873262469337696,15.720524017467248,32.27037339874625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:00175031704:1892120701:0395/pct:17.296373647237516,34.882347596983735,15.733181444212391,32.27037339874625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2530,7 +2530,7 @@ tertained of them. I am, with great esteem,
 sir, your most, obedient servant,  
 TnoMAS Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn84025968:00280769472:1892121101:0418/pct:9.941402303495655,32.89161668294044,13.356233582541927,28.999860510531455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn84025968:00280769472:1892121101:0418/pct:9.951505354617094,32.902078393081325,13.366336633663366,28.996373273817827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2550,7 +2550,7 @@ Alexander Hamilton, the greatest mind
 of the Anglo-Saxon race, with the pos­  
 sible exception of the Bard of Avon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663637:1898021201:0301/pct:47.36939607261949,92.09937888198758,14.857354575768804,3.6770186335403725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663637:1898021201:0301/pct:47.37557119920958,92.10351966873706,14.851179449178709,3.6770186335403725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2599,7 +2599,7 @@ bedn entertained of them.
 &quot;lam with great esteem, sir,  
 your most obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761023:1899012801:0427/pct:66.79968076616122,24.308943089430894,19.71268954509178,29.32249322493225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761023:1899012801:0427/pct:50.10975853123129,18.238482384823847,14.807423667930554,21.991869918699187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

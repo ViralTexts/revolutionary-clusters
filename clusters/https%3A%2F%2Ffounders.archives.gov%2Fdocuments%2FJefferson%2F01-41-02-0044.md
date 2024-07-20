@@ -69,7 +69,7 @@ National Intelligencer are accurate.
 “ same authority, i have there*  
 “ lore sent some tjuei ies, 8ec. &amp;.c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814121901:0162/pct:46.84756584197925,63.588021270640915,17.398244213886674,24.993003078645398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814121901:0162/pct:46.83822062637143,63.57912410801735,17.39976062238181,24.993004057646566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ sanctioned the act admitting a por­
 tion of this new purchase into tho u­  
 nion without consulting the People fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815010301:0008/pct:46.34003227226052,2.142919618647774,37.36247616253484,92.33796903699816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815010301:0008/pct:46.33323555294808,2.142732202203953,37.36188520582771,92.33280858258993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ assent of the parties to the original eompact ?”
 It is worthy of special regard, that the mad and disastrous  
 policy of the administration is riot only repugnant to (he feelings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815010701:0181/pct:13.463166807790008,34.112232253496195,31.668077900084675,17.525225703664365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815010701:0181/pct:13.459367945823928,34.10619469026549,31.666196388261852,17.52654867256637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ get her, ar.d to do what, on the whole, I consci­
 entiously think for the best. I repeat my satis­  
 faction and esteem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827072101:0672/pct:79.13511694430423,29.041880443861114,18.206293117953894,48.275862068965516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827072101:0672/pct:79.12180349932706,29.03841565258888,18.208838043965905,48.274079376441584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ thing, crinpaio ail toge ther, and to do what, cm the
 whole, ! cnoscio.utiously think for the best. I repeat  
 my satisfaction and esteem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827072501:0176/pct:41.07114810742893,3.9837786259541983,35.80964347416366,92.97471374045801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827072501:0176/pct:41.06469849246231,3.983303518187239,35.80925460636516,92.96760087457761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ every thing, coti)|sreaIJ together, and to do what,
 on ihfe win le, I conscientiously think for ihe best. I  
 repeat my yaiintaci ion and esteem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827073101:0109/pct:49.118589743589745,18.560467665327,15.320512820512821,35.428084277189136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827073101:0109/pct:49.110719435987825,18.55820750121773,15.323399027933558,35.42782919305082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -924,7 +924,7 @@ were concerned, a requisition was a direct
 tax collected through the intermediation of  
 each State Government. And the questio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895051901:0823/pct:2.641802641802642,235.2762598664238,62.47086247086247,57.073466909532485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895051901:0823/pct:0.6607073455110766,58.81906496660595,15.623785464438399,14.268366727383121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -965,7 +965,7 @@ once intD the federal treasury.&quot;
 Rensonii for Direct Taxation.  
 The chief Justice next discussed the rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greyhound_ver02:data:sn83045462:00280655004:1895052001:0232/pct:1.2087686949395615,33.938019652305364,13.788158164310593,3.4618291761148905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greyhound_ver02:data:sn83045462:00280655004:1895052001:0232/pct:1.2241343986887934,33.949357520786094,13.783036263060849,3.473167044595616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -987,7 +987,7 @@ once into the Federal Treasury.&quot;
 The Chief lustice next discussed the  
 reasons for the Constitutional provision
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_absaber_ver01:data:sn83030193:00206539859:1895052001:0976/pct:111.81683899556869,57.56552500401994,45.05169867060561,12.284933269014312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_absaber_ver01:data:sn83030193:00206539859:1895052001:0976/pct:27.954209748892172,14.391381251004985,11.262924667651403,3.071233317253578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1010,7 +1010,7 @@ reasons for the constitutional provisions
 regarding direct taxation. The opinion  
 pext took up the argument that a tax o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152871:1895052001:0172/pct:29.625565766012894,8.917331095258078,13.002331641750104,6.07427612253462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152871:1895052001:0172/pct:29.63470945915055,8.920828087844454,13.002331641750104,6.081270107707372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1089,7 +1089,7 @@ quota may always prevent a Federal collection by
 Keeping a little beforehand in its finances, and mak­  
 Ieenins, a,ment at ouce into the yeseral frenaury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038796:1895052101:0330/pct:6.144519088972636,183.64674278038953,48.82844502703588,5.98835907768077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038796:1895052101:0330/pct:2.0481730296575456,61.215580926796505,16.276148342345294,1.9961196925602567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1116,7 +1116,7 @@ the court said:
 stitution in respect of direct taxation are  
 not far to seek. The States respectivel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665544:1895052101:0200/pct:58.11287477954145,43.712418300653596,15.895061728395062,6.61437908496732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665544:1895052101:0200/pct:43.594266813671446,32.78431372549019,11.92943770672547,4.967320261437909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1140,7 +1140,7 @@ direct taxation by the framers of the
 constitution,- the court said: The rea­  
 sons for the clauses of the constitutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:0020653686A:1895052101:0623/pct:26.092971776425014,59.58775765146783,10.749861649142225,3.6539662710805745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:0020653686A:1895052101:0623/pct:26.102195166943368,59.59122770490666,10.74063825862387,3.6574363245193977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1165,7 +1165,7 @@ the court said : &quot;The reasons for the clause ?
 of the constitution In respect to direct taxa­  
 tion arc not far to seek. The states re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895052101:0429/pct:6.294200848656295,70.05347593582887,16.707920792079207,6.252570958453312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895052101:0429/pct:4.722320481075345,52.543534896476075,12.53979483551468,4.686000274235568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1189,7 +1189,7 @@ The chief justice next discusses the
 reasons for the Constitutional provis  
 ions regarding direct taxation. &quot;Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:0020653638A:1895052101:0191/pct:58.277404921700224,137.96238892333128,51.45413870246085,15.788386030171523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:0020653638A:1895052101:0191/pct:14.569351230425056,34.49059723083282,12.863534675615213,3.9470965075428808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1268,7 +1268,7 @@ ment only linto the Federal treasury.&quot;
 The chief justice next discussed the rea­  
 sons for the constitution and provision
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1895052301:0926/pct:23.79786286731968,39.64897137102575,19.54585930543188,4.258380089195799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1895052301:0926/pct:17.861915367483295,29.736728528269314,14.67706013363029,3.1937850668968495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

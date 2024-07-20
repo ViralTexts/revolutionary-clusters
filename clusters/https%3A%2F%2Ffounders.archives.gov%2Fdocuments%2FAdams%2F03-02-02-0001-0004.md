@@ -1538,7 +1538,7 @@ In like manner (2 Chron. xvii. 7-9), we find
 Jehoshaphat sending a company oi princes,  
 and levites, and priests, or, as we would&#x27; say i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013535:1849071301:0232/pct:49.54161423692253,38.94340637182417,14.416681646593565,3.6832907648877535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013535:1849071301:0232/pct:49.532710280373834,38.93817204301075,14.418583752695902,3.6861559139784945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1577,7 +1577,7 @@ and not we ourselves; we are his people, and the sheep of
 his pasture. Enter into his gatee with thankagiving and  
 into his courts with praise; be thankful unto him, and bles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850051801:0128/pct:58.372009996429846,268.865239450563,47.19742948946805,18.871426803613414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850051801:0128/pct:19.457336665476614,89.62174648352102,15.73247649648935,6.290475601204472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1767,7 +1767,7 @@ As the rapt seraph that adores and burns,
 For him no high, no low, no great, no small­  
 He fills, he bounds, connects, and equals all.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856100701:0817/pct:66.22112211221122,126.94947676381231,40.61056105610561,16.03465736469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856100701:0817/pct:22.073707370737075,42.31649225460411,13.536853685368538,5.344885788229999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1797,7 +1797,7 @@ Lives through all life, extenes through all extent,
 Spreads undivided and operates unspent  
 Brcathes in our soul, informs our mortal part
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856100701:0819/pct:54.82016751519133,120.29612756264237,56.90589587781245,19.646924829157175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856100701:0819/pct:18.273389171730443,40.098709187547456,18.968631959270816,6.548974943052392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1994,7 +1994,7 @@ As full as perfect in vile man that mourns,
 To Him no high, no low no great, no small-  
 He uils, He bounds, connects and equals all.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743464:1863121901:0771/pct:14.578779216411636,46.64597756027692,48.9826803430301,17.36691334447362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743464:1863121901:0771/pct:4.859593072137212,15.548659186758972,16.327560114343367,5.78897111482454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2287,7 +2287,7 @@ To Him, no high, no low, no great, no small;
 He fills, he bounds, connects, and equals all.&quot;  
 Not so much in what it affiems as in what it precludes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531125:1872092101:0153/pct:8.638617821148616,245.23066250433575,46.87250039993601,11.238293444328825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531125:1872092101:0153/pct:2.8795392737162055,81.74355416811193,15.62416679997867,3.7460978147762747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2322,7 +2322,7 @@ God ; it is he that hath made ns, and not
 we -ourselves; we are his people and the  
 sheep of his pasture.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296028988:1873112201:0508/pct:60.78600114744693,29.17377528637582,12.751004016064257,2.132585912746771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296028988:1873112201:0508/pct:45.60321331229379,21.886424567389714,9.568211160522162,1.596392883256154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2340,7 +2340,7 @@ God; it is he that hath made us, and not
 we ourselves; we are his people and the  
 sheep of his pasture.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524032:1873112501:0199/pct:244.66279589102277,124.78693911079166,36.90635700461515,6.941164390594517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524032:1873112501:0199/pct:81.54212563262875,41.591375770020534,12.300287784062718,2.3134839151266258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2359,7 +2359,7 @@ lies, and he that soweth discord among brethren.
 and the scorners delight in scorning, and fools hate  
 knowledge.”—Proverbs of Solomon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110211:1874061401:0003/pct:31.662269129287598,49.534450651769085,12.36336223143611,1.636073423782921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110211:1874061401:0003/pct:31.676404070863175,49.534450651769085,12.353938937052394,1.6493748337323757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3023,7 +3023,7 @@ A devout man and ono that feared God, with all his
 house, which gave much alms to the people and prayed  
 to God always.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210168:1886061401:0387/pct:79.3772745653053,49.43418125544056,14.381992182234802,3.394912467356611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210168:1886061401:0387/pct:79.38626050231387,49.44062933230164,14.390978119243384,3.398136505787149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3064,7 +3064,7 @@ become tired or uninterested in what
 is going on you may consider the ben  
 ediction pronounced as far as you ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_alburg_ver02:data:sn84023253:0020029631A:1887012701:0449/pct:164.07154129405575,30.120481927710845,44.02945817990531,32.74526678141136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_alburg_ver02:data:sn84023253:0020029631A:1887012701:0449/pct:41.02867666403578,7.530120481927711,11.01026045777427,8.18631669535284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3152,7 +3152,7 @@ it is he that hath made us and not we
 ourselves. We are his people and the  
 sheep of his pastures. Enter into hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283211:1889112901:0492/pct:7.397260273972603,73.45725847243298,18.20205479452055,7.511380880121396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283211:1889112901:0492/pct:4.9323514300393905,48.97572078907435,12.14249015242336,5.007587253414264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3228,7 +3228,7 @@ wisdom&quot; (lv? 7).
 in the openings of the gate*. In the  
 city sbe uttereth her words, saying.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287186:1893042601:0109/pct:56.7530487804878,13.582361125976668,14.771341463414634,2.2797816547147596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287186:1893042601:0109/pct:56.7530487804878,13.585928859395626,14.786585365853659,2.2869171215526776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3246,7 +3246,7 @@ as they hurry along their downward road.
 love simplicity, and the scorners delight in  
 their scorning, and fools bate knowledge?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287186:1893042601:0109/pct:56.8140243902439,19.019586856470085,12.926829268292684,1.8302472439259339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287186:1893042601:0109/pct:56.824186991869915,19.019586856470085,12.921747967479675,1.8373827107638516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3299,7 +3299,7 @@ therefore get wisdom&quot; (iv, D.
 course, in the openings of the gates. In the  
 city she uttereth her words, saying.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893042701:0204/pct:225.26964560862865,74.52586860870885,49.76887519260401,8.617812168108026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893042701:0204/pct:56.34997109269609,18.631467152177212,12.449412218153787,2.1544530420270065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3318,7 +3318,7 @@ their downward road.
 love simplicity, and the scorners delight in  
 their scorning, and fools hate knowledge?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893042701:0204/pct:225.34668721109398,101.35032620239721,49.76887519260401,10.802609619177666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893042701:0204/pct:56.3692426286375,25.337581550599303,12.449412218153787,2.7006524047944165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3337,7 +3337,7 @@ therefore get wisdom&quot; tiv, D).
 course, in the openings of the gates. In the  
 city she uttereth her words, saying.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893042801:0132/pct:72.1830985915493,71.06227106227107,56.95422535211268,10.744810744810744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893042801:0132/pct:18.049746863306186,17.765567765567766,14.241690512876954,2.686202686202686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3356,7 +3356,7 @@ their downward road.
 love simplicity, and the scorners delight in  
 their scorning, and fools hate knowledge?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893042801:0132/pct:72.27112676056338,100.12210012210012,56.86619718309859,10.927960927960928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893042801:0132/pct:18.07175874972485,25.03052503052503,14.219678626458288,2.731990231990232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3375,7 +3375,7 @@ wisdom” (iv., 7).
 course, in the openings of the gates. In the  
 city she uttereth her words, saying.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1893042901:0899/pct:20.64784997158553,17.072208338813628,13.885205531350634,2.222806786794686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1893042901:0899/pct:20.643939393939394,17.069963177275117,13.887310606060606,2.225802209363493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3393,7 +3393,7 @@ as they hurry along their downward road.
 love simplicity, and the scoruers delight in  
 their scorning, and fools hate knowledge?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1893042901:0899/pct:20.572078045084297,22.701565171642773,13.92309149460125,1.7756148888596606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1893042901:0899/pct:20.568181818181817,22.698579694897422,13.925189393939394,1.7786691215149921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3502,7 +3502,7 @@ plicity, and the scorners delight in
 their scorning, and the fools hate  
 knowledge?” Our appeals to men t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1896103101:0861/pct:56.85063681976071,55.454931371161734,12.40833654959475,4.980897127493986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1896103101:0861/pct:56.839668145861474,55.44708545557442,12.410765965656955,4.983729485002829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

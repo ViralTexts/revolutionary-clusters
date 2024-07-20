@@ -119,7 +119,7 @@ that &quot;it was our wish to preserve the morals of our citi­
 zens from being vitiated by course of lawless plunder  
 and murder;&quot; (Ibid. 148) that on ths occaion the N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863100301:0412/pct:105.3582179409994,302.3909647963475,42.685129440096325,3.6044695422323683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863100301:0412/pct:26.33955448524985,75.59774119908687,10.671282360024081,0.9011173855580921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ these arms as shall fall into the
 hands of any of the belligerent Powers on  
 their way to the ports of their enemies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174402A:1878050701:0497/pct:58.76170142880604,156.9863323167288,46.986368861882085,32.90410030498136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174402A:1878050701:0497/pct:19.587233809602015,52.3287774389096,15.662122953960694,10.968033434993787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ cern, would scarcely be expected. It would be
 hard in principle and impossible in practice  
 At the same time Secretary Hamilton in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895040701:0287/pct:124.14596273291926,53.43859116441476,52.79503105590062,17.063913769546076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895040701:0287/pct:31.054573703631775,13.35964779110369,13.206447853952223,4.265978442386519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ would be hard in principle and impossi­
 ble in practice.&quot;  
 This same principle has since that tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1895041801:0883/pct:91.50399290150843,46.39056658038539,19.58740017746229,6.6436583261432265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1895041801:0883/pct:68.67924528301887,34.80011504170262,14.69478357380688,4.975553638193845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ will consider as a vlolation of the treaty of amity the
 toleration of that course of conduct which he alleges  
 inflicts the inconveniences and injuries of war. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897122001:0672/pct:282.3308270676692,137.75479160328567,50.30075187969925,41.922725889869184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897122001:0672/pct:70.60925159834524,34.43869790082142,12.57991726212862,10.480681472467296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ fiscate the articles and any other things in the
 shin&#x27;s cargo that may belong to the consignor  
 of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898030901:0883/pct:344.104134762634,108.50966661592328,50.1531393568147,55.89891916577866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898030901:0883/pct:86.05898123324397,27.12741665398082,12.54308693986978,13.974729791444664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -610,7 +610,7 @@ the hands of tho belligerent power on
 their way to the ports of their ene­  
 mies.&quot; So, It would seem, tho Insur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100230:1898031101:0564/pct:108.76575240919199,89.98348926802421,16.326908821349146,17.72151898734177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100230:1898031101:0564/pct:81.6243278323753,67.48761695101817,12.256628963471167,13.291139240506329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ So, it would seem, the insurgents would
 have the right to purchase here all man­  
 ner of munitions of war and ship the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472360:1898032501:0057/pct:63.926999741133834,38.03849679193401,11.092415221330572,9.715857011915674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472360:1898032501:0057/pct:60.73038773669973,36.14345147869836,10.545946389048282,9.233398909923565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ So, it would seem, the insurgents
 would have the right to purchase here  
 all manner of munitions of war an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1898033001:0951/pct:234.4213649851632,182.3477493380406,49.03560830860534,47.249190938511326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1898033001:0951/pct:58.6053412462908,45.58693733451015,12.258902077151335,11.812297734627832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ in which we have no concern, could scarcely be ex-
  pected. It would be had in principle and impossible  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898061901:0244/pct:163.55489171023152,353.9408497222639,51.15758028379388,17.955261972676777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898061901:0244/pct:40.896358543417364,88.48521243056598,12.791783380018675,4.488815493169194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -821,7 +821,7 @@ mies.Alexander Hamilton, as Secretary of the
 Treasury. Issued a circular on August 4,  
 1733, in which he maintained that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102809:1899102701:0005/pct:59.440842787682335,16.035120147874306,16.288492706645055,21.934688847812694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102809:1899102701:0005/pct:44.6088366436968,12.030191004313,12.221321443048236,16.45101663585952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

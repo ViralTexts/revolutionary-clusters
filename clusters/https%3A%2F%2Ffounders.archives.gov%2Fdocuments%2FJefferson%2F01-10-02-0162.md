@@ -777,7 +777,7 @@ part of what will be pai l to kings, priests and nobles,
 wlio will rise up amorg u* if we leave tho people in  
 ignorance.”—1786, Peri*. Vol. ii. p. 4ft
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831070801:0074/pct:36.96319018404908,68.66323331840573,14.696040156162855,17.498880429914912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831070801:0074/pct:36.9580370835076,68.65554684876301,14.69863841256564,17.50065300944065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1054,7 +1054,7 @@ are few in number and are less learned, and
 infinitely less emancipated from prejudice,  
 than those of this country.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1843081201:0178/pct:16.93156442926573,70.58291457286433,12.938394850912912,20.763819095477388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1843081201:0178/pct:16.94032138009545,70.5896147403685,12.929637900083192,20.763819095477388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1238,7 @@ A CRUSADE AGAINST IGNORANCE, estab­
 lish and improve the law for educating the com.  
 mon people.&#x27; Thomas jErreaaoir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1845082301:0310/pct:105.56920556920556,23.043541154346883,19.553644553644553,9.012006364819905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1845082301:0310/pct:79.22556853103872,17.286272240705916,14.689612784265519,6.769853898452191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1606,7 +1606,7 @@ diffusion of knowledge among the people.
 No other sure foundation can be devised for  
 the preservation of freedom and happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762428:1873100201:0347/pct:18.943425980682044,36.37442515947189,12.477823772915436,9.06393710132028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762428:1873100201:0347/pct:18.953282081608517,36.37442515947189,12.477823772915436,9.075063047025663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1632,7 +1632,7 @@ diffusion of knowledge among the people.—
 No pther sure foundation can be devisej for  
 the preservation of freedom and happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1873100901:0355/pct:54.83126110124334,63.36048344718865,12.735346358792185,6.253284287966369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1873100901:0355/pct:54.82152370804475,63.352160777617236,12.737524418398154,6.255746748982005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1668,7 +1668,7 @@ kings, nobles and priests, and by them
   
 alone. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1876072001:0331/pct:176.52027027027026,249.84651366759246,52.44932432432432,25.96111679579009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1876072001:0331/pct:44.130067567567565,62.461628416898115,13.11233108108108,6.490279198947523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1893,7 +1893,7 @@ part of what will be paid to kings, priests
 and nobles, wuo win rise up among us n  
 we leave the people in ignorance.&quot; Ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:00200297131:1882071301:0307/pct:31.798116539140672,46.01627880316405,12.9635079458505,8.769918605984179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:00200297131:1882071301:0307/pct:23.862799941115856,34.51794107531813,9.730605034594435,6.580304940960679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2080,7 +2080,7 @@ andth part oi what will be paid to
 kings, priests and nobles who will rise  
 up among us if this be not dono
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291128:1891031301:0120/pct:45.76672587329781,75.81736836067455,9.754292480757845,3.68245956177584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291128:1891031301:0120/pct:45.77042628774423,75.82310427899506,9.772794552989934,3.685327520936102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2132,7 +2132,7 @@ integrity and superiority of our schools
 system, when he said that &quot;the children  
 of all nationalities of the world enter ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199094:1891101101:0603/pct:48.55217889908257,129.95025928669702,37.715022935779814,22.594983596147742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199094:1891101101:0603/pct:16.184059633027523,43.316753095565666,12.571674311926605,7.531661198715914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2166,7 +2166,7 @@ descriptions of men are an abandoned
 confederacy against the happiness of  
 the masses f iLe jieoule.&quot; Jcffoiso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1895082301:0463/pct:66.91489361702128,49.7960372960373,18.53191489361702,8.275058275058274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1895082301:0463/pct:50.22354694485842,37.354312354312356,13.902490951671279,6.206293706293707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2187,7 +2187,7 @@ edge among tHe people. No surer founda­
 tion can be devised for the preservation  
 for the freedom and happiness.&quot; T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583231:1896052301:0191/pct:5.280312907431552,34.550943396226415,14.450239026510213,3.0037735849056606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583231:1896052301:0191/pct:5.279165761459917,34.5457289465741,14.452530958070824,3.007093268940537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2291,7 +2291,7 @@ No other sure foundation can be de­
 vised, for the preservation of freedom  
 and happiness.” A “regenerated De
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898032001:0590/pct:35.43973941368078,37.57409440175631,14.315960912052118,6.970362239297475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898032001:0590/pct:35.445168295331165,37.58141236736187,14.315960912052118,6.966703256494695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

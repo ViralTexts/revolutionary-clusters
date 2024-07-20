@@ -50,7 +50,7 @@ By the President.
 (Signed) JAMES MADISON,  
 Secretarr of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803051701:0283/pct:22.333077513430545,29.750271444082518,16.162701458173444,9.2488401934656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803051701:0283/pct:22.333077513430545,29.75356167538578,16.172934254284982,9.2488401934656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,7 +74,7 @@ Monday the 17th d..y &lt;i October next
 for their meeting at the City of Walh­  
 ioton, he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803071801:0003/pct:40.824742268041234,8.225324027916251,15.463917525773196,6.517946161515454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803071801:0003/pct:40.824742268041234,8.225324027916251,15.470165573258356,6.534562977733466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ y t-l. hundred abd three ; and ip the
 twenty-eighth year of the Independ­  
 ence of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803072201:0113/pct:3.5615681943677524,62.58312915645782,21.893981225842076,21.823591179558978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803072201:0113/pct:3.5605851504278223,62.57217847769029,21.894838531603643,21.824146981627297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ of ithe ludecpendence of the United
 By the Prefident,  
 (Sigoed) JaviEs M ADISON, Secretary,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803072301:0366/pct:46.00921658986175,9.58323522486461,19.35483870967742,25.076524605603957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803072301:0366/pct:46.00921658986175,9.58715956361353,19.367127496159753,25.084373283101797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ By the President,
 Secretary.  
 e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803072601:0324/pct:77.56219683930527,10.639142516871775,16.66405883273353,23.054783644303296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803072601:0324/pct:77.56741250717154,10.642450707952891,16.66405883273353,23.051475453222178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ By the President,
 (Signed) JAMES MADISON,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807040101:0003/pct:24.553090674133102,70.3485987696514,15.808744346327805,2.515379357484621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807040101:0003/pct:24.553090674133102,70.35315561631351,15.808744346327805,2.5199362041467306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ traordinary occasion for convening them,
 I do, by these presents, appoint Mowdav,  
 the 19th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814081101:0536/pct:19.166943245934284,25.027995520716686,18.552937271822103,5.785740948114968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814081101:0536/pct:19.16376306620209,25.025660166091257,18.555389635529007,5.788311405555037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -748,7 +748,7 @@ thousand eight hundred and twen­
 ty-one, and of the independence  
 of the 4tate of Missouri the first
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821050801:0070/pct:1.7443374121322572,55.398603669426855,18.484769591252277,18.119824646858255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821050801:0070/pct:1.743883394065591,55.38961038961039,18.486465382613222,18.120941558441558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -769,7 +769,7 @@ General Assembly ofthe State of Ohio,
 from an extraordinary occasion for  
 convening them: I, Robert Lucas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835053001:0149/pct:1.281085154483798,65.56991774383079,15.599095704596834,4.9353701527614575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835053001:0149/pct:1.280763435459568,65.55891238670695,15.601456554495229,4.938737831487076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ teenth day of May, in the year of our
 Loid one thousand eight hundred  
 and thiitv-seven, and o! the inde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215622:1837051701:0344/pct:6.146253925527142,16.85178092684795,15.679676985195155,17.786288778245883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215622:1837051701:0344/pct:6.145564651788718,16.850490196078432,15.681656760494935,17.7874795751634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ of our Lorn one thousand eight
 hundred and tbirty-eeven, and of  
 the independence&quot; of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1837052001:0541/pct:1.961271102284012,13.731798171351167,16.782522343594835,12.597358618354216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1837052001:0541/pct:1.9607843137254901,13.72947350600982,16.784561926036236,12.59945826984933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1175,7 +1175,7 @@ teenth day of May, in the year of our
 Lord one thousand eight handred and thir­  
 ty-seven, and of the indepeadence of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837052301:0487/pct:3.049734125742884,45.68629411176647,14.873318736315296,9.207237828651404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837052301:0487/pct:3.0549473464706494,45.68629411176647,14.87853195704306,9.210570162284649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1288,7 +1288,7 @@ the United States the sixty-first.
 M. Van Bur en.  
 By the President 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1837052401:0143/pct:21.2406015037594,11.822125813449023,20.755012531328322,22.288503253796094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1837052401:0143/pct:15.935443434659982,8.872017353579176,15.5750548417424,16.71366594360087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1377,7 +1377,7 @@ sixty first. ...
 . By. the President ... &#x27;  
 &#x27; MARTIN VAN BUREN. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035100:00296027133:1837052501:0022/pct:46.8476357267951,7.883683360258481,19.6584938704028,24.44264943457189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035100:00296027133:1837052501:0022/pct:35.15881708652793,5.912762520193861,14.764512595837896,18.336025848142164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1417,7 +1417,7 @@ fifteenth day of May, in the year of
 our Lord one thousand eight hun­  
 dred and thirty-seven, and of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837052501:0163/pct:3.0423701815864925,19.51974254239386,14.686205798024849,16.0292115360812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837052501:0163/pct:3.041885650581303,19.51732673267327,14.689175558740777,16.03135313531353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1669,7 +1669,7 @@ Is not this a most beautiful specimen of the consist­
 ency of conduct of a President of the United States ?  
 What could have wrought this change in his view
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1837060101:0517/pct:4.130663856691254,68.7320475995076,17.681770284510012,3.5289290110791955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1837060101:0517/pct:4.129793510324483,68.722647702407,17.68331226295828,3.5318654266958425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1697,7 +1697,7 @@ On Wednesday the 17lh an immense meeting
 assembled at Boston, in Funeui! Hull, to hear  
 the report of a committee appointed on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837060101:0166/pct:51.476520897208324,19.225449515905947,14.216556398257222,8.034703885326293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837060101:0166/pct:51.46821555340433,19.223032436509932,14.219640744326126,8.037884502556366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1785,7 +1785,7 @@ our delegates we would say sTAND FirM; know
 ye the PEoPLE only, and bear in mind the respons  
 gi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837060601:0494/pct:81.86728395061728,81.29265355279004,14.675925925925926,10.85909273384183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837060601:0494/pct:81.8775720164609,81.29934430616888,14.675925925925926,10.85909273384183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1842,7 +1842,7 @@ and of the independence ofthe United States
 M. VAN BUR EN.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837082601:0070/pct:41.210277214334006,7.441101003032424,18.847194050033806,12.444599953347328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837082601:0070/pct:41.22154608970025,7.448876448176658,18.83592517466757,12.440712230775212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

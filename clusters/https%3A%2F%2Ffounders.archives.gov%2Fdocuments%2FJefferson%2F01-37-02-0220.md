@@ -81,7 +81,7 @@ preduce, and contain more than half of our in­
 habitants. France, placing herself in that door  
 assumes to us the attitude of defiance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530194:1844033001:0650/pct:152.33415233415232,182.21024258760107,49.003549003549004,21.609815038572357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530194:1844033001:0650/pct:50.778050778050776,60.73674752920036,16.334516334516334,7.20327167952412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ in France, President Jefferson wrote that&quot;perhaps no
 thing, a.nee the revolutionary war, has produced more  
 uneasy sensations through ihe body of the ^nation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844051001:0391/pct:7.261258618160481,28.751465416178196,15.534692680064545,1.602188354826104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844051001:0391/pct:7.266148354603687,28.754721896574182,15.534692680064545,1.60870131561808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ United Stairs and will lonn a new epoch iuour
 political course. It is Ne;v Orleans through  
 which three eighths of the produce ol the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848022501:0095/pct:27.91111111111111,45.09463113171108,13.644444444444444,4.712244109694863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848022501:0095/pct:27.92098765432099,45.09463113171108,13.654320987654321,4.71546285567143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ measure forces upon us an necessarily a any other
 cause by the laws of nature brings an its necessary  
 effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848022501:0095/pct:27.79259259259259,49.64271919660101,13.777777777777779,10.940517574353033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848022501:0095/pct:27.80246913580247,49.645937942577575,13.777777777777779,10.940517574353033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ and contain mere than half our inhabitants.
 France, placing herself in that war. assumes  
 to us an attitude of defiance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854072701:0127/pct:15.077844311377245,26.287828479271415,13.029940119760479,4.117256427283939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854072701:0127/pct:15.077844311377245,26.294152989912405,13.029940119760479,4.117256427283939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ the signal for tearing up any settlement
 France may have made.&quot;  
 We return, for a moment, to the views enter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470259:1859011701:0058/pct:17.300482056775575,238.61523667058447,44.188537761114084,33.46511379420878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470259:1859011701:0058/pct:4.325120514193894,59.653809167646116,11.047134440278521,8.366278448552196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ seech a friend to look forward and to prevent them for ouro
 common interests.  
 Donaparte discovered no insult in this, and felt no di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859021301:0348/pct:99.05293421275157,255.37735849056602,51.86876374090986,19.10377358490566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859021301:0348/pct:33.01764473758386,85.12578616352201,17.28958791363662,6.367924528301887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ We return for a&quot; moment, to the
 views entertained and expressed by  
 the Massachusetts Federalists, of for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470351:1859030301:0036/pct:107.32708089097304,43.426158411321616,16.33939038686987,14.882446929924674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470351:1859030301:0036/pct:80.53071397155843,32.57247203834741,12.27092801641988,11.161835197443507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ and habitual enemy. That spot is New-Orlcans.
 &quot;France, placing herself in that door, assumes to  
 us the attitude of defiance. The day that Franc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860113001:0642/pct:105.45217107411035,7.310553231055323,97.0617042115573,284.89074848907484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860113001:0642/pct:35.15072369137012,2.436851077018441,32.35390140385243,94.96358282969162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ a takes possession seals the union of two nations,
 the signal for tearing up any settlement which  
 &quot;France may have made.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860113001:0642/pct:154.94613124387854,12.97071129707113,47.37185765589292,15.701999070199907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860113001:0642/pct:51.64871041462618,4.323570432357044,15.790619218630972,5.233999690066636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ and contain more than half of our inhabitants.
 France, placing herself in that door, assumes  
 to us the attitude of deflance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861032201:0280/pct:20.351526364477337,220.94385118842575,57.631822386679,19.221495005167068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861032201:0280/pct:5.089058524173028,55.23596279710644,14.411288457089984,4.805373751291767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ more than half our inhabitants.
 France, placing herself in that door,  
 assumes to us the attitude of defiance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286947:1870101901:0061/pct:59.92089650626236,28.741381641205894,12.738958470665787,10.301473570366365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286947:1870101901:0061/pct:44.95548961424333,21.562795727997838,9.561490273656446,7.719345680681357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -794,7 +794,7 @@ Is New Orleans. France placing herself In
 that door assumes to us the- attitude of de  
 fiance. From that moment wo must marr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_emerson_ver01:data:sn99021999:00206539501:1896021501:0910/pct:39.017341040462426,93.54393709477169,16.889450867052023,1.682990757345841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_emerson_ver01:data:sn99021999:00206539501:1896021501:0910/pct:29.278872221218144,70.16140157263071,12.687511295861196,1.269140571113257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ junetion can maintain exclusive possession of the occan. From that momeat we
 must marry ourselves to the British fleet and nation  
 Why this strong protest against France that had acquired furisdietion over tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86071197:00175034869:1896041201:0115/pct:32.134096484055604,292.7104377104377,95.91169255928045,51.043771043771045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86071197:00175034869:1896041201:0115/pct:8.038453671507465,73.17760942760943,23.992636530987934,12.760942760942761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ placing herself in that door, will assume
 to us the attitude of defiance,&quot; Further  
 along In the same letter Jefferson uses thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109117:1897062601:0399/pct:23.98854961832061,44.63308544969833,16.908396946564885,16.276133015293954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109117:1897062601:0399/pct:18.003054600992744,33.47832187456153,12.695685376097748,12.207099761470465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -928,7 +928,7 @@ sequestration for the common purposes of
 tho united British and American nations.&quot;  
 It is quite true that the necessities o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109117:1897062601:0399/pct:23.96946564885496,61.11968570225901,16.908396946564885,12.165006314017118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109117:1897062601:0399/pct:17.983963344788087,45.83976427669426,12.695685376097748,9.134278097376175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -986,7 +986,7 @@ ties there so that her possession of the
 Slace would be hardly felt by us  
 ot so can it ever be in the hands o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1897122201:0953/pct:10.178018575851393,39.37721160651097,16.737616099071207,11.238499646142959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1897122201:0953/pct:7.64466808592994,29.53998584571833,12.560479969034256,8.421797593772116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1005,7 +1005,7 @@ United States can continue long friend
 when they meet in so irritable a posi­  
 tio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1897122201:0953/pct:10.236068111455108,50.68648266100495,16.640866873065015,3.0573248407643314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1897122201:0953/pct:7.683375266111864,38.018400566171266,12.483065608670408,2.2929936305732483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1140,7 +1140,7 @@ it will ere long yield one-half of our
 whole produce, and contain more than  
 one-half of our inhabitants.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768844:1899012001:0175/pct:44.009370816599734,67.89024842417501,12.232262382864793,4.202199975281177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768844:1899012001:0175/pct:44.01355421686747,67.89333827709801,12.23644578313253,4.205289828204178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1201,7 +1201,7 @@ nent aa well, and at the s-ame timeK-.lar-Inc
 for a Urltbh alliance tiiat would enable  
 trs to rule tho oceans of the world. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109002:1899030201:0016/pct:0.42717656631407647,74.3757431629013,20.362082994304313,21.507134363852558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109002:1899030201:0016/pct:0.3256665988194586,55.78180737217598,15.285975982088337,16.141498216409037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ common purposes of the united
 British aud American nations.&quot;  
 And this is the man who is allege
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_isabel_ver01:data:sn85030529:00212473893:1899031001:0891/pct:11.932287365813377,78.48918843021623,18.37324525185797,21.089581578208367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_isabel_ver01:data:sn85030529:00212473893:1899031001:0891/pct:8.963238331268071,58.87391182252176,13.775299463031805,15.824206683515866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1264,7 +1264,7 @@ clusive possession of the ocean. From
 that moment we must imrrj ourselves  
 to the British licet and nation &quot; Thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109014:1899052801:0505/pct:58.38414634146341,80.01408450704226,16.653963414634145,4.225352112676056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109014:1899052801:0505/pct:43.81315538608198,60.014084507042256,12.507149666348903,3.1690140845070425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1289,7 +1289,7 @@ that moment we must marry ourselves
 to the British fleet and nation.”  
 _These were the words of one of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_firefriend_ver01:data:sn91070630:00514152962:1899060501:0540/pct:57.37030648799257,64.45062873634302,12.81677059838132,4.937126365697794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_firefriend_ver01:data:sn91070630:00514152962:1899060501:0540/pct:57.37472911414798,64.45750017178588,12.812347972225908,4.933690647976363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1312,7 +1312,7 @@ ocean. From that moment we must
 marry ourselves to the British fleet and  
 nation.&quot; These were the words of on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768868:1899060601:0054/pct:69.80636691828028,63.08139534883721,12.372825730226452,4.154554263565892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768868:1899060601:0054/pct:69.81046931407943,63.09047965116279,12.368723334427306,4.148498062015504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1336,7 +1336,7 @@ clusive possession of the ocean From
 that moment wo must marry ourselves  
 to tho British fleet and nation Thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abe_ver01:data:sn82016187:0010049372A:1899060801:0104/pct:71.35687732342008,37.818993166922326,12.602230483271375,3.807000418351694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abe_ver01:data:sn82016187:0010049372A:1899060801:0104/pct:71.35687732342008,37.82945195928043,12.602230483271375,3.7965416259935854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1369,7 +1369,7 @@ the ocean From that moment we
 must marry ourselves to the British  
 fleet aud nation.&#x27; And this is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_ancientbison_ver01:data:2018270203:00279527380:1899060901:0296/pct:7.033175355450237,70.94979647218453,14.04739336492891,14.328358208955224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_ancientbison_ver01:data:2018270203:00279527380:1899060901:0296/pct:7.031842304776346,70.94017094017094,14.049469294920394,14.329805996472663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1392,7 +1392,7 @@ From that moment we must marry our­
 selves to the British fleet and nation.”  
 These were the words of one of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00271769854:1899062701:0107/pct:21.7815344603381,78.90603597844945,13.914174252275682,3.9083188749885855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00271769854:1899062701:0107/pct:21.790203727785002,78.90603597844945,13.905504984828783,3.9113627370407573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1438,7 +1438,7 @@ possession of the ocean. From that
 moment we must marry ourselves to  
 the British fleet and nation.&quot; Thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669550:1899081701:0869/pct:55.092592592592595,79.54242330973634,21.69753086419753,7.202216066481994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669550:1899081701:0869/pct:36.73406389874981,53.031702062172975,14.477542830683747,4.801477377654663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1529,7 +1529,7 @@ In sequestration for the common purpose
 of the united British and American l.a­  
 tions.&quot; The Democratic conventions whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109026:1899090601:0723/pct:5.433962264150943,106.60153524075366,16.58490566037736,5.457083042568039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109026:1899090601:0723/pct:4.077779875401171,79.95812979762735,12.459882952614688,4.089323098394976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1592,7 +1592,7 @@ America In sequestration for the common
 purpose of the united British and American  
 nations &quot; These old Democratic father
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109038:1899100301:0150/pct:25.267993874425727,53.981559094719195,16.730474732006126,17.51886001676446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109038:1899100301:0150/pct:18.958253542703943,40.4861693210394,12.562236690923019,13.146130203967589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1673,7 +1673,7 @@ So it will be-been that Jefferson was
 willing and ready to leave our own con­  
 tinent In search of landed domain. H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109038:1899111801:0669/pct:24.9051593323217,32.94805737362484,16.69195751138088,12.240635009051664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109038:1899111801:0669/pct:18.690702087286528,24.718005848767582,12.523719165085389,9.176994847514274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

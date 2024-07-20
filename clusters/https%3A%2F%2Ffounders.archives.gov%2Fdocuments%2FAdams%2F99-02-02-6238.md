@@ -150,7 +150,7 @@ to you, ye lawyers, for ye lade men with
 burdens grievous to be borne, an- ye  
 yourselves touch not the burdens wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053283:00517176990:1892071301:1157/pct:37.39623405547682,113.9234149403641,21.98825673213201,3.615819209039548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053283:00517176990:1892071301:1157/pct:28.98687169831058,88.2913855734302,17.045870599926776,2.802283341982356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ present and future, and their notes .
 with them? For these are to ruin ,  
 both republic and individuals.”— 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890566:1892091401:0878/pct:56.72634271099744,18.704177323103153,17.723785166240408,17.01619778346121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890566:1892091401:0878/pct:56.71183840450013,18.700988748721446,17.725645614932244,17.017558813501534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ both republic and individuals.”—
 ye lade men with burdens grievous to  
 be borne (McKinley Tariffs) anil y
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074064:00383343604:1892101301:0780/pct:44.9901061341968,42.97938545313108,12.933980931822271,1.4261636198625698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074064:00383343604:1892101301:0780/pct:44.98201438848921,42.97381384495722,12.93615107913669,1.4292196007259528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ future, and their notes with them?
 For these are to ruin both the republic  
 and individuals.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892110101:0358/pct:72.31884057971014,24.170664489129326,20.27536231884058,12.034296213126467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892110101:0358/pct:54.262104957958826,18.127998366846995,15.207306465642215,9.03337756456058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ Republic and individuals.
 I; will be seen by the above letter  
 that the same class of persons “de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1893011301:0246/pct:40.57971014492754,17.521429609182043,16.216216216216218,18.480313816649716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1893011301:0246/pct:31.454591449532,13.58279537606966,12.577789020996711,14.325927037982284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ Letter of Thomas Jefferson to Pre­
 sident Adams, Jan. 21. 181-1.  
 Iu a letter to John Taylor, Ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878964:1894061401:0496/pct:94.86745628877608,69.08693275013668,14.424703891708967,11.142700929469656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878964:1894061401:0496/pct:71.18070249682607,51.82066703116457,10.833685992382565,8.354291962821213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ charters, present and future, and their
 notes with them&#x27;.&#x27; For these are to  
 ruin both republic and individuals.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473807:1894072501:0539/pct:58.61139630390144,75.40666937779585,16.65811088295688,18.096787311915413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473807:1894072501:0539/pct:39.08857509627728,50.2745018300122,11.10397946084724,12.067913786091907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ tlie burdens with one of your fingers.
 “Woe unto ye, for ye build the  
 sepulchres of tlie prophets and you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894091901:0581/pct:19.775553533515318,55.754295128265476,11.904761904761905,7.0957872440574254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894091901:0581/pct:19.775553533515318,55.76214011139876,11.91992720655141,7.0957872440574254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ bank-mongers who were seeking to
 filch from the public their swindling  
 and barren gains
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292339:1895010501:0003/pct:45.366470092670596,60.24411508282476,18.155012636899748,11.609997093868062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292339:1895010501:0003/pct:34.04972608512431,45.19035164196455,13.611462284028656,8.70386515547806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ future, and their at tea with them?
 For these are to both republic and  
 individuals.&quot; Letter to Thomas Jef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_flash_ver02:data:sn89067453:00280779945:1895012401:0665/pct:25.701239399869536,18.94487255483106,57.76255707762557,110.00592768227624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_flash_ver02:data:sn89067453:00280779945:1895012401:0665/pct:19.279073560593705,14.214582098399525,43.33713912901647,82.50148192056906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ present and future, and their notes
 with them? For these are to ruin both  
 republic and Individuals.&quot; Letter o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473807:1895022701:0661/pct:126.0157440325038,128.49934403067917,15.871000507872017,14.461600565142799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473807:1895022701:0661/pct:84.02539682539683,85.66959329902109,10.577777777777778,9.637703098193562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ present and future, and their notes
 with them? For these are to ruin both  
 republic and individuals.&quot; Letter o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1895022801:0051/pct:71.39945652173913,97.61102154477503,18.86322463768116,16.165909424007037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1895022801:0051/pct:53.591661001586225,73.20826615858127,14.162701110355767,12.135424300161219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ ters, present and future, and their
 notes with them? For these are to  
 ruin both republic and individuals.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895031301:0115/pct:44.692970269519314,82.69103721647214,11.62823006390664,9.458269103721648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895031301:0115/pct:44.69760118551449,82.69470747999706,11.637491895897009,9.465609630771489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -668,7 +668,7 @@ preseut and future, and their notes
 with them? For these are to ruin  
 both republic and individuals.”—Let
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895051501:0191/pct:82.14389324049898,63.19285636502232,12.184508268059181,9.99673309376021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895051501:0191/pct:82.14389324049898,63.19285636502232,12.199013635044967,10.000362989582198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ FABHKRS &amp; MERCHANTS !
 I atn pnirrl to make contracts a ith tar­  
 ties any where deniritijr to bsr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1895071101:0116/pct:47.42501414827391,70.94708105837883,77.03735144312394,40.64468710625788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1895071101:0116/pct:35.573793688976934,53.21293574128517,57.78972689967454,30.491390172196557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ as a maniac by the tribe of bank mongers,
 w ho were to filch from the public  
 their swindling and barren gains.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069161:00100481844:1896090901:0130/pct:21.457142857142856,26.54107680303199,13.214285714285714,7.84750863894772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069161:00100481844:1896090901:0130/pct:16.10460131466133,19.908594359603164,9.917119176907688,5.893991751198306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -838,7 +838,7 @@ FITZ LEE COMING HOME.
 Needs a Change of Climate, and Will  
 Take a Short Rest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896102001:0363/pct:35.528208406584625,18.623344277142532,27.665015182995045,13.075965130759652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896102001:0363/pct:35.538863139949925,18.630891731763462,27.659687816312395,13.068417676138722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ tribe of bank-mongers who were
 seeking to filch from the public  
 their swindling and barren gains.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896102401:0379/pct:76.13929492691315,65.63009234111895,17.26139294926913,9.709397066811515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554516:1896102401:0379/pct:76.12293144208037,65.62118126272912,17.26305609284333,9.711473183978276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -962,7 +962,7 @@ bank-mougers who were seeking to
 tiicli from the public their swindling  
 and barren gains.&quot; ? American Bi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554899:1896102601:1016/pct:6.2474889513860985,35.11205976520811,18.742466854158298,11.019210245464247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554899:1896102601:1016/pct:6.257533145841704,35.11205976520811,18.7474889513861,11.039220917822838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ bank-mongers who wore seeking to
 fllch from the public their swindling  
 and barren gains.&quot;  American Bi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00271762628:1896110101:1008/pct:142.41107355544824,199.07053730583144,45.694511508128116,31.66539343009931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00271762628:1896110101:1008/pct:35.60276838886206,49.76763432645786,11.423627877032029,7.916348357524828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1022,7 +1022,7 @@ bank mongers who were seeking to filch
 from the public their swindling and  
 barren gains.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1896120401:0759/pct:17.236870777947264,62.637735209357515,10.743081281324907,10.018647228343788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1896120401:0759/pct:17.233115468409586,62.6271186440678,10.746187363834423,10.021186440677965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1080,7 +1080,7 @@ precipitate panics and give the country
 object kssous jn the way of hard times,  
 they will soon curtail this power oi tn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897020401:0230/pct:78.3195020746888,126.66434297664692,21.53526970954357,15.313117230161497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897020401:0230/pct:52.24159402241594,84.44289531776461,14.362806143628061,10.21261763680725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1114,7 +1114,7 @@ object itssens in the way of hard times,
 they will soon curtail this power of the  
 banks. Pleasan ton (Kan.) Herald.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897021801:0246/pct:100.60165975103735,123.5654789449329,21.452282157676347,17.665432670060156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473674:1897021801:0246/pct:67.10253217102532,82.38084220268394,14.300539643005397,11.776955113373438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ barren gains.”
 There are Jefferson’s own words that  
 he was “insane” on the money ques
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897051401:0851/pct:16.876903001304914,38.41652323580034,10.482818616789908,8.364888123924269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897051401:0851/pct:16.873233311589477,38.40991223541559,10.485975212002609,8.367750817415248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1170,7 +1170,7 @@ and barren gains. The evils they have en­
 gcnuereu are now upon us and the ques­  
 tion is how we are to get out of them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212037:1898042201:0071/pct:17.796436616833912,27.429509991787572,14.745033790702436,5.255954010402409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212037:1898042201:0071/pct:17.792792792792792,27.425756124264403,14.747133497133497,5.258656083207883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ and barren gains. The evils they have en­
 gendered are now upon us and the ques  
 tion is how we are to get out of them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470715:1898042901:0778/pct:164.53531598513013,82.3992133726647,85.20446096654275,20.353982300884955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470715:1898042901:0778/pct:41.141476110801264,20.599803343166176,21.305075292805356,5.088495575221239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1227,7 +1227,7 @@ tional banks of his day and declared that if
 (&#x27;&quot;&quot;S had power under the Constitution ;o  
 issue paper money it was given them to exercis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211103152:1898091201:0082/pct:46.68963451168364,68.8963963963964,18.019772318753745,8.31081081081081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211103152:1898091201:0082/pct:31.140416604225987,45.93468468468468,12.018582346770568,5.54054054054054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1250,7 +1250,7 @@ the establishment of the Bank of the
 United States that I was derided  
 as a maniac by the tribe of bank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn95069779:00206538983:1898111701:0017/pct:52.13687985654513,47.298568293447595,18.051404662283325,6.730065837600585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn95069779:00206538983:1898111701:0017/pct:39.1122403228217,35.479151426481344,13.540576894335675,5.047549378200439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1319,7 +1319,7 @@ property of th.- rest &quot;f the people.
 You believe that the Issuing cf paper  
 money is a function .&gt;f the bulks, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:00175031418:1899042501:0007/pct:18.11740890688259,48.696395497934176,16.214574898785425,10.75651802251033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:00175031418:1899042501:0007/pct:18.11740890688259,48.696395497934176,16.228070175438596,10.761267037089803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1378,7 +1378,7 @@ controlled the business men of the coun­
 I try and eoulcl and would regulate the  
 nominations and Hectlons of the peopl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534837:1899051401:0126/pct:66.50641025641026,87.41465928120572,19.675925925925927,8.707973721499421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534837:1899051401:0126/pct:44.36130411544629,58.27643952080381,13.130233386780688,5.8096096869766845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1394,7 +1394,7 @@ nominations and Hectlons of the peopl
 &quot;I have ever been the enemy of  
 banks. Not of those discounting for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_ellis_ver01:data:sn86063952:00237280866:1899052001:0868/pct:17.391304347826086,380.74837310195227,51.86880244088482,4.3383947939262475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_ellis_ver01:data:sn86063952:00237280866:1899052001:0868/pct:4.348655349990463,95.18709327548807,12.96967385084875,1.0845986984815619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1420,7 +1420,7 @@ wBo were seeking to filch from the
 public their swindling and barren  
 gains.&quot; What would Jefferson hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762835:1899052401:0404/pct:40.53468208092485,90.70121951219512,16.94364161849711,10.106707317073171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762835:1899052401:0404/pct:30.40650406504065,68.03353658536585,12.719060523938573,7.576219512195122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1469,7 +1469,7 @@ discounting for cash, but of those foisting
 their own paper into circulation and thus  
 banishing our cas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899122401:1365/pct:264.24,286.79906542056074,51.84,10.499415887850468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899122401:1365/pct:66.08643457382954,71.69976635514018,12.965186074429772,2.624853971962617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

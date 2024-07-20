@@ -103,7 +103,7 @@ died April 17th, A. 1).* 1797. Aged 88.
 The sweet remembrance tf the just  
 Should jtuurish when they sleep in dus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072201:0595/pct:21.435862538278325,49.4496855345912,18.23749574685267,34.523809523809526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072201:0595/pct:21.432216363327097,49.44413250982594,18.2400635028633,34.52367583754445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ Baxter, who died Angt 27,
 1892, by a great grandson,  
 in 1817
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848031401:0318/pct:54.65868650922032,188.07794304162343,46.00452927855063,35.31649948114839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848031401:0318/pct:18.219562169740104,62.69264768054114,15.33484309285021,11.77216649371613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -610,7 +610,7 @@ Baxter, who died Angt 27,
 1092, by a great grandson,  
 in 1817
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1858111101:0186/pct:8.069914466344366,31.482993197278912,14.168835998512458,14.70748299319728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1858111101:0186/pct:8.06841420338353,31.4787103795402,14.170849600297453,14.70888314515032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ aged 88.
 The sweet remembrance of the just  
 Should flourish when they sleep in dust
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1858111101:0186/pct:8.05132019338044,46.394557823129254,14.559315730754928,26.408163265306122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1858111101:0186/pct:8.0498233872467,46.38824649707523,14.56125673917085,26.407971704529995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,7 +714,7 @@ verance of his ancestors, in hopes of recommending
 an imitation of their virtues to their posterity.”  
 A lofty granite shaft bears also the simpl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860071301:0657/pct:4.621684867394696,62.13173985547527,16.458658346333852,8.004446914952752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860071301:0657/pct:3.5919395465994963,48.15293484114163,12.755667506297229,6.207144139292766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

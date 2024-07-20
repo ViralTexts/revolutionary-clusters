@@ -98,7 +98,7 @@ consent of the Senate, and appoint him to be Secretary
 of War for the United States, and do authorize gad  
 empower him to execute and fulfi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868022701:0526/pct:8.949668231105356,12.304709773064204,93.29988671306036,276.80465275401986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868022701:0526/pct:2.9832227437017855,4.1015699243547346,31.09996223768679,92.26821758467328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ the same of right appertaining, during the
 pleasure of the President of the United States  
 ibr the time being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562394A:1894090801:0168/pct:61.18730407523511,63.39617252213653,11.265673981191222,3.5846900885461297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562394A:1894090801:0168/pct:61.18730407523511,63.40093306674284,11.285266457680251,3.5989717223650386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

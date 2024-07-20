@@ -86,7 +86,7 @@ in some instances than rigor. It is there­
 fore my first wish to have my whole  
 conduct distinguished by it.—Washing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155902:1893012501:0222/pct:83.3717017885603,79.20436402341672,10.855321409598016,10.737094199042044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155902:1893012501:0222/pct:83.35694050991502,79.1938273247306,10.857825779036828,10.73899161899694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ in some instances than rigor, It is there­
 fore my first wish to have my whole  
 conduct distinguished by it, Washing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:00279527549:1893012701:0301/pct:88.93728222996516,98.23290845886443,19.316202090592334,18.641367323290847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:00279527549:1893012701:0301/pct:66.74656787971236,73.6819235225956,14.512965787753323,13.977404403244496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ conduct distinguished by it.—Washing­
 ton.  
 In public house signs three seems t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014072:1893020201:0425/pct:18.654001616814874,66.66171666171667,12.287793047696038,13.8996138996139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014072:1893020201:0425/pct:18.650232370175793,66.65181885671863,12.290361689230147,13.901262063845582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ conduct distinguished by it.Washington,
   
 Now Try This
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1893020201:0241/pct:84.53261600537996,5.592783505154639,25.722932078009414,121.52061855670104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1893020201:0241/pct:63.41012275096688,4.201030927835052,19.30385068101564,91.1340206185567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ in some instances than rigor. It is there­
 ‘ conduct distinguished by it.—Washing­  
 ton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn92064044:00514153024:1893020301:0040/pct:15.968640396121312,54.96546431312356,12.471631937280792,2.417498081350729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn92064044:00514153024:1893020301:0040/pct:15.968640396121312,54.96802251215144,12.47850904339454,2.417498081350729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ conduct distinguished by it.—Washing­
 ton.  
 In public house signs three seems t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_newcastle_ver01:data:sn86072173:00514150667:1893020801:0014/pct:43.31656092758696,43.072702331961594,12.09800918836141,14.008916323731139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_newcastle_ver01:data:sn86072173:00514150667:1893020801:0014/pct:43.33296871581711,43.0769890260631,12.092539925618027,14.013203017832648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ ton.
   
 IN CENTRAL AMERIC
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:0021247874A:1893021601:0069/pct:70.39127163280662,5.49308517513248,30.944319036869828,100.2197234070053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:0021247874A:1893021601:0069/pct:61.59881487984198,4.813963131903344,27.08219027762537,87.69555547178346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ conduct distinguished by it.-Washing­
 ton.  
 In public house signs three seems t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn86075022:00294550021:1893021701:0114/pct:58.22898032200358,227.275600505689,44.074239713774595,41.00821744627054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn86075022:00294550021:1893021701:0114/pct:19.409660107334528,75.75853350189634,14.691413237924866,13.669405815423515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ in some instances than rigor. It is there­
 fore my first wish to have my whole  
 conduct distinguished by it.Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_cane_ver01:data:sn91068076:00296022913:1893022701:0197/pct:43.30783938814532,35.54807961872722,15.32823454429573,3.1118587047939443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_cane_ver01:data:sn91068076:00296022913:1893022701:0197/pct:32.49402390438247,26.661059714045415,11.50597609561753,2.3409027193720213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ conduct distinguished by it.—Washing­
 ton.  
 In public house signs three seems t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768941:1893030301:0314/pct:57.08160257269195,16.16515045486354,12.233686185180222,13.835849245226433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768941:1893030301:0314/pct:57.08160257269195,16.168482788496785,12.238152664254768,13.835849245226433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ conduct distinguished by it.—Washing­
 ton.  
 In public house signs three seems t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155902:1893041201:0269/pct:7.515233581584292,76.43448091806779,10.477318889641165,12.316519882572726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155902:1893041201:0269/pct:7.5139617532577425,76.42428285523683,10.479776611947877,12.318212141427619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ in some instances than rigor. It is there­
 fore my first wish to have my whole  
 conduct distinguished by it.-Washing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211105124:1893052001:0361/pct:73.79361544172235,319.7308209959623,46.919079435783225,47.96769851951548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211105124:1893052001:0361/pct:18.455254363163757,79.93270524899057,11.734125510582993,11.99192462987887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ force in most instances than rigor; it
 is, therefore, my first wish to have  
 my whole conduct distinguished by it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1899021601:0433/pct:81.2577065351418,54.625107727664464,14.118372379778052,5.5874748635449585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1899021601:0433/pct:81.26455678860118,54.625107727664464,14.111522126318674,5.5922627597433685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

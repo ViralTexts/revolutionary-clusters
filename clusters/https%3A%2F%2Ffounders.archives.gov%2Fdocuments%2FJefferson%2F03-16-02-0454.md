@@ -83,7 +83,7 @@ ty of expression, happiness of elucidation, and
 in simple and unassuming language.&quot;  
 Such was the man, who, drinking ing th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869011301:0674/pct:244.66313398940196,185.84878744650499,44.58743376230129,14.664764621968617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869011301:0674/pct:61.188943581976524,46.462196861626246,11.151079136690647,3.6661911554921542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -103,7 +103,7 @@ of elucidation, and in simple aud un-
 assuming language.&quot;  
 Such was the man, who, drinkin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194965:1869033001:0047/pct:90.93333333333334,61.69093851132686,13.853333333333333,4.05542071197411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194965:1869033001:0047/pct:68.22729091636654,46.26820388349515,10.404161664665866,3.0440938511326863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ of elucidation, and in simple and unassuming
 language.&quot;  
 Such was the man, who, drinking in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862737:1869102801:0137/pct:84.57127617015603,59.7911227154047,14.988665155354047,4.839612085042894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862737:1869102801:0137/pct:84.57127617015603,59.797339301255754,14.988665155354047,4.84272037796842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ expression, happiness of elucidation, and
 in simple and unassuming language.&quot;  
 Such was the man, who, drinking i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767778:1869120401:0615/pct:70.63829787234043,37.088645123035874,13.026767330130404,4.051783773100109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767778:1869120401:0615/pct:70.64744909631663,37.0952333893336,13.035918554106612,4.055077906248971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ expression, happiness of elucidation, and
 in simple and unassuming language.  
 Such was the man, who, drinking in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1870020301:0019/pct:319.49740034662045,177.67983629781205,56.84575389948007,11.773965055879112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1870020301:0019/pct:79.87435008665511,44.41995907445301,14.211438474870018,2.943491263969778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ arity of style, in perspicuity of expres
 sion, happiness of elucidation, and in  
 simple and unassuming language.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524019:1870022501:0471/pct:207.77583624563155,130.02421307506054,38.579630554168745,13.706329989622969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524019:1870022501:0471/pct:69.24996880069887,43.33765672287073,12.858271974707767,4.568381611183168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ cidation, and in simple and unassuming lan­
 guage.”  
 Such was the man, who, drinking in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340640:1870022501:0243/pct:73.41326938449241,41.372476155084854,10.839328537170264,4.645113340765515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340640:1870022501:0243/pct:73.40153452685422,41.36735199405499,10.841592071611252,4.647634381966807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ elucidation, and in simple and unassu­
 ming language.&quot;  
 Such was the man who, drinking i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1870031101:0774/pct:200.61213132999444,336.31607047517355,42.793544796883694,21.612386545648693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn87075001:00237286935:1870031101:0774/pct:50.15303283249861,84.07901761879339,10.698386199220923,5.403096636412173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ ness of elucidation, nod in simple aud unas
 Buming language.&quot;  
 v Such was the man, who drinking in thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558627:1871011301:0887/pct:2.7043544690603514,49.982604661950596,15.614973262032086,3.67621477444045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558627:1871011301:0887/pct:2.7043544690603514,49.982604661950596,15.614973262032086,3.68394603579574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ familiarity of style, in perspicuity of expression,
 happiness of elucidation, and in simple and un­  
 assuming language.&quot; Mr. Randall (Jefferson&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876061501:0631/pct:59.269258459323254,44.18245614035088,16.198704103671705,2.7087719298245614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876061501:0631/pct:44.48046101206555,33.136842105263156,12.155591572123177,2.0350877192982457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

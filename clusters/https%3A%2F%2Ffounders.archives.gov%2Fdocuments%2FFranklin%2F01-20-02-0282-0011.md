@@ -343,7 +343,7 @@ the Measures of the Board to procure 2 Removal of the Troops
 from the Town of Boston. Fle makes the Address of a Number  
 of the Council to General Gage, in which they intimated tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773071601:0095/pct:5.0549915397631136,42.298392831745126,26.480541455160743,9.031432228701465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773071601:0095/pct:5.062041737168641,42.30787465035794,26.487591652566273,9.031432228701465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ thePleafure which would be derived to himfelf from their adopt­
 ing severe Measures against the Colonies, which it feems,he was  
 encouraged to expet by a, Letter from the Gentleman to who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773071601:0095/pct:4.928087986463621,53.32100696913668,26.607445008460235,10.43948229270374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773071601:0095/pct:4.928087986463621,53.33048878774949,26.614495205865765,10.434741383397336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ i. e. the tyrannic usurpation of thia detested
 cabal, who had they not been oppofled and ex­  
 posed st the rifque of profecutions,even by infor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773090201:0459/pct:29.280343716433944,37.057676232933964,26.143931256713213,48.71830593480078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773090201:0459/pct:22.703812642211,28.719499028287625,20.26749542149953,37.76002303318218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ a’ in pa nting, require frequent touching,be­
 for* it becomes a piece highly finifhed ; and  
 after all may require the miliorating hand of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773090201:0459/pct:56.090225563909776,6.422401783226525,26.48764769065521,90.4151574254667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773090201:0459/pct:43.470780842444086,4.980925646008782,20.53388090349076,70.07125890736341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ and paiiei but that lam, Sir, your oblig­
 ed and molt obedient humble servant,  
 ANDW. OLIVE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773090201:0459/pct:83.24382384532761,6.408470325996099,26.251342642320086,21.70521036500418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773090201:0459/pct:64.52633331483435,4.966529907147485,20.345191187080303,16.832217663571583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

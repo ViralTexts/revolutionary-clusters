@@ -53,7 +53,7 @@ tional cost will be. I am, dear sir,
 Your most obedient, humble servant,  
 Go. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211101921:1881021801:0182/pct:195.33255542590433,108.84061088406109,47.899649941656946,24.091202409120243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211101921:1881021801:0182/pct:48.840262582056894,27.210152721015273,11.976659372720642,6.022800602280061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ Your moat obed.,
 HbL 8ervt.  
 O. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050201:0072/pct:103.05094786729858,100.48732943469786,18.276066350710902,11.955815464587394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760596:1897050201:0072/pct:68.71574581543474,66.99155295646524,12.19078655014072,7.970543643058263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ Your most obed.,
 Hbl. Servt.,  
 G. WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584417:1897051301:0144/pct:7.178688808164678,80.13757523645744,15.827711468604047,10.563812799410393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584417:1897051301:0144/pct:6.291307199434943,70.12396102034967,13.848948085364007,9.243336199484093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ Your most obed.
 1Ib Ser  
 G. WASHiNGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344049:1897051301:0039/pct:205.97439544807966,18.97420693744441,48.87218045112782,11.517936554995552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344049:1897051301:0039/pct:51.483136936204794,4.742848673484511,12.215562779357985,2.8790573588261448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ and dormer window on each side of it, in
 front, and skylights in the rear.  
 If this is not incongruous with the rules
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344049:1897051301:0039/pct:162.32473074578337,362.5259412985473,44.889250152408046,20.53068485028165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344049:1897051301:0039/pct:40.572937830150344,90.61805246776345,11.22003250711093,5.131910478731288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ Y’our most obed..
 Hbl. Servt..   
 G. WASHT* GTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1897051301:0712/pct:34.921734312231614,84.3944099378882,9.821304889873943,7.353593611357587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1897051301:0712/pct:34.92635175693771,84.39810706891453,9.835157223992242,7.353593611357587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ Your most ohed.,
 Hhl. Servt.,  
 U. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87007277:00415662166:1897061101:0098/pct:70.49549549549549,97.54264238219139,16.98198198198198,11.43394044521538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87007277:00415662166:1897061101:0098/pct:52.91863871985576,73.15698178664354,12.733829163849448,8.586296617519514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

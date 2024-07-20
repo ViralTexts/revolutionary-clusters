@@ -34,7 +34,7 @@ and the world, that we.are not a degraded
 people, humiliated under a colonial {pirit  
 of fear and sense of infdriority, fitted to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:24.661583942741558,41.27,15.683833826046367,2.92/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:24.671956848711165,41.276666666666664,15.683833826046367,2.9133333333333336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ tranfadtions -disclosed in your. com­
 munication had never taken place,  
 or that they could have been congeal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797053001:0297/pct:5.523750580225902,18.72037914691943,17.19015936871422,56.812796208530806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797053001:0297/pct:5.528908143792872,18.72037914691943,17.205632059415134,56.81937862032649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ ous duties with fatisfadtion to«your­
 felf, and advantage to our common  
 country. e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797053001:0297/pct:5.430914436020424,7.464454976303317,34.24106452112022,84.7847551342812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797053001:0297/pct:5.436071999587395,7.464454976303317,34.235906957553254,84.78804634017904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ cur neutral rights,&quot; it should read, u injuries
 which may have been committed upon our neu­  
 tral rights.&quot; This amendment was agreed 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060301:0003/pct:5.687861271676301,30.086675481122374,16.508670520231213,2.982224180990157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060301:0003/pct:5.705202312138728,30.086675481122374,16.497109826589597,2.985896870868224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ powerful reason for supporting-it—it fays,
 &quot; France on the footing of a their countries  
 &quot;by removing the inequalities v/hich hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060501:0002/pct:78.89800703399766,35.908756438557766,16.037514654161782,7.196467991169978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060501:0002/pct:78.89800703399766,35.91243561442237,16.060961313012896,7.196467991169978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ ble you to discharge its various duties with satis­
 &quot; fatSion to yourieif and advantage to our common  
 - countty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060501:0003/pct:22.29014813073125,27.88856304985337,16.976252057371266,46.80351906158358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060501:0003/pct:22.301904537973197,27.89956011730205,16.970373853750292,46.8108504398827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1089,7 +1089,7 @@ selves ; and although foreigners, who
 have conceived the projeft, and foreign  
 emissaries may attempt the execution, ye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797061301:0305/pct:25.902864259028643,46.420437667095754,16.3293897882939,37.66709575205466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797061301:0305/pct:25.91324200913242,46.423738323926464,16.32420091324201,37.67039640888537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1164,7 +1164,7 @@ will enable you to discharge its various
 duties with fausfattion to yourlelf and ad­  
 vantage to our common country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797061301:0305/pct:42.77708592777086,6.060005941182295,16.39165628891656,34.93415189622735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797061301:0305/pct:42.77708592777086,6.0666072548437135,16.40203403902034,34.92755058256593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1789,7 +1789,7 @@ will produce an accommodation compatible
 with the engagement#, rights, duties and ho­  
 nour of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798043001:0002/pct:77.67695099818512,70.44370573782338,15.857531760435572,8.093655152478682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798043001:0002/pct:77.67695099818512,70.4509322156381,15.863203266787659,8.090041913571325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1819,7 +1819,7 @@ them, will praduce anaccommodation com­
 patible with the engagﬁms,&#x27; rights, duties  
 ‘and honour of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798061201:0516/pct:7.0963743414936475,80.07820136852395,16.981716764797024,9.325513196480939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798061201:0516/pct:7.101539097200702,80.07820136852395,16.981716764797024,9.328771586836103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1838,7 +1838,7 @@ the world that we are not a degraded peos
 ple, humiliated under a colonial spirit of  
 fear and fenle of inferiority—fitted to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798071701:0535/pct:25.35035814388041,79.53584423247123,16.474618498909997,2.979644016127446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798071701:0535/pct:25.355548634900863,79.5391221686826,16.479808989930447,2.98947782476153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

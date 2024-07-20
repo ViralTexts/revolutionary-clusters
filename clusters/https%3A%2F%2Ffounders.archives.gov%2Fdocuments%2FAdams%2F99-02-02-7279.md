@@ -55,7 +55,7 @@ I hear id your high Iwalth, mid welcomes to me
 the consequence* of my want of it. I thank God  
 I shall not live to witnesa it. wsue.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024657:00414184583:1836040201:0038/pct:46.428020367227276,57.13294797687861,12.343774108933806,4.277456647398844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024657:00414184583:1836040201:0038/pct:46.420857759950636,57.126343775286095,12.347012239020879,4.280815320001541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ to I he Treaty of Paris, we never had so
   
 ominous a question, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065188:00295877935:1839122101:0141/pct:26.07100938967136,84.28178548762429,42.67899061032864,3.9454199280727735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065188:00295877935:1839122101:0141/pct:19.5655364743872,63.21133911571822,32.027007192132686,2.9617093293843877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ more, dod only knows. 1-romthe Battle of Bun
 ker&#x27;s Hill to the Treaty of Paris, ice nerfr had so  
 ominous a question, dj-c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840051601:0034/pct:26.281024819855883,21.38188608776844,19.595676541232987,5.571117335823218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840051601:0034/pct:19.7236684020825,16.04419545596016,14.697637164597516,4.186118892001245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ what more God only knows. From tho battle of
 Bunker&#x27;s Hill to the treaty of Paris, we never had  
 so ominous a question,&quot; &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844030701:0438/pct:23.66593567251462,81.82063021815243,18.25657894736842,5.238351737139779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844030701:0438/pct:23.672027290448344,81.82960768471138,18.262670565302145,5.233863003860311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ expression-4 it must he horve in mind that
 the que-tions enunera&#x27;ed were the great  
 and exci:ing political questions of the da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288294:1848072601:0013/pct:76.09723160027009,18.11770146837785,14.821066846725186,6.359116660885651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288294:1848072601:0013/pct:76.10285842898942,18.12540948857286,14.832320504163853,6.362970670983158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ is a breaker on which we lose the Missouri country by re­
 je borne in niind, that the questions enumerated were the  
 jreat and exciting political questions of the day on which par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850062901:0260/pct:67.9442036836403,41.76236986154341,15.113759479956663,3.735107867339272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850062901:0260/pct:67.9442036836403,41.76952524059962,15.118273745034308,3.735107867339272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ jreat and exciting political questions of the day on which par
 be borne in mind, that the questions enumerated were the  
 great and exciting political questions of the day on which par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850062901:0261/pct:67.88458945665363,41.75185623587647,15.235270324929216,3.7232325406219737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850062901:0261/pct:67.89357781672734,41.75903009433624,15.230776144892364,3.7232325406219737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ Questions enumerated were the groat ana
   
 exciting political questions oi ine aay, on wnicn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1850072701:0899/pct:82.49063670411985,93.2911201567918,20.786516853932586,7.598371777476255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1850072701:0899/pct:61.91145467322558,69.96834011759385,15.600843288826423,5.698778833107191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ To understand the full force of these expressions,
 it must be borne in mind that the questions enumera.­  
 ted were the great and exeiting poiitioal questions o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854022301:0447/pct:3.061224489795918,86.98752228163993,47.29064039408867,11.26559714795009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854022301:0447/pct:1.0204081632653061,28.995840760546642,15.763546798029557,3.7551990493166962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ of your high health, and welcomes to me the consequences
 of my want of it. I thank Hod I shall not witness its is­  
 sue.&quot; This was but a few days after Mr. Madison wrot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856112601:1228/pct:37.27435355342332,35.427199191102126,15.628557489022604,4.726996966632963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856112601:1228/pct:37.279774489076814,35.43141220087631,15.628557489022604,4.731209976407145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ f hear of your high health and welcomes to
 me the want of it. I thank God, 1 shall not  
 live to witness its issue.&quot; In a letter to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857080501:0278/pct:55.918151349444344,34.510025416549,11.748103721996825,3.304151369669585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857080501:0278/pct:55.918151349444344,34.510025416549,11.753983653789616,3.3135649063353103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ want of it. I thank God, I shall not live
   
 to witness its issue.&quot; In a letter to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:227.3538961038961,73.67405978784957,100.81168831168831,315.3969784635166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:56.87309644670051,18.418514946962393,25.218274111675125,78.84924461587914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ are occurences which, like waves in a
 storm, will pass uuder the ship. But  
 rhc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:51.7252711140322,36.98064211520302,14.919487348011831,5.358829084041549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:51.73074816518786,36.98064211520302,14.924964399167488,5.366698142902109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ thank God that
   
 shall not live to witness its issue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:51.675977653631286,44.78281397544853,14.87019388761091,4.591595845136921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:51.675977653631286,44.786748504878815,14.881147989922226,4.587661315706642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,7 +693,7 @@ your high health, and welcome to mo the
 cinsequences of my want of it. I thank  
 God I shall not live to withess it inado
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861100401:0595/pct:326.4487369985141,205.85208057638582,52.00594353640416,85.39920599911778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861100401:0595/pct:81.62734534646108,51.463020144096454,13.003901170351105,21.349801499779446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

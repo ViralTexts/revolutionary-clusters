@@ -118,7 +118,7 @@ be taught to vindicate our rights with firm­
 nefs and to cultivate peace with sincerity..  
 Go. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794042901:0002/pct:11.699084668192219,53.83771929824562,19.822654462242564,18.165204678362574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794042901:0002/pct:11.720537757437071,53.85142543859649,19.801201372997713,18.156067251461987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ cate our rights with firmnefs, and to cultivate
 peace with sincerity.,  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794051001:0225/pct:49.200528091535865,51.41028205641128,19.275341059116915,19.86397279455891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794051001:0225/pct:49.20541782797907,51.41028205641128,19.270451322673708,19.86397279455891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ G. WASHINGTON
 extraordinary of the United States to his Britan­  
 nic Majesty, agreeable to the nomination. - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794052001:0229/pct:9.955686853766617,57.4771517525359,19.33530280649926,2.078939439590238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794052001:0229/pct:9.955686853766617,57.4771517525359,19.35007385524372,2.0856348967225737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ our rights with firmnefs, and to cultivate peace
 with sincerity.  
 Go. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795072101:0474/pct:33.710472874963735,5.660942492012779,38.90339425587467,87.35023961661342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795072101:0474/pct:33.71530799729233,5.660942492012779,38.90339425587467,87.35689563365283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ existing temper and fei.Gbility of our country;
 and thus be taught to vindicate our rights with fum­  
 nefs, and to cultivate peace with sincerity.&quot; An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012301:0003/pct:26.74505879409557,33.86505024724836,19.46459844883663,3.8921678098580315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797012301:0003/pct:26.74505879409557,33.87302600095709,19.470853139854892,3.900143563566757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ sibility of our country : and thus be taught
 to vandicate ouy rights with firmnefs, and  
 to cultivate peace with {incerity.”—An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797021101:0234/pct:59.44592267960557,49.02743142144639,16.168414462357177,5.775561097256858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797021101:0234/pct:59.45113998017426,49.02743142144639,16.17363176292586,5.778886118038238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ sensibility of his country, it was expeéted
 that he would vindicate its rights with firm­  
 nefs and cultivate peace with sincerity.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798052201:0504/pct:25.14692236313022,85.36489923693993,16.084132384781935,2.905497945607513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798052201:0504/pct:25.157232704402517,85.36489923693993,16.078977214145787,2.9120198265179678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ present session, from the dispatches of our
 ministers in London, contain a serious aspect  
 of our affairs with Great R»;t sin.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809041101:0418/pct:76.99386503067484,3.5247876252060353,17.051605918440995,3.423354887790034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809041101:0418/pct:76.979974742919,3.524340770791075,17.054543267785196,3.4271467207572686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ hereby nominate John Jay as envoy extraordina­
 ry of the United States to his Britannic Majesty.”  
 How dignified, and how wise! It is true Ibis ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846042101:0667/pct:64.10458030273246,22.003517316017316,14.40927855317476,11.85064935064935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846042101:0667/pct:64.0982800982801,22.002029083530605,14.411138411138412,11.852102355991432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ onr atalen ith i a o f te e a
 resource, which has so often been the scourse of  
 esouroc. Th caaunot fall 1o chece the advancin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038851:1895112401:0421/pct:197.7995502730485,151.92618970540627,50.08030838419531,22.488399697852596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038851:1895112401:0421/pct:65.93318342434951,50.642063235135424,16.693436128065102,7.496133232617532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ aalbillty of cur country;
 ight to vlndical  
 right* with firmness and to cultivat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175035655:1895121001:0560/pct:5.33466819221968,79.64212678936606,12.67162471395881,10.991820040899796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175035655:1895121001:0560/pct:5.339435545385202,79.64212678936606,12.676392067124333,10.998636673483299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -822,7 +822,7 @@ sibility of our tountrs. and will thus be
 taught to vindicate our lightsi nil, ilriu­  
 ntss and to cultivate pen.-e with slneoilty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:0021110935A:1895121901:1095/pct:74.848828420257,82.18139399241761,16.45880574452003,13.006707494896471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:0021110935A:1895121901:1095/pct:56.17318963887313,61.63604549431321,12.346379277746266,9.755030621172354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -841,7 +841,7 @@ last resource, which has so often been the
 ege of nations and cannot fall to check  
 the advancing prosperity of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199367:1895122001:0012/pct:14.277448285838275,245.56657963446474,37.393316939100245,7.509138381201044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199367:1895122001:0012/pct:4.7591494286127585,81.85552654482159,12.464438979700082,2.503046127067015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

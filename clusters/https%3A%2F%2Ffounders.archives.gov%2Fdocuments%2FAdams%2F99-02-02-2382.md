@@ -419,7 +419,7 @@ In all your proceedings, it will be im- &quot;
 portant to manifeft a zeal, vigor and §&lt;  
 concert in defence of the national rights
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798031901:0003/pct:54.160919540229884,12.965455361148496,17.93103448275862,56.87154179751757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798031901:0003/pct:54.166666666666664,12.965455361148496,17.92528735632184,56.89023478390908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ rights, proportioned to the danger
 with which they are threatened.  
 . Fobn Adans
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798040401:0472/pct:24.105344694035633,13.066509711595057,17.072037180480248,69.6291936433196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798040401:0472/pct:24.105344694035633,13.06977960892028,17.07720113607023,69.62592374599437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -817,7 +817,7 @@ V further which can be attempted, con­
 Vwitb maxims for which our country has  
 Id, at every hazard, and which confti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798041601:0005/pct:2.3553299492385786,24.552767439068315,23.736040609137056,30.65193900828431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798041601:0005/pct:2.3548518067397484,24.54981992797119,23.736297198538367,30.65126050420168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -849,7 +849,7 @@ the national righis, proportioned to the dan
 r with which they, arc threatened.  
 John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798041601:0005/pct:2.3553299492385786,66.47856885580502,23.065989847715738,12.618561652059071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798041601:0005/pct:2.3548518067397484,66.47058823529412,23.06638246041413,12.620048019207683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ public, mentioned in his Meflage of
 the Igth inf. or such parts thereof as  
 confrderations of public [afety and interefl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041801:0479/pct:41.54400250548074,16.557006775999213,34.18415283432508,77.63920259255622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041801:0479/pct:41.55444200856039,16.56355363514354,34.17893308278526,77.63592916298406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,7 +1433,7 @@ proceedings, such zeal, vigor, and concert,
 proportioned to the danger with which those  
 rights were threatened. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011601:0002/pct:23.973644196654842,21.187355435620663,17.99290420679169,11.195065535851967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011601:0002/pct:23.973644196654842,21.198920585967617,17.99290420679169,11.198920585967617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1450,7 +1450,7 @@ pending m Congress, the object of which is tore­
 strain merchant ve«sek of the United States from  
 sailing in an armed condition. Seriously impress 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805010701:0293/pct:50.14237639140564,44.12240932642487,21.97773750970748,1.797279792746114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805010701:0293/pct:50.12939958592133,44.11526631050672,21.97851966873706,1.801036101667476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1517,7 +1517,7 @@ tions on our commerce.”
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1846-12_4_6/page/n79/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1846-12_4_6/page/n79/mode/1up?view=theater)
 
 #### 1846-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

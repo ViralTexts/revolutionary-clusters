@@ -207,7 +207,7 @@ which produces it. That cannot be cavilled
 away. There is the hill-side battle-field of Tip­  
 pecanoe, with its bright laurels yet fresh in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840051901:0208/pct:33.634393063583815,64.06788311854025,16.040462427745666,8.077070307515632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840051901:0208/pct:33.634393063583815,64.06788311854025,16.040462427745666,8.08132363574497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ In whome this spirit entered was undone.
   
 His tongue was set on fire of hell; his hear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn95068565:00280779192:1883103101:0363/pct:180.67510548523208,124.82662968099861,54.936708860759495,18.918169209431344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn95068565:00280779192:1883103101:0363/pct:45.18784297171803,31.206657420249652,13.739974672857747,4.729542302357836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ whitest virtue strikes. What king so strong
 can tie gall up in slanderous tongues.” But  
 under it all he was calm and strong and con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895710:1888032701:0297/pct:28.84438728642293,22.59879253567508,10.986588278522873,3.6361141602634466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895710:1888032701:0297/pct:28.83908890521675,22.595692138839347,10.989162380602497,3.6390451365070655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

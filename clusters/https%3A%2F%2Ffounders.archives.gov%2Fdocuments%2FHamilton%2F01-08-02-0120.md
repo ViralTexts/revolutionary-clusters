@@ -182,7 +182,7 @@ act.
 NATH. MACON,  
 Speaker of the House of Representative#
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807051801:0523/pct:70.11015911872705,22.013292267790565,21.077111383108935,9.515318528124494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807051801:0523/pct:70.09300048947627,22.009724473257698,21.07807146353402,9.517828200972447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ rights ot those creditors ol the United
 States, who shall not subscribe toy  
 the loan created by v&#x27;rtue &lt; i this act.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807061001:0004/pct:78.58833656122229,27.52816614632822,18.76479449106951,8.768833989412244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807061001:0004/pct:78.58833656122229,27.5326908284693,18.771967577648663,8.764309307271164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ to the loan created by virtue of this act.
 NATIIl MACON,  
 Speaker of the House o Representatives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807061001:0195/pct:39.142011834319526,10.47456986197769,27.100591715976332,13.783323879750425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807061001:0195/pct:39.130434782608695,10.472589792060491,27.102435176969337,13.787019533711405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ _ed, in anywile, to alter, ,‘abryd‘gé,f or impair,
 ~ States who shall not subscribe to the loan  
 . created by virtue of thisa¢t. =
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807062301:0519/pct:58.70073220127746,83.28194927896568,16.88736563327621,8.642466434609647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807062301:0519/pct:58.71111803500026,83.28857947952926,16.87697979955341,8.64578153489143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ mpair the rights of those creditors of i
 he United States, who shall not suhsrihe  
 0 the loan created by virtue of this act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807062401:0210/pct:40.05703422053232,24.383108623759856,17.661596958174904,4.668023403714067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807062401:0210/pct:40.04942026230755,24.380007630675316,17.664575809415194,4.671668998261902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ those creditors of the United States who shall
 not subscribe to the loan to be opened by vir­  
 tue of this act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052101:0497/pct:24.13003007303451,29.954733320212558,16.225118144064155,3.0210588466837236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052101:0497/pct:24.13003007303451,29.954733320212558,16.2394386366891,3.0243390408712196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ the rights of those creditors of the United
 States who shall not subsciibe to the lean to  
 bo opened by virwue of thisact.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822052201:0282/pct:23.243957703927492,61.783588187230066,20.222809667673715,3.887008287615268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822052201:0282/pct:23.250251762336354,61.783588187230066,20.222809667673715,3.894790085988872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ of tlie United btates who shall not sub­
 scribe to the loan to be opened by vir­  
 tue ol tins act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822060101:0254/pct:74.92105263157895,29.184339314845026,17.263157894736842,4.290375203915171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822060101:0254/pct:74.90134175217048,29.179579187734465,17.265193370165747,4.293753058228674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ creditors of the United States who shall not
 subseribe to the loan to be opeued by virtue of  
 this act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825040501:0469/pct:20.71439027960767,46.133256858808906,16.146977016542234,2.581015199311729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1825040501:0469/pct:20.724149709656956,46.139629735844245,16.14209730151759,2.5746423222763917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -40,7 +40,7 @@ o see the actual performance of the model in a de­
 scending utiearn, before I pa.-aect my certificate,  
 .,,.1 nuvir.g itono _u ..louUlB ? ? .: &gt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1848052301:0060/pct:67.41880341880342,45.17857142857143,13.264957264957266,5.982142857142857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1848052301:0060/pct:67.42735042735043,45.186011904761905,13.260683760683762,5.989583333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -66,7 +66,7 @@ ancc of the model in a ilesccnding stream, before
 passed my certificate, and having done so, all in  
 doubts are satisfied.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1850021201:0108/pct:54.61603375527426,67.46206896551725,13.350210970464135,5.213793103448276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1850021201:0108/pct:54.628691983122366,67.46206896551725,13.345991561181435,5.227586206896552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ himself the inventor of the steamboat. And, perhaps, the
 result would ultimately have been the fame, had only any  
 ore of them lived. If the invention of each was the off
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00211110041:1853041001:0001/pct:84.97336697504906,22.498126939955046,9.643958508550602,5.09472332227336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00211110041:1853041001:0001/pct:84.98037566582562,22.500802740019267,9.650967199327166,5.0973991223375785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ doubts are satisfied.&quot;
 This was many years before Fulton, the re­  
 puted discoverer of the principle of applyin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663729:1875061401:0575/pct:2.231500143967751,43.31846392552366,16.095594586812553,7.971295577967417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663729:1875061401:0575/pct:2.231500143967751,43.32492888544091,16.105192436894136,7.971295577967417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ Having done so all my doubts are satisfied.”
 This was many years before Fulton, the re­  
 puted discovery of the principle of applying
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1875062401:0717/pct:80.5168310098606,50.058616647127785,12.22373342400544,5.965872085450045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1875062401:0717/pct:80.50314465408805,50.05209690023444,12.225905150433451,5.96835113310758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ dono so, all my doubts are satisfied.&quot;
 This was many years beforo Fulton, the re­  
 puted discoverer of the prinoiple of applyin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192348:1875070601:0317/pct:84.24991298294465,35.52787663107948,13.296206056387051,8.49644128113879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192348:1875070601:0317/pct:84.26296554124609,35.53899762752076,13.300556909154194,8.49644128113879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ With regard to Fitch, a sharp controversy ex- *
 isted between Humsey and himself as to tiie c  
 originality of their respective inventions. The 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885011701:0476/pct:71.23398516520567,52.08810923950962,14.551584625758597,6.727798265723114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885011701:0476/pct:71.24072825354013,52.09309279378052,14.54484153742414,6.7327818199940195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ in a descending stream, before 1 passed
 my certificate, and liavingdone so. alj  
 my doubts are satisfied.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767845:1889041201:0267/pct:36.84911439605806,61.822779885225174,11.972299906778533,8.890185779593425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767845:1889041201:0267/pct:36.8535535135615,61.822779885225174,11.976739024281972,8.896670233116104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

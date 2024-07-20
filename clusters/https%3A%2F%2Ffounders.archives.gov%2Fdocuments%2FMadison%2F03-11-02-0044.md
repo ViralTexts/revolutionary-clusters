@@ -107,7 +107,7 @@ make known, that sales shall be held it J
 Canto&#x27;, in the State ol Ohio, for the j  
 disposal of the above mentioned lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808012801:0290/pct:9.042849193099611,30.877780435302558,28.241513633834167,23.271944510882562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808012801:0290/pct:9.040333796940194,30.87039693926351,28.24292999536393,23.27435039056273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ make known, that sale s shall be he ld at
 Canton, in the State of Ohio, for the  
 disposal of the above mentioned lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808020401:0298/pct:7.443010162043395,33.49293751496289,27.629772040648174,23.437874072300694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808020401:0298/pct:7.440966501922021,33.484921014839635,27.6313380926231,23.44024254029041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ make known, that sales shall be held at
 Canton, in the State of Ohio, for the  
 disposal of the above mentioned lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808021101:0306/pct:10.296191819464035,32.23809523809524,28.434414668547248,23.404761904761905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808021101:0306/pct:10.293288212069937,32.230421328255176,28.435796202293663,23.407125287629928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ make known, that sales shall be In Id at
 Canton, in the State of Ohio, for the  
 disposal of the above mentioned lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808021801:0314/pct:9.151230301354714,32.15787015413358,28.338401990599944,23.02662307333022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808021801:0314/pct:9.148700939745716,32.150361895867384,28.33978256863829,23.029029496458868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ before recited, Do hereby declare and
 make known, that sales shall be held  
 at Canton in the state ot Ohio, for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808022401:0004/pct:57.40966301258628,14.925373134328359,17.092976045473,8.762223365928977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808022401:0004/pct:57.41642982812289,14.93395093498027,17.09974286100961,8.753645565277063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ make known, that sales shall be held at
 C anton, in the State of Ohio, for the  
 disposal of the above mentioned lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808031001:0338/pct:6.780595369349504,31.461197855977627,27.72877618522602,22.46562572826847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808031001:0338/pct:6.778726922017085,31.453867660764214,27.730320565812438,22.4681578129854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ make known, that sales shall be held at
 Cantov, in the State of Ohio, for the  
 disposal of the above mentioned lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808032401:0354/pct:9.799064134324249,32.97624592454588,27.9383429672447,22.449930135072194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808032401:0354/pct:9.796367638965327,32.968568102444706,27.939827554577143,22.452464105549087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ make known, that sales shall he held at
 Canton, in the State of Ohio, lor the  
 disposal of the above mentioned lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808033101:0362/pct:8.610354223433243,60.61233885819521,27.82016348773842,22.421731123388582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808033101:0362/pct:8.608008716970852,60.598388952819334,27.82166530463997,22.424242424242426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ to commence on the second Monday of
 May, one thousand eight hundred and  
 tight, and continue for and during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808040701:0370/pct:8.342602892102336,32.344632768361585,28.364849833147943,27.048022598870055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808040701:0370/pct:8.340283569641368,32.33702047540598,28.366231118524695,27.049501843571036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ before recited, do hereby declare and
 Canton, in the State of Ohio, for the  
 disposal ot the above mentioned lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808041401:0378/pct:5.728314238952537,31.51822796492847,29.268957992362246,22.49653899400092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808041401:0378/pct:5.726752113444232,31.510957324106112,29.270066357603856,22.499038831218762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ before recited, do hereby declare and
 make known, that sales shall be held at  
 C Aston, in the State -of Ohio, for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808042101:0386/pct:63.99786495863357,19.169027384324835,27.75553776354417,21.62417374881964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808042101:0386/pct:63.98078975453575,19.164503186216663,27.757025969405905,21.626937298402957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ make known, that sales shall be held at
 Canton, in the State oi Ohio, lor the  
 disposal oi the above mentioned lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808042801:0394/pct:5.637982195845697,32.12219393658875,27.65039115187483,22.610506827123352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808042801:0394/pct:5.636461704422869,32.114761684405366,27.651923768428624,22.61298781428351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ make known, that sales shall be held at
 Canton, in the Slate of Ohio, for the  
 disposal of the above mentioned lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808050501:0402/pct:5.523590333716916,29.923042100497963,29.171461449942463,22.340425531914892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808050501:0402/pct:5.52200172562554,29.916270649468206,29.172658422011313,22.34291317794373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ munications from the Secretary at war, in­
 closing a statement of the monies drawn from  
 the treasury by that department during the las
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812010601:0021/pct:24.09582689335394,6.892208025913263,23.632148377125194,8.205866474716574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812010601:0021/pct:24.092103229794468,6.891587944219523,23.633647555761602,8.208127155495577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ tricts, and not heretofore attached to any dis­
 trict, form a new land district. For the dis­  
 posal of the said lauds, a land office shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812031201:0087/pct:5.1154529307282415,75.16268980477223,16.962699822380106,12.159556519643287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812031201:0087/pct:5.114544485881726,75.15363296782745,16.965607056177113,12.162107884484074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,7 +693,7 @@ An act to authorise the secretary of the trea
 survj under the direction of president ot the  
 Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812071101:0632/pct:54.596651445966515,46.11601857754303,22.678843226788434,25.043256534013295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812071101:0632/pct:54.58834271800335,46.111819340739395,22.680464667985593,25.04401141261458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1431,7 +1431,7 @@ Uiver, and above the mouth of Kentucky River.
 And patents shall be obtained for all lands gran­  
 ted or sold within the said
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816062601:0203/pct:39.66449207828518,24.50265661682936,17.33457595526561,8.896577289015198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816062601:0203/pct:39.65710026090198,24.499629355077836,17.337557460554105,8.899596408862532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1678,7 +1678,7 @@ agreeably to the provisions of this act, and in
 and cenditious, as are, or may be provided by  
 law, for the sale of the lands of the U. Stats
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816073001:0557/pct:56.87436750036143,64.86567164179104,16.741361862078936,7.482587064676617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816073001:0557/pct:56.87436750036143,64.87230514096186,16.755818996674858,7.4759535655058045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -164,7 +164,7 @@ Burns with one love, with one resentment glows.”
 &quot;Burns with one love, with one resentme if glows,  
 &quot;One should our passions, one our interest be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856030701:0107/pct:253.23868677905946,236.3805752882264,33.510795622596866,3.714917899149878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856030701:0107/pct:84.40041401744787,78.78435025617141,11.168613534427521,1.2381617761217203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ A generous friendship no cold me­
 dium knows; burns with one love, with  
 one resentment glows. Pope
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1894070601:0291/pct:45.599062918340024,139.20886483700554,18.18942436412316,2.306403813941502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1894070601:0291/pct:30.41513223970539,92.81020487050638,12.135922330097088,1.5333075634583173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ glows. — Pope&#x27; . You can&#x27; not hav
 A generous friendship no cold medium knows,  
 Burns with one love, with one resentment glows
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037317:1895120601:0345/pct:56.60806304940891,73.48239239798771,12.670506214004243,0.7266629401900503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037317:1895120601:0345/pct:56.613115085379405,73.48611887460406,12.67555824997474,0.7229364635736911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ must hate the man that mse we
 Real friendship is a slow grower as  
 never thrives unless grafted upon 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294270:1897012801:0075/pct:325.1211631663974,302.1419911087161,49.19224555735057,16.00431092550182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294270:1897012801:0075/pct:81.28029079159936,75.53549777717903,12.298061389337642,4.001077731375455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ Pope.
 Real friendship is a slow grower, and  
 never thrives unless grafted upon 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539288:1897020301:0360/pct:67.20547945205479,106.24666310731448,14.36986301369863,5.232247730912974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539288:1897020301:0360/pct:50.41786546102206,79.6903363587827,10.782298945060967,3.9188467698878804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ i must hate the man that injures me.—
 Pope.  
 Real friendship is a slow grower, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_irving_ver01:data:sn92067221:00514150126:1897020401:0726/pct:18.117812720018776,75.55762081784387,12.555738089650317,3.5315985130111525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_irving_ver01:data:sn92067221:00514150126:1897020401:0726/pct:18.129547054682,75.56226765799256,12.555738089650317,3.5362453531598512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ medium knows, burns with one love,
 with one resentment glows, ono should  
 our interests and our passions be, m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101283:1897050501:0397/pct:38.17983055479639,41.95511221945137,11.83383438097841,2.1845386533665834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101283:1897050501:0397/pct:38.188940511979595,41.96176226101413,11.829279402386808,2.1845386533665834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ medium knows, burns with one love,
 with one resentment glows, ono should  
 our interests and our passions be, m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101283:1897050501:0398/pct:38.341543513957305,41.74660271782574,11.863711001642036,2.2482014388489207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101283:1897050501:0398/pct:38.350665936872836,41.749933386624036,11.859149790184272,2.2515321076472157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ knows, burns with one love, with one
 resentment glows; one should our inter­  
 ests and our passion be; my friend mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_harris_ver01:data:sn90063040:00332897020:1898091601:0046/pct:38.04888152444076,53.84033867553674,13.773819386909693,1.874811006954944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_harris_ver01:data:sn90063040:00332897020:1898091601:0046/pct:38.041002277904326,53.83219954648526,13.7761441292193,1.8783068783068784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

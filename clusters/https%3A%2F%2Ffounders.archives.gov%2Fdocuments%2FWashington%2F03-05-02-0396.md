@@ -73,7 +73,7 @@ with the most courage against the enemy, and Ue
 most kindness and good humor to each other.&quot;  
 The liberal people are engaged in a civil contes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855113001:0408/pct:5.50531914893617,42.1130805030201,20.079787234042552,4.782651747697792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855113001:0408/pct:4.136738494280394,31.587285869888106,15.070497472732109,3.5845133181503117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ clate religious with civit liberty in the new govera nent.
 They were profoundly raad in history, and kass of all  
 the persecutions pracitsed from the caritest times b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022301:0431/pct:49.11173833637722,13.36,46.47185787813382,12.034285714285714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022301:0431/pct:16.370579445459075,4.453333333333333,15.490619292711273,4.011428571428572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ clare to the whole army, that such persons
 shall be severely punished and dismissed the  
 service with disgrace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1856032601:0702/pct:67.62665862484921,65.98679556708323,19.300361881785282,39.518981372317846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1856032601:0702/pct:50.73906485671191,49.4930440933742,14.479638009049774,29.639236029238386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ the Congress to declare to the whole army,
 that such persons shall be severely punish­  
 ed, and dismissed the service, with disgrace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82015827:00212472815:1856061001:0245/pct:66.58653846153847,42.38358326756117,18.709935897435898,53.106325403089414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82015827:00212472815:1856061001:0245/pct:44.40288538605397,28.25572217837411,12.476623029655357,35.404216935392945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

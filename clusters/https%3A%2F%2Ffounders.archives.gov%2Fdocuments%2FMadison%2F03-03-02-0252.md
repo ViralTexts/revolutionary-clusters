@@ -101,7 +101,7 @@ objections. ■ j
 • -f pass, notwithstanding the objections of the Presi- j  
 dent of the United States ?&quot; And ctcided in the ne- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811031101:0406/pct:2.1196063588190763,29.455727051177906,23.74463790058037,7.522339561332251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811031101:0406/pct:2.119071644803229,29.450942170240417,23.744954591321896,7.525178687459389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ that Congress shall mike no law respecting
 a relegious estab.i-hme; t.  
 j JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811031201:0400/pct:76.22314497201661,30.91870618620096,17.728831919118974,10.675193703111548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811031201:0400/pct:76.20938628158845,30.914904082636497,17.73164861612515,10.677979996720774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ that Congress shall make no law res­
 pecting a religious establishment.  
 JS.- MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811031201:0092/pct:25.57966982007049,48.70546013842605,17.28807271378223,15.11150986926429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811031201:0092/pct:25.57492581602374,48.69921824939126,17.291048466864492,15.113845102311076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ following objection i—
 (Signed)  
 “ JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070601:0169/pct:6.229019022752704,44.31343650208794,17.362924281984334,11.15205109309752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070601:0169/pct:6.2278575424202876,44.30799459658603,17.365902169183915,11.154775062425806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ Coleman, Edwin Lewis, Samuel Mims, Joseph Wilson,
 and the Baptist Church at Salem meeting-house, in  
 the Mississippi Territory.February 28, 1811. H. R
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848111201:0563/pct:203.76024425518239,22.54487252772379,46.23172103487064,5.1560535040585345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848111201:0563/pct:67.92008141839413,7.514957509241263,15.410573678290215,1.718684501352845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ the Mississippi Territory.February 28, 1811. H. R
 in the Mississippi Territory.&quot; Febuary 28, 1811 H.  
 eee 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848111601:0124/pct:267.4247982391783,120.98277322790172,60.766691122523845,10.519627223948037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848111601:0124/pct:66.8439391160829,30.241423125794157,15.188886851274528,2.6295355075532965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ Mims, Joseph Wilson and the Baptist Church
 at Salem meeting house in the Mississippi  
 Territory. Feb 28, 1812, H R
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848112501:0981/pct:117.99283154121864,29.9206452452192,53.13620071684588,9.01522050214648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848112501:0981/pct:29.492922415337752,7.479188345473466,13.281669951621573,2.253511966701353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ appropriation of funds of the United State*
 for the use and&#x27;support of religious societies  
 thus clearly stating that an appropriation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854051401:0482/pct:82.59634888438134,80.19865427747517,13.292765382014874,2.6487236996689094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854051401:0482/pct:82.60536398467433,80.20577450247428,13.301780482307866,2.6487236996689094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ the Rnptlst Church at Salem Meeting-House, io
 the Mississippi Territory.&quot;  
 6. Returned to the House of Representative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879032901:0016/pct:85.52460296797709,23.93830128205128,12.861234053631867,2.50400641025641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879032901:0016/pct:85.54412913303827,23.943309294871796,12.854725331944806,2.509014423076923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ Wilson and the Baptist Church at Salem Meet­
 ing-Honse, in the Missssippi Territory.”  
 ! 5. Returned to tho House of Rspresenta- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879040301:0207/pct:73.50275169957915,44.02644230769231,11.346714146973131,6.826923076923077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879040301:0207/pct:73.49085612558666,44.02115130392982,11.348923774073475,6.829107078476144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ Constitution which declares that Congress
 shall make no law resecting a religious  
 establishment.&quot; In the same year he ve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn85054468:0021110210A:1897083101:0585/pct:29.131610576923077,72.49313186813187,17.833533653846153,7.429029304029304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn85054468:0021110210A:1897083101:0585/pct:19.431920649233543,48.32875457875458,11.887586414186956,4.956501831501831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ tt&gt; the article of the Constitution, which de­
 clares that Congress shall make no law re­  
 specting a religious establishment, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655168:1897111701:0613/pct:71.29768137621541,26.884422110552762,13.986537023186237,6.267448352875489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655168:1897111701:0613/pct:71.29768137621541,26.884422110552762,13.99121166791324,6.277917364600782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ ties contrary to the article of the Constitu­
 tion, wnlch is that Congress ahull maie no  
 law respecting a religious establishmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn85054468:211102111:1897111801:0400/pct:65.12290167865707,36.768865256250706,17.760791366906474,6.8446656861635935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn85054468:211102111:1897111801:0400/pct:43.42677259781142,24.516348003167778,11.842302503372808,4.559339291775088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -612,7 +612,7 @@ no law respecting a religious establishment.
   
 CHARGES AGAINST OEn ORTEK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897111801:0231/pct:269.78309648466717,139.8669086509377,49.96260284218399,22.867513611615244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897111801:0231/pct:67.48362956033677,34.96672716273442,12.497661365762395,5.716878402903811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ the article of the Constitution which de­
 clares that Congress shall make no law re­  
 specting a religious establishment, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655181:1898020301:0184/pct:29.127491538172244,45.22542705124615,13.89620157954118,2.996359563147578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655181:1898020301:0184/pct:29.136893569010905,45.22892747129656,13.905603610379842,3.006860823298796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ tion of United States funds for the use and
 support of religious societies contrary to the  
 Constitution. The case will be taken to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041566574A:1898020401:0348/pct:3.5935397039030956,9.859296482412061,12.314939434724092,1.35678391959799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041566574A:1898020401:0348/pct:3.6025123373710186,9.859296482412061,12.314939434724092,1.3634840871021776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -744,7 +744,7 @@ States funds for the us» and support
 of religious societies contrary to tin&#x27;  
 constitution. The case will be take
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537486:1898020401:0335/pct:68.60277980980248,80.97140454163163,12.596927578639356,2.007989907485282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537486:1898020401:0335/pct:68.61253352840771,80.97490888701991,12.606681297244574,2.0044855620970004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -763,7 +763,7 @@ funds fiir the use and support of re?
 ligious societies contrary to the consti?  
 tution. The case will be, taken to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031571:1898020401:0935/pct:34.21464943204074,90.63410573053976,15.628672150411282,2.775079783543777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_orange_ver01:data:sn85025715:00175031571:1898020401:0935/pct:34.21464943204074,90.63410573053976,15.635200417809113,2.7889551824614958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -830,7 +830,7 @@ Constitution which declares that Congress
 shall make no law respecting a religious  
 establishment and also a precedent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655193:1898040401:0293/pct:29.229357798165136,21.29988913525499,13.541284403669724,4.587028824833703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655193:1898040401:0293/pct:29.229357798165136,21.303353658536587,13.559633027522937,4.593957871396896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -878,7 +878,7 @@ stitution which declares that &#x27;Congress shall
 make no law respecting a religious estab­  
 lishment &#x27; Both of these related to churc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871908:1899031201:0123/pct:39.89614885331026,95.1060631367964,16.529640848117698,7.21563387339235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871908:1899031201:0123/pct:29.928586885955422,71.32954735259729,12.410733607444277,5.4200768331384666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

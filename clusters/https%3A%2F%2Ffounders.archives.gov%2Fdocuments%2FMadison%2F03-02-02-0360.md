@@ -52,7 +52,7 @@ considered as not within the power ol the rail made
 by the house.  
 JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810033001:1002/pct:49.198640116561435,42.40963855421687,20.883924235065567,9.269076305220883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810033001:1002/pct:49.186695799951444,42.40282685512368,20.88492352512746,9.271602955348538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -82,7 +82,7 @@ sidered as not within the perview of the
 call of the House.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810040301:0421/pct:60.097808368049265,6.102482573070809,18.257562035863067,8.90302066772655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810040301:0421/pct:60.08692502716407,6.101736365859623,18.260292164674635,8.906007988913345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ a copy is considered aspiot with in the pur­
 view of the cad of the House  
 JAMES MADISO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810040301:0112/pct:77.62788083192805,6.960173050006362,18.456061457747797,9.212367985748823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810040301:0112/pct:77.61333832896216,6.959287531806615,18.45884850755589,9.215436810856659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ ss al eonsiderntiooa of a delicate nature, a co­
 ss &quot; i. considered as not within the potrer of &#x27;  
 the-cell made by the house. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810052801:0525/pct:32.64435695538058,67.40863141524106,22.260498687664043,11.362752721617419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810052801:0525/pct:32.63900278825652,67.40207989114589,22.262314799628232,11.364888068163411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

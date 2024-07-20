@@ -76,9 +76,9 @@ I am afraid you will think this project, if not
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n4/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-10_11_52/page/n4/mode/1up?view=theater)
 
-#### 1842-10-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -190,7 +190,7 @@ nut lor modern “.Slate Rights men.” It may he
 lound in the Madison papers, page 030.  
 Tim Convention was organized on the 25ih of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844041801:0067/pct:63.96146547949205,24.179137815501452,14.669391329732886,3.99821308912218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844041801:0067/pct:63.952130764740225,24.17643774427694,14.672115197509243,4.001488926112041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ fore, that previous to the meeting of the Convention there
 already existed three parties in the country. I. Those who  
 advocated the individual independence of the States. 2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:0029587238A:1848122501:0601/pct:104.25117004680187,169.01581243184296,44.344773790951635,18.3206106870229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:0029587238A:1848122501:0601/pct:34.75039001560062,56.338604143947656,14.781591263650546,6.106870229007634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ he Southern by their expected superiority on this
 mint.&quot;  
 This extract establishes, upon the authority o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850083001:0264/pct:18.9773980154355,22.751779167565235,16.469128996692394,6.469700237222342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850083001:0264/pct:18.986585814038957,22.758967723384373,16.464535097390666,6.469700237222342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ damental point that an individual indepen­
 dence of the States is utterly irreconcilable  
 with toe idea of an aggregate sovereignty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861051601:0002/pct:13.325740318906606,72.90490664350847,10.003796507213364,1.7223910840932117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861051601:0002/pct:13.33997722095672,72.91214358083658,9.999050873196659,1.7260095527572732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ of the State sovereignties.”
 The clause, as it stands In Hr. Randolph’s  
 resolution, giving power to the national Leg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861051601:0002/pct:13.363705391040243,74.6996671008829,10.022779043280183,2.952670429874077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861051601:0002/pct:13.363705391040243,74.70690403821104,10.022779043280183,2.956288898538139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ form may be obtruded, or, in the most favor­
 able event, the partition of the empire, into  
 rival and hostile confederacies will ensue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557384:1861062201:0101/pct:45.31221554705989,4.887118193891102,26.19697797196432,91.89907038512617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557384:1861062201:0101/pct:45.32586928818496,4.893758300132802,26.210631713089388,91.90239043824701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ Great Britain heretofore had. This I conceive to b
 essential, and the least possible abridgement of the  
 State sovereignties.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1864091601:0571/pct:287.9573170731707,69.05681191395477,45.045731707317074,13.623827909542195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1864091601:0571/pct:72.03050524308865,17.264202978488694,11.267874165872259,3.4059569773855487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ the national authority and leave in force
 the local authorities so far as they can be  
 subordinately useful.&quot; Mr. Edmund Ran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190741:1864102401:0381/pct:27.59098101265823,16.21708413615928,14.200949367088608,7.064868336544637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190741:1864102401:0381/pct:27.60581487341772,16.21708413615928,14.191060126582279,7.06888246628131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ an individual independence of the States
 is utterly irreconciliable with the idea of  
 an aggregate sovereignty?’ (4
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664198:1865072801:0295/pct:37.00242298373139,62.31979751293056,18.03392177223953,2.6301309563112136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664198:1865072801:0295/pct:37.01396100149994,62.31979751293056,18.039690781123802,2.6337992003228057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -755,7 +755,7 @@ tional authority and leave in force the lo­
 cal authorities, so far as they can be sub  
 ordinately useful
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866011601:0473/pct:57.58371634931057,120.26991954321308,39.52724885095207,24.967557747209966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866011601:0473/pct:14.400656814449919,30.06747988580327,9.885057471264368,6.2418894368024915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -955,7 +955,7 @@ plete authority iu all cases where
 uniform measures are necessary, as in  
 trade. Let this national supremac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1892021101:0476/pct:86.97926758380159,76.02565815849259,18.36853322999419,10.076172658024856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1892021101:0476/pct:67.41916107718491,58.92770834771802,14.240664731204324,7.812607885106677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

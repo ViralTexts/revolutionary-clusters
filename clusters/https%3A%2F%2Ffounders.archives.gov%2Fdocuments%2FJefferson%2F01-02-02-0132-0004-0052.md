@@ -142,7 +142,7 @@ These were the teachings of a Repub­
 lican lather in the Old Dominion who  
 was one of the signers of the Declara
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065296:0029587806A:1840082201:0328/pct:40.65362198168193,7.7958894401133945,22.252289758534555,17.84549964564139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065296:0029587806A:1840082201:0328/pct:30.508121615993335,5.854004252303331,16.701374427321948,13.3805811481219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ ple like slaves. It put unnaturalized
 foreigners on the same footing as negro  
 slaves, except that if a negro or India
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1888102001:0367/pct:22.562587466956927,63.14301250679717,14.056911833307417,7.243066884176183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1888102001:0367/pct:22.562587466956927,63.14301250679717,14.072461514538952,7.246692042776871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

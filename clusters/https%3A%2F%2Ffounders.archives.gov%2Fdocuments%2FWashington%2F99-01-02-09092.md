@@ -89,7 +89,7 @@ and effer mine for true brothers in ail parts of ttie world,
 and to you assure of tho sincerity with which I am.  
 Geo. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00211110144:1866010701:0003/pct:44.83906770255272,76.9683494637719,12.116167221605624,4.969918911849333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00211110144:1866010701:0003/pct:44.85294117647059,76.97488883076119,12.10691823899371,4.973188595343971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ be prateful and osfer mine for true brothers in all parts of the world
 and to assure you of the sincerity with which I am,  
 Your.&quot;ONC. WasmINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530832:1866060601:0255/pct:249.40574447012216,243.0716481437692,47.49092109607131,14.104989359186568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530832:1866060601:0255/pct:83.13524815670739,81.02388271458973,15.83030703202377,4.701663119728856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ all parts of the world, aud to assure you of tho sin­
 cerity with which I am,  
 &quot;Yours, &quot;G0. WA ffHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:0028077618A:1866060601:0261/pct:6.806930693069307,87.4548986955315,18.917963224893917,9.658617818484597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:0028077618A:1866060601:0261/pct:5.112329736423138,65.59811268387455,14.204846983902353,7.243963363863447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ and to assure you of the sincerity with
 which I am  
 &quot;Yours, Go. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866060801:0535/pct:88.74207900768505,158.0335731414868,41.93069974383174,32.438664453052944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866060801:0535/pct:29.580693002561684,52.677857713828935,13.976899914610579,10.812888151017647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ brothers in a&amp; parts of the woriifi and to assure yenv trf
 the sincerity-with which I am,  
 “ Yours, Gf»BGE WashingtoiFi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00211110144:1866070101:0005/pct:55.045194613539934,57.849518354595155,12.21176904630142,4.660244727935433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00211110144:1866070101:0005/pct:55.05902969931747,57.85602707628222,12.202545655783066,4.660244727935433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ to be grateful, and to offer mine for true brotnors in all
 parts of the world, and to assure you of the sincerity  
 with which I am, yours. Geo. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110156:1867070701:0003/pct:44.3551333576909,68.7588424437299,12.05699671172817,4.630225080385852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110156:1867070701:0003/pct:44.35970040189989,68.7684887459807,12.066130800146146,4.633440514469453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ In 1796, fourteen years after the above words
 vere written, and when his second term was  
 lrawing to a ctose, a committee was appointed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875060201:0868/pct:10.502283105022832,82.59974848519492,45.46640574037834,17.800388704698754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875060201:0868/pct:3.5007610350076104,27.533249495064975,15.155468580126115,5.9334629015662514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ and offer mine tor true Bre thren in all parts of the world,
 and to assure you of the sincerity with which I am yours,  
 t. WAsHINGrON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879022301:0535/pct:222.8418640183346,245.6744324083692,50.572956455309395,22.080427363110253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879022301:0535/pct:55.74240397477546,61.4186081020923,12.650487292184216,5.520106840777563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ Brethren in all part* of the world, and to
 luwure you of the sincerity with which I  
 am youra. G. WAaIIINOTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1879030601:0080/pct:80.72843706223735,29.297417384059983,14.688813287972783,11.30241599555679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1879030601:0080/pct:80.74177840037356,29.302045728038507,14.688813287972783,11.30241599555679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ Who were the writers of the letter which
 called forth the above acknowledgment from  
 ashington no one ssema to know, and there i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:0017504517A:1894120201:0428/pct:12.670713201820941,363.4046426945835,52.50379362670713,22.682445759368836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:0017504517A:1894120201:0428/pct:3.1676783004552354,90.85116067364588,13.125948406676782,5.670611439842209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

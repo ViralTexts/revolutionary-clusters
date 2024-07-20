@@ -289,7 +289,7 @@ position of Providence appeared more remark­
 ably conspicuous, than in the rescue ol the  
 post and garrison at \\ est Point. And whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851030101:0459/pct:59.18543363679923,45.083487940630796,12.505989458552946,2.315673744245173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851030101:0459/pct:59.179762361057875,45.08039027071595,12.507985179506836,2.317804956254867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ the close of the memorable conflict, the whole host of
 our foes had surrendered at Yorklown, and thus laid  
 the foundation of perpetual peace and independence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851031501:0330/pct:0.9530685920577617,34.67741935483871,13.155234657039712,3.640891840607211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851031501:0330/pct:0.9530685920577617,34.68532574320051,13.155234657039712,3.644845034788109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ ous, than in the rescue of the post and gar­
 ous perfidy.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855082201:0113/pct:58.59551538327829,28.52017937219731,14.236050756127238,3.689942344650865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855082201:0113/pct:58.60710354018193,28.52872090540252,14.236050756127238,3.69421311125347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

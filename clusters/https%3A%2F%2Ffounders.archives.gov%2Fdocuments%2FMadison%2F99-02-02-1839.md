@@ -268,7 +268,7 @@ signed, sealed and delivered the sawme, and that she
 wished not to retract it. Given under our hands  
 and seals this ——— day of ———
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838051501:0077/pct:33.47336834208552,21.252450221809553,14.343585896474119,5.942432683379758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838051501:0077/pct:33.4783695923981,21.252450221809553,14.348587146786697,5.94587159118264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ Given under our hands and seals this ————
   
 day of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838060601:0610/pct:2.336696760488582,15.449383199530057,29.992033988316518,81.81907186215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838060601:0610/pct:2.3411223225349618,15.449383199530057,30.005310674455657,81.82559885124992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ before the sealing and delivery of these presents, the re
 . j gained, sold, aliened, enfeoffed, released and conveyed  
 i and do hy these presents grant, bargain, sell, alien, enfeof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1859051001:0385/pct:28.442531926707385,56.267731427971,11.937812326485286,2.6584007565409267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1859051001:0385/pct:28.442531926707385,56.271233932261566,11.942439385526558,2.6619032608314943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ the said A. B. for E. F.) his heirs and
 assigns, the real property last herein­  
 before described to have and to hol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1860053101:0716/pct:192.08450704225353,77.3611436606515,30.056338028169016,98.75790953831732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1860053101:0716/pct:64.02816901408451,25.787047886883837,10.018779342723004,32.919303179439105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ by these presents do grant, bargain and
 sell, unto the A. B. [or C. F.] his heirs  
 and assigns, tho real property last here
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058318:0027952892A:1860053101:0216/pct:50.01481920569058,35.58750842507302,14.44872554831061,15.839137272523029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058318:0027952892A:1860053101:0216/pct:50.02469867615096,35.594997378866175,14.453665283540802,15.839137272523029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ knowledged the same to he her act and deed and declared
 he had willingly signed and seated and delivered the  
 same, and that she wished not to retract it. In tost
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873102701:0764/pct:240.18126888217523,236.42286052709505,49.848942598187314,17.234231566479124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873102701:0764/pct:60.05665722379604,59.10571513177376,12.464589235127479,4.308557891619781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -881,7 +881,7 @@ explained to her, she the said
 acknowledged the said writing to  
 be her act and deed, and that Bh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192208:1883062701:0079/pct:14.048059149722736,70.10785824345146,11.922365988909426,10.539291217257318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192208:1883062701:0079/pct:14.059611829944547,70.11941448382126,11.928142329020332,10.531587057010785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

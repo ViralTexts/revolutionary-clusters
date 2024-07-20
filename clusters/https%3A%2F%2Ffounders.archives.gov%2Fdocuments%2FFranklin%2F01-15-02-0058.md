@@ -124,7 +124,7 @@ shutter next the road unmarked; and this
 continued, here and there, quite to Win.  
 Chester, which is sixty-four miles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875052001:0083/pct:82.5222969801283,48.10864442515193,10.624315443592552,9.959072305593452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875052001:0083/pct:82.50938673341678,48.10267857142857,10.626564455569461,9.9609375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ there was scarcely a door or window shutter
 next the road unmarked; and this continued  
 here and there quite to Winchester, which i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888010101:0312/pct:120.20046260601387,65.98062953995158,51.42636854279105,73.59261501210653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888010101:0312/pct:30.067502410800387,16.495157384987895,12.864030858244938,18.398153753026634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

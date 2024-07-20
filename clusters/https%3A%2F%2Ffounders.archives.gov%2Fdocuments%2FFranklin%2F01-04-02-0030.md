@@ -1654,7 +1654,7 @@ even a common letter.--FranEtiN.
 In A DILEMMA.- We were much amused  
 by an incident which a friend of ours rela
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852010701:0430/pct:343.58390280941535,196.80372381691234,43.81169324221716,19.30178432893716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852010701:0430/pct:85.89597570235384,49.200930954228085,10.95292331055429,4.82544608223429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2067,7 +2067,7 @@ cute the several offices of civil life
 with advantago and reputation to  
 themselves and country.&quot; Frankli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020436:1895091901:0938/pct:43.55072463768116,105.24623890960525,15.217391304347826,2.533110453902533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020436:1895091901:0938/pct:32.66896176843631,78.93789378937893,11.415111433230658,1.903047447601903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

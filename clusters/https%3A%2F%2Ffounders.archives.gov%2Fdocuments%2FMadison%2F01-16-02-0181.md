@@ -47,7 +47,7 @@ found that the principle established was,
 on any of the subjects submitted by the con­  
 stitution to the power of Congress, it mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816012701:0183/pct:32.501697216564835,56.2444302991725,15.359809911744739,6.365372374283895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816012701:0183/pct:32.496181910741555,56.23727087576375,15.362859890265286,6.368805159538357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +65,7 @@ the subjects submitted by the constitution
 to the power of Congress, it must depend  
 for its execution as to such stipulations, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816021001:0051/pct:22.583625947144704,69.38599729297404,17.224172980964703,2.547065337763012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816021001:0051/pct:22.579453067257944,69.37746062992126,17.227149544222716,2.5508530183727034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ that when a treaty stipulates regulations on any of the
 subjects submitted by the constitution to the power of  
 tonrens, if miuef depend for its excention, as to suol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845022401:0237/pct:198.09741248097413,305.17137702946485,60.14079147640791,8.193024654239327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845022401:0237/pct:49.51493247099106,76.2813768224861,15.032337835267263,2.0479482940027056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ agency in making treaties; but tliat when a treaty stimulates
 regulations on any of the subject* submitted by the constitution  
 to the power of Congress, it must dejiend for its execution, as t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848081901:0293/pct:34.074390765284306,46.904251719860156,15.391192817443352,1.556332468704184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848081901:0293/pct:34.083891501591374,46.90801097703094,15.38644244928982,1.5600917258749671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ any agency in making treaties; but that, when a treaty ! .&quot;
 tipulates regulations on any of the subjects submitted by the r­  
 constitution to the power of Congress, It must depend for its -v e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854070901:0033/pct:1.7457986620982215,23.36272040302267,17.849567629303312,1.4987405541561714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854070901:0033/pct:1.7566759123293632,23.371116708648195,17.844129004187742,1.494542401343409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ the republican party, 1 maintain &quot;that when a treaty stip- pvnlates
 regulations on any of the subjects submitted by the  
 constitution to the powers of Congress, it must depend for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854071401:0049/pct:2.2308438409311346,70.37688442211055,17.652764306498543,1.6080402010050252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854071401:0049/pct:2.2308438409311346,70.38525963149078,17.658152818191617,1.603852596314908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ subjects submitted by the Constitution to the
 powers of Congress, it must depend for its execu  
 tion. as to such stipulations, on a law, or laws. t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854071501:0061/pct:6.231142594778959,72.78946822846481,12.790240062967335,1.917694620089147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854071501:0061/pct:6.231142594778959,72.79637883970837,12.798985526258253,1.9211499257109292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ to concentrate the offices and storehouses used for the
 military establishment in New York city at some conr­  
 venlent place within the harbor or navigable waters o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743609:1867121301:0781/pct:154.8284518828452,121.09347851268389,47.04602510460251,24.707517664774702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743609:1867121301:0781/pct:51.609483960948396,40.36449283756129,15.682008368200837,8.235839221591567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ tives. Now for the Supreme Court of the­
 United States. In Tuylor es. Morton Jus-  
 tice Corris of the Supreme Court, pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531046:1882041401:0370/pct:10.331353547983746,166.81029839491543,40.497030321975615,28.934611655714747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531046:1882041401:0370/pct:3.4437845159945817,55.60343279830514,13.499010107325207,9.644870551904916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ nowcr ofConEress In conclusion the
   
 committee recommend the adoption of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_angel_ver01:data:sn85047239:00211100308:1887041501:0392/pct:8.616071428571429,67.66300366300366,19.709821428571427,6.285714285714286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_angel_ver01:data:sn85047239:00211100308:1887041501:0392/pct:6.47465952221478,50.75457875457875,14.780084840366154,4.717948717948718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ when a treaty stipulates regulations on any of
 the subjects submitted by the Constitation to  
 the power of Congress, it must depend for it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_isuzu_ver01:data:sn83030214:00175038619:1893021601:0644/pct:14.19891269587464,17.306833407771325,46.35433322673489,8.284948637784725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_isuzu_ver01:data:sn83030214:00175038619:1893021601:0644/pct:4.73297089862488,5.768944469257109,15.45144440891163,2.761649545928242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

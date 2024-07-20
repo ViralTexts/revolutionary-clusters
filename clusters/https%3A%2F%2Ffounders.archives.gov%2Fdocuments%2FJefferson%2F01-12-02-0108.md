@@ -85,7 +85,7 @@ to amend or to restore their Constitutions.&quot;
 What a reproach to the present generation  
 Is contained In the concluding words of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861050401:0001/pct:46.64542728635682,88.11292719167905,10.007496251874063,4.264487369985141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861050401:0001/pct:46.65948275862069,88.11664190193164,10.002811094452774,4.268202080237741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ What a reproach to the present genera­
 tion is contained in the concluding words  
 of this extract 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861051001:0174/pct:49.680817108203,72.84431845027167,13.262049154165338,9.036144578313253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861051001:0174/pct:49.686136823066285,72.84431845027167,13.272688583891904,9.0400818962123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ throughout the Siates to adopt what they
 e attupt w hut they  
 shall propose, and we may be assured their thore was injured.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1861052901:0568/pct:156.48979591836735,235.70646221248631,151.0204081632653,82.47535596933187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1861052901:0568/pct:39.130434782608695,58.92661555312158,37.762808736476835,20.618838992332968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ assembly nover sat in Amerles. Hsnalln
   
 policy of issuing another proclamation profor us, when we find our Constitutions d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1861052901:0568/pct:86.44897959183673,318.7842278203724,138.53061224489795,8.269441401971523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1861052901:0568/pct:21.616656460502142,79.6960569550931,34.63972239232496,2.067360350492881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ store their Constitutions.&quot;
 What would the Sage of Monticello say  
 if he could witness the madness of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033708:00200293757:1862052001:0120/pct:208.1811541271001,183.78523489932886,58.29072315558802,41.87919463087248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033708:00200293757:1862052001:0120/pct:52.04528853177502,45.946308724832214,14.572680788897005,10.46979865771812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ philosophers and set it to rights, while every other nation
 on earth must have recourse to arms to amend or to restore  
 their Constitutions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1863070901:0145/pct:4.0675675675675675,66.95708995861469,15.527027027027026,5.783053800914834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661630:1863070901:0145/pct:4.0675675675675675,66.96072024976404,15.531531531531531,5.786684092064183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

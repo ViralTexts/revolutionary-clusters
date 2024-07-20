@@ -1233,7 +1233,7 @@ i volint exertions !_And admitted, as I trust I shall
 be, to the realms of blifg before you, I shall hail  
 !. your arrival there transport, to ac- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796072101:0003/pct:26.79531021006351,62.27985910983029,21.104054714215927,7.300672430355427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796072101:0003/pct:26.80141670737665,62.28786423310919,21.12237420615535,7.300672430355427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1557,7 +1557,7 @@ tell you, Nav; bu&gt;, except ye repent, ye shall all
 i likewise perish,”—(Luke 13 ch: 1—5 v.) It is  
 1 hut t&lt;&gt;o evident, that most persons are diposed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832100801:0647/pct:17.49913284772806,24.801950030469225,18.487686437738468,8.45825716026813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832100801:0647/pct:17.49609849141668,24.798927613941018,18.49026067857349,8.46128848809814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1793,7 +1793,7 @@ Siessings to these, to those distributes ills;
 T most he mingles both--the wretch decreed  
 To taste the bad unmixed is cursed indeed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190923:1853011401:0047/pct:10.267471958584988,122.9504261193134,38.98188093183779,7.190013203697035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190923:1853011401:0047/pct:3.4224906528616623,40.98347537310447,12.993960310612596,2.3966710678990117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1814,7 +1814,7 @@ Blessings to these, to those distributes ills;
 To mo&gt;t he mingles both—the wretch decreed  
 To taste the bad unmixed is cursed indeed 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853011801:0059/pct:80.24548608022769,18.936404218153587,12.630080939251089,3.0730413404929804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853011801:0059/pct:80.23834934187121,18.93517919523871,12.631922210364046,3.0749989218096347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1955,7 +1955,7 @@ Blessings to these, to those distributes ills;
 To most he mingles both; the wretch decreed  
 To taste the bad unmixed, is eurzed indeed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861061601:0571/pct:304.27927927927925,209.81116151492773,44.707207207207205,25.783310475788586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861061601:0571/pct:76.08052935379418,52.45279037873193,11.17837533436576,6.445827618947146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2378,7 +2378,7 @@ inners above all men that dwelt in Jerusalem?
 I tell you, Nay; but except ye repent, ye shall all  
 likewise perish.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871101701:0163/pct:4.400606980273142,23.064348342993014,124.4309559939302,362.13404666369445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871101701:0163/pct:1.1007781362687417,5.766087085748254,31.12545074966787,90.53351166592361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2502,7 +2502,7 @@ To taste the bad unmixed, is cursed indeed,
 The happiest taste not happiness sincere,  
 But find the cordial drought is dashed with ease
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558378:1877022401:0202/pct:72.7447216890595,176.9983385637807,49.424184261036466,46.74173896990954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558378:1877022401:0202/pct:18.186180422264876,44.24958464094517,12.356046065259116,11.685434742477385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2536,7 +2536,7 @@ was information brought to Christ for
 the first time. The Galileans were the  
 most turbulent and rebellious of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022795:no_reel:1877040701:0436/pct:38.807879253005886,59.6378199547275,45.79176259913021,35.95681699460212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022795:no_reel:1877040701:0436/pct:12.935959751001961,19.879273318242497,15.263920866376738,11.985605664867375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2570,7 +2570,7 @@ Blessings to these--to those distributes ills.
 To most he mingles both. The wretch decreed  
 To taste the bad unmixed is cursed indeed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742137:1877100601:0343/pct:121.11170497060395,157.7390192676468,49.559059326563336,27.047758195598576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742137:1877100601:0343/pct:40.37056832353465,52.579673089215596,16.51968644218778,9.015919398532859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2597,7 +2597,7 @@ Blessings to these—to those distributing ills;
 To most, he mingles both. The wretch decreed  
 To taste the bad unmixed is cursed indeed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762337:1877101601:0150/pct:70.86564329799019,69.53343890851504,10.571292926095902,4.458521135339262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762337:1877101601:0150/pct:70.87751226459883,69.53648434644901,10.55942395948726,4.461566573273236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2850,7 +2850,7 @@ ye that they were sinners above all men ; hat dwelt in
 Jerusalem? I tell you nay; but except ye repent ye  
 shall all likewise perish.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210132:1885110801:0072/pct:36.97696606242334,11.799726722623463,14.59724683112989,2.020300605114191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210132:1885110801:0072/pct:36.98150924537731,11.802980024725096,14.59724683112989,2.0300605114190904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

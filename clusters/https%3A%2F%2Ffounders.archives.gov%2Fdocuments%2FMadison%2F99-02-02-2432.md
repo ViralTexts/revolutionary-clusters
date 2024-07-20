@@ -73,7 +73,7 @@ In a letter to Mr. Trist, dated December 23, 1832, j
 lie said : !  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861011201:0025/pct:65.22318454363757,92.1659533999049,21.019320453031312,10.413694721825962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861011201:0025/pct:48.92553723138431,69.12743699476938,15.775445610528068,7.8102710413694725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ In speaking of the action of the Vir
   
 ginia Legislature on the resolutions of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1861013101:0232/pct:66.0377358490566,229.35830349765905,50.0,41.31093362709997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1861013101:0232/pct:16.519174041297934,57.33957587441476,12.507374631268437,10.327733406774993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ from the same poisonous root.&quot; Time
 would not permit, nor have I the inclina­  
 tion to quote, and more of the scores o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861071701:0566/pct:127.02020202020202,130.9636212163288,60.52188552188552,21.16078866981394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861071701:0566/pct:31.77511054958939,32.7409053040822,15.140029479890503,5.290197167453485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ from the same poisonous root.&quot; Time
 would not permit, nor have I the inclina­  
 tion to quote, and more of the scores o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861071702:0396/pct:131.0254163014899,132.0365800551604,60.64855390008764,21.309333720423865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861071702:0396/pct:32.75635407537248,33.0091450137901,15.16213847502191,5.327333430105966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ we may presume that there is no such right.
 The doctrine that a State has a right to se­  
 cede is derived from the belief that the State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477795:1861071701:0309/pct:64.15275994865212,23.320873025443145,40.548780487804876,103.41251658024841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477795:1861071701:0309/pct:48.130316161129834,17.496683950319547,30.41245385973359,77.5593874351863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ from the Union. Both spring from the
   
 same poisonous root.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1861080801:0344/pct:123.77240841777085,186.7574931880109,50.9742790335152,34.49591280653951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1861080801:0344/pct:30.943102104442712,46.689373297002724,12.7435697583788,8.623978201634877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -82,7 +82,7 @@ Tell him the clergy here, of every de­
 nominaiiun, riot excepting the Epis&#x27;copa.  
 Nan, thunder and lighten every Sab
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1844020101:0318/pct:89.33884297520662,43.53237516669136,19.214876033057852,4.104311749888873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1844020101:0318/pct:67.04568947694852,32.65668987998222,14.430432086003721,3.0819380648985035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ every denomination, not excepting the Episco­
 palian, thunder and lighte n every Sabbath.&quot;  
 The clergy of the Revolution gavo effectua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854040401:0334/pct:85.02442428471737,59.10351714190614,13.468248429867412,3.38400088760679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854040401:0334/pct:85.02442428471737,59.10351714190614,13.477552919283553,3.3913976108583896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ savage Indians.
 AN ITEM FOR SOLDIERS ANd SAtLORs.  
 As an item of news for our army an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029564A:1865020201:0032/pct:330.0993847610033,207.23990152275007,50.26029342167534,59.48755356980031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029564A:1865020201:0032/pct:82.55414841993135,51.80997538068752,12.569534856196,14.871888392450078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ minor.
   
 A little son of Capt. McDermott, of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1865022201:0826/pct:73.1234256926952,50.784651209881545,11.045340050377833,12.41267591373899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1865022201:0826/pct:73.13182199832075,50.784651209881545,11.04114189756507,12.419425601565928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ Indians.
 There is just as much difference in  
 the patriotism of Adams and the e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1865030201:0956/pct:203.81426202321725,243.17205840251933,56.053067993366504,62.58230747208703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1865030201:0956/pct:50.95356550580431,60.79301460062983,14.013266998341626,15.645576868021758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

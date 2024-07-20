@@ -62,7 +62,7 @@ Mother Country, or a Change of the Form of this Government.
 House, Signed by Order of the House. =  
 Now. §, 1775- Jorn MorToON, Speakier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775121201:0494/pct:35.231239092495635,51.07127240926979,27.356020942408378,19.29747850167614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775121201:0494/pct:35.245782431646305,51.07127240926979,27.348749272833043,19.302336879949472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ Delegates to tbe Continental Congress were instructed to reject
 any proposition ‘that may cause or lead to a separation from  
 our mother coun&#x27;ry, or a change of &#x27;heir form of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855061001:0008/pct:5.482108231976027,60.81098098476262,12.057112638815441,1.8511522478277296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855061001:0008/pct:5.495328750220342,60.81727742097973,12.05270579940067,1.8448558116106284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ from, and utterly reject, any proposition,
 should such be made, that may cause, or  
 lead to separation from our mother coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861072501:0096/pct:22.912801484230055,74.30801987224983,20.083487940630796,3.2647267565649396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861072501:0096/pct:17.194989948971703,55.73692926425361,15.061079325807947,2.4485450674237046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

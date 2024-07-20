@@ -1851,7 +1851,7 @@ crowr, or to confti.u e a number of new govern
 menta altogether indeperdent of ths f verdgn  
 legifl »t ve authority of the Engtfli Empire, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0379/pct:32.66137679605404,101.11616370400992,26.270641218099936,13.035689678930687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0379/pct:25.31301939058172,78.37106649579951,20.3601108033241,10.106080022782287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1881,7 +1881,7 @@ the continent of Am rici in die beginning of the
 El zabethin thia lefpeft, that they were depen  
 slant on the crown ? T&#x27;te cht&#x27;ttr to the cou ci 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0379/pct:59.982843662877976,69.93247898580681,26.356422903710058,14.785724128427725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0379/pct:46.48753462603878,54.204043855902036,20.437673130193907,11.45165883525559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1898,7 +1898,7 @@ the patent of 1620, the hcafe of commons was
 alarmed and a bill was brought in for alloWing  
 a Mb finery and it wit Upon this occaiij
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0379/pct:60.2830795625134,112.78765330026182,26.141968689684752,2.8524183546920217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0379/pct:46.7202216066482,87.41634629075894,20.26038781163435,2.2034742987327354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1929,7 +1929,7 @@ prerogative ?
 nation and ofthe patentees of this patent or  
 charter in 1620, I need only refer you to the ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0379/pct:87.30431052970191,39.72715998346424,26.914003860175853,14.86840292131735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0379/pct:67.66204986149584,30.791684465328206,20.858725761772853,11.522853481418197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1953,7 +1953,7 @@ better evidence of the sense which the patentees
 had of it, for 1 know of no hiflorical lad cf  
 which we have left reafrn co duubt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0379/pct:87.8618914861677,87.36392448670249,25.927514475659446,9.053327821413808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0379/pct:68.10526315789474,67.70610850064075,20.099722991689752,7.030471308557597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1976,7 +1976,7 @@ their Governor Ihau&#x27;d t»ke the cath, required of
 him, faithfu&#x27;ly to do and peiform all matters  
 and things enj ir.ed h m by jhe afts cf trade
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0380/pct:42.615319509098605,84.04031919361613,25.962759204401184,8.497830043399132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0380/pct:33.032688313108125,65.13200723327306,20.11588498961408,6.596745027124774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2002,7 +2002,7 @@ p&#x27;ovince, fur wh ch this reason is giv n, that alt
 undue trading contrary to an afi of parliament  
 made in the fift*entb year of King Charlei the te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0380/pct:69.67837494710115,74.26851462970741,26.11087600507829,11.423771524569508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0380/pct:54.0013119055428,57.56600361663653,20.247075543894173,8.849909584086799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2484,7 +2484,7 @@ but only their fenle as die grievance of a monopo­
 ly of tae lea.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773030401:0384/pct:16.487455197132615,5.210748874641932,107.84313725490196,115.6322466239258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773030401:0384/pct:12.788671023965142,4.0453872718302915,83.57843137254902,89.61519486926493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2886,7 +2886,7 @@ to be fuffiricotly acqTainted with their circum­
 -8&lt;ot«, if concern:! for their insured, and ia  
 W lich the/ cann*; be ia aly f:af: reprefen&#x27;xd.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773030401:0385/pct:9.223509223509224,4.477405045744386,82.56113256113257,119.10174660382589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773030401:0385/pct:7.148398537071928,3.4700089525514772,64.00864457497507,92.31871083258729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2907,7 +2907,7 @@ counti its acqui ed in war carried on at the
 charge of the nation,or to fell and deliver up a­  
 ny part of hi* dominions againlt the general
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773031101:0394/pct:16.39274279615795,14.187866927592955,26.25400213447172,6.793402292423819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773031101:0394/pct:12.715743038323684,11.002780486043404,20.34739454094293,5.272090419961724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -204,7 +204,7 @@ Hi -tory of any State, City, Town or Dis
 rid.  
 As the society in‘c.nd to form a Libra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809100301:0308/pct:38.598130841121495,12.283423842772175,36.299065420560744,81.53607447633824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809100301:0308/pct:38.59091758549804,12.281835811247577,36.29851118171058,81.52984270631329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ t Original essays and disquisitions on &#x27;
 . or district.  
 As the society intend to form a li- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809100901:0001/pct:41.76706827309237,11.815068493150685,18.27309236947791,40.06849315068493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809100901:0001/pct:41.77376171352075,11.82384966631542,18.279785809906294,40.0728837372673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ biographical memoirs and anecdotes of distin­
 guished persons in tho county, or who have been  
 connected with its settlement or history
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627579:1886021301:0031/pct:62.29066136815214,26.47337901950448,10.970763553789384,1.4971006852925672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627579:1886021301:0031/pct:62.29066136815214,26.48040766121947,10.975494370328319,1.4935863644350729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

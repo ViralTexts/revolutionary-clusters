@@ -120,7 +120,7 @@ He contended, however, that in the United States it was
 sufficiently so lor the object in contemplation.—[De­  
 bate*. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851041101:0337/pct:36.51970347249317,38.77692842251564,14.65079984393289,6.490618485059069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851041101:0337/pct:36.51258045640726,38.77153974430239,14.652818412326896,6.493190661478599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ parts perfectly free, population, iuilusfry, arts, and the
 value of labor would constantly tend to equalize them­  
 selves.&#x27; And iu this connect ion. permit me to add that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851061701:0295/pct:79.96199941537562,26.001737955006277,15.594855305466238,16.713333977020373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851061701:0295/pct:79.97174315502289,26.001737955006277,15.5899834356426,16.722989282610794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ government founded in the power of the people, erected
 by them aud sustained by them, while he will h:-.ve none  
 but that of their choice. Still, when the questi ni wis 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851070101:0328/pct:5.101431980906921,71.98485142746165,16.10978520286396,11.244901922703438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851070101:0328/pct:5.101431980906921,71.98808830193565,16.10978520286396,11.251375671651454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ perfectly free, population, irdustry, arts, and
 the value of labor would constantly tend to  
 equalize themselves,” And in this connec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851080501:0100/pct:32.175599435825106,44.681719260065286,12.834978843441467,25.88411316648531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851080501:0100/pct:32.169927727833596,44.67564259485924,12.837123215230037,25.883992928056575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ opinion that no unfavorable distinctions
 are admissible, either in point of justice or  
 policy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741911:1866081301:0153/pct:50.88967971530249,132.68148694769855,41.59594853545031,7.776035421086616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741911:1866081301:0153/pct:16.963226571767496,44.22716231589952,13.865316178483438,2.592011807028872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

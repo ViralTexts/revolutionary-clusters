@@ -51,7 +51,7 @@ War at any. time, and under any circumstances, is
 . an evilwlmb cannot fail s-nously to effect a n.ti- j  
 On, awl which a wise government will not hastil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812060801:1179/pct:7.285257199113955,36.55150145301905,23.160226433669703,6.021956732321602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812060801:1179/pct:7.283464566929134,36.545601291364,23.160679133858267,6.02502017756255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -79,7 +79,7 @@ which now approaches.—War at any time,
 and under any circumstances, is an evil which  
 cannot tail seriously to udcct a nation, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812060901:0528/pct:8.085595289386758,11.6951732784096,23.85466034755134,11.068326318617355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812060901:0528/pct:8.08443423319931,11.694126074498568,23.856021443614782,11.070319961795606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

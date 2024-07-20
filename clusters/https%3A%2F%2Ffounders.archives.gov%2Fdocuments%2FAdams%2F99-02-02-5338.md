@@ -215,7 +215,7 @@ S-lu&#x27;e and Fraternity,
 (Sigi. d)  
 CHARLES MAU TALLEYRAND
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799030501:0002/pct:62.95757575757576,31.61477190441709,17.236363636363638,55.14844315713251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799030501:0002/pct:62.96363636363636,31.625633598841418,17.242424242424242,55.14844315713251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ will find you a,,t{_tﬁe. Hague ; if not,
 at Paris. = Salute and Fraternity, -  
 (Signed) CH. MAU. TALLEYRAND
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799032001:0046/pct:43.3688436004323,19.641115662180614,16.998610467809172,70.48956504778623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799032001:0046/pct:43.373990015953886,19.644366426110135,16.998610467809172,70.49281581171576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ Exrn.nion Rki. a-: /o.\\,,
 N. B. The good order of the cor­  
 respondence requires, the answer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809050301:0001/pct:23.30568480679749,80.4665875840253,17.418571717580416,14.630288651640965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809050301:0001/pct:23.319171892912536,80.47537454417645,17.432058803695462,14.630288651640965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ nation I represented, in their own
 opinion and in the judgment of i  
 all Europe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809050301:0001/pct:41.12886910782925,12.165546329247396,36.172364960550276,82.70726242256491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809050301:0001/pct:41.12886910782925,12.165546329247396,36.19259558972284,82.71165590264049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ graded in my own estimation / a man of honor,
 ed, in their own opinion, and&#x27; the judgement of  
 all Europe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809050901:0452/pct:42.67766735420964,2.115798809071329,36.71479467466717,95.09692132269099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809050901:0452/pct:42.66966629171353,2.1155307828730683,36.71416072990876,95.08909720462799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1094,7 +1094,7 @@ have disgraced the nation I represented,
 in their own opinion and in the judgment  
 ot all Europe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051201:0147/pct:21.879118810016944,3.172753172753173,54.942572020335156,93.12354312354313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051201:0147/pct:21.875,3.17234235400751,54.93850401606426,93.11580128620139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1478,7 +1478,7 @@ _greater of long delay and uncertain
 Smtthaqhﬂml s “ffﬂﬂ“‘“  
 been the fame difficolties. OF all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809053001:0291/pct:60.07474307069449,10.50440987018135,34.584241669261914,83.3118620552968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809053001:0291/pct:60.07993356171494,10.50440987018135,34.579051178241464,83.31846860238497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1517,7 +1517,7 @@ nation 1 represented, in their own
 opinicn and in the judgment of all  
 Europe. JOHN ADAMS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809053001:0292/pct:5.842454139047326,2.27923038973853,16.587020194234622,17.839171188949187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809053001:0292/pct:5.852731103232105,2.2825193224798555,16.581881712142234,17.84246012169051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

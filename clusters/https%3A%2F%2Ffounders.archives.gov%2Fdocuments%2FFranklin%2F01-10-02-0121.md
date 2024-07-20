@@ -422,7 +422,7 @@ revolve around- their own axis in u
 state of fluidity will depart from n  
 spherical form and assume that of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478179:1894101301:0111/pct:59.03213166144201,22.532612992489128,16.046238244514107,7.471340097509553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478179:1894101301:0111/pct:44.29635437083497,16.906048227697983,12.034496275970207,5.600210831466597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

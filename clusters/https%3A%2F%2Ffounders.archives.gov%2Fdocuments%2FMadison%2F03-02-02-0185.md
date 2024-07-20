@@ -203,7 +203,7 @@ our common and happy country.
 (Signed)  
 JOSEPH RIDDICK. X S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010201:0293/pct:76.01633232735665,5.091352009744214,16.81164565950648,20.37758830694275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010201:0293/pct:76.00283990060348,5.0907319449518935,16.814578156431192,20.37916615921731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ try.
 (Signed) JOHZPH RIDDICK, S. S,  
 THOMAS DaVIS, S. H. C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010201:0008/pct:77.44138822226324,57.20524017467249,17.74044674173897,20.524017467248907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010201:0008/pct:77.42709486895534,57.19789392577373,17.743324720068905,20.525662428834384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ With the most perfect esteem, &#x27; •
 Your humble and obedient servant,  
 DAVID STONE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021301:0365/pct:23.837638376383765,3.512596899224806,35.68265682656826,90.80668604651163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021301:0365/pct:23.83324109942815,3.512171490856243,35.68222345200763,90.79972548544669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

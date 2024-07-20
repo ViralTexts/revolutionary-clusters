@@ -52,7 +52,7 @@ sentiments of much esteem and respect, I
 have the honor to be, sir, Your Out. Ser.,  
 noiiuriT UHENT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283818:1897080601:0894/pct:67.63937282229965,66.04881062712388,18.662891986062718,12.202656780970035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283818:1897080601:0894/pct:50.75147026791549,49.536607970342914,14.005663254192987,9.15971578622181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -87,7 +87,7 @@ sentiments of much esteem and respect, |
 have the honor to be, sir, Your Obt. Ser.,  
 &quot;ROBERT RRENT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074063:00383343616:1897081101:0595/pct:86.94158075601375,63.23828920570265,11.1340206185567,7.764765784114053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074063:00383343616:1897081101:0595/pct:86.92664490637347,63.23024054982818,11.136402679951898,7.766959399261805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ sentiments of much esteem and respect, I
 have the honor to be, sir, YourObt. Ser.,  
 &quot;ROBERT BRENT.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584417:1897081201:0251/pct:57.80317243731878,39.58587088915956,15.84513047927682,10.012180267965896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584417:1897081201:0251/pct:50.57705700925281,34.64066219048634,13.869266739627898,8.76407687662084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ sentiments of much esteem and respect, JT
 have the honor to be, sir, YourObt. Ser.,  
 &quot;ROBERT BRENT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:0021247938A:1897081201:0257/pct:56.22731080703714,23.99202015959681,12.231220329516894,8.200335993280135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:0021247938A:1897081201:0257/pct:56.23196500046542,23.99202015959681,12.240528716373452,8.207335853282935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ sentiments of much esteem and respect, I
 have the honor to be, sir, YourObt. Ser.,  
 “ROBERT BRENT.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1897081201:0764/pct:45.3377538334024,49.57131722525331,9.780356402818068,6.970270571205879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1897081201:0764/pct:45.3377538334024,49.57131722525331,9.789565777961965,6.977693649556471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ sentiments of much esteem and respect, 1
 have the honor to be, sir, Your Obt. Ser  
 &quot;ROBERT BRENT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:2010270508:00237280593:1897081301:0710/pct:32.91007493755204,39.99452504790583,22.62697751873439,13.030385984122638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:2010270508:00237280593:1897081301:0710/pct:24.69804248229904,30.002737476047084,16.992919616826324,9.772789488091979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ sentiments of much esteem and respect, I
 have the honor to be, sir, Your Obt, Ser.,  
 &quot;ROBErT BRENT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_braeburn_ver01:data:sn85034374:00295877856:1897081401:0281/pct:194.86271036315324,96.39837143751957,49.867139061116035,33.00970873786408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_braeburn_ver01:data:sn85034374:00295877856:1897081401:0281/pct:48.73726185201595,24.099592859379893,12.472308373947719,8.25242718446602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ sentiments of much esteem and respect,
 have the honor to be, sir, Your Obt. Ser.,  
 &quot;ROBERT BRENT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473510:1897081901:0072/pct:32.69950124688279,53.74581139301101,21.041147132169577,13.164193393968405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473510:1897081901:0072/pct:21.811661989398193,35.830540928674004,14.03180542563143,8.784107228338918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ sentiments of much esteem and respect, |
 | have the honor to be, sir, Your Obt, Ser.,  
 “ROBERT BRENT.” !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_kokomo_ver01:data:sn90051185:00513681082:1897082001:0112/pct:19.760765550239235,22.834930392334115,12.703349282296651,8.172120773820286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_kokomo_ver01:data:sn90051185:00513681082:1897082001:0112/pct:19.778708133971293,22.84849032724643,12.691387559808613,8.181160730428495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ sentiments of much esteem and respect I
 have tho honor to be sir Your Obt Ser  
 ROBERT BREN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533213:1897082401:0567/pct:26.929133858267715,66.6249304396216,19.094488188976378,12.367835281023929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533213:1897082401:0567/pct:20.204805041354863,49.97217584863662,14.336352894840488,9.279354479688369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ sentiments of much esteem and respect,
 have the honor to be, sir. Your Obt. Ser.,  
 &quot;ROBERT BRENT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1897090401:1007/pct:64.19538412899146,34.445083381253596,13.895036357888081,8.982173663024726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1897090401:1007/pct:64.2059226472758,34.445083381253596,13.900305617030245,8.989840904734521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1903,7 +1903,7 @@ verse 26: &quot;If any man serve me, let him follow me;
 and where I am, there also shal my servant be. If  
 any man serve me, him will my Father honor.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854070301:0040/pct:149.87468671679198,22.640226628895185,47.43525480367585,10.073654390934845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854070301:0040/pct:49.95822890559732,7.546742209631728,15.811751601225286,3.3578847969782815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1926,7 +1926,7 @@ faith.’ His Spirit dwelleth in them as his
 ‘house,’ The Father himself is said to  
 ‘dwell in them, and walk in them.’ ‘God i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016561:1855041301:0340/pct:81.43473928927267,24.66776357423111,12.255064762537364,4.543728641944058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016561:1855041301:0340/pct:81.42121866179644,24.66464186281954,12.257180806906858,4.546317388003037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1973,7 +1973,7 @@ he is the mediator of a better convenant,
 which was established upon better pro­  
 mts.” Still, whether superior or infer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:0051701655A:1855112901:0088/pct:80.8294470353098,88.63141723210856,11.825449700199867,3.5462808859300985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:0051701655A:1855112901:0088/pct:80.81598667776852,88.62007168458781,11.827643630308076,3.549027137736815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2143,7 +2143,7 @@ which thou hast sown in the field; and the feast of ingather.­
 ing which is in the end of the year when thou hast gathered in  
 thy labors out of the field.&quot;-Exodus, xxill., 16
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530819:1865120801:0737/pct:51.399856424982055,71.23629112662015,48.95908111988514,6.293619142572283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530819:1865120801:0737/pct:17.133285474994018,23.745430375540046,16.31969370662838,2.0978730475240943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2321,7 +2321,7 @@ at found in the 2nd chapter of Exodus, 1tth verse:
 The feast of ingathering which is in the end of the year,  
 when thou hast gathered in thy labors out of the field.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530935:1869111901:0575/pct:150.00779180302322,198.54769501595334,47.093657472339096,5.061062823192871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530935:1869111901:0575/pct:50.0025972676744,66.18256500531778,15.697885824113033,1.6870209410642902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2347,7 +2347,7 @@ harvest, from the different parts and
 sections of your County, to greet each  
 other as husbandmen, and to acquire a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1869112301:1114/pct:63.30140014738394,138.9896734579961,44.58364038319823,24.448785933575216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1869112301:1114/pct:15.831183192038335,34.747418364499026,11.150018429782529,6.112196483393804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2461,7 +2461,7 @@ set the Lord always before me, because he is at
 my right hand 1 shall not be moved.” If our  
 eves are ever unto him we sbaJ be spirituall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525358:1873070701:0205/pct:38.68031854379977,53.22235434007134,10.905249471802373,5.4815695600475625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525358:1873070701:0205/pct:38.67403314917127,53.2160266317917,10.907539811504712,5.483890143859232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2755,7 +2755,7 @@ ingathering, which is in the end of the year,
 when thou hast gathered in thy labours out of  
 the fields.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1878112001:0427/pct:21.656534954407295,62.05128205128205,42.02127659574468,9.857549857549857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1878112001:0427/pct:5.415162454873646,15.512820512820513,10.507315219456583,2.4643874643874644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2777,7 +2777,7 @@ ing, which is in the end of the year,
 when thou hast gathered in thy  
 labours out of the fields.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1878112001:0170/pct:170.05267118133935,53.7344398340249,48.90895410082769,21.109958506224068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1878112001:0170/pct:42.5211665098777,13.433609958506224,12.229539040451552,5.277489626556017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2796,7 +2796,7 @@ hast sown in the field; and the feast of ingatherin.
 which is in the end of the year, when thou hast  
 gathered in thy labors out of the fields
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1878112201:0395/pct:20.921450151057403,146.80642907058,38.141993957703924,7.323549965059399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1878112201:0395/pct:5.231350330500472,36.701607267645,9.537299338999055,1.8308874912648498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2816,7 +2816,7 @@ the feast of the ingathering, which is in
 the end , of the year, when , thou hast  
 gathered in thy labours out of the fields.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194394:1878112501:0190/pct:21.00558659217877,14.558901215002642,14.846368715083798,4.141574220813523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194394:1878112501:0190/pct:15.760793628615342,10.92445853143159,11.149923152158726,3.1061806656101427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3021,7 +3021,7 @@ singing, ye mountains; O forest and every
 tree therein, &amp;c.”  
 The meeting at 9th avenue is terme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883080901:0130/pct:27.100799376096706,80.35529237601776,11.30824722168064,2.620281273131014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883080901:0130/pct:27.09551656920078,80.3433984606276,11.310916179337232,2.623593842510361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3220,7 +3220,7 @@ is in the end of the year when thou
 hast gathered in thy labors from the  
 field.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776580:1886111101:0285/pct:26.89199118295371,157.79620219309976,50.84496693607642,26.531158063653383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776580:1886111101:0285/pct:6.725468577728776,39.44905054827494,12.715913267181183,6.632789515913346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3356,7 +3356,7 @@ chapter 12,. verse 20 : “If any man serve
 me, let him follow me; and where I am,  
 there shall also my servant l e.” In othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1890021301:0232/pct:14.8055927983145,70.94041231290596,10.994062440145566,2.231008189776899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1890021301:0232/pct:14.802757564151666,70.93039672455174,10.99674454232095,2.23422278695468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3394,7 +3394,7 @@ mountains; O forest and every tree therein;
 for the Lord hath redeemed Jacob, and on  
 Israel will he glorify himself.&quot; (I Kings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_kelseya_ver02:data:sn83025308:00212476614:1891042001:0936/pct:193.2226211849192,106.15124153498871,44.367145421903054,20.993227990970656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_kelseya_ver02:data:sn83025308:00212476614:1891042001:0936/pct:64.40754039497307,35.38374717832957,14.789048473967684,6.997742663656885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3433,7 +3433,7 @@ be; if any man serve me him will my Father
 honor.&quot;-JOHN VH,26.  
 Have you looked for sheep in the desert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_orwell_ver01:data:sn86071719:00280777705:1892021701:1192/pct:259.3503072870939,34.21052631578947,57.59438103599649,11.901913875598087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_orwell_ver01:data:sn86071719:00280777705:1892021701:1192/pct:64.86605182257357,8.552631578947368,14.40491875274484,2.9754784688995217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3509,7 +3509,7 @@ from thy presence.&quot; To trust in that love,
 which will, like the sea waves, wash all  
 stains away--that spirit is the redemptio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_kelseya_ver02:data:sn83025308:00212476687:1893070301:0342/pct:11.831896551724139,228.77118644067798,42.73706896551724,7.372881355932203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_kelseya_ver02:data:sn83025308:00212476687:1893070301:0342/pct:3.9439655172413794,76.25706214689265,14.245689655172415,2.457627118644068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3618,7 +3618,7 @@ me ; and where I am, there shall also my
 deacon (servant) be; if anv man deacon  
 (serve) me, him will the Father honor. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1896012301:0224/pct:26.064342130610672,36.54283548142532,11.134656135619341,2.8809704321455647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1896012301:0224/pct:26.059322033898304,36.531756859178415,11.137326656394453,2.8838866151280884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3713,7 +3713,7 @@ end of the year when thou hast
 gathered in thy labor out of the  
 field. Again; stc the command t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898112401:0413/pct:7.33018056749785,45.65695034422147,13.800515907136715,4.906986963527172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898112401:0413/pct:7.328605200945627,45.650263620386646,13.802922845476036,4.9099297012302285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

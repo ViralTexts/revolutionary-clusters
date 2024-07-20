@@ -855,7 +855,7 @@ laws , to irritate factions of every sort.
 I dare not look beyond my nose into  
 futurity. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1898110301:0252/pct:26.687643020594965,78.12755519215045,32.608695652173914,10.057236304170074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1898110301:0252/pct:20.03434459072696,58.60588716271464,24.47052089295936,7.542927228127555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ in one immense mass , one stupendous
 draught , all the legends , true , doubtful ,  
 and false. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1898110301:0252/pct:26.716247139588102,104.76287816843826,32.69450800915332,11.324611610793132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1898110301:0252/pct:20.062965082999426,78.57726901062959,24.527761877504293,8.503679476696648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

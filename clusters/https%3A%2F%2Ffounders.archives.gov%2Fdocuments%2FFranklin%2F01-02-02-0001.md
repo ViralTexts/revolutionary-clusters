@@ -376,7 +376,7 @@ et if
 The family of fools is ancient.  
 Necessity never made a good bar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022356:00200290148:1850032101:0048/pct:238.84892086330936,219.56230460026796,50.4396482813749,9.289861545332737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022356:00200290148:1850032101:0048/pct:59.748050389922014,54.89057615006699,12.61747650469906,2.3224653863331843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ Two or three &quot;4css me&#x27;t&quot; and &#x27;let me dits,&#x27;
 Two or three squeezes, and iwo or three  
 lowses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1850052301:0348/pct:109.90712074303406,22.28633811603244,17.008513931888544,9.778540237055521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1850052301:0348/pct:82.4622531939605,16.718652526512788,12.775842044134727,7.330006238303182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ evening of April 10th, visible here.
 The second will be of the sun, April  
 25th, visible in South America. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_dust_ver01:data:sn83016485:00211100916:1865020701:0112/pct:11.533816425120772,163.05753606367102,38.28502415458937,12.684463604709004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_dust_ver01:data:sn83016485:00211100916:1865020701:0112/pct:3.844605475040258,54.34350132625995,12.761674718196458,4.227453580901857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ for his stomach, the rich man to get a
 stomach for his meat.  
 It is now said that odorous flowers ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551499:1872112401:0088/pct:82.21384509938314,15.957154627849492,16.089787525702537,16.025817083218897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551499:1872112401:0088/pct:82.21955677404615,15.966309621898747,16.10692254969157,16.025817083218897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ for his stomach, the rich man to get a
 stomach for his meat.  
 It is now said that odorous flowers ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551499:1872112401:0089/pct:82.25025924645696,16.598805646036915,16.34980988593156,15.825190010857764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551499:1872112401:0089/pct:82.25602027883397,16.598805646036915,16.361331950685564,15.83423814694173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ for his stomach, the rich man to get a
 stomach for his meat.  
 It is now said that odorous flowers ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551499:1872112401:0090/pct:82.77612462804132,15.62585969738652,16.366182391037984,16.052269601100413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551499:1872112401:0090/pct:82.78779392029874,15.630444750114627,16.366182391037984,16.05685465382852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ The poor man must walk to get
 meat for his stomack, the rich man to  
 get a stomach to his meat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291062:1872120701:0771/pct:6.502669717772693,84.16850220264317,14.016018306636155,10.03579295154185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291062:1872120701:0771/pct:6.507437070938215,84.17538546255507,14.011250953470633,10.032351321585903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -834,7 +834,7 @@ tion, that he refused to introduce gas
 into a fine house which he had just fin­  
 ished. Then he went to Syracuse to bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1875052001:0282/pct:70.3528016602431,44.806451612903224,15.060776756596502,17.27956989247312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769738:1875052001:0282/pct:66.8403511242548,42.56673930809044,14.307843965638643,16.426041950422228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ character is refined by pain.
 -There&#x27;s small revenge in words, but  
 words may be greatly revenged
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524032:1875060801:0522/pct:10.60558021559924,236.88842325825038,40.10779961953075,5.605028810895757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524032:1875060801:0522/pct:3.534633063877001,78.95453593128012,13.367147461298673,1.8681472169844262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ head,
 Tin&#x27;s he our Saint. Amen! the Father said.  
 Judge Moncure of the Court of Ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663754:1875120401:0558/pct:2.1454444134856505,49.25685975609756,15.812203956533853,22.408536585365855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663754:1875120401:0558/pct:2.1454444134856505,49.26321138211382,15.82149159468747,22.408536585365855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -935,7 +935,7 @@ books.”
 “So God sends meat, (they say) the  
 Devil cooks.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624578:1883021001:0387/pct:84.58003169572108,82.5560484354394,12.836767036450079,2.265915357870759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624578:1883021001:0387/pct:65.54900515843774,63.986620416253714,9.960697617293048,1.7560703666997026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1008,7 +1008,7 @@ Whatever may be the music of the spheres, how
 great soever the harmony of the stars, ’tis cer­  
 tain there is no harmony among the stargazers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891020501:0483/pct:71.83126355213878,54.445664105378704,21.05263157894737,2.428649835345774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891020501:0483/pct:71.81710681907765,54.43819453971738,21.05505189856786,2.4328897425344125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ for his stomach; the rich man, to get
 a stomach for his meat.  
 The average annual rainfall in the I&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_excalibur_ver01:data:sn85052020:00206533857:1892030801:1046/pct:50.810097965335345,34.75130017335645,18.59457422758101,3.9338578477130284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_excalibur_ver01:data:sn85052020:00206533857:1892030801:1046/pct:38.12664907651715,26.070142685691426,13.94647568790049,2.9470596079477263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1138,7 +1138,7 @@ those qualltl-s that are bis own as by those
 that he affects to have.  
 Deny self for self&#x27;s sake.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769605:1895042201:0740/pct:6.350550381033023,45.35080304311074,14.098221845893312,1.7047055508593971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769605:1895042201:0740/pct:6.350550381033023,45.36136939983094,14.098221845893312,1.7117497886728656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1157,7 +1157,7 @@ Poverty wants some things, luxury many
 hings. avarice all things.  
 A lie stands on one leg, truth on two
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769605:1895042401:0764/pct:6.117696867061812,47.548605240912934,13.97121083827265,1.8174133558748944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769605:1895042401:0764/pct:6.12298899237934,47.5556494787264,13.981795088907706,1.8315018315018314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1188,7 +1188,7 @@ of words and his drop of reason.&quot;
 &quot;Sal laughs at everything you syy.  
 Why? Because she has fine t^eth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1895122801:0036/pct:45.549813379270745,85.0097129289877,12.4031007751938,3.334772285775955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1895122801:0036/pct:45.55459852617475,85.0097129289877,12.407885922097808,3.3455644290956186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1332,7 +1332,7 @@ of words and his drop of reason.
 Sal. laughs at everything you say,  
 Why? Because she has fine teeth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:0041615675A:1896072301:0372/pct:56.44578313253012,84.51598277034687,16.822289156626507,15.143958286102924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:0041615675A:1896072301:0372/pct:42.340713962946225,63.386987077760146,12.622382888989305,11.357968714577193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1509,7 +1509,7 @@ To be humble to superiors is duty, to
 equals courtesy, to inferiors nobleness.  
 It Ala&amp;es Cold Feet War
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065832:00415624839:1897123101:0291/pct:73.14723805779438,89.60843373493977,16.060546491055632,2.0536692223439212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065832:00415624839:1897123101:0291/pct:73.15215254570474,89.61870208105148,16.070375466876353,2.0536692223439212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1553,7 +1553,7 @@ their tongue a truth doth slip it would
 be news indeed. Remember a lie  
 stands on one leg, the truth on two.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063545:00332899831:1898012801:0900/pct:26.575136355087455,41.005535055350556,17.86721835621591,21.379151291512915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063545:00332899831:1898012801:0900/pct:26.589242053789732,41.008417896678964,17.862516456648486,21.38203413284133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1734,7 +1734,7 @@ sun and thrives ill under clouds.?
 Aleott.  
 Whatever makes men good Christian
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aqua_ver01:data:sn83045830:00175031613:1898120401:0917/pct:71.70307443365695,32.5591985428051,14.199029126213592,4.083181542197936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aqua_ver01:data:sn83045830:00175031613:1898120401:0917/pct:71.70307443365695,32.569317951831614,14.225997842502696,4.083181542197936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1752,7 +1752,7 @@ j please.
 field well till’d and a little wife  
 well will’d are great riches
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1898121601:0867/pct:38.76491956408926,44.80270228773223,15.775817332641411,3.2243205895900506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1898121601:0867/pct:38.7735685867497,44.80270228773223,15.775817332641411,3.2396744971595273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1808,7 +1808,7 @@ A man is never so ridiculous by those
 qualities that are his own, as by those  
 that he affeots to have. —Poor Richard&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028794:1898122201:0214/pct:71.64018892228424,61.87931034482759,12.301416917131816,2.1724137931034484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028794:1898122201:0214/pct:71.64018892228424,61.87931034482759,12.308573064262202,2.1954022988505746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1965,7 +1965,7 @@ The poor man must walk to get
 meat for his stomach, the rich man to  
 get a stomach to his meat.—Poo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028794:1899010901:0235/pct:72.06859592711683,83.31904680267444,12.047159699892818,4.131664666552375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028794:1899010901:0235/pct:72.0757413361915,83.31904680267444,12.054305108967489,4.154523115606606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2010,7 +2010,7 @@ sun and thrives ill under clouds.
 Alcott.  
 Whatever makes men good Christian
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86081895:00280776932:1899011201:0025/pct:129.75871313672923,131.95505617977528,56.30026809651474,30.861423220973784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86081895:00280776932:1899011201:0025/pct:32.44692737430167,32.98876404494382,14.078212290502794,7.715355805243446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2028,7 +2028,7 @@ fools I have seen ten times ten of un­
 learned wise men. I have seen a hun­  
 dred.&#x27; Yet Franklin was far from show
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472360:1899011301:0245/pct:75.68879559170821,91.74161896974653,11.138808711624245,1.6353229762878168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472360:1899011301:0245/pct:71.90992563047904,87.16056575072014,10.590385973659064,1.5503123280577402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2087,7 +2087,7 @@ A man is never so ridiculous by
 those qualities that are his own, as  
 by those that he affects to have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192257:1899011801:0017/pct:51.063484331872054,83.00928612884503,11.93375547978568,3.221125943122461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192257:1899011801:0017/pct:51.071602532878714,83.00928612884503,11.929696379282351,3.235635519442832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2106,7 +2106,7 @@ duty, to equals courtesy, to infer­
 iors, nobleness.  
 Three may keep a secret, if tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192257:1899011801:0020/pct:38.170909680557806,86.37480132928768,11.950705367277445,3.6844386649328134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192257:1899011801:0020/pct:38.17496351548565,86.37841352405722,11.950705367277445,3.691663054471897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2186,7 +2186,7 @@ To be humble to superiors is duty,
 to equals courtesy, to inferiors noble­  
 ness. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_beaver_ver01:data:sn86063590:00280773530:1899012001:0744/pct:13.157894736842104,93.39181286549707,38.49818511796733,36.578947368421055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_beaver_ver01:data:sn86063590:00280773530:1899012001:0744/pct:9.87066031313819,70.04385964912281,28.885863399137737,27.441520467836256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2213,7 +2213,7 @@ A man is qever so ridiculous by
 those qualities that are his own, as by  
 those that he affects to hav&#x27;e.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_harris_ver01:data:sn90063040:00332897020:1899020301:0125/pct:80.08307372793354,95.03068402933692,13.91484942886812,1.4369106421194433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_harris_ver01:data:sn90063040:00332897020:1899020301:0125/pct:80.06644518272425,95.0164621370847,13.917151162790697,1.440436994911703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2231,7 +2231,7 @@ There is small revenge in words, but
 words may be greatly, revenged—  
 Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768844:1899021901:0434/pct:43.97692568713946,93.68434062538623,12.453342382083475,2.064021752564578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768844:1899021901:0434/pct:43.98540889039701,93.68743047830924,12.4660671869698,2.0732913113335805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2250,7 +2250,7 @@ of unlearned wise men, I have seen a
 hundred.&#x27; Yet Franklin was far from  
 showing the usual contempt of the self
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:0020029032A:1899030201:0714/pct:19.929660023446658,84.295542925516,15.263774912075029,2.7071492671253363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:0020029032A:1899030201:0714/pct:19.941383352872215,84.2992820819623,15.25791324736225,2.7183667364642536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2271,7 +2271,7 @@ Dont marry au artist you cant
   
 expect huu to be a model husban
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533225:1899031401:0177/pct:66.63967611336032,23.572367460201548,19.493927125506072,8.689937198773185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533225:1899031401:0177/pct:50.010127607859026,17.686578063385426,14.644520964148269,6.513801664962758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2305,7 +2305,7 @@ claimed that “of learned fools I have
 seen tea times ten; of unlearned wise  
 men I have seen a hundred.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063546:00332899831:1899051801:1557/pct:71.15287799966437,82.67676119594508,12.804161772109415,1.6168356217117927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063546:00332899831:1899051801:1557/pct:71.1570733344521,82.67676119594508,12.825138446047994,1.6200436288977287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2322,7 +2322,7 @@ A little house well till&#x27;d, a little field
 well till&#x27;d, and a little wife well will&#x27;d,  
 are great riches
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:0041562573A:1899051901:0085/pct:60.982658959537574,91.14256363428832,10.50578034682081,1.655062207510558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:0041562573A:1899051901:0085/pct:60.98747591522158,91.15017311570216,10.515414258188825,1.655062207510558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2340,7 +2340,7 @@ A little house well fill&#x27;d, a little field
 well tilled, and a little wife well will’d,  
 arc great riches.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:0041562573A:1899052601:0089/pct:82.96041308089501,68.64242562407387,10.499139414802066,2.325316311410008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:0041562573A:1899052601:0089/pct:82.96519410977243,68.64242562407387,10.50392044367948,2.3329153843231127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2357,7 +2357,7 @@ claimed that &quot;of learned fools I have
 seen ten times ten ; of unlearned wise  
 men I have seen a hundred.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879361:1899053001:0171/pct:44.030285381479324,89.00414937759336,19.801980198019802,2.271784232365145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879361:1899053001:0171/pct:33.032333236236525,66.75311203319502,14.870375764637343,1.7116182572614107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2391,7 +2391,7 @@ claimed that ‘of learned fools I have
 seen ten times ten; of unlearned wise  
 men I have seen a hundred.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063546:00332899855:1899062901:0027/pct:74.88379814077025,62.9307032150634,12.815405046480743,1.5755091584475471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063546:00332899855:1899062901:0027/pct:74.89624833997344,62.937107723837585,12.823705179282868,1.5851159216088127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2408,7 +2408,7 @@ claimed that &quot;of learned fools I have
 seen ten times ten; of unlearned wise  
 men I have seen a hundred.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_gmc_ver02:data:sn86064199:00212477503:1899072201:0141/pct:68.81838074398249,109.87362866268573,19.01896425966448,2.124704902096931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_gmc_ver02:data:sn86064199:00212477503:1899072201:0141/pct:51.632318074047056,82.40522149701431,14.262265183293817,1.5970004166088043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2433,7 +2433,7 @@ if pride leads the van, beggary brings
 up the rear.  
 Cheerfulness is contagious
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jonesport_ver02:data:sn83016025:00414210740:1899080501:0482/pct:16.24868282402529,86.34405038117335,12.56059009483667,4.872389791183295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jonesport_ver02:data:sn83016025:00414210740:1899080501:0482/pct:16.24525916561315,86.32974316487159,12.563211125158027,4.8757249378624685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2468,7 +2468,7 @@ Are you angry that others disap­
 point you Remember that you  
 cannot depend upon yoursel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533225:1899081801:0550/pct:88.91050583657588,18.526011560693643,18.715953307392997,2.8757225433526012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533225:1899081801:0550/pct:66.70558474411364,13.901734104046243,14.049425958357658,2.153179190751445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2529,7 +2529,7 @@ in debate. It was Poor Richard who re­
 marked, “Here comes the orator, with  
 his flood of words, and his drop of rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_doxy_ver01:data:sn85040437:00414214642:1899101801:0039/pct:35.59484649122807,52.50921462999717,14.172149122807017,3.5535393630091674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_doxy_ver01:data:sn85040437:00414214642:1899101801:0039/pct:35.59484649122807,52.50921462999717,14.181286549707602,3.556689663862899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2548,7 +2548,7 @@ who remarked, &quot;Here comes the orator.
 with his flood of words and his drop ot .  
 reason,&quot; and during his whole life 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192683:1899101901:0671/pct:42.23021582733813,116.52279266999848,16.924460431654676,1.8779342723004695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192683:1899101901:0671/pct:31.689760662227823,87.39966681811298,12.704696778837501,1.408450704225352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2567,7 +2567,7 @@ upon yourself. ,
 A He stands on one leg, truth on  
 two
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069313:00206533158:1899102001:0829/pct:113.2409545804465,73.35959993938475,14.68437259430331,3.7884527958781633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069313:00206533158:1899102001:0829/pct:84.97978047371461,55.02348840733445,11.034084344309647,2.8489165025003786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2585,7 +2585,7 @@ Necessity never made a good bargain.
 If pride leads the van beggary  
 brings up the rear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069313:00206533158:1899102001:0829/pct:113.20246343341032,82.96711622973177,14.588144726712857,4.015759963630853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069313:00206533158:1899102001:0829/pct:84.95570960908915,62.23291407789059,10.957057577508184,3.0042430671313833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2611,7 +2611,7 @@ brings up the rear
 &quot;Here comes the orator, with his flood of  
 words and his drop of reason,&quot; and du
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038153:00415665830:1899111401:0485/pct:80.97087378640776,76.98181313341664,13.78640776699029,1.1245314452311537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038153:00415665830:1899111401:0485/pct:60.73798349247451,57.739830626128004,10.341479203754654,0.8468693599888936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2652,7 +2652,7 @@ not depend upon yourself.
 A lie stands on one leg, truth on  
 two
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bacall_ver02:data:sn85059809:0051415823A:1899121101:0599/pct:51.77683667832812,53.8122088747242,14.730252255569876,15.420446187791125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bacall_ver02:data:sn85059809:0051415823A:1899121101:0599/pct:51.767304860088366,53.80561343301875,14.732142857142858,15.421620296604976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2672,7 +2672,7 @@ If pride leads the van, beggary
 brings up the rear.  
 Cheerfulness is contagious
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bacall_ver02:data:sn85059809:0051415823A:1899121101:0599/pct:51.86890075492543,72.88551115469478,14.472472841097403,3.0154449620004904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bacall_ver02:data:sn85059809:0051415823A:1899121101:0599/pct:51.859351988217966,72.87657801201128,14.47441089837997,3.018139477877191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2688,7 +2688,7 @@ Cheerfulness is contagious
 &quot;Here comes the orator, with his flood of  
 words and his drop of reason,&quot; and dur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038153:00415665830:1899122601:0531/pct:94.14928292046936,75.73325954620918,13.820078226857888,1.1068068622025458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038153:00415665830:1899122601:0531/pct:70.62754686226569,56.80686220254566,10.36674816625917,0.8301051466519093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

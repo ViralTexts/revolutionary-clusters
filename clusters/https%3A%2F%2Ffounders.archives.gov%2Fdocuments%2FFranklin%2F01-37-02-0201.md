@@ -437,7 +437,7 @@ _+¢ 2 bill to enable his Majesty to conclude a
 peace or truce with the revolted colenies in  
 North- America,” = . et 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782061501:0164/pct:40.42483660130719,52.248704663212436,26.91176470588235,2.994818652849741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782061501:0164/pct:40.42483660130719,52.255613126079446,26.917211328976034,2.998272884283247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ court; but he disappointed their project by visit­
 ing none of them. ~His views on these points are  
 so happily illustrated in the following extrac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828050601:0487/pct:44.865113427345186,74.71781040855059,16.30901287553648,4.3452202577165115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828050601:0487/pct:44.875332107091765,74.72114007924617,16.319231555283057,4.3552092698032165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,7 +693,7 @@ visits reecived. and [ would burn their card.””
   
 Mr. Beex—The following article, from a Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828050601:0487/pct:44.773145309625995,6.922385376086305,33.43041079092581,83.88772350414544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828050601:0487/pct:44.77825464949928,6.922385376086305,33.4355201307991,83.891053174841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1832,7 +1832,7 @@ ball at their feet, and we hope they will
 show their moderation and magnanim­  
 ity.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0639/pct:19.028050741468643,66.63266607165626,12.917634447025192,4.245824301925284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0639/pct:19.024651661307608,66.62417134115248,12.919792783136835,4.248470168281489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1861,7 +1861,7 @@ ed with its commerce and general
 cumstances, and would therefor have  
 more weight than Mr. Grenville.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0639/pct:86.86796498123995,29.593267882187938,12.006432017152045,7.293127629733521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0639/pct:86.85244730260807,29.58949515553289,12.00875312611647,7.295385007649158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1886,7 +1886,7 @@ I r jn the same situation that she
 ...&#x27; left in by the peace of 17G3.”  
 i pw .l&#x27;i also said to Franklin, “tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0640/pct:1.471379867216939,15.040650406504065,12.47084155750942,5.652947154471545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0640/pct:1.4711158952278436,15.038739997459672,12.473089343379979,5.6554045471865875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1927,7 +1927,7 @@ the least eneoirragement from France,
 and defied the world to give the small­  
 est ;&gt; oof to the contrary.” Gran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0640/pct:1.256055984209582,28.772865853658537,12.668221783599497,13.084349593495935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0640/pct:1.2558306422676713,28.769211228248444,12.67043415859347,13.085863076336848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -3897,7 +3897,7 @@ BiBLIS does solitude admire—
 - Then, tired with kneeling, just at live,  
 She lighs, and lets that Spai k go out
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795052501:0002/pct:43.47251585623679,48.6229344016024,17.67970401691332,6.0590886329494245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795052501:0002/pct:43.479122621564485,48.635453179769655,17.699524312896404,6.054915706893674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4049,7 +4049,7 @@ And one, with all his wealth, 1s poor. :
 &quot; Mans&#x27; erring judgment and misguide therair.d,  
 1 «&#x27; In search of thee, the wretched worldling goes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796080801:0004/pct:29.652996845425868,66.06080634500991,18.82229232386961,1.718440185062789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796080801:0004/pct:29.652996845425868,66.06080634500991,18.84858044164038,1.718440185062789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4066,7 +4066,7 @@ And one, with all his wealth, 1s poor. :
 &quot; Mans* erring judgment and misguide the mind,  
 tl In search of thee, the wretched worldling goes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796081701:0004/pct:30.20504731861199,73.16589557171183,17.034700315457414,1.6192994051553204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796081701:0004/pct:30.21161934805468,73.16589557171183,17.047844374342798,1.6399537343027097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5538,7 +5538,7 @@ t bus ualamcnted let me die;
 teal from the world and not d jt©;,*  
 Tell yvhero I lie,&#x27;*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826011001:0014/pct:60.60944479897894,81.88582722939194,16.671984684109763,10.731310312754331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826011001:0014/pct:60.599776678896156,81.87630783538712,16.674642420375392,10.733937843912269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5819,7 +5819,7 @@ Thus let me live, unseen, unknown, |
 Steal from the world, and not a stone ;  
 ‘ Tell where I lie.”? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1833051601:0665/pct:37.58059043094673,58.430051166853865,15.422463522225993,7.288156745288905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1833051601:0665/pct:37.59190136862346,58.430051166853865,15.422463522225993,7.292316652106993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6522,7 +6522,7 @@ Man&#x27;s erring judgment, and misguide the mind,
 What the weck head with strongest bias rules,  
 Is pride the never failing vice of fools.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849021601:0232/pct:146.6549295774648,234.28991905813098,58.5387323943662,7.770419426048565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849021601:0232/pct:36.6637323943662,58.572479764532744,14.63468309859155,1.9426048565121412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6539,7 +6539,7 @@ Tart words make no friends---a spoon­
 &#x27;ful of honey will catch more flies than a  
 gallon of vinegar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:18.323863636363637,101.58409525834574,37.57747933884298,6.984903253242611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:6.107954545454546,33.86136508611524,12.525826446280991,2.328301084414204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6575,7 +6575,7 @@ defensine virtue, Abstinence.
 Tart words make no friends; a spoonful of hon­  
 ey will catch more flies than a gallon of vine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849030301:0502/pct:261.3830613830614,231.15063325249258,54.39005439005439,6.251684182161142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849030301:0502/pct:65.37116206762533,57.787658313123146,13.60279828993393,1.5629210455402855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6592,7 +6592,7 @@ Tart words make no friends; a spoonful
 of honey will catch more flies than a gallon  
 of vinegar.ten tod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:172.34195402298852,132.09720466357635,50.14367816091954,8.76527602191319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:43.10097017606899,33.02430116589409,12.540424002874596,2.1913190054782974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6626,7 +6626,7 @@ ence.
 Tart words make no friends; a spoonful of honey  
 will catch more flies than a gallon of vinegar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:210.4871699516549,241.4582450190759,59.59464484938639,6.005369506853186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:52.61200966722439,60.3560327776208,14.89589142963376,1.5011302627860978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6643,7 +6643,7 @@ Tart words make no friends; a spoonful of
 honey will catch more flies than a gallon of  
 vinegar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:3.045436741088915,23.286226534486396,13.092440266353309,1.8209941643816354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:3.045138548908254,23.28458942632171,13.094422141714809,1.82320959880015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6696,7 +6696,7 @@ The worst wheel of a cart makes the most noise.
 Tart words make no friends; a spoonful of honey  
 will catch more flies than a gallon of vinegar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849041801:0148/pct:261.792863359443,219.32132383745287,57.48476936466493,7.574361122748219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849041801:0148/pct:65.44821583986075,54.830330959363216,14.371192341166232,1.8935902806870548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6727,7 +6727,7 @@ Tart words make no friends ; a spoonful of
 ! honey will catch more flics than a gallon of vine­  
 |gar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1849051201:0302/pct:60.93979441997063,58.353127474267616,15.483765704030022,10.556875164951174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1849051201:0302/pct:60.945233045086205,58.353127474267616,15.494642954261163,10.556875164951174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6754,7 +6754,7 @@ Tart words make no friends; a spoonful
 of honey will catch more flies than a gallon  
 of&#x27; vinegar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849053001:0309/pct:34.02140672782875,24.572649572649574,15.428134556574923,2.767094017094017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849053001:0309/pct:34.02650356778797,24.572649572649574,15.428134556574923,2.7742165242165244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6772,7 +6772,7 @@ Tart words make no friends; a spoonful
 of honey will catch more flies than a gal­  
 lon of vinegar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1849053101:0032/pct:30.322966507177032,54.99655410062026,19.57236842105263,3.2276590856880314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1849053101:0032/pct:22.75243081525804,41.2474155754652,14.68960359012715,2.4236158970824717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6869,7 +6869,7 @@ noise.
 honey will catch more dies limn a gallon of vm  
 &#x27; egar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1849061601:0404/pct:101.8677213799165,64.96361910787725,18.91891891891892,2.3568490983865864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1849061601:0404/pct:78.95214849293296,50.347335730630924,14.667650564795368,1.8347499182739457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6931,7 +6931,7 @@ Tart words make no friends; a spoonful
 of honey will catch more flies than a gallon  
 of vinegar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529194:1849080201:0407/pct:107.65937929980126,274.1665737540417,43.127962085308056,5.764299252982496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529194:1849080201:0407/pct:35.88645976660042,91.3888579180139,14.375987361769353,1.9214330843274985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6953,7 +6953,7 @@ Here beggar pride defrands her daily cheer,
 To boast one splendid banquet once a year.&quot;  
 A fearful mistake exists in some minds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849080301:0317/pct:12.67123287671233,233.08855291576674,57.79109589041096,17.393808495320375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849080301:0317/pct:3.1678082191780823,58.272138228941685,14.44777397260274,4.348452123830094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6972,7 +6972,7 @@ Man&#x27;s erring judgment, and mislead the mind,
 What the weak head with strongest bias rules,  
 Is Pride?that never-fading vice of fools.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849080801:0349/pct:66.70727992689613,10.709677419354838,14.681693572951568,2.913978494623656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849080801:0349/pct:66.70727992689613,10.716845878136201,14.691846888008936,2.910394265232975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7004,7 +7004,7 @@ that he didn&#x27;t wollop Lis horses fur it !
 Tart words make no friends ; a spoonful of honey  
 will catch more fl;es thaa a gallon of vinegar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191617:1849082301:0069/pct:7.729658792650919,8.254230293025175,18.871391076115486,12.917870408584399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191617:1849082301:0069/pct:5.8028095050544835,6.190672719768881,14.165682027044769,9.69872059430458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7121,7 +7121,7 @@ Without %ood breeding truth is disapproved,
 That only makes superior sense approved.&quot;  
 Mr. President, I beg the Senate to recollect that the scene no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850083101:0334/pct:37.0522848909016,7.5397667020148464,15.163990668313435,3.3085896076352066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850083101:0334/pct:37.0522848909016,7.546836337928597,15.168565024472805,3.312124425592082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7232,7 +7232,7 @@ The Erie Railroad brought to New York city,
 Tart words tnake no friends ; a spoonful of honey  
 will catch more flies than a gallon of vinegar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172170:1851051001:0388/pct:79.3020719738277,11.101334506525884,22.399127589967286,6.437894119372342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172170:1851051001:0388/pct:61.466080685147624,8.607364752235187,17.37660581473969,4.996969237763297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7280,7 +7280,7 @@ The deepest age but sups then goes bed ;
 He&#x27;s more in debt that lingers out the day  
 He who dies soon hath less and less to pay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1851071701:0284/pct:12.730823863636363,70.99861478403224,14.719460227272727,4.15564790328674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1851071701:0284/pct:9.554253240987391,53.25525752424128,11.045995382702895,3.1230323636821558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7351,7 +7351,7 @@ ciency of talent.
 “Whatever nature has in worth denied,  
 She gives in large recruits of needful pride.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1851100801:0150/pct:78.00616649537513,71.30481862479697,13.44883277051828,1.7541959935029778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1851100801:0150/pct:78.01106053932364,71.31203753835048,13.458620858415308,1.761414907056488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7368,7 +7368,7 @@ of talent.
 u Whatever nature has in worth denied,  
 She gives in large recruits of needful pride.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851111901:0217/pct:2.381631488876212,44.134389998883805,11.394751853964632,1.8528853666703873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851111901:0217/pct:2.381631488876212,44.13811065223053,11.409013120365088,1.856606020017115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7421,7 +7421,7 @@ noise.
 Tarts-words makes no friends; a spoonful of  
 honey will catch more flies than a gallon of vinegar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852080301:0073/pct:38.04543815362423,65.43498596819457,19.635773530472413,2.747895229186155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852080301:0073/pct:38.04543815362423,65.43888369192392,19.65380454381536,2.7556906766448392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7632,7 +7632,7 @@ Man&#x27;s erring judgment, and niiguide the mind.
 What the weak head with strongest bias rules,  
 Li pride, the Leverfiniling vice of fools
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194928:1857120401:0401/pct:7.875667429443173,122.96397008837525,16.704805491990847,2.705642420122366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194928:1857120401:0401/pct:5.9137733689431515,92.22297756628144,12.533384204502099,2.0394289598912305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7706,7 +7706,7 @@ Thus, unlamented, let me die
 Steal from the world:--And not a stone  
 Tell when I lie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293265:1858072801:0093/pct:16.253968253968253,207.33727810650888,42.73015873015873,8.804733727810651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293265:1858072801:0093/pct:4.065427981578529,51.83431952662722,10.687629029696682,2.201183431952663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7790,7 +7790,7 @@ The deepest age but sups and goes to bed ;
 lie s most in debt that lingers out the day ;  
 \\ ho dies betimes has less and less to pay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn92068455:00279556707:1859120801:0061/pct:80.08481487522427,18.57333630091253,13.50513782417224,3.817048742488315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn92068455:00279556707:1859120801:0061/pct:80.09025172620018,18.577045774909116,13.510574675148154,3.817048742488315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7820,7 +7820,7 @@ Mr. J. H. Oberly responded:
 e Prieters -The lens throuth which the rays of I­  
 telligence are refracted and directed to the disciple
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860011801:0036/pct:197.7460142935679,164.13747666630064,34.304562946674,19.501482376194136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860011801:0036/pct:49.436503573391974,41.03436916657516,8.5761407366685,4.875370594048534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7868,7 +7868,7 @@ Thus unlamented let me die;
 Steal thorn the world, and net a stone  
 Tell where I die.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1860020201:0502/pct:4.489451476793249,75.44948088123576,11.966244725738397,20.017726006583946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1860020201:0502/pct:4.488693891326358,75.43992910495,11.968444144448194,20.018356754019496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7889,7 +7889,7 @@ His father&#x27;s blessing from an eldest son;
 Abusive Nahal owed his forfeit life  
 To the wise conduct of a prudent wife
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn84020048:00295878034:1860022201:0175/pct:212.7172195892575,143.3994095318431,47.70932069510268,12.315478700970054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn84020048:00295878034:1860022201:0175/pct:53.189808413983805,35.849852382960776,11.929685956942524,3.0788696752425135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7913,7 +7913,7 @@ Tart words make no friends; a spoon­
 ful of honey will catch more flies than  
 a gallon of vinegar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1860030801:0652/pct:7.105987611837578,82.59523489029479,16.22505161734343,7.107282272176605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1860030801:0652/pct:5.335628227194492,61.94642616772109,12.185886402753873,5.330461704132454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7933,7 +7933,7 @@ Tart words make no friends; a spoonful of
 honey will catch more flies than a gallon of  
 vinegar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1860041401:0663/pct:68.98667601683029,77.6221928665786,12.41234221598878,2.787318361955086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1860041401:0663/pct:68.99544179523141,77.6221928665786,12.403576437587658,2.7906208718626155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7960,7 +7960,7 @@ Tart words make no friends.
 A spoonful of honey will catch more flics  
 than a gallon of vinegar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1860042601:0394/pct:17.974882260596548,76.47662485746865,14.740973312401884,7.3774230330672745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028642:1860042601:0394/pct:17.974882260596548,76.47662485746865,14.756671899529042,7.381223869251235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7984,7 +7984,7 @@ Tart words make no friends ; a spoon­
 ful of honey will catch more flits than a  
 gallon of vinegar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861081501:0533/pct:49.11732254505333,61.73505608405509,10.867966164030893,5.154053670310947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861081501:0533/pct:49.11732254505333,61.73505608405509,10.886355277675616,5.168252165270482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8003,7 +8003,7 @@ Tart words make no friends; a spoonful
 of honey will catch more flies than a gallon  
 of vinegar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1862012401:0528/pct:11.64108187134503,56.27113866967306,16.11842105263158,3.3399098083427283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1862012401:0528/pct:8.740171877857012,42.206877113866966,12.104589504479796,2.508455467869222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8061,7 +8061,7 @@ ful of honey will catch more flies than
 a gallon of vinegar.  
 &#x27; ia. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0023728690A:1862022701:0040/pct:6.859018659295093,71.25632049786076,16.361437456807188,6.08064307014132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0023728690A:1862022701:0040/pct:5.150362945039751,53.44224037339556,12.270998963014172,4.563723583560223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8103,7 +8103,7 @@ Tart words make no friends ; a spoon­
 ful of honey will catch more flies than a  
 gallon of vinegar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1862100101:0285/pct:7.972027972027972,22.854313380281692,14.436674436674437,6.283010563380282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1862100101:0285/pct:7.977207977207978,22.854313380281692,14.436674436674437,6.290346244131455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8135,7 +8135,7 @@ Tart words make no friends; a spoonful
 of honey will catch more flies than a gal-  
 lon of vinegar,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022799:no_reel:1863010301:0203/pct:220.05080171455788,353.36215177713734,47.26147007461502,14.589337175792506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022799:no_reel:1863010301:0203/pct:55.01270042863947,88.34053794428434,11.815367518653755,3.6473342939481266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8159,7 +8159,7 @@ Night is far off: and hotter hours approach.&quot;
 But leaving the lazy poet of the ••Seasons,” nnd  
 coming to sober prose, ;«o give it as our decide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174336:1863081401:0173/pct:20.05514705882353,39.62554501154142,15.036764705882353,4.065144908951013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174336:1863081401:0173/pct:20.051461128469033,39.62046416207206,15.038595846351773,4.067829208872933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8234,7 +8234,7 @@ tried. Trial is the touchstone of the character.
 Tart words make no friends; a spoonful of  
 honey will catch more flies than a galion of vin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1864032301:0126/pct:286.48325358851673,235.9561510353228,87.26076555023923,44.33617539585871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1864032301:0126/pct:71.62081339712918,58.9890377588307,21.815191387559807,11.084043848964678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8252,7 +8252,7 @@ Man&#x27;s erring judgment and misguided mind,
 What the weak head with strongest bias rules  
 Is pride; the never-failing vice of fools
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1864042301:1130/pct:173.082489146165,23.159452460229375,36.589483839845634,6.122826489086201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1864042301:1130/pct:57.69416304872166,7.719817486743125,12.196494613281878,2.0409421630287334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8340,7 +8340,7 @@ Whose flecks supply him with attire,
 Whose trees in summer yield him shade,  
 In winter, fire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171694:1866100501:0984/pct:41.45569620253165,70.90018577942915,16.184448462929474,4.593818611720993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171694:1866100501:0984/pct:32.14014598540146,54.95200698080279,12.54890510948905,3.5645724258289704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8508,7 +8508,7 @@ Tart words make no friends; a spoonful
 of honey will catch more flies than a gallon  
 of vinogar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1870033101:0226/pct:4.037212568018255,44.06913840876105,12.445146568369317,2.0187359810001317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1870033101:0226/pct:4.036504036504036,44.06332453825858,12.447349947349947,2.021767810026385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8696,7 +8696,7 @@ Thus unlamented, let me die
 Steal from the world, and not a stone  
 Tell where I lie.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025567:00212472207:1874052701:0333/pct:76.48406184386333,25.40527162479891,15.480053445313992,2.5986882811533225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025567:00212472207:1874052701:0333/pct:76.49678691862314,25.409396526832488,15.473690907934085,2.6028131831868992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8716,7 +8716,7 @@ And not commit those sins thou hast bewatl&#x27;d.
 He that bewails and not forsakes them too,  
 Confesses rather what he means to do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1874072401:0548/pct:35.21897810218978,65.08982035928143,16.017842660178427,2.694610778443114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1874072401:0548/pct:26.424660312309875,48.81736526946108,12.02595822348408,2.0209580838323356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8798,7 +8798,7 @@ What ever nature lias in worth deuied,
 She give* iu large recruits of needless  
 pride
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767808:1876060301:0091/pct:70.06745362563238,12.008647798742139,13.336143901068017,4.3828616352201255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767808:1876060301:0091/pct:70.06745362563238,12.015199161425576,13.336143901068017,4.3828616352201255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8869,7 +8869,7 @@ Whose flocks supply him with attire;
 Whose trees in summer yield him shade,  
 In winter, fire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742137:1877101101:0360/pct:90.38668098818475,62.915531335149865,40.453813104189045,9.037238873751136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742137:1877101101:0360/pct:30.12889366272825,20.97184377838329,13.484604368063014,3.012412957917045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8900,7 +8900,7 @@ Thus unlamented let me die;
 Steal from the world, and not a Btons  
 Tell where I Ue 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775034:1878092601:0636/pct:83.25369244135534,104.75746268656717,18.092962641181582,12.286780383795309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775034:1878092601:0636/pct:62.47283789656671,78.57142857142857,13.581051716644938,9.221748400852878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8959,7 +8959,7 @@ The deepest age hut sups and foes to bed,
 He is most in debt, that lingers out the day,  
 Who dies betimes, has less and lew to pay.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1880020601:0446/pct:36.29943502824859,75.91036414565826,13.312146892655367,4.257703081232493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1880020601:0446/pct:28.14139110604333,58.83353232750823,10.321550741163056,3.3033033033033035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8993,7 +8993,7 @@ Thus uni amen tod let me die.
 steal from the world, and not a stone  
 Tell where I lie. _
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895989:1880081001:0136/pct:83.11326018225776,19.652847511117486,11.158638646085178,8.865299096255917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895989:1880081001:0136/pct:83.09780587579026,19.650028686173265,11.161212346597248,8.867613310384394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9030,7 +9030,7 @@ Steal from tbe worldand not a stone &#x27;
 ( Tell where I lie.  
 The pardon.. .&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1881071601:0114/pct:32.82703037817731,45.22994129158513,13.360198388096714,10.579745596868884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1881071601:0114/pct:24.63947898899054,33.92857142857143,10.032563188091176,7.937866927592955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9106,7 +9106,7 @@ His fathers blessing from an elder eon
 Abusive Nabal owed his forfeit life  
 To the wise conduct of a prudent wif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:00206535878:1881120901:0547/pct:64.54238329238329,11.9781631342325,40.77088452088452,130.3361164632841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:00206535878:1881120901:0547/pct:43.03486407617878,7.985442089488332,27.184764245123638,86.89431242417756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9142,7 +9142,7 @@ Thus tin lamented lot mo dlo;
 Steal from the world and not a stone  
 Toll where J lie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025001:00237284707:1881121001:0280/pct:16.445916114790286,6.180501680889578,26.545253863134658,22.148952676493405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025001:00237284707:1881121001:0280/pct:12.350450947910915,4.641841220584432,19.915332228971103,16.61494698732868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9185,7 +9185,7 @@ In winter, fire.
 given,  
 A wife is the peculiar gift of heaven.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1882012601:0219/pct:43.090229998034204,94.59269662921348,12.227245920975035,1.4887640449438202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1882012601:0219/pct:43.081761006289305,94.5794130037916,12.229756289308176,1.4920657211065862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9286,7 +9286,7 @@ The deepest ace but aupA and goes to bed;
 He&#x27;s mo«a in aebt that llnjjer* oat th* day;  
 Who dies betimes has mm and leu to pay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:0038334167A:1883011201:0048/pct:14.672750606017397,91.03855152069983,11.450163981177813,3.844980164784864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:0038334167A:1883011201:0048/pct:14.67065868263473,91.02929210740439,11.453283908373729,3.8479793870355303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9378,7 +9378,7 @@ Ahxander Tope.
   
 S u Fiusctsco, January 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn96086912:00296020990:1883020301:0345/pct:19.448640483383684,9.136924075275795,29.040785498489427,77.67683322517846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn96086912:00296020990:1883020301:0345/pct:14.598677998111427,6.852693056456846,21.775259678942398,58.26086956521739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9620,7 +9620,7 @@ For as in bodies, thus in souls we find
 What wxu;ts in blood and spirits swell’d with  
 wind: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1885041101:0024/pct:7.03930412371134,31.16914520614194,20.457474226804123,4.957078950550115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1885041101:0024/pct:7.05004295532646,31.16914520614194,20.446735395189002,4.969169387014872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9649,7 +9649,7 @@ soreness, nothing approaches them in valne.
 All other goods by Fortune&#x27;s hand are given.  
 A wife is the peculiar gift of Heaven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896465:1885050701:0079/pct:85.44271279328652,59.41916245300143,11.132043158075012,7.571632309088552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896465:1885050701:0079/pct:85.42808219178082,59.41145968369199,11.134417808219178,7.573891625615763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9678,7 +9678,7 @@ soreness, nothing approaches them in value.
 All other goods by Fortune&#x27;s hand are given.  
 A wife is the peculiar gift of Heaven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1885051501:0574/pct:142.12389380530973,276.7932489451477,57.78761061946903,33.755274261603375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1885051501:0574/pct:35.55457161833075,69.19831223628692,14.456497675448306,8.438818565400844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9695,7 +9695,7 @@ A wife is the peculiar gift of Heaven
 All other goodsby Fortune&#x27;s hand are given,  
 A wife is the peculiar gift of Heaven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885051601:0411/pct:89.17548025037773,61.88322023959119,7.813511763436218,0.6701851386445505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885051601:0411/pct:89.17548025037773,61.88601267766887,7.817109144542773,0.6757700147999218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9740,7 +9740,7 @@ Thus unlamented let me die;
 Steal from the world, and not a stone.  
 Tell where I lle.&quot; PorE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102019:1885082201:0199/pct:105.56414219474497,344.8213749624737,43.7403400309119,34.103872710897626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102019:1885082201:0199/pct:26.40634061473033,86.20534374061843,10.941426638314324,8.525968177724407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9777,7 +9777,7 @@ Steal from the world, and not a stone
 Tell where I lie. Pope.  
 SIX YEABS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537954:1885093001:0286/pct:3.0914415880247317,5.23943661971831,15.977871786527823,41.6225352112676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537954:1885093001:0286/pct:3.0914415880247317,5.23943661971831,15.9832953682612,41.63380281690141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9864,7 +9864,7 @@ Tell where I lie. —Pope.
   
 SIX YEARS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918126:1885103001:1266/pct:8.885509450358462,7.413226681902585,19.16141646752118,16.36909012998143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918126:1885103001:1266/pct:7.552628339283516,6.3094419037597635,16.31170749723009,13.9220526933506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9903,7 +9903,7 @@ Steal from the world, and not a stone
 Tell where I lie. —Pope.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_apple_ver01:data:sn2001063565:00279522746:1885103001:0851/pct:5.664868295779118,7.731958762886598,16.217073944779436,12.12856276531231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_apple_ver01:data:sn2001063565:00279522746:1885103001:0851/pct:5.6701576219189675,7.735327808099185,16.222363270919285,12.12856276531231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9976,7 +9976,7 @@ Tel) where I lie. —Pope.
   
 SIX YEABS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623355:1885110601:1075/pct:7.272387362123761,9.109962274696102,11.291830248644606,8.42531787061618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623355:1885110601:1075/pct:7.277061132922041,9.120441525778958,11.310525331837727,8.43230403800475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10021,7 +10021,7 @@ Steal from the world, and not a stone
   
 Tell where 1 lie. —Pope.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348079:1885111201:0443/pct:15.13520609083749,6.369746213261109,12.49671829876608,9.449292807703882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348079:1885111201:0443/pct:15.139581692482716,6.3764336108603334,12.501093900411307,9.455980205303106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10059,7 +10059,7 @@ Tell where I lie. Pope.
   
 SIX YEAES.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022650:00295868752:1885111301:0585/pct:31.61525974025974,6.76114555653971,18.2224025974026,16.223796870386774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022650:00295868752:1885111301:0585/pct:23.72640552060077,5.078240330676114,13.679723969961437,12.164157071154413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10092,7 +10092,7 @@ StEEfiom the world, and not u stone
 Tell where 1 lie. Pope.  
 SIX YEARS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_banana_ver02:data:sn00065129:00279522850:1885111401:0597/pct:1.9444126729955393,10.572192974885647,11.106027679286287,9.1913351169414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_banana_ver02:data:sn00065129:00279522850:1885111401:0597/pct:1.9444126729955393,10.575069762089699,11.113652827023524,9.18845832973735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10166,7 +10166,7 @@ Steal from the world, and not a stone
 Tell where I lie.  
 FAIR ROSAMOND
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958289:1885112201:0001/pct:81.1865312667023,20.058583800305655,10.921076073401034,12.047885888945492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hughes_ver01:data:sn85026214:print00205958289:1885112201:0001/pct:81.1998931052913,20.064951604686705,10.921076073401034,12.051069791136017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10351,7 +10351,7 @@ And on my throbbing temples potent thus.
 Beam not so fleree.&quot;-Thomson a &quot;Seasons.&quot;  
 It was a warm summer afternoon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lila_ver02:data:sn88064176:00211100850:1886110601:0182/pct:7.925733679377121,40.71750102305279,21.740866440407267,2.619015141181285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lila_ver02:data:sn88064176:00211100850:1886110601:0182/pct:5.291533546325879,27.145000682035192,14.496805111821086,1.7460100941208567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10449,7 +10449,7 @@ W’ho die* betimes has leas and less to pay.
 Eye hath not seen It, my gentle boy;  
 Ear hath not beard its deep song of j*y
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85035661:00513685087:1887040901:0060/pct:69.60352422907489,14.779270633397314,11.04992657856094,3.687962709075953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85035661:00513685087:1887040901:0060/pct:69.59075059643972,14.777244688142563,11.052486694806387,3.6908841672378343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10469,7 +10469,7 @@ The deepest age but sups and goes to bed ;
 He’s mo-t In debt that lingers out the day ;  
 Who dies betimes has less and less to pay.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550067:1887041301:0611/pct:8.462046204620462,6.039576104285849,12.277227722772277,3.038544499671762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550067:1887041301:0611/pct:8.462046204620462,6.039576104285849,12.286028602860286,3.0447966488480414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10514,7 +10514,7 @@ Mrs. Ilemans.
   
 One for the Cifrs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195465:1887051101:0445/pct:5.252626313156578,5.745204131824889,83.27913956978489,16.960157402852925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195465:1887051101:0445/pct:3.9399624765478425,4.308903098868667,62.4765478424015,12.729955730447614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10535,7 +10535,7 @@ Our lift* Is nothing but a &#x27;winter&#x27;s flay;
 jr lie&#x27;s most in debt that lingers out the day;  
 / Who dh s betimes has less and less to pay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065762:00332899661:1887052101:0406/pct:7.93710220891052,44.74802671523983,12.841632347435418,2.5067221788533263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065762:00332899661:1887052101:0406/pct:7.941262115728608,44.74802671523983,12.849952161071592,2.512504698297048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10563,7 +10563,7 @@ Time doth not breathe on its fadeless bloom,
 For beyond the clouds, and beyond the tomb,  
 It is there, it is there, my child
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173460:1887060301:0176/pct:20.562302445516554,9.309718437783832,13.275661287639329,6.2216167120799275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173460:1887060301:0176/pct:20.55888223552894,9.308661596094902,13.278997560434686,6.224694441291104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10616,7 +10616,7 @@ The deepest age but sups and goes to bed.
 He&#x27;s most in debt that lingers out the day;  
 Whc dies betimes has less and less to pay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745722:1887090401:0035/pct:86.5296803652968,77.94828673533739,18.664383561643834,4.109733025015767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745722:1887090401:0035/pct:64.92505353319058,58.461215051503046,14.018558172733762,3.0901828883750264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10648,7 +10648,7 @@ The deepest age but sups and goes to bed.
 He’s most in debt that lingers out the day;  
 Who dies betimes has less and less to pay J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896581:1887102201:0124/pct:41.4917662253794,15.083105929049864,8.99257345818534,3.373852642024312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896581:1887102201:0124/pct:41.48506860371267,15.08123527223118,8.995157384987893,3.3765347885402455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10670,7 +10670,7 @@ The deepest age but sups and goes to bed.
 He’s most In debt that lingers out the day;  
 Who dir* betimes has less and less to pay.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:0051415000A:1887110301:0692/pct:45.487693710118506,5.988237390839423,10.688240656335461,3.2436285867046872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:0051415000A:1887110301:0692/pct:45.487693710118506,5.997148458385315,10.688240656335461,3.2436285867046872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10715,7 +10715,7 @@ The deepest age but sups and goes to bed.
 He&#x27;s most in debt that lingers oat the day;  
 Who dies betines has less and less to pay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287009:1887112401:0372/pct:16.023391812865498,3.3011347650754947,11.79987004548408,3.1698396323736286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287009:1887112401:0372/pct:16.027723630062813,3.307386914251774,11.79987004548408,3.1729657069617683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10777,7 +10777,7 @@ fitaal from the world, and not a stone
 Tell where I lie. —Pope.   
 SIX YEARS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581192:1888010501:0875/pct:4.84690175591351,6.672781472139418,9.229429690901176,9.963311167163495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581192:1888010501:0875/pct:4.850529676389494,6.6756477872047695,9.236685531853142,9.966177482228847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10815,7 +10815,7 @@ them not;
 And things unknown, proposed, as  
 things forgot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029075:1888053101:0314/pct:66.23145400593472,119.41276389225916,13.47181008902077,2.511526328561029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029075:1888053101:0314/pct:49.69571025679085,89.5656394079107,10.10835683538667,1.8806115020626062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10853,7 +10853,7 @@ And not commit those sins thou hast bewailed.
 He that bewails and not forsakes them too.  
 Confesses rather what he means to do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00202191393:1888081901:0501/pct:67.02682563338301,60.11707146601433,16.530054644808743,2.830683208107636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00202191393:1888081901:0501/pct:50.285714285714285,45.089987768652804,12.397515527950311,2.123012406080727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10911,7 +10911,7 @@ He’smost iudebt that lingeis nut the day,
 Who dies betimes has less and less t &#x27;pay.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:0027952164A:1888120501:0253/pct:49.539286312615175,15.922839858463647,14.994136371251466,14.484647871247574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:0027952164A:1888120501:0253/pct:49.54487072094712,15.926644599170567,14.988551962919528,14.488452611954495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10934,7 +10934,7 @@ Who dies betimes has less and less to pay.
 The Cause of It All.  
 Kcconl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206539628:1888120901:0285/pct:60.16231474947071,56.326586809858185,16.00211714890614,6.44361833952912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206539628:1888120901:0285/pct:45.14648782209672,42.25182431502134,12.00141193081539,4.836155858460691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10992,7 +10992,7 @@ not.
 And things unknown proposed as things for  
 got.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023036:1889041901:0496/pct:39.35616438356164,65.2699091394976,16.54794520547945,2.234099412079102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023036:1889041901:0496/pct:29.524592409919165,48.95777659005879,12.41265926839293,1.6782469267771245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11079,7 +11079,7 @@ to blind mans erring judgment and misguide
 mind what the weak head with strongest bias  
 rules Is prejudice the vice of fools So say
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048741:1890070801:0326/pct:7.710727969348659,86.08217923772462,19.23690932311622,2.3120064095227195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048741:1890070801:0326/pct:5.1421271159374005,57.38811949181641,12.83934845097413,1.5413376063484796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11108,7 +11108,7 @@ active part in tbe outlining of govern­
 mental policy Some ot the voting wise  
 go so far as to assert that tbs study o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_golf_ver01:data:sn86064205:00206536627:1890092101:0113/pct:16.484375,41.505065123010134,51.796875,26.22286541244573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_golf_ver01:data:sn86064205:00206536627:1890092101:0113/pct:4.121898808361008,10.376266280752533,12.951748388357101,6.555716353111433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11136,7 +11136,7 @@ active part In the outlininc ot govern­
 mental polio Some ot the voting wise  
 go so far as to assert that the study o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86088529:00206536627:1890092501:0152/pct:3.495260663507109,14.512141922349862,17.338072669826225,8.855605641995057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86088529:00206536627:1890092501:0152/pct:2.627419992097985,10.891377053947942,13.018569735282497,6.645339537589065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11204,7 +11204,7 @@ And not commit those sins thou hast be­
 walrd.He that bewails and not forsakes them, too.  
 Confesses rather what he means to d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661769:1891050701:0352/pct:58.53556485355649,21.26006904487917,15.083682008368202,2.704257767548907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661769:1891050701:0352/pct:43.93971111576303,15.952243958573073,11.32509943479171,2.02819332566168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11253,7 +11253,7 @@ HERO WORSHIP.
 blind mans erring judgment, and  
 misguide the mind,&quot; there is non
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348122:1892042801:0072/pct:16.268844221105528,25.5100039231071,10.577889447236181,2.2263632797175363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348122:1892042801:0072/pct:16.268844221105528,25.516542434941808,10.586264656616416,2.2263632797175363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11301,7 +11301,7 @@ Thus unlamented let me tlie;
 Steal from the world, and not a stone  
 Tell where I lie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867092:1892090701:0350/pct:42.403661597519566,13.8544474393531,13.096116934888528,12.31266846361186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867092:1892090701:0350/pct:42.397401830528494,13.852953859422165,13.099104418856411,12.31493459824637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11388,7 +11388,7 @@ Thus unlnmented let me die
 Steal from the world , and not a stone  
 Tell where I lie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538855:1894031801:0741/pct:76.25086865879082,80.04798080767694,14.6455872133426,7.463681194188991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538855:1894031801:0741/pct:57.21237400069517,60.039317606290815,11.001042752867571,5.597760895641743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11423,7 +11423,7 @@ But mighty nature bounds as
 from her birth: the sun is in the  
 heavens, and life on earth; flower
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_elizabethtown_ver01:data:sn86090439:00517175407:1894100501:0714/pct:23.380216739681806,46.95041684949539,16.785796633617707,6.464823753108089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_elizabethtown_ver01:data:sn86090439:00517175407:1894100501:0714/pct:23.39174544616094,46.95407342401638,16.808854046575973,6.475793476671055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11453,7 +11453,7 @@ Who is strong? He that can conquer his bad
 habits.  
 Who is rich? He that rejoicesin his portion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769605:1895042701:0800/pct:5.046923879040667,51.67207563143784,13.993743482794578,1.8343445745731621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769605:1895042701:0800/pct:5.0521376433785194,51.67913080287851,13.988529718456725,1.8343445745731621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11476,7 +11476,7 @@ Whose flocks supply him with attire
 Whose woods In summer yield him shade  
 In winter fir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:20534606:1895080701:0621/pct:126.53028350515464,131.06818984807444,19.329896907216494,5.052408432457897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:20534606:1895080701:0621/pct:84.37248268084421,87.38271895732737,12.888674077654262,3.3682722883052643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11538,7 +11538,7 @@ Man&#x27;s erring judgement, and mislead the mind
 What the weak head with strongest bias rules  
 fs, pride—that never failing vice of fools.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663625:1896010401:0135/pct:2.4866785079928952,17.460128540823614,14.458259325044406,1.6186622232801713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663625:1896010401:0135/pct:2.4866785079928952,17.468063159565183,14.464179988158675,1.6146949139093867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11598,7 +11598,7 @@ mind”
 in these days money seems “with strong­  
 est bias to rule.” Under its blighting in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583231:1896062101:0438/pct:18.803972366148532,64.87979692399581,14.313471502590673,2.1203523965954907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583231:1896062101:0438/pct:18.79991366285344,64.87011048074052,14.315778113533348,2.123768289041505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11635,7 +11635,7 @@ Thus unlamented let me die;
 eteal from the world, and not a stone  
 /ell where I lie.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037391:1896062801:0527/pct:1.8885891128392318,84.42890442890443,13.394699254086653,10.99067599067599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037391:1896062801:0527/pct:1.8991694440035973,84.42890442890443,13.394699254086653,10.994560994560995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11751,7 +11751,7 @@ Thus unlameatcd, let me die.
 Steal from the world, and not a stone  
 Tell where I He
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623574:1897042901:0675/pct:9.456031567080045,8.453473132372215,11.569898534385569,11.24945391000437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623574:1897042901:0675/pct:9.456031567080045,8.460754332313964,11.583990980834272,11.24945391000437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12018,7 +12018,7 @@ Thus nnlamontcd let me dlo:
 Steal from tbo world, and not a Btono  
 Toll where I Ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_golf_ver04:data:sn84028490:0023728947A:1898042801:0872/pct:24.11045218680504,74.5271465505511,16.40103780578206,14.88637909919717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_golf_ver04:data:sn84028490:0023728947A:1898042801:0872/pct:18.097533840163173,55.89876173629065,12.312256628963471,11.171587971152539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12202,7 +12202,7 @@ Tell where I lie.
 Pope.  
 Man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bravo_ver01:data:sn84028140:00237283697:1899060901:0193/pct:99.8806275579809,53.871013067303636,13.284447476125512,15.245187579036111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bravo_ver01:data:sn84028140:00237283697:1899060901:0193/pct:74.95307967923563,40.4102852325418,9.98123187169425,11.437403400309119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12240,7 +12240,7 @@ Some break their fast and so away.
 Others stay to dinner and depart full fed.  
 The deepest age hut sups, and goes to tied.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:0041562573A:1899071401:0119/pct:40.87769784172662,23.750573131591015,10.489208633093526,1.6047684548372305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:0041562573A:1899071401:0119/pct:40.87769784172662,23.754394008864434,10.49400479616307,1.6047684548372305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12275,7 +12275,7 @@ mind,
 Whit the weak head with strongest bias rules  
 Is pride, the never ending vice of fools
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529698:1899072001:0647/pct:66.17294707035504,54.870682979711944,13.112611631452843,10.438284032832584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529698:1899072001:0647/pct:66.15853658536585,54.862186435428924,13.115200348432056,10.440538866522143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12295,7 +12295,7 @@ What the weak head with strongest bias rules
 Is pride, the never failing vice of fools.  
 But as the nonhumorous and unwitt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896519:1899082401:0136/pct:65.11557637105302,65.8939997585416,9.654026287958906,2.4508028492092238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896519:1899082401:0136/pct:65.10574018126889,65.8860453887011,9.656344410876132,2.4535248672139063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12333,7 +12333,7 @@ Thus unlamented let me die,
 Steal frzm the world, and not a stone  
 Tell where I li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192683:1899092901:0501/pct:59.54088952654232,32.18702865761689,16.51721664275466,18.250377073906485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192683:1899092901:0501/pct:44.67168998923574,24.147812971342383,12.396842482956584,13.695324283559577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12391,7 +12391,7 @@ Tell where I lie.
 Popo. A  
 Man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061429:00280774558:1899111101:0583/pct:330.5743243243243,180.9495371752762,52.44932432432432,49.805912212600774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061429:00280774558:1899111101:0583/pct:82.67849598648078,45.23738429381905,13.11787072243346,12.451478053150193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12437,7 +12437,7 @@ the sin.” ‘“‘Beware of little expenses;
 &quot;Keep thou from the opportunity, and  
 God will keep thee from the »in.&quot;. &quot;lie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175047505:1899111701:0025/pct:70.76386783873902,62.71621470817989,13.140345559260382,0.8258006918870662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175047505:1899111701:0025/pct:70.76891987470951,62.719934531116316,13.150449631201374,0.8295205148234944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12482,7 +12482,7 @@ Thus unlamentrd let me ilij
 Steal from the, world, and not a tton  
 Tell where 1 lie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bravo_ver01:data:sn84028140:00237283685:1899122001:0460/pct:42.51930501930502,103.64703789361323,14.382239382239382,13.093755559508985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bravo_ver01:data:sn84028140:00237283685:1899122001:0460/pct:31.916948334138098,77.7441736345846,10.79188797682279,9.820316669631739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

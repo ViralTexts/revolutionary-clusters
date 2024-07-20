@@ -78,7 +78,7 @@ man who wishes well to his country, and will meet
 with my aid as far as it can be rendered in the private  
 walks of life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:15.559960356788899,42.737972803108214,46.49818301949124,29.379499485773053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:5.186653452262966,14.245990934369406,15.499394339830415,9.793166495257685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ incumbent upon every man who wishes well to his country,
 and will ineM with my aid, as tar ah it can be rendered in &#x27;  
 the private walks of life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:31.14781172584641,30.42647994907702,15.871180842279108,11.304901336728198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:31.14781172584641,30.42647994907702,15.887696118909991,11.309144918311054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ cumbent upon every man who wishes well to hi
 country, and will meet with my aid, as far as it can  
 be rendered in ihe private walks of life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0059/pct:108.2078313253012,23.66077191170776,17.545180722891565,19.026720020653155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0059/pct:81.19632364019888,17.748805989415256,13.16860027120687,14.276494126758745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ ecowntry from that state of bondage in which they
  are held, is a striking evidence of the benevolence of your  
 heart. I shallte loppy to join yow in so lauduble a work
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854042401:0772/pct:151.26162018592296,45.66390788053256,49.103585657370516,8.52824757106873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854042401:0772/pct:50.42054006197432,15.221302626844189,16.367861885790173,2.842749190356243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ are held, is a striking evidence of the benevo­
 lence of your heart. I shall be happy to join  
 on in so tunduble a wor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1854050501:0075/pct:13.675213675213675,300.95238095238096,43.09116809116809,11.876750700280112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1854050501:0075/pct:3.4206306787814005,75.23809523809524,10.778549795118474,2.969187675070028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ tO Join soss in so lassdable  sork hat srill do
 fer going into detail of the business tih I  
 have the pleasure of seeing you.&quot; Vol 8
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021854:1854070701:0281/pct:145.51569506726457,90.71414120979162,60.1457399103139,21.565850697956705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021854:1854070701:0281/pct:36.38912251191478,22.678535302447905,15.040650406504065,5.391462674489176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ of bondage in which they are held, Is a striking evidence of j
 the benevolence of your heart. I shall be happy to join you  
 1 in so laudable a work.” In 1785, Washington wrote to the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030364:print00211110089:1854071601:0001/pct:12.118537200504413,83.93406811637375,9.369482976040354,1.4695660808261344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030364:print00211110089:1854071601:0001/pct:12.12484237074401,83.93655049151027,9.369482976040354,1.4770132062357264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ ing evidence of the benevolence
 of your heart. I shall be happy to jom you  
 in so laudible a work.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1854082501:0536/pct:14.704918032786885,253.38042381432896,39.114754098360656,12.019284673169638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1854082501:0536/pct:4.9008359285363055,84.45067264573991,13.036114298202481,4.0059790732436475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ _ detail of the business till I have the pleasure of
 seeing you.&quot;?Vol. viii, pp. 414, 415.  
 &#x27; To Robert Morris he writes, April 12, IY86 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855072601:0337/pct:50.62938755749213,14.651426412242584,14.730089566690873,4.761005101076894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855072601:0337/pct:50.62938755749213,14.65772403803766,14.738158637940773,4.761005101076894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ in art. I shall be happy to join you in so laudahh a woik ,
 &gt;111 will deter going into n detail ol the business till I have  
 :he pleasure of seeing you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0599/pct:84.71054527984626,69.23879040667362,11.79437905356714,2.38885202388852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0599/pct:84.71054527984626,69.24511012102253,11.810393145968453,2.3856921667140645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ into a etail of the business till I have the pleasure
 of steing you. Spariss ifishage of Iudingtea,  
 rehS t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:153.28153413787402,200.32921810699588,47.29707389651182,16.884185773074663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:51.09384471262467,66.77640603566529,15.765691298837273,5.628061924358221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ of your heart. I shall be happy to join you in so laudable
 a work ; b*t will deter going into a detail of the business  
 until I have the pleasure of seeing Tyou.&quot;?SparksU Writing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:64.0,83.9154238248065,12.550898203592814,3.4642250330375686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:64.00798403193613,83.9154238248065,12.550898203592814,3.4705179032156566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ business till I have the pleasure of seeing
   
 you.&quot; Again, in writing further to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:21.52820830750155,70.95402604305076,15.964042157470551,10.935423863938347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:16.155038759689923,53.21551953228807,11.984496124031008,8.211533351049694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ able a work, but w;ll defer tjuiug into a de&#x27;ail
 of the business till I have the pleasure of seeing  
 vou.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860052901:0441/pct:72.0460664074185,18.736915561758547,12.952437930002992,3.8148406606187484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860052901:0441/pct:68.44747560860093,17.79979375368297,12.309368191721132,3.6350913376546847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ striking instance of the benevolence of your
 heart. I shall be happy to join you in so landa.­  
 ble a work.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:202.09092349120863,252.0880160889625,37.38317757009346,14.491896368153318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:67.3636411637362,84.02933869632083,12.461059190031152,4.830632122717772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ so laudable a work; but will defer going into
 a detail of the business till I have the pleasure  
 of seeing you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861022201:0002/pct:3.1721765717561627,30.07562536358348,10.051595643034588,3.0831878999418265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861022201:0002/pct:3.181731320466272,30.07562536358348,10.065927766099751,3.0940954043048285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ from the state of bondage in which they are
 held, is a striking evidence of the benevolence  
 of jour heart.—Washington to XafaycUe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862052301:0003/pct:35.069191551347416,53.66269165247019,9.850691915513474,2.015900056785917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862052301:0003/pct:35.07829570284049,53.673339011925044,9.850691915513474,2.012350936967632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ bondage in which they are held, is a
 striking evidence of the benevolence of  
 your heart.&quot;— Washington to Lafayette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1862061001:0830/pct:18.692233411505036,28.06586122099861,12.415505586977513,3.838340639367048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1862061001:0830/pct:18.692233411505036,28.069425139883815,12.415505586977513,3.841904558252254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ this country from the State of bondage in
 which they are held, is a striking evidence  
 of the benevolence of your heart.&quot;Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775629:1862101701:0168/pct:63.07356154406409,63.231850117096016,43.044428259286235,10.94847775175644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775629:1862101701:0168/pct:15.768390386016023,15.807962529274004,10.761107064821559,2.73711943793911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ country from the slate of bondage in which
 they are held, is a striking evidence of  
 the benevolence of your heart. &#x27; HjoA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1862102201:0098/pct:83.64312267657992,36.60779985283297,14.06443618339529,3.4706892322786365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1862102201:0098/pct:62.751781840718934,27.458915869511895,10.55159590951348,2.612214863870493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -782,7 +782,7 @@ this country from the state of bondage in
 which they are held is a striking evidence  
 of I be benevolence of your heart.&quot;?[Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862102201:0380/pct:55.77662220212525,17.26243937488773,13.542844223377799,3.359080294593138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862102201:0380/pct:55.782274474338685,17.271420873001617,13.559801040018087,3.377043290820909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ the state of bondage in which they are held, is
 a striking evidence of the benevolence of youi  
 heart.&quot;—[Washington to Lafayette, 1783
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862102501:0435/pct:47.40525776715602,55.276140055348336,14.339364970979856,3.056190590783299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862102501:0435/pct:47.41094799135086,55.280150804155134,14.356435643564357,3.056190590783299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ they are held, is a striking evidence of
 the benevolence of your heart.&quot;Wa­  
 ington to Lafayette.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862103001:1072/pct:106.17283950617283,263.47305389221555,43.489711934156375,12.311377245508982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862103001:1072/pct:35.390946502057616,87.82435129740519,14.496570644718792,4.103792415169661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -875,7 +875,7 @@ this country from the state of bondage in
 which they are held is a striking evidence  
 of the benevolence of your heart.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862103001:0354/pct:122.42302543507363,79.9894681411269,47.389558232931726,12.690889942074776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862103001:0354/pct:30.605756358768406,19.997367035281727,11.847389558232932,3.172722485518694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -895,7 +895,7 @@ conn try from the state of bondage in which
 they are beld is a striking evidence of the  
 benevolence of your heart&quot; Washingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1862103001:0720/pct:107.10843373493977,36.14381164492523,16.265060240963855,3.961183582564429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1862103001:0720/pct:80.38979304802089,27.107858733693924,12.19610206951979,2.9748647788736875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,7 +915,7 @@ from the state of bondage in which they are
 held, is a striking evidence of the benevolence  
 of your heart.”— Washington to Lafayette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862103101:1033/pct:4.016620498614959,82.21992314513746,15.730114760585675,3.488028377180018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862103101:1033/pct:3.112860355755469,63.72799816730938,12.195869965242283,2.707036768355542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -945,7 +945,7 @@ from the state of bondage in which they are
 held, is a striking evidence of the benevolence  
 of your heart.”— Washington to Lafayette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021295:0051717158A:1862110501:0147/pct:62.66363118952761,6.895777178796047,10.387023335230506,2.414645103324349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021295:0051717158A:1862110501:0147/pct:62.67311705558718,6.899520814615154,10.377537469170935,2.4221323749625636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -965,7 +965,7 @@ from the state of bondage in which they are
 i!d, is a striking evidence of the benevo encs  
 of your heart &quot;—[Washington to Lafayette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1862111401:0353/pct:16.016514806378133,61.94620253164557,10.990888382687928,2.8028933092224233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1862111401:0353/pct:16.016514806378133,61.94996986136227,11.000379650721337,2.8066606389391198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -995,7 +995,7 @@ this country from the State of bonadge in
 which they are held, is a striking evidence  
 of the benevolence of your heart.&quot; Was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862112101:0838/pct:329.2388847023361,66.79372526022577,49.660889223813115,13.135903826418414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862112101:0838/pct:82.35626767200753,16.698431315056443,12.422243166823751,3.2839759566046034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1015,7 +1015,7 @@ this country from the State of bondage in
 which they are held, is a striking evidence  
 of the benevolence of your heart.Hsh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1862112501:0676/pct:25.41196877710321,125.06931984994291,51.86470078057242,13.178926765617355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1862112501:0676/pct:6.357127359513995,31.26732996248573,12.97461488392276,3.2947316914043387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1054,7 +1054,7 @@ striking evidence of the benevolence of
 your heart. I shall be happj to join you  
 in so laudable a work.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862121201:0552/pct:42.24611161939616,43.24521422060164,13.655077767612077,2.187784867821331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862121201:0552/pct:42.24611161939616,43.249772105742935,13.677950594693504,2.2014585232452144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1074,7 +1074,7 @@ in this country from the state of bondage
 in lAiich they are held, is a striking evi­  
 dence of the benevolenco of y our heart.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1862121301:0451/pct:79.2987691160015,20.27331642716258,14.863856769861991,3.5362073823612286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1862121301:0451/pct:79.2987691160015,20.283882783882785,14.86851920925028,3.5467737390814316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1094,7 +1094,7 @@ country Irom a state of bondage in which
 they i a sei 1, is a striking evidence of tho  
 btsevotesc si your seSi t. Washingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294567:1863012901:0501/pct:111.0447381799695,70.26194144838213,16.70055922724962,4.227657935285054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294567:1863012901:0501/pct:83.31849968213605,52.696456086286595,12.536554354736174,3.1779661016949152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1115,7 +1115,7 @@ they are held, is a striking evidence of the
 benevolence of your heart.&quot; Washington  
 to Lafayette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn84030186:00294555699:1863032101:0293/pct:50.86206896551724,71.05970323635938,22.14240102171137,6.3909335202710595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn84030186:00294555699:1863032101:0293/pct:33.92429324389075,47.3770300268723,14.773997763935473,4.264516882813413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1135,7 +1135,7 @@ black people in this country from the
 State of bondage in which they are  
 held, is a striking evidence of you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1863043001:0347/pct:162.75498510199404,232.6283135927806,30.231492092596838,8.591840571536004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1863043001:0347/pct:54.25166170066468,77.54277119759354,10.077164030865612,2.8639468571786675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1156,7 +1156,7 @@ in which they are held, is a striking ef-
 dence of the benevolence of your heart. I shall  
 be happy to join you in so laudable a pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863062501:0577/pct:112.04404679972471,92.27123107307439,47.48795595320028,14.009216589861751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863062501:0577/pct:28.02547770700637,23.067807768268597,11.878120158374935,3.5023041474654377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1200,7 +1200,7 @@ so laudable a work ; but will deter going
 into details of the business till 1 have the  
 pleasure of seeing you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1863121201:0091/pct:56.02341389728097,79.67025089605735,16.27643504531722,6.537634408602151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1863121201:0091/pct:43.41739427345008,61.74814814814815,12.628652260865323,5.0777777777777775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,7 +1220,7 @@ country from the state of bondage in which
 they are held is a striking evidence of the  
 benevolence of your heart.--Washington t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn83045586:00200293617:1864050701:0593/pct:313.8474295190713,96.94558886205427,60.69651741293532,13.638300895013495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn83045586:00200293617:1864050701:0593/pct:78.46185737976782,24.236397215513566,15.17412935323383,3.409575223753374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1387,7 +1387,7 @@ stitution that will give stability and
 dignity to the union and powers to  
 the great council of the nation.&quot; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202197061:1889050901:0287/pct:25.118483412322274,176.05664020596438,43.338599262769876,15.061145676893371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202197061:1889050901:0287/pct:6.2812746905451675,44.014160051491096,10.83750329207269,3.765286419223343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1411,7 +1411,7 @@ country.&#x27; As the time approached to sur­
 render his authority as Commander-in­  
 chief of the army, be addressed a cir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036593:1889060101:0006/pct:29.008341056533826,39.9792075776828,10.56533827618165,3.823495437218436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036593:1889060101:0006/pct:29.008341056533826,39.987871086981635,10.56533827618165,3.8206076007854914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -148,7 +148,7 @@ ted as to every thing as as loforemn i,;u
 tions. Let the general government be  
 reduced to foreign concerns only, and K 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830100601:0115/pct:80.50244553134726,4.381615972129171,17.71898621609604,21.975077046764035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830100601:0115/pct:80.48455212269393,4.381028938906752,17.722456842261245,21.97659878528046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ in a solemn compromise of clashing interests.
 must have exhibited the author of the American sys­  
 tem at the time of ushering his compromise to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842070501:0156/pct:33.3131527168155,90.47619047619048,16.225215680339033,6.010268800966475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842070501:0156/pct:33.3131527168155,90.47619047619048,16.245396296856867,6.013624618275781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ mill manage the bdt r the more they are left to m ?
 nagc tor themselves.&quot; The-e expressions, it is true,  
 are very general?ami, at the time they were ut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848053001:0195/pct:72.36467236467236,29.087580691781483,13.630229419703104,2.6592157240581944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848053001:0195/pct:72.36967061528465,29.087580691781483,13.625231169090819,2.6624273372515015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ single, consolidated government) it
 would become the most corrupt govern­  
 ment on earth.&quot; These were the prin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867090501:0830/pct:60.90163934426229,34.805045871559635,16.7827868852459,6.450688073394495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867090501:0830/pct:45.694956949569494,26.103784403669724,12.607626076260763,4.845183486238532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ single consolidated government, it
 would become the most corrupt gov­  
 ernment upon the earth.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027169:1871030901:0041/pct:50.01526251526251,98.37945649463974,13.965201465201465,15.607080528546497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027169:1871030901:0041/pct:37.532447701939226,73.78459237097981,10.474881661322339,11.705310396409873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ would be produced by an assumption of the
 State powers into the hands of the general  
 government.&quot;- Sec rotamed, page tul Jef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742071:1874100101:0320/pct:7.557980900409277,137.42775892119988,41.732605729877214,37.51949362443813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742071:1874100101:0320/pct:2.519326966803092,45.809252973733294,13.91086857662574,12.506497874812709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ dispatches from Albany indicate that
 another “foul nest” is about to be un­  
 covered in the Republican camp o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342053:1881061801:0578/pct:36.04573859859061,76.12961658448224,10.251296370163542,10.284794203481937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342053:1881061801:0578/pct:36.05460266808492,76.13297105095434,10.242432300669238,10.284794203481937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ to a very simplo organization and a very
 unexpensive one; a few plain duties to be  
 performed by a fow servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881112001:0661/pct:83.88017118402283,27.86697247706422,49.71469329529244,25.229357798165136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881112001:0661/pct:20.97752408134142,6.966743119266055,12.433107384944702,6.307339449541284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ very simple organization and a very un­
 expensive one; a few plain duties &#x27;  
 performed by a few servants.’ *’ * ’ v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688799:1881122101:0189/pct:84.12060301507537,27.91968108666765,14.190954773869347,5.876273438653477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688799:1881122101:0189/pct:84.13400335008376,27.924602588710073,14.18425460636516,5.8811949406959005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ very simple organization and a very un­
 expensive one; a few plain duties to be  
 performed by a few servants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556801:1881122201:0851/pct:105.024595924104,22.562214321990858,18.71047083626142,8.45606907059421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556801:1881122201:0851/pct:78.79107362502197,16.924834941594717,14.039711825689686,6.348400203148807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ eral Government may be reduced to a
 a expensive one; a few plain duties to be  
 1 performed by a few servants.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_quentin_ver01:data:sn88064176:00211100849:1882010701:0010/pct:49.1260162601626,18.314197703724446,16.463414634146343,6.664799775973116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_quentin_ver01:data:sn88064176:00211100849:1882010701:0010/pct:49.1260162601626,18.311633767324654,16.463414634146343,6.663866722665547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ to a very simple organization and a
 very inexpensive one; few plain duties  
 to lie performed by a few servants.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028769:1882011901:0140/pct:37.48287336073596,41.128474623150325,14.112350753572128,9.238003042456091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028769:1882011901:0140/pct:37.48287336073596,41.13769418706495,14.118875187577478,9.238003042456091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ very simple organization and a very
 inexpensive one; few plain duties to  
 be performed by a few servants.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291098:1882012001:0144/pct:6.767275615567911,45.410628019323674,10.865766481334392,7.355072463768116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291098:1882012001:0144/pct:6.7752184273232725,45.41968599033817,10.861795075456712,7.358091787439614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -774,7 +774,7 @@ zation and a very inexpensive one;
 few plain duties to be performed by  
 a few servants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077272:00296027248:1882020201:0461/pct:53.49196538936959,102.7316951478109,13.427070457354759,8.157664961955843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077272:00296027248:1882020201:0461/pct:40.132900633596044,77.04877136085818,10.075722454025653,6.124485468379693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ tender in payment of debts but gold and
 silver coin.&quot;  
 This provision reduced the states to prov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1898071301:0519/pct:18.737616756297765,46.28982976865997,12.100198131899235,6.449148843299869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1898071301:0519/pct:18.742334182470046,46.297104612250834,12.104915558071516,6.441873999709006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -64,7 +64,7 @@ pertaining unto him the said William
 &amp;ttnmons% during the pleasure ol the  
 President of the United States, for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814071401:0493/pct:5.892143808255659,34.289946306239585,18.09254327563249,11.73856693204962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814071401:0493/pct:5.891163255117324,34.286772192909375,18.095079602817997,11.74056589219044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ to law.
 &quot;The President of the United States of America, to all who  
 shall see these presents, greeting 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855103101:1142/pct:16.501650165016503,35.514498332050294,15.676567656765677,1.0392609699769053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855103101:1142/pct:16.507150715071507,35.514498332050294,15.671067106710671,1.0435377640920367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ shall see these presents, greeting
 of the Confederate States of America, to all who  
 shall see these presents greeting: Know ye tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056248:00200294543:1861070401:0490/pct:330.0380228136882,282.3349574854304,49.8574144486692,6.534823731728289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056248:00200294543:1861070401:0490/pct:82.52911813643927,70.5837393713576,12.467316377466128,1.6337059329320722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ for the time being.
 Jn testimony whereof, 1 have executed  
 these letters to be made patent, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868030501:0224/pct:22.898295120517343,47.469535624108026,14.329805996472663,9.561971676364035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868030501:0224/pct:17.188648728128218,35.60215171808102,10.748419350095574,7.179712372378966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ these letters to lie made patent and the
 sea! of the United States to be hereunto  
 affixed. Given under my hand at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1868032501:0482/pct:61.60849772382397,17.978896103896105,11.090035407182599,9.344561688311689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1868032501:0482/pct:61.612712864609676,17.985660173160174,11.090035407182599,9.341179653679653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ DeST oF THEUSITEd STATES FORTHE TIMR rEIn.
 testimony whercol I have caused these letters  
 to be made patent and the seal of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1868040201:0467/pct:108.1127241673783,342.534395365677,52.69000853970965,24.27226647356988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1868040201:0467/pct:27.04550309762871,85.63359884141926,13.180944242683188,6.06806661839247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ TH JEFFERSON.
 By the President:  
 JAMEs MADIsON, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053571:00237288555:1868121701:0598/pct:136.11111111111111,197.38586853570752,48.214285714285715,25.83822693691987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053571:00237288555:1868121701:0598/pct:34.036219300421735,49.34646713392688,12.056561647233938,6.459556734229968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ said, have caused these letters to be
 siade patent, and tbo Great Seal of  
 the Htate to be hereon to affixed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877510:1875092501:0084/pct:2.98776097912167,44.67219291635268,15.17278617710583,12.132629992464205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877510:1875092501:0084/pct:2.25022502250225,33.50414468726451,11.377137713771377,9.103240391861341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ States for the time being.
 caused these letters to be made patent and  
 the seal of the United States to be hereunt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531010:1880081201:0153/pct:48.26702833031947,126.2759336099585,41.274864376130196,24.83402489626556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531010:1880081201:0153/pct:16.089009443439824,42.09197786998617,13.758288125376733,8.278008298755188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ power him to execute and fulfill the duties
   
 of that office according to law, until this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762963:1894090301:0233/pct:32.901706886403765,12.513171759747102,13.272513243084168,7.8503688092729185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762963:1894090301:0233/pct:24.68354430379747,9.391464699683878,9.964674712982044,5.887776606954689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ ty-seven.
 By the President:  
 JAMES MADISON, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897061201:0114/pct:70.44809982983551,41.67476739341758,14.142560030251465,8.207193445354811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897061201:0114/pct:70.45282662128947,41.685182613525896,14.156740404613348,8.210665185390917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

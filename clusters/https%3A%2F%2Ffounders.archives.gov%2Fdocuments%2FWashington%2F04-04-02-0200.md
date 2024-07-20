@@ -92,7 +92,7 @@ devastations and horrors of war.” — Sparks’s Washington, Vol
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n3/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n3/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -113,7 +113,7 @@ I am, if this country be
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n3/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n3/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -231,7 +231,7 @@ nearly wrecked the confederation before
 it came v under the Constitution  
 was the result of the trouble
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048637:1892041701:0286/pct:26.021711366538952,27.54443563908072,19.460408684546614,24.702818974300918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048637:1892041701:0286/pct:17.35867135100607,18.36295709272048,12.983072500798468,16.472319710177743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ very remote when tho benefits of a liberal
 aud free commerce will pretty generally  
 succeed to the horrors of war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_holt_ver01:data:sn86092518:00414186683:1892101901:0257/pct:25.862595419847327,51.47015727263847,13.83206106870229,4.81586402266289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_holt_ver01:data:sn86092518:00414186683:1892101901:0257/pct:25.858647534727524,51.46512990818519,13.83503790769857,4.818649475809077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ will&#x27; be: &quot;How Mankind May Be Con­
 nected Like One Great Family In Fra­  
 ternal Ties.&quot; This subject is wort
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ames_ver01:data:sn83025186:00202198387:1894121401:0109/pct:36.649874055415616,100.93727469358328,13.664987405541561,4.325883201153569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ames_ver01:data:sn83025186:00202198387:1894121401:0109/pct:32.07365230967031,88.31878877089686,11.95242905684636,3.785090947324151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ Lo rility ar dily diminishing; and,
   
 that the cure of drunkenness is not ment of crime and wrong doing 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1896031301:1465/pct:72.64770240700219,281.1089303238469,174.10649161196207,45.09322865554465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1896031301:1465/pct:18.16523800838957,70.27723258096172,43.53456137151195,11.273307163886162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ how mankind may bo connected
 like one great family in fraternal  
 ties.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_honeydew_ver01:data:sn82004649:00517016196:1898051201:0720/pct:29.76618705035971,84.32040903280785,20.77338129496403,7.967618236046016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_honeydew_ver01:data:sn82004649:00517016196:1898051201:0720/pct:29.757267006293077,84.3024494142705,20.774647887323944,7.9712460063897765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ assuredly come a day when this country
 will have some weight in the scale of  
 empires.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:42.702312138728324,110.13550884955752,16.365606936416185,6.720132743362832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:32.03830863751355,82.60508849557522,12.287676183592339,5.047013274336283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

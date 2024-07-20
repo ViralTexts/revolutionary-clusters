@@ -176,7 +176,7 @@ the unfriendly effect of excluding Britl-U
 ships of war, altogether from Amcj&lt;e-»*  
 I*rt»: He was r$q»n4cd , that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041501:0447/pct:77.519097853765,26.43198822519318,17.715532921062206,68.72316938550227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041501:0447/pct:77.50500090925622,26.428746627422125,17.718373037521975,68.71882920448041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ to their mutual advantage.
 J have the honor to be See.  
 (Signed) JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041501:0448/pct:6.378854625550661,1.5626892792247122,34.48458149779736,91.4718352513628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041501:0448/pct:6.377730796335448,1.5625,34.48437867042518,91.46479328165374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ tain and 1 lance themselves, and is consequently
 liee uom otijectioiis by either. The interposition  
 ot the gov i-fomem, though ciaiiiieit in beliail Irot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042001:1092/pct:27.009728622631847,1.6045380875202593,45.54531490015361,94.91085899513776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042001:1092/pct:27.00281545943179,1.6042780748663101,45.540056309188635,94.89953005995787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -717,7 +717,7 @@ and tbeir mutual advantage,
 1 have the honour to be, &amp;e,  
 ^‘unedi_James Sadiron. :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042001:1092/pct:50.17921146953405,1.7179902755267422,47.132616487455195,96.22366288492707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042001:1092/pct:50.166368057332996,1.7177118781396856,47.126951625287944,96.21212121212122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ also by the propositions which have
 [ the patience and cordiality with Which  
 you have conducted the negotiation.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808102401:0002/pct:41.8877236273905,5.249647028622769,36.10939749126054,89.50070594275446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808102401:0002/pct:41.90143258619508,5.253925469558893,36.10939749126054,89.50498438369058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -942,7 +942,7 @@ with the general object suggested in the close
 of the foregoing extract, and which seem, evi­  
 dently to contemplate the continuance of Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826041301:0260/pct:42.59778841392969,38.28089887640449,17.692688562469055,15.089887640449438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826041301:0260/pct:42.59075907590759,38.276598135041006,17.695269526952696,15.091937235516609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -972,7 +972,7 @@ high seas, and paiOcularly in the impressment from I
 American vs»»el*.”  
 1 he remainder of this letter is occupied wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826050501:0440/pct:21.6600790513834,3.322219576089545,30.35573122529644,91.70040485829959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826050501:0440/pct:21.656655074296555,3.321824026669842,30.356201918010328,91.69345557010756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

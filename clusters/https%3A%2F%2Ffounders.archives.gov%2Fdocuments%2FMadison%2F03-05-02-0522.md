@@ -45,7 +45,7 @@ the Navy, date
 Tire following is an extract of a letter from • com­  
 modore Rodgers, to the secretary of the navy, date
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805091601:0705/pct:73.33822091886609,30.842759279910787,20.89442815249267,1.386012426318305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805091601:0705/pct:73.3203029562668,30.83784644791335,20.895431224041047,1.3897738133163429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ I transmit for the like purpose copies of
 a letter from Commodore Rodgers to the  
 Secretary of the Navv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813012801:0340/pct:59.75073313782991,25.51590191794125,17.50366568914956,3.7630492838067493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813012801:0340/pct:59.73978376397288,25.512804952057287,17.506566489524158,3.7666383460775985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ I transact for the like purpose copies of
 a le ter from Commodore Rodgers to the  
 Secretary of the Navy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813020101:0032/pct:59.38704349421912,40.86538461538461,17.14075977243531,3.9694280078895465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813020101:0032/pct:59.37614678899082,40.86034759028719,17.143730886850154,3.9730473725296847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ I transmit for the like purpose copies of a
 letter from Conmunodore Rodgers to the Sec­  
 retary of the Navy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813020401:0769/pct:73.41977309562398,24.40102120974077,21.588330632090763,4.791830322073841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813020401:0769/pct:73.43057806591032,24.40102120974077,21.593733117233928,4.791830322073841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ Admiral commanding at that station.
 a letter from Commodore Rodgers to the  
 Secretary of the Navv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813021201:0360/pct:47.98526364264333,19.919401266551525,20.23946580704582,4.778353483016695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813021201:0360/pct:47.974217311233886,19.9165347532019,20.240561694290975,4.781263491149805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ Secretary of the Navy
 Copy of a letter from Commodore Rodgers  
 to the Secretary of the Wavy, date
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813121301:0398/pct:24.569842738205367,13.494767583353614,17.206290471785383,1.1438306157215867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813121301:0398/pct:24.565297817240104,13.49312568438983,17.209273646565546,1.1477470900758406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ tary of the navy
 Copy of aletter from Commodore Rodgers to  
 &quot;~ the Secretary of the Navy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814031501:0045/pct:23.65299414034586,43.80998545807077,16.950121480634557,1.3184682501211828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814031501:0045/pct:23.65299414034586,43.81644853772823,16.950121480634557,1.312005170463726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

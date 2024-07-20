@@ -138,7 +138,7 @@ settled baya, nurhora and crc.-ks cf Nova
 Scotia, Mugdahn lalanrs, and Labra or, and  
 ev, n on settled pans thereof, by agreemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815040101:0098/pct:5.788982259570495,16.200480951778257,17.198879551820728,7.6825718263510945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815040101:0098/pct:5.78790141896938,16.198430777018476,17.201891959173512,7.685817936387412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -112,7 +112,7 @@ I remain, Sir, your most
 Obedient, Humble Servant,  
 (Signed) GO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1828071901:0068/pct:42.62208067940552,1.3982642237222758,37.80962491153574,93.00867888138862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1828071901:0068/pct:42.614540951707056,1.3980956972399663,37.8088330679875,93.00148648105741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ I romain, Sir, your most
 Obedient lltirahle Servant,  
 ^ (Signed) GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828080201:0052/pct:46.045721346926165,11.7440543601359,17.639789928946556,35.24348810872027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828080201:0052/pct:46.03861003861004,11.74272449326237,17.642213642213644,35.243271807647304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ I remain, Sir, your most
 Obedient, Humble Servant,  
 (Signed) GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1828080501:0089/pct:20.910455227613806,53.69509818617898,23.311655827913956,50.02248538450007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1828080501:0089/pct:16.212199534763506,41.62181001432831,18.06668389764797,38.76776517058436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ habitants of Canada have proved them
 selves in this unhappy contest.&quot;  
 e believe we have quoted enough a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840042901:0218/pct:229.3118856121537,140.91891113351576,71.67113494191243,15.209563589226558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840042901:0218/pct:57.327971403038426,35.22972778337894,17.917783735478107,3.8023908973066396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

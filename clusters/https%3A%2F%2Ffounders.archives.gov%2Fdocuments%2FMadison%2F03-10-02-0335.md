@@ -75,7 +75,7 @@ vil department not
 otherwise provided  
 for, &amp;c. 1,00
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798013101:0435/pct:58.89732073718445,35.97914822464837,16.245934644571783,20.9698042687125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798013101:0435/pct:58.89732073718445,35.9824268056785,16.266584068969077,20.97308284974263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ gainst the United States, on account of the
 civil department, not otherwise provided  
 for, as (hall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032101:0002/pct:28.645951462916763,35.69141193595342,15.559083692447267,4.643377001455604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032101:0002/pct:28.66296212293037,35.69141193595342,15.564753912451803,4.657933042212518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ vided for&quot;) at fhall have been admitted in
 a due courfe of fettlement at the treafu­  
 ry, and which are of a nature, accord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803030701:0002/pct:60.68024263431543,29.221933543005605,18.067590987868286,4.211677833994257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803030701:0002/pct:60.6946851530907,29.221933543005605,18.08203350664356,4.220794019782123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ l&#x27;or the discharge of such demands a­
 gainst the United States, on account of  
 the civil department not otherwise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806072301:0244/pct:58.25503355704698,80.23000387646982,17.430488974113135,1.951156480165396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806072301:0244/pct:58.24386503067485,80.21963824289406,17.43353783231084,1.9552110249784669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ hor the difeharge of fuch demands againft the U­
 other wife provided for, as mail have been admitted  
 m a due courfo of fettlement at the treafury, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806112801:0236/pct:40.34279395503133,34.006116207951074,17.545152967194987,2.1773700305810397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806112801:0236/pct:40.33536023585775,34.00195694716243,17.54806215834408,2.181180691454664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ United States, on account of the civil department,
 not otherwise provided for, as shall have been ad­  
 mitted in a due Course of settlement at the treasury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807031801:0421/pct:4.690990320178704,34.50795712893797,21.04740630429387,4.887950633322507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807031801:0421/pct:4.689826302729529,34.50235427829193,21.048387096774192,4.8912161065107975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ For the dilcharge of such demands against the United States, on
 account of the civil department, not otherwise provided for, as shall  
 have been admitted in a due course of settlement at the treasury, tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807102701:0591/pct:67.55485893416927,59.36599423631124,25.344827586206897,2.7427208585908773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807102701:0591/pct:67.56008359456635,59.372619165921364,25.344827586206897,2.7427208585908773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ not otherwise provided for, as shall have been
 admitted in a due course of settlement at the trea­  
 sury, two thousand dollars 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112002:0245/pct:3.1200897867564534,28.69182149013599,21.571268237934905,4.022217965906915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112002:0245/pct:3.119389587073609,28.68632707774799,21.573907839616997,4.027830971530704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ provided for, as shall have been admit­
 ted in.a due course of settlement at  
 j the treasury) two thousand dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808021701:0004/pct:40.39975772259237,14.161220043572985,17.262265293761356,5.510701012431117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808021701:0004/pct:40.41321757857191,14.169763766072878,17.262265293761356,5.50642915118117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ provided for, as shall have been ad­
 I mitted in due course of settlement at  
 the treasury, two thousand dollars 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051701:0167/pct:21.863117870722434,86.79436762653812,18.193916349809886,8.664214131675758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051701:0167/pct:21.85896217449154,86.78335870116692,18.196794018881075,8.667343142228987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ at the treasury, two thou» nil dollars
 for, as thall have been admitted in a due  
 - wour€ of sctlément “at the- treafory, tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810041001:0481/pct:21.803782123807984,89.29353233830845,17.552933570389527,3.1641791044776117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810041001:0481/pct:21.814557405312215,89.30016583747927,17.563708851893757,3.1641791044776117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ United Slates, on account of the civil department,
 not otherwise provided for, as shall haw been ad  
 niitted in » due course ofsettlcment at the trea- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810070601:0074/pct:24.77396021699819,35.697773451758124,17.649186256781192,9.733544226791581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810070601:0074/pct:24.769481106490687,35.693430656934304,17.65202193696137,9.736415247364153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ therwise provided for, as shall have been ad­
 mitted in due course of settlement at the trea­  
 sury, two thousand dollars 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070201:0070/pct:23.348017621145374,51.64591295771175,16.81057268722467,10.467266674885957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070201:0070/pct:23.343904157857647,51.63954635108481,16.81348367394879,10.47008547008547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -772,7 +772,7 @@ pravided for, as shill have been ad­
 mitted in due coutfe of settlement ai  
 &lt;he treasury, two thousand dollars ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812032401:0257/pct:40.19302615193026,59.674195482710374,16.500622665006226,17.12972216669998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812032401:0257/pct:40.20340390203404,59.6808581517756,16.495433789954337,17.123059497634753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -807,7 +807,7 @@ partment, not. otherwise provided for, as
 shall have been admitted in due course ot  
 settlement at the treasury, two thousand d&lt; i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812033001:0107/pct:56.59716138076047,64.42263279445727,16.365866479761696,10.704387990762125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812033001:0107/pct:56.58724597056762,64.41519455028288,16.368839056295258,10.707000731247353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ partment, not otherwise provided for, as shall
 have been admitted in due course of seitle­  
 ment ut the Treasuary, two thousand dol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813050601:0820/pct:49.557522123893804,79.84321411073003,22.007012856904325,13.846153846153847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813050601:0820/pct:49.568653642789556,79.84321411073003,22.007012856904325,13.85595296423322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ wise provided for, as shall have been admitted in due
 course of settlement at the treasury, two thousand  
 dotiars. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813052701:0030/pct:24.66920427768715,41.668745323023195,17.47326445531992,9.503616862060364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813052701:0030/pct:24.66473359913012,41.66354907095648,17.476138697595747,9.506588518934198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1012,7 +1012,7 @@ Uaited States, on account-of the civil department,
 not othecrwife provided for, as shall have been ad­  
 mitted in due course of settlement at the treasury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814041901:0065/pct:41.4881462439303,16.22172604601495,17.409311625249927,10.6785748956412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814041901:0065/pct:41.497667333142914,16.22172604601495,17.409311625249927,10.685046759214316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1047,7 +1047,7 @@ partment, not othertv se provi«Ied lor, as slial
 have been admitted in due course of settlement  
 at the treasury, two thousand dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814042301:0088/pct:57.68110666181288,32.1419946872736,17.16417910447761,11.120502294131851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814042301:0088/pct:57.67060964513194,32.13811420982736,17.167121625720352,11.123184031550565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1117,7 +1117,7 @@ ted States, on account nf the civil department, not other­
 wise provided for, as shall have been admitted in due  
 cotn-se ol settlement at their treasury, two thousand dol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814083101:0130/pct:23.738013388818526,39.785211702258984,17.26072010132079,9.159363041599802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814083101:0130/pct:23.733719247467437,39.78030116020736,17.263627592860587,9.162346745659509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ partment, not otherwise provided for, as shall
 have bet n admitted in due course of settlement  
 at the treasury, two thousand dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815030401:0066/pct:24.705232129697862,3.601213040181956,34.911569638909356,92.73439474349254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815030401:0066/pct:24.700681525142752,3.6007580543272266,34.91127893411924,92.7268898715519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1306,7 +1306,7 @@ All which is respectfully submitted.
 A. J. DALLAS,  
 Secretary oj the Treasury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816041301:0120/pct:60.31484532308256,7.595084844938561,35.09060955518946,85.48858981860737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816041301:0120/pct:60.303806734992676,7.594196115141587,35.09028794533919,85.48248693345815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1596,7 +1596,7 @@ provided for, as shall have been admit-&#x27;
 ted in due course of settlement, at the  
 treasury, two thousand dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816061701:0012/pct:60.65285379202502,46.025375453133094,17.74824081313526,15.652511651993786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816061701:0012/pct:60.641000586281024,46.019417475728154,17.751286561136084,15.65480043149946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1630,7 +1630,7 @@ ment, not otherwise provided for, as shall huve
 been admitted in due course of settlement, at  
 the treasury, two thousand dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816071601:0550/pct:9.670424978317433,28.7624750499002,16.34865568083261,11.22754491017964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816071601:0550/pct:9.675243326587646,28.7624750499002,16.343837332562398,11.2375249500998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1649,7 +1649,7 @@ gainst tlie l ited States on .account of the
 | tor, as shall have been admitted in due  
 | course of settlement-at the treasury, tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816081701:0264/pct:45.08975712777191,30.70548969962021,16.913058782118974,3.0383243181033492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816081701:0264/pct:45.081822980819986,30.701956271576524,16.91594814945158,3.0418105101649404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

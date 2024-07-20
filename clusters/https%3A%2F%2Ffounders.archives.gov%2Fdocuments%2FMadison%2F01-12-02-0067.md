@@ -221,7 +221,7 @@ what it ought to be. But in doing this we ought to be careful in
 avoiding any sudden or violent effect upon our commerce by the  
 rife of freight.&quot; Another gentleman from Pennsylvania (Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790052901:0001/pct:63.84266263237519,52.91805855767341,26.59606656580938,8.292395362546669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790052901:0001/pct:63.86535552193646,52.91805855767341,26.588502269288956,8.307133032029869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ fare are committed, to turn the tide to a
 more favorable direction.”  
 Speaking of the discriminating duties, pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012701:0337/pct:24.18394950405771,10.677149378645701,34.75202885482417,86.39360892721278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012701:0337/pct:24.17958889289578,10.675795613034106,34.751773049645394,86.38688136596086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ would be ; it becomes therefore the dury of those, 1o whose
 care the public interefl and welfare are committed, to turm  
 the tide to a more favorable dire@ion &gt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809022101:0235/pct:67.68443893366398,36.82844018374276,26.549907005579666,3.4351907329738367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809022101:0235/pct:67.68443893366398,36.83176885693363,26.55507336226493,3.441848079355569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ eotam this important object, they will be peculiarly
 rewarded for ,t m the hour of danger.”_l&gt;age 12j.  
 ‘ vV e have maririme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809060201:0509/pct:76.04010025062657,5.206463195691203,21.453634085213032,5.875632446548066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809060201:0509/pct:76.02104735655224,5.205613577023499,21.454522676021046,5.878753263707572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ built in France. The more this subject is examined
 the greater necessity there appears for discrimina  
 tion.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842022401:0300/pct:133.5756043608785,119.38633193863319,38.742297361352506,26.16225011622501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842022401:0300/pct:44.518167456556085,39.79081929110982,12.91205897840969,8.719736587255472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ had been built in France. The more this
 subject is examined the greater necessity  
 there appears for discrimination.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1842031001:0041/pct:24.04021937842779,158.06017063313874,60.96892138939671,57.89552462206257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1842031001:0041/pct:6.010054844606947,39.515042658284685,15.242230347349178,14.473881155515642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ duties, restrictions, and preferonce; but there are cases in
 which it is impossible to avoid following the example of  
 other nations, in the diversity of our trad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842090801:0960/pct:55.91758505031145,225.71594877764844,38.68391630729916,11.746216530849825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842090801:0960/pct:18.63621846055573,75.22989174717728,12.8925795805387,3.9149497536181275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ j NOT OTHERWISE SUCCEED.”
 j Mr Baldwin of Georgia—“ observed that the  
 I question immediately before the committee wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844050201:0075/pct:48.37581937363438,73.77420450685086,14.58120903131828,7.6095572415355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844050201:0075/pct:48.368773667346346,73.76585144927536,14.583940188367803,7.612469806763285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ Mr. Baldwin of Georgia &#x27;observed that
 the question immediately btforo the commit­  
 tee was of less importance than the on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1844061501:0395/pct:23.84351798972016,37.98182027384651,20.088520845231297,16.69543205615004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1844061501:0395/pct:17.89233185777524,28.489241744333217,15.064972154790803,12.518697503164192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ necessity than I find we are to shackle our com­
 merce with duties, restrictions, and preferences  
 in the first place, Ï own myself the friend of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844080801:0610/pct:9.349514563106796,48.78649073630957,14.728155339805825,8.087782867300199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844080801:0610/pct:9.348606931365886,48.78315559201531,14.72996149241174,8.089508704767113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

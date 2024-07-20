@@ -97,7 +97,7 @@ JOHN CUTLER, Grand Majltr.
 JOSI AM BARTLETT, ? „ in, .  
 MUNGO Mackay, £ Gr&quot;nd Wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022001:0002/pct:34.28920073215375,46.185336806847786,19.676632092739474,30.070710829921847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022001:0002/pct:34.30445393532642,46.19929289170078,19.70713849908481,30.066058801637514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

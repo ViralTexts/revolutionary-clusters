@@ -104,7 +104,7 @@ the British ship of war the Leopard, on the.
 American frigate Chesapeake, and the mea­  
 sures taken by the President, supported b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807102701:0592/pct:77.49802058590657,57.08712613784135,16.357878068091846,2.340702210663199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807102701:0592/pct:77.50329902348905,57.08712613784135,16.363156505674322,2.350705211563469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -899,7 +899,7 @@ d Great Britain. -d
 d I have the honor to be, &amp;c. ty  
 c (Signed) JAMES MADISON. -1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808032501:0002/pct:22.278635255889522,1.8758833354747526,55.727051177904144,96.01696004111525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808032501:0002/pct:22.292174383969673,1.8801661741402202,55.71351204982399,96.01267720244978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1015,7 +1015,7 @@ siw-si si-ctss
   
 Him beyond there: indispeost&#x27;si-si: cond}
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808032601:0416/pct:31.453297523127425,5.665773011617516,46.6577141151895,91.63538873994638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808032601:0416/pct:31.44860510219305,5.665266732195514,46.65572629171018,91.63017901289727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1047,7 +1047,7 @@ and not British su bjects, may have such an
 inﬂuence on the conduct us all, and perhaps  
 on the opinions cssomc unacquaintcd with th;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808032601:0416/pct:55.43121456281707,84.28060768543342,21.948672038197554,13.22609472743521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808032601:0416/pct:55.42294495002238,84.27307657939416,21.950370480879208,13.227891460399727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1078,7 +1078,7 @@ squalmn &#x27;zerc, or other occurrehccfiz Sf&#x27;o&#x27;ctsi
 require immediate measures beyond: ;.u­  
 thovisssiy of the exccutisctc. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808032601:0416/pct:78.52879737391824,50.72386058981233,20.158161742763355,13.083109919571045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808032601:0416/pct:78.51708190362524,50.71932803145385,20.160127306181312,13.084919429303309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1163,7 +1163,7 @@ United States alone. b
 The nature ai d extent of &#x27; svUfactioi  
 ought lobe suggested to *! r; r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032901:0110/pct:59.68425105891413,16.36386261821802,18.540623796688486,38.07864609258338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032901:0110/pct:59.672762271414825,16.361826552196092,18.543471286493425,38.07805565924267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1369,7 +1369,7 @@ hef or other occurrences, should rt a*
 quite immediate measures beyor.d the au*  
 thority of the cxccnti*.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032901:0110/pct:59.68425105891413,4.342956694873071,37.8898729303042,89.26082628173221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032901:0110/pct:59.672762271414825,4.342416324499191,37.888995829323065,89.25386752934345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1409,7 +1409,7 @@ every t .p aii..tum that rati throw lignt o.,
 the probable turn and iw&gt;tic ot things With  
 Great Britain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032901:0110/pct:78.39815171351559,74.82578397212544,18.23257604928764,14.982578397212544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032901:0110/pct:78.38306063522617,74.81647380863507,18.235482836060314,14.984861681390237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1685,7 +1685,7 @@ I have the honour to be, 4c. 1
 (Signed)  
 JAMES MADISON. .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040101:1062/pct:3.9195724102825147,14.973434229592659,67.59989819292441,82.64369666720334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040101:1062/pct:3.9185750636132317,14.97102382485512,67.58905852417303,82.63441725692209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1995,7 +1995,7 @@ ble turn and issue of things with G. Bri­
 tain.  
 I have the honor to be, See
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040101:0430/pct:22.798770565901282,9.768637532133676,54.18549990960043,84.51462847349737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040101:0430/pct:22.79464931308749,9.767441860465116,54.18173053747891,84.50836393308853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2759,7 +2759,7 @@ It is probablc, however, that the legiflajure
 - will be WNWW 203  
 R e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808041201:0057/pct:41.261316556697864,13.42328835582209,51.86435476446218,84.39780109945028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808041201:0057/pct:41.27154621246995,13.426620023321673,51.85923993657613,84.40113276694986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2797,7 +2797,7 @@ from you, will need every explanation that
 can throw light on theprobable turn and issue  
 of things with Great Britain. ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808041201:0058/pct:7.036411123060378,5.012028869286287,17.345214318635737,14.394546912590217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808041201:0058/pct:7.041532237414861,5.018711574445335,17.350335432990217,14.39788826516974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3413,7 +3413,7 @@ tified by occurrence:-, p: i »r to the extra*,
 ordinary outrage i.u rj ie:;tion.  
 Idle exclusion of all armed ship*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808041401:0372/pct:11.6688567674113,12.39819004524887,82.81208935611038,80.20361990950227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808041401:0372/pct:11.665790856542301,12.395385659353087,82.79908915747066,80.19301817085125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3619,7 +3619,7 @@ conduct on the present occasion by the
 advices they may receive from you, will  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808041401:0373/pct:4.476397178513293,8.323452691486839,85.6212696690179,84.34906331515295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808041401:0373/pct:4.475183075671278,8.321479374110954,85.60708796672995,84.33696854749486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3635,7 +3635,7 @@ IK cd every explanation that can threw
 light on the probable turn and issue of  
 things with Great Britain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808041401:0374/pct:10.77127659574468,10.91157081154808,26.861702127659573,3.8190497840418276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808041401:0374/pct:10.768412656208454,10.909090909090908,26.86342284853319,3.8257575757575757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3656,7 +3656,7 @@ Mr. Monroe, Mr. Madison says—“ But the present case is
 communicated by hint to bug commander previous to the coin.  
 &quot; meitcernvnt of the attack 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808060901:1176/pct:49.12988650693569,83.13999682186557,21.41235813366961,3.686635944700461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808060901:1176/pct:49.11749873928391,83.12678741658722,21.413262733232475,3.690022243406419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4180,7 +4180,7 @@ as a preliminary to a discussion of the nature and
 extent of the reparation wc should recaive, is a  
 proof that the abandonment of the right to ini
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808062401:0067/pct:58.92366831411312,49.729661762856786,17.883946549514917,9.719602665660757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808062401:0067/pct:58.912884333821374,49.723409605230074,17.886774036115177,9.722571452518649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4210,7 +4210,7 @@ British demanding the revocation of the proclama­
 tion of the president, as a preliminary to a discussi­  
 on of the nature and extent of the reparation w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062901:1203/pct:72.84919028340082,7.668908101184758,21.912955465587043,10.1024655779699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062901:1203/pct:72.83076144700227,7.667680486633584,21.913736402732102,10.104850328157516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4230,7 +4230,7 @@ It was the exercise of this &quot;exaiious
 claim to impress our seamen that led  
 to the attack made on theChesape die
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808091601:0003/pct:41.97979797979798,28.08483290488432,16.848484848484848,3.9845758354755785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808091601:0003/pct:41.99326599326599,28.093401885175663,16.835016835016834,3.988860325621251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4334,7 +4334,7 @@ the flag of the United chutes, if not already arrang­
 ed, is ..Iso to make an inilisficmible part of the satis­  
 faction.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809051501:0477/pct:52.45,69.42996742671009,21.175,6.514657980456026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809051501:0477/pct:52.43689077730567,69.41866145578896,21.17595601099725,6.517668132226022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4423,7 +4423,7 @@ thus mingling with the question of redres
 demand—an entire abolition of impressments  
 from vessels under the flag of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813110301:0652/pct:26.162493612672456,67.68544523376838,21.614716402657127,1.4042623492483066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813110301:0652/pct:26.155810983397192,67.67426494879419,21.615581098339717,1.4081598942847704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

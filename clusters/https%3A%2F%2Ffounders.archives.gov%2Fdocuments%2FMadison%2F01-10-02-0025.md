@@ -126,7 +126,7 @@ negativing is absolutely necessary—this is tin; oi.lv at­
 tractive principle which will retain its centrifugal  
 I ire.?, and without this the plane’s will ily tVoui thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821090701:0146/pct:20.529167994899584,6.644713630483359,15.109977685686962,11.689991767611431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821090701:0146/pct:20.52589641434263,6.643932267168391,15.112881806108899,11.692536845406083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ lutely necessary. This is the only attractive prin­
 ciple which will letuin its centrifugal force; and  
 without this, the planets will lly from their orbits.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829022401:0401/pct:33.043192642470025,26.185912793483467,15.388405321070783,4.791566842357451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829022401:0401/pct:33.03776683087028,26.18277638040484,15.391351943076081,4.794985427396495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,13 +331,13 @@ the only attractive principle which will retain it? centri­
 ng*1 lores, and without this the panels will lly from their  
 orbits.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833072301:0093/pct:33.751032773340675,70.14547057527,14.665381437620491,1.6420542208507825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833072301:0093/pct:33.746385790995454,70.13774104683196,14.667951718757172,1.6455463728191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n105/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n105/mode/1up?view=theater)
 
 #### 1845-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -385,7 +385,7 @@ sary to a perfect system,&quot; it was fortunately nega­
 (tived, or, as must now be obvious, it would have  
 been the seed of early destruction of the Govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851011801:0503/pct:0.12333835822940935,46.5378421900161,16.93846786350555,6.849168008588299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851011801:0503/pct:0.1279064455712393,46.54499910538558,16.93846786350555,6.8455895509035605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ stitutional proceedings of the States, would prove as
 visionary and fallacious as the government of Con­  
 gress.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851082301:0526/pct:34.61321287408244,111.81797074529835,18.64765669113495,10.401671697237056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851082301:0526/pct:25.967240892403275,83.86347805897377,13.993222253600678,7.801253772927792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ of the Whole, divested of the co-crcive prin­
 ciple, as embodied in the last clause of the  
 Gth resolution; and, on the loth day of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877662:1852012201:0137/pct:41.836158192090394,65.15073034289858,34.13841807909605,13.363721122966954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877662:1852012201:0137/pct:31.3930488838655,48.86563762560862,25.61458038994066,10.027970579094582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ Mr. I&#x27;inckncy moved:
 authority to negative all laws which they i  
 should judge to lie improper, lie urged that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860100901:0331/pct:51.16587175410705,67.13210536739949,11.72496025437202,1.9508813626460686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860100901:0331/pct:51.16587175410705,67.13540635109263,11.729376435258787,1.9574833300323495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ which had been stated were worthy of attention,
 and ought to he answered before the question  
 was put
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860100901:0331/pct:51.04663487016428,75.94573182808477,12.652358240593534,2.000396118043177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860100901:0331/pct:51.051051051051054,75.95233379547105,12.656774421480304,2.000396118043177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ I compact situation, acting on the defensive.
   
 and at one of its extremities, might ato e i e o e o e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1861011201:0489/pct:247.11484593837534,44.291272929405224,135.3501400560224,332.4068927181768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1861011201:0489/pct:61.80467983746672,11.072818232351306,33.85175844192238,83.1017231795442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ and propositions under hich an oni e a oee io o
 tences used from their context--by sup  
 pressing those circumstances, and the ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1861011201:0489/pct:292.3809523809524,54.87493051695386,90.0280112044818,24.1467481934408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1861011201:0489/pct:73.12596328989771,13.718732629238465,22.516463500070056,6.0366870483602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ was vehement against the negative in the oe oe an oe a on ooa
   
 proposed 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861012701:0042/pct:101.70893054024256,212.21734728315897,69.1289966923925,32.30959613004838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861012701:0042/pct:25.43424317617866,53.05433682078974,17.28701406120761,8.077399032512094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ Guided by these principles, the result of their
 labors was  
 3d. The Constitution of the United States, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032701:0294/pct:248.39246119733926,158.78249841471148,44.290465631929045,25.449165081378144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032701:0294/pct:62.10672210672211,39.69562460367787,11.074151074151073,6.362291270344536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ ces, if exerted to the utmost, enforce a na
   
 tional decree against Massaehnsetts? I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1861060601:0685/pct:36.41467065868263,45.99886492622021,17.21556886227545,3.887627695800227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1861060601:0685/pct:27.3357049241715,34.50624290578887,12.918929039505711,2.922814982973893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -806,7 +806,7 @@ States, formed on the supposed practi­
 cability of using force against the unconstitu­  
 tional proceedings of the Slates, would prov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1861060701:0480/pct:52.2672260771341,80.61459978136767,14.765208972083267,14.101785497388558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1861060701:0480/pct:52.272605023936315,80.62269727519333,14.765208972083267,14.097736750475727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ sources, if exerted to the utmost, enforce a
   
 national decres against Massachusetts, abet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861061101:0346/pct:30.440097799511,137.90597320009084,36.98044009779951,21.80331592096298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861061101:0346/pct:7.61118752865658,34.47649330002271,9.246523001681187,5.450828980240745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -883,7 +883,7 @@ at nr st, enforce a national decree against
 Massachusetts? It would n I be possible.  
 Any Government for the United Stales
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1863052301:0079/pct:78.27397776521575,38.21846908199401,14.169964198228755,3.4459275401797873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1863052301:0079/pct:78.27397776521575,38.22187414873331,14.174674957603166,3.45954780713702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -912,7 +912,7 @@ abetted, perhaps, by several of her
 neighbors? It would not be poss­  
 tble. ewander Hamilton, who itts wel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1864030301:0778/pct:83.05647840531562,69.50041402152912,113.20598006644518,298.3715153187966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1864030301:0778/pct:20.768431983385256,17.37510350538228,28.3073727933541,74.59287882969915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1027,7 +1027,7 @@ tor the United States,, foimed on the sup­
 posed practicability of ming lone against  
 tlie niiOonsliliitiomd proceedings of ih
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1864072701:0018/pct:58.900226757369616,77.60643205483063,16.572184429327287,15.526558587056808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1864072701:0018/pct:44.19659735349716,58.204824041122976,12.438563327032137,11.651509160405958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1057,7 +1057,7 @@ Legislature should have authority to
 negative all laws (of States) which they  
 should judge to be improper.&quot; Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031601:0246/pct:105.34069981583794,282.54319893664155,38.48987108655617,9.481612760301285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031601:0246/pct:26.339217191097468,70.63579973416039,9.623944742900997,2.3704031900753213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ not be possible. Any government for the
 United States formed on the supposed prac­  
 ticability of using force against the unconsti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882061801:0511/pct:132.73809523809524,115.6065870977489,49.404761904761905,40.67079619277837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882061801:0511/pct:33.18452380952381,28.901646774437225,12.351190476190476,10.167699048194592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1417,7 +1417,7 @@ May not this power be useless in the Sena­
 torial branch? This will probably be always  
 sitting.” (Yates minutes, page 459.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340196:1894020101:0123/pct:14.35862538278326,29.881154499151105,11.058183055461042,2.178834182229768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340196:1894020101:0123/pct:14.356183024323865,29.876927429622295,11.060554516074163,2.182062526524261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

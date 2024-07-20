@@ -65,7 +65,7 @@ years in r. ;ng, at. t;v» expense of so much treasure 1
 ! and blood, rr ist fall. Wc are fait verging to anarchy j  
 ! and confusion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828101101:0331/pct:58.47003154574133,74.12520828374197,18.170347003154575,12.723161152106641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828101101:0331/pct:58.460810597697524,74.1163870046412,18.172738264206487,12.725613868062993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ the eipensa of so much treasure and bl &gt;od, must fall. Wr
 are fast verging to anarchy and contusion.  
 ? ??as *e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850082401:0938/pct:47.75363502695638,83.30192235205428,15.994118608070577,7.5511998994848595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850082401:0938/pct:47.76452649349235,83.31029861372869,15.988672874802592,7.555388030322067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ energetic constitution, well ohcclii&#x27;d ?nd well waicbed, to
 prevent e&gt; rroaeluneti.s, might restore us to that degree of  
 respectability and consequence so which we had tho Uires
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850082401:0938/pct:47.93334422479987,90.85312225153913,15.863421009638948,2.977761025254429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850082401:0938/pct:47.93878995806785,90.85731038237634,15.879758209442901,2.9861372869288436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ well watched, to prevent encroachments, might restore
 us to that degree of respectability and consequence to  
 which we had the fairest prospect ot attaining
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348355:1850083101:0065/pct:24.25629290617849,70.79912424740012,14.225781845919146,12.014230979748222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348355:1850083101:0065/pct:24.251668255481412,70.78943767957313,14.227836034318399,12.016007661786839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ If there is not power in it to check them, whst
 security ha* a man for life, liberty or prosperity?  
 (vide the homes snd farms in Missouri and Ken
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861111601:0179/pct:25.164305535270923,70.66974595842956,10.997517160800351,2.793357527768613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861111601:0179/pct:25.169173847427096,70.67341178195682,11.002385472956526,2.793357527768613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ Madison he wrote: Thirteen sovereiguties pulling
 against each other, and all tugging at the Federal head,  
 will soon bring ruin on the whofe. To Knox he said
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531058:1870072601:0600/pct:104.83378834109523,75.30793139173477,46.7801509555163,13.007942903188672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531058:1870072601:0600/pct:34.94459611369841,25.102643797244927,15.593383651838767,4.335980967729558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ and no day was ever more
 clouded than the presentt. We are fast verging  
 to anarchy A confusion! How mel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038590:1892112801:0394/pct:6.651300625617385,9.616034230379462,96.60849522555154,286.4880081071951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038590:1892112801:0394/pct:2.2171002085391285,3.2053447434598206,32.20283174185051,95.49600270239839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

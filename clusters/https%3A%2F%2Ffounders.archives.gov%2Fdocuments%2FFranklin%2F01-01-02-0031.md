@@ -209,7 +209,7 @@ L&#x27;dom and use the same with me. lam dear
 Jenny, your loving brother.  
 t B. FraxgrLix.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833101501:0285/pct:63.69932188717357,77.29591836734694,14.182657625162314,13.998724489795919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833101501:0285/pct:63.70894050882509,77.29946145124717,14.177848314336556,13.995181405895691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ use the same with mc. I am.
 Jenny,your loving brother.  
 B. Faasaua.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82016416:00271744730:1833101901:0162/pct:97.33169129720854,98.47317551477798,23.132183908045977,13.503291777559882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82016416:00271744730:1833101901:0162/pct:73.03901437371663,73.8618854181258,17.351129363449694,10.127468833169912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ lovely than an angel. Excuse this freedom
 and use the same with me. I am, dear Jen­  
 ny, yotir loving brother, f B. Fianioj*.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1833102401:0985/pct:40.43153861665658,64.87894144144144,17.120387174833635,17.83502252252252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1833102401:0985/pct:40.42338709677419,64.8698099929627,17.121975806451612,17.83603096410978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ same with me.
 “1 am, dear Jenny, your loving brother,  
 “B. Fiunkun.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851061701:0071/pct:53.7037037037037,16.011800992356175,12.78825995807128,15.783827276384605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851061701:0071/pct:53.69432314410481,16.00965406275141,12.790393013100436,15.785063019576294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ you a spinning wheel, which I hope you
 will accept as a small token of my sin­  
 cere love and affection.&quot; And in thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768832:1898112901:0252/pct:56.40670278442737,22.30684529271426,12.460627441098652,6.918700679023674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768832:1898112901:0252/pct:56.40670278442737,22.309903957912766,12.464827180714796,6.924818009420688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ angel. Excuse this freedom, and use
 the same with me. I am, dear Jenny,  
 your loving brother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768832:1898112901:0252/pct:56.44450044097266,30.244081482840887,12.422829784553358,5.496421361717746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768832:1898112901:0252/pct:56.4487001805888,30.244081482840887,12.418630044937213,5.505597357313269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ ning wheel, which I hope you will ac­
 cept as a small token of my sincere love  
 and affection.” And in this monitor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1898120101:0380/pct:46.56405809668328,12.490514493853391,17.64578365488836,10.547882835028076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1898120101:0380/pct:36.08668869350955,9.687916568650513,13.680909447275578,8.166705873127892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ Excuse this freedom, and use the same
 with me. I am, dear Jenny, your lov­  
 ing brother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1898120101:0380/pct:46.69412529807067,23.87312186978297,17.537394320398874,8.574897556533617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588496:1898120101:0380/pct:36.19308954471636,18.505449698110247,13.596908775270203,6.64941582372775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ ning wheel, which 1 hope you will accept
 as a small token of my sincere love and  
 affection.&#x27; And in this monitory strai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479925:1898121401:0416/pct:5.218504882343525,13.642428285523682,14.006723227149031,7.026906826773405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479925:1898121401:0416/pct:5.229176671468972,13.646134460010376,14.006723227149031,7.030613001260099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -761,7 +761,7 @@ more lovely than an angel Excuse this
 freedom and use the same with me 1 am  
 doar Jenny, your loving brother.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479925:1898121401:0416/pct:5.218504882343525,21.11407605070047,13.990715543460862,5.537024683122081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479925:1898121401:0416/pct:5.229176671468972,21.121488399673858,13.996051438023585,5.5444370320954715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -790,7 +790,7 @@ ning wheel, which I hope you will ac­
 cept asa small token of my sincere love  
 und affection.”” And in this monitor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_juanita_ver01:data:sn84002889:0051368101A:1898122201:0587/pct:32.599724896836314,55.709449061249614,12.320691687954412,8.433364112034472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_juanita_ver01:data:sn84002889:0051368101A:1898122201:0587/pct:32.609550009825114,55.709449061249614,12.325604244448812,8.452600800246229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ Excuse this freedom, and use the same
 with me. I am. dear Jenny, your lov­  
 ing brother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_juanita_ver01:data:sn84002889:0051368101A:1898122201:0587/pct:32.34427195912753,64.83533394890736,12.5171939477304,6.879039704524469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_juanita_ver01:data:sn84002889:0051368101A:1898122201:0587/pct:32.35409707211633,64.83533394890736,12.512281391236,6.890581717451523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ ning wheel, which I hope you will ac- i
 cept as a small token of my sincere love j  
 und affection.&quot; And In this monitor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_navy_ver01:data:sn95079154:00175031236:1899031601:0451/pct:37.690149165559,31.224511136672593,12.228622064687638,7.57084596883823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_navy_ver01:data:sn95079154:00175031236:1899031601:0451/pct:37.69999507704426,31.224511136672593,12.233545020430267,7.577817281885043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -935,7 +935,7 @@ Excuse thi6 freedom, and use the same
 with me. I am, dear Jenny, your lov?  
 ing brother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_navy_ver01:data:sn95079154:00175031236:1899031601:0451/pct:37.67538029833112,39.1195231621876,12.15477772854822,6.263724772560912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_navy_ver01:data:sn95079154:00175031236:1899031601:0451/pct:37.68030325407375,39.12649447523441,12.15477772854822,6.263724772560912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

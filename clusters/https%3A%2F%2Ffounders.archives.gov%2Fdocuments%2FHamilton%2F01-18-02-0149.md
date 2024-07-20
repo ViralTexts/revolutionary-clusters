@@ -40,7 +40,7 @@ cessary, to authorise any person or per­
 sons, at his discretion, to perform the du­  
 ties ol the said respective offices, until 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813111201:0099/pct:26.65466006303467,23.84367681498829,21.94957226474561,7.377049180327869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813111201:0099/pct:26.6486608147648,23.840187326211034,21.952134443694202,7.380847846236402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ months.
 Sect. 2. And be it further enacted, that all  
 acts or parts of acts inconsistent with the pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172121:1863022601:0193/pct:39.04913467276706,29.71851851851852,15.854386313904913,11.851851851851851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172121:1863022601:0193/pct:30.2739092450794,23.03570745149068,12.287373451873169,9.185196524933982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ vested in the President, at his discre­
 tion, to perform the duties of the said  
 respective offices until a successor b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028472:1868030601:0254/pct:69.63411120714491,59.89477075056373,12.172284644194757,10.394072801460323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn82005159:00296028472:1868030601:0254/pct:69.64371458753482,59.89477075056373,12.181888024584653,10.397652027631626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ think it necessary, to appoint any person or
 persons, at his discretion, to perform the  
 duties of the said respective offices, until 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528694:1868040201:0316/pct:23.464296850639226,104.64442900162149,31.727471156844402,11.697938383136437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528694:1868040201:0316/pct:7.821432283546409,34.881476333873835,10.575823718948135,3.8993127943788126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ appointment is vested in the President, at
 his discretion, to perform the duties of the  
 said respective offices until a successor b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293551:1868040801:0235/pct:231.39988845510317,320.12741389607805,50.1952035694367,5.614174795938682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293551:1868040801:0235/pct:57.84997211377579,80.03185347401951,12.548800892359175,1.4035436989846706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ in case he shall think it necessary, to authorize any person or
 persons, af his discretion, to perform the duties of the said  
 respective offices until a successor be appointed or such
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868041101:0135/pct:102.08820581356498,155.470534490635,50.35081857667892,8.154408405664688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868041101:0135/pct:34.02940193785499,51.82351149687833,16.783606192226305,2.7181361352215623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ duties of said respective offices, until a successor be ap
 pointed, or such vacancy be filled. Prorided that no one  
 vacancy shall be supplied in manner aforesaid for 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868050201:0015/pct:54.24168446750076,98.94829097283085,47.07049130302106,12.905346187554777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868050201:0015/pct:18.08056148916692,32.982763657610285,15.690163767673685,4.301782062518259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ cancy? That is the language of the Statute. Am I to
 arghe, Senators, that this term, &quot;any one vacancy,&quot; ex­  
 ie conclusion that the President could, up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868050701:0047/pct:56.833333333333336,131.0641542315652,47.09090909090909,23.86450277747522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868050701:0047/pct:18.944444444444443,43.68805141052173,15.696969696969697,7.954834259158407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ ie conclusion that the President could, up
 “authorize any person or persons, at his dis­  
 cretion, to perform the duties,” &amp;c. The act o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525255:1868060101:0459/pct:73.11374330683108,45.20859383880868,10.887554762291092,0.6593156757985676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525255:1868060101:0459/pct:73.10188189487346,45.20345533075699,10.889844256975989,0.6620822914298704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

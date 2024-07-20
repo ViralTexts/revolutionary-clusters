@@ -140,7 +140,7 @@ duty, we have r.o u#&gt;re to fear for thu ds- d
 :nce of our country, thr.u those who have the  
 esourccs of dcspotifeui and pauperism.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862041801:0365/pct:38.72085276482345,71.92756778151593,13.644237175216523,21.116168612705323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862041801:0365/pct:38.7297357317344,71.93086615212086,13.644237175216523,21.119466983310243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ dated October 11th of that year, in which
 he sets it down at three hundred millions.  
 While enforcing his views upon the Pres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862120901:0486/pct:124.10047522063816,246.59685863874344,48.40461642905635,27.015706806282722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862120901:0486/pct:31.030385333559668,61.64921465968586,12.10320828382278,6.7539267015706805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ the targer purposes of circulation, but
 not for the small. Leave that door open  
 for the entrance of metallic money.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863012801:0069/pct:328.1391830559758,165.10339235031762,52.344931921331316,74.06406271117719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863012801:0069/pct:82.05031208624929,41.275848087579405,13.088708152071117,18.516015677794297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ That rose and fell so gradually that it
   
 kept all on their guard, and affected se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873121801:0661/pct:134.3042071197411,166.5135699373695,51.37540453074433,45.650661099512874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873121801:0661/pct:33.58284442646166,41.62839248434238,12.846449524580214,11.412665274878218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ the small. Leave that door open for the
   
 ment of labor and the payment o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873121801:0661/pct:133.98058252427185,164.34237995824634,157.03883495145632,103.10368823938761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873121801:0661/pct:33.5019219097714,41.085594989561585,39.26765122395307,25.775922059846902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ structed to tdo so, when they have cash; r e i not eleve in hanging
 thus, in some measure, performing thea an a ease i the eer ea  
 functions of a bank as to their own noteso a oor man ho had our ttals fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873121801:0661/pct:132.84789644012946,267.61308281141265,105.09708737864078,12.080723729993041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873121801:0661/pct:33.218693101355456,66.90327070285316,26.27958729516488,3.0201809324982603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ hands of the people for property sold and
 they formally declare that they will not  
 pay. From the start of the U, S. Rank t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053943:00295873206:1877032801:0504/pct:10.028160200250312,106.91550263338677,16.45807259073842,4.408060453400504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053943:00295873206:1877032801:0504/pct:7.527386541471048,80.19235172887566,12.347417840375586,3.30890771696817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ otism and confidence will make us
 eager to receive treasury notes, it  
 founded on specific taxes.”—Jefl&#x27;er
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090801:0160/pct:31.966431432386038,45.134408602150536,12.740797253480832,2.8225806451612905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090801:0160/pct:31.960335621662853,45.12834296465529,12.743135011441648,2.825561080499933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ which, ns they come in, should be
 exchangeable tor the notes of that  
 particular emission only.”—.Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090801:0160/pct:32.11901583063132,48.696236559139784,12.588212855235552,3.8844086021505375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090801:0160/pct:32.11289092295957,48.6896922456659,12.590579710144928,3.887246337857815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ otism and confidence will make iis
 eager to receive treasury notes, if  
 founded on specific tores.”—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887091501:0163/pct:41.87826736370425,53.14694759589411,12.565347274085138,2.8092922744462454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887091501:0163/pct:41.87044987866343,53.13977042538825,12.56766847115923,2.812288993923025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ which, ns they come In, should he
 excliaiigesble for the notes of that  
 particular emission only.’’—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887091501:0163/pct:41.99029126213592,56.82063749324689,12.453323375653472,3.916801728795246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887091501:0163/pct:41.98245286540975,56.81296421336935,12.455665484412918,3.9196488858879137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ which, as they come in, should he
 exchangeable for the notes of that  
 particular emission only.’’—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092201:0167/pct:55.199550309162454,56.67342799188641,12.460183623758667,3.8810006761325218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092201:0167/pct:55.18920944173848,56.66576527852894,12.462532783814163,3.883856138453218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ which, ns they come in, should he
 exchangeable for the notes of that  
 particular emission only.”—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092901:0171/pct:56.11577964519141,56.62390276839973,12.380952380952381,3.8217420661715056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092901:0171/pct:56.105302464525764,56.61625708884688,12.383308439133682,3.8246016743181204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ which, as they come in, should he
 exchangeable for the notes of that,  
 particular emission only.”—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887100601:0175/pct:57.03508110147114,56.70534268753373,12.485854394568088,3.845116028062601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887100601:0175/pct:57.02432585329059,56.69769324160259,12.488214218366963,3.8479697828139754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ otism and confidence will make us
 I eager to receive treasury notes, if  
 founded on speeijie taxes.”—Jidler
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887101301:0179/pct:55.04169825625474,52.759411685332616,12.926459438968916,2.7526649574956146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887101301:0179/pct:55.03126776577601,52.75229357798165,12.928747394352852,2.7556664867781975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ which, as they come in, should he
 exchangeable for the notes of that &gt;  
 particular emission only.”—Jeft&#x27;er
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887101301:0179/pct:55.04169825625474,56.40264471731211,13.153904473085671,3.8321414114154635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887101301:0179/pct:55.03126776577601,56.39503507825148,13.156149327269281,3.8349973016729626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ otism and confidence will make us
 eager to receive treasury notes, if  
 founded on xpeeijie lurex ,,~Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102001:0183/pct:55.8108621344474,53.078584931136916,12.837067983289025,2.7950310559006213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102001:0183/pct:55.80026580596165,53.07141892804104,12.83937725460414,2.7980288915890372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ which, as they come in, should be
 exchangeable for the notes of that  
 particular emission only.’’—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102001:0183/pct:55.905810862134445,56.65676478530921,12.628180782377516,3.861733729408588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102001:0183/pct:55.89519650655022,56.64911570136358,12.630529713309285,3.864587552315377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ which, as they come in, should he
 ••xchniircuhlo for the notes of tiiat  
 particular emission only.’’—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102601:0187/pct:55.0531914893617,56.92473990001351,12.6709726443769,3.8373192811782193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102601:0187/pct:55.042735042735046,56.91704944609565,12.673314339981006,3.840178330181032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ otism and confidence will make us
 eager to receive treasury notes, if  
 founded on specific taxes.”-—Jefle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110201:0191/pct:56.36810279667422,53.04347826086956,12.698412698412698,2.785326086956522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110201:0191/pct:56.35745324012847,53.036272245618804,12.700736822218024,2.7883439750033965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -831,7 +831,7 @@ which, as they come in, should be
 exchangeable for the notes of that  
 particular emission only.’’—.letter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110201:0191/pct:56.40589569160998,56.60326086956522,12.603930461073318,3.8722826086956523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110201:0191/pct:56.395238994898925,56.59557125390572,12.606272435291896,3.875152832495585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ which, as they come in, should he
 exchangeable for the notes of that  
 particular emission only.”—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110901:0195/pct:55.311494035220605,57.01277521065507,12.55444044688506,3.8869257950530036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110901:0195/pct:55.30102234002272,57.005027857045796,12.556796667928815,3.8897948090773204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ otism and confidence will make us
 eager to receive treasury notes, if  
 founded on specific tores.11—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887111601:0199/pct:55.29141104294479,53.14029363784665,12.940950920245399,2.759651984774334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887111601:0199/pct:55.28081272762124,53.13307054505913,12.943262411347519,2.762675003398124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -892,7 +892,7 @@ which, as they come in, should be
 exchangeable for the notes of that  
 particular emission only.”—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887111601:0199/pct:55.46395705521472,56.70201196302338,12.998466257668712,3.8743882544861337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887111601:0199/pct:55.45332566609162,56.69430474378143,13.00076672417098,3.8772597526165558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -913,7 +913,7 @@ which, as they come in, should he
 exchangeable for the notes of that  
 particular ^mission only.’’—.Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887120701:0211/pct:68.88512878360594,55.23591880629117,12.427147960142884,3.8311601021642696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887120701:0211/pct:68.87218045112782,55.22849462365591,12.42951127819549,3.834005376344086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ otism and confidence will make in
 eager to receive treasury notes, if  
 founded on specific tarts ”—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887121401:0215/pct:67.7782012195122,52.755585646580904,12.785823170731707,2.775897088693297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887121401:0215/pct:67.76528862640502,52.74844300027078,12.78815012383311,2.7789060384511237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -953,7 +953,7 @@ which, ns they come in, should be
 exchangeable for the notes of that  
 &#x27; particular emission only.”—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887121401:0215/pct:67.5876524390244,56.059580230196346,12.93826219512195,3.8727149627623563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887121401:0215/pct:67.57477614783768,56.05199025182778,12.940560106686988,3.8755754129434066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ which, aa they come in, should be&#x27;
 exchangeable tor the notes of that  
 particular emission only.”—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888011101:0227/pct:69.5346628679962,55.93905891870028,12.858499525166192,3.802076311177026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888011101:0227/pct:69.52145841245728,55.931517929361014,12.860805165210786,3.8049339444594232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -995,7 +995,7 @@ which, as they come in, should be
 exchangeable tor the notes of tli it  
 particular emission only,’’—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888011801:0231/pct:68.97658610271904,56.31685849695328,12.424471299093655,3.8185511171293163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888011801:0231/pct:68.96356428166887,56.30923368535066,12.426845384179725,3.8214189006228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1016,7 +1016,7 @@ which, as they come in, should ho
 exchangeable for the notes of that  
 particular emission only,’’— .IdVer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888012501:0235/pct:68.84841586036805,56.29049676025918,12.464428002276607,3.806695464362851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888012501:0235/pct:68.83535660091047,56.28289917667701,12.466805766312595,3.8095559454717236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ otism and contidence will make us
 eager to receive treasury notes, ifj  
 founileil on specific hues.”—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020101:0239/pct:68.62153498019988,53.393726338561386,12.86064491797096,2.7312060573282855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020101:0239/pct:68.60859728506787,53.38650804380154,12.862933634992459,2.734216574286873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1056,7 +1056,7 @@ which, as thc\ come in, should he
 exchangeable for the notes of that  
 particular emission only.”—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020101:0239/pct:68.75353573448992,56.6928069226609,12.728644163680935,3.8399134667387775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020101:0239/pct:68.74057315233786,56.68514262538867,12.730957767722474,3.842774097607138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ otisin and confidence will make n­
 eager to receive treasury notes, if  
 founded on specific taxesV—Jidle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020801:0243/pct:69.70494267994738,53.252361673414306,12.422476978011652,2.7125506072874495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020801:0243/pct:69.69184517098834,53.24517608959655,12.424840285606916,2.71555795439212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1096,7 +1096,7 @@ which, as they come in, should be
 exchangeable for the notes of that  
 particular emission only.”—Jeffcr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020801:0243/pct:69.66735576019545,56.51821862348178,12.685585416275137,3.805668016194332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020801:0243/pct:69.65426531379181,56.51059236270409,12.687899285982713,3.808527863985967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1117,7 +1117,7 @@ and eonlidence will make us eager to
 receive treasury notes, if rot ni&gt;ki&gt;  
 OS -n:- in. TASKS.—Jcff&#x27;ctsoil&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888021501:0247/pct:68.90946890946891,50.91916734252501,12.549612549612549,3.825358204920249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888021501:0247/pct:68.89644746787604,50.91228544397892,12.55196523053666,3.828220029733748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1138,7 +1138,7 @@ Ms they come in. should lie exchange­
 able for the notes of that particular  
 emission only.”—Jefferson** works
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888021501:0247/pct:68.90946890946891,55.89348472560151,12.549612549612549,3.7307380373073804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888021501:0247/pct:68.89644746787604,55.88593053115286,12.55196523053666,3.7336126503581566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1157,7 +1157,7 @@ and confidence will make u» eager to
 receive treasury notes, if koi Ni&#x27;Kn  
 on -cr • i k ii tanks.—Jefferson&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022201:0251/pct:68.6391637110323,52.11778943122227,12.376330035467612,2.6220250100847116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022201:0251/pct:68.62635311683464,52.11078246840548,12.378686076894363,2.6250336111858026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1176,7 +1176,7 @@ and confidence will make ns eager to
 receive treason notes, if koi noko  
 on seta ine tanks.—Jefferson&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022901:0255/pct:67.03585507790501,52.18208674634081,12.427257368124648,2.605075869477642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022901:0255/pct:67.02327327327328,52.17508055853921,12.429617117117116,2.6080827067669174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1197,7 +1197,7 @@ as they come in. should be exchange­
 able for the notes of that particular  
 emission onlv.”-—Jefferson’s works
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022901:0255/pct:67.03585507790501,56.15684168121391,12.427257368124648,3.692762186115214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022901:0255/pct:67.02327327327328,56.149301825993554,12.429617117117116,3.6956229860365197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1218,7 +1218,7 @@ as they come in. should he exchange­
 able for the notes of that particular  
 emission only.&quot; - Jefferson’s works
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888030701:0259/pct:68.13623462630085,56.763675559148474,12.469252601702934,3.7186742118027487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888030701:0259/pct:68.12334468407113,56.75602855988145,12.471623155505108,3.7215411558669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1237,7 +1237,7 @@ and conlideiice will make nv eayAr to
 receive treasury notes, if rot xnt.ii  
 ON &#x27;I&#x27;lHIli TAXI.&#x27;. JcITcr-otl’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888031401:0263/pct:67.11306676870097,52.7027027027027,12.607614310311842,2.635135135135135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888031401:0263/pct:67.10022953328233,52.6955816781516,12.609984697781178,2.638157005810026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1261,7 +1261,7 @@ Vol. VI. I*. :!.S2.
 &quot;■ Treasury notes of small a- well  
 as hit*h denominations, bottouivd o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888031401:0263/pct:67.09393533575665,56.729729729729726,12.62674574325617,5.945945945945946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888031401:0263/pct:67.08110175975517,56.722064585866775,12.62911247130834,5.948520470206729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1280,7 +1280,7 @@ and confidence will make us cajjer to
 receive treasury notes, if koi xtn.ii  
 on sCKl IKll TANKS.—Jefferson’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032101:0267/pct:67.66340808894,52.311632295457606,12.670116925436075,2.614907669497237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032101:0267/pct:67.65044078190877,52.304582210242586,12.672479877347643,2.6179245283018866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1301,7 +1301,7 @@ as they come in. should be exchange­
 able for the notes of that particular  
 emission onlv.&quot;—Jefferson’s works
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032101:0267/pct:67.66340808894,56.20703598867772,12.670116925436075,3.7201779215527697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032101:0267/pct:67.65044078190877,56.19946091644205,12.672479877347643,3.723045822102426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1321,7 +1321,7 @@ and confidence will make us eager to
 receive treasury notes, if kui niikii  
 on sen irn tanks.—Jefferson’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032801:0271/pct:68.09433962264151,52.66495749561463,12.49056603773585,2.6042369450816354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032801:0271/pct:68.08149405772495,52.65785213167836,12.492925863044709,2.6072584997301673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1344,7 +1344,7 @@ emission onlv.”— Jefferson’s works.
 Vol. VI. 1*.  
 “Treasury note- ot -mall a-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032801:0271/pct:68.0754716981132,56.55107272972608,12.49056603773585,5.478343003643233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032801:0271/pct:68.06262969251085,56.54344306529951,12.492925863044709,5.480976794387479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1364,7 +1364,7 @@ and confidence will make us eager to
 receive treasury notes, if koi \i*ei&gt;  
 on &gt;i i.i ii ii taxes. Jefferson’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888040401:0275/pct:67.20655487804878,50.397734933261425,12.557164634146341,3.775111230955912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888040401:0275/pct:67.193751190703,50.39094095443516,12.559535149552296,3.777972499325964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1387,7 +1387,7 @@ emission only.” Jefferson’s works.
 Yol. VI. I*.  
 &quot;Treasiirx notes of small as wel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888040401:0275/pct:67.22560975609755,55.30537953350411,12.595274390243903,5.285155723338277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888040401:0275/pct:67.21280243855972,55.297923968724724,12.597637645265765,5.287813426799676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ as they conic in. should lie exchange­
 able for the notes of that particular  
 emission only.&quot; Jefferson&#x27;s works
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041101:0279/pct:67.51482686053185,54.866065419302736,12.645877176200498,3.7017095167586485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041101:0279/pct:67.50191277735271,54.85868102288021,12.6482402448355,3.7045760430686405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1429,7 +1429,7 @@ as they come in. should he exchange;
 aide for the notes of that particular  
 emission oiilv.”—.Jefferson&#x27;s works
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041801:0283/pct:67.37263880938752,55.80453563714903,12.726578897157031,3.698704103671706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041801:0283/pct:67.35978634109118,55.797003644216495,12.72892025944296,3.7015791604804966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1448,7 +1448,7 @@ and confidence will make us eager to
 receive treasury notes, if rot kiu-.d  
 on scia ikk r\XK«. — Jefferson’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050201:0291/pct:67.75852218625023,52.25285810356422,12.702342410969338,2.5958305312710155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050201:0291/pct:67.74562071591775,52.24583109198494,12.704683929931456,2.5988434642280795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1469,7 +1469,7 @@ as they come in. should he exchange­
 able for tlie notes of that particular  
 emission onlv.” .Jefferson&#x27;s works
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050201:0291/pct:67.75852218625023,56.03227975790182,12.721386402589983,3.71217215870881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050201:0291/pct:67.74562071591775,56.02474448628295,12.723724295506473,3.715034965034965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1492,7 +1492,7 @@ able for the notes of that particular
 1 emission onlv.&quot;—-Jefferson&#x27;s works.  
 ■ Vol. VI. I*.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050901:0295/pct:68.53718851055736,55.464112250404746,13.315579227696405,4.883971937398813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050901:0295/pct:68.52415367059719,55.45663024416565,13.317801445416508,4.886685552407932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1513,7 +1513,7 @@ I as they come in,should be exchange­
 able for the notes of that particular  
 emission only.”—Jefferson’s works
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888051601:0299/pct:68.55610877058598,55.637982195845694,13.060130218307162,3.7226868087402214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888051601:0299/pct:68.54298295998468,55.630478759271746,13.062416235879763,3.7255563047875926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1536,7 +1536,7 @@ emission onlv.”—Jefferson’s works.
 Vol. VI, I*.  
 ■
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888052301:0303/pct:68.4572739437966,55.22950599003904,12.94207608487861,5.0477857046708845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888052301:0303/pct:68.44418960244649,55.22207267833109,12.944380733944953,5.050471063257066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1624,7 +1624,7 @@ the convictions of the moment; and the
 non-complying may be crowdod into cou  
 currence by legitimate dovices
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536494:1892090101:0005/pct:212.15469613259668,43.37448559670782,50.27624309392265,13.333333333333334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536494:1892090101:0005/pct:53.05332964907433,10.843621399176955,12.572533849129593,3.3333333333333335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1647,7 +1647,7 @@ tions oi the moment; and thenon-concurring
 may be crowded into concur­  
 rence by legitimate devices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297696:1892090801:0940/pct:27.236842105263158,39.55331412103747,19.144736842105264,6.051873198847262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297696:1892090801:0940/pct:20.447564721369023,29.6685878962536,14.37033786748574,4.538904899135447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1670,7 +1670,7 @@ ment; and the non-complying may be
 crowded into concurrence by legitimate  
 devices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1892101401:0117/pct:61.95867534673082,57.31950917911158,13.444664590999151,4.042613906591838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1892101401:0117/pct:61.95867534673082,57.325850534259175,13.458816869515992,4.045784584165636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1702,7 +1702,7 @@ nant with futurity and if not seized at
 once by Congress I know Dot on what  
 sboal our bark is next to be stranded
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1893101301:0412/pct:23.069460613116025,11.558516801853997,15.968180054326737,12.992468134414832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1893101301:0412/pct:17.878803067515413,8.961646398503275,12.385344093027918,10.076707202993452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1737,7 +1737,7 @@ pregnant with futurity, and if not at
 once by congress 1 know not on what  
 shoal our bark is next to be stranded.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473807:1894072501:0539/pct:58.56006160164271,7.1167141114274095,33.12371663244353,137.22041480276536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473807:1894072501:0539/pct:39.050064184852374,4.747864985766571,22.09242618741977,91.4802765351769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1782,7 +1782,7 @@ grass may now borrow of the PW.c
 and without interest all the tnonev  
 thev mav wan . 3 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_flash_ver02:data:sn89067453:00280779945:1895012401:0665/pct:45.15655577299413,96.7990515708358,19.275929549902152,9.14048606994665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_flash_ver02:data:sn89067453:00280779945:1895012401:0665/pct:33.87701843092481,72.60225251926497,14.46746044690915,6.852400711321873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1809,7 +1809,7 @@ t . &quot; . . .
 ai once oy congress i suow not wna,  
 shoal our bark is to be stranded.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_flash_ver02:data:sn89067453:00280779945:1895012401:0665/pct:45.140247879973906,106.66271487848252,19.275929549902152,9.42501481920569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_flash_ver02:data:sn89067453:00280779945:1895012401:0665/pct:33.860707877997065,80.0,14.46746044690915,7.065797273266153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1841,7 +1841,7 @@ nant with futurity and If not*t ones
 by Congress I know not onvphAtghOAM  
 our bark is next to be stranded.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895051501:0191/pct:81.91180736872643,42.15398018076881,12.503626341746447,8.189044974409235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895051501:0191/pct:81.91664249105503,42.15398018076881,12.513296586403635,8.196304766053215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1889,7 +1889,7 @@ brought,. Hut eui bono? The law can
 only uncover their insolvency,by open­  
 ing to its suitors their empty vaults.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891960:1895121501:0300/pct:19.786978697869788,26.6489597166888,12.391239123912392,6.617972554227534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891960:1895121501:0300/pct:19.796979697969796,26.6489597166888,12.38123812381238,6.62166150213959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1966,7 +1966,7 @@ These views of Mr. .Jefferson arc
 applicable to the present times.  
 What he w rote eighty-one years ago
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891960:1895121501:0300/pct:19.786978697869788,38.4904825143869,12.436243624362437,29.869411243913238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891960:1895121501:0300/pct:19.796979697969796,38.49786041021101,12.43124312431243,29.87310019182529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2072,7 +2072,7 @@ of course, and will be so pronounced
 by any court beforo which it shall be  
 brought.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1896050701:0323/pct:18.02760207015526,61.52581387701414,14.821736630247269,6.916584456867259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1896050701:0323/pct:13.531780270348001,46.147100734407545,11.115904515386827,5.184698016003508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2098,7 +2098,7 @@ the proceeds of which, as they came
 in, snouia oe cxcnangeaDio tor tne  
 notes of that particular issue only
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1896050701:0323/pct:18.02760207015526,74.38342650443933,14.893617021276595,7.574262852131974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1896050701:0323/pct:13.531780270348001,55.79305053162337,11.173425366695428,5.677956812452044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2129,7 +2129,7 @@ have cash; thus in so mo measure
 performing the functions of a bank,  
 as to their own notes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1896050701:0323/pct:18.02760207015526,82.04537980927327,14.893617021276595,10.873616135043298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1896050701:0323/pct:13.531780270348001,61.53677518360188,11.173425366695428,8.155212101282473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2226,7 +2226,7 @@ the small. Leave that door ;pen
 for the entrance of metallic  
 money.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn87090065:00296024946:1896091701:1062/pct:13.064913722267871,41.186063750926614,53.163516844700084,23.647146034099332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn87090065:00296024946:1896091701:1062/pct:9.804727646454266,30.89696071163825,39.897225077081195,17.731653076352853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2265,7 +2265,7 @@ particular cinis.i.iu only.&quot; Letter
 to Thomrs Cooper. Esq., Sept.  
 lo, i s j i, Vol. o, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn87090065:00296024946:1896091701:1062/pct:13.167625308134758,64.89251297257228,17.604765817584223,21.022979985174203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn87090065:00296024946:1896091701:1062/pct:9.886947584789311,48.67309117865085,13.216855087358685,15.774647887323944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

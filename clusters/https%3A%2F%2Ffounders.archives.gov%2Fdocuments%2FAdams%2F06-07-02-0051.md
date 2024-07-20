@@ -433,7 +433,7 @@ value of tiic &#x27;Newfoundland Fishery that
 they hail it expressly recognised hy the 13th  
 art. of the T» a-y of Utrerht; end hy the 5t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814060401:0037/pct:57.44058500914077,41.45880574452003,17.513711151736747,7.9743008314436885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814060401:0037/pct:57.430085907512336,41.45358357475752,17.516602692987266,7.977495066549103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ the treaty of Utrecht, and that the French may
 also fich in the GJulf of St. Lawrence; so that they ve  
 do net exercise the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851073001:0170/pct:103.60671936758894,200.1944635094944,53.87022397891963,19.320521619766645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851073001:0170/pct:34.53557312252964,66.73148783649813,17.956741326306545,6.440173873255548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +593,7 @@ Cape Breton as alsoall others, both in the mouth
 of the river St. Lawrence and in the gulf of  
 the same name should hereafter belong of righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070801:0075/pct:53.310810810810814,192.83354221260112,47.87162162162162,36.196878204397855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070801:0075/pct:17.77027027027027,64.27784740420037,15.957207207207206,12.06562606813262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -997,7 +997,7 @@ en the we3t coast was fixed at Cape Ray,
 en the Feuthwest extremity of the island.  
 Thu coast between these 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282395:1890062801:1030/pct:68.51424172440339,274.7546346782988,49.34565050038491,63.794983642311884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282395:1890062801:1030/pct:17.128560431100848,68.6886586695747,12.336412625096228,15.948745910577971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1092,7 +1092,7 @@ side of Notre Dame bay, and the limit
 on the west c-oast was fixed at CV.pe Ray,  
 on the southwest extremity of the island
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297696:1890071001:0051/pct:73.3920704845815,12.932156806017648,19.229074889867842,22.08881816866773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297696:1890071001:0051/pct:55.056179775280896,9.706350354404744,14.430491297642652,16.562997251555043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1128,7 +1128,7 @@ on the south sido of Bonavista bay, and
 that Point Riche is on tho west coast  
 about a third of the way down from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286686:1890071501:0274/pct:46.63265306122449,12.894168466522679,18.14868804664723,16.987041036717063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286686:1890071501:0274/pct:31.097827671672256,8.59611231101512,12.100889342469747,11.32829373650108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

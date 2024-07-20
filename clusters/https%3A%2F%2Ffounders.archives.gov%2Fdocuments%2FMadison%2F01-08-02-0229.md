@@ -72,7 +72,7 @@ the provision of the Constitution which confers
 power on Congress to regulate commerce among  
 the States. It is not contended that Congress ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851041101:0425/pct:85.10424155283968,39.163542642924085,14.680086268871316,4.4400187441424555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851041101:0425/pct:85.11382698298586,39.17135270228054,14.675293553798227,4.4400187441424555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ river shall hens free to the citizens or subjects for
 which the other party contracts, as it is to the citi­  
 zens or subjects of the State in which it is situa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852032401:0273/pct:20.111409911640415,14.74098182804448,15.194006915097964,8.733387577976675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852032401:0273/pct:20.107547532168233,14.738983050847457,15.195890147877856,8.735593220338982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ navigation of the Ohio river and with the commerce of i
 that river. The question is, whether a private corpora- 1  
 tion can so erect a bridge over one of the great channels 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852091201:0891/pct:19.445810788653876,41.196602864748385,15.986227250368913,4.639371276460895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852091201:0891/pct:19.456741542329343,41.196602864748385,15.98076187353118,4.6435965690624075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ Ohio river aa far as the territorv of the nro-
   
 poscd State, or the territory which shall r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1865092801:0392/pct:109.67874794069193,42.591746611847114,16.7833607907743,2.0252779046748897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1865092801:0392/pct:82.3032550473836,31.947616872239987,12.587556654305727,1.5227653418608194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

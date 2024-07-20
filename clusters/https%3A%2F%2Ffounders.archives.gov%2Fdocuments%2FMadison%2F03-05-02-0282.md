@@ -109,7 +109,7 @@ the ocean and relinquishssed the vexation of
 the exchange, it would &quot; be unwise ever  
 more to recur to distant countries for those s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809050201:0493/pct:22.45576893996673,61.18770838965486,23.363072735520944,3.856898260791205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809050201:0493/pct:22.452373752645904,61.182194990088306,23.36458018344925,3.8595542740433713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ more to recur to distant countries for those s
 ufacture it would be unwise evermore to recur  
 to distant countries. Let the Farmer distinct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811112101:0431/pct:47.7890599410416,62.802919708029194,20.995741893219783,1.197080291970803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811112101:0431/pct:47.781234648763714,62.796808096535614,20.997762130888052,1.2002076034773583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ tain, Now secretary of state, and one of the present adininistra
 did take place- The authority of Mr. Monroe, then Minis­  
 ter at the court of Great Britain, now Secretary of State, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:5.125771238728049,45.700102204701416,29.591836734693878,1.3578624616732369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:5.124555160142349,45.693430656934304,29.590747330960856,1.3613138686131387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ British.f formally disavow the principle ; and since they
 acknowledge, the very doctrine of the law of nations, for  
 which the American administration contend, henceforth, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:35.738016136687236,54.11008906409695,29.71048884670147,4.277996787852241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:35.729537366548044,54.1021897810219,29.709371293001187,4.281021897810219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ states toe doctrine, maintained hy his government.
 “course of the law nations, no blockade c„n be justifiable or valid&quot;,  
 “ unless it be supported by an “ adequate force destined to maintai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:35.904129093497865,88.37786538180757,29.663028001898432,4.073587385019711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:35.89561091340451,88.36496350364963,29.661921708185055,4.076642335766423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ public, but to feed their avarice, their vanity and
 their luxury, without the sense of any duty they  
 owe to God or man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851090301:0343/pct:42.33229010749762,21.305875463595548,12.750034018233773,1.834862385321101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851090301:0343/pct:42.326530612244895,21.30379623304382,12.75283446712018,1.83793630656127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ serving the public but to feed their avarice, their
 vanity, and their luxury, without the sense of any  
 duty they owe to God or man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851090501:0244/pct:44.636917960088695,19.70963484381874,12.92960088691796,2.133743950725913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851090501:0244/pct:44.636917960088695,19.716967297257664,12.934220251293421,2.137410177445373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ duty they owe to God or man
 And Vt&#x27;kiggsrj n.iijht Lave stood against the world,  
 Now none so poor, to do her reverence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852111001:0170/pct:41.20879120879121,84.4820743484588,15.061409179056238,1.812409048815981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852111001:0170/pct:30.929668552950687,63.368170392909114,11.301535974130962,1.3626141023944967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ might have stood against the world--now
 none so poor to do her reverence.&quot; The  
 Sonth we at first despised as rebels, bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1863011201:0424/pct:30.26070763500931,56.71965317919075,57.16945996275605,13.439306358381502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1863011201:0424/pct:7.5687005123428035,14.179913294797688,14.299021891010712,3.3598265895953756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ Republicans in the House enjoyed
 the little spat over Kentucky politics,  
 between Representatives Berry an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_orwell_ver01:data:sn86071719:00280777730:1899122001:0420/pct:66.96969696969697,97.5303098338572,50.07575757575758,24.666966023050442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_orwell_ver01:data:sn86071719:00280777730:1899122001:0420/pct:16.745595756772115,24.3825774584643,12.52131085432847,6.1667415057626105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

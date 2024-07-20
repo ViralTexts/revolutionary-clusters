@@ -70,7 +70,7 @@ tanen, views o my! ienisto introdnce mie again into the
 chnlr of governim nt  
 Washington&#x27;s death a few months later pu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1880012301:0975/pct:241.92390524048815,320.0089726334679,49.03086862885858,47.91386271870794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1880012301:0975/pct:60.502692998204665,80.00224315836698,12.262118491921006,11.978465679676985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ later put an end to all talkofathir4
 term, but tho tone of this letter loavo?  
 no room tp doubt that he would i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779489:1880012801:0094/pct:55.97781429745275,77.2609819121447,17.029580936729662,41.16687066503468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779489:1880012801:0094/pct:42.00575421290588,57.94913640690874,12.782572955199342,30.871753025975792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ afain into the chair of government.
 Ome of the noticeable features of this letter  
 is the complete identification of Washingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:0039334748A:1880012901:0232/pct:2.421633257096731,69.55402204140488,13.211354769272164,26.192192810794108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:0039334748A:1880012901:0232/pct:2.4213075060532687,69.54685890834192,13.214061519146265,26.192928252660487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ Washiugton&#x27;s death a faw month&#x27;e
   
 later put an end to all talk of a third
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069392:00202195088:1880021001:0245/pct:19.617622610141314,98.01791220085157,46.467165419783875,107.41447658199971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069392:00202195088:1880021001:0245/pct:4.904405652535329,24.504478050212892,11.616791354945969,26.853619145499927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ but mistaken, views of my friends to
 induss te agin into the chair of Gor­  
 orneont.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_camas_ver01:data:sn83045610:00202198235:1880021201:0532/pct:27.219496755815793,112.7758962980264,49.42237695837949,110.83732336797851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_camas_ver01:data:sn83045610:00202198235:1880021201:0532/pct:6.804874188953948,28.1939740745066,12.355594239594872,27.70933084199463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ views ot my Iriends to introduce meagain
 into tho chair of government.&quot;  
 Washington&#x27;s death a few months late
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288002:1880022001:0697/pct:37.36822289156626,29.594272076372317,15.079066265060241,33.3146146286677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288002:1880022001:0697/pct:28.036151383920167,22.195704057279237,11.316136320843531,24.98947072862558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ taken views or tny friends to introduce mo again
 into tbe chair of government.&quot;  
 Washington&#x27;, death a fear months later pu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1880030401:0001/pct:109.68864468864469,94.31834610380223,16.41025641025641,24.128957640595633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1880030401:0001/pct:82.3012092341517,70.73875957785167,12.312202271894467,18.100332514095705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

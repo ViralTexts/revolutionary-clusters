@@ -3682,7 +3682,7 @@ fees.
 Mary&#x27;s mouth costs her nothing, for she  
 eet open it tit at oter apens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1849021601:0314/pct:285.98629093678596,246.46581691772886,51.40898705255141,14.600231749710312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1849021601:0314/pct:71.52380952380952,61.616454229432215,12.857142857142858,3.650057937427578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3704,7 +3704,7 @@ never opens it but at others&#x27; expense.
 He that would live in peace and at ease.  
 Must not speak all he knows, and judge all he sees
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:18.09142561983471,75.68573251116308,37.84865702479339,13.523283010844143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:6.0304752066115705,25.22857750372103,12.616219008264462,4.507761003614714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3745,7 +3745,7 @@ He that would live in peace and at ease,
 Must not speak all he knows, nor judge all I  
 sees
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849030301:0502/pct:261.53846153846155,196.11964430072757,55.55555555555556,17.246025330099705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849030301:0502/pct:65.41002720559658,49.02991107518189,13.894286824718227,4.311506332524926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3788,7 +3788,7 @@ never opens it but at others&#x27; expense.
 He that would live in peace and at ease,  
 Must not speak all he knows, nrjudge all he sees
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:172.70114942528735,103.04818092428712,50.21551724137931,12.923163365641242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:43.19080129356809,25.76204523107178,12.558390226374415,3.2307908414103106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3838,7 +3838,7 @@ God heals, the doctor takes the fees.
 He that would live in peace and ease,  
 Must not speak all he knows, nor judge all he sees
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:210.6359241353663,213.70637275681787,59.44589066567497,17.818284583863218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:52.64919129949805,53.41904492794575,14.858709797360104,4.453941791466516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3858,7 +3858,7 @@ God heals, the doctor takes the fees.
 He that would live in peace and ease,  
 Must not speak all he knows, nor judge all h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:3.0258519388954173,16.480348730928778,13.131609870740306,3.2482598607888633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:3.025555664349359,16.479190101237347,13.133587910832599,3.2503749531308586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3898,7 +3898,7 @@ God heals, and the doctor takes the fee.
 Mary&#x27;s mouth cost her nothing, for she never opens  
 it but at others&#x27; expense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849041801:0148/pct:261.66231505657095,209.43443653121074,57.702349869451695,11.32802681189778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849041801:0148/pct:65.41557876414274,52.358609132802684,14.425587467362924,2.832006702974445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4025,7 +4025,7 @@ Petersburg (Va.) Intelligencer.
 If you know how to spend less than you  
 get, you have the philosopher’s stone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1850121401:0095/pct:16.073322223905468,85.60606060606061,14.285714285714286,11.225895316804408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1850121401:0095/pct:16.07088760981521,85.59623551015724,14.287337170554377,11.227476185010904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4054,7 +4054,7 @@ Giod heals, and the doctor takes the fees,
 Mary&#x27;s mouth costs her nothing, for she  
 never opens it but at others’ expense.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1851010801:0325/pct:29.531515072425943,94.9341021416804,12.579929531515072,2.0696046128500822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1851010801:0325/pct:29.531515072425943,94.93753432180121,12.579929531515072,2.076468973091708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4129,7 +4129,7 @@ God heals, and the doctor takes the fees.
 Mary&#x27;s mouth cost her nothing, for she never  
 opens it but at other&#x27;s expense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852080301:0073/pct:38.009376126938335,62.102432179607106,18.049044356292825,2.911599625818522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852080301:0073/pct:38.009376126938335,62.10632990333645,18.061065031854792,2.915497349547864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4215,7 +4215,7 @@ Fuller or stronger than the weeds thej shade
 Or ask of yonder argent fields above  
 &quot;Why Jore&#x27;s Satelites .are less than Jove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1858012801:0634/pct:10.71223434807582,48.53342428376535,15.924755887421023,7.10550250113688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1858012801:0634/pct:8.043665613329503,36.402910413824465,11.950588911232405,5.331969076853115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4233,7 +4233,7 @@ Jt6 that would live at peace and at ease
 must not speak all he knows, nor judge all  
 he sees.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1862012401:0528/pct:11.586257309941521,58.976888387824125,16.045321637426902,2.762119503945885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1862012401:0528/pct:8.703602121045895,44.23618940248027,12.031449990857562,2.0715896279594137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4293,7 +4293,7 @@ He that can travel well afoot, keeps a
 good horse.  
 The worst wheel of the cart makes th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1862100101:0285/pct:7.925407925407925,18.639964788732396,14.467754467754467,4.709507042253521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1862100101:0285/pct:7.93058793058793,18.64363262910798,14.462574462574462,4.713174882629108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4402,7 +4402,7 @@ they srhade.&quot; As &#x27; Right About Face&quot; a
 Mary&#x27;s mouth costs her nothing, for she  
 never opens it but at another&#x27;s expense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663626:1868012701:0298/pct:1.1008256192144108,10.684839306747435,17.025268951713784,1.867743563856638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663626:1868012701:0298/pct:1.1049954132265867,10.690448146278534,17.033608539738136,1.867743563856638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4420,7 +4420,7 @@ God heals, and the doctor takes up the fees.
 Mary&#x27;s mouth costs her nothing, for she never  
 opens it but at another&#x27;s expense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868020401:0026/pct:70.7145697998144,70.04892367906066,12.620973087630917,1.6536203522504893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868020401:0026/pct:70.7145697998144,70.04892367906066,12.629811304078837,1.6634050880626223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4440,7 +4440,7 @@ fees.
 Mary&#x27;s mouth costs her nothing, for she  
 never opens it but at another&#x27;s expense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029581A:1868021301:0337/pct:123.13323572474378,309.1228394491173,50.95168374816984,13.309917737313985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029581A:1868021301:0337/pct:30.783308931185946,77.28070986227932,12.73792093704246,3.327479434328496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4460,7 +4460,7 @@ The Tattler’s mouth costs her nothing,
 for she never opens it save at some other  
 j person’s expense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897883:1868053001:0247/pct:61.448960595718276,63.34473404882651,11.542041576171268,2.68899634390848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897883:1868053001:0247/pct:61.439429191872186,63.3372641509434,11.544129052272375,2.691627358490566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4487,7 +4487,7 @@ said, &quot;If you know bow to spend less
 than you get you have the philoso­  
 pher&#x27;s stone.&quot; Cicero said, &quot;Econom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:0027952875A:1874021901:0471/pct:24.094728800611154,71.55310006138735,10.175706646294882,1.3750767341927563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:0027952875A:1874021901:0471/pct:24.10236822001528,71.55616942909761,10.179526355996945,1.378146101903008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4505,7 +4505,7 @@ None preaches better than the ant
 and she says nothing.  
 —The new postal treaty with Japa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82015854:00279528980:1874073001:0299/pct:33.99491094147583,79.21683226183518,14.249363867684478,1.6715371127995324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82015854:00279528980:1874073001:0299/pct:34.00056545094713,79.22072861874148,14.249363867684478,1.675433469705825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4658,7 +4658,7 @@ sincerity.
 The absent are never without fault,  
 nor the present without excuse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028745:1879121101:0493/pct:34.73629514159522,90.10235414534289,9.50896336710834,1.7093142272262027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028745:1879121101:0493/pct:34.73629514159522,90.10235414534289,9.513293496146185,1.7127260320709656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4675,7 +4675,7 @@ be bent, but is easily broken.
 The absent are never without fault,  
 nor the present without excuse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1880010101:0418/pct:63.024544734758514,78.44245348035837,14.489311163895486,1.6540317022742936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1880010101:0418/pct:63.031142781736605,78.44704801286468,14.495909210873581,1.6494371697679762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4694,7 +4694,7 @@ you get, you have the philosopher&#x27;s stone.
   
 If poetry come not as naturally as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763840:1880042801:0086/pct:112.68242848803268,29.46763602251407,14.477524810274373,2.1575984990619137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763840:1880042801:0086/pct:84.55248941451306,22.103658536585368,10.862899693385895,1.6181988742964353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4712,7 +4712,7 @@ If you know liow to spend less than you
 get, you have the philosopher’s stone.  
 If poetry come not as naturally as leaves t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1880060201:0672/pct:6.941095418532552,9.058171745152354,12.177058215638993,3.2825484764542936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155872:1880060201:0672/pct:6.939900120544171,9.056917324470295,12.17926640261753,3.2855560171721367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4758,7 +4758,7 @@ Benjamin Franklin has said; ‘lf
 you know how to spend less than you  
 get, you have the philosopher’s stone.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349967:1881071501:0670/pct:4.074961865330137,17.676855895196507,11.244279799520593,15.842794759825328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349967:1881071501:0670/pct:4.091305295271301,17.68122270742358,11.249727609500981,15.842794759825328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4815,7 +4815,7 @@ If you know how to spend less than
 you get, you have the philosopher’s  
 stone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013869:1881122901:0048/pct:82.16524216524216,27.113997113997115,10.712250712250713,2.380952380952381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013869:1881122901:0048/pct:82.14963919483479,27.110085124801618,10.714963919483479,2.3842158418698602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4854,7 +4854,7 @@ you get, you have the philosopher&#x27;s
 stone.  
 He who puts a bad construction on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1881123001:2233/pct:64.25636811832375,29.438432290143318,92.39934264585045,229.51155308569759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1881123001:2233/pct:21.418789372774583,9.812810763381105,30.799780881950152,76.50385102856586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4897,7 +4897,7 @@ stone.
   
 He who puts a bad construction on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200291025:1882010501:0013/pct:23.15452755905512,5.7261124525698515,34.20275590551181,91.10037944118662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200291025:1882010501:0013/pct:23.160679133858267,5.7261124525698515,34.20890748031496,91.11762676785098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4918,7 +4918,7 @@ get. you have the philosopher&#x27;s stone.
 Mining in Hot Places.  
 If there are to be found anywhere in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623835:1882020401:0028/pct:49.62535123321886,11.901375059269796,21.214486418982204,82.95400663821717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623835:1882020401:0028/pct:49.63575814340722,11.909277698751383,21.214486418982204,82.96190927769875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4936,7 +4936,7 @@ well; but he must act and live well besides.
 If you know how to spend less than you  
 get, you have the philosopher’s stone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623835:1882020402:0218/pct:48.89364739471806,94.36173582515046,11.034975017844397,2.618519691690423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623835:1882020402:0218/pct:48.898405900547225,94.36173582515046,11.039733523673567,2.6290782388343366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4955,7 +4955,7 @@ If you know how to spend less than
 you get, you have the philosopher&#x27;s  
 stone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn84026314:00513685518:1882030401:0358/pct:38.42449922958397,49.60501567398119,14.61864406779661,3.0344827586206895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn84026314:00513685518:1882030401:0358/pct:38.417099942229925,49.598796389167504,14.620643173502792,3.037236710130391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4974,7 +4974,7 @@ If you know how to spend less than
 you get, you have the philosopher&#x27;s  
 stone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1882031601:0251/pct:73.10081223124702,13.826884920634921,10.925306577480491,2.4057539682539684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1882031601:0251/pct:73.08917197452229,13.825170489770613,10.927547770700636,2.4085554866708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4990,7 +4990,7 @@ stone
 Is you Know how to spend less than you get.  
 you have the philosopher&#x27;s stone, and a good wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531046:1882041601:0377/pct:208.67306784196444,49.99458815889165,38.87926963639226,2.8033336941227405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531046:1882041601:0377/pct:69.55768928065481,16.664862719630552,12.959756545464085,0.9344445647075802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5213,7 +5213,7 @@ If you know how to spend less
 than you get, you have the philoso­  
 phers&#x27;s stone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287095:1883030101:0033/pct:49.822888283378745,67.56286266924565,11.920980926430518,6.682785299806576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287095:1883030101:0033/pct:49.822888283378745,67.56608639587363,11.93006357856494,6.686009026434558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5263,7 +5263,7 @@ rentuml uie tu titeug b mid vi;or.&#x27;&#x27;
 The absent are never without &#x27;fault,  
 nor the present without excuses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776695:1883053001:0606/pct:55.223367697594504,111.7487748258963,14.50171821305842,13.438225432035079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776695:1883053001:0606/pct:41.44035751117222,83.81480526180036,10.880027500859402,10.085117358782563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5291,7 +5291,7 @@ enemy to the face than small-pox.
 Franklin : The absent are never without  
 fault, nor the present without excuse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn90059522:00175035424:1884072701:0400/pct:62.55474452554745,15.996484289167215,11.562043795620438,2.065480114260602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn90059522:00175035424:1884072701:0400/pct:62.55474452554745,16.003808686735518,11.5669099756691,2.058155716692302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5325,7 +5325,7 @@ you get, you have the philosopher&#x27;s stone.
 Hop Plasters are clean, sweet and pleas  
 ant to use. Fresh Hops combined wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287496:1884091301:0165/pct:205.37878787878788,195.01860864586317,42.878787878787875,40.59547666762096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287496:1884091301:0165/pct:51.34469696969697,48.75465216146579,10.719696969696969,10.14886916690524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5441,7 +5441,7 @@ Why Jove’s satellites are less than Jove !
 &quot;The wise is happy nature to explore,  
 The fool is happy that he knows no more.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551141:1891052801:0466/pct:23.15841340231584,16.446996799096215,10.741561961074156,1.0167576727546601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551141:1891052801:0466/pct:23.166625605649998,16.4532730810268,10.73745585940708,1.013619531789368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5481,7 +5481,7 @@ The rich is happi&#x27;in the plenty given,
 The poor contents him with the love of  
 of heaven. &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177313:1892060901:0058/pct:29.042415262085573,57.433469805527125,18.429338766438228,5.207267144319345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177313:1892060901:0058/pct:22.5178238193215,44.51826144438936,14.282980046892195,4.0323913402743345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5503,7 +5503,7 @@ We cannot control the evil
 tongues of others, but a good life  
 enables us to despise them. Cato
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_caliban_ver02:data:sn85047084:00202195726:1893100401:0169/pct:9.075608493008804,96.16336633663366,16.11859140341792,7.08539603960396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_caliban_ver02:data:sn85047084:00202195726:1893100401:0169/pct:6.810824809012042,72.12252475247524,12.093745953644957,5.321782178217822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5524,7 +5524,7 @@ SHREDS AXD PATCHES.
 If you know how to spend less than you  
 get. you have the philosopher&#x27;s stone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665465:1894021401:0422/pct:58.46388163620539,97.06873315363882,16.100957354221062,4.658018867924528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665465:1894021401:0422/pct:43.85812207594386,72.8015498652291,12.077031879012077,3.495619946091644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5620,7 +5620,7 @@ drifting thing; every day we ought to
 renew our purpose.  
 Our grand business is not to see wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1894031501:0479/pct:24.45945945945946,22.42918121847109,14.81418918918919,4.928211098176174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1894031501:0479/pct:18.347693867207298,16.828353382486096,11.11674269302247,3.699392057948519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5636,7 +5636,7 @@ Our grand business is not to see wha
 It you know how to spend less than you  
 get you have the philospher’s stone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035801:00332896933:1894032701:0302/pct:53.64545586316858,73.75853686769302,9.508624438324395,0.8797314503993517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035801:00332896933:1894032701:0302/pct:53.63768115942029,73.75,9.51086956521739,0.8825231481481481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5669,7 +5669,7 @@ opher’s stone.—Frankilin.
 maxim, &quot;If you know how to spend less  
 than you get you have the philosopher&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769551:1894050301:0027/pct:3.9139701608215463,52.85100286532951,12.361945359426468,0.9312320916905444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769551:1894050301:0027/pct:3.9139701608215463,52.86174785100287,12.381321449331525,0.9312320916905444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5698,7 +5698,7 @@ Record.
 If you know how to spend less than you  
 get you have the philosopher&#x27;s stone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665519:1894123001:0595/pct:108.98628795298727,32.889558737335676,18.952007835455436,9.377878255044797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665519:1894123001:0595/pct:81.77587262706675,24.667169053001757,14.219228413962034,7.041781796868459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5731,7 +5731,7 @@ I’lCKNAim, Hprlngfteld, IU., Oct. t, 1894.
 If you know how to spend less than you  
 get, you have the philosopher&#x27;s stone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013900:1895031401:0879/pct:63.96204033214709,40.66265060240964,15.207591933570582,10.732403297400127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013900:1895031401:0879/pct:63.94686907020873,40.65620542082739,15.209914611005692,10.734664764621968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5748,7 +5748,7 @@ get, you have the philosopher&#x27;s stone
 If you know how to spend less than you  
 get, you have the philosopher&#x27;s stone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539276:1895032001:0661/pct:97.21923696937131,35.203351726956875,14.199355185384203,1.267116288575516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539276:1895032001:0661/pct:72.92758296385865,26.4050684651543,10.654306059384657,0.950337216431637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5781,7 +5781,7 @@ icanann, Srringtield, lll Oet 1, isot
 if you know how to spend less than you  
 get, you have the philosopher&#x27;s ston
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058217:206534874:1895041201:0229/pct:190.81469648562302,117.78729744831439,42.0926517571885,30.620227230396722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058217:206534874:1895041201:0229/pct:63.604898828541,39.262432482771466,14.030883919062832,10.206742410132241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5854,7 +5854,7 @@ If you know how to spend less
 than you get you have the philoso­  
 pher&#x27;s stone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84037217:00271764856:1895091901:0157/pct:85.04660962839995,93.00423985463355,12.156812667603116,3.119321623258631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84037217:00271764856:1895091901:0157/pct:85.05512280253693,93.00423985463355,12.152556080534627,3.1260515512484015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5894,7 +5894,7 @@ that enjoys it.&quot;
 strong, and homely.&quot;  
 &quot;He that,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1895122801:0036/pct:45.66465690496698,52.39585581696525,12.36003445305771,2.8059572631124543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1895122801:0036/pct:45.66465690496698,52.39585581696525,12.364819599961718,2.8059572631124543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5912,7 +5912,7 @@ if your own windows are glass.
 &quot;Good wives and good plantations are  
 made by good husbands.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1895122801:0036/pct:45.65030146425495,55.63349881286423,12.345679012345679,1.8994172242607381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1895122801:0036/pct:45.65987175806297,55.63349881286423,12.35046415924969,1.906611986473847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5953,7 +5953,7 @@ than bis bare duty as doing less than his
 duty.  
 Diplomacy consists largely in backin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn85035776:00513685592:1896032701:0048/pct:45.7761613489833,54.333082140165786,9.737146635807571,2.8761617683998995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn85035776:00513685592:1896032701:0048/pct:45.768595041322314,54.3262589476328,9.739669421487603,2.878940097953033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6134,7 +6134,7 @@ bor&#x27;s if your own windows are glass.
 Good wives and good plantations  
 are made by good husbands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:0029587868A:1896052801:0309/pct:80.98471986417657,86.66594100359204,14.615166949632146,7.782736475454446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:0029587868A:1896052801:0309/pct:60.75573167279932,65.00489822575378,10.96801585055194,5.8343311200609556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6163,7 +6163,7 @@ God heals ; the doctor takes the fee.
 The noblest question in the world is,  
 What may I do in it?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:0041615675A:1896072301:0372/pct:56.265060240963855,45.13715710723192,16.716867469879517,12.604851507594649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:0041615675A:1896072301:0372/pct:42.20515137821961,33.85853547948311,12.547070341918964,9.453638630695988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6252,7 +6252,7 @@ RBDICK GHOHMAN*.
 you get, you have the philosopher&#x27;s  
 1 stone.&quot; That&#x27;s as true to-day as it wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026505:1896082001:0732/pct:44.74223984684808,86.68960326846576,9.763434978804868,3.0749381786904633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026505:1896082001:0732/pct:44.74679793974201,86.68960326846576,9.758876885910935,3.082105866752679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6273,7 +6273,7 @@ stone.—Franklin.
 Leave your orders with us. Good  
 coal and full weights guaranteed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1896091001:0561/pct:65.96122337520481,67.92074799643811,9.721463681048608,4.608192341941229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1896091001:0561/pct:65.9657746222465,67.92445829623034,9.721463681048608,4.611902641733452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6344,7 +6344,7 @@ v spend less than you
 get, you have the philoso&#x27;  
 pher&#x27;s stone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655168:1897110301:0420/pct:55.971412450630055,3.8016989277259436,15.516268572503291,3.2585990809079517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655168:1897110301:0420/pct:55.98551814933233,3.805180337000418,15.502162873801016,3.276006127280323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6362,7 +6362,7 @@ V v spend less than you
 get, you have the philoso­  
 pher&#x27;s stone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655168:1897110401:0434/pct:84.76882923191648,14.575465100013988,14.168530947054437,3.175269268429151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655168:1897110401:0434/pct:84.78281133482476,14.58245908518674,14.173191648023863,3.1822632536019024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6391,7 +6391,7 @@ Sterling Remedy Co., Chicago or New York.
 Good wives and good plantations are  
 made by good husbands.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065832:00415624839:1897123101:0291/pct:5.582858266168666,32.28368017524644,16.237468055828582,7.858707557502738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065832:00415624839:1897123101:0291/pct:5.592687241989385,32.28710295728368,16.22763908000786,7.865553121577218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6408,7 +6408,7 @@ made by good husbands.
 If you desire many things, many things  
 will seem but a few.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065832:00415624839:1897123101:0291/pct:5.582858266168666,47.00164293537787,16.09986239433851,1.067907995618839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jayhawk_ver01:data:sn97065832:00415624839:1897123101:0291/pct:5.592687241989385,47.005065717415114,16.09494790642815,1.0781763417305585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6431,7 +6431,7 @@ shines the furrowed brow and the
 frown wr care and constant thought,  
 but the man of purpose and well di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663637:1898012901:0285/pct:2.1923360353721444,46.95415791424688,14.185703758290346,4.522426788582726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663637:1898012901:0285/pct:2.2046180299680667,46.95415791424688,14.185703758290346,4.530664360146629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6526,7 +6526,7 @@ repentance.-Pythagoras.
 The absent are never without fault,  
 nor the present without excuse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1898071601:0587/pct:108.59320859320859,277.7358490566038,43.03534303534303,8.067664281067014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1898071601:0587/pct:27.157712305025996,69.43396226415095,10.76256499133449,2.0169160702667535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6563,7 +6563,7 @@ On the wave of popularity—fans in warm
 weather.  
 I believe my prompt use of Piso’s Cur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_mabel_ver01:data:sn85041553:00514159014:1898071901:0372/pct:2.7777777777777777,45.24643774818968,16.427520235467256,15.18336837187573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_mabel_ver01:data:sn85041553:00514159014:1898071901:0372/pct:2.7839097375521216,45.24643774818968,16.427520235467256,15.191154714630539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6583,7 +6583,7 @@ soft drinks are hard to get.
 The absent are never without fault, nor the  
 present without excuse. —Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eagle_ver01:data:sn2001063133:00415623276:1898072101:0814/pct:4.8629872636047855,104.58108108108108,17.445001929756852,4.54054054054054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eagle_ver01:data:sn2001063133:00415623276:1898072101:0814/pct:3.9005814851026606,83.66486486486487,13.955642463850152,3.6432432432432433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6626,7 +6626,7 @@ all tha
 The absent are never without fault, nor the  
 present without excuse.—Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863584:1898072901:0210/pct:4.164278892072589,68.05906611680192,16.370582617000956,0.9977384594918185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863584:1898072901:0210/pct:3.5451396406148517,57.84930835626248,13.926174496644295,0.859372055331499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6644,7 +6644,7 @@ sprains. Instant relief.
 The absent are never without fault  
 nor the present without excuse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669550:1898081101:0464/pct:29.60734642178594,107.0616459789298,21.849271690943635,3.7968081777406906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669550:1898081101:0464/pct:19.746634996041173,71.37790758318556,14.56848772763262,2.5346823823928237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6661,7 +6661,7 @@ sprains. Instant relief.
 The absent are never without fault  
 nor the present without excuse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_baldwin_ver01:data:sn98066406:00296023346:1898081201:0558/pct:31.00132625994695,108.08,21.187002652519894,3.0514285714285716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_baldwin_ver01:data:sn98066406:00296023346:1898081201:0558/pct:20.67650472558448,72.05714285714286,14.127010446028851,2.0342857142857143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6678,7 +6678,7 @@ nor the present without excuse
 The absent are never without fault, nor the  
 present without excuse.—Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kia_ver02:data:sn90060625:00212479597:1898082001:0525/pct:37.99511002444988,58.157776781712236,13.659331703341483,0.8516360376512775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kia_ver02:data:sn90060625:00212479597:1898082001:0525/pct:38.00597663678348,58.16524727327058,13.65389839717468,0.8516360376512775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6752,7 +6752,7 @@ they will give you the best advice
 that can be taken.&quot;  
 Whenyou have a bad cold Dr. In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871672:1898100801:0163/pct:26.59235668789809,106.34869481147277,18.968949044585987,8.282307444408637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871672:1898100801:0163/pct:19.956184027086238,79.76152110860458,14.240191196972715,6.219787302610377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6784,7 +6784,7 @@ consultation together, they will give
   
 you the best advice that can be taken.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_juniper_ver02:data:sn92070422:00200290203:1898100801:0419/pct:68.9343163538874,98.8122314885014,28.31769436997319,10.892089967146829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_juniper_ver02:data:sn92070422:00200290203:1898100801:0419/pct:51.726449882668454,74.12180945160475,21.253771371102918,8.162749557745768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6809,7 +6809,7 @@ consultation together, they will give
 you the best advice that can be taken.&quot;  
 When you have a bad cold Dr. Incli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_bronte_ver01:data:sn86063592:00415626721:1898101301:0142/pct:6.743869209809264,47.44447417714744,14.509536784741144,6.796895905806797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_bronte_ver01:data:sn86063592:00415626721:1898101301:0142/pct:5.059625212947189,35.59004549103559,10.885860306643952,5.097671929355098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6902,7 +6902,7 @@ Experience and Dr. Reason to hold a
 consultation together, they will give  
 you the beat advice that can be taken.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_bronte_ver01:data:sn86063592:00415626721:1898101801:0158/pct:23.322147651006713,90.02909283258397,14.211409395973154,5.911134620470775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_bronte_ver01:data:sn86063592:00415626721:1898101801:0158/pct:17.505874454514938,67.52181962443798,10.657938905673044,4.443268976461254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6928,7 +6928,7 @@ they will give you the best advice
 that can be taken.&quot;  
 When you have a bad cold Dr. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871672:1898102201:0171/pct:26.787132644956316,84.6984843598839,19.04289118347895,8.36826830054821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871672:1898102201:0171/pct:20.107291873634015,63.5278942276685,14.285714285714286,6.288294098677846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6954,7 +6954,7 @@ they will give you the best advice
 that can be taken.&quot;  
 When you have a bad cold Dr. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871672:1898102901:0175/pct:24.80221518987342,83.81502890173411,18.94778481012658,8.365446371226717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871672:1898102901:0175/pct:18.61891571032845,62.861271676300575,14.226355362089434,6.278098908156712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6979,7 +6979,7 @@ son to hold a consultation together,
 they will give you the best advice  
 that can be taken.&#x27;&#x27;---
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871672:1898110501:0179/pct:25.595710881652106,83.52922234744807,19.003177124702145,7.422315247142167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871672:1898110501:0179/pct:19.213192926683888,62.64691676058606,14.265845420226505,5.570761552085011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7046,7 +7046,7 @@ stone.—Franklin.
 The mind In its own place, and in it­  
 sel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175122:1898112201:1241/pct:19.840436699559103,69.32276657060518,14.318706697459584,15.345821325648416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175122:1898112201:1241/pct:19.840436699559103,69.3335734870317,14.334453075792569,15.335014409221902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7078,7 +7078,7 @@ Hill’s Hair and Whisker Dye, black or brown, 50c¢.
 The absent are never without fault,  
 nor the present without excuse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1898120101:0338/pct:17.955985328442814,57.484479190618536,14.771590530176725,11.680846171533686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1898120101:0338/pct:17.955985328442814,57.484479190618536,14.788262754251416,11.696175365984518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7100,7 +7100,7 @@ cuse—Franklin.
 50 doses for 50 cents. Is the  
 same size of other $1 bottles, au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_andromeda_ver01:data:sn89051293:00513687795:1898120901:0394/pct:30.393700787401574,48.87589928057554,11.559055118110237,5.95773381294964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_andromeda_ver01:data:sn89051293:00513687795:1898120901:0394/pct:30.404199475065617,48.87589928057554,11.559055118110237,5.965227817745803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7134,7 +7134,7 @@ Sold by Oscar Alter. 29
 The absent are never without fault,  
 nor the present without excuse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769398:1898121501:0403/pct:73.49413646055437,73.28986857083721,10.887526652452026,12.542688606022974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769398:1898121501:0403/pct:73.49413646055437,73.28986857083721,10.891968727789623,12.549587774673151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7151,7 +7151,7 @@ nor the present without excuse
 The absent are never without fault,  
 nor the present without excuse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1898121601:1005/pct:21.500192826841495,61.351795996709626,15.233320478210567,1.2750205648478201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1898121601:1005/pct:18.812215285979416,53.68282149712092,13.34008211011754,1.1196417146513116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7168,7 +7168,7 @@ nor the present without excuse.
 The absent are never without fault,  
 nor the present without excuse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1898122201:0828/pct:26.120238984316654,80.19243104554201,14.133681852128454,1.1545862732520846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1898122201:0828/pct:26.12957430918596,80.19884541372674,14.138349514563107,1.1513790891597178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7223,7 +7223,7 @@ Hill s Hair anil Whisker Dio. black or brown. 50c.
 The absent are never without fault,  
 nor the present without excuse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:00517179711:1898122801:1017/pct:13.713450292397662,44.518533045695236,14.853801169590643,10.433418317317122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:00517179711:1898122801:1017/pct:13.713450292397662,44.518533045695236,14.883040935672515,10.44812708374191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7313,7 +7313,7 @@ The absent are never without fault, nor
 the present without excuse.  
 Shake Into Your Shoe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035801:00332896957:1899050901:0287/pct:64.63138851198552,64.42953020134229,9.829639680385949,1.4001388567461235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035801:00332896957:1899050901:0287/pct:64.62164606572203,64.42207566817078,9.831926439553813,1.402869374059933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7343,7 +7343,7 @@ Love and Lordship hatecompanions.
   
 Dr nk Grain 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473686:1899052501:0622/pct:73.046875,53.50643047803931,36.12253289473684,33.11089541373453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473686:1899052501:0622/pct:48.714785112070736,35.670953652026206,24.07978614024265,22.082018927444796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7376,7 +7376,7 @@ Is taken internally. Price 75 cents.
 The absent are never without fault,  
 nor the present without excuse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn95069779:00206538983:1899060801:0366/pct:84.80662983425414,60.77401372212693,18.370165745856355,15.126500857632934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn95069779:00206538983:1899060801:0366/pct:63.63810839858744,45.580510291595196,13.791647474282204,11.3448756432247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7393,7 +7393,7 @@ nor the present without excuse
 The absent. are never ,without fault,  
 nor the present&#x27; without excuse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876530:1899060901:0143/pct:70.64793130366901,63.99836912204403,15.339578454332553,1.2639304158738787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876530:1899060901:0143/pct:61.81693989071038,55.99952431918183,13.444899817850638,1.1099219090656836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7456,7 +7456,7 @@ Is taken internally. Price 75 cents.
 The absent are never without fault,  
 nor the present without excuse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1899061501:1029/pct:56.574141709276844,44.920735573874445,14.390065741417093,11.743817374762207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1899061501:1029/pct:56.574141709276844,44.923906150919464,14.408327246165085,11.740646797717185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7489,7 +7489,7 @@ Is taken internally. Price 75 cents.
 The absent are never without fault,  
 nor the present without excuse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_heinlein_ver01:data:sn92067125:00517179760:1899062101:0031/pct:63.93258426966292,46.79009861139062,13.764044943820224,11.289997987522641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_heinlein_ver01:data:sn92067125:00517179760:1899062101:0031/pct:63.93258426966292,46.80016099818877,13.764044943820224,11.289997987522641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7677,7 +7677,7 @@ er fails. It is pleasant, safe and re­
 liable.The absent are never without fault  
 nor the present without excuse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:00416156761:1899091401:0560/pct:45.40557667934094,122.20909627879504,16.539923954372625,3.024217365623154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:00416156761:1899091401:0560/pct:34.078300840069744,91.6597755463674,12.410841654778887,2.268163024217366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7723,7 +7723,7 @@ take up music for the purpose of beating
 time.  
 Any woman can keep a secret i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767870:1899101901:0584/pct:39.10121244069583,17.994858611825194,12.994201370585134,10.9302104160716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767870:1899101901:0584/pct:39.105605341767706,17.998032308229394,12.998594271657002,10.936557808880002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

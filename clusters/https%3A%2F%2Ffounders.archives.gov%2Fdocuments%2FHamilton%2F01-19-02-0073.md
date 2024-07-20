@@ -672,7 +672,7 @@ c with each other, to agree •which it the aggrejfar
 1 A, &lt;vai the aggressor with regard to at, and was  
 guilty &quot;ot puiilanunity in waving uw^jucAiwi.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795110901:0002/pct:29.674275455244935,3.4958148695224027,63.65734803795845,90.97324798949614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795110901:0002/pct:29.687099256219543,3.5081240768094535,63.676583739420366,90.97324798949614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ a be diQionorabie to except a boon merely for an en­
 - gagement to fulfil a rporal obligation—lndeed, as  
 e heretofore intimated, the true rule of reciprocity i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111201:0002/pct:30.747349366433927,6.459054209919262,21.36022756658909,16.971494480145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111201:0002/pct:30.753814326351176,6.463173504695996,21.35376260667184,16.987971659251937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -967,7 +967,7 @@ he Previous t* a come&#x27;uiW, [ ;I,aji ol,fme U
 ity wah a,view ic, accuracy, that the article 1 T&#x27; \
 rty protea«l all veflels, good* ;!„d mere!,,Ji«
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111201:0002/pct:30.747349366433927,3.5920250453122424,65.89087147659684,91.76141044653156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111201:0002/pct:30.753814326351176,3.600263634865711,65.89087147659684,91.77788762563848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1012,7 +1012,7 @@ d to convulse -Cur country and to hazard even ciTtt
 - WAR.}  
 d CAMII.LUS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111201:0002/pct:73.20920610292217,32.048113362992254,21.282648047582104,21.568627450980394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111201:0002/pct:73.20920610292217,32.05223265776899,21.289113007499353,21.580985335310594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ e there are,fome ardent fpi:its chargeable with the
 1 i &#x27; |  
 From the DeUwart Gazette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111201:0002/pct:73.20920610292217,56.384906903938045,21.04990949056116,5.816444224748723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111201:0002/pct:73.20920610292217,56.397264788268245,21.04990949056116,5.820563519525457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1067,7 +1067,7 @@ them within that time.”
 The 11th article declares, that the citizens  
 of each nation shall not be liable to higher du
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811101701:0311/pct:25.852036575228595,25.300970873786408,22.161263507896923,16.02912621359223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811101701:0311/pct:25.84773936170213,25.29851470730997,22.163120567375888,16.030806070608033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1157,7 +1157,7 @@ preserve their force and obligation when the rupture
 takes place.&quot;  
 It will be seen, therefore, that a safe exi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898040801:0311/pct:75.53191489361703,359.40970637456263,50.60790273556231,28.662711090826107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175042994:1898040801:0311/pct:18.893746436038775,89.85242659364066,12.659190268009883,7.165677772706527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1212,7 +1212,7 @@ majority of them have been of minor
 importance, involving principally the  
 settlement of claims preferred by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bronze_ver01:data:sn87060190:00211103942:1898050701:0645/pct:20.055650684931507,28.849384098544235,21.361301369863014,19.134938409854424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bronze_ver01:data:sn87060190:00211103942:1898050701:0645/pct:15.05353319057816,21.64053751399776,16.038543897216275,14.361702127659575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1257,7 +1257,7 @@ majority of them have been of minor
 importance. Involving principally the  
 settlement of claims preferred by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:0023728933A:1898052601:0534/pct:27.113578138343296,23.430440878641534,18.872758326216907,23.632964636236174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:0023728933A:1898052601:0534/pct:20.358897671437727,17.57283065898115,14.163640247810298,17.72861816482318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1298,7 +1298,7 @@ no actual rule on the subjent the nations
 of the world must take notice at their  
 own risk of the date when hostilities be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199471:1898052801:0453/pct:126.96377999701893,196.46842286897504,38.94768221791623,36.62717128724261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199471:1898052801:0453/pct:42.32125999900631,65.48947428965835,12.982560739305411,12.209057095747536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -79,7 +79,7 @@ ing, for the use of the United States, conditioned lor the true and
 faithful observance of luck rules, regulations and reftriftions, as  
 now are, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790073101:0004/pct:8.774193548387096,31.024035548374066,28.225806451612904,16.521914764694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790073101:0004/pct:8.798387096774194,31.034134518279135,28.233870967741936,16.532013734599072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ of the territorial diilrilfo of the United States, shall go into any
 town, fettlemmt, or territory belonging to the Creek nation of  
 Indians, and shall there commit any crime upon,or ttefpafsagainf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0003/pct:7.593423019431988,76.8462291870715,26.48729446935725,17.41429970617042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0003/pct:7.593423019431988,76.85602350636631,26.509715994020926,17.42409402546523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ dent of the United States for the time
 being, for the use of the United States,  
 conditioned for the true and faicthful ob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790110601:0689/pct:6.304558680892337,37.87487907126733,21.750727449078564,29.329248629474364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790110601:0689/pct:6.304558680892337,37.885628291948834,21.766892984157774,29.329248629474364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ longing to any nation or tribe of In­
 dians, and thall there commitany crime  
 upon, or trespass against, the person o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790110601:0689/pct:29.02521823472357,43.03450499838762,20.732298739088264,7.723315059658175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790110601:0689/pct:29.02521823472357,43.03987960872837,20.732298739088264,7.717940449317425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ of by the fuperintendant, or person ilfuing
 such licence, or by the President of United  
 States, in the penal sum of one thousand dol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793050101:0001/pct:6.722189173111243,13.944371849915997,20.107079119571683,30.390143737166323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793050101:0001/pct:6.744497323022011,13.958372223259287,20.099643069601427,30.380810154937464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ the authority of the United States, which latter sti­
 pulation has excitec doubt&#x27;s u &#x27;tethei in its operation  
 it may not interfere with the due execution of ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796062101:0003/pct:70.95501183898973,41.2653603454002,21.099710602473035,9.498505479907008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796062101:0003/pct:70.97474348855565,41.2653603454002,21.093133385951067,9.515111258718035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ perintendent »f the department, or of
 IAA other p i i..0 as the Prefident o  
 L&#x27;iip.ed States Ihall authorife to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802040701:0001/pct:24.00154350762107,72.61027114831938,16.148948485433145,5.760339872547795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802040701:0001/pct:24.00154350762107,72.61027114831938,16.168242330696508,5.764504977300179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ fon as the President of the United
 States may,from time to time, author­  
 ife to grant the fame, shall forfeit 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802052501:0083/pct:58.14166031987814,37.593836428289215,16.085300837776085,8.850256815487949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802052501:0083/pct:58.14673775069814,37.597128934544976,16.095455699416096,8.850256815487949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ the superintendent of the department,
 - of the United States shall authorife to  
 grant Jicenfes for that purpose : which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802052501:0083/pct:75.0952018278751,16.564598972738047,16.70982482863671,6.509284867641249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802052501:0083/pct:75.1053566895151,16.564598972738047,16.699669966996698,6.519162386408534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ President of thz United States, make
 appli¢ation to the nation or tribe, to  
 which such Tndian or Indians hall be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802052501:0084/pct:9.049290401342896,30.32867545758709,16.374179764993134,20.330643574099586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802052501:0084/pct:9.05946385879241,30.32867545758709,16.369093036268374,20.330643574099586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ Ris@resde 0 RS o
 - Sec. 5. And be it further enacted, That each  
 and every person ch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816062501:0537/pct:59.76089588377724,69.64230491701886,17.19128329297821,15.029378414596433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816062501:0537/pct:59.77098466505246,69.64230491701886,17.181194511702987,15.032814486479056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ in the courts of the United States of the ter­
 ritory in which the person accused may be  
 arrested, or in the circuit court of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816073101:0325/pct:4.5592705167173255,24.520383693045563,23.24214792299899,19.844124700239806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816073101:0325/pct:4.566024991556906,24.52837729816147,23.26241134751773,19.844124700239806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ superintendent, in taking bond and se­
 curity from the applicant for a license,  
 and vesting a power to recall th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1829061001:0002/pct:13.502492070684188,20.076219512195124,15.337562301767104,17.027439024390244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1829061001:0002/pct:13.513819664703217,20.076219512195124,15.33189850475759,17.03125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ section of the intercourse law 7 Would it be
 recover the penalty, or to an indict moat for  
 the offence 7 Suppose the laws of Georgia t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830072901:0313/pct:57.0925657486022,80.02828854314002,17.746945537378338,8.656294200848656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830072901:0313/pct:57.08074534161491,80.01697072549851,17.748447204968944,8.658605572054872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1229,7 +1229,7 @@ ing furnished with the necessary documents and ‘
 proofs, shall, under the direction of the President  
 make application to the nation . or tribe to whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834101401:0477/pct:19.343012171872708,52.956960394976925,14.796891039741897,13.684662444993023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834101401:0477/pct:19.352788776457935,52.956960394976925,14.806667644327126,13.688240134521127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1411,7 +1411,7 @@ furnished with the necessary do-urn -nts and
 proofs, shall, under tho direction of the President,  
 m ike application to the nation or tribo lo whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1848020501:0072/pct:78.36054758370443,53.03270042194093,15.833745670460168,7.318037974683544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1848020501:0072/pct:78.36604541206223,53.03270042194093,15.844741327175766,7.331223628691983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1520,7 +1520,7 @@ Now, I agree that if they commit a dtpredation in any
 Slate or territory, il may satrsfy the law ; hut the senator  
 ha* overlooked that couditiou which requires them t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850082401:0936/pct:0.6952303961196443,41.06916645553585,15.440582053354891,7.752723587534836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850082401:0936/pct:0.6952303961196443,41.07761168820201,15.445971436270547,7.752723587534836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1739,7 +1739,7 @@ Gen. Harrison, and that, hyena-like, even the
 grave furnished no security from their malig­  
 nnnt persecutions; yet we had supposed tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1854062301:0197/pct:76.75054704595186,23.034013605442176,16.39314369073669,12.91156462585034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1854062301:0197/pct:57.57796826554806,17.27891156462585,12.292540579974467,9.687074829931973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1776,7 +1776,7 @@ ag furnished with the neceseary decuments and
 proofs, shall, under the direction ef the President,  
 make application to the nation or tribe to which sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1857121101:0760/pct:25.946969696969695,23.366298235408184,86.28246753246754,256.9517161140198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1857121101:0760/pct:8.6489898989899,7.788766078469394,28.76082251082251,85.65057203800659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1809,7 +1809,7 @@ Indian or Indians shall belong for satisfaction; and
 if such nation or tribe shall neglect or refuse to make  
 satisfaction in a reasonable time, not exceedin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1857121801:0764/pct:68.3982683982684,21.892573201473724,43.073593073593074,22.53248012410316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1857121801:0764/pct:22.7994227994228,7.297524400491242,14.357864357864358,7.510826708034387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1850,7 +1850,7 @@ beng furnished with the necessary ocnment an
 proofs, shall, under the direction ef the President  
 make application to the nation or tribe to which sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1857122501:0768/pct:27.304488040849233,21.73069460613116,86.96586938994894,258.0325960419092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1857122501:0768/pct:9.101496013616412,7.243564868710386,28.98862312998298,86.01086534730307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1875,7 +1875,7 @@ a longing to any citizen or inhaitant of the Unite
 States, such citizen or inhabitant, his representativ  
 ao o ae a a aiin o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858010101:0772/pct:67.37012987012987,22.900911382586774,42.96536796536797,13.922823346907117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858010101:0772/pct:22.456709956709958,7.633637127528925,14.321789321789321,4.640941115635705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1918,7 +1918,7 @@ Indian or Indians shall belong for satisfaction; and
 if such nation or tribe shall neglect or refuse to make  
 satisfaction in a reasonable time, not exceedin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858010801:0776/pct:28.896103896103895,20.78727942602288,85.25432900432901,256.4281559045957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858010801:0776/pct:9.632034632034632,6.929093142007627,28.41810966810967,85.47605196819856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1963,7 +1963,7 @@ Indian or indians shall belong for satisfaction; and
 if such nation or tribe shall neglect or refuse to make  
 satisfaction in a reasonable time, not exceedin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858011501:0780/pct:25.946969696969695,20.884235020360673,85.25432900432901,258.1539654838084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858011501:0780/pct:8.6489898989899,6.961411673453559,28.41810966810967,86.05132182793614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2152,7 +2152,7 @@ habitant of the United States, etc.
 Section 19 :  
 That it shall be the duty of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn82014896:00211104405:1871071501:0181/pct:11.982758620689655,20.36173519853045,25.58189655172414,29.164900381517594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn82014896:00211104405:1871071501:0181/pct:7.997413235611123,13.579200226084499,17.05108859668032,19.443266921011727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2229,7 +2229,7 @@ tribe to which said Indian or Indians
 shall belong, for satisfaction; and if such  
 nation or tribe shall neglect or refuse t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bentonite_ver02:data:sn95060806:00517019240:1886032501:0064/pct:70.15415718979024,60.06671899529042,20.899671468284055,21.153846153846153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bentonite_ver02:data:sn95060806:00517019240:1886032501:0064/pct:70.16258107994271,60.07326007326007,20.899671468284055,21.16692830978545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2284,7 +2284,7 @@ nation of tribe hall neglect or refuse to
 make satisfaction in a reasonable time,  
 not exceeding twelve mouths, it shall Ih
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82015133:00211105744:1886040301:0401/pct:17.555831265508687,65.66725455614345,14.392059553349876,16.719576719576718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82015133:00211105744:1886040301:0401/pct:13.170958734098665,49.25338036449148,10.797393732547317,12.545561434450324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

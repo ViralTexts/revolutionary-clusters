@@ -155,7 +155,7 @@ Accept the assurances of my constant
 esteem and respect. (Signedy  
 .. TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830051301:0724/pct:1.8701407858793864,36.67779875127051,15.297331372137004,41.6291563815885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830051301:0724/pct:1.8697478991596639,36.67247386759582,15.29936974789916,41.626742160278745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ Irmu the commencement of our government, and is
 oow engaging ns in a war. that this may bo nvmdod  
 it it cdu be done, without a surrender of rights j, Ir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830052001:0480/pct:6.740313800832533,11.558880308880308,18.331732308677555,31.274131274131275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830052001:0480/pct:6.739234832719705,11.557485824586802,18.33413371751774,31.274379700004022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ sincere prayer—accept the assurances of my constant
 esteem and respect. (Signed)  
 „ T THOMAS JEFFERSON, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830052101:0174/pct:23.299727956473035,38.67065868263473,18.258921427428387,38.035928143712574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830052101:0174/pct:23.296,38.666028020596336,18.261333333333333,38.035365026144575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1026,7 +1026,7 @@ in this proturberant navigation, which has kept us in hot
 water from the commencement of our Government, and  
 is now engaging us in war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842080401:0422/pct:9.566751617329935,239.33078955092458,62.75240148990394,50.029351335485764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842080401:0422/pct:2.391219129753038,59.823917828319885,15.685025480203842,12.505502567865003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1057,7 +1057,7 @@ country will see that its grealest prosperity depends
 on a due balance between agriculture, manufuctures  
 and commerce.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842080801:0582/pct:90.59367771781034,231.8955732122588,56.6692367000771,31.725312145289443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842080801:0582/pct:22.657153875819514,57.9738933030647,14.172772849980717,7.931328036322361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ l-SC 1-iM.srRRlTr PE PENDS ON A DIE BALANCE BE-&#x27; 1
 TWEEN AGKKTu.Tl HE, MANGFACTGRE8, AND COM- !  
 &#x27;Yllt ,l,1&lt;1 n&lt;’1 ,n. ‘I’** protuberant navigation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844053001:0091/pct:63.16398899985526,65.8206618962433,14.994934143870314,13.975849731663684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844053001:0091/pct:63.154848046309695,65.8133035215204,14.997588036661842,13.97801378796348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1292,7 +1292,7 @@ tion as paternalism in line with and cre­
 ative of a Cherokee civilization, was a pro­  
 tectionist in 15.4. and in Jackson ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199094:1891081201:0036/pct:18.574514038876888,247.8463329452852,36.93304535637149,25.09260239178749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199094:1891081201:0036/pct:6.19150467962563,82.61544431509508,12.311015118790497,8.364200797262496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1323,7 +1323,7 @@ water from tho commencement of our
 Government, and is now engaging us in  
 war.?From Jefferson&#x27;s tetter to Thoma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193572:1892041401:1350/pct:17.68004722550177,39.63000678886626,16.145218417945692,8.859470468431772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193572:1892041401:1350/pct:17.68004722550177,39.63849287169043,16.1525974025974,8.855227427019688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1367,7 +1367,7 @@ this the Federal papers and meetings have
 sounded the alarm of Chinese policy,  
 destruction of commerce, &amp;c, * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152810:1892041501:0093/pct:30.271511549371876,28.923271234606883,12.589490746994462,4.9994737396063575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152810:1892041501:0093/pct:30.271511549371876,28.923271234606883,12.593993426088522,5.006490544854928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1388,7 +1388,7 @@ ture, manufactures and commerce.
 The explanation of Mr. Jefferson&#x27;s  
 views is one which shonld be gratifyin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152810:1892041501:0093/pct:30.24449547480751,33.912219766340385,12.589490746994462,3.01020945163667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152810:1892041501:0093/pct:30.24899815390157,33.912219766340385,12.593993426088522,3.01722625688524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1436,7 +1436,7 @@ this nation was a protectienist. The
 Democratic party of to day espouses;  
 either the faith of Jefferson nor th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559978:1892042201:0584/pct:77.5657894736842,129.04191616766468,43.88157894736842,38.12375249500998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559978:1892042201:0584/pct:19.401020240250123,32.26047904191617,10.975810432779332,9.530938123752495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1495,7 +1495,7 @@ nnt navigation which has kept us In hot water
 from the commencement of our government, and  
 I* now engaging us in war —Front Jefferson 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062948:00340581076:1892063001:1016/pct:59.82918789331735,23.169169868436374,10.3685945459994,4.715333566189312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062948:00340581076:1892063001:1016/pct:59.83293377284986,23.17208056816859,10.372340425531915,4.715333566189312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1525,7 +1525,7 @@ ant navigation, which has kept us in hot water
 from the commencement of our government, and  
 Is now engaging us in war. From Jefferson&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021192:1892070601:0200/pct:68.1239388794567,36.185751688025356,18.251273344651953,9.645859170456111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021192:1892070601:0200/pct:51.11441307578009,27.146203665426484,13.691360645298237,7.234394377842084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1601,7 @@ a due balance between agriculture, mant­
 factures and commerce.&quot;  
 Genr Jacksen, another idol of the Den
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199306:1894061401:0040/pct:53.86861313868613,253.23741007194243,37.92700729927007,18.579918673756648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199306:1894061401:0040/pct:17.956204379562045,84.41247002398082,12.642335766423358,6.193306224585549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1623,7 +1623,7 @@ rials.&#x27;
   
 &quot;In another place Jefferson says: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037421:1896081401:0247/pct:16.008737712591667,62.630722751568676,12.981744421906694,3.1257262375087147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037421:1896081401:0247/pct:16.019139751391272,62.63846928499496,12.976543402506891,3.1257262375087147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

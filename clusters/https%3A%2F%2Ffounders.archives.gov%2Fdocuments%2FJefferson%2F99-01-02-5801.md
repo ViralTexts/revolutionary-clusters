@@ -230,7 +230,7 @@ citizens of the United States will always be examin­
 ed into by you With candour. And in duty bound  
 vve will ever piav, &amp;o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807081401:0673/pct:5.075889524757402,3.326904532304725,44.662851455585965,94.53551912568307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807081401:0673/pct:5.074626865671642,3.3263699180459585,44.657960199004975,94.52434517113932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ i “ the diRridt of Mobille, for Fort Stoddert ; has
 “ h»th confined under a military guard i*f foldiers  
 “ at Fort Stoddert.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807081801:0126/pct:57.70576321119499,77.49040960277193,18.228687166267722,6.9545848286103205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807081801:0126/pct:57.695139911634755,77.48082157881713,18.231467844869908,6.957848717314196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ o o!
 Yet could I bear that too; well, very well;  
 But there, where I have garner&#x27;d up my heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843111401:0568/pct:241.9103313840156,187.84304831027444,38.20662768031189,6.157858924926287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843111401:0568/pct:80.63677712800519,62.61434943675815,12.735542560103964,2.052619641642096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ To point his slow unmoving finger at
 A fixed figure for the time of scorn  
 To point his slow unmoving finger at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661435:1853021801:0251/pct:3.3110740122426265,71.4950741582765,9.61324429604897,1.0284724477644256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661435:1853021801:0251/pct:3.3203487293637544,71.49868283353182,9.608606937488407,1.0356897982750533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ lo, I should be
 To point his slow unmoving finger at.&quot;  
 I say that at these times, I have (forgetting the cano
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854042301:0920/pct:8.28921244209133,169.27463503649636,47.270019854401056,16.37773722627737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854042301:0920/pct:2.7630708140304434,56.42487834549878,15.756673284800353,5.459245742092458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ I say that at these times, I have (forgetting the cano
   
 To point his slow unmoving finger at.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn88059487:00279529455:1856083001:0023/pct:36.608639587362994,71.76582680499682,9.722759509993553,0.9210247723904298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn88059487:00279529455:1856083001:0023/pct:36.61293788953363,71.76935563554238,9.722759509993553,0.924553602935987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ Of O
 Yet conld I hear that too: well, very wel&#x27;,  
 But there, where I have garnered up my heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393348008:1859041201:0826/pct:203.49761526232115,313.47305389221555,45.170906200317965,7.140718562874252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393348008:1859041201:0826/pct:50.86429564871846,78.35653345307588,11.290482813431353,1.784912438257746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ some have greatness thrust upon them.
 To point his slow, unmoving finger at.&quot;  
 Such a man comes into court with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293101:1874072501:0092/pct:212.75303643724698,131.74828789249258,40.418353576248315,4.2382736787698665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293101:1874072501:0092/pct:53.21518987341772,32.937071973123146,10.109704641350211,1.0595684196924666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -763,7 +763,7 @@ To point his slow unmoving finger at!
 &quot;A fixed figure for the time of Scorn  
 To point his slow, unmoving finger at.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887021901:0501/pct:71.875,80.77707416550392,14.410545023696683,1.0947729955994419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887021901:0501/pct:53.91793808324692,60.58817215842009,10.813212857354467,0.8157132124074273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ A fixed figure, for the &#x27;time of scorn,
 To point his slow, unmoving finger at!  
 7. Had I but served my God with half the zea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102950:1888112201:0411/pct:57.9144385026738,16.217585089141004,15.467914438502675,1.7119124797406806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102950:1888112201:0411/pct:43.4416365824308,12.165721231766613,11.605829656371172,1.2864667747163696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ To point his slow, unmoving finger at.
 Joe Chamberlain deserves his reproba-  
 tion. He was educated in a school o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn84036012:00212477278:1899122001:1189/pct:170.30984719864176,57.0260347129506,38.3276740237691,13.568090787716956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_nuthatch_ver01:data:sn84036012:00212477278:1899122001:1189/pct:56.769949066213925,19.0086782376502,12.775891341256367,4.522696929238985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

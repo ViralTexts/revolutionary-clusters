@@ -50,7 +50,7 @@ tary syllable to countenance Ihe assertion,
 and the man who relers to the Debates  
 knew it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820011101:0297/pct:35.387352417920106,82.33381502890174,14.65308102862688,9.21242774566474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820011101:0297/pct:35.38163001293661,82.32390126429861,14.656101768003449,9.215332129239414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ in slaves now held by the States. The tax&amp;ticn of this
 State being equal only to its representation, such a tax  
 cannot be bud as he supposes.&quot;|
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840012801:0323/pct:79.55941855237525,77.76011129881745,16.139667316049753,15.929643247540495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840012801:0323/pct:79.55941855237525,77.76342376362251,16.154653079574405,15.936268177150618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ Massachusetts: &quot;.V? jwirer is given to the Gene­
 ral Government to inttrfere with respect to the  
 property in slaves now held by the Stales.&quot;? [El
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845101701:0370/pct:3.218495013599275,58.65449956314921,13.916591115140525,5.145131540627124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845101701:0370/pct:3.218495013599275,58.66097142672233,13.926664651959303,5.141895608840565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ hi!? am-Lft&#x27; &quot;*? ?V** we noi&#x27;? 4 worse condition than
 oeiore. The traffic is prohibited by our laws, and we  
 may continue the prohibition. I need not expatiate o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850070901:0780/pct:16.319218241042346,81.44538665991647,15.618892508143322,4.834831034046323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850070901:0780/pct:16.319218241042346,81.44960553516432,15.618892508143322,4.839049909294182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -972,7 +972,7 @@ other States for not indulging them in a
 segesesy weessesssasw s tisie thensw thwy  
 solicit and obtain aid from foreigs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777614:1850080101:0127/pct:119.89369779802581,351.8801410105758,50.49354593773728,41.77438307873091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777614:1850080101:0127/pct:29.979115245870513,87.97003525264395,12.625783178279855,10.443595769682727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1002,7 +1002,7 @@ stitution to secure slave property,&quot; Mr. Masisor said :
 4 now exists. No power is given to the Genersl Govern­  
 * ment to interpose with reaped to property now held by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850110901:0423/pct:0.9706083390293917,57.275215834912615,15.516062884483937,3.1269740998104862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850110901:0423/pct:0.9797220323536113,57.27872534568681,15.525176577808157,3.1269740998104862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1081,7 +1081,7 @@ sticles of the Confederation it might ben
 at traffic is prohibited by our laws.  
 the mode of representation and taxation, Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853052501:0549/pct:129.75993377483445,133.79742962056304,38.49337748344371,41.26376988984088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853052501:0549/pct:43.253311258278146,44.59914320685434,12.831125827814569,13.754589963280294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1108,7 +1108,7 @@ ormed a basis of our representative system,
 United States, pp. 96, 98.)  
 The liberty to import implies ungualy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853052501:0549/pct:129.51158940397352,167.1205630354957,38.99006622516556,34.83782129742962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853052501:0549/pct:43.170529801324506,55.70685434516524,12.996688741721854,11.612607099143206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1185,7 +1185,7 @@ them in the temjinrury continuance of thii
 traffic, they njight solicit and obtain aid from  
 foreign Powers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853063001:0786/pct:22.063514075717652,54.0683170216849,14.51948412148107,27.00057570523892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853063001:0786/pct:22.068136643091574,54.0683170216849,14.51948412148107,27.00697243011578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1240,7 +1240,7 @@ clause. He said :
 &quot;This is a fatal section, which has created more dangers  
 than any other. The first clause allows the importation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856082801:0923/pct:77.48556767158435,71.22030916174438,15.36241180243746,2.5260776674626118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856082801:0923/pct:77.48556767158435,71.22449834527251,15.378447722899294,2.530266850990742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1464,7 +1464,7 @@ the free States obstruct the due execution of the fugitive
 slave law, but they are mistaken in this assumption.  
 If our gouthern friends 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860050301:0383/pct:20.670698185816384,208.8203345644145,34.41451346893898,37.67108407560287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860050301:0383/pct:5.167674546454096,52.20508364110363,8.603628367234744,9.417771018900718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

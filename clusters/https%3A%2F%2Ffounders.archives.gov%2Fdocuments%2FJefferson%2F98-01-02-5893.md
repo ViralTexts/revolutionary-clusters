@@ -112,7 +112,7 @@ a just sense of the part you have contributed to
 this, and that I bear to vou unmeasured affix  
 tion. THs JEFPF.KSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072501:0601/pct:79.41225580230423,27.849497958733313,19.302053765236266,37.34966346684321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072501:0601/pct:79.39899833055092,27.846425419240955,19.304396215915414,37.349220358929095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ have a just sense of the pait you have contributed
 to this, and that I bear to you unmeasured affection.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826072801:0096/pct:52.37188640330002,12.151225993477473,15.151515151515152,29.89491484478802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826072801:0096/pct:52.36357868020305,12.14975845410628,15.15439932318105,29.895330112721417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ Jefferson, that I have a just sense ofthe
 part you have contributed to this, and  
 that I bear to you unmeasured affection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826080201:0228/pct:63.12099358974359,34.47586403884604,19.110576923076923,59.3259068837475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826080201:0228/pct:48.923618298488925,26.722007009776792,14.815773131856758,45.97675705589375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -784,7 +784,7 @@ have a just sense of the part you have contri­
 buted to this, and that} bear to you unmeas­  
 ured affection. TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826080801:0125/pct:73.86434349719976,27.75782452539764,16.459240821406347,34.34581836839405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826080801:0125/pct:73.86434349719976,27.764665640499402,16.464426467537855,34.338977253292285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ that 1 hear to you unmeasured affec­
 tion.  
 THs JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826090801:0262/pct:21.855509355509355,11.07615894039735,34.95322245322245,85.23178807947019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826090801:0262/pct:21.849831124967523,11.074325442807481,34.950636528968566,85.22181757987089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1154,7 +1154,7 @@ w their cradle, left in a comfortiess siiuation, hold up to
 nnothing but future gloomn; and I should not care were  
 wl end with the line I am writing, were it not that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850021301:0395/pct:2.635782747603834,145.46624546624545,39.153354632587856,25.5996255996256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850021301:0395/pct:0.8785942492012779,48.48874848874849,13.05111821086262,8.533208533208533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -123,7 +123,7 @@ it is &#x27;he only ding which from my heart 1 en*y
 them and which in spite of ail the authority of  
 he Dec &lt;lngtiF, I do co&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829122901:0304/pct:24.68092445670921,2.0664757873770694,36.78854777509486,94.88360512884353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829122901:0304/pct:24.676668391101913,2.06621857107294,36.787951945737774,94.87594390507012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

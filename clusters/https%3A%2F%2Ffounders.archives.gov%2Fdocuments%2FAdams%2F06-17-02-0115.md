@@ -163,7 +163,7 @@ state.
 If however, a fnbfequent fanftion of thk  
 state was at all neceifary to make the treat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797051701:0002/pct:77.7420096573925,51.24260355029586,15.405840423085767,5.828402366863905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797051701:0002/pct:77.75350655323062,51.24630177514793,15.400091975166704,5.835798816568047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ transferred from the States to the United
 Stales ; and it was the strong desire of the ma­  
 jority of the delegetss, inoloding those fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854021501:0170/pct:3.1553739963375125,64.32568857675848,13.663896323425835,10.040601338746844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854021501:0170/pct:3.1600694933558717,64.32568857675848,13.663896323425835,10.044259117012327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

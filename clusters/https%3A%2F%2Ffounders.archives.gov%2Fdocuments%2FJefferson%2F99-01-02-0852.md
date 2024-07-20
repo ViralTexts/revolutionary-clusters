@@ -81,7 +81,7 @@ By the President. %
 (Signed) JAMES MADISON, ,  
 s woe wl s Secrevary Ff State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803051001:0281/pct:41.07500385030033,10.998910998910999,16.186662559679654,17.325017325017324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803051001:0281/pct:41.08527131782946,11.005511005511005,16.181528825915088,17.325017325017324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ States of America the tawenty­
 fewenth.  
 (Signed) Ta :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803051701:0283/pct:22.287029930928625,21.774750764978776,16.208749040675364,15.388411805349916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803051701:0283/pct:22.287029930928625,21.778040996282037,16.218981836786902,15.388411805349916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ Jeventh, .
 (Signed) JAMES MADISON,  
 s -Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803052401:0290/pct:41.447992412266835,55.78611332801277,16.89851406892191,17.78731045490822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803052401:0290/pct:41.447992412266835,55.78611332801277,16.903783328064073,17.78731045490822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ By the President,
 JAMES MADISON,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806043001:1088/pct:47.11773326819736,36.507936507936506,20.76209086468002,7.231040564373898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806043001:1088/pct:47.10622710622711,36.50208400128246,20.763125763125764,7.233889067008657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ be hereunto affixed.
 Given under my hand at the city of Washington,  
 the 3d day of May, A. D. 1841, and of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841050801:0072/pct:21.629374641422835,23.96925952850763,14.902467010900747,5.088794267317478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841050801:0072/pct:21.629374641422835,23.97618305812303,14.921591126410403,5.08533250250978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ Given under my hand at the city of Washington
 the &#x27;23d day ol October, A D. 1841, arid of  
 [l. ? ] the Independence of the United States of A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841110201:0980/pct:50.68395807425831,80.7457368287096,15.668857701190264,5.815729193178926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841110201:0980/pct:50.68395807425831,80.75422075167558,15.68070113104755,5.815729193178926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ John M. Clayton, Seretary of State.
 Zachary Taylor, President of the United Stales of  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849053101:0528/pct:28.687258687258687,16.422198699531226,13.571428571428571,9.405716013911992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849053101:0528/pct:28.7001287001287,16.432279852815164,13.571428571428571,9.400675437270024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

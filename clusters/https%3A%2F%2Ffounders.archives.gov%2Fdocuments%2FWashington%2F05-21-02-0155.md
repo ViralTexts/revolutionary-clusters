@@ -322,7 +322,7 @@ flation, among the nations of the earth, by the
 fuceefiful cultivation ofthe higher branches mi lite  
 raturf. - i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121201:0003/pct:17.38746690203001,43.333333333333336,72.37422771403354,54.351851851851855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796121201:0003/pct:17.40953221535746,43.333333333333336,72.44042365401589,54.38078703703704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ JOHN ADAMS, Vice President
 of the-United States; and Prefs­  
 dint of the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796122401:0207/pct:8.373168851195066,6.9226178635369005,32.99922898997687,85.73702009150587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796122401:0207/pct:8.378308918015934,6.9226178635369005,33.004369056797735,85.74365095152841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1818,7 +1818,7 @@ rious attention.” &lt;
 “To cultivate peace; maintain commerce and  
 navigation; to foster our fisheries, and PRO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827092101:0160/pct:43.16608996539792,90.4027727978965,18.391003460207614,6.358312417831959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827092101:0160/pct:43.15862307559246,90.39196940726578,18.39358819120106,6.361536010197578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1842,7 +1842,7 @@ drly engage our most serious attention.”
 “ To cultivate peace; maintain commerce and  
 navigation; to foster our fisheries, and protec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827092501:0176/pct:35.60606060606061,55.342999878152796,15.232108317214701,5.0322895089557695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827092501:0176/pct:35.600322320709104,55.33625730994152,15.235025517056137,5.035737491877843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2125,7 +2125,7 @@ reflection that the influence of your example will extend
 to your successors, and the United States thus continue  
 to enjoy an able, upright, and energetic administration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:150.0080141048245,38.75825321440982,47.203077416252604,39.76601413181976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:50.00267136827483,12.919417738136607,15.734359138750868,13.25533804393992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2153,7 +2153,7 @@ the establishment of certain useful manufac­
 tures by the intervention of legislative aid  
 and protection.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173472:1888101201:0321/pct:4.095112285336856,57.02684412361832,14.019154557463672,1.9625535754568013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173472:1888101201:0321/pct:4.094436189532772,57.02041276643735,14.022343294260084,1.966091500319537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2215,7 +2215,7 @@ lishment ot certain useful manufactures
 by the intervention of legislative aid  
 and protection.&quot; Jefferson, iv Decem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00206536792:1894032901:0287/pct:4.5257452574525745,58.84288747346072,10.691056910569106,8.471337579617835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00206536792:1894032901:0287/pct:4.5257452574525745,58.846426043878274,10.691056910569106,8.474876150035385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2233,7 +2233,7 @@ the establishment of certain useful manu­
 factures by the intervention of legislative  
 aid and protection.&quot; Jefferson, in Decem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767815:1894032901:0104/pct:21.10062390017597,34.321408290743896,13.805791073428251,1.6240772288472458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767815:1894032901:0104/pct:21.10062390017597,34.32897974635624,13.816456033701275,1.6278629566534166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2251,7 +2251,7 @@ celerating the establishment of certain use­
 ful manufactures by the intervention of  
 legislative aid and protection.&quot; Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eigg_ver01:data:sn99062034:00279523325:1894032901:0065/pct:38.11680957773823,80.8732486151841,14.237178450088983,2.031063321385902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eigg_ver01:data:sn99062034:00279523325:1894032901:0065/pct:38.1275953189883,80.8732486151841,14.24796419133905,2.038304188841823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2287,7 +2287,7 @@ celerating the establishment of certain use­
 ful manufactures by the intervention of  
 legislative aid and protection.” Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340745:1894033001:0096/pct:20.60805751085817,80.57842516360566,13.404223453646848,1.878826261346844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340745:1894033001:0096/pct:20.61304977285208,80.58546196608262,13.399231191652937,1.878826261346844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2308,7 +2308,7 @@ celerating the establishment of certain use­
 ful manufactures by the Intervention of  
 legislative aid and protection.&quot; Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_germanium_ver01:data:sn88076013:0027174089A:1894033101:0061/pct:40.17167381974249,85.16403240802231,10.592274678111588,2.5235755080355955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_germanium_ver01:data:sn88076013:0027174089A:1894033101:0061/pct:40.17167381974249,85.16735290211183,10.609442060085836,2.5302164962146367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2329,7 +2329,7 @@ celerating the establishment of certain use­
 ful manufactures by the. intervention of  
 legislative aid and protection.&quot; Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479871:1894040401:0110/pct:51.367831245880026,8.690693430656934,14.238628872775214,3.090784671532847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479871:1894040401:0110/pct:51.37332454405625,8.69449513381995,14.244122170951439,3.0945863746958637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2351,7 +2351,7 @@ celerating the establishment of certain use­
 ful manufactures by the intervention of  
 legislative aid and protection.&quot; Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919982:1894040501:0115/pct:33.339017735334245,7.955477445811365,14.34174624829468,3.034563561804335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919982:1894040501:0115/pct:33.350386539336064,7.959382933020894,14.34174624829468,3.0462800234329235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2369,7 +2369,7 @@ the establishment of certain useful manufac­
 tures by the intervention of legislative aid and  
 protection&quot; Jefferson, in December. 18J1, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918151:1894040601:0545/pct:27.346622798529125,24.859067784958064,16.953744919682602,1.9524267839956002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918151:1894040601:0545/pct:21.882741535920726,19.887071936642958,13.573492981007432,1.5692601011952776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2387,7 +2387,7 @@ the establishment of certain useful manu­
 factures by the intervention of legislative  
 aid and protection.&quot; Jefferson, In Decem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625133:1894040601:0869/pct:20.700531208499335,31.978009391822244,14.160026560424967,1.557668079257817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625133:1894040601:0869/pct:20.70606463036742,31.978009391822244,14.16555998229305,1.5653037070973161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2405,7 +2405,7 @@ celerating the establishment of certain use­
 ful manufactures by the intervention of  
 legislative aid ami protection.&quot; Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624633:1894040601:0956/pct:25.20819266261535,95.65285135556248,16.812964213369344,2.29043315674665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624633:1894040601:0956/pct:21.439959186276386,81.31290835246335,14.284803265097889,1.9556772028959915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2423,7 +2423,7 @@ celerating the establishment of certain use­
 ful manufactures by the intervention of  
 legislative aid and protection,&quot; Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023607:1894042001:0301/pct:27.726975832789027,121.30853685861528,21.032005225342914,2.980058256777952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023607:1894042001:0301/pct:18.490689317216596,80.8760923145866,14.031362299901993,1.9829710956755546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -73,7 +73,7 @@ Catharine the becond The ruling opinion in
 Russia demanded the concentration of all  
 power in one hand. From the moment th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654152:1860062701:0207/pct:17.462146148782093,57.97085922434112,16.3265306122449,8.54938932933362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654152:1860062701:0207/pct:17.474489795918366,57.976215984572534,16.3265306122449,8.546710949217912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ happiness, let us beseech the Almighty to
 blast their counsels, and bring to nought all  
 their devices.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775344:1860070301:0849/pct:26.390008058017727,33.226691042047534,16.398066075745366,6.261425959780621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775344:1860070301:0849/pct:19.806568607696956,24.923826934795855,12.29095305258916,4.707495429616087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ happiness, let us beseech the Almighty to
 blas! their counsels, and bring to nought  
 all their devices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1860071801:0358/pct:191.75597691673536,322.5536660161695,61.50041220115416,25.146361862280457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1860071801:0358/pct:47.93899422918384,80.63841650404237,15.37510305028854,6.286590465570114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ SweArine.--I think a man that swears
 is like a man that fires a gun in the street  
 without seeing where the charge is goin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1860071802:0197/pct:194.27350427350427,321.7278617710583,59.23076923076923,33.52051835853132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1860071802:0197/pct:48.58914065840103,80.43196544276458,14.814023086789225,8.38012958963283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ seech the Almighty to blast their counsels, and bring
 to nought all their devices.”  
 Washing anA Ironing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860072801:0006/pct:43.53455818022747,26.22727834796587,11.968503937007874,3.8951403487078027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860072801:0006/pct:43.54330708661417,26.230369729195004,11.968503937007874,3.898231729936936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ prosperity and happiness, let us beseech
 he Almighty to blast their counsels, and  
 bring to nought all their devices.Ban
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860081701:0350/pct:177.81926811053026,139.69718817591925,48.54368932038835,20.937274693583273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860081701:0350/pct:44.47973099196712,34.92429704397981,12.142723706332898,5.234318673395818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ sels and bring to nought all their devices.&quot;
 Gcorgt Bancroft.  
 The Sailor&#x27;s Letter. A Sailor writin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1860082201:0008/pct:93.16526610644257,53.84975427100398,16.73669467787115,11.420547624619704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1860082201:0008/pct:69.90332072299286,40.39316639363445,12.568306010928962,8.56541071846478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ to day in the petitions of our worthy pastor
 for a reconiliation between our no longer  
 parent State, but tyrant state, and these cob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1860082201:0034/pct:93.0976430976431,54.15983126318256,16.652637485970818,4.1246777595500355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1860082201:0034/pct:69.83302932510172,40.62573236465901,12.501753893643889,3.093508319662526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ iness, and tor her recreation sought the com­
 pany of the young and the very gay, she far  
 excelled those around her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860090101:0829/pct:6.22334238076774,89.55598994694219,16.072120977122914,13.29237643116448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860090101:0829/pct:4.828207953520986,69.40917616505554,12.466192527296403,10.305150771894388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ supplications as formerly, for their prosperity and happl­
 ness, let us beseech the Almighty to blas; their counsels  
 and bring to naeght all their devices.&quot; Thus wrote 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861092101:0287/pct:243.81378692927484,250.57748445234168,43.205013428827215,12.082751618225663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861092101:0287/pct:81.25671321160043,83.51522842639594,14.399092970521542,4.027072758037225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ supplications as formerly, for their prosperity and
 happiness, let us beseech the Almighty to blast their  
 counsels, and bring to naught all their devices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861092501:0298/pct:187.33542319749216,310.84591084591085,49.71786833855799,15.95881595881596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861092501:0298/pct:46.84119767988713,77.71147771147771,12.431415582379683,3.98970398970399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ prosperity and happiness, let us beseech the
 Almighty to blast their counsels and bring to  
 naught all their devices.&quot; Thus wrote a w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1861102301:0175/pct:147.16828478964402,104.60829493087557,56.715210355987054,24.53917050691244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1861102301:0175/pct:36.81441003845375,26.152073732718893,14.187411455171018,6.13479262672811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ think, that this was indeed the most cautious and cone­
 servative of revolutions. In fact, it was a century and  
 a half old upon the day of its birth. We 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:101.32793522267207,62.86499484713157,48.37246963562753,32.93255467765945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:33.77597840755735,20.95499828237719,16.12415654520918,10.977518225886485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ prosperity and happiness, let us beseech the
 Almighty to blast their counsels, and to bring to  
 naught all ibeir devices.&quot; This was a declara
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875071101:0005/pct:70.62713310580205,83.21203299369238,12.947952218430034,4.722626556687692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grand_ver02:data:sn84031492:no_reel:1875071101:0005/pct:70.64313139931741,83.21203299369238,12.953284982935154,4.734756590651787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ and happiness, let us beseech the Al­
 mighty to blast their cownsels and to  
 bring to naught all their devices.’’ Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1875071601:0983/pct:100.41666666666667,111.95539419087137,17.3731884057971,9.595435684647303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1875071601:0983/pct:77.8266566828903,86.77184872542124,13.464058405091725,7.439788295983654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ and happiness, let us beseech the Almigh­
 ty to blast their counsels, and to bring to  
 uaught all their devices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295879877:1875071701:0326/pct:74.60317460317461,64.17163289630513,16.0,8.224076281287246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295879877:1875071701:0326/pct:55.961263692649624,48.12872467222884,12.00190506429592,6.174016686531585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ and happiness, let us beseech the Al­
 mighty to blast their counsels and to  
 bring to naught all their devices.&quot; Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edsel_ver01:data:sn85025567:00212472220:1875072001:0196/pct:22.21864434068588,4.329268292682927,29.238447914989536,88.59756097560975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edsel_ver01:data:sn85025567:00212472220:1875072001:0196/pct:22.229377985294906,4.337398373983739,29.227714270380506,88.59756097560975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ let us beseech the Almighty to blast their
 counsels, and to bring to naught all their  
 devices.&quot; This was a declaration of in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551232:1875072101:0720/pct:77.69830949284786,61.63493502568752,19.02904204594712,8.446660622544576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551232:1875072101:0720/pct:77.69830949284786,61.6450085625063,19.0362664354862,8.446660622544576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ and happiness, let us beseech the Al­
 mighty to blast their counsels and to  
 bring to naught all their devices.’’ Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769283:1875072201:0512/pct:79.80542452830188,10.900525854513585,13.28125,7.318141980718668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769283:1875072201:0512/pct:79.81033805031447,10.904177621969033,13.276336477987421,7.31449021326322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ and happiness, let us beseech the Al­
 mighty to blast their counsels and to  
 bring to naught all their devices.&quot; Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479305:1875072301:0179/pct:80.29978586723769,52.21417926335959,12.177016416845111,6.844794549712582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479305:1875072301:0179/pct:80.30930287889602,52.21417926335959,12.17225791101594,6.844794549712582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -794,7 +794,7 @@ piness, let us beseech the Almighty to
 blast their councils and bring to naught all  
 their devices.&quot; This was a declaration o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1875072301:0667/pct:205.61342592592592,134.27501337613697,44.56018518518518,24.184055644729803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1875072301:0667/pct:51.40335648148148,33.56875334403424,11.140046296296296,6.046013911182451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -822,7 +822,7 @@ and happiness, let. us beseech the Al­
 mighty to blast their counsels and to  
 bring to naught all their devices.’1 Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1875072301:0987/pct:101.50073206442167,14.952043095519644,17.44143484626647,9.53882538431218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1875072301:0987/pct:78.66767528722046,11.594596429298758,13.517091390477992,7.392573484488493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -848,7 +848,7 @@ let us beseech the Almighty to blast their
 counsels, and to bring to naught all their de-  
 vices.&quot; This was a declaration of indepen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1875072801:0965/pct:160.97934200459068,298.3724614719862,42.3106350420811,23.851361083105285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1875072801:0965/pct:40.26023727516265,74.59311536799655,10.581706850363567,5.962840270776321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ formerly for their prosperity and happi-
 ness, let us bescech the Almighty to  
 blast their councils and to bring t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283375:1875072901:0191/pct:211.0867178924259,258.95857247208596,38.85839736553238,18.595429406240218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283375:1875072901:0191/pct:70.38155366456218,86.319524157362,12.956354652758716,6.198476468746739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ oils and to bring to naught all their
   
 devloes.&quot; Subscriptions &#x27; for a luonu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_caliente_ver02:data:sn84022048:00415668387:1875073001:0381/pct:33.046875,50.63835505980379,15.91796875,7.767773148770327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_caliente_ver02:data:sn84022048:00415668387:1875073001:0381/pct:24.794841735052756,37.97876629485284,11.957796014067995,5.832549388523048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -935,7 +935,7 @@ and happiness, let us beseech the Al­
 mighty to blast their councils and to  
 bring to naught all their devices.&quot; Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:0028077943A:1875080301:0720/pct:67.21311475409836,49.28762243989314,19.623915139826423,8.563371920451173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:0028077943A:1875080301:0720/pct:50.42199180130215,36.96942712971208,14.733542319749215,6.426239240130602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -963,7 +963,7 @@ seech the Almighty to blast their counsels and
 to bring to naught their devices.”  
 Two charmibg and amiable young ladies a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525395:1875081101:0183/pct:84.92076458095083,85.63211503894547,11.011272667864729,6.195326542840024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525395:1875081101:0183/pct:84.90689317216597,85.62185478073329,11.013557660895133,6.19757967888809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1017,7 +1017,7 @@ laration of independence preceding by
 months that vbieh Jefferson wrote. .  
 An anecdote has lately been going th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152639:1875082701:0218/pct:13.066418373680943,103.32151765787056,15.999379267535693,9.400026257056584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152639:1875082701:0218/pct:9.80909514201459,77.49770250754891,11.997516684774174,7.050019692792438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1044,7 +1044,7 @@ ty and happiness, let us beseech the
 Almighty to blast their counsels, and to  
 bring to naught all their devices.&quot; Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1875091001:0150/pct:193.7917222963952,328.78942014242114,42.65687583444593,23.194303153611393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1875091001:0150/pct:48.4479305740988,82.19735503560528,10.664218958611482,5.798575788402848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1072,7 +1072,7 @@ us beseech the Almighty to blast their
 counsels, and to bring to naught all,  
 their deyices.&#x27; This was/ a declaration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn84022127:00212470806:1875091501:0355/pct:60.6823451473998,84.40026954177898,16.67770785028155,8.423180592991914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn84022127:00212470806:1875091501:0355/pct:60.68786573920724,84.40026954177898,16.683228442088993,8.430667864630129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1166,7 +1166,7 @@ tion between our no longer tyrant State
 and these colonies. Let us separate.  
 They are unworthy to be our brethren.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294762:1884071701:0341/pct:163.9358108108108,133.63291672517906,50.8445945945946,11.739924167953939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294762:1884071701:0341/pct:40.992608236536434,33.408229181294764,12.713833157338966,2.9349810419884848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1192,7 +1192,7 @@ longer tyrant State and these colonies.
 Let us separate. They are unworthy to  
 be our brethren.&quot; Her predecessor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198910:1884091401:0453/pct:194.12536921562193,133.6316533207725,45.12635379061372,19.583137070183703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198910:1884091401:0453/pct:48.53134230390548,33.407913330193125,11.28158844765343,4.895784267545926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1216,7 @@ for their prosperity and happiness, let us beseech
 the Almighty to blast their counsels, and to bring  
 to naught all their devices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_blackhole_ver01:data:sn90050094:00513687886:1889051801:0466/pct:65.79457364341086,78.91779396462019,27.357881136950905,9.386056191467222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_blackhole_ver01:data:sn90050094:00513687886:1889051801:0466/pct:65.81610680447889,78.91779396462019,27.368647717484926,9.406867845993757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1244,7 +1244,7 @@ their prosperity and happiness, let us
 beseech the Almighty to blast their counsels  
 and bring to naught all their devices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:0023728205A:1891071201:0128/pct:51.277624309392266,81.80677540777917,15.05524861878453,8.559877317719225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:0023728205A:1891071201:0128/pct:38.47349335175272,61.35508155583438,11.293386289069245,6.4268785724243696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

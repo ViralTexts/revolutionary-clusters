@@ -48,7 +48,7 @@ as well as all other matters connefted with
 the naval eftablifhmtrt of the United  
 States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798050401:0002/pct:61.2858141160028,25.260991030730775,16.42208245981831,6.71960005881488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798050401:0002/pct:61.297460982995574,25.26834289075136,16.42208245981831,6.71960005881488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -73,7 +73,7 @@ iri*-nt, of vessels ol war, as well as all other
 matters connected with the naval establishment  
 of the United .States. And the said board shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815022501:0058/pct:42.20183486238532,82.76166456494326,17.24770642201835,6.090794451450189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815022501:0058/pct:42.19409282700422,82.7512293531711,17.25065737173607,6.094229395200269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ The bill introduced into the Congress ol 1789, provided
 lor the establishment ot the three Departments—those of  
 War, Slate, and I reasury—under the name of Executiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833121901:0263/pct:80.09569377990431,34.76527900797166,14.777853725222146,3.1554472984942428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833121901:0263/pct:80.08474576271186,34.76143031108159,14.780390012757426,3.158788147164102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ By this act, everything appears to have been left
 to Executive discretion, and no organization what­  
 ever prescribed by law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853011401:0109/pct:108.1517218432873,43.749282516358626,46.63117617700882,16.209390425898288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853011401:0109/pct:36.05057394776244,14.583094172119543,15.543725392336272,5.403130141966097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ By this act every thing appears to have been left to
 Executive discretion, and no organization whatever pre­  
 scribed by law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853012201:0487/pct:65.53371553371554,13.091533426333298,15.233415233415233,4.689344350252173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853012201:0487/pct:65.54281554281555,13.091533426333298,15.224315224315225,4.6964981936545405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ and the information derived and counsels giveu
 by the chiefs of the Bureaus are as unreliable  
 as they are unofficial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1853020401:0458/pct:25.834326579261024,40.28768133759528,17.029201430274135,4.634865994590608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1853020401:0458/pct:19.38897168405365,30.21883452176051,12.771982116244411,3.4792230145070078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ in terms, to the i flWt that the Secretary shall &quot; oxeite
 such orders as he shall receive from the President of  
 ie United (States, relative to the procurement of nava
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854072201:0077/pct:33.43583104062146,94.6236559139785,15.342288396180612,1.525381345336334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854072201:0077/pct:33.43583104062146,94.6236559139785,15.35307762852673,1.5337167625239643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ sucetion armamnert, equipment and employmest of vesnd
 sar, as well as all other matters connected with the navil esta)­  
 lisha ent of the United States. GAct of Congress, Aprl 35, 1128
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860091501:0117/pct:4.945323975844622,178.0487804878049,48.1312224579729,9.6977476951803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860091501:0117/pct:1.6484413252815406,59.34959349593496,16.043740819324302,3.2325825650601003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ ment and employment of vessels of war, as well as anl
 ather matters connected with the naval establishment of  
 the United States. (Act of Congreas, April 30, 1790, see
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860092301:0253/pct:12.288946910356833,120.01427042454513,46.37075718015666,9.620644547508622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860092301:0253/pct:4.096315636785611,40.00475680818171,15.45691906005222,3.206881515836207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ ployment of vessels of war, as well as
 all other matters connected with the  
 Naval establishment, lie has charg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332897093:1887061801:0897/pct:6.563916591115141,68.3927091963546,10.86128739800544,4.8053024026512015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332897093:1887061801:0897/pct:6.562726613488035,68.38326660223665,10.863850616388687,4.8080905702057155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -898,7 +898,7 @@ of vessels of war, as well as all otl
 matters conpiected with the naval en  
 tablishment. tle has charge of at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036228:00294550446:1887062301:0648/pct:132.98168789808918,130.04926108374383,36.78343949044586,17.08743842364532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036228:00294550446:1887062301:0648/pct:44.327229299363054,43.34975369458128,12.261146496815286,5.695812807881773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -919,7 +919,7 @@ the procurement of naval stores and mat­
 war as well as all other matters connected  
 with the uaval establishment. He ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173460:1887062401:0201/pct:4.110724349411569,12.417632356282663,14.752196253936681,4.180867984548966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173460:1887062401:0201/pct:4.110043089161419,12.416221742587755,14.75527566014805,4.184179635730244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

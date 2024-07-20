@@ -46,7 +46,7 @@ law to {ufpend the aét laying an EM­
 BARGO on. all thips and vessels in  
 the ports and harbors of the U. States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808041901:0062/pct:77.01447067783701,23.759920634920636,16.191926884996192,10.267857142857142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808041901:0062/pct:77.02462553947703,23.763227513227513,16.191926884996192,10.264550264550264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ Pinckney, sixteen pieces of heavy ordnance
 and provisions for the United States brig  
 Hornet, Capt. Dent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808042201:0456/pct:41.02518306840507,5.537340619307832,17.02089658867655,12.22829386763813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808042201:0456/pct:41.017857142857146,5.536668285575522,17.023809523809526,12.230856402784523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ stances of the case may appear to require :
 Provided, such suspension shall not extend  
 beyond twenty days after the next meet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808042601:0142/pct:59.672193634457784,33.19760783814735,17.7053554412045,11.706323959791321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808042601:0142/pct:59.66082317073171,33.19338422391858,17.708333333333332,11.709075487701442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ ceived on tlie 22d inst. and have been consi­
 dered with the attention due t® every expres­  
 sion of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808091601:0163/pct:40.732640787315475,53.16852804617894,16.85802806633862,2.170912285104781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808091601:0163/pct:40.725218658892125,53.16185696361355,16.86103012633625,2.1748222501045587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ the evils which necessarily follow an aban­
 donment of the moral rules which bind  
 men and nations together ;&quot; never dream
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808092701:0396/pct:31.079423489727077,76.62089660816586,22.55443115608709,3.100845685186869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808092701:0396/pct:31.074658899279473,76.61392980541916,22.556083601614798,3.103594592956295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ us first—‘The orders of England, and the
 decrees of France and Spain,’ as if our or­  
 ders had been the cause of the French de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808121501:0266/pct:60.47904191616767,66.36202081746636,17.2382507711849,2.7925869510027925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808121501:0266/pct:60.46806966618287,66.3535981723569,17.24117077890663,2.796463172145365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ ing at the date of these laws, are still unre­
 pealed, as far as we know.” Here indeed  
 is a tissue of deceit—a want of truth mixe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811070501:0111/pct:49.07574391343553,34.572072072072075,21.12263300270514,3.5754504504504503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811070501:0111/pct:49.06468334460221,34.567206192821956,21.123506874013973,3.5784658691062634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

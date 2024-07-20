@@ -62,7 +62,7 @@ selves and the much respected Corporation o(
 ihe city of New York, the assurance of my high  
 consideration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072501:0601/pct:61.26231424277843,71.58777446761557,17.56553681749875,21.670528522564272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072501:0601/pct:61.25208681135226,71.57987643424536,17.56816917084029,21.671815239776404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ the much respected Corporation of the City of
 New York the assurance of my high considers •  
 tion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826072801:0096/pct:36.98238933841028,69.33204493296292,15.02459146438204,17.514192535330356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826072801:0096/pct:36.976522842639596,69.32367149758454,15.027495769881556,17.51610305958132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ as it has enabled them, by its blessed effects, to
 witness the wisdom of the choice then made,  
 between submission and resist.nee.” His pi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826080801:0649/pct:61.11842105263158,19.059080962800877,17.138157894736842,1.7943107221006565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826080801:0649/pct:61.10837033382667,19.056995952302813,17.14082113687442,1.7977610035371767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

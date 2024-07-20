@@ -45,7 +45,7 @@ eading my Clasmate Heminways Vindication of the Power, Obligation and Encouragem
 Aafwer to a Trad, intitled, « A Vindication of  
 the Power, Obligation and Encouragemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774070701:0616/pct:95.25043177892918,108.54547956515756,26.381692573402418,1.4448878491812303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774070701:0616/pct:73.83156720580034,84.12726626377533,20.446179587283883,1.1233558478492713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -62,7 +62,7 @@ Adwer to a Trad, intided, « A Vindication of
 the Power, Obligation and Encouragement oft he Untegenc­  
 rate to attend the Means of Grace,” &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774081801:0632/pct:93.73881932021467,50.80566064172621,27.325581395348838,2.3399187333613565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774081801:0632/pct:72.64744959852118,39.381764216165344,21.18306279244411,1.813443370615702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ and selfish.” &#x27;
 The great difficulty with many appears to  
 be in being contented with a competency
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00205958162:1850122901:0002/pct:2.899650827387278,61.27567567567568,9.913465917716715,7.448648648648649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00205958162:1850122901:0002/pct:2.9034461818733868,61.27567567567568,9.917261272202824,7.456756756756757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ tendency to make them penurious and
 &#x27;lfish.&quot;  
 H A married gentleman up at Cleve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1851011001:0847/pct:47.06531332744925,95.65870512242752,18.86584289496911,21.81162685894547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1851011001:0847/pct:35.31229309203266,71.74402884182064,14.146987419995586,16.3587201442091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ esty, ingenuity or humultity. Their wealth
 has rather a tendency to make them pen­  
 urious and selfish.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288294:1851011601:0381/pct:69.83892419092656,64.66673822045723,13.211171863455002,14.01738757110658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288294:1851011601:0381/pct:69.83892419092656,64.66673822045723,13.221023594896803,14.024542950162784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ The rich are seldom remarkable fdr mod­
 has rather a tendency to make them pen­  
 urious and selfish;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288294:1851011601:0382/pct:70.20710059171597,65.01176974106569,12.8698224852071,14.0059918681789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288294:1851011601:0382/pct:70.20710059171597,65.01890291746915,12.884615384615385,14.0059918681789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ is. The rich are seldom remarkable for modesty.
 ingenuity or humanity. Their wealth has rather a  
 tendency to make them penurious and selfish.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1851011701:0018/pct:67.19678953626635,53.972042277531536,41.186087990487515,7.546312080918286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1851011701:0018/pct:50.42379182156134,40.48187294010683,30.899628252788105,5.659734060688715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ tor miie-ty, ingenuity, or humanity. Tnmr
 w -tilth ha* rather a tendency to make them pen­  
 urious and s iiish.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1851011701:0011/pct:2.1200910643141717,43.466434555543465,12.94820717131474,9.911870307909911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1851011701:0011/pct:2.129576930373743,43.47006129184347,12.94820717131474,9.919123780509919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ nurious and selfih
 
 ---
 
-## [From _The International Monthly Magazine of Literature, Science and Art (1850-1852)_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1851-02-01_2_3/page/n137/mode/1up?view=theater)
+## [From _The International magazine of literature, art, and science_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1851-02-01_2_3/page/n137/mode/1up?view=theater)
 
 #### 1851-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -471,7 +471,7 @@ to couse rather than what is. The rich ate
 dee semarhabte for modesty, ingenalty.  
 be Dusanlty. Thele wealth has rather 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1851030101:0355/pct:63.26344576116682,331.88637089052025,53.16773017319964,46.3613150335142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1851030101:0355/pct:15.812257917521075,82.9583532790809,13.288904078377763,11.588479336205522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ for modesty, ingenuity or humanity. Their
 wealth ha« rnthcr h tendency to make them  
 penurious aud selfish”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851122501:0559/pct:80.89524066334097,58.87716985277961,12.012943238506134,11.360140628433312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851122501:0559/pct:80.89524066334097,58.87716985277961,12.017437418542986,11.371127224785761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ feelings at present; and when I get to he
 n millionaire, I presume I shall be alio  
 to stand it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1861070401:0477/pct:32.1368004522329,132.44709135382325,18.612210288298474,12.059980857173242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1861070401:0477/pct:21.43059089623975,88.30160587046687,12.411648289510884,8.039987238115495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

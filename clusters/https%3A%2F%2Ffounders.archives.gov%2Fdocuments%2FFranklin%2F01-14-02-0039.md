@@ -108,7 +108,7 @@ taken off, at least for those Colonies that desire it,
 and where the Merchants trading to them make  
 no objedtion to it. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1767073101:0836/pct:4.589678510998308,23.028300531532825,28.46869712351946,52.822870277259014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1767073101:0836/pct:4.596728708403836,23.028300531532825,28.475747320924985,52.82765886127472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2293,7 +2293,7 @@ increase in tbe quantity of gold and silver.
 In a rude state of society, where articles  
 to be exchanged are few and the exchange
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897883:1869012301:0345/pct:49.40092165898618,63.79814724524622,11.41321044546851,7.191613846903949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897883:1869012301:0345/pct:49.39333435724159,63.7903717245582,11.415297189371833,7.193784277879342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2353,7 +2353,7 @@ The &quot;logical&quot; answer of Franklin to the British Board
 of Trade seems to me to be very &quot;int lligible,&quot; that  
 money is stmply a medinem of eachunne, and is whut th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875073101:0264/pct:4.634464751958225,71.02587800369686,49.3798955613577,42.525415896487985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875073101:0264/pct:1.5448215839860748,23.67529266789895,16.459965187119234,14.175138632162662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2374,7 +2374,7 @@ purpose, whenever that thing is not to be had, or not to
 be had in sufficient quantity, it becomes necessary to use  
 something clse, the fittost that can be got in lien of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875080701:0320/pct:152.0927968851395,20.58790019368805,48.63724853990915,11.530135581633816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875080701:0320/pct:50.697598961713176,6.862633397896016,16.21241617996972,3.843378527211272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2399,7 +2399,7 @@ legal tender, with the knowledge that it can casily be re
 passed for the rame valuc, that makes threepenny worth  
 of silver pass for sixpence.&quot; I differ from this. It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875080701:0320/pct:151.91434133679428,43.23800843112681,48.36145360155743,16.269796057878548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875080701:0320/pct:50.63811377893143,14.41266947704227,16.120484533852476,5.423265352626182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2421,7 +2421,7 @@ tions. Any other weli-fonnded credit is
 as much an equivalent as gold and sil­  
 ver. Paper money well iounded, ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346769:1875082301:0329/pct:48.357723577235774,59.32893948472139,13.398373983739837,3.774715398442181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346769:1875082301:0329/pct:48.36856368563686,59.33293389255043,13.392953929539296,3.774715398442181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2445,7 +2445,7 @@ is but another name for paper money in
 its different forms,—bills, checks, notes,  
 etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346769:1875082301:0329/pct:48.3089430894309,65.2486518873577,13.447154471544716,4.829239065308568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346769:1875082301:0329/pct:48.31978319783198,65.25664070301578,13.447154471544716,4.829239065308568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2468,7 +2468,7 @@ the American people, to enable them to work out the
 salvation of our country from the present paralyzed  
 condition of trade and commerce, I shall regard it as 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743919:1875120201:0808/pct:104.16941331575478,28.31959706959707,45.978905735003295,10.748626373626374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743919:1875120201:0808/pct:34.72313777191826,9.43986568986569,15.326301911667766,3.582875457875458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2502,7 +2502,7 @@ thither that it has been greatly useful to
 i them, and not in a tingle instance pre­  
 1 judical.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1875121801:0758/pct:37.50637863582242,86.78146038322113,11.600612349038952,9.192128430864837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1875121801:0758/pct:37.5,86.77022653721683,11.602891156462585,9.194174757281553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2637,7 +2637,7 @@ it does not appear to be of the ruinous
 nature ascribed to it.  
 The British board of trade then said: Tba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191587:1876030801:0105/pct:47.971727105101415,39.32753623188406,18.577135832821142,29.240579710144928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191587:1876030801:0105/pct:36.00307455803228,29.495652173913044,13.943120676402767,21.93623188405797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2702,7 +2702,7 @@ opinion that the estimation will continue.
 Otherwise a pound of gold would not be a real  
 equivalent for even a bushel of wheat. (Se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191587:1876030801:0105/pct:48.24830977258758,69.75072463768116,18.45421020282729,26.469565217391306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191587:1876030801:0105/pct:36.202920830130665,52.31304347826087,13.85088393543428,19.860869565217392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2898,7 +2898,7 @@ mation they happen to be in among the generality of
 nations. Any other well founded credit is as much an  
 equivalen, as gold and silver. Paper money, wel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876061201:0927/pct:99.56760352569432,160.13574660633483,46.8318642940296,6.244343891402715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876061201:0927/pct:33.189201175231446,53.378582202111616,15.610621431343201,2.081447963800905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2915,7 +2915,7 @@ for exportation. On the whole, no method has hitherto
 been formed to establish a medium of trade equal in  
 all its advantages to bills of credit made a genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876061201:0927/pct:99.08531515050723,170.58823529411765,47.24763013470813,4.705882352941177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876061201:0927/pct:33.02843838350241,56.86274509803921,15.74921004490271,1.5686274509803921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2936,7 +2936,7 @@ among tie generality &lt;&gt;t nations. Any |
 ether W&#x27; !l lounde I credit is as much an (  
 equivalent as gold and silver. Paper 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876062901:0271/pct:33.88606140206863,44.41028163817489,13.823674273518305,3.8494650104538186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876062901:0271/pct:33.89700651234061,44.41028163817489,13.834619383790292,3.857664083958513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2955,7 +2955,7 @@ formed to establish a medium of trade
 equal in all its advantages to bills ot  
 credit made a general legal tender.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876062901:0271/pct:33.96814972910852,50.38740622309679,13.396814972910851,2.717992866806051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876062901:0271/pct:33.97362228424451,50.39560529660148,13.39134241777486,2.709793793301357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2975,7 +2975,7 @@ the estimation they happen to be in among the
 generality of nations. Paper money has great  
 advantages over gold and silver, as it is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876100501:0416/pct:62.84448818897638,47.74122268598085,13.28740157480315,2.3201571323348884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876100501:0416/pct:62.849956255468065,47.74940666175628,13.281933508311461,2.3201571323348884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2995,7 +2995,7 @@ the estimation they happen to be in among the
 generality of nations. Paper money has great  
 advantages over gold ana silver, as it is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876100501:0417/pct:63.41863517060367,47.422047630739016,13.270997375328085,2.2710532776822983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876100501:0417/pct:63.41863517060367,47.422047630739016,13.281933508311461,2.2833292413454456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3015,7 +3015,7 @@ the estimation they happen to be in among the
 generality of natious. Pajwr money lias great  
 advantages over gold and silver, as it is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876101201:0426/pct:63.79593175853018,47.83943039528603,13.238188976377952,2.2956052050085933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876101201:0426/pct:63.80686789151356,47.84761437106146,13.227252843394576,2.299697192896309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3035,7 +3035,7 @@ the estimation they happen to be in among the
 generality of nations. Paper money has great  
 advantages over gold ana silver, as it is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876101901:0437/pct:64.99343832020998,47.69211883132826,13.402230971128608,2.2465013503560027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876101901:0437/pct:64.99890638670166,47.69211883132826,13.407699037620297,2.2587773140191505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3055,7 +3055,7 @@ the estimation they happen to he in among the
 generality of nations. Paper money has great  
 advantages over gold and silver, as it is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876101901:0438/pct:64.41929133858268,48.035845813896394,13.385826771653543,2.2465013503560027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876101901:0438/pct:64.43022747156606,48.039937801784106,13.380358705161855,2.2465013503560027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3073,7 +3073,7 @@ and more safe, and that, on the whole, no method has
 hitherto been devised equal in all its advantages to  
 bills of credit made a general legal tender. Ricard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876102001:0257/pct:154.60644738995254,245.51186518399632,45.50810014727541,4.940960678665597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876102001:0257/pct:51.535482463317514,81.83728839466545,15.169366715758468,1.6469868928885323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3093,7 +3093,7 @@ the estimation they happcH to be in among the
 generality of nations. Paper money has great  
 advantages over gold and silver, as it is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876102601:0448/pct:65.0754593175853,46.78369752025534,13.270997375328085,2.3938129143137736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876102601:0448/pct:65.0754593175853,46.78369752025534,13.281933508311461,2.3979049022014896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3113,7 +3113,7 @@ chiefly in the estimation they happen to be in
 among the generality of nations. Taper  
 money has great advantages over gold an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1876102801:0851/pct:27.41640326068874,7.0256410256410255,10.979870237897188,2.5384615384615383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1876102801:0851/pct:27.411842980705256,7.024740417895142,10.982202262142382,2.5413408537367004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3135,7 +3135,7 @@ t is as much an equivalent as gold or
 silver. Paper money, well founded  
 has great advantages over gold and si
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:0029602899A:1876102801:0503/pct:33.417366946778714,87.45980707395498,12.815126050420169,4.108610217934976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:0029602899A:1876102801:0503/pct:25.07705239562903,65.59485530546624,9.61053516391146,3.084434917232345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3172,7 +3172,7 @@ Strengthens Weak Organs. ,
 Increases the General Vitality,  
 Recommended by Eeading
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:0029602899A:1876102801:0503/pct:33.50140056022409,93.1761343336906,12.913165266106443,30.8086221269501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:0029602899A:1876102801:0503/pct:25.133090501541048,69.88210075026795,9.69459232277949,23.115398356555914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3192,7 +3192,7 @@ the estimation they liappen to be in among tbe
 generality of nations. Paper money has great  
 advantages over gold ana silver, as it is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876110201:0457/pct:63.51706036745407,48.09722563221213,13.254593175853019,2.2587773140191505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876110201:0457/pct:63.52252843394576,48.09722563221213,13.254593175853019,2.2628693019068664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3212,7 +3212,7 @@ rates chiefly on the estimation they hap
 pen to be in among the generality of  
 nations. Paper money, well founded
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296029002:1877051201:0114/pct:34.341586944288125,71.18583223644849,12.844682048396173,3.1111642934067247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296029002:1877051201:0114/pct:25.77058409570725,53.39236568146464,9.64109781843772,2.333373220055044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3239,7 +3239,7 @@ nnsylvauia &gt; has convinced them of it among
 ments, numbers, buildings, impromnenfs,  
 riculture, shipping and commerce.”— Bag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:00414186702A:1877060901:0092/pct:56.114050558495,85.85116576173746,12.139917695473251,6.270627062706271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:00414186702A:1877060901:0092/pct:56.10580455547392,85.84202682563338,12.143032084251775,6.273507912852176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3267,7 +3267,7 @@ elm fly in the estimation they happen to be in
 among the generality of nations. I&#x27;aoer  
 money has great advantages over gold mi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1877072801:0894/pct:83.36980306345733,72.26014166130071,11.142905234808955,1.777205408886027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1877072801:0894/pct:83.35577246718276,72.25083698171517,11.145237293840458,1.7801957249549318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3286,7 +3286,7 @@ dissolved to establish a medium of
 trade equal in all its advantages to  
 bills of credit made a general legal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346782:1877081601:0373/pct:12.28210246174318,59.38211704129122,13.147039254823685,2.6636300623824143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346782:1877081601:0373/pct:12.28210246174318,59.38211704129122,13.155910401419384,2.6669307192131235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3308,7 +3308,7 @@ trade equal in all its advantages to
   
 bills of credit made a legal tender.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066349:0028077974A:1877090601:0013/pct:83.63636363636364,131.5773353751914,99.36363636363636,9.555895865237366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066349:0028077974A:1877090601:0013/pct:20.90909090909091,32.89433384379785,24.84090909090909,2.3889739663093414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3338,7 +3338,7 @@ pen •o be in among the generality of nations.
 Any other wel.-founded credit is as much an  
 equivalent as gold and silver. Barer mon&lt;*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878032801:0131/pct:52.341244387427835,70.25893071205945,12.876844130853112,2.757132582114601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878032801:0131/pct:52.35193500106906,70.26292655638136,12.876844130853112,2.757132582114601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3358,7 +3358,7 @@ the whole no method has hitherto been formed
 to establish a medium of trade equal in aii its  
 advantages, to bitb of credit made a genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878032801:0131/pct:52.341244387427835,73.37568928314553,12.844772289929441,2.685207384320307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878032801:0131/pct:52.35193500106906,73.37968512746744,12.850117596750053,2.6971949172860223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3378,7 +3378,7 @@ pen ;o be in among the generality of nations.
 Any other well-founded credit is as much an  
 equivalent as gold and silver. I’aper money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878040401:0140/pct:21.151379089159718,44.76144809398226,12.828736369467608,2.6132821865260127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878040401:0140/pct:21.16206970280094,44.76144809398226,12.828736369467608,2.6252697194917287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3396,7 +3396,7 @@ the whole no method has hitherto been formed
 10 establish a medium of trade equal in all its  
 advantages, to bills of credit made a genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878040401:0140/pct:21.151379089159718,48.68137137377128,12.828736369467608,1.7501798129944857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878040401:0140/pct:21.16206970280094,48.685367218093184,12.828736369467608,1.7581715016382962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3416,7 +3416,7 @@ pentobe in among the generality of nations.
 Any other well-founded credit is as much an  
 equivalent as gold and silver. Paper money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878041101:0149/pct:22.14560615779346,44.26995924238792,12.860808210391276,2.6132821865260127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878041101:0149/pct:22.14560615779346,44.26995924238792,12.882189437673722,2.6212738751698232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3445,7 +3445,7 @@ and has not received an equivalent.
 Gobi and silver coin must lie redeemed by  
 commodities and services on demand, or the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878041101:0149/pct:22.14560615779346,48.17789498921122,12.90891597177678,6.329417405897866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878041101:0149/pct:22.14560615779346,48.17789498921122,12.90891597177678,6.341404938863582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3465,7 +3465,7 @@ value rests chiefly on the estimation they hap­
 Any other wel -founded credit is as much an  
 equivalent as gold and silver, l&#x27;ai er money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878041801:0160/pct:20.397690827453495,42.927355550227766,12.924951892238614,2.6492447854231598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878041801:0160/pct:20.403036134274107,42.927355550227766,12.930297199059225,2.6612323183888758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3490,7 +3490,7 @@ services, but only something winch wi I enable
 him tog* t w hat lie r■■quin The money there­  
 fore is not the equivalent, hut the evidenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878041801:0160/pct:20.397690827453495,46.84727883001678,12.876844130853112,4.47134979621194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878041801:0160/pct:20.403036134274107,46.855270518660596,12.882189437673722,4.47134979621194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3510,7 +3510,7 @@ pen to he in among the generality of nations.
 Any other wel -founded credit is as much an  
 equivalent as gold and silver. Parer money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878042501:0169/pct:22.57857601026299,43.77847039079357,12.860808210391276,2.6132821865260127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878042501:0169/pct:22.57857601026299,43.77847039079357,12.876844130853112,2.6252697194917287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3539,7 +3539,7 @@ and has not received an equivalent.
 Gold and silver coin must be redeemed by  
 commodities and services on demand, or the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878042501:0169/pct:22.546504169339322,47.72236873651403,12.892880051314945,6.341404938863582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878042501:0169/pct:22.55184947615993,47.72236873651403,12.903570664956169,6.345400783185487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3559,7 +3559,7 @@ pen:!) be in among the generality of nations.
 An v other wel -founded credit is as much an  
 equivalent as gold and silver. Rarer money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878042501:0170/pct:22.209749839640796,43.622632462239274,12.892880051314945,2.6372572524574442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878042501:0170/pct:22.22044045328202,43.62662830656117,12.882189437673722,2.6412530967793493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3579,7 +3579,7 @@ jwreobe in among the generality of nations.
 Any other well-founded credit is as much an  
 equivalent as gold and silver. Paper money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878050201:0181/pct:19.243104554201413,45.51666267082234,12.924951892238614,2.6612323183888758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878050201:0181/pct:19.243104554201413,45.51666267082234,12.930297199059225,2.6772156956764963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3607,7 +3607,7 @@ and has not received an equivalent.
 Gold and silver coin must be redeemed by  
 commodities and services on demand, or the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878050201:0181/pct:19.211032713277742,49.47254854950851,12.957023733162284,6.377367537760729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878050201:0181/pct:19.216378020098354,49.48054023815232,12.957023733162284,6.381363382082634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3627,7 +3627,7 @@ pen to be in among the generality of nations.
 Any other well-founded credit is as ranch an  
 equivalent as gold and silver, l&#x27;aper money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878052301:0209/pct:22.615846908113237,45.9055025332862,12.731298434287522,2.6275480146105807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878052301:0209/pct:22.615846908113237,45.9055025332862,12.747113711845643,2.635403165625859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3655,7 +3655,7 @@ and has not received an equivalent.
 Gold and silver coin must Vie redeemed by  
 commodities and services on demand, or the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878052301:0209/pct:22.615846908113237,49.78201955932603,12.762928989403765,6.197714151054554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878052301:0209/pct:22.615846908113237,49.78594713483367,12.778744266961885,6.193786575546915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3674,7 +3674,7 @@ value rests chiefly on the estimation they hap­
 Any other well-founded credit is as much an  
 equivalent as gold and silver. I’.tier money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878053001:0218/pct:20.101217776371975,45.97619889242371,12.668037324055037,2.168021680216802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878053001:0218/pct:20.101217776371975,45.98012646793135,12.673309083241078,2.1719492557244413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3702,7 +3702,7 @@ and Ills not received an equivalent.
 Gold and silver coin must lx- redeemed by  
 commodities and services on demand, or the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878053001:0218/pct:20.101217776371975,49.40497231059267,12.668037324055037,6.291975963237893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878053001:0218/pct:20.101217776371975,49.41282746160795,12.678580842427118,6.291975963237893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3722,7 +3722,7 @@ jieiiiobe in among the generality of nations.
 Any other web-founded credit inasmuch an  
 equivalent as gold and silver. Barer money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878060601:0229/pct:22.014866360904634,47.00129609991752,12.620591491380674,2.5921998350418285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878060601:0229/pct:22.014866360904634,47.00129609991752,12.625863250566715,2.596127410549468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3740,7 +3740,7 @@ the whole no method iias hitherto been formed
 to establish a medium of trade equal in all its  
 advantages, to bills of credit made a genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878060601:0229/pct:22.030681638462756,50.85424767291151,12.636406768938794,1.7438435253917757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878060601:0229/pct:22.041225156834837,50.86210282392679,12.631135009752754,1.7399159498841366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3760,7 +3760,7 @@ pen o !&gt;■* in among the generality of nations.
 Any other wd -founded credit is as much an  
 equivalent as gold and silver, l’arer money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878061301:0242/pct:19.816542780325793,47.130906091669615,12.652222046496917,2.5921998350418285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878061301:0242/pct:19.827086298697875,47.130906091669615,12.652222046496917,2.596127410549468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3784,7 +3784,7 @@ services, but only something which will enable
 him to get what in* requite*. The money there­  
 fore is not tie* equivalent, but the evidenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878061301:0242/pct:19.816542780325793,50.972074938140686,12.7154831567294,4.394956993048192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878061301:0242/pct:19.827086298697875,50.972074938140686,12.726026675101481,4.398884568555831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3804,7 +3804,7 @@ pen to be in among the generality of nations.
 Any other well-founded credit is as much an  
 equivalent as gold and silver, l’aper money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878062001:0253/pct:20.148663609046338,45.78767526805703,12.69966787917128,2.603982561564746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878062001:0253/pct:20.148663609046338,45.79553041907231,12.70493963835732,2.600054986057107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3834,7 +3834,7 @@ and has not received an equivalent.
 Gold aud silver coin must be redeemed by  
 commodities and services on demand, or the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878062001:0253/pct:20.1961094417207,49.66419229409686,12.731298434287522,6.256627783669141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878062001:0253/pct:20.1961094417207,49.672047445112135,12.731298434287522,6.256627783669141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3854,7 +3854,7 @@ pen to&#x27;be in among the generality of nations.
 Any other well-founded-credit is as much an  
 equivalent as gold and silver, l’aper money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878062701:0261/pct:21.461331646370393,42.288205490750556,12.762928989403765,2.603982561564746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878062701:0261/pct:21.466603405556434,42.288205490750556,12.757657230217724,2.6157652880876636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3878,7 +3878,7 @@ When the laborer lias received his wages in
 services, but only something which will enable  
 ; iiim to get what he requires. The money there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878062701:0261/pct:21.38225525857979,45.740544361965355,12.936897042543096,4.477436078708613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878062701:0261/pct:21.392798776951867,45.740544361965355,12.931625283357056,4.4892188052315305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3915,7 +3915,7 @@ pen to be in among the generality of nations.
 Any other well-founded credit is as much an  
 equivalent as gold and silver. Paper money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878070401:0270/pct:20.923612209394275,41.72263461765053,12.69966787917128,2.5804171085189114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878070401:0270/pct:20.923612209394275,41.730489768665805,12.69966787917128,2.5804171085189114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3933,7 +3933,7 @@ th*.* whole no method has hitherto been formed
 to establish a medium of trade equal in all its  
 advantages, to bills of credit made a genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878070401:0270/pct:20.923612209394275,45.58736891716743,12.69966787917128,1.7202780723459408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878070401:0270/pct:20.923612209394275,45.59129649267507,12.69966787917128,1.7242056478535799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3953,7 +3953,7 @@ pen to be in among the generality of nations.
 Any other well-founded credit is as much an  
 equivalent as gold and silver. Parer money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878071101:0281/pct:22.47400279372963,43.589135333886844,12.49417972993947,2.609417625429961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878071101:0281/pct:22.484349940503908,43.59704266002451,12.48900615655233,2.613371288498794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3981,7 +3981,7 @@ and has not received an equivalent.
 Gold and silver coin must be redeemed by  
 commodities and services on demand, or the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878071101:0281/pct:22.47400279372963,47.47953979361879,12.571783330746547,6.416795160716403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878071101:0281/pct:22.484349940503908,47.47953979361879,12.566609757359409,6.428656149922904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4001,7 +4001,7 @@ pen to be in among the generality of nations.
 Any other well-founded credit is as much an  
 equivalent as gold and silver. Parer money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878071101:0282/pct:22.939624398572093,43.67216225833234,12.5252211702623,2.65686158225596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878071101:0282/pct:22.949971545346372,43.67216225833234,12.514874023488023,2.66872257146246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4030,7 +4030,7 @@ and has not received an equivalent.
 Hold and silver coin must be redeemed bv  
 commodities and services on demand, or the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878071101:0282/pct:22.924103678410678,47.58628869647728,12.540741890423716,6.404934171509904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878071101:0282/pct:22.924103678410678,47.59419602261495,12.545915463810854,6.404934171509904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4049,7 +4049,7 @@ pen ..lie in among the generality of nations.
 A 4her well-founded credit is as much an  
 eiii .ilentas geld and silver. I hirer money, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878071801:0293/pct:22.706813596150862,42.414897402443366,12.695949092037871,2.1705610247894676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878071801:0293/pct:22.706813596150862,42.4188510655122,12.711469812199287,2.1666073617206343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4069,7 +4069,7 @@ p* n o be in among tin* generality of nations
 Any other wei -fouit&#x27;i-d credit is a&gt; much an  
 equivalent as gold and silver. I’n er nioin*v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878072501:0304/pct:22.629209995343786,42.24884355355237,12.509700450100885,2.585695647016961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878072501:0304/pct:22.63438356873092,42.2527972166212,12.514874023488023,2.5936029731546277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4106,7 +4106,7 @@ aud has not received an equivalent.
 Gold and silver coin must be redeemed by  
 commodities and services on demand, or the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878072501:0303/pct:22.11702623001707,42.17767761831337,12.556262610585131,10.319060609654846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878072501:0303/pct:22.12219980340421,42.17767761831337,12.561436183972269,10.326967935792512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4126,7 +4126,7 @@ pen‘o be in among the generality of nations.
 Any other wel-founded credit is as much ail  
 equivalent as gold and silver. i’.ticr money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878080101:0315/pct:21.15474158000931,41.33554738465188,12.49417972993947,2.585695647016961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878080101:0315/pct:21.16508872678359,41.33554738465188,12.49417972993947,2.597556636223461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4145,7 +4145,7 @@ value rests chiefly on the estimation they liap­
 Aiivfeher well-founded credit isusmuoh an  
 equivalent as gold and silver. Par-er money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878080801:0325/pct:21.868694707434425,42.24884355355237,12.602824771069377,2.1705610247894676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878080801:0325/pct:21.873868280821565,42.2527972166212,12.613171917843655,2.1824220139959674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4163,7 +4163,7 @@ the whole no method lias hitherto been formed
 to establish a medium of trade equal in ad its  
 advantages, to bills of credit made a genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878080801:0325/pct:22.070464069532825,45.688530423437314,12.432096849293806,1.7435654133554739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878080801:0325/pct:22.070464069532825,45.688530423437314,12.442443996068084,1.7554264025619737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4183,7 +4183,7 @@ jien’olie in among the generality of nations.
 An v other wel -founded credit is as much an  
 equivalent as gold and silver. I’.n er money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878082901:0357/pct:18.46965699208443,43.090973787213855,12.401055408970976,2.609417625429961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878082901:0357/pct:18.48000413885871,43.090973787213855,12.3907082621967,2.6173249515676273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4212,7 +4212,7 @@ and has not received an equivalent.
 (told and silver coin must l&gt;e redeemed bv  
 eotiimoilities mill set vices on demand, &lt;&gt;r the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878082901:0357/pct:18.454136271923016,46.9695172577393,12.463138289616639,6.369351203890404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878082901:0357/pct:18.454136271923016,46.97742458387696,12.468311863003777,6.369351203890404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4232,7 +4232,7 @@ j pen lobe in among tire generality of nations,
 j Any other well-founded credit is as much an  
 | equivalent as gold and silver. Rarer money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878091201:0377/pct:21.730223763000314,42.05937794533459,12.811219665931295,2.6154571159283693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878091201:0377/pct:21.74072906817943,42.05937794533459,12.805967013341737,2.619384228715049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4259,7 +4259,7 @@ and lias not received an equivalent.
 Gold aud silver coin must be redeemed bv  
 commodities arid services on demand, or the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878091201:0377/pct:21.730223763000314,46.347785108388315,12.858493539237315,5.961357210179076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878091201:0377/pct:21.74072906817943,46.347785108388315,12.853240886647757,5.973138548539114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4279,7 +4279,7 @@ i his works, says: “Gold and silver are not in­
 | Any other well-founded credit is a- much ail I  
 I equivalent, as gold and silver. Rarer money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878091201:0378/pct:21.2102111566341,42.51885014137606,13.094862905767412,2.6154571159283693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878091201:0378/pct:21.215463809223657,42.52277725416274,13.105368210946528,2.6154571159283693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4297,7 +4297,7 @@ the whole no method has hitherto been formed
 to establish a medium of trade equal in ail its  
 advantages, to bills of credit made a genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878091201:0378/pct:21.478096438701545,46.39491046182847,12.653640088244563,1.7436380772855797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878091201:0378/pct:21.48860174388066,46.40276468740182,12.658892740834121,1.7436380772855797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4317,7 +4317,7 @@ pen ;o be in among the generality of uatlous.
 Any other well-founded credit is as much an I  
 equivalent as gold and silver, i’.u-er money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878091901:0387/pct:21.2102111566341,41.7177191328935,12.77970375039395,2.603675777568332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878091901:0387/pct:21.215463809223657,41.72557335846685,12.784956402983507,2.5997486647816523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4345,7 +4345,7 @@ and has not received an equivalent.
 Gold and silver coin must be redeemed by  
 commodities and services on demand, or the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878091901:0387/pct:21.25748502994012,45.55843543826579,12.685156003781909,6.314797360980207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878091901:0387/pct:21.267990335119237,45.56628966383914,12.679903351192353,6.310870248193528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4365,7 +4365,7 @@ pen lobe in among the generality of nations.
 Any other well-founded credit is as much an  
 equivalent as gold and silver. Paper money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878092601:0396/pct:20.989599747872674,41.89443920829406,12.59060825716987,2.5683317624882185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878092601:0396/pct:20.994852400462232,41.89443920829406,12.601113562348987,2.5801131008482563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4383,7 +4383,7 @@ the whole no method has hitherto been formed
 to establish a medium of trade equal in all its  
 advantages, to hills of credit made a genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878092601:0396/pct:20.989599747872674,45.74693685202639,12.653640088244563,1.696512723845429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878092601:0396/pct:20.994852400462232,45.75086396481307,12.658892740834121,1.7082940622054665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4403,7 +4403,7 @@ l&gt;eii ole in among tne generality of nations.
 Any other well-founded credit is as much an  
 equivalent as gold and silver, l’aper money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878100301:0406/pct:22.124172707217145,41.364278982092365,12.59060825716987,2.5801131008482563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878100301:0406/pct:22.13467801239626,41.372133207665726,12.580102951990755,2.5801131008482563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4431,7 +4431,7 @@ and has not received an equivalent.
 Cold and silver coin must be redeemed by  
 commodities and services on demand, or the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878100301:0406/pct:22.15568862275449,45.204995287464655,12.685156003781909,6.361922714420358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878100301:0406/pct:22.160941275344047,45.212849513038016,12.679903351192353,6.365849827207037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4451,7 +4451,7 @@ pen to be in among the generality of natlous.
 Any other well-founded credit is as much an  
 equivalent as gold and silver. Paper money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878101001:0415/pct:20.548376930349825,43.35532516493874,12.606366214938545,2.639019792648445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878101001:0415/pct:20.548376930349825,43.35925227772542,12.606366214938545,2.6350926798617658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4469,7 +4469,7 @@ the whole no method has hitherto been formed
 to establish a medium of trade equal in all its  
 advantages, to bills of credit made a genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878101001:0415/pct:20.548376930349825,47.25494816211122,12.63788213047589,1.7200754005655043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878101001:0415/pct:20.548376930349825,47.25494816211122,12.653640088244563,1.7279296261388628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4489,7 +4489,7 @@ pen o be in among the generality of nations.
 Any other wel -founded credit is as much an  
 equivalent as gold and silver. Pater money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878101701:0427/pct:21.16293728332808,43.060791705937795,12.685156003781909,2.627238454288407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878101701:0427/pct:21.16818993591764,43.060791705937795,12.679903351192353,2.6350926798617658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4518,7 +4518,7 @@ and has not received an equivalent.
 Gold and silver coin must be redeemed by  
 commodities and services on demand, or the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878101701:0427/pct:21.131421367790733,46.9368520263902,12.73242987708793,6.420829406220546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878101701:0427/pct:21.14192667296985,46.940779139176875,12.73242987708793,6.420829406220546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4537,7 +4537,7 @@ pen o he in among the generality of nations,
 j Any other wel -founded credit is as much uu  
 ! equivalent as gold and silver. I’ uer money, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878101701:0428/pct:21.131421367790733,43.119698397737984,13.07910494799874,2.167766258246937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878101701:0428/pct:21.14192667296985,43.119698397737984,13.07910494799874,2.171693371033616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4555,7 +4555,7 @@ the whole no method has hitherto been formed
 to establish a medium of trade equal in a 1 its  
 advantages, to bills of credit made a genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878101701:0428/pct:21.289000945477465,46.55984919886899,12.685156003781909,1.731856738925542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878101701:0428/pct:21.294253598067023,46.56770342444235,12.700913961550583,1.7240025133521835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4619,7 +4619,7 @@ Any oth t wet -founded&#x27; credit is as much an
   
 equivalent as gold and silver. Paper money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878110701:0458/pct:22.502363693665302,38.136192271442034,12.559092341632525,2.603675777568332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878110701:0458/pct:22.50761634625486,38.144046497015395,12.559092341632525,2.5997486647816523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4637,7 +4637,7 @@ the whole no method has hitherto been formed
 to establish a medium of trade equal in all its  
 advantages, to bills of credit made a genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878110701:0458/pct:22.502363693665302,42.024033930254475,12.59060825716987,1.7082940622054665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878110701:0458/pct:22.50761634625486,42.024033930254475,12.585355604580313,1.7240025133521835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4655,7 +4655,7 @@ the whole no method has hitherto been toruied
 co establish a medium of trade equal ill it 1 its  
 advantages, to bills of credit made a genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878111401:0469/pct:21.402849538124315,41.673570836785416,12.588069516204792,1.7280151497218605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878111401:0469/pct:21.402849538124315,41.67751607685328,12.598507384792025,1.7319603897897187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4675,7 +4675,7 @@ pen obe in among the generality of nations.
 Any other wel -founded credit is as much an  
 equivalent as gold and Silver. Put er money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878111401:0468/pct:21.246281509315796,37.77961888980944,12.603726319085643,2.6038584447863653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878111401:0468/pct:21.251500443609416,37.77961888980944,12.598507384792025,2.6117489249220815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4722,7 +4722,7 @@ ment credit is better than that of the
 bank more stable and more safe. 41  
 Bank paper is chea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027200:1879112001:0015/pct:97.66588373458602,76.0596732180914,14.122137404580153,7.3525929434051625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027200:1879112001:0015/pct:73.27459618208516,57.04475491356855,10.602055800293686,5.517404688609993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4745,7 +4745,7 @@ Any other well founded credit is as
 much an equivalent as gold or silver.  
 Paper money, well founded ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1879121801:0469/pct:23.096446700507613,265.7037492317148,43.06260575296108,19.422249539028886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1879121801:0469/pct:5.777777777777778,66.4259373079287,10.772486772486772,4.855562384757222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4764,7 +4764,7 @@ erto been found to establish a medi­
 um of trade equal in all its advanta­  
 ges to bills of credit made a genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1879121801:0469/pct:23.011844331641285,295.4517516902274,43.23181049069374,11.55500921942225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1879121801:0469/pct:5.756613756613756,73.86293792255685,10.814814814814815,2.8887523048555623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4805,7 +4805,7 @@ nations. Any other woll founded credit
 is as much an equivalent as gold or sil­  
 ver. Paper money, well founded, ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn88064592:00280761862:1880072201:0435/pct:201.9715010735897,71.96852271372362,44.73941050165919,9.443185882914033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gambit_ver01:data:sn88064592:00280761862:1880072201:0435/pct:67.32383369119657,23.989507571241205,14.913136833886394,3.147728627638011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4833,7 +4833,7 @@ and then refuse them the privilege of
 using paper instead of it.  
 &quot;Mr. Brooks will perform a mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1881012001:0692/pct:152.02020202020202,343.67541766109787,42.42424242424242,26.07398568019093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1881012001:0692/pct:38.02105263157895,85.91885441527447,10.610526315789473,6.518496420047732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4861,7 +4861,7 @@ is as much an equivalent as gold and
   
 silver. Paper money, well founded,you about it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1881042101:0744/pct:64.71571906354515,171.82151589242054,64.21404682274247,15.342298288508557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1881042101:0744/pct:16.178929765886288,42.955378973105134,16.05351170568562,3.8355745721271393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4894,7 +4894,7 @@ and the general dissatisfaction that
   
 exists among the honest Democrati
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1881042101:0744/pct:65.13377926421404,194.86552567237163,42.725752508361204,32.76283618581907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1881042101:0744/pct:16.28344481605351,48.71638141809291,10.681438127090301,8.190709046454767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4923,7 +4923,7 @@ man, Joln C. Calhoun, while a member
 of the United States senate, said:  
 No one can doubt but that the go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1882020901:0910/pct:60.03430531732418,191.91949992376885,43.13893653516295,30.553438024089036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1882020901:0910/pct:15.018236429950655,47.97987498094221,10.791675606093113,7.638359506022259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5008,7 +5008,7 @@ nations. Any other well founded
 credit (I a* much an equivalent as  
 gold and silver.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_janesville_ver01:data:sn85042460:00280769113:1886062201:0426/pct:15.451221858764672,12.394652717233363,9.274581489320761,2.920662598081953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_janesville_ver01:data:sn85042460:00280769113:1886062201:0426/pct:15.451221858764672,12.404339823694663,9.280995446090694,2.925506151312603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5078,7 +5078,7 @@ tion, and should certainly understand
 with what power it clothes Congress,  
 when writing to Mr. Epps on the dange
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473790:1890122401:0412/pct:59.40734989648033,66.41563199674333,16.1620082815735,18.542641970282922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473790:1890122401:0412/pct:39.62459546925567,44.280480358233255,10.783171521035598,12.365153673926319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5099,7 +5099,7 @@ among Ih generality of nations. Auy
 other well-founded credit I aa much an  
 equivalent as gold and allver. On th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn85052141:00206533766:1891032701:0680/pct:160.62246278755075,151.59326424870466,42.55751014884979,11.72279792746114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn85052141:00206533766:1891032701:0680/pct:40.169204737732656,37.898316062176164,10.642978003384094,2.930699481865285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5235,7 +5235,7 @@ paper money have been, and are still in
 a thriving condition.&quot;  
 This testimony ought to be enoug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473790:1891093001:0566/pct:59.913573970513475,82.77511961722487,16.090493136756482,21.01191082154128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473790:1891093001:0566/pct:39.95677599796593,55.18680647460043,10.72972285786931,14.007940547694187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5254,7 +5254,7 @@ in lieu of coin, equal in all Its advan­
 tages to bills of credit founded on suf­  
 ficient taxes and made 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270209:0027952780A:1891100101:0054/pct:41.36291600633914,70.81602572691946,16.699683042789225,3.336459868685515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270209:0027952780A:1891100101:0054/pct:31.028333663562513,53.11536915449551,12.542104220328909,2.5056947608200457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5275,7 +5275,7 @@ methods have hitherto been ionued
 to establish a medium of trade, equal  
 in all its advantages, to bills of credi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528426:1891121701:0757/pct:136.44675763117175,206.396255850234,36.404557603038405,10.192407696307852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528426:1891121701:0757/pct:45.48225254372392,68.798751950078,12.134852534346134,3.3974692321026176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5293,7 +5293,7 @@ no method has hitherto been found to
 establish a medium of trade t qual in  
 all its advantages to bills of credi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892041901:0130/pct:25.694444444444443,62.77818031259704,19.189342403628117,2.8257944312183003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892041901:0130/pct:19.27984122483697,47.086222958285894,14.403175503260561,2.1219335472518375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5318,7 +5318,7 @@ Britanica.
 44 A just reading of the provisions is  
 this: 4 &#x27;Congress shall have power t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892051001:0158/pct:106.51236342725704,53.97408427711458,19.5083381253594,9.345985103560862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892051001:0158/pct:79.91084268047167,40.48566472808897,14.63905665803854,7.009488827670646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5349,7 +5349,7 @@ whit less formidable than the feudalism
 of force. The millionaire of to day is  
 as dangerous to society as were th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892072601:0241/pct:89.28977272727273,108.13724473929719,19.602272727272727,12.563491240800248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892072601:0241/pct:67.00298422623277,81.1029335544729,14.707972147221827,9.422618430600187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5434,7 +5434,7 @@ ing it at the end of time, and in the
 meantime made a general legal ten­  
 der.&quot; Beu. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878964:1892111701:0174/pct:55.74585635359116,32.433803388454905,15.027624309392266,6.1479151871766256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878964:1892111701:0174/pct:41.82094501243437,24.327888809982753,11.287648521691075,4.616008927665618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5453,7 +5453,7 @@ formed to establish a medium of trade
 equal in all of its advantages to bills of  
 credit made a full legal tender.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270211:0027952780A:1892122201:0762/pct:63.87015177065767,34.44096418357619,19.477234401349072,3.4318398474737846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270211:0027952780A:1892122201:0762/pct:47.933361450864616,25.834127740705433,14.614086883171657,2.573879885605338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5487,7 +5487,7 @@ who trade there that it has been greatly use
   
 ful to them and in no instanoe prejudicial.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:0028076095A:1893080201:0648/pct:48.263888888888886,86.46917534027222,29.60648148148148,17.58206565252202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:0028076095A:1893080201:0648/pct:32.198285846652766,57.646116893514815,19.759091962010654,11.721377101681345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5515,7 +5515,7 @@ wheat.—Benjamin Franklin’s Works.
 —Resolved, That we demand a na­  
 tional currency safe, sound and flexi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1893091301:0160/pct:8.222187352895025,57.774049217002236,13.714106386317276,7.6957494407158835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1893091301:0160/pct:8.227417751974476,57.77777777777778,13.719336785396726,7.6957494407158835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5539,7 +5539,7 @@ tions did not use them as money,
 their intrinsic value would sink to 15  
 per cent of their present coined val
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1893092001:0164/pct:9.132276792719285,52.4496644295302,13.792562372509023,5.100671140939597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1893092001:0164/pct:9.142737590878184,52.45712155108128,13.787331973429573,5.093214019388516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5650,7 +5650,7 @@ crwed in inhabitants that the export from
 thence thither (to Eaftla&amp;d) is sow more  
 than unfold whet it then was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878964:1894122701:0603/pct:36.734693877551024,7.8190204260926865,28.784013605442176,121.48034263123215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878964:1894122701:0603/pct:27.55492558469171,5.8642653195695145,21.601700921332387,91.1157478585548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5692,7 +5692,7 @@ the export from thence hither (to
 England) is now more than tenfold  
 what it then was.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895030601:0107/pct:67.6854681856071,35.21250825809293,11.53098082800778,14.292006166042722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895030601:0107/pct:67.6900991016023,35.21617852161785,11.53098082800778,14.288335902517801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5732,7 +5732,7 @@ inhabitants that the export from thence
 hither (to England) is now more than  
 ten fold what it then was.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473662:1895050201:0060/pct:56.62551440329218,40.73898063443032,21.152263374485596,22.05061185695616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473662:1895050201:0060/pct:37.764972216505456,27.159320422953545,14.097550936406668,14.708328383034335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5829,7 +5829,7 @@ they would be at par with coin. There was
 no occasion to hasten the result, or to at  
 tempt to do so; certainly not, if to do i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1895110801:1204/pct:267.4846625766871,246.44093303235516,60.473269062226116,100.76749435665914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1895110801:1204/pct:66.91515018636264,61.61023325808879,15.128261346196009,25.191873589164786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6106,7 +6106,7 @@ From all that has been said, it ap­
 pears that a money, either metal or pa­  
 per, that is receivable by the issuin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028782:1896070901:0890/pct:45.17918088737201,77.54403967846758,12.244027303754267,14.99914486061228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028782:1896070901:0890/pct:45.17918088737201,77.54403967846758,12.265358361774744,15.021948577618152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6137,7 +6137,7 @@ time they began the use of paper money)
 had in all its four provinces but. 130  
 churches or congregations; in 1760 there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1896072901:0025/pct:21.494029436267702,87.50407121919444,11.760622049430713,7.784171099772012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1896072901:0025/pct:21.494029436267702,87.50407121919444,11.765250393409238,7.791408822784352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6176,7 +6176,7 @@ money was first made there (in Pennsyl­
 vania), which gave new life.  
 • * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1896072901:0025/pct:33.935018050541515,36.73868201063945,11.718966953623994,10.91086744110303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1896072901:0025/pct:33.935018050541515,36.74230087214562,11.723595297602518,10.907248579596859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6213,7 +6213,7 @@ erty might live. The currency died. It
 was drowned in the last ditch, overwhelmed  
 by the floods of counterfeits sent ove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1896072901:0025/pct:33.935018050541515,47.81239821952014,11.774507081366288,10.530886982955161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1896072901:0025/pct:33.935018050541515,47.81963594253248,11.78839211330186,10.530886982955161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6237,7 +6237,7 @@ method has hitherto been a medium
 of trade equal in all its advantages to  
 bills of credit made a general lega
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1896081301:0161/pct:60.2859778597786,84.96694452428859,20.84870848708487,7.775222765162403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1896081301:0161/pct:45.24688509460083,63.72520839321644,15.643747115828335,5.835010060362173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6285,7 +6285,7 @@ method has hitherto been a medlum
 of trade equal in all its advantages to  
 bills of credit made a general lega
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:0028077456A:1896081501:0231/pct:79.56709956709956,208.02685792766673,56.883116883116884,22.462994048527392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:0028077456A:1896081501:0231/pct:19.900389779125163,52.00671448191668,14.226938068427891,5.615748512131848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6309,7 +6309,7 @@ method has hitherto been a medium
 of trade equal in all its advantages to  
 bills of credit made a general lega
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761011:1896090501:0223/pct:48.13895781637717,69.66338828092533,19.5409429280397,7.563374428591217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761011:1896090501:0223/pct:36.11915597848573,52.25100429422358,14.66694249069094,5.6794569885025625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6445,7 +6445,7 @@ interest and every family; discon­
 tent was urged on to desperation,  
 ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522576:1897011501:0246/pct:5.745554035567715,31.961888263317455,16.415868673050614,63.259708387469324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522576:1897011501:0246/pct:4.457794830371567,24.77437159692698,12.737277867528272,49.03035727604983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6468,7 +6468,7 @@ The attention of Parliament being
 called to the matter of paper money  
 in the Amer can colonies, passed a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1897110501:0444/pct:62.0695178600032,52.60435906908016,10.780073682524428,4.494520379263638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1897110501:0444/pct:62.08019648673181,52.60846365390141,10.769395055795824,4.4986249640848825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6490,7 +6490,7 @@ a general legal tender.”
 April 19, 1775, the battle of Lexing­  
 ton was fought, and on the 30th day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1897110501:0444/pct:62.10155374018901,61.81504740795469,10.79609162261733,4.014283955177934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1897110501:0444/pct:62.10155374018901,61.81915199277593,10.801430935981633,4.014283955177934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6549,7 +6549,7 @@ a general legal tender.”
 April 19, 1775, the battle of Lexing­  
 ton was fought, and on the 30th day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1897112401:0329/pct:56.107137848829055,17.48768472906404,24.28831860889076,79.41110613524407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1897112401:0329/pct:56.11648670125742,17.491416629347665,24.292993035104942,79.41110613524407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6899,7 +6899,7 @@ the constitution of the empire which
 were of such an enduring character  
 that they gave form and direction t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011794:1898111201:0320/pct:33.293142426525996,75.34953753495375,12.976639035418236,4.721445472144548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011794:1898111201:0320/pct:33.29816628987692,75.35312253531225,12.981662898769153,4.725030472503048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6985,7 +6985,7 @@ tin mat-ted by their inean, and yet
 they hate no Intrinsic value, but i est  
 en the credit of tho that u the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270205:00279527823:1899011901:0648/pct:65.66164154103852,52.90643039334139,19.639865996649917,51.26862666129682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270205:00279527823:1899011901:0648/pct:49.2565445026178,39.68317895019466,14.743455497382199,38.448113840783996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7003,7 +7003,7 @@ the credit of the paper money has been
 best supported , the bills have never kept  
 to their nominal value in circulation 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1899041301:0559/pct:23.864926220204314,112.66402832743178,32.122587968217935,5.665486357008956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1899041301:0559/pct:17.921045157625674,84.50322849406373,24.11246804884976,4.249114767756717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

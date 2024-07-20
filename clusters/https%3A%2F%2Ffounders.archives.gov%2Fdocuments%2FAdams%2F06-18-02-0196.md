@@ -171,7 +171,7 @@ y Article 4.
 1 Proper passports are to be given to all vejfels  
 1 of both parties, by which they are to be known
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061601:0003/pct:41.85875429131927,29.24573433264232,18.17067189798921,9.05756657630362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061601:0003/pct:41.87714565963708,29.2497209376495,18.164541441883276,9.061553181310796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ pass free and unmolested, and no at­
 tempts shall be mads to take or detain  
 them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806050201:0152/pct:40.2659069325736,63.865872604867945,18.34757834757835,5.165717244950803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806050201:0152/pct:40.25826053930877,63.85760517799353,18.350424104317003,5.169363538295577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ shall remain at the disposal of the owners ;
 and if re-shipped on board of any vessel for  
 exportation, no customs or duties whateve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816010901:0446/pct:24.63788900043023,25.833580686652816,16.563889287250824,10.408627683783516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816010901:0446/pct:24.63788900043023,25.833580686652816,16.578230316936757,10.408627683783516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ if any good*. belonging to *tt:y nation
 with whom either ol tin ; art:r &gt; lint  
 war, shall be loaded on vcs?? b&#x27;-Jongin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863079:1837021801:0200/pct:1.7594254937163376,28.842792215359516,20.107719928186714,9.46276657732199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863079:1837021801:0200/pct:1.7594254937163376,28.850561317639748,20.125673249551166,9.458882026181875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ exchanged, rank for rank and man for
 man ; or if there be a deficiency on either  
 side, to be ransomed at the rate of 10
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1837022201:0092/pct:109.81812577065351,18.526089295320066,20.37607891491985,10.672404518558364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1837022201:0092/pct:82.39284613012643,13.899946207638516,15.294480419364787,8.004303388918773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ TREATY WITH 3IOROCCO.
 The Globe of yesterday contains a copy  
 of the treaty entered into by the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1837022201:0092/pct:89.51911220715166,58.5691231845078,41.33785450061652,22.399139322216246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197371:1837022201:0092/pct:67.16003700277521,43.92684238838085,31.020659882824546,16.80473372781065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ privileges which the consuls of any other nation
 enjoyed.  
 &quot; ben it became known in Tangiers tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1862050801:0410/pct:58.49507735583685,85.54845580404685,12.419127988748242,3.3546325878594248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1862050801:0410/pct:58.48685135705245,85.53934618251517,12.420897201518773,3.3569374933446916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

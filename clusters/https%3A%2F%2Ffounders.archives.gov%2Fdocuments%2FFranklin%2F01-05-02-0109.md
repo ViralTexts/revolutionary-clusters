@@ -3027,7 +3027,7 @@ lin : “It i&lt; much cheaper to purchase of them than to take !
 Mid maintain the possession hy force: for they are gencr- j  
 ally very reasonable in their demands for lauds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832041001:0439/pct:19.65741124464705,58.23678693589319,15.209283050145048,1.3019971311927618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832041001:0439/pct:19.654696132596683,58.23036187113857,15.211786372007367,1.3055310385407473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3196,7 +3196,7 @@ na may probably render themselves at Phil a- j
 delphia in 15 or 20 days; the majority may be ;  
 there in much less time.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836103101:0483/pct:27.105024898143956,51.10402913726383,18.36803983703033,12.527505880567569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836103101:0483/pct:27.101957677945006,51.10015174506829,18.369733318245256,12.529084471421346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3244,7 +3244,7 @@ bably render themselves at Philadelphia in 15 or
 lime.**  
 Hnt such a clnug* has now taken place, that on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836111701:0129/pct:4.345284489477787,51.720082328726846,15.140296180826189,13.290208762128785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836111701:0129/pct:4.344437950516268,51.71247978832868,15.142217027079681,13.291930030868734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3373,7 +3373,7 @@ selves at Philadelphia in 15 or 2U days; the majority may
 e be there in much less time.&quot;  
 it But such a change has now taken place, that one ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836112501:0557/pct:18.693284936479127,87.06398245963723,17.39494625157057,9.657165636834762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836112501:0557/pct:18.702592023826142,87.07062653644276,17.385639164223555,9.660487675237526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3551,7 +3551,7 @@ by the Crown, and a grand council chosen by the
 colonial Legislatures, once in three years. The  
 members chosen from each Colony to be not les
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843050501:0232/pct:8.127313101406365,220.37880356033946,48.15692079940784,9.811633202235562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843050501:0232/pct:2.7091043671354553,73.45960118677982,16.05230693313595,3.2705444007451874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3722,9 +3722,9 @@ enemy.”*
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1846-01_18_91/page/n59/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1846-01_18_91/page/n59/mode/1up?view=theater)
 
-#### 1846-01-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1846-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -4061,7 +4061,7 @@ part of the constitution, and every assembly
 as having allowed too much to prerogative, so  
 it was totally rejected.&quot; The lailuie of al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040341:1894040301:0041/pct:2.227136313378613,63.84042800651314,12.936344969199178,1.9074203303093742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040341:1894040301:0041/pct:2.237666508713737,63.84818174769326,12.936344969199178,1.9035434597193146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4083,7 +4083,7 @@ the constitution and every assembly
 as having allowed too much to preroga­  
 tive so it was totally rejected Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:0017504842A:1894040601:0179/pct:65.21529562982005,19.702306556073175,18.862467866323907,5.465288035450517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:0017504842A:1894040601:0179/pct:43.483850233006585,13.134871037382116,12.582355776956453,3.647312805363027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

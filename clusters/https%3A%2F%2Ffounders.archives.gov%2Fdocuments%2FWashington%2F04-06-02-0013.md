@@ -67,7 +67,7 @@ beat constitution that ciiii be obtained at this epoch, and
 that this or a dissolution awaits our choice, ami i*  
 the only alternative.&quot; Again, he saysIt appea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851010201:0012/pct:5.676209279368213,42.94739556472408,15.909838762750905,3.9453326456936564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851010201:0012/pct:5.676209279368213,42.9559910606842,15.915323022924207,3.9410348977135983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +89,7 @@ aggregate it is thi best Constitution, that can tic
 obtained at this epoch, and that this or a dissolution  
 awaits our choice, and is the only allern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851010201:0028/pct:3.9347007115948096,39.05766364782758,14.566764336542487,3.4735756047231456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851010201:0028/pct:3.9347007115948096,39.06148496312431,14.571415283010092,3.4735756047231456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ concede, and do now firmly believe, that in the ag-­
 gregate, it is the best constitution that can be obtained  
 at this epoch, and that this or a dissolution, attract
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:63.032705649157585,60.73591589532625,46.05219689461513,9.324648611587246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:21.010901883052526,20.245305298442084,15.350732298205044,3.108216203862416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ certs, ami do now hrinly lielieve, ibat m the tiggregaie 11
 is ihe best constitution lhat can be obtained at mis epoch,  
 and that ibis, or a dissolution, attracts our choice aod It th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:46.96944673823287,51.91597708465945,15.606936416184972,3.6409929980903883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:46.97495183044316,51.92446424782516,15.61794660060556,3.645236579673244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ in the aggregate, it is ihe best constitution thai can
 be obtained at t h is epoch, and that this, or a disso­  
 lution, attracts our choice, and is ihe only alterna
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:8.084279736999402,69.77045778757619,17.19964136282128,5.35598495655557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:6.067852338962786,52.32784334068214,12.897922582573607,4.020230839061082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ things in the new form, I will readily acknowl
   
 edge, which never did, and I am persuaded never
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1851040501:1073/pct:209.14927768860352,261.3290200835692,60.03210272873194,5.121984094891495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1851040501:1073/pct:52.31881148363782,65.3322550208923,15.017064846416382,1.2804960237228737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ that in the aggregate, it is the best compromise,
 that can be obtained at this epoch, and that this,  
 or a dissolution awaits our choice, and is the on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1851040501:1073/pct:147.19101123595505,272.05822887181563,122.23113964686998,11.214449386709799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1851040501:1073/pct:36.819915679582415,68.01455721795391,30.576189520176673,2.8036123466774496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ that can be obtained at this enoch, and that this or a dis
 solution awaits our choice and is the caly alternative.&quot;  
 Again: &quot;It appears to me littlo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861030901:0596/pct:236.1671237296338,204.13158190187494,47.49153089207937,25.35084764791737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861030901:0596/pct:78.72237457654461,68.0438606339583,15.830510297359789,8.45028254930579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ tion that can be obtained at this
 epoch, and that this or a dissolution  
 awaits our choice and is the only al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059652:00415664953:1861032301:0007/pct:99.84794178342565,46.40398765725136,51.102422070164,43.37368462694833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059652:00415664953:1861032301:0007/pct:33.28264726114188,15.467995885750454,17.03414069005467,14.457894875649444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ known that there was a dissentient voice in the
 nation.  
 New York was then the scat of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870060201:0194/pct:21.046228710462287,50.2405887347863,15.004055150040552,9.991508632889895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870060201:0194/pct:21.041962294749645,50.23347955285128,15.006081491992703,9.993632375831329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

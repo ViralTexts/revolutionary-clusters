@@ -53,7 +53,7 @@ honorable means which belong to the
 character of the United States.&quot;  
 « TH: JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802112401:0003/pct:21.70603162209643,52.8277799055279,17.196954909232872,14.515511298353122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802112401:0003/pct:21.709284924198062,52.829907655644924,17.200208211334505,14.526150048938252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -87,7 +87,7 @@ honorable means which belong to the
 character of the United States.&quot;  
 « TH: JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1802122401:0003/pct:21.70603162209643,52.8277799055279,17.196954909232872,14.515511298353122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1802122401:0003/pct:21.709284924198062,52.829907655644924,17.200208211334505,14.526150048938252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ means which&quot; belong to the character of
 TH: ]EFFERSON.  
 -—Dec. 22, 1802.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803010601:0020/pct:7.020785219399538,14.107511442160998,23.002309468822173,18.88180920757426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803010601:0020/pct:7.019704433497537,14.106245513280689,23.00389983579639,18.883106006221585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ long to the character ofthe United States.”
 TH : JEFFERSON.  
 Dec. 22, 1802
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803010701:0008/pct:52.3618665903235,47.169482668524644,21.04208416833667,16.356035533879115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803010701:0008/pct:52.346880366342305,47.161267850923025,21.043216943331426,16.357540926506445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ alter of the United States.
 “TH : JEFFERSON.  
 “Pec. 22, 1802.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803010801:0253/pct:32.1380374011953,43.139963167587474,20.512820512820515,12.304327808471454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803010801:0253/pct:32.15089004562689,43.139963167587474,20.49996786838892,12.308164518109269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ of the United Staies.”
 «“TH : JEFFERSON.”  
 December 92, 1802
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803011101:0211/pct:58.31399845320959,5.488105813838713,33.25599381283836,89.76409041555621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803011101:0211/pct:58.31399845320959,5.488105813838713,33.27146171693735,89.76738064685948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ Tea. the rights of the nation, and to employ, for that &quot;
 , those just and honorable means which belong to the v  
 r of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854070901:0033/pct:19.187469407733726,35.151133501259444,14.35797030510687,6.045340050377834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854070901:0033/pct:19.187469407733726,35.15952980688497,14.36340893022244,6.041141897565072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ for that purpose, those just aud honorable ca&#x27;
 means which belong to the character of the United  
 States.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854071901:0073/pct:18.165161628059156,61.98521647307286,14.225886664049208,6.557550158394931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn84020104:0041566154A:1854071901:0073/pct:18.165161628059156,61.98521647307286,14.225886664049208,6.561070045758536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

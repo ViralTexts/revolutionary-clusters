@@ -1034,7 +1034,7 @@ Among the causes of vagrancy drink if
 stated to be the principal one. Only 8(  
 of the tramps questioned claimed to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:0039334877A:1893092101:0350/pct:4.1505167958656335,53.24475026693558,11.01421188630491,2.3371692964764503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:0039334877A:1893092101:0350/pct:4.14984660100113,53.238434163701065,11.016470208299694,2.3398576512455516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

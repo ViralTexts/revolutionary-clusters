@@ -73,7 +73,7 @@ for every four hundred and forty-five ceiUs, or
 in Amsterdam at the rate of orte guilder current  
 money for every forty cents and four mills—:h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020201:0003/pct:71.12043139604553,35.29189495560174,18.96345116836429,7.481579444549405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020201:0003/pct:71.12043139604553,35.301341394294354,19.000898741761535,7.4957491025883245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ Tor evevy lour hundred and forty-five ccnts, or
 in Amsterdam at the rate of one guilder current  
 money for every forty cents and four mills-—th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020601:0001/pct:8.130563798219585,18.872870249017037,19.228486646884274,7.339449541284404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020601:0001/pct:8.130563798219585,18.886912563190414,19.272997032640948,7.339449541284404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ for every four hundred and forty-five cent?, or
 in Amfterdain at the rate of one guilder current  
 money for every forty cents and four mills——th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020901:0004/pct:30.946527350952675,23.914656771799628,19.54517516902274,7.179962894248608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793020901:0004/pct:30.961893054701907,23.928571428571427,19.560540872771973,7.189239332096475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ for every four hundred and forty-live cent*, or
 in Amsterdam at the rate of one guilder current  
 money for every forty cents and tour mills—th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793021301:0004/pct:13.341568869672637,54.64032799105479,19.888820259419393,14.051434960864704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793021301:0004/pct:13.349289684990735,54.65430488259411,19.8810994441013,14.042117033171822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ for every four hundred and forty-live cents, or
 in Amsterdam at the rate of 011 c guilder current  
 money for every forty cents and four mills—ih
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022001:0004/pct:11.039755351681958,7.233644859813084,41.25382262996942,86.26168224299066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022001:0004/pct:11.055045871559633,7.242990654205608,41.28440366972477,86.25233644859813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ for every four hundred and forty-five cents&#x27;, or
 in Amfterdatn at the rate of one guilder current  
 money fox every forty cents; and four mills—ih
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022301:0004/pct:52.8580208973571,39.58564557898631,19.668100799016596,7.158712541620422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022301:0004/pct:52.881069452980945,39.59027007029227,19.675783650891212,7.163337032926378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ for every four hundred and Joriy-five cent*, or
 in Arnfterdam at the rate of one guilder current  
 money for every torty cents and tour mill*— th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022701:0004/pct:76.22291021671826,54.935064935064936,19.287925696594428,7.25417439703154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022701:0004/pct:76.23839009287926,54.935064935064936,19.272445820433436,7.277365491651206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ for every four hundred and forty-five cents, or
 in Amsterdam at the rare of one guilder current  
 money for every forty cents and four mills th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030201:0004/pct:51.220256253813304,52.772677194271026,19.920683343502134,7.179581344105766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030201:0004/pct:51.235509456985966,52.78644876973926,19.92830994508847,7.179581344105766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ for every four hundred and forty-five cents, or
 in Amsterdam at the rate of one guilder current  
 money for every forty cents and four mills—th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030601:0004/pct:11.284403669724771,36.34336677814939,19.63302752293578,7.172054998141955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030601:0004/pct:11.307339449541285,36.34336677814939,19.648318042813457,7.195280564845782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ for every four hundred and forty-five cents, or
 in Amsterdam at the rate of one guildet current  
 money for every forty cents and four mills—rt|&gt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793031301:0004/pct:76.46333949476279,57.33159657610718,19.038817005545287,7.2385560104205435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793031301:0004/pct:76.48644485520641,57.34090063267585,19.031115218730747,7.25251209527354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

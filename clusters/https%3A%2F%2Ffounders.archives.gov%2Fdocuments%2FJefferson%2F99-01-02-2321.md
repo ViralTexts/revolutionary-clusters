@@ -41,7 +41,7 @@ subjects should receive general ani ro-i
 bation. Accept of my lalatatiqpa and  
 assurances of respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805091101:0003/pct:77.30720606826802,48.52240228789323,19.30046354825116,9.478414816832357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805091101:0003/pct:77.3142295266189,48.531481229288666,19.307487006602052,9.478414816832357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,7 +74,7 @@ the fcience 1 wifn to commur.icata to ycu, it
 i» «e«ffary that you ki.ow the fcience itieif. To  
 relate i» the moft intelligible terms the difco
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805091301:0004/pct:78.65604135257377,2.734107997265892,17.83329743700194,12.043745727956255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805091301:0004/pct:78.65604135257377,2.734107997265892,17.840476703280924,12.057416267942584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ bread, and promised to pursue the line
 of rendering his k&#x27;noAvledge useful to  
 common lite ; but death deprived us of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805092301:0004/pct:40.97023153252481,2.04448128194502,19.16207276736494,10.2224064097251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805092301:0004/pct:40.97758177140757,2.04448128194502,19.169423006247705,10.2224064097251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ to pursue the line of rendering his knowledge useful&gt; com­
 mon Ine • but death deprived us of his Jabours. Good trea­  
 tises on these subjects should receive general approbation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805103001:0782/pct:70.54491899852725,48.9147530670022,21.723122238586157,6.448568732305756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805103001:0782/pct:70.52760736196319,48.90706085862557,21.7239263803681,6.451486082717408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ to pursue tlie line of rendering ins knowledge useful to com­
 mon life; but death deprived us of his labours. Good trea­  
 tises on these subjects should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805110101:0787/pct:29.8710775966918,47.75903614457831,20.992459255655557,6.586345381526105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805110101:0787/pct:29.863813229571985,47.75136524253132,20.99343385214008,6.589302923225184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ to pursue the line of rendering his knowledge useful to com­
 mon life; but death deprived us of his labours. Good trea­  
 tises on these subjects should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805110401:0791/pct:8.605269518975103,48.58241230177799,20.691322214164853,6.551337497997758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805110401:0791/pct:8.603189946834219,48.574631646380524,20.69236346060899,6.554292120435618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ to pursue the line of rendering his knowledge useful to com­
 mon life; but death deprived us of his labours. Good trea­  
 tises on these subjects should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805110601:0795/pct:51.61055945749576,59.804862444017914,20.779849842576894,6.557901471529111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805110601:0795/pct:51.59806295399516,59.795298256836716,20.78087167070218,6.560850791620022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ to pursue the line of rendering his knowledge useful to com­
 mon hfu ; but death deprived us of his labours Good trea­  
 tises on these subject. shoti d receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805111101:0803/pct:30.13005780346821,47.63195662573752,20.833333333333332,6.522085791739754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805111101:0803/pct:30.12280279316157,47.62436224489796,20.834336624127136,6.525031887755102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ to pursue the line of rendering his knowledge useful to com­
 mon life; but death deprived us of his labours. Good trea­  
 tises on these subject&quot; should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805111301:0807/pct:29.5873786407767,46.42571565648489,20.92233009708738,6.556852710698864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805111301:0807/pct:29.580198980829895,46.41829229293252,20.923319582625577,6.559801726894787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ to pursue the line of rendering his knowledge useful to com­
 mon life; but death deprived us of his labours. Good trea­  
 tises on these subject; should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805111801:0815/pct:51.68428817310057,47.88053949903661,21.2441603147283,6.551059730250482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805111801:0815/pct:51.67158308751229,47.87285278535881,21.245083579154375,6.554021512281265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ death deprived us of his labors. Good
 treaiifes on tbef&#x27;c fuhje&amp;s (liould receive  
 general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805112201:0001/pct:20.72867164516859,45.04810413129598,19.121973297126047,2.942840973401245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805112201:0001/pct:20.74375801463378,45.05282022259951,19.137059666591234,2.9381248820977173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ to pursue tbe line of rendering his knowledge useful to com­
 mon life; but death deprived us of his labours. Good trea­  
 tises on these subjects should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805112701:0831/pct:30.18084066471163,44.13130504403523,21.13880742913001,9.847878302642114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805112701:0831/pct:30.173466894698265,44.12423951328851,21.1397507940386,9.850304194684599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ to pursue the litre of rendering hi*kltow ledge Useful to com­
 mon life; but death deprived us of hi* labours Good trea­  
 tise* on these subject-should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805112901:0835/pct:7.603911980440098,46.976,21.100244498777506,6.544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805112901:0835/pct:7.6020532877047176,46.96848504239322,21.101197751161084,6.546952487601984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ to pursue the &#x27;tine of reutlerir.g iiisknowledge ireful to.com­
 Inotilif.:; but d -ath deprived us of his labours. Goocftrea­  
 tises on these subject, should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805120201:0839/pct:9.450130921209237,47.85545954438334,20.85217805284456,6.41005498821681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805120201:0839/pct:9.447881960970966,47.84794219289978,20.853165159447883,6.412975180647188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ to pursue the line of rendering his knowledge useful to com­
 mon life ; but death deprived us of his labours. Good trea­  
 tises oh these! subjects should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805120401:0843/pct:30.776515151515152,48.472505091649694,20.241477272727273,6.470311765627448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805120401:0843/pct:30.76923076923077,48.46491228070175,20.242603550295858,6.473214285714286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ to pursue the line of rendering his knowledge useful to com­
 mon life; but death deprived us of his labours. Good trea­  
 tises on these subjects should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805120901:0851/pct:51.85634554719728,48.72692552514322,20.771657364717303,6.508593252705284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805120901:0851/pct:51.843765162542454,48.71917263325378,20.77268316351286,6.511535401750199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ to pursue the line of rendering, his knowledge useful to com­
 mon life; but death deprived us of his labours. Gootl trea­  
 tises on these subjects should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805121101:0855/pct:9.180249280920421,46.312450436161775,20.757430488974112,8.088818398096748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805121101:0855/pct:9.178049364965252,46.30510624801776,20.75844716031632,8.09150015857913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ to pursue the line uf rendering his knowledge useful to com­
 mon life; but death deprived us of his labours. Good trea­  
 tises on these subjects should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805121601:0863/pct:30.793573515092504,63.260067383282525,20.88607594936709,6.593935504572437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805121601:0863/pct:30.78607933803845,63.24991979467437,20.887077147724508,6.596888033365415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ to pursue the line of rendering his knowledge useful to com­
 xnuri litv*; but death deprived us of his labours. Good trea­  
 tises on these subject.! should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805122301:0875/pct:8.187134502923977,47.82469609724888,21.710526315789473,6.573896353166987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805122301:0875/pct:8.185140073081607,47.817047817047815,21.711327649208283,6.576843115304654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ death deprived us of his labors. Good &#x27;
 treatilf s on thefe fubjects fhould receive  
 general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805122701:0001/pct:26.726604004903965,35.21400778210117,17.286473232529627,12.658884565499351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805122701:0001/pct:26.740226127230624,35.21400778210117,17.279662171366297,12.663207955036748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ to pursue tin* line of rtMideriug his know It.dge useful to com­
 mon life: but d -ath deprived us ot hi* Lboms. (iood trea­  
 tises on these subjects should receive genef«iI approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806010601:0895/pct:52.13988750305698,48.67157490396927,20.95866960136953,6.530089628681178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806010601:0895/pct:52.127139364303176,48.663786205792924,20.959657701711492,6.533045287245959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ to pursue the line of rendering his knowledge useful to com­
 mon life; but death deprived us oflu* labours. Good ttea­  
 tises on those subject should receive genee*l approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806011301:0907/pct:29.846378931967813,48.66464097233328,21.141185076810533,6.524868063329602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806011301:0907/pct:29.839102876645537,48.6568596098497,21.14212579229644,6.527822193795971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ to pursue the line of rendering his knowledge u&gt;c!nl to cui.i­
 inon life; but d-wth deprived us of his labours. Good trea­  
 tise&gt; on tlu*s.; sup&#x27;; •**- should receive geuewd approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806011501:0911/pct:30.837220721826665,48.2648328802175,21.06555364596121,6.508875739644971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806011501:0911/pct:30.82965144820815,48.25711544611449,21.06651939126166,6.511832427246563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ to pursue the line of rendering his knowledge useful lo com­
 mon ltte ; but death deprived us of his labours. Good trea­  
 tises on these subjects should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806011701:0915/pct:73.72386971317452,55.981323458380295,20.636849781234808,6.55289003381098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806011701:0915/pct:73.7059538274605,55.97231165486156,20.637910085054678,6.5558596265292985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ to pursue the line of rendoring his knowledge uscti
 moil life ; but death deprived us of hi. labotns. Co. id tie,  
 tisc-s on these subjects should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806012001:0919/pct:73.32025502697401,58.47552224525594,21.113290828837666,5.565300590017541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806012001:0919/pct:73.30227997058103,58.46619897959184,21.11424368717823,5.568399234693878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ to pursue the line of rendering his knowledge useful to com­
 mon life; but death deprived us of his labours. Good trea­  
 tises on these subjects should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806021001:0950/pct:46.638963578587145,54.742765273311896,20.826203862136396,6.543408360128617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806021001:0950/pct:46.62756598240469,54.73396560038579,20.8272238514174,6.546375180839093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -741,7 +741,7 @@ to pursue the line of rendering his knowledge useful to com­
 mon life; but death deprived us oflns labours. Goad trea­  
 I uses oil these subjects should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806021201:0957/pct:51.402781166138084,48.14517424120764,21.590631861429618,6.63240725871206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806021201:0957/pct:51.390243902439025,48.13744380218369,21.591463414634145,6.6353564547206165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ to pursue the line of rendering his knowledge useful to com­
 mon life ; but death deprived us ot Ins labours. Cood trea­  
 tises on these subjects should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806021401:0961/pct:73.35111542192047,49.48979591836735,20.635305528612996,6.552933673469388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806021401:0961/pct:73.33333333333333,49.48190658377172,20.636363636363637,6.555874382273235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ to pursue the line of rendering his knowledge useful to com­
 mon life ; but death deprived us of his labouis. Good trea­  
 tises on these subjects should, receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022101:0973/pct:74.34772006827603,49.232245681381954,20.89734211168008,6.4939219449776076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022101:0973/pct:74.32959531935641,49.224372301295375,20.898342272062408,6.496881496881497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -819,7 +819,7 @@ it.* Hr .t:.i _ _ • , . **1
 mon life ; but death deprived us of his labours. Coed rca­  
 on these subjects should receivearenend anprobatiou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022401:0977/pct:74.28153921091086,50.904144663146106,20.603994154895275,4.9287886061769886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022401:0977/pct:74.26345264183102,50.896,20.605064523983444,4.932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ to pursue the line of rendering his knowiclge useful to com­
 mon life ; but death deprived us of his labours. Good trev  
 uses on these subjects should receive general anprobation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022601:0981/pct:74.8529411764706,49.480415667466026,20.833333333333332,6.618705035971223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022601:0981/pct:74.83459936290124,49.47250639386189,20.834354324920362,6.6216432225063935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ r.) pursue the line of rendering bus knowledge useful to com­
 mon life ; but death deprived us of his labours Good trea­  
 t-re. on these subject, should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022801:0985/pct:73.44246274126557,49.895749799518846,20.913755191790862,6.607858861267041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022801:0985/pct:73.42452369320958,49.88774855676716,20.91475329750855,6.610808210391276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -893,7 +893,7 @@ I,, pui&#x27;iie the line ot rendering lus knowledge useful to com­
 mon life ; but death deprived us of his labours. Good trea­  
 t&gt;ae&gt; on these subjects should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806030301:0989/pct:73.95858708891596,52.5268730948179,20.92570036540804,3.9306914808278517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806030301:0989/pct:73.94057476863127,52.51844722489573,20.92669264490989,3.9340712223291625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -919,7 +919,7 @@ to pursue the line of rendering his knowledge useful to com­
 mon lite ; but death depr.vud us of his labours. Good t  
 t**&#x27;4 0,1 these subjects should i active general „.-mrobati(fc0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806030701:0994/pct:71.11329082883766,55.5804643714972,21.211378126532615,6.581265012009608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806030701:0994/pct:71.09585682765383,55.571565802113355,21.212306937974994,6.5842138968940125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -945,7 +945,7 @@ to pursue the line ot rendering his knowledge useful to com­
 mon life ; but death deprived us of his labours, (food trea­  
 tise* on these subjects should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806031401:1006/pct:70.03891050583658,55.30510384801159,20.817120622568094,6.601191434551602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806031401:1006/pct:70.02188183807439,55.29620090148101,20.818137612448336,6.604153251770766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -971,7 +971,7 @@ to pursue the line of rendering Ills knowledge useful to com­
 mon rife ; &#x27;.ut death deprived us of his labours. Good trea­  
 ties otitnc.se subjects should receive general approbation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806032401:1022/pct:49.40828402366864,54.75127551020408,20.907297830374752,6.6167091836734695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806032401:1022/pct:49.39610549667242,54.74254742547426,20.90830663051516,6.619639725809023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1015,7 +1015,7 @@ from that in which the first irruption
 was seen. Then it was regarded as the  
 fruit of the financial distress that para
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537498:1898031401:0135/pct:31.672025723472668,56.71314970611963,12.97427652733119,15.235680534747033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537498:1898031401:0135/pct:31.672025723472668,56.71699127962813,12.990353697749196,15.24336368176405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

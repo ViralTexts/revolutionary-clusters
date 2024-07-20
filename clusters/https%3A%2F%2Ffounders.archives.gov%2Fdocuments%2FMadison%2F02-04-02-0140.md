@@ -126,7 +126,7 @@ tniinon of Governor of the North Weftern
 Territory IhouUl ccafe on the receipt of the  
 notification.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1803013101:0143/pct:59.02598520048184,17.35404392072844,18.017552916881776,5.109801821103375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1803013101:0143/pct:59.015829318651065,17.35218508997429,18.018754301445284,5.111932305055698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ tern Territory shall cease on the receipt
 of this notification. —  
 lam,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803020401:0025/pct:28.785357737104825,62.99142244460329,20.27176927343317,12.044317369549677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803020401:0025/pct:28.777377321874134,62.98016794711452,20.27308012198503,12.046632124352332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ With tfie internal affairs of the oountry, jrhieh they had
 neither the power nor the right to^jnake. The act is not  
 binding on the people, and it is in truth a nullity, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854072201:0242/pct:2.949894142554693,22.26398408136193,15.751587861679605,3.780676542118063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854072201:0242/pct:2.95459891790167,22.26398408136193,15.751587861679605,3.7843614120421547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ the Northwestern Territory shall cease on the receipt of
 this notification. I am, &amp;o.  
 &quot; Jahxs MaDJ90N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854072201:0242/pct:3.048694424841214,46.29670572628786,15.822159491884262,4.819809860711917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854072201:0242/pct:3.048694424841214,46.30407546613605,15.836273817925195,4.819809860711917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ with the interral affairs of the country, which they
 had neither the power nor the right to mytke. Te act  
 is not binding on the people, and it is in trith a nullity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854080301:0286/pct:148.71159563924678,61.68586745751112,47.05979517674265,6.262119311052811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854080301:0286/pct:49.57053187974893,20.561955819170375,15.68659839224755,2.0873731036842704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ have the means in our own hands to bring Congress to
 reason if we should be forced to use them. If we sub-­  
 mit to the degradation, we shall be trod ren upon, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854080301:0286/pct:138.63561281797158,98.15216151477131,56.62371985464156,14.326451465723737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854080301:0286/pct:46.211870939323866,32.71738717159043,18.87457328488052,4.775483821907912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ spirit and tendency of vory evil oxample, and groasly
 violating the rules of conduct enjoined by your public  
 station, determines that your
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854080301:0286/pct:131.33465477370333,117.88525151134938,64.10637594978526,8.246834721113265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854080301:0286/pct:43.77821825790111,39.29508383711646,21.368791983261755,2.7489449070377554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ forced to use them. . . :
 When this speech reached Washing&#x27;  
 ton, President Jefferson did not like it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1854081001:0360/pct:9.650112866817155,42.620137299771166,16.177577125658388,5.205949656750572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1854081001:0360/pct:7.243650047036689,31.965102974828376,12.13546566321731,3.904462242562929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ the receipt of this notification.
 I am, kc. .  
 &quot;James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1854081001:0360/pct:9.499623777276147,51.65903890160183,16.23401053423627,10.283180778032037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1854081001:0360/pct:7.1307619943555975,38.744279176201374,12.173095014111007,7.723112128146453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ ion, if we should be forced to use them.&quot; ! ,
 When this speech reached Washington,&#x27;  
 President Jefferson did not like it; a love fori 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1854081801:0314/pct:76.23367198838896,87.58809147130735,17.126269956458636,4.357831152020711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1854081801:0314/pct:57.20508166969147,65.6982597439954,12.849364791288567,3.26477779375809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ lotification. I urn, &amp;c.
   
 &quot;JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1854081801:0314/pct:76.2699564586357,95.12440673090752,17.0899854862119,8.643750898892565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1854081801:0314/pct:57.223230490018146,71.35049618869553,12.831215970961887,6.486408744426866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ receipt of this notification.
 I am, &amp;c,  
 , Jakes Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027534:1855090401:0270/pct:93.75,76.58294086865516,17.11566091954023,9.56305599162742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027534:1855090401:0270/pct:70.33776500179663,57.44374672946102,12.845849802371541,7.1690214547357405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ the receipt of this notification.
 “ I am, &amp;c.,   
 “ Jamxs Madison.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040309:00514151374:1859092201:0265/pct:73.49833147942158,23.625122030589,11.373748609566185,4.740210434971255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040309:00514151374:1859092201:0265/pct:73.50760103819059,23.625122030589,11.364479050797183,4.747441877282424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ nom •• ritorieS shall cease on the receipt of this noli- I
 &quot;fication.&quot; 1 am. Ac., I  
 . James Madisox
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859092301:0002/pct:12.808166409861325,77.31233756306375,11.093990755007704,4.15838556795597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1859092301:0002/pct:12.808166409861325,77.31998165418132,11.10362095531587,4.150741476838404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ receipt of this notification. I am, &amp;c.,
   
 .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1859092701:1259/pct:154.22768720641062,47.13343987215342,43.93478861563968,145.17578905313624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528669:1859092701:1259/pct:51.40922906880353,15.711146624051139,14.64492953854656,48.391929684378745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ ference with the internal affairs of the coun­
 try which they had neither the power nor  
 the right to . make The act is noCbind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1859100601:0137/pct:92.33870967741936,31.017748197448697,16.25733137829912,4.395452024403771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1859100601:0137/pct:69.27589367552704,23.26677759290072,12.190650779101741,3.3000554631170274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ re-elect
   
 JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1859100601:0137/pct:91.95381231671554,78.95174708818635,19.629765395894427,10.135884636716584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1859100601:0137/pct:68.98258478460129,59.220743205768166,14.72043996333639,7.598447032723239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ this notification, I am, etc.,
   
 JAMES MADISOR.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775095:1859100701:0656/pct:249.23547400611622,41.15277347381469,45.718654434250766,28.323520297489928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775095:1859100701:0656/pct:62.33269598470363,10.288193368453673,11.434034416826004,7.080880074372482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ lories shall cease on the receiptor this notification.&quot;
 &#x27;&#x27; &#x27; I am, kc,  
 , Japes Madisox
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061076:00200293897:1859100701:0576/pct:107.75803144224197,58.13257305773343,16.67805878332194,6.899501069137562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061076:00200293897:1859100701:0576/pct:80.84088190052982,43.60655737704918,12.510681934712014,5.174625801853172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -703,7 +703,7 @@ notification.&quot; I am, &amp;c.,
   
 JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1859100801:0048/pct:232.5110864745011,116.09067674186021,33.05155210643016,19.391043449272143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1859100801:0048/pct:77.50369549150037,38.69689224728673,11.017184035476719,6.46368114975738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ nor of the Northwestern Territories sh.tl
 cc &#x27;s on the receipt of this notnlati.:ii.  
 I am, etc, , Jamks JIawh&#x27;I.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1859101301:0064/pct:75.96439169139465,103.99122205458785,16.8026706231454,8.572212316554657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775393:1859101301:0064/pct:56.99443413729128,78.00027431079413,12.61595547309833,6.432588122342614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ enjoined by your public station determines that your com- t
 m -idou of Governor of ths Northwestern Territory shall t  
 cease on the receipt of tins notification.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1860012601:0663/pct:14.966555183946488,78.54713772907614,12.828475871954133,2.8244851690912527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1860012601:0663/pct:14.966555183946488,78.54713772907614,12.8404204491161,2.830782794886328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -878,7 +878,7 @@ a Hairs o( the country, which they had neither tbe lower
 nor the right to make. The act is uol binding on the people,  
 and is, in truth, a nullity ; and could it be brought befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1860012601:0663/pct:86.32345914954611,30.12469299074249,12.983755375059722,2.0215378802191575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1860012601:0663/pct:86.32345914954611,30.130990616537566,12.987736900780378,2.01838906732162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ and the lomiuct enjoin­
 ed by your public station, determine tha  
 your commission of Governor of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860090401:0497/pct:77.88024776324845,46.07171869560172,11.68616655196146,4.235812927933155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860090401:0497/pct:73.99093365879173,43.76745553432309,11.101909162235202,4.031309716301632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,7 +929,7 @@ receipt of this notification.
 I am, &amp;c,  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470351:1860090601:0354/pct:22.536443148688047,90.39035591274397,16.137026239067055,13.432835820895523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470351:1860090601:0354/pct:16.917019104564677,67.79563719862227,12.104418842059209,10.08036739380023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,7 +993,7 @@ enjoined by your public station, determines that your
 commission of Governor of the Northwest Territo­  
 ry shall cease on the receipt of this notification.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293599:1866061301:0111/pct:19.282511210762333,356.64204722771245,49.719730941704036,14.563611775720378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293599:1866061301:0111/pct:4.821303433777155,89.16051180692811,12.43167484232656,3.6409029439300946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1055,7 +1055,7 @@ territory shall cease on the receipt of this
 notification. I am, etc.  
 James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1882051101:0469/pct:54.812545061283345,18.767695833895107,14.581831290555154,5.9997303491977885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1882051101:0469/pct:41.12132684333874,14.07577187542133,10.942851992067784,4.503168396925981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1075,7 +1075,7 @@ organizing spirit and tendency of very evil ex­
 ample, and grossly violating the rules of conduct  
 enjoined bv your public station.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00415665684:1888010101:0015/pct:6.033452807646356,108.04069576632753,18.74253285543608,3.2162783065310143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00415665684:1888010101:0015/pct:4.525765496639283,81.03052182474565,14.070201643017176,2.4176785909637895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

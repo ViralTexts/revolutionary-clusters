@@ -59,7 +59,7 @@ than to receive, with open arms, the fugitives of
 the old world, whether their flight has been the  
 eflect of their crimes or their virtue^ ’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051801:0161/pct:58.09957924263674,53.95666227702622,16.479663394109398,4.537291990901473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051801:0161/pct:58.08939526730938,53.95020349533158,16.482617586912067,4.540738967360945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ man, that you can convert a negro intoa
 white man : the animal configuration and  
 propensities arc different.” This lust de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816062901:0207/pct:74.1462542463794,44.500480307396735,16.699445735741104,3.2060518731988474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816062901:0207/pct:74.13299964247408,44.49513747148517,16.70241925872959,3.2096690278945053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ Tor ihe present, accept sir, 1 pray you,
 the assurances of perfect considers ion  
 and great resuert. AMT.RIC ANUS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824032301:0206/pct:5.0302870687384775,9.975470155355683,36.239136160126414,83.64677023712183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824032301:0206/pct:5.028962611901001,9.973839110529758,36.23617693522907,83.63718116415959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ and his unnatural want if taste, But 1 have not
 yet done with Air. Crawford. I have two other  
 epistles ta trouble you with on his behalf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824072001:0205/pct:19.27672454994424,35.90048803713844,15.357654930699379,11.570051184382812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824072001:0205/pct:19.273654029945842,35.896215186860275,15.360518211744717,11.572641434579069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ Crawford. I bave two other epistles to trou­
   
 From the National Journal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824080301:0330/pct:25.857916917519567,55.79857578840285,16.541240216736906,14.140386571719226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824080301:0330/pct:25.857916917519567,55.79857578840285,16.546257274734096,14.143777551712445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ by those whom he marks out as the victims of
 his flagrant want or sense, and his unnatural  
 want of taste.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824100801:0291/pct:81.35433070866142,57.77859507171755,15.291338582677165,3.653303910751502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824100801:0291/pct:81.34152102031176,57.77151262564354,15.294179394321104,3.6569420609626544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

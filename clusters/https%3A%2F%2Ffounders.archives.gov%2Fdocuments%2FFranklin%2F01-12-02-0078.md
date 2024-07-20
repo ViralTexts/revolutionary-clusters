@@ -608,7 +608,7 @@ jWi»w I u»»y say more easily, and briber dtsiin­
 &#x27; goisbeA, %•*)»« sounding, separately.; V.»rg when&#x27;  
 setj uled tfrgHfher, though v-*u km&gt;» b» the heat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816091201:1158/pct:4.313824419778002,22.012478003519437,22.426841574167508,44.66485362342025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816091201:1158/pct:4.312736443883985,22.00895713371721,22.42749054224464,44.661708253358924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ pleasure than is communicated by the gfeuefality
 of modern operas, exclusive of that arising from  
 the seeoery and (lancing. i$.jg 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816091201:1158/pct:4.313824419778002,3.679411294192929,44.576185671039354,92.94512877939529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816091201:1158/pct:4.312736443883985,3.6788227767114523,44.57124842370744,92.93426103646833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -685,7 +685,7 @@ svnd rep, dancers who perform dnficiiti things. For my
 pr. ft I take tin, to In the r.a! ci«-, and suppose it the re:.,.  
 -sis why those unpranio-ri in music, aiul tlien-fhic iinnc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816091401:0154/pct:4.735376044568246,44.93414387031408,14.43552351302638,3.533434650455927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816091401:0154/pct:4.734600262123198,44.92845384323161,14.438619484491044,3.537208222531763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ lvttrr distinguished when sounding separately: for, when
 soiiudetl top ther, though you know by the lirtuing, that one  
 i&lt; higher than the other, sou cannot n-U v&gt; liich it u. I hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816091401:0154/pct:4.653449123381943,50.379939209726444,14.599377355398984,16.350050658561297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816091401:0154/pct:4.652686762778506,50.37355957958719,14.602446483180428,16.352201257861637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -772,7 +772,7 @@ Itaue real pleasure ihan s» ciiunminicatcil try the g.■i:cr*?liy
 in ml- r ii Operas, exclusive of that arising frotu tiie scene­  
 ry and dancing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816091401:0154/pct:4.637063739144683,76.15248226950355,14.43552351302638,6.6236068895643365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816091401:0154/pct:4.636304062909567,76.14283905280486,14.438619484491044,6.626989151998649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

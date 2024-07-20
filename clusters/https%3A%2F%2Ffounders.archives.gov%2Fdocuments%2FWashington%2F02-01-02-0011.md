@@ -143,7 +143,7 @@ had my clothes off, bnt hare lain and slept
 in them.escept the few nights I hare been  
 in Fredericksburg If there is an indi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1835111201:0155/pct:45.1452739977933,13.401916572717024,27.675616035307097,83.73731679819616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1835111201:0155/pct:45.13697370840228,13.400028180921517,27.67512410369553,83.72904043962238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ day, I have lain down before the fire, upon a
 little straw or fodder, or a bearskin, whichever  
 was to be had, with man, wife, children, lik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859082001:0171/pct:52.35863320229816,211.0267414988445,36.921681282128816,6.712886541212722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191058:1859082001:0171/pct:17.452877734099385,70.3422471662815,12.30722709404294,2.237628847070907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ cats; and happy is he who gets the berth
 nearest the fire.” It was under these cir­  
 cumstances that Washington compose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889043001:0413/pct:39.78530694397853,55.4745319982586,13.032539416303253,5.158902916848063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889043001:0413/pct:39.77863491531109,55.4684949396017,13.035943876124993,5.161969020930823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ my constant gain every Day that the weather
 will permit nay going out and sometimes six  
 Pistoles.&quot; From the tore of this and the draft
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654838:1892022001:0470/pct:50.01675603217158,47.17056856187291,12.449731903485254,2.180602006688963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654838:1892022001:0470/pct:50.02513404825737,47.17391304347826,12.44554289544236,2.1872909698996654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ Day lay down before tse re upon a Little
 Hay Straw Fodder or bearskin whichever is to  
 be had.&quot;-[Jour-naL of My Jour-ary Owe th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654838:1892022001:0470/pct:50.05026809651474,59.03678929765886,12.349195710455763,3.130434782608696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654838:1892022001:0470/pct:50.05445710455764,59.04347826086956,12.357573726541554,3.137123745819398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -688,7 +688,7 @@ of but lay and sleep in them like a Ne­
 gro, except the few Nights I have lay&#x27;n  
 in Frederick Town.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897032601:0310/pct:10.308555399719495,9.057437407952872,43.54838709677419,134.27835051546393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897032601:0310/pct:6.873575311239699,6.0382916053019144,29.03734876380852,89.51890034364261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -774,7 +774,7 @@ md sleep in them like a negro, except
 th ? few nights 1 have lay&#x27;n in Fred?  
 rick Town. Geo. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898022401:0045/pct:15.233212041018856,31.686247408431235,13.893483294740324,16.95461875143976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898022401:0045/pct:15.233212041018856,31.693926130691853,13.910023155805492,16.95461875143976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

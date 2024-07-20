@@ -65,7 +65,7 @@ and the marker one dollar per day,
 while they shall be employed in Said bu- (  
 sines?,; of which fact, a certificate 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806040401:0001/pct:40.67570571238053,65.8950828653609,19.470993554123137,4.547322284618545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806040401:0001/pct:40.67570571238053,65.8950828653609,19.493220715714603,4.551887869241656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,7 +86,7 @@ such pari&#x27;, or at ftn/&#x27;dne time, for the
 whole of said sum, as he shall judge  
 the service requires. Winch sum o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806040401:0001/pct:40.09779951100244,73.51047801671004,20.04889975550122,4.6021093000958775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806040401:0001/pct:40.11261761873009,73.51047801671004,20.056308809365046,4.61580605396521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ the furveyor three dollars per day, and each chain­
 man and the marker one dollar per day, while they  
 (hall he employed in faid buGnefs—of which fa cl, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806070401:0068/pct:58.148558758314856,29.507389162561577,17.77531411677753,2.7463054187192117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806070401:0068/pct:58.13781636800296,29.50375569511144,17.778188312088183,2.7500718302343716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ thorised to draw from time to time on the treafury,
 for fucli pans, or at any one time, for the whole of  
 laid fum, as he (ball judge the fervire requires t whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806070401:0068/pct:58.148558758314856,33.26354679802956,17.701404286770142,3.8054187192118225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806070401:0068/pct:58.13781636800296,33.259450806550916,17.704292136215283,3.809054714115667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ day, while they shall be employed in
 said business ; of which fa®; a certifi­  
 cate signed by the said commiflioner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806081201:0337/pct:59.51937984496124,15.780017965864857,16.108527131782946,5.469607745283961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806081201:0337/pct:59.52454780361757,15.780017965864857,16.113695090439276,5.469607745283961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ ury, for such parts, or.at any one time
 for the whole of said sum, as ke thall  
 judge the service requires. Whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806081201:0337/pct:59.395348837209305,21.95827926938816,16.217054263565892,6.75716139335263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806081201:0337/pct:59.400516795865634,21.95827926938816,16.217054263565892,6.7604884053631435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ service requires ; which said sum shall be paid
 out of any money in the Treasury, not other­  
 wise appropriated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824061501:0301/pct:7.316717679638536,51.97794757713512,15.814021279696837,4.362123996518038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824061501:0301/pct:7.321576057911869,51.984395653996195,15.814021279696837,4.3588999580875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ the service requires; which said sum
 shall be paid out of any money in the  
 Treasury, not otherwise appropriated. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824070601:0266/pct:4.301926629717603,57.563368765331155,18.368962787015043,7.669664758789861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824070601:0266/pct:4.300791556728232,57.55395683453237,18.37071240105541,7.672498364944408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ shall judge the service requires 3 which said
 sum shail be peid out of any money &#x27; the  
 T&#x27;reasury, not othe wise appropriate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824092301:0766/pct:26.02765675317295,35.20245543619407,20.685735934836142,4.698382717506788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824092301:0766/pct:26.04028540758982,35.21032542399559,20.679421607627706,4.706252705308307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ act to enale the people of the eastern di­
 -Ohio, to formt a Constitution and State  
 Governmeint, &amp;c., and for other purpo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288336:1840040901:0237/pct:4.235294117647059,52.78350515463917,16.036199095022624,8.50212249848393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288336:1840040901:0237/pct:4.2473604826546,52.78350515463917,16.042232277526395,8.514251061249242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

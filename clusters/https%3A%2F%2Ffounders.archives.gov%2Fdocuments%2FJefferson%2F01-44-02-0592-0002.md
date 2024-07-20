@@ -162,7 +162,7 @@ thoughtbcft to adopt the divifion into fubordi­
 nate diftricU which had been cftabl&#x27;rfhed under  
 its former government. Thefe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804111401:0226/pct:59.13323782234957,5.1751888077256405,34.88538681948424,92.2248359539433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804111401:0226/pct:59.12264995523724,5.174548155484031,34.88510892270964,92.217545597095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ by that oi the nation1: with wlrh they
 have intercourse, it will !&gt;/ a salisf«cUon  
 l &gt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804111401:0350/pct:39.94500458295142,3.009771986970684,16.79193400549954,4.495114006514658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804111401:0350/pct:39.93768328445748,3.0093798853569567,16.794965786901273,4.498870939725552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ men and militia o! the place in the mo­
 j mem they are wanting, the facility of their  
 , assembling from different
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804111401:0350/pct:57.03024747937672,44.88599348534202,17.83684692942255,23.882736156351793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804111401:0350/pct:57.01979472140763,44.88014590932777,17.839687194525904,23.88396734410283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ femhling from different parts of tha
 coaft to any point where they are requir­  
 ed in gieaier force than ordinary,&quot; giv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804111901:0002/pct:80.32527671109104,55.30066512827474,18.545290264287328,8.402334735984796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804111901:0002/pct:80.32527671109104,55.30066512827474,18.56787892477976,8.402334735984796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ m oar harbours and jurifdiion, in­
 fringements on the authority of the­  
 laws “have beeft &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804112001:0600/pct:25.98159509202454,5.139062650370513,33.78834355828221,88.72100856510441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804112001:0600/pct:25.98670756646217,5.139062650370513,33.79345603271984,88.72100856510441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ of the place in the moment they aré
 wanting, the facility of their assemb­  
 ling from-different par:s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804112001:0600/pct:60.39877300613497,53.93128669040516,16.51840490797546,24.386488307188912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804112001:0600/pct:60.40899795501022,53.93770249895743,16.52351738241309,24.383280402912778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ within tight of the light-house on Cape Henry.)—j
 Whydo they not thus evince “ the occonomy of their  
 maintenance,”—and give us a proof of “ the expo- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805011801:0309/pct:3.2089746934516046,36.292300147130945,23.55857031046178,6.866110838646395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805011801:0309/pct:3.208137715179969,36.286368094148415,23.558946270213877,6.869074861065708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ authority of the laws have been com­
 mitted which have called for serious &#x27;  
 attention. The friendly cond
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808101401:0001/pct:58.657745336577456,16.980890085930486,18.004866180048662,20.264204181095295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808101401:0001/pct:58.657745336577456,16.985165234491898,18.011624763449582,20.27702962677953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ idates our possessions north of the Ohio in
 a very reMpectabl breadth, from Iike Erie  
 to the Mississlpp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:0029587191A:1899051501:0146/pct:21.784420289855074,114.11875913036006,16.508152173913043,6.556672681962705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:0029587191A:1899051501:0146/pct:16.342015855039637,85.58906934777005,12.389580973952436,4.923949471513277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

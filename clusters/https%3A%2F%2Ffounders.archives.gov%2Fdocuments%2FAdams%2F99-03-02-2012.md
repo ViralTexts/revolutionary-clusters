@@ -463,7 +463,7 @@ spirit, is like a city that is broken down
 and without walls.&quot; What! is acquiring  
 the prerogative of se&#x27;f government subser
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1863012401:0243/pct:216.6184971098266,152.71996555188747,50.505780346820806,18.37232668293383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1863012401:0243/pct:54.1839869871679,38.17999138797187,12.6332911621182,4.593081670733458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ spirit is like a city that is broken down
 and without walls.  
 Batter is an handful with quietnes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1876011301:0211/pct:59.69997972836003,35.93727521219969,12.608960064869247,4.80506401956553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1876011301:0211/pct:59.687880016214024,35.93210586881473,12.611471422780705,4.807968929804373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ occasion. He that hath no rule over his
 own spirit is like a city that is broken down,  
 and without walls?; but &quot;he that ruleth hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664424:1879010801:0036/pct:133.01798800799466,196.85401526998436,40.95936042638241,17.00855487075706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664424:1879010801:0036/pct:44.33932933599822,65.61800508999478,13.65312014212747,5.669518290252354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ the wise man&#x27;s apothegm, &quot;He that hath
 no rule over his own spirit is like a city  
 that is broken down and without walla!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175036416:1883090801:0407/pct:62.04175571264179,74.43071705426357,10.685517014630939,1.5867248062015504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175036416:1883090801:0407/pct:62.054085155350975,74.43374515503876,10.681407200394542,1.6018653100775193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ city that is broken down and without walls.—PR0Ov
 spirit is like a city that is broken  
 down and without walls.” Wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074058:00383343598:1884062601:0285/pct:29.712230215827336,41.501661129568106,12.62589928057554,1.5681063122923589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074058:00383343598:1884062601:0285/pct:29.706887250494514,41.49614669146957,12.62812443805071,1.5712197714589424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ rich in spoils than the city of the
 soul? or more desirable for con­  
 quest? This conquest of the sou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878009:1884070501:0572/pct:88.63826232247285,174.86853030722392,45.78111946532999,25.020758372543593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878009:1884070501:0572/pct:22.168825741746762,43.71713257680598,11.450062682824907,6.255189593135898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -809,7 +809,7 @@ He that hath no rule over his own spirit is
 like a city that is broken down, and without  
 walls.?Prov. 25; 28
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193626:1894122001:1197/pct:51.185118511851186,31.393514460999125,18.57185718571857,11.516213847502192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193626:1894122001:1197/pct:51.19261926192619,31.393514460999125,18.579357935793578,11.52059596844873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

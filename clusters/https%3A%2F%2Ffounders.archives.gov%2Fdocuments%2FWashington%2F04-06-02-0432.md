@@ -69,7 +69,7 @@ I hope 1 shall always possess firmness and virtue
 enough to maintain what I consider the most enviable  
 of aU titlos, tbe character of an &quot; honest man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864122201:0421/pct:66.60759493670886,79.52238228753747,19.835443037974684,1.8273228270327757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864122201:0421/pct:49.968350424104315,59.64420380933965,14.87530067097101,1.3729092139611332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ tion.?Steele.
 The most enviable of all titles, |  
 the character of an honest man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1896071701:0921/pct:16.92844677137871,24.479804161566708,15.6195462478185,2.308095820947718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1896071701:0921/pct:16.942990110529376,24.48417555516699,15.612274578243165,2.329952788949117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ The most enviable of all titles, the char.­
 acter of an honest man. Washington.  
 Naturally, have a good appetite, keep you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1896071801:1200/pct:28.49002849002849,110.67961165048544,52.896486229819565,52.01529861724036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1896071801:1200/pct:7.127583749109052,27.66990291262136,13.233547160845806,13.00382465431009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ Naturally, have a good appetite, keep you
 The most enviable of all titles, the char­  
 acter of an honest man.—Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584405:1896072301:0682/pct:91.49409549888756,51.01990661096092,15.317473900393633,0.9461784222167609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584405:1896072301:0682/pct:80.06289622123496,44.649129094688554,13.397893475764988,0.8278976417461114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ The most enviable of all titles,
 the character of an honest man,  
 e e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177325:1896080601:0296/pct:88.35755011955122,100.79315120231651,18.39249586168843,13.773133576734232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177325:1896080601:0296/pct:68.48807374322912,78.11819039255862,14.259241661123253,10.677464468078186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ The most enviable of all titles, the character
 of an honest man.—Washington.  
 Idleness is only the refuge of weak minds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063545:00332899831:1896082201:0136/pct:20.798668885191347,91.95335950126992,17.3044925124792,1.639344262295082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063545:00332899831:1896082201:0136/pct:20.80791273802921,91.95624567074579,17.29987058606027,1.6508889401985685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ and virtne enough to maintain what I
 consider the most enviable of all titles,  
 the character of an “honest man.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896593:1899021701:0055/pct:5.172082291866949,76.31455765330004,12.286098827148626,3.3702605710719302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896593:1899021701:0055/pct:5.171088043060362,76.30265210608424,12.288542868127644,3.373634945397816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

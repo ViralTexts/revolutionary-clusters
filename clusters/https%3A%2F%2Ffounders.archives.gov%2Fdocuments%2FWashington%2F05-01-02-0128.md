@@ -55,7 +55,7 @@ promise and agree to serve the said George Wash­
 ington for the term of one year as a Gardner, and  
 that he will during the saia time, conduct himsel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026323:1858033001:0131/pct:82.37942122186494,25.507278341420378,12.556270096463022,4.0361711513012795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026323:1858033001:0131/pct:82.38478027867096,25.510954271430673,12.561629153269024,4.043523011321865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -80,7 +80,7 @@ and agree to serve the said George Washington for
 the term of one year as a gardener, and that he will  
 during the said time, conduct himself soberly, dil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475208:1858041501:0552/pct:207.39669421487602,152.73929471032744,37.87190082644628,13.035264483627204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475208:1858041501:0552/pct:69.13223140495867,50.91309823677582,12.62396694214876,4.345088161209068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ after mentioned, doth promise and agree to serve
 the said George Washington for the term of one  
 year as a Gardener, and that he will during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190613:1858041501:0349/pct:259.74052300831136,76.18328298086607,62.55828096493006,25.981873111782477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190613:1858041501:0349/pct:64.93513075207784,19.045820745216517,15.639570241232516,6.495468277945619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ the covenants herein hereafter mentioned,
 doth promise and agree to serve the said  
 George Washington, for the term of one yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1858041601:0490/pct:24.132613723978412,153.93342289894014,49.34464148033924,21.376324824600687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1858041601:0490/pct:6.036644165863066,38.483355724735034,12.343297974927676,5.344081206150172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ Batcr, for and in consideration of the cove­
 nants hereinafter mentioned, doth promise  
 and agree to serve tne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1858042201:0068/pct:106.94055944055944,27.9191128506197,16.31118881118881,7.749510763209393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1858042201:0068/pct:80.22381535233433,20.939334637964777,12.239902080783354,5.818656229615134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ mentioned, doth promise and agree to serve the
 said George Washington for the term of one  
 year as a Gardener, and that he will during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1858050801:0069/pct:12.37151248164464,26.679515418502202,13.069016152716593,4.969713656387666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1858050801:0069/pct:12.380690161527166,26.68295704845815,13.073604992657856,4.973155286343612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ serve the said George Washington for the
 term of one year as a Gardener, and that  
 he will during the said time, conduct him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858082701:0905/pct:182.34031132581856,61.3667249077849,41.84111647879764,25.315472723742964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858082701:0905/pct:60.780103775272856,20.455574969261633,13.94703882626588,8.438490907914321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ ton for the term of one vear, as a gardener,
 and that he will, during the said time, conduct  
 himself soberly, diligently and honestly; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860031301:0221/pct:33.931484502446985,217.83132530120483,33.333333333333336,16.210295728368017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860031301:0221/pct:8.48402447314752,54.45783132530121,8.334466349422161,4.052573932092004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ all and every part of his duty as gardener
 to the best of his knowledge and abilities,  
 and that he will not at any time suffe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1860033101:0316/pct:163.55518112889638,126.25712476250791,35.85509688289806,25.86447118429386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1860033101:0316/pct:54.51839370963213,42.085708254169305,11.95169896096602,8.621490394764619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ ip Barter, the said George Washington doth
 agree to allow him (the sad Philip) the  
 same kind and quality of provisions he ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557979:1860042801:0285/pct:68.79275281937511,32.460381412839105,14.827139951931965,11.939296266451786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557979:1860042801:0285/pct:68.80661859863191,32.47045393499866,14.822518025513034,11.929223744292237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ in consideration of the covenants hereafter men­
 tioned, doth promise and agree to serve the said  
 George Washington for the term of one year, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:53.43386627906977,40.539076256264394,14.607558139534884,4.686441825816064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:40.094511086877496,30.40769334958689,10.959651035986914,3.521603684139239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ after  mentioned, doth promise
 and agree to serve the said George  
 Washington for the term of one yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83016734:00415661897:1884022801:0412/pct:69.5275590551181,53.42237061769616,44.25196850393701,26.766833611574846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn83016734:00415661897:1884022801:0412/pct:17.38873572272548,13.35559265442404,11.06734935013785,6.6917084028937115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ these things being well and truly
 performed on the part of the said Phillip  
 Bater, the said George Washington dot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023589:1890022101:0430/pct:33.94007731958763,29.64085297418631,20.71520618556701,21.245791245791246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023589:1890022101:0430/pct:22.643029814665592,19.764309764309765,13.811442385173248,14.163860830527497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ performed on the part of the said Phillip
 Bater, the said George &quot;Washington doth  
 agree to allow him the said Phillip) th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286662:1890022201:0505/pct:27.21385542168675,29.629226921822333,18.38855421686747,20.930738284223118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286662:1890022201:0505/pct:18.153058150045194,19.756442318147222,12.262729737872853,13.950201152549745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ serve the said George Washington for the term
 of one year, as a gardener, and that he wi)  
 during said time, conduct himself soberly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763219:1891070301:0182/pct:20.965732087227416,35.8113114349222,14.953271028037383,5.593973820696468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763219:1891070301:0182/pct:15.736989716422562,26.858483576191652,11.21844811467747,4.198567547542603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

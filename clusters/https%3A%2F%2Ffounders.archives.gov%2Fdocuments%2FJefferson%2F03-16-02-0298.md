@@ -46,7 +46,7 @@ of our own. Our circumstances our pursuits, our in­
 terests are distinct; the principies of our polloy should  
 be also.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.1926323867997,270.59182428309947,50.575594781273985,6.345332519829164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.82533589251439,67.64795607077487,12.648752399232245,1.586333129957291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -67,7 +67,7 @@ oim&quot; pursuits, our interests are-dis­
 tinct; the principles of our policy  
 should be also.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.41578576462297,92.19571370804691,12.149400986610289,3.952689041649818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.40586245772266,92.18639442029718,12.152386320931981,3.9556588833855586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ distinct tbo principles of our policy should be
 also  
 nlso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:66.16719242902208,186.95453854340886,51.813880126182966,19.020830165729055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:16.54179810725552,46.738634635852215,12.953470031545741,4.755207541432264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ newed.Nothing is so important as that America
 shall separate herself from the systems of  
 Europe and establish one of her. own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295870461:1891071401:0140/pct:68.04123711340206,77.24876579365744,18.139420716740304,4.978662873399715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295870461:1891071401:0140/pct:51.049723756906076,57.93657434524307,13.615715162676489,3.7402727805204585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ the principles of our policy should be
 also. Thos. Jefferson.  
 TO BUSINESS AGENTS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892042601:0144/pct:22.57515598411798,26.03297374313047,19.710720363017582,16.466517402808876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892042601:0144/pct:16.93617021276596,19.529818847954406,14.794326241134751,12.344799511500101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ also.1&#x27;
 Now how does that correspond with  
 the &#x27; JefTersonian Democrats&quot; wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892071201:0229/pct:28.92156862745098,33.502432964074956,19.925028835063436,20.91313800600476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879294:1892071201:0229/pct:21.704643784251513,25.126824723056217,14.940871070089415,15.684853504503572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ and establish one of her own. Our circum
 stances, our pursuits, our interests are distinct  
 the principles of our policy should be also
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:278.0581039755352,303.5469630080682,51.37614678899082,11.554270056325164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:69.5145259938838,75.88674075201705,12.844036697247706,2.888567514081291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ Our circumstances, our pursuits, our In­
 terests, nro distinct. The principles ot our  
 policy should be also
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762975:1895022601:0204/pct:46.6786355475763,98.92048446550817,13.180730101735488,4.04160084254871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762975:1895022601:0204/pct:35.014215172826574,74.19694576092681,9.890767619332635,3.0279094260136916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ can labor and industry, for the Pro­
 tection of American interests every­  
 where, and for independence of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588484:1895032101:0094/pct:9.980128063590197,96.24942826650404,17.862662839478915,22.869339838389998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588484:1895032101:0094/pct:7.734428473648186,74.59629775502167,13.848961898243212,17.73139031114612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ Our circumstances, our pursuits, our In­
 terests, are distinct. The principles of our  
 policy should he also.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895032101:0048/pct:86.8465172991922,57.576862316198806,9.693644261545495,2.8800583302952973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895032101:0048/pct:86.83328253581226,57.569866342648844,9.695976836330386,2.882746051032807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ tercets, ure distinct. The principles of out :
 policy should  
 If we arc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn86076126:00332891066:1895040301:0106/pct:33.22179732313575,83.7737843551797,15.033460803059274,5.197322057787174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn86076126:00332891066:1895040301:0106/pct:33.213859020310636,83.75902765545182,15.03584229390681,5.200810287123481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ party. His principles were absolutely
 and irreconcilably opposed to the pol­  
 icy and the principles of the free-trade
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1895040401:0070/pct:47.37738419618529,25.863667980523996,13.845367847411444,8.752608393229771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1895040401:0070/pct:47.38873751135331,25.871396553056652,13.845367847411444,8.744879820697117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ party. liis principles were absolutely
 : and irreconcilably opposed to the policy  
 and the principles of the Free-Trade
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769246:1895040601:0512/pct:51.44766146993319,16.334323292320747,11.219376391982182,8.145948239287229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769246:1895040601:0512/pct:51.44766146993319,16.334323292320747,11.224016332590942,8.153019374911612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ cratic party. His principles were ab­
 solutely and irreconcilably opposed to  
 the policy and principles of the fre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn90061371:00294557179:1895041701:0145/pct:24.25249169435216,86.63861125723304,15.0,10.599684376643872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn90061371:00294557179:1895041701:0145/pct:18.19239076258515,64.97895844292478,11.26432962286094,7.956338769068911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ circumstances, our pursuits, our in­
 terests are distinct; the principles of  
 our policy should be also.&quot; What d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554917:1895042201:0381/pct:18.110866519911948,41.59494351802044,18.83129877926756,13.690155997848306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554917:1895042201:0381/pct:18.12087252351411,41.59494351802044,18.83630178106864,13.703604088219473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ trade, tin-American, dishonest organ­
 ization which claims descent from him.  
 He stood for protection to America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023814:1895042601:0094/pct:31.86798503474078,102.61660978384528,20.63067878140032,15.320439893818733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023814:1895042601:0094/pct:21.248162501670453,68.41107318923018,13.76453294133369,10.219946909366705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ circumstances, our pursuits, our in­
 terests are distinct; the principles of  
 our policy should be also.&quot; What d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00271762628:1895042801:0695/pct:73.18985652318986,270.2529960053262,46.66332999666333,40.39946737683089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00271762628:1895042801:0695/pct:18.297464130797465,67.56324900133156,11.665832499165832,10.099866844207723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ render my country.&quot; It was not to the
 State of Virginia that Jefferson bequeath-­  
 ed this last work, but to his country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175031194:1895102801:0243/pct:172.1441868336436,243.9392195234258,40.75139617532577,6.699666167836998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175031194:1895102801:0243/pct:57.38139561121453,81.31307317447526,13.583798725108592,2.233222055945666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +593,7 @@ our pursuits, our interests, are dis­
 tinct. The principles of our policy  
 should be also
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776865:1896031201:0998/pct:45.1067615658363,79.43283582089552,19.52846975088968,6.552238805970149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776865:1896031201:0998/pct:33.85265969285555,59.582089552238806,14.667260182506121,4.91044776119403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ Compiled by the Washington Post.
   
 SHATTERED
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897060901:0648/pct:73.00435413642961,7.76566757493188,43.087808417997095,64.7683923705722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897060901:0648/pct:54.7632008709853,5.831062670299728,32.33532934131737,48.56948228882834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ tc
 that peace and justice shall be the po a  
 stars of the American societie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534783:1898070301:0021/pct:3.5209003215434085,90.67864044560646,13.344051446945338,5.558713197681028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534783:1898070301:0021/pct:3.5209003215434085,90.68621878670758,13.344051446945338,5.551134856579894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ control the present government at
 Washington—and their tools, have long  
 since thrown overboard the wisdom an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092518:0034058224A:1898071101:0045/pct:21.881918819188193,69.16932907348243,14.059040590405903,8.024084541656427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092518:0034058224A:1898071101:0045/pct:21.877882309536986,69.16083056886595,14.061058845231507,8.026170291190564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ of American society.”
 In a letter to Monroe in 1824 lie sum­  
 med up arguments that today forbid th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:0033289206A:1899042301:0708/pct:16.900763358778626,39.04616468929872,12.51908396946565,6.2492658287325265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:0033289206A:1899042301:0708/pct:16.900763358778626,39.05008026939191,12.524173027989821,6.253181408825718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -788,7 +788,7 @@ the globe should be avoided.if we mean
 that peace and justice shall be the polar  
 star of American society
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_franck_ver01:data:sn84024716:00175032629:1899051001:0287/pct:2.8359855049629745,21.965830929664964,13.943595399401293,7.066785001109386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_franck_ver01:data:sn84024716:00175032629:1899051001:0287/pct:2.841237329972165,21.973226832334888,13.948847224410482,7.066785001109386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ piblar star of American society.
 From bis first Inaugural address.  
 Peac. commerce and honest friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:00175031418:1899051101:0181/pct:17.497921862011637,82.03488372093024,16.209476309226932,6.729651162790698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:00175031418:1899051101:0181/pct:17.497921862011637,82.03488372093024,16.23718481573843,6.734496124031008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ via the Suez canal and that in
 due course of time such a purpose will  
 be made known. According to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_folio_ver01:data:sn92053934:00212471963:1899051201:0103/pct:10.167850225952227,47.012065294535134,16.268560361523562,20.383250532292404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_folio_ver01:data:sn92053934:00212471963:1899051201:0103/pct:7.63765541740675,35.25904897090135,12.207330857419667,15.287437899219304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ ed, if we mean that peace and Justice
 shall be the polar star of American  
 society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_green_ver01:data:sn91068367:00296024272:1899071401:0433/pct:65.21008403361344,17.313550162130294,19.2296918767507,8.00825390586617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_green_ver01:data:sn91068367:00296024272:1899071401:0433/pct:48.9281210592686,12.990075660803774,14.431834103965251,6.0037339097966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ peace and justice shall be the polar star of
   
 These figures are startling, but they ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899071801:0224/pct:29.393223010244288,194.7017907355335,106.22537431048069,34.971141038922596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034936:1899071801:0224/pct:7.349753694581281,48.67544768388338,26.561576354679804,8.742785259730649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ justice should be the polar stars of
 the American societies.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_hawk_ver01:data:2015270501:00415623069:1899080401:0408/pct:49.88399071925754,69.66081244134602,14.17246713070379,6.864190910309693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_hawk_ver01:data:2015270501:00415623069:1899080401:0408/pct:49.893658159319415,69.66751575278188,14.167633410672854,6.870894221745543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

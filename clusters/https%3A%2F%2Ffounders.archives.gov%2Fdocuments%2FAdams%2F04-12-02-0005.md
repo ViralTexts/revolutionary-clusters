@@ -153,7 +153,7 @@ it was the sublimest thitig ever exhibited iu
 America.&quot;  
 Immediately after the reception, Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477801:1865031501:0521/pct:104.83378561736771,57.71406531241964,19.284260515603798,8.601182823347905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477801:1865031501:0521/pct:78.6696080095028,43.288763178194905,14.474800610894281,6.454101311391103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ Immediately after the reception, Wash­
 ington departed for Mount Yernon, and  
 the second Administration commence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287459:1865033001:0333/pct:43.10126582278481,66.79561573178594,19.841772151898734,11.401246507629486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287459:1865033001:0333/pct:32.34130125059364,50.09671179883946,14.896311540288112,8.553621319578767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ And the writer adds, with admirable naivete:
 est thing ever exhibited in America.&quot; And it is un-­  
 questionable that his inaugural was effectively deliv.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869030501:0451/pct:4.411764705882353,182.24061810154527,48.575851393188856,30.242825607064017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869030501:0451/pct:1.4705882352941178,60.746872700515084,16.191950464396285,10.08094186902134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ tenance was as serene and unclouded as the day.
   
 e ecento nlor a tiien i 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873030101:0207/pct:66.4186046511628,362.1536853110298,42.7906976744186,3.833420456525527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873030101:0207/pct:16.616243891086803,90.53842132775745,10.705143123109146,0.9583551141313817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ him say, &quot;Ay, I am fairly out, and you are fairly
 in! See which of us will be the happiest.&quot; Chief  
 Justice Ellsworth administered the oath with grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211101921:1881030401:0239/pct:29.105392156862745,111.90347947861683,49.754901960784316,16.417106538834428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211101921:1881030401:0239/pct:7.276348039215686,27.975869869654208,12.438725490196079,4.104276634708607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ through or not I did, however. All agreed
 thst, taken altogether, it was the subliraeat thing  
 ever exhibited in America.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_frenchfries_ver01:data:sn82015289:00414180553:1881031501:0278/pct:56.37430247531836,48.53018649246655,12.905995135212477,13.402170477294279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_frenchfries_ver01:data:sn82015289:00414180553:1881031501:0278/pct:56.37430247531836,48.533698591648225,12.915533934277674,13.405682576475959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ thing ever exhibited in America.&quot;
 .—*—♦ 1—  
 The Morey Letter—Hon. A S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1881032201:0291/pct:26.6782498815353,58.71980676328502,10.709208655820566,13.321256038647343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1881032201:0291/pct:26.6782498815353,58.72584541062802,10.709208655820566,13.32427536231884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ ence of the general, whose countenance &#x27;
 was as serene ami unclouded as the day.&quot;  
 Immediately after tho ceremonie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1881033101:0925/pct:4.951076320939334,61.00784799669558,14.500978473581213,3.8276194410023407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1881033101:0925/pct:4.964122635355512,61.01243746844738,14.514024787997391,3.8367983845059435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ I did, however. All agree that, taken
 altogether, it was the sublimest thing  
 ever exhibited in America.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fernico_ver01:data:sn84038328:00280763779:1881040101:0509/pct:160.03316749585406,24.66708941027267,43.78109452736319,84.59099556119213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fernico_ver01:data:sn84038328:00280763779:1881040101:0509/pct:40.008291873963515,6.1667723525681675,10.945273631840797,21.147748890298033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ altogether, it was the sublimest thing ever
 exhibited in America.&quot;  
 Fkance. While the French people hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296023012:1881040801:0060/pct:44.380796508456086,64.60430130310414,18.903436988543373,22.491789384468692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296023012:1881040801:0060/pct:33.30150068212824,48.458523148638626,14.17462482946794,16.866193452696262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ I get through or not. I did, however. All agree
 thing ever exhibited in America.&quot;  
 The cen mony was formal. The Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885030301:0667/pct:16.962230946256938,17.457475380483437,16.637335860295114,11.190689346463742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885030301:0667/pct:16.972383917693247,17.462449020192977,16.630567212670908,11.188202526608972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ tefore and did not sleep well the night after. I I a
 .mis una ell and did not know whether I should j v  
 : t through &lt;-r not. I did, however. All agree &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885030401:0675/pct:16.908278011109605,17.832167832167833,14.26635957187373,10.219780219780219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885030401:0675/pct:16.911665086031704,17.83966033966034,14.276520796640021,10.214785214785215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ letter sa.d: &quot;All agree that, taken all together
 it was the subiimest thing ever exhibited iii  
 America.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654711:1889030201:0604/pct:14.973715448533152,59.52692261975514,13.939291164999153,8.534411030547961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654711:1889030201:0604/pct:14.982194336103102,59.529894211339595,13.943530608784128,8.534411030547961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ over me. Methought I heard&#x27; him say,
 See which otus will be the happiest&#x27; Chief  
 Justice Ellsworth administered the oat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280015:1889030501:0058/pct:19.726962457337883,39.44124897288414,14.93174061433447,5.710764174198849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280015:1889030501:0058/pct:14.800273130761353,29.580936729663105,11.215431888016388,4.286496850178033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ and unclouded as the day.
 There was a flood of tears, which he  
 sought in various ways to explain, thoug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655120:1897030501:0257/pct:43.328979287180445,63.430240645430516,13.808546370591529,3.0185004868549172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655120:1897030501:0257/pct:43.333644336629966,63.44067325079983,13.817876469490576,3.021978021978022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ made more affecting by the presence of
 Washington, whose countenance was as  
 serene and unclouded as the day. Ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109105:1897030701:0239/pct:94.39090208172706,100.05542469170015,16.788743253662297,1.8428709990300678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109105:1897030701:0239/pct:70.83895853423337,75.04503256200637,12.594021215043394,1.3856172925038104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ presence of Washington, whose coun­
 tenance was as serene and unclouded  
 as the day. There was a flood of tears
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1897031701:0514/pct:274.7767857142857,104.89777908515958,49.107142857142854,10.648624797764377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777729:1897031701:0514/pct:68.70697674418605,26.224444771289896,12.279069767441861,2.6621561994410943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ the day. There was a flood
 of tears, which he sought in  
 various ways to explain, though n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669422:1897031801:0219/pct:67.36111111111111,43.85649275055562,18.34490740740741,6.328712033019367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669422:1897031801:0219/pct:44.92690693298596,29.241189543867076,12.244897959183673,4.222669065509578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -846,7 +846,7 @@ was as serene and unclouded as the day.
 There was a flood of tears, which he  
 sought in various ways to explain, thoug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472359:1897031901:0413/pct:17.104610808130886,36.00039077764752,10.994050570153693,2.4912075029308323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472359:1897031901:0413/pct:16.249313132898973,34.2067813389432,10.460004709945835,2.3635688652394506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -911,7 +911,7 @@ as the day. Methought I heard him say.Ay
 I am fairly out and you are fairly in&#x27; See which  
 of us will be the happiest.&quot; And the day afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121001:0570/pct:16.153846153846153,67.83836563016374,50.76923076923077,11.536728255971159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121001:0570/pct:4.040792765056763,16.959591407540934,12.699634404464113,2.8841820639927898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

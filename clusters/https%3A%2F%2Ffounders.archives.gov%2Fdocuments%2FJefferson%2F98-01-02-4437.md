@@ -121,7 +121,7 @@ ers in succession, forever ¢ 1 think not,
 The Creator has made the earth for the  
 living, not for the dead. The earth wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1834030601:0832/pct:84.34812521499828,38.44725111441308,14.860681114551083,3.7642397226349678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1834030601:0832/pct:84.34812521499828,38.45550602608552,14.872147689485152,3.7642397226349678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ laws for the government of society.——
 Rights and Powers can only belong to  
 persons not fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021437:00514152706:1834031201:0019/pct:74.20306965761512,18.997175141242938,16.430539157811886,8.714689265536723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021437:00514152706:1834031201:0019/pct:74.21618785255149,18.997175141242938,16.4239800603437,8.719397363465161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ Cence, and the amelioration of the condi:
 ered unchangeable, but the inherent and  
 unaiienable riglits of men,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021437:00514152706:1834031201:0019/pct:74.20306965761512,31.271186440677965,16.430539157811886,10.77683615819209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021437:00514152706:1834031201:0019/pct:74.21618785255149,31.2758945386064,16.4239800603437,10.786252354048964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ unaiienable riglits of men,
 # Can one generation bind another, and all oth­  
 ers in succession, forever ? 1 think not.—Nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021521:00514152718:1835121201:0173/pct:24.260741708871098,11.131634035217338,14.327724228067309,1.0343553749538235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021521:00514152718:1835121201:0173/pct:24.260741708871098,11.131634035217338,14.333169961335294,1.0466691294175594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ ers in succession, forever ? 1 think not.—Nothin
 *‘ Can one generation bind another, and all oth­  
 ers in succession, forever ? 1 tifink not.—Nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021521:00514152718:1836011601:0189/pct:18.40705021616229,10.327888984403783,14.865314266711009,1.1298047402677145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021521:00514152718:1836011601:0189/pct:18.40705021616229,10.327888984403783,14.870856889480102,1.1379917311392198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ ion forever 7 1 think not.—
 Nothing is to be considered un­  
 changeable but the inherent an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021521:00514152718:1836012301:0194/pct:2.94167371090448,11.219211822660098,15.046491969568892,3.8423645320197046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021521:00514152718:1836012301:0194/pct:2.9529444914060297,11.227422003284072,15.046491969568892,3.8423645320197046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ guecession ? 1 think not. The Creator hds
 made ths earth for the LIVING, not the  
 DEAD.’ Thomas Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842052801:0709/pct:4.31486076647367,30.184907546226885,14.419630548662807,2.5187406296851576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842052801:0709/pct:4.319455932359158,30.18823921372647,14.415035382777319,2.5187406296851576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -71,7 +71,7 @@ any or&#x27;ner or greater duty on merchandizc, or o.
 ther or greater tonnage than that paid by the citi  
 zens of the United States.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803110901:0308/pct:51.38626796341995,31.243921845990627,22.601248366961823,9.698523561135179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803110901:0308/pct:51.37880986937591,31.241159830268742,22.602805999032412,9.7006129184347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ ears in the port of New Orleanr, and
 in all other legal parts of entry, within  
 the ceded territory (Loulsiana)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1898122801:0325/pct:50.68637803590285,18.445869483213883,37.69799366420275,18.50245190494153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1898122801:0325/pct:16.89545934530095,6.148623161071294,12.565997888067582,6.167483968313844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -46,7 +46,7 @@ United States a Strong proof of his friend­
 l ship, doth hereby c&#x27;ede to the said Unitt-esi  
 States, in the name of the French Repnb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803102401:0256/pct:28.387194659384008,54.5763014554871,23.50174480351995,11.992142155549603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803102401:0256/pct:28.382888349514563,54.57142857142857,23.503236245954692,11.994047619047619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -68,7 +68,7 @@ states &quot;
 This article in the first place recognises,  
 What. been well understood, that Lssoui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803110301:0293/pct:1.5043193327375632,59.76331360946745,21.656240691093238,6.959286408195708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803110301:0293/pct:1.5040953090096798,59.758036029671494,21.657979647555223,6.961615448016013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ provided she fulfilled all the conditions
 on which Spain promised to cede. But  
 we know Spain declares tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804010601:0196/pct:53.06348766287774,41.57068062827225,21.014693651233713,21.099476439790575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804010601:0196/pct:53.048780487804876,41.563426976094924,21.01579822616408,21.100157040656082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ known the promises, and to declare, that,
 &quot; STATES OF AMERICA, lS ESTA.  
 &quot; BLlSHED over the same ;&quot; that the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1804011701:0489/pct:24.651580998051852,30.97672778561354,23.22793346320995,37.526445698166434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1804011701:0489/pct:24.64788732394366,30.973997355663286,23.229447607631606,37.526076098134276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ ficers charged With their execution, except
 those whose powers &quot;have been specially in­  
 vested in me, and except also such officer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1804011701:0489/pct:24.142065038213698,26.066643159379407,24.516709126329985,55.07757404795487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1804011701:0489/pct:24.138447707521728,26.06434552666373,24.5180301668165,55.07565741148817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ unto set my hand.­
 Given at the City of New-Orleans the  
 LOth day of December;, 1-803, and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1804011701:0489/pct:24.846395923872322,82.74858956276445,23.19796193616065,12.77327221438646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1804011701:0489/pct:24.842673059634404,82.74129572498899,23.199480571371492,12.775084471867196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ the prefent ‘cn. did enal, that until the expi­
 nm of “:ﬁ&#x27;: odf‘ Congrefs then fitting,  
 (a provi temporary 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804012601:0429/pct:54.838116261957325,76.91516121655614,19.573215599705666,14.68099702721244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804012601:0429/pct:54.838116261957325,76.92278374876133,19.585479519254353,14.673374495007241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ furance that their joft rights will be under the
 guardianfhip of the United States and will be  
 maintained from all force or violenee from&#x27;with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804012601:0429/pct:74.90802060338484,7.7406814543791445,19.793966151582044,29.476332037502857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804012601:0429/pct:74.91415256315919,7.7406814543791445,19.7878341918077,29.476332037502857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ tfUMpnJories be: sooner made bv Con*
 Mess,; all the military, ctvd and judi­  
 cial powers exercised bj the then 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804012701:0208/pct:71.73790776152981,77.08222811671088,20.416197975253095,18.267020335985855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804012701:0208/pct:71.71773966825977,77.06859971711457,20.417486646050044,18.268210749646393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ and all mil officers charged with their
 execution, except those whose powers  
 have been specially invested in me, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804012701:0209/pct:4.718543046357616,3.8850452368281,20.943708609271525,29.182189107681392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804012701:0209/pct:4.7172413793103445,3.8843561546647747,20.944827586206898,29.1814473217453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ In testimony whereof I have here­
 Given at the City ef Nero-Orkaivt the  
 90th day of December, t«03, and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804012701:0209/pct:5.656732891832229,33.08497427709775,19.950331125827816,14.5290047897818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804012701:0209/pct:5.655172413793103,33.079106065980845,19.951724137931034,14.530862007804187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ fet my hand.
 1 Givfi: at the Cftv of New-Orleans the loth  
 day of December, 1803, and of the In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804012801:0056/pct:72.12321232123212,13.931270497647226,23.54235423542354,31.413089975759306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804012801:0056/pct:72.1073471183458,13.929284288565725,23.54267487901452,31.412175648702593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -846,7 +846,7 @@ civil officers charged with their execu­
 tion, except these whose powers have  
 _been specially vested in me, and excep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804013101:0432/pct:42.16216216216216,2.4531891458896564,34.8966613672496,92.74056273155102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804013101:0432/pct:42.16216216216216,2.459864490504322,34.90196078431372,92.73722505924368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -878,7 +878,7 @@ to set my hand. : ,
 | Given at the city of New. Orleans the  
 i eoth day of Dec. 1803, and of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804013101:0432/pct:60.0,17.652948833483528,17.058823529411764,12.275958746370282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804013101:0432/pct:60.010598834128245,17.659624178098195,17.05352411234764,12.269283401755615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1197,7 +1197,7 @@ French Repuhlick desiring to give to the United
 States, a strong proof (if his friendship, doth hereby  
 cede to the said United Stales, in the name of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804101301:0157/pct:73.72881355932203,55.81243894496907,22.008217770929637,7.294041028980788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804101301:0157/pct:73.70988446726572,55.8033534103858,22.008985879332478,7.29692332736448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1294,7 +1294,7 @@ had when France possessed it, and such it
 ought to be after the treaties subsequently  
 entered into between Spain and other Mates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810082101:0124/pct:42.44682784948191,57.63100700313934,17.39683693873841,5.493842067133543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810082101:0124/pct:42.43911304980007,57.624049257515395,17.39973343026778,5.49720310676486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1323,7 +1323,7 @@ these facts. They are,
 Spam, owned and possessed East of the Mississippi,  
 only the town ol New-Orleans and the Island o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810122801:0281/pct:51.478560867422374,64.47325769854133,20.89699359290291,10.648298217179903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810122801:0281/pct:51.46587829514659,64.46280991735537,20.8980044345898,10.650623885918003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1355,7 +1355,7 @@ possessed it,” it follows, of course, that she ,
 retroceded it to France with the same extent  
 to wit: to the Mobile, (eastward)certai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811010301:0301/pct:41.06699751861042,27.442028114862428,17.3697270471464,9.323561215907725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811010301:0301/pct:41.05972000708843,27.43873137914464,17.3725559690472,9.326445619093384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1376,7 +1376,7 @@ ly entered intotoetween other states,” an in- ]
 fen&#x27;isn may be raised to include Florida—I  
 fully subscribe to the gentleman’s rule, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011201:0317/pct:7.091302778780224,8.725659354202612,17.52075063154096,3.9068277052008873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011201:0317/pct:7.090023453003789,8.724584103512015,17.523603343556438,3.9104538919696035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1407,7 +1407,7 @@ aqjoa to the United States, both powers rerci
 the country on the West aide of the M ississip­  
 wiih the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811011401:0309/pct:28.91113892365457,76.21367105049521,21.501877346683354,11.446663419386264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811011401:0309/pct:28.903903903903903,76.2012987012987,21.50275275275275,11.448863636363637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1455,7 +1455,7 @@ the Perdido.
 ties between Spain and other States, entered  
 int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811012301:0349/pct:52.566343556332434,43.87007328183799,21.118703321150484,15.309962368785898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811012301:0349/pct:52.576937337782724,43.87007328183799,21.12400021187563,15.313263352479039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1634,7 +1634,7 @@ portation of persons of color, shall be ex­
 tended te the said territories ; and the Presi­  
 dent of the United States shall be, and he i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819032301:0429/pct:39.20223932820154,12.498782269849002,32.792162351294614,81.23721383341451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819032301:0429/pct:39.211569862374624,12.502029550251665,32.79682761838115,81.23396655301185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1805,7 +1805,7 @@ of color, shall be extended to the said ter­
 riories ; and the President of the U. States  
 thall&#x27;be, and he is hereby, authorized,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820032101:0046/pct:28.04964038922578,71.32470965914456,16.499788464250457,16.174110093475594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820032101:0046/pct:28.04964038922578,71.32785698549083,16.499788464250457,16.17725741982186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1846,7 +1846,7 @@ tended to the said territories; and the Pre­
 sident of the United States shall be, and he  
 is hereby authorized, with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1820032101:0321/pct:42.91252725951054,30.22465267514041,17.203779985461594,16.671593260419744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1820032101:0321/pct:42.90213178294574,30.22018619772425,17.205668604651162,16.672823998817794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1921,7 +1921,7 @@ liber y. property, and religion; and the
 laws ot the United States relative to the  
 collection of the revenue, and the im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820032901:0020/pct:6.719085060757684,45.087594696969695,17.709077912794854,13.435132575757576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820032901:0020/pct:6.730998332142006,45.087594696969695,17.715034548487015,13.44302398989899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1967,7 +1967,7 @@ be exercised in such manner, as the Presi­
 dent of thie United [States] shall direct, for the  
 maintairing the inhabitants of said territorie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821032701:0257/pct:60.2391171060699,38.215836262145956,17.489270386266096,12.859210254289849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821032701:0257/pct:60.24933578581647,38.22272758596927,17.479051706519517,12.859210254289849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2011,7 +2011,7 @@ and shall be exercised in such manner,
 as the President of the United [States]  
 shall direct, for the maintaining the in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821042401:0060/pct:57.848687596500255,78.33749220212103,17.601646937725167,12.27386150966937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821042401:0060/pct:57.833804990995624,78.3252767815375,17.60355029585799,12.275845937938563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2164,7 +2164,7 @@ bill force j and all civil officers, charged with
 their execution, expect those whose powers  
 have been specially vested It me, and except al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821071701:0084/pct:81.22036041732532,55.66901408450704,16.28201074928865,18.145539906103288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821071701:0084/pct:81.20752331278648,55.66248092946837,16.28470575838997,18.14732230176427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2189,7 +2189,7 @@ dianship of the United States: and will be
 maintained from all force and violence from  
 within and from without
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821071701:0084/pct:81.12551375276637,75.24647887323944,14.906734113183687,5.833333333333333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821071701:0084/pct:81.11269163900742,75.23764816336111,14.909646488593857,5.836560654070336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2284,7 +2284,7 @@ States : and will be maintained from all
 force and violence .-from within and from  
 without
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821072401:0326/pct:62.381577029587525,22.43259318001586,16.615653694796677,32.08762886597938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821072401:0326/pct:62.38643540786086,22.43259318001586,16.615653694796677,32.09754163362411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2346,7 +2346,7 @@ all civil officers, charged with their ex­
 ecution, except those whose powers  
 have been specially vested in me, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1821072501:0039/pct:6.071194583970299,14.095930639071458,22.97444856955667,41.16906726331982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1821072501:0039/pct:4.716502115655853,10.924460821502114,17.805359661495064,31.91358693688812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2373,7 +2373,7 @@ ship of the United States, and will be
 maintained from all force and violence  
 from within and from without
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1821072501:0039/pct:6.7263594671325615,57.89400083904349,22.341122515833153,11.159278422598238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1821072501:0039/pct:5.22425952045134,44.868321231169396,17.320169252468265,8.655756656190167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2531,7 +2531,7 @@ Vie guardianship of the. United States, andVill
 *; I*&#x27;1 maintained from all force ami violence  
 from without or within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821072701:0097/pct:0.25915127955944284,24.543828264758496,16.682863621639132,31.472868217054263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821072701:0097/pct:0.2591093117408907,24.540901502504173,16.685560053981106,31.473090070752843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2781,7 +2781,7 @@ by tiie piioeiples of the constitution, or by
 martial law. The inhabitants composing  
 this assembly”, however, vyisely adjourned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821080301:0105/pct:2.215752870774705,43.05323466221055,14.960375222383956,9.680114585820006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821080301:0105/pct:2.215394566623545,43.04809643155508,14.96334626994394,9.682937502486375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3053,7 +3053,7 @@ charged with their execution, except
 those whose powers have been specially  
 vested in me, and except also, such offi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821081401:0118/pct:22.303857255313567,55.4721905072582,17.554447651535032,30.84325558636438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821081401:0118/pct:22.29800629590766,55.4631441617743,17.556400839454355,30.842302674494455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3082,7 +3082,7 @@ j ship of the United States j and will be
   
 &#x27; maintained from all force and violenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821081401:0118/pct:22.041458934662817,4.240743761213505,35.81737076882708,90.55618985483608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821081401:0118/pct:22.03567681007345,4.240052185257665,35.81453305351521,90.54549902152642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3121,7 +3121,7 @@ rect opposition to the constitution and
 laws of the United States I have too  
 high an opinion of Gov. Jackson&#x27;s under
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216304:1821081701:0104/pct:79.84983411908503,33.97769516728624,18.124672603457306,9.559214020180564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216304:1821081701:0104/pct:79.8358938547486,33.97408666100255,18.127327746741155,9.561738884168792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3206,7 +3206,7 @@ rig ! s will be under tbe guardianship of the
 Unoe 1 States, and will be maintained Irom  
 aii force and violence from without or with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216304:1821081801:0108/pct:6.1608075182735815,17.705788635156665,18.238774799860774,50.111524163568774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216304:1821081801:0108/pct:6.159735514181312,17.70390824129142,18.241401310828838,50.10974228263948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3351,7 +3351,7 @@ powers and charged me with the several du­
 ties heretofore held and exercised by the Cap- &lt;  
 tain General, lutendant and governors afore­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821100201:0173/pct:33.79874819451131,32.31394098673994,15.454983148772268,2.7356349301158764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821100201:0173/pct:33.793324775353014,32.310081223124705,15.457851946940522,2.739289695811435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3370,7 +3370,7 @@ force;’ “all civil officers, charged with their
 execution, except those wliose powers have  
 specially vested in me, and except also suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821100201:0173/pct:33.814796982827794,38.20332098912914,14.845129192745947,2.8073109544857244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821100201:0173/pct:33.80937098844672,38.19875776397515,14.848095849379547,2.810957158783246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3401,7 +3401,7 @@ the powers and charged me with the several |
 duties heretofore held and exercised by the  
 Captain General, Intendant and governors a* 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216304:1821100501:0248/pct:3.0480241006556796,75.60923924560288,19.03242955874535,12.15299851663488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216304:1821100501:0248/pct:3.047484053862509,75.60122894374405,19.034963382943538,12.155242433873644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3437,7 +3437,7 @@ the place, the registering of the citizens,
 kc. kc.—but the most material are those,  
 which organize county courts; by these it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216304:1821100501:0248/pct:2.5872762714867976,4.71498198770926,38.25979089136984,89.00190718372536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216304:1821100501:0248/pct:2.58681785967399,4.714482466362962,38.25891802504134,88.99600946427941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3472,7 +3472,7 @@ and shall he exercised in such manner as the
 president oftlie United States shall direct, for  
 the maintaining the inhabitants of said territo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821100901:0180/pct:51.571724908249564,46.94046632737602,14.711983405138024,11.5990057995029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821100901:0180/pct:51.56349712827058,46.93491124260355,14.71495426504999,11.601577909270217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3490,7 +3490,7 @@ and charged me with the several duties
 heretofore! held and exercised by the  
 Captain General, Intendant «Jj* Gover
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1821101301:0166/pct:24.06871609403255,54.449230769230766,16.057866184448464,2.6338461538461537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1821101301:0166/pct:24.064364491050444,54.44253015013537,16.06098957391671,2.6376240872918206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3531,7 +3531,7 @@ the importation ot ncrsims nf mlnr In.
 tended to the said territory,” See.  
 Here it will he. seen that the appointment o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821101601:0189/pct:17.24137931034483,20.016601446697496,15.178859168546568,13.90964069726076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821101601:0189/pct:17.238601578862575,20.014228124258953,15.181784007303582,13.911943719864043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3611,7 +3611,7 @@ taken:
 &quot;State* shall direct, lor j&gt;ro;ecting the inhabit  
 &quot;antsot Louisiana, m the fiee enjoyment ol thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828060501:0525/pct:2.024553090674133,50.4118386151054,17.962524230023693,11.643166271115454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828060501:0525/pct:2.02411714039621,50.40480178671133,17.964039621016365,11.64503070910106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3703,7 +3703,7 @@ J manner as the President of the United States
 j inhabitants of Louisiana in the free enjoyment j  
 i ol iheir liberty, property, and religion. Approved
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845011401:0038/pct:45.05347593582888,43.03117505995204,13.7106357694593,7.577937649880096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845011401:0038/pct:45.063378886908296,43.03117505995204,13.705684293919589,7.584332533972821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3727,7 +3727,7 @@ Spain and other states.&quot; From these treaties
 and facts it is clear that the United States acquired  
 all the country situate within the limits o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845011701:0062/pct:51.70902716914987,45.410082768999246,16.178790534618756,4.853273137697517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845011701:0062/pct:51.720712825007304,45.41844327397375,16.178790534618756,4.853273137697517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3761,7 +3761,7 @@ of the American government, in thus, according
 to his views, causing a stipulation to be inserted  
 in the treaty with France in 1803, with the express
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845050501:0022/pct:14.362628661916073,66.03726397399025,15.819477434679335,11.429285982243341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845050501:0022/pct:14.362628661916073,66.04560043349589,15.840591185009238,11.425117752490518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3799,7 +3799,7 @@ after the treaties subsequently entered into by Spain and
 other States. By the latter, his Catholic Majesty  
 ceded to the United States all his rights, claims, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742927:1845121001:0680/pct:52.05724508050089,128.6569225457475,46.414051065213854,16.65323972839222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742927:1845121001:0680/pct:17.352415026833633,42.8856408485825,15.471350355071285,5.5510799094640735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3834,7 +3834,7 @@ Rocky Mountains, and north of a line drawn on the 42d pa­
 rallel of latitude, from a point on the aouth bonk of the Ar­  
 kansas, in that parallel, to the South Sea ; that ia, to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845121301:0275/pct:50.799833078314094,7.620614035087719,15.44025594658506,5.394736842105263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845121301:0275/pct:50.80910650530904,7.627923976608187,15.435619233087587,5.391081871345029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3969,7 +3969,7 @@ The act then extend* all the revenue acts to the territo- I
 &quot; ry, aad authorizes the President to &quot;establish several dis&quot;  
 tricts for the collection of (he revenue, and, during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849022201:0216/pct:77.5911708253359,18.818407960199004,19.113883557261676,7.947761194029851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849022201:0216/pct:77.5911708253359,18.826699834162522,19.113883557261676,7.947761194029851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3997,7 +3997,7 @@ The act then extends all the revenue acts to the
 territory, and authorizes the President to &quot;establish  
 several districts for the collection of the revenue, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849022801:0465/pct:22.433035714285715,113.59078301685513,20.521763392857142,8.971623639854919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849022801:0465/pct:16.82712431979908,85.19308726264134,15.403934700711595,6.731384681032644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4035,13 +4035,13 @@ Hry are meraly tort of an xplanatory lanst, whioh rae
 its final and complete elucidation from the last part of  
 the serter ee, ming an sush as it thould be after the trea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850022401:0255/pct:109.3811394891945,33.19796954314721,49.27963326784545,14.540327129159616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850022401:0255/pct:36.4603798297315,11.065989847715736,16.426544422615148,4.846775709719872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1850-09_12_33/page/n76/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1850-09_12_33/page/n76/mode/1up?view=theater)
 
 #### 1850-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4116,7 +4116,7 @@ taining and protecting the inhabitants of
 Louisiana in the free enjoyment of their lib­  
 erty, property and religion.&quot;U. S. Statutes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857021701:0002/pct:154.27077280650784,87.79793292554314,42.620569436374204,22.843282008015187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857021701:0002/pct:51.43106203690251,29.265977641847712,14.208920528839169,7.614427336005062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4534,7 +4534,7 @@ the Mississippi. It un?&#x27;ottled the ideas they
 had formed of a constitutional government.  
 They could not see, as we can ln this 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537012:1899021401:0511/pct:44.1611174273185,27.863849765258216,12.636024037680688,6.795774647887324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537012:1899021401:0511/pct:44.171945211412485,27.871674491392803,12.630610145633696,6.80359937402191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4569,7 +4569,7 @@ but the transfer was made on Decem­
 ber 20, 1S03, in New Orleans, for the  
 lower end of the province, the chang
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_desdemona_ver03:data:sn85047084:00202196056:1899050201:0304/pct:31.5,82.78092158447858,18.43421052631579,15.036378334680679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_desdemona_ver03:data:sn85047084:00202196056:1899050201:0304/pct:23.640910885876004,62.085691188358936,13.834408319073319,11.27728375101051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

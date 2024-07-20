@@ -330,7 +330,7 @@ down on our honest ground of neutrality and im­
 partiality, as the English Eagle did formerly and  
 now does a second time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809061601:0050/pct:5.75552387740556,4.368231046931408,34.5687811831789,89.55475330926595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809061601:0050/pct:5.754498485658293,4.3677054506076285,34.56856107844884,89.54798860947339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ ground of neutrality and impartiality,
 ‘ow does a second time,  
 i . JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809062001:0303/pct:24.82314101556359,10.62300319488818,36.11067442226065,83.59624600638978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809062001:0303/pct:24.833621547974637,10.629659211927583,36.121154954671695,83.59957401490948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ trality and imparticlity, as the English cagle -
 did formerly, and now does a second time.  
 , Y JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809062101:0048/pct:23.536815607300188,6.277013752455796,49.21334172435494,91.71905697445972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809062101:0048/pct:23.536815607300188,6.280288146692862,49.23431927837214,91.71905697445972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

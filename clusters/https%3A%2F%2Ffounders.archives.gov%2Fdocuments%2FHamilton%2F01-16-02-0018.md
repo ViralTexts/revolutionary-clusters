@@ -95,7 +95,7 @@ the public good requires the superseding of tlienhi
 cer. With perfect respect, cYc,  
 A I,EXA ND E H HAM!I,TON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1839042901:1130/pct:82.38546603475514,31.305903398926656,15.343601895734597,7.021466905187835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1839042901:1130/pct:82.36920039486674,31.301237144134745,15.345508390918065,7.024146668654047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ tion cf revenue, and at the sarr.s tlrr.i
 so vilely &#x27; j&#x27;lrious to ths pullic crc &#x27;it, tl­  
 I c.mnct forlar to submit it r s my c. i.:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1839050701:0639/pct:74.04255319148936,101.94051887787387,17.23404255319149,9.059270196161147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1839050701:0639/pct:55.54035567715458,76.46066230753006,12.935096519227846,6.791816072558532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ This conduct, though I trust pr­
 from no ill motive in the collector  
 cnue.and at the same tine so 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016789:00295877935:1839051801:0057/pct:115.06165590135056,85.2129005059022,14.694656488549619,8.579258010118044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016789:00295877935:1839051801:0057/pct:86.34160669701865,63.91231028667791,11.029519753267733,6.4397133220910625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ cer.
 Ay tl pcrfet-t respect, &amp;c,  
 &quot;fyVLKXANDEIl HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839053001:0864/pct:30.848214285714285,13.344316309719934,24.575892857142858,11.532125205930807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1839053001:0864/pct:23.162832253741346,10.00823723228995,18.44985481349118,8.649093904448105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

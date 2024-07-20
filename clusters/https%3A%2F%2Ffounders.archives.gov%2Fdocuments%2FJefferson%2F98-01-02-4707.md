@@ -71,7 +71,7 @@ nt tier professors will be appointed from among ,
 Accept the assurance of my high conside­  
 ration. TiJ: JEFFERSON. Rector
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824120201:0237/pct:32.363344051446944,43.72542009295674,15.643086816720258,17.971636276963412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824120201:0237/pct:32.35814177784922,43.72020972354623,15.64593045062423,17.973466793771845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ the citizens of our own country.
 Accept the assmanceofmy high considers,  
 tion. TH: JLFFLRSON, Rector
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824120401:0546/pct:81.49446235805411,19.28884986830553,16.73909995794196,20.03511852502195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824120401:0546/pct:81.48303896832071,19.287156527082786,16.741426034950006,20.03628595674948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ New York, ami informs me by letters of
   
 Nor. 12 and 13 from tilfr.ce, (h0,, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824121001:0139/pct:67.9269061121613,4.289269506660811,28.691451375761396,89.28414580588493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1824121001:0139/pct:67.91264174716505,4.28864168618267,28.69067618647627,89.27473653395785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ the t nversit) v. ill he opened on the f.:v dav *
 the citizens of our own cumny.  
 Accept the assi mee if high co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824121601:0418/pct:60.50616758826032,73.01319853973602,17.6095278604849,17.98652064026959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824121601:0418/pct:60.49330214756538,73.00294819598484,17.61109929832022,17.987505264635686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ of our own country.
 Accept the assurance of my high con­  
 sideration TH .• JEFFERSON, Recto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071587:00542866561:1824121701:0444/pct:70.74497009244155,62.81670452559846,20.418705818379554,29.52996680062904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071587:00542866561:1824121701:0444/pct:70.725740690405,62.805730258560445,20.41995107366132,29.52917540181691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

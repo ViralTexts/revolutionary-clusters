@@ -73,7 +73,7 @@ T HOMAS I EFFERSON.
   
 un—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071001:0201/pct:25.168374816983896,75.91139019710448,23.660322108345536,15.968951683237398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071001:0201/pct:25.164690382081687,75.90477021016831,23.66173815449178,15.970465974826313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ remembered.
 juflly deferve.  
 Til : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807071101:0082/pct:75.85015457355883,34.29518664047151,17.530460083651572,10.179273084479371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807071101:0082/pct:75.83636363636364,34.29097605893186,17.533333333333335,10.182115817474934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ remembered.
 juftly deftrve.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807071101:0082/pct:75.86833969812693,46.05844793713163,17.56683033278778,9.602161100196463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807071101:0082/pct:75.85454545454546,46.05279312461633,17.56969696969697,9.605074687947615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ TH : JEFFERSON.
 July 8, 1807.  
 A copy of the above letter of * lie same date
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807071101:0228/pct:40.011244377811096,12.546491445574015,17.67241379310345,12.447309695016116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807071101:0228/pct:40.003747423646246,12.544936159662823,17.675348198113795,12.449898764513863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ July 8, lSi)7.
 [A like answer appears, trom the  
 Ah xandri to have been return
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807071301:0003/pct:2.876443669644803,40.60046825506129,18.086729134887776,17.628425836661616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807071301:0003/pct:2.88370741628532,40.60046825506129,18.086729134887776,17.63301657255658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ juftly deftrve. 3
 July 8, 1S07.  
 Til : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807071401:0086/pct:76.17738684258751,45.130787179172295,17.573758475352758,10.082279258258627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807071401:0086/pct:76.16342982777574,45.12524557956778,17.576645902039818,10.08513425016372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ will be remembered. &#x27; .
 I tender, for your country, the thanks you-eo  
 jiBtl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807071701:0629/pct:48.513853904282115,74.26731078904992,21.46095717884131,12.785829307568438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807071701:0629/pct:48.501636867287836,74.25535340524875,21.46184840090657,12.787795846079536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ juflly deferve.
 July 8, 1806.  
 The latefl information, that can he relied on, date
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807071701:0090/pct:57.80903034789045,34.35067342147535,17.616580310880828,11.8250339799827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807071701:0090/pct:57.798334875115636,34.34642945391648,17.619488128276288,11.827691293962607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ I tender you, for your country, the
 thanks you so jultly deserve, =  
 o BH JFFFERSON. . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807072101:0537/pct:23.640625,61.5842763549732,17.0625,16.28945801072067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807072101:0537/pct:23.645833333333332,61.590894050691546,17.057291666666668,16.28945801072067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ so justly deserve.
   
 ,v T TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807080801:0259/pct:42.11026615969582,17.06700379266751,18.079847908745247,16.43489254108723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807080801:0259/pct:42.10226192739023,17.064846416382252,18.082747259709816,16.437028609952385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ matity pursued.&quot;
 Such then is the course which the President has  
 pointed out.— In tins we can see at present, nothin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807081001:0665/pct:28.395989974937343,44.32641236117817,21.55388471177945,5.472396587799775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807081001:0665/pct:28.388874968679527,44.31927904731252,21.554748183412677,5.475539105246218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ he country, its citizens and proparty from |
 riolend&#x27;y—towards- this, your services arc  
 icrept&lt;*l under his direction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807081201:0263/pct:6.601282534892493,5.266449837378033,35.967559411542815,89.3169877408056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807081201:0263/pct:6.600037714501226,5.265791119449656,35.967062668929536,89.30998540754638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ I tender for your country the thanks you
 so justly deserve.  
 TH: JEFFEUSOX
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807081501:0267/pct:78.71936158084742,12.83476503284487,17.461523845715373,16.157150075795858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807081501:0267/pct:78.70440729483283,12.833143867626626,17.4645390070922,16.15931960759547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ fojuftly deferve.
 JVaJhington, July  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807081801:0124/pct:39.096231247713135,57.190429205722744,17.709476765459204,9.114454859398124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807081801:0124/pct:39.089079934150355,57.18337649525219,17.712334613743064,9.117441525876599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ its citizens and property fYom Violence. To­
 wards this your ferviccs are accepted under his  
 direction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807082801:0138/pct:57.22384784198976,2.5015328019619867,36.35698610095099,92.75291232372777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807082801:0138/pct:57.21338453099287,2.501226091221187,36.35643322971902,92.7456269413111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ this offer of them will be rememb
 &quot;I tender you for your country, the  
 thanks you so qustly deserve.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_vanhalen_ver01:data:sn85034438:00175049216:1893050701:0050/pct:60.438770005394716,253.8197519929141,46.142780075525984,23.394596988485386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_vanhalen_ver01:data:sn85034438:00175049216:1893050701:0050/pct:20.146256668464904,84.60658399763803,15.380926691841994,7.798198996161795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

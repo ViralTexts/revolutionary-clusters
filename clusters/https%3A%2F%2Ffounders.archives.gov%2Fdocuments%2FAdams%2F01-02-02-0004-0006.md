@@ -505,7 +505,7 @@ fcur dUw, That a committee be appointed to
 &#x27; or infringed, and the means molt proper to be  
 * parfued lor obtaining a reiteration of th; nv 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774121601:0677/pct:1.5301724137931034,101.74474515730182,29.74137931034483,4.698447588954527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774121601:0677/pct:1.1859027893769836,78.85509458068637,23.066644396191748,3.637718706746637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ municated to the Congress the proceedings of
 thole committees atConcord.on tne 30th and jtft  
 days of Auguftlaft, which were read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774121601:0677/pct:60.60344827586207,35.23835691715895,27.564655172413794,7.391125154554197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774121601:0677/pct:46.979566839262844,27.313056748411825,21.357385446244642,5.7351740781488445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ are violated or infringed,and the means most
 proper to be pursued for obtaining 2 resto­  
 ration of them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774123001:0376/pct:10.584101888449714,40.28657616892911,27.316644707949056,6.681749622926094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774123001:0376/pct:10.584101888449714,40.28657616892911,27.316644707949056,6.6968325791855206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ proceedings of those committees at Concord
 on the goth and 3t days of August lafl,  
 which were read. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775010601:0380/pct:6.304050978607192,68.37132573485303,28.516158397815204,8.683263347330534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775010601:0380/pct:6.304050978607192,68.37132573485303,28.53133060233652,8.693261347730454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ MAGNIFICENT SCHEMES
 of the  
 MARYLAND STATE LOTTERIE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850122801:0672/pct:82.04627822693058,13.048209816084448,13.981042654028435,14.310588747415387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850122801:0672/pct:82.04627822693058,13.055464867413937,13.994981879007527,14.310588747415387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ a bitter cry have I heard within those walls,
 but never one which made me blubber like a  
 child till then. The mot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00205958162:1851010501:0004/pct:43.836440168370416,67.94927379145892,9.831629585087192,7.923260351181444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00205958162:1851010501:0004/pct:43.840198436560435,67.95198352482116,9.83538785327721,7.925970084543681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ Thus dowv chinn&#x27;d boys, as oft I have heard.
 By frequently shaving, obtain a long beard.&quot;  
 A Naral Aid.?A person on whom th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853052401:0518/pct:3.1179321486268177,64.93083807973963,19.176090468497577,9.977624084621644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853052401:0518/pct:3.121970920840065,64.93338079739625,19.184168012924072,9.977624084621644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ sylvnoiaiis, New Yorkers and Ne w Eng­
 landers. are no more. lam not a Virginian  
 hu{ av A.m ‘rifan.*9
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557505:1861051701:0597/pct:44.24480628860191,86.52799106519615,12.558487740969493,9.31174089068826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557505:1861051701:0597/pct:44.25416432715703,86.53497138070641,12.558487740969493,9.31523104844339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ more, I am not a Virginian but au Amer­
 ican.&quot; On the hundredth birthday of the  
 nation, new Dear at hand, may there be n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525371:1874060101:0011/pct:84.15809243834721,59.29003917843998,10.975012248897599,3.01555265344889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525371:1874060101:0011/pct:84.14435009797518,59.28300094966762,10.977302416721097,3.018162393162393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1461,7 +1461,7 @@ Pennsylvanians, New Yorkers, and New Eng­
 landers are no more! I am not a Virginian,  
 but an American.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102378:1879072801:0088/pct:228.1700835231587,101.66012677331723,49.20273348519362,6.9423483247811655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102378:1879072801:0088/pct:57.07502374169041,25.415031693329308,12.307692307692308,1.7355870811952914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1706,7 +1706,7 @@ resentation which it might have been well for
 his countrymen of the slave States to accent  
 be thrown out of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044917:1887092501:0642/pct:69.15306915306915,205.35055350553506,50.815850815850816,19.12669126691267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044917:1887092501:0642/pct:17.29834791059281,51.337638376383765,12.71137026239067,4.781672816728167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2039,7 +2039,7 @@ of its prospectus, &quot;a collection of authentic
 recoras, state papers, debates and letters,  
 and other notices of public affairs. th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897061901:0230/pct:42.82544378698225,20.405070267291265,13.498520710059172,1.6395701295122624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897061901:0230/pct:42.830066568047336,20.415403692477266,13.507766272189349,1.6395701295122624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

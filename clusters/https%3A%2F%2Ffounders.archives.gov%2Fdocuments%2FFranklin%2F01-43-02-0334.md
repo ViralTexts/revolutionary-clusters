@@ -118,7 +118,7 @@ fubjeds of either party, within&#x27;the jurisdic­
 tion of the other, and no person fliall be mo  
 lefted in that refpetf, for any raufe othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800120201:0002/pct:25.10248372317338,72.73592386994449,16.590306245478658,9.912767644726408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800120201:0002/pct:25.120569086086327,72.73988897700238,16.578249336870027,9.92862807295797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ nevertheless, to the laws,decrees, and usages, there
 established, and to which are submitted the sub­  
 jects and citizens of the most favoured nations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825062101:0054/pct:5.416534684827368,79.40440738534842,15.140956604371238,2.0726622989874928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825062101:0054/pct:5.415676959619953,79.39494997617913,15.14383742412246,2.0763855804351277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ of each other, of all occupations, who may be in
 the territories subject to the jurisdiction of the one  
 or the other, transient or dwelling therein, leavin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825062101:0054/pct:20.858409882800128,21.774865991661702,15.140956604371238,8.111971411554496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825062101:0054/pct:20.855106888361046,21.77227251071939,15.14383742412246,8.114975385104017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ hereafier to be published, by His Majesty the
 King of Prassia, to prevent the emigration of  
 his subjects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829042101:0061/pct:23.919129082426128,85.00587795233515,16.71850699844479,4.114566634605109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829042101:0061/pct:23.929497148781753,85.00944034768979,16.728875064800416,4.121691425314381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ lorce ot the laws already published, or hereafter to he
 published by Ins. Majesty the King of i russiato pre­  
 vent the emigration of his subjects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830090301:0228/pct:38.289331480623744,65.19412501423204,13.370387525088775,2.311283160651258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830090301:0228/pct:38.283420808891634,65.18670309653916,13.373469177729753,2.314814814814815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ nereafler 1o be rbudnd. y His Majesty
 e Emperor of Austria, to preyent the  
 emigration of his subjects.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1831051901:0075/pct:18.415694984268,89.34847579199044,15.843050157320008,3.3831440526001195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1831051901:0075/pct:18.42186439632303,89.34847579199044,15.85538898143007,3.391113767682805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ his subjects. . &#x27;
 ArticLe Xl. Ifeither party shall, hereafter,  
 grant to any other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833060401:0229/pct:34.28061300401726,60.21073213121877,14.78946585329564,6.941125353030632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833060401:0229/pct:34.28061300401726,60.214352958215656,14.809304171006298,6.9447461800275185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ This convention is concluded subject to the rati
 cation of the President of the United States of Ami  
 ira, by and with the advice and consent of theirS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846081701:0833/pct:40.44437288681372,62.41769163871288,13.009177266140718,7.752515840477078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846081701:0833/pct:40.44437288681372,62.41769163871288,13.025277733054258,7.764939744067586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ any manner from the force of the laws already published, or
 hereafter to be published, by his Majesty the King of Bava  
 ria, to prevent the emigration of his subjects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846120501:0283/pct:149.00173611111111,346.87186349949815,56.901041666666664,11.575777852124457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846120501:0283/pct:37.25851964401997,86.71796587487454,14.2283481658346,2.893944463031114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ laws already published, or hereafter lo be pub
 lished, by his Majesty the King of Bavaria,  
 to prevent the emigration ot his subjects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846121101:0471/pct:59.209823812066205,54.2049001986567,17.47197010144154,9.450383123640147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846121101:0471/pct:44.42515689678195,40.65840507047583,13.11256509547336,7.085422381988459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ already published, or hercafter to be published
 by his Mujesty the King of Bavaria, to prevent  
 the emigration of his subjects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153218:1846121601:0594/pct:82.21213371853075,19.766666666666666,12.133718530747007,4.877777777777778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153218:1846121601:0594/pct:82.21671940202687,19.774074074074075,12.133718530747007,4.881481481481481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ lislied, or hereafter to be published, bj bis
 Majesty the King of Bavaria, to prevent the  
 emigration of bis subjects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn82014375:00414187419:1846122501:0060/pct:56.45006708836496,16.920644048303622,12.823461759631972,3.9821736630247266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn82014375:00414187419:1846122501:0060/pct:56.439248754312,16.918211872933735,12.82579532387888,3.9851947678597095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ SEC 1220
 russia, or of her do  
 crer comin nor on their cargoe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884121001:0656/pct:55.067293659802175,213.29273897058823,50.46213718177396,49.885110294117645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884121001:0656/pct:18.35576455326739,71.09757965686275,16.82071239392465,16.628370098039216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

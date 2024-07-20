@@ -212,7 +212,7 @@ peace and friendfhip with all nations ; and
 believing that neither the honor nor the  
 interest of the United States, ablolutely 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:24.614905865878328,45.32,16.072817799906645,9.81/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:24.625278771847935,45.32333333333333,16.078004252891446,9.81/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ lieving that neither the honour nor the interest
 of the United States absolutely forbade the  
 repetition of advances for securing these de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032901:0002/pct:61.08786610878661,64.26040744021257,16.13203161320316,5.698258045467965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032901:0002/pct:61.08786610878661,64.26778860348391,16.137842863784286,5.701948627103632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ erthehirof nations, and that a
 or mn.i3er»_o* equal power, (hall be atwoiT  
 ted ano comiaiffioaed t« treat with the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799030501:0002/pct:63.127272727272725,5.025343953656771,34.78787878787879,87.95076031860971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799030501:0002/pct:63.13333333333333,5.02896451846488,34.78787878787879,87.95438088341781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ racter by die law of nations, and that a minif­
 ter or m nitters ot equal powers fh ill be ap­  
 pointed and commiflioncd to treat with them.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799031801:0186/pct:49.035651665692576,63.60834518729256,22.30664328852523,14.473684210526315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1799031801:0186/pct:49.02610050642774,63.60080597368733,22.30716790027269,14.474931847813204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,7 +714,7 @@ charaifu r bv the I,aw ef.-Nat.ioni&gt; -and tjritf
 a niiiuftir or mi«ifteis.of equal powers&#x27;fttall­  
 he appointed and commifTioiied to trei&#x27;.s wklv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799121101:0003/pct:7.845188284518828,46.37731281341864,16.39644351464435,14.023863046861491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799121101:0003/pct:7.845188284518828,46.38163582915442,16.402981171548117,14.032509078333046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -914,7 +914,7 @@ will doubtless come to your j
 i my  
 i are equally ele r, though the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042401:0003/pct:6.787512588116818,36.10603290676417,17.643504531722055,15.134499869417603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042401:0003/pct:6.787512588116818,36.110385653347265,17.6703591809332,15.138852616000696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ i..&#x27;\ fet ;p* i4. on. A.ueiicaii eoiwmeiie,
   
 to be ascertained by commissioners in u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809042501:0433/pct:22.4,11.17684078036501,34.981818181818184,86.21774701069856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809042501:0433/pct:22.39592801308853,11.17543418071986,34.98151851178574,86.21109153452471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1107,7 +1107,7 @@ dependence of the United States t&gt;nd the
 dignity of their government, to send ano­  
 ther minister to form a new treaty with tht
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809050201:0136/pct:78.19395512701651,35.00974658869396,19.32134248099388,61.74139051332034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809050201:0136/pct:78.1794586577679,35.00519750519751,19.323940180447412,61.73769923769924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1402,7 +1402,7 @@ friendship would bo more stronglj
 ; united, as each party would discover the  
 hand that had sought to disunite Ihem.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898030301:0434/pct:1.146788990825688,84.24895053841942,16.841415465268675,4.581127943055302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898030301:0434/pct:1.1713630406290956,84.24895053841942,16.833224115334207,4.599379448804527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

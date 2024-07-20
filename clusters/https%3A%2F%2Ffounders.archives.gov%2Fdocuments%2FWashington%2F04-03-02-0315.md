@@ -47,7 +47,7 @@ the old vulgar adage of carrying a horse to the
 water. They may pass a law to issue it, but twenty  
 laws will not make the people receive it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:53.085589372793,159.93500464252554,46.79670422061544,23.955431754874652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:17.695196457597667,53.31166821417518,15.598901406871812,7.98514391829155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -70,7 +70,7 @@ ilar to the old vuls ar adage of carrying a horse to the
 water. They may pass a law to issue it, but twenty laws  
 will not make the people receive it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0214/pct:57.014627659574465,24.707110544020416,45.7280585106383,9.546456327572207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0214/pct:19.00487588652482,8.235703514673471,15.242686170212766,3.182152109190736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ llar to the old vulsar adage of carrying a horse to the
 water.  They may pass a law to lssue it, bnt twenty laws  
 will not make the people receive it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0216/pct:56.66499414617829,24.754306856283964,45.960863020572,9.654295294253671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0216/pct:18.88833138205943,8.251435618761322,15.320287673524001,3.21809843141789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ a horse to the water. They may pass a law to issue
 i ou twenty laws wil not maks th people re  
 ceive it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878101701:0391/pct:169.61165048543688,98.88332691567193,48.640776699029125,14.478244127839815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878101701:0391/pct:42.43381102744717,24.720831728917982,12.169055137235851,3.619561031959954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ George Mason put it, &quot;upon the old thread­
 &quot;bare security of pledging solemnly the public  
 &quot;credit?&quot;-are as pertinent to-day as they were
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878101701:0350/pct:52.88130027910031,156.06165171382563,48.005253652930556,5.831608005521049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878101701:0350/pct:17.627100093033437,52.02055057127521,16.001751217643516,1.943869335173683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ ing solemnly the public credit. I believe such ano
 ment would prove similar to the old vulgar adage of  
 ving a horse to the water. They may pass a law t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878101701:0354/pct:3.674280039721946,260.9050189502699,47.63323402846739,8.177328586195015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878101701:0354/pct:1.2247600132406489,86.96833965008996,15.877744676155798,2.7257761953983386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ gar adage of carrsiog a horse to the water, re
 ,y may pass a law to issue it, but twouty (K  
 s will oot make the people reoeivo it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663808:1878101701:0272/pct:51.27497371188223,90.90671316477768,16.009463722397477,5.3007846556233655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663808:1878101701:0272/pct:51.28373641780582,90.90671316477768,16.009463722397477,5.303690787561755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ ar yiug a horse to the water. They may pass a
 iw to issue it, but twenty laws will not make the  
 eople receive it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878103101:0567/pct:17.3943661971831,64.79611905074078,10.56338028169014,3.1991608758358465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878103101:0567/pct:17.391304347826086,64.78762454116413,10.565921492694947,3.202018877818563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

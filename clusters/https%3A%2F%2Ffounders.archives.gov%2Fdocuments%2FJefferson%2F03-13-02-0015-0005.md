@@ -204,7 +204,7 @@ dence to those who had wavered. Hr
 country, and thecauAe which he hdti es­  
 poused.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822030601:0294/pct:24.17680744452398,4.138094112083235,36.52469577666428,90.24592102151809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822030601:0294/pct:24.182772607969458,4.138094112083235,36.52469577666428,90.25774414755261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ ry tiling but bis country, and the cause
 whit h he had espoused.”  
 “ In journeying to the southward, I fel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822032601:0223/pct:43.02325581395349,21.54732510288066,17.062689585439838,34.452674897119344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822032601:0223/pct:43.012383118524134,21.543778801843317,17.06469547637099,34.45111915734036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ Unitarian churches in America.” ‘This account was compile
 &quot;To Dr. Dio Lewis, more than to any oth-­  
 er man, is the country indebted for the pres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1864061601:0585/pct:261.7526243724327,253.3883539660706,30.431309904153355,2.393397524071527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1864061601:0585/pct:87.2508747908109,84.46278465535687,10.143769968051119,0.797799174690509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ He has done a noble work.&quot;--Mass. Teacher.
   
 We look upon Dr. Lewis as one of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1864063001:0593/pct:230.67470956210903,192.92667099286177,29.57998212689902,6.137016779456753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1864063001:0593/pct:76.89156985403635,64.30889033095393,9.859994042299672,2.0456722598189176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ He has done a noble work.&quot;Hass. Thacher.
   
 We look upon Dr. Lewis as one of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1864070701:0597/pct:235.2257024412713,238.32099690808582,30.573468447719943,6.193197788812892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1864070701:0597/pct:78.40856748042377,79.44033230269527,10.191156149239982,2.0643992629376307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -685,7 +685,7 @@ He has done a noble work.&quot;Hass. Thacher.
   
 We look upon Dr. Lewis as one of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1864071401:0601/pct:235.415479311524,238.33209371513573,30.263307876439075,6.30345853477129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1864071401:0601/pct:78.47182643717467,79.44403123837859,10.087769292146358,2.1011528449237633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ We look upon Dr. Lewis as one of th
 To Dr. Dio Lewis, more than to any oth-­  
 er man is the country indebted for the prer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1864072101:0606/pct:38.617793917385384,46.462087087087085,29.90240581025874,3.3220720720720722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1864072101:0606/pct:12.872597972461795,15.487362362362362,9.96746860341958,1.1073573573573574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ Te cher.
   
 &quot;We look upon Dr. Lewis as ons of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1864121501:0691/pct:12.706930014841877,277.0538767211903,30.87110400730677,6.154699196007763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1864121501:0691/pct:4.235643338280625,92.35129224039676,10.29036800243559,2.0515663986692543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ Te cher.
 &quot;To Dr. Dio Lewis, more than to any oth­  
 er man, is the country indebted for the pres-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1865011201:0707/pct:16.121048486893915,264.6606795667068,30.50961862976713,2.259050087954819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1865011201:0707/pct:5.373682828964638,88.22022652223559,10.169872876589043,0.7530166959849397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

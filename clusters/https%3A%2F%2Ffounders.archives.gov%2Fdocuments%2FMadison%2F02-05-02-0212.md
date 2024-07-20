@@ -34,7 +34,7 @@ ExtraS of an aft for feenring the city and pott
 of Philadelphia from the introduction of pesti­  
 lential and contagious diseases
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092701:0001/pct:75.78698224852072,52.54137115839244,16.307692307692307,1.5957446808510638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092701:0001/pct:75.78698224852072,52.545065011820334,16.325443786982248,1.6068262411347518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -51,7 +51,7 @@ Sxtrall of an aft for fearing the city and port
 of Philadelphia from the introduction of pesti­  
 lential and contagious difeafej
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797102001:0001/pct:76.30522088353413,53.32257591315828,16.46586345381526,1.5696053982690332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797102001:0001/pct:76.31112686038271,53.32991051782309,16.46586345381526,1.5769400029338418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -69,7 +69,7 @@ otherwise securing the cj*y and port of Phi­
 ladelphia from the intron»£tion of pestilen­  
 tial and contagious diseases, and for regulat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011801:0002/pct:57.026901669758814,78.529367356183,16.2569573283859,2.5215159293371583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011801:0002/pct:57.026901669758814,78.53691680507323,16.274350649350648,2.517741204892043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ to secure the city of Philadelphia
 from the introduction of pestilential  
 and contagiot s diseases and for othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776555:1871062201:0320/pct:81.53225806451613,44.94773519163763,49.516129032258064,8.710801393728223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776555:1871062201:0320/pct:20.387174833635815,11.236933797909408,12.381528533978624,2.177700348432056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

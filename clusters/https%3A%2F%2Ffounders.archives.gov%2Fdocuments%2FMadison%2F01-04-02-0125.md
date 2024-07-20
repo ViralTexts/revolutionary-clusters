@@ -58,7 +58,7 @@ this State at Congress, ds am infirulion to the
 JO BINRAIRS. i oo s  
 ~ 7ef. FOHN BECKLEY. C.H.D
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782062901:0172/pct:10.526315789473685,62.89676425269646,27.93396534815299,23.677452491011813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782062901:0172/pct:10.526315789473685,62.89676425269646,27.93396534815299,23.684300633453176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ and effect until peace shall be obtained
 in a manner consistent with our nation­  
 al faith and federal union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805091301:0003/pct:3.0368296360111997,66.11073137388927,18.00559982769761,13.233082706766917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805091301:0003/pct:3.051188168569172,66.11528822055138,18.00559982769761,13.237639553429027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ to the Delegates of this S ate in Congress as an in­
 struction to the said Delegates.  
  REOLUTIORs OF IEqUIRY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184753:1864121601:0603/pct:157.13153724247226,255.86579070858753,42.75752773375594,31.01830126701079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184753:1864121601:0603/pct:52.36887973379813,85.27859237536657,14.250250884698675,10.33822091886608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ tion nor suffer any negotiation incon­
 sistent with their confederate faith  
 and union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86053370:00296027911:1865010401:0242/pct:81.71396354068784,69.75537435137139,12.159368539748167,10.274277242401778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86053370:00296027911:1865010401:0242/pct:81.71396354068784,69.76525821596245,12.165633026373488,10.274277242401778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ Such resolutions as the above, clearly indi­
 cate that Virginia is all right, and every other  
 State in the Confederacy should imitate an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667127:1865020101:0055/pct:200.56294779938588,77.63760396224652,57.47185261003071,31.249415942435288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667127:1865020101:0055/pct:50.15998976065532,19.40940099056163,14.373480097273774,7.812353985608822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

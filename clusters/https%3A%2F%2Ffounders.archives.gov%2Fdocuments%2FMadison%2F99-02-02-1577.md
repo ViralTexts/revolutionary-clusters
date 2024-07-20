@@ -356,7 +356,7 @@ supposition of wars wholly foreign, that of
 wars in which our own country might be a  
 l * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1828122701:0607/pct:3.8581856100104277,4.2851954969132064,38.095238095238095,91.1996126376952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1828122701:0607/pct:3.8575152041702867,4.284676833696442,38.094410657399365,91.19260873073509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ iafcren&amp;n will be Mrcr.frtbeocd by adding, to the sun*
 rmsitioo ot war* wholly fordgn, tftot uf war* in which  
 our own country might boa partv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1828123001:0132/pct:60.141065830721004,4.202848211184439,36.78683385579937,90.69121222646753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1828123001:0132/pct:60.13164080865068,4.202361657791156,36.78629263960717,90.68457204599831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1031,7 +1031,7 @@ ened by adding, to the supposition of wars wholly
 foreign, that of wars in which our own country  
 might be a party
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828123001:0306/pct:4.802995766851189,4.947634525099314,31.683490719635298,89.4667148188275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828123001:0306/pct:4.802213902002279,4.947038998555609,31.683759292419555,89.45995827315038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1154,7 +1154,7 @@ rigid to interfere. It follows, of&#x27;necessity, that the
 parent country whenever it ojieus a Colonial  
 port for h direct trade to a foteigu country c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1829010101:0161/pct:67.42071881606765,9.870995796492245,15.517970401691333,53.210610233367156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1829010101:0161/pct:67.40646797717184,9.869565217391305,15.51997463538364,53.20652173913044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,7 +1224,7 @@ ufac&#x27;ure thi in ,t home
 inking, for the sake of illustration, anemia1­  
 &quot;v &quot;* ,h* l*t‘&gt;&#x27;&#x27;»d. Hod the costs of an in,p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1829010101:0161/pct:67.31501057082453,66.0820408754892,15.3276955602537,27.42426438614292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1829010101:0161/pct:67.30078207567111,66.07246376811594,15.329740012682308,27.42391304347826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1639,7 +1639,7 @@ by adding, to the supposition of wars wholly loreigu,
 that of wars in wiiich onr own eountry might be &amp;  
 party
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1829010301:0728/pct:19.502005347593585,9.192166462668299,48.17847593582888,83.3047735618115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1829010301:0728/pct:19.502005347593585,9.196246430028559,48.189616755793224,83.30885352917177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1880,7 +1880,7 @@ be strengthened by adding to the supposi­
 tion of wars wholly foreign, that of wars in  
 which our own country might be a party
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1829010701:0206/pct:0.7004138809296402,10.912895055610615,30.43616682585164,88.58055280255479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1829010701:0206/pct:0.7003024033105204,10.9116934595904,30.436627937821633,88.57446964692065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1979,7 +1979,7 @@ sl ports to a foreign trade, the rule of ye,
 ciprocity in favor of the foreign party wap  
 In”ﬁud. nor, as is believed, @ right 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829010801:0210/pct:75.09807584532038,46.40484791982286,17.560246590696806,48.68896399021093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829010801:0210/pct:75.1043028831185,46.4126170221031,17.566473628494926,48.68896399021093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2078,7 +2078,7 @@ will he strengthened by adding, to the sup. &quot;&#x27;
 position of wars wholly foreign,that of wars  
 i which onr own country might be a party. |
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829010801:0211/pct:8.741594620557157,6.073727325921592,18.386167146974064,46.69397308367466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829010801:0211/pct:8.741594620557157,6.081529159352447,18.3989753442203,46.70177491710552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2304,7 +2304,7 @@ and sudden changes of employment, no pru­
 dent capitalists would engage in expensive  
 establishments of any suit, at the com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829011401:0739/pct:5.074859031693564,18.935574229691877,38.985028193661286,106.79271708683473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829011401:0739/pct:3.938115330520394,14.682152031549622,30.213984327908378,82.76710445385145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2332,7 +2332,7 @@ j occur at once, that the inferences will be
 of wars wholly foreign, that of wars in  
 j which our own country blight be a party
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829011401:0739/pct:44.02099941668287,19.089635854341736,19.346684814310713,10.11204481792717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829011401:0739/pct:34.12698412698413,14.801548536488296,14.998995378742213,7.829516263251203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2574,7 +2574,7 @@ adding to supposition of wars wholly
 foreign, that of wars in which our owe  
 country might be a party
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829011501:0016/pct:60.243237576011744,5.4512834667402705,35.43719857412455,92.4372067347502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829011501:0016/pct:60.23060796645702,5.450531254312129,35.435010482180296,92.42790120049676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3026,7 +3026,7 @@ strengthened by adaing, to the snpposition of
 wars wholly foreign, that of wars in which our  
 own country might be a party. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829012001:0009/pct:56.91227021371992,13.168929712460065,32.92482439097295,78.00519169329074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829012001:0009/pct:56.91227021371992,13.175585729499467,32.92482439097295,78.00186368477104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3245,7 +3245,7 @@ to the supposition of wars wholly foreign,
 that of wars in which our country might be. a  
 party
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1829012201:0530/pct:5.223585278986941,2.757201646090535,37.21804511278196,92.33196159122085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1829012201:0530/pct:5.222551928783383,2.7568234810039773,37.21562809099901,92.32272664929366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3943,7 +3943,7 @@ marine. France, at least, could not be, in
   
 NO. VI.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829021001:0197/pct:96.04948990666377,13.126391982182628,20.98979813327545,107.16870824053453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829021001:0197/pct:74.44207693170348,10.176561544823619,16.266681619378716,83.05944118810457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4010,7 +4010,7 @@ half imposed by a state of war.
 It cannot be said that the manufactories  
 which could not support themselves against
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829021001:0198/pct:13.249621130114743,10.811561978877155,20.69712058887205,36.81211784324625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829021001:0198/pct:10.279642058165548,8.379106085083468,16.040268456375838,28.544246993358463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4045,7 +4045,7 @@ be strengthened by adding to the supposi­
 tion of wars wholly foreign, that of wars  
 in which our own country might be a par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829021001:0198/pct:13.834163238796275,47.609783212896055,20.04762935700368,14.647026125625347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829021001:0198/pct:10.727069351230424,36.905402979716385,15.536912751677852,11.34805241428828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4484,7 +4484,7 @@ I en age of free trade has not yet arrived ” If by
 the system of “Let us alone,” Mr. Madison means  
 the &quot;Luiaaez nouafaire&quot; of the French merchants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829022101:0395/pct:64.09969643713053,67.05655372000483,15.30595941843745,2.906065356324611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829022101:0395/pct:64.08945686900958,67.0484687726067,15.308839190628328,2.9097339442167027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4531,7 +4531,7 @@ the general rnh-. now expressed hy the phrase
 terpositions of tho competent authority, arid which  
 or • not inronsistentwith the generality of the rule *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829031301:0424/pct:83.24049803407601,78.25249729209291,16.36631716906946,16.103020820796726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829031301:0424/pct:83.22686322686323,78.2430806257521,16.36909636909637,16.10509426393903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4555,7 +4555,7 @@ tion* controlling the free exerciso of it,&quot; men­
 tion* no less thin six or seven exception* to  
 tile “ let it* alone*&#x27; policy ; tour if lint fiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829110201:0502/pct:48.27089337175793,16.276397069386583,14.573898723754631,4.927452952162046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829110201:0502/pct:48.260959045071004,16.274059178397014,14.576044453591274,4.930336110313128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4700,7 +4700,7 @@ I ne nation ought to admit a doctrine or adopt an in
 ie rule, which would preclude the counteracting  
 micasures necessary to enforce the rule;&quot; and with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842072801:0414/pct:203.35749713849677,24.17452830188679,60.835558946966806,21.65389150943396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842072801:0414/pct:50.8296776654587,6.04274134119381,15.205988937631128,5.412675018422992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4724,7 +4724,7 @@ po nation ought to admit a doctrine or adopt an
 nvariable rule, which would preclude the counter  
 actang mensares necessary to enforce the rule,&quot; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842080301:0840/pct:51.85420977240172,128.22861117551588,39.26468247652395,11.836308833758405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842080301:0840/pct:17.281985996180776,42.73791584560102,13.086144706131975,3.9449789420810633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4748,7 +4748,7 @@ A tariff for the purpose of revenue, must
 be conceded on all hands, to be a necessary  
 means of carrying on the Goverment. A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1843091601:0008/pct:58.9417625837485,41.53321081648727,13.176430166638035,6.576529272775007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1843091601:0008/pct:58.93163861216077,41.52775954849718,13.178461009962213,6.578947368421052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4803,7 +4803,7 @@ ruinous affect is so obvious, that the warmest ad­
 vocate for the theory in question, must shrink  
 frem a universal application sf it.&quot; There is much,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393348008:1858101201:0241/pct:22.754021184778345,112.69864844794297,60.04315417810906,51.04708153869004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393348008:1858101201:0241/pct:5.687389684251814,28.17047817047817,15.007844675426554,12.75987525987526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5013,7 +5013,7 @@ try might be a party.
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1863-10_4_4/page/n69/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1863-10_4_4/page/n69/mode/1up?view=theater)
 
 #### 1863-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5065,7 +5065,7 @@ free .oni of commercial Intercourse. No nation
 can safely do so until at least a reciprocity be  
 insured to it. A nation leaving its former for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151398:1865092801:0192/pct:39.667764571101245,14.39535138690933,11.084061291708435,2.2694879947374194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151398:1865092801:0192/pct:39.667764571101245,14.399005956949164,11.09838178433338,2.276797134817089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5085,7 +5085,7 @@ FOREIGN INTERESTS.”
 Andrew Jackson, in his Presidential Message  
 of 1830, said, in favor of the constitutional righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151398:1865092801:0192/pct:39.667764571101245,16.76351277272229,11.09838178433338,2.83960092095165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151398:1865092801:0192/pct:39.667764571101245,16.76351277272229,11.09838178433338,2.84691006103132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5106,7 +5106,7 @@ reciprocity be insured to It. A nation leaving
 Its foreign trade to rcgnlate Itself in all cases,  
 might soon find U regulated by other nation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866012001:0002/pct:40.26883756152972,8.146326467875808,9.163195759182129,2.413157085766984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866012001:0002/pct:40.27357061719046,8.150169074700276,9.167928814842863,2.416999692591454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5142,7 +5142,7 @@ juite natuial and errors uf decision always
 possible Hut n denial of the authority In Con  
 guess to Impose a tariff for such purposes a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889062301:0529/pct:287.2163388804841,156.97587292072532,50.434947049924354,28.9075378390529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889062301:0529/pct:71.81766597314167,39.24396823018133,12.611121619065633,7.226884459763225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5165,7 +5165,7 @@ serviency to a foreign interest.
 congress&#x27; to impose a tariff for such  
 purposes (the encouragement of man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176606:1890012301:0140/pct:21.82586247359775,8.15450643776824,17.718845341469137,4.972620985644517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176606:1890012301:0140/pct:21.843463975592584,8.161906171377831,17.712978174137525,4.983720586058902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

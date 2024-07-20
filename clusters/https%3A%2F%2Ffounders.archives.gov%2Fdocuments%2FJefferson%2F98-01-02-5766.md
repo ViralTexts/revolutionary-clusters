@@ -143,7 +143,7 @@ ah ordinary corsi-.lenifinn* when the safety of that
 ^vn * nrorjjnt rtn question*  
 V - 1th thill h I exertionof a waning memory whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828102201:0344/pct:59.84908033328093,21.645944345766726,18.04747681182204,44.08525754884547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828102201:0344/pct:59.839673058786545,21.643381482358514,18.049879492821965,44.08398452916568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ were in negotiation with agents of the hritiidi
 ment, that the New England States should take no  
 i further part in the trar then going on.” It woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102301:0204/pct:66.27132412672624,42.3374425912497,15.69455727051178,2.8885665941503507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102301:0204/pct:66.26055880441845,42.33232628398792,15.697422568767598,2.892245720040282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ ty of abandoning it” (the Embargo) “ and instead
 we must fight it out or hieH)k the Union.”  
 I he Embargo was repealed without any reroiu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102301:0204/pct:66.28757108042242,47.08726130045927,15.645816409423233,2.9006526468455403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102301:0204/pct:66.27680311890838,47.081570996978854,15.648689625297813,2.904330312185297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ which I cm command, accept assurances of my i
 constant and aflectionafe friendship and respect j  
 THOMAS JEFFEKSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102301:0205/pct:0.7797270955165692,4.777455249153363,15.708252111760883,45.803096274794385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102301:0205/pct:0.779600454766932,4.776877494255654,15.711114720372477,45.80158826137784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ unquestionable certainty, tnat certain citizens of
 • an agreement, thut the New England States should »•;  
 &#x27;■frt/,-, n&gt; further purl it: the rear then going on,” &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828102501:0348/pct:78.12893081761007,6.459828664042602,20.660377358490567,5.776800185228062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828102501:0348/pct:78.11664832573494,6.459080912142609,20.66236964837814,5.7799899679746884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ interml.—“ That In*, Mr. Admits, assured Mr Jet­
 lerson, th it lie h.itl information of tU,■ motin­  
 yu* ttionab e certainly, that certain cHixcns oj th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102501:0208/pct:52.50530439040313,56.767189384800965,15.586747184592786,26.05548854041013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102501:0208/pct:52.496736292428196,56.76034254010373,15.58964316797215,26.056366341012343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ formally declaring their separation from the Union
 ol the States, they should withdraw from all aid  
 and obedience to them,” fee. itc. — Mere Mr. Jef-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102501:0208/pct:52.50530439040313,84.22195416164053,15.439856373429084,2.3522316043425815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102501:0208/pct:52.496736292428196,84.21179592329031,15.442776327241079,2.355968319060829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ the previous communications which had past be­
 tween him and yourself were probably and natu­  
 rally the preliminary.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102501:0208/pct:68.30422719112127,68.91435464414958,15.12975354986127,2.870928829915561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102501:0208/pct:68.29308093994779,68.90604269690026,15.13272410791993,2.8746029831544244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ interest of our country not to override nil otliei
 Considerations with him, and make it his dm\
 C^itvCul i« to myself particaJarfy, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1828102701:0089/pct:8.001667013961242,76.74519439225321,14.794748906022088,17.762682468564822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1828102701:0089/pct:8.0,76.73410404624278,14.796875,17.76372832369942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ Jl“*u£e1 &#x27;? %,r- Adams, by repeating this proof of
 over all ordinary considerations when the safety oV  
 that w as rnuglit into question.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102801:0214/pct:83.36572724327826,39.21521425132403,15.451895043731778,2.97303803562831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102801:0214/pct:83.35222672064778,39.21049464436154,15.454790823211876,2.976691940466161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ overrule all otner considerations with him, and
 make it his duty to reveal it to myhelt particular­  
 ly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102801:0215/pct:1.0560519902518277,67.07317073170732,15.36961819658814,7.208403767205989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102801:0215/pct:1.0558804418453542,67.06507304116866,15.372536278969028,7.211557809167371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -935,7 +935,7 @@ With this best exertion o w wanting memory which T ean
 command, aceept assurances of my constant and alle tionate  
 fiicnd&lt;hip snd respeet, THOMAS JEK FEKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1828102901:0653/pct:20.620842572062084,22.71508652205703,14.992324748422309,24.494272483548624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1828102901:0653/pct:20.626527943601115,22.723210658867494,14.992324748422309,24.486148346738158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,7 +956,7 @@ Vi Aduwins, nmong other things, told him that “he hind infor­
 antion of the most unguastionatile certminty. that certain citi­  
 s of the Eastern States, (1 think he named Massachasett
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1828102901:0653/pct:20.723179259764624,52.82719961004143,14.872931946102678,3.5949305386302703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1828102901:0653/pct:20.734550002842685,52.831261678446666,14.878617317641709,3.607116743845966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1137,7 +1137,7 @@ assurances of my constant and affection&#x27;
 ate friendship and respect.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828103001:0614/pct:56.26477541371158,9.423425938852436,37.48119492800344,85.57866815580064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828103001:0614/pct:56.25268586162441,9.422110552763819,37.47851310700473,85.57021217197097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1326,7 +1326,7 @@ on the subject of the embargo. Not the
   
 slightest trace of it remni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1828110401:0142/pct:85.96625766871166,10.79486801356732,40.1840490797546,110.79486801356732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1828110401:0142/pct:66.63805058442846,8.369842660672788,31.1364987122763,85.86993790239629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1363,7 +1363,7 @@ tempted to rid themselves of
 had information of the most u»  
 certainty that certain citizens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1828110401:0142/pct:110.96625766871166,21.19156466597847,15.593047034764826,17.12136852971538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1828110401:0142/pct:86.0133394967972,16.431102137224276,12.078187941623192,13.269076917215894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1426,7 +1426,7 @@ occasions I have had of doing]
 Adams, by repeating this proof  
 to his country, and of his su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1828110401:0142/pct:110.88957055214723,41.95546379590031,16.05316973415133,36.39581182716414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1828110401:0142/pct:85.95390609522552,32.5231437388091,12.447995773624777,28.2029791611109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1443,7 +1443,7 @@ ed for? •* 1 saw the necessity of abandoning it,
 and instead of effecting our purpose by this peace­  
 ful weapon, we must light it out.” If the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828110401:0223/pct:16.974049290027747,12.197483059051306,15.407213970948261,1.4399806389157792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828110401:0223/pct:16.971279373368148,12.19600725952813,15.410139251523063,1.4438394837668884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1512,7 +1512,7 @@ formally declaring their separation from the
 Union of the States, they should withdraw  
 from all aid nnd obedience to them;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828110501:0700/pct:105.63629222309505,91.93136698808848,19.2458758837392,32.55813953488372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828110501:0700/pct:81.87813911014155,71.25064107260606,14.910456090507838,25.23628104623049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1560,7 +1560,7 @@ The letter concludes with some remarks high­
 ly complimentary io the President. When this  
 letter appeared in the papers, an explanatory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828110501:0701/pct:6.28526950768632,5.708215297450425,19.050398910293833,25.509915014164307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828110501:0701/pct:4.871060171919771,4.423872077280545,14.774041119991956,19.777525705294742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1902,7 +1902,7 @@ proof o; Loﬁeh;g to his country, and «f lus su­
 periority over all ordinagjiéonsiderations whep  
 the safefy of that was brought into question
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828111101:0590/pct:4.190207156308851,43.49226804123711,18.141870684243564,51.82560137457045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828111101:0590/pct:4.200669596149822,43.495847651775485,18.141870684243564,51.832760595647194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1923,7 +1923,7 @@ which T can command, accept assurances of my
 ~ constant and affectionate friendship and respect.  
 ;’ TIHHOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828111101:0590/pct:21.767106089139986,8.6340206185567,53.4526051475204,5.315721649484536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828111101:0590/pct:21.77233730906047,8.641179839633448,53.45783636744089,5.312142038946162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1942,7 +1942,7 @@ letter itseif. It says *Mr. Adams called cn me
 peading the embargo, and while endeavors were  
 making to obtain itsrepeal.” He afterwards says
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828111101:0590/pct:22.70872567482737,23.87242268041237,16.823603264281232,2.652491408934708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828111101:0590/pct:22.713956894747856,23.879581901489118,16.828834484201717,2.652491408934708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1965,7 +1965,7 @@ ject of which was an agreemnent, that the Now-
 England States should teke no further part in the  
 war then going on,” . ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828111101:0590/pct:22.630257376020086,26.449742268041238,16.8706842435656,4.69286941580756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828111101:0590/pct:22.640719815861058,26.449742268041238,16.875915463486084,4.700028636884307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2034,7 +2034,7 @@ pon, we must fight it out or break the Union.*’
 lue embargo was repealed without any re­  
 commendation from Mr. Jellerson, and the wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828112001:0626/pct:1.5869565217391304,70.37140854940435,17.652173913043477,3.93833216538192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828112001:0626/pct:1.5866116061725712,70.36154708520179,17.653770919365357,3.9412836322869955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2094,7 +2094,7 @@ of restrictions,’ as it wa* call&#x27; d] then going »&gt;n,
 and that, without formally declaring their «e  
 para-ion from the Union, they should withdia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830021901:0480/pct:23.007438894792774,42.47616749125136,18.508678710591568,10.208760709545071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830021901:0480/pct:23.00336461838144,42.47104247104247,18.51130393719379,10.211550836550837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2132,7 +2132,7 @@ I s»w the ne-&#x27;-Mitv of abandoning It. [the embtrgo] 1
 ansi, instead of effecting our purpose by this peaceful  
 weapon, we must tight it out, or br-ak the Union.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830022301:0309/pct:64.1108817457977,44.22522210684205,15.452668829253907,1.8230068074304835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830022301:0309/pct:64.10143004570249,44.2201199815413,15.45530492898914,1.826642055068451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2215,7 +2215,7 @@ Government, the object of which was on
 agreement that the New England States should take  
 no further part in the war, [tho commercial war, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0196/pct:5.577816957845808,35.02791305380686,18.159961532296844,7.530585580235182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0196/pct:5.576923076923077,35.02375296912114,18.162393162393162,7.533650039588282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2237,7 +2237,7 @@ says Mr. J., I saw the necessity of abandoning it,
 by the peaceful weapon, we must fight it out, or  
 break the Union.” In another letter, Mr Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0196/pct:6.186888924507133,42.57037652927901,17.5669177752845,4.240408599596152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0196/pct:6.185897435897436,42.565320665083135,17.569444444444443,4.243863816310372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2271,7 +2271,7 @@ r|h.y8 Mr. J., I saw the necessity of abandoning it,
 by the peaceful weapon, we must fight it out, or  
 brea.i the Union.” In another letter, Mr Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830022601:0080/pct:4.909148868345553,33.55481727574751,18.520879821485497,10.702420503084955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830022601:0080/pct:4.908366533864542,33.550836398149244,18.52324037184595,10.705105390121407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2345,7 +2345,7 @@ agreement that the New England States
 should take no further part in the war,  
 [the commercial war, the “ war of res
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830030901:0330/pct:51.11010421386497,104.83354227608302,21.22791119166289,15.628917676556624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830030901:0330/pct:39.62308322603301,81.2450521770421,16.452066018962892,12.12306585102555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2370,7 +2370,7 @@ effecting our purpose by this peaceful wea­
 pon, we must fight it out, or break the  
 Union.” In another letter, Mr. Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830030901:0330/pct:51.2686905301314,11.18540186655523,43.271409152695966,110.83716395041093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830030901:0330/pct:39.73428537984314,8.668585822238215,33.54208123609973,85.90500179920835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2399,7 +2399,7 @@ deavors were making to obtain its re­
 peal; he spoke of the dissatisfaction of  
 the Eastern portion of our Confederac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830041401:0017/pct:42.72013949433304,49.69923806977677,17.850915431560594,3.3551664216013903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830041401:0017/pct:42.71083024624101,49.69259556268378,17.854289242391225,3.359173126614987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2432,7 +2432,7 @@ mally declaring their separation from
 the Union, they should withdraw from  
 all aid and obedience to them, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830041401:0017/pct:60.876198779424584,3.5824087688811654,17.82911944202267,12.11068039032215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830041401:0017/pct:60.86293310089344,3.581929965249933,17.832498002469674,12.113516884968368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2451,7 +2451,7 @@ bargo] and, instead of effecting our pur­
 pose by this peaceful weapon, we must  
 fight it out, or break the Union.” I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830041401:0017/pct:61.02877070619006,15.746557946798557,17.37140366172624,3.502205587488304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830041401:0017/pct:61.0154717803443,15.74445335471799,17.37488196411709,3.5061926401140515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2499,7 +2499,7 @@ information of the most unquestionable&#x27; cer
 tainly, Uiat certain citizens of the Eastern  
 Stales were in negotiation with Me agent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840082201:0129/pct:32.20858895705521,8.605851979345955,47.370727432077125,119.46487247692068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840082201:0129/pct:24.183293137469853,6.4622124863088715,35.54045165533874,89.5947426067908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2536,7 +2536,7 @@ we had subsequent and satisfactory
 assurance would have effected its  
 object completely) from that m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1861091901:0191/pct:222.44897959183675,138.5368583018604,48.9010989010989,63.56133724996503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1861091901:0191/pct:55.64500294521893,34.6342145754651,12.232475947378756,15.890334312491257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2555,7 +2555,7 @@ the necessity of abandoning it.&quot;
 Who will say that Jefferson was  
 a coward? Who will say that h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1861091901:0191/pct:223.15541601255887,211.33025597985733,48.11616954474097,11.74989509022241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1861091901:0191/pct:55.82171608089535,52.83256399496433,12.036128018849402,2.9374737725556024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2665,7 +2665,7 @@ mformdtio&#x27;-, I Raw the m-c.essiry of abaon&#x27;oai.-g it, and
 instead of effbeiicg our purpose by this peaceful we ipon,  
 we must Ght it out or break the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1862092501:0602/pct:84.44811800610377,26.67179832579621,19.290437436419126,25.623015491195996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1862092501:0602/pct:63.347322904743734,20.003848744347156,14.472847513671626,19.224478014047918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

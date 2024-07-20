@@ -271,7 +271,7 @@ Your obedient servant,
   
 L - , A. 51. CLAIR.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011801:0061/pct:22.667287688247168,13.64469663902226,22.667287688247168,78.41117415975556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011801:0061/pct:22.66376901583359,13.643505586592179,22.668943392321225,78.40723929236499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ fs-flioii of self-government, to another
 where they will be a* daft for a time de­  
 prived of that privilege, was ld:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803011901:0003/pct:5.36794846769471,37.55246589716684,17.372633222721063,46.90451206715635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803011901:0003/pct:5.380961676101243,37.55246589716684,17.366126618517796,46.90888422525359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ and never faiU of producing that effect.
 Wi&quot; due refpect, I am, Sir,  
 Your obedient fervant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803011901:0003/pct:23.209057193050946,3.4496327387198322,16.630880343548704,10.191500524658972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803011901:0003/pct:23.209057193050946,3.4496327387198322,16.630880343548704,10.204616998950682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ ton many of fur ions arc become, there are
 ftill a vait proportion of them who will be at  
 no lofs for the proper term ”—Ventured
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1803013101:0143/pct:59.198072620891416,33.1869309051955,18.138014111168474,16.229244777718264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1803013101:0143/pct:59.18788713007571,33.18337617823479,18.139194769442533,16.230184233076265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ lads of producing that effect.
 Tori obedient smant .  
 A. St. CLAIR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803020401:0025/pct:28.618968386023294,4.199428162973552,42.20743205768164,94.51393852751966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803020401:0025/pct:28.61103410036041,4.1986778631409685,42.20266149154422,94.50151867071645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ six weeks sooner than I had determined to rid myself of
 it.&quot;  
 After denying that there was any indecorum i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854072201:0242/pct:3.28863796753705,52.11143046650453,15.61044460127029,4.598717665266416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854072201:0242/pct:3.2980475182310043,52.11880020635272,15.605739825923312,4.595032795342324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,7 +693,7 @@ indecorous; and that, had it happened in Germany where
 such things have happened, no man in America would  
 have hesitated to call it by a harsher name.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854072201:0242/pct:3.006351446718419,57.05284103471148,15.89273112208892,5.81472474021667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854072201:0242/pct:3.0110562220653962,57.06021077455966,15.89273112208892,5.8110398702925785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ trem a country where they were in pessossion of solf
 so erument to another where they will be at leaat for a  
 timedep rived of that privtlege, was something mnore tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854080301:0286/pct:139.7258011232243,124.75191057374245,55.84737363726462,27.363978555948442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854080301:0286/pct:46.575267041074774,41.58397019124748,18.615791212421538,9.121326185316148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ Hon. John Smith and Hon. Thomas
 were the &#x27; first Senators  
 Worthingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1854081001:0360/pct:9.179834462001505,63.80148741418764,16.440933032355154,13.343821510297483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1854081001:0360/pct:6.886171213546566,47.85469107551487,12.342427093132644,10.011441647597254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ te has thereby discharged me from an office I : p
 vns heartily tired of about six weeks sooner  
 ban I had determined to rid myself of it.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1854081801:0314/pct:76.2699564586357,107.75204947504675,17.0899854862119,3.6387171005321446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1854081801:0314/pct:57.223230490018146,80.81403710628506,12.831215970961887,2.732633395656551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -209,7 +209,7 @@ dian angel of America was still watchful; and we
 are happy in alluring our countrymen that the  
 health of their dearelt friend has not been at al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791040901:0003/pct:5.439056356487549,40.26548672566372,28.636959370904325,7.656791073489804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791040901:0003/pct:5.455439056356488,40.26548672566372,28.636959370904325,7.67602924201616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ in the evening his presence enlivened a ball, at
 which was exhibited every thing which this little  
 city contains of beauty and elegance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791040901:0003/pct:5.373525557011796,58.25317429780685,28.60419397116645,3.9438245479030396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791040901:0003/pct:5.381716906946265,58.25798383993844,28.59600262123198,3.958253174297807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ titude to the defender of liberty, the guardian
 of his country, and consequently the great pat­  
 lou of literature. But as this feniinary was be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791041601:0004/pct:7.198192382182053,65.32165968785687,28.340865074241446,11.343738104301485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791041601:0004/pct:7.206262104583602,65.32641796726304,28.365074241446095,11.353254663113818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ life, long, indeed, already, if measured by deeds
 of worth and fulnefs of kouours, but coo (hort as  
 yet for your country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791041601:0004/pct:6.810845706907682,6.414160639512752,59.78050355067786,85.6680624286258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791041601:0004/pct:6.826985151710781,6.428435477731252,59.772433828276306,85.6680624286258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ the city ; and although they made sig­
 nals of distress, it was impossible before  
 day-light, to go to her relief. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791042301:0788/pct:7.401157184185149,38.997259390617444,20.564127290260366,6.722553603095276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791042301:0788/pct:7.401157184185149,38.997259390617444,20.580199292831885,6.727927346982643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ hand; a light baggage-wagon and two,
 horses; four saddle-horses besides a led  
 one for myself; and five--to wit, my vate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742137:1877110201:0440/pct:7.152370804475226,218.32879200726612,41.94192860948322,16.830154405086287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742137:1877110201:0440/pct:2.384123601491742,72.77626400242204,13.98064286982774,5.610051468362095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ and four horses drove in hand, a light
 baggage wagon and two horses, four saddle  
 horses, besides one led for myself and five
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1883022201:0149/pct:43.6745406824147,77.47353048557868,14.724409448818898,3.8700255567725446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1883022201:0149/pct:43.6832895888014,77.47961543142266,14.724409448818898,3.8730680296945357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ horses, beside a led one for myself &quot;and
 five persons my valet de chambre, two  
 footmen, a coachman and a postillion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289432:1887102701:0701/pct:58.70429252782194,23.49034749034749,16.375198728139903,5.281853281853282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289432:1887102701:0701/pct:44.05566600397614,17.62162162162162,12.286282306163022,3.969111969111969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ a light baggage wagoo and two horses,
 four saddle horses, besides a led one  
 for myself, aod five, to wit : my vale
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551372:1891022501:0180/pct:61.826967326277035,37.22699386503067,11.98803497468937,3.950920245398773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551372:1891022501:0180/pct:61.83463721429667,37.22972051806408,11.98803497468937,3.956373551465576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ a light baggage wagon and two horses,
 four saddle horses, besides a led ono  
 for myself, and five, to wit : my vale
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551372:1891022501:0181/pct:61.35785334258617,34.17793248603578,12.167476289613694,7.148061199708573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551372:1891022501:0181/pct:61.35785334258617,34.183329285733556,12.171331636980492,7.148061199708573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -713,7 +713,7 @@ on their own interests and those of the public.
 We have no record of the arguments he used  
 on this occasion, but, as was his wont in such
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896112901:0397/pct:182.5478645066274,115.58796718322698,48.379970544919,23.275600121543604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896112901:0397/pct:45.63696612665685,28.896991795806745,12.09499263622975,5.818900030385901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

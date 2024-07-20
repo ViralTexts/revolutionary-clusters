@@ -89,7 +89,7 @@ Sir,
 Your very humble frrvaut,  
 TH. JLFFJtKSON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1801013001:0175/pct:40.33385093167702,41.64896441848115,18.012422360248447,38.462559745087624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1801013001:0175/pct:40.326023675528816,41.643435550245584,18.015395562455527,38.46187884419665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ i Accept aflurances of the refpeft of, Sir,
 &gt; Your very humble fervant, a  
 Th : JEFFEKSON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801020201:0002/pct:27.694235588972433,5.799728137743544,46.19047619047619,91.8290288476061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801020201:0002/pct:27.7109440267335,5.804762623974224,46.182121971595656,91.83406333383678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ short intervals.
 - fir, your very humble servant,  
 ; THOMAS FEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801021701:0448/pct:26.637486321713304,4.528487229862476,33.59387212755979,89.47937131630648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801021701:0448/pct:26.637486321713304,4.531761624099541,33.604293679328855,89.47937131630648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ ponerns to a government elective at ihort inter*
 very humble fervant.  
 THOMAS JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801022301:0547/pct:1.275009807767752,21.32843024592048,23.97018438603374,51.40197655711331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801022301:0547/pct:1.2747597568150617,21.325979547282547,23.970386350264757,51.398942893255196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ cannot long continue, therefore, the advo­
 cate oi opinions, which, »o say only the least  
 of them, doom the laboring citizen to toil Sc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810032001:0406/pct:39.68369387384112,54.06955460646736,17.79676422468642,12.312385600976205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810032001:0406/pct:39.67648127953471,54.06295754026355,17.79958802859566,12.314950382300308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ old Republican party act, even against the venerated
 Washington, in deference to whom they abated not a  
 particle of their rights. When that honored President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835031701:0431/pct:80.07236292791539,30.793720496212536,14.945727804063457,4.039960478647491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835031701:0431/pct:80.06122165020176,30.79034028540066,14.94828625759473,4.043175997072813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ leasl of them, doom the laboring citizen to toil and sweat
 f-.r useless nagnanls.&quot; Here, he said, was the “great  
 question of 1*00, lucidly stated by the master spirit o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835032001:0438/pct:35.4990323472491,83.51242809074134,15.23361902128836,8.943883642678824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835032001:0438/pct:35.49412577747063,83.50336444540916,15.236120709513937,8.946530641777006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

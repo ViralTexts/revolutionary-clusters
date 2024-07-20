@@ -34,7 +34,7 @@ lake Mistasin, thence farther south-west to the
 latitude 49degrees north from the equator, and  
 along that line indefinitely.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041901:0451/pct:5.508244247146222,3.7362637362637363,17.358217068309475,3.1257631257631258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041901:0451/pct:5.507246376811594,3.735807593700403,17.36111111111111,3.1294510234810566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -75,7 +75,7 @@ ministers who ncgociated the treaty, and of their
 respective governments, that the United States&#x27;  
 should possess all the territory lying between th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041901:0451/pct:4.384852328320348,25.750915750915752,18.644682007610076,13.699633699633699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041901:0451/pct:4.384057971014493,25.747771944817483,18.647342995169083,13.702030684084157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ er southwest to the latitude ol 411 degreeafnorth Ire
 quator, asd along that line isoxrisiran  
 During the negotiations,&quot; Mr. Ureenhow i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846012901:0116/pct:42.78892072588348,10.33668778730277,12.050302451448584,4.783202882345633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846012901:0116/pct:42.794226891648094,10.344970389696442,12.06091478297782,4.787344183542469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ thence farther southwest In the latitude of
 49 degrees north from tire equator, and along that  
 line indefinitely.&#x27; This statement waa made agreeabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846022401:0219/pct:40.472813238770684,20.754716981132077,15.066981875492514,9.146570036236412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846022401:0219/pct:40.48332019963225,20.763047190636843,15.056474914630943,9.146570036236412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ latitude; thence, aoutbwestwerdly to the Lake Mistaaln; mu
 thence, further southwest, to the latitude of AH deg. north  
 from the equator, and along that line Indefinitely.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040101:0358/pct:32.54975709136499,38.12203050762691,14.339445228020686,2.413103275818955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040101:0358/pct:32.55498093297811,38.130365924814534,14.349892911246931,2.4172709844127698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ e promontory in 58 degrees 30 minutes north latitude,
 nitely.&quot; This statement was made agreeably to the  
 t instructions of Mr. Madison, the Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040201:0371/pct:66.72424623115577,36.34110064452157,14.02324120603015,3.8423401090728806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846040201:0371/pct:66.72424623115577,36.34110064452157,14.03894472361809,3.8547347545860187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ the equator, and along that line indefinitely.”
 4 thence, further southwest, to the latitude ol 49 deg. norih  
 4 from the equator, and along that line indefinitely
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0340/pct:21.304945054945055,65.64085221508286,14.89010989010989,3.043625295908015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0340/pct:21.304945054945055,65.64460977717657,14.894688644688644,3.0473828580017286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ the equator, and along that line indefinitely.”
 &#x27; tlience, further southwest, to the latitude of 49? north from  
 4 the equator, and along that line indefinitel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0342/pct:52.46512912581135,2.7814864263462393,15.23270266537771,3.2599020916777928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846040401:0342/pct:52.46512912581135,2.7889037234831626,15.237306081112186,3.2599020916777928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ thence, further southwest, to the latitude of 49e
 north from the equator, and along that line inde­  
 finitely.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846040401:0612/pct:37.927565392354126,51.19120759096184,14.768611670020121,3.6111679978155506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846040401:0612/pct:37.923750125741876,51.18771331058021,14.770479160379573,3.613196814562002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ a cape or promontory in 58 30&#x27; north latitude;
 &quot;north from the equator, and along that line in­  
 &quot;definitely.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1846040901:0637/pct:71.5926493108729,219.57065718424866,57.19754977029096,25.339128144343473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1846040901:0637/pct:17.905017234775947,54.892664296062165,14.304864036767523,6.334782036085868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ further southwest, to the laljtue of 49 deg.
 north of the equator, and along that lino in  
 definitely.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846041101:0352/pct:45.42253521126761,50.04046710602382,19.859154929577464,12.78760550352642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846041101:0352/pct:34.080022541561,37.530350329517866,14.905607213299522,9.596485142791074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ ly, to the Lake Misrasin; thence, further South.
 west, to the latitude of 19 degrees North from the  
 Equator, and along that line indefinitely
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1846041701:0797/pct:182.9675153643547,37.94165078434247,59.1747146619842,13.663685676587011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1846041701:0797/pct:45.77201844937404,9.485412696085618,14.803426312321546,3.415921419146753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ thence further southwest to the latitude of 49 de­
 grees, north from the equator, and along that dine  
 indefinitely.” Here, then, it appears, for this i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1846042901:0520/pct:34.297887448961475,10.322164948453608,27.835966625244097,88.13144329896907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1846042901:0520/pct:34.291799787007456,10.320834943950523,27.835463258785943,88.12330885195207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ north from the equator ; and along that line indefinitely weat­
 ward. Since tint time, no attempt has been made to extend  
 the limits of Louisiana or Canada to the north of that line, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846052301:0368/pct:67.03739746976227,59.834507435983454,15.292645627693592,4.8865034104886504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846052301:0368/pct:67.04203160480097,59.8419620559842,15.297279762732286,4.882776100488278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ which settled the boundaries of the late Spanish province
 of Louisiana as we are with the treaties which settle  
  the boundaries of the United States. The line of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846060401:0764/pct:196.1378265808406,299.0228013029316,59.31465354032564,37.9774948178857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846060401:0764/pct:49.02517508991104,74.74463360473723,14.825856520916146,9.492968171724648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

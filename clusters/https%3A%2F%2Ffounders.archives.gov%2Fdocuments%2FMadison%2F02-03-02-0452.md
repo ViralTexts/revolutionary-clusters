@@ -76,7 +76,7 @@ the respective. pretentions which are
 the objeés of the said article. &quot;When  
 his ratification was laid before. th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802041301:0060/pct:59.56656346749226,24.91505096941835,16.439628482972136,3.4679192484509294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802041301:0060/pct:59.57688338493292,24.91505096941835,16.434468524251805,3.474581917516157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ retrenchment the two States renounce the respective
 pretensions which are the object of the said article.&quot;  
 Now, I do not understand it to be urged by honorabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050801:0448/pct:63.194216233979624,77.19387109028744,15.872494249096286,6.977333164492846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852050801:0448/pct:63.20517033629094,77.19387109028744,15.872494249096286,6.985775188890296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ trenchment, the two States renounce the respec­
 tive pretensions Gine., to mutual indemnities,)  
 which are the object of the said article.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855022401:0637/pct:23.993808049535605,313.86153167720124,57.7592879256966,9.36351609584007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855022401:0637/pct:5.997291545753531,78.4538506760729,14.437028438769588,2.340534979423868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

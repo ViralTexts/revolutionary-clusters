@@ -921,7 +921,7 @@ want and misery would be ban.shed out of the
 world, and the reft of the 24 hours nnght be lei­  
 sure and amusement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790072401:0003/pct:35.290575127973504,67.51429134634338,25.895814513700692,6.564163217031342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790072401:0003/pct:35.313158687142426,67.51921939680662,25.895814513700692,6.564163217031342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3130,7 +3130,7 @@ not on:y tiie girls were made happier i)y fine
 cajyS, but the Piiiiudcjpiiioiib by Uie buppiy of  
 wui m niiUcLS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811101201:0299/pct:47.75799538410814,54.254700523357236,21.33201450708869,15.390579569684048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811101201:0299/pct:47.750123619581345,54.24944277546274,21.333992637767157,15.392318377103724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3162,7 +3162,7 @@ luxury ; not only the girls were mdde happier by
 line raps, but the Philadelphians by the supply, of  
 warm mittens” , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811101601:0780/pct:28.085957021489257,3.767737726308922,21.464267866066965,12.232914695808187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811101601:0780/pct:28.078940794404197,3.767123287671233,21.465151136647513,12.234996738421396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3343,7 +3343,7 @@ in us.— I all but mysell’ were blind, |
 should want neither fine clothes, fine  
 house, nor fine furniture,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820071901:1147/pct:31.4318751204471,23.560269129889384,20.92888803237618,10.046755616375869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820071901:1147/pct:31.438298965760904,23.560269129889384,20.94173572300379,10.058159425248032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3706,7 +3706,7 @@ ruin us. 1C all but wyself were blind&#x27;,
 I should want neither fine clothes,  
 fine houses, nor fine furnituge.””
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021518:00340588034:1826041501:0043/pct:69.5,87.62455406569073,16.5,4.834542994218231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021518:00340588034:1826041501:0043/pct:69.50641025641026,87.62455406569073,16.5,4.8427440849633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4145,7 +4145,7 @@ made happy hy having fine rjp», but
 the Philadelphians by the supply of  
 warm mittens. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831051901:0286/pct:31.50121802679659,52.2322927156764,14.76857490864799,21.897728544254225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831051901:0286/pct:31.49642259095753,52.226448869993284,14.771401025016491,21.8990079809055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4515,7 +4515,7 @@ us. If all but myself were blind, I
 should want neither fine clothes, fine  
 houses, nor fine furniture.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835011701:0079/pct:80.55068836045056,89.7569153394803,15.143929912390488,3.336127409891031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835011701:0079/pct:80.53053053053053,89.74187060006705,15.146396396396396,3.3397586322494135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4593,7 +4593,7 @@ rnre all the oeceerarioe and comfort* of
 life.  
 Nothing appeari to me an abewed a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1836031001:0448/pct:80.68592057761732,86.73481107155162,12.530084235860409,6.3397266567129895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1836031001:0448/pct:80.6737855316589,86.72485071198898,12.533213014488394,6.342826519675394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4749,7 +4749,7 @@ misery would be. banished out of the world;
 and the rest of the twenty-four might bo lei­  
 sure and pleasure.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065543:0029587823A:1839053101:0580/pct:44.07696933253157,121.56862745098039,20.444978953698136,7.575757575757576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065543:0029587823A:1839053101:0580/pct:33.067669172932334,91.17647058823529,15.338345864661655,5.681818181818182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4771,7 +4771,7 @@ sufficient to procure all the necessaries and coin­
 nit of the world, and the rest of the twenty-four  
 ?,0l|rs might be leisure and pleasure?Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839072701:0430/pct:41.369728669499835,91.78368341650226,18.045112781954888,5.222235116629918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839072701:0430/pct:41.38062547673532,91.7914200611195,18.039664378337147,5.222235116629918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5213,7 +5213,7 @@ around the world and see the millions em­
 ployed in doing nothing, or something that  
 amounts to nothing, when the necessarie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151337:1847111701:0082/pct:43.729630154456565,32.5309114782799,12.767464928439846,4.978662873399715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151337:1847111701:0082/pct:43.73907703934628,32.534558850348326,12.767464928439846,4.978662873399715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5235,7 +5235,7 @@ ol life, want and misery’ would be banished
 out ol the world ; and the rest of the twenty­  
 four hours might be leisure and pleasure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151337:1847111701:0082/pct:43.67294884511832,38.01291169712222,12.781635255774408,4.497209760367655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151337:1847111701:0082/pct:43.67294884511832,38.01291169712222,12.786358698219262,4.497209760367655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5468,7 +5468,7 @@ were blind, I should want neither fine clothes, fine
 houses, nor fine furniture. Adieu, my dear friend.  
 1 am yours ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009597:00296026153:1848022601:0194/pct:5.144240468025015,5.816521867177146,30.13919709501715,90.8260933588573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009597:00296026153:1848022601:0194/pct:5.144240468025015,5.821430324449025,30.152646089704795,90.83100181612919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5526,7 +5526,7 @@ to secure all tho necessaries and comforts of &#x27; &#x27;i
 world, and the rest of the twcnlv  
 might bo leisure and pleasure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1848062401:0153/pct:37.66875205795193,88.60860329261816,15.59104379321699,5.762081784386617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1848062401:0153/pct:37.67423992975524,88.60860329261816,15.607507408626935,5.770932908479377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5581,7 +5581,7 @@ bons there; and you know that that industry hes
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-12-02_4_11/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1848-12-02_4_11/page/n2/mode/1up?view=theater)
 
 #### 1848-12-02 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5687,7 +5687,7 @@ but P.ul idulphiit by the supply ol warm nut
   
 tins.&quot; &#x27; &#x27;&#x27;&quot;-&#x27;;.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1849010201:0774/pct:56.08695652173913,65.0786308973173,22.753623188405797,25.639839654640763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1849010201:0774/pct:42.08746073930901,48.81282762873882,17.057260207779656,19.241443108233117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5707,7 +5707,7 @@ the world, and the remaining portion of tho
 twenty-four hours might be leisure and plea­  
 sure. * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014594:00415661046:1851071501:0420/pct:80.54045147470752,77.86828019548523,15.719228868017796,3.1184547358622297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014594:00415661046:1851071501:0420/pct:80.54594386774318,77.87603754557443,15.719228868017796,3.1184547358622297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5741,7 +5741,7 @@ chant, Washington, and other streets.
 which comprise the business portion of  
 he ae e teta e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1851080601:0341/pct:65.09505703422053,27.96427471512165,44.48669201520912,38.31228826609178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1851080601:0341/pct:16.279954355268163,6.991068678780413,11.125903385317612,9.578072066522944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5761,7 +5761,7 @@ ed from the world, and the remaining por
 tion of the twenty (our hours might be lei  
 sure and pleasure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1851080801:0318/pct:23.693877551020407,117.91309488619568,18.102040816326532,5.2172627845107895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1851080801:0318/pct:17.786399836634676,88.44221105527639,13.60016336532571,3.9166420336979013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5865,7 +5865,7 @@ finer goods than formerly, leaving the coarser
 and heavier fabries to the South, and West,  
 where they are constantly attracting increase
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1851122301:0104/pct:10.397412199630315,102.54581367277515,24.969192852741838,27.038296938439593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1851122301:0104/pct:6.932676012940995,68.3638757818501,16.65382837775381,18.029189070558544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5895,7 +5895,7 @@ A shilling spent idly by a fool may ba ofat
   
 to do withit. It is, therefore, not lost.-Frank­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1851122301:0078/pct:158.05785123966942,46.31578947368421,43.29988193624557,15.21531100478469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1851122301:0078/pct:52.693726937269375,15.43859649122807,14.435424354243542,5.07177033492823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5950,7 +5950,7 @@ the eyes of other people are the eyes that ruin
 us. If all but myself were blind, I should waiit  
 neither fine clothes, fine houses nor fine furniture
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00202193985:1852012301:0001/pct:78.25443786982248,74.22301304863582,19.582100591715978,6.820877817319098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00202193985:1852012301:0001/pct:78.25443786982248,74.22301304863582,19.606755424063117,6.82483194938711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6005,7 +6005,7 @@ remaining portion of the twenty-four hours might be lei­
 sure and pleasure.  
 A barge containing 500 tons iron for the Ohi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854020701:0128/pct:243.3252427184466,237.74449877750612,37.317961165048544,7.793398533007335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854020701:0128/pct:81.1084142394822,79.2481662591687,12.439320388349515,2.597799511002445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6073,7 +6073,7 @@ Franklin says that if every man and
 maining portion of the twenty-four hours  
 1 might be leisure and pleasure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1854030601:0036/pct:70.3223482802089,89.43024494142705,13.236088600756348,3.1017039403620874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1854030601:0036/pct:70.30968671227944,89.41834154132836,13.238206697875405,3.1046186609876214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6169,7 +6169,7 @@ others, at least so far as community is con­
 cerned, this quality of the spendthrift is  
 certainly a good one, and, moreover, should
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn93052971:00279557256:1854110901:0017/pct:36.201097539387504,63.784119106699755,14.834483979465393,16.612903225806452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn93052971:00279557256:1854110901:0017/pct:36.212899038177845,63.79239040529363,14.828583230070219,16.60876757650951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6189,7 +6189,7 @@ myself were blind, I should want neith-­
 er fine clothes, fine house, nor fine furni-­  
 ture.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058151:00279529212:1855082701:1109/pct:16.28926223520818,138.70967741935485,38.67786705624543,8.775287042099508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058151:00279529212:1855082701:1109/pct:5.429754078402727,46.236559139784944,12.892622352081812,2.925095680699836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6262,7 +6262,7 @@ be banished from the world, and the remain­
 ing portion of the twenty.four hours might  
 be leisure and pleasure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292479:1856041001:0064/pct:6.6142638036809815,117.96923076923076,16.890337423312882,5.369230769230769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292479:1856041001:0064/pct:4.968348359869557,88.47692307692307,12.679838864377517,4.030769230769231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6282,7 +6282,7 @@ would be banished from the world, and
 the remaining portion of the twenty-four  
 hours mignt be leisure and pleasure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82015827:00212472815:1856050601:0225/pct:122.41155046826222,108.86840083415652,18.067117585848074,5.696410931840632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82015827:00212472815:1856050601:0225/pct:81.61831663848055,72.58259247063988,12.046311955249122,3.797607287893755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6349,7 +6349,7 @@ the twenty-four hours might be leisure and
 pleasure.  
 There is such a thing ns useless labor, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058106:00279557141:1857092101:0277/pct:9.498629063846455,40.28816093516379,16.666666666666668,7.05450591273617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058106:00279557141:1857092101:0277/pct:9.508421464943204,40.29495718363464,16.676459067763414,7.064700285442436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6411,7 +6411,7 @@ fine furniture;
   
 A Dirge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1859092201:0295/pct:67.52195389681668,22.84713638236506,29.884742041712403,120.09682735887928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1859092201:0295/pct:45.03156738951414,15.234857849196539,19.928630249794125,80.06798516687269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6626,7 +6626,7 @@ A shilling, spent idly by a fool, may
 be picked up by a wise man, who knows  
 better what to do with it ; so it is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1864031801:0671/pct:107.80392156862744,114.37544610992148,17.176470588235293,5.867237687366167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1864031801:0671/pct:80.91033941534236,85.78158458244111,12.889935256032961,4.411134903640257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6655,7 +6655,7 @@ A shilling, spent idly by a fool, may be
 picked up by wise man, who knows better  
 what to do with it; so it is not lost,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn83035143:00280775599:1864033001:0110/pct:337.6099706744868,365.56917171120625,43.401759530791786,11.575372803779713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn83035143:00280775599:1864033001:0110/pct:84.4024926686217,91.39229292780156,10.850439882697946,2.893843200944928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6673,7 +6673,7 @@ A shilling spent idly by a fool, may- be
 picked up by a wise man, who knows better  
 what to do with jt so it is not lost
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1864040101:0622/pct:27.76426834501502,69.02714174019881,10.914032327277928,1.3403328493242488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528529:1864040101:0622/pct:27.76426834501502,69.03458803380617,10.914032327277928,1.3477791429316057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6691,7 +6691,7 @@ A shilling spent idly by a fool, may
 be picked up by a wise man, who knows  
 better what to do with it; so it is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528311:1864040501:0738/pct:14.455755677368833,69.54837147354401,37.180892717306186,5.206441457803608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528311:1864040501:0738/pct:4.818585225789611,23.182790491181336,12.39363090576873,1.735480485934536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6737,7 +6737,7 @@ olutionary theories and doctrines product­
 ive of lasting hate in the breasts of a large  
 number of people belonging to the Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866012901:0206/pct:9.202012940330697,302.4607329842932,63.76707404744788,50.890052356020945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866012901:0206/pct:2.3013304566702626,75.6151832460733,15.947500898957209,12.722513089005236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6757,7 +6757,7 @@ us; for, as the same philosopher said:
 should want neither fine clothes, fine  
 houses, nor fine furniture.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779349:1866040701:0122/pct:58.61204013377927,5.893398815542395,17.05685618729097,4.694496605517839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779349:1866040701:0122/pct:43.98661367914662,4.420049111656796,12.800669316042669,3.5244836053733932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6777,7 +6777,7 @@ be banished from the world.
 A LIVE LAPEl.  
 ST. LUIS DISPATCH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1866060801:0101/pct:133.0585325638912,341.33574007220216,57.378400659521844,18.170878459687124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1866060801:0101/pct:33.2646331409728,85.33393501805054,14.344600164880461,4.542719614921781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6797,7 +6797,7 @@ from the world, and the remaining nortaon
 of the twenty-four hours might be leisure  
 pleasure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jubilee_ver02:data:sn83025802:00295862038:1866061401:0461/pct:76.37665198237886,91.99084668192219,18.04331864904552,4.335113145181795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jubilee_ver02:data:sn83025802:00295862038:1866061401:0461/pct:76.37665198237886,91.99084668192219,18.061674008810574,4.3478260869565215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6821,7 +6821,7 @@ out of the world, and the rest of the
 twenty-four hours might be leisure and  
 pleasure.FRankliN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867052701:0522/pct:49.877684153302525,227.70679847057727,41.53302527860832,15.396810594050173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867052701:0522/pct:16.62589471776751,75.90226615685908,13.844341759536105,5.132270198016724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6844,7 +6844,7 @@ banished out of tlie world, and the rest of the
 twenty-four hours might be leisure and pleas­  
 ure. —Franklin. t_
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1867060401:0303/pct:44.11959253869559,89.65890101248402,12.541341447281386,4.1482355254104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1867060401:0303/pct:44.12400229307227,89.66217765981847,12.545751201658067,4.1482355254104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6944,7 +6944,7 @@ four bo/urs might be.leisuro and pleasure.
 _-^A correspondent of tte Ric arno nd Exami­  
 ner, writing&#x27; front tho University of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555298:1868070201:0216/pct:1.4111304899318218,56.08009844501622,13.841763120342476,5.705336167356528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555298:1868070201:0216/pct:1.4217007557740078,56.08755640079055,13.84704825326357,5.7016071894693665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6973,7 +6973,7 @@ necesa.ries and comforts of life, want and misery
 would be banished out of the world, and the rest  
 of the twenty-four hours might be leisure and pleasure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862725:1868070901:0316/pct:3.1377719182597232,19.433803606465478,17.33684904416612,8.193964309072223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862725:1868070901:0316/pct:3.1377719182597232,19.433803606465478,17.33684904416612,8.200193092279424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7013,7 +7013,7 @@ all the necessaries and comforts of life.
 tho world and the rest of twenty hours  
 would be leisure and pleasure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347247:1868073001:0330/pct:6.176154672395274,48.6766516208453,12.48657357679914,11.981945014361921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347247:1868073001:0330/pct:6.175325547053296,48.67165863165453,12.48937217523605,11.984135124970082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7156,7 +7156,7 @@ ical arithmetician that if every man and
 woman would work four hours each  
 day on something useful, that labor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870060201:0667/pct:75.04038772213246,256.1224489795918,51.61550888529887,9.720730397422127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870060201:0667/pct:18.760096930533116,64.03061224489795,12.903877221324718,2.4301825993555317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7177,7 +7177,7 @@ e  oe euise in wineter en tat a
 the necessaries and comforts of life; persons having demands against the ese  
 want and misery would be banished ont tate of C. Faris, dee&#x27;d, exhibit their claim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870060201:0667/pct:75.12116316639741,262.6208378088077,105.0080775444265,10.955961331901182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870060201:0667/pct:18.780290791599352,65.65520945220193,26.252019386106625,2.7389903329752956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7204,7 +7204,7 @@ consumers there can be no doubt.
 The first elements of wealth are ob  
 tained by labor from the earth. O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870060201:0667/pct:74.95961227786754,276.9602577873255,104.92730210016155,22.71750805585392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870060201:0667/pct:18.739903069466884,69.24006444683137,26.23182552504039,5.67937701396348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7309,7 +7309,7 @@ we see a community in which a large proportion
 of the inhabitants are without means, but who I  
 perform no labor whatever, devoting the whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474277:1872010601:0456/pct:39.20929018789144,42.74184984602315,17.967118997912316,17.87193373685887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474277:1872010601:0456/pct:29.421746508288734,32.05904215779972,13.483879389113692,13.411914622491238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7367,7 +7367,7 @@ misery would be banished out of tho
 world, and the rest of the twenty-four j  
 hours might be leisure and pleasure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:00200298433:1874102301:0562/pct:73.91225525743292,119.26257286159685,16.33430021754895,4.812254303917582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:00200298433:1874102301:0562/pct:55.44877606527652,89.4537074691609,12.257479601087942,3.605801816456554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7385,7 +7385,7 @@ us. If all but myself were blind I should want
 neither fine clothes, fine houses, nor fine furnt­  
 ture.&quot; He ridiculed the Order of the Cincinnati an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:56.21459513495501,266.33445358674237,45.86804398533822,6.26955614787345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:18.738198378318337,88.77815119558079,15.28934799511274,2.08985204929115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7407,7 +7407,7 @@ misery would be banished out of the
 world, and the iest of the twenty-four  
 hours might be leisure and pleasure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291062:1874103101:1167/pct:64.89052509203643,88.071736410399,13.931408641736098,4.587793688308078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291062:1874103101:1167/pct:64.90021313698895,88.07868761295704,13.941096686688626,4.5808424857500345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7470,7 +7470,7 @@ greater value aud answer better purposes.’ ”
 The Plague of Rabbits in New Zealand.  
 Some years ago a colonist, with the idea of ben
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876080201:0716/pct:49.072125502200116,26.32925789024737,14.061603214080735,13.790162069945977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876080201:0716/pct:38.034990609864586,20.405464962538563,10.902441435208065,10.691200235052152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7514,7 +7514,7 @@ and 20 out of every 24 hours of exist­
 ence would be made available for rest  
 and pleasure. Dr. Franklin was no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479731:1876100501:0170/pct:40.01551991722711,75.38066047063477,11.433005690636316,4.824995056357524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479731:1876100501:0170/pct:38.01449809558914,71.61150943986975,10.873571691854035,4.58686871849463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7538,7 +7538,7 @@ and 20 out of every 24 hours of exist­
 ence would be made available for rest  
 and pleasure. Dr. Franklin was no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1876100501:1232/pct:51.45478374836173,113.08878256246678,13.512450851900393,5.8054226475279105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:0051415238A:1876100501:1232/pct:39.87811071609954,87.64764049881887,10.47909260199763,4.5020051639839584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7562,7 +7562,7 @@ and 20 out of every 24 hours of exist­
 ence would be made available for rest  
 and pleasure. Dr. Franklin was no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:0027176960A:1876100601:0150/pct:39.02202521124809,78.54072963518242,13.339797755921873,5.167416291854073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:0027176960A:1876100601:0150/pct:39.0266426559542,78.544061302682,13.349032645334072,5.16408462435449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7585,7 +7585,7 @@ time the evils of their collected passions,
   
 prejudices and private interests.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022553:00202197243:1877081101:0645/pct:105.48042704626334,304.76190476190476,43.629893238434164,12.408163265306122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022553:00202197243:1877081101:0645/pct:26.370106761565836,76.19047619047619,10.907473309608541,3.1020408163265305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7607,7 +7607,7 @@ collected passions, prejudices and pri­
 vate interests.  
 The atmosphere of gas-heuses i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627415:1877082501:0365/pct:55.124317768344454,53.6444915896348,16.171417020416413,7.455675102288225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627415:1877082501:0365/pct:42.731070496083554,41.57369348209043,12.532637075718016,5.789782736347622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7813,7 +7813,7 @@ no ehirts, wherein does it differ from the
 sot who lets his family starve, and sells  
 his clothes to buy drink 1 Benjami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1885052901:0291/pct:23.521282476506357,59.25724243084295,16.666666666666668,6.806795905031583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1885052901:0291/pct:17.6527508985347,44.44565454149423,12.510367708045342,5.107819647135701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7871,7 +7871,7 @@ and xxas nut &quot;sure that in a great state It
 is capable of remedy &quot; Then he set him  
 felf to show the mitigations and possibl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289237:1886090501:0173/pct:96.07201309328968,11.699288256227758,16.080196399345336,2.3873072360616843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289237:1886090501:0173/pct:72.08350388866148,8.778173190984578,12.075317232910356,1.7941874258600237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7889,7 +7889,7 @@ and was not ••sure that in a great state it
 is capable of remedy.&quot; Then he set him  
 self to show the mitigations and possibl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_kirby_ver01:data:sn88067211:00514150655:1886091001:0404/pct:27.519548218940052,9.269662921348315,10.708079930495222,1.7029494382022472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_kirby_ver01:data:sn88067211:00514150655:1886091001:0404/pct:27.524978279756734,9.269662921348315,10.724370112945264,1.720505617977528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7907,7 +7907,7 @@ and was not “Bure that in a great state it
 is capable of remedy.” Then he set htm­  
 • self to show the mitigations and possibl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173459:1886091701:0301/pct:1.5164279696714407,9.983841181902124,14.877843302443134,2.019852262234534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173459:1886091701:0301/pct:1.5161725067385445,9.98268897864974,14.880952380952381,2.0234660511636853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7943,7 +7943,7 @@ and was not &quot;sure that in a great state it
 is capable of remedy.&quot; Then he set him­  
 self to show the mitigations and possibl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195465:1887012701:0088/pct:23.26510234648028,12.13693981435273,16.450324513230154,2.4952590078850183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195465:1887012701:0088/pct:17.45318352059925,9.102704860764547,12.347066167290887,1.876434773929534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8113,7 +8113,7 @@ for regaiating.comrnerce, an assemblyM
 of gi&#x27;eai men are the greatest fools  
 upon earth.?3. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_bogoff_ver01:data:sn84026907:00295862397:1889052201:0064/pct:61.0662177328844,60.78523384952292,13.198653198653199,5.959643359924918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_bogoff_ver01:data:sn84026907:00295862397:1889052201:0064/pct:61.0662177328844,60.78523384952292,13.202394313505424,5.964857396110329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8148,7 +8148,7 @@ of great men are the greatest fools
   
 upon earth,. B. Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033964:00296020564:1889052301:0508/pct:60.28455284552845,77.80522956557546,13.008130081300813,6.969322627136092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033964:00296020564:1889052301:0508/pct:45.22292993630573,58.359069384393656,9.757419704567015,5.229565575458102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8262,7 +8262,7 @@ regulating commerce, ‘an assembly of
 great mon are the greatest fools upon  
 earth. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn92064044:0051415319A:1889061401:0376/pct:42.75211541129144,90.22540770748935,12.09599112220835,7.063467331463592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn92064044:0051415319A:1889061401:0376/pct:42.75211541129144,90.23233267546138,12.100614972025708,7.063467331463592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8290,7 +8290,7 @@ regulating commerce, an assembly o!
 great men are the greatest fools upon  
 earth.—B. Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1889070401:1010/pct:10.7684355616816,12.959355927801584,15.161957270847692,9.06375795351253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1889070401:1010/pct:8.623937514357914,10.374320440458465,12.129565816678152,7.257869039786696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8329,7 +8329,7 @@ rets and ediets the world over for regulating
 commerce, an assembly of great men are the  
 greatest fools upon earth. This was sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280106:1889120101:0331/pct:65.38065843621399,21.36539524599226,14.9519890260631,16.321171918186845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280106:1889120101:0331/pct:49.056603773584904,16.03095632946379,11.217838765008576,12.244333886124931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8349,7 +8349,7 @@ fool may be picked up by a wise person,
 who knows better what to do with it; it  
 is, therefore, not lost
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287356:1890043001:0215/pct:42.022018917661654,15.802442682665523,13.304388277252286,3.3747589457895866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287356:1890043001:0215/pct:42.022018917661654,15.806013856153132,13.319894557295704,3.3783301192771944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8449,7 +8449,7 @@ with it; it is, therefore, not lost.
 Franklin.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878757:1890071701:0326/pct:4.226125137211855,119.71446567289523,14.654226125137212,6.340541675414655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878757:1890071701:0326/pct:3.1708991077556625,89.78584925467142,11.008922443376802,4.765903842116313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8469,7 +8469,7 @@ fool may be picked up by a wise person,
 who knows better what lo do with it; A  
 is, therefore, not lost
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mauve_ver04:data:sn85034357:00175033877:1890071801:0873/pct:85.44453186467348,15.609827865234662,13.650668764752163,3.3249963219067236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mauve_ver04:data:sn85034357:00175033877:1890071801:0873/pct:85.45108838185156,15.61963611397185,13.663781799108314,3.3299004462753174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8489,7 +8489,7 @@ fool may bo picked up by a wiser per­
 son, w ho knows better what to do with  
 it; i ii, thcrcfoio, not lo.nt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023802:1891040801:0091/pct:74.15068493150685,139.58898797983716,20.671232876712327,4.78867778208608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023802:1891040801:0091/pct:49.45190463140587,93.05932531989143,13.784598520142504,3.198914307871268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8535,7 +8535,7 @@ fool may be picked up by a wiser per­
 son, who knows better what to do with  
 it; it is, therefore, not lost.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152603:1891040901:0330/pct:62.235900848444516,92.50521233402831,15.521543836300117,3.3249204433227257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152603:1891040901:0330/pct:62.246991626462595,92.50521233402831,15.510453058282039,3.3358937781191704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8561,7 +8561,7 @@ WISCONSIN SOLONS.
 Senator Mains’ bill providing for the  
 punishment of habitual criminals in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152123:1891040901:0591/pct:51.14700692276367,3.151280811986467,28.85842269580562,91.91880135331078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152123:1891040901:0591/pct:51.156056287045836,3.151280811986467,28.85842269580562,91.92846785886901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8582,7 +8582,7 @@ fool may be picked up by a wiser per­
 son, who knowg better what to do with  
 it it is. therefore, not lost.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625091:1891041701:0260/pct:61.6107931316435,115.01392757660167,17.722812755519215,4.094707520891365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625091:1891041701:0260/pct:49.29408558190242,92.01485608170844,14.172799127827746,3.2757660167130918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8604,7 +8604,7 @@ fool may lie picked up by a wiser per­
 son, who knows tetter what to do with  
 it: it is, therefore, not lost
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_cedar_ver01:data:sn88085488:00211108095:1891050901:0245/pct:51.90584928860004,86.30464911175507,12.014754962234322,4.548318004283734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_cedar_ver01:data:sn88085488:00211108095:1891050901:0245/pct:51.90584928860004,86.31094872117929,12.036711751273494,4.5514678089958425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8625,7 +8625,7 @@ plies that he thinks the matter exagger
 ated, and considers travellers poor jwdges  
 whether it is growing or diminishing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556850:1891061801:0611/pct:75.04458977407847,59.955982856480944,15.903686087990488,4.96930383412487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556850:1891061801:0611/pct:56.312267657992564,44.96698714236071,11.940520446096654,3.7298737402988533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8658,7 +8658,7 @@ than it consumes, it without such a spur
 people would be, as they are naturally  
 enough inclined to be lazy and indolent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556850:1891061801:0611/pct:75.11890606420927,65.09903857291788,15.85909631391201,11.166454303254952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556850:1891061801:0611/pct:56.37174721189591,48.824278929688404,11.895910780669144,8.374840727441214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8708,7 +8708,7 @@ made happier by having fine caps, but
 tin? Philadelnhians by the supply of warm  
 mittens.&quot; X. Y. Post
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556850:1891061801:0611/pct:74.9256837098692,80.04170045175489,15.918549346016647,21.1398123479671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556850:1891061801:0611/pct:56.22304832713755,60.03706706822657,11.940520446096654,15.857755125680528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8772,7 +8772,7 @@ were made happier by having fine caps, but
 the Philadelphians by a supply of warm  
 mittens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jay_ver01:data:sn83025308:00212476626:1891080601:0829/pct:7.090909090909091,14.673913043478262,277.02272727272725,272.2826086956522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jay_ver01:data:sn83025308:00212476626:1891080601:0829/pct:2.3636363636363638,4.891304347826087,92.3409090909091,90.76086956521739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8816,7 +8816,7 @@ regulating commerce, an assembly of
 great men are the greatest fools upon  
 earth. H. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn2006060001:00296023310:1891081401:0696/pct:95.90349740932642,86.18934509670852,20.741580310880828,27.191494174867096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn2006060001:00296023310:1891081401:0696/pct:63.96177518626498,57.45956339780568,13.832199546485262,18.131433095803644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8896,7 +8896,7 @@ knowledge by the bare stating of the
 question with perspicuity and justness,  
 than others uy talking of it in gros
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212013:1891112001:0266/pct:56.87488276120803,27.48371335504886,12.811855186644157,21.905537459283387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212013:1891112001:0266/pct:56.864216054013504,27.479983715565204,12.814141035258814,21.905957389062287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9069,7 +9069,7 @@ plenty, and live well nevertheless ;
 though, by being soberer, wo might  
 be richer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_flopeye_ver01:data:sn93067853:00295861435:1894091401:0008/pct:16.263324690290982,5.507246376811594,18.107173725151252,81.50501672240803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_flopeye_ver01:data:sn93067853:00295861435:1894091401:0008/pct:16.263324690290982,5.507246376811594,18.107173725151252,81.50873281308064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9227,7 +9227,7 @@ us. If all hut myself wero blind, I
 should want neither fine clothes, fine  
 houses, nor fine furniture.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_flopeye_ver01:data:sn93067853:00295861435:1894091401:0008/pct:16.738692019590896,3.5340022296544036,29.78968596946125,93.04347826086956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_flopeye_ver01:data:sn93067853:00295861435:1894091401:0008/pct:16.738692019590896,3.5414344109996283,29.799289349851147,93.04347826086956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9356,7 +9356,7 @@ ery would soon vanish from the world and the
 remaining portion of the day might be leisure  
 and pleasure. _
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1896010901:0711/pct:71.77817248865206,80.91331692644243,21.038089599368462,11.922340716434237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1896010901:0711/pct:71.7640094711918,80.90225563909775,21.040515653775323,11.925267714741398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9505,7 +9505,7 @@ with it.
 The interior of the court room  
 now presents as neat appearanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192245:1897090101:0325/pct:74.1514360313316,24.57293035479632,12.255221932114882,17.024383121623593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192245:1897090101:0325/pct:74.15551566579634,24.576580522704045,12.25114229765013,17.024383121623593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9529,7 +9529,7 @@ ty four hours might be leisure and
 pleasure.&quot;  
 We are of the opinion that the es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:00416156761:1897101401:0166/pct:17.992424242424242,40.13265068652548,17.09280303030303,9.76262508727019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:00416156761:1897101401:0166/pct:13.496448303078138,30.102397021177566,12.833464877663772,7.319059809169188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9616,7 +9616,7 @@ shirts, wherein does it differ from the sot
 who lets bis family starve, end sells bit  
 clothes to buy drink?&quot; Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn84026497:00212477916:1898060801:0052/pct:42.29323308270677,113.3242506811989,15.770676691729323,11.866485013623977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn84026497:00212477916:1898060801:0052/pct:31.747225879255218,85.0,11.829979311641903,8.896457765667575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

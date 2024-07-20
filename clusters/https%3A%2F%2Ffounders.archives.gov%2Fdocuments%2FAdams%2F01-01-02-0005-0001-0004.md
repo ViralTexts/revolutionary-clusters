@@ -103,7 +103,7 @@ last to a degree of strength that even
 the Legislature will not be able to con  
 trol.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030906:1886042401:0466/pct:147.48705452330185,274.4916621839699,34.43496801705757,15.190962883270576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030906:1886042401:0466/pct:49.16235150776728,91.49722072798995,11.478322672352522,5.063654294423525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ should arrive at last to a degree ol
 strength that even the Legislature will  
 not be able to control.—John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:0051415210A:1886082701:0300/pct:83.38540959108816,69.98676036256238,10.813748132047277,17.30318769732152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:0051415210A:1886082701:0300/pct:83.39446633156727,69.99015514139253,10.804691391568175,17.30658247615168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ strength that even JheLeirlslature wis
 not ne aow to emroi.-voAn 4Mmi  
 276.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289432:1886090801:0189/pct:73.949246629659,105.54649265905384,16.514670896114197,21.93385733353107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289432:1886090801:0189/pct:55.49385164617215,79.16357704285926,12.39587465291551,16.446685451579416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ make many, who may be induced by flip
 and rum,to vote for any man whatever.”  
 These words were no more true in hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887040901:0324/pct:43.15536670977277,76.77437561732751,12.045076667282467,9.538591787780444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887040901:0324/pct:43.14739564093092,76.7635440180587,12.047469523457702,9.540773137697517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ for there were many who could &quot;be induced
 by flip and rum to vote for any man whatever.  
 Aroused to the necessity of doing somethin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044905:1892101601:0762/pct:179.4891640866873,60.706735125339776,51.083591331269346,7.73180308064029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044905:1892101601:0762/pct:44.89835430784124,15.176683781334944,12.778315585672798,1.9329507701600726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

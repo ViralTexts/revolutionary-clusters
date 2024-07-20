@@ -214,7 +214,7 @@ wrote and printed an anonymous pamphlet on it,
 entitled, &quot; The nature and necessity of a Paper Cur­  
 rency.&quot; It was well received by the common peopl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837111001:0135/pct:19.39434055932484,18.36445284802647,15.505543604170114,5.707870479792011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837111001:0135/pct:19.405372607424567,18.372331206176632,15.50002758012025,5.707870479792011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ bv employing me to print the money; a very profita­
 ble job, and a great help to me; this was another  
 advantage gained by my oMng able to write
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837111001:0135/pct:19.32814827072646,25.93949420940676,15.472447459870924,2.505317891751359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837111001:0135/pct:19.333664294776327,25.947372567556922,15.483479507970655,2.5013787126762783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ auhject, that I wrote and printed an anonymous pam­
 phlet on it, entitled &#x27;The Nature and Neccsaity of ?  
 Paper Currency.&#x27; Ft waa well received by the commo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837121401:0178/pct:50.27313358715445,22.54225184479886,15.328587982122166,7.712449416805523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837121401:0178/pct:50.27313358715445,22.550186463540427,15.350659383104343,7.716416726176307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ to reward me by employing me in printing the money, a
 very profitable job, and a great help to me; this was  
 another advantage gained by being able to write. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837121401:0178/pct:49.92550902168515,31.89716734110926,15.692766098328091,2.5827184003808616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837121401:0178/pct:49.92550902168515,31.901134650480046,15.698283948573636,2.5906530191224313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ to-day in this land by the representa­
 tives of the monied aristocracy on the  
 one hand, and by the great mass of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:00200292364:1874090401:0710/pct:26.92713833157339,81.87095704096865,65.68109820485745,37.153756841930665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:00200292364:1874090401:0710/pct:6.7335621864272515,20.467739260242162,16.424610509638235,9.288439210482666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ be low, especially where the staple
 commodity of the country is the imme­  
 diate produce of the land.&quot;-Benjami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559917:1874091101:0777/pct:150.21428571428572,101.68539325842697,42.42857142857143,19.662921348314608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559917:1874091101:0777/pct:37.566988210075024,25.421348314606742,10.610932475884244,4.915730337078652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ one after another. Our debates possessed
 me so fully of the subject tbat I wrote and  
 printed an anonymous pamphlet on Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293514:1875070201:0634/pct:34.346779048765804,115.20251318299114,14.373871161950632,5.632222596207787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293514:1875070201:0634/pct:25.7792501129348,86.40188488724336,10.781508808914321,4.229776730618198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ Our debates possessed me so fully of the
 subject that I wrote and printed an  
 anonymous pamphlet on &quot;The Natur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285001:1875071501:0208/pct:136.37413394919167,206.38862358060067,48.49884526558891,36.08192719940571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285001:1875071501:0208/pct:34.10337857349119,51.597155895150166,12.128212532486284,9.020481799851428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ poseased me so fully of the subject
 that I wrote and printed an anony­  
 mous pamphlet on &#x27;The Nature nn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1875080501:0460/pct:40.45945945945946,38.22173215717723,14.878378378378379,8.871291098636728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280532:1875080501:0460/pct:30.363660943625796,28.668805132317562,11.166689198323645,6.655974338412189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ quantity of money requisite to carry on
 the traae oi a country more than  
 which would be of no advantage, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270209:00279527756:1890041201:0171/pct:91.53439153439153,96.1845967007388,16.46825396825397,2.3884222244712072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270209:00279527756:1890041201:0171/pct:68.66896004233924,72.1384475255541,12.357766604921936,1.7913166683534054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ lay their money out with.&quot;
 naturally lead to inquiry who or what  
 class oppose a plentiful currency 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270209:00279527756:1890041201:0171/pct:91.23015873015873,8.177309988867524,34.007936507936506,120.41291367270519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270209:00279527756:1890041201:0171/pct:68.44403281291346,6.132982491650643,25.522625033077535,90.31474547110616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ pear to bo against large additions, be­
 cause, if they aro not, they must sensi­  
 bly feel the present interest hurt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270209:00279527756:1890041201:0171/pct:108.58465608465609,21.273150490841008,16.746031746031747,21.87025604695881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270209:00279527756:1890041201:0171/pct:81.46335009261709,15.959923084708025,12.569462820852078,16.405222143507743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ money ho hath borrowed at 8 or 10 per
 cent, cannot hold market with him that  
 borrows his money ut G or 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760936:1890082701:0651/pct:102.69953051643192,14.37764872076597,30.164319248826292,15.303719981164653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760936:1890082701:0651/pct:68.52243363871271,9.590331188196515,20.131548038524784,10.202479987443102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1435,7 +1435,7 @@ act that payment may be made either in
 those bills or in any other bills made  
 made current by any act of the Legiah
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760948:1891061001:0083/pct:12.783553875236295,9.788402519786787,123.41682419659735,133.56485220481343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760948:1891061001:0083/pct:8.534278959810875,6.525601679857858,82.31678486997636,89.04861896301082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1916,7 +1916,7 @@ tegrity of our designs.
   
 Philadelphia, April s, ITM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760948:1891061001:0084/pct:13.27683615819209,10.424773022049287,123.94067796610169,133.80350194552528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760948:1891061001:0084/pct:8.85330821756534,6.955252918287938,82.64657405227219,89.2023346303502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2071,7 +2071,7 @@ The Situation.
 Ex-Senator Farwell, of Illinois, one  
 of the stalwart Republican representa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:0038334685A:1891073101:0116/pct:20.70073931211829,7.686798758653617,13.211186113789779,57.85390307949391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:0038334685A:1891073101:0116/pct:20.706096646308797,7.686798758653617,13.211186113789779,57.85788175379963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2171,7 +2171,7 @@ And thus It Is no wonder If there Is a powerful
 party on that side.  
 Separated from its connections, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760948:1891093001:0341/pct:73.89255419415646,34.56589021013194,30.348727615457115,69.66932725199544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760948:1891093001:0341/pct:49.292786421499294,23.049356572731714,20.24988213107025,46.44078840201988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2188,7 +2188,7 @@ As blHs issued upon money security are money,
 so bills Issued upon land are, In effect, coined  
 land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760948:1891102101:0391/pct:74.24528301886792,93.94086282113427,30.07075471698113,3.06996283729197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760948:1891102101:0391/pct:49.51639537626799,62.62724188075618,20.051899032790754,2.052027791242527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2206,7 +2206,7 @@ ject that I wrote and printed an anonymous
 pamphlet on It entitled, &quot;The Nature and Ne­  
 cessity of a Paper Currency.&quot; It was well re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760948:1891102101:0391/pct:74.24528301886792,101.98739699466796,30.07075471698113,4.362578768783325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85029079:00280760948:1891102101:0391/pct:49.51639537626799,67.99159799644531,20.051899032790754,2.90838584585555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2241,7 +2241,7 @@ I wrote and printed an anonymous pamphlet on
 it entitled, &quot;The Nature and Necessity of a Pa­  
 per Currency.&quot; It was well received by the com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:00280760948:1892083101:1095/pct:42.08860759493671,26.65692007797271,29.62512171372931,12.313190383365821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:00280760948:1892083101:1095/pct:28.07401996591186,17.771280051981805,19.746773800827857,8.219623131903834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2956,7 +2956,7 @@ uce. Conversely, a plentiful curren­
 cy will cause the trading produce to  
 bear a good price. Inasmuch as price
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895101101:0556/pct:27.42637215528782,21.182768289574305,18.406961178045517,6.62758093295947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895101101:0556/pct:18.29594911282223,14.12184552638287,12.269835955808503,4.4226357379556465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2983,7 +2983,7 @@ plentiful currency will encourage great
 numbers of laborers to come and settle  
 in the country. 4. Want of money in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895101101:0556/pct:27.51004016064257,28.60056079530971,18.691432396251674,9.559010960999235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895101101:0556/pct:18.346166722464012,19.067040530206473,12.470706394375627,6.37267397399949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3006,7 +3006,7 @@ of European goods in proportion to the
 number of the people.&quot;  
 In determining the value of mone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895101101:0556/pct:27.52677376171352,38.24878919194494,18.30655957161981,6.704053020647463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895101101:0556/pct:18.36290592567794,25.50344124394596,12.202879142952796,4.473617129747642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3036,7 +3036,7 @@ crease (supposing payments may not
 be made in bullion), what coin there is  
 will rise in value as a currency.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895101101:0556/pct:27.677376171352076,47.29798623502422,18.25635876840696,11.904154983431047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895101101:0556/pct:18.4633411449615,31.531990823349478,12.169400736524942,7.940351771603365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3062,7 +3062,7 @@ rssessed me so fully of the subject that
 wrote and printed an anonymous  
 (pamphlet on ‘The Nature- and Necessit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:0034058322A:1896010501:0050/pct:3.0987734021949644,89.64226912138902,14.310307725414246,5.23873671606047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:0034058322A:1896010501:0050/pct:3.098106712564544,89.62885363663574,14.312607573149743,5.241694103561808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3373,7 +3373,7 @@ o te oee a e i o e a te ­
  est way of levying a tax from those consumers,&quot;  
 e an o  eo e eoo ae 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896101102:0728/pct:0.2276176024279211,288.2103990326481,66.69195751138088,34.82466747279323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896101102:0728/pct:0.056915196357427436,72.05259975816203,16.67615253272624,8.706166868198308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3431,7 +3431,7 @@ a currency are two distinct things, and
 each may possibly rise and fall in some  
 degree independent of the other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897012201:0787/pct:28.382547377699428,32.31396534148828,10.819744380784487,8.239891267414203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897012201:0787/pct:28.3762943379599,32.30847630372006,10.82286847323199,8.242738236792933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3463,7 +3463,7 @@ pricp; because, trade being encouraged
 and advanced by it, there will be a  
 much greater demand fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897081301:0903/pct:16.725429704715733,52.115775220040625,10.907888937858088,9.766418415707514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897081301:0903/pct:16.721744877726373,52.10695549162295,10.910993610927518,9.768996446099171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3509,7 +3509,7 @@ makers, shopkeepers, and, in short to
 every one that it hey lay their money  
 t with. Those who are lovers o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897081301:0903/pct:16.703393565447335,64.74272173324306,10.709563684442486,17.501692620176033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897081301:0903/pct:16.69971359330249,64.73176510407852,10.71271205111258,17.50296158402437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3561,7 +3561,7 @@ ures for a certain sum of money.”
 The question will be asked, Bid not  
 the paper money of the colony depre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897081301:0903/pct:28.007933010136625,5.19634394041977,11.106214191273688,20.294515910629656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897081301:0903/pct:28.00176250275391,5.195464545608394,11.109275170742455,20.295312235572855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3587,7 +3587,7 @@ greater or less demand for it, or as it is
 more or less plenty.”  
 If there be an honest seeker afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897081301:0903/pct:27.941824592331425,25.592417061611375,11.040105773468488,6.448882870683819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897081301:0903/pct:27.935668649482263,25.588085970553394,11.04318131747081,6.452022338805213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3625,7 +3625,7 @@ farmers, brewers, bakers, tailors, sho*»&lt;
 makers, shopkeepers, and, iu alior**  
 every one that ‘they lay their 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897081301:0905/pct:17.09106603366422,69.01861252115059,10.509279240397065,12.622673434856177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897081301:0905/pct:17.0873786407767,69.00693622060565,10.512405609492989,12.624767382845542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3666,7 +3666,7 @@ every one that [they lay the;
 fNJt with. Those who are  
 “VT . mo 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897082001:0907/pct:16.58302421994327,67.65147721582373,10.648047130700414,12.902687364379902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897082001:0907/pct:16.57940663176265,67.64018691588785,10.651178010471204,12.904706275033378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3704,7 +3704,7 @@ makers, shopkeepers, and, In sV1&#x27;*
 , every one tlmt Jthey lay the&#x27; .fj  
 fsjt with. Those who are li&amp;f&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897082001:0909/pct:16.467198581560282,68.70395177494977,9.995567375886525,12.826523777628935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897082001:0909/pct:16.46354974518059,68.69244935543279,9.998892089519167,12.828561861711034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3742,7 +3742,7 @@ farmers, brewers, bakers, tailors, -.j&#x27;N
 makers, shopkeepers, and, in sV^  
 every one that ;they lay the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897082701:0911/pct:17.153443766346992,67.92707629979743,10.527462946817785,12.491559756921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897082701:0911/pct:17.149705818261058,67.915611814346,10.53061669208978,12.49367088607595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3800,7 +3800,7 @@ full of new life «.
 the wonder-woj]  
 Ove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897082701:0913/pct:18.5671256454389,68.33616298811545,10.499139414802066,23.65025466893039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897082701:0913/pct:18.563131856313184,68.32456289254796,10.502258550225855,23.65048378883042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3829,7 +3829,7 @@ mous pamphlet on it, entitled ‘The
 Nature and Necessity of a Paper Cur­  
 rency.’ It was well received by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1897110501:0444/pct:50.776870094505846,6.612486147026228,22.184847028672113,89.60719123260682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1897110501:0444/pct:50.776870094505846,6.612486147026228,22.200864968765018,89.61129581742807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3858,7 +3858,7 @@ mous pamphlet on it, entitled ‘The
 Nature and Necessity of a Paper Cur­  
 rency.’ It was well received by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1897112401:0329/pct:55.95288178376104,34.751455441110615,11.877717010236994,8.329601433049708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1897112401:0329/pct:55.96223063618941,34.751455441110615,11.882391436451176,8.340797133900582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3989,7 +3989,7 @@ wrote an anonymous pamphlet on it
 entitled: &#x27;The Nature and Necessity  
 of a Paper Currency.&#x27; It was well re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edsel_ver01:data:sn89081022:00212472748:1899120601:0449/pct:6.165434509694518,61.971830985915496,12.037941135444274,2.368283776734481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edsel_ver01:data:sn89081022:00212472748:1899120601:0449/pct:6.174733807597526,61.978786298035125,12.028641837541265,2.364806120674665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

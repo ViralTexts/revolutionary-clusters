@@ -135,7 +135,7 @@ if. first coming out, produces the like va­
 riety m the time of its depositing the ewer  
 or the maggot, but this may lie generall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817050901:0009/pct:51.82784978398139,54.16212286441294,15.137919574609505,20.344117290682178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817050901:0009/pct:51.81923907625851,54.15556094015023,15.140942570748186,20.345690978111623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ lieve that the lly is viviparous, for he
 nevri could discover that any transforma­  
 tion look place from an egg to a inagmi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817050901:0009/pct:51.89431704885344,75.99660729431722,15.320704553007644,4.0348964013086155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817050901:0009/pct:51.885695298222295,75.98740004846135,15.323697181148585,4.0384460059769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ of any considerable height.-The
 size of the maggot when full grown!  
 and the time m&lt;&#x27;c;&lt; astii v to ecnip.&#x27;etc its
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817050901:0009/pct:51.77799933532735,79.8497516054768,15.021601861083417,15.13389070640979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817050901:0009/pct:51.76939690978568,79.84007753816331,15.024644182311569,15.136095630401421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ ral food of the insect, is the sap or
 juice of that kind o! green wheat  
 v hirit has the most delicate straw.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1817111101:0140/pct:4.220346512661039,89.26750737858868,17.969791203909374,3.568553796619265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1817111101:0140/pct:4.219409282700422,89.25553319919517,17.97320304981864,3.572546389447798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -955,7 +955,7 @@ and in the spring, as soon as the weath­
 er becomes warm enough, and gener­  
 ally about the lime vegetation ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836070201:0357/pct:49.65312190287413,41.34631525935874,15.213082259663032,18.16350512002686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836070201:0357/pct:49.64082239286599,41.33937562940584,15.215506564280407,18.164652567975832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1017,7 +1017,7 @@ suppose, that there are two complete
 generations of the insect before har­  
 vest.” The second time that the fl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836070201:0357/pct:49.97522299306244,13.244921940574114,30.921704658077303,79.36880980359241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836070201:0357/pct:49.962843695813724,13.24269889224572,30.920237800346793,79.35968445787177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1047,7 +1047,7 @@ vest, the first means to be used, is to
 destroy the stubble soon after cutting  
 the wheat. This is tu be done eithe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836070201:0357/pct:65.58473736372646,31.52593587376196,15.113974231912785,10.374349504784288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836070201:0357/pct:65.56849145405003,31.520644511581068,15.116423086450334,10.376804296743874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1098,7 +1098,7 @@ described, and dies—and a new generation succeeds.
 These eggs arc soon hatched by the warmth ot  
 the seaso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1846062501:0086/pct:6.536140144266156,20.316711590296496,14.632710142794053,8.333333333333334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1846062501:0086/pct:6.535178098322048,20.314430095451993,14.635462663134138,8.336140744899868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,7 +1187,7 @@ situation during the whole winter apparent
 ly in this chrysalis state, without suffering  
 any injury from the frost or snow; and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1846080101:0335/pct:202.40577385725743,284.8255569567045,57.81876503608661,19.952360935967494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1846080101:0335/pct:50.63189568706118,71.20638923917612,14.463390170511534,4.988090233991874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1212,7 +1212,7 @@ enclosed, and through the sheath or the
 wheat just opposite to the place where itis  
 lodged, and this hole may be ewsily di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1846080101:0335/pct:262.5501202886929,94.8858063612162,58.21972734562951,32.67479333053104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1846080101:0335/pct:65.67703109327984,23.72145159030405,14.563691073219658,8.16869833263276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1244,7 +1244,7 @@ enough, and generally about the time veg­
 etation has fairly commenced, it is trans­  
 formed into the fly. In this state it lay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1846081801:0021/pct:24.88009592326139,91.15054123423725,57.37410071942446,44.2807722352416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1846081801:0021/pct:6.221889055472264,22.787635308559313,14.347826086956522,11.0701930588104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1268,7 +1268,7 @@ the brown case in which it is enclosed,
 and through the sheath of the wheat just  
 opposite to the place where it is lodged, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1846081801:0021/pct:25.059952038369303,195.6924450396161,57.79376498800959,24.818658631849125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1846081801:0021/pct:6.266866566716642,48.923111259904026,14.452773613193404,6.204664657962281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1290,7 +1290,7 @@ cate straw. It remains in this situation
 portion of that which has lain long at a  
 considerable depth, and has been more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1847041701:0073/pct:27.320846905537458,15.749389280068975,38.843648208469055,3.1182641184078173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027510:1847041701:0073/pct:20.5049888006516,11.812041960051731,29.138668295662796,2.3422905589883602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

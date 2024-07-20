@@ -59,7 +59,7 @@ conclude all spntroverGes between the- two
 Republics, by a new treaty.  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799030501:0002/pct:62.61818181818182,12.932657494569153,17.26060606060606,14.800868935553947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799030501:0002/pct:62.61818181818182,12.932657494569153,17.266666666666666,14.811730629978276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ clude .all controversies between the
 two Republics, by a new treaty.  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799032001:0046/pct:26.03056970819824,4.388531304856642,33.53404353867531,89.60405695338405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799032001:0046/pct:26.040862539241417,4.391782068786164,33.528897123153726,89.60080618945452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ norable gentlemen, which shall ap- j
 pear in my next letter, the same de- .  
 corum shall be obs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809051501:0001/pct:5.252525252525253,1.5237094443714698,62.484848484848484,91.88230658084855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809051501:0001/pct:5.252525252525253,1.532466395201191,62.51178451178451,91.88230658084855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ nty next letter, the same decorum shall bft
 observed.  
 . . .vOIIH ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809051601:0011/pct:58.96243291592129,11.217097319488046,35.402504472271914,83.02342429364887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809051601:0011/pct:58.951886961187626,11.215743088253049,35.402134382638764,83.01742524850094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ tive Aflembly adhered to the two, &quot;and the
 - minority to the thglee A revolution then  
 - was to be Mmﬁ» overn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809060601:0295/pct:24.643521388716678,71.7491025129637,16.862988220706757,17.13203031511767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809060601:0295/pct:24.65385410208721,71.75242653902407,16.862988220706757,17.135354341178036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ pear in my next letter, the fame decorum
 shall be observed. : | i  
 o JOHN ADANS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809060601:0295/pct:42.436453812771234,15.686078978859195,16.723496590204586,44.85440765855604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809060601:0295/pct:42.446786526141764,15.689403004919559,16.71833023351932,44.864379736737135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ relating the conference with those honourable
 gmlm which shall ur;f in my next  
 y the same decorum be observed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809060701:0040/pct:23.662233219919578,16.108704214257582,26.801732137333747,80.67152422213469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809060701:0040/pct:23.672543561191876,16.111986346330575,26.79142179606145,80.67480635420769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ dance ot suibs, scoffs und sarcasms in what were then called
 the tederal newspuapers, particularly Cosserr’s Porcurine  
 and John Ward Fenno&#x27;s United States G ize le.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811041701:0393/pct:5.45046489259378,58.3756851021425,29.432510420006412,4.783258594917788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811041701:0393/pct:5.45046489259378,58.37900680950008,29.43785401303837,4.78658030227537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

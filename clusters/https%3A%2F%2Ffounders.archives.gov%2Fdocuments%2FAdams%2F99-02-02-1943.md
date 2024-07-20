@@ -36,7 +36,7 @@ that state, in conjunction with some persons who
 might make a diversion or serious attack against  
 Florida. By Mr. Jackson&#x27;s answer, from whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071001:0002/pct:25.244805349892523,57.28406326034063,16.88559828039169,2.18978102189781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071001:0002/pct:25.244805349892523,57.295468369829685,16.90351086696919,2.193582725060827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -75,7 +75,7 @@ may preserve pr,ir life many years.
 Your tnoft obedient servant,  
 CARLOS MARTINEZ DE YRUJO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071101:0001/pct:58.806474993959895,41.560798548094375,17.80623338970766,15.60798548094374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071101:0001/pct:58.81251510026576,41.568360556563825,17.80623338970766,15.611766485178464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ Gen.-Clarke in Georgia, to obtain his infltf-
 ence in that State, with a view to a diversi­  
 on pr serious attack against. Florida
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071101:0001/pct:58.758154143512925,65.19963702359347,17.854554240154627,5.580762250453721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071101:0001/pct:58.758154143512925,65.19963702359347,17.86663445276637,5.592105263157895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ His letter has been laid before the President
 of the United States, by whose direßion I have  
 now to de/ire&#x27;you immediately to enquire int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071101:0002/pct:25.12684223242329,30.851383874849578,17.637110413143272,9.220818291215403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071101:0002/pct:25.138922445035032,30.85890493381468,17.637110413143272,9.220818291215403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ state, in conjunction with some per­
 sons who might make 2 division or  
 serious attack against Florida. B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797071801:0324/pct:60.38811027260126,13.05167112962412,15.41660249499461,3.3918476643855997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797071801:0324/pct:60.39324400636583,13.058282918443584,15.421736228759176,3.388541769975867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ take the proper steps Georgia also &#x27;(hould
 not infringe the of neutrality.&quot; Here  
 you confine your requests to Georgia, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797102001:0002/pct:42.173810087615436,36.45465253239105,16.43381482358513,5.506478209658422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797102001:0002/pct:42.173810087615436,36.465694935217904,16.451574709921857,5.4954358068315665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ trality to the injury of the poffefiions of the
 io king my matter.&quot;  
 fe Here there is not the smallest hint of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797122801:0002/pct:59.12515188335358,32.192822384428226,18.93074119076549,14.826642335766424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797122801:0002/pct:59.12515188335358,32.20422749391727,18.94289185905225,14.819038929440389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ I &#x27; j riventii g 111 ? rights of neutrality lieing infringed by Geof­
 &#x27; ttr T liis expedition, it was alleged, was to proceed from  
 ? . ? Canada, d&lt;H&lt; rid the Mis?issip|i, and pa s through th? te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848022601:0096/pct:19.19750460796824,76.38763537906136,15.89394583865022,9.724729241877256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848022601:0096/pct:19.206956850512785,76.39515643802648,15.889219717377948,9.724729241877256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

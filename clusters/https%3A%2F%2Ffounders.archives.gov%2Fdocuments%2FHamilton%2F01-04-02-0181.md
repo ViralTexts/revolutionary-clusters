@@ -296,7 +296,7 @@ dangerous to liberty, and ought not to)
 be raised or kept up without consent of i  
 of the Legislature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851030801:0343/pct:46.85267857142857,87.55330911388407,19.084821428571427,3.238035065550466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624451:1851030801:0343/pct:36.316457156037366,67.8581629738442,14.79068158228578,2.5217284857387687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ abroad. Full authority in respect to the
 creation and direction of the national  
 forces is conferred upon Congress. Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769428:1863040901:0182/pct:44.61162551440329,66.97991888416263,11.638374485596708,3.818379661687605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769428:1863040901:0182/pct:44.6159122085048,66.98651366768885,11.642661179698218,3.818379661687605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ Article 80.—That in all cases, and at 1 j
 all times, the ndbtary ought to be under • ,  
 strict subordination tJ and control of the j 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864100601:0163/pct:14.983654195423174,43.51953769950468,11.569197239375226,3.907539900935608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026207:1864100601:0163/pct:14.989708197118295,43.528710328380114,11.581305242765469,3.9029535864978904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ Art. 26. That standing armies are dangerous to liberty.
 and ought not to be raised or kept up without the consont  
 of the Legisiature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:0027174349A:1864103101:0505/pct:203.8009341278789,82.73667462211615,44.709292961829604,3.852710535288101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:0027174349A:1864103101:0505/pct:67.93364470929296,27.578891540705385,14.9030976539432,1.2842368450960335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ dangerous to liberty, and ought not to be
 raised or kept up without the consent of the  
 Legislature. ’ That consent has alread
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624529:1867092801:0153/pct:4.941310109806891,53.8539115401239,15.921999242711093,2.3627719348797003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624529:1867092801:0153/pct:3.834490853956764,41.74482655947595,12.339821970067495,1.831174631531934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ j armies are dangerous to liberty, and ought l
 not to be raised or kept up, without the  
 consent of the Legislature.” Again we 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623938:1893061701:0108/pct:16.59270692649045,4.5893719806763285,11.73065792012348,3.3390167661267407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623938:1893061701:0108/pct:16.59270692649045,4.5893719806763285,11.756383047141295,3.3532253481102585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ ciple unheard of, except in one or two of
 our State Constitutions, and rejected in  
 all the rest.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899111001:0503/pct:177.33313644418192,155.4218248509858,38.2309509746013,8.17285648784961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899111001:0503/pct:59.11104548139397,51.8072749503286,12.7436503248671,2.72428549594987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ arsenals; and, for the defense of these,
 fortifications and probably garrisons.&quot;  
 &quot; If
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899111001:0503/pct:177.2740696987596,165.49747822099954,38.2309509746013,37.414030261348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899111001:0503/pct:59.0913565662532,55.165826073666516,12.7436503248671,12.471343420449335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

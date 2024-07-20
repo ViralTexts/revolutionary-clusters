@@ -67,7 +67,7 @@ Sec. 11. And be it further enacied,
 That the commissioned officers, who  
 shall be employed in the recruiting ser
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802051101:0075/pct:77.1486825595985,18.542379706059997,16.54642409033877,9.794644654721159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802051101:0075/pct:77.15913843580093,18.549090665056035,16.55165202843998,9.794644654721159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ laid before the general Commander-in Chief for his action
 and orders thereon All other sentences may be confirm-­  
 ed and ordered to be carried into execution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:154.60460460460462,44.2950745594216,46.51317984651318,8.224130140081337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:51.53486820153487,14.765024853140533,15.50439328217106,2.7413767133604456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ retary of War, to be laid before the President of the
 Confederate States for his confirmation or disapproval  
 nd orders in the case. All other sentencas nay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016892:00295878794:1864080101:0564/pct:134.03225806451613,172.65671641791045,48.95161290322581,13.91044776119403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016892:00295878794:1864080101:0564/pct:33.521581282775315,43.16417910447761,12.242839854780152,3.4776119402985075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

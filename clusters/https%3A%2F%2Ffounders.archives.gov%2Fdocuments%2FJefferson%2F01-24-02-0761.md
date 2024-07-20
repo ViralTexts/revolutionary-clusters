@@ -49,7 +49,7 @@ one second of mean time. &#x27;
   
 2. That the President of the United States b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041401:0002/pct:69.52132855747314,19.600869393400515,26.799088244871378,5.769610748863861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041401:0002/pct:69.53760989905568,19.605809128630707,26.80722891566265,5.784429954554436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ vibrations in small and equal arcs, in
 one second of niean time.  
 2d. That the Prefidentof the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792080901:1059/pct:48.980087421078196,51.55604953953636,20.859640602234094,11.432200698634487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792080901:1059/pct:48.98818196535535,51.56134222504499,20.875829690788407,11.42690801312586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ cise point of reformation they are ready
 to go.  
 No man will ever bring out ot tho presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:55.533381712627,42.22465154413774,15.892597968069666,3.7168625307461056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:41.67725540025413,31.675321125990706,11.925939371936831,2.787646898059579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ judge of the general disposition to
 what precise point of reformation  
 they are ready to go.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:80.37142857142857,43.62992379521305,14.842857142857143,3.187721369539551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:60.29432776110873,32.725126113555866,11.130161451635948,2.3934742943007405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

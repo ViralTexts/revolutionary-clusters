@@ -57,7 +57,7 @@ inform you of your appointment.
 “ EUANCIS T. BROOKE.  
 “ Piesidentof the Convention.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828030401:0412/pct:81.3002896684905,25.95021250758956,15.320244608947538,7.61384335154827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828030401:0412/pct:81.28720836685439,25.947061680427392,15.323142933762403,7.616966164804921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ pointment. With very great respect, &amp;c. your o­
 bedient servant. FRANCIS T. BROGKE,  
 ; President of the Convention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828031001:0456/pct:3.7194473963868226,19.31502622647331,16.654015485046305,7.405121875964209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828031001:0456/pct:3.7295683416831134,19.32188282080291,16.664136430342595,7.40169357879941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ the pro? eeilings and .td&lt;iv -s? and to
 inform wiu *?f y ?ur a|i|HUiiltnent.  
 NN 1 1 h great re qiert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1828031201:0694/pct:19.33486644259685,32.25618292113859,17.26516893684769,10.837610825944937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1828031201:0694/pct:19.340763016687305,32.26396018043241,17.26516893684769,10.833722196298025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ Yr. Ob. St.
 FRANCIS T. BROOKE.  
 President of the Convention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1828031201:0046/pct:1.575299306868305,34.85248789079701,14.7763074984247,12.021136063408191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1828031201:0046/pct:1.5750511891636478,34.84865162355531,14.779230324985562,12.023481929921115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ Your Ob&#x27;t Serv&#x27;t,
 FRANCIS T. BROOKE,  
 President oj the Convention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828031301:0477/pct:57.13668754048802,27.618514893021956,17.922694882314836,13.1310306250874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828031301:0477/pct:57.12435233160622,27.614653243847876,17.92422279792746,13.132690156599553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

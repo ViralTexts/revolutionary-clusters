@@ -120,7 +120,7 @@ sight of alk- I viewed this part of the ad- .tc 10 war&#x27; 11 13 not &#x27;org
 “der ofthe 16th was drawn with a view to the question of our trade  
 ‘‘ with enemies colonies, and that it promises lobe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:35.310868533459896,87.1076069499197,30.208827717133364,1.8250839538618777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:35.30249110320285,87.0948905109489,30.20759193357058,1.8284671532846715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ it promises to be highly satisfactory to out
 commercial interests&quot;—aui as late O^to er,  
 &quot; 1810, the same gentleman, writing as secre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812091501:0848/pct:5.95725329695316,28.205128205128204,23.192360163710777,5.055205766949539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812091501:0848/pct:5.956350409214914,28.202554744525546,23.19389714054764,5.057785888077859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ Republican party tried to raise a tre
 menduous breeze in regard to the or  
 der of the president to distribute th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473455:1887063001:0219/pct:9.085051546391753,21.904417089065895,44.02384020618557,121.19237267680425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473455:1887063001:0219/pct:6.057676816497503,14.60294472604393,29.35395521185758,80.79893796765629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

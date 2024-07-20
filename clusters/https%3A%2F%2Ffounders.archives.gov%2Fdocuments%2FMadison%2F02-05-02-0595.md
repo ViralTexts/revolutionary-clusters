@@ -51,7 +51,7 @@ the like authority for subduing, seiz­
 ing, taking and bringing into port,  
 any Tripolitan veflel, goods or effects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802031601:0043/pct:23.320581484315227,47.17801719877434,16.817138485080335,7.660373628546012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802031601:0043/pct:23.32568222392247,47.181311983130705,16.82223922468758,7.657078844189647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ duing, seizing, taking and bringing
 into port any Algerine vessel, goods  
 or effects, as the beforementione
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815030401:0109/pct:39.45021201930107,85.41209514614236,17.692645123556076,8.557886421486877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815030401:0109/pct:39.44444444444444,85.40459891170792,17.69493177387914,8.560060850740156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -103,7 +103,7 @@ rine vessel, goods or effects, as the before
 mentioned public armed vessels may by  
 law have ; and shall therein be subject t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1815030901:0644/pct:30.99569171852561,16.005788712011576,21.325993298228816,8.379160636758321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1815030901:0644/pct:30.98827470686767,16.003472724641874,21.326872457525724,8.381565620026045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ shall have the like authority for subduing, seiz­
 ing, taking and bringing into port any. Algerine  
 vessel, voods oreffects, as the beforementione
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815032801:0261/pct:56.455331412103746,13.193491472260341,16.354466858789625,4.734365810625367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815032801:0261/pct:56.455331412103746,13.19675880546298,16.364073006724304,4.737633143828008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

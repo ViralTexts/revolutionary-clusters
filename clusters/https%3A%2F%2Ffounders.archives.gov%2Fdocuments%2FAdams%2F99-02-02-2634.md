@@ -413,7 +413,7 @@ wah designs, the imputation of which, in other parts of the world
 has embarrassed the public mind, with respect to the real views of  
 your society JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831093001:0173/pct:39.11007025761124,25.978452066842568,14.258162281305966,5.870712401055409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831093001:0173/pct:39.10468319559229,25.9755963504452,14.26078971533517,5.873731266717965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ putation of which in other paiis of tho world, has em­
 { barrassed the public mind with respect to the real&#x27;views  
 . of your society, JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831112201:0606/pct:20.71309865538601,71.43881208397337,16.392204260462304,11.653865847414234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831112201:0606/pct:20.723170670292593,71.44222563577402,16.392204260462304,11.660692951015532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

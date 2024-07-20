@@ -341,7 +341,7 @@ the common treasury, on or before the firft day of May
 next, to be appropriated to the following purpoles :  
 Civil Department, - - 122,331 Dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785110401:0177/pct:37.929465301478956,13.369713506139155,57.63367463026166,83.09837805062908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785110401:0177/pct:37.94463405384907,13.369713506139155,57.61850587789154,83.11858925774342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ mate.
 As more than two thirds of the sum called for, is to  
 be applied tothe payment of intereit on demeltick debts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785110401:0178/pct:5.955833147445907,51.26012601260126,27.59312960071381,8.625862586258625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785110401:0178/pct:5.970704141571864,51.265126512651264,27.578258606587852,8.620862086208621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ pursuant to such law, on or before the firlt day of Jan.
 next, and shall make report thereof to the board of  
 treasury, and also to the legislature of such state, wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785110401:0178/pct:5.799687709123355,3.0153015301530153,56.88155253178675,93.18931893189318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785110401:0178/pct:5.799687709123355,3.0253025302530254,56.90385902297569,93.1943194319432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ the continental treasury in specie, which, when so paid,
 is hereby appropriated to the redemption of such sur­  
 plus certificates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785110401:0178/pct:35.64577291991969,37.56375637563757,27.169306268124025,25.007500750075007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785110401:0178/pct:35.65320841698268,37.56375637563757,27.19161275931296,25.01750175017502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ of the said certificates of interett, An whereloan ofiice
 certificates iflued after the firit day of March, 17738, thil!  
 be pretented to the loar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785110401:0178/pct:35.64577291991969,70.32703270327033,27.19161275931296,23.282328232823282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785110401:0178/pct:35.65320841698268,70.33203320332034,27.19161275931296,23.287328732873288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1106,7 +1106,7 @@ ganuary next, amounts to 3,700,000 dollars, includ­
 ing the {pecie part of past requisitions ; and this sum  
 is exclusive of and provilion for the domestic debt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786081701:0343/pct:7.2743207712532865,55.986068785372225,26.35845749342682,9.171382963285446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786081701:0343/pct:7.281624306164184,55.990906012673534,26.365761028337715,9.185894645189377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1420,7 +1420,7 @@ That the quotas of the several slates be as follow :
 Indents. Specie.  
 New-Hampthire, - - - * 56,452 76,26
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786082401:0345/pct:6.0613044480294995,28.48722986247544,27.978796957824382,29.106846002720268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786082401:0345/pct:6.0613044480294995,28.48722986247544,27.986479219482217,29.106846002720268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1463,7 +1463,7 @@ commissioner aforefaid, in any state that shall have
 complicd with the requisition, iflue any certificate, or  
 wke any other measure, whereby a discrimination may
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786082401:0345/pct:6.130444802949988,73.22049267039444,28.11707766766536,23.424512619011637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786082401:0345/pct:6.130444802949988,73.23056772958542,28.132442190981024,23.41947508941615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1543,7 +1543,7 @@ conformably to the refclution of Congress of the 28th
 June, 1730, and the interest thall be ascertained and  
 fetfled agreeably to the specie value of the certificates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786082401:0345/pct:36.02212491357456,26.870182862324317,28.163171237612353,50.7934109112891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786082401:0345/pct:36.03748943689022,26.870182862324317,28.163171237612353,50.808523500075566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1693,7 +1693,7 @@ Interest on Loan Office Certificates, and
 upon the other certificates of the liquidated  
 Debts of the United States, in such Manne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1787112101:0091/pct:34.67819404418828,82.91149443817508,26.200768491834776,5.481218765113654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1787112101:0091/pct:34.67819404418828,82.91686818206244,26.21677873839257,5.486592509001021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1913,7 +1913,7 @@ with Great Britain. Pray tell me, h i* ho dropl his de­
 mands, or duos ho still continue to worry you with  
 thum?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829072801:0093/pct:49.73645680819912,58.17187143834055,15.475841874084919,5.744244358331434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829072801:0093/pct:49.72917581613234,58.16524216524216,15.478456058166204,5.747388414055081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1932,7 +1932,7 @@ than now appears to have been the
 case.  
 Cremated by their own Carelessness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588290:1885071801:1048/pct:65.57883131201764,95.59757942511347,18.456449834619626,4.508320726172466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588290:1885071801:1048/pct:50.83452007974936,74.09622073709305,14.292224437482199,3.4900535428147106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1971,7 +1971,7 @@ contingencies, $94,294,65; for &#x27;Indian
 affairs, $6,000; for the department of  
 the geographer, $8,9o3; total, $442,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289432:1886090801:0190/pct:39.83346243222308,123.36336336336336,15.898528272656856,3.4084084084084085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289432:1886090801:0190/pct:29.885725353476662,92.52252252252252,11.931047840402867,2.5675675675675675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1990,7 +1990,7 @@ contingencies, §94,294.65; for Indian
 affairs, $6,900; for the department of  
 the geographer, $8,953; total, $442,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664496:1886091101:0048/pct:44.0064242955176,30.640970116933737,11.724339319608703,2.403637938501516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83035386:00211664496:1886091101:0048/pct:44.01129118606123,30.640970116933737,11.724339319608703,2.403637938501516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

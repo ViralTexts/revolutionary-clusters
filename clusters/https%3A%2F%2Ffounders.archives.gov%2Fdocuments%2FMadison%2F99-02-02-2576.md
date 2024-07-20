@@ -92,7 +92,7 @@ sealed and delivered the same, an*! I ha i
 der our hands aud seals this-- day 1  
 of-• 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1838050101:0688/pct:38.33255159474672,84.29559406325278,15.701219512195122,6.099930064496076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1838050101:0688/pct:38.32805721655528,84.28904428904428,15.703286825340994,6.102046102046102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ ed, sealed, and delivered the satae, and that she wish­
 ed not to retract it. Given under our hands and  
 seals this ——— day of ————
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1838051601:0865/pct:23.417049876193847,12.163561076604555,14.449946940219315,4.257246376811594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1838051601:0865/pct:23.422945407381206,12.163561076604555,14.455842471406674,4.261559696342305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ knowledgment, and declaration, shall he cer-
   
 tified by such justices under their hands an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838051901:0335/pct:34.739975485904395,19.89494418910046,42.75958676238837,4.333552199606041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838051901:0335/pct:34.739975485904395,19.89494418910046,42.78293352010739,4.346684175968483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ for Terriuuv. kc.1 of . do hereby certify that
 E F the wli of C U. r.ar7 to a cfain deed bear  
 ing dale on the dav of and hereunt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838051901:0163/pct:22.66355140186916,116.47498960787031,19.8208722741433,10.849383400304836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1838051901:0163/pct:17.00428515777172,87.36317029236525,14.881184261784185,8.133573506997367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ sealed, and delivered the same, and that she wish-
 ed not to retract it. Uiven under our nanus and  
 seals this day of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838060601:0092/pct:26.135726303982054,107.30521316295375,21.116096466629276,12.959402917561913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838060601:0092/pct:19.610043484359657,80.48173696709262,15.850750455884416,9.725206377926042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ not to retract it; and such privy examination,
 ‘acknowledgment, and declaration, shall be cer­  
 tified by such justices under thrir hands an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838060601:0610/pct:2.217206585236325,83.61073037008028,14.869888475836431,4.572155864499706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838060601:0610/pct:2.217206585236325,83.61073037008028,14.88316516197557,4.578682853599634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ or parcel of land situated as follows, to-wit:
 A strip of land sixty (60) feet wide,  
 through Out-lot one hundred and thirtee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053942:00295873206:1876111401:0049/pct:43.12617702448211,83.16540246801766,16.39987445072191,4.992641231744594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053942:00295873206:1876111401:0049/pct:32.354788069073784,62.379712441978945,12.307692307692308,3.747311219291294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ first part in consideration of the sum to be hereinafter mentioned paidby the sa
 second part, the receipt of which is hereby acknowledged, do by these presents, grant bar  
 gain and sell unto the said party of the second part, the following described goods lying, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535659:1888102801:0530/pct:175.0943396226415,54.07202216066482,202.9433962264151,27.03601108033241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535659:1888102801:0530/pct:43.77358490566038,13.518005540166206,50.735849056603776,6.759002770083103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ my hand and affixed the seal of said Court,
 at my office in the County of San Diego,  
 the day and year in this certificate tirs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104314:1896062001:0857/pct:70.72697003329634,96.92291753004558,17.702552719200888,9.003315375051804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilachub_ver01:data:sn84021912:00211104314:1896062001:0857/pct:47.16902581182348,64.61873186904269,11.809603108520678,5.998756734355574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ Broadway Department Store, 4th and Broadway streets, Los Angeles, Cal., the part
 the receipt whereof is hereby acknowledged, do by these presents grant, bargain, sell and convey unto the  
 said party of the second part, his heirs, administrators and assigns, all of a certain stock of Men&#x27;s, Ladies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:0028076968A:1896082501:0644/pct:58.856808427623875,23.68460277239529,35.01755754974639,3.502757489938888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:0028076968A:1896082501:0644/pct:58.871439719079206,23.69578178566105,35.02243464689817,3.502757489938888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -128,7 +128,7 @@ ends of civil policy, by substituting l ,‘n ? in place
 &quot;(taw, or |lit; destructive ,of the word in  
 place of the mild and saint.ny •&gt; rrl »/t of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348847:1833021801:0208/pct:34.01664298761924,15.276774100303513,15.689060280089304,6.937418702124584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348847:1833021801:0208/pct:34.00974025974026,15.27456647398844,15.690949675324676,6.940028901734104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ distingnished from individuals, as it is a
   
 solecism in theory, so in practice it is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:144.96644295302013,118.05953693495039,37.82794386821232,7.982359426681367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:36.252670125114435,29.514884233737597,9.459871833994507,1.9955898566703418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

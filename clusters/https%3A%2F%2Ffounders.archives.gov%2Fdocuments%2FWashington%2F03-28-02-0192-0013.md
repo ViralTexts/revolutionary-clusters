@@ -122,7 +122,7 @@ very ref{petfully, your Excellenty’s
 most obedient humble servant,  
 B. ARNOLD
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0437/pct:5.9225011008366355,1.314041045327034,58.938793483047114,91.82046360549239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0437/pct:5.929840011742257,1.3238840494118804,58.94613239395274,91.82046360549239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ obedient and moat tnmhle servant.
   
 “B. APROLS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868111801:0002/pct:31.310319227913883,92.42378959952181,9.187082405345212,4.243873281530186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868111801:0002/pct:31.324239049740164,92.43126120741184,9.187082405345212,4.251344889420203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ I have the honor to be your excellency&#x27;s most
 obedient and most humble servant.  
 „ B. Arnold
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171554:1868111901:1106/pct:20.672713529856388,88.54802887284842,14.323507180650038,6.95446973903387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171554:1868111901:1106/pct:16.026360751769587,68.63300580936671,11.09592384671711,5.386215305171054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ I have the honor to be your Excellency’s
 niost obedient and most humble servant.  
 - B. Arnold
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347247:1868112601:0398/pct:8.294991455238597,81.53190604863853,12.107269620086763,8.012887133652047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347247:1868112601:0398/pct:8.293901156677181,81.52343344071495,12.110059586400281,8.015518376112786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ has ever been the Governing rule of my conduct in this
 unhappy contest.  
 I have the honor to be your Excellency&#x27; most o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1868112801:0524/pct:0.9302325581395349,332.36117248490206,75.89147286821705,13.07998232434821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1868112801:0524/pct:0.2326934264107039,83.09029312122551,18.983905371339926,3.2699955810870525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

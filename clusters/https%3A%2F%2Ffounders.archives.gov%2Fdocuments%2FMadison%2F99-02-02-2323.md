@@ -818,7 +818,7 @@ and was the one to whom James Madison accredited
 the finish given to the style and arrangement of the  
 constitution of the United States. Both of these per-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743646:1868122001:0916/pct:53.91190006574622,244.32196578252382,45.66074950690335,5.1555861752210355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743646:1868122001:0916/pct:17.97063335524874,81.44065526084128,15.220249835634451,1.7185287250736785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -947,7 +947,7 @@ mise was contemplated, such as finally took place.
 The compromise which was agreed upon in this  
 Committee was based on a motion made byFrank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899100801:0718/pct:184.1246290801187,35.140073081607795,50.14836795252226,21.132764920828258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899100801:0718/pct:46.031157270029674,8.785018270401949,12.537091988130564,5.2831912302070645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -985,7 +985,7 @@ A better choice could not have been made,
 as the performance of the task proved.&#x27;  
 The talent and taste of the author wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899111001:0607/pct:70.97836312323612,89.92292649258023,13.232988397616808,2.7493385482572186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899111001:0607/pct:70.9888157207066,89.92676099543694,13.232988397616808,2.753173051113923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1009,7 +1009,7 @@ ot the author wee stamped Ol the face
 of It While the constitution dIdnot  
 meet with Mr Morris approval in a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534266:1899111001:0094/pct:66.37624466571835,18.33056372235715,39.31365576102418,126.14086667518855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534266:1899111001:0094/pct:44.264627423083766,12.220375814904768,26.2137648941846,84.09817205675571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

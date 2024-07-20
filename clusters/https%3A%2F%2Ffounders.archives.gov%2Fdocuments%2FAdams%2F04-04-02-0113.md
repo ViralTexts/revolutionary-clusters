@@ -114,7 +114,7 @@ And leaves me poor indeed.&quot;
 But, sir, really I do not thi k that my character  
 for veracity or for honeaty will be injured by wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863090901:0243/pct:325.9113300492611,302.22560395662924,49.75369458128079,13.924291420962525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863090901:0243/pct:81.5380823268425,75.55640098915731,12.447621395119546,3.4810728552406314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ But he who filches from me my good
 name takes that which enricheth not  
 him, but makes me poor indeed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn92070445:0029602496A:1885110501:1000/pct:25.459317585301836,329.9318697956094,196.06299212598427,45.42013626040878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn92070445:0029602496A:1885110501:1000/pct:6.366221833296872,82.48296744890234,49.02647123167797,11.355034065102195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ which not enriches him but makes mo
 poor indeed.&quot;  
 The Cincinnati Commercial Gazett
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060190:00211103863:1891111401:1579/pct:12.138475021910605,40.49261083743843,22.042068361086766,4.9964813511611545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060190:00211103863:1891111401:1579/pct:9.12080684060513,30.372976776917664,16.55338741504056,3.757916959887403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ riches him not, but leaves me poor
 indeed.&quot;  
 But can a man from bis dar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn84025891:00211102913:1892052801:0598/pct:46.8372627947096,107.4992055926279,16.0149511213341,5.84683825865904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn84025891:00211102913:1892052801:0598/pct:35.15029483676111,80.62705221904459,12.009204659859053,4.385128693994281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

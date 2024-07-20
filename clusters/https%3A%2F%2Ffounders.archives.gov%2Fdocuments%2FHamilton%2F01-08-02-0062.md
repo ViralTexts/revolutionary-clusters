@@ -44,7 +44,7 @@ journment on Friday.
 Your most obedient servant,  
 A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841081001:0833/pct:50.10634526763559,21.138626499872352,15.402339595887984,7.08450344651519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841081001:0833/pct:50.11816140848399,21.14713641392222,15.408247666312182,7.08450344651519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +65,7 @@ at any time while Congress are silting, it will be i;
 time.&quot; It is well known that General Washing:-.  
 entertained great doubts upon the constitutionalit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841081301:0397/pct:83.38638775200849,26.194052267948333,15.219038957101713,3.314308601181536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841081301:0397/pct:83.38638775200849,26.197389940255665,15.229144560658886,3.3176462734888688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ journuient on Friday.
 Your most obedient servant,  
 A. HAMILTON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841081401:0102/pct:3.5189309576837418,15.924657534246576,16.169265033407573,7.202482876712328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841081401:0102/pct:3.5288294976490966,15.931792237442922,16.169265033407573,7.202482876712328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ With perfect respect, sir.
 Your most obedient servant,  
 A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841082101:0522/pct:107.3447118074986,65.93613762224578,19.59988808058198,11.228938376340285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841082101:0522/pct:80.53456479149175,49.45210321668434,14.707528687377554,8.424649463885943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ adjournment on Friday.
 sir, your most obedient servant,  
 A. Hamilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1841082801:0301/pct:9.438377535101404,103.2218471923903,18.681747269890796,9.97238416692237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1841082801:0301/pct:7.082926829268293,77.41638539429273,14.029268292682927,7.486959189935563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ I have the honor to be, with perfect respect,
 Your most obedient servant,  
 A. HLAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841111201:0319/pct:75.61597281223449,256.72758670312277,59.218351741716226,23.77320477766585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841111201:0319/pct:18.91604675876727,64.18189667578069,14.814027630180659,5.943301194416462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ With perfect respect,
 Your most obedient servant,  
 A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016922:00200292108:1841111301:0006/pct:76.81858019281333,53.89296302075207,22.787028921998246,14.417225776252145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016922:00200292108:1841111301:0006/pct:57.637519175980714,40.427523794663756,17.094017094017094,10.812919332189109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ daya exelusive of that on which the bill was delit
 to you, and Sundays; hence, in the present  
 case, if it is returned on Friday, it will be in time.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848120601:0657/pct:246.78884203697697,18.424324629818017,49.983782030489785,5.12037978975924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848120601:0657/pct:82.26294734565899,6.1414415432726726,16.661260676829926,1.7067932632530802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ that ou which the bill was delivered to you, ar-&#x27;l
 Sundays, hence, in the present cose, if it is returned  
 on Friday, it will be in lime.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848120601:0293/pct:45.84615384615385,6.864920846279035,18.674556213017752,2.2784435567391625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848120601:0293/pct:35.530418832161416,5.327931508943586,14.472638336900031,1.7657850481577742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ and Sundays; hence, in the present case, if it
 is returned on Friday, it will be in time.&quot;  
 By this construction, which the Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848120701:1019/pct:166.70278078728782,339.0810531750129,48.69989165763813,10.544656685596284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848120701:1019/pct:41.66817115002708,84.75932378371402,12.172774869109947,2.6358239772873917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ and Hwil&#x27;-vs j hence, in the present case, if it is returned on
 b riday it will be in time.&quot; l)y this construction, whic&#x27;i the  
 President idopted, he gamed another day for deliberation, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848120901:0421/pct:49.08064282611843,64.28332403792527,15.708701317503982,2.6993865030674846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848120901:0421/pct:49.08064282611843,64.29076036437999,15.71352733941412,2.6993865030674846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ you have ten days inciusive of that on which the bill was
 delivered to you and Sundays. Hence, in the present, if it  
 is returned on Friday it will be in time.&quot; By this constru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848120901:0443/pct:200.0,166.90866115144354,58.224543080939945,6.415667735944623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848120901:0443/pct:50.00544010445,41.727165287860885,14.557719508214557,1.6039169339861556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ which the bill was delivered o you, and Suxul:xyn;
 henee, in the present ease, if it 13 retaened on Fri­  
 day, it will &#x27;w in time.” By this construction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848120901:0908/pct:31.163987138263664,86.40177939540997,12.295819935691318,2.001819836214741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848120901:0908/pct:31.172561629153268,86.4051494624743,12.295819935691318,2.00855997034341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ of that on which the bill was delivered to you, and Sun
 days; hence, in the present case, if it is returned on Fri  
 day, it will be in time.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848121101:0153/pct:257.46956842493546,67.31763354394026,59.9225378089266,7.883400344629523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848121101:0153/pct:64.35552277337267,16.826992103374014,14.977872026553568,1.9705671213208902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ the present case, if it is returned on Friday it will be in
 time.” By this construction which the President adop­  
 ted, he gained another day for deliberation, and it wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848121201:0412/pct:52.3363117035301,73.60531106114145,14.559835945510473,2.6448227861655424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848121201:0412/pct:52.34119427762316,73.60531106114145,14.554953371417412,2.6483920476853338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -703,7 +703,7 @@ ten days exclusive of that on which the bill was deliv­
 aredfo you, and Sundays: hence, in the present case,  
 If it is returned on Friday, it will be in time.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1848121301:0418/pct:7.439493949394939,53.6655030149159,19.746974697469746,2.316724849254205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1848121301:0418/pct:5.584594222833562,40.25177192425685,14.814305364511691,1.7348989738707288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ I inn that you have leu days exclusive of that on
 j hence, in the present ease, if it is returned on Fri- |  
 j day it will be in lime.” By this construction, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848121301:0202/pct:48.74854481955762,38.27520466524616,14.871944121071012,2.534484692161041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848121301:0202/pct:48.74145205878074,38.270912760708676,14.874630195450798,2.5379382522239666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ that on which the hill was delivered to you. and
 Sundays; hence, in the present case, if it is re­  
 turned on Friday, it wiil bo in time. By thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848121401:1001/pct:90.04702194357367,49.005108900242,17.75078369905956,3.670341489647755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848121401:1001/pct:67.56174049392395,36.75719279376177,13.328106624853,2.7561172358160797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -782,7 +782,7 @@ the bill was handed to you, and Sundays.
 Hence, in the present case, if tt is returned  
 on Friday, it will be in time.&quot; By this con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1848121501:0282/pct:71.51561309977151,361.4810562571757,50.03808073115004,10.332950631458095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1848121501:0282/pct:17.885714285714286,90.37026406429392,12.514285714285714,2.5832376578645238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -801,7 +801,7 @@ on wh&#x27;ch the bill was delivered to you. and Sun­
 days. Hence in the present case, if it is re­  
 turned on Friday, it will be in time. By thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848121501:0645/pct:7.951945080091533,70.37540805223068,19.164759725400458,3.686071817192601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848121501:0645/pct:5.969864581346557,52.78835690968444,14.381079534617585,2.761153427638738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -849,7 +849,7 @@ which the bill was delivered to you, and Sun­
 days; hence, in the present case, if it is returned  
 on&quot; Friday, it will be in time.&quot; By this construc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1848121601:0204/pct:69.37028438769588,50.71716718960108,20.414973882762624,3.227252353204841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1848121601:0204/pct:52.0539991290463,38.04347826086956,15.328785019596458,2.4204392649036306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -870,7 +870,7 @@ which the bill was delivered to you, and Sun­
 dayss hence in the prescut cnsu,f it inreiurii  
 on Friday, it will be in time.&quot; By thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848121601:1260/pct:21.04391052195526,117.8679588128407,59.817729908864955,12.780133252574197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848121601:1260/pct:5.262067536772323,29.466989703210174,14.957530557281956,3.1950333131435493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -964,7 +964,7 @@ sent case. If it is returned on Friday, it
   
 will be in time.&quot; By this construction,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1848122101:0051/pct:5.785939968404423,77.97742089362379,19.115323854660346,4.70663062490062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1848122101:0051/pct:4.345249851866482,58.48306567021784,14.339324511159392,3.529972968675465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1004,7 @@ that on whica »hc bill was handed to vou.and Sun­
 days. Hence, in the present case, if it is returned  
 on Friday.it will be in time.&quot; By this construc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1848122301:0637/pct:63.80636404765495,78.16870144284128,14.658422560699744,3.118756936736959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1848122301:0637/pct:63.80636404765495,78.17240103588605,14.673503242346554,3.126156122826489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1024,7 +1024,7 @@ banded to you, and Sundays. iHenoe, in
 the present case, if it is rtttttrofd^ooFri­  
 day, it will be i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848122601:0172/pct:83.68278419626301,90.60916563450061,12.85123377549565,3.366737979957212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848122601:0172/pct:83.68753862977226,90.61667229666328,12.85123377549565,3.366737979957212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1043,7 +1043,7 @@ was delivered to you, and Sundays. Hence,
 in the present case, if it is returned on Fri  
 day, it will bo in tiino.&quot; - By this constru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1848122601:0768/pct:57.06781279847183,39.5123476086277,21.895893027698186,4.204438887152235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1848122601:0768/pct:42.83325370281892,29.634260706470773,16.43573817486861,3.15723663644889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1097,7 +1097,7 @@ ered to you, and Sundays; hence, in the
 present case, if it is returned on Friday it  
 be in time.&quot; By this construction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849010501:0207/pct:14.07211961301671,339.3687953770929,222.69129287598943,27.20403022670025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849010501:0207/pct:3.5203520352035205,84.84219884427323,55.70957095709571,6.801007556675063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

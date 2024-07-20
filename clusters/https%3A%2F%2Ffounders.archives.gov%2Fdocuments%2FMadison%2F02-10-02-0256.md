@@ -175,7 +175,7 @@ posed to justify the most dangerous measures, and
 where they do not suit exactly, the defect is supplied  
 by analogy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1843092301:0013/pct:11.890871654083734,28.440366972477065,13.177762525737817,1.7693315858453473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1843092301:0013/pct:11.88883170355121,28.436640020967108,13.179790701664093,1.7723758354082033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ trine. Examples are supposed to justify the most dan­
 gerous measures, and where they do not suit exactly, the  
 defect is supplied by analogy. He assured, that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850041001:0535/pct:50.9228021432824,42.43293645101133,14.407620559634848,1.2767178310142018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850041001:0535/pct:50.91269841269841,42.42685025817556,14.409722222222221,1.2801204819277108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ justify the most dangerous measures, and where
 they do not suit exactly the defect is supplied by  
 analogy. Be assured that the law which protectsu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn83025760:00415620202:1863091901:0122/pct:66.54563059791818,45.73668735707285,28.87920600338901,4.508330610911467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn83025760:00415620202:1863091901:0122/pct:66.56176874041797,45.74757704453882,28.87920600338901,4.508330610911467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ justify the most dangerous measures, and where
 they do not suit exactly the defect is supplied by  
 analogy. Be assured that the law which protect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863092501:0306/pct:12.563276576161988,308.6803105151729,49.976990335941096,7.198306280875088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863092501:0306/pct:3.141542002301496,77.17007762879322,12.497123130034522,1.799576570218772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ ous measures, and where they do not suit ex
 actly the defect is supplied by analogy. Be  
 assured that the law which protects us in o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1863092801:0915/pct:83.11567164179104,260.2547999282254,57.46268656716418,8.612955320294276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1863092801:0915/pct:20.793465577596265,65.06369998205635,14.375729288214702,2.153238830073569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ is doctrine. Examples are supposed to justify
 the most dangerous measures, and where they  
 do not suit exactly, the defect is supplied b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082301:0240/pct:64.28571428571429,255.96570612050488,42.546583850931675,3.9056918313884257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082301:0240/pct:16.076421248835043,63.99142653012622,10.63995029512271,0.9764229578471064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ justify the most dangerous measures, and
 where they do not suit exactly the defect isupplied  
 by analogy. Be assured that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:0041566364A:1871042001:0397/pct:49.89503149055283,86.05293221629856,18.13855843247026,2.6370906321401373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:0041566364A:1871042001:0397/pct:49.90436202472591,86.05927900482357,18.133893165383718,2.6370906321401373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ and where they do not suit exactly, the
 defect is supplied by analogy. Be as­  
 sured that the laws which protect us i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293502:1874092301:0296/pct:6.198347107438017,118.20987654320987,14.285714285714286,3.009259259259259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293502:1874092301:0296/pct:4.649446494464945,88.6574074074074,10.730627306273062,2.259700176366843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ do not suit exactly the defect is
 supplied by anology  
 That sentiment is as true today a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:00206535866:1882031401:0572/pct:62.653751537515376,123.16693505099302,19.880073800738007,4.8631239935587764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:00206535866:1882031401:0572/pct:41.780716592341996,82.11129003399535,13.255420575119176,3.2420826623725176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ the most dangerous measures; and where
 they do not suit exactly, the defect is sup­  
 plied by analogy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035539:1883090901:0103/pct:29.577227556004715,41.04108928786601,13.154791982482735,2.3376310398843234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035539:1883090901:0103/pct:29.577227556004715,41.045105836044506,13.16040649037112,2.333614491705828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ most dangerous measures, and where
 they do not suit exactly the defect i  
 supplied by analogy.&quot; These are glo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn95068565:00280779192:1884010901:0401/pct:17.51886001676446,172.95070712618426,53.227158424140825,10.16064808458053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn95068565:00280779192:1884010901:0401/pct:4.379715004191115,43.237676781546064,13.306789606035206,2.5401620211451323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

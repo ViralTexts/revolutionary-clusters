@@ -216,7 +216,7 @@ rial limits of the United States; but an increase and perpetu
 ation of the slave power, not contemplated by the Constitus  
 tion, and well caiculated to break up the foundations o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530194:1844032201:0620/pct:7.206598161168199,87.33600074439379,49.06706327744727,11.50088396761887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530194:1844032201:0620/pct:2.4021993870560663,29.112000248131263,16.355687759149088,3.83362798920629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ principles contained in the resolutions of the last
 session; and further, if the provisions contained  
 in any proposed constitution of a new State den
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031701:0271/pct:2.789438050101557,54.60135708227311,13.215978334461747,2.385496183206107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031701:0271/pct:2.789438050101557,54.60842521911224,13.229519295870007,2.3890302516256714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

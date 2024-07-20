@@ -121,7 +121,7 @@ given by the ewner Of ow ris, or by
 the m&#x27;afti r or coroinatider, to the ufe of  
 the United in a mm equal t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804120301:0003/pct:2.143335565974548,73.9411847474321,18.642554141549454,11.622344167721964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804120301:0003/pct:2.143335565974548,73.9411847474321,18.67232269107688,11.631724590779044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ on by the owner or owners, or by the master orcom­
 mmider, to the use of the United States, in a sum  
 C&#x27;d&#x27;.-d to double the value of said verse!, conditione
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120301:0245/pct:51.058337635518846,39.70375140879086,21.863706763035623,6.649492835292223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120301:0245/pct:51.04516129032258,39.6973599484868,21.864516129032257,6.652446877012235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ not&#x27;only all vessels employed to and from the West­
 Indies, but also those trading .to South Pacifick,  
 North West Coast, and along the West Coast o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804121901:0269/pct:29.231954790649883,77.26829268292683,22.245055227331108,14.65040650406504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804121901:0269/pct:29.224447868515664,77.25573077548366,22.24576271186441,14.652089091204681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ shall he returned within the United States, or other­
 wise accounted tor, and ahull not be real or disposed  
 of in any foreign port or place m the West-Indies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804123101:0285/pct:72.99176107106076,66.89243670375745,22.064881565396497,18.658280922431867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804123101:0285/pct:72.97297297297297,66.88165108029668,22.065637065637066,18.659303450499838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ hree years.
 Sec. 3. And be it further enacted, That if any  
 armed vessel, as aforesaid, shall proceed to sea with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804123101:0285/pct:73.24922760041194,96.30704725044347,21.987641606591144,1.8222867279471053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804123101:0285/pct:73.23037323037323,96.29151886488229,21.98841698841699,1.8260238632699128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ bund, with two‘surtic ent sureties beiny
 given by She owner or owners, or by ih&lt;  
 master or commander, t« the u-:e of ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805010501:0013/pct:57.93666213328152,21.169036334913113,17.893918787643287,7.925223802001053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805010501:0013/pct:57.925407925407924,21.166249835461365,17.8969178969179,7.928568294502216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ bond, with two sufficient sureties bein&#x27;*
 mns.rr or commander, Vo the use c  
 L nitcd States, i a sum equal to t)ou\A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805010501:0013/pct:76.4328735185545,48.03844128488678,18.107635515834467,5.252764612954186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805010501:0013/pct:76.41802641802641,48.03211794129262,18.11059311059311,5.256460883682156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ j may be fi armed, or provided, wir
 twofuffi(.ie&gt;it fureties, :.  
 given by the owne&lt; or 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805011101:0001/pct:78.61080485115767,11.515912897822446,19.38257993384785,12.92573981016192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805011101:0001/pct:78.61815509004043,11.520565791922575,19.375229694965086,12.92573981016192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ nition, tackle, apparel, and furniture,
 or the value thereof, fhall be fotfeitid to  
 the ufe of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805011101:0001/pct:79.27232635060639,55.108877721943045,18.191841234840133,6.309324399776661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805011101:0001/pct:79.27967658948916,55.108877721943045,18.191841234840133,6.327935976177182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ out bond, with two fufficient fureties being &#x27;.-i­
 ven by the owner or owners, or bv die ,rafter  
 or commander, to the ufe of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805011101:0309/pct:77.90551463984193,43.436605698643774,17.406143344709896,8.585293019783501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805011101:0309/pct:77.89152298850574,43.43120179149042,17.409003831417625,8.588371900140997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ er or owners, or by the mnffer or commander,
 totlie ufe of the United States, in a fum equal  
 to double.the value of fa id vcfTM, conditione
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805011101:0310/pct:4.537205081669692,32.02606189700539,17.531760435571687,8.08169402330535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805011101:0310/pct:4.536381781890764,32.02204961162616,17.53462771426843,8.084857596258248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ frl (hall he returned within the United States, or o­
 therwife accounted for, and fhall not he fold or dif­  
 l sled oi in any port 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805011801:0318/pct:4.840182648401827,21.970455683525287,17.552511415525114,13.5828743114672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805011801:0318/pct:4.839298758217677,21.96770559519339,17.55539323106891,13.585346518129095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ with her arms, ammunition, tackle, apparel and
 in: .liture, or the value thereof, luali be forfeited to the  
 ufe of tlie United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805011801:0318/pct:4.840182648401827,45.480721081622434,17.442922374429223,3.5928893340010015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805011801:0318/pct:4.839298758217677,45.47502816372512,17.44582420258096,3.596612008177911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ returned within the United States, or otherwise ac­
 counted for, and shall not be sold or disposed of in  
 any port or place in the West-Indies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805012101:0314/pct:26.25,1.7529621814640481,46.041666666666664,94.56257101119948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805012101:0314/pct:26.243165842228585,1.7526777020447906,46.03618849258006,94.55128205128206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ such vessel, with her arms,- ammunition, tackle, ap­
 parel, and furniture, or the value thereof, -hull be  
 forfeited to the use of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805012101:0314/pct:49.557291666666664,20.90569712708976,22.109375,3.5221554942379485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805012101:0314/pct:49.54438948190575,20.902304446608245,22.110127570945068,3.5256410256410255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -734,7 +734,7 @@ returned Within the Ucited Stales, or o­
 sold or disposed of in *:iy pott ur place m  
 the XVeat 1 tidies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805012301:0035/pct:76.84189955051788,29.774535809018566,20.050811022083252,22.214854111405835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805012301:0035/pct:76.82688550214928,29.770587455244662,20.053406278494204,22.216328515227865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ i rt:]\ “nd ’&quot;fnituce, or the value thereof.
 , shall he .forfeited to the use wfthe United  
 \ States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805012301:0035/pct:76.84189955051788,67.29442970822281,18.93687707641196,5.954907161803714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805012301:0035/pct:76.82688550214928,67.28550590107413,18.9396899830663,5.9585377712947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ ufe of the United States, i-i a fom equf.l
 to double the value oi faid velf:l, h.r  
 arm*, ammunition, tackle, apparel and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031101:0002/pct:79.79217333628122,78.48118839372484,19.65509617510502,19.630709426627796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031101:0002/pct:79.79954307612941,78.49044379656624,19.67720539464957,19.635337128048498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -922,7 +922,7 @@ of the Senate, pro trmpoie.
 March 3, 1805—Aprovko,  
 TH : JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031101:0003/pct:1.481317709484855,1.4577259475218658,19.27923944284767,52.99180896848535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031101:0003/pct:1.496057189181222,1.4669813503632745,19.28660918269585,52.99180896848535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -962,7 +962,7 @@ oilier A ! -a accounted me, and -hid n,tin,■ ..;-(iis­
 ;r i-.&#x27; of in any p at ir p! me in Ye W, &#x27;-iiif-,  
 which le nd n: ... ho rum! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031501:0402/pct:3.8970962812022414,30.75174541321643,21.98166072338258,15.570709530767981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031501:0402/pct:3.896103896103896,30.746753246753247,21.98242933537051,15.57224025974026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1087,7 +1087,7 @@ JOS. ANDERSON,
 i March 3, 1805 — Approved,  
 THi JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805032701:0118/pct:3.246376811594203,2.2017139090309823,37.02415458937198,96.05800922874094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805032701:0118/pct:3.2457496136012365,2.201423675191142,37.02344152498712,96.04974075050532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1159,7 +1159,7 @@ that fuch veCei (h I&lt; not proceed to any I Hand ;
 in the Welt Indie*, or&#x27;pore on the continent  
 as afordiid. unlei&#x27;s co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045636:00332895060:1805040101:0602/pct:5.752933507170796,30.762213663085344,22.45762711864407,40.98925603081289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045636:00332895060:1805040101:0602/pct:5.751996089294444,30.75909597648728,22.458041388300472,40.98763555285294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1596,7 +1596,7 @@ Speater of the Hinfe of Reprefontatives.
 - President of tée Senate pro tempoik,  
 Meaich 3, 18cs—ArprovE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805042301:0065/pct:59.99067019126108,2.753565768621236,34.47364329031255,91.24405705229793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805042301:0065/pct:59.99585341833826,2.7601690438457473,34.47882651738973,91.23745377707343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1623,7 +1623,7 @@ sident elsewhere, until the owner or employer for the
 •voyage or his factor or agent, with the master, and  
 one or more sufficient surety or sureties, to the satis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806020301:0939/pct:9.01401643305945,83.55315429842682,21.967133881101983,7.754648021611314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806020301:0939/pct:9.011838608359508,83.53987925007944,21.967866634452765,7.7573879885605335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1667,7 +1667,7 @@ employer for the voyage, or his factor
 or agent, with the master, and one or  
 more sufficient surety or sureties, to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806020501:0001/pct:22.188581314878892,74.30120984564039,18.403979238754324,19.844249756640245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806020501:0001/pct:22.202998846597463,74.3058452695499,18.389561707035757,19.844249756640245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1725,7 +1725,7 @@ establish tor the govt, of the convoy.
 The nth section limits the duration of the  
 bill to a year, and from thence to the end o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021601:0369/pct:76.59960123255392,36.52278177458034,18.742069965560994,7.601918465227818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021601:0369/pct:76.58571946357375,36.51840306917636,18.744714268454754,7.605003396874875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1743,7 +1743,7 @@ guns and amnnition, See. shall not be used
 for any unlawful purposes, but merely tor  
 resistance and defence in the cases autho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810021601:0060/pct:24.008119579258167,84.70948012232417,17.217198745155933,2.2426095820591234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810021601:0060/pct:24.00369003690037,84.69868773092114,17.22017220172202,2.2465706884104133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1772,7 +1772,7 @@ case sutlmiilWM specified iu tbit nrtijfcntl that.
 tbetaid guns, artft# «nd amKiiiticir *&gt;f sncfc ship or  
 w^isbalt beretorftcd within tb* t’nit&amp;l Stoles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810030201:0955/pct:51.691542288557216,2.3728813559322033,42.93532338308458,93.94673123486683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810030201:0955/pct:51.67868689380751,2.3724983860555198,42.9308629694106,93.93560361523564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

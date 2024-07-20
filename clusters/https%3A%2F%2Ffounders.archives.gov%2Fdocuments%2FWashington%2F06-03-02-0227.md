@@ -46,7 +46,7 @@ j or merits, that they are entitled to the oecupan­
 ) ey of tilt the offices in the gift of their govern­  
 ment. * * * 1 am, &amp;e.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845011001:0043/pct:23.519426631459826,29.95302569770655,14.447378347793286,6.866537717601547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845011001:0043/pct:23.525713567207344,29.962236345215068,14.459952219288319,6.871143041355808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ experience or merit, that they are entitled
 to the occupancy of all offices in the gift of  
 th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845022801:0597/pct:316.65182546749776,132.66774335633534,61.175422974176314,26.604022904125678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845022801:0597/pct:79.21586099353976,33.166935839083834,15.30407663176654,6.6510057260314195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ edly of the Know Nothing kind :
 . ploy aliens, w here it cm well be avoided,.  
 either in the civil or military walks of life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1854112401:0278/pct:3.7285607755406414,122.65350284014066,17.841163310961967,4.422504733567758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1854112401:0278/pct:2.7974636329727716,91.99350824993238,13.390525923162999,3.3134974303489315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ ment.&quot;
 Such is the language of our great Wash  
 ington. If the people of this country ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1854120101:0400/pct:79.20014609203798,64.65222348916761,16.4536157779401,13.255416191562144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1854120101:0400/pct:59.426379247351115,48.48916761687571,12.349287541103397,9.948688711516533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ and justly, that they are entitled to the oc­
  cupancy of all the offices in the gift of their  
 government.A G. Washinaton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854122101:0466/pct:13.108614232209737,320.0657444185728,54.157303370786515,26.188193398164636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854122101:0466/pct:3.2777673721670726,80.0164361046432,13.54186177186739,6.547048349541159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ countrymen, who conceive, and justly, where there
 is no great preponderance of experience or merit,  
 that they are entitled to nil the offices in the gif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012201:0242/pct:34.851936218678816,82.43482662617059,15.755504935459378,5.504935459377373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855012201:0242/pct:34.85826373070109,82.43904496751877,15.755504935459378,5.509153800725555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ cede, and justly, where there is no grest prepon­
 derance of experience or merit, thst they sre en­  
 titled to all the offices In the gift of their govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031501:0418/pct:18.887823585810164,82.21911540416879,15.647171620325983,4.804270462633452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855031501:0418/pct:18.887823585810164,82.22335197424165,15.653563438798338,4.81274360277919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ countrymen, who conceive, and justly, where
 there is no great preponderance of experience of  
 merit, that they are entitled to all the offices i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855031601:0705/pct:141.67483820356932,229.1856869385952,59.01157089625417,22.338389044323367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855031601:0705/pct:35.411764705882355,57.28798586572438,14.75,5.583775029446407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ ponderancy of experience or merit, that
 they arc entitled to tho occupancy of all  
 offices in the gift of their government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855032901:0061/pct:42.81468531468531,12.36413043478261,16.013986013986013,11.30187747035573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855032901:0061/pct:32.12661769849598,9.276185770750988,12.014690451206716,8.485671936758893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ countrymen, who conceive, and justly, where there&quot;
 is no great preponderance of exporience or merit,  
 that they are entitled to oll the offices in the gif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855052101:0929/pct:205.2601267037819,15.65372072339164,117.66173929736993,376.17847613400534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855052101:0929/pct:51.30518234165067,3.912850155624722,29.40978886756238,94.0306803023566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ and justly, where there is no great prepon­
 derance of experience or merit, that they nre  
 entitled to the offices in the gilt of their gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1855072001:0390/pct:22.110365398956002,90.75745146294777,16.68530947054437,7.150669948044846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1855072001:0390/pct:16.6013803394889,68.07492480175007,12.516321581794442,5.359584358764014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ own countrymen, who conceive, and justly, where
 there is no great preponderance of experience or  
 merit, that they are entitled to the offices in the gif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86071224:00212470053:1855072401:0078/pct:70.02301495972382,190.72058655057853,50.40276179516686,18.696299690686217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86071224:00212470053:1855072401:0078/pct:17.510791366906474,47.68014663764463,12.60431654676259,4.674074922671554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ characters among our own countrymen, who conceive, and
 justly, where there is no great preponderance of axpe­  
 ience or merit, that they are entitled to all the effices i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855091201:0253/pct:52.02020202020202,160.49247176913426,38.9520202020202,7.4341279799247175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855091201:0253/pct:17.34006734006734,53.49749058971142,12.984006734006734,2.4780426599749057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -737,7 +737,7 @@ who conceive, and justly, where there is no
 great preponderance of experience or merit,  
 that they are entitled to all the offices in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1855102001:0249/pct:10.209938075819363,16.28064625466049,12.339525751397069,5.355327081685685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1855102001:0249/pct:10.208396254907882,16.278807049254407,12.341437632135307,5.357546317216448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -784,7 +784,7 @@ cy of experience or merit, that they are eutitled to
 the occupancy of aUoilices in the gift of the gov­  
 ernment?Vol. 11, pp. S91-2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855102501:1179/pct:19.144446575868024,38.317125877903834,15.883368501822368,16.639654240950836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855102501:1179/pct:19.150840846601444,38.32613001980911,15.883368501822368,16.639654240950836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ country than his religion. To say he is o mere
 dweller upon the soil because it affords him the  
 mrans of support is to libel the most noble trait
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1855110701:0311/pct:87.30461303850552,166.34167019923697,60.4841784216546,84.85233856153738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1855110701:0311/pct:21.821993520106727,41.57954224357163,15.118162759672193,21.210087595365923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,7 +915,7 @@ merit, that they are entitled to the occu­
 pancy of all offices in the gilt of the gov  
 ernment--Yol. I1, pp.39 12
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855110801:0655/pct:126.62241887905604,162.34130696244821,50.442477876106196,80.34210877990111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855110801:0655/pct:31.673123040029516,40.585326740612054,12.61759822910902,20.085527194975278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ plied to him for office
 &quot;Dear Sir &quot; It does not acoord with the policy  
 of this vorernment to beston offices, civil ey military upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856040301:0180/pct:93.62723701440419,207.69230769230768,38.12018041612105,13.242745278673423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856040301:0180/pct:31.204538842013385,69.22279792746114,12.70487828532635,4.4137401650355015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1045,7 +1045,7 @@ without doing injustice to meritorious charac­
 ters among our own countrymen, who con  
 ceive, and justly, that where there is no grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1856043001:0276/pct:84.23605497170574,211.64144353899883,58.36701697655619,29.80209545983702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1856043001:0276/pct:21.06327066909238,52.91036088474971,14.594703860925813,7.450523864959255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ the policy of this country to employ for- i i
 orihar in tha civil or military walks of j  
 lif-z Our countrymen ooarwvv, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1856050901:0273/pct:4.961109943241539,89.91436726926736,13.495900777801134,2.870282270853156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1856050901:0273/pct:4.960067255149222,89.90011098779134,13.49831862126944,2.8737910258443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1178,7 @@ trymen- who conceive, and justly too, where
 there is no great preponderance of experience  
 or merit, that they are entitled to all the of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1856071601:0320/pct:146.82220434432824,304.3834015195792,59.29203539823009,23.027469316189364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1856071601:0320/pct:36.7277118132421,76.0958503798948,14.83195814047092,5.756867329047341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

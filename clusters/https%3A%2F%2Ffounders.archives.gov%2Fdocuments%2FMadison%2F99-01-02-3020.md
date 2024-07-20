@@ -274,7 +274,7 @@ with the British government. Gen.
 Armstrong will bi  
 with that of France. The relation i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0002/pct:24.886966778061726,31.412178902073283,17.082759976410458,27.33081236145521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0002/pct:24.886966778061726,31.416525405311425,17.089312626957604,27.335158864693355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ Armstrong, to whom a correspondent &#x27;
 instruction will be s i pro- &#x27;  
 vide a special conveyance for it hither
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0002/pct:24.316886180459996,70.71326118137958,17.65284057401219,25.62263658886426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0002/pct:24.329991481554288,70.72195418785587,17.65284057401219,25.626983092102403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ will he given, and to provide a special conveyance
 lor it hither, unless British arrangements shall pre­  
 sent an oppoi tuoit^equally certain aud expeditious/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112301:0222/pct:68.95583354608118,30.00491883915396,21.444983405667603,55.14018691588785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112301:0222/pct:68.9382337927514,30.0,21.44589076059214,55.135245901639344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ Ins’ruction will be given, and to provide a
 tish Arrangements shall present an opportu­  
 nity equally certain and expeditious.’&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0238/pct:23.004524886877828,38.87904858299595,17.918552036199095,56.92054655870445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0238/pct:23.000361925443357,38.8741302972802,17.921341536976716,56.91756272401434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ A
 ss shmctﬄePresiderjc win, with&#x27;m&#x27;sia reasQnable  
 time, ssgivssess eﬀect to the authority vesssted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112601:0604/pct:3.9433328465021176,22.227179441420542,24.755367314152185,64.19202284286607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112601:0604/pct:3.942757009345794,22.225196288365453,24.756619937694705,64.18926956935522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -756,7 +756,7 @@ to provide a special conveyance for it hi­
 iti&#x27;T unless Br tish arrangements shall pre­  
 sent an opp- rtunity equally certain and cx
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120201:0393/pct:40.60866318147872,12.307887717515559,35.94100074682599,80.88403404039121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120201:0393/pct:40.60108269553855,12.306324612649226,35.9405139692614,80.8779950893235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1000,7 +1000,7 @@ arrangement shall present pH t of
 poiluaity. equally certain and  
 eipeditmus.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808123001:1090/pct:42.63100436681223,6.035064059339177,33.67903930131004,89.91908293998651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808123001:1090/pct:42.6193724420191,6.034046856564975,33.67667121418827,89.90814090679251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,7 +1083,7 @@ ot November, 180T, ought to be rescinded as the
 *&#x27; ‘ imonth subject oj the embargo tarns.&#x27;’ We ask  
 whether the instructions tend authority contained i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809081401:0623/pct:7.928642220019822,88.96607431340873,21.010901883052526,6.558966074313409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809081401:0623/pct:7.9266782264057465,88.9517040865773,21.01189001733961,6.561944758520433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1107,7 +1107,7 @@ taliating - rders, in any other light then that
 oJ war, without even the pretext now as­  
 sumed by her 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811080201:0105/pct:40.97668441343859,78.46760285784676,17.587662933724985,5.629465385562947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811080201:0105/pct:40.969162995594715,78.45793816972534,17.590553108174255,5.632877612185409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

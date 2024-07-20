@@ -109,7 +109,7 @@ head, or source of the main south branch of the river Oconee at
 the nlace where « ttiatl be interfered by ttt: line aforefa.d from  
 the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0003/pct:7.802690582959642,44.035259549461315,26.72645739910314,10.754162585700294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0003/pct:7.802690582959642,44.04995102840353,26.733931240657697,10.759059745347699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ pcrfons who are now prisoners, captured by them from any part
 of tbe Uniied States : And the United States (hall on or before  
 ihe fame davf and at the fame place, restore to the Cherokees, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111901:0002/pct:9.058325187357445,43.074225599064874,27.956989247311828,12.5073056691993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111901:0002/pct:9.08276311502118,43.074225599064874,27.940697295536005,12.51704656146503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ the United States of America, and the who&#x27;eCherokee Nation, the
 parties have hereunto set their hands arid seals, at the treaty ground  
 on the bank of the Holfton, near the mouth of the French Broad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111901:0002/pct:38.05799934832193,24.89772063120982,28.250244379276637,12.215078901227352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111901:0002/pct:38.05799934832193,24.89772063120982,28.290974258716194,12.219949347360219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ the United States, with the advice and confen
 )f the Senate of the United States.  
 IN WITNESS of all and every thing herein d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112101:0004/pct:52.98391281785158,7.331433998100665,16.839647119875455,10.826210826210826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112101:0004/pct:52.99039958484691,7.336182336182336,16.85262065386611,10.835707502374168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

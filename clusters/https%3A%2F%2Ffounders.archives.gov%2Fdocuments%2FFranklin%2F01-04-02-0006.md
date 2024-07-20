@@ -4836,7 +4836,7 @@ It is known to every one, that afte
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1850-07-06_5_42/page/n7/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1850-07-06_5_42/page/n7/mode/1up?view=theater)
 
 #### 1850-07-06 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5123,7 +5123,7 @@ snapping, &quot;discharged its ligli.ning silently
 through the point, while the scales rose  
 higher from the punch, showing that poin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1857071601:0151/pct:42.76066350710901,48.586309523809526,16.777251184834125,21.121651785714285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1857071601:0151/pct:32.07726033890271,36.439732142857146,12.584429434767152,15.848214285714286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5157,7 +5157,7 @@ the &quot;Philosophical Transactions.&quot; But
 they were soon verified, and were subse­  
 quently published in London and wen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1857071601:0151/pct:42.725118483412324,75.09300595238095,16.765402843601894,17.894345238095237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1857071601:0151/pct:32.053560848441755,56.32440476190476,12.572579689536674,13.420758928571429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5631,7 +5631,7 @@ sparks if the rod be electrified will
 strike from the rod to the wire and  
 not affect hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:2065344540:1896020901:0366/pct:62.81645569620253,94.67199087278951,19.699367088607595,17.67256132344552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:2065344540:1896020901:0366/pct:41.9028019629571,63.11466058185967,13.139148329903435,11.785510553337136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5672,7 +5672,7 @@ sparks, if tho rod bo electrified, will
 strike from tho rod to the wiro and not  
 affect him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelly_ver01:data:sn95079481:00175031789:1896031701:0018/pct:34.57263319279417,11.139896373056995,16.28976619394404,16.007635669484593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelly_ver01:data:sn95079481:00175031789:1896031701:0018/pct:34.58540948000511,11.148986455776747,16.29615433754951,16.003090628124717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5713,7 +5713,7 @@ sparks, if the rod be electrified, will
 strike from the rod to the wire and not  
 affect him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294269:1896032201:0327/pct:252.99539170506912,234.5225444056475,54.93087557603687,60.057689388188855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294269:1896032201:0327/pct:63.27800829875519,58.63063610141187,13.739050253573074,15.014422347047214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5756,7 +5756,7 @@ sparks, if the rocd be electrifisd, will
 strike from the red to the wire and not  
 affect him.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153036:1896040301:0301/pct:51.137724550898206,9.92111650485437,11.007984031936127,12.879247572815533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153036:1896040301:0301/pct:51.14105123087159,9.926173139158577,11.004657351962742,12.87671925566343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5798,7 +5798,7 @@ he holding it by a wax handle, so the
 strike from the rod to the wire and not  
 affect hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn83045555:206539720:1896040401:1027/pct:92.68231768231769,127.46234067207416,37.53746253746254,41.71494785631518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn83045555:206539720:1896040401:1027/pct:30.917270682329416,42.48744689069139,12.521869532616845,13.904982618771726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5818,7 +5818,7 @@ Experiments and Observations Made at
 Philadelphia, 1749,&quot;the following pas­  
 sage occurs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014114:1896041101:0550/pct:42.819148936170215,52.486599166170336,12.23404255319149,3.0970815961882074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014114:1896041101:0550/pct:42.81039067293925,52.47878517195176,12.236653712415627,3.1003424147684977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5859,7 +5859,7 @@ sparks, if the rod be electrified, will
 strike from the rod to the wire and not  
 affect him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014114:1896041101:0550/pct:42.819148936170215,55.613460393091124,12.274959083469723,14.04109589041096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014114:1896041101:0550/pct:42.81039067293925,55.60518088432336,12.277561873593783,14.042727408069078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5900,7 +5900,7 @@ sparks, if tbe rod be electrified, will
 strike from the rod to the wire and not  
 affect blm.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:00212471823:1896042001:0489/pct:58.48519362186788,21.00181050090525,16.287015945330296,19.493059746529873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:00212471823:1896042001:0489/pct:43.87696981203721,15.751357875678938,12.22707423580786,14.619794809897405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5942,7 +5942,7 @@ sparks, if the rod be electrified, will
 strike from the rod to the wire and not  
 affect him.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juniper_ver01:data:sn88085189:0021110790A:1896051401:0410/pct:71.4408849303261,12.252362084730265,12.641861801465307,13.867723255105151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juniper_ver01:data:sn88085189:0021110790A:1896051401:0410/pct:71.4456735143418,12.255748586135663,12.646650385481014,13.871109756510549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5982,7 +5982,7 @@ Experiments and Observations Made at
 Philadelphia, 1749, &quot; the followving pas­  
 sage occurs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550604:1896093001:0055/pct:14.424815690638475,60.242290748898675,12.032271525942413,3.223868642370845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550604:1896093001:0055/pct:14.429452404135949,60.242290748898675,12.032271525942413,3.2272059805099453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6023,7 +6023,7 @@ sparks, if the rod be electrified, will
 strike from the rod to the wire and not  
 affect him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550604:1896093001:0055/pct:14.49436639310057,63.28594313175811,11.962720823480318,13.746495794953944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:00294550604:1896093001:0055/pct:14.49436639310057,63.29261780803631,11.962720823480318,13.743158456814845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6084,7 +6084,7 @@ spaiks, if the rod be electrified, will
 strike from the rod to the wire and no  
 affect him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023486:1897020101:0341/pct:33.09446254071661,86.94104560622914,22.035830618892508,22.703003337041157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023486:1897020101:0341/pct:22.071998696856166,57.96440489432703,14.692946733995765,15.13904338153504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

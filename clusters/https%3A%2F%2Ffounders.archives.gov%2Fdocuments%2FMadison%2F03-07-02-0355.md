@@ -104,7 +104,7 @@ i *ns, the exportation of *pr*cie b pro­
 hibited throughout the same p«-»i r).  
 James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814040201:0338/pct:38.34077012064122,8.863408863408864,18.112708643199472,35.60833560833561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814040201:0338/pct:38.33443489755453,8.86260236578708,18.115223617536902,35.60812860175918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ cie be prohibited throughout the same pe­
 riod. *  
 , JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814040601:0418/pct:76.6955266955267,28.886411495107147,17.46031746031746,18.023039762170196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814040601:0418/pct:76.68169522091975,28.88283378746594,17.46318004207995,18.024936008587236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ stitutions, the exportation of q::g be pro­
 hibited throughout the same period:”  
 March 51, - JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814040701:1014/pct:25.540629095674966,12.341429835775395,22.182175622542594,33.86763693578523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814040701:1014/pct:25.540629095674966,12.341429835775395,22.18763652249891,33.86763693578523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ institutions, the exportation of specie be pro­
 hibited throughout the same period.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814040701:0483/pct:24.743742550655544,19.62925707716626,22.28843861740167,37.56286822819371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814040701:0483/pct:24.737845567206865,19.626436781609197,22.28908484270734,37.56106321839081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ institutions, the expurtaticn of specie h
 prohibited throughout the same period.  
 JAMES MADISO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814041101:0020/pct:62.73732526601294,32.67525035765379,17.901105779261425,30.54363376251788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814041101:0020/pct:62.72423863162286,32.67057645544271,17.902586566541512,30.542840795308255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ ed institutions, the exportation of {pecie be
 - pohibited thréughout the fame period*  
 Tl Y JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814041201:0062/pct:5.686330119115144,59.145100319860425,17.569483834373226,31.27847242415431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814041201:0062/pct:5.695783702023067,59.14833123323964,17.574210625827188,31.27847242415431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ not to foster manufactures.
 It is a part of the war system of taxa­  
 tion. As the doable duties, in their o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814041401:0349/pct:63.892145369284876,29.620207159731056,18.204655836543292,6.10576049427585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814041401:0349/pct:63.881446751507035,29.61751612610157,18.207189104710874,6.108234154023197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1009,7 +1009,7 @@ end of one year after a peace with Great Britain,
 be prolonged to the end of three years after that  
 event.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842043001:0524/pct:90.26211278792692,8.59429366736256,38.9515488482923,8.257944792391557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842043001:0524/pct:30.08259212198221,2.864432332134988,12.981787378229564,2.7523290424832814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1050,7 +1050,7 @@ pire at the end of one year after a peace
 with Great Britain, be prolonged to the  
 end of two years after that event.”—Mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624426:1844052501:0171/pct:10.728788202607396,88.49056603773585,17.973926052575337,5.518867924528302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624426:1844052501:0171/pct:8.320450530035336,68.58523904301556,13.92999116607774,4.281246191965555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1067,7 +1067,7 @@ pire at the end of one year after a peaceon&#x27;s  a e
 with Great Britain, be prolonged to the end pa ams oon.  
 of two years after that event.eisoe e ie o anaie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn86074085:00295877765:1844081701:0347/pct:52.58693808312129,186.31189137292552,145.12298558100085,8.942531888629818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn86074085:00295877765:1844081701:0347/pct:13.149522799575822,46.57797284323138,36.28844114528102,2.2356329721574544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1108,7 +1108,7 @@ are lo expire at the cud of one year alter a peace
 with Great Britian, be prolonged lo the end of two  
 year after that event.&quot; Madison&#x27;s special message
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1844092701:0383/pct:89.48559670781893,45.90088003705419,20.0,3.8906901343214453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1844092701:0383/pct:67.1607988470249,34.42951983943183,15.009264978381717,2.918017600741084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1137,7 +1137,7 @@ tional duties on imports which ar* to expire at the end of one
 fear after a peace with Grrat Britain, be prolonged to the end  
 of two years after that event.&quot;?Jlfailison&#x27;s Special .Message
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845121301:0277/pct:36.95802742762155,77.69063180827887,15.04363485247264,2.3856209150326797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845121301:0277/pct:36.96264487232765,77.69789397240378,15.04363485247264,2.3892519970951343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1250,7 +1250,7 @@ $ longed to the end of two yeare after that event and
 that in favor of our moneyed institutions, the exporta  
 tion of specle be prohibited durins the same pario
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887041901:0816/pct:3.8051750380517504,367.3879680785758,57.76255707762557,15.791896869244935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887041901:0816/pct:0.951655881233346,91.84699201964395,14.446136277122193,3.9479742173112338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

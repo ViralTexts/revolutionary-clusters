@@ -678,7 +678,7 @@ The first part of this volume contains an
 amount of the Indian nations w ho once in­  
 habited Pennsylvania, aud is supplied b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819041501:0112/pct:6.7135989010989015,52.451033437939614,18.20054945054945,5.746131371063738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819041501:0112/pct:6.71244635193133,52.4453581475871,18.203147353361945,5.749116352881772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ Pennsylvania and the neighbouring states,
 by the Rev. John lleckewelder, of Beth  
 lehem. From this interesting volume w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819042001:0132/pct:55.42051531356344,70.81072935503315,16.917841516771997,3.134418324291742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819042001:0132/pct:55.40704738760632,70.80006026819346,16.919805589307412,3.137712822058159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ ing states. The work from which the
 extract is made, is the first number of  
 Publications by the Historical and Lite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819051101:0145/pct:10.476190476190476,55.69508051410843,17.238095238095237,8.228689614418673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819051101:0145/pct:10.473696738871697,55.68685376661743,17.23994287074506,8.231166912850812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -68,7 +68,7 @@ damage was done to any of tbe other
 corfairs, and not one captured, except a  
 fmall Galiota off Porto farina.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804110201:0003/pct:21.417565485362097,39.73115299334812,18.6880915694475,37.2089800443459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804110201:0003/pct:21.424902780834984,39.74039172209904,18.680754273974614,37.2089800443459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ m »ge was d tie |r&gt; anv of t lie other corsairs,
 and mv one captured, except a small C.a­  
 liotrt off Porto farina.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804110701:0343/pct:22.316112924908776,39.554098360655736,17.61090839254849,25.901639344262296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804110701:0343/pct:22.311827956989248,39.54891161814844,17.613927291346645,25.902613864848327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ had ceased; and until they stood out of the Roadsted
 and not one captured, except a small Galiota ofl  
 Porto Farina.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804111001:0206/pct:48.99068322981366,33.12883435582822,21.713250517598343,20.616725863739102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804111001:0206/pct:48.97800776196637,33.12348668280872,21.71410090556274,20.61743341404358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ cb the Road fled—no damage was done to any
 o. the other corfairs, and not one captured, ex­  
 cept a fa\al 1 Galicia of Porto Farina.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804111001:0221/pct:77.08295015633621,16.30516080777861,18.02464594445466,19.234604836699077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804111001:0221/pct:77.06877528503126,16.303128505546553,18.02746107637612,19.236362125555694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ the Roadtead —ao damage was done to any of
 the other corfairs, and not one captored, except  
 a [mall Galiota off Porto Farina,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804111501:0593/pct:55.33015115354017,59.475184041795295,20.803500397772474,21.930657800997388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804111501:0593/pct:55.34341023601167,59.47914192986622,20.796870856536728,21.938573577139238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

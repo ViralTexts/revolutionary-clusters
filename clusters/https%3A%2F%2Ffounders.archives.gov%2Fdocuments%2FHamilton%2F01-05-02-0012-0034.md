@@ -153,7 +153,7 @@ i £f® in the most perfect Constitution we could form
 Jin l mini i.i dependent on (hr will of (he Stale  
 Government* for if. Chief Magi,hole and i 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826032401:0389/pct:78.31230283911673,67.65901482544237,15.488958990536277,3.7422285987565758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826032401:0389/pct:78.29995268885034,67.65092647937836,15.491773116753404,3.745766088862323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ centre, and become languid in proportion to the
 elusion OJ me cireie oil which they act It is  
 on this principle that the People will forever fee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826032401:0390/pct:22.264631043256998,60.328415040456925,14.853689567430026,6.223227034745359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826032401:0390/pct:22.26109079344888,60.32123735871505,14.856627974770763,6.226452508427523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ on this principle that the People will forever fee
 fr&quot;&#x27;1 n tf,e ici&#x27;l of the State Governments for its  
 f vIai.i-tratk and its Senate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843090101:0059/pct:1.030619865571322,3.578008338989625,15.250186706497386,2.46291088916901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843090101:0059/pct:1.030619865571322,3.581240505510844,15.265123226288274,2.466143055690229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ may act on different objects without clashing or
 they may operate on different parts of the same  
 common object, with perfect harmony. (See El
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851021501:0424/pct:71.62542182227222,13.683839924891444,18.925759280089988,27.203379884990024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851021501:0424/pct:53.73365208831388,10.268747799554044,14.189284207565743,20.408402769627976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ States can never lose their powers till the
 whole people of America are robbed of their  
 liberties. These must go together;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861082701:0171/pct:65.54530656538253,223.91846470779572,43.40748779164406,8.19689905670606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861082701:0171/pct:16.392997693038403,55.97961617694893,10.85628986293934,2.049224764176515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ can never lose their powers until the
 wholo people of America are robbed of  
 their liberties, these must go together;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1861083001:0783/pct:41.783073130649136,39.59511759452218,16.310599835661463,2.3667758261387317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1861083001:0783/pct:31.36046033703247,29.696338195891634,12.227702424989724,1.7862459065197975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ of their liberties.These must go together,I
 the States as well as.  
 by these laws; but the laws of Congrem ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861083001:0183/pct:65.53424657534246,349.92862633139345,45.97260273972603,29.55967936751949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861083001:0183/pct:16.390297382485954,87.48215658284836,11.49787583938605,7.389919841879872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ till the whole people of America are rob-­
 bed of their liberties. These must go to-­  
 gether;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1861091801:0244/pct:17.67019667170953,14.776632302405499,101.21028744326777,233.4135166093929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1861091801:0244/pct:5.89006555723651,4.925544100801833,33.73676248108926,77.8045055364643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ the general welfare of thaJLlniteJ Sutcv, it must
 be utterly repugnant to tbjs Constitution to sub­  
 vert the State Governments or oppress the peo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028459:1863041001:0364/pct:21.063319180358132,83.52464550979069,14.306811888499169,8.980418636056719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028459:1863041001:0364/pct:21.07562611531598,83.53364843574161,14.300658421020245,8.975917173081251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ States, it must be utterly repugnant to
 this Constitution to subvert the State  
 Governments or oppress the people. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1863042501:0299/pct:73.17425885755604,63.60120326600774,103.18148951554592,16.501933820369576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1863042501:0299/pct:18.30349068547658,15.900300816501934,25.809368782781696,4.125483455092394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ States, it must be utterly repugnant ,19
 this Constitution&#x27; to subvert&#x27;the &quot; fate Goverri­  
 ments.or oppress tber:people; The coercion &#x27;oo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1863051301:0487/pct:111.15630447414294,44.224051896207584,17.300987797791983,5.9880239520958085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027297:1863051301:0487/pct:83.40357506176427,33.171157684630735,12.992297631158262,4.491017964071856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ ed States, it must be utterly repugnant
 to this Constitution to subvert the State  
 Governments or oppress the people. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1863051501:1186/pct:32.88907996560619,15.531813107957264,17.196904557179707,12.32658268218785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1863051501:1186/pct:25.499777876499333,12.045314109165808,13.32741003998223,9.561277033985581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ a commoit protection and the generat welfare of the United
 States, it must be utterly repuignant to this Cconstitution to  
 subvert the State Governmant or oppress the people. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743440:1863060401:0559/pct:110.86306908068202,42.06330031408553,46.66901037089119,13.179511959410485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743440:1863060401:0559/pct:36.95435636022734,14.021100104695176,15.556336790297065,4.393170653136829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -787,7 +787,7 @@ States, it must be utterly repugnant to this
 Constitution to subvert the State Govern­  
 ments or oppress the people. The coercio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1863080101:0359/pct:178.85590152063722,107.08166761850372,51.556842867487326,35.294117647058826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1863080101:0359/pct:44.73827205216446,26.77041690462593,12.896214453903278,8.823529411764707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ general welfare of the United States, it muft be
 utterly repugnant to that Constitution to subvert  
 the State Governments, or oppress the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863081901:0178/pct:120.6577119036591,75.16518368425689,50.347383047707275,29.91806889260858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863081901:0178/pct:30.164427975914776,18.791295921064222,12.586845761926819,7.479517223152145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,7 @@ and the destruction of the States must be at once
 a political suicide. (6)  
 AERAHAM LINCOLN--The Government mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863081901:0178/pct:120.70402964335341,119.39036208263589,50.347383047707275,32.98387807241653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863081901:0178/pct:30.176007410838352,29.847590520658972,12.586845761926819,8.245969518104133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -920,7 +920,7 @@ ple of America are robbed of their liber­
 ties. These must go together. They must  
 support each other or meet a common fate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1863082701:0356/pct:122.86115007012623,137.9730478124423,49.04160822814399,23.333948680081225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1863082701:0356/pct:30.72246902034136,34.493261953110576,12.26326864624737,5.833487170020306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -941,7 +941,7 @@ must be utterly repugnant to that Constitu­
 tion to subvert the State Governments, or  
 oppress the people. The coercion of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1863082701:0356/pct:122.95465170640486,161.78696695587965,49.04160822814399,18.128115192911206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1863082701:0356/pct:30.745849894786065,40.44674173896991,12.26326864624737,4.532028798227802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -975,7 +975,7 @@ tion of the States must be at once a politi-
 cal suicide.  
 Abraham Lincoln--The Government mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1863082701:0356/pct:123.18840579710145,201.43991139006832,49.696119682094434,54.23666235923943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1863082701:0356/pct:30.804302080897827,50.35997784751708,12.426934767360299,13.559165589809858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ happened. The Federal Government,
 or at least the Federal Executive, has  
 o oo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863090301:0674/pct:32.26337448559671,123.36707807516295,119.83539094650206,139.45361253640272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863090301:0674/pct:8.070825612518016,30.841769518790738,29.977352275066913,34.86340313410068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1200,7 +1200,7 @@ States, it must he utterly repugnant to this
 Constitution to subvert the State Governments  
 or oppress the people. The coercion of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1863101201:0963/pct:201.0289990645463,249.9460237495502,57.62394761459308,26.772220223101836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775058:1863101201:0963/pct:50.26900584795322,62.48650593738755,14.409356725146198,6.693055055775459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,7 +1224,7 @@ general welfare of the United States, it must be utterly
 repugnant to this Constitution to subvert the State Gov­  
 ernment or oppress the people. The coersion of S ate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184753:1864010801:0020/pct:245.07111329082883,226.890756302521,46.90207618113455,13.80718954248366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184753:1864010801:0020/pct:81.67701863354037,75.62142607072003,15.631469979296066,4.601859415723344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1294,7 +1294,7 @@ United States, it must be utterly repugnant
 to this Constitution to subvert the State  
 Governments or oppress the people. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1864012801:0240/pct:83.99725274725274,78.52998065764024,19.144917582417584,10.43197936814958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1864012801:0240/pct:63.030407146538394,58.90393294648614,14.378972685105651,7.827208252740168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1364,7 +1364,7 @@ be two supremes, is simply this--two powers cannot
 be supreme over each other.  
 And, speaking further on the same su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1865020901:0997/pct:229.32761087267525,281.1181434599156,49.21316165951359,35.33755274261603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1865020901:0997/pct:57.34215703809694,70.2795358649789,12.305490967626543,8.834388185654008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1529,7 +1529,7 @@ erties. They must go together ; they must
 support each other or meet one common  
 fate.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769325:1868082801:0335/pct:6.871938418474458,36.00259712152364,12.722183344996502,5.886808786927822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769325:1868082801:0335/pct:6.876603685560998,36.009811347978214,12.71751807790996,5.89402301338239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1583,7 +1583,7 @@ the constitution, that the States can never lose
 their powers till the whole people of America are  
 robbed of their liberties.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743713:1870092701:0976/pct:153.05990634587437,53.58688225916648,44.840949459066685,3.609656114780232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743713:1870092701:0976/pct:51.01996878195813,17.862294086388825,14.946983153022229,1.203218704926744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1620,7 +1620,7 @@ ALExANDER LI STaPHENS.
 To We devote nearly the whole of  
 our editorial page this week to the re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870100601:0735/pct:181.97389885807505,56.65995975855131,52.85481239804241,60.04024144869215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870100601:0735/pct:45.50275341627575,14.164989939637827,13.216398123597797,15.010060362173038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1661,7 +1661,7 @@ Constitution, that &quot;the States can never lose
 their powers till the whole people of America  
 are robbed of their liberties.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_lasvegas_ver01:data:sn84022043:00279555065:1870102201:0543/pct:75.11101712835695,147.0074268239406,71.36815394375132,34.4837629241299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_lasvegas_ver01:data:sn84022043:00279555065:1870102201:0543/pct:18.777754282089237,36.75185670598515,17.84203848593783,8.620940731032475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1679,7 +1679,7 @@ which ratified tbe Constitution, that
 ers till the whole people of America  
 are robbed of their liberties.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867541:1870111801:0143/pct:88.36180597925565,68.73019741652449,15.359975594874923,2.595661710943212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867541:1870111801:0143/pct:66.3055089272089,51.54764806239337,11.52144056157485,1.9497928345113331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1706,7 +1706,7 @@ a &quot;Confederacy&quot; or &quot;Confederated Kcpublic.&quot;
 ? The truth is. no a?e to deny it, there are  
 only two parties, and these have existed sinc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192336:1871011001:0012/pct:15.233160621761659,74.72238457042666,13.540587219343696,9.088252483927528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192336:1871011001:0012/pct:15.23747841105354,74.72238457042666,13.54490500863558,9.091905318527177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1766,7 +1766,7 @@ erties. These must go together. They
 must support each other, or meet one coml  
 mon fate. And again: &quot;The gentlenta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871092101:0287/pct:43.56701584743487,22.700622938805424,82.98415256513564,268.54159032612677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871092101:0287/pct:14.522338615811622,7.566874312935141,27.66138418837855,89.51386344204226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1790,7 +1790,7 @@ gether. They must support each other or meet
 one comuion fate.&quot; And again: &quot;The gen­  
 tleman was afraid the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1871092601:0149/pct:19.820389577536048,82.18128938439166,12.041487477864912,4.33349491032477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1871092601:0149/pct:19.820389577536048,82.18128938439166,12.049919892065098,4.339957989982227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1839,7 +1839,7 @@ of their liberties. These must go together. They
 must support each other or meet, one eorpmon  
 fate.” And again : “The gentleman was afrai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1871092801:0473/pct:56.70995670995671,27.177792465300726,12.380952380952381,3.9127561136814277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1871092801:0473/pct:56.70013850415513,27.174200370076658,12.383137119113574,3.915543219666931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1863,7 +1863,7 @@ gether. They must support each other or meei
 one oomrnon fate.’’ And again: “The gen­  
 tleman was afraid the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349505:1871092901:0149/pct:15.114951899559758,78.42505477509988,11.511495189955976,4.382007990720454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349505:1871092901:0149/pct:15.112487773068144,78.41494845360825,11.513694163677862,4.384664948453608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1909,7 +1909,7 @@ They must support each other or meet
 one common fate.” And again : “The  
 gentleman was afraid the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1871100501:0559/pct:20.360702420503085,55.07425742574257,12.134155987976586,6.255625562556256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348446:1871100501:0559/pct:20.35748180955394,55.068061649229385,12.137509227037857,6.258671766602918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2036,7 +2036,7 @@ common object with perfect harmony.”
 and forever secured by the State Government.&quot;  
 which 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475403:1878011301:0373/pct:59.22573189522342,79.96794871794872,44.14483821263482,3.485576923076923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475403:1878011301:0373/pct:19.741910631741142,26.655982905982906,14.714946070878275,1.1618589743589745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2058,7 +2058,7 @@ fect constitution we could form, I iasist that it
 can never be the interest or desire of the Na­  
 nal Legislature to destroy the State govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475336:1880031301:0393/pct:147.4585843373494,107.80752916224814,43.76882530120482,9.62354188759279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475336:1880031301:0393/pct:49.15286144578313,35.93584305408272,14.58960843373494,3.207847295864263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2082,7 +2082,7 @@ lose their inteneity as ther depart from the cen
 tre, and beeome languid in proportion to the  
 ual aflf be flrst and forever secured by the Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475336:1880031301:0393/pct:147.34563253012047,118.22640509013786,45.8019578313253,14.276246023329799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475336:1880031301:0393/pct:49.1152108433735,39.40880169671262,15.267319277108435,4.758748674443266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2104,7 +2104,7 @@ sire of th national legislature to destroy
   
 state governments;&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:00295873656:1882031001:0128/pct:61.91895113230036,60.43868621434254,16.671632896305127,3.739061256961018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:00295873656:1882031001:0128/pct:46.446133214126064,45.334697124673255,12.516763522574877,2.8071371746789406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2128,7 +2128,7 @@ these must go together: they must support
   
 each other, or meet one common fate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:00295873656:1882031001:0128/pct:61.81466030989273,64.34822138879419,16.71632896305125,3.5913171951358107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:00295873656:1882031001:0128/pct:46.37162866934883,48.26684850551199,12.54656534048577,2.6934878963518583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2153,7 +2153,7 @@ at the members must give a fatal blow to
 the head, and the destruction of the Btates  
 must be at once a political suicide,” etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342077:1882032301:0277/pct:76.14179500796601,42.408217227702636,9.930961232076474,3.956066307332452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342077:1882032301:0277/pct:76.14622057001239,42.408217227702636,9.930961232076474,3.956066307332452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2178,7 +2178,7 @@ at the members must give a fatal blow to
 the head; and the destruction of the States  
 must beatouee n political suicide,&quot; etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191447:1882032901:0063/pct:57.65951595159516,116.62444585180494,16.295379537953796,7.0192104707620855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191447:1882032901:0063/pct:43.265923785940295,87.47097318978257,12.230017884165635,5.267046654000422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2251,7 +2251,7 @@ the extent of powers are unjust and lmngi- r
 WHICH THE TRITE 1&#x27;UOl&#x27;IIKT AND WISEK a  
 STATESMAN. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887091401:0049/pct:0.897554936552151,64.29341963322545,16.078613432373878,6.310679611650485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887091401:0049/pct:0.897554936552151,64.29701546206401,16.088930155782524,6.31787126932758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2278,7 +2278,7 @@ ty and every - dictate of common
 sense. The enforcement of such a  
 law is uncalled for; it makes th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556291:1887121501:0411/pct:87.35330450895614,66.63082437275986,13.542310067943175,9.72520908004779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556291:1887121501:0411/pct:65.52895752895753,49.97610513739546,10.162162162162161,7.299880525686977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2431,7 +2431,7 @@ the people of America are robbed of
 their liberties.”  
 The impossibility but not the right o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892198:1896122001:0094/pct:68.99541884816755,68.91209161333782,14.397905759162304,4.457168519142248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892198:1896122001:0094/pct:69.00087260034904,68.91957636316006,14.403359511343805,4.453426144231129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2447,7 +2447,7 @@ The impossibility but not the right o
 &quot;The States can never lose their power till the whole  
 people of America are robbed of their liberties.&quot; H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_exeter_ver01:data:sn85066387:0017503786A:1899080301:0520/pct:38.78244746600742,9.363814801985914,17.660692212608158,1.1661470961782705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_exeter_ver01:data:sn85066387:0017503786A:1899080301:0520/pct:38.78759785743716,9.363814801985914,17.665842604037906,1.1661470961782705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

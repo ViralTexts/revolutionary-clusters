@@ -115,7 +115,7 @@ ft With very high consideration,
 ,f If our most obedient and  
 c Very bumble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0001/pct:23.66018261214768,66.23156245920899,18.459706232631998,15.128573293303747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0001/pct:23.66018261214768,66.23156245920899,18.479555379118697,15.132924335378323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ I have the honour to lie, Hr,
 ^ our most obedient and  
 \ ery hum! le servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:32.16747510850141,17.79898009541043,21.062037273423538,10.56094752426386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:32.15926493108729,17.79605263157895,21.063042368555386,10.563322368421053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ With very high consideration,
 Y oui most obedient  
 And very humble sensizant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112301:0592/pct:31.005010315355143,49.77630637079456,23.00324196875921,16.070150322118828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112301:0592/pct:31.000442021511713,49.77185291223047,23.004764009626246,16.071694849542215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ With very high consideration,
 Your most obedient and  
 Very humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:42.20511902631108,75.73237338629593,16.967961338822267,10.215988083416088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:42.197566213314246,75.72297381159241,16.970890002386067,10.218857308344711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ dors not, lustily the conduct of rear admi­
 ral Baudia in &gt;ut*ning, or otherwise destroy­  
 ing, on the high sons, the ships and mer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0389/pct:40.715241920061196,22.78031456113648,17.613310384394723,5.834601725012684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0389/pct:40.70745697896749,22.77742549143944,17.61631612492033,5.8380891989008665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

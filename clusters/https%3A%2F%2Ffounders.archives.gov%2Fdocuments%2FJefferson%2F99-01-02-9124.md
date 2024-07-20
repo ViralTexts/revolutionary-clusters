@@ -89,7 +89,7 @@ implore th&#x27;* favor of a Protecting Providence
 for yourselves.  
 TH : JEFFERSON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0033/pct:56.5078169146732,54.40812605808048,17.969485778866076,34.79619742153926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0033/pct:56.49717514124294,54.401041666666664,17.972379158819837,34.79600694444444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ my welfare, and with equal sincerity implore the
 favor of a Protecting Providence fpr vourselves  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012701:0340/pct:6.579885877318117,42.31884057971015,17.154065620542085,29.540012602394455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012701:0340/pct:6.578712783027278,42.31350806451613,17.156950139656505,29.540490591397848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ sincerity implote thefaver of a Pro­
 teéling Providence for yonrfeives,  
 s ITH &lt; JETELERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809041801:0267/pct:42.48913718187461,14.268549113848003,33.76784605834885,80.96525483128066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809041801:0267/pct:42.49948272294641,14.271886786155335,33.77301882888475,80.97193017589532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ mo es in mass in the same direction, although it may
 not be that which every individual thinks best, we have  
 nothing to fear from any quarter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.26937835763624,281.6961561928005,51.95702225633154,10.677242220866383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.84452975047985,70.42403904820013,12.994241842610364,2.6693105552165957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ be that which every individual thinks
 best, we have nothing to fear from |  
 any quarter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888113001:0378/pct:47.00709219858156,72.44877257050112,12.4822695035461,16.382633394197605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888113001:0378/pct:47.00042547156432,72.44142407952125,12.485226681794545,16.384352706494912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ ambition which cares so much about
 I fumo, about what tho world says of us:  
 to bn always looking at tho faces o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193547:1889030801:0237/pct:48.39034205231388,37.82365882552039,12.273641851106639,5.601624640379082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193547:1889030801:0237/pct:48.40920523138833,37.82365882552039,12.292505030181086,5.618547977661195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ same direction although It may not bo that
 which every Individual thinks best wo have  
 nothing to fear from any quarte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:66.32492113564669,215.41736353960772,51.65615141955836,17.333130606659573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:16.581230283911673,53.85434088490193,12.91403785488959,4.333282651664893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ same direction, although it may not be that
 which every individual thinks best, we have  
 nothing to fear from any quarte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:277.9816513761468,327.53843811843507,51.37614678899082,19.485462018572083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:69.4954128440367,81.88460952960877,12.844036697247706,4.871365504643021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ may not bo that which every Individual
 thinks best, we have nothing to fear from  
 any quarter. Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762975:1895022601:0204/pct:46.6786355475763,103.1332280147446,13.22561340514662,3.949447077409163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762975:1895022601:0204/pct:35.014215172826574,77.35650342285413,9.920694298967529,2.962085308056872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ may not be that which every Individual
 thinks best, we have nothing to fear from  
 any quarter.—Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895032101:0048/pct:86.83127572016461,60.10450844574067,9.72412741960067,3.26892696560943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895032101:0048/pct:86.81804327948797,60.09720534629405,9.72645534897897,3.2715674362089917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ any quarter —Thomas Jefferson. 1
   
 Ohimmey—Say, Maggie, you’re 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn86076126:00332891066:1895040301:0106/pct:33.24569789674952,19.467935165609585,30.162523900573614,72.97392529950669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn86076126:00332891066:1895040301:0106/pct:33.23775388291517,19.464505901004053,30.161290322580644,72.96547472256474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ which every individual thinks best,
 we have nothing to fear from any  
 quarter. Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776865:1896031201:0998/pct:45.062277580071175,86.14925373134328,19.684163701067614,6.746268656716418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776865:1896031201:0998/pct:33.83040284887603,64.61194029850746,14.778544402403739,5.074626865671642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,7 +857,7 @@ nothing to fear from any quarter.
 I never appointed a relativo to office,  
 and that is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:67.8046218487395,40.37166711553999,15.948879551820728,6.854295717748451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:50.87565674255692,30.2854834365742,11.974605954465849,5.14408833827094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ same direction, although It may not be that
 which evsry Individual thinks best, we have  
 nothing to fear from any quarter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0292/pct:35.71180555555556,21.066023838221508,14.6875,18.58845587250569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0292/pct:26.797499131642933,15.802865943484665,11.02813476901702,13.941341904379268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,7 +931,7 @@ A Kansas woman, who traveled
 to St. Louis to marry a man who  
 had advertised for a wife, ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177325:1897050601:0452/pct:29.84037558685446,79.84168865435356,18.328638497652584,21.91292875989446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177325:1897050601:0452/pct:23.126182506185415,61.87717265353418,14.209479454713046,16.985890532342715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -964,7 +964,7 @@ ual thinks best, we have nothing to fear
 from any quarter.  
 &#x27; -t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898092301:1039/pct:48.38395638629284,36.666666666666664,18.419003115264797,6.201859229747676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898092301:1039/pct:36.306973120373975,27.50332005312085,13.82937280872614,4.661354581673307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

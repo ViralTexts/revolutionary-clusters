@@ -137,7 +137,7 @@ Islan Is to our own ports, is regarded hero as of the
 highest importance; and you will be careful not to coun­  
 tenance any idea of our dispensing with it in a treaty o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830101201:0175/pct:49.42290618526191,23.946580704582086,15.477952056821545,5.054110062169007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830101201:0175/pct:49.41559402278443,23.943824104984458,15.480593776199635,5.057365411918192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ roK IT WOUI.D KOT tl! KXI’KDIKNT TO COMM KNCK MK­
 woTi.vrioMi without rur.vtousLY ii a vi no hood ar..v.  
 sure to axi-Ecr * satisvactory termination o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832021401:0068/pct:36.488043791414576,19.110034144729596,14.995678478824546,5.0115651503469545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832021401:0068/pct:36.48278841999136,19.1079295154185,14.998319650487302,5.014684287812041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ gotiations without previously having goud rea­
 sons tn expect a satisfactory termination of  
 them.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1832021501:0074/pct:7.537399309551208,29.92461954202816,15.995397008055235,7.097141231688238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1832021501:0074/pct:5.851459148788584,23.191387735606423,12.406480701580538,5.500238821324907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ TIONS WITHOUT PREVIOUSLY HAVING COOD REA­
 SONS TO EXPECT A SATISFACTORY TERMINATION OF  
 Til CM.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832022101:0370/pct:64.44991789819376,27.096273291925467,15.243568691844555,5.190771960958297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832022101:0370/pct:64.44110001368176,27.093268271043584,15.246043690427326,5.193893016894015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ MENCE NEGOTIATIONS W ITHOUT PREVIOUS­
 LY HAVING GOOD REASONS TO EXVECT A  
 SATISFACTORY TERMINATION OF THEM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1832030101:0410/pct:63.648810542529525,43.80764973557988,15.214786924525074,8.584429959414587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1832030101:0410/pct:63.66022020651492,43.81174927233223,15.203377260539677,8.596728569671628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ tenance any idea of our dispensing with it
 “GOOD REASONS TO EXPECT A SATIFAC­  
 “tOIIY TERMINATION OF THEM.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn85026864:00414184510:1832030201:0110/pct:6.014784946236559,24.61576908659253,15.38978494623656,7.859552667749594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn85026864:00414184510:1832030201:0110/pct:6.013774567444986,24.612693653173412,15.392799148888516,7.862735299017158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ own ports. Gen. W. set up no such claim as that con­
 tended for by the late administration—that the produc­  
 tions ol tho United States should cuter those i laud.cn th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832030801:0396/pct:34.06838799720865,29.304635761589402,14.808094905792045,3.9955849889624724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832030801:0396/pct:34.06363382640246,29.30140161130118,14.8106800632617,3.998822793657801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ productions in our vessels to these islands, and bringing in
 return the productions of (heir islands to our own ports and  
 markets.”—To seek to excuse Messrs. Adams and Clay fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832030801:0396/pct:34.08234473133287,37.64900662251656,14.822051639916259,3.664459161147903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832030801:0396/pct:34.077588612894225,37.644851561637786,14.824634849753465,3.6677335099142847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ e-t importance; and you will Ic careful not to
 countenance any idea of our dispensing with it in  
 a treaty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832051801:0182/pct:21.22368235127879,43.129938542581215,14.497668503603222,5.092186128182616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832051801:0182/pct:21.22068380898559,43.12520575002743,14.500329659979279,5.095285123815795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ highest importance; and you will be careful not
 to countenance any idea of our dispensing with  
 it in a treaty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843061301:0364/pct:4.886877828054299,257.78342653787496,49.48717948717949,23.019827147941026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843061301:0364/pct:1.6289592760180995,85.92780884595831,16.495726495726494,7.673275715980342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ Presidents Adams, Jefferson, Madison,
 Monroe and J. Q. Adams endeavored to carry  
 out this policy, but without success. At th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776312:1871022701:0391/pct:69.02610441767068,16.575163398692812,18.92570281124498,12.588235294117647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776312:1871022701:0391/pct:51.79109474389019,12.431372549019608,14.194844325410111,9.450980392156863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ the productions of these islands to our
 own ports and markets is regarded here  
 as of the utmost importance&#x27; was th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880031101:0308/pct:30.113636363636363,24.310710498409332,18.26923076923077,7.489395546129375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880031101:0308/pct:22.60603410581548,18.23966065747614,13.707914298207259,5.6203605514316015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -772,7 +772,7 @@ islands to our ports cannot be over-
 estimated.*&#x27; A treaty securing reci­  
 procal trade relations with the Brit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766410:1892040701:0389/pct:6.205368135927111,66.33653846153847,11.154887958630878,5.153846153846154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766410:1892040701:0389/pct:6.205368135927111,66.33653846153847,11.154887958630878,5.163461538461538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

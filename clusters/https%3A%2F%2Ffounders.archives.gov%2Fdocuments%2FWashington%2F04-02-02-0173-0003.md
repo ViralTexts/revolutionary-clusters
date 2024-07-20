@@ -1830,7 +1830,7 @@ as the said fubferibers cr a majority
 of them, shall think fit. Each mem­  
 ber shall be allowed one vote for eve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802071301:0111/pct:77.33083879014656,68.24857628134679,16.57312129716246,8.822060145868718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802071301:0111/pct:77.34123272009147,68.2519066173777,16.57312129716246,8.82872081793053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1856,7 +1856,7 @@ such locks, and perform such otber
 opening the canal aforcfaid, and the  
 Torks thereof s—and ont of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802071301:0111/pct:77.1125662613034,85.41312818463383,17.227938883691923,8.272554700769307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802071301:0111/pct:77.11776322627586,85.41978885669565,17.238332813636838,8.272554700769307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1922,7 +1922,7 @@ report, and render diltin&amp; and just ac­
 counts of all their proceedings, and  
 oa finding them fairly and jufltly stated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802071301:0112/pct:5.051449953227316,4.4959536417224495,17.134393514187714,36.16744929563393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802071301:0112/pct:5.056646918199771,4.499283977753356,17.13959047916017,36.170779631664836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1952,7 +1952,7 @@ That for and in consideration of the
 expenses the said proprietors shall in­  
 cur, not only in cutting canals, but i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802071301:0112/pct:5.441222326161522,41.3427914876611,16.72903024633614,11.070036966729942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802071301:0112/pct:5.451616256106433,41.349452159722915,16.718636316391226,11.076697638791755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2257,7 +2257,7 @@ execution of his office.
 Sec. 7. And. be it further ermr/ed,  
 That the said shares shall be 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808050201:0002/pct:75.85209667424085,9.908616187989557,17.26915926461475,5.992167101827676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808050201:0002/pct:75.8589823039317,9.908616187989557,17.276044894305585,6.000870322019147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2278,7 +2278,7 @@ of any land, through which the said
 road is intended to pass, for the pur  
 cause thereof j and in case of disagree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808053101:0181/pct:41.74591099277292,39.52544093389164,17.801445416508177,4.834411876665397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808053101:0181/pct:41.73797299866895,39.52042628774423,17.804398808391962,4.838027573373932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2319,7 +2319,7 @@ the owners of any land, through which the said
 road is intended to pass, for the purchase there­  
 of ; and in case of disagreement, or in ease th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808110401:0220/pct:4.883762840151379,56.53987109819285,17.246350693818705,3.7533173259193733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808110401:0220/pct:4.882882882882883,56.532726813242355,17.24924924924925,3.7570550080026957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2463,7 +2463,7 @@ Sec. 3. And be it further enacted,
 successors, from the time of the said  
 first meeting, shall he, and they ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051601:0149/pct:59.056603773584904,65.34934779801111,18.037735849056602,16.001549786904302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051601:0149/pct:59.045463120166005,65.3409090909091,18.040621266427717,16.00378787878788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2501,7 +2501,7 @@ a » 1 servants, as they snail j dgL* req li­
 sitc, and to settle their respective v. a­  
 5 s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051601:0149/pct:77.77358490566037,32.7005036807439,18.28301886792453,16.35025184037195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051601:0149/pct:77.75891341256367,32.696280991735534,18.285858014211154,16.35244490358127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2530,7 +2530,7 @@ That the sh ,res in the said company
 shall he deem d personal md not real  
 property, and transferable in such man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051601:0149/pct:77.75471698113208,78.60002582978174,17.849056603773583,10.938912566188815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051601:0149/pct:77.74004904734956,78.58987603305785,17.851977614286614,10.941804407713498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2549,7 +2549,7 @@ report, and render distinct and just ac­
 counts of all their proceedings ; and on  
 finding them justly and fairly stated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051601:0150/pct:5.970425138632162,7.928388746803069,17.597042513863215,3.6445012787723785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051601:0150/pct:5.969321751986694,7.927375015982611,17.599950717673874,3.648297319183395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2577,7 +2577,7 @@ nett profits shall in any year, exceed fif­
 teen per centum on the sum actually e c­  
 pended by the said company.in openin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051601:0150/pct:5.822550831792976,12.877237851662404,17.800369685767098,10.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051601:0150/pct:5.821474773609315,12.875591356604016,17.80324031294277,10.00298342070494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2747,7 +2747,7 @@ such other officers, toll-gatherers, manager,
 and servants, as they fhail judge rcquitite  
 aud to fettle their refpedlive wages
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809071101:0315/pct:6.61338348221282,67.89027431421447,16.92524682651622,13.067331670822943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809071101:0315/pct:6.61338348221282,67.89359933499584,16.93047066812934,13.070656691604322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2784,7 +2784,7 @@ by tlic said compaay. in openiag the said
 per ceatam only of che nett profits thall be  
 divided among the stockholders and: th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809071101:0315/pct:24.353549600376116,34.17456359102244,17.12897664942799,13.187032418952619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809071101:0315/pct:24.35877344198924,34.181213632585205,17.12897664942799,13.180382377389858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2914,7 +2914,7 @@ pair, free for the use of all those who
 may wish to pass the same, with such  
 carriages or other things as they ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030901:0083/pct:39.23680847179113,48.73471364571982,17.58261822165419,45.02966460830609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030901:0083/pct:39.22964585615188,48.728813559322035,17.585493489107947,45.02824858757062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2939,7 +2939,7 @@ with all their profits, shall be, and the
 same are hereby vested in the said  
 proprietors, their heirs aud assigns
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030901:0083/pct:75.3879861237904,21.092141905799732,17.18093846996531,7.410098074827461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030901:0083/pct:75.3742241694049,21.08958837772397,17.183887063405134,7.413236481033091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2968,7 +2968,7 @@ company’s books, and not otherwise, ex­
 cept bv devise, which devise shall a&#x27;sobe  
 exhibited to the president and director
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030901:0084/pct:8.418320044502133,40.10863005431503,17.504172074911924,9.100784550392275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030901:0084/pct:8.416759362254357,40.103789524499156,17.5071066617229,9.10370906750342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3018,7 +3018,7 @@ empt any vessel, craft, or boat or any
 goods, wares or merchandise, from the  
 payment thereof, and shall, after leaving 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030901:0084/pct:8.381234934173929,6.747133373566687,35.583163359911,88.43693421846712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030901:0084/pct:8.379681127178346,6.746319092445088,35.58274626127796,88.43028401319495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3041,7 +3041,7 @@ as to the navigation and tolls aforesaid, be
 forfeited and cease.  
 This act shall commence and be in forc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030901:0084/pct:26.627109215649917,22.76403138201569,17.281661412942704,5.467712733856367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816030901:0084/pct:26.622172784575454,22.761284093651945,17.28463725126684,5.471075710032987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3132,7 +3132,7 @@ them, shall think fit. Anil in count
 ing the votes or all general meeting  
 of the said company, each memhe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031401:0567/pct:27.38095238095238,4.091503267973856,35.691823899371066,89.30718954248366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031401:0567/pct:27.37480350325623,4.090968500849562,35.69129425855229,89.29987365485994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3206,7 +3206,7 @@ and in what proportion the proprietors
 shall advance and pay off the sums  
 subscribed; which orders shall In* ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031401:0567/pct:45.21563342318059,17.320261437908496,17.857142857142858,40.83660130718954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031401:0567/pct:45.205479452054796,17.317997647366358,17.860618309753725,40.835620616041474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3290,7 +3290,7 @@ i p&lt;1; to w hich meeting the president and
 ■ der distinct and just accounts or all  
 I their proceedings; and. on findin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031401:0567/pct:45.283018867924525,3.2941176470588234,36.455525606469,90.06535947712419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031401:0567/pct:45.272849764203904,3.293687099725526,36.4548244629089,90.05794449527295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3321,7 +3321,7 @@ jority of the said directors, may ap­
 point a general meeting of the pro­  
 prietors of the said company, at an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031401:0567/pct:63.23000898472596,30.73202614379085,18.508535489667565,11.006535947712418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031401:0567/pct:63.215809566584326,30.728009410534572,18.51186466052848,11.009454101860323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3355,7 +3355,7 @@ be lawful for the said president and
 directors, at all times forever here­  
 after, to demand and receive the fol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031401:0567/pct:63.56693620844564,45.071895424836605,18.17160826594789,13.673202614379084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031401:0567/pct:63.55266112732989,45.06600444386355,18.17501309978292,13.675772230209558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3384,7 +3384,7 @@ ry*•;! for as aforesaid, for the purpose
 a resaid : and the sa&#x27;d company  
 shall upon payment of the valuatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031401:0568/pct:1.5788303313319991,15.612751502482363,17.745163442294864,10.347530702900444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031401:0568/pct:1.578479324144064,15.610711952971913,17.74862902030532,10.350533420422382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3417,7 +3417,7 @@ only, that the said company shall
 ©a\.e the said canal and works well  
 c*, ablc of being navigated by v*s.sv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031401:0568/pct:1.33422281521014,55.57878233603345,17.900822770736045,12.333420433760125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031401:0568/pct:1.333926189417519,55.57152188112345,17.90425374240403,12.336163727411279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3451,7 +3451,7 @@ jority of them shall think fit, and, in
 *&#x27; anting the votes of all general meet*  
 &quot; gs ol the said company, each mem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0244/pct:77.44905956112852,42.336618257261414,17.65282131661442,13.031639004149378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0244/pct:77.43388834476004,42.331129262284456,17.655892915442376,13.034271143956092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3517,7 +3517,7 @@ to make and sign orders for that pur
 pose, and direct at what ^  
 what proportion the proctors sha^,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0244/pct:77.60579937304075,60.52904564315353,18.495297805642632,35.204875518672196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0244/pct:77.59059745347699,60.521197977440686,18.49820437479595,35.20463287091059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3546,7 +3546,7 @@ said; and, after retaining the sum due,
 uud the charges of sale, out of the mo*  
 nv; produced thereby, they shall re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:3.6988604520829442,15.617775494477266,16.570147580795815,9.671204726432057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:3.6981695928277922,15.615769872865032,16.573278545635663,9.67424339711485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3584,7 +3584,7 @@ as skull be. from time to time, appoint­
 ed by the said general meeting; but if  
 a sufficient number should not attend o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:2.1856902671399214,37.88851785255587,18.49430226041472,21.38453634729001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:2.1852820321255138,37.883652240914344,18.49707383887436,21.386070801763623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3622,7 +3622,7 @@ any emergency, in the interval between
 the said yearly meetings, the said Pre  
 sident or a majority of the said direct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:2.1856902671399214,54.93192910351914,18.62507005417523,32.532751091703055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:2.1852820321255138,54.924874791318864,18.62781720831777,32.53285390180215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3655,7 +3655,7 @@ nnd may be lawful for the said Presi- ]
 dent and directors, at all times forever  
 hereafter, 10 demand and receive th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:4.147207173547543,74.60827125610069,17.29871100317579,12.62522476239404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:4.1464325737766154,74.59869012456659,17.3017058896775,12.627884080304781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3682,7 +3682,7 @@ Be it further enacted, That whenever
 the nett income of the company shall  
 be found, for two succeeding years, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:21.109658135624883,45.4533778576933,16.570147580795815,8.592345235037246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:21.1057153530071,45.44754077308335,16.573278545635663,8.595522451949831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3711,7 +3711,7 @@ with the owners of any land thro’ which
 the said canal is intended to pass, (or  
 the purchase thereof; and in case o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:21.57668597048384,63.9866426920113,16.588828694190173,9.88954533778577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:21.572655958162123,63.9784255810967,16.59195616984186,9.892555969350628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3752,7 +3752,7 @@ tion, may be used l»y the said president
 and directors ior any water work or i»­  
 ther purpose, as they may deem mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:38.2589202316458,27.356794246082714,16.364655333457875,16.837914204983303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:38.251774374299586,27.353281109541545,16.367824679367452,16.8400325328539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3819,7 +3819,7 @@ creek, and such other streams as by
 may conduet to the canal or taF.a s  
 which they arc by this act audio ise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:38.800672520082195,4.8548677112766505,33.513917429478795,90.16182892370922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031401:0245/pct:38.79342547627942,4.854244253242584,33.513883700659946,90.15453105603356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3853,7 +3853,7 @@ of the said company, each member
 shall be allowed one vote for every  
 share by him or her held in the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:24.764962164641137,8.73989042525437,18.75716578766338,14.022958518132011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:24.759284731774414,8.738750489109169,18.76050741250191,14.025477153167254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3910,7 +3910,7 @@ security as the said President 6c Di­
 ivctors. or a majorit of them, shall  
 direct, for the true ami faithful dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:24.69617060307269,27.53717714583877,18.780096308186195,28.35898773806418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:24.69050894085282,27.53358549628277,18.783432676142443,28.359636537541846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3935,7 +3935,7 @@ and in what oronortinn the proprietors!
 shall advance and pay off the sums,  
 subscribed; which orders shall bead-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:24.69617060307269,58.68771197495435,18.80302682870901,6.991912340203496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:24.69050894085282,58.68005738880918,18.806357939782973,6.995348028346593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3971,7 +3971,7 @@ directed to be advanced as aforesaid,
 with the incidental charges, the sai  
 President and Directors, or a major
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:24.764962164641137,76.06313592486303,18.6425131850493,15.210018262457606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:24.759284731774414,76.05321507760532,18.645881094299252,15.212382070344768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4040,7 +4040,7 @@ jority of the said directors, may ap­
 point a general meeting of the pro­  
 prietors of the said company, at a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:43.68264159596423,11.427080615705714,18.825957349231828,37.646751891468824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:43.672627235213206,11.425590191730794,18.829283203423508,37.64618929611756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4075,7 +4075,7 @@ be lawful for the said president and
 directors, at all times forever here­  
 after, to demand and i-ereive the fol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:43.68264159596423,52.49152100182624,18.41320797982114,13.827289329506913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:43.672627235213206,52.484674579366114,18.416628457893932,13.82983348550063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4104,7 +4104,7 @@ Agree with the owners of any land,
 hrougb which the said canal Is in­  
 tended to pass, fir the purchase ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:62.66911258885577,49.73910774849987,18.32148589772988,10.370466997130185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:62.65474552957359,49.73262032085562,18.324927403331806,10.373462023390287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4129,7 +4129,7 @@ least.
 And be it further enacted, that so  
 loon as the said canal and work
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:81.42627837651915,71.92799373858597,18.160972254070167,7.50065223062875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031501:0571/pct:81.40761118752866,71.91861223425069,18.16445055784808,7.504021564279814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4431,7 +4431,7 @@ far as ten shares, and one vote tor every
 live shares above ten, by him or her held  
 at the time in the said company j and an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040201:0151/pct:75.98789941387786,53.09768148992779,17.22442805823407,10.363613328265552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040201:0151/pct:75.97353497164461,53.09095515581454,17.227473219911783,10.366523097711342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4483,7 +4483,7 @@ the stockholders, be determined : Pro­
 vided always, That the treasurer shall  
 give bend in such penalty and with suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040401:0155/pct:57.84905660377358,15.893373569722117,17.28301886792453,23.689173896642778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040401:0155/pct:57.83814374646293,15.891375408599448,17.286046657863295,23.690386388399965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4531,7 +4531,7 @@ in every year, at such convenient town
 as shall, from time to time, be appointed  
 by the said general meeting j but, if 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040401:0155/pct:58.0188679245283,13.59235508613102,34.943396226415096,80.37218659625299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040401:0155/pct:58.00792303338993,13.590646215740508,34.943092498270765,80.36627273489229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4556,7 +4556,7 @@ then present, or a majority of them, shall
 trivo a certificate thereof, a duplicate of  
 which shall be entered on tire saul com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040401:0155/pct:75.73584905660377,17.42738589211618,17.28301886792453,6.676725763862693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040401:0155/pct:75.72156196943973,17.425194870505408,17.286046657863295,6.680077110049451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4585,7 +4585,7 @@ upon any emergency in the interval be­
 tween the said yearly meetings, the said  
 president, or a majority of the said direc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040401:0155/pct:75.26415094339623,24.19212875644411,17.735849056603772,9.354960392304791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040401:0155/pct:75.24995283908696,24.18908725169726,17.73879142300195,9.3579750230492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4621,7 +4621,7 @@ be appointed bv the president and di­
 rectors aforesaid, tolls for the passage of  
 vessels, boats, rafts, pioducr and articles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040401:0155/pct:75.39622641509433,37.89764868603043,17.943396226415093,13.17741732679492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040401:0155/pct:75.38200339558574,37.89288408348001,17.946299440357166,13.179951387142738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4658,7 +4658,7 @@ toagiee wish the owners of any land,
 ’hrough which the said canal is intended  
 to pa«s. fo. the purchase, or any use, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040701:0159/pct:40.03416856492027,61.05329949238579,16.799544419134396,14.644670050761421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040701:0159/pct:40.02657050673752,61.04555259484837,16.802682355918265,14.647041407604787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4691,7 +4691,7 @@ Mm execution thereof in the said ccnipa
 nv s nooKs. am nm omvrvvise, except by  
 devise which devise shall also he exhibit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040701:0159/pct:57.384206529992404,33.33756345177665,16.89445709946849,11.269035532994923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040701:0159/pct:57.37331561966217,33.333333333333336,16.897577022837982,11.271835215497187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4735,7 +4735,7 @@ pletion of the said ranal and locks the
 president and directors shall fail tc keep  
 the same in repair for twelve 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040701:0159/pct:74.77220956719817,14.98730964467005,18.014426727410783,18.274111675126903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823040701:0159/pct:74.75801859935471,14.985407943154422,18.017334092490668,18.276022501374616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4844,7 +4844,7 @@ and concerns, lor and during such time, not
 --o -j ..• *,,v “&quot;‘a o.iuscri &gt;crs  
 3i- a majority ol them, shall think hi , and 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0087/pct:20.636593591905566,42.41837299391256,16.63153456998314,6.931377974543442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0087/pct:20.632244467860907,42.41250518743948,16.633298208640674,6.933877438096555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4890,7 +4890,7 @@ sum ot money as shall by a general meeting ot
 tile stockholders tie determined Provided ui­  
 ■uuyi, That the treasurer shall give bond i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0087/pct:20.636593591905566,57.180409518539015,16.63153456998314,17.003320420586608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0087/pct:20.632244467860907,57.1724996541707,16.633298208640674,17.004426615022826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4927,7 +4927,7 @@ which meeting the president and directors snail
 make report, and render distinct accounts of all  
 their proceedings; and on finding them fairl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0087/pct:37.92158516020236,26.20365246264527,16.69477234401349,12.354731599335915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0087/pct:37.91359325605901,26.200027666343892,16.696522655426765,12.356480841056854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4957,7 +4957,7 @@ after declared; and upon any emergency in the
 interval between the said yearly nieein&#x27;ga, the  
 said president, or a majority ot said directors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0087/pct:37.83726812816189,38.4338682899834,16.61045531197302,8.619258439402325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0087/pct:37.82929399367755,38.42855166689722,16.612223393045312,8.621524415548485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4991,7 +4991,7 @@ shall at any time hereafter be imposed, hut by
 consent ol the said stale* ol A irgmia and Mary­  
 land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0087/pct:54.99578414839797,26.59103486441616,16.947723440134908,10.390149418926397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0087/pct:54.98419388830348,26.587356480841056,16.949420442571128,10.392170424678378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5021,7 +5021,7 @@ said company’s books, and not oilier wise,
 except devise; which devise shall also be ex­  
 liibited to the President and Directors, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0087/pct:55.26981450252951,71.07083563918096,16.441821247892076,8.480907581627006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0087/pct:55.258166491043205,71.0610042882833,16.443624868282402,8.483192696085212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5044,7 +5044,7 @@ work within one year after it (shall hare ocen
 formed or if the work hereby required to be  
 done, shall not be diligently prosecuted, so a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0087/pct:72.57588532883642,40.481460985058106,16.526138279932546,4.842280022136137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823052901:0087/pct:72.56059009483667,40.47586111495366,16.527924130663855,4.845068474201135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6187,7 +6187,7 @@ from the tolls, shall be ordered and made, by
 the board, to and among the stockholders of  
 said company in proporlion to their respectiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826082901:0137/pct:23.23012291893574,42.99835255354201,16.461801773766922,12.623558484349259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826082901:0137/pct:23.23012291893574,43.001784733662824,16.466988226751724,12.630422844590884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6223,7 +6223,7 @@ Capable oi Conveying vessels, or rafts, drawing four
 feet water at the least, into tide water, or ehall  
 render such part of the river navigable in the natu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827032001:0431/pct:48.61155957378108,18.141002305545445,15.32127865676461,6.30991384540711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827032001:0431/pct:48.60371267150928,18.138801261829652,15.324186171643799,6.313192590795114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6354,7 +6354,7 @@ i&#x27;1-! eir respective wages or allowances, and to
 ■* . oj*s and sign their accounts; and also  
 st mJfcr an l establish rules of proceeding, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830020501:0433/pct:1.0505698005698005,3.7261803616943805,17.646011396011396,11.664036897681758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830020501:0433/pct:1.0503827666013887,3.7257281553398056,17.64880422526853,11.666666666666666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6386,7 +6386,7 @@ ny the addition of so many whole shares a&gt;
 shall he judged nercsitiy by the said stock­  
 holder s* or a majority of mein, pres-nt at an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830020501:0433/pct:38.72863247863248,55.807743658210946,18.465099715099715,12.003883966500789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830020501:0433/pct:38.72173758233933,55.800970873786405,18.467746721262834,12.006472491909385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6619,7 +6619,7 @@ after the expiration thereof, shall call a general |
 meeting of the subscribers at the town of Alcx- |  
 andria, of which meeting l)otice shall be given 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062901:0310/pct:7.686665688719378,21.900452488687783,16.033445797271526,6.505781799899447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062901:0310/pct:7.6915554251625835,21.900452488687783,16.033445797271526,6.509133567957098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6647,7 +6647,7 @@ every share, as far as ten shares, and one vote
 for every ten shares above ten, by him or her,  
 held at the time, in the stock of the said Compa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062901:0310/pct:7.642658060730526,66.61639014580192,15.91609212263459,6.918049270990448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062901:0310/pct:7.647547797173733,66.61974191385956,15.91609212263459,6.921401039048098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6687,7 +6687,7 @@ to settle, pass, and sign theiraccounts; and, also
 to make and establish rules of proceeding, and to  
 transact all other . business and concerns of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062901:0310/pct:7.495965967434356,79.5475113122172,16.136130262578845,13.071895424836601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062901:0310/pct:7.505745440320767,79.55421484833249,16.13124052613564,13.0651918887213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6711,7 +6711,7 @@ general meeting of the stockholders, be deter­
 wined : Provided, always, That the Treasurer  
 shall give bonds in such penalty, and with suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062901:0310/pct:21.798445063811062,9.321266968325792,50.6821182338272,6.505781799899447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062901:0310/pct:21.808224536697473,9.327970504441092,50.6821182338272,6.505781799899447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6767,7 +6767,7 @@ meeting, the President and Directors shall make
 report, and render distinct accounts of all their  
 proceedings; and, on finding them fairly an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062901:0310/pct:24.072172509901716,36.48064353946707,15.842746075986504,20.522875816993466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062901:0310/pct:24.072172509901716,36.48399530752472,15.84763581242971,20.522875816993466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6794,7 +6794,7 @@ declared ; and, upon any emergency, in the in­
 terval between the said yearly meetings, the said  
 President, or a majority of the said Dircctors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062901:0310/pct:24.20419539386827,58.431372549019606,15.769400029338419,6.475615887380593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062901:0310/pct:24.209085130311475,58.431372549019606,15.77917950222483,6.478967655438244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6821,7 +6821,7 @@ as provided by this act; andno other toil or
 tax whatever, for the use of the said canal, and  
 the works thegeon ergcted, shall at any timn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062901:0310/pct:40.67771747102831,35.08295625942685,15.637377145371865,6.5359477124183005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830062901:0310/pct:40.68260720747152,35.08965979554215,15.637377145371865,6.539299480475951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6859,7 +6859,7 @@ majority of them, shall think fit, and inl
 counting the votes of all general meetings&#x27;  
 of the said Company, each member shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830071501:0514/pct:18.4841166635705,51.9133996489175,17.610997584989782,14.3826799297835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830071501:0514/pct:18.490308997461142,51.91730056563292,17.610997584989782,14.390481763214355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6915,7 +6915,7 @@ le therein, sucheun of mouey se shall, by
 a general meeting of the stockholders, be  
 determined : Provided always, That th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830071501:0514/pct:18.44696266022664,11.57401989467525,35.51922719673045,82.0947922761849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830071501:0514/pct:18.459347328007926,11.57401989467525,35.51922719673045,82.10259410961577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6979,7 +6979,7 @@ Directors shall make report, and ren­
 der distinet accounts of all. their pro­  
 ceedings; and, on finding them fairl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830071501:0514/pct:36.15084525357607,47.712112346401405,17.40665056659855,32.07723815096548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830071501:0514/pct:36.15703758746672,47.712112346401405,17.412842900489196,32.08894090111176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7010,7 +7010,7 @@ between the said yearly meetings, the
 said President, or a majority of the  
 said Directors, may appoint a genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830071501:0514/pct:36.18799925691993,82.43417203042715,17.27661155489504,11.164423639555295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830071501:0514/pct:36.18799925691993,82.43417203042715,17.288996222676328,11.168324556270724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7050,7 +7050,7 @@ President’and Directors, or a majoris
 of any land through or on which it is  
 - intended that the said canal, or nn{ o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830071501:0514/pct:71.57718744194688,12.990052662375659,18.37265465353892,15.96255119953189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830071501:0514/pct:71.58957210972815,12.993953579091086,18.37265465353892,15.958650282816462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7223,7 +7223,7 @@ as tea shares, arid one vote for every ten shares
 above ten. by him or her held at the time, in the  
 s&#x27;.ick of tin* said Company: and any proprietor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830081601:0268/pct:8.7189226519337,31.95763330898466,17.81767955801105,10.530801071341612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830081601:0268/pct:8.71741757293285,31.953743152769324,17.820357903216525,10.533576790424021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7260,7 +7260,7 @@ the stockholders, which shall be held on the first
 Monday in May, in every year, at such conveni­  
 ent place as shall be from time to time appointe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830081601:0268/pct:8.615331491712707,48.70952033114195,17.921270718232044,14.390065741417093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830081601:0268/pct:8.613844294838598,48.70359099208765,17.923931181310778,14.392371677825116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7279,7 +7279,7 @@ the President and Directors shall make repot t
 and render distinct accounts of all tl.eir proceed­  
 ing*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830081601:0268/pct:8.529005524861878,65.53445337229121,17.93853591160221,3.214024835646457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830081601:0268/pct:8.527533229760055,65.5264759586123,17.941193394326486,3.2176912152566444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7376,7 +7376,7 @@ at anv time hereafter,
 be imposed, but by the  
 consent of the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830092401:0404/pct:8.917748917748918,55.79514824797844,8.554112554112555,20.58319039451115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830092401:0404/pct:8.916204986149584,55.788313120176404,8.558402585410896,20.584752337784312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7399,7 +7399,7 @@ pany, and by (he laws of the Commonwealth ’
 witnesses, the tendency of whose evidence was to prove  
 that tho (. ompauy had failed to perform all those duties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830120701:0239/pct:35.51809330039239,59.82468123861567,14.852492370295016,4.04143897996357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830120701:0239/pct:35.512932287125835,59.81787137165623,14.855177758403565,4.044773287801176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7663,7 +7663,7 @@ the transportation of all goods, commodities and
 produce whatsoever, on payment of the tolls  
 to be imposed as provided by this act; and nooth-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1839041301:0149/pct:25.683060109289617,52.171754777860514,20.218579234972676,8.761479275254406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1839041301:0149/pct:19.265219371489298,39.128816083395385,15.166236526491573,6.577314470091834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8274,7 +8274,7 @@ said work, and maintaining and keeping tlie
 same lu repair, the said canal and other  
 works, with all their profits pertaining, shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1847061201:0598/pct:107.31292517006803,21.963092946903657,19.99716553287982,30.737008943733727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1847061201:0598/pct:80.50751346753616,16.472319710177743,15.012758718457613,23.06124759424884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8294,7 +8294,7 @@ land over which the said Road or any of
 its branches is intended to pass, for the  
 purchase thereof; and in case of disagree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1849021001:0241/pct:28.456221198156683,77.63363900693358,20.132488479262673,4.685752628047417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1849021001:0241/pct:21.345239809880454,58.23082084544845,15.10874261846464,3.511518675911429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8391,7 +8391,7 @@ of such stockholder so failing, giving one month&#x27;s
 previous notice of the time and place of sale in man­  
 ner aforesaid ; and. after retaining the sum due an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851030101:0143/pct:50.03257328990228,30.043690567977382,19.8371335504886,9.611924955024415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851030101:0143/pct:37.54277334202379,22.539193009509123,14.89327032752159,7.208943716268312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8423,7 +8423,7 @@ years, as the said subscribers, or a majority of j
 them, shall think tit; and in counting the votes of j  
 all general meetings of tho said company, each 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663493:1860012501:0088/pct:30.147610708031024,76.1807528409091,14.010507880910684,8.220880681818182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663493:1860012501:0088/pct:30.147610708031024,76.1807528409091,14.01467767492286,8.226799242424242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8463,7 +8463,7 @@ at ihe reto oi i* per cent, per annum shall be cal­
 culated upon such claims as are entitled to it to &#x27;  
 the first d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663493:1860012501:0088/pct:30.21015761821366,87.23366477272727,13.910432824618464,11.585582386363637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663493:1860012501:0088/pct:30.218497206238013,87.23958333333333,13.906263030606288,11.585582386363637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8488,7 +8488,7 @@ commodities or produce whatever on pay­
 ment of tho tolls imposed in pursuance of  
 this act; no toll or tax whatever for the us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627476:1866050501:0289/pct:81.85456050779634,59.12933631328345,12.253346212225749,5.091827810708386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627476:1866050501:0289/pct:81.85916011223034,59.12933631328345,12.257945816659767,5.098305963139313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8533,7 +8533,7 @@ r AN AC Tto amend an Act to incorporate
 . j tin* Grand Lodge of Free and Accepted  
 Masons of Maryland, passed Februar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1866052601:0598/pct:22.923018292682926,16.635050342915513,33.53658536585366,108.14241937837444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1866052601:0598/pct:17.76519812946099,12.892038600723764,26.00049224710805,83.81332931242461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8561,7 +8561,7 @@ er on payment of the tolls imposed in pur­
 suance of this act; no toll or tax whatever  
 for the use of the water of said canal, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060120:00415623501:1866053101:0071/pct:112.12401055408971,248.7681744749596,39.08970976253298,23.273424878836835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060120:00415623501:1866053101:0071/pct:37.37467018469657,82.92272482498653,13.029903254177661,7.757808292945612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8599,7 +8599,7 @@ Section 1 be it enacted, by the Gen­
 cral Assembly of Maryland, That the  
 Reverend Franklin Wilson. Francis 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060120:00415623501:1866062101:0086/pct:59.504923413566736,160.92210825632174,40.645514223194745,41.50502691174977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060120:00415623501:1866062101:0086/pct:19.834974471188914,53.64070275210724,13.548504741064916,13.835008970583257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8621,7 +8621,7 @@ taken to be a public highway for the trans­
 portation of all goods, commodities, or pro­  
 duce of every kind and description, and fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288956:1866081801:0173/pct:268.2994454713494,299.81474620229716,49.35304990757856,15.93182660244535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288956:1866081801:0173/pct:67.10587147480351,74.95368655057429,12.343966712898752,3.9829566506113374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8656,7 +8656,7 @@ forever thereafter be esteemed and taken to be
 a public highway for the transportation of all  
 goods, commodities, or produce of every kin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151398:1867011001:0469/pct:37.971967963386724,89.50925002769469,11.112700228832953,4.1542040545031576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151398:1867011001:0469/pct:37.971967963386724,89.51294265352092,11.12700228832952,4.1542040545031576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8677,7 +8677,7 @@ ever thereafter be esteemed and taken to be a
 public highwav for tiie transportation of all goods,  
 commodities, or produce of every kind and de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022834:1867030901:0121/pct:39.05289052890529,63.11849339103989,16.743542435424356,3.5559714586501343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022834:1867030901:0121/pct:29.303184125519152,47.33887004327992,12.567297338870944,2.6786758685226344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8756,7 +8756,7 @@ esteemed ami taken to be navigable as a pub­
 lic highway.  
 The only claim the State basis that of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1890030101:0044/pct:84.90751672569854,95.53980209717915,15.60409287682015,5.878009156697681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1890030101:0044/pct:65.8041886945913,74.04807325448301,12.103497356649044,4.559328500572301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8773,7 +8773,7 @@ the co mpany empowered it to- agree with the
 owners of any land through which the said  
 ca:ul was intended to pass, for the purchase
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654863:1892111701:0618/pct:13.125621478289691,18.162335922850254,12.164401723566456,1.4599517814090543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654863:1892111701:0618/pct:13.125621478289691,18.162335922850254,12.180974477958237,1.463300294669167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8807,7 +8807,7 @@ ing the same in repair, the said canals
 and works, with all their profits, be  
 and the same are hereby vested in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_quartz_ver01:data:sn85025007:0017503366A:1894080301:0734/pct:43.36016096579477,49.00384876613086,13.86653252850436,10.39166855331673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_quartz_ver01:data:sn85025007:0017503366A:1894080301:0734/pct:43.36016096579477,49.00384876613086,13.872121618600492,10.402988453701607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8829,7 +8829,7 @@ the laud through whith the same may
 be led be ?rst had.  
 The Maryland State rights at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_quartz_ver01:data:sn85025007:0017503366A:1894080301:0734/pct:43.326626425217974,62.27077201720625,13.732394366197184,4.24496264432873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_quartz_ver01:data:sn85025007:0017503366A:1894080301:0734/pct:43.33780460541024,62.27454531733454,13.743572546389448,4.2525092445853145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

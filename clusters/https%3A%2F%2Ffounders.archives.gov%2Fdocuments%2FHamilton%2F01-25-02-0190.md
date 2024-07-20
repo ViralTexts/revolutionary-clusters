@@ -159,7 +159,7 @@ Thus it is certain that the Federalist Rayard voted
 thirty ave times for Burr, and ir on the thirty inth naf  
 lot he changed to Jefferson that vote was unnecessar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885061001:0216/pct:234.6153846153846,255.77912254160364,51.53846153846154,10.711043872919818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885061001:0216/pct:58.67641400538669,63.94478063540091,12.889572912658714,2.6777609682299546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ one man (a great blockhead) and tempting
 two (not incorruptible) he might have secured  
 a majority of the States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210533:1885061501:0254/pct:14.763906856403622,51.4954172696575,10.802069857697283,2.436082971538833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210533:1885061501:0254/pct:14.761519805982216,51.489207765585434,10.804365400161682,2.438803810442542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ ws  a r AFeI a At
 Dweg $es msatesaies sssetenw wa asen asts   
 United States; and the little use he has made of the on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885061801:0256/pct:177.49419953596288,211.57943492357572,51.12142304717711,52.10745715609078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885061801:0256/pct:44.38213111583833,52.89485873089393,12.782827306130342,13.026864289022695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ decelving one man (a great blockhead) and
 tempting two (not incorruptible) he might  
 have secured a majority of the State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062801:0310/pct:123.38269680436477,265.343347639485,51.28604832424006,10.438381361128142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885062801:0310/pct:30.857699805068226,66.33583690987125,12.826510721247564,2.6095953402820355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

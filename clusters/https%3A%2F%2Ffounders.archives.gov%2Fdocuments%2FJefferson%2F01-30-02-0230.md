@@ -244,7 +244,7 @@ them happy and useful, and I make the said
 Thomas Jefferson my executor of this.  
 &quot;T. KOSCIUSzHO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853031201:0733/pct:93.59263050153531,308.43651022171036,73.9611054247697,49.36654189461561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853031201:0733/pct:23.39336880884159,77.09802792572333,18.486492018010644,12.339858931913056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ in whatsoever may make them heppy and use­
 iul and f make the &quot;aid 1 ho:na- Jefferson my  
 executor of this. I&#x27;. KOSCICs/.HO.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853031701:0256/pct:7.028477451744136,14.625567564110764,12.377737384229205,8.102577220694506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853031701:0256/pct:7.027869136229877,14.624632305921473,12.37955109341642,8.104190646715265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ make them happy and useful, and I make the said
 Thomas Jefferson my executor of this  
 ?&#x27; 15th day of May 17IW. T. KOSCIUSZHO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853031801:0364/pct:32.90084895082492,66.51707803540265,15.713599231138875,7.429568686113189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853031801:0364/pct:32.90084895082492,66.52538851491731,15.718938544503176,7.429568686113189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ may irake them happy and useful, and
 I malic the Mid Thomas JelTrson my &#x27;)  
 executor ol this. T JCosciusziio V
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1853032601:0237/pct:82.52148997134671,62.29356095750603,14.847616566814274,13.100760809055483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1853032601:0237/pct:82.54102630893462,62.30283911671924,14.847616566814274,13.110038968268695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ the said Thomas Jefferson my executor
 this.  
 &#x27;1 5th day of May 1793, T. KOSCIUSKO.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1853043001:0064/pct:40.80376538740043,110.1428773518178,17.17958001448226,14.542368086009336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1853043001:0064/pct:30.62296269467584,82.61423115009195,12.893879029337196,10.906776064507003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ ever may inake them happy and usefeil, and I make the
 sald Thomas Jefferson my exeoutor of this.  
 5th day of May, 1798. T Kosciszko
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868080601:0664/pct:54.982709839673056,264.199935086011,48.75825212197422,18.262468895380287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868080601:0664/pct:18.327569946557688,88.06664502867035,16.25275070732474,6.087489631793429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ make them happy and useful, and I make
 the said Thomas Jefferson my executor of  
 this.O Koscruszko
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741959:1868080801:0139/pct:88.85847248836572,188.87050822534692,42.841500136873805,54.27809943938976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741959:1868080801:0139/pct:29.61949082945524,62.956836075115646,14.280500045624601,18.092699813129922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ mem uappy uuu usciui, auu ?.
 Thomas Jefferson my executor of this.  
 T. Kosckjszko
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663638:1868081001:0350/pct:1.9141749030401602,30.361324857811976,18.35355936444389,9.836065573770492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663638:1868081001:0350/pct:1.9225155344259561,30.361324857811976,18.35355936444389,9.841641574662653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ rood order of socicty, and in whatever may make
 Jederson my executor of this.  
 5th day or May, 179s. T Koscieszko
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1868081301:0153/pct:0.0,225.40813297714456,63.075722092115534,23.864648263579696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1868081301:0153/pct:0.0,56.35203324428614,15.768930523028883,5.966162065894924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ ever may make them happy and useful, and I
 make the said Thomas Jefferson my executor of  
 this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1868081401:0128/pct:300.2118644067797,19.78305785123967,80.36723163841808,361.8801652892562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1868081401:0128/pct:75.09273979862215,4.945764462809917,20.102455396573042,90.47004132231405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ ociety, ana -in whatever may- make-hem
 happy and useful, asd I make the  
 aid Thcmas Jeflcrsoo my executor e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027315:1868081901:0029/pct:109.93723849372385,73.36227308602999,14.181111775254035,14.377795317021837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027315:1868081901:0029/pct:82.4813153961136,55.02499342278348,10.642750373692078,10.78663509602736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -883,7 +883,7 @@ T KosHItszRo,
   
  thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85038222:00280774923:1869021801:0641/pct:23.102040816326532,253.75,56.40816326530612,86.25/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85038222:00280774923:1869021801:0641/pct:5.775510204081633,63.4375,14.10204081632653,21.5625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +950,7 @@ may make them happy and useful, and I make the
 said Thomas JefTerson my executor of this.  
 &quot;T. KOriCIUSZKO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776300:1870120201:0653/pct:49.49324324324324,35.86614173228347,19.493243243243242,9.094488188976378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776300:1870120201:0653/pct:37.13465112350059,26.902887139107612,14.613955059976348,6.824146981627297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ and in whatever may make them happy and use-
  ma a ane the sant thoma seneron my  
 eagtos os trils  oivst
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873071601:0053/pct:291.4691943127962,247.9373368146214,43.88625592417062,22.419495213228895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873071601:0053/pct:72.90184921763868,61.98433420365535,10.976766239924135,5.604873803307224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1017,7 +1017,7 @@ happy and useful, and I make the
 said Thomas Jefferson my executor of  
 this. T. Kosciuszlio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762428:1873071601:0074/pct:15.85973301454473,45.505868370227304,12.731619844590556,10.251077105927797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762428:1873071601:0074/pct:15.85973301454473,45.51701084534245,12.75652520422395,10.247362947556084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1050,7 +1050,7 @@ may make them happy and useful, and I
 make the said Thomas Jefferson my execu­  
 tor of this. T. Koscieszi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742058:1873071701:0066/pct:52.78116118554608,60.23779270284988,40.95276762755447,26.11181702668361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742058:1873071701:0066/pct:17.59372039518203,20.079264234283293,13.650922542518158,8.703939008894537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1084,7 +1084,7 @@ happy and useful, and I make the said Thomas
 Jefferson my executor of this.  
 - T. Kosciuszlio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663717:1873071901:0070/pct:3.0867630700778643,21.97196261682243,15.809232480533927,10.345794392523365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663717:1873071901:0070/pct:3.0960326288468667,21.97196261682243,15.81850203930293,10.35202492211838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1117,7 +1117,7 @@ of tho pood order of society, and whatever mav make,
 them happy and useful, mid I make the said Thomas  
 Jefferson my executor of this. T. Koboiobzlio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873072401:0002/pct:56.564212532761495,3.984785364970114,27.06695258517989,93.84169534504619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873072401:0002/pct:56.564212532761495,3.998369860532512,27.072909220872052,93.83263901467126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ country, ami of the good order of socie­
 i Thomas Jefferson my executor of this.  
 T. Kosciuszlio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767791:1873072601:0125/pct:25.43376480308455,14.16869819600195,17.69484990360782,11.496830814236958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767791:1873072601:0125/pct:25.438354906820894,14.171948642938403,17.699440007344165,11.503331708109865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1230,7 +1230,7 @@ the said Thomas Jefferson my executor of
 this.  
 T. Kosciuszlio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1873080101:0114/pct:74.67185221195916,61.09114249037227,11.197536865986065,9.974326059050064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1873080101:0114/pct:74.6597537265068,61.08330124502631,11.199773169151005,9.976254652804519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1321,7 +1321,7 @@ and I make the said Thomas Jefferson execu
 tor of this 5th day of May, 1798.  
 X. KOSCIUSKO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296029002:1879090601:0390/pct:74.49944382647386,43.2445233866193,12.75027808676307,7.886323268206039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296029002:1879090601:0390/pct:55.8970792767733,32.43339253996447,9.56884561891516,5.920663114268798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1469,7 +1469,7 @@ them happy and usefal; and I make the
 said Thomas Jefftrson executor of this.  
 (Signed) T. KoscIUszeo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198958:1887030601:0296/pct:109.9006116207951,160.92033921868483,44.41896024464832,36.11844849158904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198958:1887030601:0296/pct:27.475152905198776,40.23008480467121,11.10474006116208,9.02961212289726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1503,7 +1503,7 @@ may make them happy and useful, and I make
 the said Thomas Jefferson executor of this.  
 T. KosciUSzH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn82000205:00211103590:1887070701:0675/pct:202.50231696014828,306.4669345999269,43.00278035217794,27.183047131896238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn82000205:00211103590:1887070701:0675/pct:50.62557924003707,76.61673364998173,10.750695088044486,6.7957617829740595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1531,7 +1531,7 @@ and of the good order of society and in whatanever may make
 them happy and useful, and I make the said Thomas Jeffer-  
 son executor of this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175038188:1887070801:0074/pct:152.80735721200386,138.81675510895337,46.96676347208777,13.8082872304392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175038188:1887070801:0074/pct:50.935785737334626,46.272251702984455,15.655587824029256,4.602762410146401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1565,7 +1565,7 @@ useful; and I make the said Thomss dener­
 son executor of this.  
 (Signed) T Kosciusxo.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887070801:0603/pct:285.2803738317757,298.0802792321117,52.258566978193144,33.04246655031995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887070801:0603/pct:71.33398247322297,74.52006980802793,13.067185978578383,8.260616637579988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1599,7 +1599,7 @@ make thorn happy and useful, and I make
 the said Thomas Jefferson oxecutor of this.  
 . &quot;T. Kosoiusko.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060189:00206533699:1887070901:0650/pct:32.56997455470738,93.90296264491198,21.26802374893978,14.14054672964076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_hairspray_ver01:data:sn87060189:00206533699:1887070901:0650/pct:24.43784471786169,70.43080005724917,15.973695375477302,10.60541004723057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1635,7 +1635,7 @@ Id py and useful; and I make the said t
 ,al Thomas Jefferson executor of this. (  
 J [Signed] T.Kosciusko, |
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193523:1887070901:0673/pct:24.428571428571427,87.27180527383368,13.619047619047619,9.651791751183232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193523:1887070901:0673/pct:24.428571428571427,87.28025693035835,13.642857142857142,9.656017579445571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1670,7 +1670,7 @@ useful; and I make the said Thomas Jef­
 fersou executor of this.  
 [Signed] T. Kosoicsko.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341802:1887070901:0035/pct:26.950666081100863,69.96154245920383,11.49172888303323,9.697536638603056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341802:1887070901:0035/pct:26.94672131147541,69.95427146123467,11.494925839188134,9.69999307143352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1768,7 +1768,7 @@ happy and useful, and 1 may make the
 said Thomas Jefferson executor of this.  
 T. Kosciuszho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:00175033269:1887072001:0259/pct:26.176602420439266,14.317824230164081,11.444793067383834,9.294223420993482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:00175033269:1887072001:0259/pct:26.18656307585039,14.317824230164081,11.43981273967827,9.30920806173672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1805,7 +1805,7 @@ and useful, and I make tbe said Thom­
 as Jefferson executor of this.  
 Signed T. Kosciusko.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296026839:1887072101:0124/pct:50.70785070785071,106.07843137254902,14.253539253539254,12.340686274509803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296026839:1887072101:0124/pct:38.03700724054706,79.55882352941177,10.699919549477071,9.264705882352942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1842,7 +1842,7 @@ and useful, and I may make the said
 Thomas Jefferson executor of this.  
 T. KosciUSzHO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555353:1887072301:0712/pct:304.8119692680954,122.52974996657308,53.29559239789729,53.91095066185319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555353:1887072301:0712/pct:76.20299231702386,30.63243749164327,13.323898099474322,13.477737665463298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1938,7 +1938,7 @@ defenders cf their liierty and country,
 ar.d cf tho good order of society, and ia  
 whatover may make them happy an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_ionia_ver01:data:sn98066392:0029602448A:1890070901:0134/pct:107.0414201183432,195.44532546560944,41.671597633136095,27.96422644292827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_ionia_ver01:data:sn98066392:0029602448A:1890070901:0134/pct:35.680473372781066,65.14844182186981,13.890532544378699,9.321408814309423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1974,7 +1974,7 @@ useful. And I make the said Thomas
 Jefferson my executor of this. T.  
 KOSCIUSZKO. 5th day of May, 1793.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479834:1890070901:0231/pct:21.58641160949868,73.1168245376635,13.951187335092348,11.885430762291385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479834:1890070901:0231/pct:21.58641160949868,73.12434220417983,13.962181178540018,11.889189595549542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2009,7 +2009,7 @@ whatsoever may make them happv and
 useful. And 1 make the said Thomas  
 Jefferson my executor of this. T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152524:1890071001:0111/pct:14.731416169289203,62.750904902928596,9.834508952794357,8.906438521443457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152524:1890071001:0111/pct:14.740459395912461,62.75456107637746,9.825465726171098,8.913750868341195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2044,7 +2044,7 @@ whatsoever may make them happy and
 useful. And I make the said Thomas  
 Jefferson my executor of this. T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588319:1890071101:0568/pct:28.5839544059623,94.93575207860923,17.470407715914074,14.225245653817082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588319:1890071101:0568/pct:22.15300979670423,73.58041084120909,13.539838042924288,11.032570491291104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

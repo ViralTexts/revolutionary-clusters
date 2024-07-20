@@ -274,7 +274,7 @@ tices as the Jurors aforesaid, have to this
 Irquisition put their hands and seals, on  
 the day and year aforesaid, and at the plac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827081101:0025/pct:39.50513381585591,30.805687203791468,17.64012792459182,3.6966824644549763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827081101:0025/pct:39.49848535846516,30.802037673261463,17.64276898911702,3.700193499980255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ the place aforesaid.
 Signed A. H. GREENFIELD, CorenEr.I  
 NICIIOLAS SANK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840051401:0218/pct:214.28571428571428,188.6435331230284,39.31896781058792,25.436382754994742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840051401:0218/pct:71.41907168506451,62.87456629166228,13.104579509686571,8.477902779238075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +526,7 @@ his right.hand then and there had and held,;
 gainst, and upon the said Amos Durfee, the  
 there feloniously, and wilfully, and of his nia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841101301:0166/pct:112.40179573512907,115.38020415185228,19.163860830527497,11.916504186259893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841101301:0166/pct:84.3131752490529,86.53515311388921,14.381927879893363,8.94598004358298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ the day and year aforesaid.
 F. S.-An examination was held yesterday at the Court  
 House, before John P. Leigh, Es, an alderman of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843040301:0304/pct:211.49590458399194,120.00690289921768,37.9939646500934,8.433041877588588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843040301:0304/pct:70.48850574712644,39.99769929828598,12.662835249042146,2.8106905939644924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -610,7 +610,7 @@ aforesaid, have, to this inquisition, put their seals, on
 the day and year alVresaid.  
 An examination was held yesterday at luc t our
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843040701:0547/pct:2.8693528693528694,19.55944537319304,16.010378510378512,2.7337988002753466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843040701:0547/pct:2.8693528693528694,19.562723309404397,16.015466015466014,2.737076736486708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ city, at the time of the felony and murder aforesaid, in man­
   
 Hier and form aloresaid, committed, to wit, on the said 28t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846101301:0932/pct:133.05604203152365,91.61946595769275,37.799182720373615,5.837475436365738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846101301:0932/pct:44.34554209835109,30.536292186777622,12.597889002383384,1.9456002465711204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ present, then and there comforting abetting,
 aiding and assisting the suid Wm It Myers the felony and  
  murder aforesaid to do and commit, against the peace an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846101401:0437/pct:247.39758226997986,229.2505204718945,48.87508394895903,19.55817719176498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846101401:0437/pct:82.46586075665995,76.41684015729817,16.29169464965301,6.519392397254992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ as the jurors aforesaid, have to this inquisition put n
 their seals, on the day and year, and at the place rj  
 first above mentioned: p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851091701:0284/pct:69.87027479425304,89.88751654168505,13.753661598549309,3.1429201588001763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851091701:0284/pct:69.87027479425304,89.88751654168505,13.758311247500814,3.1539479488310542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -917,7 +917,7 @@ lay and year, and a
 ?  
 to this inquisition put their seals, on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1851091701:0415/pct:133.8781575037147,133.35246019222492,50.594353640416045,15.837039162243581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1851091701:0415/pct:33.48197696023783,33.33811504805623,12.653288740245262,3.9592597905608953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ Jurors aforesaid, have to this inquisition set their hands
 and seals, on this third day of August, one thousand eight  
 hundred and fifty two
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530388:1852080901:0483/pct:144.24242424242425,133.59383978853006,45.97870597870598,7.999080565452247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530388:1852080901:0483/pct:48.08080808080808,44.53127992951002,15.326235326235325,2.666360188484082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -965,7 +965,7 @@ as the Jurors aforesaid have to this inquisition
 s&lt; t their hands and seal on the day of the date  
 of this inquisition, as aforesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556641:1853091001:0113/pct:23.762547594323294,25.49585286693112,15.23018345448252,6.695516288015386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556641:1853091001:0113/pct:23.771201107649706,25.498858035821613,15.23018345448252,6.70152662579637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1012,7 +1012,7 @@ Poole, at the ward, city and county afore-
 said, of the mortal woand aforesaid, died. And  
 that the aforesaid James Turner, Cornelus Linn, Charle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855032401:0672/pct:148.66573033707866,31.090403001331236,47.57724719101124,19.012465206341524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855032401:0672/pct:49.55524344569288,10.363467667110411,15.859082397003744,6.3374884021138405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1105,7 +1105,7 @@ Jthr Melewberger, John D. Mfer.
 I avid A. Byow er.  
 Same ts in origir al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856051101:1076/pct:154.57559681697612,204.97015610651974,47.36405835543766,76.6988062442608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856051101:1076/pct:51.52519893899204,68.32338536883991,15.788019451812556,25.56626874808693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1137,7 +1137,7 @@ as the jurors aforesaid, have to this inquisition
 set their hands and seals, and the day and date  
 of this inquisition aforesaid. (Signed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1856100401:0010/pct:82.1972965199885,24.456872445687246,14.682197296519988,9.797805979780598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1856100401:0010/pct:82.20688332853993,24.456872445687246,14.672610487968555,9.808560980856099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1177,7 +1177,7 @@ day of May, A. D. 1857.
 [Signed by the Coroner and Jury.)  
 I certify that the Jurors aforesaid made th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1857051601:0145/pct:19.057142857142857,50.53718577240012,14.214285714285714,8.115155940335871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1857051601:0145/pct:19.057142857142857,50.54413963353152,14.214285714285714,8.115155940335871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1197,7 +1197,7 @@ sition aforesaid.JAME RICE, Coroner.
 JUROES.  
 Jacob F. Arthur, foreman, Robert Jane
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857070901:0598/pct:158.64246250986582,15.442667267402568,45.41436464088398,7.535480964181122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857070901:0598/pct:52.88082083662194,5.147555755800856,15.138121546961326,2.511826988060374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1340,7 +1340,7 @@ him. the said Philip Barton Key. in aud upon the
 left ?ide of him. the said Philip Barton Key. a  
 l.t&#x27;le lielow the t-nth rib, of him the said Phili
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654139:1859040401:0153/pct:1.86407126360937,57.10744692315982,18.096337842296272,9.742429141071236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654139:1859040401:0153/pct:1.8723193665456945,57.10744692315982,18.100461893764436,9.758594676150448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1401,7 +1401,7 @@ then and there feloniously, wilfully, and of his matice
 aforethought, did kill and murder against the form  
 of the statute in such case made and provided, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859040501:0329/pct:0.5434782608695652,54.958469670274354,17.966751918158568,17.316889000755097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859040501:0329/pct:0.5488064791133845,54.966859635875494,17.972080136402386,17.312694017954527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,7 +1433,7 @@ ied, and so the jurors aforesaid, upon the oaths aforesald, do
 tay that the said Dapiel E sickles, him, the said Philip Earton  
 Key, in manner and form, and by the means aforesald, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859040801:0799/pct:50.64870259481038,195.53539875132523,50.881570192947436,17.94086464836848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859040801:0799/pct:16.882900864936794,65.17846625044174,16.960523397649148,5.980288216122825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1496,7 +1496,7 @@ against and upon the said Philip Barton
 Key; and that the said Daniel E. Sickles,  
 with the leaden bullet aforesaid,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021933:1859041101:0673/pct:171.1096520026264,41.25,101.5101772816809,333.2291666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021933:1859041101:0673/pct:42.78443605319323,10.3125,25.381710720735512,83.30729166666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1523,7 +1523,7 @@ one mortal wound of the depth of ten inches and
 of the breadth of half an inch; of which said  
 mortal wound he, the said Philip Barton Key
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190637:1859041201:0344/pct:81.37363858635253,251.53340635268347,62.32496110246721,29.00693683826214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190637:1859041201:0344/pct:20.343409646588132,62.88335158817087,15.581240275616803,7.251734209565535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1561,7 +1561,7 @@ niously, wilfully, and of his malice afore­
 thought, did make an assault and that the  
 said Daniel E. Sickles,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1859042001:0540/pct:61.85147507629705,65.99797365754813,11.113936927772126,11.357649442755825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1859042001:0540/pct:61.85147507629705,66.00135089496791,11.130891827738216,11.361026680175616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1595,7 +1595,7 @@ then and there feloniously, wilfully and of
 his malice aforethought, did kill and murder,  
 against the form of the statute in such cas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1859042001:0540/pct:61.838758901322485,85.2482269503546,11.139369277721261,9.2806484295846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1859042001:0540/pct:61.842997626314,85.2516041877744,11.13513055272974,9.27727119216481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1625,7 +1625,7 @@ ches and of the breadth of half an
 inch; of which said mortal wound he,  
 the said Phillip Barton Key, then an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1859042801:0496/pct:36.20016727069975,113.12618147448015,29.4954000557569,23.5586011342155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1859042801:0496/pct:12.066722423566583,37.70872715816005,9.831800018585634,7.852867044738501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1718,7 +1718,7 @@ said and by the means aforesaid feloniously, willfully,
 and of their and each of their malice aforethought, did kill and  
 murder, against the peace and dignity of the Commonwealth o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859103101:0433/pct:247.47491638795987,113.32046332046332,47.123745819397996,12.693050193050192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859103101:0433/pct:82.49163879598662,37.77348777348777,15.707915273132665,4.231016731016731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1834,7 +1834,7 @@ breadth of half an inch, e which said mor
 tal wound the said nrichael cibbs then and  
 here instantiy died, and that the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866020501:0545/pct:139.1218872870249,41.10468850353244,39.31847968545216,15.517019910083494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866020501:0545/pct:34.78047182175622,10.27617212588311,9.82961992136304,3.8792549775208736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1912,7 +1912,7 @@ wilfully to kill, against the form of the statute in such
 case made and provided, and against the peace of the  
 people of the State of New York, and their dignity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00211110144:1866110401:0008/pct:6.6162919277552525,80.17947717518533,12.071507556210836,5.449343217583561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00211110144:1866110401:0008/pct:6.6162919277552525,80.18272857328651,12.08532989310726,5.455846013785928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1945,7 +1945,7 @@ said Abraham Lincoln: and that tbe said
 Jobn II. Snrratt, with the leaden bullet  
 aforesaid, oat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654280:1867020501:0308/pct:66.63955757970072,60.57385759829968,17.257644762524396,7.523910733262487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654280:1867020501:0308/pct:66.63955757970072,60.580942260007085,17.263066579917588,7.523910733262487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2020,7 +2020,7 @@ said George W. Cole, the said L. Harris Hiscock, in the
 manner and form and by the means aforesaid, at the city  
 and county aforesaid, and on the day aforesaid in the yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530868:1867062601:0420/pct:103.71283315359729,51.71930581006791,48.220613156678475,17.08526463296324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530868:1867062601:0420/pct:34.57094438453243,17.23976860335597,16.073537718892826,5.695088210987747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2072,7 +2072,7 @@ the jurors aforesaid, upon their oath aforesaid, do say that
 he the sald Daniel Mcfarland him, the said Albert D. Rich  
 ardson, in the manner and form, and by the means afor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869122201:0999/pct:57.31857318573186,203.30049261083744,46.31874890177473,17.30295566502463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869122201:0999/pct:19.106191061910618,67.76683087027915,15.439582967258245,5.767651888341543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2143,7 +2143,7 @@ with the leaden ball aforesaid, out of
 the pistol aforesaid, then and there by  
 force of the gunpowder aforesaid, shot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023139:1870072801:0543/pct:66.63727219282775,21.86421173762946,14.800117577895355,19.240506329113924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023139:1870072801:0543/pct:50.007351860020584,16.398158803222096,11.101308631083665,14.430379746835444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2183,7 +2183,7 @@ against the peace and digdity of the
 State.  
 (iirned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023139:1870072801:0543/pct:66.49029982363315,46.23705408515535,14.72663139329806,19.171461449942463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023139:1870072801:0543/pct:49.88972209969122,34.68354430379747,11.057197470960153,14.372842347525891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2215,7 +2215,7 @@ Coroner, as the jurcra aforesaid, have, to
 this inquisition put their nanus and seals,  
 on the day and year aforesaid, and at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871011501:0052/pct:103.96232057416267,33.39429800968262,13.172846889952153,9.499731038192577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871011501:0052/pct:78.01047120418848,25.045723507261968,9.887808526551982,7.1328671328671325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2234,7 +2234,7 @@ In witness whereof as well the said Coroner as the jurors
 aforesaid have to this inquisition set their hands and seals  
 on the day of the date hereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871022301:0583/pct:57.93727772389266,176.50303985588832,45.23116715163272,5.167755010132853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871022301:0583/pct:19.31242590796422,58.83434661862944,15.077055717210907,1.7225850033776176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2319,7 +2319,7 @@ In witness whereof, as well the aforesaid Coroner, as
 the jurors aforesaid, have to this investigation put  
 their hands and seals on the day, and year, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1871081901:1008/pct:58.21347464042392,218.44996237772762,49.659348978046935,19.924755455229494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1871081901:1008/pct:14.558879212419537,54.612490594431904,12.419538053767512,4.981188863807374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2350,7 +2350,7 @@ said Coroner, as the jurors aforesaid, have
 to this inquisition put their names and  
 seals on the day and year aforesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871082401:0188/pct:40.0,35.51958100226164,14.161290322580646,9.415545768360909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871082401:0188/pct:30.00968054211036,26.639685751696227,10.632462084543402,7.070586834900607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2409,7 +2409,7 @@ shot off and discharged as aforesaid, then and o
 ther wifty feonosly an of i mae afor   
 thought,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872011601:0197/pct:151.93499748701626,129.83031012287887,52.05227006198693,8.55471035693388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872011601:0197/pct:50.64499916233875,43.276770040959626,17.35075668732898,2.8515701189779596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2444,7 +2444,7 @@ And so the jurors aforesaid, upon their oath afore
 said, do say that the said Edward S. Stokes, him the  
 said James Fisk the younger, in the manner and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872011601:0480/pct:111.3278319579895,88.45537924006406,49.587396849212304,29.6404134517397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872011601:0480/pct:27.842401500938088,22.113844810016015,12.401500938086304,7.410103362934925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2488,7 +2488,7 @@ the prs ol arore said, by the said kdwardd. Stokes,
 in and upon the belly of him, the said James Eisk,  
 r, one mortal wound of the denth of five inche
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872011601:0480/pct:111.92798199549887,138.41898384044256,49.662415603900975,42.043965642742755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872011601:0480/pct:27.99249530956848,34.60474596011064,12.420262664165103,10.510991410685689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2537,7 +2537,7 @@ say that she, the said Fanny Hyde, him, the said George w.
 Watson in the manner and form and by the means atore  
 at the city and county aforesaid, on the day and yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872030601:0792/pct:148.32670642809808,234.00612314321353,50.36447978793903,35.423517405601544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872030601:0792/pct:49.44223547603269,78.00204104773783,16.78815992931301,11.807839135200513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2567,7 +2567,7 @@ man as the jurors aforesaid have to this inquisl­
 tion put their hands and seals, on the days and  
 year and at the place first above mentioned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872110601:0279/pct:55.221518987341774,77.42489270386267,44.699367088607595,31.874105865522175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872110601:0279/pct:13.810842896715473,19.356223175965667,11.179263949347051,7.968526466380544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2592,7 +2592,7 @@ say that he, the said Lucius B. Irish, the said Edward
 O. Anderson, in the manner and form and by the means  
 aforesaid, at the city and county aforesaid, on the da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743804:1872111901:0649/pct:188.64714542777688,60.59085205885708,60.26500899721904,11.155469373788069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743804:1872111901:0649/pct:62.88238180925896,20.196950686285692,20.088336332406346,3.7184897912626895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2625,7 +2625,7 @@ dollar, in his right hand, then and there held in,
   
 upon and agamnt the sal pamue mongtent to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873031801:0266/pct:66.35071090047393,221.44235830847518,43.60189573459716,19.37181961747675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873031801:0266/pct:16.599478302110505,55.360589577118795,10.90822859852976,4.842954904369187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2667,7 +2667,7 @@ this inquisition put their hands and seals,
 this nineteenth day o{ March in the year  
 of our Lord one thousand oigltf hundre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190881:1873032001:0271/pct:13.662511984659636,43.61778415202581,12.056567593480345,4.051631409107207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190881:1873032001:0271/pct:13.680488974113135,43.62226604517748,12.056567593480345,4.051631409107207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2714,7 +2714,7 @@ THE CHARGE.
 The clerk, at the conclusion of the read-­  
 ing of the indictment, read the charge to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:0027174206A:1874012301:0087/pct:45.09884678747941,169.18496464458505,42.64140582097748,46.89244510606625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:0027174206A:1874012301:0087/pct:15.032948929159803,56.39498821486168,14.213801940325828,15.630815035355415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2769,7 +2769,7 @@ nia, and within the jurisdiction of this court-to wit:
 at the city of Petersourg, State of Virginia, at a cer-­  
 tain municipal election then and there being hel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742071:1874100901:0347/pct:46.03716862530746,98.1994459833795,42.525280131183386,23.047091412742382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742071:1874100901:0347/pct:15.345722875102487,32.7331486611265,14.175093377061128,7.682363804247461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2908,7 +2908,7 @@ mortal wouud aforesaid died ,and the
   
 jurors aforesaid, upou their oath afore- FALL AyjD 1frIXTER TRADB
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027182:1875020401:0028/pct:54.51631701631702,30.810938236680812,28.99184149184149,55.57520037718057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027182:1875020401:0028/pct:40.90048083928311,23.114097123998114,21.739763951624653,41.67845355964168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2962,7 +2962,7 @@ malice nforethonght, did kill aud inur-
   
 embracing a large variety of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027182:1875020401:0028/pct:54.38519813519814,86.85761433286186,28.99184149184149,14.545025931164545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027182:1875020401:0028/pct:40.798484627713826,65.14615747289015,21.754334838991696,10.914662894860914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3001,7 +3001,7 @@ Isaac Burr, l. s.
 B. M. Strong, l. s.  
 J. D. Miller, l. s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027182:1875020401:0028/pct:54.967948717948715,105.13908533710514,13.461538461538462,12.812352663837812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027182:1875020401:0028/pct:41.23561124872505,78.85431400282886,10.097624945359172,9.618104667609618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3031,7 +3031,7 @@ county and within the jurisdiction aforesaid, did
 languish, and languishing did live, on which said  
 twenty-fourth day of October,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876011301:0220/pct:5.092812946216087,28.48844395006798,10.931302554339204,6.17970584600173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876011301:0220/pct:5.092005076142132,28.484923381117152,10.933534263959391,6.182031636183885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3062,7 +3062,7 @@ day of October, in the same year, at
 the township of Landis, in the county  
 and within the jurisdiction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1876022401:0595/pct:210.4426787741203,314.4848616859072,35.58456299659478,24.70050098017861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1876022401:0595/pct:52.625603179108715,78.6212154214768,8.898665909736021,6.1751252450446525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3135,7 +3135,7 @@ said Coroner as the jurors aforesaid have
 to this inquisition put their names at  
 the place and on the day and year afore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1876051901:0295/pct:208.54870775347914,22.10673089111421,85.5533465871438,350.5640765623019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1876051901:0295/pct:52.16310293386375,5.526682722778553,21.398972318912648,87.64101914057548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3161,7 +3161,7 @@ depth of six inches and of the breadth of
 one inch, of which said mortal (omitting the  
 word &#x27;wound&#x27;) he, the said I. T., then an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022998:1876091801:0365/pct:70.02739726027397,11.462532299741602,19.616438356164384,8.051679586563308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022998:1876091801:0365/pct:52.534941079747874,8.599483204134367,14.716360646752534,6.036175710594315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3182,7 +3182,7 @@ aforesaid Coroner as the Jurors aloro-1
 said, have to this inquisition put their,  
 I hands and seals on the day and yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:0041562346A:1877070501:0509/pct:53.84922217790187,84.10092110532639,14.280015955325089,4.098251234815112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:0041562346A:1877070501:0509/pct:53.862518282143334,84.10982067369733,14.266719851083632,4.102701019000579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3203,7 +3203,7 @@ inquisition put their names at the place, aud
 on the day and year aforesaid.  
 J. M. CLARK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1878051001:0983/pct:74.49160035366931,101.25579309313798,22.413793103448278,5.546419494692779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1878051001:0983/pct:55.892107008622595,75.94558229929736,16.825116073402608,4.156077141575722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3233,7 +3233,7 @@ In Witness Whereof, as well the afore­
 said coroner, as the jurors aforesaid, have to  
 this inquisition put their names at tbe plac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1878070501:1046/pct:105.04464285714286,57.97014925373134,22.790178571428573,10.865671641791044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1878070501:1046/pct:78.84744248380612,43.47761194029851,17.1096716551262,8.164179104477611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3254,7 +3254,7 @@ coroner as the jurors aforesaid, have to this
 inquisition put their names, at the place  
 and on the day and year aforesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:0020029192A:1879010701:0317/pct:21.959638874137017,94.45958219800181,14.49814126394052,4.046826117670804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:0020029192A:1879010701:0317/pct:16.48074369189907,70.84468664850137,10.876494023904382,3.037642547179332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3301,7 +3301,7 @@ Tighe, him the said John W. Burk, in
 manner and form aforesaid, at the  
 township in the county, and within th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:0033289643A:1879052701:0130/pct:5.662169865095953,63.76416582986659,12.388371651149534,19.179457753550423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:0033289643A:1879052701:0130/pct:5.661094224924012,63.75502008032129,12.390767477203648,19.1802925989673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3353,7 +3353,7 @@ We are also informed by another per­
 son who is reliable that he noticed the  
 bad smell whUe passing the notch o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn90069164:0028077683A:1879082601:0287/pct:53.91566265060241,56.814826964080694,22.43975903614458,7.7743152370018045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn90069164:0028077683A:1879082601:0287/pct:40.44689932211901,42.611120223060524,16.84659804167713,5.838937182220764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3401,7 +3401,7 @@ Peter King, Jr., the crime and murder
 aforesaid, in manner aforesaid, to do and  
 commit; and so the jurors aforesaid, up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027406:1880060101:0276/pct:38.1578947368421,45.264058156938205,14.144736842105264,22.001282873636946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027406:1880060101:0276/pct:28.62251466170791,33.95338892452427,10.613646116435417,16.506307462048323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3503,7 +3503,7 @@ there being, feloniously wilfully, and of his malice
 aforethought, did make an assault; and that the  
 said Charles J. Guiteau,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654565:1881100501:0026/pct:15.738592420726992,10.232831148503228,13.624645527197732,6.877323420074349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654565:1881100501:0026/pct:15.738592420726992,10.239353029413683,13.637535447280227,6.8740624796191225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3542,7 +3542,7 @@ the said James A. Garfield of the mortal
 wound aforesaid died.  
 And so the grand jurors aforesaid, upon their
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654565:1881100501:0026/pct:15.596803299819541,23.20485227939738,15.648362980149523,10.702406574055958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654565:1881100501:0026/pct:15.596803299819541,23.20485227939738,15.648362980149523,10.705667514511186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3581,7 +3581,7 @@ the said James A. Garfield; and thattlie
 said Charles J. Guiteau, with the leaden  
 bullet aforesaid, out of the pistol afore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1881100601:0160/pct:49.86332207750442,6.587648159700562,10.902074288470816,10.280723643169058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1881100601:0160/pct:49.855305466237944,6.586826347305389,10.904340836012862,10.282559880239521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3621,7 +3621,7 @@ one thousand eight hundred and eighty-one
 at and in the County and District aforesaid  
 the said James A. Garfield of the morta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881100801:0432/pct:125.14767932489451,234.20496995289915,50.042194092827,42.42325808023388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881100801:0432/pct:31.30012663571127,58.55124248822479,12.515829463908823,10.60581452005847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3666,7 +3666,7 @@ V. Garfield, then and there, with the leaden bulet
 aforesaid,so as aforesaid discharged and shot  
 &gt;ut of the pistol aforesaid, by the said Charle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654565:1881100801:0039/pct:57.31377846391355,8.20442529860975,16.00411681461469,13.305267280203642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654565:1881100801:0039/pct:57.32342724816673,8.20442529860975,15.994468030361508,13.312610142941061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3705,7 +3705,7 @@ in the Baltimore and Potomae Railroad Depot
 in the eity of Washington, which butlding  
 stands and at that time stood on ground b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881100901:0471/pct:125.8345428156749,106.92659240217081,50.50798258345428,34.51870894030277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881100901:0471/pct:31.458635703918723,26.731648100542703,12.62699564586357,8.629677235075693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3753,7 +3753,7 @@ which said mortal wound he, the said James
 A. Garfield, from the said second day of July,  
 in the year last aforesa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779611:1881100901:0343/pct:137.289088863892,111.32892637337588,37.570303712035994,51.059949851834965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779611:1881100901:0343/pct:34.33675622450415,27.83223159334397,9.396539597693065,12.764987462958741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3949,7 +3949,7 @@ of Monmouth and State of New Jersey--to wit, at
   
 and in the County of Washington and District o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101933:1881101001:0353/pct:7.710843373493976,127.37494594204988,50.602409638554214,36.26928066887704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101933:1881101001:0353/pct:1.9280980116489255,31.84373648551247,12.653143201446074,9.06732016721926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3995,7 +3995,7 @@ ice aforethought, did kill aud murder, against
 the form of the statute in such case made aud  
 provided and against the peace and Govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525516:1881101001:0148/pct:29.47995491869264,20.55795019157088,10.948317501207535,10.76388888888889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525516:1881101001:0148/pct:29.475209272376045,20.55548904585179,10.950579523502897,10.765593200047887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4025,7 +4025,7 @@ i I&#x27;eau. ill and Upon the right side of the Imck
 . mortal wound he, the raid James A. tlar- 0  
 , field, from the sniil 2d day of July, in the &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193468:1881101001:0973/pct:36.44293675793555,81.08248314023864,13.66610128422583,7.591215632024901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193468:1881101001:0973/pct:36.44293675793555,81.08248314023864,13.684274291252725,7.604184679232232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4050,7 +4050,7 @@ cartridge containing fulminating material
 and in either case there must have been a  
 trigger aforesaid, upon which Charles J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:00211101106:1881101301:0311/pct:258.3947583947584,99.37558124086621,58.64045864045864,26.51786900491564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:00211101106:1881101301:0311/pct:64.61191890231414,24.843895310216553,14.663116936309645,6.62946725122891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4075,7 +4075,7 @@ day of September, in the year of our Lord
 said, did the said James A. Garfield of the  
 said James A. Garfield of the wound afore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:00211101106:1881101301:0311/pct:258.8042588042588,188.17590009299855,59.54135954135954,28.430981798857445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:00211101106:1881101301:0311/pct:64.71431497030514,47.04397502324964,14.888388285889821,7.107745449714361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4111,7 +4111,7 @@ off to, against aud upon said James A. Gar­
 field, and that Charles J. Guiteau, with the  
 leaden bullet aforesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281895:1881101301:0015/pct:62.354312354312356,12.178406920570723,12.805944055944057,12.335692618806876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281895:1881101301:0015/pct:46.779364616729815,9.133805190428042,9.618187117458467,9.257386810470734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4175,7 +4175,7 @@ James A. Garfield of the mortal wound afore­
 said.&quot;The only variation iu the fifth count is a  
 change in the order ot mentiou of the place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281895:1881101301:0015/pct:62.121212121212125,28.131670598809123,13.00990675990676,29.075384788226042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281895:1881101301:0015/pct:46.60448848732148,21.098752949106842,9.763917225298746,21.80653859116953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4371,7 +4371,7 @@ ty and district aforesaid, the said
 James A. Garfield, of the mortal  
 wound aforesaid, died.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86053968:00383343586:1881102001:0006/pct:34.62837837837838,76.11072342405211,9.828009828009828,12.04931379390556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86053968:00383343586:1881102001:0006/pct:34.62306156916935,76.10187231073381,9.830339321357286,12.050819862774741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4435,7 +4435,7 @@ he second count is precisely like the arst,
 with the exception of the last clause, which  
 reads: &quot;Of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295948:1881102101:0323/pct:250.46570702794241,148.23906083244398,67.73920406435225,83.35112059765208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295948:1881102101:0323/pct:62.629684522549226,37.059765208110996,16.93838661867457,20.83778014941302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4490,7 +4490,7 @@ guish, and languishing did live;
 on wbloh said 19th day of Septem­  
 ber, in tbe year of our Lord 1881
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn85042459:00280769034:1881102201:0351/pct:16.952919781774096,53.22002183065648,10.870883006668013,18.99267113675347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn85042459:00280769034:1881102201:0351/pct:16.968074358456253,53.2278184936847,10.886037583350172,18.988772805239357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4568,7 +4568,7 @@ by means aforesaid, then and there icloni­
 at.rdy, willfully, deliberately, pnmcditated­  
 ly, and of his malice and aforethought
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291931:1881112201:0060/pct:4.251434533124674,84.57592965744642,19.340114762649975,13.50980032973072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291931:1881112201:0060/pct:3.195930080876598,63.436526836416924,14.505609183407254,10.130060450631984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4607,7 +4607,7 @@ upon the body of liur, the said James
 A. Gailied, one mortal wound of the  
 depth of six inches and of the breadt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291098:1881112501:0112/pct:14.855947207468212,25.036390101892284,10.976983743763077,12.166424065987385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291098:1881112501:0112/pct:14.863994849509094,25.042455118874333,10.972959922742636,12.166424065987385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4695,7 +4695,7 @@ aforesaid, do say that the said Jumes Malley, Ir, Walter
 E. Malley, and Blanche Dougiss, her, the sald Jennie  
 Cramer, then and there, by the means aforesaid, fel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882042201:0248/pct:171.10438729198185,237.64213046080192,49.84871406959153,23.04009575104728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882042201:0248/pct:42.79228149829739,59.41053261520048,12.466893681422626,5.76002393776182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4738,7 +4738,7 @@ forin and by the means aforesaid, did then and there
 commit the crime of mnurder in the first degree  
 The indictment is not nearly so long as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882042201:0249/pct:170.44595616024188,235.625468164794,49.962207105064245,35.056179775280896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882042201:0249/pct:42.63565891472868,58.9063670411985,12.49763660427302,8.764044943820224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4772,7 +4772,7 @@ their names, at the place and on the day
 and year aforesaid.  
 JAS. W. HEDDENS, Coroner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1882122901:0837/pct:224.1573033707865,272.6347383531254,38.45193508114856,32.36330418895994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1882122901:0837/pct:56.04807242078976,68.15868458828135,9.614484157952239,8.090826047239984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4822,7 +4822,7 @@ came to his death, do say upon their
 oaths aforesaid, that the said Edward R.  
 Hall came to his death by drownin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_dauer_ver03:data:sn89070049:00295865556:1884060501:0333/pct:83.2999331997328,297.30476848652387,56.84702738810955,16.816401750748675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_dauer_ver03:data:sn89070049:00295865556:1884060501:0333/pct:20.835421888053467,74.32619212163097,14.218880534670008,4.204100437687169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4856,7 +4856,7 @@ place aforesaid.
 Ben. HArriSoN Corner,  
 JAs. E. BoLand Foreman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_dauer_ver03:data:sn89070049:00295865556:1884060501:0333/pct:82.96593186372745,324.3953006219765,57.11422845691383,50.21884358442755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_dauer_ver03:data:sn89070049:00295865556:1884060501:0333/pct:20.75187969924812,81.09882515549413,14.285714285714286,12.554710896106888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4876,7 +4876,7 @@ justice, as the jurors aforesaid,&#x27; have to
 this inquisition pnt their names at the  
 place aforesaid in the day and yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:0029455659A:1885080801:0134/pct:86.34453781512605,43.18128379967082,13.28031212484994,3.291794027745121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:0029455659A:1885080801:0134/pct:64.77562659462704,32.388901951563604,9.965481014558007,2.468845520808841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4912,7 +4912,7 @@ have to this inquisition set their
 hands and seals, on the day of the  
 date hereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072021:no_reel:1887042801:0407/pct:51.42559833506764,18.18043511334246,88.40790842872008,265.7386277194584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072021:no_reel:1887042801:0407/pct:17.14186611168921,6.060145037780821,29.46930280957336,88.57954257315279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4932,7 +4932,7 @@ have to this inquisition pnt their ha,nds
 and seals this tenth day of Mav, one thous  
 and eight hundred and eighty-seven, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776130:1887051101:1071/pct:66.36363636363636,45.55476020042949,19.359504132231404,3.7222619899785254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776130:1887051101:1071/pct:49.78301301921885,34.173228346456696,14.527794998966728,2.791696492483894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5077,7 +5077,7 @@ der. And said grand jurors aforesaid do
 say that said Terrence Kiernan com­  
 mitted the crime of murder in the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn94053256:00271763062:1889050201:0428/pct:36.5085744908896,20.596608491149894,14.40246516613076,34.19977720014853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn94053256:00271763062:1889050201:0428/pct:27.395791448867445,15.44745636836242,10.80284144216593,25.659116227255847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5173,7 +5173,7 @@ hand and seals, the 27th day of July, W&#x27;l-
 The above finding was signed by all or  
 the jurors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:0028077652A:1891072901:0025/pct:175.96330275229357,256.54401490451795,40.18348623853211,33.255705635770845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:0028077652A:1891072901:0025/pct:43.99755314268237,64.13600372612949,10.047407860529132,8.313926408942711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5592,7 +5592,7 @@ quisition put their heada and seals an the 19th
 URculvINo TuE YunicT.  
 day of June. A. D. 189&amp; at Washington, ia th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654899:1893062001:0540/pct:62.035132141161576,20.370129023849863,12.201297673682545,17.30744167861332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654899:1893062001:0540/pct:62.04568233370259,20.37447326121899,12.201297673682545,17.30744167861332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5725,7 +5725,7 @@ ber, 1893, did languish, and languishing
 did live on which 17th of December, 1893,  
 the said Waldburg Meyer of the morta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210831:1894011301:0560/pct:44.986449864498645,34.16793893129771,12.253193960511034,12.396946564885496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210831:1894011301:0560/pct:44.97774337139539,34.16272324835903,12.255660925101607,12.398870401465425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5744,7 +5744,7 @@ to this inquisition put their lianas and
 seals ou the day and year and at the  
 place above mentioned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776154:1894062001:0379/pct:59.8755832037325,78.99743318737733,16.271384136858476,2.959383964970557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776154:1894062001:0379/pct:44.91541901613844,59.24807489053299,12.210771923002138,2.2346368715083798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5775,7 +5775,7 @@ And the grand jurors aforesaid on their oath
 aforesaid do further say;  
 That the said Frank M. Stone, to whom thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037251:1895051501:0685/pct:70.78806426931905,50.050488051161224,13.236419280795715,2.2439133849433412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037251:1895051501:0685/pct:70.79826574853354,50.0542279068028,13.231318541188472,2.2439133849433412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5911,7 +5911,7 @@ aforesaid, do say that the said Henry Mitchell,
 on the aid 21st day of November, A. 1) ls.  
 him, the said Indian, a man whose name lis t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897111201:0575/pct:10.173010380622838,83.17039970300705,21.401384083044984,8.266303675287713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897111201:0575/pct:6.785528821187468,55.45105803737161,14.280768564999134,5.506744214824898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5945,7 +5945,7 @@ said Josiah W. Ressner, in the county
 of Jackson and state of Missouri, of  
 the mortal wound aforesaid, died.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056251:00200295675:1898022501:0092/pct:87.23837209302326,68.58922829581994,18.70639534883721,16.147508038585208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056251:00200295675:1898022501:0092/pct:65.46459211865638,51.446945337620576,14.032281518103824,12.108118971061094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5988,7 +5988,7 @@ rious parts of the globe. That many
 unknown things remain to be discov­  
 ered there is indicated by the result
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hockey_ver01:data:sn90059182:00393341063:1898030901:0080/pct:43.69019678642354,60.751465837022856,15.381837876873082,15.771209764269475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hockey_ver01:data:sn90059182:00393341063:1898030901:0080/pct:43.696214719865196,60.751465837022856,15.387855810314738,15.775198436440508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6086,7 +6086,7 @@ him, the said John W. Freeman, thus
 and thereby inflicting in and upon the  
 breast and head of him, the said J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559991:1899111001:0623/pct:20.078226857887874,212.3015873015873,43.54628422425033,71.72619047619048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559991:1899111001:0623/pct:5.019556714471968,53.07539682539682,10.886571056062582,17.93154761904762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

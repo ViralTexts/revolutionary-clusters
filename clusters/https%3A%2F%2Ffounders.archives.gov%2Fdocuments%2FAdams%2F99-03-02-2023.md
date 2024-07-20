@@ -99,7 +99,7 @@ human being the power of controlling his pas­
 sions&#x27;; and if he neglects or loses it. ific fault is  
 bis own, and he must be accountable for it.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:34.066803862593005,16.140594288357036,15.212917524141206,23.771534281419818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:34.06141183918962,16.13872832369942,15.215785586155956,23.772639691714836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ passions. It is in ttir* Bible you must learn these
 rules and principles.”  
 Speaking of those parts of the Scriptures tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:34.11429476017097,39.96993872123945,15.102105429792623,5.896635449184877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:34.10889522000633,39.96531791907515,15.104991030916956,5.89980732177264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ spirit 1o strengihen my good desires, and sub­
 due my propensities 1o evil, for it is frem him  
 thet every good wnd perlect gili desc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824032501:0663/pct:29.6,4.119547657512117,42.95238095238095,90.00692360950842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824032501:0663/pct:29.606349206349208,4.123394107239019,42.95238095238095,90.00692360950842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ rising from bead j it employs »bout an
 hour ol my time, and seems he most  
 suitable manner of beginning /he day.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1824032901:0385/pct:22.343374607281465,13.321446765155374,33.17316577342451,81.5588385124809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1824032901:0385/pct:22.339246119733925,13.319750413854578,33.17319536831732,81.55269748291524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ be numberless occasions in which 70U
 will have no guide for your government,  
 but your passion.% It is iu the bible yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1824032901:0385/pct:39.16096839770837,37.60825267447784,16.540380705969323,13.066734589913398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1824032901:0385/pct:39.153732446415376,37.603463644467084,16.54348361665435,13.069315335965024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ seems the most suitable manner of be­
 ginning the dav.” “ l&#x27;.very time I tea  
 die bible, I understand some passa-i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824040601:0214/pct:23.040254237288135,27.046615055180364,17.584745762711865,32.7128973809916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824040601:0214/pct:23.034154090548054,27.04216073781291,17.586709028329363,32.71162714097497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ nrinciples, there will he numberless oc­
 casions in which you will have no guide  
 for your government, hut your passion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824040601:0214/pct:22.98728813559322,60.36896722121561,17.452330508474578,8.977104266183495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824040601:0214/pct:22.98120201217898,60.35902503293808,17.454328832406674,8.979743083003953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ time, and seems the most suitable man­
 ner of beginning the day.” ‘‘Every  
 time I read the Bible, 1 understand sdm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824042101:0128/pct:63.42648845686513,76.96113074204948,19.09680032401782,39.886925795053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824042101:0128/pct:49.16034527857703,59.65238981998758,14.805126863719591,30.91247672253259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ Speaking of those parts of the Scrip­
 tures that appear mysterious, he says—  
 “
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824042101:0128/pct:63.52774402592143,16.62190812720848,38.59862292426084,107.57597173144876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824042101:0128/pct:49.23358618885692,12.885675685544236,29.929374836515827,83.37167269142294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1297,7 +1297,7 @@ of iy time, and =eema the most suitable man­
 ner of beginuing the day. Euvery time [ read  
 the bible, I understand some pussage I neve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1828081601:0569/pct:20.868981714477435,46.114925912540656,14.812950847173292,14.588603782676786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1828081601:0569/pct:20.868981714477435,46.11894149299281,14.824134653022423,14.588603782676786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1459,7 +1459,7 @@ ing story than can be found any where else
 in so short a compass. About thirty-five  
 years since a gentleman from tho town o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1829091001:0132/pct:25.071868583162217,6.957746478873239,35.13347022587269,88.74647887323944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1829091001:0132/pct:25.066721412440977,6.956766652584143,35.13138985834531,88.73750176031545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2300,7 +2300,7 @@ all with benefit to themselves, if it please God
 that they should live t be able to understand  
 them. From vouraffe.ctioaa te father. ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848032301:0617/pct:6.470588235294118,9.844008508626802,34.14705882352941,116.89907823209643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848032301:0617/pct:4.855083124908048,7.385960765776412,25.62895395027218,87.67430867407232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2348,7 +2348,7 @@ contnbute tuniy adyaneewiit in wisdom and
 virtue. Mv desire is indeed verv imocrfift v  
 sueceysful; for, like you, and like th Apjwtl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848032501:0168/pct:57.423857868020306,47.73242630385487,16.846446700507613,19.331065759637188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848032501:0168/pct:43.081561409076485,35.80498866213152,12.646778800380831,14.501133786848072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2430,7 +2430,7 @@ selves, if il please God that th ihuuld to be
 sole to understand them.  
 From your affectionate father
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848032501:0168/pct:74.76205583756345,18.458049886621314,17.32233502538071,36.03174603174603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848032501:0168/pct:56.09330371310695,13.843537414965986,12.995874325610917,27.029478458049887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2708,7 +2708,7 @@ please God thnt they should live to be able
 to understand them.  
 From your affectionate father
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848032901:0047/pct:1.9607843137254901,16.676737160120847,35.056446821152704,107.20241691842901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848032901:0047/pct:1.471243869817209,12.507552870090635,26.318918115618963,80.41087613293051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2766,7 +2766,7 @@ e e eo oee
 ment of what you have read, with the help  
 of your own reflection.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848032901:1021/pct:245.8109146810146,143.6277102062401,116.75634127594158,71.65520888418826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848032901:1021/pct:61.48817535089406,35.906927551560024,29.205921938088828,17.913802221047064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2813,7 +2813,7 @@ faull. Sometimes I say to myself, I do
 not understund what I have read; I cannot  
 help it; I did not make my own under
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848032901:1021/pct:245.19600307455804,263.03543098889475,58.87778631821676,106.92755156002116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848032901:1021/pct:61.334358777158236,65.75885774722369,14.727936935204768,26.73188789000529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2949,7 +2949,7 @@ noighbor, than that which they know we
 shall have for ourselvesn. But from the  
 love of God, and the love of our neighbor,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848032901:1021/pct:302.152190622598,57.74722369116869,62.18293620292083,311.8455843469064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848032901:1021/pct:75.58161891943857,14.436805922792173,15.554701019034802,77.9613960867266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3320,7 +3320,7 @@ which 1 gladly would, and which itais -
 lutely neeeaaary to make it fruitful of g«w I  
 works. This askaowiedgmeat of my wtux
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1848040601:0578/pct:78.80242019611934,65.45949625595644,15.43918214062174,27.978216473791694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1848040601:0578/pct:78.78598247809762,65.45058535257283,15.441176470588236,27.977811053634632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3471,7 +3471,7 @@ please God that they should all live to b&lt;
 able to understand them.  
 From your affectionate father
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1848040601:0579/pct:7.063426688632619,5.9345156889495225,15.897858319604612,88.66302864938608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1848040601:0579/pct:7.061972410953263,5.933706179238849,15.899732345068973,88.65434456417951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3958,7 +3958,7 @@ us to amendment.
 hour winch I daily give to tfie read­  
 &gt;1 the Bible, 1 -hoaid also, fioru lime la tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848041101:0283/pct:0.7871261150953297,35.04203959858964,13.328668882280917,52.00705180363439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848041101:0283/pct:0.7869884575026233,35.03728813559322,13.330710038474992,52.003389830508475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4005,7 +4005,7 @@ God that they should lire to bo able to nmtrmtnd
 them.  
 From vour affectionate father
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848041101:0283/pct:1.3468602413853419,10.740439381611067,26.83225467902746,85.39462978030919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848041101:0283/pct:1.3466246939489332,10.738983050847457,26.831934242742218,85.3864406779661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4133,7 +4133,7 @@ A Republican Blacksmith.
 Amid the many curious scenes that European  
 revolutions have caused, the following is too goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848051101:0709/pct:219.87041036717062,155.2624193095706,50.395968322534195,65.6188605108055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848051101:0709/pct:54.967602591792655,38.81560482739265,12.598992080633549,16.404715127701376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4240,7 +4240,7 @@ my time, and seems to me the most suita­
 ble manner of beginning the day. In  
 what light soever we regard the Bible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857090501:0146/pct:70.90520531216607,32.62568529102998,13.03617768279652,3.5343520354601656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857090501:0146/pct:70.91538187554063,32.62568529102998,13.031089401109245,3.546016563630001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4293,7 +4293,7 @@ edge and virtue.&quot;
 The REsIGNATION OF JunGE CurTis.  
 The Washington Union, in an article refer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857092501:0367/pct:328.78315132605303,304.3570028644655,50.78003120124805,36.78576812905171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857092501:0367/pct:82.19578783151326,76.08925071611638,12.695007800312013,9.196442032262928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4356,7 +4356,7 @@ soever we regard the Bible, whetfe^,
 cr with reference to revelation, to  
 tory, or to mortality, it is an ia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1858010201:0087/pct:84.39472174411934,88.85343059038067,11.818703384968446,5.6188739457488035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1858010201:0087/pct:84.39950277299675,88.85722969379226,11.828265442723273,5.622673049160398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4514,7 +4514,7 @@ ploys about an hour of my time, and seems to
 me the most suitable manner of beginning the  
 day. In what light soever we regard the Bible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868092901:0162/pct:83.33333333333333,91.0958904109589,12.606496272630459,2.309197651663405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868092901:0162/pct:83.33333333333333,91.09915198956296,12.61537096201633,2.309197651663405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4535,7 +4535,7 @@ my time, and seems to me the most
 suitable manner of beginning the day.  
 In what light soever we regard the Bi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872040401:0279/pct:200.7223113964687,71.85564233773229,47.67255216693419,13.250740640991113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872040401:0279/pct:50.200722601364916,17.963910584433073,11.922922521075874,3.3126851602477783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4580,7 +4580,7 @@ country, and respectable members
 of society.&quot; John Quincy Adam3.  
 &quot; It is impossible to govern th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033437:00296021003:1879042501:0667/pct:22.63768115942029,65.57127312295974,16.72463768115942,6.332970620239391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn85033437:00296021003:1879042501:0667/pct:16.990432009278052,49.183895538628946,12.554363583647435,4.744287268770402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4602,7 +4602,7 @@ respectable members of society.&quot;
 JohN Ouincy daMs.  
 &quot;It is impossible to govern th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn84026106:00280776567:1879052201:0762/pct:102.82485875706215,215.04565879112914,50.12106537530266,18.147557617045948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn84026106:00280776567:1879052201:0762/pct:25.706214689265536,53.761414697782286,12.530266343825666,4.536889404261487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4673,7 +4673,7 @@ the more confident will be my hop&lt;*M that
 they will prove useful citizen •, t.. tb i. conn  
 try, and n*Hp.*etable meinbrr nf &gt;... .. ty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1879101701:0382/pct:107.40223463687151,49.05050505050505,15.066340782122905,19.986531986531986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342417:1879101701:0382/pct:83.24538853560637,38.02101454317723,11.680873133991792,15.482569062695706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4773,7 +4773,7 @@ members of
 socicty.  
 wons withe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285037:1885050101:0111/pct:71.8425369054128,296.1142742982719,48.988518316019686,11.42742982719009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285037:1885050101:0111/pct:17.96308954203691,74.02856857456797,12.248803827751196,2.8568574567975227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4828,7 +4828,7 @@ they will prove useful citizens to their
 country, and respectable members of  
 society.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1886081401:0055/pct:18.198700092850512,73.17310363989998,12.181987000928505,4.1539316476799115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1886081401:0055/pct:18.1953212031192,73.1629392971246,12.184366877088749,4.156827337130157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4849,7 +4849,7 @@ bers of society.&quot; Andrew Jackson, point­
 ing to the family Bible on the stand during  
 his last illness, said to a friend: &quot;Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870321:1889042901:0560/pct:28.591954022988507,82.0167248518308,18.414750957854405,3.767151091986685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870321:1889042901:0560/pct:21.446533349299486,61.51660306892912,13.818704346784816,2.825363318990014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4869,7 +4869,7 @@ time and seems to me the most suitable
 manner of beginning the day. In what  
 light soever we regard the Bible, whethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182100:1893091801:0998/pct:22.989161437535653,47.89759725400457,16.200798630918424,3.418192219679634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182100:1893091801:0998/pct:17.821879451785627,37.12776176753122,12.560789900280001,2.652774698884209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4888,7 +4888,7 @@ an hour of my time and seems to me the
 most suitable manner of beginning the  
 day. In what light soever we regar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063954:0028076033A:1893091801:0289/pct:69.16602907421576,291.5617310754089,49.80872226472839,11.521204226371399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063954:0028076033A:1893091801:0289/pct:17.29150726855394,72.89043276885222,12.452180566182097,2.8803010565928497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4907,7 +4907,7 @@ an hour of my time and seems to me the
 most suitable manner of beginning the  
 day. In what light soever we regar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196421:1893091801:0725/pct:32.11678832116788,99.57341715312079,19.40389294403893,3.8055680287382128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196421:1893091801:0725/pct:24.098585120949338,74.68567579703637,14.559561843906891,2.8513695554557703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4926,7 +4926,7 @@ of my time and seems to me the most j
 I suitable manner of beginning the day. !  
 In wbat light soever we regard th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_holt_ver01:data:sn86092518:00414186749:1893091801:0093/pct:17.176773455377575,11.957168352171326,13.243707093821511,2.3101328574261353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_holt_ver01:data:sn86092518:00414186749:1893091801:0093/pct:17.174317174317174,11.95598294834936,13.24657991324658,2.313208420078649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4945,7 +4945,7 @@ an hour of my time and seems to me
 the moat suitable manner pf beginning  
 the day. In what light soever we regar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191563:1893092001:0164/pct:24.835706462212485,56.629260182876145,16.292442497261774,2.6288445552784703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191563:1893092001:0164/pct:18.638729115310873,42.477140482128014,12.215831279101616,1.974231088944306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4964,7 +4964,7 @@ an hour of my time and seems to me the
 most suitable manner of beginning the  
 day. In what light soever we regar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:00415668119:1893092001:0404/pct:58.187534171678514,193.29849369812482,36.24931656642974,7.715954503535198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:00415668119:1893092001:0404/pct:19.398496240601503,64.43283123270827,12.084757347915243,2.5719848345117327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4984,7 +4984,7 @@ time and seems to me the most suita­
 ble manner of beginning the day. In  
 what light soever we regard the Bible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028272:00296028083:1893092001:0776/pct:46.59613615455382,96.74218865689323,18.28426862925483,4.190730045905523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028272:00296028083:1893092001:0776/pct:34.982738780207136,72.56034355101437,13.716915995397008,3.154153709462461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5022,7 +5022,7 @@ It employs about an hour of my time and
 seems to me the most suitable manner of  
 beginning the day. In what light soeve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893092101:0455/pct:71.00545596258769,195.93707041393003,50.42868277474669,9.89766305177944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893092101:0455/pct:17.751363990646922,48.98426760348251,12.607170693686673,2.47441576294486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5081,7 +5081,7 @@ and seems to me the most suitable
 manner of beginning the day. In what  
 light soever we regard the Bible,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:0023728303A:1893092201:0403/pct:32.214095744680854,26.83642337479465,20.794547872340427,4.904951889227881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:0023728303A:1893092201:0403/pct:21.483205853009643,17.894860361417507,13.867642168274028,3.273879371039662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5101,7 +5101,7 @@ time, and seems to me the most suita
 manner of beginning the day. In  
 what light soever we regard to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1893092201:0189/pct:115.95174262734585,185.21794871794873,41.55495978552279,10.35897435897436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1893092201:0189/pct:28.99765336909152,46.30448717948718,10.392222594703318,2.58974358974359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5140,7 +5140,7 @@ and seems to me the most suitable
 manner of beginning the day. In what  
 light soever wo regard the Bible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jones_ver01:data:sn83040592:00212473972:1893092301:0239/pct:31.323662737987306,37.43196092114445,21.736174070716228,4.8150732728541525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jones_ver01:data:sn83040592:00212473972:1893092301:0239/pct:23.509408297438224,28.080949057920446,16.300158694173657,3.6147941381716677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5159,7 +5159,7 @@ an hour of my time and seems tome the
 | most suitable manner of beginning the  
 ! day. In what light soever we regar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522539:1893092301:0326/pct:49.450721908349024,67.30028574978259,10.734463276836157,2.3232699714250216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522539:1893092301:0326/pct:49.45595312826951,67.30442705097941,10.744925716677129,2.3274112726218577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5199,7 +5199,7 @@ an hour of my time and seems to me the
 most suitable manner of beginning the day.  
 In what light soever we regard the Bible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn92064042:00514153012:1893092301:0028/pct:48.893709327548805,25.05652216651922,14.374548083875633,2.61476457288902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn92064042:00514153012:1893092301:0028/pct:48.893709327548805,25.063075461188113,14.374548083875633,2.61476457288902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5219,7 +5219,7 @@ an hour of my time and seems to me the
 most suitable manner o! beginning the day.  
 In what light soever we regard the Bible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153590:1893092301:0681/pct:74.16658171067387,22.989833641404807,10.959323070649404,2.302834257547751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153590:1893092301:0681/pct:74.17337819009752,22.99496816594783,10.962721310361234,2.3054015198192648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5260,7 +5260,7 @@ time, and seems to me the most suita­
 ble rannmjr of beginning the day. In &#x27;  
 what light soever we regard to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187316:1893092701:0314/pct:69.7001342682381,57.5252406668232,12.337759212293003,2.9701807936135243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187316:1893092701:0314/pct:69.68973747016706,57.51848808545604,12.340891010342084,2.973744962241265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5279,7 +5279,7 @@ hour of my time and seems to me the
 most suitable manner of beginning the  
 day. In what light soever we regar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076432:00271740694:1893092801:0939/pct:19.584569732937684,58.80408653846154,14.158541754980924,2.5390625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076432:00271740694:1893092801:0939/pct:19.595167443832132,58.80784254807692,14.158541754980924,2.5540865384615383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5319,7 +5319,7 @@ and seems to me the most suitable
 manner of beginning the day. In what  
 light soever we regard the Bible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:0023728527A:1893092901:0141/pct:27.6566757493188,20.629980079681275,18.11989100817439,4.444721115537849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:0023728527A:1893092901:0141/pct:18.452888055886863,13.757470119521912,12.080422559209405,2.9631474103585655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5339,7 +5339,7 @@ hour of my time, and seems to me the
 most suitable manner of beginning the  
 day. In what light soever we regar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn89058007:00296020473:1893092901:0733/pct:43.70888157894737,77.96716511554952,15.96765350877193,3.869078740980864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn89058007:00296020473:1893092901:0733/pct:32.79407732382781,58.475373836662136,11.98245132986016,2.907037540520757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5359,7 +5359,7 @@ an hour of my time and seems to me the
 most suitable manner of beginning the day.  
 In what light soever we regard the Bible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_styx_ver01:data:sn95079246:00175032277:1893092901:0157/pct:15.516420752022846,14.894765245547761,13.707758210376012,2.795466810577442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_styx_ver01:data:sn95079246:00175032277:1893092901:0157/pct:15.521709238986725,14.894765245547761,13.713046697339891,2.8062601187263896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5380,7 +5380,7 @@ an hour of my time and seems to me the
 most suitable manner of beginning the day.  
 In what light soever we regard tho Bible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197528:1893092901:0805/pct:43.79905808477237,21.092077087794433,16.50313971742543,3.7339400428265526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197528:1893092901:0805/pct:32.85574092247301,15.819057815845824,12.3846908734053,2.810492505353319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5399,7 +5399,7 @@ utter arisinir from my bed. It employs about
 an hour of my time and seems to me the  
 most suitable manner of bev;inninir the day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn86053634:00212478039:1893100401:0568/pct:18.47609561752988,36.76082365364309,14.49203187250996,2.481520591341077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn86053634:00212478039:1893100401:0568/pct:13.865825307206908,27.57391763463569,10.876785121222186,1.8611404435058079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5418,7 +5418,7 @@ hour of my time and seems to me the
 most suitable manner of beginning the  
 day. In what light soever we regar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625133:1893100601:0650/pct:23.801734009487976,58.095018450184504,14.068378864714543,2.617619926199262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625133:1893100601:0650/pct:23.801734009487976,58.10270602706027,14.084737444789793,2.6137761377613775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5438,7 +5438,7 @@ an hour of my time and seems to me the
 most suitable manner of beginning the day.  
 In what light soever we regard the Bible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_licklog_ver01:data:sn85042052:00416156906:1893100701:0373/pct:85.81436077057793,113.40554506608368,57.09281961471103,8.86415581834443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_licklog_ver01:data:sn85042052:00416156906:1893100701:0373/pct:21.456721646474968,28.35138626652092,14.275288279083345,2.2160389545861077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5457,7 +5457,7 @@ It employs about an hour of my time and
 seems to me t he most suitable manner of  
 I beginning the day. In what light soeve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn82015415:00237284203:1893101401:0546/pct:25.412293853073464,49.09923213230951,15.685907046476762,3.1305375073833432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn82015415:00237284203:1893101401:0546/pct:19.06636670416198,36.82811577082103,11.77352830896138,2.3479031305375075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5517,7 +5517,7 @@ will be my hopes that they will prove
 useful citizens to their country, and  
 respectable members of society.?Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kikideville_ver02:data:sn93067760:00211109919:1897020901:0444/pct:86.51623555310952,45.48153034300792,12.149146945514584,3.0013192612137205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kikideville_ver02:data:sn93067760:00211109919:1897020901:0444/pct:86.51623555310952,45.48153034300792,12.167492203265455,3.008648490178833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5537,7 +5537,7 @@ hopes that they will prove useful citisens
 i to their oountry, and respeotable members  
 1 of society.—John Q. Adamt. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1897031101:0460/pct:84.55362263429555,92.82122905027933,11.928885490346014,2.877094972067039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1897031101:0460/pct:84.5374617737003,92.8082670018154,11.93138379204893,2.880184331797235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5570,7 +5570,7 @@ Girls that are mother s right hand;
 That father and brothers can trust to,  
 And the little ones understand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865970:1897052701:0310/pct:20.808871493803,4.654235795037439,28.549684714068277,90.30979298194097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865970:1897052701:0310/pct:20.804347826086957,4.6535525543159135,28.54891304347826,90.30020551967117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5611,7 +5611,7 @@ hour of my time, and seems to me the
 most suitable manner of beginning the  
 day. In what light soever we regard th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182240:1898071101:0784/pct:30.340557275541794,48.89817081953046,12.912037880167547,3.1686590810888666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182240:1898071101:0784/pct:30.340557275541794,48.90297181813817,12.912037880167547,3.1782610783042875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5630,7 +5630,7 @@ an hour of my time and seems to me
 the most suitable manner of begin­  
 ning the day. In what light soeve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028272:0029602806A:1898071301:0456/pct:44.475255972696246,66.94033935413246,18.195392491467576,3.188286808976464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028272:0029602806A:1898071301:0456/pct:33.36889268188607,50.20525451559934,13.654789844250054,2.3946360153256707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5649,7 +5649,7 @@ hour of my time, and seems to me the
 most suitable manner of beginning  
 the day. In what light soever we re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187316:1898071301:1650/pct:33.07237577887842,78.53687315634218,13.117111359642115,2.3952802359882006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187316:1898071301:1650/pct:33.067092651757186,78.52760736196319,13.120340788072417,2.3989303130407427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5670,7 +5670,7 @@ and seems to me the most suitable man­
 ner of beginning the day. In what light  
 soever we regard tho Bible, whethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:0027176358A:1898071401:0132/pct:37.77810304449649,75.56561085972851,14.402810304449648,4.35085276714236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:0027176358A:1898071401:0132/pct:28.34553440702782,56.67710871330781,10.805270863836018,3.2718412808910546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5709,7 +5709,7 @@ hour of my time and seems to me the most
 suitable manner of beginning the day. In  
 what light soever we regard the Bible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_charlotte_ver01:data:sn86072143:00280777122:1898071401:0338/pct:110.7310529845741,170.4367301231803,43.25955734406438,10.862262038073908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_charlotte_ver01:data:sn86072143:00280777122:1898071401:0338/pct:27.69669518537158,42.609182530795074,10.82033215903372,2.715565509518477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5751,7 +5751,7 @@ and seems to me the most suitable man­
 ner of beginning the day. In what light  
 soever we regard the Bible, whethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_harveycedars_ver02:data:sn85035776:00513685609:1898071501:0114/pct:24.621563175780043,74.22202104786692,9.592215013901761,2.8290143713930065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_harveycedars_ver02:data:sn85035776:00513685609:1898071501:0114/pct:24.617760617760617,74.21362299162706,9.594594594594595,2.8315229689975108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5781,7 +5781,7 @@ seems to me the most suitable man­
 ner of beginning the day. In what  
 light soever we regard the Bible
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_avocado_ver01:data:sn85042303:00200295365:1898071701:0071/pct:68.40133222314738,65.02433987313763,19.546211490424646,4.587697300486798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_avocado_ver01:data:sn85042303:00200295365:1898071701:0071/pct:51.322090360191545,48.76825490485322,14.657505725588175,3.4518365540640215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5801,7 +5801,7 @@ revelation, to history or to morality.it ]
 is an invaluable and inexhaustible mine  
 of knowledge and virtue.&quot; &quot;Chancello
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237288385:1898072001:0168/pct:16.401515151515152,79.74602594555088,11.780303030303031,3.160972044582496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237288385:1898072001:0168/pct:16.401515151515152,79.74602594555088,11.788720538720538,3.1670625494853524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5820,7 +5820,7 @@ employs about an hour of my time, and
 seems to me the most suitable man­  
 ner of beginning the day,. ,In wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767852:1898072101:0248/pct:37.70623097869614,46.201673072575176,13.63126701906135,2.8261361067148996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767852:1898072101:0248/pct:37.70623097869614,46.201673072575176,13.641945645789951,2.8261361067148996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5839,7 +5839,7 @@ about an hour of my time, and
 seems to me the most suitable manner  
 of beginning the day. In what ligh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898072101:0588/pct:44.46648155493852,61.71263894606834,17.929393097976995,3.499382461918485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898072101:0588/pct:34.472511144130756,47.83394781622235,13.895578213864836,2.7119965967101534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5859,7 +5859,7 @@ and seems to me the most suitable man­
 ner of beginning the day. In what light  
 soever we regard the Bible, whethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_green_ver01:data:sn91068367:00296024260:1898072201:0463/pct:50.187768240343345,44.67916294753545,17.891630901287552,3.143905583655658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_green_ver01:data:sn91068367:00296024260:1898072201:0463/pct:37.65763348537698,33.51185163145889,13.429031392540917,2.3604086085490428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5878,7 +5878,7 @@ about an hour of my time, and
 seems to me the most suitable manner  
 of beginning the day. In what ligh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn89058007:00296020497:1898072201:0332/pct:60.371428571428574,71.06471359860079,15.571428571428571,3.2028858766943595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn89058007:00296020497:1898072201:0332/pct:45.305130770330145,53.30126803672934,11.676432756895812,2.404897245299519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5916,7 +5916,7 @@ bed. Itemploys about an hour of my time,
 and seems to me the most suitable manner  
 of beginning the day. In what light so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898072301:0408/pct:25.288376220053237,76.26515151515152,10.756186532584048,1.803030303030303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898072301:0408/pct:25.291662558743305,76.27020202020202,10.759472871274113,1.803030303030303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5954,7 +5954,7 @@ bed. It employs about an hour of my time,
 and seems to me the most suitable manner  
 of beginning the day. In what light so
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898081101:0244/pct:33.892339544513455,16.909326798327807,14.265010351966874,2.205564364999279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081854:00296026086:1898081101:0244/pct:33.90614216701173,16.91413194944981,14.251207729468598,2.2007592138772765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

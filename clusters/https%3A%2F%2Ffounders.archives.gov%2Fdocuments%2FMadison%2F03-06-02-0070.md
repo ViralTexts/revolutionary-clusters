@@ -49,7 +49,7 @@ of the Indiana Territory­
 George Poindexter, to be a Judge ot  
 the Mississippi Territory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813031601:0548/pct:11.770726714431934,73.21266968325791,19.327874445581713,7.085972850678733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813031601:0548/pct:11.768719085792256,73.20604470183694,19.330263232702258,7.088347962477001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ diuna Territory, and Aaron Ogden of New Jersey
 to be Major Generals in the Army ol the United  
 States, &amp;c. JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840040401:0012/pct:71.10441767068274,91.43511450381679,19.437751004016064,5.312977099236641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840040401:0012/pct:53.344044988953605,68.58015267175573,14.581241213095,3.984732824427481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ Monday, March 1, 1813.
 The Senate took into consideration the messn  
 of the President of the United States, of the 27i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041101:0016/pct:69.20756234915527,90.11743175232576,19.73049074818986,8.96751563214885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041101:0016/pct:51.93158953722334,67.59188653347567,14.808853118712273,6.725636724111636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ oiana 1 rrritoiy, nun Aaron UiT&#x27;ten oi ;uv Jersey
 10 Do Major Generals in the Army of the United  
 Siates, &amp;c. JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041801:0020/pct:49.88057324840764,90.98934550989345,19.34713375796178,5.205479452054795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041801:0020/pct:37.442740489942246,68.2496194824962,14.519020115514838,3.9117199391171993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ WILLLIM M HLIRRiSON of Indiana Territory
 and Aaron Ogden, of New Jersey, to be Major Gen  
 cruls in the Army of the United States, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840042501:0186/pct:135.13405362144857,131.16162145176494,37.66840069361078,9.217555252959045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840042501:0186/pct:45.03867698052814,43.715961457896945,12.5544589668356,3.0721966205837172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ diana Territory, and Aaron Ogdcn of New Jersey
 to bo Major Generals in the Army of the United  
 States, Cxc. JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050901:0032/pct:50.1195219123506,90.85328422344998,19.52191235059761,5.21792510742787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050901:0032/pct:37.60462335591869,68.13996316758748,14.64726982861698,3.9134438305709023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ diana Territory, and Aaron Ogden of New Jersey
 to be Major Generals in the Army of the United  
 States, &amp;c. JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840053001:0044/pct:47.60765550239235,91.82699707557335,19.517543859649123,5.27935970447899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840053001:0044/pct:35.71286141575274,68.87794366630753,14.656031904287138,3.9556718485454825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ diana Territory, and Aaron Ogden of New Jersey
 to be Major Generals in the Army of the United  
 States, &amp;c. JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840060601:0048/pct:47.976190476190474,89.93911719939118,19.503968253968253,6.012176560121766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840060601:0048/pct:35.9992061917047,67.45814307458143,14.625917840841437,4.505327245053272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ diana Territory, and Aaron Ogden of New Jersey
 to be Major Generals in the Army of the United  
 States, &amp;c. JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840070401:0060/pct:48.52707006369427,90.38550145906926,19.486464968152866,5.959146060512978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840070401:0060/pct:36.42700657239594,67.79296575026878,14.618601872137024,4.469359545384734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

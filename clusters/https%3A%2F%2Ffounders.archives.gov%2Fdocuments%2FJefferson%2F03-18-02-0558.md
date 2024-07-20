@@ -55,7 +55,7 @@ such twain ! Accept the assurance of my
 respyct.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822110801:0202/pct:25.495804729214342,80.25811397904421,17.925247902364607,16.061845131612575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822110801:0202/pct:25.490943755958057,80.24785997189217,17.92818557356212,16.064051786550827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ such again!
 Accept the nsMlfiiiice ofinv respect.  
 THOM \*4 JKKVEKSONi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822111501:0122/pct:17.223161453930686,49.956204379562045,15.659340659340659,22.32116788321168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822111501:0122/pct:17.219522501584617,49.948912567508394,15.661314177054722,22.32155889651146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ see such again!
 Accept the assurance of my respect.  
 THOMAS JEt FeRsUN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1822111601:0042/pct:27.923358692589463,56.85028248587571,20.400112707805015,18.714689265536723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1822111601:0042/pct:27.91549295774648,56.840247131509265,20.401408450704224,18.715798764342452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ again }
 Accept the affurarce of my refpeét.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822112601:0605/pct:41.447178002894354,22.49704375246354,16.584659913169318,15.17540402049665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822112601:0605/pct:41.45682585624699,22.500328471948496,16.589483839845634,15.178688739981606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ set sucn aijain!
 Accept the assurance of mv respect.  
 Til. J El TLRSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822112701:0427/pct:57.27542687453601,10.998930989428674,18.52264291017075,16.225204893692837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822112701:0427/pct:57.2878000494927,10.998930989428674,18.516456322692402,16.23312349051748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ eral happiness and good”. And he represents
 them precisely as we now find them to be,—the  
 mest alarming of any calamity we have to dread
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1850080301:0143/pct:57.773713091194146,62.40380720939652,12.5947217141364,3.1591737545565004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1850080301:0143/pct:57.773713091194146,62.41055758066694,12.5947217141364,3.1591737545565004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

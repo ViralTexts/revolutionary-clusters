@@ -63,7 +63,7 @@ and Great Britain, as signed by all the Com­
 missioners of both parties at Ghent, on the  
 24th of December, 1814, was last evening de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815022201:0032/pct:51.19719680747518,11.363636363636363,21.335409772240606,2.018920166128288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815022201:0032/pct:51.19719680747518,11.371327488078757,21.335409772240606,2.018920166128288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ the union, as constituting the pafla
 prosperity.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815022301:0093/pct:39.59870168191207,2.47187029325773,38.09383298908232,94.45379640294144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815022301:0093/pct:39.592860303879625,2.4716513111268603,38.09313074691449,94.44838176234349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ States and Great Britain, as signed by all
 i the commissioners of both parties at Ghent,  
 on the 24th of December, 1811, was last 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1815022301:0640/pct:52.15435606060606,66.61378713585232,22.37215909090909,3.6342659359676954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1815022301:0640/pct:52.142011834319526,66.60418168709445,22.37278106508876,3.637346791636626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ and fidelity to the union, as constituting the pal­
 ladium of the national independence and prospe­  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815022501:0236/pct:26.098191214470283,23.28902018709995,22.35142118863049,73.98654193336615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815022501:0236/pct:26.09144923792302,23.28519855595668,22.352105399121672,73.97850344601247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ pal la liu&gt;n ot the national independence aud
 prosperity.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815022501:0376/pct:24.280510018214937,5.46875,36.520947176684885,92.28670634920636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815022501:0376/pct:24.276088144236024,5.468071915685059,36.520366660596125,92.27939656953916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -603,7 +603,7 @@ Jl3u*£2 ?*UKe of the public
 credit, both at home snd abroad. There**.  
 vinjc interests of commerce will claim the ic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815022501:0056/pct:77.78187177597641,50.069823536879525,17.44657332350774,47.18801574203377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815022501:0056/pct:77.76754466752625,50.06346788525006,17.449499600908702,47.186257087247185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ on. as constituting the paUaditim of the nation­
 *1 independence and prosperity,  
 JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815022501:0057/pct:5.193125115505452,3.8529116465863456,17.59379042690815,20.055220883534137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815022501:0057/pct:5.192165558019217,3.8524281591165765,17.59669869425967,20.056887104195425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1114,7 +1114,7 @@ palladiuma es the national indeperndence and
 presperity.  
 L JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815022801:0247/pct:24.557142857142857,8.176590975538447,16.542857142857144,59.731020368385146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815022801:0247/pct:24.566666666666666,8.179839521813989,16.538095238095238,59.731020368385146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1244,7 +1244,7 @@ Union, as consiituing (b€ palladiom of the
 national mndepenuence andipiospeiity.  
 : JAMLS MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815030101:0035/pct:29.642716921868864,2.1822849807445444,45.17078916372203,92.78795658769985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815030101:0035/pct:29.649260567988485,2.186174971797565,45.16424551760241,92.79184657875287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1584,7 +1584,7 @@ to operate.’”” ‘These modest remarks of the
 President have kindled the ire of the mighty  
 man of the Oracle ; he declares that the Presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815030701:0250/pct:78.06194941744813,64.27382234844775,16.04148905939187,4.769366369601411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815030701:0250/pct:78.06668561144265,64.28035125518232,16.04622525338638,4.766101916234127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2045,7 +2045,7 @@ its conduct without regret and without re­
 proach.&#x27;’  
 If uBy other man than fhe author of the lat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815032201:0251/pct:28.758169934640524,11.38557173237363,21.392659627953744,6.788810731228529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815032201:0251/pct:28.75094244785122,11.383709519136408,21.393566222669012,6.791789335950278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2190,7 +2190,7 @@ on an event w! ith is highly honor n hi? to the na­
 tion, anti terminates with peculiar felicity, a. cam­  
 paign signalized by the must brilna-it success.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815040301:0271/pct:26.938034742027483,42.7283161173963,21.571169302566762,2.721757665191015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815040301:0271/pct:26.931052358735094,42.721311475409834,21.572058061171592,2.7254098360655736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2449,7 +2449,7 @@ liffi . sh &#x27; die mnw- fa it I n I ri online iltiiiti-tfxtej
 « *&#x27;&quot;* ■&#x27; ‘■•ii&#x27;.ui.. uc^ri-tfOf l l x.wnt&#x27;nn for w:ir, is not only  
 ; BH •■‘pentnMcj to avert dixatie, .* (he onw *, l»u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815052001:0021/pct:0.7180039490217196,87.31578284418693,18.883503859271226,4.081118528781962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815052001:0021/pct:0.7178750897343862,87.30478589420655,18.88609715242881,4.0848026868178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2551,7 +2551,7 @@ national independence and wealth, I anxiously rocommend.
 Jietcfme, tu tile prompt and constant guardianship of Umi­  
 glC5*».
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826041101:0079/pct:77.58321501814166,23.905025357307515,17.82615554503865,11.191793453204241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826041101:0079/pct:77.57097791798107,23.90227036994353,17.828601472134594,11.194345203795475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2593,7 +2593,7 @@ mend, therefore, to the prompt and constant guar­
 dianship of Congress.”  
 Extract from Mr. Madison’s Message of 5t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826103101:0216/pct:36.255044390637615,66.55855855855856,15.092816787732042,14.414414414414415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826103101:0216/pct:36.249193027759844,66.55056449675715,15.095760705831719,14.416686684282169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2652,7 +2652,7 @@ independence and wealth, l anxiously rccomineod,
 therefore, to the prompt and constant guardianship of  
 Congress.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827080801:0187/pct:76.91220354955237,19.546372164826032,17.967645673001414,10.093813086331789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827080801:0187/pct:76.9001256281407,19.544051294229398,17.97005862646566,10.096572468930578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2688,7 +2688,7 @@ independence anti wealth, I anxiously
 recommend t» the prompt and constant  
 guardianship of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827111501:0404/pct:24.261555806087937,48.98779612347452,17.564825253664036,7.968413496051687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827111501:0404/pct:24.256086564472497,48.98076370944588,17.566501352569883,7.97085845535458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2746,7 +2746,7 @@ July ; and one ton at the second cutting the
 last week in August. This shows how much  
 a little land, if well cultivated, will produce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1827112101:0501/pct:42.526480972930564,78.19824908218017,19.066300510003924,12.214063823778593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1827112101:0501/pct:32.96848079456775,60.61136645509594,14.771460423634336,9.458670752170423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2771,7 +2771,7 @@ guardianship of Congress.”
 We heArd n Jacksonite say, in a public place last  
 evening, while arguing in favor of the would-be Pres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1827112201:0287/pct:22.12655186223468,78.13896789922795,17.280736884261113,5.783556819720981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1827112201:0287/pct:22.12212212212212,78.12838569880823,17.28228228228228,5.786159263271939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2824,7 +2824,7 @@ Flits source of national independence and wealth, I
 anxiously recommend, therefore, to the prompt and  
 constant guardianship of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831020301:0158/pct:78.51030110935024,44.53152011063732,17.844690966719494,4.5522646075832665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831020301:0158/pct:78.49786087783235,44.52638856879465,17.847145196218243,4.555581163094415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2847,7 +2847,7 @@ Mrs source of national independence and wealth I
 anxiously recommend, therefore, to the prompt and i  
 constant jjiuin»&#x27;anship of Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831020401:0047/pct:58.660616491941795,55.491066348014115,17.57158504146456,4.438374871969955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831020401:0047/pct:58.65143929912391,55.48475193445608,17.574050896954528,4.441662873615536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2920,7 +2920,7 @@ wealth 1 anxiously recommend, therefore,
 to the prompt and constant guardianship  
 of Congress.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840020601:0443/pct:33.37856173677069,90.79704190632704,15.061058344640434,6.094220761435223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840020601:0443/pct:33.372093023255815,90.74733096085409,15.062984496124031,6.094306049822064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2992,7 +2992,7 @@ European wars. This source of national independence and
 wealth I anxiously recommend, therefore, to the prompt and con-  
 tant guardianship of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842030701:0492/pct:192.18139171227523,323.04631997726625,56.528537920250194,13.185564080704745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842030701:0492/pct:48.054740957966764,80.76157999431656,14.134897360703812,3.2963910201761863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3017,7 +3017,7 @@ This source of national independence and wealth
 I angiously recommend, therefore, to the prompt  
 and constant guardianship of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842030801:0219/pct:198.7281399046105,211.9831713332366,59.06200317965024,22.45756564630785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842030801:0219/pct:49.7116723006562,52.99579283330915,14.77430900775502,5.614391411576962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3078,7 +3078,7 @@ source of national independence anil wealth I anx­
 iously reccommend, therefore, to tin* prompt and  
 constant guardianship of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1842042801:0240/pct:67.1594982078853,55.730523324650726,14.66547192353644,9.898176651669429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1842042801:0240/pct:67.14946991190085,55.72392565407837,14.668259419640636,9.900951027978374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3102,7 +3102,7 @@ of national independence and wealth, I anxiously
 recommend to the prompt and constant guardian­  
 ship of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842043001:0524/pct:90.1667990468626,19.485038274182326,39.046862589356635,11.876594757596845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842043001:0524/pct:30.050825921219822,6.494259538443697,13.013553578991953,3.958405813908539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3136,7 +3136,7 @@ This source of national independence anil wealth
 I anxiously recommend, therefore, to the prompt  
 and constant guardianship of Congress. Ladison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842062701:0558/pct:147.0,79.50948238984742,55.61538461538461,16.997005561100814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842062701:0558/pct:36.75706866705136,19.877370597461855,13.906520484708597,4.249251390275203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3272,7 +3272,7 @@ and protection together, and making one the inci­
 dent of the other. He says:  
 &quot;In adjusting the duties and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842090901:0964/pct:12.986803990988092,7.032890132960112,79.43353717412295,279.2978773034756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842090901:0964/pct:4.328238133547868,2.3440233236151604,26.47358541163851,93.08843537414965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3317,7 +3317,7 @@ the European wars. This source of national independence
 and wealth the said) I anxiously recommend to the prompt  
 and constant guardianship of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843040601:0316/pct:94.66895958727429,253.3440773569702,38.83634279163084,11.062507194658686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843040601:0316/pct:31.551798251898553,84.43830570902394,12.943592682810335,3.6870779619398406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3336,7 +3336,7 @@ national independence and wealth (he
 83 :y 1 anxiously recommend to the prompt  
 constant guardianship of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1843042801:0196/pct:4.3695014662756595,117.43974533879036,19.34017595307918,4.3428831286948615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1843042801:0196/pct:3.2854209445585214,88.08549340609368,14.505720152537402,3.2628467485220556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3359,7 +3359,7 @@ xoitrce t&#x27;f nutional ndeptH9CHte aWSi Uftmtth I au.cinutlij
 j rammend, thcrrßre, to the prompt end Hrict rtMrdfOJt&#x27;  
 thip of Cottgrtmt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82015677:00202191277:1843050201:0089/pct:26.809130645944634,48.28861287569925,19.329771733851384,5.5940077747226695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82015677:00202191277:1843050201:0089/pct:20.10928961748634,36.21882999905186,14.499089253187615,4.200246515596852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3424,7 +3424,7 @@ tend these limits, and to apply eie a she er to the e atetat the former marriage
 lus to our public debts, as platheir just proportion of the avigatonoacording to the rites of the Roman church,  
 rt day their final redemption, the world. The most liberal policy to be ana thi ate da the wi bean t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843053001:0302/pct:32.34005258545136,216.04741940147463,360.9114811568799,48.28682955038311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843053001:0302/pct:8.086785009861932,54.01185485036866,90.24764409379794,12.071707387595778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3450,7 +3450,7 @@ ungiously recommend, therefore, to the
 prompt and constant guurdianship of  
 eeegtese
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1843061501:0084/pct:70.60185185185185,99.64167219641672,57.02160493827161,29.356337093563372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1843061501:0084/pct:17.657275183326902,24.91041804910418,14.260903126206099,7.339084273390843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3473,7 +3473,7 @@ wars: this source of national independance and
 wealth, I anriously recommend, therefore, to the  
 prompt and constant guardianship of Cilgress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843062101:0492/pct:191.92139737991266,105.00717017208413,43.94884591391141,13.52772466539197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843062101:0492/pct:63.96382348354904,34.99820767116741,14.647330942356671,4.508702752220496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3497,7 +3497,7 @@ pendence and wealth I anviously recommend, there­
 ore, to the prompt and constunt guardianship of  
 ongress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1843081101:0795/pct:269.36728395061726,172.35865219874358,56.32716049382716,18.846373500856654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1843081101:0795/pct:67.38081451457248,43.089663049685896,14.089944026249759,4.711593375214163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3521,7 +3521,7 @@ tional independence and wealth I angriousty recom
 mend, therefore, to the prompt and constant guardf-  
 anship of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843081801:0561/pct:74.76835352815395,208.4581497797357,48.467569493941554,16.44640234948605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843081801:0561/pct:18.69541971128141,52.11453744493392,12.119051862413118,4.1116005873715125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3553,7 +3553,7 @@ In allusion to the same subject, he afterwards
 says!  
 &quot;It is important too that the capital which nourishes ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843123001:1190/pct:131.9622964867181,243.85250668837966,38.23193373321908,24.997092008840294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843123001:1190/pct:43.98115093531344,81.27471505001164,12.742158122709315,8.331394898038303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3577,7 +3577,7 @@ independence and wealth, I anxiously recommend,
 I therefore, to the prompt and constant guardian­  
 ship of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844010301:0238/pct:23.210332103321033,59.5787496646096,18.690036900369005,6.399248725516501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844010301:0238/pct:23.210332103321033,59.58769340846078,18.690036900369005,6.403720597442089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3601,7 +3601,7 @@ pendence and wealth, I anxiously recommend,
 therefor*·, to the prompt and cciiitaiH guardian­  
 ship of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1844010401:0552/pct:67.79238892209604,34.737821492656344,14.783821478382148,4.911277995613744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1844010401:0552/pct:67.78563601952386,34.73551302498671,14.785669223362222,4.913166755272019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3691,7 +3691,7 @@ dence and wealth, 1 anxiously recommend tliere­
 lore lo the prompt and constant guardianship of  
 i Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844011101:0012/pct:80.69588004076284,25.415433644434327,16.639976706944243,4.939676758479399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844011101:0012/pct:80.68413391557496,25.41254125412541,16.642406598738475,4.942908083911839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3715,7 +3715,7 @@ dependence arid wealth, I anxiously recommend,
 therefore, to the prompt and constant guardian­  
 ship of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844011501:0278/pct:41.19619899385131,18.65284974093264,18.68828023104155,6.443470174040122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844011501:0278/pct:41.19619899385131,18.6617067446083,18.706912614123347,6.443470174040122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3785,7 +3785,7 @@ of rati-.nal independence and wealth, anx.
 iously reccommend therefore to the prompt and  
 -constant guardianship of Congress.&#x27; &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065034:00295877649:1844020801:0187/pct:21.60011574074074,39.832810867293624,18.47511574074074,6.4472309299895505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065034:00295877649:1844020801:0187/pct:16.210739614994935,29.87460815047022,13.865971920683167,4.8380355276907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3929,7 +3929,7 @@ Tliis source ol national independence and
 wealth i anxiously recommend to the  
 prompt and constant guardianship of Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624426:1844052501:0171/pct:10.686044026501389,95.0,18.016670228681342,8.726415094339623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624426:1844052501:0171/pct:8.292844522968197,73.6341849790812,13.957597173144876,6.771192981030911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3954,7 +3954,7 @@ COMMEND, THEREFORE, TO TIIK PROMPT AND CON­
 STANT GUARDIANSHIP OK CONGRESS.”  
 iDii the 5th December 1815, Mr. Madison i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844060601:0097/pct:18.491841834484784,14.685235507246377,14.758194914008525,5.5480072463768115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844060601:0097/pct:18.4891240446796,14.683572965017548,14.760924946110132,5.551152873693347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3998,7 +3998,7 @@ period of the European wars. This source e sepottin e o ti a
 of national independence and wealth I anon so ee that ter ei in te o­  
 iously recommend to the prompt and colli intittio of ou o o o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn86074085:00295877765:1844081701:0347/pct:54.113655640373196,200.90522562062816,144.27480916030535,24.96228226580716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn86074085:00295877765:1844081701:0347/pct:13.531283138918345,50.22630640515704,36.076352067868505,6.24057056645179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4022,7 +4022,7 @@ dependence and wealth I anxiously recommend,
 therefore, to the prompt and constant guardian­  
 ship of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844082101:0998/pct:42.0039934652387,36.260141324260665,18.061354147758212,6.267992672075373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844082101:0998/pct:42.010044170145825,36.264503184157725,18.067404852665337,6.276716391869493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4233,7 +4233,7 @@ tional independence and wealth I anxiuuslv recom
 mend to the prompt and constant guardianship of  
 Congress.&quot; Madison&#x27;s special vussagt, Februar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1844092701:0383/pct:89.50617283950618,50.532654006484485,20.08230452674897,6.484483557202409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1844092701:0383/pct:67.18138768787317,37.90335031650456,15.071031500926498,4.863362667901806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4282,7 +4282,7 @@ recommend to the prompt and constant guardianship of
 Connress.&#x27;  
 The repeated recommendations of Mr. Mndison t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1844102801:0104/pct:134.9665071770335,324.0223463687151,59.655502392344495,19.764457194624793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1844102801:0104/pct:33.73517030233448,80.99335748792271,14.911021814006888,4.940368357487923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4322,7 +4322,7 @@ gress.
   
 The writer has not only suppressed the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1845090301:0452/pct:37.59525825571549,26.883514039477344,22.565622353937343,7.923269391159299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1845090301:0452/pct:28.202413720093162,20.16958576591604,16.93838661867457,5.949402279677509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4347,7 +4347,7 @@ ordinary lot of nations, to be incident to the
   
 actual period of the world.&quot; In connec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1845090301:0452/pct:37.193056731583404,46.497080900750625,22.45977984758679,9.271615234917988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1845090301:0452/pct:27.905991954266355,34.87628579371699,16.8536946855812,6.964136780650542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4386,7 +4386,7 @@ not entitled to any weight whatever. And
 in conclusion we must say that a cause is  
 indeed bad when to sustain and defend it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1845090301:0452/pct:36.939034716342086,56.00500417014179,22.544453852667232,16.666666666666668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1845090301:0452/pct:27.715435104806268,42.00722824576036,16.91721363540123,12.496524881845982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4418,7 +4418,7 @@ the Kuro|iean war*. This source of national independence and
 wealth I anxiously recommend to the prompt and constant  
 guardianship of Congress.&quot;?.Madison&#x27;s Special .Mestutre, Feb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845121301:0277/pct:36.93032275938496,80.2069716775599,15.154453525419033,3.6383442265795205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845121301:0277/pct:36.939557648797155,80.2069716775599,15.154453525419033,3.6419753086419755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4794,7 +4794,7 @@ of Congress, than a  consideration of the
 means to preserve and promote the manu­  
 tactures which have sprung inte existence,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849011301:0777/pct:128.06637806637806,370.0196133370692,50.36075036075036,15.858783973101708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849011301:0777/pct:32.016594516594516,92.5049033342673,12.59018759018759,3.964695993275427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4910,7 +4910,7 @@ national independence and wealth I anrionsly recom
 mend therefore, to the prompt and constant guardian  
 ship of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530868:1867060101:0234/pct:102.90841584158416,58.62182296231376,48.035272277227726,33.96143733567047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530868:1867060101:0234/pct:34.302805280528055,19.540607654104587,16.011757425742573,11.320479111890155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4946,7 +4946,7 @@ source of national independence aud wealth I
 anxiously recommend, tuereloie, to the orompt  
 and constant guardianship of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:0028077621A:1867060301:0236/pct:47.31332868108863,35.10549694614103,18.946266573621774,14.700166574125486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:0028077621A:1867060301:0236/pct:35.503578285913775,26.33259300388673,14.225868388898586,11.02165463631316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4976,7 +4976,7 @@ States of nasional incdependence and trculth I anriontsly
 souree af  thersfore, to the prompt and constant gur­  
 ianship of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530923:1869071701:0567/pct:5.6422018348623855,16.20081113668749,49.281345565749234,24.038145346925354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530923:1869071701:0567/pct:1.8807339449541285,5.400270378895831,16.427115188583077,8.012715115641784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5009,7 +5009,7 @@ L**towed upon us, let us never cease to incul­
 t&#x27;jjiou, os constituting the palladium of the na­  
 tiatal independence and prosperity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186981:1870041101:0269/pct:7.275094012149262,70.77615780445969,12.351750072317039,9.273156089193826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186981:1870041101:0269/pct:7.2740419378163415,70.76857112230678,12.354784285369968,9.275735162754136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5034,7 +5034,7 @@ portance to give encouragement to our
 domestic manufactures.”   
 Adams.—“The very first act of the or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151222:1872080101:0494/pct:19.2101020956475,47.44532803180915,14.629231595916174,7.246520874751491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151222:1872080101:0494/pct:19.2101020956475,47.44864148442677,14.638187354468924,7.249834327369118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5063,7 +5063,7 @@ unxiously recommend, therefore, to the promp! and
 constunt guurdianship of congres  
 In the great debate, in 1844, in the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883072601:0174/pct:89.88954970263381,93.23525169479302,55.395072217502126,30.05913745853166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883072601:0174/pct:22.4771616741024,23.308812923698255,13.85171021882303,7.514784364632915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5111,7 +5111,7 @@ therefore, to the prompt and constant
   
 guardianship of Congress. In a lette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559917:1884091201:1076/pct:79.62962962962963,305.6619144602851,49.03703703703704,40.353021045485406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559917:1884091201:1076/pct:19.90740740740741,76.41547861507128,12.25925925925926,10.088255261371351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5389,7 +5389,7 @@ therefore, to the prompt and constant
 guardianship of congress.”—-James Mad­  
 ison.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inman_ver01:data:sn84025827:00220720445:1892061101:0001/pct:79.97368421052632,55.2438080495356,11.789473684210526,6.259674922600619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inman_ver01:data:sn84025827:00220720445:1892061101:0001/pct:79.98245614035088,55.24703302373581,11.789473684210526,6.262899896800826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5416,7 +5416,7 @@ recommend, therefore, to the prompt
 and constant guardianship of congress.”  
 The party of Jefferson, Which in hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1892063001:1051/pct:51.73357664233577,17.57257566399012,15.077554744525548,8.261272390364422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1892063001:1051/pct:51.721778791334096,17.569862590705572,15.07981755986317,8.263856723791879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5461,7 +5461,7 @@ States during the period of the European
 wars.&quot;  
 James Monroe: &quot;Our manufactures wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199136:1892082701:0178/pct:50.44300059066745,33.34389857369255,38.02421736562315,15.573164289487586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199136:1892082701:0178/pct:16.814333530222484,11.114632857897517,12.674739121874385,5.191054763162529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5485,7 +5485,7 @@ paralled maturity throughout the United
 Buu-g&#x27;dnrlng the period of the European  
 WArS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152810:1892082901:1011/pct:43.23043595992418,72.94477234401349,12.753858651502844,3.9629005059021924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152810:1892082901:1011/pct:43.23946204531095,72.94828555368184,12.74934560880946,3.9664137155705452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5509,7 +5509,7 @@ This source of national inaependence and
 wealth, I anxiously recommend therefore to the  
 prompt and constant guardianship of Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663455:1892101501:0286/pct:20.51001821493625,82.62979136341582,14.626593806921676,4.718583212032994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663455:1892101501:0286/pct:20.51001821493625,82.63787805272521,14.632665452337584,4.718583212032994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5531,7 +5531,7 @@ spriing into existence and attained an un­
 paralleled maturity throughout the United  
 states during the period of the European wars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199136:1892101701:0653/pct:92.50330736439805,212.5,37.64515654858151,8.575949367088608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199136:1892101701:0653/pct:30.834435788132687,70.83333333333333,12.548385516193836,2.8586497890295357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5576,7 +5576,7 @@ Independence and wealth I anxiously
 recommend, therefore, to the prompt  
 and constant guardianship of congress,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194576:1894052201:0243/pct:34.91379310344828,103.24588706091596,17.5,8.107306951237588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194576:1894052201:0243/pct:26.202285960750487,77.4418259967393,13.155057149018763,6.07677486290203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5666,7 +5666,7 @@ out the United States.&quot;
 The tariff during the above period was  
 collected in part by the specific and par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669422:1897020401:0166/pct:31.023699802501646,115.01367989056088,20.88545095457538,5.232558139534884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669422:1897020401:0166/pct:20.694764570299636,76.67578659370724,13.928218636812645,3.488372093023256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5689,7 +5689,7 @@ out the United States.&quot;
 The tariff during the above period was  
 collected in part by the specific and par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918163:1897020501:0505/pct:27.25994375251105,94.54620575678281,17.918842908798716,4.503511912959647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918163:1897020501:0505/pct:21.818084422541247,75.63994270814206,14.329333619027212,3.602776451577362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5712,7 +5712,7 @@ out the United .States.&quot;
 The tariff during the above period was  
 collected in part by the specific and par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624657:1897020501:0221/pct:25.13184584178499,84.41146808817173,15.253549695740364,3.803486529318542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624657:1897020501:0221/pct:23.247232472324722,78.08626893518723,14.109700419038088,3.5227222246901513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5733,7 +5733,7 @@ out the United Stales.&quot;
 The tariff during the above period waa  
 collected in part by the specific and par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_jones_ver02:data:sn92067106:00542861915:1897021101:0694/pct:22.7792436235708,75.64633905664101,14.42392260334213,3.137951450562463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_jones_ver02:data:sn92067106:00542861915:1897021101:0694/pct:22.78657285253591,75.66114071442668,14.438581061272354,3.1280836787053485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5755,7 +5755,7 @@ out the Tnited States.&quot;
 The tariff during the above period was  
 collected in part by the specific and par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897021201:0262/pct:28.33910034602076,114.54016721192293,20.726643598615915,5.4162122864412945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897021201:0262/pct:18.902544573307946,76.3601114746153,13.830707979920374,3.6108081909608627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5778,7 +5778,7 @@ out the United States.&quot;
 The tariff during the above period was  
 collected in part by the specific and par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1897021301:0766/pct:21.842062591211285,78.34908923218815,14.139776228311984,3.631542540926908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1897021301:0766/pct:21.85287281768553,78.35293213434785,14.128966001837739,3.631542540926908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5800,7 +5800,7 @@ out the United States.&quot;
 The tariff during the above period was  
 collected in part by the specific and par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871660:1897022001:0339/pct:30.05191693290735,102.12869678258043,18.150958466453673,4.598635034124147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871660:1897022001:0339/pct:22.548432194927102,76.60058498537536,13.620930697024166,3.444913877153071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5838,7 +5838,7 @@ powers of defense, and when the nat.ia
 can review its conduct without regret  
 and without reproach.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102147:1898061901:0390/pct:125.87244283995186,48.09727538842603,17.915162454873645,14.884035127223598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102147:1898061901:0390/pct:83.9326011734617,32.064850258950685,11.945238453437641,9.930195901823913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5865,7 +5865,7 @@ productive of happiness and barmon n
 every section of our beloved country  
 It is not within the scope of thisjr--cl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102147:1898061901:0390/pct:125.85740072202167,63.09389777077235,18.020457280385077,8.500337761765369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn85054468:211102147:1898061901:0390/pct:83.917556792538,42.06259851384823,12.020460358056265,5.674397658185093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

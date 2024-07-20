@@ -823,7 +823,7 @@ I should love you, as much as ysu are wil­
 ling to he loved by me. lei us join in wish­  
 ing the old lady a long life and a happ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1846071401:0578/pct:68.65628184597468,46.21993127147766,13.014994904644054,21.198453608247423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1846071401:0578/pct:68.66598728587373,46.21993127147766,13.019847624593584,21.20561282932417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -78,7 +78,7 @@ one from me, to be purchased and delivered
 by my executor, to my grond sons at the age  
 of 21, and grand daughters at that of sixteen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826081801:0009/pct:20.346715328467152,68.96126760563381,18.104796663190825,17.033450704225352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826081801:0009/pct:20.344063599635085,68.95519760584456,18.10678135453321,17.03488542675234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ ot my hie, and tor which I now give them uty last
 solemn, at.d dutiful thauks. ”  
 BANK NOTES
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826082201:0126/pct:5.566311713455954,3.8443056222969725,30.8486608583414,92.97212878423835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826082201:0126/pct:5.565413776415551,3.843843843843844,30.849061676614507,92.96496496496496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ dolph This coarse, the will explain*. Is taken to
 se?ure the property against the claims of Mr.  
 K ind ipb-s &#x27;? realtors. A codicil at tached on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654681:1888020101:0598/pct:2.1487848251333728,9.183796129342468,12.211025489033787,3.9908642865729056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654681:1888020101:0598/pct:2.1487848251333728,9.183796129342468,12.214730290456432,3.993869455463397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +864,7 @@ I have received so many other manifestations in
 toe course of my lite, and for which 1 now give  
 theui lay last solemn and dutiful thanks.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654681:1888020101:0598/pct:1.941315945465323,13.739632167327803,12.344398340248963,16.50438754658012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654681:1888020101:0598/pct:1.9487255483106105,13.742637336218296,12.35180794309425,16.513403053251594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -963,7 +963,7 @@ The survivors of the 34th Congress held
 a reception in the parlors of the Republi  
 can League last night, which was largel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777092:1888021001:0053/pct:203.98230088495575,15.500945179584122,119.46902654867256,372.4007561436673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777092:1888021001:0053/pct:51.01814962372731,3.8752362948960304,29.8804780876494,93.10018903591683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ consideration of the insolvent state of the
 affairs of his son-in-law, Thomas Mann  
 Randolph, lie leaves the residue of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036544:1888021801:0663/pct:27.80782691695832,47.79202279202279,10.706331530384983,2.124881291547958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036544:1888021801:0663/pct:27.80782691695832,47.797958214624884,10.714285714285714,2.1278490028490027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1052,7 +1052,7 @@ in the course of my life, and for which I
 now give them my last solemn and dutiful  
 thanks.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036544:1888021801:0663/pct:27.776010181355392,53.72744539411206,10.897231944002545,23.62298195631529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036544:1888021801:0663/pct:27.78794145720649,53.72744539411206,10.897231944002545,23.625949667616336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ of tbe insolvent state of the affairs of
 bis son-in-law, Thomas Mann Ran  
 dolph, he leaves the residue of his prop
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477734:1888042701:0180/pct:87.11622807017544,18.037404236142407,14.50109649122807,4.123479044614691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477734:1888042701:0180/pct:65.34612748457847,13.530869761153673,10.884167237834133,3.0982424515547544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1235,7 +1235,7 @@ tions in tbe course of my life and for
 which I now give them my last solemn  
 and dutiful thanks.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477734:1888042701:0180/pct:87.17105263157895,29.48400180261379,14.775219298245615,42.05723298783236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477734:1888042701:0180/pct:65.38725154215216,22.11581793600721,11.089787525702535,31.545741324921135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1258,7 +1258,7 @@ ter, Martha Randolph, to become hers
 absolutely at the death of Thomas  
 Mann Randolph. This course, the wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888062901:0655/pct:78.69430051813471,20.25511634426689,17.989637305699482,6.840482197925428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888062901:0655/pct:62.96562396374489,16.207528127686615,14.391510998120925,5.472283482226293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1337,7 +1337,7 @@ my last solemn and dutiful thanks.&quot;
 The will bears a certificate showing  
 that August 7, 1826, it was proved i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888062901:0655/pct:78.94300518134715,32.56237734791141,18.40414507772021,48.41603588449678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625078:1888062901:0655/pct:63.15353155742235,26.05315291742982,14.734166021885708,38.73584270922887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

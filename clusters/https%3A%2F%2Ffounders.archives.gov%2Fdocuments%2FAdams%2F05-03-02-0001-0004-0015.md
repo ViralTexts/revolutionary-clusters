@@ -322,7 +322,7 @@ will subside, when we (hall view things
 through a different and a much juster me­  
 dium.&quot; In such moments posterity, un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772031901:0206/pct:36.623716968770474,87.2384647360399,26.665210744704083,5.1406401551891365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772031901:0206/pct:28.3836389280677,67.60926370046892,20.688293370944994,3.991122883631027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ memae.r that vengeance belongeth only
 tothe Most High. Upon ttlis princi­  
 ple,&quot; continues the judge &quot; deliberat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806061101:0003/pct:22.04655248133509,46.786206896551725,18.620992534036013,7.006896551724138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806061101:0003/pct:22.061191626409016,46.786206896551725,18.606353388962084,7.020689655172414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ they of wli.it ii iture soever, he ought to hear his lot
 With patience anil remember that vengeance belong­  
 ed! onlv to the .1 /•. vt High. Upon this principle cmi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806061601:1168/pct:5.618253189401374,70.82270408163265,21.148184494602553,4.145408163265306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806061601:1168/pct:5.616875153298994,70.8114139964929,21.149129261712044,4.148732663797226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ Ver. 31. &quot;Moreover, ye shall take no
 satisfaction for the life of a murderer, which  
 is guilty of death, but he shall surely b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1850042301:0068/pct:247.19014626635874,344.971242033266,44.49576597382602,5.78268304057205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1850042301:0068/pct:61.797536566589685,86.2428105083165,11.123941493456504,1.4456707601430125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -967,7 +967,7 @@ nature soever, he ought to bear them with pa­
 tience, and remember that &quot;vengeance belomreth  
 onlv to the Most High.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859041901:0373/pct:49.85091580292489,61.581123323585764,11.08902456339628,2.6116769184229103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859041901:0373/pct:49.860381466231246,61.581123323585764,11.093757395049458,2.618399381533394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1071,7 +1071,7 @@ faction for the life of a murderer which is
 guilty of death, but he shall be surely put to  
 death.&quot; But this crime committed upon th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472098:1865042901:0011/pct:18.070953436807095,210.122937202348,44.068736141906875,20.999003211872854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472098:1865042901:0011/pct:4.517738359201774,52.530734300587,11.017184035476719,5.249750802968213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1114,7 +1114,7 @@ over ve shall take no satisfaction for the
 life of a murderer, which is guilty of  
 death; but he shall surely be put t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296254:1865092201:0150/pct:62.30088495575221,202.39288270784334,51.26843657817109,24.051539012168934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296254:1865092201:0150/pct:15.579817055178518,50.598220676960835,12.82089111832399,6.012884753042234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1159,7 +1159,7 @@ It blesses him that gives, and him that takes,&quot;
   
 R. J.A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774741:1867100401:0505/pct:25.400139178844814,319.03663848321804,45.02435629784273,6.968998206507814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774741:1867100401:0505/pct:6.351139725073952,79.75915962080451,11.258047677048895,1.7422495516269536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1219,7 +1219,7 @@ Mr. Quincy or is Mr. Kidder the falsifier ?
 &quot;Moreover, ye shanl take no satisfaction for the  
 life of a murderer, which is guilty of death; but h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743816:1873031201:0876/pct:105.23974295600593,89.67734527500286,45.509968693359696,3.0772763807555403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743816:1873031201:0876/pct:35.07991431866864,29.892448425000957,15.169989564453232,1.0257587935851802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1236,7 +1236,7 @@ man.&quot; &quot;Ye shall take no satis
 faction for the life of a murderer,  
 which is guilty of death, or faulty t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774984:1873032101:0107/pct:343.5738444193912,146.77538917716828,35.174746335963924,4.7866144233823995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026034:00280774984:1873032101:0107/pct:85.91767691006484,36.69384729429207,8.796165773893431,1.1966536058455999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1272,7 +1272,7 @@ shall take no satisfaction for the life
 of a murderer, which is guilty of  
 death, but he shall surely be put t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159373:1873042201:0674/pct:37.34011827809105,76.03522381801028,10.961353321413835,11.65740643673341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159373:1873042201:0674/pct:37.34011827809105,76.0422126707901,10.979691009948196,11.653912010343502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1333,7 +1333,7 @@ for the life of a murderer which is guilty
   
 of death ; but he shall be surely put t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1874092501:0158/pct:52.563424947145876,11.584158415841584,14.085623678646934,1.859185918591859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470120:1874092501:0158/pct:39.4395982024848,8.690869086908691,10.5604017975152,1.3971397139713972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1394,7 +1394,7 @@ shall take no satisfaction for the life
 of a_murderer, which is guilty of  
 death ; but he shall b surely put t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1879080701:0205/pct:103.53627415238789,72.56753212693417,15.092963908129786,5.087857330186205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1879080701:0205/pct:80.24580900357883,56.239837398373986,11.701827086080241,3.953252032520325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1484,7 +1484,7 @@ be put to death.” The killing of
 one by an ox, known to its owner  
 to have “pushed with his horns,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053287:00517177155:1883012501:0013/pct:53.07720320466132,69.58925750394944,15.695557174071377,13.493944181147972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053287:00517177155:1883012501:0013/pct:41.13551907427443,53.938239695279556,12.178371513241451,10.4577608488641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1560,7 +1560,7 @@ Sovereign requiring “His Majesty to
 cause Law and Justice in Mercy to be  
 executed in all his judgments” the la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210971:1892062501:0546/pct:30.47750049125565,8.435745713852222,12.694045981528788,2.397208314368078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210971:1892062501:0546/pct:30.471512770137526,8.434466019417476,12.696463654223969,2.40063713592233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1578,7 +1578,7 @@ protection of the law is to be the avenger
 of his own wrongs.  
 is. The fury is instructed that no word
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031133:1894081701:0653/pct:42.21225710014948,21.78477690288714,36.00896860986547,4.094488188976378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031133:1894081701:0653/pct:14.070752366716492,7.26159230096238,12.002989536621824,1.3648293963254594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1596,7 +1596,7 @@ the protection of the law is to be the avenger
 of his own wrongs.  
 13. The jury is instructed that no words o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334961A:1894082401:0140/pct:27.3257698541329,73.45344588635504,11.004862236628849,1.7638906387803956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:0039334961A:1894082401:0140/pct:27.321341759844433,73.44419249181153,11.007130124777184,1.7668178382464097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1688,7 +1688,7 @@ judgments. The tranquility which Englan
 tion for the life of a murderer, which  
 is guilty of death; but he shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898031701:0124/pct:17.62645062404204,33.31383445451887,14.079264287278301,1.857268207078093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898031701:0124/pct:17.622591943957968,33.30896329872788,14.081654991243433,1.8606521421260418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1720,7 +1720,7 @@ what i?od snys: &lt;;Mnri&gt;nvfir. ye shrill
 take no satisfaction for the life of a  
 murderer, which is guilty of death
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1898032302:0186/pct:44.721042612388345,41.079736016444876,14.277346610045395,12.550037866493563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1898032302:0186/pct:44.721042612388345,41.08694868188539,14.287108898325767,12.553644199213819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1739,7 +1739,7 @@ ee take no satisfaction for the life of a murderer,
  which is guilty of death, but he shall be surely  
 ese put to death.&quot; These passages aroused Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899030801:0909/pct:0.23529411764705882,254.0532319391635,60.15686274509804,7.300380228136882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899030801:0909/pct:0.0588350656991567,63.51330798479088,15.042165130417729,1.8250950570342206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

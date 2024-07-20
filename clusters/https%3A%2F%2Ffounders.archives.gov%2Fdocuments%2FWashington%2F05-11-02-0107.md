@@ -139,7 +139,7 @@ upon the necessity of directing her &quot;in
 the use and application&quot; of things to wear  
 -for he adds, &quot;they will be dabbed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bighornsheep_ver01:data:sn84036227:00294550008:1884020701:0059/pct:49.91680532445923,182.83997655334116,48.980865224625624,15.167057444314185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bighornsheep_ver01:data:sn84036227:00294550008:1884020701:0059/pct:16.638935108153078,60.94665885111372,16.326955074875208,5.055685814771395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ upon the necessity of directing her “in
 the use and application” of things to wear  
 —for he adds, “they will be dabbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581192:1884020701:0038/pct:14.011896893588895,60.24917474177404,16.45736946463979,5.153870727292088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581192:1884020701:0038/pct:14.011896893588895,60.25716111170269,16.4738929279577,5.15653285060164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ of things to wear--&quot;for without this,&quot; he
 adds, &quot;they will be dabbed about in every  
 hole, and corner, and her best things a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282310:1884030301:0648/pct:26.173541963015648,137.74483853890948,49.644381223328594,16.516675489677077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282310:1884030301:0648/pct:6.545713269299182,34.43620963472737,12.415510494485948,4.129168872419269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ upon the necessity of directing her &quot;in the
 use and application&quot; of things to wear, &quot;for  
 without this,&quot; he adds, &quot;they will be dab
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175035345:1884030901:0089/pct:43.10042973102021,92.77901667197621,13.003342352379436,3.0689179144101093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175035345:1884030901:0089/pct:43.11104037349462,92.77901667197621,13.008647673616638,3.0759973098297406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ female white woman and thereby ren­
 dered an unfit place for ber to remain  
 at.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn93060416:00294556424:1895022301:0252/pct:102.21736414740786,79.31077537770008,13.163647720174891,2.272443501061306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn93060416:00294556424:1895022301:0252/pct:76.68280493518664,59.48308153327507,9.870373262533187,1.710575602447247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

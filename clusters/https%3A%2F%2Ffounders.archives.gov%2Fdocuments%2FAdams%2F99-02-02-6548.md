@@ -1367,7 +1367,7 @@ should have been for the Epis­
 copate. The faith of the uni  
 versal church they had in the histori
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764194:1883061301:0651/pct:32.04688393367638,48.72345502266762,13.150371640937678,8.303507516105942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764194:1883061301:0651/pct:24.045746962115796,36.54259126700072,9.864188706218728,6.227630637079456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

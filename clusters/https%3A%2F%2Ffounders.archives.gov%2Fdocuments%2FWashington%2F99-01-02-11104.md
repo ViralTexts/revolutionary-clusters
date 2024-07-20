@@ -206,7 +206,7 @@ pressed ot all nations and religious. The
 glorious task for which we first flew to arms  
 beiug accomplished—the liberties ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020801:0672/pct:7.8661527680448495,41.51231205055568,17.60686755430974,46.37175855306167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020801:0672/pct:7.864774916798038,41.50778951955551,17.60962223389969,46.37033809056905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ human nature, and esteblishing an asylum for
 the poor and cppressed of nlrmuou and re­  
 ligions.” And again, in his farewell addres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:44.259307472012495,90.63019966722129,12.70502473314241,5.511647254575707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:44.259307472012495,90.63019966722129,12.709363880933784,5.518580144204105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ tuielary stars, and like them never to be effacod-
 written as a commandment on this superb gate vay of  
 the Eepublic. Thie honest fellow, whose hand ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530480:1855122101:0763/pct:199.8351195383347,236.82448036951502,47.00741962077494,18.556581986143186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530480:1855122101:0763/pct:66.61170651277824,78.941493456505,15.669139873591647,6.185527328714396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ lowing: “An extra ration of liquor, to be issued
 peace, independence, and happiness to the  
 United States of America.” Washington was 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110223:1874122701:0004/pct:56.95216907675194,83.00400361616944,12.64367816091954,1.7693400490765854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110223:1874122701:0004/pct:56.95216907675194,83.01046106160403,12.657582499073044,1.7693400490765854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ Deseite these ho eful anguries, despite the
 unnumbered bountiss of a benedcen Provi­  
 dence, millions of our people are destitute o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533481:1876091701:0652/pct:3.34075723830735,57.159676232523914,62.06384558277654,22.075055187637968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533481:1876091701:0652/pct:0.8351893095768375,14.289919058130979,15.515961395694134,5.518763796909492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +655,7 @@ rights of human nature, and establishing an
 asylum for the poor and oppressed of all na­  
 tions and religion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1880022201:1115/pct:0.0,17.62954139368672,121.08479755538579,368.0613460393091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1880022201:1115/pct:0.0,4.40738534842168,30.282766526557126,92.01533650982728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ for his overruling the wrath of man to his
 glory and causing the rage of war to cease  
 among the nations.” In Maine we cele
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525541:1883040201:0048/pct:5.493797325600129,54.05826639491668,10.874818753020783,7.481117372017744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525541:1883040201:0048/pct:5.492912371134021,54.05178614241189,10.87709407216495,7.483217453847998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ causing the rage of war to cease among the
   
 nations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1883040601:0632/pct:210.0418410041841,225.8238063214526,44.18410041841004,11.499663752521856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1883040601:0632/pct:52.54343730374712,56.45595158036315,11.052962110110949,2.874915938130464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,7 +797,7 @@ issued to every man to-morrow, to drink
 perpetual peace, independence, and happi­  
 ness to the United States of Americ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883041901:0505/pct:19.613899613899616,334.44816053511704,50.88803088803089,10.200668896321071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883041901:0505/pct:4.905368868288915,83.61204013377926,12.726921591348011,2.5501672240802677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ and his order accordingly notes that on a
 day which completes the eighth year of the­  
 ar, it would be ingratitude not to rejolc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883041901:0505/pct:73.05019305019304,68.16661599270294,50.810810810810814,7.1146245059288535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883041901:0505/pct:18.269602162997295,17.041653998175736,12.707609115488605,1.7786561264822134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ ularly for his overruling tin wrath of
 man to his glory and causing the rage of  
 war to cease among the nations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_banana_ver02:data:sn00065129:00279522850:1883042101:0057/pct:33.982322025800286,16.711849584608657,11.860965121834687,4.3725404459991255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_banana_ver02:data:sn00065129:00279522850:1883042101:0057/pct:33.9902850772416,16.717679638536655,11.853002070393375,4.378370499927124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ sued to every man to-morrow, to drink per­
 ! petual Peace, Independence and happiness  
 | to the United States of America.” Prayer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883042601:0069/pct:15.115601321157957,18.510858324715617,11.346415387604429,2.762594179347023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883042601:0069/pct:15.112665112665113,18.50812407680945,11.349067599067599,2.7658788774002954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ ularly for his overruling the wrath of
 man to his glory and causing the rage of  
 war to cease among the nations.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068075:00415623355:1883042701:0023/pct:80.43564356435644,17.807643847123057,13.465346534653465,4.759904801903962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068075:00415623355:1883042701:0023/pct:80.43564356435644,17.811143777124457,13.485148514851485,4.770404591908162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,7 +931,7 @@ There is a flavor of antiquity in the.
 eneral Orders of a hundred years ag4  
 L&#x27;he style is not that of the present da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288415:1883052201:0245/pct:28.63537710255019,33.7257762033757,12.371134020618557,8.064180037507814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288415:1883052201:0245/pct:28.63989871586182,33.72924914912829,12.371134020618557,8.067652983260402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,7 +956,7 @@ he same approbation of angels and me
 vhich has crowned all their former vii  
 uous actions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288415:1883052201:0245/pct:28.608247422680414,48.906022087934986,12.344004340748779,5.511564909356116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288415:1883052201:0245/pct:28.608247422680414,48.91296797944016,12.344004340748779,5.504619017850941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1017,7 +1017,7 @@ ence and happiness to the United
   
 States of America.&quot; It is claime
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn83045160:00280779957:1883101901:0378/pct:54.44858817261588,350.37835358862645,33.99041022908897,6.87915615684476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn83045160:00280779957:1883101901:0378/pct:13.615774047428724,87.59458839715661,8.499866773248069,1.71978903921119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1082,7 +1082,7 @@ nature and establishing an asy lum for tha
 poor and oppressed of all nations and rolt  
 tons. But sttll the foundation of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82014424:00211102834:1885022101:0184/pct:325.9535655058043,359.1642924976258,47.346600331674956,11.649256093700538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82014424:00211102834:1885022101:0184/pct:81.52218996267109,89.79107312440645,11.841559518871838,2.9123140234251346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1119,7 +1119,7 @@ ing an asylum for the poor and ope
 pressed of all nations and religions.&quot;  
 But still the foundations of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0197/pct:7.8110383536014965,11.592343064912843,35.48487683193015,33.95358785156668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0197/pct:2.603679451200499,3.864114354970948,11.828292277310052,11.317862617188892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1209,7 +1209,7 @@ sity, and though worn, soiled and stalned by the lapse
 of ages, may they stand firm and unshaken; and may  
 the banner ung out from thy tower, be an emble
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524093:1887071201:0327/pct:86.64861205145566,76.96497323692365,34.01489505754908,13.024697154662409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524093:1887071201:0327/pct:28.878960194963444,25.652582159624412,11.336763245780306,4.341158059467919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1245,7 +1245,7 @@ the poor aud oppressed of all nations and re
   
 ligions &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296026840:1890100801:0321/pct:69.28754813863928,69.7732681949142,14.152759948652118,3.632719528999123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296026840:1890100801:0321/pct:51.98202535708554,52.3362144557184,10.624297865511155,2.7308029562820995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1303,7 +1303,7 @@ nature, and establishing an asy-­
 lum for the poor and oppressed of  
 all nations and religions.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn93067634:00237288142:1895031401:0236/pct:14.055838261587127,9.090909090909092,78.58616421400083,278.6551909628833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn93067634:00237288142:1895031401:0236/pct:4.685279420529042,3.0303030303030303,26.195388071333607,92.88506365429443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1371,7 +1371,7 @@ establishing an asylum for the oppressed
 of all nations and religions.”  
 N. G
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210673:1897090901:0568/pct:14.999123882950762,57.47482571649884,11.21429823024356,6.676994577846631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210673:1897090901:0568/pct:14.996496145760336,57.465923172242874,11.216713384723196,6.679832713754647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

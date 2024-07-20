@@ -229,7 +229,7 @@ N. n. It is requested tnat the letters of
 information may be forwarded without de­  
 lay, post paid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808022601:0072/pct:24.331500094822683,4.94827371307491,53.06277261520956,89.45531596659603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808022601:0072/pct:24.326886613576033,4.947657028913261,53.05903172797371,89.44832170156198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ This information is indispensably wéed ceffary,
 ‘3nd deeripive ofthe. eveats about 1o ba.  
 _commemorated. It “kaﬂ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808030101:0033/pct:75.9228059427171,16.16435603777376,16.61816510951141,76.31103074141049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808030101:0033/pct:75.92791136978609,16.16770477529971,16.623270536580385,76.32107695398835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ From the Trenton True American.
 COMMON QUESTIONS  
 ; AND PROPER ANSWERS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808030101:0034/pct:8.481802954164763,3.4844249201277955,16.384955078422415,20.88658146964856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808030101:0034/pct:8.486878838637633,3.491080937167199,16.379879193949545,20.879925452609157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ N. B. It is requested that the letters of in­
 formation may be iVJrwarded without delay,  
 ’post paid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030101:0397/pct:4.6292947558770345,1.6691212567501228,35.51537070524412,92.62395679921453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030101:0397/pct:4.62845778340264,1.6689164314639833,35.514976194780935,92.61668098335174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ seamen, soldier* ana _.t.. • •
 e,l in the cause of liberty ami their coun­  
 try, on board the Jersey and other priso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808052001:0170/pct:78.4751636503658,63.89695668645031,17.963034270311898,4.230332112640485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808052001:0170/pct:78.46005774783445,63.888888888888886,17.965992941931344,4.234006734006734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -735,7 +735,7 @@ soldiers and citizens who perished on board the prison
 of the British, at the Wallabout, during the Revo-­  
 This is the corner stone of the vault, erected by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022401:0438/pct:205.14266755142668,161.84421534937,46.00199071001991,6.300114547537228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022401:0438/pct:68.38088918380889,53.94807178312333,15.333996903339969,2.1000381825124093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -772,7 +772,7 @@ the prison ships of the Britisn at the Wallabout during
 the Revolution.&quot;  
 A few years after the interment of the bones, the lot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743919:1875103001:0411/pct:198.38177014531044,151.1290322580645,46.08652575957728,6.566820276497696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743919:1875103001:0411/pct:66.12725671510348,50.376344086021504,15.362175253192426,2.1889400921658986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ A few years after the interment of the bones, the lot
 relics, erected by the Tammany Society or Columbian  
 Order of the city of New York, the ground for whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653347A:1876042901:1034/pct:114.07516580692705,303.16529894490037,48.12085482682387,2.637749120750293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653347A:1876042901:1034/pct:28.524046434494196,75.79132473622509,12.03243044039064,0.6594372801875733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ soldiers and citizens who perished on board of the prison
 thips of the liritiah at the If allabont during the ltevolue  
 is the corner stone of the vault erected by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744055:1879011201:0157/pct:55.95662026545808,79.41243712848652,49.04499838135319,4.469593049839964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744055:1879011201:0157/pct:18.652206755152694,26.470812376162172,16.348332793784397,1.4898643499466544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

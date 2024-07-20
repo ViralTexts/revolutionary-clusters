@@ -86,7 +86,7 @@ RUTHERFORU&#x27;S Institutes of Natural Law,
 being the substanre of a course of lectures on  
 Grotius &quot; de jure Belli et Pacia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845022701:0206/pct:62.70182992465016,92.6200653759115,15.715823466092573,1.6846869499622832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845022701:0206/pct:62.70781007056572,92.62844690302573,15.709843320177013,1.6888777135194033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -103,7 +103,7 @@ KUTHF.RFORD&#x27;S Institutes ol Natural Law,
 being the substanre of a course of lectures on  
 Grotius &quot; de jure Belli et Paris.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845041001:0350/pct:63.17365269461078,93.42918400807163,15.146178231771751,1.6773868079202925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845041001:0350/pct:63.17365269461078,93.42918400807163,15.157919455207233,1.6857947618447051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

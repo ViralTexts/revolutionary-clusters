@@ -92,7 +92,7 @@ not be prevented by the assaults made
 on it.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812121201:0263/pct:37.23196881091618,3.814956769765576,34.8478032688559,86.00588287726178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812121201:0263/pct:37.2263868065967,3.8146167557932262,34.84757621189405,86.00118835412952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ reer mav be accelerated, but cannot be pre­
 vented by the assaults made on it.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812121401:0322/pct:22.489744961655074,50.63245823389021,16.800428036383092,27.255369928400956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812121401:0322/pct:22.48573466476462,50.62641689535855,16.80337612933904,27.25609513582309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ leer may be accelerated, b it cannot he prc
 vented, by the assaults m i;le on it.  
 J A M h:J MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812121501:0268/pct:5.724838411819022,65.9124266144814,17.96860572483841,25.40362035225049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812121501:0268/pct:5.723781388478582,65.9043659043659,17.971442639094043,25.404590110472462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ peace to hostility againtta country whose pros­
 porous career may be accelerated, nut eannet&amp;o  
 presented by the assaults made on- if.; . - # 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812121801:0262/pct:26.997518610421835,78.09585075587006,21.33995037220844,16.83821164361531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812121801:0262/pct:26.990821136194494,78.08329313394437,21.340858347804517,16.839524039234604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ acczlerated, but cannot be prevented by the
 assqults made on it.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812122401:0745/pct:49.02088772845953,42.80497433872878,21.719973890339425,19.255823134622975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812122401:0745/pct:49.03176675369887,42.80497433872878,21.719973890339425,19.255823134622975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ to impress on the enemy, however brave
 Ccanuot be preveated by the affaules made  
 omit. . JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812122901:0425/pct:60.269677014738164,16.95871695871696,16.886171213546568,15.86971586971587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812122901:0425/pct:60.269677014738164,16.96201696201696,16.891397512281802,15.873015873015873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

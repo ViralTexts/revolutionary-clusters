@@ -752,7 +752,7 @@ O thou by whose almighty nod the scale
 Of empires rises or alternate faUx,  
 bend forth thesa vlng virtues round this land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_inspector_ver01:data:sn90052410:00414182471:1898020601:0050/pct:65.83981500945974,11.907770056854075,35.085137691822574,111.08654453569173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_inspector_ver01:data:sn90052410:00414182471:1898020601:0050/pct:51.03182361246878,9.232589449634858,27.1966981644401,86.09603851332055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -788,7 +788,7 @@ O thou by whose almighty nod the scale
 Of empires rises or alternate falls,  
 Bend forth the Baving virtues round this land 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035801:00332896957:1898021501:0031/pct:25.33112582781457,39.13700860665271,9.40698374473209,9.374273086764363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035801:00332896957:1898021501:0031/pct:25.327313769751694,39.13245726247238,9.409330323551542,9.376090243051518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ O thou by whose almighty nod the scale
 Of empires rises or alternate falls,  
 Send forth the saving virtues round this land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053283:00517177015:1898022301:0845/pct:26.95439739413681,7.625494954655767,44.78827361563518,115.3148550261847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_abby_ver02:data:sn89053283:00517177015:1898022301:0845/pct:20.895129904281056,5.909720847356959,34.71652466603555,89.3717415693262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ Send forth the saving virtues round this land
 Of empires rises or alternate falls,  
 Send forth the saving virtues round this land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470715:1898072201:0879/pct:215.2604548789435,55.707317073170735,57.07997065297139,5.121951219512195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470715:1898072201:0879/pct:53.824986241056685,13.926829268292684,14.27261053017795,1.2804878048780488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

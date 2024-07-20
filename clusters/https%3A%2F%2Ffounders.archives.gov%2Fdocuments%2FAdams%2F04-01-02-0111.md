@@ -184,7 +184,7 @@ me.&quot;
 Mr. Adams&#x27;s account of the introduction of re-  
 rvices into the sescions of Congress is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875123101:0720/pct:5.435134260757037,7.101531480431083,97.6221287609188,285.42257515598413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875123101:0720/pct:1.8117114202523454,2.3671771601436946,32.54070958697293,95.14085838532804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ oratory.&quot; The proceedings were secret. The
 union they made was called the &quot;American  
 Association.&quot; Six months afterward cam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475488:1879041301:0107/pct:167.2093023255814,42.757009345794394,45.23255813953488,9.151090342679128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475488:1879041301:0107/pct:55.736434108527135,14.25233644859813,15.077519379844961,3.0503634475597092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

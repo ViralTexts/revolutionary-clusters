@@ -4138,7 +4138,7 @@ of Delaware, reported in favor of an in­
 demnification to the said school ; but gave  
 it, as the opinion of the committee, that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792040201:0002/pct:28.900333232353834,30.89636398988917,20.56952438654953,3.5387905891503015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792040201:0002/pct:28.907906694940927,30.910946918141164,20.577097849136624,3.5387905891503015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4162,7 +4162,7 @@ public grammar school of Wilmington in
 the state of Delaware,—were signed by  
 Mr. Speak?p, andt j&gt;re£ented to the Prefi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041601:0002/pct:6.8858560794044665,20.48402710551791,21.029776674937967,7.008712487899323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041601:0002/pct:6.8858560794044665,20.488867376573086,21.029776674937967,7.018393030009681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

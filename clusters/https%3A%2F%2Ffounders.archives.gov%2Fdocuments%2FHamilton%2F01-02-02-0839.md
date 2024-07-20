@@ -344,7 +344,7 @@ being constituted of &quot;matter too soft a last­
 ing mark to bear, and best distinguished by  
 black, brown, or fair.&quot; Yet, after all, it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776270:1870022401:0372/pct:7.254069355980184,39.34743536568505,19.072894550601557,4.935711323102447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776270:1870022401:0372/pct:5.452292441140025,29.517489285220517,14.321118782085325,3.7052398728051985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ love is without passion, his enthusi­
 asm being absorbed in his millinery;  
 that the story is rambling, incoherent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022184:1870080301:0273/pct:68.05937328202309,94.86597001363018,43.04562946673997,22.080872330758748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022184:1870080301:0273/pct:17.021861680186994,23.716492503407544,10.765846280764471,5.520218082689687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ praise no merit at all; that his love is
 without passion, bis enthusiasm being  
 absorbed in his millinery ; that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768722:1870080301:0670/pct:39.695057833859096,61.122345803842265,10.778128286014722,5.7229524772497475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768722:1870080301:0670/pct:39.69943918682089,61.12908661948096,10.782509638976515,5.716211661611055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ exception.‘matter too soft a lasting mark to
 bear, and best distingui-hed by black, brown,  
 or fair:&#x27; that his style is at once stif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870081401:0006/pct:58.859665962756765,44.4257788637752,8.888462276828566,2.8558338423946243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870081401:0006/pct:58.8644653484354,44.4257788637752,8.888462276828566,2.8672877214416617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ without exception, &quot;matter too soft
 a lasting mark to bear, and best dis­  
 tinguished by black, brown, or fai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058333:00279528943:1870090801:0143/pct:59.85580389329488,40.297132327536566,10.583994232155732,3.121041114822066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058333:00279528943:1870090801:0143/pct:59.86541696707522,40.304810165457404,10.588800769045902,3.121041114822066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

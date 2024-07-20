@@ -1015,7 +1015,7 @@ turn his crank. Harper&#x27;s I Magazlno
 for Fobruary.  
 The Ideal Panacea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283806:1896020501:0138/pct:30.849701110162254,99.87834549878346,18.210930828351835,10.523114355231144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283806:1896020501:0138/pct:23.15744499038667,74.9087591240876,13.672292245246743,7.892335766423358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1051,7 +1051,7 @@ the Motorman, the vicegerent of light
 ning, turn his crank. &quot;Editor&#x27;s Study,&quot;  
 HARPER&#x27;S MAGAzINE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524147:1896021101:0242/pct:140.72502424830262,185.43858044452574,30.601357904946653,14.607152657093204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524147:1896021101:0242/pct:46.902654867256636,61.80720687762941,10.19921606659393,4.8686055728309245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1078,7 +1078,7 @@ MODERN&#x27; YVARFAKE.
 CHAPTER I.  
 Once upon a time there was a big, fa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn84024441:211102470:1896022501:0064/pct:8.834134615384615,77.92621830879004,15.92548076923077,9.579474722939123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_earl_ver02:data:sn84024441:211102470:1896022501:0064/pct:6.6332665330661325,58.44845908607864,11.963927855711423,7.195992105662669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1149,7 +1149,7 @@ Their Husbands.
 &quot;Do you ever notice bow cleanly  
 shaven that man is?&quot; asked a youn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069395:00206533249:1896042101:0269/pct:66.87354538401861,50.34548164205392,18.696664080682698,26.839181682698822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069395:00206533249:1896042101:0269/pct:50.174621653084984,37.759111231540444,14.027939464493597,20.13277333694621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

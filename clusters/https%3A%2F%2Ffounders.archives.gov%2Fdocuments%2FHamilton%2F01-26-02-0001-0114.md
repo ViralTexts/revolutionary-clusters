@@ -267,7 +267,7 @@ Y*&gt;ur friend and servant,
 A HAMILTON.  
 Timothy Pickering, Es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812102601:0116/pct:27.420048759500933,6.031522409086906,33.83048902911229,86.3696398696839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812102601:0116/pct:27.41611700602237,6.030991371720373,33.830417742089665,86.36497035863121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -885,7 +885,7 @@ dences of a definitive opinion in the
 proposer. Moreover it is understood  
 that General Hamilton&#x27;s views in res
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016939:00295878216:1838092901:0599/pct:50.80715532286213,110.95224478124106,20.876963350785342,10.53760366028024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016939:00295878216:1838092901:0599/pct:38.135778214363675,83.2141835859308,15.673433748089936,7.906777237632256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ cated to Mr. Madison about the close of it, or a day
 of two alter, the office of Fresident was of no long-  
 er duration than three years.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840082801:0777/pct:91.66666666666667,133.4976647638817,37.1124031007752,27.71146860404774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840082801:0777/pct:30.565428109854604,44.49922158796056,12.374798061389338,9.237156201349247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1056,7 +1056,7 @@ Your friend arid servant,
 A. HAMILTON.  
 Timothy Pickering, Esq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844022201:0044/pct:4.243378950477503,8.106670213473432,33.01171605789111,91.10859878965219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844022201:0044/pct:4.242961212837173,8.10613113445937,33.01174771936733,91.10475683823203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ Very truly, dear sir, your friend and servant,
 A. HAMILTON.  
 Timothy Pickee?&lt;j, Esq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854051301:0171/pct:64.87300904003443,1.7917133258678613,16.028124551585595,48.421052631578945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854051301:0171/pct:64.87779212703879,1.7954460619634192,16.0376907255943,48.4247853676745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1266,7 +1266,7 @@ Verv trulv, dear sir, your friend and ser­
 vant/ ’ A. HAMILTON.  
 TlMuTIIV 1*11 KF.KINO, Ksfj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854051501:0458/pct:70.38195431712634,12.693172239393087,13.098284522794048,43.65692610283788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854051501:0458/pct:70.37528430629264,12.692280677108942,13.100202173363659,43.6562009786706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1371,7 +1371,7 @@ Very truly, dear sir, your friend and
 servant.A HAmilton  
 ThMOTHF PICKERIn, Es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854061501:0364/pct:20.568927789934353,149.87647543233598,52.735229759299784,196.43151248970628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854061501:0364/pct:5.14410798978475,37.469118858083995,13.188617292958774,49.10787812242657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1570,7 +1570,7 @@ Your friend and servant,
 A HAMILTON,  
 Timothy Pickering, £sy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348690:1868062401:0335/pct:70.42753237537697,16.59109095758869,13.216249778250843,45.31875166711123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348690:1868062401:0335/pct:70.41504079460802,16.58887851713562,13.218339836821569,45.31604213895186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

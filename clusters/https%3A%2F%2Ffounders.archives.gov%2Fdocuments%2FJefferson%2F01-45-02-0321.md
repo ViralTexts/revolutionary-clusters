@@ -149,7 +149,7 @@ amendment of tbe constitution. I believe I
 am doing right therefore in pursuing my  
 principle.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191666:1880020401:0065/pct:66.09159347553324,54.028856825749166,18.946047678795484,18.368479467258602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn87056600:00202191666:1880020401:0065/pct:49.59209287731409,40.521642619311876,14.213994352055224,13.784683684794672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ corrected by experience, and it is in adherence to that
 that I determine to withdraw at the end of my socond  
 Tou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1880020801:1049/pct:24.81089258698941,113.14741035856574,50.30257186081695,12.084993359893758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1880020801:1049/pct:6.203896349536599,28.286852589641434,12.578021562322679,3.0212483399734396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ corrected by experience, and it is in
 adherence to that, that I determine to  
 withdraw at the end of my st cond term
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86091341:00271762616:1880022901:0432/pct:119.06487232574189,127.89544235924933,48.982056590752244,17.238605898123325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86091341:00271762616:1880022901:0432/pct:29.766218081435472,31.973860589812332,12.245514147688061,4.309651474530831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

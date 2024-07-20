@@ -535,7 +535,7 @@ enemies., : : * ; &quot;
 when yon snail nave examined and consider­  
 ed the whole causes of our failure. sl;onld doubt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812110401:0185/pct:53.32661290322581,84.35064935064935,21.597782258064516,3.9123376623376624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1812110401:0185/pct:53.313177122700935,84.33695828599254,21.598639455782312,3.9157604285018666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -752,7 +752,7 @@ my peace, because thou hast heard, O my soul, the
 sound of the trumpet, the alarm of war. Destruction  
 upon destruction is cried; for the whole land is spoil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848062101:0237/pct:24.989116238572052,288.0936675461741,57.90161079669134,11.2467018469657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848062101:0237/pct:6.248639233616372,72.02341688654353,14.478554321794034,2.811675461741425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ Destruction upon destruction is cried;
 for the whole land ia spoiled. The heads  
 thereof iudge for reward, and the priest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1857102201:0071/pct:23.679060665362034,11.625947767481044,14.22550052687039,4.191238416175231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1857102201:0071/pct:23.684078478599027,11.625947767481044,14.22550052687039,4.194748666105027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -947,7 +947,7 @@ tents spoiled, and my, curtains in a moment.&quot;
 the whole land is spoiled; suddenly are my  
 tents spoiled, and my curtains in a moment.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862021801:0002/pct:35.89506743026048,94.15704717115577,9.86513947903196,1.0118284167022944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862021801:0002/pct:35.89506743026048,94.15704717115577,9.883613523000184,1.0260795211628901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -964,7 +964,7 @@ tents spoiled, and my curtains in a moment.*
 the whole land is spoiled; suddenly are my  
 tents spoiled, and my curtains in a moment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1862022201:1017/pct:222.27586206896552,211.73930643637834,48.206896551724135,5.721225205775199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1862022201:1017/pct:55.56896551724138,52.934826609094586,12.051724137931034,1.4303063014437998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ of Worcester, taking as his text, Jeremiah,
 hast heard, O my soul, the sound of the trum­  
 pet, the alarm of war.” The sermon was wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171554:1868082701:0818/pct:37.02785196489889,107.70624303233,14.154902708889736,1.9509476031215163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171554:1868082701:0818/pct:28.70589394835403,83.47253221974225,10.969840331164992,1.5155878752969976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1166,7 +1166,7 @@ Com rade.-. In the name of our God we will set
 up our banners.  
 Chaplain. Lord thou wilt ordain peace for us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102974:1885060401:0274/pct:6.035393555203381,71.007938900613,16.442155309033282,4.2709275449703545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102974:1885060401:0274/pct:4.531642224864579,53.26097879610089,12.339807107940283,3.205707969048337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1183,7 +1183,7 @@ up our banners. I cannot hold my peace, for
 thou hast heard, O, my soul! the sound of the  
 trumpet, the alarm of war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1886060301:0720/pct:46.19191641462744,85.48227806430374,9.51333516634589,0.8668934489191266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1886060301:0720/pct:46.20108147740812,85.48959362083471,9.50417010356521,0.8632356706536449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1223,7 +1223,7 @@ because thou hast heard, O my soul, the
 sound of the trumpet, the alarm of war.&quot;  
 The sliver craze Is rapidly on the wane
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:00211109385:1896091201:0243/pct:20.617760617760617,79.03180410920349,16.776061776061777,4.728398536448072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:00211109385:1896091201:0243/pct:15.466306236725236,59.273853081902615,12.58930295423827,3.5603715170278636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1253,7 +1253,7 @@ the alarm of war. Destruction upon destruction is
 cried, for the whole land is spoiled; suddenly are my  
 tents spoiled, and my curtains in a moment.&quot;—Jere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037706:1898052201:0351/pct:40.7983970406905,95.09950534913149,18.341553637484587,2.7148280225468766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ahwahnee_ver01:data:sn85066387:00175037706:1898052201:0351/pct:40.80353473078504,95.1071743548449,18.34669132757912,2.718662525403581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

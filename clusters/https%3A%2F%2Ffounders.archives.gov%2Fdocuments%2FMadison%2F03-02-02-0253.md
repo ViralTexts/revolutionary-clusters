@@ -44,7 +44,7 @@ A general return of the troops of the United States,
 composing the military peace establishment,”  
 shewing the strength of each regiment and. corps
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809060901:0521/pct:53.5158211953792,12.710341447475903,20.994475138121548,6.110112726678647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809060901:0521/pct:53.502385136831535,12.70826527278667,20.99548079337183,6.113198301208755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ adjutant anti inspector &lt; t ib • . riny, to wh h
 is subjoined a list of rt:_ w.iwiis, dismi -t. \r.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021001:0361/pct:75.97986335850413,79.38491110043249,18.248831355627473,16.98702546852475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021001:0361/pct:75.9662052849182,79.37537537537537,18.25154293247049,16.98898898898899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ the latest advices state they are convales
 cent.  
 I have the honor to be, See.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021001:0362/pct:3.2895919467912997,2.834894756053048,18.443285996764335,15.99951332278866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021001:0362/pct:3.289000718907261,2.834549878345499,18.44596213755092,16.00162206001622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ relation, the latest hdvice3 state that
 .they are convalescenr.  
 I have the honor to be, Sc:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810021301:0057/pct:2.3962264150943398,28.529374120056318,20.50943396226415,42.4548828874952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810021301:0057/pct:2.395774382192039,28.525723061172254,20.5118531094762,42.45371555328044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ mioval to a more so«he; n ciiai ’te. . wh,«W of
 die detachment has been affected )u d^e-safe, and  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810021401:0927/pct:72.56371814092954,67.12217341792744,24.18790604697651,30.079713681470636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810021401:0927/pct:72.54559080689482,67.11125569290826,24.188108918311265,30.07888744307092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ Resignations, dismissals and deaths of officers, of
 the Army of the United States, since ffanuurv 1  
 1809
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810022301:0377/pct:4.444034667158399,56.50436046511628,18.07117831458602,13.069282945736434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810022301:0377/pct:4.4432153392330385,56.49751725808405,18.073992133726648,13.07173711194542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -101,7 +101,7 @@ taken into the Union by the Constitution
 as It now stands, will become a question of  
 expediency.&quot; Jefferson also advocated th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654917:1893121101:0702/pct:14.955316432609886,16.202203499675957,13.988692321721686,3.2793259883344135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654917:1893121101:0702/pct:14.955316432609886,16.202203499675957,14.011490060186029,3.2858068697342837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ cluded with Texas, in 1844, it was rejected
 by a majority of the Senate; but at the  
 election for President soon after it was th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045119:1893121101:0258/pct:63.477600607441154,14.119072867747311,108.20045558086561,373.2767762460233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045119:1893121101:0258/pct:15.869400151860289,3.529768216936828,27.050113895216402,93.31919406150583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ may be taken into the Union by the con­
 stitution as it now stands, will become a  
 question o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199185:1894010301:0379/pct:13.653028303270274,16.626631853785902,77.87065552133744,271.02872062663187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199185:1894010301:0379/pct:4.551009434423425,5.5422106179286335,25.956885173779146,90.34290687554395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ lion of territory for nearly sivty
 years tho question of constitution­  
 al power to do so is longer an ope
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_agave_ver01:data:sn95060914:0021110501A:1898070801:0264/pct:86.79604261796042,58.59782762025674,16.095890410958905,10.170686979827902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_agave_ver01:data:sn95060914:0021110501A:1898070801:0264/pct:65.11893434823978,43.95542389617717,12.078972407231209,7.628015234870927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ come a juestion of expediency. I think it will
 be safer not to permit the enlargement of the  
 Union but by amendment of the Constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175036957:1899011301:0230/pct:103.3041788143829,7.993439037725533,97.31130547457079,285.5658829961728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175036957:1899011301:0230/pct:34.43472627146097,2.664479679241844,32.437101824856924,95.18862766539092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

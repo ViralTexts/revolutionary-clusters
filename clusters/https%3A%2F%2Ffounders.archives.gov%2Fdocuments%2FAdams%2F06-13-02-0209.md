@@ -322,7 +322,7 @@ The Printer bas been favoured with the fol
 lowing preamble 16 the afl lately passed by the  
 Aff:mbly of Gsorgia for infliéling penaltie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782090701:0211/pct:34.22389772168497,48.299968223705115,26.520242583183084,15.697489672704164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782090701:0211/pct:34.22936130688958,48.30702962256823,26.53116975359231,15.697489672704164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

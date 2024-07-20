@@ -151,7 +151,7 @@ place, and to add the aflurances of my
 refpett. ‘  
 Yo p JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808092701:0153/pct:41.50738150738151,16.492796820665674,34.063714063714066,80.85444610034774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808092701:0153/pct:41.50738150738151,16.492796820665674,34.063714063714066,80.85775790693823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ signature held the sitsi place, and to add a.­
 surasiuces of my respect.  
 &#x27;:sH ]EFFERQON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808092701:0397/pct:46.00830641439779,4.653679653679654,48.08491001384402,91.80194805194805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808092701:0397/pct:46.001230390649035,4.653259987374876,48.082641238593254,91.7966753840142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ signature held the first place, and to add the
 assurances of my respect.  
 Tli : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808093001:0178/pct:58.74049945711184,1.9906765780521607,35.19724936663047,94.7461257402041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808093001:0178/pct:58.72987153971413,1.9904257999496096,35.19691212833967,94.73838918283363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

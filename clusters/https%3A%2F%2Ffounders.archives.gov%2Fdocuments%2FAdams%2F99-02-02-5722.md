@@ -364,7 +364,7 @@ above every beaat of the field ; upon thy
 belly shalt thou, go, and dust shall thou eat  
 all the days of thy life.&quot; If this creatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293368:1867092801:0308/pct:51.04405034324943,101.5235151247516,13.687070938215102,9.01965113711636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293368:1867092801:0308/pct:38.29208982978115,76.1426363435637,10.270347589758261,6.7674983440053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ not be true to the dictates of my con
 &quot;Unto the woman He said: I will great­  
 ly multiply thy sorrows.&#x27; And to Adam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:0041566557A:1895112401:0249/pct:112.68248175182482,80.65404475043029,16.86815693430657,1.0154905335628228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:0041566557A:1895112401:0249/pct:84.5407872219053,60.49053356282272,12.664004563605248,0.76592082616179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

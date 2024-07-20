@@ -65,7 +65,7 @@ subject:—** As to the gentlemen you mention I cannot charge mvself
 
 ---
 
-## [From _The International Monthly Magazine of Literature, Science and Art (1850-1852)_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n20/mode/1up?view=theater)
+## [From _The International magazine of literature, art, and science_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n20/mode/1up?view=theater)
 
 #### 1852-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -136,7 +136,7 @@ The Clame of Billiards.
 Billiards is the beBt of all indoor  
 games. When properly played it com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:0028077943A:1875091801:0880/pct:22.670549084858568,89.00905772610518,16.867720465890184,4.826280924699202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:0028077943A:1875091801:0880/pct:17.01685042646141,66.75679329457888,12.648221343873518,3.62309044207111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ There is no restraining men’s tongues or
 pens when charged with a little vanity.—  
 Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875092301:0155/pct:72.39078633836378,37.403342479421305,10.802223987291502,9.428785233225243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1875092301:0155/pct:72.37928843710293,37.39867813941888,10.804479034307496,9.430727023319616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ There is no restraining men’s
 tongues or peus when charged with  
 a little vanity.~-[ Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1875102901:0381/pct:102.80838961962318,102.17000513610684,15.179523640241735,20.364663585002567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1875102901:0381/pct:79.68132978234917,79.18532523965901,11.759573881899165,15.782664941785253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ gues or pens when charged with a lit­
 tle vanity.  
 The question, What nationalit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1877081501:0165/pct:301.32605304212166,18.11449729421817,82.60530421216849,369.69524352036456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1877081501:0165/pct:75.37560975609756,4.528624323554543,20.663414634146342,92.42381088009114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

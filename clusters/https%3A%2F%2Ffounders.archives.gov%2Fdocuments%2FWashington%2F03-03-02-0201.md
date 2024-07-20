@@ -160,7 +160,7 @@ a t .,n man wh , has once experienced it, will ever nn
 vcrio again. — Vol. •l, pa. yso, as &gt;, -■!.}, og i.  
 ihu e tollo*s the co orient of tin- historian
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812032001:0394/pct:2.859795728876509,15.826000743586565,19.814298978644384,58.12368323212294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812032001:0394/pct:2.8592647604901598,15.824039653035936,19.816809011016215,58.12061131763734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ adduced,) proves that, instead ot having men to t-ke advnn .
 tage of circumstances, you are in a manner compelled, i ,gi»t  
 or wrong, to make circumstances yield to a secondary cor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813120901:0393/pct:68.56492027334852,72.21116703734052,21.044331522691433,12.969682781224394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813120901:0393/pct:68.55290819901892,72.20271535580524,21.046484466246206,12.972066167290887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ near as mucli as keeping up a respectable body
 ol troops tfie whole time ready for any emer­  
 gency would have done.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813120901:0394/pct:10.525381611643592,5.001769493924738,18.086616968406105,7.915536156659195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813120901:0394/pct:10.523513753327418,5.001179523472517,18.089322685595977,7.918534245498152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ nt nt Nor wen h a officer* of high l ank, as
 yet, BuAicien.ly in.pressed on this subject In  
 a council held previous to the m\v tiioueilm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813121301:0397/pct:6.017857142857143,18.646965441445843,17.464285714285715,50.9586030040298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813121301:0397/pct:6.016782717371898,18.644688644688646,17.467118966851157,50.95645095645096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ and waste occasioned by the first?the repairs
 necessary for the second, with a thousand in­  
 cidental charges and inconveniences.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840040901:0174/pct:81.37495615573484,39.591889117043124,15.205191160996142,4.876796714579055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840040901:0174/pct:81.37495615573484,39.60044490075291,15.216882965041506,4.872518822724161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ from New-York, to the President of Con­
 gress, General Washington attributes the  
 failure of the American army in Canada t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840061001:0240/pct:10.954063604240282,59.15615484993475,145.0530035335689,319.03726257793244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840061001:0240/pct:2.739120830572123,14.789038712483688,36.27126132096311,79.75931564448311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ from present feelings, regardless of consequences.&quot;
 Washington.  
 &quot;Though bravery and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1864092801:0528/pct:66.22320768662232,71.71350861287398,19.955654101995567,7.265898199715063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1864092801:0528/pct:49.694952856350525,53.78836938220438,14.97504159733777,5.45266157233519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ discharge of their duty in time of action
 natural bravery, hope of reward and  
 fear of punishment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:42.630057803468205,121.52931415929204,16.419797687861273,3.0696902654867255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:31.984098301409468,91.15044247787611,12.323816407661727,2.3091814159292037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

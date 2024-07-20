@@ -141,7 +141,7 @@ grievance—but imagination cannot paint the hor­
 rors .ojf such a scene as must inevitably ensue in a  
 tree country, where the fuprcmacy of the laws i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792110701:0003/pct:46.81372549019608,71.04806022003474,20.373774509803923,7.064273306311523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792110701:0003/pct:46.82138480392157,71.05771086662807,20.381433823529413,7.064273306311523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ Whenever anarchy and confusion show their hated
 forms either in larger or lesser governments, where the  
 constituents of the one part, or the devotees of the othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021391:00340588010:1826072201:0064/pct:24.664429530201343,7.8967065868263475,17.48695003728561,4.578343313373254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021391:00340588010:1826072201:0064/pct:24.664429530201343,7.8967065868263475,17.499378573204076,4.578343313373254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ Neither supreme, how soon confusion
 May enter ’lain die gap, of bolii,  
 10. I tie Union of the States—Let us rlin? »«» 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830070801:0787/pct:83.48643006263048,79.8350933024736,14.697286012526096,11.99189932012151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830070801:0787/pct:83.46900438321853,79.82354642753833,14.699436443331246,11.993780734741105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ time, a separate sovereignty, with the prerogative of nul
 lifying the general authority at their individual discie­  
 &quot;The founders of our lepul lic, no doubt, tel eved that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847122701:0174/pct:9.345078513979319,16.661654135338345,60.9153581003447,35.744360902255636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847122701:0174/pct:2.3358223243346736,4.164787250037588,15.22592379858319,8.934746654638401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ how soon confusion
 v May enter &#x27;twixt the gap of both, and take  
 The one by the other.&quot; Coriola.nits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667280:1853052801:0447/pct:66.6200335758254,11.123646209386282,18.746502518186904,2.5157942238267146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667280:1853052801:0447/pct:49.99300209937019,8.348375451263538,14.065780265920225,1.8840252707581226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ Neither supreme, how soon confusion
 May enter &#x27;twixt the gap of both, and take  
 The one by the other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:00280777961:1860011301:0044/pct:60.663863021928506,256.0085151676424,37.969360168218685,15.284725918041511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:00280777961:1860011301:0044/pct:20.221287673976168,85.33617172254745,12.656453389406227,5.09490863934717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

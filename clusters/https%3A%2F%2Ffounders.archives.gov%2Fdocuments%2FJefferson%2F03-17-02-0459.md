@@ -28,7 +28,7 @@ e that if the attention of Congress could be drawn to this article, they would, 
 Science is more important in a republican than in any  
 other Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.26937835763624,49.298352654057354,50.729086722947045,5.186089078706528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.84452975047985,12.324588163514338,12.687140115163148,1.296522269676632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -46,7 +46,7 @@ Science is more important in a
 republican than in any other govern-;  
 meat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.29577464788733,16.795891652401572,12.225352112676056,2.0843822374383243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.28573440360513,16.79420056383407,12.228324649110453,2.0875285273191033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -62,7 +62,7 @@ ad is the second.
 Science is more important in a re  
 publican than in any other government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:111.2280701754386,57.72325550718902,43.36842105263158,6.278855032317636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:27.816777816777815,14.430813876797256,10.845910845910845,1.569713758079409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -80,7 +80,7 @@ more than of face and stature.
 Science is more important in a repub­  
 lican than in any other government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:180.34055727554178,103.72015546918378,49.61300309597523,9.938922820655192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.09386491194117,25.930038867295945,12.405651248306562,2.484730705163798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ Science is more important in a re
   
 publican than in any other govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:0029602112A:1888120601:0947/pct:73.95315826827537,34.757908327953515,15.649396735273243,1.5235635894125241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:0029602112A:1888120601:0947/pct:55.474711623779946,26.06843124596514,11.748003549245785,1.1491284699806326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ i knowing head is the second.
 Science is more important in a republi­  
 can than in any other government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:0027952164A:1889011001:0369/pct:1.9013966010432442,47.62121557022536,13.42756183745583,4.017755520145687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:0027952164A:1889011001:0369/pct:1.907005440574345,47.6250094847864,13.433170676986931,4.013961605584642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

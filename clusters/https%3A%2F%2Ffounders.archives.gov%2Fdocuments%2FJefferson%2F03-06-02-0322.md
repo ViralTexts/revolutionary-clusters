@@ -896,7 +896,7 @@ to u patent, as the making a plough
 s are o! cast rather than of wrought  
 ! uon; a comb of iron instead of horn or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820102501:0113/pct:34.100797679477886,10.85494716618636,58.6113125453227,85.33861671469741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820102501:0113/pct:34.112883732173074,10.862952289465257,58.605269518975106,85.33861671469741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +988,7 @@ pleasure 01 knowing you personally. In 1
 thus tr.inki) touirmli.ti^ my?e&lt;&#x27;. 10 you,  
 I trust ycu will feel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820102501:0114/pct:2.627655609392471,4.643409929753542,22.251211330600075,49.67258006905584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820102501:0114/pct:2.6400795129829793,4.651347382624916,22.251211330600075,49.67258006905584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1029,7 +1029,7 @@ subscribed to the aci. VVi h ihest tx­
 pla a&#x27; ions, acctpt the assyi antes of my  
 nspcct. TH: JEI 1 KKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820102501:0114/pct:6.336190831159151,58.53077747350875,18.542676108833394,17.537802119299915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820102501:0114/pct:6.336190831159151,58.53871492638012,18.555100012423903,17.537802119299915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1538,7 +1538,7 @@ it to ours.” I would respectfully sugges
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1856-04-05_11_30/page/n4/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1856-04-05_11_30/page/n4/mode/1up?view=theater)
 
 #### 1856-04-05 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1615,7 +1615,7 @@ Stable ownership is the gift of social law, and is given
 late in the progress of society.  
 No man will ever bring out of the Presidency the repu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.26937835763624,60.40268456375839,50.729086722947045,7.687614399023795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.84452975047985,15.100671140939598,12.687140115163148,1.9219035997559488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1634,7 +1634,7 @@ progress of society.
 No man will ever bring out of the  
 Presidency the reputation whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.22535211267606,22.172993656227973,12.014084507042254,3.645151545665089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.21532178566399,22.170761175996777,12.01708679528705,3.6481406900255067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1695,7 +1695,7 @@ of society.
   
 No man will ever bring out oftb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:0041562511A:1889020201:0590/pct:81.58761528326745,16.12308401521263,14.048089591567852,5.819983865391264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:0041562511A:1889020201:0590/pct:81.58761528326745,16.12692558872114,14.059068950373298,5.819983865391264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1715,7 +1715,7 @@ No man will ever bring out of the
 presidency the reputation which car­  
 ries him into it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.29250066720043,18.283841493693515,11.929543634907926,3.2773860363491907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.29250066720043,18.283841493693515,11.933991637754648,3.284007018240805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1739,7 +1739,7 @@ and Is Given late In the progress of society
 No man will ever brine out of tho Presidency  
 tho reputation which carries him Into I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:11.593059936908517,112.93902995286605,53.39116719242902,30.773909077086817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:2.8982649842271293,28.234757488216513,13.347791798107256,7.693477269271704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1779,7 +1779,7 @@ law, and is given late in the progress of
 society.   
 It is error alone which needs the sup
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152123:1891040201:0583/pct:66.20074547390841,80.96504559270517,13.724707135250267,2.5930851063829787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152123:1891040201:0583/pct:66.20518281860134,80.96821175278622,13.729144479943201,2.6025835866261398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1795,7 +1795,7 @@ ave not said
 Stable ownership is the gift of social law, and  
 is given late in the progress of societ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:279.5107033639144,49.74882021616684,51.223241590214066,8.281321357893134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:69.8776758409786,12.43720505404171,12.805810397553516,2.0703303394732835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1852,7 +1852,7 @@ Stable ownership is the gift of social
 law and is given late in tho progress of so­  
 ciety.Laws and institutions must so band I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762975:1895022601:0204/pct:46.618791143028126,40.086887835703,40.63435068821065,52.86993154291733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762975:1895022601:0204/pct:34.969325153374236,30.068457082675092,30.495286547957505,39.652448657187996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1887,7 +1887,7 @@ law and is given late in the progress of so­
 ciety.  
 Laws and institutions most go band I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895032101:0048/pct:86.8465172991922,44.07582938388626,9.72412741960067,9.308542957832058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895032101:0048/pct:86.83328253581226,44.07047387606318,9.72645534897897,9.31044957472661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1916,7 +1916,7 @@ ciety.
 Laws and institutions must go band in  
 hand with the progress of the huma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn86076126:00332891066:1895040301:0106/pct:33.12619502868069,76.23326286116983,15.12906309751434,2.7660324171952078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn86076126:00332891066:1895040301:0106/pct:33.11827956989247,76.21983441958781,15.131421744324971,2.769948916681346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1938,7 +1938,7 @@ extend to such acts only as are in­
 jurious to others.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_plasse_ver01:data:sn85042461:00280769629:1895082401:0672/pct:5.118723238614247,57.02875399361022,12.203191903464383,3.194888178913738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_plasse_ver01:data:sn85042461:00280769629:1895082401:0672/pct:5.128454651615415,57.03238454835899,12.208057609964968,3.205779843160035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1959,7 +1959,7 @@ Tbe legitimate powers of government
 extend to such acts only as are injurious  
 to others.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769630:1895100301:0396/pct:19.78735971647962,16.57408797477856,12.187438472140185,2.7923735174898665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769630:1895100301:0396/pct:19.78735971647962,16.577841164990243,12.187438472140185,2.803633088124906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1988,7 +1988,7 @@ Stable ownership is the gift of
 social law and is given late in the  
 progress of society. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776865:1896031201:0998/pct:45.04003558718861,58.92537313432836,40.0355871886121,10.328358208955224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776865:1896031201:0998/pct:33.80814600489651,44.19402985074627,30.046739372357,7.746268656716418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2007,7 +2007,7 @@ subject, that no individual has, of natural
 right, a separate property in an acre of  
 land.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899112401:0726/pct:138.80029261155815,217.98766560073094,37.60058522311631,6.418455915943353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899112401:0726/pct:46.266764203852716,72.66255520024365,12.533528407705438,2.139485305314451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

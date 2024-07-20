@@ -303,7 +303,7 @@ all their weight and influence, and rendered perfe&amp;ly infignifi­
 cant by means of their dependance on the People for a support 5  
 and on this account struggling hard between Duty to the Crow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773071601:0095/pct:4.653130287648054,29.8677286303513,26.903553299492387,3.470345612288437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773071601:0095/pct:4.660180485053582,29.87721044896411,26.91765369430344,3.470345612288437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ explicitly charged the He aenant g vcrnnr(a gen­
 tieman to wh ,m they arc mere indebted than t  
 ny one man in the *irh ** a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773080501:0447/pct:37.9766711529834,22.719594594594593,27.411395244504263,25.77421171171171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773080501:0447/pct:29.431535029263486,17.611549510891304,21.24355334067335,19.978908323939052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ cw, and aic there! re them re ealfty provider
 or without burdening the people; andfueb pro  
 &gt; fian I look at ta tba rtfloratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773080501:0447/pct:66.89098250336474,30.194256756756758,27.27680574248542,28.603603603603602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773080501:0447/pct:51.85142261111433,23.400850940034182,21.139247841455642,22.17898832684825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ me &#x27;o prif&#x27;ntyou his compliment!, and let you
 kn wrnat he n cbliged to you Gr the cxprclfi*  
 om if y ur regard G&gt; hit u jjte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773080501:0447/pct:95.15477792732167,10.951576576576576,28.151637505607894,42.93355855855856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773080501:0447/pct:73.75557744683317,8.48758136659515,21.817233586370747,33.277573729953815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

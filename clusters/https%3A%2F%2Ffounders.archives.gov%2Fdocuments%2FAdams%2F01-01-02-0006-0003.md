@@ -204,7 +204,7 @@ large library bound volumes of the Federal
 and State constitutions, colonial charters  
 and other organic laws which are special
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877650:1879010801:0040/pct:5.381848367459878,114.32661601145249,14.734366353071389,1.8059685056711816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877650:1879010801:0040/pct:4.041522491349481,85.75046801013104,11.058823529411764,1.3544763792533863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ Charters, and Other Organic Laws of the United States. 2 vols
 nial Charters, and Other Organic Laws  
 of the United States,” printed at the gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182185:1896080601:0935/pct:37.527312454479244,76.5140744953085,16.168973051711582,1.5353994882001707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182185:1896080601:0935/pct:29.088856484312526,59.306596151021004,12.535867162143091,1.197296900249743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

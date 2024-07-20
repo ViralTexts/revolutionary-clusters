@@ -150,7 +150,7 @@ matter has passed over, and tranquillity been re
 stored. Yours, affectionately,  
 A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851050301:0615/pct:0.9888751545117429,41.45744680851064,16.412580689465734,27.159574468085108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851050301:0615/pct:0.9888751545117429,41.45744680851064,16.412580689465734,27.163120567375888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ has passed over, and tranquillity been restored.
 Yours, affectionately,  
 A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851050501:0440/pct:6.063782003293906,26.801084777738474,15.66102709986525,18.028534370946822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851050501:0440/pct:6.063782003293906,26.801084777738474,15.67100863402705,18.036395079196634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ the mailer has passed over, and tranquility
 been re.^tored. Yours affectionately.  
 A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851050501:0687/pct:47.107438016528924,39.98613998613999,12.742648472035365,16.126126126126128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851050501:0687/pct:47.10291150187374,39.98336913588802,12.74462701386887,16.127318504146167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ has passed over, and tranquillity been restored.
 Yours, afTectionHtelv,  
 A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851050701:0096/pct:0.043010752688172046,16.818282671400045,18.8673835125448,26.170401597514978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851050701:0096/pct:0.043010752688172046,16.825678574069965,18.87216248506571,26.166703646180018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ position is to be brought forward, but what
   
 pact. &quot;The Constitution requires an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851050701:0489/pct:186.33587786259542,150.5888443121522,113.96946564885496,60.72214313446357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851050701:0489/pct:46.583969465648856,37.64721107803805,28.49236641221374,15.180535783615893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ and tranquility been restored.
 Yours affectionately.  
 A. HLAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851050701:0489/pct:187.09923664122138,215.86644234502396,56.25954198473283,56.32198783486476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851050701:0489/pct:46.774809160305345,53.96661058625599,14.064885496183207,14.08049695871619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ however, the matter has passed over, aDd trunquillity
 been restored. Yours affectionately,  
 A, HAMILTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851050701:0425/pct:64.81191222570533,22.32346241457859,14.753134796238244,12.87015945330296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851050701:0425/pct:64.79921645445641,22.320284697508896,14.755142017629774,12.871886120996441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ the matter has passed over, and tranquillity
 been restored.  
 Yours, affectionately, . A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851050801:0517/pct:44.19566457501426,28.4842904822189,17.298916143753566,17.217171135918978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851050801:0517/pct:44.20041833048108,28.48812675029731,17.303669899220385,17.224843672075803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -774,7 +774,7 @@ the matter has passed over, and tranquili­
 ty been restored. Yours affectionately,  
 A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851051201:0086/pct:148.7584650112867,214.1785764822414,46.06847253574116,78.8028866562898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851051201:0086/pct:37.1826217791988,53.537068477645725,11.514952040624411,19.697934352009057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ cubs, beginning to button up his coat ooruliiionssubscqiir nt,or theps opo-ilii 
 with the ail of a man who has Inst hi J of amendments, upon condition that it  
 pocket book, and feels dispo-ed lo look they arc not adopted within a limited
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1851052201:0559/pct:91.9511249030256,33.35438042620363,34.542280837858804,3.2833464877663774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1851052201:0559/pct:68.99495537446643,25.019731649565905,25.92161428017074,2.462509865824783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -885,7 +885,7 @@ i ue rest ir our opponents. Ha at&#x27;-
 an-woeo Ja-j informed there has been a dislurbcnce  
 .mint al yom j j tl0 tl(v (Jf .lbanv. on the lih ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1851052201:0559/pct:103.0256012412723,37.537490134175215,23.60356865787432,8.003157063930544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1851052201:0559/pct:77.29918509895226,28.161010260457775,17.714396585176562,5.998421468034728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ amendment making. 1 fear the system
 will be wounded in sumo of its vital  
 pai Is by too genial a concurrence in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1851052201:0559/pct:93.71605896043445,122.65193370165746,16.892940263770363,6.6456195737963695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1851052201:0559/pct:70.31431897555296,91.99684293606946,12.689173457508732,4.988161010260458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -954,7 +954,7 @@ passed over, and tranquillity been restored.
 Yours, alfeciionaiely,  
 A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851052301:0099/pct:70.09166173861621,52.71499090672902,16.957421643997634,19.368667186282153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851052301:0099/pct:52.5879917184265,39.542738373603534,12.71813073055309,14.52325279293323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +988,7 @@ withdraw from the Union.&quot; In a su­
 sequent letter, written during the same  
 month, he said, &quot;the qualification sough
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851072301:0534/pct:101.81543116490167,153.96538362180314,57.03479576399395,47.89460087832602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851072301:0534/pct:25.463488460083237,38.491345905450785,14.264093832765797,11.973650219581504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ we trust, however, tho matter has passed over, and
 and tranquillity been restored. Yours affectionately,  
 A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851101101:0345/pct:50.83365645599069,9.809417040358744,14.482357502908103,13.228699551569507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851101101:0345/pct:50.82380306260903,9.80804259492784,14.48439620081411,13.230348886086592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1084,7 +1084,7 @@ matter has passed over, and tranquility been
 restored. Yours, affectionately,  
 A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851101401:0558/pct:44.76947836788791,8.465976228539654,12.505916879674334,16.056161812747618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851101401:0558/pct:44.76524043922757,8.465387823185988,12.507888426101225,16.057362616995643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1140,7 +1140,7 @@ tranquility been restored.
 Yours affectionately,  
 A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851101601:0261/pct:297.1815107102593,49.816436035018356,46.01653513716648,80.27393391697261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851101601:0261/pct:74.28142025173774,12.452350698856417,11.501972571857975,20.06565014824227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -56,7 +56,7 @@ eeives of the information whicn led me to make them
   
 j ic iich I would. with pleasure lay before you.&#x27; A con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830040901:0126/pct:59.70555288846215,68.02942595272552,17.938870219235078,5.6078147612156295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830040901:0126/pct:59.696,68.0212227179549,17.941333333333333,5.611158004742956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -78,7 +78,7 @@ yourselves of the information which led me to
 iii.ilv them, and which 1 would with pleasure  
 lay before you &#x27; A committee wag iheu up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830041901:0694/pct:31.752278376139188,32.040933986739695,14.664457332228666,3.9925050446814643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830041901:0694/pct:31.74570304410851,32.03631647211414,14.666597639262788,3.9955324974780226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ been the reason which induced your dis-
 sent, I am persuaded they were such as/  
 you deemed :ufiu’ml.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1832051701:0456/pct:49.47639484978541,5.815691158156912,31.50214592274678,90.48567870485678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1832051701:0456/pct:49.47639484978541,5.8239933582399335,31.525035765379112,90.48567870485678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ might be useful. I will therefore detail them.&quot;
 From the Boston Timer  
 ITie prescriptive count of the whig administration, and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849052601:0568/pct:15.934855500558838,26.10152662281246,15.264250359252754,7.9682263869926775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849052601:0568/pct:15.945500026611315,26.109801001199784,15.269572622278993,7.972363576186339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ I now nominate Lachlan Mcintosh for istrate which will find its parallel only in
 that office. Whatever may have been the the atrocity of the bandit, who first seizes  
 reasons which induced your dissent, I the purse and then driven the dagger t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1849071101:0383/pct:41.48869346733668,59.8772716544725,25.957914572864322,2.7259853670049563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1849071101:0383/pct:41.49392797319933,59.8772716544725,25.963149078726968,2.733852568641334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ be expedient to communicate that circum- sibilitv and odium of acts which he dar
 stance tome, and thereby ovnilyourselves of not perpetrate in his own name, but for  
 the information which led me to make them,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1849071101:0383/pct:41.45728643216081,63.806938871843286,25.9893216080402,3.3160254897333017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1849071101:0383/pct:41.45728643216081,63.81087247266147,25.999790619765495,3.32389269136968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ Ibly my reasons for nominating Mr. Plshbonrn may tend te
 |-how that such a mode of proceeding, in suoh cases, might  
 I lie useful. 1 will, therefore, detail them,&quot; &amp;c.?(Vide Ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850012001:0088/pct:79.16733131280905,19.69057665260197,16.557664699314085,4.858713719473213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850012001:0088/pct:79.17796565108736,19.69910071175894,16.552347530174934,4.858713719473213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ hefore you
 Then the message went on to give the reasons  
 for the nomination of Fishbourn, which wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869032401:0725/pct:67.58241758241758,292.67605633802816,45.368916797488225,18.422535211267604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869032401:0725/pct:16.895604395604394,73.16901408450704,11.342229199372056,4.605633802816901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ The message went on to give the resons
 for the nomination of isor icoe  
 e ae e ee e  aoe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1870020401:0449/pct:66.25258799171843,264.71932943865886,46.3768115942029,26.263652527305055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1870020401:0449/pct:16.568864342423197,66.17983235966472,11.598205039696238,6.565913131826264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ nominating Flsabourno may tend to show that
 such a mono of proceeding In such cases might  
 bo usuful. 1 win, therefore, detail them,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881051101:0002/pct:16.551172707889126,54.4435548438751,13.139658848614072,5.604483586869495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881051101:0002/pct:16.557835820895523,54.4435548438751,13.159648187633262,5.604483586869495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ them.
 The reasens which the President gave at some length  
 were that Colonet Fishbourn, who had served u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039855:1881051101:0351/pct:5.577557755775578,209.31103052988652,47.42574257425743,26.669785939876007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039855:1881051101:0351/pct:1.859185918591859,69.77034350996217,15.808580858085808,8.889928646625336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ to show that suoh a mode of prooeodUig lu suoU
 oases might bu usuful. i will, therefore, dot alt  
 thorn.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881051201:0004/pct:17.028601694915253,89.76707147123233,13.268008474576272,5.076647421859446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881051201:0004/pct:17.048463983050848,89.77702568186344,13.261387711864407,5.076647421859446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ mode of proceeding in such cases might
 be useful. 1 will, therefore, detail  
 them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341632:1881051801:0472/pct:17.33603004911875,49.61118116855822,11.412886449003178,9.058427910886927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341632:1881051801:0472/pct:17.333525928065868,49.60596826731113,11.416052770956714,9.060978599698785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ the council, to have been appointed collector
 of the port of Savannah.  
 &quot;GEO. WAsHlinGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886013001:0124/pct:209.53470633104502,23.571217056559075,86.80396643783371,352.3245484157536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886013001:0124/pct:52.41366151497806,5.892804264139769,21.713413470711696,88.0811371039384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ the President and Senate, and not the Presi­
 dent alone, who had the power of appointment,  
 they must, according to the Construetion of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886020101:0131/pct:21.698841698841697,90.66748128914007,43.78378378378378,54.437146784786925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886020101:0131/pct:5.426805716492854,22.666870322285018,10.950173812282735,13.609286696196731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ show that such a mode of proceeding in
 such toues might be useful. 1 will there­  
 fore detail them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193511:1886020201:0116/pct:1.550387596899225,53.795098706603135,12.209302325581396,7.283866575901974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193511:1886020201:0116/pct:1.550387596899225,53.795098706603135,12.239583333333334,7.309394145677332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -776,7 +776,7 @@ that such a mode of proceeding, in
 such cases, might be useful. I will  
 therefere detail them.&quot; The reason
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_antelope_ver02:data:sn86075021:00294555365:1886021301:0154/pct:199.1953509164059,291.6158978822164,57.04067948144837,34.17464461850885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_antelope_ver02:data:sn86075021:00294555365:1886021301:0154/pct:49.79883772910148,72.9039744705541,14.260169870362093,8.543661154627213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -809,7 +809,7 @@ cumstance to m : and thereby avail
 yourselves of the information which  
 I would with pleasure lay before you.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349220:1886030601:0078/pct:4.864341085271318,46.77863436123348,14.612403100775193,5.726872246696035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349220:1886030601:0078/pct:4.863398566169347,46.77219545767378,14.614415810889362,5.729525120440468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ reasons tor nominating Mr. Flahbourn may tend to
 show that such a mode of proceeding In such cases  
 might be useful. I will therefore detail tbem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777419:1886031901:0302/pct:27.674750356633382,95.60484419648932,13.90870185449358,6.245747720778337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777419:1886031901:0302/pct:20.767172167707404,71.71043679412165,10.437109723461194,4.680908967206423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -862,7 +862,7 @@ of tbe council to bave been appointed collector of the
 port of Savannah.  
 Geo. WaiuiteoTOM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777419:1886031901:0302/pct:27.710413694721826,103.00721186555994,13.873038516405135,3.646754660498027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777419:1886031901:0302/pct:20.8028545941124,77.26221254592461,10.4014272970562,2.73506599537352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -963,7 +963,7 @@ my reasons for nomi
   
 nating Mr. Fishbourn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777080:1886032601:0156/pct:265.14336917562724,252.34362993699094,36.82795698924731,55.325034578146614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777080:1886032601:0156/pct:66.31555356342447,63.085907484247734,9.211116091438816,13.831258644536653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -996,7 +996,7 @@ such a mode of proceedings in such cases miuht be
 useful. I wlil thei-eioro detail them. Tlit-n fol  
 low the rcaeonn.1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415629588:1886040101:0477/pct:37.37971872686899,82.26299694189602,14.544781643227239,9.396719488462608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415629588:1886040101:0477/pct:28.04516845612736,61.704197942730055,10.921880784894483,7.047539616346956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1057,7 +1057,7 @@ therefore detail
 them. [Then follow  
 the reasons.[
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1886040201:0160/pct:49.05185758513932,22.077562326869806,9.113777089783282,24.515235457063714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1886040201:0160/pct:41.70504385964912,18.766187897339297,7.746710526315789,20.850011773016245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1177,7 +1177,7 @@ the council, and the confidence of the council to
 have been appointed Collector of the Port of  
 Savannah.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896110801:0115/pct:0.0,14.077669902912621,130.0510576221736,383.43446601941747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896110801:0115/pct:0.0,3.5194174757281553,32.51869414554076,95.85861650485437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

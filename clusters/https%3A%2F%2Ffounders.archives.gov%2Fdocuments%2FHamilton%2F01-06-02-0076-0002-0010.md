@@ -354,7 +354,7 @@ as such, and for discharging the duties of Superintendent of U
 dian affairs in the northern department, two thousand dollars­  
 to the three Judges of the Werfem Territory, each c ,ght hundre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091901:0004/pct:71.72745264348318,24.91940072065238,23.268306474413343,2.711928693343448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091901:0004/pct:71.72745264348318,24.928882988810923,23.275374611252474,2.711928693343448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ Assistant of the Secrctary of the
   
 Treasury. 150
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789092401:0463/pct:47.490996398559425,59.25985005583028,20.744297719087633,6.603924070824693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789092401:0463/pct:47.490996398559425,59.25985005583028,20.76030412164866,6.609241239963843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ ritory, each ecight hundred dollars ; to
 the Affliftant of the Secretary of the Trea­  
 sury, fifteen hundred dollars ; to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789111801:0493/pct:6.589239156198151,37.029081295439525,21.023939322114245,6.758096497025776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789111801:0493/pct:6.605040688946828,37.029081295439525,21.016038555739907,6.763604318131747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ printing work, and all other contingent expences
 ot the two Houfesof Congress, and the other de­  
 partments, ...
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011901:0001/pct:35.67601638827608,46.889671361502344,22.061140876142453,3.1690140845070425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790011901:0001/pct:35.69965332492909,46.904342723004696,22.037503939489444,3.1641236306729263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ partments, ...
 odjufting the accounts of the secret and commercial committees of  
 Congrels, for his salary from the firft of July to the third of Au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040301:0004/pct:10.0,49.773577475881076,27.204968944099377,1.3388462295727506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040301:0004/pct:10.01552795031056,49.78834416223666,27.220496894409937,1.3486906871431383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ ting the accounts of
 the secret and commercial committees  
 of Congress, for his salary from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790050501:0586/pct:9.020179917335279,39.44625407166124,20.787746170678336,2.58957654723127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790050501:0586/pct:9.036388686279277,39.44625407166124,20.795850555150338,2.58957654723127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ printing work, and all other contingent expences
 ot the two Houfesof Congress, and the other de­  
 partments, ...
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791011901:0001/pct:35.67601638827608,46.889671361502344,22.061140876142453,3.1690140845070425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791011901:0001/pct:35.69965332492909,46.904342723004696,22.037503939489444,3.1641236306729263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ the two Houses of Congress, rent and office expenses of the three
 several departments, namely, treasury, Hate, war, and of the gene­  
 ral board of comrftifiioners, twenty-one thousand five hundre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791122801:0002/pct:36.26814952116157,47.86674459380479,26.784059314179796,3.175530878628482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791122801:0002/pct:36.26814952116157,47.88135593220339,26.814952116156935,3.175530878628482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ departments, namely, treasury, state,
 war, and of the general board of com­  
 miflioners, twenty one thousand fiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792012501:0948/pct:7.9122504313532165,70.12548262548262,21.345822035987183,6.5476190476190474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792012501:0948/pct:7.92046668309917,70.12548262548262,21.345822035987183,6.558344058344058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ expenses of the two Houses of Congress, rent, and office
 expenses of the three several Departments, namely, Trea­  
 1 sury, State, War, and of the General Board of .Commis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854112501:0358/pct:1.18520634013994,31.299409865271127,16.53577038412109,12.71573321456408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854112501:0358/pct:1.18520634013994,31.30683294362172,16.55480984340045,12.712021675388783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ eral Departments, namely, Treasury, Stale,
 War, and of the General Board of Com  
 missioners, twenty-one thousand five bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1854121501:0408/pct:78.6807580174927,86.58133179922336,16.253644314868804,5.839206098087157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1854121501:0408/pct:59.05195989061075,64.93599884941752,12.19690063810392,4.386595714080253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

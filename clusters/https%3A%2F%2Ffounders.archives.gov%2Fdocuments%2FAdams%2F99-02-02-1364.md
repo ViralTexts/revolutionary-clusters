@@ -49,7 +49,7 @@ al of the United States, (who are hereby
 required to attend for that purpose at  
 the said mint, on th« Sail Monday ia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041201:0001/pct:71.2378640776699,82.04191501634301,20.722087378640776,13.17054412612959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041201:0001/pct:71.2378640776699,82.04672178427225,20.74484223300971,13.194577965775812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -79,7 +79,7 @@ United States, and the said officer or
 officers shall be deemed difqualified to  
 hold their respective offices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041201:0002/pct:6.4486552567237165,8.013937282229966,21.149144254278728,13.530778164924506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792041201:0002/pct:6.463936430317848,8.023615950445219,21.149144254278728,13.535617499032133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ greater inferiority (hall appear, it (h 1 tifnd to the President
 of the United States, and the said oiheer - ofiiccrs (ball be deem­  
 ed difqualified to hold their refpe&amp;ur* offices
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041401:0001/pct:64.12213740458016,37.86793953858393,27.608142493638677,14.120922832140016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041401:0001/pct:64.13008905852418,37.86793953858393,27.608142493638677,14.120922832140016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ tified to the President ol the United Mates, atm, if he shall
 so decide, the said officer or officers shall he thereafter dis­  
 qualified to hold their respective offices: Provided, Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834071501:0088/pct:51.406791406791406,18.12343528899532,14.982674982674983,7.053445085446827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834071501:0088/pct:51.399667405764966,18.121462777535918,14.985218033998521,7.0563053257872586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ the President of the United States, and if he
 shall so decide, the said officer or officers shall be  
 thereafter disqualified to hold their respectiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834072201:0429/pct:4.820469324286118,51.165265510269236,14.249363867684478,9.726508460146855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834072201:0429/pct:4.829893506738291,51.165265510269236,14.249363867684478,9.737150154304565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ the United States, and if he ghall so decide,
 the said officer or officers shall be thercafter  
 disqualified to hold their respective offices
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834081301:0132/pct:20.149118021458445,11.433108376339817,15.566466630296418,11.578668783908958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834081301:0132/pct:20.161241437837184,11.441930219222796,15.578590046675153,11.583079705350448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

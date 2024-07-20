@@ -343,7 +343,7 @@ I are entitled to know the impressiond which/
 1 a public servant on this side of the water  
 • receives from a \ Lc Wof our situation. I hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031301:0004/pct:40.82982561635598,2.755288587098459,52.956504309480856,91.98224079394097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031301:0004/pct:40.843188347698266,2.755288587098459,52.94314157813857,91.98659354052407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ principlcs into a dilemma prescming no al­
 word. &#x27;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809031701:0340/pct:28.643600734843847,3.5860838537020516,47.6576852418861,92.17662801070473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809031701:0340/pct:28.63921628654523,3.5857639818035856,47.65549262717486,92.17137930009217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ I believe that you are entitled to know the impressi­
 ons which a publick servant on this side of the wa­  
 ter receives from a view of our situation. I hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809031801:0389/pct:34.67251034818602,1.7472060443884778,41.83102020939859,91.78340941287581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809031801:0389/pct:34.66407010710808,1.7469310670443814,41.82692307692308,91.77289896128423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ agriculturef-to (Lestmyss our-si Went manus-ac­
   
 tm-es wishoutbenefiting out. commerce—its 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809031801:0344/pct:4.553874652670578,11.942588914966601,25.254708243284963,29.93320093879762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809031801:0344/pct:4.5531717857694085,11.941510966693745,25.255955137109638,29.93350783765081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ even with safety.- &quot;.We take part at once
 with Gan-m W : game; FraMc, at 3,  
 time the least ended that could he {waggin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809031801:0344/pct:5.69620253164557,67.24137931034483,24.51373880827416,15.092977071673587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809031801:0344/pct:5.695323352369193,67.23531004603304,24.51510006688275,15.094623461804614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ are entitled to know the impressions which
 apublic setvant on this side .cf the water-!  
 receives from a &#x27;ss-iew 01 out ettuationss . I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809031801:0344/pct:30.364309972213647,5.26268279472829,23.973448595245447,57.27568153096227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809031801:0344/pct:30.359623398672635,5.262207780485603,23.97489324484231,57.273520474170354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1411,7 +1411,7 @@ thwart our prosperity—that it would he
 wh.ch would chng to us in this new career  
 &lt;»t vassalage and meanness; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810061201:0045/pct:57.17920756088695,70.92597117029074,17.157397310069065,2.296603957977034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810061201:0045/pct:57.168817008904234,70.91730792720166,17.16033678599552,2.3003949350596473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

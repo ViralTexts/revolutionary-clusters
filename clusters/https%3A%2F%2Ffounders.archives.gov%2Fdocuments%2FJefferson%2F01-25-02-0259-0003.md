@@ -43,7 +43,7 @@ ficial information in due time, of the monies
 drawn by him from Europe into the United  
 States—which drawing commenced Dec. 1790
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030201:0003/pct:29.608938547486034,9.463198671831766,19.053219641281977,3.597122302158273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030201:0003/pct:29.62364010585122,9.477033757609297,19.067921199647163,3.592510606899096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -76,7 +76,7 @@ of the said monies into the United States,
 without the inftru&amp;ions of the President  
 of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030601:0002/pct:53.5692495424039,21.79917879805898,20.0732153752288,13.176558417319896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030601:0002/pct:53.57687614399024,21.79917879805898,20.0732153752288,13.18589025755879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ States in executing the authorities for
 making loans under the a&amp;s of the 4th  
 and 12th of August, 1790.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030601:0002/pct:54.02684563758389,44.363568495707355,19.890176937156802,4.609929078014185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030601:0002/pct:54.04972544234289,44.37290033594625,19.890176937156802,4.609929078014185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ menced in December 1790, and conti­
 nued &#x27;till January 1793; and of the causes  
 of making such drafts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030601:0002/pct:54.209884075655886,58.939902948861516,19.85967053081147,6.886898096304591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030601:0002/pct:54.225137278828555,58.944568868980966,19.85967053081147,6.900895856662934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ time to time suggested by him to have
 been intended for the purchase of the pub­  
 lic debt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030601:0002/pct:54.514948139109215,74.30011198208287,19.9816961561928,12.896603210153042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030601:0002/pct:54.514948139109215,74.30944382232177,19.996949359365466,12.896603210153042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ ed in proof of the fad, dated in general
 terms, a sum paid on account of foreign  
 loans, and this sum was taken from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030901:0001/pct:50.749779476624525,72.8075117370892,19.288444575124963,8.60093896713615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793030901:0001/pct:50.7718318141723,72.8169014084507,19.273743016759777,8.605633802816902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ principal borrowed to the payment ot tin
 inteccll failing due upon that principal  
 which was not authorised by law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793031301:0001/pct:49.95187680461983,43.4136546184739,20.307988450433108,2.751004016064257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793031301:0001/pct:49.975938402309914,43.42369477911647,20.316008982996472,2.751004016064257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ ment oF the TnterelE railing due upon that
 principal, which was not authoiifed by  
 law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793031301:0001/pct:29.814760364598648,42.841142430464814,19.053219641281977,10.640283740899758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793031301:0001/pct:29.829461922963834,42.841142430464814,19.067921199647163,10.644950532014187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ By the ait of the 4th Augufl 1790, fecft. id,
 —&quot; The PreGdent of the United States i» autho­  
 rised to cause to be borrowed, a Aim or Turns no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032001:0001/pct:29.43231441048035,71.4018341755568,19.068413391557495,12.296462661426165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032001:0001/pct:29.43231441048035,71.4018341755568,19.08296943231441,12.310499719258843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ nued till January 1 &quot;93 ; and of the causes
 of making such drafts.  
 Mr. Smith said, that after the vote whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793032301:0001/pct:28.337085879704084,78.63282030781531,21.067867481505306,7.455526683989606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793032301:0001/pct:28.337085879704084,78.63781730961423,21.09199099388871,7.460523685788527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ time of the monies diawn by him from
 Europe into the United States, which  
 drawing commenced in December 179 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793032301:0004/pct:6.272113219684786,50.11990407673861,20.842714699260213,6.3549160671462825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793032301:0004/pct:6.272113219684786,50.134892086330936,20.858797040849147,6.369904076738609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ the monies drawn by him from Europe into
 the United States ; which drawing commenc­  
 ed in December, 1793, and continued till Ja
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793033001:0001/pct:7.92520035618878,24.04187698635259,19.323241317898486,5.888951205832866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793033001:0001/pct:7.92520035618878,24.046550757150868,19.352923716236273,5.893624976631146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ Treasury has deviated from the inftruftions
 given by the Preljdent of the United States,  
 in executing the authorities for making
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793040301:0002/pct:73.346366894754,71.85929648241206,21.537960247637667,22.21105527638191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793040301:0002/pct:73.3545128706419,71.8643216080402,21.546106223525577,22.22110552763819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ The yeas and nays being demanded by
 one fifth of the members present,  
 Those who voted in the affirmative, are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793040601:0003/pct:6.938110749185668,71.35708566853482,21.302931596091206,9.627702161729383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793040601:0003/pct:6.962540716612378,71.37209767814251,21.311074918566774,9.622698158526822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ The yeas and nays being demanded by
 one fifth of the members present,  
 Those who voted in the affirmative, ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793040601:0003/pct:29.022801302931597,11.088871096877503,21.335504885993487,15.212169735788631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793040601:0003/pct:29.047231270358306,11.088871096877503,21.311074918566774,15.222177742193756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ she yeas and nays being demanded by
 one fifth of the members present,  
 Those who voted in the affirmative, ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793040601:0003/pct:28.990228013029316,41.99359487590072,21.433224755700326,11.649319455564452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793040601:0003/pct:29.006514657980457,42.00860688550841,21.433224755700326,11.634307445956765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ from four hundred thousand dollars, at
 five per centum per annum, when a great­  
 er sum of public money was deposited
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793042301:0005/pct:8.58203414996288,33.52882703777336,21.21752041573868,52.614314115308154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793042301:0005/pct:8.58203414996288,33.53214049039099,21.23236822568671,52.61100066269052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ The yeas and nays being demanded by
 one fifth of the members present,  
 Those who voted in the affirmative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793042301:0005/pct:30.556792873051226,54.83101391650099,20.460282108389013,25.87475149105368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793042301:0005/pct:30.561742143033904,54.83764082173625,20.460282108389013,25.87475149105368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ Now gentlemen would pardon him for not feel­
 ing that religious deferenre for the dicta of a majo­  
 rity which some of them entertained, when he sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807112501:0847/pct:74.02333840690005,27.04865556978233,21.71486555048199,12.67605633802817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807112501:0847/pct:74.00456505199087,27.044327092334772,21.715698706568602,12.67802848455753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ the payment of the interelt falling due upon
 that principal, which was not authorifed by  
 that or any other law, See. Although it ia no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807120101:0257/pct:42.30271668822768,39.13202042304887,17.963407872851597,4.972039873571602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807120101:0257/pct:42.29490022172949,39.127263887200684,17.966247844296625,4.975487216887484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ demonstrated by the official statements
 (from which the statements Nos. 11 and 12  
 nr» abstracted) that that resolution wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807120101:0398/pct:40.17368321691524,57.8994157988316,17.575986407400414,8.153416306832614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807120101:0398/pct:40.16610041525104,57.89206349206349,17.5789606140682,8.156613756613757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ Hamilton, and are in these words :
 sury has violated the law patted the 4th of Au­  
 gust, 1790, making appropriations of certai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836051901:0334/pct:44.9025069637883,114.0736158366842,19.98607242339833,9.959789669038045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836051901:0334/pct:33.6862635831708,85.55521187751314,15.004179437169128,7.474997422414682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

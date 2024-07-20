@@ -168,7 +168,7 @@ Greenwich, in our County of Kent, in
 freo and common svceage, and not in  
 capite, nor by knight service: Yielding 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833121801:0603/pct:81.51360544217687,18.20671588473446,15.66326530612245,7.108835437008811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833121801:0603/pct:81.52494331065759,18.20671588473446,15.668934240362812,7.108835437008811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ into the said countries, territories, and regions
 hereby granted.&quot;  
 I have said that the letter of the treaty favor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846080801:0168/pct:244.5635784888591,190.57396173588427,49.522533087619365,14.920671955202986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846080801:0168/pct:81.52119282961971,63.52465391196142,16.507511029206455,4.973557318400996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ wich, in the county of Kent, in free and common soccage,
 and not in capite, or by knight service, yielding and paying  
 yearly to us our beir and successor, for the same, two el
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846081001:0238/pct:46.0667086217747,255.11269276393833,41.818753933291376,5.9786476868327405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846081001:0238/pct:15.355569540591567,85.0375642546461,13.93958464443046,1.99288256227758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ soccage, and not in capitc, or by knight ser­
 vice: yielding and paying yearly to us, our heirs  
 i and succc-sors, for the same, two oiks and tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026141:1846081001:0786/pct:22.403733955659277,22.530137176111957,15.324776351614158,3.2700568103089926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026141:1846081001:0786/pct:22.41669907947621,22.53937462472865,15.311811227797225,3.2746755346173386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ us, our heirs and successors, as of our manor of East Green­
 wich, in the county of Kent, in free and common soccage,  
 and not in capite, or by knight service; yielding and payin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846081201:0736/pct:92.68185801928134,200.58322640849178,38.27052293309962,4.805785605972239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846081201:0736/pct:30.889440630933255,66.8532773501283,12.754977849179689,1.6017416997123086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ county of Kent, in free and common so-
   
 ciage, and not in capite or by knights ser
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878186:1846090901:0005/pct:64.68636911942099,13.62869672776341,19.5416164053076,3.9806589452378276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878186:1846090901:0005/pct:48.536953242835594,10.221522545822557,14.660633484162895,2.9911166085685372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ Acres Part of every fifty of the Tract above
 mentioned within three years after the Dates  
 of these Presents Provided always that i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349608:1892061001:0105/pct:16.36890391115403,61.7519735166794,10.94479317559955,5.118411000763942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024653:00393349608:1892061001:0105/pct:16.366269713550047,61.74411203055379,10.947055037013197,5.120942075111394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ or clause in a late grant, to the gov­
 ernor and ccompany of Connecticut Col­  
 ony, in Am erica,to the contrary there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153796:1898033101:0244/pct:68.24855794441531,33.091095189355165,12.467226009438908,6.878198567041966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153796:1898033101:0244/pct:68.25292780982346,33.091095189355165,12.471595874847054,6.885022176731491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

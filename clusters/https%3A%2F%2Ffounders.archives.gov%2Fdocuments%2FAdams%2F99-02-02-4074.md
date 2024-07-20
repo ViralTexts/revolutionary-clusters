@@ -70,7 +70,7 @@ ment, upon all those ingenuous minds, who
 receive delig-ht from the approving acd ani­  
 ; mating voice of their country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799121201:0003/pct:39.45018796992481,6.277549779601763,16.611842105263158,20.124639002887978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799121201:0003/pct:39.461936090225564,6.285149718802249,16.62359022556391,20.124639002887978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ port ot government, upon all thofe ingenuous
 min Is, who receive delight from the approving  
 and animating voice ol their country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799122301:0308/pct:53.507152745731425,42.436619718309856,22.104291647438856,20.450704225352112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799122301:0308/pct:53.49480968858131,42.430643571327984,22.10495963091119,20.451344881002676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ all thofp ingenuous minds, who re.
 ceive delight from the approving and  
 -animating voice of their&#x27;country. =
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799122501:0206/pct:26.329704510108865,60.40872201036472,16.640746500777606,24.914442162902123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799122501:0206/pct:26.329704510108865,60.40872201036472,16.656298600311043,24.914442162902123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ on all those ingenuous minds, who re­
 ceive delight from the approving and  
 animating voice of their countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899042901:1380/pct:8.148558758314856,43.729026845637584,75.5820399113082,107.15184563758389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899042901:1380/pct:2.7161862527716187,14.576342281879194,25.194013303769403,35.71728187919463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

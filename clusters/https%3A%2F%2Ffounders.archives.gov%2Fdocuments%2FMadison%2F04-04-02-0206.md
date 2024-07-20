@@ -235,7 +235,7 @@ described may be worn, but shall not be substituted on tho
 publ.c occasion, specified for the uniform co.t first pre.cr.brtl.  
 1 nese regula SOQ. of uniform, during the next aex.iJn, may h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827010401:0309/pct:80.53539751652959,52.02208088323533,15.09433962264151,5.952238089523581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827010401:0309/pct:80.52241212512092,52.015838732901365,15.09728044716758,5.955523558115351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ be,bj&quot; ‘•eiignats the me,to which .1 -Jo be .ppliul.wbr&#x27;­
 tner for board, for clothing, for books sad ...tHnery, or’  
 porket monev. At the end of the fi. .ttb.ee month, of the .V
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827010401:0309/pct:80.48701822286728,59.22236889475579,15.320109659732301,6.492259690387615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827010401:0309/pct:80.47404063205417,59.21526277897768,15.323014081479092,6.495480361571074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ ever resident, shall he uniform U plain. The coal, waistcoat and
 pantaloons, of cloth of adaikgiay mixture, at a price not ex­  
 ceeding six dollars per yaid. The form ol the dreis in eac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827010601:0314/pct:51.41494435612083,64.76351760009678,14.610492845786963,2.7458570218942784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827010601:0314/pct:51.4067715784454,64.75568456700532,14.613468976845228,2.749556523141429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ sion, he sliatl deposit enough to pay his hoard tod other ex­
 pen.ri tor Ihe next three month-, and at the expiration of the  
 e.-ond per&#x27;id, he shall di posit enough to pay his boa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827010601:0314/pct:51.24006359300477,67.47308576267086,14.769475357710652,16.039675819523406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827010601:0314/pct:51.231918613892866,67.46492501209482,14.772426217347533,16.041767456861795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ sum due from the studetft, for the use of i; ■ ’
 tory and the f ublit moms &#x27; i’dotn.t­  
 ffe a.,, cd.it for and ra/ (c&gt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827010601:0049/pct:68.29194427619625,61.72008668871906,16.126589945487584,30.945591422379376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827010601:0049/pct:68.28160484481454,61.71304744525548,16.12919505425183,30.945863746958636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ for the time being, and pa cable to o dvr
 ll s accounts and voucher* shall he at all times,  
 subject to the inspection of tt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827010601:0050/pct:16.53368794326241,12.568744271310724,16.37115839243499,34.704399633363884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827010601:0050/pct:16.53124538336534,12.567304387673273,16.37366425370562,34.70424256310383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ cause. s
 i’tie Proctor i* also charged with the tlu&gt; v oJMfl  
 pei i iit niling all buildings in progre.-.t to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827010601:0050/pct:16.22340425531915,7.676443629697525,32.69799054373522,84.20027497708524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827010601:0050/pct:16.221007534347763,7.675564211249857,32.698084404392574,84.19444762668499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -987,7 +987,7 @@ to be assessed by lire Faculty,
   
 i lie r acuity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0319/pct:33.57710651828299,14.056128568001919,45.62798092209857,82.98153034300792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0319/pct:33.57176919408679,14.054442978774434,45.62602659884491,82.97557660790662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1019,7 +1019,7 @@ frock coat. A surtuut of cloth ol&#x27; the colour and price above
 described may be worn, but shall not he substituted on lb­  
 public occasions spt cifie.l, for the uiufotu. coal fust prescribe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0322/pct:50.638977635782744,63.34420683822641,14.824281150159745,7.091941524707019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0322/pct:50.63088963424373,63.33655472336313,14.827237395517223,7.095111540629782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1046,7 +1046,7 @@ looms, to pay the lees of the Prolessors whom lie may design
 pui chase the test-hooks and stationeiy which he may want at  
 the commencement, and a depositt of »10, focover contin-cn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0322/pct:50.60702875399361,71.9946840642745,14.76038338658147,5.013893922918932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0322/pct:50.59894585529468,71.98598695337039,14.763349837619124,5.017314971410164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1074,7 +1074,7 @@ l,’cvVy col,&#x27;.!,e ol Icclutcs ii shall he the duty- of
 ora new lecture to examine hi« class thoroughly  
 on the subjects of the preceding lecture y
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0051/pct:54.10824664556008,61.23473696222755,15.995778682345847,2.3622047244094486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0051/pct:54.10009044317154,61.22774988589685,15.998392121394835,2.3657386277194585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1099,7 +1099,7 @@ ceklt eports and pre-enling ir. a summary form;
 /&#x27;T&#x27;&quot;&quot; C&#x27;l,,«d for l»Vtho:-c reports,  
 hall he laid by the Faculty before the Board o*Vi&lt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0051/pct:54.13839891451832,63.448590665297274,15.965626413387607,5.534634257674313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0051/pct:54.13023816701839,63.44135098128709,15.968244397547986,5.537806176783812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ ging it,-—shuli be liable to mstaiit expulsion
 from the University, not remissible by the  
 Faculty. And it shall be the duty of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:29.951118352836616,43.88882560656111,15.612501851577544,5.866271784941337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:29.946682464454977,43.88382687927107,15.615126382306476,5.8694001518602885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1250,7 +1250,7 @@ olher penalty imposed by law.
 No student shall be pet minted to hoard or lod«e  
 out ol the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:46.12649977781069,8.474769335915253,32.11376092430751,83.64278391616357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:46.1196682464455,8.47380410022779,32.113941548183256,83.63705391040243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1296,7 +1296,7 @@ dispensed with by the Chat!man of the Faculty, in nil c ases
 where the student shall have procured his clotbiug without no­  
 tice of them.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011601:0326/pct:66.45823312489979,19.525701215842062,14.878948212281546,8.438666185145058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011601:0326/pct:66.44757935235653,19.52335098700048,14.8819065939938,8.441662654469587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ penses for the uexl three month&#x27;, aud at the expiration of the
 ceotid period, he shall dt posit enough to pay his board and  
 other expenses for the residue of the session
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011601:0326/pct:66.52236652236653,28.40977488864813,14.943081609748276,7.728421812928855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011601:0326/pct:66.51170246873998,28.406355320173326,14.946029710377257,7.731503771465254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1373,7 +1373,7 @@ dispensed with by the Chau tutu of die Faculty, in all cases
 where llie stu lent shall bat* procuied his clothing wituuuluo­  
 lice of them.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011801:0330/pct:67.08679004467135,28.062146212212454,14.805360561582642,7.202216066481994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011801:0330/pct:67.07608869038124,28.058766859344892,14.80831605253363,7.205362877328195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1400,7 +1400,7 @@ t«i attend, to pay thiee months’ hoard to his hotel-keeper, to
 putchxje (he text-books au ! stationery winch he may want at  
 the commencement, and a deposit* ol £.10, to cover contingen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011801:0330/pct:67.11869814932993,35.49319523063953,14.550095724313977,4.85366734915091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011801:0330/pct:67.10799170521614,35.488921001926784,14.553091933854416,4.857096981374438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1421,7 +1421,7 @@ penses for (he next tim e month*, and at the expiration of the
 ecoiid pet’cd, he si.all dtpoail enough to pay hi* boa id aud  
 olh»*i expenses for the residue of the session
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011801:0330/pct:67.15060625398851,40.64795856919186,14.566049776643267,2.770083102493075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011801:0330/pct:67.13989472005105,40.64306358381503,14.569043441271868,2.7737636480411045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1449,7 +1449,7 @@ shall be laid by the Kacu! y Ls&#x27;.ore the Boer.) of
 Visitors, at the commencement of every annual  
 meeting in the month of July
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:4.517059106198943,40.93314093314093,15.21704308825885,6.986531986531986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:4.516335682254965,40.9282193098473,15.219944480034167,6.989699811630796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1475,7 +1475,7 @@ llim*elf without leave of the Faculty, under pain
 of any ptini-hment not exceeding dismission from  
 the Univer-ity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:4.260772064712478,77.2005772005772,15.185007208073042,5.507455507455507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:4.260089686098655,77.19129493807863,15.187913730514627,5.510801170293775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1502,7 +1502,7 @@ to give information thereof to the civil authority,
 that Ihe parties may be dealt with according to  
 Jaw.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.671952586897326,37.56613756613756,15.21704308825885,6.962481962481962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.666239590006406,37.56162077672238,15.219944480034167,6.965652679251333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1555,7 +1555,7 @@ tu attend, to pay three in i.ths’ Imaid to In* hotel-keeper, l&lt;&gt;
 purclme the text-book* and stationery which he may want at  
 the commencement, ami a deposit* of ^10, to cover contingen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:67.11516898926799,53.46320346320346,15.024827807144002,18.975468975468974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:67.1044202434337,53.45677527954791,15.027759982916933,18.977195302793476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1735,7 +1735,7 @@ under a caption in these word* ;
 *• After baring carefully retd the law* of the Util  
 ’•rrsMynf Vi&#x27;gtf}*, J ;uh«-^.e rpy*&lt;ff a &#x27;tudn.c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.815440289505425,15.474956822107082,33.83594692400482,75.98157743235464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.80687471732248,15.473175224499194,33.83587114930398,75.97666743418527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1780,7 +1780,7 @@ duction fiom their hoard on that account, to be as­
 certained by the piortor, subject to the controul of  
 the Faculty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0054/pct:12.83271375464684,8.135011441647597,16.1635687732342,15.446224256292906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0054/pct:12.830805828129646,8.134080768790756,16.16612151848548,15.448270602143158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1799,7 +1799,7 @@ with the lands owned by the University—bring one
 entire tract consistin&#x27;.; &lt;-f several parcels — whereon  
 the buildings arc creele
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0054/pct:29.17472118959108,36.38443935926774,15.702602230483272,2.505720823798627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0054/pct:29.170383586083855,36.380276856194946,15.705223510754287,2.5092476070625023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1869,7 +1869,7 @@ at tile expiration of the sen ml jiiind, he shall deposit
 enough to piv his hoard ami other expenses for the residue  
 rl the sesi-tmi. 1 he ensiling session rniMiuences on the 1s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827012301:0011/pct:4.82137211508062,43.60965121834687,17.79955738223206,22.75441949354993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827012301:0011/pct:4.820610083767979,43.60444285202436,17.802012538854644,22.75568294916199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1918,7 +1918,7 @@ looms, to pay the |.*es ol the Fiofeners whom he may design
 puichiae the text-bock* and stationeiy which he may want at  
 me commencement, iml a d( posit* ol j&gt;J0, to cover contingen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012301:0335/pct:2.269861286254729,54.12190706095353,15.116645649432535,13.192516596258297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012301:0335/pct:2.269503546099291,54.115375331885105,15.119516679800368,13.194947300667794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2003,7 +2003,7 @@ at the expiration of tire second period, be shall deposit
 &lt; uoijgh to pay bis board and other expenses for the residue  
 of the session. the. ensuing session coin ntcnres on the 1s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827012601:0015/pct:3.6689961880559085,41.666666666666664,17.97966963151207,24.786324786324787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827012601:0015/pct:3.668413530252501,41.66172106824926,17.98210788206024,24.787339268051433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2031,7 +2031,7 @@ According to the enactments of th.&gt; visiteis, Uic dress &lt;&gt;f •
 Thu coat, waistcoat, and panto!p«his, of cloth of a duik i  
 .. &gt;y mixture, at a price not exceeding six Hollars per yard. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827013001:0019/pct:5.010208889586933,66.2092829018017,17.826291817182348,1.9926023147595753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827013001:0019/pct:5.009422110552764,66.20138391791934,17.828726968174205,1.9963413664201066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2061,7 +2061,7 @@ i ■ icr nud price above described may be worn,but : h;»li ii&lt;&gt;t ;
 •e S&#x27;jbstitnt. d hi tin: putiiic orcarsiotf- sppcifft.i h i ti*e uttf- j  
 &quot;&gt;•11 mu first prcscribrd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827013001:0019/pct:5.010208889586933,69.66949051425844,17.81058583320245,8.149385514855028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827013001:0019/pct:5.009422110552764,69.66117871629683,17.813023450586265,8.152390042153822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2190,7 +2190,7 @@ he may be lined by the faculty in any sum not ex- .
 ceeding live dolla-s, for each ctlence, in addition  
 to any other penalty imposed by law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:3.0695443645083933,4.185933317108786,31.84652278177458,91.05621805792164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:3.0690537084398977,4.185424017520379,31.84676044330776,91.04919495477958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2395,7 +2395,7 @@ or confectionaries, shall be punished with dismis­
 sion from the University, at least, and refusal to  
 re-admit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:35.0599520383693,3.808712582136773,30.72741806554756,91.57945972256023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:35.05434782608695,3.808249178732206,30.727834612105713,91.57237295696963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2417,7 +2417,7 @@ duction from their board on that account, to be as- ,
 ceiinined by the proctor, subject to the controul of  
 the Faculty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:50.759392486011194,11.426137746410319,15.283772981614709,4.13725967388659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:50.75127877237852,11.424747536196618,15.286658141517476,4.1408119398142516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2447,7 +2447,7 @@ wire never they appear without its precincts —on ali other
 occasions, within the prerinets, they may wear a plain  
 m.*ck Rown. or che ap ft,irk ro.it; a sm tout of cloth of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827020201:0026/pct:77.45601743733458,47.125621007806956,17.515179822512845,8.01987224982257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827020201:0026/pct:77.4439601494396,47.120047309284445,17.517642175176423,8.022866154149419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2472,7 +2472,7 @@ i isorc.ia.I no matriculate, till he shall have deposited a
 ul .us.mimitury and lb,tpublic i-orms, u, pay the fees cf  
 Hie professors whom h • may tlcsipu to atteno, to pay thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827020201:0026/pct:77.34703409621672,58.552164655784246,17.79542269967305,5.630470783061273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827020201:0026/pct:77.33499377334994,58.54523950325251,17.797841427978415,5.633747289572245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2492,7 +2492,7 @@ sive with the lands owned by the University— he.
 ing one entire tract consisting of several parcels  
 whereon the building are erected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827020601:0362/pct:20.349023374959973,66.07272727272728,15.04963176432917,3.018181818181818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827020601:0362/pct:20.34576596766448,66.06471942794813,15.052558561442826,3.021855936654143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2521,7 +2521,7 @@ Hie Students shall wear this dress on ihe .abhalh, on exami
 nation, and puhlic «xh,h.t|oo., in the TJniveisKy, and whenever  
 hey appf .nsvilhonl it. precinct. Ou all nrhe, .sctasions, wilhn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827080301:0115/pct:66.06118546845124,68.81164301178735,15.296367112810707,5.665143132066394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827080301:0115/pct:66.05066114385853,68.80336740829826,15.299240613881366,5.668470635397876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2571,7 +2571,7 @@ the h.A«cut:ve * out millet; with c .n-picuou* badges ou the
 coats, such as they shall pi escribe. In case of mounting, the  
 ctistuinaiy hadgts may always he added
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827081401:0128/pct:65.32655331320515,43.26564940526252,15.636421420626093,9.732067764027393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827081401:0128/pct:65.31617413409596,43.26045170591062,15.639233132083465,9.734903091462439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2778,7 +2778,7 @@ Officer to the Master of every Quarantined
 vessel for his government.  
 By Order, B B.HOWLAND, Clerk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829061101:0296/pct:54.789201183431956,21.193056041011303,16.956360946745562,7.107072119305604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829061101:0296/pct:54.801528599605525,21.193056041011303,16.950197238658777,7.118723057206105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2848,7 +2848,7 @@ olate the same, he shall pay a fine of one
 hundred dollars and be dismssed from  
 office, . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1831092901:0322/pct:16.959863364645603,56.588960019326,15.269000853970965,13.54028264283126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1831092901:0322/pct:16.971249644178766,56.588960019326,15.280387133504128,13.544308893988807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2875,7 +2875,7 @@ the State, or by the regulations of tIIIS’
 Board, or permit any other person to vi-I  
 olate the same, hie shall pay a fine ul&#x27;unc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1831101301:0330/pct:0.8579272477693891,68.73540616934989,15.32258064516129,7.766990291262136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1831101301:0330/pct:0.8636467627545185,68.74359919708328,15.32258064516129,7.758797263528737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2908,7 +2908,7 @@ regulations of this Board, or permit ai *
 other person to violate the same, he shall  
 pay a fine of one hundred dollars, and b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1831102501:0170/pct:52.02321724709785,82.4524062906468,15.207296849087895,10.027196405344684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1831102501:0170/pct:52.02321724709785,82.45634779866776,15.229408512990602,10.035079421386623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2929,7 +2929,7 @@ regulations of this Board, or permit &amp;. *
 other person to violate the same, he shall  
 pay @&amp; fine of one hundred dollars, and b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1831110101:0174/pct:67.46710526315789,88.21513002364067,15.032894736842104,3.8770685579196216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1831110101:0174/pct:67.47258771929825,88.21513002364067,15.027412280701755,3.888888888888889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2956,7 +2956,7 @@ regulations of this Board, or permit a. *
 other person to violate the same, he ehall  
 pay a fine of one hundred dollars, and b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1831110801:0178/pct:67.13839065328287,85.14595103578155,15.122593384893863,6.579566854990584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1831110801:0178/pct:67.14387581591794,85.15379786566227,15.133563710164006,6.579566854990584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2980,7 +2980,7 @@ be published three weeks in the HEraLD
 or THE TiMEs, and a copy of them hand­  
 ed by the health-oflicer to the maste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1833061301:0678/pct:33.533550712201816,64.8776245496335,15.050626394371031,6.336190831159151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1833061301:0678/pct:33.53927120874092,64.8776245496335,15.056346890910131,6.340332132355987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3004,7 +3004,7 @@ be published three weeks in the%h;nu,n
 or THE TilMEs, and a copy ofthein hand­  
 ed by the health-officer to the maste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1833062001:0682/pct:33.36171662125341,64.47155483630026,14.901226158038147,6.323913855346695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1833062001:0682/pct:33.36171662125341,64.47985393584796,14.912579473206176,6.328063405120544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3028,7 +3028,7 @@ be published three weeks in the HerALD
 or THE TIMEs, and a copy ofthem hand­  
 ed by the health-officer to the maste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1833062701:0686/pct:34.56018909336485,65.09068167604752,14.857335809555968,6.529080675422139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1833062701:0686/pct:34.56581687208059,65.09902022097144,14.86296358827171,6.5207421304982285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3074,7 +3074,7 @@ ed by the health-officer to the maste
 scribed!,y the Enactments; consisting of cloth of a dark  
 gray mixture, at a price not exceeding six dollars a ysrd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835072401:0095/pct:3.465278728941241,54.500108436347865,14.833584440487604,0.9976144003469963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835072401:0095/pct:3.464804163242947,54.4941992843977,14.836117958550169,1.001120387437204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3170,7 +3170,7 @@ gray mixture, at a price not exceeding six dollars a ysrd
 scribed by the Enactments; consisting of cloth of a dark  
 gray mixture, at a price not exceeding six dollars a yard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835081101:0118/pct:51.42219743446737,36.612797554051106,15.030674846625766,1.015505568901507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835081101:0118/pct:51.415028579394956,36.60880008734578,15.033226451043264,1.0190341012483168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3208,7 +3208,7 @@ the State, or by the Regulations of this Board, or shall permit
 any other person to violate the same, he shall pay a fine of $2O.  
 17th.—That the foregoing Regulations be published thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1835090901:0332/pct:79.52117863720073,63.23490289970737,19.208103130755063,7.674913540835329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1835090901:0332/pct:79.52117863720073,63.23933670302385,19.23265807243708,7.683781147468299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3235,7 +3235,7 @@ resolution to conform to its laws, &quot;I declare that I havs
 deposited with the patron all the funds in my possestion or  
 under my control, according to the obvious spirit an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845081601:0695/pct:45.04877327815549,43.46055387479637,38.50133018031333,16.732604142424947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845081601:0695/pct:15.014038717304567,14.485165794066317,12.831880202945667,5.57688578630987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3255,7 +3255,7 @@ of under his controul in any manner
 tended to defray his expenses while a student of the  
 Oniversity, or on his return thence to his residence.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845081601:0695/pct:45.18179130948862,61.996741912962534,38.368312148980195,7.412148010239702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845081601:0695/pct:15.05837150879267,20.663176265270508,12.787547411457563,2.470428543726973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3279,7 +3279,7 @@ funds in mil possission, or under viij unthol, ae­
 renting /? ,^c 0iv\?us aiul meaning &quot;/ the  
 J!ls&quot;n that suli-ct. In testimony whereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845081901:0302/pct:44.935570872040756,18.242588645611317,13.635001498351812,4.57275721759349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845081901:0302/pct:44.94555988412746,18.245817993928824,13.630006992308461,4.57275721759349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3301,7 +3301,7 @@ with a determined resolution to conform to its
 laws, and hereby pledge myself to avoid all  
 combinations which have for their intention th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1845121201:0180/pct:49.16211636226699,22.774869109947645,14.53586895123329,4.435718440954043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1845121201:0180/pct:49.15286144578313,22.771557365130143,14.537838855421686,4.438708739275847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3342,7 +3342,7 @@ of the circuit judge, and shall be filed
 in the clerk&#x27;s office and entered at  
 large upon the records of the court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1864032401:0535/pct:100.4118050789293,137.10715284901613,30.530770990619995,62.45453697659237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1864032401:0535/pct:33.47060169297644,45.70238428300538,10.176923663539998,20.818178992197456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3362,7 +3362,7 @@ hand and seal or the circuit judge, and sluul&#x27;
 the clerk&#x27;s office and enterted at large upon the records  
 of ths court. The circuit judge may revoke the aprvint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291050:1864050701:0010/pct:78.91811782141534,44.9585635359116,14.486846980363097,2.569060773480663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291050:1864050701:0010/pct:78.92274916635792,44.9585635359116,14.486846980363097,2.5794198895027622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3395,7 +3395,7 @@ coat shall be t&gt;ingiebroasted, with a
 stat.ding cape, and shirts of a moderate  
 length with pocket flaps. The waist
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898051801:0329/pct:14.950278105511545,64.80888075074388,13.905275577279623,4.955367360952163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898051801:0329/pct:14.96151469183662,64.81269550621805,13.905275577279623,4.955367360952163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3442,7 +3442,7 @@ ts an of thi | executive committee, with
 c ?uspicuous badges on the coat such as  
 they shall prescribe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898051801:0329/pct:14.79858419012304,69.45525291828794,14.090679251643351,17.315175097276263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898051801:0329/pct:14.809820776448115,69.45525291828794,14.085060958480813,17.318989852750438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

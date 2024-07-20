@@ -147,7 +147,7 @@ how evei necosvai v it may lie to kei |» a watchful ey e
 nvei puhlic servants A pilhlii measures, yet then  
 ought to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836080401:0009/pct:3.2713898567557105,3.9784319440396385,31.24274099883856,93.34013407169921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836080401:0009/pct:3.2707567253725567,3.977852251202098,31.241532804335204,93.33017630773715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ amongst us ought to be, who should be th fore­
 most one of the most independent (nations) of  
 jdie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1836121701:0013/pct:1.597817614964926,15.837785998081928,41.932969602494154,113.23468968351828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1836121701:0013/pct:1.2085769980506822,11.878339498561447,31.461988304093566,84.9294423893684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ of more evil tl.ac good.
 To «numerate the various rnbjecls which might  
 b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866122101:0003/pct:2.507716049382716,27.036037466264485,9.587191358024691,31.751071598666456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866122101:0003/pct:2.507716049382716,27.04000635021432,9.59201388888889,31.762978250515953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ mg of the session. ._
 With very sincere and affectionate regard, I am,  
 ever yours, GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555237:1866122901:0100/pct:0.26298487836949375,18.3875,17.077580539119,62.55/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555237:1866122901:0100/pct:0.26298487836949375,18.3875,17.0830593907517,62.55416666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,7 +1006,7 @@ MY NATIVE LAND.
 Before all lands of eaat or west  
 I love my native land the bea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529443:1867012301:0240/pct:50.74683544303797,27.60510061765292,13.240506329113924,69.27674835624626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529443:1867012301:0240/pct:50.74683544303797,27.608421332270705,13.248945147679326,69.28006907086404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1063,7 +1063,7 @@ I would fain carry my request to you furtreer than is
 ashed above, although I am seusible that your complte­  
 ance with it must add to your trouble. Sut se the recese
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0589/pct:245.40930979133228,246.1109173351936,47.19101123595506,49.36635274968027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0589/pct:81.80310326377742,82.03697244506452,15.730337078651685,16.45545091656009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1099,7 +1099,7 @@ blessings of Providence upon it and upon all those who
 are tiee supportere of ite joterests and the promoters of  
 armony, order and good government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:5.770155473633595,8.36325726862041,47.60378265747716,27.093710181860303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:1.9233851578778651,2.78775242287347,15.867927552492386,9.031236727286768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1119,7 +1119,7 @@ there ought to be limits to it, for suspicions unfounded
 and jealousies too lively are irritating to honest feelings  
 and oftentimes are productive of more evil than good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743890:1875022801:0709/pct:53.54645354645355,175.98611914401388,48.451548451548454,6.327356853672643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743890:1875022801:0709/pct:17.84881784881785,58.662039714671295,16.15051615051615,2.1091189512242146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1161,7 +1161,7 @@ the elective officers of it more congenial
 with the ideas the people have) of lib­  
 erty and safety. That is the only rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1885062401:1197/pct:325.75626620570443,212.33517652062952,57.47623163353501,14.46193109315185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1885062401:1197/pct:81.43906655142611,53.08379413015738,14.369057908383752,3.6154827732879626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1186,7 +1186,7 @@ ter in deubt; and to declino after­
 wards, Jnight be deemed as bad and  
 uncandid.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_datura_ver01:data:sn84021913:00211105987:1888070701:0518/pct:75.44677544677545,171.56464490825044,49.883449883449885,27.286734836811878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_datura_ver01:data:sn84021913:00211105987:1888070701:0518/pct:18.865358461239556,42.89116122706261,12.473285408976103,6.821683709202969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

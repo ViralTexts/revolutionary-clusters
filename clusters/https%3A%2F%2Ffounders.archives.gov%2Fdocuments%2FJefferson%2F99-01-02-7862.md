@@ -231,7 +231,7 @@ TH: J EPPERSON.
 By the President,  
 James Madison, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051301:0003/pct:59.645507007419624,20.0488683127572,18.21929101401484,37.80864197530864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051301:0003/pct:59.65237702665568,20.0488683127572,18.212420994778785,37.81292866941015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ By the Prcsident, 1
   
 JA MES MADISON, sec&#x27;ry osstate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808051301:0565/pct:46.77584442169908,30.69403714565005,23.307501096651556,35.474984448591485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808051301:0565/pct:46.76900584795322,30.691309756531012,23.308966861598442,35.47479414726616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ TH: JEFFERSON.
 By the President.  
 James Madison, Sec. of Stale
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808051601:0397/pct:59.537178832737794,12.864301053277432,17.69610345414327,35.136517026280806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808051601:0397/pct:59.52705001701259,12.862985685071575,17.69734603606669,35.13548057259714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ TH : JEFFERSON.
 * By-the President, ]  
 Jawes Mavprson, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808051701:0078/pct:42.532070861331704,6.796992481203008,16.478313989004278,38.30576441102757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808051701:0078/pct:42.54225208715129,6.803675856307435,16.478313989004278,38.30242272347535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ the thirty-second. TH : JEFFERSON.
 By the President,  
 James Madison, Sec’ry of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0021/pct:5.064695009242144,11.219756800802307,18.02218114602588,27.290961514353768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0021/pct:5.063759009425245,11.218350463775382,18.02501078050884,27.291718893624132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ TH. JEFFERSON.
 By the President,  
 James Madison, Secretary of Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051701:0168/pct:41.99248120300752,16.74852033748898,17.55639097744361,38.84901145951392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051701:0168/pct:41.98458936290171,16.74641148325359,17.559356010774916,38.848316964660455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -642,7 +642,7 @@ are too powerful to be suppressed I y the ordinary
 course of judicial proceidngs, or l,v the powers  
 vested in the Marshals, by the laws uf&#x27;the U. Stutef,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808051801:1139/pct:74.12003038743985,87.97892720306514,21.752342365155737,8.125798212005108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808051801:1139/pct:74.10126582278481,87.96488427773345,21.753164556962027,8.128491620111731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ TH : JEFFERSON.
 By the President,  
 James Madison, Sec’ry of State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808051801:1140/pct:3.7896365042536737,2.2935044105854048,22.144882701727248,19.47072975140337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808051801:1140/pct:3.788659793814433,2.293136626042335,22.14561855670103,19.471616420782553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1222,7 +1222,7 @@ United Slates to be affixed to these presents, and signed
 i the same with my hand. Given at the city of Washing,  
 i ion the 19th dayol April, 1803, and in the sovereignl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833050301:0462/pct:20.045172219085263,47.24608944701476,15.287972896668549,14.727913637365058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833050301:0462/pct:20.042342978122793,47.24088556008371,15.290519877675841,14.729962918089363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1277,7 +1277,7 @@ in the administration or execution of the Laws of
 the United States, cause the foregoing offenders,  
 and all such as aided, abetted, or assiste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851021901:0229/pct:84.7844952270755,46.81524926686217,14.752675730402082,10.72140762463343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851021901:0229/pct:84.7844952270755,46.81524926686217,14.757496866261691,10.725317693059628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1308,7 +1308,7 @@ or execution of the laws of the United States,
 cause the foregoing offenders and all such as  
 ai led, abetted or assisted them or shall he fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851022001:0427/pct:20.397819642344842,35.227038538160336,12.78569379363106,9.52119255341073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851022001:0427/pct:20.395869191049915,35.22461876631405,12.7876585707911,9.522828227320602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1336,7 +1336,7 @@ execution of the laws of the United States, cause the
 foregoing offenders, and all such as aided, abetted, or  
 assiated them, or shall be fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851022001:0170/pct:2.7215060364231634,18.57830642877372,15.367301002660119,5.819881053525913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851022001:0170/pct:2.720949263502455,18.575676058332153,15.369271685761047,5.822596630327056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1429,7 +1429,7 @@ laws of the United States, cause the foregoing offen­
 ders, and all snch as aided, abetted or assisted them,  
 or shall be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851022201:0136/pct:63.570038910505836,73.96768402154399,19.601167315175097,10.682226211849192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851022201:0136/pct:47.69704832954914,55.47576301615799,14.70969834576711,8.014875609130547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1460,7 +1460,7 @@ States, and all other persons concerned in
 the administration or execution of the  
 Saws of the United States, cause the fore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667280:1851022201:0041/pct:47.47065399664617,85.87596197374377,19.25656791503633,13.241285649615211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667280:1851022201:0041/pct:35.61643835616438,64.40697148030783,14.45345261392228,9.93662290629244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1498,7 +1498,7 @@ States, and all other persons concerned in
   
 the administration of the laws of the Uni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027066:1851022401:0040/pct:91.67854597291519,21.832386363636363,16.696364932287956,10.184659090909092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027066:1851022401:0040/pct:68.78787878787878,16.37784090909091,12.531194295900178,7.642045454545454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1557,7 +1557,7 @@ States, cause tho foregoing offenders, and all
 such us aided, abetted, or assisted them or  
 shall be fouud to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851022501:0012/pct:58.85282500429332,52.68143009605123,12.759745835479993,9.698505869797225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851022501:0012/pct:58.84271978021978,52.67440309457116,12.761847527472527,9.700546885420835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1647,7 +1647,7 @@ the United States, and all other per
 sons concerned in the administration  
 or execution of the laws of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851022601:0449/pct:13.066465256797583,69.89583333333333,56.41993957703927,43.4375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1851022601:0449/pct:3.267233238904627,17.473958333333332,14.107648725212465,10.859375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1700,7 +1700,7 @@ f Hpw hfjpp taken nnwards 33.000 in stocks
   
 The balance that is wanted will be 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn85042204:00296023085:1851030101:0038/pct:11.468023255813954,29.49460647223332,48.299418604651166,18.867359168997204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn85042204:00296023085:1851030101:0038/pct:8.605902020642535,22.123451857770675,36.226195667975,14.153016380343587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1728,7 +1728,7 @@ in the administration or execution of the laws of
 the United States, cause the foregoing offenders,  
 and all such as aided, abetted, or assisted them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851030601:0267/pct:55.088076867084,13.656996250246694,14.194205852380259,6.108150779553977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851030601:0267/pct:55.088076867084,13.663574764818105,14.199058572329792,6.108150779553977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1747,7 +1747,7 @@ spective abodes, within a limited time.—
 These words are broad enough to require  
 a proclamation in all cases where mili
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1851031901:0391/pct:31.39479905437352,87.17252773188576,14.231678486997636,2.9383998111871605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1851031901:0391/pct:31.39479905437352,87.17646133270395,14.247438928289991,2.9344662103689716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1777,7 +1777,7 @@ I tornev ot the United States, and all other
 I persons ctmcerned in the administration or  
 ; lj)e execution ot the Laws of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1851051701:0117/pct:32.263814616755795,15.077655594603787,28.490790255496137,77.73495068586328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1851051701:0117/pct:32.259022723897225,15.07594649739288,28.490271795633447,77.72897302199048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1805,7 +1805,7 @@ tire peacably to their respective abodes within a
 lmited time:  
 Now, therefore I, Ulysses S. Grant, President o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1871032501:0505/pct:293.6024371667936,276.46017699115043,50.266565118050266,5.722713864306785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1871032501:0505/pct:73.4006092916984,69.11504424778761,12.566641279512567,1.4306784660766962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1846,7 +1846,7 @@ authorities of said State, and I invoke the aid and
 co-operation of all good citizens to uphold law and  
 preserve the public peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874051601:0632/pct:7.567657868359506,154.63726059199072,46.87604410290678,12.304120719674986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874051601:0632/pct:2.522552622786502,51.545753530663575,15.625348034302261,4.101373573224995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

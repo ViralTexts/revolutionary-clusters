@@ -42,7 +42,7 @@ ter. 1 have the bonor tn be, Sir, &#x27; .
 Huomble Servant, 90t T  
 CORNWRALLEIL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111001:0041/pct:38.391224862888485,42.02059202059202,26.30879175668938,9.094809094809095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111001:0041/pct:38.39676472217606,42.02059202059202,26.303251897401807,9.101959101959102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ settle terms for the surrender of the ports of
 York and Gloucester.  
 I have the honor to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281895:1882020901:0086/pct:99.85532407407408,39.18312387791742,12.731481481481481,3.7926391382405744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281895:1882020901:0086/pct:74.90956446245116,29.38734290843806,9.549992765156997,2.850089766606822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ that two officers may be appointed
 by each side, to meet at Mr. Moore&#x27;s  
 house,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349281:1899091601:0151/pct:84.5848437769722,47.21780604133545,11.099602969100639,3.4120092943622353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349281:1899091601:0151/pct:84.5702450811184,47.212032281731474,11.102002071108043,3.414649058449499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

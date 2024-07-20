@@ -36,7 +36,7 @@ Quincy Adams, of Massachusetts, to be Minister
 Plenipotentiary from the United States to the  
 King of Prussia. “John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210156:1886031501:0124/pct:65.52896382920859,92.13098729227761,14.590698939352734,2.355816226783969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210156:1886031501:0124/pct:65.52896382920859,92.13424568263278,14.604296981234702,2.355816226783969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -56,7 +56,7 @@ chusetts, to be Minister Plenipoten­
 tiary from the United States to the  
 King of Prussia. JohN AdaM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283405:1886032501:0587/pct:349.6542185338866,76.19990103908955,42.531120331950206,9.54972785749629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283405:1886032501:0587/pct:87.42867024035968,19.04997525977239,10.634618710012104,2.3874319643740725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ I nominate John Quincy Adams, of Massachusetts,
 to be Minister Pienipotentiary from the United States  
 to the King of Prussia. JOHN ADAMs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:0017503822A:1888040801:0371/pct:101.66426628260521,254.06544647809207,47.01552248359737,12.856350526899611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:0017503822A:1888040801:0371/pct:33.888088760868406,84.68848215936403,15.671840827865791,4.285450175633204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ chusetts, to be Minister Plenipotentiary from
 the United States to the King of Prussia.  
 “John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888041401:0356/pct:74.70641373080397,57.251802551303385,15.916892502258357,1.913477537437604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181971:1888041401:0356/pct:57.90161486044992,44.37081348282408,12.33081303089704,1.490131461116882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ minister plenipotentiary from the United
 States to the King of Prussia.  
 &quot;JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:0028065498A:1895021601:0539/pct:69.99828561632093,70.12125079770261,14.006514657980455,2.9738353541799616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:0028065498A:1895021601:0539/pct:70.01114349391393,70.12125079770261,14.002228698782787,2.97702616464582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ tentiary from the United States to the
 King of Prussia.  
 * JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896111501:0556/pct:22.855781448538753,89.52521917340316,13.961245235069885,2.413753842650575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896111501:0556/pct:22.861075815332487,89.52521917340316,13.955950868276155,2.4213442635394133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ Quincy Adams 01 Massachusetts to be Minis­
 ter Plenipotentiary from the United States to  
 the King of: Prussia. ;; John Adams. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037470:1896121301:0197/pct:29.264027976474328,90.19241982507289,13.384199650294072,1.5510204081632653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037470:1896121301:0197/pct:29.264027976474328,90.19241982507289,13.389498224977482,1.5587949465500486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ achusetts to be minister plenipotentiary
 from the United States to the king of  
 Prussia. John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1897021301:0981/pct:82.41359556998282,72.97335007674062,12.373496276494176,13.506348541928283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1897021301:0981/pct:82.39786177930507,72.96316964285714,12.37590683466972,13.507952008928571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

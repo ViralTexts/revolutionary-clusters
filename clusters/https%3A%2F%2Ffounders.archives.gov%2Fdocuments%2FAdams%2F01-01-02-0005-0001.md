@@ -202,7 +202,7 @@ owing to the unnecessary increase of
 licensed houses.&quot; He also applied to the  
 &quot;Court of Sessions,&quot; to restrain this evil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1865032401:0877/pct:7.740916271721959,68.52254603450776,17.180094786729857,6.089604175728578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1865032401:0877/pct:5.809128630705394,51.399159054661446,12.90258842126062,4.5672031317964334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ drams, grog, and sottiug were not dimin
 ished, utid remain to this day as deplora  
 We as ever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1865032401:0877/pct:8.4913112164297,81.22372045817022,16.666666666666668,5.973611715238509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1865032401:0877/pct:6.382137917407627,60.92503987240829,12.507409602845287,4.480208786428882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ From the Pastoral Letter of the Catbo­
 11c Arekblalioiis and ltisltop*, U.  
 Assembled In the Third Plenary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623021:1886071601:0274/pct:19.88207112585222,20.9928481278923,12.179841533075363,18.384518300378627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623021:1886071601:0274/pct:19.891284319145015,21.00336558687421,12.179841533075363,18.388024120039265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ the multh-lication of taverns will make
 many, who may be induced by flip and  
 rian to wote for any man whatever. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285037:1886090301:0614/pct:173.86051619989016,280.6282722513089,204.2833607907743,69.10994764397905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285037:1886090301:0614/pct:43.471097075381024,70.15706806282722,51.07785253329672,17.277486910994764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ to in the title of the book are the settlement of
 Boston Bay, the Antinomian controversy, and  
 a study of Church and town governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044905:1892101601:0762/pct:71.43962848297214,175.17366354575657,50.85139318885449,7.490184234370281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044905:1892101601:0762/pct:17.8702807357212,43.79341588643914,12.72023233301065,1.8725460585925702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ The Settlement of Boston Bay. The Antinomian
 Controversy. A study of Church and Town Gov-­  
 ernment. By Charles Francis Adams. Two Vo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038589:1892102301:0744/pct:5.895802711089336,14.95358461022257,48.456638902498774,10.26730790739291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038589:1892102301:0744/pct:1.9652675703631117,4.984528203407524,16.15221296749959,3.42243596913097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

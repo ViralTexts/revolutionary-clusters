@@ -352,7 +352,7 @@ rc?u&amp;audy complied with on the 23d, and
 with M. Z. called on M. Talleyrand, who  
 not being then at his office, appointed th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041901:0484/pct:60.25143566661493,26.978840125391848,16.389880490454757,5.965909090909091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041901:0484/pct:60.25143566661493,26.982105538140022,16.400227637229033,5.969174503657262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ amounting to a declaration of war againfl
 Great Britain,we were expressly forbidden by  
 our intfruition to take such a step
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798060601:0003/pct:55.294705294705295,32.298832186850106,15.959040959040959,9.630459126539753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798060601:0003/pct:55.307192807192806,32.31083026715726,15.965284715284715,9.634458486642137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ grecable to the Directory : if it was not, we
 would wait some tinie, in the expectation of  
 receiving iafl ruCtions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798060601:0003/pct:72.25274725274726,60.934250519916816,15.834165834165834,3.0235162374020157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798060601:0003/pct:72.27147852147853,60.934250519916816,15.84040959040959,3.0435130379139337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ i on him; but that according to the cuftcin
 | from a previous acquaintance in America. This &#x27;  
 Mr Gerry rebnSiantly complied with on the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798090401:0002/pct:42.19954648526077,77.73371104815864,17.755102040816325,4.15014164305949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798090401:0002/pct:42.2108843537415,77.74079320113314,17.755102040816325,4.15014164305949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ cate; he was ordered to ascend the steps, and
 place himself close to the ear of the ever wil­  
 ling listener. In a few moments, the master
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1844113001:0911/pct:74.18622255866768,158.66080295077316,59.04617713853141,21.676833593417506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1844113001:0911/pct:18.557091459950765,39.66520073769329,14.769929937511835,5.419208398354376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

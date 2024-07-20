@@ -92,7 +92,7 @@ western terrritorv together,at the same time that
 it will give vigor 8c increase to our commerce,  
 and lie a convenience to our citizens.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:42.541160818227176,46.600660066006604,17.661732912023947,28.32783278327833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:42.53408713002993,46.59553404465955,17.664338765103647,28.32838338283284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ time that it will give vigor and increa; e to our
 commerce, and be a convenience to our citi­  
 zens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826061501:0101/pct:40.809836760652956,47.17518144300555,17.19313122747509,26.284331862814856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826061501:0101/pct:40.80118694362018,47.168468981217984,17.19478592623993,26.284149117814458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ gifts are made in other countries,
 should I not thenceforward be con­  
 sidered a dependent?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_goldfield_ver01:data:sn84020345:00416150461:1871031901:0038/pct:24.350649350649352,150.89300617593057,66.66666666666667,33.71724253046236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_goldfield_ver01:data:sn84020345:00416150461:1871031901:0038/pct:6.087662337662338,37.72325154398264,16.666666666666668,8.42931063261559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ sidered a dependent?
  How would this matter be viewed by the eye of the world, and what  
 would be its opinion when it comes to be related that George Washingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872060101:0241/pct:199.8221216041397,114.47186346863468,46.92755498059508,2.6752767527675276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872060101:0241/pct:66.60737386804657,38.15728782287823,15.642518326865028,0.8917589175891759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ he wrote:--&quot;How would this matter be viewed by
 the eye of the world, and what would be its opinion  
 when it comes to be related that George Washing-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:199.83792544570503,106.6010753918316,45.78606158833063,3.9812378446402015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:66.61264181523501,35.5336917972772,15.262020529443545,1.3270792815467338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ when it comes to be related that George Washing-
 eye of the world, and what would be its opin­  
 ion when it comes to be related that Georg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556527:1872061501:0094/pct:91.01654846335697,210.65420560747663,39.30260047281324,3.317757009345794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556527:1872061501:0094/pct:22.76086313922554,52.66355140186916,9.828554537392847,0.8294392523364486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ that George Washington accepted 4&gt;20
 of the world, and what would be its opin on when  
 it comes to be related that George Washingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872062001:0336/pct:210.59013742926436,97.51243781094527,48.34276475343573,4.0876697593115505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872062001:0336/pct:52.658176672730946,24.378109452736318,12.08813422276127,1.0219174398278876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ a dopondent. In harmony
 Igeeltel lt   
 with this sentiment was his subsequent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872062001:0336/pct:210.75181891673404,101.54632244184484,48.74696847210994,22.80489444668549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872062001:0336/pct:52.69860521528199,25.38658061046121,12.189205579138871,5.701223611671373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ by the eye of the world, and what would be
 the opinion of it, when it comes to be re­  
 lated that George Washington has receive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1873082901:0563/pct:176.31027253668762,351.88825659596483,38.7141858839972,17.02017589239524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1873082901:0563/pct:44.077568134171905,87.97206414899121,9.6785464709993,4.25504397309881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

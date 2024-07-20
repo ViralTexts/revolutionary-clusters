@@ -112,7 +112,7 @@ intersect an east and west line, drawn
 through a point ten miles north of tlie  
 southern extreme of lake Michigan : o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816080301:0247/pct:57.0223752151463,15.169115134950461,16.57487091222031,8.780321147933037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816080301:0247/pct:57.0125623816899,15.167387838761103,16.57775483278839,8.783116981705003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ Indiana, drawn through a point ten
 miles north of the southern extreme  
 of Lake Michigan, and shall be an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82016416:00271744730:1836032601:0328/pct:11.652391149179158,43.52498656636217,19.700214132762312,17.262224610424504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82016416:00271744730:1836032601:0328/pct:8.746876115672974,32.64373992477163,14.780435558729025,12.950026867275659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ of Lake Michigan, and shall be an
 north of the southern extreme of Like Mjclr ^  
 igan, and aball be and forever remits th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863079:1836070901:0091/pct:58.89808132371061,8.52359208523592,40.274599542334094,88.88888888888889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863079:1836070901:0091/pct:58.90394883529895,8.52359208523592,40.274599542334094,88.89279163251766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ State of Indiana, drawn through a point
 ten miles north of the southern extreme  
 of Lake Michigan, and shall be and for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836071301:0487/pct:48.69902195977117,54.292862786410325,14.578335486252076,1.7118777982617857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836071301:0487/pct:48.70517315617888,54.292862786410325,14.59063787906748,1.7206566587656922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ until the same shall intersect an cast and west line,
 drawn through a point ten miles north of the southern  
 extreme of Lake Michigan; on the North, Hy said eas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191629:1851030601:0061/pct:105.82576162479957,93.42732738959154,19.147514698022448,8.189923284262907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191629:1851030601:0061/pct:79.4011495789333,70.07049554219365,14.369736666221094,6.147625958946714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ until the same should intersect an east and west
 line drawn through a point ten miles north of  
 the southern extreme of Lake Michiganon th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898071001:0530/pct:227.82475019215988,10.069498069498069,103.38201383551115,379.18146718146716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898071001:0530/pct:56.978085351787776,2.5173745173745172,25.855440215301808,94.79536679536679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

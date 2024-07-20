@@ -144,7 +144,7 @@ being, in my opinion qualified to fill the offices
 opposite to their names in the first.  
 * G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834052301:0497/pct:60.94620868438108,11.989004167775118,18.366817887232664,10.321894120776802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834052301:0497/pct:60.938310005184036,11.98794112431282,18.368757560048383,10.323934503753621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ baa viv«led them annually fur the last (wen
 ty years, and in two instances bat visited  
 tbom twice in the same year, makingybrf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1834060501:0092/pct:2.0586297760210805,36.216853270477316,13.817523056653492,20.2121390689452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1834060501:0092/pct:2.0582907953235634,36.21258543483384,13.820736593665954,20.21368528556839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ tions.
   
 Resolved, That hy (he charter of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1834061901:0350/pct:49.540600943630494,33.11258278145695,14.99875838092873,23.48155156102176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1834061901:0350/pct:49.528301886792455,33.106318577374196,15.00124131082423,23.48183881952327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

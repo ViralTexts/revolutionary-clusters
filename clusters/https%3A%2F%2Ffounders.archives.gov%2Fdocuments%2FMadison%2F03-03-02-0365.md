@@ -90,7 +90,7 @@ able period, been greatly abridgcd and
 annoyed, byedietssiqf theþellctigerent pow­  
 ers ; each professiigsi&#x27;mtaliafion siqply 0&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811061901:0546/pct:74.75889590954439,84.47223029950567,22.78017958097772,8.277600077541921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811061901:0546/pct:74.74646716541979,84.4640434192673,22.7819340537545,8.28002842928216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ dervaluing. _
 I tender you my rcspeets and my friend­  
 ly wishes. JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811061901:0547/pct:2.535631421942327,7.024833317228718,45.227046735167384,85.71842690114987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811061901:0547/pct:2.535211267605634,7.024154589371981,45.2250759458713,85.7133655394525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ cemmeTce,and that weN&#x27;no Weisare whatever on.■&gt; *
 posed tptbe belligerent act! against our eommer&amp;f*  
 UWouldaot only remain m «ets&amp; mhio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062101:0581/pct:72.82528791962754,28.993986673167562,23.768684146042638,68.06435884934179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062101:0581/pct:72.80744732974033,28.9892752681183,23.768985791278784,68.05736106597335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ is* SP1**.
 Tbe vie# of our afpption presented to your putfi.  
 J&quot;©tic reflections, has been suggested by that contain&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062101:0582/pct:3.8779084313234926,3.5918367346938775,22.66700025018764,8.914285714285715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062101:0582/pct:3.8769384692346174,3.5912504080966374,22.667583791895947,8.916911524649036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ and with Use legitimate modes of seeking a revisa
 ©f them. In the mode which the town of New-Ha&#x27;  
 wen has employed, I witness with satisfaction, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062101:0582/pct:3.9029271953965474,12.424489795918367,22.641981486114584,7.559183673469388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062101:0582/pct:3.9019509754877437,12.422461638916095,22.64257128564282,7.562030688867123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ devaluing. ^
 1 tender you my respects and my friendly wishes  
 \ JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062101:0582/pct:4.428321240930698,19.90204081632653,22.116587440580435,4.2122448979591836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062101:0582/pct:4.427213606803401,19.89879203395364,22.117308654327164,4.215638263140712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ del*valuing.
 ly wishes,  
 .. . JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811062101:0057/pct:59.90108078402638,4.0873941328096235,36.819930390181355,92.45120903400024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811062101:0057/pct:59.89010989010989,4.086892488954344,36.81929181929182,92.44395352642775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -808,7 +808,7 @@ modflhich the town of 24ew-H»vcn hau cm­
 ploycflfl witness with sati« faction that inns  
 ercisirig the right of freemen, the obligation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811062401:0212/pct:76.65929203539822,12.33988585922638,19.04498525073746,86.07482561826252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811062401:0212/pct:76.64516129032258,12.338321075323357,19.047619047619047,86.06813762786372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ do the fapne, ‘our ports should be fhut_
 .to the veflels and merchandize of the  
 Aatter. . ‘This provision, which like al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811062501:0102/pct:40.53718366713243,62.00396825396825,16.860735910572892,24.702380952380953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811062501:0102/pct:40.53718366713243,62.00727513227513,16.87108627024789,24.702380952380953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -998,7 +998,7 @@ New Havenhas employed, T witness
 @%‘ﬁfgﬂ F freemen, the obligation  
 “of Citizeps bas pot keen forgorten 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811062501:0102/pct:58.03446669771775,3.1646825396825395,16.752057133985407,86.54761904761905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811062501:0102/pct:58.04481705739274,3.1712962962962963,16.746881954147906,86.55092592592592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ should fail to do the same, ur ports should
 be shut to the ve-«sel.i and merchandize  
 nt die latter.”—- his partiality 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811062501:0061/pct:42.17846820809248,61.92509454678541,17.395231213872833,7.368549469318043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811062501:0061/pct:42.17085064114141,61.91754086362528,17.398109686352417,7.371716678864764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1044,7 +1044,7 @@ of the French government has been am.
 will be such as to satisfy the authorised ex  
 pec.tations of the U. States.”—Their pri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811062501:0061/pct:60.33236994219653,18.75076247407588,17.30491329479769,2.9035012809564473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811062501:0061/pct:60.321473722232255,18.748475237862895,17.307808078983808,2.9072131414166056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1068,7 +1068,7 @@ speedily convened.
 It 15 known to ally that the Commerce of  
 the United States has, for a considersble pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811062601:0433/pct:4.7373509506928775,92.03199052132702,21.93038994521431,5.687203791469194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811062601:0433/pct:4.742722096895477,92.03528172722486,21.92501879901171,5.690494997367035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1196,7 +1196,7 @@ ry to their effect at home and abroad, as it is
 consistent with the right, and with the legiti­  
 mate modes, of seeking a revisal of them. In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811062601:0433/pct:20.77022236545279,12.766587677725118,29.745407669996776,84.99210110584518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811062601:0433/pct:20.780964657857986,12.766587677725118,29.745407669996776,84.99210110584518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,7 +1224,7 @@ have endeavoured by successive and varied
 vegulations affecting the commerce of the  
 parties, to muke it thelr luterest to be just,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811062601:0433/pct:28.843055107960037,2.9028436018957344,21.737028681920723,9.843996840442339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811062601:0433/pct:28.853797400365238,2.9061348077935754,21.74239982812332,9.843996840442339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1262,7 @@ wishes,
   
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811062601:0433/pct:28.35965194972607,2.9818325434439177,45.375443119561716,85.51540284360189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811062601:0433/pct:28.370394242131272,2.9851237493417586,45.37007197335912,85.51869404949974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1280,7 +1280,7 @@ JAMES MADISON
 derable pet iod, been greatly abridged, and annoyed  
 by edicts of the belligerent powers.&quot;—This is true ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062601:0587/pct:28.465227817745802,54.427125180780976,21.103117505995204,2.9567732604852965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062601:0587/pct:28.458403260608968,54.41838046272493,21.104051786142414,2.960314910025707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1308,7 +1308,7 @@ became sbot to British ships find, merchandise.&quot;
 \Vjits it the duty of the President, because the French  
 government declartd that their decreet were revok
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062601:0587/pct:28.513189448441246,60.5817130001607,20.719424460431654,9.464888317531738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062601:0587/pct:28.50635339247183,60.5719794344473,20.72045073123951,9.467384318766067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1649,7 +1649,7 @@ then imposed by Mr. Bull, “but new motives
 would be given for prolonging and invigo­  
 rating themdeter mined to teach Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811071201:0081/pct:5.782999816412704,71.50810342694544,17.624380392876812,2.857849808239515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811071201:0081/pct:5.78193832599119,71.4992577931717,17.627263827704358,2.8616196602342074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1762,7 +1762,7 @@ fame, vur pores fthould be shut to the
 villils and merchandize of the latter.”  
 — [s this par¥laviTY 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811071601:0114/pct:41.81344769489968,19.652105931789308,16.52626742226987,9.254373106615851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811071601:0114/pct:41.823658549037624,19.652105931789308,16.52626742226987,9.264145411902668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -2430,7 +2430,7 @@ of the ngutral nation found on board ene­
 mies ships to capture and condemnation,  
 must of courle be abolithed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:24.375,56.317547651797994,16.6875,8.508547848300255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:24.385416666666668,56.320822689460925,16.682291666666668,8.508547848300255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2469,7 +2469,7 @@ accommodation are due to the public‘thips
 of all pations on the principles of hospitality  
 among friendly nations. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:59.671875,47.83847514246414,16.640625,14.325014737669484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:59.671875,47.84175018012707,16.65625,14.328289775332417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2508,7 +2508,7 @@ the total loss of veflels and cargoes. The
 25th article of the Britith Treaty, demands  
 attention ; as it is therein flipulated, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:59.640625,63.961485557083904,16.6875,14.600117901355866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:59.645833333333336,63.96476059474684,16.6875,14.603392939018798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2603,7 +2603,7 @@ Southern States, which have but few native
 seamen.  
 The marine ordinances of France wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:77.15625,23.069365297700923,16.515625,47.04264099037139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:77.16666666666667,23.069365297700923,16.510416666666668,47.05246610336019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2622,7 +2622,7 @@ other. The 27th fays, that afier the exhie
 bition of the passport, the veflel shall be ale  
 lowed to pals without molestation or search
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:77.1875,76.15445077618392,16.140625,3.016309687561407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:77.1875,76.15772581384685,16.145833333333332,3.013034649898474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2640,7 +2640,7 @@ quires that besides the passport, veflels shall
 be furnifhed with certain certificates, which  
 of course must also be exhibited. 1t will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:77.15625,79.6227156612301,16.21875,2.249950874435056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:77.16666666666667,79.6227156612301,16.21875,2.2597759874238554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2665,7 +2665,7 @@ French !ainiﬂer to &#x27; horses, ‘which by the
 ~a letter from the Minister to ViQtor Hugues  
 ~and Lebas, informing themm, that the Ame. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:77.15625,87.414030261348,16.953125,6.740027510316368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0491/pct:77.16666666666667,87.42058033667386,16.953125,6.7465775856422345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2706,7 +2706,7 @@ France there thall subsist u pesfe@ recipro­
 city in refpeél to commerce, we mauft en­  
 &quot; zavour to extend our trade to her colonie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0492/pct:5.893416927899686,8.409291384886798,17.31974921630094,15.554248750367538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0492/pct:5.898641588296761,8.41255839785684,17.324973876698014,15.55751576333758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

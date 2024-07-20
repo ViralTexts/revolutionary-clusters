@@ -359,7 +359,7 @@ from our own ports, beyond life amount of one
 own consumption, Ave should make every sacri­  
 fice shod of* cowidtlc ubtUidonniciit of aur pi in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808042901:0463/pct:59.70494134376111,1.539029795616843,34.98044792036971,92.452597882295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808042901:0463/pct:59.694330904567266,1.5388403299273667,34.98015520407559,92.44531987360992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ ot the trihuin Is which ndinitiisterit in cases of
 ledge, «nd parte&#x27;.uhirly some, whic!, have been  
 laUJy Ua.wm t.cd to Mr Monroe, are ample and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808042901:0464/pct:5.438282647584973,2.0618556701030926,18.389982110912342,82.89150711831124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808042901:0464/pct:5.4373099624396355,2.0616026506319796,18.392654861980564,82.88542561459484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ tlie W. Indies, the impressments have per­
 haps at no time been more numeroua &amp; tcx­  
 atioua.” i lie letter from tlie Secretary o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808090601:0151/pct:23.60452389638818,60.48632218844985,17.219992703392922,5.293819655521784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808090601:0151/pct:23.600218858289256,60.478662783335444,17.222931485196668,5.297370309400194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ pose, must differ essentially from the
 past, both in their tenor and their  
 sanctions.1&quot; His exposition was the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031701:0001/pct:42.4119789558883,58.06535947712418,17.239983812221773,8.915032679738562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031701:0001/pct:42.4119789558883,58.074074074074076,17.239983812221773,8.910675381263616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ an article, subject to so many diffieul­
 | ties; still, that his majesty&#x27;s commis­  
 sioners are instructed lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031701:0001/pct:76.95265074868475,52.77124183006536,17.422096317280452,4.104575163398692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031701:0001/pct:76.95265074868475,52.77995642701525,17.435586132469986,4.1002178649237475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ There is nought in the popositions of the last
 administration which indicates either a dis­  
 position to entrench on the privileges of G
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809112801:0237/pct:56.2523469770935,29.02589395807645,17.630491926398797,12.120838471023427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809112801:0237/pct:56.24178712220762,29.022315374183208,17.633439709655217,12.123453745941726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ as will he a satisfactory security against tu
 ture causes of complaint&quot;  
 But now. when the President.has th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811052401:0025/pct:41.643735094478075,4.845869297163995,35.993395707209686,92.68803945745992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811052401:0025/pct:41.63609684519442,4.845271853039082,35.99290780141844,92.68072165372128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -806,7 +806,7 @@ It further appears that the British ministry called for an
 interview with Messrs. Monroe, and Pinkney, on this topic ;  
 that they stated the nature of the claim, the King&#x27;s prer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:5.149501661129568,20.148926850635128,29.686758424299953,12.133158125273763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812071701:0278/pct:5.148279952550415,20.145985401459853,29.68564650059312,12.135036496350365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ President thinks it more eligible, under all circumstances, that it no fatisfact
 ry or formal Ripuiaiion on the {ubjed of impressment be atuainable, the nego:|  
 tiatton be made to termioate without aay formal compa&amp; whatever.” And
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812091001:0363/pct:4.637901539631248,17.07815694291555,41.81714502946208,4.701997169366252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812091001:0363/pct:4.637901539631248,17.088640771609793,41.81714502946208,4.707239083713372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ curred in sentiment, that under the circum­
 stances of the nation, the relinquishment of  
 the right ^that is of imp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812091201:0840/pct:76.87095316970336,28.140293637846657,21.307032073482908,19.485227478702193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812091201:0840/pct:76.85937970490816,28.13774354327141,21.30884271805681,19.486482404470625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -984,7 +984,7 @@ liberal discussions anil explanations, that itt
 practice each party will on* ir. ly euufurin to w hat  
 i Way lie thur informally settled.,f &#x27;■ ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813101301:0639/pct:7.439490445859873,28.82882882882883,22.21656050955414,16.330876330876333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813101301:0639/pct:7.4375955170657155,28.824107435309532,22.217269485481406,16.33229610219456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1033,7 +1033,7 @@ know that no recent causes of complaint have occurred,
 pud that no probable inconveniences can result from tiie  
 postponement of an article subject to so many difficul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813112701:0680/pct:3.4050179211469533,59.85473753714097,21.863799283154123,1.799273687685705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813112701:0680/pct:3.404146403890453,59.84485888760521,21.864601996416688,1.8031028222478958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1715,7 +1715,7 @@ demanded their liberation. By this prompt ami
 efficient action, we have witnessed the restoration ol  
 these captives from imprisonment, and they are no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842091901:0274/pct:66.8379637064397,34.20963556357892,17.23141159466838,5.663996389484374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842091901:0274/pct:66.8379637064397,34.217157471134676,17.2474706921471,5.6677573432622514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1741,7 +1741,7 @@ these captives from imprisonment, and they are no
 &quot; The turn which the negotiation has taken was not ex­  
 &quot; pected, and exacts as much of regret as of disappoint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853090301:0734/pct:1.8694196428571428,41.149919398173026,15.876116071428571,1.1499193981730254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853090301:0734/pct:1.8694196428571428,41.15708400501522,15.890066964285714,1.1535017015941251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1765,7 +1765,7 @@ these captives from imprisonment, and they are no
 &quot; made to terminate without anv formal compact what­  
 ?&#x27; ever.&quot;] * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853090301:0734/pct:1.8833705357142858,42.568511552928534,16.085379464285715,4.889844169801182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853090301:0734/pct:1.8833705357142858,42.57209385634963,16.085379464285715,4.889844169801182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

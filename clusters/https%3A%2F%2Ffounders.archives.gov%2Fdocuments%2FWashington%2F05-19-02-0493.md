@@ -395,7 +395,7 @@ stated by Pi esident Washington in his answer to this
 unprecedented demand, “ The nature (says he) of  
 foreign negotiations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806041501:1060/pct:26.223862238622385,22.16017868538609,21.52521525215252,13.305679642629228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806041501:1060/pct:26.217412690605016,22.15664380283937,21.526069847515988,13.307545063008455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ their own citizens, or from prohibiting the ex­
 portation of any species of goods or commodi- &#x27;  
 ties whatever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1846090801:0553/pct:65.90395905464399,22.41785239021394,15.188920668372724,7.9639676527792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1846090801:0553/pct:65.90395905464399,22.4246766983997,15.193938481609715,7.9639676527792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ er to regulate commerce was conferred upon
 the federal Congress. The remedy, however,  
 was not intended to extend beyond the danger
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854020101:0124/pct:17.724583109198495,51.86382245205775,13.152232383001614,6.356388709329885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854020101:0124/pct:17.724583109198495,51.867413632119515,13.161197776582393,6.359979889391654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ was in direct violation of iW first and
 fourth sections of the Constitution, the  
 former of which declares that “ all men ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1858072401:0400/pct:4.8869540794832185,16.424496824884297,12.329728970650189,2.7553546442794103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025090:00279557463:1858072401:0400/pct:4.8869540794832185,16.424496824884297,12.343771942142958,2.762530046998888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ on its face and it terms excepted from its
 demand upon the President any paper  
 whatever which might touch auy unfinishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341760:1886032401:0088/pct:26.722463010013453,51.90029869193532,11.732177551935436,9.362447213925224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341760:1886032401:0088/pct:26.718469814704125,51.89495365602472,11.735405459254832,9.364915894267078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

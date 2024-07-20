@@ -96,7 +96,7 @@ earnestly deiire the continuation of an intereit in
 yonr interceflions at the Throne of Grace.  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789052001:0004/pct:42.690582959641254,6.343141001146351,53.45291479820628,87.17997707298433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789052001:0004/pct:42.690582959641254,6.343141001146351,53.460388639760836,87.19430645777608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ gtrong assurances of their affection for my ‘mr- ‘
 son, confidence in my integrity, and zeal to  
 support me in my endeavors for the welfare o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:57.45899505337152,42.314891846921796,12.509763082530592,5.4700499168053245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:57.463334201162894,42.318358291736,12.522780525904713,5.4700499168053245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ my person, confidence in my integrity, and zeal to
 support me in my endeavors for promoting the wel­  
 fare of our common country.&quot; Writings of Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855121401:0416/pct:26.422115895800108,102.9181917103571,20.148856990962255,7.082797507171827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855121401:0416/pct:19.82185588939112,77.18864378276783,15.115660728529646,5.31209813037887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ existence, I shall earnestly desire the continu­
 al ion of an interest iv your intercessions at a  
 Throne of Grace. v. W.vsmxuroK.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175036659:1891022201:0478/pct:18.35187872923722,53.791804050871406,12.159329140461216,16.439001413094676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175036659:1891022201:0478/pct:18.359941944847606,53.79769194536034,12.151265924850831,16.439001413094676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ all the vicissltuilos that may await mo in this
 mntnblo existence , I shall c.nnestly desiio  
 the continuation of an interest in jour intor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539112:1891022201:0029/pct:26.701030927835053,68.0951101558302,32.560137457044675,59.72595378828587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539112:1891022201:0029/pct:20.041251289102785,51.07133261687265,24.424200756273635,44.80118216012896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

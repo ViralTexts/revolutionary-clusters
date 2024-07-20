@@ -178,7 +178,7 @@ the laws have left between God and himself—
 Accept my affectionate salutations:  
 TH JEPFEKSOy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827032401:0277/pct:20.761186353505913,4.271912466534745,37.45928338762215,90.9556512629496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827032401:0277/pct:20.757627699691465,4.271415270018622,37.45857616272426,90.94894475481068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ the laws have left between God and himself—
 Accept niv alVectionate salutations :  
 ~th. jiitki^o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827040301:0273/pct:37.452711223203025,53.307615373624806,15.153425809163513,28.21831690241463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827040301:0273/pct:37.44484135322547,53.3,15.155494851859634,28.21785714285714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ lelt between God and himself.
 Accept my affectionate salutations:  
 Til. J RFPERSON&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827041301:0080/pct:59.9000624609619,4.848770154172061,35.868207370393506,91.70295398375897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827041301:0080/pct:59.89071038251366,4.848199576370911,35.86781160551652,91.69608535341649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ have left between God and himself. = Accept
 my affectionate salutations. - ,  
 THOS: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835101301:0161/pct:62.6513226722463,21.90241814680077,14.213122104319234,30.900920179756046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835101301:0161/pct:62.6513226722463,21.905984735002498,14.218103920689483,30.90448676795777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,9 +618,9 @@ ence to all others; ascribing to himself every human excel-
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_april-may-1840_7_28-29/page/n23/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_april-may-1840_7_28-29/page/n23/mode/1up?view=theater)
 
-#### 1840-04-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1840-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -646,7 +646,7 @@ country was then laboring, the Christain religion was our topic.” I
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1850-11_12_35/page/n40/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1850-11_12_35/page/n40/mode/1up?view=theater)
 
 #### 1850-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -748,7 +748,7 @@ sincerely attached to his doctrines in­
 preference to all others.&#x27; &quot;  
 Counterfeiting postoffice orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665805:1873073101:0315/pct:110.3355302576393,27.93198299574894,14.215098861593768,4.3760940235058765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665805:1873073101:0315/pct:82.77153558052434,20.955238809702426,10.666666666666666,3.2758189547386847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ ascribing to himself every human excel­
 lence; and believing he never claimed  
 any other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1875021801:0031/pct:75.81168831168831,116.87313114053823,50.243506493506494,16.004556457354408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1875021801:0031/pct:18.96446700507614,29.21828278513456,12.568527918781726,4.001139114338602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ not an infidel, then was not Tom Payne;
   
 which are very reasonable, when the large cir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1881050601:0144/pct:24.06015037593985,41.2515785042795,98.94736842105263,34.57275150834853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1881050601:0144/pct:6.015037593984962,10.312894626069875,24.736842105263158,8.643187877087133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -848,7 +848,7 @@ of Jesus himself. I am a Chrisliiin
 tho only sense in which he wished any  
 one to uo; suicoreiy tuuu unu w mo u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774868:1884061201:0176/pct:31.81019332161687,58.839190628328005,18.321616871704745,9.345047923322683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774868:1884061201:0176/pct:23.862887277521423,44.129392971246006,13.755218633267413,7.015441959531416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -878,7 +878,7 @@ never claimed any other.&quot;
   
 He then draws a parallel between th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478726:1888062801:0645/pct:9.239033124440466,8.275409836065574,31.584601611459266,100.68196721311476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478726:1888062801:0645/pct:8.0944174630529,7.240944038557166,27.64113008512194,88.10006502696706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -941,7 +941,7 @@ human excellence, and believing he
 never claimed any other.&quot; There is  
 no other character in our early Ameri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291128:1891052201:0162/pct:44.13416075650118,42.62765347102697,9.722222222222221,4.188181296615031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291128:1891052201:0162/pct:44.13416075650118,42.636259323006314,9.722222222222221,4.188181296615031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -985,7 +985,7 @@ him every human excellence, and believ­
 ing he never claimed any othet.” And  
 ! so Voltaire, Rousseau, Kant and others
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016159:1892072101:0323/pct:1.728110599078341,42.992741485203794,11.751152073732719,6.141820212171971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016159:1892072101:0323/pct:1.7277788443079285,42.986741102581995,11.753695526972548,6.144452198185625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1068,7 +1068,7 @@ sense in which He wished any one to
 be—sincerely attached to his doc­  
 trines In preference to all others.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1894090701:0298/pct:82.92203537890369,38.33784698713609,10.526315789473685,3.199052132701422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1894090701:0298/pct:82.90393013100437,38.33135894398375,10.529475982532752,3.202741580639702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1137,7 +1137,7 @@ ers, ascribing to himself every human ,
 excellence, and believing he never claim-.  
 ed any other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899062501:0410/pct:36.71442526864214,80.54143646408839,14.685770107456854,6.983425414364641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899062501:0410/pct:36.71442526864214,80.548802946593,14.696624335178551,6.979742173112339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

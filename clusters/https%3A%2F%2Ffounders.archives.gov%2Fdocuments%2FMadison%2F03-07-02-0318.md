@@ -313,7 +313,7 @@ ted authorities, are destructive of this funda­
 mental principle [i. e. of republicanism] Sc ar«  
 of fa*ai tendency. They serve to organize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827033101:0301/pct:20.597724571234505,35.09237875288684,18.305314994056715,4.330254041570439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827033101:0301/pct:20.594227504244483,35.088326983027365,18.307866440294283,4.333602740253243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ that respect for Its authority, and compliance ]
   
 with its laws, are duties enjoined by the funda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833012201:0200/pct:8.469945355191257,4.1845625230089585,35.58743169398907,91.67996073137809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:0041421647A:1833012201:0200/pct:8.468499231688577,4.184049079754601,35.58704683854078,91.67280163599182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ upon full investigation and mature delibera­
 tion, complotely free in its principles, in the  
 distribution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295875045:1844030901:0039/pct:51.68663303909206,184.40026954177898,37.216267339218156,8.389487870619947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295875045:1844030901:0039/pct:17.22887767969735,61.46675651392633,12.405422446406053,2.7964959568733154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ you duly appreciate these great utterances
 of the Father of your country-that it is  
 with you a conviction, that your govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862080901:0903/pct:127.72543741588156,55.09761388286334,48.99057873485868,30.15184381778742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862080901:0903/pct:31.936732290089182,13.774403470715836,12.249705535924617,7.537960954446855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ their enemies, giving them aid and com­
 fort.&quot; The House, under suspension of the  
 rules, passed a resolution which assume
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665623:1896091301:0133/pct:41.04212253829321,83.6778180268485,16.862691466083152,5.5188578734285105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665623:1896091301:0133/pct:30.789221720694844,62.763690603025786,12.652167966078512,4.133816322181973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

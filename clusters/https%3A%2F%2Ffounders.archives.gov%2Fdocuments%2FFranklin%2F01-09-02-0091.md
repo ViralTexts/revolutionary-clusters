@@ -331,7 +331,7 @@ The gentleman in question is not of Hebrew origin.
 G. P. E.—Hortense Catherine Schnei­  
 der, the famous opera bouffe prima donna, was born i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110235:1876051401:0004/pct:6.417410714285714,69.6816114359974,12.183779761904763,5.198180636777128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110235:1876051401:0004/pct:6.417410714285714,69.68486029889539,12.193080357142858,5.201429499675114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ the Jordan divided for the millions of Israe
 Ghost, returned from Jordan.” This lesson  
 seems to follow immediately the last one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890022201:0040/pct:46.41165116687138,10.026773761713521,9.75609756097561,1.0843373493975903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890022201:0040/pct:46.40350877192982,10.0254316691206,9.758771929824562,1.0875384821309062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ full of the Holy Ghost returned
 from the Jordan and was led by the  
 Spirit into the wilderness, bein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1895062001:0479/pct:7.847341337907376,51.788079470198674,13.936535162950257,2.869757174392936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1895062001:0479/pct:7.845659163987138,51.78045909358446,13.938906752411576,2.8730135373749266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ Spirit and ye shall not fulfil the lusts of
 the flesh.” Gal 5:16 &quot;As many as  
 are led by the Spirit of God, they are th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1897012101:0432/pct:26.63648368232409,49.727005459890805,11.299754763252217,6.971860562788744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016172:1897012101:0432/pct:26.631459826480572,49.72004479283315,11.302338740098076,6.974384098544233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

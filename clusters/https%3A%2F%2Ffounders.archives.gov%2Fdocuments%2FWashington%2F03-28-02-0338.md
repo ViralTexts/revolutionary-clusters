@@ -421,7 +421,7 @@ FrSir
 YrObt ? Aileoo Forvt  
 11 i. W.\sniNiix?oH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ironmaiden_ver02:data:sn85038614:00175031029:1890113001:0711/pct:221.37254901960785,11.20288013553579,36.01809954751131,66.01016518424396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ironmaiden_ver02:data:sn85038614:00175031029:1890113001:0711/pct:73.79084967320262,3.73429337851193,12.00603318250377,22.003388394747986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ Dr Sir
 Yr Obt &amp; Affeee Servt  
 Majr Lee. Geo Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332891741:1890121601:0442/pct:17.17439293598234,47.625805043117566,12.71523178807947,31.022814103263837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84024516:00332891741:1890121601:0442/pct:17.17439293598234,47.63308226903904,12.725042923718421,31.026452716224576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

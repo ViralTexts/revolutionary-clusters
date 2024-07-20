@@ -718,7 +718,7 @@ io be
 Your friend and servant,  
 Gfo. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861848:1842101801:0133/pct:0.2799944001119978,10.994349162288094,51.26697466050679,88.09358580350947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861848:1842101801:0133/pct:0.2893275467823977,10.994349162288094,51.26230808717159,88.10349955388124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1059,7 +1059,7 @@ every disposition to be
 Your frie.nd anal ervant,  
 G aEo. W~5unt56Oo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288324:1842102601:0273/pct:46.63930220625962,17.10178263369753,44.99743458183684,77.65382403680276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288324:1842102601:0273/pct:46.64500313551109,17.10178263369753,44.99743458183684,77.66915852022235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2442,7 +2442,7 @@ overlook, ought to be kept perfectly clean
   
 and well plowed,-yet, because not only the crop sown with the common wheat; on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843020301:0449/pct:228.61313868613138,316.64726426076834,98.24817518248175,63.736903376018624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843020301:0449/pct:57.184590104071575,79.16181606519208,24.57549753514698,15.934225844004656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2750,7 +2750,7 @@ one who has every disposition to be.
 Your friend and servant,  
 GhO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843020301:0449/pct:276.7883211678832,56.57741559953434,104.01459854014598,321.7694994179278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843020301:0449/pct:69.23498265473799,14.144353899883585,26.017893007120687,80.44237485448195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4628,7 +4628,7 @@ by one who has every disposition to be
 Your friend and servant,  
 Geo. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013535:1849041301:0183/pct:49.936467598475225,5.268860896654476,45.180613541477584,91.00636597589056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013535:1849041301:0183/pct:49.92740471869328,5.268147345612134,45.17695099818512,90.99742686890575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4946,7 +4946,7 @@ hv one who has eveiy disposition to he
 Your friend and servant,  
 GKO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849041701:0192/pct:59.87856592135698,5.560247747747748,26.204703161141094,91.96227477477477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849041701:0192/pct:59.872795605666376,5.559856429023858,26.205390125598278,91.95814859126844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5317,7 +5317,7 @@ who has every disp&#x27;xition to be
 Your friend and servant,.  
 GEo, WASUIIIGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288294:1849041801:0174/pct:18.298230834035383,18.25359962842545,58.803706823925864,79.08732001857872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288294:1849041801:0174/pct:18.309463633810726,18.261340764824276,58.79247402415052,79.08732001857872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5594,7 +5594,7 @@ charge which is intrusted to you by one who has every c
 P t0 disposition to be your friend and servant,  
 low &lt;;K0. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849042101:0447/pct:5.184478371501272,5.503322050896327,33.26972010178117,91.33759558731353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849042101:0447/pct:5.195080576759966,5.507500731269065,33.26441899915182,91.34177426768626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6132,7 +6132,7 @@ that can 1.; wi ,,f their manure or litter.
 They an; to be rcijuN regularly, that no false  
 reports xoiN benujj-j; and missing inos, if an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1849042601:1071/pct:28.579766536964982,11.68637043076505,50.09727626459144,115.93966571545047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1849042601:1071/pct:21.448034254573763,8.764777823073787,37.60217983651226,86.96833808941432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6172,7 +6172,7 @@ in 1&#x27;iliiie ; fur 1 cm no l.m r submit to the loss&#x27;
 es I inn cmit&#x27;i&#x27;iuaiiy .-iisl-ihiining by neglect.  
 IlMi. Them is lioibinjj I ,.,. ttKunt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1849042601:1071/pct:62.217898832684824,37.13819812474521,16.964980544747082,18.630248675091725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1849042601:1071/pct:46.69131957960296,27.857045794265524,12.728688205527442,13.969289305612175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6229,7 +6229,7 @@ truste, to you by ono who has evcy disposi
 tion to be your fuend and ne.&#x27;Vint.  
 (iKO. V ASIII-tGTO.V
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1849042601:1071/pct:62.5875486381323,75.30914526430222,16.828793774319067,31.3357793178421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1849042601:1071/pct:46.963799143635654,56.4886533496399,12.631374075515765,23.495040086968338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6580,7 +6580,7 @@ disposition |o Iiij
 Your friend and servant, ^  
 GEO. WASHINGTON. !.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849051601:0301/pct:-2.7294906983836538,9.265996148084742,54.955779200975904,88.28375775732934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849051601:0301/pct:-2.7396563993087324,9.273129324488195,54.981193453288604,88.28019116912762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7059,7 +7059,7 @@ I be sown on each acre. The
 you look is givento Mr.  
 ents of each field may b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849060701:0355/pct:19.231469677654342,11.22027623522711,124.22145328719724,375.9219706678058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849060701:0355/pct:4.806991988346686,2.8046697038724373,31.04970866715222,93.96711275626424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7190,7 +7190,7 @@ thecharge which is intrusted to you by one who has every
 disposition to be your friend and servant.  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849061101:0359/pct:22.764227642276424,22.354077549330757,119.69286359530263,361.0459500482958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849061101:0359/pct:5.690028901734104,5.587748344370861,29.91781069364162,90.24903421633555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7233,7 +7233,7 @@ Nor is there any other mode than this to prevent
 thieving and od:or disorders, the consequence of  
 opportunit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1849101701:1171/pct:69.12935648087716,78.02131510154837,13.053126223730583,12.728735169917554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1849101701:1171/pct:69.12935648087716,78.0280179636705,13.053126223730583,12.728735169917554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

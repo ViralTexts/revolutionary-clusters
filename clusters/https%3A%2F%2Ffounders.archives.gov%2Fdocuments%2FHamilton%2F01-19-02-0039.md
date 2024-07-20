@@ -372,7 +372,7 @@ miflioners appointed in pursuance of the 6th
 Article of the Treaty of Amity, Commerce,  
 and Navigation between his Britannick Majest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:47.85410868609931,16.516335939065947,38.93364581807529,76.6586490278613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:47.863873834285435,16.52301730473709,38.93852839216835,76.6586490278613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ allow.
 The awar’%ofthe faad Commissioners or of  
 any three of them as aforefaid, shall in all cases
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:67.70177237439579,38.90559230306675,19.203163908012304,20.24453798356384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:67.70177237439579,38.90559230306675,19.212929056198426,20.247878666399412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1544,7 +1544,7 @@ It is said that the countess of
 Huntington heard the speeches on  
 this case, and said that every on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:0017503237A:1884070401:0108/pct:26.819682439867947,65.62262098966829,12.057852538908977,7.058183795541055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:0017503237A:1884070401:0108/pct:26.819682439867947,65.62262098966829,12.0630928051145,7.065434112742432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

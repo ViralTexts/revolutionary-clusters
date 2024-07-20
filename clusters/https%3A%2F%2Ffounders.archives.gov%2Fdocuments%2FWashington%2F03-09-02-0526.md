@@ -113,7 +113,7 @@ aas beon en, aged in this city in teaching his
 a or fellow countrymen, under the supsrvision  
 of a benevelent socisty. To eke out a rathe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539884:1861081301:0163/pct:276.3222131814483,263.3228840125392,50.44751830756713,23.406478578892372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539884:1861081301:0163/pct:69.12273559943009,65.8307210031348,12.61958070425402,5.851619644723093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ worship. Gambling of every kind ,s expressly
 forbidden, as the foundation of evil, and the  
 cause ot many a brave and gallant officer&#x27;s ruin.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861091701:0334/pct:57.393419536551015,22.8044779000193,12.559211368582767,3.1654120826095347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861091701:0334/pct:57.397687022575,22.81091166441485,12.563478854606752,3.162195200411761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ Dog Power.
 Dog power is coming into use in New  
 York to a large extent. Why it has no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862071101:0760/pct:79.61095100864553,202.47416678794934,47.55043227665706,25.673118905545046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862071101:0760/pct:19.913497927554513,50.618541696987336,11.89403496125428,6.418279726386261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ kind be discouraged as much as possible in
 your Brigade.&quot;  
 At a previous date he wrote: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1863080501:0523/pct:56.94980694980695,232.43085880640467,80.88803088803088,11.528384279475983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1863080501:0523/pct:14.240888245232924,58.10771470160117,20.2268887279749,2.8820960698689957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ as being the fountain of evil, and the
 cause of ruin to many a brave and gal­  
 lant officer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876092901:0185/pct:144.88348530901723,282.4066390041494,39.15906788247214,17.178423236514522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876092901:0185/pct:36.22087132725431,70.60165975103735,9.789766970618034,4.2946058091286305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -505,7 +505,7 @@ simple question of constitutionality, there was a de­
 cided majoritv in favor of it.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831071801:0242/pct:64.86446670595168,10.492432798735035,31.246317030053035,87.09058052857466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831071801:0242/pct:64.85491235822654,10.49124788255223,31.246624441498504,87.08450969320535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ The Mormonites.—This infatuated people
 are again in motion. In their own cant  
 phrase, •* they are going to inherit the prom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1831072101:0518/pct:6.874241811564901,3.352832073048937,35.867367569753334,90.46939649022686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1831072101:0518/pct:6.8728522336769755,3.3523537803138375,35.865170810592275,90.46005706134095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +988,7 @@ was adecided majority in favor of it, |
 JAMES MADISON.,  
 Mr INGERSOLL.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1831072101:0283/pct:21.810418445772843,2.2345693924387002,47.65157984628522,90.86846237468293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1831072101:0283/pct:21.810418445772843,2.242621894753795,47.662966125818386,90.86846237468293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ utiling yon to oni domicil mid n» a sincere re­
 uru oi All Hm? goo 1 wishes yo i kindly «•* press  
 &lt;»r ns. JAMfca MALMbUN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1831072101:0387/pct:62.62445240939864,9.274193548387096,30.08761449621665,85.46947004608295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1831072101:0387/pct:62.611984869599844,9.272858171346293,30.086601632490545,85.46076313894888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1377,7 +1377,7 @@ Mre Mk&#x27;iiou joii a me in hoping that you will no&lt;
 •m&lt;es u* the pl»it-irre ol welcoming you to our domicil,  
 and in a sincere return ol ell th* go&lt;xt ivi^ir* yon «
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831072201:0090/pct:7.11249645792009,4.3968183826778615,30.36270898271465,91.85815289438798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831072201:0090/pct:7.11148887944468,4.396332707389815,30.363129810643624,91.85168820648772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2950,7 +2950,7 @@ suited not ti&lt; man equality of opirnot •
 in that assembly on the power of &lt;*i,.  
 gress to establish a hank, but from 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831072801:0326/pct:61.741263028816675,17.08911572428031,29.414469650521152,77.2450969147838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831072801:0326/pct:61.73180076628353,17.087155963302752,29.415070242656448,77.24006116207951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4017,7 +4017,7 @@ domicil, and in a sincere return of all the good wishes
 you express for us  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831082001:0129/pct:3.8029782359679265,5.015936923335011,31.20274914089347,91.51149136050998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831082001:0129/pct:3.8021071919377003,5.01509560550151,31.20132844709116,91.50033545790004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4346,7 +4346,7 @@ i the plan, with those who denied the power. On
 a decided majority in favor of it.  
 Jamks Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832100301:0633/pct:1.169993117687543,4.771659236052536,35.822436338609776,90.95071695384986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832100301:0633/pct:1.1697918458627214,4.771084337349397,35.82200814266873,90.94377510040161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5221,7 +5221,7 @@ deliberate and reiterated precedents, tint the Hank of the
 U titled Stales, though on the original question held to be  
 unconstitutional, received the Fixer utive signature.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835031201:0425/pct:19.36682725395733,6.560938518357593,14.85203028217481,1.87920921138388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835031201:0425/pct:19.36416184971098,6.560225915064625,14.854573814111387,1.882625538539517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5643,7 +5643,7 @@ uneoiisiiiuuonality. But if the law ij be in iheir hand is actually there The
 self was cnrnnauiu&#x27;ionil, the stipulation ! banks under thti system have nothing to  
 was void, and could not be constitution! do with the Government, and of course
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1838100401:0540/pct:31.645056726094005,71.93718695004738,39.52593192868719,6.186543928523081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1838100401:0540/pct:23.758362051489964,53.95965886015974,29.65740928441111,4.643292270204413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5830,7 +5830,7 @@ plan, with those who denied (lie power, (hi a simple
 question ol consulutionalUY then* was a drcnlrd in i­  
 joiity in fav&lt;»r of it. JAM PS MAIHSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1838101501:0907/pct:49.506101104009296,11.970889648002377,31.202789076118535,83.48433090747066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1838101501:0907/pct:49.49651432997676,11.96911196911197,31.201587916343918,83.47564597564597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5907,7 +5907,7 @@ such a bank in 1791, and my assent in
 1817, turns on the question, how far  
 gislative precidents. in expounding t!i-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839062901:0589/pct:64.7852582704585,33.170731707317074,30.89088798607081,16.763831052944674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839062901:0589/pct:48.6066763425254,24.878048780487806,23.178519593613935,12.575847709696609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5960,7 +5960,7 @@ decision to the Judjro.
 And why are judicial precedent?.. &#x27;&quot;s - - &quot; y-  
 rmed on due discussion and considera-&#x27; &#x27; l w-&#x27;:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839062901:0589/pct:64.66918165989553,56.347412254610354,29.991294254207777,11.136228435455086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839062901:0589/pct:48.51959361393324,42.260559190957764,22.496371552975326,8.352171326591314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6071,7 +6071,7 @@ course of, practice, as above character­
 ized, in the light of a legal rule of inter­  
 preting a law: aud there is a like nc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839062901:0589/pct:64.26291352292513,67.65020820939917,16.78757980266976,52.04045211183819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839062901:0589/pct:48.21480406386067,50.74360499702558,12.597968069666182,39.02439024390244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6799,7 +6799,7 @@ eo  o ei e ei oe to a perod
 moment will, no doubt, prove interesting of years, and under the varied ascendency  
 to the Country, and we therefore give it of parties; or that which depends upon th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:33.7219730941704,28.28643739764776,120.53811659192826,24.177460175673662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:8.436167825891856,7.07160934941194,30.15481265425174,6.044365043918416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6845,7 +6845,7 @@ it, to which I cannot but adhere. The ob
 jections to the latter have appeared to me ernment. It had been carried into execu­  
 to preponderate greatly over the advanta- tion throughout a period of twenty years
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:33.99103139013453,73.54473723388418,181.52466367713004,42.51898168825368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:8.503477675566524,18.386184308471044,45.41171191384339,10.62974542206342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6865,7 +6865,7 @@ The charge of inconsistency between my
 objection to the Constitutionality of such a  
 Bank in 1791, and in 1817, turns on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:33.99103139013453,102.00982581509602,58.83408071748879,11.314574959059104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:8.503477675566524,25.502456453774005,14.7184204621943,2.828643739764776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6888,7 +6888,7 @@ passed be pecedin egsature ee a i e o e e  e e o e o i a
   
 the two cases are essentially different. A It has been contended that the authorioe on ondition tati shod e ie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:33.99103139013453,114.99181182075331,361.9730941704036,20.366234926306387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:8.503477675566524,28.747952955188328,90.55418442898811,5.091558731576597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6929,7 +6929,7 @@ as its meaning, is within the sope of theeia aa a e o e e­
 attereeeee i on e o o aoi  
 The case in question has its true analogy toat a i te a of ite a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:33.90134529147982,121.78055679618878,362.15246636771303,36.80214381420277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:8.481041059008302,30.445139199047194,90.59905766210456,9.200535953550693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6984,7 +6984,7 @@ the law? Yet, has it ever been supposed
 that he was required, or at liberty to dis­  
 gard all precedents, however solernuly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:32.82511210762332,208.42638082477296,59.46188340807175,80.63123418192646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:8.211801660309625,52.10659520619324,14.875476778101863,20.157808545481615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7036,7 +7036,7 @@ I practice as above characterized, in the
 light of a legal rule of interpreting a law:  
 and there is a like necessity of considering
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:32.01793721973094,273.45541164210215,243.31838565022423,64.67172845020099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:8.009872111285619,68.36385291052554,60.870540722459054,16.167932112550247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7063,7 +7063,7 @@ on the practical judgment of the most arae ee te oi ia o teei te aa o i ae e
 e ee e o  i oei o o e ee e i ee ad been in the coty for fi yeas,  
 to adhere to, and act officially upon, his spectable inhabitant of the town of Lancas a o o in o e o ie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:31.838565022421523,334.43501563197856,181.61434977578475,25.368468066100938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:7.9649988781691725,83.60875390799464,45.434148530401615,6.3421170165252345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7098,7 +7098,7 @@ imitation to its exer
   
 ise, although the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:31.031390134529147,335.6855739169272,355.15695067264573,47.69986601161233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841051301:1166/pct:7.763069329145165,83.9213934792318,88.84900157056316,11.924966502903082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7121,7 +7121,7 @@ in haste and in bad bealth; but they ex
   
 pressed, though without the attention in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841052001:1005/pct:30.47244094488189,73.40941886396432,58.425196850393704,17.26354453627181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841052001:1005/pct:7.622611778609415,18.35235471599108,14.614930076817018,4.315886134067952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7173,7 +7173,7 @@ depends upon the opinions of every new
   
 some respects due to the occasion, a is legiditre heated as it may be by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841052001:1005/pct:31.023622047244096,28.17788272333727,117.55905511811024,65.43355634264725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841052001:1005/pct:7.7604884774473115,7.044470680834317,29.407130194997045,16.358389085661813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7224,7 +7224,7 @@ law on the other hand, resting on no high
   
 er suthority than that possessedby every
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841052001:1005/pct:30.866141732283463,93.24412960776597,58.188976377952756,67.21763085399449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841052001:1005/pct:7.721095134922198,23.311032401941493,14.555840063029349,16.804407713498623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7281,7 +7281,7 @@ stances, with an admission of the ex
   
 reription did not shock the feelings of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841052001:1005/pct:90.70866141732283,27.863046044864227,176.45669291338584,130.39485766758494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841052001:1005/pct:22.690565294465234,6.965761511216057,44.140240299389404,32.598714416896236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7332,7 +7332,7 @@ through their Judiciary organ.
 Can it be of less conrequence that the  
 meaning of a Constitution should be fi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841052001:1005/pct:29.921259842519685,163.40023612750886,119.84251968503936,82.277318640955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841052001:1005/pct:7.484735079771519,40.850059031877215,29.978333661611188,20.56932966023875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7381,7 +7381,7 @@ in favor of it.
 JAMES MADISON.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841052001:1005/pct:89.76377952755905,164.76452840089203,58.425196850393704,72.98963662600026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841052001:1005/pct:22.454205239314557,41.19113210022301,14.614930076817018,18.247409156500066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7419,7 +7419,7 @@ But it is eaid that the legislator, ha
   
 g sworn to support the Constitution,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841052001:1005/pct:30.47244094488189,245.67755476846386,117.63779527559055,41.55844155844156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841052001:1005/pct:7.622611778609415,61.419388692115966,29.426826866259603,10.38961038961039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7477,7 +7477,7 @@ rule in both casas, may be adiitied, but
 wtth such exceptions, the rule will force  
 iself on the practical judgmsnt of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841052001:1005/pct:29.84251968503937,287.3409418863964,117.63779527559055,90.5155450609996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841052001:1005/pct:7.465038408508962,71.8352354715991,29.426826866259603,22.6288862652499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7521,7 +7521,7 @@ turn. 2d. because an exposition of the law, tutional.
   
 publicly mad., and repeatedly confirmed by This, I think, cannot be satr .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:96.40048396854205,11.34160325237152,33.19721718088324,3.742312102574794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:72.31886250189079,8.50620243927864,24.897897443654514,2.8145522777024916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7540,7 +7540,7 @@ vhe constituted authority, carries with it, by My speeches are rpnr .r;ttWl&#x27
 fair inference, the sanctions of those who, hav- lished if necessary. They com pab.  
 ing made the law through their legislative or- of the best investigation I,,?? t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:96.55172413793103,15.09433962264151,33.36358136721113,1.8033983112686334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:72.42474663439722,11.320754716981131,25.034034185448494,1.3551548003752736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7568,7 +7568,7 @@ Can it be of less consequence that the mea-
   
 the President of the United States, the Secre- ning of a Constitution ehculd be fixed and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:78.17604355716878,16.897737933910143,51.75438596491228,3.742312102574794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:58.644683103917714,12.675909517356406,38.82922402057177,2.8145522777024916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7589,7 +7589,7 @@ bility in the Constitution, but in the laws
   
 themseljes; inasmuch as all laws preceding occasion to employ a phvsiri iTV4 W9
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:78.53901996370236,25.226727822370478,51.633393829401086,8.944021682476807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:58.91695658750567,18.92004586677786,38.73846619270912,6.713228395705202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7661,7 +7661,7 @@ That there may be extraordinary and ner.u
   
 liar circumstances controlling the rule in both
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:96.79370840895342,26.519337016574585,18.25468844525106,21.870113624517877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:72.60626229012253,19.88950276243094,13.704432007260626,16.407797352236006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7687,7 +7687,7 @@ er in such missies when used in war ope- OI lne Iaw. or Constitution m oppositio
   
 The Washington correspondent ot the BU1&quot;1U,U H-&quot; more especially where
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:78.82637628554144,48.95236109663296,36.267392619479736,4.555404982799958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:59.12872485251853,36.714270822474724,27.21222205415217,3.419159804023767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7714,7 +7714,7 @@ oblivion of explanatory circumstaneep. and
   
 with the continual changes m the import of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:60.51119177253479,53.34097779630981,54.824561403508774,4.430313770457626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:45.39404023597035,40.008339414156154,41.12842232642566,3.3253413947670176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7804,7 +7804,7 @@ power, but disapproved the plan, with those
   
 uuu uemea me power. Un a simple question
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:61.04053236539625,63.46294172834359,54.748941318814275,34.3375377879704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:45.787324156708515,47.59720629625769,41.067917107850555,25.758365474825393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7836,7 +7836,7 @@ u .a.r way io gam a urown. ea expecte(j from ,t and tho constitutionality
 Beagles, rare and beautiful. What th.ngs these of the former I still regard as uSbSTo?i2  
 Princes are. WilUhe European papers be considerations rto which I yielded, in gi vin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:61.17664851784634,101.84509538204941,36.07078039927405,9.611174814969248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:45.89320828921495,76.38903367038465,27.060959007714416,7.2135932450745335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7865,7 +7865,7 @@ ly Crisis of thft Rf.rnlnt - &#x27; , by the subordinate authority of the T
   
 with the professional phrase Tee d&#x27;arms&quot; A u ?n lS hf r hand restin? on no highe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:61.23714458560194,114.5627019701866,36.14640048396854,7.651412488272699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:45.93858720314627,85.92723861148754,27.12146422628952,5.733347232356927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7886,7 +7886,7 @@ the law is a rule of decision to the juuVe.
   
 njr a10juuiciai preceaents, when for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:79.68844525105868,125.42478890857917,17.740471869328495,2.9709162931304074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1841060201:0372/pct:59.779155952200874,94.06859168143438,13.311148086522463,2.2307932867716045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8064,7 +8064,7 @@ On a simple question of constitutionality, there was a
 decided majority in favor of it.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841062601:0760/pct:49.104133404293066,8.721746903332908,31.523860209331204,88.13689184012259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841062601:0760/pct:49.11004671515582,8.730260077469884,31.517946898468452,88.13689184012259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8334,7 +8334,7 @@ an institution.&quot;
 The position of President Tyler is different.  
 The nation is certainly divided on the question
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841082101:0107/pct:48.450173812282735,32.70861689875406,17.468134414831983,8.103863469793739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841082101:0107/pct:48.450173812282735,32.7155969706488,17.482618771726536,8.103863469793739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8359,7 +8359,7 @@ an institution.&quot;
 The position of President Tyler ih different.  
 The nation is certainly divided on the question
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841082101:0854/pct:49.4140625,34.09352978859705,15.731534090909092,6.777706598334401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841082101:0854/pct:49.41998106060606,34.10207132180226,15.737452651515152,6.777706598334401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8431,7 +8431,7 @@ light by which the subject has been surs equality of apinions in that assembly o
 rounded.the powe of Gongress toestabliha bank,  
 I propose to show, Mr. President, that, but from a junction of those who adm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841082601:1064/pct:7.888446215139442,338.46153846153845,118.72509960159363,30.12145748987854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841082601:1064/pct:1.9721115537848606,84.61538461538461,29.681274900398407,7.530364372469635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8458,7 +8458,7 @@ rived from a course of precedents amounting
 to the requisite evidence of the national judgs?  
 ment and intention,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841082601:1064/pct:309.40239043824704,100.08097165991903,62.23107569721115,25.53306342780027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841082601:1064/pct:77.35059760956176,25.020242914979757,15.557768924302788,6.383265856950067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8512,7 +8512,7 @@ creasing prospect of any change in the public op.nion
 adverse to the constitutionality of such nil institu­  
 tion.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841083101:0868/pct:50.303788420300215,68.7246963562753,15.493209435310936,4.706477732793522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841083101:0868/pct:50.303788420300215,68.7246963562753,15.51107934238742,4.714912280701754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8536,7 +8536,7 @@ may be added a decreasing prospect of any change
 in the public opinion adverse to the Constitutionali­  
 ty of such an institution.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841090101:0792/pct:10.061823802163833,182.84807975529625,38.0370942812983,11.80469015520562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841090101:0792/pct:3.3534229639932005,60.94245582238332,12.677072065111009,3.9344509892765442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8557,7 +8557,7 @@ though on the original question held to be un­
 constitutional, received the Executive sig­  
 nature in 1816.&quot; Though in 1811 ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1841090301:0143/pct:69.59706959706959,296.12583745994755,49.81684981684982,18.11826390911739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1841090301:0143/pct:17.402454662026013,74.03145936498689,12.456493863344935,4.529565977279347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8577,7 +8577,7 @@ in the Senate.&quot; Gen. Smith was a member
 of the Senate in 1811 and in 1812. While  
 Gena Jackson&#x27;s veto message was under d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1841090301:0143/pct:70.25641025641026,340.2854646082144,49.5970695970696,12.642004078065831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1841090301:0143/pct:17.56732002198205,85.0713661520536,12.40153874335959,3.160501019516458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8628,7 +8628,7 @@ Now will any man pretend to say that the same
 circumstances txist now? Has there been an aunt  
 al recog ition of the constitutionality of the ban
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1841090601:0044/pct:143.27328478344194,318.35552982049796,60.34879264085857,26.129125651418644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1841090601:0044/pct:35.81145813374209,79.57736286003764,15.084307338570607,6.531335938630772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8699,7 +8699,7 @@ real issue before the Senate? Was it notined wit a potive raifcation of it into
 the objections to it, as compared with each  
 other? I really had hoped that the hon-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841091601:1239/pct:37.16577540106952,95.25514771709938,151.06951871657753,16.592062071023577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841091601:1239/pct:9.297658862876254,23.813786929274844,37.792642140468224,4.148015517755894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8721,7 +8721,7 @@ pect of any change in the publie oniaion adverse The Gonstor himcalf thes faseit
   
 and if he had done so i should ot ae o e e ee e o o eo o e e  e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841091601:1239/pct:68.98395721925134,105.04327066547299,179.76827094474154,15.696806923306475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841091601:1239/pct:17.25752508361204,26.260817666368247,44.97212931995541,3.924201730826619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8746,7 +8746,7 @@ to all of which may be added a decreasing pros­
 pect of any change in the public opinion, adverse ,  
 w to the constitiAionality of such an institution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841091601:0115/pct:2.2818791946308723,85.04388531304856,16.838180462341537,5.172615564657694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841091601:0115/pct:2.281538920369818,85.0339340042125,16.84064022268615,5.1759107574693815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8802,7 +8802,7 @@ l creasing prospect .. any change in the
 public opinion adverse to the constitution­  
 ality of such an institution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1841092501:0316/pct:46.507498026835044,36.762688614540465,19.554064719810576,9.72412741960067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1841092501:0316/pct:34.89244128675745,27.57201646090535,14.68324452338662,7.3007163542142965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9039,7 +9039,7 @@ Cwelcoming vou to our domiel, and 1o sin
 ‘| cere teturn of all the good wishes you kindly  
 “c.-.\&#x27;kvrrm for us, JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1841101401:0176/pct:5.994090333474039,6.985411564263656,26.08695652173913,89.68161005217762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1841101401:0176/pct:6.00347075653112,6.992510559755795,26.082266310210592,89.68161005217762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9057,7 +9057,7 @@ precedents, formed on due discussion and consid­
 eration, are regarded as of authoritative force in  
 settling the meaning of the law. Mr. Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841101801:0409/pct:16.800584368151934,221.2422694272654,56.610664718772824,7.636461414358698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841101801:0409/pct:4.200146092037984,55.31056735681635,14.152666179693206,1.9091153535896745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9102,7 +9102,7 @@ Jackson and Tyler. They are governed by the
 constitution as ther understand it. They seem  
 to understand the constitution much better tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841101801:0409/pct:16.8736303871439,232.42807206238237,56.97589481373265,55.71390158644797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841101801:0409/pct:4.218407596785975,58.10701801559559,14.243973703433163,13.928475396611992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9158,7 +9158,7 @@ in bad health; but they expressed though
 for alloding to other subjets which bea i e o i o e o  
   e o e oao eie oo te 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843082201:0338/pct:98.26539462272333,47.879140034863454,119.34084995663487,10.575246949447996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843082201:0338/pct:24.57700650759219,11.969785008715863,29.84815618221258,2.643811737361999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9186,7 +9186,7 @@ ing cause.
   
 It was in conformity with the view here
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843082201:0338/pct:220.12142237640936,16.850668216153398,58.5429314830876,23.416618245206276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843082201:0338/pct:55.05422993492408,4.2126670540383495,14.642082429501084,5.854154561301569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9229,7 +9229,7 @@ ing prospect of any change in the public e o diettantism That sort of scholara o
 opinion adverse to the Constitutionality of ship which, in its spirit and effects, looks diation. In the course of his remailyt  
 such an institution. A veto from the yal pever bevond the cultivation the interest atrate the tiloin ea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843082201:0338/pct:219.77450130095403,34.63102847181871,175.1084128360798,49.27367809413132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843082201:0338/pct:54.96746203904555,8.657757117954677,43.79609544468546,12.31841952353283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9251,7 +9251,7 @@ struction, and inconsistent with it, are nota ooi mon
   
 only annulled for the future, but virtually
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843082201:0338/pct:158.0225498699046,216.73445671121442,162.44579358196012,11.679256246368391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843082201:0338/pct:39.522776572668114,54.183614177803605,40.62906724511931,2.9198140615920978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9280,7 +9280,7 @@ those who admitted the power, but disap-
 proved the plan with those who denied  
 the power. Wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843082201:0339/pct:67.77875329236173,176.97253068381065,62.247585601404744,36.937463471654006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843082201:0339/pct:16.944688323090432,44.24313267095266,15.561896400351186,9.234365867913501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9301,7 +9301,7 @@ the United States, though on the original
 question, held to be unconstitutional, re­  
 ceived the executive signature in 1817.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1843092901:0314/pct:15.6875,71.01977682024086,15.40625,4.419401171141311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1843092901:0314/pct:15.692708333333334,71.02714248885943,15.416666666666666,4.415718336832026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9356,7 +9356,7 @@ nounced by the Chief Justices
 “After the most mature deliberation, it  
 I IS THE UNANIMOUS, AND DECIDED OPINION O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844040401:0060/pct:21.273792093704245,44.54421459422596,14.904831625183016,14.844282791543533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183700:1844040401:0060/pct:21.270677792416922,44.53915217638368,14.907529400283023,14.84638405879456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9415,7 +9415,7 @@ Wo ask pardon of our readers for quoting so
 larfrp.lv from our own columns. Our apology is,  
 that these a ro facts from tho record, and the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1844051701:0079/pct:75.36157024793388,62.637362637362635,47.77892561983471,17.40820155454302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1844051701:0079/pct:56.5352161184777,46.98472259447869,35.836059927673496,13.052800857678907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9464,7 +9464,7 @@ the unanimous, arid decided opinion of this
 court tha.t the Act ts incut rate JJawi  
 the Un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1844051801:0383/pct:45.72200113700966,60.61058188913118,20.125071063104038,28.61241822563985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1844051801:0383/pct:34.30480523173159,45.46080569264318,15.098094967301678,21.462182945024676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9489,7 +9489,7 @@ a to the constitutionality of such a bank, in 1791, and
 &quot;law to the legislator, as the law is a rule of decision  
 &quot;to the judge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1848090101:0704/pct:38.267949666913395,46.99723716736949,47.66839378238342,21.055692889341284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1848090101:0704/pct:9.568758097353323,11.749309291842373,11.919304090320193,5.263923222335321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9525,7 +9525,7 @@ has it ever been supposed that he was required, or
 &quot;prerogative, there could be no limitation to its ex­  
 &quot;ercise, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1848090101:0704/pct:38.4900074019245,72.35713247055402,48.33456698741673,40.13377926421405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1848090101:0704/pct:9.624282805848603,18.089283117638505,12.085878215806034,10.033444816053512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9554,7 +9554,7 @@ received the executive signature in the year 1817.
 with the entire acguiescence of the local authort  
 &quot;ties, as well as of the nation at large, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1848090101:0704/pct:39.37823834196891,122.55343899956377,48.63064396743153,26.755852842809364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1848090101:0704/pct:9.846381639829724,30.63835974989094,12.159911160466407,6.688963210702341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9571,7 +9571,7 @@ with the entire acguiescence of the local authort
 the law on succeeding judges, the constitution be-  
 te a a ta the lo at  a the la ta o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848090701:0780/pct:343.34053275737944,279.6674651261096,49.388048956083516,6.030717204452586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848090701:0780/pct:85.86604249189773,69.9168662815274,12.35145840835434,1.5076793011131464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9615,7 +9615,7 @@ government. It had been carried into execution
 throughout a period of twonty yoars saith aunidf  
 legislative recoguitions;--and with the entire ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848090701:0780/pct:342.9805615550756,298.5486825419191,49.964002879769616,68.76144849936593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848090701:0780/pct:85.77601728483975,74.63717063547978,12.4954987396471,17.19036212484148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9647,7 +9647,7 @@ Bank &lt;1 the United States, though, mi the original
 question, held to be unconstitutional, received tho  
 Executive signature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848120601:0293/pct:45.72781065088758,35.38985056961089,18.60355029585799,3.343689894954875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848120601:0293/pct:35.44481809844084,27.426998929827242,14.417609293793946,2.598990979972481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9668,7 +9668,7 @@ United States, though, on the original ques
 1 the Executive signature.’’  
 It is probable that neither the bank of 179
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1848120701:0304/pct:60.02267145286227,34.99317871759891,12.601549215945589,3.028649386084584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1848120701:0304/pct:60.01133358519078,34.98840540171873,12.603891197582168,3.0316464329559407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9778,7 +9778,7 @@ It is probable tbat nei&#x27;her the bank of 1791 nor that of
 1?1? would have been chartered but f?r the embarraesments  
 o( the tfovernment in its finances, the derangement of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848120901:0421/pct:48.964818300275084,91.48912437255996,15.694223251773563,3.524818739542666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848120901:0421/pct:48.969644322185225,91.4965606990147,15.699049273683702,3.524818739542666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9800,7 +9800,7 @@ dent; and, as he subsequently declared, the Bank of the
 United States, though in the original question held to be  
 unconstitutional, received the Executive signature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848120901:0443/pct:199.0426457789382,255.81630930271822,59.7911227154047,14.891102481850414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848120901:0443/pct:49.76607550864976,63.954077325679556,14.94940702861495,3.7227756204626035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9837,7 +9837,7 @@ cedents; and, as he subsequently declared, &quot;the bank of
 the United States, thougn, on the original question, held;  
 to be unconstitutional, rnceived the Executive signature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848121101:0153/pct:257.46956842493546,191.21194715680645,59.40612320177056,7.9408385985066055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848121101:0153/pct:64.35552277337267,47.79612347451543,14.848792181449383,1.984924623115578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9878,7 +9878,7 @@ tutional, received the Executive signa­
 ture. o  
 It is probable that neither the Bank o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1848121201:0487/pct:203.48977135980746,356.42370800312534,57.70156438026474,16.564348699631655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1848121201:0487/pct:50.895410082769,89.10592700078134,14.431903686982693,4.141087174907914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9897,7 +9897,7 @@ Bank of the United States, though, on the original
 question, held to be unconstitutional, reeeived the Ex­  
 ecutive signature.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848121201:0412/pct:67.2769884282994,12.570939072705857,14.398711000439432,2.141556911874933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848121201:0412/pct:67.28675357648552,12.578077595745441,14.393828426346369,2.141556911874933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9949,7 +9949,7 @@ ted the Bank of the United States though on the
 original question held to be unconstitutional re-  
 txm&#x27;O we executive sicnaiure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848121501:0645/pct:7.875667429443173,122.90533188248095,19.18382913806255,3.5908596300326443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848121501:0645/pct:5.912645432004577,92.17899891186072,14.400152584398246,2.706746463547334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9980,7 +9980,7 @@ held to be unconstitutional, received the Ex­
 ecutive signature.&quot;  
 It is probable that neither the bank of 1791
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848121601:1260/pct:21.375310687655343,280.4966686856451,61.47473073736537,15.20290732889158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848121601:1260/pct:5.344934742075823,70.12416717141127,15.371866583799461,3.800726832222895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10001,7 +10001,7 @@ original question held to be unconstitu
 tional, received the executive signatute.&quot;  
 It is probable that neither the bank o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848121901:0502/pct:243.85758998435054,265.8968111028711,37.519561815336466,10.77444644559805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848121901:0502/pct:81.31767775603392,88.63227036762369,12.511415525114156,3.5914821485326835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10019,7 +10019,7 @@ though on the original question held to be un­
 constitutional, received the executive slgua­  
 lure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769751:1848122201:0046/pct:82.4227078891258,38.8042570951586,14.21908315565032,1.9720367278797997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769751:1848122201:0046/pct:78.30949065282525,36.87097307120436,13.499599105371988,1.8734511812324468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10046,7 +10046,7 @@ to
 re which existed—the first in conse­  
 quence of the war of the Revolution, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848122601:0173/pct:3.905476156785057,43.03982052720134,12.890901372576765,6.2703309029725185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848122601:0173/pct:3.905476156785057,43.04355954383997,12.900334889863686,6.274069919611143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

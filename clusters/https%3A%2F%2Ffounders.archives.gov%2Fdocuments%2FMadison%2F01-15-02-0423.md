@@ -443,7 +443,7 @@ PUBLIC SALE.
 On Tuesday next the 8ih iiist. will be  
 sold at the VYn-iue Store
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814030501:0290/pct:37.86035660723213,6.071950328707086,37.62706215630728,86.35865595325055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814030501:0290/pct:37.85404865044985,6.071395964575915,37.62634677329779,86.35381478438175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1133,7 +1133,7 @@ JamEs MadIsoN.
 True Sun, under date of May 14, says;  
 &quot;The Senate were engaged today i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295875045:1844061501:0095/pct:254.16137229987294,204.23183072677094,37.69059720457433,38.53495860165594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295875045:1844061501:0095/pct:84.72045743329097,68.07727690892364,12.563532401524778,12.844986200551977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1169,7 +1169,7 @@ progression from a less arbit try Government; or
 the transition from a popular CJovernipent to an  
 aristocracy or a monarchy.—James Madiso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844091001:0039/pct:48.759255553332,83.05679862306368,14.788873323994396,11.311531841652323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844091001:0039/pct:48.7543771885943,83.05108082059755,14.790728697682175,11.313047868190372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1424,7 +1424,7 @@ preserve ils freedom in the midst of continual
   
 iyfure.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847022001:0878/pct:278.3333333333333,25.464514163874505,60.833333333333336,19.55528480048736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847022001:0878/pct:69.626850114655,6.366128540968626,15.21784448613717,4.88882120012184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1468,7 +1468,7 @@ t t
   
   
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847022001:0878/pct:207.58333333333334,342.79622296679867,61.083333333333336,28.632348461772768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847022001:0878/pct:51.928288513654365,85.69905574169967,15.2803835730665,7.158087115443192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1588,7 +1588,7 @@ the enormities; and the danger to free insti-
 tutions; which follow in the train of war.  
 The American Peace Society, desiring t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1850021901:0032/pct:153.99239543726236,266.8522815158546,44.106463878327,34.77184841453983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1850021901:0032/pct:38.51274248763789,66.71307037896365,11.03081019399011,8.692962103634958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1695,7 +1695,7 @@ dered by both.
 No nation could preserve its freedom in the  
 midst of continued warfare.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864042601:0328/pct:267.7511961722488,267.2043996333639,59.04306220095694,61.74152153987168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864042601:0328/pct:66.96984202967927,66.80109990834097,14.767831498324558,15.43538038496792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1733,7 +1733,7 @@ on the Ohio river near Aurora, Ind­
 iana, on last Wedneday morning, and  
 i 20 out of 100 passenger, mostly wo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627610:1874081501:0645/pct:20.412704835120373,95.17945637483106,16.629577179850294,11.353056014416579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627610:1874081501:0645/pct:15.825232570293718,73.77119137215347,12.888052681091251,8.79854133529891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1754,7 +1754,7 @@ atmies and dent and taxes are the known
 instruments for bringing the many under &#x27;  
 the dominion of *he few —Munso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1874091901:0598/pct:85.70480928689884,46.58321624728573,11.442786069651742,3.180482820283561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1874091901:0598/pct:85.69059857403415,46.57726692209451,11.44503399104626,3.183269476372925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1787,7 +1787,7 @@ armies and debts and taxes are the known
 instruments for bringing the many under  
 the dominion of Hie lew [Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1875030401:0042/pct:28.114396509936984,3.2230703986429177,11.003393116820165,3.5017569368714407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1875030401:0042/pct:28.109854604200322,3.2226799127695664,11.005654281098545,3.504361521686455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

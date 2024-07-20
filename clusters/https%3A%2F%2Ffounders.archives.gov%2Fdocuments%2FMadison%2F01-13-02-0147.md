@@ -32,7 +32,7 @@ and MERCHANDIZE, imported into the UNI­
 TED STATES.  
 BE IT ENACTED by the Senate andHoufe of Rcprefentatives o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789080801:0004/pct:17.621776504297994,10.194359756097562,25.35816618911175,4.744664634146342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789080801:0004/pct:17.62893982808023,10.194359756097562,25.351002865329512,4.749428353658536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +65,7 @@ United States, ?nd on the fixteehth day of May, one thousand
 even hundred and eighty-nine, wholly owned and thereafter con­  
 tinuing to be owned by a citizen or citizens of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0004/pct:71.44079885877318,46.15531387139859,23.794579172610558,12.344972333524137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0004/pct:71.44079885877318,46.15531387139859,23.823109843081312,12.368822743751192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ posed by law, on the tonnage of Ships or Veflels,
 and on Goods, Wares, and Merchandizes, import­  
 ed into the United States,&quot; as obliges (hips o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789100701:0004/pct:71.74098267537632,54.69613259668508,23.09003124112468,3.124404648504477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789100701:0004/pct:71.75518318659472,54.70089540864927,23.104231752343086,3.129167460468661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ United States,”” may legally be sued for,
 prosecuted, recovered, and disposed of.  
 Sec. 22, Aud be it further enadied, Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789102901:0481/pct:29.610014443909485,48.32551367092704,21.11218103033221,16.55071994822844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789102901:0481/pct:29.610014443909485,48.33090654155207,21.12020542449045,16.56150568947851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ flaps or veflels, and on goods, wares, and mer­
 chandizes imported into the United States &quot; as  
 hath rated the ruble of Ruflia at one hundre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112101:0004/pct:45.895627644569814,79.67945048654836,24.936530324400564,7.861095210837626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789112101:0004/pct:45.90973201692525,79.6889906506392,24.950634696755994,7.865865292883037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ bylaw on the tonnage of ships or vessels, and on goods, waresand
 merchandizes imported into the United States.&quot;  
 Oil motion, the Senators from the State of New-York pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789121901:0004/pct:72.74526434831779,23.34104938271605,23.324851569126377,3.317901234567901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789121901:0004/pct:72.75940062199604,23.355516975308642,23.338987842804638,3.3034336419753085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ fame (hall be imported, together with their tackle and apparel,
 (hall he recovered and fold, and the proceeds accounted for, and  
 applied in the manner provided for forfeitures, by the ast, intitu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791022301:0003/pct:38.52950457557589,14.953632148377125,27.674345219312087,5.081143740340031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791022301:0003/pct:38.537393499526665,14.968122102009273,27.698011991164407,5.0666537867078825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ tion of duties imposed by law on the tonnage of
 , ships or vessels, and on goods, wares, and mer­  
 chandises imported into the United States,’ ap-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1846031701:0668/pct:43.25382698469206,83.30061349693251,18.333926664293344,4.871165644171779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1846031701:0668/pct:43.24612920448478,83.29039381670961,18.336596072848074,4.874657506236454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ goods, wares, and merchandises imported into the United
 States,&quot; and approved July thirty-one, seventeen hundred  
 and eighty mine, it was provided that all fees and duer col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846080301:0148/pct:7.488087134104833,100.60401904983158,54.40776038121171,7.585085375769544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846080301:0148/pct:2.496029044701611,33.534673016610526,18.13592012707057,2.528361791923181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ vessels, and on goods, wares and merchandises
 imported into the United States,&quot; approved July  
 thirty-one, seventeen hundred and eighty-nine, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846100201:0134/pct:17.258207630878438,78.11820330969267,13.383614315291334,2.2411347517730498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846100201:0134/pct:17.268066646948636,78.11820330969267,13.378684807256235,2.2474389282899923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

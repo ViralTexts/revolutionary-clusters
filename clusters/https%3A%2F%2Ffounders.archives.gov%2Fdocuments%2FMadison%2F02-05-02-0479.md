@@ -38,7 +38,7 @@ advantageous to the commerce of France
 and the United States to encour*ge the  
 communication of both nations for 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803102101:0003/pct:23.238897396630936,23.151044925541235,15.677641653905054,7.58353147290702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803102101:0003/pct:23.24527820316488,23.155216284987276,15.677641653905054,7.587702832353064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -69,7 +69,7 @@ i tribes and nations of Intlinns, until, by nsiu- !
 tribes or nations, other suitable articles shall i  
 have been agreed upon. c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803102401:0256/pct:52.73858291609771,19.689257969461558,24.245182825064482,5.66121975176355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803102401:0256/pct:52.730582524271846,19.6875,24.24656148867314,5.663690476190476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ vantageous to the commerce of France
 and the United States to encowrage the  
 communication of both nation, for a li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110201:0001/pct:20.611526616805982,40.85188770571152,19.35767707875055,8.491218365371317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110201:0001/pct:20.611526616805982,40.85649748766883,19.36500953218947,8.49582814732863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ ans, until by mutual consent of tW Unit­
 id States and the said tribes or nations,  
 other articles Shall have been agreed up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803110401:0163/pct:68.19555067289207,86.79213002566296,22.850865146937654,5.303678357570573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803110401:0163/pct:68.17682591982427,86.77728361272665,22.851455244371223,5.307047553882997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ vantageous to the coramerce of France
 and the United States to encourage  
 the communication of both nation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0383/pct:58.53770692826487,43.678849610545235,15.987124463519313,8.098661873377273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0383/pct:58.53770692826487,43.68550695692697,16.00245248313918,8.098661873377273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

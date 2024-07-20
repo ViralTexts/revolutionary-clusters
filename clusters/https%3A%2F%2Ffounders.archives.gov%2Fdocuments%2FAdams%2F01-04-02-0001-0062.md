@@ -65,7 +65,7 @@ and the cry immediately spread through the
 whole kingdom, and I -oppose, over ail Europe.  
 “(Riil etmt tkarmant dc voir embracer Solo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081101:0332/pct:72.14629451395572,22.70866578783043,12.743022136669875,9.956289460903351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081101:0332/pct:72.13935136175536,22.707090328846956,12.745003689089918,9.957911289949585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ tumult subsided, and the cry immediately spread through
 the whole kingdom, and, 1 suppose, over all Europe,  
 &quot;Qa &#x27;il elait charmaut devoir embrasser Solon *t So
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851081501:0830/pct:67.35361465489042,17.163795320133712,15.799803729146221,8.896888660323992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851081501:0830/pct:67.35361465489042,17.168080911973945,15.805255697306727,8.901174252164225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ ately spread through the whole kingdom, and, I suppose, over
 all Europe, &quot; Qu&#x27;il etait charmant de voir embracer Solon  
 et Soahcel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851081601:0734/pct:80.56570577886046,27.540878486694453,16.56516443361754,10.23832424922518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851081601:0734/pct:80.56570577886046,27.548003277403726,16.569675643975277,10.23832424922518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ through the whole kingdom, and, I sup­
 pose, over all Europe, &quot;Qu&#x27;il etait charo  
 mant de voir embrasser Soton et Sophocle!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851082501:0200/pct:194.4095835710211,214.18176630047083,46.339608290549535,51.43387073762305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851082501:0200/pct:48.59315589353612,53.537803138373754,11.582699619771864,12.856633380884452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ dom, and, I suppose, over all Europe, * How
 charming it was to see Solon and Sophocles  
 embrace.’ ’’—Life and Times of Benjamin frank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110132:1865012901:0002/pct:56.1381074168798,65.92851592851594,12.148337595907929,5.736855736855737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110132:1865012901:0002/pct:56.14267446108878,65.93822843822844,12.148337595907929,5.736855736855737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ actors&quot; &quot;embraced each other by hugging one
 another in their arms and kissing each other&#x27;s  
 cheeks,&quot; to the disgust of Puritan John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:55.81472842385871,136.80611890137908,46.467844051982674,21.091667632402363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:18.60490947461957,45.60203963379303,15.48928135066089,7.030555877467455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ when the assembly cried out that they should
 be introduced to each other. Upon this they&#x27;  
 bowed and spoke to each other. Rut this wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347272:1878062001:0526/pct:83.6607259008716,27.387904582797187,10.940548978795368,2.0488963674156193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347272:1878062001:0526/pct:83.64984391259105,27.385193982581157,10.94346167186958,2.0519926101873844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -708,7 +708,7 @@ reduced to one or the other of theso three things?starved, 1)
 he dissolved, or dispersed, in order to obtain subsistence in t  
 ty the best manner they can.&quot; * * * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:46.52346857597454,62.34761844916426,16.817820206841688,3.317833354279251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:46.52877220896314,62.35180763269239,16.823123839830284,3.3220225378073813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -734,7 +734,7 @@ all community at large, in the good which I am persuaded wilt c
 [(l result from the measure by making better officers and better  
 &#x27; troops.&quot;)?5 Sparks, p. 197. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:46.53937947494033,65.3889656905869,16.833731105807477,5.0521553349252235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:46.54468310792893,65.3889656905869,16.844338371784673,5.060533701981484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -761,7 +761,7 @@ said, From my soul I pity those mis­
 eries which it is neither in my power  
 to relieve or prevent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1861042401:0155/pct:159.94338287331917,323.8070805541303,50.46001415428167,8.311954848640328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1861042401:0155/pct:39.98584571832979,80.95177013853258,12.615003538570418,2.077988712160082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -866,7 +866,7 @@ said, &quot;From my soul I pity those miseries,
 which it is neither in my power to relieve  
 or prevent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1863022001:0892/pct:286.007326007326,318.44774364251066,47.3992673992674,6.702925180067617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1863022001:0892/pct:71.51492947426269,79.61193591062766,11.851987543506137,1.6757312950169043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -883,7 +883,7 @@ ton said, &quot;Frdtii mj heart I pity those
 miseries, which it Is neither in my pow­  
 er to relieve nor prevent,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775526:1863032601:0424/pct:72.5914861837192,81.56939402401564,15.963405526512323,2.3317509075677183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775526:1863032601:0424/pct:54.46395218528203,61.184026808154144,11.991034740381023,1.7453225356045796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -908,7 +908,7 @@ THE MILITARY SYSTEM AND STARVATION.
 THE SOUTH TO BE STARTED OCT.  
 The Jackson (Miss.) Appeal sensibl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn84030186:00294555699:1863042501:0313/pct:50.96215522771007,18.533412182140744,46.44002565747274,88.66942637492608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn84030186:00294555699:1863042501:0313/pct:33.996470399486604,12.359550561797754,30.980266324402375,59.112950916617386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -953,7 +953,7 @@ ington said, From my soul I pity those
 miseries, which it is neither in my power  
 to relieve or prevent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1863090501:0535/pct:116.6904422253923,247.05882352941177,50.998573466476465,7.275541795665634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1863090501:0535/pct:29.183018194791295,61.76470588235294,12.754191937210132,1.8188854489164086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1019,7 +1019,7 @@ Washington deroted himself with untirinj
 energy, during the winter, to ameliorate&#x27;th  
 condition of the army and to prepare for a ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870051901:0186/pct:37.21117138838658,39.586600142551674,14.506730962427165,5.659301496792588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870051901:0186/pct:37.203696263559664,39.58095781071836,14.508838891120933,5.662058152793614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +1065,7 @@ of a treaty with France, signed by Benjamin
 Franklin, in which the United States were  
 guaranteed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn82015483:00271762732:1882061701:0586/pct:33.100558659217874,36.917200314571396,13.184357541899441,6.5835299404561285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn82015483:00271762732:1882061701:0586/pct:24.839340597932384,27.693517582294124,9.89103101424979,4.943264801707674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1119,7 +1119,7 @@ States “their liberty, sovereignty and independ
 cnee, absolute and unlimited,” and the United  
 States guaranteed to France, among other things
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210041:1884031501:0559/pct:63.95897435897436,82.02985074626865,18.70769230769231,8.686567164179104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210041:1884031501:0559/pct:49.56812039637539,63.57432041642568,14.498436754808965,6.73992673992674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1323,7 +1323,7 @@ tion the finest exhibition that a com­
 mander has ever given of great quali­  
 ties, both of heart and mind, I shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539288:1896021901:0144/pct:21.988950276243095,109.46484784889822,14.392265193370166,12.61280167890871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539288:1896021901:0144/pct:16.49626968775905,82.09863588667366,10.804089527493783,9.464847848898216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1349,7 +1349,7 @@ cupy a cowV bleak bin, andsteep-an-der
 frost and snow withont clothes or  
 Waakets.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1896022001:0091/pct:30.239520958083833,131.45007166746296,20.874916833000665,10.248447204968944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283053:1896022001:0091/pct:20.16974538192711,87.63736263736264,13.929106340489266,6.832298136645963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1415,7 +1415,7 @@ tion the finest exhibition that a com­
 mander has ever given of great quali­  
 ties, both of heart and mind, I shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1896022001:0048/pct:54.40038684719536,79.46007173872003,21.760154738878143,20.558806871814234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1896022001:0048/pct:40.822249093107615,59.59977345667359,16.324062877871825,15.423824806494242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1455,7 +1455,7 @@ tion the finest exhibition that a com­
 mander has ever given of great quali­  
 ties, both of heart and mind, I shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473728:1896022101:0056/pct:28.542047531992687,49.913806613383485,38.459780621572214,81.06879799404481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473728:1896022101:0056/pct:21.417142857142856,37.43927284124745,28.845714285714287,60.805516376743455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1533,7 +1533,7 @@ room, by a good fireside, than to oc
   
 cupy a cold, bleak mil, anu uu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896022201:0192/pct:19.898273736128235,131.66593212869105,18.44944512946979,7.8999559277214635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896022201:0192/pct:13.276792598303778,87.7809607756721,12.3053199691596,5.266637285147642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1586,7 +1586,7 @@ want of blankets, to sit up all night by fires,
 instead of taking rest in a natural and common  
 way), have decreased 2 099 men.” By fne 1st o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1896030501:0745/pct:27.868201667328304,78.86323268206039,21.357681619690354,7.924579860636699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685154:1896030501:0745/pct:27.862671164913674,78.85245901639344,21.360058212608322,7.928051001821494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

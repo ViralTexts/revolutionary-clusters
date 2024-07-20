@@ -64,7 +64,7 @@ In pipes hhds and quarter casks,
 For sale by the Subscriber,  
 GIDEON HILL WELLS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800111301:0002/pct:24.593796159527326,67.92543789169211,16.91285081240768,17.515667684396593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800111301:0002/pct:24.599950763170852,67.9294552466656,16.925160019694733,17.53575445926402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ able to continue their delufion.—What a
 pity it is this expenl&#x27;e could not be taxed  
 upon them.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800121701:0003/pct:6.2682215743440235,80.02087371403012,21.452866861030127,15.386909199343968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800121701:0003/pct:6.276320051830256,80.02087371403012,21.46096533851636,15.401818995079767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ Zertainty; though it iz lomectrharct esi- 31,
 &quot; it is the exPensc could not be tax-ss&#x27;d up.  
 &quot; anthem.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100701:0432/pct:76.828125,8.727956315459672,21.125,21.59162116193716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100701:0432/pct:76.81612248086236,8.727175080558538,21.126907254074883,21.59267215658193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ it w oniversaffy admitted that Washington pos­
 sessed the power to penetrate farther into the effect  
 of human occurrences than other men ; and in thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808072501:0016/pct:48.004926108374384,65.09659907392623,20.344827586206897,14.881047421363563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808072501:0016/pct:47.99310514651564,65.08620689655173,20.345973898054666,14.882662835249041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ farther into the effect of hdman occur*
 I reacts thaa other men ( and to this ex­  
 I tract we have a striking evidence df th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808080501:1006/pct:36.27974745021855,22.972541507024264,18.528411850412823,21.535759897828864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808080501:1006/pct:36.270939548434086,22.968874700718278,18.52998300558388,21.536312849162012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

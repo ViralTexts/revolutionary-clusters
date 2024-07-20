@@ -36,7 +36,7 @@ and retouched, I submit n wish, that as soon as you have
 given it the body that you mean it to hav&lt;\ it msv be 3*^.1 to  
 me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1852030501:0612/pct:6.328024106758502,45.84087660790853,15.898981202468073,2.791805621724631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1852030501:0612/pct:6.328024106758502,45.844052723519134,15.903764289472425,2.798157852945847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ it, may be sent to me.” On May 15 following it
 was sent to Hamilton in its rough  
 state, somewhat altered since Hamilto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210053:1884050201:0017/pct:64.35175672899116,89.09172527308095,18.471337579617835,7.840790064342361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210053:1884050201:0017/pct:49.87791932059448,69.04909161190568,14.315286624203821,6.080402010050252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ and retouched, I submit a wish that ai
 soon as you have given It the body yot  
 wish it to have it may be sent to me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655089:1896091901:0437/pct:2.7896233120113716,72.71747912739025,13.503909026297086,3.7436035550767572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655089:1896091901:0437/pct:2.8029495380241647,72.72757877726906,13.517235252309879,3.740237005117156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

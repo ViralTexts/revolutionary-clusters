@@ -463,7 +463,7 @@ ill, the constitutional judges will decide. Till that decision
 shall be obtained, the Government of the United States must  
 pursue what they think right, with firmness, as is their duty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851050601:0440/pct:54.908585055643876,18.72791519434629,70.7670906200318,267.27031802120143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851050601:0440/pct:18.302861685214626,6.24263839811543,23.589030206677265,89.09010600706713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ St. Giles. &quot;For our citizens to commit murders
 and depredations on the members of nations at  
 peace with us, or combine to do it, as much cal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851050701:0444/pct:52.6453957996769,32.30286738351254,37.92407108239095,5.645161290322581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851050701:0444/pct:17.548465266558967,10.767622461170848,12.64135702746365,1.881720430107527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ ing trie protection 01 me laws, oetng oounu to
 In his proclamation, therefore, the President  
 denounced the offences therein contemplated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851090801:0252/pct:31.176389081335735,13.405797101449275,14.299570458639323,30.851998243302592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851090801:0252/pct:31.185626529952426,13.41311667398624,14.30418918294767,30.84833845703411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ zens are.&quot;  th wutd
   
 HUNGARIANS IN THE UNITEd STaTEs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1851091801:0912/pct:233.15343099460293,23.22400558269365,144.94988434849654,313.635729239358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1851091801:0912/pct:58.29959514170041,5.8060013956734124,36.24445729708888,78.4089323098395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -788,7 +788,7 @@ coveted the islands on both sides of the continent
 to the &quot;main channel&quot; of the two great  
 neas, a mere private expedi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852011601:0075/pct:2.6410897970531,40.09593371852175,15.068112315818738,21.443366401395398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852011601:0075/pct:2.6410897970531,40.10320142447036,15.082012788434806,21.443366401395398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ jurisdiction--or on the high seas, where they had a
 personal jurisdiction, that is to say, one which reached their,  
 own citizens only; this beins an appropriate part of each
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866030901:0576/pct:249.6068495544295,73.38155958803335,49.78158308579416,17.128494359980383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866030901:0576/pct:83.20228318480983,24.460519862677785,16.593861028598056,5.7094981199934605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1170,7 +1170,7 @@ Lord Clarendon knows, and every Eng
 man knows, that had England been thus tre  
 no amiable oratory, no diplomatic salves, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869022201:0370/pct:151.60791589363018,5.847698014401048,92.08410636982066,290.90115644774164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869022201:0370/pct:50.53597196454339,1.9492326714670158,30.69470212327355,96.96705214924722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

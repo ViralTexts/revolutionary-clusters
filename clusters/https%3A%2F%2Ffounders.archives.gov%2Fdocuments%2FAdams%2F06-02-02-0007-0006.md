@@ -291,7 +291,7 @@ from the Creation to this Present. The third
 edition, by Samuel Purchas, parson of St.  
 Martin’s, by Ludgate, London, folio. Printed 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172042:1859081201:0747/pct:7.203065134099617,50.0,16.28352490421456,1.6779469825155104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172042:1859081201:0747/pct:5.587449272493319,38.753505992059154,12.629911907354252,1.3076895057006521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ gate, London, folio. Printed by William Stansby,
 for Henry Fetherstone, and are to be sold at his  
 shop, in Paul&#x27;s Churchyard, at the Sign of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859081201:0151/pct:86.03003683763106,32.83521809369952,10.952111079625956,1.6760904684975768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026359:1859081201:0151/pct:86.0347596108435,32.83521809369952,10.956833852838386,1.6828217555196554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

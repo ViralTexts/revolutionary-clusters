@@ -145,7 +145,7 @@ have been ascertained aad admitted, in due course of* settle­
 ment at the treasury, and which are of a nature according to  
 the usage thereof, to require payment in specie, five thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792053001:0002/pct:8.084303240012582,29.844186975629245,27.776030198175526,4.814222932481023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792053001:0002/pct:8.100031456432841,29.844186975629245,27.791758414595783,4.819216939672393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ and for the cftablifhment of ten cuttcs, and for
 other purposes.—Total 92,599 dols. 66 cents.  
 General eftitnatc of the expences of the Wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792120101:0001/pct:27.460815047021942,64.45052796245601,20.062695924764892,5.123191239734063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792120101:0001/pct:27.476489028213166,64.46030504497458,20.062695924764892,5.128079780993351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ the i reafury, and which are of a nature, accord­
 ing to the usage thereof, to require payment in  
 specie, three thousand dollars.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796021501:0002/pct:52.489502099580086,40.274076893795204,21.295740851829635,4.872478111914732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796021501:0002/pct:52.50449910017996,40.28359345260754,21.288242351529693,4.881994670727065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ ftruftian of lanterns, and of the lamps and
 materials nfed in them, including an allow­  
 ance for the enctcafed number of light-hou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032101:0002/pct:28.623270582898616,59.519650655021834,15.695168972556136,4.2212518195050945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032101:0002/pct:28.634611022907688,59.519650655021834,15.700839192560672,4.228529839883552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ course of settlement at the treasury, and
 which arc o1&#x27; a nature, according to the vi­  
 sage thereof, to require payment in specie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1802062301:0194/pct:11.077791497618628,47.96390834619494,16.42264949726583,13.249436067909295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1802062301:0194/pct:11.07583774250441,47.95821462488129,16.425631981187536,13.25182019626464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ specie, two thousand dollars :
 l or additional compensation to the  
 clerks of the several departments of state
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804032801:0069/pct:42.71529501623067,43.87781856318826,17.739163643307236,17.422653382275826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804032801:0069/pct:42.707140129820544,43.87206711233451,17.74214076619575,17.424738934766463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ at the treasury, and which are of a
 nature, according to the uluge there­  
 ~of, to require payment in {pecie, tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805041601:0062/pct:24.50537466895155,70.96169036334913,16.77831437918679,8.116113744075829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805041601:0062/pct:24.51056758581295,70.96498156924697,16.78350729604819,8.116113744075829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ light houses, beacons, buoys, and pub­
 lic piers, and stakeage of channels,  
 bars and shoals, &amp; certain contingen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807033101:0109/pct:61.63557565479555,44.60622942517093,17.54286791030714,2.848822486705495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807033101:0109/pct:61.623963828183875,44.60058235219648,17.545842753077117,2.8526817740642274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ rui uic maintenance and support ofli&lt;ht-housc.«,
 beacons, bnoys, and public piers, n id siakcngc  
 of channels, bars and shoals, and certain contin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112002:0245/pct:3.2323232323232323,66.11760199195557,21.48148148148148,2.2601034284619805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112002:0245/pct:3.2315978456014363,66.10494063577174,21.484141232794734,2.2660538746329633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ light-houses, beacons, buoys, and pub­
 lic piers, stakeages of channels, bars  
 and shoals, and certain contingent ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051701:0167/pct:40.85551330798479,40.50488392743879,17.813688212927758,2.8161867309399975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808051701:0167/pct:40.847747576506364,40.49974632166413,17.816638154976875,2.8200575004227972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ For the maintenance and support of light hou­
 ses, beacons, buoy-3, and public piers, sukeages  
 of channels, bars, and shoals, and certain cont
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810070601:0074/pct:24.737793851717903,59.78829541306728,17.269439421338156,9.344202457719918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810070601:0074/pct:24.733321280057854,59.78102189781022,17.27234375941662,9.347120843471208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ For the maintenance and support
 public piers, stakeages of thmnels,  
 bars and shoals, and certain contin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811042901:0148/pct:23.400704617096235,26.245210727969347,17.949193398850362,15.45338441890166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811042901:0148/pct:23.39636633296255,26.241859277231516,17.952045482635025,15.455667645681693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ For the maintenance and support oflight hou­
 scB, beacons, buoys and public piers, ainkeages  
 of channels, bars and shoals, and cert sin con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070201:0070/pct:23.524229074889867,85.47651337689557,16.704845814977972,1.6644063617309826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070201:0070/pct:23.520084566596193,85.46597633136095,16.707775428705663,1.668310322156476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -254,7 +254,7 @@ Jalls into decay from profiigacy, Jolly, vice, or
 art, a skill, and consequently, with a success  
 which no vulgar democrat can oblain.” 1. wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827082101:0342/pct:21.83822434083122,57.15857928964482,16.088187099657382,3.1615807903951976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827082101:0342/pct:21.83822434083122,57.16191429047857,16.093152589502953,3.164915791228948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ democrat can attain.”
   
 These were the sentiments of the elder Ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827112001:0396/pct:22.485207100591715,30.704971475142624,16.2949476558944,3.8814180929095357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827112001:0396/pct:22.485207100591715,30.708367291496877,16.2949476558944,3.8814180929095357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ tained a restoration to power, do in order to keep
 A. Like “the sow that was washed and returned  
 to her wallowing in the mire”—turn monarchist
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020201:0361/pct:20.42095115681234,27.088363109608885,15.488431876606684,6.301303718010623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020201:0361/pct:20.417670682730925,27.085093542546772,15.491298527443107,6.304566485616576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ of the people with an ardor, an art, a skill, and
 consequently with z success which no vulgar  
 democrat can attain.”’ It was in onc of thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828100701:0571/pct:42.93608124253286,42.283656392331324,15.875149342891278,3.9614447622073934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828100701:0571/pct:42.946037435284744,42.283656392331324,15.875149342891278,3.9720368605020653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ democrat can attain.”’ It was in onc of thes
 ’ l ib but the fate of place, and the rough brake  
 That virtue mu-t go through.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830020301:0425/pct:19.20731707317073,44.54456892352655,16.03299856527977,1.2177301509985388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830020301:0425/pct:19.203873050026896,44.53914525751857,16.036100651485267,1.2216404886561956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ That virtue must go through. We must not
 stint  
 Our necessary actions, in the fea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016939:00295878216:1838051901:0534/pct:40.765570934256054,100.41736227045075,20.523356401384085,3.1302170283806343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016939:00295878216:1838051901:0534/pct:30.586199437594637,75.31997774067891,15.401254596582305,2.3511407902058985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ Our necessary actions, in the fea
 That virtue must pass through. We must not stint  
 Our necessary actions, in the fea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841060401:0229/pct:78.04674457429049,306.63418827912307,58.263772954924875,6.018054162487462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841060401:0229/pct:19.51983298538622,76.65854706978077,14.572025052192068,1.5045135406218655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ bers wiih bim, and tossing them into Mary&#x27;s . in offn-e. and splendid in we
 lap &quot;There&#x27;s the Lady&#x27;s Bo k Ur vou,&#x27; decay, from profligacy, folly, vice or misfor­  
 Marv, and no thanks to Mr. Tompkins!&quot; tunr, thry generally turn Democrats, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848093001:0586/pct:84.6123727486296,74.60716530483973,38.057948316366485,2.4827152734129476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848093001:0586/pct:63.4814959859017,55.955373978629794,28.54905032308596,1.8698931489629165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ rertect, that
 Ami with a care exempt themselves from tear;  
 Things dune without example, in their issu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850071701:0074/pct:56.54888605080176,50.491729995529724,13.551866042287498,3.2074206526598124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850071701:0074/pct:56.54888605080176,50.491729995529724,13.556596187502956,3.2111458798986736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ That virtue must go thiough.*’
 T* is only to be regretted that they did not fur­  
 ther reflect tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850071901:0405/pct:18.592446818479992,47.955212671536835,12.463686627307656,1.8297262238000955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850071901:0405/pct:18.590704647676162,47.95193883123976,12.465642178910544,1.8318769342799928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ That virtue must go through.
 j &quot; &#x27;Tis but the fate of place, and the rough brake  
 That virtue must go through.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1850081601:0277/pct:46.66983824928639,79.6033355871084,14.858864573422137,0.9578544061302682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1850081601:0277/pct:46.675124220319276,79.6108481706859,14.858864573422137,0.9578544061302682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ That virtue must go through.
 &#x27;Tie but the fate of place, and the rough brake  
 That virtue must go through.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1851100201:0516/pct:69.9874686716792,116.6298749080206,19.392230576441104,1.385822909001717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1851100201:0516/pct:52.515279736718384,87.4785381407898,14.558846575771822,1.0424331616384597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -643,7 +643,7 @@ That virtue must go through. We must not
 stint,  
 Our necessary actions, in the fea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn97066026:print:1855022801:0050/pct:28.21256038647343,44.68599033816425,21.932367149758456,2.7887571365832233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn97066026:print:1855022801:0050/pct:28.203477141017387,44.6761800219539,21.933354797166775,2.7936333699231612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ say, &#x27;Tis but the fate of place, and the
 rough brake that virtue must go through  
 We must not stint our necessary actions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776373:1857041001:0118/pct:9.627831715210355,273.35883703136955,51.61812297734628,6.732976281560826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776373:1857041001:0118/pct:2.406957928802589,68.33970925784239,12.90453074433657,1.6832440703902065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ That virtue must go through.”
 Tis but the fate of place, and the rough brake  
 That virtue must go through
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869020901:0449/pct:64.3507175358768,161.99369391219986,34.68673433671684,2.5224351200582102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869020901:0449/pct:21.450239178625598,53.997897970733284,11.562244778905612,0.84081170668607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -846,7 +846,7 @@ seductions to all that are the fate of
 place, and the rough brake that virtue  
 must go through. The sou or via
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn87090237:00295878514:1885082801:0067/pct:45.84905660377358,44.76993638112147,18.891509433962263,2.8406569019085666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn87090237:00295878514:1885082801:0067/pct:34.41113995751711,33.58484982985649,14.184564550389426,2.130492676431425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

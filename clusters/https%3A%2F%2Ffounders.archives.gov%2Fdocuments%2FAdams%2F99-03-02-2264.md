@@ -301,7 +301,7 @@ study Cicero&#x27;s dialogues, and read the Abbe on
 vet&#x27;s remarks on the Theology of the Grecian Phi  
 losophers, annexed to his translations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848040801:0153/pct:43.23144104803494,29.35323383084577,85.54273237679351,269.73273169038526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848040801:0153/pct:14.410480349344978,9.78441127694859,28.514244125597838,89.91091056346175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ Orison dispensation, to be an improve-;. f , , Supreme Arbiter of
 orperfecnonof the law delivered at , crent,; , P  
 Sinai, considered as including a system.., . ... , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848050301:0067/pct:2.088305489260143,8.149753220175755,123.62768496420048,16.72083784759841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848050301:0067/pct:1.566930308909118,6.11532442518358,92.76227428741979,12.543637895750571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ A1 U L . . .....
 toiled by fair idolatries. b? haV I  
 House that he, in his old age, be 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848050301:0067/pct:1.4618138424821003,25.641025641025642,17.497016706443915,95.37739256049115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848050301:0067/pct:1.1043127891359499,19.23678825087276,13.132368303238323,71.5300349103166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ time as in their law and government: it j o&#x27;clock on Monday morning. The fu
 was the practice of the Romans when they , tives, seventy-seven, in number, were all u;0 they promptly responded. Xobly  
 besieged a city to invoke its gods to come I fast asleep billow, and Ed.Sayres, the Cap- j (( t)e niasses, who had been drawn to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848050301:0067/pct:1.6258949880668259,17.31070181774407,69.46599045346062,107.48766100878777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848050301:0067/pct:1.2236979555290255,12.98904538341158,52.12654827637666,80.6187552666426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ to reflect upon the duties to Il.m and to
 your teuow mortals wnicniouow oy inevit­  
 able deductions from them. That yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848050301:0067/pct:16.616945107398568,47.52618273745034,54.385441527446304,49.500421331407246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848050301:0067/pct:12.475749888076406,35.644637053087756,40.81480376063274,37.13735403876249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1462,7 +1462,7 @@ ing afflicted with some of the curses de-
 nounced upon Mount Ebal. The proeof Job, whether considered as history or humanity, kindness, and simplicity of  
 phetical booke are themselves historical,-ar an allegoriral parable, was written totharartef, had won for him the lose o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848070501:1077/pct:12.519319938176197,53.34053178566608,235.39412673879443,319.3413416115535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848070501:1077/pct:3.1316450802242413,13.33513294641652,58.88265996520394,79.83533540288838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1488,7 +1488,7 @@ a   a  e  o
 anat i ismavisss    
 their transgressions, and finally to kee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848070501:1077/pct:72.10200927357033,95.50546632474018,115.53323029366307,18.733972195977866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848070501:1077/pct:18.035955924995168,23.876366581185046,28.90005799342741,4.683493048994467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1538,7 +1538,7 @@ light
 tht, which had been imparted exclusive  
 to them, was never extinguished; th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848070501:1077/pct:70.86553323029366,173.30273991091914,59.73724884080371,76.77149412876231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848070501:1077/pct:17.726657645466847,43.325684977729786,14.942973129711966,19.19287353219058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1637,7 +1637,7 @@ more prositable in this life.&quot; The book
 of resignation under Divine chastisement.  
 of undoubied confidenre in the justice an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848070501:1077/pct:50.23183925811438,53.61047374814415,256.2596599690881,318.9094344715886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848070501:1077/pct:12.565242605838005,13.402618437036038,64.10206843224435,79.72735861789715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1719,7 +1719,7 @@ nothing more profitable in their life.­
 Wisdom of Solomon.  
 —Soul of the soul ! Neither though
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1881042201:1175/pct:7.935819601040763,47.06559263521289,16.587163920208152,5.279056386651323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1881042201:1175/pct:7.934099284630392,47.05882352941177,16.590794132524028,5.283091231602666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1738,7 +1738,7 @@ temperance and prudence, justice and for­
 titude, which are such things as men can  
 have nothing more profitable in life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777080:1886062501:0309/pct:134.82142857142858,300.5069903210939,57.67857142857143,9.033645721308957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777080:1886062501:0309/pct:33.705357142857146,75.12674758027347,14.419642857142858,2.2584114303272393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

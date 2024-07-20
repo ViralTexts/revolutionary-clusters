@@ -146,7 +146,7 @@ sceptered tyrant will learn we are not mere brutes to
 crouch under his hand, and kiss the rod with which he  
 esigns to scourge us. And still again, the same idea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530443:1854070601:0454/pct:151.02794731769995,18.02887483593843,46.98040475425634,12.086863142823052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530443:1854070601:0454/pct:50.34264910589999,6.009624945312811,15.660134918085449,4.028954380941017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ should keep even pace with Massachusetts
 in suplying mor and means for the commol  
 cause. &quot;No two sisters,&quot; exclaimed M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858010101:0769/pct:140.85497835497836,134.12836920690324,42.07251082251082,40.29474500678689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858010101:0769/pct:46.95165945165945,44.70945640230108,14.024170274170274,13.431581668928963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ as in the summer. A sure method of re­
 moving the pests is to pour strong alum­  
 water on the floor to the distance of hal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1875120301:1110/pct:75.374925014997,115.47158280708902,21.160767846430716,17.661438174781015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1875120301:1110/pct:50.27002700270027,76.98105520472602,14.116411641164117,11.774292116520677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ will cease to exist before I yield to a connection on
 such terms as the British Pariiament propose; and in  
 this I speak the sentiments of America.&quot; At thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897072001:0640/pct:226.8882175226586,210.7278529098921,50.22658610271903,18.659778149217445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897072001:0640/pct:56.72205438066465,52.68196322747303,12.556646525679758,4.664944537304361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

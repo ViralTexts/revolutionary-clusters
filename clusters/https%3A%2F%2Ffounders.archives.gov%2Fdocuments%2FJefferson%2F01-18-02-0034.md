@@ -346,7 +346,7 @@ trary direction and beyond which
 they seldom pass either in their ad­  
 vancement or decline
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:00271766294:1879111201:0601/pct:12.311015118790497,72.96105804555474,20.021598272138228,11.403379867744306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_albert_ver01:data:sn96027724:00271766294:1879111201:0601/pct:9.54081347988618,56.54847771619467,15.527534452937566,8.841393971604282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ and beyond which they never pass,
 either ni their advancement, ur their  
 decline.&quot; This truism was illustrate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551396:1894010301:0058/pct:49.1520380839036,90.81106422878575,15.992264207081226,5.757149554617909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551396:1894010301:0058/pct:49.161955767132795,90.81106422878575,15.992264207081226,5.763400531333021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

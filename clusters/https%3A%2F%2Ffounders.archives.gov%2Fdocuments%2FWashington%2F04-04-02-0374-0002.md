@@ -529,7 +529,7 @@ are.
 Copy. DANIEL SHHAYS, Capt.  
 The jellowing is a capy of a iceter from Gin. Livi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1787021001:0433/pct:5.6278139069534765,25.3751475299275,56.82841420710355,69.07772719608835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1787021001:0433/pct:5.636151409037852,25.386387905356038,56.83675170918793,69.08896757151689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ About 150 fell into our hands, and none efeaped
 but by the most precipitate flight in different di.  
 reétions : but mofy gl sheir wWsn fled for Athel,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1787021001:0434/pct:7.592730893701767,62.32103756105777,27.2840428180234,33.03014990736062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1787021001:0434/pct:7.609327026802755,62.33226657683454,27.275744751472907,33.03014990736062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ while it mutt have buoyed up the idpes of their
 tions,  
 As soon as the troops dre able to meve, T shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1787021001:0434/pct:37.16704007966144,15.142327774970523,26.935524022902662,10.325080006737409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1787021001:0434/pct:37.16704007966144,15.147942282858907,26.935524022902662,10.34192353040256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -44,7 +44,7 @@ the pleasure of pouring out a libation, t·&gt; the ttn 1
 States, that had actually adopted the general I  
 government.&quot; The Alexandria .Museum contain* 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845040701:0064/pct:84.0492671009772,42.47114919494161,15.360342019543975,8.043673554004561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845040701:0064/pct:84.04071246819339,42.46821448313985,15.362171331636981,8.04542104293348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -82,7 +82,7 @@ No statesman could well entertain more decided
 onee eon tan e e ainon toin the  
 right and the duty of Governments called into being b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:48.87677568549719,242.0523368757856,58.9197224975223,27.345446234716032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:16.292258561832398,80.68411229192854,19.6399074991741,9.115148744905344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ tablished upon a durable basis, and that Providence seems
 still disposed to favor the members ol it with uhequalif d  
 oppo;tunnies lor political happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:62.44426094137077,28.87332908975175,15.739058629232039,12.718014003819224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:62.455271125791356,28.881816252917464,15.733553537021745,12.713770422236367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ basis, and that Providence seems s&#x27;ill di-posed to
 favor ihe members of it with unequalled opportu­  
 nities tor poli ical happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:26.060968320382546,46.97185838412657,17.169754931261206,13.941123070937621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:19.54864743685548,35.23537803138374,12.88297713346286,10.452600181558813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ taiumeut.&quot; They had a dinner at the Oity
 Hotel, of which Gadsby, the father of the  
 Washington Gadsby, was landlord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663730:1874042101:0379/pct:2.4985883681535856,40.68052930056711,15.782044042913608,11.493383742911153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663730:1874042101:0379/pct:2.4985883681535856,40.68683049779458,15.796160361377753,11.493383742911153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ have actually adopted the General Gov
 ernment,&quot; and &quot;hopes the Union will  
 now be established on a durable basis.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:17.702999268471103,216.4610248221803,45.574250182882224,12.948178255189433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:4.427369191364801,54.11525620554507,11.397731430662276,3.237044563797358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

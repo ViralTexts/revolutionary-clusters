@@ -140,7 +140,7 @@ and unfailing glory of Clnistiarlity- this is
 II Cooipiest over ourselves, w&#x27;Mii li, iVillimit  
 the aid of a mereifttl Coil, none of us ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824031201:0653/pct:22.361546499477534,63.514887436456064,15.047021943573668,12.679738562091503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824031201:0653/pct:22.35687421646469,63.50566366540807,15.049101546176347,12.68152773743828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ unfading glory of Christianity—this is a con­
 quest over ourselves, which, wiihout the aid of  
 a merciful Cod, none of us c:ui achieve, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:34.05097356340035,51.17354607469071,15.149596327370586,11.793270898369753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824031201:0058/pct:34.04558404558404,51.16763005780347,15.152474411733671,11.795761078998073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ out the eid of « mercifui God, none of us can
 achiecve, and which it was worthy of his spe­  
 cial interposition to eneble us 10 sccomphish.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824032501:0663/pct:50.95238095238095,38.2990999307639,21.485714285714284,16.755135010385413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824032501:0663/pct:50.96507936507936,38.30679283021771,21.47301587301587,16.755135010385413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ j merciful God, none of us can achieve,
 i and which it was worthy of his speebj  
 . interposition to enable us to accomplish.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1824032901:0385/pct:38.56958048419885,62.111563932755985,17.13176861947884,21.242995415180847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1824032901:0385/pct:38.562453806356245,62.103654654272255,17.134762256713476,21.24453499724097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ ol a mereilV I God, none ol us cat) achieve,
 and which it was worthy of his spe- ial  
 interposition to enable us to accomplish.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824040601:0214/pct:22.88135593220339,11.777301927194861,35.91101694915254,84.18711909075935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824040601:0214/pct:22.875297855440827,11.77536231884058,35.908128144029654,84.17737154150197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ a merciful God none of us can achieve,
 and which it was worthy of his special  
 interposition to enable us so accomplish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824042101:0128/pct:82.78655326042933,33.71024734982332,19.09680032401782,22.063604240282686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824042101:0128/pct:64.1642688987706,26.132836747361885,14.799895370128171,17.09570234052653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ ourselves, which, \\ ithout flm ,-i: .
 none of us can achieve; and iv.i , . i:  
 his special interposition to enable H; ■•&gt; ;,f « i.iutdi. ii.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828101801:0339/pct:58.641975308641975,69.38172360799149,17.93289015511238,12.7320014186074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828101801:0339/pct:58.6326950466846,69.37352245862884,17.935327319723584,12.734436564223799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +1065,7 @@ none of us can achieve, and which it was worth
 of His special interposition to enable us to accom  
 plish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848041201:0167/pct:3.259329239489844,24.586370473215318,84.45914029286726,272.5905356936249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848041201:0167/pct:1.086443079829948,8.195456824405106,28.153046764289087,90.86351189787497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1141,7 +1141,7 @@ adopted by Christ; and He expressly
   
 . nar.ifwl them from the rest. lie (li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:1.6756433273488929,50.526188460142734,122.92040694195093,14.75746945687674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:1.2572968118545127,37.89766541671707,92.23170184104175,11.068102092657554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1173,7 +1173,7 @@ person that tribute to too Uoman.s; lie re­
 fused in more than one instance to assume  
 tho oflice of Jude in matters of legal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:1.6307600239377618,63.62646667473086,74.70077797725912,7.427119874198621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:1.2273611734770244,47.71985000604814,56.05448286184703,5.576388048868997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1199,7 +1199,7 @@ m r i . .
   
 Vou will recollect that I am now speaking and deputies from the? nations, their su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:1.570915619389587,84.74658279908068,34.18611609814482,2.2378129914116367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:1.1824577159107919,63.565985242530544,25.654842089507557,1.6813838151687432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,7 +1220,7 @@ Irgued. to &quot;love their enemies, to bless
   
 Taose Who curseu tuem.auu pru .or mose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:0.9874326750448833,94.47199709689126,17.13046080191502,3.3627676303374865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:0.74839095943721,70.86004596588847,12.857356683131268,2.5281238659731464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1244,7 +1244,7 @@ Victories over the evil passions must be
 Comparatively easy. Nor Was tho abso­  
 lute perfection merely preached by Christ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:1.436265709156194,100.02419257288012,16.68162776780371,6.386839240353211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744766:1848051001:0072/pct:1.0776829815895823,75.02116850127011,12.528064660978895,4.7901294302649084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2192,7 +2192,7 @@ achieve, and which it was worthy of His spe­
 cial interposition to enable us to aecomplish.  
 From your affectionate Father
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021805:1848052101:0060/pct:198.81690140845072,34.78260869565217,121.01408450704226,349.35091695858233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021805:1848052101:0060/pct:49.70422535211268,8.695652173913043,30.253521126760564,87.33772923964558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2779,7 +2779,7 @@ myself, and affrighting mry companion&#x27;s penalties of the Levitical law had 
 horse so much that he broke loose from ference to the present life. There are  
 him and ran off pell mell. I detached my many passages in the Old Testament
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848071201:1081/pct:71.48347425057648,225.93783494105037,115.3727901614143,14.95176848874598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848071201:1081/pct:17.87773933102653,56.48445873526259,28.85428681276432,3.737942122186495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2855,7 +2855,7 @@ o
 the Mosaic Law, superadding to them  
 e to eo aena the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848071201:1081/pct:129.3620292083013,117.30975348338693,211.76018447348193,200.2679528403001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848071201:1081/pct:32.35294117647059,29.327438370846732,52.960399846212994,50.066988210075024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2915,7 +2915,7 @@ a ae e e eee o   e o e
 mae than one instance to asslime the ofe  
 er e siee tae e tie o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848071201:1081/pct:118.21675634127594,56.0021436227224,186.5488086087625,315.05894962486605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848071201:1081/pct:29.56555171088043,14.0005359056806,46.655132641291814,78.76473740621651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2950,7 +2950,7 @@ man can achieve over its infirmities; and a muliitude of Romans, and deputies fr
 to him who can attain that elevation of the nations, their subjerts and allics, therei o it at the Whit Isa  
 over the evil passions must be compara this noble sentiment. Yet how feeble and Congressional certificate to give it charue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848071201:1081/pct:188.7009992313605,141.85423365487674,175.4803996925442,52.036441586280816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848071201:1081/pct:47.193387158785086,35.463558413719184,43.88696655132641,13.009110396570204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3065,7 +3065,7 @@ titude of the heavenly host praising God
 and singing, Glory to God in the highest,  
 and on earth peace, goodg will towar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848071201:1081/pct:186.47194465795542,64.09431939978563,119.60030745580323,294.962486602358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848071201:1081/pct:46.63590926566705,16.023579849946408,29.911572472126107,73.7406216505895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3094,7 +3094,7 @@ His special interposition to enable us to
 accomplish.  
 From your affectionate Father
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848071201:1081/pct:247.57878554957725,202.84030010718115,58.4934665641814,36.17363344051447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848071201:1081/pct:61.91849288735102,50.71007502679529,14.628988850442138,9.043408360128618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

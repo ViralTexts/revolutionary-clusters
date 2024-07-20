@@ -1771,7 +1771,7 @@ therein are, and Earth and the things that
 therein are, and the Sea and the things that  
 therein are, that time shall be no longer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843051201:0505/pct:128.21997105643993,171.97898423817864,48.914616497829236,23.817863397548162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843051201:0505/pct:32.07239819004525,42.99474605954466,12.235294117647058,5.954465849387041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2165,7 +2165,7 @@ the things that therein are, and&#x27; the sea, and
 the things whioh aro therein, that there should  
 be time no longer.&quot; Read especially par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016561:1855041301:0341/pct:57.25380039656312,45.745353394866605,12.19431592861864,4.109242634972816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016561:1855041301:0341/pct:57.24434164876921,45.739570164348926,12.196431521559557,4.11188369152971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2253,7 +2253,7 @@ earth and the things that therein are, and the sba and the
 things which are therein, that there should be tims ae  
 longer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743294:1858080901:0855/pct:246.6830870279146,51.03541925992984,47.99671592775041,10.750254611293425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743294:1858080901:0855/pct:82.22769567597153,17.011806419976615,15.998905309250137,3.583418203764475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2280,7 +2280,7 @@ earth and the things that therein are, and the sea and the
 things which are therein, that there should be time no  
 onger
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743294:1858081601:0911/pct:198.8199159392176,246.05592180040918,45.99094730035564,15.287565355762673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743294:1858081601:0911/pct:66.27330531307253,82.0186406001364,15.330315766785214,5.095855118587558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2309,7 +2309,7 @@ the things that therein are, and the sea and
 things which are therein, that there should  
 be time no longer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529273:1858082001:0276/pct:83.22400558269365,124.24984039157268,33.62177250523378,18.195360715045755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529273:1858082001:0276/pct:27.741335194231215,41.41661346385756,11.207257501744591,6.065120238348585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2340,7 +2340,7 @@ divines, whose more appropriate function it
 is. Nevertheless, it strikes us that the con  
 nection of the Od and New Worlds by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1858082101:0034/pct:343.0777716492002,98.187012416218,43.298400441257584,29.35941105373036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1858082101:0034/pct:85.7812715487519,24.5467531040545,10.82609295269618,7.33985276343259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2366,7 +2366,7 @@ therein, are, and the earth and the things that
 therein are, and the sea and the things which are  
 thereis, that there should be time no longer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191034:1858082101:0176/pct:57.65835527334676,50.140631761142366,37.32383459811058,14.257897014279532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191034:1858082101:0176/pct:19.219451757782252,16.713543920380786,12.441278199370192,4.752632338093178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2392,7 +2392,7 @@ things that therein are, and the sea and
 the tliiiig3 which are therein, that there  
 should be time no longer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1858082801:0140/pct:31.015452538631347,31.225621022377336,12.527593818984547,6.3641962636009035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn96027384:00393349451:1858082801:0140/pct:31.01117395502828,31.222416093605666,12.53046397204212,6.366964316261248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2477,7 +2477,7 @@ and the tilings..that therein are. and the
 sea anil*tlie. things which are therein, that  
 there shotiid&#x27;be time no.lo&#x27;nger
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1858091001:0553/pct:57.22573839662447,54.030281182408075,13.871308016877638,8.06056236481615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1858091001:0553/pct:57.230133614627285,54.03749098774333,13.871308016877638,8.064167267483779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2510,7 +2510,7 @@ the things that therein are, and the sea and
 the things which are therein, that there  
 should be time no longer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858102201:0937/pct:98.51632047477744,141.22448979591837,41.9476665767467,29.01846452866861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858102201:0937/pct:32.838773491592484,47.074829931972786,13.982555525582232,9.672821509556204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3033,7 +3033,7 @@ sayings of this book.&quot; Rev. Nxii; 9.
 Does not this teach that angels once liy  
 ed in the form and are of the goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559905:1870032501:0981/pct:137.85488958990535,173.54621356379084,47.1608832807571,19.569356964991943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559905:1870032501:0981/pct:34.484119155652,43.38655339094771,11.797198658512528,4.892339241247986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3281,7 +3281,7 @@ fellow-servant) of thy brethren, the
 prophet-, and (a fellow-servant) of  
 ’ &#x27;in which keep the sayings o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271769805:1874012901:1219/pct:3.4482758620689653,70.08769525897506,16.865605658709107,13.428336530556317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271769805:1874012901:1219/pct:3.4482758620689653,70.08769525897506,16.88034188034188,13.442038914771171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3337,7 +3337,7 @@ ina of this bock? Worship God.&quot;-Reva
 He closed by carnestly invoking the aid of  
 the friends of the cause in behalf of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875083101:0211/pct:172.14999315724648,141.37804989491,41.467086355549476,18.166864662341222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875083101:0211/pct:57.38333105241549,47.12601663163666,13.82236211851649,6.055621554113741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3415,7 +3415,7 @@ change it to the first day of the week, in com­
 memoration of a greater day than the finishing  
 of the creation ; as the poet says
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1877080201:0737/pct:50.764690099275555,47.68868889343424,10.8532331634022,2.3624463080384537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159385:1877080201:0737/pct:50.76916197120114,47.68868889343424,10.857705035327788,2.3692643349014797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3517,7 +3517,7 @@ servant, and of thy brethren the proph
 ets, and of them which keep the sayings  
 of this book; worship God. Was tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879101601:0473/pct:130.8066759388039,175.97661440340156,49.304589707927676,19.18681902737178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1879101601:0473/pct:32.70166898470097,43.99415360085039,12.326147426981919,4.796704756842945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3564,7 +3564,7 @@ I am thy fellow-servant, and of thy breth­
 ren the prophets, and of them which keep  
 the sayings of this book.” Then thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184443:1880071401:0226/pct:23.788383277839436,51.75427643900612,17.647058823529413,9.801473342489698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184443:1880071401:0226/pct:23.783983724801185,51.7478152309613,17.649959928487764,9.80441115272576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3627,7 +3627,7 @@ the prophets, and with them which
 keep the words of this book: worship  
 God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296308:1881060301:0094/pct:82.13046495489243,66.76841959206327,33.726578764746705,26.765644512279728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296308:1881060301:0094/pct:27.39107793785801,22.25613986402109,11.248047214025343,8.921881504093243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3785,7 +3785,7 @@ thou do it not; for I am thy fellow-servant and
 of thy brethren the prophets, and of them which  
 keep the sayings of this book; worshin God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn83045160:00280779647:1883052401:0487/pct:110.86318261890781,135.01501501501502,37.169700528479154,13.645645645645645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn83045160:00280779647:1883052401:0487/pct:27.71986492438702,33.753753753753756,9.293789458229336,3.4114114114114114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3810,7 +3810,7 @@ longer.&quot; The sermon was in part as follows:
 The belief in the existence of God and immortality of  
 the soul and final end of the universe has come dow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039983:1883123101:0807/pct:201.40778977006102,73.20386169735069,45.86266228687627,17.108217332734622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039983:1883123101:0807/pct:67.13592992335367,24.401287232450233,15.287554095625424,5.702739110911541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3912,7 +3912,7 @@ urerhreN, The Prorhets, of them
 which keep the sayings of this book  
 worship God.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn86063662:00200292418:1886050601:0287/pct:263.828125,346.3599117554365,40.3125,36.306334699023004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn86063662:00200292418:1886050601:0287/pct:65.99570060582373,86.58997793885912,10.084033613445378,9.076583674755751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4096,7 +4096,7 @@ for I am thy fellow servant, and of thy brethren
 the prophets, and of them which keep tho sav­  
 ings of this book; worship God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1886121601:0404/pct:7.580047919843172,12.402745995423341,13.89675451971248,3.508771929824561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1886121601:0404/pct:7.578397212543554,12.400854179377669,13.899172473867596,3.512050030506406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4118,7 +4118,7 @@ for I nm thy fellow servant, and of thy brethren
 tbe prophets, and ot them which keep the say­  
 ings ot this book; worship God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289432:1886121601:0306/pct:93.29652996845427,15.415852007820725,16.246056782334385,4.3314784178071895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289432:1886121601:0306/pct:70.01380942986782,11.56564896976989,12.191753797593213,3.248608813355392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4140,7 +4140,7 @@ for I am thy fellow-servant, and of thy breth­
 ren the prophets, and of them which keep the  
 sayings of ibis book: worship God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1886121601:0352/pct:36.795252225519285,66.22571803122393,14.258160237388724,4.254558455488023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1886121601:0352/pct:27.60053420388782,49.67226790608986,10.698916753227483,3.1938982242879277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4300,7 +4300,7 @@ thy brethren the prophets, and of them
 which keep the sayings of this book.  
 Worship God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769514:1893091701:0170/pct:6.205296733036922,33.64963503649635,12.352600038662285,3.781021897810219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769514:1893091701:0170/pct:6.210129518654552,33.65693430656934,12.352600038662285,3.795620437956204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4363,7 +4363,7 @@ angel. He actually saw these wondrous
 sights and heard these faithful and.true  
 words. It was probably before this tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893122001:0407/pct:34.3503937007874,13.550757923748277,13.943569553805775,3.99632521819017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893122001:0407/pct:34.35586176727909,13.55458582146685,13.943569553805775,4.003981013627316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4387,7 +4387,7 @@ thy brethren the prophets, and of them
 which keep the sayings of this book—wor­  
 ship God.&quot; Compare xix, 10. Only sata
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893122001:0407/pct:34.31758530183727,17.501148369315572,13.95997375328084,5.01837390904915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893122001:0407/pct:34.32305336832896,17.508804164752718,13.970909886264216,5.026029704486296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4416,7 +4416,7 @@ not, for I am thy fellow servant, and of thy:
 brethren the prophets, and of them which;  
 keep the saying of this book?worship God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287186:1893122001:0430/pct:83.88023589898684,13.487190345119627,15.983668531680024,6.0766461994495025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287186:1893122001:0430/pct:83.88023589898684,13.494248006210741,15.988709108321991,6.0731173689039455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4467,7 +4467,7 @@ He actually saw these wondrous sights and
 hoard these faithful and true words. It was  
 probably before this that he wrote, &quot;Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776592:1893122101:0966/pct:204.9464138499588,53.86869871043376,55.812036273701565,14.302461899179367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86081895:00280776592:1893122101:0966/pct:51.268302742833576,13.46717467760844,13.961641575582595,3.5756154747948417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4489,7 +4489,7 @@ angel. He actually saw these wondrous
 sights and heard these faithful and true  
 words. It was probably before this tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893122101:0609/pct:231.3338595106551,55.531719276739196,52.40726124704025,16.058841556849526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893122101:0609/pct:57.856296881168575,13.882929819184799,13.106987761547572,4.014710389212381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4513,7 +4513,7 @@ thy brethren the prophets, and of them
 which keep the sayings of this book--wor­  
 ship God.&quot; Compare xix, 10. Only sata
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893122101:0609/pct:231.3338595106551,71.59056083358873,50.74980268350434,20.104198590254367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893122101:0609/pct:57.856296881168575,17.89764020839718,12.692459534149231,5.026049647563592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4535,7 +4535,7 @@ angel. He actually saw these wondrous
 sights and heard these faithful and true  
 words. It was probably before this tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893122201:0404/pct:77.66143106457243,60.11525629360024,56.63176265270506,16.196542311191994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893122201:0404/pct:19.419594152301986,15.02881407340006,14.161029893083134,4.0491355777979985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4559,7 +4559,7 @@ thy brethren the prophets, and of them
 which keep the sayings of this book--wor­  
 ship God.&quot; Compare xix, 10. Only sata
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893122201:0404/pct:77.74869109947645,76.43312101910828,56.63176265270506,19.654231119199274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1893122201:0404/pct:19.441413921012437,19.10828025477707,14.161029893083134,4.9135577797998184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4589,7 +4589,7 @@ not, for I am thy fellow servant, and of thy
 brethren the prophets, and of them which  
 keep the saying of this book—worship God.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1893122301:1053/pct:52.00761179828734,13.468953596596197,14.157944814462416,7.179896290386917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1893122301:1053/pct:51.99771689497717,13.467162988566871,14.160007610350076,7.182265354958788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4611,7 +4611,7 @@ angel. lie ffctually saw these wondrous
 sights and heard these faithful and.true  
 words. It was probably before this tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1893122301:0206/pct:46.012269938650306,34.13410770855332,9.868536371603856,3.062302006335797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1893122301:0206/pct:46.004206098843326,34.129602745149796,9.871188222923239,3.065197307641547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4636,7 +4636,7 @@ which keep the sayings of this book—wor­
 ship God.” Compare xix, 10. Only satan  
 of ail creatures seeks to be worshipe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1893122301:0206/pct:45.714285714285715,37.19640971488912,10.131463628396144,4.263463569165786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1893122301:0206/pct:45.70627409744129,37.1915005939026,10.134069400630915,4.2662003431437245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4659,7 +4659,7 @@ angel. He actually saw these wondrous
 sights and heard these faithful and, true  
 words. It was probably before this tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00100493834:1893122401:0256/pct:276.76240208877283,243.20272572402044,51.5230635335074,16.081771720613286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00100493834:1893122401:0256/pct:69.19060052219321,60.80068143100511,12.88076588337685,4.0204429301533215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4684,7 +4684,7 @@ which keep the sayings of this book- wor
   
 ship God.&quot; Compare xix, 10. Only sta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00100493834:1893122401:0256/pct:276.5013054830287,259.21635434412264,51.43603133159269,20.221465076660987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00100493834:1893122401:0256/pct:69.12532637075718,64.80408858603066,12.859007832898172,5.055366269165247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4711,7 +4711,7 @@ and women.
 Silver Party Meeting.  
 The state central committee of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_carlin_ver01:data:sn84022060:0033289058A:1894042701:0393/pct:25.382790597368988,15.240801675142087,17.166271296096614,11.651211486688602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_carlin_ver01:data:sn84022060:0033289058A:1894042701:0393/pct:25.377317809400605,15.238522506355615,17.167960327727467,11.653207716464783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4785,7 +4785,7 @@ servant, and of thy brethren the
 prophets, and of them which,. keep the  
 sayings of this book, worship God&#x27;. &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665544:1895061601:0454/pct:22.21848362494392,65.58143562213179,16.195603409600718,4.970127283747511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665544:1895061601:0454/pct:16.668536174985977,49.190406095765866,12.148065058889513,3.7232660836436056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4938,7 +4938,7 @@ brethren the prophets, and of them which
 keep the sayings of this book—worship  
 God.” But immediately afterward thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665738:1897121901:0463/pct:30.908844643099012,46.17094362497474,12.528782337803062,4.566579106890281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665738:1897121901:0463/pct:30.908844643099012,46.17094362497474,12.542326967357443,4.566579106890281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

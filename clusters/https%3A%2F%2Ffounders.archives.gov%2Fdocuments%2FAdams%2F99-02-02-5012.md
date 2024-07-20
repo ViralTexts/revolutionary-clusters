@@ -112,7 +112,7 @@ Doherty has made and executed two promissory
 notes of hand, bearing even date here with, for $40,  
 each, payable in twelve and eighteen months fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851062001:0938/pct:199.1291488662504,157.28747267916714,47.108116989812686,16.012883929598527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851062001:0938/pct:66.3763829554168,52.429157559722384,15.702705663270894,5.3376279765328425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ sell the same as sforesaid; and that I will warrant and defend
 the same to the sald (C.--D--), his heirs and assigns,  
 against the lawful claims and demands of all persons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856013001:0195/pct:200.1328903654485,41.158936449266726,47.82392026578073,11.744366281149398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856013001:0195/pct:66.7109634551495,13.719645483088907,15.941306755260243,3.9147887603831326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ and seals the sixth day of June Anno Domini
 elghteeo hundred and twenty-seven.  
 Signed, sealed and delivered In presence of ua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889012801:0157/pct:23.95338800172637,48.23292220113852,9.653287296791829,8.96584440227704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889012801:0157/pct:23.949942462600692,48.22720265623147,9.655494821634061,8.967745760702003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ this 30th day of April A. D. 1776.
 &quot;PHEBE HUBBARD.  
 &quot;Signed, sealed and delivered in pres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022101:0933/pct:92.38197424892704,201.78164196123146,38.787553648068666,27.19498289623717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022101:0933/pct:30.793991416309012,67.2605473204105,12.929184549356224,9.064994298745724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

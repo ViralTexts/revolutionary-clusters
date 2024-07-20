@@ -2249,7 +2249,7 @@ the honour to be, your Excellency&#x27;s moſt
 “ tbati it would in foteign markets—the  
 . “ difference is a tax paid to Britain. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809101701:0325/pct:4.7424214245862,8.434985725408772,19.360238050957783,7.864002076304178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809101701:0325/pct:4.741539605801413,8.433891267678733,19.362836246436096,7.867306777388522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2320,7 +2320,7 @@ she never has in securing a
 monopoly of the commence of the  
 world for the labor of her subjects i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1842060701:0519/pct:2.816901408450704,29.69275622336847,16.197183098591548,13.926889437093518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1842060701:0519/pct:2.1129860601614086,22.26956716752635,12.1496698459281,10.450773716079839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

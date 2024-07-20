@@ -188,7 +188,7 @@ States, which it is or may be lawful to carry to
 the said Islands or Ports from the said States in  
 British vellels ; and that the said American vef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:12.487054297973073,71.23383084577114,19.337180056221335,5.880597014925373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:12.487054297973073,71.23383084577114,19.34211175223159,5.890547263681592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ cerved 1n all the sea-ports and harbsurs of the
 Brush territories in the East-Indies., And that  
 the Citizens of the {aid United States may freel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:32.919070868471664,20.855721393034827,19.248409528036692,15.83084577114428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:32.924002564481924,20.855721393034827,19.243477832026432,15.840796019900498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ er the supplies of this Country, under all poflible cir- ]
 01, cumllances, to the British Well-Indies j for if this ,  
 n[j position be true there never pn be reasonable gioun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111901:0002/pct:50.10198878123406,2.8528777575053907,22.565017848036717,45.01575717366064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111901:0002/pct:50.108363080061196,2.8611710068004643,22.558643549209588,45.01990379830818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ e condua of the parties in these refpeas. i°
 I as being merely introduaory and formal.  
 b CAMILLUS. th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795112001:0002/pct:29.345372460496613,2.3007395234182417,43.49134687735139,90.56696795398521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795112001:0002/pct:29.357913217958366,2.3089564502875923,43.49134687735139,90.57107641741989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ interests and security of the country, nud deeply regret­
 ted Us failure, is certainly true. It dues not. however,  
 belong 10 me to pass on the sufficiency of the reasons b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835060501:0042/pct:36.892003297609236,7.743848857644991,14.756801319043694,3.6906854130052724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835060501:0042/pct:36.8869350185465,7.742998352553542,14.759353391033567,3.6939410580267253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -760,7 +760,7 @@ separating the seeds from the cottor we have been
 hardly able hitherto to class cotte among our ex  
 ports.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191009:1857042001:0376/pct:17.431192660550458,107.71177250271117,44.10865263536607,36.715266899626464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191009:1857042001:0376/pct:5.81039755351682,35.90392416757039,14.70288421178869,12.238422299875486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ foreign supply, but the catalogue of our val
 uable exports enriched by the addition o  
 this inestimable pro luction.” Hamilton 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215968:1857042101:0525/pct:45.65322502659317,67.24845281969264,12.30055120394546,12.16188025867464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215968:1857042101:0525/pct:45.64881067491781,67.24377694340147,12.30258492876942,12.163352338571363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ able exports, enriched by the addition of
 this inestimable production.&quot;  
 Hamilton&#x27;s Works, vol. 7. page 403
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021908:1857042701:0289/pct:79.81501632208922,241.76523208428586,50.54406964091404,62.498757578769506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021908:1857042701:0289/pct:19.95646850768603,60.441308021071464,12.637736362399673,15.624689394692377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -908,7 +908,7 @@ Apeuse and difficulty of separating the seeds
 I on the cotton, we nave been hardly able hitherte  
 to cless cotton among our exporte.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn96091000:00212470089:1857042701:0402/pct:25.086505190311417,341.35137906285246,50.46136101499423,43.96595919204347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn96091000:00212470089:1857042701:0402/pct:6.274340112505409,85.33784476571311,12.620799076878695,10.991489798010868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ seeds hrom the cotton, we hav
 been hardly able hitherto to cla  
 cotton among our exports.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295877972:1857042901:0064/pct:213.25796505652622,212.04979253112035,56.83453237410072,35.850622406639005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295877972:1857042901:0064/pct:53.314491264131554,53.01244813278009,14.20863309352518,8.962655601659751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ pendence on loreign supply, but the catalogue ol our
 valuable exports enriched by tbe addition of this  
 inestimable production.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879099:1857051501:0082/pct:88.37765957446808,33.08568598315998,20.21276595744681,14.353640416047549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879099:1857051501:0082/pct:66.29870993483176,24.814264487369986,15.1615906370528,10.767706785537396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

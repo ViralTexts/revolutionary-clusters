@@ -517,7 +517,7 @@ Do what you will, dishonor shall be humor.
 O Cassius, you are yoked with a lamb,  
 That carries anger as the flint bears fire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1858043001:0495/pct:118.46635367762129,107.46089049338147,102.73865414710485,18.592057761732853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1858043001:0495/pct:29.633979252299863,26.865222623345367,25.699745547073793,4.648014440433213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ YERS OF MAINE,
 From ttu First Colonization qf the State to the early  
 part qf the present centur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525164:1863032401:0215/pct:17.778190600037153,80.80055210489994,12.465168121865132,5.852311939268461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525164:1863032401:0215/pct:17.77488855869242,80.78940104885454,12.467496285289748,5.854954457631797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ YERS OF MAINE,
 From the First Colonization qf the State to the early  
 part (\f the present century 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525164:1863033001:0237/pct:57.2881982981872,16.139675556777565,12.41213466518683,5.67775639263129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525164:1863033001:0237/pct:57.27760310708341,16.13745704467354,12.41446273349362,5.680412371134021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1121,7 +1121,7 @@ Cassius. He justifies his line to Cas­
 sius &quot;You are yoked with a lamb that  
 carries anger as the flint bears fire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:00415668077:1893012101:0606/pct:94.53678474114442,159.0024086712164,36.212534059945504,4.124849458048977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:00415668077:1893012101:0606/pct:31.52085036794767,53.00080289040546,12.074134641591714,1.3749498193496588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1188,7 +1188,7 @@ Chandler family, the descendants ot&#x27;
 William and Annis Chandler, who set­  
 tled in Roxbury, Mass., in 1037. Fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:0028076890A:1898081201:0637/pct:18.24405960531615,34.63,12.364075714861055,1.85/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:0028076890A:1898081201:0637/pct:18.24405960531615,34.63,12.368550588445876,1.86/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

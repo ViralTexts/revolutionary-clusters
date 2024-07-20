@@ -98,7 +98,7 @@ admitting the title of King., which conceive
 would be attended with some material advan  
 tages.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838101701:0165/pct:45.816956765861875,42.87793952967525,20.77484559236384,21.19820828667413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838101701:0165/pct:34.36754176610979,32.161254199328106,15.583321634142917,15.901455767077268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ if all other things were once adjusted, I believe strong arguments
 might be produced for admitting the title of Kino,  
 which, / conceive, would be attended with material advantages.&quot;?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:7.449353963949593,30.59729763859073,17.6264156962833,3.624194974112893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:7.459988302227893,30.60571620995917,17.63173286542245,3.6284042597971125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ be produced for admitting tho &#x27;.title of
 King, which I conceive would l&gt;e at­  
 tended with some national advantage.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291062:1874070401:1100/pct:35.57821820280931,13.365718251214435,14.546853954204348,20.23594725884802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291062:1874070401:1100/pct:35.58783913796421,13.376127689104788,14.546853954204348,20.229007633587788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ sle prounced for admitting the title of
 King,which I conceive would be at  
 tended with some national 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1875070201:0110/pct:149.13101604278074,156.94569843931382,44.5855614973262,39.62337159809106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1875070201:0110/pct:37.29521899030425,39.236424609828454,11.150117017719825,9.905842899522765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ ness stole over those noble features.
 The emotions that crowded his heart  
 may be gathered from his reply. Wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876062901:0141/pct:9.69743987587277,270.8938793483047,45.69433669511249,63.701746660795536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876062901:0141/pct:2.4248302618816684,67.72346983707618,11.42580019398642,15.925436665198884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ ness stole over those noble features.
 The emotions that crowded his heart  
 may be gathered from his reply. Wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292510:1876062901:0108/pct:119.40298507462687,40.45728802794538,65.3731343283582,26.738647189583993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292510:1876062901:0108/pct:29.873039581777444,10.114322006986345,16.35548917102315,6.684661797395998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ to Washington, &quot;strong arguments
 might be produced for admitting the ti­  
 tle of King,&quot; so would the three hun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:0027176781A:1880031301:0253/pct:29.016416444506806,20.66459988374346,13.27346709695524,2.4995155977523735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:0027176781A:1880031301:0253/pct:29.025770543940883,20.671058580378478,13.278144146672279,2.496286249434864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ some national advnntage.&quot; The fol­
 lowing was Washington&#x27;s reply, pro­  
 bably, in view of the conduct o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291086:1880070201:0505/pct:51.15838247683235,16.37199942503953,14.469250210614996,24.608308178812706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291086:1880070201:0505/pct:51.16891322662173,16.382779933879547,14.479780960404382,24.601121172919363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ alty, but if all other things were adjueted,
 we believe strong arguments might be pro­  
 duced for admitting the title of king.&quot; Whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764200:1883101001:0343/pct:88.14971751412429,87.13984539704849,12.951977401129943,10.060904193019443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764200:1883101001:0343/pct:66.12515892075152,65.35488404778637,9.71888684842492,7.554462403373155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ when &quot;all other things were once ad-
 justed.&quot; The suggestion, the opbortunity, might  
 have tempted a man of meaner ambition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883101001:0468/pct:198.23825503355704,124.177233224106,55.62080536912752,20.11682575865508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883101001:0468/pct:49.56996014264737,31.0443083060265,13.908118313404657,5.02920643966377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ bration to-day.
   
 Washington&#x27;s reply revealod the no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342107:1883101801:0382/pct:15.67581978139163,33.47866708190595,9.9306851506265,7.858403404962109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342107:1883101801:0382/pct:15.680263040966853,33.48212740925292,9.9306851506265,7.861863732309076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ other things were adjusted we believe
 strong arguments might be produced for  
 admitting the title of King,&quot; Whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_caliente_ver02:data:sn86091346:00415668466:1883102701:0171/pct:24.285055350553506,52.97861922637506,18.334870848708487,16.566019259017462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_caliente_ver02:data:sn86091346:00415668466:1883102701:0171/pct:18.23217170551581,39.7421250204015,13.777982921763213,12.420434143952995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -925,7 +925,7 @@ were adjusted we believe strong ar­
 guments might bo produced /or ad­  
 mitting the title oZ King.’ Whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn84022047:00340582585:1883110301:0569/pct:8.131446390021589,39.528257084058886,17.19836891340849,19.708722494855152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn84022047:00340582585:1883110301:0569/pct:8.129496402877697,39.522000633111745,17.200239808153476,19.709559987337766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -964,7 +964,7 @@ some national advantage. The tal­
 lowing was Washington&#x27;s reply  
 probably, in view of the conduct o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291104:1885070301:0389/pct:27.444548578569197,30.705196812938517,10.590440487347704,12.427161374717565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291104:1885070301:0389/pct:27.45235863792565,30.705196812938517,10.590440487347704,12.430134379831133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

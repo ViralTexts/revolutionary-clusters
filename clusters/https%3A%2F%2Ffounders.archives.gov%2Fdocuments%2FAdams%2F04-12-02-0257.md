@@ -241,7 +241,7 @@ a-;
 X  
 at all exist, except on the principle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804012701:0209/pct:46.96467991169978,2.1110519780024837,43.984547461368656,92.90402696469754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804012701:0209/pct:46.95172413793104,2.1106775452288047,43.97931034482759,92.89198297268535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ were obliterated from the nuilti|ide and their places
 were usurped by the mo3t abonjnable and mischiev­  
 ous passions which polluted thelieart of man. Af
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806071801:0005/pct:50.48543689320388,80.40650406504065,20.936021906895693,8.991869918699187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806071801:0005/pct:50.47287207565953,80.39343196228256,20.937033349925336,8.99447244350512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ by remorse, despising all common maxims and all
 common means, that hideous phantom overpo   
 ered those who could not believe it was possibl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475105:1866082201:0834/pct:203.83474576271186,98.68925831202046,41.50423728813559,39.705882352941174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475105:1866082201:0834/pct:67.94491525423729,32.89641943734016,13.834745762711865,13.235294117647058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

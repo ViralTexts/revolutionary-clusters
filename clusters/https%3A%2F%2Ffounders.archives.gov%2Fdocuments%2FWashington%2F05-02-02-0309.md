@@ -71,7 +71,7 @@ they may rely upon my beft wiffies and en­
 deavours to advance their prosperity.  
 I am, Gentlemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801070801:0001/pct:72.14545454545454,44.603033006244424,22.472727272727273,26.434730895034196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801070801:0001/pct:72.15353535353535,44.603033006244424,22.488888888888887,26.434730895034196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ advance tbeir prosperity; in the mean time, be assured,
 gentlemen, that I entertain a proper sense of your fervent  
 supplications to God for my temporal and eternal htjipinenf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855022501:0248/pct:15.9633627739614,24.946828474915552,15.930650964998364,19.729763543100212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855022501:0248/pct:15.974266710282413,24.955169106301348,15.919747028677353,19.729763543100212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ society, certainly I would never have placed my sig­
 nature to it.  
 HARRIED
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855030701:0463/pct:86.46193771626298,78.71898568149524,20.242214532871973,5.410427369111378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855030701:0463/pct:64.86876261897895,59.04470433927205,15.186039803865013,4.055087987758225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ endanger the religious rights of .any ecclesiastical
 society, certainly I would never have placed my sig­  
 nature to i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855030701:0079/pct:85.70138470800723,69.0860541327831,19.777242624924742,13.994416798155116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855030701:0079/pct:64.30292080698585,51.81454059958733,14.844926227040048,10.498846947445077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -713,7 +713,7 @@ zealous than myself to establish effectual barriers
 against the horrors of spir lual tyranny and every  
 species of religious persecution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855031001:0083/pct:2.3658830620855937,82.56011658974982,19.40928270042194,7.7847947534612585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855031001:0083/pct:1.7789838685361072,61.92615982511538,14.56354590682949,5.84163225649745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ ious than myself to establish effectual barriers;
 against the horrors of spir tual tyrannv and every  
 5Pies of religious persecution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855031401:0465/pct:2.9411764705882355,91.24343257443083,19.18973471741638,8.110770577933451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855031401:0465/pct:2.2065186039803866,68.43257443082312,14.407268531871935,6.085814360770578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ ami being accountable to God alone for his religious opinions,
 ought to be protected in worshipping the Deity according to  
 the dictates of his own conscience.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031801:0343/pct:52.6858827382902,74.23899371069183,15.967900425810678,6.226415094339623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031801:0343/pct:52.69680096080358,74.24318658280923,15.978818648324053,6.230607966457023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -834,7 +834,7 @@ and being accountable to God alone for his religious
 opinions, ought to be protected in worshipping the  
 Deity according to the dilates of his own conscience.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855032101:0470/pct:88.93303064699205,70.69848534379427,20.459704880817252,19.995641277105808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855032101:0470/pct:66.71870564859495,53.0238640078457,15.356230485381777,15.004903563255967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -865,7 +865,7 @@ and being accountable to God alone for his religious
 opinions, ought to be protected in worshipping the  
 Deity according to the dilates of his own conscience.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855032101:0094/pct:90.52089642640824,79.80698753970194,19.987886129618413,11.104324456388957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855032101:0094/pct:67.91881248106634,59.858294649401415,14.995455922447743,8.331297336916688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ ligious opinions, ought to be protected in
 worshipping the Unity according to the  
 dictates of his own conscience&#x27;!- Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1855032101:0586/pct:43.59846244825547,9.080174754988782,16.203429923122414,6.96658401228008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1855032101:0586/pct:32.71221532091097,6.813083008619672,12.156166814551908,5.23084189396623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,7 +915,7 @@ that tny country could .have no further
 6c c a si en for. .my -; ser y ices , r a nd w 1 1 h the  
 intention of never entering again into pub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1855032101:0586/pct:27.217622708456535,109.97756523792656,16.306918982850384,5.0064942732317865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1855032101:0586/pct:20.422951789411417,82.48907781320109,12.23010943507838,3.7548707049238397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -948,7 +948,7 @@ X-&#x27;.:X 1. -. -j&#x27;.i, -&#x27;.X-
   
 iter tne iioeriy or conscieuoe viusecure i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1855032101:0586/pct:27.350680070963925,115.01948281969536,16.218214074512122,11.441728657456606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1855032101:0586/pct:20.526471458148478,86.2675640571496,12.170955338657201,8.58424843547054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1041,7 +1041,7 @@ less remember I have often expiessed my sen
 timents that every man, conducting himself  
 as a good citizen, and being accountabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855032301:0056/pct:89.2,68.18600974838624,54.24,66.18363851929917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855032301:0056/pct:22.31338803281969,17.04650243709656,13.568140884530719,16.54590962982479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1080,7 +1080,7 @@ I am, gentlemen, your most obedient sery
   
 &quot;GEORGE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855032301:0056/pct:88.56,134.36964826768542,54.72,39.046238967198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855032301:0056/pct:22.153291975185113,33.592412066921355,13.688212927756654,9.7615597417995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1207,7 +1207,7 @@ religious opinions, ought to be pnta-Ud in wor­
 shiping l7ie c Deity according to the dklattsof his  
 own conscience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855041101:0516/pct:7.796391752577319,107.41710296684118,19.233247422680414,16.255297930690602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855041101:0516/pct:5.849178214631002,80.5659436549489,14.437640992587818,12.19147344801795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1280,7 +1280,7 @@ TREAsON To THe CoNSTITUTION.- In every election
 to Congress in the Northern States with which the  
 new secret society has had any connection, the re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855042001:0377/pct:67.61609907120743,312.8783382789318,50.092879256965944,46.053412462908014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855042001:0377/pct:16.904024767801857,78.21958456973294,12.523219814241486,11.513353115727003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1371,7 +1371,7 @@ eeoee eoe ee oo
 tempert and eterhal happiless.  
 ae oeee ee oe o o ee e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855042701:0081/pct:199.6747967479675,54.47878470403352,113.2520325203252,326.6107909900471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855042701:0081/pct:49.93899959333062,13.61969617600838,28.324522163481088,81.65269774751178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ God alone for his religious opinious,
 Ditv accordiuir to the dictates ct his  
 owu conscience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023097:1855042801:0279/pct:28.03370786516854,37.04813261433993,19.269662921348313,20.820850808867586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023097:1855042801:0279/pct:21.03414359983139,27.79109247054124,14.472390051988198,15.618134611543839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1440,7 +1440,7 @@ countable to God alone for his good religious opin­
 ions, ought to be protected in worshipping the De­  
 ity according to tho dictates of his own consceince
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1855050401:0242/pct:90.0786958965711,100.32679738562092,20.320404721753793,13.453159041394336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1855050401:0242/pct:67.58504357604723,75.25054466230937,15.237559741355074,10.087145969498911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1477,7 +1477,7 @@ ten, and being aecountable to God along
 for his religious opinions, ought to be  
 testel in porshiping the Delty somiting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1855050401:0186/pct:235.7970771039812,224.41391479707588,54.930287250125986,40.14368540458785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1855050401:0186/pct:78.59902570132707,74.80463826569196,18.310095750041995,13.38122846819595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1514,7 +1514,7 @@ ligious opinions, ought to be protected in
 worshipping the Deity according to the dic.  
 tates of his own conscience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1855050501:0022/pct:219.30987202925047,174.8574144486692,52.925045703839125,47.10076045627376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1855050501:0022/pct:73.10329067641682,58.28580481622307,17.641681901279707,15.700253485424588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1555,7 +1555,7 @@ for his religious opinion!, ought to he pro­
 tected in worshipping the Deity according U  
 th: dictate* Iof his own conscience.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059861:00514157364:1855050901:0075/pct:56.130302487918385,38.56845934008833,12.797565777698228,11.392569498571058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059861:00514157364:1855050901:0075/pct:56.12025769506084,38.56344979867515,12.79974946313529,11.39433692687362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1669,7 +1669,7 @@ myself, to establish effectual barriers against
 the horors or spiritual tyranny, and every  
 species oi religious persecution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855052301:0418/pct:77.14491708723864,73.84972290243589,16.979091564527756,10.155947931434463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855052301:0418/pct:57.889990982867445,55.39373630622503,12.750225428313795,7.616960948575848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1983,7 +1983,7 @@ tablish effectual barriers against the horrors of spri
 itual tyranny and every species of religious per.  
 secution.&quot; From the inaugural address of Jeffe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855070101:0005/pct:182.12083847102343,73.21662498511373,48.89025893958076,23.103489341431462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855070101:0005/pct:45.54424915201974,18.30415624627843,12.226333641689793,5.775872335357866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2003,7 +2003,7 @@ a good citizen is accountable to God alone for
 Cd in worshipping the Deity according to the  
 dictates of his own conscience.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93052117:00279557955:1855071401:0177/pct:20.506634499396863,13.666578037755915,35.082428628870126,83.55490561021006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93052117:00279557955:1855071401:0177/pct:20.516686771210292,13.676548790215369,35.092480900683555,83.5515820260569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2034,7 +2034,7 @@ to (jod alone Ibr his religious opinions, Hl
 ought to he protected iu worshipping the Deity according  
 to the dictates of his own conscience, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1855072401:0068/pct:57.97269822828928,30.83205226748655,16.67150740633169,6.54304381245196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1855072401:0068/pct:57.97269822828928,30.83205226748655,16.67634814599671,6.549449141685883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2174,7 +2174,7 @@ countable to God alone for his religious opinions,
 ought to be protected in worshipping the Deity accord­  
 ing to the dictates of his own conscience.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855080301:0343/pct:67.65491452991454,111.23529411764706,20.77991452991453,15.686274509803921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855080301:0343/pct:50.76142131979695,83.43137254901961,15.589099652685013,11.764705882352942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2210,7 +2210,7 @@ protected in worshippmg the Deity according
 to the dictates of his own conscience.  
 Condemning the “Wti.n Hint.&#x27;&#x27;—The Sac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93052117:00279557955:1855081101:0193/pct:57.82066747084841,45.65275192767881,17.350221149979895,15.740494549321989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93052117:00279557955:1855081101:0193/pct:57.82066747084841,45.66272268013826,17.380377965420184,15.733847381015687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2249,7 +2249,7 @@ religious opinions, ought to be pro­
 cording to the dictates of his own  
 conscience. . j| j . \ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059861:00514157364:1855081501:0131/pct:83.6763662171753,55.84817970565453,13.573456352022712,14.910921766072812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059861:00514157364:1855081501:0131/pct:83.66152208621607,55.84097069833484,13.57548341316303,14.912224086743256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2404,7 +2404,7 @@ glorious revolution, I cannot hesitate to believe,
 that they will be faithful supporters of a free,  
 yet efficient general government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855091101:0262/pct:60.54196959682749,45.29481834425253,11.447455386649041,11.544570180663094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855091101:0262/pct:60.533967750462594,45.29032258064516,11.449246629659001,11.54590570719603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2577,7 +2577,7 @@ religious opinions, ought to be protected in worship­
 ping the Deity according to the dictates of his own  
 conscience.&quot;--WASHiNGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855101301:0358/pct:28.07881773399015,309.24053609217026,52.89408866995074,31.13096637667529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855101301:0358/pct:7.020785219399538,77.31013402304256,13.225558121632025,7.782741594168822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2636,7 +2636,7 @@ i fectual barriers against the horrors of spiritual
 i tyranny, and every species of religjpus persecu­  
 tion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855112001:0302/pct:48.16711590296496,35.84193804606831,11.671159029649596,5.818109610802224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855112001:0302/pct:48.16062525266137,35.838379827260994,11.672955127341329,5.820013898540653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2697,7 +2697,7 @@ zealous than myself to establish effectual barriers
 against the horrors of spiritual tyranny, and every  
 species of religious persecution.&quot; Vol. XII., pag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855121401:0416/pct:48.55130249867092,3.897517064002374,20.348219032429558,7.923632406766248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855121401:0416/pct:36.42648231853231,2.9280838856464535,15.26189843126828,5.945197348897023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2726,7 +2726,7 @@ alene for bif religioce orinions, ought to be protected in wor-­
 abipinf the beity ascoring to the dictates of his own con  
 science.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856022301:0365/pct:151.5824357912179,251.8719806763285,47.00911350455675,17.246376811594203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530492:1856022301:0365/pct:50.52747859707263,83.9573268921095,15.669704501518918,5.748792270531401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2769,7 +2769,7 @@ I am not here to favor any religlous faith. In this
 country we devote to religion less time than its impor­  
 tance requires. And perhaps in the great majority o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022301:0431/pct:48.69666279262826,97.79428571428572,47.25219990038187,32.52571428571429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022301:0431/pct:16.232220930876085,32.59809523809524,15.75073330012729,10.841904761904761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2806,7 +2806,7 @@ to the dictates of his own conscience.&quot;
 No viler slander has been uttered against  
 Washington than that his farewell addres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1856032201:0201/pct:131.28453038674033,182.66434892541088,53.107734806629836,46.602402022756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1856032201:0201/pct:43.76151012891344,60.88811630847029,17.70257826887661,15.534134007585335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2865,7 +2865,7 @@ opinions, ought to be protected in worshipping
 the Deity according to the dictates of his own  
 sonscience.”—\\ ashington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1856081901:0450/pct:49.136199276818,57.80364070426738,11.450381679389313,8.45518750621705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1856081901:0450/pct:49.12961971076594,57.79789138651283,11.452196036422068,8.456833101253233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2928,7 +2928,7 @@ and being accountable to God alone for his religion:
 opinions, ought to be prelected in worshipping thi  
 Deity according to the dictates of his ow n conscience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1856090601:0339/pct:3.6012971496842465,18.061558611656842,13.346987540535928,7.059593975114604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1856090601:0339/pct:3.6055640894350574,18.06483300589391,13.35125448028674,7.0759659462999345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3018,7 +3018,7 @@ religious opinions, ought to be protected in worship­
 ping the Deity according to the dictates of his own  
 conscience.&quot; Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1856101501:0169/pct:28.346681922196797,45.62247240135534,19.66533180778032,11.859219586840092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1856101501:0169/pct:21.27629131492345,34.222319379167125,14.75175275432823,8.897147229205377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3109,7 +3109,7 @@ had the honor to prosicde, might porsibly endanger the rights
 of any ecclesiaaleal rorlety, certainly I never would have  
 placed my signature to it.&quot; It is usctul to recall these sent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857022401:0456/pct:53.250236667718525,227.83829309376753,47.01798674660776,5.704660303200449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857022401:0456/pct:17.750078889239507,75.94609769792251,15.672662248869255,1.9015534344001497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3161,7 +3161,7 @@ ly--the firm friends to cicil liberty, and the
 persevering promoters of our glorious Revo­  
 lution.&quot; Only one preacher was known t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776373:1859120901:0689/pct:8.564437194127244,290.4828879512424,51.305057096247964,11.064228785747773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776373:1859120901:0689/pct:2.141545992249643,72.6207219878106,12.828880277381195,2.766057196436943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3328,7 +3328,7 @@ a proper sense of your fervent supplies
 tions to God for my temporal and eternal  
 happiness.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1876021701:0229/pct:32.31423365053654,46.55917074575295,12.613889451305932,36.42384105960265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1876021701:0229/pct:32.30769230769231,46.55246869152152,12.616396761133604,36.42219663163956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3350,7 +3350,7 @@ that this being the case, he believes they
 will be faithful supporters of a free, yet  
 efficient geueral governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889010301:0004/pct:27.239939255884586,39.76707853998012,11.009870918754746,3.692657292998154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889010301:0004/pct:27.234769405959383,39.761431411530815,11.012526096033403,3.695683044589605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3377,7 +3377,7 @@ to establish effectual barriers against the horrors
 of spiritual tryanny and every sbacies of religious  
 persecution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889051001:0518/pct:75.41637010676156,12.504402958788306,9.551601423487545,3.8980861805800164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210909:1889051001:0518/pct:75.40563620836892,12.50293496125851,9.553800170794194,3.900563512561634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3424,7 +3424,7 @@ tected in worshiping the Deity according
 to the dictates of his own conscience.”  
 Ah, yes; how precisely is that the tru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889061301:0096/pct:83.83993843786071,21.196653906139233,10.984994228549443,10.307670494824897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889061301:0096/pct:83.8238122715907,21.193648993478877,10.987689940373148,10.309753331443153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3506,7 +3506,7 @@ been throughout America uniformly
 and almost unanimously the firm friends  
 to civll liberty and the perseverin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032939:1898030401:0039/pct:44.65439276485788,216.43895989422654,41.763565891472865,7.194799471132658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175032939:1898030401:0039/pct:14.884797588285961,72.14631996474218,13.921188630490956,2.3982664903775524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3591,7 +3591,7 @@ most unanimously the firm friends to
 civil liberty and the persevering pro­  
 moters of our glorious revolution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_green_ver01:data:sn91068367:00296024260:1898121301:0793/pct:68.39572192513369,17.508882747729963,18.43582887700535,4.125542834583498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_green_ver01:data:sn91068367:00296024260:1898121301:0793/pct:51.31737327805269,13.136596920647454,13.842450180553698,3.089222266087643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

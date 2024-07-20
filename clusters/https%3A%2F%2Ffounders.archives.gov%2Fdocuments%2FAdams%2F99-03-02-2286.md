@@ -316,7 +316,7 @@ What stamps the wrinkle deeper on the brow 7
 To view each loved one blotted from life&#x27;s page,  
 And be alone on earth, as 1 am no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016500:1844101101:0277/pct:36.834180312441184,57.32658959537572,12.572934312064747,1.8352601156069364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016500:1844101101:0277/pct:36.827248776815956,57.31830660309204,12.57527286413248,1.8386071376968647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ To view each loved one blotted from
 life’s page  
 And be alone on earth, as lam dow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:00517175456:1892062901:1234/pct:42.356176942470775,35.53156883040071,16.892046756818704,3.9479520922667457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:00517175456:1892062901:1234/pct:42.36763694705478,35.53896199911282,16.892046756818704,3.9479520922667457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ Before the Cha-tner humbly let me bow
 O&#x27;er heart divided, and o&#x27;er hope d -  
 ttroy&#x27;d. Byron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194291:1896032901:0297/pct:30.224489795918366,30.469068660774983,15.693877551020408,5.22093813732155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194291:1896032901:0297/pct:22.6827276439363,22.855200543847722,11.780318497345855,3.9157036029911625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

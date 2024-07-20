@@ -117,7 +117,7 @@ sonable jealousies;which are continually poi­
 soning our minds, and filling them with ima­  
 ginary evils for the prevention of real ones.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861020701:0004/pct:56.74305033809166,73.45805320081847,9.879789631855747,5.261619409529377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861020701:0004/pct:56.7477460555973,73.46901490792166,9.893876784372653,5.265273311897106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ continually poisoning our minds, and
 filling them with imaginary evils for the  
 prevention of real ones.&quot; In anothe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1861021401:0330/pct:122.07666181465308,91.34101437225324,37.84570596797671,27.461693787860792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1861021401:0330/pct:40.69222060488436,30.44700479075108,12.615235322658904,9.15389792928693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ I influence is to be found, or. if attainable.
 nronertte  
 cured, or let ns know the worst at once
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294567:1861021401:0113/pct:92.50248262164845,88.8507718696398,16.844587884806355,18.89651229273871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294567:1861021401:0113/pct:69.40270706568981,66.63807890222985,12.641251707438222,14.179531160663236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ which are continually poisoning our minds, snd
 filling them with imaginary evils for the preven­  
 tion of real ones.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861030201:0032/pct:23.408924652523776,58.194489818142216,11.148500365764448,5.717085919634107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861030201:0032/pct:23.418678371128994,58.194489818142216,11.148500365764448,5.724345711278087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ able jealousies which are continually poison­
 ing our minds, and filling them with imagi­  
 nary evils for the prevention of real one&#x27;s.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861030201:0602/pct:279.6270718232044,179.33042212518194,51.10497237569061,29.906047373296282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861030201:0602/pct:69.9067679558011,44.832605531295485,12.776243093922652,7.4765118433240705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ A few mouths later, in the same year,
 178G, he writes to the Hon. John Jay, at  
 that time Secretary of Foreign Affairs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1863042501:0068/pct:16.657381615598887,68.4155161078238,12.701949860724234,8.376068376068377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1863042501:0068/pct:16.654288897140734,68.40652116749935,12.704233197177869,8.378254009992112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ lay manifested any confidence in our being able to
 apllsi a strong and permanen Government worthy  
 the mame of a Republic, until the union of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_isuzu_ver01:data:sn83030214:00175038620:1893030701:0102/pct:13.522564184340615,63.64046464418631,47.21734970499123,12.540881921732266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_isuzu_ver01:data:sn83030214:00175038620:1893030701:0102/pct:4.5075213947802055,21.21348821472877,15.73911656833041,4.180293973910755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

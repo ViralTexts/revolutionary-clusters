@@ -415,7 +415,7 @@ shore, he said, “ Let Mrs. Hamilton be immedi­
 ately sent for; let the event be gradually bioken  
 to her, but give her hopes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:42.636268343815516,7.399501956599075,19.051362683438157,5.336179295624333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:42.63068256255732,7.398843930635838,19.053233765666622,5.338669038091004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ voice, but in a pathetic and impressive manner
 he addressed to to her.” Dr. Hosack concludes  
 his narrative with the truly appropriate words
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:42.636268343815516,14.825684809676272,18.841719077568133,9.169334756314479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:42.63068256255732,14.824366385060026,18.84361762522381,9.171483622350674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ know*, he expired—
 (lu* ndoulli nnt invenient parent?  
 Mudsill e quid* m fit til* t-cciciit.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1837120101:0232/pct:22.23872073101085,4.12949861581052,31.353512278697888,93.88649646262688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1837120101:0232/pct:22.236180904522612,4.129181084198385,31.35373838891427,93.88184031782647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,7 +888,7 @@ During tfie first dav he f ok npv ttv
 of an ounce of laudanum : and f**pi*i  
 anodyne fomentati &gt;11; w*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1837122301:0104/pct:15.921540908287684,8.911014312383323,31.36596571832479,86.42190416925949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1837122301:0104/pct:15.918727915194346,8.909905425584869,31.366313309776206,86.41529782644766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -910,7 +910,7 @@ fliey imtncdlat* ly C11111C, but to pr*v
 jt u&lt; &lt; i the wound, and the direction!  
 |&#x27;-i the ball, with all the symptoms tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1837122301:0104/pct:31.931436649584732,9.197261978842564,31.595688284149144,85.98630989421282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1837122301:0104/pct:31.925795053003533,9.196117471378795,31.595995288574795,85.97975775676124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ expired— t
 “I* &quot;irrupfa fi.l. *—nmlaiju*&#x27; voritas  
 Q t p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1837122301:0104/pct:47.552571125640576,13.553204729309272,15.974553808093303,22.775357809583074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1837122301:0104/pct:47.54416961130742,13.551518168242907,15.977620730270907,22.776671644267463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1040,7 +1040,7 @@ perceptible to the finger. About a pint of clotted blood
 was found in the cavity of the belly, which had proba­  
 bly been effused from the divided vessels of the liver.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838021001:0137/pct:20.554540926448613,57.219741211496626,18.744811555703137,38.749570594297495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838021001:0137/pct:20.554540926448613,57.227375090652316,18.750345896286458,38.75338753387534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1147,7 +1147,7 @@ expired?
 Quoada uilum iuvenienrparem ?  
 Multis ille quidem flebilis occidit.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838021001:0137/pct:38.950689025402625,10.191228672850109,18.811223642702974,55.37615939539677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838021001:0137/pct:38.950689025402625,10.195045612427956,18.82782666445293,55.38379327455247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1166,7 +1166,7 @@ oi dor of the stomach and bowels: I carefully avoided all
 those remedies which are usually indicated on such  
 occasions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838021001:0137/pct:39.14992528640212,77.48769036986144,18.230117881454426,2.5420817588457574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838021001:0137/pct:39.160993967568764,77.49532424901714,18.219049200287785,2.5420817588457574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1185,7 +1185,7 @@ readers an
   
 no event hold a^reater right than those gentle- L,&#x27; fsnn of political aftatra, thatprevi- itom of returning life. I now rubbed his fac- Tem- that silence might be construed hv the Duhli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:18.469794010732215,18.70645458130669,59.63302752293578,2.7474694360457472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:18.481334025734235,18.715218439156917,59.62725751543477,2.7474694360457472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1213,7 +1213,7 @@ vow it was either a distinct denial or avowal most violent apprehension, but u l
 of the i.hiii xioi.s uotds. The lime and piiice tn him to have a eol. prepaieJ, and lie at the  
 of meeting were then arranged. jsime moment saw his poor friend lying in ihe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.14869309330102,25.279347968975944,28.492297039986152,26.6990929407125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.16023310830304,25.288111826826167,28.50383705498817,26.6990929407125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1230,7 +1230,7 @@ Lemon Syrup, Spanish Cigars, Melee do. i ground, supported in the arms of
 Nails, Brooms, Flasks, Powder and Ink ton. His countenance of death I shall never  
 Sloughton Bitters by the gallon or battle forget. He had at that instant just strength t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:19.92383590098667,80.79400552123045,27.176735329755928,1.564348626265282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:19.93537591598869,80.79400552123045,27.176735329755928,1.5774944130406205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1248,7 +1248,7 @@ comply with your request.
   
 is a painful one but I will repress my feelings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.252553228319194,76.48218745891941,14.263458542496105,1.0648087288024188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.252553228319194,76.48218745891941,14.274998557498124,1.0735725866526444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1265,7 +1265,7 @@ part.* His pulses were not to be felt, his res-
   
 piiation was entirely suspended, and upon lay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.09676302579194,85.17155251741816,14.107668339968843,1.0516629420270802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.108303040793956,85.17593444634328,14.107668339968843,1.0648087288024188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1318,7 +1318,7 @@ ill 1804, Col. Burr was nominated by a &#x27;outside, he said, &quot;take e.ire 
 portion of the democratic party as a catidi late is undischarged, and still cocked it may go&#x27;8  
 for Governorof New York. He was opposed offand do harm. Pendleton knows&quot; (.atlempt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:21.741388263804744,12.067832259760747,41.68253418729444,80.14986196923886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:21.752928278806763,12.067832259760747,41.68830419479546,80.16738968493931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1346,7 +1346,7 @@ career as far as that vo,urae took us. boat, which inimodiately put oil&quot;. D
   
 to those at all acquainted this lime I could not discover the least syin&#x27;se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:34.048814263458546,15.130800578414618,44.27903756274883,49.4018667017221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:34.060354278460565,15.135182507339731,44.27903756274883,49.41501248849744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1382,7 +1382,7 @@ her, l.ut. give her hopes.&quot; Looki-.g up, we
 saw his I&#x27;rieiid, Mr. Bayard, s a uliiig on il o  
 wharf in oreat agitation, lie had been told
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:47.67180197334257,34.56027343236493,14.038428249956725,11.42368870776916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:47.677571980843574,34.56465536129004,14.044198257457735,11.436834494544499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1417,7 +1417,7 @@ Yet were his sufl&#x27;erings during the whole of
 the day almost intolerable.* 1 had not the  
 shadow of a hope of his recovery and Dr. Pos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:47.602561883330445,54.20007887472065,14.055738272459754,10.411463126068096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:47.61410189833247,54.20884273257088,14.055738272459754,10.415845054993207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1436,7 +1436,7 @@ a diminution of pain. His mind retained all
 its usual strength and composure. The great  
 source of his anxiety seemed to be in his sym
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.23524320581617,73.9187590377284,28.561537129998268,2.6685947153937164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.23524320581617,73.92752289557863,28.573077145000287,2.672976644318829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1465,7 +1465,7 @@ disturbed. I staled to them his situation, de­
 scribed ihe nature of the wound, and the di­  
 rection of ihe hall, wiih all the symptoms that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:47.61987190583348,65.16366504535297,14.090358317465812,11.844353884579991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:47.6314119208355,65.16366504535297,14.090358317465812,11.861881600280443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1484,7 +1484,7 @@ he snnk away, and became to all appearance
   
 tf the ball must have been through some vital
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.11407304829496,82.39779150782174,13.969188159944608,2.655448928618378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.119843055795975,82.39779150782174,13.963418152443598,2.672976644318829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1505,7 +1505,7 @@ melancholy end of our beloved fiiend Hamil-
   
 ton, asdwell most forcibly on my recollection.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.20062316081011,77.65216248192455,28.492297039986152,1.9981595898514526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.206393168311116,77.65216248192455,28.50383705498817,2.015687305551904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1531,7 +1531,7 @@ it was lodged was
 y,„r, a large assort- I distinctly perceptible to&#x27;the finger. Abo.t a pint lately rendered more fesblo by ill hpartieu­  
 cery kind, and for of clotted blopil was found in ihe cavity of the bel- iarly by a il.sorder of the .^^vhicrara u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:27.1594253072529,86.91994215853819,34.3777046910161,6.24424871828579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:27.1594253072529,86.92870601638842,34.395014713519124,6.248630647210902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1592,7 +1592,7 @@ tone jn whjc|l lhey were imered,
   
 will never bo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.09676302579194,78.23057710003944,28.682707287519474,7.99263835940581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.108303040793956,78.23495902896455,28.676937280018464,8.00578414618115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2957,7 +2957,7 @@ cxpiied.
 Uuondo ulturn invenient parem?  
 Multi* iile quidem fDbilis occidit.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846092501:0512/pct:22.39614689945816,4.14809736030168,30.453542042946015,91.47754542338018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846092501:0512/pct:22.39389986956958,4.1478129713423835,30.453830975552656,91.47355912061795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3216,7 +3216,7 @@ agitation. He had been told by his servant that
 Gena Hamilton, Mr. Pendleton, and mysell, had  
 crossed the river in a boat together, and too well
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0332/pct:319.53937592867754,212.6447016918967,49.62852897473997,164.9154051647373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0332/pct:79.88484398216939,53.161175422974175,12.407132243684993,41.22885129118433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3296,7 +3296,7 @@ public well knows, he expired.
 Quando ullum invenient parem?  
 Multis ille giidem flebilis occidit.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0333/pct:34.863064396743155,29.225608866851392,48.40858623242043,115.85241359194983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0333/pct:8.718992965568308,7.306402216712848,12.106627175120325,28.963103397987457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3456,7 +3456,7 @@ gave them one look, and closed them again,
 till they were taken away. At about I wo o&#x27;clock,  
 as the public well knows, he expired
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846112101:0482/pct:46.3579898362507,9.03580006862633,39.96329757199322,119.21537229783827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846112101:0482/pct:34.773401101228295,6.7825689122726756,29.987293519695044,89.40866979297724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3872,7 +3872,7 @@ go off and do him harm. Pendleton
 knows that I did not intend to lire at  
 him.&quot; Mr. Hamilton arrived home, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1868071001:0983/pct:15.787304204451772,80.60369728480647,18.425391591096457,6.701328711727325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1868071001:0983/pct:11.855670103092784,60.456383593298675,13.835051546391753,5.025996533795494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3895,7 +3895,7 @@ it is undischarged and still cocked; it may
 o off and do him harm. Pendleton knows  
 that I did not intend to fire at him.&quot; Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293551:1868082601:0309/pct:15.02532357906584,148.6964163655893,50.084411930219474,16.521824040621034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293551:1868082601:0309/pct:3.757916959887403,37.174104091397325,12.526389866291344,4.1304560101552585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3918,7 +3918,7 @@ to say : This is a mortal wound, doo­
 tor,&#x27; when he sanl awuyand became to  
 all appearances lifeless. His pulse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763815:1875111901:0419/pct:95.6242707117853,68.02012637491224,14.512835472578763,5.359232389421952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763815:1875111901:0419/pct:71.72866520787746,51.018020126374914,10.897155361050329,4.025274982447929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3955,7 +3955,7 @@ age. Hamilton&#x27;s town residence was at
 No. 52 Oedar street, and his family were  
 at the Grauge, but he was buried i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763815:1875111901:0419/pct:95.5950991831972,73.36765738357126,14.527421236872812,13.7959279194945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763815:1875111901:0419/pct:71.71407731582786,55.03159372805991,10.897155361050329,10.344020594430143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4022,7 +4022,7 @@ to say: This is a mortal wound,
 doctor,&quot; when he sank away and  
 became to all appearancen lifelens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:0023728835A:1875122201:0883/pct:10.383907068989942,252.36309077269317,38.90069414931293,12.624584717607974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:0023728835A:1875122201:0883/pct:3.4613023563299805,84.12103025756439,12.966898049770977,4.208194905869324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4050,7 +4050,7 @@ where the bargemen aided us in
 conveying him into the boat, which  
 immediately put out.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:0023728835A:1875122201:0883/pct:10.001416631250885,5.9693494802272,78.75053123671908,272.1466080805916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:0023728835A:1875122201:0883/pct:3.333805543750295,1.9897831600757332,26.25017707890636,90.71553602686386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4071,7 +4071,7 @@ that instant just strength enough to say:
 i he&#x27;sank away and became to all appear?  
 ances life,1 eis. His pulses, were, not to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551293:1875122301:0034/pct:2.4052478134110786,39.9585277345775,12.332361516034986,3.6702954898911355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551293:1875122301:0034/pct:2.4149659863945576,39.9585277345775,12.332361516034986,3.6737515120096766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4096,7 +4096,7 @@ the bank where the bargemen aided us
 ? in conveying him into toe boat,&#x27; which  
 immediately put out
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551293:1875122301:0034/pct:2.2740524781341107,43.265940902021775,12.492711370262391,5.567651632970451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551293:1875122301:0034/pct:2.2740524781341107,43.27285294625886,12.497570456754131,5.567651632970451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4208,7 +4208,7 @@ forget. He had at that instant just
 enough strength to say: &quot;This is a mor­  
 tal wound,&quot; and then sank and becam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022553:00202197243:1877072801:0640/pct:158.63539445629,239.93580312959745,43.42572850035537,26.802193393072088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022553:00202197243:1877072801:0640/pct:39.66589657010841,59.98395078239936,10.858361471476808,6.700548348268022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4241,7 +4241,7 @@ no evidence of life but when about
 fifty yards from the shore, there was  
 a faint, convulsive effort to breath
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537929:1879122401:0224/pct:16.16046570488484,38.510515145668535,10.870665654264743,9.675863399575535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537929:1879122401:0224/pct:16.168902387581202,38.51694642742299,10.870665654264743,9.679079040452763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4279,7 +4279,7 @@ he should not long survive. The
 position of his limbs was changed,  
 but without effect they had entirel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537929:1879122401:0224/pct:16.13515565679575,52.826548331082385,10.832700582131107,12.241944819602546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537929:1879122401:0224/pct:16.143592339492113,52.83297961283684,10.832700582131107,12.23872917872532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4352,7 +4352,7 @@ were uttered, will never be effaced
 from my memory... About two o&#x27;-  
 clock he expired, i 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537929:1879122401:0224/pct:16.18577575297393,6.0775612579587115,22.17160212604404,88.64557206251206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537929:1879122401:0224/pct:16.18577575297393,6.0775612579587115,22.180038808740402,88.64878770338929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4396,7 +4396,7 @@ which had probably been effused from the di
 vided vesseis of the liver  
 The third false rio is the tonth rib in rotatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881093001:0430/pct:220.07272727272726,41.19487908961593,51.127272727272725,54.62304409672831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881093001:0430/pct:55.018181818181816,10.298719772403983,12.781818181818181,13.655761024182077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4475,7 +4475,7 @@ Pendleton knows&quot; (attempting to turn
 his head towards him) &quot;that I did not  
 intend to fire at him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_ionia_ver01:data:sn98066392:00296024442:1889112101:0421/pct:148.69413813116657,92.32677816577835,41.35229251305862,33.24756478588495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_ionia_ver01:data:sn98066392:00296024442:1889112101:0421/pct:49.571905383833986,30.775592721926117,13.786097808736033,11.082521595294983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4520,7 +4520,7 @@ rncrompl!hML.
 Yotmg De Trop Too bad that young  
 Do Hummer doesn&#x27;t know more than h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_ionia_ver01:data:sn98066392:00296024442:1889112101:0421/pct:148.21532211259432,127.55927219261166,41.613464886825305,48.38265024811616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_ionia_ver01:data:sn98066392:00296024442:1889112101:0421/pct:49.41227688289073,42.51975739753722,13.873167900159629,16.127550082705387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4654,7 +4654,7 @@ Pendleton knows” (attempting to turn
 his head towards him) “that did not  
 intend to fire at him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176618:1889123001:1230/pct:58.65450399087799,34.772995283018865,16.98973774230331,13.78242924528302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176618:1889123001:1230/pct:58.66590649942987,34.784050707547166,16.995438996579246,13.789799528301886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4696,7 +4696,7 @@ were scarcely able to summon fortitude
 enough to yield sufficient assistance to  
 their dying friend.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176618:1889123001:1230/pct:58.65450399087799,49.410377358490564,16.98973774230331,17.732900943396228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176618:1889123001:1230/pct:58.66590649942987,49.410377358490564,16.995438996579246,17.740271226415093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4818,7 +4818,7 @@ Pendleton knows&quot; (attempting to turn
 his head towards him) &quot;that I did not  
 intend to fire at him.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_dagger_ver01:data:sn2001063133:00415623252:1890050101:0303/pct:61.06194690265487,12.260283031345061,10.73859768550034,10.289644226954106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_dagger_ver01:data:sn2001063133:00415623252:1890050101:0303/pct:61.06620149761743,12.270202354185955,10.7428522804629,10.29295066790107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4867,7 +4867,7 @@ Young De Trop—He may be, naturally,
 but lua education has been sadly neg­  
 lected. Why, he can&#x27;t even tie a plai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_dagger_ver01:data:sn2001063133:00415623252:1890050101:0303/pct:61.06194690265487,23.012828990874223,10.789652825051055,17.616717365427853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_dagger_ver01:data:sn2001063133:00415623252:1890050101:0303/pct:61.07471068754255,23.016135431821187,10.785398230088495,17.623330247321782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5031,7 +5031,7 @@ rencueton snows&#x27; (attempting to turn
 bis head towards bim) “that I did not  
 intend to Gre at him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554498:1890062801:0310/pct:50.19374838543012,11.186974789915967,32.47222939808835,87.9201680672269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554498:1890062801:0310/pct:50.18078512396694,11.185016628741467,32.47029958677686,87.90915455977596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5082,7 +5082,7 @@ Young DeTrop— He may be. naturally,
 but his education has been sadly neg­  
 lected. Why, he can t even tie a plai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554498:1890062801:0310/pct:66.80444329630586,13.585434173669467,15.939033841384655,23.40686274509804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554498:1890062801:0310/pct:66.78719008264463,13.58305618764222,15.941373966942148,23.407141606861543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5204,7 +5204,7 @@ Pendleton knows&quot; (attempting to turn j
 his head towards him) &quot;that I did not  
 intend to fire at him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_cedar_ver01:data:sn88085488:00211108101:1890070501:0379/pct:70.00188786105343,37.22265726964239,13.23390598451954,11.32863482119551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_cedar_ver01:data:sn88085488:00211108101:1890070501:0379/pct:70.01604681895412,37.225920125293655,13.238625637153106,11.331897676846776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5323,7 +5323,7 @@ Pendleton that the oniy chance for his
 reviving waft to get him upon the water.  
 5^ei.ttiwefor^ lifted him up anfy carrie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742848:1895062201:0465/pct:30.89681491266696,84.20823350032673,12.755027153970351,7.54737529949902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742848:1895062201:0465/pct:30.90660012720779,84.20823350032673,12.750134546699936,7.55100559064837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

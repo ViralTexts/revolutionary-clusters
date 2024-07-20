@@ -448,7 +448,7 @@ fhare* and annual contributions on each
 ftiare ; to direct how transfers may be  
 made and certified, and judge of the per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804020601:0001/pct:57.3183007851822,17.293435773015233,16.911616670022145,26.701711821000135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804020601:0001/pct:57.32501174417824,17.29792874151952,16.931749547010266,26.706204789504426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ compen{ation, and to remove any or all
 of them from office, appoint another or  
 others in their place, as cften as the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806081901:0341/pct:59.7179169249845,25.57282327156804,17.03347799132052,14.455070731221358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806081901:0341/pct:59.72824963835503,25.57282327156804,17.03347799132052,14.46171216045693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ to affign them their duties, and fix their compenfation’,
 and to remove any, or all of them from oftlse • ap­  
 point another or others, i„ ,heir place,as often as the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806112101:0228/pct:58.666914913423945,13.25612911174079,17.79929249674176,10.841443883208083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806112101:0228/pct:58.655994043186894,13.25449618132545,17.802184164805162,10.844214502751088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ That the goods, chattels, and other effects
 vested in and confirmed to tiie said corpora­  
 tion, and the monies, goods, chattels, and othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814052101:0120/pct:3.473491773308958,33.112501533554166,17.184643510054844,7.005275426328058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814052101:0120/pct:3.4728568817400842,33.10843964671246,17.187595198927678,7.008505070330389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ edunto them by any person or persons, bodies
 politic or corporate capable of making such gift,  
 grant, ‘or bequest : Provided, That the goods
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814062101:0101/pct:24.523809523809526,67.64251207729468,16.610644257703083,4.608695652173913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814062101:0101/pct:24.528478057889824,67.64895330112721,16.62464985994398,4.608695652173913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -759,7 +759,7 @@ goods, chattels, or effects, be laid out, or dis­
 posed of for the use and benefit of the said  
 corporation, acording to the intention of the do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818081101:0301/pct:5.946882217090069,28.87442043997238,16.642609699769054,12.893360954917629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818081101:0301/pct:5.956505003849115,28.8809970076617,16.63779830638953,12.893360954917629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ ble to make the fame, and the fame, at
 their pleasure, to alien, fell, transfer, or lease  
 and apply to such purposes as they ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819051801:0445/pct:22.829763246899663,34.96626576708712,16.093573844419392,11.010071379681236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819051801:0445/pct:22.83446072904923,34.96952511326228,16.093573844419392,11.013330725856393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1131,7 +1131,7 @@ sign them their duties, fix their compensation and re
   
 move him or them from office, and appoint another o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1856101701:0528/pct:28.392711449551264,25.321463897131554,86.10280119662768,259.4658753709199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1856101701:0528/pct:9.46423714985042,8.440487965710517,28.70093373220923,86.48862512363996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1154,7 +1154,7 @@ or bequest. Provided, that the goods, chattels, and
 other effects vested in and confirmed to said corporation  
 and the moneys, goods, chattels, and other effects whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293228:1856113001:0522/pct:226.66666666666666,75.61929595827901,49.119496855345915,13.27486073248785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293228:1856113001:0522/pct:56.666666666666664,18.904823989569753,12.279874213836479,3.3187151831219626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1180,7 +1180,7 @@ fx their compensation and remove him or them from
 office, and appoint another or others in his or their place  
 as often as they shall think fit; to make, ordain, establish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293228:1856113001:0522/pct:226.85534591194968,90.1742325471139,49.18238993710692,17.589190470546402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293228:1856113001:0522/pct:56.71383647798742,22.543558136778476,12.29559748427673,4.3972976176366005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1205,7 +1205,7 @@ or others in his or their place as of. en as they shaif &#x27;think
 fit; to make, ordain, establish, and execute such by-laws  
 and ordinances as may be deemed useful to the said library
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857030401:0076/pct:27.72309711286089,114.51751690227412,19.553805774278214,5.777504609711125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857030401:0076/pct:20.810766453307075,85.8881376767056,14.672575086164452,4.339274738783036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ to assign them their duties, fix their compensation
 to awgr them wr dut om offce, and appoint  
 another er others in his or their place as etlena
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1857060501:0652/pct:35.573015442969385,84.63320463320463,41.99403955567597,15.772200772200772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1857060501:0652/pct:11.857671814323128,28.211068211068213,13.998013185225323,5.257400257400257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1294,7 +1294,7 @@ sons, bodies corporate or politic, capable of making such gift,
 grant or bequest: Provided, That the goods, chattels, and  
 other effects vested in and confirmed to said corporation, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293307:1860081801:0167/pct:291.66212534059946,230.6324716460611,43.10626702997275,9.89067129866149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293307:1860081801:0167/pct:72.92546668483445,57.658117911515276,10.778035154653223,2.4726678246653724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1350,7 +1350,7 @@ athed unto them by any person or persons, bodies
 corporate or politic, capable of making such gift,  
 grant, or bequest; Provided, That the goods, chat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1860091501:0025/pct:248.63258026159335,41.60177975528365,59.33412604042806,25.435669262143122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1860091501:0025/pct:62.176628010704725,10.400444938820913,14.837942313410645,6.3589173155357805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1521,7 +1521,7 @@ company; protided, however, that said rules, by­
 laws and ordinances be not repugnant to  
 the constitution and laws of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475555:1877032901:0418/pct:146.875,11.017628205128204,45.79545454545455,25.881410256410255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475555:1877032901:0418/pct:48.958333333333336,3.672542735042735,15.265151515151516,8.627136752136753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1556,7 +1556,7 @@ laws and ordinances be not repugnant to
 the Constitution and laws of the Unitede  
 States and of the constitution and law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475555:1877033101:0434/pct:56.306475903614455,120.98980686695279,46.1972891566265,29.01019313304721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475555:1877033101:0434/pct:18.76882530120482,40.3299356223176,15.399096385542169,9.670064377682403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1721,7 +1721,7 @@ Richard Penn, &quot;true and absolute proprietors
 and governors in chief of the province of Penn­  
 sylvania.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199082:1891061201:0297/pct:117.37506439979391,137.1467880198963,32.6764554353426,4.79415811196952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199082:1891061201:0297/pct:39.12502146659797,45.7155960066321,10.892151811780868,1.5980527039898402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

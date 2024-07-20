@@ -1053,7 +1053,7 @@ the power of other natious ; solicitous ons |
 ly for the maintenance of order and justice,  
 and the prefervanion of liberty ;- increal- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:7.608526528707017,28.45,16.16617395363311,14.17/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:7.618899434676624,28.456666666666667,16.176546859602716,14.173333333333334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1070,7 +1070,7 @@ forbid the repetition of advances, for se­
 curing these desirable objeéls with France,  
 1 shall inflitute a frefh attempt at nego
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:24.661583942741558,54.55,16.02613972304341,2.3/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:24.671956848711165,54.55,16.031326176028216,2.3/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ tion and servility, which they must finally
 stamp on the American charalter, is.an  
 - important duty of government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:24.27259996888128,5.81,33.125875213941185,86.38/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:24.282972874850888,5.81,33.125875213941185,86.38/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1176,7 +1176,7 @@ annoying our tradé, a great evil will be
 prevented. = With the {ame view I think  
 1t proper to mention, that some of our ¢i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:41.13894507546289,18.61,16.197292671541934,25.54/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:41.13894507546289,18.613333333333333,16.197292671541934,25.546666666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1222,7 +1222,7 @@ between the government“and the -péople
 of the United States. © To inveftigdte the  
 causes which have encouraged this attemp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:41.13894507546289,5.98,32.78356931694414,85.96/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:41.13894507546289,5.983333333333333,32.78356931694414,85.97/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1276,7 +1276,7 @@ o JOHN ADAMS.
   
 - BOSTON, May 17.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:58.2853586432239,16.99,15.637155749183133,23.78/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:58.2905450962087,16.993333333333332,15.63196929619833,23.78/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2583,7 +2583,7 @@ dence of the nation, is an indispensable
 duty.  
 &quot;There were other visits and the ton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340238:1896060201:0539/pct:49.166666666666664,58.28080229226361,11.105442176870747,5.429799426934097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340238:1896060201:0539/pct:49.15830641047441,58.27245380318006,11.107804795102874,5.432602778971494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2619,7 +2619,7 @@ such measures as their actual engagements,
 their present security and future interests  
 demand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897021701:0512/pct:21.825396825396826,36.27910944297535,16.58730158730159,12.172652051522649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897021701:0512/pct:16.375595373100477,27.211464642156443,12.440462689952371,9.127356478717052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

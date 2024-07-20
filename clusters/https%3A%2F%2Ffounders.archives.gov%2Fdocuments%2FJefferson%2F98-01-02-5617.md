@@ -232,7 +232,7 @@ ful to you, and that, with it, you will accept the
 assurance of my esteem and respect.  
 THO. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826092601:0140/pct:44.34201736806947,4.927536231884058,37.30126920507682,91.33948177426439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826092601:0140/pct:44.33609404221213,4.927103460389953,37.300739157538516,91.33438725920722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ names, nor were they either burlhensome on the
 people’s properties, or any wise shocking to the  
 natural humanity of mankind.&quot; c. 53
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829062301:0055/pct:47.94395370088334,83.16025489733302,14.331404203472434,5.322161907009677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829062301:0055/pct:47.93665296177859,83.15044247787611,14.334297751383179,5.325467059980334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ J ’or those of nicieui history thorclbro, of Greece and
 IVorik’ especially, I should white the iimwI mite *&gt;f  
 II Todolilft, Thucydides, Xenopho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010101:0009/pct:3.3170885080962114,74.26267281105991,17.60729445055809,8.433179723502304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010101:0009/pct:3.3165671172587237,74.25411818914871,17.60976632086346,8.436048074338593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ heirl the f^riKoii ami Norman • c- r.ii tf—&#x27;he lorincr
 exhibiting tie- gen.-r.il and pohtica&#x27; pr in-ijfea of ,he  
 ■people roust noting the nation, mid 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010101:0009/pct:21.00298695173715,8.26036866359447,18.361892784153437,25.483870967741936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010101:0009/pct:20.9996856334486,8.259417117843567,18.364246044220895,25.48477517951081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ useful t&quot; you, and that with it you will accept the
 a.durance of :.iy esteem and respe.c;.  
 TII0MAS JkrFKRSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010101:0009/pct:20.98726615312058,41.37096774193548,18.361892784153437,24.827188940092167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010101:0009/pct:20.983967305878654,41.366202050455016,18.364246044220895,24.828168797757556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ uscfnl f.&quot; you, and that with it you will accept trie]
 assurance of my esteem and respect.  
 THOMAS JEFFERSON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010101:0009/pct:3.324889170360988,3.825333814507398,35.90880303989867,90.54492962829303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010101:0009/pct:3.3243628304574955,3.8248737070002408,35.908395335338504,90.53804827199102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ name) nor were they either burdensome on the
 people&#x27;s properties, or anywise shocking to the  
 natural humanity of mankind. Even the imp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1859102201:1098/pct:7.636887608069165,63.463656387665196,18.245677233429394,4.419052863436123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100497:1859102201:1098/pct:5.728697531976221,47.60462555066079,13.691226805980904,3.31773127753304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1140,7 +1140,7 @@ the free, will
 tle,  
 e a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175031194:1895111001:0344/pct:217.60332007608508,6.73920673920674,80.63288950371779,286.9193869193869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175031194:1895111001:0344/pct:72.53444002536169,2.2464022464022464,26.8776298345726,95.63979563979564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

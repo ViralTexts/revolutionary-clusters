@@ -42,7 +42,7 @@ pect to its Eastern Boundary on Connecticut River, an I
 Grants made by the French South of Crown Point,&quot; publish­  
 ed by the General Assembly of New-York, 1773, with an ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1847072901:0545/pct:119.68503937007874,145.68409496363387,49.463135289906944,7.904487443392343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1847072901:0545/pct:29.9373321396598,36.42102374090847,12.372426141450314,1.9761218608480857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -61,7 +61,7 @@ with respect to its Eastern Boundary on Connecticut
 River, and Grants made by the French south of Crown  
 Point, published by the General Assembly of Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1847082701:0507/pct:168.562874251497,68.53864734299516,47.75449101796407,8.272946859903382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1847082701:0507/pct:42.148605652255284,17.13466183574879,11.940857196331649,2.0682367149758454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ River, and Grants made by the French south of Crown
   
 Point,&quot; published by the General Assembly of Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1847090301:0511/pct:271.3855421686747,66.8560322918224,48.795180722891565,7.594558229929735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1847090301:0511/pct:67.88472405349407,16.7140080729556,12.20568845356941,1.8986395574824337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ on Connecticut Revef, and Grants male by
 the I&#x27;reuch south of Crown Point,&quot; puhlished  
 by the General Assembly of NewYork, 172
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022355:00200290136:1847090801:0590/pct:42.01474201474201,230.66306630663067,55.61015561015561,16.8016801680168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022355:00200290136:1847090801:0590/pct:10.507988529291275,57.66576657665767,13.908234330192544,4.2004200420042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ River, and (rantsmade hy the French south of tros
   
 Point,&quot; published by the General Assembly of New exhibited that day. Agriculture in his country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1847091001:0515/pct:271.5883668903803,68.22682268226822,96.34601043997017,8.1008100810081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1847091001:0515/pct:67.90975200447511,17.056705670567055,24.090993846727578,2.025202520252025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ on Connecticut Rever, and Grants made by
 the Freuch south of Crown Point,&#x27; published  
 by the General Assembly of New York, 177
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022355:00200290136:1847092201:0599/pct:36.22828784119107,221.07908351810792,56.575682382134,16.378418329637842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022355:00200290136:1847092201:0599/pct:9.057071960297767,55.26977087952698,14.1439205955335,4.094604582409461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ with respect to its Eastern Boundary on Connecticut
 River, and Grants made by the French south of Crown  
 a iised by te enera ascib o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1847092401:0521/pct:25.845229151014276,53.49083749810692,50.413223140495866,9.753142510979858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1847092401:0521/pct:6.461307287753569,13.37270937452673,12.603305785123966,2.4382856277449645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -697,7 +697,7 @@ I
 oﬀ.  
 THOMAS PAIN E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111601:0568/pct:30.25223249255836,6.2516650386288966,46.31051229829234,92.98463724358405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111601:0568/pct:30.24749373433584,6.251109927188776,46.308479532163744,92.97934055525957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -70,7 +70,7 @@ My Reign, it is My fixed Purpose to Coun­
 tenance, and Encourage the Prattice of Trué  
 Religion and Virtue. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1761012301:0621/pct:7.632494372825865,58.438996900535365,26.846736239001434,6.3539025077486615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1761012301:0621/pct:7.639315189959757,58.438996900535365,26.83991542186754,6.3679909833755985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ own hand to his first speech to Parliament the
 striking declaration. &quot;Born and educated in  
 this country, I glory in the name of Briton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898100901:0706/pct:237.0286576168929,245.2282791265842,50.075414781297134,5.435944418995266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898100901:0706/pct:59.268338676221006,61.30706978164605,12.521214406939468,1.3589861047488165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

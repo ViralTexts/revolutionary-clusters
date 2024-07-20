@@ -627,7 +627,7 @@ avoid a general action; not put any tmng
 to risk unless compelled by a lucessily  
 into whien wo ought never to he dia.\ u.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895497:1897032501:0519/pct:49.09180166912126,39.003936334074965,14.82572410407462,7.016943351018313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895497:1897032501:0519/pct:49.079754601226995,38.997262149212865,14.828220858895705,7.020020533880904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ general action nor put anything to the
 risk unless compelled by a necessity into  
 which wo ought never to bo drawn.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897051401:0368/pct:31.435472739820565,15.795328142380423,20.54865424430642,5.883079965393647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897051401:0368/pct:20.96635030198447,10.530218761586948,13.701466781708369,3.9302929180571007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

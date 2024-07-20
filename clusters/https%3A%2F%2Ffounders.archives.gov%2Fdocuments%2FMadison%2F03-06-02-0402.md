@@ -162,7 +162,7 @@ sh &gt;uld be such, as, in the Opinion of his
 Majesty, to render their revival unne­  
 cessary. Mr. Baker moreover stated
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812110701:0154/pct:64.59143968871595,17.60934480941507,16.77641424723137,8.097663797646232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812110701:0154/pct:64.58177465210235,17.607798366558356,16.778891715297522,8.09987998009426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ and the result of the communications with
 in the opinion of His Majesty, to render their  
 ■ revival unnecessary, Mr. Baker more e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812110901:0280/pct:74.73684210526316,82.93603965069624,17.210526315789473,7.127684682558414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812110901:0280/pct:74.72373267847746,82.92625368731564,17.213354382272115,7.130776794493609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ nications with the American government
 should be such as, in the opinion of His Ma­  
 jesty, to render their revival unnecessary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111001:0216/pct:76.43335141978658,24.29895294259237,17.037438958220292,8.123721266097004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111001:0216/pct:76.41952983725136,24.296028880866427,17.04038577456299,8.126754913758523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ in fourteen days after they received
 the official declaration of their repeal  
 admit Britith armed veffe!s into thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812111701:0402/pct:24.325574225373824,34.67947461282102,16.402034838908587,14.242305430307782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812111701:0402/pct:24.325574225373824,34.6860092792263,16.407173321000975,14.248840096713062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ Resolved, That the President of the
 U. States be requeued in case the tact  
 be, that the first information of the ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813061101:0273/pct:30.46158710085362,5.641972053783285,38.00189693329118,88.02179453379031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813061101:0273/pct:30.45677256203572,5.6414762741652025,38.00115905379063,88.01698886936146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ ny dissatisfaction to the gov eminent of
 Franco at such concealment*  
 The question on considering the r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813061101:0273/pct:50.28453999367689,33.79910361191669,18.020866266202972,8.076280868266105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813061101:0273/pct:50.27659238185554,33.796133567662565,18.023286444339075,8.07850029291154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ Hetolvfd. That the President be reques­
 ted, in case the fact be, that the first infor- i  
 mation of tits existence of the said decre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813061501:0052/pct:41.78517964071856,4.581299286518964,36.54565868263473,92.61484541244211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813061501:0052/pct:41.77736202057998,4.58072590738423,36.545057686311196,92.60742594910305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -756,7 +756,7 @@ government has made any remonstrance, 1
 or expressed any dissatisfaction to the go- j  
 vernment of France, at such concealment, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813061501:0052/pct:59.78667664670659,12.57979722117912,18.45059880239521,6.821880085117036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813061501:0052/pct:59.775491113189894,12.57822277847309,18.45338322419707,6.825198164372132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ J^atolvep, That the President of the United
 titatqkbe requested to inform this House, whe­  
 ther th* minister of Fr^Kjprtte*r&gt;*kfeU State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813061701:0190/pct:3.673395162756865,44.13700633837153,17.003091471176578,12.8839590443686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813061701:0190/pct:3.672727272727273,44.13162705667276,17.006060606060608,12.886451350802357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ Mr. Grosvenor having required th© Yeas and
 Nays on the question of proceeding now m  
 consider the resolution, they were found to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813061701:0190/pct:3.8916166575741045,61.04339346660166,17.112202218585196,16.51633349585568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813061701:0190/pct:3.890909090909091,61.03595368677635,17.115151515151513,16.518383099735935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ casp the fhfit he, th ai *Jje first information of the
 existence of said dcct^nf the 23th of April,  
 1811, ever received bystlik* government or an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813061901:0509/pct:31.84031158714703,15.980551053484604,21.007789678675756,32.91734197730956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813061901:0509/pct:31.83256266731565,15.977961432506888,21.008761255779994,32.9160589855777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1055,7 +1055,7 @@ government oi France, at such conceal­
 ment.  
 Mr. Grosvenor having required the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813061901:0049/pct:8.73629336688837,5.219948535718662,33.84864281862305,87.39125107217252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813061901:0049/pct:8.73472322070453,5.2193089928938985,33.848550203690394,87.38462795066569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1277,7 +1277,7 @@ of the existence o&#x27; the said Cecree of the 28th
 of April, 1811, ever received by this povern­  
 ment or any of its ministers or agents, wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813062401:0849/pct:51.43970189701897,3.0232104544567973,22.74728997289973,33.3430856251219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813062401:0849/pct:51.45099367660343,3.026461218386321,22.75293586269196,33.33983486119238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1310,7 +1310,7 @@ Mr. Grosvenor having requested the Yeas
 and Nays on the question of proceedivng now  
 to consider the resolution they were found t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813062401:0849/pct:51.3719512195122,37.09771796372147,22.25609756097561,12.229373902867174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813062401:0849/pct:51.3719512195122,37.10421949158052,22.273035230352303,12.22612313893765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1352,7 +1352,7 @@ to.the novelty ot the form ot the reso­
 lution. The resolution went further  
 than merely asking tor information ; i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813062801:0328/pct:30.026434458093608,12.826125021887586,17.648888197791944,10.707406758886359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813062801:0328/pct:30.02176616915423,12.825002188566927,17.65132669983416,10.709387493069539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1392,7 +1392,7 @@ possession of me Department of State.
 And the question was decided in the affir­  
 mative 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813062801:0200/pct:57.00354609929078,50.085241110569896,16.914893617021278,14.551875304432539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813062801:0200/pct:56.993440879276726,50.079142822354804,16.917804171837144,14.554162100734608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1438,7 +1438,7 @@ or agents.
   
 Alia tiir question being taken thereon it wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813062801:0200/pct:57.02127659574468,65.37993180711155,17.127659574468087,17.5840233804189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813062801:0200/pct:57.011168232582875,65.37197126506757,17.130532411510963,17.585940987864767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1477,7 +1477,7 @@ On motion of Mr. Ultra,
 /tetoivec/, That the President of the United  
 • t.t es he r. qu»sted to transmit to tins Hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813062801:0200/pct:57.783687943262414,13.455918168533852,33.88297872340426,82.13589868485144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813062801:0200/pct:57.77344442474738,13.454279800316572,33.88288128582403,82.12995657291286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1502,7 +1502,7 @@ i&#x27;&#x27;)? date on the £8&#x27;h of AptH, 1811, arid pur­
 porting tobe a definitive r: peal of the de­  
 crees &lt;.f fl rlin and iVliiao
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813062901:0067/pct:59.4044756796745,78.62060332957817,17.606805992232292,6.2210539491801224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813062901:0067/pct:59.39349112426036,78.61076345431789,17.609714003944774,6.22444722569879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1539,7 +1539,7 @@ For the ri solve j37
 Against it &#x27; 29  
 The third resolution having been read i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813062901:0067/pct:77.19622711300167,29.002378270121415,18.01368596264102,13.58117411440731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813062901:0067/pct:77.1819526627219,28.99874843554443,18.016518737672584,13.583646224447225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1559,7 +1559,7 @@ of April. 1311. iml to lay before the iloir-o
 any correspond ?m.» that m.iy have taken  
 pl.ice with tie* said minister relative there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813062901:0067/pct:77.17773256889218,44.148203780197775,17.995191418531533,3.4297158593065467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813062901:0067/pct:77.16346153846153,44.14267834793492,17.99802761341223,3.4334584897788902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1592,7 +1592,7 @@ ly agreed fr—
 A con. no tire was appointed to pir*-&#x27;*nt  
 the resolutions to the President of the Uni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813062901:0067/pct:77.49213981875347,67.85580172737514,17.828740521546145,10.814870446864438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813062901:0067/pct:77.47781065088758,67.84730913642052,17.831607495069033,10.817688777638715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1616,7 +1616,7 @@ bearing date on the 8th of April, 1811, and
 purporting to be a definitive repeal of the  
 decrees of lierlin and Milan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813063001:0015/pct:26.334519572953738,20.148926850635128,21.952846975088967,7.344137830340196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813063001:0015/pct:26.328663553480098,20.145985401459853,21.955377659180193,7.347931873479319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1796,7 +1796,7 @@ which may bein poficilica of the D:part
 ment.of State, . -~ R  
 And the queltion wad decided in the af
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813070601:0534/pct:29.288145626757437,54.61351482741857,16.17581767056386,13.621779290228488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813070601:0534/pct:29.29801193823689,54.61675579322638,16.17581767056386,13.62826122184411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2000,7 +2000,7 @@ council on the 23d of June, 1812, we are
 led to enquire what were the causes that  
 produced it. They are best discovered i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813071201:0033/pct:49.31447225244831,72.66405910473708,21.240478781284004,5.910473707083876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813071201:0033/pct:49.30374238468233,72.65353418308227,21.243109950681752,5.914445731942835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2240,7 +2240,7 @@ c&lt; inmunicat&#x27;on, that a prior letter ot May,
 tlie decree for the information of tills govern­  
 ment had net been received
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813071501:0222/pct:56.42330642330642,6.143992408966908,33.90663390663391,87.92551298778318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813071501:0222/pct:56.413405860677315,6.14326375711575,33.906533309937416,87.91903858317521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2286,7 +2286,7 @@ se&lt;l the Senate.
 The bill releasing the claims of the United  
 Stales to British property captured by ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813071501:0222/pct:73.25377325377326,32.53469339342901,17.462267462267462,17.43565413355474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813071501:0222/pct:73.2409194595543,32.530834914611006,17.46505234836521,17.43753953194181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3005,7 +3005,7 @@ ticularly that relating to ifnpres*I,’e
 had been closed some tim« belore  
 period alluded to. It was unwoitny
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813071601:0387/pct:7.78312878670188,7.187928669410151,91.87509709492,87.9652491998171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813071601:0387/pct:7.781919850885368,7.18727139722019,91.86600393496946,87.96025359668374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3064,7 +3064,7 @@ in Id ;&gt;r.»c* e:f u ’.&#x27;i tl?e government *1
 Lnee/u’-f /•w ,. h the revocation. After  
 t dec &#x27;:hI on. * a’.e&#x27;er, ol the French
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813071601:0388/pct:1.732137333745747,7.228915662650603,17.10485617073925,32.27062094531974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813071601:0388/pct:1.731869491263337,7.228245760355852,17.107365599711354,32.27071942668273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3089,7 +3089,7 @@ the expectation that they would
 k! he complied withy but to ter­  
 the di^cubiion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813071601:0388/pct:4.608722548716362,47.04355885078777,14.027219300958862,6.70064874884152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813071601:0388/pct:4.608009896397093,47.039199332777315,14.03020462862739,6.703116794859914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3216,7 +3216,7 @@ All of which is respectfully sub­
 mitted.  
 JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813071601:0388/pct:5.567584287039901,7.432808155699722,31.178472007423444,86.90454124189064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813071601:0388/pct:5.566723364775012,7.432119358724863,31.178805216225967,86.89957680783368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3255,7 +3255,7 @@ M y, J ll it. which he had transmitted u
 r opy of 114 decree for t-e ii.f srmniisi, »,f  
 M»is KO&#x27; ttnq.eut, had not h?.5|, received
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813071601:0088/pct:23.831263696128563,76.16722994116911,17.384952520087655,13.731380648391537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813071601:0088/pct:23.826912543363154,76.15769712140175,17.38786440265352,13.733833959115561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3295,7 +3295,7 @@ th~ir preseut mini-ter i*. instructed to tie*
 • mand rtpuratio:-! for these injuries, and to  
 press it with the energy due to the jus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813071601:0088/pct:41.43535427319211,3.792714983101765,17.914536157779402,14.670171485792965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813071601:0088/pct:41.427788935548655,3.7922403003754694,17.91735134806159,14.672507300792658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3356,7 +3356,7 @@ information of this government, had not been
 received, :&amp;■ -  
 Mr. Secretary Monroe, after this, enters int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813071701:0541/pct:29.282320580145036,11.539091952138994,21.955488872218055,31.7652843796099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813071701:0541/pct:29.275,11.53720091773189,21.95625,31.764175680104884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3397,7 +3397,7 @@ these injuries, and to press it with the energy
 due, to the justjce of their claims and to the cha­  
 racter of the United *&#x27;tntes.—JVhl./nleZ. July 18
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813071701:0541/pct:29.332333083270818,48.00852319291919,21.80545136284071,18.455990821176858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813071701:0541/pct:29.325,48.00065552277942,21.80625,18.457063257948214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5125,7 +5125,7 @@ Where would have been Uieir rallying r,ai„t f
 The govci imentof their choice having been  
 dishonored, j*, w*akne?H and that of the&#x27;** fa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813071901:0224/pct:3.944485025566107,14.42413835398013,90.12052593133674,83.95682570832822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813071901:0224/pct:3.9437648347635568,14.422369389256806,90.11015762887226,83.95061728395062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5206,7 +5206,7 @@ chango.has since occurred in it.
 All of which is rcs|;uctfully submitted.  
 JAMESMQNKCE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813071901:0225/pct:6.1946902654867255,7.098728043609934,17.825537294563844,35.844942459115686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813071901:0225/pct:6.193571686529433,7.0978682170542635,17.828337546647404,35.84463824289406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5283,7 +5283,7 @@ ionable, who replicd that his firit 10-
 cree for the information of this gov­  
 ernment, had not been received
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813072001:0543/pct:24.92505995203837,7.138705927934909,16.60671462829736,41.94110809763657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813072001:0543/pct:24.92505995203837,7.138705927934909,16.616706634692246,41.947565543071164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5325,7 +5325,7 @@ prefe it with the-energy due to the just ce of
 their claims and to.the charad@er of the  
 ‘Uni ted States. . . Not Int 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813072001:0543/pct:24.92505995203837,57.003099573808605,16.60671462829736,15.740023246803565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813072001:0543/pct:24.92505995203837,57.003099573808605,16.616706634692246,15.743251969520857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5451,7 +5451,7 @@ to this government, by the &gt; id. r of his own]
 v-&#x27;-nUl ii not have been entitled to respect  
 i. d bven res, ected &gt; By the os:. e „ .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813072001:0092/pct:4.407919312663429,4.4555694618272845,18.64026895778857,61.87734668335419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813072001:0092/pct:4.4070961718020545,4.455011888374421,18.64301276065982,61.87377466316273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5529,7 +5529,7 @@ wl:ich )■ has it-elf given a tauction by its own
 if the 28th April, lfcll.  
 1 lit Biu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813072001:0092/pct:4.874859917818453,3.579474342928661,36.68285394097871,92.40300375469337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813072001:0092/pct:4.873949579831932,3.5790264047052935,36.68222844693433,92.39561172986276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5675,7 +5675,7 @@ have be u r-ale t:&gt; mak ancThi r s&#x27;untl it
 l lie government of their choice ie.&#x27;i heei:  
 ishon ted, its we*ik;.t ss a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813072001:0092/pct:23.178931639895406,3.9924906132665834,36.6081434441539,92.24030037546933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813072001:0092/pct:23.174603174603174,3.9919909898635964,36.60753190164955,92.23292871146707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5712,7 +5712,7 @@ France a&#x27; that in eresdi-g period. L*
 change has -*iiic** oc~urrod 111 it.  
 AH of which Is rtspeclfu ly snbrr5tfe9(.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813072001:0092/pct:41.744490100859174,54.51814768460576,18.117295480014942,13.103879849812266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813072001:0092/pct:41.73669467787115,54.51132524089601,18.120136943666356,13.106411379468568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6226,7 +6226,7 @@ mally annontremf, is it probable that It weak!
 have been given by iLtio aay daeraeat of info- a  
 rior charaeier^ directed tw tta fttrs wohl jl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813072101:0544/pct:3.95,12.893652102225886,88.925,84.91343775762572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813072101:0544/pct:3.9490127468132967,12.891526541378173,88.90902274431392,84.90356083086053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6385,7 +6385,7 @@ tish flag w as exclude.!, should be opened to Bri*
 exportation that they,would, or could be eompli,  
 (tdwiOi, hoi to torminat* tbodiesiuiioB, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813072101:0545/pct:7.19496855345912,2.526075619295958,22.339622641509433,93.41590612777054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813072101:0545/pct:7.193158953722334,2.5256640052142743,22.340291750503017,93.4047580250937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6508,7 +6508,7 @@ has since occurred in ii.
 A$Uf which is respectfully submitted. ■  
 - &gt; JAMES MONKOE. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813072101:0545/pct:29.71069182389937,1.9067796610169492,22.0125786163522,71.25162972620599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813072101:0545/pct:29.70321931589537,1.9064689587746455,22.013329979879277,71.2440932051491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6538,7 +6538,7 @@ ment should be such as in the opinio:
 of his Majesty to render their revival  
 unnecessary. Mr. Bsker moreover stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813072101:0403/pct:46.90634161394846,8.237291164120432,35.47292084554853,85.7589564906638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813072101:0403/pct:46.899105214439984,8.236555297480793,35.472590764167435,85.7542731225061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6589,7 +6589,7 @@ inunication to the American government
 expressly directed that it should be made  
 verbally, and Mr. Baker did not conside
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813072101:0046/pct:28.2506175611947,66.6131621187801,22.366943633505503,27.477017364657815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813072101:0046/pct:28.244274809160306,66.60344324482054,22.36940577757821,27.477871802353857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6775,7 +6775,7 @@ ancient date, the French minister assur­
 ed him that this decree had been com­  
 municated to his predecessor, Mr. Rus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813072201:0407/pct:11.104247104247104,8.021003078037298,34.965250965250966,86.37515842839036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813072201:0407/pct:11.102532427424336,8.020276998280076,34.96499897055796,86.37035695965722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6801,7 +6801,7 @@ municauon with the American government
 should be such as in the opinion of his Majesty  
 to render their revival unnecessary. Mr. Ba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813072201:0228/pct:76.5084621044886,49.47086729108381,17.089771891096394,6.276608685074809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813072201:0228/pct:76.49439028876219,49.4648504013622,17.092759487462448,6.279899456742074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8229,7 +8229,7 @@ ders issued by tin- French government
 for cat ry ing into effect that repeal, a de­  
 mot&#x27;d without example in the intercours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813072401:0416/pct:19.47867298578199,42.4812030075188,17.424960505529224,7.637997432605905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813072401:0416/pct:19.475596272310852,42.47730815072889,17.427473279629336,7.640353289936127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8250,7 +8250,7 @@ ok the Is/ November, 1810. in regard to
 the United States.**—And as a proof that  
 the decrees were repealed, he states th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813072401:0416/pct:19.43127962085308,51.91637630662021,17.377567140600316,5.299834953236751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813072401:0416/pct:19.428210393302795,51.91161639314202,17.38008740062128,5.302405183215672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8268,7 +8268,7 @@ peal ” This he terms “ a demand with­
 out example in the intercourse between  
 nations.” Yet we find that the Presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813072401:0416/pct:19.320695102685622,84.39391160828902,17.235387045813585,2.8974876214927563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813072401:0416/pct:19.317643342284,84.38617401668652,17.237929763597116,2.900278108859754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8884,7 +8884,7 @@ thus formally announced,!* it proba*
 ble that it would have been given by it  
 to any document of infgrunr Jutaoiar,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813072401:0056/pct:7.082002129925453,11.650966782350025,81.23890663826766,82.68468021814576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813072401:0056/pct:7.080745341614906,11.649522865286901,81.23040520556049,82.67856405172057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9211,7 +9211,7 @@ All of which is respectfully submit­
 ted.  
 JAMbS MON HO Ik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813072401:0057/pct:11.195883605393897,4.796727813584531,49.02413058907026,89.14229053049083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813072401:0057/pct:11.19389746318964,4.796133349857479,49.02134705221454,89.13537406535299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9876,7 +9876,7 @@ C. of an extraét of Barlow’s letter to Mr. .
 “2dr. Ruflell’s answer of the 29th May—and  
 B, of Mei Raflelly stter tothe Depart.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813072701:0545/pct:7.122801832422049,18.442307692307693,16.4474656420866,70.89423076923077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813072701:0545/pct:7.122801832422049,18.442307692307693,16.452391507807498,70.8974358974359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10023,7 +10023,7 @@ the Ewhxgamsnﬁ of August 5, 1810,
 had fully futsfied every claimof che Bricith  
 ‘governiment ascording 10 isown priaciple
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813072701:0545/pct:24.102260972365894,12.201923076923077,16.38835525343579,74.17307692307692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813072701:0545/pct:24.107186838086793,12.205128205128204,16.38835525343579,74.17948717948718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10414,7 +10414,7 @@ fible that thits government suld have
 e el Snards:. duag they (hondnd.  
 e decoarte B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813072701:0545/pct:40.99305452933353,10.471153846153847,49.78572484114083,82.89423076923077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813072701:0545/pct:41.00290626077533,10.477564102564102,49.78079897541993,82.89102564102564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10556,7 +10556,7 @@ rema ~,-rk:éﬁ%&amp;f‘fwi?hs JARee ceos
 - from the fa&amp;. The! diftrimination in  
 “favor of France, according 1o law, in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813072701:0546/pct:7.326646314871348,7.260443429441431,16.25236226195668,84.72737653439908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813072701:0546/pct:7.326646314871348,7.2667871982744945,16.257207927508844,84.72737653439908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10604,7 +10604,7 @@ tween the United States and France at
 &lt; Al é*f’_w’bich is refpe&amp;fully fnbmitt­  
 . - JAMES MONRO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813072701:0546/pct:8.576828027329555,6.413550290227424,31.21093182148568,88.20058997050147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813072701:0546/pct:8.58651935843388,6.413550290227424,31.201240490381355,88.20376185491801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11401,7 +11401,7 @@ government, to inspire in the body of the
 generons and noble sentiments, and it is the « :‘y  
 the coostituted asuthorities to cherisli wnd o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813072901:0868/pct:3.602566211547952,5.375273740792355,92.5974666886001,91.91718096754927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813072901:0868/pct:3.602566211547952,5.375273740792355,92.61391676262544,91.92381710797001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11487,7 +11487,7 @@ at that interesting period. No change has since oc­
 cutred inat Aliot which is respecttully submitted,  
 JAMES MONRON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813072901:0869/pct:3.6666666666666665,2.180532364207838,22.966666666666665,42.206070130635496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813072901:0869/pct:3.672222222222222,2.180532364207838,22.97222222222222,42.21261827587336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11921,7 +11921,7 @@ The despatches authorizing the communication to
 the American government expressly directed that ir  
 should be made verbally, and Mr. Baker did no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813080501:0872/pct:74.92100449027107,63.29533274870895,22.0023282887078,10.289389067524116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813080501:0872/pct:74.93209157935584,63.29533274870895,21.99678474416542,10.295884893955634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11991,7 +11991,7 @@ decree of April, 1811, was commu­
 nicated to Mr. Barlow in May, 1812,  
 and it is denied that it was ever com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080601:0460/pct:20.75358851674641,16.50581762424461,16.970693779904305,33.83241634346532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080601:0460/pct:20.7504858723277,16.504329004329005,16.973139981063436,33.83237133237133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12013,7 +12013,7 @@ wiser than he went. Monsieur Ser
 rurier answered that he knew very  
 little about it j the first news he ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080601:0460/pct:38.23265550239235,23.802651754306847,16.282894736842106,5.465860918192478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080601:0460/pct:38.22693975183137,23.800505050505052,16.285443763392635,5.468374218374218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12292,7 +12292,7 @@ occurred in it.
 All of which is respectfully submitted,  
 James monkoe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813080601:0392/pct:26.46233036967712,10.164795099897914,44.431445952269534,88.02683389237276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813080601:0392/pct:26.45614035087719,10.16331291921843,44.42690058479532,88.01764362787985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12958,7 +12958,7 @@ indicating, rn itseil, at a period so mo­
 Tmvntous and critical. not merely neglect  
 bnt disregard of the French decree.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:2.4805738194859535,17.764652430713312,17.827256425582785,19.636528850522488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:2.480203197370387,17.76303834272215,17.829573185915635,19.637773335756254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12974,7 +12974,7 @@ bnt disregard of the French decree.
 tbit “ the repeal was nevertheless to be  
 ascribed to other causes P I must no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:3.5415421398684996,74.64788732394366,16.362821279139272,1.1631076783280327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:3.5410129986553116,74.64110485189896,16.365356840480104,1.166030649948513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13003,7 +13003,7 @@ tomiali authentic or obligatory on the
 •Freiich government than that alluded  
 to.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:2.6150627615062763,78.90958655156747,17.27435744172146,9.132212630622444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:2.6146720454205887,78.90241686352898,17.276756810598137,9.134411533103156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13025,7 +13025,7 @@ titled to icspccl, and been respected ?
 By the usage of nations such respect  
 could not have been withheld *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:2.8093245666467426,6.369831894593367,34.50388523610281,85.4884143571104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:2.808904825937547,6.3692531346538255,34.50371034414064,85.48367557090072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13053,7 +13053,7 @@ a d&#x27;lay indicating, in itself, at a period .
 so momentous and critical, not merely  
 neglect, but disregard of the French de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:20.63658099222953,34.466151749204904,17.214584578601315,8.532485233984552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:20.633497684147617,34.463020170815916,17.216992878131382,8.534738627415349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13101,7 +13101,7 @@ that the repeal of the orders had no con­
 ! nectlon with the revocation of the de­  
 crees, he says that between the 20th o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:20.472205618649134,53.32121762835075,16.811117752540348,20.027260336210812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:20.469146869864037,53.316372887515904,16.813586333980776,20.028469319764977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13121,7 +13121,7 @@ act, that the French decrees were in full
 force, and by another that they were re­  
 pealed during the same space of time. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:20.84578601315003,86.21535665606542,16.28810520023909,3.834620626987733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:20.842671447781264,86.20752316918045,16.290651924896657,3.837300866194197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13190,7 +13190,7 @@ sented to the world, under the sanction
 of aii official act. Mr. Mcriroe, in his  
 youth, studied law, as I am informed, f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:38.254632396891814,41.00863243980009,16.960549910340706,32.848705134029984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:38.24891677872404,41.0049064146829,16.96299616514767,32.848749167120964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13244,7 +13244,7 @@ o Dr as titty eft*, cted the Uuited States,
 o notice »v hat ever was taken of the  
 French deci t&gt;c 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080901:0468/pct:20.447427293064877,47.658576197780384,16.346010439970172,12.00036091311017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080901:0468/pct:20.444378168804057,47.65427643450018,16.348543592802464,12.00228557680741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13269,7 +13269,7 @@ repealed. The repeal t» take effect on
 :hc first November following, on which  
 day it did take effect” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080901:0468/pct:20.745712155108126,79.63547775872959,16.181953765846384,6.794189298926283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080901:0468/pct:20.742618550551743,79.62829303500541,16.184511382841237,6.796583664140503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13334,7 +13334,7 @@ ance with the condition subsequently fct*.
 tached to (lie former repeal and her refu­  
 sal to pcifoim it. . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080901:0468/pct:37.65846383296048,29.405395650997022,16.79343773303505,30.30767842641884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080901:0468/pct:37.65284819564569,29.402742692168893,16.795904165423998,30.307951401419462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13926,7 +13926,7 @@ the necessity in which our, enemies
 find themselves, to disperse their  
 forces in Sifily, Portugal and Cana
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813082001:0508/pct:38.21358638349149,13.468534012368133,16.192197620123512,11.849763550381956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813082001:0508/pct:38.20783132530121,13.467309266163499,16.194779116465863,11.851717134976205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15208,7 +15208,7 @@ of France, bearing date the 26th of April, 1811, and purport
 ing to be a definliive repeal of the Decrees of Beciin and  
 Mllan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850082401:0792/pct:7.07504925667204,212.70511583011583,47.21475909009493,10.847007722007723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850082401:0792/pct:2.3583497522240133,70.90170527670527,15.738253030031643,3.6156692406692406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15326,7 +15326,7 @@ ment of France, bearing date the 2Sth of April, 1811, and
 purporting to be a definite repeal of the Decrees of Berlin  
 and Milan.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850092501:0151/pct:19.33936403508772,35.1288056206089,15.008223684210526,4.976580796252928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850092501:0151/pct:19.336713717966287,35.125378085666895,15.0107350052533,4.979347578625557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

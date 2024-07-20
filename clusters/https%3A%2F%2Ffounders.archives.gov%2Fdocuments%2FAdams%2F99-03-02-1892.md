@@ -177,7 +177,7 @@ And, doubly dying, shall go down
 To the vile dust from whence he sprung,  
 Unwept, unhonored, and unsung!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1863072301:0750/pct:22.51851851851852,222.42253521126761,46.666666666666664,31.43661971830986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1863072301:0750/pct:5.62962962962963,55.605633802816904,11.666666666666666,7.859154929577465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ Boundless his wealth as wish can claim,
 Despite these titles, power and pelf.  
 The wretch, concentered all in self
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210132:1885122701:0488/pct:20.076066286335234,8.32028191072827,14.52051073077968,6.196162881754111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210132:1885122701:0488/pct:20.08512179661324,8.323544766379536,14.525038485918682,6.199425737405377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ And doubly dying, shall go down
 To the vile dust from whence he sprung,  
 Unwept, unhonored, and unsung.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529054:1892120101:0369/pct:52.00826019617966,72.70215971873431,8.425400103252452,6.738657291143479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529054:1892120101:0369/pct:52.01514369299604,72.70215971873431,8.425400103252452,6.749818628271667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ And doubly dying, shall go down
 To the vile dust from whence he sprung,  
 Unwept, unhonored, and unsung.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529054:1892120101:0370/pct:52.1717017597396,73.20652619496597,8.290102736242499,6.649176026891858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529054:1892120101:0370/pct:52.1717017597396,73.20652619496597,8.296884006374395,6.651908939356672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ To the vile dust from whence he sprang,
 Unwept, unhonored and uneung.  
 1 he Mathematician of Piedmont
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84042105:0033289173A:1894032501:0622/pct:38.99159663865546,41.389101234028615,10.910364145658264,9.970514360598449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_earnhardt_ver01:data:sn84042105:0033289173A:1894032501:0622/pct:38.99626517273576,41.396381638819115,10.919701213818861,9.974154562993702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ tion to select men of the caliber of
 those chosen. If they are not elected,  
 it will not be because they are not su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1894100601:0365/pct:25.215208034433285,44.59792122538293,10.007173601147777,12.664113785557987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1894100601:0365/pct:25.210686749148287,44.591822781348284,10.009861932938856,12.66580062901682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ To the vile dust, from whence he
 sprung.  
 Unwept, unhonored and unsun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536366:1894112501:0782/pct:252.49169435215947,136.10601427115188,50.83056478405316,44.52599388379205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536366:1894112501:0782/pct:63.1578947368421,34.02650356778797,12.714681440443213,11.131498470948012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ And, doubly dying, shall go down
 To the vile dust from whence he sprung.  
 Unwept, unhonored and unsung.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90060762:00199919775:1898021001:0231/pct:29.928225671841094,41.7509633911368,13.70388916708396,8.417630057803468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90060762:00199919775:1898021001:0231/pct:29.93935347465643,41.75899165061015,13.698325265676292,8.417630057803468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ To the vile dust from whence he sprung,
 Unwept, unhonored and unsung.  
 THE NEW MONITOR TERROR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898031001:0270/pct:30.986652708714995,35.09378983791659,17.953415336299397,10.817701693680569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898031001:0270/pct:30.97854526425955,35.087399854333576,17.9552590266876,10.820284049526585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ And, doubly dying, shall gp down
 To the vile dust, from whence he sprung,  
 Unwept, unhonored, and unsung
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:0028076646A:1899060101:0196/pct:7.928388746803069,17.7415516420752,13.009377664109122,7.960495002379819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:0028076646A:1899060101:0196/pct:7.939755612389884,17.74948437252102,13.01506109690253,7.9684277328256385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -892,7 +892,7 @@ As a band of brothers Joined.
 Peace and safety we shall find.  
 Joseph Hopklnson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109026:1899070401:0017/pct:112.99618320610686,84.30167597765363,14.351145038167939,18.84078212290503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_franklin_ver01:data:sn86063615:00211109026:1899070401:0017/pct:84.76808551250238,63.226256983240226,10.765413246802826,14.134078212290502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -926,7 +926,7 @@ To the vile dust, from whence he
 prung  
 Unwept, unlionor&#x27;d and unsun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534709:1899071801:0450/pct:80.64356435643565,57.58250658027941,34.381188118811885,30.066815144766146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534709:1899071801:0450/pct:26.887843525625154,19.194168860093136,11.463233473632087,10.022271714922049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

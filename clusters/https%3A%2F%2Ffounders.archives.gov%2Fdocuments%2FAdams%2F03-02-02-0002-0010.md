@@ -122,7 +122,7 @@ AND THE
 CONSTITUTION AND LAWS OF  
 ENGLAND
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805102501:0004/pct:80.17718715393134,5.624646693046919,18.183831672203766,7.716223855285472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805102501:0004/pct:80.18456995201181,5.62935745242133,18.205980066445182,7.720934614659883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ subject of one prince cannot, by any act of hi.-,
 own, no, not by swearing allegiance to another, put  
 oil or discharge his natural allegiance to the for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040101:0432/pct:59.71093044263776,80.43052837573386,17.326106594399278,2.7152641878669277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040101:0432/pct:59.70014450867052,80.42069218539807,17.328998073217726,2.7190086013615424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ just pub-ished Cote upon Littleton, or the first
 parto* the Institutes of the Laws of England;  
 ora Commentary upon Littleton, by Lord Ed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812091701:0258/pct:77.94039851877976,22.102137767220903,16.62846058896138,1.6864608076009502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812091701:0258/pct:77.92665726375176,22.099513121957013,16.631405735778092,1.690218897201441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ just published Coke upon Littleton, or the first
 part of the Institutes of the Laws of England ;  
 ora Commentary upon Littleton, by Lord Ed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812092801:0270/pct:61.19273984442524,42.93212036389083,16.12791702679343,1.562864473991136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812092801:0270/pct:61.182163843760804,42.927113702623906,16.130890655605484,1.566569484936832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ prince to whom it was first due.” This is a la
 A New Edition of the above Institutes of the Laws of England  
 or A Commentary upon Littleton,-not the name of the Autho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184650:1853091201:0244/pct:217.65315182006512,202.5166803230715,39.03521751997632,2.9263724686878145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184650:1853091201:0244/pct:72.54031661488386,67.49765917602996,13.009814075060413,0.9753433208489388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ or A Commentary upon Littleton,-not the name of the Autho
 A New Edition of the above Institutes of the Laws of England;  
 or. A Commentary upon Littleton,-not the name of the Autho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184650:1853091301:0249/pct:5.329838357361293,178.98305084745763,38.93985728848114,2.711864406779661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184650:1853091301:0249/pct:1.7763541059988353,59.654043945769054,12.978062512133567,0.9038491506934705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ or. A Commentary upon Littleton,-not the name of the Autho
 A New Edition of the above Institutes of the Laws of England;  
 or. A Commentary upon Littleton,-not the name of the Antho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184650:1853091401:0253/pct:7.760532150776053,164.334768944244,39.74870657797487,2.700500523803981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184650:1853091401:0253/pct:2.5864617203665388,54.77188081936685,13.247610602029757,0.9000620732464308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ a tore tpON LiTtLerON.Eo. M west, Nes on
 A New Edition of the above Institutes of the Laws of England  
 or. A Commentary upon Littleten- not the name of the Autho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184650:1853091501:0257/pct:5.376981187972152,162.15269670791503,39.03125462894386,4.949801540975951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184650:1853091501:0257/pct:1.7920616113744077,54.04458970468075,13.00849131121643,1.6497412552040778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ Exchange, offers for sale
 Edition of the above institutes of the laws of England,  
 or. A Commentary upon Littleton--not the name of the Autho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184650:1853091601:0259/pct:249.01816034253653,261.6250725478816,38.860180126974754,2.8670922809053976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184650:1853091601:0259/pct:82.99379982285208,87.19823584029712,12.95148115342978,0.9555865057257815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ and primitive, and antecedent to the other; and
 cannot be divested without the concurrert act  
 that prince to whom it was first lue.&quot; This is a la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470077:1856110101:0425/pct:179.5649685174585,370.6547680813531,49.22724670864339,13.365155131264917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470077:1856110101:0425/pct:44.91052254831782,92.66369202033827,12.31209735146743,3.341288782816229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -713,7 +713,7 @@ was first due. Is such a doctrine based upon any
 true philosophy? Is it in accord with the progress  
 and the civilization of the nineteenth century? I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868021901:0467/pct:133.51519875292283,163.53848392259567,51.597817614964924,18.739997090062563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868021901:0467/pct:33.38530500877022,40.88462098064892,12.901968427207173,4.684999272515641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ tais extent. on the Continent they treated the
 tter not so much as the claim of the sovereign to  
 he alleglance of the sublect, which never could b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868040301:0044/pct:60.90642321486795,132.9398148148148,43.576785132050865,11.38888888888889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868040301:0044/pct:20.30214107162265,44.31327160493827,14.525595044016955,3.7962962962962963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

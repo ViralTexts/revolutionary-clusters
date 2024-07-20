@@ -53,7 +53,7 @@ or crews, with supplies of any kind, or in any man­
 ner whatsoever, or if any Pilot shall assist in navi­  
 gating any of the said annod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806051201:1108/pct:48.20352061731372,88.22225740066487,20.424403183023873,3.5143264207693528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806051201:1108/pct:48.19189971070395,88.20829376384933,20.425506268081,3.51772712883824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ of May, in the year of our Lord, 1806,
 and of the sovereignty and independ­  
 ence of the United S -ties the thirtieth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806051601:0170/pct:39.70644300419367,66.89556880020731,17.784979031643157,9.108577351645504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806051601:0170/pct:39.698875547932154,66.88690244850369,17.7879423162442,9.111715679923996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ of the Independence of the Uni­
 ted States of America the sixty­  
 sixth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1842040701:0277/pct:1.3835401511909855,60.1511879049676,12.965340179717586,10.345572354211663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1842040701:0277/pct:1.3930490182094803,60.1511879049676,12.96058574620834,10.356371490280777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ eight “\,uudred and forty two, and ol
 the Independence of the {hmed States  
 of Ameriea the gixty sixth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842062901:0744/pct:19.784172661870503,18.74937468734367,14.042612064194797,7.003501750875437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842062901:0744/pct:19.784172661870503,18.74937468734367,14.051835454713153,7.010171752542938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ cight hundred and forty&lt;two, and
 ol the Independence of the Uni­  
 ted States of America the sixty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1842063001:0321/pct:71.17422636710471,79.40491317238458,12.957467853610288,8.4286319356205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1842063001:0321/pct:71.18364655456644,79.40844275024708,12.952757759879422,8.435691091345475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

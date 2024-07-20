@@ -173,7 +173,7 @@ cbedient servant.
 (Signed)  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021901:0003/pct:3.501188675167495,1.7473304673415615,37.216338880484116,97.15712106503952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021901:0003/pct:3.508392767091708,1.7473304673415615,37.23074706433254,97.16174363241345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ mony and friendship-humect: checwo na­
 -ti0ns. &quot; &#x27;  
 , j-l have the honor te-bc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021901:0232/pct:53.96928051738076,66.590714896041,23.039611964430073,25.0735782777936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021901:0232/pct:53.960556094406726,66.58439339282324,23.04127599956892,25.074362382127713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ view to cultivate harmony and friendship between
 the two nations.  
 I have the honour to be, Sir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022401:0975/pct:53.75984721890666,5.367951576935329,20.31511100501313,16.27906976744186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022401:0975/pct:53.747016706443915,5.367096671444497,20.316229116945106,16.280458671763018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ bedient servant.
 (Signed)  
 . JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022501:0071/pct:40.687732342007436,60.882278159166034,17.397769516728623,33.58759216882787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022501:0071/pct:40.6801709719383,60.87453921444006,17.400730966982593,33.587559849158936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ to whatever communications his ;
 i catholick nujefty may pleaic to nuke  
 with a view to cultivate hatmony an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806030301:0787/pct:39.25913103687035,37.05682869180968,18.746754370780682,36.26554310964957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806030301:0787/pct:39.25233644859813,37.05302096177559,18.747836621668398,36.2643855322647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ fnr, and with ail the attend.or, which .van be
 Id .jelly may pie ife to m &lt;k-, v, i&gt; h a vie v to cul*  
 .livrftc haimony and friendlhip between the tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806091601:0151/pct:5.5762081784386615,59.863861386138616,18.066914498141266,25.99009900990099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806091601:0151/pct:5.5751719011336185,59.856453409231534,18.06975159511863,25.991007713566802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ I are to be accoiuplitied. j
 In regard to fhe obje&amp;ions which  
 this government, in its wifdom, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1806092901:0055/pct:21.628455832771408,42.76153212520593,18.172623061362103,27.244645799011533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1806092901:0055/pct:21.624810382605766,42.75712962009678,18.173773807517275,27.244414701945846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ in which the Government resides, as long as it
 may suit the interest of the King, my master.  
 or my own personal convenience.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0939/pct:218.90881913303437,203.17178005039275,49.85052316890882,24.781384318956572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0939/pct:54.74766355140187,50.79294501259819,12.467289719626168,6.195346079739143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -858,7 +858,7 @@ four miles square, in which the gov­
 ernment resides, as long as it may  
 suit the king, my master, or my ow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150941:1898091201:0628/pct:67.62386549620592,48.105252463679776,14.610920993899716,2.194452910697958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150941:1898091201:0628/pct:67.62386549620592,48.10863896508517,14.620840152755047,2.19106640929256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ ernment resides, as long as it may
 suit the king, my master, or my own  
 personal convenience.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898091501:0651/pct:67.95724944545272,77.87574046011848,18.39080459770115,3.5404325664692107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1898091501:0651/pct:52.66722233798708,60.36157870386847,14.252969368618462,2.740311043097619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

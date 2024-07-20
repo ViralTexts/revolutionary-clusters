@@ -108,7 +108,7 @@ ol ;overnrncnt, foreign and dom&lt;»tic.
 Accept the assurances of mv great  
 mpeci. TH. JLFFEKSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823073101:0123/pct:73.64085667215815,64.76961053208996,17.112850082372322,13.576522216127263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823073101:0123/pct:73.62569487337863,64.76072946661182,17.114473955116328,13.578088578088579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ vei nmeiit, foreign amt domestic. Accept
 •be assurance of my great respect.  
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823080101:0410/pct:34.058434634250375,9.516152609267651,15.248453828108339,10.773278760415144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823080101:0410/pct:34.05117270788912,9.514761765565623,15.250533049040511,10.775358082432037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ eign and domestic. Accept assurances of mv^
 great respect.” * ‘  
 M „ TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830072301:0203/pct:34.11783042394015,67.12952424311405,14.869077306733168,8.411108581834737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830072301:0203/pct:34.11251363565529,67.12188460225333,14.871954703651758,8.413944842760138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ vernment, foreign and domestic. Accept assurances of
 my great respect.”  
 ... • TH. JEFFERSO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830072701:0092/pct:65.93569417691509,63.6052871467639,15.291154245073344,6.768459434822242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830072701:0092/pct:65.92592592592592,63.59804033268771,15.293827160493827,6.771486081045156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

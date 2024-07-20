@@ -2171,7 +2171,7 @@ of Homer is better rendered in Chapman&#x27;s version
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1846-10_4_4/page/n44/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1846-10_4_4/page/n44/mode/1up?view=theater)
 
 #### 1846-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3255,7 +3255,7 @@ And tio with silver every mountain’s head:
 rXh*n shine the vales; the rocks in prcspect rise;  
 A flood of glory bursts from all the skits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525280:1870011201:0520/pct:4.9490538573508,6.8444546182900305,10.981724082160763,6.22639349891267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525280:1870011201:0520/pct:4.948253557567917,6.843671320668345,10.983990944372575,6.228542000457771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3285,7 +3285,7 @@ to many fanes before prond Ition blare
 And bright en ghimmering Yanthus with their rays;  
 The long dect ons of the distant fire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206536111:1870020501:0145/pct:239.06976744186048,160.49382716049382,46.58914728682171,19.632640770852152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206536111:1870020501:0145/pct:59.79061651803024,40.123456790123456,11.651803024428073,4.908160192713038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3688,7 +3688,7 @@ And tip &#x27;with s ilrer ev&#x27;ry mountain&#x27;s head;
 Then Rhine tho vales, the rocks in prospect rice,  
 A flood of fjlcry bursts from, all tboskies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286662:1890030201:0566/pct:7.243551289742052,23.3402151472346,18.31133773245351,8.062588286428339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286662:1890030201:0566/pct:4.831207801950487,15.560143431489731,12.213053263315828,5.3786808649353475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3758,7 +3758,7 @@ pole.&quot;
 Many later poets make Homer thei  
 model and Virgil epeaks of &quot;Storm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn93060416:00294556436:1897060501:0304/pct:76.22202591283863,100.2377972465582,12.882803297997643,7.196495619524406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn93060416:00294556436:1897060501:0304/pct:57.187039764359355,75.18147684605758,9.661266568483063,5.394242803504381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

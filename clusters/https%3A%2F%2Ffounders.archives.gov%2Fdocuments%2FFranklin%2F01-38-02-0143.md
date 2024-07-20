@@ -153,7 +153,7 @@ turn of the line lad mentioned, in the la- i
 to the middle of the river Appalachicola ,  
 I jr Chatahouckie ; thence along the middle 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801012801:0001/pct:28.709601321066287,53.12362193150081,21.585279547062985,6.08555049242981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801012801:0001/pct:28.71746481088307,53.128521730609044,21.585279547062985,6.08555049242981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ Maryland, Virginia, North Carolina, South Caro­
 lina, and Georgia--to be free and sovereign and  
 independent State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101933:1881101501:0374/pct:285.4761904761905,223.96753061805754,50.07936507936508,13.115921389917402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101933:1881101501:0374/pct:71.39737991266375,55.991882654514384,12.524811433108376,3.2789803474793504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ independent
   
 Statea.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1881102701:0188/pct:254.51336359051942,207.00816485225505,28.706505295007563,9.836702954898911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1881102701:0188/pct:84.83778786350648,69.00272161741835,9.568835098335855,3.2789009849663038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ will be established so as to secure perpetual
 peace and harmony.&quot;  
 The &quot;Rebel&quot; Battle Flags
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:0029455077A:1888022901:0078/pct:30.753304666348143,74.22556719022688,12.88421723204332,5.148342059336824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:0029455077A:1888022901:0078/pct:30.753304666348143,74.23283885980221,12.88421723204332,5.144706224549156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ a beneficial and satisfactory intercourse be
 tween the two countries will be established so  
 as to secure perpetual peace and harmony.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528414:1888030101:0704/pct:115.50253430584745,142.1154591243704,31.981703548028186,7.8457962030220845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528414:1888030101:0704/pct:38.50084476861581,47.37181970812347,10.660567849342728,2.6152654010073615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ now placed be fore the Senate, beneficial and
 satisfactory intercourse between the two coun­  
 tries will be established so as to secure perpet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1888030101:0074/pct:59.38799762329174,13.472442730777955,15.909090909090908,4.0712179632569745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1888030101:0074/pct:44.555043827068786,10.104332048083466,11.92987668994206,3.061918802449535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ will be established so as to secure perpetual
 peace and harmony.&quot; eo  
 The &quot;Rebel Battle Flags
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288105:1888030101:0826/pct:97.33850474789354,218.141592920354,37.54179483750167,14.907290349768227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288105:1888030101:0826/pct:32.44616824929785,72.71386430678466,12.513931612500556,4.9690967832560755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ beneficial and satisfactory intercourse be­
 tween the two countries will be established, so  
 as to secure perpetual peace and harmony
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045028:1892060501:0076/pct:58.134155744024675,79.09228441754917,51.58057054741712,19.001512859304086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045028:1892060501:0076/pct:14.541947926711668,19.77307110438729,12.902603664416587,4.750378214826021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

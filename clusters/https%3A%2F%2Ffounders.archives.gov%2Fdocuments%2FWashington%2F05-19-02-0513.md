@@ -131,7 +131,7 @@ who objected to it, because there w&lt;s not rcquir­
 &#x27; thirds of the whole Senate, inrtre.d of uv,&gt;.thirds  
 of the Senators piefent ; and hecnufe in treatie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796040601:0003/pct:28.556566970091026,45.87186816882462,20.442132639791936,5.616277114511519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796040601:0003/pct:28.56957087126138,45.87607196906003,20.45513654096229,5.620480914746931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ all the circumflances of this cale, forbid a
 compliance with your request.” .  
 Geo. W a&amp;ungton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796040901:0058/pct:7.606506584043378,7.686939182452642,33.18357862122386,86.07178464606181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796040901:0058/pct:7.6116705396333595,7.6935859089398475,33.17841466563387,86.07178464606181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ rating on tlie conkitut iun ; i lpeciaMv bv thole wl r&gt;
 commercial treaties the conlent of two thirds of the  
 v» . lie nunit cr of the Senate, inittr.d of two tlord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1796041401:0110/pct:67.57515030060121,66.75769612711022,27.5751503006012,20.134061569016882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1796041401:0110/pct:67.54807692307692,66.74112683047903,27.57411858974359,20.135269297592455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ compliance with your request.” .
 | 2 :  
 b Geo. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796041601:0062/pct:9.734375,8.774703557312254,33.640625,85.19762845849803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796041601:0062/pct:9.744791666666666,8.777997364953887,33.635416666666664,85.19762845849803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1443,7 +1443,7 @@ The I a ft words, in italict, I wrote, but they are
 not printed in your No. 310. By printing this,  
 you will have the pleafure of correcting a mi (take
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1796102701:0180/pct:17.7836016473231,50.90220539095567,25.30887308124298,5.502339051013589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1796102701:0180/pct:17.776946107784433,50.89086859688196,25.30875748502994,5.506681514476615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1472,7 +1472,7 @@ occasion, viz. excepting such part of the
 said papers as any existing negociation  
 may render improper to be difelofed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041801:0479/pct:59.12934544315691,55.75959933222037,16.59880989664892,10.065795934400471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041801:0479/pct:59.134565194696734,55.76614619136469,16.593590145109093,10.069069363972634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1656,7 +1656,7 @@ cumft-iice.of this cafe, forbid a compli­
 ance with ye ur requdt.  
 GEO. WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110201:0002/pct:1.0558732952045755,1.4105932789379063,58.40299164100308,96.70861568247823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110201:0002/pct:1.0705382020824168,1.4152030608952197,58.410324094442004,96.71783524639285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1691,7 +1691,7 @@ my views t&#x27;v the consequences which must ﬂiw
 from the admissionof that Principle.&quot; it was  
 not pretended that the papers requested werenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803110401:0296/pct:77.20238095238095,5.795564979238448,22.12797619047619,15.78761374679742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803110401:0296/pct:77.1908942121708,5.795053003533569,22.12964340623915,15.789163722025913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1711,7 +1711,7 @@ for can throw no light.&quot; We who support the
 motion of the gentle-man from Connecticut do  
 not assume the siright to judge of the merit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803110401:0296/pct:77.63392857142857,23.71234207968902,21.220238095238095,4.461524869688135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803110401:0296/pct:77.62237762237763,23.710247349823323,21.22204037097654,4.464075382803298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1753,7 +1753,7 @@ tain, together with the cortefpondence
 and other documents relative to the laid  
 treaty/* &amp;c. The profelfed intention o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803111901:0016/pct:28.84346610761705,63.47131445170661,22.6764500349406,6.7330635958086935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803111901:0016/pct:28.83842794759825,63.46473029045643,22.676855895196507,6.734958506224066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1775,7 +1775,7 @@ throw no light/ We who fupport the
 motion of the gentleman from Connecti­  
 cut, do not aflame the right to judge o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803111901:0016/pct:28.84346610761705,85.40305010893246,22.851153039832287,6.7745616765224606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1803111901:0016/pct:28.83842794759825,85.39419087136929,22.851528384279476,6.776452282157677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2072,7 +2072,7 @@ of die advocates of this resolution, they are not al1
 now members of the House of Representatives ; when  
 we come to see the votes of those who are so, w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806041501:1060/pct:26.519065190651908,32.657945118059985,21.20541205412054,11.821952776005105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806041501:1060/pct:26.512543039842598,32.652735683522096,21.20634530250861,11.824054873185515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2126,7 +2126,7 @@ right in the house of lepresenlativcs to demand,
 “ when the treaty elf v;u« communicated foi  
 “ their cnnsi&#x27;leralti :i and r ! tcc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808122801:0279/pct:9.532282663955263,3.547269427487213,43.69598373157092,94.67084639498432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808122801:0279/pct:9.529860228716645,3.5466842626195976,43.69123252858958,94.6593533487298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2166,7 +2166,7 @@ wiil appear, that a proposition was made,
 and that the proposition was ex&#x27;/ires sly re­  
 jected 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810071301:0081/pct:76.90095272335071,10.946061122610496,17.43663490922164,8.267380981370998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810071301:0081/pct:76.88713156002876,10.94472851229608,17.43949197220225,8.270432594756919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2345,7 +2345,7 @@ cal situation of the smaller states were
 ‘deemed essentially to depend.” » © -  
 . Befove the adoption of the Constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824090701:0349/pct:5.232029117379436,72.33494695643218,17.015468607825294,19.86816355958389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1824090701:0349/pct:5.232029117379436,72.34181343770385,17.0255788090183,19.871596800219727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2367,7 +2367,7 @@ cess.try to ascertain the p-i.n&#x27; under const lerntion,
 they may be found in the journals ol tire general  
 con ven tion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825122201:0252/pct:22.821774321536264,15.633551457465794,14.870655451515633,3.9381320642474718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825122201:0252/pct:22.818152967311963,15.63169164882227,14.87358510525759,3.9416289951621857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2534,7 +2534,7 @@ and to the duty of my office, under all
 the circumstances of this case, forbid a  
 compliance with your request.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826051301:0212/pct:41.326259946949605,3.7541528239202657,36.3395225464191,92.42524916943522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826051301:0212/pct:41.3153009811721,3.7535293140674306,36.33651551312649,92.41405082212258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2684,7 +2684,7 @@ peachmcnt. w nr- the resolution has not j
 expressed &quot; And concludes. ?? a just re­  
 gard to the &lt; institution and &#x27;he duties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156992:1835020601:0028/pct:27.56864884524459,36.95526528725003,18.148754318967086,12.657496243208877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156992:1835020601:0028/pct:27.56864884524459,36.95526528725003,18.16087773534582,12.669055600508612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2718,7 +2718,7 @@ of the Constitution i.- deemed conclusive tl .it the power is not in
 the Constitution.  
 * Let one example satRi e for many
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1842020301:0626/pct:14.978314745972739,28.692361318593765,16.51177199504337,3.5454635992431034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1842020301:0626/pct:14.978314745972739,28.692361318593765,16.516935150764148,3.5554227666567075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2778,7 +2778,7 @@ the sovereignty and political safety of the *inallcr State* were
 (it&#x27;ra&#x27;d essentially to depend.&quot;  
 Mr. R. was hippy to siv that thst patriotic and enlightene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845022201:0105/pct:5.4542962861449915,77.83615698048466,15.2391393723448,11.67703195367789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845022201:0105/pct:5.4542962861449915,77.8397312173851,15.243707459686629,11.680606190578311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2821,7 +2821,7 @@ sovereignty and political safety of the smaller States were
 deemed essentially to depend.&quot;  
 Mr. R. was happy to say that that patriotic and en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845022701:0241/pct:141.57347459289778,15.239829993928355,124.17108102805572,371.5998785670917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845022701:0241/pct:35.38642604943115,3.809379268477766,31.0366810513927,92.88587039004402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2865,7 +2865,7 @@ equal participation of those powers, the sovereignty and
  tially to depend.&quot;  
 Mr. R. was happy to say that that patriotic and enligh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845030101:0178/pct:90.50184292599943,201.3971358714635,38.417918911256024,34.31132844335778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845030101:0178/pct:30.16300496102055,67.12456344586728,12.804157807701394,11.435778036476522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2964,7 +2964,7 @@ ilent &quot; In that case, the instructions and documents call- &#x27;&#x27;&#x2
 1 for related to a treaty which had been Concluded ami  
 (tilled by the President and Semite, and the negotiation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848011301:0053/pct:38.3871989860583,27.903771457210876,16.539923954372625,10.023806540533768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848011301:0053/pct:38.39776087874947,27.912124629327987,16.539923954372625,10.023806540533768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2986,7 +2986,7 @@ tin, together with the correspondence rtnd cither defeats
 in relation to that treaty; excepting such of the  
 papers as any negotiation may render improper to h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848011301:0053/pct:54.49936628643853,27.465229921062523,15.272496831432193,3.884225034456835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848011301:0053/pct:54.504647232784116,27.465229921062523,15.288339670468948,3.8967547926325024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3105,7 +3105,7 @@ clining to comply with the call, he declared that &quot; the nature
 &#x27; gotiation with a foreign Power, would be to establish a  
 ? dangerous precedent.&quot; In that case the instructions an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848011501:0050/pct:20.330835571893115,36.52768437570052,15.495546444224516,11.432414256893074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848011501:0050/pct:20.330835571893115,36.531420458791004,15.495546444224516,11.436150339983561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3126,7 +3126,7 @@ the correspondence and other documents relative to the
 sald traaty, excepting auch of the satd papers as any ane  
 negotiations may render improper to be disclosed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848011501:0083/pct:106.08063450099141,165.88968382183245,50.561797752808985,8.746826678975307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848011501:0083/pct:35.36021150033047,55.29656127394415,16.853932584269664,2.9156088929917687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3159,7 +3159,7 @@ as a matter of courze, all the papers rerpecting a negee
 with a foreign power, would be to establish a  
 dangerous precedent.&quot; In that case, the instruetion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848011501:0083/pct:105.96497025776603,175.098084468036,53.30469266358229,21.20932379413801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848011501:0083/pct:35.32165675258867,58.366028156012,17.768230887860764,7.069774598046004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3179,7 +3179,7 @@ Great Britain, together with the eorre&gt;’,K»mlence
 and other documents in relation to that treaty,  
 excepting such of the said pnpers as any nego
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848011501:0056/pct:18.364197530864196,65.40570946421037,12.827932098765432,2.7984812262691605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848011501:0056/pct:18.362426463496963,65.40111087674893,12.829909666634519,2.8006280906512924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3323,7 +3323,7 @@ oroigu power, would be to establish a dangerous prece- j
 cut.&quot; J|  
 If he did not regard it as mandatory, why did he g
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848011701:0068/pct:46.96849770460662,66.08077786088258,16.574323254709515,7.653951633009225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848011701:0068/pct:46.96849770460662,66.08908834039724,16.579600021107066,7.658106872766559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3402,7 +3402,7 @@ tion involved a denial of the right of the House
 to go behind the instrument of the treaty itsell,in  
 legislating upon it.  A mapority of the Ieus d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848011801:0094/pct:237.0346178967995,117.07567629266066,48.824297844546045,13.30898299280904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848011801:0094/pct:79.01153929893316,39.025225430886884,16.274765948182015,4.43632766426968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3449,7 +3449,7 @@ course, all the papers respecting a negotiation
 with a foreign power, would be to establish a dan­  
 eeroui prccrdent.&quot; In that case, the instruction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848011801:0051/pct:1.2478235635519443,32.68842044470112,13.522925130586186,13.629800750794109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848011801:0051/pct:1.2478235635519443,32.69162896653512,13.542271232346682,13.633009272628101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3481,7 +3481,7 @@ duce immediate in&lt;v?veniences, perbapt danger
   
 ?ml miictii-i, in lelaupa &#x27;o Mher p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848011801:0054/pct:5.659284990591981,4.0148481000293055,23.823997684180053,94.74455406857477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848011801:0054/pct:5.659284990591981,4.018104262316434,23.8384715588363,94.7478102308619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3504,7 +3504,7 @@ with the corresponded? and oiher documents in
 relation 10 that treaty, excepting such of the saio  
 papers as any negotiation may render imprope
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848011801:0054/pct:19.148936170212767,92.19497899775325,13.21464756115212,3.878089283969913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848011801:0054/pct:19.158585419983595,92.19497899775325,13.219472186037535,3.8846016085441697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3526,7 +3526,7 @@ ther documents relative to said treaty, excepting
 rich of the said papers as any existing negotiations  
 lay render improper to be disclosed.&quot; In assignin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1848011901:0227/pct:2.0127706829539145,64.19412949030412,20.308162132148805,4.397583977959097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1848011901:0227/pct:1.5136786557422581,48.15089541167744,15.247882238577976,3.2955388364946487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3562,7 +3562,7 @@ sent.&quot; In that case, the intructions and documents
 tiled for, related to a treaty which had been con­  
 ued and ratified by the President and Senate, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1848011901:0227/pct:2.4014436424208774,68.58111688036452,19.822320932815103,14.125251668962594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1848011901:0227/pct:1.8053048187751701,51.43583766027339,14.872934314678517,10.596587898696619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3791,7 +3791,7 @@ pers respecting a negotiation with a foreign
 Power, would be to establish a dangerous prece­  
 dent.&#x27;&#x27;In that case the instructions ohd document
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777341:1848012101:0012/pct:112.09677419354838,67.9296346414073,17.226702508960575,19.215155615696887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777341:1848012101:0012/pct:84.11026445540116,50.94722598105548,12.931420887494397,14.411366711772665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3865,7 +3865,7 @@ negotiated the treaty with the King of Great Britain&quot;
 the said papers as any existing negotiations may ren­  
 der improper to be disclosed.&quot; In assiging his rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848012201:0046/pct:85.93886462882097,160.25641025641025,60.043668122270745,21.5318869165023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848012201:0046/pct:21.48471615720524,40.06410256410256,15.010917030567686,5.382971729125575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3897,7 +3897,7 @@ and to have, as a matter of course, all the papers re­
 specting a negotiation with a foreign power, would  
 be to establish a dangerous precedent.&quot; In that cas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848012201:0046/pct:88.68995633187772,183.79355687047996,57.467248908296945,34.944115713346484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848012201:0046/pct:22.17248908296943,45.94838921761999,14.366812227074236,8.736028928336621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3933,7 +3933,7 @@ papers respecting a negotiation with a foreign
 power, would be to establish a dangerous pre­  
 cedent.In that case the instructions and document
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn86058890:00296029828:1848012201:0205/pct:76.5562649640862,89.80436955590461,22.106943335993616,17.264029701556474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn86058890:00296029828:1848012201:0205/pct:57.445109780439125,67.35684706554333,16.58682634730539,12.951592174782236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3977,7 +3977,7 @@ papers respecting a negotiation with a foreign
 power, would be to establish a &lt; anourous  
 precedent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1848012601:0033/pct:2.863741339491917,8.257484373286545,33.62586605080831,89.64798771795152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1848012601:0033/pct:2.874005645368232,8.264795116423585,33.62073389787016,89.64798771795152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4002,7 +4002,7 @@ ments relative to the said treaty, excepting such of
 the said papers as any existing negotiations may ren  
 der improper to be disclosed.&quot; In assigning his re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029798:1848012701:0262/pct:87.32857926494789,52.42574780678575,19.555677454744927,7.483352711129902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029798:1848012701:0262/pct:65.52339141171629,39.31931085508931,14.679654273562903,5.623084240566536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4034,7 +4034,7 @@ and to have, as a matter of course, all the papers re
 specting a negotiation with a foreign power, would  
 be tostablish a dangerous precedent.&quot; In that cas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029798:1848012701:0262/pct:87.39714755896873,60.68068914491069,19.48710916072408,12.123454180319206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029798:1848012701:0262/pct:65.5782686239539,45.513159285487795,14.624777061325284,9.089948208434626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4091,7 +4091,7 @@ other document relative to tbo said treaty, ex
 cepting such of said papers aa aay existing De  
 foliation my render improper to be disclosed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848012901:0139/pct:10.767326732673267,53.96698918611269,16.30569306930693,3.642572566875356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848012901:0139/pct:8.07924469896301,40.47808764940239,12.242686890574214,2.7319294251565167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4130,7 +4130,7 @@ la that case the instructions and documental,.
 called for related to a treaty which bad been  
 concluded and ratined by the Preaident and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848012901:0139/pct:10.597153465346535,58.24701195219124,17.589727722772277,13.579965850882186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848012901:0139/pct:7.955424856833307,43.688104723961295,13.2022906670794,10.18782014797951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4148,7 +4148,7 @@ negotiated th? treaty with the Kit g ot Great !i iuin~—&#x27;* together with t
 pondence and other documents relative to the «tjd treaty, excepting such of the said  
 papers a? any exiting negotiations any r-n for improper to b * di-cfoVd.*’ fn assign
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848020101:0248/pct:52.69985974754558,42.47920360016364,22.79102384291725,1.950088640392745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848020101:0248/pct:52.69062226117441,42.47341150804473,22.791411042944784,1.953231524406872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4174,7 +4174,7 @@ bers. To 3dauff then, a r^ht in th- Hoax-? of Representative■$ to demai d and 
 as a matter ot course, a I the papers respecting a negotiation With a foreign pow-r, j  
 v\ &#x27;•:,•* be &quot;o establish * dangrrons prec»-dettt. |n that case, the Instructions an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848020101:0248/pct:52.664796633941094,44.29292240556389,23.509817671809255,5.5093413336969865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848020101:0248/pct:52.6555652936021,44.2868830106354,23.510078878177037,5.511998909190074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4216,7 +4216,7 @@ the said tre iiy, excepting such of the said
 papers as any existing negotiations may  
 render improper to be disclosed.&quot;&#x27; In as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848021601:0082/pct:16.352290455254575,48.00489051906191,12.508863990923274,3.9235300655774146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848021601:0082/pct:16.35701791708032,48.00859545774517,12.513591452749019,3.930939942943944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4266,7 +4266,7 @@ resolution before me.aro much stronger than
 those which exipted in tha case of the reso­  
 lution in 1796. This resolution calls for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848021601:0082/pct:16.3239256843001,52.50639101922863,12.806694085945256,24.56374347004557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848021601:0082/pct:16.3239256843001,52.513800896595164,12.811421547771001,24.560038531362306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4286,7 +4286,7 @@ all the papers respecting a negotiation with
 a foreign power, would be to establish a  
 dangerou* precedent.&quot; In that case th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848021601:0082/pct:16.465749539072473,62.08736245415138,12.494681605446036,1.9450928087140158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1848021601:0082/pct:16.475204462723962,62.08736245415138,12.494681605446036,1.95620762476381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4359,7 +4359,7 @@ power, would be to establish a dangerous precedent.” In that case, the instruc
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n23/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n23/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4441,7 +4441,7 @@ with a foreign power, would be to establish a danger­
 oq? precedent.&quot;  
 It will he seen by the above that the poeition in whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852121001:1193/pct:63.90291578432969,71.21945010183299,15.816908291252647,14.511201629327902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852121001:1193/pct:63.90291578432969,71.22793618465717,15.822338057229734,14.511201629327902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4500,7 +4500,7 @@ Sonate; provided two-thirds of the senators present
 concur, and that every treaty so made and promulgated  
 became thenceforward the law of the land. All the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743609:1867121901:0833/pct:153.67549668874173,115.06597819850832,47.235099337748345,43.48823866896156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743609:1867121901:0833/pct:51.22516556291391,38.35532606616944,15.745033112582782,14.49607955632052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4950,7 +4950,7 @@ be observed, and a just regard to tlie ton­
 stitution and to the duty of his office forbii!  
 n mmnlitinre wi th the request.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868032401:0290/pct:7.617647058823529,79.78335359787775,14.147058823529411,3.9792196308168455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868032401:0290/pct:5.723113138149183,59.843041892340004,10.607621009268795,2.984414723112634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4971,7 +4971,7 @@ between the different departments should be ob­
 served, a just regard to the Constitution and te  
 the duty of his office forbid a compliance with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868032701:0595/pct:4.868624420401854,101.31511746680286,44.80293663060278,8.848314606741573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868032701:0595/pct:1.6228748068006182,33.77170582226762,14.934312210200927,2.949438202247191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5021,7 +5021,7 @@ the request.
 This decided answer subjected President  
 Washington to numerous representations an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82016242:00211105483:1868050901:0428/pct:72.01336675020886,206.0341058154788,65.16290726817043,32.12359714327358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82016242:00211105483:1868050901:0428/pct:18.003341687552215,51.5085264538697,16.290726817042607,8.030899285818395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5058,7 +5058,7 @@ ments should be preserved. For all these reasons
 President Washington said that Ma jast regard to  
 the Constitution and the duty of my office&#x27; for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ecru_ver01:data:sn83025121:00294552315:1883012401:0160/pct:65.12841091492777,18.724802150216515,14.245585874799358,5.584590114976855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ecru_ver01:data:sn83025121:00294552315:1883012401:0160/pct:48.885765910459746,14.051067642227864,10.680586227665128,4.180976556667164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5089,7 +5089,7 @@ a just regard to the Cconstitution, and to the
 duty of my office, under all the circumstances  
 of this case, forbid a compliance with your re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102019:1885121201:0650/pct:163.42412451361866,117.35285147910949,44.280155642023345,35.315645013723696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102019:1885121201:0650/pct:40.856031128404666,29.338212869777372,11.070038910505836,8.828911253430924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5197,7 +5197,7 @@ between the different departmente chould
 be preserved; a just regard to the Con  
 stitution and the duty of m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295900:1886031201:0501/pct:143.5678749111585,30.810028929604627,60.83866382373845,15.284474445515912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295900:1886031201:0501/pct:35.89834725430958,7.702507232401157,15.212368935489604,3.821118611378978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5321,7 +5321,7 @@ President Jackson to send to the Senate papers in the
 Wirtz case, there had been an end of the matter between  
 President Jackson and the Senate as to papers relatin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038103:1886031301:0616/pct:106.43776824034335,172.87526664421242,47.75075504689239,20.017963399573368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038103:1886031301:0616/pct:35.479256080114446,57.62508888140414,15.91691834896413,6.672654466524456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5352,7 +5352,7 @@ to tbe Senate the papers in the Wirtz case
 there had been an end of the matter be­  
 tween President Jackson and the Senat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886031301:0316/pct:16.353451391398625,62.40055826936497,12.269606071557643,7.508722958827635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886031301:0316/pct:16.36549813275509,62.40055826936497,12.263582700879413,7.518027448243777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5383,7 +5383,7 @@ the papers in the Wiriz case there had been
 an end of the matter between President  
 Jackson and the Senate as to papers relatin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886031301:0248/pct:42.3360496701591,49.181692094313455,13.174233604967016,7.753120665742025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895874:1886031301:0248/pct:42.327837051406405,49.17487172375537,13.176527643064986,7.755512411593399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5417,7 +5417,7 @@ lating to appointments. He (Kenna) pre­
 sumed Mr. Edmunds must have forgotten  
 the hitter fi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210545:1886031301:0557/pct:39.18619379354021,33.75582924787756,10.544648511716277,6.947267726892264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210545:1886031301:0557/pct:39.179990501820484,33.75179340028694,10.546936837106221,6.949426111908178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5442,7 +5442,7 @@ constitution and to the duty of
   
 his office forbid a compliance wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878009:1886031301:0912/pct:133.2260659694288,257.20596355604636,45.85679806918745,14.411927112092766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878009:1886031301:0912/pct:33.313216656608326,64.30149088901159,11.466505733252866,3.6029817780231914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5473,7 +5473,7 @@ an end of the matter. Kenna presumed
 Edmunds must have forgot the bitter  
 fight between that president and Congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777080:1886031901:0144/pct:77.54919499105546,127.87850612118395,58.49731663685152,30.43545637687897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777080:1886031901:0144/pct:19.39163498098859,31.969626530295987,14.627600089465444,7.608864094219743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5528,7 +5528,7 @@ stances of this case, forbid a compliance
 with your request.  
 &quot;G. WA6HIXGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341760:1886032401:0088/pct:26.393663129577043,68.22535791533629,12.016141085039605,19.363477186115976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341760:1886032401:0088/pct:26.389719067543336,68.2183316168898,12.019326559075513,19.364915894267078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5572,7 +5572,7 @@ Contest ovER THE JAY TreATY.
 The Jay treaty was approved by the Senate  
 by the requisite two-thirds majority, its ratifl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_isuzu_ver01:data:sn83030214:00175038619:1893021601:0643/pct:237.99582463465552,224.42375383217896,46.82832824795246,48.17758601112751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_isuzu_ver01:data:sn83030214:00175038619:1893021601:0643/pct:79.33194154488518,74.80791794405965,15.609442749317488,16.059195337042503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5679,7 +5679,7 @@ Washington distinctly announced that he
 would not be a candidate for a third torm of the  
 Presidenoy. In the responsive address of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896110801:0115/pct:79.86870897155362,163.22815533980582,50.25528811086798,146.60194174757282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896110801:0115/pct:19.97081889476564,40.807038834951456,12.566113441546598,36.650485436893206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5724,7 +5724,7 @@ tion and to the duty of my office, under
 all the circumstance of this case, for­  
 bids a compliance with your icquest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665635:1896122101:0516/pct:21.48206990467544,7.015894718851478,34.13527008624603,122.75679371047684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665635:1896122101:0516/pct:16.11804767309875,5.264057426081012,25.607264472190693,92.06973166980003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5756,7 +5756,7 @@ boundaries ixed
 by the Constitution between the different depat  
 ments should be preserved
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175039028:1896122201:0393/pct:1.4567821301392037,129.10646810402312,48.721269019100035,21.982662813958658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175039028:1896122201:0393/pct:0.48559404337973455,43.0354893680077,16.240423006366676,7.327554271319553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

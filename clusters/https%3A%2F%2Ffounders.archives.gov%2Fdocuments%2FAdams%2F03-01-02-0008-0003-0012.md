@@ -593,7 +593,7 @@ aud lam his. He feedeth among the lilies. Until the
 day break, and the shadows flee away, turn, my be­  
 loved, and be thou like a roe or a young hart upon th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00205958162:1851082401:0004/pct:23.357110335407498,49.29714532871972,9.622097435119137,1.935553633217993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00205958162:1851082401:0004/pct:23.357110335407498,49.29714532871972,9.641068447412353,1.9436634948096885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ Christ was the bridegroom. The woman spoken of
 In the fifth chapter of Mark os being cored by  
 Christ was simply a typo of the Church. N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877030601:0007/pct:58.05342501983602,49.15530225931203,13.224014810896588,3.5823325870140446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877030601:0007/pct:58.073261042052366,49.16039079991858,13.210790796085691,3.5874211276205985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,7 +832,7 @@ For sweet is thy voice and thy countenance Is
 comely.  
 And then as the utterance of this remem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022801:0619/pct:21.90744920993228,66.34304207119742,16.433408577878104,4.351899165389201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022801:0619/pct:16.437118988484986,49.761539771759494,12.327839241363739,3.261795264861182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

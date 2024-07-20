@@ -59,7 +59,7 @@ Hush1 let your murmurs ceaae ;
 You pay these double taxes now,  
 To carry on the peace. London paper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816060501:0182/pct:9.334041799504075,23.94578313253012,16.560396741055616,12.754865616311399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816060501:0182/pct:9.332388879050823,23.943009382601645,16.56336697951715,12.757249314645353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ You pay these double taxes now
 To carry on the peace.  
 Here&#x27;s to the ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743634:1868090201:0603/pct:111.10571474825967,182.34550884447506,33.57616966164805,12.531587410980933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743634:1868090201:0603/pct:37.03523824941989,60.78183628149169,11.192056553882683,4.177195803660311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ THe Fears of an Inflated Currency
   
 If the Bohds are PaId in Green
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774777:1868090401:0021/pct:20.775623268698062,14.058956916099774,101.0387811634349,373.24263038548753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774777:1868090401:0021/pct:5.195704883962591,3.5147392290249435,25.268444752338066,93.31065759637188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ let your murmurs sease;
 You pay these double faxes now  
 To carry on the peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868090401:0289/pct:120.16179215930305,316.599952907935,41.19477286869944,14.457263951024252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868090401:0289/pct:30.040448039825762,79.14998822698375,10.29869321717486,3.614315987756063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ iiusli! let your murmurs cease
 You pay these double taxes now  
 To carry on the peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775009:1868090901:0057/pct:17.869127516778523,109.30396062807593,12.779642058165548,5.624560581204594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775009:1868090901:0057/pct:13.41446356133725,81.97797047105695,9.581759686669464,4.218420435903445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ Strange conduct, this, all must allow
 You pay theso double (axes now  
 To carry on the pence. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027157:1868091701:0069/pct:54.22853453841188,121.68826267455026,14.041316978695933,6.692665744118757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027157:1868091701:0069/pct:40.68453341943817,91.26934205560448,10.542460445592509,5.019499308089068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ Hush ! let your murmurs cease;
 Yon pay these double takes now  
 To carry on the jx*acc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:0041418697A:1868092401:0387/pct:19.090123812266054,87.53161888701517,10.811978116901814,4.120994940978077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:0041418697A:1868092401:0387/pct:19.087375845688786,87.5223943513542,10.815219999040353,4.124073488600836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ Hush! let your murmurs cease;
 You pay these double taxes now  
 To car your the peac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1868092501:0940/pct:17.620345140781108,205.70206699928724,40.80381471389646,56.967213114754095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1868092501:0940/pct:4.404086265607265,51.41635489043292,10.198637911464246,14.239265989666844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ Hush! let your murmurs cease;
 You pay these double taxes now  
 To carry on the peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663638:1868092501:0508/pct:50.98953737551998,65.96898567917972,15.55527543174083,6.829929666977375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663638:1868092501:0508/pct:50.99373923274087,65.96898567917972,15.567881003403505,6.832754286359913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ To carry on the peadce.
 The difference &#x27;twixt that and this  
 Is only in the name
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052141:00206533651:1887072901:0123/pct:329.6440489432703,253.219837157661,43.2007786429366,55.75763984350217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052141:00206533651:1887072901:0123/pct:82.43393602225314,63.30495928941525,10.803198887343532,13.939409960875542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

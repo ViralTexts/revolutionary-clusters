@@ -457,7 +457,7 @@ Oihioiv, iilr, Wilt, as it consists in ex pres­
 sions of the countenance, glares ot attitude  
 and tuotian, and intonation bl’ voice, althoug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818062301:0058/pct:18.657453109575517,1.2968299711815563,15.531424810793023,35.78290105667627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818062301:0058/pct:18.65438394472775,1.2966742706207228,15.534353237922904,35.78260695561692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ i nuances c»f the high e-t. em of
 Your humble se&gt; vant.  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1849091801:0040/pct:86.08055103797953,23.402183740176646,12.723620013393285,44.09207872591974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1849091801:0040/pct:86.07231681652956,23.40055632823366,12.725591480135195,44.09133055169217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1013,7 +1013,7 @@ the high esteem of
 Your humble servant,  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849091901:0355/pct:0.48602673147023084,3.2871414759909765,29.33711354124477,92.99602535181008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849091901:0355/pct:0.4905269789838441,3.2943030042611094,29.33711354124477,92.99244458767501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1516,7 +1516,7 @@ fresh assurances of the high esteem of
 Your humble servant,  
 JOlN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849092901:0922/pct:218.9075630252101,65.36242083040112,98.94957983193277,326.7558057705841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849092901:0922/pct:54.74605954465849,16.34060520760028,24.746059544658493,81.68895144264603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1616,7 +1616,7 @@ I must conclude with the fresh assurance of the high
 esteem of : Your humble servant, &#x27;  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849100301:0587/pct:22.02581369248036,21.678396246534444,20.875420875420875,54.54254638515675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849100301:0587/pct:16.533333333333335,16.261462998507145,15.663157894736843,40.9149072296865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1656,7 +1656,7 @@ unstained integrity.&quot; Jefferson, who
 hnd known him from youth and had  
 heard him often, said that ho had neve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551530:1870082801:0520/pct:17.268526441896284,14.504881450488146,15.933595755604998,4.602510460251046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551530:1870082801:0520/pct:17.268526441896284,14.514179451417945,15.956415083575788,4.597861459786146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1679,7 +1679,7 @@ Thomas Jefferson, who had often heard
 Henry, said that he had never listened  
 to such an orator, and that he spoke a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279555181:1870090701:0236/pct:37.419841569219166,152.6288922919857,46.8691059977367,19.155181214905564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279555181:1870090701:0236/pct:9.35319630397888,38.15235421717494,11.715066943239675,4.788184254178895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1764,7 +1764,7 @@ pidity, and untainted integrity, with an ar­
 dent zeal for the liberties, the honor and fe­  
 licity of his country and his spocle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044917:1887092501:0642/pct:69.23076923076923,262.34624846248465,50.660450660450664,12.992004920049201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044917:1887092501:0642/pct:17.317784256559765,65.58656211562116,12.672497570456754,3.2480012300123002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1849,7 +1849,7 @@ jand untaTnted integrity, with an ardent
 ! zeal for the liberties, the honor and felic­  
 i ity of his country and his species.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899102701:0427/pct:84.57929308726932,92.97135626366041,13.309352517985612,3.278499942482457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899102701:0427/pct:84.57929308726932,92.97135626366041,13.324992180168909,3.278499942482457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1872,7 +1872,7 @@ tegrity with an ardent zeal for tho
 liberties the honor and felicity of his  
 country and his specie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534850:1899102701:0580/pct:92.68953068592057,41.45126867441309,17.14801444043321,5.631965852501779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:00206534850:1899102701:0580/pct:61.8209179834462,27.63813137301399,11.43717080511663,3.75859615840645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -319,7 +319,7 @@ poor little farm. Alas, poor farm, and
 poorer family, what have you lost that  
 your country might be frer o t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_whitesnake_ver01:data:sn85034438:00175049253:1894060201:0256/pct:87.82732899539755,273.33632588935023,40.08887478178067,7.384131971720346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_whitesnake_ver01:data:sn85034438:00175049253:1894060201:0256/pct:29.275776331799186,91.1121086297834,13.362958260593556,2.461377323906782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ Alas&#x27; pooi farm and poorer family,what
 have you lost that your country might  
 be free!&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766215:1894060601:0199/pct:20.76872319366546,58.24919687930243,14.153744638733091,4.692519504359798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766215:1894060601:0199/pct:20.76872319366546,58.24919687930243,14.159243374023974,4.7039926571821935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ poor, little farm. Alas! poor farm, and
 poorer family, what have you lost that your  
 country mlgiit be free!-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_caddoa_ver02:data:sn86063206:00383341024:1894061301:0642/pct:45.03120499279885,65.35545994673222,12.265962554008642,2.704363859864782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_caddoa_ver02:data:sn86063206:00383341024:1894061301:0642/pct:45.049207873259725,65.36058184798198,12.247959673547768,2.7094857611145255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ little farm. Alus! poor farm, and poorer
 family, what havo you lost that your  
 country might bo freol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533791:1894061301:0962/pct:23.235709244883555,107.94785534062237,14.114326040931546,4.96215306980656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533791:1894061301:0962/pct:17.440423654015888,80.96439585085506,10.59135039717564,3.7251191477432015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ farm. Alas! poor farm, and poorer family,
 what have you lost that your country  
 might be free
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_gorham_ver01:data:sn84022565:00332895503:1894061401:1009/pct:15.916706558161799,73.73370730902491,13.499281953087602,3.0688005279656823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_gorham_ver01:data:sn84022565:00332895503:1894061401:1009/pct:15.912897822445562,73.72154404486967,13.502033979420913,3.0724183437809303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ lit He family. Alas! poor farm, and
 poorer family, what have you lost that  
 your country might be free!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627671:1894070701:0337/pct:39.73858759266484,66.73508283242926,15.489660554038236,4.119630552704882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627671:1894070701:0337/pct:30.806833644106234,51.727011058930465,11.999193670311948,3.1851234661414938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ farm, and poorer family, what have
 you lost that your country might be  
 free I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894070701:0166/pct:65.81666300285777,28.82170542635659,14.134974719718619,4.5271317829457365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894070701:0166/pct:65.8021978021978,28.81723763757557,14.137362637362637,4.530305379011006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -624,7 +624,7 @@ tle farm. Alas! poor farm, and poorer
 family, what have you lost that your  
 country might bo free!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348134:1894071901:0131/pct:6.33991088478676,43.766156293497716,10.617441120305537,3.6388944124080336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348134:1894071901:0131/pct:6.344154466369616,43.769470404984425,10.630171865054105,3.635580300921323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ i ed to death. I had rather chop wood.
 , poorer family, what have you lost that  
 ; your country might be free
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685336:1894072601:0684/pct:63.107445385644226,38.55571052223772,14.77931341952742,3.5487370215403686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685336:1894072601:0684/pct:63.09338087809227,38.54973659745894,14.781591263650546,3.552060737527115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ Alas! poor form, and poorer
 family, what have you lost that your  
 country might be free!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863572:1894072701:0137/pct:5.531489503498833,41.049798115746974,9.780073308897034,3.028263795423957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863572:1894072701:0137/pct:5.531489503498833,41.059892328398384,9.805064978340553,3.024899057873486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ farm, aud poorer family, what have
 you lost that your country might be  
 free!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_flopeye_ver01:data:sn84026918:00295861435:1894072701:0570/pct:56.55339805825243,7.979422066549913,14.962878355225586,4.345446584938704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_flopeye_ver01:data:sn84026918:00295861435:1894072701:0570/pct:56.55339805825243,7.98671920607122,14.977155910908053,4.341798015178051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ farm, and poorer family, what have
 you lost that your country might be  
 free!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_licklog_ver01:data:sn85042052:00416156918:1894080401:0125/pct:200.59241706161137,38.12274368231047,56.63507109004739,17.49355337802991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_licklog_ver01:data:sn85042052:00416156918:1894080401:0125/pct:50.15553251370167,9.530685920577618,14.16086505702859,4.373388344507478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -744,7 +744,7 @@ fences upon my poor little farm.’ Alas!
 poor farm, and poorer family; what have  
 you lost that your country might be free!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894080801:0538/pct:6.45352279455299,89.88503077459065,11.648904677323861,2.415515038903728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894080801:0538/pct:6.4584566804815475,89.88503077459065,11.653838563252418,2.419386056594279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ farm, and poorer family, what have
 you lost that your country might be  
 free!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1894082301:0138/pct:5.982550893228085,5.51502772103881,29.393435812214374,89.84534578348409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1894082301:0138/pct:5.981308411214953,5.514223194748359,29.39252336448598,89.83588621444201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ little farm. Alas! poor farm and poorer
 family, what have you lost that your  
 country might be free.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175035618:1894090801:0049/pct:17.78449697636064,72.48529558369056,12.438152831225949,2.402552088525571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175035618:1894090801:0049/pct:17.78907824812168,72.48529558369056,12.44731537474803,2.402552088525571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ farm. Alas! poor farm and poorer
 family, what have you lost that  
 your country might be free.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554504:1894091501:0694/pct:58.809068560502595,31.349991012043862,16.96257853045616,6.687039367247888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554504:1894091501:0694/pct:58.79300928454396,31.344356578001438,16.964773347897324,6.690330697340043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -868,7 +868,7 @@ my poor, little farm. Alas! poor farm,
 und poorer family, what have you lost  
 that your country might be free!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_cane_ver01:data:sn91068076:00296022925:1894101201:0978/pct:25.184577522559476,76.97165516228522,15.340442986054143,5.918637097958584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_cane_ver01:data:sn91068076:00296022925:1894101201:0978/pct:18.90006156371845,57.73241298281686,11.512415349887133,4.449992656777794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ upon my poor little farm. Alas! poor
 farm and poorer family,- what have you  
 lest that your country might be free!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473819:1895050801:0009/pct:75.3563283922463,11.100746268656716,15.721208665906499,4.407649253731344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473819:1895050801:0009/pct:50.25662959794696,7.404384328358209,10.479041916167665,2.9384328358208953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -910,7 +910,7 @@ upon my poor little farm. Alas! poor
 farm and poorer family, what have you  
 lcst that your country might be free!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584405:1895050901:0173/pct:57.510656436487636,28.878425691174694,15.36231884057971,3.9599179041410117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584405:1895050901:0173/pct:50.32572479984087,25.268495369555264,13.436769605649213,3.4754744885383286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,7 +931,7 @@ upon my poor little farm. Alas! poor
 farm and poorer family, what have you  
 lest that your country might be free!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473662:1895050901:0069/pct:96.34297520661157,34.83685220729367,21.115702479338843,5.446257197696737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473662:1895050901:0069/pct:64.27537729997933,23.224568138195778,14.078974571015092,3.6348368522072936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -952,7 +952,7 @@ upon my poor little farm. Alas! poor
 farm and poorer family, what have you  
 lest that your country might be free!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283041:1895051001:0390/pct:95.9979906229069,36.71617161716171,20.94775619557937,5.398396982555399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283041:1895051001:0390/pct:64.00937866354045,24.481376709099482,13.967509629877743,3.595002357378595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ upon my poor little farm. Alas! poor
 farm and poorer family, wrhat have you  
 lest that your country might be free!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871659:1895051101:0229/pct:86.3463785046729,32.383392037570715,18.61857476635514,4.653644999466325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871659:1895051101:0229/pct:64.7918188458729,24.292880777030632,13.966398831263696,3.490233749599744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ upon my poor little farm. Alas! poor
 farm and poorer family, what have ydu  
 lest that your country might b freel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539276:1895051501:0691/pct:67.06832627118644,10.449599671525354,14.036016949152541,4.0032847464586325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539276:1895051501:0691/pct:50.3112170573434,7.842332169985629,10.528406833531983,3.007595976185588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

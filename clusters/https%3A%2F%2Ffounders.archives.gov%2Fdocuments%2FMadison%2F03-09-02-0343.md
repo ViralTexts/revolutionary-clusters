@@ -121,7 +121,7 @@ made to collect authentic information from
 every source, as a foundation for an impar­  
 tial judgment on the various claims to atten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815052701:0027/pct:20.606968902210564,61.824410048211114,17.5346571749719,2.283684344075108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815052701:0027/pct:20.60310919647874,61.816567296714446,17.53761628269963,2.287623155313121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ upon the subject.
 3. The Military Stations.  
 I. &#x27;The Organization of the jfrmy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815052701:0027/pct:39.153240914200076,9.934026896726719,17.740726863994006,5.163664044658716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815052701:0027/pct:39.145907473309606,9.93276671318026,17.74364737466442,5.167237515328344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ battle.
 amounts to two hundred and sixteen, and the  
 n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815052701:0027/pct:39.022105657549645,46.231920832276074,17.853128512551518,10.631819335194113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815052701:0027/pct:39.01479677842293,46.2260560700241,17.856027970281577,10.634699141612753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ for civil pursuits* and the pecuniary situation
 ot the parties, may justly furnish considera­  
 tions to settle the question. And where nei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815052701:0027/pct:39.190708130385914,69.47475260086273,17.740726863994006,5.747272265922355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815052701:0027/pct:39.183367671848664,69.4659393631866,17.74364737466442,5.7507717028204155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ Uieniic info! mation from every source, as a
 foundation for an impartial judgment on the  
 Various claims to attention ; and even while 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815052701:0151/pct:3.4790697674418603,76.88643770368513,17.33953488372093,1.6545500125344699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815052701:0151/pct:3.478422619047619,76.87680160421105,17.34250992063492,1.6585202824079877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ pursuits, and the pecuniary situation of the
 parties, may justly furnifh considerations to  
 settle the question. And where reitherdi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815052701:0151/pct:21.63720930232558,76.27224868388068,17.004651162790697,4.951115567811482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815052701:0151/pct:21.633184523809526,76.26268956009525,17.00768849206349,4.954672682458119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ rangement, it is necessarily implied, that the
 physician* and surgeon general, the assistant  
 apothecaries general, and all the hospital sur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815052701:0151/pct:39.4046511627907,88.39308097267485,17.767441860465116,3.3216344948608674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815052701:0151/pct:39.39732142857143,88.38200275723774,17.7703373015873,3.3253958307223126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ he disfchnd from re desngfu tl 1 service to tbeircoun­
 try; but the task m^st e performed bv thuse who are  
 charged with the execution ef the law; leaving the re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815052901:0366/pct:26.860674736028844,56.9024669171704,21.813031161473088,9.11615749060611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815052901:0366/pct:26.853759011328528,56.89317216595884,21.813851699279095,9.1187520418164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ q’ul, length ofservice, a capacity fi.r civil pursuits, and
 ■the pecuniary situation of tile parties, may justlv fur­  
 nish considerations to settle the question. And wher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815052901:0366/pct:26.83492145248519,81.4082666231008,21.787277877929437,4.607090344714916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815052901:0366/pct:26.82801235839341,81.39496896439073,21.788105046343976,4.610421430904933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ The physiciA and surgeon general, and the apothecary
 general, were appointed the better to superintend th~  
 hospital and medical establishment of the army o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815052901:0366/pct:49.137265001287666,81.55530142133638,22.379603399433428,7.841855905897729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815052901:0366/pct:49.12461380020597,81.54197974518131,22.380278063851698,7.844658608297942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ wising, that their report will be consider­
 ed as an authentic source of information,  
 to which a just respect will be paid in al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815053101:0087/pct:53.241845664280035,21.032526912837135,21.161495624502784,4.051394837365436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815053101:0087/pct:53.241845664280035,21.036385384110815,21.174754706974277,4.06297025118648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

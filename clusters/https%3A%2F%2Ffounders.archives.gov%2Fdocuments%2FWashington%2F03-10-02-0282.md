@@ -125,7 +125,7 @@ arise, we must only put forth now exertions, and
 proportion our efforts to the exigencies of the  
 time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862032301:0192/pct:115.73907839616996,303.8452118540289,44.76361460203471,27.430810678422727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862032301:0192/pct:28.943430110745286,75.96130296350722,11.19425321759952,6.857702669605682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ only put forth new exertions, and proportion our efforts
 to the ex gencles of the times.  
 4. Eesolved, That in the defence of our libertica w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862050901:0444/pct:104.80349344978166,84.43630656552446,43.03129548762737,5.506147004969919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862050901:0444/pct:34.928142623249045,28.141754936576437,14.341155781941666,1.8351423216076022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ difficulties arise, wc must only put forth new
 exertions and proportion our efforts to the cxi- j  
 genoy of the times.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862050901:0389/pct:51.00860677783755,95.13502779984114,12.036040882194728,2.5218427323272437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862050901:0389/pct:51.01308947462794,95.14164680963728,12.045006275775506,2.5185332274291765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ trust it will again. If new difficulties arise we must
 only put forth new exertions, and proportion our efforts  
 to tbe exigency of the times
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864122201:0421/pct:66.89873417721519,42.560185632795125,19.79746835443038,3.1325534177704726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864122201:0421/pct:50.183567540194964,31.924973411969447,14.849981010254462,2.3494150633278545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ put forth new exertions and proportion
 oiii efforts to the exigency of the times-  
 Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn85038119:00237286406:1897042201:0393/pct:66.11001964636542,114.07435508345979,14.01440733464309,14.087000505816894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn85038119:00237286406:1897042201:0393/pct:49.59882102505322,85.55892766818411,10.512526608809562,10.571573090541223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -85,7 +85,7 @@ tions and regions, and whom we shall wel­
 come to a participation of all our rights und  
 priviieges.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811050101:0401/pct:4.221464523461601,44.63519313304721,21.85419710992044,18.544764946601457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811050101:0401/pct:4.221464523461601,44.638520145057726,21.85960924392488,18.54809195861197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ cuted of ali hations and religions and
 whom we shall welcome (0 a partici­  
 pation of ali our rights and privileges
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811050701:0073/pct:41.77818797108137,37.27934576643064,16.428241808952468,20.28522987932582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811050701:0073/pct:41.78844280367123,37.28599448156644,16.42311439265754,20.291878594461622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ stranger, but the oppressed and persecuted of all nations
 and religions, and whom we shall welcome to a partich  
 pation of all our rights and privileges.&quot; GLoud and lon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742915:1845031801:0319/pct:106.34788403865379,84.85297469797128,46.91769410196601,23.04536129473444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742915:1845031801:0319/pct:35.44929467955126,28.28432489932376,15.639231367322004,7.681787098244814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ persecuted of all nations and rebigions, and
 whom we shall welcome to a participation of all  
 our rights and prvileges
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:57.47201249674564,28.442179700499167,12.509763082530592,12.406405990016639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:57.48069079232839,28.445646145313365,12.505423934739218,12.413338879645035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ but the oppressed and persecuted of all natious
 and of ull religions, whom we shall welcome to  
 a participation in all our rights and privileges.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1854100401:0607/pct:22.095375722543352,59.10183566433567,20.708092485549134,3.50743006993007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1854100401:0607/pct:16.579936397802832,44.32910839160839,15.53917317143683,2.633304195804196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ ALL NATIONS AND OF ALL RELI­
 GIONSi whom we shall welcome to a partici­  
 pation in all our rights and privileges
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1854100401:0283/pct:60.45289855072464,53.59281437125748,16.97463768115942,3.970320229107003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1854100401:0283/pct:45.35241891647038,40.19786513928664,12.737814821525639,2.980994532673783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ but the oppressed and persecuted of all nations
 and religions, tnom te shalt welcome to a parti  
 pipation in all our rights and privileges.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854121901:0364/pct:15.384615384615385,256.1126274960494,55.445544554455445,9.366470334722022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854121901:0364/pct:3.8468863073700246,64.02815687401235,13.864025899828604,2.3416175836805055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ of all nations and all religions, whom we
 hall welcome to a participation in all rights  
 and privileges
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854122101:0466/pct:13.258426966292134,77.41405286946994,52.58426966292135,12.929735652650322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854122101:0466/pct:3.3152275707061247,19.353513217367485,13.148529687207342,3.2324339131625806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ the oppressed and persecuted of all nations and of
 all religions whom we shall welcome to a partic  
 ipation in all our rights and privileges.&quot;-Washing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855021301:0149/pct:127.08592777085927,288.8652733498642,49.62640099626401,15.916873302633132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855021301:0149/pct:31.781376518218625,72.21631833746605,12.410464029897229,3.979218325658283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ religions, whom we shall welcome to a participation
 in all rights and priei leges.&quot; Washington.  
 &quot;The citizens of tho United
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855021401:0055/pct:45.936931473620376,67.47738939134686,19.587628865979383,6.343192373502811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855021401:0055/pct:34.475959350826635,50.611097531165974,14.697406340057636,4.7665607430945975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ ileges.&quot;  Washington.
 &quot;The citizens of the United States  
 of America have e right to appland
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855030901:0046/pct:89.46945337620579,100.47493403693932,55.22508038585209,28.496042216358838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855030901:0046/pct:22.376357056694815,25.11873350923483,13.811821471652593,7.124010554089709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ ligions, whom we shall welcome to a
 partigipation in all rights and privi  
 leges.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855042701:0081/pct:199.26829268292684,79.93713986380304,55.203252032520325,16.605552645364064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855042701:0081/pct:49.83733224888166,19.98428496595076,13.806425376169175,4.151388161341016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ nations and of all religions, whom we shall wel
 come to a participation in all our rights and pricf.  
 leges
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855050301:0421/pct:231.53374233128835,223.31024599952232,49.57055214723926,12.514927155481251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855050301:0421/pct:57.89231477220432,55.82756149988058,12.39453903973002,3.128731788870313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ persecuted of ALL NATIONS and of ALL RELIGIONS,
 whom we shall welcome to a participation in ALL OI K  
 RIGHTS AND PRIVILEGES.&quot;?Wathirtglon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855050401:0530/pct:0.8804826349258111,34.77932855526217,15.017120495679112,3.0805985162831635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855050401:0530/pct:0.8859177129191804,34.78771113625886,15.027990651665851,3.0805985162831635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ all nations and of all religions, whom we shall
 welcome to a participation in all rights and  
 privileges.&quot; Exchange Paper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667292:1855050501:0072/pct:26.576450892857142,122.14900033508322,19.754464285714285,4.2890651178375965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667292:1855050501:0072/pct:19.938607506627598,91.61175025131242,14.817915445793219,3.2279682787892328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ RELIGIONS WHOM WE SHALL WEL-
 . COME TO A PARTICIPATION IN ALL  
 RIGHTS AND PRIVILEGES.&quot; Ge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855050901:0410/pct:7.808022922636103,107.55693581780538,17.24570200573066,5.305383022774327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855050901:0410/pct:5.859165024189213,80.66770186335404,12.954667622289913,3.9855072463768115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ oppressed and persecuted of all nations and ol
 all religions, whom we shall welcome to a par­  
 ticipation in all rights and privileges.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347245:1855051101:0533/pct:19.248601119104716,85.78030572342695,14.356514788169465,4.277758028202394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347245:1855051101:0533/pct:19.25925925925926,85.78425563850377,14.351185718092193,4.273808113125567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ oppressed and persecuted of ALL NATIONS, and
 of ALL RELI 3IONS, whom we shall welcome to a  
 participation in ALL OUR RIGHTS ANDPRIVILEGES.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855051101:0294/pct:106.85252735799895,17.255514347062267,20.01042209484106,4.294358774155768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855051101:0294/pct:80.1772448846605,12.941635760296702,15.01368434771276,3.2305289869217257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ notouly the opulent and respectable stranger,
 but the oppressed and persecuted of all nations  
 and of all religions, whom we shall welcome t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667292:1855051201:0075/pct:65.47022815804118,9.818918006973345,19.47690595436839,3.7678551344055786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667292:1855051201:0075/pct:49.12329529640969,7.367000337419863,14.611745059838576,2.823079518614329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -752,7 +752,7 @@ the oppressed and persecuted of all nations and
 all religions, whom we shall welcome to a par­  
 ticipation in all rights and privileges
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347178:1855051901:0081/pct:69.10525611876422,64.53058247368969,11.782800588471313,2.1673439616546837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347178:1855051901:0081/pct:69.10525611876422,64.5375290889514,11.796174936471846,2.1673439616546837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ tions and of all religions, whom we shall
 welcome to a participation in all rights and  
 privileges.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82015827:00212472815:1855052901:0061/pct:63.0859375,99.18490397498883,19.43359375,6.844573470299241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82015827:00212472815:1855052901:0061/pct:42.07368127267653,66.12326931665922,12.963996650851241,4.566770879857079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ all rclgicnst whom we shall welcome
 to&#x27; a participation in all .our rights  
 and irivilcges. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1855053101:0089/pct:76.84378629500581,58.94235133908307,48.78048780487805,16.670449387199273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1855053101:0089/pct:57.64483810076957,44.21243758511121,36.59067808915348,12.50567408079891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ all nations and of all religions, whom we
 shall welcome to a participation in al&#x27; our  
 rights and privileges.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1855060801:0933/pct:349.1411501120239,269.80679734875196,45.10828976848394,10.661401776900297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1855060801:0933/pct:87.31789316398954,67.45169933718799,11.281285020545386,2.665350444225074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -865,7 +865,7 @@ only the opulent and respectable strangerbut the
 oppressed and persecuted of all nations and of all  
 rehgiona,-whom we shall welcome to a participatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855060901:0194/pct:26.664667066586684,122.01402321083172,19.40611877624475,4.279497098646035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855060901:0194/pct:20.008999550022498,91.51353965183752,14.56427178641068,3.2156673114119925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ oppressed, and persecuted of all nations and of all
 relipons whom we shall welcome to a participation  
 hi HloMrrtghts andprMlefes.G Washington:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855061301:0521/pct:26.221264367816094,122.19184075248825,19.655172413793103,5.184293995406322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855061301:0521/pct:19.67802213597815,91.64388056436619,14.747736093143596,3.893689161106858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ TIONS and of ALL RELIGIONS, whom wo
 shall welcome to a participation in ALL OUR  
 RIGHTS AND PRIVILEGES.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93052117:00279557955:1855063001:0170/pct:43.38073302623673,30.96568236233041,17.28419787702784,6.610800744878957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93052117:00279557955:1855063001:0170/pct:43.38574003605047,30.96568236233041,17.294211896655316,6.614126097366321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ oppressed and persecuted of all nations and of all
 religions, whom we shall welcome to a participation  
 in all our rights and privileges
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855071101:0033/pct:20.914214151534125,335.86378148279533,51.283656856606136,34.38571597493201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855071101:0033/pct:5.228553537883531,83.96594537069883,12.820914214151534,8.596428993733003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -992,7 +992,7 @@ oppressed and persecuted of all nations, and all re­
 ligions, whom we shall welcome to a participation  
 in all our rights and privileges.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1855072101:0067/pct:134.30073126142597,253.76582278481013,52.03382084095064,7.5/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1855072101:0067/pct:44.76691042047532,84.5886075949367,17.344606946983546,2.5/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1011,7 +1011,7 @@ and persecuted of all nulioiis and nil religious,
 whom we shall welcome to a participation in all our e  
 rights uiiil privileges. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1855072401:0068/pct:58.030787104269535,28.95849346656418,14.478652338077259,2.1810146041506533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664357:1855072401:0068/pct:58.040468583599576,28.961696131181142,14.473811598412237,2.1842172687676147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1071,7 +1071,7 @@ not only the opulent and respectable strane
 but the persecuted of all nations and  
 retiptins, solom we thall usctcome fo o per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1855091401:0244/pct:149.72010178117048,84.85534591194968,54.86005089058524,17.40880503144654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1855091401:0244/pct:49.90670059372349,28.28511530398323,18.286683630195082,5.80293501048218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1089,7 +1089,7 @@ America is open to receive not only the opulent and
 respectable stranger, but the oppressed and persecu­  
 ted of all nations.&quot; The necessity of emigratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855100601:0338/pct:7.095209217707701,80.711587669063,19.602789569436023,2.546606555379554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855100601:0338/pct:5.3230209281164695,60.533690751797245,14.710342735820443,1.9130010966248325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1149,7 +1149,7 @@ pressed and persecuted of all nations and of all re
 liiions, whom we shall welcome to a participation of  
 ail our rights and privileges.&quot; To the same effec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855101001:0587/pct:0.922722029988466,5.202312138728324,93.52652825836216,121.45272112553168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855101001:0587/pct:0.692141312184571,3.9044606827353037,70.16582552271089,91.08954084414876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1167,7 +1167,7 @@ America is open to receive not only the opulent and
 respectable stranger, but the oppressed and persecu­  
 ted of all nations.&quot; The necessity of emigratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855101001:0589/pct:7.224443175328384,79.43701771546571,19.31753283837807,2.695359200086947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022639:1855101001:0589/pct:5.427796029138695,59.58048038256711,14.49792886730467,2.0215194000652104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ Dressed and persecuted of all nations and of all re­
 gions, whom we shall welcome to a participation of  
 art our rights and privileges.&quot; 10 the same effect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855101001:0342/pct:8.726557773744707,5.499081445192896,88.03690260133091,14.672382118799755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855101001:0342/pct:6.549689910754803,4.127372933251684,66.04144607472395,11.010410287813839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1219,7 +1219,7 @@ welcome to a participation in ALL OUR
 RIGHTS AND PRIVILEGES.”  
 Thus it will be seen that the signers of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556641:1855102001:0547/pct:19.943322706340773,70.8936170212766,14.647538080056677,3.3799392097264436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556641:1855102001:0547/pct:19.956606447042155,70.8936170212766,14.64311016648955,3.3890577507598785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1240,7 +1240,7 @@ shall welcome to a participation in ALL
 OUR RIGHTS AND PRIVILEGES.”  
 Thus it will he seen that the, signers of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557955:1855110301:0246/pct:61.93498749759569,71.5531561461794,14.464320061550298,4.152823920265781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557955:1855110301:0246/pct:61.94941334872091,71.56353820598007,14.45470282746682,4.152823920265781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1265,13 +1265,13 @@ NATIONS and of all HELM HONS, whom
 we shall welcome to a participation in ALL  
 UUIi RIGHTS AND ITUViLEGES.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557955:1855120101:0260/pct:46.578239138792775,82.81315022888056,14.571318723567858,6.297683451241504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557955:1855120101:0260/pct:46.58785082660515,82.8200860036066,14.580930411380239,6.294215563878486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States democratic review_](https://archive.org/details/sim_united-states-democratic-review_1856-01_37/page/n81/mode/1up?view=theater)
+## [From _The United States Democratic Review (1856-1859)_](https://archive.org/details/sim_united-states-democratic-review_1856-01_37/page/n81/mode/1up?view=theater)
 
 #### 1856-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1302,7 +1302,7 @@ pressed and perceculed of all nations and religiomns whom we
 shall welcome to a participation in all our rignts and priel  
 leges.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022301:0430/pct:59.96983914209115,261.95577055977884,45.50938337801609,5.309836443215849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022301:0430/pct:19.989946380697052,87.31859018659296,15.169794459338695,1.7699454810719497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1399,7 +1399,7 @@ privileges, if by decenpy and propriety
 of conduct they appear to merit the  
 enjoymen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jones_ver01:data:sn96061150:00200298408:1890022301:0187/pct:24.150943396226417,79.66271832965268,16.361185983827493,9.696848022485444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jones_ver01:data:sn96061150:00200298408:1890022301:0187/pct:16.109463467241845,53.11182493475206,10.905904556484227,6.46456534832363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1423,7 +1423,7 @@ in all our rights and privileges, if
 by decency and propriety of con­  
 duct they appear to merit the en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn84022650:00295868648:1890030701:0212/pct:49.40431868950112,91.49232914923292,18.168279970215934,10.167364016736402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn84022650:00295868648:1890030701:0212/pct:37.069447030348165,68.61924686192468,13.628746974492646,7.629009762900976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1471,7 +1471,7 @@ nations and of all religions whom
 we shall welcome to a participa­  
 tion in all rights and privilege
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_butterfly_ver01:data:sn85047097:0021110871a:1899100501:0354/pct:41.118077324973875,53.32087650755903,17.00626959247649,15.899439442840157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_butterfly_ver01:data:sn85047097:0021110871a:1899100501:0354/pct:41.118077324973875,53.33361644301002,17.00626959247649,15.886699507389162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

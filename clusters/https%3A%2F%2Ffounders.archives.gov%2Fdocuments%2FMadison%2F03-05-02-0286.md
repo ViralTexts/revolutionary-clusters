@@ -61,7 +61,7 @@ the thirty fun th.
 (Signed) JAMES MAIJISON.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021301:0366/pct:41.11030478955007,66.88676938126682,17.56168359941945,11.457569087796527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021301:0366/pct:41.10284781425721,66.87859151485512,17.564544410181995,11.460243713575418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ eight hundred and ten, and of the Independent*
 of the United States of America tSkev thirty&quot;  
 fourth. &#x27; ^ •&lt; &#x27; &gt; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810021901:0936/pct:72.12198221092757,58.476097242617065,21.65184243964422,8.74530918583782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810021901:0936/pct:72.10365853658537,58.466557911908644,21.652693089430894,8.747960848287113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ fourth.
 (Signed). FAMES MADISON.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031601:0976/pct:49.03893543617546,52.73105878584014,20.82306554953179,9.8830690373218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031601:0976/pct:49.02685390490269,52.7226137091608,20.82409460458241,9.885490070467648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ fourth.
 (Signed) JAMES MADISON.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032601:0992/pct:48.19517052526761,44.145161290322584,20.88623350759273,9.951612903225806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032601:0992/pct:48.18317570930812,44.1380422512498,20.887257341961174,9.954039671020803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ JAMES MADISON.
 By the President.  
 JAS. MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812101301:0185/pct:22.31222385861561,4.694202720921681,35.18041237113402,92.11913224659885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812101301:0185/pct:22.308117062396466,4.693627450980392,35.18007239707958,92.11192810457516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ JAMES MADISON.
 By the President.  
 JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812101601:0331/pct:49.02969371054478,25.347577930630763,21.790974982464345,17.48865798331626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812101601:0331/pct:49.018232819074335,25.343868890839918,21.79172510518934,17.489757096868598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

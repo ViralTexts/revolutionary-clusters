@@ -305,7 +305,7 @@ representation? It is an expedient, by which nn
 assembly of individuals, ehoeen by the people, .  
 is substituted in place of the inconvenient meet- .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851013001:0122/pct:45.30160654743862,75.64662808550844,14.004243710215217,2.2203850242116454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851013001:0122/pct:45.30160654743862,75.65450179126806,14.009295746185712,2.2203850242116454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ ot tree inhabitants; and, in the second, which had *or
 006 0primary objects the guardianship of property,”  
 according to the whole number, including slaves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851041101:0337/pct:36.59773702692158,20.79221681723419,14.670308232539993,13.829047949965254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851041101:0337/pct:36.590598790715816,20.789327404113397,14.672322995904038,13.830600333518621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ ought te vote in the same proportion in which their
 collectively met.&quot; The committee will recollect thai  
 Ha the formation of the constitution of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851061301:0288/pct:23.136509792458344,17.342276659861962,15.799473838059047,7.339360357733061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851061301:0288/pct:23.141381662281983,17.342276659861962,15.794601968235408,7.349081364829396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ plain-spoken upon the question of representation ? He
 their citizens would vote if the people of the States  
 were collectively met. And yet, notwithstanding this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851061301:0288/pct:23.370359543992983,29.96986487800136,15.507161648640748,3.5967726256440167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851061301:0288/pct:23.370359543992983,29.96986487800136,15.526649127935302,3.6032532970415736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ Ihe committee will recollect that in the
 formation of tho constitution of the United  
 States, the most difficult question was tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852032401:0083/pct:3.8974719101123596,38.805322533989006,13.307584269662922,14.058432166618456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852032401:0083/pct:3.9106390449438204,38.808938385883714,13.307584269662922,14.065663870407867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ States, the most difficult question was tha
 &quot;If negroes are not represented in the States to which they  
 belong, why should they be repreanted in the General Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856101001:0070/pct:203.6130536130536,189.41315945465323,47.4025974025974,2.8334321280379373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856101001:0070/pct:67.87101787101787,63.13771981821775,15.8008658008658,0.9444773760126457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ expedtent by which an assembly of individn­
 als, chosen by the people, is substituted in the  
 place of the inconvenient meeting of the peo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860111001:0404/pct:93.64035087719299,80.67043970396169,33.7171052631579,5.137135393992164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860111001:0404/pct:23.41650671785029,20.167609925990423,8.431587606251714,1.284283848498041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

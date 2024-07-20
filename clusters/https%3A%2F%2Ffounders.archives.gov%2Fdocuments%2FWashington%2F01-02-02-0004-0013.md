@@ -100,7 +100,7 @@ t pamphlet, Letters from a Farmer in Pennsylvania to the Inhabitants of the Brit
 LETTERS from a FARMER in Pennsylvania,  
 to the Inhabitants of the Britith Colonies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768050601:0077/pct:6.309216192937123,20.22740033688939,27.56244616709733,1.8809657495788883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768050601:0077/pct:6.309216192937123,20.22740033688939,27.569623887453346,1.8809657495788883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ I Have heard of your Resolves, and augur ill of
 their Effecti. You have made it my Duty to  
 dissolve you, and you-are dijfolved accordingly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769061601:0295/pct:50.24365652831457,28.88264230498946,22.013107040833475,6.156008432888264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769061601:0295/pct:50.25485912731754,28.88264230498946,22.013107040833475,6.156008432888264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ their effects. You have made it my du­
 ty to dissolve you, and you are dissolved  
 accordingly/* Alter the dissolution o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822112901:0238/pct:24.111578142911732,35.0069912291852,17.329002674818494,5.4531587644591335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822112901:0238/pct:24.106972301814707,35.00254194204372,17.332059853549826,5.456702253855279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ P““ %&#x27;M&#x27;ihmner. to be tried
 in any other manuer, than by the sncient  
 and long established course of procecding
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1837102501:0746/pct:0.9450784593437945,85.47284221390788,15.032097004279601,7.689330408979487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1837102501:0746/pct:0.9569662387066096,85.47714273427084,15.026153114598193,7.697931449705415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ I have heard of your resolutions and argue ill of
 their effects. You have made it my duty to dis­  
 solve you; and you are dissolved accordingly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851120201:1157/pct:11.88423645320197,193.12273276904475,38.11576354679803,10.066505441354293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851120201:1157/pct:3.9614121510673237,64.37424425634825,12.705254515599343,3.3555018137847643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ very excellent cour.&gt;e for either two, three, or
 four mile heats. These purses are gene.ally  
 raised by subscription. B -sides these at Wi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663729:1875013001:0115/pct:1.7793594306049823,39.80065802206309,15.530249110320284,3.4159086510547705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663729:1875013001:0115/pct:1.7841043890865955,39.80065802206309,15.530249110320284,3.422359847751758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ Farmer in Pennsylvania to the Inhabitants
 of the British Colonies. Svo. Williams  
 burgh, Va
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00175030815:1882092701:0312/pct:8.857009200062373,179.8871980419283,40.54264774676439,5.682664680217091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00175030815:1882092701:0312/pct:2.952336400020791,59.96239934730942,13.514215915588128,1.8942215600723635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

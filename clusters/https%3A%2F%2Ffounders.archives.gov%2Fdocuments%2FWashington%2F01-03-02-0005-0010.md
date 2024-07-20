@@ -510,7 +510,7 @@ ering the volumes of the “Portrait
 and Biographical Record of Har­  
 ford and Cecil Counties, Maryland.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522576:1897100101:0405/pct:22.847551342812007,49.3341053850608,16.133491311216428,2.1569195136074115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522576:1897100101:0405/pct:17.711574758965465,38.233424329681014,12.51339080752946,1.6790695935080961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

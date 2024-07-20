@@ -330,7 +330,7 @@ personal attachment, or from a view to popularity
 power for which you censure the Col , is an effica­  
 cious source of stability in the Administration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1846041501:0512/pct:75.95916930658218,62.68733188164468,13.69236184442098,2.6642756500576406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1846041501:0512/pct:75.94580327291924,62.67930327868852,13.694351574872426,2.6671362704918034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ Governor&#x27;s having the veto power, not
 of course, absolutely, but in a qualified  
 form. A Government without a v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026922:00237288154:1865081001:0118/pct:127.74946921443737,74.17413008368815,58.131634819532906,57.93569226251652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026922:00237288154:1865081001:0118/pct:42.583156404812456,24.72471002789605,19.37721160651097,19.31189742083884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ render them the obsequious instruments of his
 pleasureLorenzo Thomas foresen to con-  
 tribute to the stability of the administration&#x27;--t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868030401:0475/pct:291.6992952231793,27.124563445867288,50.90054815974941,19.20838183934808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1868030401:0475/pct:72.95338817077948,6.781140861466822,12.7301214257736,4.80209545983702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ the Senate, the constitutional power of the President is
 exhausted with reference to that officer. All that he can  
 do under the Constitution is, in the same mannerto nomi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042301:0777/pct:197.2876627402356,101.98294006868284,48.37259764414135,75.21878808020384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042301:0777/pct:65.7625542467452,33.994313356227615,16.124199214713784,25.072929360067945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ upon a spirit of favoritism in the President, and
 wonld tend greatly to prevent the appointment  
 nfit aharatars from Arate nreindiees from fosm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869042801:0685/pct:115.60457516339869,72.25325884543761,47.794117647058826,9.798023205844435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869042801:0685/pct:28.91886368281218,18.063314711359403,11.955855303494788,2.449505801461109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ So wrote the leading author of the
 Federalist. How fearfully mistaken  
 he was, the events of the present tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869042801:0685/pct:115.44117647058823,84.28591892279043,45.50653594771242,19.82523993697178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869042801:0685/pct:28.877988963825874,21.071479730697607,11.38360923768649,4.956309984242945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ to build, will, beyond doubt, secure
 the sound judgment of the Executive.  
 No one can question that this ia the bes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:0020029340A:1869111101:0465/pct:100.86107921928817,100.99169990298589,12.686567164179104,13.711329093456936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:0020029340A:1869111101:0465/pct:75.65666714511268,75.74646976393231,9.516291086550883,10.283496820092703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ ecutive,” which Is Involved In the attempted
 usurpation of tho Senate, In his paper ou  
 &quot;The Unity of tho Executive,” ho says:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881050401:0004/pct:16.370390023879015,55.414398064125834,13.372247280445741,14.498890905424481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881050401:0004/pct:16.390289201379677,55.424480742085095,13.352348102945077,14.503932244404114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -848,7 +848,7 @@ would be as complete as if
 make the linal appointment. There can in this view  
 no difference between nominating and appoint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039855:1881052901:0509/pct:152.15,31.258724988366684,47.516666666666666,13.122382503489995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039855:1881052901:0509/pct:50.71666666666667,10.419574996122227,15.838888888888889,4.374127501163332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -898,7 +898,7 @@ most corrupt periods of the most cor­
 rupt governments.&quot;  
 Iu the appointment of Judges ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn85038603:00415662142:1881091701:0487/pct:39.22753547031004,64.50037166825953,14.647924330005255,12.498672613358819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn85038603:00415662142:1881091701:0487/pct:29.431086585205623,48.380588297759374,10.984101957692813,9.376659233301476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -975,7 +975,7 @@ And as no man could be appointed but on his pre­
 vious nomination, every man who might be appointed  
 would be in fact his choice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885082301:0598/pct:285.5375096674401,137.62847062432888,51.89481825212684,36.44730786930511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885082301:0598/pct:71.39818216979307,34.40711765608222,12.976213498356218,9.111826967326277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -997,7 +997,7 @@ thies, attachments and animosities, which
 attachments and animosities, which are  
 felt by those who compose the assembly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885082301:0598/pct:285.614849187935,182.91148949225342,50.96674400618716,13.29958582604694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885082301:0598/pct:71.41752078901567,45.727872373063356,12.744150067685167,3.324896456511735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1101,7 +1101,7 @@ dignation. Few men have public virtue
 enough to refuse the lordship of patron­  
 age in their own state on the condition o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035199:1886121301:0346/pct:124.59485224022879,263.062490062013,59.58055290753098,57.92653840038162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_foxtrot_ver01:data:sn86064205:00175035199:1886121301:0346/pct:31.148713060057197,65.76562251550325,14.895138226882745,14.481634600095404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1164,7 +1164,7 @@ possibility cf rejection would be a strong
 rnotlve to care In proposing. . .  
 This, published In 17SS, shows how carefu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665465:1894022301:0500/pct:48.10126582278481,53.91157894736842,18.2570593962999,20.73263157894737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665465:1894022301:0500/pct:36.08034083992696,40.437894736842104,13.694461351186852,15.553684210526315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

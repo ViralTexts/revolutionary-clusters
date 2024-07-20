@@ -96,7 +96,7 @@ British possessions in India by the ships of nations at
 amity with his Majesty.&quot;  
 By that regulation it is declared that such ships ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1845062301:0523/pct:77.51586582048958,226.84843624699278,71.71350861287398,19.246190858059343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1845062301:0523/pct:19.383359782362277,56.712109061748194,17.93244162321469,4.811547714514836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ an Act for regulating the trade to be carried on with
 the I.rnish Possessions In Indln by the ulilna of na­  
 tions In amity with his Majesty;- ind so much of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849031901:0277/pct:56.03579588728103,41.79822583070215,13.156892612338156,2.3154412870245076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849031901:0277/pct:56.03579588728103,41.808249386057234,13.156892612338156,2.3154412870245076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ of nations in amity with his Majesty;&quot; and no
 much of a certain act passed in the session of Parliament  
 holden in the fourth year ofthe reign of Kin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849072001:0148/pct:4.658810633050151,60.693764630772506,14.469717730885174,3.8625239412640986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849072001:0148/pct:4.658810633050151,60.69731148471306,14.483420115100028,3.869617649145208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

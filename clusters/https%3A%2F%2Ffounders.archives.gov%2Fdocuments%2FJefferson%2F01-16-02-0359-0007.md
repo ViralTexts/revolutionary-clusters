@@ -667,7 +667,7 @@ And 10 furlongs a mile.
 5- That measures of furface in the United  
 States, be made by fqnares of the measures o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041401:0002/pct:69.42364050797785,33.333333333333336,26.636274829045913,12.784034775736021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792041401:0002/pct:69.42364050797785,33.34815253902391,26.644415499837187,12.788974510966213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -899,9 +899,9 @@ different states, and to establish in their stead the new denominations.”
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1846-11_19_101/page/n34/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1846-11_19_101/page/n34/mode/1up?view=theater)
 
-#### 1846-11-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1846-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1064,7 +1064,7 @@ have in one county of the district, under
 the lead of Eaul, the apostle of the new  
 faith, determined to hold aloof from thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664436:1878072901:0106/pct:81.96130753835891,59.15377616014559,52.30153435623749,29.181073703366696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664436:1878072901:0106/pct:27.320435846119636,19.717925386715194,17.433844785412496,9.727024567788899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1158,7 +1158,7 @@ unit at 37564 troy grains of pure silver
 Hamiltons report On the Establish­  
 ment of a Slint was communicated t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653459A:1895090801:0214/pct:27.262516046213094,13.53838984038215,19.062901155327342,4.439007340090877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653459A:1895090801:0214/pct:18.183277162574225,9.029476872888267,12.710640346653827,2.9593382267272514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1194,7 +1194,7 @@ ciples of Jefferson are pure gall
 But there is another matter in this I  
 connection and we believe it was this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653459A:1895090801:0214/pct:27.021822849807446,27.86904345799837,19.57637997432606,20.34253757427473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653459A:1895090801:0214/pct:18.022789279409405,18.58324595129908,13.047664901299951,13.561691716183153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

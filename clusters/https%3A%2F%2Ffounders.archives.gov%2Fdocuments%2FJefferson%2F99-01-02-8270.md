@@ -79,7 +79,7 @@ BOSTON, March 17.
 So anxious are even the countrymen  
 for the afflumption of the State debt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790033101:0567/pct:5.397659422020539,14.047815333882935,20.539765942202052,13.93239901071723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790033101:0567/pct:5.413581721200542,14.047815333882935,20.539765942202052,13.943391041494916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ Clerk of H. R. q/S. Carolina.
 Resolved, Thst the same be sent to  
 the Senate for concurrence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808071801:0003/pct:23.345240596764025,49.64113271564661,18.596343769699516,34.15111575101135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808071801:0003/pct:23.359249141976605,49.64983252860063,18.603348042305807,34.155465657488364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ cur with the house of representatives. Ordered,
 that the same be returned to the house of repre­  
 sentatives. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808071901:0096/pct:23.860347322720695,35.795383655645665,17.673661360347324,23.917654398003744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808071901:0096/pct:23.856031832157715,35.79091816367266,17.676493639597275,23.918829008649368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ ly concur with die house of representatives.
 Ordered, that the same be returned to the  
 house of representatives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808071901:0238/pct:41.32750095093191,2.8038568891144378,35.92620768352986,90.97944684090332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808071901:0238/pct:41.319642517588896,2.8035012051249524,35.92571464790518,90.97213412829295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ Clerk of H. R. of 8. Carolina.
 « Resolved, That the fame be sent to the se­  
 nate for concurrence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808080201:0122/pct:42.115768463073856,3.756619042861425,32.99554736680485,91.69747227495255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808080201:0122/pct:42.120886432263674,3.75994937889233,33.000665335994675,91.69747227495255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ PRESIDENT’S REPLY,
 To the Hen&#x27; Joseph Ai.stov, Speaker of the  
 &#x27;Mouse oj Representatives of South Carolina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808101101:0192/pct:4.687218316206959,8.246516882138822,17.577068685776094,31.693234592694868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808101101:0192/pct:4.686373467916367,8.245481927710843,17.579908675799086,31.69344042838019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ declare their determination, at every:
 hazard, &#x27; 10ft the general go­  
 vernment &#x27;ni all measures calculated to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808101201:0001/pct:5.719482619240097,23.808306709265175,17.259498787388843,39.82108626198083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808101201:0001/pct:5.726219347884667,23.808306709265175,17.252762058744274,39.82534611288605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ bine to render this State far from in­
 sensible : JJuf, if the inconvcni* nces  
 or privations resulting to our citizens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808101401:0337/pct:77.19131097560975,55.51451859398879,18.102134146341463,37.62098828323994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808101401:0337/pct:77.17660506763193,55.50744938240163,18.10503587985013,37.62044229381553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ PRESIDENT S REPLY,
 I&#x27;o the Hon. Joseph Alston, Speaker of  
 the House of Representatives of South
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808101401:0338/pct:4.225352112676056,4.06483474737242,18.005329272934908,13.51146004811954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808101401:0338/pct:4.224548049476689,4.0643200810331725,18.00824611481129,13.513969781379252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ moment when, it is conceived, and a
 | Tactifice of the conflicting opinions of  
 &#x27; individuals, and “the anim-fities o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808102501:0169/pct:42.2524211184005,70.84963386498144,17.24461105904405,16.46102919049052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808102501:0169/pct:42.262834530875764,70.84963386498144,17.24461105904405,16.46102919049052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ I ‘have the honor to be, fir very
 refpe&amp;fully, yours &amp;e. |  
 JOSEPH ALSTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808102501:0169/pct:59.8406747891284,23.232019259705087,17.307091533895658,12.368341859765273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808102501:0169/pct:59.84588149536603,23.23870665730431,17.32271165260856,12.368341859765273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

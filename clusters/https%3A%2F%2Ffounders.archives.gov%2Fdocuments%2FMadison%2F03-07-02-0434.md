@@ -162,7 +162,7 @@ Most respectfully,
 Your ob*l serv’t,  
 ISAAC SI1ELHY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1836063001:0508/pct:29.260935143288084,15.272938443670151,26.108597285067873,82.34610917537746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1836063001:0508/pct:29.256522394812247,15.271164789223088,26.109686824511133,82.34041729570704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ the v arious duties at tached t•» il, h i • lieen one &lt;• I (
 the most arduous and diilmuh I i-l.s ever a--i urd  
 to any officer in the I . Slate-, yet he surmounte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836081501:0020/pct:17.745302713987474,46.399191802568915,15.429872841146327,7.230480588829557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836081501:0020/pct:17.741935483870968,46.39249639249639,15.43168880455408,7.233044733044733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ rioua duties attached to it, has been one
 of the most, arduous tasks ever assign­  
 ed to any officer of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836092401:0405/pct:63.85842472582253,14.237743451981196,31.954137587238286,79.91940899932841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1836092401:0405/pct:63.84251183653127,14.235353365788148,31.952404684774482,79.91018969279838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ always appeared to have evinced a high degree of
 military talent. I concur with the venerable Shelby  
 in his general apt robation of your conduct in tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840012001:0200/pct:3.5218156916454704,208.63962512813004,62.70788495402074,48.57226533899546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840012001:0200/pct:0.8802816901408451,52.15226939970717,15.673904538341159,12.141288433382138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ the most arduous and difficult tasks ever as­
 signed to.any officer in tho U. States, vet he  
 ; surmounted it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1840013001:0215/pct:18.232841565105836,65.17912482955249,14.881334188582425,10.64832031734226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1840013001:0215/pct:18.22991822991823,65.17104610808131,14.88429266207044,10.6511320442902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ names I have introduced to his notice. Nor will
 the venerable editor of the Enquirer spurn this  
 testimony with contempt though he may refus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840021301:0226/pct:196.79474802085343,216.08330922765404,60.80324386947287,37.85073763378652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840021301:0226/pct:49.189189189189186,54.01301518438178,15.197876447876448,9.461315979754158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ intruding opinions unsolicited...
 Most respectfully, your ob&#x27;t serv&#x27;t.  
 v.&quot; , . ISAAC SHELBY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065694:00295877595:1840041001:0488/pct:4.34402332361516,18.305597579425115,20.0,60.12535119948131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065694:00295877595:1840041001:0488/pct:3.266734723640076,13.734601253511995,15.006562636721599,45.09401339961098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ I have no H iaSl but they were well con­
 ‘vrle! *n I might With certainty have  
 bt tn v«e&lt; uled had hit order* Iwsa otieye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1840092401:0572/pct:84.29534134192792,45.405652820688864,12.877234104893056,36.262730289506806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1840092401:0572/pct:84.28299399443387,45.40045766590389,12.880230457497193,36.26239511823036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -882,7 +882,7 @@ ten ol intituling opinion* unsolicited,
 Your obedient servant, I .  
 Isaac shlluy. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840100801:0583/pct:64.06619385342789,24.75112505113869,15.70133963750985,32.76967134869767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1840100801:0583/pct:64.05357494583416,24.747750204526863,15.703171164073272,32.76861194436869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ i my, and the various duties attached to it, has Keen
 •me of the most arduous and difficult task* ever us*  
 signed to any officer in the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1841052701:0087/pct:81.45863570391872,15.867746647191607,12.880986937590711,4.474837338998805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1841052701:0087/pct:81.4438599673499,15.865639936271906,12.88318519862144,4.477562400424854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -963,7 +963,7 @@ of the Western people, except some who may, perhaps, be
 gorerned by sinister views.&quot; .  
 jExtract from the letter to General Harrison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854102801:0323/pct:49.671006579868404,48.32944832944833,15.427691446171076,15.373515373515373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854102801:0323/pct:49.680339726538804,48.33314833314833,15.427691446171076,15.380915380915381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

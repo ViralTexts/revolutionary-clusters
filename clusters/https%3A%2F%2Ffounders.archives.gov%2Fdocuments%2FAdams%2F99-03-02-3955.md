@@ -430,7 +430,7 @@ counsel learned in the law shall advise, devise, of re­
 quire. In testimony whereof the said parties of the  
 first part have hereunto set their hands and seals on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873102701:0764/pct:241.5407854984894,350.4885993485342,49.848942598187314,17.352679893396505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873102701:0764/pct:60.39660056657224,87.62214983713355,12.464589235127479,4.338169973349126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ themselves, their heirs, executors, admin­
 istrators and assigns do covenant with the  
 said imrtv of the second part and his su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1874020601:0267/pct:27.911133810010213,46.81794915543423,22.90602655771195,9.452311892168572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292170:1874020601:0267/pct:20.955788397648863,35.11346186657567,17.199079989777665,7.097764886538133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ grants bargains sale Leases mortgages
 joyntures Dowers Judgement Executions  
 Entails forfeitures and of and from al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173514:1891050801:0568/pct:19.303657999118556,48.5745274248528,14.96253856324372,16.93523396343353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173514:1891050801:0568/pct:19.299405155320557,48.56700232378002,14.964749944921788,16.93648334624322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ and vantage and exemption under or
 by virtue of any and all statutes of  
 the state of Texas providing for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536366:1894112201:0755/pct:314.7157190635451,205.32288013204044,51.727982162764775,33.505260986177014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536366:1894112201:0755/pct:78.67892976588628,51.33072003301011,12.931995540691194,8.376315246544253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ said granted premises, with the appurtenances,
 judgments, intruders, and troubles whatso­  
 ever; and 1, the said William Morris, do furthe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037299:1895090301:0296/pct:57.199151257956956,46.47918759067068,13.15550166717187,7.186697913179333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037299:1895090301:0296/pct:57.20925532989795,46.482907413607116,13.15550166717187,7.190417736115761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ fully claiming the whole or any part there­
 of, and said party of the first part shall  
 and will warrant and forever defend, ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:0028076064A:1898100101:0654/pct:43.855932203389834,68.60873381610709,18.356537530266344,8.47048496818082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:0028076064A:1898100101:0654/pct:29.250567751703255,45.74281325433399,12.248296744890235,5.6506473557164805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

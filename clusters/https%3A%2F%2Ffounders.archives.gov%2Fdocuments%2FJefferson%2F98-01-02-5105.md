@@ -116,7 +116,7 @@ and I pray you to be assured of my
 continued and high respect and esteem.  
 THOS. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825041401:0183/pct:36.12405592158123,40.8089444261756,14.526755584123412,39.91011728598049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825041401:0183/pct:36.11825192802056,40.80447172292854,14.529777206512424,39.90939646353938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ more at Monticello; and I pray you to be
 assured of my continued and high respect  
 and esteem. THOS. J EFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825041901:0033/pct:69.98491704374057,7.594549073648752,12.820512820512821,31.342826519675395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825041901:0033/pct:69.96984058595433,7.593386405388855,12.82313657906075,31.34185548071035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ Monticello; sod I pray you to be assured of
 my contioued and high respect and esteem,  
 THOS JEFFER 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1825042101:0883/pct:54.78496706702828,53.90615904063337,21.40643161565285,38.95680521597392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1825042101:0883/pct:54.79142451246287,53.90615904063337,21.41934650652202,38.964567081926496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ sepaiatiou with Great Hiitaiu, they used necessa­
 rily (he same materials ol justification; and hence  
 their similitude.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826063001:0065/pct:48.452285485164396,4.397981254506129,14.963913392141139,18.757510213890892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826063001:0065/pct:48.44451571520205,4.3974528415234895,14.96685909771221,18.759261484240458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ to open the instrument again.” The other most
 important tact is—“ The constitution, with the pre­  
 amble, was passed on the 29th June,” (1776) 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080401:0104/pct:82.96650717703349,15.098861593768724,14.944178628389155,6.7585380467345715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080401:0104/pct:82.9532769893159,15.097052480230051,14.947111040238132,6.76172218228293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ object of justifying our separation witli Great Britain,
 they used necessarily the same materials of jus&#x27;ifica­  
 tion; and hence their similitude.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829102401:0133/pct:34.24072984108299,7.923875432525952,15.361977633902296,14.948096885813149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829102401:0133/pct:34.23569221715463,7.922961596125014,15.364621646804963,14.950217199092762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ l ie begged the gentlemen&#x27;s best attention to this his­
 torical account of the proceeding of the Convention,1  
 and they could nut avoid teeing the direct contras
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829111601:1191/pct:40.458254865034526,56.64979291302347,17.82799748901444,9.031293143120111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829111601:1191/pct:40.45190648046446,56.643276199240766,17.830430461844237,9.034088730396103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ torical account of the proceeding of the Convention,
 and they could not avoid seeing&quot; the direct contrast  
 between it and the account given by others.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829111701:0354/pct:60.09759168896584,58.28844270323213,17.48780103887927,9.414789422135161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829111701:0354/pct:60.08813345923828,58.28130738156445,17.490294827405307,9.417717386869057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ K they could not avoid seeing the direct contrast,hot woon
 t and the account given by others. So far as lie was  
 maided todo so, it would nowhehis pleasing task to de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829111701:0152/pct:3.4897534897534896,58.00976517089049,15.85981585981586,8.160892815624273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829111701:0152/pct:3.4892353377876764,58.0030222015576,15.862410294481563,8.163818822891239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ open the instrument again, hut that being placed iri:h the
 preambU to mine, they adopted it in the house by way of  
 amendiiK&#x27;nt to the report of the committee, anil thu* m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850061101:0382/pct:47.49348015068096,80.21730985387785,15.850478122283397,6.3038591232671415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850061101:0382/pct:47.498309668695065,80.22355438990883,15.864966676325702,6.3038591232671415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

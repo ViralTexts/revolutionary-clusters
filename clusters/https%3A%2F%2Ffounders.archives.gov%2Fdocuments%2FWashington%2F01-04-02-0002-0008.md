@@ -159,7 +159,7 @@ up. It is clogged, moreover, with innumerable
 rocks; so that the mater for a mile or two dons  
 with accelerated velocity. At length coming t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654413:1874042501:0295/pct:56.93174893357709,23.15850144092219,13.619744058500913,2.9971181556195967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654413:1874042501:0295/pct:56.94317489335771,23.15850144092219,13.619744058500913,3.0144092219020173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ i “The Life of Charles Carroll of Car­
 rollton, 1737-1832,” with his correspond­  
 ! ence and public papers, by Kate Maso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn93058748:00517171803:1898011701:0166/pct:106.96367650010035,94.3773918163085,15.673289183222957,1.5749190462172504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn93058748:00517171803:1898011701:0166/pct:82.90735652444398,73.1510703829043,12.146819430763648,1.2205787292292483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

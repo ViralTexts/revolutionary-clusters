@@ -67,7 +67,7 @@ bounties of his common providence, and to
 deftow on the people of this State and on  
 owr land great and s manifold mercies ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809103101:0380/pct:7.636080870917574,7.417310358486829,16.438569206842924,6.951871657754011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809103101:0380/pct:7.641264904095387,7.42391232587311,16.433385173665112,6.9551726414471515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ they may join in the peuitent confession of
 their manifold sins whereby they have for­  
 feited every favor, and their earnest an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215968:1857030301:0357/pct:46.70397420089159,4.700913874273055,25.64734895191122,90.0650789255054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215968:1857030301:0357/pct:46.69954476479514,4.700588438906196,25.64807789580172,90.0611514941733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ that if may please Him graciously to af
 tord this blessings on the Government of these  
 of the whole t to mnspire oull commanders botit b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879112801:0605/pct:264.2113095238095,223.34912231819447,38.76488095238095,58.23349122318194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879112801:0605/pct:66.08970779825052,55.83728057954862,9.696631304671506,14.558372805795486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ ferings , they may join the penitent con­
 fession of their manifold sins , wherebythey  
 had forfeited every favor , and their humbl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538909:1898112001:0142/pct:57.2075208913649,79.7130870212478,16.521587743732592,22.262823115441872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538909:1898112001:0142/pct:42.93677059745689,59.79158208147246,12.402020553910468,16.70050074434971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ that together with their sincere ac­
 knowledgments, they may Join in a  
 penitent confession of their sins, where
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn86086481:00517171815:1899113001:0668/pct:43.202293202293205,82.85881150532924,15.99099099099099,19.491896627244852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn86086481:00517171815:1899113001:0668/pct:33.486723791388975,64.22374773687388,12.392891145668042,15.110138805069402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -824,7 +824,7 @@ with their sincere acknowledgments
 and offerings, they may Join the pent­  
 tent confession of their manifold sins
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pipit_ver04:data:sn85042400:00202194333:1899113001:1215/pct:9.780047132757266,67.87744350478303,32.992930086410055,57.00817967558575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pipit_ver04:data:sn85042400:00202194333:1899113001:1215/pct:7.346297387546651,50.90808262858727,24.749558043606363,42.75613475668931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

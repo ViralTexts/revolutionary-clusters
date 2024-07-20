@@ -90,7 +90,7 @@ he to give to the latter a like power over the elec­
 tion of their Representatives in the State Legisla­  
 ture
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842051001:0556/pct:12.29624940655167,75.9801087082225,38.946035765152715,58.40175783508732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842051001:0556/pct:4.098101265822785,25.32377428307123,12.979957805907173,19.4650015417823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ tore, as it was presumable that the counties having the pow.
 er in the former case would secure it to themselves in the  
 latter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843121801:1150/pct:13.167613636363637,216.29441036917024,39.43181818181818,33.028584654553875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843121801:1150/pct:4.388581167447806,72.08979402915992,13.142072622260095,11.008254262130679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ to the latter a like power over the clee­
 tion of their Representatives in the  
 State Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186440:1844021401:0137/pct:155.0166852057842,215.3434433541481,62.224694104560626,68.04936068986025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186440:1844021401:0137/pct:38.745551601423486,53.827857886130516,15.552713523131672,17.00981120856251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ ple, and not to the Legislatures of the
   
 Slates,&quot; said Air. Madison, in debate upon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1844021701:0029/pct:25.23474178403756,60.13503375843961,19.385758998435055,11.627906976744185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1844021701:0029/pct:18.94324853228963,45.10127531882971,14.540117416829746,8.73218304576144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ that the result will be somewhat influenced
   
 by the mode.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1844021701:0029/pct:25.391236306729265,71.8529632408102,19.268388106416275,2.3105776444111026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1844021701:0029/pct:19.060665362035223,53.893473368342086,14.46183953033268,1.7404351087771943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,13 +366,13 @@ to the Stito Legislatures this great nuinorny
 over the elections of the people in th General unequivocal recognition oi hh. ex.s.s.i.e o. ...  
 L I iturc, as .1 would bo to give to the latter a power under the Constitution; and such an a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1844030801:0039/pct:27.12655601659751,72.01313808676612,46.28284923928077,23.402217052141783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1844030801:0039/pct:20.356278104462124,54.016696318598605,34.72846765824974,17.558505542630353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n102/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n102/mode/1up?view=theater)
 
 #### 1845-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -751,7 +751,7 @@ Legislature, as it would be to give to the latter a like
 power over the election of their Representatives in the  
 State Legislature. Mr. Keiley then further quoted fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866012501:0180/pct:198.25847846012832,122.16474848053795,48.35930339138405,46.20457778352515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866012501:0180/pct:66.08615948670943,40.72158282684598,16.119767797128016,15.401525927841718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ representatives of the people in the general Legialature
 asht would be to give to the latter a like power over the  
 election of their representatives in the State Legislature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866012501:0201/pct:149.41510102800424,104.57646037455042,52.48138957816377,42.155525238744886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866012501:0201/pct:49.805033676001415,34.85882012485014,17.49379652605459,14.051841746248295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ These and many other points would depend on tbe
 )rgislamret,and might materially affect the appoint­  
 ments.-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866012501:0001/pct:12.206832871652816,79.26996197718631,8.827331486611264,4.486692015209125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866012501:0001/pct:12.21606648199446,79.27376425855513,8.831948291782087,4.490494296577947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -856,7 +856,7 @@ right of regulating the time, place and man-
   
 ner of holding elections. These were words
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528347:1866012501:0600/pct:93.81619937694704,193.1927023945268,75.70093457943925,7.913340935005701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528347:1866012501:0600/pct:31.272066458982348,64.39756746484227,25.233644859813083,2.637780311668567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -886,7 +886,7 @@ most numerous branch of the Legislature vale an not a fe of foreign manfature
   
 ao e eee a a e ae o ee o a ae e a aeo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528347:1866012501:0600/pct:93.72274143302181,156.89851767388825,75.82554517133957,72.54275940706955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528347:1866012501:0600/pct:31.240913811007267,52.299505891296086,25.275181723779856,24.18091980235652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -919,7 +919,7 @@ points would depend on the Legislatures,
 and might materially effect the appoint­  
 matt welly further quoted from the de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866012501:0505/pct:227.49836708033965,347.8840728391895,39.124755062050944,30.41805591177225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866012501:0505/pct:56.9024669171704,86.97101820979738,9.785982682568207,7.604513977943062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -948,7 +948,7 @@ other points would depend on the legislatures and
 might materially effect the appointments.  
 The House then, without taking the question, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866012501:0195/pct:229.4331395348837,283.22717622080677,50.07267441860465,27.70700636942675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866012501:0195/pct:57.36870797746683,70.80679405520169,12.520443394512084,6.926751592356688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +988,7 @@ disfranchised. He tavored an amend­
 ment to apportion representatives among  
 the different States, in the same propor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665027:1866012501:0087/pct:29.721223021582734,83.9231966787753,13.908872901678658,13.10845874416191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665027:1866012501:0087/pct:29.721223021582734,83.92665628783948,13.923860911270983,13.111918353226086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1062,7 @@ number allotted to tho district?these and many
 other points would depend on the Legislatures, and  
 might materially affect the appointment.&quot; (8
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1866121301:0435/pct:1.5685640362225097,53.937974118697014,16.089909443725745,13.19723337795627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1866121301:0435/pct:1.5685640362225097,53.94169269671278,16.09529969814575,13.200951955972036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1195,7 +1195,7 @@ Legislature, as it would be to give the latter a like
 power over the election of their fepresentatives in the  
 State Legislatures.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038577:1892070501:0075/pct:198.69733033129623,59.46810858530126,47.95754261820521,67.01611123372324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038577:1892070501:0075/pct:66.23244344376542,19.822702861767088,15.985847539401737,22.338703744574413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1265,7 +1265,7 @@ of the States ought not to have the un­
 controlled right of regulating the times,  
 places and manner of holding election
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1892102901:0593/pct:34.22422769871572,51.715183818504855,9.6667823672336,4.933716003826705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1892102901:0593/pct:34.21828908554572,51.70811697185023,9.669442998438313,4.936458048647172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1299,7 +1299,7 @@ Yould to give to the latter a like power
 &gt;ver the election of their representatives  
 n the State Legislature?.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1892102901:0593/pct:34.22422769871572,56.66256662566626,9.6667823672336,8.99275659423261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1892102901:0593/pct:34.21828908554572,56.65482372232851,9.669442998438313,8.994943973763323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1459,7 +1459,7 @@ semeral Lirgislarsite as It woull h id thir mape
 fatter a like power over the election of their repre­  
 sentatives in the State Legislat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:00175038668:1893101501:0554/pct:4.926268027872306,45.7230031600741,48.29039053637984,24.76844284624605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:00175038668:1893101501:0554/pct:1.6420893426241019,15.241001053358033,16.09679684545995,8.25614761541535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1502,7 +1502,7 @@ elect the state Legislatures. Surely,
 then, If conlldenco is due te tbe latter It  
 -must be due te tbe fermer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069117:00206533717:1893111001:1315/pct:5.477759472817134,103.37924180036916,21.478583196046127,16.626437597614654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069117:00206533717:1893111001:1315/pct:4.120313143798929,77.53798097401675,16.11042439225381,12.48047706943064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

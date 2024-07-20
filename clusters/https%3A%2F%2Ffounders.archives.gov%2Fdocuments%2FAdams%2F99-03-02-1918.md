@@ -471,7 +471,7 @@ An humble note of thankfulness and praise!&quot;
 BloOMFIELD&#x27;s FARMeR&#x27;s BoY.  
 te te Not Voae Gon rooly has th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1859010701:0643/pct:68.83614088820826,217.24845995893224,46.86064318529862,16.955118803168084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1859010701:0643/pct:17.218923577858646,54.31211498973306,11.721892357785865,4.238779700792021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ Wander the leaf-strewed wood, the frozen
 plain:  
 Let the first flower, corn-waving field, plain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1859012001:0238/pct:19.991251093613297,89.97968855788761,44.13823272090988,21.123899796885578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1859012001:0238/pct:4.997812773403324,22.494922139471903,11.03455818022747,5.280974949221394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ Thee;
 And let me ever, midst thy bounties, raise  
 An humble note of thank fulness and praise!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1859012001:0238/pct:20.253718285214347,111.78063642518619,43.91951006124234,9.81719702098849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1859012001:0238/pct:5.063429571303587,27.945159106296547,10.979877515310585,2.4542992552471223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

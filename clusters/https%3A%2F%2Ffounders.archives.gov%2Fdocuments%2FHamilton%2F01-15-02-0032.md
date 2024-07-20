@@ -31,7 +31,7 @@ Wares and Merchandize imported into the
 United States, and on the Tonnage of Ships or  
 Veflels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790091501:0001/pct:4.339796860572484,25.78356002365464,27.14681440443213,3.8635915631776068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790091501:0001/pct:4.362880886426593,25.798344175044353,27.154509079716835,3.8635915631776068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -55,7 +55,7 @@ duties, there (hall be in the said State of Vermont one diftri&amp; ;
 and acolleftor {hall be appointed, to reside at Allburgh on Lake  
 Champlain, which (hall be the only port of entry or deliver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031201:0004/pct:11.757575757575758,41.76525821596244,26.575757575757574,5.596244131455399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031201:0004/pct:11.772727272727273,41.76525821596244,26.598484848484848,5.615023474178404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -72,7 +72,7 @@ o the ast, entuuledf
 ties imposed by law on goods, waresand merchandizes imported  
 nto the United States, and on the tonnage of ships or vdi-ls
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031601:0001/pct:62.72973787285327,87.16666666666667,26.69478758662248,2.5/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031601:0001/pct:62.73727026212715,87.18055555555556,26.724917143717988,2.4953703703703702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ on goods, wares and merchandizes im­
 ported into the United States, and on  
 the tonnage of ships or vessels,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791041601:0783/pct:48.09580838323353,68.27231856133591,20.167664670658684,5.057803468208093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791041601:0783/pct:48.09580838323353,68.27231856133591,20.18363273453094,5.057803468208093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ merchandize imported into the United
 States, and on the tonnage of ships or  
 veflels,””
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051901:0803/pct:4.381505688695231,34.372003835091085,20.697167755991284,5.752636625119846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791051901:0803/pct:4.381505688695231,34.37733035048471,20.705236827241183,5.757963140513476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ Merchandize imported into the United
 States, and on the Tonnage of Ships or Ves­  
 sels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792013001:0004/pct:70.27351968740606,72.33423807677394,20.58911932672077,9.286545172547498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792013001:0004/pct:70.28854824165916,72.33423807677394,20.58911932672077,9.301085692128732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ Collection of the Duties on Goods, Wares, &amp;
 Merchandize imported into the United  
 States, and on the Tonnage of Ships or Vef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792020901:0004/pct:71.40215716486902,65.06047600468202,21.047765793528505,4.779555208739758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792020901:0004/pct:71.40986132511556,65.07023019898557,21.040061633281972,4.769801014436208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ the tonnage of ships or vessels.”
 And be it furtber enalled, That  
 the owner or owners of ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792031401:0975/pct:27.089973032606032,73.7988468930173,20.961019857808285,9.320948110185778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792031401:0975/pct:27.106316907738826,73.7988468930173,20.95284792024189,9.326286568439034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ crease the complement of mariners to the ie­
 veral revenue cutters, so that the number do  
 not exceed seven mariners to each cutter-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793040401:0001/pct:29.557680812910938,56.15112600037223,19.665271966527197,5.267076121347478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793040401:0001/pct:29.580095636580992,56.16508468267262,19.65780035863718,5.276381909547739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

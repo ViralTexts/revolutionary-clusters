@@ -42,7 +42,7 @@ confounding Labyrinths of human Malice.
 ‘Our Senses are bere feafted with the clear and  
 genuine Taste of their Objelts, which are al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764092101:0287/pct:8.24627695043343,21.54597956463794,26.65036674816626,7.892788390345032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764092101:0287/pct:8.261095058161073,21.54597956463794,26.635548640438618,7.90759662372279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ With exhalations of dirt and smoke ?’
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1847-07_6_1/page/n30/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1847-07_6_1/page/n30/mode/1up?view=theater)
 
 #### 1847-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -247,7 +247,7 @@ uan malice:—our sense.i are here feasted
 with the clear and genuine taste of the.r oh­  
 eels ; which are all sophisticated ihere, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847120201:0187/pct:69.32119833143724,15.762381747356706,26.39362912400455,80.31441291040623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847120201:0187/pct:69.30805687203791,15.760189177910696,26.393364928909953,80.30671859785784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ in the dark and confused labyrinth o
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1851-07_14_79/page/n58/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1851-07_14_79/page/n58/mode/1up?view=theater)
 
 #### 1851-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

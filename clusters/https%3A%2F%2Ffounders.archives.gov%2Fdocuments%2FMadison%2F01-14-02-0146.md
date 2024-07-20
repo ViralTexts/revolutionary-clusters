@@ -64,7 +64,7 @@ under the harrow of speculation, that he hoped
 liomeafures would be adopted to leflen the means  
 of informations to the people of those states, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791122101:0002/pct:35.375868603916615,61.34981361585246,28.016424510423246,14.596821659799883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791122101:0002/pct:35.39955780164245,61.35962330782814,28.016424510423246,14.596821659799883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ out any division, in order to prevent the inequa­
 lity they conceive taexift in refpett to individu­  
 al dates !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792010701:0001/pct:67.04084814468351,49.49091635056897,27.47115684440287,45.13875024955081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792010701:0001/pct:67.06423448705955,49.49590736673987,27.478952291861553,45.15372329806348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ ry, that harmony would guide the decilion ol
 this(queftion, free from every local considerati­  
 on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792010701:0002/pct:7.1897467958737105,6.50390625,27.946233197874335,13.515625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792010701:0002/pct:7.197561738043139,6.50390625,27.954048140043763,13.5205078125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ Washington, the House proceeded, without delay,
 to frame another in accordance with the views of  
 the Constitution expressed by the President, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530169:1842011301:0041/pct:99.61640601947477,104.25811671892384,48.642667453526116,29.290988166278954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530169:1842011301:0041/pct:33.20546867315826,34.75270557297461,16.214222484508706,9.763662722092985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

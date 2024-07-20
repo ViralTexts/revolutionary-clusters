@@ -843,7 +843,7 @@ Man’s glory Heaven vouchsafes to call her
 own.”  
 The great number of communications re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841050601:0063/pct:48.716000607810365,88.15177186493258,13.478194803221395,2.744302589189834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841050601:0063/pct:48.70859920996658,88.14125507038892,13.481211384584219,2.747951960550386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -870,7 +870,7 @@ ten:
 &quot;His God sustained him in his final hour!  
 His final hour brought glory to his God!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191290:1845071201:0058/pct:316.7619885613726,142.90795156236769,57.76506819181698,23.98170886611906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191290:1845071201:0058/pct:79.21663549345362,35.72698789059192,14.446033667070084,5.995427216529765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

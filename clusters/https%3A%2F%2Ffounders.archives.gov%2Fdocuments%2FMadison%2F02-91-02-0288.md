@@ -306,7 +306,7 @@ Americans, and advifed then
 I and their •  
 the mayo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802031001:0002/pct:77.38494963460398,75.25572963874143,16.729211929685956,16.923475333419656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802031001:0002/pct:77.38494963460398,75.26436186283397,16.735795641582726,16.923475333419656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ n bward the vc . i • Lear cri­
 ed for the others, but in vain—:  
 Mr. Lear road
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802031001:0003/pct:5.688327078807031,5.930337951573223,16.66995852261505,34.15771073417066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802031001:0003/pct:5.694910790703799,5.934654063619492,16.66995852261505,34.15771073417066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ of faying feveral hcufes.
 The general in chief, expreiYcshim­  
 felf difpofed to befriend the American
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802031001:0003/pct:5.648824807426427,5.2829211446329145,33.91269998024887,90.00388450084164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802031001:0003/pct:5.661992231219962,5.2829211446329145,33.9061162683521,90.00388450084164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ tage (c&gt;\- the fulfilment of thefe condi­
 tions by the general in chi  
 would give top the idea of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802031001:0003/pct:23.108828757653566,13.945358021494238,16.452696030021727,28.7841512365661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802031001:0003/pct:23.108828757653566,13.945358021494238,16.452696030021727,28.79709957270491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ with the dctcputauon, and they reache-jss
 the town about smsct. when they went  
 to General Christopht&#x27; , and informed in:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802031101:0741/pct:2.3141845902531992,5.033608310418576,42.26790089844813,86.71707913229453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802031101:0741/pct:2.3138696066421667,5.0332238600779045,42.266684814663584,86.71300185849945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ her of women and children who were
 there, and such Am3t&#x27;cssctms as appeared— ss  
 all but 4or ghztt-t g gone an boardss 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802031101:0741/pct:22.91042744350667,13.007943782462572,21.671658045194665,17.713107241063245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802031101:0741/pct:22.907309105757452,13.006950278774918,21.673245315548296,17.714300262226637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ cured che lives of many whom he got oﬀ­
 fsom the ﬂames, and was the fine assay­  
 ing several houses. _ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802031101:0741/pct:23.032943098284782,30.7974335472044,21.549142390416552,46.62389245340666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802031101:0741/pct:23.029808084932625,30.795081341174672,21.550746336373123,46.622877364495025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ hi&#x27;m.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802031101:0741/pct:22.801524639259462,4.9648640391078525,43.520283147291046,87.00733272227315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802031101:0741/pct:22.79842112426841,4.964484839227068,43.518896601787574,87.00323327986965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -933,7 +933,7 @@ them.—Mr. Lear returned with the depatation, |
 and they reached the town about fun fet, when |  
 they went to General Chritophe, and informed 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802032001:0090/pct:5.32180595581172,16.441860465116278,20.461095100864554,27.232558139534884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802032001:0090/pct:5.32180595581172,16.44573643410853,20.461095100864554,27.228682170542637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1024,7 +1024,7 @@ tion is hcﬂ:k. The loft by the
 Ameri the town mm“’muebt,ahb.  
 and debts due from them thofe wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802032001:0090/pct:5.494716618635927,6.290697674418604,39.750240153698364,84.29069767441861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802032001:0090/pct:5.507524815882165,6.2984496124031,39.750240153698364,84.29069767441861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1059,7 +1059,7 @@ there is nothing left to load a fingle veflel ; the
 deftroflion ofntic town is far greater than in the  
 former conflagration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802032001:0090/pct:25.68683957732949,16.25581395348837,19.807877041306437,13.093023255813954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802032001:0090/pct:25.68683957732949,16.25968992248062,19.820685238552674,13.093023255813954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1101,7 +1101,7 @@ thefe conditions by the gencral in chief, if he
 would give up the idea of refiltance, bat it had  
 no cffeét upon him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802032001:0090/pct:25.74447646493756,29.313953488372093,19.615754082612874,17.406976744186046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802032001:0090/pct:25.74447646493756,29.31782945736434,19.641370477105347,17.414728682170544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1153,7 +1153,7 @@ Americans* Theycmberfced about z o’clock,
 t.-c&gt; might be as far as pofilble from the town.  
 Uic inip* having flood off in the night, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024678:00414184352:1802032001:0020/pct:29.436325678496868,19.544760935910478,21.066616056177644,24.860122075279754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024678:00414184352:1802032001:0020/pct:29.430740037950663,19.54227590591227,21.068943706514865,24.861199406653952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1260,7 +1260,7 @@ cut or the que.ftion 5 for thertf is nothing left
 tovm rS far grekter than in the former cor  
 narration.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024678:00414184352:1802032001:0020/pct:29.189599544505597,6.98118006103764,42.55076864680205,87.63987792472024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024678:00414184352:1802032001:0020/pct:29.184060721062618,6.98029243483789,42.549019607843135,87.63297308751854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1305,7 +1305,7 @@ th.ifecoiv.it! ons by the general in chief, if he
 Would give up the idea of refinance, but it  
 aau no effect Upon him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024678:00414184352:1802032001:0020/pct:50.93945720250522,52.11088504577823,20.51622698804327,21.019837232960324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024678:00414184352:1802032001:0020/pct:50.92979127134725,52.10425937698665,20.51865907653384,21.021402839584656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2164,7 +2164,7 @@ di ms by tf»eg neral in chief, if he would give
 up the i Jea ot icfillance, but it had no effeff up.  
 r.h him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802032901:0779/pct:12.22046134882902,5.492867787949755,64.51840112695898,86.27847562273791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802032901:0779/pct:12.21830985915493,5.492283129324108,64.51144366197182,86.27195316657797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

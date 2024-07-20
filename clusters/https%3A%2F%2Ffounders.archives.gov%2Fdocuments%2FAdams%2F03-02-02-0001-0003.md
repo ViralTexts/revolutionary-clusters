@@ -847,7 +847,7 @@ trusting the arm of public ilesh, may we realize the I
 precious truth, that our help is in the name of the ii  
 Lord, who made the heavens and the earth. f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851051201:0529/pct:71.01820250284415,71.79337686567165,13.680318543799773,2.693563432835821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851051201:0529/pct:71.01820250284415,71.79337686567165,13.689799014031095,2.701337064676617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1098,7 +1098,7 @@ The afflictions, etc, were of two kinds,
 wit: in their place of worship, and in the mis  
 understandings of the people concerning th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775721:1858092701:0412/pct:64.95398773006134,226.31941573653026,49.923312883435585,31.41794129805705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775721:1858092701:0412/pct:16.24784193362747,56.579853934132565,12.488010742374833,7.854485324514262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1164,7 +1164,7 @@ bid, chap, 58.
 make thy shadow as the night in the midst  
 of the noonday; hide the outcasts, betra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860070601:0326/pct:77.46268656716418,168.14184806112152,49.1044776119403,40.24794579789534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860070601:0326/pct:19.372900335946248,42.03546201528038,12.280701754385966,10.061986449473835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1238,7 @@ each other’s arms. They knelt down in their
 awe and trepidation. The candle seemed to  
 give but the feeblest relief to the surroundin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110120:1864071701:0001/pct:70.60218978102189,52.85848172446111,12.18978102189781,5.114473155710269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110120:1864071701:0001/pct:70.60675182481752,52.86517606105235,12.19890510948905,5.107778819119026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2060,7 +2060,7 @@ wrote He has secured a posidon in
 the custom house as his well known  
 capacity convinced us he would W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_angelou_ver03:data:sn89066097:00211109737:1884110701:0183/pct:54.138062547673535,69.35594147408725,12.280701754385966,7.780664569943935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_angelou_ver03:data:sn89066097:00211109737:1884110701:0183/pct:54.138062547673535,69.35594147408725,12.280701754385966,7.790920278955285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2336,7 +2336,7 @@ turned herself back, and saw Jesus standing,
 and knew not that it was Je3ua.&quot; Why  
 did she turn? Did the angels lookup an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287368:1891121601:0023/pct:56.76018386432081,49.07575595683299,15.089554604533207,9.904904370125013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287368:1891121601:0023/pct:56.77075077930998,49.07931759091071,15.089554604533207,9.912027638280444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2480,7 +2480,7 @@ why weepest thou ?’ She said unto
 them, ‘Because they have taken away  
 my Lord or husband.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898102001:0373/pct:36.47186147186147,89.89854433171593,13.896103896103897,2.440817526834289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898102001:0373/pct:36.463968837913875,89.88532784475154,13.898506816706341,2.4441340782122905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

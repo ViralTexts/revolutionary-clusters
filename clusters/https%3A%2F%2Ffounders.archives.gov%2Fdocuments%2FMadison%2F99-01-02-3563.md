@@ -92,7 +92,7 @@ respects t-&gt; be Useful and hono­
 rable to our courury.*&#x27;  
 From Mr. Canning to Mr. Pinkncy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111101:0001/pct:23.628441275500098,77.8154769672452,17.448999801940978,7.412240636826308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111101:0001/pct:23.64164521027266,77.82417678019922,17.442397834554697,7.420940449780329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ which our government is animated, and in
 other respect* to be useful and honorable to  
 our country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808111501:0374/pct:22.127739984882844,79.80587419639481,18.159486016628875,8.193621580738686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808111501:0374/pct:22.123559418099376,79.79581547769095,18.16235279299704,8.196790185698681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ in a strong light the just and liberal sintmu nls by
 which our government is animated, an.! in other  
 vespec ts to be tiselul and honourable to our country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808111601:0211/pct:55.329311211664155,25.80062407620299,20.889894419306184,5.370339957300049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808111601:0211/pct:55.31540588087459,25.796387520525453,20.8909273686856,5.373563218390805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ eiijn»eiit is animated, and in o Ixravfptdi to
 be ufcful and honourable to our country.”  
 I 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808112801:0508/pct:19.83640081799591,17.843866171003718,18.16632583503749,5.877624836732643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808112801:0508/pct:19.83302095757369,17.84207353827607,18.167490202760266,5.879545911191481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ stance of what has passed between us, at
 our several interviews, previous to the pre­  
 sentation ofyour official letter; and such I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809011601:0145/pct:48.45637583892618,33.20696813791859,22.296793437733037,3.1591298853687158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809011601:0145/pct:48.44915001491202,33.20397111913358,22.298439208668853,3.161853188929001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ _ With the highest consideration,
 Sir,  
 Your most ob&#x27;t. humble serv&#x27;t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809011901:0157/pct:24.098360655737704,2.7126892573900503,47.58569299552906,93.69142033165105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809011901:0157/pct:24.09476978095664,2.712444804902226,47.5835692643918,93.68598119611907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ us at our several interviews, previous to the
 presentation of that note.&quot;  
 I shall lose no time in transmitting to m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809011901:0157/pct:48.65871833084948,39.608868060562365,22.35469448584203,3.1182408074981978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809011901:0157/pct:48.65146773953211,39.60529872938632,22.35633040282124,3.1209636238022287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ rectly, the substance of what has passed be­
 tween us, at our several interviews, previous  
 to the presentation of your official letter, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809012001:0318/pct:47.44872436218109,66.20989843624052,20.535267633816908,2.111881347734967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809012001:0318/pct:47.436859214803704,66.19922630560929,20.536384096024005,2.115570599613153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ With the highest ruusideratioD,
 Sir,  
 Your most nl.’t. humble servan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809012301:0323/pct:54.515306122448976,2.339561332250203,43.01020408163265,92.96506904955321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809012301:0323/pct:54.50140270339199,2.3391812865497075,43.00561081356797,92.9540285899935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ I have the honor tube, with the high­
 est consideration, sir, your most  
 obedient humble sevt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012401:0334/pct:6.2250453720508165,47.23069105691057,17.604355716878402,29.026930894308943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012401:0334/pct:6.223915804754128,47.2246919852661,17.607209822778685,29.027477877979592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ I have the honor to be, with the
 highest consideration, sir, vour  
 most obedient humble se»-vt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0031/pct:6.3392029657089894,61.995127580459034,17.442075996292864,30.785998204898064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0031/pct:6.338028169014085,61.98717948717949,17.445021003212258,30.786324786324787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ most obedient humble se»-vt
 us at our several interviews previous to thej  
 presentation of that note.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0031/pct:24.13345690454124,20.259007565072444,17.6274328081557,1.7181689960251314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012401:0031/pct:24.12898443291327,20.256410256410255,17.63034346429454,1.7222222222222223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1342,7 +1342,7 @@ to ourcouatry.
 I have the honor to be,with the highest consideration,  
 Sir, your most obedient humble serve. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809021401:0233/pct:27.099060237251578,10.0169779286927,20.905869665690958,14.311395186257865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809021401:0233/pct:27.099060237251578,10.0169779286927,20.91614029682124,14.314724191883885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1361,7 +1361,7 @@ November, 1807, togcther with a Ratcment of “the sub­
 stance of what has passed between us at our several in­  
 terviews previous to the presentation of that note,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809021401:0233/pct:49.391465105530735,36.99191051632877,20.582344785087045,2.8862478777589136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809021401:0233/pct:49.396600421095876,36.99191051632877,20.59775073178247,2.8929058890109522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

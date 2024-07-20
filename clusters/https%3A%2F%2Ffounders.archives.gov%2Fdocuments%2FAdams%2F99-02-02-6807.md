@@ -823,7 +823,7 @@ Than heal the smiter and the sailes bless?&quot;
   
 &quot;Now these lince were written,&quot; sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1872081401:0549/pct:199.390243902439,352.8430160692213,56.8815331010453,15.203955500618047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1872081401:0549/pct:49.85841864517534,88.21075401730532,14.223480723153997,3.800988875154512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -948,7 +948,7 @@ Can join these faithful friends is one;
 For they&#x27;re a string of pearls, and I  
 The silken cord oa which they lie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036477:1885103101:0384/pct:20.344399076868452,82.05095702877425,11.911947452511983,6.566104702750666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036477:1885103101:0384/pct:20.35771347417007,82.05729496767651,11.90750932007811,6.559766763848397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1091,7 +1091,7 @@ pride.
 Emblaze with gems the wrist that rends  
 thy side.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102469:1896110501:0465/pct:109.37752627324171,112.30931883401298,16.08730800323363,7.6272466394804415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn84024441:211102469:1896110501:0465/pct:82.08291203235592,84.23198912550974,12.072800808897876,5.724210844283341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1113,7 +1113,7 @@ pride,
 Emblaze with gems the wrist that, rends  
 thy side.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn95079481:00175031790:1896110801:0379/pct:17.714175207890158,47.757724911129344,15.722297427963644,4.375170905113481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn95079481:00175031790:1896110801:0379/pct:17.714175207890158,47.76683985051499,15.728743634371172,4.379728374806308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1151,7 +1151,7 @@ pride,
 Emblaze with gems the wrist that reuds  
 thy side.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896111501:0559/pct:49.058425881216806,58.35585585585586,14.163849991952357,7.150900900900901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896111501:0559/pct:49.06915607060465,58.36336336336336,14.1745801813402,7.147147147147147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,7 +1220,7 @@ pride,
 IC in blaze with gems the wrist that rends  
 thy side.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1897031101:0912/pct:79.65054712319096,39.19356774270971,14.31344864101659,4.176167046681868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1897031101:0912/pct:79.65643016825508,39.19756790271611,14.307565595952465,4.180167206688267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1242,7 +1242,7 @@ pride,
 Emblaze with gems the wrist that rends  
 thy side.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1897031201:0226/pct:91.21004566210046,74.3878954607978,15.23972602739726,4.552957359009628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1897031201:0226/pct:79.80689195938072,65.09668619112573,13.351090394539703,3.9918157746930913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1264,7 +1264,7 @@ pride,
 lOmblaze with gems the wrist that rends  
 thy side.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624657:1897031201:0265/pct:84.1282894736842,42.83446384759706,14.84375,4.286332804156444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624657:1897031201:0265/pct:77.83201267828844,39.62709149163403,13.736925515055468,3.9782840868636526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1331,7 +1331,7 @@ All nature cries aloud. Can man do less
 Than heal the smiter and the railer bless  
 What is the origin of the slang expressio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034948:1898050801:0104/pct:185.71428571428572,203.47200978892627,52.51623376623377,24.961762006729888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034948:1898050801:0104/pct:46.437994722955146,50.86800244723157,13.131723158108382,6.240440501682472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

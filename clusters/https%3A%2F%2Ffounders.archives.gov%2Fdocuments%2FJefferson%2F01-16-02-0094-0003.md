@@ -91,7 +91,7 @@ to Heaven.
   
 Fibruary 12, I 790
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790032401:0003/pct:35.8181255799567,5.963393032867546,55.583049798948345,88.66364888801417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790032401:0003/pct:35.84132384781936,5.973233615430034,55.5675842870399,88.66364888801417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ eased to be the candidate of a p
 to-day he is the elected President of the whole  
 country. As such, and until he has don
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531277:1876110801:0302/pct:56.79436804191224,118.59378649848166,47.626064178127045,29.25718290119131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531277:1876110801:0302/pct:18.93145601397075,39.53126216616055,15.87535472604235,9.752394300397103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ Gov. Tilden ceased to be the candidate of
 a party to-day he is elected President of  
 the whole country. As such, and until h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053942:00295873206:1876111101:0039/pct:9.013398294762485,42.857142857142854,16.21498172959805,14.308426073131956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053942:00295873206:1876111101:0039/pct:6.7621078282059095,32.14853508971156,12.168748096253427,10.731319554848966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ Hayes or Tilden. The President-elect
 is not now a candidate to be criticised,  
 reviled and abused ; he is the chose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627415:1876111101:0193/pct:2.6546865427812945,30.08809234507898,16.377373902389216,14.094775212636694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627415:1876111101:0193/pct:2.06794682422452,23.318684768107982,12.687275796581558,10.939339245075727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ TURNS TO THE RIGHT WAY.
   
 Jefferson s seal in the possession of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072977:00416156815:1891040201:0328/pct:33.44266970907017,88.90756302521008,18.710781517398743,12.99719887955182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072977:00416156815:1891040201:0328/pct:25.092724679029956,66.68534080298787,14.037089871611983,9.747899159663865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ his faith:&quot;Rebellion to Tyrants is Obedi
 ence To God.&quot;  
 The Chronicle wishes very much tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91090200:00415667553:1891040801:0057/pct:22.0168954593453,59.956498096791734,14.057550158394932,10.603588907014682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91090200:00415667553:1891040801:0057/pct:16.519212993529646,44.97009244154432,10.550640433117655,7.960848287112561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ suffrage, and alter the form of our
 government, in reality if not in name.  
 The recent great political campaig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894112801:0666/pct:54.64058234758872,44.328077194634034,11.828935395814376,11.061426217933631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894112801:0666/pct:54.64058234758872,44.328077194634034,11.849155798200384,11.065348709500274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ honest, solitary and short-lived. Lien
 us forever bow down to the general  
 reason of society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270204:00279527768:1895101001:0596/pct:109.4139650872818,68.28732316989425,19.139650872817956,6.523829144348304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270204:00279527768:1895101001:0596/pct:82.0997920997921,51.21549237742068,14.365904365904365,4.903172641120725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ honest, solitary and short-lived. Let
 us forever bow down to the general  
 reason of society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895101101:0556/pct:46.80388219544846,71.65434616365027,18.17269076305221,6.538363497323477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895101101:0556/pct:31.218613993973886,47.76956410910018,12.11918312688316,4.358908998215651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ are honest, solitary and short-lived.&quot;
 Ihere is no special democracy in.that.  
 All parties endorse it. Jefferson sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288397:1896080401:0151/pct:80.22156573116692,12.793893129770993,13.013293943870014,3.0229007633587788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288397:1896080401:0151/pct:80.23141309699655,12.797285835453774,13.003446578040375,3.0262934690415606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ holder is presumed to be a radsl.
 I have tried in vain to make  
 these modern political garmep t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_juggernaut_ver01:data:sn88064237:0021110093A:1896091901:0158/pct:83.63892806770099,12.25256827862691,13.187588152327221,8.118266098722124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_juggernaut_ver01:data:sn88064237:0021110093A:1896091901:0158/pct:83.62418473470827,12.25256827862691,13.185263528997003,8.118266098722124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ every individual has the right to
 govern himself, and governments  
 must derive their right from the assent 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bentonite_ver02:data:sn95060797:00517019264:1897091801:0096/pct:27.24564619615032,76.16995988708959,20.989917506874427,9.924231169217055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bentonite_ver02:data:sn95060797:00517019264:1897091801:0096/pct:27.24564619615032,76.17986430941416,21.005194011610143,9.919278958054772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ how completely was the Democratic
 party founded on the principles at the  
 base of direct legislation, but these ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1898041301:0441/pct:18.847951608468517,39.60732697159153,11.740445422051142,8.566414390698695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1898041301:0441/pct:18.857116671249198,39.60732697159153,11.735862890660801,8.570070564147564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

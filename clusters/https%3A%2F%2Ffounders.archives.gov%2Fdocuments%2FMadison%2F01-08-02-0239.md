@@ -432,7 +432,7 @@ of the United States, and refer solely to the
   
 taking and curing ush on tne urano Bang 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819060401:0280/pct:26.332509707024357,14.30892547660312,18.17860924814684,23.41854419410745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819060401:0280/pct:26.327863066878418,14.30737571753493,18.181283453914475,23.41961803675223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ law tha1 the wharves in this town were erected:
 and this authority is given upon the cxptesscon  
 diiion that it shall be so exercised as not to oh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830081101:0252/pct:26.17113223854797,53.71526502631901,18.01210025929127,11.861917003305178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830081101:0252/pct:26.166609056342896,53.70869033047735,18.014748242885126,11.864545083639332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ of either State, the offenders shall be tried by the
 court of the State to which thay shall first be  
 brought.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288579:1867092301:0295/pct:226.91914022517912,122.1877424359969,51.381780962128964,7.447633824670287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288579:1867092301:0295/pct:56.72978505629478,30.546935608999224,12.845445240532241,1.8619084561675718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ he shall be tried in such other State,* and in all
 questions of citizenship the burden of proof  
 shall be on the offender
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624335:1870061701:0031/pct:69.25863991081383,49.4696648281714,12.62541806020067,4.666949512091642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624335:1870061701:0031/pct:69.25863991081383,49.47673596379578,12.639353400222966,4.659878376467261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ Fisheries on the shores of the other State, ’
 have a right to fish&#x27; with nets or seines on the  
 shores of the other.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624335:1871040701:0188/pct:43.832752613240416,34.80246389124894,12.627177700348431,3.292268479184367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624335:1871040701:0188/pct:43.832752613240416,34.80246389124894,12.641114982578397,3.2958085528178986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ j &quot;ami that the citizens of neither State shall .
 1 have a light to tish with nets or seines on the  
 .-liore.s ol the other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:0041566364A:1871040801:0357/pct:66.66666666666667,27.644343976641235,16.599462365591396,3.2777620796835265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:0041566364A:1871040801:0357/pct:66.67562724014337,27.650623214341778,16.599462365591396,3.274622460833255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ concerning this, which one of the Attorney
 Generals of the United State* subsequently held  
 to be in excess of their power. The power wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654395:1873012301:0158/pct:15.854738706820195,53.947814300237205,13.448479480366105,7.669716480289168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654395:1873012301:0158/pct:15.865810451727192,53.95628600474416,13.452170062001771,7.678188184796114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -604,7 +604,7 @@ of both States, except that tho citizens of
 neither State shall havo the right to fish with  
 nets or seines
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:0041566381A:1878021901:0109/pct:3.2530904359141184,76.4194464158978,17.4886141834743,3.8679914833215046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:0041566381A:1878021901:0109/pct:3.2574278898286706,76.42240359593092,17.492951637388853,3.870948663354625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ All laws or regulations necessary tor tbc preservation
 of fish iu tho Putomao must be made  
 with the consent and approbation of both States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:0041566381A:1878021901:0109/pct:3.2921275211450878,79.4889992902768,17.34547820429408,2.3687012065294537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:0041566381A:1878021901:0109/pct:3.2921275211450878,79.49195647030992,17.34547820429408,2.3746155665956943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ on the shores of the other State; and that the J
 fitizens of neither State shall have a right to  
 Elsh with nets or seines on the shores of the other, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:0041566381A:1878031501:0192/pct:19.82344541087888,86.90622261174408,16.409191224198363,8.159509202453988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:0041566381A:1878031501:0192/pct:19.82344541087888,86.90914402570844,16.4221731792808,8.159509202453988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -707,7 +707,7 @@ mid&#x27;hat the citizens of noith.-r S-ate shall
 iiave a light to h.-h wih uets or aunes oti  
 the shorrs of the other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663894:1883032801:0669/pct:2.337823192444651,43.83942357179619,15.513237343241988,9.016984045290787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663894:1883032801:0669/pct:2.337823192444651,43.83942357179619,15.528719616039634,9.023846285812319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -769,7 +769,7 @@ therein contained, shall bn and the same are hereby
 ratified and confirmed on the part of the stato of New  
 Jersey
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1884061901:0313/pct:39.54676029364826,85.15625,10.86817746568784,1.1899038461538463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1884061901:0313/pct:39.540449976065105,85.14601610383367,10.870432423807245,1.192765292633097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,7 +797,7 @@ eighteen hundred and seventy-four.
 1. Re it enacted by the Senate s.nd Gen­  
 eral Assembly of the State of New Jersey
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85035661:00513685075:1884062101:0416/pct:44.585749018141016,43.41535965386696,13.016644847578082,6.88209843158464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85035661:00513685075:1884062101:0416/pct:44.577412116679135,43.40949033391916,13.018885564697083,6.884547789644451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ done, so they discussed general politics, and
 ended by drawing up a plan of union for the  
 two states involving uniform money an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551359:1887091401:0185/pct:50.31567080045096,23.090952343192452,11.961668545659526,3.6634684006026483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551359:1887091401:0185/pct:50.32318677189026,23.09623873338091,11.957910559939872,3.6634684006026483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ therein contained, shall ho and the same is hereby
 fully and amply ratified aud confirmed on tho part of  
 the stale of N&lt; w Jersey
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685312:1888082301:0552/pct:37.69450619244205,87.31760700389106,10.654175928866307,1.203793774319066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685312:1888082301:0552/pct:37.68852198761708,87.30699088145897,10.656453405302429,1.2066869300911853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -917,7 +917,7 @@ aforesaid agreement, and every article,
 clause, matter and thing therein contained,  
 shall be and the same is hereby fully an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529649:1888082301:0276/pct:20.63282794990112,15.758221680876979,14.216655680070314,1.1571254567600486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529649:1888082301:0276/pct:20.62829525483304,15.755822804079768,14.21902460456942,1.1607550616532196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ other obstruction thereto, shall be
 &quot; ade with the mutual consent and  
 approbation of both Statas.&quot; Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ivory_ver01:data:sn94060041:00175033993:1892090301:0291/pct:25.484848484848484,21.725383920505873,12.287878787878787,27.15672990063234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ivory_ver01:data:sn94060041:00175033993:1892090301:0291/pct:25.48989898989899,21.729147847034024,12.282828282828282,27.16425775368865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1221,7 +1221,7 @@ tions.
 And the eleventh section provides  
 ; for the service of the process issue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:0034058854A:1894041901:0118/pct:49.43496565477509,14.318044659022329,18.41347219144693,23.098974049487026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:0034058854A:1894041901:0118/pct:38.31711505437894,11.104182094555092,14.275901545506583,17.897649764196906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1247,7 +1247,7 @@ we cannot help being influenced by our
 conviction (Chancellor Bland notwithstand­  
 ing) that it applies to the whole course o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:0028065498A:1895012501:0287/pct:43.19849803720771,22.058262307594454,13.859020310633214,4.973921892888946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:0028065498A:1895012501:0287/pct:43.20703191670933,22.06462282152398,13.871821129885646,4.9771021498537085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1267,7 +1267,7 @@ court of that State of which the offender
 is a citizen.&quot; It is claimed by the  
 Virginians that whatever power Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033695:1895062601:0359/pct:1.2020033388981637,30.156718137819773,13.555926544240402,3.284166858723208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033695:1895062601:0359/pct:1.2020033388981637,30.164400399477607,13.567056204785754,3.284166858723208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1290,7 +1290,7 @@ tried in the court of that State of which
 the offender is a citizen.&quot; It is claimed  
 by the Virginians that whatever powe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175031170:1895062701:0553/pct:207.61240058432074,268.56909906237263,39.03587080019477,10.854056257643702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175031170:1895062701:0553/pct:69.20413352810691,89.52303302079086,13.011956933398258,3.6180187525479006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

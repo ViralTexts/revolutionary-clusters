@@ -118,7 +118,7 @@ lention of the Professors.
 73 It is the earnest request and recommendation  
 of the Rector and Visi.ors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825102801:0182/pct:83.7708066581306,65.03471390950443,15.060819462227913,29.27938711994254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825102801:0182/pct:83.75740118418948,65.02692998204668,15.063743532298501,29.279872331936964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ the University, or committed by Students else­
 whete.  
 arrival of the president of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825102801:0183/pct:2.4687399807630652,21.665280912222354,15.309394036550175,39.909727996199074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825102801:0183/pct:2.4683442859432603,21.66270783847981,15.31228295132767,39.9089469517023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ fessors.
 commendation of the Rector and Visi­  
 tors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825110101:0237/pct:4.416809605488851,22.317073170731707,13.164665523156089,34.801829268292686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825110101:0237/pct:4.415862808145766,22.313671696387747,13.167202572347266,34.800335314738604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ peace, trespasses and misdemeanors,
 within the precincts of the University,  
 or committed by Students elsewhere.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825110101:0237/pct:4.073756432246999,5.7926829268292686,26.865351629502573,89.6951219512195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825110101:0237/pct:4.072883172561629,5.791800030483158,26.864951768488744,89.68526139308032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ sors.
 commendation of the Rector and Visi­  
 ■ters
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825110301:0603/pct:5.860238832375055,7.803943044906901,19.283502874834145,45.31763417305586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825110301:0603/pct:5.85894317930577,7.8028747433264884,19.284766747733805,45.31485284052019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ peace, trespasses and misdemeanors,
 within the precincts of the University, or  
 committed by Students elsewhere.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825110301:0603/pct:5.793896505970809,6.25684556407448,37.085360459973465,87.76013143483023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1825110301:0603/pct:5.79261552067212,6.2559890485968515,37.08268848109662,87.75154004106776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -752,7 +752,7 @@ be permitted al-n to act as a consulting Physician
 elsewhere; «o timing these vocations, however, as  
 n it to interrupt the tegular business ot the school
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0319/pct:64.22893481717011,62.76085392180379,14.92845786963434,6.7042456224514275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011201:0319/pct:64.21872516293116,62.75332773713875,14.931383457849838,6.707438941519767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ fessors.
 lawful act, shall subject the o ill-tutors to a­  
 ny of ihe punishments, at the discretion o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:30.0548066953044,26.415309260735846,15.582876610872463,8.144435584918556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:30.050355450236967,26.4123006833713,15.585505529225909,8.147304479878512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ Univcr»ity do this, and the disordci ly will then be
 singled out for observation, and deterred by pun  
 i-bment or disabled by expulsion, from :«fectiag.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:29.936305732484076,67.50199339332498,15.790253295808029,24.649732315753504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827011301:0052/pct:29.93187203791469,67.49430523917995,15.79285150078989,24.650721336370538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -870,7 +870,7 @@ Faculty of Professors.
 Any combination of students to do an unlawiul  
 act, shall subj-ct the offenders to any oT the pu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.671952586897326,25.637325637325638,15.201025148165947,5.9283309283309285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.666239590006406,25.634243116508355,15.203929105274396,5.9316259869343915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ with their inconsideration, Ihe fnsiputinn itself, and
 the sound mass which it is preparing for virtue and  
 usefulness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.671952586897326,58.56180856180856,15.265096908537561,26.551226551226552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012001:0334/pct:35.666239590006406,58.55476734399423,15.267990604313475,26.552042002324555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -958,7 +958,7 @@ milted to tiic Visitors at tbeit next succeeding mcet­
 rng, and shall be in force till disapproved pv the  
 Visitors, or repealed hy the Facult
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.755126658624846,51.848013816925736,16.028347406513873,3.557858376511226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.746570179406,51.84204466958324,16.03095632946379,3.561286361194259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -975,7 +975,7 @@ Tho Faculty shall have the power, for offensive
 conduct; of removing the occupant from any dor­  
 mitoc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.755126658624846,61.404720782959124,15.877563329312425,1.358664363845711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1827012001:0053/pct:56.746570179406,61.39765139304628,15.880194984672597,1.3623455368792694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -996,7 +996,7 @@ be submitted to the Visitors at their next suc­
 ceeding meeting, and bh-ll be in force till disap­  
 proved by the Visitors, or tepealedby the Faculty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:19.552358113509193,62.058895108298856,15.283772981614709,3.577512776831346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827013001:0350/pct:19.54923273657289,62.051344445796325,15.286658141517476,3.5811331467737357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ ed into the University unless he produces a certificate .
 from such Seminary, or other satisfactory evidence, to :  
 the Faculty, with respect to his general good conduct, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847081301:0493/pct:13.506833381797033,48.61072391041725,13.361442279732481,1.8120992472818511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847081301:0493/pct:13.511679751865852,48.61072391041725,13.361442279732481,1.8182944583836693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1064,7 +1064,7 @@ the University unless he produce a certifjc ite from such
 -emiuary, or other satisfactory oviJonce to the Faculty, with  
 respect to his general go-&#x27;d eouduet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847090601:0861/pct:83.64207221350078,15.902026606987443,15.10204081632653,2.2504040780803183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847090601:0861/pct:83.64207221350078,15.90617099755481,15.11250654107797,2.2545484686476853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,7 +1083,7 @@ ed Into the University unless he produces a certificate !
 from ?uch Seminary, or other satisfactory evidence, to  
 the Faculty, with respect to his seneral good conduct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847090701:0524/pct:71.82695206511909,61.83124575201476,13.611697316852577,1.7768715409263036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847090701:0524/pct:71.82695206511909,61.83771887238243,13.61672193749372,1.773634980742467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1102,7 +1102,7 @@ the University unless he produce a certificate from sucli q
 seminary, or other satisfactory evidence to the Faculty, with ,&gt;  
 respect to his general good conduct. s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847093001:0944/pct:31.212408990186766,23.909551464228347,16.255144032921812,2.1994316075620906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847093001:0944/pct:31.212408990186766,23.91778903579225,16.270971826527383,2.1994316075620906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1131,7 +1131,7 @@ into the University unless he produces a certificate
 from such Quinary, or other ? ltlslactory evidence, to  
 the F i .Ity .with respect to his general good conduct. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848090801:0308/pct:1.4445271779597915,57.4610457891215,13.730454206999255,1.8545072172832424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848090801:0308/pct:1.4445271779597915,57.4610457891215,13.73541821792008,1.8576936558009114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1150,7 +1150,7 @@ sity unlets he produces a certificate from such seminary, or
 other satisfactory evidence to the Faculty with respect to hia  
 i general good conduct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848090901:0315/pct:80.01429592566119,75.25971093044264,15.696926375982844,2.6084010840108403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848090901:0315/pct:80.02382654276865,75.26723878349894,15.706456993090303,2.604637157482686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1169,7 +1169,7 @@ into the University unless he produces a certificate
 from such Seminary, or other satisfactory evidence, to  
 the Faculty,with reipactto hi* general good conduct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848091201:0313/pct:14.31945674638323,20.58766859344894,13.492766459994096,1.8400770712909442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848091201:0313/pct:14.31945674638323,20.58766859344894,13.512449562050978,1.8432883750802826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,7 +1187,7 @@ into tbe University unless be produces a certificate
 from such Seminary, or other satisfactory evidence, to  
 the Faculty, with respect to hi* general good conduct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848091201:0314/pct:14.171833480956598,21.05917216327311,13.507528786536758,1.5199311729280183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848091201:0314/pct:14.171833480956598,21.065545040308447,13.512449562050978,1.5231176114456872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1206,7 +1206,7 @@ lew lie produces a certificate from such Seminary, or other ?ati.fac­
 tory evidence to the Faculty, with respect to Ills irenera! L&#x27;oijj con­  
 duc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850090601:0485/pct:49.23432533949725,61.182543406851245,15.530193585668881,1.661191928671985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850090601:0485/pct:49.23432533949725,61.18567182856249,15.535009149571415,1.6643203503832316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,7 +1224,7 @@ porated Seminary, he cannot be received into llie University, unless
 lie produce a certificate from such Seminary, or other satisfactory  
 evideuce to the Faculty of general good conduct. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0413/pct:16.157205240174672,11.652358445066074,15.967976710334788,1.4951287739944052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0413/pct:16.157205240174672,11.655573775762837,15.972828723920427,1.5015594353879296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1242,7 +1242,7 @@ corporated seminary, be cannot be received into the University un­
 less he produce a certificate from such seminary, or other satisfactory  
 evidence, to the Faculty, of general good conduct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851100801:1013/pct:64.89576328177539,56.52173913043478,15.770006724949562,1.603180710529691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851100801:1013/pct:64.90697153104685,56.52601427899619,15.764402600313831,1.603180710529691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1260,7 +1260,7 @@ corporated seminary, he cannot be received into the University un
 less he produce a certificate from such seminary, or other satisfactory  
 evidence, to the Faculty, of general good conduct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851101001:1021/pct:63.59447004608295,56.424366521627846,15.503620803159974,1.5996928589710775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851101001:1021/pct:63.605442176870746,56.42863236925177,15.498134737766074,1.5996928589710775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1278,7 +1278,7 @@ corporated semi nary, he cannot be received Into the University uu
 less he produce a certificate from such seminary, or other satisfactory  
 evidenec, to the Faculty, of general good couduct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851112001:1209/pct:49.45460647759691,22.080895446451283,15.623426749454607,1.6280844568812007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851112001:1209/pct:49.45460647759691,22.080895446451283,15.62902052917156,1.640803866700585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

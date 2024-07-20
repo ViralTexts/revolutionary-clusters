@@ -552,7 +552,7 @@ tendered, in its local o|
 • ration, at least, a den  
 letter. J) Th y, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102501:0208/pct:4.063979108862412,57.76839565741858,8.176921821446058,27.430639324487334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102501:0208/pct:4.06331592689295,57.76142805451695,8.181026979982594,27.43135126442327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ jealous ol its progress, i
 and clamorous at its en­  
 durance; they, therefore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102501:0208/pct:12.551003753876286,57.76839565741858,8.144279418965235,14.692400482509047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102501:0208/pct:12.548955613577023,57.76142805451695,8.148389904264578,14.694648815985206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ sent by the father to W usl.i;igi -u, an ! i &lt; there care­
 fully preserved in the iL&#x27;p^rtinent of State. I  
 have reason to believe that it has . veil been sen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828111101:0234/pct:3.62400906002265,63.89554384283661,15.272609610095454,4.767609008145664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828111101:0234/pct:3.623422840504691,63.88789076536112,15.275531111830045,4.771030462730067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

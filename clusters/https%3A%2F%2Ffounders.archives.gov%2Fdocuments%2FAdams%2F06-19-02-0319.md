@@ -52,7 +52,7 @@ S I K,
 WE,the Senate oftheUnited States, return you our fincerethanks  
 fur your excellent Speech, delivered
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789052001:0003/pct:29.308323563892145,13.663518982462902,25.644783118405627,15.01252649836192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789052001:0003/pct:29.322977725674093,13.677972634418964,25.6521101992966,15.022162266332627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ him long to preserve a life so
 valuable and dear to the peo­  
 ple of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789052801:0393/pct:6.461761858664085,8.444802578565673,56.41335914811229,85.07655116841256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789052801:0393/pct:6.477896095514682,8.4501745903841,56.405292029687,85.07655116841256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ tul addref# to the President of the United
 States, in answer to his Speech to both  
 Houses of Congress, at the opening o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792111001:0002/pct:30.72110635495555,67.23296231204843,20.842937108989133,2.6362038664323375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792111001:0002/pct:30.72110635495555,67.23296231204843,20.884096147513993,2.6508494434680725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ sident of Ihe United States, in an­
 swer to his speech to both houses of  
 Congress, at tiie commencement o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796122401:0206/pct:10.909368324687215,53.15779053652742,15.425694232529754,2.6133438922985546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796122401:0206/pct:10.909368324687215,53.15779053652742,15.425694232529754,2.619943245561935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ President of the United States, in’
 answer to his speech to both Houses  
 of Congress, at the commencement
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797053001:0296/pct:8.254017787486347,25.61851556264964,16.008737712591667,2.723463687150838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797053001:0296/pct:8.254017787486347,25.62516626762437,16.024340770791074,2.7301143921255653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ House osßeprefentatives to The Pre­
 sident of_the United States, in answer  
 to his Speech to both Houses of Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798122601:0628/pct:76.98583743842364,50.72946244981886,15.732758620689655,2.0464114364045822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798122601:0628/pct:76.99610016420361,50.72946244981886,15.732758620689655,2.052939064590881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ to his Speech to both Houses of Con
 • which w js read, and ordered to be committed  
 “to a committee of the WtioleHouse to-morrow,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828091801:0589/pct:1.7977041368854234,19.677419354838708,17.500541477149664,2.8611500701262274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828091801:0589/pct:1.7973148549155478,19.67465993549292,17.502165439584235,2.864254662740149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ Ia his lester, published in the Trey,
 e oe e   
 The Pseaidential office pacaents no indur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1847072201:0904/pct:212.3065015479876,66.4543524416136,59.05572755417957,41.40127388535032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1847072201:0904/pct:53.08689761950842,16.6135881104034,14.76678923940391,10.35031847133758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ liberties of this great Republic.” And the House
 responded in an equally happy and patriotic man­  
 ner. Recur to those early times of public spirit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1850073101:0139/pct:57.74758296315652,47.32685297691373,12.607786778155212,3.72620494127177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1850073101:0139/pct:57.751937984496124,47.32685297691373,12.612141799494818,3.73295531254219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ ington&#x27;s reply to this address. These documents
 are dated one month earlier than their publication.  
 Editorials and communications are in the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1866092001:0386/pct:18.44517184942717,43.37945775677804,16.0392798690671,3.813702328720891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1866092001:0386/pct:18.4506273867976,43.38320770990363,16.0392798690671,3.817452281846477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ to acknowledge and adore the great ar­
 biter of the universe by whom empires  
 rise and lall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871386:1898022201:0362/pct:25.279916025192442,104.22299863284216,16.567529741077678,4.177426705149628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871386:1898022201:0362/pct:18.967629046369204,78.17104663527267,12.42344706911636,3.1292723682211756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ inevitably led to acknowledge and
 adore the great arbiter of the universe  
 by whom empires rise and fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175134:1898022201:0420/pct:39.65725319816558,9.304168647963227,15.858073859522085,2.710413694721826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175134:1898022201:0420/pct:39.65725319816558,9.304168647963227,15.876176683562635,2.7143762878427644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ they were Inevitably led to acknowledge
 and adore the great arbiter of the uni­  
 verse, by whom empires rise and fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583280:1898022301:0459/pct:20.154705629565964,56.01984067338043,14.288783841856468,1.2325266796933714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583280:1898022301:0459/pct:20.150375939849624,56.011421701232344,14.29108485499463,1.2360985873159003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ led to acknowledge and adore the great
 arbiter 6f the universe by whom empires  
 rise and fall.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769770:1898022301:0692/pct:30.47844063792085,5.566190546311295,12.443394368970269,1.7817699896922397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769770:1898022301:0692/pct:30.48828509549124,5.566190546311295,12.438472140185075,1.789132675600059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ edge and adore the great Arbitrator of
 the Universe, by whom empires rise and  
 fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:00280760626:1898022301:0307/pct:46.69384057971015,73.02798982188295,18.52355072463768,8.441199247704391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:00280760626:1898022301:0307/pct:31.13862881304742,48.68901427149021,12.352763515554214,5.631153888704502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ knowledge and adore the Great Arbiter
 of the universe by whom empires rise  
 and fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022301:0949/pct:52.7112676056338,183.71598639455783,38.23943661971831,10.799319727891156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022301:0949/pct:17.570422535211268,61.23866213151928,12.746478873239436,3.5997732426303855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ tude, and that they were inevitably led to ao-
 knowledge and adore the great arbiter of the  
 universe by whom empires rise and fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022301:0703/pct:69.8170731707317,16.636197440585008,50.076219512195124,6.337599024984765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022301:0703/pct:17.457594816085383,4.159049360146252,12.521440823327616,1.5843997562461913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ that they were Inevitably led to acknowl­
 edge and adore the great arbiter of the  
 universe by whom empires rise and full.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pipit_ver04:data:sn96061150:00202194321:1898022301:0132/pct:56.432038834951456,87.60595941433341,16.484627831715212,4.007192396609299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pipit_ver04:data:sn96061150:00202194321:1898022301:0132/pct:42.34270685818329,65.7076804520935,12.360914424438601,3.005394297456974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ to acknowledge and adore &#x27;the great
 arbiter of the universe by whom em­  
 pires rise and fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898022301:0379/pct:18.122767132185775,54.91174897486183,16.336472880805456,2.495988589766447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898022301:0379/pct:18.122767132185775,54.92066321982528,16.352711919454368,2.5004457122481725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -69,7 +69,7 @@ the most rigorous blockade at the entran­
 ces of those rivers, and to maintain and en­  
 force the same, according to the usages o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807050101:0145/pct:60.17397881996974,88.02941922394116,17.64372163388805,4.767943190464114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807050101:0145/pct:60.16260162601626,88.01825789273488,17.646688094787926,4.771565022611048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ St. j-uc.ii | Mr. Pinckney is lliere^irc request­
 id to apprise the American consuls and mer­  
 chants, residing in England, that the entranc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808031501:0412/pct:42.20861106107008,40.43021266194084,17.24013691226806,3.752138841359081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808031501:0412/pct:42.20100864553314,40.425271905169254,17.243035542747357,3.755753798525398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ mat “ the present position of the enemy
 tin the cement enables him to command  
 the navigation of the rivers”-*a positio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810051501:0013/pct:39.698029828760816,68.52535696701132,17.58423863008654,2.363367799113737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810051501:0013/pct:39.69072164948454,68.51692307692308,17.58713794796269,2.367179487179487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ II the British are to post their ships a^ the
 ports themselves ; »f they make a real not .. pa­  
 per blockade ; if they do, as the British Com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810102301:0202/pct:59.23076923076923,30.97832741520754,17.344322344322343,5.203869229827354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810102301:0202/pct:59.21992309100897,30.974534769833497,17.347250198376365,5.207313091740124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

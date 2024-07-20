@@ -247,7 +247,7 @@ field efficers;with one officer from each com­
 of the army, will assemble .2t 12 o’clock on  
 Saturday next ¢ the New Building, to heat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0347/pct:62.65587044534413,75.41970224897054,26.704453441295545,16.249604054482102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0347/pct:62.661268556005396,75.42322176468518,26.704453441295545,16.260162601626018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ March, 1783,
 Gentlsmen,  
 THE suthor of the late address, anxions to deserve,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0348/pct:10.223590408295529,4.462410751784964,26.847051198963058,10.342293154136918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783050301:0348/pct:10.22899114279542,4.465910681786364,26.847051198963058,10.352792944141116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

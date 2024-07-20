@@ -106,7 +106,7 @@ youall the happiness which we wiih the mod dear of our fellow
 citizens; and that we will fend to you an.iher mefl&#x27;ase on the  
 fubjeft of public affairs, before we [hall return tothebeioved cit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789121601:0003/pct:5.617638175777711,19.53629798555682,26.547870733917247,6.404408969973394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789121601:0003/pct:5.632739353669586,19.550551121246674,26.540320144971307,6.394906879513493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ ca, and of no other sovereign whosoever, aud they also stipulate
 that the laid Creek nation will not hold any treaty with an indi­  
 vidual state, or with individuals of any state
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0003/pct:8.101644245142003,29.951028403525957,26.606875934230196,7.13026444662096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0003/pct:8.12406576980568,29.960822722820765,26.58445440956652,7.144955925563173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ that the fame cannot be extended.
 Nothing having been effected by the commis­  
 sioners, tht President mentioned the business agai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796050901:0002/pct:7.236154649947753,42.738313092663454,20.977011494252874,10.963234070870072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796050901:0002/pct:7.2492163009404385,42.738313092663454,20.983542319749215,10.979870237897188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

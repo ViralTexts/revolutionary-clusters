@@ -52,7 +52,7 @@ TH : JEFFERSON.
   
 Nov. 8, 1808.— 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112801:0609/pct:24.134374539560927,41.892615055297895,23.044054810667454,14.769889404209776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112801:0609/pct:24.130819092516205,41.88887897975564,23.04557061481045,14.771544932964714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ their deliberations so interesting to our
 country. Til : JEFFERSON.  
 Nov. 8, 1808
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0243/pct:40.352164343360236,29.832091907587426,17.333088774761556,9.695745486680975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0243/pct:40.34476434989914,29.82832618025751,17.336022984289993,9.698729277118574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ iresent state of affairs between those
 governments and the United States  
 nd as may be made public. J now’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0390/pct:77.9503693881417,86.35849767617134,17.200227315779504,7.875894988066825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0390/pct:77.93560606060606,86.34765134388344,17.203282828282827,7.879092355354601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ our countrv.
 TH: JEFFERSON.  
 Nov. 8, 1808.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0391/pct:3.302334408806225,2.223351543641215,18.390586449041564,6.276203786050057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0391/pct:3.301707779886148,2.223069105691057,18.393421884882986,6.279640921409214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ our country.
 Til: JEFFERSON.  
 Nov. 8, 1808
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808113001:0236/pct:46.1035696329814,70.48114434330299,21.141277023629964,10.500650195058517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808113001:0236/pct:46.091982910278965,70.46968958231757,21.142246795677305,10.503006663416219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ a fubje of their deliberations, so interctt­
 gto ouricountry. o vy A  
 Sy - -TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808120601:0194/pct:25.04251043437935,71.55742633794348,16.540423558509815,9.691320905993186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808120601:0194/pct:25.047663214304116,71.55742633794348,16.535270778585048,9.694661588828756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ ry.
 _ Th : JEFFERSON.  
 November 8, ISOS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809031501:0385/pct:74.30181283684469,35.273481103492266,19.99020088192063,8.036995694466592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809031501:0385/pct:74.2836149889787,35.267857142857146,19.991427871662992,8.03970025510204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

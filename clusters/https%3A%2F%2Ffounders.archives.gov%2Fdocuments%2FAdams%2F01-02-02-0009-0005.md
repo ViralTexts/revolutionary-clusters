@@ -199,7 +199,7 @@ same time that I do justice to his merits. It would
 be worse than folly to conceal my opinion of his  
 great faults
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851090101:0423/pct:49.90456359534964,34.257613461310584,48.81138296026375,134.95674842990877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851090101:0423/pct:16.634854531783215,11.419204487103528,16.270460986754586,44.985582809969586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ than you; he shows us no uieroy; he pays
 lus no compliments. We must have Mr. j  
 John.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028575:1868052201:0351/pct:14.354716981132075,8.996012197982642,54.29433962264151,87.47361013370866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028575:1868052201:0351/pct:14.359748427672956,8.996012197982642,54.289308176100626,87.4775197435296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ eration; but he made neither. He did
 not even make the Constitution of Penn­  
 sylvania, bad as it is.&quot; The French, how
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898120401:0441/pct:186.10067618332081,177.4927469842724,50.33809166040571,29.134218964727438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898120401:0441/pct:46.53390944955852,44.3731867460681,12.58688709374413,7.2835547411818595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

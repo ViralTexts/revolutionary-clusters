@@ -61,7 +61,7 @@ to be, your most obedient servant,
 1 Mayor,of Washington, andCh’mn. oE  
 the Committee of Arrangements. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826070701:0522/pct:84.69910371318822,74.78083907326237,13.42296201451131,6.340012523481528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826070701:0522/pct:84.68103264348197,74.76913444983566,13.425432046084916,6.342933166379715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -80,7 +80,7 @@ With sentiments of the highest respect and venera­
 tion, I have the honor to be, your most obedient ser­  
 vant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826070701:0165/pct:58.54980079681275,17.872191011235955,17.41832669322709,3.0430711610486894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826070701:0165/pct:58.54047163798598,17.870099473376243,17.42086254514553,3.0466159547493663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -103,7 +103,7 @@ R. C. WEIGHTMAN,
 Mayor of Washington, and Chairman of  
 the Committee of Arrangements
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826070701:0072/pct:8.734514662066802,18.785057882802242,12.278500862474518,5.179615705931496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826070701:0072/pct:8.733145186578865,18.782816229116946,12.28180202780391,5.182975338106603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ this City, and back to your home.
 and veneration, I have the honor to be, •  
 your most obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826071801:0016/pct:76.19047619047619,85.00474962681504,18.454850819996047,4.369656669833085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826071801:0016/pct:76.175424733307,84.9932157394844,18.45614381667325,4.3724559023066485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

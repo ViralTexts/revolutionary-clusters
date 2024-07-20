@@ -60,7 +60,7 @@ and ineffable bliss. And if to the dead it is permitted
 to care for the things of this world, every action oj your  
 life will be under my regard—Farewell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833081601:0122/pct:36.11451942740286,33.61538461538461,14.723926380368098,7.65934065934066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833081601:0122/pct:36.10959651035987,33.61169102296451,14.726463104325699,7.662161667216057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ permitted to care for the things of this world,
 every action of your life will be under my  
 regard.—Fareweil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833082001:0271/pct:34.12095639943741,24.392056918339176,13.980309423347398,11.171285972177976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833082001:0271/pct:34.13033286451008,24.399136313758806,13.980309423347398,11.171285972177976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ II 1
   
 rare wen. . r 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn83016620:00202197991:1838072501:0444/pct:72.67303102625299,19.933895600638248,40.915871121718375,118.46364258035103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn83016620:00202197991:1838072501:0444/pct:48.47037755558872,13.289263733758833,27.29443366661692,78.98335992705721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ ineffable bliss. And if to the dead it is permitted
 to care for the things of this world, every action of  
 your life will be under my regard farewell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1860120401:0198/pct:8.552631578947368,36.669561441597914,19.49013157894737,10.421189752496744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1860120401:0198/pct:6.415352981494174,27.507598784194528,14.626456477039067,7.815892314372557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ if to the dead it is permitted to care for the things of this
 world, every action of your life will be under my regard.  
 Farewell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060401:0842/pct:150.1444159178434,155.79629215992853,45.458921694480104,26.457449184721913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060401:0842/pct:50.04813863928113,51.932097386642845,15.152973898160035,8.819149728240637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ And if to the dead, it is permitted to care
 for the things of this world every action of  
 your life will be under my regard. Fare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293459:1872060901:0554/pct:4.452466907340553,67.81876592444887,14.711191335740072,8.330563863963665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293459:1872060901:0554/pct:3.3398525650669475,50.869613382076,11.042575598014142,6.247922897972749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ care for the things of this world, every ac­
 tion of your life will be under my regard.  
 Farewell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1875052101:0291/pct:95.7762938230384,32.157538787959155,14.090150250417363,9.1765017902135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1875052101:0291/pct:74.22693750808642,24.92549073344524,10.924224781127355,7.118632455208798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ mitted to care for the things of this world,
 every action of your life will be under my  
 regard. Faiewell. Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286625:1889012301:0210/pct:65.24500907441016,46.20037391399978,18.753781004234725,10.436599582096118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286625:1889012301:0210/pct:43.516417007111514,30.80391509952711,12.513239521864124,6.9613988782580005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,7 +693,7 @@ and the life into which you have entered
 will bo the passage to one of eternal and  
 ineffable bliss.&quot; Compared with relig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539264:1889041701:0136/pct:64.97821350762527,44.139365574622985,14.569716775599128,5.720228809152366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539264:1889041701:0136/pct:48.74029688138363,33.10452418096724,10.9355849107994,4.295371814872595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

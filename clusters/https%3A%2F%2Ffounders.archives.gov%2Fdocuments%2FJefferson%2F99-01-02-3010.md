@@ -271,7 +271,7 @@ inform tljeir judgment in deciding on
 the application of Flamet Oaramaili.  
 Til: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012001:0002/pct:3.6792854104636326,2.0079768945124465,37.57975329646959,94.80126530050887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012001:0002/pct:3.68637459237204,2.0125613166460368,37.57975329646959,94.80126530050887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ ce from out iquadrdoctwas daily expect-,
 &quot;ed, cal.- Leaf thoughi&#x27;siit&#x27;tsshc best moment  
 ss tos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012201:0144/pct:3.8669506799934457,33.737658674189,24.053744060298214,55.890926187118005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012201:0144/pct:3.8663171690694624,33.73448664911621,24.055264307557884,55.88880531528143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ papera which bear any relation to the prin­
 - inform theirjudgment in deciding on the  
 application of Hamet Caramalli. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012201:0144/pct:28.035392429952484,10.155148095909732,24.004587907586433,39.92477668077104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012201:0144/pct:28.030799475753604,10.154193305754044,24.00611620795107,39.9241569512348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ form their judgment iu deciding on the appli­
 cation of Hamet Caramalli.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806012301:0318/pct:4.9944300037133305,1.4500127194098194,35.96360935759376,94.35258204019334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806012301:0318/pct:4.993502877297197,1.4498283098054179,35.96312109399171,94.34482173894612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ of the co-operation, and which can inform tlieir judg­
 ment in deciding on the application of Hamet Cura­  
 Th : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806012401:0926/pct:5.994617078541718,2.460456942003515,43.18571079031074,94.1044895350695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806012401:0926/pct:5.993150684931507,2.4600638977635785,43.181262230919764,94.09345047923323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -946,7 +946,7 @@ judgment in deciding on the application
 of lia.net Caraiaalli.  
 THs JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806012801:0036/pct:22.275334608030594,14.245161290322581,35.927342256214146,81.09677419354838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806012801:0036/pct:22.271076276046646,14.243323442136498,35.92684636462117,81.09061196404765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1110,7 +1110,7 @@ which can inform their judgement in deciding
 on the application of Hamet Carvamalli.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806013001:0690/pct:4.2621708656942605,3.772889271230183,40.80318242091305,91.1883986727295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806013001:0690/pct:4.268485192902697,3.772889271230183,40.80949674812149,91.1965917004629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1615,7 +1615,7 @@ judgment in deciding on the applica­
 tion cf Hamet Caramalli.  
 TH ; JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806020301:0772/pct:5.409479149221236,4.590336134453781,36.05761179031988,92.03781512605042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806020301:0772/pct:5.408573342263899,4.589854006932045,36.05576021433356,92.03077407835312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1815,7 +1815,7 @@ judgment ‘in- deeiding ‘on the appli­
 cation of Hamet Caramalli.  
 L iIR FTE RSO N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806020401:0230/pct:24.207269914926528,3.73589052042753,33.859242072699146,92.01877934272301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806020401:0230/pct:24.212425882959526,3.742549861818666,33.859242072699146,92.02543868411414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2137,7 +2137,7 @@ ble, and might produce effects favorable
 to both, without binding either to  
 rantec the objects of the other.&#x27;&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806062501:0001/pct:40.91104426299957,90.46647626818985,18.02750322303395,7.507139942880457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806062501:0001/pct:40.91104426299957,90.46647626818985,18.03466552069904,7.51620653701437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2175,7 +2175,7 @@ ioning his intended convention
 With U.m\ was not then reduc­  
 ed to writing. Here the eommodor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806062501:0001/pct:78.47013321873656,55.215558275533795,18.091963902019767,15.150278797769618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806062501:0001/pct:78.47013321873656,55.215558275533795,18.10628849734995,15.163878688970488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

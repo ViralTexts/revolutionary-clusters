@@ -109,7 +109,7 @@ ery had one for avoidance; and the choicest
 processes culfod front every f.uui would coin­  
 p *■ .i course probably new perfection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817102101:0180/pct:4.798685291700904,62.11899536698366,15.2341824157765,25.73762496951963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817102101:0180/pct:4.797896812356227,62.11142265024991,15.237156315039982,25.738550936649194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ implements as will be an incitement to
 correct the slovenly and unproductive  
 practices too generally prevalent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822010801:0180/pct:2.0062532569046376,55.126718568825574,18.49921834288692,14.82524432665231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822010801:0180/pct:2.005730659025788,55.11758860549851,18.5009116957541,14.8269294468367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ cesses culled irom every farm would
 compose a course probably near perfec­  
 tion. &quot; Th : Jeffebso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1881020801:0267/pct:4.972200158856235,29.069484936831877,11.088165210484512,27.72108843537415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762325:1881020801:0267/pct:4.972200158856235,29.069484936831877,11.092136616362192,27.7332361516035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

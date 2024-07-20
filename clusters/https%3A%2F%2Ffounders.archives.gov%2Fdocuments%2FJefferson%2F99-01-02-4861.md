@@ -142,7 +142,7 @@ daily loss of friends. Every office becoming
 vacant, every appointment made gives mo an  
 ungrateful friend, and a hundred enemies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829110401:0909/pct:26.14798476037698,105.43385490753911,19.18989372368157,7.994310099573258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829110401:0909/pct:20.264180264180265,81.71829640245471,14.882154882154882,6.195568294565097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ full friend,and a hundred enemies.) My on­
 low citizens at large give me credit for  
 goud intentions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829110501:0377/pct:28.896770580548814,77.0913321698662,17.099122643270487,8.702734147760326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829110501:0377/pct:28.896770580548814,77.09908861741323,17.111567419575632,8.706612371533838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ solation is in ihe lie lief that my fello&#x27;w-citi­
 *&#x27;’»• &quot;l large give me credit for good inten­  
 tions&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829110501:0507/pct:53.04435483870968,59.26724137931034,14.294354838709678,6.767241379310345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829110501:0507/pct:53.033662568030635,59.258727194368625,14.296512799838743,6.769860652205143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ moved by the introdtciit n o! siaves from the
 other States, which by dividing that evil would  
 lessen its danger
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848022501:0095/pct:41.733333333333334,40.18926226342217,13.496296296296297,1.313248358439552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848022501:0095/pct:41.733333333333334,40.19569975537531,13.501234567901234,1.3100296124629844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ merit the continuance of that good-will which follow ? well­
 intended actions, aud their approbation will lie the deafest  
 reward 1 car. carry into retirement.&quot; Thus wrote Thoms
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854050401:0637/pct:83.7483617300131,46.046749265551156,15.285058977719528,6.603653084685145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854050401:0637/pct:83.7483617300131,46.051006940009366,15.290519877675841,6.612168433601567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ of that good-will which follows well-intended ac­
 tions, and their approbation will be the dearest re­  
 ward I can carry into retirement.&quot; Thus wrot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293174:1854051001:0443/pct:124.11435674331884,313.4760253497549,49.65817277812306,21.714695683367214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293174:1854051001:0443/pct:31.043059225866624,78.36900633743872,12.420332659723302,5.428673920841804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

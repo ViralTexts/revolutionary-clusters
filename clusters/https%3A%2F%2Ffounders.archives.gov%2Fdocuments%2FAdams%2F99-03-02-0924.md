@@ -92,7 +92,7 @@ Have a Turnip than his Father.
 Farm For Sale,  
 WrITHIN 150 rods of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824090801:0211/pct:7.328891580860085,76.83284457478005,18.47365233192005,9.872922776148583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824090801:0211/pct:5.690293642100871,59.54906204906205,14.322223960778178,7.651515151515151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ Have a turnip than his father.
 tertain very often a circle of friends, ohsery­  
 ed that ons of them was in the habit of cat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523982:1860111601:0605/pct:18.568481193461356,110.41036717062634,36.724329471512455,11.317494600431965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523982:1860111601:0605/pct:6.188511583624246,36.79948169744088,12.239500687612399,3.772090846920779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ When a boy is at his pranks, or, in other words,
 when he is genuinely boyish, it is very hard for the  
 rheumatic father to remember that in the misty past
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877020401:0392/pct:54.76583113456464,38.52788959171938,50.13192612137203,12.558941920644049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877020401:0392/pct:18.255277044854882,12.84262986390646,16.710642040457344,4.186313973548016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ Cries not when his father dies,
 Tis a proof that he had rather  
 Have a turnip than his father.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175038188:1887072401:0220/pct:202.07939508506615,189.29357394366198,35.507246376811594,6.283010563380282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175038188:1887072401:0220/pct:67.35979836168872,63.097857981220656,11.83574879227053,2.094336854460094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

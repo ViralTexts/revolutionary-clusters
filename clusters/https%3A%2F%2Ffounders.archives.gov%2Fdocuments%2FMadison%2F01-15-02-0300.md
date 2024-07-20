@@ -46,7 +46,7 @@ G
 “ the ability, to insist upon justice being done to our­  
 “ selves”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805021801:0357/pct:49.92323439099283,86.93605972086985,21.852610030706245,6.540084388185654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805021801:0357/pct:49.91046303402405,86.92195359402888,21.853415195702226,6.543079668992374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -75,7 +75,7 @@ serve treaties with pure and absolute faith; to
 clu-ck every d-viation from the line of impartiality ;  
 to explain wiiat was misapprehended, and to correc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807111101:0822/pct:49.84423676012461,61.7093739863769,22.17030114226376,3.4219915666558545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807111101:0822/pct:49.83130028549182,61.699367601751256,22.171035556709057,3.425490514026269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ have been injurious to any nation ; and having thus ac­
 quired the right, to lose no time in acquiiing the ability  
 to insist upon justice being done to ourselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853072901:0863/pct:67.8197908286404,53.457683035147824,15.671761866452131,5.012054307828956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853072901:0863/pct:67.8197908286404,53.466142198536566,15.671761866452131,5.007824726134586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

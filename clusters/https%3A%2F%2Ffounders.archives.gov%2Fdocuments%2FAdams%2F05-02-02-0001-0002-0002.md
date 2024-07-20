@@ -361,7 +361,7 @@ may pass and repass on foot through any
 man&#x27;s property for that end, so they tres­  
 pass not on any man&#x27;s corn or meadow.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1879010101:0467/pct:112.43243243243244,274.5562130177515,42.47104247104247,9.698369173040843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1879010101:0467/pct:28.118964851293935,68.63905325443787,10.621861722672847,2.424592293260211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ through any man&#x27;s property for that end,
 so they trespass not on any mail&#x27;s corn or  
 meadow.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524688:1879010201:0231/pct:25.818303273213093,15.596330275229358,11.189044756179024,2.132407636994793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524688:1879010201:0231/pct:25.813992319251962,15.594396925746869,11.191350809818,2.13524234535763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ foot through any man&#x27;s property for
 that end, so they trespass not on any  
 man&#x27;s corn or meadow.&quot; The recen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1879060301:0404/pct:21.002650176678443,204.2799461641992,28.125,6.056527590847914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1879060301:0404/pct:7.000883392226148,68.0933153880664,9.375,2.018842530282638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

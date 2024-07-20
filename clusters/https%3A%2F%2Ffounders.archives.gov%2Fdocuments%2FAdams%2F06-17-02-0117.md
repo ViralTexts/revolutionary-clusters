@@ -61,7 +61,7 @@ other bodies politic, o,* reb&#x27;-gio&amp;s socie­
 ties, to make suitable provfsit n, at.thtir  
 own expense,for the institution of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807060801:0002/pct:78.73245427477669,63.21074772696431,17.99234368353892,6.893744062966481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807060801:0002/pct:78.7395434566851,63.21527118107387,17.98525450163051,6.8982675170760395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -79,7 +79,7 @@ several towns, parishes, precincts, and
 other bodies politic, or religious s#«se«  
 ties, shall, at ail times, have (He exclu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807060801:0002/pct:78.79625691195236,79.57660469534537,17.92854104636325,2.5105170308047224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807060801:0002/pct:78.81043527576918,79.58565160356449,17.92145186445484,2.5195639390238385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ to u require tire several towr^ parishes, precincts
 and other bodies politick, or religious societies, to  
 make suitable provision, at their own expense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016083:00332895096:1818102001:0759/pct:59.871008337266005,9.28214030429899,17.917256567563317,5.687736138057796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016083:00332895096:1818102001:0759/pct:59.86159169550173,9.28119256687768,17.91837055677886,5.689707984480294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ own expense, for the institution of the public wor­
 ship of God, and for the support and maintenance  
 of public, Protestant teachers of pietv, religion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:0051717211A:1853112301:0954/pct:5.105953582240161,13.094055894453113,18.708375378405652,13.264292807490424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:0051717211A:1853112301:0954/pct:3.9674678066836973,10.148061276845269,14.503936186851572,10.283661951183758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

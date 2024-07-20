@@ -320,7 +320,7 @@ fore the enemy knew any thing of the ass,Hants.
 ass,sted m the siege of the fort. For 18 hours  
 a continual fire wa, kept up on both sides. Col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816040301:0109/pct:57.7594295364984,33.850320039389466,17.751923437793206,34.02264894140817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816040301:0109/pct:57.74859287054409,33.84615384615385,17.754846779237024,34.022564102564104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ Other circumstances. equally suspicion crown
 ed this wonderful success A convoy of goods  
 from Detroit wason its way to the Post. Clark
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816040301:0109/pct:57.70313379620942,77.19103889709503,17.376618502533308,5.85918266863614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816040301:0109/pct:57.69230769230769,77.18153846153847,17.379612257661037,5.862564102564103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

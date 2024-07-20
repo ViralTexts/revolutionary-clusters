@@ -51,7 +51,7 @@ bright tor a long succession of ages.
 Given under my hand and t ie Seal of the War  
 Office of the United States, at the City o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804101301:0158/pct:28.10043114379914,37.130937098844676,21.65863555668273,6.530808729139923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804101301:0158/pct:28.093306288032455,37.12497994545163,21.65948275862069,6.533771859457725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ War Department, 7th July, 1804.
 H. DEARBORN.‘Sec’ry of War.”  
 [Seal of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216444:1831011801:0056/pct:44.76143630103296,29.859484777517565,18.51123134940154,38.887587822014055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216444:1831011801:0056/pct:44.75409836065574,29.85598876009835,18.51366120218579,38.8869375170745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ H. DEARBORN
 Secretary of (Far.  
 [Seal oj the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831021201:0001/pct:6.937109937590014,16.261797926659447,60.897743638982234,72.24199288256227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831021201:0001/pct:6.943110897743639,16.265666099334673,60.92774843975036,72.25746557326319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ blem. b*»gi.t for a long succession of ages,
 “ Given under my band and the seal of tre  
 War office of the United States at the city o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870091701:0002/pct:78.35325365205843,71.71370653360361,8.95465756023525,2.728832059878372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870091701:0002/pct:78.35799658508822,71.71760486511774,8.96414342629482,2.7444253859348198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

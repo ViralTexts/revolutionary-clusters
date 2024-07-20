@@ -70,7 +70,7 @@ son will afford them; and am, gentlemen, youi
 roost obedient and obliged humble servant,  
 GEO: WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845090301:0562/pct:5.970302099334357,40.33095617254033,14.971838197644649,5.4005400540054005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845090301:0562/pct:5.9696907638746675,40.328163943505956,14.97371834254898,5.402473922274532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ ford them; and am, gentlemen, your most obedient and
 obliged humble servant,  
 GEO. WASHiNGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845091201:0781/pct:8.933759442184776,137.42759191393782,38.059267867518884,11.679867596642628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845091201:0781/pct:2.9774872912127814,45.80378250591016,12.684580004841443,3.892828999211978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ jgentlenv n, your most obedient and oblig­
 | ed humble servant,  
 GF.O. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1845092501:0367/pct:29.139201240791003,55.813622114562556,13.0283055447848,7.153035052721573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1845092501:0367/pct:29.133553014150028,55.805670323407895,13.030626090327583,7.1555777176235935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ season will afford them ; and am, gentleman,
 your most obecient and obliged humble servant  
 Gro., WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1845093001:0361/pct:80.10060659860926,43.643716300290336,14.676727326527592,5.226047283284944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1845093001:0361/pct:80.10553829461952,43.6471726807687,14.676727326527592,5.229503663763307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ able amusement all the pleasure the seasou will atTord
 them: and am, gentlemen, vuur most obedient ami ob­  
 liged huiuLde servant, GE&quot;oKGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1845111901:0392/pct:84.28971308607417,19.141547437144048,23.110566829951015,5.820252812890679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058217:00271744754:1845111901:0392/pct:63.259233327498684,14.363105986942632,17.346402940661648,4.361716905125712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ ifford them ; and am, gentlemen, your most
 ibedient and obliged humble servant, ,  
 Geo. Washington. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016573:1853042201:0275/pct:57.635206786850475,40.93559501722767,12.70767055496642,6.877816061489531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016573:1853042201:0275/pct:57.62502208870825,40.9301709288459,12.709842728397243,6.88021730488936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ the season will afford them: and am, gentle­
 men, your most obedent and obliged humo e  
 servant, Ge... * a&gt;iiin«ton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853111701:0474/pct:6.373138470076774,23.1768091528041,12.330034224401073,5.060714536393626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853111701:0474/pct:6.372549019607843,23.175182481751825,12.331976815883586,5.062698858319297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ nes a
   
 mount to ten millions and a lalf of dol-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1853121001:0019/pct:227.23200955509108,226.20113047574188,52.254404299790984,39.390014130946774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1853121001:0019/pct:75.74400318503035,75.40037682524729,17.418134766596996,13.13000471031559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ seasen will afford them; and am gentleinen,
 ur most obedient and obliged humble servant  
 GEOrGE WASHINTO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472050:1853123101:0090/pct:74.9812734082397,248.60335195530726,49.36329588014981,20.279329608938546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472050:1853123101:0090/pct:18.755855349447256,62.150837988826815,12.347760914371369,5.069832402234637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ am, gentlemen, your most obedient and
 obliged humble servant.  
 &quot;Gso?ax Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654036:1854010301:0007/pct:81.18261455525607,88.4,16.088274932614556,7.157894736842105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654036:1854010301:0007/pct:81.19103773584905,88.40263157894736,16.088274932614556,7.160526315789474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ the season will alford them.
 I am, gentlemen, your most obedient ami  
 obliged humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:0041566364A:1871051501:0477/pct:35.31153087115872,41.63838612368024,16.718353538201296,4.996229260935143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:0041566364A:1871051501:0477/pct:35.32092848416502,41.64467068878834,16.723052344704445,4.993086978381096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ pleasure the season will afford them, and I am
 gentlemen your most obedient and obliged  
 humble servant. 0. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663675:1871092901:0273/pct:3.735397989676718,46.30116410063838,15.444172779136105,6.2054074352234325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663675:1871092901:0273/pct:3.7444534999547225,46.30429340342972,15.439645023997102,6.208536738014771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ Your most Obedient and40 er
 Ohliged Hunble Servant a  
 G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556539:1875010201:0190/pct:333.3333333333333,67.13834111094386,45.666666666666664,21.857594460334187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556539:1875010201:0190/pct:83.35069806209627,16.784585277735964,11.419045634507189,5.464398615083547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +655,7 @@ who relish so agreeable and innocent an
 amusement all the pleasure the season can  
 afford them.&quot; After the removal of the sea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762349:1885031101:0053/pct:7.768069896743447,18.731915964272236,10.548054011119936,4.4911309598691656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762349:1885031101:0053/pct:7.768069896743447,18.73506101396402,10.563939634630659,4.487985910177381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ them. I am, gentlemen, your most obedient and
 obliged humblo servant,  
 Geobcje Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663912:1885071101:0640/pct:17.54007398273736,61.45616950560864,15.598027127003698,4.933527212297466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663912:1885071101:0640/pct:17.545211672831893,61.46309375432766,15.603164817098232,4.936989336656973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ ever, for all those who have a relish for so
 innocent and agreeable an amusement all  
 the pleasure the season will alford them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555353:1887031001:0247/pct:99.13615795968737,330.3610503282276,53.064582476347184,9.737417943107221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555353:1887031001:0247/pct:24.78403948992184,82.5902625820569,13.266145619086796,2.4343544857768054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ the pleasure the season will afford them.&quot;
   
 Frank G. Carpenter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195465:1887032801:0295/pct:58.88108379327647,111.97809719370294,16.758655293527347,4.028551872494377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195465:1887032801:0295/pct:44.17262576841049,83.9835728952772,12.5705683101242,3.021413904370783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ ever, for all those who have a relish for so
 the pleasure the season will afford them.&#x27;&#x27;  
 —Frank G. Carpenter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523532:1887090701:0043/pct:9.38322128032739,69.68118357991249,19.701841566793334,9.522817253594498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523532:1887090701:0043/pct:9.405144694533762,69.69681183579912,19.694533762057876,9.533236090852261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ And I am , gentlemen , your most obedient and
 obliged humble servant ,  
 Guoitfii : WASIIJNT.TOV
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206538879:1890051801:0718/pct:24.858757062146893,87.38209159261791,16.754943502824858,6.534518113465482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206538879:1890051801:0718/pct:18.653948065712772,65.53656869446343,12.577283165518459,4.904306220095694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -898,7 +898,7 @@ season will afford them, and I am, gentlemen.
 your most obedient and obliged humble sorvant,  
 &quot;O. WaSHINGroN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031091:1893050501:0599/pct:39.69408969408969,255.57083906464925,35.714285714285715,11.131097238387472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031091:1893050501:0599/pct:13.23136323136323,85.19027968821642,11.904761904761905,3.7103657461291575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ tlemen,&quot;Your most obedient and obliged hum
 ble servant,  
 &quot;GCO. WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82016187:00211102366:1898011301:0095/pct:23.14716781365802,110.37670211708577,16.635786130227633,7.762647848126429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82016187:00211102366:1898011301:0095/pct:17.365982792852417,82.78501143027532,12.481800132362673,5.824470728555809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

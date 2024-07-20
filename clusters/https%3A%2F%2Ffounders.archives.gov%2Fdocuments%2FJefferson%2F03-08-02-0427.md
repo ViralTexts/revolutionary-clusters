@@ -150,7 +150,7 @@ says: &quot;As to laws governing the proceed-­
 ings of the legislature, that body must judge  
 for itself the Constitutionality of the law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1857091201:0079/pct:16.492105674534937,91.46935933147633,33.57823979990621,12.5/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1857091201:0079/pct:5.497368558178313,30.48978644382544,11.192746599968736,4.166666666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ language:
 Constitution which has given that pow­  
 er to them more than to the executiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040308:00514151374:1859040701:0170/pct:15.992474129821261,52.61737722611981,10.899072705281549,3.291958985429034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040308:00514151374:1859040701:0170/pct:16.001433499081664,52.62457276488577,10.899072705281549,3.2955567548120164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ ill hi,man proceedings. Yet the prudence of v
 he public functionaries and authority of pubic  
 opinion will generally produce accommoda- i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859042101:0502/pct:27.71934018646904,31.6000381642973,12.550800860626344,17.441083866043318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859042101:0502/pct:27.71934018646904,31.603218522405623,12.550800860626344,17.444264224151638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ body must judge for itself the constitutionality
 of the law, and equally without appeal or con­  
 trol from its co-ordinate branches.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1860053001:0395/pct:19.22759758108851,10.249839846252403,37.74051676745464,86.29083920563741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1860053001:0395/pct:19.23217885284955,10.25339881842124,37.749679310976724,86.29439817780624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ ari (1n,n
   
 toforc a subjeet of consideration with me in the! the result of the election as he was in 4 G. L. Ouikshank,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1860053001:0395/pct:32.03683342495877,18.32158872517617,31.12974161627268,2.4663677130044843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1860053001:0395/pct:32.04599596848085,18.32158872517617,31.120579072750594,2.4734856573421595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ that power to them, more than ity on the stump. The fact that Mr.
 re branches. Questions of proper- I I .T  
 .&#x27;ter, nnd of crime, being ascribed to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1860053001:0395/pct:32.078064870808134,20.691864189622038,29.76910390324354,2.220798633354687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058348:00279529376:1860053001:0395/pct:32.082646142569175,20.695423161790874,29.77826644676562,2.2279165776923624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ for itself the Constitutionality of the law, and
 equally without appeal or control from its co-  
 dinate branches.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860071001:0700/pct:12.001638448935008,100.75973409306742,37.93009284543965,39.44286166508389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860071001:0700/pct:4.000546149645003,33.586578031022476,12.643364281813216,13.147620555027963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ is no a word in Ihe Constitution .h has
 given that power to them mire th*n to the  
 executive or legislative branches.”—VbL 0. o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860100801:0002/pct:25.423728813559322,53.977599080987936,9.690493736182756,2.6565192418150487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860100801:0002/pct:25.437546057479736,53.98477886272257,9.681282240235815,2.6636990235496842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -668,7 +668,7 @@ there is not a word in the Constitution which
 &quot;has given that power to them more than to  
 the executive or logislative branches.&quot; Ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868012401:0162/pct:104.36205016357688,154.86706218413536,47.92023679700888,14.700065919578115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868012401:0162/pct:34.787350054525625,51.62235406137845,15.973412265669626,4.900021973192705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ We are not aware that anybody disputes so
 self-evident a proposition. To make it bear on  
 the President&#x27;s case, it is only necessary t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868050401:0026/pct:103.76170735452173,265.8067290121466,47.56640565023798,21.519939804364185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530893:1868050401:0026/pct:34.58723578484057,88.60224300404887,15.855468550079328,7.173313268121395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -713,7 +713,7 @@ poe rightful expositor of tho validity of the law,
 ucouiroiied by the opinion of the other co-  
 Mdmate authorities.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887012801:0275/pct:6.0943833236826865,119.6596004891969,19.296467863346844,2.833265389319201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887012801:0275/pct:4.576393917451123,89.74724826742764,14.48225923244026,2.1300448430493275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

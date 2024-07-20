@@ -189,7 +189,7 @@ vernment merely as a stcgping-ntone to mon­
 archy, have themselves adopted the very con­  
 struction
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838011301:0455/pct:6.7742365648753164,16.61272923408846,14.935324709961328,53.9570461900559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838011301:0455/pct:6.7831266391074365,16.615998169396228,14.930879672845268,53.96358406067144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ for a change from the present form of Government to that
 of a Monarchy, of which the English constitution is to be  
 the model
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840050801:0004/pct:219.89839119390348,29.91549295774648,61.5580016934801,29.690140845070424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840050801:0004/pct:54.997882253282505,7.47887323943662,15.396018636171114,7.422535211267606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ ter which the writer had recently received from Mr. Jei-
 ierson. . i-  
 An accident, attended with peculiarly distressin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1842042701:0281/pct:84.89583333333333,13.618188049811494,41.32401315789474,113.85810579229978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1842042701:0281/pct:63.696188648204,10.21364103735862,30.998080614203456,85.39929167142694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -44,7 +44,7 @@ intend to allude to public measures, he must have meant
 to them, and not that he would not commit himself to  
 the nation, il he had been called upon by that to disclos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847110601:1075/pct:30.98702942106928,48.621584868339724,20.056944005061688,5.933984423290889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847110601:1075/pct:30.992302014130548,48.621584868339724,20.056944005061688,5.938105245807063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ diminant desire I had, of being af liberty to
 act with a sole reference to justice  
 public good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848030701:0210/pct:120.25202520252026,61.00547017452462,48.838883888388835,23.61292003125814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848030701:0210/pct:30.05759539236861,15.249381429873681,12.20752339812815,5.902461257976299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ conduct, the predominant desire I had :
 at liberty to act with a sole reference &#x27;  
 tice and the public good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn86058890:00296029828:1848030901:0234/pct:102.56511444356748,36.34681093394077,21.842936069455405,11.375284738041003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn86058890:00296029828:1848030901:0234/pct:76.94888494178015,27.26366742596811,16.380501282810343,8.527904328018224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ true reason ot my conduct, the predominant desiro
 I had, nj being ul liberty to act with a sole reference  
 lo justice and the public gcail.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848031501:0043/pct:79.61363968974096,37.56625690763505,14.664129957558906,4.55621969098906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848031501:0043/pct:79.60199004975124,37.562020748759586,14.666861769583456,4.559464742144039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ and I have assigned as the true reason of my
 conduct, the predominant desire I had of being  
 at liberty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848031601:0610/pct:76.11633372502938,38.58474778866842,16.62749706227967,8.940951470236673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848031601:0610/pct:57.119764878765615,28.938560841501314,12.476120499632623,6.717666746354292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ tions; and 1 have assigned as the true reason of
 my conduct ihe predominant desire I had of being  
 at liberty to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848031801:0475/pct:109.35483870967742,55.91836734693877,19.31451612903226,6.0910518053375196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848031801:0475/pct:82.03266787658802,41.94662480376766,14.498890905424481,4.56828885400314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ liberty to act with, a sole reference to justice and venlion which nominated him
 me to go into the chair of government. t am  
 determined to go/r#v fi&#x27;om &lt;/// tioi’Ugv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848071401:0641/pct:2.798543224075139,58.9214798300007,12.87138202031819,1.2680275900508604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848071401:0641/pct:2.798275035936751,58.91737494774976,12.873342916467019,1.2702614834424784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ duct, the predominant desire 1 had odicing
 at liberty to act with tide reference to justice  
 and ths public good.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848071501:0208/pct:66.59321286910533,28.98961284230406,18.70868223887175,7.774630154233554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848071501:0208/pct:51.611066833655926,22.475199219385267,14.499601502903335,6.029435680598471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ was well said by Harrison on a similar oc­
 casion, &quot;he eannot be relied on merely on ac­  
 count of them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848071801:0585/pct:14.823008849557523,354.132341217114,50.165929203539825,29.138984852511292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848071801:0585/pct:3.705069124423963,88.52132323634915,12.539170506912443,7.283778397768035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ reason of my conduct, the predominant desire I
 had of being at liberty to uet with a sole reference  
 to justice and the public good.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848072001:0750/pct:180.99352051835854,18.66068926870272,99.64002879769619,360.1569066965537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848072001:0750/pct:45.272825499729876,4.66517231717568,24.92346479380515,90.03922667413842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ applications; and 1 have assigned as the true reas.
 on of my conduct, the predominant desire I had  
 of being at liberty to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848072201:0548/pct:27.088212334113972,28.047448103636647,18.911007025761123,6.040268456375839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848072201:0548/pct:20.32409215150332,21.039488059934445,14.19367434595861,4.541907288902762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ duct, the predominant desire I had ot.bcing at lib­
 erty to qct with a sole reference to justice and the  
 public good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237282358:1848072701:0236/pct:35.57392389270119,89.8326100433974,23.081721771678104,7.97685472205001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237282358:1848072701:0236/pct:26.692667706708267,67.37962388923332,17.316692667706707,5.982641041537508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ desire I had of being at liberty to act with
 a sole reference to justice and the public  
 good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1848072801:0239/pct:73.3232856066315,332.06820682068206,50.188394875659384,24.64246424642464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1848072801:0239/pct:18.334275485208217,83.01705170517052,12.549462973431318,6.16061606160616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ lesire I had of being at liberty to act with
 a sole roference to justice and thhe public  
 good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848080101:0430/pct:248.64935064935065,228.84122919334186,40.48051948051948,19.302176696542894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848080101:0430/pct:82.91542159282838,76.28040973111396,13.498765752890737,6.434058898847631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ reason of mv conduct, the predominant desire l
 had of being at liberty to act with a sole reference  
 to justice and the public good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848080101:0024/pct:6.5408085430968725,62.26940480334145,12.719298245614034,4.22554820744866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848080101:0024/pct:6.540184955667843,62.265070304886535,12.721263545937013,4.227574365399787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ I had of being at liberty to act with a
 sole referrence to justice and the public  
 good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021805:1848080201:0264/pct:143.29128440366972,134.1729638958858,58.887614678899084,21.452560873215784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021805:1848080201:0264/pct:35.83309435044451,33.54324097397145,14.726125609406367,5.363140218303946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ predominant desire I had ol being at liberty to
 art with a volt reference to justice and the  
 public good. _
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1848080301:0635/pct:36.13930348258707,75.34927458355723,14.567164179104477,4.957012358946803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1848080301:0635/pct:36.13211301233585,75.33915379449294,14.569239952248308,4.959704499664205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ I had oi being at liberty to act with a
 sole referrence to justice and the public  
 good.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848080301:0692/pct:39.862492685781156,19.28341864063802,16.456992393212406,6.451612903225806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848080301:0692/pct:29.904901243599124,14.462563980478514,12.34820775420629,4.8446613498393045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -741,7 +741,7 @@ multiplicity of applications and I have assign­
 ed as the true reason of my conduct, the pre­  
 dominant desire I had of being at liberty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848080501:1184/pct:198.52459016393442,196.72925499697152,59.75409836065574,15.687462144155058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848080501:1184/pct:49.64131994261119,49.18231374924288,14.941586390653823,3.9218655360387644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ candidates, 1 cannot pretend to foretell. All 1 can add
 present is, that you may rest assuredl am, with sentitnei  
 of real atleetion, your friend, dec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848081001:0803/pct:0.2536461636017755,44.75200400801603,15.313887127457198,12.224448897795591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848081001:0803/pct:0.2536461636017755,44.760354041416164,15.319171422532234,12.224448897795591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ ence to justice and thelly and calmly submit.
 public good As I have no ambition to  
 serve but in the desire t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848081701:0768/pct:30.60931899641577,205.5887668566662,50.03584229390681,27.19310440706242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848081701:0768/pct:7.656446117984579,51.39719171416655,12.515689438766362,6.798276101765605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ applications; and 1 have assigned as the
 true reason of my conduct the predomin­  
 ant desire 1 had of being at liberty to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:0027176974A:1848082501:0206/pct:14.347181008902076,15.816267499710749,14.777448071216618,9.464306375101238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:0027176974A:1848082501:0206/pct:13.629956775042285,15.025280281380523,14.048111257282466,8.998314647907964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -899,7 +899,7 @@ ant desire 1 had of being at liberty to
 &quot;Should it become inevitably necessary for me  
 to go into the chair of Government, I have dete
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848083001:1110/pct:215.5893536121673,322.662015295854,57.71863117870723,4.239903394606199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848083001:1110/pct:53.90758699372504,80.6655038239635,14.432401597261837,1.0599758486515498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ conduct the predominant desire I had of
 being at liberty to act with a sole reserence  
 to justice and the pablic good.&quot; This 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529194:1848090701:0213/pct:155.1881067961165,104.86079928154467,43.037014563106794,18.50022451728783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529194:1848090701:0213/pct:51.72936893203884,34.95359976051489,14.345671521035598,6.1667415057626105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1045,7 +1045,7 @@ ture whatsoever,&quot; in order that he might
 be &quot;at liberty to act with a sole reference  
 to justice and the public good.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529194:1848090701:0213/pct:199.1353155339806,258.65514144589133,42.945995145631066,11.001347103726987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529194:1848090701:0213/pct:66.37843851132686,86.21838048196378,14.315331715210355,3.667115701242329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1087,7 +1087,7 @@ All I can add at present is, that you may
 rest assured I am, with sentiments of  
 real affection, your friend, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1848090801:0263/pct:172.5341426403642,48.046550290939315,55.386949924127464,63.23081185924079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1848090801:0263/pct:43.14171883893,12.011637572734829,13.84936444697401,15.807702964810197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1104,7 +1104,7 @@ have determined to go free from all posi­
 tive engagements of every nature whatso  
 ever,&quot; which necessarily includes all pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1848090801:0263/pct:174.8103186646434,129.89747852590745,49.241274658573595,6.6500415627597675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1848090801:0263/pct:43.71087080250427,32.47436963147686,12.312654145323467,1.6625103906899419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1263,7 +1263,7 @@ ent candidates, I cannot pretend to foretell. All I can
 add at present is, that you may rest assured I am, with  
 sentiments of real affection, your friend, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848101401:0373/pct:259.3368237347295,95.41036260671119,58.50785340314136,53.89231679486096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848101401:0373/pct:64.84127849896367,23.852590651677797,14.62855896149231,13.47307919871524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1386,7 +1386,7 @@ arising from the ties of friendship and
 blood.&quot; All this time it is not to be sup­  
 posed there was nobody to present hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053943:0029587319A:1877122001:0694/pct:11.373660995589162,57.34726322961617,16.43037177063642,3.259141494435612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053943:0029587319A:1877122001:0694/pct:8.540813110620864,43.01612536906654,12.322722975102426,2.4415171473995003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1405,7 +1405,7 @@ from the ties of friendship and blood.
 All this time it is not to be supposed  
 there was nobody to present his &quot;claims.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1877122101:0420/pct:28.359941944847606,42.492382053168015,10.899854862119014,2.1435326258274667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1877122101:0420/pct:28.359941944847606,42.499387061749154,10.909530720851475,2.1435326258274667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1424,7 +1424,7 @@ swayed in the disposal of places by motives
 arising from the ties of friendship and blood.  
 All this time it is not to be supposed there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779532:1877122301:0596/pct:127.18023255813954,235.98853868194843,36.04651162790697,3.8586437440305636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779532:1877122301:0596/pct:31.806615776081426,58.99713467048711,9.01490367139222,0.9646609360076409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1444,7 +1444,7 @@ the ties of frendship and blood.&quot;
 All this time it is. not to be suppos­  
 ed there was nobody to present hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:0029602109A:1877122601:0409/pct:66.53522607781282,102.07667731629392,14.300736067297581,4.771033013844516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:0029602109A:1877122601:0409/pct:49.9145523859603,76.5601703940362,10.72696200867622,3.5782747603833864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1463,7 +1463,7 @@ by motives arising from the ties of
 friendship and blood. All this time  
 it is not to be supposed there was no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1877122601:0893/pct:28.241430700447093,162.04436373070436,48.06259314456036,13.12751329614736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1877122601:0893/pct:7.0643056849953405,40.51109093267609,12.022367194780989,3.28187832403684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1483,7 +1483,7 @@ the ties of friendship and blood.” All
   
 this time it is not to be supposed ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768795:1877122601:0427/pct:5.838739573679333,4.872432532007,29.114259234741162,89.99723680574745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768795:1877122601:0427/pct:5.838739573679333,4.872432532007,29.12749900701708,90.00337723741978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1501,7 +1501,7 @@ sal of places hy motives arising from
 the ties of friendship and blood.” All  
 this time it is not to he supposed ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768813:1877122601:1246/pct:27.920104211897524,11.010184420589045,17.15154146765089,2.3671896504266448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768813:1877122601:1246/pct:27.93457808655377,11.010184420589045,17.158778404979014,2.385539957794293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1557,7 +1557,7 @@ tives arising from the ties of friendship and
 blood.”  
 AU this time it is not to be supposed ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347272:1878011001:0434/pct:48.95779051589369,32.31101936498575,11.00833767587285,2.005308168681805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347272:1878011001:0434/pct:48.95141331249186,32.307843522704935,11.011245712300813,2.0083873927003473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1575,7 +1575,7 @@ ed in the disposal of places by motives arising
 from the tics of friendship and blood.&quot; All  
 this time it is not to be supposed there wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777390:1878011101:0006/pct:96.30102040816327,54.486180014174344,14.303935860058308,2.0978029766123316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777390:1878011101:0006/pct:72.26982680036463,40.86463501063076,10.7383773928897,1.5875265768958187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1642,7 +1642,7 @@ by motives arising from the ties of
 friendship and blood.&quot; All this time it  
 is not to be supposed there was nobod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1878013001:0230/pct:65.58641975308642,78.75715028601144,14.454732510288066,3.2761310452418098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1878013001:0230/pct:49.20253815812039,59.07436297451898,10.838621162750815,2.4570982839313573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -62,7 +62,7 @@ all fiicceedinjr aen s.
 rance, that the judiciary fyftcm (hail re­  
 ceive your deliberate attention.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800112801:0001/pct:73.49282296650718,19.864355689525244,21.24401913875598,16.367746797287115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800112801:0001/pct:73.50079744816587,19.864355689525244,21.251993620414673,16.377794523988946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ I pray you, Gentlemen, to accept of my
 willies for your health and hap/jineU.  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800120301:0002/pct:23.927115799568448,3.403099536667199,33.51714217214097,92.13931938009267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800120301:0002/pct:23.927115799568448,3.415082281514619,33.52912970510669,92.1473078766576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ I pray you, Gentlemen, to accept of my
 best wishes for your health and lit-uppincss.  
 JUHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121201:0019/pct:25.031912177687005,21.80375615145124,45.391881541996426,72.35110977201968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121201:0019/pct:25.028717294192724,21.801566579634464,45.39034248032333,72.34719153779206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ tives regard the public good. - - _
 best withes for your healthand happiness,  
 Fobn Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800121601:0410/pct:23.78001549186677,4.2413556665687135,34.03563129357087,90.87080027426781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800121601:0410/pct:23.785179447456752,4.2413556665687135,34.03563129357087,90.8740653671597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ A navy, well organized, must constitute the
 natural and efficient defence of this country  
 against all foreign hostility
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897090501:0264/pct:56.628352490421456,34.49618206318311,51.34099616858238,8.384488695912562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897090501:0264/pct:14.162514373323113,8.624045515795778,12.840168646991184,2.0961221739781406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

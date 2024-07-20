@@ -37,7 +37,7 @@ I most sincerely thank you, Gentlemen, for your Declarations of Readiness at all
 h:f tival, détnand my warmest acknowledgments, and will  
 ¢he § be retained in grateful Remembranst. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775071101:0466/pct:5.143243852921272,93.00981314692835,28.490863974734943,2.016400053770668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775071101:0466/pct:5.150763215279344,93.0187749249451,28.490863974734943,2.011919164762289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -82,7 +82,7 @@ to make you and your Conftitusnts, as diftingdithed, in private and
 public Happiness, as you have bzl by ministerial Qpprefiion, by  
 private and pablic Diftre(s. . GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775071101:0466/pct:34.446198962328,16.88398978357306,27.99458605910219,19.115472509745935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775071101:0466/pct:34.46123768704414,16.89295156158982,27.99458605910219,19.115472509745935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ ralety., tont chouw hit escted province a
 to pee liberty and taty r  
 her people would only rememlier that a slavehalder was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856070801:0073/pct:97.74924974991664,80.55619134813459,57.81927309103035,14.362554360265507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856070801:0073/pct:32.58308324997221,26.85206378271153,19.273091030343448,4.787518120088502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ When Gen. Washington arrived at
 Cambridge, he was received with the  
 joyful acclamations of the America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894052501:0835/pct:86.1247947454844,280.1832760595647,57.389162561576356,95.24627720504009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894052501:0835/pct:21.544464982542618,70.04581901489118,14.356130622304375,23.811569301260022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

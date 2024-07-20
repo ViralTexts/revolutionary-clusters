@@ -55,7 +55,7 @@ I for my country; which comprehends them, you,
 I hut with pain and difficulty, 1 mn.l here conclude  
 [ with my iricudly and resp &#x27;ctful salutations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828080801:0111/pct:80.62216461438756,14.651883643299952,15.861957226182762,10.56270863137816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828080801:0111/pct:80.60910416329176,14.650137084277029,15.864787515524597,10.565422974530138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ my esteem as an undeviating patriot.”—¢l shall
 give his bust a place in my most honorable suite,  
 with those of Washington, Franklin, LaFavette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828090201:0551/pct:27.15938110259877,29.344465058750774,16.133393420459665,1.9892805607091322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828090201:0551/pct:27.15938110259877,29.347900776472205,16.153422462570727,1.9961519961519962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ bust a place in my most hononrahle roi&#x27;e, with those nt VYMhlngtoti Fr-n’
 lin, Fayette, Vc. —THOVi AS JEFFERSON.  
 “No present of the kind conld hive Iiren mnr» neerofn’.’r to rrc than 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102502:0212/pct:67.95007404273323,86.04222757545699,27.818912629574783,3.9251806716735156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102502:0212/pct:67.93570219966159,86.03003683763106,27.820078962210943,3.929347312742042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ my esteem as an undeviating patriot.”—*J shall
 give his bust avglace in my most honorable suite,  
 with those of Washington, Franklin, LaFayette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832100901:0106/pct:24.257857974388823,33.03409212354387,14.217112922002329,1.9130063054397777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832100901:0106/pct:24.26755917733799,33.037654518898506,14.212262320527746,1.9201310961490505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ my esteem asan undeviating patriot.””—*l shall
 give his bust a place in my most honorable suite,  
 with those of Washington, Franklin, La¥Fayette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832101601:0110/pct:39.15932399248881,28.565301308170707,13.967932977033078,1.8871970834226892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832101601:0110/pct:39.16895372911551,28.57244978197155,13.97274784534643,1.8907713203231111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ with those of Washington, Franklin. LaFayeite;
 [See letter to Mr. Jomes Ronaldson.] I  
 «“Of this [that is of his high opinion of Ge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832110601:0122/pct:23.753452536705918,27.32500276456928,14.275330716673935,3.085259316598474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832110601:0122/pct:23.763143867810243,27.32500276456928,14.285022047778263,3.0963175937188985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

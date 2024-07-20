@@ -81,7 +81,7 @@ bushels. Tour on them forty gallons of cold water,
 and after two, or three 3w draw it off; boil it as  
 other bee, adding a little hops. This makes a ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1864082601:0351/pct:92.38690074274139,89.30131004366812,20.239702903443618,12.396894711305192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1864082601:0351/pct:69.3177980412023,66.98204754973314,15.180682201958797,9.303736050460941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ and after two or three days draw it off ; boil it as
 other beer, adding a little hope. This makes a very  
 strong beer. .: . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1864083101:0515/pct:90.625,97.40409207161126,20.021802325581394,8.350383631713555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1864083101:0515/pct:67.98110121751772,73.05626598465473,15.028166454661093,6.265984654731458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ bushele. Pour on then forty gallons of cull water uul
 after two or three days draw it oil, bod :t aa other I er,  
 adding a little hop3. This makes a very strong beer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864111001:0397/pct:109.81237322515213,63.501742160278745,19.675456389452332,5.6329849012775846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864111001:0397/pct:82.39695624603678,47.62872628726287,14.762206721623336,4.229578010065815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ powder, and letting it stand two or three
 days longer, you may have a very fine small  
 beer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1874011601:0206/pct:84.3639859019545,27.044753086419753,11.11823133611022,9.323559670781894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349517:1874011601:0206/pct:84.35047252923275,27.04127555612704,11.120454909498639,9.325575414684325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ it as other beer, adding a little hops.
 This recipe is said lo make a very strong  
 beer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_bathouse_ver01:data:sn96027724:00271761570:1893081601:0520/pct:36.427829698857735,7.0989461358313815,55.86708203530633,115.44203747072599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_bathouse_ver01:data:sn96027724:00271761570:1893081601:0520/pct:28.236493374108054,5.501777206382818,43.29631417994528,89.480450729789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

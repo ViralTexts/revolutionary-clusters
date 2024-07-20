@@ -125,7 +125,7 @@ the States General.
 &quot; On the Bth of July they voted an address to  
 the King to remove the troops. This piece of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0001/pct:30.20987289388117,66.8890583301563,26.189772391368606,26.820434616850935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0001/pct:30.232042565770026,66.8890583301563,26.189772391368606,26.83949675943576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ several regular sieges, and had never been taken.
 How they got in has as yet been impoflible to  
 discover : Those who pretend to have been of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0001/pct:57.37511084835944,14.105985512771635,27.253916642033698,79.87037743042318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0001/pct:57.3972805202483,14.115516584064048,27.23174697014484,79.86084635913076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ the milice Bourgeoife organizing and training
 The ancient police of the city is abolished by the  
 authority of the people.—They believe still that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0002/pct:19.823913660891794,5.7083254314432015,26.44135188866799,51.62146785511094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0002/pct:19.823913660891794,5.713066565522473,26.4697529111048,51.62620898919022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ there—We expert, however, to hear of him in a
 day or two. M. le Comte de IaLuzERNE has re­  
 sumed the department of the Marine this day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0002/pct:19.312695257029254,58.01251659396928,25.532519170690144,20.10240849611227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0002/pct:19.319795512638454,58.01251659396928,25.560920193126954,20.116631898350086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

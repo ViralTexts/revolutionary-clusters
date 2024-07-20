@@ -67,7 +67,7 @@ from juries l&#x27;ummoned by an officer, who &#x27;
 does not receive his appointment from the  
 President, and is under no influence to cour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012601:0002/pct:43.33497294638465,21.09291290371958,17.90457452041318,2.479718352977193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799012601:0002/pct:43.3411214953271,21.096739629572937,17.92302016724053,2.4950252563906323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ States, delivered at the request of the May.
 or, Aldermen and common council of tho  
 city of Boston, September 27, 1830. It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn83016620:00202197991:1836120701:0102/pct:82.2296947749612,22.049273270796824,17.563372995344025,4.855169570147408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn83016620:00202197991:1836120701:0102/pct:54.84538750161729,14.69951551386455,11.709147367059128,3.236779713431605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

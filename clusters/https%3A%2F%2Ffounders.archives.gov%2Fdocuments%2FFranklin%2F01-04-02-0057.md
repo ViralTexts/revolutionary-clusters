@@ -367,7 +367,7 @@ come around into fashion again&quot;
 but that was a hundred years ago.  
 Jefferson, like John Adams, put 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537966:1886120101:0382/pct:35.387411201057326,38.858049167327515,14.356517429373865,3.4553075790189194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537966:1886120101:0382/pct:35.39842502340437,38.8618254597636,14.356517429373865,3.4553075790189194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ come around into fashion again&quot;—
 but that was a hundred, years ago.  
 Jefferson, like John Adams, put 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479238:1886120301:0444/pct:68.8926697859067,24.621718991250642,12.278463065362256,3.4791559444158517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479238:1886120301:0444/pct:68.8926697859067,24.628581231772174,12.292641429179072,3.4791559444158517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ come around into fashion again&quot;—
 but that was a hundred years ago.  
 Jefferson, like John Adams, put 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1886120901:1025/pct:38.41702127659575,27.058383233532933,14.417021276595746,4.229041916167665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1886120901:1025/pct:32.65975403906438,23.006503605259436,12.254641909814323,3.5875865969178564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ come around into fashion again&quot;—
 but that was a hundred years ago.  
 Jefferson, like John Adams, put 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478714:1886121601:1298/pct:37.863152881409746,25.429756965026673,13.52595650103191,4.018968583283936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478714:1886121601:1298/pct:33.13886187896467,22.25795297372061,11.830346807426958,3.5096818810511756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ wish the out cf fashion practice of praising
 ourselves would, like other old fashions,  
 comaaround into fashion again.&quot; And m ni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539252:1886122201:0348/pct:65.79378068739771,45.62028499580889,14.293507910529188,5.071248952221291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539252:1886122201:0348/pct:49.358799454297404,34.22045264040235,10.736698499317871,3.803436714165968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ wish the out of fashion practice of praising
 ourselves would, like other old fashions,  
 come around into fashion again.&quot; And m hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_dauer_ver03:data:sn89070049:00295865611:1887011301:0043/pct:184.13751507840772,177.2430028773215,47.46682750301568,15.642165838346848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_dauer_ver03:data:sn89070049:00295865611:1887011301:0043/pct:46.03437876960193,44.31075071933037,11.86670687575392,3.910541459586712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ come around into fashion again&quot;—
 but that was a hundred years ago.  
 Jefferson, like John Adams, put 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_lawrencium_ver01:data:sn88076679:00199918527:1887020301:0079/pct:34.69058006139926,40.33436669619132,14.04104055582485,3.808680248007086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_lawrencium_ver01:data:sn88076679:00199918527:1887020301:0079/pct:34.69596596111381,40.33436669619132,14.046426455539399,3.808680248007086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ wish the out of fashion practice of praising
 ourselves would, like other old fashions,  
 come around into fashion again.&quot; And in bi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237285347:1887041201:0515/pct:28.72977831036549,41.868360530062425,18.364289994008388,6.264374110174132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237285347:1887041201:0515/pct:19.16104868913858,27.915890921038223,12.239700374531836,4.172598839119483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

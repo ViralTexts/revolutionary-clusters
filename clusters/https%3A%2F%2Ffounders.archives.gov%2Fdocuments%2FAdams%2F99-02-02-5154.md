@@ -679,7 +679,7 @@ holy mountain: for the earth,” that is. our ear’ll­
 ly tabernacles, “shall be full of the knowledge  
 of the Lord, as the wafers cover the sea.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830042601:0700/pct:81.56794425087108,34.011802962784536,16.637630662020907,8.298205467903168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830042601:0700/pct:81.55373628287755,34.00770712909441,16.640538814376125,8.301220295439949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1097,7 +1097,7 @@ hurt nor destroy in all my holy mountain: for
 the earth shall be full of the knowledge of the ^  
 Lord, as the waters cover the sea.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016500:1843081101:0028/pct:64.61509146341463,13.063517211580008,31.421493902439025,83.52297277833789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016500:1843081101:0028/pct:64.60278148218708,13.06163594470046,31.420270527719566,83.51454493087557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1427,7 +1427,7 @@ ticable theory. It is written that  the wolf and
 the lamb shall feed together, and the lion shall eat  
 traw like the buliock. When that comes to pas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850031501:0511/pct:171.0111994806038,212.02390718387437,41.66531407239084,5.566623696238135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850031501:0511/pct:57.003733160201264,70.67463572795812,13.888438024130282,1.855541232079378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1947,7 +1947,7 @@ stroy in all my holy mountain; for the earth shall be
 full of the knowledge of the Lord, as the waters cover  
 the sea.” Science shows us that the word is true in de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn85026214:print00211110168:1868092701:0003/pct:57.3540280857354,58.345202641460574,12.121212121212121,4.45422763174932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn85026214:print00211110168:1868092701:0003/pct:57.3540280857354,58.345202641460574,12.135070214338507,4.463938883853425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2145,7 +2145,7 @@ Watet Covy d
 These words furntsh the greatest encourage­  
 ment to carry forward every design for the e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873102201:0400/pct:20.13170272812794,72.03331020124914,43.555973659454374,26.16238723108952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873102201:0400/pct:5.034109621265585,18.008327550312284,10.891554928252177,6.54059680777238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2200,7 +2200,7 @@ mountain : for the earth shall be full of the
 knowledge of the Lord, as the waters cover  
 the sea.&quot; Isaiah 11
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862750:1874100101:0172/pct:29.946524064171122,59.666427546628405,15.077605321507761,11.953012912482066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862750:1874100101:0172/pct:29.95087170123038,59.666427546628405,15.081952958567019,11.956001912960305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2291,7 +2291,7 @@ the knowledge of the Lord, as the water
 cover the sea.&quot;  
 hat a picture of concord! The story i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1875082501:0980/pct:112.26993865030674,70.08356545961003,43.02147239263804,23.899721448467968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1875082501:0980/pct:28.07825086306099,17.520891364902507,10.759493670886076,5.974930362116992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2322,7 +2322,7 @@ Lord, as the waters shall cover the sea.&quot;
 What a picture of concord! The story is  
 told of Mendelsson, that when a boy he was s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1875091801:0189/pct:162.12069553358336,77.466105656849,37.77702011592226,28.99719495091164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1875091801:0189/pct:54.04023184452779,25.822035218949665,12.592340038640755,9.665731650303881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2596,7 +2596,7 @@ mere figures of speech. We may not
 speak of “the earth and the heavens pass­  
 ing away with great noise, and the elements
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889061301:0096/pct:49.557522123893804,84.33290798241883,11.081185071181224,10.321848858641713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889061301:0096/pct:49.54798999807655,84.32095265097817,11.083862281207924,10.323929685284945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2679,7 +2679,7 @@ fulfillment of the sixty-fifth chapter of Isaiah,
 “the wolf and the lamb shall feed together and  
 the lion shall eat straw like the bullock.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:00199919751:1893092101:0572/pct:45.21753570242444,62.69873624133714,14.762537363002325,3.43796711509716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:00199919751:1893092101:0572/pct:45.21753570242444,62.70326584227929,14.773607882209676,3.442496716039317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2712,7 +2712,7 @@ ock; and dust shall be the serpent&#x27;s or
 deceiver&#x27;s meat. They shall not hurt  
 nor destroy in all my holy mountain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270204:00279527768:1894122001:0279/pct:84.54056291390728,72.20800215546275,19.019039735099337,13.646773541694733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270204:00279527768:1894122001:0279/pct:63.43685300207039,54.15600161659707,14.265010351966874,10.238448066819345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2786,7 +2786,7 @@ the lamb shall feed together and the
 lion shall c-at straw like the bullock  
 and dust shall be the serpent&#x27;s meat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206537450:1897081501:0476/pct:4.796710826861581,89.47081287506819,12.425765189584284,1.6475722858701582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206537450:1897081501:0476/pct:4.796710826861581,89.47081287506819,12.425765189584284,1.6512093107837789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2919,7 +2919,7 @@ after those days saith the Lord. I will put my
 law in their inward pirts, and in their heart will  
 I write it, and I will be their God, and they shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_honeydew_ver01:data:sn82004649:00517016196:1898072101:0876/pct:6.822316555488174,7.253551442100732,29.017586416009703,41.77787343951786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_honeydew_ver01:data:sn82004649:00517016196:1898072101:0876/pct:6.820248560169748,7.251990531525715,29.016368596544407,41.77426296535399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

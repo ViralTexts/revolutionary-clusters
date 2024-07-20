@@ -1001,7 +1001,7 @@ would it not give all the appearances of an aurora borealis.”§ Mr. Rowel
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1860-03-10_2_11/page/n3/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1860-03-10_2_11/page/n3/mode/1up?view=theater)
 
 #### 1860-03-10 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1063,7 +1063,7 @@ oporation of nature were really performed,
 would it uot give all tho appearance of an  
 aurora boreali!&quot; Marian and tho lat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033622:00296026462:1860032801:0210/pct:116.9776119402985,99.45652173913044,20.99728629579376,15.879017013232515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033622:00296026462:1860032801:0210/pct:78.02477515696589,66.30434782608695,14.016629899881215,10.58601134215501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

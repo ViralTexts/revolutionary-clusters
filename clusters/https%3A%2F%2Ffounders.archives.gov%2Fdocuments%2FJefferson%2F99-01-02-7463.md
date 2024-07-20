@@ -230,7 +230,7 @@ shall strike that river, it still to be. decided.
 In forming this decision, I shall pay materi­  
 al regard to the intereis and wishes of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808022601:0391/pct:76.69268469776729,82.24207563333741,17.988745688872754,11.883490392852773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808022601:0391/pct:76.67876588021778,82.23201174743025,17.991530550514216,11.886115190079948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ tive thereto, as they may deem proper un­
 der existing circumstances.  
 &#x27; TH: JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808022601:0392/pct:4.4733559080377825,1.3733592610597958,18.125111388344322,14.36558094312105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808022601:0392/pct:4.47255880256593,1.373192368453032,18.12782133523402,14.367885931866974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ lative the-&quot;to as they may deem proper un­
 der existing circumstances  
 TH: JEFFERSON 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808022601:0072/pct:23.459131424236677,31.073164651626573,17.807699601744737,26.785491711329925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808022601:0072/pct:23.454683352294275,31.06929212362911,17.810643407913034,26.786307743436357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ Hit thereto as they may deem proper lin­
 ed der existing circumstances,  
 is- TH: JEFFERSON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808030201:0003/pct:41.99588477366255,4.17627466051755,37.674897119341566,90.22546758903408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808030201:0003/pct:41.99588477366255,4.17627466051755,37.68861454046639,90.23827824750192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ ative thereto as they may deem proper un­
 der exiﬁing circumflances. : :  
 &#x27; &quot; TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808030801:0038/pct:43.98835962628274,66.51004698590422,16.112727829682953,26.81195641307608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808030801:0038/pct:43.99346505335171,66.51671165317072,16.117833256751926,26.808624079442833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,13 +509,13 @@ limits at which it s*iall strike tlwt river is still to be decided,
 General Government to St. Louis, passing through many in­  
 teresting points ot the W estern country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102101:0369/pct:33.9573732718894,25.022716946842344,15.682603686635945,3.3621081326669695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102101:0369/pct:33.966973886328724,25.0265031046494,15.692204301075268,3.365894290474027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-01_9_13/page/n11/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-01_9_13/page/n11/mode/1up?view=theater)
 
 #### 1849-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

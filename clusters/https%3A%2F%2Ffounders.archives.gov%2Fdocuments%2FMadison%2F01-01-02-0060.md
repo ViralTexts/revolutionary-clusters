@@ -50,7 +50,7 @@ It appears to your committee from the
 affidavits of sundry persons produced to  
 them, that since the marriage of the petiti­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806121901:0417/pct:4.541955350269438,65.73169183906587,17.571208622016936,3.528366543977662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806121901:0417/pct:4.54108139311141,65.72335025380711,17.574241549611955,3.532148900169205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -71,7 +71,7 @@ It appears to your committee from the affi­
 davits nfftmdryperfons produced to them, that  
 fin re the marriage of the petitioner with hi 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806122001:0265/pct:78.89363281975125,27.911572187229837,17.412288843512158,3.9150302581202916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806122001:0265/pct:78.87899034892354,27.908125463077305,17.415243751546647,3.9186630443730963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ on, as follows:
 It appears to your committee by the depofitions of  
 fundry perfons, that fince the intermarriage of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806122301:0270/pct:77.55400952032223,33.10104529616725,17.557671182716952,3.285216525634644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806122301:0270/pct:77.53981328940142,33.096926713947994,17.56055891146501,3.288955248641699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ as follows:
 Tt appears to your committee by the de­  
 positions of sundry persona, that since th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806122301:0421/pct:5.202973127501429,85.0248946763692,17.53382885458357,2.9745946636027063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806122301:0421/pct:5.201981707317073,85.01404135818228,17.536839430894307,2.978469917453834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ on of Daniel Ro e to them referred, and have agreed upon a report, and tome to a
 as follows:  
 It appears to your committee from the affidavit of a certain Jane Smith, that the petitioner in the niontl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806122601:0424/pct:53.17997293640054,41.857753595025265,44.5389522520781,3.6274128773157144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806122601:0424/pct:53.16969462698106,41.85233160621762,44.53678649658549,3.6312607944732296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ red, and have agreed upon a report, and come to ;
 a resolution thereupon, as follow :  
 It appears lo your committee, that in the yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808121701:0271/pct:5.649194295239859,12.83496118206862,17.929246156695683,1.6153268219383923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808121701:0271/pct:5.648148148148148,12.833354200575936,17.932098765432098,1.6192980259588499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ on a report and conic to a resolution thereup­
 on, as follow :  
 It appears to your committee that in a shor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808122001:0415/pct:21.364928909952607,37.2642114718337,17.70616113744076,5.492108302322597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808122001:0415/pct:21.36087945413192,37.259430331023864,17.709123073035126,5.495680437943717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ she had acquired the character of a woman
 ot unsullied reputation ;—that some time  
 during the last year she was addressed b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808122401:0283/pct:58.13328556073092,68.50608998260005,17.018989609458977,10.837683320904798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808122401:0283/pct:58.12287300734372,68.49757673667204,17.02191175592573,10.840478853402924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ port and come to a resolution there­
 upon, as follow ;  
 It app- ars to your committee, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808123001:0426/pct:59.56546817919631,29.29318703750957,17.977312055373968,7.09364633835162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808123001:0426/pct:59.55401768550558,29.289450184972573,17.980264001025247,7.096993664157843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ of age, w is m irried to a certain West Al­
 ricks, by whom she has two daughters :  
 that the said West and the petitioner liv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808123001:0427/pct:4.7257544126020115,7.652865017305474,17.82121844752325,9.357774644276375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808123001:0427/pct:4.724857685009487,7.651884132273776,17.82416192283365,9.36084764590276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ and have agreed upon a report and come to a re
 solution thereupon, a- follow :  
 It appears to your committee, That in the yea*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809121901:0270/pct:60.42312602589823,88.74737232595524,16.94327922670071,1.6322492889823172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809121901:0270/pct:60.412107950401165,88.73639960435213,16.946267930950643,1.6361688097593141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ FROM THE
 FIRST SESSION or the LEGISLATURE,  
 in the yeah 1619
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809122601:0410/pct:60.733082706766915,8.949117872666838,17.93233082706767,9.064177959601125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809122601:0410/pct:60.721668859236985,8.947973923047424,17.93522520829418,9.06728024202139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ times, but more especially in disastrous
 times like the present, it become* the duty  
 of the Legislature to give every practicable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122801:0285/pct:60.38949108947272,17.404021937842778,17.655704574683078,7.312614259597806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122801:0285/pct:60.37839823659074,17.40190104801365,17.658584374234632,7.3157851978227315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ upon, as follow :
 it appears to your committrp, that after  
 the intermarriage of the petitioner with he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010601:0301/pct:59.18514512349017,70.12875536480686,16.765819361817197,3.9975475168608217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010601:0301/pct:59.17447728911319,70.1201569396763,16.768805575582792,4.001144351806441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ these lands were to be purchased by Ge&lt;
 Carrington, Samuel Jordan and John Nie’.t- j  
 olas, who acted as trustees, and to whom th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810013001:0341/pct:6.0991339598304775,19.175257731958762,17.781463055094896,8.732565191024863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810013001:0341/pct:6.0980103168754605,19.172932330827066,17.784328174895602,8.735548548791334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ to a resolution thereupon, as follow t
 It appears to your Committee by the  
 I affidavits of sundry persons that in o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810121401:0405/pct:60.29188779378317,21.33960345704118,18.043972706595905,4.092526690391459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810121401:0405/pct:60.280462383930264,21.33689159994917,18.04687006506222,4.096242639894946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ tion the petition of Robert Brough be Wilson Roush,
 to them referred, agreed upon a report, and come to  
 a resolution thereupon-—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812010901:0294/pct:4.228946409041196,58.83726647000983,17.389719285453882,1.8928220255653885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812010901:0294/pct:4.228175687989794,58.83003563967064,17.392624992406294,1.8966859202818402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ a certain Thomas Dillard, of the county of King
 and Queen, who for a short time thereafter trea­  
 ted her with tenderness, hut he soon after be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812010901:0015/pct:58.26534231997162,73.11738976238325,16.548421426037603,4.5395436812862044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812010901:0015/pct:58.25500975350239,73.10874704491725,16.55139800200981,4.54294720252167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ if matrimony, with n certain Walton Knight, whom
 ilo- treated with the utmost affection*—regardless of  
 which, lie hns behaved toiler in the most harsh an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812011101:0298/pct:23.086804918333637,82.49754178957718,17.599559552211414,3.355457227138643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812011101:0298/pct:23.08256880733945,82.4874032198599,17.60244648318043,3.35914137069354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ HLNINGS SIAIUTLS AT LARGE: being a collcc- i
 tion of all the Laws of V irginia, from the first session of  
 the Legislature, in the year 1619, in 13 volumes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826050201:0099/pct:22.336878869661852,64.21202419067947,17.907604381647882,1.4822720265623148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826050201:0099/pct:22.333333333333332,64.20441071852028,17.91005291005291,1.48604853371275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

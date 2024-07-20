@@ -415,7 +415,7 @@ rights as Englishmen. The early charters
 treated the settlers as adventurers, and  
 took little 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665477:1894031501:0144/pct:93.60158311345647,63.582038586306986,16.523746701846967,18.729725115246712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665477:1894031501:0144/pct:70.22984713515892,47.68652893973024,12.3941493456505,14.051562233225201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ that they would all rub off when they were
 dry.&quot; It is certain that, on the whole, public  
 opinion in the United States was then and ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898120401:0441/pct:132.45679939894816,358.1615513818904,49.66190833959429,13.37608795235914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898120401:0441/pct:33.1204208153297,89.5403878454726,12.417809505917715,3.344021988089785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ clear what use Franklin was making of
 the English post-office. He found it  
 was a vehicle for telling some straight
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_butternut_ver01:data:sn84020358:00415668193:1899111801:1087/pct:8.287724784988272,50.831460674157306,17.474589523064896,9.94756554307116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_butternut_ver01:data:sn84020358:00415668193:1899111801:1087/pct:6.219440641502054,38.12734082397004,13.123410913358107,7.46067415730337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

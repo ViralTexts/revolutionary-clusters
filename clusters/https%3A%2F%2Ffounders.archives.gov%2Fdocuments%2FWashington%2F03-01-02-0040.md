@@ -57,7 +57,7 @@ Hand-bills were printed at Cambridge, and sent on a
 favorable wind across the lines into the British camp. On  
 one of these, an address to the British soldiers bears th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843060801:0649/pct:154.85164394546914,104.01262398557259,52.253408179631116,11.902614968440036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843060801:0649/pct:51.61721464848971,34.67087466185753,17.417802726543705,3.967538322813345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ This order is to be considered a standing
 one, and the officer are to pay ebedieace to  
 it at their perils
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1855020101:0420/pct:23.398835516739446,104.76739161745643,16.721251819505095,14.042920927552931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1855020101:0420/pct:17.561419472247497,78.58274521100388,12.53867151956324,10.528589946708916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ obedience to it at their peril.
 FOX,  
 Adjutant General of the Day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051801:0638/pct:80.97533840163175,12.944701036075397,15.705544223994066,13.381600299588067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051801:0638/pct:80.97533840163175,12.953022926808972,15.711725075715433,13.381600299588067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ their part.
 (Signed.) FON, Adjt of the Day.  
 Countersigned Exeter,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855052201:0933/pct:202.82242257938063,67.22491552813281,58.66326930615445,24.57764066402233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855052201:0933/pct:50.69566921418773,16.803760282021152,14.66294336664707,6.1435076380728555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ a standing one, and the officers are to pay
 obedience to it at their peril.  
 &quot;Pox, Adjutant General of the Day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477771:1855053001:0182/pct:25.523145212428663,27.343845495660677,19.29296131896005,7.236279183473903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477771:1855053001:0182/pct:19.156359023152554,20.510939982887177,14.478274659054868,5.427209387605427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ it on their part.
 Signed! Fox.  
 Adj&#x27;t of the day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855053001:0296/pct:259.592795614722,110.97638800255265,45.02740798747063,30.24888321633695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855053001:0296/pct:64.91090659878599,27.744097000638163,11.25905619737615,7.562220804084237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ This order to be considered as a standing one,
 and the officers pay obedience to it on their part.  
 Signed, Fox, Adjt. of the day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1855060501:0223/pct:56.36510283640274,68.68044515103338,12.474794999327866,10.482246952835188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1855060501:0223/pct:56.3740646144195,68.6839780957428,12.470314110319487,10.482246952835188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ officer ; are to p.iv oliedience to it, at their
 peril.&quot;  
 The circumstances of the moment full
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014286:0020219168A:1855062101:0098/pct:35.62380497131931,35.685540477304635,14.507648183556405,7.767898923724848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014286:0020219168A:1855062101:0098/pct:26.724034899008007,26.766495086569957,10.888012429783673,5.830603649976602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ coisidered i standing one, and the officers are to pay
 obedience to it, at their perii.&quot;  
 The circumstances of the moment fully explai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855062901:0322/pct:85.66929133858268,70.50387977605344,19.79002624671916,7.0523524211767015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855062901:0322/pct:64.2688369650827,52.88282094096847,14.84641638225256,5.2941754248109225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ bet?rt?idereU a standing one. and the officers are to pay
 obudicuw lo it at their peril &#x27;  
 The circumstances ot the moment fully explain th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855071101:0762/pct:0.6741203551463334,42.131653381331965,15.718513646826702,5.065569555155567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855071101:0762/pct:0.6741203551463334,42.135938973172195,15.723994300120575,5.074140738836033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ standing one, and the officer are to pay obedi­
 ence to it, at their peril.”  
 1’he circumstances ot the moment fully ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855071701:0230/pct:82.76002166847238,34.34406585391268,13.028169014084508,6.12691466083151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855071701:0230/pct:82.74881516587678,34.34048760158366,13.029790115098171,6.128881016878516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -647,7 +647,7 @@ attached ; the order is to be considered
 pay obedience to it at their peril.”  
 The circumstance- of the moment full
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn93052998:00279557347:1855081801:0368/pct:55.78787302794146,20.36727879799666,26.23075460938985,74.56872565386756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn93052998:00279557347:1855081801:0368/pct:55.78787302794146,20.374234835837505,26.24501045428626,74.56524763494713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ onsidered a standing one, and the officers are to pay obe­
 dience to it at their peril  
 FON, Adj. General of the Day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855090401:0225/pct:94.3125,31.564070351758794,38.625,31.564070351758794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855090401:0225/pct:31.4375,10.521356783919598,12.875,10.521356783919598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -834,7 +834,7 @@ considered a standing one, and the officers are to pay obe­
 dience to it at their peril.  
 FOx, Adj. Gen of the day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856040301:0180/pct:92.97250109122653,52.92491939198526,38.774916339298706,29.34131736526946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184674:1856040301:0180/pct:30.986325283677626,17.639608520437537,12.923091843662109,9.779312991748226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -953,7 +953,7 @@ ing one, and the officers are to pay obedience
 to it at their peril.  
 Fox, Adj. Gen of theDay.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1856043001:0276/pct:82.6192400970089,173.34109429569267,60.79223928860146,42.84051222351572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1856043001:0276/pct:20.65898524358197,43.33527357392317,15.201131999191428,10.71012805587893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1084,7 +1084,7 @@ has a wife and family in it to whom he is known to be attached.
 This order is to be considered as a standing one, and the offi­  
 cers arc io pay obedience to it at their peril.’ ” Many reader
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1856113001:0001/pct:4.5886075949367084,74.05712872511438,12.183544303797468,3.783850624459008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1856113001:0001/pct:4.5886075949367084,74.06022010634351,12.192334739803094,3.783850624459008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1276,7 +1276,7 @@ hospital at Watertown, with the like certificate
 ns above, on which the surgeon of Watertown  
 hospital is to receive and take care ot him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860062101:0585/pct:4.899302865995352,38.93022602835884,16.402013942680092,81.97388740699144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860062101:0585/pct:3.806903451725863,30.174446016030174,12.716358179089545,63.533166503463534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1340,7 +1340,7 @@ is known to be attached ; the order is considered
 a standing one, and the cffoers are to pay r  
 obedience to it at their peril
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762039:1878112401:0629/pct:66.3977410246067,55.38053390814127,16.498588140379184,5.488310396285857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762039:1878112401:0629/pct:66.38435168380722,55.38053390814127,16.495261141359144,5.488310396285857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1371,7 +1371,7 @@ dier fare in the early days:
 “Bations allowed by the Continental j  
 Congress unto each soldier, viz: 1 lb. o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685294:1880122301:0214/pct:63.34776334776335,31.156026620655656,11.143177809844477,7.4685728370717275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685294:1880122301:0214/pct:63.3376082077589,31.15218730745533,11.145399166399487,7.470733210104744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1403,7 +1403,7 @@ be attached. The order is to be con­
 sidered a standing one. and the officers  
 are to pay obedience to it at their peril.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1890072601:0416/pct:23.003694231315716,50.187836328561275,13.895993179880648,11.168646563102852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1890072601:0416/pct:23.003694231315716,50.19122076691373,13.914937955858672,11.168646563102852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1432,7 +1432,7 @@ the officers are to pay obedience to it at ,
 their peril. BKI  
 &quot;(Sinned.) Fox. adjutant of the day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00175033506:1890072701:0246/pct:83.64064882850408,63.46522016592215,11.562456675447109,6.094447989789407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00175033506:1890072701:0246/pct:83.64064882850408,63.46522016592215,11.571699246730441,6.097993334751472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1461,7 +1461,7 @@ the officers are to pay obedience to it at ,
 their peril. ,  
 &quot;(Signed.) Fox. adjutant of the day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00175033506:1890072701:0245/pct:83.90406211007902,63.741757072963196,11.493137390822127,6.105084024675601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00175033506:1890072701:0245/pct:83.90406211007902,63.74884776288733,11.502379962105458,6.112174714599731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1489,7 +1489,7 @@ as a standing one, and the officers are to
 pay obedience to it at their peril.  
 (Signed) Fox, adjutant of ths da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1890080201:0428/pct:65.24679810044611,60.423992766000204,14.045186357749316,8.871696975786195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1890080201:0428/pct:65.25159495371037,60.423992766000204,14.049983211013576,8.875046049767239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1549,7 +1549,7 @@ obedience to it at their peril.&quot;
 Thk action of the Methodists, in con­  
 ference assembled, in placing them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:00279527549:1892051301:0167/pct:25.951557093425606,63.74821173104435,19.052768166089965,10.844062947067238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:00279527549:1892051301:0167/pct:19.472090004327132,47.81115879828326,14.30116832540026,8.140200286123033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1603,7 +1603,7 @@ to be considered as a standing one, and
 the officers are to pay obedience to it,  
 ot thels perdl % 8
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153784:1897110801:0553/pct:30.199842229818564,50.6553911205074,12.424401788062056,7.33615221987315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153784:1897110801:0553/pct:30.208607239898328,50.6553911205074,12.424401788062056,7.343199436222692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1633,7 +1633,7 @@ is known to be attached. This order is
 the officers are to pay obedience to it,  
 at their peril.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1897112701:0194/pct:5.203405865657522,58.95088637024121,12.639545884578997,8.079046788724208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1897112701:0194/pct:5.21759697256386,58.95088637024121,12.639545884578997,8.100842778262134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

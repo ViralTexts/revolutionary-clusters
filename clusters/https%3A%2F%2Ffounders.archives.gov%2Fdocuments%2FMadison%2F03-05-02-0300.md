@@ -112,7 +112,7 @@ country in the present contest, and rely on*
 the great Arbiter of events fur a favorable  
 result
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812110601:0212/pct:6.583694083694084,4.761904761904762,34.81240981240981,91.34638627024414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812110601:0212/pct:6.582506762849414,4.761329305135952,34.81214307183649,91.33937562940584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ ernment and country in the present
 contest; and rely on the Great Arbiter  
 of events for a favorable result.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1855061501:0936/pct:56.50557620817844,255.3697931425333,44.46096654275093,76.45225276282233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1855061501:0936/pct:14.12902026398959,63.842448285633324,11.117308049823388,19.11306319070558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

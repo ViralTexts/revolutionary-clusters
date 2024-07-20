@@ -315,7 +315,7 @@ lived peaceably and inoffenfively, and were Justly con-
 Jidered as under the Prowection of that Government  
 and its Laws, therefare the Governor has issued 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764012001:0161/pct:36.76406454426515,28.818443804034583,28.041866550370692,9.596541786743515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764012001:0161/pct:36.77860154092165,28.818443804034583,28.04913504869894,9.601344860710855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ the Province Island and ather places in the neighbour­
 hood of Philadelphia where provision is made for  
 them at the public Expence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764012001:0161/pct:37.06934147405146,44.5821325648415,27.692978630614913,3.0835734870317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764012001:0161/pct:37.08387847070795,44.58693563880884,27.68571013228667,3.0883765609990395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ Reason or Provocation, they barbarously killed Six of
 the Indians fettled there, and burnt and deflroyed all  
 their Hou/£ and Effects 5 the others precipitatel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764012701:0165/pct:67.16322621834433,39.20033552355655,27.79314747818685,7.269677058576821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1764012701:0165/pct:67.16322621834433,39.209655622349594,27.814428601830176,7.265017009180298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5499,7 +5499,7 @@ and protection.”
 I The ship accordingly departed, and ar­  
 i rived safe in London.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769301:1860012701:0113/pct:82.95021858694119,6.972004719510887,12.87547595543647,20.583503164217525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769301:1860012701:0113/pct:82.95021858694119,6.975580106546533,12.880176749870728,20.59065393828882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5548,7 +5548,7 @@ The negroes, seeing his resO uuon, and being con­
 viudSd that they were wrong, went awayamame.i;  
 and afterward declared taey wore glad tney had no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00205958216:1878122901:0006/pct:69.8510242085661,55.813055233680956,12.309124767225326,11.175486030642462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00205958216:1878122901:0006/pct:69.85567970204842,55.82271147161066,12.318435754189943,11.175486030642462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5627,7 +5627,7 @@ also connected by means of an insulated
 wire with the coil. Then, if the point  
 of the pen (which is bare) is tou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291074:1879030101:1276/pct:36.680672268907564,39.403070741856794,14.285714285714286,33.08939589611135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291074:1879030101:1276/pct:36.69642857142857,39.403070741856794,14.269957983193278,33.100157841871145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5841,7 +5841,7 @@ which was to last &quot;as long as the sun
 should shine, or the waters run into the  
 rivers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282243:1880060801:0546/pct:176.83941138835573,96.7169901749341,49.26423544465771,20.608674814282292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282243:1880060801:0546/pct:44.23107697231557,24.179247543733524,12.32197151544247,5.152168703570573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5881,7 +5881,7 @@ to have been an exceeding good man, con­
 sidering his education; being naturally of  
 a most kind, benevolent temper.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282243:1880060801:0546/pct:228.08701215611003,235.4660915408579,50.54382597568778,46.53726335969326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282243:1880060801:0546/pct:57.04912786045767,58.86652288521447,12.642022723635781,11.634315839923316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5932,7 +5932,7 @@ writer nor the printer dared to give &quot;name
 or place of abode.&quot;  
 There are also two private letters stil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282243:1880060801:0546/pct:279.46257197696735,67.09801102324467,49.32821497120921,69.06302420321111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282243:1880060801:0546/pct:69.8991838694191,16.774502755811167,12.337974075852136,17.26575605080278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5972,7 +5972,7 @@ heathen. Horrid perversion of scripture
 and religion, to father the worst of crimes  
 on the God of Love and Peace!&quot; It is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282243:1880060801:0546/pct:279.5265515035189,259.33381260484066,49.520153550863725,51.809249940091064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282243:1880060801:0546/pct:69.91518642982878,64.83345315121016,12.385981757081133,12.952312485022766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5994,7 +5994,7 @@ were scalped and &#x27;otherwise horribly nian-
 ! gled. Then their huts were set on tire ami j  
 most of them burnt to the ground.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477710:1881021801:0555/pct:64.83485193621868,72.17175887696119,15.617881548974943,4.293971924029727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477710:1881021801:0555/pct:48.640182258294175,54.13471747080335,11.71863875836537,3.2204789430222958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6015,7 +6015,7 @@ have been an exceeding good man, consider- :
 i ing his education ; being naturally of a most j  
 1 kind, benevolent temper.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477710:1881021801:0555/pct:64.86332574031891,76.40674767016634,15.632118451025057,3.751327120443553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477710:1881021801:0555/pct:48.6544211875267,57.30800990916598,11.732877687597894,2.819393653415123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6064,7 +6064,7 @@ published in Philadelphia at the time of the
 massacre ; published anonymously, because  
 &quot;so much hud fear seized the minds of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477710:1881021801:0555/pct:65.78872437357631,23.09779403090716,29.49886104783599,106.84204317565177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477710:1881021801:0555/pct:49.35212871992026,17.32924383626283,22.127296027338744,80.13448153828006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6096,7 +6096,7 @@ middle of the 18th century without tiie re- .
 flection that we omflves are leaving the !  
 recotd of the ltUh blackened by the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477710:1881021801:0555/pct:80.86560364464692,79.79237937949746,15.333143507972665,11.761236286422083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477710:1881021801:0555/pct:60.657838530542506,59.8442845346231,11.505054819877545,8.823876371357791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6186,7 +6186,7 @@ tion was made on the 22d of December. Not­
 withstanding Penn&#x27;s interposition, the people,  
 especially those on the far western borner o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886090401:0715/pct:16.454749439042633,184.8497672450275,50.11219147344802,25.842855127662578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1886090401:0715/pct:4.11522633744856,46.21244181125687,12.532734754956977,6.460713781915644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6416,7 +6416,7 @@ improved. The difficulty does not
 arise because the Indians are wild  
 and savage men. There are unoum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn2007060551:00514157467:1893061401:0149/pct:43.42244108336264,54.16879143294238,12.32852620471333,11.040285568587455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn2007060551:00514157467:1893061401:0149/pct:43.41480569720415,54.161886551943915,12.330754352030947,11.042065009560229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6475,7 +6475,7 @@ but God is just and good, and I thank
 him I am innocent of yours, and that  
 my faith given is preserved!’’ His poin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584405:1895062001:0216/pct:41.149068322981364,58.428606178545365,15.717736369910282,27.1588421308684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584405:1895062001:0216/pct:36.015499194847024,51.13160695282015,13.747987117552334,23.76374600922313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6535,7 +6535,7 @@ but God is just and good, and I thank
 him I am innocent of yours, and that  
 my faith given is preserved!”’ His poin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153036:1895062101:0118/pct:50.313214676344835,30.463269868187776,10.877995426071394,20.758498419794957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153036:1895062101:0118/pct:50.313214676344835,30.468408746370667,10.881309867090915,20.758498419794957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6593,7 +6593,7 @@ but God is just and good, and I thank
 him I am innocent of yours, and that  
 my faith given is preserved I&quot; His poin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271763566:1895062701:0342/pct:66.31810676940012,8.046608772122678,14.37809576224546,27.767395844783994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271763566:1895062701:0342/pct:49.745424521810925,6.034956579092008,10.788495940553185,20.831043201055294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6650,7 +6650,7 @@ but God is just and good, and I thank
 him I am innocent of yours, and that  
 my faith given is preserved!&quot; His poip
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:0021247180A:1895071101:0257/pct:27.26928895612708,66.404952438472,16.414523449319212,31.481201872263323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:0021247180A:1895071101:0257/pct:20.465292226215244,49.81126377774422,12.313221108379043,23.61467612864261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6797,7 +6797,7 @@ but God is just and good, and I thank
 hint I am innocent of yours, and that  
 my faith given is preserved !&quot; His poin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:00175031753:1895073001:0904/pct:50.3041825095057,53.394596077355644,16.102661596958175,37.16911260458099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:00175031753:1895073001:0904/pct:50.3041825095057,53.4037397704933,16.10899873257288,37.16911260458099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6870,7 +6870,7 @@ but God is just and good, and I thank
 him I am innocent of yours, and that  
 my faith given is preserved!” Ilis poin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627671:1895081701:0579/pct:53.66614664586584,66.97045421137733,16.458658346333852,40.937821549316475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627671:1895081701:0579/pct:41.60201511335013,51.90248348143085,12.760705289672543,31.73463962937647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6927,7 +6927,7 @@ bnt Lhxl is just and good, and I thank
 him I am innocent of yours, and that  
 my faith given is preserved!” His poin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kensington_ver02:data:sn88065721:00279521730:1895081901:0682/pct:19.77792082394593,7.490205116386264,13.228194399742517,22.34385803180456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kensington_ver02:data:sn88065721:00279521730:1895081901:0682/pct:19.78596717090441,7.498847660751325,13.232217573221757,22.349619728047937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7281,7 +7281,7 @@ but God is just and good, and I thank
 him I am innocent of yours, and that  
 my faith given is preserved!&quot; His poin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:00280776531:1895100901:0234/pct:55.76808129109384,251.5965086730748,40.346682606096834,76.27886421389901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:00280776531:1895100901:0234/pct:13.948273284496935,62.8991271682687,10.091194498430259,19.069716053474753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7388,7 +7388,7 @@ a lawful prize, whereas now as you
 are only a stranger you have a strang­  
 er&#x27;s right to safety and protectio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn84036012:00294550161:1898061801:1126/pct:49.31948424068768,238.9564479638009,39.75644699140401,46.49321266968326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn84036012:00294550161:1898061801:1126/pct:16.439828080229226,79.65214932126698,13.25214899713467,15.497737556561086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7419,7 +7419,7 @@ hand of Providence, you come to our port
 for safety of your lives, we, being men,  
 though en^mn-s, are bound by the law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065520A:1898062501:0646/pct:1.3909495548961424,59.24895688456189,14.094955489614243,7.746870653685675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065520A:1898062501:0646/pct:1.4002225519287834,59.25938803894298,14.104228486646884,7.746870653685675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7461,7 +7461,7 @@ Here was fairness. The shi:&gt; departed
 and arrived without any further accident  
 in the port of London
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065520A:1898062501:0646/pct:15.24480712166172,56.68984700973574,13.798219584569733,11.585535465924895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065520A:1898062501:0646/pct:15.258716617210682,56.68984700973574,13.802856083086054,11.589012517385257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7572,7 +7572,7 @@ ed and arrived without any other ac­
 cident in. the port of London.  
 .- L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:0023728382A:1898071601:1020/pct:68.81487889273356,16.763436057763883,18.641868512110726,27.944022629149917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:0023728382A:1898071601:1020/pct:51.63313865455332,12.580020842638083,13.973610209820462,20.961738871520023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7630,7 +7630,7 @@ unv further aoeident in the DOrt of
 A I  
 London
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295861496:1898072301:0132/pct:19.635591721209977,5.388414907947912,33.85812842738369,92.15312079030085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295861496:1898072301:0132/pct:19.647384869390883,5.392156862745098,33.85223185329323,92.15312079030085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7693,7 +7693,7 @@ Here was fairness. The ship depart­
 ed and arrived without any other ue­  
 I cidcnt in the port of London
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898072801:0705/pct:36.59178303987047,8.231789872732197,37.98826148552924,83.80720281613864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898072801:0705/pct:36.601902448896986,8.235174654752234,38.008500303582274,83.80720281613864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7743,7 +7743,7 @@ Here was fairness. The ship depart­
 ed and arrived without any other ac­  
 cident in the port of London.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898080101:0718/pct:43.29652996845426,21.621983914209114,19.597791798107256,25.013404825737265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898080101:0718/pct:43.301458990536275,21.628686327077748,19.597791798107256,25.0201072386059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7801,7 +7801,7 @@ Here was fairness. The ship depart­
 ed and arrived without any other ac­  
 cident in the port of London.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00271769842:1898080301:0312/pct:25.561684380465493,5.975197294250282,14.247275662585766,25.075159714393084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00271769842:1898080301:0312/pct:25.57065339252881,5.97832894901666,14.242791156554105,25.078291369159462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7861,7 +7861,7 @@ Here was fairness. Tne ship depart
 ed and arrived without any other ac  
 cidcut ia the port of London.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769398:1898080401:0325/pct:39.705882352941174,27.378982209350433,10.72192513368984,22.11419114604882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769398:1898080401:0325/pct:39.705882352941174,27.38243000965384,10.739750445632799,22.117638946352226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7921,7 +7921,7 @@ and protection.”
 ed and arrived without any other ac­  
 cident in the port of London
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_arguingmatch_ver02:data:sn96060765:0038334184A:1898080601:0318/pct:56.4958283671037,4.887892376681615,12.380810488676996,24.091928251121075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_arguingmatch_ver02:data:sn96060765:0038334184A:1898080601:0318/pct:56.4958283671037,4.891629297458894,12.390742947953914,24.095665171898357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8036,7 +8036,7 @@ Here was fairness. The ship de­
 parted and arrived without any further  
 accident in the port of London.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898082001:0440/pct:3.0858720299714086,12.128787878787879,11.34772749679582,19.734848484848484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898082001:0440/pct:3.089158368661474,12.133838383838384,11.351013835485885,19.732323232323232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8090,7 +8090,7 @@ tioffere was fatrness. The ship de­
 parted and arrived without any further  
 accident in the port of London
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1898082001:0607/pct:25.06830601092896,52.87535779339058,43.78415300546448,79.10486599011189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1898082001:0607/pct:6.270288740816675,13.218839448347644,10.951648727148472,19.776216497527972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8142,7 +8142,7 @@ Here was fairness. The ship depart­
 ed and arrived without any other ac­  
 cident in the port of London.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_dearfield_ver01:data:sn85067315:00383341061:1898082501:0592/pct:37.23784024988844,7.09260315649363,10.798750557786702,18.577676364327818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_dearfield_ver01:data:sn85067315:00383341061:1898082501:0592/pct:37.23784024988844,7.097356911960449,10.826639892904954,18.572922608861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8222,7 +8222,7 @@ tresseil by the hand uf Providence, you
 come to our port I&#x27;m- safetv of your lives  
 we, being men, though ene&#x27;inies, are boun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aqua_ver01:data:sn83045830:00175031613:1898082801:0720/pct:14.96290189612531,43.82494938483102,13.891178895300907,7.973835851113534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aqua_ver01:data:sn83045830:00175031613:1898082801:0720/pct:14.976641934597417,43.830140684213255,13.904918933773015,7.984218449878004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8283,7 +8283,7 @@ and protection.&quot;
 Here was fairness. The ship depart­  
 ed and arrived without any other as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lila_ver02:data:sn88064176:00211100886:1898091701:0156/pct:65.82145850796311,44.78973627940128,15.381391450125733,22.39486813970064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lila_ver02:data:sn88064176:00211100886:1898091701:0156/pct:65.82145850796311,44.78335233751425,15.381391450125733,22.391676168757126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8342,7 +8342,7 @@ Here was fairness. The ship depart­
 ed and arrived without anyother ac­  
 cident in the port of London.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_bowerman_ver01:data:sn90051342:00513680454:1898092001:0643/pct:57.719585379159845,11.315893777249306,14.320785597381342,24.95045580657947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_bowerman_ver01:data:sn90051342:00513680454:1898092001:0643/pct:57.733224222585925,11.330757035275466,14.307146753955264,24.95045580657947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8397,7 +8397,7 @@ Bliss on the Beach.
 Jack-I noticed in this morning&#x27;s pa­  
 pers that the prince of Wales is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:0020219705A:1898092101:0718/pct:311.271676300578,156.1042524005487,49.0606936416185,91.30315500685872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:0020219705A:1898092101:0718/pct:77.84604264546441,39.02606310013717,12.269606071557643,22.82578875171468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8458,7 +8458,7 @@ tion.”
 Here was fairness. The ship depart­  
 ed and arrived without any further ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_boozer_ver01:data:sn95060636:00414216638:1898092301:0354/pct:51.24164278892073,49.28617780661908,14.581343521171602,27.276660177373998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_boozer_ver01:data:sn95060636:00414216638:1898092301:0354/pct:51.24164278892073,49.28978296921191,14.591955852700838,27.2874756651525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8509,7 +8509,7 @@ Her Lore Test.
 How many young men, candidates for  
 matrimony, could win a wifo were the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895485:1898092801:0312/pct:4.592085979482169,7.9958995386981035,15.021983390327309,19.630958482829318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895485:1898092801:0312/pct:4.590964590964591,7.994533652203621,15.024420024420024,19.631875640587634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

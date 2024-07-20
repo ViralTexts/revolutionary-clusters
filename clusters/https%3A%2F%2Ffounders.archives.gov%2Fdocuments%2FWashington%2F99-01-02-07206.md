@@ -97,7 +97,7 @@ i with it was in thy power to express to
 Congrets how mtzh I feel my felf indebted to  
 Count de Giafle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111701:0044/pct:8.201463331631786,9.793103448275861,28.960353922069082,45.687002652519894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111701:0044/pct:8.201463331631786,9.793103448275861,28.960353922069082,45.694076038903624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ gained my particuidr attention, ind I could
 with that they may be honored by ¢he no­  
 tice of your E‘xcek!en?gtd Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111701:0044/pct:8.201463331631786,62.9920424403183,28.279734558448187,21.517241379310345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111701:0044/pct:8.201463331631786,62.9920424403183,28.29675004253871,21.52077807250221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ Sir, your excellency&#x27;s
 most obedient humble servant  
 1. WASHINGtON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881091101:0341/pct:337.30936819172115,86.49112764739553,51.1437908496732,145.4350314825415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881091101:0341/pct:84.35797312023247,21.622781911848882,12.790592081365784,36.35875787063537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ Yorklown Is a very great name In Ameri­
 can history. It was indeed n famous vic­  
 tory achieved there on tho lOtii of October
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quincy_ver01:data:sn84031492:no_reel:1881091401:0004/pct:58.36820083682009,39.96437054631829,13.101464435146443,9.026128266033254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_quincy_ver01:data:sn84031492:no_reel:1881091401:0004/pct:58.37473849372385,39.979216152019,13.101464435146443,9.021179730799684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ but the emulating spirit of the Ameri
 can officers, whose ardour would not  
 suffer their exertions to be exceeded
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779490:1881091701:0882/pct:67.93687451886066,23.640280021540118,14.703618167821402,19.57458266020463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779490:1881091701:0882/pct:50.9819021948402,17.730210016155088,11.031959953792837,14.687668282175553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ lieve me to be, with the highest respect
 and esteem, sir, Your Excellency&#x27;s  
 most ooeuient nurnDie servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779490:1881091701:0882/pct:67.99461123941494,47.06515885837372,14.896073903002309,45.26117393645665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779490:1881091701:0882/pct:51.02040816326531,35.298869143780294,11.185983827493262,33.95261173936456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ the highest rerpect and esteem, sir, your
 Excellency’s most obedient humble ser­  
 vant, G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342065:1881101901:0381/pct:36.139603037165315,47.180548370408694,9.884108165712002,31.91929643041904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342065:1881101901:0381/pct:36.144043337329606,47.187446111398515,9.884108165712002,31.91929643041904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ respect and esteem,
 &quot;Sir, your excellency&#x27;  
 most obedient humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1881102701:0354/pct:113.50574712643679,57.457443934071875,17.708333333333332,37.679005674142125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1881102701:0354/pct:85.17520215633424,43.09646041610375,13.297394429469902,28.262631721156446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

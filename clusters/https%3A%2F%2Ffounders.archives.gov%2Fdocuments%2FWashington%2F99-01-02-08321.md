@@ -172,7 +172,7 @@ Jor the field.”
   
 There can be no doubt of the propriety an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1846040401:0700/pct:44.04559151054631,43.619203939269596,12.62937246167955,1.9696347968814116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1846040401:0700/pct:44.049958513472205,43.619203939269596,12.625005458753657,1.9696347968814116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ ing even in the moment of negotiation,
   
 nore vigorously for the field. Let o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1846041101:0271/pct:256.7567567567568,95.99093355999433,58.028616852146264,8.839779005524862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1846041101:0271/pct:64.20194792287816,23.997733389998583,14.510037765851719,2.2099447513812156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ arwsly for the field.&quot; &#x27; &#x27;&#x27; .&#x27;
   
 nia Union (whig) in reply to the declara
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1846051301:0578/pct:47.1875,95.36799459824442,20.44921875,6.819716407832545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1846051301:0578/pct:35.40445486518171,71.53274814314652,15.357561547479484,5.118163403106009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

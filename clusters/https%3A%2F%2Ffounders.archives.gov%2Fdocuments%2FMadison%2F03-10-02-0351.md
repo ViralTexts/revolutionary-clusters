@@ -128,7 +128,7 @@ That the President of the United
 States shall be, and he is hereby au.  
 thorized and requested, for any of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807031701:0463/pct:23.407917383820998,54.636417673865665,16.66405883273353,18.367346938775512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807031701:0463/pct:23.407917383820998,54.636417673865665,16.684921504198613,18.380556105937522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

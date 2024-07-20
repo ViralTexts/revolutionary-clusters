@@ -251,7 +251,7 @@ ceedings. The machine will be enlarged, but the sow­
 er and often the more secret, will be the springs by  
 which its motions are directed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848050901:0284/pct:36.85449462998382,61.70189818809318,14.624098867147271,7.269197584124245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1848050901:0284/pct:36.864302878721006,61.70549324129997,14.619194742778676,7.269197584124245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ now living.
 ProgrrM of the Peopled Cause.  
 The Portland State of Maine has classified it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856082501:0690/pct:7.948139797068771,69.81132075471699,15.858699736941,32.387572705348276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856082501:0690/pct:6.1696034173098395,54.108333944147184,12.290665501674676,25.10444916807154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ say that, within their recollection, no
 Speaker of the House has brought to the Chair  
 the same combination of dignity, fairness, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856091101:0580/pct:24.667633550882282,38.66541353383459,14.56369349770365,15.197368421052632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856091101:0580/pct:24.667633550882282,38.67167919799499,14.57175086616711,15.200501253132833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ ing a redress of every grievance,
 and for carrying into effect every  
 qust and salutary measure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856091201:0147/pct:333.56535189481826,320.2133965619443,44.470224284609436,50.68168346176645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856091201:0147/pct:83.40746470701991,80.05334914048608,11.119706052987818,12.670420865441612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ MAnison, it will be sustained by the conscionsness of be.
 ing supported in its demands by right, by reason, and by  
 the Constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879050701:0870/pct:0.07633587786259542,20.980886057193658,121.06870229007633,377.65594902948584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879050701:0870/pct:0.019091256204658267,5.245221514298414,30.27873234058801,94.41398725737146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1124,7 +1124,7 @@ President of 1872, Brigadier Henry i\&#x27;il- &#x27;
 son.  
 Another Senator smote Hunter, of Yir- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_flopeye_ver01:data:sn84026918:00295861411:1879053001:0387/pct:27.529960053262318,35.79362235757793,17.14380825565912,8.300489669174729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_flopeye_ver01:data:sn84026918:00295861411:1879053001:0387/pct:27.535508211273857,35.80158445798001,17.154904571682202,8.304470719375772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1149,7 +1149,7 @@ the occasion surely demands the full exercise
 of that power of the House, and In its flrm  
 exercise, to use the words of Madison, it wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688787:1879061201:0507/pct:18.16205533596838,7.7451410200204585,12.371541501976285,3.93102440450095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688787:1879061201:0507/pct:18.175230566534914,7.754883335768913,12.35836627140975,3.9358955623751766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1173,7 +1173,7 @@ glimpse of the revelation that has now, in
 the fullness of time, buret upon Hayes and  
 De Golyer Garfield, the great Maine Senato
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688787:1879061201:0507/pct:18.201581027667984,11.573871109162647,12.33201581027668,3.93102440450095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688787:1879061201:0507/pct:18.20816864295125,11.573871109162647,12.325428194993412,3.940766720249403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1214,7 +1214,7 @@ It was with this view that the constitution
 provided that moneyed bills should originate  
 in the House of Representatives. And it wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacklin_ver01:data:sn86092182:00514157479:1879091301:0501/pct:29.00705164856108,52.726250702641934,12.654850390699448,10.764474423833615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacklin_ver01:data:sn86092182:00514157479:1879091301:0501/pct:29.0015243902439,52.71884220879584,12.657202743902438,10.766474638190248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1305,7 +1305,7 @@ but the fewer, and often the more secret,
 will be the springs by which its motions are  
 directed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525516:1882020801:0551/pct:73.24196443139175,31.110845104141728,11.013215859030836,16.112042135503952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525516:1882020801:0551/pct:73.23001631321371,31.10712148414123,11.015497553017944,16.11310592459605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

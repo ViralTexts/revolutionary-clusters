@@ -131,7 +131,7 @@ see or hear from me further to-morrow.
 “1 am, sir, your obedient servant,  
 “G. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172121:1863100701:0941/pct:22.145260241440727,106.79177837354781,15.673857114585395,11.06642835865356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172121:1863100701:0941/pct:17.17280163599182,82.76260100038476,12.15235173824131,8.580223162754907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ aswhas sssee ahss whabs ts hotoW.
 I am, sir, your most obedient servant,  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863100901:0352/pct:31.21951219512195,319.3663963794079,50.048780487804876,30.69960399773713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863100901:0352/pct:7.8105931169148155,79.84159909485197,12.521357090554064,7.674900999434282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ hear further from me to-morrow.
 I am, sir, your most obedient servant,  
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347312:1863103001:0433/pct:23.35243553008596,21.26482213438735,13.35561922954473,7.871259175607002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347312:1863103001:0433/pct:23.363047861615197,21.26858648597779,13.36092539530935,7.878787878787879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

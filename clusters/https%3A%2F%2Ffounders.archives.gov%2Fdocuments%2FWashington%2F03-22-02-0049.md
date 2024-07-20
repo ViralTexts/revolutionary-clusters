@@ -120,7 +120,7 @@ the gallant trcops by whom it was reducid, in
 such manner and propertion as the Cormandex 11  
 Chief shall preferibe. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779081701:0239/pct:66.78708032299193,38.659571408025315,28.41053973650659,34.862649216165686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779081701:0239/pct:66.79416347924635,38.6643655017019,28.40345658025216,34.85785512248909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

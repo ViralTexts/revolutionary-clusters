@@ -268,7 +268,7 @@ ness of our approaches to it, is what I
 have steadfastly believed.—Jefferson.  
 Young men talk of trusting to the spu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_rhyolite_ver01:data:sn84022044:00279555284:1882020501:0128/pct:59.23593618807725,37.848489271639174,12.468513853904282,4.58327251496132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_rhyolite_ver01:data:sn84022044:00279555284:1882020501:0128/pct:59.223504721930745,37.84296555750146,12.471143756558238,4.586252189141856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ in our power the nearness of our ap-
 proaches to it, is what I have stead  
 fastly believed.--Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1882102501:0961/pct:123.38235294117646,253.69180327868852,48.6764705882353,18.255737704918033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1882102501:0961/pct:30.856932695844062,63.42295081967213,12.173593232806178,4.563934426229508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ er the nearness of our approach to it, ia
 what I have steadfastly beloved,—  
 Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092523:00383341668:1882110501:0104/pct:52.05361003026373,78.06132949166495,11.543450064850843,3.0150236674212803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092523:00383341668:1882110501:0104/pct:52.04610951008645,78.05329766436876,11.54658981748319,3.018143156017423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ J in our power the nearness of our ap­
 . proach to it, is what I have steadfastly  
 believed.—Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1882111601:0041/pct:27.689075630252102,45.0026534583407,11.008403361344538,3.7148416769856714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022149:00514150072:1882111601:0041/pct:27.689075630252102,45.0026534583407,11.018907563025211,3.7236865381213513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ proaches to it, is what I havo stead­
 lastly believed. Tliomas Jefferson.  
 The good man honestly discharge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023784:1886042201:0555/pct:98.35059978189749,29.654456193353475,20.896946564885496,6.523791540785498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023784:1886042201:0555/pct:65.58494682301608,19.76963746223565,13.935096809380966,4.352341389728097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ mir power the nearness of our ap­
 proai&#x27;hi&#x27;s to it, is what 1 have stead­  
 fastly lieli.&#x27;ved. —Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1886050701:0218/pct:4.18295543393276,19.125226354645495,14.268960125097733,4.610670009750661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1886050701:0218/pct:3.5611431103234383,16.264109243034177,12.140008861320336,3.9229615597126846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ will admit. Kotr ibltitre will dlalurbhlm at all;
 nothing- will diet urb blni much.&quot; To alill uu­  
 othrr friend lie willo &quot;J baio thought of l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00206533122:1890050401:0053/pct:226.87453600593912,133.17132442284327,51.818856718634,150.97205346294047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00206533122:1890050401:0053/pct:56.75023212627669,33.29283110571082,12.961931290622099,37.743013365735116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ of oar appro ch to it is what I have
 steadfastly believed Thomas Jef­  
 ferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_alpha_ver01:data:sn86089174:00175036015:1892081101:0249/pct:16.86936936936937,61.49527591400794,18.063063063063062,8.982609886348076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_alpha_ver01:data:sn86089174:00175036015:1892081101:0249/pct:16.86936936936937,61.50554566616459,18.063063063063062,8.982609886348076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -723,7 +723,7 @@ thin blow hieftire it does fail , but we may add
 to its force after It bums fallen , &quot;  
 Jefferson was exceedingly lend of music 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_emerson_ver01:data:sn99021999:00206538922:1898070301:0529/pct:46.62116040955632,87.54737412019492,12.184300341296929,4.223064428803465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_emerson_ver01:data:sn99021999:00206538922:1898070301:0529/pct:46.62116040955632,87.54737412019492,12.184300341296929,4.233216025988089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -748,7 +748,7 @@ cannot prevent a blow before it does i
 fall but we may add to its force after i  
 it has fallen 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534783:1898070301:0032/pct:105.6803594351733,13.22661217075386,20.121951219512194,6.323796548592189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534783:1898070301:0032/pct:70.47022949767293,8.821525885558582,13.416787032579041,4.212079927338783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ will, to consider that whatever does hap­
  does fall, but we may add to its force after  
  it has fallen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898070301:0276/pct:217.32509696882633,221.35202918376652,39.017382559977015,8.025535795713635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898070301:0276/pct:72.44169898960877,73.78400972792218,13.005794186659005,2.6751785985712115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

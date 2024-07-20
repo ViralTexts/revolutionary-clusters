@@ -197,7 +197,7 @@ ford much in goud,works, and so am obli- |
 dos I ged to be cunningand make the molt 01 a I  
 dif- little.&quot; P
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111701:0002/pct:58.673714560307545,34.01846887101579,21.26381547333013,11.766458147155198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111701:0002/pct:58.68572801537722,34.02219243372058,21.25780874579529,11.770181709859994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ not rich enough to afford much in good
 Works, and so am obliged to be cunning,  
 and make the must of a little
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805110901:0394/pct:58.8280796751112,65.77268584819684,18.294333784567783,12.641583127196979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805110901:0394/pct:58.816705336426914,65.76412392606092,18.297241557102346,12.644276664063177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ fail of getting intn some business, that will in
 . meet with another honest man in similar  
 €9, you mast pay me by lending this su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813020401:0771/pct:1.5354135710747896,88.92835997631735,22.23873204556711,4.243141898559306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813020401:0771/pct:1.5354135710747896,88.93493849088875,22.255241868912,4.243141898559306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ I am not rich enough to afford much in
 , -good works, and so am obliged to be  
 , cunning and make the most ot a little
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824111701:0249/pct:26.757139963540613,20.43918918918919,19.323475795017217,19.45382882882883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824111701:0249/pct:20.741981058029406,15.840576020946216,14.980901051750301,15.084184879450161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1079,7 +1079,7 @@ ble you to pay all your debts. In that ease,
   
 o en o e i ae oe e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840020601:0901/pct:247.29849424269264,275.8376383763838,149.955713020372,16.29520295202952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840020601:0901/pct:61.852015950376604,68.95940959409594,37.50553832521046,4.07380073800738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1100,7 +1100,7 @@ works, and so am obliged to be cunning
   
 and make the most of a little
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840020601:0901/pct:339.9468556244464,306.65682656826567,57.21877767936227,11.040590405904059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840020601:0901/pct:85.024368630926,76.66420664206642,14.31103234381923,2.7601476014760147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1135,7 +1135,7 @@ inough to afford much in good work, anc
 o am obliged to be oaraing and mako th&lt;  
 neat of a little
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861794:1843020701:0064/pct:19.270507201001877,15.076848011710172,15.278647463994991,12.600634301049036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861794:1843020701:0064/pct:19.28094343560843,15.084980076441408,15.278647463994991,12.600634301049036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1159,7 +1159,7 @@ such another Opportunity. I hope it may
 thus go through many hands before it  
 maeU with a kvave to atap its program
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861794:1843020701:0065/pct:18.71556744844955,18.084977605616753,16.10262867936408,6.742525118024452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861794:1843020701:0065/pct:18.726061178445878,18.09304765363354,16.097381814365917,6.7384900940160595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1193,7 +1193,7 @@ enough to afford much in good work, and
 so am obliged to be earning and make the  
 mast of a little
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861848:1843020702:0198/pct:18.432655383302517,14.806803657457477,16.071682548712843,12.860092419624422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861848:1843020702:0198/pct:18.437396292608923,14.81008094910366,16.071682548712843,12.863369711270606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1225,7 +1225,7 @@ sum to him, enjoining upon him also, as soon as
 he shall be able, to discharge his debt by lending  
 it to another when he shall meet with the lik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1845060601:0075/pct:82.1100019573302,47.656707674282366,15.032295948326484,4.525483304042179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1845060601:0075/pct:82.09393346379647,47.64972909650022,15.034246575342467,4.528481476057988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1285,7 +1285,7 @@ little money. I ain not rich enough to alTord much in good
 works, arid so ain obliged to be cunning, and make the most  
 of a little.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845110101:0251/pct:82.70203746752358,81.9212735797623,15.137426500752085,6.684112964780286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845110101:0251/pct:82.70203746752358,81.92854287064297,15.141984593646018,6.680478319339948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1318,7 +1318,7 @@ obliged to be cunning, and make the most of
 little.&quot;  
 THE MASts of the new Barque now build
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845111001:0862/pct:130.84099327754151,244.7787610619469,39.40183838660996,29.845132743362832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845111001:0862/pct:43.6076817558299,81.58389558677138,13.132144490169182,9.947277218596764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1353,7 +1353,7 @@ ney. lam not rich enough to afford much
 in good works, and so am obliged to be  
 cunning, and make the most of a little.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624232:1845111301:0073/pct:55.82304205096139,67.93687052227183,16.86728153822104,14.079534835427266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624232:1845111301:0073/pct:55.83346360273045,67.94033156819991,16.86207076233651,14.079534835427266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1421,7 +1421,7 @@ meet with such another opportunity. I hope
 i ea ta e tee o e ee   
 may thus pasa tinsuet many nanes before
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023649:00280777778:1845111801:1000/pct:275.80385852090035,353.07193578264895,52.81350482315113,33.34362457548626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023649:00280777778:1845111801:1000/pct:68.96482412060301,88.26798394566224,13.206030150753769,8.335906143871565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1440,7 +1440,7 @@ with little money. I am not rich enoush t
 afford much in good works, and so am obliged  
 to be cunning, and make the mhost out of a lit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023649:00280777778:1845111801:1000/pct:330.70739549839226,61.31522074714418,51.848874598070736,10.373572090151281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023649:00280777778:1845111801:1000/pct:82.69346733668341,15.328805186786045,12.964824120603016,2.5933930225378203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1477,7 +1477,7 @@ ning and make the most of a litile-
 The Bare roOted Printer nOY.  
 &quot;The Piltaburg Morning Ariel, uode
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845112001:0556/pct:152.38455715367147,27.151965993623804,112.94473883421651,349.2029755579171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845112001:0556/pct:38.11778072334785,6.787991498405951,28.252224957394432,87.30074388947928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1512,7 +1512,7 @@ ged to be cunning, and make the most of a little.&quot;
   
 Slavery has been abolished in Oregon. P. H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845112001:0189/pct:79.84496124031008,20.64516129032258,112.40310077519379,350.5663082437276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845112001:0189/pct:19.96124031007752,5.161290322580645,28.100775193798448,87.6415770609319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1543,7 +1543,7 @@ rich enough to afford much in good works, and so
 am obliged to be cunning, and make the most out  
 of a little.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1845112601:0448/pct:45.15787616863644,32.53378789723609,17.657435173751985,11.20175331791063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1845112601:0448/pct:45.14991181657848,32.52982712442172,17.660199882422106,11.204447690934177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1604,7 +1604,7 @@ enough to afford much in good woiks, and so
 am obliged to be couuing, aud make the  
 most ol a li tie.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1845112901:0275/pct:85.32239819004525,17.730331863541426,19.59841628959276,12.717567881178928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1845112901:0275/pct:64.0079196718993,13.297748897656069,14.69381982746429,9.538175910884195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1673,7 +1673,7 @@ u litl&#x27;e money. I am not rich enough to afford much
 1 **• good works, and so tun obliged to be cunaiiig, and  
 make the most of a little.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845120601:0831/pct:18.019915741095367,90.10635320458998,12.792033703561854,5.8494262524489224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84020566:00414187468:1845120601:0831/pct:18.016465632778097,90.09374562753602,12.794371051120047,5.852105778648384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1718,7 +1718,7 @@ rich enough toalfurd much in good works,
 and so am obliged, to bo cunning, and  
 make tho most of a little.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878216:1845121301:0358/pct:69.17497733454216,91.90254893676946,46.03354487760653,31.75609069145191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878216:1845121301:0358/pct:51.904761904761905,68.93395296437122,34.5578231292517,23.813547387691873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1812,7 +1812,7 @@ and make the most out of a little.&quot; ,r
   
 Capt. Voorljees is suspended from
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1846011701:0573/pct:78.80652107043987,81.43859258434473,15.010765918179022,12.793675537245296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1846011701:0573/pct:78.81164769814416,81.44230412352002,15.021019173587614,12.797387076420591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1955,13 +1955,13 @@ litile .money. Iam not rich noygh.&#x27;lo afford
 much in, good , works, and I apt obliged io. be  
 cunning and make Jliejmost ola 4jule 7 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237282358:1848071301:0227/pct:50.83281924737816,107.90016501650165,23.25724861196792,15.088696369636963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237282358:1848071301:0227/pct:38.136377661215676,80.9302805280528,17.463745757482258,11.313943894389439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1850-03-30_5_28/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1850-03-30_5_28/page/n2/mode/1up?view=theater)
 
 #### 1850-03-30 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2009,7 +2009,7 @@ Take one table spoonfull of Red Lead an
 
 ## Scientific American
 
-#### From _Scientific American (1845-1908)_
+#### From _Scientific American_
 
 #### 1850-03-31 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2101,7 +2101,7 @@ a good deal with a little money. 1 am not rich e­
 nough to do much ih goou Works,knd so am dbliged to  
 be earning and making the most of * little
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851030501:0242/pct:66.30921677752139,40.10866401474726,14.64639609067463,8.334141845347823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851030501:0242/pct:66.30021715526601,40.10477299185099,14.648932319942093,8.336567067649723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2179,7 +2179,7 @@ enjoining upon him also as soon as he shall
 be able to discharge his debt by lending it  
 to another when ho shall meet with the lik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016573:1853050601:0286/pct:29.989231873653985,46.50046660445274,12.419239052404881,3.479536061858419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016573:1853050601:0286/pct:29.983850708774447,46.49426819514796,12.421496500986901,3.4824046920821115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2215,7 +2215,7 @@ best out of a little.--Deriumtth Prunaten.
 How IT Works.As those who eat the  
 most are not always the fattest, so thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855032901:0522/pct:122.82527881040892,309.8606790206953,50.185873605947954,49.83092114162045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855032901:0522/pct:30.71202825804053,77.46516975517382,12.548800892359175,12.457730285405113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2259,7 +2259,7 @@ with a little money. I am not rich enough to
 afford much in good works, and so am obliged  
 to be cuwaing, and make the most of a liftle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190601:1857070401:0020/pct:5.070033537186822,350.76134244872594,56.08601302031959,39.71410814170292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190601:1857070401:0020/pct:1.2675083842967054,87.69033561218149,14.021503255079898,9.92852703542573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2287,7 +2287,7 @@ rich enough to afford much in good works,
 and so am obliged to be cunaing, and make  
 the most of a little.B.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528657:1857072201:0191/pct:53.96644404626161,262.57495590828927,37.058152793614596,4.232804232804233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528657:1857072201:0191/pct:17.988814682087202,87.52498530276308,12.352717597871532,1.4109347442680775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2354,7 +2354,7 @@ leal
   
 little money. I am not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528657:1857072201:0191/pct:16.32187652712168,241.7989417989418,112.80338817396971,39.706055261610814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83025182:00279528657:1857072201:0191/pct:5.440625509040561,80.59964726631394,37.601129391323234,13.235351753870273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2399,7 +2399,7 @@ am not rich enough to afford much in good
 works, and am obliged to be cunning, and  
 make the most of a little. B.F.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857072801:0083/pct:145.57321225879681,231.1198470038249,40.096481271282634,33.59541011474713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857072801:0083/pct:48.5381776894692,77.03994900127496,13.369287539029237,11.198470038249043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2434,7 +2434,7 @@ much in good works, and so am obliged
 to ho cunning, to make tho most of o  
 little, H. K.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lincoln_ver01:data:sn86092124:00279550250:1857080701:0445/pct:69.34223611308424,82.52068888391858,14.149737178576503,12.435696712144933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lincoln_ver01:data:sn86092124:00279550250:1857080701:0445/pct:69.34697163422835,82.52068888391858,14.149737178576503,12.446879892641467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2555,7 +2555,7 @@ I am not rich enongh to afford muck
 in good works, and am obliged to bo  
 cunning, and make the most oia little
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn95063180:00212472852:1857082701:0036/pct:107.25388601036269,88.33540888335409,18.976683937823836,18.01577418015774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn95063180:00212472852:1857082701:0036/pct:80.45778449578924,66.25155666251557,14.251781472684085,13.518749135187491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2586,7 +2586,7 @@ with a little money. I am not rich ehoughate
 afford much in good works, and so I am obliged  
 to be cunning and make the most of à litile
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857082901:0268/pct:215.7493188010899,238.64714374097753,38.746594005449595,22.64384409156527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857082901:0268/pct:53.95938394439144,59.66178593524438,9.690609240834128,5.660961022891318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2631,7 +2631,7 @@ and so ant obliged to he entitling, and make ihe
 most of n Utile. it. F.&quot;  
 Tin: Faih. Wo have seen the larpi bill
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1857091901:0161/pct:6.161137440758294,91.12990007686395,16.725908372827803,14.358186010760953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1857091901:0161/pct:4.623592175459395,68.34742505764797,12.566686425607587,10.776325903151422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2658,7 +2658,7 @@ getting into some business, that will in time
 enable you to pay all your debts. In that  
 case when you meet with another honest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857092501:0794/pct:248.05475504322766,345.7041755130927,43.371757925072046,20.042462845010615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857092501:0794/pct:62.03603603603604,86.42604387827318,10.846846846846846,5.010615711252654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2682,7 +2682,7 @@ Alter an able sermon from our rector, Rev
 D. Il Buel, on the duties of those conn  
 ed with the school, the report of the mi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857092501:0794/pct:247.47838616714697,301.76928520877567,133.93371757925073,81.3588110403397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857092501:0794/pct:61.891891891891895,75.44232130219392,33.4954954954955,20.339702760084926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2715,7 +2715,7 @@ ney.&#x27; I AnV not rich enpagh to affprd tti&#x27;uth
 in good ioi:ks,,and.so&#x27;nn &#x27;Obliged to tbe  
 funning and make tho roost ,01 : a little. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470697:1857112601:0298/pct:89.24452133794695,76.7504877520052,16.49365628604383,13.841318014307392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470697:1857112601:0298/pct:66.96956584451175,57.56557554736614,12.37559498052791,10.38369824409278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2757,7 +2757,7 @@ am obliged to be cunning, and make the most of a
 little.&quot;&quot;  
 Ralph Waldo Emerson, in the course of a recen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475221:1859050201:0844/pct:50.47599337748344,193.21791613723,38.18294701986755,21.44218551461245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475221:1859050201:0844/pct:16.825331125827816,64.40597204574333,12.727649006622517,7.147395171537484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2931,7 +2931,7 @@ tor doing a great deal of good witli a little money. lam
 not rich enough to afford much in good works, and so am  
 obliged to be tunning, and make the most of a We. B. F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026213:print00211110119:1863051001:0007/pct:68.58089453340696,89.95592360090824,12.22160868764955,5.329237344730867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026213:print00211110119:1863051001:0007/pct:68.59009755199706,89.96594096433819,12.235413215534695,5.332576465874182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3030,7 +3030,7 @@ mdney-. lam not rich enough to apend much
 in good woritf* and am obliged to be cunning)  
 and u.&amp;ke the most of a little
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1864022001:0707/pct:79.96679579413393,73.3827022495459,14.499169894853349,9.850496017884588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1864022001:0707/pct:79.98063087991146,73.38619533324018,14.508393285371703,9.853989101578874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3068,7 +3068,7 @@ Eir
 ECI ALLY TSE THE VERY BEST  
 HAIR RESTORATIVE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556677:1866092201:0370/pct:23.987718288236422,62.734107997265895,13.37555171752063,12.768284347231715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556677:1866092201:0370/pct:24.002110919209365,62.744360902255636,13.37555171752063,12.771701982228299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3102,7 +3102,7 @@ to afford much in good works, and so
 am obliged to be cunning, and make  
 the most oat of &amp; little.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1869011901:0297/pct:58.722192078133475,111.23335263462651,16.562669560499184,17.05848291835553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1869011901:0297/pct:44.05698778833107,83.42790966994788,12.42876526458616,12.796757382744644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3138,7 +3138,7 @@ rich enough&#x27; to afTord much in good
 work, and so am obliged to be earning  
 and make the most of a little
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776117:1871022801:0085/pct:94.59143968871595,49.76944816302246,16.964980544747082,16.331994645247658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776117:1871022801:0085/pct:70.98092643051771,37.33452327829838,12.728688205527442,12.241558827904209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3237,7 +3237,7 @@ afford much in good works, and so am
 obliged to he cunning, and make the  
 j most of a little
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1871081901:0095/pct:18.449144008056393,46.29335451416468,13.957703927492448,12.708498808578236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1871081901:0095/pct:18.462571332661966,46.30217986055953,13.957703927492448,12.717324154973083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3299,7 +3299,7 @@ good works, so am obliged to be
 cunning, and make the most of a  
 little.&quot; Others might take u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_fireant_ver01:data:sn84021912:00211104260:1873122701:0060/pct:7.75480059084195,68.94033176528843,22.507385524372232,23.991086902698687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_fireant_ver01:data:sn84021912:00211104260:1873122701:0060/pct:5.172732311102901,45.96434761079475,15.019397746166636,15.994057935132458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3367,7 +3367,7 @@ enough to afford much in good works, and so
 am obliged to be cunning, and make the most  
 out of a little.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471549:1879060701:0309/pct:74.67181467181467,86.38297872340425,59.07335907335907,43.670212765957444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471549:1879060701:0309/pct:18.678771489279505,21.595744680851062,14.776897817268688,10.917553191489361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3444,7 +3444,7 @@ enough to afford much in good works and
 so am obliged to be cunning and make the  
 most out of a little. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023012:1882061601:0324/pct:38.394823788546255,54.91009681881051,17.15308370044053,17.438025321842748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023012:1882061601:0324/pct:28.807491049297713,41.18523247153953,12.875240980446158,13.086498563676987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3488,7 +3488,7 @@ progress. This is a trick of mine for doing
 a deal of good with little money.&quot;  
 Winnow Flowers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282176:1892061901:0259/pct:49.1162474507138,100.65780457722352,14.989802855200544,12.923119090037002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282176:1892061901:0259/pct:36.851946285908554,75.496779498424,11.252762196158423,9.68891325202138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3522,7 +3522,7 @@ meets with a knave to stop its prog­
 ress. This is a trick of mine for do­  
 ing a deal of good with little money.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347750:1892062201:0257/pct:19.05126243305279,74.07735459108355,10.941086457536343,11.681921070760751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347750:1892062201:0257/pct:19.05126243305279,74.08391562510252,10.94958769021508,11.688482104779713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3556,7 +3556,7 @@ progress. This is a trick of mine for
 doing a deal of good with little  
 money.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283430:1892062301:0177/pct:338.283378746594,204.2377009254749,43.32425068119891,34.29128105211885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283430:1892062301:0177/pct:84.5708446866485,51.05942523136873,10.831062670299728,8.572820263029712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3588,7 +3588,7 @@ deal of good with little money.-Ex.
 Attention, . Republicans 1 Please  
 read what you had in your platfor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473704:1892062301:0925/pct:106.50969529085873,76.15346452786505,29.270544783010155,30.527534314536133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473704:1892062301:0925/pct:71.0228584622489,50.76897635191004,19.533595012699145,20.357201918306597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3656,7 +3656,7 @@ with a knave te step Its progress. This
 Is a trick of mlne for doing a deal of geed  
 with little money.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069117:00206533705:1892062401:0280/pct:46.22186495176849,110.30648610121169,19.212218649517684,17.51960085531005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069117:00206533705:1892062401:0280/pct:34.68033775633293,82.73699215965787,14.435062324085242,13.143264433357093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3709,7 +3709,7 @@ meets with a knave to stop its progress.
 This is a trick of mine for doing a deal of  
 good with little money.—Ex.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:00199919751:1892063001:0315/pct:67.68974145120934,76.59429195684828,14.62885738115096,10.51481633210433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:00199919751:1892063001:0315/pct:67.69530164025576,76.59884382539032,14.634417570197387,10.51481633210433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3741,7 +3741,7 @@ knave to stop its progress. This is a
 trick ol mine for doing a deal of good  
 with little money.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550109:1892070601:0263/pct:33.83838383838384,80.98187869822485,14.274322169059012,8.5521449704142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550109:1892070601:0263/pct:33.842814105972,80.98187869822485,14.274322169059012,8.56139053254438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3774,7 +3774,7 @@ trick ot mine for doing a 8 deal of good
 with little money.&quot;”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152615:1892070701:0185/pct:32.57754684301685,83.541846419327,14.974019839395371,9.393874029335635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152615:1892070701:0185/pct:32.58279536031071,83.5454414725338,14.974019839395371,9.393874029335635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3806,7 +3806,7 @@ gress. This is a trick of mine for doing a
 deal of good xvith little money.”—Humaultar­  
 ian.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344660:1892072601:0061/pct:79.48051948051948,66.47931116957666,14.216450216450216,18.225304950968667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344660:1892072601:0061/pct:79.4920634920635,66.47931116957666,14.204906204906205,18.233277525312925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3838,7 +3838,7 @@ meets with a knave to stop its pro­
 gress. This is a trick of minetfor do­  
 ing a deal of good with little money.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766318:1892080301:0242/pct:64.1025641025641,74.64381121994657,14.253862079949036,9.672751558325913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766318:1892080301:0242/pct:64.11318150448585,74.64752151973879,14.259170780909912,9.683882457702582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3873,7 +3873,7 @@ mine for doing a deal of good with little
 money.&quot;  
 Oil Markets
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:0020653865A:1892080601:0351/pct:39.27662424648359,35.65281276238455,10.649698593436035,8.85810243492863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:0020653865A:1892080601:0351/pct:39.2810895289127,35.65281276238455,10.654163875865148,8.85810243492863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3905,7 +3905,7 @@ meets with a knave to stop its pro­
 press. This is a trick of mine for do  
 inga deal of good with little money.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740888:1892081301:0589/pct:38.83989145183175,62.85260230433055,10.82089552238806,8.594888094292147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740888:1892081301:0589/pct:38.83989145183175,62.86253476360747,10.82089552238806,8.59819891405112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3940,7 +3940,7 @@ fore it meets with a knave to stop its
 progress. This is a trick of mine for do­  
 ing a deal of good with little money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763219:1892082601:0549/pct:34.68691878487291,76.97302697302698,14.91010539367638,15.571928071928072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763219:1892082601:0549/pct:26.031007751937985,57.72977022977023,11.178294573643411,11.688311688311689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4036,7 +4036,7 @@ progress. This is a trick of mine for
 doing--deal of good with little  
 moneys &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283314:1892092401:0577/pct:72.86458333333333,126.04555863565145,21.57986111111111,16.222731107629265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283314:1892092401:0577/pct:48.59326154914901,84.03037242376763,14.397360194511982,10.8231891044956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4073,7 +4073,7 @@ little
   
 money.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348122:1892120101:0198/pct:62.13397008922961,85.19174041297936,10.556742490888526,9.498525073746313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348122:1892120101:0198/pct:62.13815927275774,85.19501802687644,10.565120857944786,9.501802687643396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4113,7 +4113,7 @@ was said. When I see now what that
 war cost in blood and bitterness and  
 vain regret, of course 1 am sorr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1892122201:1247/pct:31.120527306967986,76.5751715533375,15.536723163841808,16.297567061759203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1892122201:1247/pct:31.11320310661332,76.56323093715889,15.538950341256767,16.298924060502106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4145,7 +4145,7 @@ fore it meets with a knave to stop its
 progress. This is a trick of mme for do­  
 i ing a deal of good with little money.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685336:1893011901:0022/pct:64.09190371991247,74.10170523751522,14.420131291028447,9.911693057247259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685336:1893011901:0022/pct:64.07788230146576,74.09042472217993,14.422445854298841,9.913989952808647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4234,7 +4234,7 @@ a knave to stop its progress. This is a
 trick of mine for doing a deal of good  
 with a little money.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076432:00271740694:1893081001:0877/pct:35.230409853472075,68.73974645786727,13.824591208324485,11.290082028337062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076432:00271740694:1893081001:0877/pct:35.23571883627097,68.7434750186428,13.835209173922276,11.297539149888143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4357,7 +4357,7 @@ per&#x27;s Rourd Table.
   
 LET THE PUBLIC JUDGE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00212477588:1897031801:0350/pct:25.43246839654025,49.96572995202193,31.403858948769127,71.89856065798492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86064199:00212477588:1897031801:0350/pct:19.08803461474455,37.47772446881426,23.564653020469297,53.9273474982865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4393,7 +4393,7 @@ rich enough to afford much in good
 work, and so am obliged to be earning  
 and make the most of a little.&quot;—Har
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768753:1897032801:0117/pct:57.38831615120275,34.4351418940959,12.401015986851935,10.416440143525062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768753:1897032801:0117/pct:57.38831615120275,34.4351418940959,12.401015986851935,10.427313254322062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4425,7 +4425,7 @@ progress. Thislaa trick of mine for dolag
 a deal of good with a little money. lam  
 not rich enongh to afford .yuuch in goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_deathkiss_ver01:data:sn92064073:00514153760:1897033001:0820/pct:18.478415728736287,71.43836287085088,14.418008263285369,8.694800744149614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_deathkiss_ver01:data:sn92064073:00514153760:1897033001:0820/pct:18.487913757895235,71.43836287085088,14.427506292444317,8.698064558242763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4496,7 +4496,7 @@ ford much in good work, and so am
 obliged to be earning and make the  
 most of a little.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196445:1897041201:0547/pct:41.99522102747909,78.76888640179071,19.29510155316607,20.492445439283717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196445:1897041201:0547/pct:31.501120238984317,59.082260772243984,14.488424197162061,15.36653609401231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4573,7 +4573,7 @@ not rich enough to nffunl much In good
 work and so am obliged to bo earning  
 nnd make tho most of a littlo. &quot; Hurpor&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn82015415:00237283910:1897050801:0052/pct:88.35763293310463,44.14442215707452,18.524871355060036,12.729517049837987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn82015415:00237283910:1897050801:0052/pct:66.3020163020163,33.112174047214936,13.8996138996139,9.550995216787532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4613,7 +4613,7 @@ little.&quot; Harper&#x27;s Round Table.
 THE SLEEP CURE-  
 A good deal has been said about th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028272:00296028071:1897051201:0871/pct:31.325301204819276,18.29318089015925,18.631669535283994,20.525384510684635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028272:00296028071:1897051201:0871/pct:23.499031633311812,13.719885667619437,13.98751882935227,15.407649380699604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

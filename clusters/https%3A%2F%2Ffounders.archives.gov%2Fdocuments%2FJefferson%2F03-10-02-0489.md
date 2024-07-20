@@ -115,7 +115,7 @@ ssession of the mouth of a river
 ew country, that po-session is considered as includ­  
 ing all its waters.-IJem. Worns, VIL. D.51
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875122001:0628/pct:249.40284054228533,35.4223125564589,48.14396384764364,35.80623306233063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875122001:0628/pct:83.13428018076178,11.807437518819633,16.047987949214548,11.935411020776874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ those of the Pacific. On the waters of
 the Pacific we can found no claim in  
 rightof Louisiana.”—Jefferson to Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152500:1883011101:0209/pct:55.13917175831636,45.120210780546714,9.613034623217922,3.3702931166977717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152500:1883011101:0209/pct:55.14369766915592,45.12387016503824,9.622086444897036,3.3702931166977717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ the mouth of a river in a new country, that
 possession is considered as inchuding all it  
 waters.&quot; The entiresarea comprised in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899022601:0776/pct:334.59167950693376,195.4120132810142,53.15870570107858,68.21611832176275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043056:1899022601:0776/pct:83.66403390483529,48.85300332025355,13.292236563282605,17.054029580440687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

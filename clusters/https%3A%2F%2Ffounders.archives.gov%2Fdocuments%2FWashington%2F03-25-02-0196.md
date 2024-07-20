@@ -219,7 +219,7 @@ officers! left to take care even of the fragments of corps
 which remained.&quot;&quot;  
 Troubles among generals, it is notorions, were no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864071901:0557/pct:53.66802191974545,23.906742281033395,48.364857698426725,10.081915563957152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864071901:0557/pct:17.88934063991515,7.968914093677799,16.12161923280891,3.360638521319051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ had &quot;scarcely a sufficient number of offi­
 cers left to take care even of the fragments  
 of corps which remained.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668910:1864072301:0255/pct:16.58568189180434,55.01651292563489,14.382896015549077,1.9473864024598566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668910:1864072301:0255/pct:16.58568189180434,55.01651292563489,14.39369398553072,1.9549785521770489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

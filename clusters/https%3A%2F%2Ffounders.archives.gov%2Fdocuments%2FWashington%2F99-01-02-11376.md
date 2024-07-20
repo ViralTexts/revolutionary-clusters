@@ -361,7 +361,7 @@ the honor to be, with the highest refpes,
 your Exeellency’s mcft obediart faryant,  
 Fune 55,1783, W. HEATH, M. G. Prcfi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783072601:0395/pct:36.72354948805461,20.180457746478872,58.25938566552901,73.0193661971831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783072601:0395/pct:36.7349260523322,20.187793427230048,58.25938566552901,73.0193661971831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

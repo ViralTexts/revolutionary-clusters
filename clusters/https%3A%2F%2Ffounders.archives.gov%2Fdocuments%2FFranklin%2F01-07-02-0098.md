@@ -198,7 +198,7 @@ Places this stone..
 J. F. born 1665, died 1744 aet 89.  
 A. 7. born lG67,died 1752, set 85
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826121201:0404/pct:42.71831910702561,4.009184033910279,18.594878529218647,14.87107029318262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826121201:0404/pct:42.71271008403362,4.008830022075055,18.596813725490197,14.87270051508462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ woman. Their youngest sen in filial regard to their
 memory, places this stone. I. F. born 1663; died  
 1774,289. A F born 1667; died 1752.285
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1842071601:1245/pct:98.02425398555661,158.05618340329352,37.53917427442431,40.533849962329136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1842071601:1245/pct:32.67029972752044,52.67972449418855,12.511353315168028,13.509829243793945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ j ro their memory, plnces this stone. J. F. burn
 1665 ; died 1744, A1.89. A. F. bum 1667; died  
 1752, A: 85
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1842080401:0335/pct:83.07233407904549,43.043358946212955,13.031319910514542,6.901756311745335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1842080401:0335/pct:83.05684995340168,43.03745369735218,13.033550792171482,6.904239264645356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ son, in filial regard to their memory, places
 this stone. J. F., born 1C33, died 1744,  
 aged 89. A. F., born 1CC7, died 17o2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:00200297106:1873091801:0137/pct:82.71150814503416,82.94401933145389,14.739884393063583,9.645590012082158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:00200297106:1873091801:0137/pct:62.04993429697766,62.21304873137334,11.064388961892247,7.229158276278695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ nearly obliterated, a number ot citizens
 erected this monument as a mark of respect  
 for the illustrious author, 1S27.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:00200297106:1873091801:0137/pct:82.77719390436154,93.41522351993557,14.713610089332633,2.627869512686267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:00200297106:1873091801:0137/pct:62.10249671484888,70.06645187273459,11.038107752956636,1.9734192509061619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ trust not. Providence. He was a pious and
 prudent man. She a discreet and virtuous  
 woman.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479792:1885070801:0114/pct:39.95555006790962,61.776024629594,10.81615014199284,3.3577063690590725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479792:1885070801:0114/pct:39.96378153681525,61.78243858636393,10.812034407540025,3.3577063690590725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ IN FILIAL REGARD TO THEIR MEM- 1
 : :  
 ORT PLACES THIS STONE. % 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287277:1886122201:0236/pct:30.45254556882464,59.854561009517695,12.083595223130107,9.752967597048444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287277:1886122201:0236/pct:30.45254556882464,59.86169037179624,12.094070815001048,9.756532278187716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ she a discreet and virtuous woman*
 IN V&amp;XAL BEQABD TO.THEIH MBMOBY  
 PLACES THIS STONE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479809:1887062201:0220/pct:32.76651406147809,69.5242420801635,14.094179202092871,10.344044510048825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479809:1887062201:0220/pct:32.76651406147809,69.5318118163582,14.115979943318072,10.340259641951478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -848,7 +848,7 @@ IV FILIAL BEOAHO TO TMBia MEMOBT •
 FLA CBS THIS BTOXB.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062948:00340581064:1887062301:1385/pct:27.082702211451075,87.21292556260819,10.193880642229628,6.843623773802654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062948:00340581064:1887062301:1385/pct:27.086488942744623,87.22158107328332,10.197667373523174,6.843623773802654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ THEIK TOVNGEBT SO*
 • IJS FILIAL REOARI) TO THEIR MEMORY  
 PLACES THIS STONE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152512:1887062301:0309/pct:25.470177324019346,77.40911081909768,8.839333691563676,6.110381077529566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152512:1887062301:0309/pct:25.470177324019346,77.4127609870054,8.84381157084005,6.1067309096218425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -925,7 +925,7 @@ Places this stone.
 J. F., born 165 . died 1744.  
 A. F., born 1669, died 1752
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349098:1889092801:0615/pct:84.36537803626412,33.06410903584049,10.964762230585015,17.718324078748108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349098:1889092801:0615/pct:84.35094920472037,33.05993690851735,10.967162647511545,17.7192429022082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,7 +1006,7 @@ ior tuo
 Dlnstrions Author  
 MDCCCXXV
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280192:1891050301:0046/pct:19.137931034482758,105.32758380859647,15.172413793103448,14.842119905411044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280192:1891050301:0046/pct:14.36950146627566,78.99568785644735,11.385199240986717,11.142022534427598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1190,7 +1190,7 @@ years and without an estate or any
 gainful employment, by constant labor  
 and honest industry, maintaf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_halston_ver01:data:sn84038306:00415668594:1899041901:0073/pct:40.32131661442006,46.018504474442594,10.658307210031348,2.1993022903079025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_halston_ver01:data:sn84038306:00415668594:1899041901:0073/pct:40.32131661442006,46.029880175944186,10.658307210031348,2.1917184893068407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1215,7 +1215,7 @@ He was a pious and prudent man, she a
 diBcreet and virtuouB woman.&quot; This  
 monument of the Franklin&#x27;s is in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_halston_ver01:data:sn84038306:00415668594:1899041901:0073/pct:40.36050156739812,48.111633550735625,10.717084639498433,3.4582132564841497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_halston_ver01:data:sn84038306:00415668594:1899041901:0073/pct:40.37519592476489,48.115425451236156,10.712186520376175,3.454421355983619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

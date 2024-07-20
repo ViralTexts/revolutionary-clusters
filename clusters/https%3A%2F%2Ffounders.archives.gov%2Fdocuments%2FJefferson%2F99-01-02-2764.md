@@ -123,7 +123,7 @@ fluence the proceedings of nations as well
 as of individuals ; and that w« shall at  
 length be sensible that War is ah
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805083101:0315/pct:21.718053131665698,1.0248324793062673,36.7267791351561,93.4174221521482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805083101:0315/pct:21.713842574641333,1.024697845507094,36.726121235621044,93.40952881415309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ progress of time have their influeace
 - An evidence that we are advancing  
 ‘towards a better {tate of things,” &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805091001:0145/pct:57.6188986232791,84.25,16.442428035043804,4.019230769230769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805091001:0145/pct:57.6241134751773,84.25320512820512,16.45807259073842,4.0256410256410255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ palpable, and must, in the progress of time,
 have their influence on the minds and con­  
 duct of nations.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1844041601:0121/pct:56.13094398193876,57.57411228146378,12.614646535910822,13.573677923770225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1844041601:0121/pct:56.13094398193876,57.577731928910126,12.624053431165043,13.580917218662902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ always flow before international controversies can b
 alnt, Jantroveraies will arise, they are inevitabls,  
 but the civilization of this age demands that they b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884071001:0679/pct:170.6605222734255,362.45811757538837,50.92165898617512,12.32104782211392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884071001:0679/pct:42.67332437103899,90.61452939384709,12.732859612060688,3.08026195552848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -727,7 +727,7 @@ rational umpire of difference than
 force? War is an instrument entirely  
 inefficient toward redressing wrong
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_flash_ver02:data:sn89067453:00280779945:1894101801:0558/pct:45.80581241743725,21.426062521952932,38.34214002642008,109.63587401943566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_flash_ver02:data:sn89067453:00280779945:1894101801:0558/pct:34.3682906688687,16.075401006907857,28.769611890999172,82.22690551457674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -222,7 +222,7 @@ his futlier, in the womb of a virgin, will
 be classed with the fable of the gevera­  
 tion of Minerva in the brain of Jupiter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834080601:0126/pct:3.6915802873249683,41.23329363504036,15.766503000545553,27.206563451104937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834080601:0126/pct:3.6915802873249683,41.242115477923335,15.77862641692429,27.215385293987914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

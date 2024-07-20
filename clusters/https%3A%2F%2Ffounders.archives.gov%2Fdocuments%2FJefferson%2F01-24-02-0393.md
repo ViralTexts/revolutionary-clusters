@@ -90,7 +90,7 @@ should go down than not, (meaning the Constitution.) it
 it were always to be kept up by pumping&#x27; so.&quot;  
 Luther Martin, in a communication to the legislature 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836010901:0141/pct:49.438202247191015,22.05128205128205,16.825842696629213,4.260355029585799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836010901:0141/pct:49.438202247191015,22.05785667324129,16.830524344569287,4.260355029585799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ fear the result of such a government, but I could not but
  be uneasy when I saw that the Ececutive led sas thots  
 ed up the Legistative Branch.&quot; Vol I, page dl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091101:0048/pct:139.59780621572213,260.23622047244095,60.56672760511883,20.48650168728909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091101:0048/pct:34.89307256443063,65.04990861802334,15.138914275269604,5.12090538450724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ egistature conld be kept independent. I should never
 ouneasy when I saw that the freentire had scatloged  
 uup the Legislutive Branch. Vol  pag r 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091801:0055/pct:315.2317880794702,342.7357689039932,62.34363502575423,16.440101954120646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091801:0055/pct:78.79345227147324,85.6718108452499,15.583042118815523,4.109443579215631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ served if the legislature could hr he pi. indepen
 dent, I should never fear the result of such a go­  
 vernment, but I Could not but \w. tmeasy when 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848092001:0153/pct:20.287492590397154,75.21203211579781,15.115589804386484,8.209883523691055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848092001:0153/pct:20.284486590606015,75.20352781546812,15.118289129253716,8.212724257500376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ cialy, could be preserved, if the Legisla-
 ture could be kept independent, I should  
 never fear the resull of such a government,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848092701:1126/pct:33.63295880149813,338.10963586170635,57.97752808988764,35.65137373471802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848092701:1126/pct:8.40981457201723,84.52740896542659,14.497096834613224,8.912843433679505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ cou&#x27;d not but be uneasy when I saw that the
 Executive had swallowed up the Legislative  
 Branch.&quot;-Vol. 4, page 470
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848100301:0466/pct:209.23517169614985,52.65669742284442,36.797606659729446,12.56761056315622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848100301:0466/pct:69.77228366948601,17.55223247428147,12.270657124268055,4.1892035210520735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ but 1 could not but be uneasy when I saw
 that ttu Executive had swallowed up the Legislative  
 branch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849102401:0474/pct:6.273012409654984,17.97269697946899,17.673530615027957,3.106524776953671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849102401:0474/pct:6.277558070821401,17.976280053029488,17.68262193736079,3.1101078505141713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ government but I could not but be unea­
 sy when I saw that the Executive had  
 swallowed up the Legislative branch.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1849111601:0018/pct:17.492877492877493,36.30439584713939,12.649572649572649,4.594654296443561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1849111601:0018/pct:17.497625830959166,36.30807746115897,12.644824311490979,4.594654296443561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ Jefferson replied that there was “a numerous
 sect who had monarchy in contemplation, of  
 whom the Secretary of the &#x27;Treasury was one.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873022301:0005/pct:3.81372942593336,50.96599073926233,12.74588518667202,4.470700942040556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873022301:0005/pct:3.818747490967483,50.97397413380169,12.755921316740265,4.466709244770876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -490,7 +490,7 @@ sect who hud monarchy in contemplation, of
 whom the secretary of the Treasury was one.”  
 The most Intimate friend Hamilton ever ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151234:1873031301:0218/pct:35.9410582719357,76.19562015123245,14.802411252511721,9.407836590395757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151234:1873031301:0218/pct:35.94552355436481,76.19562015123245,14.811341817369948,9.417656879112245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

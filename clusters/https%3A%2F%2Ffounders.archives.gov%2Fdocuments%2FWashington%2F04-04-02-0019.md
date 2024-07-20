@@ -116,7 +116,7 @@ legislative authority; and this ss far as
 my suffrage will go, shall never be wan  
 ling.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1836011501:0081/pct:89.5197486535009,59.95736906211937,19.501795332136446,11.708282582216809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1836011501:0081/pct:67.17557251908397,44.97563946406821,14.638527166591828,8.785018270401949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ tion.
 I hope it will not be conceived from these ob­  
 servations, that it is my wish to hold the unhapp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839011201:0317/pct:4.292763157894737,74.57783946333565,18.42105263157895,20.529724728198012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839011201:0317/pct:4.292763157894737,74.58169481070244,18.426535087719298,20.529724728198012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ VIrs. Washington joins me in every good and
 iiiud wish for Mrs. Morris and your family, and I  
 am. &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839011201:0317/pct:22.36842105263158,8.743927827897293,18.519736842105264,16.56257228776313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839011201:0317/pct:22.37390350877193,8.75163852263089,18.525219298245613,16.55871694039633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ dy ; and if he has, my intentions have been good,
 though I may have been to precipitate in this ad- ‘  
 dress. _G. YV
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843041801:0370/pct:21.617852161785216,55.00720708353353,15.690376569037657,36.158967671082436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843041801:0370/pct:21.615698774778366,55.00343170899108,15.692134010691635,36.15877373598719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,9 +613,9 @@ wanting.” To Mr. John F. Mercer, September 9
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1843-11_13_65/page/n107/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1843-11_13_65/page/n107/mode/1up?view=theater)
 
-#### 1843-11-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1843-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -668,7 +668,7 @@ be accomplished, and that is, by legislative
 authority; and this, as far as my suffrage  
 will go.shall not be wanting.&quot; Geo. Was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1844022901:0334/pct:28.571428571428573,19.553480227637532,19.306122448979593,14.460820078797607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1844022901:0334/pct:21.44169899938738,14.665110170728148,14.49867265672861,10.856559171165912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ vived after a while, and le am arron sunk several feet below the &#x27;would on 
   
 a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849101801:0191/pct:31.024182076813656,39.706197726785334,45.43385490753912,15.215526485095433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849101801:0191/pct:31.024182076813656,39.71334620058617,45.44333807491702,15.215526485095433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ family, and I am &amp;.c.
   
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849101801:0191/pct:44.480796586059746,63.66073343341197,25.77524893314367,12.663521338194295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849101801:0191/pct:44.48553816974869,63.66073343341197,25.784732100521573,12.67066981199514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -884,7 +884,7 @@ ie
   
 attendants, will visit the city if they i as well as other professions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849101801:0191/pct:50.412517780938835,39.11644863821574,32.773826458036986,16.759596826077633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849101801:0191/pct:50.41725936462779,39.12002287511616,32.78330962541489,16.763171062978053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ accomplished, and that is, by the legislative an
 thurity ; and this, as far as my suffrage will gol  
 shall not be waiting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1850031401:0028/pct:14.026646928201332,90.6543257488109,16.21021465581051,7.738783905386296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1850031401:0028/pct:10.533135875601628,67.99074431160818,12.162162162162161,5.810515490422934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -995,7 +995,7 @@ in this address. Airs. Washington
 joins me in every good and kind wish for Mrs.  
 Morris and your family, and I am.? Vol. ix
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051901:0766/pct:21.009794454407505,7.103356216628528,15.533176989929645,26.420671243325707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051901:0766/pct:21.018991125212672,7.10653445207221,15.542373660734814,26.423849478769387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ be accomplished, and that is by the legisla­
 tive authority, and this, as far as my suffrage  
 will go, shall not be wanting.&quot; Vol. 9
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021854:1854070701:0281/pct:146.97309417040358,119.36071211814688,58.12780269058296,23.872142423629374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021854:1854070701:0281/pct:36.75357443229605,29.84017802953672,14.536024670591534,5.968035605907343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1044,7 +1044,7 @@ effectual mode by which it can be accomplished, and
 that is by legislative authority; and this, as far as my  
 suffrage will go, shall never be wanting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854101001:0268/pct:248.32793959007552,79.44874888860663,49.172959367134126,18.010923409119776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854101001:0268/pct:82.7759798633585,26.48291629620221,16.390986455711374,6.0036411363732585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1069,7 +1069,7 @@ mode by which it can be accomplished, and
 that is by legislative authority; and this, as far  
 as my suffrage will go, shall never be wanting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854101901:0176/pct:36.79706601466992,49.61210974456007,13.34963325183374,5.061494796594134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854101901:0176/pct:36.79706601466992,49.618416903185114,13.34963325183374,5.061494796594134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1095,7 +1095,7 @@ is by legislatve authority; and this; as far
 asmy suffrage will go shall never be want­  
 in g.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1854102701:0149/pct:15.038124823496188,95.69694026226324,38.60491386613951,18.688683827100533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1854102701:0149/pct:5.012000564732458,31.895881895881896,12.866487834721633,6.228956228956229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1119,7 +1119,7 @@ proper and effectual mode by which it can be accom­
 plianed, and that ts by legislative authority, and this,  
 as far as my suffrage will go shall never be wanting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855071001:0089/pct:10.217726727241557,111.38307984790875,46.03120178295902,11.929657794676807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855071001:0089/pct:3.405908909080519,37.12769328263625,15.343733927653009,3.976552598225602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1170,7 +1170,7 @@ j ed, and that is by legislative authority \ and
 r j this, as far as my suffrage will go, shall never  
 l be wanting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855072601:0337/pct:50.64149116436698,19.214056300774608,12.950859356088115,5.025505384470055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1855072601:0337/pct:50.64149116436698,19.220353926569683,12.958928427338014,5.028654197367592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1203,7 +1203,7 @@ letter above quoted, pledged his influence and
 his vote.” And yet we hear the ring even  
 at the present day :—“ You can’t legislate o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1855073101:0255/pct:17.421696464578574,57.88023317435082,12.39413899717704,11.478537360890302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1855073101:0255/pct:17.421696464578574,57.88376611906023,12.4031007751938,11.482070305599718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1230,7 +1230,7 @@ my suffrage will go shall never be wanting.&quot;
 Or perhaps they believe Jefferson when he  
 says: that slavery is &quot;tho most 1 unremittin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027534:1856051301:0394/pct:40.32314107018763,107.20626631853786,16.71299513551077,11.71018276762402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027534:1856051301:0394/pct:30.262471753867548,80.40469973890339,12.549973926646967,8.785900783289817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1270,7 +1270,7 @@ islative authority; and this so far as
 my suffrage will go, shall never bo  
 wanting.  (Spark&#x27;s Writings o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856091901:0151/pct:286.02150537634407,81.5769971839336,43.855606758832565,32.25137097969468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856091901:0151/pct:71.5465898174832,20.3942492959834,10.970220941402498,8.06284274492367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1299,7 +1299,7 @@ The Baltic sailed from New York on the
 ilih. with SIOO,OOO in specie, 100 passengers,  
 and Dr. Kane among them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1856102101:0601/pct:74.01768885022473,92.78703492353344,13.90459620124692,7.806436886555581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033189:00271769763:1856102101:0601/pct:70.32598714416896,88.15642054284578,13.209366391184574,7.412627850663197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1324,7 +1324,7 @@ never be wanting.
 And on the 9th of September in the same year, in  
 a letter to Mr. John F. Mercer, he writes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:153.2484708216234,222.18694885361552,47.06563068275748,16.84891240446796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856110401:0236/pct:51.0828236072078,74.06231628453851,15.688543560919161,5.616304134822653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1363,7 +1363,7 @@ ment! So also did Franklin hear his testimo
 ny against the sin of shivehuldine ; and all the  
 patriots of the Revolution, adopted us thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1856121801:0684/pct:29.764416315049225,46.63042103932229,15.664556962025317,15.36224554305222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1856121801:0684/pct:22.331633550202216,34.97281577949172,11.746087568137858,11.531167024908333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1389,7 +1389,7 @@ complished, and that is by legislative authority, and
 this, as far as my suffrage will go, shall nover be  
 wanting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857011001:0059/pct:247.80447390223696,83.92114950718442,47.224523612261805,17.016981356133474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857011001:0059/pct:82.60149130074565,27.973716502394808,15.741507870753935,5.672327118711158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1415,7 +1415,7 @@ complished, and that is by legislative authority,
 and this, as far as my suffrage will go, shall nev­  
 er be wanting.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1857012801:0327/pct:63.64839041599294,32.35617039964866,11.112744377480523,4.787000439174352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1857012801:0327/pct:63.65819001420942,32.35617039964866,11.122543975696997,4.794320011711316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1440,7 +1440,7 @@ I can only say there is not a man living who
 wishes more sincerely than I do to see a plan  
 adopted for the abolition of it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:158.18840579710144,106.73605088175773,43.11594202898551,11.56403584851113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:39.54710144927536,26.684012720439434,10.778985507246377,2.8910089621277826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1463,7 +1463,7 @@ say that there is not a man living, who
 wishes more sincerely&#x27; than I do to see a  
 plan adopted for the abolition of it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1857100101:0171/pct:31.89323059988993,13.317453443048938,12.451843698403962,4.677349501948895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1857100101:0171/pct:31.897816914327645,13.321062509022665,12.451843698403962,4.680958567922621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1488,7 +1488,7 @@ say that there is not a min livinz, who
 wishes more sincerely than I do, to see a  
  plan a lopted for the abolition of it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857120401:0836/pct:62.12553495007133,68.78186968838527,43.58059914407988,20.39660056657224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857120401:0836/pct:15.531383737517832,17.195467422096318,10.89514978601997,5.09915014164306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1538,7 +1538,7 @@ bat there ieonly one proper and effectual mode&#x27;by which
 tt can be accompliahed, and that ia by legialati ve authority  
 ; and thia, as far aa my suffrage will go, ahall never b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:64.07185628742515,80.89484613932414,12.81437125748503,2.78459505380404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:64.07584830339322,80.90113900950223,12.81437125748503,2.78459505380404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1563,7 +1563,7 @@ in slavery. I can only say that there is not t
 man living, who wishes more sincerely than I  
 do, to tee a plan adopted for the abolition e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1858030401:0178/pct:71.78030303030303,27.417145987400712,16.988636363636363,8.025198575732675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1858030401:0178/pct:53.875307940117494,20.569706929608326,12.753458404396437,6.012051492741715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1585,7 +1585,7 @@ only say that there is not a man living,
 who wishes more sincerely than I do to  
 see a plan adopted fof the abolition o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858062601:0935/pct:115.86335403726709,45.5234438156831,32.45962732919255,12.429264349232012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1858062601:0935/pct:38.62111801242236,15.174481271894368,10.819875776397515,4.143088116410671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1618,7 +1618,7 @@ In a letter to Lafayette, under date of
 April 5, 1733, wo find the following: &quot;The  
 scheme, my dear Marquis,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:20.536267823930565,60.11161307467446,16.878487290762553,13.513154398086632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:15.410852713178295,45.08370980600585,12.666666666666666,10.13818761626362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1679,7 +1679,7 @@ method by which it can be accomplished, and
 that is by legislative authority ; and this, ax far  
 as my sufrage trill go. shall not be wanting.— U’a.iA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1859102501:0315/pct:46.748782583786884,60.59287142689095,13.276997994843883,8.351958593106694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1859102501:0315/pct:44.421262699564586,57.56751722853418,12.617924528301886,7.934438442913019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1705,7 +1705,7 @@ and that s, by the legislative authority ;
 and this, os fur as my suffrage will go,  
 shall not be wanting.— Washington t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1859110201:0069/pct:82.67839409845368,23.636761009725713,12.200312101007235,6.8298546606928205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1859110201:0069/pct:82.6831229015936,23.64404618803045,12.19558329786731,6.83349724984519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1896,7 +1896,7 @@ ia&#x27;no discountenanced, none of those whoa
 jnfoMrt It ia to have slaves aa aitenaants.wiii  
 viait tbaartf if tkay can potaiUw avoid itf -ba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1860041801:0064/pct:4.535398230088496,103.21899736147758,17.754424778761063,21.29287598944591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1860041801:0064/pct:3.412025082995205,77.41424802110818,13.3161195130948,15.976253298153035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1925,7 +1925,7 @@ edy; ifhe has, my intentions have&quot; been good,
 thong&#x27;i it may have been too precipitate. io my  
 address. Mrs. Wathineton ioins me Vc. an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1860041801:0064/pct:22.95353982300885,16.79419525065963,17.035398230088497,11.094986807387862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1860041801:0064/pct:17.226115824419033,12.598944591029024,12.781261527111766,8.324538258575197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1970,7 +1970,7 @@ wl ich it ca- be accomplished, and tf.a: Is by
 legislative authority ; and t :•&gt;. far -mj suf­  
 r-sge will go, shall never b w- *i-ig.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860052901:0441/pct:58.48040682022136,92.63782274947663,13.027221058929106,4.338218190276809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1860052901:0441/pct:55.56029174955006,88.0082498526812,12.37093871364971,4.124926340601061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1994,7 +1994,7 @@ can be accomplished, and that is by legislative
 authority; and this, so far as my suffrage will go,  
 shall never be wanting.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:202.04340250277207,270.22358925825154,37.19309361634722,8.1864426830711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:67.34780083425736,90.07452975275051,12.39769787211574,2.7288142276903664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2020,7 +2020,7 @@ accomplished, and that i* by legislative author­
 ity, and mis, i s far as my suflrage will go, shall  
 never be wanting. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860090801:0002/pct:47.19282511210762,12.22470030666295,9.417040358744394,4.126010593810984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860090801:0002/pct:47.2017937219731,12.231669919152495,9.408071748878923,4.132980206300529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2053,7 +2053,7 @@ adopted for the abolition of it; but there
   
 is ouly one proper and effectual mode by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860092001:0251/pct:28.49936948297604,60.869055985008195,36.002522068095836,13.352073085031623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860092001:0251/pct:9.499789827658681,20.289685328336066,12.00084068936528,4.450691028343875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2079,7 +2079,7 @@ which it can be accomplished, and that i by
 legislative anthdrity, and fltis; l3&#x27; far as rry suf­  
 frage Iffll goj shall never be wwiting.&#x27; v &quot;. v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029191:1860100501:0513/pct:52.388242498469076,36.255286428296806,14.51316595223515,7.804690503652441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029191:1860100501:0513/pct:39.30485377430715,27.194668717160067,10.886541111621497,5.856721773676791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2106,7 +2106,7 @@ be accomplished, and that is by legislative
 authority, and this, as far as my suffrage  
 will go, shall never be wanting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860101201:0386/pct:228.4431137724551,106.80597881294442,48.80239520958084,24.843999419532725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860101201:0386/pct:57.11077844311377,26.701494703236104,12.20059880239521,6.210999854883181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2176,7 +2176,7 @@ Washington jomns me in every good and kind wish
 for Mrs. Morris and your family, and I am, &amp;c.,  
 GEORGE WASHHGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293307:1860102601:0408/pct:247.97814207650273,47.784200385356456,44.31693989071038,76.17888652266504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293307:1860102601:0408/pct:62.01995353286866,11.946050096339114,11.083777504441711,19.04472163066626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2356,7 +2356,7 @@ Mrs. Washington joins me in every good and kind
 wish for Mrs. Morris and your family, and  
 I am, etc. GEOrGE WASHiNgTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475257:1860102901:0668/pct:246.7436974789916,200.78025477707007,39.075630252100844,68.40764331210191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475257:1860102901:0668/pct:82.24789915966386,66.9267515923567,13.025210084033613,22.802547770700638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2436,7 +2436,7 @@ Washington joins me in every good and kind wish for
 Mrs. Morris and your family, and I am, tc ,  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022780:1860111001:0362/pct:50.88699080157687,23.009165575526723,19.64520367936925,36.543268658493034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022780:1860111001:0362/pct:38.17972728766223,17.25985001785502,14.736323311976342,27.413403166289726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2506,7 +2506,7 @@ Washington joins me in every good and kind wish for
 Mrs. Morris and vour family, and I am, etc.,  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022652:1860111401:0400/pct:48.793615441722345,22.82934131736527,20.56421677802524,35.79091816367266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022652:1860111401:0400/pct:36.61344225770516,17.128243512974052,15.428889714073524,26.84630738522954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2558,7 +2558,7 @@ hall never be wanted.&quot;Spark&#x27;s
 writings of Wuskington, vol. 9 p. l50  
 Pa rick Henry, in a letter to Robe 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1860120601:0627/pct:108.85689354275742,100.27911697538696,44.28446771378709,74.83718176435761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1860120601:0627/pct:27.21719210210538,25.06977924384674,11.072324642740265,18.709295441089402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2589,7 +2589,7 @@ hy which it can be accomplished, and that is
 by legislative authority; and this, aa lares my  
 suffrage will go, shall never be wanting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861022201:0002/pct:3.248614561437034,26.701570680628272,10.089814637875024,2.501454333915067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861022201:0002/pct:3.248614561437034,26.708842350203607,10.094592012230079,2.5087260034904015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2677,7 +2677,7 @@ to Gen. Mercer, he says, &quot;It is among ray first
 wishes to see &#x27;some plan adopted by which  
 slavery in this country may be abolished b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477801:1863021101:0093/pct:24.154589371980677,96.37785016286645,19.806763285024154,8.169381107491857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477801:1863021101:0093/pct:18.125323666494044,72.28664495114006,14.880027619540826,6.136807817589577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2777,7 +2777,7 @@ by legislative authority .* and this, as far as
 ruy suffrage will go, shall never be want­  
 ing.&quot; Jn a letter to Lafayette, lie says:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1864070901:0209/pct:5.630331753554502,75.98632673408346,16.511848341232227,7.07876370887338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1864070901:0209/pct:4.37337773642196,58.89322245934211,12.792007444047211,5.493413790565899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2903,7 +2903,7 @@ ers in the city, formed for such purposes, have
 attempted to liberate.&quot; In the latter he writes  
 of a slave whom he sent under the care of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:00175037056:1899080501:0072/pct:5.914243469689502,270.81129740069764,48.06965664530968,6.425115337009115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:00175037056:1899080501:0072/pct:1.9714144898965007,90.27043246689922,16.023218881769893,2.1417051123363713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

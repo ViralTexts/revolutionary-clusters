@@ -102,7 +102,7 @@ to promote and extend our national interefls
 and tiapplnert.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799121001:0003/pct:58.84861407249467,16.427459795953656,17.084221748400854,41.79491613349472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799121001:0003/pct:58.86860341151386,16.44042884316099,17.09088486140725,41.786270102023174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ in all mealu&#x27;es which h»ve a tendency to
 prem te and extend onr national inteicfts -rid  
 happinefs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799122301:0308/pct:9.183202584217813,14.309859154929578,21.66589755422243,41.943661971830984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799122301:0308/pct:9.181084198385236,14.307843965638643,21.666666666666668,41.94127587663709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ operation in all measures which have
 a tendency to promote and extend our  
 national interests and happiness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799122501:0205/pct:57.59640700015487,14.350039154267815,34.39677868979402,79.52231793265466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799122501:0205/pct:57.606731712353515,14.350039154267815,34.38645397759537,79.52558078830593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ arts and calumnies of factions and de­
 signing men have excited open rebel  
 lion a second time in Pennsylvania
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344037:1896022701:1411/pct:161.24513618677042,176.2109486959014,44.8443579766537,12.912009171682431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344037:1896022701:1411/pct:40.3034429099397,44.046424989253474,11.208908772612332,3.2275397621435737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ and designing men have excited
 open rebellion a second time in Pennsylvania,&quot;  
 etc. We knew that ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_flopeye_ver01:data:sn93067853:00295861447:1896022801:0188/pct:34.55833882663151,54.75538626354005,18.95187870797627,3.7971670039281036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_flopeye_ver01:data:sn93067853:00295861447:1896022801:0188/pct:34.56383212480773,54.75538626354005,18.946385409800044,3.805102567154704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1016,7 +1016,7 @@ co-operation in all measures which
 have a tendeney to promote and extend­  
 our national intereft and happines
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899042901:1380/pct:47.06208425720621,16.54781879194631,76.08093126385809,134.7734899328859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899042901:1380/pct:15.687361419068736,5.515939597315437,25.36031042128603,44.9244966442953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

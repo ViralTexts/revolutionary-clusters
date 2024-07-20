@@ -145,7 +145,7 @@ Thus we have Tea hers of L notagas,
   
 teachers of Methematies, ef e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856091101:0224/pct:13.406214039125432,236.7790594498669,39.91657077100115,38.18766637089618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856091101:0224/pct:4.46873801304181,78.92635314995563,13.305523590333717,12.729222123632061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ Uts is generally the business of early life.
   
 dect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856091101:0224/pct:48.403337169159954,15.139751552795031,34.45051783659379,8.79547471162378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856091101:0224/pct:16.134445723053318,5.046583850931677,11.483505945531261,2.931824903874593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ The whites won&#x27;t
   
 ride on the same seat in the cars,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856091101:0224/pct:13.492520138089759,259.8824312333629,67.99482163406213,12.688553682342501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856091101:0224/pct:4.497506712696586,86.62747707778763,22.66494054468738,4.229517894114167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ and it is that which constitutes the subject
 of his discourse, the right of discussing pub  
 lic affairs in the pulpit. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1856091301:0418/pct:199.7178329571106,129.18305427576132,45.25959367945824,7.641308012136195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1856091301:0418/pct:49.93650345703401,32.29576356894033,11.316494990828277,1.9103270030340487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ The letter of the gentleman which follows
 illustrates not only &quot;a breach of contract&quot;  
 on the part of the Rev. H. Ward Beecher i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1856091301:0418/pct:199.7178329571106,136.37487358130127,45.42889390519187,61.40015732104731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1856091301:0418/pct:49.93650345703401,34.09371839532532,11.358826019472273,15.350039330261827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ found which may twist a thread of poli­
   
 luio tue coru pi religious amies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856091701:0051/pct:38.63502358490566,34.01639344262295,14.696344339622641,65.22797131147541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856091701:0051/pct:28.992773927149386,25.512295081967213,11.030821412770978,48.924180327868854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ I pray you to accept the assurances
 of my esteem and respect.  
 T1103. JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856091701:0051/pct:53.77358490566038,8.22233606557377,14.578419811320755,37.564036885245905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856091701:0051/pct:40.3480312638254,6.173155737704918,10.942338888069607,28.17622950819672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ because the association being voluntary,
 the mere majority has no right to apply  
 the contributions of the minority topur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856091701:0051/pct:23.776533018867923,98.74487704918033,29.068396226415093,28.16342213114754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856091701:0051/pct:17.84397581477658,74.06506147540983,21.81094233888807,21.11936475409836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ erend author for the distinguished learning, the
   
 logic and the eloquenco with which he has pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1856092401:0264/pct:42.3216885007278,20.05760670332548,33.7882096069869,107.18774548311076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1856092401:0264/pct:31.761922096832908,15.043205027494109,25.35493265380415,80.40062843676355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,7 +832,7 @@ ilarats, the Dantons and the Roberspierres of
 the Priesthood; I meaa the Parishes, the Og­  
 dons, and the Gardinors of Massachusetts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1856092401:0264/pct:59.55240174672489,38.09897879025923,33.9155749636099,26.669285153181463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1856092401:0264/pct:44.68511103021478,28.58078030898141,25.445941026574445,20.00523697302959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -912,7 +912,7 @@ mean to
 havo notbin&quot; to do.&quot;&#x27; j  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1856120401:0399/pct:7.563272513243084,30.458715596330276,16.62742789876398,9.850917431192661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1856120401:0399/pct:5.682320035330488,22.844036697247706,12.48343883409392,7.396788990825688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -933,7 +933,7 @@ lowed to attempt the assertion of its preroga an i te o i e an e
 less the degree necessary for the instruction  
 of others. It has of necessity then, been dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864071401:0562/pct:85.8481724461106,104.21614180003442,118.65042174320524,12.940974014799519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864071401:0562/pct:21.477139507620166,26.054035450008605,29.683470105509965,3.2352435036998797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1039,7 +1039,7 @@ Baltimore. Along the Potomac and from
 Rockville, large bodies of the enemy are ap­  
 the glory, the grace, the virtne, the modesty, proaching. On Seventh street, which run
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864071401:0562/pct:88.37863167760075,81.29409740147995,118.369259606373,223.23180175529168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864071401:0562/pct:22.110199296600236,20.323524350369986,29.613130128956623,55.80795043882292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1178,7 @@ Very sincerely.
   
 ThoMas JeFFerson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1864072301:0302/pct:225.73900504686372,54.1042302081952,104.39798125450613,328.6566768333112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1864072301:0302/pct:56.45510277677605,13.5260575520488,26.108907320591417,82.1641692083278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1204,7 +1204,7 @@ do.&quot;
   
 A Troy alierman got married the othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279529170:1865030701:0383/pct:48.171749355181305,217.81955776280006,32.04369594902139,15.691143431476883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279529170:1865030701:0383/pct:16.057249785060435,72.60651925426669,10.68123198300713,5.230381143825627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1364,7 +1364,7 @@ cause I admit the right in general
 conversation and in writing.&quot; From  
 which it appears that Mr. Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn84022109:00211101842:1885100201:1148/pct:161.74558960074282,101.55627940644227,44.10399257195915,16.431415128483533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn84022109:00211101842:1885100201:1148/pct:40.44578592988159,25.389069851610568,11.02855816113304,4.107853782120883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1418,7 +1418,7 @@ he desired tranquility, and he wound
 up with the following left-hander at  
 the political preachers down east
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn84022109:00211101842:1885100201:1148/pct:162.11699164345404,123.27180600796235,44.289693593314766,56.17082880926529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn84022109:00211101842:1885100201:1148/pct:40.53865799860692,30.81795150199059,11.074994195495705,14.042707202316322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1443,7 +1443,7 @@ ishes, the ogdens and the Gardiners
 of Massachusetts.&quot; It appears that  
 ever since that time the political fa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn84022109:00211101842:1885100201:1148/pct:162.7669452181987,179.3702497285559,43.91829155060353,14.477017734346724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn84022109:00211101842:1885100201:1148/pct:40.70118411887625,44.842562432138976,10.982122126770374,3.619254433586681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1467,7 +1467,7 @@ this campaign but would not return
 railing for railing. He was there to  
 discuss the question on its merits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297167:1887060701:0970/pct:104.07523510971787,147.23844485232772,68.02507836990596,29.834807275154347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297167:1887060701:0970/pct:26.018808777429467,36.80961121308193,17.00626959247649,7.458701818788587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -261,7 +261,7 @@ defy the armies -of the living God?
 &quot;Who is this uncircumcised Philistine that  
 he should defy the armies of the living God?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280015:1889041501:0476/pct:34.44213444213444,58.21081830790569,14.96881496881497,0.9986130374479889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280015:1889041501:0476/pct:25.83607693640617,43.66158113730929,11.245884595390747,0.7489597780859917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ ed for the battle and cried: &quot;Who is this un­
 circumcised Philistine that he should defy the  
 armies of the living God?&quot; and nith Av
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1889042501:0935/pct:37.742162733356814,51.4684577900698,15.181401902078196,1.6594231529039905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863705:1889042501:0935/pct:30.197717559761426,41.174404720095524,12.140139952096932,1.3345508182903703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ for tho battle and cried: &quot;Who is this
 uncircumcisedPhilistine that he should  
 defy the armies of the living God 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033964:00296020564:1889042501:0492/pct:48.67136659436009,55.040425749667385,13.001626898047723,1.6477330877085252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn85033964:00296020564:1889042501:0492/pct:36.5202061296447,41.28543649575274,9.750474640629237,1.238358407532494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ forth battle and cried: &quot;Who is this un­
 circumcised Philistine that he should defy the  
 armies of the living God?&quot; and with fiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kohlrabi_ver01:data:sn86082061:00415629254:1889042501:0247/pct:42.62759924385633,99.81015662078785,19.565217391304348,1.7560512577123872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kohlrabi_ver01:data:sn86082061:00415629254:1889042501:0247/pct:31.978255731505556,74.86157253599114,14.677381233750886,1.3130833728840374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ for the battle and cried: “Who is this un­
 circumcised Philistine that he should  
 defy the armies of the living God?” an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065762:00332899661:1889042701:1215/pct:49.90363767766803,54.1866341378409,13.15345699831366,1.4812233161976127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_daikon_ver02:data:sn97065762:00332899661:1889042701:1215/pct:49.90765277443187,54.1866341378409,13.165502288605156,1.4812233161976127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ cried: &quot;Who is this uncircumcised Phil­
 istine that he should defy the armies of the  
 living God?&quot; And with five gravel stone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:0029455077A:1889050101:0355/pct:43.46733668341709,26.439393939393938,13.442211055276381,1.6233766233766234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_andersonpink_ver02:data:sn86063760:0029455077A:1889050101:0355/pct:43.47257118927973,26.439393939393938,13.447445561139029,1.6305916305916306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ for the battle and cried: “Who is this un­
 circumcised Philistine that he should  
 defy the armies of tho living God?1’ an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013882:1889050201:1050/pct:44.43528441879637,23.767765346235258,12.90189612530915,1.5119443604475356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013882:1889050201:1050/pct:44.426128168143414,23.764172335600907,12.904389037708635,1.5154950869236583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ cried: “Who is this uncircumcised
 Philistine, that he should defy the  
 armies of the living God?” aud wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896805:1889050401:0321/pct:60.53035283804515,80.48151332760104,10.607056760902914,1.2897678417884781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896805:1889050401:0321/pct:60.5170902716915,80.46767537826685,10.610210341805434,1.2938445667125171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ for the battle and cried: &quot;Who is this uncircumcised
 Philistine that he should defy the  
 armies of the living God?&quot; and with fiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287356:1890100101:0398/pct:36.98532044396706,75.17840152235966,18.134622269960616,1.653187440532826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287356:1890100101:0398/pct:36.98532044396706,75.17840152235966,18.134622269960616,1.657151918807485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ the reproach of Israel? for who is this
 uncircumcised Philistine, that he should  
 defy the armies of the living God?&quot; Hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn90061576:0020029208A:1895120501:1212/pct:15.088282504012842,360.80150281778333,42.776886035313005,5.510331872260489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn90061576:0020029208A:1895120501:1212/pct:3.7735849056603774,90.20037570444583,10.6985146527499,1.3775829680651221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ weak army Who is this uncircum
 clsed Philistine that he should defy  
 the armies of the living God Davi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534588:1895120901:0359/pct:44.83901515151515,70.07567071772529,12.32638888888889,1.3185049300619125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534588:1895120901:0359/pct:44.83901515151515,70.08331422456624,12.32638888888889,1.3185049300619125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ uncircumcised Philistine that he
 should defy the armies of the liv­  
 ing God?&#x27; Then the anger of Elia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761011:1896071801:0192/pct:4.663865546218488,94.54647413430534,19.789915966386555,4.612365063788028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761011:1896071801:0192/pct:3.5091405757512084,70.909855600729,14.835049380121875,3.4627786345156317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ But Duvid got uway with the giunt
 all the same, and later he dodged  
 Saul&#x27;s javelin, and ut last made s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554899:1896071801:0676/pct:6.757026111221846,52.94038305907742,18.716364361172015,8.038845427569463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554899:1896071801:0676/pct:6.766992226430138,52.94375505799838,18.721347418776162,8.038845427569463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ But David got away with the giant
 all the same, and later he dodged  
 Saul&#x27;s javelin, and at last made s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00271762628:1896072601:0952/pct:41.0556205111074,114.00308324768757,46.149991648571906,22.62332990750257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00271762628:1896072601:0952/pct:10.26390512777685,28.500770811921893,11.537497912142976,5.655832476875642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ cised Philistine that he
 should defy the armies of the  
 living God?” Then th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1896081401:0405/pct:34.14982164090369,24.339508047373215,13.935790725326992,3.1430306711205587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1896081401:0405/pct:34.15774871185097,24.339508047373215,13.927863654379706,3.1582143941694505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -175,7 +175,7 @@ exercise the fifbery but at the distance of fifteen leagues
 ~ from the coasts %’t}é ﬂhﬂd of Cape Breton.  
 ~ Arr. IV. The King of Great Britain cedes th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0962/pct:10.271317829457365,3.4103720405862457,56.007751937984494,91.81228861330327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0962/pct:10.271317829457365,3.4197670048853817,56.022107378696525,91.81228861330327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ the sumptuous bangnet of the Declaration
 It is the epilogu= to that uoparalleled drama  
 of which the Du:claration is the prologue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1821080101:0123/pct:9.984813971146545,52.36784772388488,21.089597570235384,15.227611512441234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1821080101:0123/pct:9.984813971146545,52.36784772388488,21.108580106302202,15.239078087375301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ tember, 1827, in pursuance el the Treaty of Ghent,
 IS! I, to an arbiter. If, on investigation, that arbiter  
 found the language of the Treaty, in his opinion, in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831041901:0460/pct:50.30746705710102,13.795478021347412,15.00732064421669,5.646734764145529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831041901:0460/pct:50.30010247401552,13.793894881799403,15.010003415800517,5.6499120189733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +655,7 @@ vide the rivers emptying into the Atlantic Ocean,
 i from those which fall iato the St. Lawrence.”  
 The manaer of&#x27;carrying this apparently excced
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831051001:0493/pct:62.39749515431639,33.29625884732052,15.998210824511704,3.882709807886754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831051001:0493/pct:62.40743501814025,33.29625884732052,15.993240892599772,3.8860802157061003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -794,9 +794,9 @@ ask, in what does this description of the south boundary o
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1838-09_3_9/page/n27/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1838-09_3_9/page/n27/mode/1up?view=theater)
 
-#### 1838-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1838-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -814,9 +814,9 @@ of the parties to have been, that the people of Massachusetts Ba
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1838-09_3_9/page/n27/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1838-09_3_9/page/n27/mode/1up?view=theater)
 
-#### 1838-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1838-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -860,9 +860,9 @@ Lf s source, directly north, to the afore
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1838-09_3_9/page/n28/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1838-09_3_9/page/n28/mode/1up?view=theater)
 
-#### 1838-09-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1838-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1042,7 +1042,7 @@ said.”’ :
   
 The act further authorized and requested the Presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839081301:0337/pct:3.8461538461538463,23.2,15.207780725022104,8.155844155844155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839081301:0337/pct:3.8510659200314374,23.2,15.202868651144513,8.162770562770563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1090,7 +1090,7 @@ highlands, to the westernmost head of Con­
 necticut River, &amp;c.  
 | There being no monument at the northwes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840040201:0320/pct:67.11179781481073,2.968446238971138,15.097671338704338,7.424854194706146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840040201:0320/pct:67.10439196645332,2.9682242990654206,15.099683660707717,7.426791277258567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1126,7 +1126,7 @@ lands, to the westernmost head of Con
 necticut River, &amp;c.  
 There being no monument at the nort
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840040901:0795/pct:274.3912018853103,183.91470317230485,57.10919088766693,57.075161247861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840040901:0795/pct:68.62475442043223,45.97867579307621,14.282907662082515,14.26879031196525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1420,7 +1420,7 @@ permanent foundation of peace and friendship be
 tween States,&quot; &amp;c. I have on a former occasion  
 explained the reasons which have induced the Brit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842091501:0984/pct:94.33547779695591,19.736377545015888,38.427742036717405,5.872660939154996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842091501:0984/pct:31.440225917791025,6.5780183572605315,12.807237736638427,1.9573232917549228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1468,7 +1468,7 @@ and Great IJriuin, by Dai.l Hartley, on the
 one part, and John Adams, Benjamin Frank­  
 lin, and Johu Jay mi ihe other, his Ihttanni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846031401:0336/pct:66.85456595264938,76.08242648761288,19.68714768883878,5.718916415837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846031401:0336/pct:50.14799154334038,57.06181986570966,14.770965468639888,4.294975688816856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1493,7 +1493,7 @@ was no assumed resumption of territory theretofore
 granted by Great Britain to any of the colonies; but  
 all their &quot;territorial rights&quot; are preserved to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846042801:0510/pct:99.64964964964965,142.97184081917618,47.56423089756423,14.847568070747032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846042801:0510/pct:33.21654988321655,47.657280273058724,15.85474363252141,4.949189356915678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1579,7 +1579,7 @@ such; and for hinself, his heirs and successors, relinquishes
 all clatims to the Government, propriety and territorial rights  
 of the same and every part thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860122601:1160/pct:154.31723696834027,83.81294964028777,44.803325871442276,9.116456834532373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860122601:1160/pct:51.439078989446756,27.937649880095922,14.934441957147426,3.0388189448441247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1607,7 +1607,7 @@ with them as such ; and for himself, his hoi
 &#x27; &#x27; government, propriety and territorial fights  
 tho same and evora^nrt thoroof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1861011201:1164/pct:0.2522863450015768,86.35307781649244,17.660044150110377,7.363530778164924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1861011201:1164/pct:0.2522863450015768,86.35694928377855,17.66530011563124,7.3712737127371275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1625,7 +1625,7 @@ concludes as follows:
 &quot;All prisoners on both sides shall be set at  
 liberty, and his Britanic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861022701:0204/pct:152.46981339187707,274.1792176833893,44.182217343578486,6.717954274569292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861022701:0204/pct:38.127916552292064,68.54480442084733,11.048586329947845,1.679488568642323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1680,7 +1680,7 @@ quishes all claims to the Government, propriety,
 and territorial rights of the same, and every part  
 thereof.&quot; , , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1862102101:0593/pct:109.16095890410959,83.51782156298428,20.26255707762557,9.508523356209874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1862102101:0593/pct:81.88953903239617,62.64113349568297,15.199086627658057,7.139694487491698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1729,7 +1729,7 @@ not only of the origin, but of the na­
 ture and character of the Free Institu­  
 tions under which we live
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875081101:0835/pct:299.7624703087886,258.09068520932925,80.60174188440222,56.38128349992757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875081101:0835/pct:74.98514557338086,64.52267130233231,20.162408397702514,14.095320874981892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1801,7 +1801,7 @@ the coasts of Cape Breton, and the fishing on the coasts
 of Nova Scotia or Acadia, and everywhere else out of  
 the said Gulf of St. Lawrence, shall remain on the foot-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876062301:1065/pct:102.25625823451911,236.10922275096306,45.56982872200263,12.655789712213913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876062301:1065/pct:34.085419411506365,78.70307425032102,15.189942907334212,4.218596570737971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1896,7 +1896,7 @@ ment now piacea before tne Senate a beneficial
 and satisfactory intercourse between the two  
 countries will be established so as to secur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669240:1888030101:0701/pct:27.904040404040405,79.97879109225875,17.85914702581369,6.776246023329798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669240:1888030101:0701/pct:18.610526315789475,53.31919406150583,11.91578947368421,4.517497348886533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1931,7 +1931,7 @@ d sutis be established as to promise and se
 cotht both perpetual peace and harmony.&quot;  
 on EaRTi PEACE AMonG Men GooDWi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039107:1897061301:0199/pct:0.5302056555269923,87.15345994324383,48.15231362467866,13.315869897402314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039107:1897061301:0199/pct:0.17673521850899743,29.051153314414613,16.05077120822622,4.438623299134105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

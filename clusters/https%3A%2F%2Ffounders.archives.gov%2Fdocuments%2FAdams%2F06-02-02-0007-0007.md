@@ -1337,7 +1337,7 @@ That in the year 1614, 1615, and
 River near fort Orange, and built a  
 small fort there—&#x27;that in the yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823081201:0510/pct:28.148412415269355,18.909051862987223,17.552622190510167,6.915064962955009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823081201:0510/pct:28.14339218833601,18.907021687781835,17.555436656560254,6.917901367117601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1577,7 +1577,7 @@ Plautations, in New-England, in Ame­
 rica, and their successors, That the Go-  
 Vlrnor’, or wn his absence, or by his per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833112701:0591/pct:48.005297136235725,67.15164419209842,14.96440986591624,4.554057251005442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833112701:0591/pct:48.01633283672681,67.15164419209842,14.96440986591624,4.565885971137923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1632,7 +1632,7 @@ wards the east, or. eastwardly, three
 English milés to the east and north-east’  
 of the most eastern and north-easter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833121801:0603/pct:65.8843537414966,37.5208382948321,16.003401360544217,31.805191712312457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833121801:0603/pct:65.8843537414966,37.52480749384774,16.014739229024944,31.801222513296818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1652,7 +1652,7 @@ grante by Us, or by any of our progeni.
 tors or predecessors, heretofore made tu  
 the said Governor, and Company ‘-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833121801:0603/pct:82.48299319727892,77.3517504167659,15.646258503401361,5.215527506549178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833121801:0603/pct:82.48866213151928,77.3517504167659,15.646258503401361,5.231404302611733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1671,7 +1671,7 @@ land and Providence Plantations in N.
 England, in America, and their succeo-!  
 sors, that the governor, or, in his ab-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1834050101:0864/pct:5.345638168204771,30.12836336706986,15.2011144001393,3.455936805726981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1834050101:0864/pct:5.345638168204771,30.12836336706986,15.218526902315864,3.455936805726981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1692,7 +1692,7 @@ ragansett Bay, where the said river falls into the sea, r
 and on the north by the line of the Massachusetts  
 plantation, and on the south by the sea.” | 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1835020401:0213/pct:3.2468710321059313,70.06802721088435,19.571920914202792,5.141287284144427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1835020401:0213/pct:3.2589636616482256,70.06802721088435,19.565874599431645,5.150008721437293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1767,7 +1767,7 @@ t chusetts Colony, running from east to west—
 &#x27;west part, with the islands thereunto ad  
 joining, together with all firm lands, soile
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836060801:0467/pct:18.45815784654825,54.42635966653434,15.509979857169016,19.068413391557495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836060801:0467/pct:18.45815784654825,54.43077058797583,15.516083745345785,19.068413391557495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1823,7 +1823,7 @@ goods, wheresoever they are in this country, and dis­
 pose of them as they please.*&#x27; Nicholls ramiii eiinN.  
 Y. but three years.nnd histimewas wholly taken up i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743130:1839121201:0883/pct:61.02355532960515,25.219673627753053,18.57312319945772,5.055346342576743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743130:1839121201:0883/pct:61.02355532960515,25.223477500095097,18.590069479749197,5.062954087260832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1965,7 +1965,7 @@ River, and Grants made by the French south of Crown
   
 Tomt, pvblished by the General Assembly of Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1847082001:0503/pct:171.8772826880935,70.94362195304322,46.74945215485756,8.135187677583371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1847082001:0503/pct:42.97716894977169,17.735905488260805,11.689497716894977,2.0337969193958427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1988,7 +1988,7 @@ by the General Assembly of NewYork, 1773
 with an appendix of the facts.  
 &quot;A Narrative of the Proceedings of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022355:00200290136:1847091501:0594/pct:39.0625,235.76871358135367,56.00328947368421,18.586582997161212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022355:00200290136:1847091501:0594/pct:9.767633148262389,58.942178395338416,14.003701418877236,4.646645749290303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2011,7 +2011,7 @@ by the General Assembly of NewY ork, 1773
 with an appenoiy of the facts.  
 &quot;A Narrative of the Proceedings of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022355:00200290136:1847100601:0608/pct:38.68078175895766,233.73063170441,55.53745928338762,18.533969010727056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022355:00200290136:1847100601:0608/pct:9.674134419551935,58.4326579261025,13.890020366598778,4.633492252681764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2082,7 +2082,7 @@ of New-York invited the &quot;Governor
 and company of the English Colony of  
 Connecticut&quot; to send fresh forces t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1860111401:0070/pct:170.62543921293042,88.65394533264569,50.73787772312017,29.809179989685404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1860111401:0070/pct:42.656359803232604,22.163486333161423,12.684469430780043,7.452294997421351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2448,7 +2448,7 @@ thence to the river Kinebequi, and so upwards
 by the shortest course to the river of Canada.”  
 This grant was intended to cover all that par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525449:1878031501:0185/pct:37.54271765663141,74.43174984966927,10.9519934906428,4.60613349368611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525449:1878031501:0185/pct:37.536609176700296,74.42279942279943,10.954279205987634,4.608585858585859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2597,7 +2597,7 @@ Colony of Connecticut in New England in
 America, holden in Hartford, in said Colo­  
 ny, by special order of the Governor, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173423:1883070601:0194/pct:3.869346733668342,89.52595936794583,14.857621440536013,3.4988713318284423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173423:1883070601:0194/pct:3.868698710433763,89.51585599819434,14.860715681348742,3.5022382725802204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2817,7 +2817,7 @@ Matter whatsoever in anywise notwithstanding In Testimony whereo
 to “the Governor and Company of the  
 ‘English Colony of Connecticut’ for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173514:1891052201:0584/pct:19.845474613686534,5.286961946350592,14.98896247240618,1.1540860885839053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173514:1891052201:0584/pct:19.841094681085853,5.286137533135818,14.991171926726992,1.1578044596912522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3128,7 +3128,7 @@ on the mainland between the two riv­
 ers there called or known by the sev­  
 eral names of Connecticut and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621188:1898050201:0944/pct:76.74050632911393,46.81994625261272,16.475474683544302,7.091669154971633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621188:1898050201:0944/pct:57.566765578635014,35.11495968945954,12.363996043521267,5.32994923857868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

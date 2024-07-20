@@ -194,7 +194,7 @@ to the control of all tranfatlantic force or influ­
 ence, and able to dilate the terms of the con­  
 nexion between the old and the new w&gt; r!&lt;J.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799111101:0283/pct:5.524475524475524,18.15990927133541,22.47086247086247,23.447689254323787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799111101:0283/pct:5.523188068049405,18.157335223245926,22.471451876019575,23.447909284195607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ to the prosperity of a navy, arc points too manifest
 to require a particular elucidation. They, by a kind  
 of re-action, mutually beneficial, promote each other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805091801:0709/pct:74.09915356711004,45.12370311252993,21.789600967351873,13.6951316839585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805091801:0709/pct:74.08123791102514,45.11650175550591,21.790377176015475,13.696935844238748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ of this policyctto the cabinets of ministers.
 {if wafi eounte—ract 31 &#x27;policy so unfrie ndly  
 &quot; to Our- prosperity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806042901:0468/pct:28.28379674017258,3.36615096108767,46.644295302013425,90.92358180965776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806042901:0468/pct:28.279277839910527,3.3658353647102945,46.64216861053416,90.91818238639915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ as our intereli may diffatc.&quot;
 Ala- ! this great fiatesmsn little imagined ss  
 that the-Union which he so ardentiy recommend- c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806042901:0468/pct:51.98146372643017,11.23300515705579,23.37807606263982,23.422409751523677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806042901:0468/pct:51.97315865154178,11.231951996999813,23.379666613410024,23.42333895868492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ that : aitnntico no saven-ble would enable
 ﬀtnereiﬂptiviledxea. A price woussld be se:  
 not only ahdtttfffimddlip&#x27;sibut our ncutrm&#x27;i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071501:0216/pct:3.3923523285225414,40.45013239187996,23.969647373902692,13.654015887025595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071501:0216/pct:3.3918476643855997,40.44656252757921,23.971040364970744,13.655752654958373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ yenn&#x27; but; to reqctlrein our gromh. This
 toeach mhi&#x27;nnt&#x27;muQ, by indueing nnitn.  
 -—yenetie&#x27;ahilitysi of inceett. An active sieom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071501:0216/pct:3.3923523285225414,58.77316857899382,24.20770718643059,15.8693733451015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807071501:0216/pct:3.3918476643855997,58.7679816432795,24.20906476247149,15.870914600064719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1026,7 +1026,7 @@ terrupting the intercourse in future commercial
 sovereignty, they had the power also of provi­  
 ding the means of carry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824021701:0027/pct:65.49596582819174,18.859649122807017,15.20329061857301,12.257617728531857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824021701:0027/pct:65.48560582094274,18.85747259088286,15.206158388695561,12.260050009617235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1081,7 +1081,7 @@ the control of all trauslantic force or influence, and able
 to dictate the terms of the connexion between the old  
 and the now world.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830101901:0183/pct:50.08789920890712,67.10706150341686,15.221213009082918,9.544419134396355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830101901:0183/pct:50.08056247253552,67.09941920054663,15.223866022166886,9.547128269369471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1238,7 @@ their own, &quot;superior to the control of all trails-Atlantic
 lorcc or influence, ami able to dir late the terms of the con­  
 nexion between the old woiftf ami the new.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832071001:0079/pct:80.43145441892833,23.11756935270806,15.045233124565065,3.038309114927345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832071001:0079/pct:80.42026161981632,23.115024766097964,15.04777808702106,3.0416437350944783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1342,7 +1342,7 @@ Isruiisci, aod able to diclala the term* of
 the connexion between tbe old and tbe a«w  
 world.’ - -..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1832102501:0181/pct:37.32981993851559,5.3080973388359185,36.49538866930171,90.84958019069305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1832102501:0181/pct:37.321624588364436,5.307342060330108,36.49286498353458,90.84021058622652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1400,7 +1400,7 @@ dissoluble union, concur in erecting one great Aner-
 icAs SveTen, superior to the control of Trans-At-­  
 lantic force or influence, and able to dictate the con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844092701:0613/pct:45.79061820441131,192.3292797006548,41.34824479652066,8.769878391019645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844092701:0613/pct:15.263539401470435,64.10975990021828,13.782748265506886,2.9232927970065483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1424,7 +1424,7 @@ the honor of the human race, and to teach
 that assuming brother moderation. Union will enable  
 us to do it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845070501:0229/pct:0.7427740997900856,50.366902834008094,15.824317778136606,5.794534412955466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845070501:0229/pct:0.7535389418160289,50.37533738191633,15.813552936110662,5.79031713900135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1448,7 +1448,7 @@ erecting one great American system, superior to the control
 of sll transatlantic force or influence, and nhlt to dictate  
 the terms of the connexion between the Old and the Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845070801:0237/pct:0.8061915511125444,59.38410847801293,14.414704933892294,4.5368140920035485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845070801:0237/pct:0.8169407717940449,59.39255692138723,14.420079544233044,4.5368140920035485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1472,7 +1472,7 @@ of the human race, and to teach that assuming brother
 moderation. Union will enable us to do it.&quot;  
 The &quot;Union&quot; does not appear to us, very consisten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845070801:0562/pct:56.03232916972814,215.99577514376247,38.50110213078619,13.812932754371552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845070801:0562/pct:18.674698795180724,71.99014315888289,12.831815065138603,4.6037706328717825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1497,7 +1497,7 @@ teach that assuming brother moderation. Union
 will enable us to do it.”  
 Has then, at last, the Union forgotten that thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845070901:0372/pct:68.33642547928262,50.89799597808751,15.419501133786849,5.644546147978642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845070901:0372/pct:68.32938266515511,50.89446678685342,15.421347349616957,5.6464660472426385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1521,7 +1521,7 @@ to the control of all transatlantic force or intlu­
 ence, and able to dictate the terms of the connexion  
 betxce n the Old and Ahc World!&quot;—tiUxande
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845071001:0377/pct:1.251908396946565,42.636939168731075,14.819338422391857,4.823837049270575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845071001:0377/pct:1.251780989212294,42.634005367095575,14.821222606689735,4.825798756852222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1582,7 +1582,7 @@ Atlantic force or influence, and able to dictate
 the terms of the connexion, between the old |  
 and the new world.” And in the 12th number 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1849092101:0052/pct:44.32715168806467,81.6026851269142,12.84831193533048,3.1396405845745052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1849092101:0052/pct:44.32293647774819,81.59697944343448,12.850259921389629,3.14175173635389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1655,7 +1655,7 @@ It was a constitution of mutual agreements or
 compromises, one thing being yielded by the South  
 and another by the North. The rabid agiUtors a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857032701:0419/pct:37.37029831387808,56.388608870967744,17.590791180285343,12.80241935483871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857032701:0419/pct:37.37570255079983,56.39700940860215,17.607003891050585,12.806619623655914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1732,7 +1732,7 @@ rest of mankind as created for her benefit.
 &quot;connection between the Old and the New  
 &quot;World.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866030201:0218/pct:53.25801366263794,70.79169869331284,47.92433000525486,40.567085148176616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:0027174190A:1866030201:0218/pct:17.752671220879314,23.597232897770944,15.974776668418286,13.522361716058873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1758,7 +1758,7 @@ Eurepe, by her arms and negotiations, by
 force and frand, has, in different degrees,  
  extended her dominion over them all unti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060120:00415623501:1866030801:0035/pct:73.99438727782974,230.58252427184465,40.59869036482694,19.781553398058254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060120:00415623501:1866030801:0035/pct:24.664795759276583,76.86084142394822,13.532896788275647,6.593851132686084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1788,7 +1788,7 @@ influence, and able to dictate the terms of
 the connection between the Old and the  
 N.W World.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060120:00415623501:1866030801:0035/pct:73.99438727782974,250.55622977346277,40.59869036482694,26.233818770226538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060120:00415623501:1866030801:0035/pct:24.664795759276583,83.51874325782093,13.532896788275647,8.744606256742179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1855,7 +1855,7 @@ dictate the terms of the connection be
   
 tween the Old and the New World.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866030901:0234/pct:103.35842501447597,199.73009446693658,38.621887666473654,46.09156026160075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866030901:0234/pct:25.839606253618992,49.932523616734144,9.655471916618414,11.522890065400187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1879,7 +1879,7 @@ der a vigorous national government.&quot;
   
 In the 15th number he speaks of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:106.65039658328249,74.84013230429989,37.705918242831,12.392502756339582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:26.670735428745804,18.71003307607497,9.429356118400976,3.0981256890848954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1899,7 +1899,7 @@ commercial as well as political interest
   
 can only result from an unity of gover
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:105.97925564368518,104.87320837927233,37.88895668090299,5.248070562293274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:26.502898992981386,26.218302094818082,9.475129691791272,1.3120176405733186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1917,7 +1917,7 @@ together in a strict and indissoluble
 Union, concur in erecting one great  
 American system!&quot; In the 12th: &quot;We
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:105.91824283099452,111.48842337375964,37.64490543014033,3.7045203969128995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:26.48764113518462,27.87210584343991,9.414098260604211,0.9261300992282249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1936,7 +1936,7 @@ commercial light was a matter about which there was no
 room to entertain a difference of opinion.  
 At the conclusion of his speech, Mr. Sherman moved t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869010701:0047/pct:103.52923124136873,221.39944903581267,47.67531072579408,6.071625344352617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869010701:0047/pct:34.50974374712291,73.79981634527088,15.89177024193136,2.0238751147842056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2019,7 +2019,7 @@ able to dictate the connection between the Old
 and New World j&quot; and be knew that no other  
 measure of the new government was so entirel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871122101:0276/pct:58.30670926517572,5.546001719690456,12.88224554997718,3.9294926913155632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871122101:0276/pct:58.31431614179218,5.548867870449985,12.88224554997718,3.9294926913155632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2183,7 +2183,7 @@ where the prolific parents of distrust. Our situa­
 tion invites, and our interests prompt us to aim at  
 the ascendent in the monetary affairs of the worl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00294558305:1874032401:0313/pct:16.22962437987243,225.62622950819673,44.08221119773211,4.459016393442623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00294558305:1874032401:0313/pct:4.059563907108669,56.40655737704918,11.026413756426166,1.1147540983606556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2347,7 +2347,7 @@ Mtca of Akla he nords that our situation invites
 and our interests prompt us to aim at all.  
 ant in the system of American affairs. He arge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038875:1896011201:0211/pct:4.553615146074751,251.9256605463502,48.60453729394484,4.489476041200179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038875:1896011201:0211/pct:1.5178717153582504,83.97522018211673,16.201512431314946,1.496492013733393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2365,7 +2365,7 @@ our situation invites, and our interests
 prompt, us to aim at an ascendant in the system  
 of American affairs. He argued that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896011201:0144/pct:15.06434519303558,232.06712433257056,50.41635124905375,5.85812356979405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896011201:0144/pct:3.767512305944718,58.01678108314264,12.608860280196895,1.4645308924485125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2407,7 +2407,7 @@ European force or influence, and dictate
 the terms of connection between the  
 old and the new world.&quot; And tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767839:1896061801:0203/pct:21.68127231418371,82.69771627854652,14.427134047387211,5.287433907076162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767839:1896061801:0203/pct:21.692091312344477,82.7014662316721,14.427134047387211,5.287433907076162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2423,7 +2423,7 @@ old and the new world.&quot; And tha
 the United States should ‘aim at an as­  
 cendant in the system of American affairs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897071401:0124/pct:3.3045589425411386,43.12815338042381,12.341516050714864,0.6760847628657921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897071401:0124/pct:3.3135509396636995,43.12815338042381,12.341516050714864,0.682811974436596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2510,7 +2510,7 @@ ity. By a steady adherence to the Union we
 may hope ere long to become the arbiter of  
 Europe in America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036830:1898052901:0610/pct:225.0436082731124,195.21875,72.29005731373037,81.75/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036830:1898052901:0610/pct:75.01453609103746,65.07291666666667,24.096685771243457,27.25/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

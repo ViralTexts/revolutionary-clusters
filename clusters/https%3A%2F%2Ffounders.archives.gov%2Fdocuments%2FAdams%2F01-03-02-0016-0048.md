@@ -168,7 +168,7 @@ i end other Inhabitants of your Town, that have an Estate of
 Freehold in Land within this Province or Territory, of Forty  
 Shilflngs per Aucum at the least, or other Estate to the Value o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775071101:0467/pct:6.8217401028852604,60.20215633423181,28.1816148512637,19.285714285714285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775071101:0467/pct:6.836651010213972,60.21114106019766,28.174159397599343,19.294699011680144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

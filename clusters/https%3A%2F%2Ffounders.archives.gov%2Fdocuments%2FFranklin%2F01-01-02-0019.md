@@ -124,7 +124,7 @@ ging of a petticoat, and chide her servant
 j for breaking a china i. p, in all the figures  
 j of rhetoric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071587:00542866561:1823082901:0193/pct:30.650588895120585,9.531304651976216,21.42456533931576,7.974816369359916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071587:00542866561:1823082901:0193/pct:30.641996075133164,9.529638048609897,21.4255677039529,7.977793320510579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ low, fuddled, groatable, confoundedly cut, see two moons,
 be among the Philistines, in a very good humor, have been  
 in the sun, is a little feverish, pretty well entered, etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852092301:0987/pct:212.15503246753246,25.53484107579462,38.04788961038961,5.04278728606357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852092301:0987/pct:70.71834415584415,8.51161369193154,12.68262987012987,1.6809290953545233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ n. id chide her servant for breaking a china
 cup, in all the figures of rhctoiio.  
 Were woman admitted to plead In court
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:0023728799A:1875041601:0295/pct:20.072115384615383,16.704318936877076,14.732142857142858,6.750830564784053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:0023728799A:1875041601:0295/pct:15.06096513824489,12.53156146179402,11.059591275974583,5.06312292358804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

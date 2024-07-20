@@ -228,7 +228,7 @@ joint tenants, all those peices or parcels of ground,
 ituate and lying in the said city of Washington,  
 and known and described as Lots numhered one t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393348008:1859051201:0931/pct:140.3729146221786,208.59667515351205,58.66535819430815,49.07892766212371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393348008:1859051201:0931/pct:35.086342229199374,52.1413596885295,14.663461538461538,12.267894579215334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ dent or appertaining; to have and to
 hold all aud singular the premises be?  
 fore mentione
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551207:1873062901:0105/pct:66.10555847799404,30.89980678995308,16.622830089426618,12.048026497377863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551207:1873062901:0105/pct:66.10555847799404,30.909007268377955,16.640364720322637,12.048026497377863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ the second part, his heirs and assigns forever, subjet
 to the restrictions as to the building of a staple on the  
 rear line thereof, that are contained in the deed fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873102701:0764/pct:240.63444108761328,290.4352976014214,49.848942598187314,14.687592537755405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873102701:0764/pct:60.169971671388105,72.60882440035535,12.464589235127479,3.6718981344388513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ ecutors, successors, and assigns, all and singular the
 lands, tenements, hereditaments, goods, chattels, and  
 choser in action belonging to them, the said parties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875072901:0979/pct:111.70130869899923,106.08128151883714,50.19245573518091,11.213289824977752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875072901:0979/pct:27.941459657230887,26.520320379709286,12.555362988638551,2.803322456244438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ in Israel Lander addition to the said
 city of Mexico; ana also block four,  
 in J. P. Clark&#x27;s addition to the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:0029455628A:1884103001:0392/pct:71.75560946027896,17.357263310045774,13.235294117647058,13.261864610937124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:0029455628A:1884103001:0392/pct:53.8449871075383,13.020958805107202,9.93477931139087,9.949409780775717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ edged, do by these presents, grant, bar­
 gain, sell, remise, release, alien, convey  
 and confirm unto the said party of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237285347:1887041701:0556/pct:7.9326923076923075,99.90170380078636,18.584735576923077,5.559196155526431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237285347:1887041701:0556/pct:5.290846234781301,66.60113586719092,12.400420862768676,3.713411970292704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ lease unto the city of Fort Worth or its assigns
 all that tract or narcet of land situated in  
 the said city of Fort Worth, and descritbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206535593:1887061601:0279/pct:104.32537120723048,290.29287774572884,55.39057456423499,8.919458619924562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206535593:1887061601:0279/pct:26.08134280180762,72.57321943643221,13.847643641058747,2.2298646549811405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -735,7 +735,7 @@ and holds the said lot subject to all the
 rules and regulations of the cemetery  
 In witness whereof, -- have signe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034870:1896083001:0312/pct:250.8591065292096,241.71536610519078,50.51546391752577,43.74355448607769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034870:1896083001:0312/pct:62.74172754619682,60.428841526297695,12.634293081220456,10.935888621519423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

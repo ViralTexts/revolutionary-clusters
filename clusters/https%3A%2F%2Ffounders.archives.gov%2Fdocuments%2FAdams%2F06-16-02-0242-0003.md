@@ -612,7 +612,7 @@ When any vessel of either party shall be
 wrecked, foundered, or othrrwife damaged  
 on the coasts or within the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800120201:0002/pct:24.740776464914397,31.435368754956382,16.759102965999517,12.164948453608247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800120201:0002/pct:24.75283337352303,31.435368754956382,16.771159874608152,12.172878667724028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ them.
   
 ill. If a veflel of one of the parties, take
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800120201:0002/pct:59.681697612732094,35.955590800951626,16.63853387991319,11.102299762093576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800120201:0002/pct:59.69375452134073,35.967486122125294,16.63853387991319,11.110229976209357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1206,7 +1206,7 @@ tion or otherwise; and their heirs, legatees,
 and donees, being citizens or subjects of the  
 other contracting party, shall succeed to thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846121101:0471/pct:59.16978109983983,36.5528332229685,17.45862253069941,11.332891873994893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846121101:0471/pct:44.39845106155695,27.414624917226373,13.099212177860863,8.504398826979472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1273,7 +1273,7 @@ and during which, its stipulations are to be as sacred­
 ly observed as the most acknowledged obligations un­  
 der the law ot nauire or nations. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848033001:0618/pct:108.86297376093295,49.25760075418336,16.96793002915452,16.403488098043837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848033001:0618/pct:81.67104111986002,36.94320056563752,12.729658792650918,12.302616073532878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1329,7 +1329,7 @@ ring which its stipulations are to be as sacredly observed chi
 as the most acknowledged obligations under the law of tra  
 nature or nations. o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848070601:0682/pct:52.42564020995705,27.857589006870707,16.71703515190075,10.006246096189882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848070601:0682/pct:52.43094215577117,27.861753070997292,16.711733206086635,10.01041016031647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1460,7 +1460,7 @@ qualified by slieiioge, such ciOzen or subject sh.il be allowed
 a reasonable time to sell the -me, and to withdraw^the pr&gt;­  
 C-eds without motesUtior, and exempt from all duties of de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850111601:0430/pct:3.6785119378123263,78.61371219459693,15.782898389783453,10.773867183295662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850111601:0430/pct:3.687766055894873,78.6208875973164,15.787525448824727,10.770279481935924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1482,7 +1482,7 @@ mercial agents and vice commercial agents, of
   
 their own appointment, who shall enjoy the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777614:1850121201:0202/pct:235.2941176470588,60.50224996371026,51.20663650075415,9.754681376106838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777614:1850121201:0202/pct:58.8568194680249,15.125562490927566,12.80890398038106,2.4386703440267095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1524,7 +1524,7 @@ of proceeding usual in such case*. The citizen* and sub­
 jects of both parties shsll lie allowed to employ such ad  
 vorale*. solicitors, notaries, agent*, and factors, as the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851111501:1195/pct:16.80921052631579,90.22490262595804,15.855263157894736,3.832139716044729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851111501:1195/pct:16.81469298245614,90.23327888763245,15.866228070175438,3.832139716044729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1546,7 +1546,7 @@ a the er the same sha be prosecuted by or.
 der and autherity of law only, and acoording to the rese  
 course of proceedings usual in such cases.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851122501:1007/pct:194.27906203226343,188.88635065676755,50.90636953267919,7.344374643061108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851122501:1007/pct:64.75968734408781,62.96211688558919,16.9687898442264,2.4481248810203695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1608,7 +1608,7 @@ within Ihe meaning of Ihe treaty How, then, wete they lo
 he prosecuted ! &quot;By authority of law only,and according  
 to the regular course of proceedings usual hi such cases.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853012501:0113/pct:48.32689832689832,45.73456711877297,15.604890604890604,7.859044238813538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853012501:0113/pct:48.32689832689832,45.73879241137449,15.626340626340626,7.867494824016563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1655,7 +1655,7 @@ diately become common to the other party, feeely, where it
 is freely granted to such other nation, and on yielding the  
 same compensation, or a compensation as nearly as possi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857050201:0414/pct:178.5171102661597,145.82607686055962,50.19011406844106,9.892023685127134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857050201:0414/pct:44.629277566539926,36.456519215139906,12.547528517110266,2.4730059212817834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1678,7 +1678,7 @@ ahere it is freely granted to such other nation
 and on yielding the same compensation, or a  
 compensation as nearly as possible of propor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1858050101:0383/pct:168.4389140271493,132.12548230162724,65.61085972850678,23.821506458647878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1858050101:0383/pct:42.12164073550212,33.03137057540681,16.407355021216407,5.9553766146619695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1720,7 +1720,7 @@ the other party, freely wherovit shall be freely
 where it shall be freely granted to such other na­  
 liDn or for the same equivalent when tha grant sha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470685:1863061101:0120/pct:39.11509229098806,96.64455715957862,17.42671009771987,3.2676550916894262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020109:00212470685:1863061101:0120/pct:29.347088367042215,72.48341786968396,13.071806705578933,2.4580569644947325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1984,7 +1984,7 @@ prosecuted by order and authority of law on­
 e ly, aDd according to the regular eourse o:  
 1 proceedings usual in such cases. The citi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1873112701:0384/pct:16.832210003547356,85.22757169166009,13.391273501241574,6.853459615890555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1873112701:0384/pct:16.82922503990069,85.21636196238327,13.393332151090618,6.855846376430357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2101,7 +2101,7 @@ ing which Its provisions are to be sacieilly ob­
 served as the most acknowledged obligations In  
 the law of nations. :•&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_kaweah_ver01:data:sn94052989:00175047591:1891040301:0308/pct:16.085147247119078,16.33128834355828,10.56338028169014,3.6809815950920246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_kaweah_ver01:data:sn94052989:00175047591:1891040301:0308/pct:16.085147247119078,16.33128834355828,10.571382842509603,3.684049079754601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2144,7 +2144,7 @@ this article. b 7
 The existence of this article is not gen­  
 erally known. Diplomats and others t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:00414189908:1891040301:0093/pct:44.24204355108878,32.49030256012413,12.56281407035176,2.9325058184639254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_heron_ver02:data:sn88085722:00414189908:1891040301:0093/pct:44.24204355108878,32.49030256012413,12.56281407035176,2.9363847944142747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2200,7 +2200,7 @@ cases. The citizens and subjct*3 of both
 parties shall be allowed to employ .such ad­  
 vocates, solicitors and notaries, agents an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655065:1896051101:0350/pct:29.20980926430518,11.063082534107794,27.992733878292462,87.03228420910442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655065:1896051101:0350/pct:29.2188919164396,11.063082534107794,28.001816530426886,87.03566121842496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2241,7 +2241,7 @@ offenses committed by any citizen of the one party within the furlediction of th
 other, the same shall be madeand prosecuted by order and authority of the luw  
 only and according to the regular course of proceedings usual in such cases. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86071197:00175034869:1896051201:0435/pct:98.26732673267327,137.83691572842034,95.46204620462046,14.466052541794609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86071197:00175034869:1896051201:0435/pct:24.566831683168317,34.459228932105084,23.865511551155116,3.616513135448652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2273,7 +2273,7 @@ ceedings usual in such cases.&quot;
 ly the protocol of 1877, Spain agreed  
 &quot;no citizen of the United States re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550203:1896051601:1138/pct:9.433962264150944,141.46039603960395,44.51650943396226,30.486798679867988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550203:1896051601:1138/pct:3.1446540880503147,47.15346534653465,14.838836477987421,10.162266226622663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -206,7 +206,7 @@ Commerce and industry are the best miues of
 a nation.  
 Associate with men of good quality if you es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022101:0448/pct:26.266541906162278,17.95972898177307,18.767544445929687,6.73728409199351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210089:1885022101:0448/pct:20.359819054525364,13.9187456858298,14.551607445008461,5.2287742826151264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

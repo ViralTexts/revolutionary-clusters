@@ -60,7 +60,7 @@ the port of Venice, and to enforce and
 maintain the same in the striCtest manner,  
 according to the usagea of war acknowsi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1806092901:0021/pct:26.00623793257092,21.447793326157157,22.174365067577604,4.036598493003229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1806092901:0021/pct:26.002376002376003,21.445869584716117,22.176022176022176,4.039226238526624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ his majesty has judged it expedient to establish the
 most rigorous blockade at the entrance of the ports  
 ot Cartlmgena, Cadiz, and St. Lncar, and of all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808031801:1040/pct:26.783867631851084,79.49756888168558,22.104446742502585,2.1231766612641816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808031801:1040/pct:26.776944947014734,79.48468643655809,22.105195140863273,2.12688381137579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ rigorous blockade of the port of Copenhagen, aBd
 that tbe same will be maintained and enfoiced in the  
 strictest manner, according to the usages of war ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808070101:1208/pct:28.444782168186425,6.819273251160557,21.93515704154002,4.690251320633904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808070101:1208/pct:28.437579133957964,6.818181818181818,21.935933147632312,4.6935019206145965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ Zealand) and that the same will be main­
 tained and enforced in the strictest manner,  
 according to the usages of war acknowledg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808070101:0076/pct:5.279560036663612,13.0571249215317,17.83684692942255,4.105461393596987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808070101:0076/pct:5.278592375366569,13.055485814712528,17.839687194525904,4.109130471169135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ and : and that the same will be maintain­
 ed and enforced in the strictest manner,  
 according to the usages of war acknowledg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808070101:0219/pct:5.79064587973274,6.149903907751441,17.817371937639198,4.112748238308776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808070101:0219/pct:5.7895713490443494,6.149116064565718,17.820251128842703,4.116491587667606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ the satfle will be maintained and enforced l
 in the strictest manner, according tothe  
 usages of War acknowledged and allowe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808070101:0990/pct:53.346346904629115,63.513513513513516,20.691578360290016,7.686907686907687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808070101:0990/pct:53.331474770002785,63.502368836638006,20.692779481460832,7.689945604492016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ I his majesty Isas judged it expedient to
 &#x27; establish the most rigorous blockade  
 of the Isles of Mauritius and Bour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809061901:0003/pct:23.40686274509804,38.24727368282748,17.81045751633987,1.9051373012744712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809061901:0003/pct:23.41367102396514,38.25603293478737,17.824074074074073,1.9051373012744712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ entrance of the Ems, the Weser, the Elbe
 and the Trave, tmd to enforce the same in  
 the strictest manner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010401:0297/pct:59.62381300219138,43.11603016297738,17.129291453615778,2.614935538798346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010401:0297/pct:59.61292678473617,43.110786817463215,17.132250015215142,2.618671206777737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ ide at the entrance of the Ems, the We.
 ler, the Elbe and the Trave, and to enforce  
 the same in the strictest manner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010501:0013/pct:40.07899191273275,73.24320877439102,17.472258792552193,2.8695319474556817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010501:0013/pct:40.071455434373824,73.2338689109921,17.475241318791525,2.873416645413585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

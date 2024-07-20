@@ -545,7 +545,7 @@ provesto me more und more that this Ameri­
 can world was not made for me Alexander  
 Hamilto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048510:1891051701:0502/pct:7.666876574307305,113.53721610074207,19.0963476070529,15.95457611873173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048510:1891051701:0502/pct:5.118916364781855,75.69147740049472,12.74216412033391,10.643879769132749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +593,7 @@ you know, from the very beginning, I am still Sn the
 laboring to prop up the frall and worthless h  
 fabric.&quot; John Adams, in a letter penned in his H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112001:0256/pct:338.34355828220856,20.91306313093265,61.50306748466258,35.317161368087994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112001:0256/pct:84.60210930009588,5.228265782733162,15.378715244487056,8.829290342021999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ prop the frail and worthless fabric.
 and more that this American world was  
 not made for me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899062501:0410/pct:81.83002279387821,49.52486187845304,14.34386193422338,4.939226519337017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899062501:0410/pct:81.84087702159991,49.52486187845304,14.333007706501682,4.939226519337017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

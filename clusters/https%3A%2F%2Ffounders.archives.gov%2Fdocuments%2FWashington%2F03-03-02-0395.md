@@ -266,7 +266,7 @@ of Independence was signed, asking for a continued
 leave of absence for the Rev. Abiel Leonard, whe  
 on the breaking out of the Revolutionary War wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175038188:1887070501:0049/pct:244.2338324307104,37.69247935728632,47.2284166932144,16.101316670386076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175038188:1887070501:0049/pct:81.41127747690348,12.564159785762106,15.742805564404799,5.367105556795358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -147,7 +147,7 @@ ner stone of onrclaim,&quot; continues be, “is that the
 U. S. are the proprietors of the land on both sides  
 of the Delaware, from Us bead to its entrance int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811101601:0779/pct:52.5025025025025,10.293637846655791,21.27127127127127,8.727569331158238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811101601:0779/pct:52.489367025268955,10.291958897406623,21.272204153114835,8.73022345457511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ excluded &#x27;•very consideration of a dominion over the
 era&quot; This op.mon was *ertt by Mr. Jifferson to  
 Mr. Genet the next day, with a declaration thatou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811101601:0779/pct:52.57757757757758,22.495921696574225,21.196196196196198,2.6916802610114194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811101601:0779/pct:52.564423317488114,22.492252487359323,21.197147860895672,2.6953188713097376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ the Delaware, from its heatl to its entrance in­
 to the sea; that the exclusive jurisdiction o­  
 Ycr it has been asserted by the U. States, unde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811102501:0338/pct:53.37759336099585,21.25739788493257,21.925311203319502,11.788105171242846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811102501:0338/pct:53.36873547958845,21.25533566162204,21.927204336762916,11.79019531755271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ every consideration of a dominion over the
 sen.” This opinion was sent by Mr. Jeffer­  
 son to Mr. Genet the next day, with a decla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811102501:0338/pct:53.74273858921162,35.762103424856896,21.360995850622405,2.6583875036383042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811102501:0338/pct:53.73382011284434,35.75863407062476,21.362982630821993,2.6613633423877894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ adeed tad
 be admitted, the duty arising from the ille-  
 gal act is restitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864112101:0946/pct:14.540337711069418,328.05555555555554,57.5984990619137,7.916666666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864112101:0946/pct:3.6350844277673544,82.01388888888889,14.399624765478425,1.9791666666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ been seized on neutral ground. If this be
 admitted ihe duty anting from the ilegal act  
 is restitution &quot; The resulting consequenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1864112301:0464/pct:36.54782472121878,63.37061233528956,14.622271085283494,2.5024914184475695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1864112301:0464/pct:36.55829537720538,63.37061233528956,14.617035757290195,2.5098733990329607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ of nations would justify the United States in
 attaching to their coasts an extent into the  
 sea beyond the reach, of cannon shot. Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776178:1866041601:0675/pct:28.48419540229885,68.4687195206911,19.127155172413794,2.452278110631183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776178:1866041601:0675/pct:21.3798059647862,51.358506339696255,14.35501257635645,1.8392085829733873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

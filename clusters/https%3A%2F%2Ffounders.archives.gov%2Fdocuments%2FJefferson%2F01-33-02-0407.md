@@ -70,7 +70,7 @@ well as Federalists.&quot;
 The reasons why the Democratio party  
 should now act iu the same large and catholi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867101401:0298/pct:68.60299358517463,116.78760814959531,19.119743406985034,9.86603404967904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867101401:0298/pct:51.47032614507218,87.59419480881942,14.346818748886117,7.396036840636338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ promptly removed. The twenty-four
 judges confirmed, some of them, it is said,  
 by the Senate on the night of the 3d o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282255:1880111001:0452/pct:175.22349936143038,170.88667614983405,48.72286079182631,23.897581792318633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282255:1880111001:0452/pct:43.812869231997446,42.72166903745851,12.182660067060514,5.974395448079658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ was promptly removed. Tbe twenty­
 four Judges confirmed, soma of them, it  
 is eaid, by tbe Senate on the night of tb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880111801:0598/pct:29.96083550913838,81.57614483493077,17.972149695387294,8.692758253461129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880111801:0598/pct:22.485851110143667,61.18210862619808,13.495864170657379,6.522896698615549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ urated was promptly removed. The
 twenty-four judges confirmed, some of  
 them, it is said, by the Senate on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1880112501:0786/pct:6.748582230623819,53.77534685165421,14.38563327032136,8.697972251867663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84009409:00296028757:1880112501:0786/pct:6.754883427851292,53.779793667733905,14.379332073093888,8.697972251867663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ ly removed. The twenty-four judges,
 confirifed, some of them, it is said, by  
 the Senate on the night of the 3d o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1880121501:0844/pct:178.8355625491739,150.7998270644185,39.57513768686074,51.99596483643176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1880121501:0844/pct:44.726485635576545,37.69995676610463,9.897678079496261,12.99899120910794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ maladversions may be misconstrued as done for political
 opinions. but the extent of these will be too limited  
 to make permanent impressions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:00175038073:1885041401:0120/pct:199.8037291462218,244.4469966693465,46.82695453058554,6.178936487883313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:00175038073:1885041401:0120/pct:66.6012430487406,81.4823322231155,15.608984843528514,2.059645495961104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

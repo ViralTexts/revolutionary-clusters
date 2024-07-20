@@ -73,7 +73,7 @@ i ted States, or the claim to which lands,
 j have been previously recognised and  
 confirmed by the United State 3 t or i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032301:0002/pct:59.441460794844254,15.341758391085746,18.474758324382385,6.223671694523713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032301:0002/pct:59.441460794844254,15.341758391085746,18.474758324382385,6.22820129546587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ lands had not been previously recog­
 nised and confirmed hy the United  
 States ; and who at the time of pas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041401:0127/pct:26.405029529434177,32.02096382461971,17.546199276052583,7.6696919340406495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041401:0127/pct:26.4,32.01687116564417,17.54920634920635,7.672972051806408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ by such person or persons, shall net have been
 previously recognized and confirn • d : v the Unit­  
 ed SU-.tes : or if any person or persons jraii!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112002:0243/pct:2.6490066225165565,31.103616263818626,21.89997716373601,8.038223721191681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112002:0243/pct:2.6484018264840183,31.097789434245037,21.902587519025875,8.042962407893093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ By the President,
 JAMES MONROE,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815121901:0120/pct:67.6499834272456,39.98017102491015,14.716605899900564,30.95798735902838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815121901:0120/pct:67.63877381938691,39.97521685254027,14.71969069317868,30.958281701776126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ the fortieth.
 By the President, &#x27;  
 J AMHS MON&#x27;ROE, Secretary of Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815122001:0389/pct:60.8784664061046,6.62444585180494,17.86711334450028,25.58581380620646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815122001:0389/pct:60.86713807219948,6.6236068895643365,17.86999131621387,25.586795001688618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ ment of such military force as may be ncces­
 eary, in pursuancepf tne act of Congress in  
 relation to that obgct.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815122701:0206/pct:5.8558558558558556,58.72370103452284,21.62162162162162,5.672439846565152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815122701:0206/pct:5.862384123253689,58.72370103452284,21.62162162162162,5.676314463946685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ By the President,
 JAMES MONROE,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816010201:0183/pct:5.550918196994991,64.88800114138964,16.485809682804675,8.075331716364675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816010201:0183/pct:5.549760066764031,64.87874465049929,16.487586063008553,8.07774607703281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ JAMES MADISON.
 Dy the President, :  
 JAS. MONROE, Sccretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816010201:0442/pct:23.31561557247522,5.136547372572218,33.888809079155294,88.65227250320417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816010201:0442/pct:23.325192740506633,5.139833711262282,33.888809079155294,88.65227250320417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -975,7 +975,7 @@ ces: i in from any state to the United Motes, which
 land had not I*en previously sold, ceded or leased  
 by the United States, or the claim to which land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816042001:0129/pct:59.46788990825688,92.25245653817082,17.119266055045873,2.305366591080877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816042001:0129/pct:59.45698037057421,92.2408363773775,17.122240567479974,2.309274887685267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ which laad had not been previously sold ceded
 or leased by the United States, . or the claim to  
 . which lands hadaot been previously recognise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816072301:0554/pct:8.920528839168966,10.372834915353753,16.925759116664246,2.6812799686857813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816072301:0554/pct:8.925371688701633,10.372834915353753,16.93060196619691,2.6812799686857813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1013,7 +1013,7 @@ to the United States ;=~which land had nor
 beer previously sold ceded or leased by the .  
 United States, or the claim to which land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816073101:0325/pct:5.227963525835866,78.64508393285372,22.310030395136778,3.321342925659472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816073101:0325/pct:5.234718000675447,78.64508393285372,22.303275920297196,3.325339728217426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1216,7 @@ Dy THE PresipENT: :
 (Signed) M. VAN BUREN,  
 Secretury of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830033001:0260/pct:57.38644937377396,38.528313313818515,16.236607816508222,26.13303724639144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830033001:0260/pct:57.38644937377396,38.531677938158204,16.25672752879634,26.13303724639144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1365,7 +1365,7 @@ By tue Presipesr:
 (Signed) M. VAN BUREN,  
 Sceretury of Stale
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830040601:0265/pct:78.0803369941327,18.755736868944417,16.44350834963141,26.517083120856707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830040601:0265/pct:78.09036658141517,18.75913649498555,16.44350834963141,26.517083120856707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1737,7 +1737,7 @@ such persun ui persons shall not have been pre­
 viously recognized am! confirmed by the United  
 Suites, or if any shall cause such* lamia to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833101801:0348/pct:6.880570409982175,68.75233703103578,18.324420677361854,4.960737878599028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833101801:0348/pct:6.879344145428623,68.74376869391824,18.327095586051207,4.964273845131273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1786,7 +1786,7 @@ as may become necessary, in pursuance of the act afore­
 s*id, warning the offender* moreover, that they will be  
 prosecuted in all such other way* a* the law direet*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833102501:0200/pct:36.461199779856905,78.11744007037608,15.162355531095212,11.128216406421817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833102501:0200/pct:36.45618379419452,78.10885101704233,15.164855321685698,11.130657870624885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1835,7 +1835,7 @@ a* may become necessary, in pursuance of the ect afore­
 said. Warning the offenders, moreover, that they will bo  
 prosecuted iu all such other ways as the law directs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833102901:0204/pct:81.33130362579574,12.026848591549296,14.959867146415721,10.94850352112676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833102901:0204/pct:81.3200498132005,12.025525360325668,14.962409482957428,10.950966369604284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2023,7 +2023,7 @@ lands, by such person or persons, shall not have been
 pieviously rrcogniscd and confirmed by the United  
 States : or if any person or persons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838071801:0533/pct:2.434550608637652,39.19622321752814,15.457728864432216,4.527296937416778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838071801:0533/pct:2.434550608637652,39.19622321752814,15.463287199155133,4.535366985433563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2070,7 +2070,7 @@ thee&#x27; prescni-.aiid sigue-j with my hand.
 Dune at the city of W ashington, the sixth  
 day of March, in the year of our laird, on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688210:1844103001:0011/pct:62.71186440677966,54.76461964489331,14.902852418354692,20.589672585111582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688210:1844103001:0011/pct:62.7256442055946,54.77004941087039,14.909742317762161,20.600532117065754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2091,7 +2091,7 @@ lands, by such person or persons, shall not have been pre
 viously recognized and confirmed by the United States; or  
 if any person or persons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849040901:0349/pct:60.95916795069338,195.4642475987193,43.68258859784284,7.003735325506937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849040901:0349/pct:20.319722650231125,65.1547491995731,14.560862865947612,2.334578441835646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2115,7 +2115,7 @@ lor ds to be thus occupied, taken pos-ession of or
 settleo,&quot; Ae., the President of the United States  
 may have them removed, and take such means an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854082301:0444/pct:193.77703826955076,103.43176376695929,46.62229617304492,13.156994641431991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854082301:0444/pct:64.59234608985025,34.47725458898643,15.540765391014975,4.38566488047733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2137,7 +2137,7 @@ I “persons shall not have been previously recog­
 “nized and confirmed by the United States ; or  
 ! &quot;if any person or persons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1854123001:0701/pct:30.9507406131588,38.698390482855146,12.60764726145367,3.862841147655703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1854123001:0701/pct:30.9507406131588,38.70305574994168,12.613388448731198,3.8768369489153254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2160,7 +2160,7 @@ not have been previously recognized and
 confirmed by ther United States; or if  
 any person or persons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855022401:0036/pct:61.901121304791026,63.65663322185061,16.59021406727829,6.521739130434782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855022401:0036/pct:41.2821820035687,42.437755481233744,11.062962018863114,4.3478260869565215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

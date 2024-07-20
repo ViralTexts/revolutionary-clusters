@@ -176,7 +176,7 @@ rules concerning captures by land and water, to raise
 and support armies, to provide and maintain a navy, and  
 to make rules for the Government of the land and nava
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847111501:0573/pct:106.68103448275862,146.73274173101302,50.43103448275862,13.207329722254235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847111501:0573/pct:35.560344827586206,48.910913910337676,16.810344827586206,4.402443240751412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ gress Lo declare, by eome suthenuic act, for
 what pulgo-e and object the existing war  
 ought to be further prosecuted ; that it 18 th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021168:00514152779:1847111801:0358/pct:45.86788676008007,4.833737062321075,25.850729196454104,91.6978639066285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021168:00514152779:1847111801:0358/pct:45.86788676008007,4.837407325845995,25.850729196454104,91.70887469720326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ make rules for the government of thein of te one atean io a
   
 land and naval forces, has the full andomintion puise an ades to the part
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1847111901:0092/pct:179.02985074626866,168.8133735269937,101.34328358208955,15.785146615511099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1847111901:0092/pct:44.782527534067576,42.203343381748425,25.35000933358223,3.9462866538777748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ the government of the land and naval forces, has the full and
 complete war making power of the United States, and, so poa­  
 sessing it, has a right to determine upon the motives, causes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847112001:0739/pct:32.822695035460995,61.91118605958403,15.73049645390071,6.55424395727937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847112001:0739/pct:32.822695035460995,61.91118605958403,15.739952718676124,6.561738804571857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ er of the United States, and so possessing it has
 right to determine upon the motives, causes  
 and objects of war, when once commenced, or a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1847112001:0544/pct:207.11143695014664,165.9720239794462,58.21114369501466,39.280616614330576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1847112001:0544/pct:51.796846351301795,41.49300599486155,14.558122478914559,9.820154153582644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ purposes and objects the existing War ought
 to be further prosecuted;- that it is the duty  
 of the President, in his official capacity, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847112001:1034/pct:208.8502894954508,133.17220543806647,60.95947063688999,52.507552870090635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847112001:1034/pct:52.2125723738627,33.29305135951662,15.239867659222497,13.126888217522659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ ment ol the land and naval forces.
   
 ι nus we perceive inat me principal power, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847112501:0566/pct:22.804664121349706,51.26854290863718,15.03456815602105,6.814085678635797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847112501:0566/pct:22.802311184482047,51.26498925625563,15.036456183794195,6.815923846491532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ meeting, that it is the duty of Congress to de­
 clare, by some authentic act, for what purposes  
 and chieote the ovistin Uan olt totee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1847112501:0612/pct:228.47730600292826,211.84357541899442,50.95168374816984,39.21787709497207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1847112501:0612/pct:57.119326500732065,52.960893854748605,12.73792093704246,9.804469273743017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ ing captures on land and water, to raise and
 suppoit armies, to provide and maintain a na­  
 vy, and-to make rules for the government o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847112501:0184/pct:3.9748953974895396,61.568247821878025,13.103841764929632,6.250864334116996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847112501:0184/pct:3.974139570260506,61.559734513274336,13.106103822019396,6.2534568584070795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ raise and support arum&#x27;s, to provide and
 maintain a navy, and to make rules for the  
 government of the land and naval force
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1847112601:0487/pct:17.38627602158828,37.00347379549917,17.424826522744794,9.394351306449177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1847112601:0487/pct:13.054377169301967,27.760157075970397,13.0736598534516,7.038211750490863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -794,7 +794,7 @@ and water, to raise and support armies,
 to provide and maintain a navy, and to  
 make rules for the Government of the lan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1847112601:0096/pct:72.49434815373021,291.1054123363477,50.565184626978144,32.824942637332974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1847112601:0096/pct:18.13383600377003,72.77635308408692,12.648444863336476,8.206235659333244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ er of the Uaited States; and so possessing
   
 it, has a right to determine upon the m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1847112601:0097/pct:15.16300227445034,194.85627836611195,51.25094768764215,30.367212212900565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1847112601:0097/pct:3.7929072634174092,48.71406959152799,12.820026550350844,7.591803053225141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ is the duty of the President, in his official
 conduct, to conform to such a declaratio  
 of Congress;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874417:1847112701:0200/pct:91.76309378806334,166.20989304812835,37.682704019488426,44.75267379679144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874417:1847112701:0200/pct:30.587697929354444,55.40329768270945,12.560901339829476,14.917557932263815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,7 +915,7 @@ prosecuted; that it is the duty of the President,
 in his official conduct, to conform to such a  
 declaration of Congress; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1847112701:0411/pct:48.8,83.5043409629045,19.14,18.547750591949487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1847112701:0411/pct:36.62197318391035,62.636148382004734,14.368621172703623,13.906866614048935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,7 +976,7 @@ the fullest complete war-making power or the U . stales,
 and so, possessing it has a right to determine upon the mo­  
 tives, causes and objects of war, when once commenced, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1847112701:0696/pct:25.308641975308642,33.496659242761694,19.89337822671156,6.369710467706013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1847112701:0696/pct:18.986808868930677,25.12249443207127,14.931237721021612,4.788418708240535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1028,7 +1028,7 @@ and support armies, and to provide and meme
 tain a navy, and to make rules for the gov  
 ernment of the land and naval forces, has th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847113001:0418/pct:344.70588235294116,333.47292850732873,51.21568627450981,18.306909961112773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847113001:0418/pct:86.22719246615657,83.36823212683218,12.811457720227585,4.576727490278193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1128,7 +1128,7 @@ lgovernment of the land aad naval forces.—
 T&#x27;hus, we perceive, that the principal power,’  
 !in regard to war, with all its auxihary al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021168:00514152779:1847120201:0365/pct:54.42332428183507,73.5540838852097,12.934114620551664,8.885209713024283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021168:00514152779:1847120201:0365/pct:54.42332428183507,73.56144223693893,12.938878567004906,8.881530537159676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1155,7 +1155,7 @@ prisal, to make rules concerning captures on land and wa
 ter, to raise and support armies, to provide and maintain a  
 navy, and to make rules for the Governnment of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847120201:0144/pct:251.00848256361922,171.9526627218935,60.03770028275212,26.58284023668639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847120201:0144/pct:62.74029400678477,42.98180742493714,15.006596306068602,6.644727111374057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1184,7 +1184,7 @@ tures on ln:id and water, to raise aud support armies,
 and provide and maintain a navy, and to make rules  
 for the government of the land and naval forces
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1847120201:1115/pct:24.48559670781893,68.41099514919888,19.567901234567902,8.790239600176394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1847120201:1115/pct:18.37826713315497,51.31559606056152,14.673801193661248,6.600029398794649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1258,7 +1258,7 @@ called upon to determine upon tho solemn
 question of peace or war, Congress must  
 consider and deliberate and decido upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1847120301:1066/pct:5.434782608695652,21.412613851177177,16.770186335403725,14.040213095033511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1847120301:1066/pct:4.083444296493564,16.068052930056712,12.583222370173102,10.534456092112046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1341,7 +1341,7 @@ water, to raise and support armies, to
 provide and maintain a navy, and to make  
 rules for the Government of the land an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874417:1847120401:0203/pct:209.90506329113924,215.09562841530055,37.072784810126585,26.297814207650273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874417:1847120401:0203/pct:69.96835443037975,71.69854280510019,12.35759493670886,8.765938069216757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1369,7 +1369,7 @@ concerning captures on land and water, to raise
 and support armies, and provide and maintain  
 a navy, and to make rules for the Governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847120401:1042/pct:80.51623646960866,186.30970489808337,60.94920899250624,27.380590203833282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847120401:1042/pct:20.1332500520508,46.57742622452084,15.240474703310431,6.845147550958321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1419,7 +1419,7 @@ and maintain a navy, and to make rules for the gov
 ernment oi the land and naval forces. Ihus we per  
 ceive that the principal power, in regard to war, wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847120801:0197/pct:23.55191256830601,66.62787006665961,20.12295081967213,9.406412019892075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847120801:0197/pct:17.668761956818802,49.97354777272246,15.099754031156053,7.05745423764681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1451,7 +1451,7 @@ for the Government of the land and nav
 forces. Thus we perceive that the princi-­  
 pal power, in regard to war, with all its aux-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529194:1847120901:0055/pct:104.60315032879645,108.52947769558395,44.24223887444563,31.338264963012776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529194:1847120901:0055/pct:34.86771677626548,36.17649256519465,14.747412958148544,10.44608832100426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1484,7 +1484,7 @@ ter, to raise and support armies, to provide
 and maintain a navy, and to make rules for  
 the gevernment of the land and naval forces
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1847120901:1140/pct:194.24269264836138,55.33852254369217,119.30912311780337,320.34072551035393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1847120901:1140/pct:48.58218874612317,13.834630635923043,29.840496233938858,80.08518137758848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1514,7 +1514,7 @@ captures on land and water, to raise and support
 armies, to provide and maintain a navy, and to  
 make rules for the Government of the land an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1847120901:0619/pct:330.88128186453025,168.56984478935698,50.76474872541879,27.106430155210642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1847120901:0619/pct:82.76553106212425,42.142461197339244,12.698123519766806,6.7766075388026605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1553,7 +1553,7 @@ raise and support armies, to provide and
 maintain a navy, and to make rules for the  
 government of the land and naval forces
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1847121101:0418/pct:44.17263325377884,22.566025941553367,19.033412887828163,12.033130176590092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1847121101:0418/pct:33.15422885572139,16.924519456165026,14.288557213930348,9.03266135333646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1595,13 +1595,13 @@ land and water, to raise and support ar
 mies, to provide and maintain a navy,  
 and to make rules for the Government of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1847121401:0298/pct:135.6776180698152,42.78783958602846,36.96098562628337,27.00517464424321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1847121401:0298/pct:45.231677576691055,14.262613195342821,12.321909896033885,9.001724881414402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1851-03_13_75/page/n15/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1851-03_13_75/page/n15/mode/1up?view=theater)
 
 #### 1851-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1624,7 +1624,7 @@ by disease of its meridian strength and lustre, |
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1851-03_13_75/page/n15/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1851-03_13_75/page/n15/mode/1up?view=theater)
 
 #### 1851-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1641,7 +1641,7 @@ of its own expressions ? Crawford was to
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1851-03_13_75/page/n15/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1851-03_13_75/page/n15/mode/1up?view=theater)
 
 #### 1851-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1681,7 +1681,7 @@ thereof, and of foreign coin, and to provide for the punish­
 ment of counterfeiting the current coin of the United States.  
 Judge Daniel, in delivering the opinion of the Court, says
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293551:1867121101:0171/pct:236.14325068870522,107.53364109615951,50.853994490358126,9.66506237108339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045629:00200293551:1867121101:0171/pct:59.035812672176306,26.88341027403988,12.713498622589531,2.4162655927708476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

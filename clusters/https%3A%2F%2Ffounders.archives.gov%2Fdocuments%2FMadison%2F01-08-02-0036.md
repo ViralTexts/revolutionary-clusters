@@ -70,7 +70,7 @@ glide down the stream of time unrewarded by the
 country? His writings certainly had a powerful ef­  
 fect upon the political mind.&quot; And the fact thet hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843072101:0546/pct:334.1124908692476,370.68489166787845,49.89043097151205,8.084920750327177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843072101:0546/pct:83.5586408476434,92.67122291696961,12.47716477895506,2.021230187581794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ is, I believe, all that he aims at. Ought he to he
 disappointed in this? For me, it only remaing to  
 feel for his situation, and to assure you, ete
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475245:1860030501:0489/pct:89.9375,228.08988764044943,37.625,13.436329588014981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475245:1860030501:0489/pct:29.979166666666668,76.02996254681648,12.541666666666666,4.478776529338327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ r ir
 Yr most obed a IIble Serv&#x27;t  
 GEO WASIINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038590:1892112801:0394/pct:7.243990780375371,202.64609841234096,48.337174843595655,34.05021956986826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175038590:1892112801:0394/pct:2.4146635934584566,67.54869947078032,16.112391614531884,11.350073189956086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ r r
 Yr most obed a I-Ible Serv’t  
 GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn88085350:no_reel:1892122101:1376/pct:22.99322154834106,15.983946858566288,11.237959329290046,10.905065042900636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn88085350:no_reel:1892122101:1376/pct:23.00660007135212,15.983946858566288,11.233499821619693,10.918903957929698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -163,7 +163,7 @@ I . j mat; arduous contests al me Dar,
 . \.. a* as ardent a patriot as any of his age,  
 ana next to James Otis, the greatest orator.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627506:1873081601:0166/pct:49.843349473084594,43.70223013297037,11.392765593847907,8.53313789132028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627506:1873081601:0166/pct:49.8528434444128,43.70921020486511,11.392765593847907,8.52615781942554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

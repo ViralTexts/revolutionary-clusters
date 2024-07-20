@@ -222,7 +222,7 @@ cerning western lands. With an appendix, etc. etc. By C. W. Burter
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1877-01-13_36_2/page/n5/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1877-01-13_36_2/page/n5/mode/1up?view=theater)
 
 #### 1877-01-13 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

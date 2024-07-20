@@ -90,7 +90,7 @@ the Legislative and Exzecutive also,in their spheres,
 would make the Judiciary a Despotic Braneh!”  
 ‘ Another extract from a letter to the same person 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832041701:0045/pct:22.01278478937879,71.83269124931205,16.718570726110475,13.098514034122179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832041701:0045/pct:22.0182483745834,71.83269124931205,16.724034311315084,13.105852137222527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ To Judge /tonne
 lartment is IHi l.y INDEPENDENT of the others 1  
 o has an equal right to decide lor itself what is the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832110201:0208/pct:20.21499371771604,82.74920842886777,15.147284657266509,10.43782072278633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832110201:0208/pct:20.21217197096594,82.74017467248909,15.149823190024195,10.440320232896653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ GENUINE PHILOSOPHY.
 The editor of the Winchester (Va.)  
 Republican, thus “calmly and philo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832112701:0389/pct:16.4,31.295696991489873,15.45,15.869591274122019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1832112701:0389/pct:16.405555555555555,31.295696991489873,15.46111111111111,15.873586639498182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ Nor does the opinion of the unconstitutionality,
 Jer, which is confounding all vice and virtue all  
 truth and falsehood, in the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840041101:0535/pct:196.94288012872084,69.33259790402647,61.786001609010455,58.3011583011583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840041101:0535/pct:49.25553319919517,17.333149476006618,15.45271629778672,14.575289575289576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ aet only for themselves in their own sphere of action,
 but for the Legislature and Executive also in their  
 spheres, would make the Jediciary a despotic braacl.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530546:1857040301:0021/pct:248.2660886962321,218.25538498155422,47.79926642214071,14.863739140783053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530546:1857040301:0021/pct:82.75536289874402,72.7517949938514,15.933088807380237,4.9545797135943515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ the Legislative and Executive also in
 their spueres, would make the Judiciary  
 a despotic branch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857040401:0684/pct:169.68919304248647,80.30788967286722,37.18277730253778,17.77849048535386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857040401:0684/pct:56.563064347495484,26.769296557622408,12.394259100845927,5.926163495117953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ of action, but for the Legislature and executive
 als.) in their spheres, would make the judiciary a  
 despotic branch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857040601:0314/pct:6.9382186708244005,44.312150337110886,15.82537517053206,4.590446133983646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857040601:0314/pct:5.377102003826402,34.34871224754493,12.27469539824791,3.5575319622012227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -612,7 +612,7 @@ but for the Legislative and Executive al-­
 so in their spheres, would make the Ju-  
 diciary a despotic branch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857041801:0691/pct:170.21125762087055,105.60043080236942,37.00552956188856,17.910608508346797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857041801:0691/pct:56.73708587362352,35.20014360078981,12.335176520629519,5.9702028361155985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ iu their spheres, would make the Judiciary
 Despotic brsncb. Ii this opinion besouud,  
 men
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857061801:0113/pct:23.669871794871796,115.02188868042526,14.23076923076923,6.891807379612258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857061801:0113/pct:17.762103238217378,86.26641651031895,10.676498877845463,5.178236397748593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ own sphere of action, but for the legislative
 and erecutive also, in their spheres, would  
 make the judiciary a despotic branch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1859110401:0815/pct:172.92161520190024,52.485688460379635,50.3562945368171,12.051822838204279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1859110401:0815/pct:43.24752475247525,13.121422115094909,12.594059405940595,3.0129557095510697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ lespotic branch.&quot;
 In a letter addressed to Mr. Torranice, on  
 the 11th of June, 1815, and which appears a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860071001:0700/pct:12.738940469688695,59.03767014878126,37.35663571818678,39.75941753719532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1860071001:0700/pct:4.246313489896232,19.679223382927088,12.452211906062262,13.253139179065105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -892,7 +892,7 @@ tyranical
 The opinion of Mr. Malison is equally  
 Lorougn, and to tLe same effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84026601:00296028629:1868051301:0494/pct:44.96111975116641,22.700842529963214,12.783825816485226,15.343538625845497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn84026601:00296028629:1868051301:0494/pct:44.96630378434422,22.70479806969661,12.789009849663039,15.343538625845497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -914,7 +914,7 @@ cutive to decide&#x27; for them. Both magis
 tracies are equally independent in the  
 sphere of action assigned to them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775010:1871030201:0034/pct:74.08045977011494,110.78713702903768,13.175287356321839,4.523638108951284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775010:1871030201:0034/pct:55.57631503305547,83.09335253179745,9.887898821500432,3.3957283417326614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

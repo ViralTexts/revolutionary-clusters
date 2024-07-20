@@ -173,7 +173,7 @@ also, the said defendant afterwards, to wit, on the
 same day and year, and at the place aforesaid, in con-  
 ideration that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847093001:0383/pct:7.4866310160427805,126.05196596918832,55.899064171122994,24.22395953092665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847093001:0383/pct:2.4955436720142603,42.01732198972944,18.63302139037433,8.07465317697555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ vember, 1856, promised to pay him the said sev-
 eral sums of money on request. Yet, he has not  
 paid the same. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1857041501:0666/pct:276.7842493847416,247.12808273667463,50.205086136177194,34.81304693715195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1857041501:0666/pct:69.1960623461854,61.78202068416866,12.551271534044298,8.703261734287988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ and received to and for the use of the plaintiff.
 And being so indebted, the said defendant, in  
 consideration thereof, on the said 15th day of No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1857042201:0670/pct:276.8541157294214,244.28548720394215,49.47025264873675,31.2827849308536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1857042201:0670/pct:69.25586136595311,61.07137180098554,12.37512742099898,7.8206962327134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ and received to and for the use of the plaintiff.
 And being so indebted, the said defendant, in  
 consideration thereof, on the said 15th day of No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1857042901:0675/pct:19.704433497536947,244.85891917742705,49.835796387520524,31.50007970667942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1857042901:0675/pct:4.926108374384237,61.214729794356764,12.458949096880131,7.875019926669855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ for the Defendants, by the Plaintils, and at the Defendants
 like speclal instanca and ruquesttand, also, in the like fur  
 ther sum of money, for other money by the Defondants be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1858041001:0682/pct:222.9553264604811,301.09519797809605,51.89003436426117,18.646447627071048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1858041001:0682/pct:55.76757778923844,75.27379949452401,12.979198899776517,4.661611906767762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ unto afterwards requested, yet the said defendants and the
 said Smith, in the life time of the said Smith, and the said  
 defendants since the death of the said Sintth, have not, nor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877013101:0021/pct:334.3679031037093,345.71469046607166,41.7108251324754,12.069698257543562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877013101:0021/pct:83.59197577592732,86.42867261651791,10.42770628311885,3.0174245643858906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ the plaintiff to pay him the sald aum of money when there
 unto aftewards requested, yet the said defendants and the  
 said Smith, in the life time of the said Smith, and the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877020701:0025/pct:335.6874530428249,346.36428065201983,41.32231404958678,11.90644932671864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877020701:0025/pct:83.95340097707629,86.59107016300496,10.33446072904923,2.97661233167966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ of -in the of our
 i il on uie uav year  
 Lord and often times before and afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069871:00100481777:1882082901:0134/pct:26.12599771949829,70.76357301848446,19.084948688711517,15.223071711990709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069871:00100481777:1882082901:0134/pct:19.60644517324968,53.07267976386335,14.330529017538856,11.42698151553276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ afterwards, on the 22nd day of Novem­
 ber, converted and disposed of the said  
 goods and chattels to their own use. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210831:1893112401:0222/pct:16.768593410929178,29.457482474855226,12.684947721444072,14.73636086558976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210831:1893112401:0222/pct:16.765285996055226,29.45299405759561,12.687376725838265,14.737924729544416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ reciting that the plaintiff is a miner,
 being only nineteen years of age, and  
 praying that the Court will appoin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340214:1895050201:0428/pct:15.27634740817027,37.05357142857143,11.19121180913148,5.1123271889400925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340214:1895050201:0428/pct:15.273725759395916,37.04823614110871,11.19358160288313,5.115190784737221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ and still doth refuse and neglect. To the
 damage of the said John in the sum of  
 three hundred dollars, and therefore h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665581:1896021601:0474/pct:75.15432098765432,77.69661967046034,16.710758377425044,12.247324613555291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665581:1896021601:0474/pct:56.37746665196781,58.27246475284525,12.534450446477786,9.1897401053168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

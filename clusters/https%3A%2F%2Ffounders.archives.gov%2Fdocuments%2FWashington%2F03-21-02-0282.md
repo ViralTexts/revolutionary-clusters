@@ -432,7 +432,7 @@ in this army under sentence of death.
 They are to be released from confine­  
 ment accordingly.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eagle_ver01:data:sn2001063133:00415623276:1897070101:0358/pct:46.64884475844949,89.18665416052526,17.261791101775827,6.177140560096476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eagle_ver01:data:sn2001063133:00415623276:1897070101:0358/pct:37.32369265237538,71.35353390981204,13.81434899943989,4.9381833774029875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ all prisoners in this army under sen­
 tence of death.” In 1782, occurred the  
 last celebration of the revolutionar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fugazi_ver01:data:sn89051168:00393343060:1897070401:0466/pct:63.342868818961996,46.27609427609428,14.977523498161014,4.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fugazi_ver01:data:sn89051168:00393343060:1897070401:0466/pct:63.32992849846782,46.269862644761645,14.979570990806947,4.002827901966065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ ton “to grant a general pardon to all pris­
 oners in this army under sentence of  
 death.” In 1782 occurred the last cele
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_baseball_ver02:data:sn89064489:00393340186:1899062901:0345/pct:19.825743876376787,73.51258581235697,13.545947723162913,2.7688787185354693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_baseball_ver02:data:sn89064489:00393340186:1899062901:0345/pct:19.831223628691983,73.5163996948894,13.540467970847718,2.772692601067887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ ton “to grant a general pardon to all pris­
 oners in this army under sentence of  
 death.” In 1783 occurred the last cele
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063546:00332899855:1899062901:0026/pct:67.37554374093764,79.27707743761256,12.212018688577412,2.894262927707744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_fennel_ver01:data:sn2001063546:00332899855:1899062901:0026/pct:67.37957145158691,79.27707743761256,12.216046399226679,2.903910470800103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ ington took advantage of it to grant a
 general pardon to all prisoners in the  
 army under sentence of death. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:0027176859A:1899062901:0087/pct:56.60377358490566,38.29597302122595,12.088948787061994,3.471533425907558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:0027176859A:1899062901:0087/pct:56.60377358490566,38.29927924353633,12.097933513027852,3.46822720359717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ ton &quot;to grant a general pardon to all pris­
 oners in this army under sentenco of  
 death.&quot; In 1782. occurred the last cele
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_avocado_ver01:data:sn85042303:00200295389:1899070401:0020/pct:47.16535433070866,98.48006882707197,18.366141732283463,3.857183825638084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_avocado_ver01:data:sn85042303:00200295389:1899070401:0020/pct:35.39491825881426,73.86005162030399,13.78766988378964,2.896472612560941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

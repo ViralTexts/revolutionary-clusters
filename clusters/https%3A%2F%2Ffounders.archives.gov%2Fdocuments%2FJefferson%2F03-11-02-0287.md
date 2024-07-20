@@ -82,7 +82,7 @@ property, cannot he denied. Shall we e­
 ver lm able to put a constitutional veto  
 on d 5 [Albany Argus.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817053001:0032/pct:50.032819166393175,73.8680623174294,14.719396127338365,22.151898734177216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817053001:0032/pct:50.02461033634126,73.85907265425338,14.722450095706863,22.153259502657093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ t ad ploced ua gusrds to its
 purlatd, are sophisticated or suborned from  
 i dutias, .. Wga money has som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817070901:0519/pct:5.7034220532319395,57.32914192571894,22.61356814088453,13.226219583187799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817070901:0519/pct:5.7034220532319395,57.33302285869523,22.626909479020746,13.237862382116662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ and do likewise.” To yourself I render, per­
 sonally, the assurance of great esteem and re­  
 spect, THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826092701:0144/pct:44.1005291005291,4.507835886599754,36.6931216931217,91.54780771262546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826092701:0144/pct:44.09469646872107,4.507439035126332,36.69267733544945,91.54268274789447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ J’o yourself I render, personally, the assurance . f
 great esteem and respect.  
 THOMAS JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826092901:0174/pct:4.433022807581112,4.0362537764350455,15.692258271763572,36.833836858006045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826092901:0174/pct:4.432310904127188,4.035766070565491,15.695091269204005,36.83341388754632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ principles lay hold of the good, their pelf of
 tion had placed as guards to its pertals, are  
 sophisticated or subonedr firom their dutzes.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832103001:0118/pct:66.90751445086705,76.85265911072362,14.291907514450868,9.622929380993897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832103001:0118/pct:66.90751445086705,76.85265911072362,14.291907514450868,9.630194710839872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ thus, those whom the Constitution has placed as
 •0,11 meir duties.” I presume it is not more extrava­  
 gant to assert, with tho most confident assurance, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834030801:0398/pct:36.260117986006314,27.648466391124646,14.81684730415695,4.970633021535784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834030801:0398/pct:36.25514403292181,27.645459488852637,14.81938728852309,4.973717600145006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ Inrcatcning ot those iiiiit.itious; it is raising up a nio­
 *»i&lt; &#x27;I nrixtoeraey in our country which has already set  
 the government At defiance. Ac. “That paper mone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835012901:0355/pct:65.28596900288026,75.59793148028442,14.799067343299958,1.8961430726136608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835012901:0355/pct:65.27701590784422,75.58978778412151,14.801609069299689,1.8995296060899853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ tho bad, and thus those whom the constitu-tion
 has placed as guards to Ihe portals.are  
 sopljisticaied or suborned from their du
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035100:00296027133:1837072701:0058/pct:105.74295473953886,73.28723062077839,19.74807856532878,9.215181730459955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035100:00296027133:1837072701:0058/pct:79.3633838923307,54.969443550981026,14.825891903439436,6.9154068832422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ are drawn. Thoir principles take hold of the good, their pelf tha bid,
 nnd thus those whom the constitution ha placed as guards to its portals aro sophisti­  
 cated or suborned from their duties.&quot; The struggle now is the samous at thetimno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035100:00296027133:1837092101:0092/pct:91.36438582028029,99.80941210966134,36.871393239901074,4.750036651517373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035100:00296027133:1837092101:0092/pct:68.55670103092784,74.85705908224601,27.670103092783506,3.56252748863803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ dented. Sha&#x27;d we ever be aible to put i
 constitutiountl veto upon it.&quot;.  
 &quot;The free industry of the people, if suf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288348:1838111501:0239/pct:52.747252747252745,5.831189513659194,14.7475712693104,11.331618277594021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288348:1838111501:0239/pct:52.747252747252745,5.831189513659194,14.7475712693104,11.335701743640001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ a lotiery of private prljery, catmilil be
 dented. rihal we ever le able to lut a  
 constul utional veto upon t&#x27;.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288348:1838111502:0246/pct:52.39653198102405,4.333208815838625,16.58760019630296,9.562943593574897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288348:1838111502:0246/pct:52.39653198102405,4.341509982152492,16.609411636403294,9.562943593574897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ though forced to yield a little on the first essay of their
 Strength, Uicir principles are unyielded and unyielding.&quot;  
 [Thos. Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839013101:0529/pct:2.283381218811432,92.68091256322907,16.150007560864964,3.798905749974192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839013101:0529/pct:2.2884217954534,92.68779463886308,16.15504813750693,3.798905749974192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ peril/, annul he. ilrninl. SHALL WE EVER BE
 ABLE TO PUT A CONSTITUTIONAL VETO ON  
 IT?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1840110301:0026/pct:51.639586410635154,1.5587288817377314,15.86410635155096,13.978278358809332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1840110301:0026/pct:51.639586410635154,1.5654330919817645,15.86903003446578,13.978278358809332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ those whom the Constitution has placed as guards to
 its portals, are sophisticated or suborned from their du­  
 ties.&quot; . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841050401:0282/pct:48.41399851079672,68.8576834976596,15.69620253164557,2.4798326859874513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841050401:0282/pct:48.418962521717546,68.864322942602,15.69620253164557,2.47651296351625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -930,7 +930,7 @@ property cannot be denied. ShALl Wh EvEr B
 ArLe To Pot A ConstItutIonal veto UpON  
 It!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1841090401:0817/pct:132.79195668986853,210.25500411296957,60.015467904099,45.187825610090485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1841090401:0817/pct:33.217256722770365,52.56375102824239,15.012574966144323,11.296956402522621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ all private property, cannot be denied. Shall
 we ever be able to put a constitutional veto up­  
 on g
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842081601:0334/pct:81.66864256075874,54.83134405812143,14.878482513337286,10.50337311883757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842081601:0334/pct:81.67852203121913,54.83480366718561,14.868603042876902,10.510292336965923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ ue, makes a lottery of all private property, can
 not be denied. Shall we ever be able to put a  
 Constitutional veto upon it?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1856012901:0587/pct:24.84567901234568,314.04379562043795,51.08024691358025,43.21167883211679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1856012901:0587/pct:6.215016406099209,78.51094890510949,12.777456089558001,10.802919708029197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1225,7 +1225,7 @@ but its abuses are inevitable; and by breaking
 up the measures of value, makes a lottery of  
 all private property, cannot be denied.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525310:1871090401:0560/pct:29.073327961321514,69.62669683257919,10.829975825946818,1.3009049773755657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525310:1871090401:0560/pct:29.068643248469222,69.61882140029408,10.832259104092813,1.3035855672435246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1246,7 +1246,7 @@ makes a lottery of all private property,
 not be denied.&quot;  
 Lord Kaimes tells us there are si
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775125:1871090701:0245/pct:275.0,295.2736583804545,35.38374717832957,9.602048436999894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775125:1871090701:0245/pct:68.75,73.81841459511362,8.845936794582393,2.4005121092499735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1309,7 +1309,7 @@ cannot be denied. Shall we ever be able to put
 a constitutional veto upon it?&quot;  
 , As the present banking system appears to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551281:1873101601:0025/pct:18.778247557953055,35.92185352444532,15.906108762210234,8.442960926762222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551281:1873101601:0025/pct:18.78310735286971,35.9283984553963,15.901248967293581,8.446233392237712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1375,7 +1375,7 @@ Bayard coutinued : I attribute to this the danger- 1
 ous projects, fallacious schemes and attempts to ar- \
 ray the force of numbers against property, which we 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037901:1880012801:0129/pct:71.65366862963552,68.3265306122449,10.950183033582684,1.620991253644315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037901:1880012801:0129/pct:71.65764762056342,68.33236151603498,10.962120006366385,1.6268221574344024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1393,7 +1393,7 @@ up the measure of value it makes a lottery of
 all private property.  
 Senator Bsyard continued: I attribute th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_anoka_ver02:data:sn83025287:0010049386A:1880012801:0131/pct:57.32009925558312,81.5322171486555,13.452676355902163,1.7376966007102994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_anoka_ver02:data:sn83025287:0010049386A:1880012801:0131/pct:57.331915396431526,81.53644512092,13.452676355902163,1.7376966007102994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1411,7 +1411,7 @@ anything else. Jefferson said that by
 makes a lottery of all private proper­  
 ty.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349943:1880012801:1011/pct:25.119617224880383,71.30372748350277,11.43975641583297,2.158016764758338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349943:1880012801:1011/pct:25.119617224880383,71.30372748350277,11.456067855589387,2.1669341894060996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1604,7 +1604,7 @@ of all private property, can not be denied
 Shall we ever be able to put a constitu­  
 tional veto on it?&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0275/pct:237.86295005807202,84.33346757954088,54.35540069686411,45.42891663310512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0275/pct:59.465737514518004,21.08336689488522,13.588850174216027,11.35722915827628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1654,7 +1654,7 @@ class fron! which our legislatures are
 drawn, and the sop to Cerberus from  
 able has become history.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_ellis_ver01:data:sn86063952:00237280866:1899052001:0868/pct:18.230358504958048,341.43167028199565,51.86880244088482,34.273318872017356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_ellis_ver01:data:sn86063952:00237280866:1899052001:0868/pct:4.558458897577722,85.35791757049891,12.96967385084875,8.568329718004339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1684,7 +1684,7 @@ our legislatures nre drawn, and the
 sop to Cerberus from fable has be­  
 come history.&quot; Again, in writing t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762835:1899052401:0404/pct:40.39017341040462,76.28048780487805,16.979768786127167,13.445121951219512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762835:1899052401:0404/pct:30.29810298102981,57.21036585365854,12.737127371273713,10.091463414634147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1709,7 +1709,7 @@ length to yield a little ! this first es?
 say cf their strength, P err principles  
 are unyielding. These I ave taken dee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_franck_ver01:data:sn84024716:00175032629:1899052401:0295/pct:3.454124903623747,24.244400956729724,13.723978411719353,7.719069362904979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_franck_ver01:data:sn84024716:00175032629:1899052401:0295/pct:3.454124903623747,24.24802493295644,13.73425854536109,7.719069362904979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

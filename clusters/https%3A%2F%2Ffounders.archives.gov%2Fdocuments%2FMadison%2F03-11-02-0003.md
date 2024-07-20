@@ -83,7 +83,7 @@ States; be defigoated for that purpose. - The
 sales thall remain open at each place for  
 three weeks and no longer ; and all lands
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803062801:0308/pct:6.547338671691003,53.46268656716418,16.564609828858533,5.27363184079602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803062801:0308/pct:6.552572355681164,53.466003316749585,16.564609828858533,5.2802653399668324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ fold tor lefs than two dollars «n acr*-,
 and Ihall in every other relpeCt, be fold  
 in tiafts of the lame Size and on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804040201:0002/pct:3.0890498508734554,47.60926154267708,18.470387729015766,9.275243183997809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804040201:0002/pct:3.0890498508734554,47.61839521395625,18.484590257065758,9.275243183997809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ weeks ; the lands which may be thus
 fold, mall not be lold for lei&#x27;s than two  
 i dollars per acre, and fhall in every othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804040201:0002/pct:40.391989774179805,1.4796547472256474,18.917767362590542,17.78325798054528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804040201:0002/pct:40.391989774179805,1.488788418504818,18.924868626615538,17.778691144905697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ thud Monday ot May ; the lands i:i the
 district of .&#x27;stettbenville, on ihe second  
 Monday id June ; ami the lands in the dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804041801:0100/pct:59.88831118813788,10.48313582497721,17.831696514538802,9.28506315926553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804041801:0100/pct:59.87678090103966,10.481770833333334,17.834681042228212,9.288194444444445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ longer.: tiie lands shall-not be sold for
 i is than two dollars an acre, and   
 in « very oth&lt;-r resptct, be sold in tract
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032001:0002/pct:22.36503856041131,44.40212216025031,17.994858611825194,8.202965582913889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032001:0002/pct:22.36503856041131,44.41119122114905,18.016281062553556,8.202965582913889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ United States, in the said districts,
 with the exceptions above mentioned,  
 remaining unsold at the close of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807033101:0108/pct:56.45526613816534,9.319132750095093,36.80634201585504,86.57284138455687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807033101:0108/pct:56.44461219097943,9.317951318458418,36.80568660753601,86.566091954023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ have been, or may be by law provid­
 ed for lands fold north of the river O­  
 &quot; hio, and above the mouth of the Ken
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807091501:0567/pct:23.973137591753865,44.1823429879566,16.67968139934406,16.89061411366577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807091501:0567/pct:23.978343484824823,44.18566072791214,16.67968139934406,16.897249593576856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ conditions, as are or may be provided by law, for
 the sale of the lands of the United Stated north of  
 the river Ohio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807111302:0233/pct:25.48629531388152,5.316119232959939,43.78868258178603,86.40592367571672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807111302:0233/pct:25.480662983425415,5.315110098709187,43.78637200736648,86.39584915211339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ to commence on the second Monday ol
 May, one thousand eight hundred and  
 i i;dit, and continue for and during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808011401:0272/pct:63.2183908045977,46.07329842931937,27.066228790366722,40.290337934316995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808011401:0272/pct:63.20109439124487,46.06233642636212,27.067943456452348,40.28868268696962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ t at iefTaia-eiiville in the Indiana Territo*
 » ry for the disposal of the n&#x27;v.M - mention­  
 s&#x27; cd lands, to commence on the second
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808012001:0004/pct:76.29903470938591,56.847071157122265,17.970835900595606,4.127899357882322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808012001:0004/pct:76.29903470938591,56.85580745205958,17.98452796604368,4.127899357882322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ day of November, one thousand
 t i ht hundred and seven.  
 (Signed) TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808012101:0281/pct:33.878702397743304,16.382825617654113,28.152327221438647,48.524826097385464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808012101:0281/pct:33.869148336153415,16.378896882494004,28.15378830607257,48.52118305355715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ day of November, one thousand
 eight hundred and sevt n.  
 (Signed) TH : JKFPERSON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808022501:0322/pct:8.308115543328748,18.194476676723138,28.390646492434662,48.80482710605709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808022501:0322/pct:8.305830583058306,18.190255220417633,28.392005867253392,48.801237432327916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ at Jeffevsoiiville in til
 ry for the disposal of tin amn­  
 io commoner en the secon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808030201:0004/pct:57.697783201138904,74.18363426815213,17.042912344925767,15.405301575105648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808030201:0004/pct:57.711341603959056,74.19217142613223,17.042912344925767,15.409570154095702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ to commence on the second Monday of
 May, one thousand eight hundred and  
 eight, and continue for and during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808030301:0330/pct:8.9457748417286,17.183163737280296,27.773190200935865,40.40240518038853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808030301:0330/pct:8.943313153549807,17.179190751445088,27.7747202348193,40.40077071290944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ day of November, one thousand
 eight hundred and seven.  
 (Signed) TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808031701:0346/pct:9.610738255033556,20.847651775486828,27.38255033557047,45.56701030927835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808031701:0346/pct:9.608158883521202,20.842876775080164,27.38414743245661,45.564208276072684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -807,7 +807,7 @@ the respective land offices, in the famec man­
 acr, under the fame rcgu!atious, for the  
 fame price and on the fae terms and con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810062601:0525/pct:6.471783648585275,39.886408927859705,16.86728153822104,14.31845356715823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810062601:0525/pct:6.476994424469804,39.886408927859705,16.86207076233651,14.328417696293345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -841,7 +841,7 @@ ud for that purpose; the sabs shall
 remain open at Cincinttatti one weak  
 and at Vincennes three week?, and n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810071001:0223/pct:40.12181195279787,38.84286988658086,18.005329272934908,13.380909901873327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810071001:0223/pct:40.11417697431018,38.837920489296636,18.00824611481129,13.383452259599048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -875,7 +875,7 @@ other public lands, sold in the same
   
 districts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810071001:0223/pct:40.23601065854587,53.49815216006117,18.157594213932242,13.20249776984835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810071001:0223/pct:40.22835394862036,53.491335372069315,18.1604820805582,13.205062861026164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,7 +976,7 @@ arc kept, and on su&#x27;li day or1 days as shad by
 proclamation of the President of the United  
 States, be designated f&quot;• that purpose ; th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810072701:0098/pct:23.772138031769217,13.600782778864971,17.345262004747124,4.158512720156556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810072701:0098/pct:23.767798466593646,13.599119481472423,17.34818060119265,4.162080632668868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1172,7 +1172,7 @@ By the President,
 JOSIV1I MEIGS,  
 Com,r of the Gen. Ixxnd Office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051101:0151/pct:39.780640668523674,13.249063670411985,33.82660167130919,78.73361423220973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051101:0151/pct:39.773716275021755,13.247513165593915,33.82651581085001,78.72830115077043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1402,7 +1402,7 @@ und patents shall be obtained in the same
 public lands in the said district.  
 Bee. 2. And be it further enacted, That th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816080701:0329/pct:1.716824883861846,55.11492199595094,24.055746313875986,17.11325473383351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816080701:0329/pct:1.716824883861846,55.118891667659085,24.075944253686124,17.12119407724981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1455,7 +1455,7 @@ terms as for other public lands in the said dis­
 trict.  
 See. 2. And be it further enacted, That th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816082001:0569/pct:23.888298679617545,17.755289788408465,17.51403854909698,16.007359705611776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816082001:0569/pct:23.898416552840594,17.755289788408465,17.519097485708503,16.017581518961464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1661,7 +1661,7 @@ the fame diftriét. -~ All the lands offered for
 sale, and remaining unfold at the close of  
 the said public sales, may be diquﬁfea of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817081901:0089/pct:24.84722015203458,78.30811414644054,17.334923237442244,15.354930435665684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817081901:0089/pct:24.85715705271526,78.31488439795538,17.324986336761565,15.354930435665684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1772,7 +1772,7 @@ AN ACT to continue in force, from and afiep
 the thirtieth of June one thousand eight huns  
 dred and ninetee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818072101:0289/pct:76.96358712007222,26.437829080599432,17.168221486608488,14.33778857837181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818072101:0289/pct:76.96358712007222,26.437829080599432,17.17825258300732,14.35128932091265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1867,7 +1867,7 @@ public sale, at such time or times as the
 President shall, by his proclamation,  
 designate for the purpose: Provided
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820020801:0128/pct:60.98524762908325,81.86347782760339,17.518440463645945,11.709018435475835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820020801:0128/pct:60.96918619963129,81.84988375954832,17.52041085067158,11.711225506476254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1949,7 +1949,7 @@ than that of cash payment; and all the
 lands offered at such public sales, and  
 jyhiph shall remain unsold at the «los
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820052301:0188/pct:8.36326321190354,79.61004626569729,17.085684966649563,16.14342366159947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820052301:0188/pct:8.361118235444986,79.59689410209813,17.087714798666326,16.144886832975384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2099,7 +2099,7 @@ er, and he is hereby authorized, to remove,
 whenever he shall judge it expedient so to do,  
 the land office aforesaid, to such suitable plac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822070201:0521/pct:6.307129798903108,68.37916063675831,17.74832419256551,11.773826752119081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822070201:0521/pct:6.312208003250051,68.38605196058163,17.74832419256551,11.77038109020743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2141,7 +2141,7 @@ have power, and he is hereby author­
 ized, to remove, whenever he shall judge  
 it expedient so to do, the land offic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822082401:0290/pct:38.88024883359253,29.812323534296628,17.02954898911353,11.709018435475835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822082401:0290/pct:38.87017362010884,29.807372965792094,17.03161440787769,11.711225506476254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2212,7 +2212,7 @@ gighteen hundred and twenty.
 Sec. 3. Jnd be it furtherenacted, That the  
 Register of the.Land Office and the Receive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823051301:0073/pct:22.594946061770358,23.210516215697563,16.299689670459582,7.196315486470927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823051301:0073/pct:22.594946061770358,23.210516215697563,16.314467267622284,7.2059105737862215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -105,7 +105,7 @@ cherished and perpetuated. Lei the avowed enemv
 and the disguised one as the Serpent creeping with  
 his deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839022101:0818/pct:80.7272134355128,37.066947565543074,15.359530409261373,8.122659176029963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839022101:0818/pct:80.7272134355128,37.07475031210986,15.364965487254743,8.126560549313359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ and the disguised one as the Serpent
 creeping with his deadly wiles into Pat­  
 adise.”— Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215658:1839022201:0089/pct:1.8466898954703832,71.95157611556232,14.956445993031359,5.555880460845663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215658:1839022201:0089/pct:1.846529047992335,71.94736842105263,14.95804662776181,5.557504873294347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,15 +160,15 @@ I regarded as Pandora with her box opened, and the dis
 i poised one as the Serpent creeping Willi his deadly wiles  
 4 into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839022301:0571/pct:49.954407294832826,24.53477492462834,16.62613981762918,7.50597775236511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839022301:0571/pct:49.954407294832826,24.54170565200818,16.631205673758867,7.50597775236511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1839-03_5_15/page/n15/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1839-03_5_15/page/n15/mode/1up?view=theater)
 
-#### 1839-03-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1839-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -214,7 +214,7 @@ having been very dangerously worinued returned ! g.xvl intentions, and from the 
 homo and sent for a neighbor named Mr. Ives, j who has served his country in various stations  
 whose powers in such encounters was noted, ami ! ihmugh a period of forty years, who espoased in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1839030901:0125/pct:86.38959390862944,85.60331434489902,42.11611675126903,4.427757638529259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1839030901:0125/pct:64.83097920964926,64.20248575867426,31.598159022377402,3.3272915587778353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ enemy to it be regarded as Pandora with her box
 opened, and the disguised one as the Serpent  
 creeping with his deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839031601:0354/pct:23.14130969965534,61.61044362292052,18.168389955686855,11.783733826247689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839031601:0354/pct:23.146780458449587,61.61814540973506,18.173860714481098,11.783733826247689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ i herbd.ed and p*rpclu tied. Let tlit.* avowed enemy
 ■i d the disguised one as the serpent creeping with  
 Iris de d y wd« s into paradise.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1839041501:1114/pct:18.534567658065786,82.81273131014063,15.816427023832972,8.971132494448556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1839041501:1114/pct:18.53091768412761,82.80047365304914,15.818235525797558,8.973505032563647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ to it be legarded as Pandora with her box opened and
 the disguised one as (he serpent creeping with his dead­  
 ly wiles into Paradise.””— Poulson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839041601:0270/pct:6.187829139847865,44.753214433844875,14.877121123464015,8.4301119867275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839041601:0270/pct:6.197581431636435,44.760127194801605,14.8819972693583,8.423199225770773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ garded aa s Pandora with her l&lt;ox opened, and the dis­
 guised one as the serpent creeping with deadly wiles  
 into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839042001:0889/pct:51.12943116240726,53.44066785927251,15.416323165704863,8.3840190816935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839042001:0889/pct:51.1349271777961,53.444643212085076,15.41082715031602,8.391969787318624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ be regarded as Pandora with her box
 pent creeping with Ins deadly wiles into  
 paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1839042501:0280/pct:52.38282788499409,61.4215283483977,15.301299724300906,14.557655436866613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348963:1839042501:0280/pct:52.37251427446348,61.413117896754756,15.303209293167946,14.559085307407914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ as the serpent creeping with deadly
   
 wiies into raradisc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839051101:0728/pct:70.1685855263158,41.60343593414459,20.004111842105264,21.403006442376523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839051101:0728/pct:52.64240180958256,31.20973514674302,15.011309891013777,16.048675733715104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ alone consulted. It will be entitled, there
 fore,&#x27; to whatever -weight can Ic thrived  
 from gocJ intentions and from thsc--cn&quot;3r&#x27;&#x27;r::
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1839051401:0643/pct:73.0440097799511,96.94958792679012,17.32885085574572,6.207856148988547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016884:00295877662:1839051401:0643/pct:54.79975542647509,72.71754254522102,13.008254356465912,4.6558921117414105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -802,7 +802,7 @@ box opened, and the disguised one as
 tlvc serpent creeping with its deadly  
 wiles into paradise.&quot; . , ; .... .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839072001:0767/pct:64.86981285598047,83.95362152877183,19.650122050447518,20.984826796450044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839072001:0767/pct:48.68715652350906,62.96879473232179,14.756767759006717,15.74577726882336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -866,7 +866,7 @@ her box opened, and the disguised one theser- !
 pent creeping with bis deadly wiles into para* i  
 di-e.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849071101:0481/pct:3.1992427827733083,12.537459056380236,13.043066729768102,8.871698376193462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849071101:0481/pct:3.198939996214272,12.536585365853659,13.044987065429996,8.873403019744483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -897,7 +897,7 @@ ed as Pandora with her box opened, and the disguised
 ones the serpent creeping with his deadly wiles into par-  
 adise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849071601:0392/pct:318.57246904588493,52.97975477616196,59.95994173343045,33.37610493299116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849071601:0392/pct:79.62861824139814,13.24305060584462,14.98725650828327,8.342836778332146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ disguised ones tbe serpent oreeping with his demtiv wile*
   
 ialo ParadiM.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849071701:0058/pct:32.624573932803116,88.87623386484434,16.653140723908457,6.517337382941028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849071701:0058/pct:32.6299843099064,88.88045220619253,16.658551101011742,6.521555724289209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1204,7 +1204,7 @@ dora with her box opened, and the dis-
 guised ones the serpent creeping with hi  
 eadly wiles into paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1849072501:0120/pct:63.074484944532486,277.5377969762419,55.30903328050713,50.26997840172786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156360:1849072501:0120/pct:15.774871185097107,69.38444924406048,13.832738803012287,12.567494600431965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1297,7 +1297,7 @@ with her box opened, and the disguised
 ones the serpent creeping with his deadly  
 wiles into Paradise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1849081501:0080/pct:69.953125,47.91326649568664,14.34375,13.511307997202145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1849081501:0080/pct:69.953125,47.9171524053781,14.348958333333334,13.511307997202145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ with her box opened, and tho disguised ones the
 serpent creeping with his deadly wiles into Para­  
 dise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1849081801:0359/pct:38.78512535756352,84.86876640419948,16.321723035503954,10.866141732283465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1849081801:0359/pct:38.79634303662572,84.87751531058618,16.321723035503954,10.870516185476815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1386,7 +1386,7 @@ ed as issuing from the tomb, where the
 Ehe Cancaster Gazette.  
 geore weavee, Euitor And Propretor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849082401:0468/pct:25.662376987130962,24.046757584191482,100.0,23.100473142220984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849082401:0468/pct:6.4155942467827405,6.011689396047871,25.0,5.775118285555246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1426,7 +1426,7 @@ her box open, and the disguised ones,
 the serpent creeping with his deadly  
 wiles into paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849082401:0468/pct:24.829674489023468,46.701920400779294,100.90840272520818,42.19315335374339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849082401:0468/pct:6.207418622255867,11.675480100194823,25.227100681302044,10.548288338435848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1477,7 +1477,7 @@ ones the serpent Creeping with his deadly wiles
   
 into jmrnuioo.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1849090801:0722/pct:50.50970873786408,110.2945688861614,21.28640776699029,16.891684565817737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1849090801:0722/pct:37.90675084992715,82.72476219699294,15.978630403108305,12.672598956735195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1546,7 +1546,7 @@ it be regard id as Pandora with her box
 1 creeping with his deadly wiles into &#x27;Para­  
 disc 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1849101101:0080/pct:29.895672994698135,68.06691903773354,12.9297075423294,10.074490169739896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1849101101:0080/pct:29.890560875512996,68.05860805860806,12.931771545827633,10.076312576312576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1585,7 +1585,7 @@ pttuaUd- Let the avowed enemy to it be regaided at Pan- 1
 dora with her box opeued, ana the disguised ones the 1  
 serpent creeping with bis deadly wiles into Paradise.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849112501:0506/pct:20.840831015867824,11.991869918699187,17.601832160968428,6.26270325203252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849112501:0506/pct:20.840831015867824,11.991869918699187,17.607285020993512,6.271172086720867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1633,7 +1633,7 @@ her ho\ opened, and the divinised one a&gt; the
 serpent creeping. with h«*deadlv wile*. into  
 Paradise.’’ ROBERT E. SCOTT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850040901:0060/pct:60.67886067886068,5.349935007183417,25.652925652925653,93.48019429431484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850040901:0060/pct:60.67333939945405,5.349569024490354,25.65362450712769,93.47607971906781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1663,7 +1663,7 @@ garded as a Pandora with her box opened, and the dis­
 guised on? a* the serpent creeping with his deadly wues  
 into Paradise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850050701:0562/pct:47.56175810073789,41.3845185651353,15.752325954443375,6.544996853366897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850050701:0562/pct:47.572452144155704,41.3845185651353,15.752325954443375,6.549192364170338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1692,7 +1692,7 @@ and perpetuated. Let the open enemy to it be regarded a
 a Pandora with her box opened, and the disguised one a.  
 .lie serpent crcepinu with his deadly wiles into 1 aradise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850051001:0346/pct:31.479341230858132,82.98150569773958,15.905807570066456,6.071361853166449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850051001:0346/pct:31.484156794760665,82.98150569773958,15.910623133968988,6.080702409863628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1786,7 +1786,7 @@ Thus it is seen how wide is the hiatus bean perpetute et the open enem
 tween profession and practice. Obedienilyregarded as a pandora with her box opened,  
 er  eee ee an te ie o a te ee 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850062601:0488/pct:67.58563074352548,223.084901466884,120.46783625730994,42.4951844717736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1850062601:0488/pct:16.89993733026948,55.771225366721,30.123250470022978,10.6237961179434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1878,7 +1878,7 @@ with her box opened, and the disguised
 one as the serpent creeping with his deadly  
 wiles into Paradise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874429:1850072001:0099/pct:88.65927419354838,213.0252100840336,38.457661290322584,32.07282913165266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874429:1850072001:0099/pct:29.553091397849464,71.00840336134453,12.819220430107526,10.69094304388422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2023,7 +2023,7 @@ a Pandora with her box .opened, and the disguised
 one as the serpent creeping with his deadly wrlefe in­  
 to Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850091101:0143/pct:50.57755775577558,80.08145849495733,15.167766776677668,8.78588052754073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1850091101:0143/pct:50.57060360236491,80.0736933966838,15.170264448416518,8.788260771194931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2066,7 +2066,7 @@ to it be regarded as a Pandora with her box
 opened; and the disguised one, as the serpent  
 creeping with his deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851020801:0525/pct:17.77747177086202,35.97464342313788,15.959790691269623,12.762810353935553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851020801:0525/pct:17.77747177086202,35.981686916710686,15.968970898742311,12.766332100721957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2130,7 +2130,7 @@ to it l&gt;e regarded as a Pandora with her box opened; 1
 tnd the disguised one as the serpent creeping with  
 tils deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851021201:0195/pct:32.38707873024752,61.208689623295584,14.962942245839743,8.04252368846776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851021201:0195/pct:32.38707873024752,61.21639319004699,14.972264951288864,8.038671905092057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2167,7 +2167,7 @@ opened; and the disguised one, as the er­
 pent creeping with his deadly wiles into  
 Paradise.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026670:1851021201:0033/pct:3.812636165577342,77.54237288135593,16.63035584604212,15.770656779661017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026670:1851021201:0033/pct:2.869596803487105,58.15677966101695,12.477297493643299,11.837923728813559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2198,7 +2198,7 @@ ded as a Pondora with her box opened; and the disgui­
 sed one, us the serpent creeiug with ins deadly wiles  
 into paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851021201:0141/pct:34.70037826000398,64.24439113870467,14.93131594664543,7.06928178354734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851021201:0141/pct:34.693471337579616,64.23532731376976,14.933320063694268,7.0718115124153496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2229,7 +2229,7 @@ as a Pandora with her box opened; and thedisguis done
 as the serpent creeping with his deadly wiles into Pate*  
 i dise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851021201:0235/pct:65.30084399673292,86.25305324865657,15.1238769398312,7.738153395212506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851021201:0235/pct:65.2919559003675,86.24462680734662,15.126355428519577,7.7406539012635145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2265,7 +2265,7 @@ regarded as a Pandora with her box open­
 ed; and the disguised one, as the serpent  
 creeping with his deadly wile into Pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1851021301:0314/pct:8.862350722815838,103.85407829354018,19.67316153362665,21.597382135498727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1851021301:0314/pct:6.648852562087394,77.8935886559205,14.775227915749765,16.20409647315477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2299,7 +2299,7 @@ her box opened; and the disgusted one, as the !
 serpent creeping with his deadly wiles into Par-1  
 adise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851021301:0403/pct:57.72895197355629,85.7587064676617,13.027415905113747,8.969043670536207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851021301:0403/pct:57.7233401380383,85.75278104055828,13.02938984478792,8.970727101038715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2330,7 +2330,7 @@ egarded as a Paandots with her box opened; and the
 disglad one, as the serp ut creeping with his deadly  
 wiles into Para lise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1851021301:0616/pct:317.5729822552948,208.60182826315,60.16027475672582,33.523153004645586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1851021301:0616/pct:79.37809996184663,52.14264309259814,15.037199542159481,8.379532514234342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2393,7 +2393,7 @@ my to it be regarded us a Pandora with her box
 opened ; and the quined one, as the serpent  
 creeping with his deadly wiles into Puaradise.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1851021501:0367/pct:17.53697160057584,63.41612377850163,12.69467347205863,2.666938110749186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1851021501:0367/pct:17.53697160057584,63.41612377850163,12.699035902805043,2.6737242128121608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2569,7 +2569,7 @@ is a Pandota with her byopen; and the disguised
 is the serpent creeping with his deadly wiles into Pata  
 dise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1851022001:0626/pct:134.43314789948207,107.68074552833308,59.86955687703817,33.32331279122201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1851022001:0626/pct:33.601841196777904,26.916140667267808,14.96451860375911,8.329576194770063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2612,7 +2612,7 @@ dise.
 4 opened; and the disguised one, as the serpent  
 4 creeping with his deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851022201:0543/pct:63.85475631644346,55.40308747855918,15.60127019190943,11.074185248713551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851022201:0543/pct:63.859358461042845,55.40666094911378,15.605872336508813,11.081332189822756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2648,7 +2648,7 @@ Pandora with her bos opened and the dis­
 guised one, as the serpent creeping with his  
 deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027066:1851022401:0041/pct:8.386411889596603,52.266666666666666,16.91436659589526,16.196491228070176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027066:1851022401:0041/pct:6.300884955752212,39.2,12.690265486725664,12.154385964912281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2680,7 +2680,7 @@ to it be regarded as a Pandora with her box opened;
 and the disguised one, as the serpent creeping  
 s deadly wiles into Paradis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851022501:0201/pct:48.31847649918963,213.4025270758123,38.83711507293355,22.292418772563177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851022501:0201/pct:16.10615883306321,71.13417569193743,12.945705024311183,7.430806257521059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2700,7 +2700,7 @@ truth alone can be respected, and the happi
   
 ness of man alone consulted. It will be e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851022601:0625/pct:87.63575605680869,171.38638712535067,59.48203842940685,11.102908607707072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851022601:0625/pct:21.918094442122857,42.84659678133767,14.876723777684914,2.775727151926768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2726,7 +2726,7 @@ State went into the Union of their own free
 will and accord. The Caption to the Consti­  
 tution shows for what purpose the Governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851022601:0625/pct:27.903091060985798,162.40956739997048,303.67585630743525,89.0595009596929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851022601:0625/pct:6.978687839531968,40.60239184999262,75.95068951107396,22.264875239923224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2746,7 +2746,7 @@ and who has borne a part in most of the great miles distant, and N. Y. 1400. Thi
   
 asols hi i oe o  e oie  e o e o eae te ea  desin on thouh dae conset the documents toon whth the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851022601:0625/pct:88.22055137844612,192.7063339731286,243.77610693400166,9.153993798907427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851022601:0625/pct:22.06435436690347,48.17658349328215,60.96949435854576,2.288498449726857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2777,7 +2777,7 @@ ed as a Pandora with her box opened ; and the disguised
 one, as the serpent creeping with his deadly wilea into  
 Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851022701:0188/pct:64.68960063266113,57.462899543378995,14.65005931198102,7.0062785388127855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851022701:0188/pct:64.6768135995256,57.45470109858753,14.652105159122357,7.00884576972464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2812,7 +2812,7 @@ dora with her box opened; and the disguised
 one as the serpent creeping with his deadly  
 wiles in Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1851030401:0937/pct:13.918345705196183,257.11048769961155,37.77836691410393,32.88735433750539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1851030401:0937/pct:4.639448568398728,85.70349589987052,12.592788971367975,10.962451445835132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2843,7 +2843,7 @@ open enewy to it be regarded as a Pandora, with her
 box opened ; and the disgunised one as the Serpent,  
 creeping with his deadly wiles into Paradise.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015234:1851030401:0240/pct:6.926532386610636,54.1435306443164,14.447181567888713,7.323205866946045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015234:1851030401:0240/pct:6.936192822296285,54.15051510389384,14.447181567888713,7.323205866946045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2872,7 +2872,7 @@ victions is, that the Union oi&#x27; the .State s be cheriseJ and per
 dora with her box opened; and the disguised one, as the ser­  
 i pent creeping with his deadily wiles into I&#x27;uradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851030401:0061/pct:51.691101756423286,4.483318994360004,16.591667876324575,6.003250167288022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851030401:0061/pct:51.691101756423286,4.483318994360004,16.606183771229496,6.00962304432336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2938,7 +2938,7 @@ to it be regarded as a Pandora with her box open­
 ed; and the disguised one, as the serpent creeping  
 with its deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851031001:0013/pct:156.24048706240487,252.40336613892455,45.7572298325723,28.826130366566822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851031001:0013/pct:39.0526916492296,63.09184255561894,11.437131443789234,7.205504848830576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2973,7 +2973,7 @@ Pandora with her box opened; and the dis­
 1 guised one. as the serpent creeping with his  
 deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851031101:0020/pct:18.54520500943558,33.045212765957444,12.952478984388403,11.356382978723405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851031101:0020/pct:18.542024013722127,33.040819040021276,12.954545454545455,11.358197048264858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3011,7 +3011,7 @@ opened; and the disguised one, as the ser­
 pent creeping with his deadly wiles into  
 Paradise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1851031201:0387/pct:61.64857637250275,69.79842037015207,14.299197734780558,14.098785806907934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1851031201:0387/pct:61.6590634995543,69.80234979763449,14.293954171254784,14.106644661872766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3043,7 +3043,7 @@ fe advice nearest to my heart and deepest
 ftii-iny to it be regarded as a Pandora with  
 -1 opened, and the disguised one as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0061/pct:2.9952550415183867,114.10638022518442,14.857651245551601,12.191018506535524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0061/pct:2.254858329624685,85.58302057719685,11.140780299658804,9.149734696518701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3080,7 +3080,7 @@ ed as a Pandora with her box opened; and
 the disguised one as the serpent creeping  
 with his deadly wiles into Paradise.&quot; , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1851031701:0927/pct:51.71353251318102,39.69298245614035,22.671353251318102,19.94047619047619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1851031701:0927/pct:38.821719059133876,29.777568922305765,17.014728511760826,14.959273182957393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3115,7 +3115,7 @@ to it be regaided as a Pandora with her box open­
 ed, and the disguised one as the serpent crceping  
 his deadly wilfs into Paradise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1851032201:1066/pct:8.135860979462874,324.6236559139785,62.87519747235387,41.935483870967744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1851032201:1066/pct:2.0339652448657186,81.15591397849462,15.718799368088467,10.483870967741936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3216,7 +3216,7 @@ pen enemy to it be regarded as a Pandora P
 ith her box opened; and the disguised one,  
 ?the serpent creeping with his deadly wile
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067976:00202193985:1851062001:0094/pct:61.749417458325865,35.32878770368658,18.533787417099838,4.5533341037790365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067976:00202193985:1851062001:0094/pct:61.761367031128636,35.32878770368658,18.527812630698453,4.557186332293232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3320,7 +3320,7 @@ my to it be regarded as a Pandora with her box
 opened, and the diguised one as the serpent  
 creeping with his deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877662:1851081401:0058/pct:22.24275156338829,93.11917098445596,17.06935758953951,10.310880829015543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877662:1851081401:0058/pct:16.690361103212965,69.84455958549223,12.809212396929201,7.730569948186528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3360,7 +3360,7 @@ in my coneiction is, that the Union of the Statey
 opened, and the disguised one, as the verpent  
 creeping with his deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1851100401:1130/pct:251.11287758346583,270.54980947196515,61.128775834658185,17.69188894937398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1851100401:1130/pct:62.7906976744186,67.63745236799129,15.285231564301332,4.422972237343495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3389,7 +3389,7 @@ I perpetuated. Let the open enemy to It be regarded aa a
 &#x27; Pandora With her box opened, and ihe dlsguisea orte as the  
 serpent, creeping with his deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852031301:0255/pct:80.67876344086021,63.97105497016631,16.448252688172044,6.182556810968643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852031301:0255/pct:80.68436379928315,63.97528669967416,16.453853046594983,6.186788540476493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3454,7 +3454,7 @@ to it be regarded as a Pandora with her box open­
 ed, and the disguised one as the serpent creeping  
 with his deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190947:1854061301:0559/pct:101.89083125222976,210.4151223128243,43.382090617195864,23.46182357301705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190947:1854061301:0559/pct:33.96361041740992,70.13837410427477,14.460696872398621,7.82060785767235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3495,7 +3495,7 @@ opened and the disguised one as the ser
 pent creeping with his deadly wiles into  
 Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn88059762:00279528566:1854062901:0110/pct:18.44450833812536,11.615616911130285,12.794709603220241,13.5893011216566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn88059762:00279528566:1854062901:0110/pct:18.44930036419398,11.62280701754386,12.794709603220241,13.5893011216566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3572,7 +3572,7 @@ it be regarded as a Pandora with her boy opened-
 and the disguised one as the serpent creeping with  
 deadly wiles into Paradise.&quot;ames ldson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293186:1854072201:0073/pct:73.82592360676269,342.03737191078966,50.15654351909831,33.65883062085594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293186:1854072201:0073/pct:18.462261196367052,85.50934297769741,12.54306295020357,8.414707655213984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3609,7 +3609,7 @@ with her box opened; and the disguised out
 us the serpent creeping with liis deadly wile.-  
 into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347233:1854072501:0127/pct:5.29950216797816,38.04373383494004,15.25614260478561,11.08629202915589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347233:1854072501:0127/pct:5.310208232963974,38.04765263735403,15.250789572292703,11.090210831569872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3644,7 +3644,7 @@ enemy to it be regarded as a Pandora, with her
 box opened; and the disguised one as the ser­  
 pent, creeping with its deadly wiles into Para
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854072801:0721/pct:56.34390651085142,246.62938331318017,38.75208681135226,26.29987908101572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854072801:0721/pct:18.781302170283805,82.20979443772673,12.91736227045075,8.766626360338574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3677,7 +3677,7 @@ enemy to it be regarded as a Pandora with her
 box open; and the disguised one as the serpent  
 creeping with its deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1854080201:0271/pct:83.70224378411159,75.27383147164082,17.91995148574894,14.759787441709141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1854080201:0271/pct:62.809039890793265,56.458084806420125,13.453662975883512,11.07255178397137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3712,7 +3712,7 @@ with her box opened; and the disguised one
 as the serpent creeping with its deadly wiles  
 into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1854081801:0229/pct:42.33430444282593,75.10845986984816,16.405680990531682,13.584598698481562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1854081801:0229/pct:31.761063558550354,56.331344902386114,12.311054452740848,10.195227765726681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3750,7 +3750,7 @@ ed as a Pandora with her box opened
 and the disguised one as the serpent cree-­  
 ping with his deadly evils into Paradis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1854100701:0178/pct:237.8812199036918,56.232075887932936,37.50182401867795,37.08360908890359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1854100701:0178/pct:79.29373996789727,18.744025295977647,12.500608006225983,12.361203029634533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3774,7 +3774,7 @@ my to it be regarded as a Pandora with her box
 opened,and the disguished one as the serpent creep­  
 ing with its deadly wiles into Paradise.—Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1854112801:0114/pct:68.49168008588299,80.62215791649442,12.426194310252281,4.237288135593221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1854112801:0114/pct:68.49168008588299,80.62904781590188,12.426194310252281,4.233843185889486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3918,7 +3918,7 @@ dora with her box opened; and the disguis­
 ed one, as the serpent creeping, with its  
 deadly wiles, into Paradise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1855041401:0013/pct:76.25231910946196,188.83418043202033,53.01484230055659,44.980940279542565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1855041401:0013/pct:25.41743970315399,62.944726810673444,17.67161410018553,14.993646759847522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4030,7 +4030,7 @@ Pandora with her box open, and the dis­
 guised one as the serpent creoping, with its  
 deadly wiles, into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152792:1855070501:0530/pct:56.19357703122687,24.49962538799101,12.105964185289329,7.470833779300011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152792:1855070501:0530/pct:56.19357703122687,24.506760854828926,12.115830496768783,7.467266045881051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4065,7 +4065,7 @@ her box open : and the disguised one, as the
 serpent creeping, with its deadly wiles, into  
 Paradise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347257:1855071901:0165/pct:49.54068241469816,24.747830166549377,14.730971128608925,10.485573539760733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347257:1855071901:0165/pct:49.54615048118985,24.751739776370318,14.730971128608925,10.489483149581671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4096,7 +4096,7 @@ pnrjmtiudad. Let the open enemy to it he regarded as a
 1&#x27;andora with the box opened, and the disguised one a*  
 the nerjient cwtfiag with hi* deadly wiles into Paradise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857092602:0575/pct:0.944453337602049,57.483377242504076,17.032175444213223,7.828377869777945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857092602:0575/pct:0.944453337602049,57.487559068289215,17.04284723333867,7.8325596955630825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4131,7 +4131,7 @@ ra with the box opened, and the disguised
 c ne as the serpent creeping with his deadly  
 wiles into Paradise.’’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:0041421597A:1857093001:0318/pct:6.226711119827417,47.029225255031704,13.031967052363209,10.346015991177282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:0041421597A:1857093001:0318/pct:6.226100598097853,47.0259838720794,13.033957577540281,10.34760034001884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4167,7 +4167,7 @@ dora wiih the box opened, and the disguised
 one as the Rerpent creeping wiih his deadly  
 i!os into Paradise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:0020029452A:1857102201:0366/pct:5.692124105011933,13.015306601558832,17.064439140811455,15.607099258146304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:0020029452A:1857102201:0366/pct:4.272586227473446,9.766175227720913,12.805824084019573,11.710019720161517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4218,7 +4218,7 @@ Let the open enemy to it be regurded as a
 Candora with the bos onened, and the dis  
 d one as the setpent cresping with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1857121201:0461/pct:167.55403868031854,121.64709773441376,51.4448236632537,79.32859269059037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1857121201:0461/pct:41.87898089171974,30.40674603174603,12.85828025477707,19.828869047619047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4291,7 +4291,7 @@ the open enemy to it be regarded as a Pandard teltt her to
 opened, oad the disguised one as the serpent creeping tcit at  
 deadly wiles into porudise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860102401:0396/pct:54.77980665950591,264.4331641285956,36.934172165106645,17.57473209249859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860102401:0396/pct:18.25713409021172,88.13444619896232,12.30950189219597,5.857583276938116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4359,7 +4359,7 @@ States be cherished and perpetuated. Let
 one as the serpent creeping with his deadly  
 wiles into paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860102501:0398/pct:10.02120890774125,201.57381177211207,45.59915164369035,40.45745462176057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860102501:0398/pct:2.5056343629855493,50.39345294302802,11.401299217817844,10.114363655440142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4466,7 +4466,7 @@ ra with her box opened, and the disguised
 one as the serpent creeping with his deadly  
 wiles into paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:0041566350A:1860102701:0623/pct:17.10721343873518,85.05209253046088,13.648715415019764,11.319088822179056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:0041566350A:1860102701:0623/pct:17.10721343873518,85.05209253046088,13.648715415019764,11.324974983813055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4529,7 +4529,7 @@ Pandora with her box opened, and the disguised one as
 the serpent creeping with his deadly wiles into Para  
 dise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860103101:0420/pct:54.766734279918865,212.34960272417706,37.83741613356218,24.801362088535754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860103101:0420/pct:18.252730109204368,70.77516740438088,12.610504420176808,8.266182423485795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4564,7 +4564,7 @@ Pandora with her box opened, and the dis­
 guised one as the serpent creeping with his  
 deadly wiles into pnraid.se/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1860110101:0364/pct:38.84418434528164,4.097894137734775,11.228968544257498,9.504837791690381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1860110101:0364/pct:38.8502804194099,4.102637070764561,11.23506461838576,9.500094858660596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4639,7 +4639,7 @@ to it be regarded as a Pandora with her box
 opened, and the disguised one as the serpent  
 creeping with his deadly wiles inte paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_price_ver01:data:sn84026547:00296022962:1860110601:0194/pct:109.68354430379746,113.8615847542628,17.27848101265823,7.151454363089268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_price_ver01:data:sn84026547:00296022962:1860110601:0194/pct:82.27623749841752,85.39618856569709,12.963666286871756,5.366098294884654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4707,7 +4707,7 @@ Iter box opened, and the disguised one as the
 serpent creeping with his deadly wiles into  
 Paradise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn87090585:00414212414:1861010401:0033/pct:41.95369030390738,81.78656813736144,13.125904486251809,11.03021082373397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn87090585:00414212414:1861010401:0033/pct:41.94761973665172,81.777681190916,13.127622630588917,11.031728784092143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4757,7 +4757,7 @@ Let the open er emy to it be regarded as a l&#x27;andora with her beg
 ovened, and the dfsguised one as the serpent eceping with hic  
 deadly wiles inte Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861031401:0506/pct:4.36012647695124,32.97400886333693,50.62406390414378,16.66067792550006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861031401:0506/pct:1.4533754923170799,10.991336287778976,16.87468796804793,5.55355930850002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4832,7 +4832,7 @@ Let the open enemy to it be regarded as a Pandora
 with her box opened, and the disguised one as the ser­  
 pent creeping with his deadly wiles into Paradise J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1861081701:0002/pct:5.668016194331984,89.1874921511993,11.934518570674177,5.39997488383775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1861081701:0002/pct:5.676817461714487,89.1874921511993,11.934518570674177,5.39997488383775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4854,13 +4854,13 @@ Pandora with her box opened, and the dis­
 guised one as the serpent creeping with his  
 deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775654:1861082101:0398/pct:116.01398601398601,374.59213693500936,43.56643356643357,14.76330569671035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775654:1861082101:0398/pct:29.008567931456547,93.64803423375234,10.893512851897185,3.6908264241775877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1861-08-24_5_8/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1861-08-24_5_8/page/n2/mode/1up?view=theater)
 
 #### 1861-08-24 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4941,7 +4941,7 @@ and the disguised one as the serpent creeping
   
 ith his deadily wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1861090401:0564/pct:164.35701702877276,176.29224128855668,119.2160892542572,16.549110432677125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1861090401:0564/pct:54.801762114537446,58.7640804295189,39.7503671071953,5.516370144225708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4965,7 +4965,7 @@ opened, and the disguised one as the ser­
 pent creeping with his deadly wiles into  
 Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861090501:0232/pct:58.60986547085202,38.64049436568521,13.58744394618834,6.179571065067249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861090501:0232/pct:58.62668161434978,38.64049436568521,13.581838565022421,6.193202471828426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5001,7 +5001,7 @@ her box opened, and the disguised one as the
 serpent creeping with his deadly wiles into  
 Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861090701:0942/pct:333.43065693430657,184.10577592205985,51.67883211678832,43.86917188587335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861090701:0942/pct:83.38809784592917,46.02644398051496,12.924424972617743,10.967292971468337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5024,7 +5024,7 @@ opened, and the disguised one as the
 serpent creeping with his deadly wiles  
 into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529121:1861091001:0091/pct:55.784766301211775,121.44760686493977,37.30525100980958,15.424794797995949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529121:1861091001:0091/pct:18.594922100403924,40.48253562164659,12.435083669936526,5.14159826599865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5051,7 +5051,7 @@ we with her box opened, and the disguised
 one as the serpent creeping with bis  
 deadly wiles into Paradise 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861091201:0546/pct:60.80956761729531,84.44287729196051,12.253909843606255,7.348377997179125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861091201:0546/pct:60.82183379331494,84.44757874941232,12.247776755596442,7.353079454630936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5071,7 +5071,7 @@ and the disguised one as the serpent 1 miles. |i ig^ also about 25 miles (jrom
 #u-,  
 wit# his deadly wiles into Paradis*,** [ckhanufQ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1861092501:0786/pct:30.353075170842825,94.29392446633825,25.68337129840547,2.2783251231527095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1861092501:0786/pct:30.35782080485953,94.29734537493158,25.688116932422172,2.274904214559387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5130,7 +5130,7 @@ her box open, and the disguised one us the
 -serpent creeping with his deadly wiles into  
 JPurudise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861100401:0830/pct:3.3964365256124722,16.44640234948605,12.769116555308091,18.475503938059003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861100401:0830/pct:3.3964365256124722,16.44640234948605,12.783036377134373,18.492190628754507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5153,7 +5153,7 @@ dora with ber box opened, ana .iae,ais­
 guised one as the serpent creeping with  
 his deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555614:1861101001:0238/pct:89.79895755770663,114.32930874353191,16.71630677587491,7.111582857901022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555614:1861101001:0238/pct:67.36175758704152,85.75029852726549,12.548873580338856,5.333687143425767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5177,7 +5177,7 @@ irninpfi -- * fin--, uud the dis­
 fc . one as the serpent creeping with  
 deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026190:1861103101:0026/pct:69.61531313882178,58.44174410293066,12.54413677755064,4.703359542530379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026190:1861103101:0026/pct:69.62150777426749,58.44650941148439,12.556526048442048,4.703359542530379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5261,7 +5261,7 @@ opened, and the disguised one as the
 serpent creeping with his deadly wiles  
 into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529121:1862012201:0517/pct:59.1792656587473,207.40119509382535,37.221022318214544,38.37928504036063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529121:1862012201:0517/pct:19.7264218862491,69.13373169794178,12.407007439404847,12.793095013453541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5295,7 +5295,7 @@ box opened, and the disguised one as the ser
 pent creeping with its deadly wiles into Para  
 dise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862012201:0301/pct:229.563350035791,277.208088714938,49.3915533285612,34.911937377690805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862012201:0301/pct:57.39083750894775,69.3020221787345,12.3478883321403,8.727984344422701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5311,7 +5311,7 @@ dise.
 the Union be regarded as the serpent creeping  
 with his deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862012201:0301/pct:230.1360057265569,318.12133072407045,48.89047959914102,3.2354859752120024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862012201:0301/pct:57.534001431639226,79.53033268101761,12.222619899785254,0.8088714938030006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5380,7 +5380,7 @@ dora with her box opened, and the diguised
 one as the serpent creeping with his deadly  
 wiles creeping into Paradise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191204:1862013101:0077/pct:25.131641933939683,130.27639329406435,98.03733843944471,17.689170820117806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191204:1862013101:0077/pct:6.284414651663874,32.56909832351609,24.515202298300217,4.422292705029451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5405,7 +5405,7 @@ and the happiness of man alone consuited.
   
 It will be entitled, therelore, to whatever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191204:1862013101:0077/pct:74.86835806606031,109.57861350249208,47.72618477740546,10.765745355686452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191204:1862013101:0077/pct:18.721570505147234,27.39465337562302,11.934402681350251,2.691436338921613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5440,7 +5440,7 @@ Pandora with her box opened, and the dis­
 guised one as the serpent creeping with his  
 deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347300:1862013101:0051/pct:36.471518987341774,80.17492711370262,13.180379746835444,11.276967930029155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347300:1862013101:0051/pct:36.482067510548525,80.1827016520894,13.180379746835444,11.276967930029155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5475,7 +5475,7 @@ Pandora with her box opened, and the dis­
 guised one as the serpent creeping with  
 deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862013101:0668/pct:21.925925925925927,284.1921397379913,50.370370370370374,40.98981077147016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862013101:0668/pct:5.481481481481482,71.04803493449782,12.592592592592593,10.24745269286754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5524,7 +5524,7 @@ garded as a Pandora with her boa opened.
 and the disqnised one as the serpent creen.­  
 ing with his deadly wiles into paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1862020801:0686/pct:71.64576206765489,100.32154340836013,40.288863549980995,36.92157136865651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1862020801:0686/pct:23.881920689218294,33.440514469453376,13.429621183326999,12.307190456218835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5560,7 +5560,7 @@ ed, and the disguised one as the serpent
 creeping with his deadly wiles into Para-­  
 dise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1862021201:0327/pct:76.93945847277152,154.41941074523396,34.2257377547916,31.346042749855574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1862021201:0327/pct:25.64648615759051,51.47313691507799,11.408579251597201,10.448680916618525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5590,7 +5590,7 @@ Washington&#x27;s Fhrewell Address,
   
 &quot;The love of justice, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863070401:0610/pct:191.8580375782881,27.58259045621395,97.91231732776617,356.37126376507604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863070401:0610/pct:47.972855402818865,6.8956476140534875,24.482338611449453,89.09281594126901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5633,7 +5633,7 @@ enemy to it be regarded as a Pandora with the
 box open, and the disguised one as the serpent  
 creeping with his deadly wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863102201:0398/pct:179.39156035328753,45.399698340874814,50.63788027477919,44.2684766214178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863102201:0398/pct:44.88092315246747,11.349924585218703,12.668794500368278,11.06711915535445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5670,7 +5670,7 @@ a Pandora with the box open, and the
 disgnised one as the serpent creeping  
 with his deadly wiles in to Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863102701:1002/pct:138.62212943632568,246.1297480746639,47.73834377174669,45.320454248792586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863102701:1002/pct:34.65553235908142,61.53243701866597,11.934585942936673,11.330113562198147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5726,7 +5726,7 @@ to it be regarded as a Pandora with the l&gt;ox open,
   
 I vitii its deadly wiles into raradise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn83025760:00415620202:1863111401:0142/pct:39.90184049079755,4.088050314465409,59.239263803680984,93.74379344587885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn83025760:00415620202:1863111401:0142/pct:39.91002044989775,4.099084188458567,59.239263803680984,93.74931038287542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5765,7 +5765,7 @@ box open, and the disguised one as the
 serpent creeping with his deadly wiles  
 into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028034:1863120301:0835/pct:179.20792079207922,217.86015164279698,48.43869002284844,54.81606290367874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028034:1863120301:0835/pct:44.81051228337459,54.465037910699245,12.111978670729385,13.704015725919685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5792,7 +5792,7 @@ the box open, and the disguised one as the
 serpent, creeping with its deadly wiles into  
 Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557372:1864010201:0005/pct:27.765464436832563,67.35774818401937,13.459601047753376,8.595641646489105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058108:00279557372:1864010201:0005/pct:27.770501712673784,67.36531476997578,13.47471287527705,8.599424939467312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5828,7 +5828,7 @@ with the box open, and the disguised one
 as the serpent, creeping with his deadly  
 wiles into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:0027955419A:1864011901:0064/pct:122.65070022325959,227.83617747440272,52.93281915973209,42.97610921501707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:0027955419A:1864011901:0064/pct:30.662675055814898,56.95904436860068,13.233204789933023,10.744027303754267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5899,7 +5899,7 @@ Madison to regard the disguised enemy of the
 Guion as “the serpent creeping with his  
 deadly wiles into paradise,” should be heede
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1866031701:0019/pct:33.76984126984127,76.04468349193215,14.642857142857142,1.7790649565577161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051370:00414212578:1866031701:0019/pct:33.763142233683794,76.03419746276889,14.644911723864313,1.7822669608383894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5920,7 +5920,7 @@ enemy to it be regarded as a Pandora with her
 box opened, and the disguidd oue as the ser­  
 pent rrtrping with hi 1 deauly evils into para
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200295602:1876051801:0770/pct:8.493898522800256,35.43924371685497,18.73795761078998,3.1012220428867883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200295602:1876051801:0770/pct:6.376485705107613,26.585197140880794,14.053967234179249,2.3287987087848743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5974,7 +5974,7 @@ el as a Pandora with her box opened, and
 the disguised one as the serpent creepvug  
 with his deadly wiles into Paradise. Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092523:00383341711:1884092801:0080/pct:77.2648835202761,50.3968253968254,11.73425366695427,5.357142857142857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092523:00383341711:1884092801:0080/pct:77.25377426312006,50.391826207717486,11.737359213994727,5.359917997553153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6007,7 +6007,7 @@ box open, and the disguised enemy as
 the serpent creeping with his deadly wiles  
 into Paradise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175031194:1895102301:0195/pct:135.32271584241408,51.92024470374986,40.0,11.80469015520562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175031194:1895102301:0195/pct:45.107571947471364,17.306748234583285,13.333333333333334,3.934896718401873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

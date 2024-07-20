@@ -109,7 +109,7 @@ party and its antagonist:
 4 name at their head ; the other, for the same rea­  
 4 son, selected mine.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847060501:0563/pct:1.9228070175438596,60.31102836491074,15.578947368421053,16.986091337202936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847060501:0563/pct:1.9321637426900584,60.31832950023729,15.583625730994152,16.989741904866207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ considered you as thinking with them, placed your name
 at their bead; the other, for the same reason, selected mine.&quot;  
 Our necessatily hasty and superficial giance at the hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184649:1847061201:0556/pct:11.959988402435489,216.01656886434242,38.15598724267904,29.11057415717409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184649:1847061201:0556/pct:3.9860849398463545,71.99723884031293,12.716818862637098,9.702408344838165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ mation of Gen. Scott published last week, is to
 be taken rather as expressing the view s of the  
 Government than his ow n: or at best the Gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026593:00202198065:1847061601:0539/pct:57.44199207696661,64.68800868149756,20.500848896434636,27.835051546391753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026593:00202198065:1847061601:0539/pct:38.31564048124557,43.12533912099837,13.67303609341826,18.556701030927837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ were more familiar to our countrymen, the o e e  e e  eranan other par of ur con
  wi oe o a iee  o  e e oee e om te a ta e u  
 party whicl considered Yofl as thinking with he says,  is always to do what her mistress herealter look for our main support to the pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1847061801:0464/pct:221.39673105497772,325.4416961130742,147.17682020802377,22.909305064782096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1847061801:0464/pct:55.34918276374443,81.36042402826855,36.79420505200594,5.727326266195524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ between “Feds” and “Anties.” Here yoi
 ami 1 were together again. But as soon as i  
 (the Government) was put in motion, the In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847062401:0100/pct:4.915863112119493,80.85753803596127,12.837965588958216,9.54356846473029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847062401:0100/pct:4.914933837429111,80.84635596736274,12.840264650283554,9.545705988106763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ names therefore were more familiar to our
 &quot;reason, selected mine.&quot;  
 Now, without one word of comment fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847062601:0950/pct:27.661357921207042,279.28419775553533,61.10645431684828,74.12799514710343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1847062601:0950/pct:6.916788933137707,69.82104943888383,15.279815552295116,18.53199878677586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ tests. There you and I were arrayed to
 gether; others cherished the Monarchy  
 of England, and we the rights of our coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848080101:0559/pct:330.530303030303,151.09809663250365,51.74242424242424,63.01610541727672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848080101:0559/pct:82.63257575757575,37.774524158125914,12.93560606060606,15.75402635431918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ name at their head---the other selected
 mine.&quot;  
 Precisely upon that principle, Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848080101:0559/pct:330.3787878787879,214.64128843338213,51.74242424242424,36.603221083455345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848080101:0559/pct:82.59469696969697,53.66032210834553,12.93560606060606,9.150805270863836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ your name at their head,-the other selec­
 ted mine.&quot;  
 Precisly upon that principle, Gena Lewi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848081001:0761/pct:114.93924231593996,306.272651240591,50.7505360972123,52.91329802063005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848081001:0761/pct:28.74508401859135,76.56816281014775,12.69217018233822,13.228324505157513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -723,7 +723,7 @@ your name at their head the other selected
 mine.&quot;  
 Precisely upon that principle, Gen. Lewi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848081901:0562/pct:44.845360824742265,74.46476011876855,19.23076923076923,27.926238474761682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848081901:0562/pct:33.65727885759619,55.852476949523364,14.438714795715986,20.940771995624317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ drawn. We broke into parties, each wish­
 ing to give the Government n different di­  
 rection; mi. one (the Republican party) t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082162:00514159324:1848081901:1104/pct:8.862433862433862,87.05076213117047,18.55631141345427,3.6218710669836387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082162:00514159324:1848081901:1104/pct:6.873321942885037,67.46866081427694,14.391017817915548,2.814204689136953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ MANeNCE. Here you and I separa­
 ted for the first time, and one party pla­  
 ced your name at their head--the othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848082201:0442/pct:96.81321540062434,177.02200021256243,37.61706555671176,72.7282389201828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848082201:0442/pct:32.27526993625602,59.00733340418748,12.540653050604917,24.2427463067276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ trymen, the party which considered you as thinking with
 them placed your name at their head; the other, for the  
 same reason, selected mine&quot; Vol, 4, page 202
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091101:0048/pct:140.6946983546618,282.1147356580427,60.63985374771481,20.374015748031496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091101:0048/pct:35.16724547614696,70.5187684521299,15.157192469384025,5.092787853226486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ tho party which considered you ns thinking with
 them placed your name at their head : the other,  
 f&gt;r the satire reason, selected mine.” Vol. 4 njtff
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848091301:0148/pct:78.66784037558685,68.29240692542719,14.818075117370892,5.533552110444721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848091301:0148/pct:78.65630042540707,68.2846797918081,14.82079115935651,5.53669759372407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -918,7 +918,7 @@ irvmen, the party which considered you as thinking
 with them placed your name at their head; the other for  
 the name reason, selected mine.&quot; o  a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091801:0055/pct:315.2317880794702,360.0679694137638,63.22663723325975,20.235060889266496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091801:0055/pct:78.79345227147324,90.00424748690358,15.803752069155784,5.058048987682288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -971,7 +971,7 @@ party which considered you as thinking with
 them placed your name at their head; the  
 other, for the same reason, selected mine.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848100301:0466/pct:209.23517169614985,66.84696150174992,37.03173777315297,20.23544384346166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848100301:0466/pct:69.77228366948601,22.282320500583307,12.348731294729994,6.745147947820554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1013,7 +1013,7 @@ I were arrayed together; others cherish­
 ed the monarchy of England, and the  
 rights of our country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1848102001:0287/pct:126.53992395437263,68.19492107069321,102.3574144486692,27.179135209334248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1848102001:0287/pct:31.647014073792317,17.048730267673303,25.599087105363257,6.794783802333562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,13 +1035,13 @@ ThtTh ,? Imorc ,&quot;rru,1,r to our country men, the party
 at their hold ? &quot;tf e^l* &quot; Wi,,, &#x27;&#x27;,e,n P,KCed J&#x27;0&quot;1 name  
 at u,e,r head : the other, for the same reason, selected mine.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102101:0369/pct:2.044930875576037,70.0590640617901,16.215437788018434,3.72557928214448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102101:0369/pct:2.044930875576037,70.06285021959715,16.220238095238095,3.729365439951537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-01_9_13/page/n8/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-01_9_13/page/n8/mode/1up?view=theater)
 
 #### 1849-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1066,7 +1066,7 @@ England, and we the rights of our country
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-01_9_13/page/n8/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-01_9_13/page/n8/mode/1up?view=theater)
 
 #### 1849-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1113,7 +1113,7 @@ first time and one party placed your name at
 their head,-the other selected mine  
 And here was the origin, Mr. Jefferson migh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855022701:0645/pct:21.04448742746615,110.3346165235416,57.969052224371374,22.934557299378145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855022701:0645/pct:5.260104428543802,27.57957068837898,14.489460452523689,5.73279052553664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ I now repeat sincere assurances.&quot;
   
 JOHN&quot; ADAMS TO THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:25.851822503961966,10.83736827114782,37.67828843106181,104.12987752776986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:19.401506143479985,8.131586442608944,28.27982560443916,78.0974081458274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1200,7 +1200,7 @@ whicl have led to it. Tome, then, it appears
   
 that tjiere nave been diBerences of opinio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:25.8716323296355,115.59384790657933,19.01743264659271,5.311876958131586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:19.421323820848198,86.69894616918256,14.26872770511296,3.9874679578467673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,7 +1220,7 @@ now (lvit.es out country; that these will con
   
 tinue through all future time; that every one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:26.089540412044375,121.58929080034179,18.839144215530904,2.606095129592709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:19.579865239793897,91.1990885787525,14.149821640903687,1.951011107946454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1258,7 +1258,7 @@ est on both sides should not affect
 personal esteem or social inter- ‘  
 course.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.09859154929578,40.03625012586849,12.338028169014084,14.943107441345282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.08857907336994,40.03221908981071,12.34098483781627,14.944959054906699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1277,7 +1277,7 @@ teem or social intercourse.
 I am not among those who fear the  
 people. They, andnt the rich, are ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:111.2280701754386,177.54913599788946,43.29824561403509,10.710987996306557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:27.816777816777815,44.387283999472366,10.828360828360829,2.677746999076639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1294,7 +1294,7 @@ Opinions which are equally honest on
 both sides should not affect personal es­  
 teem or social intercourse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:180.4953560371517,176.84619655746806,49.61300309597523,7.4958356468628535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.13257209212309,44.211549139367015,12.405651248306562,1.8739589117157134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1346,7 +1346,7 @@ ship.
 Maik Twain, if he is in the mood,  
 says the New York Mail and Express
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.05230851347744,34.372827490316816,12.236455831331732,10.398252060780614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.06120451917089,34.37613798126262,12.23200782848501,10.401562551726421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1396,7 +1396,7 @@ Opinions which are equally honest on
 both sides should not affect personal es­  
 teem or social intercourse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521675:1890060901:0102/pct:4.109121909633418,18.117351023676083,15.072463768115941,9.973693240306531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521675:1890060901:0102/pct:4.109121909633418,18.1211635975447,15.089514066496164,9.97750581417515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

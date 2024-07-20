@@ -89,7 +89,7 @@ curled notes of Slate flanks, by their crowding out &#x27;
 a sound medium, though u grent evil, was not foro­  
 peen; c.r. jt l id been otmrcharjdcd, i» ii ruegtiuaa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831031001:0278/pct:78.8433734939759,80.29153827921309,18.76305220883534,14.162123726001422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831031001:0278/pct:78.83070992611628,80.28202393648536,18.7653924403041,14.164395465497492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ this will find you m go*«l health, uod yon have my
 best wishes for its continuance, mud the addit ion of  
 every o her blessing. JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831031001:0279/pct:1.9439133205863608,4.015160487978207,18.35564053537285,14.781475778751629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831031001:0279/pct:1.9436036323084276,4.01468498342018,18.35802665817004,14.783672824885521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ iieaitb, and you ha.emy lies! wishes loi its
 couuuuauce, and (ho addition ot every other  
 blessing. J AMES MADlaON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1831031001:0235/pct:31.24015748031496,52.372079690411354,14.744094488188976,29.539916869714776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1831031001:0235/pct:31.234009053335956,52.36457437661221,14.746112969887818,29.539266265405562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ i tliey may be, \you d have been promptly&#x27;furnished.
 best wishes for its continuance, and tiie addition of  
 ; every o her hb-^mg .TAM MS MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831031101:0095/pct:3.6985668053629217,12.05811692026084,36.60040067807058,82.00434732868094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831031101:0095/pct:3.6979969183359014,12.056737588652481,36.59989727786338,81.99877983680317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ notes a legal tender, would seem to be a bar
 to the question. &quot; if it were not inexpedient  
 now to agitate it.&quot; We all know the activ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837081901:0014/pct:17.987152034261243,60.61356932153392,15.401087135562511,9.91150442477876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837081901:0014/pct:17.998133201559327,60.617502458210424,15.395596551913469,9.91150442477876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

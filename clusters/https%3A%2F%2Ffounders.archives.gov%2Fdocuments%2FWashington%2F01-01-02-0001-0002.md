@@ -365,7 +365,7 @@ with two Wild Turkies we then went to our
 Busines= run of three Lot A returned to our  
 Cmping place at mtumps.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654838:1892022001:0470/pct:50.083780160857906,56.575250836120404,12.298927613941018,2.31438127090301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654838:1892022001:0470/pct:50.087969168900806,56.575250836120404,12.311494638069705,2.3344481605351173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ it look tine. Ye one keeps rattling and
 ye other drumming all ye while ye other  
 is dancing.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_guava_ver02:data:sn99068086:00332899958:1895022101:0494/pct:9.348332040341349,0.8996728462377317,99.92242048099301,106.4340239912759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_guava_ver02:data:sn99068086:00332899958:1895022101:0494/pct:8.179658332390542,0.7872137404580153,87.44201832786514,93.12977099236642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ Turkeys; we then went to our Business;
 run off three Lots &amp; return&#x27;d to our  
 Camping Place.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897032601:0310/pct:11.307854137447405,117.82032400589101,20.897615708274895,5.019636720667648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897032601:0310/pct:7.539891285288444,78.54688267059402,13.940031562335612,3.350515463917526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -710,7 +710,7 @@ had catched yo Night before) and slept
 in a good Feather Bed with clean Sheets  
 which was a very agreeable regale.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897032601:0310/pct:32.99438990182328,79.98281786941581,20.88008415147265,5.792832596956308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897032601:0310/pct:22.005961774504648,53.325969563082964,13.922496931439593,3.865979381443299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ Nothing remarkable this day nor night
 but that we had a tolerable good bed to  
 la}&#x27; on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898021701:0021/pct:15.137692177732726,49.725776965265084,14.056428450751817,26.95383912248629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898021701:0021/pct:15.143323759644083,49.725776965265084,14.050796868840457,26.961456429006702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ soutb brauch about 40 miles from Polks
 I believe ye worst road that ever was  
 trod bv man or beast
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898021701:0021/pct:15.22216590640311,83.96937842778793,14.056428450751817,6.524223034734918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898021701:0021/pct:15.22216590640311,83.97699573430835,14.078954778397252,6.524223034734918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ er drumming all ye while ye others is
 dancing.  
 &quot;Friday March 25&#x27;h, 174S. went u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898021701:0021/pct:15.22216590640311,10.191956124314443,28.349383341780705,88.18555758683729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898021701:0021/pct:15.22216590640311,10.199573430834857,28.355014923692064,88.1893662400975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

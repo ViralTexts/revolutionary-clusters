@@ -211,7 +211,7 @@ after the abrogation aoin te e­
 sent Constitutiond of the Articles of Con­  
 federation by eleven of the States, hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1860122701:0214/pct:177.67584097859327,309.1375354298826,50.07645259938838,44.86435416385477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1860122701:0214/pct:44.43594646271511,77.28438385747064,12.523900573613767,11.216088540963693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ oi North, all run &quot; the machine,&quot; and
 hence the machine has run off the track,  
 and dashdj us all off with it. Only th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1861040501:0712/pct:109.79567307692308,41.96549137284321,15.92548076923077,21.440360090022505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1861040501:0712/pct:82.36826287317172,31.47786946736684,11.961530755359647,16.084021005251312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ Constitution, Congress passed the following resolution&#x27;:
 the day for appointing electors in the several States, which  
 before the said day, shall have ratified the Constitution 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:26.468373493975903,79.27060909206027,20.218373493975903,5.850322907433203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:19.87191561499341,59.452956819045205,15.162930872103974,4.394073698872989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ of nine States was to be sufficient for its
   
 establishment, &quot;between the States s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022801:0191/pct:105.26645768025078,312.5851479620324,39.373040752351095,10.85427135678392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022801:0191/pct:26.316614420062695,78.1462869905081,9.843260188087774,2.71356783919598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ Madison at this time, &quot;for the echo from Vir­
 ginia, but with very faint hopes of its corre­  
 sponding with my wishes;&quot; and the answer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882060401:0447/pct:185.2520692249812,80.07240911147986,49.81188863807374,9.473525418615175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882060401:0447/pct:46.32173095014111,20.018102277869964,12.455315145813735,2.3683813546537937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ resolves of the convention made and pro-1
 vided in that case. It may be interesting  
 in these days of centennial reminiscence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861940:1887100501:0228/pct:2.579444222842707,4.694492647730386,26.924611088950936,93.7985204128231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861940:1887100501:0228/pct:2.5838762575898597,4.6975370657898745,26.920179054203786,93.80460924894207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -101,7 +101,7 @@ expenfes of equipping, officering, man­
 ning, and employing Inch of the armed  
 veffelsof the United States, as may b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804041101:0003/pct:59.46707105719238,38.52345267832362,18.609185441941076,29.697474326949763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804041101:0003/pct:59.46707105719238,38.5280784531409,18.623627960716348,29.697474326949763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ be deemed requisite by the President of
 the United States, for protecting the  
 commerce and seamen thereof, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804062601:0515/pct:42.94392523364486,53.225806451612904,16.292834890965732,7.9582769943983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804062601:0515/pct:42.94911734164071,53.232245187045265,16.287642782969886,7.9582769943983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ pinion require.
 Sec 3. dnd be it further enacted. That  
 on the application of the owners of privat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815030801:0069/pct:56.054054054054056,29.142790316921996,17.423423423423422,13.507192141270027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815030801:0069/pct:56.043956043956044,29.139382600561273,17.426289557437098,13.509510445899595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

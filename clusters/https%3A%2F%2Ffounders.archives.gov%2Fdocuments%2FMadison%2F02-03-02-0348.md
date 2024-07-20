@@ -392,7 +392,7 @@ scription in article H, of the treaty of 1783.
 Again, Mr President Jesferson, in a message to  
 Congress, on the 17th October, 1803, stated that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842091501:0984/pct:15.063549348815314,245.3807226079793,38.33359485328731,15.546663528304107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842091501:0984/pct:5.020395356134296,81.7839491645093,12.775860265662587,5.181611359535577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ fixing the northwest angle of Nova Scotia, &quot;arises
 from a reference in the treaty of 1783, to highlands  
 which It is now found have no definite existence.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842111801:0482/pct:49.65997153250039,3.4892942109436955,31.21935789973114,92.48895434462445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842111801:0482/pct:49.66524329168644,3.4892942109436955,31.22462965891718,92.49273063706053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ comport w ith the apparent intention of the treaty of
 Here we have an instruction from one of the most  
 cautious, as well as able and enligntemd statesmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842122801:0615/pct:17.903378591727186,46.94310942215267,17.619197979160088,12.093439141611713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842122801:0615/pct:17.903378591727186,46.94310942215267,17.629723187032944,12.104616072426511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

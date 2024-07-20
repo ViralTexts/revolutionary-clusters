@@ -75,7 +75,7 @@ f alb Retired
 conversing with very few of  
 any j :rct of affairs 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042101:0001/pct:42.34270685818329,10.583464154892726,36.030750556342305,82.41758241758242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042101:0001/pct:42.34270685818329,10.587824873539159,36.030750556342305,82.43066457352171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ non-importation laws, I think, ■
 to last long. They will hi j such  
 ion of disaffection to t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042101:0001/pct:60.38842808011329,8.778126635269492,35.646368602063525,84.06593406593407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042101:0001/pct:60.401915166228335,8.778126635269492,35.65311214512105,84.07465550322694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ JOHN ADAMS.
 t Ml A. was the President of the Senstc—  
 and had the catting vote in this very question— 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809042101:0431/pct:22.62378026743766,1.7101485457495944,35.29092880375858,93.33416552240669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809042101:0431/pct:22.619692863595304,1.709935097353969,35.290575127973504,93.32667665168913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ and Royal Orders. Iwe bam{
 with the rest in all these measures,  
 rw, that the sense of the. nagion, the pub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809042601:0018/pct:71.77001504262076,35.65147073688467,22.129366538525822,53.78550490245628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809042601:0018/pct:71.77558638364255,35.658209508406614,22.140509220569392,53.78887428821726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ I am, Sir, with respect and esteem,
 . “N. B. The tribute and Brivigh licenses must  
 be pirohibited under adeguate fienalties, ‘
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809042601:0019/pct:5.14126149802891,1.6050878255602665,23.078186596583443,81.13264688067838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809042601:0019/pct:5.146736749890495,1.6050878255602665,23.078186596583443,81.14274177266303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1095,7 +1095,7 @@ N. B. The tribute and British licences
 must be prohibited under adequate penal­  
 ties. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809042801:0132/pct:22.8024530756365,4.405230417671702,35.941274855974726,92.26863018915832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809042801:0132/pct:22.798216276477145,4.404671236354405,35.94079028861638,92.26114919184226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1138,7 +1138,7 @@ r?éi/‘?’é‘fvmrg# through the &#x27;wiidé&#x27;#{’é s
 Lour public affzirs,and agrec with Congrefy  
 ke i the Dieec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809050201:0275/pct:60.50589695841092,57.03644850531334,16.418373680943514,17.131790644552588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809050201:0275/pct:60.51106972894682,57.039758996259145,16.423546451479414,17.14172211739001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1156,7 +1156,7 @@ pape “:&#x27;%g pamphlets; /many links in the
 great chain of deliberations, . actions, and  
 caoceaay havy chaped me. Yeu wil 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809050201:0275/pct:60.50589695841092,77.49528255040222,16.418373680943514,2.8503327043400537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809050201:0275/pct:60.51106972894682,77.49528255040222,16.423546451479414,2.8635746681232828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1189,7 +1189,7 @@ gar Logple, 1 cxp;c‘ﬁ’td&#x27;» this opittion frecly
 KRBy, of Maflachalects. Thefetwo and these  
 g: agreed with me jn.opinien, that we
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809050201:0275/pct:78.10366232153942,13.963650809415036,17.380509000620734,12.007150660442944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809050201:0275/pct:78.10366232153942,13.966961300360843,17.40120008276433,12.010461151388752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1239,7 +1239,7 @@ beratled in # ferr ofonths: ¢ Thave not cen­
 fir™d any of thele meaiures; becapfe | knew  
 the ford atrac iment of the nation t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809050201:0275/pct:78.10366232153942,26.92422286225047,16.899441340782122,20.180752805641077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809050201:0275/pct:78.10366232153942,26.930843844142085,16.909786881853922,20.17744231469527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1291,7 +1291,7 @@ senuidiaginiid: Rty st G
 o it, we f&amp;sﬂ&amp;t podted by fut­  
 eign powers, until they fee that we are fen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809050201:0275/pct:78.10366232153942,52.090575032277286,17.054624456859095,22.107458536100904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809050201:0275/pct:78.10366232153942,52.0971960141689,17.05979722739499,22.10083755420929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1489,7 +1489,7 @@ of.” There he condemns a long con­
 tinuance of the Embargo, which, on  
 the 9th January following, he woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809091101:0672/pct:59.790599242593004,60.32755820249052,17.33125417687681,12.344342176502437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809091101:0672/pct:59.77728285077951,60.31939369332792,17.332962138084632,12.346054946542157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1507,7 +1507,7 @@ edging that we have received greater inju­
 11&#x27;ics li am England than from France, abom­  
 | inaLle as both have been.” That we hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809100201:0686/pct:23.457066189624328,13.656201604955653,17.620751341681576,2.674926087568633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809100201:0686/pct:23.45182204337134,13.65427927927928,17.622401073105298,2.6780686936936937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1568,7 +1568,7 @@ maintains his rvights and his dignity at home is less li­
 able to insults abroad. Bur fe‘rn and laghway rob­  
 bers shun those who furnish tgcmselvea with arms an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809112201:0126/pct:25.623290976355154,30.824267372341467,21.392954801351134,26.40399882387533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809112201:0126/pct:25.634014261969867,30.824267372341467,21.403678086965847,26.407265836845372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

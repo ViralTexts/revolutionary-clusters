@@ -52,7 +52,7 @@ thereof, in any part of the city, nor (hall
 ler than thirty five feet on any!  
 ues.&quot;—And whereas the above
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110301:0003/pct:28.913662239089184,12.950642116664088,20.825426944971536,24.47779668884419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800110301:0003/pct:28.913662239089184,12.96095724379803,20.84123972169513,24.467481561710247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ March, 1801.
 (Signed)  
 e TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801032301:0003/pct:49.26096438090623,53.726661687826734,22.437606009207656,38.79014189693801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801032301:0003/pct:49.26096438090623,53.726661687826734,22.445682901219612,38.8100572566592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ March, 1801.
 (Signed)  
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801040301:0003/pct:73.52467811158799,37.7330955083509,23.658798283261802,41.7544997567699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801040301:0003/pct:73.54256080114449,37.74390573482515,23.658798283261802,41.74909464353278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ third day of January, in the
 year 1802.  
 Th : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802021201:0004/pct:59.267199376339896,13.604488078541374,16.195673358019878,36.92464618130817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802021201:0004/pct:59.267199376339896,13.612988227293977,16.20216981744949,36.92464618130817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ third day of January, in the
 year 1802.  
 Th : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802021701:0004/pct:42.1216848673947,48.08078273958856,16.244149765990638,36.60311088810838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802021701:0004/pct:42.134685387415495,48.08078273958856,16.244149765990638,36.60729218932932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ third day of January, in the
 year 1802.  
 Th : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802021901:0004/pct:40.98012733937874,48.704663212435236,16.168242330696508,37.90155440414508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802021901:0004/pct:40.98655862113319,48.713298791019,16.168242330696508,37.90155440414508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ Given under my hand this twenty­
 third day of January, in the  
 year 1302
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802022201:0004/pct:27.12424654870698,50.77700568540745,16.410655259576124,36.14655716993051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802022201:0004/pct:27.13072785015231,50.77700568540745,16.410655259576124,36.15076858285955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ as lawfully erefted, except that no wooden
 houfe eovr ring more than three hundred and  
 twenty fquare feet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805012301:0004/pct:40.3765227021041,29.29927414852038,19.512735326688816,27.191513121161364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805012301:0004/pct:40.391288298265046,29.30392704262051,19.49796973052787,27.191513121161364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ Given under my hand the twentieth day of
 December, 1804.  
 ) TH; JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805012501:0004/pct:60.18538478120284,46.76079734219269,17.870230653158007,13.579734219269103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805012501:0004/pct:60.18538478120284,46.76079734219269,17.891787023065316,13.579734219269103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ Given under my hand the twentieth day of
 I December, 1804.  
 TH« JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805012801:0004/pct:78.91261281091789,29.103544127866574,19.172353070658154,30.715774843641416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805012801:0004/pct:78.92728740186368,29.108176974750986,19.172353070658154,30.711141996757007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -668,7 +668,7 @@ Given under my hand the twentieth day of
 December, 1804.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805020601:0004/pct:60.192007144451885,24.915824915824917,19.02210314802411,31.846240179573513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805020601:0004/pct:60.192007144451885,24.920501309390197,19.02210314802411,31.86026936026936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ Given under my hand the twentieth day of
 December, 1804.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805021101:0004/pct:40.67872292922527,50.86980920314254,19.02210314802411,31.242985409652075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805021101:0004/pct:40.67872292922527,50.879161990273104,19.02954528540597,31.238309016086795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ the firft and third nrtic e« a ft \\
 be, and the firne are &#x27;: | ,int;j  
 t c firft d y of January in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805022701:0004/pct:79.40851909070845,66.54681233577652,19.995585963363496,22.237588162079934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805022701:0004/pct:79.41587581843596,66.55603189969115,19.988229235635988,22.23297838012262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -824,7 +824,7 @@ exception hereafter mentione&#x27;l.
 Wherefore, I THOMAS fEPFjRSG^  
 Prefiilenl: of the United States, do .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031101:0003/pct:79.48264426265753,64.16770789948633,19.21291178421402,20.57476051645148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031101:0003/pct:79.49001400250572,64.16770789948633,19.21291178421402,20.57476051645148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +887,7 @@ Given under my hand the twentieth day of
 December, 1804.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805032001:0004/pct:80.11476495254911,29.385660796006103,18.781725888324875,32.4226875606712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805032001:0004/pct:80.11476495254911,29.39490593075394,18.803796071507392,32.431932695419036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +950,7 @@ G.vcn under my hand the twenty-fifth day
 of February 1806  
 TH; JEFF2RSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022801:0003/pct:21.260189469046047,37.780840799448654,18.836748182419036,30.889042039972434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022801:0003/pct:21.267533230520673,37.79002986446129,18.844091943893662,30.889042039972434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1013,7 +1013,7 @@ Given under my hand the twenty-fifth day
 of February 1806.  
 TH; JBFF2RSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806031201:0004/pct:21.64970772894566,66.84291081118687,19.09504221693007,31.042159454570754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806031201:0004/pct:21.64970772894566,66.85218681879319,19.123908493902,31.05143546217708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1048,7 +1048,7 @@ Given under my b-.&gt;nd the twenty-fifth day
 ofFc-rua.y i£o6.  
 THi JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806031401:0004/pct:21.12269802529399,27.00486448922863,19.636121588639895,13.662265462126477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806031401:0004/pct:21.13748983063383,27.009497336113043,19.643517491309815,13.657632615242067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1087,7 +1087,7 @@ recited articles *ere f rind to ir.ipide the Btt*
 &#x27; whofe circumftaoces did not admit ol erect  
 I ing houfe» i by tbe faio regulations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806031701:0004/pct:3.7969372771134884,1.368550704803613,36.96245017830921,97.41343916792117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806031701:0004/pct:3.7969372771134884,1.3776743761689705,36.96944269631494,97.41343916792117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1140,7 +1140,7 @@ faid city of WalT.iiigf.cn previous to the fail
 Crlf day of Ji»nu»ry in the year one thoufaftd  
 tight hundr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806032801:0004/pct:59.68941382327209,16.76356589147287,18.591426071741033,24.72314507198228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806032801:0004/pct:59.68941382327209,16.76356589147287,18.606007582385534,24.72314507198228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1181,7 +1181,7 @@ i rctiv. rti v* the regulations Aforesaid ball be
 ! confi&#x27;e&#x27;er! as UwHdly creeled, extt{st that 1 ■■&gt;  
 \ wooden houfe covering note th.m three h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806040201:0004/pct:59.81814245507686,12.247340425531915,19.138341632387963,16.60904255319149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806040201:0004/pct:59.83257559356282,12.25177304964539,19.13112506314498,16.604609929078013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1227,7 +1227,7 @@ Given under my bund tbe twenty-fifth day
 of February ifco6,  
 TH-. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806040401:0001/pct:60.16892642809513,62.59416518285166,18.715270060013335,20.367073003698124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806040401:0001/pct:60.16892642809513,62.59416518285166,18.73008816774098,20.38533534219057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1290,7 +1290,7 @@ Given under my hand the twenty-hith day
 of February vSoo.  
 1H; JEFFSRSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806041601:0004/pct:78.91261281091789,1.6303603233319632,18.7541272287035,30.524729414988354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806041601:0004/pct:78.92728740186368,1.639493994611134,18.76146452417639,30.533863086267527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1353,7 +1353,7 @@ Given under my hand the tweuty-fifth day
 of Februa&gt;y 1806.  
 TH: TEFFERSOtf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806050501:0003/pct:79.34998894539022,66.0499792903493,18.549635197877514,31.54770122877261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806050501:0003/pct:79.34998894539022,66.05458143494869,18.557004937725697,31.54770122877261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1418,7 +1418,7 @@ day of March in the year one thoufand
 eight huneired and feven-  
 TH; JEFF.ERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807041501:0004/pct:59.239247892803114,65.50594018844735,19.062027231467475,31.899494742591834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807041501:0004/pct:59.25365607665154,65.50594018844735,19.062027231467475,31.913150348217943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1476,7 +1476,7 @@ r fee hundred r.r.el twenty tquar* Jbcc, or
 higher than twelve leet from the fill to the  
 eve, fhall be c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807042001:0004/pct:59.35875216637782,65.92714324842508,19.042461005199307,27.75951794029033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807042001:0004/pct:59.35875216637782,65.93170820779694,19.042461005199307,27.75495298091847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1587,7 +1587,7 @@ States on the 17th of October, 1791,
 for regulating the material and manner  
 of building improvements iti the city o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200291001:1880041501:0133/pct:6.485938687610844,70.26981450252951,16.898910564986064,4.738617200674536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200291001:1880041501:0133/pct:6.4922726121104635,70.26981450252951,16.911578413985307,4.755480607082631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

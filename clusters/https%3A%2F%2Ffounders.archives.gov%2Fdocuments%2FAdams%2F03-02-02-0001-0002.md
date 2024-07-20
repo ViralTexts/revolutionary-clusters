@@ -1014,7 +1014,7 @@ that rest, lest any man fall after the same example
 of unbelief.&quot; After an eloquent exposition of the  
 words of the text, in which the preacher showe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869112701:0714/pct:102.94748124330118,57.794117647058826,46.80242943908539,5.061274509803922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869112701:0714/pct:34.315827081100394,19.264705882352942,15.600809813028462,1.6870915032679739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1181,7 +1181,7 @@ Tennyson. “ I have,” he replied, “ and
 that just after the battle of Bull Run.  
 Tennyson came hastilv into the clu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025132:00279556690:1873011101:0441/pct:7.587511825922422,28.525506638714187,12.317880794701987,11.334730957372466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn85025132:00279556690:1873011101:0441/pct:7.596972563859981,28.525506638714187,12.317880794701987,11.341719077568134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1218,7 +1218,7 @@ Let us labor therefore to enter into
 that rest, lest any man fall after the  
 same example of-unbelieftofelt I1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:0020029628A:1875100801:0363/pct:24.63465553235908,58.96867202661492,33.08977035490605,11.228167452176324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:0020029628A:1875100801:0363/pct:8.212980685575083,19.65622400887164,11.031842700539412,3.7427224840587745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1314,7 +1314,7 @@ what doth the Lord require of thee, but
 to do justly, and to love mercy, and to  
 walk humbly with thy God ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184455:1881030201:0072/pct:44.418687589158345,72.1650746999755,16.99358059914408,9.772226304188097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184455:1881030201:0072/pct:44.410768407915846,72.1562385208767,16.996493730314377,9.775111219950206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1397,7 +1397,7 @@ great this man was, unto whom even the Patriarch
 Abraham gave the tenth of the spoils.” ‘‘The par  
 triarclis were heads of families. They were bot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173435:1884012501:0034/pct:35.525260625501204,25.147369591814037,14.322373696872495,2.7360694027360695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173435:1884012501:0034/pct:35.51956382296344,25.144572953736656,14.325422279238829,2.7394721233689205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1413,7 +1413,7 @@ triarclis were heads of families. They were bot
 “Let us labor therefore to enter into that rest, lest  
 anv man fall after the same example of unbelief.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173435:1884040401:0117/pct:48.91267982602877,74.57281882991965,14.804282368685179,0.8034400814756139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173435:1884040401:0117/pct:48.90449908011373,74.56438108169269,14.807381390422032,0.8071207663875688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1703,7 +1703,7 @@ Letters from Old Subscribers.
 A VISITOR FOB TWENTY YEABS.  
 I want to get into the great Advo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542866007:1894040501:0359/pct:78.95281456953643,36.46735990756788,13.803807947019868,6.903523974581167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542866007:1894040501:0359/pct:78.93647837781916,36.462093862815884,13.806124560314505,6.906137184115524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

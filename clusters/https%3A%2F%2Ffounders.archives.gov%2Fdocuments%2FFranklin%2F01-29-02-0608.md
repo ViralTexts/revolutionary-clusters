@@ -4216,7 +4216,7 @@ The stock holders of the line of Tele­
 graph from Lancaster to Columbus, are  
 requested to meet at the Telegraph office i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854122801:0470/pct:175.3558052434457,343.9868204283361,50.63670411985019,42.22954420647996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854122801:0470/pct:43.847162389960666,85.99670510708403,12.661547106199663,10.55738605161999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4434,7 +4434,7 @@ versary, nor to despair of final good for­
 tune, in every little check he receives in  
 the pursuit of it.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1859022201:0173/pct:72.82997282997283,17.282939386847648,27.413127413127413,84.36695530072548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769775:1859022201:0173/pct:69.18896889009645,16.41901656353059,26.06077072861477,80.16081817171231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4453,7 +4453,7 @@ censiders the consequences that may attend an action,&quot;
 board, or scene of action, the relation of the several  
 pieces and their situations, and the dangers they ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859052601:0177/pct:202.44633050424363,98.04872280037843,47.046097520386084,7.864238410596027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530625:1859052601:0177/pct:67.4821101680812,32.68290760012614,15.682032506795363,2.621412803532009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4473,7 +4473,7 @@ whole chess board, or scene of action, the re-­
 lation of the several pieces and their situations,  
 and the dangers they are exposed to, the ai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190637:1859052801:0501/pct:135.43354943273906,51.66531275385865,64.64748784440843,14.995938261575954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190637:1859052801:0501/pct:33.858387358184764,12.916328188464663,16.161871961102108,3.7489845653939886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4510,7 +4510,7 @@ vast variety of good and ill events that are
 in some degree the ellects of prudence, or  
 the wants of it.&quot; &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859111901:0279/pct:204.53790813503045,282.1628898362127,43.44216934144992,23.064841821853264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472074:1859111901:0279/pct:51.141552511415526,70.54072245905317,10.862045108620451,5.766210455463316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4631,7 +4631,7 @@ days of Franklin. So much for the anti­
 quity an 1 rtniv Tsality of the pnne; and  
 now a word as to its character. This gam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769337:1872071101:0412/pct:36.05413701688293,11.022561454708722,10.101855727640574,7.2623190032551355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769337:1872071101:0412/pct:36.05878796335054,11.030044524263854,10.10650667410818,7.266060538032701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4706,7 +4706,7 @@ scarch of resources. The game is so full of events,
 there is such a variety of turns in it, the fortune of  
 it is so sudden to vicissitudes, and one so frequentl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1875092401:0369/pct:296.5981573352232,295.8268933539413,38.90857547838412,72.9005667181865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1875092401:0369/pct:74.18897358624358,73.95672333848532,9.732316965077114,18.225141679546624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4742,7 +4742,7 @@ presant anetess of his adversare, nor to daspair or
 Inat sood tortune, apon every little chest he re  
 selves in the purculs orit.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1875092401:0369/pct:256.4138908575478,368.52138073158164,78.95109851169383,17.722823286965482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1875092401:0369/pct:64.13756426165574,92.13034518289541,19.74827158305265,4.430705821741371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4792,7 +4792,7 @@ course of human life, are to be acquired, or
 trengthened by it, so as to become habits,  
 ready on all occasions.&quot; &quot;By playin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022473:00280777936:1877051501:0459/pct:126.19240097008893,117.16176696937048,47.53435731608731,13.113744805294752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022473:00280777936:1877051501:0459/pct:31.567239635995957,29.29044174234262,11.890798786653185,3.278436201323688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4861,7 +4861,7 @@ there is a vast variety of good and ill events,
 that arc, in some degree, tho effects of pru­  
 dence or tho Want of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558639:1880110401:0686/pct:82.42363545317977,39.59966236585072,15.656818561175095,3.6898589171590497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558639:1880110401:0686/pct:82.42919935458744,39.60770127416697,15.65125465976743,3.693878371317175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4881,7 +4881,7 @@ there is a vast variety of good and ill events,
 that aie, in sonic degree, tho effects of pru­  
 dence or the want of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558639:1880110402:0690/pct:81.79290037624735,39.056875449964004,15.589726811712744,3.67170626349892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026912:00294558639:1880110402:0690/pct:81.79290037624735,39.0648748100152,15.60063253176291,3.667706583473322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4904,7 +4904,7 @@ there is a vast variety of good and ill events,
 that are, in some degree, the effects of pru­  
 dence or the want of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:0051717340A:1880111201:0348/pct:35.24454725710509,71.7610891523935,14.788499669530733,6.3350900307422044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:0051717340A:1880111201:0348/pct:35.23872459937221,71.75321110989131,14.791563412082164,6.338053939327406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4925,7 +4925,7 @@ riety of good and ill events, that arc,
 ju some ih giee, the effects ol prudence  
 P4* the want ol it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067822:00294558780:1880121001:0470/pct:3.1721798134011876,65.26157320286038,15.810008481764207,4.767281395057082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067822:00294558780:1880121001:0470/pct:3.1721798134011876,65.2657550286455,15.815662991235511,4.77146322084222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5253,7 +5253,7 @@ or the want of it.
 We are prepared to furnish  
 blank chess diagrams, size doubl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_boone_ver01:data:sn89066097:00211109749:1889061401:0308/pct:15.476190476190476,55.66153426897397,15.904017857142858,14.784030521869465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_boone_ver01:data:sn89066097:00211109749:1889061401:0308/pct:11.609302325581396,41.74955716037607,11.944186046511629,11.09142935004769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -266,7 +266,7 @@ Still something to each joy is wanting,
 While thy affection can, to me,  
 Make the most dreary scene enchanting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530443:1854071801:0531/pct:5.070377479206654,55.69815805109923,47.152911068458096,172.0736779560309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530443:1854071801:0531/pct:1.6901258264022179,18.56605268369974,15.717637022819364,57.3578926520103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ still something to each joy is wanting,
 While thy affection can, to me,  
 Make the mos, dreary scene enchanting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776361:1854072801:0259/pct:122.96983758700696,103.58044867033131,39.59783449342614,174.35745060169364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776361:1854072801:0259/pct:30.754352030947775,25.895112167582827,9.903288201160542,43.58936265042341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ Still something to each joy is wanting,
 While thy affection can, to me,  
 Make the most dreary scene enchanting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1863061701:0055/pct:36.14347026364194,34.45758872388623,13.381361128142244,70.40020135917443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1863061701:0055/pct:27.119423578108233,25.84948401711553,10.04139199754714,52.793858545179965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -769,7 +769,7 @@ Sgill something toeach joy is wanting ;
 While thy dear presence can to me  
 Make ibemost dreary scene enchanting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:0029602868A:1866012301:0202/pct:18.048930604708417,26.629114203666887,13.894445299276812,55.16898608349901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:0029602868A:1866012301:0202/pct:18.05405959891265,26.629114203666887,13.909832281889521,55.17266769751859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1011,7 +1011,7 @@ Thrice round the head with mystic ditty,
 And forthwith on the carpet hurled,  
 Foretells her future lord to Kitty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874051601:0633/pct:209.95962314939436,247.03974047039742,34.85868102288021,8.318850654617078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874051601:0633/pct:69.98654104979812,82.34658015679913,11.619560340960073,2.772950218205693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

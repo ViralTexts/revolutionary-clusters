@@ -257,7 +257,7 @@ fortuisht. The nerrors have a wonderfu ant of communl
 estingintelligence among themeelyes. It will run seyeral  
 ds of miiles in the course of a week or fortnight
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862100701:0269/pct:101.44544332804513,277.6511397423191,49.49762030671602,10.777998017839446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862100701:0269/pct:33.81514777601504,92.55037991410637,16.499206768905342,3.5926660059464814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ SLAVES ENCOURAGED—MASTERS IMSCOCR­
 AOED.  
 From such an appeal, two things must en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525152:1862101101:0370/pct:16.62356852604359,86.47798742138365,12.35685260435907,5.291222313371616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525152:1862101101:0370/pct:16.62049861495845,86.46616541353383,12.359187442289935,5.293916609706083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ righteousness, quietness ar.d assurance
   
 for ever! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:0041418439A:1865122101:0083/pct:55.744572806906184,12.087809434843532,15.805509711819221,83.23213451658104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:0041418439A:1865122101:0083/pct:55.737496826605735,12.086680366149823,15.807734619615808,83.22747369076531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ work of righteousness is peace and the effect
 of righteousness, quietness and assurance  
 forever (Isa. xxxii., 17). “He that hath th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685191:1896092601:0316/pct:60.14709262238566,88.16421378776143,16.4789703516433,1.9829589465530597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685191:1896092601:0316/pct:60.13327205882353,88.15055762081785,16.48092830882353,1.9865241635687731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ eousness is peace, and the effect of
 righteousness, quietness and assur­  
 ance forever.” His name shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1897010201:0935/pct:30.840579710144926,71.31018716959565,12.521739130434783,2.4003429061294472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1897010201:0935/pct:30.834621329211746,71.3,12.524149922720246,2.4035714285714285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

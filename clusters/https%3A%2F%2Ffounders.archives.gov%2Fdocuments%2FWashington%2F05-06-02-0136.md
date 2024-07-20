@@ -52,7 +52,7 @@ serving Brother.—My best wishes, Gentlemen,
   
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790091101:0004/pct:38.656527249683144,2.9918763621953635,27.75665399239544,90.33088963740836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790091101:0004/pct:38.656527249683144,2.9968297998811173,27.772496831432193,90.33088963740836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ he interests of the order, and to be considered
 pv them a deserving brother ” And the beloved  
 ind excellent Lafayette, the friend of our coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827120701:0410/pct:25.410958904109588,78.57483886369062,17.996575342465754,4.404392456433516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827120701:0410/pct:25.406608457455913,78.56546127222819,17.99920105004851,4.407845009348769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ and public prosperity, I shall always be happy
 to advance the interests of the society, and to  
 be considered by them as a deserving brother.”-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829030401:0769/pct:23.831130400473466,40.653943306202635,19.313474057999606,3.985405557114791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829030401:0769/pct:18.469065334828255,31.513503715787564,14.97808582203649,3.085009969186152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ Yshall always be happy to advance the in
 “torestg of the society, and to be considered  
 “by them as a deserving brother.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829042301:0273/pct:9.579613095238095,40.65268065268065,17.22470238095238,3.9393939393939394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829042301:0273/pct:9.579613095238095,40.656565656565654,17.22470238095238,3.9432789432789432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ ty, I shall always be happy to advance the
 inteiests of the society, and be considered  
 by them a deserving brother.&quot; To th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852111701:0221/pct:30.887491264849757,32.329084588644264,13.64430468204053,13.340092699884124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852111701:0221/pct:30.89622641509434,32.3327056778679,13.63993710691824,13.347334878331402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ public prosperity, 1 shall always be happy to advance
 the interests of the society, and be considered  
 by them a deserving brother.&quot;&#x27; To th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852112301:0201/pct:39.59409594095941,24.16686645888276,20.387453874538746,4.159673939103333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852112301:0201/pct:39.59409594095941,24.16686645888276,20.393603936039362,4.171661472069048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ vance the interests id&#x27; tne society aud to
 be considered by thtin as a deserving  
 Brother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1852112501:0663/pct:29.590825428288262,88.2243195785777,12.544244655245647,4.499561018437226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1852112501:0663/pct:29.600264288074,88.23163593795728,12.544244655245647,4.49590283874744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ public prosperity, I fihill always be happy to advance
 the interests of the society and be considered by  
 them a deserving brother;—George Washington,*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110156:1866122301:0003/pct:43.01604668125456,62.213347075496,11.925601750547045,1.6748260757536717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print00211110156:1866122301:0003/pct:43.02972283005106,62.21978871424891,11.911925601750546,1.6748260757536717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ and public prosperity, I shall always be happy to ad­
 vance the interests of the Society, and to be consid­  
 ered by them a deserving brother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1868111501:0003/pct:19.494184973232418,44.83382904435536,12.128484400959941,2.444070865123497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1868111501:0003/pct:19.494184973232418,44.843527738264584,12.14232970278752,2.444070865123497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -741,7 +741,7 @@ I shall always be happy to advance tho interests
 of the society, and be considered by them a de­  
 servingbrother.” And again to the Grand Lodg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110211:1874101801:0003/pct:44.801512287334596,68.88712661908538,12.438563327032137,2.590536611155168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110211:1874101801:0003/pct:44.810964083175804,68.89043087496695,12.438563327032137,2.590536611155168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -761,7 +761,7 @@ vate virtue and public prosperity, I shall al­
 ways be happy to advance the interests of the  
 society and be considered a deserving brother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958228:1880032101:0003/pct:56.475544971606524,52.116129032258065,12.016852903462173,2.1161290322580646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958228:1880032101:0003/pct:56.489283751602855,52.119354838709675,12.01227331013006,2.1225806451612903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ always be happy to advance the interests of tho
 society and to be considered a deserving  
 brother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958265:1883110401:0003/pct:43.83187772925764,20.46678635547576,11.917758369723435,3.4880738650936136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958265:1883110401:0003/pct:43.840975254730715,20.47640420620672,11.926855895196507,3.4848679148499615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -808,7 +808,7 @@ ing brother.&quot;
 A man hopelessly lost in the bush in South  
 Australia, after wandering about for four days
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870333:1889050201:0024/pct:68.14459522695367,50.817569733889066,18.097800655124004,4.753126001923693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870333:1889050201:0024/pct:51.11735111735112,38.1131773004168,13.583713583713584,3.5668483488297533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -830,7 +830,7 @@ shall always bo happy to advance the in­
 terest of the Society and to be consider­  
 ed by them aa a deserving brother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193547:1889050201:0424/pct:12.90978973547366,39.856189008731384,10.829753560931495,3.852080123266564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193547:1889050201:0424/pct:12.91544200768709,39.856189008731384,10.841058105358353,3.8563602122924157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ shall be happy to advance the interests
 cf the society and to be considered by  
 them as a deserving brother,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550080:1889050801:0255/pct:59.62001605565962,89.55743879472693,13.928284720363928,4.868173258003766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550080:1889050801:0255/pct:59.62893586655963,89.56371625863152,13.928284720363928,4.865034526051475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -918,7 +918,7 @@ happy to advance the interest of the
 society and to he considered by them  
 as a deserving brother.— E-e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187304:1889051501:0753/pct:6.1715160796324655,74.14340821420467,12.741194486983154,4.458815520762424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187304:1889051501:0753/pct:6.170571122339611,74.13499716392512,12.744347471035574,4.462091132539232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -941,7 +941,7 @@ the interest of the society and to be
 considered by them as a deserving  
 brother.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn86076200:00279554115:1889052501:0292/pct:29.657293497363796,79.1980705456738,12.939367311072056,5.1703346397347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn86076200:00279554115:1889052501:0292/pct:29.650779705688556,79.18613413715147,12.942016253019986,5.173323285606632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -963,7 +963,7 @@ shall always be happy to advance the
 interest of the society and to be con­  
 sidered by them as a deserving brother.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:0041562508A:1889062101:0319/pct:30.946930280957336,18.335192414947016,18.10613943808533,6.09313998884551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:0041562508A:1889062101:0319/pct:24.76275043010156,14.668153931957614,14.490260280814695,4.88194831753114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -987,7 +987,7 @@ bro&#x27;her Mr best wishes, gentlemen, are i
 nffprod for vour individual happiness.  
 GEORGE WASHINGTON.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186877:1896092701:0772/pct:29.76209232708366,87.3326248671626,13.84906254923586,4.899043570669501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186877:1896092701:0772/pct:29.75740390674228,87.32334502178303,13.852131905061961,4.902064959444622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -36,7 +36,7 @@ message the 5th instahL, the translation of
 ♦hem ng then completed. 4  
 \ JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811111101:0368/pct:59.6688132474701,84.98740554156171,17.460901563937444,4.760705289672544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811111101:0368/pct:59.65783664459161,84.97670318599673,17.463821437331372,4.764303404273181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -57,7 +57,7 @@ companying my message of the 4th inst. the trans­
 lations of them not being then completed. -:  
 James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811111301:0828/pct:48.58269657382302,77.06743002544529,21.000739462657137,4.198473282442748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811111301:0828/pct:48.570724494825036,77.05517570360948,21.00172498767866,4.201780887263476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ companying my message of the fifth instant ; the
 ttanllaiion of them being not then completed.  
 W- JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811112001:0840/pct:5.660841742554762,20.768249920306026,20.723603248830912,4.494740197641058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811112001:0840/pct:5.659448818897638,20.764940239043824,20.724655511811022,4.49800796812749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ the fifth instant; the translation of them be­
 ing not then completed.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811112301:0438/pct:8.907758907758907,17.29109454688113,21.645021645021647,5.355041192624559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811112301:0438/pct:8.906276011320127,17.289398842796903,21.64696742689085,5.357784969435455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ cnmpnnyiiig my message nt the 5th inst. the transla­
 tion of them being not then c.nnph »etl  
 JA .MKS MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811120301:0231/pct:59.33902710731526,75.68400295785062,17.768288154474565,3.2536356913975846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811120301:0231/pct:59.32801188045294,75.6746765249538,17.771177526143184,3.257342370096529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

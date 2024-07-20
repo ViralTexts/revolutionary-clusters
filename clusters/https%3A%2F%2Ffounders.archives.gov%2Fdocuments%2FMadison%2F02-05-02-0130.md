@@ -39,7 +39,7 @@ be capable of being registered, by virtue of
 any transfer to a citizen or citizsns, which  
 ma&#x27; hereafter be made, unless by way o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793012301:0001/pct:49.36220706021952,28.291682208131295,19.519430436072383,8.914584110406565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793012301:0001/pct:49.36962325719371,28.305669526296157,19.519430436072383,8.919246549794853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -63,7 +63,7 @@ reign country, in the capacity of a consul of
 the United States, or as an agent for, and a  
 partner in, a house or co-partnership, confid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793012301:0001/pct:50.370809848709584,77.19134651249534,19.578760011865914,6.322267810518463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793012301:0001/pct:50.385642242657966,77.2053338306602,19.586176208840108,6.322267810518463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ an effort of the Marshal to arrest him on a bench
 warrant of tbe Circuit Court.  
 THE EIGHT HOUR LAW
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872041901:0002/pct:25.891181988742964,84.3977711101586,11.388367729831144,4.9864266323760535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872041901:0002/pct:25.905253283302063,84.40848692670382,11.393058161350844,4.9792827546792395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ and an agent for and partner in a house of trade or
 copartnership consisting of citizens of the United  
 States, actually carrying on trade in this country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872041901:0262/pct:60.197955541132565,151.69241253975466,46.032776245335064,9.302589731940028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872041901:0262/pct:20.06598518037752,50.56413751325155,15.344258748445021,3.100863243980009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -104,7 +104,7 @@ government itself, through the channel* of party passion.
 I&#x27;Uus ilio policy and w ll of one oountry are subjected to  
 tb) policy and will of another.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850031601:0344/pct:63.379830046496714,62.00604077523282,15.536315536315536,2.932292977598792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850031601:0344/pct:63.3905189460745,62.014430740833966,15.536315536315536,2.9364879603993623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ the channels of party passions. Thus the policy t|
 and will of one country are subjected to the  
 policy and will of another.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851042901:0420/pct:4.745352878948164,37.566892615055295,14.024482393834063,5.755737899869188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851042901:0420/pct:4.745352878948164,37.574820628691484,14.039594982620523,5.755737899869188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ the channel* of party passions. Thus the policy i
 ar,d will of one country arc subjected to the  
 policy and will of another.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851043001:0090/pct:3.6658999424956873,37.00769831529622,14.90799309948246,5.72353006805757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851043001:0090/pct:3.6658999424956873,37.01513630108966,14.912785125551084,5.719811075160846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ I was appointed one of the delegates to the con­
 vention which nominated Gov. Johnson. I did not  
 attend, but looked to the action of that body wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86071224:00212470053:1855073101:0102/pct:127.17391304347827,163.99181632189135,49.71395881006865,16.094566947033417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86071224:00212470053:1855073101:0102/pct:31.802575107296136,40.99795408047284,12.432045779685264,4.023641736758354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ and insurrection.” lie says “ it opens the door
 a facilitated access to the government itself,  
 through the channels of party passions.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1856060301:0406/pct:0.8616047388260636,43.0752453653217,11.147011308562197,3.132745117477942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1856060301:0406/pct:0.8614887602638309,43.07097541633624,11.148876026383093,3.1349127676447264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ the number of foreigners within the United States,
 would equal the majority for a chief magistrate?  
 But it is so! They hold the balance of power i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470077:1856110101:0425/pct:179.33600457927875,163.07979661720452,48.88380080137378,18.262944899865104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470077:1856110101:0425/pct:44.85325697924123,40.76994915430113,12.22619899785254,4.565736224966276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ alarms kindles the animosity of
 one part against another foments  
 occasional riot and insurrection
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edsel_ver01:data:sn85025567:00212472244:1877072501:0242/pct:10.627940937854941,8.358024691358025,13.694629239006977,5.209876543209877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edsel_ver01:data:sn85025567:00212472244:1877072501:0242/pct:10.627940937854941,8.366255144032921,13.710855103034236,5.205761316872428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ policy and will of another.&quot;
 Could language more truthfully describe our  
 condition?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1883032201:0496/pct:86.69628532642231,57.592876292608196,31.938788103171664,12.725009574875527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528402:1883032201:0496/pct:28.898761775474103,19.197625430869397,10.646262701057221,4.241669858291842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ Thus the policy and the will of one
 country are subjected to the policy and  
 will of another.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1883040501:1148/pct:201.61290322580646,174.94679233809669,44.31239388794567,37.51900273639404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1883040501:1148/pct:50.403225806451616,43.73669808452417,11.078098471986417,9.37975068409851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ channels of party passion. Thus (
 the policy and will of one country  
 is subjected to the will ot auoth-1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887091501:0164/pct:19.661532610762503,14.640365002683843,13.063320022818026,10.654857756307031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887091501:0164/pct:19.657794676806084,14.63840064403596,13.065589353612168,10.65678250368979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ one country are subjected to the policy and
 will of another.&quot; Washington.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473650:1894051101:0266/pct:31.460213289581624,79.21455938697318,21.021328958162428,10.560344827586206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473650:1894051101:0266/pct:20.993227990970656,52.81369731800766,14.016006566796635,7.040229885057471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -104,7 +104,7 @@ wonderful does it »p|&gt;ear to me. There are
 combustibles in every state, to which a spark  
 might set fire 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1832071201:0119/pct:69.3193294283983,10.229178311906093,16.56231064431428,4.4857462269424255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1832071201:0119/pct:69.30533117932148,10.227749056867403,16.56401453957997,4.48861254715663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ should employ his own personal influence for the
 restoration of order, he said- &quot;The picture which  
 you have exhibited, and the accounts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:108.68847043277172,17.060907324877157,47.50578130161877,29.58519026396983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:36.22949014425724,5.686969108292385,15.835260433872921,9.861730087989944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ ly within the reach of human ken tit this motnant to say
 when, where, or how it will terminate. There are com­  
 bustibles in every l^iate to which a spark might set fire. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:62.55986787778695,53.45639719923616,15.78860445912469,5.2959898154042016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:62.56537296999725,53.46064078081901,15.78860445912469,5.2959898154042016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ Writing to a friend who had made known to hitn that
 a wish existed in the disturbed district that he should  
 employ hisown personal influence for the le itoraiion o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:62.52683732452518,58.574156588160406,15.854665565648224,4.112030553787396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:62.52683732452518,58.58264375132612,15.865675750068814,4.112030553787396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ tul does ii appear lo me. In this, as in most other
 matters, we are too slow. When ihisspiiit first  
 diwned it iiitahi have been easily checked ; but i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:25.89659294680215,77.18843210997277,17.1249252839211,8.299831409674491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:19.42908384396951,57.89132408247958,12.853086235241369,6.237842043833485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ whether he wouid not have preferred such an exit
 to the venes which it is more than probable many  
 of hi- compatriois may live lo bemoan.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:25.672444710101615,85.55310595253533,17.468619246861923,6.043314745169239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0060/pct:19.26468390375131,64.16807158604591,13.107158870124048,4.538970302165737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ I reflect upm the present pr.wpoct of our af­
 fairs, it seems to me to be like tho vision of  
 a dream.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1858071601:0743/pct:70.40406177279458,11.480229310598265,12.968055849375926,4.9977950904012935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1858071601:0743/pct:70.3891708967851,11.47854203409759,12.97060067681895,5.000734861845973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ you that even at this moment, when I reflect
 upon the present prospect of our affairs, it  
 seems to me to be like a vision or a dream
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861020701:0004/pct:56.6679188580015,87.21134171294943,9.917355371900827,3.4200526161940954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861020701:0004/pct:56.68200601051841,87.21134171294943,9.912659654395192,3.43466822566501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ it seems to me to be like a vision or a
 dream. After what I have  
 seen, or rathor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1861021401:0330/pct:121.83406113537117,166.7656491269747,37.06938379427462,17.757453379261197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1861021401:0330/pct:40.61135371179039,55.588549708991565,12.356461264758208,5.919151126420398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ on the present prospect of our affairs, it
 n, i dable rebellion as exists nt this day  
 nr iint the laws and Connti t util ii of onr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1861021401:0864/pct:27.185792349726775,108.33224329627207,16.256830601092897,11.96860693263571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1861021401:0864/pct:20.392826643894107,81.25572269457162,12.19470538001708,8.973185088293002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ this momentj&quot;.when, I reflect upon the-
 present prospect of our affairs, it seems  
 to me&quot; to be like a vision of a dream
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1861022101:0603/pct:121.08369098712447,94.19152276295134,18.910944206008583,8.205128205128204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1861022101:0603/pct:80.73775989268947,62.79434850863422,12.608987256874581,5.473574045002616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ what 1 have seen, or, rather, what I have heard,
 shall be surprised at nothing for if, three  
 years sinbe, any person had told me that ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861030201:0032/pct:23.584491587417702,74.58346945442666,11.104608632040966,4.8132418599586195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861030201:0032/pct:23.59424530602292,74.59072924607064,11.104608632040966,4.816871755780609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ when I rellect upon the present prospect
 of our affairs, it seems to me to be like a  
 vision of a dream.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861030201:0602/pct:280.1795580110497,268.9956331877729,50.34530386740332,20.801905518062725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861030201:0602/pct:70.04488950276243,67.24890829694323,12.58632596685083,5.200476379515681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ vision of a dream.
 nitely more than I can express to you, for  
  the disorders which have arisen in these
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861030401:0353/pct:61.65507649513213,188.81318010780026,43.60222531293463,3.1831587511441066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861030401:0353/pct:20.55169216504404,62.93772670260009,14.534075104311544,1.0610529170480356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ prospect of our affairs, it seems to me like a
 vision of a dream. After  
 what I have seen, on ater what  ae eardo e eei i e  ao o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861030401:0353/pct:62.5452016689847,184.236753788264,87.96940194714882,18.773517746364284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861030401:0353/pct:20.848400556328233,61.41225126275467,29.323133982382938,6.257839248788095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ After what I have
 seen or rather what I have heard, I shall be  
 surprised at nothing, for if three years sinc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1861032601:0838/pct:248.2589771490751,74.8892638683822,38.316104461371054,21.925754060324827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1861032601:0838/pct:82.75299238302503,24.9630879561274,12.77203482045702,7.3085846867749416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ what I have seen, or rather what I have heard.
 I shall be surprised at nothing; for if three  
 years since any person had told me that ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1861103001:0597/pct:255.22189349112426,261.2667091024825,38.34319526627219,16.422660725652452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1861103001:0597/pct:85.09914175791654,87.08890303416084,12.7848475880438,5.47422024188415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ ly checked but it is scarcely within reach of
 human ken, at thia moment, to aay when, where  
 or how it will terminate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861111601:0179/pct:25.032861107054185,24.29341251512152,11.187381334891192,5.960629055317277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1861111601:0179/pct:25.03772941921036,24.300744162176034,11.197117959203544,5.964294878844532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ it is more than probable, many of his compa­
 triots may live to bemoan.&quot;  
 In another letter to CoL Humphries, speak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191502:1889050101:0164/pct:58.099945085118065,40.364092906465785,16.350906095551895,6.86336053567692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191502:1889050101:0164/pct:43.58094191953865,30.278300899769825,12.275161334614857,5.14752040175769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -861,7 +861,7 @@ it by an analogy in the political form
 of the three governments?that is to say, by  
 the enjoyment of civil liberty wisely conceived,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852032901:0320/pct:58.324528301886794,47.63237695358059,16.10566037735849,5.6566363424306045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852032901:0320/pct:58.32955974842767,47.64015239872483,16.110691823899373,5.652748619858487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +887,7 @@ it by an analogy in the political forrr.
 of the three governments?thnt is to say, by  
 the enjoyment of civil liberty wsely conceived,&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0385/pct:58.88418079096045,46.60053499777084,15.240112994350282,5.662059741417744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0385/pct:58.88418079096045,46.60425026006836,15.24482109227872,5.66949026601278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ for us what the Hollanders have for a long
 time been tor the Netherland Fowers that  
 ts to say, carriers. From that period, as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039788:1880031001:0599/pct:9.579990561585653,256.1946902654867,45.74484819883593,11.322895393691853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039788:1880031001:0599/pct:3.193330187195218,85.39823008849558,15.24828273294531,3.7742984645639512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

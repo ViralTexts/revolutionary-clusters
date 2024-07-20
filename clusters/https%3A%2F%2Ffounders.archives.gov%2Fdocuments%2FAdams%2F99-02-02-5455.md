@@ -232,7 +232,7 @@ cases, involving important principles. Some of the police re
 &quot;One good deed dying tongueless.  
 Slaughters a thousand waiting upon tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840072401:0050/pct:33.36127409891031,330.8482205654804,46.60519698239732,4.107469404979604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840072401:0050/pct:8.340318524727577,82.7120551413701,11.65129924559933,1.026867351244901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ ilt is a witnons still of Excellency.
 To put a strange face on his own perfection.&quot;  
 But I undertake to say that, if the opinion of the lat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846042401:0490/pct:144.3465247755238,124.41740328320515,46.225473894246754,4.408219492595569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846042401:0490/pct:48.11550825850792,41.47246776106838,15.408491298082252,1.4694064975318564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ For
 &quot;One good deed dying tongueless  
 Slaughters a thousand waiting on that.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1872071201:1183/pct:226.84791843670348,148.76741693461952,70.00849617672047,10.986066452304394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1872071201:1183/pct:56.72402804333971,37.19185423365488,17.50584236243892,2.7465166130760985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ Slaughters a thousand waiting on tbat.
 &quot;One good deed dying tongueless  
 Slaughters a thousand waiting on that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872071801:0352/pct:269.1588785046729,360.568669527897,35.981308411214954,2.8969957081545066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872071801:0352/pct:67.31593299571485,90.14216738197425,8.998831320607714,0.7242489270386266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ One good deed dying tongueless,
 Slaughters a thousand waiting upon that.  
 Our praises are our wages
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:00175037093:1899111701:0331/pct:101.31280388978931,7.479102507699076,96.90437601296597,284.469863616366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:00175037093:1899111701:0331/pct:33.77093462992977,2.4930341692330256,32.30145867098865,94.82328787212201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

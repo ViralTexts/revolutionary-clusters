@@ -208,7 +208,7 @@ three heads, had its B&#x27;rrlh und growth in
 the blood of thousands and thousands of  
 martyrs. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834080601:0126/pct:3.7825059101654848,39.420404922588325,15.36643026004728,2.9376736800317587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834080601:0126/pct:3.7825059101654848,39.429226765471306,15.378553676426018,2.9376736800317587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ pect that the present generation will see
 Unitarianism become the general religion  
 of the United Stales.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1847012701:0690/pct:43.861654994997856,45.13737461840384,12.648277833357152,4.186655037069341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1847012701:0690/pct:43.8664189414511,45.13737461840384,12.648277833357152,4.190289286233464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ ject of Unitarian ism, and to express my grati
 fication with your efforts for the revival of  
 primitive Christianity in your quarter. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1847040301:0558/pct:64.93174061433447,46.4346062859074,19.83788395904437,3.954038526529233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1847040301:0558/pct:48.71284312331105,34.83158724794413,14.876973403498791,2.9627126281401375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ and to express my gratification with your efforts
 for the^evival of primitive Christianity in youi  
 quarter. I confidently expect that the presen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215786:1847050301:0578/pct:7.505832234506542,80.1640361155145,15.042093518612436,2.6604176717899235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215786:1847050301:0578/pct:7.505070993914807,80.15851137146795,15.04394861392833,2.6625315874109807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ Slates!”
 MADISON.  
 Mr. Madison was of small stature and rath
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847052001:0079/pct:41.97855933797254,28.182446440912233,13.14651119052097,5.031098825155494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348999:1847052001:0079/pct:41.97066566378338,28.178551686014373,13.148740127867619,5.033858485351023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

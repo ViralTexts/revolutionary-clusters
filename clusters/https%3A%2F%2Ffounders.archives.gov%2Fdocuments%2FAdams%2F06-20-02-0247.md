@@ -80,7 +80,7 @@ King, Lords and Commons; and
 its HI re loft by a ftrife an  
 three powers, foberly intended to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802091101:0001/pct:25.996566851039482,66.01222207775322,16.15487316421896,22.246781952931997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802091101:0001/pct:26.00928221755992,66.01222207775322,16.161230847479178,22.259784163307764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ anite their codavors to removate the age by
 ‘inculeating in the minds of youth the fear and  
 love of the Deity, and univerjal philantbropy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803021201:0273/pct:54.35801312089972,10.188765067091198,19.92502343017807,2.1833068000909712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803021201:0273/pct:54.370509215870044,10.188765067091198,19.92502343017807,2.1870972632855734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ vate theage by inculcating in the minds of
 youth the fear and love of the Deity, and  
 - umiverfal philanthrophy,” Why my dea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803021501:0231/pct:56.251910730663404,92.54805322819122,16.75328645674106,3.065549531789059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803021501:0231/pct:56.257006012432484,92.54805322819122,16.75328645674106,3.075406604238541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ leopard shall lie down with ti.e kid: &#x27;
 and the calf and the young linn and 1  
 the falling together: and a little iliil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1828082701:0787/pct:45.4529083378354,8.047462406015038,18.134341797226725,13.639567669172932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1828082701:0787/pct:45.45891109910559,8.047462406015038,18.134341797226725,13.647399749373433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ need of civil government, indulge me in the fancy
 that it will be in the republican form or something  
 better.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841110901:0950/pct:136.2638851259821,25.768476128188357,39.39311839609862,92.91475910180947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841110901:0950/pct:45.4151428958418,8.588555858310627,13.129260914713983,30.96821071752952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +940,7 @@ age, by impressing the minds of the peo
 pie with the importance of educating  
 their little boy, an girl*.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528906:1874012301:0189/pct:34.08364798141156,63.083257090576396,9.8605866976474,2.618938700823422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528906:1874012301:0189/pct:34.0933294607416,63.0870692284233,9.85090521831736,2.6303751143641354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

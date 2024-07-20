@@ -225,7 +225,7 @@ the w hole succeeding part of Ihe sentence
 istoulraiy to Ihe rules of Syntax. The  
 proposition with never governs the wor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819122101:0267/pct:33.543463835434636,50.94703824345518,14.781021897810218,9.844372059355774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819122101:0267/pct:33.537900149278485,50.94089264173703,14.784099076684912,9.847205468435867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ Admiralty, Secretary, and the Attorney General,
 to be commissioned by the Governor and continue  
 in office during good behaviour.” To rny mind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828030101:0406/pct:64.80735128163792,70.18287513624803,15.23456392068354,3.9602761293447983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828030101:0406/pct:64.79690522243713,70.17437636231533,15.237481194928003,3.9638330507790425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ in office during good behaviour.” To rny mind
 [ ministration, corruption, or any other means by  
 which the safety of the State may be endange
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829041701:0463/pct:80.07749434937035,47.463373289744524,15.967064901517597,1.1260443152924082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829041701:0463/pct:80.06456820016142,47.45762711864407,15.969868173258003,1.1299435028248588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ in the administration of Government. They 6hail annually i
 in case ot the death, inability, or necessary absence of the  
 Governor from the Government, shall act as Governor The 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829102201:0313/pct:22.559823677581864,70.88622899286665,17.85264483627204,2.309273364768468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829102201:0313/pct:22.556272627105304,70.87765957446808,17.85508158875072,2.3130238555770473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ Which st all be made under the sirtborpy ot lb.
 l/int-d States, »nd forever thereafter, by such  
 enumeration* thereof, as tho general assembl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829102901:0182/pct:9.306333476949591,20.425768749130373,17.729426971133133,7.110059830249061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829102901:0182/pct:9.304329097566228,20.422927100723427,17.730992892526384,7.112548692264886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ ner and under the same restrictions.
 (hi the motion of Mr Firvit till, the question was divided.  
 The question on sinking out the resolution was negatived
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829121401:1287/pct:6.667707682698314,72.47386759581882,17.051842598376016,9.419680403700589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829121401:1287/pct:6.666666666666667,72.46516098029794,17.0543845953682,9.422553259650808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ choose out of their own body a President, who, in ease
 of the death, inability or necessary absence of &#x27;he Gov  
 vrnor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121501:0201/pct:4.059953434225844,20.755787562414888,14.639115250291036,8.136631865637767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121501:0201/pct:4.05936272370144,20.75343242936571,14.641835200543188,8.139490903589394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ Mr. FitzWcuk called for a division of the question;
 and it was divided accordingly. Whereupon, the ques­  
 tion being put on striking out, it was decided in the neg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121501:0201/pct:4.10360884749709,33.579210167952795,14.59545983701979,5.957784838856106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121501:0201/pct:4.1030117852466175,33.575399977306255,14.598186138998011,5.960891107833126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ tion : it was accordingly divided, whereupon
 the question boiug on striking out, it was decid­  
 ed in the negative-; ayes 34 noes f&gt;8
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1829122501:0117/pct:3.27009100724973,23.09993352537115,14.823384235693352,29.304232218036784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1829122501:0117/pct:3.269586674892042,23.097374543037553,14.826238947151964,29.30467855692183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ vernorfrom the eovernment, shall dischirge the duties
 of Governor. The Governor shall be Piesi&#x27;ent of the  
 Council, and shall in all cases of division have the cast
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011401:0244/pct:51.41433387073135,39.81353591160221,14.861497874835116,4.1321362799263355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011401:0244/pct:51.406799531066824,39.808953849695015,14.8642047674873,4.1354969885295585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ Delegates, or the law shall otherwise particular­
 ly direct ; to conduct, either in prison, or in  
 such manner ns shall he prescribed by law, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:64.57204767063922,84.74302834754552,14.270236805448073,2.466005992164093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:64.56205509130301,84.7332642009448,14.27318683586093,2.469562545608173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ such manner ns shall he prescribed by law, al
 S“V*,of ^ or.the law shall otherwise particularly  
 lircct, to conduct, cither io jrerson, or so such manner as .hai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021601:0162/pct:80.0,25.50279662025467,18.192182410423452,1.511364988694514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021601:0162/pct:79.98697280573197,25.499762018086624,18.19464799435488,1.5151515151515151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ council shall appoint their own clerk, who shall take an oath to
 keop secret such matters as he shall be ordered by the Board to  
 conceal. The Senior Councillor shall be Lieuteuaiit Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:78.81149537262543,35.75074183976261,18.022406234778373,2.836795252225519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:78.7987012987013,35.746498931877525,18.024891774891774,2.8404145897618482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -643,7 +643,7 @@ cept vvlierc tlio prosecution shall have been carried on b* the
 I louse of Delegates, flr the law shall otherwise particularly  
 direct; to conduct, cithei in person, or in such manher a* shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:79.15182907089672,26.329503730901337,18.209776626740044,1.3857633542579653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:79.13901925877974,26.326385599242066,18.21222420024815,1.3895468182535924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ shall tak** an oa;n to keep secret such matters
 h§ he shall be ordered by the board to conceal.  
 The .Spinor Councillor shall he Lieutenant Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830031101:0653/pct:68.37101204310163,15.698518733662503,15.31798013944644,4.5018878884693585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830031101:0653/pct:68.35656949725391,15.696239291418614,15.320025348542458,4.504864236968201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ i meet and be held accordingly; and he shall, if
 . necessary, by advice of the council, call them  
 before the time to which they shall in any man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016474:00296026402:1840041501:0022/pct:43.0192502532928,21.9838734215731,16.271529888551164,5.461737410619199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016474:00296026402:1840041501:0022/pct:43.0192502532928,21.994015923728384,16.29854778790949,5.461737410619199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ Lieutenant Governor.
 8 A Lieutenant Governor anal! be elected at the  
 fame time, and lor the same term, as the Governor: an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080101:0102/pct:18.783120706575072,19.89686291362269,14.582924435721296,2.950866638017476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080101:0102/pct:18.77943485086342,19.894013176740188,14.584968602825745,2.954024634775136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ Lieutenant Governor.
 S. A Lieutenant Governor shall be elected at  
 the lame time, and for the same term, as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080501:0312/pct:4.1381306067329025,40.19594219010561,12.829169480081026,3.2240133407448583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080501:0312/pct:4.137731481481482,40.19314944764816,12.831147119341564,3.2261052826605527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ Lientenant Governor,
 S. A Lieutenant Governor shall be clec­  
 ted at the same time, and for the same ter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0181/pct:58.76347135564379,208.96532280800676,45.471733787105315,13.208345080349591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0181/pct:14.688090737240076,52.233967582804794,11.36578449905482,3.3016208597603947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ Lieutenant Governor
 $. A Lieutenant Governor shall be elected at  
 the same lime, and for the same term, as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0337/pct:41.71494785631518,37.54390798264343,12.929702587871764,3.120049590192162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0337/pct:41.71092015062277,37.54132231404959,12.931672620771781,3.1221303948576677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ Lieutenant Governor.
 8. A Lieutenant Governor shall be sleeted at  
 the same time, and for the same term, as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:72.0103514028875,81.18725021931962,12.6259874693544,3.5188614874744126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:72.00054473648373,81.17933723196882,12.62880748104771,3.5217673814165043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -824,7 +824,7 @@ monwealth, a County Court, which shall beheld ,
 monthly, by not less than three, nor more than ]  
 I five Justices, except when the law shall requir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0335/pct:1.3227156161425293,62.462198809872206,14.725334053178567,6.82860208760121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0335/pct:1.3225371120107963,62.45610612563402,14.727845254161045,6.831187410586552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -846,7 +846,7 @@ LientENant GOrErNOR.
 S. A Lieutenant Governor shall be elected at the  
 same time and for the same term, as the Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:241.9789551412221,250.10585744530698,44.76647590917482,10.68454481298518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:60.483573274270945,62.51764041772509,11.189553340716131,2.670759243578888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ chosen biennially for and by the several counties, cities and
 ed as follows:  
 The counties of Augustnnud Rockingham and the city of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:18.25738459254861,3.6766140042910083,16.223838503785068,4.33976984591379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:18.25738459254861,3.679864768220532,16.23868190589283,4.3462713737728365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ Lieutenant Governor.
 3. A Lieutenant Governor shall be elected at the same  
 tltne, and for the same term, as the Governor, and his quali
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:50.55662757904112,47.45465184318315,15.89728365741428,2.5355958650282817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:50.55662757904112,47.461153371042194,15.89728365741428,2.532345101098758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -913,7 +913,7 @@ Lieutenant Governor
 8. A Lieutenant Governor shall be elected at  
 the saaie time, and for the same term, as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0416/pct:24.894469098387273,28.738960474880557,14.55785258144821,3.2213696250180974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0416/pct:24.89177489177489,28.736880202678247,14.55988455988456,3.223549282181204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -935,7 +935,7 @@ wealth of Virginia and be attested by the clerks of
 tb? several court*. Indictments shall conclude a­  
 gaiast the peace and dignity of the Common wealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851090401:0425/pct:71.11882046834346,87.1558505408063,12.905464006938422,3.1710914454277286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851090401:0425/pct:71.1064862989941,87.14513948629717,12.907561567811308,3.1737741182253902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -955,7 +955,7 @@ Llentenant GovErnOR.
 $A Leutenant Governor shall be elected at the same time, and  
 for the same erm as the Governor, and h&#x27;s qualifisation and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861120601:0536/pct:17.11985688729875,155.02739900598954,43.54203935599284,6.894354530393781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861120601:0536/pct:5.705598282954749,51.66921508664628,14.511417158528587,2.297825348284064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -981,7 +981,7 @@ nia, and he attested by the clerks of the several courls. Indict­
 ments shall conclude &quot;against the peass and dignity of the Com  
 monwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861120601:0536/pct:62.68336314847943,67.40155473429336,43.43470483005367,12.132024977698483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861120601:0536/pct:20.890717224110176,22.464322120285424,14.475645382459906,4.043493034318723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1008,7 +1008,7 @@ manner of his election in all respects shall be the sam
 inability to disch irge the powers and dudes of the office, the sald  
  office, with its comper sation, shall devolve upon the Leutenan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861121701:0570/pct:150.02688653880622,54.168797953964194,44.6495787775587,14.168797953964194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861121701:0570/pct:50.0,18.053957294463622,14.8805256869773,4.722328772961684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1030,7 +1030,7 @@ S.A Lieu tenant Governor shall be elected
 at the same time, and for the same terms as  
 the Governor, and his qualification and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861121701:0580/pct:166.52267818574515,55.468668543426126,36.94744420446364,9.206547805234074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861121701:0580/pct:55.50755939524838,18.489556181142042,12.315814734821215,3.0688492684113577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1052,7 +1052,7 @@ LIEUTENANT governor.
 8. A Lieutenant Governor shall be elected at the same  
 time, and for the same term as the Governor, and bi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0362/pct:82.90175666883539,71.04830122930984,12.66102797657775,2.719969025263769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0362/pct:82.9104315766645,71.04830122930984,12.66102797657775,2.7296486303358822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1084,7 +1084,7 @@ who may be&#x27;ong to the corporate body. The mayor, or other
 chief migistrate, the a&#x27;dermen in citles and towns having Hus  
 tings Courts, and members of the Council, or other legislativ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122701:0602/pct:192.0042268404368,169.85789080029917,42.44452271926735,18.411867364746946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122701:0602/pct:63.990139108998065,56.612239810544686,14.145682925397663,6.136524159707507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1104,7 +1104,7 @@ Lieutenant Gopernor.
 S. A Lleutenant Governor shall he elected at the same time, and  
 for the same term as the Governbr, and his quallfication and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861123101:0614/pct:146.03951739814653,230.278293135436,42.140234306696975,6.394557823129252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861123101:0614/pct:48.67132867132867,76.74993816472916,14.044289044289044,2.1312556682331603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1124,7 +1124,7 @@ Leutenant orernor.
 S. A Lleutenant Governor shall be elected at the same time, and  
 for the same term as the Governor, and his qualification and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010701:0027/pct:145.70815450643778,237.52561475409837,42.829041487839774,6.851946721311475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010701:0027/pct:48.56070087609512,79.1650659495454,14.273794624232671,2.2836897596790027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1146,7 +1146,7 @@ LISCTEXANT GOVERNOR.
 8. A Lieutenant Governor shall be elected at the same  
 time, and for the same term as the Governor, and hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862010701:0015/pct:31.255704785500065,70.49527847369436,12.700482461859433,2.8425515513586435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862010701:0015/pct:31.255704785500065,70.50170231900816,12.709175468335724,2.8361277060448384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1168,7 +1168,7 @@ LIEUTENANT GOVEBNOR.
 8. A Lieutenant Governor shall be elected at the same  
 time, and for the same term as the Governor, apd hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862011401:0017/pct:30.77324292606598,70.89034496049335,12.726561481288304,2.832915783387936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862011401:0017/pct:30.781935932542268,70.89355688315025,12.730907984526448,2.8393396287017407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1189,7 +1189,7 @@ LIBUTENANT GOVERNOR.
 8. A Lieutenant Governor shall be elected at the same  
 time, and for the same term as the Governor, and hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862012101:0019/pct:43.225974703351156,70.99633840817113,12.687442952145,2.832915783387936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862012101:0019/pct:43.225974703351156,71.00276225348493,12.691789455383145,2.8361277060448384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1208,7 +1208,7 @@ by the clerks of the several coftrts. Indict­
 menta shall conclude, against the peace and  
 dignity of the Commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868032401:0296/pct:88.70553226024617,29.732739420935413,41.18760990125795,6.7279138827023015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868032401:0296/pct:29.568510753415392,9.910913140311804,13.729203300419316,2.242637960900767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1232,7 +1232,7 @@ SEcTIoN S. Every bill which shall have
 parsed the Senate and House of Delegates,  
 and every resc&#x27;utisn requiring the aisen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869051801:0485/pct:129.07801418439718,135.72608775472736,40.077612739194436,15.604920139526344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869051801:0485/pct:43.026004728132385,45.242029251575794,13.359204246398145,5.201640046508782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

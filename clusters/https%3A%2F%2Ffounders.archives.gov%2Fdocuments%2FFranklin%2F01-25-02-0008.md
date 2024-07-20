@@ -275,7 +275,7 @@ about this one point as the Jansenists and Mol
 inists were about the five.&quot; The followin  
 clever epigram, upon the subject of the King&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1854022101:0502/pct:195.7403055229142,77.52053771471248,41.15746180963572,5.953270030939934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1854022101:0502/pct:65.26594181604467,25.84017923823749,13.723185424625331,1.9844233436466445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ by the world, having never made, nor
 proposed to make, the least profit by  
 any of them.” His friend Ingenhousz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_imp_ver01:data:sn85040705:00414214848:1899091401:0126/pct:67.07641876664619,60.49091665511025,18.418356894079082,14.17279156843711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_imp_ver01:data:sn85040705:00414214848:1899091401:0126/pct:51.98475706573515,46.88328437343269,14.279665502275854,10.983735759833776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ much heated about this one point, as&quot;
 the Jensenists and Molinists were  
 about the five.” There the matte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_imp_ver01:data:sn85040705:00414214848:1899091401:0126/pct:67.07641876664619,75.49577035085287,18.62323294406884,2.6487311052558593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_imp_ver01:data:sn85040705:00414214848:1899091401:0126/pct:51.98475706573515,58.508275417353296,14.43315338202604,2.0634806906928422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ der of heaven that he dared use his
 own thunder in destroying his innocent  
 subjects.” However the court migh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_imp_ver01:data:sn85040705:00414214848:1899091401:0126/pct:66.9739807416513,95.45139370406324,18.418356894079082,6.254333656913049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_imp_ver01:data:sn85040705:00414214848:1899091401:0126/pct:51.91065946861438,73.97721573404027,14.274372816767228,4.8577774593394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ by the world, having never made, nor
 proposed to make, the least profit by  
 any of them.’’ His friend Ingenhousz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1899091401:1063/pct:67.12465153325368,6.535498073747936,37.25607327757865,116.59328563566318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1899091401:1063/pct:52.031893004115226,5.072154688277529,28.873456790123456,90.36041799957347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ der of heaven that he dared use his
 own thunder In destroying his innocent  
 subjects.” However the court migh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1899091401:1063/pct:86.22062923138192,30.723720418271878,18.319394663480686,6.439185470555861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1899091401:1063/pct:66.83127572016461,23.81104713158456,14.19238683127572,4.990403071017274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ ventions by the world, having never
 made, nor proposed to make, the least  
 profit by any of them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762847:1899092901:0658/pct:76.47702407002188,20.037511722413253,16.557257476294676,14.145045326664583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762847:1899092901:0658/pct:57.39828498449188,15.03594873397937,12.424740010946907,10.61269146608315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ lin laughingly noted, &quot;as much heated
 about this one point as the Janseniste  
 and Molinists were about the five.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762847:1899092901:0658/pct:76.54996353026988,35.776805251641136,16.484318016046682,2.063144732728978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762847:1899092901:0658/pct:57.45301952198504,26.836511409815568,12.37000547345375,1.5473585495467335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ that he dared to use his own thunder in
 destroying his innocent subjects.&quot;  
 However the court might side with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762847:1899092901:0658/pct:76.51349380014588,50.82838386995936,16.575492341356675,11.972491403563614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270503:00271762847:1899092901:0658/pct:57.416529830322936,38.12128790246952,12.44298485677796,8.987183494842139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -899,7 +899,7 @@ ventions by the world, having never
 made, nor proposed to make, the least  
 profit by any of them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175092:1899111401:0639/pct:50.04317789291883,14.515203671830179,14.83160621761658,10.900745840504877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175092:1899111401:0639/pct:50.053972366148535,14.518789443488238,14.837003454231434,10.907917383820998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -916,7 +916,7 @@ lin laughingly noted, “as much heated
 about this one point as the Jansenists  
 and Molinists were about the five.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175092:1899111401:0639/pct:49.97841105354059,26.635111876075733,14.723661485319516,1.5777395295467584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175092:1899111401:0639/pct:49.97841105354059,26.645869191049915,14.739853195164075,1.5777395295467584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -946,7 +946,7 @@ that he dared io use his own thunder in
 destroying his Innocent subjects.”  
 However the court might side with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175092:1899111401:0639/pct:49.740932642487046,38.281698221457255,14.874784110535407,9.265633964429146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_frisco_ver01:data:sn86090439:00517175092:1899111401:0639/pct:49.7463298791019,38.28528399311532,14.869386873920552,9.265633964429146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1090,7 +1090,7 @@ and Me linists were about the five.&quot;
 There the matter would no doubt have  
 ended had not a new antagonist entere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_hollyhock_ver01:data:sn84020613:00280774042:1899120901:1215/pct:60.315186246418335,81.37295939723734,42.693409742120345,48.72331519464211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_hollyhock_ver01:data:sn84020613:00280774042:1899120901:1215/pct:15.081497402830019,20.343239849309334,10.675264194877306,12.180828798660528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1113,7 +1113,7 @@ that he dared to use his own thunder in
 destroying his innocent subjects.&quot;  
 However the court might side with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_hollyhock_ver01:data:sn84020613:00280774042:1899120901:1215/pct:60.17191977077364,171.8989814427236,42.191977077363894,16.79921864099344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_hollyhock_ver01:data:sn84020613:00280774042:1899120901:1215/pct:15.045674368619022,42.9747453606809,10.549883575138814,4.19980466024836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1154,7 +1154,7 @@ and Mollnlsts were about the five &quot;
 There the matter would, no doubt, have  
 ended had not a new antagonist en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00237281986:1899123001:0740/pct:39.689578713968956,98.48194748358863,16.112342941611235,16.65754923413567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00237281986:1899123001:0740/pct:29.78369384359401,73.8648796498906,12.109447217600296,12.5/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1176,7 +1176,7 @@ family safe from the thunder of heaven
 that ho dared to use his own thunder  
 in destroying his Innocent subjects.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00237281986:1899123001:0740/pct:56.13451589061345,11.446936542669585,16.001478196600146,4.868708971553611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00237281986:1899123001:0740/pct:42.13348123497874,8.588621444201314,12.017008689221667,3.651531728665208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

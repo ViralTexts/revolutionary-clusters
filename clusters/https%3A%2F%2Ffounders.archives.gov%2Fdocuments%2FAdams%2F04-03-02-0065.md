@@ -372,7 +372,7 @@ will be less than twenty-eight millions for uei
 year.  
 Instead of the expenditure decreasing, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848021901:0149/pct:95.448798988622,43.35082116788321,16.877370417193426,15.294251824817518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848021901:0149/pct:71.60923174201707,32.51596715328467,12.662029718621563,11.473540145985401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ submitting to that pals, is delivered up
 to mankind. Gentile and Jow are  
 tree to traverse 1L Between tbe old sod Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869051401:0002/pct:67.81349877796578,18.3441301943435,8.817446888512878,4.408279349028282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869051401:0002/pct:67.81349877796578,18.3441301943435,8.817446888512878,4.424079633433402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ And we possess all as our own and driv
 The puny inhabitants; or, if not drive,  
 Seduce them to our party, when they
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:00237288944:1872070301:0012/pct:62.59615384615385,193.27042905465552,44.32692307692308,36.175894605661384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:00237288944:1872070301:0012/pct:15.656565656565656,48.31760726366388,11.087061087061088,9.043973651415346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ Seduce them to our party, that their God
 May prove their foe, and with repenting hand  
 Abolish His own works. This would surpas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898081401:0973/pct:235.84337349397592,237.78801843317973,42.92168674698795,12.473118279569892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898081401:0973/pct:58.983050847457626,59.44700460829493,10.734463276836157,3.118279569892473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

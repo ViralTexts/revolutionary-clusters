@@ -212,7 +212,7 @@ New-York, for the Time being, do not upon Pain of his Ma­
 jesty’s highest Displeasure, presume to make any Grant what­  
 soever, of any Part of the Lands described in the said Report
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774042901:0240/pct:39.60288020946978,52.15961098398169,26.29282129609426,4.662471395881007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774042901:0240/pct:39.61742672194342,52.16437833714721,26.29282129609426,4.662471395881007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ pleased, with the Advice of his Privy. Council, to approve
   
 &#x27;ls’ﬁer&#x27;eo&#x27;f; and to Order, that the said (Pctidon of the %sufe ok
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774042901:0241/pct:34.793080797022114,6.119531026594224,54.74052988832932,87.31770088647411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774042901:0241/pct:34.793080797022114,6.124297016490325,54.755127362966206,87.32246687637023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ the Earl of Dartmouth, at that time Se­
 cretary of State for the American depart­  
 ment, the original whereof is this hour i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795041401:0002/pct:76.179718875502,55.266955266955264,15.461847389558233,3.0303030303030303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795041401:0002/pct:76.19226907630522,55.27898027898028,15.474397590361447,3.0303030303030303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

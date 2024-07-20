@@ -82,7 +82,7 @@ means of securing the settlement of a fafe
 an | honorable peaces : ‘  
 Refoived, That the Commander in Chie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782083101:0208/pct:68.65040650406505,43.336420705979215,26.40650406504065,25.748687866625502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782083101:0208/pct:68.65040650406505,43.336420705979215,26.428184281842817,25.752118280676477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ an Irishman:
 “ An act for •preventing the transportation of  
 convicted malefactors from foreign countries int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807052001:0527/pct:26.11290723700572,32.5064850843061,21.2633673215618,7.474059662775616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807052001:0527/pct:26.10641471904525,32.50121575620036,21.26429636996519,7.4769006321932245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

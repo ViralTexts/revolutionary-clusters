@@ -420,7 +420,7 @@ Yol. XII.
 bishop ; a judge of the&#x27; common pleas made a judge  
 of the king&#x27;s bench, &amp;c. Arid no proceeding o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022809:1862121901:0409/pct:2.3769386378961563,15.548340548340548,38.30074173971679,108.87445887445888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022809:1862121901:0409/pct:1.7878225670433463,11.664261664261664,28.740091077753416,81.66185666185666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ anu auuuy. ,wc Aor. uinoes, v.
 The test cannot depend on the quantum of duties  
 &quot; which may bo exacted or forgiven by two indepen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863031701:0098/pct:49.20176630434783,41.12227805695142,20.261548913043477,4.438860971524288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863031701:0098/pct:36.92438402718776,30.844699688920795,15.208156329651656,3.3261545824359895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

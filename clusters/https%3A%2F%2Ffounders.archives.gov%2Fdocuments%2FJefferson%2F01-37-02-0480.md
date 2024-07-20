@@ -223,7 +223,7 @@ Rave appeared the fiiends of liberty
 while they were {ubje@ to the power of otheri,  
 and ¢ ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804031501:0452/pct:47.109609609609606,27.20922109675166,19.93243243243243,18.69833507975317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804031501:0452/pct:47.115865865865864,27.20922109675166,19.9512012012012,18.702216012729462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ free 28 that of philofophy, or medicine ; and
 now the etperience of moré than twenty yean  
 leanés Jittle room to doube, that it is a fate o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804031501:0452/pct:47.015765765765764,63.32518337408313,19.68843843843844,9.197811153801373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804031501:0452/pct:47.02827827827828,63.32906430705942,19.68218218218218,9.205573019753949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ es* in this free state, g&#x27;-ve the clearest at­
 testation.  
 Many have appe=« : • f- Sends of li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040401:0079/pct:23.864063086744274,40.813409563409564,17.8933533608712,13.136694386694387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040401:0079/pct:23.85958325511545,40.808107054696634,17.896251799011328,13.139318349140357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ yum Mu.jed.or your humble servant, but
 your sincere admirer,  
 J ESEPH* PRIESTLEY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040401:0079/pct:42.00150206533984,2.8456340956340958,18.09988734509951,30.73024948024948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040401:0079/pct:41.993617420687066,2.845264388722879,18.10274701207684,30.730587674851673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ more.than this 5 having voluntarily
 propofedto relinquish part of the pows .  
 _er the constitution gave you ; and, im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804041701:0475/pct:78.30503094746865,87.84920251329144,17.39406443421679,6.756887385210247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804041701:0475/pct:78.30503094746865,87.85242468181086,17.39406443421679,6.756887385210247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ other countries, and at length become
 universal.”” The eyesof all the nations  
 of the earth are fixing upon Ameri.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804041701:0476/pct:6.911447084233261,6.300734441437959,16.646096883677878,16.07073830691921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804041701:0476/pct:6.921731975727656,6.300734441437959,16.646096883677878,16.083623244427265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

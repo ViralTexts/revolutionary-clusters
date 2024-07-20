@@ -57,7 +57,7 @@ iovcreigiuy of Louifiana and its de­
 pendencies, will b? left in the poflVffioti  
 of the comniifiVies of th? United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803102101:0003/pct:6.527565084226646,73.2824427480916,15.658499234303216,7.095482417719935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803102101:0003/pct:6.540326697294538,73.29078546698369,15.65211842776927,7.095482417719935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ ty, relative to definitive rule between
 the contra&amp;ing parties, is in the like  
 manner approved, and will be ratifie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0383/pct:76.0116492949111,16.127421609746357,15.956468424279583,7.429598562013181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0383/pct:76.0116492949111,16.134078956128086,15.956468424279583,7.422941215631449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ to be ratified in the same form, and in
 the same time, so that the one shall not  
 be distinct from the other. What infer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803123001:0192/pct:30.718767826583,3.9040114613180514,43.097547062179125,92.317335243553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803123001:0192/pct:30.71000855431993,3.9033124440465534,43.09238665526091,92.30528200537154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

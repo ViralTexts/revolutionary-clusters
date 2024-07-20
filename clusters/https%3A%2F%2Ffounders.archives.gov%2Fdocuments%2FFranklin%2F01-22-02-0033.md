@@ -182,7 +182,7 @@ they left the land of Eogland, while the packets had only
 to go from Falmouth, I could not but think the fact mis.­  
 understood er misrepresented. There happened the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856011901:0151/pct:7.165525304827125,183.8761652664288,47.285785869383666,25.802739095407986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856011901:0151/pct:2.3885084349423753,61.292055088809605,15.761928623127888,8.600913031802662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

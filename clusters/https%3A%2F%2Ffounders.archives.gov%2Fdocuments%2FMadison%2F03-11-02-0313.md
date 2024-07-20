@@ -119,7 +119,7 @@ tinue to bring forth her increase, and
 God, even our own God, shall give us his  
 blessing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1869112301:1114/pct:246.05747973470892,290.76193134245045,45.320560058953575,30.365615406084288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1869112301:1114/pct:61.53704386288242,72.69048283561261,11.33431625506819,7.591403851521072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

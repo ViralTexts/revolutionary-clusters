@@ -59,7 +59,7 @@ AN ACT to provide additional revenues for de­
 fraying the expences ¢f government, and  
 maintaining the public credit, by laying 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815041801:0273/pct:41.92586280357904,27.48791794062531,16.105666808691947,9.862905611993293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815041801:0273/pct:41.93533115561237,27.491205575829305,16.105666808691947,9.866193247197291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ e|e;;se after thev hecem* due ; nnd until funds
 sVnll be assigned for the payment of the said  
 treasury nut&#x27;s, nnd notice thereof shall be given. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815121401:0708/pct:25.21918514698298,28.914691178842123,22.124806601340897,6.789227543944525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815121401:0708/pct:25.212683681361174,28.91002902289584,22.125547821603504,6.7921638181231865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ shall fie assigned for the payrrent of the
 said Treasury Nutes, and notice thereof  
 shall be given
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815121401:0112/pct:34.88411152166611,5.324334458192726,15.586160564326503,7.299087614048244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815121401:0112/pct:34.87825356842989,5.323669082729317,15.589140778057654,7.302341081396317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ revenue, for the entire period of the w ar,!
 &gt;s thus developed ; and independent of  
 the balance of the appropriation^ for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815121601:0246/pct:65.2502646302737,11.05615095722268,18.055345531528808,20.50929742603279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815121601:0246/pct:65.24039915331116,11.05513830371863,18.0576554782784,20.51047200341943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ given.
 lor the entire per.od of war, is thus developtd ;  
 anu indejH.*ndent ol tlie balance of the appropria
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815121601:0385/pct:43.18862275449102,9.30589287996932,17.12200598802395,7.132813498657804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815121601:0385/pct:43.18054256314313,9.304703476482617,17.125038977237292,7.136162235855488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ NOTES.
 The Treasury Notes, which were issued  
 underacts passed prior to the 24th of Fe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815121901:0119/pct:65.35273219421418,44.02872260015117,15.17509727626459,4.560342655580751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815121901:0119/pct:65.34167794316645,44.023176722509135,15.178168696436627,4.563966914388882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ OF THE ISSUES OF TREASURY NOTES
 The Treasury Notes, which were issued  
 under acts passed prior to the S4th of Fe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815122301:0392/pct:40.42009132420091,11.570661002124204,35.050228310502284,84.94314632012996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815122301:0392/pct:40.412710007304604,11.569215392303848,35.04991477964451,84.93669831750792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

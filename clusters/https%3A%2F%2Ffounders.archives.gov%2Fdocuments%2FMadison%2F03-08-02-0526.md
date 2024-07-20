@@ -469,7 +469,7 @@ States. The said Commissioners {hall meet at
 Halifax, and shall have power to adjourn to  
 {uch other place or places as they sha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:47.971290464332796,34.29544998997795,19.29105024168742,13.429544998997795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:47.98105561251892,34.29544998997795,19.286167667594356,13.432885681833367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ the United States, who may be refpeétively ap­
 pointed and authorized to manage the business  
 on behalf of the refpettive Governments. An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:47.85410868609931,54.36961314892764,19.100629852058006,4.099017839246342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:47.863873834285435,54.37295383176321,19.100629852058006,4.102358522081913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ this Treaty. And ali other’expences attending
 the said commissions shall be detrayed jointly by  
 the two parties, the fame being previoully ascer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:12.457464121911526,34.02985074626866,19.44074567243675,11.293532338308458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:12.467327513932041,34.033167495854066,19.430882280416235,11.30016583747927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ the fame manner as such commiflioner was firft
 appointed, and the new commissioners shall take  
 the {fame oathor affirmation &amp; dothe iame duties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:12.413078857819205,45.29353233830846,19.292794792129012,4.686567164179104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:12.418010553829461,45.30016583747927,19.292794792129012,4.686567164179104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ countries, territories, cities, towns and people of e­
 very degree, without exception of perfons or places.  
 And whereas, in dire.Cl violation &lt; f faid treaty hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806012501:0323/pct:59.88826815642458,57.69963183953282,17.54189944134078,3.3515297702170876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806012501:0323/pct:59.877117855148015,57.69230769230769,17.54483957053311,3.3553355335533555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -892,7 +892,7 @@ tion of persons or piaces,” Andwhere­
 as, in direct violation of said treaty, his  
 Britannic Majesty has caused to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806021101:0233/pct:60.04993757802747,30.129557095510695,16.151685393258425,6.126343276087175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806021101:0233/pct:60.06034124011652,30.129557095510695,16.151685393258425,6.136386461785678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -924,7 +924,7 @@ T* : JF.FFERSON.
 By the President,  
 JAMES MADISON. Src&#x27;ry •/ I/«rr.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806050201:0153/pct:3.9602066194757986,3.3226427196921104,18.06007269944519,11.994868505452214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806050201:0153/pct:3.9594491201224176,3.3222165212929706,18.062994134149452,11.997605609714384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1021,7 +1021,7 @@ By the President.
 JAMES MADTSON,  
 Secretary of state.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807052501:0002/pct:41.21186076493339,14.176558875699277,18.006016330038676,10.124164278892072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807052501:0002/pct:41.21186076493339,14.181107017783235,18.006016330038676,10.124164278892072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1145,7 +1145,7 @@ cause the same boundary line between the
 source of the river St. Croix, as the same has  
 been determ ned by the commissioners ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0019/pct:4.597278411180581,59.14073327453698,17.929385803604266,16.78215950611062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0019/pct:4.596433167861739,59.13328294280675,17.93221793221793,16.78424456202234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1176,7 +1176,7 @@ b g artif le, shall he, anil they art- hereby au­
 th irked, upon the months, impartially to as­  
 certain and determine the north-western
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0019/pct:4.652445752114748,84.52815925412625,17.78227289444649,9.902986014867079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0019/pct:4.65159036587608,84.5175107079869,17.785132070846355,9.905937683715461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ ive ratification mutually exchanged, shall
 be binding and obligatory upon his Majesty  
 and upon the said states, and shall be b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0019/pct:41.65134240529606,19.516189996220234,17.524825303420375,4.523119566586872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0019/pct:41.643684500827355,19.51373141849332,17.5277318134461,4.526748971193416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1229,7 +1229,7 @@ the land, covered or uncovered by water, at
 the distance of twenty levjues from any part  
 of the shores, and to exercise on those prem-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811091101:0477/pct:7.511811023622047,21.85254454178561,21.30708661417323,11.733438330544345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811091101:0477/pct:7.511811023622047,21.85582570462972,21.30708661417323,11.736719493388456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1259,7 +1259,7 @@ States of America, and bi tween their rtspe. live
 countries, territories, cities, towns and people, of  
 every degree, without exception of persons or pla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812050401:1119/pct:31.25310790651417,52.35864297253635,20.934858279462954,4.1518578352180935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812050401:1119/pct:31.245339299030576,52.350185753513166,20.9358687546607,4.155225327087708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1313,7 +1313,7 @@ and likewise to causa the boundary line,
 described in the said treaty of peace-,  
 between the north west angle cf Naa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814100101:0577/pct:24.30966469428008,8.124762988244218,17.80078895463511,7.565415244596132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814100101:0577/pct:24.305669679539854,8.123992795525643,17.803341550260203,7.567857932821436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1473,7 +1473,7 @@ eration. JOHN QUINCY ADAMS,
 A. GALLATIN.  
 Ta the Plenipotentiaries of His Britannic Majes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814121301:0202/pct:58.550106609808104,48.389921198560174,16.844349680170577,5.506372215196031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814121301:0202/pct:58.559583037194976,48.39640691377242,16.853826107557452,5.499886499983786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1515,7 +1515,7 @@ the 8th inst. ...
 Satisfied of the impossibility of persuading  
 the world that the government of the Unitcvi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814121501:0280/pct:6.2287453015929835,4.707190511489992,17.146948272776086,16.641957005189028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814121501:0280/pct:6.227630637079456,4.7066090179122915,17.149844905750417,16.64401894173358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1569,7 +1569,7 @@ shall so desist accordingly.
 No. VIII.  
 From the American to the Erititk Com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814122001:0701/pct:43.069613716174345,51.12302194997448,17.06259037388969,20.788667687595712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814122001:0701/pct:43.06071871127633,51.11649866020161,17.065950709073384,20.79026838501127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1603,7 +1603,7 @@ subjects, upon the ratification of the present being
 notified to such tribes or nation, and shall so desist  
 accordingly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814122101:0165/pct:46.85138539042821,47.88830715532286,23.81752029107193,14.415357766143106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814122101:0165/pct:46.83827644096251,47.879951142907,23.817851147174036,14.41720467632176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1663,7 +1663,7 @@ peace, and leaving the U. States free to
 the relation* with which they have con  
 stantly maintained with those tribe*, pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814122201:0615/pct:47.58949880668258,22.204701834862384,22.00477326968974,31.880733944954127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814122201:0615/pct:47.57814364113577,22.20151927762649,22.00548795036984,31.879747742582772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2545,7 +2545,7 @@ desist accordingly.” 3 -~
 No. VIIL—AMERICAN NOTE.  
 From the JAmerican to the British Commissioners
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815011001:0217/pct:40.37630662020906,59.58710407239819,16.794425087108014,17.647058823529413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815011001:0217/pct:40.3855981416957,59.590246354952235,16.78977932636469,17.650201106083458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3790,7 +3790,7 @@ party having had such potacaaton.
 Article Uebr,n  
 The United States ot VU..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815022101:0088/pct:4.930300807043287,3.1629955947136565,91.34262655906089,94.56387665198238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815022101:0088/pct:4.929577464788732,3.1627169412386573,91.3341158059468,94.55848236572402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3865,7 +3865,7 @@ same, faithfully to observe and W­
 lil (lie *aid ITcnty end tart,1  
 and article thereof*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815022101:0088/pct:83.31621423330888,21.647577092511014,15.641966250917095,41.59471365638767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815022101:0088/pct:83.30399061032864,21.645669985023346,15.644561815336463,41.593985845593636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4182,7 +4182,7 @@ Ktcals, des&#x27;j&#x27;nate the boundary through the
 st d riVer, lakes, and water cnnrimunicati­  
 -n-. and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815022201:0372/pct:25.09767441860465,3.8383582467696984,55.14418604651163,92.2599442614644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815022201:0372/pct:25.093005952380953,3.837872070930969,55.14012896825397,92.25248047287313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4310,7 +4310,7 @@ sions, rights, and privileges,&quot; wh«rit tht y n.C$.
 have enjoyed or been entitled to in one thou’­  
 sand eight hundred and eleven, p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815022201:0372/pct:61.86046511627907,4.243729414745376,37.13488372093023,91.55054471750697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815022201:0372/pct:61.848958333333336,4.243191893603546,37.13417658730159,91.54317078319612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4363,7 +4363,7 @@ r?,e~fi t}‘c&#x27; KCitl ()I ^&#x27;C 1 nited States to be­
 aflixod to these prt - nts; and si; ned  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815022201:0372/pct:80.37209302325581,67.7983278439321,18.474418604651163,29.04737775525716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815022201:0372/pct:80.35714285714286,67.7897403419886,18.47718253968254,29.04792062486806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4884,7 +4884,7 @@ commencement of the war by the party
 having had such possession, shall he ai  
 valid as If such island or islands, had
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815022201:0052/pct:23.944444444444443,2.4260803639120545,71.44444444444444,93.20192064695476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815022201:0052/pct:23.940011109053877,2.425773847125711,71.43738813799914,93.1943567066751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5008,7 +5008,7 @@ By tin President,
 JAM*.&#x27; MON HO K,  
 Acting Secretary of Slate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815022201:0053/pct:4.52186805040771,2.9615626969124134,17.7353595255745,78.38689350976685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815022201:0053/pct:4.521030201964054,2.9611895161290325,17.738249644864432,78.38121639784946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5331,7 +5331,7 @@ authorizeij to set exactly ia the ntwiner dirwttd .
   
 Pf*pcci to those merit one n the next r»re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1815022301:0641/pct:1.8065129545994771,3.540587219343696,65.91395293558355,92.38629821531376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1815022301:0641/pct:1.806083650190114,3.540077709022881,65.90423003802282,92.37660094977694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5520,7 +5520,7 @@ Bv the President,
 JAMES MONROE,  
 Acting Secretary of Stott
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1815022301:0641/pct:46.73163774661279,4.159470351180196,43.30877109579273,91.49395509499136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1815022301:0641/pct:46.72053231939164,4.158871780112246,43.304420152091254,91.48438624262484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6511,7 +6511,7 @@ ami seals, certifying it to he thetroe map of the
 said boundary, an.d partirotarizing the latitude  
 aud luunptBiia of the uorlh-wtst angle of Nova­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815022501:0234/pct:50.901597114889235,14.669966996699669,45.028335909325094,83.94389438943894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815022501:0234/pct:50.888488282255985,14.667546609470385,45.02317795518929,83.93416927899686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6739,7 +6739,7 @@ Bv the President.
 JAMES MONROE,  
 Acting Secretary of State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815022501:0235/pct:4.775209550419101,2.3210199411572408,44.475488950977905,95.19450800915332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815022501:0235/pct:4.773996952767902,2.3206406275535216,44.47054342305739,95.18303644386337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8028,7 +8028,7 @@ twhooi they refpctlively belong
 # (he UUtids in the bay of Pafia­  
 ly »5 are cJoi ned by both partie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815022701:0031/pct:2.986425339366516,42.875182127246234,15.143288084464555,23.516270033997085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815022701:0031/pct:2.9859749660684662,42.87101787101787,15.14477454380938,23.516414141414142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8458,7 +8458,7 @@ tianes have figned thu treaty and have here­
 , untoafficed our feats.  
 Done if tripiicae. at Ghent »he S4th day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815022701:0031/pct:3.8009049773755654,14.492472073822244,85.53544494720965,79.33948518698398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815022701:0031/pct:3.8003317749962298,14.491064491064492,85.52631578947368,79.33420745920746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9019,7 +9019,7 @@ faith, on the part of the United
 States, 1, James Madison, Presi­  
 dent as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815022801:0245/pct:5.198338822855506,5.450609996064541,85.29285407418016,87.95749704840614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815022801:0245/pct:5.207885817938804,5.453889544798636,85.29285407418016,87.96077659714024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9194,7 +9194,7 @@ several islands in the Bay of RPassamaquoddy, which
 is part of the Bay of Fund the of Grand  
 Menan in the ssid Bay of F : ,_ b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815030101:0034/pct:39.37183383991895,5.649717514124294,57.041540020263426,90.14830508474576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815030101:0034/pct:39.37858831475853,5.653640929064658,57.06180344478217,90.15615191462649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9316,7 +9316,7 @@ The said Commisfioners shall by a report or de&lt;s
 claration, undertheir hands and seals, designate Ihe  
 by mdary through the sald river, lskes and &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815030101:0034/pct:73.06990881458967,32.28578154425612,24.113475177304963,63.5710922787194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815030101:0034/pct:73.07666328942925,32.289704959196484,24.120229652144545,63.575015693659765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9495,7 +9495,7 @@ By the Presidente— &#x27; .
 JAMES MONROE,  
 Acting Scc&#x27;ry of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815030101:0035/pct:1.668629760502552,2.2523048196989146,50.294464075382805,92.77628661454078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815030101:0035/pct:1.668629760502552,2.2600848018049557,50.30100772150242,92.77239662348777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13979,7 +13979,7 @@ half of the Government of the said U. States,
 at Washington, on the 17th day of February  
 last
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040501:0420/pct:60.31050228310502,6.7356866658351,17.698630136986303,8.818760134713733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040501:0420/pct:60.29948867786705,6.734846595160888,17.701485269052835,8.82181757711815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14004,7 +14004,7 @@ state to you that Cumberland Island being tire only
 i&quot;”scc *» am.ii iakcii from America ill tins neigh­  
 borhood, which was retained by me at the date of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815050301:0454/pct:23.61494570219032,42.08728652751423,17.577765507086323,5.45224541429475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815050301:0454/pct:23.6105999263894,42.0819630660258,17.580664949086003,5.455771987520027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14046,7 +14046,7 @@ to 50,K. and as far eastward in the Atlantic Ocean
 as the 36th degree of west long, should be res­  
 tgr; J on either side. That the treaty was rati
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815060701:0166/pct:3.961697333834022,24.403715792116493,17.668043559894855,4.393673110720562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815060701:0166/pct:3.9609536324385206,24.40065269235597,17.670984293848946,4.397305552068951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15281,7 +15281,7 @@ the Territories of His Britannic Majesty in
 Europe a reciproc; I liberty of Commerce.  
 Fhe inhabit ants of the two countries res
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815122701:0132/pct:19.205404535949814,70.51266364859904,14.556860221972013,12.24764468371467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815122701:0132/pct:19.202315857188808,70.50403719109372,14.559879918516136,12.250224288394095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15311,7 +15311,7 @@ A CONVENTION
 jo regulate me ijommercc between the  
 Territories of lh-‘ United States and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815122701:0398/pct:2.9492080830147462,15.933308261251097,17.294738758419808,9.840792277798672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815122701:0398/pct:2.948671277757554,15.931311105540235,17.297658051207378,9.843736943260634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15346,7 +15346,7 @@ There shall be betw een the territhrics of
 the United States of America, and all the  
 territories of his Britanic Majesty in Eu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815122701:0398/pct:2.9492080830147462,36.229158831640966,17.385763699253594,12.786761940579165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815122701:0398/pct:2.948671277757554,36.224617698671345,17.38866642397767,12.789337344363666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15384,7 +15384,7 @@ A CONVENTION
 To regulate the commerce between the territories  
 of the bailed btxUs and of his Britannic ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815122801:0728/pct:3.0977982590885818,31.86424320411774,21.684587813620073,9.313173556377674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815122801:0728/pct:3.097005374968006,31.859118687680926,21.685436396211927,9.315696365390801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15420,7 +15420,7 @@ two countries respectively shall have liberty free­
 ly and seeurely to come with heir ships ut.d car­  
 goes to all such places, purls, and rivers in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815122801:0728/pct:2.8929851510496674,50.36191088949654,21.710189452124936,14.57294515039408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815122801:0728/pct:2.892244689019708,50.353811514956575,21.711031481955466,14.57462206497266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15602,7 +15602,7 @@ cal liherty of Commerce. The inhabitants of
 the two countries respectively shall have liber­  
 ty freely and securely to come with their ship
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816010201:0442/pct:6.177273380261457,24.90387459331559,16.85102715127137,11.76180617174406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816010201:0442/pct:6.177273380261457,24.90387459331559,16.855815735287077,11.76837884912419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15629,7 +15629,7 @@ o&#x27;l A CONVENTION.
 | Lo regulate the Commerce Between the Ter­  
 ricoriea of the Ugited Siates and of li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816010301:0209/pct:0.8326724821570183,26.778691455130495,23.850118953211737,9.140746037421046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816010301:0209/pct:0.8458895056833201,26.78266396535971,23.850118953211737,9.136773527191833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16614,7 +16614,7 @@ ing been at the tune of, and previous to
 the treaty of 1783, within the limits of  
 Nova Scotia. Tha treaty authorises th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816090701:0144/pct:68.52725793327909,70.83228879418401,14.580960130187144,6.242165956380045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816090701:0144/pct:68.51610803774813,70.82341145506956,14.584011281050005,6.245561264987258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17186,7 +17186,7 @@ In faith and testimony whereof, we have set
 our hands and athsed our seals at the citv of  
 New York in the Mate of New York, in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818031001:0366/pct:66.83673469387755,40.448213204118716,14.795918367346939,4.191399152029073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818031001:0366/pct:66.82573638308376,40.44331395348837,14.798968789424606,4.1949289405684755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17220,7 +17220,7 @@ and the United States, refpe&amp;ively, have
 decided and do decide, that Moose T{land,  
 Dudley Island, and Frederick Island, in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818031701:0218/pct:60.172309552599756,14.592187816231531,17.397218863361548,13.175470552519732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818031701:0218/pct:60.172309552599756,14.598934088915874,17.40225715437324,13.178843688861903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17352,7 +17352,7 @@ said Bay of Passamaquoddy, which is part of
 the Bay of Fundy, and the Island of Grand  
 Menan, in the said Bay of &#x27;undy, do belon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1818110401:0790/pct:3.120094191522763,40.8955223880597,21.546310832025117,2.5832376578645238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1818110401:0790/pct:3.120094191522763,40.89934940681209,21.572475143903716,2.5870646766169156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17425,7 +17425,7 @@ prty, the restitution of,or lulL ompensu­
 iion lor, all slaves, who, at the dale of  
 the exchange of flie ratifications of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819020401:0343/pct:18.901135055107748,47.228974234321825,14.673466030597138,12.056392805055907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819020401:0343/pct:18.898026315789473,47.22323490096002,14.676535087719298,12.05897840968931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17449,7 +17449,7 @@ I of ihe United States, by and with the ad­
 vice amt consent of the Senate, and by  
 liis Britannic Majesty, and the respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819020401:0343/pct:18.456983056423756,69.12980068060281,15.0024675111038,5.5420515313563445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819020401:0343/pct:18.45394736842105,69.12139992708713,15.005482456140351,5.545428768177583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17487,7 +17487,7 @@ States claim for their citizens, and as their
 date of the exchange of the ratifications of  
 the sakl treaty, were in any territory, pla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020601:0668/pct:27.199580199405283,46.54984762734001,17.684100052475074,17.490204614714845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020601:0668/pct:27.194823364812873,46.544781804331265,17.686836889355252,17.491928755395943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17506,7 +17506,7 @@ reign or state to be final and conclusive on
 all the matters referred.  
 I Art. VI. This convention, when th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020601:0668/pct:27.164596816512155,75.69656073138877,17.491691446562882,3.591641271223335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020601:0668/pct:27.159846100034976,75.68832299488518,17.494461933076835,3.5948779337613814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17686,7 +17686,7 @@ ed States claim for their citizens, and as their
 private property, the restitutien of or full com­  
 pensation for, all slaves, who, at the date of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819020901:0407/pct:22.063199659912144,38.060428849902536,16.324217089414766,10.633528265107213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819020901:0407/pct:22.067923102356996,38.0669265756985,16.33366397430447,10.636777128005198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17720,7 +17720,7 @@ and as their private property, the restitu
 lion of, or full compensation for, all slaves  
 who at the date of the exchange of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819020901:0092/pct:55.484030700668484,66.15057680631452,17.182470908640752,12.522768670309654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819020901:0092/pct:55.47029702970297,66.14053725906814,17.184405940594058,12.52466231598118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17744,7 +17744,7 @@ have been duly ratified by the President
 of the United States, by and with the ad­  
 vice and consent of their Senate, and b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819020901:0092/pct:73.06263926714533,12.082574377656345,17.182470908640752,5.67698846387371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819020901:0092/pct:73.04455445544555,12.080740628319926,17.184405940594058,5.67992108058886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17849,7 +17849,7 @@ tution of, or full compensation for, all slaves
 who, at the date of the exchange of the rati­  
 fications of the said T&#x27;resty, were in any ter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819021701:0850/pct:27.438307873090483,48.49734826163819,21.73913043478261,12.763700648202711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819021701:0850/pct:27.451364407886146,48.49734826163819,21.73913043478261,12.767629149479474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18135,7 +18135,7 @@ tion as finally and conclusively atl-ixiug
 said boundaryWe give these as hear­  
 says, although the spirit ol them is fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820101301:0190/pct:5.372445616348055,38.54715174724749,14.91430454845089,3.267113451412159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820101301:0190/pct:5.371560388861427,38.54253918870408,14.917339484813533,3.2707111802480955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18223,7 +18223,7 @@ i Bei mentioned. All terr&#x27;ilnni. plans, and vosses­
 e&#x27;ter mentioned, shall hr restored &#x27; without delay, and  
 &lt;t itlioiit , ing any destruction, or carrying own/ an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821060101:0034/pct:5.919494869771113,44.782712511938875,14.3646408839779,6.3276026743075455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821060101:0034/pct:5.918560606060606,44.77736659902113,14.36763468013468,6.330826469300863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18266,7 +18266,7 @@ t-hail reman therein upon the exchange of the rati­
 fications ol thi- treaty, or any slnves or other pri­  
 vate i-:opci!y And, where u, under the aforesai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821060101:0034/pct:5.872138910812944,53.84431709646609,14.380426203630623,12.72683858643744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821060101:0034/pct:5.871212121212121,53.837889459233615,14.383417508417509,12.729298475985834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19215,7 +19215,7 @@ tv only the islands thereinaller mentioned,
 “ slaves or other private property.  
 TRANSLATION
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216316:1822071801:0500/pct:23.22222222222222,15.00832254484927,18.603174603174605,8.858886628444608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216316:1822071801:0500/pct:23.21853674019997,15.006934812760056,18.605512352536635,8.861149637848667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19272,7 +19272,7 @@ change of the ratification* of Haiti trea­
 ty, or any slaves or other private  
 propert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183621:1822072001:0099/pct:39.31888544891641,4.601571268237935,33.43653250773994,89.84910836762688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183621:1822072001:0099/pct:39.31172614712309,4.600997506234414,33.43651371692158,89.84206151288446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19331,7 +19331,7 @@ and seais, to designate ¢* that portion of the
 * through the middle of said lake wuntil it  
 * strikes the communication,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822072301:0533/pct:6.058770069675856,21.825110722010507,17.373523174795515,7.137707281903388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822072301:0533/pct:6.058770069675856,21.83197720328218,17.388670099969705,7.137707281903388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19351,7 +19351,7 @@ and seais, to designate ¢* that portion of the
 “ long,in conformity with the true intent of  
 ¢ the treaty of 1783 do decide and declare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822072301:0533/pct:6.179945471069373,33.525594808940156,17.23720084822781,3.337109898032753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822072301:0533/pct:6.179945471069373,33.525594808940156,17.247298798343937,3.3439763793044253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19518,7 +19518,7 @@ within said rivers, lakes, and water com­
 munications, do respectively belong, in  
 conformity with the true i, tent of 1 .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822083101:0295/pct:78.6983795086252,5.88629884286433,17.4594877156299,21.666946168036223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822083101:0295/pct:78.67781552129605,5.885311871227364,17.461458061144498,21.667505030181086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19691,7 +19691,7 @@ or report* to some friendly sovereign, who should &#x27; 1
 be requested to decide on the differences, which &gt;  
 diould lie stated in rucli reports. It must be seen 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826021101:0336/pct:36.12341772151899,81.47793853880187,15.64873417721519,8.800669616166447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826021101:0336/pct:36.117702895111535,81.46819703491153,15.651531930601697,8.803602741909772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19712,7 +19712,7 @@ the part of the U. States by John Q. Adams,
 James A. Bayard, Henry Clay, Jonathan Rus­  
 sell, and Albert Gallatin; and on the part o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827061301:0548/pct:60.92465753424658,81.28124636670155,18.20205479452055,4.4645971398674575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827061301:0548/pct:60.91422701592193,81.27179725645199,18.20464532328939,4.467953189180811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19861,7 +19861,7 @@ provisions of the said treaty of peace of
 one thousand seven hundred and eighty  
 three, &amp;c. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1827112901:1349/pct:7.2507552870090635,29.628772984850237,17.919184290030213,14.525268879380132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1827112901:1349/pct:7.257049345417926,29.632627886357504,17.931772406847937,14.532978682394665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19941,7 +19941,7 @@ I&#x27;llth. To appoint commissioners to run the
 boundary line from the Iroquois to hake Su|&gt;ertor.  
 Sixth. I lie last mentioned commissioners t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828110401:0224/pct:20.071278146768183,39.75350410826486,15.049408715373401,3.830352827452876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828110401:0224/pct:20.068027210884352,39.74870122024888,15.052370154410971,3.8339172808183317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20242,7 +20242,7 @@ In testimony whereol, I have caused the seal
 of the United States to be hereunto affixed, and  
 have signed the same with my hand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832092601:0088/pct:74.364896073903,48.45001741553466,17.551963048498845,7.088122605363985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832092601:0088/pct:74.34581836839405,48.44158105519763,17.553873781426372,7.0912415114051885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20499,7 +20499,7 @@ in said forts or places, and which shall remain up­
 on the exchange of the ratifications of this treaty,  
 or any slaves or other private property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839042001:0055/pct:32.16957605985037,29.044383403209483,23.233582709891937,8.05262396992916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839042001:0055/pct:24.137214137214137,21.786901836056092,17.442827442827443,6.043082261095851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20571,7 +20571,7 @@ the English and Spanish languages ; one 10 he ap.point­
 ed by the President of the United States, by and with  
 the advice and consent of the Senate thereof, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840042801:0485/pct:33.67466354593329,43.62547744399711,14.716208308952604,7.979766697636007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840042801:0485/pct:33.67953969182758,43.63235951963112,14.721084454846888,7.983207735453012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20597,7 +20597,7 @@ which they may be founded, shali be referred to the
 decision of His Majesty the King of Prussia. But as  
 the documents relating to the aforesaid claims are s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840042801:0485/pct:33.64540667056758,76.8762258697223,14.73083674663546,5.017033137194177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840042801:0485/pct:33.655158962356154,76.87966690753932,14.725960600741175,5.023915212828189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20637,7 +20637,7 @@ ARTICLE 111,
 The said board shall meet in the eity of  
 Washington within three months after the ey.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840042901:1268/pct:8.516780945507037,82.2682032477737,14.52544207867196,11.629125196437926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840042901:1268/pct:8.52279562131601,82.2682032477737,14.519427402862986,11.633490483673826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20657,7 +20657,7 @@ up areport stating, in detail, the points on which
 they ditter, aund the grounds upon which their  
 respective npinions have been formed. And i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840042901:1268/pct:23.330927463009743,35.751702462022,14.687838325514255,3.0251440544787846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840042901:1268/pct:23.330927463009743,35.7604330364938,14.687838325514255,3.033874628950585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20739,7 +20739,7 @@ decide upon the said claims according to
 such evidence as shall be laid before them j  
 on tho nnrt of tho TTnifnd States and the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863109:1840050901:0088/pct:5.7024169184290034,59.152215799614645,22.71525679758308,11.68111753371869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863109:1840050901:0088/pct:5.7024169184290034,59.152215799614645,22.727844914400805,11.689145793192036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20762,7 +20762,7 @@ their respective opinions have been formed.
 And it is agreed that the said report  
 or reports, with authenticated copies o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863109:1840050901:0088/pct:24.43353474320242,27.3121387283237,19.27870090634441,6.1295761078998074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863109:1840050901:0088/pct:24.44612286002014,27.3121387283237,19.27240684793555,6.137604367373154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20834,7 +20834,7 @@ sworn impartially to examine and decide
 upon the said clains according to such evi­  
 denee asshall be luid before them on the par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840090201:0002/pct:5.735056542810986,63.82957493514269,14.014539579967689,5.976850927958491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840090201:0002/pct:5.744031592173757,63.82957493514269,14.014539579967689,5.983502960154327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20857,7 +20857,7 @@ upon which their respective opinions have
 bevn formed. And it isagreed that the said  
 report or reperts, with authenticated eopie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840090201:0002/pct:20.288099084544964,29.235681500698462,13.920301561658588,4.041109558970265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840090201:0002/pct:20.288099084544964,29.2423335328943,13.929276611021361,4.037783542872347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20954,7 +20954,7 @@ their duty in that capacity.
 Article 3. 1 he said board shall meet in the city  
 ot Washington within three months alter the ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840092301:0576/pct:90.6109865470852,41.8194161575017,20.992152466367713,13.826657614844988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840092301:0576/pct:67.9843005326605,31.364562118126273,15.755536865713484,10.375650599683187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20975,7 +20975,7 @@ which they differ, and the grounds uoon which
 their respective opinions have been formed. And  
 it is agreed that the said report or renorts. wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840092301:0576/pct:90.44282511210763,90.48427245983254,20.96412556053812,4.763521158633175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840092301:0576/pct:67.85814409868236,67.86603303914913,15.727502102607232,3.575469563249604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21271,7 +21271,7 @@ engaging to furnish all such documents and explanations
 as might be in their possession touching the said  
 claims, whenever a demand should be made upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842082501:0344/pct:65.85656776502162,27.905954735223027,16.445504696585658,5.680070314216656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842082501:0344/pct:65.85656776502162,27.905954735223027,16.45544456040952,5.691056910569106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21446,7 +21446,7 @@ to the persons iii &#x27;possession under such grants, to
 the same extent as if Such territory had by - this  
 treaty fallen within the dominions ofthe party b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1842091401:0361/pct:104.95347564313082,122.23738062755798,20.128626163108922,3.979081400636653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1842091401:0361/pct:78.7542778918549,91.67803547066849,15.099247091033538,2.989995452478399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21477,7 +21477,7 @@ adopted by both in the 5th article of the treaty.
 To close my observations upon what passed on  
 the subject of Ghent, I would draw your attentio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842091501:0984/pct:15.15769653224541,146.4163822525597,38.00407971128197,20.560197716841238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842091501:0984/pct:5.051772827110135,48.7997175806072,12.66603911724715,6.852592766925551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21506,7 +21506,7 @@ proposed, not by the British, but by the American ne­
 gotiators, and that they were finally adopted by both  
 in the Fifth Article of the Treaty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842091601:0238/pct:65.48387096774194,60.31617349006891,16.29800307219662,6.94162950952574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842091601:0238/pct:65.48899129544291,60.3229293338738,16.29800307219662,6.945007431428185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21610,7 +21610,7 @@ hey were finally adopted by both in the huh article
 &gt;f the treaty.  
 To close my observations upon what passed on this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842111801:0482/pct:49.61252569982603,57.17684377478192,17.460066424165746,7.522374532683811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842111801:0482/pct:49.617797459012074,57.18062006721801,17.460066424165746,7.522374532683811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21771,9 +21771,9 @@ be put forward as the line intended b
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1843-04_12_58/page/n18/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1843-04_12_58/page/n18/mode/1up?view=theater)
 
-#### 1843-04-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1843-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -21805,7 +21805,7 @@ formally complied wit{u, bt not till October Gth,
 1215, when F. Hiekey, on the part of the British  
 Govermment, and J Keith, on the part of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1843062401:0136/pct:16.825479702388723,85.53221149059046,12.76595744680851,3.056855521258588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1843062401:0136/pct:16.834181786537876,85.53884961332935,12.76595744680851,3.056855521258588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21856,7 +21856,7 @@ treaty fallen within the dominions of the party b
 , either party during the war, shall be restored with­  
 out delay,” which portion of the treaty was for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82016488:00513688040:1843101401:0122/pct:36.312733305682286,33.88122189486742,16.715055993363748,2.4810048069468134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82016488:00513688040:1843101401:0122/pct:36.31964606663902,33.89155941489636,16.721968754320475,2.4706672869178683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21936,7 +21936,7 @@ soever, taken by either parly from the
 other during the war, was lo he delivered  
 up, Astoria was restored to the U. State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1845030501:0047/pct:63.24873096446701,31.135596232450684,19.619289340101524,3.1810911675848588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1845030501:0047/pct:47.448591012947446,23.351697174338014,14.724549378014725,2.3991469699662344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21972,7 +21972,7 @@ eignty, floating from the little stoca.!e. Dur­
 in the war, which soon succeeded, Asto-  
 riawas taken by the British sloop of wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1845060401:0415/pct:74.00662251655629,75.84869059165858,22.123344370860927,22.557849521962034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1845060401:0415/pct:55.539449161317044,56.893446030206455,16.60799337336923,16.918387141471527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21992,7 +21992,7 @@ shall be sworn impartially to examine and decide Sea 1
 a the shall be laid before them&quot; by the parties respee- m[m  
 tively. Before the signature of the treaty, in an- oear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845072601:0301/pct:66.47380263580843,13.912934387153431,16.972034715525556,3.6758248651361183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845072601:0301/pct:66.47380263580843,13.921298038723707,16.98274938390657,3.6758248651361183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22022,7 +22022,7 @@ agent duly authorized on the part of the Government of
 the United States to receive it--which placed our pos-­  
 session where it was before it passed into the hands o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742927:1845121001:0680/pct:51.959668238738004,108.19426861549086,46.51162790697674,19.265738289791692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742927:1845121001:0680/pct:17.31988941291267,36.06475620516362,15.503875968992247,6.421912763263897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22045,7 +22045,7 @@ without delay.&quot; In obedience to the provisions
 of this treaiy, Great Britain restored Astoria  
 to the United Stales; and thus admitted in the mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845121101:0778/pct:3.943062827225131,76.801316955806,15.18324607329843,4.267443332911232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845121101:0778/pct:3.9485165794066317,76.80975898020345,15.199607329842932,4.267443332911232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22092,7 +22092,7 @@ gainsay or explain away these facts. Both the treas­
 ty of Ghent, and the acts of the British Government  
 under it, disprove the allegations of the Britis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742927:1845121501:0701/pct:50.90150250417362,94.70869367319071,48.48080133555926,17.319071461083297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742927:1845121501:0701/pct:16.96716750139121,31.56956455773024,16.160267111853088,5.773023820361098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22145,7 +22145,7 @@ to restore the possession, and to an agent duly
 authorized on the part of the government of  
 the United States to receive it—which place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1845122501:0141/pct:52.89790059214068,57.34470807784591,13.83455948322268,7.384697414022927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1845122501:0141/pct:52.88841047721564,57.33706517393043,13.838057648606625,7.388155848771603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22223,7 +22223,7 @@ authorized on the pari of the governmant
 ofthe United States to receive i:—-which  
 placed our p ss saion where it was befor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1845123001:0469/pct:42.43073407597829,51.69124024284475,12.65352756355327,10.125758889852559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1845123001:0469/pct:42.4402551651909,51.69846776525007,12.663048652765877,10.125758889852559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22252,7 +22252,7 @@ to restore the possession, and to an agent duly
 authorized on the part of the Government of the  
 United States to r ceive it?which placed ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846010901:0466/pct:31.48967551622419,89.30276087973795,13.392330383480825,6.242395882077679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846010901:0466/pct:31.494591937069814,89.3090001559819,13.392330383480825,6.242395882077679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22280,7 +22280,7 @@ ther party from tho other, during Ihe war,&#x27; &amp;.c,
 &amp;c, &#x27;shall bo restored without delay In obcdi  
 ence to tho provisions of this treaty, Great Br
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1846011401:0401/pct:48.52598913886734,111.1079706048615,19.39487975174554,5.9355568117580555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1846011401:0401/pct:36.418315871168026,83.33804409270775,14.551804423748544,4.451667608818542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22300,7 +22300,7 @@ Ghent. To this branch of the subject belongs also
 the question whether the establishment of trading  
 factories with Indians may eventually give a righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846012401:0299/pct:21.50979586244691,67.35007126411578,15.42677079051925,3.650915469794979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846012401:0299/pct:21.51892953372608,67.35738040419545,15.417637119240078,3.650915469794979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22323,7 +22323,7 @@ Una treaty, excepting only the islands afterwards erni
 named in lbs Bay of Fundy, shell be restored wiltv- for  
 t out delay.&quot; aub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846013001:0120/pct:14.158588908310822,22.938400397416792,15.46162402669633,4.272230501738698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846013001:0120/pct:14.163885799035965,22.94254015565491,15.46162402669633,4.280510018214936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22389,7 +22389,7 @@ the war, or which may be taken after the ai
 &gt;f this treaty, excepting only the islands h  
 er mentioned, shall be restored without del
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846021901:0202/pct:47.54330708661417,29.89212242849975,11.259842519685039,2.3707977922729553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846021901:0202/pct:47.5485564304462,29.900485030941628,11.259842519685039,2.3749790934938955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22462,7 +22462,7 @@ munications between the lakes Iluion
 and Superior; the third, to that part of  
 the line from the pointl have last name
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1846082201:0524/pct:32.09105560032232,63.71242200794101,18.916196615632554,8.891094724900737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1846082201:0524/pct:24.087885506954244,47.787861599546225,14.21084458778472,6.678956324446966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22501,7 +22501,7 @@ Irticle II. All prisoners of war taken on either side, as
 II by land as by sea, shall be restored as soon as practice  
 after the exchange of the ratifications of this treaty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847100401:0957/pct:68.62348178137651,45.95400870105656,14.808470881345375,2.2871348663766313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847100401:0957/pct:68.62867227239697,45.96229542158691,14.803280390324925,2.2871348663766313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22547,7 +22547,7 @@ kes the southern line ol New iSlexico ; thence westwu dalong
 the southern boundary of New Mexico, to the  
 ithwestcrn corner of the same; thence northward alon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847100401:0957/pct:68.45219557770164,52.417650714729646,16.163189037682965,12.97700435052828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847100401:0957/pct:68.45219557770164,52.42179407499482,16.173570019723865,12.981147710793454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22601,7 +22601,7 @@ of places or persons. All hostilities by sea and land shall
 definitively cease, as soon as the ratifications of this  
 treaty shall be made and exchanged by both parties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847100501:0402/pct:147.0350622071417,210.0505902192243,45.661657779932135,9.803260258572232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847100501:0402/pct:49.011687402380566,70.01686340640809,15.220552593310712,3.267753419524077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22633,7 +22633,7 @@ be enchanged, and in the same manner all the forts, tere
 s, &amp;o.  
 Art 4. The dividing line between the two republic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847100501:0402/pct:146.88964291484893,237.1557054525014,52.140895136532556,19.595278246205734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847100501:0402/pct:48.963214304949645,79.05190181750046,17.380298378844184,6.531759415401911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22655,7 +22655,7 @@ All hostilities by sea and land shall definitively
 cease, as soon as the ratifications of ihis treaty  
 shall be made and exchanged by both parties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847100501:0554/pct:45.297249334516415,74.46101244182734,13.708961845607808,3.476113591034286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847100501:0554/pct:45.30710835058661,74.46101244182734,13.70403233757271,3.4792794504068127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22686,7 +22686,7 @@ inrcd in said forts or places and which remain io
 them when the ratifications ol this treaty shall  
 be exchanged; and in ihe same manner all ih
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847100501:0554/pct:45.40076900325347,84.92734352740051,13.664596273291925,7.094690853832272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847100501:0554/pct:45.40076900325347,84.92734352740051,13.669525781327023,7.1041884319498525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22715,7 +22715,7 @@ limits of the I nited States, as the sam&lt;? are defined by this
 treaty, the Government of the United Suites will require the  
 restoration of such 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847100901:0687/pct:80.41564439313032,63.05005038629493,16.69793621013133,8.845593998432426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847100901:0687/pct:80.42045509212488,63.057515022580525,16.69793621013133,8.845593998432426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22742,7 +22742,7 @@ pro|?erty whatever, originally captured in said forts or places,
 and which remain in them when the ratification ol this treaty  
 shall be exchanged ; and in the same manner alt the forts ter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847100901:0687/pct:80.53110116899985,75.79218452580898,16.09178813681628,7.7035046467360875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847100901:0687/pct:80.53110116899985,75.79964916209458,16.096598835810845,7.699772328593289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22855,7 +22855,7 @@ two rePUDIlCS. and nt rpstrvrintr ,ar.a
 lriendship, and good understanding among  
 them, have, for that purpose, appointed thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn86058890:00296029828:1847101101:0111/pct:35.66030230708035,99.35083262771663,21.996817820206843,6.802145074795371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn86058890:00296029828:1847101101:0111/pct:26.75552019096877,74.51312447078747,16.510841456136863,5.108664973186565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22876,7 +22876,7 @@ either side, as well by land as by sea, shall be
 restored as soon as practicable after the ex­  
 change of the ratification of this treaty. Be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn86058890:00296029828:1847101101:0111/pct:35.64041368337311,114.22523285351397,21.877486077963404,5.50381033022862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn86058890:00296029828:1847101101:0111/pct:26.735627610901133,85.67598080722551,16.43127113586632,4.120801580581428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22902,7 +22902,7 @@ w hich Miall remain therein upon the exchange
 of the ratifications of this treaty: And in like  
 manner, all the forts, territories, places, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn86058890:00296029828:1847101101:0111/pct:58.79077167859984,17.245272368049676,22.0763723150358,9.30002822466836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn86058890:00296029828:1847101101:0111/pct:44.10185000994629,12.941010443127293,16.570519196339767,6.9714930849562515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22947,7 +22947,7 @@ sides, it is agreed that if any Mexican citizens
 should he prisoners of the Camanches or of any  
 tribes of Indians within the limits of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1847101401:0292/pct:47.7007299270073,17.14994775339603,28.576642335766422,74.50365726227795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1847101401:0292/pct:47.69202700237183,17.147707979626485,28.577510186705588,74.49828044055548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22972,7 +22972,7 @@ which shall remain therein upon the exchange
 of the ratifications of this treaty: And ip dike  
 manner, all thevi forts, territories, places an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1847101401:0292/pct:62.11678832116788,38.793103448275865,14.16058394160584,5.838557993730408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1847101401:0292/pct:62.105455208903486,38.788037090244224,14.164081980173934,5.842148796308389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23087,7 +23087,7 @@ liave, for that purpose, appointed their respective pienipo- itlg
 tentiaries, &#x27;hat is tosavs the President of the United States to  
 lias appointed Nicholas P. Trist, &amp;c., &amp;o&gt;, and ?th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848020301:0136/pct:31.398667935299713,70.67924528301887,16.492229622581668,3.0440251572327046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848020301:0136/pct:31.409239877365472,70.67924528301887,16.48694365154879,3.052410901467505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23113,7 +23113,7 @@ Artickk 2. All prisoners of war taken on either side, as
 well by land &quot;as by sea, shall be restored as soon as pracii- st,c  
 cable after the exchange of the ratifications of this treaty. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848020301:0136/pct:31.366952109102442,73.43396226415095,16.476371709483033,5.19496855345912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848020301:0136/pct:31.377524051168198,73.44234800838575,16.476371709483033,5.19496855345912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23134,7 +23134,7 @@ lery or other public property originally captured in the said mt
 fort* or place*, and which shall remain therein upon the sai  
 exchange of the ratification* of this treaty. And, in like th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848020301:0136/pct:31.446241674595623,85.42138364779875,16.428797970187123,2.993710691823899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848020301:0136/pct:31.446241674595623,85.42976939203355,16.434083941220003,2.993710691823899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23153,7 +23153,7 @@ property irom the said forts or places, and which sha&#x27;l rc ^vi
 main therein upon the exchange ol the ratifications of Chit ne  
 treaty. 4*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848020301:0136/pct:31.462099587694258,90.57861635220125,16.333650491595307,2.1761006289308176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848020301:0136/pct:31.462099587694258,90.57861635220125,16.349508404693943,2.180293501048218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23174,7 +23174,7 @@ of places or persons. All hostiliries by sea and land shall
 definitively cease as soon as the ratifioations of this  
 treaty shall be made and excharged by both parties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848022201:0234/pct:54.20009824791223,220.72960881037054,50.48305223514,8.810370540323506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848022201:0234/pct:18.066699415970746,73.57653627012351,16.827684078380003,2.936790180107835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23209,7 +23209,7 @@ main in them when the ratifications of this treaty shall
 be exchanged; and in the same manner all the forts,  
 territories, ae
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848022201:0234/pct:54.39659407237596,241.65423884363886,51.596528573767806,24.435012045428472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848022201:0234/pct:18.13219802412532,80.55141294787963,17.198842857922603,8.145004015142824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23247,7 +23247,7 @@ ARTICLE HI.
 Immediately on the signature of this treaty,  
 a convention shall be entered into between 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848031301:0314/pct:5.219512195121951,104.11993591210803,51.170731707317074,33.611810482948044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742976:1848031301:0314/pct:1.7398373983739837,34.70664530403601,17.056910569105693,11.203936827649347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23305,7 +23305,7 @@ tween the United States of America and the Mexican Re­
 public, and between their respective countries, territories,  
 cities, towns and people, without exception of places or per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848032501:0135/pct:15.48190143916267,85.24374176548089,57.610117749672916,6.389986824769434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848032501:0135/pct:3.871319520174482,21.310935441370223,14.40567066521265,1.5974967061923584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23332,7 +23332,7 @@ to be established by the following articles, the Government
 of the said United States will exact the release of such cap­  
 tives, and cause them to be restored to their country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848032501:0135/pct:16.354121238552114,235.8695652173913,117.48800697775839,19.005270092226613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848032501:0135/pct:4.089422028353326,58.96739130434783,29.378407851690294,4.751317523056653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23461,7 +23461,7 @@ countries, territories, cities, towns and peo
 ple, without exception of places or persons.  
 article 11
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848033001:0618/pct:24.271137026239067,33.820410087202454,16.457725947521865,12.73862832901249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848033001:0618/pct:18.21230679498396,25.37119962290832,12.350539515893846,9.556917275512609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23493,7 +23493,7 @@ practicable after the exchange of the ratifica
 tion of this treaty. It isalso agreed that if any  
 Mexicans should now be held as captives b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848033001:0618/pct:25.262390670553938,112.2319113834551,16.457725947521865,11.98444496818289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848033001:0618/pct:18.955963837853602,84.17393353759132,12.350539515893846,8.991279754890408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23582,7 +23582,7 @@ ARTICLE II.
 Immediately on the signature of this  
 treaty, a convention shall be entered int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848040101:0482/pct:23.433829287392324,35.0547730829421,19.009397024275646,19.624413145539908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848040101:0482/pct:17.587152369761064,26.291079812206572,14.257735996866431,14.726134585289515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23616,7 +23616,7 @@ ratifications of this treaty. It is also agreed
 that if any Mexicans should now be held  
 as captives by any savage tribe within th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848040101:0482/pct:42.91307752545028,32.9264475743349,18.83320281910728,16.901408450704224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848040101:0482/pct:32.19741480611046,24.694835680751172,14.140227183705445,12.69170579029734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23659,7 +23659,7 @@ said United States will exact the release
 of such captives, and causc them to be re­  
 stored to their country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1848040501:0202/pct:3.473520249221184,35.332310234919134,25.529595015576323,6.6698146617872744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1848040501:0202/pct:3.47871235721703,35.3362452288199,25.54517133956386,6.6698146617872744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23761,7 +23761,7 @@ change of the ratifications of this treaty, or any
 slaves or other private property.&quot;  
 I call particular attention to the last line of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848061501:0896/pct:85.61192873741285,94.1359626362221,19.50038729666925,10.98858329008822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848061501:0896/pct:64.23866718326231,70.60197197716658,14.645486245641225,8.25116761805916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23784,7 +23784,7 @@ Immediately upon the signature of this treaty, a con- L
 vention shall be entered into between a commissioner or veil  
 commissioners appointed by the Geoeral-in-chief of the Me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848070701:0685/pct:0.4643714971977582,28.34104263032879,17.053642914331466,4.525565695711964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848070701:0685/pct:0.4643714971977582,28.349377005459015,17.0643181211636,4.525565695711964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23812,7 +23812,7 @@ All prisoners of war taken on either side,on land or on cor
 sea, shall be restored as soon as practicable after the ex- des  
 change of ratifications of this treaty. It is also agreed vi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848070701:0685/pct:0.4803843074459568,71.0463807975997,16.941553242594075,6.48831103887986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848070701:0685/pct:0.4803843074459568,71.05471517272993,16.941553242594075,6.48831103887986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23858,7 +23858,7 @@ All prisoners of war taken on either side, on land or on sea,
 shall be restored as soon as practicable after the exchange of  
 ratifications of this treaty. It is also agreed that if any Mexi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848070801:0246/pct:6.0285714285714285,58.947604622461576,15.7,6.563446650959273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848070801:0246/pct:6.0285714285714285,58.955084333744715,15.714285714285714,6.559706795317701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23892,7 +23892,7 @@ countries, territories, cities, towns, and people,
 without exception of places&#x27;or persoas.  
 Abticlb II
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848071101:0240/pct:27.82812043262204,13.409306742640076,13.548669979538147,8.803418803418804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848071101:0240/pct:27.837864172269317,13.415637860082304,13.543798109714508,8.803418803418804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23936,7 +23936,7 @@ shall take place, and that, in the places occu­
 pied by the said forces, constitutional order  
 may be re-established, as regards the political
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848071401:0113/pct:39.3848167539267,36.00261633339563,17.277486910994764,18.856288544197348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848071401:0113/pct:29.5534895901532,27.0042982620071,12.963205447165118,14.146888432068772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23970,7 +23970,7 @@ Mexicans should now be held as captives by
 any savage tribe within the limits of the Uni­  
 ted States, as about to he established by the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848071401:0113/pct:39.424083769633505,112.78265744720613,17.421465968586386,13.399364604746776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848071401:0113/pct:29.57967788398586,84.59166510932536,13.081052769412073,10.04485142963932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24121,7 +24121,7 @@ people, without exception of places or persons.
 Article it. Immediately upon the signature  
 of this treaty, a convention shall be entered in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848072101:0555/pct:8.523158694001518,33.41105472500343,19.115413819286257,15.00480043889727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848072101:0555/pct:6.400759734093067,25.058291043752572,14.339981006647673,11.260458099026197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24157,7 +24157,7 @@ land or on sea, shall be restored as soon as prac
 ticable after the exchange of ratifications of this  
 treaty. It is also agreed that if any Mexican
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848072101:0555/pct:8.428246013667426,5.554793581127417,50.49354593773728,122.3014675627486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1848072101:0555/pct:6.3247863247863245,4.169524070772185,37.89173789173789,91.72952955698807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24224,7 +24224,7 @@ uspension of hostilities shall take place, and that, in the
 places occupied by the said forces, constitutional order may  
 be reestablished as regards the political, administrative an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072901:0283/pct:26.31578947368421,71.24122176157036,57.11820534943917,37.735849056603776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072901:0283/pct:6.578947368421052,17.81030544039259,14.279551337359793,9.433962264150944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24246,7 +24246,7 @@ day of Novembet.  o those hereafter to become due, by reason of the claims ale
 All prisoners of war taken on either side, on land or one iate an deide ain the ean teu i  
 ea, shall be restored as soon as practicable after the exone te on enio een te to ei e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072901:0283/pct:26.100086281276962,233.826888907691,116.99741156169111,13.672899568491411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072901:0283/pct:6.5250215703192405,58.45672222692275,29.249352890422777,3.418224892122853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24280,7 +24280,7 @@ ican republic, and between their respective coun­
 ties, territories, cities, towns, and people, without  
 exception of places or persons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848072901:0770/pct:30.75933075933076,32.211825602229744,12.458172458172458,8.162452717499502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848072901:0770/pct:30.767910767910767,32.21514367244011,12.466752466752467,8.165770787709867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24309,7 +24309,7 @@ land or on sea, shall be restored as soon as practi
 cable after the exchange of ratifications of this  
 treaty. It in also agreed that if any Mexican
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848072901:0770/pct:29.987129987129986,84.49133983675094,12.303732303732303,6.101931116862433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848072901:0770/pct:29.995709995709994,84.49465790696131,12.303732303732303,6.11188532749353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24444,7 +24444,7 @@ ican republic, and between their Tespectivecountries,
 territories, cities,&#x27; towns, and people&#x27;,&#x27; without excep­  
 tion of places or persons-. . ..:.., , &#x27; .-i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849041101:0487/pct:2.6434195725534306,52.14881334188583,20.205286839145106,11.631387641650631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849041101:0487/pct:1.9828434819294052,39.11695531323498,15.159611868935452,8.723540731237973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24461,7 +24461,7 @@ tion of places or persons-. . ..:.., , &#x27; .-i
 or on sea, shall be restored as soon as praciicaple States whensoever this may be&#x27; necessary ; and that  
 aftetthe exchange of ratificationsof this treaty.&quot; It i when they cannotbe . prevented, &#x27; they shall be pun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849041101:0487/pct:23.847019122609673,20.996365191361985,41.704161979752534,1.9243104554201411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849041101:0487/pct:17.887779496554632,15.747273893521488,31.28955139924061,1.443232841565106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24513,7 +24513,7 @@ restitution of, or full compensation for, all slaves
 who, at the date of the exchange of the ratifications  
 of the said treaty were in any territory, places, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852073101:0199/pct:2.5701327061985553,243.0316742081448,47.740634973962706,27.36425339366516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852073101:0199/pct:0.8567109020661852,81.0105580693816,15.913544991320903,9.121417797888386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24545,7 +24545,7 @@ tiaries have signed the same, and have there-­
 unto affixed the seal of their arms  
 Done at London, this twentieth day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852073101:0199/pct:3.5276331261548797,31.88914027149321,95.1956996472367,259.8529411764706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852073101:0199/pct:1.1758777087182932,10.62971342383107,31.73189988241223,86.61764705882354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24609,7 +24609,7 @@ j private property.” The British Government
 ! vale also, and so to res’ore only such slaves a­  
 ! were original* captured within the forts, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853072801:0092/pct:32.35648706296949,27.51715057861548,12.547528517110266,4.511121890374888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853072801:0092/pct:32.35348664688427,27.515243902439025,12.549455984174084,4.5131189948263115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24673,7 +24673,7 @@ property.&quot; The British Government undertook to
 extend the limitation which applied to public  
 property to that which was private also, and so t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190546:1853080101:0043/pct:121.45461523699866,81.81683681017903,55.67069660333909,27.60763426542388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190546:1853080101:0043/pct:30.363653809249666,20.454209202544757,13.917674150834772,6.90190856635597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24755,7 +24755,7 @@ und which shall remain therein upon the exchange of the
 ralifiisation* of thia treaty, or any slaves or other private  
 property 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854041801:0577/pct:19.75390754905221,58.76181841730346,15.996009311606253,4.818028752752234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854041801:0577/pct:19.764992794590402,58.77045287743384,15.996009311606253,4.818028752752234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24882,7 +24882,7 @@ middle of said lake, until it arrives at the
 water communication into I ake Erie, through  
 the middle of said lake, until it arrives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775678:1860071001:0139/pct:63.333333333333336,244.966531040819,44.166666666666664,34.755217220107625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775678:1860071001:0139/pct:15.833333333333334,61.24163276020475,11.041666666666666,8.688804305026906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24911,7 +24911,7 @@ TREATY OF PEACE AND AMITY, BETWEEN HIS BRITANNIC
 MAJESTY ANB THE U. 8. OF AMERICA.  
 [Ratified and confirmed by ar.d with the advice an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860122001:0601/pct:15.920469174653125,31.04940134822417,11.099985695894722,4.527618472683368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860122001:0601/pct:15.925237209745864,31.05610893114666,11.10475373098746,4.530972264144616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24931,7 +24931,7 @@ captured in the said forts or places, and which shall re­
 main therein upon the exchange of the ratifications of  
 this treaty, or any slaves or other private property
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860122001:0601/pct:15.877556858818481,35.89898380118724,11.171506222285796,1.7104336452359392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860122001:0601/pct:15.88232489391122,35.90569138410974,11.171506222285796,1.7104336452359392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25006,7 +25006,7 @@ and which shall remain therein upon the exchange
 of the ratification of this treaty,or any  
 aav o ori avar ao
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861010201:0010/pct:77.88778877887789,297.201646090535,43.72937293729373,16.419753086419753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861010201:0010/pct:19.479983491539414,74.30041152263375,10.936855138258357,4.104938271604938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25033,7 +25033,7 @@ and which shall remain therein upon the exchange
 of the ratifications of the treaty, or any  
 BG SLAVES OR OTHER PRIVATE PROPErTY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475269:1861010701:0050/pct:46.64332784184514,234.22284644194755,37.870675453047774,18.39887640449438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475269:1861010701:0050/pct:15.547775947281714,78.07428214731586,12.623558484349259,6.132958801498128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25079,7 +25079,7 @@ therein upon the exchange ol the ratifications
 of this treaty, or any slaves or other private  
 property
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1861013001:0229/pct:72.61111111111111,32.34551495016611,17.074074074074073,7.48172757475083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1861013001:0229/pct:54.48314190440904,24.26578073089701,12.81956280103742,5.607973421926911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25111,7 +25111,7 @@ tue master, subtest to bis orders and to reasonable
 corrections for misbehavior.&quot;  
 And as the lust and crowoinir authority upon thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061076:00200293897:1861022201:0860/pct:75.92592592592592,44.573041637261824,17.033542976939202,12.180663373323924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061076:00200293897:1861022201:0860/pct:56.98304492221639,33.436838390966834,12.777486453417234,9.13196894848271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25146,7 +25146,7 @@ yior as the last and crowning anthority
 upon this point, I give an extract from the  
 opinion of the Chief Justice of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861022801:0208/pct:62.08035222894882,98.10161308021507,44.52394056136489,37.48491166465489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861022801:0208/pct:15.520088057237205,24.52540327005377,11.130985140341222,9.371227916163722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25188,7 +25188,7 @@ af the sat atie t thi
  tie tatincattons of this treaty, or  
 eny slaves or othur private property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1864012101:0752/pct:260.06519967400163,73.88222464558342,113.44743276283619,299.5092693565976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1864012101:0752/pct:65.02954962298757,18.470556161395855,28.36763806806603,74.8773173391494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25214,7 +25214,7 @@ or wl ful y omin g to acl as such,&quot;ec, &quot;some friend­
 ly sorereign or State to be then named for that  
 purpose, who shall decide,&quot; &amp;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288993:1864070201:0013/pct:82.3869104908566,342.32488822652755,50.04812319538017,17.06408345752608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288993:1864070201:0013/pct:20.601684717208183,85.58122205663189,12.515042117930205,4.26602086438152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25369,7 +25369,7 @@ hnd John Quinoy Adams, James A. Bayard, Henry Clay,
 Jonathan Russell and Albert Gahatin, representing the  
 United States of America. 4. The claim on the part Q
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110193:1870073101:0001/pct:5.7749077490774905,37.97304302747538,12.047970479704796,1.179367547952307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110193:1870073101:0001/pct:5.7749077490774905,37.976283048211506,12.071033210332104,1.179367547952307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25387,7 +25387,7 @@ to negotlate a treaty. The United States
 appointed John Quincy Adams, James A. Bayard,  
 Heary Clay, Jonathan Russell and Albert Gallatin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872020601:0451/pct:100.8124576844956,96.47283126787417,52.522004062288424,5.183508102955195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872020601:0451/pct:33.60415256149853,32.15761042262472,17.507334687429474,1.7278360343183985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25762,7 +25762,7 @@ Bayard, Henry Clay, Jonathan Russell
 and Albert Gallatin. In recognition of  
 the event n number of veterans of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069117:00206533717:1893022001:0176/pct:67.36798679867987,97.49749749749749,19.36881188118812,2.7885027885027887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069117:00206533717:1893022001:0176/pct:50.546729936042915,73.13027313027312,14.524448112234372,2.0878020878020878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25780,7 +25780,7 @@ Bayard, Henry Clay, Jonathan Russell
 and Albert Gallatin. In recognition oi  
 the event a number of veterans of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059538:0051415742A:1893022001:0175/pct:42.394014962593516,73.84150943396226,12.572734829592685,1.9320754716981132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059538:0051415742A:1893022001:0175/pct:42.38520673176813,73.83036522789013,12.575316850197382,1.93555689707214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25798,7 +25798,7 @@ Bayard, Henry Clay, Jonathan Russell
 and Albert Gallatin. In recognition of  
 tho event a number of veterans of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289407:1893022301:0147/pct:47.12595097210482,108.59984697781178,18.554522400676248,2.8003060443764345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289407:1893022301:0147/pct:35.36250264214754,81.45371078806427,13.908264637497357,2.0964039785768938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26109,7 +26109,7 @@ capacity to serve from sickness or any
 other cause, of either of the two com  
 missioners or of the umpire, If any, hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621140:1896061201:1154/pct:22.628458498023715,16.194690265486727,16.58102766798419,10.501474926253687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621140:1896061201:1154/pct:16.982997232107554,12.15339233038348,12.455516014234876,7.876106194690266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26159,7 +26159,7 @@ vided for in the original appointment.
 Article Vll.—Each Government shall  
 provide for t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768704:1896061201:0635/pct:24.01034092745193,51.95752440201652,13.523994183228309,14.684114555400622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768704:1896061201:0635/pct:24.021112726881025,51.95752440201652,13.513222383799214,14.694840716507562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26204,7 +26204,7 @@ ment.
 Article Vll—Each Government shall provide  
 for the remuneration o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037391:1896061201:0192/pct:84.56057007125891,28.339939379808815,13.333333333333334,12.252273257169504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037391:1896061201:0192/pct:84.56057007125891,28.343825289500273,13.343890208498285,12.26393098624388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26294,7 +26294,7 @@ and of restoring upon principles of perfect recl
 procity, peace, friendship and good understanding  
 between them,&quot; etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036878:1898070501:0110/pct:103.87571545380213,240.49844236760126,47.94766966475879,11.070315976858033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036878:1898070501:0110/pct:34.62523848460071,80.16614745586708,15.982556554919597,3.6901053256193443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26317,7 +26317,7 @@ upon principles of perfect reciprocity.peace,
 friendship and good understanding between  
 them,&quot; etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109166:1898071001:0233/pct:23.520368946963874,6.919926564044626,34.10837817063797,120.29374382149413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109166:1898071001:0233/pct:17.64366711512589,5.197006072588618,25.600615029790504,90.21324671656545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26339,7 +26339,7 @@ upon principles of perfect reciprocity,
 peace, friendship and good understanding  
 between them,” etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182240:1898071201:0800/pct:57.99635701275046,90.5682145947505,12.823315118397085,3.533314104413037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182240:1898071201:0800/pct:58.002428658166366,90.57302182482454,12.823315118397085,3.5429285645611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26384,7 +26384,7 @@ and good understanding between
 them,&quot; ect.&quot;  
 The treaty of Guadalupe Hidalgo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295861496:1898081001:0149/pct:18.704028021015763,37.038708949328516,17.110332749562172,5.54113531204153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295861496:1898081001:0149/pct:18.709865732632807,37.042470751984354,17.116170461179216,5.544897114697363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26438,7 +26438,7 @@ toration of territories, places and
 possessions whatsoever, excepr those  
 hereinafter provided for; the re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150953:1898091901:0002/pct:53.04399348244704,38.003041054232135,14.664494149014962,11.353269133299543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150953:1898091901:0002/pct:53.04399348244704,38.00979895252576,14.674369229249988,11.349890184152729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26516,7 +26516,7 @@ Great Britain.
 Article 10 provides for the con­  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150953:1898091901:0002/pct:53.088431343504666,51.13025848960973,14.694119389720042,35.620881905727316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150953:1898091901:0002/pct:53.093368883622176,51.13025848960973,14.694119389720042,35.631018753167766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26537,7 +26537,7 @@ Commissioners John Quincy Adams,
 James A. Bayard, Henry Clay, Jonathan  
 Russell and Albert Gallatin. The Ash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769812:1898100801:0499/pct:18.1071568244036,78.2279218886622,12.397340633554947,3.7598367822792187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769812:1898100801:0499/pct:18.1071568244036,78.2279218886622,12.402229174814236,3.77076654036724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

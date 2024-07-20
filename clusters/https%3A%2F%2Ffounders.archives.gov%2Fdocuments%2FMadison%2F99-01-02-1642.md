@@ -203,7 +203,7 @@ north western quarter, to the rivci Missis­
 sippi, for the purpose of enabling British  
 subjects to enjoy the navigation of that river
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0016/pct:40.212221002561286,13.675648195221148,18.09366995975119,72.77580071174377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0016/pct:40.204865556978234,13.6739102808489,18.096457533077253,72.77078832549668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ deration,
 Sir,  
 ^ our most obedient humble iprmnt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0016/pct:58.433955360409804,1.3599389933909507,36.02268569337724,96.35231316725978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051401:0016/pct:58.4232668739711,1.3597661710509594,36.02219376867264,96.34430465539882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ tend to the north-west coast of America, or
 • to the territories belonging to, or claimed bv  
 eitlyer party, on the continent of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0019/pct:23.004781169547627,35.97076981227164,18.13166605369621,7.017764898576289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0019/pct:23.000551571980143,35.966238347190725,18.13446099160385,7.021080036953053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ said lake ; and that the said line, to and a­
 iong and with the said parallel, shall form  
 the southern boundary of his majesty’s sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0019/pct:41.68812063258551,37.986644828020665,17.543214417065098,7.030364117424719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0019/pct:41.68045596617025,37.981859410430836,17.546117546117546,7.033677668598304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ not provide, was not to be affected by it ; but on
 the contrary, that die rights of the United States  
 and the claims of their citizens were understoo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0019/pct:78.02500919455682,56.14211918861031,18.058109599117323,4.976691445130402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0019/pct:78.01066372494944,56.13504661123709,18.060918060918063,4.980263710422441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ l shall be the line of demarcation between
 ! of the said territories of the United States,  
 1 and the southern boundary of the territo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020601:0668/pct:27.339513730977785,7.237701349586417,17.666608361028512,13.114932520679147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819020601:0668/pct:27.33473242392445,7.236913701164435,17.669348256966305,13.117132803714586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -725,7 +725,7 @@ Ninth. The ai tide concerning Indian pacifica-!
 tion already agreed on. i  
 Tenth. Tor tire one party to restrain the Indian.;]
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828110401:0224/pct:19.94168151628058,48.30836152730788,15.40579944921432,6.8148864185596905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828110401:0224/pct:19.938451571104633,48.30252506946962,15.408703163805205,6.818090290362853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ t ern boundary of the territories of his Brit
 , annic .Majesty, from the Lake of the W ood:  
 - to the Stony mountains
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1846031801:0495/pct:40.2013539316091,84.2442904798563,13.365735115431349,10.071850141134206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1846031801:0495/pct:40.194376952447065,84.23348300192431,13.367754251995835,10.073765234124439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ to the northwest coast of America, or tu the territories b
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1846-08_4_2/page/n4/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1846-08_4_2/page/n4/mode/1up?view=theater)
 
 #### 1846-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -885,7 +885,7 @@ Artile II
 It is agreed, that any country that may be  
 claimed by either party on the northwest coast o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852073101:0199/pct:1.5118427683520914,189.60407239819006,47.47186292625567,19.84162895927602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852073101:0199/pct:0.5039475894506972,63.20135746606335,15.82395430875189,6.613876319758672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ the said line shall intorsect the said paraliel of north
 latitude, and from the point of such intersection due  
 west along and with the said parallel, shall be th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112701:0349/pct:165.31393568147013,263.82089552238807,51.07197549770291,12.238805970149254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112701:0349/pct:41.34431252393719,65.95522388059702,12.772883952508618,3.0597014925373136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -63,7 +63,7 @@ pronder of any dress in my life, and thal
 she and her danghter might do it again  
 if necessar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843070801:0540/pct:55.188016851302855,209.2095721537346,44.95241067249181,25.864152767706067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843070801:0540/pct:18.393135725429016,69.72809667673717,14.981799271970878,8.620342396777442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ manufacture; that I was never prouder of
 any dress in my hie, and that she and her •  
 daughter might do it again if necessary.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1843072001:0527/pct:29.429373246024323,46.95652173913044,13.283442469597755,7.108350586611456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1843072001:0527/pct:29.4238683127572,46.95004140215291,13.285634118967453,7.110819762627656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ she and her daughter might do it ogam if neces.
 sary.&quot;  
 DCpUndcr the head of a &quot;new move e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1843072901:0707/pct:68.71056782334385,41.73325138291334,19.242902208201894,10.84818684695759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1843072901:0707/pct:51.54801814237823,31.299938537185003,14.435022677972787,8.14382298709281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ ver prouder :pf any dress in my life, and
 that she »od :^er daughter might do it a­  
 gain if neceifiry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843080301:0291/pct:69.95957110212692,78.73427672955975,12.814202847600633,7.8747379454926625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843080301:0291/pct:69.94727592267135,78.72396174505437,12.81634446397188,7.876981527577623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ wife&#x27;s manufacture that I never was prou
 der of any dress in my life, and that she  
 and her daughter might do it again if ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1843092201:0311/pct:4.5588463327647695,85.52908587257618,14.979066521941386,8.055401662049862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1843092201:0311/pct:4.564015092779242,85.53277931671283,14.973897761926914,8.059095106186518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ was never prouder of any dress in my life
 and she and her daughter might do it again if  
 necessary.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1845080501:0088/pct:56.65204678362573,58.739431206764024,22.685185185185187,10.330514988470407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1845080501:0088/pct:42.505483792347064,44.05841660261338,17.011942481111383,7.747886241352806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ clothed from head to foot In woolen and
 linen of my wito&#x27;s manufacture , and that  
 she and her daughter might do it again i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538144:1886042101:0649/pct:92.62182566918325,71.88602442333786,16.197666437886067,4.884667571234735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538144:1886042101:0649/pct:69.48687146044277,53.921302578018995,12.150334649047537,3.6635006784260518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ head to foot in woolen and linen of mv wife&#x27;s
 manufacture, and that she and her daughter  
 might doit again if necessary.” It was in Bos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1886050601:0700/pct:25.254051084866795,83.8603785972207,9.557813787421038,1.8054491738702265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1886050601:0700/pct:25.258628581891422,83.86767334135754,9.562391284445665,1.8090965459386512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ head to foot In woolen and linen of my
 wire s manufacture, and that I never  
 was prouder of any dress in my life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elephanttree_ver01:data:sn94051692:00211106153:1899052701:0541/pct:32.14822233350025,34.919294294294296,17.200801201802705,3.688063063063063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elephanttree_ver01:data:sn94051692:00211106153:1899052701:0541/pct:21.434831601352197,23.28265765765766,11.468636534368349,2.4587087087087087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1910,7 +1910,7 @@ ple.’
 IThe story of tho taking of the Earl of Selkirk’s  
 plate is well known. Toe following is the lette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830052401:0492/pct:3.5225993244330063,5.903271692745377,18.980215538040856,52.027027027027025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830052401:0492/pct:3.5220328079768413,5.902572004266919,18.982523855473357,52.02481134684525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2013,7 +2013,7 @@ tress which feoey hare -occasioncd in America nvav
 h« rt«n brought bmc to th»&#x27;TT own doors One nf  
 nry people cm* misting md must, 1 fact, ba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830052501:0178/pct:3.0646448523543497,6.0252555622369215,19.154030327214684,47.528562838244135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830052501:0178/pct:3.064155761251197,6.024531024531025,19.156293222683264,47.526855860189194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2628,7 +2628,7 @@ loaded with porter and merchandise,
 which he manned and sent to Brest; met  
 a Scotch coasting schooner, loaded wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:0028077795A:1865030401:0215/pct:190.72916666666666,201.17774176121014,45.416666666666664,13.733117233927606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:0028077795A:1865030401:0215/pct:63.576388888888886,67.05924725373671,15.13888888888889,4.577705744642536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2676,7 +2676,7 @@ as common as almanacs in every
 house on the British coast. An  
 amusing instance of the terror i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:0028077795A:1865030401:0215/pct:191.01190476190476,27.412209616423556,90.55059523809524,258.1955699621826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:0028077795A:1865030401:0215/pct:63.67063492063492,9.137403205474518,30.183531746031747,86.0651899873942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2983,7 +2983,7 @@ by far the most significant of all his ex- cunerior force as the tronhv of his s
   
 periences at Brest was that it brought him valor. If the Due and Duchcsse de Char
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82016187:00211102366:1898042101:0256/pct:6.820566631689402,69.87497519349077,51.10178384050367,4.405636038896606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82016187:00211102366:1898042101:0256/pct:5.117438656344312,52.41119269696368,38.3545466474216,3.3042270291724547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3010,7 +3010,7 @@ tion &quot;of the King, contains also the follow
 ing, which seems to have been expunged  
 from the official text as printed in the ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82016187:00211102366:1898042101:0256/pct:6.74186778593914,75.92776344512801,16.434942287513117,6.608454058344909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn82016187:00211102366:1898042101:0256/pct:5.064952106022831,56.945822583846,12.334339325547829,4.961301845604287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

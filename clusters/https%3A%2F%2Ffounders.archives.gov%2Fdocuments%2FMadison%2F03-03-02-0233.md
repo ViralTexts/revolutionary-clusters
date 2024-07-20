@@ -97,7 +97,7 @@ giuus meinie-s. us-su&#x27;h; a legal Rgcn-y ;;
 carrying into cﬀ-si at :- pubiic and siivil du-si­  
 . — .M&#x27;MES sin.-wrsocts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811022601:0182/pct:54.33005172701485,6.088543167194852,43.3172034039713,85.63334293671372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811022601:0182/pct:54.32098765432099,6.087958517380449,43.315537759982206,85.62832085013764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ in carrying; into effect a public and civil du­
 ty­  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811030501:0393/pct:5.097828038054209,44.217853217731104,17.411595763776702,28.97789717914275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811030501:0393/pct:5.096913137114142,44.21245421245421,17.41445321847332,28.97842897842898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ I Mill of pious charity, would b: a precedent for
 t gei.c^ in carr&gt;ing intoeff«&amp; a ublic nrd civil da.  
 I ty. J AML&#x27;s MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811030501:0084/pct:24.63063400037404,29.34686112872543,18.215821956237143,24.996829422954978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811030501:0084/pct:24.62602842183994,29.34313974131372,18.218648716030916,24.997886550004228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ would be a precedent for giving te religious
 societies, as such, a legal agency ip carrying  
 into effect @ publick and civil duty,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811032701:0381/pct:29.53258935791687,45.04087461833941,21.963448164321527,34.04904954200729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811032701:0381/pct:29.543371610329398,45.04415772021406,21.952665911908998,34.04576644013264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ societies, as such, a legal agency in carrying
 into effect a public and civil duty.  
 (Signed,) James Madison.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1874081201:0266/pct:45.14980353634578,21.468781985670418,12.536836935166994,25.99795291709314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1874081201:0266/pct:45.14426028238183,21.466950959488273,12.53939021894823,25.99857853589197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ civil and religious functions in general.
 article of the Constitution which provides  
 that Congress shall make no law respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn85054468:0021110210A:1897083101:0585/pct:29.176682692307693,84.375,17.833533653846153,4.887820512820513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dutch_ver02:data:sn85054468:0021110210A:1897083101:0585/pct:19.461977757739707,56.25,11.887586414186956,3.2623626373626373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -862,7 +862,7 @@ also a precedent for giving to religious so­
 cieties a legal agency in carrying into ef­  
 : feet a public and civil duty, which would
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655168:1897111701:0613/pct:71.35377711293941,33.01228364042434,13.63126402393418,1.3679508654383026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655168:1897111701:0613/pct:71.35377711293941,33.01577331099944,13.649962602842184,1.3784198771635958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -879,7 +879,7 @@ also a precedent for giving to religious so­
 cieties a legal agency In carrying into ef­  
 fect a public and civil duty, which would
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655181:1898020301:0184/pct:29.259119969913503,48.067768132175864,13.520120345994735,1.358162979557547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655181:1898020301:0184/pct:29.273223016171492,48.067768132175864,13.529522376833397,1.3686642397087652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,7 +915,7 @@ stablishment and also a precedent for
 giving to religious societies a legal agency  
 in carrying into effect a public and civi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655193:1898040401:0293/pct:29.192660550458715,25.36031042128603,13.596330275229358,1.3442350332594235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655193:1898040401:0293/pct:29.206422018348626,25.367239467849224,13.587155963302752,1.3511640798226163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -961,7 +961,7 @@ the United States which declaras that &quot;Con­
 gress shall makes no law respecting a re­  
 ligious establishment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871908:1899031201:0123/pct:39.85287754218953,79.81459829630867,16.583729987018607,9.93819943210289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871908:1899031201:0123/pct:29.89612637957152,59.86303657925505,12.443194113828175,7.457825288124269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -984,7 +984,7 @@ would be a precedent for giving to religious
 societies, as such, a legal agency in carrying  
 into effect a public and civil duty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871908:1899031201:0123/pct:39.89614885331026,89.69433773175213,16.54045867589788,4.484716886587607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871908:1899031201:0123/pct:29.928586885955422,67.2707532988141,12.410733607444277,3.365625521964256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1001,7 +1001,7 @@ tongress . complained of, by giving to reli­
 gious s.cieties a legal agency in carrying  
 into effect a public and civil duty, oblite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655260:1899060201:0631/pct:15.404506834133727,27.90277777777778,13.557443664573329,1.3611111111111112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_japanesechin_ver01:data:sn83045462:00280655260:1899060201:0631/pct:15.404506834133727,27.90972222222222,13.575914296268932,1.3645833333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

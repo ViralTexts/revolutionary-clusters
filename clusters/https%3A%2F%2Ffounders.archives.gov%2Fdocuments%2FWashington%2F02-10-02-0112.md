@@ -198,7 +198,7 @@ f every
 tree state, and without which, life, hiserty, and property  
 are rendered totally insecure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:11.415349016583109,16.794582392776523,122.96567682221365,373.89014296463506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:2.85328706381338,4.1980138429130305,30.735492577597842,93.45847126090882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ toss of those valuable rights and privileges which are cent al
 to the happiness of every free State, and without which, life,  
 liberty, and proj&gt;erty are rendered totally insecure.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:65.0916784203103,77.065671979202,15.698166431593794,11.246750310839833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:65.0916784203103,77.07320749029803,15.702867889045605,11.250518066387853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ vil discord prevented
   
 In a letter of John Jay to George A. Otis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:44.00056665250035,11.748173130972457,12.63635075789772,9.713322091062395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:44.00056665250035,11.748173130972457,12.641072862067338,9.724564362001125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ poisible, to the world for their own conduct.&quot; It muy be,
 indeed, most safely asserted that, hi.d the British Govern­  
 ment, even at that late period, conSen&#x27;ed to do justico to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850071301:0284/pct:38.00832103073413,71.62190737999578,14.924171252180916,6.460139564389935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850071301:0284/pct:38.01726837560954,71.62895608655812,14.919697579743211,6.460139564389935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ ple, but less than one year after that, the American
 people had changed their minds, and then the ery was  
 for independence, and George Washington was the ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864061601:0338/pct:54.52766411670521,165.3788447111778,48.97705034691336,23.01825456364091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864061601:0338/pct:18.17588803890174,55.1262815703926,16.32568344897112,7.672751521213637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ leges, which are essential to the happiness of eve
 free State, and without which, life, liberty, and  
 property, are rendered totally insecure. The whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:3.4979757085020244,141.58937364021529,49.08502024291498,15.012023359670216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:1.165991902834008,47.19645788007176,16.361673414304992,5.0040077865567385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ the happiness of avery free State, and with
 which life, liberty and property are rene  
 utterly insecure.&quot; These are expres-­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743920:1876022201:0568/pct:54.71635883905013,96.27106903717386,56.94261213720316,31.794042946201802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743920:1876022201:0568/pct:18.238786279683378,32.09035634572462,18.980870712401057,10.5980143154006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ It is sad to realize that every civilized
   
 nation on the globe has written its his
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559917:1885022701:1173/pct:270.51851851851853,259.8624484181568,48.370370370370374,13.810178817056396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559917:1885022701:1173/pct:67.66722253103576,64.9656121045392,12.099314433944784,3.452544704264099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ free state, and without which life,
 liberty and property arc rendered to­  
 tally insecure.&quot; This quality of man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740888:1891112801:0430/pct:9.017223910840933,5.011238926351977,20.854441067207024,90.83696945656486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740888:1891112801:0430/pct:9.02144545761567,5.021155626074309,20.86710570753124,90.84027502313897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1001,7 +1001,7 @@ leges without which life liberty and prop
 erty are rendered totaii ;n.-aeure. Give me  
 leave to add as my opu n that If the ml
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022301:0570/pct:40.26458616010855,102.39673635900051,16.59882406151063,13.41152473227945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022301:0570/pct:30.204681669116816,76.79755226925039,12.45052583964718,10.062893081761006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ this occasion than history has ever yet fur­
 nbhed instances of in the annals of North  
 America.&quot; &quot;1 would advise.&quot; said Samue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022301:0570/pct:40.400271370420626,116.77715451300357,16.47444595205789,1.3768485466598674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022301:0570/pct:30.306457084699762,87.58286588475268,12.360058803573448,1.03688594254632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1053,7 +1053,7 @@ to the inhabitants of every free state
 and without which life, libertv and  
 property are rendered totally insecure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897050701:0360/pct:11.602209944751381,50.80496497480644,41.3328729281768,36.475359469091806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897050701:0360/pct:7.737478411053541,33.86997664987096,27.564766839378237,24.32100282659457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1106,7 +1106,7 @@ erty that peace and tranquillity, on consti­
 tutional grounds, may be restored and the  
 horrors of civil war prevented.” Benjami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897070301:0022/pct:28.77982276755283,28.75227871176828,12.733469665985004,6.2791168725946935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897070301:0022/pct:28.788911610997502,28.75565458105462,12.733469665985004,6.282492741881034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1142,7 +1142,7 @@ e grounds may be restored and the horrors of otvil dte
  This only shows that even a great patriot  
  may temporarily misinterpret public senti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070701:0474/pct:0.0,141.19076549210206,71.26524390243902,23.633049817739977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070701:0474/pct:0.0,35.297691373025515,17.816310975609756,5.908262454434994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1219,7 +1219,7 @@ upon constitutional grounds may be re?
 stored and the horrors of civil discord  
 be prevented.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033749:1897071201:0510/pct:3.2295850066934406,37.90341039139391,13.88888888888889,5.001144426642252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033749:1897071201:0510/pct:3.240740740740741,37.90341039139391,13.88888888888889,5.0125886930647745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1255,7 +1255,7 @@ upon constitutional ground?, may be restored
 and the horrors of civil discord be prevented.&quot;  
 Not many months later the writer of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206537450:1897072301:0233/pct:69.22607235536559,52.496168162907814,26.01129598534575,40.14670462010072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206537450:1897072301:0233/pct:69.23116063705287,52.49981753156704,26.01129598534575,40.154003357419164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

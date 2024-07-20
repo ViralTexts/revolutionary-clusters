@@ -64,7 +64,7 @@ agreed that if there should be any twroops,
 garrisons, or fettlemefits of either party,  
 on the territorv of the other ac¢ording t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796040901:0057/pct:8.702384639207185,55.134328358208954,15.80984825023227,8.189054726368159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796040901:0057/pct:8.707546195932693,55.140961857379764,15.820171363683286,8.195688225538971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -90,7 +90,7 @@ to the Atlantic Ocean. And it is
 egreed that if there-thould be any troops,  
 garnfons, or settlements of either party
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796041601:0061/pct:6.399752666563611,55.27603074772886,15.81388158911733,6.988120195667365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796041601:0061/pct:6.404905446488381,55.27603074772886,15.819034369042098,6.994775548234668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ thereof, to its, junction with the Flint; thence
 ^.yitraigtit to.tha head of St. Mary’s river, and Irom  
 ^Pheoca down the middle thereof to the Atlanti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811011601:0313/pct:7.190676915447558,56.14860480207658,22.464666501363748,6.132381570408826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811011601:0313/pct:7.188894397620228,56.13949716139497,22.465294992563212,6.13544201135442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ straight to the head of St. Mary&#x27;s river, and thence
 down the middle thereof to the Atlantic.&quot; M. Ellicott  
 was appointed on the part of the United states, and Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847121701:0698/pct:104.13735343383584,195.54821814869635,50.15075376884422,10.827735397927816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847121701:0698/pct:34.71245114461195,65.18273938289879,16.716917922948074,3.609245132642605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ was appointed on the part of the United states, and Mr
 4 with the Flint; then straight to the head ol St. Mary&#x27;s Over,  
 ? and thence down the middle thereof to ihe Atlantic ocean.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848022601:0096/pct:3.6580178647384094,14.462996389891696,15.723805472848433,4.117779783393502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848022601:0096/pct:3.6580178647384094,14.4705174488568,15.733257715392977,4.117779783393502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

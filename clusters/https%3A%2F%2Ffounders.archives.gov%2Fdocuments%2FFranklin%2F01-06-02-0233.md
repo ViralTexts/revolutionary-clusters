@@ -209,7 +209,7 @@ the Assembly, and Doctor Franklin was appointed
 agent to present the same to the King, and for  
 that purpose went to England, in the summer o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1843022701:0726/pct:52.41581259150805,145.64276885043265,48.90190336749634,32.509270704573545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1843022701:0726/pct:17.471937530502686,48.547589616810875,16.300634455832114,10.836423568191183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ Third. That to guard for the future against an undue exercise
 of that power by the Lords, and to secure to the Commons their  
 rightful control over taxstion and su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860072101:0592/pct:102.2656378263011,175.11488970588235,48.13659497619439,18.543198529411764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860072101:0592/pct:34.08854594210037,58.37162990196079,16.045531658731463,6.181066176470588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ limitation-of&#x27;all such grants as to the matter,
 manner; measure and tijae is only in them.”  
 ’ &#x27;2d, 44 That idthonghMhe Lords have exercise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860072301:0002/pct:13.889406069633216,89.52020202020202,9.86780860175014,2.006172839506173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860072301:0002/pct:13.898715323031093,89.52721661054994,9.872463228449078,2.006172839506173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ an essential part of their constitution ; and the
 limitation of all such grants, as to the matter,  
 manner, measure, and time, is only in them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860072301:0690/pct:5.698171917541813,43.710647824261926,15.869311551925321,4.183573527354135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860072301:0690/pct:4.415975885455915,33.87912961758115,12.318512936448128,3.2458613460565315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ tion, and the limitation of ail such grants as
 to the matter, manner, measure, and time  
 is only in them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:0041566350A:1860072401:0293/pct:85.77987343342846,15.870114041960477,13.599702196302271,3.273265430486637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:0041566350A:1860072401:0293/pct:85.78814575836539,15.875917704071268,13.607974521239194,3.273265430486637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ tion, and the limitation of all such grants as
 to the matter, manner, measure, and time, is  
 only in them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860072401:0075/pct:128.29553767373812,120.93119933485762,37.381126554498906,6.433173976304302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860072401:0075/pct:42.76517922457937,40.31039977828587,12.4603755181663,2.1443913254347677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

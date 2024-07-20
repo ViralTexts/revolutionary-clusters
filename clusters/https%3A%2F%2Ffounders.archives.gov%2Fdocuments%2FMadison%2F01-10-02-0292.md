@@ -200,7 +200,7 @@ substitute an indiscriminate and unbounded jea­
 iousv, w ith which all reasoning must be vain.”  
 The Committee believe that this answer, tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826030601:0136/pct:24.08316961362148,19.64580354196458,17.567125081859857,19.95380046199538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826030601:0136/pct:24.0792273694549,19.643642762868456,17.569705898401267,19.955272034022585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ with which all reasoning mu^^^&#x27;Vnswcr, though
 tirely invalidated it. It was insufficient, because it  
 turned upon the false position that one office could 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826030901:0376/pct:21.577689243027887,39.434256262735225,15.378486055776893,14.599065084501978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826030901:0376/pct:21.574251115360102,39.42953020134228,15.381346930104101,14.601310322786833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ be that sliee to nee ee ee
 self government; and that nothing less than the  
 chains of despotism can restrain them from destro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861072401:0083/pct:62.05808080808081,122.30505265649036,50.505050505050505,28.824991125310614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861072401:0083/pct:15.516969218626677,30.57626316412259,12.628255722178373,7.2062477813276535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ portion of esteem and confidence. I publican gov
 ernment presupposes the existence of these quall  
 ties in a hisher degree than any other form.&quot; Thu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861072401:0083/pct:63.005050505050505,204.0468583599574,50.25252525252525,12.637557685481008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861072401:0083/pct:15.753749013417522,51.01171458998935,12.565114443567483,3.159389421370252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ common and in easy reach.
 Thj; trnth is, reason, law and rights  
 have been losf sgjJ of in the single &#x27;ide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016925:00295878769:1884120301:0755/pct:62.66783420899007,92.9131321808225,13.193228254524227,7.3016213894556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016925:00295878769:1884120301:0755/pct:47.02189781021898,69.68753355524535,9.897810218978103,5.4762160420917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

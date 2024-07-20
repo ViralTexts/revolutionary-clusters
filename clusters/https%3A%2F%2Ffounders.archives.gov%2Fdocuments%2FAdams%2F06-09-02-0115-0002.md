@@ -3675,7 +3675,7 @@ with an ascendant interest that must com­
 mand every advantage 1o Le derived from  
 them,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815112201:0185/pct:28.275441803778183,9.539170506912443,22.994109282957545,12.223502304147466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815112201:0185/pct:28.275441803778183,9.543010752688172,23.000880222086803,12.227342549923195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3879,7 +3879,7 @@ had promised to Abraham and his seed. Lo the
 people shall dwell alone, and shall not be reckon­  
 ed among the nations. Numb, xxiii. 10. But dif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1845061301:0076/pct:19.658767772511847,68.93217893217893,14.691943127962086,5.584415584415584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1845061301:0076/pct:19.655041698256255,68.92223344394748,14.693896891584533,5.587216851825134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3930,7 +3930,7 @@ its years, and it will establish its eonts&#x27;itulion 1
 and perfect adultneas in growth of btate. 7Y&gt;  
 this greatness of empire it will certainly wise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851102801:1032/pct:71.83968660539401,30.10828625235405,14.08769022148561,5.673258003766478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851102801:1032/pct:71.84973130430416,30.11220966729441,14.07764552257546,5.681104833647207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3952,7 +3952,7 @@ most enlightened parts of Europe have ad- thi
 vancedjlike eaglets they commence the first thi  
 efforts of theit piniolna from a towering advan- [ in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851102801:1032/pct:71.6588820250113,55.89689265536723,14.358897092059665,3.6605461393596985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851102801:1032/pct:71.6588820250113,55.89689265536723,14.368941790969815,3.672316384180791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3975,7 +3975,7 @@ Were ever words so prophetic. &quot;It will esablish
 its constitution&quot; and this was written in  
 1790 ! But further, under the same date
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851102901:0199/pct:68.32572732458642,60.06726457399103,14.860239589275528,4.674887892376682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851102901:0199/pct:68.33048108005325,60.07473841554559,14.860239589275528,4.671150971599402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3996,7 +3996,7 @@ oat enlightened parts of Europe have ad- f
 need; like eaglets they commence the first f  
 lorta of their piniotns from a towering advan- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851102901:0199/pct:68.32572732458642,83.6322869955157,13.505419281232173,3.8228699551569507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851102901:0199/pct:68.33048108005325,83.6322869955157,13.510173036698992,3.8303437967115097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4015,7 +4015,7 @@ I dwell upon. Yet is their mind all the while en)
 larging all ita powers, and their spirit rises as  
 their improvements advance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851102901:0199/pct:81.54592127780947,12.219730941704036,14.432401597261837,2.7354260089686098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851102901:0199/pct:81.54592127780947,12.219730941704036,14.437155352728656,2.7466367713004485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4042,7 +4042,7 @@ feels, both so as to establish her own system and
 to change the system of Europe.  
 44Thoae sovereigns of Europe who have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851102901:0199/pct:81.87393040501996,22.3542600896861,14.632059326868227,6.849775784753363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851102901:0199/pct:81.87868416048678,22.361733931240657,14.646320593268682,6.853512705530643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4083,7 +4083,7 @@ will claim a navigation restrained by no laws
 but the law of nations, reformed aa the rising  
 crisis requires.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851102901:0199/pct:81.80262407301768,29.428251121076233,16.129492298916144,13.699551569506726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851102901:0199/pct:81.80262407301768,29.435724962630793,16.129492298916144,13.695814648729447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4112,7 +4112,7 @@ of adventure and become the irreeistable cause
 of an almoat general emigration to that new  
 toorld
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851102901:0199/pct:81.78836280661723,43.38565022421525,15.231032515687392,7.073991031390134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851102901:0199/pct:81.79787031755086,43.393124065769804,15.231032515687392,7.073991031390134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4175,7 +4175,7 @@ Were ever words so prophetic? “It will establish
 its constitution;” and this we* written in 17D! But fur.  
 ther, under the same d^te 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851121301:0557/pct:6.095423563777994,57.79634612661096,14.761441090555014,3.696360288910919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851121301:0557/pct:6.094236760124611,57.78816199376947,14.763434579439252,3.6993769470404985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4193,7 +4193,7 @@ shipping, and will claim the ocean as common; will
 slaim a navigation re trained by no laws but the law­  
 ut nations, reformed ft the rising crisis requires.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851121301:0557/pct:21.24634858812074,13.213425860359722,14.469328140214216,1.7136382948590851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851121301:0557/pct:21.24221183800623,13.211554800339847,14.471378504672897,1.716935712262815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4218,7 +4218,7 @@ they will look to in America, wnl raise a spirit of ad­
 venture, and become the irresistible cause of an almost  
 general emigration to that new world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851121301:0557/pct:21.24634858812074,15.323608554029175,14.488802336903603,4.588585186234244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851121301:0557/pct:21.24221183800623,15.321438685924667,14.490848909657322,4.591475502690456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4243,7 +4243,7 @@ and perfect adultness in growth of state. To thi* great­
 net of empire it trill ccrtaiuly ari*e.&quot;  
 Were ever words so prophetic? &quot; It will establish it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852020701:0085/pct:3.844552394170715,44.74513639821758,15.489243580846635,5.61895446147158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852020701:0085/pct:3.849178811010872,44.75238198746513,15.489243580846635,5.615331666847807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4270,7 +4270,7 @@ facts which had fallen under his own observation while in
 America. Let us sec how clear-sighted he was on the  
 subject of the character of the people of this country 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852020701:0085/pct:3.941707147814018,50.85316813389849,15.572519083969466,7.107923051842191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852020701:0085/pct:3.941707147814018,50.856790928522265,15.586398334489937,7.107923051842191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4297,7 +4297,7 @@ enlightened parts of Europe have advanced, like eaglets
 they commence the first efforts of their pinions from a  
 towering advantage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852020701:0085/pct:3.95558639833449,64.52559504401695,15.863983344899376,6.303662645364635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852020701:0085/pct:3.95558639833449,64.5328406332645,15.87323617857969,6.303662645364635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4316,7 +4316,7 @@ not an idea beyond the ground they dwell upon. Yet is
 their mind all the while enlarging all its powers, and their  
 spirit rises as their improvements aivance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852020701:0085/pct:4.247050659264399,78.24149548962069,15.475364330326162,2.4888599065318986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852020701:0085/pct:4.247050659264399,78.24874107886824,15.489243580846635,2.485237111908126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4342,7 +4342,7 @@ of trutn will imawer, &#x27; How ahull I curat whom God hath
 not cursed V &quot;  
 -That such a prediction as this should have been soberl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852020701:0085/pct:3.941707147814018,3.075752635583089,31.26995142262318,93.44636452559504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852020701:0085/pct:3.941707147814018,3.075752635583089,31.28383067314365,93.45361011484259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4360,7 +4360,7 @@ ping, and will claim the ocean as common; will claim a
 navigation restrained by no laws but the law of nations,  
 reforuod as the rising crisis requires.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852020701:0085/pct:19.833448993754338,10.694489729377242,15.267175572519085,2.108466471035757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852020701:0085/pct:19.833448993754338,10.701735318624786,15.271801989359242,2.108466471035757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4385,7 +4385,7 @@ Ame ioa, will raise a spirit of adventure, and become the
 irresstible cause of an almost general emigration to that  
 new world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852020701:0085/pct:19.77793199167245,13.357243777850234,15.405968077723802,5.390718400173894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852020701:0085/pct:19.77793199167245,13.360866572474006,15.410594494563961,5.394341194797667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4417,7 +4417,7 @@ power which she feels, both so as to establish
 her own system and to change the system of  
 Europe” . t 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852032601:0418/pct:7.868184763491623,44.8843728100911,12.561325557715449,8.213034337771548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852032601:0418/pct:7.8674564975934835,44.88122766449443,12.563248179686536,8.214794571742228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4443,7 +4443,7 @@ mighty J or me;&#x27; their state&gt;men will be dumb,
 hut the spirit of truth will answer, How shall l  
 curse whom God has not cursed?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852032601:0418/pct:7.997778394890308,53.84022424667134,12.65389243728594,5.466012613875263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852032601:0418/pct:7.997038134024435,53.83645154509144,12.65580649142293,5.467965337631093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4474,7 +4474,7 @@ raise a spirit of adventure, and become the ir­
 resistible cause of an almost general emigration  
 to the new world 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852032601:0418/pct:7.849671387577525,59.29922915206728,12.579838933629548,7.79957953749124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852032601:0418/pct:7.848944835246205,59.29507392614393,12.581759842033815,7.801368743138767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4492,7 +4492,7 @@ tablish its constitution and perfect adultness in
 growth of Stato. To this greatness of empire it  
 willcertainly arise.” * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852032901:0288/pct:83.50654349499615,64.30039742359874,14.799846035411855,1.9734137316705496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852032901:0288/pct:83.49047527419665,64.29158673609209,14.801808735809121,1.9765689229926007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4517,7 +4517,7 @@ dwell upon; yet is their mind all the while enlarg­
 ingall its powers, and their spirit rises as their im­  
 provements advanco.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852032901:0288/pct:83.46805234795997,66.78086885021241,14.87682832948422,5.399479238043031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852032901:0288/pct:83.45199153357706,66.77171827898054,14.878776217048298,5.402164976705947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4550,7 +4550,7 @@ for they are too mighty forme;&#x27; their statesmen will
 be dumb; buttho spiritof truth will answer, •How  
 shall I curse whom God has not cursed ?&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852032901:0288/pct:83.2178598922248,72.27627792243388,15.030792917628945,8.729614910237084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852032901:0288/pct:83.20184721954973,72.26637434913675,15.03271117952665,8.73184434091532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4575,7 +4575,7 @@ will look to in America, will raise a spirit of ad­
 venture, and become the irresistible cause of an  
 almost general emigration to the new world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852032901:0288/pct:83.23710546574289,83.58229409346306,15.531177829099308,5.440592024119502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852032901:0288/pct:83.22108908985953,83.57084132639079,15.532999807581296,5.443272129350507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4595,7 +4595,7 @@ will establish its constitution and perfect adult
 ness in growth of State. To this greatness of  
 empire it will certainly arise.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852032901:0255/pct:193.19066147859922,94.65976518116399,42.624690484612664,8.82464335311198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852032901:0255/pct:64.39688715953308,31.553255060387997,14.208230161537555,2.9415477843706603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4623,7 +4623,7 @@ mightyfor me; their statesmen will be dumb;
 but the spirit of truth will answer, &quot;How shalt I  
 cusre whom God has not cursed?&quot;&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852032901:0255/pct:193.52670675627874,132.16765559904053,42.8546162009197,20.047973740689308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852032901:0255/pct:64.50890225209291,44.055885199680176,14.284872066973234,6.682657913563102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4650,7 +4650,7 @@ European manufacturer or peasant shall be
 thus worn out, a thousand repeated repulsive  
 feelings respecting their present home,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852032901:0255/pct:193.52670675627874,152.3923747001641,42.44782454899186,17.35891932836763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852032901:0255/pct:64.50890225209291,50.79745823338804,14.149274849663955,5.78630644278921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4675,7 +4675,7 @@ of the political basinets of the world.&quot;
 thorn as animated in this new world, if I may so  
 express it, with the spirit of the new philosophy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0387/pct:84.09969918349806,12.230777814976006,15.255694026643747,5.903359000111594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0387/pct:84.10447404860813,12.234497637912435,15.260468891753808,5.9107986459844515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4705,7 +4705,7 @@ me;&#x27; tlieir statesmen will be dumb; but the
 spiiit of truth will answer,4 J low shall I curse  
 whom God hath not cursed P 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0387/pct:83.92780403953589,23.300970873786408,13.7086377309841,7.186697913179333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0387/pct:83.92780403953589,23.308410519659265,13.71341259609416,7.182978090242904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4731,7 +4731,7 @@ manufacturer or peasant shall be thus
 worn out, a thousand repeuted repulsive feelings  
 respecting their pre-ent home,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0387/pct:83.94212863486607,30.34259569244504,15.456238361266294,6.282780939627274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852033001:0387/pct:83.95167836508618,30.350035338317895,15.446688631046174,6.286500762563702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4759,7 +4759,7 @@ dwell upon; yet is their uiind all the while enlarging
 all its powers, and their spirit rises as  
 their improvements advance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852033001:0324/pct:84.24020728547478,16.2809724170173,15.653101661332114,6.451612903225806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852033001:0324/pct:84.25036833815983,16.2809724170173,15.658182187674644,6.459404706249026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4792,7 +4792,7 @@ me;&#x27; their statesmen will be dumb; but the
 spirit of truth will answer,&#x27; IIow shall I curse  
 whom God hath not cursed V 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852033001:0324/pct:84.0877914951989,22.510518934081347,13.641213229690596,9.548854604955586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852033001:0324/pct:84.0877914951989,22.518310737104567,13.641213229690596,9.544958703443976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4811,7 +4811,7 @@ will claim a navigation restrained by no laws
 but the law of nutione, reformed as the rising  
 crisis requires.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852033001:0324/pct:84.14875781130925,31.95418419822347,13.67169638774577,2.664796633941094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852033001:0324/pct:84.14875781130925,31.95418419822347,13.6767769140883,2.6725884369643134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4953,7 +4953,7 @@ is their mind all the while enlarging all its
 powers, and their spirit rises as their im  
 provements advance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852040501:0430/pct:290.8954383330205,294.9298195359496,45.67298667167261,44.87252936121455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852040501:0430/pct:72.7102102102102,73.72189603322354,11.416103603603604,11.216525848489187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4989,7 +4989,7 @@ men will be dumb; but the spirit of truth
 will answer,&quot;How shall Icayse whom God  
 has not carsed?&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852040501:0430/pct:290.820349164633,339.7880263534804,45.37262999812277,44.47149813806932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852040501:0430/pct:72.69144144144144,84.93484175855649,11.341028528528529,11.116282400114564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5015,7 +5015,7 @@ will raise a spirit of adventure, and be­
 come the resistible cause of an Almost  
 general emtgration to the wtw world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852040501:0430/pct:337.0752768913084,40.67602406187339,46.04843251360991,24.477227155542824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852040501:0430/pct:84.253003003003,10.167549763711872,11.509947447447447,6.1184304740083055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5034,7 +5034,7 @@ grow with its years, and it will establish its constitution.
 and perfect adultness in growth of State. To this great-  
 ness of empire it will certainly arise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852042101:0390/pct:174.73006644518273,28.252157829839703,38.558970099667775,5.178791615289765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852042101:0390/pct:58.243355481727576,9.417385943279902,12.852990033222591,1.7262638717632552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5069,7 +5069,7 @@ will call upon these, their ministers and wise men, &quot;Com
 statesmen will be dumb; but the spirit of truth will an­  
 swer &quot;How shall I curse whom God has not cursed?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852042101:0390/pct:174.8546511627907,35.557953144266335,38.68355481727575,25.107891491985203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852042101:0390/pct:58.28488372093023,11.852651048088779,12.894518272425248,8.369297163995068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5100,7 +5100,7 @@ of the Europeans in Europe. Memorial to
   
 the tSoverexjiisof Europe, Great Br dan an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877662:1852042901:0188/pct:38.49632560768796,42.92703237222858,16.902204635387225,9.493077963984595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877662:1852042901:0188/pct:28.87632508833922,32.195274279171436,12.692579505300353,7.1302175497033415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5254,7 +5254,7 @@ will claim the ocean as common?will claim a navigation restrained
 by no laws but the law of nations, reformed as the  
 rising crisis requires.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857020701:0191/pct:8.065030283710552,46.78887484197219,17.054510678992667,1.8331226295828065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857020701:0191/pct:8.075656147061949,46.793088916982725,17.059823610668367,1.8373367045933418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5273,7 +5273,7 @@ restrained by no laws but the law of nations, reformed as
 the rising crisis requires.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857021801:0241/pct:7.027714932126697,70.45883790689923,19.301470588235293,2.7330296633707367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857021801:0241/pct:5.275067175788432,52.84968336851461,14.481685758732853,2.044217309187868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5295,7 +5295,7 @@ accustomed measures, they will call upon their ministers
 and wise men, &#x27;Come, curse me this people, for they are too  
 mighty for me ;&#x27; their statesmen will be dumb : but
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857021801:0241/pct:7.197398190045249,79.81335407176981,19.21662895927602,4.710587712476391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857021801:0241/pct:5.402347617027295,59.86001555382735,14.410974402489039,3.5440506610376623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5313,7 +5313,7 @@ will claim the ocean as common will claim a navigation
 restrained by no laws but the law of nations, reformed as  
 the rising crisis requires.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857021801:0058/pct:8.866183256427158,71.6785802316983,19.034278180619644,2.132117328074932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857021801:0058/pct:6.660072535443455,53.75893517377372,14.276294098252555,1.6021690904609318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5337,7 +5337,7 @@ mighty tor me;&#x27; their statesmen will be dumb: but the
 spirit of truth will answer: &#x27;How shall I curse whom God  
 hath not cursed?&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857021801:0058/pct:8.915622940013185,80.62607838304166,19.05075807514832,5.484348040423958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857021801:0058/pct:6.693043191559512,60.475720976090706,14.292779426310583,4.116342124722702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5535,7 +5535,7 @@ And, iudeed, it is gravely argued that
 unless we do resort to some such expedi­  
 ent, we shall pres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889032101:0048/pct:49.52638700947226,44.61979913916786,11.212062632901604,11.477761836441895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889032101:0048/pct:49.51681484344801,44.61339836465356,11.214727483571705,11.479701621001292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5558,7 +5558,7 @@ glory, and this request was like saying:
 other nations; let us have a King that we cau  
 see and let us be like- other people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197292:1889072501:0270/pct:86.54364224137932,32.556073728625364,12.230603448275861,4.041749944481457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197292:1889072501:0270/pct:64.93733998113461,24.41705529646902,9.176660827381754,3.0313124583610924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5615,7 +5615,7 @@ tation. The United States advanced and
   
 is every day advancing to a growth of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032019:00280760997:1898010501:0112/pct:112.52648305084746,69.5637914070187,31.673728813559322,2.0334535913414236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032019:00280760997:1898010501:0112/pct:75.08613835144448,46.375860938012465,21.123774184998673,1.3611020006559529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5700,7 +5700,7 @@ and will actuate that power which she feels she
 hath, so as to establish her own system, and to  
 change the system of Europe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899102901:1007/pct:114.60843373493977,164.00787044044196,50.075301204819276,17.2544271227486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899102901:1007/pct:28.66829911471087,41.00196761011049,12.525899416085892,4.31360678068715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

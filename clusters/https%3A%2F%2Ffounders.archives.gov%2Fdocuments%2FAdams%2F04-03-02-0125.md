@@ -559,7 +559,7 @@ low,
 death, 5  
 “ Till, dying, all they can resign is breath.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816072301:0555/pct:22.83144763562518,5.220051312413657,16.507107629823036,7.657390961120979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816072301:0555/pct:22.841117880282372,5.220051312413657,16.516777874480223,7.663969475692388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ String after siring is loosened troin the heart,
 Without one pang is glad to fall away.&quot;  
 By doing away the sources of misery we mak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839101601:1093/pct:35.220761712167175,24.354591536013203,15.520728008088978,4.196628551220087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839101601:1093/pct:35.231996404898325,24.362450390978033,15.515110661723401,4.200557978702503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

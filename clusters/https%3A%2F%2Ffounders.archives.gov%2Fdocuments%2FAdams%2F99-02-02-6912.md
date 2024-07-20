@@ -88,7 +88,7 @@ cial Coiigrr-s. I uesire to know J nm
 whom Putnam received his c..nuni*«i.io, f  
 and from wh m 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818070101:0922/pct:81.04506029193992,7.776617954070981,17.981806642690923,19.29801670146138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818070101:0922/pct:81.02791878172589,7.775603392041748,17.98505358150028,19.299847792998477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ authority over him. But, sir, I must suppress
 me servant,  
 (.Signed) JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818070301:0069/pct:50.33144704931286,42.5117286178275,14.971705739692805,32.647660291110306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818070301:0069/pct:50.32331070158422,42.50661534760645,14.974673995042568,32.64774276321065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ of them. None of them but Ward was subject to
 the orders of the Massachusetts Provincial Con  
 gress.&quot; The troops were without uniforms or a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531216:1875061201:0744/pct:246.4784213059522,167.92671614100186,48.3555270335312,18.274582560296846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531216:1875061201:0744/pct:82.15947376865073,55.97557204700062,16.118509011177068,6.091527520098949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ Poor, and Orcene wore a* independent
 of Ward an Ward was of them.  
 The descriptions of the Hunker Hil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202193407:1875061701:0575/pct:1.5995872033023735,54.54225970831137,14.396284829721361,11.79054647689334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202193407:1875061701:0575/pct:1.5995872033023735,54.54665260938324,14.428534571723427,11.812510982252679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -81,7 +81,7 @@ i . o\ iilence to watch over your own and our coun­
 try s freedom and wellare.  
 (Signed) Hi : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041901:0452/pct:24.308019872249822,43.28557552209811,17.370475514549327,25.473530840213694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041901:0452/pct:24.303707645910947,43.28032050503824,17.373307314765537,25.474485047144995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ tecting Providence to watch over your ow » and
 ©ur country’s freedom and welfare  
 (Signed) &#x27;HI .• JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041901:0136/pct:3.5593855376545522,41.7600402870452,18.321468714874484,33.02278735993957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041901:0136/pct:3.5587188612099645,41.754783484390735,18.324280452019728,33.022826451829474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ providence to watch over your own and our coun­
 try’s freedom and welfare.  
 (Signed) Til: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042001:1091/pct:28.983688833124216,1.3821922211507554,43.53826850690088,94.05335904853744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042001:1091/pct:28.976417461113897,1.3819701108789972,43.53361766181636,94.04226257432107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ nufacturer and the Husbandman side by side, and es
 tnblishes at the door of every one, that exchange of la­  
 bor which we have hitherto sought in distant countrie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842093001:0255/pct:35.03840245775729,12.522851919561242,16.067588325652842,1.9195612431444242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842093001:0255/pct:35.03840245775729,12.522851919561242,16.088069636456733,1.9263321822736814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ man side by side, and establishes at the
 door of every one, ilmt exchange of labor  
 which we have hitherto sought in distan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1842102001:0557/pct:24.92836676217765,85.33007334963325,17.30218205862905,8.70128002301165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1842102001:0557/pct:24.9228735125606,85.31780270348001,17.303878360511238,8.703623813632442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ bandman side by side, and establishes at the door
 of every one that exchange of labor which we  
 have hitherto sought in different countries in vain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842102101:0627/pct:316.8740279937792,353.01153353267836,56.7651632970451,15.093264986473017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842102101:0627/pct:79.26473448745381,88.25288338316959,14.199572067691111,3.773316246618254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ bandman side by side, and establishes at the
   
 door of every one, that exchange of labo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1842102801:0117/pct:51.3118664281455,108.66213151927438,21.362552176505666,3.3219954648526078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1842102801:0117/pct:38.5028332836266,81.49659863945578,16.030420518938264,2.494331065759637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ the husbandman side by side,&quot; and which &quot;establishes,
 at the door of every one, that exchange of labor which  
 we have hitherto sought in distant countries in vain?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842110701:0529/pct:202.0886699507389,129.9543244437896,64.33497536945812,9.503462501841756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842110701:0529/pct:50.51221434200158,32.48379493223335,16.08057525610717,2.375515615792575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ one that exchange o mutuallabors and cumforts which
 we have hitherto sought in distant regions, and under  
 perpetual risk of brolle with them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.34612432847274,351.00671140939596,50.729086722947045,15.37522879804759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.8637236084453,87.75167785234899,12.687140115163148,3.8438071995118976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ labors and comforts which wo havo hitherto
 sought In distant regions and under perpetual  
 risk of broils with the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:66.32492113564669,13.319142466169986,106.62460567823344,375.0494146267295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:16.581230283911673,3.3297856165424964,26.65615141955836,93.76235365668238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ hitherto sought in distant regions,
 and under perpetual risk of broils  
 with them.—Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176618:1889121101:1104/pct:57.35056542810985,46.72786496890731,17.447495961227787,8.750370151021617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176618:1889121101:1104/pct:57.35056542810985,46.72786496890731,17.447495961227787,8.761474681670121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ man that exchange of mutual labors and comforts
 which they have hitherto sought in distant regions,  
 and under perpetual risk of broils with them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897122301:0704/pct:75.77125658389767,142.53776435045316,50.03762227238525,16.07250755287009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897122301:0704/pct:18.953510257858085,35.63444108761329,12.516469038208168,4.018126888217522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

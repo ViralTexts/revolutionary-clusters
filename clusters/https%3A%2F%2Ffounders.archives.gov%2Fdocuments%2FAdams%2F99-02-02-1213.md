@@ -38,7 +38,7 @@ Vice- Prefident—And he withdrew.
 The Vice President signed the enrolled  
 bill, entitled, &#x27; An ast for the relief o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794022501:0001/pct:69.3359375,83.50579470198676,19.075520833333332,5.318708609271523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794022501:0001/pct:69.3603515625,83.52131622516556,19.0673828125,5.308360927152318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -57,7 +57,7 @@ an enrolled bill, I am directed to bring
 it to the Senate for the signature of the  
 Vice-Prefident.&quot;—And he withdiew.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031801:0002/pct:71.9531497309275,22.97760742384507,18.360240582462804,3.6514020576961874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031801:0002/pct:71.96897752453307,22.99273754286867,18.360240582462804,3.6463586846883196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -80,7 +80,7 @@ And he withdrew.
   
 The Vice-President signed the enrolle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032601:0002/pct:53.09278350515464,24.04656764351666,18.878865979381445,4.69690887193898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032601:0002/pct:53.11694587628866,24.06162183861903,18.878865979381445,4.69690887193898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ The Vice-President fignfcd &quot; The en­
 rolled resolution laying an embargo on the  
 vessels in the ports of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794040901:0002/pct:13.009540329575021,37.576544813509,17.98207574443481,6.0864724438671365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794040901:0002/pct:13.009540329575021,37.58582297272221,17.996530789245448,6.095750603080349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ bill, entitled, &quot;an ast limiting the time
 for presenting claims for destroyed certifi­  
 cates of certain descriptions,&quot; and it wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794042801:0002/pct:13.515801354401805,79.53056768558952,18.4255079006772,6.73216885007278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794042801:0002/pct:13.529909706546276,79.53511644832605,18.432562076749434,6.727620087336245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ ships or veflels in the ports of the United
 States bound to any foreign port or place,&quot;  
 and it was delivered to the committee t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794043001:0002/pct:11.082910321489003,32.335550628233555,18.330513254371123,7.520325203252033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794043001:0002/pct:11.089960518894529,32.34478935698448,18.351663846587705,7.524944567627495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ orefentatives having ligried an enrolled bill
 I am directed to bring it to the Senate  
 for the signature of the Vice-Prefident.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060201:0002/pct:32.65598168288494,12.465373961218837,18.37435603892387,3.0470914127423825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060201:0002/pct:32.65598168288494,12.47460757156048,18.388666285060104,3.056325023084026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ cvnu uiey withdrew.
 1 he President signed the enrolled hill last  
 reported to have been examined, and it wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812070301:0068/pct:22.925482980680773,35.09461784222167,17.62649494020239,4.4482673875645125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812070301:0068/pct:22.921265636497424,35.090305934389974,17.629384351238656,4.451816357455871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ SIGNING OF A RESOLUTION. J
 The VICE PRESIDENT signed the enrolled joint res- ma  
 olution expressive of the thanks of Congress to Major tio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848030101:0245/pct:5.819172811798653,85.77906537347273,17.008656620711765,3.0986270311122306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848030101:0245/pct:5.819172811798653,85.78746273670068,17.02468739980763,3.102825712726204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

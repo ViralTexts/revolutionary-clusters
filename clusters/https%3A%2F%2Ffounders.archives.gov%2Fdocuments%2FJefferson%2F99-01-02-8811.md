@@ -46,7 +46,7 @@ s, he ought to be authorised by
 • embargo on all ships and vessels iii  
 I the ports and harbors of the United 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041101:0003/pct:41.065505804311776,33.63370986165757,18.90547263681592,9.379362863307527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041101:0003/pct:41.065505804311776,33.637940516986085,18.90547263681592,9.375132207979016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -73,7 +73,7 @@ in the judgment of the President of the U. States,
 lie ought to he authorised by law to sr.sftenj the  
 act laying an EMB ARGO on all ships and vessel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041901:0453/pct:23.19049333813468,22.716140093068823,17.53691033489377,6.784227283859907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041901:0453/pct:23.186318631863188,22.71335863842292,17.539753975397538,6.787478062119914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ that of the United States sufficiently safe iu his
 judgment.  
 The vice-president ol the United States havin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042501:1100/pct:27.147591129237828,53.811514956577675,21.667091511598265,5.500160823415889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042501:1100/pct:27.140672782874617,53.802862196494615,21.667940876656473,5.503296349895481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ in the opinion of the President of the United
 States he ought to be authorized by law to sus­  
 pend the art laying an embargo on all ship
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042901:1106/pct:6.442647801920161,16.47891857096878,20.515411824153613,5.391052462182169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042901:1106/pct:6.441020459712049,16.476267095736123,20.516544581965142,5.394207562349155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ n or of such changes in their measures
 ..« render that of the U. States sulfieient­  
 |t ly safe in his judgment, to suspen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808050401:0004/pct:39.7640943622551,56.310555838857724,17.99280287884846,6.896991330953595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808050401:0004/pct:39.7640943622551,56.31480537140914,18.01279488204718,6.905490396056434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ that of the United States sufficiently safe in
 the judgment of the president of the United  
 States, lie is authorised during the recess o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808062101:0064/pct:23.312545854732207,60.659480025364616,17.80997798972854,5.846544071020926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808062101:0064/pct:23.30827067669173,60.651787978696426,17.812824744788802,5.8500295882999405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ ing neutral commerce, as may render that of the
 United States sufficiently safe in the judgment of  
 the president of the United St.\tes, he is authorise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062301:1195/pct:5.961397507940386,7.039141414141414,21.15807476178842,5.855429292929293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062301:1195/pct:5.9599413776257935,7.0380306138551365,21.159013190034198,5.858450370837936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ not. foremen if (». Britain &#x27;vere tosuspi nd
 her orders as to the Portuguese and Spanish !  
 porfs, yet “the judgment nt the President o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808082301:0135/pct:23.867786705624543,87.45724059293045,17.58582907231556,3.4967692892436335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808082301:0135/pct:23.86342888442578,87.44616164175324,17.58870427849796,3.5005489401233003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ meafuves therefore, we foould advert to the difficul­
 ties, out of wbhich a choice nwas es necessity to be  
 made”—Citizens of New-Hampihire and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808091301:0147/pct:24.758942457231726,40.11552634199781,16.18973561430793,4.541380340603525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808091301:0147/pct:24.758942457231726,40.11884606446901,16.18973561430793,4.548019785545929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ has undoubtedlt&#x27; enough to make &#x27;a whole
 message of decent length and breadth, if he  
 would condescend to let&#x27; it out; but of F ranc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808101201:0449/pct:45.88578446423089,23.775779049695647,23.7027939821922,8.576360497864995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808101201:0449/pct:45.87874136607828,23.773619186046513,23.704272192376568,8.578609496124031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ on on which prudence&#x27; would undertake a
 hasty change in our policy &amp;c.”  
 So of light is shed on this subject by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809101001:0181/pct:23.443830570902396,65.08033852569606,17.29281767955801,3.397522384398381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809101001:0181/pct:23.439513901675568,65.07235712533726,17.29577119008163,3.4011936881694056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

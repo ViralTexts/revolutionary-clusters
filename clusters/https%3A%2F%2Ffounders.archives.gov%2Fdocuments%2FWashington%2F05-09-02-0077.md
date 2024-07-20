@@ -466,7 +466,7 @@ lina, vice George Abhot Hall, deeeafed.
 lofiah Murdaugb, surveyor of the port of Hertford rn North-  
 Carolina, vice Jolbua Skinner, jun. son of Wm. deeeafed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791110901:0003/pct:63.515228426395936,49.63475586312956,27.696700507614214,16.37831603229527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791110901:0003/pct:63.515228426395936,49.63475586312956,27.728426395939085,16.39273356401384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ Appointed—John ensign, vice George Tillinghaft,
 declined ; Daniel Tflton, jun. cnlign, vice Gilinan, declined ; Sa­  
 muel Andrews, enlign, vice Pieice, declined; John Bird,enlign
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791110901:0003/pct:58.661167512690355,67.35870818915802,32.83629441624365,12.57208765859285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791110901:0003/pct:58.67703045685279,67.3635140330642,32.828362944162436,12.576893502499038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ Jofiah Murdaugh, surveyor of the port of
 Hertford, in North-Carolina, vice JoQiua Skin­  
 ner, jun. son of William, deceased
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791111001:0003/pct:48.76479670612455,5.226282900965726,35.46062789500772,85.60878621473206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791111001:0003/pct:48.78409675759136,5.235750804771824,35.46706124549665,85.60878621473206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ Andrew Barret to be supervisor of the dif­
 trift of Delaware, vice Henry Latimer, who has  
 resigned his appointment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791111001:0003/pct:66.77817807514154,14.088240863472826,17.34431291816778,2.0261314145048286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791111001:0003/pct:66.77817807514154,14.088240863472826,17.350746268656717,2.0403332702139747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ ARTILLERY.
 Appointed—Staats Morris, Lieutenant, vice  
 Ernest, resigned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791111001:0003/pct:66.72671127123006,16.512024237833742,17.34431291816778,23.36678659344821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791111001:0003/pct:66.74601132269686,16.52622609354289,17.35717961914565,23.37152054535126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ ance of the power vested in me by the constitution,
 appointed the following persons to fill these va.  
 caucies, viz 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840040401:0012/pct:50.622489959839356,54.778625954198475,19.497991967871485,5.282442748091603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840040401:0012/pct:37.97951395862623,41.083969465648856,14.621409921671018,3.969465648854962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ ol. owing )ers&quot;&#x27;-.
 fill these va.  
 t unco s, v.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041101:0016/pct:48.61222847948512,54.018606069849014,19.710378117457765,5.200549031569315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041101:0016/pct:36.478873239436616,40.521579990849474,14.788732394366198,3.9042244929083423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ ance of the power vested in me by the constitution,
 ppo.ntctl the following persons to fill these vj.  
 ciincics, viz 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041801:0020/pct:29.418789808917197,54.398782343987826,19.46656050955414,5.220700152207002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840041801:0020/pct:22.087233618801037,40.80669710806697,14.598685520812587,3.9117199391171993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ appointed the following persons to hll these va­
 cancics, viz :  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840042501:0024/pct:29.295328582739508,53.62990423231387,19.27949326999208,5.6997219647822055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840042501:0024/pct:21.97584636705603,40.222428174235404,14.472381706592754,4.278653073833797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -744,7 +744,7 @@ held them, I have, in pursuance of the power vested
 in me by the Constitution, appointed the following per­  
 sons to fill those vacancies, viz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840042501:0186/pct:94.31772709083633,150.76987535351418,39.46912098172602,7.803498481198282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840042501:0186/pct:31.4350493464924,50.25136154168412,13.154619009513649,2.6008937299259878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ appointed the following persons to fill these va.
   
 cancics, viz 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050201:0028/pct:27.972865123703112,55.93869731800766,19.553072625698324,5.302681992337165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050201:0028/pct:20.998003992015967,41.96168582375479,14.67065868263473,3.9693486590038316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ ance ol the power vested in mc by the constitution
 appointed the following persons to fill these va.  
 cancics, viz 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050901:0032/pct:29.721115537848604,54.05156537753223,19.48207171314741,5.187231430325353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050901:0032/pct:22.299721004384217,40.5463474524248,14.627341570346752,3.8827501534683857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,7 +832,7 @@ ance of the power vested in mc by ihe constitution,
 appointed the following persons lo fill these va­  
 cancies, viz 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840053001:0044/pct:27.15311004784689,54.76373710943513,19.637161084529506,5.26396798522395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840053001:0044/pct:20.378863409770688,41.080498691703866,14.7357926221336,3.9556718485454825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -853,7 +853,7 @@ ance of the power vested in me by the constitution,
 appointed the following persons to fill these va.  
 cancics, viz 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840060601:0048/pct:28.134920634920636,54.00304414003044,19.464285714285715,5.235920852359208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840060601:0048/pct:21.115300654891843,40.50228310502283,14.60607263345902,3.9269406392694064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ ance of the power vested in me by the constitution,
 appointed the lollowing persons to lilt these va-  
 cancics, viz 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840070401:0060/pct:28.463375796178344,54.5845492243895,19.426751592356688,5.099063123944094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840070401:0060/pct:21.37024497112129,40.94609123022577,14.57876916948815,3.824297342958071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -961,7 +961,7 @@ ance of the power vested in nic by the constitution,
 appoaitetl the following persons to fill these va  
 cancies, viz 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840071101:0064/pct:29.24901185770751,53.64647713226205,19.209486166007906,6.84487021013597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840071101:0064/pct:21.94109507807867,40.23485784919654,14.409962443170587,5.145241038318912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -983,7 +983,7 @@ mice of the power vested in me by llie constitution,
 appointed the following persons lo fill these vu­  
 caucics, viz 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840071801:0068/pct:31.38801261829653,54.531513571538106,19.20347003154574,5.934672596227572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840071801:0068/pct:23.550295857988164,40.89863517865358,14.418145956607495,4.462505750651741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1004,7 @@ ance ol the power vested in me by the constitution
 appointed the following persons to fill these va  
 fancies, viz 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840072501:0072/pct:30.41765169424744,56.39132441162898,19.188337273443658,5.229964620827565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840072501:0072/pct:22.826729745712598,42.30118443316413,14.409619554504237,3.9224734656206737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ ance of the power vested in me by the constitution,
 appointed the following persons to fill these va.  
 cancics, viz 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840080101:0076/pct:31.17738187451588,54.18387639590026,18.958171959721145,5.247055224108919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840080101:0076/pct:23.406316605309048,40.64555606547346,14.222049990311955,3.931467033807557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1047,7 +1047,7 @@ appointed the following persons to fill these va
 cuncics, viz :  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840081501:0084/pct:29.6875,56.27097955447055,19.264240506329113,5.202929508696979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840081501:0084/pct:22.283791806847418,42.20323466585291,14.466653473184246,3.9060115959719255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1090,7 +1090,7 @@ appointed the following persons lo all these va
 fancies, viz :  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840082901:0092/pct:30.325914149443562,55.89225589225589,19.554848966613672,5.723905723905724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840082901:0092/pct:22.76341948310139,41.91919191919192,14.671968190854871,4.300581573308846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ appointed the following persons to ull these va.
 cuncics, viz :  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840090501:0096/pct:29.889589905362776,55.88012713788406,19.282334384858043,5.675798395640987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840090501:0096/pct:22.421613094064288,41.91009535341305,14.474462630644844,4.268200393522022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1135,7 +1135,7 @@ appointed the following persons to fill these va
 cancies, viz :  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840091201:0100/pct:29.318357862122387,53.87313205245502,18.938807126258713,6.663616956389143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840091201:0100/pct:22.011238132144932,40.408661177188165,14.202673900406898,5.001524855138761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1199,7 +1199,7 @@ once of the power vested in me by the constitution,
 appointed the following persons to fill these va­  
 cancies, viz 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840100301:0112/pct:30.25793650793651,54.95759444872783,19.384920634920636,6.044718581341558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840100301:0112/pct:22.702917245485214,41.218195836545874,14.546537011311768,4.548959136468774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,7 +1220,7 @@ ance of the power vested in nic by the constitution
 appointed the following persons lo fill these vd  
 caucics, viz 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840101001:0116/pct:28.65707434052758,55.94437652811736,19.584332533972823,5.11919315403423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840101001:0116/pct:21.507095742554466,41.96210268948655,14.691185288826704,3.8508557457212715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ ance of the power vested in me by the constitution,
 appointed the following persons lo fill these va  
 cancies, viz 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840101701:0120/pct:28.94736842105263,53.987167736021995,19.167321288295366,5.239841124350749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840101701:0120/pct:21.728880157170924,40.498014054384356,14.3811394891945,3.9260617170791323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1262,7 @@ ance of the power vested in mc by the constitution,
 appointed the following persons to fill these va.  
 Mm its, viz 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840102401:0124/pct:29.460093896713616,55.1640340218712,19.170579029733958,5.255164034021871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840102401:0124/pct:22.10917628644101,41.3730255164034,14.380747407552338,3.948967193195626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

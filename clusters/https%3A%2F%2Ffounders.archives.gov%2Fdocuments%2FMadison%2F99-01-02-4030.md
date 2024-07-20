@@ -35,7 +35,7 @@ and reprisal, against the nation thereafter con­
 tinuing in so ;e its unlawful e-ssfiicts against the  
 commercc of the United Statcs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809022301:0272/pct:54.75147303218009,85.67182997118155,22.405197159691795,4.430835734870317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809022301:0272/pct:54.74320241691843,85.66411526339486,22.406847935548843,4.433438391115113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -58,7 +58,7 @@ the nation the.oafler continuing**
 force its unlawful edic.r&gt; against the  
 commerce of the U.S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809022401:0002/pct:75.70261112218458,87.4051791786555,16.942395854096073,6.016217630133403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809022401:0002/pct:75.7092551989901,87.40953875664836,16.95568400770713,6.016217630133403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -78,7 +78,7 @@ precautions, letters of marque and reprisal against the nation
 thereafter continuing in force its unlawful edicts against the  
 commerce of the UnitedStates 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809022701:0362/pct:25.18202360030128,72.39046391752578,20.938990710519708,3.0766752577319587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809022701:0362/pct:25.17570281124498,72.37880496054115,20.940010040160644,3.0802061523594784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ tions, letters of marque and feprisal, against the nation there
 after continuing in force its uuUvr edict! against the com­  
 toeice of the Uuited Sutes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809022701:0362/pct:25.232237007280943,93.20231958762886,20.81345719307055,2.448453608247423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809022701:0362/pct:25.22590361445783,93.18730874536962,20.814508032128515,2.452085682074408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ and reprisal against the nation thereafter
 continuing in force its unlawful edicts against  
 the commerce of the U. S.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809022801:0374/pct:42.982613371571965,3.741967997984125,17.046065603154688,3.893158624165302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809022801:0374/pct:42.97491039426523,3.741496598639456,17.048984468339306,3.896867388930881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ tween the United States aid Great Hritum
 ami France, and their dependencies, cc for  
 other purposes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809022801:0374/pct:42.94676465316365,26.77334005291672,16.938519447929735,13.140985258913947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809022801:0374/pct:42.939068100358426,26.769967246157723,16.941457586618878,13.143529016544889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ gainst the nation thereafter continuing in
 iOice its unlawsul edicts against the com­  
 merce of the U. S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809030301:0297/pct:25.573314801945795,35.99075678798383,25.364836692147325,5.574812247255921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809030301:0297/pct:25.568872676741357,35.987291807066526,25.366220832609578,5.577484676358268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ aer edicts alh.dgcd to have been made in
 retaliation of the edicts of the oilier power, j  
 and vi. lat-ng the lawful commerce and neu* 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809030301:0378/pct:59.84,75.17543859649123,17.333333333333332,12.080200501253133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809030301:0378/pct:59.829363668681125,75.1660192958276,17.33617727218865,12.082863467401745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ continuing in force its unlawful diets against the
 commerce of the United States,”  
 It was determined in the affirmitive—Yeas 17
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809030601:0369/pct:75.79207920792079,78.46502590673575,20.445544554455445,3.6107512953367875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809030601:0369/pct:75.77332343479337,78.45232313420755,20.446671615936648,3.6142140197506882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ gainst the nation thereafter continuing in
 i of the United States.”  
 ! _ It was determined in the affirmative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809030701:0381/pct:58.17463169241825,24.709302325581394,17.876392382321235,4.031850353892821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809030701:0381/pct:58.164181785521826,24.70617970428409,17.879168912041195,4.0355533089009645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ force its unlawtul edicts against the com­
 merce of the U. States ”  
 It w is determined in the affirmative 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809031001:0083/pct:78.43969015123571,36.34825611660593,17.299889339727038,4.776158250910984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809031001:0083/pct:78.42522588972894,36.34352635003253,17.302845903251583,4.779874213836478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ merce of the U. S. to declare the same by
 Proclamation; after which, the trade of the  
 U. States &amp;c. may be renewed with the v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809080401:0105/pct:59.375,54.53104037077692,17.492603550295858,3.902914989632882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809080401:0105/pct:59.36402292475504,54.52439024390244,17.49553213779503,3.9065040650406506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ G. Britain shall so revoke or modify her edicts,
 as that they shall ceasa to violate the neutral  
 commerce »&gt;f the United States, the Prtsde 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811031501:0407/pct:41.82959641255606,19.04531136418706,17.23766816143498,2.011146110976496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811031501:0407/pct:41.82209469153515,19.043004239854632,17.240554758488763,2.0149404401372903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ letters of marque and reprisal, against the nation I
 thereafter continuing in force its unlawful edicts  
 gainst the commerce of the United States.” •
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812012001:0939/pct:73.3184965380811,41.98435972629521,22.37883283877349,5.539263603779733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812012001:0939/pct:73.30037082818295,41.97752076885486,22.37948084054388,5.54243362111093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ lowing words: “ and to cause to be issued, under&#x27; &gt;
 suitable pledges and precautions, letters of mareue &#x27;  
 and reprisal against the nation thereafter continuin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812012001:0939/pct:73.17012858555886,56.256109481915935,22.502472799208704,2.932551319648094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812012001:0939/pct:73.15203955500618,56.24694575663789,22.50309023485785,2.936145952109464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ L ucre of mau/ue and reprisal against the nation
 thereafter continuing ir. force its unlawful edicts  
 against the commerce of the U. States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812012701:0036/pct:7.807699258991505,38.18507462686567,16.91668172781493,2.6029850746268655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812012701:0036/pct:7.806288398988074,38.18051575931232,16.91964823515239,2.6066539318688315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ and reprisal against the nation thereafter con­
 tinuing in force its unlawful edicts, against the  
 commerce of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812012701:0036/pct:7.717332369419845,58.364179104477614,16.880534971986265,2.4716417910447763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812012701:0036/pct:7.7159378388146,58.357211079274116,16.883508011083002,2.475326329194524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ That in case fj. Britain shall so revoke or
 modify her edicts, as that they shall cease  
 to violate the neutral commerce of the U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812121001:0259/pct:40.46210720887246,26.789441375076734,17.54158964879852,3.314917127071823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812121001:0259/pct:40.45462945851044,26.78615271298797,17.544508100782355,3.3186021769375564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ prisal, against the nation thereafter continuing
 in force its unlawlul edicts against the commerce  
 of the U. States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102501:0209/pct:1.9993498049414824,51.16251198465964,15.117035110533159,2.7085330776605945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828102501:0209/pct:1.999024865919064,51.15638106650689,15.119995666070752,2.712202915917715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

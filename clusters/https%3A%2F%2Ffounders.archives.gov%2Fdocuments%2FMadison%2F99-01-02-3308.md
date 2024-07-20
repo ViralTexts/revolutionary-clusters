@@ -445,7 +445,7 @@ govei nment, through another channel,
 dban through you, that answers to it  
 lid be most regularly given.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0002/pct:41.43896206015333,2.5035858651714697,17.554550815804994,37.71026209414526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0002/pct:41.45206736124762,2.5035858651714697,17.554550815804994,37.723301603859696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ Spanish cruisers.&quot;
 (To be Continued.J  
 The Members ol m Artiller
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0002/pct:41.43896206015333,0.9649237188681705,34.99115392176135,97.2617029599687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111601:0002/pct:41.45206736124762,0.9649237188681705,34.9846012712142,97.27474246968313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ and the appearance is rendered the more unfavorable
 Hy the like silence, as wt learn from Mr. Erskine, of  
 the dispatches brought to him by the packet which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112301:0222/pct:69.26219045187644,86.37481554353172,21.419453663518,9.362190523036563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112301:0222/pct:69.2445125063808,86.36065573770492,21.420367534456354,9.364754098360656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ proves ns unsuccessful as it is dishonourable; the
 greater part of them being eithsr arrested in port,  
 or by .French und Spanish rrttiz-rr.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112301:0223/pct:10.195282779609434,2.2561380225613803,21.252853157494293,87.1433311214333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112301:0223/pct:10.192697768762677,2.255763808260076,21.253803245436107,87.13302371869298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -971,7 +971,7 @@ honorable ; tnc greater part of them being
 either arrested in port, or by French and  
 Spanish cruizers 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0238/pct:40.886877828054295,1.353744939271255,35.203619909502265,94.48380566801619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0238/pct:40.87947882736157,1.353573687539532,35.20328145735312,94.47606999789163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1050,7 +1050,7 @@ it was through that Channel, rather than
 through ym1,,1hat_answers to it would be  
 regularly given,&quot; _
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112601:0604/pct:28.800934715933987,9.770679039885785,22.827515700306705,38.16364772017489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112601:0604/pct:28.796728971962615,9.769807280513918,22.82904984423676,38.16321674994052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1131,7 +1131,7 @@ Wsþf rcttssisileir. cools—ny, by &quot;patronizing on the -
 ct_ &#x27;sega their vessels destitute of registers. si  
 Midwife:- necessary- paþefs, and therefore?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112601:0604/pct:28.800934715933987,48.88908717765682,22.827515700306705,46.63156955474257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112601:0604/pct:28.796728971962615,48.884725196288365,22.82904984423676,46.63038305971925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1218,7 +1218,7 @@ our consui at Tangicrs, that great numbers.
   
 osom vc sscis are cns barge,-(i m :: tradc betwee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112601:0604/pct:51.730684971520375,6.228250200767378,23.09040455674018,43.303292584991524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808112601:0604/pct:51.723130841121495,6.227694503925767,23.09190031152648,43.30240304544373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1280,7 +1280,7 @@ it w .s through that channel, rather than
 through you, that answers to it would be  
 inns&#x27; regularly given.’*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120201:0393/pct:58.775205377147124,43.61742664803759,17.867811799850635,27.943604725009525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120201:0393/pct:58.76423371289901,43.611887223774445,17.870698774189535,27.944289221911777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1434,7 +1434,7 @@ as it is dishonorable; the greater part
 of them being either a~rested in port,  
 or by French and Spani h cruisers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120201:0393/pct:58.775205377147124,12.282484440492823,36.31441374159821,80.99834878699352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120201:0393/pct:58.76423371289901,12.280924561849124,36.31385725841578,80.99229531792398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1876,7 +1876,7 @@ Nt Nas been procisiming to it. &#x27; What be­
 ‘comes of tl charge against the United States  
 for receiving Britishsubjects, wiho leave thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809071901:0065/pct:50.89130777725193,52.02709335427506,21.438712730714624,14.60685187003043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809071901:0065/pct:50.90182468317821,52.033637642747294,21.438712730714624,14.60685187003043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1900,7 +1900,7 @@ of laws, on which G. Britain founds so mate­
 rial a part of her national policy. ” This  
 question goes home to the conscience of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809121901:0270/pct:42.385555352908995,68.22060096451095,17.180375706729894,5.651044886855447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809121901:0270/pct:42.37782640408461,68.21216617210682,17.183321176756625,5.654467523903726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

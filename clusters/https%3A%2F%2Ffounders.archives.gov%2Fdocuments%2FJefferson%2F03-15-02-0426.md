@@ -41,7 +41,7 @@ The question sleeps for the present, hut is
 not dead.&quot;  
 In this place a word. The whole whig party of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091201:0255/pct:19.520604170087015,28.48895582329317,19.438515843047117,5.647590361445783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091201:0255/pct:19.526076725223007,28.48895582329317,19.4549335084551,5.660140562248996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ ate the hope that man can ever enjoy the
 two blessings of peace and self govern­  
 ment.Mr HaTe can respond to that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1859050501:0505/pct:110.46845124282983,38.99082568807339,16.730401529636712,7.404980340760157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1859050501:0505/pct:82.87114511116424,29.245459651750608,12.550800860626344,5.560756412656806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ i desperate the hope that man can ever enjoy
 j the true blessings of peace and self-govern­  
 ment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860110601:0024/pct:44.23148724331052,12.448242445599506,13.939016801493466,5.180160338296186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860110601:0024/pct:44.23148724331052,12.454115643261973,13.943165318398673,5.183096937127419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ at market for one third its price before
 the commercial catastrophe. I leal  
 local insurrections against these horr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1874051401:0749/pct:132.47381144238517,69.6329254727475,50.362610797743756,17.018909899888765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1874051401:0749/pct:33.12512593189603,17.408231368186875,12.593189603062664,4.254727474972191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ ally to a level with that of the countries
 with which we have commerce, and an  
 eternal abjuration of pape
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0275/pct:240.41811846689896,334.3536045106726,53.89082462253194,35.76318968989126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0275/pct:60.10452961672474,83.58840112766815,13.472706155632984,8.940797422472816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ tire revolution of fortune. In other places
 I have known lands sold by the sheriff  
 for one year&#x27;s rent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031157:1895010201:0018/pct:43.88597149287322,91.09880749574106,36.06901725431358,22.60434412265758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031157:1895010201:0018/pct:14.628657164291074,30.36626916524702,12.023005751437859,7.534781374219194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ but annihilation is producing an
 entire revolution of fortune.&quot;  
 I Letter to II. Nelson, Esq., Marc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn87090065:00296024946:1896091701:1062/pct:31.14215283483977,40.919199406968126,17.33771569433032,7.279466271312083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn87090065:00296024946:1896091701:1062/pct:23.371017471736895,30.689399555226093,13.03186022610483,5.470719051149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ of paper.&quot;
 For the benefit of what the Popocrats  
 call the &quot;struggling masses,&quot; Mr. Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:00211109385:1896110201:0760/pct:22.505712109672505,55.32445923460899,16.774562071591774,4.270660011092623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:00211109385:1896110201:0760/pct:16.89202056751095,41.50027731558514,12.588078461245477,3.2029950083194674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ chasers. I fear local insurrection
 against these horrible sacrifices of prop­  
 erty.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064515:00212479020:1898032501:0090/pct:7.758892036512433,9.59372930006624,27.730563424614417,87.01700154559505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064515:00212479020:1898032501:0090/pct:7.764138075752807,9.59372930006624,27.741055503095165,87.02068153381909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ dollars, and the sheriffs generally the pur-
 cnasers. 1 rear local insurrection  
 against these horrible sacrifices of pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898033101:0746/pct:24.58823529411765,111.83729433272394,15.985294117647058,6.227148080438757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898033101:0746/pct:18.443888807177526,83.87797074954297,12.001764965436093,4.673217550274223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -458,7 +458,7 @@ fidf trader as to that of the revenue. * 1,1
 oarrsirer compass, and it is evident that to do so will con- w hen I  
 tribute mat nally to the security n/ the &quot;-rrnue &quot;?(See Jlmer &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846081801:0838/pct:4.355400696864112,45.95098892897126,16.69306303452645,12.812538872994153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846081801:0838/pct:4.365959244008025,45.95928183439068,16.682504487382538,12.812538872994153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ Secretary of the Treasury, in a report to the Senate,
 sad tha?  
 In order to guard, as far as possible, against the valu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846082101:0218/pct:51.94651320243737,91.78766407248229,56.14421123899797,46.92763387152979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846082101:0218/pct:17.315504400812458,30.59588802416076,18.71473707966599,15.642544623843264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ in a much narrower compass, and it is evident;
 that to do so will contribute materially to the  
 security of the revenue.”—(See American Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846082101:0392/pct:8.235056949904244,4.3012951601908656,30.803346436851125,91.02249488752557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846082101:0392/pct:8.234226970368876,4.301001976688705,30.803601424443997,91.01856269738487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ ad valorem could with convenience be brought within a
 much narrower compass, and it is evident that to do so  
 will contribute materially to the security of the revenue.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846082201:0768/pct:95.3560371517028,123.37236533957845,39.1124871001032,40.40983606557377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846082201:0768/pct:31.78066037735849,41.11930687273153,13.03557389937107,13.468368262888811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -807,7 +807,7 @@ I brought within a much narrower compass, and it
 i is evident that to do so will contribute materially  
 to the security of the revenue.&quot;?(Set America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846082501:0087/pct:54.495872641509436,68.05114803061414,13.620283018867925,16.51110696285234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846082501:0087/pct:54.495872641509436,68.05114803061414,13.625196540880504,16.517329351004914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -925,7 +925,7 @@ brought withm a much narrower compass, and it
 evident that to do so will contribute materially  
 !!f of- th America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1846082601:0568/pct:10.053333333333333,88.79939862542955,21.013333333333332,29.553264604810998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1846082601:0568/pct:7.548679647906108,66.60223367697594,15.764203787676713,22.164948453608247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1222,7 +1222,7 @@ to do so will contribute materially to the
   
 security of the revenue.&quot; See Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1846090301:0716/pct:244.3759630200308,121.22647716804843,57.85824345146379,109.01434399263061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1846090301:0716/pct:61.12931200616689,30.30661929201211,14.472923492002312,27.253585998157654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1259,7 +1259,7 @@ revenue, as with us, is of principal, or very
   
 consideruble consequence, and where no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1846090401:0880/pct:90.65588499550763,245.6024096385542,182.83917340521114,30.36144578313253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1846090401:0880/pct:22.66397124887691,61.40060240963855,45.709793351302785,7.590361445783133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1284,7 +1284,7 @@ cally; that is, according to weight, meas
   
 ure, or other rules of quantit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1846090401:0880/pct:32.88409703504043,278.7951807228916,117.69991015274034,13.614457831325302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1846090401:0880/pct:8.221024258760108,69.6987951807229,29.424977538185086,3.4036144578313254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1311,7 +1311,7 @@ e ee e e ee o ee e i o ae i e an o
 Government and the practice of all civiliz­  
 ed nations, for the sake of perpetrating a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1846090401:0880/pct:31.626235399820306,305.1807228915663,241.86882300089846,8.012048192771084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1846090401:0880/pct:7.9065588499550765,76.29518072289157,60.467205750224615,2.003012048192771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1328,7 +1328,7 @@ does not discriminate in favor of American j tained so little as hitherto in thi
 manufactures ; and not to discriminate in their ; be a delusive expectation, that, with duties so con­  
 favor, moderately and reasonably, by a &quot; live Isiderable as those which now exist, a disposition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846090401:0415/pct:26.291462751495377,37.97940166748406,39.80424143556281,2.1186856302108876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846090401:0415/pct:19.728076138681168,28.484551250613045,29.857239972807612,1.5890142226581658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1377,7 +1377,7 @@ within a much narrower compass, and it is evi­
 dent that to do so will contribute materially to the  
 security of the revenue&quot; See American Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846090401:0415/pct:46.247960848287114,21.304561059342817,20.010875475802067,27.98430603236881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846090401:0415/pct:34.6974847042828,15.97842079450711,15.010197144799456,20.99068170671898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

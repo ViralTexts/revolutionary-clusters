@@ -68,7 +68,7 @@ tive abodes, within a limited time.
 And be it further enacted, That the militia, employed in the  
 service of the United States, ihall receive the lame pay and allow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052301:0001/pct:8.240049751243781,60.773809523809526,27.643034825870647,18.154761904761905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052301:0001/pct:8.26337064676617,60.788690476190474,27.65080845771144,18.16468253968254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ By the President,
   
 Edm. Randolph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794080801:0002/pct:8.98716119828816,3.098046118641084,35.5206847360913,90.08977292730152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794080801:0002/pct:8.99429386590585,3.098046118641084,35.5206847360913,90.10737546206654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ AND WHERE AS it appears to me
 ixpedient, that, on this extraordinary  
 Ifccafion, the General Aflembly fhoukl 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794080901:0003/pct:40.17882089969265,17.023126412797776,17.07180776753283,14.049730481655365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794080901:0003/pct:40.19279128248114,17.027473482872544,17.064822576138585,14.045383411580595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ to ington, President of the United States,a
 no- d 0 hereby command all persons, being ,  
 eni insurgents as aforefaid, and all others 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794080901:0004/pct:7.469468900880432,3.8454815591679776,54.27435387673956,90.45621394861038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794080901:0004/pct:7.483669412098836,3.8585911553924137,54.27435387673956,90.46495367942667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ on • &gt; _ _
 By the President,  
 for Edm. Randolph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794080901:0004/pct:42.913944902016475,54.431043523859465,18.829877875603522,13.144555147701452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794080901:0004/pct:42.935245668844075,54.43978325467575,18.82277761999432,13.153294878517741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -813,7 +813,7 @@ and of the independence of the
 ye^e Pryldeut,  
 )r Edm&lt; Randolph. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794081201:0004/pct:8.999424956871765,4.747054747054747,53.27774583093732,89.76091476091476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794081201:0004/pct:8.999424956871765,4.747054747054747,53.284933870040255,89.76957726957727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,7 +1187,7 @@ ADAMS, President of the United States,
 do hereby command all persons being  
 insurgents as aforefaid, and all.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799031301:0003/pct:73.4945361543827,42.7806712962963,16.600790513833992,6.568287037037037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799031301:0003/pct:73.51197395954429,42.787905092592595,16.618228318995584,6.579137731481482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1218,7 +1218,7 @@ the Independence of the said
 United States of America the  
 twenty-third.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799031301:0003/pct:73.47128574750059,54.311342592592595,16.647291327598232,10.72048611111111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799031301:0003/pct:73.48872355266217,54.32219328703704,16.641478725877704,10.731336805555555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1248,7 +1248,7 @@ merica, the twenty-third. _
 &quot; &#x27;SOHN ADAMS.  
 By the President, B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799032701:0050/pct:26.035502958579883,14.321877129782884,16.173570019723865,10.661084607146334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799032701:0050/pct:26.045617761594094,14.321877129782884,16.173570019723865,10.667575374030442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1476,7 +1476,7 @@ _ , G.WAstiLVGTOX.
 By m* A«siaW, •!$&gt;  
 Eom. Randolph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091801:0610/pct:25.905936777178102,14.335374937924184,45.258288357748654,84.88660817745406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813091801:0610/pct:25.899280575539567,14.33300231711354,45.25308324768756,84.87669645812645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1558,7 +1558,7 @@ the President was laid before one of the atsoci­
 &#x27; ate justices, w ho gave the certificate, which en­  
 abled the chief magistrate to employ the militi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832062901:0315/pct:19.113768243362053,47.63587618815501,18.515913486899947,9.44430904216427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832062901:0315/pct:19.11040787623066,47.63007188985013,18.51851851851852,9.447219852971042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1740,7 +1740,7 @@ onslp thereto, bp proclamation, command such in­
 mrgents to disperse, and retire peaceably U  
 their respective abodes within a limited tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186920:1833010301:0101/pct:68.83677877198396,37.62623397254057,13.915458191916075,21.57040735277431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186920:1833010301:0101/pct:68.826160728058,37.62196505559337,13.918453390919842,21.571741925724226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1799,7 +1799,7 @@ sh h forthwith, and previously thereto, hy proclamation, command
 ?uch insorg- ni* in disperse and retire peaceably to their rnspar-tiv?  
 abodes within a limited ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839030501:0584/pct:48.27223557692308,86.16247662580511,17.20252403846154,9.328900893413671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839030501:0584/pct:48.2822516025641,86.16940231317959,17.192508012820515,9.332363737100907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1833,7 +1833,7 @@ ces, when such furce or torces of the Shite, or of
 the neighuming States, shall be, in his o uion, suffi  
 cient; and when not, then such portious of the mas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840040601:0287/pct:144.43368828654405,209.05373831775702,61.43272023233301,40.02628504672897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348872:1840040601:0287/pct:36.101432442895856,52.25580376697328,15.355207123499806,10.005110235070813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1927,7 +1927,7 @@ necessary.
 ~uui. i nat the militiaof the United States,  
 or any portion thereof, when employed in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1840050701:0252/pct:22.954473097739573,37.02318623784593,14.947468958930276,15.544751932186488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183682:1840050701:0252/pct:22.950819672131146,37.018571606630935,14.950395246432171,15.546969130416718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2000,7 +2000,7 @@ mahh as he shall deetn necessary.
 20th. That the militia of the United States,  
 or any portion thereof, when employed in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840051401:0200/pct:81.86221743810549,17.184317718940935,15.877287405812702,12.092668024439918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840051401:0200/pct:81.86221743810549,17.192803801765105,15.883267551728261,12.092668024439918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2036,7 +2036,7 @@ tire peaceably to their respective abodes
 within a limited time ; and provided, also,  
 that the militia which the President is thu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1840051901:0196/pct:24.459134615384617,31.25588204538325,17.322716346153847,15.173062846387117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1840051901:0196/pct:18.34710743801653,23.44452577642999,12.997746055597295,11.377182892397784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2083,7 +2083,7 @@ ortion of the mass as he may deem necessary.
 20th. That the militia of the United States, or any  
 ortion thereof, when emploved in the service of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840081301:0340/pct:92.11455472734406,246.76029364826044,38.61645089577612,26.502819448877542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840081301:0340/pct:30.700836820083683,82.24468085106383,12.870467224546722,8.833333333333334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2120,7 +2120,7 @@ portion of the mass as he may deem necessary.
 20th. That the militia of the United States,or any!  
 portion thereof, when emploved in the service of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840091001:0384/pct:93.82345259858971,238.0605137135394,40.088796030295114,26.327818894209837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840091001:0384/pct:31.270400835618226,79.34486886494722,13.361187274230753,8.774984583015925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2157,7 +2157,7 @@ portion of the mass as he may deem necessary.
 20th. That the militia of the United States, or any  
 bortion thereof, when employed in the service of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840091201:0388/pct:89.72520908004779,240.0524991797003,39.399973450152665,26.588647052389806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840091201:0388/pct:29.904433235996816,80.0087489063867,13.131581275993275,8.86191309419656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2423,7 +2423,7 @@ uinety-fiur, and of the independence of the United
 States of America the nineteenth  
 GEO. WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850110701:1193/pct:37.21761742239558,4.948245392577632,31.75686656915326,91.4668013127998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850110701:1193/pct:37.22303483395633,4.956660775898342,31.751449157592504,91.4668013127998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2514,7 +2514,7 @@ and having finally obliged the said inspector &lt;:
 11.&#x27; ai If&quot; nur, and the said marshal, from con  
 &#x27; r lera .&#x27;.ns I pei sonal safety, to fly from thai pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850110801:0473/pct:6.349879790694385,44.21708185053381,13.067458633856598,36.44350533807829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850110801:0473/pct:6.359307971526894,44.224495848161325,13.067458633856598,36.44721233689205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2639,7 +2639,7 @@ ninet\ *f?ur, and of the independence othe United
 States of America the nineteenth.  
 GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850111201:0560/pct:20.01759788825341,2.525875985186592,31.940167179938406,94.40698888994397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850111201:0560/pct:20.01759788825341,2.5322065014401924,31.940167179938406,94.40698888994397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2875,7 +2875,7 @@ ibodte within a limited tunc.&quot;
   
 sisUn* with #alf-ro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851022101:0194/pct:45.6548161652993,5.3091080698442665,19.978729869340626,91.95375176970269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851022101:0194/pct:45.66494479894662,5.313040742488595,19.973665552516966,91.95375176970269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2985,7 +2985,7 @@ Imwa of the Union, snnpress inaurreetiona, and rrpH Inva­
 sioo?,&#x27; it ?a enacted, &#x27; That, whenever the laws of the United  
 Stares shall be opposed, or the execution thereof obstructed,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851022201:0541/pct:33.02120627926191,92.70532948841183,15.464059487744423,3.9303641995087046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851022201:0541/pct:33.02120627926191,92.70888960091139,15.468649591480768,3.9339243120082594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3019,7 +3019,7 @@ forth, the President shall forthwith, and previous thereto, by
 proclamation, command anah insur*enis to disperse and retire  
 peaceably to their respective abodes within a limited lime
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851022201:0541/pct:48.54034701184247,87.80305457652462,15.601762599834757,8.83263911139592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851022201:0541/pct:48.54034701184247,87.80305457652462,15.61553291104379,8.843319448894585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3051,7 +3051,7 @@ judgment of the President to use the milita.­
 ry force hereby directed to be called forth,  
 the President shall forthwith by proclam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861041801:0511/pct:21.589969688619455,178.146835443038,42.68393496831083,23.59493670886076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861041801:0511/pct:7.196656562873152,59.382278481012655,14.227978322770277,7.864978902953586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3078,7 +3078,7 @@ in the judgment of the President, to use the
 military force hereby directed to be called  
 forth, tlie President shall forthwith, by proc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861050301:0298/pct:28.69019028265287,21.877091980184765,12.747090338075004,6.0115142589369395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861050301:0298/pct:28.694808793644928,21.88713348507163,12.760945871051174,6.008167090641318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3108,7 +3108,7 @@ military force hereby directed to be
 called fourth, the President shall  
 forthwith by proslamation, comman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1861050901:0269/pct:36.48315529991783,172.06764866339336,56.36811832374692,44.29896344789962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1861050901:0269/pct:9.126413155190134,43.01691216584834,14.100719424460431,11.074740861974904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3145,7 +3145,7 @@ dent, to use the military force hereby&#x27;
 directed to be called forth, the Presi­  
 dent shall forthwith, by proclamation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198016:1861051601:0053/pct:124.83489268024216,25.916480714058018,19.09741331865713,20.061630007438104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198016:1861051601:0053/pct:83.26221610461116,17.277653809372012,12.732278045423262,13.377961959409202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3185,7 +3185,7 @@ occasion may require, to aid in the effectual
 suppression of so fatal a spirit.&quot;  
 At this time a requisition was issued by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861052301:0506/pct:216.07142857142858,129.4757796947578,49.214285714285715,29.09090909090909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861052301:0506/pct:54.046810791495446,32.36894492368945,12.310166160443094,7.2727272727272725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3211,7 +3211,7 @@ ever it may be necessary, in the judgment of the Pres­
 ident, to use the militia force hereby directed to be  
 called forth, the President shall forthwith, by procla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1861060101:0001/pct:5.640217200910842,54.98432601880878,11.981082501313715,3.7241379310344827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1861060101:0001/pct:5.648975302154493,54.990595611285265,11.998598703801015,3.730407523510972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3246,7 +3246,7 @@ sary, in the judgment of the President, to use the mili
 tary force hereby directed to be called forth, the Presi­  
 -111 shall forthwith, by proclamation, command suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861061101:0573/pct:60.97052280311457,14.301191765980498,10.803670745272525,3.102531271545356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861061101:0573/pct:60.979792361883575,14.301191765980498,10.799035965888024,3.102531271545356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3273,7 +3273,7 @@ sary, in the in lgment of the Presicent to use the
 military force hereby directed to be called forth,  
 the President shall forthwith, by proclamation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861061301:0565/pct:57.76255707762557,122.77395447326627,45.490867579908674,18.88830068819481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861061301:0565/pct:14.44682369735903,30.693488618316568,11.37758743754461,4.722075172048703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3327,7 +3327,7 @@ bear the execution of bis office. Both the
 inspector and the marshal were obliged to  
 fly from that part of the country to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768710:1861092701:0269/pct:43.82632293080054,11.985567707746082,12.332278003919795,10.779118277145113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768710:1861092701:0269/pct:43.82632293080054,11.985567707746082,12.347354138398915,10.79415191490961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3358,7 +3358,7 @@ Gov. Leo marched his troops amounting
 to fifteen hundred men, into the western  
 counties of Pennsylvania ; and on the ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768710:1861092701:0269/pct:43.84139906527966,24.90697936633217,12.317201869440675,9.042733115345586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768710:1861092701:0269/pct:43.851449821599076,24.910737775773292,12.322227247600383,9.038974705904462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3390,7 +3390,7 @@ judgment of the President, to use the
 military force hereby directed to be call-­  
 ed forth, by proclamation, command suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529133:1862081101:0468/pct:53.87876218736753,135.6537213440804,36.44199519570439,27.185177431173454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529133:1862081101:0468/pct:17.959587395789175,45.21790711469347,12.147331731901465,9.06172581039115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3424,7 +3424,7 @@ to use the military force hereby directed
 to be called forth, the President shall,  
 forthwith, by proclamation, comman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1862082801:0559/pct:183.34534967555877,164.35780450712014,48.73828406633021,38.71146135766625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1862082801:0559/pct:45.861136158701534,41.089451126780034,12.19116321009919,9.677865339416563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3446,7 +3446,7 @@ conviction that the essontinl iutcrests of the
 Union demand it.&quot; On the same day, a  
 requisition was made on the Governors o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1865053101:0208/pct:75.65334358186011,26.2,16.679477325134513,4.8/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1865053101:0208/pct:56.76662821991542,19.653333333333332,12.51441753171857,3.6/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3472,7 +3472,7 @@ Maryland and Virginia for twelve thousand
 militia. ( afterward incressed to fifteen &#x27;thnn.  
 sand,) who were to be irtmediately organize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1865060101:0317/pct:61.26237623762376,36.78985949908369,16.666666666666668,7.330482590103848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026797:1865060101:0317/pct:45.96657726428719,27.59621258399511,12.502578914792656,5.497861942577886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3497,7 +3497,7 @@ Maryland and Virginia, for twelve thousand
 militia, (afterwards increased to fifteen thou­  
 sand,) who were to be immediately organiz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879907:1866050901:0438/pct:23.397243858597964,60.00917220820913,16.986219292989816,6.87915615684476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879907:1866050901:0438/pct:17.563314850891654,45.01261178628755,12.737898995953843,5.15936711763357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3522,7 +3522,7 @@ disguised in such a manner as for the most
 part to escape discovery.&quot;  
 They did not heed, and on the 2oth o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027691:0023728334A:1875021801:0025/pct:9.676434676434676,108.78436163714112,12.881562881562882,7.318265119120342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027691:0023728334A:1875021801:0025/pct:7.268285234386929,81.58827122785583,9.665597801191021,5.497861942577886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3541,7 +3541,7 @@ armed banditti, disguised in such&#x27; a
 manner as for the most part to&#x27; escape  
 discovery. If the epithet of &#x27;banditti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1875021801:0464/pct:6.4077025232403715,104.81958762886597,14.674634794156706,3.6082474226804124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775435:1875021801:0464/pct:4.814876307487963,78.62113402061856,11.00780342022248,2.7061855670103094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3612,7 +3612,7 @@ The opposition may hold their carnival now and
 for the moment put down the soldiers of the Ke­  
 public; but they mistake the people if they thin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875030101:0206/pct:152.3676880222841,228.8085051212239,43.523676880222844,30.28652923635421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875030101:0206/pct:38.11182720780352,57.202126280305976,10.886605121059048,7.571632309088552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3650,7 +3650,7 @@ f-.ee. The opposition may hold their carnival
 now and for the moment put down the soldiers  
 of the Republic; but they mistake the peopl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1875031101:0657/pct:59.00567693101669,38.45044572627163,12.300017202821262,10.395909805977976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1875031101:0657/pct:58.99552803577571,38.44540568881898,12.30220158238734,10.39782409227946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3706,7 +3706,7 @@ t so to be called forth, may be continued, If
 d the commencement of the ensuing session.&quot;  
 In 1795 this provision was substantially reenacte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654516:1879051201:0247/pct:43.05720702866957,48.02068828327034,16.395825075967764,12.721304953252437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654516:1879051201:0247/pct:43.05720702866957,48.024003713281616,16.409036860879905,12.727935813274982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3748,7 +3748,7 @@ state* most convenient thereto, as may be
 •eenwary, and ibe uneof the militia so to be  
 called for may ba continued till the pi ra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn84022144:00415624918:1879051201:1009/pct:4.268161241646907,80.45574057843997,14.87389523604225,13.789073911773299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn84022144:00415624918:1879051201:1009/pct:4.284328519077388,80.46304411335086,14.863117051088597,13.803680981595091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3782,7 +3782,7 @@ continual, if neccsiiry, until the expiration of
 iliirty days afti-r the c mauucemetit of tlio en  
 suiog session. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663821:1879051201:0417/pct:19.757688723205966,58.59375,15.70363466915191,10.762746710526315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663821:1879051201:0417/pct:19.757688723205966,58.59717653508772,15.713989851920886,10.766173245614034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3849,7 +3849,7 @@ other State or States most convenient thereto as
 may be necessary, and the use of militia, so to be  
 called forth, may bo continued, if necessary, unti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879051301:0460/pct:14.473684210526315,255.62060889929742,49.45820433436533,28.220140515222482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879051301:0460/pct:3.6205227492739596,63.905152224824356,12.371732817037755,7.055035128805621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3886,7 +3886,7 @@ to be called forth may be continued if necess
 until the expiration of thirty days after the o  
 mencement of the ensuing session
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531356:1879051301:0095/pct:53.63694882523335,22.790382661699965,93.04795622787255,272.1526131617564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531356:1879051301:0095/pct:17.878982941744447,7.596794220566656,31.01598540929085,90.71753772058547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3922,7 +3922,7 @@ mllltls so lobe called foyln nay he continued, If
 necessary, until the expiration of thirty day* after  
 the commencement of the ensuing session,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879051301:0001/pct:42.964554242749735,20.179640718562876,13.104189044038668,8.063872255489022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879051301:0001/pct:42.97798066595059,20.179640718562876,13.097475832438239,8.063872255489022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3969,7 +3969,7 @@ States most convenient thereto as may be necessary,
 and the use of militia so to be called forth may be  
 continued, if necessary, until the expiration of 3
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879051301:0340/pct:27.703145478374836,38.957725947521865,10.992791612057667,10.738581146744412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879051301:0340/pct:27.6986076986077,38.952994048342035,10.995085995085995,10.740313373011054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4008,7 +4008,7 @@ In 1807 the following act became the law by the
 approval of President Jefferson:  
 That in all cases of insurrection or obstruction to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879051301:0899/pct:11.948249619482496,197.708674304419,50.30441400304414,32.19758964439816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879051301:0899/pct:2.987062404870624,49.42716857610475,12.576103500761034,8.04939741109954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4043,7 +4043,7 @@ State, or States, most convenient thereto, as may be
 necessary, until the expiration of thirty days after  
 the commencement of the ensuing session.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779568:1879051301:0392/pct:60.4052573932092,48.35116356016323,84.3921139101862,327.34090658431677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779568:1879051301:0392/pct:15.103382171710257,12.087790890040807,21.10091743119266,81.83522664607919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4096,7 +4096,7 @@ be law by the approval of President Jeffer­
 That in all cases of insurrection or  
 Slruction to the laws, either of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664424:1879051301:0465/pct:1.352255991431249,190.48798385617317,39.87146873744812,55.98055402678408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00415664424:1879051301:0465/pct:0.4507519971437497,63.495994618724396,13.290489579149373,18.660184675594692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4137,7 +4137,7 @@ continued if necessary until the expire- th
 tion of thirty days after the commence- ^  
 ment of the ensuing session. 8
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193444:1879051301:0459/pct:35.81577658010779,68.2922596320722,13.424791768740814,12.18326969802152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193444:1879051301:0459/pct:35.83414992650661,68.30527594585213,13.430916217540421,12.196286011801458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4220,7 +4220,7 @@ thirty days alter the commencing of the ensuing
 session.  
 President Hayes continues in support o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1879051401:0542/pct:202.48254460822344,160.9784507862551,42.97905352986812,33.1974373907979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1879051401:0542/pct:50.630455868089236,40.24461269656378,10.746847720659554,8.299359347699475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4329,7 +4329,7 @@ APPROVAL OK PRESIDENT .IKKKKKSON.
 obstruction either to the Uuited States or  
 of any individual State or Territory wher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528992:1879051501:0333/pct:40.97778945985018,70.32655455612046,11.565251675647259,15.007821666014861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_celebi_ver01:data:sn84027329:00279528992:1879051501:0333/pct:40.97778945985018,70.33307261113283,11.574013229946992,15.014339721027245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4376,7 +4376,7 @@ struction to the laws either of the United
 States or of any individual State or Terri­  
 tory, where it is lawful for the President o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027691:00237283351:1879051501:0301/pct:87.37654320987654,83.93482196741098,13.179012345679013,18.418829209414604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027691:00237283351:1879051501:0301/pct:65.55023923444976,62.95715147857574,9.893502083654885,13.808086904043453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4414,7 +4414,7 @@ tiiiucd if necessary until the expuatiou of
 th&#x27;uty days after the commencement ol the  
 ensuing session.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479317:1879051501:0469/pct:39.2226148409894,51.749944970283956,10.826855123674912,8.958837772397095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479317:1879051501:0469/pct:39.23203769140165,51.75728226575684,10.836277974087162,8.958837772397095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4449,7 +4449,7 @@ so to be called forth may be continued if necessary
 until the expiration of thirty days after the com­  
 mencement of the ensuing session.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479214:1879051501:0184/pct:40.24286581663631,48.033734483085375,10.455373406193079,5.666635080072018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479214:1879051501:0184/pct:40.24286581663631,48.04005180201523,10.463468933414289,5.66979373953694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4534,7 +4534,7 @@ In 17115 this provisou was substantiallyre-enacted
 in a law which repealed Ihe act of 1792. In  
 1807 the following act became the law by the ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775034:1879051501:0894/pct:85.29155787641427,20.85864722559741,18.037423846823323,12.366680167409207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775034:1879051501:0894/pct:64.01045068582626,15.647360604833265,13.54234704985848,9.275010125556905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4571,7 +4571,7 @@ tinued, if necessary, until the expiration of
 thirty days after the commencement of the en­  
 suing session.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1879051501:0680/pct:61.78130511463845,33.961766644693476,10.91710758377425,6.750164798945287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1879051501:0680/pct:61.770410862281786,33.95728974426575,10.919590901075647,6.752570524650673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4608,7 +4608,7 @@ the militia so to he called forth may be continued, if
 necessary, till the expiration of thirtydays after the  
 commencement of the ensuing session
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769453:1879051501:0585/pct:57.51288489493855,40.22804560912182,11.854103343465045,8.421684336867374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769453:1879051501:0585/pct:57.521695079511915,40.22804560912182,11.845293158891678,8.428352337134093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4646,7 +4646,7 @@ be called forth may be continued, if neces­
 sary, until the expiration of thirty days after  
 the commencement of the ensuing session.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151271:1879051501:0364/pct:68.07622756989845,53.245098039215684,13.951870913896231,10.803921568627452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151271:1879051501:0364/pct:68.08086428339593,53.248366013071895,13.956507627393703,10.81045751633987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4681,7 +4681,7 @@ so to be called forth may be continued if necessary
 until the expiration of thirty days after the com­  
 mencement of the ensuing session.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152391:1879051501:0283/pct:35.953200275292495,43.07743510095407,9.717825189263593,6.634124694919015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152391:1879051501:0283/pct:35.96237669190181,43.08113305228903,9.713236980958936,6.6415205975889355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4769,7 +4769,7 @@ be called forth may bo continued, if neces­
 sary, until the expiration of thirty days after  
 tho commencement of the cunning&quot; session
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023760:1879051601:0089/pct:99.03269754768392,78.38188903321581,20.912806539509535,14.956392651697904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023760:1879051601:0089/pct:66.03979285908967,52.25459268881054,13.954756064322703,9.974021154203006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4854,7 +4854,7 @@ the law by the approval of President Jef.­
 tersu?   cases el tnvarresuoa ar ctatrgses  
 to the laws, elther of the United States or of any to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879051601:0496/pct:264.5722937168812,173.58385525400138,38.75851627554883,33.40292275574113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879051601:0496/pct:66.1430734292203,43.395963813500344,9.689629068887207,8.350730688935283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4950,7 +4950,7 @@ That In all coses of Insurrection orobstruo-
 Hon to the laws, either of the Uulted States  
 or of any Individual State or Territory wher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556072:1879051701:0199/pct:53.28382838283829,64.6081992734821,14.603960396039604,14.660093409444732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556072:1879051701:0199/pct:39.97359300214557,48.45614945511157,10.95890410958904,11.001556824078879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5004,7 +5004,7 @@ state or territory, where it is lawiu
 tor the president of the United States  
 to call lor tliese militia for the pu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556552:1879051701:0330/pct:34.816596512327116,81.47613895900949,13.454600120264582,21.42084385142445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556552:1879051701:0330/pct:26.1203007518797,61.1131145570381,10.105263157894736,16.059622550787353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5039,7 +5039,7 @@ sion tackll fSrth ftntfemploy siich membeh of
 militm ct tin6 c§tli|r?Stiteiot States most pon­  
 veiH^t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:0021247082A:1879051701:0258/pct:7.735918068763716,54.73520992366412,16.660570592538406,9.398854961832061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:0021247082A:1879051701:0258/pct:7.7420141428919775,54.74316157760814,16.672762740794926,9.394879134860052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5081,7 +5081,7 @@ re-enacted in a law which repealed the act
 of 1793. In 1807 the following act became  
 the law by the approval of President Je
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296029002:1879051701:0322/pct:46.34816035145524,67.56660746003553,12.451949478308622,12.220248667850798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296029002:1879051701:0322/pct:34.765893175889055,50.68087625814091,9.350542358918029,9.1651865008881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5132,7 +5132,7 @@ Presidont Jefforson - P
 That in all eases of insurrection or ob­  
 struction to the laws, either of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153541:1879051701:0453/pct:5.215864490807684,56.88954850804562,11.061764098326792,14.661771598187784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153541:1879051701:0453/pct:5.222750120498519,56.89215226787481,11.058321283481375,14.664375358016976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5212,7 +5212,7 @@ tinued, it necessary, until tho expiration of
 thirty days after tho commencement of the en­  
 suing session. - &#x27; &quot; - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763190:1879052001:0081/pct:8.84461009174312,60.471325748781055,14.406536697247706,12.143022985837009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763190:1879052001:0081/pct:6.638944651562948,45.356396563733455,10.811585890450244,9.11307174367309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5256,7 +5256,7 @@ sessison.
 In 1795 the provision was substan­  
 tially re-enacted in a law which repeal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1879052001:0393/pct:103.88424295774648,203.8031723143475,28.686179577464788,32.71449170872386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1879052001:0393/pct:34.63951568519538,67.93439077144917,9.565217391304348,10.90483056957462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5294,7 +5294,7 @@ sary, until t.lic expiration of thirty days after
 the commencement of the ensuingsession.&#x27;*  
 la 1T&#x27;J5 this provision was substantially re-en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:0020219235A:1879052001:0495/pct:28.961748633879782,44.64497041420118,13.502555966860568,9.467455621301776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:0020219235A:1879052001:0495/pct:28.974969152124096,44.64497041420118,13.489335448616252,9.478550295857989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5339,7 +5339,7 @@ commencement of the ensuing ses­
 sion. I 9s this provision was sub­  
 stantially re-enacted in a law whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1879052101:0111/pct:166.15479115479116,54.334470989761094,40.663390663390665,60.477815699658706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776488:1879052101:0111/pct:41.53869778869779,13.583617747440274,10.165847665847666,15.119453924914676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5383,7 +5383,7 @@ re-enacted in a law which repealed the act
 of 1792. In 1807 the following act became  
 the law by the approval of President Jeffe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1879052101:0509/pct:24.983443708609272,90.61587301587302,13.874172185430464,20.19047619047619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn86053634:00280776683:1879052101:0509/pct:18.74792977807221,67.96190476190476,10.417356740642598,15.149206349206349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5426,7 +5426,7 @@ tSThat in all cases of Insurrection or obstruction
 to the laws either ol the United States or of any  
 individual, state or territory where it Is lawfu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00279550018:1879052101:0430/pct:35.94048594048594,42.83041810868955,14.441714441714442,11.271162660181462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00279550018:1879052101:0430/pct:35.94048594048594,42.83665388332866,14.446264446264447,11.26804477286191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5465,7 +5465,7 @@ Tins provision was tu r, s r anti ally bk-enacved
 In h law which repeated flu* act of IT&#x27;. : In 1807  
 the following net became the law by approval 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768825:1879052101:0186/pct:11.497730711043873,48.02414928649835,17.44110654851956,10.826015367727772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768825:1879052101:0186/pct:11.504934802968085,48.0332967435053,17.4627188242922,10.826015367727772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5558,7 +5558,7 @@ or of any individual State or Territory where
 It is lawful for the President of the United  
 States to call forth the militia for the pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688787:1879052201:0495/pct:43.38875692794932,45.57793345008756,12.252573238321457,11.13543490951547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688787:1879052201:0495/pct:43.38875692794932,45.57793345008756,12.252573238321457,11.145164428877214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5595,7 +5595,7 @@ tinued, if ueceasary, uniH the expiration of thirty
 days after the commencement of the ensuing ses­  
 sion.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919945:1879052201:0087/pct:68.65924150570986,46.53079407506404,11.899055406739038,8.319411961242901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919945:1879052201:0087/pct:60.07648340803487,40.717882085431214,10.41572433077018,7.286015916842618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5638,7 +5638,7 @@ tinued, if necessary, unlH the expiration of thirty
 days alter the commencement of tho ensuing ses­  
 sion.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919945:1879052201:0088/pct:68.55765139696497,45.210384959713515,11.998298113742731,9.92614145031334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919945:1879052201:0088/pct:59.99172699069287,39.56198185260134,10.50258531540848,8.688556694301194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5676,7 +5676,7 @@ tinned if necessary until the expiration of
 thirty days after the commencement of the  
 ensuing sessio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059517:00383347695:1879052201:0258/pct:57.7790547335153,52.6349273671933,12.167791983910357,9.638426465910296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059517:00383347695:1879052201:0258/pct:57.788631901546715,52.63846181034178,12.158214815878944,9.641960909058778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5726,7 +5726,7 @@ the expiration of thirty days after the
 commencement of the ensuing ses­  
 sion.&#x27; MORE PRECEDENTS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237285190:1879052201:0620/pct:21.66307857911733,8.565776458951532,30.46286329386437,118.76360039564787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237285190:1879052201:0620/pct:16.25841184387618,6.4292779426310585,22.853297442799462,89.0702274975272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5766,7 +5766,7 @@ so to be called forth may be continned if necessary
 until the expiration of thirty days after the com­  
 mencement of the ensuing session.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042404:00212478702:1879052201:0195/pct:59.41043083900227,81.16835099827459,16.42101284958428,10.377125955139265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042404:00212478702:1879052201:0195/pct:59.41043083900227,81.17245912414757,16.439909297052154,10.38534220688522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5827,7 +5827,7 @@ cessary, until the expiration of thirty day
 after commencement of the&#x27;en&#x27;sning ses­  
 sion.&quot; , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665817:1879052201:0524/pct:81.45161290322581,14.641054057382096,28.076463560334528,113.18803103066125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665817:1879052201:0524/pct:61.11443083358231,10.983868981652506,21.06363907977293,84.89102327299594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5870,7 +5870,7 @@ ment of tho ensuiug session.
 lu 1795 this provision was aubston­  
 tially re-enacted in it law which repeale
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290999:1879052201:0159/pct:6.877228731533367,4.364458355068684,35.43046357615894,91.98400278212485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290999:1879052201:0159/pct:6.8899643402954664,4.373152495218223,35.43683138053999,91.98834985219962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5953,7 +5953,7 @@ cafl for the mtlltia of such State to suppress
 sach combinations and to cause the laws to  
 be duly executed; and if the militia of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn83025167:00279528785:1879052301:0523/pct:227.53103801356713,168.98049914115387,32.356329194931526,11.417601293321209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn83025167:00279528785:1879052301:0523/pct:75.8436793378557,56.326833047051295,10.785443064977175,3.8058670977737363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6004,7 +6004,7 @@ suppress
   
 In 1807 the following act became the law, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn83025167:00279528785:1879052301:0523/pct:193.77959810572122,33.25250075780539,67.77166261359272,198.1711629786804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn83025167:00279528785:1879052301:0523/pct:64.59319936857375,11.084166919268466,22.59055420453091,66.0570543262268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6048,7 +6048,7 @@ and employ such numbers of the militia of
 may be necessary, until the expiration of  
 tyunys atter the commencement of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1879052301:0962/pct:12.977099236641221,199.1462113127001,68.61747243426633,56.4034151547492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1879052301:0962/pct:3.2449628844114526,49.786552828175026,17.15800636267232,14.1008537886873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6153,7 +6153,7 @@ mencement of the ensuing session.&quot;
 In 1795 thi provision was substan­  
 tially re enacted in a law which re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775216:1879052301:0174/pct:23.854099418979988,78.6273329319687,13.79922530664945,28.163756773028297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775216:1879052301:0174/pct:17.901533494753835,58.976520168573145,10.347054075867636,21.11980734497291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6207,7 +6207,7 @@ law by tlie approval of President Jt-flVrson:
 tion to the laws, either of the Uuited states  
 or of any individual State or Territory wher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877613:1879052401:0188/pct:67.94692737430168,61.74095124139994,14.28072625698324,17.54412204606641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877613:1879052401:0188/pct:50.98689956331878,46.30571343104995,10.724890829694322,13.161830690996112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6250,7 +6250,7 @@ until the expiration of thirty days
 :&#x27;er the commencement of the ensuing  
 ision
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287253:1879052801:0136/pct:45.82765034097954,53.57978474496959,11.506509609423434,11.530182498830136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287253:1879052801:0136/pct:45.82765034097954,53.58602402121354,11.518908865468072,11.533302136952113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6290,7 +6290,7 @@ shall be lawful for tho President of the
   
 United States, on application of the .Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn84026918:00295862087:1879053002:0364/pct:40.61906570451956,4.120040691759919,39.38473224458792,92.39572736520854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn84026918:00295862087:1879053002:0364/pct:40.63172553487783,4.124279416751441,39.37207241422965,92.40420481519159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6351,7 +6351,7 @@ much annoyance to the government.
 But these combinations were scattered  
 and in the close of his proclamation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892058:1899112601:0502/pct:6.231454005934718,74.32238079433566,14.22683811407847,3.0091824316849207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892058:1899112601:0502/pct:6.231454005934718,74.32238079433566,14.22683811407847,3.0128701552531623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6372,7 +6372,7 @@ much annoyance to the government.
 All these combinations were scattered  
 and in the close of his proclamatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_miller_ver01:data:sn86092523:00514157911:1899112601:0488/pct:83.39648639338616,25.05726648002036,12.555976575955908,4.0722830236701455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_miller_ver01:data:sn86092523:00514157911:1899112601:0488/pct:83.38212502152574,25.054078126988166,12.558119510935079,4.074945921873012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6414,7 +6414,7 @@ much annoyance to the government.
 But these combinations were scattered  
 and In the close of his proclamation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1899112901:0614/pct:27.66565458117521,68.2336578581363,10.555456331487767,2.5173852573018083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1899112901:0614/pct:27.660714285714285,68.22416910026422,10.558035714285714,2.5205117507996104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6456,7 +6456,7 @@ muV, annoyance to the government.
 All these combinations u-io aartrt  
 and in the close of his proclamatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871453:1899113001:0443/pct:111.10518834399431,46.981506953996636,16.577825159914713,4.050129909827296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871453:1899113001:0443/pct:83.34814288253065,35.24377197004432,12.440021325750845,3.0414183096438943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6477,7 +6477,7 @@ noyance to tbe government.
 All these oomli’nations were scattered  
 and in tbe close if his proclamation rec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210752:1899113001:0328/pct:56.92529327022021,58.14540558734433,12.142416135007203,3.130259171995961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210752:1899113001:0328/pct:56.91358024691358,58.135621739862025,12.145061728395062,3.133939088002692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

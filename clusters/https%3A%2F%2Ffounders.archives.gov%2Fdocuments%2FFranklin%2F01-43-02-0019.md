@@ -388,7 +388,7 @@ ties of old age could be as easily and cheaply
   
 remedied, it would be worth while to live a grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1842122301:0424/pct:80.53935860058309,339.78368897983046,49.56268221574344,13.212510961707103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1842122301:0424/pct:20.14585232452142,84.94592224495761,12.397447584320876,3.303127740426776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ refreshed in the morning ? , - ,-?-
 “1 look upon death to be as necessary  
 to our constitution as sleep,” says Dr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1862083001:0343/pct:84.11371237458194,58.307794803464354,12.578966926793013,1.1459027315123251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1862083001:0343/pct:84.0980865688278,58.300026645350385,12.581274382314694,1.1490807354116708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ CheEarvI OlD AOE--&quot;I look upon
 death to be as necessary to our constitu  
 tions as sleep,&quot; says Dr. Franklin, in on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1862100201:0595/pct:28.055342044581092,96.71608701676597,48.73174481168332,12.692254399334903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1862100201:0595/pct:7.015183547953104,24.179021754191492,12.185277724389776,3.1730635998337258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ lin, &quot;to be as necessary to our consti­
 tution as sleep.&quot; We shall rise refresh­  
 ed in the morning. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028034:1864032401:0900/pct:229.73186119873816,329.47117407771077,48.50157728706625,9.314069294431196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028034:1864032401:0900/pct:57.44429106685072,82.36779351942769,12.127785446657464,2.328517323607799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ is
 as necessary to our constitution as sleep. We  
 shall rise refreshed in the morning.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864032401:0224/pct:329.01056676272816,366.85001833516685,63.976945244956774,7.48074807480748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864032401:0224/pct:82.29216722729457,91.71250458379171,16.001922152811147,1.87018701870187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ tfeep. We shall
 rise refreshed in the  
 morning
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1864071301:0241/pct:9.358367829686577,113.16843345111896,16.6173861620343,2.838633686690224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1864071301:0241/pct:7.02558793077947,84.87632508833923,12.468569738204408,2.131919905771496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ be as necessary to our constitution as
 sleep. We shall rise refreshed in the  
 morning.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026645:1866011901:0018/pct:36.75015460729747,125.11072339283318,14.424860853432282,4.751040128841766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026645:1866011901:0018/pct:27.575007732755953,93.83975305328144,10.825858335910919,3.569990605287881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ I look upon death to be as necessary to
 our constitutions as sleep. We shall rise  
 refreshed in the morning
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777535:1873071201:0247/pct:292.2238372093023,203.9349871685201,43.241279069767444,32.734530938123754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777535:1873071201:0247/pct:73.08251544892767,50.98374679213003,10.814249363867685,8.183632734530939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -734,7 +734,7 @@ I look upon death to be as necessary
 to our constitutions as sleep. We shall  
 rise refreshed in the morning. Frank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1873071801:0751/pct:112.30053191489361,58.35604491442276,14.601063829787234,15.839965115011447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1873071801:0751/pct:84.25113061984571,43.7697590755478,10.960361798350625,11.882699225989317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -769,7 +769,7 @@ I look upon death to be as necessary
 to our constitutions as sleep. We shall  
 rise refreshed in the morning.-Frank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1873071901:0642/pct:354.3046357615894,114.02640264026402,39.17473255221599,43.31683168316832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1873071901:0642/pct:88.59872611464968,28.506600660066006,9.796178343949045,10.82920792079208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ I look upon death to be as necessary
 to our constitutions a sleep. We shall  
 rise refreshed in the morning. JVonJt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1873072401:0123/pct:115.36558548653106,49.22399814686125,13.207806487080815,14.744035209636321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1873072401:0123/pct:86.54295532646049,36.923789668751446,9.9106529209622,11.060921936529997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -822,7 +822,7 @@ constitutions as sleep We shall rise refresh­
 ed in the morning.—Franklin.  
 Mrs. Joaquin Miller has heard of Joaquin’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525358:1873080201:0295/pct:74.07952871870398,11.306622280347165,10.931107838324333,2.2708358102484842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525358:1873080201:0295/pct:74.06740837696336,11.30527817403709,10.933409685863875,2.2735378031383737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -849,7 +849,7 @@ Mrs. Joaquin Miller has heard of Joaquin’
 our constitutions as sleep. We shall rise  
 refreshed in tin* morning. [Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524664:1873081401:0343/pct:83.49547131834954,92.914653784219,11.01979201610198,1.3130187043230521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524664:1873081401:0343/pct:83.48146905919839,92.90314590042111,11.022136508468892,1.3159524399306415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -866,7 +866,7 @@ refreshed in tin* morning. [Franklin.
 to our constitutions as sleep. We shall  
 rise refreshed in the morning.—Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762428:1873120401:0558/pct:29.10432874526232,32.04057279236277,12.62716935966487,1.5214797136038185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762428:1873120401:0558/pct:29.11928984639936,32.048031026252985,12.62716935966487,1.5140214797136038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -883,7 +883,7 @@ I look upon death to be as neoessary
 to our constitutions as sleep. We shall  
 rise refreshed in the morning
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:0051701607A:1873122501:0195/pct:30.872340425531913,87.69339957416608,14.25531914893617,1.7743080198722498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:0051701607A:1873122501:0195/pct:30.865773239736228,87.68095373261426,14.257604764943629,1.7776043145046836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ constitution as sleep. We shall rise refreshed
 in the morning.  
 A priest in Sereno, Chili, endeavored t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952536A:1874021201:0295/pct:62.019309441989854,9.384688766992607,22.647684503354608,88.26615788218459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952536A:1874021201:0295/pct:62.00916230366492,9.38356981042089,22.64806937172775,88.25861452247526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -985,7 +985,7 @@ the devil. . . ... ...
 to our constitution as sleep. We shall  
 riBe refreshed in the morning. Benj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:0029602742A:1874111001:0196/pct:37.639459776864356,83.3065294306851,14.283617146212565,2.6160608984668166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:0029602742A:1874111001:0196/pct:28.23373953898106,62.48525785354347,10.7179562472471,1.9620456738501126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1069,7 +1069,7 @@ I look upon death to be as necessary to
 our constitution as sleep. We shall rise re­  
 freshed in the morning. IFranklyn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879040401:0471/pct:51.79372197309417,191.77627024781947,38.34080717488789,10.411186487609026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777055:1879040401:0471/pct:12.953271028037383,47.94406756195487,9.588785046728972,2.6027966219022565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1101,7 +1101,7 @@ I look upon death to be as necessary
 to our constitution as sleep. We shall  
 rise refreshed in the morning. Frank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1879042301:0258/pct:177.21804511278197,326.5168247369105,48.87218045112782,45.57619851890347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296126:1879042301:0258/pct:44.31284075954127,81.62920618422763,12.220342169580748,11.394049629725867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1129,7 +1129,7 @@ to our constitution as sleep,&quot; says Dr.
 Franklin, in one of his letters; &quot;we  
 shall rise refreshed in the morning.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_cedar_ver01:data:sn88085488:00211108101:1889030201:0086/pct:43.22852626031969,31.664482306684143,11.92692780607764,2.1494102228047183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_cedar_ver01:data:sn88085488:00211108101:1889030201:0086/pct:43.237308975935356,31.67103538663172,11.92692780607764,2.152686762778506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1164,7 +1164,7 @@ shall rise refreshed in the morning.
 sary to our constitution as sleep.&quot;  
 &quot;we shall rise refreshed in the morn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063952:00280760286:1889062701:0232/pct:181.31147540983608,103.45642540620383,50.40983606557377,7.0310192023633675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063952:00280760286:1889062701:0232/pct:45.33715925394548,25.86410635155096,12.605042016806722,1.7577548005908419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1197,7 +1197,7 @@ our constitutions as sleep. We shall rise
 refreshed in the morning. Franklin.  
 The grandest of heroin deeds are thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:0029587045A:1891050301:0045/pct:41.50086505190311,106.42451198418581,16.738754325259517,11.267605633802816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:0029587045A:1891050301:0045/pct:31.134421974694497,79.82044312659583,12.555423380555856,8.450704225352112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1236,7 +1236,7 @@ I look upon death to be as neces­
 sary to our contitution as sleep. We  
 shall rise refreshed in the morning.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890554:1891110901:1188/pct:24.76089266737513,28.18956798150556,16.535600425079704,3.9156191301834995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890554:1891110901:1188/pct:24.755631109222268,28.18549552152557,16.537399065023376,3.9186651256862177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1415,7 +1415,7 @@ I look upon death to be as necessary to
 our constitution as sleep. We shall rise re­  
 freshed in the morning.—Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740530:1898101601:0422/pct:84.87615884876159,16.863664153250458,12.937595129375952,9.730996535561443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740530:1898101601:0422/pct:84.87615884876159,16.863664153250458,12.942207462755407,9.74118606072957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

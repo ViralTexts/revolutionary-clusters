@@ -349,7 +349,7 @@ and measured their feet by syllabic quantity.
 
 ---
 
-## [From _The International Monthly Magazine of Literature, Science and Art (1850-1852)_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1851-11-01_4_4/page/n35/mode/1up?view=theater)
+## [From _The International magazine of literature, art, and science_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1851-11-01_4_4/page/n35/mode/1up?view=theater)
 
 #### 1851-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -389,7 +389,7 @@ country for nearly five centuries from the time of
 
 ---
 
-## [From _The International Monthly Magazine of Literature, Science and Art (1850-1852)_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1851-11-01_4_4/page/n36/mode/1up?view=theater)
+## [From _The International magazine of literature, art, and science_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1851-11-01_4_4/page/n36/mode/1up?view=theater)
 
 #### 1851-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -685,7 +685,7 @@ powers and meanings of the language we
   
 now read and speak.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn90061576:0020029208A:1894092001:0967/pct:26.48691514670896,278.63894139886577,42.664551942902456,9.45179584120983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn90061576:0020029208A:1894092001:0967/pct:6.625669510017854,69.65973534971644,10.67248561793295,2.3629489603024574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

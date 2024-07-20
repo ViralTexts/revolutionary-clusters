@@ -73,7 +73,7 @@ Ingratitude, thou marble hearted fiend,
 More hideous when thou shew’st thee in a child  
 Than a sea monster
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825092701:0454/pct:19.14822266934943,21.08888888888889,14.403085177733065,2.3222222222222224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825092701:0454/pct:19.14501257334451,21.086545939340073,14.406258731489244,2.3256675184238786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ Ingratitute ! thou marble-hearted
 fiend ! more hideous when thou shewest  
 thyself in a child than a sea monster 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763839:1878050901:0096/pct:113.80619684082625,42.942583732057415,14.91494532199271,2.3444976076555024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763839:1878050901:0096/pct:85.38438164691583,32.21291866028708,11.19720449711334,1.7583732057416268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ Ingratitude! thou marble-hearted
 fiend! more hideous when thou shewest  
 thyself in a child than a sea monster
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332897093:1887021901:0831/pct:50.91356289529164,83.6878453038674,10.488404778636683,1.8784530386740332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332897093:1887021901:0831/pct:50.90461970841384,83.67628780555172,10.490953802915861,1.8816461814666483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

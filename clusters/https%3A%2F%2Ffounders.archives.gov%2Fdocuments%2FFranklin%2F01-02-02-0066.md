@@ -4623,7 +4623,7 @@ Your friendbip shall continue fiill :
 And thus a mutual gentle fire  
 Shall never but with life expire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785041501:0068/pct:8.380857922142326,47.03030303030303,22.613439127200596,9.264069264069263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785041501:0068/pct:8.397388213901975,47.04184704184704,22.60517398132077,9.26984126984127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4801,7 +4801,7 @@ If decency brings no tupplies,
 Opinion falls, and beauty dies.  
 Authorities both old and recen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788100901:0268/pct:11.06060606060606,13.338119167264896,17.965367965367964,6.618808327351041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788100901:0268/pct:11.075036075036076,13.338119167264896,17.965367965367964,6.628379995214166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5504,7 +5504,7 @@ i) i s veimpti iY.
 all countries is to favour the strong in op­  
 position to the weak ; and to affit thol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796032601:0052/pct:9.989091475767493,46.68260609683204,15.817360137135733,8.756724447101016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796032601:0052/pct:9.989091475767493,46.68924752606761,15.82774920783336,8.75340373248323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6159,7 +6159,7 @@ Proud lump of dirt, I scorn thy words and thee!
 We&#x27;re equal now, ll not an inch resign,  
 This is my rotting place, and that is thine.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809083001:0091/pct:6.401766004415011,31.788144787454385,19.741406496373383,6.3517112141236804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809083001:0091/pct:6.407021969935877,31.794720057862378,19.741406496373383,6.3517112141236804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6254,7 +6254,7 @@ s Trond lump of dirt, I scorn thy words and thee!
 “ We&#x27;er equal now, Il riot an inch resign,  
 « This is my rotting place, and that is thine ”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815053101:0089/pct:3.84764865915274,9.11318553092182,20.773416245627672,3.453908984830805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815053101:0089/pct:3.8541261821479464,9.11318553092182,20.786371291618085,3.4577985219758847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6391,7 +6391,7 @@ I vow quoth Roger, so you do,
 And with the self-tame weapon too.  
 THE BLASTED TREE. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823082701:0476/pct:15.328169588259275,66.60323501427212,19.588259274357927,11.363327443251325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823082701:0476/pct:11.889842557000685,51.62400365181362,15.1808751513875,8.810000351135924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6929,7 +6929,7 @@ More manners leain- and at a distance rot.
 Here all are equal; now thy case is mine;  
 This is my rotting place, and that is thine.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842071601:0408/pct:20.520446096654275,189.0600706713781,58.36431226765799,20.862190812720847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842071601:0408/pct:5.132973777199182,47.265017667844525,14.599218895294774,5.215547703180212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7080,7 +7080,7 @@ Proud lump of earth, I scorn thy word and thee ;
 Here all are equal, now the c ase is mine,  
 This is my rotting place, and that is thine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016312:00415661563:1845082301:0061/pct:5.711245122383824,74.01827025744454,16.03405462930117,6.2640882666983035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016312:00415661563:1845082301:0061/pct:5.711245122383824,74.02617945980148,16.045879153364076,6.2640882666983035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7194,7 +7194,7 @@ injuries; policy to let them pass by us.
 If you would keep your secret from  
 an enemy, tell it not to a friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:18.866219008264462,220.9653412715288,37.03512396694215,8.643419094195195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:6.288739669421488,73.65511375717627,12.34504132231405,2.881139698065065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7254,7 +7254,7 @@ juries; policy to let them pass by us.
 If you would keep your secret from an  
 enemy, tell it not to a friend, o in w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:171.19252873563218,277.3985110268296,50.64655172413793,15.620171372383762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:42.813510600071865,69.3496277567074,12.666187567373338,3.9050428430959405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7270,7 +7270,7 @@ y ought
 If you would keep your secret from an enemy tell it  
 not to a friend.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:211.00780959464484,345.0049455984174,59.59464484938639,5.440158259149357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:52.74214538018219,86.23905057925968,14.89589142963376,1.3598474145238768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7317,7 +7317,7 @@ emy tell it not to a friend.
 H you would keep your secret from an enemy  
 tell it not to a friend.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:2.8789659224441833,49.39183013428953,13.141402271837054,0.9351051114392182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:2.8786840301576424,49.388357705286836,13.143379353112048,0.9373828271466067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7338,7 +7338,7 @@ If you would keep your secret from an enemy, tell
 it not to a friend.  
 GEN. TAYLOR ANd THE OFFIcE SEEKErS.A goo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849041801:0148/pct:261.7058311575283,279.2794302471722,57.57180156657964,17.76288227901131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849041801:0148/pct:65.42645778938207,69.81985756179304,14.39295039164491,4.440720569752828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7355,7 +7355,7 @@ GEN. TAYLOR ANd THE OFFIcE SEEKErS.A goo
 Christianity commands us to pass by in.  
 juries, policy to let them pass by us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849042001:0269/pct:65.11226252158895,137.51799596890297,59.15371329879102,5.182839044054132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849042001:0269/pct:16.285097192224622,34.37949899222574,14.794816414686824,1.295709761013533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7412,7 +7412,7 @@ farm to cost a thousand dollars in law expenses.
 Christianity commands us to pass by injuries;  
 : policy to let them pass by us, and human natur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1849052801:0072/pct:62.97599337748344,85.21863799283155,15.27317880794702,9.448028673835125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1849052801:0072/pct:62.96296296296296,85.20642201834862,15.275191392509829,9.450258027522937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7428,7 +7428,7 @@ Christianity commands us to pass by injuries;
 If yen would keep your secret from an  
 enemy, tell it not to a friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849053001:0309/pct:34.14373088685015,61.64529914529915,15.321100917431192,2.0405982905982905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849053001:0309/pct:34.14373088685015,61.65242165242165,15.331294597349643,2.0405982905982905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7445,7 +7445,7 @@ vy to Te retained.
 If you would keep your secret from an enemy,  
 tell it not to a friend.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068957:00296027005:1849060201:0070/pct:7.535714285714286,118.98954703832753,19.75,3.164924506387921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn90068957:00296027005:1849060201:0070/pct:5.662736691675598,89.24216027874564,14.80886030725259,2.380952380952381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7479,7 +7479,7 @@ policy to let them pass by us.
 Christianity commands us to pass by inju­  
 ries; policy to let them pass by us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849061601:0865/pct:179.3053545586107,380.3619020900547,48.98697539797395,4.769252349558143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849061601:0865/pct:44.842562432138976,95.09047552251367,12.251176257690915,1.1923130873895358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7498,7 +7498,7 @@ Christianity commands us to pass by in­
 juries ; policy to let them pass by us.  
 Bo contented with what you have, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1849063001:0033/pct:47.16742938298879,88.75633089476646,14.565251696386303,3.8604389420371414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1849063001:0033/pct:47.16742938298879,88.76383417745264,14.565251696386303,3.8604389420371414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7611,7 +7611,7 @@ mainder soon.&quot;
 It you would keep your secret from an  
 enemy, tell it not to a friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1849122201:0141/pct:77.77777777777777,60.617325673087755,14.51766953199618,2.973977695167286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1849122201:0141/pct:77.78839010930702,60.617325673087755,14.512363366231561,2.981487739852052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7691,7 +7691,7 @@ And with the self-same weapon too.
 The total descent in the falls of the Ohio, at  
 Louisville, is $8 fost.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851102501:1029/pct:88.39722675367047,275.9220072551391,38.2952691680261,12.061668681983072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851102501:1029/pct:29.465742251223492,91.97400241837968,12.765089722675366,4.02055622732769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7759,7 +7759,7 @@ no persuasion move thee to do anything which thou
 knoweat to be evil ; soshaltthou always live jollily ;  
 for a good conscience is a continued Christmas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851102901:0412/pct:27.981910684002262,114.07195160776823,19.841718485019786,6.611482542714635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851102901:0412/pct:20.995334370139968,85.55661678870848,14.901739007493285,4.955958824153667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7807,7 +7807,7 @@ Ar 2o years of age the will reigns; at 30
   
 the wit; at 40 the judgment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1852011001:0416/pct:27.662616154395998,38.03937997486385,48.963545389563976,7.652562491272168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1852011001:0416/pct:6.919363490076882,9.509844993715962,12.247452172358305,1.913140622818042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7827,7 +7827,7 @@ Charles, eating ancient cheese, did say,
 &quot;I vow,&quot; quoth David, &#x27; so you do,  
 And with the self same weapon too. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1852051501:0644/pct:2.535377358490566,9.46394686907021,19.07429245283019,4.577798861480076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1852051501:0644/pct:1.9023742810794868,7.1038899430740035,14.31942191417195,3.4392789373814043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7936,7 +7936,7 @@ To keep esteem and love alive ;
 Then come old age when e’er it will,  
 Your friendship rball continue still.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn86058097:00279557529:1854080501:0126/pct:7.575064776710867,41.935827736915044,13.031550068587105,4.892868564118964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn86058097:00279557529:1854080501:0126/pct:7.585225829395926,41.935827736915044,13.036630594929635,4.903528408485236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7960,7 +7960,7 @@ From pole to pole our commerce guide.
 While some of genius more refined,  
 With head and longue assist mankind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340160:1854100701:0395/pct:5.814544838108154,82.55324743623456,12.222410578064078,5.587693925848015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340160:1854100701:0395/pct:5.813559322033898,82.54239516235047,12.224576271186441,5.590245826212699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8046,7 +8046,7 @@ saying of Sir Thomas Moore.
 &quot;If evils come not then our fears are vain :  
 And if they do?fears but augment the pain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1856053101:0337/pct:2.9376395808280362,69.11140583554376,13.760522247036592,2.055702917771883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1856053101:0337/pct:2.946229170245662,69.11140583554376,13.764817041745404,2.0590185676392574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8064,7 +8064,7 @@ Christianity commands us to pass
 by injuries policy to let them pass  
 by us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn88059487:00279529455:1856102301:0053/pct:10.22537025112685,93.12896405919662,11.384417256922086,1.6384778012684988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn88059487:00279529455:1856102301:0053/pct:10.22537025112685,93.12896405919662,11.388710023610217,1.6384778012684988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8098,7 +8098,7 @@ The scoundrel, then, with haughtier tone, cried he:
 Here all are equal; now thy case is mine  
 This is my rotting place, and that is thine.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857062501:0593/pct:232.8922495274102,64.59070535503656,49.84247006931317,16.70205237084218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857062501:0593/pct:58.25059101654846,16.14767633875914,12.466509062253744,4.175513092710545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8117,7 +8117,7 @@ Henry eating ancient cheese, did say,
 And with the self-same weapon, toof  
 A vocalist says he would sin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1858090201:0768/pct:321.49377593361,158.13570938999314,51.36929460580913,12.446881425633995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1858090201:0768/pct:80.39012243203985,39.533927347498285,12.844988586843744,3.1117203564084988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8135,7 +8135,7 @@ Is best supported by opinion,
 If desency brings no supplles,  
 Opiftion falls and beauty dles.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1859042101:0966/pct:69.14973664409331,88.33014484831921,50.8653122648608,7.269745832194588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1859042101:0966/pct:17.287434161023327,22.082536212079802,12.7163280662152,1.817436458048647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8282,7 +8282,7 @@ Richard.
 The subject of ovcrtai-king children  
 in school bus been considerably dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1860030101:0648/pct:7.7002762430939224,115.20365640543083,16.16022099447514,9.947573598601963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1860030101:0648/pct:5.785837651122625,86.4094636375857,12.124352331606218,7.460680198951472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8348,7 +8348,7 @@ by injuries; policy, to let them pass by
 us.  
 It is wonderful what moral oblig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033622:00296026462:1860060601:0248/pct:95.18194070080862,43.8369078482206,20.603099730458222,6.634456752297902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033622:00296026462:1860060601:0248/pct:63.470935130581296,29.224605232147066,13.732097725358045,4.43082724487391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8379,7 +8379,7 @@ Great talkers, little doers.
 If you would keep your secret from an  
 enemy, tell it not to a friend.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021969:1860072701:0272/pct:177.9490616621984,370.19461476939483,50.53619302949062,13.703012529992002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021969:1860072701:0272/pct:44.50217901441502,92.54865369234871,12.63828360710694,3.4257531324980004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8410,7 +8410,7 @@ ill, that you hope it will die—but it doesn’t.
 If you would keep your secret from an enemy,  
 tell it not to a friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860081101:0003/pct:84.03041825095058,82.831438210671,11.908053923263049,7.28476821192053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860081101:0003/pct:84.03905979951607,82.83768586779958,11.903733148980297,7.291015869049106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8491,7 +8491,7 @@ Ie Christianity commands us to pass
 by injuries; policy, to let them  
 pass by us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1861062001:0149/pct:12.590799031476998,369.72972972972974,50.443906376109766,7.2626472626472625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1861062001:0149/pct:3.148970528865563,92.43243243243244,12.616067823980622,1.8156618156618156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8515,7 +8515,7 @@ injuries; policy to let them pass by us.
 If you would keep your secret from an  
 enemy tell it not to a friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861081501:0533/pct:50.18389113644722,14.411472383927304,20.96358955498345,82.30867528042027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861081501:0533/pct:50.18389113644722,14.42093804723366,20.96971925953169,82.30867528042027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8592,7 +8592,7 @@ _ 1 here are equal; thy place now is mine
 This is my rotting place, and that is thine.  
 The above was repeated by my Mother the da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174336:1862112101:0023/pct:1.459449473489747,16.391539850399795,16.42342508775171,4.7459375806035595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174336:1862112101:0023/pct:1.4591799039527151,16.38942617666022,16.425009235315848,4.748549323017408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8608,7 +8608,7 @@ The above was repeated by my Mother the da
  If you would keep your secret from an  
 enemy, tell it not to a friend.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862122401:0850/pct:205.40223135642984,284.7501904865571,38.138578978273635,3.069554805703712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862122401:0850/pct:68.49757673667204,94.9167301621857,12.718460860625642,1.0231849352345705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8625,7 +8625,7 @@ Great talkers, little doers.
 If you would keep your secret from an  
 enemy, tell it not to a friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1863020601:1143/pct:62.643553629469125,108.53914447134787,16.77139761646804,2.2437449556093623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342387:1863020601:1143/pct:48.5530366638679,84.12076227013053,13.008676182479709,1.7347066427588507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8682,7 +8682,7 @@ Ca
 if evils come not, then our fears are vain;  
 And if they do, fear but augments the pain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863072601:0682/pct:245.37987679671457,204.6013071895425,39.219712525667354,4.444444444444445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863072601:0682/pct:61.37647663071392,51.150326797385624,9.809964047252183,1.1111111111111112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8717,7 +8717,7 @@ as well as loss.
 Christianity commands us to pass by  
 injuries; policy, to let thets pass by as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864080601:0719/pct:223.9406779661017,68.8,100.28248587570621,313.85806451612905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1864080601:0719/pct:56.01483836777955,17.2,25.083907436848612,78.46451612903226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8787,7 +8787,7 @@ Scoundrel?&quot; in still haughtier tones cried he,
 All here are equal; thy place now is mine:  
 This is my rotting-place, and that is thine.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn83045586:00200293617:1865011101:0707/pct:9.857978279030911,145.29938842269948,56.808688387635755,18.603328118333096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn83045586:00200293617:1865011101:0707/pct:2.466039707419018,36.32484710567487,14.211076280041798,4.650832029583274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8918,7 +8918,7 @@ I scorn thy very words, and more scorn thee.
 Were eual now Iill not an inch resig  
 This is my rotting place, and that is thine.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1867041301:0890/pct:123.19559228650138,61.15340494316404,49.09090909090909,21.316091354677233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1867041301:0890/pct:30.798898071625345,15.28835123579101,12.272727272727273,5.329022838669308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9031,7 +9031,7 @@ And if they do fear but augments the pain.&quot;
 ee e o e a e oeee o e  
 you may rise with honor, but you cannot recede
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299516:1868080201:0293/pct:200.5611455108359,77.6171875,48.93575851393189,15.3515625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299516:1868080201:0293/pct:66.85371517027863,25.872395833333332,16.311919504643964,5.1171875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9093,7 +9093,7 @@ The ohoerful are tho busy. When
 trouble knocks at your door, or rings  
 your bell, he will generally retire if yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551517:1869100701:0439/pct:0.6308042754512003,84.07422794626783,16.47100052567023,7.782855560171721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551517:1869100701:0439/pct:0.642485836107704,84.08346027789318,16.46515974534198,7.787471725984397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9186,7 +9186,7 @@ y ought.
 If you would keep your secret from an  
 enemy, tell it not to a friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1870033101:0226/pct:3.9670001755309814,74.75920306108985,12.445146568369317,1.4645731626863703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1870033101:0226/pct:3.966303966303966,74.74934036939314,12.447349947349947,1.4676781002638521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9223,7 +9223,7 @@ Christianity commands us to pass
 by injuries; policy to let them pass by  
 MS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556503:1870061101:0092/pct:328.0825958702065,373.17935423049727,41.5929203539823,10.040065991044072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556503:1870061101:0092/pct:82.02064896755162,93.29483855762432,10.398230088495575,2.510016497761018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9242,7 +9242,7 @@ whether a man likes what be has chosen.
 Christianity commands us to pass by  
 injuries; policy, to let them pass by us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779404:1872032001:0274/pct:23.938384679433806,46.653231610767236,16.736053288925895,4.131279689074421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779404:1872032001:0274/pct:17.975421787127683,34.99352238376277,12.559883357633826,3.1092557938678564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9262,7 +9262,7 @@ Christianity commands us to pass
 by injuries ; policy, to let them pass by  
 us. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628389:1872040401:0107/pct:55.303030303030305,109.33465739821251,14.465408805031446,3.4094670638861304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628389:1872040401:0107/pct:41.4867762687634,82.00375151715767,10.8506075768406,2.5598587664128876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9308,7 +9308,7 @@ Christianity commands us to pass
 by injuries: policy, to let them pass  
 by us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1872082801:0247/pct:21.58160050409578,19.834500318268617,12.791430371770636,15.251432208784214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1872082801:0247/pct:16.19918058619603,14.882240611075748,9.596596281121966,11.444939528962445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9325,7 +9325,7 @@ sex, and nothing of a man hesido it.
 —At 25 years of age, the will reigns; at 30, the  
 wit; at 40, the judgment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1872102701:0005/pct:56.87732342007435,61.070751737207836,12.88723667905824,1.279216677195199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1872102701:0005/pct:56.88248657579513,61.070751737207836,12.90272614622057,1.2871130764371446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9342,7 +9342,7 @@ sex, and nothing of a man beside it
 At 25 years of age, the will reigns; at 30,  
 the wit; at 40, the judgmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:00237288944:1872110901:0462/pct:247.01421800947867,207.79498131340097,43.88625592417062,4.769531945185976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:00237288944:1872110901:0462/pct:61.76819151457691,51.94874532835024,10.974164493955914,1.192382986296494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9358,7 +9358,7 @@ the wit; at 40, the judgmen
 At 25 years of age the will reigns ;  
 at 30 the. wit ; at 40 the. judgment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027169:1872112801:0411/pct:11.304750154225786,35.793906366113454,14.019123997532388,1.201387168689621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027169:1872112801:0411/pct:8.486344699891992,26.851622491949467,10.52306742786607,0.9041367351994055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9376,7 +9376,7 @@ For who talks much must talk in vain.
 We from the wordy torrent fly ;  
 Who listens to the chattering pie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1873030601:0931/pct:39.28386092371562,29.920018024107243,11.93565127140633,1.7010251210994705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1873030601:0931/pct:29.47054243446665,22.440013518080434,8.954061770049313,1.2842176410949646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9448,7 +9448,7 @@ Jack eating rotten cheese did say :
 “ I vow,” quoth Roger ‘BO you do,  
 And with the self-same weapon too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vnstcsc:batch_vnstcsc_adelphi_ver01:data:sn84037526:00414219925:1875062601:0209/pct:49.26679280983917,80.07429420505201,30.629139072847682,27.161961367013372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vnstcsc:batch_vnstcsc_adelphi_ver01:data:sn84037526:00414219925:1875062601:0209/pct:38.18892826591715,62.05665591893137,23.75656849566174,21.05404575464456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9492,7 +9492,7 @@ Seldom it comes, to lew from Heaven sent,
 If you would keep your secret from an ene­  
 my, tell it not to a friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1876122101:0426/pct:3.829284750337382,34.85109524981541,11.62280701754386,8.282057592911642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1876122101:0426/pct:3.8286388935739586,34.846806939830195,11.625063248439872,8.284114679463517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9588,7 +9588,7 @@ sixteen feet below the surface, and is
 entirely different from any relics or re­  
 maius of the people who lived in thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn83021114:00514153462:1880021201:0653/pct:10.699404761904763,8.880347931627389,16.175595238095237,11.115606351775059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn83021114:00514153462:1880021201:0653/pct:10.709325396825397,8.88709079262331,16.17063492063492,11.118977782273019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9626,7 +9626,7 @@ And if they do, fears but augment the pain.”
 “Ifevils come not, then our fears are vain,  
 And ifthey do, fears but augment the pain.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1881020301:0911/pct:92.39557300963942,41.637145748987855,15.101749375223134,1.1766194331983806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1881020301:0911/pct:71.6117131657828,32.27219244345666,11.69933133502421,0.9086155052948098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9700,7 +9700,7 @@ an important element in every good man s life,
 In every rank, or great or small,  
 &#x27;Tis industry supports us all
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026487:1883052301:0053/pct:17.536355859709154,10.62547924197612,11.10635871114913,10.92124000438164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026487:1883052301:0053/pct:17.536355859709154,10.62547924197612,11.11111111111111,10.92124000438164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9739,7 +9739,7 @@ are vain; and if they do, fear but
 anmants the pain.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287095:1884042401:0260/pct:84.90975709051432,93.81907090464547,11.833355950603881,3.0709046454767726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287095:1884042401:0260/pct:84.91428054462388,93.82233088834556,11.837879404713439,3.0774246128769356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9757,7 +9757,7 @@ anmants the pain.
 It is perseverance and close application  
 to the wants of the public that has mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342120:1884070201:0148/pct:34.56589462278207,35.81761006289308,9.86049031558987,1.4884696016771488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342120:1884070201:0148/pct:34.57492437581832,35.82110412299092,9.855975439071742,1.484975541579315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9775,7 +9775,7 @@ to the wants of the public that has mad
 It is perseverance and close application  
 to the want 9 of the public that has mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342120:1884070301:0152/pct:35.19365250134481,52.357008170961656,9.763313609467456,1.5189608212864028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342120:1884070301:0152/pct:35.1981351981352,52.36050003491864,9.763313609467456,1.5189608212864028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9793,7 +9793,7 @@ to the want 9 of the public that has mad
 It is perseverance and close application  
 to the wants of the public that has mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342120:1884070501:0160/pct:35.07089804186361,26.59897414424788,9.831195138419986,1.434104469800063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342120:1884070501:0160/pct:35.07089804186361,26.60595275480652,9.844699527346387,1.434104469800063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9882,7 +9882,7 @@ thee;
 All here are equal; thy place now is mine;  
 This is my rotting place, and that is thine.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1885082801:0697/pct:138.4271671134942,349.24874791318865,58.62377122430742,22.643800273182578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1885082801:0697/pct:34.62226195797944,87.31218697829716,14.662494412159141,5.660950068295644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9909,7 +9909,7 @@ More manners learn, and at a distance rot!”
 All here are equal; thy place now is mine:  
 This is my rotting place, and that is thine.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885090501:0472/pct:75.28138064101189,85.56614113481157,9.765248150927215,4.459994941404603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885090501:0472/pct:75.28852681602173,85.57176179636343,9.772394325937043,4.459994941404603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9952,7 +9952,7 @@ This is myrotting place, aud that is thine.
 &quot;In every rank, or great or small,  
 Tis industry supports us all.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886012901:0120/pct:357.2972972972973,227.7433962264151,29.034749034749034,3.139622641509434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886012901:0120/pct:89.3760865366042,56.93584905660377,7.262893567703303,0.7849056603773585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9968,7 +9968,7 @@ Tis industry supports us all.
 &quot;In every rank, or great or small,  
 &#x27;Tis industry supports us all.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886013001:0128/pct:356.2406015037594,224.03306761145558,28.42105263157895,3.07056392087393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886013001:0128/pct:89.09364422715306,56.008266902863895,7.10793531402783,0.7676409802184825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9984,7 +9984,7 @@ Tis industry supports us all.
 &quot;In every rank, or great or small,  
 &#x27;Tis industry supports us all.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886020101:0133/pct:349.5049504950495,202.4330900243309,28.712871287128714,3.223844282238443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886020101:0133/pct:87.39287754713388,50.60827250608273,7.17958484098267,0.8059610705596107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10017,7 +10017,7 @@ ButLer 1I
   
 The Diamond Fiel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535945:1886050901:0299/pct:48.58024691358025,131.4977973568282,21.74897119341564,6.945668135095448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535945:1886050901:0299/pct:32.39349660423956,87.66519823788546,14.509158263017081,4.635340186000979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10103,7 +10103,7 @@ hind. is not to die. Diagram.
 7. -Ere you remark another&#x27;s sin  
 bid your own conscience look with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:0020219221A:1887090701:0141/pct:49.63680387409201,44.05868680999419,11.743341404358354,1.8012783265543288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:0020219221A:1887090701:0141/pct:49.64977516430301,44.062318419523535,11.743341404358354,1.8012783265543288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10181,7 +10181,7 @@ anything which thou knowest to lie evil
 so shalt thou always live jollily for a  
 good conscience is a continual Christma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069161:00100481881:1890123101:0249/pct:23.051385681293304,85.36746127650225,13.394919168591224,11.007360210919478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069161:00100481881:1890123101:0249/pct:17.297141207045915,64.03108865209272,10.049090384060063,8.252773810831593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10200,7 +10200,7 @@ How this text applies to useless Miss
 Whitehands. She sits in her stuffed chair  
 with her lily hands folded and in all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763219:1891050101:0115/pct:69.42557134033353,91.07054148037754,14.777640518838789,3.1793343268753107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763219:1891050101:0115/pct:52.093310675112,68.30601092896175,11.092229260003089,2.384500745156483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10333,7 +10333,7 @@ Ere you remark another&#x27;s sin, bid your
 own conscience look within.—Hattie E.  
 Bigelow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478738:1892052601:1044/pct:73.4174865416744,61.02211041970078,15.9457954334509,4.4088441678803125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478738:1892052601:1044/pct:64.23930698429886,53.40206981773247,13.957769355711966,3.8500154464009886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10441,7 +10441,7 @@ be evil; so shalt thou always live joliily
 --for a good conscience is a toatinual  
 Christmas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_kelseya_ver02:data:sn83025308:00212476699:1893122501:0821/pct:21.632124352331605,86.3481228668942,43.45854922279793,10.83617747440273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_kelseya_ver02:data:sn83025308:00212476699:1893122501:0821/pct:7.210708117443868,28.782707622298066,14.486183074265975,3.6120591581342434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10479,7 +10479,7 @@ knowest to be evil : so shall thou always
 live jollilv ; for a good conscience is a con­  
 tinual Christmas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:00415625686:1894122101:0222/pct:7.286361063950198,53.25084364454443,10.257498585172609,3.9932508436445446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:00415625686:1894122101:0222/pct:7.286361063950198,53.25084364454443,10.271646859083193,4.000749906261717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10539,7 +10539,7 @@ GEAINS OP GOLD.
 At 20 years of age the will reigns, at 30  
 the wit, at 40 the judgment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037263:1895052601:0176/pct:70.84303679552865,19.407818644459866,13.19670858562335,2.9493407356002774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037263:1895052601:0176/pct:70.85338715520365,19.415529339193462,13.201883765460849,2.9493407356002774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10640,7 +10640,7 @@ desire to gain too much. Beaumont.
 Christianity commands us to pass by in­  
 juries; policy, to let tberu pass by us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:2016270502:00271762999:1895102901:0200/pct:29.107981220657276,108.05466404389688,19.0287558685446,2.743555233461021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:2016270502:00271762999:1895102901:0200/pct:21.837393601408863,81.04358629257688,14.27942471382448,2.060254684749974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10662,7 +10662,7 @@ to be evil; so shalt thou always live
 follily, for a good conscience is a con­  
 tinual Christmas.Benjamin Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn83004264:00280774583:1895121301:0275/pct:267.1551724137931,358.01375095492745,54.741379310344826,13.445378151260504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn83004264:00280774583:1895121301:0275/pct:66.81759379042691,89.50343773873186,13.691246226821907,3.361344537815126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10685,7 +10685,7 @@ tinual Christmas. Ben jamin Frunklin.
 1  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271763566:1895121901:0447/pct:87.47342310418144,10.145846544071022,37.26080793763288,114.16613823715916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271763566:1895121901:0447/pct:65.62112351586036,7.609384908053266,27.946127946127945,85.63094483195941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10705,7 +10705,7 @@ to be evil so shalt thou always live
 jollily. for a good conscience is a con­  
 tinual Christmas.—Benjamin Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740852:1895122001:0308/pct:65.52724259374352,90.12654502648617,13.320903252537809,3.2224838140082404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740852:1895122001:0308/pct:65.52724259374352,90.13022366097705,13.336440853532215,3.237198351971748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10734,7 +10734,7 @@ r
 That Is not ours to keep alway?  
 Why meet the coming year with fear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688672:1895122101:0323/pct:64.7502356267672,5.388618432096693,27.992459943449575,89.00453248279335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688672:1895122101:0323/pct:64.7502356267672,5.394214089866264,28.01602262016965,89.00453248279335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10760,7 +10760,7 @@ MIWVBtK,!@B6.
 That is not ours to keep alway ?  
 Why meet the coming- year with fear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627671:1895122101:0660/pct:84.46052929201538,9.022320025149325,36.84686722460982,113.21911348632506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627671:1895122101:0660/pct:65.45518289120018,7.000446664230316,28.573098048381443,87.74921833759694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10780,7 +10780,7 @@ to be evil; so shalt thou always live
 jollily, for a good conscience is a con­  
 tinual Christmas. Benjamin Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_jonesville_ver01:data:sn96077142:00415669963:1895122101:0227/pct:100.54593373493977,135.2681469938969,21.197289156626507,4.9863654070899885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_jonesville_ver01:data:sn96077142:00415669963:1895122101:0227/pct:67.07477867771708,90.18309310479158,14.145790167639857,3.324243604726659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10802,7 +10802,7 @@ tinual Christmas.-Benjamin Franklin.
   
 e a dere o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1895122101:0974/pct:279.64693665628243,343.37194337194336,115.36863966770508,39.76833976833977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1895122101:0974/pct:69.96622499350481,85.84298584298584,28.864640166276956,9.942084942084943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10822,7 +10822,7 @@ to be evil; so shalt thou always live
 joliily, for a good conscience is a con­  
 tmual Christmas.—Benjamin Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aerosmith_ver01:data:sn89051163:00393342614:1895122501:0094/pct:65.37599347870389,91.90998433271614,13.755858976971673,3.603475288420453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aerosmith_ver01:data:sn89051163:00393342614:1895122501:0094/pct:65.36267318663407,91.89689547137567,13.758149959250204,3.606522358302478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10865,7 +10865,7 @@ Y should we mourn the
 dying year?  
 What hath if brought o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033701:1895122601:0610/pct:67.29279628195198,13.700175482577087,31.158017041053448,84.28177488092254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033701:1895122601:0610/pct:67.29279628195198,13.708531795771705,31.164471985540924,84.28177488092254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10886,7 +10886,7 @@ live joliily, for a good conscience is a
 continual Christmas.?Ben). Frank&#x27;  
 lin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767869:1895122601:0420/pct:2.5876789701825826,58.463782207097715,13.266780507027454,4.705882352941177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_bones_ver01:data:sn84026824:00271767869:1895122601:0420/pct:2.5964359210123034,58.47026413871334,13.266780507027454,4.709123318748987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10905,7 +10905,7 @@ no example sway thee, no persuasion
 move thee to do anything which thou  
 &quot;God helps them that help them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1895122801:0036/pct:45.60723514211886,74.6924239153896,12.302612690209589,2.385063673645586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1895122801:0036/pct:45.61202028902287,74.6996186776027,12.302612690209589,2.385063673645586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10961,7 +10961,7 @@ have been hopping mad!
 Christianity commands us to pass by  
 injuries; policy, to let them j»ass by u»
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895497:1896032601:0101/pct:51.64273545874909,79.08608591476981,14.723777074714043,10.542529522505562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895497:1896032601:0101/pct:51.6301703163017,79.072553045859,14.726277372262773,10.545003422313483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11111,7 +11111,7 @@ mostly short.”—St. Paul Pioneer-Press.
 Christianity commands us to pass by  
 injuries; policy, to let them pass by us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1896053001:0116/pct:56.8561872909699,69.73443715729492,11.79293296495565,9.955918718417374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1896053001:0116/pct:56.86103436576026,69.74160484535713,11.79293296495565,9.955918718417374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11144,7 +11144,7 @@ mostly short.”—St. Paul Pioneer-Press.
 Christianity commands us to pass by  
 injuries; policy, to let them pass by us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588484:1896060401:0591/pct:63.51893095768374,84.60593025042249,17.817371937639198,14.472269165770472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588484:1896060401:0591/pct:49.22616650365342,65.56993173519606,13.808181347448363,11.216066042228926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11293,7 +11293,7 @@ Jack, enting rotten cheese, did say,
 &quot;I vow,&quot; quoth Roger, &quot;that you do,  
 And with the selfsame weapon too.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1897052801:0591/pct:221.7391304347826,332.82255593012565,46.317657497781724,6.864848299111247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1897052801:0591/pct:55.471698113207545,83.20563898253141,11.587125416204218,1.7162120747778118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11377,7 +11377,7 @@ thee, no ambition corrupt thee, no persuasion
 move thee to do anything which thou knowest  
 o be evil; for a good conscience is continua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1897071601:1148/pct:113.96694214876032,299.55357142857144,49.50413223140496,43.80580357142857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1897071601:1148/pct:28.50351384869781,74.88839285714286,12.381149235221166,10.951450892857142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11417,7 +11417,7 @@ evil; so shalt thou alway live jollily,
 for a good conscience is a continuai  
 Christmas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196445:1897122701:0848/pct:61.93895870736086,107.52495233823035,19.090365050867742,5.75305596052484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196445:1897122701:0848/pct:46.47507858105074,80.64371425367275,14.339170782816943,4.3175956039026575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11457,7 +11457,7 @@ Sco tlio Glunt
 small,  
 &#x27;Tis industry supports us all.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524810:1898050501:0145/pct:82.87116040955631,67.45188606620478,12.265358361774744,2.5866050808314087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524810:1898050501:0145/pct:82.85348688419705,67.44150246305419,12.268074216250799,2.5900554187192117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11474,7 +11474,7 @@ small,
 small,  
 ’Tis industry supports us all.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jackman_ver02:data:sn82014248:00514155951:1898050701:0311/pct:3.977272727272727,75.86501495087569,12.537878787878787,2.8050690588067777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jackman_ver02:data:sn82014248:00514155951:1898050701:0311/pct:3.9765195985608788,75.85421412300683,12.540238591175914,2.808228929384966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11491,7 +11491,7 @@ Rea.
 Christianity commands us to pass by  
 injuries ; policy, to let them pass by us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688192:1898091701:0594/pct:42.20032840722496,59.499575911789655,12.725779967159278,1.8518518518518519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688192:1898091701:0594/pct:42.214012041598245,59.50428800301574,12.739463601532567,1.8471397606257658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11568,7 +11568,7 @@ which thou knowest to be evil so shalt
 thou alway live jollily. for a good con­  
 science is a continual Christmas.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624669:1898122301:0181/pct:69.01148482362592,66.83804627249357,15.05332239540607,3.2133676092544987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624669:1898122301:0181/pct:63.83584165928924,61.834514950019816,13.943341343113696,2.981196882293364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11589,7 +11589,7 @@ which thou knowest to be evil: so shalt
 thou alway live jollily, for a good con­  
 science is a continual Christmas.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:00202199781:1898122301:0071/pct:78.43342818631122,68.45425867507886,13.793619889171783,2.9307011295410605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_lopez_ver03:data:sn88085081:00202199781:1898122301:0071/pct:78.44341271029904,68.46104270547131,13.798612151165694,2.9307011295410605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11609,7 +11609,7 @@ vertisement: &quot;Let no pleasure tempt thee, no profit allure thee, no example
 no persuasion move thee to do anything which thou k lowest to be evil; so shalt thou al­  
 ways live jolhly, for a good conscience is a continual Christmas.&quot; Not a bad sermon fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898123001:1149/pct:68.68607395751377,40.85325584467045,57.23839496459481,5.824858010830802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898123001:1149/pct:51.52469014361598,30.643243957205126,42.94707849695062,4.371945581825386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11679,7 +11679,7 @@ s his! poet says
 in every rank, or great or small  
   &quot;Tis industry supports us all.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899040601:1157/pct:9.027777777777779,113.09808612440192,51.77469135802469,6.578947368421052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899040601:1157/pct:3.011583011583012,37.6993620414673,17.27155727155727,2.192982456140351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11839,7 +11839,7 @@ Austin.
 At 20 years of age the will reigns;  
 at 30 the wit; at 40 the Judgmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761023:1899122301:0584/pct:28.912520064205456,54.158242350721125,19.281701444622794,4.650222401940963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761023:1899122301:0584/pct:21.7024693836579,40.625421215797274,14.475005019072475,3.49103652783394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11859,7 +11859,7 @@ At 20 years of age the will&quot; reigns
 at 30 the wit at 40 the judgment.  
 Grattan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016810:00280768005:1899123001:0643/pct:18.663940013633265,43.66125760649087,11.8200408997955,3.204868154158215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016810:00280768005:1899123001:0643/pct:18.663940013633265,43.66125760649087,11.838218586684844,3.204868154158215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

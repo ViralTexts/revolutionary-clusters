@@ -225,7 +225,7 @@ thoujakd Jeves bandred and eighly three.
 FOHN ADAMS (5 §)  
 B ERUNKLEN (L)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783041201:0335/pct:5.992385366661149,6.490486257928119,79.14252607184241,84.83086680761099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783041201:0335/pct:5.9979032169066935,6.494009866102889,79.14252607184241,84.83439041578576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ abovementioned, ol twelve days of one
 month, and of five months, are to be  
 computed s N »w. in order that the se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814072601:0507/pct:5.153795811518324,33.58006183828352,19.780759162303664,11.983509791061557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814072601:0507/pct:5.152952723703582,33.57691587033914,19.78297617100169,11.985509961901194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ oned, on the 3d day of this instant -May, from wtucU
 day the several terms abovementioned, of twelve days,  
 of one month,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814072701:0014/pct:71.43962848297214,46.306306306306304,21.981424148606813,17.06797706797707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814072701:0014/pct:71.42120196027857,46.29872256796593,21.982202734072736,17.069276121847363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ Ami whereas, for the putting an end to the
 calamities (4&#x27; war, ns soon, and as far as may  
 be possible, it hath been agreed between hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814073001:0091/pct:22.963636363636365,82.08787082238078,17.545454545454547,10.839904869195143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814073001:0091/pct:22.959461916015268,82.0775969962453,17.54832454705205,10.842720066750104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

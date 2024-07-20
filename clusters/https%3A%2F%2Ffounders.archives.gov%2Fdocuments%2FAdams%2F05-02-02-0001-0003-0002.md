@@ -387,7 +387,7 @@ verify. Wherefore, for want of a sufficient plea in this
 behaff, the said Samuel B. Garvin, for the people of the  
 State of New York, prays judgment, and thaf the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872020601:0556/pct:278.38827838827837,225.69313398170996,48.79120879120879,20.554507185367978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872020601:0556/pct:69.59706959706959,56.42328349542749,12.197802197802197,5.1386267963419945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ through one R. C. Parsons, (then Mar­
 shal of the Supreme Court of the  
 United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1880081801:0776/pct:259.48275862068965,310.56327934642394,39.81191222570533,35.602694567865846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1880081801:0776/pct:64.87068965517241,77.64081983660598,9.952978056426332,8.900673641966462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -61,7 +61,7 @@ you may like I can give, and yon may be as­
 sured that it is no more my inclination than it  
 can be yours to let it remain loug unpaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889050501:0065/pct:49.806451612903224,24.237765821163208,14.03225806451613,7.22521137586472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889050501:0065/pct:37.36086465558961,18.178324365872406,10.533957089853201,5.431719190366385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ I experienced the want of money. I
 am now inclined to do what I never ex­  
 pected to be driven to--that is: to bor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_inman_ver01:data:sn84020151:00340583607:1891091201:0188/pct:63.16630065881414,69.4368932038835,14.893192253942903,2.1229773462783172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_inman_ver01:data:sn84020151:00340583607:1891091201:0188/pct:63.153692614770456,69.4279057727155,14.895209580838323,2.1259383898524464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ these two years have I experienced the
 want of money. lam now inclined to  
 do what I never expected to be drive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521687:1891100601:0501/pct:70.33870437356133,75.56870937790158,12.93982242683328,2.042711234911792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521687:1891100601:0501/pct:70.34966568014907,75.57644692045807,12.945303080127152,2.046580006190034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ these two yearn have I experienced the
 want of money. lam now inclined to  
 do what I never expected to be drive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522552:1891110601:0880/pct:89.95327102803738,69.19500145306597,15.576323987538942,2.6445800639349026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522552:1891110601:0880/pct:69.71983300638801,53.62987987987988,12.071827372868569,2.0533033033033035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ land which 1 have ottered for sale will
 not command cush but at an under  
 valu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn86069457:00206533262:1894090601:0619/pct:57.91803278688525,40.791672021591054,13.295081967213115,8.4050893201388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn86069457:00206533262:1894090601:0619/pct:43.46399868787928,30.596966970826372,9.972117434804002,6.300604035471019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ you not u fed them or heard them
 gently tapping on your car Even  
 tho idea they convey is not altogethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn86069457:00206533262:1894090601:0619/pct:57.52459016393443,88.22773422439275,13.295081967213115,11.45097031229919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn86069457:00206533262:1894090601:0619/pct:43.168771526980485,66.17401362292765,9.972117434804002,8.594653643490554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ power to remain at home in retirement. With­
 out doing this would be exceedingly disagree­  
 able to me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022301:0725/pct:122.11466865227104,129.7972869989331,51.37751303052867,40.66453284560281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022301:0725/pct:30.52866716306776,32.44932174973327,12.844378257632167,10.166133211400702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ power to remain at home in retirement. With­
 out doing this would be exceedingly disagree  
 able to m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022301:0726/pct:117.9622641509434,151.10942249240122,51.924528301886795,18.981762917933132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022301:0726/pct:29.501698754246885,37.777355623100306,12.986032465081163,4.745440729483283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ to discharge what I owe in Alexandria
 etc.. and to leave-the state, if -it­  
 be in my power to remain at home in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1896031401:0123/pct:83.79615952732644,61.45982191931406,12.658788774002954,2.308453336264703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1896031401:0123/pct:83.80108321024126,61.46348613095893,12.668636139832595,2.304789124619838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

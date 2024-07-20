@@ -134,7 +134,7 @@ fprinciples and uses of law. And that
 ‘either of the Justices of the Supreme  
 Court, as well as Judges of the Distriet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1845010901:0849/pct:43.37757695566224,25.60205501444932,13.033041513696697,6.197152948731671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1845010901:0849/pct:43.38228372399511,25.60205501444932,13.033041513696697,6.2042884155695885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ specially provided for by statute, which might be
 necessary for the exercise of their respective Jons-&#x27;  
 diction, that by some of the members of tbc profes-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864031001:0003/pct:43.94987843650645,33.854316030972186,9.855994015335702,1.82104961284772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864031001:0003/pct:43.95922947447167,33.854316030972186,9.851318496353095,1.828219099512475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ trict Courts when proceeding as courts of admiralty.”
 court may issue writs of scire facias, habeas corpus, and  
 all other writs which may be necessary for the protec-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531125:1872121301:0749/pct:199.44679466319556,59.052764685596046,47.55938821998048,4.080928842395678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531125:1872121301:0749/pct:66.48226488773186,19.68425489519868,15.853129406660159,1.3603096141318927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ jurisdiction. Did this express authority to ex-­
 clude the power to issue the writ en any other  
 case and to any other than the bistrict Courts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743804:1872121701:0994/pct:194.62118727451625,229.94627423499182,46.06428337159724,12.96426068675543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743804:1872121701:0994/pct:64.87372909150541,76.6487580783306,15.354761123865748,4.321420228918477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ necessary for the exercise of their respective ju­
 risdiction, and agreeable to the principle and  
 usages of law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875042201:0387/pct:150.51975051975052,82.87917737789203,43.24324324324324,7.557840616966581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875042201:0387/pct:37.64950598023921,20.71979434447301,10.816432657306292,1.8894601542416452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ for the exercise of their respective jurisdictions,
 and egreeable to the principles and usages of  
 law.&quot; By the 6th section of the act of Marc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875042201:0620/pct:184.71290082028338,156.56521099838258,49.21700223713646,11.233642111454198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875042201:0620/pct:46.178225205070845,39.141302749595646,12.304250559284116,2.8084105278635496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ district courts when proceeding as courts of
 admiralty and maritime jurisdiction, was  
 ?,?!?.SfC|ionJ3, ?lthe Judiciary act o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654796:1891012701:0243/pct:38.04686219891857,34.13985642116458,12.12518433557267,3.9218293007178944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654796:1891012701:0243/pct:38.05095854497788,34.14318000531773,12.137473373750614,3.928476469024196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -71,7 +71,7 @@ ment.
 of the purchase money (ball not be made  
 within forty days after the sale, the deposi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072601:0002/pct:23.95474667978357,44.1181269375102,17.142154451549434,17.784304127916464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072601:0002/pct:23.96704377766847,44.13036384402023,17.136005902606986,17.784304127916464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -88,7 +88,7 @@ prescribe such further regulations, in the
 manner of keeping books and accounts, by  
 the feveial officers in (his aft mentioned, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072601:0002/pct:59.73930152484014,43.62865067710883,16.94540088539105,1.908957415565345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072601:0002/pct:59.751598622725034,43.62865067710883,16.963846532218398,1.9252732909120573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

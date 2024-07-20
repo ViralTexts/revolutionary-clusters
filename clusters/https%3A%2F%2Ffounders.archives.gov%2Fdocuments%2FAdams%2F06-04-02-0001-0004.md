@@ -229,7 +229,7 @@ sums of money, not exceeding one hundred
 thousand dollars in the whole, to defray  
 the expense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840031101:0192/pct:81.81041844577284,64.92056676685273,140.47822374039282,314.3552311435523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840031101:0192/pct:20.45260461144321,16.230141691713182,35.119555935098205,78.58880778588808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ As soon as these commissioners had pro-
 ceeded to Canada, and had been informed  
 of the exact situation of the affairs of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840061001:0240/pct:231.7137809187279,71.97332173408728,71.99646643109541,123.35798173118748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840061001:0240/pct:57.9412414402474,17.99333043352182,18.00309255577645,30.83949543279687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ we can be reduced toaaervlle And, ?n
 Britain without their sharing our I u nui wp  
 other hand, if we .hall obuin, a . -t Je^nd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841050701:0687/pct:2.79290356578254,2.935920347204493,31.459687335324084,91.29435792698494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841050701:0687/pct:2.798758709526319,2.9444302612543614,31.47139762281164,91.29010296996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ Lastly, you are, by all the means you can use, to
 promote the execution of the resolutions now made, or  
 hereiftcr to be made, in Con?ie?s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841050701:0687/pct:17.582996662568068,31.644115394434515,16.353416476374495,29.34643860097013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841050701:0687/pct:17.588851806311844,31.64837035145945,16.353416476374495,29.350693557995065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ s dollars in the whole, to defray the expense of the
 &gt; Lastly, you are, by all the means you can use, to  
 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841050801:0070/pct:-0.6436847375196681,3.9611204013377925,39.293377199256184,94.62792642140468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841050801:0070/pct:-0.6532208077051447,3.9611204013377925,39.32198540981262,94.63489409141583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ l Cni&#x27;ed Colonies. It instructed the commissioner*, in the
 I as ?i&gt;ter colony, and to secure the same general system  
 | of mild and equal law* for them nod &#x27;or onrselvaa Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855011601:0057/pct:80.14357970305107,22.84263959390863,16.136400717898514,2.449238578680203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855011601:0057/pct:80.14357970305107,22.84263959390863,16.147277968129657,2.4534686971235193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ and to the clergy the full, perfect, and peaceable ]&gt;c*-&quot;&quot;&lt;Hion
 and enjoymeut of all their estates and also advised them  
 to deliberate concerning the eetanlishiueut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855011601:0057/pct:80.25779083047806,79.251269035533,16.005873715124817,2.9568527918781724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855011601:0057/pct:80.25779083047806,79.251269035533,16.011312340240387,2.9653130287648053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ ty amity with us. . You know that the.-.
 transcendent nature of freedom - elevates &#x27;  
 those who unite in the cause, above all-suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027492:1855090501:0047/pct:92.41925837320574,8.274203247143717,33.14892344497608,117.55862898376428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027492:1855090501:0047/pct:69.3285479288171,6.205652435357787,24.86914909525946,88.17799158147925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ laws for them and ourselves, with only such
 local differences as may be agrecable to each  
 colony respectively,&quot; and further, that in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869092901:0833/pct:18.252126836813613,30.138535482046933,45.475638051044086,14.645179530675714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869092901:0833/pct:4.563914136530652,7.534633870511733,11.371108102881454,3.6612948826689284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ local differences as may be agrecable to each
 colony respectively,&quot; and further, that in the  
 opinion of the Continental Congress, &quot;their in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1869100101:0374/pct:300.9265858873842,218.3392766174223,81.61083392729864,15.639327559857362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1869100101:0374/pct:75.23164647184605,54.58481915435558,20.40270848182466,3.9098318899643405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ sitting in committee of the whole, de­
 liberated upon a remedy. Franklin was  
 for extreme measures, and urged a de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022553:00202197243:1876031801:0377/pct:289.37677053824365,127.89550846328136,43.13031161473088,26.709316273490604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022553:00202197243:1876031801:0377/pct:72.36981934112646,31.97387711582034,10.786397449521786,6.677329068372651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

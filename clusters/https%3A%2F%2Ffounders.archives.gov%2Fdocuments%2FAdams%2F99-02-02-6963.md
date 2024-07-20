@@ -237,7 +237,7 @@ equal to twelve million gallons, which enormous
 quantity is chiefly consumed by the citizens of  
 the U. btates.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016083:00332895096:1818062301:0691/pct:79.20699344364658,73.28738942604403,17.686543865126445,6.583007611602551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016083:00332895096:1818062301:0691/pct:79.19463087248322,73.27985189756248,17.68768534415483,6.584901779286229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ colonies or plantations in Amerca, and to re­
 strain the number of apprentices taken by the  
 hat-makers, in the said colonies or plantations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842043001:0363/pct:16.641901931649333,232.05890682526197,58.02377414561664,15.802888700084962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842043001:0363/pct:4.160475482912333,58.01472670631549,14.50594353640416,3.9507221750212405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

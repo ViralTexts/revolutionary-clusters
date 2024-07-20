@@ -40,7 +40,7 @@ all so deeph/ indebted—.and that he shall preserve
 thi- precious monument, with great care, for the  
 contemplation of his posterity.”—And yet thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828080501:0109/pct:49.24106414232087,49.475190839694655,15.65203198955443,4.401240458015267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828080501:0109/pct:49.233028720626635,49.469290399522954,15.654917319408181,4.404690916318823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -73,7 +73,7 @@ and politeness;, your obliged friend, and humbler
 servant,  
 “JOHN APAMF. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828080801:0111/pct:80.91380427738173,27.78969957081545,16.1049902786779,9.07248450166905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828080801:0111/pct:80.90069658188887,27.78638693527238,16.107781197688862,9.075376485079667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ duced.”’ -
 acceptable to me than a bust of this GREAT  
 MAN To wHOM WE ARE ALL SO DEEPLY INDEBT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828090201:0551/pct:27.204446447348655,52.81385281385281,16.073306294126482,4.401154401154401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828090201:0551/pct:27.204446447348655,52.81728853157425,16.08832807570978,4.401154401154401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ ed.&quot; 3
 MAN 70 WHOM WE ARE ALL §C DEEPLY INDEBT­  
 ep.” I shall preserve it with care Forß THE cox
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832100901:0106/pct:24.214202561117578,40.0235118093406,14.362630966239815,4.76648498450358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832100901:0106/pct:24.223903764066744,40.0235118093406,14.367481567714396,4.777172170567489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ VIAN To WHOM WE ARE ALL 80 DEEPLY INDEBT­
 ep.” I shall preserve it with care FOR THE coN­  
 TEMPLATION oF MY POSTERITY ” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832101601:0110/pct:39.14487938754875,35.545785974694404,13.982377581973132,5.254128243619987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832101601:0110/pct:39.1496942558621,35.545785974694404,13.987192450286484,5.268425191221674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ ed.”
 -accepteble to me than a bust of this GREAT  
 MAN To WHOM WE ARE ALL SO DEEPLY INDEBT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832103001:0118/pct:8.786127167630058,37.1512641673932,14.205202312138729,4.500871839581517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832103001:0118/pct:8.786127167630058,37.15489683231619,14.219653179190752,4.49723917465853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

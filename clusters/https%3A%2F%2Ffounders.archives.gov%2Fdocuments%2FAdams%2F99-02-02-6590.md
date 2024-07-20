@@ -293,7 +293,7 @@ Thousands of paupers are now being
 shipped from Naples and Genoa to  
 South American ports , where they ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_hershey_ver01:data:sn94056414:00206537747:1885011501:0575/pct:66.58587257617728,105.36992840095465,18.819252077562325,10.978520286396181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_hershey_ver01:data:sn94056414:00206537747:1885011501:0575/pct:49.97401697557596,79.03042959427208,14.117443270396674,8.233890214797135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ PAST.
 I steer my bark with hope in the  
 head, leaving fear astern.—Thoma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895072401:0277/pct:33.024349750968454,36.49063392951635,11.662977310459326,1.3546407027198646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895072401:0277/pct:33.02896144622763,36.497689349843014,11.658365615200147,1.3511129925565315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

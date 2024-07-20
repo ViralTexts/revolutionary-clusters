@@ -66,7 +66,7 @@ rts, which contribm
 to our daily con if .  
 them, and particularly by that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802012001:0002/pct:43.67299041658517,73.61878453038673,16.682964991198904,14.992466097438474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802012001:0002/pct:43.67299041658517,73.61878453038673,16.696003650824697,15.005022601707685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ for their favor acceptable to them, and to be af­
 fured yourfelf of my high refpcét amd efteem.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802012301:0058/pct:27.330386315587162,44.7071154070106,19.873150105708245,19.9836962850821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802012301:0058/pct:27.330386315587162,44.71099724389581,19.885963226343776,19.99145995885253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ favor acceptable to them, and to ht allured yuurftlvcs
 of my highre&#x27;perff and efteem.  
 Jan i, slioz THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802020101:0746/pct:1.7721986339302196,11.13940870335511,42.68045043381946,82.51577898350128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802020101:0746/pct:1.7718715393133997,11.138175376439326,42.67718715393134,82.50941098317095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ to them, and to&#x27;beaftiitdd yourielves
 of my highrefpe&amp;t and- esteem.  
 THONFAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802020201:0018/pct:63.22678843226788,5.166666666666667,33.531202435312025,90.20588235294117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802020201:0018/pct:63.23186199898529,5.173202614379085,33.531202435312025,90.20915032679738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ their favor acceptable to them, and to be assured
 yourselves of my high respect and esteem.  
 Thos, JEPrERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1870012601:0905/pct:252.36617532971295,70.66666666666667,45.07370054305663,46.84057971014493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1870012601:0905/pct:63.12827479138366,17.666666666666668,11.274985445371629,11.710144927536232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

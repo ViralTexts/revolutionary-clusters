@@ -1649,7 +1649,7 @@ Full royally he rode,
 And on the wings of mighty winds  
 Came flying all abroad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210557:1886070501:0302/pct:40.249360613810744,27.372306226931777,7.768542199488491,2.393142040719133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210557:1886070501:0302/pct:40.24292792072878,27.36904761904762,7.771296148313889,2.3958333333333335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1701,7 +1701,7 @@ Full rovally He rode.
 And on tfie w&#x27;injrs of mighty winds  
 Came flying all abroad.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342936:1887052801:0631/pct:64.27558257345491,72.20672441638526,14.20466058763931,5.461753046542358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342936:1887052801:0631/pct:64.26256077795786,72.19612448620082,14.206847649918963,5.464621256605989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1838,7 +1838,7 @@ Full royally lie rode,
 And on the wings of mighty winds  
 * Came flying all abroad!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:0029586218A:1899062401:0061/pct:6.4183280867436165,78.15610859728507,11.68240643581672,1.9343891402714932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:0029586218A:1899062401:0061/pct:6.4183280867436165,78.16365007541478,11.688235979946368,1.93815987933635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

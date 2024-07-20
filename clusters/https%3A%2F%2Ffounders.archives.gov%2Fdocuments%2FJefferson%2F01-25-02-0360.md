@@ -87,7 +87,7 @@ fit tbe year of ou_r Lcrd, one t/Jozg/siand cigbt
 buqdmlaud two, and qs t/ze [ndepeudmce  
 cﬀ the United &#x27;Statcs of Amenca, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802091001:0364/pct:9.60848541569178,20.4887726575886,21.72827951957573,10.451799080169538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802091001:0364/pct:9.606986899563319,20.48692515779982,21.730089415678936,10.453862338443042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -107,7 +107,7 @@ these Letters&#x27; Patcnc and making part of
 the same, containing a description in the  
 Words of the.said Nicholas Boureau him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802091001:0364/pct:9.84245827484012,42.393362791955994,21.4787084698175,4.89674452159798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802091001:0364/pct:9.840923268870867,42.38954012623986,21.48055728841755,4.899308686504359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ si ctnhe tull and exchsivc right and liberty of
 . lbe Scalyof tl}: United State: to be bereuzzto  
 ctaffixd.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802091101:0368/pct:10.013572613482129,7.920440419108506,22.998039511385915,15.2814775350737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802091101:0368/pct:10.012062726176115,7.9197371925774664,22.999597909127463,15.283080292402852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1648,7 +1648,7 @@ Given under my hand, r.t the City of Washing­
 ton.’this 26th day of Jure, in t!i • year of our L- v.l  
 one thousand eight hundred and sixteen, and of tli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830110901:1071/pct:40.321522309711284,41.630396423950124,17.979002624671917,15.445241736266322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830110901:1071/pct:40.31490897162539,41.625499882380616,17.981520966595593,15.447345722575081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1698,7 +1698,7 @@ James Monrok,
 Secrf tary of State.  
 The above Patent, having run the lawful term o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830110901:0357/pct:41.12281805315301,40.805069827485035,17.73863815065262,18.6832531393029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830110901:0357/pct:41.11635220125786,40.80028162403192,17.741090146750523,18.684972228741298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2010,7 +2010,7 @@ discovery, referring to the specifications
 for the particulars thereof, a copy of  
 which shall be annexed to the patent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836082401:0511/pct:34.45194236731716,41.65337586390218,14.736458143352179,12.599681020733652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836082401:0511/pct:34.46410116116481,41.65337586390218,14.736458143352179,12.617402091086301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2257,7 +2257,7 @@ king, using, and veading to others to be used, the |
 said invent,on or discovery, referring to the specifi­  
 cations for the particulars thercof, a copy of which 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836090601:0347/pct:3.3723226492480634,62.54469606674613,14.491873006228163,7.23083035359555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836090601:0347/pct:3.3723226492480634,62.55131770626407,14.496936553749556,7.227519533836578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2274,7 +2274,7 @@ its several parts. The applicant shall also make
 oath or affirmation that he does verily believe that he  
 is &amp;mud first inventor or discoverer of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836090601:0347/pct:3.4178945769406046,89.93841875248312,14.446301078535623,2.026221692491061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836090601:0347/pct:3.422958124461998,89.93841875248312,14.446301078535623,2.0328433320090054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2314,7 +2314,7 @@ vending to others ta be used, the said invention
 or discovery, referring to the specifications for  
 the particulars thereof, a cony of which shall h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836122801:0448/pct:3.0892448512585813,108.66456361724501,19.865560640732266,11.377497371188223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836122801:0448/pct:2.317265055070805,81.5036803364879,14.90487769989987,8.527865404837014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2403,13 +2403,13 @@ J. W. HAND, Acting Com. of Patents*
 The Schedule referred to in these Letters Patent,  
 and making part of the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845091301:0891/pct:67.02107094529286,42.05542403564963,14.904310844770926,12.825511767163349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845091301:0891/pct:67.03395837360655,42.06006591468226,14.891423416457245,12.834795525228612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1846-01-29_1_20/page/n0/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1846-01-29_1_20/page/n0/mode/1up?view=theater)
 
 #### 1846-01-29 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2425,7 +2425,7 @@ that he is the original and first inventor, or discovere
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1846-02-19_1_23/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1846-02-19_1_23/page/n2/mode/1up?view=theater)
 
 #### 1846-02-19 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2465,7 +2465,7 @@ of America, the Sixtieth. ANDREW JACKSON
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1846-02-19_1_23/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1846-02-19_1_23/page/n2/mode/1up?view=theater)
 
 #### 1846-02-19 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2514,13 +2514,13 @@ tieth. EDMUND BURKE.
 THE SCHEDULE REFERRED TO IN THESE LETTERS PATENT,  
 AND MAKING PART OF THE SAME
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00205954958:1846030101:0002/pct:84.72131147540983,52.41303282704557,10.901639344262295,4.617834394904459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00205954958:1846030101:0002/pct:84.72950819672131,52.41609505144537,10.901639344262295,4.614772170504654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1846-10-03_2_2/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1846-10-03_2_2/page/n2/mode/1up?view=theater)
 
 #### 1846-10-03 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2561,7 +2561,7 @@ and
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1846-10-03_2_2/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1846-10-03_2_2/page/n2/mode/1up?view=theater)
 
 #### 1846-10-03 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2726,7 +2726,7 @@ presents.” Hence too, wherever this form has been adopted, either be
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-06-03_3_37/page/n5/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1848-06-03_3_37/page/n5/mode/1up?view=theater)
 
 #### 1848-06-03 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2745,7 +2745,7 @@ Woodworth himself, of his improvement i
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-11-18_4_9/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1848-11-18_4_9/page/n2/mode/1up?view=theater)
 
 #### 1848-11-18 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2850,13 +2850,13 @@ does verily believe that he is the original or first in-­
   
 ventor, or discoverer of the art, machine, composition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848112301:0604/pct:3.8087386644682604,101.56073286586745,46.479802143446,3.8792128477719974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848112301:0604/pct:1.2695795548227535,33.853577621955814,15.493267381148668,1.2930709492573325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-11-25_4_10/page/n5/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1848-11-25_4_10/page/n5/mode/1up?view=theater)
 
 #### 1848-11-25 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2875,7 +2875,7 @@ Ex mons himself, of his improvement in th
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-12-02_4_11/page/n5/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1848-12-02_4_11/page/n5/mode/1up?view=theater)
 
 #### 1848-12-02 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3039,7 +3039,7 @@ making part of the sam
 concern. Be it known, that the fol,­  
 iowing is a fust clear and ereef sescrigtion of the methe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851090301:0438/pct:202.5623268698061,234.4501517627831,46.10457063711911,11.12537940695774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851090301:0438/pct:67.5207756232687,78.15005058759436,15.368190212373039,3.7084598023192465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3103,7 +3103,7 @@ dule hereunto annexed, and is made part of these presents.
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1854-04-29_9_33/page/n2/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1854-04-29_9_33/page/n2/mode/1up?view=theater)
 
 #### 1854-04-29 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3140,7 +3140,7 @@ right and liberty of making, using, and vending
 to others to be used, the said invention or dis­  
 covery,&quot; and it is supposed that no State law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288269:1855071801:0027/pct:16.042171249465735,58.828117383250465,13.506197464026215,3.5097981866042702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288269:1855071801:0027/pct:16.051669278624686,58.83136719638621,13.50144844944674,3.513047999740015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3158,7 +3158,7 @@ shall make oath or affirmation that he does verily
 believe that he is the original and first inventor or  
 fiscoterer of the art michinn, couposdt ion iy h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858021601:0382/pct:57.14983713355049,86.47065450039428,53.957654723127035,6.612594344936352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858021601:0382/pct:19.049945711183497,28.823551500131426,17.98588490770901,2.204198114978784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3188,7 +3188,7 @@ Patent, and making part of the same.
 To All wHoM it may Concern:  
 Be it known that I, Robert Brashear, of the parish of St. Mary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475233:1859122101:1079/pct:56.187290969899664,61.4889705882353,38.44063545150502,28.125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475233:1859122101:1079/pct:18.729096989966557,20.496323529411764,12.813545150501673,9.375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3210,7 +3210,7 @@ exceeding fourteen years, the full and exclusive right and liberty
 of making, using and vending to others to be used, the said in­  
 vention or discovery, referring to the specifications for the par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861080301:0119/pct:226.70384138785624,314.6429823536286,50.0,10.050251256281408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861080301:0119/pct:56.70230900356423,78.66074558840715,12.505811250581125,2.512562814070352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3233,7 +3233,7 @@ of making, using and vending to others to be used, the said in
 vention or disce regrof tigh thall se annesed to the patent,  
 thereof, a copy of which shall be annexed to the patent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861080401:0124/pct:243.0181590482154,97.97731790015199,49.84345648090169,10.896761370279433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861080401:0124/pct:60.76405198058556,24.494329475037997,12.462815093157976,2.7241903425698584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3255,7 +3255,7 @@ exceeding fourteen years, the full and exclusive right and liberty
 of making, using and vending to others to be used, the said in­  
 vention or discovery, referring to the specifications for the par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861082401:0192/pct:244.4794952681388,100.92842872252909,50.34700315457413,10.012927488541544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861082401:0192/pct:61.13916061849164,25.232107180632273,12.59072262543389,2.503231872135386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3272,7 +3272,7 @@ tageously its several parts. The applicant shall make oath or
 affirmation that he does verily believe that he is the original and  
 first inventor or discoverer of the art, machine, composition o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861082401:0192/pct:245.11041009463722,153.71959102127158,50.22082018927445,3.8547420378422848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861082401:0192/pct:61.2969390975071,38.429897755317896,12.559166929630798,0.9636855094605712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3369,7 +3369,7 @@ Table Cushions.  The schedule referred to in these letters
 patent and making part of the same. To all whom it may  
 concern: Be it known that I, Mathew Delaney, of Virgini
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871050701:0494/pct:194.85458612975393,237.4761423599416,44.85458612975391,3.4242730436735154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743749:1871050701:0494/pct:64.95152870991797,79.15871411998054,14.951528709917971,1.1414243478911716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3599,7 +3599,7 @@ patent, and making part of tho same,
 containing a description in tho words ot  
 thc said Hobden Holmes himself, of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550847:1882062201:1228/pct:1.9605037206639955,82.27533254028333,12.135088723526044,2.076349086190116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550847:1882062201:1228/pct:1.9652738027094065,82.2825420857215,12.135088723526044,2.076349086190116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3751,7 +3751,7 @@ The schedule referred to in these Letters Patent
 and making part of the same containing a deserip  
 tion in the words of the sald Jacocks Swain, Henr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:0017503867A:1893111901:0278/pct:102.96548371414681,201.8705035971223,46.88057040998218,4.7924737133370225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:0017503867A:1893111901:0278/pct:34.321827904715605,67.29016786570743,15.626856803327392,1.5974912377790076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

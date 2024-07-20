@@ -196,7 +196,7 @@ be, to lose no time in passing such acts.&quot; The temper
 of the limes concerning navigation and commerce gene­  
 rally, and that of (he Untied States especially, ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851040401:0377/pct:20.423474491497167,61.78010471204188,15.821940646882295,5.299450900268165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851040401:0377/pct:20.423474491497167,61.78861788617886,15.827498054907192,5.299450900268165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ sught to the, to lose no time in passing such acts.&quot;
 ow madee e e o te ti onein aiton an  
 commerce generally, and that of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851040801:0527/pct:43.68852459016394,201.7343045438779,55.60655737704918,14.76471268354723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851040801:0527/pct:14.562841530054644,67.24476818129264,18.53551912568306,4.921570894515743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -419,7 +419,7 @@ of the best fecuriiies of the righ s and liber­
 ties of his fu! j ds, and as mutt conducive  
 to the honor of the crown
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773021801:0376/pct:98.16200042744177,84.82655012291724,26.30904039324642,5.913684785577711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773021801:0376/pct:76.08767667844523,65.74110009526161,20.395318021201412,4.586670430088558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ most conducive to the Honor of the Crown,&quot;
 &quot; Your Excellency’s Precaution to prevent  
 all Claim from the Province for any Yervices, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773021901:0028/pct:66.95671089841201,54.078813436091316,28.12703937350446,7.721390141049876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773021901:0028/pct:66.97121310999927,54.08850758567205,28.12703937350446,7.721390141049876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ move them on the addrefs of both houfes of par­
 liaments And sow, by the noble ia.pnnmu  
 of rhat law in the lamol&#x27;Gn..i € 23, €o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802032701:0093/pct:13.837076513132851,7.170249854735619,39.26532165968786,84.17199302730971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802032701:0093/pct:13.849765258215962,7.174123571566918,39.26532165968786,84.1681193104784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ cive to the honour of the crown.”
 Now, fir, uoder the doftuine contended  
 for by the repeal of this law, let us fe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802040601:0056/pct:24.90272373540856,2.4513695911075826,17.229571984435797,16.415244144501788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802040601:0056/pct:24.90272373540856,2.4546777821886994,17.234760051880674,16.41193595342067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ for although the judges of eight dates may he
 removed on the at id refs of the L&gt;egin.iturc to the  
 executive, there are two only in which they ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805031501:0379/pct:42.486665440500275,9.76761526034547,17.82232848997609,8.027836460792843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805031501:0379/pct:42.47885251930857,9.766401590457257,17.82518082628417,8.030980781974817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -984,7 +984,7 @@ certained and efiabliffied ; hut that it may be
 “ lavvlnl to remove theni on the addrefs o/’both  
 ••Houles of Parliament.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112401:0248/pct:40.455788514129445,35.23201571323349,17.39288969917958,4.885833537932728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112401:0248/pct:40.448414145096606,35.22769117466552,17.395795357880665,4.889325314021521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1032,7 +1032,7 @@ ance of all pleas, real, personal and mixed,as well
 as all pleas of the crown, and all matters relating  
 to rhe conservation of the peace, and punishmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814010401:0002/pct:61.29674392151287,44.278415116166975,17.16195080335561,8.310035669526656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814010401:0002/pct:61.30622304374615,44.284842057906744,17.15247168112233,8.30682219865677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1431,7 +1431,7 @@ tuv ; as one of th,. best securities of the rights
 a id liberties of Ins subjects ; and as most con­  
 ducive to the honorut the crown.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822012201:0188/pct:73.70054305663305,32.78606965174129,17.067494181536073,13.51575456053068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822012201:0188/pct:73.68148914167529,32.78063339413033,17.069544984488108,13.517658763057536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1756,7 +1756,7 @@ Judges, and among others, Holt himself, were compelled
 to rely on the words of the statute, which declared that  
 j the Clerk of the Peace was to execute the duties of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836072601:0415/pct:32.40611961057024,5.1432550736171905,17.88595271210014,9.83883804218066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836072601:0415/pct:32.41539174779787,5.14988725295132,17.87668057487251,9.842154131847725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2380,7 +2380,7 @@ of the best securities of the rights and liberties
 of his subjects, and as most conducive to the hon  
 or or the crown&quot; Ld Raym, 747, Blkst Com.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295717:1863042401:0399/pct:66.58943466172381,225.61231630510846,49.30491195551436,13.960811756473058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295717:1863042401:0399/pct:16.647358665430954,56.403079076277116,12.32622798887859,3.4902029391182645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -115,7 +115,7 @@ from the Jouinals of Congress, and troet a fes fe
 I lelters, whch I wrote to my most intimate  
 mehds telre ard atter my sourney. The abro?&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851090101:0422/pct:252.0757967269595,189.67102935974532,46.92506459948321,103.84388633415871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851090101:0422/pct:84.02526557565318,63.22367645324844,15.641688199827735,34.614628778052904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ lars with regard to
 HIS FIRST MSSION TO FRANCE.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851090101:0423/pct:1.9954884608710741,9.112454082237232,47.804962693041816,61.92676857447565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851090101:0423/pct:0.665162820290358,3.0374846940790774,15.934987564347272,20.64225619149188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ minutes after me, for the last words I heard
 were pronounced as if he was more than half  
 asleep.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851092701:0504/pct:5.995020111089829,43.54006968641115,12.986018004213753,14.034843205574912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851092701:0504/pct:5.994446040409844,43.53703574663786,12.987966420887995,14.036187954381809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ s philosophy together, bnt I believe they wer
 inutea after me, for the last words I hear  
 ere pronounced as if lie was more than h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851100401:0175/pct:41.775754126351735,36.71181172291297,12.421741605008537,15.042184724689164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851100401:0175/pct:41.775754126351735,36.71181172291297,12.435970404097894,15.053285968028419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ minutes after me, for tha last words I heard
 i wete pronounced aa if he waa more than hall  
 aaleep.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851100401:0176/pct:58.651399491094146,80.65125583462992,13.584959004806333,15.836852633918648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851100401:0176/pct:58.651399491094146,80.65866488849375,13.599095278484592,15.836852633918648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ ig- minutes after me, for the last words I hoard ale
 lie were pronounced ns if he was more than half ma  
 is- asleep.&quot; I er
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851100401:0956/pct:57.86433649289099,79.87005453068801,15.343601895734597,15.396217658661097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851100401:0956/pct:57.86433649289099,79.87778938005182,15.353475513428121,15.396217658661097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ correspondent of the Express, writing of
 this strange persons goings-on, in the  
 French Capital, preparatory to her com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1851100901:0573/pct:47.08454810495627,13.776441533340492,12.274052478134111,49.479222592075594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1851100901:0573/pct:47.08454810495627,13.780020759511794,12.27891156462585,49.479222592075594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ ly choked him. by sitting for some hours
 at a window with the cold air blowing  
 upon him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1852011501:0545/pct:48.41566620743948,29.535293320688254,15.233221806730958,43.503590299417425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1852011501:0545/pct:48.40613931523023,29.531292332701167,15.235143644234553,43.501083717149825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1196,7 +1196,7 @@ in intic illy elegant, and lie entertained us
 with good cl net. good bread, co’d ham,  
 tongues and million.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1852011501:0545/pct:48.828970675063964,76.04660615092806,14.54438102735682,11.963148624847582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1852011501:0545/pct:48.81936245572609,76.0363045245191,14.546438410074774,11.964914657274452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1353,7 +1353,7 @@ a few minutes af er me ; for the last words
 I heard were pronounced as if lie was ;  
 more than half asleep.&quot; The Docto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853020201:0266/pct:3.617391304347826,39.678127286027795,13.826086956521738,19.82443306510607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853020201:0266/pct:3.626086956521739,39.685442574981714,13.821739130434782,19.820775420629115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1379,7 +1379,7 @@ The house they all met in, savs Adams,
 was as dirty as a stable . but his lord­  
 ship&#x27;s room looked gay with a carpet o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853020201:0266/pct:3.652173913043478,69.58302852962692,13.73913043478261,7.271397220190197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853020201:0266/pct:3.6608695652173915,69.5940014630578,13.73913043478261,7.264081931236284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1464,7 +1464,7 @@ the long and tbe skin we should
 imbibe the real cause of colda, not  
 from abroad but from within.&#x27; - -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174481A:1873050301:0482/pct:19.289185905224787,43.47205707491082,14.702308626974483,22.140309155766943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174481A:1873050301:0482/pct:14.476682363663983,32.60404280618312,11.028406501595018,16.61117717003567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1524,7 +1524,7 @@ for the last words I heard were pro
 nounoed aa if he were more than half  
 asleep.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1873111301:0187/pct:86.78003291278112,86.17612977983778,13.261108063631378,23.904982618771726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1873111301:0187/pct:65.10288065843622,64.63499420625725,9.958847736625515,17.925840092699882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1589,7 +1589,7 @@ Monday, Sept. 9, 1770.it was resolved
 that in all Continental commissions and  
 other instruments where the word
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1877062801:0489/pct:30.716463414634145,15.984816533108393,12.633384146341463,1.3496415014761705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1877062801:0489/pct:30.710611545056203,15.982569581107676,12.635740140979234,1.352965982569581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1680,7 +1680,7 @@ upon it I will consider it the most
 sacred of things.”  
 It was at this interview tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn86092472:00514157790:1881113001:0327/pct:39.69058415577487,73.15175097276264,17.444651907175245,5.413635594654035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_lyle_ver01:data:sn86092472:00514157790:1881113001:0327/pct:39.68,73.13937753721245,17.446666666666665,5.416948579161028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1713,7 +1713,7 @@ window and come to bed, and I will
 convince you. I believe you are not  
 acquainted with my thesry of colds?&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291098:1882010601:0135/pct:50.484511517077046,24.214975845410628,10.659253375694997,10.41062801932367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291098:1882010601:0135/pct:50.488482922954724,24.221014492753625,10.659253375694997,10.41364734299517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

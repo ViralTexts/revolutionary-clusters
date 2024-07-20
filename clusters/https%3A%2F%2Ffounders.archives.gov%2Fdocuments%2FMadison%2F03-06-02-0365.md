@@ -62,7 +62,7 @@ Accept assurances
 % Of mv high respect,  
 JOSEPH ANDERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080401:0451/pct:64.09125475285171,81.18104539699765,16.425855513307983,7.885693615482004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080401:0451/pct:64.08150851581509,81.1737046749254,16.428426601784267,7.887994695120113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ point, in order to commune with you upon the matter
 Accept assurances of my high respect.  
 ■ JOhEPU ANDERSON&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080701:0564/pct:3.253685815963396,12.153693931398417,21.63192679206914,5.029683377308707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080701:0564/pct:3.252858958068615,12.15169002473207,21.632782719186785,5.032976092333058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ upon the matter referred to them.
 Accept assurances of my high respect.  
 JOSEPH ANDERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813080901:0074/pct:28.239801667793554,13.920163766632548,21.839080459770116,7.93975727445533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813080901:0074/pct:28.233438485804417,13.91812865497076,21.841670422112063,7.943469785575049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ er referred to them.
 Accept assurances of my hij»h respect.  
 JOSEPH ANDERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080901:0249/pct:77.39193344185205,87.65159867695701,16.766142159522516,4.446894524072032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080901:0249/pct:77.37793851717902,87.64086232239099,16.769138034960818,4.450432794381839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

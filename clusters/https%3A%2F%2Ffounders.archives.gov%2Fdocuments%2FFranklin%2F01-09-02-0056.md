@@ -187,7 +187,7 @@ into Consideration was pleased, with the Advice
 of his Privy Council, to approve of what is there­  
 in proposed, and doth aecordingly hereby Orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1765042601:0403/pct:6.18374558303887,28.335056876938985,28.864840989399294,10.356034864824938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1765042601:0403/pct:6.191107184923439,28.335056876938985,28.864840989399294,10.356034864824938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ against governor Murray, be, and they are hercby
 @ifmifled this board, as groundless, scandalous,  
 and derogatory to the honor of the said governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1767082101:0849/pct:9.108199492814878,49.31332295058757,28.3178360101437,11.892963330029733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1767082101:0849/pct:9.115243730628347,49.318042380480435,28.32488024795717,11.888243900136864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ WHEREAS there was this day read at the
 Board, a report from the right Hon. the Lords  
 of the Committee of Council for Plantatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774042201:0570/pct:64.99890278692122,72.59871184542145,26.574500768049155,3.402408288994679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774042201:0570/pct:50.37981859410431,56.27215510381249,20.595238095238095,2.6332923388555307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ Earl&#x27;of Pomfret,
 Whereasthere was this Day read at the Board, a Report  
 from the Right Honourable the Lords of the Committee o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774042901:0241/pct:6.678344646376177,78.23849013440092,26.450624042040726,14.154989991421218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774042901:0241/pct:6.692942121013065,78.24325612429702,26.443325304722283,14.164521971213421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ viz.—
 ¢ Your Majelty having been pleased by  
 your order in Council of the 3d of thisin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821090401:0351/pct:6.060171919770774,14.113817930762403,16.20343839541547,4.507347864680935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821090401:0351/pct:6.069723018147087,14.1171055659664,16.198662846227315,4.504060229476937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ your order in Council of the 3d of thisin
 Majesty in Council:—Whereas, there was this  
 day read at the Board a Report from a Com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1821090501:0062/pct:29.945593035908598,26.321709786276717,22.089227421109904,1.420134983127109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1821090501:0062/pct:23.213582953842693,20.403196512895022,17.130488559059987,1.1006175081729024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ the Boundarys of the said Colony East­
 wards with the Province of the Massachu­  
 setts Bay and humbly Praying, that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1837010401:0583/pct:3.0297565374211,30.876180482686255,14.878268710550046,42.75970619097586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1837010401:0583/pct:3.0417793808235647,30.880552640783492,14.878268710550046,42.75533403287863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ port iuto consideration and was pleased
 with the advice of his Privy Couneil, to ap­  
 prove thereof, and to order that the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1837010401:0583/pct:33.41749323715059,44.8189926547744,14.715960324616772,3.790661070304302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1837010401:0583/pct:33.42951608055305,44.82336481287163,14.703937481214307,3.799405386498776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

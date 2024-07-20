@@ -162,7 +162,7 @@ that letter, if better known, might cheek the kind in­
 discretions which are so heavily oppressing the de­  
 parting hours of life.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743117:1837102101:0555/pct:21.251257967125127,73.41728280961183,18.819188191881917,13.77079482439926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030312:00271743117:1837102101:0555/pct:21.251257967125127,73.41728280961183,18.819188191881917,13.77464571780653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

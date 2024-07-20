@@ -105,7 +105,7 @@ time will be lost in getting heton he:
   
 voyage. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801122901:0628/pct:12.796539212950043,16.820687418936448,20.876360591682946,46.011673151750976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801122901:0628/pct:12.79475373238454,16.819323984761287,20.87809869308404,46.01064548377509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ that no time will be loft in getting her
 on her voyage,  
 »te—The same was written to Mr. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802010401:0001/pct:40.05791505791506,46.797220467466836,16.91119691119691,41.301326595072645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802010401:0001/pct:40.07078507078507,46.797220467466836,16.904761904761905,41.301326595072645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ that a veilcl t« now preparing to take in the carg »,
 . winch wi I c‘» t&#x27;p’ete the regalia due to him, and that  
 no time vv &#x27;I be lob io getting her on her voyage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802011101:0734/pct:23.516483516483518,48.82023066342186,21.831501831501832,23.457835149719607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802011101:0734/pct:23.512177256912654,48.81506559458316,21.832082036257095,23.457998307236565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ ally during the present critical state of
 the Meditei ranean  
 I conclude with enjoining on you the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021201:0003/pct:58.166911919276856,32.878931029828586,18.435989068740803,64.54312322850588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021201:0003/pct:58.166911919276856,32.883430062536554,18.435989068740803,64.5521212939218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ with an nations, who arc&#x27;willmg to lncte
 iu&#x27;pcace&#x27;; that &#x27;thcy&#x27;have given abundctzot  
 evidence, of their disposition to c&#x27;ultivatc&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021901:0233/pct:22.440051847051198,18.693629545238775,23.28256642903435,38.78287287572392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021901:0233/pct:22.43641665316702,18.6918549458895,23.284194610940116,38.78235554711727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ idon ydnr request of Leave of absence and
 eassasrs of the Uniced Stacesct,&#x27;ssespeeial_l&#x27;y dur­  
 ing me present Crici&#x27;ciu State &#x27;of me Medi- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021901:0233/pct:22.440051847051198,62.185512199753155,23.28256642903435,30.095889110414888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806021901:0233/pct:22.43641665316702,62.179608885513574,23.284194610940116,30.096196443263086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ to render, and with offering you mv fmcere
 wifhes for yourfuccefsin all your meafures, for  
 advancing the welfare of our country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022101:0368/pct:3.694126339120798,11.684291978333762,18.267454746952346,55.91952540624194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806022101:0368/pct:3.693444136657433,11.682785299806577,18.27023699599877,55.91661293788953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ vocation. You will also give every friendly explana­
 tion and assurance on this occasion, which may be  
 i cvjuisite for the consuls and agents of other Dowers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022601:0980/pct:27.124817872753763,2.9378712473912345,21.442447790189412,26.56927275646171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022601:0980/pct:27.118232580723475,2.937399678972713,21.44331148336975,26.569020866773677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -748,7 +748,7 @@ your power to render, and with offering you my sin­
 oerc wishes for your success in all your measures, for  
 advancing the welfare of our countrj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022601:0980/pct:27.124817872753763,29.61952159255097,21.199611461874696,21.881521913629797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022601:0980/pct:27.118232580723475,29.614767255216695,21.20053411022093,21.882022471910112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

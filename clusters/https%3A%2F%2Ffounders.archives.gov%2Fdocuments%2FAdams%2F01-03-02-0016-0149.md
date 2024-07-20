@@ -58,7 +58,7 @@ J considered, and it was &quot;resolved that this
 j into a committee of the whole to take into  
 I their further consideration the Declaration o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:0041566350A:1860070401:0229/pct:57.72259236826166,79.72750151870173,13.664445790430042,2.2129653736006247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:0041566350A:1860070401:0229/pct:57.72259236826166,79.73328704909022,13.668483747223904,2.2129653736006247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ self into a committee of the whole to take
 into their further consideration the Declara­  
 tion of Independence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1860071101:1143/pct:323.7976782752902,124.94526346518757,59.53565505804312,11.326813603853452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1860071101:1143/pct:80.99979257415474,31.23631586629689,14.893175689690935,2.831703400963363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ AgriH‘ahle to order, the Congress resolved ;
 itself into a committee of the whole, to take  
 into their further consideration the resolutions 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874070401:0157/pct:2.5881393927043,47.566765578635014,11.453026288974934,8.456973293768545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874070401:0157/pct:2.601725426261803,47.57171117705242,11.459819305753685,8.461918892185954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ JtfAolved, That this Congress will, to-mor­
 , Bie whole, to take into their further consider  
 i at ion the declaration respecting independence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874070401:0157/pct:14.041165681679233,16.023738872403563,11.534542490319952,5.044510385756676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874070401:0157/pct:14.054751715236737,16.02868447082097,11.5277494735412,5.044510385756676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

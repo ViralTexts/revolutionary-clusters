@@ -84,7 +84,7 @@ other occasion of repeating to you the assurance oi
 my constant attachment ami respect.  
 Til: JKKFF.it SON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828110401:0223/pct:17.267830912355148,3.581800580832527,31.40199118655133,89.581316553727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828110401:0223/pct:17.265013054830288,3.5813672111312767,31.40230635335074,89.57451099011898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ i upon political subjects, I yet never doubted the hones-!
 ty of his opinions.”  
 Mr. Giles felt himself impelled by his duty to the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828110601:0361/pct:41.05163129553373,72.94639645041372,18.134304719670574,3.429667825878403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828110601:0361/pct:41.04513064133017,72.93764988009592,18.13671153338612,3.4332533972821744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ repeating r.. you the assurance of my constant at- i
 taclnncnty n i respect. ’ *■  
 Til. Jr.Fl&#x27;IiRklON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828110601:0361/pct:59.39182768451061,32.47391773593956,17.96008869179601,29.056241755606187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828110601:0361/pct:59.38242280285036,32.47002398081535,17.962523093164425,29.056754596322943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ repeating to you the assurance of my constant
 attachment and respert. * _.T  
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1828111001:0447/pct:42.44768770880957,1.7212526894573272,38.17478459644804,92.39780062156348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1828111001:0447/pct:42.440225035161745,1.7210469702402296,38.173933427097985,92.3907414047249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ Iiov* n&lt;*t •huu . nl nlike on puli i ill -idij. 1 , !
 vet never d&#x27;odi&#x27;ed the H&#x27;Ut&#x27; sl&#x27;. «&gt; hiw o union&#x27;. ^  
 ol which the teller hi «p»&#x27;,4i&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1828111301:0109/pct:36.130244207889795,51.426089474446215,15.236902525568775,18.054147965831763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1828111301:0109/pct:36.12270450751252,51.4186450492183,15.238939899833055,18.055153445280833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ had more than one occasion to quote it to persons who
 were expressing opinions respecting him, of whic h  
 there was a direct corrective.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1828111501:0008/pct:77.5163602368339,42.533037071687524,18.385789965721408,10.73558648111332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1828111501:0008/pct:77.50428415641066,42.52806361085126,18.388118606221113,10.738228874337388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ thought alike on political subj&#x27;*ot«, / ,/FJ never doubted
 &#x27; f honetly of hi* opinions-, of which the letter in quer­  
 fioh, if published, will be an additional prrof.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1828111501:0008/pct:77.64100966033033,69.45386504502397,17.71579931442817,2.8534674307098586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1828111501:0008/pct:77.62891416108428,69.44574368568756,17.718232331100378,2.857031493607733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ had more than one occasion to quote it to persons who
 were expressing opinions respecting him, of which  
 there was n direct corrective.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828111501:0368/pct:76.75956542276806,45.071095710359664,18.43804125334593,10.742024136694946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828111501:0368/pct:76.74748110831234,45.065710872162484,18.440386230058774,10.744723217841498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ t bought alike on political subjects. 7 yet never doubte/l
 t’r honesty if his opin&#x27;onr, of which the letter in que?­  
 tioh, if published, will bo nil additional proof.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828111501:0368/pct:76.98000314911037,72.06356792926276,17.66650921114785,2.819930696618473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828111501:0368/pct:76.96788413098237,72.05495818399044,17.668975650713687,2.8235762644364795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ to you the assurance of my constant at
 lachment and respect.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828112701:0630/pct:20.323426573426573,10.891926165985629,37.15034965034965,59.94082006481612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828112701:0630/pct:20.318986235525454,10.890391659622429,37.14769499672274,59.93589743589744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ thing I could have dime, ivith honor and
 conscience. Mr. Giles requested me to  
 ktat« a fact* which he knew himself, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828112701:0630/pct:20.91346153846154,91.13710018317599,17.941433566433567,6.1998027335493875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828112701:0630/pct:20.90889228752458,91.12426035502959,17.94297574830675,6.202451394759087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

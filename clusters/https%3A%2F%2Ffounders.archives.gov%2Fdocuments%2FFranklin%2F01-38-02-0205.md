@@ -415,7 +415,7 @@ Connecticut river. Also further on it
 says, &quot; East by a line to be drawn along  
 the middle of the river St. Croix to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1839032301:0417/pct:33.096868884540115,76.18888703487401,23.55675146771037,20.407141665276157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1839032301:0417/pct:24.83484218252997,57.15000834306691,17.665769513090286,15.30118471550142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ the middle &gt;f that river to the 45th degree
 of North Latitude-East by a line to be  
 drawn along the middle of the river St
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288336:1839032801:0030/pct:50.489840348330915,11.866501854140914,16.037735849056602,6.786155747836836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288336:1839032801:0030/pct:50.495887760038705,11.866501854140914,16.031688437348816,6.790276060980634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ to the aforesaid highlands, which divide
 the rivers which run into the St. Law  
 rence from those which fall into the ses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840040901:0795/pct:332.4430479183032,123.62774779518232,58.28750981932443,28.695537712254836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840040901:0795/pct:83.1434184675835,30.90693694879558,14.577603143418468,7.173884428063709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ found by experience to form the only permanent
 foundation of peace and friendship between slates,&quot;  
 ice. 1 have on a former occasion explained ihe reason
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842111801:0482/pct:80.45231693816227,33.34088591820551,17.017238652538353,5.188625807182508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842111801:0482/pct:80.4575886973483,33.344662210641594,17.017238652538353,5.192402099618595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ which it was instituted. And concurrent with t
 tablishment of there principles was the fact that each  
 berame and was fecognired by the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860122701:0840/pct:102.6982829108749,191.14826941066417,47.015535568274736,20.357811038353603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860122701:0840/pct:34.23276097029163,63.71608980355472,15.67184518942491,6.785937012784534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ following:
 Whereas. It is the part of rational beings to  
 terminate their difficulties by rational means, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1861080701:0155/pct:44.00879917184265,5.865451302883186,31.97463768115942,120.57861884474389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1861080701:0155/pct:33.018379497799636,4.3990884771623895,23.996893606005695,90.43891806202319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -836,7 +836,7 @@ the agreement now placed before the Senate a
 beneficial and satisfactory intercourse betwoen  
 the two countrios will be establiched so as t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888022201:0695/pct:9.332321699544766,341.11263946202047,49.393019726858874,9.903713892709765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888022201:0695/pct:2.33440880622509,85.27815986550512,12.355285632947428,2.4759284731774414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,7 +857,7 @@ ficial and satisfactory intercourse
 between the two countries will be estab­  
 lished so as to secure perpetual peace an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769507:1888030101:0448/pct:44.525644432633534,41.369135438182354,12.171140047834175,3.1769450181961245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769507:1888030101:0448/pct:44.5300735228984,41.372414019212485,12.175569138099034,3.1769450181961245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ ment now placed before theHenute a beneficial
 and satisfactory intercourse between the two  
 countries will bo established so as to secur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_laramie_ver03:data:sn92067139:00513687345:1888031001:0045/pct:48.103309120258274,46.76843774781919,12.214151197202044,2.0023790642347343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_laramie_ver03:data:sn92067139:00513687345:1888031001:0045/pct:48.11003497444175,46.78330689928628,12.234328759752488,1.992466296590008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

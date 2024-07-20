@@ -47,7 +47,7 @@ surgeons, purveyor, apothecary and regi
 mental surgeous, each, equal to the half pay  
 of a captain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021601:0368/pct:59.32856356631811,20.075618977924137,18.05173362685746,7.866813025978778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810021601:0368/pct:59.317681584739546,20.073170731707318,18.05453656150648,7.869918699186992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ receive, during life, the following allowances:
 “ Fhe director of the hospital, equal to the half pay of  
 a lieutenant colonel,” (27th January, 1781.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830030201:0320/pct:34.779422541404074,79.62194559704933,15.154624065660267,3.4117104656523742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830030201:0320/pct:34.77432590855803,79.61276939034228,15.15728800312622,3.415158849064577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

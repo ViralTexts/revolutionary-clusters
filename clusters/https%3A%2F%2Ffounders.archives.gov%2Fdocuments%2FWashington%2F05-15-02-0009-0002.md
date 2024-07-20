@@ -44,7 +44,7 @@ Representatives from the State ot Virginia, and
 the same oath (or affirmation) was thereupon ad­  
 ministered by the Speaker, to all the other Mem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216456:1831120701:0389/pct:19.629244629244628,76.1835923382725,18.19126819126819,7.6376340199975905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216456:1831120701:0389/pct:19.62584444829378,76.17441580342086,18.193891102257638,7.6407291415723115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ the Representatives from the State of
 mation) was thereupon administered by  
 the Speaker to ail the other member
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1832011101:0362/pct:2.1841927493807702,14.235069539132805,18.37424003602792,7.826561221707117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1832011101:0362/pct:2.1837010355695634,14.233128834355828,18.377607684226323,7.830038627584639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ first section reads thus: “Whereas, it is
 necessary for the support of government,  
 for the discharge of the debts of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210028:1883061501:0114/pct:47.6201218136702,26.199080157687252,18.72321227159937,6.636005256241787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210028:1883061501:0114/pct:36.917249417249415,20.30891962997539,14.516317016317016,5.151489433930238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ and James Fulsom be confined in the
 Public Pillory for the space of one hour,  
 that each of them have their ears naile
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473777:1884052301:0431/pct:93.57287449392713,84.66300549176236,16.206983805668017,15.62656015976036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473777:1884052301:0431/pct:62.3940275844616,56.445332001997,10.806023029229406,10.414378432351473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ gallery in front of the Senate Chamber
 by the Vice President and Senators,  
 the Speaker and Representatives an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529649:1889012401:0450/pct:35.76721883173496,25.480114925147436,13.993025283347864,11.069106305761379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529649:1889012401:0450/pct:35.75942471126607,25.476262473540974,13.995423839616475,11.071212579377079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ until June 3 following, when the &quot;act
 to regulate the time and manner of  
 administering certain oaths&quot; havin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn87007277:00415662415:1889040601:0786/pct:89.3824027072758,41.143188742202234,16.455160744500844,6.60089946322356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn87007277:00415662415:1889040601:0786/pct:67.08994708994709,30.857391556651674,12.338624338624339,4.961555200928478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ same year, entitled &quot;An act for establishing
 an executive department, to be denominated  
 the Department of Foreign Affairs,&quot; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896011801:0230/pct:125.85812356979405,220.11798517622145,50.64836003051106,13.175011344728484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896011801:0230/pct:31.482541499713793,55.02949629405536,12.669337912612097,3.293752836182121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -775,7 +775,7 @@ T&#x27;wo supreme or independant authorities can­
 not exist in the fame state. I would be what  
 is called imperium in imperio, the heighth o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775032401:0423/pct:36.846747519294375,46.81721733858745,27.320837927232635,18.88451045771446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775032401:0423/pct:36.846747519294375,46.82732141052844,27.3281881661154,18.879458421743962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ are a part of the Britith empire, we must be
 subject to the supreme power of the state,  
 which is vested in the estates of parliament
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775032401:0423/pct:36.846747519294375,70.3849651409518,27.144432194046306,3.7738708699605943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775032401:0423/pct:36.846747519294375,70.3849651409518,27.15178243292907,3.7738708699605943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -817,7 +817,7 @@ has beén expressly acknowledged by our pro­
 vincial legislatures. It-snot less our interest  
 than our duty to continue fubjet to the au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775032401:0423/pct:36.69239250275634,81.61564110336465,27.475192943770672,9.42709912094574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775032401:0423/pct:36.707092980521864,81.62574517530565,27.467842704887907,9.432151156916238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -841,7 +841,7 @@ not to the person of the King, as the title to
 the crown is derived from an aét of parlia­  
 mient, made since the settlement of this pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775033101:0427/pct:7.777286787450287,17.391304347826086,27.662395050817498,9.493004362870467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775033101:0427/pct:7.792016497275004,17.391304347826086,27.662395050817498,9.49801915651171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ common to all; the checks and controul that
 he would meet with, would render it impofi-.  
 ble. It the King of Great Britain has reall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775033101:0427/pct:7.6889085285019885,29.697607943433127,27.883340698188245,20.791334436587935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775033101:0427/pct:7.6889085285019885,29.707637530715612,27.90543526292532,20.78130484930545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -916,7 +916,7 @@ fromy the authority of parliament, defiroys the
 very idea of our having a Britiflx conflitution.  
 ‘T&#x27;he provincial confitutions, considered as su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775033101:0427/pct:7.202828104286345,59.846547314578004,28.391515687140963,23.514367383782158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775033101:0427/pct:7.202828104286345,59.846547314578004,28.391515687140963,23.52439697106464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -935,7 +935,7 @@ that rang through the continent, viz. ‘“There
 ‘muft be an abridgement of what is called En­  
 glith liberties. He subjoins, that he had ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775040701:0431/pct:4.593799502149808,34.83690861004995,28.87531115637022,4.819277108433735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775040701:0431/pct:4.593799502149808,34.846703888725635,28.905483895300595,4.809481829758057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -952,7 +952,7 @@ glith liberties. He subjoins, that he had ne
 Britith empire, and equally our duty to remain  
 fubjeét to the authotity of parliament. Ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775040701:0431/pct:4.955872369314324,48.76579488686453,28.58112695179905,3.041434028798119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775040701:0431/pct:4.955872369314324,48.77559016554021,28.58112695179905,3.031638750122441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1629,7 +1629,7 @@ ed, ‘The same which they deserve who
 think themselves worthy of liberty.’ The  
 Consul then demanded ‘what kind of peac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348434:1867041101:0105/pct:50.549611607797154,10.31437283145831,13.776930968782061,4.21617074965829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348434:1867041101:0105/pct:50.542203985932005,10.313288477712364,13.779796795623291,4.219231847490889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1676,7 +1676,7 @@ pected from them if the punishment
 should be remitted. The Ambassador  
 answered: &quot;If the terms you give b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1867062001:0299/pct:233.56752537080405,312.25144323284155,49.804839968774395,22.065426555484287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1867062001:0299/pct:58.403279328518444,78.06286080821039,12.453640445051727,5.516356638871072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -724,7 +724,7 @@ Majesty’s Colonies or Plantations of Rbode-Ifland and Provi­
 dence Plantations, Connefticut, Ibe Maffachufeets Bay, and New .  
 Harpfbire, in America, and to prevent the fame being lega
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773100101:0140/pct:12.56762380357886,59.44356804818586,25.905118601747816,3.4992112433672737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773100101:0140/pct:12.581495353030933,59.44356804818586,25.91899015119989,3.4992112433672737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1027,7 +1027,7 @@ or Plantations of Rhode Island and Prov­
 idence Plantations, Connecticut, the Massa.  
 chusetts Bay, and New Hagnpshire,in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1837081601:0706/pct:1.602112676056338,76.75167439464194,14.295774647887324,4.031427099433282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1837081601:0706/pct:1.607981220657277,76.75167439464194,14.307511737089202,4.035720419027992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1245,7 +1245,7 @@ England. &quot;In all things they shall be held, treats
 ed reputed and esteemed as the faithful liegemen  
 of us, and our heirs and successors, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852060401:0967/pct:145.64186426819296,224.04328907731787,56.41864268192968,23.36271337721745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852060401:0967/pct:48.547288089397654,74.68109635910595,18.806214227309894,7.78757112573915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1292,7 +1292,7 @@ customs and rights of this our kingdom of England,&quot;
 made it tmpossible that slavery coudd have asty lepal eristence  
 in the colomties up to the time of the Ecoolution, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743348:1860032401:0723/pct:61.12754480598573,158.12439729990356,47.57264659822516,20.684667309546768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743348:1860032401:0723/pct:20.375848268661912,52.70813243330119,15.857548866075053,6.894889103182257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

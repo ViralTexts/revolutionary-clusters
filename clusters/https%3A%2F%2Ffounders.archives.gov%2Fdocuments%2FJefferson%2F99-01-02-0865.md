@@ -45,7 +45,7 @@ March, 1801.
 (Signed)  
 TH. JEFFERTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801041301:0002/pct:72.02323330106486,63.90200708382527,21.442400774443367,11.496458087367179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801041301:0002/pct:72.03130041949017,63.91184573002755,21.458535011293964,11.50137741046832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -76,7 +76,7 @@ Given under my hand the twentieth day of
 : December, 1804.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805012301:0004/pct:40.3765227021041,49.06476828587381,19.1140642303433,11.26465661641541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805012301:0004/pct:40.391288298265046,49.06476828587381,19.1140642303433,11.2786152987158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ Oiven under my hand the twentieth day of
 December, 1804.  
 TH: JEFFERSON! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031101:0003/pct:79.01835065222198,91.05928085519922,19.80986071191687,5.4005275579619605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031101:0003/pct:79.03309013191834,91.05928085519922,19.80986071191687,5.4005275579619605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ i teapects ts the regulations aforesaid fhall be
 j confiaered as lawfully creeled, except that no  
 j wooden houfe coveiiiijj more than t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806041801:0004/pct:59.53155497722837,10.461702695489725,18.716113641292562,18.388043768348012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806041801:0004/pct:59.53155497722837,10.466150698336447,18.716113641292562,18.388043768348012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ from fuchfofpenfienshsttog been «:;parieus- -
 ned proper to revise the fame with  
 the exception hereafter mentioned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806042301:0004/pct:59.960852544584604,15.772043604250035,18.79077859939104,16.323996136332276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806042301:0004/pct:59.96810207336523,15.776643208684053,18.8052776569523,16.319396531898256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ oi tbe city of mechanic­
 others whose circumstances did  
 of erecting houses authorised lo th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021501:0003/pct:75.37220843672456,48.39089481946625,17.597187758478082,10.675039246467819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809021501:0003/pct:75.38599393438103,48.39525553811268,17.583402260821615,10.670678527821385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ of the United States for regulating1 the materials
 and manner of the buildings and improvements  
 on the lots in the city of Washington,&quot; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852110501:0461/pct:42.53196571589153,62.10641799232035,14.247576225937895,1.9089413055403182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852110501:0461/pct:42.53196571589153,62.11007496800146,14.261627090066039,1.9162552569025415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ the sill to the eave should be erected, nor
 s?hould such house be placed within twenty­  
 four feet of any brick or stone house
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655247:1899021101:0658/pct:43.20733532934132,19.367423714644,13.997005988023952,4.180019506757699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655247:1899021101:0658/pct:43.22136976047904,19.367423714644,13.997005988023952,4.190469555524593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

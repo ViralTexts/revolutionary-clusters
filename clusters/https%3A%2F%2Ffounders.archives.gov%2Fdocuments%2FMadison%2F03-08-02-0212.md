@@ -118,7 +118,7 @@ rying on the war. The product of the first cannot
 be commanded in time to meet the immediate de­  
 mands on lire treasury—a reliance on loans, in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814101901:0099/pct:7.441860465116279,26.519519024872345,21.57622739018088,3.343765442266513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814101901:0099/pct:7.439938000516662,26.515151515151516,21.57711185740119,3.347332015810277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ stoppage of specie payments by the principal banks
 of the middle states his embarrassed greatly the  
 operations of the treasury, and by confining th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814101901:0099/pct:7.31266149870801,36.69906111019601,21.57622739018088,2.7013671553286116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814101901:0099/pct:7.310772410229915,36.693017127799735,21.57711185740119,2.7050395256916997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ tuation of this country, would he uncertain,
 apfl the terms on which they would be ob­  
 tained not such m to induce a resort&#x27;to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814101901:0277/pct:21.38423923264999,15.039281705948373,17.82960315967651,5.175208878912582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814101901:0277/pct:21.380218127115455,15.037406483790523,17.83251849066065,5.1787198669991685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ would gtehtiy facilitate the oppratioas of go­
 the traosaotions of individuals. To secure  
 their circulation, it would be necessary, lit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814101901:0277/pct:21.647545608425805,25.364758698092032,17.6227195787098,12.083800972689861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814101901:0277/pct:21.64347499059797,25.361596009975063,17.625673812210103,12.086450540315877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ the present situation of thiv couirry, would be un­
 cert:. n, and the terms on whi. h they would be ob­  
 tained not s ich \s to induce a resort to them at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814102001:0579/pct:3.2613796339746597,62.31509406864857,20.929141248240263,4.5382737325865286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814102001:0579/pct:3.260614590663852,62.306145893164846,20.930096176401594,4.541211947156807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ heretofore adopted, w 11, it is believed, in the pre­
 sent state of bank credit, be found to be a much  
 better resource. The want of some medium
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814102001:0579/pct:3.35523228531206,67.48527933362057,20.811825434068513,2.3122217435013646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814102001:0579/pct:3.354445226366409,67.47558874210225,20.8128078817734,2.3154796094198735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ loans, in the present situation of this ccuntry,
 would be uncertain, and the terms on which  
 they would be obtained not such as to induce 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814102501:0174/pct:43.97283531409168,39.68377903572126,16.58177702320317,4.3821979308998635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814102501:0174/pct:43.98226749669874,39.68377903572126,16.57706093189964,4.3821979308998635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ they would be obtained not such as to induce
 it is believed, in the present state of bank cred­  
 it, be found to be a much better resaurce. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814102501:0174/pct:44.01528013582343,45.73492094475893,16.511035653650254,1.073589693538942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814102501:0174/pct:44.02471231843049,45.7414275489622,16.511035653650254,1.0768429956405752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ stoppageé of specie payments by the principal
 banks of\the middle States, has embarrassed  
 greatly the operations of the treasury, and b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814102501:0174/pct:44.11431805319751,48.47745461643568,16.426146010186756,2.186219012297482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814102501:0174/pct:44.11431805319751,48.47745461643568,16.44501037540087,2.1992322207040145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

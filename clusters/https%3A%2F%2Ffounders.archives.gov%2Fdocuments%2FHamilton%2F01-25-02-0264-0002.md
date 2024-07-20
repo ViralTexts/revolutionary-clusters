@@ -1184,7 +1184,7 @@ tional charafter 7 What will the world think
 of the fold, when such is the shepherd ? :  
 Lucits CrAssus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802011901:0009/pct:5.303951367781155,5.153831079757006,73.69300911854103,89.78052126200275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802011901:0009/pct:5.314083080040527,5.153831079757006,73.69300911854103,89.78705336730027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1395,7 +1395,7 @@ a blrmifli on our national charafter ? What will
 the world think of the fold when fuch is the /hep­  
 ? LtJCIUS CRASSUS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802022201:0761/pct:11.60427807486631,4.583692838654012,43.54723707664884,87.18723037100949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802022201:0761/pct:11.602209944751381,4.5831985333764695,43.543931563001244,87.18052410223228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1416,7 +1416,7 @@ It makes, or atm? at making, a most prodigious sacrifice of eor.-t.iutlonal en­
 ergy. of sound principle, and of public interest, to th. popularity or one  
 115JTo complete the similiarity between that time and this, th? clergy was a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186877:1896072101:0143/pct:39.63786303334528,59.16943878098508,27.35747579777698,3.584075544586329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186877:1896072101:0143/pct:39.63075820039433,59.163090128755364,27.35854693194718,3.5872675250357653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1442,7 +1442,7 @@ principle, and of public interest, to the popularity of
 ofle man,  
 To complete the similarity between that time and this, the clersy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86071197:00175034869:1896072301:1216/pct:307.72569444444446,118.17870592262923,90.36458333333333,10.9551523450873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86071197:00175034869:1896072301:1216/pct:76.9815418023887,29.54467648065731,22.60586319218241,2.738788086271825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1551,7 +1551,7 @@ of tho money power have inadu nt Ir
 Ifryan iu this campaign are no mora  
 reprehensible than those which wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1896072901:0509/pct:9.924528301886792,57.68800670953313,12.358490566037736,10.273972602739725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1896072901:0509/pct:9.924528301886792,57.698490355046125,12.358490566037736,10.263488957226727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1579,7 +1579,7 @@ public interest, to the popularity of ono
 man.&quot;  
 To complete tho similarity betwee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn87090065:00296024946:1896073001:1032/pct:49.3469387755102,56.638480937546355,17.428571428571427,11.674825693517283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_diamondback_ver02:data:sn87090065:00296024946:1896073001:1032/pct:37.04308760465591,42.48627800029669,13.06922605676945,8.7524106215695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1617,7 +1617,7 @@ interest, of the popularity of one
 man.&quot;  
 To complete the. similarity be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn89058013:00296020321:1896081401:0440/pct:17.94189852700491,97.30058037521933,20.233224222585925,12.417330273991093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn89058013:00296020321:1896081401:0440/pct:13.46704871060172,72.97880955594547,15.18624641833811,9.312997705493318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1644,7 +1644,7 @@ popularity of one man.&quot;
 &#x27;To complete the similarity between  
 that time aud this, the clergy was a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688192:1896081501:0156/pct:84.2279108175062,47.95800977854472,13.625103220478943,6.298533218291631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688192:1896081501:0156/pct:84.23479218276906,47.96280318282044,13.625103220478943,6.298533218291631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1672,7 +1672,7 @@ the popularity of one man.&quot;
 To complete the similarity between  
 that time and this, the clergy was a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876517:1896082801:1116/pct:40.73366450133741,74.64885706416965,15.533053114252962,9.088405397961994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876517:1896082801:1116/pct:35.64781276121482,65.32653225158647,13.597102256896072,7.952445979596755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1722,7 +1722,7 @@ most prodigious sacrificeot constitutional
 energy, of sound money and of public  
 interest, to the populaiityof the man.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:00200290318:1896091001:0608/pct:37.67097966728281,26.76132521974307,12.10720887245841,5.584854631507776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:00200290318:1896091001:0608/pct:37.68022181146026,26.768086544962813,12.121072088724585,5.588235294117647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

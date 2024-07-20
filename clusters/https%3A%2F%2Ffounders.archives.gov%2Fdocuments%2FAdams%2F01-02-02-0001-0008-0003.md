@@ -171,7 +171,7 @@ sheer wit, pure satire, and true humor
 Humor, wit and satire, in one very short  
 repartee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1851040301:0811/pct:123.03501945525292,207.53979335381177,49.961089494163424,50.54454063110863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1851040301:0811/pct:30.75875486381323,51.88494833845294,12.490272373540856,12.636135157777158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ drink so much water!&quot;&#x27; This was sheer wit, pure
 satire, and true humor. Humor, wit, and satire,  
 in one very short repartee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1851050901:0073/pct:68.94789152349851,59.877689199519494,12.523072554309243,9.03134214262313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1851050901:0073/pct:68.95735718680487,59.88132940191475,12.523072554309243,9.03134214262313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ trial; lie wont cat so rnuca hay; may&#x27;b
 he drink much water.&#x27;  
 This was sheer wit, pure satire, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn87056240:00200295638:1851051401:0045/pct:12.425068119891009,91.66068314698944,18.66485013623978,18.781413478305467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn87056240:00200295638:1851051401:0045/pct:9.322611421561946,68.74551236024207,14.011176230066784,14.09375320545697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ that; be wont eat so much liny;
 maybe be may drink as much water,&quot;  
 f . -A maiden&#x27;s speech .A k papa.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152615:1871090901:0593/pct:21.671149966375253,116.3795460760186,15.181573638197714,10.937927262783703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:sn84022643:00416152615:1871090901:0593/pct:16.260299310576762,87.28465955701395,11.383891037497898,8.203445447087777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ hay;- may be he drink as much way-
 ter.&quot;  
 Drinking glass after glass must pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775368:1875081901:0054/pct:67.16621253405995,110.61923925743217,14.407356948228882,15.409580682850837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775368:1875081901:0054/pct:50.38323965252938,82.96767493184474,10.81587463805144,11.553940023367518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ head of rum over winter as a horse.&#x27;
 Indian—&#x27; He won&#x27;t cat so much hay.  
 Maybe he drink as much water.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn2001063144:00295876475:1876082301:0076/pct:65.66545831175557,86.08278344331134,14.034179181771103,2.7354529094181164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn2001063144:00295876475:1876082301:0076/pct:57.46148424126473,75.32981068691605,12.279730137951868,2.3865346257479794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ pure satire and true humor. Humor,
 wit and satire, in one very short re­  
 partee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83008556:00296028514:1879091801:0554/pct:16.380399090679465,75.67619229666444,12.32634503662541,13.40915607378381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83008556:00296028514:1879091801:0554/pct:16.388818725267324,75.67619229666444,12.33055485391934,13.412341903214502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

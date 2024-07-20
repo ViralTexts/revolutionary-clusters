@@ -1567,7 +1567,7 @@ proceeded upon the principle of making
 the poor easy in poverty, and of offerint  
 relief to mere want as want with the fol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jay_ver01:data:sn83025308:00212476638:1891090101:0008/pct:3.9292279411764706,175.09977194982895,46.94393382352941,17.57411630558723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jay_ver01:data:sn83025308:00212476638:1891090101:0008/pct:1.3097426470588236,58.366590649942985,15.647977941176471,5.8580387685290765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1638,7 +1638,7 @@ of doing good to the poor is not making
 them easy in poverty, but leading or  
 driving them out of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:00415668090:1893040901:0028/pct:249.01315789473685,176.0068986507051,37.29440789473684,16.891549152886274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_adrian_ver01:data:sn83016672:00415668090:1893040901:0028/pct:83.02714559912256,58.668966216901694,12.434877981902934,5.630516384295425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1675,7 +1675,7 @@ themselves. They spend as fast as they
 make. The cure for the first ciass is  
 surely not such charity as enables t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_vasa_ver01:data:sn90059522:00206536834:1894121901:0475/pct:15.365239294710328,64.15947390053432,10.725175659551903,9.360871352240032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_vasa_ver01:data:sn90059522:00206536834:1894121901:0475/pct:15.365239294710328,64.15947390053432,10.729594767775863,9.3711467324291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

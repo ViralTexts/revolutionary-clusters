@@ -128,7 +128,7 @@ I -&#x27;Tn gentlemen,
 Yelir Obedient,  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081501:0003/pct:5.438549720074647,48.05042016806723,21.967475339909356,26.89075630252101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081501:0003/pct:5.445214609437484,48.05882352941177,21.98080511863503,26.899159663865547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ With due refpeét, I am, \
 Gentlemen, your obedient,  
 . GO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795081801:0491/pct:48.037466547725245,45.00199521149242,19.75914362176628,28.38188347964884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795081801:0491/pct:48.04242244028149,45.008645916467145,19.76409951432253,28.38853418462357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ truth through any other channel but that of a temperate and
 well-informed investigation.&quot;  
 PRINTER&#x27;s FESTIVAI- The thirteenth annivers ary of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845021201:0128/pct:51.31636363636363,130.20455873758036,38.28363636363636,26.978375219170076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845021201:0128/pct:17.102966841186735,43.39644693782141,12.759356214853597,8.991740688795387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ tea of my CONSCIENCE. he might
 &quot;With due respect, 1 am, gentlemen, Ac., watches&quot;GEORGE  
 WASHINGTON.&quot; But 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846032401:0321/pct:26.496795372831013,51.90298507462686,15.10082851336564,17.624378109452735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846032401:0321/pct:26.507216924600073,51.90713101160863,15.10082851336564,17.628524046434496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ no otherwise DESErVE it than by obezing the dictates of
 my CONSCIENCE.  
 With due respect, I am, gentlemen, ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530236:1846032601:0501/pct:4.081632653061225,145.33024333719584,41.11008039579468,35.840092699884124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530236:1846032601:0501/pct:1.3605442176870748,48.443414445731946,13.70336013193156,11.94669756662804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ into view. But tim C S i 1 i U i iO.\ is the
 jrUi(io v.ri■ i &#x27; : n&#x27;i i* ii :t utiiiloP.. it lias assign­  
 ed to ihe i UBSii&#x27;i N : the P&#x27;O.ar e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846032601:0580/pct:5.75252172176171,54.292137893445975,15.300109857185658,9.85829132034337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846032601:0580/pct:5.751947273816657,54.28843926698004,15.301910658411558,9.859890546585826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -676,7 +676,7 @@ ENCE. &quot; ,
 “With due respect, l am, gentlemen, ccc.  
 ‘• G GOEG E WASH!NGTON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846032601:0580/pct:5.4429241985418955,64.09592587545987,15.409967042844302,10.846164327565063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1846032601:0580/pct:5.442380667066107,64.09155937052932,15.41175687371014,10.847696255421578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ y o make these sentiments known as the grounds of my pro­
 cei ure. While I feel the most lively gratitude for the many  
 MMPUur Approbation from my country, I can no otherwis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846032801:0337/pct:1.9103806714426184,76.49493519224485,15.563983705576627,12.830846313037796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846032801:0337/pct:1.9103806714426184,76.50219656537051,15.573348316711149,12.830846313037796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -830,7 +830,7 @@ no otherwise DESERVE it than by obeying the
 dictates of my CONSCIENCE.  
 &quot; With due respect, I am, gentlemen, dec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1846040801:0487/pct:4.0379403794037945,96.61658199113609,20.176151761517616,25.672900227002486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1846040801:0487/pct:3.0356416858652935,72.46784131445249,15.137552513890771,19.251972759701655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -961,13 +961,13 @@ otherwise DESERVE it than by obeying the
 dictates of my CONSCIENCE.  
 44 With due respect, I am. gentlemen, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846041001:0333/pct:84.31345733041576,65.55075593952483,20.199671772428886,30.0903200471235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846041001:0333/pct:63.2644684635381,49.165521303750246,15.159392529757833,22.570194384449245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n21/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n21/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -984,7 +984,7 @@ weighed with attention every argument,
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n22/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n22/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1081,7 +1081,7 @@ science. With due respect, I am, gentle-
 men, your obedient,  
 GEOKGF WASHIiNGI ON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1850080601:0127/pct:200.0,50.29037827656569,88.37209302325581,340.7314393344844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1850080601:0127/pct:50.009691800736576,12.572594569141422,22.09730567939523,85.1828598336211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1117,7 +1117,7 @@ sonal, local and partial considerations; to
   
 contemplate the United States as one great
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1854112401:0820/pct:13.632958801498127,189.16536328735958,90.2621722846442,54.03099672970283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1854112401:0820/pct:3.4082397003745317,47.291340821839896,22.56554307116105,13.507749182425707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1153,7 +1153,7 @@ progress of negotiations, and Austria willber ue the dog wit choroform and
   
 making treaties, with the advice and consentera ot e oe om to an  i e te a an a e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1854112401:0820/pct:59.62546816479401,201.22280676809328,137.75280898876406,27.072373098251102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1854112401:0820/pct:14.906367041198502,50.30570169202332,34.438202247191015,6.7680932745627755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1189,7 +1189,7 @@ eeeaao a o o a eeeee e e  e
   
 Ta. Our despatcn says that Jonn o. Claythe most lively gratitude for the many in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1854112401:0820/pct:14.082397003745319,231.821413337125,90.48689138576779,25.70737949665861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1854112401:0820/pct:3.5205992509363297,57.95535333428125,22.621722846441948,6.426844874164653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1221,7 +1221,7 @@ has assigned to the President the power of
   
 passed the Bosphorus, to reinforce the b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1854112401:0820/pct:59.62546816479401,203.66842030427983,90.2621722846442,22.86364282667425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1854112401:0820/pct:14.906367041198502,50.91710507606996,22.56554307116105,5.715910706668563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ With due respect, I am,
 Gentlemen, Your ob&#x27;t,  
 GEO. WAsHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1854112401:0820/pct:60.2247191011236,258.2112896345798,44.19475655430712,10.237452011943693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1854112401:0820/pct:15.0561797752809,64.55282240864496,11.04868913857678,2.5593630029859233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1299,7 +1299,7 @@ With due respect, I am .
 ; your obedient -;H ;  
 GEO. WASHINGTON; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855122201:0538/pct:42.84413692643846,99.16710046850599,17.04297159504734,28.604893284747526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855122201:0538/pct:32.14936247723133,74.37532535137949,12.78688524590164,21.460176991150444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1327,7 +1327,7 @@ commodation was the basis of the present
 Constitution;&quot; and again, &quot;there must be  
 reciprocity, or no Union.&quot; In another
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292479:1856103001:0174/pct:25.62076749435666,71.72632532850022,16.51617757712566,9.636006645521825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292479:1856103001:0174/pct:19.22859830667921,53.79851986104818,12.398871119473188,7.234556713487389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1353,7 +1353,7 @@ of the present Constitution ;&quot; and again,
 lu another place he writes, &quot;Tho basis of  
 our political systems is the right of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1856111301:0513/pct:70.3001579778831,58.68582686290416,13.341950308774953,8.042646888399583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1856111301:0513/pct:70.30973239504046,58.693552748483796,13.337163100196275,8.042646888399583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1429,7 +1429,7 @@ ilinerty to mnake these sehtiments ghow
 procedure. While I feel the a  
 graticude for the many instances of approb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:0020653106A:1870121401:0747/pct:244.88049095607235,249.59899175068745,49.17635658914729,36.4115490375802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:0020653106A:1870121401:0747/pct:81.62683031869078,83.19966391689582,16.392118863049095,12.137183012526734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1488,7 +1488,7 @@ tates of my conscience.
 With due respect, I am, gentlemen,  
 Your ob’t Gko. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525322:1872021301:0455/pct:86.04987932421561,58.469505178365935,11.311343523732905,16.16800920598389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525322:1872021301:0455/pct:86.03603603603604,58.462777586008514,11.31354568854569,16.169025428604304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1507,7 +1507,7 @@ overlook all personal, local and partial consid­
 eration! by contemplating the United States as  
 one great whole. A Rood rule for all Presidents
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889022201:0051/pct:6.479313036690086,130.4237824161923,52.61514441842311,10.056925996204933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889022201:0051/pct:1.620460757516595,32.605945604048074,13.158922295978133,2.5142314990512333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1537,7 +1537,7 @@ hts proposed act was met with violent of­
 position, he declared that he retained the  
 opinion that the reasons given against i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199367:1896022201:0690/pct:17.51824817518248,19.738903394255875,76.97810218978103,268.4699738903394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199367:1896022201:0690/pct:5.839416058394161,6.579634464751958,25.659367396593673,89.4899912967798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1609,7 +1609,7 @@ terms, to the president the power of
 making treaties with the advice and  
 consent of the senate and (with tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gecko_ver01:data:sn84020558:00202192014:1896122701:0598/pct:34.23373759647188,108.22060353798128,22.49173098125689,6.364897676031911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gecko_ver01:data:sn84020558:00202192014:1896122701:0598/pct:25.703254274682845,81.16545265348596,16.878102592388306,4.786680541103018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

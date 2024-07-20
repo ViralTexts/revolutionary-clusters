@@ -132,7 +132,7 @@ The following extract of a most important
 1 portion of history will he found interesting, as,  
 indeed, is every thing connected with the ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829090201:0688/pct:3.3886085075702956,3.693467336683417,39.54578226387888,94.38442211055276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829090201:0688/pct:3.387997837448189,3.693003391533727,39.544662701988344,94.37675333919525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ n well, troth the parlies and all the cuciuint nu cs must he tnily
 a, loros .trance are requisite. Common il.mgnr hroughl the.  
 Stales into ronfr &#x27;terncy: and on thru# union our
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829090801:0956/pct:41.83806725432582,65.18710895998112,18.478615736206333,12.938259945697084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829090801:0956/pct:41.83123877917415,65.17941454202078,18.481040204559054,12.940667296191375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ ters, H.ni miss no opportunity to aim n Ida* it the I ou-tilntion 1
 (.aim highly on one side, without liringtn» into view Hie aigo- |  
 meuis which ere off tetl on the other. It is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829090801:0956/pct:41.740124061377735,78.55034824696021,18.658178256611166,10.352968952898124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829090801:0956/pct:41.73331157173168,78.54107648725213,18.66057341820358,10.355681460497324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ ZTn\ L&#x27;T, prin;lp,r? «»»**» »*»•• difference i„ opinion
 Z&quot; .? d-ci-ion, would, in that ca*e. come fully  
 before the public, and afford the !**si &lt;lata lor its judgment. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829090801:0256/pct:41.19723714504988,66.69461077844312,17.298541826554107,28.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829090801:0256/pct:41.19091467157765,66.6866243563645,17.301002660118684,28.000638646070332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ well as the decision, would, in that case, come
 fully before the public, and afford the best du­  
 tu f»r is judgment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829091401:0446/pct:62.95760082730093,48.198524092027206,15.6153050672182,42.32383157285487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829091401:0446/pct:62.94458229942101,48.191550925925924,15.617245657568239,42.32132523148148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -643,7 +643,7 @@ arose, as well as the decisien, would, in that
 case, come fully before the public, anud ufford the  
 best data for its judgineut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829092201:0151/pct:40.54135338345865,11.273613650213285,16.285714285714285,40.47328864513508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829092201:0151/pct:40.54135338345865,11.276999119777914,16.290726817042607,40.48005958426434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -824,7 +824,7 @@ decision, would, in that case, come fully
 before the publick, and afford the best da­  
 ta for its judgement
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829092901:0253/pct:77.02612190221032,28.83384358474812,20.495646349631613,73.58753131088227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829092901:0253/pct:59.70123428307763,22.34964230506525,15.889952705040951,57.0334687421361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ arose, as well as the decision, woull, in tha&#x27;
 c e, c#ine fully be&#x27; re he public, and afford  
 tb- i&gt;eSt data for iti judgment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829100801:0169/pct:5.888767720828789,41.364844077751364,18.51690294438386,44.56719339952454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829100801:0169/pct:5.887483645878762,41.35906040268456,18.518316615787178,44.56445749440716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ rectly v instead of Btuflin# their paper* with scurrility and j
 auu*cn?ieal declamation, which few would read If they were |  
 apprised of the contents) publish the debates luCongreai 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853101401:0083/pct:69.91478834524465,8.288623672396803,13.345244639912039,2.660681046753531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853101401:0083/pct:69.91478834524465,8.295923208876236,13.358988455195162,2.660681046753531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,7 +976,7 @@ the difference of opinion arise*, as well as the decisions,
 wouhi then come fully before the public, an&#x27;1 afford the baek  
 d&#x27;t^for^iu^judicment.&quot;?Spurkft Writimyt of HtoAiNfton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853101601:0091/pct:83.00427999447743,7.939984667615814,13.44746651939804,4.6544737706713395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853101601:0091/pct:83.0088821390768,7.939984667615814,13.442864374798656,4.661774905997882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,7 +1006,7 @@ well as the decisions, would then come fully
 before the public, and afford the best data  
 for its judgment.&quot; JSlparks&#x27;a Writings o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023085:1853102201:0603/pct:10.026346604215457,100.1750632172729,20.111241217798593,11.476366465668159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023085:1853102201:0603/pct:7.5267242641675205,75.13129741295468,15.09737882559672,8.617000583544058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ opinion arises, as well as the decisions, would
 then come fully before the public, and afford  
 the best data lor its judgment.^?Spark*&#x27;* VVW
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853102601:0423/pct:3.650655021834061,67.84140969162996,13.327510917030567,6.255506607929515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853102601:0423/pct:3.6593886462882095,67.84140969162996,13.323144104803493,6.266519823788546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1122,7 +1122,7 @@ npen which the difference of opinion arises, as
 fore the public, and afford the best data for its  
 Judgment.&#x27; Sparks&#x27;s Writings of Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1853102701:0472/pct:9.087743732590528,96.15732953810324,17.009052924791085,7.737094061327468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1853102701:0472/pct:6.828078731928236,72.11799715357743,12.767810485978053,5.809289688187346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1154,7 +1154,7 @@ In surrendering my interest in the organ
 of a great political party, 1 cherished the  
 purpose of continuing the Congressiona
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1853102701:0047/pct:29.752795762213065,25.655430711610485,18.540317834020012,10.736579275905118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1853102701:0047/pct:22.331812159576035,19.246774864752393,13.911379361107022,8.05243445692884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1183,7 +1183,7 @@ the decisions, would then come fully before
 the public, and afford the best data for its  
 judgment.&quot;--Sparks&#x27; Writings of Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1853102701:0594/pct:26.840148698884757,43.54770912147961,50.48327137546468,28.919714165615805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1853102701:0594/pct:6.712532539977687,10.886927280369903,12.625511342506508,7.229928541403951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1203,7 +1203,7 @@ would then come fully before the public, anil afford
 ihe best data lor ils judgment.&#x27;&#x27; Sparts&#x27;s Writings  
 of Washington, vol, lu, u. til.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1853102801:0189/pct:74.35709037472446,78.39443558904506,17.321822189566497,3.2893783509636285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1853102801:0189/pct:55.788313120176404,58.803072018548036,13.009922822491731,2.4634110998406027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1248,7 +1248,7 @@ difference of opinion arises, as well as the decisions, would
 tuen come fully before the public, and ntt&#x27;ord the best data  
 for its judgment.&quot; JSjwrtn&#x27;t Writing of Washington, vot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853102901:0352/pct:86.7065868263473,74.30896254636832,19.97005988023952,4.834270671293527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853102901:0352/pct:65.05915830462783,55.73770491803279,14.99176276771005,3.6257030034701447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1301,7 +1301,7 @@ well as the decisions, would then come fully
 before the publie, and afford the best data  
 for its judgment.&quot; fyarks&#x27;s Writings of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023085:1853102901:0606/pct:0.3698224852071006,21.004878048780487,18.757396449704142,32.25365853658536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023085:1853102901:0606/pct:0.28118987716442206,15.75609756097561,14.074293325440284,24.195121951219512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1358,7 +1358,7 @@ thu difference of opinion arises, as well as the decisions,
 would then come fully before the public, and afford the best  
 data for Its judgment.&quot;?.Sjmrkt&#x27;t H&#x27;ritiugt of H&#x27;athinyton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853110201:0148/pct:69.4991789819376,8.03086285590089,13.136288998357964,3.4340360791132363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853110201:0148/pct:69.4991789819376,8.03810765775556,13.149972632731254,3.4340360791132363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1441,7 +1441,7 @@ opinion arises, as well as the decisions, would
 then come fully before the public, and afford  
 the brut data lor its judgment.&quot;?Sparka&#x27;s IVrt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853110201:0427/pct:3.439291297550808,71.96726103478515,13.32291123849227,4.866997953814674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853110201:0427/pct:3.4523189161021364,71.97822274188833,13.309883619940942,4.877959660917861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1497,7 +1497,7 @@ national questions. Tho principles Upon which the
 difference of opinion anace, as well as lb decisions,  
 would thru come fully before the mil. lie. snd affor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1853110401:0193/pct:74.98153618906943,15.039006067610517,16.838995568685377,3.8428199942213235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1853110401:0193/pct:56.271937927212264,11.282866223634787,12.636246074265657,2.889338341519792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1528,7 +1528,7 @@ cisions, would come fully before the public
   
 and afford the best data for its judgment.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776361:1853110401:0110/pct:12.98219584569733,120.19188835586567,49.332344213649854,25.3525221689199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776361:1853110401:0110/pct:3.2467532467532467,30.047972088966418,12.337662337662337,6.338130542229975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1558,7 +1558,7 @@ rectly (JuxUnU of Ktufflng their papers with ururrility and
 nvnseiiKical di-clamallon, which few would read If they were  
 apprised of the contents) publUh the dehate* in Congre*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853110501:0160/pct:70.11019283746556,8.843830888697152,13.25068870523416,2.5237273511647973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853110501:0160/pct:70.11019283746556,8.851020995110728,13.259871441689624,2.5237273511647973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1581,7 +1581,7 @@ ilish the debates iu Congress on all great
 lonal questions. The principles upon  
 ch the difference of opinion arises, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023085:1853110501:0610/pct:0.9061200237670826,44.490035169988275,17.424242424242426,7.454083626416569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn90052434:00296023085:1853110501:0610/pct:0.6835066864784547,33.37241109808519,13.075780089153046,5.588120359515436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1605,7 +1605,7 @@ questions. The principles upon whicii the dilference of opinion
 arises, as well as the decisions, would then come fully before the  
 public, and afford the best data for its judgment : sparks
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667280:1853110501:0517/pct:86.85452526374236,74.8142310290475,19.57245974458634,4.469714028371988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667280:1853110501:0517/pct:65.15340830209635,56.113487953163705,14.688324309315563,3.3551002026570593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1671,7 +1671,7 @@ rectly (lo.tead of stuffing their paper, with If Jir^lUj and
 non?en?lcal declamation, which few would read If they were  
 apprised of the oooteata) publUh the debates la Oongraa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853110801:0168/pct:70.49655172413793,8.874056242477295,13.158620689655173,1.323996060838166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853110801:0168/pct:70.50114942528735,8.87770361454572,13.167816091954023,1.3312908049750154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1697,7 +1697,7 @@ publish the debate in Congres on all great nation-
 would then come fully before the public, and afford  
 the best data for its judgment. &quot;-Spark&#x27;$ Writing$ o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853110801:0451/pct:27.042007001166862,32.94243070362474,42.53208868144691,15.25586353944563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853110801:0451/pct:9.01794834379104,10.980810234541577,14.183569239749016,5.085287846481877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1725,7 +1725,7 @@ ence of opinion arises, as well as the decisions,
 would then come fully before the public, and  
 afford the best data for its judgment.&quot; Sperk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1853110801:0187/pct:330.6107431935246,85.69382786767865,48.12362030905077,24.745811255907203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1853110801:0187/pct:82.6831063673169,21.423456966919662,12.035333087964666,6.186452813976801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1771,7 +1771,7 @@ liTerence of opinion.&quot; arises, as well as tho dei9 on-, would ; -&quot;
 tuen come fully before the public, and afford tka bat data &#x27;  
 for its judgment,&quot; S-ia s iVrtiinj of Washington, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853110901:0364/pct:108.44350961538461,15.964576352321686,21.57451923076923,2.6926759214935374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853110901:0364/pct:81.35236664162284,11.97941598851125,16.183320811419986,2.022498803255146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1798,7 +1798,7 @@ well as the decisions, would then come fully be­
 fore the public, and afford the best data for its  
 judgment.&quot; Sparks&#x27; Wiitings of Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1853110901:0278/pct:75.9453781512605,12.805169937769268,16.31152460984394,7.431785543322164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1853110901:0278/pct:56.97133423382861,9.609861177596937,12.231727450097553,5.576831019626615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1850,7 +1850,7 @@ opinion arises, as well as the decisions, would
 then come fully before the public, and afford  
 the best data for its judgment.&quot;?Spafks&#x27;a Wri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853110901:0431/pct:15.722153135548055,7.468204673173617,13.501510037306804,6.063294883170659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853110901:0431/pct:15.735476994137501,7.479296066252588,13.501510037306804,6.07438627624963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1926,7 +1926,7 @@ bates in Consrrcss on all creat national questions. The
 principles upon which the difference ol opinion arises,  
 ns well ab llie uccisions, huuiu men eome luny oeior
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1853111001:0055/pct:9.720588235294118,12.951432129514322,18.61764705882353,4.77376504773765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1853111001:0055/pct:7.295190469186645,9.71357409713574,13.97264303574055,3.5907015359070154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1963,7 +1963,7 @@ difference of opinion arises, as well the decis­
 ions, would then c une fully before the pub­  
 lic, and afford tho best data for itf judgment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1853111101:0228/pct:66.52021089630931,21.803839857121595,18.409490333919155,8.736419109986604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1853111101:0228/pct:49.92306001318971,16.35660068462569,13.827214772477468,6.563476707843429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2006,7 +2006,7 @@ the dinereuce of opinion arisen, as well us the decisions,
 would then route fully before the public, and afford the best  
 data for its judgment.&quot;?SjtarLn&#x27;t Writing! of M&#x27;atliinylon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853111201:0184/pct:70.89770354906054,9.679155900086133,13.277661795407099,3.466838931955211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853111201:0184/pct:70.90698213871491,9.682744760264141,13.273022500579913,3.474016652311226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2027,7 +2027,7 @@ the difference of opiulon urUes, as well as the decisions,
 would then come fully before the public, and afford the best  
 duta for It- judgment.&quot;?Sftarkn&#x27;t Writinyt nf tttukiHjjtoH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853111301:0188/pct:69.80613227003987,10.232355187084107,13.199505018561805,2.8362604996181955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853111301:0188/pct:69.81071543150465,10.23962764990364,13.194921857097025,2.8362604996181955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2089,7 +2089,7 @@ the difference of opinion arises, its well as the decisions,
 would then conio fully before the public, afford the best  
 data for its judgment.&quot;?Aiarkt&#x27;t H&#x27;rititiui nf WuthiiujUm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853111501:0192/pct:70.35210302781203,10.072099628577671,13.179887655843267,2.8184400262180467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853111501:0192/pct:70.35666986345161,10.079382419343093,13.184454491482851,2.8184400262180467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2116,7 +2116,7 @@ would then come fully before the public, and affrd
 the best data for its judgment.&quot;Spark&#x27;s Writtn goof  
 VashingtoN, toł 10, 9.84
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853111501:0455/pct:27.260793465577596,29.050814956855227,43.62602100350058,16.39501438159156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853111501:0455/pct:9.088256746900074,9.683604985618409,14.544128373450036,5.465004793863854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2143,7 +2143,7 @@ would then come fully before the public, and
 afford the best data for its jud, ment.&quot;Spaa  
 Writings of Washington, rol 10, P.34
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1853111501:0193/pct:33.28445747800586,35.21146953405018,50.146627565982406,23.2831541218638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1853111501:0193/pct:8.321114369501466,8.802867383512545,12.536656891495602,5.82078853046595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2193,7 +2193,7 @@ fore the public, and afford the best data (or its
   
 judgineut.&quot; Spares&#x27; Writings of Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1853111601:0283/pct:75.37268932617769,11.998064828253508,16.219439475253427,7.4262215771649736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1853111601:0283/pct:56.53794543014761,8.99854862119013,12.16639332041151,5.5757135945815195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2217,7 +2217,7 @@ decisions would, then come fully before the
 public, and afford the best data for i judge­  
 ment.&quot; Sparlt&#x27;t Writing of Watkington, vol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1853111601:0387/pct:22.6457399103139,25.569687334393215,16.47982062780269,6.822999470058294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1853111601:0387/pct:16.9950344385712,19.183889772125067,12.365849751721928,5.113937466878643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2242,7 +2242,7 @@ pinion arises, as well as the decisions, would then come
 fully before the public, and aflotd the best data for its  
 judement- Spalks&#x27;s Writings of Washington, vol, 10
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853111601:0819/pct:8.171206225680933,155.42714352647198,44.90272373540856,15.43026706231454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853111601:0819/pct:2.0431990659661414,38.856785881617995,11.227865343452034,3.857566765578635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2267,7 +2267,7 @@ opinion arises, as well us the decisions, would
 then come fully before tho public, and afford  
 the best data for its judgment.&quot;?Sparka*9 HVt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853111601:0435/pct:16.660789844851905,9.228262479632647,13.452045133991538,5.243667604799289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853111601:0435/pct:16.660789844851905,9.231965634720781,13.456452750352609,5.251073914975559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2301,7 +2301,7 @@ the difference of opinion arises, as well as the decisions,
 would then come fully before the public, and afford the best  
 Ostefor iu^judgment.&quot;?ilparki&#x27;t Writingt &lt;f Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853111701:0200/pct:70.57681641708264,8.982754857018119,13.325013865779257,4.191224623444663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853111701:0200/pct:70.58606026992051,8.990031288656043,13.320391939360325,4.191224623444663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2379,7 +2379,7 @@ pinions arrises, as well as the decisions, would
 then come fully before the public, and afford  
 the best data for its judgement.&quot; Spark&#x27;s wri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1853111701:0020/pct:23.830985915492956,42.628376214369595,16.183098591549296,6.138571581082524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1853111701:0020/pct:17.878275570583263,31.973951104942884,12.144265990419836,4.601259741646205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2405,7 +2405,7 @@ principles upon which the difference ot opinion arises,
 as well :ib the decisions, would then come fully before  
 the public, ami aiford thebe.-t data for its judgment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1853111701:0059/pct:28.301056338028168,11.192869727432894,18.529929577464788,6.570629080733755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1853111701:0059/pct:21.23569122395069,8.394652295574671,13.89785735250954,4.933153694683387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2439,7 +2439,7 @@ the difference of opinion arises, a* well as the decisions,
 would then come fully before the public, and afford the best  
 data for its judgment.&quot;?Njxtrkt&#x27;t H&#x27;ritiiujt of WathingUm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853111801:0204/pct:70.82754790336018,10.45066464930293,13.385170785892807,3.8798227601858857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853111801:0204/pct:70.83680459131723,10.454267084549155,13.385170785892807,3.8870276306783387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2483,7 +2483,7 @@ the difference of opinion ari*e?, a* well as the decisions,
 would then come fully before the public, and afford the beat  
 data for 1U Judgment.&quot;?S^xirlet&#x27;i tVritingi of Wtuhinatou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853112001:0212/pct:69.20443653293167,9.761106907361366,13.268519786389156,3.826613339098476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853112001:0212/pct:69.20900086722351,9.761106907361366,13.273084120680998,3.833819767232371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2553,7 +2553,7 @@ rent Gazettes in the Union do not more generally and
   
 more correetdy tinstoad or stuling their pupors wat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853112201:0459/pct:28.25642523364486,37.07973102785783,46.48072429906542,7.2686519372398335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853112201:0459/pct:9.418808411214954,12.359910342619276,15.49357476635514,2.4228839790799443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2581,7 +2581,7 @@ And
 ThE CoNGRESSIONAL GLOEE.  
 a great political party, I cherished the purpos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853112201:0459/pct:28.300233644859812,45.14889529298751,41.74941588785047,17.483189241114314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853112201:0459/pct:9.43341121495327,15.04963176432917,13.916471962616823,5.827729747038104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2616,7 +2616,7 @@ ThE CONGrESStOKAt uLOnE.
 It surrendering my interest in the organ of a  
 great political party, I cherished the purpose o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1853112201:0197/pct:31.401320616287602,39.82388865218009,48.202494497432134,35.90399091038205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1853112201:0197/pct:7.853211009174312,9.955972163045022,12.055045871559633,8.975997727595512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2659,7 +2659,7 @@ the difference of opinion arises, as well as the decisions,
 would then come fully before the public, and afford the bent  
 data^for ^judgment.&quot;?Hparkn&#x27;t Writingt of Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853112301:0218/pct:70.34578146611342,9.262454172956653,13.319502074688797,4.183739486737115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853112301:0218/pct:70.34578146611342,9.26964272877579,13.319502074688797,4.187333764646683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2713,7 +2713,7 @@ decuions woold, then come fully before the
 public, and afford &#x27;the best duta fori&#x27;s judge­  
 ment.&quot; Spark&#x27;s Writing of Vashinglun,vol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1853112301:0392/pct:89.3818065342729,10.478602852952939,16.575912876361308,9.065457938941474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1853112301:0392/pct:67.06183915411727,7.865617917610985,12.447933354694008,6.799093454206106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2735,7 +2735,7 @@ pinion arises, as well as the decisions, would then come
 fully before the public, and affond the beet data for it  
 judgment--Sparke&#x27;s Writings of Washington, vol 10
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853112301:0823/pct:11.526479750778817,156.60613650594865,44.85981308411215,11.0832811521603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853112301:0823/pct:2.882181110029211,39.151534126487164,11.21713729308666,2.770820288040075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2760,7 +2760,7 @@ bates in Congress oil all great national questions.
 The p&#x27;iucipies upon which the difference of  
 opinion arises, as well as the decisions, woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853112301:0439/pct:15.831873905429072,30.73625073920757,13.380035026269702,5.322294500295683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853112301:0439/pct:15.845008756567426,30.743642814902426,13.371278458844133,5.3259905381431105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2785,7 +2785,7 @@ the difference of opinion arises, as well as the decisions,
 would then come fully before the puhlic, and afford the best  
 data for its judgmeut.&quot;?Spark*&#x27;? Writingt of H&#x27;aiAingUm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853112401:0222/pct:70.8741886479768,8.58689767190038,13.354509045711918,4.288034650785057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853112401:0222/pct:70.88339547944575,8.58689767190038,13.354509045711918,4.295253564338567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2813,7 +2813,7 @@ tion, which few would read if they were apprised
   
 of the contents) publish the debates in Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1853112401:0477/pct:25.05334281650071,117.94735442701409,16.83854907539118,4.706195160861473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1853112401:0477/pct:18.7977947714743,88.46051582026057,12.644495820736262,3.5362935389524064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2841,7 +2841,7 @@ ot opinion arises, as well as the decisions,
 would, then come fully before the public,  
 and afford the best data for its judgment 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1853112401:0170/pct:6.1888638073739655,59.274032708416435,16.760722347629798,10.344369099853743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1853112401:0170/pct:4.648099360180655,44.46217258343305,12.5705683101242,7.764924877011036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2867,7 +2867,7 @@ piuions arrises, as well as the decisions., would
 then come fully before the public, and afford  
 the best data for its judgement.&quot; Spark&#x27;s wri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1853112401:0024/pct:6.345392877331826,67.0933734939759,16.23798756359525,6.852409638554217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1853112401:0024/pct:4.764597766152976,50.322719449225474,12.18719072529337,5.141996557659208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2892,7 +2892,7 @@ principles upon which the difference ol opinion arises,
 as well as the decisions, would then come fully before  
 the public, and afford the bos-t data for its judgment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1853112401:0063/pct:28.078744819419775,11.832417297521518,18.62048549437537,5.869542673441875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1853112401:0063/pct:21.068996150429374,8.87690552732552,13.97690257625111,4.407342113450171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2945,7 +2945,7 @@ the difference of opiukm arises, an well a* the decisions,
 would then come fully before the public, and afford the best  
 data fur Its Judgment.&quot;?^xirkt&#x27;t U&#x27;ritinui nf WatlunaUjn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853112601:0226/pct:70.01780578003013,9.642318465847877,13.14888371455965,2.7257056668821376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853112601:0226/pct:70.02237136465324,9.645909645909645,13.15801488380587,2.729296846943906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2969,7 +2969,7 @@ the difference of opinion arise*, a* well a* the dedalon*,
 would then come fully before the public, and afford the best  
 data for it* judgment&quot;?Spark*&#x27;t Writingi of Wathiugtun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853112701:0230/pct:70.66539144691897,8.414239482200648,13.116545976226261,3.9266450916936355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853112701:0230/pct:70.66539144691897,8.421431139877742,13.116545976226261,3.923049262855088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3015,7 +3015,7 @@ rectly (instead of atuttng their paper* with acurrility and
 nonsenaieal declamation, which few would read if they were  
 apprised of the contents) publUh the dehatea in Congrea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853112901:0234/pct:70.84830063553468,8.838878016960209,13.40149212489638,2.533159382474451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853112901:0234/pct:70.84830063553468,8.842501993186925,13.4107027724049,2.536783358701167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3041,7 +3041,7 @@ rence of opinion arises, as well as the decisions,
 would then come fully be fore the publle and affird  
 the best data for its juidgment.&quot;spark&#x27;. Writing o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853112901:0463/pct:28.004103165298943,32.61217094745817,42.160023446658855,15.538740274965363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853112901:0463/pct:9.336069177781035,10.870723649152723,14.055400850065954,5.179580091655121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3154,7 +3154,7 @@ pinions arrises, as well as the decisions, would
 hcn come fully before the public, and afford  
 the best data for its judgement.&quot; Spark&#x27;s wri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1853120101:0028/pct:7.050561797752809,11.801043774629886,16.207865168539325,6.8484396634359355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1853120101:0028/pct:5.295687596572552,8.850782830972415,12.150582947043125,5.144317818724039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3189,7 +3189,7 @@ In surrendering my interest in the or­
 gan of a great political parly, I cherished  
 the purpose of continuing (lie Congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1853120201:0238/pct:65.90509666080844,28.64381520119225,18.60720562390158,14.932935916542474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1853120201:0238/pct:49.45054945054945,21.4903129657228,13.978021978021978,11.20715350223547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3251,7 +3251,7 @@ would then come fully before the public, and affrd
 the best data for its judgment.&quot;-Spark&#x27;s Writlng  
 WashiNgtoN, voł 10, 9.84
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853120601:0467/pct:26.55061439438268,29.214323890967396,41.515506143943824,16.386958845537144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853120601:0467/pct:8.852794849282997,9.7381079636558,13.842551946151595,5.462319615179049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3280,7 +3280,7 @@ upon which the ditlerence of opinion arises, as
 well as the decisions, would then come tally be­  
 fore tho public, and afford thebest data lor it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1853120701:0296/pct:57.48502994011976,10.540279787747226,18.847305389221557,7.018813314037627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1853120701:0296/pct:43.12022757897889,7.911239749155813,14.148824674352449,5.258080077182827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3304,7 +3304,7 @@ tious. The principles upon which the difference of toe
 pinmoa a ises, as well as the decisione, would then com  
 fully before the public, and allord the best data for i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853120701:0831/pct:14.04189294026377,152.70690728064716,44.685802948021724,13.814561294337274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853120701:0831/pct:3.511835467597982,38.17672682016179,11.175785797438882,3.4536403235843185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3433,7 +3433,7 @@ differehoe rir opinion arises, as well tlio decis­
 ions, would then C &#x27;lne fully before lite pub­  
 lic, and afford the beat (Inn for itf judgment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1853121601:0246/pct:64.8066783831283,31.171548117154813,18.51933216168717,5.768081291093844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1853121601:0246/pct:48.64805451747637,23.386132695756128,13.893163332600572,4.318589360430365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3484,7 +3484,7 @@ well as the decisions, would then come fully be
 fore the public, and afford the best data for its  
 judgment.&quot; purkss Writings of Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1853122101:0304/pct:94.11940298507463,77.66897540004777,16.134328358208954,7.463577740625746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1853122101:0304/pct:70.61809495371753,58.25173155003583,12.108091967751568,5.60066873656556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3541,7 +3541,7 @@ In surrendering my interest in the organ
 of a great political party, 1 cherished the  
 purpose of continuing the Congressiona
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1853122201:0080/pct:27.772835112692764,11.832220367278797,18.801897983392646,10.653171953255425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:0023728172A:1853122201:0080/pct:20.84260495475449,8.879382303839733,14.107699154428126,7.992487479131887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3563,7 +3563,7 @@ ing their papers with scurrility and nonsens­
 ical declamation, wh&#x27;ch fevr would read if  
 they were apprised of the contents) publis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1853122301:0255/pct:12.89612676056338,19.80991980991981,18.639964788732396,5.509355509355509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00296026815:1853122301:0255/pct:9.68736239542052,14.864864864864865,13.980625275209158,4.128304128304128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3638,7 +3638,7 @@ pinions arrises, as well as the decisions, would
 then come fully before the public, and afford  
 the best data for its judgement. opark s w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1853122901:0045/pct:43.185642176107685,86.41791044776119,16.194615816040383,6.652452025586354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1853122901:0045/pct:32.402861551409735,64.81876332622602,12.161593491373264,4.9893390191897655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3690,7 +3690,7 @@ well as the decisions, would then come fully be
 fore the public, and afford the best data lor its  
 judgment.&quot; Sparks&#x27; Writings of Washingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1854011101:0318/pct:92.0481220657277,76.76089517078917,16.094483568075116,7.597173144876325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1854011101:0318/pct:69.05355832721936,57.5736160188457,12.076302274394717,5.7008244994110715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3715,7 +3715,7 @@ Congrpta an a  rest sational quertions. The
 I opink  
 arises, as well as the decisions, would then co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn84020177:00202190285:1854020301:0027/pct:76.7018779342723,36.6945107398568,41.021126760563384,15.349045346062052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn84020177:00202190285:1854020301:0027/pct:25.567292644757433,12.231503579952268,13.673708920187794,5.116348448687351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3747,7 +3747,7 @@ then, that the southern or eastern parts of the
 empire will succeed in all their measures)1 Ccr- I  
 tainly not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014015:0041566106A:1857092601:0076/pct:39.094406629180234,59.344157911493156,15.28558745190885,4.457179242279529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014015:0041566106A:1857092601:0076/pct:39.09933905494722,59.344157911493156,15.290519877675841,4.464254129965687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3838,7 +3838,7 @@ of.our Supreme Court.
 The Republicans of the &quot;irrepressible&quot;  
 school, and that comprehends almost th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1860022901:0480/pct:76.38015373864431,24.38582880786139,16.73654786862334,50.8921644685803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1860022901:0480/pct:57.30513806361412,18.295836565813293,12.565536525690318,38.16912335143522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3925,7 +3925,7 @@ to join her, gain by a separation ? Would
 they not, most unquestionably, be the weaker  
 party?”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860030901:0288/pct:38.61464968152866,52.29272811486799,13.837579617834395,39.05743399722093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860030901:0288/pct:38.61995753715499,52.300447738150375,13.842887473460722,39.061293808862125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3968,7 +3968,7 @@ abrium of the Union is to be overthrown, if the Con­
 stitutional equality of the States is to be beaten  
 down, if the powers of the F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293307:1860103001:0420/pct:116.4459161147903,327.27272727272725,44.42604856512141,50.51860890787065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293307:1860103001:0420/pct:29.123533471359558,81.81818181818181,11.11111111111111,12.629652226967663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4030,7 +4030,7 @@ siderations, what would Virginia and such
 other states as might be inclined to join her.  
 gain by a separation? Would they not, mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1861052401:0510/pct:217.4364896073903,95.53997764909073,56.40877598152425,99.80696941989231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1861052401:0510/pct:54.35912240184758,23.884994412272682,14.102193995381063,24.951742354973078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4047,7 +4047,7 @@ gain by a separation? Would they not, mos
 ! into Confederacy ; and on their  
 j safety and importance depend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1861073101:0232/pct:23.396017699115045,77.5957544993078,17.07688053097345,2.445777572681126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85025182:00212477886:1861073101:0232/pct:17.549439911492186,58.20258421781264,12.81980362328862,1.8343331795108444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4228,7 +4228,7 @@ on their union our safety and importance
 slepend. A spirit of accommodation was  
 the basis of the present Constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:20.11704462326262,365.16185222818984,43.964886613021214,11.554652344317027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:5.031101353823637,91.29046305704746,10.995243322356385,2.888663086079257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4247,7 +4247,7 @@ wwill they be less so in separation?a
 hat would Virginia, and such other  
 States as might be inclined to joinhor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:19.89758595464521,376.48425025402815,44.47695683979517,8.012773987516331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:4.976216611781925,94.12106256350704,11.123307720453713,2.0031934968790828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

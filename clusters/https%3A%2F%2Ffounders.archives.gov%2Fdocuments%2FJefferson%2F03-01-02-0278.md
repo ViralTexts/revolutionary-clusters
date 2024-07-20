@@ -72,7 +72,7 @@ and to come.
   
 THOMAS JEFFERS ON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811070301:0594/pct:30.348090571138897,6.75901365556538,45.15038864481244,87.34649769132528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811070301:0594/pct:30.342963338401756,6.758349705304519,45.14839218336431,87.34119187950229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ public esteem m return for your useful services,
 past and to come.  
 Tit. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070901:0076/pct:4.137678506041743,4.743716116313455,18.528011717319664,13.023656973878758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070901:0076/pct:4.136921105619623,4.743131698903536,18.53072182561474,13.02615908997577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ health and the public esteem in return iur
 ycur useful services, past and to come.  
 TH : j i^k r is»\£&gt;ON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811071101:0232/pct:3.879149571055576,41.29359543436905,17.21372622155912,15.611921369689284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811071101:0232/pct:3.8784262539623344,41.28835911742328,17.2167319286469,15.614168568771662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ pablic eftecem in return for your ufeful
 services, past and to come. - .  
 - . _TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811073001:0122/pct:25.723124516627998,39.32804388284847,16.365042536736272,20.824762464492114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811073001:0122/pct:25.723124516627998,39.33457406863225,16.37019850476927,20.824762464492114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

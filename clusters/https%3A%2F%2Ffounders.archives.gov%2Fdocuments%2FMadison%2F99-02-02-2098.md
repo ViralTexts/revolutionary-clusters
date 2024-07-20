@@ -249,7 +249,7 @@ stamped with wisdom ami with virtue; and that this character
 may he ensured to it, by tliul watchfulness over  
 public servants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836072901:0418/pct:0.5870020964360587,2.2226632268307203,37.9874213836478,96.23933320103195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836072901:0418/pct:0.5916608432331703,2.229278295958193,37.99208013044491,96.23933320103195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ vk contewplating the wwment at whioh
 the curtain is to drop forever on the publie  
 scencs of my life, my scusations anbiclpale,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836080401:0133/pct:80.13990786555195,48.62124397180661,16.17471421259171,45.443304068257696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836080401:0133/pct:80.15128248876756,48.62536581344545,16.17471421259171,45.45154775153539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ me.
 in,mg (lie Inglii&#x27;si as wall as 11,11, * -1 eii|o\iiieiits  
 dial rail sweete
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836080401:0009/pct:19.550909794812235,55.217137860682016,15.176151761517616,16.21976100262314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836080401:0009/pct:19.547125991871493,55.20909223371704,15.17805302883685,16.221040361358007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ ill(* a i on si ion1&#x27; ini&#x27; l It) *d OIH* of I h«* liohlrsf ini j ti*�
 mi nis to |m i form lln in ; that, in Inn*, l hit happi­  
 ness of tin people of Nun l o a, UlldiT 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836080401:0009/pct:19.396051103368176,3.832701836199359,30.720092915214867,93.71903235208394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836080401:0009/pct:19.392297271143796,3.8321433775316915,30.718985871879234,93.70901937928019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -668,7 +668,7 @@ which could give value to my inferior
 qualifications for (he trust, these cir  
 cumstances
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1836081201:0218/pct:25.761648745519715,16.457247931351517,37.67921146953405,107.7995709469813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1836081201:0218/pct:19.345438242546514,12.350597609561753,28.289621161174626,80.84584737971193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ mutual relation of the parts, that msy givo
 to the whole a more entire independence,  
 ihan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290173:1836081201:0103/pct:84.8936170212766,20.92289192845333,38.340425531914896,102.13437546971291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290173:1836081201:0103/pct:63.694403064481804,15.692168946339997,28.750798042136626,76.61205471215993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1127,7 +1127,7 @@ relation of the parts, that may give to the
 vvhole u more entire independence, than lias  
 l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836081601:0133/pct:18.923098551947138,9.28919182083739,35.245325460424574,89.8442064264849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836081601:0133/pct:18.932471062374056,9.295683219733853,35.254697970851495,89.8442064264849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,7 +1433,7 @@ desires. All its essential interest. arc the same,
 whilst the diversities aiising from climate, from  
 soil, and from other local nml
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1836121701:0013/pct:23.811379579111456,13.727907932593507,56.33281371784879,115.34456774900671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1836121701:0013/pct:17.87524366471735,10.302781202904507,42.26120857699805,86.50500068502535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1459,7 +1459,7 @@ commending it to the applause, the affection, and
 tho adoption of every nation which is yet a stran­  
 ger to it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853121001:0835/pct:81.23711340206185,14.080186184280123,15.587628865979381,8.008039775732572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853121001:0835/pct:81.24627720504009,14.080186184280123,15.583046964490263,8.018618428012271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1601,7 @@ Union man, a firm and determined defender
 of the constitution of the land, and around  
 whom may rally all the people of the Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033371:00212470302:1867032201:0255/pct:52.16773276474769,74.3815752061416,14.76545842217484,12.994029001990333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033371:00212470302:1867032201:0255/pct:39.1327527990048,55.7861814046062,11.089390438955038,9.752630082456639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1642,7 +1642,7 @@ the State&#x27; who desire the full and complete
 restoration of peace, prosperity and hap-;  
 piness of o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:0021247020A:1867032201:0259/pct:12.592382035247299,37.426771305405104,17.907902217168846,22.92472642865038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:0021247020A:1867032201:0259/pct:9.454080181973273,28.07560517298552,13.434745521751493,17.188018127556095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1665,7 +1665,7 @@ made complete by the careful preservation and
 prudent use oflhis bleuim- in thnrt . pn....  
 tien ef all who oppose the tendencies and ruin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867040301:0319/pct:11.353211009174313,27.946830715148852,13.761467889908257,3.6691200703064926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867040301:0319/pct:8.517350157728707,20.96012303636164,10.324060797246917,2.757332747445897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1706,7 +1706,7 @@ the State who desire the full and complete
 restoration-of peace, prosperity and hap  
 piness of our belo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:0021247020A:1867041201:0274/pct:14.053254437869823,62.462193346028904,18.742603550295858,23.03125350061611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:0021247020A:1867041201:0274/pct:10.55045871559633,46.84664500952167,14.057413435927788,17.284642097009073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1732,7 +1732,7 @@ the form of a triangle. The badges are of white ground
 with dark blue borders, and red lettering on the white,  
 indicating the names of the States of the Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872071001:0515/pct:102.85152409046215,184.9727093252816,47.295968534906585,16.88537916618279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872071001:0515/pct:34.28384136348738,61.65756977509387,15.765322844968862,5.62845972206093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1759,7 +1759,7 @@ I those out of whom a choice is to be
 made.&quot;  
 William Butler is a negro Justic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193778:1875031101:0371/pct:17.964912280701753,20.321346595256312,13.871345029239766,8.967100229533282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193778:1875031101:0371/pct:17.970760233918128,20.321346595256312,13.88888888888889,8.982402448355012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

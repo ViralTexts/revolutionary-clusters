@@ -856,7 +856,7 @@ take, they run in danger cf an attaint.”
 meaning, that a jury may take on them the  
 knowledge of the law if they will, that the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1771050901:0081/pct:4.7219950940310715,87.85937944776545,26.43090760425184,18.78736122971819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1771050901:0081/pct:3.664783228600095,68.09574585432217,20.4837091408354,14.556752583005478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,7 +888,7 @@ be the meaning of these words, that the
 court are Io far the foie judges of the law.  
 as to rejefl a vercid of the jury for not im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772012301:0171/pct:9.071729957805907,63.02633337789066,26.582278481012658,18.07245020719155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772012301:0171/pct:7.030739045127534,48.84491867813115,20.601700457815564,14.012914810594289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -916,7 +916,7 @@ monly recommended to the jury to state last
 and circumstances in a special verdid,” e­  
 vidently implies the right of the jurors t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772012301:0171/pct:9.135021097046414,84.09303569041572,26.39240506329114,13.928619168560353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772012301:0171/pct:7.079790712884238,65.17490244828896,20.470896010464354,10.801477951586726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ witnefles you ought to find him guilty of
 nun (laughter only.” This is the conttant  
 invariable course of pradice. It gives th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772012301:0171/pct:36.81434599156118,89.98796952279108,26.160337552742615,8.929287528405293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772012301:0171/pct:28.531720078482667,69.74343036707069,20.285589710050143,6.916675299561449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -967,7 +967,7 @@ you to these things t Ta (hsw how it ap­
 plies to the matter in difpuce, would be an  
 affront to the understanding of the reader
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772012301:0171/pct:64.15611814345992,40.983825691752436,26.0126582278481,13.995455153054404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772012301:0171/pct:49.722040549378676,31.762146482958666,20.16023544800523,10.853275320280396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2000,7 +2000,7 @@ dict generally:
 &quot; Hut on the other hand 1 think it  
 seems clear, that questions of law gene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805072401:0001/pct:59.546436285097194,55.86738203329206,17.883369330453565,4.801210620442977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805072401:0001/pct:59.55363570914327,55.871967716788184,17.897768178545718,4.810381987435227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2048,7 +2048,7 @@ as a fettled and allowed rule. ~ From the docs
 trine that-juries; in the case of libels, are not  
 judges of law as well as fact, neceflarily flows th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806102801:0385/pct:32.92929292929293,77.27585867532723,26.48018648018648,5.944296821179018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806102801:0385/pct:32.93965293965294,77.27585867532723,26.48018648018648,5.950857855197979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3200,7 +3200,7 @@ almost a mere firce. ]
 Sie Micheal Foster, who wrote his treatise on  
 Crown law, about the period of the Scoteh Re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1844080701:0153/pct:30.34537305562879,6.889824417291303,12.602161877142104,7.557244070233083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1844080701:0153/pct:30.349767114860708,6.889824417291303,12.602161877142104,7.567512064893727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3498,7 +3498,7 @@ liials by jury, says tiie tormer, &quot;in civil
 causes, could not -subsist now without a power,  
 somewhere, o grant new tii .Is.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471392:1854111801:0120/pct:49.0070467648943,57.93111392696694,20.211402946828954,1.9122220942287755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471392:1854111801:0120/pct:36.76706183915412,43.451215297776756,15.171419416853572,1.4399262757746802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3766,7 +3766,7 @@ Common Lows from time to time declared in
 the Courts of Justice.&quot;  
 The Commercial indorses the definition a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775344:1860072501:0919/pct:7.32,24.670548574931043,16.26,3.0340177750536315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775344:1860072501:0919/pct:5.501100220044009,18.5105730922464,12.20244048809762,2.283174992338339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3785,7 +3785,7 @@ Common Laws from time to time declared in
 the Courts of Justice.&quot;  
 The Comimercial indorses the definition a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860072801:0094/pct:111.59114857744994,254.0414727041896,43.41412012644889,8.040626322471434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860072801:0094/pct:27.90881539069706,63.5103681760474,10.85782052971406,2.0101565806178585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4084,7 +4084,7 @@ clear, the jury, under the direction of the
   
 Court, in point of law may, and if they
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867122001:0550/pct:22.174181593576282,285.54558873623256,37.73934527486102,4.859770636993301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867122001:0550/pct:5.543545398394071,71.38639718405814,9.434836318715256,1.2149426592483252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4107,7 +4107,7 @@ as it is put in their charge.&quot; And the
   
 eves te and it to than the mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867122001:0550/pct:21.98888202594194,319.79107528102645,76.77578752316245,22.663790166912683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867122001:0550/pct:5.497220506485485,79.94776882025661,19.193946880790612,5.665947541728171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4182,7 +4182,7 @@ said, It cannot bo set right by attaint. But thoro hath
 yet been uo instance ol granting a now trial whore tho  
 priaouor was acquitted upon tho first.” But uot onl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874102001:0002/pct:43.239263803680984,18.954124976401737,13.276073619631902,2.6618840853313195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874102001:0002/pct:43.24539877300614,18.954124976401737,13.276073619631902,2.676043043232018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -49,7 +49,7 @@ shall be deemed and taken to be inhabitants
 of the town of Chelsea, in the same way and  
 manner as they would have been had they re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826040501:0159/pct:25.553524273816777,24.182259677188974,19.642494413975218,12.412512498214541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826040501:0159/pct:19.80899407042032,18.741005866942178,15.222752794248832,9.619571233533819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -84,7 +84,7 @@ paitof cither of said towns, and shall there
 do duty, and receive the same privileges as  
 other inhabitants, saving that they shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826071901:0219/pct:23.64451691805952,51.54490326306671,19.669792091316754,14.481663297718741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826071901:0219/pct:18.335000789847822,39.947780678851174,15.249328629350746,11.22715404699739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ way and manner as if this consent had not been
 granted. Provided also, That the provisions  
 of this act shall not go into effect until the build
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828030501:0559/pct:24.09377462568952,109.68519568916619,19.38534278959811,8.550765740215542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828030501:0559/pct:18.682884625171763,85.00989083449338,15.023665326479719,6.630522382592131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ United States in and over the said land, in man­
 ner and form as set forth in the first section of  
 this Act.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828062501:0623/pct:23.417721518987342,86.4267497874752,19.462025316455698,15.698498158118447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828062501:0623/pct:18.153484569793584,66.98876322242964,15.08788064582056,12.173785732586655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ the Courts of this Commonwealth shall
 have jurisdiction of all offences against the  
 laws thereof, committed on said land, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829031701:0220/pct:33.46236559139785,65.43192421886046,19.892473118279568,11.126820302559027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1829031701:0220/pct:25.933333333333334,50.7140509149348,15.427777777777777,8.62704992877753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ may be -reeled thereon, in the same way and ntan­
 ner as if the jurisdiction had not been granted as  
 aforesaid. Provided, That the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1832032801:0097/pct:54.36875231395779,107.4949553185356,15.586819696408737,5.736523493802249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021207:0051717192A:1832032801:0097/pct:42.13571804313519,83.31161335964553,12.08933097412845,4.449491752615706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ and criminal process, issued under authority of
 the State of Illinois, in the same way and manner  
 a if jurisdiction had not been ceded an aforesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879919:1867020401:0569/pct:7.978075517661389,59.63726484172581,16.519488428745433,3.6160865157147684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879919:1867020401:0569/pct:5.986290936785986,44.73358116480793,12.3990860624524,2.7148811535428634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ way and manner as if jurisdiction had not
 been ceded as aforesaid; and provided fur­  
 ther that nothing in this act shall be s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029581A:1868060401:0408/pct:122.23865877712032,313.7863351715114,51.824457593688365,29.498083933077858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029581A:1868060401:0408/pct:30.56343237578597,78.44658379287785,12.95771174947602,7.3745209832694645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ may be executed on said land, in the same way and
 manner as if jurisdiction had not been ceded as  
 aforesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340652:1871060201:0090/pct:3.8585209003215435,16.174520911172714,11.045016077170418,2.687718452452694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340652:1871060201:0090/pct:3.8579006590580294,16.172571704025067,11.04725928307346,2.690407327066763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ manner as if jurisdiction had not
 been ceded as aforesaid; and, provided  
 further, that nothing in this act shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1872022801:0135/pct:47.244962216624685,49.369369369369366,12.720403022670025,6.589446589446589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1872022801:0135/pct:35.44323728546686,37.027027027027025,9.541804440245631,4.942084942084942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ all state county and municipal taxation and asses­
 Scnt so long as the same shall remain the property  
 of the United States of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685324:1889082901:0281/pct:6.840321897501059,19.66401679916004,14.739517153748412,5.444727763611819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685324:1889082901:0281/pct:6.838873597289858,19.66106778644271,14.741689604065213,5.4476604679064184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ ment, so long as the same shull remain
 the property of the United States of  
 America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn85036014:00514155847:1889090101:0417/pct:43.58343583435834,41.343629343629345,12.546125461254613,7.984555984555985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn85036014:00514155847:1889090101:0417/pct:43.574502971920474,41.337245213094505,12.548678007788482,7.987183446571958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ and in the buildings thereon, in the same
 way and manner as if jurisdiction had not  
 been ceded as aforesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206537437:1897050301:0051/pct:45.490443847733374,33.601160584756165,12.620439109145474,6.75147862961723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206537437:1897050301:0051/pct:45.495708945400935,33.601160584756165,12.615174011477913,6.75147862961723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ ment buildings. In tho case of our new post-
 Office building, If the government regards  
 any or all of the pri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871921:1899070901:0102/pct:39.488766620816136,27.097661623108667,17.182485098578635,18.853163686382395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871921:1899070901:0102/pct:29.6262325154781,20.323246217331498,12.898417794083926,14.142022008253095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

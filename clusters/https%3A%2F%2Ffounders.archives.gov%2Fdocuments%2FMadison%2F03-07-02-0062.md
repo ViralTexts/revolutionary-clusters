@@ -72,7 +72,7 @@ government to defend the seu-&#x27; oust of this state:-.
 In this hope and in this expeftnticu we huvd  
 been disappointed—timl alier ti e lapse of \
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813120101:0685/pct:74.36281859070465,50.77198114740777,21.914042978510743,7.541036892572729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813120101:0685/pct:74.34424181863602,50.76373090672733,21.914813889582813,7.543873903152421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ we wish not to exeite irritation* pr to throw
 lint imidnoiis reflections—(hit the eireumstane*  
 of (lie times—the dangers to which we ore ex*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813120101:0685/pct:74.2128935532234,60.23078173248822,22.213893053473264,16.235982447586544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813120101:0685/pct:74.19435423432425,60.22099447513812,22.214589058206347,16.23740656483588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ vWith the department of war of the United
 .ynediate effect to the mode of protection and  
 defeudfe therein pointed out. . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813120101:0686/pct:1.5756035578144854,1.984582581597507,22.795425667090218,16.38510742988355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813120101:0686/pct:1.5752032520325203,1.984257133486389,22.795985772357724,16.38652017054772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ the department of war of the United Slates, end ear­
 nest :&gt;• entreat you to give immediate effect to tile mode  
 of protection and defence therein pointed out
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813120801:0694/pct:25.700334104343355,3.720164609053498,22.256489334361348,22.930041152263374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813120801:0694/pct:25.693730729701954,3.719552337063858,22.257194244604317,22.930381830151415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ or at what place they may land and
 plunder our towns and country on the  
 sea hoard.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813121401:0170/pct:38.853308935651114,70.74267878454053,17.13937175968283,5.214357844487285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813121401:0170/pct:38.84738527214515,70.73618505599413,17.141840727753216,5.216938987822043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

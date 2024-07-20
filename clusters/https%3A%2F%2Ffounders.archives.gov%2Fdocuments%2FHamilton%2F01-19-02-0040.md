@@ -104,7 +104,7 @@ ces as shall be awarded by the said Commis­
 sioners, and on condition of {uch releases or  
 allignments to be given by the creditor or clai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:67.90684048630438,58.458608939667265,18.95415262926615,7.386249749448788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:67.91172306039743,58.458608939667265,18.95903520335921,7.386249749448788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ in London, exaftly in the manner diretted with
 re{pet to those mentioned in the, ‘pr;&#x27;ccediag. ar~:  
 ticle, and after having taken the fame oath o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:67.70177237439579,74.05291641611545,19.408232019920902,17.067548606935258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:67.70177237439579,74.05291641611545,19.422879742200088,17.07757065544197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ any dedutlion, at such -place or, and at places
 {aid Commiflioners, and on conditicn of such  
 releales or aflignments to be given by the clai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:12.27992306554224,5.6716417910447765,19.63308181683681,11.27363184079602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:12.27992306554224,5.6716417910447765,19.638013512847067,11.283582089552239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ releales or aflignments to be given by the clai
 tsiued by irregular captures or conuemnatipns of their  
 vessels and other property under colour of authorit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795080401:0002/pct:29.915433403805498,54.66016150740242,20.850951374207188,1.278600269179004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795080401:0002/pct:29.935253699788582,54.66436742934051,20.844344608879492,1.2912180349932705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ aid to the claimants ; and his Catholic
 R!ajcﬁy undertakes to cause the fame to  
 be paid in specie; without deduftion, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796041601:0061/pct:74.16911423713093,46.5308974742937,15.81388158911733,10.621942697414395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796041601:0061/pct:74.1742670170557,46.53422515057735,15.824187148966868,10.628598049981697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ tlie ftroducr of any colony belonging to
 France, or carrying provisions or other sup­  
 plies for the use of such colony;” are s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0239/pct:57.93027924803796,42.04431017119839,17.28417594451542,2.404330312185297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0239/pct:57.91970802919708,42.039018250472,17.287104622871045,2.408223201174743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ sioners, and on condition of such re­
 leases or assignments to be given, as  
 they shall direct: provided, that no suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823032901:0036/pct:40.43760129659643,64.11971830985915,18.39546191247974,15.193661971830986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823032901:0036/pct:40.42668106940319,64.10843161415244,18.397245476640563,15.195388135891568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ ble losses and damages, by reason of ir­
 nations of their vessels and other proper­  
 ty, under the color of authority or com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1835030501:1039/pct:81.00309172105806,28.066476497581544,15.029199587770526,4.316011410145108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1835030501:1039/pct:81.01454253979159,28.066476497581544,15.040650406504065,4.316011410145108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ months is also assigned for the recep­
 ‘ver authorized to extend the same in  
 ‘particular cases. They shall receiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1835030501:1039/pct:81.00309172105806,37.343420563065855,15.115080728272071,14.758774649634132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1835030501:1039/pct:81.01454253979159,37.343420563065855,15.12080613763884,14.767042870726364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ his Majesty, two of them by the Presi­
 ‘the advice and consent of the Senate  
 ‘thereol; and the Fifth by the unanimou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1835030501:1039/pct:81.00309172105806,53.96254495845219,15.14943318447269,17.474885278432346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1835030501:1039/pct:81.01454253979159,53.9666790689983,15.14370777510592,17.47901938897846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -760,7 +760,7 @@ as shall be awarded by said Commissioners, and
 on condition of such releases or assignments, to  
 be given as they shall direct.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848061501:0896/pct:105.98373353989156,110.06746237675142,19.519752130131682,12.285936689154125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848061501:0896/pct:79.52344052692754,82.55059678256357,14.645486245641225,9.224182667358589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ captures or condemnations of their vessels and other
 property, under color of authority or commissions from  
 the Fruncli republic or its agents. And ail captures an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859020101:0109/pct:78.64297253634895,20.050282840980515,15.55735056542811,2.501571338780641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661101:1859020101:0109/pct:78.65374259558428,20.05866331447727,15.551965535810448,2.5057615755290175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ the manifest dolay or wegligence, or wilful
 omission of the clalmant.&quot;  
 This treaty posaceess all the authorlty of la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863082601:0195/pct:42.075471698113205,19.95888618949729,95.84905660377359,363.0723229302934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053570:00237288865:1863082601:0195/pct:10.52134937485256,4.989721547374322,23.967916961547534,90.76808073257335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ Is our situation such as to authorize us to pretend to
 impose humiliating conditions on other nations!&quot;  
 It has been remarked, that it is the part o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530923:1869061001:0302/pct:248.92638036809817,13.264305177111716,47.5,29.91825613079019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530923:1869061001:0302/pct:82.97546012269939,4.421435059037239,15.833333333333334,9.97275204359673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

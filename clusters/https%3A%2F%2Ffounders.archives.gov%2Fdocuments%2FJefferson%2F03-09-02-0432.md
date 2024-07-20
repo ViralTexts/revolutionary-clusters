@@ -75,7 +75,7 @@ ding work on the Understanding or I lemcnts
 of Ideology : with an \ti dyticalTable, and  
 an Introduction on the Faculty of the Wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817022201:0391/pct:33.5431505714759,62.33452138492871,14.908066920655955,1.960285132382892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817022201:0391/pct:33.53759523020868,62.32658775614102,14.911118471900188,1.964278138390395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ the \tneriear% Philosophical Society—Trans­
 lated from the unpublished French origin­  
 al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817022201:0391/pct:34.20573132350505,64.24389002036659,14.328308762630446,2.291242362525458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817022201:0391/pct:34.20006624710169,64.23571337660685,14.331456332118803,2.295193245937805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ to read nothing, and which may he trusted with
 any thing, so long as its reason remains unlet­  
 tered by law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817022201:0391/pct:33.62597316547954,66.62423625254583,15.189663740268346,24.516293279022403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817022201:0391/pct:33.620404107320304,66.61575665012091,15.192668654079718,24.517415468160028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ he institute of Trance, and oj the American Phi­
 losophical Society, translateI front the unpublished  
 Trench original; published by Jo.„ ph Milligan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121201:0256/pct:37.2093023255814,61.28800574575054,14.457635387867946,3.674886282020589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121201:0256/pct:37.203252032520325,61.28067025733094,14.46070460704607,3.6784360662278077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ A Treaties on Political Kcpnomy, by the Count
 Destutt Tracy, Member of the Senate and Institute of  
 France, and of the American Philosophical Society. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827121301:0432/pct:43.003412969283275,7.1675199428503396,18.088737201365188,1.7621145374449338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827121301:0432/pct:42.99607575499061,7.166666666666667,18.091338224421317,1.7658730158730158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ A Treaties on Political Economy, by the Count
 Destutt Tracy, Member of the Senate and Institute of  
 md of the American Philosophical Society. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827121501:0436/pct:42.878942014242114,7.278177458033573,17.955239064089522,1.774580335731415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827121501:0436/pct:42.87167316494321,7.27730487951085,17.95784596259253,1.7783639052072093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ A Treaties. on Political Economy, by the Count
 Ilestutt Tracy, Member of tire Senate and Institute of  
 France, and ofthe American philosophical Society. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827121701:0440/pct:42.84501782379902,5.661948376353039,17.976574435579696,1.8555965267039372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827121701:0440/pct:42.8377460964019,5.6612749762131305,17.97918081013804,1.8593403108150968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ A Treaties on Political Economy, by the Count
 Destutt Tracy, Member of the Jfenate and Institute^*  
 Fi-ance, and of the American Philosophical Society. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827121801:0444/pct:41.72072379651758,6.923532898636633,17.95834755889382,1.8731475992886781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827121801:0444/pct:41.713603003925584,6.922712185870081,17.960971724412584,1.8768768768768769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ A Treaties on Political Economy, by the Count
 Dcstutt Tracy, Member oftlie Senate and Institute of  
 France, and of the American Philosophical Society. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827121901:0448/pct:42.837814983933704,6.401896858328394,17.858954845256214,1.7545939537640782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827121901:0448/pct:42.83057152519445,6.401137980085348,17.86157141246759,1.758337284653074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ A Treaties on Political Economy, by the Count
 Destult Tracy, Member of the Senate and Institute of  
 France, and of the American Philosophical Society. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827122001:0452/pct:41.32884777123633,6.252983293556086,17.76282590412111,1.7183770883054892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827122001:0452/pct:41.32189707366297,6.252237203197709,17.76544455656464,1.7221493059698525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

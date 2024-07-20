@@ -89,7 +89,7 @@ no others:
 To the Major General commanding the ar­  
 my, and to every officer commanding in chie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842080601:0124/pct:22.097121597806932,65.795912968719,14.979439984335226,6.044573771575954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215713:1842080601:0124/pct:22.094958394517867,65.79156196270334,14.98123674335128,6.046378345016091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ rations authorized to be allowed to a brigadier
 while commander-in-chief, and to each officer  
 while commanding a separate post, by the act o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861848:1842090601:0111/pct:2.9237288135593222,80.72805139186295,15.875706214689265,4.633054311855169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861848:1842090601:0111/pct:2.9237288135593222,80.73454026344818,15.880414312617702,4.636298747647784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ tions authorized to be allowed to a brigadier while
 commander-in chief, and to each officer while  
 commanding a separate post, by the act of Marc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842092301:0611/pct:262.265625,167.8927858568577,56.953125,14.884516680923866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1842092301:0611/pct:65.60484658979871,41.973196464214425,14.246628884111784,3.7211291702309666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ rations authorised to be allowed to a brigadier
 while commander-in-chief, and to each officer  
 while commanding a separate post, by the act o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1842092401:0531/pct:7.826086956521739,11.90075049777914,19.32806324110672,6.693214887425333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1842092401:0531/pct:5.870725439810239,8.929391943636086,14.508796204783554,5.02374023587073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ Se.6. And be it ferther enacted. Tht
 brigadier while commanderinchtef, and  
 to each officer while commanding a sepa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842101101:0345/pct:60.7565011820331,284.4750224349387,52.24586288416076,8.674842955429256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1842101101:0345/pct:15.195112337406385,71.11875560873467,13.066614111154907,2.168710738857314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

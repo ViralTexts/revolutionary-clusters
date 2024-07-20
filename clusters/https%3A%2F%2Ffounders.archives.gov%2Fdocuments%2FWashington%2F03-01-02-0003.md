@@ -123,7 +123,7 @@ dear Patsy,
 Your Affectionate  
 C5FORGE WASHINGTO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829060601:0393/pct:19.151579694710684,10.392887180103328,18.920837770678027,44.16676679082062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829060601:0393/pct:19.148181011535048,10.391638635271503,18.923395445134574,44.1654653211597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -979,7 +979,7 @@ Patsy. Your agectionate
 GEORGE WASILINGTON. |  
 * Prophetical s 1o the duration of the co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829061801:0301/pct:28.21036981973611,13.824831120428605,17.283032893514218,44.89867225716282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829061801:0301/pct:28.21036981973611,13.828713409426198,17.301616799851327,44.89867225716282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ gard, my dear Patay,
 Vour affectionate  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829063001:0063/pct:78.24685293214614,57.25379456406636,14.891003991403132,32.63913401576656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829063001:0063/pct:78.23484267075979,57.247058823529414,14.893834740342799,32.63921568627451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1557,7 +1557,7 @@ its bt:nv a trust too ijreat for my opi
 eity, ami that 1 shail enjoy more real  
 happines* i*1 ore month with yn.j a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1829070101:0897/pct:9.744058500914077,14.941989921481309,18.080438756855575,14.508379233563812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1829070101:0897/pct:9.750152346130408,14.941989921481309,18.09262644728824,14.516192038751514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1658,7 +1658,7 @@ feigned regard, my dear Patsey,
 Your affectionate  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829070201:0114/pct:0.9872751206669592,9.170854271356784,36.48530057042562,85.30150753768844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829070201:0114/pct:0.9870585654748848,9.169574319609211,36.48278131169116,85.29309141660852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1850,7 +1850,7 @@ Webster&#x27;s Dictionary—An abridgment of
 this great American work, has been prepared  
 byMr.j. E. Worcester, of Cambridge, and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1829070901:0096/pct:6.554040301241604,37.5609756097561,18.583350295135354,44.40418118466899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1829070901:0096/pct:6.552706552706553,37.555741360089186,18.584656084656086,44.40147714604236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2487,7 +2487,7 @@ gard, mv dear Patsy, vour aflectionaie,
 &amp;,o.”  
 GEO. WASHINGTON^.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1834041001:0317/pct:1.4824120603015076,5.456948640483383,18.065326633165828,48.30060422960725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1834041001:0317/pct:1.4820396885204723,5.455918444402492,18.06706857573474,48.29620539928261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3112,7 +3112,7 @@ tiio most unfeigned regard, luy dear Patsy.
 Your affectionate,  
 Gkokui: Washinuton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:0023728799A:1876070701:0565/pct:21.06353591160221,17.876648461435995,14.796270718232044,51.325429599040895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:0023728799A:1876070701:0565/pct:15.805838659526689,13.41414679632343,11.107272413197444,38.49740242440389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3215,7 +3215,7 @@ fectionate (}. &quot;jy.
   
 To Martini Washington, June 18,1775.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919921:1876072001:0313/pct:96.98865289496653,12.431631722880583,12.583648530695374,38.833181403828625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919921:1876072001:0313/pct:82.4450764601624,10.570155614386259,10.700300894439636,33.01801510944663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3322,7 +3322,7 @@ gard, my dear Patsy, year affection­
 ate, G. W&quot;.   
 To Martha Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151258:1876072701:0507/pct:66.07335490830637,15.541476935260345,29.28802588996764,78.42011482874678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151258:1876072701:0507/pct:66.08234448040274,15.541476935260345,29.283531103919454,78.42671418201016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3425,7 +3425,7 @@ friends, and to assure you that I am,
 with the most unfeigned regared,  
 dear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1876090701:0071/pct:280.24760832864376,220.16277807921867,37.197523916713564,128.09549647314162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1876090701:0071/pct:70.09148486980999,55.04069451980467,9.303307529908516,32.023874118285406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3508,7 +3508,7 @@ that I am, with tho most unfeigned regard, my
 dear Patsy, j our allectinnate G. W.  
 To Martha Wasiiiw.tox
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:38.11773255813954,41.73100365704998,14.934593023255815,31.924691859677637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:28.607778989458378,31.30163890017608,11.195928753180661,23.946905052146825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3801,7 +3801,7 @@ than I have the most distant prospect of
 finding abroad, if my stay were to be seven  
 times seven years.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897072501:0232/pct:43.56948228882834,62.17611336032389,12.84741144414169,7.216599190283401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897072501:0232/pct:43.57402361489555,62.17948717948718,12.856494096276112,7.219973009446694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3874,7 +3874,7 @@ times seven year*.&quot;
 Ilis devotedncss is best shown In the  
 loving care he took of her all throug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898022201:0371/pct:29.85199664898073,47.744360902255636,14.102206087685005,4.260651629072682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898022201:0371/pct:29.872940519407987,47.744360902255636,14.102206087685005,4.278553526673828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

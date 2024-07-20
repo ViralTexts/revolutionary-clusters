@@ -104,7 +104,7 @@ will peaceably dissipate all combinations to subver a
 constitution dictated by the wisdom and resting on the  
 will of the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.34612432847274,329.95729103111654,51.880276285495015,11.592434411226357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.8637236084453,82.48932275777914,12.975047984644913,2.898108602806589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ dissipate all combinations to subvert Consti­
 tution dictated by tho wisdom and resting on  
 tho will ot the peopl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:66.32492113564669,319.09685266838983,52.36593059936909,22.639501292382544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:16.581230283911673,79.77421316709746,13.091482649842272,5.659875323095636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ memorial to be forwarded to the President of
 the United States, and also to the Senate and to  
 the House of Representatives of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:277.67584097859327,9.49916273405389,122.0756880733945,388.49139899528086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:69.41896024464832,2.3747906835134724,30.518922018348626,97.12284974882022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ binations&#x27;to &quot;ubvert a Constitu­
 tion dictated by the wisdom and  
 resting on the will of the people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84020731:00416157121:1895020601:1125/pct:22.095435684647303,41.53248993674526,16.804979253112034,10.667050028752156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84020731:00416157121:1895020601:1125/pct:16.583644665836445,31.15296147211041,12.619344126193441,8.00747556066705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ people.”
 A novel whose object Is the exploitation .  
 of the silver question is certainty a nove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344672:1895021101:0154/pct:65.47436552546415,35.96860425435104,15.125191619826264,5.517006028893186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344672:1895021101:0154/pct:65.47436552546415,35.97239601107193,15.130869244308181,5.517006028893186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

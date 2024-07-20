@@ -132,7 +132,7 @@ Europe, the depredations on our com­
 merce, the personal injuries to our citizens,  
 and _the general complexion of affairs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:24.786058814376847,70.75,15.590477672319901,3.48/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:24.796431720346455,70.75666666666666,15.580104766350294,3.48/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -661,7 +661,7 @@ Vice-President of the United Statesy and:
 .+ 4 s RIS S  
 - To avhich’ the President mmade” the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797060601:0300/pct:7.931618666255968,6.7167127617542475,33.49761281379948,84.95653891742394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797060601:0300/pct:7.931618666255968,6.720005268010009,33.51814774885774,84.9598314236797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1943,7 +1943,7 @@ the depredations on our commerce, the per­
 {6o4l injuries to our citizens, and the general  
 &#x27;com;&quot;:_!c&#x27;xiqn of affairs, render it my indil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041901:0484/pct:24.87971441874903,22.276645768025077,16.467484091261834,3.928291536050157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041901:0484/pct:24.87971441874903,22.276645768025077,16.47783123803611,3.9348223615464994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1976,7 +1976,7 @@ ment. Attempts 80 wicked, whetever they
 existy* cannot faii-to excite OUR UTMOST  
 ABHORRENCE.” . Suchwas the language
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813081201:0877/pct:6.053067993366501,87.41721854304636,22.139303482587064,5.5648907778985865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813081201:0877/pct:6.058595909342178,87.41721854304636,22.14483139856274,5.571480346611314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1995,7 +1995,7 @@ words:
 personal injury to our citizens and the  
 general complexion of our affairs render i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655120:1897030601:0271/pct:28.595163374561565,39.61129753914989,13.734539412959203,2.20917225950783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655120:1897030601:0271/pct:28.595163374561565,39.614793064876956,13.748384714786782,2.2161633109619685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2015,7 +2015,7 @@ personal injury to our citizens and the gen
   
 eral complezion of our affairs render i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034894:1897060701:0832/pct:214.65968586387436,143.22668481960517,51.57068062827225,9.18992511912866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034894:1897060701:0832/pct:53.70006548788474,35.80667120490129,12.901113294040602,2.297481279782165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

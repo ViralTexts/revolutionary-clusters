@@ -2696,7 +2696,7 @@ Together down they ſink in ſocial fleep; ;
 to her convenience ; for “nought but love can answer  
 love, and render bliss secure.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786011301:0218/pct:36.4986498649865,60.87928464977645,27.07020702070207,1.65424739195231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1786011301:0218/pct:36.4986498649865,60.87928464977645,27.077707770777078,1.669150521609538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5086,7 +5086,7 @@ Miiton
 “ known.” Milton.  
 As the union of hearts is nniversaly allowed to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805010701:0295/pct:6.2564632885212,7.2701011073663935,21.380558428128232,5.970149253731344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805010701:0295/pct:6.2548462134918585,7.2689345314505776,21.38149392607909,5.973202824133504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5683,7 +5683,7 @@ Still find them éapgy 3 : e
 Tl evening comes at last, serene and mild ;  
 Together down they fink in social sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807031001:0462/pct:6.741223982603293,60.88641558183444,16.713264989127058,3.0110305078008546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807031001:0462/pct:6.751579165372269,60.89304051144457,16.70808739774257,3.0044055781907315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6039,7 +6039,7 @@ With boundless confidence ; for nought nut love
 Can answer love, and render bliss secure.  
 Let him ungenerous, who, alone inten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812052701:0627/pct:8.749800415136516,9.085563069685387,21.507264889030814,8.17406645104381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812052701:0627/pct:8.749800415136516,9.09209709562547,21.523231678109532,8.177333464013852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6089,7 +6089,7 @@ Still find them happy ; and consenting Spring
 8! ods her own rosy g land on their heaas ;  
 T cvening comes at lust, serene and mild 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812052701:0627/pct:7.695992335941242,21.748505341566204,21.26776305285007,20.76840145055376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812052701:0627/pct:7.695992335941242,21.748505341566204,21.26776305285007,20.7716684635238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6374,7 +6374,7 @@ And equal transport, free as nature live,
 lilsdainittg fear.”  
 But once establish the principle of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817091201:0134/pct:35.39316658492725,79.83792936623125,14.516920058852378,1.9230769230769231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817091201:0134/pct:35.38738149722131,79.8282742774217,14.519995641277106,1.9268754786955296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6395,7 +6395,7 @@ And equal tramnfport, frec as nature, live,
 Disdaining fear.”  
 But once eftablith the principle of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817091601:0106/pct:41.2973470326637,44.36344969199179,17.205950007667536,4.209445585215605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817091601:0106/pct:41.2973470326637,44.3668720054757,17.21617338853959,4.219712525667351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6494,7 +6494,7 @@ And nothing strike* f oureye but sights of
 blip:  
 All various nature pressing on the heart;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818092901:0244/pct:27.480431563359424,4.470526176974812,35.159720753120375,90.09626796782275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818092901:0244/pct:27.4746192893401,4.469936708860759,35.15933446136492,90.08878340365682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6991,7 +6991,7 @@ Our maker bids increase ; who bids ab­
 stain,  
 Hut our destroyer, foe to&quot;God and man ?”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071587:00542866561:1824062501:0353/pct:9.42350332594235,3.767244428723028,20.482261640798225,14.078528475415634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071587:00542866561:1824062501:0353/pct:9.42089221390967,3.7665782493368702,20.483513438625657,14.080459770114942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7569,7 +7569,7 @@ W-&#x27;ijM mooting thought., and will preventing wilf,
 , WiiklmumlK^i f&#x27;u.&#x27;iliiji.iu:- : for nmiglil fj«i| lovu  
 t.iu uiuwct love, and rum&#x27;ur bliss socure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835102001:0189/pct:80.89312871560901,65.15266760838857,13.549011475183189,4.465935021188743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835102001:0189/pct:80.88194636439037,65.14558887440243,13.55174638282186,4.469071418223961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7800,7 +7800,7 @@ Enamor&#x27;d more, more reineinberauce sweti
 With many a proof of recollected love,  
 Together may they sink in social sleep 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1839102601:0449/pct:66.18473895582329,111.32153718551285,18.313253012048193,6.745922034835499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1839102601:0449/pct:49.65849738850944,83.49460879181642,13.740458015267176,5.059441526126625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8431,7 +8431,7 @@ Unnurtured oft, and foreign to the mind,
 That binds their peace, but harmony itself,  
 Attuning all their passions into love.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1843012001:0683/pct:143.75484871993794,312.473025463962,37.93638479441427,5.697022011221407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1843012001:0683/pct:35.952658129608075,78.1182563659905,9.487776484284051,1.4242555028053518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8690,7 +8690,7 @@ It&#x27;s pomp, its pleasure, and its nonsense all,
 Who in each other clasp whatever fair  
 High flancy forms and lavish hearts can wish T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288312:1844020701:0059/pct:46.65864971654355,63.37328974452113,14.911527228998454,4.383097227267224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288312:1844020701:0059/pct:46.664376109488636,63.377325745651206,14.928706407833706,4.391169229527384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8919,9 +8919,9 @@ Can answer love, render bliss secure.
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1845-03_16_81/page/n30/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1845-03_16_81/page/n30/mode/1up?view=theater)
 
-#### 1845-03-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1845-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -8948,7 +8948,7 @@ Reigns here and revels;”
 His constant lamp, and waves his purple wings,  
 Reigns here and revels.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845030601:0194/pct:97.18681318681318,232.16873101191868,27.794871794871796,2.9913531198878243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845030601:0194/pct:32.39085848227366,77.38053510924173,9.263599960933686,0.9970012073061495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9269,7 +9269,7 @@ love, Together down they sink in socia
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1848-06_7_6/page/n25/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1848-06_7_6/page/n25/mode/1up?view=theater)
 
 #### 1848-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -9571,7 +9571,7 @@ Of human offspring, sole propricty
 In paradise of all things conmnon else.  
 MiL ToN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1852092501:0571/pct:79.37158469945355,68.72270742358079,42.00819672131148,18.395196506550217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1852092501:0571/pct:19.846285226302307,17.180676855895197,10.503842869342442,4.598799126637554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9606,7 +9606,7 @@ Stili tii d them happy ; and consenting Spring
 Shed her rosy garlands o&#x27;er their beads.&quot;  
 SOLITAIRE. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853072301:0076/pct:81.33039323778023,38.29235833858654,12.77104005880191,4.447713104994047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853072301:0076/pct:81.32292145153882,38.28967642526965,12.772929107334251,4.449736190876407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9624,7 +9624,7 @@ Its pomp, its pleasures, and its nonsense all,
 Who in each other clasp whatever lair  
 High fancy forms, and lavish hearts can wish?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028873:1853083101:0672/pct:40.56969026548673,63.426565989577796,16.095132743362832,2.2545995958736573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028873:1853083101:0672/pct:30.44681145386637,47.56992449218335,12.076359109143727,1.690949696905243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9652,7 +9652,7 @@ Its pomp its pleasure, and its nonsense all,
 Who in each other clasp wnuiever  
 High fancy lorms, or lavish hearts can wish 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1855010501:0195/pct:2.7823920265780733,11.88865476322502,18.12015503875969,3.1496062992125986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879166:1855010501:0195/pct:2.0905440952512806,8.916491072418765,13.595458950574553,2.373294887434845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9691,7 +9691,7 @@ High fancy forms, and lavish hearts can wish!&quot;
   
 -Somebody who does not think al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn83026391:00202190108:1855072601:0013/pct:128.1880733944954,226.10164512338426,53.46330275229358,15.951821386603996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn83026391:00202190108:1855072601:0013/pct:42.72935779816514,75.36721504112809,17.821100917431192,5.317273795534665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9807,7 +9807,7 @@ Thought meeting thought, and will preventing will.
 Willi boundless confidence : for nought but lovo  
 Can answer love, and render bliss seenre.*’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93051027:00279557931:1856110101:0226/pct:16.29062305940799,91.14911491149115,15.379838542744773,6.285628562856286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn93051027:00279557931:1856110101:0226/pct:16.306147795487476,91.16036603660366,15.379838542744773,6.274377437743774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9858,7 +9858,7 @@ Or in the mind, or mind-illumin&#x27;d face;
 Truth, goodness, honor, harmony, and love,  
 The richest bounty of indulgent heaven.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290008:1857022501:0182/pct:72.46458923512748,160.89786756453424,34.787535410764875,8.574635241301907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290008:1857022501:0182/pct:18.123848660904066,40.22446689113356,8.700580983420718,2.143658810325477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9879,7 +9879,7 @@ Or in the mind, or mind illumin&#x27;d face;
 Truth, goodness Somnor, harmony, and love,  
 The richest bounty of indulgent heaven.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1857041101:0328/pct:345.98070739549837,100.85099282496246,43.477262287551675,13.766060403804438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1857041101:0328/pct:86.47531572904707,25.208541875208542,10.866819747416763,3.440940940940941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9916,7 +9916,7 @@ their
 passio  
 ns into love.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1857100801:0231/pct:43.36569579288026,60.433700675435475,25.904038272126073,6.861002488446498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1857100801:0231/pct:14.455231930960087,20.144566891811827,8.634679424042025,2.287000829482166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9934,7 +9934,7 @@ ns into love.
 Who in each other clasp whatever falr,  
 High fancy forms, and lavish hearts can wish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn96091000:00212470235:1858012501:0086/pct:136.29782833505686,360.7001458637216,43.22647362978283,6.501354448843509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn96091000:00212470235:1858012501:0086/pct:34.08767619293935,90.1750364659304,10.81081081081081,1.6253386122108773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10010,7 +10010,7 @@ Relations dear, aud all tiie charities
 Of father, son, and brother, first were known,  
 Far be t from me to write the sin or blame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1858050601:0162/pct:61.9622641509434,80.62618197100231,14.279245283018868,13.731876444631226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1858050601:0162/pct:61.97232704402516,80.62618197100231,14.284276729559748,13.731876444631226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10031,7 +10031,7 @@ rhought meetleg thought, and will preventing wil,
 With boundiers c nodence for nought but love  
 Can answer love, and render b iss seeure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858120401:0527/pct:67.8298800436205,94.26264343391415,33.587786259541986,7.607309817254569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858120401:0527/pct:16.962094355058632,23.565660858478537,8.399236433051541,1.9018274543136422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10063,7 +10063,7 @@ by the Hon. C.A. Frazer, Mr. A.M. BURn
 Here love his golden shafts employs here lights  
 His constant lamp, and waves his purpl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1859073001:0783/pct:111.96367763904654,129.72972972972974,53.77979568671964,38.484496766705355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1859073001:0783/pct:27.984566500226965,32.42705570291777,13.441897412619156,9.619529177718833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10100,7 +10100,7 @@ Perpetual fountain of domestic sweets.
 Here love liis golden shafts employ; here light:  
 His constant lamp, and waveshis purple wing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1860012501:0429/pct:45.985136849737174,44.462562848213075,13.141199927496828,13.086017121891562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1860012501:0429/pct:45.97680318956144,44.45652173913044,13.143349039507068,13.087635869565217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10157,7 +10157,7 @@ High fancy forms, and loving hearts can
 wish.  
 CAMPMEETING. The Annual Cam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470478:1860071901:0938/pct:13.27639751552795,363.1704095112285,46.661490683229815,12.787318361955085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470478:1860071901:0938/pct:3.3190993788819876,90.79260237780713,11.665372670807454,3.1968295904887714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10235,7 +10235,7 @@ With boundless confidence: l&#x27;or nought but
 lovo  
 Can answer love, and render bliss secure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861031601:0523/pct:3.770053475935829,10.972154372252076,12.473262032085561,17.254518808011724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861031601:0523/pct:3.7745098039215685,10.972154372252076,12.48663101604278,17.26428920371275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10257,7 +10257,7 @@ Truth, goodness, honor, harmony and love,
 The richest bounty of indulgent heaven.&quot;  
 FOR CAIRO AND ST. LOuIs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861033001:0313/pct:250.76838638858396,159.14119837879286,43.74313940724478,26.026947091685837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861033001:0313/pct:62.71791352093342,39.785299594698216,10.940288263555251,6.506736772921459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10304,7 +10304,7 @@ With boundless confidence; for naught but love
 Can answer leve, and render bliss secure. Thomp­  
 sono o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn84020047:00415661885:1861041201:0027/pct:272.65861027190334,71.89688419770629,34.18932527693857,44.45346594945702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn84020047:00415661885:1861041201:0027/pct:68.18181818181819,17.97422104942657,8.54948375723999,11.113366487364255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10401,7 +10401,7 @@ As Milton says:
 &quot;Our Maker bids increase; who bids abstain,  
 But our destroyer, foe to God and man.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1864021901:0081/pct:69.88602279544091,194.4397641112047,38.63227354529094,4.573354194247202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1864021901:0081/pct:17.474126293685316,48.60994102780118,9.659517024148792,1.1433385485618004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10535,7 +10535,7 @@ Hero love his golden shafts employs, here lights
 His constant lamp, ami waves his purple wings.  
 Reigns here and revels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556677:1866010601:0218/pct:49.0192380233874,36.878861133494496,13.334590720482836,3.3709374160623153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556677:1866010601:0218/pct:49.028668427008675,36.878861133494496,13.34873632591475,3.381009938221864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10553,7 +10553,7 @@ Here love his golden fchaft employs, here lights
 His constant lamp and waves his purple wing.s  
 lleigns here and rcvelc. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:0021247020A:1866011901:0015/pct:47.51025190392502,12.100456621004566,16.886350322202695,1.7123287671232876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:0021247020A:1866011901:0015/pct:35.64312921183709,9.075342465753424,12.672135950776443,1.2899543378995433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10569,7 +10569,7 @@ lleigns here and rcvelc.
 *&#x27; Our Maker bids increase ; who bids abstain  
 But our destroyer, foe to Hod and man.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556677:1866021701:0243/pct:64.69256884194644,21.044856298683857,11.863447755563937,0.8058017727639001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556677:1866021701:0243/pct:64.69256884194644,21.048213806070372,11.872878159185213,0.8091592801504164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10586,7 +10586,7 @@ j Here love his golden shafts employs, here lights
 [ His constant lamp, and waves his purple wings,  
 . Reigns here and revels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1866032001:0058/pct:19.381474253115147,13.140646824970453,14.427263173697643,1.353819705597937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1866032001:0058/pct:19.38647850673072,13.147809892195838,14.42225892008207,1.353819705597937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10626,7 +10626,7 @@ nere love his golden shafts employs, here lights
 His constant, lamp, and waves his purple wings,  
 Reigns here and revels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1866041001:0070/pct:19.021167992793874,34.2645320726335,14.397237652004204,1.278607499731385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1866041001:0070/pct:19.031176500025023,34.2645320726335,14.397237652004204,1.285770566956771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10643,7 +10643,7 @@ Hero love hi., golden shafts employs, here lights
 His constant lamp, and Avaveshis purple wings,  
 Reigns here and revels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1866041701:0074/pct:49.52709803332833,7.220371763188997,14.247110043537006,1.3215859030837005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1866041701:0074/pct:49.5321022869439,7.223953296801691,14.257118550768153,1.3215859030837005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10660,7 +10660,7 @@ Here love bis golden shafts employs, here lights |
 ; His constant lamp, and waves his purple wings,  
 Reigns here and revels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1866042401:0078/pct:48.76736889287315,7.5489881143591395,14.821455251755566,1.3170575008030838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1866042401:0078/pct:48.77732954828428,7.556126637398722,14.821455251755566,1.3134882392832923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10689,7 +10689,7 @@ Can answer love, and render bliss secure.
   
 births;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556677:1866091501:0364/pct:65.0355018230666,31.320495185694636,13.337171368259451,6.09353507565337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556677:1866091501:0364/pct:65.04989445403953,31.323933975240717,13.351563999232393,6.1072902338376895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10706,7 +10706,7 @@ Here love his golden shaft employs, here lights
 His constant lamp and waves his purple wings  
 Eeicrns here and revels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:0021247020A:1867011101:0220/pct:46.225071225071225,25.47221312370346,16.324786324786324,1.550387596899225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:0021247020A:1867011101:0220/pct:34.67730445932469,19.10688939840594,12.252457615044879,1.168249808931106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10730,7 +10730,7 @@ Lov
 The richest bounty of indulgent  
 Heave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1867021601:0627/pct:43.67912641747165,73.01980198019803,40.67618647627047,16.042698019801982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1867021601:0627/pct:10.917488977535166,18.252126836813613,10.166911610329624,4.010054137664347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10831,7 +10831,7 @@ ove
 Can answer love, and render hliss secure.  
 At the residence of the brifes father i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296539:1867081701:0677/pct:334.97067448680355,329.9270072992701,45.16129032258065,32.88803195152183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296539:1867081701:0677/pct:83.75802016498625,82.48175182481752,11.292392300641612,8.222007987880458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10851,7 +10851,7 @@ souros
 Of human joys and sole propriety  
 In paradise of all things common else 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774972:1867100401:0047/pct:211.44859813084113,338.96031302403577,39.3107476635514,10.24035774175517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774972:1867100401:0047/pct:52.885317750182615,84.74007825600894,9.83199415631848,2.5600894354387926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10967,7 +10967,7 @@ With boundless confidence; for nought
 but love  
 Can answer love, and render bliss secure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022184:1870101401:0522/pct:123.14004376367615,276.9473210265646,42.177242888402624,57.81179648806844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022184:1870101401:0522/pct:30.79764673689971,69.23683025664116,10.548638664660007,14.45294912201711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11000,7 +11000,7 @@ and how Brigham Young regards &quot; Hail,
 wedded love ! mysterious law, true  
 source of human offspring.&quot; The cen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dean_ver02:data:sn84038034:00271740566:1872062001:0286/pct:66.87163720215219,58.786978252059974,18.293620292083013,2.0262055923274347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dean_ver02:data:sn84038034:00271740566:1872062001:0286/pct:50.182657181311285,44.09023368904498,13.747356277638916,1.5264082128866676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11017,7 +11017,7 @@ and how Brigham Young regards &quot;Hail,
 wedded love! mysterious law, true  
 source of human offspring.&quot; The ce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1872062101:1164/pct:199.31798806479114,355.41264737406215,67.51918158567774,7.020364415862808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1872062101:1164/pct:49.840119377531444,88.85316184351554,16.8833937326796,1.755091103965702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11045,7 +11045,7 @@ love
 Can answer love, and render bliss secure.&#x27;  
 At the residence of Mrs. Sallie Bond, Tues
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1872102501:0637/pct:60.345773874862786,7.038411174159756,12.678375411635566,5.979921431689219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1872102501:0637/pct:45.284831846259436,5.28153644696639,9.512697323266988,4.484941073766914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11096,7 +11096,7 @@ Can answer love, and render bitss sefure.
 On the 25th ult, by the Rey, O.. Eclenmver.  
 Henry Bryon and Mirs Sarah spangler, both o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776555:1874010801:0723/pct:60.921366163621926,343.9343790473449,49.56314535345512,24.118578212692473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776555:1874010801:0723/pct:15.239419829127757,85.98359476183623,12.398172064375125,6.029644553173118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11126,7 +11126,7 @@ will,
 With boundless confidence; for nought but love  
 Can answer love, and render bliss sccurt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556539:1874011701:0010/pct:33.74896093100582,39.06366482779186,39.56774729842061,18.01103324884449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556539:1874011701:0010/pct:8.442503639010189,9.765916206947965,9.8981077147016,4.502758312211123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11148,7 +11148,7 @@ Unnatural oft, and foreign te the mind
 That binds their peace, but harmony Itself  
 Attuning all tbelr passioas Into lore.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033435:00212470466:1874060601:0506/pct:55.694668820678515,118.10403832991102,11.308562197092083,3.78736025553274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033435:00212470466:1874060601:0506/pct:41.77999192136798,88.58088067533653,8.482563619227145,2.840520191649555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11170,7 +11170,7 @@ Unnatural oft, aud foreign to the mind
 That binds their peace, but harmony itself  
 Attuning aU their passions into lore.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:00296021088:1874061001:0326/pct:38.24763903462749,110.3297161936561,13.929695697796433,3.33889816360601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn85033681:00296021088:1874061001:0326/pct:28.693256363159275,82.75250417362271,10.456573077932301,2.5041736227045077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11189,7 +11189,7 @@ Unnatural oft, and foreigu to tlie mind
 &#x27;1 hat binds their peace,but harmony itself,  
 Attuning all their passions into love.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1874061801:0290/pct:68.44818231144872,88.64176203843662,13.87683125339121,2.6884042323472253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470387:1874061801:0290/pct:51.363821414031754,66.48671993090045,10.408467906093092,2.019002375296912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11211,7 +11211,7 @@ Surprises often, when you look around,
 And nothing strikes the eye but sights of bliss,  
 All various nature pressing on toe heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293101:1874071901:0069/pct:56.83785343335257,295.28563505268994,34.62204270051933,8.563505268996117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293101:1874071901:0069/pct:14.213564213564213,73.82140876317249,8.658008658008658,2.1408763172490293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11235,7 +11235,7 @@ High fancy forms, and lavish hearts can wish.
 Soon we were off, yet bore in mind that  
 &quot;little ship should keep near shore&quot; b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293101:1874110701:0451/pct:108.40046029919448,334.35943866002714,37.054085155350975,11.99637845178814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293101:1874110701:0451/pct:27.10011507479862,83.58985966500678,9.263521288837744,2.999094612947035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11260,7 +11260,7 @@ Enamor&#x27;d more, as more remembrance swells
 With miny a proof of recollected love  
 Together down they sink in social slee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn85034469:00295878800:1875022701:0230/pct:52.17391304347826,348.68699064292184,51.5771526001705,18.834892846362813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn85034469:00295878800:1875022701:0230/pct:13.049040511727078,87.17174766073046,12.899786780383796,4.708723211590703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11288,7 +11288,7 @@ With boundless confidence; for naught but love
 Can answer love, and render bliss secure.&quot;  
 Though world-soured cynics scoff, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1875091701:0765/pct:107.85597381342062,46.51162790697674,42.716857610474634,24.506816359262228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1875091701:0765/pct:26.9695109474115,11.627906976744185,10.681399631675875,6.126704089815557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11304,7 +11304,7 @@ Though world-soured cynics scoff, an
 &quot;Our Maker bids increase; who. bids abstain  
 But our destroyer, foe to Uod and man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn86053227:00294558779:1876020501:0196/pct:34.21232876712329,4.384133611691023,16.01027397260274,1.3262925211838388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn86053227:00294558779:1876020501:0196/pct:34.21232876712329,4.3923206025625285,16.015981735159816,1.3221990257480862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11387,7 +11387,7 @@ Its pomp, its pleasure, and its nonsense
 all?&quot;  
 &quot;Whaley says, &quot;Marriage is a pleas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:206539239:1879021901:0105/pct:3.824678950307091,71.3879781420765,14.014517029592406,2.579234972677596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:206539239:1879021901:0105/pct:2.8766931992738445,53.540983606557376,10.51529116045245,1.9344262295081966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11475,7 +11475,7 @@ Unnatural oft and foreign to the mind
 That binds their peace, but harmony Itself  
 AlluriiiK all their p.us.lons Into love.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_judaspriest_ver01:data:sn84037890:00280763597:1880010701:0286/pct:67.92861907938625,28.50406078071784,14.309539693128752,3.484411841760545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_judaspriest_ver01:data:sn84037890:00280763597:1880010701:0286/pct:50.96763430096763,21.37804558553838,10.744077410744078,2.6198585276395074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11497,7 +11497,7 @@ Thought . meeting thought and wilTprt
 venting will,&quot; .u:i j. ; ;  
 With boundless confidence: &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86090537:00295878198:1880072401:0174/pct:13.42512908777969,106.32897836795888,15.777395295467585,5.707860355536518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86090537:00295878198:1880072401:0174/pct:10.070291206426624,79.74941100878132,11.834743939176589,4.283572499464554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11546,7 +11546,7 @@ Thought seeting thought, and will preventin
 ilf,  
 With boundless confiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fernico_ver01:data:sn84038328:00280763779:1881120201:0650/pct:14.75,57.72539025167251,42.916666666666664,22.809812042051608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fernico_ver01:data:sn84038328:00280763779:1881120201:0650/pct:3.689037098791163,14.431347562918127,10.733639016256774,5.702453010512902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11565,7 +11565,7 @@ Its pomp, its pleasure, and its nonsense all.
 Who in each other clasp whatever fair  
 High fancy forms, and lavish hearts can wish ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958241:1882091001:0003/pct:30.954587581093605,83.66683991683992,11.584800741427248,1.6502079002079002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958241:1882091001:0003/pct:30.954587581093605,83.67008835758836,11.60333642261353,1.6567047817047817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11584,7 +11584,7 @@ Thompson&#x27;s &quot;Seasons:&quot;
 rises round  
 And mingles both their graces.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82016412:00294552091:1883072801:0157/pct:65.9748427672956,66.74248167803891,26.88679245283019,6.520090978013647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82016412:00294552091:1883072801:0157/pct:49.512425290972004,50.06317917614354,20.163573450770684,4.902704068738943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11674,7 +11674,7 @@ With boundless confidence; for nought but
 love  
 Can sever love, and render bliss secure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn83045789:00237281937:1886010601:0626/pct:18.557336621454994,17.519638181385385,12.931565967940815,8.938348012378006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn83045789:00237281937:1886010601:0626/pct:13.920147988284262,13.139728636039038,9.711731154616926,6.71268745536777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11692,7 +11692,7 @@ employs, here lights llis constant lamp, and
 waves his purple wings, Reigns here ami  
 revels. Mr. Price Adams and Miss Nanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:0029455659A:1886111301:0400/pct:18.11320754716981,106.1592449177154,13.349056603773585,2.2265246853823815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:0029455659A:1886111301:0400/pct:13.591316658801322,79.62245885769603,10.020449897750511,1.669893514036786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11978,7 +11978,7 @@ Thought meeting thought, and will preventing
 will,  
 With boucdlf s confidence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052020:00206534163:1893011301:0013/pct:65.42879019908116,60.228632194603215,19.142419601837673,9.331383756480127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052020:00206534163:1893011301:0013/pct:49.090560980279534,45.17812043067925,14.359563469270535,6.995214674996677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12297,7 +12297,7 @@ THOMSOy. .
 Kate was home again, and the prepa­  
 rations looking toward matrimony wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760961:1894052301:0115/pct:13.235294117647058,35.20140105078809,28.163992869875223,9.488934882980416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760961:1894052301:0115/pct:8.827463218903254,23.467600700525395,18.79179670084708,6.336570609775514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

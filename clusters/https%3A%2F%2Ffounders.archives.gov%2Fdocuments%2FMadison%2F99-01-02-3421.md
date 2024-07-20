@@ -81,7 +81,7 @@ ment of hOStilities by the patriots against
 with a cargo the growth and produce of  
 ; Spain, direct to a port in the U. S. withou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808101101:0445/pct:21.294458861242557,2.2786870422280496,24.27110364829797,21.548060403291437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808101101:0445/pct:21.291208791208792,2.278481012658228,24.272486772486772,21.549125979505725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ i HAMBURG, fish-ly 29.
 1 \Ve are assured that intelligence was re­  
 ceived at CoPenhagen, on the 23d, that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808101101:0445/pct:21.294458861242557,23.835789854417218,24.194779422988855,5.5249118365132475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808101101:0445/pct:21.291208791208792,23.83363471971067,24.196174196174198,5.527426160337553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ from such port with a cargo, the I
 growth and produce of Sp iin, direct l  
 to a port in the United Stales, withou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808101201:0003/pct:41.17893853576673,9.628205128205128,19.21543947975666,22.82051282051282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808101201:0003/pct:41.192923571778195,9.632478632478632,19.20145444374519,22.82905982905983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ ties by the patriots against the enPtny, proceed Irom
 such port with a cargo, the growth and produre of  
 Spain, direct to a poll in the United -Stales, with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808101401:0158/pct:45.63472152533868,25.324142458559002,20.597089814350227,13.786312161496799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808101401:0158/pct:45.623275645849006,25.31998687233344,20.598194130925506,13.788152280932064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ i enemy proceed front such port with a cargo,
 ■ a port in the United Slates, without being  
 liable to seizure and condemnation as above 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808101401:0194/pct:40.93598708983324,35.201597803020846,17.64389456697149,19.298464611159655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808101401:0194/pct:40.92864826102546,35.19720419370944,17.64670730249791,19.300216342153437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ the vessel entered in breach of the Orders
 in Council.  
 .. . , August 17. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808101401:0194/pct:40.91805630267169,55.02434153039571,17.64389456697149,5.904381475471227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808101401:0194/pct:40.910720688418785,55.01747378931603,17.64670730249791,5.907804959227825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ the growth and produce of Spain, di­
 rect to a port in tiie United States,  
 without being liable to seizure an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808101401:0338/pct:40.97830224590788,15.258959098391795,17.472401979444232,14.587818158794478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808101401:0338/pct:40.970504281636536,15.257027095467206,17.475420234697115,14.590191609690217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ demnation as above, unless the vessel
 rntered in breach of the orders in coun­  
 :il
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808101401:0338/pct:40.97830224590788,30.555907306572117,17.79596497906357,7.483854628339876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808101401:0338/pct:40.970504281636536,30.552038490757155,17.798921661909294,7.487127542837849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ fceiug liable to foeurc or condemnation as a­
 bove unlef* the vetTel entered in breach of  
 the Orders in Council
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808101701:0485/pct:5.170932829410754,78.33758286588476,17.93506270400275,8.811830698623151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808101701:0485/pct:5.170044658193061,78.32959412604528,17.936276193747855,8.813481541913115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ orders in council.”
 From the London Times.  
 “ We this day enter on the publication o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808122201:0280/pct:40.32258064516129,50.92673218061948,17.227933356965615,12.563751710411744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808122201:0280/pct:40.31543505227716,50.92039800995025,17.230787406226003,12.566334991708127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -593,7 +593,7 @@ pafled to carry them into effe&amp; ?
 from a-port in&#x27;the U. 5. of America with a  
 cargo, the produce of the U. S. or collonia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809011001:0213/pct:76.95910084295973,59.63927855711423,16.312831720262253,8.617234468937875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809011001:0213/pct:76.9695077531481,59.645958583834336,16.323238630450618,8.617234468937875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

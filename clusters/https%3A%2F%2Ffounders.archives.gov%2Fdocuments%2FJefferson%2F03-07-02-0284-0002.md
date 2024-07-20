@@ -6270,7 +6270,7 @@ tune, put myfelf upon the candour, the juftice, 3-,d
 • be humanity of your Lordfhip, and upon yours, my  
 | countrymen, Gentlemen of the jury.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805061401:0050/pct:21.990829193733283,2.4160732451678535,37.351929690485285,94.59562563580874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805061401:0050/pct:21.98662846227316,2.4157660521296886,37.35116205030245,94.58783640601823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9339,7 +9339,7 @@ that age, profound plan, in which it seems and here the hermit, or anchoress, ho
 not unlikely that, if it had been carried ped that repose for their bones, when  
 into effect, he might have anticipated ead the er enoe en lii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853081701:0767/pct:101.7982799061767,55.65816246673971,91.94683346364347,33.74550007825951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853081701:0767/pct:25.449569976544176,13.914540616684928,22.986708365910868,8.436375019564878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9450,7 +9450,7 @@ ton of a man. It is possib
 they may be; but is there any certain because the worid uncharitably believed try whenever I thought best. Now that  
 known criterion which incontestibly disthe father guilty? Why mention the was jest what I liked; you couldn&#x27;t 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853081701:0767/pct:100.62548866301799,175.55172953513852,141.28225175918686,202.78603850367818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853081701:0767/pct:25.156372165754497,43.88793238378463,35.320562939796716,50.696509625919546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9608,7 +9608,7 @@ is happy Coleman who suffered innocently,
  though convicted upon positive evidence;  
 and whose enliuren perianed from walty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853081701:0767/pct:135.1055512118843,56.22163092815777,150.8209538702111,317.2953513851933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853081701:0767/pct:33.77638780297107,14.055407732039443,37.705238467552775,79.32383784629833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9626,7 +9626,7 @@ to ieie o i iie o  ee o e e a e e e i o e e i o eaa ini eae
 and that it will be far from the wisdon  e ee e  a a ee e i ioe e a e i a  
 the learning, and the integrity of this e ea ee ee o ean ee o oa i akne coc to visit the monument 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853081701:0767/pct:149.0226739640344,308.34246360932855,185.22283033620016,8.952887775864767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853081701:0767/pct:37.2556684910086,77.08561590233214,46.30570758405004,2.2382219439661917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9659,7 +9659,7 @@ upon the candor, the humanity of your
 lordship, and upon yours, my countrymen,  
  gentlemen of the jury.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853081701:0767/pct:194.1360437842064,59.85287212396306,47.068021892103204,40.00626076068242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853081701:0767/pct:48.5340109460516,14.963218030990765,11.767005473025801,10.001565190170606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9828,7 +9828,7 @@ Britain. Not the invention of one skeleton,
 then, but of two, would have appeared sus­  
 picious and uncommon. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855022201:0366/pct:36.355633802816904,16.106531388712746,32.46478873239437,107.41915028535193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855022201:0366/pct:27.285538136339618,12.086239695624604,24.361458516822264,80.5580215599239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9856,7 +9856,7 @@ He then adverts to the damage found to
 have been inflicted upou the skull, which he  
 shows might have be m occasioned in the cours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855022201:0366/pct:52.83450704225352,76.67723525681674,15.79225352112676,10.183893468611288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855022201:0366/pct:39.65122423815396,57.5142675967026,11.85485291527215,7.634749524413444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9919,7 +9919,7 @@ Reading, bad not Smith been proved perjured,
 to the satisfaction of the court, by the surgeon  
 of the Gosport Hospital ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855022201:0366/pct:52.92253521126761,87.000634115409,16.267605633802816,36.53772986683576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855022201:0366/pct:39.721683988021844,65.25047558655676,12.20715166461159,27.406467977171847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9950,7 +9950,7 @@ tice and the humanity of your lordship and up
 on yours, my countrymen, gentlemen of the  
 jury.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855022201:0366/pct:68.96126760563381,20.063411540900443,16.003521126760564,12.352568167406467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855022201:0366/pct:51.75268627796371,15.053899809765378,12.013387352474899,9.270767279644895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10162,7 +10162,7 @@ He then proceed to comment upon the Inference
 from the discovery of the skeleton, urging that it  
 could not be identified, and that, as the cave ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111020A:1872071401:0001/pct:56.171702284450994,22.501926534806064,12.34340456890199,7.603390701258669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111020A:1872071401:0001/pct:56.18091378039794,22.511559208836374,12.338798820928519,7.6001798099152325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10188,7 +10188,7 @@ ing the Reformation, when “coffins were broken up,
 graves and vaults were dug open, monuments ran­  
 sacked. and shrines demolished;” and likewise t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111020A:1872071401:0001/pct:56.15327929255711,36.97662471101978,12.214443625644805,4.944772668892885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111020A:1872071401:0001/pct:56.16249078850405,36.98304649370665,12.228260869565217,4.947983560236322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10561,13 +10561,13 @@ is progressive and declines from right, step by
 step, till every regard of probity is lost and  
 every sense of all moral obligation perishes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897081501:0966/pct:71.7814371257485,154.55790595038806,48.952095808383234,4.626388677522447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897081501:0966/pct:17.952077873455636,38.639476487597015,12.24260576563085,1.1565971693806119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Living Age (1897-1941)_](https://archive.org/details/sim_living-age_1897-10-09_215_2779/page/n55/mode/1up?view=theater)
+## [From _The Living age_](https://archive.org/details/sim_living-age_1897-10-09_215_2779/page/n55/mode/1up?view=theater)
 
 #### 1897-10-09 &middot; [Boston](http://dbpedia.org/resource/Boston)
 

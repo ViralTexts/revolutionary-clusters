@@ -208,7 +208,7 @@ entitled, an act reducing into one, the several acts
 concerning wills, the distribution of intestates’estates,  
 and the duty ol Executors avd administrators”—am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811123101:0278/pct:6.52014652014652,18.001722652885444,17.197802197802197,1.9072228374553957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811123101:0278/pct:6.518952572788867,17.999507874015748,17.20075688213392,1.9110892388451444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ Dec 17tT&gt;,entitled “ An act declaring that none
 shall be condemned without jury trial, and that  
 justice shall not be sold or deferred ;” th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817041801:0457/pct:33.36610947230416,61.51484135107472,14.601769911504425,1.4969293756397135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817041801:0457/pct:33.3606423070621,61.50697198413714,14.604839150144738,1.501002089463136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ solvencies, 2, to require that the com­
 missioners appointed for the settlement  
 of executorial and administration ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183621:1822122101:0158/pct:45.38202446374756,71.99899862310677,15.405070023045559,6.834397296282388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183621:1822122101:0158/pct:45.373980857851826,71.98998748435544,15.408247666312182,6.837713808927827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ of executorial and administration ne
 tutes, and tor preventing vexatious and malicious prose­  
 cutions, and moderating amercements,&quot; passed Februar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835012701:0351/pct:81.28031037827353,26.649305555555557,14.964666759041153,0.9006076388888888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835012701:0351/pct:81.26904959822666,26.646414234566564,14.96721160062806,0.9041264330403964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ cutions, and moderating amercements,&quot; passed Februar
 prosecutions, and for preventing vexatious and malicious  
 prosecutions, and moderating amercements,” passed Feb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835022601:0401/pct:80.5315892012246,17.772174103716697,15.01530754244364,0.9319153601578775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835022601:0401/pct:80.52038402671491,17.77022582766937,15.017856314642177,0.9354673682671929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ to be dead, pursuant to the provisions of the act
 entitled “An act declaring when the death of per­  
 sons absenting themselves shad be presumed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340652:1871052601:0086/pct:14.602766162753296,21.113127646702964,10.952074622064973,0.9679370840895342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340652:1871052601:0086/pct:14.600418073645281,21.110573433341397,10.95433349413089,0.9708444229373336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ A further Supplement to the act entitled “An
 act declaring when the death of persons ab­  
 senting themselves shall be presumedpass-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340664:1873051601:0079/pct:27.651155428933208,89.24175283111768,9.876543209876543,0.9724273756770064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340664:1873051601:0079/pct:27.646779553726855,89.23076923076923,9.878936540591866,0.9753846153846154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ meut to au aot entitled * An act declaring when the !
 death of persons absenting themselves shall be pre­  
 sumed,’ ” passed March seventh, one thousand seven 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883040501:0058/pct:61.97773834489434,42.75257979361651,11.14695918696564,1.187904967602592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883040501:0058/pct:61.96774193548387,42.74745050989802,11.149193548387096,1.190761847630474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ plement to an act entitled &#x27;An act declaring
 when the death of persons absenting themselves  
 shall be presumed,’ ” passed March seventh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529613:1883040501:0062/pct:28.70384917517675,19.92021939665919,10.58915946582875,1.2590376464722015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529613:1883040501:0062/pct:28.69934024505184,19.91773650754082,10.591423185673893,1.2619967593169636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ ment to an act entitled ‘An act declaring when
 the death of persons absenting themselves shall  
 be presumed,’ ” passed March seventh, one thou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883042601:0068/pct:15.179606025492468,32.63297090802234,10.93086133642333,1.2635909491625037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883042601:0068/pct:15.176675033790307,32.628176876744526,10.93357791079359,1.2670780079330102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ absenting themselves shall be pre­
 sumed,” passed the seventh day of  
 March, in tho year of our Lord on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn85036014:00514155847:1889090801:0425/pct:44.01903973509934,16.00612088752869,12.044701986754967,2.127008416220352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn85036014:00514155847:1889090801:0425/pct:44.00993171942893,16.003671970624236,12.047382578108834,2.1305079559363524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ to the act entitled ‘ An act declaring when the
 death of persons absenting themselves may be  
 presumed,’” approved March seventh, on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529650:1891052801:0617/pct:4.4564483457123565,3.4562567505014656,14.719783929777178,1.6664095047060639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529650:1891052801:0617/pct:4.455445544554456,3.4557235421166306,14.722097209720973,1.670009256402345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ selves may be presumed,’” approved ftlarch
 seventh, one thousand seven hundred and  
 ninety-seven, which supplement was ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896805:1891060501:0553/pct:38.15439219165927,80.28458769072519,10.869565217391305,1.9715412309274816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896805:1891060501:0553/pct:38.145930361499225,80.27082619129243,10.872699046351741,1.9754885155982174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ selves may be presumed,’ ” approved March
 seventh, one thousand seven hundred and  
 ninety-seven, which supplement was ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85035661:00513685087:1891080801:0754/pct:20.72773352643012,83.05200108902804,12.273714699493121,2.654505853525728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85035661:00513685087:1891080801:0754/pct:20.72398190045249,83.04069688308152,12.276018099547512,2.6575472982169592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ An Act to sruend an act entitled ‘‘A act declar­
 ing when the death of persons absenting them­  
 selves shall he pr &#x27;Burned,” passed .March sev
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895051601:0090/pct:57.1036166641233,71.32655531348342,9.690218220662292,0.8472524812394093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895051601:0090/pct:57.09490387549588,71.31792327241922,9.692554165395178,0.8501754810601476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ act declaring when the death of per­
 sons absenting themselves shall be pre­  
 sumed,” passed March seventh, on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340214:1895052701:0523/pct:26.267123287671232,53.14492753623188,11.13013698630137,1.5072463768115942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340214:1895052701:0523/pct:26.262626262626263,53.13722648891465,11.13251155624037,1.5106506303434284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ daring when the death of persons absenting
   
 themselves shall be presumed,” passed Marc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1895062701:0207/pct:64.58286985539489,3.1834337814866327,29.72191323692992,90.80513058259929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685348:1895062701:0207/pct:64.5685053380783,3.1829419035846724,29.720862989323845,90.7949629171817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ An Act to amend an act entitled &quot;An act de­
 claring wheu the death of persons absenting  
 themselves shall be presumed,” passe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035801:00332896945:1895080601:0046/pct:75.39611360239162,32.62202043132804,9.656203288490284,0.8399545970488081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035801:00332896945:1895080601:0046/pct:75.3848453146017,32.61831801157644,9.658496487819459,0.8426966292134831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

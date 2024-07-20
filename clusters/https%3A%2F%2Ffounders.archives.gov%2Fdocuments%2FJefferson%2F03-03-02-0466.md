@@ -70,7 +70,7 @@ _to_. any sinister eﬀects, and my constant
 prayer will befor blessings on you all.  
 &#x27; si _THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811070301:0594/pct:53.04156809733018,31.83023872679045,22.456911118621157,21.64259750466647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811070301:0594/pct:53.03260685926677,31.827111984282908,22.458748662499296,21.643745907007204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ Co any sinister eflecls, anti my constant prayer
 will be for bleaaings on you all..  
 Til JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070901:0076/pct:4.9249359209080925,25.30803351404633,17.740754302453315,13.750616067028092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070901:0076/pct:4.924034413326011,25.30491560921523,17.743608517908353,13.753028623054494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ lead to an. sinister effects, and my constant,
 prayer will be for blessings on ynu all.  
 TH: JEKTEKoON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811071101:0232/pct:3.5621036926519953,65.93532022828154,17.30697500932488,15.066582117945465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811071101:0232/pct:3.561439492821182,65.92695916814608,17.309963328982533,15.068898469862203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ that your fetirement was purely a
 ‘matter of choice on your pure. A let­  
 ter ¥ have received makes me suppos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811073001:0122/pct:25.444702242846095,71.22147125085709,16.535189481825213,5.455970222352826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811073001:0122/pct:25.45501417891209,71.22147125085709,16.54034544985821,5.459235315244719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -425,7 +425,7 @@ Why, Jeremiah, it is not wrong to take usury,
 or to give usury, why should you be cursed any  
 less for not doing, or more fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1850072001:0597/pct:115.95990747879722,195.48872180451127,52.0431765612953,23.23455698068701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1850072001:0597/pct:29.001156961048977,48.87218045112782,13.0158118010027,5.808639245171753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ have lent to me on usury, yet every
 one of them doth curse me, Jer.  
 xv. 10
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077272:00280774844:1877053101:0463/pct:26.028880866425993,31.95848128926523,14.07942238267148,6.4736410816716745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077272:00280774844:1877053101:0463/pct:19.534211951615816,23.96886096694892,10.561473190106517,4.862059546571975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -783,7 +783,7 @@ er lent on usury nor men haye lent to
 me on usury; yet every one of them  
 doth curse me.&quot; Ezek. 18-8: &quot;H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473819:1896021201:0170/pct:84.82243517474633,36.399302528334786,17.939684329199547,10.854402789886661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473819:1896021201:0170/pct:56.56893149140119,24.269834350479513,11.967860163518466,7.2362685265911075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ whole earth. I have neither lent on
 usury, nor men have lent. to me on usury,  
 yet everyone of them doth curse me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270205:00279527768:1897021101:1092/pct:45.32312925170068,62.12455221824194,19.87670068027211,4.739597685312758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270205:00279527768:1897021101:1092/pct:33.99957473952796,46.596858638743456,14.926642568573252,3.5546982639845686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

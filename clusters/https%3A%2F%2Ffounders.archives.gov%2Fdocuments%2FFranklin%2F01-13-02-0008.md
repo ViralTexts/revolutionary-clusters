@@ -83,7 +83,7 @@ and left upon the public record, that Posterity may ne­
 ver have reason to charge the present Times with the  
 Guilt of tamely giving them away.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852093001:0145/pct:46.22823984526112,74.82090740249403,15.892972275951,5.439108516847971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852093001:0145/pct:34.68236052886166,56.115680551870526,11.931634956465656,4.0859644468028655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ P means to join in any public meant rex for counfe­
 &#x27; them away.&quot;  
 The opposition spread and deepened, and on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854070101:0638/pct:70.98132809209602,46.85222001325381,13.884599185736347,6.4943671305500335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854070101:0638/pct:70.99068744442884,46.85222001325381,13.875239833403528,6.505411972608791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ U« p meriijr may never have reason to charge the pres­
 ent tiuus with the guilt of tamely giving them away.”  
 The opposition spread and deepened, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171992:1854070401:0594/pct:4.035259549461313,75.922247446084,15.768854064642507,2.9511918274687856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171992:1854070401:0594/pct:3.1324325692019634,58.8425026573324,12.215980972622843,2.283473225085218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

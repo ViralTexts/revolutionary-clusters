@@ -319,7 +319,7 @@ good that does not belong to the possessor,
 because it is impossible to give one’s-self  
 beauty, or to preserve it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1820060601:0367/pct:9.037900874635568,75.78356002365464,17.49271137026239,5.558840922531047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1820060601:0367/pct:9.03570561088171,75.77235772357723,17.49453485547729,5.561714708056171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ that does not belong to the possessor, lie­
 cause it is impossible to give oneselt beauty,  
 to preserve it. After this most learned dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557979:1859051401:0080/pct:63.479052823315115,79.97851483818988,14.499089253187615,5.438431583187861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557979:1859051401:0080/pct:63.48816029143898,79.9818718947227,14.499089253187615,5.438431583187861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ does not always consist in the purity of the outline
 of her features, but rather in the charms of her mind,  
 in graceful gestures, in the good taste displayed i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860033101:0006/pct:81.75616582123492,12.046534901175882,12.121742172468078,3.4901175881911435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860033101:0006/pct:81.76928458981983,12.055916937703277,12.126115095329718,3.4869902426820114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ rights, and “ that every being has a right
 to his own as clear, as moral, as sacred,”  
 ts any other being has. Althongh retarde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_sparks_ver01:data:sn84022044:00279554139:1886070701:0641/pct:17.546728971962615,54.01044867854948,14.789719626168225,2.473878303626306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_sparks_ver01:data:sn84022044:00279554139:1886070701:0641/pct:17.542630226582574,54.002150868028885,14.792104648446625,2.4773390689814105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

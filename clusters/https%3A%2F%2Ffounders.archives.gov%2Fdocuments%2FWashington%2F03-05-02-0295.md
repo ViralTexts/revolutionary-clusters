@@ -419,7 +419,7 @@ leave, aed was fafely condulted to his own
 boat, which waited for him about four miles  
 distant from the city
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776081701:0049/pct:3.7662794790566703,25.660781166399143,90.23231256599789,68.892455858748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776081701:0049/pct:3.7721459579960106,25.664348136258248,90.23817904493723,68.892455858748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1765,7 +1765,7 @@ person, when it related to his public
 station.&quot; A long conference ensued,  
 in which the Adjutant general o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894061501:0851/pct:83.63192182410424,261.65884194053206,56.188925081433226,34.37188789301465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894061501:0851/pct:20.912237833435146,65.41471048513301,14.050091631032377,8.592971973253663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1785,7 +1785,7 @@ who had committed no fault wanted
 no pardon.&quot;  
 On the arrival of Gen. Howe a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894061501:0851/pct:84.36482084690553,305.5911224925309,56.351791530944624,16.787594252382984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285050:1894061501:0851/pct:21.095499898187743,76.39778062313273,14.090816534310731,4.196898563095746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

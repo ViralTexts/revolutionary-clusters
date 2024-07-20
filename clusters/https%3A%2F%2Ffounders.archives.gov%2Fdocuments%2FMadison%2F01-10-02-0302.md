@@ -86,7 +86,7 @@ duty to vote for men who possess most
 wisdom to discover, and most virtue to  
 pursue, the common good o 1 the society
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804033001:0245/pct:50.406960426606794,54.975473020322355,20.011226494527083,2.312543798177996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804033001:0245/pct:50.392817059483725,54.96584340514976,20.012626262626263,2.3165177789455247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ resentatives.&quot;
 Such was the view of the mode of  
 representation in the House held by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1842081801:1222/pct:132.7188940092166,278.26544021024966,114.43932411674348,70.64388961892247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1842081801:1222/pct:33.17972350230415,69.56636005256242,28.60983102918587,17.660972404730618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ and sixty thousand souls, and will therefore form
 nearly two districls for the choice of Federal Rep­  
 resentatives 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1843031801:0630/pct:47.3221117061974,29.275578790141896,19.204284621270084,17.8790141896938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1843031801:0630/pct:35.5079395446719,21.956684092606423,14.40596900707863,13.412994772218074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ vigilance of competitors, the activity of the press, and the
 freedom of debate, make the c*n&lt;|jdates in any political cam­  
 paign sufficiently familiar, both in their opinious and thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855010401:0018/pct:82.8752642706131,42.514052120592744,16.067653276955603,16.18548799182422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855010401:0018/pct:82.8806852062666,42.514052120592744,16.06223234130211,16.198262646908532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ The electors of Representatives in Congress
 and of the State Representatives arc to lie the  
 same persons, and they will lie “llie grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867103001:0383/pct:72.96862429605792,33.86219401631913,10.973451327433628,14.777878513145966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525243:1867103001:0383/pct:72.95688545688546,33.858356940509914,10.97570785070785,14.779036827195467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ tion says: “State legislatures might make an
 unequal and partial division of the Stales—or  
 they might even disqualify one third of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525267:1868122801:0523/pct:72.27265488135053,44.26360118370134,10.813823857302118,4.54131572956977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525267:1868122801:0523/pct:72.26114649681529,44.25856378741322,10.81608280254777,4.543644019574371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -66,7 +66,7 @@ The Government ought to posess, nat only, first the
 force, but second the mind or sense, of the people  
 at large. The legislature ought to be the most e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0027/pct:129.34232715008432,277.5279309857163,59.61214165261383,21.779097723094328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0027/pct:32.34239932532152,69.38198274642907,14.90617752477335,5.444774430773582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,13 +101,13 @@ ernment ought to pessess, not only, first, the force, |
 but second, the mind or sense of the people at |  
 large. The Legislature ought to be the most ex- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1842122801:0030/pct:17.351898069092343,55.06227400562475,12.964665703402076,9.672559260747288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1842122801:0030/pct:17.356276544507203,55.06227400562475,12.969044178816937,9.679255390384357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n98/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n98/mode/1up?view=theater)
 
 #### 1845-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -237,7 +237,7 @@ foundation of the people themselves
 tnan if it should stand merely upon  
 the pillars of the Legislatures them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033798:1899032701:0046/pct:30.68633952254642,44.3266763360482,13.544429708222811,4.250808880955037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033798:1899032701:0046/pct:30.697391688771,44.334114321841646,13.555481874447391,4.250808880955037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ should rest upon the solid foundation of
 the people themselves than if it should   
 stand merely upon the pillars of the Leg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_echo_ver01:data:sn87062234:100493627:1899032801:0040/pct:122.35803806281912,157.41995073891624,37.92356490793749,8.466748768472906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_echo_ver01:data:sn87062234:100493627:1899032801:0040/pct:40.78601268760637,52.47331691297209,12.64118830264583,2.8222495894909687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ foundation of the people themselves
 than If It should stand merely upon  
 the pillars of the Legislatures them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:0017503139A:1899032801:0873/pct:1.488277268093782,58.976228671430654,16.044852191641183,3.237567449321861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:0017503139A:1899032801:0873/pct:1.5018688413183825,58.976228671430654,16.051647978253484,3.24242866170823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ foundation of the people themeelve?
 than if it should stand merely npon th?  
 ! pillars of the L*?gl?datures themselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_glass_ver01:data:sn87060165:00175032149:1899033001:0015/pct:39.211837535859885,88.66536880813325,11.867733655443153,5.104910231451439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_glass_ver01:data:sn87060165:00175032149:1899033001:0015/pct:39.211837535859885,88.66897397072609,11.872766621369973,5.108515394044272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ the people themselves than if it
 should stand merely upon the pil   
 lars of the Legislatures them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_echo_ver01:data:sn82016354:100493974:1899040101:0235/pct:201.17537890504175,183.41071652654034,43.489019486545004,22.838499184339316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_echo_ver01:data:sn82016354:100493974:1899040101:0235/pct:50.29384472626044,45.852679131635085,10.872254871636251,5.709624796084829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ the people themselves than if it should
   
 stand merely upon the pillars of the legis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034973:1899040301:0252/pct:247.56380510440835,264.85655737704917,50.65738592420727,20.096604215456676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_charlie_ver01:data:sn86071197:00175034973:1899040301:0252/pct:61.890951276102086,66.21413934426229,12.664346481051817,5.024151053864169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ of the people themselves than if it
 should stand merely upon the pillars of  
 the legislatures.&quot; Madison Tapers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033798:1899041301:0106/pct:44.83770999836894,8.877608573040044,13.47251671831675,3.688663282571912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033798:1899041301:0106/pct:44.84314684934486,8.881368678322993,13.477953569292666,3.696183493137808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ s iiution of th-i United States, Mr. Med
 ISOn again Upheld tiie clause of the  
 constitution under which we now elec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033798:1899041301:0106/pct:44.919262763007666,21.725888324873097,13.488827271244496,7.3322053017484485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033798:1899041301:0106/pct:44.919262763007666,21.733408535438993,13.49426412222041,7.3322053017484485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ the solid foundation of the people
 themselves than if it should stand merely  
 gislatures,&quot; whil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175033014:1899041401:0372/pct:6.202651515151516,7.72119739312935,81.96022727272727,287.9266541477963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175033014:1899041401:0372/pct:2.067550505050505,2.57373246437645,27.320075757575758,95.97555138259877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ be resorted
 ranch of the Legislature and in the ex-  
 scutive and judiciar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175033014:1899041401:0372/pct:128.66161616161617,254.58963879377,39.2834595959596,9.698442505246879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_rollingstone_ver01:data:sn85038614:00175033014:1899041401:0372/pct:42.887205387205384,84.86321293125667,13.094486531986531,3.2328141684156266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ too far. He wished the expedient to be
 I to only t the appointment of  
 the second branch of the Legislatir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_vanhalen_ver01:data:sn85034438:00175049502:1899041401:0118/pct:171.84402924451666,268.6147436639278,39.52883834281072,24.187015391737066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_vanhalen_ver01:data:sn85034438:00175049502:1899041401:0118/pct:57.281343081505554,89.53824788797593,13.176279447603575,8.062338463912356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -138,7 +138,7 @@ eight millions of dollars, for tlie payment of thuprmci­
 ; as may be Wanted* forthat purpose, after satisfy ing the  
 sums necessary for the payment of the. interest and suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813030801:0390/pct:26.13407258064516,49.02024820378838,21.875,7.90333115610712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813030801:0390/pct:26.127488032249936,49.012244897959185,21.875787351977827,7.906122448979592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ See. 2. Jlnd be it further enacted, That the Secre- ;
 tary of the Treasury, with the apprebation of the  
 President of the United States be, und he is hereb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814042001:1020/pct:49.73463448039719,18.962485345838218,23.163841807909606,6.477139507620164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814042001:1020/pct:49.746048051132796,18.968998306630194,23.152428237174,6.477139507620164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ to Great Britain: Provided, the President of the United
 States shall deem it expedient to appoint the same.  
 Sec. 7. And be it further enacted, Taat in the event o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743294:1858060801:0352/pct:56.95766327535281,12.526948825598547,53.577289136855924,28.083512992170657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743294:1858060801:0352/pct:18.985887758450936,4.175649608532849,17.859096378951975,9.36117099739022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

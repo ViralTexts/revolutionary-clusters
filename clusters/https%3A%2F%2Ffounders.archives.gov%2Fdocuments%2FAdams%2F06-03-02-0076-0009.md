@@ -1459,7 +1459,7 @@ fident, and the president shall be sworn by the next higheit in&#x27;
 rank of the members composing the fame, andthe president of  
 every court-martial, shall haveipower to administer the oath t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1793032601:1192/pct:10.340719561591612,9.31421035278602,42.411246128186804,9.72634355423673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1793032601:1192/pct:10.356603923437376,9.319705462138696,42.40330394726392,9.737333772942081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1483,7 +1483,7 @@ YOU swear, the evidence you [hall give relative to the charge
 now in hearing, (hall be the truth, the whole truth, and nothing but  
 the truth. ! So help you GOD
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1793032601:1192/pct:10.26923993328568,21.23310253874052,42.482725756492734,10.666007253544345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1793032601:1192/pct:10.277182114208562,21.238597648093197,42.482725756492734,10.666007253544345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2467,7 +2467,7 @@ a court martial shall be inflicted.
 Art. D. Any officer or soldier who shall strike  
 his superior officer, or draw or lift up any weapon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840110301:0688/pct:143.64051789794365,235.07318420325876,70.06854531607007,16.072908036454017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840110301:0688/pct:35.91696819653399,58.76829605081469,17.520472290992192,4.018227009113504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2510,7 +2510,7 @@ States, on aiy pretence whatsoever, shall suffer
 Jeath. or suchotner punishment as a court martial  
 shall direct; aid further, any person, in any ship o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842122401:0606/pct:36.44625509244751,40.79557012091762,15.41836414916954,4.588089049610126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842122401:0606/pct:36.44625509244751,40.79933702489924,15.41836414916954,4.588089049610126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2527,7 +2527,7 @@ belongs, or in any ship or vesselin the service of the United
 States, on any pretence whatsoever, shall suffer death, of  
 such other punishment as a court martial shall direct; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842122901:0524/pct:103.6144578313253,257.0220319515506,48.13327383608508,4.249765062128015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842122901:0524/pct:34.53815261044177,85.67401065051686,16.04442461202836,1.4165883540426716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2572,7 +2572,7 @@ who shall utter any words of sedition and mu­
 tiny, or endeavor to make any mutinous as­  
 sembly on any pretence whatsoever, shall suf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1842123101:0033/pct:2.7715749376067254,18.159903575733225,12.491790358597136,5.383688228204098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1842123101:0033/pct:2.7715749376067254,18.159903575733225,12.496168834011996,5.393732422659703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2615,7 +2615,7 @@ whatsoever, shall suffer death, or such ci
 ather punishment as a court martial shall ~  
 direct; antd further, any person, ina ay ship
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288324:1843010401:0314/pct:52.08904109589041,73.04057169202397,15.873287671232877,4.299216228676809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288324:1843010401:0314/pct:52.10045662100457,73.04441370831412,15.873287671232877,4.295374212386661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2638,7 +2638,7 @@ pretence whatsoever, shall sutler death, or
 such other punishment ns a court martial  
 shall direct; and further, anv person.in an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1843011001:0528/pct:6.335856462012896,39.58438925494171,14.185590131763387,5.149518499746579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1843011001:0528/pct:6.335856462012896,39.59114715323534,14.194935052798805,5.152897448893394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2664,9 +2664,9 @@ shall direct; and further, anv person.in an
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1849-08_25_134/page/n7/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1849-08_25_134/page/n7/mode/1up?view=theater)
 
-#### 1849-08-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1849-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2691,9 +2691,9 @@ This corresponds to the first British article, which is in these words :
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1849-08_25_134/page/n9/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1849-08_25_134/page/n9/mode/1up?view=theater)
 
-#### 1849-08-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1849-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2713,9 +2713,9 @@ or flogged, not exceeding twelve lashes.
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1849-08_25_134/page/n11/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1849-08_25_134/page/n11/mode/1up?view=theater)
 
-#### 1849-08-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1849-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2737,9 +2737,9 @@ martial ; and in the meantime, he may put him under confinement.”
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1849-08_25_134/page/n11/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1849-08_25_134/page/n11/mode/1up?view=theater)
 
-#### 1849-08-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1849-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2761,9 +2761,9 @@ by order of the captain, and the amount delivered to each man shall be care
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1849-08_25_134/page/n11/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1849-08_25_134/page/n11/mode/1up?view=theater)
 
-#### 1849-08-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1849-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2800,9 +2800,9 @@ pounds of pork.
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1849-08_25_134/page/n12/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1849-08_25_134/page/n12/mode/1up?view=theater)
 
-#### 1849-08-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1849-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2818,9 +2818,9 @@ flesh casks, he is to have new pickle made, and put therein after such casks ar
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1849-08_25_134/page/n12/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1849-08_25_134/page/n12/mode/1up?view=theater)
 
-#### 1849-08-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1849-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2836,9 +2836,9 @@ tain, as the case may require, who shall take care that justice be dune him.”
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1849-12_25_138/page/n55/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1849-12_25_138/page/n55/mode/1up?view=theater)
 
-#### 1849-12-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1849-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2865,7 +2865,7 @@ duty assigned him, or leave his station before being regularly relieved ; or,
 4 leave his station before regularly relieved, be shall suffer  
 4 death, or such other punishment as a court-martial ahall ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850120701:0451/pct:0.8283541553503531,42.24303043200681,15.154807170016296,2.149393487976165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850120701:0451/pct:0.837407206228499,42.24303043200681,15.159333695455368,2.1600340497978294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2971,7 +2971,7 @@ hearing shall be the truth, the whole truth, and nothing
 but the truth. So help you God.&quot;  
 Art. 40.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:152.95295295295296,127.41753276095798,46.52986319652986,7.218707636692273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:50.984317650984316,42.47251092031932,15.509954398843288,2.4062358788974243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3011,7 +3011,7 @@ ment.&quot;Feb. 7, 1777. Resolved, That whereas all
 tho rum in Massachusetts is needed for the sup­  
 ply of tho army and the inhabitants of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858010701:0812/pct:107.06405693950178,81.77451971688575,15.94306049822064,5.068250758341759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1858010701:0812/pct:80.34538009613672,61.33720930232558,11.963681680612426,3.8043478260869565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3080,7 +3080,7 @@ give in the cause now in hearing shall be the truth, the whole truth, and
 nothing but the truth. So help you God.”  
 Art. 74. On the trials ol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:24.07890919640267,35.068286912571246,18.798955613577025,5.6242606731906655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:24.075416968817983,35.064516129032256,18.799854967367658,5.626344086021505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3268,7 +3268,7 @@ most exertions to detect, apprehend, and bring
 to punishment all offenders, and aid and assist  
 all porsons appointed for the purposs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862081501:0794/pct:164.52513966480447,82.4951813562292,50.74487895716946,15.069213246889785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862081501:0794/pct:41.16002795248078,20.6237953390573,12.695085022129048,3.767303311722446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3289,7 +3289,7 @@ authority;
 Twelth. Or shall, when attaoned to any ship  
 or vessel appointed as convoy to merchant o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862081501:0794/pct:164.9906890130354,107.93762046609427,50.279329608938546,12.826353600841072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862081501:0794/pct:41.27649662240857,26.98440511652357,12.578616352201259,3.206588400210268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3321,7 +3321,7 @@ and remain forever a fund for the payment of
 pensions to the omoers, seamen, and marlnes  
 who may be entitied to receive the same; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862081501:0794/pct:270.0186219739292,258.84002102680915,51.76908752327747,33.08217977921851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862081501:0794/pct:67.55182855811786,64.71000525670229,12.951316095970183,8.270544944804627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3355,7 +3355,7 @@ consult with the surgeon in regard to the sani
 tary condition of his crew, and shall use all  
 proper means to preserve their health; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862081501:0794/pct:322.99813780260706,258.06903802347995,50.093109869646185,36.02593306465744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862081501:0794/pct:80.8059631959003,64.51725950586999,12.532028884230142,9.00648326616436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3434,7 +3434,7 @@ tions to detect, apprehend, and bring to punishment all
 offenders, and aiu and assist all pers us appointed for  
 the purpose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862092001:0893/pct:5.467196819085487,82.8187324567883,16.06361829025845,1.87620032501108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862092001:0893/pct:4.247342201222331,64.18730679693165,12.44414770684608,1.4578483379765677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3456,7 +3456,7 @@ appoiiuv.it as convoy to merchant or other vessels, fail
 diligently to perform his duty, or shall demand or exact  
 any compensation for his services, or shall maltreat th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862092001:0893/pct:5.506958250497018,86.61545279952726,15.924453280318092,3.1614714137981976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862092001:0893/pct:4.267885573416876,67.12590161431898,12.35683837501926,2.450101133458001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3487,7 +3487,7 @@ States from sale of prizes shall be and remain forever a
 f und tor the payment of pensions to the officers, seamen,  
 and marines who may be en itied to receive the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862092001:0893/pct:39.44333996023857,15.231201063672625,15.964214711729623,6.278623134879598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862092001:0893/pct:30.573673668532688,11.807808266229058,12.372245904165169,4.86967141167042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3517,7 +3517,7 @@ them and keep the places clean. Ho shall frequently
 consult witii the surgeon in regard to the sanitary condi­  
 tion of his crew, and shall use all proper means to pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862092001:0893/pct:39.50298210735586,74.64913576599203,16.02385685884692,6.588860983897178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862092001:0893/pct:30.619896255970417,57.85978704728466,12.423604334651532,5.102469182917987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3537,7 +3537,7 @@ miss them without orders from the proper authorr­
 ir seltth. O. shall, whe altached to any shiur  
 vessel appoicted as convoy to merchant or ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862092001:0258/pct:93.55231143552311,187.84530386740332,60.09732360097323,14.402743379691369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862092001:0258/pct:23.388077858880777,46.96132596685083,15.024330900243308,3.6006858449228423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3576,7 +3576,7 @@ prizes shall be and remain forever a fund
 for the payment of pensions to the officers,  
 seamen, and marines who may be entitle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862092001:0258/pct:278.8321167883212,195.38959801867023,60.34063260340633,59.973328253000574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862092001:0258/pct:69.7080291970803,48.84739950466756,15.085158150851582,14.993332063250143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3601,7 +3601,7 @@ their hammocks and bedding, when the
   
 surgeon shall so advise, and shall direc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862092001:0261/pct:132.8271028037383,22.702082935218804,58.0607476635514,18.880183451175235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862092001:0261/pct:33.20677570093458,5.675520733804701,14.51518691588785,4.720045862793809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3709,7 +3709,7 @@ most exertions to detect, apprehend, and bring
 to punishment all offenders, and aid and as-­  
 sist all persons appointed for the purpos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1862101601:0252/pct:101.93059066881177,138.54504964275773,30.602160422891288,11.55238006866475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1862101601:0252/pct:33.97686355627059,46.18168321425257,10.200720140963764,3.850793356221583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3752,7 +3752,7 @@ now before you, without par fin each month thereafter furnish a further
   
 eudicee i e atemen of the coniton o eer a i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1862101601:0252/pct:134.256492760285,226.53799758745475,61.88232590209147,51.767653335807736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014140:00279529467:1862101601:0252/pct:44.75216425342833,75.51266586248492,20.627441967363826,17.255884445269245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3776,7 +3776,7 @@ shall suffer them to secspe, or dismiss them without
 order* from the proper aotborityr  
 Twelfth Or shall, when attached to any ship o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862101701:0364/pct:70.16147373209006,44.37351814699982,13.600181942233341,4.085354732810505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862101701:0364/pct:70.17853081646577,44.378077694692685,13.617239026609052,4.094473828196243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3825,7 +3825,7 @@ tions to detect, apprehend, and bring to punishment all
 offenders, and aid and assist all persons appointed for  
 the purpose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862102201:0806/pct:85.08590047393365,70.51184936695162,38.433056872037916,4.999458933015907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862102201:0806/pct:28.36196682464455,23.503949788983878,12.811018957345972,1.6664863110053025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3849,7 +3849,7 @@ suffer them to escape, or dismiss them without orders
 from the proper authority;  
 Twellth. Or shall, when attached to any ship or ve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862102201:0806/pct:85.0414691943128,75.64116437614977,38.47748815165877,10.388486094578509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862102201:0806/pct:28.347156398104264,25.213721458716588,12.825829383886257,3.4628286981928365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3878,7 +3878,7 @@ power of attornsy, until he is satisfled that the same is
 not granted in consideration of money given for the pur  
 chase of wages or prize money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862102201:0806/pct:125.96267772511848,224.42376366194134,38.78850710900474,15.809977275186668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862102201:0806/pct:41.98755924170616,74.80792122064712,12.929502369668246,5.269992425062223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3909,7 +3909,7 @@ ttend them and keep the place clean. He shall fre
 uently consult with the surgeon in regard to the sani  
 tary condition of his crew, and shall use all prope
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862102201:0806/pct:164.97334123222748,130.47289254409696,38.78850710900474,16.97868196082675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862102201:0806/pct:54.99111374407583,43.490964181365655,12.929502369668246,5.659560653608917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3941,7 +3941,7 @@ ceived them shall suffer them to escape, or dismiss
 them without orders from the proper authority;  
 Twelth. Or shall, when attached to any ship o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862102401:0336/pct:25.424881033310673,311.2205234516714,48.81033310673011,28.090178802798654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862102401:0336/pct:6.359462676415576,77.80513086291785,12.208808025845945,7.0225447006996635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3971,7 +3971,7 @@ granted in consideration of money given for the
 purchase of wages or prize money,  
  SAssgs r s a1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862102401:0336/pct:126.24065261726716,206.16740088105726,48.334466349422165,22.38922000518269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862102401:0336/pct:31.57626254038429,51.541850220264315,12.089780649549397,5.597305001295672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4002,7 +4002,7 @@ keep the place clean. He shall frequently consult
 with the surgeon in regard to the sanitary condi­  
 tion of his crew, and shall use all proper means t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862102401:0336/pct:176.47858599592115,105.26043016325472,48.94629503738953,25.136045607670383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862102401:0336/pct:44.142152695119876,26.31510754081368,12.242815847644959,6.284011401917596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4034,7 +4034,7 @@ offenders, and aid and assist all persons appointed for
   
 the nurnose :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863012901:0447/pct:60.49971925884335,92.49456843768516,16.830432341381247,1.965238001185068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863012901:0447/pct:45.40092683611852,69.37586411218645,12.624631371998316,1.4714596089275134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4080,7 +4080,7 @@ men, and marines who may be entitled to receive the
 same ; and if the said fund shall be insufficient for the  
 purpose, the public faith is hereby pledged to make u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863012901:0447/pct:95.64851207186973,15.642899466719337,17.12521055586749,9.954572387912306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863012901:0447/pct:71.77362729953659,11.732174600039503,12.8493189158826,7.465929290934229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4253,7 +4253,7 @@ less the court shall previously have extended the
 time for cause shown in the particular case, and  
 the supreme court shall always be open for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171578:1864072801:0714/pct:23.212898212898214,81.2691020229952,15.909090909090908,14.131858535875418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171578:1864072801:0714/pct:17.99478121236451,62.988306951911866,12.329385788839824,10.956122871000488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4368,7 +4368,7 @@ days of the rendering of the decree appealed
 from, unless the court shall previously have  
 extended the time, for cause shown in the pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1864110701:1211/pct:128.28065134099617,232.75798751377158,36.7816091954023,18.21520381931693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1864110701:1211/pct:42.76021711366539,77.58599583792386,12.260536398467433,6.0717346064389766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4414,7 +4414,7 @@ time for cause shown in the particular
 case, and the Supreme Court shall always  
 be open for the entry of such appeals.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022168:00296025173:1864111201:0198/pct:152.00918484500573,196.5730951512942,54.649827784156145,46.226759022967556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022168:00296025173:1864111201:0198/pct:38.013207005455065,49.14327378782355,13.666379557852427,11.556689755741889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4444,7 +4444,7 @@ viously have extended the time, for cause shown in
 the particular case, and the supreme court shall al  
 ways be open for the entry of such appeals. Such
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024582:1864112301:0431/pct:112.02279957582185,129.8096834631693,33.006362672322375,13.60812543141702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024582:1864112301:0431/pct:37.340933191940614,43.26989448772311,11.002120890774124,4.53604181047234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4465,7 +4465,7 @@ mirs them without orders from the proper au­
 thority:Twelfth. Or shall, when attached to any ship  
 or vessel appointed as convoy to merchant o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866111701:0414/pct:75.80296479308215,94.5087416892391,16.630636195182213,4.026101945333662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866111701:0414/pct:56.86486486486486,70.88155626692932,12.478764478764479,3.0288106377739474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4501,7 +4501,7 @@ remuin forever a fund for the payment of pen­
 sions to the officers, seamen,&#x27; and marines who  
 may be entitled to receive the same; and if th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866111701:0414/pct:110.94811612106238,89.21447919231716,16.831377393452748,11.167200196995815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866111701:0414/pct:83.22779922779922,66.91701551342034,12.633204633204633,8.372322088155627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -87,7 +87,7 @@ I; . t, 1 cannot ciei-.bt you will became sen­
 jkdscu.judi iinv have beed written or  
 I t.ud you, but if you hive heel- made to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808110101:0213/pct:76.50224215246637,27.093346825196054,17.883408071748878,14.659752087022515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808110101:0213/pct:76.48852223816355,27.089920323763753,17.88617886178862,14.66211373888116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ ate sululious.
 A Copy.  
 (Signed) 111: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808110101:0213/pct:76.73542600896862,49.02605615987857,17.04035874439462,9.119655957500633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808110101:0213/pct:76.72166427546628,49.019855823953456,17.043280726924916,9.122718266514902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ illy believe there has scarcely been a great
 occasion which has not produced aoex&#x27;ra.  
 . ordinary mission. *•••••
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808110101:0357/pct:77.13148920045472,74.70033154807447,18.908677529367186,14.39683754144351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808110101:0357/pct:77.11687819662815,74.69080708912406,18.911409989265643,14.399251986909771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ wh:ch I now assure you, with the tender
 of my high respect and affectionate saluta­  
 tions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808110101:0358/pct:4.611923509561305,7.0927318295739346,17.94150731158605,52.29323308270677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808110101:0358/pct:4.6110590440487345,7.091843127427641,17.94439237738207,52.29085745311782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ there has scarcciy bccnsia great occasion
 which has not produccz. an extraordinary  
 mission. &#x27;7&#x27;5 ?? 5? * 33 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110201:0520/pct:31.04128718882817,61.89960274467317,23.2695810564663,18.00288912964969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110201:0520/pct:31.036576111701322,61.89401462489844,23.271108413011586,18.004273118473716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ impressior—s has been without just ;ct-ss&#x27;si&#x27;ouzui.
 ?. CZLImOt intiecdjsitlss&#x27;lge what shissiimcds may  
 havclct-e-sisinvsssiritt-xn or tol-ssl you, but if yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110201:0520/pct:30.722525804493017,2.076561935716865,47.783849423193686,93.89671361502347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110201:0520/pct:30.717863105175294,2.0763744696217388,47.781656295846616,93.8912461256056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ if you ha\ ide to believe that &#x27;
 I efei &#x27; a thing&#x27;  
 j unfriendly to your lame and feelings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808110401:0001/pct:40.52985369711348,35.045588801849235,17.51680506128905,38.756902529857456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808110401:0001/pct:40.53644391722683,35.045588801849235,17.52998550151575,38.769744445871325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ ViffeUng the storm, uncertain of
 their fate. $&gt;&#x27;■ has so far  
 been favorable, and that it may cont
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808110401:0001/pct:40.470541716093315,74.44458713240016,17.457493080268883,15.551560292795685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808110401:0001/pct:40.47713193620667,74.44458713240016,17.470673520495584,15.551560292795685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ great occasion which has not pro*
 mission.  
 duetd an extraordinar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808111801:1065/pct:72.74678111587983,26.28205128205128,16.523605150214593,13.900134952766532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808111801:1065/pct:72.72727272727273,26.27761848541069,16.525878251541968,13.902007083825266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1019,7 +1019,7 @@ mined to justify your faHUre to
 attain our wish asone which w«t  
 probabb unattainable. Ktview
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808111801:1065/pct:72.55901287553648,40.85695006747638,18.428111587982833,52.3110661268556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808111801:1065/pct:72.53955484043979,40.850059031877215,18.429873960847413,52.306459773992245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1072,7 +1072,7 @@ la the aincere prayer of that friend*
 ship whkh l bavaavsr borne you,  
 end of which- i now assure you,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808111801:1066/pct:7.052148068089705,5.231286795626577,20.102674952715482,29.6215306980656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808111801:1066/pct:7.050243111831443,5.230406996300034,20.10399783900594,29.62075344769593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1103,7 +1103,7 @@ ed the harbor myself, I shall view with anxiety
 place) those who are still buffetting the storm,  
 uncertain of their fate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840091501:0500/pct:53.71145793681005,78.84127431632365,13.97030833650552,8.30279109106287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840091501:0500/pct:53.71145793681005,78.85067192932995,13.995685826671743,8.30279109106287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

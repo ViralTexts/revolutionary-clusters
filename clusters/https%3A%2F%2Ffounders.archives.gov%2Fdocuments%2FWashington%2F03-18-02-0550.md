@@ -288,7 +288,7 @@ Schuyler with th¢ sigheft honor of the
 charges exhibited againit him, be and 18  
 hereby confirmed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779011201:0125/pct:11.683336880187273,4.821741671537112,54.92658012343052,89.53828170660432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779011201:0125/pct:11.697524295949492,4.831482563802845,54.92658012343052,89.5285408143386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

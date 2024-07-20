@@ -276,7 +276,7 @@ March, 1782. “G. Washington.” j
 ground which is agreed to be neutral—viz. from  
 Rawav to Newark, and four miles back.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216444:1831071201:0648/pct:7.446988973706531,77.07270786383584,18.625954198473284,13.912940339224292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216444:1831071201:0648/pct:7.44572591587517,77.06356736242884,18.6284486657621,13.915243516761544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ plan for surprising in their quarters,
 and bringing off Prince W illiam Henry  
 and Admiral Digby merits applause.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891972:1896041901:0522/pct:7.149712092130518,32.523279582103115,14.059500959692897,2.7367703838292075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891972:1896041901:0522/pct:7.155043719343143,32.530850177909,14.054169332480273,2.7367703838292075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ plan for surprising in itheir quarters
 and bringing off Prince William Henry  
 and Admiral Digby merits applaus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534539:1896041901:0325/pct:10.70748730964467,49.960348929421095,18.67068527918782,3.274045542086779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534539:1896041901:0325/pct:7.139457401237506,33.30689928628073,12.454386799936538,2.186473320493939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ prising in their quarters and bringing
 otf Prince William Henry and Ad­  
 miral Higby merits applause.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769386:1896062501:0761/pct:14.809284647753495,34.5989805471757,10.981403556400164,2.382190783314262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769386:1896062501:0761/pct:14.813809329894575,34.5989805471757,10.990452920682323,2.392593363154062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ ceedings, with a copy of these orders.
 ground which is agreed to be neutral--viz:  
 from Iahway to Newark and four miles back.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896071301:0571/pct:283.05214723926383,213.30924420355313,50.76687116564417,34.2065642878651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896071301:0571/pct:70.76303680981596,53.327311050888284,12.691717791411042,8.551641071966275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

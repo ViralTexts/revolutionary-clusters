@@ -143,7 +143,7 @@ wine, and drink to John Bull to their satisfaction, and the
 day too short to sleep away the last night&#x27;s carouse. It wa­  
 there Sir Wm. Howe presided, the life of the festal board
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191253:1847111301:0400/pct:196.21903520208605,360.72291163487967,57.58365927857453,21.554093445490132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191253:1847111301:0400/pct:49.05475880052151,90.18072790871992,14.395914819643632,5.388523361372533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ in actual duty, a punctual attendance to
 Divine service to implore the blessing of  
 Heaven upon the means used for our d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1854042601:0066/pct:243.34103156274057,219.49946261323507,44.72671285604311,59.880239520958085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1854042601:0066/pct:60.83525789068514,54.87486565330877,11.181678214010777,14.970059880239521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ Fierce Conflict. Tbe Ashe ville (N. C.) Spe
 i requires and expects of all officers and soldiers  
 -; not engaged in actual duty, a punctual attend-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862282:1855071701:0254/pct:17.789211100717182,92.06278526104865,16.604303086997195,4.519648224423912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862282:1855071701:0254/pct:17.799605030662093,92.07020668670451,16.604303086997195,4.523358937251846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ Divine service, to implore the blessings of
 heaven upon the means used for our safety  
 and defence.&quot; Truly God is with us, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1858061101:0946/pct:63.64265927977839,305.6790822829628,43.767313019390585,16.938110749185668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1858061101:0946/pct:15.913419913419913,76.4197705707407,10.943722943722944,4.234527687296417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ dered to be held on said White, at 9 o’clock
 to-morrow morning, who are to make due in­  
 quiry, determine, and report
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860061401:0561/pct:4.970760233918129,7.916783021502374,81.89083820662768,117.53700083775482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860061401:0561/pct:3.8523516970490483,6.1354782859616215,63.47567730889314,91.0979656615207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ the most essential service to the great
 and common cause in which we are all |  
 engaged
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213017:1881033101:0459/pct:44.51422963689892,47.68369489153254,13.307163886162904,14.23372988103569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213017:1881033101:0459/pct:44.505494505494504,47.67702211027148,13.309458398744113,14.235236495941786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -744,7 +744,7 @@ and common cause in which we are all j
 engaged.  
 The I’lea-ure of I reeving
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688647:1881040901:1092/pct:43.77254402715892,48.25174825174825,12.412476129853596,14.996114996114995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688647:1881040901:1092/pct:43.77254402715892,48.26210826210826,12.433694037767877,15.001295001295002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -927,7 +927,7 @@ of the lines or elsewhere except in­
 case of necessary defense or special  
 order given for that purpose Ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00175048546:1894021801:0404/pct:27.84629981024668,15.857787810383748,38.20366856419987,132.14446952595938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00175048546:1894021801:0404/pct:18.573010599588674,10.575620767494357,25.486473659231134,88.10007524454477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -989,7 +989,7 @@ occasion, bo of the most essential ser­
 vice to tho great and common cause in  
 which wj are all engaged.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056249:00200295651:1895021501:0171/pct:49.44183313748531,113.21909424724602,18.904230317273797,12.178702570379437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056249:00200295651:1895021501:0171/pct:37.09416776847363,84.91432068543452,14.176582929337446,9.139126886984904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1016,7 +1016,7 @@ known if they are destitute of this ar­
 ticle.&quot;And the tenth shows that smallpox,  
 which in those days, before the discover
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056249:00200295651:1895021501:0171/pct:49.54465334900117,48.021215830273356,38.4400705052879,80.19175846593227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056249:00200295651:1895021501:0171/pct:37.16762156603497,36.01591187270502,28.837960922579697,60.14891880864953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ there be no pieces of cannon or small
 arms lire-el from any of the lines or else,  
 where, except in the case of necessar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056249:00200295651:1895021501:0171/pct:69.0364277320799,55.63035495716034,18.904230317273797,8.32313341493268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056249:00200295651:1895021501:0171/pct:51.78492728074041,41.72786617707058,14.191273688849714,6.24235006119951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1068,7 +1068,7 @@ i occasion. I f tin- most essentia) *er-
 i vice to the great and common -a :*•■ in  
 ■ which we are all engaged.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_guava_ver02:data:sn99068086:00332899958:1895022101:0493/pct:71.21799844840962,42.36641221374046,17.319627618308765,7.442748091603053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_guava_ver02:data:sn99068086:00332899958:1895022101:0493/pct:62.320398235094466,37.07856234096692,15.154429234076252,6.516380407124682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1090,7 +1090,7 @@ i straw to lie on if to be had and to n...&#x27;,c it
 known if they are destitute of tin* ar­  
 ticle.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_guava_ver02:data:sn99068086:00332899958:1895022101:0493/pct:71.27618308766486,51.79934569247546,16.931730023273857,4.825517993456924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_guava_ver02:data:sn99068086:00332899958:1895022101:0493/pct:62.37696572010408,45.32442748091603,14.80371082701663,4.226304071246819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1118,7 +1118,7 @@ where, exc. pt in tb.e . ase of nee. ssary
 defense or special order given for that  
 purpose.&quot; Our men could not afford t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_guava_ver02:data:sn99068086:00332899958:1895022101:0493/pct:71.33436772692009,59.269356597600876,16.892940263770363,8.724100327153762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_guava_ver02:data:sn99068086:00332899958:1895022101:0493/pct:62.427876456612736,51.86068702290076,14.781083833012785,7.645515267175573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1155,7 +1155,7 @@ occasion, be of the most essential ser­
 vice to the great and common cause in  
 which we are all engaged.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1895022101:0024/pct:53.58297872340425,79.68374011687865,13.957446808510639,10.622206943966999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1895022101:0024/pct:53.5886524822695,79.69137924449028,13.957446808510639,10.614567816355372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1190,7 +1190,7 @@ straw to lie on if to he had and to make it
 known if they are destitute of this ar­  
 ticle.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1895022101:0024/pct:53.6,29.082158817463046,28.442553191489363,63.13738971009511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1895022101:0024/pct:53.60567375886525,29.082158817463046,28.44822695035461,63.14502883770673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,7 +1220,7 @@ where, except in the case of necessary
 defense or special order given for that  
 purpose.&quot; Our men could not afford t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1895022101:0024/pct:68.17021276595744,41.11378480577518,13.770212765957448,6.909590924716397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1895022101:0024/pct:68.18156028368794,41.11378480577518,13.775886524822695,6.921049616133837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1342,7 +1342,7 @@ occasion, be of the most essential ser­
 vv.-e to the great and common cause in  
 which wc are all engaged.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1895022201:0613/pct:52.863052471151754,82.96894803548795,13.738297409100806,9.077946768060837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1895022201:0613/pct:52.863052471151754,82.96894803548795,13.749183540169824,9.089828897338403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1368,7 +1368,7 @@ srraw to lie on if to be hnd and to make it
 known if tliey are destitute of this ar­  
 ticle.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1895022201:0613/pct:52.9501415197039,34.838403041825096,27.15001088613107,59.252217997465145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1895022201:0613/pct:52.96102765077291,34.84632446134347,27.171783148269107,59.26013941698352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1398,7 +1398,7 @@ where, except iu the case of necessnry
 defense or special order given for that  
 purpose.&quot; Our men could not afford t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1895022201:0613/pct:66.53603309383845,40.38339670468948,13.672980622686698,7.240177439797212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1895022201:0613/pct:66.55236229044198,40.39131812420786,13.667537557152189,7.240177439797212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1469,7 +1469,7 @@ onstration lor some years. The people had
 a aay wnicn tney utre most faltnfui n on  
 serving. It was the oth of March, and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871921:1899070401:0049/pct:91.90837937384899,100.94774367446308,16.724217311233886,9.425267368054952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871921:1899070401:0049/pct:68.95003453833756,75.7151552038953,12.548929311535804,7.068950526041214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -56,7 +56,7 @@ mere’s point, and in case of an attack, then
 Col. Prescott’s regiment to march immediately  
 to their support
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860061401:0561/pct:4.9317738791423,59.25719072884669,16.45224171539961,11.686679698408266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860061401:0561/pct:3.8322086816396412,45.924109075169525,12.750528754154496,9.06795556196797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ leading to l.eckmere&#x27;s point and in case
 of an attack then Coin Glover’s regiment  
 to march immedly to ye supjiort
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213017:1881033101:0459/pct:44.612365063788026,34.401679496151154,13.150147203140333,10.454863540937719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213017:1881033101:0459/pct:44.60361067503925,34.39686537923314,13.152472527472527,10.45689896445564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ leading to Leek mere&#x27;s point and in case
 of an attack then ( oln Glover’s regiment  
 to march iminedly to ye support
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688647:1881040901:1092/pct:43.83619775090176,35.05827505827506,12.348822406110758,10.411810411810412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688647:1881040901:1092/pct:43.83619775090176,35.06863506863507,12.370040314025037,10.4014504014504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ Countersign sharp
 Field officer for the day tomorrow  
 Colonel Gerr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00175048546:1894021801:0404/pct:27.32447817836812,59.84198645598194,19.323213156230235,54.42437923250564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00175048546:1894021801:0404/pct:18.224964404366396,39.89841986455982,12.893529504825185,36.28291948833709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ ing those who are sick wounded or
 absent on furlough and also the quan­  
 tity of ammunition each regiment ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00175048546:1894021801:0404/pct:27.84629981024668,117.94582392776523,18.848829854522453,4.887133182844244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00175048546:1894021801:0404/pct:18.573010599588674,78.63054928517683,12.577123872804936,3.2618510158013545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ tity of ammunition each regiment ha
 &quot;Parole lookout.  
 &quot;Countersign sharp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056249:00200295651:1895021501:0171/pct:49.368390129259694,95.20603835169318,18.874853113983548,2.682578539371685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056249:00200295651:1895021501:0171/pct:37.03540473042456,71.40962872297021,14.16189216982518,2.0093839249286005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ orders was given.
 Returns were to be made by the proper  
 otlicers of all military and other stores
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056249:00200295651:1895021501:0171/pct:49.427144535840185,103.48837209302326,18.860164512338425,8.261933904528764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056249:00200295651:1895021501:0171/pct:37.07947700896136,77.62137902896777,14.147201410312913,6.2015503875969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ otlicers of all military and other stores
 Colonel Gerry.  
 &quot;Field officer of the inainguard to-mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1895022101:0024/pct:53.65106382978723,68.93548756731981,13.906382978723403,3.4146900423971585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1895022101:0024/pct:53.65673758865248,68.93548756731981,13.900709219858156,3.4185096062029716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ sick, wounded, or absent on furlough, and
 also the quantity of ammunition each reg­  
 iment has.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1895022101:0024/pct:53.63404255319149,74.72212673312708,13.923404255319149,3.930331156181964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1895022101:0024/pct:53.63404255319149,74.72594629693289,13.923404255319149,3.930331156181964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ tityofammunitioneachregimenthas.
 &quot;Parole lookout.  
 &quot;Countersign sharp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1895022201:0613/pct:52.75419116046157,69.62927756653993,13.564119311996517,2.091254752851711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1895022201:0613/pct:52.75963422599608,69.63323827629911,13.564119311996517,2.0952154626109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ urged upon his troops the laying aside of
 all sectional spirit:  
 &quot;The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1895022201:0613/pct:52.797735684737646,75.76045627376426,13.651208360548662,9.220532319391635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1895022201:0613/pct:52.797735684737646,75.77233840304183,13.672980622686698,9.224493029150825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

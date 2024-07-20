@@ -295,7 +295,7 @@ nity to deliberate on the confequcnccs of their pub­
 lication ; after which time I submit them to your  
 wifdomi JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040401:0002/pct:77.68537768537769,11.053671886878517,16.585816585816588,9.74608484111297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040401:0002/pct:77.70270270270271,11.061274137144595,16.59159159159159,9.749885966246008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ which time I submit them to your
 wisdom.  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041801:0481/pct:7.088450178765739,14.464726196349284,16.446448002487177,13.320177602368032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041801:0481/pct:7.098813410021244,14.464726196349284,16.45162961811493,13.320177602368032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

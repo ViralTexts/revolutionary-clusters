@@ -32,7 +32,7 @@ An ast for granting lands to the inhabitants and lettlers at
 Vincennes and the Illinois country, in the territory north-welt  
 of the Ohio, and for confirming them in their polieliions, 9
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791042001:0004/pct:38.222361809045225,10.038461538461538,27.386934673366834,1.9615384615384615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791042001:0004/pct:38.24591708542714,10.038461538461538,27.379082914572866,1.9807692307692308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -56,7 +56,7 @@ country, in the Territory north wed of
 the Ohio, and for confirming them in  
 their pefiVdions ; May 14, 1800—Poft
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800120101:0002/pct:70.83434099153567,62.209215068287556,21.305925030229748,6.993846615638601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800120101:0002/pct:70.83434099153567,62.209215068287556,21.338170092704555,7.013857621691931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -82,7 +82,7 @@ the Ohio, and for consirming them in
 their posseﬂitms; Nluy 14, 18oo:pOst..  
 poned until the next sesiion. s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121201:0019/pct:70.99821291804953,61.50446921763584,21.72581056931325,10.043185698503565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121201:0019/pct:70.98915124441608,61.49829282988552,21.727292065517975,10.045524536386155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ in the territory northwest of the Ohio, and for confirm­
 ing them in their possessions,&quot; and the several acts in  
 aid of and supplementary thereto. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854080501:0248/pct:18.055356374587696,56.273637374860954,15.387924853004446,3.0589543937708563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854080501:0248/pct:18.055356374587696,56.273637374860954,15.407046225919022,3.0700778642936597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ them in their possession, and the several aets in
 aid of, and supplemenfary thereto.  
 ec. 2. And be it further enacted, That ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293186:1854080901:0134/pct:23.25863113264688,341.013602985434,49.485160508782556,14.253039605152281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293186:1854080901:0134/pct:5.815538391640164,85.2534007463585,12.373163713463578,3.5632599012880704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ posessions,” and several acts in aid of, and suppleniertfAry
 thereto.  
 Sec. 2. And be it further enacted, That every such clai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1854110401:0216/pct:80.27810419114768,12.284122562674094,16.54915785350568,3.064066852367688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1854110401:0216/pct:80.28789659224442,12.287604456824512,16.544261652957307,3.0745125348189415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ tory northwest of the Ohio, and for confi ruling them in their
 poscssions,” and several acts in aid of, and supplementary  
 thereto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1854111101:0220/pct:80.39561300430866,12.938718662952645,16.64708186447317,2.479108635097493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1854111101:0220/pct:80.4054054054054,12.945682451253482,16.65197806502154,2.482590529247911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ them in their possessions,” and the several acts in aid
 of. and supplementary thereto.  
 8 2. And he it further enacted. That everv suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1854122001:0131/pct:14.930788872463378,82.81539411401523,12.9955651122161,2.9018316526034162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1854122001:0131/pct:14.928782585326525,82.8068731350962,12.997178177909165,2.90410536063381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ for confirming them in their possessions,&quot; and the
 several acts in ald of and sopplementary thereto.  
 Sec. 2. And be it further enacted, That every suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1857052201:0644/pct:77.29481641468682,171.78890182382617,41.981641468682504,10.71012805587893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1857052201:0644/pct:25.764938804895607,57.26296727460872,13.993880489560835,3.5700426852929765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

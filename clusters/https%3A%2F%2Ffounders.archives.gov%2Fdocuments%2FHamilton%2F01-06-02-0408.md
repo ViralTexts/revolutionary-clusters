@@ -84,7 +84,7 @@ land office, and that the exclusive right of loca­
 ting the fame in districts set apart for the army,  
 ceal&#x27;e after the day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790010801:0001/pct:35.590003163555835,43.74514374514374,27.93419803859538,14.918414918414918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790010801:0001/pct:35.60582094273964,43.75,27.918380259411578,14.937839937839938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ bill for the relief of Shubael Swaine was read
 the third time, on Tuesday and palled.]  
 The bill more effectually to provide for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790010801:0001/pct:35.431825371717814,5.74980574980575,57.79816513761468,88.53923853923854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790010801:0001/pct:35.455552040493515,5.759518259518259,57.80607402720658,88.53923853923854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ That no credit shall be given for any quantity less than a towrt­
 (hip often milfs square, nor more than two credit fpr any  
 t greater quantity*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790073101:0001/pct:64.68313002082714,40.577716643741404,27.640583159773875,51.188838671644724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790073101:0001/pct:64.69800654567094,40.5924543132246,27.655459684617675,51.179013558655924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ All which is humhl\ [übmillci-,
 ALEXANDER HAMILTON,  
 Secretary oj the Tieajury
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790073101:0002/pct:6.471747700394218,5.06968289234498,28.745072273324574,58.1296707735811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790073101:0002/pct:6.4799605781865965,5.079781862250051,28.753285151116952,58.134720258533626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ which cases there/hall be no greater departure
 fiom such form oflocatton, than may be absolute­  
 ly necessary.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791010101:0002/pct:39.88476312419974,36.16321794623864,27.62483994878361,7.0199187777992655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791010101:0002/pct:39.88476312419974,36.17772191065558,27.640845070422536,7.015084122993618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -735,7 +735,7 @@ tPeTe!!S f f Which /ha&#x27;l bear an &#x27;&quot;&#x27;mediate in­
 reieit of fix per cent, as at par with gold and sil­  
 ver, and thofe-which shall bear a future or les
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791010101:0002/pct:38.70038412291933,68.38135757106943,27.784891165172855,4.9700251402049895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791010101:0002/pct:38.71638924455826,68.38619222587508,27.784891165172855,4.979694449816283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ land office, and that the exclusive right of loca­
 ting the fame in districts set apart for the army,  
 ceal&#x27;e after the day o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791010801:0001/pct:35.590003163555835,43.74514374514374,27.93419803859538,14.918414918414918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791010801:0001/pct:35.60582094273964,43.75,27.918380259411578,14.937839937839938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -902,7 +902,7 @@ bill for the relief of Shubael Swaine was read
 the third time, on Tuesday and palled.]  
 The bill more effectually to provide for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791010801:0001/pct:35.431825371717814,5.74980574980575,57.79816513761468,88.53923853923854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791010801:0001/pct:35.455552040493515,5.759518259518259,57.80607402720658,88.53923853923854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1082,7 +1082,7 @@ lands, while il may have a due regard to the last, should i
 he calculated to obtain all the advantages which may be j  
 derived from the two first classes.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1837010701:0618/pct:64.94703535561976,66.2810244240087,18.007979089283257,10.847424107584297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1837010701:0618/pct:64.95620672261201,66.2810244240087,18.007979089283257,10.857312370216553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

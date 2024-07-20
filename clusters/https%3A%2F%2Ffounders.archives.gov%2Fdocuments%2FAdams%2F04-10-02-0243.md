@@ -153,7 +153,7 @@ bringing these dire calamities upon the gene­
 rations of men. We expect to be wiser in forty.­  
 sight hours than we are at present, with only th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861040301:0815/pct:17.775229357798164,13.682761784608326,46.62516382699869,8.716595939901365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861040301:0815/pct:5.925076452599388,4.560920594869442,15.54172127566623,2.9055319799671215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ Heaven&#x27;s design,
 Why then a Borgia or a Cataline?&quot;  
  e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1866060901:0078/pct:114.26307448494454,324.9018067556952,50.71315372424723,6.493846556690233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1866060901:0078/pct:28.577090764962346,81.2254516889238,12.683313515655966,1.6234616391725583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ Why then a Borgia or a Cataline
 design,  
 Why then a Borgia ora C&#x27;atalin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895175:1871011301:0098/pct:5.114573785517874,86.67440847728263,11.659028414298808,1.1467556974887503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895175:1871011301:0098/pct:5.113636363636363,86.66182873730044,11.661473607038124,1.1502177068214805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ If plagues or earthquakes break not
 Heaven’s design, why then a Borgia, or  
 a Cataline or a Gutzman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013900:1894032901:0486/pct:40.16279069767442,8.428881313913852,15.116279069767442,1.7663464518128293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013900:1894032901:0486/pct:40.153452685421996,8.427575522850503,15.118577075098814,1.7699457784663053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

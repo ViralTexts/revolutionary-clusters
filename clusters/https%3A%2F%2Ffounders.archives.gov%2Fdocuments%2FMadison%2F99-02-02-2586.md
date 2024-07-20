@@ -39,7 +39,7 @@ communicated the invitation, and
 mies, bnI speedily brought to a conclusion that will inspire fresh con­  
 ndrnce in the Uiends ol our free iiiHtitutiuiis.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832071001:0079/pct:3.6325678496868474,54.46939674152356,14.697286012526096,1.023778071334214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832071001:0079/pct:3.6320623434455888,54.46340121078701,14.69987939512014,1.0273344340487984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +65,7 @@ try, so grateful to the enemies, be speedily brought
 to u conclusion that w ill inspire fresh cohfidciice in  
 th f unds of our tiec institutions.” To which ev
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1832071201:0795/pct:2.055208543219827,78.70744373918062,15.071529316945396,7.977495672244663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348835:1832071201:0795/pct:2.0547945205479454,78.69609115822877,15.073529411764707,7.97995095918073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ the enemies, be speedily brought to a conclusion
 that will inspire fresli confidence in the friends of  
 our free institutions.” To which every patrio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832071601:0369/pct:1.7176228100309172,46.339383603362165,17.63998625901752,16.067730539651603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832071601:0369/pct:1.717327837884252,46.33373934226553,17.64268132119755,16.0698335363378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ bers.” The toast was as follows:
 “conclusion that will inspire fresh confidence in  
 “the friends of our free institutions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832071701:0245/pct:33.03090445137511,33.0522218618229,14.970229656932236,4.573467401881285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832071701:0245/pct:33.02622253720765,33.04864864864865,14.972832506496575,4.576576576576577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -191,7 +191,7 @@ i that, to give re ol
 • protection in tiroes of war* about two  
 • requisite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807021801:0002/pct:21.509273076103177,1.8765297797117215,37.53997015561714,96.17895023116671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807021801:0002/pct:21.516378881546224,1.8855951409663676,37.532864350174094,96.16988486991207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ be at war, th tthe witole.numher would
 to CO-«pei c, wiih other  
 li . orei in me o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807021801:0002/pct:40.35386911106374,26.39379929290182,19.100405030910252,31.248300244764753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807021801:0002/pct:40.35386911106374,26.402864654156467,19.100405030910252,31.243767564137432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ wards which it would Iur.niL nomears.
 TH: JEFFERSON.  
 Ftbruary 10, 18C7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807030301:0376/pct:21.412964311726146,2.928203871600098,36.270939548434086,92.55084538103407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807030301:0376/pct:21.409066084107046,2.9278451549675366,36.27040475757024,92.54359100004083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1094,7 +1094,7 @@ war, towards which it would furnith
 Do means. -Ty JEFFERSON.  
 February 10, 1807.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807031701:0463/pct:41.24550148646534,14.226273033485239,34.31387889219214,80.20606300772737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807031701:0463/pct:41.25071715433161,14.229575325275741,34.31909456005842,80.20606300772737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1329,7 +1329,7 @@ Gqssn-boats, which may opposc an enemy ac
 hisvnxraoce, and co-oPcra:e wuhzhe bar  
 lcsssities fcctr his expulsioc. &quot;— We have thc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808010801:0172/pct:5.436694021101993,15.901898734177216,24.076787807737396,12.781293952180029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808010801:0172/pct:5.435897435897436,15.900501010811286,24.078144078144078,12.783100407254402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1350,7 +1350,7 @@ our own roast; and still less can it become an ex­
 citement to engage in offensive maritime war, to­  
 wards which it would furnish no means.” &quot; &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811051301:0513/pct:73.87208725830442,56.69304052963023,21.46752602875558,4.747295333440982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811051301:0513/pct:73.85377942998761,56.683887633193415,21.46840148698885,4.750565062964159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1432,7 +1432,7 @@ citement to engage in offensive maratime
 war, towards which it would furnish no  
 means.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811052401:0088/pct:6.392479435957696,69.27598566308244,21.974148061104582,6.566308243727598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811052401:0088/pct:6.390977443609023,69.26605504587155,21.97485902255639,6.568950688073395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1502,7 +1502,7 @@ defensive operations; that it can have but little
 effect towards protecting our commerce in the  
 open seas, even on our own coast.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854040701:0346/pct:84.61748261284603,12.68054375531011,13.227873994272468,2.3683092608326253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854040701:0346/pct:84.61748261284603,12.687623902577174,13.2369653166053,2.364769187199094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1543,7 +1543,7 @@ fense,&quot; have resorted to them. He urges the
 distribution of 200 gunboats along our shore  
 The last sentence of this gunboat message i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859040501:0319/pct:58.509454949944384,201.19625324455478,34.53837597330367,8.892901478388444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859040501:0319/pct:14.631432545201669,50.299063311138696,8.636995827538248,2.223225369597111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1568,7 +1568,7 @@ lest Can it become an excitement to engage in
 offensive maritime war, toward which it would  
  furnish no means.&quot; ION
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859040501:0319/pct:57.8420467185762,210.2697212504232,34.59399332591769,13.587631192867622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859040501:0319/pct:14.46453407510431,52.5674303126058,8.650904033379694,3.3969077982169056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1591,7 +1591,7 @@ still less can it become an excitement to engage in of­
 sensive maritime wur, toward which it would furaish  
 no means.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859040501:0327/pct:179.6652200867948,138.9926696618586,49.5350278983261,14.61338377867108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859040501:0327/pct:44.93023255813954,34.74816741546465,12.387596899224807,3.65334594466777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

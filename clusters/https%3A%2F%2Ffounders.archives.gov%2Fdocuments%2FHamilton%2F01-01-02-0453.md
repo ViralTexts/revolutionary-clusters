@@ -164,7 +164,7 @@ and defend the Constitution of the Confederate
 States of America, and tho Constitution of this SUte,  
 not inconsistent with the Constitution of the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022809:1862010801:0013/pct:48.08959156785244,27.903169219974274,19.53227931488801,9.987136007484505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022809:1862010801:0013/pct:36.07907742998353,20.933224184305928,14.662273476112027,7.484504736288153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ Art. St Claik Maj. Gen.
 Sworn before me, camp  
 Valley Forge, May 12. 1778
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525164:1863070401:0548/pct:3.827838827838828,81.10290093048714,12.527472527472527,8.812260536398467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525164:1863070401:0548/pct:3.827137886833913,81.09180462443562,12.529756454861747,8.81447530441921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ Ma). Gena
 Sworn before me, camp  
 Valley Forge, May 12, 1778.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:0027952830A:1863072101:0613/pct:56.05444305381727,201.7333984375,37.57822277847309,34.48486328125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:0027952830A:1863072101:0613/pct:18.684814351272426,67.24446614583333,12.52607425949103,11.494954427083334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ ABT. ST CLAIB, Maj. Gen.
 Sworn before me, camp  
 Valley Forge, May 12, 1778.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn89064562:00212472591:1863090201:0321/pct:77.3775433308214,43.70737073707371,13.971363978899774,12.332233223322332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn89064562:00212472591:1863090201:0321/pct:77.3775433308214,43.71103777044371,13.981411705601607,12.328566189952328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ and understanding. Ar. Sr. Chall.
 sworn before me, in camp of Valley  
 porge, May 13, 1778.G. Washixoros.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531010:1880081201:0153/pct:48.49306811332128,252.61410788381744,41.470765521398434,27.45850622406639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531010:1880081201:0153/pct:16.16435603777376,84.20470262793914,13.823588507132811,9.15283540802213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ will serve the said United States in the
 office of-whioh I now hold,  
 with fidelity aooordiug to the beBt of m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:0041421065A:1897031101:0696/pct:27.18581609594994,35.887220349371745,11.072483921432296,7.600367759730309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:0041421065A:1897031101:0696/pct:27.181091414668057,35.88172207752413,11.074904414320473,7.603033552933967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

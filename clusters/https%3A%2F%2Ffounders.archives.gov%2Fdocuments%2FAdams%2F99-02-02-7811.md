@@ -510,7 +510,7 @@ r power of resistance.
 as much as any part of the state to depre­  
 dations. Part of the militia must, accordin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812111901:0292/pct:37.93103448275862,36.258278145695364,17.276387187117102,13.658940397350994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812111901:0292/pct:37.924396219810994,36.253990776871234,17.279197293197992,13.66126680067794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ t to repel it, except it should be utadc by a
 t fleet of heavy ships, against which nothing  
 . perhaps hut strong fortifications, garrisone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812111901:0292/pct:37.93103448275862,52.05771050141911,17.311395063889375,16.946546830652792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812111901:0292/pct:37.924396219810994,52.05155492491427,17.314199043285498,16.94848449016594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ t fleet of heavy ships, against which nothing
 . by regular troops, would prove any defence,  
 until the enemy should land, when the cn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812111901:0292/pct:37.93103448275862,68.99243140964995,17.22387537195869,1.0525070955534532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812111901:0292/pct:37.924396219810994,68.98427338299634,17.226694668066738,1.0563241496196445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ that detaching a part of it, and distributing
 i • into sm til portions, will tend to impair the  
 . defensive power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812111901:0292/pct:37.93103448275862,73.9120151371807,17.328899002275513,6.516083254493851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812111901:0292/pct:37.924396219810994,73.90327539316543,17.33169991832925,6.519254266682433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ as the rendezvous of the detached militia
 contain more of the militia than the portion  
 ot the detached militia assigned to then
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812111901:0294/pct:39.07965835802684,17.529039070749736,16.454592992853406,3.273495248152059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812111901:0294/pct:39.0728476821192,17.526982637259504,16.457534564889045,3.277021742530893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ and lay waste such towns and districts i,o..n
 the coast as might be found assailable ?”(//) It  
 was tile pretext of a request from the gover
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040101:0418/pct:60.763636363636365,32.88632660734428,17.272727272727273,2.9201654342649457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040101:0418/pct:60.75259043810216,32.88220551378446,17.275646852087498,2.9239766081871346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1000,7 +1000,7 @@ country. In case of a more serious invasion,
 whole brigades or divisions could be collected  
 seasonably for defence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820031401:0041/pct:22.530137176111957,19.41542884523239,16.197866149369545,23.507426928605653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820031401:0041/pct:22.53937462472865,19.4218176010222,16.193247425061198,23.513815684395464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ vigorous as the unlive n,k of our soil, and whose re­
 membrance, tif vvltat lo us ate kuotvn only as histo­  
 rical ficts, is as Iresh as the passing events of the day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823070101:0070/pct:36.03252032520325,11.535697172975564,15.333333333333334,3.186391950167705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823070101:0070/pct:36.02666233132824,11.534315486884656,15.336259686771799,3.190002794745878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1140,7 +1140,7 @@ quest,&quot; —1}. 62.
 We should roconimeud to the author of this pamph­  
 let, to have these two panegyrics Set to music, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823070101:0070/pct:36.09756097560975,15.09343555342597,15.512195121951219,14.781983708672737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823070101:0070/pct:36.09169240773858,15.091627739849084,15.515092396900233,14.784205693296602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1288,7 +1288,7 @@ t&amp;_hatmn, had officially threatened ¢ to destroy and lay waste such towns a
 tricts upon the ceast as might be found assailable.”* Havre de Grace and George­  
 to&#x27;:vn_,c:.xrly in the year of 1813, when no pretence existed to give the act a color o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828022601:0446/pct:6.269877328487051,21.8702713608393,27.108889898530972,1.7250075658226571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828022601:0446/pct:6.274925538896461,21.876996536534516,27.11393810894038,1.7283701536702647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1314,7 +1314,7 @@ said, who wears an epaulettb, feels, in a
 greater or less degree, the pride of his sta­  
 tion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1828062601:0409/pct:75.24831148192293,73.89502762430939,17.123559793404848,7.900552486187845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1828062601:0409/pct:75.23336643495531,73.88482253832343,17.125124131082423,7.902913962159922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1368,7 +1368,7 @@ is said “ who wears an epaulette, feels, in a
 greater or less degree, the pride of his  
 station.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828070901:0631/pct:43.20866141732284,99.2471590909091,19.271653543307085,3.465909090909091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1828070901:0631/pct:33.49097381133994,76.91912520182005,14.945334350368675,2.6897108469103186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1404,7 +1404,7 @@ force under his command on the 18th August, 1811, “to
 destroy and lay waste such towns and districts upon the  
 coast, as might he found assailable:” ami that the Presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832041001:0440/pct:34.2328557518431,49.93948729233139,15.02295173181249,1.342281879194631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832041001:0440/pct:34.22809457579972,49.93399339933993,15.025498377375985,1.3458012467913458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1422,7 +1422,7 @@ forces under his command, &quot;t&lt;&gt; destroy and lay waste
 such towns and districts upon the coast r.s might be found  
 assailable.&quot; The public treasury was in the most exhaust
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841122901:0566/pct:49.43344916150476,58.085277554304106,15.863423477866748,1.9509251810136765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841122901:0566/pct:49.43344916150476,58.09198176454814,15.868459485320038,1.94757307589166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1472,7 +1472,7 @@ States respectively the appointment of the officers
 And the authority of training the militia according to the  
 iscipline prescribed by Congress, and to make all law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860091601:0181/pct:19.365779209767677,13.252868068833653,45.88773952857385,22.789196940726576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860091601:0181/pct:6.455259736589226,4.417622689611218,15.295913176191284,7.596398980242192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1503,7 +1503,7 @@ while strangers might be introduced to take
 their places at home.&quot; Therefore, Massach­  
 etts did not comply with this requisition i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861042501:0266/pct:55.86776859504132,324.19952080156827,33.88429752066116,28.708342409061206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861042501:0266/pct:13.972715998346423,81.04988020039207,8.474576271186441,7.177085602265302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1560,7 +1560,7 @@ friends, under their own officers, Tather than be
 inarched to some distant place, while strangers  
 might be introduced to take their places a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663523:1861050601:0026/pct:1.6156670746634028,29.937920783422225,13.965728274173806,2.605578385940369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663523:1861050601:0026/pct:1.6238270093839249,29.937920783422225,13.961648306813546,2.608492903150593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

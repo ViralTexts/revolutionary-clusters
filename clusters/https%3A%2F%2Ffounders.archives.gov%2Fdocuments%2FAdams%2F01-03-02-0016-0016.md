@@ -101,7 +101,7 @@ circulated by the ministerialists, to impress the
 people with the obscuriiy of the original of the fxir  
 iwlnUfratrum, as the friends of the country used t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850090601:0252/pct:67.52767527675277,18.759099563220964,15.640079477717855,23.8996528166648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850090601:0252/pct:67.52767527675277,18.759099563220964,15.654271927334658,23.903385970806735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ thought I had done as 1 ought: she was very
 willing to share in all that w as to come, and to  
 place her trust in Providence.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850090901:0581/pct:33.90783064818284,4.262521588946459,25.412139378044213,90.860103626943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850090901:0581/pct:33.90465486559895,4.26222713456756,25.412881271268457,90.85612968591693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ by the ministerialists, to impress the people with
 I the obscurity of the original of the country, as  
 | they used to call us, by way of retaliation.*’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850090901:0581/pct:46.796553016110906,10.335060449050086,12.6264518546272,13.243523316062177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850090901:0581/pct:46.792170085229934,10.33434650455927,12.628391245980456,13.244911117251542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ as to me, but she thought I had done as I ought;
 she was very willing to share in all that was  
 to come, and to place her trust in Providence.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1850091701:0131/pct:248.88744518434302,174.17876241405654,38.21666395972064,57.0773764051075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1850091701:0131/pct:82.94900941864242,58.053251855085115,12.736819313629967,19.02371599010621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ done as I ought; she was very willing to share in
 all that was to come, and to place her trust in  
 Providence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872366:1850092001:0915/pct:241.11675126903555,22.5,38.70558375634518,35.78703703703704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872366:1850092001:0915/pct:80.37225042301185,7.5,12.90186125211506,11.929012345679013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ family to ruin, and myself to death; for I could
   
 scarce perceive a possibility that I should ever age mellows a pisture. Her brilliant eyes, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1850092101:0629/pct:168.51424172440338,331.65298944900354,104.8498845265589,25.908558030480656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1850092101:0629/pct:42.15289813210091,82.91324736225089,26.227614095898325,6.477139507620164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ me, but she thought I had doue as I ought; she
 was very willling to share in all that was to come,  
 and to place her trust in Providence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1850092101:0629/pct:168.2832948421863,358.8511137162954,105.46574287913779,31.477139507620166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1850092101:0629/pct:42.095128056999805,89.71277842907385,26.38166762950125,7.869284876905041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ ly to ruin, and myself to death; for I
 could scarce perceive a possibility that I  
 thould ever go through the thorns an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022363:00200290148:1850101001:0171/pct:10.957792207792208,263.9892904953146,51.785714285714285,39.38717834300164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022363:00200290148:1850101001:0171/pct:2.740004059265273,65.99732262382865,12.949056220824032,9.84679458575041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ done as I ought; she was very willing
 to share in all that was to come, and to  
 place her trust in Provdence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022363:00200290148:1850101001:0171/pct:10.957792207792208,301.65104863900046,52.5974025974026,52.23858396549159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022363:00200290148:1850101001:0171/pct:2.740004059265273,75.41276215975012,13.15201948447331,13.059645991372898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -930,7 +930,7 @@ perceive a possibility that I should ever go
   
 through the thorns and leap all the precipic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1850101901:0372/pct:272.461752433936,354.3353410841855,103.68567454798331,23.532707662137554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1850101901:0372/pct:68.15098277961384,88.58383527104637,25.93494520786224,5.8831769155343885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -971,7 +971,7 @@ vor accustomed to nopeet that voice, re-
 garding the confidence and approbation of  
 the people as the highest honor to which an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1850101901:0373/pct:27.72002772002772,24.979044425817268,51.143451143451145,61.860854987426656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296205:1850101901:0373/pct:6.9312077629526945,6.244761106454317,12.78807832264772,15.465213746856664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1164,7 +1164,7 @@ le them, as far as possible, to live the same
 life as they would live if they had not lost their  
 sight. Do not separate them from their friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881080701:0181/pct:183.08351177730194,328.041648837541,50.820842255531765,7.359863072314933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881080701:0181/pct:45.77904693913975,82.01041220938525,12.707478136712476,1.8399657680787334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

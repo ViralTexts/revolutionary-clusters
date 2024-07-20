@@ -145,7 +145,7 @@ labor of scouring) I shall be happy to see them.
 I am, dear sir, your most obedient servant,  
 GKO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817092301:0148/pct:35.114376356653864,61.67247386759582,15.16112873601603,15.331010452961673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817092301:0148/pct:35.108514190317194,61.665064872657375,15.164162493043962,15.333173153932405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ see them. {
 I am, dear sir, your most obedicnt servani,  
 GLO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817110501:0587/pct:29.143561306223045,17.564266604629523,22.28383651673855,23.764103757124577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1817110501:0587/pct:29.143561306223045,17.568143926175797,22.28383651673855,23.775735721763407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ to see them.
 sorvatil,  
 “ C.I&#x27;OIltir. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823042201:0296/pct:17.36081597960051,1.7859756990191773,31.44921376965576,94.52495974235104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823042201:0296/pct:17.357127682175484,1.7857142857142858,31.44784363713618,94.51478337236534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ I am, dear sir,
 Vour most olied&#x27;t servant.  
 GKO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1835021901:0238/pct:46.04552153266743,59.80110232446681,14.082200753233995,23.640067098011023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1835021901:0238/pct:46.037982973149965,59.79393794177549,14.085352543112858,23.641228385447864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,7 +944,7 @@ happy to see them.
 I am Dr. Doct. Yr. most obed, ser&#x27;t,  
 GO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843050701:0521/pct:148.80156530246208,106.35206667417502,52.56807435186695,33.280774862034015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843050701:0521/pct:49.600521767487365,35.45068889139167,17.522691450622318,11.093591620678005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1001,7 +1001,7 @@ ering; I shall tie happy to see them.
 1 am, Dr. Dr. yr. most obed. servt.  
 &lt;tO. WatHIVGTn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843051001:0449/pct:82.25890529973935,45.30525260122853,18.609904430929625,14.717312272784255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843051001:0449/pct:82.26469736461048,45.31360996197401,18.61569649580075,14.717312272784255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1050,7 +1050,7 @@ them. I am, dear !)r.
 Your most obd’t servant, I  
 ( i 0. W vsij IN’GTON*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843051101:0449/pct:64.60237884596481,40.476027162356814,15.000491497100167,16.81871184580561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843051101:0449/pct:64.59602909376844,40.47325102880659,15.002293427691502,16.819844535893917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1097,7 +1097,7 @@ ing) I shall be happy to see them
 I am, Dr. Dr. yr most oned sery&#x27;t,  
 GEO. WASHiNGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843051101:0392/pct:100.32588454376165,183.37143544699796,44.89447548106766,49.57285525207556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843051101:0392/pct:33.436772692009306,61.11645813282002,14.962503232479959,16.522297080526148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1351,7 +1351,7 @@ happy to see them.
 I am, dr. Dr. yr. most obed, servt.  
 GO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843051701:0452/pct:173.94052578652492,142.88503502928677,38.50021548628071,33.019409670380156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843051701:0452/pct:57.97184717035335,47.62287551676619,12.831561811739922,11.005205940897259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1414,7 +1414,7 @@ I shall be happy to see them.
 I am Dr. Doct. Yr. moat obed. serv’t.  
 GO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843051801:0251/pct:83.6897488119484,70.39532223210881,13.255261371350985,20.91013092665565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157303:1843051801:0251/pct:83.67554725946037,70.38637519064565,13.25725436959104,20.91065073716319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1550,7 +1550,7 @@ sh ill be happy to s e them.
 1 uni Dr. Doct. Yr. most nhed. serv&#x27;t. j  
 GKt». WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1843052501:0495/pct:42.49063670411985,46.22045079714129,13.239700374531836,11.847168774051676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1843052501:0495/pct:42.48268114585284,46.21409921671018,13.241902265493353,11.84897622646695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1650,9 +1650,9 @@ Go. WASHINGTO
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1843-06_12_60/page/n103/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1843-06_12_60/page/n103/mode/1up?view=theater)
 
-#### 1843-06-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1843-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1774,7 +1774,7 @@ labor of scowering) I shall be happy to see them.
 I am, Dr. Dr. yr. most obed, servt.  
 Go. WAsHING ToN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843060901:0522/pct:173.28918322295806,199.09607814550225,50.18395879323032,67.59002770083103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843060901:0522/pct:43.34621755935947,49.77401953637556,12.552917356893062,16.897506925207757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1821,7 +1821,7 @@ labor of ecowering.) I shall be happy to see them.
 1 am, Dr. Dr. yr. most olied. s -rvt.  
 Geo. Washing&#x27;on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82016488:00513688040:1843061001:0051/pct:71.67487684729063,55.36581544728184,18.0474697716077,19.31693561021463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82016488:00513688040:1843061001:0051/pct:71.68980444842514,55.36581544728184,18.054933572174953,19.31693561021463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1985,7 +1985,7 @@ labor of scouring,) I shall be happy to see them.
 I am, dear Doctor, your most ob&#x27;t. serv&#x27;t.,  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844042001:0240/pct:22.460956928280115,16.17971518352611,14.77170993733214,16.112856856321454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844042001:0240/pct:22.458722896359657,16.178633507153364,14.77355613023009,16.114008111601372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2140,7 +2140,7 @@ I am, dear Doctor,- your most &#x27; obedient
 servant.  
 G. WASHINGTO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1844050201:0072/pct:26.775766016713092,74.58899676375404,20.073119777158773,29.488673139158575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1844050201:0072/pct:20.097526994078716,55.94822006472492,15.064437478230582,22.110032362459545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2258,7 +2258,7 @@ them.
 I am, dear Doctor, your most obedient sy&#x27;t.  
 GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295875045:1844050401:0071/pct:171.1206896551724,44.858235823582355,39.08045977011494,48.199819981998196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295875045:1844050401:0071/pct:57.04022988505747,14.952745274527453,13.026819923371647,16.066606660666068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2340,7 +2340,7 @@ shall lie happy to see them.
 &quot; I am, dear Dr., your most ob’t s’t.,  
 “George Washington/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082162:00514159324:1848121601:1168/pct:48.59903381642512,24.40351611552951,19.130434782608695,25.031393888656343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082162:00514159324:1848121601:1168/pct:37.66473642172524,18.92008795011354,14.83626198083067,19.3958836463252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2357,7 +2357,7 @@ prize them of their fare? As I hate deception, even where
 the imagination only is concerned, I will. It is needless to  
 premise that my table is large enough to hold the ladis--o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:0029587238A:1848122201:0599/pct:53.5797213622291,27.655228758169933,44.0015479876161,3.553921568627451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:0029587238A:1848122201:0599/pct:17.859907120743035,9.218409586056644,14.6671826625387,1.184640522875817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2395,7 +2395,7 @@ labor of scouring) I shall be happy to see them.
 I am, dear Doctor, your most ob&#x27;dt servant,  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:0029587238A:1848122201:0599/pct:53.40557275541796,24.63235294117647,44.11764705882353,27.32843137254902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:0029587238A:1848122201:0599/pct:17.80185758513932,8.21078431372549,14.705882352941176,9.109477124183007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2575,7 +2575,7 @@ into contact with the servant of Cola Pickeen or bean amo ieceie e
 ering, the departed Primus. An opportu­  
 nity was afforded to the negro to note him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1849061401:0941/pct:63.857142857142854,96.20253164556962,101.07142857142857,35.89310829817159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1849061401:0941/pct:15.969989281886388,24.050632911392405,25.276884601643445,8.973277074542898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2608,7 +2608,7 @@ it on plates, once tin, but now iron, (not
 become so by the labor of scouring,) I shall  
 be happy to see them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1849061401:0941/pct:115.07142857142857,128.27004219409284,50.0,39.774964838255976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1849061401:0941/pct:28.778135048231512,32.06751054852321,12.504465880671669,9.943741209563994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2653,7 +2653,7 @@ t on plates once tin but now iron, and not become
 10 by the labor of scouring, I shall be happy to  
 tee them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851032501:0303/pct:54.25290829430428,63.989667723376776,15.87853150022662,13.349771046143008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851032501:0303/pct:54.25290829430428,63.9974952056671,15.888603515133202,13.349771046143008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2702,7 +2702,7 @@ of it on plates once tin but now Iron, and
 not become so by the labor of scouring, I  
 shall be happy to see them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851033101:0036/pct:200.38095238095238,294.68543521976443,47.333333333333336,70.33898305084746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851033101:0036/pct:50.0856979622929,73.66077840011489,11.831079794324891,17.58222030733879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2846,7 +2846,7 @@ of his efforts, we do not get one of apples instead
 f having both of beef sten&#x27;ss. If the ladies can  
 h entertalument and w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1856092401:0183/pct:201.5741833923652,118.25055596738325,61.570247933884296,57.183098591549296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1856092401:0183/pct:50.38363171355499,29.558256744737623,15.389533739917372,14.293655499555292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2891,7 +2891,7 @@ mit to partake cf it on plates once tin, but
 now iron, (not beoome so by the labor of  
 scouring,) 1 shall be happy to see them 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654085:1856102201:0255/pct:66.51448362720403,69.4575230296827,16.1051637279597,14.554759467758444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654085:1856102201:0255/pct:66.51448362720403,69.46519959058342,16.113035264483628,14.554759467758444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2933,7 +2933,7 @@ partake of it on plates once tin, but now iron, (not
 become so by the labor of scouring,) I shail be happy  
 to see them.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190996:1856102401:0395/pct:60.33459255261738,197.90364104450165,43.69490915632308,29.949736422704426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190996:1856102401:0395/pct:20.11153085087246,65.96788034816721,14.56496971877436,9.983245474234808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3148,7 +3148,7 @@ an plates once tin, but now iron, tnot bee
 so by the labor of scouring. I shall  
 be happy to see them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1856112101:0458/pct:194.67336683417085,72.1240625397229,53.869346733668344,61.44654887504767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1856112101:0458/pct:64.89112227805695,24.041354179907632,17.95644891122278,20.482182958349224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3201,7 +3201,7 @@ plates once tin, hut now iron, (not ho
 come so In the labor of scouring,) I  
 shall be happy to see them.”—Irving&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058106:00279557335:1856120501:0496/pct:11.427449440408404,49.25413250907136,16.591399960730413,28.517672355866146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn86058106:00279557335:1856120501:0496/pct:11.432358138621638,49.25413250907136,16.586491262517182,28.5210321193388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3254,7 +3254,7 @@ plates once tin, but now iron, (not be­
 come so by the labor of scouring,) I  
 shall h- happy to see them.”—Irving&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn93052998:00279557359:1856120601:0200/pct:52.108946472479666,20.180256301929305,12.105163608851901,22.165892127869313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn93052998:00279557359:1856120601:0200/pct:52.118403631549086,20.190818194620476,12.109892188386608,22.155330235178145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3280,7 +3280,7 @@ as e
 enough to hold the ladies fof this thor  
 ocular proof yesterday. To say how it is u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1860030301:0248/pct:163.55685131195335,147.6589654467389,51.66180758017493,19.382539358004497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1860030301:0248/pct:40.895174223647764,36.914741361684726,12.917334888467707,4.845634839501124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3315,7 +3315,7 @@ hall he hanny to see them and am dear
 dector, yours, ets. Gro. Wasureros,  
 o eren ad e oe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1860030301:0248/pct:164.3731778425656,194.56143937845022,51.66180758017493,35.65732978940912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1860030301:0248/pct:41.09928561014725,48.640359844612554,12.917334888467707,8.91433244735228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3364,7 +3364,7 @@ see them. I am, dear Doctor,
 Your most obedient servant,  
 GeO. WeshINGtO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524007:1863062601:0115/pct:193.310546875,141.87961729441685,43.522135416666664,68.13612692261111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524007:1863062601:0115/pct:64.42636289666396,47.28747880842819,14.505017629509085,22.70929199967708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3424,7 +3424,7 @@ I am, dear sir,
 Your most obedient servant,  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:00279554218:1865020901:0135/pct:330.1525224872898,122.77538220305762,53.55885803676183,107.77472886449759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:00279554218:1865020901:0135/pct:82.53813062182245,30.693845550764404,13.389714509190458,26.943682216124397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3515,7 +3515,7 @@ partake of it on plates once tin, but now
 iron, and not become so by the labor of  
 scouring, I shall be happy to see them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769325:1868052901:0282/pct:60.229499020431014,77.61565067012538,12.930310663308145,17.131431041936878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769325:1868052901:0282/pct:60.229499020431014,77.61565067012538,12.934975277544547,17.138636691165875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3577,7 +3577,7 @@ is efforts, we do not get one of the apples,
   
 instead of having both beef. If the ladies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn84022040:00415668302:1868061201:0558/pct:177.70419426048565,94.6693533614215,138.3002207505519,60.23081150393845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn84022040:00415668302:1868061201:0558/pct:44.450579790171176,23.667338340355375,34.594146880176694,15.057702875984612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3632,7 +3632,7 @@ plates once tin, but now iron and not
 become so by the labor of scouring, I  
 shall be happy to see them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775824:1868061201:0509/pct:115.0946275946276,41.67930029154519,13.537851037851038,24.02332361516035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775824:1868061201:0509/pct:86.35114503816794,31.26530612244898,10.16793893129771,18.017492711370263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3685,7 +3685,7 @@ on plates once tin, but now iron, and
 not become so by the labor of scour­  
 ing, I shall bo happy to see them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022150:00514150084:1868070301:0824/pct:3.4099153567110037,10.96045197740113,13.80894800483676,20.07532956685499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn84022150:00514150084:1868070301:0824/pct:3.4280532043530836,10.965160075329567,13.796856106408706,20.0894538606403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3733,7 +3733,7 @@ not become so in labor of scouring, I nbaii be
 happy to see them. I am, dear Doctor, your  
 obedient servant, Gxonos Wasnci&#x27;uTox
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870061901:0005/pct:90.0,85.21684077239632,9.103053435114504,11.285216840772396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870061901:0005/pct:90.00477099236642,85.22871161760051,9.107824427480915,11.28917378917379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3784,7 +3784,7 @@ labor of scouring, I shall be bappy to ee
 them.  
 I am, dear doctor, your obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn84038628:00295879968:1870062301:0593/pct:35.484886649874056,13.279270146984288,14.247481108312343,20.577800304105423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn84038628:00295879968:1870062301:0593/pct:26.625728231774524,9.959452610238216,10.691229727601952,15.433350228079068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3831,7 +3831,7 @@ happy to see them.
 I am, dear doctor, your obedient servant,  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1870062501:0216/pct:91.37792103142627,194.70817120622567,70.1047542304593,69.20881971465629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1870062501:0216/pct:22.849083215796895,48.67704280155642,17.529719927463226,17.30220492866407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3970,7 +3970,7 @@ shall be happy to see them.
   
 &quot;GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283636:1870070701:0172/pct:79.34369055168041,63.50588235294118,19.166138237159164,26.63529411764706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283636:1870070701:0172/pct:59.53060577228037,47.63529411764706,14.38312718046305,19.976470588235294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4028,7 +4028,7 @@ doctor, Your ob&#x27;dt servant,
   
 EORGE Was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775113:1870070701:0827/pct:164.43864229765012,256.2179234109751,39.268929503916446,57.915515199368336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775113:1870070701:0827/pct:41.11502807154981,64.05448085274378,9.818514166340254,14.478878799842084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4081,7 +4081,7 @@ i am, dear d &gt;ctor, your obedient ser­
 vant,  
 George Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151210:1870070701:0280/pct:5.444478621962473,10.271451575799402,14.3801907105506,22.36024844720497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151210:1870070701:0280/pct:5.449605249666769,10.271451575799402,14.385317338254897,22.367916570815122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4137,7 +4137,7 @@ come so by labor of scouring, I shall be happy
 to see them. I am, dear Doctor, your obedient  
 servant,GEorge WAsHINGION
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1870071501:0545/pct:174.6817538896747,62.2692655221376,41.15983026874116,45.54020911320511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1870071501:0545/pct:43.69361401026004,15.5673163805344,10.295418361931718,11.385052278301277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4300,7 +4300,7 @@ be happy to see them.
 servant.  
 GEoRoE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629229:1871011001:0586/pct:269.3030540328896,169.36307444235422,51.135473766640565,99.00564364418167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629229:1871011001:0586/pct:67.33894654395927,42.340768610588555,12.78637164675935,24.75141091104542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4352,7 +4352,7 @@ happy to see them. I am, dear
 doctor, your most obedient servant,  
 UEOKGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876051201:0448/pct:58.88798701298701,63.986919198800926,16.538149350649352,29.418176863332878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876051201:0448/pct:44.185102496448145,47.99018939910069,12.401055408970976,22.073852023436434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4406,7 +4406,7 @@ such entertainment, and will submit to partake
 .of it on plates onoe tin but now iron (not l*­  
 oome so by sccmting), I shall be happy to a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn2001063144:00295876475:1876052401:0022/pct:79.84148862853205,64.71430275557677,14.576154376292212,16.092091136824525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn2001063144:00295876475:1876052401:0022/pct:69.86783255439971,56.62445202143205,12.749384391175436,14.08043977454596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4450,7 +4450,7 @@ such entertainment, and will submit to partake
 .of it on plates once tin but now iron (not be­  
 emne so by twpuijpg), I shall be hapftr to se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn2001063144:00295876475:1876052401:0024/pct:79.05138339920948,64.68258730349214,14.349544595291286,16.11664466578663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn2001063144:00295876475:1876052401:0024/pct:69.17948974988722,56.59782989149458,12.56077389604531,14.105705285264262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4499,7 +4499,7 @@ dear doctor, your most obedient sery
   
 GORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1876060101:0011/pct:43.40782122905028,45.84279381554763,35.642458100558656,48.7836522867337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1876060101:0011/pct:10.85195530726257,11.460698453886907,8.910614525139664,12.195913071683425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4578,7 +4578,7 @@ beef. If Hie ladies rAn putup with such euUriuln.
 meat, and will submit to partake of it on plates  
 once tin but now Iron &lt;uul become so by scour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876060301:0006/pct:72.44680851063829,86.49237472766885,13.21808510638298,7.3677956030897205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876060301:0006/pct:72.46675531914893,86.50722915428798,13.224734042553191,7.3677956030897205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4629,7 +4629,7 @@ sucli entertainment, and will submit to
 paftake of it on places, once tin but now  
 iron (not become so by scouring), 1 shril
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1876102001:0354/pct:60.926615907986395,19.67896865520728,11.112911064312328,13.940849342770475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1876102001:0354/pct:60.916747651441526,19.676481738910653,11.115160349854227,13.942246935422721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4670,7 +4670,7 @@ once tin, but now Iron (not btcvmt »o tht labour
 of •eouriagi, i ehatl be happy to eve them. I am,  
 dear sir, jour most obudicut servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877011501:0002/pct:85.171974522293,79.59752938832436,12.713375796178344,9.942219565650529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877011501:0002/pct:85.19108280254777,79.6124726041044,12.700636942675159,9.932257421797171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4767,7 +4767,7 @@ shall be happy to see them.
 I ain dear sir, your most obedient servant.  
 GEORGe WASHInGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558378:1877020301:0128/pct:285.3333333333333,42.79312920089619,48.95238095238095,37.266616878267364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn86053573:00294558378:1877020301:0128/pct:71.38432213485824,10.698282300224047,12.246842983083155,9.316654219566841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4923,7 +4923,7 @@ uuMt nliedient servant.
 Geoboe WamiimJtivc.  
 A Glimpse of Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:99.16424418604652,100.63659758905594,14.662063953488373,14.113503995665718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:74.40930570701563,75.48422050656914,10.99600145401672,10.578355681972099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5020,7 +5020,7 @@ once tin, but now iron, not become so by the
 labors of hard scouring, I shall be happy to see  
 them. Dear sir, Yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958265:1884091401:0006/pct:56.82730923694779,30.491551459293394,12.048192771084338,11.63594470046083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958265:1884091401:0006/pct:56.83643665571376,30.494751664106502,12.052756480467323,11.642345110087046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5073,7 +5073,7 @@ it on plates once tin, but now iron, not
 become so by the labor oi naru scour­  
 ing, I shall be&quot; happv to eee them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473042:1884102301:0095/pct:87.56377551020408,8.216846967302784,38.93494897959184,120.23823994165552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473042:1884102301:0095/pct:65.70425905248045,6.1626352254770875,29.22316158877014,90.17867995624164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5320,7 +5320,7 @@ to see them.
 &quot;Vr. most obed. serv&#x27;t.  
 &#x27;Go. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776142:1889041701:0411/pct:41.81240063593005,107.3990013617794,16.414944356120827,19.79119382660009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776142:1889041701:0411/pct:31.371769383697814,80.55681646239975,12.326043737574553,14.843395369950068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5371,7 +5371,7 @@ to sec them.
 &quot;Yr. most obeds rcrv&#x27;t.  
 &quot;On. Wasiunotox.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mauve_ver04:data:sn85034357:00175033877:1889051001:0460/pct:71.13181906425936,82.10404289233445,14.210832847990682,15.432546007824953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mauve_ver04:data:sn85034357:00175033877:1889051001:0460/pct:71.14476153497702,82.10887311017727,14.210832847990682,15.432546007824953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5473,7 +5473,7 @@ labor of scouring I shall be happy to see them.
 A MILLION DOLLAR CLOAK.  
 There are a vast number of fine dresse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280167:1890110201:0036/pct:67.57123473541384,18.476903870162296,14.772727272727273,14.17672354001942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280167:1890110201:0036/pct:50.70422535211268,13.857677902621722,11.097912777872052,10.639478429740603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5513,7 +5513,7 @@ plates onco tin but now iron become bo
 by the labor of scouring I shall be happy  
 to see the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86064205:00206536627:1890110201:0579/pct:176.44230769230768,213.4403061975563,52.88461538461539,50.419549536287356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86064205:00206536627:1890110201:0579/pct:44.12825651302605,53.36007654938908,13.226452905811623,12.604887384071839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5549,7 +5549,7 @@ will submit to partake of it on plates once
 tin but now ironbecome so by the labor  
 of scouring shall be happy to see the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048789:1890110201:0028/pct:27.696700507614214,51.96648044692738,18.75,13.553072625698324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048789:1890110201:0028/pct:18.473258212982067,34.64804469273743,12.505951436279956,9.039106145251397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5589,7 +5589,7 @@ it on plates once tin, but now iron—become so
 bT the labor of scouring—l shall be bappy to see  
 tbem. [Signed.] Giotsi WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199057:1890110201:0563/pct:123.59971202303815,150.72835453426345,37.82577393808495,29.759950759130078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199057:1890110201:0563/pct:41.199904007679386,50.24278484475448,12.608591312694985,9.919983586376693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5632,7 +5632,7 @@ partake of it on plate once tin( hut now
 iroti—liccome so by the labor ol scouring  
 —I shall he happy to see them. ’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1890121801:0411/pct:13.818807339449542,11.488398415393322,11.353211009174313,13.539898132427844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1890121801:0411/pct:13.816166634817504,11.48677323525251,11.355818841964457,13.541519309661904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5892,7 +5892,7 @@ of It on plates, once tin, but now Iron
 ing), I shall bo happy to see thorn, and  
 urn. dear doctor, yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_alpha_ver01:data:sn84025828:00294555717:1896122601:0327/pct:6.600910470409712,90.48279689234184,16.69195751138088,27.830188679245282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_alpha_ver01:data:sn84025828:00294555717:1896122601:0327/pct:4.952561669829222,67.86903440621532,12.523719165085389,20.865704772475027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6036,7 +6036,7 @@ iron (not become so by the labor of
 couring). I shall be happy to ses  
 them, and am, dear doctor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294269:1897010301:1287/pct:316.29392971246006,27.238605898123325,48.722044728434504,80.64343163538874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_infiniti_ver03:data:sn88083938:00200294269:1897010301:1287/pct:79.07348242811501,6.809651474530831,12.180511182108626,20.160857908847184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6088,7 +6088,7 @@ of it on plates, once tin, but now iron
 ing), I shall be happy to see them, and  
 am. dear doctor, yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86053634:00212478040:1897011301:0529/pct:37.270341207349084,65.05689335803123,14.156824146981627,25.44323895210373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86053634:00212478040:1897011301:0529/pct:27.966518956179222,48.79597777189733,10.635155096011816,19.079121460703888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6238,7 +6238,7 @@ of apple instead of both of beefsteaks.
 If the ladies can put np with such en  
 tertainment and wi!l.Rnhxiit to nrrinV
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028297:0029602918A:1897031801:0912/pct:94.08580593424219,82.69339356295878,16.178829190056135,11.123658949745906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028297:0029602918A:1897031801:0912/pct:70.61183550651955,62.02710333145116,12.13640922768305,8.34274421230943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6272,7 +6272,7 @@ foot, and a dish of beans or greens al­
 most imperceptibly decorates the cen­  
 ter. Editor ofThe Graphic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028297:0029602918A:1897032501:0924/pct:78.08,11.390802981296583,16.02,13.584587259175924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028297:0029602918A:1897032501:0924/pct:58.571714342868574,8.550133595837435,12.02240448089618,10.181409084516945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6380,7 +6380,7 @@ he of it on plates, once tin, but now iron
 l ing), I shall be happy to see them, and  
 Sam, dear doctor, yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_juggernaut_ver01:data:sn88064237:0021110093A:1897042401:0290/pct:56.40886965927528,49.4370651486401,14.530376780241571,22.11258697027198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_juggernaut_ver01:data:sn88064237:0021110093A:1897042401:0290/pct:56.40886965927528,49.44331983805668,14.530376780241571,22.115384615384617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6434,7 +6434,7 @@ it on plates, once tin, but now Iron
 lng).’l •kail happy to sec them, and  
 aw,deaiM]octor- &gt;oura
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916270:1897050801:0741/pct:69.52116034174449,64.50795438547092,16.113649910590105,26.97451780937632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916270:1897050801:0741/pct:53.882872247600474,50.00181851245681,12.48780988554124,20.912893253318785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

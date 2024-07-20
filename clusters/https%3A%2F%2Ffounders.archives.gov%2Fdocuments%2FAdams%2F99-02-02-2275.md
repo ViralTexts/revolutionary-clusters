@@ -77,7 +77,7 @@ veflels laden with provisions and destined
 for enemy ports, preceded, by one mdnth,  
 the order of the British government fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797032501:0257/pct:6.179950186799502,55.426125049780964,16.080323785803238,8.791318199920351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797032501:0257/pct:6.179950186799502,55.426125049780964,16.101079286010794,8.794636930837648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ Consequence of the negoclation and com*
 pletion of that convention and of those  
 first ord&lt; rs.f The British orders ot th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807082801:0002/pct:78.25702278257023,11.964611711838225,18.60207918602079,76.92739783738239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807082801:0002/pct:78.27176878271769,11.964611711838225,18.60207918602079,76.93675981837757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ ly noticed, in the decree of the convin­
 tron.-j Although these circumstances are  
 nbso&#x27;uti tv iris inetijij Frame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807082801:0003/pct:2.78576166261331,4.394215920258318,18.527525978332964,10.627544573915484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807082801:0003/pct:2.78576166261331,4.398895596424728,18.527525978332964,10.636903926248303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ ply explained by lord Grenville to
 rVfr. Finekney, is a matter of th? most  
 iiiiir.u* taripnrtslice to the U. S, T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807082801:0003/pct:2.78576166261331,71.89386494454584,18.505416758788414,14.053067527727082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807082801:0003/pct:2.78576166261331,71.89854462071224,18.527525978332964,14.062426880059899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ a month before the French orders ot
 May, It may be repeated, that she at­  
 , so appears to have commenced it Ml th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807090401:0003/pct:40.1056570548096,27.394769962243043,18.908210433634164,9.467207383582716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807090401:0003/pct:40.1056570548096,27.394769962243043,18.930222320052827,9.471868736307277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ made in consequence of the negociatioi and
 completion of taat convention and of those  
 first ordersf.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809021401:0057/pct:41.40233722871452,4.833442194644023,35.93025412724912,93.35075114304377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809021401:0057/pct:41.3946587537092,4.832810867293626,35.9297725024728,93.34291187739464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ between them, wnich was signed by those
 two governments at London, on the 25th day  
 ot March 1793.”—(The words of the dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809022801:0375/pct:24.203133441383038,20.567197891830844,17.143886187646316,10.239678755176309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809022801:0375/pct:24.19877565718401,20.56461731493099,17.14680110430921,10.242576327896277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ j of 1792, and the captures of neutral vessels,
 | were m tie in consequsnce of the negotiation  
 I a.id cornfiletion ot that convention and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809022801:0375/pct:24.077075454709167,34.78479106537834,17.756167837205115,21.621282469569582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809022801:0375/pct:24.072740367302845,34.780426599749056,17.758972512303444,21.62275198661648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ duced this conduct of G. Britain.—Certainly
 1* ranee acted a very unwarrantable and im­  
 prudent part towards us and the other neu 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809022801:0375/pct:24.077075454709167,56.3182331534697,17.756167837205115,5.8476596812649015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809022801:0375/pct:24.072740367302845,56.31116687578419,17.758972512303444,5.851108322877457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ particularized, and others of which are c*x­
 presslr ‘hougli generally noticed, in the de­  
 cree of tiie convention.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809022801:0375/pct:24.34719971186746,62.11569833103275,17.48604358004682,9.110302421884803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809022801:0375/pct:24.342815988476772,62.10790464240903,17.488896891129517,9.113341698034295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

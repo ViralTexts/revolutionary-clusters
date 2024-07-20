@@ -64,7 +64,7 @@ tions collected and printed in volumes, and then
 write the history of the last forty five years in com  
 mentaries upon them.&quot; Mr. Loring not only pree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852112401:0988/pct:197.37694300518135,118.65764241398759,46.24352331606217,5.741680767061478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852112401:0988/pct:65.79231433506045,39.5525474713292,15.414507772020725,1.9138935890204927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ historians may pass over the event, the
 blood of the martyrs, right or wrong, proved  
 to be the seeds of the congregation.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664228:1890040401:0228/pct:25.84269662921348,41.141042487954444,17.04119850187266,1.9601401664476565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016683:00211664228:1890040401:0228/pct:25.84269662921348,41.14469265586217,17.052547951424355,1.967440502263104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ mence their careers by an oration on the
 5th of March,&quot; wrote John Quincy  
 Adams. And in these days, when, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1896081301:0057/pct:74.93792675356922,82.87905604719764,16.294227188081937,3.256637168141593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1896081301:0057/pct:56.224774914622785,62.15929203539823,12.23222601676498,2.4424778761061945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ mence their careers by an oration on the
 5th of March,&quot; wrote John Quincy  
 Adams. And in these days, wfcen, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479378:1896082701:1138/pct:40.8083673107605,72.640099626401,15.67098032263783,3.1008717310087173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479378:1896082701:1138/pct:36.73881827367973,65.37901146934658,14.104132319310748,2.7907498038629655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ mence theircareers by an oration on the
 sth of March.” wrote John Quincy  
 Adams. And in these days. when, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1896082701:0554/pct:75.06112469437653,54.26741746715248,9.576202118989405,2.0867837032129843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1896082701:0554/pct:75.06112469437653,54.26741746715248,9.58525762926741,2.0867837032129843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ mence their careers by an oration on the
 5th of March,&quot; wrote John Quincy  
 Adams. And in these days, wljen, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918163:1896082801:0290/pct:46.216373137216955,80.82551076753175,17.03115928004645,3.520154610712314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918163:1896082801:0290/pct:36.978736581337735,64.6604086140254,13.640586292320396,2.816123688569851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ mence their careers by an oration on the
 5th of March,&quot; wrote John Quincy  
 Adams. And in these days, wfeen, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1896091201:0580/pct:82.76146486308149,65.22926385254296,14.104256021115143,2.8330868130617817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1896091201:0580/pct:82.77246233366326,65.23305647210529,14.098757285824261,2.8330868130617817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ us who did not commence their careers by
 an oration on the 6th of March,” wrote  
 John Quincy Adams. And in these days
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625571:1896091801:0155/pct:35.59677983899195,38.34550460912247,14.263213160658033,1.9274512151322878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625571:1896091801:0155/pct:27.596184275961843,29.71794395991835,11.044803110448031,1.5061545122780973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ mence their careers by on nrn.t ion on tha .
 5th of March,&quot; wrote John Quincy  
 Adams. And in these days, when, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297519:1896100101:0440/pct:106.57065706570657,85.55327868852459,20.634563456345635,3.717798594847775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297519:1896100101:0440/pct:79.98198603918037,64.16861826697892,15.492006304886287,2.7956674473067915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ us who did not commence their careers by
 , an oration on the 6th of March,&quot; wrote  
 John Quincy Adams. And in these days
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287162:1897062301:0303/pct:56.48665425201738,35.66463479841728,13.764742396027312,2.0746444230563577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287162:1897062301:0303/pct:56.48665425201738,35.67176416069582,13.764742396027312,2.0746444230563577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

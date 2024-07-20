@@ -234,7 +234,7 @@ and attention to it, actually explored the route
 of the Chesapeake and Ohio Canal as lar as  
 Pittsburg When he returned he made out 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:5.654415433228006,67.76677667766776,17.877931149176785,18.00880088008801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:5.653475224476222,67.75932240677594,17.880501053098325,18.01048656180105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ versed those lines (or great part of them) which
 liave given bounds to a new empire.’  
 In the fall of the same year it appears tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826061501:0101/pct:5.872376510493958,57.77714529671268,17.362730549077803,13.775437597836914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826061501:0101/pct:5.871131835523527,57.76892430278885,17.36434930055108,13.777034718269778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ vast inland navigation of the LT. States, and
 could not hut be struck with the immense dif­  
 fusion aud importance ol it.’ In the autum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1828081601:0162/pct:24.493361285814117,68.80821590637689,18.62334032145353,10.723668497731072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1828081601:0162/pct:24.489082969432314,68.8,18.625909752547308,10.72636815920398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ so prufuse a hand. Would to God we may
   
 have the wisdom to improve them!&quot; The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840011701:0647/pct:187.27238239757207,166.83608640406607,41.08497723823976,21.643371452774247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290185:1840011701:0647/pct:62.45966976655912,55.61202880135536,13.70278990320744,7.2144571509247495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ of that Providence who had deult His favors to
 us with so profuse a hand. Would to God we  
 may have wisdom to improve them!&quot; The con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874430:1840022901:0058/pct:103.3249686323714,20.489332096474953,37.123588456712675,21.741651205936922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874430:1840022901:0058/pct:34.44165621079046,6.829777365491651,12.374529485570891,7.24721706864564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -643,7 +643,7 @@ tance ofit. and with the goodness of that providence
 who has dealt his favors to us with so profuse a hand.  
 Would to God we may have wisdom to improve them 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851062801:0600/pct:77.8055822906641,16.26625211984172,14.359961501443696,6.331260599208592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851062801:0600/pct:77.79060816012317,16.26395365267769,14.362009237875288,6.333898544581037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ them) wfiich have given bounds to a new em­
   
 pi re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853042801:0398/pct:35.632383599722026,67.5893370836796,12.24808895066018,10.675701591766286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215890:1853042801:0398/pct:35.62928863024407,67.58501661979034,12.249920379860448,10.677149919031791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ explored the Western country, and traversed those lines
 (or a great part of them) which have given bounds to a  
 new empire.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853043001:0594/pct:18.60141804532184,21.850982066609735,15.584596135131378,9.425704526046115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853043001:0594/pct:18.60141804532184,21.85809849131796,15.589230270170074,9.425704526046115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ country to the head of the eastern branch of the Susque
 hanna, and viswe the Lake Otsego, and the portage be  
 etween that lake and the Mohawk River at Canajoharie.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530418:1853062101:0349/pct:4.694912481596598,54.65060240963855,47.488957958449205,22.686746987951807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530418:1853062101:0349/pct:1.5649708271988658,18.216867469879517,15.829652652816403,7.562248995983936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ Providence who has dealt His favors to us with so
 profuse a hand. Hould to God we may have trisdom  
 enough to iMtprove them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530923:1869072401:0616/pct:199.814843388366,194.9873584698252,48.46474309520136,24.711443332966912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530923:1869072401:0616/pct:66.60494779612199,64.9957861566084,16.154914365067118,8.237147777655638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1096,7 +1096,7 @@ tlwtmland navigation of the continent
   
 tlie route ot communication would b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665817:1875020401:0016/pct:66.24335499114,58.31916444012631,14.087418783225043,10.578090842846732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_odoric_ver01:data:sn85038145:00415665817:1875020401:0016/pct:49.711921997340816,43.74544571289774,10.577633328408924,7.930531940733544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1301,7 +1301,7 @@ Edward Everett happily quoted this
 letter at a great meeting in Boston  
 to promote the completion of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82016412:00294552108:1889061901:0583/pct:43.92988929889299,75.02858776443682,15.55350553505535,13.564894225271583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82016412:00294552108:1889061901:0583/pct:32.95811035246356,56.275014293882215,11.681121978224764,10.177244139508291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

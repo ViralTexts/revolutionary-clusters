@@ -115,7 +115,7 @@ two hours time with Fox. YTisited Messrs.
 Mayo, Livingston, Vaughan, Rogers and lady,  
 and Mr. Jay.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811100901:0287/pct:3.262669758198079,25.604053000779423,21.679364027823784,5.426734216679657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811100901:0287/pct:3.262129491637688,25.60155869459328,21.681293812441353,5.429452833252151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

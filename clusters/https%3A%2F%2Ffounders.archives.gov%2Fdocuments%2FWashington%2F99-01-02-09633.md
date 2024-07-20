@@ -136,7 +136,7 @@ to Congress by certain officers of the
 army, asking to have the half-pay for life, which  
 Congress had promised them, &quot;commuted to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857010101:0009/pct:59.18813806514341,16.036019647080227,13.85512882839086,10.915044569765326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857010101:0009/pct:59.19624047966294,16.042083560730095,13.851077621131097,10.915044569765326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ cannot be at ease respecting the consequences. It ?? high
 time for s peace.&quot;?8 Sparks, p. 363.  
 The reply of General Lincoln, the Secretary of War
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:7.353644919444887,47.29132466220482,18.200669963311533,20.43187271120091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:7.364279257723188,47.29132466220482,18.195352794172383,20.43608199688513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ How appalling must have been th
 t patrimony, in establishing the freedom and  
  indeendee o tei o e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882031201:0063/pct:0.0,134.62940461725395,76.51458489154824,21.38517618469016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882031201:0063/pct:0.0,33.65735115431349,19.139382600561273,5.34629404617254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ than whiskey hot from the still, and not al
 ways that, and a bit of beef without vegetables,  
 will afford them.&quot; Out of the penury and rag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883101001:0468/pct:199.0771812080537,232.4547656361305,55.53691275167785,13.22125658925773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883101001:0468/pct:49.779735682819386,58.113691409032626,13.887140759387455,3.3053141473144323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ the history of mankind.&quot; He warned Congress
 that &quot;the patience and long suffering of this  
 army are almost exhausted,&quot; and expresse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883101001:0468/pct:198.99328859060404,247.27169112409175,55.95637583892618,67.30303462031628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883101001:0468/pct:49.758758128802185,61.817922781022936,13.992028529473464,16.82575865507907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

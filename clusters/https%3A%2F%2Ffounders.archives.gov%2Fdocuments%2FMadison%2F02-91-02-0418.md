@@ -45,7 +45,7 @@ fell her, bt igu:ll éc‘parz- the port on pro+
 United States of Noith America, when at­  
 war witk any other vation, shall ‘be per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796032601:0050/pct:9.680883706658484,81.61750148485449,16.69223688247929,6.097802415363295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796032601:0050/pct:9.68599774982101,81.62410083811787,16.697350925641814,6.094502738731604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -70,7 +70,7 @@ under the flag of the United States of America, when
 brought into any port in the regency of Tripoli.  
 Art. ISth. It any ot the citizens of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806043001:1088/pct:25.696140693698094,68.44636844636845,21.07962872496336,6.557639890973224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806043001:1088/pct:25.68986568986569,68.43539596024367,21.08058608058608,6.5605963449823665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ of prizes, captured by the vessels sailing*
 ui.det the flag of the United States of A­  
 niertca, when brought inioaoy port in lh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806050201:0152/pct:77.24596391263059,17.257897462454686,18.575498575498575,8.829621957534956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806050201:0152/pct:77.23129510064565,17.25566343042071,18.57830105076592,8.832793959007551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ forced to depart the port, on procuring the
 requisite suppl es of provis -ns ; but the  
 vessels of war if the U. St ites, with an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816010201:0140/pct:34.90439449849044,9.883426254434871,15.34719892653472,4.612265585402939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816010201:0140/pct:34.89854100285091,9.882174078297226,15.35021521605456,4.615904387854217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ visions ; but the veflels of war of the United
 States with any prizes they may capture  
 from their enemies, shall have liberty t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816010901:0446/pct:41.91882977197763,13.594538438705847,16.33443281227592,7.202928663302662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816010901:0446/pct:41.91882977197763,13.601134527225355,16.348773841961854,7.199630619042908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ war of the United States, with any prizes |
 they may capture from their enemies, shall |  
 have liberty to frequent the ports of Algiers 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822022601:0449/pct:43.03700291724244,23.744056233202397,17.795178873023186,8.114533801943354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822022601:0449/pct:43.03700291724244,23.750947557025704,17.800296842213008,8.12142512576666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -339,7 +339,7 @@ quisite supplies of provisions; but the
 vessels of war of the United States, with  
 any prizes they may capture from thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822031901:0216/pct:57.02695629416383,20.964089291491426,17.011253598534417,6.1954060174700745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1822031901:0216/pct:57.012035583464154,20.96069868995633,17.013343799058084,6.198447355652596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

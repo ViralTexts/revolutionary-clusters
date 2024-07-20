@@ -383,7 +383,7 @@ n* Arid feel quite satisfy&#x27;d:
 ’Tis time that I retire to rest.  
 Landlord 1 thankycf Friends Good Nigh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1844011901:0603/pct:61.619028974158184,94.2500497974902,15.025450274079875,3.39286899940243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1844011901:0603/pct:61.612997944602135,94.24379232505643,15.027242178069232,3.3948568140574515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ And feel quite satisfy&#x27;d:
 Tis time that I retire to rest.  
 Landlord, I thank ye! Friend Good Night
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530194:1844012501:0412/pct:58.64476386036961,57.073909340399354,37.46748802190281,7.4666414308696885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530194:1844012501:0412/pct:19.548254620123203,19.024636446799786,12.489162673967602,2.4888804769565627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

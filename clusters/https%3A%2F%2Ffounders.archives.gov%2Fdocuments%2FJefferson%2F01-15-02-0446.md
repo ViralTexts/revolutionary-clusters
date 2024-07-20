@@ -265,7 +265,7 @@ nine. They have been, heretofore, at ninety-
 three.  
 We give these extracts as a matter 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293149:1876103101:0416/pct:74.49088960342979,218.1394363212545,37.9957127545552,27.209154481881754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293149:1876103101:0416/pct:18.625217740854882,54.53485908031362,9.500200991558355,6.8022886204704385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ of the Orleans faction, consisting of the
 Catalines of the assembly, and the lowest  
 descriptions of the mob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342924:1884030801:0747/pct:53.90886287625418,4.945054945054945,30.581103678929765,89.26458157227388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn90050009:00393342924:1884030801:0747/pct:53.897596656217345,4.9443583603324415,30.579937304075234,89.25552894773912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

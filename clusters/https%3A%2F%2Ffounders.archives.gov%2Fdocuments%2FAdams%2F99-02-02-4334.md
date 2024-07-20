@@ -93,7 +93,7 @@ it to be my duty to resign. l have the honortobe,
 tour one-ment servant,  
 Tmorm&#x27; Picxzmwo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811031901:0254/pct:54.09314894293435,44.40949385187304,20.839294229852168,31.31255361738633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811031901:0254/pct:54.08455181182454,44.405261151353415,20.841279932189025,31.312746219341722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ B»y dutrto resign. “
 t .. l.ha*e the honor to be, ,  
 great respect, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811032201:0426/pct:3.951292246520875,44.57948468643656,21.620278330019882,29.071463296062227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811032201:0426/pct:3.950310559006211,44.57226182760856,21.62111801242236,29.070803629293582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ With great respect, sir.
 Your obedient servant,  
 TIMOTHY 1&#x27;IGKERtNG
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811032201:0414/pct:8.918338108882521,2.550024402147389,32.14541547277937,91.98389458272328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811032201:0414/pct:8.91674127126231,2.5497133097474687,32.14562817069532,91.97673945752511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ With great respect, sir,
 Your obedient servant,  
 Timothy Pickerjxg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811032901:0064/pct:26.672950047125354,37.64198418404026,22.80867106503299,40.675772825305536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811032901:0064/pct:26.666666666666668,37.63657274295572,22.809187279151942,40.6735192639448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -85,7 +85,7 @@ aiiioul of twenty, heginmug on tlie
 next to No. 2, by the l-arn L-l tlie I  
 low retain the tups?th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1859060101:0723/pct:28.60770839557813,53.91788923006937,12.682999701224977,21.34652564539975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1859060101:0723/pct:28.617667562991734,53.925471018613294,12.678020117518175,21.35031653967171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ Hill vide lor 11&gt;o?I ; those ilitl ;iro k&lt;&#x27;pl coil irn
 I Mtli11\ hi lio* lioti-e, constnil111 ni work, 1 on  
 sic. or minor lio- &gt;a&gt;l&lt;lio, must l&gt;o fe&lt;l, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1859060101:0723/pct:28.60770839557813,14.73899692937564,29.160442187033166,81.06448311156602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1859060101:0723/pct:28.617667562991734,14.746578717919558,29.160442187033166,81.06448311156602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ llift&#x27; report* me iiiteielpil {or mfnrii-.mmii w&lt;
 ^ 4 n in I on^lii tlierefoie to |.e plum hihI cor r &lt; i  
 &quot;&quot; t?*ct \ one |ihrl hlioiilt) mIwhjh corresjioiiil , a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1859060101:0723/pct:40.75291305646848,45.297395655635164,16.701523752614282,17.218241783236664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1859060101:0723/pct:40.75291305646848,45.30497744417908,16.706503336321084,17.218241783236664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ onil ... i I&#x27;h
 . ain your atled. unc.e, i  
 (i. Washinoton. j 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1859060101:0723/pct:40.76785180758888,71.98908222449676,17.03017627726322,14.534288638689867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1859060101:0723/pct:40.76785180758888,71.99666401304067,17.045115028383627,14.530497744417907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ the hog* from \he otetWs «f this time :
 bat. if they do not fceepufrtity gtkid %e  
 to them themselres, J shall have but 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059862:00514157376:1859111401:0513/pct:42.79327610872675,14.94973234103669,39.34191702432046,81.04191147669408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059862:00514157376:1859111401:0513/pct:42.785624888253174,14.947780678851174,39.33935276238155,81.0345953002611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ Your Auut and all here are well, and
 I am your atfecto uncle,  
 G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026965:00294551190:1882090701:0032/pct:35.45966228893058,10.401970663979398,25.1262808486073,87.3698354047699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026965:00294551190:1882090701:0032/pct:35.46928368691971,10.401970663979398,25.1262808486073,87.3810323591983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -848,7 +848,7 @@ House reiort 1 I know of none but the one
   
 Mr. Whitling used to ride,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777419:1886112601:0476/pct:7.716049382716049,84.14733969986358,13.151577503429355,13.860845839017735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777419:1886112601:0476/pct:5.798593240693086,63.11050477489768,9.864470749699777,10.409276944065484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ stand in the Mansion Hous
 ogeportt I know of nene be h  
 ling used to ride.&quot; Wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101040:1886120401:0333/pct:25.16858389527965,230.1155246083241,49.50416501388338,58.110460515904414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101040:1886120401:0333/pct:8.387864366448543,76.70517486944136,16.4981162006742,19.37015350530147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,7 +931,7 @@ one Mr. Whitling used to ride.&quot; What country gentleman
 of our day, on his city absences, puts this particularity  
 and sagacity into his queries?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038140:1886120501:0625/pct:57.09375,270.07621782834417,46.234375,25.173975477742186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038140:1886120501:0625/pct:19.03125,90.0254059427814,15.411458333333334,8.391325159247394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -987,7 +987,7 @@ his city ntaences puts this particularity
 and sagacity into his queries? Donald G.  
 Mitchell in American Agriculturist
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289237:1886122401:0674/pct:51.678966789667896,93.86946056916325,14.464944649446494,18.29251026476002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289237:1886122401:0674/pct:38.77099095774128,70.40917457171173,10.85071046318509,13.719382698570012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1037,7 +1037,7 @@ horses are those which stand in the Man­
 sion House report? I know of none but  
 the one Mr. Whitling used to ride.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555353:1887010701:0029/pct:91.27686472819217,193.21148825065274,54.10872313527181,68.43479455819705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555353:1887010701:0029/pct:22.81921618204804,48.302872062663184,13.527180783817952,17.108698639549264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1081,7 +1081,7 @@ sion Iloiibe report? I know of none biit 1
   
 the one Mr. AVhitling used to ride.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237285335:1887012001:0586/pct:44.91882140709561,62.332862267637786,18.956704750450992,19.295575606044135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237285335:1887012001:0586/pct:29.959392389833056,41.55886509403196,12.648518574221688,12.860093488422654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1124,7 +1124,7 @@ the one Mr. Whitliug used to ride.&quot; What
 country gentleman of oar day on his city  
 absence* pot this particularity and sagaci
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341784:1887012701:0309/pct:13.682993787024996,85.39098807839967,11.660164716081491,12.628813901798344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341784:1887012701:0309/pct:13.681017047096216,85.3823618547328,11.663295771934894,12.630905478667879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1189,7 +1189,7 @@ sion Rouse report I know of none but
   
 the one Mr. Whltling u.ed to ride.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82015133:00211105744:1887012901:0583/pct:57.48152709359606,54.45998354683277,13.900862068965518,19.30896697614291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82015133:00211105744:1887012901:0583/pct:43.12548113933795,40.85086379127982,10.423402617397999,14.478787166529557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1294,7 +1294,7 @@ his city absences puts this particularity
 and sagacity into his queries Donald G  
 Mitchell iri American Agriculturis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_angel_ver01:data:sn85047239:00211100308:1887040901:0370/pct:33.488964346349746,60.12742628537561,18.505942275042443,28.344939991109793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_angel_ver01:data:sn85047239:00211100308:1887040901:0370/pct:25.143342535570184,45.1029782189954,13.888299001911234,21.258704993332344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1348,7 +1348,7 @@ his city absences puts this particularity
 and sagacity into his queries? Donald G.  
 Mitchell in American Agriculturist
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195465:1887042501:0389/pct:25.213782696177063,60.54187192118226,16.77565392354125,24.83743842364532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195465:1887042501:0389/pct:18.91585964029682,45.40886699507389,12.589611369639039,18.63054187192118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1383,7 +1383,7 @@ lowing.
 of land where he lives. He employes &#x27;!?*I  
 hands and keeps twenty-four ploughs go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655181:1898021901:0409/pct:84.85981308411215,43.013888888888886,14.037383177570094,8.722222222222221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655181:1898021901:0409/pct:84.86915887850468,43.020833333333336,14.037383177570094,8.729166666666666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,7 +1433,7 @@ those which stand in the mansion house
 portal know of none but the onee  
 r Whitling used to ride. The planter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534710:1898021901:0722/pct:199.68253968253967,16.977724262492476,92.14285714285714,271.52317880794703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534710:1898021901:0722/pct:66.59608258337745,5.659241420830825,30.73054526204341,90.50772626931567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1494,7 +1494,7 @@ of land where he lives. He employs 250
 hands and keeps twenty-four plows going  
 all the year when the weather will permit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041566574A:1898022001:0508/pct:2.1827000808407435,65.77120434651373,13.028833198598761,17.838816782372472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041566574A:1898022001:0508/pct:2.187191233270457,65.77120434651373,13.028833198598761,17.84217057383372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1552,7 +1552,7 @@ of land where he lives. He employes
 250 hands and keeps twenty-four  
 ploughs going all the year when th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537486:1898022001:0501/pct:57.384637639230434,3.260061590740151,25.806451612903224,93.11882765211851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537486:1898022001:0501/pct:57.384637639230434,3.260061590740151,25.811273446164233,93.12944674524796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1601,7 @@ lowing:&quot;General Washington possesses 10,000 acres
 of land where he lives. He employs 230  
 hands and keeps twenty-four ploughs go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109142:1898022001:0339/pct:41.866769945778465,33.695498800620854,16.90549961270333,17.05940454353041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109142:1898022001:0339/pct:31.421929484695855,25.27162410046564,12.688880278961642,12.798080993368139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1647,7 +1647,7 @@ like that must have been a good bu
 inr  
 Speaking of Washington as a far
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199458:1898022001:0504/pct:8.13138686131387,65.37847697218422,38.90510948905109,108.04833561331509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199458:1898022001:0504/pct:2.710462287104623,21.79282565739474,12.968369829683699,36.01611187110503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1753,7 +1753,7 @@ mansion house report? I know of
 none but thc one Mr. Whitling used  
 to ride.&quot; The planter who demande
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550811:1898042701:0173/pct:30.45641973553249,49.299802761341226,13.820560216123987,22.39644970414201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550811:1898042701:0173/pct:30.45641973553249,49.30637738330046,13.825299777240627,22.39973701512163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1808,7 +1808,7 @@ following:
 000 acres of land where he lives. He  
 employs 250 hands and keeps twent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1898042702:0230/pct:31.08951109821558,49.513075828865304,14.08675467865951,27.519422256264363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1898042702:0230/pct:31.08951109821558,49.520370573002154,14.08675467865951,27.523069628332784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

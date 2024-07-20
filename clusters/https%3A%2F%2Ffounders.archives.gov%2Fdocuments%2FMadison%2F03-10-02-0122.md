@@ -125,7 +125,7 @@ esteem,
 Your most obedient servant,  
 U. PATTERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1816012001:0355/pct:20.02466471404347,61.1460258780037,18.806844458147065,33.68761552680222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1816012001:0355/pct:20.021578298397042,61.14037519637741,18.809083436087136,33.687582786557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ and es&#x27;eem, i
 V our (Host obedient Servant  
 H. PATTERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816012301:0176/pct:83.21476964769647,55.7960981749528,16.039972899728998,28.01762114537445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816012301:0176/pct:83.20067739204065,55.78907626478731,16.042901495907422,28.018290125010488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ eared.
 have the honor to he. sir,  
 ^ ith the greatest respect and es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816012401:0033/pct:21.16252821670429,3.633831349708787,35.4778028592927,92.89693593314763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816012401:0033/pct:21.15854805341358,3.633371312824408,35.47739953607924,92.88939528210322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ mounting to gl,319.030 00.
 In silver Coins, 1,821,153 pieces, a.  
 moiintingto g301,630T0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216298:1821022001:0157/pct:62.11407639979068,17.515382983237853,18.140589569160998,7.680882664969234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216298:1821022001:0157/pct:62.10324380885943,17.5135249814363,18.143239158237414,7.683603832962059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ S l 310 030 00.
 Io silver coins, I,82l 153 piece*, amounting  
 to $501,080 70. 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821022201:0380/pct:21.658234046025786,24.970358074460517,14.672759915129754,4.849419018259426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821022201:0380/pct:21.654699738903393,24.967397747480735,14.67580504786771,4.852795890140288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -744,7 +744,7 @@ to .1.819,030 00. |
 “In silver coins, 1,821,153 pieces, amount- |  
 ing to D 501,680 70. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821022701:0242/pct:62.35277219189888,34.90723471090606,16.877334099396727,7.116913713556493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821022701:0242/pct:62.3623479842957,34.90723471090606,16.877334099396727,7.126730146264848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -772,7 +772,7 @@ to $1,319,030 00.
 In silver coins, 1,821,153 pieces, a­  
 mounling to $501,680 70
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1821022701:0510/pct:4.250559284116331,48.739887990043556,17.12652249565001,8.758556316116989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1821022701:0510/pct:4.249502982107356,48.73230673510655,17.12847912524851,8.7610825944937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

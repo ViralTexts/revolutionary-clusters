@@ -364,7 +364,7 @@ together, form some reflections pleasing to my­
 seif. The produce of one of these reveries you  
 have read above.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072601:0606/pct:2.628054904586542,43.86356036116375,17.44224974891195,15.026195518894214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826072601:0606/pct:2.6276150627615062,43.858671422202406,17.444909344490934,15.028235993461138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ some reflections pleasing to myself.—
 x The produce of one of these reveries you  
 have read above.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826080401:0554/pct:3.391285683623095,43.10371881374549,13.7368534020176,13.525812019457085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826080401:0554/pct:3.390557939914163,43.096956385315345,13.739270386266094,13.527612174458739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ flections pleasing to myself. The pro­
 duce of one of the reveries you have  
 read above.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826081001:0136/pct:60.48632218844985,25.4726368159204,17.433782023447677,18.720682302771856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826081001:0136/pct:60.47319296722379,25.469016486640136,17.435424354243544,18.721574758385447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ be easy to get the mastery of the seas—&amp; then
 the united force of all Europe will not be able  
 to subdue us.” How prophetic were the word
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826081601:0674/pct:21.394957983193276,7.234708710723471,17.478991596638654,4.8417756904841776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826081601:0674/pct:21.39136279616871,7.233899821109123,17.481655744132638,4.844961240310077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -795,7 +795,7 @@ Tlwec fourths of the century have not yet elapsed, and
 the tin Indent Gallicks have been subdued_a colossal  
 empire, extending from ocean to ocean, and as De
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826090501:0216/pct:42.36629353233831,56.10339875538535,17.28855721393035,4.858784107228339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826090501:0216/pct:42.35970775687859,56.096685413425874,17.29105134981087,4.862191376490766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1079,7 +1079,7 @@ tions, and all the dira of war. make the subject of every
 conversation. I sit and hear, and, alter bavina been led  
 through a maze of sage observations, 1 sometime* retir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850092601:1049/pct:52.50040723244828,24.66046277665996,16.012379866427757,6.124245472837022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850092601:1049/pct:52.50040723244828,24.66046277665996,16.017809632404845,6.1284372904091216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1205,7 +1205,7 @@ another century become more numer­
 ous than England itself.&quot; Fifty years  
 from this the time is assigned th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1851053001:0281/pct:23.46802841918295,15.459221160911095,18.894316163410302,4.320352681851579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779210:1851053001:0281/pct:17.61830704287936,11.59441587068332,14.17462786047545,3.247612049963262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1243,7 +1243,7 @@ in another century become more numerous
 than England itself. Five years from this  
 the time designated in the letter- the pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1852021401:0433/pct:318.0154820548909,73.99553571428571,48.48698099929627,11.830357142857142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1852021401:0433/pct:79.53185498064062,18.498883928571427,12.126011967617035,2.9575892857142856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1280,7 +1280,7 @@ Eagland free school. Within twenty-one years he
 shall assist in declaring his country&#x27;s independence  
 in less than thirty, this master of the town school o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530376:1852032001:0334/pct:202.71524316892936,43.69001066477071,48.01512287334594,29.695461547576727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530376:1852032001:0334/pct:67.57174772297645,14.563336888256902,16.00504095778198,9.898487182525576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1347,7 +1347,7 @@ archy of the whole, will destroy each oth­
 er&#x27;s influence, and keep the country in  
 SG&#x27;TITDrIO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_karma_ver01:data:sn88083120:00211100813:1860122901:0510/pct:150.90869753353527,231.91807445059052,46.79792297706621,28.03109582897294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_karma_ver01:data:sn88083120:00211100813:1860122901:0510/pct:50.30289917784509,77.30602481686351,15.599307659022069,9.343698609657647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1372,7 +1372,7 @@ Gallies, our poople, assordingto tha
 computations, will, in another century, de  
 come more numerous than England herself.!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528384:1867083101:0196/pct:47.02144559173948,67.90763430725731,33.35980937251787,13.642789820923657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528384:1867083101:0196/pct:15.673815197246492,22.635878102419102,11.119936457505958,4.547596606974552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1525,7 +1525,7 @@ force of Europe will not be able to subdue us. The
 only way to keep us from setting up for ourselves is  
 to disunite us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897072001:0640/pct:226.81268882175226,186.0507521653244,50.453172205438065,8.38778301170035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897072001:0640/pct:56.703172205438065,46.5126880413311,12.613293051359516,2.0969457529250874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1599,7 +1599,7 @@ Europe&quot; (1780), wrote
 &quot;The (gread Lakes appear to be the avenue,  
 the centre of a dominion, whose influence by a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899102901:1007/pct:114.68373493975903,130.77039503556833,49.84939759036145,25.185409414257606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899102901:1007/pct:28.687135053682425,32.69259875889208,12.46939159917122,6.2963523535644015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

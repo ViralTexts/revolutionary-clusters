@@ -70,7 +70,7 @@ bill loo much reason to I&#x27;eur that contusion aud misery were
 coming rapidly upon us.  
 To Sir Edwurd Ntwenha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850082401:0938/pct:63.6987420356151,16.145244377434352,15.994118608070577,7.664279432089458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850082401:0938/pct:63.6987420356151,16.153620639108766,15.99956434133856,7.668467562926666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ licity, just as it Las been lifted t. our lips,
 is my earnest prayer.”  
 “1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855082201:0113/pct:44.62019815748305,80.94811018577835,13.836259342951504,3.2415118513773225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855082201:0113/pct:44.62019815748305,80.94811018577835,13.847847499855147,3.2500533845825323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ lated to effect the object, into an adoption
 of the system recommended by that gen­  
 eral convention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:19.38551572787125,281.55029757584555,44.330651060716896,16.315865873131077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:4.848152213684596,70.38757439396139,11.086717892425906,4.078966468282769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ importance of being &quot;forearmed as well
 as forewarned against the evil contin­  
 gencies of European politics;&quot; especial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211105124:1892040901:0126/pct:178.24795842613216,176.6415500538213,47.512991833704525,12.271259418729818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211105124:1892040901:0126/pct:44.56198960653304,44.160387513455326,11.878247958426131,3.0678148546824544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ been, to be forearmed as well as fore­
 warned against the ovil contingencies  
 of European politics
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211105124:1892040901:0126/pct:176.98589458054937,201.39935414424113,48.99777282850779,56.51237890204521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211105124:1892040901:0126/pct:44.24647364513734,50.34983853606028,12.249443207126948,14.128094725511302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ son to fear that confusion and misery
 were coming rapidly upon us.&quot; In an  
 hour when the highest honors ot hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768881:1899121801:0414/pct:30.874813957334215,47.607361963190186,12.28708450471308,5.0920245398773005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768881:1899121801:0414/pct:30.8789482387961,47.607361963190186,12.28708450471308,5.101226993865031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

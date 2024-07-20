@@ -255,7 +255,7 @@ Conversation.—•
 j . dence.— Pope.  
 ! Gossips,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627476:1865040101:0051/pct:79.59758551307847,22.103835722588144,12.152917505030182,4.37814800464936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627476:1865040101:0051/pct:79.59758551307847,22.103835722588144,12.166331321260898,4.37814800464936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ Who, if once wrong, will needs be always so;
 But you with pleasure own your errors past,  
 And make each day a critic on the last.--Pope
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191423:1865051101:0451/pct:170.37037037037038,137.6133736439623,49.25925925925926,40.903432331495644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191423:1865051101:0451/pct:42.60245427182218,34.40334341099057,12.317666126418152,10.225858082873911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ And speak though sure, with seeming diffidence.
 Some positive, persisting fops we know,  
 Who if once wrong, will needs be always so.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874052101:0287/pct:15.253419147224458,85.77975969280317,10.973451327433628,7.308311656137743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874052101:0287/pct:15.250965250965251,85.76913549665593,10.97570785070785,7.310502848649987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ and so with the selling of intoxicating
 liquors. If tlie evils which are attributable  
 to them result from the license system
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1877092201:0677/pct:95.51591931988665,67.58398413288707,14.202367061176863,12.173050700384282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1877092201:0677/pct:74.03324433726638,52.37775002401768,11.00680389286022,9.440548243507221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ In all you speak, let truth and candor shine ;
 Be silent always, when you doubt your sense,  
 And speak, though sure,with seeming diMidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1885041101:0024/pct:7.02319587628866,45.21823237818885,20.3930412371134,2.333454237697981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1885041101:0024/pct:7.02856529209622,45.21823237818885,20.3930412371134,2.3455446741627375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ sense,
 And speak, tho&#x27; Mire, with seem i 111: diffi­  
 dence. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020515:1887120301:0804/pct:79.56540825285337,35.969521807672095,19.512730465320455,2.929584866001051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020515:1887120301:0804/pct:59.69264544456641,26.98370993168681,14.643249176728869,2.193904361534419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ Jie silent always, when you doubt
 your sense, and speak, though sure,  
 with seeming diffidence. Pori: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn2006060001:00296023322:1893111001:0600/pct:56.180871828236825,45.31548757170172,20.88484059856864,2.238218423124508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn2006060001:00296023322:1893111001:0600/pct:37.465430291198956,30.21032504780115,13.925492109972344,1.4958947250028118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ on the last.
   
 The geometry class is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472360:1899110301:0428/pct:42.22596527597823,5.24543320747015,22.596527597823272,97.87733442187978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_lexus_ver01:data:sn90059180:00212472360:1899110301:0428/pct:40.1140606408731,4.989658738366081,21.47047962909777,92.98410031023785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

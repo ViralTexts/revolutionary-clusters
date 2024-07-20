@@ -49,7 +49,7 @@ form, the* imunicated toyoti for
 coul&#x27;iderauoii in your legislative capacity.  
 You will oblervc that fome importan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803102401:0003/pct:6.79518992174079,16.38644248732319,15.919068524527582,9.661062183079798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803102401:0003/pct:6.79518992174079,16.390890490169912,15.931793599287396,9.66551018592652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ countr) , as the case may require.
   
 TH. JEFFERSON} ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803102601:0264/pct:27.494322482967448,14.740576496674057,24.1332323996972,25.427937915742795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803102601:0264/pct:27.49016046018771,14.739269244412913,24.13462508830356,25.42863899728036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ iervatiion, in the mean while of order
 and tranquility in the country, as the  
 cafe may require.&quot; And he tells u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110401:0002/pct:77.11281843914274,13.299408609544766,16.720582288718155,8.430752303672122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110401:0002/pct:77.11955789189918,13.299408609544766,16.71384283596172,8.444505570072891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ as the case may require, -
 Tw: JEFFERSON.  
 0. 21/, 1803. &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0384/pct:60.53970701619121,3.982477100756671,33.878180416345415,91.76622859418558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0384/pct:60.53970701619121,3.982477100756671,33.878180416345415,91.76954732510288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ tion we fliall have received.
 He could not reconcile tbe fe cond  
 fedlion with the conftitution of tbe U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803112801:0002/pct:40.400630204816565,29.13573329597983,18.703578663065496,13.47527664939067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803112801:0002/pct:40.40813264310901,29.140402484008032,18.71108110135794,13.479945837418873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ gi^ature. 1 ins is a circumstance common to
 many treaties; and has frequently given occa.  
 ■ion to debates in the flouse of Representative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828060501:0525/pct:20.783975877665302,45.70710596118945,17.83329743700194,12.59248918051096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828060501:0525/pct:20.779500430663223,45.70072585147962,17.834840654608097,12.594221105527637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ Y oil observe that some important conditions cannot he
 carried into execution but with tho aid of tho Legislature,  
 and that the proper provisions for that purpose scorn to h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832021401:0359/pct:20.359031450041748,19.420840787119857,14.945727804063457,2.303220035778175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832021401:0359/pct:20.356198692082927,19.41866964784796,14.94828625759473,2.306689025526365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ ly given occasion to debates in the House of R
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1847-03_5_3/page/n7/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1847-03_5_3/page/n7/mode/1up?view=theater)
 
 #### 1847-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -649,7 +649,7 @@ the preservation, in the meanwhile, of order and tranquillity
 n TH. JEFFERSON, j  
 ,r Octobbb 21, 1803
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854070901:0034/pct:21.357985336308577,73.93005933594243,16.60822441823398,12.435298573412448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854070901:0034/pct:21.368611199659973,73.9384757816774,16.60822441823398,12.431090350544965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

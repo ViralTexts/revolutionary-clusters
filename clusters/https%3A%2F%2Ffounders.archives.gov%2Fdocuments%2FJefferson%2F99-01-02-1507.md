@@ -179,7 +179,7 @@ tions, containing information relative to
 ceived it important the government  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805071701:0002/pct:3.652392947103275,61.231931241047015,17.968094038623004,32.13960151061336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805071701:0002/pct:3.6663867898124827,61.23627208403872,17.9541001959138,32.13960151061336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ companion Captain Clark, has all
 d good health generally ; at this  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805071701:0002/pct:21.977329974811084,6.289881494986326,18.492863140218304,74.00703216564656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805071701:0002/pct:21.984326896165687,6.294222337978035,18.513853904282115,74.01137300863827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ known; by means of these labclsctefercsifsi­
   
 may be made to the chart of the Missouslsis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805071901:0332/pct:76.01585728444005,81.31731960728243,22.18368021143046,11.10475645791631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805071901:0332/pct:76.00330305532617,81.30956919557758,22.185521607486926,11.106875079425594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ sssi ietssissd-dnxiety to &quot;me,— and the recol­
 _ctigno!zom-p;\rticular charge upon that  
 &#x27;a &quot;has made it still mare.- poigsinant.—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805071901:0333/pct:2.028698664027709,27.24173847173563,19.808675573148605,28.150743300823784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805071901:0333/pct:2.028364116094987,27.23915925014202,19.810905892700088,28.151233983462728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ them, but all in unison act with the&#x27;mbstss
 perfect harmony. With such men-:! have  
 ss everything to-hope and but little to fear. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805071901:0333/pct:1.5174006267524327,3.4561121105955874,44.74682500412337,90.51226209639239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805071901:0333/pct:1.517150395778364,3.4557848892255256,44.744942832014075,90.50684845041974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ rafdjr pointed out and again found fliouid any of them
 rv. ve valuable to the community ou further Live Hi- !  
 gation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805072301:0091/pct:41.78685147031279,4.388078630310717,17.94343510020603,10.120481927710843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805072301:0091/pct:41.77902621722846,4.387522191224956,17.946317103620473,10.123425479753148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ th-tn, hut sii in tinilon a.ft with the most pt-rfciS hnr- I
 | ninny. With filth men I have every thing to hope !  
 | and but little to ftar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805072301:0091/pct:41.56209027907848,16.727964489537097,18.168196291440346,65.6436271401395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805072301:0091/pct:41.554307116104866,16.725843266548313,18.17103620474407,65.63952996872094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ jnurmur is to be heard among them, but all in unison
 act with tlie mpst perfect harmony. With such men  
 ||utve e very thing fe hope and but little to few
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805072401:0618/pct:4.697156983930778,9.658909786420146,22.22496909765142,85.62320688555945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805072401:0618/pct:4.695996045477014,9.657370517928287,22.225654967869502,85.61354581673307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1004,7 @@ thing to hope and but little to fear.
 » Extract of a fetter from a gentleman in the  
 Indiana Territory, to the Editor of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805072401:0271/pct:5.073835668307459,1.1981566820276497,36.06588413479742,96.91902567478604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805072401:0271/pct:5.072875260268787,1.1979989468141128,36.065366900119884,96.91065473055994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1210,7 +1210,7 @@ unison act with the most perfect harmo­
 ny. With such men I have every thing  
 to hope and but liule to fear.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1805072601:0467/pct:11.662461452200729,4.7610588026292415,61.844687412391366,90.99307159353349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1805072601:0467/pct:11.659192825112108,4.760213143872114,61.83436098654708,90.98134991119005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1639,7 +1639,7 @@ fet harmony. Withfuch men I have
 every thing to hope and but little to  
 fear. &#x27; WU RR eB
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805080601:0126/pct:7.716338644173696,2.879059573620243,34.41112152452359,91.45248057381949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805080601:0126/pct:7.72154535041133,2.8857010028558148,34.41632823076122,91.4491598592017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

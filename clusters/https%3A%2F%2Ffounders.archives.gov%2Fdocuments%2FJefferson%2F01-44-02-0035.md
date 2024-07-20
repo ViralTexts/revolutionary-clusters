@@ -94,7 +94,7 @@ nience, it will certainly be eminent.”
 Bostow, May 31.  
 The constituted authorities of the state o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810060801:0041/pct:4.1120815138282385,4.054714215925745,35.58951965065502,91.79286761113825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810060801:0041/pct:4.111333454611606,4.054219074368055,35.58910921108483,91.78572882321814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ cial note of the Due de Cadore, its immediate pub­
 lication by the French government, and the exten­  
 sive and unjust infractions of our maritime right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810061301:1129/pct:30.852636766880238,13.27006594820653,21.118777723016265,46.90365127875181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810061301:1129/pct:30.845035723084504,13.267931810871662,21.119733924611975,46.90012865873271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1369,7 +1369,7 @@ pleased to fay, you “ know of no line that
 ty of parliament and the total independence  
 j of the colonicsßut if no such line can b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773020401:0367/pct:33.96596858638743,91.92453854505972,27.07242582897033,4.193811074918567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773020401:0367/pct:26.328543251620175,71.24574874653764,20.98055790363483,3.2607552329862206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1395,7 +1395,7 @@ n*de in the Charter, and therefore that the Dedudtions
 vifioo, are not well founded. And with rifpedl to Repre­  
 sentation in Parliament, a* if, is one of the effentiai Liber
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773020401:0370/pct:14.104996837444656,45.494325174347054,26.565464895635674,9.175440995487488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773020401:0370/pct:10.93681917211329,35.2656492864208,20.58823529411765,7.107531439875654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1418,7 +1418,7 @@ they mifiit if they oleafed, have continued to enj-ry, and
 may again eujoy whensoever they will return to the Place  
 where it can be exeiciftd.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773020401:0370/pct:14.231499051233397,97.2241214275947,26.396795277250686,6.686722275399973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773020401:0370/pct:11.040305010893245,75.3532570298149,20.4520697167756,5.189345767980782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1439,7 +1439,7 @@ realm of England, and therefore at the
 dffpofal of the crowa ; the King having y wu.  
 ake it, a corfiitutional right to di । pol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0379/pct:32.4898134248338,59.91456524734739,26.50654085352777,5.580818520049608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0379/pct:25.18005540166205,46.43314822725331,20.548476454293628,4.3393136836109925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1466,7 +1466,7 @@ realm ofthcf.m: liberties which would have
 belonged to them if they had bee t bsrn within  
 the realm, but rather gu«rded against it by con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0380/pct:42.509521794329245,27.845443091138176,26.00507829030893,11.479770404591909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0380/pct:32.95069421668307,21.580470162748643,20.17054772056412,8.900542495479204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1486,7 +1486,7 @@ hall soon be reduced to a worle situation than
 that of the colonies of France, Spain or Hol­  
 land. I may fafdy affirm that we have not 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0380/pct:96.82606855691917,28.895422091558167,25.899280575539567,4.857902841943162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1773022501:0380/pct:75.04646332130753,22.401446654611213,20.06668853175905,3.7576853526220613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1517,7 +1517,7 @@ ties in America with the express Purpefe of
 appropriate the fame for the necefJary Charges  
 of the Adminffiration of Fuftice and the Suppor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773031201:0040/pct:11.461864406779661,19.116321009918845,27.4364406779661,16.636609558160504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773031201:0040/pct:11.475988700564972,19.121330528003206,27.429378531073446,16.641619076244865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1807,7 +1807,7 @@ and Authority of this Kingdom to make Laws and Statotes of
 {ufficent Force and Validity to bind the Colonies and People of  
 America, fubjeéts of the Crown of Great-Britain, in all Cases
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774051301:0247/pct:61.91923577941815,78.0043072505384,25.966131133304387,4.221105527638191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774051301:0247/pct:61.91923577941815,78.0043072505384,25.987841945288753,4.2306771955013165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2041,7 +2041,7 @@ the fundamental laws, the public atlminis­
 tration, oron the prerogatives of thediffer­  
 ent powers, of which it is composed, it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808011201:0319/pct:23.988333940940574,23.674077754316233,17.389719285453882,13.091541423425662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808011201:0319/pct:23.98396209221797,23.671137605563835,17.392624992406294,13.094055307170061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2072,7 +2072,7 @@ exist without necessarily confei ringnn the indi­
 “ cepicd from their cuinmisshm.” He adds.  
 “ if there arises any dispute in a state, on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808020201:0043/pct:59.20803334596438,61.979823455233294,17.847669571807504,9.445145018915511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808020201:0043/pct:59.19681757908695,61.97200857395032,17.850603018248407,9.448157020972555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2104,7 +2104,7 @@ and behoof of the said Governour and Com­
 pany,” agreeably to the express provision in  
 the concluding paragraph of that instrument 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811010901:0341/pct:27.698076296054776,58.25597471854632,21.633518095859145,12.601224570412798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811010901:0341/pct:27.703510487990435,58.2592665744947,21.638952287794805,12.61110013825795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2158,7 +2158,7 @@ found rain and illusive.” It is necessary
 to give the words that sense which ought  
 to he presumed most conformable to the in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819070101:0372/pct:43.73323797604148,31.6151942322178,17.897371714643302,13.902937695039277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819070101:0372/pct:43.72542009295674,31.61179255433613,17.900131092837565,13.905028333691988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2858,7 +2858,7 @@ other things that government would make the
 world believe they are a free state and do actin  
 all matters accordingly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070601:0626/pct:50.76863950807071,76.50319829424308,13.931591083781706,4.136460554371002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070601:0626/pct:39.35467858029288,59.2978848413631,10.786795730950608,3.2094594594594597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2885,7 +2885,7 @@ served in Massachusetts, they had made provi­
 sion tv a law of the colony that it should be at­  
 tended to. This provision was the colony act o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070601:0626/pct:50.80707148347425,82.13219616204691,13.931591083781706,6.0127931769722816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070601:0626/pct:39.374534623976174,63.65305522914218,10.811615785554729,4.663631022326674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3175,7 +3175,7 @@ Up to the reign of Henry VIII., the
 King of England was lord of Ireland in  
 right of his English crown. In the yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742824:1892022701:0394/pct:79.56909361069836,15.874161939143889,14.457652303120357,11.52140278494069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742824:1892022701:0394/pct:79.56909361069836,15.877600137527935,14.462605250123824,11.517964586556644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3210,7 +3210,7 @@ during the colonial period was not only un­
 written, but undeveloped. The contest In  
 the colonies was partly concurrent, and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665477:1894030901:0084/pct:67.40039350713232,27.953425123236443,18.027545499262175,5.796362400135985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665477:1894030901:0084/pct:50.56580565805658,20.96719360870304,13.530135301353013,4.351521332653408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -257,7 +257,7 @@ to extricate my felf from, by appoint- r
 in* font* others to fupply the places &#x27;  
 of nWelf anl^cr lleagoes, if a further 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1798062901:0028/pct:6.481296259251851,66.96230598669624,17.403480696139226,21.37733142037303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1798062901:0028/pct:6.48,66.95357329160146,17.406666666666666,21.37889062771692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ I have &lt; n!y a moment to add my belt rei&#x27;pects &#x27;o vot.r
 lady, and my aflurances of the moft fuicerc and respect­  
 ful attachment, my dear Sir, of your&#x27;a fincercl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798070201:0039/pct:50.23750712521375,66.25686321317737,21.85065551966559,17.59369777989974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798070201:0039/pct:50.22796352583587,66.24895572263993,21.851253799392097,17.594581692326052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ here, as a political cypher. | =
 TRANSLATIONS. :  
 Paris 14 Germinal, 6th year of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798070301:0528/pct:41.39491340302699,10.632043116119549,16.69527227336558,33.56197942185204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798070301:0528/pct:41.405315441826595,10.632043116119549,16.684870234565974,33.565245794545156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

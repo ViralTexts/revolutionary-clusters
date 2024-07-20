@@ -471,7 +471,7 @@ your— most obedient humble servant.
   
 &quot;GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100701:0432/pct:53.96875,7.125593053441948,22.5,86.86778265150836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100701:0432/pct:53.960318700203096,7.124955245255997,22.501692443888977,86.86299081035924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ can more cordially approve of the wise and
 prudent measures of your administration.  
 They ought to inspire universal confidence ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823091201:0153/pct:32.97065611605671,51.60865925128573,15.314869765908341,2.176773113263964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823091201:0153/pct:32.96522169111587,51.60248744319541,15.317839679138508,2.1804990831539506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ GEORGK WASHINGTON
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1846-12_4_6/page/n81/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1846-12_4_6/page/n81/mode/1up?view=theater)
 
 #### 1846-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -846,7 +846,7 @@ advice and consent of the Senate, appointed
 Chief of all the armies raised or to be raised  
 for the service of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:00279554188:1863122601:0262/pct:14.427763696627023,178.9672216441207,53.61668941314096,16.155046826222684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:00279554188:1863122601:0262/pct:3.606940924156756,44.74180541103018,13.40417235328524,4.038761706555671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ George Washington.&quot; Our readers now­
 have the facts before them, and can draw  
 their own conclusions. It seems that Was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:00279554188:1863122601:0262/pct:14.369272762721778,194.54994797086368,53.577695457204136,25.79344432882414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:00279554188:1863122601:0262/pct:3.5923181906804444,48.63748699271592,13.394423864301034,6.448361082206035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ Believe me, Sir, no one can more cordially approve of
 the wise and prudent measures of your administration­  
 they ought to inspire universal confidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531113:1872010901:0067/pct:99.09420289855072,248.33896724559972,48.43544137022398,26.576524070404474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531113:1872010901:0067/pct:33.031400966183575,82.77965574853324,16.145147123407995,8.858841356801491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ lic. and that I cannot receive any emoluments
 annexed to the appointment, before entering  
 into a situation to incur expense.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882091801:0265/pct:76.55070118662351,83.13549353010373,10.045846817691478,9.613945032616833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882091801:0265/pct:76.55070118662351,83.14262289238228,10.045846817691478,9.617509713756105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1013,7 +1013,7 @@ upon the publlo.&quot; and thnt ho should not re­
 ceive nny emoluments &quot;boforo entering Into a  
 situation to incur expens-e.&quot; Tho followin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533092:1888060401:0532/pct:291.9781931464174,205.8047493403694,51.246105919003114,7.760360080707745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533092:1888060401:0532/pct:72.99454828660436,51.45118733509235,12.811526479750778,1.9400900201769362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1038,7 +1038,7 @@ and that I cannot receive any emoluments an­
 nexed to the appointment, bifora entering into  
 a situation to incur expense.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152111:1889022101:0353/pct:34.184897671136206,86.81894776259128,14.255469301340861,4.090994195843475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152111:1889022101:0353/pct:34.184897671136206,86.81894776259128,14.269583627381792,4.097235224364975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1171,7 +1171,7 @@ the administration for its forbearance,
 \lforl to overt an open rupture until all  
 other means to preserve peace had fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898030301:0434/pct:-0.5242463958060288,55.46632597189268,18.512450851900393,13.396605219930644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898030301:0434/pct:-0.5406290956749672,55.4800146012046,18.55340760157274,13.410293849242562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1207,7 +1207,7 @@ United States. ? ? ? ?
 The President sent a message to Con­  
 gress declaring that lie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898030301:0434/pct:0.0982961992136304,69.41047636430005,17.857142857142858,10.87789742653769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898030301:0434/pct:0.12287024901703801,69.41960211717466,17.873525557011796,10.887023179412301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1230,7 +1230,7 @@ may confidently trust the final result to
 that kind providence who has heretofore  
 and SO often slcnallv fnvnro.l tt.a .,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777456:1898032501:0116/pct:94.1017733230532,102.37992831541219,16.673091750192754,5.462365591397849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777456:1898032501:0116/pct:70.59957586273376,76.78853046594982,12.512049354154618,4.100358422939068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

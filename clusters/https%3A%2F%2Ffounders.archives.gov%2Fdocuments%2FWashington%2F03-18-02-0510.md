@@ -298,7 +298,7 @@ ary considerations, and postponed from day to day, from
 week to week, as if our affair* wore the most promising  
 aspect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855020801:0172/pct:16.948318293683347,45.85163800677796,16.045939294503693,8.10844734529936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855020801:0172/pct:16.95925622094613,45.85582193213673,16.0404703308723,8.10844734529936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ the small wheels in order if the greater
 ones, which is the support and prime  
 mover of the whole, is neglected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862100401:0589/pct:63.28645447816432,33.22884012539185,49.592894152479644,18.599791013584117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862100401:0589/pct:15.827471306923362,8.307210031347962,12.402813772676787,4.649947753396029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ at hari in o nens wish for the good of one&#x27;s countey I
 that be made personal appea&#x27;s to Mason, Wythe, Jeffer­  
 son, Nicholas, Pendleton, Nelson, and others. We ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863041501:0180/pct:59.71830985915493,85.78916715200931,43.77151799687011,22.62085032032615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863041501:0180/pct:19.902988577687374,28.593058467272304,14.588223021957962,7.539405233325569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ other means and hopes seemed to be depart
 ing from us.  
 I am yours, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778072:1863090401:0114/pct:165.7688835389708,33.32234673698088,38.74510984050557,111.33816743572841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778072:1863090401:0114/pct:55.25629451299027,11.10744891232696,12.915036613501856,37.11272247857614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ other consideration, and almost of every order of men.&quot;
 Has not this evil time come again? Are we not vic­  
 tims to, and witnesses of, the same ill-boding and dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863090501:0421/pct:12.726382770435634,225.25112573605819,44.509707945831295,10.160489550860177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863090501:0421/pct:4.241435562805873,75.07504040637266,14.834148994018488,3.386438851689371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ be involved.
 If I could be called upon to draw a picture of  
 he times and of men, from what I have se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863090801:0369/pct:245.19807923169267,183.71193813436443,43.81752701080432,44.079265345577575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863090801:0369/pct:61.31792254578205,45.92798453359111,10.957670369258482,11.019816336394394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ her means and hopes seemed to be departing
   
 I am yous, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863090801:0369/pct:243.7575030012005,237.98936684388593,88.83553421368548,79.60367327211213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863090801:0369/pct:60.95767036925848,59.49734171097148,22.215550885619933,19.900918318028033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ other consideration, and almost of every order
 I men.&quot; Has not this evil time come again?  
 Are we not victims to, and witnesses of, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863090901:0371/pct:21.08721624850657,186.9554753309266,43.42891278375149,11.937424789410349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863090901:0371/pct:5.272591486183719,46.73886883273165,10.8588498879761,2.984356197352587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ of men.&quot; Has not this evil time come
 again? Are we not victims to and wit­  
 nesses of the same ill-boding and disgus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn86092517:00415660583:1863091401:0027/pct:63.896218117854005,57.07524389065971,15.65523306948109,4.095431275958659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn86092517:00415660583:1863091401:0027/pct:63.90599042314082,57.07846356933578,15.65523306948109,4.101870633310796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ even from thinking of it, while a great part of ud wives, stealing from traveler
 the officers of our army, from absolute necessiaot as the pee a oidene to  
 ty, are quitting the service; and the more virtu the instrumentality of money and Irishmen, ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864020401:0127/pct:64.39962476547842,337.05459013515883,101.78236397748593,19.06266456029489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864020401:0127/pct:16.099906191369605,84.26364753378971,25.445590994371482,4.765666140073723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ Lave pot the better of every other con­
 sideration, and almost of every order of  
 men.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1864051801:0395/pct:56.68771526980482,120.66971814020718,15.800803673938002,4.625391471934473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1864051801:0395/pct:42.53517082974447,90.50831125030113,11.857594028136663,3.469043603950855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -801,7 +801,7 @@ r consideration, and almost every order of men,
 d that party disputes and personal quarrels are the­  
 nsinesd of the day.&quot; In other letters h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864071901:0557/pct:5.921866713805904,97.61814744801512,48.0466678451476,13.635790800252048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864071901:0557/pct:1.9739555712686347,32.539382482671705,16.015555948382534,4.545263600084016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -831,7 +831,7 @@ disputes and personal quarrels are the
 great business of the day I Lif.10  
 The difficulty in ralsing troops in som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn83035143:00280775599:1864071901:0497/pct:109.6938775510204,24.93476369962308,44.67930029154519,31.719338938822847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn83035143:00280775599:1864071901:0497/pct:27.4234693877551,6.23369092490577,11.169825072886297,7.929834734705712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,7 +857,7 @@ order of men; and that party disputes and
 personal quarrels are the great business of  
 the day. In another letter he laments th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn83035143:00280775599:1864072101:0505/pct:207.92079207920793,209.80223559759244,41.7963224893918,22.069360848380626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn83035143:00280775599:1864072101:0505/pct:51.9893899204244,52.45055889939811,10.450928381962864,5.5173402120951565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ almost every order of men; and that party dis
 putes and personal quarrels are the great bust  
 liess ol the day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775836:1864072201:0333/pct:51.22093023255814,78.5683107813182,14.578488372093023,4.615888258402444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775836:1864072201:0333/pct:38.43245601279628,58.92623308598865,10.94954195143231,3.470100392841554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ sideration, and almost every order of men ; and
 that party disputes and personal quarrels are  
 the great business of the day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_citation_ver01:data:sn89038091:00280762441:1864072701:0179/pct:10.005091649694501,39.26431080801819,26.34928716904277,21.18206240958876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_citation_ver01:data:sn89038091:00280762441:1864072701:0179/pct:10.022063815342838,39.278087759178895,26.3408010862186,21.188950885169113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ msst every order of men; and that party
 disputes and personal quarrels are the great  
 business or the day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077540A:1864072801:0125/pct:75.7380073800738,40.710541642399534,16.494464944649447,13.875946418171228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077540A:1864072801:0125/pct:56.839579102824445,30.53290623179965,12.386930035074764,10.410599883517763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1059,7 +1059,7 @@ and almost every order of men; and that party
 disputes and personal quarrels are the great bu  
 siness of the day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1864081901:0558/pct:22.030075187969924,225.7480098819654,43.7593984962406,12.956354652758716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1864081901:0558/pct:5.507518796992481,56.43700247049135,10.93984962406015,3.239088663189679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1105,7 +1105,7 @@ sideration, and almost every order of men;
 and that party disputes and personal quar­  
 rels are the business of the day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1864082001:0342/pct:83.05337812616648,34.506949040370614,12.803284807764092,11.542025148908008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1864082001:0342/pct:83.03788020153014,34.502382212811014,12.805560738943832,11.543806246691371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1147,7 +1147,7 @@ order of men, and that party disputes and
 personal quarrels are the great business of  
 the day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1864091601:0363/pct:170.73859624346844,152.03094777562862,37.72066092359836,14.516950015270284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1864091601:0363/pct:56.90482914430952,50.67182410423453,12.571778217076156,4.838490770901195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1168,7 +1168,7 @@ have got the belter of every order of men, and
 that party disputes and personal quarrels are  
 the great business of the day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952519A:1864092601:0015/pct:3.154781465658889,49.754377125582565,10.9267170555373,2.821514044589999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952519A:1864092601:0015/pct:3.1542631838344013,49.74811083123426,10.929029078363726,2.8243073047858944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1304,7 +1304,7 @@ speculation, peculation, and aninsath
 able thirst for riches, seem to have got  
 the better of every order of men, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1864111201:0360/pct:176.12244897959184,312.1000658327847,49.93197278911565,12.218564845292956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1864111201:0360/pct:44.038101717979245,78.02501645819618,12.485116516414356,3.054641211323239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1589,7 +1589,7 @@ time to bid you adien. Providence has here­
 tofore taken us up when all other means and  
 he pes seemed to be departing from us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667127:1865011901:0033/pct:16.913643331630045,82.60990798401339,58.35462442514052,171.35421507575055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667127:1865011901:0033/pct:4.229491438793764,20.652476996003347,14.59238435982622,42.838553768937636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1621,7 +1621,7 @@ Uiost devoutly, but see it, or thipks he sees it,
 en the brtr.k of ruin, jou ate besought most  
 oiliest! v. n.v ;ear Cul. Harrison, to exett
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn86077149:00415667127:1865012501:0335/pct:102.59806418746817,32.46243659680352,18.861436576668364,10.967556703990812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn86077149:00415667127:1865012501:0335/pct:76.97795897566569,24.346827447602642,14.154669384634985,8.23045267489712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1665,7 +1665,7 @@ puti s and personal qutrel are the great bu­
 siness of the Uy, vtiile the tmrncat u con­  
 cvrus o&#x27; an empire, a g-eat and accumulating
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn86077149:00415667127:1865012501:0335/pct:102.82730514518595,44.300890037324145,18.92511462047886,15.082783041439372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn86077149:00415667127:1865012501:0335/pct:77.15632564657918,33.22806010144512,14.192890814116447,11.31208728107953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1703,7 +1703,7 @@ destined to be more pertinacious and deter- t me by Congress that I cau possibly
   
 mined than the last.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn86077149:00415667127:1865012501:0335/pct:84.00407539480388,61.403005072255716,38.41059602649007,7.742367690688104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn86077149:00415667127:1865012501:0335/pct:63.02713721493184,46.052253804191785,28.818957829022807,5.809168341468083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1735,7 +1735,7 @@ Congress.&#x27; &quot;
 Should they (the Northern Democrats) re­  
 fuse to ratify the Cincinnati nominations, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1872051401:0272/pct:31.28392879686908,81.51538761199845,12.018684509531624,3.9540319439033893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762490:1872051401:0272/pct:31.29234524260405,81.51538761199845,12.010268063796659,3.95727827554863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1777,7 +1777,7 @@ ture of the republic. Compared with the
 universal corruption and venality which flour,  
 ished under the English government in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525401:1876042501:0415/pct:49.38675388389207,7.320872274143302,22.829108748977923,89.49197220225257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525401:1876042501:0415/pct:49.378678875081754,7.319995207859111,22.82946370176586,89.4842458368276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1963,7 +1963,7 @@ for the good of one&#x27;s country I shall
 offer it as mine that each state will not  
 only choose but compel its ablest me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_caliente_ver02:data:sn86091346:00415668284:1897090801:0142/pct:23.775584795321638,24.4696866018886,15.003654970760234,5.9121390447516085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_caliente_ver02:data:sn86091346:00415668284:1897090801:0142/pct:17.83951745567538,18.35226495141645,11.25936757448364,4.4477897906117425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1980,7 +1980,7 @@ j &quot;America,” so he wrote, * never stood in more
 &#x27; eminent need of the wise, patriotic, and spirit­  
 ed exertions of her sons than at this period
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896581:1898022501:0314/pct:31.457703927492446,89.73570989551321,12.575528700906345,1.352181929932391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896581:1898022501:0314/pct:31.451765150084952,89.72192349055155,12.577874268453842,1.355815025349516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2002,7 +2002,7 @@ time are badly represented and that the great
 and important concerns of the nations are hor­  
 ribly conducted.11 Especially after his retur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896581:1898022501:0314/pct:31.72205438066465,2.858020897357099,25.05664652567976,91.379840196681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn85035816:00332896581:1898022501:0314/pct:31.71606569756466,2.857581809801813,25.056635831602794,91.36964203410662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2059,7 +2059,7 @@ offer it as mine that each state will not
 only choose but compel its ablest men  
 to attend congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479925:1898081701:0270/pct:49.43911559096082,79.68016103779915,14.046496504633392,5.155446208901812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479925:1898081701:0270/pct:49.43911559096082,79.68388876463133,14.057334850701784,5.155446208901812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2083,7 +2083,7 @@ offer it as mine that each state will not
 only choose but compel its ablest men  
 to attend congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jackson_ver01:data:sn87057934:0041562265A:1898081801:0516/pct:24.71619199362677,22.927241962774957,16.968731328420635,6.07727016356458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jackson_ver01:data:sn87057934:0041562265A:1898081801:0516/pct:19.772691061660204,18.341793570219966,13.59604864836157,4.86933634141756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2106,7 +2106,7 @@ offer it as mine that each state will not
 only choose but compel its ablest men  
 to attend congress. &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153048:1898081901:0231/pct:59.715512614063336,17.93999104343932,16.10305958132045,5.48141513658755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153048:1898081901:0231/pct:59.71998568616926,17.93999104343932,16.10305958132045,5.490371697268249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2158,7 +2158,7 @@ only choose but compel ite ablest men
 Dlamond Studded Streets.  
 Perhaps the most interesting fact i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524159:1898082301:0347/pct:223.26164874551972,199.27285948009452,29.90442054958184,15.033630249045627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524159:1898082301:0347/pct:74.41165929996416,66.41824956829956,9.966949388762792,5.01075464267321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2205,7 +2205,7 @@ offer it as mine that each state will not
 only chooso but compel its ablest men  
 to attend congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:00415623161:1898082601:0153/pct:32.881504153913426,18.029681086201453,13.642326191517272,5.115251026207767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:00415623161:1898082601:0153/pct:32.89243550502842,18.033628039153772,13.636860515959773,5.12709188506473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2228,7 +2228,7 @@ offer it as mine chat each state will not
 only choose but compel its ablest men  
 to attend congress. ’ ’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663637:1898082701:0530/pct:37.354651162790695,18.93425434809424,14.425872093023257,5.106697915381769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663637:1898082701:0530/pct:37.366763565891475,18.938366021133998,14.425872093023257,5.110809588421529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2282,7 +2282,7 @@ offer it as mine that each state will not
 only choose but compel Its ablest men  
 to attend oongress.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_isley_ver01:data:sn88076514:00295863808:1898092301:1049/pct:70.6045994065282,16.814539210074415,11.81379821958457,5.237550085861477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_isley_ver01:data:sn88076514:00295863808:1898092301:1049/pct:70.61387240356083,16.82169433314253,11.80916172106825,5.241127647395535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2306,7 +2306,7 @@ offer it as mine that each state will not
 only choose but compel its ablest men  
 to attend congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624669:1898092301:0036/pct:58.40834697217676,60.8813462635482,15.057283142389526,5.362236166571591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624669:1898092301:0036/pct:54.04024474862802,56.323102629496084,13.940579070207532,4.959985929117932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2334,7 +2334,7 @@ mon weal.&quot;
   
 George Washington sometimes use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199604:1898110201:0152/pct:52.3594523740169,159.04176624559008,37.780367025924846,24.308637760327755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199604:1898110201:0152/pct:17.453150791338963,53.013922081863356,12.593455675308283,8.102879253442586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2359,7 +2359,7 @@ offer it as mine that eaoh state will not
 only choose but compel its ablest men  
 to attend congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863584:1898111701:0329/pct:12.131941856131196,23.05444887118194,16.008199776369736,6.6401062416998675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863584:1898111701:0329/pct:10.312054490733408,19.60039133052378,13.617403241987434,5.640427453341361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2382,7 +2382,7 @@ offer it as mine that each state will not
 only choose but compel its ablest men  
 to attend congress. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173551:1898112501:0380/pct:6.2637847375385975,17.9590570719603,14.402293780326422,5.102357320099256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173551:1898112501:0380/pct:6.262403528114664,17.956272290277564,14.404630650496141,5.10544270429524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2436,7 +2436,7 @@ of the causes that have produced so many
 disagreeable effects.  
 The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:42.55780346820809,41.2195796460177,16.383670520231213,12.914823008849558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:31.929887965305387,30.918141592920353,12.305746295627033,9.693030973451327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

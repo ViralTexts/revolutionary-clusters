@@ -112,7 +112,7 @@ the eonstitution in the cases submitted to its ac­
 tion ; and especially, where it is to act ultimately  
 and without appeal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830031601:0251/pct:13.470182798921186,55.57772899620834,16.257117171111776,32.338854520055875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830031601:0251/pct:13.47517730496454,55.57772899620834,16.257117171111776,32.338854520055875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ tor itself wha» is the meaning n( the constitution in the
 cases submitted to its action; and especially, where it is  
 to act ultimately and without appeal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830032301:0342/pct:34.65757485917581,24.14749739914461,15.253483545804922,26.829268292682926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830032301:0342/pct:34.65243812064622,24.144706426259823,15.256163233041846,26.83002003390353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ son&#x27;s “axiom of eternal truth in politic*&quot; wa*, “that whatever
 power in any government is independent is absolute al*o.” j  
 apprehend, to*, that this new restrictive construction of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830040801:0336/pct:61.39783206600874,59.86951364175563,17.877366121986732,1.4590747330960854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830040801:0336/pct:61.387900355871885,59.862412525204604,17.87986627844279,1.4628553354683114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ poxte only, but not iu esse, ami I withheld delivery of the
 eonimiasious. They (the Supreme Court) cannot issue a  
 mandamus to the President or Congress, nor to any o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832110201:0208/pct:20.284796872818653,6.736543290752265,30.392293731676673,88.23015613058195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832110201:0208/pct:20.281965382467895,6.735807860262009,30.392704262050994,88.22416302765647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ what is us duty under the Constitution without any re­
 gard to w hat oil ers may have decided lor themselves uii­  
 dei a similar question.&quot;—Jelh Ison&#x27;s Memoirs, Vol. I 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832110201:0208/pct:35.51584531620829,13.178294573643411,15.119363395225465,2.139971612621465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832110201:0208/pct:35.5108877721943,13.176855895196507,15.121905825423413,2.143377001455604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ advice necessary to confirm a treaty, but not
 to reject it. This has been blamed by some;  
 but I have never doubted its soundness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832120401:0138/pct:51.68890150439966,7.317592001701765,28.768095373261424,84.58838544990428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832120401:0138/pct:51.69836313747753,7.32113734666383,28.76336455672249,84.58484010494222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -962,7 +962,7 @@ any regard to what the others may have decided for them­
 selves under a similar question.”  
 &quot; ilhout entering at this time, sir, «.to any discussio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834021101:0352/pct:36.0613810741688,21.99365357260094,14.83375959079284,21.763869132290186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834021101:0352/pct:36.056527590847914,21.99124726477024,14.836249439210409,21.76513493800146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1169,7 +1169,7 @@ Ihe medium ol elections, we find the Judiciary on every
 occasion, *till driving u* into consolidation.”  
 lire N. York Ame&#x27;ican inns&#x27;, therefore, excuse us, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834053001:0035/pct:65.04706533776302,10.922436459246276,15.033222591362126,4.831288343558282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834053001:0035/pct:65.03806228373702,10.92124000438164,15.035755478662052,4.834410486727279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1199,7 +1199,7 @@ ers, and has an equal right to decide for it­
 self, what is&#x27;the meaning of the Constitution  
 in the caseg submitied to its action.” H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834111801:0497/pct:79.23313332357677,49.57497820401046,14.342163032343041,3.2693984306887534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834111801:0497/pct:79.23801161032246,49.582243533856435,14.356797892580126,3.262133100842778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1257,7 +1257,7 @@ bat not in esse; and I withheld delivery of the
 commissions. They cannol issve a mandwmus lo  
 the Presilent, or Legislalure, or any of thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837072501:0521/pct:64.3615360599438,23.35965978128797,14.689353730877302,4.191980558930741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837072501:0521/pct:64.3615360599438,23.35965978128797,14.699760641065668,4.195355744565951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1275,7 +1275,7 @@ to the President or Legisiature, or any of their offi­
 cers ; the Constitution controlling the common law  
 in this purticular.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837072501:0521/pct:64.3615360599438,73.0255164034022,14.626912269747113,1.802349129202106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837072501:0521/pct:64.3615360599438,73.0322667746726,14.626912269747113,1.802349129202106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1321,7 +1321,7 @@ but in practice, as fast as that relaxes. Independence
 can be trusted no where but with the people in mass.  
 They are inherently independent ol all but moral law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840051901:0483/pct:31.946308724832214,83.49758648431215,15.92841163310962,3.32864038616251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840051901:0483/pct:31.946308724832214,83.50093858943417,15.943325876211782,3.331992491284527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1355,7 +1355,7 @@ derated system by the voice of the nation, declared
 through the medium of elections, icrjiml tin Jiiiheinrij  
 mi every or nation, still ilriring ws into ton snliilutiou 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840060501:0504/pct:82.9066265060241,22.769600480624813,16.02409638554217,4.5459096825873635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840060501:0504/pct:82.91164658634538,22.776275825239477,16.02409638554217,4.5459096825873635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1426,7 +1426,7 @@ that relaxes. Independence can be trusted no
 where but with the peeple in mass. They are in­  
 herently independent of all but moral law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0027/pct:190.72512647554805,152.90623674162072,58.85328836424958,17.819261773440815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0027/pct:47.69133459835547,38.22655918540518,14.716424204090238,4.454815443360204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1467,7 +1467,7 @@ meaning of the constitution in the cases sub­
 mitted to its action : and (specially where it is  
 to act ultimately and without appeal.” In th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215695:1841092401:0564/pct:6.61332078136032,77.26988102692549,15.450694281007296,3.7961803381340014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215695:1841092401:0564/pct:6.612542652076715,77.26383345073178,15.452798368435502,3.7984920821267383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1518,7 +1518,7 @@ dence can be trusted nowhere but with
 the people in mass. They are inherent­  
 Iv independent of all but moral law,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065294:0029587806A:1843081201:0085/pct:104.8141086749285,45.562724014336915,23.83222116301239,36.86021505376344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065294:0029587806A:1843081201:0085/pct:78.65999046256557,34.17921146953405,17.8826895565093,27.6415770609319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1564,7 +1564,7 @@ igh departments has equally the right to decide for itself wtiat
 what the others may have decided tor themselves under a  
 similar question.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848102201:1055/pct:66.52285075103867,75.97199649956245,16.970278044103548,5.850731341417677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848102201:1055/pct:66.52285075103867,75.98033087469267,16.991584105678065,5.850731341417677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1657,7 +1657,7 @@ lal is it-&gt; duty under the constitution, without any regard
 what the others may have decided for themselves under  
 iinilar question.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849032101:0332/pct:16.5194067529189,14.651191813303383,17.213632060586935,30.91226756520654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849032101:0332/pct:16.5194067529189,14.659511626939556,17.218891343220786,30.908107658388452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1679,7 +1679,7 @@ is the meaning of the Constitution in the cases
 submitted to its action; and especially when it  
 is to act ultimately ami without appeal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849040501:0152/pct:57.95807453416149,9.156106391867429,12.859083850931677,3.5997771898064337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849040501:0152/pct:57.952450266860744,9.155468913179698,12.861070677664564,3.6018473392281094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1724,7 +1724,7 @@ of the people is up, but in practice, as fast as that
 relaxes. Independence can be trusted no where  
 but with the people in mass.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851122701:0573/pct:73.52857951329938,30.141305617190238,19.086021505376344,22.66728950134299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851122701:0573/pct:55.17338995046001,22.60889875043793,14.3241330502477,17.003386663552494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1860,7 +1860,7 @@ cunstitution; withont any ragard to what the
 others may have decided for themselves under a  
 similar question
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190595:1857031401:0255/pct:63.70626682045367,23.7339841366687,57.266435986159166,235.7687614399024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190595:1857031401:0255/pct:15.926566705113418,5.933496034167175,14.316608996539792,58.9421903599756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1921,7 +1921,7 @@ submitted to its action; and ospecially
 where it is to act ultimately and without ap-­  
 peal.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529236:1857032301:0343/pct:123.19856537332899,44.14774732384426,32.84969025105967,8.728384895894601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529236:1857032301:0343/pct:41.06618845777633,14.715915774614752,10.949896750353222,2.909461631964867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1989,7 +1989,7 @@ Second. &quot; That each department is truly in­
 &quot; its action ; and especially where it is to act  
 &quot; ultimately and without appeal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1857032601:0498/pct:53.93310622483741,20.901686359986233,14.400743264168474,3.3841918091086383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1857032601:0498/pct:53.93826778156292,20.901686359986233,14.41106637761949,3.3956636457496847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2013,7 +2013,7 @@ prescribe rules for the government of the
 oiners ana to that one too, which is une­  
 lectedby, and independent of the nation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1857032701:0484/pct:42.222625090645394,38.891239949217095,16.388687454677303,7.645648187332487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1857032701:0484/pct:31.677243880326383,29.171956552405135,12.293744333635539,5.741289321483989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2037,7 +2037,7 @@ the right to. prescribe rules for tbe government
 of the others—and to that one too, which is un­  
 eiected by, and independent of the nation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1857040101:0358/pct:25.080198308544766,78.09420682187331,10.89238845144357,3.519220357336221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1857040101:0358/pct:25.080198308544766,78.10142573542682,10.902109458539904,3.526439270889731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2062,7 +2062,7 @@ submitted to its action ; and especially
 &#x27; where it is to ac ultimately and without  
 appeal.&quot; . . t . : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1857040201:0432/pct:5.986316989737742,30.93784078516903,16.790193842645383,9.35659760087241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1857040201:0432/pct:4.4916583487808355,23.206106870229007,12.605161842292885,7.022900763358779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2084,7 +2084,7 @@ of them alone the right to prescribe rules for the goe
 vernmert of the others--and to that onc too, wtick is  
 waclected by, and independent of the nation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530546:1857040301:0021/pct:248.84961653884628,230.6438176841604,47.51583861287096,13.35237415208854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530546:1857040301:0021/pct:82.94987217961543,76.88127256138681,15.838612870956986,4.450791384029514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2107,7 +2107,7 @@ of the Constitution in the cases submitted to
 its action; and especially where it is to act  
 ultimately and without appeal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857040301:0268/pct:25.86750788643533,292.65944645006016,103.62776025236593,14.019253910950662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857040301:0268/pct:6.4694280078895465,73.16486161251504,25.91715976331361,3.5048134777376654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2132,7 +2132,7 @@ prescribe rules for the Government of the
 others--and to that one too, which is un-­  
 elected by, and independent of the nation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857040401:0684/pct:169.54662104362703,98.12914261278597,37.396635300826915,16.17489843917041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857040401:0684/pct:56.51554034787568,32.70971420426199,12.465545100275639,5.391632813056803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2155,7 +2155,7 @@ prescribe rules for the government of the others
 -—and to that one too, which is unelected by, and  
 independent of the nation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857040601:0314/pct:6.9382186708244005,48.45789700186487,15.864353927109725,5.106871324056807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857040601:0314/pct:5.377102003826402,37.55419677598666,12.299869096767697,3.9725773577913657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2178,7 +2178,7 @@ to its action; and especially where it is
 act Ultimately and without appeal.&quot;  
 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857040901:0070/pct:38.814531548757174,56.407694229328,14.260675589547482,5.133649762677991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857040901:0070/pct:29.124820659971306,42.305770671996,10.712577714012435,3.859605296027979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2203,7 +2203,7 @@ ment of the others--and to that one too,
 which is unelected by, and independent  
 of the nation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857041801:0691/pct:170.23961434850418,121.93861066235864,36.87792428753722,19.709208400646204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:0027952939A:1857041801:0691/pct:56.74653811616806,40.646203554119545,12.292641429179072,6.5697361335487345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2225,7 +2225,7 @@ constitution in cases submitted to its aotion ; and
 especially where it is to act ultimately and with­  
 out appeal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:0038334735A:1857041801:0271/pct:31.984829329962075,34.44976076555024,11.946902654867257,3.3684210526315788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:0038334735A:1857041801:0271/pct:31.993257479983143,34.44976076555024,11.946902654867257,3.3748006379585327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2249,7 +2249,7 @@ prescribe rules for tbe government of others
 aud to that one too, which i unelected  
 by, and independent of tbe nation.&quot; This
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857061801:0113/pct:23.733974358974358,120.17510944340212,14.182692307692308,7.029393370856785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857061801:0113/pct:17.81019557550497,90.1313320825516,10.644437319653735,5.278298936835522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2277,7 +2277,7 @@ which -is uoelecCed byj «nd independent *f th*
 nation.&quot;  
 $UCH
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528566:1857062501:0728/pct:6.064940637963096,52.44087654588848,12.830782434558719,6.1944022564547625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528566:1857062501:0728/pct:6.069708673055834,52.448108772691114,12.845086539836933,6.1907861430534465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2309,7 +2309,7 @@ Constitution in the cases submitted to its action
 ; and especially where it is to act ultimately,  
 and without appeal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857070901:0121/pct:51.45923781958514,14.651184744642688,13.699951760733237,7.410554139526102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857070901:0121/pct:51.46325775848207,14.654331476761383,13.695931821836307,7.410554139526102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2348,7 +2348,7 @@ an equal right to hvi.l“ for itself what is the mean­
 ing of the constitution in the eases submitted to its  
 action,&#x27;&#x27; etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1857111001:0225/pct:63.25757575757576,82.16007714561235,11.538461538461538,8.85031608271724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1857111001:0225/pct:63.24836125273124,82.15127490893508,11.54042243262928,8.852046282408399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2470,7 +2470,7 @@ them alone the right to prescribe rule* flr the spvernmenl
 of the other*, aHd it that one, too, w*ich i* une&#x27;eCted  
 hy. and independent cf. the nation. *, * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:28.21556886227545,68.98244289220314,13.497005988023952,4.700774023031905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:28.21556886227545,68.98873576238122,13.508982035928144,4.69762758794286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2503,7 +2503,7 @@ explain myself hjr examples, which, having occurred
 while I wa&lt; in ofpee, aip better known to mc, and the  
 principles which governed them/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:28.21556886227545,73.4377949782896,12.538922155688622,5.7862941287521235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858020401:0243/pct:28.21556886227545,73.44408784846769,12.546906187624751,5.7862941287521235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2606,7 +2606,7 @@ stitution in tbe cases submitted to its action,
 and especially where it is to act ultimately and  
 without appeal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1858081201:0137/pct:58.355929784501214,63.270426529944366,12.772941344369915,10.766881204319843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1858081201:0137/pct:58.360686932115506,63.27406276135413,12.768184196755625,10.77051743572961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2649,7 +2649,7 @@ meats of the Covcrnuieiit, hut not in relation to the rigln
 the parties to the compact under which the judiciary is  
 rived.&#x27; It tins opinion he send, then,itid- od, is our C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859022401:0470/pct:51.13182423435419,68.16422840962719,11.088245975063552,7.078810759792355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859022401:0470/pct:51.13989428237098,68.17052068585811,11.084210951055159,7.081956897907818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2681,7 +2681,7 @@ red while 1 was in office, are better known to me, ant
 i paiuoiples which goyeru then)  
 I Extract from a letter to Mr. Jarvi-f, dated Monticell&quot;, Sh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859022401:0470/pct:51.13182423435419,76.88532326569137,11.076140903038374,6.002831524303917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859022401:0470/pct:51.135859258362586,76.89161554192229,11.088245975063552,6.002831524303917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2755,7 +2755,7 @@ he people in mass. They are inherently inde- th
 undent of all but moral law.&quot; D  
 To Thomas Ritchie, whose name as the ed- t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859042101:0502/pct:27.71934018646904,55.30006678752027,12.861582596222807,13.357504054956587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1859042101:0502/pct:27.71934018646904,55.30006678752027,12.869551358673998,13.360684413064911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2919,7 +2919,7 @@ would become &quot; a mere thing of wax in the
 hands of the judiciary, which they may twist and  
 shape into any form they please.&quot; (7th volum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1860031501:0687/pct:38.926886792452834,48.05268109125117,12.358490566037736,2.2295390404515523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1860031501:0687/pct:38.930817610062896,48.058952649733456,12.3624213836478,2.2295390404515523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2942,7 +2942,7 @@ dependent, is absolute also; in theory only at
 but the moral law.&quot;?7 Jefferson, 134.  
 Mr. Buchanan, too, in the Senate of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1860031501:0687/pct:39.04481132075472,60.15992474129821,11.768867924528301,3.9134524929444967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1860031501:0687/pct:39.04481132075472,60.166196299780495,11.768867924528301,3.9134524929444967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3020,7 +3020,7 @@ but in practice as fast as that relaxes independence ege b
 frusted aowherg tus woith the people in maes. They are iaberentl,  
 independent of all but moral law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860061201:0320/pct:152.78927329912267,5.915826911677534,97.30177122992882,291.32187314759926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860061201:0320/pct:50.92975776637422,1.9719423038925115,32.433923743309606,97.10729104919976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3066,7 +3066,7 @@ relaxes. Independence can be trusted nowhere
 but with the people in mass. They are inher I  
 ently independent of all moral law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028599:1860061401:0345/pct:7.0923152871482635,33.41947609538353,14.958038505841698,16.187008105250793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028599:1860061401:0345/pct:7.097800449783336,33.427307255569914,14.952553343206626,16.187008105250793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3112,7 +3112,7 @@ dependence can be trusted nowhere but with
 the people in mass. They are inherently in­  
 dependent of all but moral law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021969:1860061901:0140/pct:18.283093053735257,165.8746140421533,50.32765399737877,66.37132501006846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021969:1860061901:0140/pct:4.572271386430678,41.468653510538324,12.586037364798427,16.592831252517115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3160,7 +3160,7 @@ has an equal right to decide for itself what is the
 meaning of the Constitution in the cases submit  
 ted to its action
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860062701:0314/pct:165.12309495896835,229.83536909187467,39.34642438452521,46.48964418481147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1860062701:0314/pct:55.05716798592788,76.61178969729156,13.119319847552038,15.496548061603823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3261,7 +3261,7 @@ dence can be trusted nowhere but with the peo­
 ple in mass. They are inherently independent  
 of all but moral law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1860071301:0115/pct:82.37202087152728,226.79502180619082,34.11366520942039,34.0282948622487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1860071301:0115/pct:27.45346869712352,75.5902999361838,11.36961834931378,11.341558533645324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3307,7 +3307,7 @@ Independence can be trusted nowhere but
 with the people in mass. They are inherent­  
 ly independent of all but moral law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1860080301:0128/pct:41.51314864294755,16.341670199236965,71.22767543242863,271.04705383637133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1860080301:0128/pct:13.835770528683915,5.446646179930062,23.739220097487813,90.33944403235492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3391,7 +3391,7 @@ in the cases submitted for its action, and espe­
 cially where it is to act ultimately and without  
 appeal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860091001:0858/pct:5.78398583513673,58.14804390655784,16.289592760180994,9.71010413734872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860091001:0858/pct:4.487700752185403,45.06852801105173,12.63468184590364,7.536263496564511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3430,7 +3430,7 @@ preiue court and the other departments of the
 ; and Hie final decision has invari*  
 ably been against the court. So it was alte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860091001:0858/pct:5.764312413928782,95.0745848578666,16.604367499508164,17.942583732057415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860091001:0858/pct:4.467371416954665,73.68306249318356,12.888798536287863,13.91282219071509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3473,7 +3473,7 @@ spit it of the people is up, bat in practice, as
 fast as that relaxes. Independence can be  
 trusted nowhere but with the people in maw.”—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860100801:0002/pct:25.497420781134856,56.97874784606548,9.727339719970523,9.477311889718553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860100801:0002/pct:25.502026529108328,56.985927627800116,9.727339719970523,9.48090178058587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3501,7 +3501,7 @@ lish “three departments, co-ordinate and in.
 dependent, that they might check and bal­  
 ance each other?’ The theory agains
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860103101:1034/pct:5.552285658230332,62.70900660390614,16.303708063566805,9.568638471265983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860103101:1034/pct:4.308160162189559,48.598911070780396,12.645717181956412,7.422867513611616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3521,7 +3521,7 @@ mere thing of wax, in the hands of the judicia­
 ry, which they may twist and shape into any  
 form they please.” No man who consider
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860103101:1034/pct:5.650382577987052,73.8372909933961,16.22523052776143,3.9763945482647185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860103101:1034/pct:4.384186517992904,57.223230490018146,12.569690826153066,3.088929219600726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3549,7 +3549,7 @@ were at once compelled to vacate their seats;
 if then, forsooth, every member of thi­  
 Legislature were elected by the soldier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024582:1865031501:0498/pct:141.8181818181818,118.71247169997046,34.01069518716577,15.769268628802047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024582:1865031501:0498/pct:47.28537041989837,39.57082389999016,11.339930462690559,5.256422876267349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3591,7 +3591,7 @@ was in office, are better known to me, and
  the principles which governed them.&quot; Then  
  ee o i o o teeeo o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1866010401:1281/pct:131.1965811965812,182.82485875706215,96.29629629629629,112.82485875706215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1866010401:1281/pct:32.810830067687924,45.706214689265536,24.082650516565728,28.206214689265536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3611,7 +3611,7 @@ wchat is misdulg under the Consiitution, with­
 out any regotrd to what the others may hare  
 decited for themselves under a similar ques
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1866010401:1281/pct:179.41595441595442,218.58757062146893,48.78917378917379,11.468926553672317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1866010401:1281/pct:44.869967937299606,54.64689265536723,12.201638760242252,2.867231638418079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3680,7 +3680,7 @@ Constitution, without icgsrd to whnt the others
 n 8V have decided for themselves underasimilar  
 r ncstion.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776178:1866040301:0586/pct:47.314487632508836,7.633798921311022,38.303886925795055,117.88134421241875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776178:1866040301:0586/pct:35.507246376811594,5.725349190983266,28.738069989395544,88.41100815931406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3838,7 +3838,7 @@ ty under the constitution, without regard to
 what the others may have decided for them­  
 selves under a similar question. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879907:1866041101:0340/pct:10.221760221760222,32.58712795726278,20.218295218295218,55.22767743576698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879907:1866041101:0340/pct:7.676312597470109,24.44670567285678,15.162016981459018,41.42711778173493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3917,7 +3917,7 @@ ont retard to what the others may nave
 derided for themselves under a similar  
 question.&quot; St. Lout Republican
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779349:1866041101:0132/pct:40.1255230125523,81.84971098265896,17.405857740585773,42.03757225433526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779349:1866041101:0132/pct:30.117203850983675,61.38728323699422,13.05985768103809,31.53179190751445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3956,7 +3956,7 @@ ed nowhere but with the
   
 inherently independent of all but mor a i o e ea o oi i o i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528360:1867012001:0673/pct:48.20155541153597,36.70425182053089,102.80298120544394,23.60817477096547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528360:1867012001:0673/pct:16.067185137178658,12.23475060684363,34.267660401814645,7.869391590321823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3984,7 +3984,7 @@ with the people in mass; they are inh
 rently in lependent of all but moral law.&quot;  
 And this he said when speaking of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn86081582:00280776543:1867022001:0199/pct:80.47473200612558,202.17142857142858,48.16232771822359,38.57142857142857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn86081582:00280776543:1867022001:0199/pct:20.12638835695136,50.542857142857144,12.045193412485638,9.642857142857142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4047,7 +4047,7 @@ b. fntending to estabish these depare
 one of them alone the right to pr  
 rules for the government of the others
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871100201:0324/pct:10.535545663024417,49.39385653085407,41.845406717927965,17.564488196153494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871100201:0324/pct:3.5118485543414724,16.464618843618023,13.948468905975988,5.854829398717832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4159,7 +4159,7 @@ what is the meaning of the Constitution in the cases
 submitted to its action; and especially, where it is to  
 act ultimately and without appeal 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887012801:0275/pct:6.1667631731326,5.381165919282512,39.11407064273306,121.74887892376681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887012801:0275/pct:4.634322954380884,4.0358744394618835,29.341057204923967,91.31675499388504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4180,7 +4180,7 @@ as ,ong as it remains in the hands of the partv, is as
 u SfV 13 ln P9se only. but nfc i esse, and I  
 withheld delivery of the commissions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887012801:0275/pct:25.260567458019686,15.450468813697514,20.10712217718587,3.8422339991846717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887012801:0275/pct:18.9572773352643,11.587851610273136,15.090514120202752,2.884223399918467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4211,7 +4211,7 @@ iniependent, is absolue also; in theory only, at first,
 while the spirit of the people is up, but in practice, at  
 fast as that relaxes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.26937835763624,275.83892617449663,51.95702225633154,8.541793776693105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.84452975047985,68.95973154362416,12.994241842610364,2.135448444173276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4250,7 +4250,7 @@ in theory only, at first, while the
 spirit of the people is tip, but in  
 practice, as fast as that relaxes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110901:0364/pct:58.70297585626053,80.0952188006483,12.25435148792813,15.964343598055105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110901:0364/pct:58.694736842105264,80.08710624936695,12.257309941520468,15.966102839393633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4271,7 +4271,7 @@ also in theory only at first while tbo spirit of
 tho people is up but in practice a fast8that  
 relapse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:66.24605678233438,199.16375247073134,51.813880126182966,17.8956971263494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:16.561514195583594,49.790938117682835,12.953470031545741,4.47392428158735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4505,7 +4505,7 @@ in theory only, at first, while the spirit of the
 people is up, but in practice, as fast as that re  
 laxe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:277.9816513761468,313.27447100015223,51.37614678899082,18.16105952199726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:69.4954128440367,78.31861775003806,12.844036697247706,4.540264880499315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4570,7 +4570,7 @@ theory only, at first, while the spirit of the
 people is up; but in practice, as fast as that  
 relaxes. The first principle of good gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623574:1895022101:0239/pct:58.02185939819188,30.858392564242756,10.983672918634463,5.5768179332968835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623574:1895022101:0239/pct:58.03085503530787,30.858392564242756,10.988170737192462,5.580462912338254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4590,7 +4590,7 @@ is absolute also?in theory only at first
 whilo the spirit of the peoplo is up, but in  
 practico as fast as that relaxes.?Thoma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192427:1895030501:0046/pct:14.657168299198576,62.578334825425245,11.754229741763135,3.282602208296031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192427:1895030501:0046/pct:14.657168299198576,62.5820650552074,11.772039180765805,3.29006266786034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4640,7 +4640,7 @@ is absolute also; in theory only
 first, whilo tho spirit of tho people is  
 up, but in practice as fast as that relaxes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:83.08823529411765,33.31537840021546,14.583333333333334,9.251279288984648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:62.34238178633976,24.993266900080798,10.950087565674256,6.935092916778885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4666,7 +4666,7 @@ Is absolute also; In theory only at first,
 while tho spirit of the peoplo Is up, but  
 in practice as fast nn that relaxes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:39.404934687953556,95.654550423613,15.910740203193033,7.570374419240229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:29.569794881103647,71.74091281770976,11.944091486658195,5.6846132823175735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4684,7 +4684,7 @@ but with the people In mass. They aro
 Inherently Independent of aU but moral  
 law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86053634:00212478040:1897102001:0677/pct:37.56561679790026,101.88505141049302,14.0748031496063,2.385974162931716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86053634:00212478040:1897102001:0677/pct:28.187038556193603,76.4170841022937,10.549630844954882,1.792776166622726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4713,7 +4713,7 @@ people in mass. They are
 in herently independent of  
 all but moral law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1898041501:0725/pct:16.042094455852155,60.573808422026836,15.349075975359343,4.257288292457195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1898041501:0725/pct:16.050650239561943,60.58409172708108,15.35763175906913,4.252146639930073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4814,7 +4814,7 @@ transaction, and (he condition of the
 market. The souls of some men are so  
 small, that as long ago as the Middl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:0017503139A:1899041601:1084/pct:11.478102189781023,44.65796644199054,14.817518248175183,17.89760504804245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:0017503139A:1899041601:1084/pct:11.48418491484185,44.66752712844782,14.817518248175183,17.89760504804245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4849,7 +4849,7 @@ trusted nowhere but with the people in
 mass. They are inherently independent  
 of all but moral law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:0033289206A:1899041901:0676/pct:6.6147186147186146,51.251027839774466,14.285714285714286,5.48572771056032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:0033289206A:1899041901:0676/pct:6.626262626262626,51.25885899996084,14.291486291486292,5.477896550373938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4902,7 +4902,7 @@ meeting was the purest and best
 form of Democrcy known, and that  
 in these town meetings, where th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878988:1899050401:0281/pct:37.49302844394869,29.219486642221057,14.905186837702175,17.78941854374018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878988:1899050401:0281/pct:28.13502580555168,21.917234154007335,11.187055377319012,13.347302252488214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5089,7 +5089,7 @@ in theory only, at first, while the !
 spun oi iua people is up, uui iu  
 practice, as fast as that relaxes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:95.88571428571429,32.42460019319523,15.114285714285714,5.645594075346142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:71.92456065152165,24.321133412042503,11.344477782540363,4.23956209080176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -67,7 +67,7 @@ Ceases this day, in consequence of the death of Mr.
 Stearns. All those that have claims against  
 the said firm, are requested to present them to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805030601:0387/pct:29.492735151669642,43.333333333333336,22.22788682131022,10.096618357487923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805030601:0387/pct:29.485219164118245,43.326356464337465,22.228593272171253,10.099017871518274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ dupes, they must never indulge the
 vain glorious imagination that they are  
 incapable of being deluded ; that the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1836042801:0252/pct:41.502956322716,5.504966887417218,29.02918176616441,89.32119205298014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1836042801:0252/pct:41.49504195270786,5.504207476893365,29.028413424866514,89.31231894054352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ ment, destroy every safeguard to liberty,
 and thus open up every avenue to license.&quot;  
 That there are dangers of this kind lurkin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531009:1880030301:0225/pct:128.9881220869042,129.21862011637572,41.30205984062547,31.047381546134662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531009:1880030301:0225/pct:42.99604069563474,43.072873372125244,13.76735328020849,10.349127182044887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

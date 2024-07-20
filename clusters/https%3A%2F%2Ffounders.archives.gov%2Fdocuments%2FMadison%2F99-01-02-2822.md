@@ -1335,7 +1335,7 @@ I have the &#x27; honor to be, with the &lt;
 t highest consideration, sir. your most ,  
 i obedt. and most humb. servant. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808033001:0002/pct:4.419445560466051,4.882413087934561,54.0980313378867,90.58026584867076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808033001:0002/pct:4.426141690103121,4.89093387866394,54.10472746752377,90.57600545330607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1694,7 +1694,7 @@ vice they were upon, and in conse­
 quence of an interdict, which had they  
 been regardless of their duties to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808033001:0004/pct:40.19234622320176,6.380793426627295,52.93528351031858,90.0757478495314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808033001:0004/pct:40.19902491150738,6.38935250567039,52.94864088692981,90.07146831000985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1714,7 +1714,7 @@ the present more serious cause of romplaiBt, I
 have called your attention to this subject m- full  
 confidence, that his majesty&#x27;s government will se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040101:1062/pct:72.00305421226776,75.65609402672678,21.990328327818784,4.0251167283851235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040101:1062/pct:71.98473282442748,75.64391500321958,21.991094147582697,4.028493238892466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1841,7 +1841,7 @@ of all their purts to the whole of hisuavy •
 m the letter delivered by tliat minister, 4  
 to require redrew for the wrong, although
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040501:0118/pct:78.2191265060241,31.27007659995058,19.408885542168676,63.23202372127502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040501:0118/pct:78.20440429136082,31.266213712168003,19.411506368028107,63.22833024500721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2038,7 +2038,7 @@ no cnduct has been imputed to them, which
 could vindicate the necessity of maintain­  
 ing in force the President’s proclamation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040501:0119/pct:3.296910324039186,3.8969123505976095,36.906556141672944,91.35956175298804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040501:0119/pct:3.2962893200226033,3.8964272376447155,36.90588309160545,91.35233827129757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2558,7 +2558,7 @@ I have the honour to lie,
 With the highest consideration, sir,  
 Your mostobedientuod most humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040701:1073/pct:2.840909090909091,2.350668169376912,93.93078512396694,94.62244405087748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040701:1073/pct:2.8401755744900594,2.3502897617514487,93.9129873483088,94.61123631680618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3145,7 +3145,7 @@ to determine, on the part of Great-IV it-im
 whetlier any aud what obligations u&gt; ,\ (  
 be fulfilled by her ; Wludhci *n, di:;ii*ai 0f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040801:0438/pct:23.070081821415865,10.62643887071368,71.27356812522234,84.10275051496426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040801:0438/pct:23.065979014760803,10.625151441725224,71.26682079554212,84.09659962846297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3171,7 +3171,7 @@ cessful termination.
 ilwvc the honor to he,  
 With the highest consideration, sir.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040801:0439/pct:3.604902667627974,1.2140342357654486,18.493150684931507,8.134029379628506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040801:0439/pct:3.604253018561903,1.2138868657441126,18.495825073586833,8.137088290038035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3488,7 +3488,7 @@ Sir,
 Yr.ur most obedient, and  
 Most humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0121/pct:3.124404648504477,13.756947953511874,55.13431129738998,79.96462860030319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0121/pct:3.123809523809524,13.755210306934444,55.13015873015873,79.95873857942823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3517,7 +3517,7 @@ the Brizifh squadron ; but it is improper to
 mingle them with the present more serious  
 cause of complaint. I have called your at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808041201:0058/pct:7.405131356583192,70.66960705693664,16.99185742817637,9.182036888532478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808041201:0058/pct:7.405131356583192,70.67294840951617,17.00209965688534,9.185378241112002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3548,7 +3548,7 @@ I proclamation in his first interview, it j
 &#x27; was not presented as a requisition, j  
 the term used in the National Intcdi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041301:0002/pct:41.917140536149475,57.847186370676305,17.95288383428107,11.538461538461538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808041301:0002/pct:41.93067966422962,57.847186370676305,17.93934470620092,11.542763723971778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3615,7 +3615,7 @@ and whether on the result of those n
 considerations the n ion run be •  
 led with a clue regard to his ho- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808042001:0002/pct:57.942973523421585,20.450761941349725,18.35030549898167,8.797541298501729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808042001:0002/pct:57.956551255940255,20.450761941349725,18.35030549898167,8.810347035471892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5370,7 +5370,7 @@ search of national shipsj and from the
 in his majesty’s proclamation of the 16th  
 of October last: neither under these con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808050601:0957/pct:27.398779811425403,11.877061989928807,65.89018302828619,82.04549400937663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808050601:0957/pct:27.391183809259772,11.875,65.8788466869975,82.03559027777777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5746,7 +5746,7 @@ Sir,
 Your most obedient and most  
 Humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808050601:0958/pct:7.100922560805144,4.975643702157272,64.8029074643556,92.01461377870564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808050601:0958/pct:7.098937954164338,4.9747782222995305,64.79178311906092,92.00295703600626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6316,7 +6316,7 @@ s fouhided. It will be for his majesty&#x27;s gov­
 denial or such protradiion of rcdrels have  
 ~oceurred on her part, as to render neceflar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808051701:0077/pct:24.285714285714285,12.561452794220928,67.67477203647417,84.69950837764624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808051701:0077/pct:24.29078014184397,12.561452794220928,67.68490374873353,84.70619711715327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6400,7 +6400,7 @@ no further efT.-ct upon the negotta­
 tion, if I did riot derm it efl&#x27;ential that &#x27;  
 they
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808052301:0400/pct:2.840816326530612,23.347189231987333,20.228571428571428,48.10965954077593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808052301:0400/pct:2.840352595494613,23.344878772884712,20.229350310153443,48.10737258782781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6666,7 +6666,7 @@ the bafts upon which it reft*, the mu­
 tual confidence of the two part.es,  
 would be wholly wanting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808052301:0400/pct:5.453061224489796,14.380443388756929,53.371428571428574,79.35471100554236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808052301:0400/pct:5.45217107411035,14.37902028698664,53.3667972575906,79.34933201385452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7055,7 +7055,7 @@ ed States, Great Britain has alrc^ *
 riade them openly and diftiudfcflated  
 hey are indubitable tdlimonief
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808060601:0408/pct:20.59071729957806,14.459271061541525,73.68776371308017,78.22146982672774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808060601:0408/pct:20.587242659466757,14.457831325301205,73.67954775565306,78.21617046699194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7129,7 +7129,7 @@ med on the part of his maj&#x27;ffv, wbh
 with a prolpeCt of a more fue elVful  
 termination.— I have the honor, Sec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808060601:0408/pct:75.40928270042194,49.47221668990241,19.037974683544302,42.09320852419837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808060601:0408/pct:75.39655754303071,49.46729065020412,19.038980762740465,42.091506521955594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8061,7 +8061,7 @@ I the condition which makes the subject br.
 (United States would conskxt to the pa  
 separation of the two subjects.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808082201:0002/pct:41.093117408906885,4.6523583087006815,35.91093117408907,90.3225806451613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808082201:0002/pct:41.093117408906885,4.656642248211456,35.931174089068826,90.32686458467207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8087,7 +8087,7 @@ the subject of the present Irtter, before I wax inform
 td by you, that the President of &#x27;the U. S. Would  
 consent to the separation of the two subjects.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808090701:0093/pct:32.85608491730437,4.999191069406245,20.24191557640089,7.959877042549749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808090701:0093/pct:32.84797630799605,4.998382400517632,20.24308983218164,7.962633451957295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8115,7 +8115,7 @@ less can l then give any pledge concerning them.&quot; &#x27;
 We do not even solicit tha candour nor fear the  
 prejudice of any one who will take the trouble o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808090701:0093/pct:32.559861762527774,33.68386992396052,20.686250308565786,9.124737097557029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808090701:0093/pct:32.55182625863771,33.67842122290521,20.68731490621915,9.127305079262374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8143,7 +8143,7 @@ by the injured party, the door to pacific
 “ adjustment is clo.ed, and the means t f  
 “conciliation .are precluded.” Languag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051901:0154/pct:76.10355745948966,43.90056381342901,17.750046563605885,9.37980522808816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051901:0154/pct:76.08938547486034,43.89493914157591,17.75294847920546,9.382874225923553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

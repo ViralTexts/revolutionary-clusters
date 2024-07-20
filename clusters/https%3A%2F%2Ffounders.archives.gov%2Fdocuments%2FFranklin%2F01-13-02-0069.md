@@ -2278,7 +2278,7 @@ and Validity to bind the Colonies and People of*
 America, - Subje&amp;s of the Crown of Great Britainy  
 in all Cases whatsoever. _ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766053001:0594/pct:64.89733508082132,30.451574569221627,28.833551769331585,9.536541889483066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766053001:0594/pct:64.91189748070482,30.45652604476134,28.833551769331585,9.546444840562488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2715,7 +2715,7 @@ Power of Prerogative to bestow ; as they are in­
 feperable from the three Estates of the Realm  
 assembled in Parliament.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766061301:0604/pct:5.019815059445178,74.38090950022513,28.643769264641126,19.85592075641603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766061301:0604/pct:5.0271539703508,74.38090950022513,28.643769264641126,19.875931762469357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2787,7 +2787,7 @@ of the Weft-India Islands, or in those of our C­
 olonies in North- America, where it has been ex­  
 ecuted.” : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766061301:0604/pct:5.019815059445178,4.337385562059133,58.45442536327609,92.04562509380159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766061301:0604/pct:5.0271539703508,4.347391065085797,58.45442536327609,92.03561959077493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3170,7 +3170,7 @@ Marks of His Royal Favour, on those Go&quot;ver@&#x27;s and,
 Officers in the [everal Colonies, who diflinguifbed  
 | themselves by their Zeal and Fidelity in Sfupporting th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1767073101:0837/pct:67.1525137304605,41.94102490695677,28.495986480777354,15.68851989693673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1767073101:0837/pct:67.16659625404873,41.95056780227121,28.50302774257147,15.69329134459395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3271,7 +3271,7 @@ Parliament assembled, to make Laws and Statutes of fufficient
 Force and Validity to bind the Colonies, and People of America,  
 Subjeéts to the Crown of Great-Britain, in all Cases whatsoever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769042101:0268/pct:9.07364422874024,32.86723579629084,27.76957163958641,2.2372681778039447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769042101:0268/pct:9.07364422874024,32.86723579629084,27.77660547232187,2.247080757531155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3392,7 +3392,7 @@ laws and statutes, offofficient force and validity to bind the
 colonies ard people of America, fubjefts of the crown of  
 • Great-Britain, in all casb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774063001:0605/pct:66.16490676252528,74.80548875371339,27.79150752639856,3.0697411232140333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774063001:0605/pct:51.27684271619269,57.97763484870633,21.54962275101567,2.3826925888028065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4138,7 +4138,7 @@ soever. Do you remember the declaration? It led tol
 the independence of the United States. I  
 The different kinds of government established by Great
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850040301:0434/pct:63.65397030342156,43.392208442941254,16.268560361523562,3.332080671426782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850040301:0434/pct:63.65397030342156,43.392208442941254,16.279319991392295,3.3362562111152867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4232,7 +4232,7 @@ integrity. &quot;I have some little property in America,&quot;
 ys-&quot;I will freely spend nineteen shillings in the poun  
 defend my right of giving or refusing the other sh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858011901:0157/pct:151.6171185886965,233.28805885681948,43.69487095720353,3.9162422184493493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858011901:0157/pct:50.5390395295655,77.76268628560649,14.56495698573451,1.3054140728164498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4345,7 +4345,7 @@ and the people of America, subjects of
 the Crown of Great Britain, in all  
 cases whatsoever.&quot; This is substan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1870101201:0980/pct:190.50683829444893,235.5010814708003,46.017699115044245,9.747656813266042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1870101201:0980/pct:47.63629048481191,58.875270367700075,11.506739086702877,2.4369142033165105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4397,7 +4397,7 @@ the boundless wonds of Anieriea, which are sure to
 afford freedom and subsistence to any man who can  
 batt a nook or pull a trigser
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533481:1876111601:0923/pct:170.5317577548006,68.53731343283582,48.59675036927622,30.507462686567163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533481:1876111601:0923/pct:42.648688585149614,17.134328358208954,12.153675655707426,7.626865671641791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4589,7 +4589,7 @@ any one who can bait a hook or pull atrigger.”” Alread
 &#x27; will turuirth subsistence to any man who can  
 bait a hook or pull a trigger.&quot; For it is tru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023589:1890040401:0485/pct:15.787801778907243,66.34938409854423,21.14040660736976,1.3885778275475924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023589:1890040401:0485/pct:10.533841754051478,44.23292273236282,14.092786781061328,0.9294512877939529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4814,7 +4814,7 @@ of sufilcient authority o bind the colonies
 and people of America, subject to the  
 crown of Great Britain In all cases whatso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665477:1894031501:0144/pct:111.05980650835532,53.67935803312276,16.193931398416886,2.2366399180467815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665477:1894031501:0144/pct:83.32783459804244,40.25951852484207,12.152204992851644,1.6817483353252518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

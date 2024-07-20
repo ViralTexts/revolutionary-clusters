@@ -378,7 +378,7 @@ they have come to several Resolutions, which
 they had directed him to report, when the  
 House will please to receive the fame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769042101:0267/pct:63.86465205362843,31.194427978660343,28.133645456480103,3.8529934795494962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769042101:0267/pct:63.87883946939065,31.204307449120726,28.119458040717884,3.8480537443193046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ bitants of this province in the Commons
 house of aflemb&#x27;y. They are to bear left  
 the 22d instant, returnable on Thursday A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772032601:0205/pct:64.37937062937063,84.00435255712732,27.01048951048951,6.215995647442873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772032601:0205/pct:49.89838545782997,65.10769879475737,20.93824093936999,4.813942865174462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

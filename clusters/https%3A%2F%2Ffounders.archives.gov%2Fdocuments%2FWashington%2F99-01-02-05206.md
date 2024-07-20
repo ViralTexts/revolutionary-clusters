@@ -90,7 +90,7 @@ tions and the neglects of others; while by these irre-­
 gularities the strength and resourees of the country  
 never are, and never can be employed to advantage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0289/pct:237.16182572614107,232.0986225257553,53.9253112033195,32.596365320060194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0289/pct:79.0539419087137,77.36620750858509,17.975103734439834,10.865455106686731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ lects of others; while by these irregularities ihe
 strength and resources of the country never are,  
 and never can be, employed to advantage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0059/pct:89.93975903614458,102.09113205111656,17.198795180722893,17.89079643733058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0059/pct:67.4853096278439,76.57157609397186,12.912460448998042,13.424551439266812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ darkness, have been too luminous to per
 mit me to doubt the issue of the present  
 contest.&quot; Ep. ffc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1857092301:0647/pct:41.3323782234957,77.85441556841975,16.511461318051577,10.296834585540092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1857092301:0647/pct:31.010390541024723,58.393890873260254,12.396990326048012,7.722625939155068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ ton.
 The Best Wsy.  
 The best way to Increase the appetite, as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013869:1882070601:0133/pct:36.74985711564108,51.941887226697354,10.93541626976567,12.44246260069045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013869:1882070601:0133/pct:36.74285714285714,51.934416798504245,10.938095238095238,12.444268661009636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ rive useful lessons from past errors and for the
 purpose of profiting by dear bought experi­  
 ence.—George Washingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522175:1882072201:0119/pct:54.83922317733206,63.57065413805566,12.352753900031837,2.204553668232743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522175:1882072201:0119/pct:54.8498355088613,63.57065413805566,12.363366231561074,2.204553668232743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ and for the purpose of profiting by dear
 bought experience—George Washington  
 Humility is to malic a right estimate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00175035254:1882090901:0169/pct:43.66391184573003,95.43856123781774,13.044077134986226,2.7127499246458355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00175035254:1882090901:0169/pct:43.66391184573003,95.4419103117988,13.057851239669422,2.719448072607924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ errtirs and for the the purpose of profit­
 ing by dear bought experience. ileorge  
 II ashmgton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033306:0029602045A:1882102601:0176/pct:37.54632080465855,116.05269033266354,14.094759131815776,12.659075686537173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033306:0029602045A:1882102601:0176/pct:28.166776968894773,87.03951774949766,10.57577763070814,9.499888367939272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ it is to derive useful lesson* fronr
 past errors a&#x27;nd for the purpose&#x27; of  
 profiting by dear bought experienoe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192208:1883013101:0024/pct:82.60162601626017,75.04999230887556,14.634146341463415,17.043531764343946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192208:1883013101:0024/pct:82.61904761904762,75.05383787109676,14.651567944250871,17.05122288878634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ is to derive useful lessons from past
 errors and for the purpose of profiting  
 by dear-bought experience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287265:1883041801:0132/pct:76.19937694704049,35.84357923497268,10.554517133956386,1.9552595628415301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287265:1883041801:0132/pct:76.19937694704049,35.849271402550094,10.554517133956386,1.9524134790528234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ to derive useful leeeons from past errors
 and for the purpose of profiting by dear  
 bought experience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883042101:0274/pct:26.962457337883958,95.80534408120614,15.338285484842402,2.4630541871921183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665398:1883042101:0274/pct:21.575030783232506,76.64503801600254,12.286524974570373,1.9784244257792285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ is to derive useful lessons from past
 errors find for the purpose of profiting  
 by dear-bought experience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776130:1883050201:0195/pct:65.86294416243655,23.522370193027083,19.395093062605753,18.883734849618435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776130:1883050201:0195/pct:49.42869234024545,17.64177764477031,14.55776555226407,14.17028280712255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ is to derive uaeful leeaona from past er­
 rors and for the pnrpoee of profiting by  
 dear-bought experience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665404:1884053101:0314/pct:11.439114391143912,45.33917510197915,14.682462614099824,2.5079317117389333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665404:1884053101:0314/pct:9.156351960225802,36.27573425728214,11.750996944430058,2.0023367309939166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -759,7 +759,7 @@ to derive useful lessons from past errors,
 and for the purpose of profiting by dear­  
 bought experience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296308:1884071001:0754/pct:149.07152682255847,24.688684353004874,33.32187070151307,35.97726042230644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296308:1884071001:0754/pct:49.71615344916567,8.229561451001624,11.113022535695855,11.992420140768814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ to derive useful lessons from past errors,
 and for the purpose of profiting by dear­  
 bought experience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1884071101:0225/pct:134.70115967885818,38.86415963161934,59.94647636039251,56.5464313123561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1884071101:0225/pct:33.68280169529333,9.716039907904834,14.989962078964979,14.136607828089025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ to derive useful lessons from past errors,
 and for the purpose of profiting by dear­  
 bought experience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1884071901:0238/pct:55.67424643046007,11.224914647347822,9.82548915917504,13.173453243400782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1884071901:0238/pct:55.68129737352371,11.224914647347822,9.82548915917504,13.17900463541233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ ship, or engineering, or any practi­
 cal trade whatsoever. ..&#x27;  
 So quickly sometimes has th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194412:1884090101:0138/pct:111.74551386623165,72.82608695652173,14.573137574768896,22.663996948893974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194412:1884090101:0138/pct:83.84332925336598,54.624332570556824,10.934312525499797,17.000381388253242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -917,7 +917,7 @@ is to derive useful lessons from past
 errors, and for the purpose of proliting  
 by dear-bought experience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn87068192:00279529625:1884100201:0313/pct:34.22803904170364,33.31810567991472,14.574090505767524,14.801279122887163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn87068192:00279529625:1884100201:0313/pct:34.22044799290308,33.313032886723505,14.576402750055445,14.802831912302072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -942,7 +942,7 @@ soldiership, or engineering, or any
 practical trade whatsoever.  
 So quickly sometimes has th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:0028077649A:1884100801:0557/pct:219.49724095646843,208.7596275433958,40.220723482526054,21.013909644786757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:0028077649A:1884100801:0557/pct:54.89113768782582,52.18990688584895,10.058264336093224,5.253477411196689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1017,7 +1017,7 @@ ous in our deliverance.” Never was
 commander more impressed with the  
 thought, “It is the will of God,” tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521572:1885022301:0002/pct:55.65891472868217,45.083306109114666,17.743324720068905,4.7152346727648915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521572:1885022301:0002/pct:55.66465690496698,45.083306109114666,17.743324720068905,4.7188645685868815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1058,7 +1058,7 @@ bought experience.
   
 Lost patience is never found again
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1885082201:0059/pct:7.27391874180865,43.661800486618006,20.445609436435124,5.437956204379562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1885082201:0059/pct:7.27391874180865,43.661800486618006,20.46199213630406,5.442011354420114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1106,7 +1106,7 @@ it is to derive useful lessons from
 past errors, and for the purpose of  
 profiting Gy dear-hought experience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588307:1887021901:0467/pct:9.229747675962816,7.611348383160464,36.498450641876936,113.54484441732764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588307:1887021901:0467/pct:7.158785522328321,5.9027504137441875,28.280633541082967,87.99747813066435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1185,7 +1185,7 @@ is to derive useful lessons from past er­
 rors, and for the purpose of profiting by  
 dear-bought experience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775307:1890031301:0088/pct:20.0,50.13892397069967,14.422442244224422,3.5993937863096743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775307:1890031301:0088/pct:15.00495212941565,37.610507703965645,10.828656322218555,2.7027027027027026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1305,7 +1305,7 @@ errors, and for the purpose of profiting
 by dear-bought experience. Washington.  
 Light thickens, and the crow make
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069309:00100481765:1893092001:0958/pct:11.33093525179856,46.59827213822894,16.07913669064748,20.167386609071276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069309:00100481765:1893092001:0958/pct:8.511786935396797,34.94870410367171,12.05686521504409,15.132289416846652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1325,7 +1325,7 @@ errors, and for the purpose of profiting
 by dear-bought experience. Washington.  
 Light thickens, and the crow make
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069309:00100481765:1893092001:1082/pct:10.74561403508772,60.86837419531571,15.899122807017545,5.656759348034516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069309:00100481765:1893092001:1082/pct:8.063631376851344,45.65128064648678,11.940025598829768,4.25626626489522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1361,7 +1361,7 @@ srrors, and for tho purposo of profiting
 by dear-bought experience.? Wat/ting&quot;Do  
 yon tako this man for botter o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193602:1893092701:0186/pct:34.85612577870068,63.36409542051193,21.625630376742805,13.337976667247084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193602:1893092701:0186/pct:34.87095817264907,63.368448546056065,21.618214179768614,13.351036043879505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1436,7 +1436,7 @@ it is to derive useful lessons from
 past errors, or for the purpose of prof­  
 iting by dear bought experience.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074064:00383343616:1894072401:0227/pct:17.14641080312722,93.19675299574797,13.041933191186923,2.7573766267233606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074064:00383343616:1894072401:0227/pct:17.143364718422454,93.18474619943314,13.044057559069106,2.760242205617109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1454,7 +1454,7 @@ it is to derive useful lessons from past
 urrors and for the purpose of profiting  
 by dear bought experience
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769386:1895082201:0585/pct:60.265700483091784,31.851319437313894,10.909822866344605,1.9406509908614848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769386:1895082201:0585/pct:60.27017355519771,31.854742102200774,10.923242082662373,1.9406509908614848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1496,7 +1496,7 @@ Married men who are obliged to got up
 in the middle of the night with the baby  
 should study the value of the bicycle as 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665726:1897102401:0494/pct:68.95112427628922,35.987548950697864,12.427628921502626,12.26026709508987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665726:1897102401:0494/pct:68.95561240518828,35.990896006961876,12.427628921502626,12.270308263881915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1543,7 +1543,7 @@ to derive some useful lessons from past
 errors and for the purposo of profiting by  
 dear bought, experience.?Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn95079490:00175031820:1897121001:0671/pct:17.755412077478162,94.64528404457734,16.179263197873148,2.3511823865180754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn95079490:00175031820:1897121001:0671/pct:17.755412077478162,94.65434447766603,16.204582858589696,2.3557126030624262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1581,7 +1581,7 @@ is to derive some useful lessons from
 past errors and for the purpose of profit­  
 ing by dear bought experience. Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1897122301:0456/pct:52.190201729106626,44.78324761204996,14.09221902017291,3.2329169728141074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1897122301:0456/pct:39.166786795444715,33.590497183443546,10.580942770650138,2.4246877296105804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1610,7 +1610,7 @@ to derive some useful lessons from past
 errors and for the purpose of profiting by  
 dear bought experience. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897123001:1173/pct:37.30026631158455,134.19689119170985,22.519973368841544,2.936096718480138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023498:1897123001:1173/pct:24.870983852172465,89.46459412780656,15.015814882636924,1.964594127806563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1669,7 +1669,7 @@ m m
 Men and medicines are judged by  
 what they 4o. The great cures b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_elk_ver01:data:sn91068084:00296023243:1898021801:0439/pct:48.191987513007284,119.16429442862952,14.724245577523414,6.354209028060187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_elk_ver01:data:sn91068084:00296023243:1898021801:0439/pct:36.16135328562134,89.37576250508337,11.047495120364346,4.768198454656364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

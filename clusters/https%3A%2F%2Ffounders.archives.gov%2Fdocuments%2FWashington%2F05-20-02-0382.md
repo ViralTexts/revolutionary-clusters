@@ -53,7 +53,7 @@ aud a strict neutrality.” The alluring and
 seductive appeals made often to a people,  
 situated as we are, to help the weak and op
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022601:0049/pct:3.2103357149848293,61.8188302425107,12.518351766663404,5.492154065620542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022601:0049/pct:3.2100215306322175,61.8144212253049,12.520388856266718,5.494139742766802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ above.I am, dear sir, your obedient
 and very humble servant,  
 Go.WASHINGTO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475385:1856061001:0661/pct:243.9044481054366,16.938519447929735,41.57742998352553,134.89648682559599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475385:1856061001:0661/pct:81.30148270181219,5.646173149309912,13.859143327841846,44.965495608531995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ ject of its pacific conduct being truly delineated
 above.”  
 In another portion of the letter he gives as 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210077:1884122201:0920/pct:26.813231970412986,49.76026370991909,18.471337579617835,18.654480071920887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210077:1884122201:0920/pct:20.790870488322717,38.56783433326882,14.315286624203821,14.461002515966712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ ward Great Britain—“the conduct of their In­
 dian agents, privateersmen impressment of our  
 seamen, insults of tho ships of war, etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210077:1884122201:0920/pct:26.874871584138074,68.96913395265209,18.43024450380111,1.693137548696434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210077:1884122201:0920/pct:20.83864118895966,53.4507451132185,14.272823779193207,1.3199148442035997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ being truly delineated r.bovc.&quot;
   
 In another portion of the letter be give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:00295873693:1884122301:0439/pct:47.82608695652174,63.46284012454311,15.928853754940711,21.767970759442264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:00295873693:1884122301:0439/pct:35.890844374134865,47.59713009340734,11.963614791378287,16.325978069581698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ feted towards Great Britain is that of The
 nen impressment of our seamen insults of  
 their ships of war etc et
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn87060189:00206534254:1884122301:1190/pct:83.60730593607306,22.188449848024316,17.73972602739726,24.620060790273556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn87060189:00206534254:1884122301:1190/pct:75.29943967511439,19.96990835726987,15.976970133141418,22.172069484338667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ lineated above. I am, dear sir, your obe
 dient and humble servant.  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779982:1885010201:0009/pct:230.7441607821836,102.34962406015038,34.27485062466051,192.95112781954887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779982:1885010201:0009/pct:57.6860401955459,25.587406015037594,8.568712656165127,48.23778195488722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -834,7 +834,7 @@ I o.m. dear sir, your obedient and
 very humble servant,  
 George Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769489:1885010801:0151/pct:21.028663273506563,5.042897998093422,29.10527725689794,90.63870352716873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769489:1885010801:0151/pct:21.028663273506563,5.042897998093422,29.109741941244753,90.64823641563393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1003,7 +1003,7 @@ I am. dear sir, your obedient and
 very humble servant, ,  
 Gkorgk Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768837:1885010801:0880/pct:18.96375179193119,6.169557918298825,29.551505222199467,90.41689983212088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271768837:1885010801:0880/pct:18.96375179193119,6.169557918298825,29.578810840330398,90.43555306845738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1080,7 +1080,7 @@ one has a right to form and adopt
 whatever government they like   
 best to live under themselves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_echo_ver01:data:sn82016354:100493974:1899071501:0292/pct:105.8569667077682,240.8781226343679,43.34155363748459,16.95685087055261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_echo_ver01:data:sn82016354:100493974:1899071501:0292/pct:26.46424167694205,60.21953065859198,10.835388409371147,4.239212717638153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -67,7 +67,7 @@ themselves with urging in substance; that ports not
 actually blockaded t.y a present, adequate, station­  
 , , ary force, employed by the power which att.ck
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811111801:0836/pct:4.518518518518518,58.91608391608391,22.074074074074073,3.560076287349015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811111801:0836/pct:4.517403110343126,58.906721754330206,22.074796346581092,3.563483235340855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ stationary force, employed by the power which
 attacks them, shall not be considered as shut  
 to neutral trade in articles not contraband o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811111901:0422/pct:31.592039800995025,62.38776517020227,21.99004975124378,6.798223976319684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811111901:0422/pct:31.586801525451833,62.381610102604576,21.991930580887637,6.800841883714812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ rule. They appear to hare contented themsehct
 woth urging in substance, that ports not actually  
 blockaded by a present, adequate, stationary forc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811112201:0226/pct:23.710228294085926,71.75750153092469,16.98723710228294,7.323943661971831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811112201:0226/pct:23.705966930265994,71.74871418074945,16.990174934100168,7.32712874520369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ ployed by a power which attacks them shall not
 be considered as shut to neutral trade in arti­  
 cles not contraband of war; that, though it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811120201:0394/pct:5.032618825722274,64.76742720282365,17.5955265610438,5.445606958275558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811120201:0394/pct:5.031680954155796,64.75926392740107,17.598459435954776,5.449121922527518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ rule. T&#x27;hey appear to have contented them­
 selves with urging 1o substance, that ports  
 not actually hleckaded by a prescnt, adequate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811120401:0524/pct:73.65806761736901,88.78068170525688,21.310687389841373,7.1549239789327235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811120401:0524/pct:73.65806761736901,88.78068170525688,21.321369438658333,7.164861373347908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ pear to have contented themselves with urg­
 ing in substance, that ports not actually block­  
 aded by a present, adequate, stationary force
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812010901:0032/pct:52.91111799318674,77.21405521692363,23.118612573552184,5.89817138759412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812010901:0032/pct:52.90292614955875,77.20713453437304,23.120194044485732,5.900630396462609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ laud as well as by sea. The United States
 have called for the recognition of no such  
 rule.&quot; ** What I have to request of you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815041201:0103/pct:58.83640342877987,21.667505030181086,17.27156666058727,5.16851106639839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815041201:0103/pct:58.8256746900073,21.664780585942413,17.274495502066618,5.172052474957039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ to. Ho says the United States :*.ipp-.ar
 ; substance, that ports not actually blockaded  
 i by a present, ndeouate. stationary force, em­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861091301:0119/pct:49.12142669813795,16.345598150645348,12.168895882507211,1.8108264303602388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861091301:0119/pct:49.13016872104205,16.352019520965776,12.160153859603112,1.8108264303602388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

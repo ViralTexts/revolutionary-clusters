@@ -178,7 +178,7 @@ Reputation is an idle and most false
 imposition; oft got without merit, and  
 lost without deserving. Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1881122901:0106/pct:100.25311526479751,85.41609447953859,18.185358255451714,1.8401538039000274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1881122901:0106/pct:75.22399688352162,64.06207085965394,13.654070899883132,1.386981598461961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ lost without deserving. Shakespeare
 false imposition; oft got without merit  
 and lost without deserving.—Shake
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769295:1882061001:0494/pct:6.334073396891733,15.660021818903104,11.76701057855557,1.8248537141723693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769295:1882061001:0494/pct:6.334073396891733,15.66663360772257,11.76701057855557,1.8248537141723693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

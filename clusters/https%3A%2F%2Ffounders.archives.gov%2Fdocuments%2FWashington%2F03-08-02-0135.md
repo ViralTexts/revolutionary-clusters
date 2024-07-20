@@ -83,7 +83,7 @@ middle deep, and gave the enemy {5 severe acharge,
 that although fupperted by three field pieces, they  
 “gave way, and left their convoy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1777021801:0148/pct:66.68422901299614,43.602657522503215,28.87249736564805,16.009429918559793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1777021801:0148/pct:66.68422901299614,43.606229461351624,28.895913827420678,16.013001857408202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

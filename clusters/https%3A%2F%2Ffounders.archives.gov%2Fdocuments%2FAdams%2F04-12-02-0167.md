@@ -234,7 +234,7 @@ Let us only suffer any person to tell ne his story,
 morning and evening, but for one twelve month,  
 and he will become our master.” Burke.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1852022801:0798/pct:70.0591868244982,31.48831488314883,12.326299536798764,9.440344403444035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1852022801:0798/pct:70.0677646251501,31.491731583982506,12.32201063647281,9.44376110427771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ Let us enty suffer any person to tell us his story, morn.­
 ing and evaning, but for a twelvemonth, and he will be­  
 come our master.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743415:1862072101:0731/pct:238.71337371091832,246.1941340782123,45.539368145359305,10.742551210428305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743415:1862072101:0731/pct:79.57112457030611,82.0647113594041,15.179789381786435,3.5808504034761017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ itinued repetition is decizive. Let us only suffer any oe­
 son to tell us his story, morning and evening, but for a twelve  
 th, and he will become our master.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530716:1862072301:0634/pct:200.52456723203358,83.03075213041868,48.50498338870432,12.387303939730764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530716:1862072301:0634/pct:66.84152241067785,27.676917376806223,16.168327796234774,4.129101313243588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ any person to tell ns his story, morning and
 evening, bat for a twelvemonth, and he will  
 become our master.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862080101:0003/pct:24.62767889575009,73.86492622020431,9.843806756265892,6.01589103291714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862080101:0003/pct:24.62767889575009,73.86847332576617,9.843806756265892,6.019438138479001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ us his story, morning and evening, but for
 a twelvemonth, and he will become our mas­  
 ter.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191228:1862101801:0464/pct:124.48391742678828,165.60761084185964,47.81565050408065,21.07341590378747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84038189:00202191228:1862101801:0464/pct:31.12471492017765,41.40190271046491,11.955347497299243,5.268353975946868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ evening, but for a twelvemonth, and he
 will become our master.&quot;  
 The recent issue of the preliminar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862110201:0687/pct:302.94117647058823,280.30662020905925,56.96594427244582,29.54703832752613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862110201:0687/pct:75.76461478900504,70.07665505226481,14.246999612853271,7.386759581881533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ for a twelve-month, and he will become
 our master.”  
 The recent issue of the preliminar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:0027176912A:1863061801:0125/pct:62.91734197730956,21.01826231322634,14.619124797406807,12.982844493635861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:0027176912A:1863061801:0125/pct:62.91734197730956,21.021951669433683,14.624527282549973,12.986533849843202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ us only suffor any person to tell us his story,
 morning and evening, but for a twelvemonth,  
 and he will become our master.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1864032701:0133/pct:77.12924359737939,101.14216281895504,43.12090530077427,40.58323207776428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1864032701:0133/pct:19.288054810843015,25.28554070473876,10.783437593089067,10.14580801944107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ our master.
 It is ordained in the eternal consti­  
 tution &quot;of things that men of intem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_gmc_ver02:data:sn86064199:00200296692:1899040801:0087/pct:106.57894736842105,58.05733370442527,18.669985775248932,5.441135541330365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_gmc_ver02:data:sn86064199:00200296692:1899040801:0087/pct:79.95731815756713,43.54300027831896,14.013871598790681,4.091288616754801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

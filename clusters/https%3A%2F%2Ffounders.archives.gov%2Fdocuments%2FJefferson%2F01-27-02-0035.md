@@ -718,7 +718,7 @@ will be given accordingly ‘o the Colletor of the
 Customs where the refpettive veflels are.  
 1 have the honour to be, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0471/pct:27.58360952094004,5.585639791415964,40.82554986441699,88.10669875651826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0471/pct:27.588631113789294,5.588982484289343,40.830571457266245,88.10669875651826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1873,7 +1873,7 @@ I have the honor to be, c
   
 means in our power for the restitution,&quot; ac. Here is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743440:1863041101:0123/pct:150.6294188653216,142.36195572853322,46.559751681324364,2.7852104110921916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743440:1863041101:0123/pct:50.20980628844053,47.453985242844404,15.519917227108122,0.9284034703640639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -226,7 +226,7 @@ tance of your works and who, wih
 mugh pleafﬂré,»fqbtktibfq_ himfalé  
 . ¥our incere triemd, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812100601:0377/pct:76.88715953307393,40.456962773291316,16.996108949416342,12.054362812684657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812100601:0377/pct:76.88715953307393,40.463528330378836,17.011673151750973,12.051080034140897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ of your works, and who, with much
 pleasure, subscribes himself,  
 Your sincere friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855040301:0422/pct:274.1862225586677,209.57324106113035,49.81074943224829,15.397923875432525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855040301:0422/pct:68.57251041272245,52.39331026528259,12.457402499053389,3.8494809688581313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ sense of the impurunce of your
 mnch pleasure, sunsctioes nimeeii, ...  
 Your sincere friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876061501:0631/pct:76.02591792656588,100.51929824561404,16.50467962562995,5.557894736842106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876061501:0631/pct:57.05024311183144,75.39649122807018,12.389699261660363,4.168421052631579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ cheerfully by one who entertains u lively senso
 of tbo Importance of tour works, and who, with much  
 pleasure, subscribes himself, your sincere friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108873:1878032001:0180/pct:61.14889047959914,47.14967705700646,16.267000715819613,6.430777871384443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108873:1878032001:0180/pct:45.88256355173648,35.36927829261443,12.209094163981382,4.816062903678742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ lively sense of the importance of your work-,
 and who. with much pleasure, subscribes him­  
 self. y.-ur sin-a rc friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524718:1886122301:0658/pct:75.84140156754265,68.79082953284852,9.820193637621024,4.831751509922347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524718:1886122301:0658/pct:75.82974800245852,68.7823514912497,9.822526121696374,4.834237121025388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

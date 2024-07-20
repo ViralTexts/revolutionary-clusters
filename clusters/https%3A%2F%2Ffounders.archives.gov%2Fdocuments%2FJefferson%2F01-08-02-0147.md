@@ -201,7 +201,7 @@ do it, and the vefiel lhall not in that cafe j
 be cmitd into any port, nor further de­  
 tiiued, but lhall be allarwed to proceed o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800120201:0002/pct:42.392090667952736,13.814432989690722,16.759102965999517,20.63441712926249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800120201:0002/pct:42.410176030865685,13.826328310864394,16.747046057390886,20.642347343378272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ out molestation and without being obliged to
 render jrccount of their cargo, or to pay any  
 dttfies,imposts,or charges whatsoever on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819010701:0296/pct:19.94432618306861,53.25252040326452,14.688062878663828,4.056649063850216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819010701:0296/pct:19.941060903732808,53.246129845193806,14.691115476970094,4.06016240649626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ to pay ; and they shall enjoy all the rights; |
 privileges, and exemptions in ‘navigation and  
 comnmerce, which the most favored natio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826101001:0161/pct:5.042935206869633,53.00263745181579,16.736924277907885,5.924122540068979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1826101001:0161/pct:5.042935206869633,53.00601880029756,16.742128545407233,5.924122540068979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ lie not disqualified by alienage, such citizen or njbject
 shall lie allowed a reasonable time to sell thr same  
 and to withdraw the proceeds without molettation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830090301:0228/pct:37.99598579589316,53.26198337697825,13.895321908290875,12.04599795058636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830090301:0228/pct:37.99012040753319,53.25591985428051,13.898322527529073,12.048421372191864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ ject to pay in like eases. And in ecase of the
 abscnce of the representatives such ecare  
 shall be taken of the said goods
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840092301:0026/pct:34.87573802004668,62.375171333463875,14.142523685294522,8.380654004307813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840092301:0026/pct:34.87573802004668,62.3816983225638,14.147100553801089,8.38718099340774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ be decided by the laws aud judges of the land
 wherein the said geods aro. And whereon the |  
 death of auy persen helding real estate withio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840101401:1361/pct:22.79120086548864,23.868852459016395,14.893617021276595,11.934426229508198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840101401:1361/pct:22.803221541050608,23.873224043715847,14.881596345714629,11.93879781420765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ laws and judges of the country wherein it is situ-1 &#x27; Ktnchen Taylor vs. Ro
 ate. (Attachment Andrew Joiner summoned as garnishee.  
 Where, on the decease of any person, holding ! J! appearing to the satUlaciion of the Court that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841051201:0080/pct:48.44808126410835,64.49663664348421,41.534988713318285,17.181621251852697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841051201:0080/pct:36.34824326231127,48.37532778474518,31.15563708198109,12.883365636757496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ ire subjected in the same place.
 The consuls, vice consols and commer:ial  
 agents shall have the right, as such, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863092:1841052601:0133/pct:22.034227926876703,75.01878287002253,22.520420070011667,10.293012772351615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863092:1841052601:0133/pct:22.034227926876703,75.02713081225478,22.5333851938286,10.297186743467735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ them, at their will, and dispose of the
 same, paying such duties only as the inhabitants  
 of the country wherein the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863092:1841052601:0133/pct:40.276157137300665,35.73754069621838,23.706728899260987,11.432506887052341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863092:1841052601:0133/pct:40.276157137300665,35.7417146673345,23.713211461169454,11.440854829284582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -899,7 +899,7 @@ pose of their personal property within the
 States of the other, by testament, donation  
 or otherwise, and their heirs, being citizen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1846102801:0025/pct:29.599287622439892,49.38974776240846,13.374888691006234,11.14727420667209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1846102801:0025/pct:29.594017094017094,49.383050847457625,13.37695868945869,11.149152542372882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ or greater than those which are paid, or may here­
 after be paid, by the subjects or citizens of the most  
 favored nations, in the respective States of the hig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847021001:0025/pct:23.83088635127787,37.374161073825505,20.391517128874387,10.717281879194632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847021001:0025/pct:17.883856929144567,28.03062080536913,15.299877600979192,8.043204697986576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -999,7 +999,7 @@ favored nations; but if any of the said consuls shall
 carry on trade, they shall be subjected to the same laws  
 and usages to which private individuals of their natio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742952:1847042701:0493/pct:15.692848020434228,149.86918439312933,55.23627075351213,22.284154248663405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742952:1847042701:0493/pct:5.230949340144742,49.95639479770978,18.41209025117071,7.428051416221135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1024,7 +1024,7 @@ sald consuls shall carry on trade, they shall be subs
 to the same laws and usages to which private  
 individuals of their nation are subjected in the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848080801:0172/pct:54.59183673469388,135.81936366746493,51.563528637261356,13.251225909453758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848080801:0172/pct:18.197278911564627,45.273121222488314,17.187842879087118,4.417075303151252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1061,7 +1061,7 @@ either by themselves or by others acting for them, at
 their will, and dispose of the same, paying such duty  
 only as the inhabitants of the country wherein th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848080801:0172/pct:54.54246214614878,215.3495267419318,53.966425279789334,28.304253620709318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848080801:0172/pct:18.18082071538293,71.78317558064394,17.988808426596446,9.434751206903105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1120,7 +1120,7 @@ subjects of the respective partive parties, in chang­
 ing their residence, shall be desirous of removing  
 from the place of their domicil, shall likewise b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1848092101:0429/pct:128.10060711188206,61.97796218201605,122.5498699045967,318.54169500748196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1848092101:0429/pct:32.04599696246474,15.494490545504013,30.657409416359297,79.63542375187049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1159,7 +1159,7 @@ lowed a reasonable time to sell Ihe same, nnj l&lt;
 withdraw th&lt;- proceeds without molestation, and ex  
 , einpt from all duties of detraction on the part of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848102401:0383/pct:28.378845489111647,54.77976271648711,13.238852402350501,11.468703122869222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1848102401:0383/pct:28.373941593226196,54.772293427870196,13.240884741662347,11.470548131988002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1262,7 @@ agents having notice from the competent judicial authori­
 ties of the day and hour in which they will proceed to the  
 imposing or removing of seals aud to the making out of a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856121301:1288/pct:4.580770475882162,10.310574625927323,15.522822920038848,6.123475418081227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856121301:1288/pct:4.5915614546239345,10.310574625927323,15.528218409409734,6.136049289576261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1329,7 +1329,7 @@ said consular agent may assist thereat. The respective
 consuls may demand the delivery of the hereditary effects  
 of their countrymen, which shall be immediately deli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857050201:0414/pct:125.53865652724969,308.8354812492744,50.0,28.468593985835366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857050201:0414/pct:31.38466413181242,77.2088703123186,12.5,7.117148496458841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1355,7 +1355,7 @@ ken, in like cases, of the effects of the natives of the
 country itself; the re-pective consular agents having no  
 tice from the competent judicial authorities of the da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290008:1857050701:0426/pct:113.0764740221833,286.92369294131106,43.54932866316404,15.00972428783892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290008:1857050701:0426/pct:28.281500949043657,71.73092323532777,10.892101036647686,3.75243107195973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1392,7 +1392,7 @@ I of the ciiects of the natives of the country it­
 self; the respective consular agents having no­  
 tice from the competent judicial authorities o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1857061201:0474/pct:31.11471064644382,69.11931460249464,12.752171992342806,12.599218848431397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1857061201:0474/pct:31.119619103715703,69.12771408172694,12.757080449614685,12.599218848431397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1426,7 +1426,7 @@ or subject of the other, were he not disqualified by alienage, such
 citizen or subject shall be allowed a reasonable time to bell tne  
 same, and to withdraw the proceeds without molestation, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471380:1858032701:0386/pct:30.433159073935773,56.986301369863014,30.339805825242717,8.975864318330071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471380:1858032701:0386/pct:22.847001681300206,42.73972602739726,22.77227722772277,6.731898238747553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1475,7 +1475,7 @@ aas required by law, so that the said consular
 agent may assist thereat The respective  
 consul may demand the delivery of the here
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1858050101:0383/pct:33.5972850678733,27.579265223955712,132.01357466063348,355.1753061566851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071075:0029602515A:1858050101:0383/pct:8.401697312588402,6.894816305988928,33.012729844413016,88.79382653917128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1522,7 +1522,7 @@ or merchandise of any foreign country can be,
 from time to time, lawfully imported into the  
 United States in their own vessels, may also b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861101201:0963/pct:15.706319702602231,299.94967287367894,55.94795539033457,56.23217580942795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861101201:0963/pct:3.9293187630783537,74.98741821841973,13.996744943036504,14.058043952356988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1568,7 +1568,7 @@ time to time, lawfully impelled into the United
 States in their own vessels, may also be impoited in  
 the vessels of Venezuela, and no h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861102901:0653/pct:3.6627087945260617,68.75750300120048,15.858321593882069,14.84093637454982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861102901:0653/pct:2.848973225890304,53.295084509226236,12.279698466337406,11.501783222204994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1609,7 +1609,7 @@ or merchandise of any foreign country can be. from
 time to time, lawfully imported into the United  
 States in their ow n vessels, may also be imported i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103001:0660/pct:5.800883179446005,84.87206344456082,15.937374548374146,12.015561873410146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861103001:0660/pct:4.506092818252528,65.77889447236181,12.351568576613948,9.311944337069965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1638,7 +1638,7 @@ or merchandise of any foreign country can be, from
 time to time, lawfully imported into the United  
 States in their own vessels, may also be imported i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110101:0668/pct:6.669361358124495,89.53418931024186,15.945836701697656,6.748283069573007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110101:0668/pct:5.17907486686854,69.38830607837087,12.357732066409104,5.229867324899723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1681,7 +1681,7 @@ or merchandise ot any foreign country can be. from
 time to time, lawfully imported into the United  
 States in thoii own vessels, may also be imported i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110201:0672/pct:6.1034761519805985,83.56695496570235,15.804365400161682,12.869072472412764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861110201:0672/pct:4.735303330896941,64.7713702376825,12.258536076015453,9.97341962325205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1746,7 +1746,7 @@ alienage, the longest term which the laws of the
 country in which it is situated will permit, shall  
 be accorded to him to dispose of the same; no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862103101:0358/pct:73.83177570093459,290.1899961225281,48.13084112149533,27.762698720434276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862103101:0358/pct:18.457943925233646,72.54749903063203,12.032710280373832,6.940674680108569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1786,7 +1786,7 @@ merchandise of any foreign country can be, from
 time to time, lawfully Imported into the United  
 States in their own ves.&lt;els, may also be imported i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862110301:0423/pct:3.384056325232796,55.68306010928962,13.649784238019532,10.127504553734061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862110301:0423/pct:3.3897342720872135,55.69216757741348,13.661140131728366,10.145719489981785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1828,7 +1828,7 @@ chandise of any foreign country can be, from time
 to time, lawlully imported into the United States  
 in their own vessels, may also be imported in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862112901:0294/pct:150.35377358490567,204.51870134801595,58.136792452830186,60.375925574330736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1862112901:0294/pct:37.610619469026545,51.12967533700399,14.542772861356932,15.093981393582684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1856,7 +1856,7 @@ tate within ttie territory of one party, such real estate
 would by the law of the land descend on a citizen of the  
 other were he not disqualified by alienage, the longes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863021901:0459/pct:26.41535874439462,71.87220065691251,16.451793721973093,1.841345675325968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863021901:0459/pct:19.817799579537493,53.90663879765104,12.347582340574633,1.3834975614611327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1898,7 +1898,7 @@ chandise of auy foreign country can be, from
 time to time, lawfully imported into the United  
 States in their own vessels, ma&#x27; also be importe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866112901:0434/pct:56.74432863274065,59.71178716590713,16.646229307173513,15.051114669294249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866112901:0434/pct:42.57896350812634,44.78384037443035,12.496166819993867,11.294494395861559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1942,7 +1942,7 @@ time to time, lawfully imported into the United
 States in their own vessels, may also be imported  
 in the vessels of the Dominican Republic, and n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288579:1867111301:0473/pct:169.22310756972112,300.094679038061,50.49800796812749,52.717288392349936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288579:1867111301:0473/pct:42.316313823163135,75.02366975951524,12.627646326276464,13.179322098087484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1990,7 +1990,7 @@ be, from time to time, lawfully imported into
 the United States in their own vessels, may  
 also be imported in the vessels of the Do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869061401:0586/pct:9.772296015180265,315.5571128241065,45.16129032258065,52.90819901892081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869061401:0586/pct:2.4436536180308424,78.88927820602663,11.29300118623962,13.227049754730203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2039,7 +2039,7 @@ ARTICLE VI.
 The high contracting parties here­  
 by agree; that whatever kind of pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022160:1869062401:0129/pct:115.16002245929253,237.89689313758961,43.00954519932622,63.593945601456696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022160:1869062401:0129/pct:28.794047451916327,59.474223284397404,10.753895830408537,15.898486400364174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2082,7 +2082,7 @@ nor shall such prizes be arrested, searched or put
 under legal process when they come to and enter  
 the ports of the other party, but may freely be car
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743713:1870082301:0562/pct:7.823920265780731,206.13468634686348,47.05980066445183,12.384686346863468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743713:1870082301:0562/pct:2.60797342192691,68.71156211562116,15.686600221483943,4.128228782287823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2106,7 +2106,7 @@ shall such prizes be arrested, searched or
 put under legal process when they come  
 to and enter ports of the other party, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074142:00280761473:1870082401:0483/pct:182.26181254841208,170.20383693045562,51.04570100697134,20.443645083932854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074142:00280761473:1870082401:0483/pct:45.583107322743125,42.550959232613906,12.766369624176676,5.110911270983213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2192,7 +2192,7 @@ ments of his country. We presume he does
 cot pretend that Prussia has relieved itself  
 from the obligation by the absorption of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776300:1870102401:0369/pct:29.132653061224488,69.31758530183727,19.591836734693878,25.47244094488189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776300:1870102401:0369/pct:21.861177271180672,51.99475065616798,14.698877169105138,19.10761154855643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2234,7 +2234,7 @@ shall be deemed contraband, so as to induce
 confiscation or condemnation and a loss of  
 property to individuals.” England has no suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171888:1871021001:0138/pct:5.697295223479762,22.56287086747669,14.483023211202763,10.073467081096355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171888:1871021001:0138/pct:4.425392735021557,17.486039636483085,11.214629069825065,7.806854264754188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2277,7 +2277,7 @@ American Plenipotentiary, J. Q. Adams, was
 Instructed by our Government to abandon that  
 article In the new treaty to be negotiated. An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877052501:0002/pct:3.8887458150914243,3.9725751159507965,12.747875354107649,7.9249848759830614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877052501:0002/pct:3.895184135977337,3.9776164549304296,12.741437033221736,7.930026214962694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

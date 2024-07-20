@@ -169,7 +169,7 @@ with very sincere esteem and affection,
 Your most obedient and obliged  
 G. WASHINOTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842092701:0369/pct:56.05410755526229,149.2216117216117,46.99769053117783,37.648809523809526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842092701:0369/pct:18.684702518420764,49.74053724053724,15.665896843725942,12.549603174603174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ in cultivating the affections of good men
 and in the practice of the domestic vir­  
 tues.&quot;But rest, recreation, the privilege o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897060401:0392/pct:31.45385149201943,95.69082602790468,20.610687022900763,5.852574391900235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897060401:0392/pct:20.978656949505467,63.79799975305593,13.742842269651224,3.9017162612668232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ by years of service in civil life only less
 trying than the years of war. The present  
 work deals with Wasnington’s life fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740529:1898080801:0362/pct:55.85279739272135,47.761798663155766,12.547528517110266,3.494024711363176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740529:1898080801:0362/pct:55.85732391816042,47.76855040172845,12.556581567988411,3.4906488420768347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

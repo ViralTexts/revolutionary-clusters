@@ -273,7 +273,7 @@ to feel, nnd which I can never cease to feel
 ior wieir nueriy tneir properny, and hap.  
 piness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290173:1836081201:0103/pct:104.27659574468085,88.56155117991884,19.04255319148936,24.229670825191644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290173:1836081201:0103/pct:78.22941051287508,66.42116338493912,14.300915088316662,18.17225311889373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ I and which 1 never cease to feel, for their
 ,! Such is Mr. Madison&#x27;s draft, which was  
 i evident I v consulted in nrenarinir the fina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836081601:0133/pct:34.30338816251933,60.62317429406037,19.021509911429778,22.658227848101266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836081601:0133/pct:34.30338816251933,60.62317429406037,19.030882421856695,22.664719246997727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ Now, follow-citizens. is theie nothing
 in the State of our country to give deep­  
 er import to these solemn words ? Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851030401:0016/pct:5.382878972043757,4.2359249329758715,12.259072755686752,5.536193029490617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851030401:0016/pct:5.381944444444445,4.235357190725104,12.261284722222221,5.538801769199839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ for “ ti e gray hairs of a man ” who had
 passed the prime of his life in the service of  
 the country, that he may “ be suffered t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860100501:0516/pct:48.03982576228998,55.269347071340576,12.678904791537025,5.118154328592228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860100501:0516/pct:48.04501140842149,55.27308022548251,12.689276083800042,5.114421174450293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ a inatter of cheapening and haggling. It
 was the pecuniary feature to which he  
 alone looked. He was actuated, accordin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293459:1872031201:0247/pct:9.0311004784689,104.12234042553192,16.208133971291865,21.12145390070922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293459:1872031201:0247/pct:6.776364996260284,78.09175531914893,12.176514584891548,15.84663120567376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ the bounty of several Legislatures at the close of
 the war with dreat Britain from adding consider­  
 ably to my peculiar expenses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872061201:0202/pct:12.266450040617384,150.6515580736544,46.709991876523155,20.453257790368273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872061201:0202/pct:3.068482015850437,37.6628895184136,11.684616947774842,5.113314447592068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ Washington was pressed on all sides not to compel
 the country at that critical stage of its political ex-  
 istence to make a choice of President from amon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:5.930437570123417,39.128923896675545,47.98845968905273,32.1556816865516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:1.9768125233744724,13.042974632225182,15.996153229684245,10.718560562183868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ hood, had sought to wound his reputation and
 feelings, and to weaken if not entirely destrey  
 the confidence&quot; of his countrymen. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175038012:1884061601:0692/pct:106.0754083346054,91.98330770920272,45.00076324225309,9.103887546672524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175038012:1884061601:0692/pct:35.35846944486847,30.66110256973424,15.000254414084363,3.0346291822241747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ to respect &quot;the gray hairs of a man who has
 passed the prime of his life in the service of  
 the country,&quot; that he might be suffered t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82014424:00211102858:1884061601:0583/pct:117.87802840434419,186.6088034717917,49.289891395154555,12.833230006199628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82014424:00211102858:1884061601:0583/pct:29.469507101086048,46.652200867947926,12.322472848788639,3.208307501549907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ of the globe, as to bid deflance in a fust
 cause to any earthly power whatsoever.&quot;  
 This condition he predicted would be our
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199355:1895100801:0144/pct:11.167883211678832,213.62489486963835,38.35036496350365,13.803616484440706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199355:1895100801:0144/pct:3.7226277372262775,71.20829828987945,12.78345498783455,4.601205494813569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

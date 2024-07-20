@@ -163,7 +163,7 @@ aith the Lord ; &quot; I have been young;, and
 now am old, yet never saw I the righteous  
 forsaken, nor hi tccd begging bread j&quot; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1861041001:0353/pct:8.00921187308086,97.76679654091039,16.069600818833162,1.919604675472774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1861041001:0353/pct:6.015615000639959,73.3250974056828,12.056828362984769,1.4444550033260477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ first mission of begging, to seek from
 some charitable stranger a few shillings  
 to buy bread, hoping she should soon b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861051601:0481/pct:37.31370745170193,13.730203619909503,22.48390064397424,82.16911764705883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861051601:0481/pct:37.31984053971175,13.739630467571644,22.48390064397424,82.16911764705883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ the Lord;” “ I have been young, and now am old,
 yet never saw I the righteous forsaken, nor his  
 seed begging bread;” and her heart rose in hum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1861062901:0002/pct:55.28255528255528,81.52119700748129,11.96911196911197,1.059850374064838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1861062901:0002/pct:55.28255528255528,81.52743142144638,11.982274482274482,1.0629675810473815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ As ber children bad eaten nothing all da
 never saw I the righteous forsaken nor his  
 eed begging bread; and her heart rose i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862011001:0653/pct:77.85285285285285,206.8664533022985,49.32432432432432,5.935408786732616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862011001:0653/pct:19.463213213213212,51.71661332557463,12.33108108108108,1.483852196683154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ ed the grace of God.&quot;
 Then they parted for the night,  
 and little Lucy knelt beside her tin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775113:1868121001:0493/pct:197.06098457016898,81.1341942728804,42.6157237325496,31.162268388545762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775113:1868121001:0493/pct:49.265246142542246,20.2835485682201,10.6539309331374,7.7905670971364405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ old, yet never saw I the righteous for­
 saken, nor his seed begging their bread.&#x27;  
 That s the text came into my min
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775812:1868121101:0098/pct:100.71899340922708,57.076350093109866,12.507489514679449,3.037709497206704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775812:1868121101:0098/pct:75.57320545481792,42.8072625698324,9.39607372995654,2.281191806331471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ saken, nor his seed begging their bread.&#x27;
 That&#x27;s the text that came into ray mind  
 when Mr. Blenkinsopp i told me I coul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1869082401:0417/pct:93.46342794759825,46.79026651216686,16.280021834061134,4.125144843568946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1869082401:0417/pct:70.1296928327645,35.09849362688297,12.218430034129693,3.0938586326767092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ the good priest, when he said, &quot;Never
 saw I the righteous forsaken, or his seed  
 begging their bread.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768121:1878122901:0425/pct:43.61702127659574,14.186213254122709,11.771207515888367,1.4134999487862336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768121:1878122901:0425/pct:43.62623192410427,14.193041756290757,11.766602192134107,1.4169141998702584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ the good priest, when he said, &quot;Never
 saw I the righteous forsaken, or his seed  
 begging their bread.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479317:1879010201:0396/pct:50.64084703259961,23.386034255599473,10.657564781276122,1.3175230566534915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479317:1879010201:0396/pct:50.64084703259961,23.389694041867955,10.66685241942974,1.3211828429219734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

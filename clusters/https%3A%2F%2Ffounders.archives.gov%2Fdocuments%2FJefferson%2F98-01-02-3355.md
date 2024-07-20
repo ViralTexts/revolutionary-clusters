@@ -45,7 +45,7 @@ meaning by a motto which we have seen as­
 cribed to Richard Henry Lee, but the author­  
 ship of which, it appears, belongs to a perio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347257:1855081101:0227/pct:21.913183279742764,79.92777260018639,14.421221864951768,10.088536812674743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347257:1855081101:0227/pct:21.923901393354768,79.93165579372476,14.410503751339764,10.092420006213109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -66,7 +66,7 @@ its syntax, “Rebellion against tyrants is obe­
 dience to God,’ it has lost all the strength and  
 beauty of the antithesis.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347257:1855081101:0227/pct:21.977491961414792,89.98136067101585,14.356913183279742,3.6696178937558246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347257:1855081101:0227/pct:21.977491961414792,89.9852438645542,14.356913183279742,3.6696178937558246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ to Gcd.” Correct its syntax, ‘ Rebellion against tyrants is •
 obedience to God,” V. has losl al! the and bsauty of j  
 the aatltheste. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855093001:0006/pct:54.05357772294678,89.36569498311022,12.548466690165668,6.493181533842112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855093001:0006/pct:54.05798378568911,89.3688227198799,12.552872752908002,6.490053797072439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ A TruE W fe.
 She is no true wife who sustains not  
 her husband in the day of calamity, wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1855103101:0386/pct:56.63756773028296,37.247101614003185,93.97953040337147,248.11320754716982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1855103101:0386/pct:18.879189243427653,12.415700538001062,31.326510134457155,82.70440251572327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ i up the whole of their syntax, they would have been
 merely common.”  
 HOW TO DETERMINE THS C.PaCUY o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110065:1855122301:0006/pct:69.46685373553139,34.20888055034396,12.521922132585058,6.75422138836773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110065:1855122301:0006/pct:69.47562258856541,34.215134459036896,12.530690985619081,6.7510944340212635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ them. Had he scrupulously filled the whole
 of their syntax they would have been merely  
 common.&quot; He illustrates his meaning by 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053570:00237288968:1866011001:0040/pct:214.48007774538388,319.55145595948636,49.65986394557823,30.74697051908121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053570:00237288968:1866011001:0040/pct:53.64608653378707,79.88786398987159,12.421001458434613,7.686742629770302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ is obedience to God.&quot; Correct its syntax,
 &quot;Rebelllion against tyrants is obedience to  
 God,&quot; it has lost all the beauty of the antith
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053570:00237288968:1866011001:0040/pct:214.96598639455783,353.84337131488513,49.36831875607386,12.877554711521071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053570:00237288968:1866011001:0040/pct:53.76762275157997,88.46084282872128,12.348079727758872,3.219388677880268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

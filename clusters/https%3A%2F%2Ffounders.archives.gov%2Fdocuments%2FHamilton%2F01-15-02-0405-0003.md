@@ -482,7 +482,7 @@ After a fliort debate, and the reading of a
 number of papers relative to the business, ihe  
 committee rose, reported progress, and aske
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792022501:0003/pct:8.813235762010818,79.33491686460808,27.616926503340757,4.908946951702296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792022501:0003/pct:8.829144129812281,79.34976247030879,27.62488068724149,4.908946951702296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ to indemnify the eft ace of the late MnjoiJ
 General N. Grtene, for a certain bond en­  
 tered into by him during the late war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792043001:0002/pct:8.157568238213399,7.355516637478108,20.936724565756823,2.1210352208600893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792043001:0002/pct:8.173076923076923,7.355516637478108,20.95223325062035,2.135629499902705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ BE it enabled by the Ssnate and Houfc oj
 Representatives of the United Stales oj  
 America in Congress affonbled, That th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792050301:0001/pct:28.048780487804876,73.52085354025218,20.0609756097561,5.62560620756547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792050301:0001/pct:28.048780487804876,73.52570320077595,20.091463414634145,5.635305528612997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ Major General Nathaniel Greene, for a
 certain Bond entered into by him during the  
 late war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792050901:0001/pct:7.338308457711443,29.305555555555557,26.803482587064675,3.234126984126984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792050901:0001/pct:7.3460820895522385,29.31547619047619,26.803482587064675,3.2390873015873014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ mitted, in due course of fettlemen: at the trea­
 sury, and which are of a nature, according to  
 the usage thereof, to require payment in fprcie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792072801:0004/pct:28.46418517360025,44.55715957861881,20.519236784485454,7.705813499804916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792072801:0004/pct:28.487644666875195,44.56203667577058,20.503597122302157,7.720444791260242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ tain officers of the courts, jurors and
 witnefles ; for the support of light-hou..  
 fes ; and for the eftablithment of te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792122601:1140/pct:74.38302073050346,82.88464676129874,21.29812438302073,5.726872246696035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792122601:1140/pct:74.39124712076341,82.89008538641431,21.29812438302073,5.726872246696035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ officers of the courts, jurors and witnesses;
 for the support of light-houses, and for other  
 purposes, th?re be appropriated a sum of mo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032401:0001/pct:69.46614583333333,22.295938882187375,19.108072916666668,14.113389626055488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032401:0001/pct:69.47428385416667,22.295938882187375,19.148763020833332,14.128468033775633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ eight hundred dollars :
   
 For comp n fat ion to the Secretary of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032401:0001/pct:70.08463541666667,60.65540812223563,19.205729166666668,4.945717732207479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032401:0001/pct:70.0927734375,60.67048652995577,19.222005208333332,4.940691596300764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -748,7 +748,7 @@ Major General Nathaniel Greene, for n certain
 bond entered into by him during the late war.  
 An aft providing relief to the owners o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796060401:0003/pct:49.88060493499602,38.010716677829876,21.066595914035553,2.813127930341594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796060401:0003/pct:49.88723799416291,38.010716677829876,21.066595914035553,2.8298727394507703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ tures and penalties ; and likewise for
 defraying the expenses of prosecu­  
 tions for ofiences againlt the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796082001:0133/pct:9.058751153491233,50.46830326333432,15.656721008920332,3.943606428078478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796082001:0133/pct:9.058751153491233,50.47487594071445,15.672100892033221,3.943606428078478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -795,7 +795,7 @@ firy, and which are of a nature, ac­
 cording to the usage thereof, to re­  
 quire payment of specie, three thou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796082001:0133/pct:42.78683482005537,27.664399092970523,15.48754229467856,9.228039041703639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796082001:0133/pct:42.79708807546396,27.667685431660587,15.477289039269968,9.224752703013573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -882,7 +882,7 @@ ry, and which are of n nature, according,
 to the usage thereof, to require payment [  
 in specie, two thousand dollars 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805040601:0133/pct:38.98272552783109,44.67860906217071,18.52207293666027,15.766596417281349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805040601:0133/pct:38.97524467472654,44.67272487817727,18.52491524339538,15.768909960928926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ settlement at the treasury, and which
 are of a nature, according to the usage  
 thereof, to require payment in specie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807030901:0003/pct:2.8162911611785097,41.409332063664806,18.197573656845755,2.55747517344579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807030901:0003/pct:2.830733679953784,41.409332063664806,18.18313113807048,2.5710787647939055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

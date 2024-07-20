@@ -57,7 +57,7 @@ countries. The happiness of life depends more upon
 innocence in this respect, than upon all the philosophy  
 of Epicurus or of Zeno, without it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00205958162:1851020901:0002/pct:23.736062318619215,6.61165997177288,9.989308080036658,9.857778742807513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00205958162:1851020901:0002/pct:23.739880861463266,6.617088264032136,9.996945165724759,9.857778742807513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ the sight of me, or regret our acquaintance.’ Here
 he was grcntly the superior of Franklin. Jeffer­  
 son, Hamilton, nay, of Washington himself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557281:1859051401:0731/pct:9.067164179104477,71.30457313123462,14.533582089552239,2.228267910351082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557281:1859051401:0731/pct:9.076492537313433,71.30457313123462,14.542910447761194,2.2477004793367015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ solatory beyond expression. I am able to make
 with truth and sincerity; and I presume I am in­  
 debted for this blessing to my education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041421017A:1886071101:0093/pct:35.11640798226164,54.426877470355734,14.62028824833703,6.136363636363637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041421017A:1886071101:0093/pct:35.11640798226164,54.433465085639,14.62028824833703,6.133069828722003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ blush at the sight of or regret her ac- belly-band of eternity, and paste &#x27;
 quaintance with me. These reflec- Let on the sun and moon, but never,  
 tions, to me consolatory beyond ex- sirnever for a moment delude your
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537966:1886072101:0232/pct:19.861546068897315,82.21594120972301,29.174221196637546,9.621254946297343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537966:1886072101:0232/pct:19.861546068897315,82.21970981722254,29.190703807483104,9.621254946297343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ truth and sincerity; and I presume?
 am indebted for this blessing to my  
 education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jessie_ver01:data:sn84024777:00295863912:1886072201:0475/pct:260.6857882251456,290.8721475461082,45.50355833513047,35.08909034073148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_jessie_ver01:data:sn84024777:00295863912:1886072201:0475/pct:69.51521076542642,77.56428958446213,12.13410776927943,9.356895761263702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ truth and sincerity and I presume I
 am indebted for this blessing to my  
 education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479238:1886072301:0340/pct:68.23007660260717,78.57357507763197,11.705415938717914,9.43604127015927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mazda_ver01:data:sn89064525:00212479238:1886072301:0340/pct:68.23455628723738,78.57357507763197,11.705415938717914,9.449397308758222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ truth and sincerity and I presume I
 am indebted for this blessing to my  
 education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740839:1886072301:0714/pct:67.68140915182845,77.67857142857143,12.176909821941413,9.665532879818594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740839:1886072301:0714/pct:67.6909821941413,77.67857142857143,12.172123300784989,9.679705215419501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ truth and sincerity; and I presume I
 am indebted for this blessing to my  
 education
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_apple_ver01:data:sn2001063565:00279522746:1886072301:1163/pct:6.540583136327817,3.792537925379254,33.45941686367218,90.32390323903239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_apple_ver01:data:sn2001063565:00279522746:1886072301:1163/pct:6.551090097189388,3.792537925379254,33.45941686367218,90.33073664069974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ truth and sincerity and I presume I
 am indebted for this blessing to my  
 education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1886072901:0867/pct:81.20873539867954,91.38511407555168,14.220416455053327,11.494826081535969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1886072901:0867/pct:69.037797390637,77.68554170051927,12.097083653108212,9.767211840757357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ able to make with truth and sincerity
 and I presume I am indebted for this  
 blessing to my education.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1886080501:0750/pct:25.010334849111203,60.660627485638535,9.6045197740113,7.048166151126823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1886080501:0750/pct:25.019521381654496,60.66430991309471,9.595333241468008,7.048166151126823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ cott&#x27;s Magazine.
 Cases of Rabies in Parts.  
 It is officially reported, according t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn93063557:00280777857:1886080601:1094/pct:129.62962962962962,296.7880085653105,57.407407407407405,45.396145610278374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn93063557:00280777857:1886080601:1094/pct:32.407407407407405,74.19700214132763,14.351851851851851,11.349036402569594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -752,7 +752,7 @@ L truth and nincerity; and I presume lam
 ’ indebted for this blessing to my edu­  
 ’ cation.—Frank J. Carpenter in Lippin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_kirby_ver01:data:sn88067211:00514150655:1886080601:0288/pct:50.47450893842419,66.97682584269663,11.873758552195984,8.251404494382022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_kirby_ver01:data:sn88067211:00514150655:1886080601:0288/pct:50.49106157581108,66.97682584269663,11.862723460604723,8.251404494382022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ my education.&quot;
 Jefferson&#x27;s first love occurred when  
 he, a youth of nineteen years, wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033306:00296020461:1886081301:0132/pct:55.358090185676396,86.23012367491167,14.124668435013263,11.671819787985866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn85033306:00296020461:1886081301:0132/pct:41.541727477776305,64.67535335689045,10.601034894520366,8.756625441696112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -927,7 +927,7 @@ cott&#x27;s Magazine.
 Cases of Rabies in Paris.  
 It is officially reported, according t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_antelope_ver02:data:sn86075021:00294555365:1886101601:1017/pct:157.3826216273635,120.7696661007357,54.55704270235819,43.01075268817204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_antelope_ver02:data:sn86075021:00294555365:1886101601:1017/pct:39.345655406840876,30.192416525183926,13.639260675589547,10.75268817204301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

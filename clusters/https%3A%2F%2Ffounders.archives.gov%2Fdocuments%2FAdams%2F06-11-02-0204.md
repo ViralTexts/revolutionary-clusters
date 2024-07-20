@@ -255,7 +255,7 @@ millions of people at once out of the protec­
 tion of the crown : then and not till then,  
 did the United States of America, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781100601:0018/pct:12.589844655692094,2.1469859620148637,38.76651982378855,36.82906688687036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781100601:0018/pct:12.597573228224746,2.1469859620148637,38.7742483963212,36.832507569501786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ this idea is joßt, it follows, that it is&#x27; the interest of
 every State it Borope to acknowledge American In­  
 ‘dependency immediately. 1f such benevolent polic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781100601:0019/pct:46.01571268237935,69.55530216647662,37.32884399551066,21.49891157872914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781100601:0019/pct:46.0231949120838,69.5587574720984,37.32884399551066,21.49891157872914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ propriety of appointirg some person, or peiions, to
 grea: on the sub eét of nis mission, by |  
 J. ADAMS,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781100601:0020/pct:16.681818181818183,1.232522009321595,37.93181818181818,15.06991196271362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781100601:0020/pct:16.681818181818183,1.2394268945278786,37.93181818181818,15.06991196271362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

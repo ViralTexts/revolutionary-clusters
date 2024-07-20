@@ -775,7 +775,7 @@ and armament of the vessel; the name of the commander and othe
 ships, that should be employed in carrying provi­  
 sions or other necessaries to the British army o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191009:1857013001:0104/pct:19.156883671291354,145.79675285628383,42.600498043400925,2.38123872519543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191009:1857013001:0104/pct:6.3856278904304515,48.59891761876128,14.200166014466975,0.79374624173181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1002,7 +1002,7 @@ with a naval armament,’’ and on December 2
 e be fitted out with all possible despatch for a  
  cruise of three months.&quot; Seventeen days late
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897122601:0740/pct:0.3816793893129771,121.22318575992698,65.49618320610686,8.215426745778183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897122601:0740/pct:0.09545628102329133,30.305796439981744,16.38029782359679,2.0538566864445458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ e be fitted out with all possible despatch for a
 1. fitted out to carry fourteen guns and a propor­  
  tionate number of swivels and men, while tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897122601:0740/pct:0.6106870229007634,130.53400273847558,65.19083969465649,4.7466910086718395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897122601:0740/pct:0.15273004963726614,32.633500684618895,16.30393279877816,1.1866727521679599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1041,7 +1041,7 @@ e the Congress ordered a committee to be an-
  pointed to devise ways and means for furnish-  
 e ing the Colonies with a naval armament
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897122601:0740/pct:0.0,162.05689943709112,65.87786259541984,17.40453369846341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042970:1897122601:0740/pct:0.0,40.51422485927278,16.475754104620083,4.351133424615853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

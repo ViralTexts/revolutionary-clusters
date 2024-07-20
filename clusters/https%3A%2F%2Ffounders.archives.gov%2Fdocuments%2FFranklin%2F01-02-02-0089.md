@@ -1596,7 +1596,7 @@ T hushe who&#x27;d please a//,and their good liking gain,
 ~ Shewsa deal of Good nature, but labours in vain.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1759030201:0328/pct:66.23376623376623,70.2118138424821,27.9004329004329,23.955847255369928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1759030201:0328/pct:66.23376623376623,70.2118138424821,27.914862914862915,23.96081941129674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3004,7 +3004,7 @@ A carrier, wiser tuan both these pat together,
 t Said, ‘try what you please—  
 I There&#x27;s nothing mice Leather,’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624414:1842041601:0149/pct:28.488745980707396,102.62950716422611,18.94962486602358,6.534404030861282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624414:1842041601:0149/pct:22.07885701628087,79.53630262355095,14.708162587218961,5.0762660158633315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3048,7 +3048,7 @@ these together, said, &quot;do what you please, there is
 nothing like leather.&quot;  
 The fate of the native party, so called, must evidentl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742927:1845103101:0515/pct:106.04558969276512,85.6507864144062,46.531219028741326,10.895828584454069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742927:1845103101:0515/pct:35.34852989758837,28.550262138135402,15.510406342913775,3.63194286148469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3067,7 +3067,7 @@ A grave skilful mason gave his opinion.
 That nothing but stone would secure the dommjon.  
 The carver said that although that was well spoke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851050201:0198/pct:18.24882075471698,76.30510440835266,13.148584905660377,2.223511214230472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851050201:0198/pct:18.24882075471698,76.31154936839391,13.163325471698114,2.220288734209848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3086,7 +3086,7 @@ A grave skilful mason gave his opinion.
 That nothing but stone would secure the dominion;  
 The carver said thut although that was well spoke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851050201:0199/pct:18.00408520571929,76.40547625983105,13.058068281295593,2.1846781240897175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851050201:0199/pct:18.00408520571929,76.41194938019872,13.062931621437603,2.1846781240897175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3428,7 +3428,7 @@ still holding the fort with all solid leath­
 er Boots and Shoes, wear and tear resist­  
 ing. Best and most complete stock o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890080901:0127/pct:54.83010140544387,6.740649404027949,10.282867817114392,6.220030141115221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890080901:0127/pct:54.82034863038065,6.739726027397261,10.285485592315903,6.222602739726027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3458,7 +3458,7 @@ still holding the fort with all solid leath­
 er Boots and Shoes, wear and tear resist­  
 ing. Best and most complete stock o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890081601:0131/pct:54.704205274411976,19.698423577793008,10.281539558089808,7.059629883481837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890081601:0131/pct:54.69445929093177,19.695723684210527,10.28416176732585,7.0620888157894735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3488,7 +3488,7 @@ still holding the fort with all solid leath­
 er Boots and Shoes, wear and tear resist­  
 ing. Best and most complete stock o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890082301:0135/pct:54.437765205091935,17.628425836661616,10.201555869872701,6.982509296240187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890082301:0135/pct:54.428142124801134,17.625998347562653,10.20417182252077,6.984990360782153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3517,7 +3517,7 @@ still holding the fort with all solid leath­
 er Boots and Shoes, wear and tear resist­  
 ing. Best and most complete stock o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890083001:0139/pct:55.64530604918327,23.793768955059278,10.536707951893735,6.20347394540943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890083001:0139/pct:55.63531945441493,23.790489317711923,10.539303661162958,6.2060647829083395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3547,7 +3547,7 @@ still holding the fort with all solid leath­
 er Boots and Shoes, wear and tear resist­  
 ing. Best and most complete stock o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890090601:0143/pct:54.36634717784877,37.76735200772733,10.27689030883919,7.064992410652684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890090601:0143/pct:54.3566992014197,37.7621412803532,10.279503105590063,7.067466887417218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3577,7 +3577,7 @@ till holding the fort with all solid leath­
 r Boots and Shoes, wear and tear resist­  
 ng. Best and most complete stock o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890092001:0151/pct:55.3019410496046,45.397000137608366,10.100647016534866,6.123572313196642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890092001:0151/pct:55.292003593890385,45.39075399009356,10.103324348607368,6.126169510181618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3607,7 +3607,7 @@ still holding the fort with all solid leath- J
 er Boots and Shoes, wear and tear resist- t  
 ing. Best and most complete stock of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890092701:0155/pct:55.04141159524667,66.07584501236603,10.94706517824991,6.966199505358615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890092701:0155/pct:55.03150315031503,66.06676741310619,10.949594959495949,6.968677016073636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3637,7 +3637,7 @@ i still holding the fort with all solid leath­
 er Boots and Shoes, wear and tear resist­  
 ing. Best and most complete stock o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890100401:0159/pct:54.22849991060254,67.9015758916229,10.763454317897372,7.03621786010506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890100401:0159/pct:54.2188058634251,67.89219073946096,10.765999284948158,7.038700760193504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3667,7 +3667,7 @@ still holding the fort with all solid leath­
 er Boots and Shoes, wear and tear resist­  
 ing. Best and most complete stock o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890101101:0163/pct:54.17263610315186,62.194116029694804,10.279369627507164,6.048941435248832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890101101:0163/pct:54.162936436884515,62.18556701030928,10.282005371530886,6.051546391752577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3696,7 +3696,7 @@ still holding the fort with all solid leath- i
 er Boots and Shoes, wear and tear resist­  
 ing. Best and most complete stock of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890101801:0167/pct:55.383228133453564,71.51531879657742,10.640216411181244,6.113717913331493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890101801:0167/pct:55.37324197619906,71.50545053125431,10.642805625676163,6.116323996136332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3725,7 +3725,7 @@ still holding the fort with all solid leath­
 er Boots and Shoes, wear and tear resist­  
 ing. Best and most complete stock o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890102501:0171/pct:54.70956210902592,71.37346741975479,10.31277926720286,6.102768976443036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890102501:0171/pct:54.699785561115085,71.36363636363636,10.315403859899929,6.105371900826446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3754,7 +3754,7 @@ still holding the fort with all solid leath­
 er Boots and Shoes, wear and tear resist­  
 ing. Best and most complete stock o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890110101:0175/pct:54.674472237005496,47.84636488340192,10.21820117083555,6.07681755829904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890110101:0175/pct:54.664774742816604,47.839802496228224,10.220822986874778,6.0794129749005625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3784,7 +3784,7 @@ still holding the fort with all solid leath­
 er Boots and Shoes, wear and tear resist­  
 ■ ing. Best and most complete stock o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890110801:0179/pct:55.0080630711342,73.82365116599972,10.750761512273787,5.919690906582034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349104:1890110801:0179/pct:54.99820852740953,73.81346578366445,10.75331422429237,5.922323399558499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3830,7 +3830,7 @@ A currier, wiser than both these together.
 Said, “fry what you please, there’s nothing  
 like leather.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1892122401:0765/pct:19.867807153965785,79.34884972420288,14.541213063763609,5.367953719897753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1892122401:0765/pct:19.86394557823129,79.33817594834544,14.543245869776483,5.37059456550982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3856,7 +3856,7 @@ A currier, wiser than both these together,
 BaiU, “fry what you ploase, there’s nothin!  
 like leather. &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1893010701:0010/pct:15.139926994611507,80.28688524590164,9.508082739440292,4.112021857923497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1893010701:0010/pct:15.1372957942301,80.27591859035651,9.510775112964893,4.11487501707417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

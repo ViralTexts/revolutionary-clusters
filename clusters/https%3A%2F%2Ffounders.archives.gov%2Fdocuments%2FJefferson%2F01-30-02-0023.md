@@ -381,7 +381,7 @@ for Logan ? Not one.&quot; v&#x27; #&gt;
 This pathetic and affecting speech touched  
 the sensibility of all who heard him. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862683:1857111201:0389/pct:83.36385406395267,35.16366453612241,15.86138892801803,7.689327910129769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862683:1857111201:0389/pct:83.36385406395267,35.16366453612241,15.87077992205475,7.695784104848602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ thought ! TTo will not turn on his Led
 to Ids lit.*! Who ia there to mourn  
 for l/ogan i No one !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623513:1870022401:0020/pct:28.939585973806505,42.32413940560188,12.237712998169272,12.283515073765233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623513:1870022401:0020/pct:28.939585973806505,42.32413940560188,12.24710134722809,12.29064214952605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

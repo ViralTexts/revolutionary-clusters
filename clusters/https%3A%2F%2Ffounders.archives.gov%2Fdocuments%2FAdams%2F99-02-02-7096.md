@@ -209,7 +209,7 @@ cessive deteriorations of the coins. All these in­
 quities are rounded on the false idea that money  
 is but a sign
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:53.573230200100895,109.77251624883937,47.45249705733983,15.552460538532962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:17.85774340003363,36.59083874961312,15.817499019113278,5.184153512844321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ by an alteration of the real coins, it is to
 steal, and it Is a theft which even injures  
 him who commits it 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665544:1895052501:0236/pct:95.12627381479841,65.90580018737757,16.714665485157287,5.8087045396473895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665544:1895052501:0236/pct:71.36842105263158,49.43360872157397,12.542936288088642,4.36078698577634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ teration of the real coins, it is to steal.
 and it is a theft which even injures him  
 who commits it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:0021247180A:1895052501:0003/pct:40.27990797546012,65.78545232273838,16.698619631901842,7.68643031784841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:0021247180A:1895052501:0003/pct:30.22631377061757,49.34290953545232,12.52397391637898,5.776283618581907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ iah- alteration of the real cotn^, it is
 jto steal, and it is a theft which -even  
 injures him who commits It.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:0020653686A:1895052501:0242/pct:48.65317515701326,78.97058823529412,11.095603628750872,4.684873949579832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:0020653686A:1895052501:0242/pct:48.662479646429404,78.97058823529412,11.095603628750872,4.684873949579832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ an alteration of the real coins, is to
 steal, and it is a theft that even injures  
 him who commits it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186828:1895052501:0356/pct:45.59211683969734,35.942305652773356,14.464191448178779,6.183052285502174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186828:1895052501:0356/pct:45.584095707248416,35.938494167550374,14.46751114238799,6.185931424531637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ alteration of the real coins, it is to
 steal, and it is a theft which even in  
 jures him who commits it.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556977:1895053001:0092/pct:20.917085427135678,44.87743557510999,13.01821608040201,8.334380892520427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556977:1895053001:0092/pct:15.690277995916444,33.66436203645506,9.769122035495524,6.247642991829038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ false idea , that money is but a sign. &quot;
 Permit me to recommend this volume  
 to your attentive perusal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1899041301:0559/pct:57.037457434733255,13.91376796500729,65.91940976163451,111.24765673817954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1899041301:0559/pct:42.82874183470605,10.435325973755468,49.47458108491906,83.44094980212456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

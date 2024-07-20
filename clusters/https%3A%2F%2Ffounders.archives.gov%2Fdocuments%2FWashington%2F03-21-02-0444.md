@@ -364,7 +364,7 @@ servant,
   
 Gen.Wathifigton, ANTHONY WAYNE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779081701:0239/pct:9.626009349766257,4.372213433050482,84.46663833404165,92.65065439378685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779081701:0239/pct:9.64017566227511,4.372213433050482,84.45955517778722,92.65544848746345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1120,7 +1120,7 @@ and fifty volunteers, at whose head stood the brave
 Fleory, one hundred volunteers, under Hewart,  
 composed the van of the left. And still further ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1835031801:0240/pct:41.34057971014493,27.953432993782247,18.804347826086957,9.326630506680777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1835031801:0240/pct:41.34057971014493,27.957842748158928,18.804347826086957,9.33104026105746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1155,7 +1155,7 @@ latter belongs to the ninth Pennsylvania Regiment, and
 was more fortunate in saving his men, though not less  
 exposed.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835070301:0073/pct:18.254186110348613,31.117696867061813,15.015097447158935,8.911939034716342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835070301:0073/pct:18.25168107588857,31.114403640596887,15.017611271213577,8.914523582742442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1206,7 +1206,7 @@ parlies twenty men each. Theii
 distinguished bravery deserves the high­  
 est commendation. &#x27;—[Rub. Courier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1835070901:0319/pct:4.743510506798517,72.75297443750736,12.762669962917181,4.146542584521145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1835070901:0319/pct:4.742777691951182,72.74440518256773,12.765847880941346,4.149980369061641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1238,7 @@ distinguished bravery deserves the
 highest commendation.”—Richmond  
 Courier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835072501:0182/pct:82.26538849646822,15.139240506329115,15.5146316851665,5.3164556962025316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835072501:0182/pct:82.24464060529634,15.136685791427608,15.517023959646911,5.31977725278434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1354,7 +1354,7 @@ their flints from their pieces and fix the
 death bayonet. At twenty minutes past  
 eleven, tlic two columns moved to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1837080501:0070/pct:56.31431244153414,23.03647716069668,23.199251637043968,27.670062438383173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1837080501:0070/pct:42.26538731570325,17.285573447256,17.435057336765738,20.75254682878738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1423,7 +1423,7 @@ them take their Hints from their pieces and
 fix the death bayonet. At twenty minutes  
 past eleven, the two columns moved to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840032801:0565/pct:39.54366382140512,67.04789135096497,18.548916611950098,16.91684536573743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840032801:0565/pct:39.55460713504049,67.05186244142642,18.543444955132415,16.92081645619887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1442,7 +1442,7 @@ treat in case of accident; and I have not the
 least doubt of his faithfully and gallantly effect­  
 ing either, had there been occasion for it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1844081701:0850/pct:259.5792637114951,123.95012182886627,58.151765589782116,13.014189479719077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1844081701:0850/pct:64.93140387145273,30.987530457216568,14.54613794399549,3.2535473699297692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1571,7 +1571,7 @@ tions, and in the same order. At 12 o’-
 clock the assault was to begin, on the right  
 and left at the same moment. Neither th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1852051201:0603/pct:29.922118380062305,58.75666898631408,14.205607476635514,12.537694270470888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1852051201:0603/pct:29.92731048805815,58.75666898631408,14.205607476635514,12.549292507538855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1593,7 +1593,7 @@ tions. The van of the left, led by Major Stew.
 art, consisted of one hundred volunteers, prece  
 ded by the same precautions, and in the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1852051501:0965/pct:273.4009360374415,185.0958126330731,52.418096723868956,12.831795599716111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1852051501:0965/pct:68.35023400936038,46.27395315826828,13.104524180967239,3.2079488999290278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1628,7 +1628,7 @@ to the concerns of Europe up to the present time.
 And what I ask, has been the resolt of this poli­  
 cy? Why, from the small beginning of thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_fluttershy_ver01:data:sn83016867:00295877923:1852061901:0326/pct:188.05460750853243,195.48872180451127,119.02730375426621,40.6015037593985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_fluttershy_ver01:data:sn83016867:00295877923:1852061901:0326/pct:47.02368252613612,48.87218045112782,29.76317473863879,10.150375939849624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1656,7 +1656,7 @@ Neither the deep morass in front nor the
 formidable entrenchments of the British,? •rc-u ivcivu  
 appeared in the least degree to chill the o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1852081201:0603/pct:42.78537538375663,61.894942478836555,21.88110521909015,7.8793140872585195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1852081201:0603/pct:42.78537538375663,61.894942478836555,21.885756814587403,7.886549453729831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

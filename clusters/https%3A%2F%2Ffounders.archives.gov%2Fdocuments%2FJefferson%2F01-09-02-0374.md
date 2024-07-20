@@ -166,7 +166,7 @@ o derision which shows their firm persuasion thai
 wo shall never unite to suppress their commerce  
 or even to impede it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1842031901:0450/pct:5.944055944055944,114.18012592389816,23.12937062937063,10.52559540104024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1842031901:0450/pct:4.458821472285365,85.64193813304134,17.363175380311244,7.897618395839037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ from bringing that into their own laps. They
 say they will pocket our carrying trade as well  
 as our own.&quot; -To JOhN PAGE t1786)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070401:0439/pct:156.38138138138137,195.7498482088646,49.92492492492492,15.725561627200971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897070401:0439/pct:39.09534534534534,48.93746205221615,12.48123123123123,3.9313904068002428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

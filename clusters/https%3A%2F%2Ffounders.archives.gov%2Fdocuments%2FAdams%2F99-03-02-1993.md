@@ -1397,7 +1397,7 @@ O how can’st thou renounce and hope to be forgiven !
 The JAristocracy of Great Britain.—-the (ol  
 following extract is from a pamphlet on the aristo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835063001:0101/pct:51.67554024428437,70.99307159353349,14.04635139367366,5.35796766743649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835063001:0101/pct:51.68597974736402,70.99307159353349,14.056790896753315,5.365665896843726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1817,7 +1817,7 @@ And all that echoes to the song of even,
 All that the mountain&#x27;s sheltering hosom shields,  
 And all the dread magnificence of heave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841100801:0299/pct:198.04919423240034,223.09242729628562,50.212044105173874,12.611575007198388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841100801:0299/pct:49.512298558100085,55.773106824071405,12.553011026293468,3.152893751799597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1863,7 +1863,7 @@ All that the mountain&#x27;s sheltering bosom shields,
 And all the dread magkificence of Heaven;  
 Oh, how canst thou renounce, ans hope to be forgiven?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841111701:0756/pct:6.2373505059797605,235.03951825366954,46.145354185832566,12.006021829130598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841111701:0756/pct:2.079116835326587,78.34650608455652,15.381784728610855,4.002007276376866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1887,7 +1887,7 @@ And ill the dread magnificence of Heaven; &#x27;
 Oh, how canst thou renounce, and hope to&#x27;be for­  
 given 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841112301:1014/pct:34.01142041399001,65.35132382892057,15.506780870806567,4.760692464358452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841112301:1014/pct:34.01142041399001,65.35132382892057,15.524625267665954,4.7734215885947044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1953,7 +1953,7 @@ All that the mountain&#x27; sheltering bosom shields,
 And all the dread magnificence of heaven,  
 of how canst thou renounce, and hope to be forgiven!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743154:1842050501:0501/pct:155.1912568306011,249.12040210189627,42.40768339128995,10.875028558373314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743154:1842050501:0501/pct:51.7304189435337,83.04013403396543,14.135894463763316,3.625009519457772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1978,7 +1978,7 @@ All that the mountaiw&#x27;s sheltering bosooms shields,
 And all the dread magnificence of heaven.  
 of how canst thon renounce, and hope to be forgiven!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530169:1842050601:0050/pct:108.07879992770648,124.58643768152544,46.73775528646304,13.398156332870311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530169:1842050601:0050/pct:36.02626664256883,41.528812560508484,15.579251762154346,4.46605211095677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2016,7 +2016,7 @@ And all that dread magnificence of heaven,
 O! how canst thou these renounce, and hope to be  
 forgiven.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1842051801:0420/pct:99.95164410058027,59.45543988102048,23.968407479045776,13.327994508637456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1842051801:0420/pct:74.99193808448888,44.59443999542386,17.99419542083199,9.998855966136597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2150,7 +2150,7 @@ Anil all the dread nugnilMim of hraven? (I
 )li! how ran?t thou renouuea and h pe to lie feT- *  
 giveo! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843061401:0569/pct:52.216312056737586,74.74952441344324,15.602836879432624,4.882688649334179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843061401:0569/pct:52.22222222222222,74.74952441344324,15.602836879432624,4.891143521454238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2186,7 +2186,7 @@ Oh ! how canst thou renounce and h pe to he f&lt; r- j
 given!  
 The paring imbed was painful, hul s&#x27;ern dut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1843061501:0069/pct:35.16143299425033,81.72995780590718,16.939407341884124,10.907172995780591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1843061501:0069/pct:35.16143299425033,81.73699015471168,16.94923583468475,10.907172995780591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2605,7 +2605,7 @@ All that the mountain&#x27;s sheltering bosom shields,
 And all the dread magnificeuce of heaven;  
 Oh! how canst thou renounce,-and hope to be forgiven?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848012701:0649/pct:17.071428571428573,92.35955056179775,45.5,16.06741573033708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848012701:0649/pct:4.269381922115041,23.089887640449437,11.379063951411219,4.01685393258427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2635,7 +2635,7 @@ my eye on the side ol the Wcslci it one in
   
 tlie morning to behold the first rays of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1849012001:0320/pct:46.1822125813449,20.50720100187852,37.15835140997831,102.26988102692549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1849012001:0320/pct:35.791538246007285,15.896958912973147,28.803586438778368,79.26641863474603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2868,7 +2868,7 @@ The pomp of groves and garniture of fields;
 All that the genial ray of morning gilds,  
 And all that echoes to the song of even.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854111801:0537/pct:205.62646054287256,65.44482128880772,34.567679309724966,7.0571354030785285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854111801:0537/pct:68.54215351429085,21.814940429602576,11.522559769908323,2.352378467692843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2888,7 +2888,7 @@ The pomp of groves and garniture of fields;
 All that the genial ray of morning gilds,  
 And all that echoes to the song of even.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854112101:0553/pct:107.90889526542324,166.78780012978586,34.953371592539455,7.177157689811811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854112101:0553/pct:35.96963175514108,55.59593337659528,11.651123864179818,2.392385896603937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2930,7 +2930,7 @@ The warbling woodlands, the resounding shore,
 The pomp of groves an J garniture of fields.”&#x27;  
 No home can equal the farmer’s in all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340172:1855122201:0206/pct:68.08367071524967,30.212201591511935,12.196356275303645,2.7718832891246685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340172:1855122201:0206/pct:68.07218755270704,30.208195199575652,12.198515769944342,2.7748309242805993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

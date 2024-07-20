@@ -93,7 +93,7 @@ over this district, in all cases whatever,” does not
 appear to come short of such a power. Like autho­  
 rity is also given in the same paragraph of the coti­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805013001:0325/pct:49.447726688928846,18.88509670079636,22.501926534806064,6.549650576954331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805013001:0325/pct:49.43502824858757,18.882027949301268,22.502568053415512,6.552648683782905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ or right to grant tho hod of tiis river to any in­
 dividual as his private property.  
 It is certainly clear then, tiat the owners o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830061101:0182/pct:50.43571319370127,8.249542961608775,14.890689497018805,10.020566727605118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830061101:0182/pct:50.42800366860288,8.248600479835485,14.89350861102619,10.023230130621881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ their will and pleasure, until they shall be
 occupied under the said appropriations for the  
 uee of the United States, or by purchasers 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_englishsetter_ver01:data:sn83045462:0028065422A:1864090101:0369/pct:82.85379725660756,65.59991321327837,15.97524255603881,5.359080060750705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_englishsetter_ver01:data:sn83045462:0028065422A:1864090101:0369/pct:82.85379725660756,65.60804946843133,15.99197055871529,5.367216315903667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ erritory, have power to license the building ot
 vharves iu the waters of the Potomac aud the  
 Intern branch, adjoining the said city,&quot; etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654656:1886092701:0362/pct:50.08534503779566,17.846123220861948,12.996830041453304,3.1750771374539664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654656:1886092701:0362/pct:50.08839307485979,17.853588135761917,13.002926115581566,3.1825420523539365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

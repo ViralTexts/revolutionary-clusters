@@ -73,7 +73,7 @@ to he open to every infant in the ward,
 who has not already had 3 years’ school­  
 ing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021001:0323/pct:34.325627806419426,62.76788957500908,15.18376850157991,8.17290228841264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021001:0323/pct:34.319920186232125,62.76029055690073,15.18678638731848,8.17594834543987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ shall after the age of fifteen year*, be a citizen of
 this Commonwealth, unlet* he or she can read  
 readily In some tongue, native or acquired.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052201:0650/pct:49.96246246246246,82.24064305450892,15.55930930930931,3.0268776689274053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855052201:0650/pct:49.96871871871872,82.24901616009377,15.553053053053054,3.0226911161349745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ FERED.—Thomas Jefferson.
 We have heard of quite a great deal  
 of objection to our new election law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688660:1892123101:0807/pct:16.984293193717278,29.773769973105523,12.25130890052356,16.706217370669197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688660:1892123101:0807/pct:16.984293193717278,29.773769973105523,12.265270506108202,16.716764225069873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

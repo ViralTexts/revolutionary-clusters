@@ -83,7 +83,7 @@ Elbridge Gerry
 Massachusetts-Bay.—Samuel Adams, John  
 Adams, Robert Treat Paine, Elbridge Gerry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804070401:0075/pct:60.40305010893246,48.911411411411414,17.44734931009441,1.2262262262262262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804070401:0075/pct:60.392085677981484,48.905292130614285,17.450232952138926,1.2302431294048959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ John Adams, Robert Treat Paine, El
   
 bridge Gerry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1847070201:0009/pct:72.26765799256506,270.6445873819625,48.698884758364315,6.569043383057342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1847070201:0009/pct:18.07027328499721,67.66114684549062,12.176984569622606,1.6422608457643355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ John Adams,
 Robert Treat Paine,  
 Elbridge Gerry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857070701:0072/pct:68.468731735827,76.68908101184758,36.90824079485681,33.365353826448924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857070701:0072/pct:22.822910578609,25.563027003949195,12.302746931618936,11.12178460881631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ John Adams,
 Robert Treat Paine,  
 Elbridge Gerry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1858070301:0611/pct:276.5474552957359,67.03578663065497,80.46767537826685,314.86833220796757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1858070301:0611/pct:69.13686382393398,16.758946657663742,20.11691884456671,78.71708305199189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ Consented to by the major part of the Council.
 A true copy,  
 (Attest) Joun AvErr, Dep. Sec&#x27;y
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861051001:0446/pct:293.8601478112564,112.50262660222735,45.30983513359863,32.065559991594874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861051001:0446/pct:73.4650369528141,28.125656650556838,11.327458783399658,8.016389997898719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ John Adams,
 Robert Treat Paine,  
 Elbridge Gerry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861062901:0902/pct:171.10951008645534,98.19209039548022,50.14409221902017,42.59887005649718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861062901:0902/pct:42.8005045954226,24.548022598870055,12.542800504595423,10.649717514124294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ John Adams,
 Robert Treat Paine,  
 Elbridge Gerry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862070401:0877/pct:272.87420941672525,49.494163424124515,48.55938158819396,48.041504539559014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862070401:0877/pct:68.25452627878362,12.373540856031129,12.146247143610477,12.010376134889754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ Robert Treat Paine,
 Elbridge Gerry.  
 Rhods Island
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1863070401:0029/pct:208.44481605351172,86.53739612188366,55.35117056856188,60.11080332409972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774698:1863070401:0029/pct:52.122099100982645,21.634349030470915,13.840685762074012,15.02770083102493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ John Adams,
 Robert Treat Paine,  
 Elbridge Gerry, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774716:1865070401:0455/pct:334.5934379457917,108.22726676289201,50.85592011412268,39.36491274111009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774716:1865070401:0455/pct:83.66327804530052,27.056816690723004,12.716247547708221,9.841228185277522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ John Adams,
 Robert Treat Paine  
 Elbridge Gerry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1873070501:0304/pct:273.8562091503268,327.07213578500705,51.12563543936093,46.336633663366335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1873070501:0304/pct:68.50136239782016,81.76803394625176,12.788374205267939,11.584158415841584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ John Hancock, Samuel Adams,
 John Adams, Robert Treat Paine,  
 Elbridge Gerry, Josiah Bartlett, Wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776476:1876070501:0182/pct:302.5,295.4732510288066,39.0625,7.310578552408618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776476:1876070501:0182/pct:75.66046584336408,73.86831275720165,9.770204783492263,1.8276446381021545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -703,7 +703,7 @@ A true copy. Attest: Jno. Avery, Deputy Secretary
 Bachusetts Bay—Samuel Adams, John Adams, Rob­  
 ert Treat Paine, Elbridge Gerry; Rhode Island
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958228:1880012501:0004/pct:6.772908366533865,85.08209338122114,11.879753712423035,0.6285274499743458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ginsberg_ver01:data:sn85026214:print00205958228:1880012501:0004/pct:6.7819630568634555,85.08209338122114,11.888808402752625,0.6349409953822474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ Robert Treat Paine,
 Elbridge Gerry.  
 Connecticut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1892063001:0778/pct:74.360499702558,28.21244227112198,18.778504858219314,15.89242053789731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1892063001:0778/pct:74.34575733544806,28.20861062067092,18.781390430874968,15.894789261623432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ John Adams,
 Robert Treat Paine,  
 Elbridge Gerry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898063001:0352/pct:22.036082474226806,51.83369644153958,65.48969072164948,10.893246187363834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898063001:0352/pct:22.030404534913682,51.824287529497184,65.47925792321567,10.895806861499365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

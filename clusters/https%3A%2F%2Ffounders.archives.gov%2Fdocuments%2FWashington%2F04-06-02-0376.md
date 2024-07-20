@@ -123,7 +123,7 @@ remembrance of fo.ne few of the present «
 iteration. With eltcem, I am, Sir, you&#x27;r most obe&quot;  
 diem humble fcrvant. &quot;&#x27;&quot;■oitooe-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790091501:0002/pct:11.349306431273645,14.192009540846751,29.886506935687265,67.32259988073942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790091501:0002/pct:11.35718789407314,14.201947922878155,29.902269861286253,67.31266149870801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ With esteem,
 Your most ob*t bumbleservanf,  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824090901:0398/pct:8.04416403785489,33.671399594320484,18.339546888442786,59.81127083517065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824090901:0398/pct:8.043010752688172,33.668430335097,18.34169653524492,59.808935920047034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ Jrom the W^st Indies, to give notice, by
 express, at what place he could most con­  
 ? aftitQtiy Uril touch to receive advice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824090901:0398/pct:8.517350157728707,94.21465737719376,17.464869515342702,2.9014904312549605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824090901:0398/pct:8.516129032258064,94.2063492063492,17.467144563918758,2.9041740152851263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ Many circumstances will unavoidably be
 misconceived, and misrepresented. Not­  
 withstanding most of the papers, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1824092201:0297/pct:45.75685597063269,29.976822044810714,20.816238393435544,62.45171259335565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1824092201:0297/pct:45.74697754749568,29.97296253379683,20.81894070236039,62.44796360671216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ neration. With esteem, I am Sir,
 Your most ob’t bumble servant,  
 GEORGE WASHINGTON&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1824092201:0297/pct:45.69207514575685,5.395312902395055,42.66896998488448,90.65155807365439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1824092201:0297/pct:45.682210708117445,5.394618256727179,42.66695451928612,90.64417836144372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ of some few of the present generation.
 With esteem, I am, Bir, your most obedient humble  
 servant, 0 wASHInQX0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854102101:0314/pct:3.2142857142857144,23.786089238845143,16.114285714285714,40.74803149606299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854102101:0314/pct:3.2142857142857144,23.793379994167395,16.12857142857143,40.751676873724115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ to Sr. nV l?Tt h&#x27;a dePanure from the West Indies,&#x27;
 convenientlfl bf ?Ip&quot;Ba at wh&quot; Plaoe he could most  
 onYementljr first touch to receive Advice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854102101:0314/pct:3.4285714285714284,64.81846019247594,15.814285714285715,2.0231846019247595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854102101:0314/pct:3.433333333333333,64.8257509477982,15.814285714285715,2.019539224263634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ I7SI, was preconcerted the year in-fore; that tlx
 xiint of attNck was not absolutely agreed upon.&quot; be  
 -nu-c it could not he for.-ktx.it rt where tin- eix-mi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854102401:0406/pct:57.51796978142878,55.65846599131693,13.539680211236615,2.7399903521466475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854102401:0406/pct:57.52774925431519,55.664897893552016,13.539680211236615,2.7432063032641905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +751,7 @@ the perishable remenibrauce of Home lew of the pr
 nent generation.  
 With esteem. I am, sir, your obedient humble r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854102401:0406/pct:57.54730820008802,58.35021707670043,14.771893794924454,25.055475156777618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854102401:0406/pct:57.54730820008802,58.35021707670043,14.78656300425407,25.05869110789516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ eration.
 With esteem, I am, sir, your most obedient  
 humble servant, G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340160:1854102801:0407/pct:67.75517182424346,19.041313559322035,12.378184305009404,46.05402542372882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340160:1854102801:0407/pct:67.74358974358974,19.038792532768436,12.38034188034188,46.0512379187078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ er has been greatly diminished by tbo events
 of therecent campaign iu,.Europe. However  
 dilatory the movements of the Allied powers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340160:1854102801:0407/pct:67.73807488459566,65.51906779661017,12.275602667122586,6.47510593220339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340160:1854102801:0407/pct:67.72649572649573,65.5103932212366,12.277777777777779,6.477558585992321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1060,7 +1060,7 @@ military event can ever be. For I repeat it and dwell upon
 it agam, seme snlet?d&lt;4 advantage (whether tpon a larger or  
 smaller scale was almost immaterial) was st essentially ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855101401:0006/pct:42.41142252776309,81.55497316860102,12.004230565838181,12.679395981530014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855101401:0006/pct:42.41142252776309,81.55497316860102,12.013044244667725,12.691875701984275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1101,7 +1101,7 @@ sent generation.
 With esteem, I am, Sir, your moet obedient, humble servant, I  
 George Washistgtojc. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855101401:0006/pct:54.80345496210118,4.505179083988518,12.533051295610788,8.261574940721328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030364:print00211110053:1855101401:0006/pct:54.816675480345495,4.51141894421565,12.533051295610788,8.267814800948459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1199,7 +1199,7 @@ raembranceof some few of thepreseiit genertion.
 With-esteem, I am, Sir, your obedient, humble 1  
 servaut. G. Washington, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876101901:0706/pct:56.89905591866376,73.51002664422943,16.884531590413943,45.78600476791474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876101901:0706/pct:42.69887395568471,55.13953162249334,12.658917544496912,34.34300939559669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1351,7 +1351,7 @@ nature is confined to the perishable remembrance of
 some few of the present generation.  
 yith esteem, I am, sir, You
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175039879:1881101801:0156/pct:57.22634654872848,117.15471782789184,49.48665297741273,101.33512846404129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:00175039879:1881101801:0156/pct:19.07544884957616,39.05157260929728,16.49555099247091,33.77837615468043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1406,7 +1406,7 @@ to the perishable remembrance of
 some men of the present genera­  
 tion.&quot;The letter from which the above i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_elk_ver01:data:sn90051703:00296024867:1885071801:0197/pct:50.3813882532418,66.711140760507,18.24942791762014,36.75783855903936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_elk_ver01:data:sn90051703:00296024867:1885071801:0197/pct:37.809996184662346,50.03335557038025,13.697062190003816,27.578385590393594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1458,7 +1458,7 @@ secret nalyfe is confined to tbe perish­
 able remembrance of some men of the  
 present generation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181910:1885091201:0099/pct:15.428879697896061,73.17039868924086,12.37187556194929,16.903331512834516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181910:1885091201:0099/pct:15.43487382365282,73.17039868924086,12.37187556194929,16.903331512834516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

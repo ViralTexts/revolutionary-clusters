@@ -503,7 +503,7 @@ Incorrupta Fides. nudaque veritas,
 The Judges in this Court-are required to give the  
 result of their deliberations un.the cases brought be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288269:1855062001:0013/pct:1.6607015032211883,9.033141069508261,13.95848246241947,2.629778081923942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288269:1855062001:0013/pct:1.6702457647339537,9.039658487307328,13.948938200906705,2.626519373024408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

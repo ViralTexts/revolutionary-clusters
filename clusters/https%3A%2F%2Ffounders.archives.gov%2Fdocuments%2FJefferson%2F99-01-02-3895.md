@@ -78,7 +78,7 @@ and heieafter ; and accept yourfelf my falutations and
 aflurar.ccs of great refpedi and confideration.  
 THi JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807060601:0040/pct:24.207072548304776,47.37873591376776,17.517316806416332,17.356687898089174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807060601:0040/pct:24.2026608347002,47.37293325168402,17.520199258854262,17.358644621351296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ tci : and except yourself my salutations
 and assurances of great respect and consi­  
 deration. TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807061001:0191/pct:60.0,63.84109311740891,18.245283018867923,22.672064777327936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807061001:0191/pct:59.98868138087153,63.833017077798864,18.248129283782934,22.673413451402066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ tions and ..fTuranee of gieat relpect and
 conhderat ou.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807061201:0003/pct:40.96149662823581,25.929993136582016,18.338046552099197,30.459849004804394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807061201:0003/pct:40.96874773402944,25.939144360558224,18.33079544630556,30.459849004804394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ for the right we-enjoy to worship him,
 perience, the innocence of freedom in&quot;  
 Feligious opinions and exercifethe pow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807063001:0523/pct:75.83945025769171,80.46867242577699,18.397626112759642,14.6758018071691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807063001:0523/pct:75.84986204383362,80.46867242577699,18.397626112759642,14.682421474199847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ yourfelf my salutations and assurances
 of great refpe and consideration,  
 TH : JEFEBERSON,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807063001:0524/pct:6.0908948930188975,3.783139708072684,17.757301265032016,15.053122827921756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807063001:0524/pct:6.10130667916081,3.783139708072684,17.757301265032016,15.05643266143713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

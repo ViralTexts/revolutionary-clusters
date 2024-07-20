@@ -331,7 +331,7 @@ pectus; but it is sufficiently comprehensive to cover
 them all. Indeed, it would be hard to imnagine any  
 line of thought or discovery that might not be made t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:00175038632:1893052101:0290/pct:246.74613402061857,57.11150131694469,46.214561855670105,21.63081650570676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:00175038632:1893052101:0290/pct:82.24871134020619,19.03716710564823,15.404853951890034,7.21027216856892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ delphia, aud entitled “A Proposal for Pro­
 moting Useful Knowledge Among the Brit­  
 ish Plantations ;” also an article on the For
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00332899016:1897052801:0721/pct:50.26706231454006,23.445716053201362,13.768545994065281,1.8558614290133004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00332899016:1897052801:0721/pct:38.966680294358135,18.178186176588095,10.670482420278004,1.4342788653615661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

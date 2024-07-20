@@ -107,7 +107,7 @@ of the country and the world.
 James Madison, Martin Van Buren,  
 John Quiucy. John Tyler
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849052601:0540/pct:85.86872586872587,193.49145063430777,55.05791505791506,24.931053502482072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849052601:0540/pct:21.479621402356578,48.37286265857694,13.77245508982036,6.232763375620518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ try and the world
 Jamea Madison. Msrtin Vra Buren.  
 John Quincy Adam* Jeha Tjlw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1849060701:0063/pct:64.00951814396193,89.43277883828743,14.653975808050763,5.958549222797927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1849060701:0063/pct:63.99682791435369,89.42058623040218,14.656026962727994,5.961145194274029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ JAMEs MAdison,
 AnDreW JACksON,  
 John Q. ADAMs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:0020219137A:1856020801:0044/pct:259.1658583899127,67.62018275725069,38.797284190106694,33.730631704410015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn84023881:0020219137A:1856020801:0044/pct:64.79932096519947,16.905045689312672,9.700497150478961,8.432657926102504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ of the country and the world.
 James Madison, John Tyler,  
 John Quincy Adams, James K. Polk,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288269:1857052001:0442/pct:71.00567160049799,32.09636681562075,13.2798450684742,4.546337672430542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288269:1857052001:0442/pct:71.01028265781343,32.10284308011139,13.293678240420528,4.546337672430542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ the country and the world.
 James Madison, &#x27; John Tyler,  
 John Quincy Adams, James K. Polk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862683:1857060401:0297/pct:42.73121589478103,75.93417231364957,15.363089408143276,6.108422071636012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862683:1857060401:0297/pct:42.73587985634998,75.93739916101968,15.363089408143276,6.111648919006131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ country and the world.”
 James Madison, John Q. Adams,  
 Andrew Jackson, Martin Yan Buren
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:0039334927A:1897022001:0035/pct:72.42998490692604,17.183400906272357,10.783162837497903,9.289291676603863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:0039334927A:1897022001:0035/pct:72.41784037558685,17.181352092524143,10.785546613011402,9.291164898056516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

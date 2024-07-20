@@ -35,7 +35,7 @@ fifth article whereof it js stipulated v.nA &quot;rha;
 among the several Indiau nations who inhabit the  
 &#x27;* country adjacent to the lines and l ivers, whiehy b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798012701:0003/pct:6.700672385810341,50.52522562509247,16.94875956410851,2.4707797011392216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798012701:0003/pct:6.70646881520983,50.53632194111555,16.954555993508,2.463382157123835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -82,7 +82,7 @@ selves expressly to restrain by force all
 hostilities on the part ofl!ie Indian nati­  
 ons living within their bouuilary,&quot; «S:c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818072801:0097/pct:65.00732064421669,3.121234032296939,14.73889702293802,2.2294528802120994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818072801:0097/pct:64.99674690956408,3.1208579346909264,14.741921492084147,2.233200787243443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ dian nations who inhabit the country ad­
 jacent to the lines and rivers, which, bv  
 the preceding articles, form the bounda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818072901:0032/pct:63.08994708994709,28.863396624472575,16.825396825396826,3.059071729957806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818072901:0032/pct:63.076597545493016,28.85959129861569,16.82888982931302,3.063063063063063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ the preceding articles, form the bounda
 “the country .adjacent to the lines and  
 “ rivers, which, by the preceding articles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818073101:0100/pct:67.25289040872822,47.571189279731996,14.541605601693535,2.2254127781765973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818073101:0100/pct:67.24194073591664,47.56549826534275,14.544665147074786,2.2291342664593055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ the preceding articles, form the bounda
 “ part of the Indian nations living n ithin  
 “
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818073101:0100/pct:67.31802638006839,49.71284996410625,14.851001465559355,2.8715003589375447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818073101:0100/pct:67.30706610224682,49.706902739562146,14.854010637143167,2.8751445547713046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ harmony among the several Indian nations who
 inhabit the country adjacent to the lines and riv­  
 ers, which, by the preceding articles, form th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016083:00332895096:1818080401:0715/pct:23.598955934285275,35.826122785331684,17.319207738369414,2.2249690976514214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016083:00332895096:1818080401:0715/pct:23.595333128645994,35.82243279431455,17.320386859072766,2.2273148624987127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ blige themsclves, expressly, to restrain, by force,
 all hostilities on the part of the Dudian nations liv­  
 ing within their boundeary ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818080401:0298/pct:44.32785025524674,15.096182013475246,15.896199659671016,4.823747680890538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818080401:0298/pct:44.32785025524674,15.099436903948183,15.900926451124976,4.83025746183641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ to restrain by force all hostilities on the
 part of the Indian nations living within  
 their boundaries :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818123101:0282/pct:6.9295683219733855,42.14656525413498,14.410905550146056,5.324157913799348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818123101:0282/pct:6.928443939639786,42.14147754707871,14.413975877548813,5.327539031063898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ of America will not suffer their Indians to attack
 the :iizensof the United Mexican States, nor  
 thi Indians inhabiting their territory; nor wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832050901:0025/pct:11.760426770126092,42.07867195958138,16.828322017458778,8.390472753518585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832050901:0025/pct:11.757575757575758,42.07108064225149,16.830303030303032,8.393469240483492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ adjacent to the lines and givers which forin the
 boundaries of the two countries; aud the better  
 to attain this object,both pasties bind themselvce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832052901:0069/pct:56.28712871287129,76.67774086378738,16.138613861386137,3.9867109634551494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832052901:0069/pct:56.28712871287129,76.68143226282761,16.138613861386137,3.994093761535622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ j lien, nor against the Indians residing
 ; within tln&gt; limits ol tire United States,  
 ; in any manner w hatever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1832111401:0535/pct:23.722383396563266,9.353488999865029,18.54496764115153,11.229585639087595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1832111401:0535/pct:23.717090584560463,9.352226720647772,18.548267142644654,11.232568600989653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -685,7 +685,7 @@ all hostilities and incursions on the part of
 the Indian Nations, living within their  
 respective Boundaries,” &amp;c. It cannot b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1835061201:0911/pct:45.675105485232066,10.313050548854859,17.40506329113924,3.1847133757961785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1835061201:0911/pct:45.66547141953174,10.311653116531165,17.40842297686845,3.1887985546522133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ the boundaries of the two countries, and to restrain, by
 force, all hostilities and incursions on the part of the ine­  
 dian nations living within our boundaries; and if yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742903:1844120701:0662/pct:194.70451527224435,250.98306625752926,47.09495351925631,7.296283668598704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742903:1844120701:0662/pct:64.90150509074812,83.66102208584309,15.698317839752102,2.432094556199568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ and to restrain, by force, all Inutilities and incur­
 sions on the part of the Indian nations living  
 within our boundaries; and if you should, upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844121301:0653/pct:71.18241235888294,14.769999039661961,13.695781342840167,3.073081724767118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844121301:0653/pct:71.18241235888294,14.773200166458594,13.715587244999009,3.0794839783603827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -878,7 +878,7 @@ the two countries, and to restrain by force all
 hostilities and incursions on the part of the In­  
 dian nations living within our bYoundacies; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844122401:0205/pct:65.08215962441315,25.578259516647652,14.671361502347418,3.360647235763925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844122401:0205/pct:65.08705007824726,25.578259516647652,14.666471048513301,3.3675621477716695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ the citizens ol the United Stales ol America, nor against
 the Indians residing within the limits ol the United States,  
 in any manner whatever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853032501:0390/pct:16.766953976256303,33.626649905719674,15.661083102943568,10.722815839094908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853032501:0390/pct:16.766953976256303,33.635030379216424,15.666504038597061,10.718625602346533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1004,7 @@ which form the boundaries of the two coun
 tries, and the better to obtain this object both  
 parties bind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873051701:0483/pct:286.829727187206,126.13436510728104,43.179680150517406,9.07492085824833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873051701:0483/pct:71.74117647058823,31.53359127682026,10.8,2.2687302145620825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ parties bind
 nation agreed to maintain peace and harmony  
 among the several Indian nations on the bounda
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00294558305:1874010201:0007/pct:199.85994397759103,149.62943700429074,43.417366946778714,2.496424392146665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00294558305:1874010201:0007/pct:49.9737348975661,37.407359251072684,10.856242339345123,0.6241060980366663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1051,7 +1051,7 @@ States of America, nor arainst the Indians residing within
 the limits of the United States, in any manner whatever.  
 This article is nothing more than a reciproca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1877122401:0554/pct:287.5283446712018,100.13483146067416,49.81103552532124,22.53183520599251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1877122401:0554/pct:71.88208616780045,25.03370786516854,12.45275888133031,5.632958801498128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

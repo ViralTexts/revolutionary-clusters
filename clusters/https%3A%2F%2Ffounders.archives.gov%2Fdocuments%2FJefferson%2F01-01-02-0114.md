@@ -626,7 +626,7 @@ grievances before the throne.
 A standing army has been kept in these co«  
 Tonies everfince the conclusion of the late war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775021001:0399/pct:8.665931642778391,43.47299954621086,27.82800441014333,13.96157918620481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775021001:0399/pct:8.680632120543917,43.47299954621086,27.813303932377803,13.96157918620481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ aflembled, and taken into our most serious
 consideration the important matters recom­  
 mended to the congress. Our resolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775030301:0411/pct:8.2837629433796,6.618640252138676,27.693324520819562,16.208914903196757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775030301:0411/pct:8.291106704854226,6.618640252138676,27.693324520819562,16.21391765471009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2566,7 +2566,7 @@ that your Dcfcendents may govern your D minions, with Honour
 to themselves and Happiness to their Subjets, is our sincere and  
 fervent Prayer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775090501:0480/pct:5.2395879982086875,11.722121676179869,59.381997313031796,82.5699568425449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775090501:0480/pct:5.254515599343185,11.731402849320155,59.381997313031796,82.56531625597475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3746,7 +3746,7 @@ and permanent reconcilizuor ” There was nota word
 in the petition kot wivat breathed futmiffion &amp; loyalty,  
 yéet the official.an{wer 6 Lord Dastmouth, the Secre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1777041901:0181/pct:39.12015997091438,32.42068155111633,29.92183239411016,6.521739130434782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1777041901:0181/pct:39.13227897957947,32.42068155111633,29.915772889777617,6.533490011750882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4877,7 +4877,7 @@ have ever been, with their liiiet and fo&#x27;tunes ti
 njjirt and maintain the rights and intereds of year  
 Aiajcdy and of our Mother Country.**&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804071601:0152/pct:72.61774370208106,41.47501982553529,22.343921139101862,25.310600052868093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804071601:0152/pct:72.60183968462549,41.46953878683758,22.34450284713097,25.31055900621118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4938,7 +4938,7 @@ lives and fortunes to assert and main­
 tain the rights and interests of your  
 Majesty and our Mother country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0003/pct:22.297029702970296,44.21856791402305,17.04950495049505,31.464456817298977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0003/pct:22.297029702970296,44.227200138115585,17.062706270627064,31.464456817298977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5001,7 +5001,7 @@ rights and interests of your Majesty and our
 Mother country  
 1 We have ventured to sav that the ad­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072801:0227/pct:60.19547719432733,15.066160094327262,18.033729398236872,33.1324511987423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072801:0227/pct:60.183943284154054,15.064186533927169,18.036660918439036,33.13247751288097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5093,7 +5093,7 @@ ful subjects ol the Colonics of New Hampshire, &amp;c.
 tant« ot these Colonies, who have deputed us to repre­  
 sent them in general Congress,” was tin* Address t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833043001:0460/pct:35.79021970233877,8.022099447513812,15.166548547129695,4.441988950276243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833043001:0460/pct:35.78514739229025,8.021213125621479,15.16912320483749,4.4451810113063015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5186,7 +5186,7 @@ countiesof New Castie, Kent and Sussex
 on Delaware, Maryland, Virginia, North  
 Carolina and Sontli Carolina, deputed b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1839073101:0067/pct:28.975799481417457,108.01433691756273,23.22817631806396,4.229390681003585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1839073101:0067/pct:21.751351351351353,81.0179211469534,17.44864864864865,3.1684587813620073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5351,7 +5351,7 @@ tion--Step. Hopkins, Sam. Ward.
 Connecticut.- Elipht. Dyer, Roger  
 Sherman, Silas Deane
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021201:0135/pct:102.07443563148261,188.80597014925374,37.58389261744966,12.203687445127304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021201:0135/pct:25.522501906941265,47.201492537313435,9.397406559877956,3.050921861281826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5377,7 +5377,7 @@ lives of your Majesty&#x27;s subjects, and that such stat­
 diately distress any of your Maics  
 ty&#x27;s Colomes may be repealed.&quot; These Colonies re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:52.2753036437247,247.38348791938623,48.71255060728745,22.054276880796976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:17.425101214574898,82.46116263979542,16.237516869095817,7.3514256269323255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5447,7 +5447,7 @@ llonJ’ Mr. Penn, who carried this petition to
 England, presented it on the Ist of September  
 In the same year, and on the 4th was Informe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879051701:0016/pct:15.882512918139788,46.19741100323625,13.380473211857492,6.209546925566343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879051701:0016/pct:15.902909980962741,46.20246763754045,13.394071253739462,6.209546925566343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5514,7 +5514,7 @@ vent prayer,
 Your Majetty my sincere wishes that Your Maj­  
 esty may enjoy a long and prosperous reign, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195453:1886091001:0251/pct:12.334352701325178,39.28683467531109,15.507135575942915,1.1084387744431663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195453:1886091001:0251/pct:9.25312261024726,29.467740248875877,11.636502676523069,0.8365575656174841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5685,7 +5685,7 @@ sistent with her dignity or her welfare.&quot;
 They appealed also to the inhabitants of  
 Great Britain and to the people of Irelan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897070301:0406/pct:29.322473158089597,80.92740822522771,13.754165124028138,4.002208114821971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897070301:0406/pct:29.327101073676417,80.93430858404638,13.758793039614957,3.9987579354126415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

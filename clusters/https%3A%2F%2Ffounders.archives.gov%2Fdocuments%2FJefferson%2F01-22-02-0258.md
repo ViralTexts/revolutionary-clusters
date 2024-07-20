@@ -360,7 +360,7 @@ made by virtue of this ast lhall be accepted, in the ascertaining
 the proportion of this State with the United States, in the com­  
 mon expence occasioned by the late war. Secondly, That th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040701:0003/pct:36.61119515885023,41.78928781636257,26.4750378214826,19.168138120463016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040701:0003/pct:36.6338880484115,41.80400235432607,26.4750378214826,19.163233274475182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ Assembly of this State. Thirdly, That all the lands intended to
 be ceded by virtue of this ast to the United States of America,  
 and not appropriated as before mentioned, shall be conlidcred a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040701:0003/pct:36.64145234493192,86.32528938591328,26.232980332829047,4.433980773003728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040701:0003/pct:36.66414523449319,86.3400039238768,26.232980332829047,4.429075927015892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ this State, upon the following express |
 conditicns and fubjeé thereto, that is  
 to fay: Fir#, That neither the land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790081201:0641/pct:47.858880778588805,33.6570111915734,20.656934306569344,32.15931533903884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790081201:0641/pct:47.858880778588805,33.6679833223612,20.656934306569344,32.164801404432744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ Aés of the General Assembly of this
 State. Thirdly, ‘That all the lands in­  
 tended to be ceded by virtue of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790081201:0641/pct:69.29440389294403,49.55562870309414,20.51094890510949,7.50493745885451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790081201:0641/pct:69.31062449310625,49.55562870309414,20.502838605028387,7.515909589642309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ States,” May 12.
 An a&amp; making an appropriation for  
 the purpose therein mention, May 12
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791061601:0819/pct:7.0588235294117645,79.20760697305863,20.600240096038416,9.952456418383518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791061601:0819/pct:7.066826730692277,79.21288959323824,20.61624649859944,9.957739038563128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ boundary of Pennsylvania ;orin a fccOnd tra£t
 of a million of acres, bounded eafl, by the y,\\
 range of the laid townships, south by the lands of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791111401:0001/pct:11.857810067462376,12.668310259814147,72.02906071613907,79.93552057652191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791111401:0001/pct:11.857810067462376,12.677792527972692,72.05500778412039,79.94026171060118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1036,7 +1036,7 @@ marks, change of parties, and other casualties,
 TH. JEI-FERSOK, Sec&#x27;ry of State  
 Nov. 8, 1791.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791111401:0002/pct:17.461982170949135,5.6343354131215735,35.92029365495543,85.59273964832671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791111401:0002/pct:17.468536969061354,5.648515787483456,35.9465128474043,85.59746643978067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1060,7 +1060,7 @@ and along the fame to the top of Cumberland Mountain—thence a
 direst line to the Cumberland River where the Kentucky road  
 crosses it—thence down the Cumberland River to a point fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111901:0002/pct:9.351580319322254,58.73758036236119,27.826653633105245,6.234171050068186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111901:0002/pct:9.351580319322254,58.742450808494056,27.85923753665689,6.234171050068186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ hence up the river Clinch to Campbell&#x27;s line, arte
 hence a direct line to the Cumberland river when  
 he Kentucky road crolTes it,thence down the Cum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112101:0004/pct:35.28801245459263,23.817663817663817,16.943435391800726,6.875593542260209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791112101:0004/pct:35.30747275557862,23.82241215574549,16.943435391800726,6.889838556505223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1832,7 +1832,7 @@ licence. [remainder in our next.J
   
 ON NEWSPAPERS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791121401:0001/pct:5.31980319803198,18.036833111828365,56.0270602706027,74.33073856085058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791121401:0001/pct:5.335178351783518,18.05107271691665,56.042435424354245,74.33548509588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2062,7 +2062,7 @@ will cloud them the more, by the death or removal ol witneiic,
 the difappearanee ot lines aad masks, change oi parties, and other  
 cafualtics.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791121701:0001/pct:6.97084917617237,14.353033575495779,60.07604562737642,80.16885921853525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791121701:0001/pct:6.994613434727503,14.353033575495779,60.07604562737642,80.16885921853525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2368,7 +2368,7 @@ Congress assembled, That, there is hereby grant­
 ed to each of the French and Canadian inhab.  
 itants and other settlers in the village of Peoria
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823050601:0069/pct:6.351744186046512,64.67695274831244,16.23546511627907,2.111861137897782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823050601:0069/pct:6.361434108527132,64.67695274831244,16.23062015503876,2.111861137897782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2549,7 +2549,7 @@ that shall pass the llnlsfon at the ridge dividing
 the waters ot Little river Irom those of Tennessee.”—  
 I he treaty provided that this liny should bo ascertaine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833053101:0032/pct:5.55632534294028,89.16620651573716,14.923098240266038,3.556046383213694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833053101:0032/pct:5.555555555555555,89.15636042402826,14.925648840860811,3.559334511189635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2889,7 +2889,7 @@ was ceded to the United Stales in 1803, it was ex­
 pressly stipulated that the inhabitants should re­  
 tain their ancient laws and usages
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854030501:0233/pct:16.073636488528646,72.65458422174841,13.573293034757521,4.893390191897654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854030501:0233/pct:16.073636488528646,72.66169154228855,13.573293034757521,4.893390191897654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3004,7 +3004,7 @@ place of beginning. Washington county,
 so laid off, included nearly half the State.  
 of course, the present territory 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774741:1867060301:0074/pct:77.36111111111111,114.16848313886396,48.958333333333336,26.413642774714706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774741:1867060301:0074/pct:19.34363604792499,28.54212078471599,12.24170862997048,6.6034106936786765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3052,7 +3052,7 @@ sion of North Carolina to the United
 States of America : and that all the terri-  
 tory, lands and waters lying west of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293411:1870012101:0074/pct:61.53623188405797,13.408205363282145,27.014492753623188,115.97524639009856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293411:1870012101:0074/pct:46.17949833260838,10.06188402475361,20.26968247063941,86.98143479257392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3108,7 +3108,7 @@ with the Constitution of the United States,
 recognizing the Articles of Confeder  
 ation, the Rill of Righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293411:1870022401:0190/pct:60.925600468658466,66.91798035183916,12.814879906268306,23.47498286497601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293411:1870022401:0190/pct:45.707588631702315,50.19419693854238,9.624963375329623,17.603381311400504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3163,7 +3163,7 @@ have the right of exercising sovereignty,
 and the right of soil, so far as is consistent  
 with the Constitution of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870022601:0212/pct:60.96849474912485,126.32321806633733,38.2730455075846,57.77464126087979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870022601:0212/pct:15.248796147672552,31.580804516584333,9.572450021888224,14.443660315219947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3229,7 +3229,7 @@ over which the people have the right
 of exercising sovereignty, and the right  
 of soil, so far as is consistent with the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1870030401:0339/pct:148.11320754716982,63.40390431674457,88.1712626995646,314.98487764641186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1870030401:0339/pct:37.04846614630605,15.850976079186143,22.054819386458522,78.74621941160297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3284,7 +3284,7 @@ right of soil, so far as is consistent with the
 Constitution of the United States, recogniz  
 ing the Articles of Confederation, the Bil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn89058302:00212470417:1872070401:0680/pct:69.47960618846695,165.1485662384845,42.05344585091421,67.4192292720903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn89058302:00212470417:1872070401:0680/pct:17.37601125571579,41.287141559621126,10.517059444249032,16.854807318022576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3350,7 +3350,7 @@ the Ohio, naming its settlement Marietta.
 Genr Sr. Clair, the now Governor of the  
 Territory, and WinthIOP SAroent, the Sec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887042601:0857/pct:69.43802925327175,351.06382978723406,52.65588914549654,32.45063523649166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887042601:0857/pct:17.359507313317938,87.76595744680851,13.163972286374134,8.112658809122914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3394,7 +3394,7 @@ neighboring villag&lt;*s who have hereto­
 fore professed thrmselvra (jitizens of  
 Virginia.” Hut it was in the sprin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1887061101:1010/pct:43.229166666666664,60.04993757802747,12.803819444444445,4.400749063670412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688659:1887061101:1010/pct:43.229166666666664,60.06034124011652,12.818287037037036,4.400749063670412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3416,7 +3416,7 @@ neighboring villages who have hereto­
 fore professed themselves citizens of  
 Virginia.” But it was in the sprin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157480:1887061801:0898/pct:45.44025157232704,59.532967032967036,10.02795248078267,3.6950549450549453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157480:1887061801:0898/pct:45.43231441048035,59.52479055074853,10.030567685589519,3.6979810465595384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3475,7 +3475,7 @@ original States.
 The passage of this ordinance in 1787, pre  
 ceding the drafting of the new Constitutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888031901:0891/pct:282.98192771084337,183.8193080525759,49.47289156626506,38.19308052575918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888031901:0891/pct:70.75880248540764,45.954827013143976,12.370551685181699,9.548270131439795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3506,7 +3506,7 @@ other settlers of the Kaskaskics, Saint Vincents,
 and the neighboring villages, who have hereto­  
 fore professed themselves citizens of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762690:1888032101:0064/pct:53.03444505194095,58.333333333333336,14.40677966101695,9.209344115004493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762690:1888032101:0064/pct:39.78671041837572,43.75561545372866,10.814875581077386,6.907008086253369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3654,7 +3654,7 @@ said mountain of the southern boundary
 of this State.  
 A controversy arose concerning th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1895011601:0560/pct:24.733475479744136,34.497313891020724,15.600568585643213,23.26682015860834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1895011601:0560/pct:18.56,25.876183167050396,11.715555555555556,17.45970836531082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3691,7 +3691,7 @@ Duck rivor.&quot;
 By a treaty made between the United  
 States and the Cborokeeu, in the counci
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1895012301:0564/pct:22.07792207792208,44.95600051013901,15.764790764790765,17.7273306976151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1895012301:0564/pct:16.561428829153886,33.72018875143477,11.834746527151362,13.301874760872337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -85,7 +85,7 @@ forgive an enemy, ] never did abandon a
 friend.  
 .; ! have the honor to be, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811070301:0594/pct:53.04156809733018,53.433539640436194,22.00067590402163,28.342666273700758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811070301:0594/pct:53.03260685926677,53.42829076620825,22.002590527679224,28.34315651604453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ On Thursday last, Augustus J. Foster, Esq.
 was presented by the Srcrelary of Stale to the  
 President ot the U S. and exhibited his creden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070901:0076/pct:4.70523617722446,41.424346968950225,17.85060417429513,19.51700344997536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070901:0076/pct:4.704374885593996,41.419243562892696,17.85343828177436,19.518705597306067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ disposed 1 may be to forgive au enemy, 1
 never did abandon a friend.  
 “ 1 have the honor to be, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811071101:0232/pct:3.021260723610593,4.933417882054534,36.27377844088027,94.0139505389981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811071101:0232/pct:3.0206973708745104,4.932792290134415,36.273230157250296,94.00625581198749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

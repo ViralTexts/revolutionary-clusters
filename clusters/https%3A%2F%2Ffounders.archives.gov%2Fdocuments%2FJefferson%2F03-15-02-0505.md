@@ -335,7 +335,7 @@ dupes and impostors, Paul was the great
 Coryphalus, and firet corrupter of the doc­  
 trines of Jesus,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830040801:0458/pct:67.85779067658262,52.694680479571645,16.415744603664066,25.689675241531834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830040801:0458/pct:67.86988330612492,52.702440538548096,16.42783723320636,25.697435300508285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ i
 U*ar wnat a very learucu ana pious witter Sviy&amp;j  
 on tins subject Yo-i Imv- doub-less heard of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831051301:0171/pct:44.17750573833206,4.906354130759508,34.70543228768172,89.6242674939676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831051301:0171/pct:44.170746634026926,4.905790441176471,34.705222358221135,89.61780024509804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ to set the machine into motion, must
 come from the legislature. An opposi­  
 tion, in the mean time, has been got u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834073001:0121/pct:49.37614678899082,49.41411451398136,15.229357798165138,45.9254327563249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834073001:0121/pct:49.3822629969419,49.42299156679982,15.229357798165138,45.92099422991567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ this State will support this institution,
 and give fair play to the cultivation of  
 reason.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834073001:0121/pct:64.89908256880734,14.234354194407457,15.100917431192661,29.96005326231691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834073001:0121/pct:64.89908256880734,14.238792720816688,15.113149847094801,29.964491788726143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -917,7 +917,7 @@ self-government Th,t treotnn against human
 &#x27; hope will sienalize their ejwu h in history, ns the  
 counterpart of the medal of their predecessor*.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024657:00414184583:1836040201:0038/pct:46.2274340379571,61.83815028901734,12.590649591112482,8.300578034682081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024657:00414184583:1836040201:0038/pct:46.220302375809936,61.831002196277886,12.593849634886352,8.30347166030902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ consequence ot this ques­
 tion.  
 “
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1836040701:0682/pct:0.8656305331497147,63.24324324324324,6.925044265197718,10.913075237399562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1836040701:0682/pct:0.8654602675059009,63.23400525854514,6.928599527930763,10.915132924335378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1048,7 +1048,7 @@ great distance aud the direct consequence
 of this question.  
 &quot; I bad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1836042901:0164/pct:50.6385068762279,20.672719154636106,23.526522593320237,10.284268492335169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1836042901:0164/pct:38.019169329073485,15.50826015776157,17.64561317276972,7.724363744604852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1121,7 +1121,7 @@ distance, and the direct consequence of this
 Question.  
 &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn87065592:00415662385:1836082301:0413/pct:49.54318936877076,100.59187887130075,19.808970099667775,9.153475567790778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn87065592:00415662385:1836082301:0413/pct:37.19094120091419,75.44390915347557,14.85559941824226,6.8685478320715765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1188,7 +1188,7 @@ signalize their epoch in future history, as
 the counterpart of the model of their pre­  
 decessor.&quot; .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836090801:0385/pct:46.225319396051106,5.550865344027016,41.15853658536585,120.46222034613761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197954:1836090801:0385/pct:34.67905896020912,4.168425495989869,30.888759802497823,90.34402701561841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1228,7 +1228,7 @@ of long duration. I now doubt it much, and see
 the event at no great distance, and the direct  
 consequence of tins question. I consider it a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836110401:0499/pct:8.72178745605081,45.68394094606809,17.999319496427358,2.6890629707743297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836110401:0499/pct:8.72079836697664,45.68050011297733,18.001058441067514,2.691371042655218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1416,7 +1416,7 @@ event at no great distance, and the direct con &quot;om lts own state-
 sequence of this question. My only comfort The nine whig members from Georgia  
 and confidence is, that I s&quot;hall not live to see Delong to the party termed state rights; som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065188:00295877935:1839122101:0141/pct:26.18838028169014,91.38988787814682,42.72300469483568,7.520626189972498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065188:00295877935:1839122101:0141/pct:19.65360340525466,68.54241590861011,32.05636283575517,5.648402792468796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1436,7 +1436,7 @@ Jec. 1 his treason against human hope will Ilf-res. oulil 1S oenevea mey win an 
   
 sin-nalize their enorh in histnrv. as thR -nnn. with the whigs on other questions. 1 h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065188:00295877935:1839122101:0141/pct:26.30575117370892,98.9739792680347,42.62030516431925,2.2530145969959805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065188:00295877935:1839122101:0141/pct:19.74167033612212,74.23312883435582,31.982973726698958,1.6924053310767928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1488,7 +1488,7 @@ This treason against human hope will sig­
 nalize their epoch in history, as the medal  
 of their predecessors, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840010901:0886/pct:8.8,54.83823312158369,58.84444444444444,26.000886393854337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840010901:0886/pct:2.200978212538906,13.709558280395923,14.717652289906626,6.500221598463584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1603,7 +1603,7 @@ against human hope will signalize their epoch in­
 history, as tho counterpart of the medal of their  
 predecessors, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840051601:0034/pct:26.301040832666132,27.79333955804544,19.575660528422738,9.710550887021475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840051601:0034/pct:19.7436924309171,20.85278555866791,14.697637164597516,7.282913165266106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1626,7 +1626,7 @@ would be of long duration. I now doubt it much,
 and see tho event at no great distance, and the  
 direct consequence of this question
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844030701:0438/pct:23.830409356725145,88.04201454349582,18.146929824561404,5.884729329383248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016317:00415661642:1844030701:0438/pct:23.830409356725145,88.05099201005476,18.15911306042885,5.884729329383248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1713,7 +1713,7 @@ whether man is capable of sell-government. This treason
 against human hope, will signalize their epoch in future  
 history, as the counterpart of the medal of their predecessors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847103001:1051/pct:0.19166267369429804,65.05562422744129,17.265612521961348,13.572311495673672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847103001:1051/pct:0.20231060001064793,65.06386485372889,17.265612521961348,13.57643180881747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1732,7 +1732,7 @@ mony and shake the stability of the Union. In the lan- j :
   
 &#x27; history as the counterpart of the model of their predecessors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848011401:0060/pct:77.59139104288653,50.54876527812422,18.53141319829087,2.5941631329508605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848011401:0060/pct:77.59139104288653,50.552922590837284,18.54723848710239,2.598320445663923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1758,7 +1758,7 @@ treason against human hope will signalize their mioc!: it
 . future history as the counterpart of the medal at thei  
 predecessors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848090601:0896/pct:4.106743368488335,43.807253105784916,16.74656439757111,5.584138536830217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848090601:0896/pct:4.106743368488335,43.807253105784916,16.75189091296474,5.5966871627556785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1844,7 +1844,7 @@ t tion.&quot;
 On the 20th December, 1820, he wrote to Mr.  
 a gentleman also now living, thus 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848093001:0977/pct:15.270379338175948,69.26461345065997,15.383373688458434,6.423632935260843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848093001:0977/pct:15.270379338175948,69.27299392415671,15.38875437180522,6.4278231720092185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1863,7 +1863,7 @@ now doubt it much, and see the event at no great distance,
 um| the direct consequence of this question.&quot;  
 And who is lie, this arch-alarmist, who dares not loo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848110701:1108/pct:47.113090504215045,37.84019975031211,15.55590901860983,2.4344569288389515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848110701:1108/pct:47.113090504215045,37.848522679983354,15.561210964423944,2.4344569288389515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1886,7 +1886,7 @@ reel norulity, aat of the most lovely benevolence; and
 others again, of so much tpnorunce, so much adearesth, so  
 wuch talyut) tharlawsian, and inpostare,&quot; Ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850020501:0359/pct:3.618895116092874,270.4746201860794,42.2257806244996,10.1401483924155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850020501:0359/pct:1.2062983720309581,90.15820672869313,14.075260208166533,3.3800494641384997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1947,7 +1947,7 @@ ope, will signali/.e their epoch in future his- |)(
 &gt;ry, us the counterpart of the medal of their j,,  
 redeoessors.?Page 322. p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853080401:0808/pct:33.08771432620094,41.48012350443844,14.850503046620377,16.43187958317252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853080401:0808/pct:33.09243776864579,41.48012350443844,14.845779604175522,16.441528367425704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1985,7 +1985,7 @@ i This treason against human hope will signalize their epoch
 in future history , us tbe counterpart of tbe medal ol their  
 I predecessors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854021501:0241/pct:81.61503301168105,30.864676231097324,16.336549856102927,11.903838697169446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854021501:0241/pct:81.62067603408386,30.86898453319547,16.342192878505728,11.912455301365732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2023,7 +2023,7 @@ rhls treason against human hope will signalize their epoch &#x27;
 n future history, as the counterpart of tho medal of their 1  
 uedecessore.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854021701:0126/pct:19.962143273150843,29.213699951760734,17.501456027955737,9.416304872165943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854021701:0126/pct:19.97185012618909,29.22013185399582,17.496602601436614,9.416304872165943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2165,7 +2165,7 @@ This treason against human hope will signalize
 their epoch in future history, as the counter­  
 part of the medal of Ilieir predecessors.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854030801:0543/pct:66.50498164656528,37.15418751770371,11.680650235972733,11.575866301576811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854030801:0543/pct:66.50935151197343,37.15733484404998,11.680650235972733,11.579013627923079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2195,7 +2195,7 @@ duration. I now doubt n tnuob, and see the event at no
 great distance, and the direct consequence of ibis ques­  
 tion 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854031001:0369/pct:17.341230667982888,8.301108533127094,15.761763738071734,7.012116524877546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854031001:0369/pct:17.352199188329493,8.301108533127094,15.750795217725129,7.020709804932543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2233,7 +2233,7 @@ but by the Potomac, Ohio, and Missouri, or more
 probably the Mississippi, upwards to our northern  
 boundnry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031401:0260/pct:57.70799347471452,47.311482433590406,13.444806960304513,10.593401885175664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031401:0260/pct:57.70799347471452,47.318623250499854,13.453869856806236,10.593401885175664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2256,7 +2256,7 @@ government. This treason against human hope
 will signalize their epoch in future history as the  
 L-ounterpart of the medal of their predecessors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031401:0260/pct:57.70799347471452,59.39374464438732,13.254486133768353,4.166666666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031401:0260/pct:57.70799347471452,59.400885461296774,13.268080478520936,4.163096258211939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2301,7 +2301,7 @@ self-government Thi* treaaon agauiat humun hope will
 Hignalize their epoch in future history as the countervail of  
 the medal of their predecessors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854031801:0437/pct:32.932058047493406,2.989556135770235,31.662269129287598,94.04699738903395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854031801:0437/pct:32.94305189094107,2.998259355961706,31.65127528583993,94.05134899912967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2347,7 +2347,7 @@ self-government. This treason agamst hchah
 hope will signalize their epoch in future history as  
 the counterpart of the medal of their predeces
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027078:1854041201:0176/pct:46.76405325443787,24.604430379746834,19.323224852071007,21.30801687763713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027078:1854041201:0176/pct:35.09064002959674,18.459915611814345,14.502404735479097,15.981012658227849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2388,7 +2388,7 @@ self government. This tbesfo* Aoaiwrr ih van hope
 will sirnalize their epoeh In future history as the counter­  
 part of the medal of their predecessors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854060201:0752/pct:31.196440342781806,58.015943312666074,16.051417270929466,11.236239402758446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854060201:0752/pct:31.207426939134255,58.015943312666074,16.04592397275324,11.244675017925681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2453,7 +2453,7 @@ elf-govcrnmcnt. This treason against human hope will |
 igualiie their epoch in future history as the counterpart of |  
 ho model of their predecessors.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091201:0255/pct:3.382039074043671,7.542670682730924,32.16220653423083,89.36997991967871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091201:0255/pct:3.392984184315657,7.542670682730924,32.15673397909484,89.3783467202142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2503,7 +2503,7 @@ hie of Belf-governmcnt. This tbeason against human
 rn will signalize the epoch in future history as the counpart  
 of the model of their predecessors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854110301:0439/pct:68.14718755065651,37.828947368421055,16.323553250121577,12.942813765182187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854110301:0439/pct:68.14718755065651,37.837381916329285,16.334359971902522,12.942813765182187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2526,7 +2526,7 @@ the efficacy of repentance towards fur.
 smenessofsin; 1 tequire a counterpoise  
 of good works to redeem it.&quot; He say
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1855031701:0636/pct:43.437742687030806,65.89720468890893,13.771680041418586,5.69882777276826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1855031701:0636/pct:43.437742687030806,65.9107303877367,13.797566658037795,5.712353471596033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2636,7 +2636,7 @@ the glory of throwing &#x27;away the fruits of
 their father&#x27;s sacrifices of life and fortune,  
 and of rendering desperate the experiment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856072501:0063/pct:52.12750818272378,26.356158292574477,72.96143446705564,120.18674966651845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856072501:0063/pct:17.375836060907925,8.785386097524826,24.320478155685215,40.06224988883948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2687,7 +2687,7 @@ man hope will signalize their epoch in future
 history, as the counterpart of the model of  
 their predecessors. Ih likeron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1856072601:0398/pct:114.13911060433296,49.14891218577387,45.55302166476625,64.07394882200428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1856072601:0398/pct:28.546984172251534,12.287228046443467,11.393127049764722,16.01848720550107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2830,7 +2830,7 @@ nalize their epoch in future history, as the
 counterpart of the model bf their predeces  
 sors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1856081401:0674/pct:92.91121816930489,64.5877659574468,16.121816930488645,21.050531914893618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1856081401:0674/pct:69.69540526587507,48.444148936170215,12.097745654792634,15.797872340425531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2901,7 +2901,7 @@ signalize their epoch in future history,
 as the counterpart of the model of their  
 predecessors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856082001:0034/pct:38.48995271867612,6.805679928361264,29.949763593380613,117.35960086989894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1856082001:0034/pct:28.883961566888395,5.104259946270948,22.46858832224686,88.02609696814635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2944,7 +2944,7 @@ son against human hope will signalize their 0­
 jwh .in future history, as the counterpart ofthe  
 jroodol of their predecessors.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1856090301:0250/pct:6.380677721701514,97.2334069359657,16.906993511175198,21.691128718015328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1856090301:0250/pct:4.797114517583409,72.93154955188986,12.696122633002705,16.274840888427068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3147,7 +3147,7 @@ war indissoluble, nor did he hesitate to proclaim the dan­
 ger of sectionalism. If he had lived at this day, and had  
 addressed snch a warning to the sectionalists, the whol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856100901:1068/pct:37.2093023255814,58.30164765525982,15.406976744186046,4.993662864385298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856100901:1068/pct:37.2093023255814,58.30164765525982,15.412360034453057,4.997887621461766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3167,7 +3167,7 @@ mutual and moral hatred as to render separa­
 tion preferable to eternal hatred.&#x27; Mr. Jeffer­  
 son, therefore, dii not believe that the Unio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654085:1856100901:0212/pct:2.1146616541353382,23.650940487203208,16.055764411027567,3.659163326138349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654085:1856100901:0212/pct:2.12640977443609,23.658649398704902,16.055764411027567,3.6540240518038853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3213,7 +3213,7 @@ man hope will signalize their epoch in fu­
 ture history, as the counterpart of the model  
 uf their predecessors. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1856100901:0705/pct:55.4058908045977,32.912225292801686,16.63074712643678,26.898276088959072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1856100901:0705/pct:41.566373271061615,24.687458876167916,12.484282378300701,20.173707066719306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3257,7 +3257,7 @@ son ugaiust human hope will signalize their
 epoch in future history, as the counterpart of  
 the model of their predecessors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1856102901:0047/pct:64.60748907051891,37.82231128924516,14.978141037825509,14.802939211756847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1856102901:0047/pct:64.61224101881771,37.82231128924516,14.973389089526705,14.819639278557114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3340,7 +3340,7 @@ mot&lt;i suuguinc in believing that our Union would be of
 long duration. I now doubt it much, and ?ee the event at  
 no great distance, and the direct consequents of this question.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856120401:1256/pct:20.0489396411093,22.149837133550488,15.840130505709626,6.890503633174643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856120401:1256/pct:20.0489396411093,22.154013196358473,15.85100598151169,6.894679695982628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3361,7 +3361,7 @@ casion and renewing irritation, until such mutual and
 mortal hatred as to render separation preferrable to eter-­  
 nal discord. In another letter Mr. Jefferson said that i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856120801:1331/pct:106.21375310687655,60.58535474319554,46.36288318144159,8.142580571688873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856120801:1331/pct:35.40458436895885,20.195118247731845,15.454294393813864,2.714193523896291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3515,7 +3515,7 @@ and receiving irritations, until it would kin- i
 die such mutual and mortal haired as to ren- j  
 der a separation preferable to eternal discord.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857080501:0278/pct:55.918151349444344,46.73820954532618,12.012700652672429,9.785371364021463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857080501:0278/pct:55.918151349444344,46.742916313659045,12.030340448050802,9.785371364021463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3546,7 +3546,7 @@ and receiving irritation&quot;, until it would kin­
 dle such mutual and mortal hatred aa to ren­  
 der a aeparation preferable to eternal discord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857080502:0123/pct:56.91235790245691,46.09263995453254,12.98129812981298,10.258596192100029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857080502:0123/pct:56.91235790245691,46.09263995453254,12.98740985209632,10.272804774083546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3609,7 +3609,7 @@ receiving irritations, until it would kindle
 such mutual and mortal hatred as to render  
 separation preferable to eternal discord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:277.51623376623377,122.85438765670203,50.97402597402598,48.923175827708135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:69.42131979695432,30.713596914175508,12.751269035532994,12.230793956927034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3673,7 +3673,7 @@ and receiving irritations, until it would kindle :
 ■ if mutual and mortal hatred as to render sep- j  
 ii alion preferable to eternal discord.&quot; He says 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1857081401:0498/pct:48.10947634867901,35.914332784184516,14.791963296946685,9.14332784184514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1857081401:0498/pct:48.10947634867901,35.914332784184516,14.797236724147023,9.155095316545069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3807,7 +3807,7 @@ ion than Robert Owen. If that mac can
 be claimed by the Christians who disap­  
 proves of the teachings of Jesus, who re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_k_ver01:data:sn82006863:00212472839:1858100201:0018/pct:91.56441717791411,49.63465553235908,14.468302658486708,26.865866388308977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_k_ver01:data:sn82006863:00212472839:1858100201:0018/pct:68.71270247229326,37.22599164926931,10.861040068201193,20.15918580375783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3853,7 +3853,7 @@ casion and renewing irritations until it would
 kindle such mutual and mortal hatred as to  
 render separation preferable to eternal dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859042701:0394/pct:54.40269209197981,171.6468209391148,63.712843522153676,31.31880476297461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859042701:0394/pct:13.600673022994952,42.9117052347787,15.928210880538419,7.829701190743653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3881,7 +3881,7 @@ ritations until it would kindle such mutual
 and moral hatred as to render seperation  
 preferable to eternal discord.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1859050401:0548/pct:62.12624584717608,42.37713139418255,11.116790186557628,5.997993981945838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1859050401:0548/pct:62.130505153760964,42.383818121029755,11.116790186557628,6.004680708793046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3916,7 +3916,7 @@ cord. . , y l&#x27;(V . ., v
 What would Senator Wilson of Massa­  
 chusetts respond to that?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1859050501:0505/pct:92.99713193116635,110.62535105785433,16.778202676864243,15.558884104100356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1859050501:0505/pct:69.77049964140569,82.97135367908632,12.586660291656706,11.673843849466392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3942,7 +3942,7 @@ and renewing irritations until It would kledle
 such mutual and mortal hatred an to reuder  
 separation urelershle to eternal dieoord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859050501:1110/pct:22.266165710895788,50.21478299511183,13.229187265176982,5.406606428677233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859050501:1110/pct:22.266165710895788,50.22465807534686,13.235778788478017,5.411543968794747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3971,13 +3971,13 @@ i o o eae an o a  o e an o a ae a o en e
   
 separation preferable to eternal discor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1859051201:0159/pct:168.3950196145318,78.4353828454557,70.81698789015863,23.136904001022625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1859051201:0159/pct:56.131673204843935,26.145127615151903,23.605662630052873,7.712301333674208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States democratic review_](https://archive.org/details/sim_united-states-democratic-review_1859-10_43/page/n5/mode/1up?view=theater)
+## [From _The United States Democratic Review (1856-1859)_](https://archive.org/details/sim_united-states-democratic-review_1859-10_43/page/n5/mode/1up?view=theater)
 
 #### 1859-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4237,7 +4237,7 @@ But tht
   
 fraternism of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:47.73250082155767,51.07412653446648,19.503779165297402,9.560906515580736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:47.74345492386899,51.081995593327036,19.503779165297402,9.560906515580736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4281,7 +4281,7 @@ upwards to our northern
   
 boundary, my onlv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:51.61025303976339,61.63833805476865,14.87019388761091,13.833805476864967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:51.62120714207471,61.63833805476865,14.87019388761091,13.837740006295247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4304,7 +4304,7 @@ now doubt it jnueh, and see the
 event at no great distance and the  
 •direct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:51.62668419323037,67.07979225684608,14.886625041077883,3.7299338999055713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:51.63763829554168,67.07979225684608,14.881147989922226,3.7378029587661317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4331,7 +4331,7 @@ decessors.
   
 ami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:51.7252711140322,73.31208687440981,30.200460072297076,11.532105760151087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn87058042:00279529340:1860082401:0214/pct:51.73074816518786,73.31208687440981,30.194983021141418,11.539974819011647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4380,7 +4380,7 @@ hope will signalize their epoch in future history
 as the counterpart of the model of their pre­  
 decessors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860090701:0484/pct:53.10892940626461,15.443322109988777,12.981143836683808,14.332210998877665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860090701:0484/pct:53.10892940626461,15.447063224841003,12.981143836683808,14.335952113729892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4431,7 +4431,7 @@ ers&#x27; sacrifices of life and fortune, and
 of rendering desperate the experiment  
 which was to decide ultimately whet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1860091901:0489/pct:69.56896551724138,66.65179069507977,12.614942528735632,19.625125516010264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1860091901:0489/pct:69.57854406130268,66.65179069507977,12.60536398467433,19.632563501803713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4455,7 +4455,7 @@ j will signalise their epoch in future history,
 ! as the counterpart of the medal of their pre­  
 decessors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860110601:0024/pct:44.23148724331052,17.50506563298388,14.01369010578718,5.153730948815082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860110601:0024/pct:44.23148724331052,17.510938830646346,14.017838622692388,5.153730948815082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4515,7 +4515,7 @@ son aga-nst human hope will signalize their epoch in fu­
 ture history as the counterpart of the medal of their prede­  
 cessors (Applaus .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861011101:0045/pct:15.821358129050436,51.02633423450486,11.017187940264863,2.2529288074496847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861011101:0045/pct:15.821358129050436,51.02633423450486,11.026580257349488,2.2562664797570173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4600,7 +4600,7 @@ our Northern boundary. My only comfort
 and  
 confidence is, that I shall not live to see this.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861022701:0199/pct:207.89031897034135,178.47266539034248,45.88696138780078,34.80110614762816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861022701:0199/pct:51.98712566470753,44.61816634758562,11.474951021550519,8.70027653690704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4669,7 +4669,7 @@ man hope will signalize their epoch in future
 history as the counterpart of the medal of  
 their predecessors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861052501:0886/pct:72.8643216080402,54.563297350343476,102.4407753050969,328.6695639983177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861052501:0886/pct:18.21608040201005,13.640824337585869,25.610193826274227,82.16739099957942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4781,7 +4781,7 @@ and of rendering desperate the experiment
 which was to decide ultimately whether man  
 is capable of sell government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861070601:0115/pct:32.332314331954684,13.487016428192899,30.048552418629743,81.26656067832539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861070601:0115/pct:32.34580111490739,13.487016428192899,30.05304801294731,81.27649708532061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4832,7 +4832,7 @@ J at no great distance, ancf the direct&#x27; cunse­
 f quence of this question.” Hence the em­  
 ■ phatic parting words to his Souther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016108:00415625649:1861072001:0015/pct:76.20626151012891,98.04582210242587,18.21362799263352,5.431266846361186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016108:00415625649:1861072001:0015/pct:59.07036490794044,75.99136580440762,14.115799990484799,4.209170351286425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4974,7 +4974,7 @@ nalize their epoch in future history, as the
 counterpart of the medal of their prede­  
 cossors.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861100401:0595/pct:330.31203566121843,232.78929569181003,49.10846953937593,61.81443905308043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1861100401:0595/pct:82.59334943340144,58.197323922952506,12.27939810514583,15.453609763270107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5120,7 +5120,7 @@ ment which was to decide ultimately
 whether man is capable of self-govern­  
 ment.&quot; Again, vol. 4, page 323 : &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862053101:0088/pct:14.227785613540197,27.73463209161511,11.230606488011283,20.086876398578386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862053101:0088/pct:14.241008462623414,27.73463209161511,11.226198871650212,20.086876398578386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5274,7 +5274,7 @@ human bope will signalize their epoch in.gnture
 history as the counterpart of the medal ot their  
 predecessors.” . . v » . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688258:1864033001:0247/pct:58.330708661417326,63.08243727598566,12.913385826771654,15.627240143369175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688258:1864033001:0247/pct:58.330708661417326,63.08641975308642,12.923884514435695,15.635205097570688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5299,7 +5299,7 @@ tions, until it would kindle such mutual and
 mortal hatred as to render separation preferable  
 to eternal discor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191411:1864092001:0283/pct:118.35205992509363,206.91125521897487,49.53183520599251,19.259127653904237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191411:1864092001:0283/pct:29.59494263638492,51.72781380474372,12.385858112854132,4.814781913476059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5434,7 +5434,7 @@ fore, the gold from tbo dross, restore to Him the
 former, and leave the latter to tbustunldltyof  
 sumo and tbo roguery of others of Ills Disciples.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881041801:0004/pct:59.003427366200896,84.20523138832998,13.103084629580806,7.44466800804829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881041801:0004/pct:59.01001845504877,84.22032193158954,13.109675718428685,7.4396378269617705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5481,7 +5481,7 @@ rate, therefore, the gold from the dross, restore to
 Him the former, and leave the latter to the stupidity  
 of some and the roguery of others of His disciples
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211101921:1881042101:0418/pct:147.30609828300769,20.26780931976433,90.23090586145648,363.6207820032137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211101921:1881042101:0418/pct:36.842884643861986,5.066952329941082,22.567747667703244,90.90519550080343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5582,7 +5582,7 @@ dering desperate the experiment which was to
 decide ultimately whether man is capable of  
 self-Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219915A:1893041601:0588/pct:92.61644451100794,105.58719243580101,38.640107832859066,19.941979155474375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219915A:1893041601:0588/pct:30.87214817033598,35.19573081193367,12.880035944286357,6.647326385158125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5614,7 +5614,7 @@ thet sith by law that holy inquiaition
 which they can now only infuse into  
 public opinio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899040501:1137/pct:77.72585669781931,41.68063704945516,34.11214953271028,20.054484492875105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899040501:1137/pct:25.915346663204364,13.893545683151718,11.373669176837184,6.684828164291702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5646,7 +5646,7 @@ atsisn by i ar uch Thry pamt tire
 which they can now only infuse into  
 public opinio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899040701:1175/pct:154.10216718266253,63.4953897736798,33.978328173374614,20.1173512154233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899040701:1175/pct:51.40717789827008,21.165129924559935,11.334882520010328,6.705783738474434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

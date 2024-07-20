@@ -103,7 +103,7 @@ persecution bring many wonderful things to pass.””—Jb.
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1847-08_6_2/page/n53/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1847-08_6_2/page/n53/mode/1up?view=theater)
 
 #### 1847-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -273,7 +273,7 @@ tti/act of suicide.&quot; A long paragraph, including these
 HAes, was left out, although your mode of citing them  
 reaves the impression that these alone were selected fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:33.61391694725028,5.780284134041861,15.58641975308642,4.099338466543759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:33.61391694725028,5.783899070961212,15.600448933782268,4.102953403463109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ I have not heard. They have been able, no doubt, to
 convince him of his mistake, and that his health will al­  
 low him to be alert and ?ctive.&#x27; You will not suffe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:33.866442199775534,43.606984058128184,15.516273849607183,3.4486498210606227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:33.866442199775534,43.606984058128184,15.520950243172466,3.4594946318186746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ tempestuous season, rather than meet their
 offended countrymen.”  
 What is to be Done With Them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624311:1861060601:0077/pct:63.298325290945215,75.66137566137566,13.866023275617371,8.299616142753397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624311:1861060601:0077/pct:63.298325290945215,75.66137566137566,13.87548490869524,8.299616142753397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ capable of doing what is now out of his
    power to acom plish,c. Surely such e­  
  peran  pressions as these give as an idea of the mane
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875080701:0134/pct:36.73749143248801,212.24471021159152,54.81836874571624,20.43238270469181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742095:1875080701:0134/pct:12.245830477496002,70.74823673719717,18.272789581905414,6.810794234897271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

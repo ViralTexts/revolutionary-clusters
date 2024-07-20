@@ -149,7 +149,7 @@ l-nming, mny he oquslly successful in restorin&#x27; agriculture to its
 primary dignity in tho i»yoa of men.”—JKrrtMo.t,  
 1 br g leave, through th* medium of yonp psp-r, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831031701:0406/pct:50.93872798719255,67.27730707579575,15.005093872798719,3.022670025188917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831031701:0406/pct:50.93131548311991,67.26960503720665,15.007760962359333,3.0261400496088533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ urn for dissipation threatened to make
 hem here as in Europe the sinks ol  
 oluntary misery.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kingjulius_ver01:data:sn93067668:00202193961:1886040601:0391/pct:65.88733720382865,28.960367604824814,17.40153773732936,20.045950603101666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kingjulius_ver01:data:sn93067668:00202193961:1886040601:0391/pct:65.89779800198755,28.960367604824814,17.39630733824991,20.053609036951944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ closing their academical education with
 f -mated with its solid charms, would  
 return to the farms of their fathers an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:0033289576a:1891120401:0537/pct:35.529690274215824,18.28291814946619,9.903333990925232,4.225978647686833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:0033289576a:1891120401:0537/pct:35.52268244575937,18.280207561156413,9.906311637080869,4.229058561897702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ Ik* -increased and that of misery dimin­
 ished.”  
 The &quot;first, duty of the trustees of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899070601:0492/pct:3.656126482213439,48.56328142136434,14.4433465085639,22.976529940776487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899070601:0492/pct:3.656126482213439,48.566937193829055,14.448836187966624,22.987497258170652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

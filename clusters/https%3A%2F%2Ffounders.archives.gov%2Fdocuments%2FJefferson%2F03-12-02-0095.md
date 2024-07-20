@@ -224,7 +224,7 @@ on the day of and day of
 in every year. The counties of  
 Goochland, Henrico, Hanover, Kin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010501:0012/pct:42.30483271375465,46.63100242007388,17.397769516728623,9.19628072856961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010501:0012/pct:42.29697082326705,46.62506367804381,17.400730966982593,9.199354729156054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ bounds, so designated as to comprehend
 each about the number of militia sudici­  
 ent for a company,” Arc.—They are t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021001:0323/pct:34.25910527191086,45.80457682528151,15.117245967071346,7.676474149412762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021001:0323/pct:34.25340871300299,45.79903147699758,15.120274914089347,7.679580306698951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ the latter, each person is to contribute to
 thecostin proportion to thetaxes they last  
 paid to the state—these contributions, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021001:0323/pct:34.30899717279228,53.40840295435283,15.16713786795277,8.306090325705291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021001:0323/pct:34.30329231792484,53.40193704600484,15.170158519011196,8.3091202582728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ and government of the pupils, to he un­
 der 1 lie control of the visitors, subject to  
 the revision ot the judge of the superio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021001:0323/pct:34.342258440046564,69.97215159220245,15.100615333444205,2.7121927594139725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021001:0323/pct:34.336548054539406,69.9636803874092,15.103647045782065,2.71589991928975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ navigation. Flic rest of the dormitories
 in the college, profits of boarding, «Vo.  
 «V&lt;\ to constitute a fund for each college
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021001:0323/pct:34.458672875436555,86.79016830124712,15.133876600698487,5.09746942729144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021001:0323/pct:34.452943132690386,86.77966101694915,15.13690278239663,5.1008878127522195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ subsequently, in the event of failure, at the time
 first appointed.  
 16. The said
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:2.873204247345409,40.139265903458046,15.787008119925046,30.30803729493686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:2.8727556596409056,40.134529147982065,15.78974759302628,30.308394304146017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ each district, shall notify the same to the °said
 , Visitors, and shall charge them with the oflire  
 of obtaining from (lie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:3.169893816364772,72.28844565089106,15.490318550905684,9.854832998937802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:3.169398907103825,72.27991503422233,15.493104345563362,9.85760365038156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ each pupil as the Visitors shall establish.
 23. The said Visitors shall be charged with •  
 the preservation and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:3.5915053091817613,3.4108344152012275,30.69956277326671,93.63861678272158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:3.590944574551132,3.410431909369837,30.699973978662502,93.63150027535205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ once in every year at least, visit the College of
 their district, enquire into the proceedings and  
 practice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:18.925671455340414,45.15519886698926,15.365396627108057,24.583972618907115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:18.92271662763466,45.149870191173,15.368201925578974,24.585005113681063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ I Estimate of the expenses, gross and annual of
 the 9 Colleges.  
 Surn in gross. annual, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:18.800749531542785,80.24312522129117,15.490318550905684,5.759471261654668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825020101:0037/pct:18.797814207650273,80.23365588860042,15.493104345563362,5.762725198646842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -610,7 +610,7 @@ ampton, Northumberland, Lancaster, Mathews,
 Gloucester, York, Elizabeth City, Warwick,  
 James City, New Kent, Charles City, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184649:1847031201:0240/pct:53.424062545243956,228.5088730122148,37.498190241783696,7.547822078820005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184649:1847031201:0240/pct:17.805442964678633,76.1608480239659,12.49758733835167,2.5156508046241886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -642,7 +642,7 @@ Powhatan, Cumberland, Buckingham. Ap
 pomattox, Campbell, Prince Edward,  
 Charlotte, Halifax, Pittsvlvania, Bedford
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851072801:0170/pct:6.989853438556933,268.9080378584546,45.94137542277339,36.516457126712815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851072801:0170/pct:1.7471350742062746,67.21751412429379,11.483186173210596,9.127824858757062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ Charlotte, Halifax, Pittsvlvania, Bedford
 Seventh District—Northumberland, Lan­  
 caster, Richmond, Westmoreland, Middlesex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348410:1853022101:0177/pct:48.91518737672584,30.864887522705043,15.088757396449704,1.0758697778398771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348410:1853022101:0177/pct:48.905541313350426,30.860575579770885,15.09071189114573,1.0792120704107293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ SepENTA DIstrict-Northumberland, Lancaster,
 Richmond, Westmoreland, Middlesex, King and  
 Queen, Essex, King George, Stafford, Caroline
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190923:1853022201:0176/pct:66.83956358433196,165.08224479922592,42.15703809694151,3.8824383164005805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190923:1853022201:0176/pct:22.279854528110654,55.02741493307531,14.052346032313837,1.2941461054668602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ NiNth DISTRIeT. City of Alexandria, and
 counties of Fairfax, Prince Williamn, Fanquier,  
 Loudoun, Jeffersin, Berkley and Rappabanr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853022301:0673/pct:16.055138860733834,189.6330144223904,70.7277518751267,28.630586891332285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853022301:0673/pct:4.012971220105391,47.40148486579098,17.678354276449127,7.156624785836665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -808,7 +808,7 @@ or acquired.-W&#x27;ritIngs, POt 7, p.
 What value the endorsement of Joffer­  
 son gives to the doctrine of the Kno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855053001:0296/pct:259.98433829287393,235.22654754307595,44.94909945184025,23.994894703254626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855053001:0296/pct:65.0088114352849,58.80663688576899,11.239475230076366,5.998723675813657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -897,7 +897,7 @@ composed of the counties of Elizabeth
 city, WArWICK, York, JAMes ciTY, New  
 Kent, Charles city and the city of wi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860101801:0375/pct:133.24579020546886,53.352575488454704,35.56310829599877,4.273978685612788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860101801:0375/pct:44.40840284213778,17.78221778221778,11.852538358562455,1.4245014245014245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -925,7 +925,7 @@ Nortolk city, Norfolk county, city of Ports
 mouth, Nansemond, Southampton, Sussex,  
 Greenesville, Surry, Dinwiddie, city of Per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869052401:0507/pct:209.18546535188437,103.39985218033999,40.76725651762799,19.05949741315595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869052401:0507/pct:69.72848845062812,34.46661739344666,13.589085505875996,6.353165804385316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -967,7 +967,7 @@ King George.
 Stafford.  
 Prince William
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742034:1872112301:0508/pct:87.73853024766545,10.783138086892354,58.84422790634727,282.9628263075362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742034:1872112301:0508/pct:29.246176749221817,3.594379362297451,19.61474263544909,94.32094210251206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +988,7 @@ the erection, preservation, and repair
 of ;be buildings of the institution and  
 tho care of the property. It shall di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hansel_ver01:data:sn84024718:00280762295:1896030401:0051/pct:50.669678876875906,89.15411923124006,10.924640955300951,3.0970743053005263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hansel_ver01:data:sn84024718:00280762295:1896030401:0051/pct:50.67774729707923,89.16330028155221,10.924640955300951,3.0940139551964743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

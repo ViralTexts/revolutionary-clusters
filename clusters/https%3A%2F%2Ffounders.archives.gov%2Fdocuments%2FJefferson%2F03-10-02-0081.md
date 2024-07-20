@@ -70,7 +70,7 @@ lfie law should enforce on him. \\ hen th laws
 have declared and enforced all this, they have  
 fulfilled their functions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836071601:0129/pct:2.059187577360189,44.12213740458015,17.801282772589175,6.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836071601:0129/pct:2.058955895589559,44.118769559575604,17.803030303030305,6.002086354731191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ instructions,” .
 ‘ed that on entering into socicty, we give  
 up any natural right.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836072801:0130/pct:53.06470889533891,5.791697738006463,15.332081270274884,14.926671638081034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836072801:0130/pct:53.07609128677935,5.791697738006463,15.326390074554665,14.934957328693347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ is all the law should enforce on him. When&#x27;
 thé law “.us declared and entorced all this, they  
 have fulfilled their functions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1837090201:0311/pct:81.05726872246696,4.501110789143244,14.590842344146308,7.3601854534917415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1837090201:0311/pct:81.06171850665243,4.501110789143244,14.595292128331776,7.363405132167809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ they have fulfilled their functions.
 &quot;3d. That the idea is quite unfounded that on en­  
 tering into society we give up any natural right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837121601:0182/pct:33.53313353313353,62.639204885642435,15.9007659007659,5.663992336247156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1837121601:0182/pct:33.53313353313353,62.647187961521574,15.906315906315907,5.667983874186724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ this, they have fulfilled their functions.&quot;
 &quot; And that the true foundation of republican  
 government is the equal rights of every citizen i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839090701:0137/pct:8.928571428571429,48.10771470160117,23.504983388704318,10.480349344978166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839090701:0137/pct:6.710991065863287,36.0844250363901,17.63972574277997,7.860262008733624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ this tliev have fulfilled their functions, and the idea
 is quite&#x27;unfounded, that on entering into society we  
 .rive up any natural right.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840051901:0483/pct:31.901565995525726,64.59171359613838,16.226696495152872,7.592518101367659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840051901:0483/pct:31.901565995525726,64.59171359613838,16.231667909520258,7.602574416733709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ filled their functions, and the idea is quite unfoun-
 led, that on entering into society we give up any  
 natural right.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0027/pct:191.2310286677909,66.69495120916419,59.527824620573355,33.20605289209447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840061901:0027/pct:47.817836812144215,16.673737802291047,14.885093822475227,8.301513223023617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ ought to restrain him.&quot; Hence, if the doctrine be true
 that the people ure the reservoirs of all power, and  
 they, in their individual capacities have no right t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1846012901:0396/pct:28.22761194029851,36.95187165775401,18.899253731343283,4.491978609625669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1846012901:0396/pct:21.1832773422919,27.71390374331551,14.184397163120567,3.3823529411764706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ and duties, to take none of them from ns.&quot;
 To say nhing of our uatural nighls  
 her than those enumesated in the ronst
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022366:0020029015A:1853110401:0180/pct:24.704025256511443,280.7155852031534,43.330702446724544,17.465130382049725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022366:0020029015A:1853110401:0180/pct:6.178444532175286,70.17889630078835,10.836952230556653,4.366282595512431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ of them from us.&quot;
 To say nothing of our natural rights,  
 other than those enumerated in the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853110901:0815/pct:331.9066147859922,159.39990623534928,44.43579766536965,16.940146897952804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1853110901:0815/pct:83.02511193303485,39.84997655883732,11.115437025501265,4.235036724488201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ only our natural rights and duties, to take none
 of them from us.&quot;  
 To say nothing of our natural rights othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1853111001:0601/pct:59.27873779113448,43.235545428652806,103.23065364387678,342.2386784391911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1853111001:0601/pct:14.81968444778362,10.808886357163201,25.807663410969194,85.55966960979778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -759,7 +759,7 @@ whole, and continues as follows:
 &quot;Do the speeches of Wilson, Palfrey, Bur­  
 lingame and others of that State which we
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1853111101:0819/pct:22.605099931082012,343.4275270631239,99.31082012405238,26.093069028539293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:0028077697A:1853111101:0819/pct:5.652248836808547,85.85688176578097,24.831983456832674,6.523267257134823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ war, they have the highest opinion, but of all
 things, they least think of subjecting them  
 selves to the will of one man.&quot; Whereas th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn83045160:0020029290A:1858060401:0378/pct:146.81564245810057,116.67726213180758,37.98882681564246,13.265522356431447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn83045160:0020029290A:1858060401:0378/pct:36.709037575080316,29.169315532951895,9.498533314708759,3.3163805891078617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -918,7 +918,7 @@ and this is all the law should enforce on him. When
 the laws have declared and enforced all thin, they  
 have fulfilled their functions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293265:1858080101:0109/pct:16.56210790464241,207.70144996434513,50.56461731493099,19.633943427620633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293265:1858080101:0109/pct:4.141176470588236,51.92536249108628,12.64313725490196,4.908485856905158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -984,7 +984,7 @@ enforced all this, they have fulfilled their
 functions. ; ,. . ;  
 4.. We; declare unqualified hostility t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1858090901:0373/pct:93.89097744360902,89.56023651145603,16.30639097744361,12.583148558758316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1858090901:0373/pct:70.42650687345788,67.17479674796748,12.231230172717659,9.432742054693275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1011,7 +1011,7 @@ law should enforce on him. When the
 laws have declared and enforced all this  
 they have fulSl&#x27;ed tSeir functions.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1858091601:0390/pct:14.821314613911934,86.46382691007437,15.587109125717932,8.289384719405003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn85026031:00280774807:1858091601:0390/pct:11.123523779125438,64.85463150777552,11.698052984360038,6.220419202163624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1105,7 +1105,7 @@ And yet Mr. Mills quotes from high
 democratic anshorities, Jefferson, Sey­  
 mour and Cleveland, to show tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297167:1887050901:0782/pct:30.28747433264887,158.84718498659518,67.24845995893224,38.8739946380697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297167:1887050901:0782/pct:7.575757575757576,39.711796246648795,16.82074987159733,9.718498659517426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1150,7 +1150,7 @@ had a law then that you folks will
 come to yet, if you don&#x27;t stop it. They  
 had a law to provide for christia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297167:1887050901:0783/pct:16.804979253112034,303.6925647451963,68.87966804979253,57.47702589807853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn83025733:00200297167:1887050901:0783/pct:4.2034250129735335,75.92314118629908,17.228853139595227,14.369256474519633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,7 +1187,7 @@ quite unfounded that on entering into
 society we give up our natural right.&quot;  
 &quot;Horatio Seymour, as Governor o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887091101:0604/pct:57.71103896103896,265.7769304099142,47.646103896103895,41.83576195015661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887091101:0604/pct:14.42775974025974,66.44423260247855,11.911525974025974,10.458940487539152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1211,7 +1211,7 @@ umpirage of an impartial third.&quot;
 That third, in this rase, is, aud has  
 been for more than a century, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020424:1887092201:0418/pct:28.21592649310873,97.04586680487172,16.347626339969374,7.488986784140969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020424:1887092201:0418/pct:21.175569596017613,72.79087846592381,12.272640245069883,5.623218450375745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1248,7 +1248,7 @@ JOHN QTjrNCY ADAMS.
 sonal ireedom. Self-government is the  
 foundation of all our political and socia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889061101:0437/pct:36.11676849966056,65.77236896694787,15.020366598778004,14.258055593970406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280027:1889061101:0437/pct:27.101375445746307,49.329276725210896,11.275258957378163,10.703913704881758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1305,7 +1305,7 @@ under the natural duty of contributing
 to the necessities of society and this is  
 all the law should enforce on him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550407:1890090301:0224/pct:34.151785714285715,53.78866514428067,10.128348214285714,1.5673655802366617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550407:1890090301:0224/pct:34.147021899846564,53.78308251167618,10.131585065327569,1.5706625151357896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1390,7 +1390,7 @@ idea is quite unfounded that on entering
 into society we give up any natural  
 right.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523544:1891051401:0288/pct:43.18960593946316,10.774013722126929,12.478583666476299,9.165951972555746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jamaica_ver01:data:sn97065761:00279523544:1891051401:0288/pct:43.19912430991814,10.781160663236134,12.469065296021322,9.162378502001143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1411,7 +1411,7 @@ when legally required This having been
 accomplished the laws have fulfilled their  
 function that all legislation should seek t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536640:1891052601:0619/pct:166.74737691686843,231.6817038899571,51.49313962873285,12.128383375240348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536640:1891052601:0619/pct:41.68684422921711,57.92042597248928,12.873284907183212,3.032095843810087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1452,7 +1452,7 @@ ignt
 It is this creed which tho Democrats  
 from one end of Utah to the other ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048479:1891081201:0596/pct:44.4234404536862,120.63963449457452,19.486452425960934,19.497430039977157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048479:1891081201:0596/pct:29.624960605105578,80.430230344565,13.000315159155374,12.998286693318104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1565,7 +1565,7 @@ abors of our legislators and lighten
 equally our munioipal codes.&quot;  
 &quot;Nothing is unchangeable but the in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_plasse_ver01:data:sn85042461:00280769629:1895082401:0672/pct:5.021409108602569,65.27737438280569,12.242117555469054,9.003775776938717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_plasse_ver01:data:sn85042461:00280769629:1895082401:0672/pct:5.036006228104321,65.28100493755446,12.227520435967303,9.007406331687482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1602,7 +1602,7 @@ and the idea is quite unfounded that
 upon entering soclety we give up any  
 natural rightolation indeed can ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:0020653638A:1895082701:0771/pct:54.27594070695553,314.7405416580525,51.31128848346636,40.16952656605334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:0020653638A:1895082701:0771/pct:13.568985176738883,78.68513541451313,12.82782212086659,10.042381641513336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1631,7 @@ the idea is quite unfounded that on
 entering into society we give up any  
 natural righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:0020653638A:1895082801:0778/pct:21.13821138211382,185.89690721649484,52.961672473867594,25.237113402061855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:0020653638A:1895082801:0778/pct:5.289160127869805,46.47422680412371,13.251961639058413,6.309278350515464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1675,7 +1675,7 @@ to light every year; but the average tax­
 payer keeps right on paying bis money  
 into the purlio treasurj without eve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769630:1895100301:0396/pct:19.66922622563497,24.801080918780965,12.148060641858633,14.172046239303407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769630:1895100301:0396/pct:19.674148454420163,24.804834108992644,12.162827328214215,14.172046239303407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1703,7 +1703,7 @@ clared and enforced all this, they have
 &quot;right&quot;  
 No writer seems to have more full
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760523:1895100301:0641/pct:27.440119760479043,87.29365768896612,18.42814371257485,11.783231972198088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760523:1895100301:0641/pct:18.296152118580626,58.19939183318853,12.292259320257523,7.851867940920938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1729,7 +1729,7 @@ ntering society we give up any natural
 ights.&#x27; The Declaration of American In- e  
 lependence, the corner stone of our repub- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655077:1896072101:0533/pct:16.11248673505483,19.678020223523152,14.184648036788115,5.441724321447579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655077:1896072101:0533/pct:16.12575168022639,19.68134646088345,14.197912981959675,5.458355508249069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1749,7 +1749,7 @@ is to declare and enforce only our natural
 rights and duties nnd to take none of them  
 fro?n us. The idea is ;uitc unfounded
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665611:1896072101:0208/pct:111.62971175166297,62.168999831337494,16.74057649667406,2.9262944847360433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665611:1896072101:0208/pct:83.74362386338434,46.62674987350312,12.563761366156577,2.201045707539214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1805,7 +1805,7 @@ j is quite unfounded that on entering into
 society we give up any natural right, and  
 which had been related in one form o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665635:1896111101:0123/pct:92.10286754665452,125.08526603001364,17.182521620391444,1.8417462482946794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665635:1896111101:0123/pct:69.09856590029592,93.81821282401091,12.884133849305714,1.3813096862210095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1823,7 +1823,7 @@ declare and enforce only our natural
 rights and duties, and to take none of  
 them from us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn85038119:00237286406:1897081201:0459/pct:111.23837981407702,26.85197155785391,14.093625498007968,2.4305106658047833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_echo_ver01:data:sn85038119:00237286406:1897081201:0459/pct:83.47450589603056,20.142210730446024,10.579637933898024,1.8228829993535876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1844,7 +1844,7 @@ them from us.
   
 A box of nlentil Sulphur Soap U equivalent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1897081201:1090/pct:2.1692745376955904,30.97549138558602,15.860597439544808,3.081776267896142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1897081201:1090/pct:2.1811284969179705,30.97549138558602,15.848743480322428,3.0898649195179164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1864,7 +1864,7 @@ them from us.
   
 A box of Glenn&#x27;s Sulphur Soap equivalent to man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1897081301:0407/pct:4.840913527230138,37.915531335149865,15.38161233652157,3.2833787465940056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1897081301:0407/pct:4.241389126103046,33.17571326392752,13.475661827497865,2.880871016450767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1883,7 +1883,7 @@ declare and enforce only our natural
 rights and duties, and to take none of  
 them from us.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1897082001:1099/pct:3.9293598233995586,32.64338758097646,13.509933774834437,2.1488386790962237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1897082001:1099/pct:3.9348785871964678,32.65128772317902,13.520971302428256,2.160688892400063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1902,7 +1902,7 @@ natural rights and duties, and to take
 none of lliein from us.  
 &quot;Tho statement that Gen. Hamp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1898033101:0642/pct:83.80619012527634,93.24945887445888,13.872512896094326,4.234307359307359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1898033101:0642/pct:62.88241798746775,69.94047619047619,10.412827128639883,3.179112554112554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1922,7 +1922,7 @@ rights and duties, and to
 take none of them from us.  
 ■ ■— 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1898041501:0725/pct:15.426078028747433,78.86780811352769,15.965092402464066,4.750886935060929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1898041501:0725/pct:15.44318959616701,78.87294976605482,15.965092402464066,4.761170240115173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2015,7 +2015,7 @@ to declare and enforce only our
 natural rights and duties, and to  
 take none of them from us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:81.48571428571428,22.281850381023936,29.1,104.73328324567994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:61.12301757393914,16.71138778576795,21.831690241463065,78.5553289685521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

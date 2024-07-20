@@ -128,7 +128,7 @@ saying) between the cup and the lip, I choose to
 make the exchange of carpets myself, sinco I find you  
 will not do me the honour to accept mine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877033001:1037/pct:196.47979139504562,74.82469249339005,53.40612777053455,95.32130129899988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877033001:1037/pct:65.49326379834855,24.941564164463347,17.802042590178182,31.773767099666628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ vulvar saying) between the cup and ihg iip, I
 ,f ajy.xell, since 1 liud you will nut d ) me the hon  
 it --r to accept mine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:0041566378A:1877033101:0260/pct:80.21261516654855,39.26923439118561,18.313253012048193,50.33430643186741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:0041566378A:1877033101:0260/pct:80.21261516654855,39.27551244624415,18.31797779352705,50.33116740433814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ lip, I choose to make the exchange of car,
 pets mysetf, since I find you will not do me  
 the honour to accept mine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742125:1877040201:0323/pct:70.79201375115694,80.64024390243902,55.96985323284411,160.2941176470588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742125:1877040201:0323/pct:23.597337917052315,26.880081300813007,18.65661774428137,53.431372549019606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ adieu to this till happier times, if I ever
 shall see them.&quot;  
 There has been evidence found within 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742125:1877041201:0359/pct:45.97685862481713,229.064039408867,42.74504588376114,41.917533296843644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742125:1877041201:0359/pct:15.32561954160571,76.35467980295566,14.248348627920379,13.97251109894788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ merit and be a messenger of their Love
 w uer  
 cannot easily forgive the unseaso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn86091346:00415668405:1877041401:0078/pct:4.489795918367347,71.5,20.178571428571427,54.839285714285715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn86091346:00415668405:1877041401:0078/pct:3.3699259637477663,53.625,15.164666836864948,41.142857142857146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ change of carpets myself, since I find
 you will not do me the honour to accept  
 mine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn86091346:00415668405:1877041401:0078/pct:23.903061224489797,17.928571428571427,19.489795918367346,27.839285714285715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_dayton_ver01:data:sn86091346:00415668405:1877041401:0078/pct:17.947408731171816,13.446428571428571,14.628542251723257,20.892857142857142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ guess my meaning—but adieu to this
 till happier times, if I shall ever see  
 them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1877050301:0455/pct:32.31203007518797,16.76179869135459,12.406015037593985,18.056522344424334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1877050301:0455/pct:32.30595752678068,16.75946547884187,12.40838188310468,18.057488864142538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

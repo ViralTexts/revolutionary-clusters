@@ -234,7 +234,7 @@ Arthur Young in his travels notices the
 Maison Quarree in the following terms:  
 &quot;It is beyond all expression the most light
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654917:1893111601:0411/pct:56.38471291432712,52.666493236212276,13.982974098895127,5.983350676378772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654917:1893111601:0411/pct:56.39376924470205,52.67299687825182,13.996558594457525,5.980098855359001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ cashington, but that at Richmond.
 be no doubt at all of this.  
 ompares pic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031108:1893111801:0621/pct:46.133053010962605,47.496559754419394,35.41072233068028,35.20694400338732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031108:1893111801:0621/pct:15.377684336987535,15.832186584806465,11.80357411022676,11.735648001129107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ parts would not have to be as much
 downward as the course of the rid. If it  
 followed the course of the rib it woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175031194:1895110601:0312/pct:88.50325379609545,11.688014638609332,80.66077089938261,242.98947849954254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175031194:1895110601:0312/pct:29.501084598698483,3.896004879536444,26.886923633127537,80.99649283318085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -100,7 +100,7 @@ set up for independence.&quot; Franklin replied,
 Americans and no such idea will ever enter  
 their heads, unless you grossly abuse them.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:30.8825612693016,83.13659359190557,12.551352882844595,4.2158516020236085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:30.8825612693016,83.13659359190557,12.551352882844595,4.227093872962338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ heads, unless you grossly abuse them.&quot;
 “ that is one of the main causes I see will happen,  
 and will produce the event.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860050501:0001/pct:31.21437208498877,19.573178431620153,11.85006045949214,5.240560676853138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860050501:0001/pct:31.21437208498877,19.582649324409648,11.854378994645016,5.234246748326809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

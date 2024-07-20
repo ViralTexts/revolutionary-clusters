@@ -104,7 +104,7 @@ I now or hereafter shall kuow tube formed
 against this or any of the United States of  
 America.&#x27; And the form of the said certi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861101201:0355/pct:29.075288265882886,37.39114981339968,13.565453312231517,8.761329305135952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190686:1861101201:0355/pct:29.092245082523174,37.39559267815888,13.565453312231517,8.761329305135952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ iorous conspiracies which I now or ber
 shall know to be formed against this  
 or any of the United States of America.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033708:00200293757:1862042001:0030/pct:268.08051761322787,279.18144611186904,55.283968368080515,31.541609822646656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85033708:00200293757:1862042001:0030/pct:67.03217688297681,69.79536152796726,13.823476541434477,7.885402455661664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ will make known to some one justice of
 the peace, for the United States, all trea­  
 sons, all treacherous conspiracies whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035370:1883012801:0235/pct:15.967940813810111,21.5979609929078,13.270653514180024,7.280585106382978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035370:1883012801:0235/pct:15.973078503904645,21.605348699763592,13.275791204274558,7.276891252955083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ which I now know or hereafter shall know
 to be formed against this or any of the  
 United States of America, so help me God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562394A:1894080401:0145/pct:48.668233450842145,57.654161276412246,11.26126126126126,7.8050884001724885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562394A:1894080401:0145/pct:48.668233450842145,57.654161276412246,11.26126126126126,7.809879737434718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

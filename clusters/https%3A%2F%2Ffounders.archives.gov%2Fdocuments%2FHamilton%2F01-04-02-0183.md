@@ -537,7 +537,7 @@ fot toe nation d r.det s, and will or. rev.ly e-j
 (•sound the alarm to the people and tint &#x27;uUq  
 |-tv he tur V tier, h.i^*, neoe *uiv. &gt;h arm &lt;j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812020101:0333/pct:23.160813308687615,78.8102261553589,17.985212569316083,9.04621435594887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812020101:0333/pct:23.15653298835705,78.80054073983041,17.988049035914496,9.04919913153906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ I AnOtldl. if anvthilltr him. ___ . _ _I
   
 •ilann 10 People, and not only become th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826032401:0390/pct:22.057888040712466,32.38933841028082,15.18765903307888,4.1051880057115655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826032401:0390/pct:22.05438066465257,32.38548483045806,15.190544336672497,4.108665476898671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ pears, to -ound the alarm to the people, and not
 only t° he the voice, hut if necessary, the Alt_i  
 o! ’heir discontent. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828121301:0280/pct:83.40733432001315,57.06357823621667,15.309981910869922,5.127277114247798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828121301:0280/pct:83.39362051956593,57.05669481302775,15.312945303080127,5.130679533574588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ il any thing improper appears, to sound the alarm to tlie
 i eople, and not only to be the voice, but, if necessary, the  
 arm of their discontent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835120801:0240/pct:3.7788274520700194,49.311023622047244,15.018060572381216,8.1583552055993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835120801:0240/pct:3.778302542019725,49.305631492618915,15.020604713617631,8.161108073628577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ thin&quot; improper appears, to sound the alarm to the m
 | abm of their discontent. ^  
 &quot;A&quot;ain says the same authority? the 1 !?&#x27;??! ra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1842011301:0589/pct:83.24116743471582,50.48454554728144,15.8678955453149,6.804039579720493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1842011301:0589/pct:83.24116743471582,50.491346186541534,15.873015873015873,6.804039579720493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ merous as lo hazud ils liberty, this is one of
 those calamities for which there is neither  
 preventive nor cure. — FedtralUl No. XA \ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861102401:0898/pct:31.074380165289256,4.726401278125416,12.672176308539944,4.193849021435228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861102401:0898/pct:31.08356290174472,4.7330581813340435,12.667584940312214,4.197177473039542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ this is one of those calamities for which there is
 neither preventive nor cure.&quot;—Federalist, .Vo.  
 XXVI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1861110201:0430/pct:23.34474885844749,7.497387669801463,14.76407914764079,4.153605015673981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1861110201:0430/pct:23.349505327245055,7.497387669801463,14.76407914764079,4.166666666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -886,7 +886,7 @@ but the arm of their discontent.”
 Says Hamilton again, in No. 16:—  
 “Whoever considers tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn88065733:00415625649:1862071201:0121/pct:78.21116341627437,17.5947187141217,22.775162519614437,7.390929965556831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn88065733:00415625649:1862071201:0121/pct:60.626592541116516,13.643272902532162,17.64535557099838,5.731657583509436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +940,7 @@ the passage of the Bill of Rights. The fear
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1864-09_6_3/page/n112/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1864-09_6_3/page/n112/mode/1up?view=theater)
 
 #### 1864-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -978,7 +978,7 @@ keeping a standing army within the King­
 dom, in time of peace, is against law; it  
 is the opinion of this town, that the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774741:1867081901:0338/pct:129.57550452331245,80.24316109422493,48.086290883785665,10.638297872340425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774741:1867081901:0338/pct:32.39951278928137,20.060790273556233,12.023664520619453,2.6595744680851063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1064,7 +1064,7 @@ To these authorities may be added the il
 lustrious name of Story, who, in his Com­  
 mentaries, says
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1877110901:0334/pct:74.75582268970699,183.64289994008388,49.88730277986476,33.97243858597963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1877110901:0334/pct:18.688955672426747,45.91072498502097,12.47182569496619,8.493109646494908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1084,7 +1084,7 @@ foot, to come to a new resolution on the point and to
 declare their sense of the matter by a fermal vete in the  
 face of their consuthents
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1877111701:0372/pct:28.44175491679274,269.3497522150473,49.62178517397882,7.38849677128698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1877111701:0372/pct:7.114474929044466,67.33743805376183,12.412488174077579,1.847124192821745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1138,7 +1138,7 @@ clare their sense of the matter by a formal vote in the
 e o o a e e i i o o e  
  any such deliberation on the propriety o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533511:1878060901:0324/pct:0.5363984674329502,302.14030915576694,69.04214559386973,20.03567181926278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533511:1878060901:0324/pct:0.13415101571483326,75.53507728894174,17.267152165580683,5.008917954815695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1160,7 +1160,7 @@ has been regulaily repeated in the
 the Mutiny Act, passed for the first  
 time in 1GS8, for one year only, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_gold_ver01:data:sn82016412:00294551992:1888072301:0085/pct:27.606901725431356,56.32331902718169,16.054013503375845,7.081545064377682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_gold_ver01:data:sn82016412:00294551992:1888072301:0085/pct:20.709060213843557,42.246065808297566,12.042768711311199,5.3218884120171674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1191,7 +1191,7 @@ hended. The citizens of Amarlca have
 too much discernment to be argued into  
 anarchy.&quot; (Better give it up, Mr. Bryan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899111001:0503/pct:177.33313644418192,225.55020632737276,38.17188422917897,21.492434662998626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199665:1899111001:0503/pct:59.11104548139397,75.18340210912426,12.723961409726325,7.164144887666208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

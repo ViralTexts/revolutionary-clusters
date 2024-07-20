@@ -652,7 +652,7 @@ from its source t» the ocean, shall forever
 remain free and open to the subjects of G  
 Britain” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012101:0329/pct:58.30826402406654,66.67080282913513,17.076623606441338,2.2583447077801218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012101:0329/pct:58.29794762915782,66.66253101736973,17.079499882047653,2.262200165425972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -822,7 +822,7 @@ n-er to the 15 deg. of north latitude, i hence
 by a liue due west oil said latitude until it  
 strikes tlio liver Iroqm.is or Cataiuqua—i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818111701:0224/pct:20.56842451125349,40.364770818334534,14.604895679316577,5.027597792176626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818111701:0224/pct:20.56504599211564,40.35992801439712,14.607971966710469,5.030993801239752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ venience, as may promote and secure to
 both perpetual peace aod harmony.” The  
 solemn profession here recited regards on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823072901:0489/pct:36.46112600536193,70.27256336833175,17.40840035746202,7.986000636334712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823072901:0489/pct:36.45461043602573,70.26511134676564,17.4112461281868,7.988688582537999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -954,7 +954,7 @@ wver, as we find it laid down in our most
 authentic maps, and ranning &amp; line direct.  
 ly north to the highlands described in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1827112901:1349/pct:7.061933534743202,7.424540302995259,17.88141993957704,10.466057592228518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1827112901:1349/pct:7.074521651560927,7.432250106009792,17.875125881168177,10.469912493735785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1166,7 +1166,7 @@ line in a southwesterly direction, through
 the region enclosed by the valleys of the St.  
 Johu and Penobscot rivers. The Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839022701:1027/pct:8.2572159298502,41.92059095106187,14.4318597004019,15.591610605461021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839022701:1027/pct:8.2572159298502,41.92059095106187,14.4440384849592,15.60040452007211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1189,7 +1189,7 @@ the river St, Lawience, from those which fall into the At­
 lantic Ocean, to the Northwesternmost head of the Connec­  
 ticut river,” &amp;ec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839030501:0246/pct:51.755791927728396,66.76693289077896,14.585458254407694,3.599211700031117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839030501:0246/pct:51.76550585263976,66.7738478027867,14.595172179319054,3.595754244027245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1309,7 +1309,7 @@ the aforesaid highlands which divide the rivers
 that fall into the Atlantic Ocean from those which  
 fall into the River St Lawrence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839031601:0036/pct:78.56848184818482,8.780841799709725,23.019801980198018,4.716981132075472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839031601:0036/pct:58.96800825593395,6.589259796806966,17.275541795665635,3.541364296081277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1339,7 +1339,7 @@ which divide the rivers that fall into th­
 Atinntic Ocean, from those which fall into  
 tite River St. Lawrence. In Jay&#x27;s treaty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288336:1839032801:0030/pct:50.562409288824384,17.81211372064277,15.820029027576197,4.425216316440049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288336:1839032801:0030/pct:50.568456700532174,17.820354346930365,15.820029027576197,4.421096003296251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1375,7 +1375,7 @@ SftEaine Boundary.
 source of tho St. Croix, and then run the  
 lfne in a southwesternly direction, throug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1839033001:0420/pct:26.963220675944335,22.261306532663315,48.086481113320076,105.69514237855947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1839033001:0420/pct:20.243720467545387,16.700167504187604,36.08555085799552,79.27973199329983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1599,7 +1599,7 @@ Lake Ontario,&quot; dte:
 The next is the definitive treaty of peact  
 between the two countries, signed at Pari
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863092:1841031001:0090/pct:3.0350499314666144,64.81041171317733,19.013119248090856,12.30133900638218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863092:1841031001:0090/pct:3.0350499314666144,64.81041171317733,19.026173226290712,12.309681725274267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1674,7 +1674,7 @@ of St. Mary&#x27;s river to the Atlantic ocean.
 These were the limits. Now, Sir, take the map, and  
 run your eye over it, and you will observe that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842052401:0109/pct:51.21165644171779,45.00151011778919,16.303680981595093,8.658008658008658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842052401:0109/pct:51.21165644171779,45.0082217524078,16.324130879345603,8.658008658008658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1703,7 +1703,7 @@ St. Lawrence Iroin those which fall into
 the Atlantic ocean, to the northwestern­  
 most head of Connecticut river.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1842072101:0031/pct:9.287257019438444,49.529780564263326,13.840892728581714,8.633751306165099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1842072101:0031/pct:9.285585747705596,49.52331200208959,13.844400455881472,8.63697705802969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1725,7 +1725,7 @@ divide the rivers which flow into the At­
 lantic ocean, from those which fall into  
 the river St. Lawrence.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1842072101:0031/pct:9.269258459323254,58.868861024033436,13.714902807775378,4.571577847439916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1842072101:0031/pct:9.267590426489113,58.86117278307431,13.718433207366084,4.575334116930042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1857,7 +1857,7 @@ If the third article of the treaty of 1794 were now in force, the objectio
 Article VII. * * * All prisoners on both sides  
 shall be set at liberty, and his
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860122001:0601/pct:15.877556858818481,26.712948988831876,11.114289801172937,0.5634369654894859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860122001:0601/pct:15.88232489391122,26.712948988831876,11.128593906451151,0.5701445484119797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1879,7 +1879,7 @@ garrisons, and fleets from the said Uailed Slates,
 and from every port, place and barber, within th  
 sar.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061076:00200293897:1861022201:0860/pct:75.92592592592592,16.951305575158788,16.9811320754717,4.897671136203246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061076:00200293897:1861022201:0860/pct:56.98304492221639,12.717007762879323,12.74252753015207,3.669724770642202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1924,7 +1924,7 @@ Justice of New York, Minister Plenipo
   
 tentiary to Spain, one of the commission.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1864121501:1106/pct:167.29304215337734,57.151947060320694,41.81479600474014,11.580554848561976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1864121501:1106/pct:55.764347384459114,19.0506490201069,13.93826533491338,3.8601849495206584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1981,7 +1981,7 @@ cle referred to the fisheries, and is as fol­
 lows:  
 Art. 3.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1871021701:0027/pct:72.3994452149792,317.70138532580813,39.25104022191401,26.321190354027706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1871021701:0027/pct:18.0998613037448,79.42534633145203,9.812760055478503,6.580297588506927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2034,7 +2034,7 @@ the people of both countries were accus­
 tomed to fish, with the privilege of drying  
 and curing. This gave us all the right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895175:1871051301:0505/pct:5.197698162242435,48.422871957367136,12.975682197883794,12.948293244994959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895175:1871051301:0505/pct:5.196733481811433,48.41589861751152,12.977913882702302,12.950028801843319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2133,7 +2133,7 @@ ginia, North Carolina, South Carolina, and
 Georgiato be free and sovereign and inde­  
 pendent States.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766409:1881102201:0176/pct:49.097414213693284,77.82463103063375,14.246218897381688,4.154781098846583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766409:1881102201:0176/pct:49.097414213693284,77.82876514117987,14.257060768688676,4.154781098846583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2159,7 +2159,7 @@ pendent States.&#x27;
 There are 390 female physicians in  
 America, and more are coming,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151283:1881102801:0464/pct:39.084791386271874,90.58323207776428,10.417227456258411,4.79951397326853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151283:1881102801:0464/pct:39.084791386271874,90.58660726339949,10.426200089726334,4.8028891589037395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2189,7 +2189,7 @@ less than tw days after bl. relarti be wss selaed aud
 Imprisoned In tbe gaol In said coanty of Worcester,  
 under tbo pretence of being brought to trial, in con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777407:1883060801:0355/pct:63.923816568047336,18.52258684607991,14.404585798816568,2.3479335438692845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777407:1883060801:0355/pct:47.965223825379205,13.89537278593986,10.802811690714021,1.7712481120417412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2211,7 +2211,7 @@ wish to restore&quot; was the avowed mo­
 tive and desire of the negotiators of  
 the first Fisheries Treaty between th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479342:1888032201:0526/pct:5.064982387950929,60.96690147640645,10.457913275841127,3.9081347100260544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479342:1888032201:0526/pct:5.07307988177659,60.973334619962046,10.461962022753958,3.9081347100260544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2254,7 +2254,7 @@ peace.&quot; but the tr-aty. it was declared,
 peace shall be agreed- upon belwe: n Great  
 Britain and France.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0640/pct:69.58550152521084,90.0660569105691,13.09886954961421,2.6803861788617884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn86092523:00340582238:1898040301:0640/pct:69.57301758162899,90.05461704559889,13.101004664513814,2.683221135526483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

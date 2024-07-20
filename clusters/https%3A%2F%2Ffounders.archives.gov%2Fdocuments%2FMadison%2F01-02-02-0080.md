@@ -333,7 +333,7 @@ nois and oy tho Wabash, rescued the Inhab­
 itant* from British Dominion, and established  
 civ.. government in its republican form.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878031801:0003/pct:15.127388535031848,60.757453666398064,13.163481953290871,2.0749395648670426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878031801:0003/pct:15.140658174097664,60.76752618855762,13.170116772823778,2.0699033037872683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ from British dominion &quot;all the important
 posts and settlements on the Illinois and  
 Wabash,&quot; and gave &quot;200 acres of land t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879022601:0546/pct:73.12977099236642,191.54428126390744,51.908396946564885,16.792760717994362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879022601:0546/pct:18.292915791483672,47.88607031597686,12.984533129654382,4.1981901794985905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ e   shall be coneerte wi or dependent upon the
  From this it appears that the continental  
   Congress contemplated doing for the Ber
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898063001:0400/pct:0.0,337.7195593926764,76.96296296296296,37.86841321821971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898063001:0400/pct:0.0,84.4298898481691,19.251435982953492,9.467103304554927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ s there anything in the spirit of the consti­
 of our treaty of alliance with France in 1777?  
 Primarily the War of the Revolution wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898121001:0516/pct:331.338818249813,180.1549916426075,67.91323859386686,30.147394013067924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898121001:0516/pct:82.86569397680509,45.03874791065188,16.984661429105874,7.536848503266981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

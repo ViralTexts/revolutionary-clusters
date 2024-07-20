@@ -58,7 +58,7 @@ f id States : Provided neverthclefsy That no engagement nor con­
 lutl ihall be entered into which shall preclude the United States  
 from rcimburling any sum or fu-ms
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790080701:0002/pct:7.909783989834816,55.33425359889568,28.049555273189327,9.702228357325971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790080701:0002/pct:7.917725540025413,55.33918359297969,28.057496823379925,9.712088345493985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ contract shall be entered into, which shall
 preclude the United States from reimbursing  
 any sum or sums thus borrowed, at any tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812032601:0103/pct:40.41297935103245,79.02254751505136,15.738330730522298,2.6561208830126315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812032601:0103/pct:40.405968077723806,79.01322001888575,15.741383298635206,2.6597418948693736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ public debt of the United States, as my be wanted
 lor that purpose, after satisfying the sums ncccssa­  
 r% for the payment of the interest and such part o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812043001:0142/pct:77.5330396475771,11.54686601495112,18.995594713656388,7.441058079355952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812043001:0142/pct:77.51937984496124,11.545538178472862,18.99812074230679,7.444035571910457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ for outfit and s i!ary A r. ; : v iii minis­
 ter to (ircat lint.dn : /Von V/, &#x27;ITie  
 I’r ddent ofthe 1 pi ted States shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1839030701:0308/pct:47.286821705426355,67.55278555075044,14.710654407787993,17.552785550750446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1839030701:0308/pct:47.27829848594088,67.54419432786469,14.714011055034847,17.55479248802408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ preclude the United States from reimbursing
 any sum or sums thus borrowed, after the  
 expiration of five years from the first o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1839031401:0627/pct:31.639135959339264,79.82969664715274,12.607652124805874,7.333688131985099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1839031401:0627/pct:31.639135959339264,79.83679262018805,12.607652124805874,7.326592158949796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ force until the end of sixty das after the
   
 meeting of the first session of the&#x27; next Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839040601:0541/pct:29.326074161271336,67.3517880479981,16.951147733961154,11.607461090649876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn86074078:0029587885A:1839040601:0541/pct:22.001471670345843,50.51681121539741,12.71523178807947,8.708565997386241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ the same.
 . Sec. 7. And be it Jurther enacted, That in  
 the event of ¢ither of the contingences prov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1839060101:0998/pct:0.8025682182985554,64.1544477028348,15.369181380417336,13.343108504398828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1839060101:0998/pct:0.8025682182985554,64.16096448354513,15.378098805065097,13.346366894753992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

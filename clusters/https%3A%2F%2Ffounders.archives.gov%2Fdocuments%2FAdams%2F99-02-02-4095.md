@@ -91,7 +91,7 @@ ly in view ; and we ardeijy pray that tin­
 wife ruler ot nations rty preserve your  
 health and life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800021001:0003/pct:23.332542131497746,23.961710668519377,16.876335153097557,29.75142813030724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800021001:0003/pct:23.35034417279848,23.961710668519377,16.882269166864468,29.759147753589623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ Speaker of the House of Representatives.
 II. VANDERBURGH,  
 President of the Council
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840071401:0547/pct:64.65361445783132,32.97851173895742,15.993975903614459,17.33983286908078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840071401:0547/pct:64.65863453815261,32.98514391829155,15.993975903614459,17.33983286908078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ Speaker of the II &lt;-f R.
 H. VANDKRBl&#x27;RGH,  
 President of the Council
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840090101:0603/pct:32.78175313059034,39.0469488287926,15.951103160405486,8.434703930833416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840090101:0603/pct:32.78672232160604,39.050299922924836,15.961041542436892,8.441406119097886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ Speaker of the II of R
 H. VANDERBURGH, |  
 President &lt;\f the Council
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091101:0618/pct:53.02063232892979,2.553830746119179,31.631289891643164,96.43465197796695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840091101:0618/pct:53.02063232892979,2.5605074278083793,31.64118549304834,96.43799031881156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ Nations may preserve your health and life.
 &#x27;EDWARD TIFFIN,  
 Speaker of the II.. of II
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1840102701:0011/pct:48.36988737403675,47.06233817964549,15.826911677534085,8.484365664210317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1840102701:0011/pct:48.379766844497134,47.068976963420305,15.821971942303893,8.48104627232291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

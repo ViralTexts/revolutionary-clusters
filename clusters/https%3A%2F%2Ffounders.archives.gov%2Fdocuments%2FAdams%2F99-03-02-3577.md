@@ -751,7 +751,7 @@ world, as not abusing it. For the fashion
 of this world passeth away.”  
 RECORDATIS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829030401:0767/pct:45.19419380149078,32.402861551409735,18.90937622597097,7.069715247580306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829030401:0767/pct:35.025843721495896,25.11595883461371,14.675179892571197,5.479054935497898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1103,7 +1103,7 @@ though they rejoiced not, and they that buy, as though they
 possessed not; and they that use this world, as not using  
 it, for the fashion of this world passeth away.&quot; It was 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530364:1851112501:0164/pct:201.19148936170214,195.98119858989423,46.62127659574468,7.1680376028202115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530364:1851112501:0164/pct:67.06382978723404,65.32706619663142,15.540425531914893,2.389345867606737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1793,7 +1793,7 @@ not consumed; for his compassions fail not; they are
 new every morning; great is thy faithfulness.&quot;  
 In these modern times, said the preacher, we hea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039788:1880010501:0045/pct:152.58178319435535,19.37869822485207,47.12957023733162,6.030951297223487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039788:1880010501:0045/pct:50.86059439811845,6.459566074950691,15.709856745777207,2.0103170990744954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1844,7 +1844,7 @@ the Congratulations of friends.
 Mr, and Mrs. Vogle came from Hanover,  
 Germany, and settled in the Valley of Vir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531034:1881071601:0061/pct:86.40622747585411,145.86258032624815,40.6948248522416,19.831932773109244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531034:1881071601:0061/pct:28.802075825284707,48.62086010874938,13.564941617413867,6.610644257703081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2020,7 +2020,7 @@ because His compassions fail not
 They are new every morning; great is thy  
 faithfulness. Th.&#x27; Lord is my portion, sait
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1889061201:0311/pct:42.88650015807777,66.48056688855486,15.301928548846032,2.0184668241357095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1889061201:0311/pct:42.89176941721994,66.48414573044163,15.307197807988198,2.0184668241357095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2167,7 +2167,7 @@ sessed not;
 And they that use this world as not abusing  
 it: for the fashion of this world passetb away
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182069:1891120701:0328/pct:40.6468210216832,45.69288389513109,16.207276736493935,5.021500901650715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182069:1891120701:0328/pct:31.51049083831767,35.41532286963377,12.560524067217317,3.895219666021644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

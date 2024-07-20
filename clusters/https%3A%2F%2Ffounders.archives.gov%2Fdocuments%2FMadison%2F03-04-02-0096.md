@@ -183,7 +183,7 @@ riod calling for these that the merits of such a
 system trill be seen in the strongest lights.  
 J A MUS MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812010201:0008/pct:7.830798811396609,51.16526676919437,16.29085824156616,14.6338578019638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812010201:0008/pct:7.829430269136665,51.1592145729832,16.293836653850637,14.636069710590647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ and exertions for the genet il security, it is at a period
 IWog for these that the merits of such a systesn will b?  
 en in the strongest lights.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846030401:0253/pct:26.553323029366307,38.86604361370716,13.75579598145286,6.654205607476635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846030401:0253/pct:26.563626996393612,38.86604361370716,13.745492014425555,6.66251298026999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ curity, it la at a period calling for tbeae, thai the Uiulcd
 erita of auch a system will be seen in the strongest de ^en  
 hta. nil of t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846050201:0473/pct:33.01517759349085,10.657764589515331,21.592864966358942,87.22799208704254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846050201:0473/pct:33.01517759349085,10.666007253544345,21.598080634225212,87.22799208704254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ security, it is at a period calling for these that
 the merits of such a system will be seen in the  
 strongest lights.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862062401:0617/pct:83.55916892502259,43.10618066561014,49.77416440831075,46.41662264483184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862062401:0617/pct:20.89451095550034,10.776545166402535,12.446351931330472,11.60415566120796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

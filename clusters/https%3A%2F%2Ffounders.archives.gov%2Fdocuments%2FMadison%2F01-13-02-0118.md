@@ -73,7 +73,7 @@ to his country, do refold, as a mark of the venerat ion due ,
 to his memory, that the member* wear the cultoinary  
 badge of mourning for one month.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790042401:0002/pct:69.58583623142586,8.598351001177857,26.809990515333546,12.563800549666274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790042401:0002/pct:69.60164400885236,8.60325873576757,26.81789440404679,12.568708284255987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ native genius was not more an ornament to
 human nature than his various exertions of  
 it have been precious to science.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181946:1887042401:1190/pct:58.64553314121037,80.88816237569813,16.06628242074928,2.2885165508786267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:00414181946:1887042401:1190/pct:45.458775358272845,62.694865749375374,12.441838823748371,1.7771052538973149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ nament to human nature than his various
 exertions of it have been precious to  
 science. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076917:00237289225:1887050601:0375/pct:53.63799283154122,85.93034549743305,14.068100358422939,2.6640765922020258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076917:00237289225:1887050601:0375/pct:40.2546171776941,64.45122797280422,10.561233638156715,1.9980574441515193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ nament to human nature than his various
 exertions of it have been precious   
 sclenice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555353:1887050701:0449/pct:39.10453891969603,301.2486427795874,52.16676935715753,8.740499457111834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555353:1887050701:0449/pct:9.776134729924008,75.31216069489685,13.041692339289382,2.1851248642779586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ nament to human nature than his various
 exertions of it have been precious to  
 science.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478726:1887051901:0167/pct:40.97995545657015,83.20102432778489,14.579407229741305,2.8297055057618437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478726:1887051901:0167/pct:35.861689901563985,72.8012846846174,12.771698396042572,2.4760055271314934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ nament to human nature than his various
 exertions of it have been precious to  
 science.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286571:1887120101:0406/pct:65.90218712029161,106.18444055944056,18.393074119076548,3.277972027972028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286571:1887120101:0406/pct:43.959884516030996,70.79326923076923,12.262574076888011,2.1853146853146854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ nament to human nature than his various
 exertions of it have been precious to  
 science.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286571:1887120201:0419/pct:45.15060240963855,104.70498750407477,18.268072289156628,3.216342497011844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286571:1887120201:0419/pct:30.1099563187227,69.8033250027165,12.185570115981323,2.1514723459741387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

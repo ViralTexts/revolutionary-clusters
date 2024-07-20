@@ -61,7 +61,7 @@ payments are now made in thar country in
 a paper currency of that denomination, is­  
 sued under the authority of goveiMinent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810082801:0133/pct:39.26223520818115,26.210966314236536,17.25712198685172,5.667568232112122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810082801:0133/pct:39.25506664232244,26.207744314689613,17.26005720893433,5.670969063716451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ of goods, wares, or merchanoise, is exhibited in a depre.
 ciated currency issued and circulated under the autho  
 rity of any foreign government, the President of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851100201:0520/pct:9.275457996369038,89.57160905018951,46.19574187159597,8.464453887676582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851100201:0520/pct:3.0918193321230127,29.857203016729834,15.398580623865325,2.8214846292255276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ is exhibited in a depreciated currency issued
 and circulated under the authority of any foreign  
 government, the President of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851100301:0952/pct:71.70955338657203,60.01616441519455,13.649807749186632,4.768502482392334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851100301:0952/pct:71.70955338657203,60.01616441519455,13.659666765256828,4.77235115267675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

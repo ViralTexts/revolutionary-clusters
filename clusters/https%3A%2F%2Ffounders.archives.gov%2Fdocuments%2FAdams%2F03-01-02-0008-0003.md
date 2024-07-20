@@ -427,7 +427,7 @@ hear thy melodious notes, for sweet is thy voce,
 and comely is thy countenance.&quot; Thus Maimeni­  
 des observes: &quot;Prayer must be performed i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850051801:0128/pct:106.42627632988219,245.7369137482985,45.91217422349161,7.981685434970919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530315:1850051801:0128/pct:35.475425443294064,81.91230458276615,15.304058074497203,2.660561811656973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ me see thy countenance, let ine hear thy Voice;
 for sweet is thy - voice, and thy countenance is  
 comely . - i&#x27;- . -.- n.-, ...;n. !;i i&#x27;. -.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn85026051:00296027029:1851071201:0198/pct:58.81704628949302,65.75621095452564,17.10139603232917,2.9057097195990123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn85026051:00296027029:1851071201:0198/pct:44.138184490995954,49.32442249019323,12.82616685042264,2.179282289699259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ ain question we propose to ask is this How
 much wiser, better or happier will the people  
 of Iowa be with banks than without them?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528542:1852060901:0183/pct:58.20500855498522,75.20334650244016,11.992533831077928,4.5549616546595395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528542:1852060901:0183/pct:58.215378234043655,75.21109303586645,11.987348991548712,4.558834921372686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ nance comely. &quot; 15th, &quot; take us the
 foxes, the little foxes, that spoil the  
 ylnes; for our vines have tende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472980:1877060801:0126/pct:6.788166930797676,78.14503648021226,13.021658742736397,6.190581472474022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472980:1877060801:0126/pct:5.098401796328094,58.61154101260225,9.774138158763703,4.642936104355516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

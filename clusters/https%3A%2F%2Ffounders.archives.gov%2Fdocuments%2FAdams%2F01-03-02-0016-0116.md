@@ -119,7 +119,7 @@ ral.” A committee of three, vi-. John Ad­
 ams, E. Rutledge, and R. H. Lee, was chos­  
 en to prepare a preamble to the resolution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826072601:0225/pct:4.280787177926557,79.10490718088934,19.33455061878677,12.678083177435603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826072601:0225/pct:3.3176100628930816,61.3145470091825,15.00524109014675,9.818208855347782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ particular, and America in general.&quot; On the 22d of April, Nort
 
 ---
 
-## [From _The United States Review (1853-1856)_](https://archive.org/details/sim_united-states-democratic-review_1855-05_35/page/n41/mode/1up?view=theater)
+## [From _The United States review_](https://archive.org/details/sim_united-states-democratic-review_1855-05_35/page/n41/mode/1up?view=theater)
 
 #### 1855-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -568,7 +568,7 @@ conduce to the happiness and safety&quot; of their
 constituents in particular, and of America in gen-  
 era
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1876051001:1136/pct:200.6949806949807,185.71834992887625,42.93436293436294,7.852062588904694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1876051001:1136/pct:50.173745173745175,46.42958748221906,10.733590733590734,1.9630156472261735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ continued conduct of the authority of New
 York, before recited, and on the equitable­  
 ness on which the aforesaid resolution o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022473:00280777936:1877011701:0059/pct:115.12915129151291,109.16323341383719,43.61623616236162,28.469953118340673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022473:00280777936:1877011701:0059/pct:28.792912513842747,27.290808353459298,10.908084163898117,7.117488279585168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ who had not already done so, to adopt such
 government as should best conduce to their  
 happiness and prosperity. The resolutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022473:00280777936:1877080201:0719/pct:127.99023596419853,122.20033338384604,47.68104149715216,12.486740415214426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022473:00280777936:1877080201:0719/pct:31.997558991049633,30.55008334596151,11.92026037428804,3.1216851038036064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ the opin&#x27;.on of the representatives of the
 people, should best conduce to the happi­  
 ness and safety of their constituents. Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1879030501:0229/pct:4.767184035476719,71.65160230073953,14.541759053954175,9.079704190632704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023209:00202197486:1879030501:0229/pct:3.585289225651451,53.73870172555464,10.903714655331731,6.820049301561216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ constituents in particular and America iv
 general.&quot;  
 Of this resolution John Adams, wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040341:1894041701:0211/pct:1.4235444657709533,36.884574903520054,13.131797824696097,5.285931470003509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040341:1894041701:0211/pct:1.4342077201962038,36.88847308307021,13.126466197483472,5.285931470003509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ their constituents in particular and America
 in general.  
 &quot;Of his resolution, John Adams, wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665477:1894041901:0477/pct:27.261553588987216,84.18184914013281,18.21533923303835,8.121913843010386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665477:1894041901:0477/pct:20.457339562330958,63.13638685509961,13.67101057290386,6.095692150519326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -875,7 +875,7 @@ the happiness and safety of their con­
 stituents in particular and America in  
 genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:0017504842A:1894042101:0310/pct:63.92880470280862,4.375071208841289,19.203135205747877,10.424974364817135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:0017504842A:1894042101:0310/pct:42.62616364527192,2.9167141392275266,12.8041809570472,6.9499829098780905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ constituents in particular and America
 in general.&quot; June7, the direct prop­  
 osition of independence followed, in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_orwell_ver01:data:sn86071719:00280777730:1899070501:0218/pct:19.28895612708018,259.24928966651714,50.15128593040847,51.5627336623299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_orwell_ver01:data:sn86071719:00280777730:1899070501:0218/pct:4.823151125401929,64.81232241662929,12.540192926045016,12.890683415582474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

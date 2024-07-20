@@ -124,7 +124,7 @@ torney for the district of Vermont.
 John Willard, of Vermont, marshal of  
 that district
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810051501:0012/pct:5.724407980607869,81.33841800959527,17.881782584374417,4.440890638454914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810051501:0012/pct:5.723340790454884,81.32841328413284,17.884663186676608,4.444444444444445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ provost of the university of Maryland.
 Gideon Granger, of Connecticut, Post-  
 master-generul a graduate of Yale, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1873071901:0113/pct:8.738384560400286,97.47231270358306,16.261615439599716,5.407166123778501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1873071901:0113/pct:6.560600643546657,73.10749185667753,12.209510189488737,4.06514657980456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ and Provost of the University of Mary.
 land. Gideon Granger, of Connecticut,  
 Postmaster-General, a graduate o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:00200292364:1873072501:0356/pct:223.52465642683913,109.66657326982347,51.09135004042037,19.1650322219109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:00200292364:1873072501:0356/pct:55.91506572295248,27.41664331745587,12.780586450960566,4.791258055477725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ died President of the Agricultural Society and
 provost of the university of Maryland. Gid­  
 eon Granger, of Connecticut, Postmaster-gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627506:1873072601:0161/pct:50.007003782042304,54.14985276475079,11.360134472615211,2.344857672592431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627506:1873072601:0161/pct:50.007003782042304,54.15348820300287,11.360134472615211,2.3521285490965935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ of the Agricultural Society and
 provost of the university of Maryland.  
 Gideon Granger, of Connecticut, Postmaster-genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn84026857:00295862166:1873073101:0096/pct:5.0246609124537605,73.39265850945495,18.079531442663377,4.460511679644049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn84026857:00295862166:1873073101:0096/pct:5.0246609124537605,73.40007415647015,18.084669132757913,4.460511679644049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

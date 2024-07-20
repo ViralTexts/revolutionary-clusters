@@ -114,7 +114,7 @@ we should establish this government. The
 best way. to avoid danger is to be in a capa­  
 city to withstand it.&quot; ct 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808092701:0396/pct:31.09475620975161,65.71792306992816,22.61576203618522,7.829408020369192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808092701:0396/pct:31.089989268741377,65.71194762684124,22.617405079462415,7.831726980663151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ after admitted into the union ? These will he non-carrv­
 ing states and will support Virginia in case tlie carrying  
 states will attempt to combine against the rest.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815012101:0195/pct:28.27816268924814,80.86328573773183,22.068257634077497,16.85540784506811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815012101:0195/pct:28.27090815802976,80.85001640958319,22.06900974858902,16.856744338693797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ If one article In any State should be deficient it
 will be laid on another article.&quot;  
 Mr. Marshall said 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293472:1873021901:0174/pct:97.6754649070186,46.96369636963696,14.352129574085183,4.818481848184819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293472:1873021901:0174/pct:73.2933233308327,35.22552255225523,10.772693173293323,3.6193619361936196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

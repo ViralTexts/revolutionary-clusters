@@ -244,7 +244,7 @@ iu-ate ps that which if confided to him. ■ y.. , * r
 most humble and mostobedtetol servant,  
 &#x27; •;&gt; &gt; *DB VERGENNES.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811052701:0538/pct:26.787039327232254,78.49270664505673,20.776651001731388,14.991896272285251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811052701:0538/pct:26.780415430267063,78.47998703613676,20.77769535113749,14.993518068384379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ on and tins stti iineni tie.ermine me t&lt;&gt;tin­
 brace the ii-st opportunity that presented  
 in 1798, 1799 nd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811060401:0037/pct:24.72537367188907,40.250730282375855,17.558076715289033,14.277020447906525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811060401:0037/pct:24.720921858120274,40.245831812096874,17.560917056775896,14.2793395805444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ especially of New-England,
   
 From the Pelt. Ev. Post.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811061201:0425/pct:51.63960522126711,63.49018447272368,21.378541865647883,17.302949590608662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811061201:0425/pct:51.63960522126711,63.493472756568345,21.3838480314125,17.306237874453323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ TO A WAR WITH FRANCE AND AN
 ALLIANCE OFFENSIVE AND DEFEN­  
 SIVE WITH GREAT BRITAIN. Thiso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811061701:0205/pct:77.58331781791101,27.60311871227364,17.259355799664867,13.166498993963783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811061701:0205/pct:77.56887565152644,27.59964793159814,17.26234797716555,13.169034745798232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -916,7 +916,7 @@ sider him as a friend to all men. At the academy D&#x27;A
 addressed him as the man who had wrenched t  
 from the cloud, the scepter from tyrants; and both thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530844:1866100501:0244/pct:4.460905349794238,97.83802734603249,47.06172839506173,5.0484983054808925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530844:1866100501:0244/pct:1.4869684499314129,32.61267578201083,15.687242798353909,1.6828327684936308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1012,7 +1012,7 @@ the magician who bad excited the ignorant
 Americans to resistance. His mysterious wand  
 had separated the Colonies from Great Britain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1881102701:0354/pct:53.10704022988506,44.60956498243718,14.583333333333334,12.564171845447177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1881102701:0354/pct:39.85624438454627,33.46392866792759,10.943396226415095,9.429883815185086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

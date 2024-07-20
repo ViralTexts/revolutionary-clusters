@@ -466,7 +466,7 @@ earth” .
 * To be concluded in our next.]  
 FIRE BOARD PAPERS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840061701:0566/pct:83.27103862272058,70.6975694183159,14.701551704609809,21.619384453307248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840061701:0566/pct:83.26160815402038,70.69224981188864,14.703661759154398,21.62026586405819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ rny successor, who, to the purest principles of
 .Republican patriotism, adds a wisdom and fore  
 sight second to no man on earth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840062401:0521/pct:43.89196675900277,50.69714285714286,20.554016620498615,30.457142857142856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1840062401:0521/pct:32.936123042815574,38.02285714285714,15.42192046556741,22.845714285714287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ enjoy as meny years of life, health and ease is yout
 self shall wish, is the sincere prayer of your constas  
 and affectionate friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530595:1858072101:0130/pct:249.82935153583617,149.05343877306495,47.66211604095563,52.048885693745504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530595:1858072101:0130/pct:83.2764505119454,49.68447959102165,15.887372013651877,17.349628564581835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ responsible to any mortal.&quot; Lie direct­
 ed the studies of many youug men who  
 wished to avail themselvea of his rip
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472955:1870040801:0533/pct:59.48275862068966,14.809109913081747,12.865726227795193,9.450984706788425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472955:1870040801:0533/pct:44.63609042205671,11.112333590053911,9.656343917418006,7.085487952470019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ health and ease us yourself shall wish, is
 the sincere prayer of your constant and  
 affectionate friend.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879030801:0049/pct:37.45035742652899,15.015411712901805,11.159650516282763,22.236900044033465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879030801:0049/pct:37.46359544612126,15.025196927442634,11.159650516282763,22.236900044033465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -958,7 +958,7 @@ health and ease as yourself shall wish, is
 the sincere prayer of your constant and  
 affectionate friend.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879030801:0051/pct:37.56687140875768,17.334507559078233,11.274024172775906,19.991193306913253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879030801:0051/pct:37.56687140875768,17.334507559078233,11.300442507099927,19.99608591418367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1007,7 +1007,7 @@ attention fixed on the main objects of all
 science—the freedom and happiness of  
 man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340238:1896040301:0326/pct:62.923231645993965,34.217775844570106,11.263828360710693,12.802667826591271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340238:1896040301:0326/pct:62.912686442098206,34.21281530878515,11.266130383777442,12.80443606842563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1043,7 +1043,7 @@ in the councils of government of thelr
 country they will keep ever in view the  
 sole objects of Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032897:1897091601:0606/pct:88.74290348742903,0.25669642857142855,84.91484184914842,293.00223214285717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032897:1897091601:0606/pct:29.580967829143013,0.08556547619047619,28.304947283049472,97.66741071428571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1082,7 +1082,7 @@ every harbor so prepared by works and gun­
 boats as to be in a reasonable state of secur­  
 ity against any probable attack.&quot; On th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898030101:0784/pct:126.87838884585592,78.40048470160558,51.7428350116189,54.16540442290215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898030101:0784/pct:31.71959721146398,19.600121175401394,12.935708752904725,13.541351105725537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -172,7 +172,7 @@ stitute for a large regular force in time of
 peace, a disciplined militia forms an essen­  
 tial part of a republican system.&quot; Again
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1877102501:0266/pct:74.54268292682927,166.01854621597369,50.0,8.196230930302123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1877102501:0266/pct:18.635670731707318,41.50463655399342,12.5,2.049057732575531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

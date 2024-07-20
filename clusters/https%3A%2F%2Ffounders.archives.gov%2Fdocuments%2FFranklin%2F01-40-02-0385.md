@@ -306,7 +306,7 @@ said : “ May we never see another war!
 for, in my opinion, there never was a good  
 war or a had peace.” On this day we
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862070401:0108/pct:15.091678420310297,4.3964722916940895,11.10719322990127,4.765038831117546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862070401:0108/pct:15.096086036671368,4.399763064367513,11.120416078984485,4.774911149137818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ had been adopted. Subsequent operations that I
 have executed demonstrate that my plan was  
 practicable, but it was, unfortunately, rejected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:5.784429123928031,232.7414113277623,46.99848663191525,7.358402971216342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:1.9281430413093437,77.58047044258744,15.666162210638417,2.4528009904054473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ rum&#x27;s devotees. The perpetrator is not known. 1 &amp; deprecating currency.
 consolation to me that I washed my bands of  
 Fisher A: Bell, of Schoolcraft, butchers, killed i that evil by predicting it in Congress, and pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1874073101:0556/pct:32.142857142857146,68.0130892729318,42.41622574955908,3.0780243378668577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1874073101:0556/pct:21.431721299426723,45.342059515287865,28.28164045274144,2.0554248900705594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ I have executed demonstrate that my
 plan was practicable; but it was unfor­  
 tunately rejected.&quot; (Works, . 9
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1878052801:0190/pct:41.082589285714285,266.46264626462647,29.095982142857142,16.687668766876687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415669197:1878052801:0190/pct:13.69572496930461,88.82088208820882,9.699743274919076,5.562556255625562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ evil by predicting it in Congress, and proposing
 meaus that would have been effectual to pre­  
 vent if they had been adopted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879080701:0643/pct:48.60681114551084,26.21347500603719,10.949975558090273,2.463173146582951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879080701:0643/pct:48.598892147279244,26.210310274055296,10.95226458129684,2.4658939997585416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

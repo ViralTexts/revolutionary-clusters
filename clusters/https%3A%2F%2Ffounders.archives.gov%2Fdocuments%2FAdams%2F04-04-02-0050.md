@@ -168,7 +168,7 @@ Are bere displayed their muchloved wealth
 imparts  
 Convenience plenty elegance and art
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00206534503:1893110101:0010/pct:6.911209068010075,99.30423072606891,18.71851385390428,1.6159802491302884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00206534503:1893110101:0010/pct:4.613446701306881,66.20656117906707,12.486222642103606,1.077320166086859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ Convenience plenty elegance and art
 &quot;&#x27;Much-loved wealth imparts  
 Convenience, plenty, elegance and arts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_iceman_ver01:data:sn88064111:00280761679:1899120901:0194/pct:17.385103011093502,72.33794610342316,12.77337559429477,1.0487982520029133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_iceman_ver01:data:sn88064111:00280761679:1899120901:0194/pct:17.385103011093502,72.34848484848484,12.77337559429477,1.048951048951049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

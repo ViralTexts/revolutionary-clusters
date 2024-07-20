@@ -699,7 +699,7 @@ and that it (hould lie easy and cheap, and
 fafe for any person to communicata his  
 thoughts to the public.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794020501:0003/pct:27.726255196674128,14.20753952168626,18.93188359449952,15.97081475476287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794020501:0003/pct:27.726255196674128,14.217673287393595,18.955868244323632,15.97081475476287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ rage, notwithstanding they are told by de­
 famcrs of Liberty, that we have no resour­  
 ces, and are in no condition for war. Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794020501:0003/pct:48.22513591301567,40.210782326712604,19.059801726894786,21.970004053506283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794020501:0003/pct:48.233130796290375,40.21584920956627,19.06779661016949,21.975070936359952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1385,7 +1385,7 @@ M to-public cr to an examination
 &quot; into the conduct of fun rio-s.  
 &#x27;* Ar.d cert an officers of the crown,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072701:0002/pct:59.441460794844254,1.1959393686552635,36.369495166487646,96.27311917674871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072701:0002/pct:59.441460794844254,1.2052102164742966,36.369495166487646,96.2684837528392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1461,7 +1461,7 @@ M freedom whatever can be warranted
 «» diff. rent names for hypocrify, chi­  
 &quot; caoeiy, and cowardice.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072701:0003/pct:1.8474758324382385,1.1125017382839661,18.431793770139635,57.89180920595189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072701:0003/pct:1.861797350519155,1.1171371621934827,18.438954529180094,57.90108005377092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1558,7 +1558,7 @@ the authority that they themselves
 have deputed, and to constitute other  
 better agents and trustees. Let the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287071:1878090401:0143/pct:49.660249150622874,62.03911776945485,11.755379388448471,5.900957136912193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237287071:1878090401:0143/pct:49.6640241600604,62.04189207934526,11.751604379010947,5.898182827021778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

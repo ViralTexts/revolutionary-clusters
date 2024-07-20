@@ -292,7 +292,7 @@ not tore than half a mite from me, povrs out
 of its dyars, ot 13 o&#x27;clock every day, frot ons  
 hundred to twaripuad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823021901:0435/pct:10.142482189726284,57.60818438381938,20.49118860142482,26.75211665098777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823021901:0435/pct:10.154980627421573,57.612104107870806,20.49118860142482,26.756036375039198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ circulor end your letter of the 30th June, and
 o Sir, your very obedient, hoible servent,  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823021901:0435/pct:9.730033745781776,3.680620884289746,42.35095613048369,90.87488240827845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823021901:0435/pct:9.742532183477065,3.6845406083411727,42.3384576927884,90.88664158043274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ clergymen mid magistrates, and the cler­
 gymen in those dej’a were all learned men.  
 ■I’hiB law is in force to this hour. 1 ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1851041001:0398/pct:6.684803731053245,68.7170474516696,15.25456665371162,5.19129376774368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1851041001:0398/pct:6.683504954342335,68.70775885374425,15.256460073829416,5.19397134360638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ students for the colleges, and four years
 afterwards the colleges send the young men  
 into the country to keep school.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291943:1885011301:0458/pct:65.11194029850746,121.23111997720149,19.336353944562898,3.6192647477913935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291943:1885011301:0458/pct:48.85363902959211,90.92808967417118,14.502799253532391,2.716823406478579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

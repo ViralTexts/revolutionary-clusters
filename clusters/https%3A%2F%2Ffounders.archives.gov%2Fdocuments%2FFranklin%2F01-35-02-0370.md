@@ -572,7 +572,7 @@ J and the same principle, the necessity of
 \the case,in order tothe preservation of  
 tire who!?.&quot; But he adds, [Post. C. L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021901:0001/pct:41.06332396801383,17.9448065455554,18.240760752107196,8.861461655803634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806021901:0001/pct:41.07773215186226,17.94942911292932,18.24796484403141,8.866084223177554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ founded on one and the same principle the
 necessity of tlzeicase, to order to the pre­  
 SCJVatsilOD of the whole.&quot; But he adds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806022101:0240/pct:77.45098039215686,40.892942870859336,20.58823529411765,7.6812289966394625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806022101:0240/pct:77.43811264329622,40.88901689708141,20.590352771778257,7.683691756272402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ case of a sadden invasion or formidable insurrection.
 same principle, the necessity of the case, in order to  
 the preservation of the whole.” But he adds, [Fqst
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022601:0979/pct:53.27193407658749,29.467436637792748,20.649539505574406,4.8283606031440485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806022601:0979/pct:53.259025926823355,29.46271050521251,20.65059365156288,4.831595829991981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ the “ necessity of the case in order to
 the preservation of the whole” society, and  
 as to the point of law, asserts that this righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809050901:0452/pct:5.850365647852991,17.635879893576586,17.9636227264204,3.471430381350564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809050901:0452/pct:5.849268841394825,17.63364580694198,17.96650418697663,3.4752132421248207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ own. ThcXigh she may be empowered to
 disturb the rights of her own subjects, she  
 has no authority to disturb those of the U. S
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809050901:0452/pct:24.395274704669042,5.32117065754466,17.719857491093194,4.00354744710503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809050901:0452/pct:24.390701162354706,5.32049657968077,17.72278465191851,4.007262900092898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -759,7 +759,7 @@ shillings a month, and their rations • and this
 without being obliged to fight. Lastly, I think I  
 would impress.**
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809050901:0452/pct:24.432777048565537,15.78613961738249,17.944871554472154,46.281515266692004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809050901:0452/pct:24.42819647544057,15.784139853052952,17.947756530433697,46.27987501055654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

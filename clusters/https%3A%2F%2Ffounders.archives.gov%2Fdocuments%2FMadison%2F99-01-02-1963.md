@@ -362,7 +362,7 @@ m- him on the subject, till I hear from you,
 m and in the mean time to observe the  
 r- most co.iciiiane &#x27; that circum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808032501:0003/pct:3.355138214813252,2.854204165595269,37.51846381093058,94.96014399588583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808032501:0003/pct:3.355138214813252,2.854204165595269,37.51846381093058,94.97728636324676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ the other&#x27; m us incss, as he knew had he:: izion e;
 he meinie ed to attend to them.  
 On the 2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808032601:0417/pct:23.895006788354202,7.176397625586959,46.11555287373661,90.65296358642686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808032601:0417/pct:23.891402714932127,7.175761871013465,46.11362493715435,90.64788566028821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ vents my voing into iuither detai}.
 lh eve the honor to be,with great consider­  
 ation, si&quot; ,)our most (: edient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808032601:0417/pct:47.593905566450445,72.26898201470719,22.28088701161563,15.185611765748206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808032601:0417/pct:47.586726998491706,72.26257973068745,22.28255404725993,15.187219466099693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ place on Use £0 Ui-.tir.o We n.tt according to !
 t!i.: ••pjv intnic»t; 1 ol set ved, in , porting the  
 ■ &#x27;&#x27;iii&#x27;.. . nee, that although 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032901:0111/pct:22.51269512883205,30.639899623588455,17.961256347564415,39.56085319949812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032901:0111/pct:22.508461827754797,30.636055701919457,17.964146922401905,39.560071927403506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ I hp.ve the honor to be,
 with great consideration,  
 f&gt;;r, your most obedient servan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032901:0111/pct:22.418657137483542,3.4629861982434127,36.24224186571375,89.43538268506902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032901:0111/pct:22.414441519368182,3.462551750094091,36.24169487275918,89.42834441517167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ structions und the interest of our country. Want
 1 have the honour to he, with great considerati­  
 on, sir, your most obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040101:1063/pct:5.297845373891001,3.2325172027524403,45.22179974651458,93.4069451112178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040101:1063/pct:5.296502787633046,3.232,45.21667511403953,93.396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ I coived, corresponded with iu.&lt;i confirmed tli; (/.
 l all&#x27;*  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040101:0430/pct:77.11082986801664,77.39013343126453,17.627915386006148,18.545721630554535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040101:0430/pct:77.09689081706435,77.38066095471237,17.63075439865028,18.54753161974704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ tail.
 1 have the honor to be, with great considerati­  
 on, sir, you* most obedient servant,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040101:0431/pct:4.610951008645533,1.0051483206668301,18.840057636887607,74.05001225790635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040101:0431/pct:4.610120655501531,1.0050251256281406,18.84266762710847,74.04502185725374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1597,7 +1597,7 @@ ther detail,
 [ have the honor to be, with great coafid-  
 I eration, fir,&quot;your most ebedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808041201:0058/pct:25.05761253648794,4.701283079390537,34.04516822860654,92.41178829190056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808041201:0058/pct:25.062733650842425,4.704624431970061,34.04516822860654,92.40844693932104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2133,7 +2133,7 @@ tish squadron at Halifax. I observed, *
 th as the notes which had passed be­  
 tween us, were informal, and on a v*ry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808041401:0374/pct:38.40425531914894,12.139122527847238,55.797872340425535,80.40463741759491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808041401:0374/pct:38.394044137197554,12.136363636363637,55.79189931755739,80.39393939393939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2248,7 +2248,7 @@ vents my going into further detail.
 consideration, sir, your most obedient  
 servant,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808041401:0375/pct:8.289290681502086,8.013355592654424,56.99582753824757,84.06868590507989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808041401:0375/pct:8.28698553948832,8.011444921316166,56.98924731182796,84.05658877761883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2483,7 +2483,7 @@ composed of the ship-owners’, the navy, the
 | ral political characters of great considerati­  
 i on in the state.”—The same truth is con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809080401:0105/pct:59.042159763313606,10.415904378582754,17.917899408284022,4.939626783754116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809080401:0105/pct:59.03124422259198,10.414634146341463,17.920749368336722,4.943089430894309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2523,7 +2523,7 @@ obtained ot the government on any point, bu
 wiiat maybe extorted by necessity ”  
 But in the very teeth of these (.ireninstan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810083101:0137/pct:22.32272069464544,70.06586972432301,17.36613603473227,8.929007074896315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810083101:0137/pct:22.318683306203653,70.05732406391023,17.369023934406464,8.931983575232753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2558,7 +2558,7 @@ most certain that nothing can be obtained ol
 the government on any poipt, but what may  
 be extorted by necessity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811042401:0397/pct:5.825242718446602,29.549980087614497,21.63430420711974,7.755874153723616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811042401:0397/pct:5.836030204962244,29.55661754944909,21.63430420711974,7.759192884640913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2628,7 +2628,7 @@ be sczu&#x27;chcd sow descrtcrs, orct/Zur any [mr/wsr,
 7:ss*z&#x27;t.*&#x27;zs:z! riolxtmg zlsi-cct 801.sse&#x27;1*c-i_5-izry (fill: nation  
 wizaaestag sss/ch bore.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811052301:0463/pct:25.907752698724238,30.368009272674588,21.197252208047104,8.70279146141215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811052301:0463/pct:25.903515944399018,30.365076299014873,21.19923684927773,8.705170304552185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2655,7 +2655,7 @@ ihercouritrv, bait could not affect the principle; that
 &quot;-&#x27;irinci^U athipof war protecUdall people unboard,  
 Could not be entered to be searched for deserters
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811052701:0537/pct:5.540573670017161,13.237665269267978,23.85388575631282,6.933247339567881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811052701:0537/pct:5.53921568627451,13.235531194583267,23.854166666666668,6.936159922618088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

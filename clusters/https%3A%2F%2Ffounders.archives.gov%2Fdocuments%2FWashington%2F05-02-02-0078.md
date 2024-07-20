@@ -216,7 +216,7 @@ and almost overwhelmed with a sense of
 the Divine munificence.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855082201:0113/pct:44.55066921606119,75.93850096092248,13.957934990439771,5.432415118513773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855082201:0113/pct:44.56225737296483,75.9470424941277,13.963729068891594,5.423873585308563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ in all those wonderful and complicated events,
 except what can be attributed to an honest zeal  
 for the good of my country.&quot;?&quot;No i&gt;eople ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885022101:0630/pct:68.81387842926304,47.50423433296802,15.088757396449704,4.383780013948391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885022101:0630/pct:68.81387842926304,47.50672511706685,15.102205486820871,4.38876158214606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ ct Divioe munificence. I feel tbat nothing is
 doe tc av personal agency in all those won  
 derful ind complicated events, except wba
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885022101:0240/pct:76.12752721617419,115.16216216216216,16.174183514774494,6.5/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885022101:0240/pct:57.128963236724374,86.37837837837837,12.157167866173896,4.878378378378378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ those wonderful and complicated events,
 except what can lie attributed to an  
 ii nest zeal for Hie good of my country.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342132:1885022201:0517/pct:36.46588722805979,69.49486567783426,11.055202012727541,4.667565605227673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342132:1885022201:0517/pct:36.47575353953924,69.501780589842,11.045335701248089,4.671023061231546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ events, except what can be attributed
 to an honest zeal for the good of my  
 country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0193/pct:185.50486163051607,49.2315959161741,33.68735976065819,26.953250940354646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0193/pct:61.834953876838696,16.410531972058035,11.229119920219397,8.984416980118215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ good of my country.” *‘No people can
 be bound to acknowledge and adore an  
 Invisible Hand which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1886062301:0873/pct:72.36161407139161,45.947038609258136,11.187273667873772,10.278956943602184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153383:1886062301:0873/pct:72.36592515951025,45.95040765447072,11.18296257975513,10.285695034027357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ sense of diviae munificence. I fee] that
 nothing is due to my pi rsonal agency in all  
 ■ i ac wonderful and complicated events
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036581:1889022301:0230/pct:50.339598799557734,26.903790087463555,10.740799241825936,5.760932944606414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036581:1889022301:0230/pct:50.35144526930974,26.91253644314869,10.728952772073923,5.760932944606414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ what can be attributed to an honest
 seal for the good of my country.&quot; There  
 were n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1889050401:0580/pct:64.8016119032858,45.46147148454506,14.011159330440174,12.320417936438833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_antares_ver03:data:sn90059959:00271742800:1889050401:0580/pct:64.8016119032858,45.46147148454506,14.021492043810705,12.3276737773908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ except what can be attributed to an
 honest zeal for the good of my coun­  
 try.&quot; When cruelly assailed, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028297:0029602918A:1897052001:0988/pct:27.899432278994322,9.754730203223547,16.240875912408757,7.904695164681149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028297:0029602918A:1897052001:0988/pct:20.92881768403975,7.31604765241766,12.188197120259582,5.942536790469516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ after its adoption, I feel myself op­
 pressed and almost overwhelmed with a  
 sense of divine munificence.&quot; In his firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768881:1899121801:0414/pct:30.90788820902927,56.122699386503065,12.22093600132297,4.564417177914111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn82015104:00280768881:1899121801:0414/pct:30.920291053414918,56.12883435582822,12.225070282784852,4.564417177914111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

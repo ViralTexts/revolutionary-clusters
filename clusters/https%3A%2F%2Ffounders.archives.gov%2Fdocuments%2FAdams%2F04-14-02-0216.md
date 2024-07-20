@@ -78,7 +78,7 @@ as the two former ones have been. 1 leave to time
 the unfolding of the drama.&quot;  
 The next scene of interest is Quincy amidst th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849102501:0478/pct:18.270534020059635,27.12411271241127,13.946869070208729,4.022370402237041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849102501:0478/pct:18.270534020059635,27.13128271312827,13.95590494262221,4.0187854018785405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ mourn over. If I did not rise w ith dignity, I
 cun ut least full with case, which is the more  
 diiiieult task.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199288:1862030401:0242/pct:61.04960141718335,102.29804032144368,21.70062001771479,6.442971944170309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199288:1862030401:0242/pct:45.80287929125139,76.72353024108276,16.27906976744186,4.8357535598477375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ mourn over. If I did not rise with dignity, 1
 ran at least fall with ease, which Is tho more  
 difficult task.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023210:00202197656:1862030401:0443/pct:58.218588640275385,120.17663043478261,23.773666092943202,6.684782608695652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023210:00202197656:1862030401:0443/pct:43.702906350914965,90.13586956521739,17.847147470398276,5.013586956521739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ For myself and family I have few regrets. .­
 . . If I did not rise with dignity, I ean at  
 least fall with ease.&quot; This waa Abigai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_vasa_ver01:data:sn90059522:00175035308:1884022001:0483/pct:43.3825840930525,55.71909167367536,12.96762024520591,2.6492851135407904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_vasa_ver01:data:sn90059522:00175035308:1884022001:0483/pct:43.39306297809913,55.72610036445192,12.96762024520591,2.6492851135407904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ For myself and family I have few regrets. .­
 . . If I did not rise with dignity, I can at  
 least fall with ease.&quot; This was Abigai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_vasa_ver01:data:sn90059522:00175035308:1884022001:0484/pct:43.036780886513675,55.90832632464256,12.983338572775857,2.607232968881413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_vasa_ver01:data:sn90059522:00175035308:1884022001:0484/pct:43.047259771560306,55.90832632464256,12.972859687729226,2.614241659657976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ family I havo few regrets. ... If I did
 not rise with dignity. I can at least fall  
 with ea.se.&quot; Thus was Abiirail Adama
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473777:1884030701:0352/pct:25.96153846153846,88.01201802704055,16.012820512820515,4.556835252879319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473777:1884030701:0352/pct:17.30991152711886,58.67801702553831,10.680856520066675,3.0345518277416126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ family I have few regrets.. If I did
 not rise with dignity, I can at least fall  
 with ease.&quot; This was Abigail Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285025:1884030701:0414/pct:214.02061855670104,97.03016241299304,54.707903780068726,14.06032482598608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285025:1884030701:0414/pct:53.51434954459529,24.25754060324826,13.679326344732772,3.51508120649652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ self and family I have few regrets. *
 * * If I did not rise with dignity, I can  
 at least fall with ease.” This was Abi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_apple_ver01:data:sn2001063566:00279522746:1884040401:0207/pct:74.04059625753251,39.41801671654112,16.349508404693943,2.8273655969456195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_apple_ver01:data:sn2001063566:00279522746:1884040401:0207/pct:74.04588222856539,39.421456334055655,16.354794375726822,2.8273655969456195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ have few regrets. *
 If I did not rise with dignity I can at  
 least fall with ease.” This was Ab
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1884040501:0062/pct:72.74935695913118,28.17829862927697,11.160331523292369,3.3692581353981375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1884040501:0062/pct:72.75412022482614,28.17829862927697,11.16509478898733,3.3762338251194586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ self and family I have few regrets.
 If I did not rise with dignity, I can  
 at least fall with ease.&quot; This was Abi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348079:1884041001:0103/pct:71.81830048296567,31.259392846408176,10.781882260801462,3.2161106101593027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348079:1884041001:0103/pct:71.82700256711482,31.259392846408176,10.777531218726885,3.2161106101593027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ self and family I have few regrejts.
 If I did not rise with dignity, I can  
 at least fall with ease.&quot; This was Abi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623355:1884041101:0425/pct:66.87910028116214,42.29699666295884,11.677600749765698,3.337041156840934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623355:1884041101:0425/pct:66.87910028116214,42.29699666295884,11.682286785379569,3.3474694104560623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ few regrets. * * * * If Ido not rise
 with dignity, I can at least fall with  
 ease.” This was Abigail Adams, I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769350:1884041701:0822/pct:82.85066061657547,29.92541951522685,10.67663152275457,3.6254402320281747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769350:1884041701:0822/pct:82.85066061657547,29.932325115668807,10.67663152275457,3.6219874318071956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ rise with dignity, I can at least fall with
 ease.&quot; This was Abigail Adams. In person  
 she was distinguished and noble rathe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1884042401:0392/pct:15.963302752293577,19.543914277864275,14.482306684141546,3.8465060903013097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1884042401:0392/pct:15.967671472258628,19.546967060475623,14.486675404106597,3.85261165552401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ few regrets. * * * If Ido not rise
 with dignity, I can at least fall with  
 ease.” This was Abigail Adams. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769477:1884052901:0589/pct:64.1299986625652,21.18628008338071,13.936070616557442,4.2353610005685045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769477:1884052901:0589/pct:64.13445677856538,21.189438443560103,13.94052873255762,4.238519360747899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ family I have few regrets. ... If I
 did not rise with dignity, I can at  
 least fall with ease.” This was Abigai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1884080701:0338/pct:46.15702479338843,41.371705811004524,9.449035812672177,2.933068695556291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1884080701:0338/pct:46.16161616161616,41.379056860366816,9.453627180899908,2.933068695556291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

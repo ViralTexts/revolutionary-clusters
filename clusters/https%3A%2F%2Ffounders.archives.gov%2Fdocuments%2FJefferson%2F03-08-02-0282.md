@@ -63,7 +63,7 @@ id recollect her wanderings only in the crimes of the 0f
 e party, which would have basely sold what their foi  
 o bravely won from the same enemy.&quot; e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854081101:0147/pct:38.28930412371134,86.47014361300076,14.44909793814433,6.021667926429831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854081101:0147/pct:38.30004295532646,86.47854203409759,14.44372852233677,6.021667926429831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ tious for submission to British pou er.d lir.t.sb
 &quot; must bo contented to be nothing; as haying a volt, ;  
 , i ludeed, to he counted hut not respected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855032301:0573/pct:69.3270060396894,42.69748782118636,14.178889847569744,6.676855478078135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855032301:0573/pct:69.33659284824083,42.70385582831853,14.188476656121177,6.676855478078135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ forward from the mass ; autf that, putting together all our
 conflicts, we can beat the British by sea and by land, with  
 equal numbers &#x27; In the same letter Mr. Jefferson re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032701:0379/pct:36.801040312093626,59.28166351606805,15.99479843953186,5.69628229363579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032701:0379/pct:36.801040312093626,59.29006511237135,16.000216731686173,5.700483091787439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ be nothing?as having a vote, indeed, to be counted bat
 not respected.&quot;  
 Look calmly upon the picture thus presented to von
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032701:0379/pct:36.817295188556564,64.68809073724007,15.83224967490247,8.39319470699433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032701:0379/pct:36.817295188556564,64.69649233354338,15.837667967056783,8.397395505145978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ mate her own relative momentum in the Un­
 iion. With her ancient principles she would  
 e e e  i e i ot tin ere th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190133:1857071801:0288/pct:177.17948717948718,227.8558052434457,55.19230769230769,31.60112359550562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190133:1857071801:0288/pct:59.05982905982906,75.95193508114856,18.397435897435898,10.53370786516854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ herself the whole.&quot;
 Tristram Burgees, in a speech in Congress,  
 once declared that he thanked God that &quot;th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857072901:0274/pct:31.786627694556085,9.646758405447581,12.184873949579831,9.703504043126685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857072901:0274/pct:31.786627694556085,9.651487208587506,12.197052734137133,9.71769045254646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ Union. With her ancient principles she
 would really be great if she did not think  
 herself the whole.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857072902:0120/pct:30.700052900722977,8.492806257857243,12.343502027861048,8.590585277273362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857072902:0120/pct:30.711808616939987,8.492806257857243,12.331746311644038,8.599897564836802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ tive momentum in the Union. With her
 ancient principles, she would realhj he great  
 if she did not think herself the whole!&#x27;&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624293:1857090301:0114/pct:50.19693654266958,35.400152025192746,14.61706783369803,8.9260506026713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624293:1857090301:0114/pct:50.19693654266958,35.400152025192746,14.636518356430829,8.9260506026713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ cunt principles, she iccu?d really le
 great if she did rot think herself the  
 whole!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1857091001:0556/pct:91.26420454545455,20.463143413963085,32.10227272727273,106.2937062937063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1857091001:0556/pct:68.47115657857346,15.350223546944859,24.083546462063087,79.72027972027972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ be contented to be nothing, as having a
 vote indeed to be counted, but not respec-  
 ted 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1859050501:0505/pct:110.44455066921606,63.47126006365849,16.58699808795411,3.491855457779442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1859050501:0505/pct:82.85919196748745,47.60344504774387,12.443222567535262,2.6212319790301444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ attached to tlie Union; that their city
 Wilh reference to the objection to the  
 purclia.se, there is no citizen who has any attachmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860103001:0352/pct:61.31578947368421,8.773125608568646,25.44736842105263,87.34177215189874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860103001:0352/pct:61.31578947368421,8.776371308016877,25.45175438596491,87.34501785134697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ Adamses, while Strong, her present leader,
 was promoting petitions for submission to Brit­  
 ish power and&quot; British usurpation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861092701:0369/pct:61.520038320293786,44.69750889679715,12.949065942838896,4.341637010676156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861092701:0369/pct:61.53068284634627,44.70541716093317,12.949065942838896,4.349545274812178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ Adamses, while Strong, her present leader,
 was promoting petitions for submission to Brit­  
 ish power and British usurpation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861092701:0370/pct:61.424237585821494,44.85172004744958,12.949065942838896,4.329774614472123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861092701:0370/pct:61.42955984884773,44.85172004744958,12.949065942838896,4.333728746540134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

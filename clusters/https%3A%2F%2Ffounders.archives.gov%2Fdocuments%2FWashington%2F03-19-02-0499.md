@@ -39,7 +39,7 @@ no doubt of success in driving the British out
 of Georgia and subduing East Florida before  
 the end of July
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775666:1860110301:0017/pct:166.8767507002801,248.0349344978166,43.69747899159664,20.96069868995633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775666:1860110301:0017/pct:41.741110527237694,62.00873362445415,10.93011035207567,5.240174672489083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -61,7 +61,7 @@ in driving the British out of Georgia, and
 subduing East Florida before the end of  
 July.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862073101:0365/pct:22.421203438395416,213.87797852841058,48.35243553008596,18.591254255040585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862073101:0365/pct:5.608313922236158,53.469494632102645,12.09460670130801,4.647813563760146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ Carolina. I should have no doubt of success in
 driving the llritish out of Georgia, and subdu­  
 ing Fast Florida, before the end of July.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525152:1862090601:0250/pct:16.98252069917203,54.93034689975416,12.32750689972401,3.837749248839115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525152:1862090601:0250/pct:16.979396615158205,54.92284582821248,12.329838116261957,3.840639082343302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ select in Carolina, I should havc-no doubt of boc*
 ccub in driving; the British out of Geonjia, and  
 subduing East Florida, before the end of July
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862122201:0002/pct:65.80972039782323,3.381573291302479,10.03940701820229,1.1749534317237427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862122201:0002/pct:65.82379433289547,3.3851554663991976,10.044098329893037,1.1856999570138989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ East Florida, before tbe end of
   
 July.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862122701:0510/pct:68.61648016276703,52.93198750300409,14.276025771447948,4.049507329968757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862122701:0510/pct:68.6277834294111,52.93599295041256,14.281677404769978,4.057518224785708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -187,7 +187,7 @@ gia, and subdHing L&#x27;ast Florida before the end of
 July.&quot;  
 James Madison, in a letter which ho wrot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1863021801:1054/pct:92.14532871972318,81.75807078957604,16.19377162629758,3.2931414495008426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1863021801:1054/pct:69.14157147802008,61.3250356540905,12.149532710280374,2.463373525217166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ in the British out of Georgia, and sub-
 July.&quot;  
 James Madison, in a letter which h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1863031101:0185/pct:8.692307692307692,107.40833751883476,14.492307692307692,4.080863887493722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1863031101:0185/pct:6.526088964137294,80.56253139126068,10.881945513313838,3.0637870416875943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -75,7 +75,7 @@ County of Suffolk, in order to their being se.­
 cured, to make answer to said Presentments at  
 the Adjournment of Court of General Session
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190637:1859021401:0152/pct:144.01924338508638,254.51048951048952,64.04985786136015,50.87412587412587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190637:1859021401:0152/pct:36.004810846271596,63.62762237762238,16.012464465340038,12.718531468531468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ before God to night, I declare that noth­
 ing I have ever given in charity is re  
 gretted, O, no! it is the riches we kee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1859030401:0043/pct:130.20186335403727,159.26143024618992,50.85403726708075,36.40093786635404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1859030401:0043/pct:32.556785090273735,39.81535756154748,12.715977480100952,9.10023446658851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ Peace in said County of Suffolk, in order to their be
 ing secured, to make answer to said Presentments at  
 the Adjourment of Court of General Sessions to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859030401:0220/pct:23.785803237858033,63.63095945785281,50.12453300124533,13.458566163357508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859030401:0220/pct:5.946450809464508,15.907739864463203,12.531133250311333,3.364641540839377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ county of Suflolk, in order to their being ser
 cured, to make answer to said presentment at  
 the adjournment of court of general sessions t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_honda_ver01:data:sn83030214:00175039831:1881021301:0385/pct:193.42663940871205,148.70011402508553,45.79336373643655,13.979475484606613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_honda_ver01:data:sn83030214:00175039831:1881021301:0385/pct:64.47554646957069,49.566704675028504,15.264454578812183,4.6598251615355375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ they may be found in your precinct, and
 them convey before one or more of his ma­  
 jesty’s justices of the peace in said county o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:0051717340A:1881022501:0429/pct:18.45325501713167,5.772196519057061,14.472181432533855,4.086803260630095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:0051717340A:1881022501:0429/pct:18.450244698205548,5.771560744575393,14.475258292550299,4.0900245988912145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ man was engaged with a Mr. Arnold in
   
 the publication, in the same place, La
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_chuckwalla_ver01:data:sn84021913:00211105859:1881030501:0440/pct:35.23375142531357,30.63583815028902,110.66134549600912,281.4616019818332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_chuckwalla_ver01:data:sn84021913:00211105859:1881030501:0440/pct:8.8122059033224,7.658959537572255,27.67717096820191,70.3654004954583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ county of Suffolk, in order to their being
 secured to make answer to said present­  
 ment at the adjournment of court o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524068:1881052401:0336/pct:162.66365688487585,232.36921791792838,37.44168547780286,18.21029549963454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524068:1881052401:0336/pct:54.213060487511285,77.44831906452286,12.478683920152474,6.06946474559755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

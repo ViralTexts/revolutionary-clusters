@@ -137,7 +137,7 @@ each, in the execution of its laws.&quot;
 And coercion of States, or war, was totally dis  
 credited, as hostile to their plan of action. pp. 440
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032701:0294/pct:247.00665188470066,103.06489114352145,46.34146341463415,19.192559712534347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032701:0294/pct:61.76022176022176,25.766222785880363,11.586971586971586,4.798139928133587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ press the former sentiment, and to inspire the
 latter, than that of a single State, which can  
 only command the resources within itself 7
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861102401:0898/pct:31.12947658402204,8.920250299560644,12.617079889807162,4.606577020370124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861102401:0898/pct:31.12947658402204,8.930235654373586,12.621671258034894,4.609905471974438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ a single Stute, which can only command the re­
 sources within itself.&#x27;&quot;—Federalist No. XXV11.  
 ••
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1861110201:0430/pct:23.268645357686452,11.637931034482758,14.821156773211568,4.976489028213166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1861110201:0430/pct:23.27815829528158,11.647727272727273,14.835426179604262,4.983019853709509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ Magistrates, of the respective members,
 will be incorporated into the operations  
 of the national government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:104.27089688834656,269.6361631753032,37.46186699206834,8.379272326350607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:26.075678974671956,67.4090407938258,9.368324687213915,2.094818081587652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ one mistake having occurred in all that time)
 we ase enabled to furnish conplete deraign  
 ments of title to al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:144.29530201342283,125.51267916207277,116.59548505186089,49.393605292172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:36.08483368935001,31.378169790518193,29.157766249618554,12.348401323043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ and upholding the National authority
 against a turbulent faction choosing to  
 say the National laws shall not be exe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1879052301:0896/pct:81.16970926301555,39.1486574983628,14.587559161595673,8.36935166994106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775733:1879052301:0896/pct:60.896027049873204,29.364767518009167,10.938292476754015,6.286836935166994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ strong incitement to sedition, and the
 dread of punishment a proportionately  
 strong discouragement
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529029:1886012101:0123/pct:68.72623574144487,38.929982774343905,11.420423682781097,2.2494680312088358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529029:1886012101:0123/pct:68.73076226688394,38.93673793359678,11.420423682781097,2.2494680312088358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ to expect that this branch will generally
 be composed with peculiar care and judg­  
 ment.&#x27; Other quotations from the writing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665489:1894052301:0223/pct:29.27615270203272,53.58426005132592,18.170550322260784,8.408896492728829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665489:1894052301:0223/pct:21.968757748574262,40.18819503849444,13.625092982891148,6.313088109495295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ ernment, they recall what centralization and
 censtant espionage have done for France, what  
 paternal methods everywhere on the continen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036830:1898052901:0611/pct:4.586929716399506,30.463368816530995,69.71639950678176,62.11646837820914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036830:1898052901:0611/pct:1.528976572133169,10.154456272176999,23.238799835593916,20.705489459403047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

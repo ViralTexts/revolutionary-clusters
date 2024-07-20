@@ -102,7 +102,7 @@ Legislature on articles exported from any State
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n102/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n102/mode/1up?view=theater)
 
 #### 1845-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -142,7 +142,7 @@ under the (tower of regulating trade, the general legislature
 might favor particular ports. On the 15th of September  
 Mr. McHenry and Mr. Carroll moved, that no Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847082701:0830/pct:16.767323585505405,13.959548331058445,16.036236490781945,5.199156222856434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847082701:0830/pct:16.77791905064632,13.963684493526905,16.030938758211484,5.199156222856434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ were in favor of such power. The provision proposed
 vas: &quot;No tax or duty shall be laid by the Legislature on  
 articles exported from any State; nor on the migratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184686:1859120901:0403/pct:87.79293978048057,202.30760220217874,37.83743696232572,3.5609698957479208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184686:1859120901:0403/pct:29.259973305650306,67.42796907940969,12.610608532305106,1.1868509408916998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ ed anticipated by the great statesmen of 1787,
 and whether a proposition should not be sub­  
 mitted to the people for an amendment of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183414:1865110901:0387/pct:18.657367044463818,25.368929433861013,12.467306015693113,7.271263751006171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183414:1865110901:0387/pct:18.654114365411438,25.365526492287056,12.469490934449093,7.27364185110664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

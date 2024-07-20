@@ -61,7 +61,7 @@ say about it is, &quot;A little more sleep, a lit­
 tle more slumber, and a little more fold  
 ing of the hands to sleep : let us enjo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1859121501:0542/pct:19.431903686982693,99.33324261804327,17.099322799097067,10.314328480065315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82015486:00280760924:1859121501:0542/pct:14.586862412949369,74.49993196353245,12.836438923395445,7.742550006803647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ ing of the hands to sleep : let us enjo
 &quot;a little-more sleep, a  little more slumber.  
 and a little more folding of the arms
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861121101:0559/pct:104.18994413407822,96.15145099016067,56.07541899441341,3.985552372649147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861121101:0559/pct:26.05658400279427,24.037862747540167,14.02375130981488,0.9963880931622867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ ing of the hands to sleep.’
 Why careless? You should not be, for  
 the hours in which you may secure salvatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184406:1869021001:0199/pct:70.026271793647,27.653149266609145,12.096966802006209,4.201898188093184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184406:1869021001:0199/pct:70.0179104477612,27.650763523423347,12.099502487562189,4.204411468668219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ arms,” build up a Chinese wall around them,
 while the great moving, progressive world  
 without is striking out iu every direction, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1871031601:0364/pct:5.149991329980926,83.49193761564895,12.536847581064679,5.56436690457309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1871031601:0364/pct:5.1490984743411925,83.48090392493722,12.539008321775311,5.566935377296154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ writer when he said A little more
 sleep a little more slumber and a little  
 more folding of the hands to res
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86063242:00206533201:1885061001:0070/pct:16.06578947368421,96.0038240917782,17.407894736842106,2.734225621414914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86063242:00206533201:1885061001:0070/pct:12.055804158989208,72.00525812619503,13.069228744406423,2.0554493307839388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

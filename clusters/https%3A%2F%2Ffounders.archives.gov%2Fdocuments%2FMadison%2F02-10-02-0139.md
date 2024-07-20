@@ -37,7 +37,7 @@ of Samuel Chafe.
 aa for ascertaining and adjuring the titles and claims  
 to land within the territory of Orleans and the diltri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806042901:0443/pct:4.563380281690141,0.17900524229638154,37.16431924882629,95.75501853982867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806042901:0443/pct:4.562523469770935,0.17898235745333674,37.163599949931154,95.74703826813261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ Jor ascertaining and adjusting the titles
 and claims to land, within the terri  
 tcry rd Orleans, and the district i/ Lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806090301:0292/pct:23.510375023795927,44.14016872160934,16.314486959832475,1.881894873458793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806090301:0292/pct:23.505900266463648,44.1344406955619,16.317726176881106,1.8859762955272947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ i tne pissing of this act, had t ;ken
 possession of, occupied, or made a set­  
 tlement on any lands ceded or secure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032301:0002/pct:60.0859291084855,47.18032341350727,17.851772287862513,8.778366625900258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032301:0002/pct:60.0859291084855,47.18485301444943,17.858933046902973,8.773837024958102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ tern district of the territory of Or
 leans, and all the other provision  
 made by the same section, for the sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811050601:0156/pct:7.355864811133201,19.97086317834163,17.567323332730886,12.006798591720287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811050601:0156/pct:7.354535598120709,19.968438941490653,17.570172268401397,12.009387391761754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ established by ihe act, entitled &quot; An act for ascertain­
 ing and adjusting the titles and claims to land within  
 the territory of Orleans, and the district of Louisiana,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838071801:0533/pct:2.5012506253126565,56.85752330226365,15.391028847757212,2.6146955574385666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838071801:0533/pct:2.5123672947584903,56.86155832627204,15.402145517203046,2.6187305814469597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

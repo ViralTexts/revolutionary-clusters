@@ -223,7 +223,7 @@ By intei«at, or other consideration, and pay costs,
 feet shall b- disci,argad of all other penalties of  
 that act. The difference then between the for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809101301:0186/pct:4.5739579490962745,36.95678489287011,17.83474732571007,4.708873017794456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809101301:0186/pct:4.573114512262586,36.95231178891309,17.837605261540354,4.712337609941096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ every offence, twenty pounds to the Common­
 wealth and informer, to be recovered and di­  
 vided, as herein before is mentioned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817072501:0097/pct:33.139631412917154,59.62340603027053,14.809895400962976,23.34644261708974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817072501:0097/pct:33.134130146082335,59.6163012392755,14.812970340858786,23.347632666031142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ of payment, fur ono whole year, ol or lor
 hi-, her. or llieir money or oiner lnmgs,  
 above the sum ofsix dollars.eithcr in money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290173:1836120901:0171/pct:23.61111111111111,72.37403253830358,18.568376068376068,11.893855631021955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290173:1836120901:0171/pct:17.72124839675075,54.28842205022903,13.937580162462591,8.924340546517138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ payment, lor one whole year, ot or lor his,
   
 her, or their money or other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1836123001:0059/pct:29.34690415606446,13.647022041581991,20.568278201865986,12.099421603876817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777328:1836123001:0059/pct:22.02418841502228,10.239174613099891,15.446636961595587,9.082382366734407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ for the same; and if, thereupon, it shall appear that more
 than lawful interest was reserved, the lender shall be   
 obliged to accept his principal without interest or othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843021001:0182/pct:6.718097074895532,139.32622894465453,52.1215043394407,27.59252893319583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843021001:0182/pct:2.239365691631844,46.442076314884844,17.373834779813564,9.19750964439861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -875,7 +875,7 @@ UJrfS?cL^eaith, ?nd the other to tr.e
 informer, to be recove;cd with costs.  
 Mr WOODS moved io sink- out tne r?or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1849080701:0028/pct:3.0918595967139657,45.738911485570405,13.876026885735623,5.694363742010459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1849080701:0028/pct:3.096838436644262,45.745367680289235,13.871048045805328,5.691135644651043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1038,7 +1038,7 @@ dred dollars for one year, and so after that
 rate for a greater or lesser sum, or fin a longer  
 or shorter time, he shall be deemed guilty o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624499:1860012801:0326/pct:58.20702402957486,53.76557191392978,15.526802218114602,4.430917327293319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624499:1860012801:0326/pct:45.11985483716933,41.67123788626806,12.04278483430427,3.441214115926129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1136,7 +1136,7 @@ more than as cents for making or renewing any bond, bill,
 note or other security given for such loan or forbearance,  
 or for any counter bond, bill, note, or other secarity co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530856:1867031301:0490/pct:202.34123947972455,90.77257889009793,47.819433817903594,8.335146898803046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530856:1867031301:0490/pct:67.44707982657485,30.25752629669931,15.939811272634532,2.7783822996010157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1157,7 +1157,7 @@ one hundred dollars for one year, and so
 after that rate for a greater or lesser sum, or  
 for a longer or shorter time, he shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869033001:0314/pct:102.7592768791627,240.91549295774647,44.433872502378684,13.098591549295774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289031:1869033001:0314/pct:25.689819219790675,60.228873239436616,11.108468125594671,3.2746478873239435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1180,7 +1180,7 @@ bearance of one hundred dollars for one year,
 and so after that rate for a greater or less  
 sum, or for a longer or shorter time, ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870031501:0258/pct:160.15325670498083,235.4371535848382,44.44444444444444,14.16055784015734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870031501:0258/pct:40.05749880210829,58.85928839620955,11.116435074269287,3.540139460039335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1227,7 +1227,7 @@ of the same; and if it appear that more
 than lawful interest was reserved, the  
 lender shall recover only his principal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665143:1872021401:0155/pct:-2.448355011476664,67.39299610894942,15.332823259372608,7.326292384658143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665143:1872021401:0155/pct:-2.45855649069115,67.40040763387067,15.343024738587095,7.329998147118769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1249,7 +1249,7 @@ loan, and the interest or consideration of the
 Fame ; and if it appear that more than lawful  
 interest was reserved, the lender shall recove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192336:1872022001:0243/pct:42.623236369970385,15.22740356937248,13.30778609998258,4.418537708693149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192336:1872022001:0243/pct:42.62759101201881,15.231001727115716,13.31649538407943,4.418537708693149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1279,7 +1279,7 @@ all bargains, contracts or shifts relative
 to such loan, and the interest or consid­  
 eration of the same; and if it appea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665167:1873030801:0228/pct:14.307071311107789,29.261759348548164,12.034683809239048,8.400300010714668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665167:1873030801:0228/pct:14.31205461703294,29.261759348548164,12.04465042108935,8.403871566841673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1312,7 +1312,7 @@ pay the cost of suit.&quot;
 2. lie it further enacted , It an excess  
 I beyond the lawful interest be paid i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767791:1873031501:0049/pct:11.03247293921732,16.50107149814923,18.38745489869553,10.861094876290668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767791:1873031501:0049/pct:11.0370987140346,16.507565426326384,18.39208067351281,10.864341840379245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1368,7 +1368,7 @@ Mieh oflence, the double value of the money -, wares,
 merchandise or real estate so lent, bargained 01 ex­  
 changed to any person who will sue for the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022998:1875022201:0035/pct:3.116457080371788,45.4094805328927,19.54620010934937,11.422079933904781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022998:1875022201:0035/pct:2.3376623376623376,34.059692244139214,14.66848940533151,8.571723639367965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1402,7 +1402,7 @@ goods and chattels, above the\alueof si;
 dollars, and after that rate for a greater o  
 less sum, or for a longer or shorter time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878022801:0248/pct:26.552944962986803,58.275946876537134,11.377534599291922,8.23905558288244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878022801:0248/pct:26.548672566371682,58.26878150743883,11.379726468222044,8.241116439198327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1423,7 +1423,7 @@ that rate for a greater or less sum, or for a louger or short­
 er time.  
 2. And be it enacted. That so much of the first sectio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878032801:0263/pct:4.377696117590669,31.89409872572065,11.008148266496246,2.127922800940245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878032801:0263/pct:4.376996805111821,31.890153389411182,11.01038338658147,2.130752102919347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1468,7 +1468,7 @@ sideration of the samo; and if it appear
 that more than lawful interest was recelvI  
 ad, the lender shall recover only his prin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193444:1879012801:0100/pct:25.77723378212974,28.618707542240028,12.949816401468789,6.34035882250479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193444:1879012801:0100/pct:25.77723378212974,28.618707542240028,12.949816401468789,6.366486674795332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1495,7 +1495,7 @@ consideration of the same; and if it appear
 thfct more than lawful interest was reserved,  
 tho lender shall recover only hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193444:1879021301:0156/pct:26.16106719367589,71.04033235243206,14.673913043478262,6.560498528648087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193444:1879021301:0156/pct:26.16106719367589,71.05331486930933,14.673913043478262,6.564826034273844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1517,7 +1517,7 @@ forbearance of one hundred dollars for
 a year, and after that rate for a greater  
 or less sum for a longer or shorter time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529613:1883021501:0032/pct:6.469849246231155,39.775114296305446,10.678391959798995,4.732484863462251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529613:1883021501:0032/pct:6.4688334118385935,39.77020014825797,10.680640602920395,4.7349888806523355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1546,7 +1546,7 @@ terest was reserved, the lender shall re­
 cover his principal money or only tiling  
 ou’y. but shall recover no interest or n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00414186609:1891020401:0118/pct:22.225384177575414,20.672673931265717,10.301650540694366,6.15046102263202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00414186609:1891020401:0118/pct:22.22222222222222,20.67050811943426,10.304927206335657,6.153308887724812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

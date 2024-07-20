@@ -226,7 +226,7 @@ mous terms, is an act committed or omitted, in viola­
 tion of afiublick law, either forbidding or command­  
 ing it. By this test, let the conduct of the respon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805061301:0554/pct:25.031478217073786,28.259452411994786,21.05263157894737,1.8904823989569752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805061301:0554/pct:25.02517623363545,28.25484764542936,21.053625377643506,1.8942480039107055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ to be “ si act committed or omitted in viola­
 tion of a public law, either forbidding or  
 commanding it.” Christian in his notes up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808020401:0360/pct:41.83895538628944,73.56506679861455,17.410228509249183,1.880257298367145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808020401:0360/pct:41.83136899365367,73.55596784168213,17.413115744938047,1.8841475984333127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ the taw, that a crime,is ail act committed or o­
 mitted, in violation ofa public law,either for­  
 bi tding or commanding it : the act, under con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817041801:0457/pct:48.62340216322517,2.2517911975435005,14.913143231727302,1.4713408393039917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817041801:0457/pct:48.6154350319515,2.251503134194704,14.916161450652684,1.4754168265745597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ is*a public law, the violation of it,
 then, is a crime : a prosecution for  
 it, nm«t of necessity be a crimina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817042501:0699/pct:26.577064816822023,71.33393947265878,18.144374593539997,17.18404987660735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817042501:0699/pct:26.57130472475076,71.32467532467533,18.147666522178877,17.186147186147185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ defines a crime thus : &quot;A crime or misdemeanor is an
 act committed or omitted in violation of the public  
 law either forbidding or commanding it.&quot; He goes o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840022201:0370/pct:20.090225563909776,22.963335007533903,15.774436090225564,1.5871421396283274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840022201:0370/pct:20.090225563909776,22.963335007533903,15.784461152882205,1.5904905407667838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ There is perhaps but one ease analogous to this,
 that can be produced, and that is recorded by the in  
 imitablc Cervantes, to the following rfleet ? when 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842022101:0234/pct:48.10168924569326,80.63767407769362,16.591403244689747,6.645492303933545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661277:1842022101:0234/pct:48.10168924569326,80.64581806336021,16.60255338127892,6.645492303933545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ There is perhaps but one case analogous to this,
 that can be produced, and that is recorded by the in- ,  
 imitable Cervantes, to the following effect?when 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842022201:0033/pct:64.5893208289215,18.201069995541687,15.459083345938588,6.687472135532769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842022201:0033/pct:64.5893208289215,18.20850052013672,15.474209650582363,6.687472135532769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ having an opportunity of making his defence; and
 that the imprisonment of any citizen of a sister  
 State by the authority of another State in the Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846110501:0390/pct:32.79445727482679,298.705035971223,55.96612779060816,9.66906474820144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846110501:0390/pct:8.20019249278152,74.67625899280576,13.99422521655438,2.41726618705036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ ment of any citizen of a sister State by the authority
   
 of mitef tate in tie thon witont the aegation of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846110601:0343/pct:77.65151515151516,163.60764038489157,48.56060606060606,7.870170903346259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846110601:0343/pct:19.41287878787879,40.90191009622289,12.140151515151516,1.9675427258365648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ nity of making his defence; and that the
 imprisonment of any citizen of a sister State  
 the authority of another State in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1846111001:0192/pct:14.850746268656716,153.16547809634696,50.298507462686565,12.341726095182652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1846111001:0192/pct:3.7147657270860557,38.29136952408674,12.58166884450252,3.085431523795663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ misdemeanor is an act committed or omitted, in j
 violation of a public law, either forbidding or com­  
 manding it. It is clear, therefore, that there must 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861011501:0057/pct:4.574978819542502,48.23918932477174,11.183281558881673,0.9531453797531855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861011501:0057/pct:4.579685587875365,48.23918932477174,11.187988327214535,0.9598341192602254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -817,7 +817,7 @@ present dispositions toward the Government
 on general principles, without retrospection  
 to particular instances of past malconduc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775071:1865060801:0126/pct:147.55760368663596,22.14022140221402,57.51152073732719,48.21648216482165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:00280775071:1865060801:0126/pct:36.914918146184,5.535055350553505,14.387825685958035,12.054120541205412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,7 +861,7 @@ sequences, render our title to this great privilege
 precarious.&quot; He said.  
 &quot;Nothing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191435:1865070801:0240/pct:72.97171998145572,280.15852047556143,49.60593416782569,38.78467635402906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191435:1865070801:0240/pct:18.24927536231884,70.03963011889036,12.405797101449275,9.696169088507265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ lor testing pres.-nt dispositions towaid the gov­
 ernmeut un genera! pi ini iples, without retros­  
 pection to particular instances of nist mal-eon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688258:1865071201:0373/pct:58.92163212435233,90.37804734424685,13.439119170984457,7.054528324107879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688258:1865071201:0373/pct:58.92702936096718,90.37804734424685,13.439119170984457,7.066305499941114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,7 +944,7 @@ Government. That portion
   
 that for which we hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528736:1865071301:0294/pct:84.24461515288446,184.26453819840364,70.32685645428528,25.598631698973776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528736:1865071301:0294/pct:28.081538384294824,61.42151273280122,23.44228548476176,8.532877232991257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -997,7 +997,7 @@ designating who, of their members, shall
 vote and who shall not vote, the applica­  
 tion of this apt opinion of Col. Hamilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029564A:1865071301:0109/pct:124.39602084320228,58.62068965517241,100.37896731406916,320.5796038151137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029564A:1865071301:0109/pct:31.110058049994077,14.655172413793103,25.10366070370809,80.14490095377843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ tion ottbesovereigntvtowhicheac.il individual is entitled
 can never be to highly priaed. It is that for which we have  
 fought and bled.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866022001:0033/pct:26.06318347509113,13.602015113350125,16.798298906439854,6.201271440566151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866022001:0033/pct:19.550356980100258,10.207508696173683,12.608233328269785,4.653952261005157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1329,7 +1329,7 @@ pursue the subject further. The judgment
 of the Supreme Court of Missouri mnst be  
 reversed and the cause remanded, wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867011901:0065/pct:46.91762138570649,63.56748565862106,12.738679759956355,47.10466500703539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867011901:0065/pct:35.193015959623516,47.67832016451997,9.562133406083754,35.32849875527655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1607,7 +1607,7 @@ to pursue the subject further. The judg--
 ment of the Supreme Court of Missourl,  
 must be reversed and the cause remanded
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867012201:0387/pct:332.47496423462087,81.73664370206681,56.580829756795424,155.25802677759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867012201:0387/pct:83.14847942754919,20.434160925516704,14.150268336314848,38.8145066943975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1677,7 +1677,7 @@ tution? The principle is the same in both
   
 cases, with only this difference in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867020101:0099/pct:227.1341463414634,37.00632773292603,39.26829268292683,51.93104953087497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867020101:0099/pct:56.79219393200183,9.251581933231508,9.818569903948772,12.982762382718743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1714,7 +1714,7 @@ mon law than such an inuisition as has
   
 beon mentioned into the consciences of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867020101:0099/pct:226.46341463414635,94.52323805367664,37.74390243902439,24.307222343443158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867020101:0099/pct:56.624485439853636,23.63080951341916,9.437414239975606,6.0768055858607894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1738,7 +1738,7 @@ tyrannical and a violation of the treaty
 and yet, when the same oath is employed  
 to divest that right which ought to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867020101:0099/pct:226.21951219512195,119.04865808422431,37.68292682926829,11.608116953960288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867020101:0099/pct:56.563500533617926,29.76216452105608,9.422168013416679,2.902029238490072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1783,7 +1783,7 @@ it necessary to pursue the subject further.
 The judgment of the supreme court of  
 Missouri must be reversed and the caus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867020101:0099/pct:225.91463414634146,131.00589133755182,38.048780487804876,37.355444032293256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867020101:0099/pct:56.487269400823294,32.751472834387954,9.51364537277024,9.338861008073314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1890,7 +1890,7 @@ the estimation of the law,&quot; and also, on
 the same occasion, announced &quot;that  
 the &quot;Leoislature coUld Not, ANd CAn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1868010201:0403/pct:17.309205350118017,322.1366204417052,50.03933910306845,38.1612737544941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1868010201:0403/pct:4.329004329004329,80.5341551104263,12.514757969303425,9.540318438623524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1944,7 +1944,7 @@ camp and field, in the bivouac and the
   
 imminent deadly breach maintaine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082001:0228/pct:24.11873840445269,34.34224472971381,87.75510204081633,242.65693086797785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082001:0228/pct:6.029684601113172,8.585561182428453,21.93877551020408,60.66423271699446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1971,7 +1971,7 @@ hroushout the States, who have been
 principally instrumental in the Revolu­  
 tion, are the most opposed to persecuting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082001:0228/pct:22.758194186765614,352.09044871039924,42.053184910327765,21.01048168649158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082001:0228/pct:5.6895485466914035,88.02261217759981,10.513296227581941,5.252620421622895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1994,7 +1994,7 @@ the State to prove the guilt, in order to
   
 inflict the penalty, it was to oblige the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082701:0257/pct:68.13664596273291,166.80028295213393,42.298136645962735,12.497052581938222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082701:0257/pct:17.042100357309305,41.70007073803348,10.579462482522914,3.1242631454845555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2023,7 +2023,7 @@ with this aggravation, that it deprived
   
 the citizen of the benefit of that adva
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082701:0257/pct:68.01242236024845,177.45814666352274,84.53416149068323,15.609526055175666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082701:0257/pct:17.011029982911293,44.364536665880685,21.143389777846824,3.9023815137939164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2044,7 +2044,7 @@ King of Great Britain should incur all
 the penalties which the laws against  
 treason prescribed, this would not be a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082701:0257/pct:67.70186335403727,208.25277057297808,42.422360248447205,11.412402735203962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082701:0257/pct:16.933354046916264,52.06319264324452,10.610532856920926,2.8531006838009905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2072,7 +2072,7 @@ recognized by the laws and Constitution
   
 of the State. I mean the trial by jury.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082701:0257/pct:67.20496894409938,203.25394954020277,128.38509316770185,34.0485734496581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082701:0257/pct:16.80907254932422,50.81348738505069,32.11123194034488,8.512143362414525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2094,7 +2094,7 @@ said, was attempted to be taken away in
 that mode, everybody would see that  
 the proceeding was tyrannical; bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082701:0257/pct:66.45962732919254,266.63522754067435,42.36024844720497,15.609526055175666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082701:0257/pct:16.62265030293615,66.65880688516859,10.59499766972192,3.9023815137939164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2130,7 +2130,7 @@ Hamilton. Such is the opinion of the
 Supreme Court of the United States. Is  
 there any flaw in the reasoning? I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082701:0257/pct:66.08695652173913,296.5338363593492,84.59627329192547,22.824805470407924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292984:1868082701:0257/pct:16.529439179742116,74.1334590898373,21.158924965045827,5.706201367601981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2172,7 +2172,7 @@ which might in their consequences ren
 der our title to this great privilege pro­  
 carious.&quot; &quot;Nothing is more common,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293381:1868111001:0274/pct:20.144927536231883,5.8004898686261415,26.10144927536232,119.99554664885326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293381:1868111001:0274/pct:15.11813306276272,4.3531507459363175,19.582548195390636,90.00222667557337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2219,7 +2219,7 @@ rule of fustice which holds that every
 man shall be presumed innocent until he is proved  
 guilty. This rule will be lound specifically incor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743816:1873012301:0269/pct:245.08981030720162,288.11687564707233,46.24811146550277,4.290808696652479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743816:1873012301:0269/pct:81.69660343573388,96.03895854902412,15.41603715516759,1.4302695655508264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2237,7 +2237,7 @@ be an act, committed or omitted in vi­
 olation of a public law, either forbidding  
 or commanding it.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022795:no_reel:1876111801:0278/pct:91.75230566534914,177.6870984545928,46.19235836627141,8.282687966660879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022795:no_reel:1876111801:0278/pct:30.584101888449716,59.2290328181976,15.397452788757137,2.7608959888869595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2273,7 +2273,7 @@ or is an act committed. or omitted, in violation
 of a public law. ei&#x27;hir forhiddingor command­  
 ing it. This geheral deiflnation comprehend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475427:1878052001:0408/pct:196.4339908952959,146.23812038014785,44.27162367223065,3.484688489968321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475427:1878052001:0408/pct:65.47799696509864,48.74604012671595,14.757207890743551,1.1615628299894403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2305,7 +2305,7 @@ and other acts which had been held to be misdmean
 ors, although such first-mentioned acts were not for­  
 bidden 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101933:1881110701:0470/pct:275.3577106518283,93.57091945830363,49.76152623211447,17.904490377761938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101933:1881110701:0470/pct:68.83942766295708,23.39272986457591,12.440381558028617,4.4761225944404845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2323,7 +2323,7 @@ Lord Blackstone, (4 vol., Com.,) is,
 violation of a publio law, either  
 forbidding or commanding it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn85042459:00280769046:1882042201:0418/pct:4.345726702076291,42.35532269587997,10.735554482536617,1.8456775422719696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_inskip_ver01:data:sn85042459:00280769046:1882042201:0418/pct:4.3537743441171735,42.36127649440343,10.739578303557058,1.8546082400571564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2409,7 +2409,7 @@ among the children ofthe parents&#x27;
 property, will soon melt down the  
 great estates.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_genoa_ver01:data:sn83025510:00340585689:1888011401:0355/pct:30.615079365079364,28.51000940480989,12.579365079365079,9.001746607550718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_genoa_ver01:data:sn83025510:00340585689:1888011401:0355/pct:30.629960317460316,28.516727126158806,12.584325396825397,9.011823189574097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2541,7 +2541,7 @@ tunes in asserting their liberty; in other
 words, their right to a share in the  
 government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1898041301:0441/pct:31.220786362386583,19.140068004826148,11.726697827880121,3.312493144674783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1898041301:0441/pct:31.220786362386583,19.140068004826148,11.73128035927046,3.3161493181236517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2559,7 +2559,7 @@ in violation of a public law either for­
 bidding or commanding it.?Black­  
 stone. .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898070501:0624/pct:41.000597966912494,75.68733153638814,19.413992425752443,2.884097035040431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898070501:0624/pct:41.005581024516644,75.69743935309972,19.423958540960733,2.887466307277628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

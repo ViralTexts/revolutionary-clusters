@@ -303,7 +303,7 @@ very largely to fortify and influence the party against Ine­
 a dependence, and finally lost us the Allens, Peuns, and  
 many others of weight in the community
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653042A:1853090701:0046/pct:199.34684307486182,26.615553121577218,48.41735052754982,28.720944383594986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653042A:1853090701:0046/pct:66.44894769162062,8.871851040525739,16.139116842516607,9.573648127864995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ he arguments which had been urged in Congress a hun
 the arguments which had been urged  
 dred times, and gave him his title of Common Sonse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653042A:1853090701:0046/pct:199.58130966337296,55.616405013995376,47.86467928320214,15.151515151515152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653042A:1853090701:0046/pct:66.52710322112432,18.538801671331793,15.954893094400715,5.05050505050505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ thoughts with large draughts of rum and water, that he
 was in short, a bad character, and not fit to be placed in  
 such a situation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653042A:1853090701:0046/pct:199.36359068832692,72.30132651819399,47.847931669737065,27.686503590118047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653042A:1853090701:0046/pct:66.4545302294423,24.10044217273133,15.949310556579022,9.22883453003935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ against independence, and finally lost us
 the Aliens, Penns, and many others of  
 weight in the community.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654024:1853102901:0408/pct:48.906356801093644,36.128120584079134,16.353383458646615,8.195949128591616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654024:1853102901:0408/pct:48.9149008885851,36.13695242581253,16.3661995898838,8.19889307583608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ which had been urged in Congress a hun­
 dred times, and gave him his title of  
 4 Common Sense..&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654024:1853102901:0408/pct:48.97470950102529,45.21902967498822,16.38755980861244,9.844559585492227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654024:1853102901:0408/pct:48.97470950102529,45.22197362223269,16.38755980861244,9.853391427225624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ water; that he was, in short, a bad char­
 acter, and not fit to be placed in such a  
 situation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654024:1853102901:0408/pct:48.95762132604238,56.75930287329251,16.336295283663706,18.334903438530382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654024:1853102901:0408/pct:48.970437457279566,56.75930287329251,16.336295283663706,18.337847385774847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ influence the party against independence, an i final­
 ly lost ns the Aliens, Penns, and many others of  
 weight in the community.1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853111101:0646/pct:2.9149159663865545,52.38606421391627,20.443802521008404,6.382355811457012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853111101:0646/pct:2.1933280798529027,39.2895481604372,15.340162857893354,4.791646335512833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ him with the arguments which had been urged in
 Congress a hundred times, and gave him his title of  
 &quot; Common Sense.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853111101:0646/pct:2.9936974789915967,59.42226993266322,20.3125,8.178003318044306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853111101:0646/pct:2.2458628841607564,44.56914218795745,15.24822695035461,6.138381965453304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -784,7 +784,7 @@ short, a bad character, and not fit to be placed in
   
 fucli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853111101:0646/pct:3.072478991596639,67.72713965062945,20.29936974789916,14.101688299014345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853111101:0646/pct:2.311531389545574,50.79535473797209,15.221959548200683,10.578705962720797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -808,7 +808,7 @@ y to lorlil&#x27;yaml inllueree the party against inlepvhdeiice,
 andliiial.v list us the Aliens,  
 Vnns. and many others ol weight in the coiniiiiiiity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862270:1853112901:0187/pct:51.789342084700735,13.552316728301065,19.940615721206438,6.645638459865129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862270:1853112901:0187/pct:51.789342084700735,13.555942281197883,19.945824868469032,6.649264012761946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -856,7 +856,7 @@ nid afterward- been employed by his friend
 lionett A ken, and finding that the tide of pop.  
 rarity ran high, he had turned about; that h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862270:1853112901:0187/pct:51.726832317549615,20.546008266260603,15.768088763869354,19.436589079834675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862270:1853112901:0187/pct:51.7372506120748,20.54963381915742,15.762879616606762,19.440214632731493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

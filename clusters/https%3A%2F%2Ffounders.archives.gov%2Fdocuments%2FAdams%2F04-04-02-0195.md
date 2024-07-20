@@ -275,7 +275,7 @@ power to say, that he can preserve his reputa
 tion, while there are so many evil tongues in  
 the world ready to blast the fairest character
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190923:1853021801:0164/pct:62.61849400822751,126.91098209966134,42.49686996959399,6.797290759554911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190923:1853021801:0164/pct:20.872831336075837,42.30366069988712,14.165623323197996,2.2657635865183035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ preserve his probity; but ho man living has
   
 . hi m ins power iu say m-st no v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065697:00295877601:1853031801:0099/pct:102.71739130434783,119.34485702091335,19.60812356979405,2.528809218950064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065697:00295877601:1853031801:0099/pct:77.05621513374338,89.51131028595817,14.704620226004863,1.899274434485702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ it in his power to say, that he can presery­
 his reputation while there are so many evil  
 tongurs in the world ready to blast th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025143:no_reel:1853070901:0173/pct:190.11210117849956,225.44524053224154,45.645300373670594,33.449334698055274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025143:no_reel:1853070901:0173/pct:63.37070039283319,75.14841351074719,15.215100124556866,11.14977823268509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ his in teg ritybut no man living has it in
  reputation, while their are so many evil  
 tongues
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623483:1857070201:0158/pct:219.4248366013072,241.84947049924358,42.431372549019606,9.512102874432678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623483:1857070201:0158/pct:73.14161220043573,80.61649016641452,14.143790849673202,3.170700958144226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ there are so many evil tongues in
 the world ready to blast the fairest  
 character, and so many open ear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1859031101:0181/pct:334.7445255474453,30.454608263092442,48.175182481751825,22.32969462484455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1859031101:0181/pct:83.73197005660033,7.613652065773111,12.050392550666423,5.582423656211137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ power to say. that he can pre-erve his rep­
 utations, while th?re are so many evil tongues  
 in the world ready to blast the fairest character*5
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174324:1861092701:0166/pct:77.4964639321075,88.08797221929917,14.893917963224894,5.156266442176155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174324:1861092701:0166/pct:77.48550417197002,88.07870370370371,14.89652571536322,5.159231200897867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

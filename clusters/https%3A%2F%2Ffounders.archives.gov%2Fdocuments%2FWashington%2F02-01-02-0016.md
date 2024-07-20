@@ -108,7 +108,7 @@ In deluding sleepings let my eyelids close,
 That in an enraptured dream I may  
 In a soft, lulling sleep and gentle repose.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531046:1882060801:0570/pct:13.144289519034936,40.99806409980641,39.385868713770954,12.647881264788127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00206531046:1882060801:0570/pct:4.3814298396783125,13.666021366602136,13.128622904590317,4.2159604215960425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ Ihat in an enraptured Dream I May
 In a soft lulling sleep and gentle repose  
 Possess those joys denied by Da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102068:1888011701:0056/pct:329.68630451415453,174.0859721584825,43.45830145371079,43.812146244454645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102068:1888011701:0056/pct:82.43734455710732,43.52149303962062,10.866653912378037,10.953036561113661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ That in an enraptured dream 1 may
 In a soft lulling sleep and gentlt re|&gt;ose  
 Possess those joys denied by Diy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889043001:0413/pct:39.78530694397853,65.09577710056595,12.93190204629319,4.680017414018285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889043001:0413/pct:39.77863491531109,65.08869300250299,12.935323383084578,4.683135633184604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ That in an enraptured Dream I may
 In a soft lulling sleep and gentle repose  
 Possess those joys denied by Day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_glass_ver02:data:sn83016348:00415624608:1889050401:0276/pct:31.18850538809933,51.2592064623426,13.32188036857723,20.83630315989546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_glass_ver02:data:sn83016348:00415624608:1889050401:0276/pct:24.170902929072863,39.725649051740014,10.332445735495844,16.15110783772172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -484,7 +484,7 @@ That In an enraptured Dream I may
 In a soft lulling sleep and gentle repose  
 roitcss those joys atnled bJDa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889050401:0043/pct:83.78588052754073,303.9481707317073,44.53064391000776,21.585365853658537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889050401:0043/pct:20.94647013188518,75.98704268292683,11.13266097750194,5.396341463414634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ That iu an enraptured Dream I may
 In a soft lnlllng aleop and gentle repose  
 Possess those joys denied by Day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889050602:0873/pct:224.80559875583205,235.96313076081861,52.255054432348366,20.12185596000625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889050602:0873/pct:56.234195681773976,58.990782690204654,13.071386889710173,5.030463990001563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ That In an enraptnred Dream I may
 In a loft lulling sleep and gentle rouoio  
 Possess those Joys denied by Day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889050603:0877/pct:223.40590979782272,241.60652651396296,51.32192846034214,20.26984625039222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889050603:0877/pct:55.85147744945568,60.40163162849074,12.830482115085536,5.067461562598055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ That in an enraptured Dream I may
 In a aoft lulling sleep and gentle repoae  
 Poaseaa those Joys denied by Day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889050604:0881/pct:225.85403726708074,239.77450673347948,52.17391304347826,20.169119949890383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889050604:0881/pct:56.48543689320388,59.94362668336987,13.048543689320388,5.042279987472596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -676,7 +676,7 @@ Tual in aa e: a ito eU Ireau I may
 In a soft lolling sleep and gentle repose  
 Possess those joys denied by Day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jughead_ver01:data:sn89066489:00294556643:1889050801:0231/pct:67.83719074221868,110.73029264434484,19.972067039106147,8.687055101502768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jughead_ver01:data:sn89066489:00294556643:1889050801:0231/pct:50.88804629814408,83.04771948325863,14.98702853721812,6.525177959398893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ That, in an enraptured Dream I may
 In a soft lulling sleep aud Kentie repose  
 Possess those joys deuied by Day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91090200:00415667541:1889051001:0521/pct:19.573333333333334,100.98118434722383,14.746666666666666,21.02043172111278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91090200:00415667541:1889051001:0521/pct:14.685874349739896,75.73588826041787,11.07109510470855,15.768209627149949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -777,7 +777,7 @@ That In an enraptured Dream I may
 In soft lulling Hlc-j) and gentle repono  
 1&#x27;uto.cm Uioho Joj&#x27;H denied by Day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063952:00280760286:1889060501:0154/pct:130.19639934533552,106.28875110717449,50.65466448445172,27.69412459403602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063952:00280760286:1889060501:0154/pct:32.562423250102334,26.572187776793623,12.668849774866967,6.923531148509005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,7 +857,7 @@ That In an enraptured dream I may­
 In a soft lulling nletp and gentle repose  
 Tossohs those joys deuied by L&#x27;ay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023589:1890022101:0430/pct:78.10889175257732,106.32996632996633,20.103092783505154,6.677890011223345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023589:1890022101:0430/pct:52.10314262691378,70.88664421997755,13.408541498791298,4.455667789001122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -920,7 +920,7 @@ That in an enraptured dream I may
 In a soft lulling sleep and pentle reposa  
 Possess thofcu joys denied by Jjay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286662:1890022201:0505/pct:65.88855421686748,51.67989561813635,18.373493975903614,33.10862237686202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286662:1890022201:0505/pct:43.94395902380235,34.4568881156899,12.247664959325098,22.072414917908013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -947,7 +947,7 @@ That in an enraptured dream I may J 5
 In a soft lulling sleep and gentle repose ;  
 Possess those Joys denied by day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588319:1891121101:1151/pct:48.666375163970265,22.509113001215066,17.337122868386533,8.277642770352369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588319:1891121101:1151/pct:37.727324070936405,17.44487169426352,13.42482774200836,6.415286824138743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -970,7 +970,7 @@ And will not on me Pity take
 He sleep amongst my most inveterate Foes  
 And with gladness never wish to wake
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:0041421096A:1892022301:0315/pct:31.628897927561496,45.23164861612515,12.31841952353283,3.4747292418772564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:0041421096A:1892022301:0315/pct:31.62277304415182,45.22484584147992,12.320875290472502,3.477966611520529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1012,7 +1012,7 @@ That in an enraptured dream I may
 In a soft lulling sleep and gentle repose  
 oassas thas soy def iy d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012701:0337/pct:263.8970588235294,264.3051771117166,49.19117647058823,40.32697547683924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012701:0337/pct:66.01066764759977,66.07629427792915,12.30457973146956,10.08174386920981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1090,7 +1090,7 @@ That in an enraptured dream I may
 In a soft lulling sleep and gentle repose  
 Possess those joys denied by day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182148:1895020301:0599/pct:53.578770323304056,82.21090909090908,16.07176228742291,18.385454545454547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182148:1895020301:0599/pct:41.532296997199964,63.71322286100778,12.455344211644299,14.25243302145568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ In a soft huiiing sheep tumid gentle repose
 50f lulng ! !  
 Possess thosp joys denl&#x27;d by day . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539203:1895021701:0628/pct:76.45614035087719,117.03215390824701,16.894736842105264,6.632584420826046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539203:1895021701:0628/pct:57.36094051587998,87.78084219023275,12.668889278820846,4.97780169514328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1199,7 +1199,7 @@ Tle sleep among my most inveterate foes.
 And with gladness never wish to wake  
 let my Eyelids clos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038826:1895092901:0459/pct:196.83075933075932,20.809185347184254,48.34298584298584,33.63586659376708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038826:1895092901:0459/pct:65.61025311025311,6.936395115728085,16.114328614328613,11.211955531255695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1296,7 +1296,7 @@ That in an enraptured dream I may
 In a soft lulling sleep aad gentle repose  
 Possess thoso joys denied by day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287162:1897021701:0124/pct:57.12486222642104,68.61696438121724,13.430955754999212,14.739544336292651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287162:1897021701:0124/pct:57.135359261008766,68.62409526865619,13.420458720411483,14.739544336292651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1337,7 +1337,7 @@ That in an Enraptured Dream I may
 In a soft fulling sleep and gentle repose  
 Possess those foys denied by Day
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022101:0685/pct:0.9345794392523364,15.415079969535416,120.17133956386293,376.4813404417365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022101:0685/pct:0.23369036027263876,3.853769992383854,30.048685491723468,94.12033511043413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1399,7 +1399,7 @@ Ir a soft lulling sleep and gentle re­
 pose  
 Possess those joys denied by day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768588:1898021701:0190/pct:57.02524698133919,54.406592302281176,12.376509330406147,10.139684453823737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768588:1898021701:0190/pct:57.02524698133919,54.409942049375275,12.381083058909622,10.14303420091783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1440,7 +1440,7 @@ That in an enraptured dream I may .
 In a soft lulling sleep and gentle repo3e  
 Possess thoso joys denied by day&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898022201:0371/pct:1.200781904495951,66.27282491944146,14.716559620217817,6.6058002148227715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898022201:0371/pct:1.2077631946383691,66.27730039384174,14.730522200502653,6.614751163623344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1513,7 +1513,7 @@ That in an enraptured Dream 1 may
 In a soft lulling sleep and gentle repos®  
 Possess those joys denied by Da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898101801:0503/pct:55.2901660757604,6.199141884894215,12.614293711513342,14.247669773635153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898101801:0503/pct:55.3026062076258,6.199141884894215,12.608073645580642,14.25753316565567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1607,7 +1607,7 @@ and woes
   
 &#x27; And will not on me pity take
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150953:1899121801:0531/pct:62.45968924069188,42.10046586996152,14.629141014365288,10.988454527040712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_bobidosh_ver01:data:sn85040613:00514150953:1899121801:0531/pct:62.46457539333529,42.103841739247855,14.634027167008698,10.991830396327055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1648,7 +1648,7 @@ Alexa ider, but his muse gave out
 when it had gotten as far as -Frances  
 Alexa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:0027176859A:1899122101:0297/pct:19.235380311709072,36.68621409402644,12.015452244571733,8.110525792664745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:0027176859A:1899122101:0297/pct:19.235380311709072,36.689527217307756,12.024332844900314,8.107212669383427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1680,7 +1680,7 @@ For her that’s pityless of my grief
 and woes  
 And will not on me pity take
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_imp_ver01:data:sn85040705:00414214848:1899122101:0242/pct:68.45623987034035,52.84169670085944,18.253646677471636,13.695591904629886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_imp_ver01:data:sn85040705:00414214848:1899122101:0242/pct:53.06432197623907,40.95971351835273,14.141414141414142,10.621307072515666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

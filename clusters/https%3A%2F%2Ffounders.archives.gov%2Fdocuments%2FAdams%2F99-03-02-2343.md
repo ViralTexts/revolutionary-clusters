@@ -158,7 +158,7 @@ NAVAL EXPLOITS, which are
 not immediately couneéted with the  
 defence of onr sea coast and foil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813062901:0531/pct:3.561004086398132,7.269383409156906,15.32399299474606,8.024392604781726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813062901:0531/pct:3.561004086398132,7.272609944180944,15.333722514107803,8.0308456748298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ PLOITS, which are not immediately con­
 nected with the defence cf our sea coast or  
 soil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813070101:0205/pct:11.253511235955056,50.55229142185664,16.46769662921348,8.507638072855464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813070101:0205/pct:11.25153589608566,50.54635178004935,16.470657070973026,8.510554968080523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ i lion of military or naval exploits, which ars not ins­
 I mediately connected with the defence of our sea­  
 Icoc.t and soil 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814030201:0379/pct:22.324046920821115,52.77537396464334,17.576979472140764,4.982074422054642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814030201:0379/pct:22.319956019791093,52.76885043263288,17.579866837700813,4.985578903996704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ any approbation of military or naval exploits
 which are not immediately connected with the  
 liefence of the sea coast and the soil.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824070701:0173/pct:104.96778216586988,13.055124770900889,19.37227187694866,16.340053573946143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824070701:0173/pct:81.3563872630618,10.117638489274137,15.019062449659025,12.66343737480424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ becoming n moral and religious People to ex press anv ap­
 probation of military or naval exploits which are not im­  
 mediately connected with the defence of our scacost an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835032401:0439/pct:49.904580152671755,73.35338992156441,14.721919302071974,4.416030944450414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835032401:0439/pct:49.8977783835355,73.34550923936399,14.724455953841261,4.419137659361123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ relio-ious people to express any approbation
   
 . r,m o loiior of military or naval exploits.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840081501:0306/pct:54.76034143138542,68.25690498215937,28.053184504267893,3.9645830580150654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840081501:0306/pct:41.076998850763424,51.19598255583455,21.04744705302906,2.973437293511299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ exploits.&quot;
   
 Of the Senate voting for this resolution, nine ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840082101:0064/pct:280.39049235993207,243.79725567068047,59.33786078098472,14.449733968076169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1840082101:0064/pct:70.09762308998302,60.94931391767012,14.83446519524618,3.612433492019042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ it is not becoming a moral aud religious people
 to express any approbation of military or naval |  
 exploits.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840090101:0557/pct:63.8719953663481,74.38722966014419,14.610483637416738,2.966014418125644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840090101:0557/pct:63.8719953663481,74.39409543426021,14.620137078868616,2.966014418125644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ coming a moral and religi ui people to
 express any approbation of military or  
 navel exploits.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065296:0029587806A:1840091201:0335/pct:95.05887300252313,20.918809592603292,21.930193439865434,11.889627275353943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065296:0029587806A:1840091201:0335/pct:71.3444140542815,15.68910719445247,16.47380601725226,8.928055475296157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ vocate ot Harrison lor the presidency ol
 the United State.  
 Of the 75 living Assembly men of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840101001:0157/pct:32.86026200873363,47.74788864560526,22.882096069868997,7.7885517672818265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840101001:0157/pct:24.666812322481974,35.81482639974976,17.172820624863448,5.849233656553018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ Of the 75 living Assembly men of th
 “ In a war like the present, waged without  
 justifiable cause, it is not becoming a moral an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1846010801:0552/pct:42.64111130648848,31.72566917478722,17.724635132758923,1.1348217589737264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1846010801:0552/pct:42.63361462728551,31.721756290083867,17.72737927801219,1.1387929616839336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ naval victories&quot; 1 &#x27; , &#x27; &#x27; &#x27;
 &quot;False as they Tvere to their country in her per  
 ril, the old Whigs were at least bold in their ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847051201:0077/pct:65.17467248908297,16.68419945297707,41.11626637554585,104.6496949295182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847051201:0077/pct:48.901023890784984,12.51840942562592,30.853242320819113,78.48727119713865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ coming a moral and religious people to ex­
 press any approbation oj military or naval  
 victories.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1847060201:0085/pct:68.28848560700877,35.42378875397854,12.750312891113893,2.782034657550395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1847060201:0085/pct:68.29891531080517,35.42771818146096,12.755527743012099,2.7938229399976424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ THE DEAF AND DUMs.
 &quot;Who finds not Providence all good and wise,  
 Alike in what he gives and what denies?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742952:1847061001:0669/pct:13.798754506719108,118.3638639208101,48.443133398885614,7.4866310160427805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271742952:1847061001:0669/pct:4.599584835573036,39.4546213069367,16.14771113296187,2.4955436720142603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -727,7 +727,7 @@ justifiable cause, it is not becoming n moral uud religious
 ueople to express any approbation of military or naval ex- .  
 jiloits which are not immediately connected with our sea- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847112901:1148/pct:0.802391441157961,51.67452245100471,15.623033354310888,2.8776978417266186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847112901:1148/pct:0.802391441157961,51.67865707434053,15.633522131319488,2.8818324650624327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -782,7 +782,7 @@ justifiable cause, it was not becoming a moral
 and religions people to express any approba­  
 tion of miMtary and naval exploits not imme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864071501:0272/pct:77.57382282521948,56.841491841491845,13.040702314445332,3.041958041958042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864071501:0272/pct:77.57382282521948,56.841491841491845,13.040702314445332,3.0497280497280497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ tives, it was not becoming a moral and re
 ligious people to express any approba­  
 tion of military and naval exploits no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1868013001:0445/pct:261.5728328865058,355.6660966889476,58.62377122430742,21.203171148764184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1868013001:0445/pct:65.43706684551755,88.9165241722369,14.665772412251286,5.300792787191046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,7 +861,7 @@ Secure to he as blessed, as thou can&#x27;st hear.
 Safe in the hand of, one disposing power,  
 Or in the natal, or the morning hour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067790:00294558755:1872031301:0022/pct:40.28499903716541,30.72057205720572,17.080685538224532,2.433993399339934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn93067790:00294558755:1872031301:0022/pct:40.29141793439887,30.72057205720572,17.093523332691444,2.443160982764943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ Or in the natal, or the morning hour
 Safe in the band of one disposing power,  
 Or in the natal, or the mortal hour. ..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1881091001:0146/pct:31.155703077851538,49.1263762565821,10.863005431502716,0.7539492580181906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1881091001:0146/pct:23.374075750716766,36.847774054571566,8.148483476686284,0.5744375299186214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ moral and religious people to express any
 approbation of military and naval exploits  
 not immediately connected with the defens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740542:1898111301:0118/pct:16.824324324324323,72.91308307194171,12.905405405405405,4.725285844379237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740542:1898111301:0118/pct:16.833333333333332,72.91645586697696,12.896396396396396,4.732031434449729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

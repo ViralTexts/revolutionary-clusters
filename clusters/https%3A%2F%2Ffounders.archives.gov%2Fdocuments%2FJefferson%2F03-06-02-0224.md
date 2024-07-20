@@ -315,7 +315,7 @@ which shall happen to cross the gene­
 ral course of the current. The sud­  
 den accidents by which the powerfu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800062401:0309/pct:23.701893708002444,15.380116959064328,35.934636530238244,79.25925925925925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800062401:0309/pct:23.71207493382203,15.380116959064328,35.934636530238244,79.26250812215724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ away, by an accidental blast which shall
 happen to cross the ccneral course of the  
 current; therefore let us not indulge i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86089443:00206535970:1879122601:0480/pct:35.31179564237416,73.80227083910275,12.584522915101427,2.9631680974799224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86089443:00206535970:1879122601:0480/pct:26.49379932356257,55.35862641927444,9.451334084930478,2.215452783162559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

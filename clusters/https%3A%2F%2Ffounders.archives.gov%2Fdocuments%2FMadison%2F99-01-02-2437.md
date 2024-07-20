@@ -105,7 +105,7 @@ molestation
 At prefent all their cruisers are in port.  
 J hav the honor to be. &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808020801:0342/pct:21.82705718270572,12.806740389678778,18.218270571827055,30.742496050552923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808020801:0342/pct:21.823252571030157,12.805391743892166,18.219452675614434,30.741891322662173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ At present all their cruisers are in
 port. &#x27; ‘  
 I have the honor to be, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808020901:0023/pct:5.754396791113853,3.74347651545564,16.568960197469917,57.557205941389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808020901:0023/pct:5.759539236861051,3.7468218921450553,16.568960197469917,57.56055131807842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ this place, in consequ I th*
 annuities for two years past not hav­  
 ing been paid by the U. Stales in na
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808021501:0002/pct:58.57611817808781,81.64726947179946,17.911366434140337,4.079805601739353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808021501:0002/pct:58.57611817808781,81.65153259155049,17.931883463274517,4.088331841241421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ cash, i\]\&lt;d the
 &#x27;hat our i  
 no further niolefctati i th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808021501:0002/pct:58.57611817808781,76.92799590740503,35.658596635207225,18.39109860595984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808021501:0002/pct:58.57611817808781,76.93652214690711,35.67227465463001,18.39109860595984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ res nic&#x27;that it shall not alter the
 I arrangement made yesterday, and  
 I that our vessels may navigate without
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808021501:0002/pct:76.61058678703324,91.94270367054611,17.66516208453016,3.3636014835656733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808021501:0002/pct:76.61058678703324,91.94270367054611,17.672001094241555,3.3636014835656733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ TOBlAS LEAR­
   
 - osi—d._
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808021601:0296/pct:77.4815244167512,15.455268038505697,19.866685987538037,47.04583590921134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808021601:0296/pct:77.47029846421327,15.453903214411868,19.86863711001642,47.044624985282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ may navigate without fear or molestation. At
 present their cruizers are all in port. ■  
 I have the honour to he, &amp;e. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808021701:0988/pct:71.74807197943444,58.87369267900241,22.519280205655527,34.28801287208367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808021701:0988/pct:71.72963248522231,58.864221364221365,22.519917758930866,34.28651866151866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ without fear of molestation.
 At present all their cruizers are in port.  
 I have the honor to be, &amp;lc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808021901:0383/pct:40.216427177576726,32.08257437765634,17.47383359943232,31.633272616879175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808021901:0383/pct:40.20929407591345,32.07867897037397,17.47664656497576,31.63347903513032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ without tear or molestation.
 At present all their cruisers are lit port,  
 i have the honor to be, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808022301:0067/pct:58.52551984877127,14.320050600885516,37.391304347826086,80.80961416824795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808022301:0067/pct:58.51445851445852,14.318239311915,37.39053739053739,80.80360907327768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ I htse ve ssels are, the ship Iviqle, of
 New-York, Nathaniel Hinder, M ister;  
 brig Violet, of Boston, James M rett
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808030301:0328/pct:6.592489568845619,70.70212269652437,27.8442280945758,16.118497783998134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808030301:0328/pct:6.590656284760845,70.6856343283582,27.845754542083796,16.122512437810947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +988,7 @@ At present till their cruisers arc in
 port.  
 I have the honour to be, Lc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808030301:0328/pct:6.592489568845619,10.800093305341731,57.107093184979135,82.83181712153021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808030301:0328/pct:6.590656284760845,10.797574626865671,57.10048201705599,82.82027363184079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

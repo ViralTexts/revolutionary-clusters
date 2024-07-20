@@ -78,7 +78,7 @@ revolutionary war. I never had any ap­
 prehension equal to that I feel from this  
 source.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1820050201:0345/pct:8.711217183770882,75.62343219713738,17.04057279236277,4.20540061974325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1820050201:0345/pct:8.709138630398472,75.61227500737681,17.042471963731806,4.208468574800826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ miest moment of the revolutionary war, |
 never had any apprehensions equal to that |  
 feel from this source,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835090101:0138/pct:24.438511072718708,59.97458703939009,14.339563373645358,3.4519271495129185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835090101:0138/pct:24.438511072718708,59.98164619511506,14.344798701638657,3.4519271495129185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ whichever yet threatened our Union ; in the gloomiest moment
 of the revolutionary war 1 never had any apprehension  
 equal to that I feel from this source.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847110201:1058/pct:67.79500158177792,73.14377948845295,16.861752609933564,2.048671467593742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847110201:1058/pct:67.80554676790045,73.14377948845295,16.85120742381103,2.0569489280688686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ they are all of the same import, is that Missouri
 and other states south of the line have been admit.  
 ted into the Union, and all their Senators 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1854042101:0065/pct:200.784034212402,80.02241524236481,43.76336421952958,29.588119921546653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1854042101:0065/pct:50.1960085531005,20.005603810591204,10.940841054882394,7.397029980386663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ the gloomiest moment of the Revolutionary war,
 1 never had any apprehension equal to that I felt  
 from this source.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854060601:0551/pct:44.23400673400673,20.98004036779547,13.24354657687991,2.50056066382597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854060601:0551/pct:44.2433595211373,20.98751588547507,13.234193789749344,2.50056066382597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ iest moment of the Revolutionary war, I never
 had any apprehension eqnal to that which 1  
 fell from this source.&quot; To Mr. Short, Apri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857080501:0278/pct:55.918151349444344,42.67156170573284,11.748103721996825,3.9678057046032196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857080501:0278/pct:55.918151349444344,42.67156170573284,11.753983653789616,3.9819260096018074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ of the Revolutionary war, I neyer had any
 apprehension equal to that which I felt  
 from this source.&quot; To Mr. Short, Apri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:277.5974025974026,106.4609450337512,50.64935064935065,16.00771456123433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287939:1857080801:0402/pct:69.44162436548223,26.6152362584378,12.67005076142132,4.0019286403085825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ had any apprehensions equal to that 1 felt
 from this source. * * * *  
 The real question is,—are our slaves t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1863053001:0084/pct:23.723384209534576,33.77826205393626,14.188807235726399,4.658131299373467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1863053001:0084/pct:23.723384209534576,33.781667120675564,14.202939513849632,4.664941432852084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

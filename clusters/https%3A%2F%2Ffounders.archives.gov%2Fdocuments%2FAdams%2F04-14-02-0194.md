@@ -160,7 +160,7 @@ looks down with neglect on the censures and
 applauses of the multitude.  
 Dr. Pierce&#x27;s &quot;Pellets&quot;?little liver pill
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237288415:1882012501:0009/pct:76.59648310967145,20.96537432000691,10.354002776492365,1.804680079440463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237288415:1882012501:0009/pct:76.60033934906679,20.97113087528423,10.361715255283048,1.804680079440463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ A solid and substantial greatness of
 soul looks down with neglect on the cen  
 sures and applauses .of Multitudes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1894010401:0437/pct:22.216699801192842,30.832688837329208,14.330682571239231,1.9592678525393143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1894010401:0437/pct:16.674954417371126,23.124516627996908,10.757500414387534,1.4823408094869812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

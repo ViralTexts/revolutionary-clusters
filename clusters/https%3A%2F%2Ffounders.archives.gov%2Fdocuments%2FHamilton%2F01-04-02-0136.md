@@ -20,7 +20,7 @@ Mr. Hamilton expressed his anxiety that every member should sign. A few characte
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n107/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n107/mode/1up?view=theater)
 
 #### 1845-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -247,7 +247,7 @@ sion, on the one side, and the chance
 of good to 1** exported from this plan,  
 on the other? From these appeals, n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157480:1887071601:0910/pct:65.7487091222031,27.802569303583503,9.879518072289157,3.705206220419202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157480:1887071601:0910/pct:65.737394596455,27.798810167658193,9.882120117019445,3.708085451595457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ my own are known to he ; hut it is possible
 r sion on the one side, and the chance of good  
 | to be expected from the plan on the other?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624591:1887090301:0524/pct:42.2846323761439,90.63778580024068,13.490059955822026,4.536702767749699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624591:1887090301:0524/pct:32.77492459444037,70.24682914697836,10.45487894350697,3.5221337975627955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ vulsion, on the one side, and the
 chance of good to bo expected from  
 this plan, on tho other? From thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:00517179693:1887090701:0553/pct:77.35455256978868,20.712614720172756,14.427341507957214,4.228900485873673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:00517179693:1887090701:0553/pct:77.37411948865119,20.721612380780996,14.42081920166971,4.228900485873673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ it possible for a true patriot to deliberate
 one side, and the chance of good to beexjr  
 pected from this plan, 011 the other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887101901:0093/pct:42.34360410830999,15.19799825935596,14.690320572673514,3.720626631853786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887101901:0093/pct:42.34879136839921,15.19799825935596,14.690320572673514,3.7278793153466783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ anarchy and convulsion on the one
 ■ide, and the chance of good to be ex­  
 pected from the plan on the other ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:0051717970A:1891021801:0481/pct:30.983350676378773,50.549648585330694,14.516129032258064,3.694359344025951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:0051717970A:1891021801:0481/pct:31.002861602497397,50.549648585330694,14.50312174817898,3.7078752928455576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

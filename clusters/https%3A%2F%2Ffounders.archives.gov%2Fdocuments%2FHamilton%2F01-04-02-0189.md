@@ -70,7 +70,7 @@ the States from exerciling that power ; or whe­
 ther there was any authority given to the union,  
 with which the exercise of this right by any Stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040701:0002/pct:38.59039190897598,20.140652471185778,27.81289506953224,14.475483492869701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040701:0002/pct:38.598293299620735,20.140652471185778,27.844500632111252,14.490134791951553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ national government ioai ridge I cm ill the
 ol power, unwarranted by any article or  
 clause in the constitution Suppose t‘ at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821011101:0309/pct:5.604767273312933,49.26619735115141,14.607827347398937,11.82436463429185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821011101:0309/pct:5.603864734299517,49.26031973276068,14.610842726784755,11.82693072456852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ w ‘il a partial union or consolidation, the state
 which were not by that act exclusively vest­  
 &#x27;* &#x27;&#x27;*1 in tne United States.” And he after
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821062201:0057/pct:48.75404530744336,41.962694546750626,14.741100323624595,3.7186646073422835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821062201:0057/pct:48.74615757967966,41.95770966975529,14.74410828884215,3.722182624534727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ wards observes, “that it is not a mere possi­
 “ nancy that can by implication alienate and  
 “ extinguish a pre-existing right of sovereign
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821062201:0057/pct:48.689320388349515,45.69323987168825,14.64401294498382,2.7682071997148627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821062201:0057/pct:48.68144313217926,45.68781183178903,14.647036617591544,2.77183812465352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ one ol tbe evils which led to the constitution,
 there might be some shew of reason in behalf  
 of the constru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821070301:0067/pct:32.49185667752443,29.569956166331004,15.13029315960912,8.944437862812462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821070301:0067/pct:32.48656570591109,29.566453447050463,15.13325734136677,8.94732685777462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -849,7 +849,7 @@ grants of llie Constitution have divested the States.( m)
 In those same able expositions ol the Constitution, wo  
 are told that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833040201:0427/pct:3.3449477351916377,45.175677145654305,15.177700348432056,6.733384096595236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833040201:0427/pct:3.3444816053511706,45.17076354144007,15.180230397621703,6.736277282285548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ milar suthority in the States would be ab.
 olutely repugnant and contradictory.  
 And it is a little remarkable that all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841012801:0946/pct:151.0791366906475,171.88645932364525,58.113509192645886,49.545022409344014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841012801:0946/pct:37.784886045581764,42.971614830911314,14.534186325469813,12.386255602336004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -992,7 +992,7 @@ the author, &#x27;because, if each State had power to
 prescribe a distinct rule there could be no uniform  
 rule
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1841021301:0220/pct:5.767882187938289,77.52549286199864,118.40813464235625,10.210740992522094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1841021301:0220/pct:4.331053831316851,58.150917743031954,88.83044011923549,7.654656696125085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1043,7 +1043,7 @@ nistration, but would not imply any direct contradic
 tion or repugnancy in point of constitutional authori­  
 ty-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841040901:0251/pct:64.25998198739117,79.07882905385154,16.00120084058841,4.286142471775402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841040901:0251/pct:64.25998198739117,79.08548972591335,16.01621134794356,4.289472807806308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1257,7 +1257,7 @@ hibition to the Slates to make any regulations
 concerning it within their own territorial limits,  
 not in confl.ct with the regulations of Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849050101:0581/pct:41.171251109139305,29.20176110260337,13.427979887607217,4.977029096477795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849050101:0581/pct:41.18111012520951,29.208141909137314,13.42305037957212,4.977029096477795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1315,7 +1315,7 @@ I would, under the plan ot the Convention, rr-a.n
 1 tutwn.&quot; Acain : in the same numb-r, s|&gt;eabiDS  
 I with respect to the prohibition on Uie Sta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849052501:0612/pct:30.77155367658161,76.9675925925926,13.996678242488299,6.684027777777778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849052501:0612/pct:30.78161960843525,76.97402263374485,13.986612310634657,6.680812757201646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1389,7 +1389,7 @@ e  eeeeoeoeeee
 cept as toimporls dnd earperls, is unallected  
 either by the specific grant of the eighth section, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1851012501:1037/pct:84.01898734177215,50.35268583830711,60.83860759493671,16.60336408030385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1851012501:1037/pct:21.004746835443036,12.588171459576778,15.209651898734178,4.150841020075963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1450,7 +1450,7 @@ was made to the taxing power given to Congress
 by the Cth section of the 1st article of the Consti­  
 tution. Mr. Smith first raised the w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851021501:0424/pct:52.84026996625422,67.99671400070415,18.771091113610797,36.72104213120526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851021501:0424/pct:39.642806918858106,51.003403356413564,14.076782449725776,27.543715526346674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1497,7 +1497,7 @@ and powers reserved by the States and the People, and
 it is clear that the States, one or many, may withdraw  
 from the Union whenever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851030101:0431/pct:47.519426180514046,58.77334563062024,19.75493126120741,25.109522711551765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851030101:0431/pct:35.64489612912868,44.08577357620475,14.825885517859811,18.826377680424255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1535,7 +1535,7 @@ in the exercise of it, would be a violent assumption
 of power, unwarranted by any article or clause of  
 its constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851032901:0443/pct:65.19953051643192,31.818181818181817,19.77699530516432,17.33100233100233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851032901:0443/pct:48.91400058702671,23.86946386946387,14.837100088054006,12.995337995337996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1572,7 +1572,7 @@ unnecessary and dangerous.&quot;
 Ihe Supreme Court of Mississippi, has decided,  
 in the case of Harrison vs. The Mayor and Cit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851032901:0443/pct:65.05281690140845,51.655011655011656,19.718309859154928,16.736596736596738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851032901:0443/pct:48.81127091282654,38.74125874125874,14.793073084825359,12.552447552447552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1591,7 +1591,7 @@ clause of the constitution.
 - - . -  
 13. Resolved, Whereas a Southern btate Kigin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851071201:0500/pct:70.5260148656375,30.891942244993015,18.8822184105203,2.8528178854215183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851071201:0500/pct:52.924352924352924,23.171867722403352,14.17131417131417,2.1425244527247322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1618,7 +1618,7 @@ C.) &#x27; That the grant of u general authority lo
 cguiau) commerce, is noi therefore a pruhihi  
 ion to the States to mafce regulations concer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852032001:0374/pct:58.484891880280685,43.24264049955397,13.432622082199627,6.255575379125781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852032001:0374/pct:58.484891880280685,43.250074338388345,13.437395579741276,6.255575379125781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1647,7 +1647,7 @@ utber taxes, the authority of the States remains
   
 indiminiabed.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852032001:0374/pct:58.34168695403122,75.44603033006244,14.420736073320922,7.169937555753791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852032001:0374/pct:58.34168695403122,75.44974724947963,14.43028306840422,7.173654475170978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1668,7 +1668,7 @@ deemed improper that the like authorities should
 reside in the States, to insert negative clauses  
 prohibiting the exercise of them by the StateB.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852032001:0292/pct:58.365047952504185,42.53918870408041,13.487593240980363,3.817159267679789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852032001:0292/pct:58.370122291571526,42.54716604842248,13.487593240980363,3.8211479398508237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1702,7 +1702,7 @@ and It implies a further admission that, as to all
 j other taxes, the authority of the States remains  
 j undiminished.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852032001:0292/pct:58.48683209012026,71.91575924374776,15.481808494443598,10.230944118702883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852032001:0292/pct:58.4919064291876,71.92373658808982,15.481808494443598,10.22695544653185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1763,7 +1763,7 @@ iuthority to the Union, to which a similar authority in the States would be abso
 lutely and totally contradictory and repugnant.”—Kent, vol. 1, p. 427.  
 This rule has been recognized in many decisions of the Supreme Court of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1854123001:0253/pct:8.427403659011288,51.24930594114381,27.948618139353833,9.73070516379789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1854123001:0253/pct:8.437135072012456,51.25277623542476,27.953483845854418,9.734175458078845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1793,7 +1793,7 @@ totally contradictory ane rept
 The tenth article of the amendments to the Consti­  
 tution enacts that the powers not delegated to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855052201:0150/pct:6.081081081081081,143.72579395817195,49.09317211948791,22.46320681642138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855052201:0150/pct:2.027027027027027,47.90859798605732,16.36439070649597,7.487735605473793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1812,7 +1812,7 @@ the States from exercising the like authority--or when it
 grants an authority to the Union, to which a similar au  
 thonty in the States would be contradictory and repu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855060801:1231/pct:57.67143561914159,211.78037762075755,46.045058378556156,6.301401598517317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855060801:1231/pct:19.223811873047197,70.59345920691919,15.348352792852053,2.1004671995057724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1934,7 +1934,7 @@ And Virginia, in her act of ratification of tin
 behalf of the people of Virginia, that the pow  
 ; ers granted under the Constitution, being d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860121401:0405/pct:26.659543208227596,64.31990426804946,11.900627754774943,6.0530514559234145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860121401:0405/pct:26.663995369752016,64.3265523201702,11.900627754774943,6.0530514559234145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1957,7 +1957,7 @@ contains the articles of the proposed Consti­
 tution.&quot; Ib., page 121.  
 &quot;If the Federal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861012101:0071/pct:123.93593356072965,59.61436592859413,37.35725938009788,9.715012183494014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861012101:0071/pct:41.31197785357655,19.871455309531378,12.45241979336596,3.238337394498005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1975,7 +1975,7 @@ States arc not explicitly divested in favor of the
 Union, remain with them in full vigor, is not  
 only a theoretical consequence of that division
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861012901:0459/pct:16.03448275862069,18.675754625121712,12.02917771883289,2.005842259006816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861012901:0459/pct:16.03890362511052,18.679000324569945,12.02917771883289,2.009087958455047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1992,7 +1992,7 @@ only a theoretical consequence of that division
 the whole tenor of the instrument which contains  
 the articles of the proposed constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861012901:0459/pct:16.180371352785144,20.399221032132424,12.984084880636605,1.6066212268743914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861012901:0459/pct:16.18921308576481,20.399221032132424,12.984084880636605,1.6131126257708537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2022,7 +2022,7 @@ the impulses of self preservation lb., page It
 without tbe unanimous consent of the Stau-which  
 are parties to it, upon tbe great principle o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1861021301:0048/pct:112.5590179414542,69.63036066750404,14.093484419263456,8.065673784317244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1861021301:0048/pct:84.44916755224938,52.22501345774269,10.57976148305585,6.047012381123273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2053,7 +2053,7 @@ an authority to the Union, to which a similar
 authority in the States would be absolutely  
 and totally contradictory, and repugnant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861022801:0114/pct:59.06562847608454,219.42629305570938,34.260289210233594,19.09403034666076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861022801:0114/pct:14.766407119021135,54.856573263927345,8.565072302558399,4.77350758666519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2090,7 +2090,7 @@ would be absolutely and totally contradictory
 and repugnant.  
 In the case of Frigg vs, the Commonwealt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861041601:0381/pct:125.81792318634425,159.9260823653643,49.28876244665718,42.92502639915523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861041601:0381/pct:31.465670579864817,39.981520591341074,12.32657417289221,10.731256599788807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2114,7 +2114,7 @@ all the rights of sovereignty which they before had.
 and which were not, by that act, exclusively dele-  
 gated to the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861041601:0362/pct:295.152198421646,309.32311621966795,44.92671927846674,13.878246062154108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861041601:0362/pct:73.7880496054115,77.33077905491699,11.231679819616685,3.469561515538527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2141,7 +2141,7 @@ States would be absolutely and totally cou
 tradictory and repugnant.  
 In the case of Prigg vs the Commonwealt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775666:1861042301:0591/pct:70.51104972375691,211.4195083267248,43.370165745856355,22.786148559344436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775666:1861042301:0591/pct:17.636897564346175,52.8548770816812,10.848160304024875,5.696537139836109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2162,7 +2162,7 @@ power to prescribe a distinct rule, there could be
 no uniform rule.” These are the three class of  
 rasas as laid down the in Federalist, where th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183402:1861071801:0111/pct:29.15154656989805,45.70030895983522,12.441679626749611,4.042224510813594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183402:1861071801:0111/pct:29.14651002073255,45.69442656712576,12.443849343469246,4.044922126399794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2186,7 +2186,7 @@ to which a similar authority in the .States, would
 be absolutely and totally contradictory and re~  
 pmjaant.&quot; in ail such eases there would be a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183402:1861071801:0111/pct:29.15154656989805,49.85839340885685,12.424399516156903,5.818743563336766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414183402:1861071801:0111/pct:29.14651002073255,49.851975801261425,12.42657221838286,5.82121251126271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2240,7 +2240,7 @@ equalihied sense, and that an sttempt on the part of the ae
 tional tlovernment to abridge it would be a vlolent assump  
 tlon of power, uinwarranted by any arttele or clause of Ia Cone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862102201:0378/pct:152.7221636810678,42.3260949576739,48.876009834913944,13.397129186602871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862102201:0378/pct:50.90738789368926,14.108698319224635,16.292003278304648,4.4657097288676235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2327,7 +2327,7 @@ clearly admitted by the whole tenor of th?
 instrument which contains the articles of  
 the , proposed Constitution.&quot; Fnlrrihst
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1864072701:0018/pct:75.83144368858655,27.533939633583763,16.874527588813304,11.875576644259919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1864072701:0018/pct:56.89981096408317,20.653749835244497,12.665406427221171,8.909977593251615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2359,7 +2359,7 @@ absolutely and totally contradictory and repug-
   
 nant.&quot; And he instanees the power to establis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016892:00295878794:1865011801:0595/pct:123.07080350039777,299.6141288216088,48.68735083532219,7.479964381121994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016892:00295878794:1865011801:0595/pct:30.779944289693592,74.9035322054022,12.176681257461201,1.8699910952804986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2465,7 +2465,7 @@ cle or clause of its Constitution.
   
 All there enunciations of tbe limite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347336:1865102701:0465/pct:51.81789440404679,82.47766527695056,13.389187480240277,7.540202501488982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347336:1865102701:0465/pct:51.82843292233112,82.48163589438158,13.394456739382443,7.544173118919992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2662,7 +2662,7 @@ of the Cnited frate, he said,accoin
 a revolution without parallel  
 They reared the fabrles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:143.44112263575352,311.0033076074972,37.705918242831,31.400220507166484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:35.8712236801953,77.7508269018743,9.429356118400976,7.850055126791621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2713,7 +2713,7 @@ answer to this question: Amendments
 to the Constitution must be adopted by  
 the States, either by means of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867111901:0443/pct:56.88360450563204,237.47035573122528,77.34668335419273,43.22981366459627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867111901:0443/pct:14.22090112640801,59.36758893280632,19.336670838548184,10.807453416149068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3006,7 +3006,7 @@ eignty which they before had and
 which were not by that act exclusive­  
 ly delegated to the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027194:1879100901:0508/pct:54.85507246376812,26.525073746312685,13.942028985507246,10.442477876106194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027194:1879100901:0508/pct:41.16282441641293,19.893805309734514,10.46831955922865,7.834808259587021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3032,7 +3032,7 @@ gated to the I uited Slates.&quot; This
 was his interpretation of the Constitu­  
 tion in the light of the sentiment tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341607:1879101001:0344/pct:15.270383861025497,42.26083483123627,11.30568786775007,6.450968643898542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341607:1879101001:0344/pct:15.2682448522202,42.25661507738393,11.308773404304992,6.453652854052255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3061,7 +3061,7 @@ of sovereignty which they before had, and
 which were not by that act exclusively  
 delegated to the United States.&quot; Jame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1879101601:0136/pct:88.02631578947368,58.906666666666666,38.04824561403509,69.10666666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1879101601:0136/pct:66.07417160412552,44.18666666666667,28.549484309852975,51.82666666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3184,7 +3184,7 @@ the Slate or Maryland,&quot; a case which deals
 exhaustively with the question of taxation  
 t&gt;yibe Slates and the power cf tbo Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551153:1893112901:0491/pct:56.294717613030905,26.651265357555392,13.457147206576343,13.220623753019007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551153:1893112901:0491/pct:56.29979195209824,26.65476565508068,13.457147206576343,13.224124050544296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3235,7 +3235,7 @@ the Stale of Maryland;&quot; a case which deals
 exhaustively with tbe question of taxation  
 by the Slutes aud the power of the UuHe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551153:1893112901:0492/pct:56.79777020749458,25.771654384278545,13.672963765871787,13.863078073267115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551153:1893112901:0492/pct:56.79777020749458,25.778774609277654,13.69360999277382,13.863078073267115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3294,7 +3294,7 @@ vs. the Stale of Maryland,&quot; a
 case which deals exhaustively with  
 tin question of taxation by tl-?&gt; Slate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861952:1893112901:0178/pct:35.35208743952697,23.686328619064046,19.315534850385237,23.45636426353915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861952:1893112901:0178/pct:35.35208743952697,23.686328619064046,19.327480140954428,23.46402974205665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3340,7 +3340,7 @@ Constitution.&quot;
 I may remark in passing that who  
 this was written. the Constituton h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551396:1893112901:0018/pct:34.17040358744394,25.79004011349183,15.590433482810164,17.835828196849622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551396:1893112901:0018/pct:34.18036870951669,25.796562632488666,15.590433482810164,17.835828196849622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3392,7 +3392,7 @@ unwarranted by any article o
 clause of its Constitution.&quot;  
 To vhich the Govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101271:1893120701:0030/pct:25.247593806667595,21.504839836343677,12.163481657134886,24.29897215846722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101271:1893120701:0030/pct:25.247593806667595,21.504839836343677,12.177430603989398,24.305624854472274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3412,7 +3412,7 @@ if each State had power to prescribe a
 distinct rule, there could be no uniform  
 rule
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340226:1895083101:0215/pct:3.523404255319149,52.507836990595614,11.148936170212766,2.8070675406098604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340226:1895083101:0215/pct:3.522804628999319,52.50035617609346,11.151293396868619,2.8102293774041884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

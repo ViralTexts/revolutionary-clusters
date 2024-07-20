@@ -615,7 +615,7 @@ fields
 Put on their winter-robe of purest  
 white.&quot; THOMSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1852111801:0660/pct:32.99442896935933,38.53281011554393,11.573816155988858,2.408981905384783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn86081965:00279528554:1852111801:0660/pct:32.99907149489322,38.53281011554393,11.58310120705664,2.41261536225565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -856,7 +856,7 @@ tion, that thou mayest be wise in thy
 latter cud.&quot;  
 i Curry out this scriptural injunctio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556266:1877091301:0318/pct:30.189914865749838,33.83107792813812,15.406024885396201,2.309846010265982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556266:1877091301:0318/pct:22.6461437694449,25.373308446103593,11.56050433928279,1.7382174521698552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -80,7 +80,7 @@ Moreau announcing to him, immediately
 unlefs he figned irticles of peace, or gave fe­  
 curity that he would fign—his furrenderin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801012601:0003/pct:28.947993350748042,32.10817271776483,21.515079553550226,15.583445390706709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801012601:0003/pct:28.947993350748042,32.11813337317596,21.530911105833926,15.573484735295583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ I of thi* hero—his pompous ariivr.i at the ar
 my—(rene’al Moreau announcing to him  
 immediately on hi* arrival, that ho&#x27;lflhim 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1801013001:0174/pct:58.03981623277182,21.3421926910299,17.85987748851455,11.641196013289036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1801013001:0174/pct:58.02870813397129,21.33935689609354,17.862838915470494,11.644078306315883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ hot by making peace, or n&#x27;iking his crown ;
 Peace is rrdre than he deferven, for he ha?  
 been a faithlefs, lying, treacherous ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1801013001:0174/pct:58.48009188361409,49.51495016611295,17.132465543644717,3.388704318936877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1801013001:0174/pct:58.4688995215311,49.50837098060058,17.135566188197767,3.392683142882452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ which the Bear of that B.ar, John Adams,
 never possessed. )  
 In anocher leter to the fame friend i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802122101:0200/pct:24.05222589271669,54.27175755159007,16.83183891772849,3.58887448908384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802122101:0200/pct:24.05222589271669,54.27175755159007,16.847569608305804,3.595520552952514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ firft idea was fuggefted by Mr. P.iine&#x27;s
 bridge exhibited at Paddingtou. »\ hr.t  
 dill&#x27; renci- there m-&#x27;iy be in Some part o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803062901:0001/pct:56.23316660253944,26.181818181818183,16.313966910350135,14.119122257053291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803062901:0001/pct:56.23316660253944,26.185997910135843,16.32679235603437,14.119122257053291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ ly the outline of the bridge at Sunder- |
 land was taken, be affured it will ifford &#x27;  
 tne very great latisfadio: j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803062901:0001/pct:55.77145055790689,56.476489028213166,16.756444786456328,8.288401253918495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803062901:0001/pct:55.777863280749,56.476489028213166,16.756444786456328,8.292580982236155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

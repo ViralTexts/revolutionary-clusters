@@ -51,7 +51,7 @@ lint amiable monarchists are not safe subjects of repub­
 lican confidence. What will h&gt; the effect of his re­  
 moval? How should it lie timed? Who his successor?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830051101:0396/pct:34.31603773584906,41.240078223858276,15.34492924528302,5.498677096514437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830051101:0396/pct:34.31098010316875,41.235334713595584,15.347580447064603,5.501878690284487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ W&#x27;ll give a share in the State Offices, they shall be
 replaced in a share of the General O fioe*. Till then  
 toe must falfoio their et tinp’r. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830052101:0017/pct:34.26604160562555,58.578875793291026,15.147963668326986,9.077515865820489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830052101:0017/pct:34.261022411015084,58.57223796033994,15.150627410770959,9.080264400377715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ to a certain degree the federal sect of Republ cans, we
 must strip of all the means of influence the Essex Junto  
 and their associate Monocrats, in every part of the Unio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091101:0048/pct:139.89031078610603,355.6242969628796,60.56672760511883,11.937570303712036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091101:0048/pct:34.96618534088832,88.89357514410234,15.138914275269604,2.9839730071699706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ j *ho federal sect of Republicans, wc must strip of
 i all the means ofinfluouee the F.ssex Junto and  
 j their associate Monocrats, in every part of tho TTn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848091301:0148/pct:78.6825117370892,89.20448115876428,15.008802816901408,3.5985062804119043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848091301:0148/pct:78.6709696347367,89.19438787055896,15.011490880641533,3.6018707098136833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ cans, we must strip of all the means of influence the
 Essex Junto and their associate Monocrats, &#x27;in every  
 part of the Union.&quot; Vol 3, page 171
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091801:0056/pct:23.675557179393497,57.0230607966457,61.54548776032152,13.654786862334031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091801:0056/pct:5.917808219178082,14.253773057574064,15.383561643835616,3.4132196757965345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ ence the Essex Junto and their associat
 Monocrats, in every part of the Union.&quot;  
 o ee e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848092701:1126/pct:93.63295880149813,150.23005126856842,56.02996254681648,32.1283028789273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848092701:1126/pct:23.41262408690766,37.557512817142104,14.010114253605543,8.032075719731825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ cans, we must strip off all the means of influ­
 ence the Essex Junto and their associate  
 Monocrats, in every part of the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848100301:0466/pct:209.3522372528616,145.40248170537703,37.187825182101975,12.535793827553293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848100301:0466/pct:69.81132075471699,48.467493901792345,12.400780741704619,4.178597942517764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ since the days of the &quot;Essex men,&quot; are
 the Richmond junto, of which the editor  
 of the &quot;sole organ&quot; is one of the few survivors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849082101:0254/pct:44.82569311007411,32.20211968739964,15.015097447158935,12.814473825072263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849082101:0254/pct:44.83026809406167,32.20925668201121,15.028822399121603,12.814473825072263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ The great Jeffersonian rule was never to
 give up principles for any consideration  
 whatsoever. Beyond all question, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897092101:0459/pct:78.2708492731446,60.78730546231309,50.956388676358074,21.42203234665853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897092101:0459/pct:19.56771231828615,15.196826365578273,12.739097169089519,5.355508086664632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

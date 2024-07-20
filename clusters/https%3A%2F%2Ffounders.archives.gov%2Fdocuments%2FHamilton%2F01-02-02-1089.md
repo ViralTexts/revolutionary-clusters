@@ -89,7 +89,7 @@ you these ten minutes; I must tell you, sir, you
 treat me with disrespect.&quot; Hamilton rephed,  
 &quot;I am not conscious of it, sir;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190595:1857013101:0108/pct:62.78755074424898,202.37062286953827,57.142857142857146,26.944530523706227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190595:1857013101:0108/pct:15.696887686062245,50.59265571738457,14.285714285714286,6.736132630926557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ sir; but since you have thought it oecessary
 to tell me so, we part/ ‘Very well, sir/ re­  
 sponded Washington, ‘if it be your choice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215968:1857020601:0276/pct:81.24760811327975,20.50261780104712,12.648296976655185,9.905759162303665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215968:1857020601:0276/pct:81.23983545393666,20.501186653636744,12.650275837877484,9.907394480897203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ ington, if it be your choice.
 This separation, however, did not impair their  
 friendship, and in subsequent years. Hamilto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857021101:0643/pct:77.28866380989481,343.9988160426225,59.23256719906506,28.666568003551873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857021101:0643/pct:19.31840311587147,85.98697839597514,14.805258033106135,7.165581532997928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ i cesssary to tell mo so, we part/ &#x27;Very well,
 i sir,&#x27; responded Washington, &lt;if it be your  
 i choice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862683:1857043001:0277/pct:83.04036000562509,35.30663571290385,13.992406131345803,7.022634939059779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862683:1857043001:0277/pct:83.04036000562509,35.313084413490685,13.997093704589135,7.022634939059779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ If, so late as 181, Hamilton could thus place
 his support of Washington less on his merits than  
 on the force of circumstances and the weaknes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857123001:0622/pct:151.26105470029478,6.305664410402565,96.20045856534556,289.1224320152001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857123001:0622/pct:50.42035156676493,2.101888136800855,32.06681952178185,96.3741440050667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ Men must be very suspicions If they can see in
 correspondence like this other than nn un­  
 common character made for government an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044954:1891051701:0233/pct:111.87355435620663,147.3684210526316,51.19506553585197,19.237749546279492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044954:1891051701:0233/pct:27.98457087753134,36.8421052631579,12.806171648987464,4.809437386569873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

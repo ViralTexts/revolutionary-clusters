@@ -69,7 +69,7 @@ t that paid by the citizens of the United
 . States.&quot;  
 In oppefition to this part of the trea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110701:0002/pct:22.14467005076142,20.87099424815119,18.65482233502538,14.845247877293891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110701:0002/pct:22.15172024816695,20.875559207523054,18.65482233502538,14.840682917922031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ coming diiettly from France en Si.am,
 or any of their colonies, Without being \
 fubje-t to any otliT or gieaterduty on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110701:0002/pct:41.56091370558376,15.064365927143248,17.82994923857868,13.489454943851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110701:0002/pct:41.567963902989284,15.073495845886972,17.82289904117315,13.480325025107277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ France or any of her colonies, loaded
 only with the produce or manufactures  
 of trance or her laid colonies ; and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110701:0003/pct:21.467851099830796,42.440427280197206,17.32233502538071,9.120788824979458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803110701:0003/pct:21.48195149464185,42.44499223956907,17.32233502538071,9.120788824979458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ any of her colonies, loaded only with
 the produce or manufa&amp;ures of France  
 or her fatd colonies ; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0383/pct:58.47639484978541,52.53644897143998,16.15573267933783,6.191332135010985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0383/pct:58.486613529531986,52.53977764463085,16.15062333946454,6.1979894813927165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ Of any of her colonies, loadedssonly with the pr-t.
 duce andmanufaimres of France or her said colo­  
 nies ; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803110901:0308/pct:51.197561329655976,25.232074971266908,22.252866889243723,7.638581911413668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803110901:0308/pct:51.19013062409289,25.22984441301273,22.254475084663763,7.640853371051391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ from I&#x27;iance or any of her colonies loaded
 only with the produce and manufactures of  
 France or her said colonies , and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803111101:0316/pct:29.32330827067669,26.01130542307013,22.718561108653986,3.612435965377142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803111101:0316/pct:29.318985849056602,26.009008213371015,22.72012578616352,3.6150607907209515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ the ships of the United States coming di­
 rectl) from France or Spa in, or any of their  
 colonies, without being subject to any othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803111101:0316/pct:29.264337313872918,33.72195725136902,22.64484741264927,3.97456279809221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803111101:0316/pct:29.26002358490566,33.71897906915129,22.646422955974842,3.977155641908799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ on the mesirchandize, or other or greater
 tonnage than that paid by&#x27;the eitizenssiof the  
 United Statesss.&quot; ,Let us agiin enquire wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803111201:0320/pct:28.60320284697509,3.6555142503097895,46.76749703440095,92.92795184988493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803111201:0320/pct:28.59896219421794,3.6551907248429063,46.76550531257722,92.92267752308464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ her colonies, loaded only with the pro­
 duce or manufactures of France or her  
 said colonies ; and the ships oV
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803112501:0175/pct:27.533407572383073,45.92033690121074,20.267260579064587,8.984032286366029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803112501:0175/pct:27.525744503200666,45.91228070175438,20.26857779014751,8.986842105263158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ ner as the ships of the United States
 coming directly from France or Spain,  
 or any of their colonies, without bein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803112501:0175/pct:27.64476614699332,59.466573082997016,20.155902004454344,3.018073346201088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803112501:0175/pct:27.637072084608963,59.45614035087719,20.157250208739214,3.0219298245614037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ manufactures of France or her said Coloniesct­
 shall be admitted for twelve yearsintoi  
 ss New Orleans and the other legal portssio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803120901:0392/pct:26.96578631452581,13.631876514403661,24.069627851140456,7.152472404199946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803120901:0392/pct:26.961740435108776,13.630653266331658,24.07101775443861,7.154821727686049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ i with the produce or manufactures of
 France and her said colonies; and the ships  
 of Spair coming from Spain or any of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861111401:0018/pct:144.2723665685396,112.57335257335258,40.63739920645079,20.586820586820586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861111401:0018/pct:48.09078885617987,37.52445085778419,13.545799735483596,6.862273528940196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ paid by the citizens of the United
 States. During the space of time above  
 mentioned, no other nation shall have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861111401:0018/pct:144.33636247280174,134.84367484367485,41.05977217458083,21.635401635401635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861111401:0018/pct:48.112120824267244,44.94789161455828,13.686590724860276,7.211800545133879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ ed States coming directly from France
 ming dircet  
 or Spain, or any of their colonies, wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1898122801:0325/pct:50.68637803590285,35.53376084496416,37.38120380147835,5.205582798943794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1898122801:0325/pct:16.89545934530095,11.844586948321389,12.460401267159451,1.7351942663145983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

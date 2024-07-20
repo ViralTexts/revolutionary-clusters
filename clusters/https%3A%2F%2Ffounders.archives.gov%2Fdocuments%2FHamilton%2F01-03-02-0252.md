@@ -1924,7 +1924,7 @@ b« pul into the service ol the Uni.’ed State!, which
 officers and men were to march to the place agreed unon  
 by the United Stales, i„ CongreM es.en’bfod T,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833120301:0244/pct:81.60670814173655,57.89358440989709,14.457668379767378,2.8027151302824613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833120301:0244/pct:81.59567275185937,57.88724685276409,14.460220869957178,2.8060572888159094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1961,7 +1961,7 @@ And by Art IX, ? That &quot;the United Stales in Con-j
 &#x27; quisiti&#x27;-n shall be binding &quot;  
 By these articles it is seen, that under the old Confe- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839111901:0217/pct:50.00758380100106,34.389376829778335,15.834976490216897,6.357172731074864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839111901:0217/pct:50.00758380100106,34.39286212184581,15.845088224884979,6.364143315209815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2106,7 +2106,7 @@ Words could hardly have lieen used which more
 strongly mark the line of distinction between the citizen  
 ? and the subject; the free and the subjugated races. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857052701:0151/pct:5.867427846495401,86.09146033350177,15.699333967649856,5.520464881253158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857052701:0151/pct:5.867427846495401,86.09567121441806,15.715191880748494,5.528886643085734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2218,7 +2218,7 @@ point the regimental officers, raise the men, clothe, arm
 and equip them in a soldier-like manner, at the expense  
 of the United States. The experience of the who&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862112101:0606/pct:286.2841530054645,148.14649894244684,42.349726775956285,12.868752087275965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862112101:0606/pct:71.59059852418693,37.03662473561171,10.59032522547144,3.217188021818991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2244,7 +2244,7 @@ agree upon the number of land forces, and make requl
 sitions from each State for its quota, in proportion!­  
 the mumber of white inhabitants in sucbistate.&quot; The ol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530753:1863102401:0406/pct:54.82959562069574,196.01959583588487,49.108246512449234,16.32578077158604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530753:1863102401:0406/pct:18.276531873565247,65.3398652786283,16.369415504149742,5.441926923862012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2270,7 +2270,7 @@ asree upon the number of land forees, and make requl
 from each State for its quota, in proportion to  
 the number of white inhabitants in each State. The ol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743464:1863102401:0244/pct:156.87252709444348,206.90064026559165,51.48804403922243,13.291439411904197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743464:1863102401:0244/pct:52.290842364814495,68.96688008853054,17.162681346407478,4.4304798039680655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2318,7 +2318,7 @@ proportion to &#x27;&quot;the number of white in­
 habitants in each State.&quot; These article*  
 unquestionably contemplated a nationa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869102901:0002/pct:68.67196367763904,86.32409793814433,8.645478622777148,1.481958762886598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869102901:0002/pct:68.6861520998865,86.33617912371135,8.650208096859629,1.4698775773195876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

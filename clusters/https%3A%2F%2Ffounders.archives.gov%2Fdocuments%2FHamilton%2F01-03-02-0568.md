@@ -48,7 +48,7 @@ families, who unfortunately needed assistance.
 Honorary members were made admissible un­  
 der certain circumstances, and an tmmediat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845070101:0246/pct:17.70864492970386,29.776247848537004,13.819922225545916,8.357238477720406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845070101:0246/pct:17.713630471632268,29.78262255370689,13.819922225545916,8.354051125135463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ tween the respective States, that union and national honor
 se essentially necessary to their happiness, and the future  
 digmity of the American Empire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851070901:0049/pct:49.80816184164632,174.10250354274916,48.06417858388559,5.148795465281058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851070901:0049/pct:16.602720613882106,58.034167847583056,16.021392861295197,1.716265155093686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ among the officers. This spirit will dictate brotherly kind­
 ncsH in all things, and particularly extend the most sub­  
 stantial acts of benetioence, according to the ability of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855081701:0889/pct:66.6832339297548,58.015170670037925,15.838303512259774,4.007585335018963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855081701:0889/pct:66.6832339297548,58.023598820059,15.849348354318533,4.007585335018963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ Stater that union and national honor so essentially necessary
  Tie wewory af Gracral fu FapertsThe gallant and see  
 cemplished soldier, and the soldier&#x27;s iriend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856112801:0403/pct:150.94497407593244,189.26313229571986,47.064726542900154,6.553988326848249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856112801:0403/pct:50.31499135864414,63.08771076523995,15.688242180966716,2.184662775616083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ o their hapuiness and the dignity of the American empire.&quot;
 7. The memary of ttonerel Latayeite -The gallant and ao  
 swpplished soidtor, and the soldier&#x27;s friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856112801:1248/pct:3.287944204583195,265.6463359126081,47.04417137163733,5.427856167501138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856112801:1248/pct:1.0959814015277316,88.54877863753603,15.681390457212443,1.809285389167046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ determination to promote and cherish between the respectire
 States that union and national houor so essentially necetsary  
 to their happiness and to the diguity of the American E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530807:1865070601:0470/pct:249.55373081042484,119.57900076084199,48.50053552302749,4.248034491503931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530807:1865070601:0470/pct:83.18457693680828,39.85966692028067,16.166845174342498,1.416011497167977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ promote and cherish between the respective States
 that union and national honor so essentially necessary  
 to their, happiness and the dignity of the merican ae 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743890:1875022301:0640/pct:55.559276624246486,66.90489913544668,53.71734762223711,5.452449567723343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743890:1875022301:0640/pct:18.519758874748828,22.301633045148897,17.9057825407457,1.8174831892411143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ American Empire.
 sisting among the officers. This spirit will dictate  
 brotherly kindness in alt things, and particularl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875051301:0611/pct:55.0819124038783,98.77349839523154,46.723503844867935,13.709307657038057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875051301:0611/pct:18.360637467959435,32.92449946507718,15.574501281622645,4.569769219012685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ between the respective States that union and national
 honor so essentially necessary to their happiness and the  
 future dignity of the American Empire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744067:1879070401:0058/pct:146.86006263392122,104.51352907311457,51.04664578869293,15.290731145653426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271744067:1879070401:0058/pct:48.95335421130707,34.83784302437152,17.015548596230975,5.096910381884475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ that Union and National honor so essenti­
 ally necessary to their happiness and the  
 future dignities of the American Empire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685312:1886070801:0110/pct:29.064429317714104,47.704878634943526,10.637961057463986,2.0788272049987984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685312:1886070801:0110/pct:29.05982905982906,47.69914694220834,10.640234251345362,2.0815811606391925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ erlv kindness in all things
 and particularly extend to the most sub­  
 stantial acts of benificence according t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286595:1888050301:0181/pct:27.4683925346177,108.15436607434863,18.558097531607466,7.238635124822849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286595:1888050301:0181/pct:18.3227943390545,72.10291071623242,12.375790424570912,4.829390602856209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ and national honor so essentially necessary to
 their happiness and the future dignity of the  
 American empire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891011301:0048/pct:23.276378896882495,121.76644493717664,12.664868105515588,6.4917467356491745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891011301:0048/pct:17.463648628391546,91.32791327913279,9.503822515365012,4.878048780487805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ and particularly extend the
 and cherish between the respective States  
 that union and national honor so essen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340780:1893101901:0411/pct:26.080325368581597,77.1269773407439,10.879511947127606,1.1685905657688471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340780:1893101901:0411/pct:26.075906472382243,77.11598746081505,10.881904439173162,1.1719863208891421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ ness and the future dignity of the American
 empire,’ and ‘that to render permanent the  
 cordial affection subsisting among the officers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035801:00332896933:1893102401:0214/pct:14.382253562509181,55.29969914371673,9.622447480534744,4.512844249016432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_junior_ver01:data:sn85035801:00332896933:1893102401:0214/pct:14.380141010575793,55.29330093717459,9.624706227967097,4.5152146245516604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ who unfortunately may be under the ne­
 cessity of receiving it.”  
 The Constitution of the general So
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182148:1895020601:0627/pct:20.10502625656414,109.7272859851247,15.922730682670668,9.202275047396821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182148:1895020601:0627/pct:15.58624031007752,85.04313755038993,12.340116279069768,7.139358776325208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -899,7 +899,7 @@ every three years, composed of the general
 officers and not more than five delegates  
 from each State. The members were thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175042866:1896052501:0936/pct:337.76276276276275,108.36991070077191,50.97597597597598,27.00166490086272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175042866:1896052501:0936/pct:84.48826291079813,27.092477675192978,12.751173708920188,6.75041622521568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1024,7 +1024,7 @@ according to the ability of the society, to­
 wards those officers and their familio*  
 who, unfortunately, may lie under tli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892198:1897022101:0548/pct:5.906902086677367,44.44570392201315,14.237560192616373,7.265926093856269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892198:1897022101:0548/pct:5.917602996254682,44.449482354719265,14.232209737827715,7.265926093856269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1069,7 +1069,7 @@ union and national honor so essentially neces­
 sary to their happiness and the future dignity  
 of the American empire.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897050901:0733/pct:175.3858024691358,35.211696618946085,51.388888888888886,16.387450502589097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897050901:0733/pct:43.871839413240686,8.802924154736521,12.854661262304575,4.096862625647274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1105,7 +1105,7 @@ that union and national honor so essentially
 necessary to their happiness and the futur  
 dignity of the American empire.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86081895:00280776920:1897052001:0145/pct:343.50282485875704,166.6867469879518,53.29566854990584,21.746987951807228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86081895:00280776920:1897052001:0145/pct:85.87570621468926,41.67168674698795,13.32391713747646,5.436746987951807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1160,7 +1160,7 @@ fection subsisting among the officers.
 This spirit will dictate brotherly kindness  
 in all things and particularly extend t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898022001:0388/pct:61.08910891089109,32.32413178984862,15.082508250825082,7.513357079252003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898022001:0388/pct:61.094609460946096,32.32413178984862,15.099009900990099,7.52077767883645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1180,7 +1180,7 @@ essentially ne.es-. irv Jo their happiness
 and the future lig:iit.v of the American  
 empire
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn99061556:00415667450:1898022201:0167/pct:105.61310190369541,59.22569205004433,19.17693169092945,3.891242242143631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn99061556:00415667450:1898022201:0167/pct:79.23550826099132,44.41926903753325,14.393727247269672,2.925820116244705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

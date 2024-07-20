@@ -156,7 +156,7 @@ tions of the different States and nations
 as any man in New-Hampshire.  
 THE WHISTLE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790072901:0635/pct:6.491017964071856,37.67264645181775,20.5748502994012,4.889665026194634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790072901:0635/pct:6.491017964071856,37.6779382970842,20.590818363273453,4.894956871461078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ less true. that. when once y*t* Wished,
 they are of»en applied to cases to which  
 the reason of them does not extend ”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823011101:0184/pct:8.203056385034252,63.41991341991342,17.35464605656069,4.025974025974026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1823011101:0184/pct:8.201615735862312,63.41305053565632,17.357452288959138,4.029145474876456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ tions ; but by the same act continued themselves in
 place four years beyond the term for which they  
 were elected by the people.” The writ of habea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824070901:0194/pct:18.526611518651475,3.950617283950617,30.997346652099267,89.94708994708995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824070901:0194/pct:18.523720349563046,3.9501528332941453,30.997711194340408,89.94043420330748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ preme power til legislation has resided has beei
 -apposed to reside aHo a full po wer to change tin  
 form o: the govei unient.” Federalist No. U1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825121701:0242/pct:22.406639004149376,30.110100526567734,14.762208745611236,4.0330301579703205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1825121701:0242/pct:22.40306366682623,30.106497546966615,14.765172065315674,4.036536237086674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ s Democratic and Conservative
 J of the Radical party.  
 * the case in general? Does not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624335:1871092201:0289/pct:57.16262975778547,46.082069769907754,12.622837370242214,6.0014844661223625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624335:1871092201:0289/pct:57.17185697808535,46.085604213056236,12.618223760092272,5.99795002297388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ pressor ; and, worse than all, you have opened
 a fair field to the future success and triumph  
 of the Radical party. And now how stand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624335:1871092901:0293/pct:57.300853982920344,54.79144385026738,12.277754444911102,5.732620320855615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624335:1871092901:0293/pct:57.300853982920344,54.79144385026738,12.277754444911102,5.74331550802139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ the extent of practical knowledge,
 requisite to the due performance of the  
 service.&quot; If these words had force i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:0020029628A:1874080701:0124/pct:164.57597173144876,12.06009180692725,34.24028268551237,15.273334260676032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:0020029628A:1874080701:0124/pct:54.868351298816044,4.020030602309084,11.415444424810037,5.091111420225344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ by means of information, which lies
   
 lifty of these. The largest is Lak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:0020029628A:1874080701:0124/pct:127.68551236749117,133.91292252051747,64.87632508833923,150.77201279732924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:0020029628A:1874080701:0124/pct:42.56935854391235,44.63764084017249,21.629263120692702,50.25733759910975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

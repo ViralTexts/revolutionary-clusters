@@ -52,7 +52,7 @@ A DEED of Ccflion having been executed, and in the Senate
 * 1 offered for acceptance to the United States, of the Claims of.  
 the State of North-Carolina, to a diftritt of Territory therein dcf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040701:0003/pct:8.956127080181544,12.08554051402786,54.46293494704992,82.65646458701197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040701:0003/pct:8.971255673222391,12.095350206003532,54.46293494704992,82.65646458701197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -82,7 +82,7 @@ cepting the ceflion of Territory made
 by virtue of this A&amp;, under the express  
 conditions hereby fpecified ; the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790081201:0641/pct:69.2214111922141,66.4252797893351,20.68126520681265,13.495720868992759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790081201:0641/pct:69.23763179237632,66.43076585472899,20.689375506893754,13.501206934386659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ Carolina, to a certain diftrift of western territory.
   
 7. An ast to promote the progress of ufeful arts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0002/pct:40.44025157232704,34.44114737883284,27.169811320754718,1.8991097922848665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0002/pct:40.448113207547166,34.44114737883284,27.18553459119497,1.913946587537092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ dent of the United States shall nomi­
 nate, and with the advice and consent  
 of the Senate, appoint by virtae of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790092301:0665/pct:29.19971160778659,66.11869143514713,20.716173996635423,22.76837086963669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790092301:0665/pct:29.215733397420493,66.11869143514713,20.700152207001523,22.779330374267083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ ment so for m&#x27;d should he republican,
 and in conformity to the principles  
 contained in the ordinance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1843120901:0146/pct:38.63589532248094,69.23076923076923,20.276117865237996,13.063786308568092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1843120901:0146/pct:29.953156605983178,53.65761689291101,15.719152560417331,10.120663650075414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ Tennessee, with her constitution thus form­
 ed, was admitted into the union on the Ist  
 of June, 17D6, within four months after th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1843121201:0050/pct:18.78344128414531,7.786620778662078,12.616164460715291,16.05721660572166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1843121201:0050/pct:18.78344128414531,7.790205779020578,12.616164460715291,16.05721660572166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ Condition of the grant recited in an act to accept a cession of
 the claims of the State of North Carolina to a certain district of  
 Western territory: &quot;All the lands intended to be ceded by vir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1844071201:0989/pct:92.99065420560747,316.7420814479638,57.398753894081,31.73076923076923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1844071201:0989/pct:23.256719906505648,79.18552036199095,14.355278535255161,7.9326923076923075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ government so formed should be republican
 and in conformity to the princ&#x27;ples contain  
 ed in the ordinance? In pursuance with thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1845112501:0450/pct:31.879720678352573,69.81275029765126,12.897249536839105,8.929537828769348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1845112501:0450/pct:31.889221414659637,69.8163581917235,12.90675027314617,8.933145722841576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ per, that the delegates to the convention which
 ed the Constitution of that State, were voted  
 vantby inhabitantswho were not citizens of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855041901:0373/pct:9.14179104477612,328.4537313432836,49.56467661691542,33.623880597014924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293198:1855041901:0373/pct:2.28544776119403,82.1134328358209,12.391169154228855,8.405970149253731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ the claims of the State of North Carolina
   
 to a certain district of Western territory. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856061201:0529/pct:39.04358353510896,64.61552958914436,12.566585956416464,6.209950998869204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856061201:0529/pct:39.04358353510896,64.61552958914436,12.574656981436643,6.219374293252921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ tory south of the river Ohio, it provided: &quot;And the
 Teept a cession of the claims of the State of North  
 &quot;Carolina to a certain district of western territory.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857031401:0494/pct:7.79547359597653,123.03256037486483,47.72841575859179,15.2228763666947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857031401:0494/pct:2.5984911986588433,41.010853458288274,15.909471919530596,5.074292122231567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ session, entitled, &quot; An act to accept a cession
 of the oi ii(as of the State of North Carolina to  
 | a certai, district of Western territory.&quot; Unde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857040901:0069/pct:50.38930854154561,9.323210813813535,11.841952353282975,4.5921673919081565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857040901:0069/pct:50.39318225837691,9.323210813813535,11.853573503776873,4.595253525908095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ act to accept a cession of the claims of the
 State of North Carolina to a certain district  
 of western territory.&quot; Under the govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857042401:0279/pct:329.25867507886437,222.45666917859833,51.65615141955836,24.23511680482291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857042401:0279/pct:82.34714003944774,55.61416729464958,12.919132149901381,6.058779201205727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ session, entitled &quot;An act to accept a cession of the
 claims of the State of North Carolina to a certain district  
 of western territory.&quot; Under the government thus estab
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661629:1857062701:0057/pct:19.59104725062172,58.071278825995805,15.473887814313347,3.89937106918239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661629:1857062701:0057/pct:19.600257898130238,58.07826694619148,15.483098461821866,3.89937106918239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ lave agreed, which, with hie letter* accompanying the p
 amc, are herewith laid before Congress f  
 G&amp;&gt; WASHINGTON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857122301:0865/pct:16.88888888888889,11.093066833229232,30.650793650793652,84.8469706433479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857122301:0865/pct:16.8994708994709,11.09723089735582,30.645502645502646,84.8469706433479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -881,7 +881,7 @@ ters accompanying the same, are herewith laid
 before Congress.  
 Gzongs washindton. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857122701:0685/pct:139.37677053824362,195.33889245242676,39.036827195467424,58.114175753688265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857122701:0685/pct:34.844192634560905,48.83472311310669,9.759206798866856,14.528543938422066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -947,7 +947,7 @@ have agreed, which with his letters accompany­
 ing thcsame, are hjereith laid before Congress.  
 : J &#x27; GEO; Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1858021001:0347/pct:74.03358681875793,24.407327586206897,15.953738910012675,23.046875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1858021001:0347/pct:55.53794961178894,18.30549568965517,11.963238789415307,17.295258620689655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

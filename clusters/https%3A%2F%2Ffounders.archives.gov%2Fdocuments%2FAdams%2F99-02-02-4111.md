@@ -42,7 +42,7 @@ ti&lt;&#x27;n thereof.
 S&#x27;c. 2. Be it further enabled, That all ihe &#x27;  
 lands thus ascertained as the property of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798041301:0002/pct:11.164713990351482,27.321610231071066,16.17275442223754,9.548030809475367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798041301:0002/pct:11.176200321617275,27.32524342392094,16.17275442223754,9.562563580874873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -62,7 +62,7 @@ lands within the territory situate west of the rtver
 Ch.itahourhee, and south of the cession made to  
 the United Slates, by Smith Carolina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062701:1198/pct:5.845301083396322,39.64440172993753,21.415973796926178,4.549094986384751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808062701:1198/pct:5.843828715365239,39.63805253042921,21.416876574307306,4.552370275464446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ cession of the other territory claimed by the State
 of Georgia, and out of the ordinary jurisdiction  
 thereof/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845020101:0060/pct:44.853159299911006,91.09746738296239,13.408484129338476,3.8181120491174214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845020101:0060/pct:44.86304756254326,91.10066513174725,13.39859586670622,3.824507546687132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ other territory claimed by the State of Georgia, and out of
 the ordinary jurisdiction thereof. Under tbat act commis­  
 sioner* were appointed by the President of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850073001:0848/pct:63.75164690382082,80.18556176919166,15.810276679841897,4.791560752414845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850073001:0848/pct:63.75164690382082,80.18556176919166,15.810276679841897,4.800033892560583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

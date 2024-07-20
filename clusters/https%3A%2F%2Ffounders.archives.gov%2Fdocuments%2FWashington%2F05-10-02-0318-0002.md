@@ -100,7 +100,7 @@ j extreme solicitude which I am bound to feel, ami which
 1 can never cease to feel, for their liberty, their prosperity  
 and happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836072901:0418/pct:19.930118798043328,31.811867434014687,18.630328441649198,23.824171462591785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836072901:0418/pct:19.934777544840436,31.81517496857842,18.634987188446306,23.830786531719255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ I .mi Hound to In I, and which I can never cease
 to let I, for their prosperity, and their happi­  
 ness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836080401:0009/pct:35.01742160278746,14.864470999708539,15.272938443670151,22.45700961818712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836080401:0009/pct:35.01064447455003,14.862305114381465,15.27482097929166,22.457380154451407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ lo feel, and which can never cease to
 feel, Ibr their liberty, IIicm prosperity and  
 Ibeir happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1836081201:0218/pct:44.623655913978496,16.441924609255288,38.418458781362006,107.6923076923077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1836081201:0218/pct:33.490248823133825,12.335274287465522,28.850033624747816,80.76923076923077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ lo feel, for their libcriy, their prospciity, and their
 , ,,  
 happiness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1836121701:0013/pct:44.232268121590025,76.02411289217702,20.089633671083398,24.57870941224825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1836121701:0013/pct:33.19688109161793,57.02150979586245,15.0682261208577,18.440882312645567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

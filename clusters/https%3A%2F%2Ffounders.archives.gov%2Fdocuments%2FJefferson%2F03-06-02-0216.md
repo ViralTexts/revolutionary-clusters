@@ -131,7 +131,7 @@ patrolled by dragoons and infantry in
 order to protect the property of the elty  
 frem the violence of the cresy meb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_camas_ver01:data:sn83045610:00202198235:1879121801:0345/pct:121.34831460674157,251.6012577151508,49.64393100174078,58.041225107720976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_camas_ver01:data:sn83045610:00202198235:1879121801:0345/pct:30.337078651685392,62.9003144287877,12.410982750435195,14.510306276930244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ and Novanglian; English and French: Jac
   
 obinic mid Despotic, etc.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:44.413629160063394,23.825121048134434,20.04754358161648,65.80746226146397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kautsky_ver01:data:sn87056600:00271740578:1879122401:0387/pct:33.333333333333336,17.872401025348903,15.041617122473246,49.35915693534606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ could not give a more sincere answer than in the vulsar
 style,  put them in a bag and shake them and then see  
 which will come out first.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884110201:0307/pct:196.73930332432002,3.267304189435337,95.46683632893271,289.2645719489982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884110201:0307/pct:65.57976777477334,1.0891013964784457,31.822278776310906,96.42152398299939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ j else compel it to declare war in favor
 of the French Revolution and against  
 I England.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028794:1899022701:0292/pct:57.91057609630266,80.82215342277262,12.467755803955288,4.420364637082903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028794:1899022701:0292/pct:57.91774147320149,80.82788671023965,12.460590427056463,4.437564499484004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

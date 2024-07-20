@@ -667,7 +667,7 @@ the resce af the cemmenwcalth aforesald and cantrag
 to the form of the Statute in such case made and  
 provided. And the jurors aforesaid, upon their oath
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850012301:0115/pct:108.1315445026178,129.9538132251887,51.37434554973822,20.344711051030753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850012301:0115/pct:36.04384816753927,43.317937741729565,17.12478184991274,6.781570350343585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ thought, did strike, penetrate and wound, giving to the
 said william Poole, then and thers, with the leaden bul  
 let aforezaid, so as aforesaid shot, discharged and sen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855032401:0672/pct:89.99297752808988,29.868086651337286,105.84620786516854,265.9445721892775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855032401:0672/pct:29.997659176029963,9.956028883779096,35.282069288389515,88.64819072975916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -811,7 +811,7 @@ soam aforesaid felonicusly did kill and slay, against the form
 of the statate in such case made and provided, and against the  
 pace of this State, the soy erriment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530480:1855123101:0829/pct:104.83683948981282,155.66420224183162,47.242007619678645,13.152873837347961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530480:1855123101:0829/pct:34.94561316327094,51.88806741394387,15.747335873226216,4.384291279115987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ der, contrary to the form of the Act of Assembly in such
 case made aud provided, and against the peace, govern­  
 ment and dignity of the State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026335:1858110901:0469/pct:39.57791269152934,65.91597657038982,11.274934952298352,1.1007877196525955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026335:1858110901:0469/pct:39.58754938806977,65.9227092169932,11.27011660402814,1.0974213963509056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ contrary to the form of the Act of Assembly in such
 case made and provided, and against the peace,  
 government and dignity of the State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859010301:0014/pct:37.547784227665296,41.05662638569859,10.944357921563075,1.3082992110256666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859010301:0014/pct:37.547784227665296,41.06328439695063,10.949077351455944,1.304970205399647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -911,7 +911,7 @@ and murder, contrary to the form of the Act of Assembly
 in such case made and provided, and against the peace  
 government and dignity of the State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859010601:0024/pct:49.40975679135258,50.69576534187606,11.07950504906841,1.021123235559115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859010601:0024/pct:49.40975679135258,50.70243934995161,11.088986867681221,1.0244602395968898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +940,7 @@ r aforesaid, by the sald Daniel E. Sickles discharged
   
 and shot on as aforenaid, then and there felontously, wilfuly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859040801:0799/pct:50.615435795076515,186.15855813405582,50.9148369926813,13.959241371186241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743312:1859040801:0799/pct:16.87181193169217,62.052852711351946,16.97161233089377,4.653080457062081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -987,7 +987,7 @@ Key, one mortal wound of the depth of ten
 inches and of the breadth of half an inch;  
 of which said mortal wound, he, the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021933:1859041101:0673/pct:217.0059093893631,57.5,54.43204202232436,40.46875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021933:1859041101:0673/pct:54.26038417337055,14.375,13.610244623214578,10.1171875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1017,7 +1017,7 @@ him, the said Philip Barton Key, in and upon
 the left side of him, the said Philip Barton Key,  
 a little below the tenth rib of him, the said Phit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190637:1859041201:0344/pct:81.30695710157813,223.5122307411464,62.39164258724161,35.26834611171961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190637:1859041201:0344/pct:20.326739275394534,55.8780576852866,15.597910646810403,8.817086527929902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1054,7 +1054,7 @@ the said Philip Barton Key giving to him,
 the said Philip Barton Key, then and there  
 with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1859042001:0540/pct:61.85147507629705,75.95744680851064,11.101220752797559,11.134751773049645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1859042001:0540/pct:61.85147507629705,75.96420128335022,11.105459477789081,11.134751773049645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,7 +1083,7 @@ charged and shot off as aforesaid then and
 there feloniously, wilfully and of his malice  
 aforethought, did strike, penetrate and wound
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1859042301:0132/pct:69.24838940586972,21.980461811722915,24.924838940586973,7.08259325044405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1859042301:0132/pct:69.25793366738249,21.98416222616933,24.92006680983059,7.078892835997632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1127,7 +1127,7 @@ depth of ten inches and of tho breadth of
 half rati inch of which said mortal wound,  
 he,( t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1859042301:0133/pct:68.91117478510029,20.94782511959061,13.753581661891117,15.107353431972411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1859042301:0133/pct:68.9207258834766,20.95153335558275,13.758357211079273,15.111061667964549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ below the tenth rib of him, the said
 Philip Barton Key, giving to him, the­  
 said Phillip Barton Key, then an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1859042801:0496/pct:36.35349874546975,89.49669187145558,29.48146083077781,30.83648393194707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529455:1859042801:0496/pct:12.117832915156583,29.832230623818525,9.82715361025927,10.27882797731569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1190,7 +1190,7 @@ moved and seduced by the instigation of the
   
 devil, on the tenth day of August, in the year of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859082301:0180/pct:129.75797579757975,190.81598942847705,33.82838283828383,11.188195132694638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859082301:0180/pct:32.45288210207732,47.70399735711926,8.460586050350805,2.7970487831736595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1232,7 +1232,7 @@ against the peace of the State and against the
   
 statute in such cases made and provided.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859082301:0180/pct:92.62926292629263,219.31505340821496,70.57205720572057,98.00682744191168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859082301:0180/pct:23.166873022423992,54.82876335205374,17.6502957765855,24.50170686047792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1335,7 +1335,7 @@ murder against the form of the Statute in
 such case made and provided and against  
 the Peace and Dignity of the State o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866020501:0545/pct:98.09960681520315,307.25754656390495,39.38401048492791,31.136801541425818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866020501:0545/pct:24.524901703800786,76.81438664097624,9.846002621231978,7.7842003853564545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1388,7 +1388,7 @@ lawfully, and of his malice aforethougat,
 did strike, penetrate and wound: giving to  
 the said Michal Gibbs, then and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866020501:0545/pct:97.96854521625164,22.504816955684007,80.01310615989514,363.21130378933844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866020501:0545/pct:24.49213630406291,5.626204238921002,20.003276539973786,90.80282594733461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1412,7 +1412,7 @@ said Abraham Lincoln then aad there, with
 I the leadea ballet aforesaid as aforesaid, so as  
 aforesaid, shot, discharged, and sent forth ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654280:1867020501:0308/pct:66.67208848405986,67.56641870350691,15.66363044892648,4.484590860786398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654280:1867020501:0308/pct:66.68293211884624,67.57350336521431,15.65820863153329,4.481048529932695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1452,7 +1452,7 @@ F. Spears, in manner aforesaid, then and
 there, feloniously, wilfully, and of their mal­  
 ice aforethought, in manner and form afore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:0027952391A:1867022201:0242/pct:78.14720471913125,116.1938061938062,34.16007507708808,33.336663336663335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:0027952391A:1867022201:0242/pct:26.0455764075067,38.72739986015383,11.385165326184094,11.11111111111111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1513,7 +1513,7 @@ leaden bullet aforesaid, so, as aforesaid, discharged, sont
 forth and shot out of the pistol aforesaid by the said  
 George W. Cole, in and upon the head of the sale L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743580:1867062501:0620/pct:246.26841508823054,157.31916352416866,46.543629593653876,24.15723917266598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743580:1867062501:0620/pct:82.08947169607684,52.43972117472289,15.514543197884626,8.052413057555327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1563,7 +1563,7 @@ Harris Hiscock, in the manner and form and by the
 means aforesaid, at the city and county of Albaay afare-­  
 said, on the day aforesaid, and in the year aforesald, adl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743580:1867062501:0620/pct:246.23603691112191,204.37664266940922,46.23603691112191,40.84104673751571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743580:1867062501:0620/pct:82.07867897037397,68.12554755646974,15.412012303707302,13.613682245838572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1593,7 +1593,7 @@ of malice aforernought, did strike, penetrate, and wound,
 giving to him, the said L. Harris Hiscock, then and there,  
 with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530868:1867062601:0420/pct:104.12879371437374,36.17548776544142,47.94330611616084,18.40034493909669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530868:1867062601:0420/pct:34.70959790479125,12.058495921813805,15.98110203872028,6.13344831303223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1665,7 +1665,7 @@ William I. Fowler ane mortal wound
 of the depth of four inches and of  
 the breedth of one half
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1867081701:0718/pct:63.99290937292267,239.69121904149245,40.704631065809885,70.39240913477002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1867081701:0718/pct:15.994683207797962,59.91316931982634,10.173903411608329,17.59527255185721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1708,7 +1708,7 @@ damage of said Ann I
 and against the peace of the State, the  
 Government, and dignity of the sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:0020653087A:1867091201:0090/pct:54.34281322059954,200.4686137750654,46.47194465795542,29.620749782040104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:0020653087A:1867091201:0090/pct:18.11427107353318,66.82287125835514,15.490648219318473,9.873583260680034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1781,7 +1781,7 @@ him, the said Albert D. Richardson, then and there felonl­
 ously, wilfully, and of his &quot;malice aforethought,&quot; did strike,  
 penetrate and wound, giving to him, the said Albert D
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869122201:0999/pct:57.40643120716921,177.6600985221675,46.4593217360745,27.11822660098522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869122201:0999/pct:19.135477069056403,59.220032840722496,15.486440578691502,9.039408866995075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1815,7 +1815,7 @@ and &#x27; feloniously and of
 their malice forethought then aud  
 there were present, aiding, assisting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023139:1870072801:0543/pct:66.50499706055261,40.46029919447641,14.814814814814815,14.959723820483314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023139:1870072801:0543/pct:49.904425819732396,30.345224395857308,11.116012351124835,11.219792865362486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1916,7 +1916,7 @@ of the mortm wound aforesaid, at the ward, city and
 countr aforesnid, did dle. And so the jurors afore  
 said, upon their oath aforesaid, do s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872011601:0197/pct:150.4272072373932,51.02399063779988,54.129669961467584,46.65886483323581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872011601:0197/pct:50.1424024124644,17.007996879266628,18.043223320489194,15.552954944411937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1944,7 +1944,7 @@ mortal wound he, the said James bish, or. from thee
 said oth day of January, in the year aforesaide  
 until the h day of danary in the same ear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872011601:0197/pct:151.90149103702464,133.25921591574019,52.21980231194505,17.56582796957285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872011601:0197/pct:50.63383034567487,44.419738638580064,17.40660077064835,5.855275989857616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1979,7 +1979,7 @@ James wisk, in and upon the belly of him, the said
 James Fisk, giving to him, the said James Fiss,  
 then and there, with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872011601:0480/pct:111.10277569392348,63.182413742902895,49.362340585146285,31.096229436599213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872011601:0480/pct:27.786116322701687,15.795603435725724,12.345215759849907,7.774057359149803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2020,7 +2020,7 @@ wilfully, und of his malice aforethought,
 did kill aud murder. At.d the Jurors afore  
 said, upon their oaths aforesaid, do furthe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623732:1872060801:0113/pct:28.183760683760685,83.58728055647565,11.025641025641026,12.504140443855581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623732:1872060801:0113/pct:28.198005698005698,83.5928011482831,11.03988603988604,12.515181627470465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2061,7 +2061,7 @@ peace and dignity of the Commonwealth of \ ir­
 ginia. Chas. E. Siyei.MK,  
 Attorney for the Commonwealth, Prince Wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663699:1872100801:0361/pct:35.79529737206086,30.656593919044955,15.449515905947441,12.180563327737362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663699:1872100801:0361/pct:35.79529737206086,30.662811664490455,15.449515905947441,12.177454455014612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2118,7 +2118,7 @@ And the jurors aforesaid upon their oaths afore
 said do further present that the said .John T. Gordon  
 on the sixteenth day of June, in the year of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524664:1873110601:0393/pct:15.201496344159157,41.383163645393594,11.375616391770107,6.146014402781227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524664:1873110601:0393/pct:15.198911934716083,41.378026070763504,11.377932675960558,6.148355058969584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2231,7 +2231,7 @@ proceed with the case.
 Mr. Page was employed for the defence by  
 the father of the accused. Captain Wis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742083:1875060801:0557/pct:41.625548245614034,245.96042120551925,43.16063596491228,39.04320987654321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742083:1875060801:0557/pct:13.87518274853801,81.98680706850641,14.38687865497076,13.01440329218107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2272,7 +2272,7 @@ penetrate and wound him. tiie said Uri Carruth, in
 and upon the back of the head of him, the said Uri  
 Carruth, giving him, the said Uri Carruth, then an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876011301:0220/pct:5.092812946216087,17.723396366332963,11.089957163255592,11.543690520331232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876011301:0220/pct:5.092005076142132,17.721206129510627,11.092163705583756,11.545353435491844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2302,7 +2302,7 @@ form of the statute in such case made and provided,
 against the peace of this State, the government and  
 dignity of the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876011301:0220/pct:5.092812946216087,33.49400568532938,10.915437093447565,6.167346434309727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876011301:0220/pct:5.092005076142132,33.489866534849234,10.917671319796954,6.169673751853683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2361,7 +2361,7 @@ head of him, the said Uri Carruth,
 giving him, the said Uri Carruth,  
 then and there, with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1876022401:0595/pct:210.61293984108968,253.88804182095404,35.8683314415437,64.90960575038117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1876022401:0595/pct:52.66818052795912,63.47201045523851,8.96962815782004,16.227401437595294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2395,7 +2395,7 @@ vided, against the peace of the State,
 the Government and dignity of the  
 same.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1876022401:0595/pct:210.55618615209988,333.3042910041385,35.811577752553916,30.320191679372687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1876022401:0595/pct:52.65398807834232,83.32607275103463,8.955435708203236,7.580047919843172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2455,7 +2455,7 @@ as Coleman Younger. James Y&#x27;onnger
 I and Robert Younger, then and there  
 with force and arms, wi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876120701:0513/pct:37.638617090671886,55.272504592774034,13.388780169602088,24.053888548683403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876120701:0513/pct:37.64948901935203,55.27658705858338,13.383344205262013,24.053888548683403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2560,7 +2560,7 @@ jury was inrpanelled were Drs. Taylor and
 Nicolson. They made the post-mortem ex-­  
 amination, and described the wounds, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742137:1877100501:0339/pct:129.9109552077712,43.19499401858839,41.83756071235834,37.32400846599798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742137:1877100501:0339/pct:43.30365173592373,14.398331339529463,13.945853570786113,12.441336155332658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2698,7 +2698,7 @@ and upon the left side or the head of
 him the said John W. Burk, then and  
 there feloniously, willfully, and of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:0033289643A:1879052701:0130/pct:5.5861675850275505,52.775785396643236,12.559376781303438,15.621861999713097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:0033289643A:1879052701:0130/pct:5.585106382978723,52.76821572002295,12.561740121580547,15.62320711417097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2729,7 +2729,7 @@ such case made and provided, and
 against the peace of this State, the gov­  
 ernment and dignity of the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:0033289643A:1879052701:0130/pct:5.757172715181455,77.07645961841916,12.312369371081132,10.457610098981494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:0033289643A:1879052701:0130/pct:5.756079027355623,77.06540447504302,12.31477963525836,10.459695926563397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2831,7 +2831,7 @@ B | and there with Uio leaden bullets aforeeald, so a* afore &gt;
 i said sboLkiischarged and sent foith out of the pistol  
 | aloresaid, by the said Charles A. McClung, In and up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194047:1880102701:0010/pct:13.14874596473802,85.13995866992298,11.671219269927986,7.044899492767237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194047:1880102701:0010/pct:13.157023425213145,85.1430897363642,11.66294180945286,7.051161625649696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2870,7 +2870,7 @@ of his malice aforethought, him the said Sher­
 man Page, then and there to kill and murder,  
 contrary to the form of the statute in such eas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766409:1881033001:0060/pct:6.642903434867142,83.60595252736441,14.112119248217757,11.327020046734718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766409:1881033001:0060/pct:6.653704903866926,83.6141516008691,14.112119248217757,11.322920509982373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2914,7 +2914,7 @@ city of Austin and said Mower county and state
 of Minnesota this 18th day of March, A. D.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_peugeot_ver01:data:sn90059028:00212479184:1881033101:0598/pct:22.450490468258376,30.166358595194087,15.824541921154914,13.949476278496611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_peugeot_ver01:data:sn90059028:00212479184:1881033101:0598/pct:22.456659880313406,30.170466214828508,15.836880745264976,13.953583898131033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2949,7 +2949,7 @@ of him, the said James A. Garfield, giving to
 him, the said James A. Garfield, then and there,  
 with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654565:1881100501:0026/pct:15.635473060067028,15.642731363725298,15.931941221964424,9.283897476032088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654565:1881100501:0026/pct:15.644066340122025,15.649253244635753,15.927644581936926,9.28063653557686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2971,7 +2971,7 @@ and murder; against the form of the statute in
 such case made and provided against the peace  
 and government of the United States of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654565:1881100501:0026/pct:15.57102345965455,32.85071414595969,14.694508894044857,4.314224222265701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654565:1881100501:0026/pct:15.575320099682049,32.85723602687015,14.707398814127352,4.317485162720929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3024,7 +3024,7 @@ statue in such case made and provided,
 and against the peace and Government  
 of the United States of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1881100601:0160/pct:49.70252452162727,16.431690580162197,11.095031355523396,16.905801621958826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1881100601:0160/pct:49.69453376205788,16.429640718562876,11.097266881028938,16.90681137724551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3069,7 +3069,7 @@ the back of him, the said James A. Garfield
 giving to him, the said James A. Garfield  
 then and there, with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881100801:0432/pct:124.9789029535865,184.37550755237942,50.21097046413502,57.10573331167777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn82014424:00211102998:1881100801:0432/pct:31.25791473195441,46.093876888094854,12.558041367665682,14.276433327919442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3126,7 +3126,7 @@ second day of July, in the year last aforesaid,
 until the lath day of September, in the year  
 of our Lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00100493950:1881100901:0039/pct:29.094191007548407,19.51616655036055,13.537906137184116,20.632705280297742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00100493950:1881100901:0039/pct:29.099660868613938,19.52392029154067,13.543375998249644,20.624951539117625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3174,7 +3174,7 @@ which said mortal wound he, the said James A. Garfeld
 from the said 21 day of July, in the year last afore said  
 until the 19th day of September, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881100901:0471/pct:125.97968069666183,45.8154812910597,50.43541364296081,42.78777492145102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881100901:0471/pct:31.494920174165458,11.453870322764924,12.608853410740203,10.696943730362754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3221,7 +3221,7 @@ James A. Garfield, in and upon the right
 side of the back of him, the said James A.  
 Garfield, then and there, with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779611:1881100901:0343/pct:137.34533183352082,71.71187599726464,37.62654668166479,49.87462958741737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779611:1881100901:0343/pct:34.3508229005486,17.92796899931616,9.410606273737516,12.468657396854342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3346,7 +3346,7 @@ the right side side of the back of him, the said James
 A. Garfield, giving to him, the said James A. Oarfield  
 then and there, with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101933:1881101001:0353/pct:7.469879518072289,97.79443563500072,50.52208835341366,34.251117197635864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101933:1881101001:0353/pct:1.8678449487848965,24.44860890875018,12.633058847158065,8.562779299408966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3389,7 +3389,7 @@ of the back of him, the said James A. Garfield,
 giving to him, the said James A. Garfield,  
 then and there, with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525516:1881101001:0148/pct:29.592658187087427,11.901340996168582,10.80341329898567,10.045498084291188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525516:1881101001:0148/pct:29.587894397939472,11.899916197773255,10.805698647778494,10.04728839937747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3447,7 +3447,7 @@ be, the 6iid Jus A. Girfleld from the paid
 v.-.til the 19lh day&quot; of September, in the year  
 ■if our Lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00100493950:1881101001:0049/pct:29.29110600590745,13.072807629681321,13.61995405316705,20.469876715515237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00100493950:1881101001:0049/pct:29.302045728038507,13.07668450027138,13.61995405316705,20.477630456695355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3470,7 +3470,7 @@ in and upon the right side of the back of
 him, the said James A. Garficd, then and  
 there with a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281895:1881101301:0015/pct:62.354312354312356,24.154589371980677,12.776806526806526,5.5162341309965175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281895:1881101301:0015/pct:46.779364616729815,18.121559375351083,9.58904109589041,4.134366925064599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3655,7 +3655,7 @@ Garfield, giving to him, the said
 James A. Garfield, then and there  
 with a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86053968:00383343586:1881102001:0006/pct:34.70515970515971,59.30448941614329,9.858722358722359,19.027680856013028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86053968:00383343586:1881102001:0006/pct:34.699831107016735,59.29759274334225,9.861047136496238,19.028375392487497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3687,7 +3687,7 @@ niously, willfully, deliberately, premedita­
 tedly and of his malice aforethought, did  
 strike, penetrate and wound him, the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291931:1881112201:0060/pct:4.40792905581638,70.36087195457043,19.353155972874283,12.786224583257006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291931:1881112201:0060/pct:3.3133315940516566,52.77523355925994,14.51865379598226,9.589668437442755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3928,7 +3928,7 @@ and dignity of the same.
 Charles H. Winfield  
 Prosecutor of the Pleas.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn85036014:00514155859:1890060101:0158/pct:29.045557616986187,72.46262785208498,12.71902700474129,5.601888276947285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn85036014:00514155859:1890060101:0158/pct:29.03957131079967,72.45122718691,12.721558120362737,5.604940213971051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3957,7 +3957,7 @@ the form of tbe statute in such case, made and
 provmed and against the peace of this State,  
 the dove rumen. and dignity of the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ginger_ver02:data:sn87068097:00383340743:1891070601:0769/pct:82.81218066625792,65.07250848503548,12.364602493357857,5.060166615242209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ginger_ver02:data:sn87068097:00383340743:1891070601:0769/pct:82.79525950143032,65.06247107820454,12.36718430731508,5.0632423260836035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4122,7 +4122,7 @@ felouinusly wilfully aud of his malicq
 aforethought did kill and murder  
 against the peace aud diguity of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533791:1893102501:0826/pct:52.35210263720599,60.91164095371669,14.415538132573058,21.458625525946704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533791:1893102501:0826/pct:39.29399179889463,45.69074333800842,10.821893385630236,16.09046283309958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4145,7 +4145,7 @@ then and there held,” etc., in such a way
 that the shot, when discharged, struck  
 the said Waldburg Meyer in the head, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210831:1893122801:0454/pct:17.81767955801105,52.667787800030574,12.569060773480663,5.0298119553585074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210831:1893122801:0454/pct:17.814164529492995,52.65973708346071,12.571513118958375,5.032864567410578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4180,7 +4180,7 @@ kill and murder against the peace of said
 state, and contrary to the form of the stat­  
 ute in such case made and provided.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210879:1894122001:0239/pct:56.6085764636773,47.13976499690786,12.512238104562366,8.47247990105133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210879:1894122001:0239/pct:56.59749412685983,47.132477971865825,12.514682850430697,8.475034781264492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4203,7 +4203,7 @@ deliberately and premeditatedlv- and of his
 malice aforethought, did strike, penetrate  
 and wound him, the said Indian, a ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1897111701:0157/pct:57.765151515151516,101.47345009730331,16.647727272727273,5.198776758409786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1897111701:0157/pct:43.34975369458128,76.10508757297748,12.485790071996968,3.906032805115374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4228,7 +4228,7 @@ to tho jurors unknown, one mortal wound
 ot four Inches and of the breadth of half  
 an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1897111701:0157/pct:57.746212121212125,106.76953016402558,16.609848484848484,6.241312204614957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1897111701:0157/pct:43.330807123910574,80.0806227411732,12.46684350132626,4.684459271615235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4332,7 +4332,7 @@ the said Josiah-W. Kessrier&#x27;one&#x27;mortai
 wound, of- which-lafiorta&#x27;l wound afore­  
 said, he*: the said Josiah W. Kessner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:0021247938A:1898031001:0489/pct:43.3766592920354,46.924042686754554,12.071349557522124,13.946432308014229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:0021247938A:1898031001:0489/pct:43.38126843657817,46.931017646648534,12.075958702064897,13.939457348120248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4368,7 +4368,7 @@ deadly weapon, to-wit: the double­
 barrel shotgun aforesaid, and the gun­  
 powder and leaden balls aforesaid, giv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn93060416:00294556436:1898031201:0464/pct:63.23701109165207,72.38723872387239,12.915936952714535,12.529030680845862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn93060416:00294556436:1898031201:0464/pct:47.45218280040882,54.29654076518763,9.694845962914295,9.399828871776066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4387,7 +4387,7 @@ this State, the Government and dignity of the
 same. CHARLES H. IvINS.  
 Prosecutor of the Pleas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898102801:0959/pct:57.37833594976452,95.50784224151059,52.354788069073784,7.2483630272575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898102801:0959/pct:14.34458398744113,23.876960560377647,13.088697017268446,1.812090756814375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

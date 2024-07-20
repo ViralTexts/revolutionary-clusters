@@ -1287,7 +1287,7 @@ By the answer from the court of Spain, it appears that
 this vessel and her crew had been set at liberty by the  
 viceroy of Mexico; but this is represented to have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846022301:0234/pct:97.47759707932293,188.2332682814832,46.59807500829738,26.449316955573412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846022301:0234/pct:32.49253235977431,62.744422760494395,15.53269166943246,8.816438985191137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1305,7 +1305,7 @@ ignorance of the rights of Spain had encouraged the in.­
 dividuals of other nations to come to those coasts for the  
 purpose of making establishments for carrying on trade
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846022301:0234/pct:97.56057085960836,214.02824015612444,46.050448058413544,5.1314430030995295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846022301:0234/pct:32.52019028653612,71.34274671870814,15.350149352804515,1.7104810010331764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1339,7 +1339,7 @@ reliance, to enable him to take such measures, and to
 make such augmentation of his forces, as may be even  
 tually necessary for this purpose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846022301:0234/pct:97.12910720212413,220.88164389851912,46.94656488549618,22.959476523935255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846022301:0234/pct:32.37636906737471,73.62721463283971,15.648854961832061,7.653158841311751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

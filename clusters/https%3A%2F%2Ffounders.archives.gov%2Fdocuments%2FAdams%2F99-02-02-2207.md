@@ -157,7 +157,7 @@ and damage, by reason of irregular or -illegal
 captures or condemnations of their veflels and  
 other property
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:67.877545041746,72.0485067147725,18.92485718470778,3.3774303467628783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:67.88731018993214,72.0485067147725,18.915092036521653,3.3774303467628783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ ving b-en taken by the Subjects of His Cat)i-,
 olic Majcfty, during the late War between Spain  
 and France, that they are ready to receive (at thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060601:0001/pct:23.38560885608856,60.351447135262845,15.867158671586715,1.4914353219137626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060601:0001/pct:23.397140221402214,60.362522150029534,15.855627306273062,1.5025103366804489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ goes bating b-tn taken by the Subjects of His Cath­
 olic Majefly, during die late War between Spain  
 and France, that they are ready to nceivc (at thci
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061401:0001/pct:72.53634894991923,13.30396475770925,15.901223171013156,6.431718061674009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061401:0001/pct:72.53634894991923,13.30396475770925,15.918532194784214,6.45007342143906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ goes having b»cn taken by the Subjects of His Cath­
 olic Afaiefly, during the late War between Spain  
 and Fralcr, that they are ready t« receive (at thai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070801:0001/pct:58.8778236580034,47.67388998333081,16.881224192373086,6.713138354296105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797070801:0001/pct:58.89604080641244,47.681466888922564,16.875151809570074,6.713138354296105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ f: happens that the Consuls can deleft this dc­
 -j demand aa infpeftiou of the registers and sea  
 1 ! letters
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112301:0003/pct:56.37661141804788,27.041120381406436,16.75874769797422,6.0041716328963055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112301:0003/pct:56.38812154696133,27.04484505363528,16.776012891344383,6.0041716328963055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ caufe they have no authority to demand an
 infpeétion of the regifier and sea letters,  
 &quot; Gentlemen of the House
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797120601:0404/pct:24.40273037542662,69.78545887961859,16.78560347502327,5.8402860548271756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797120601:0404/pct:24.407901541007345,69.79208051913653,16.78560347502327,5.836975235068203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ coniequcnce of their Yeiieis nd Cargoes having
 been taken by the Subjects of His Ca holicMajef­  
 ty, during the late war between Spain and France
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030301:0001/pct:72.48185117967333,27.446126965637742,15.539927404718693,7.323820617355853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030301:0001/pct:72.48185117967333,27.446126965637742,15.539927404718693,7.327460687245195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ coniequence »f their VeffeiS :■ nd Cargoes having
 been taken by the Subjects of His Ca&#x27;helic Majel­  
 ty, during the late war between Spain and Franc.-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030501:0001/pct:39.26323152249942,77.40498812351544,16.110981580788064,8.120546318289787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030501:0001/pct:39.2690603870366,77.4124109263658,16.140125903474004,8.120546318289787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ captures, or condemnations of their vessels an-&#x27;
 other property, undercolor of authority, or comd j  
 missions from his majesty, contrary to the tenor 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0020/pct:3.9009058975781103,53.21666876495027,18.062488445183952,3.8524486969658818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0020/pct:3.900184842883549,53.209969788519636,18.065311152187306,3.856159785162806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

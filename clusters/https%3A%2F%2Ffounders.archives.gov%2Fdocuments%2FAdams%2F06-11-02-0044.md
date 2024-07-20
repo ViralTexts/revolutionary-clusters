@@ -303,7 +303,7 @@ Of all this servile here, the worst is h
 men.  
 Of all this servile herd, the worst is h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661022:1846033101:0361/pct:56.93869875893193,69.25067784076904,18.522000752162466,2.883904362829677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661022:1846033101:0361/pct:56.93869875893193,69.25067784076904,18.534536793280683,2.8880124887026537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -54,7 +54,7 @@ reasons ? Because it wil! recure to us the good
 it contains, which, he thinks,great and important;  
 and he wilhes the other four mav refufe it, be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792090801:0002/pct:5.942555298778474,36.21495327102804,21.888412017167383,7.223520249221184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792090801:0002/pct:5.967315945856718,36.21982087227414,21.87190491911522,7.242990654205608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -79,7 +79,7 @@ Inuft take care, however, that neither this nor
 any other objections to the form, produce a  
 Jihijm in our L nien&quot;—and his commentator, Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092201:0002/pct:76.97345742847294,43.35677999218445,20.889348500517062,7.38569753810082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792092201:0002/pct:76.99069286452948,43.36166471277843,20.889348500517062,7.38569753810082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ and letting the world roll on as it likes, than to
 occupy the most splendid post which human pow­  
 er can give.— [ Thomas Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836040701:0068/pct:5.028219599794767,59.81644549175245,14.99914486061228,5.196576956467816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1836040701:0068/pct:5.0339205290462345,59.824713712844684,15.004845789863747,5.196576956467816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ simple bacon, and letting the world roll
 on as it likes, than to occupy the most  
 splendid post wvhich hulmna pgeCt &#x27;d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288336:1839070401:0088/pct:77.77777777777777,89.30855556896344,15.205599300087489,6.878243031253771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288336:1839070401:0088/pct:77.77777777777777,89.31660029765496,15.21726450860309,6.870198302562246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ splendid post wvhich hulmna pgeCt &#x27;d
 constitution which I strongly dislike. That is, the  
 perpetual re-eligibility of the President.&quot; Lette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840082401:0164/pct:79.12657290895633,310.8340260459961,57.364914877868245,5.7079523413688005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840082401:0164/pct:19.785304460484916,77.70850651149902,14.343883027947436,1.4269880853422001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ world roll as it likes, than to occupy ths
 most splendid post which human power can  
 give.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1855041201:0063/pct:79.15686274509804,64.80589022757698,16.019607843137255,6.412315930388219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1855041201:0063/pct:79.14134483434621,64.79721590148574,16.021368359145267,6.414803908445991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ roll on as it liked, than to occupy the most
 splendid post which any human power can  
 give.&quot; He courted no popular favor. H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477783:1858080401:0235/pct:25.92013888888889,113.45796870856536,19.39236111111111,4.746751524794484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477783:1858080401:0235/pct:19.44782080222261,85.0967913020419,14.551137350234416,3.5666931848316095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ roll on as it will, than to occupy the most splen­
 did post which human power can give.—/. Q.  
 Ad i m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174324:1861041901:0083/pct:9.04480135249366,37.09325293689573,13.905325443786982,7.46439338808608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174324:1861041901:0083/pct:9.043527257360191,37.08939708939709,13.908062168380523,7.467082467082467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ books, my family, and a few old friends, and
 letting the world roll on as it likes, than to  
 occupy the most high places which huma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862110101:0956/pct:21.477428180574556,192.5403499254035,50.88919288645691,26.963244269632444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1862110101:0956/pct:5.372112917023097,48.13508748135087,12.728828058169375,6.740811067408111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ cottage, with my books, my family, and
 iew oia menus, and letting the world  
 as it likes, thau to occupy the most 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1862112601:0121/pct:24.22552664188352,63.24344292574806,14.172862453531598,5.885974633665804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1862112601:0121/pct:18.174775333126743,47.432582194311045,10.644561512240472,4.420637852481222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ things to have turned out otherwise than
 they did, merely because it is possible  
 the imagination, which is impossible in fact
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1863060501:0953/pct:126.72540381791484,331.1738484398217,56.31424375917768,57.4739970282318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1863060501:0953/pct:31.68135095447871,82.79346210995543,14.07856093979442,14.36849925705795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ habeas corpus, no standing armies. These
 are fetters against doing evil . which no hon­  
 est government should decline.&#x27; . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863100801:0170/pct:45.25471039776692,97.02607100746758,19.469644103279833,7.12694877505568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863100801:0170/pct:33.95567963706159,72.77610375998952,14.604781015529577,5.3452115812917596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ hy the first Congress, ami are embodied
 in Article IV, V ami VI of those amend­  
 ments which were adopted by all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863120501:0399/pct:46.42442984151527,56.98584970462976,12.330885195206804,8.971012501717269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863120501:0399/pct:46.42926169308079,56.98584970462976,12.330885195206804,8.971012501717269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1012,7 +1012,7 @@ nodest cottage, with my books, my family, and a few,
 old frlends, dining on simple bacon, and let the world  
 oll on as it likes, than to occupy the mrost splendid?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184753:1864011301:0028/pct:197.9827089337176,275.11069680727104,44.63656740313801,10.638545793521324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184753:1864011301:0028/pct:65.98367216263807,91.6928812769428,14.876474040872953,3.5457687677191347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1059,7 +1059,7 @@ to accede to it till a declaration of rights be an
 nexed; but no objection to the new form must  
 produce a schism in our Union.&quot; While such wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882060401:0447/pct:237.9984951091046,64.80615477447579,49.81188863807374,13.154321918841454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882060401:0447/pct:59.51081843838194,16.201538693618946,12.455315145813735,3.2885804797103635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1278,7 +1278,7 @@ such a declaration, and thus give to the
 whole fabric perhaps as much perfection as  
 any one of that kind ever had.&quot; Subsequently
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898082101:0068/pct:68.63496932515338,331.5404943261309,50.23006134969325,16.47753769625369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898082101:0068/pct:17.16861691924036,82.88512358153272,12.564741991175906,4.119384424063423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1303,7 +1303,7 @@ government should decline.&quot; EYper.­
 ience has proven that Jefferson was  
 right; freedom of trade from monopo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_frawley_ver01:data:sn88059319:00415622855:1898082601:0269/pct:26.14705317719332,248.90541678360933,50.585525052793244,25.007016559079428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_frawley_ver01:data:sn88059319:00415622855:1898082601:0269/pct:6.53676329429833,62.22635419590233,12.646381263198311,6.251754139769857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

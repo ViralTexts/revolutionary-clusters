@@ -887,7 +887,7 @@ tion. Their reit;, however, have ,
 and their cultivation has been improved  
 i\iu*i that time.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804081701:0001/pct:1.2249443207126949,69.33072516417494,19.042316258351892,26.212100041917004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804081701:0001/pct:1.2249443207126949,69.33538260910065,19.04974016332591,26.226072376694145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ two sums, and consequently double the va­
 lue of the agricultural produce consumed.  
 And though the inerement ul&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811062701:0574/pct:50.7380073800738,42.045121593905655,22.08990271720899,17.81423967184295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811062701:0574/pct:50.729498574543015,42.041015625,22.091788249762423,17.815755208333332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1959,7 +1959,7 @@ on foreign nations for military and other essential supplies. Th
 | “national government to lend its direet aid on a earn­  
 ”prehentwe plan.&quot; I refer to the report, solely for it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832081001:0107/pct:49.55068800898624,90.40521143866623,15.220443695591126,2.3296897427404217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832081001:0107/pct:49.5437315737751,90.39523073526165,15.222986569329402,2.3331125340398913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2258,7 +2258,7 @@ to subsist between the manufacturing and agricultural !
 interests.  
 &quot;ideas of a contrariety of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846082501:0087/pct:27.16686320754717,80.7168191151764,14.033018867924529,3.4254246779914133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846082501:0087/pct:27.16686320754717,80.72304150332897,14.037932389937106,3.4223134839151266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2341,7 +2341,7 @@ jciII are, nevertheless, respectable opinl
 | ions unfriendly to the encouragement of mntiu­  
 | taciures,&quot; and proceeds to give a condensed state
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848042501:0156/pct:17.49738063164197,57.7670372160464,13.785361472833408,6.679555340744321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848042501:0156/pct:17.5073591777678,57.773481553085226,13.780372199770493,6.679555340744321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2446,7 +2446,7 @@ new, and securing in ail, a more certain
 and steady demand for the surplus produce  
 of the soil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293368:1867121201:0561/pct:50.74955908289242,40.5217965653897,14.124044679600235,3.874944958168208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293368:1867121201:0561/pct:38.08263490663138,30.39409951563188,10.60138214968387,2.906208718626156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2494,7 +2494,7 @@ nvincing argument of its
 truth.  
 The gathering of the Gran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283624:1873092501:0351/pct:20.63063063063063,78.70632138414565,13.063063063063064,26.054506389234422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283624:1873092501:0351/pct:15.482805226009912,59.029741038109236,9.791259948941283,19.540879791925818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2513,7 +2513,7 @@ and the aggregate prosperity of
 agriculture arc intimately con­  
 nected, and the new constitutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1876010601:0189/pct:15.001849796522382,12.136799666342277,11.302256751757307,2.7526762129848463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_igglybuff_ver01:data:sn84023017:00414213005:1876010601:0189/pct:14.999075272794526,12.13511259382819,11.304790086924358,2.7557686961356684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2780,7 +2780,7 @@ certainly by the duty of endeav
 ing to secure to their own citizt  
 a reciprocity of advantages.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:0017503237A:1884070401:0108/pct:50.55808835088823,42.196846112017404,11.224650212230781,18.357803153887982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:0017503237A:1884070401:0108/pct:50.55808835088823,42.196846112017404,11.235130744641827,18.36505347108936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2808,7 +2808,7 @@ selves, and would thereby reduce tbeir
 rents and ruin tbeir production ithey ev­  
 idently must have been protectionis-s,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776518:1890090301:0487/pct:210.43854231006793,133.81479324403028,40.951204447189625,27.443214909726265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776518:1890090301:0487/pct:52.62588816805684,33.45369831100757,10.240963855421686,6.860803727431566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2857,7 +2857,7 @@ gravely assured Mr. Gladstone in the course of their curiou
 bounty; since, by enhancing the charges  
 on foreign articles, they enable ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295912:1891091101:1131/pct:186.50963597430408,140.45323047251688,56.03140613847252,6.26808100289296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295912:1891091101:1131/pct:46.635730858468676,35.11330761812922,14.010351597358557,1.56702025072324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2941,7 +2941,7 @@ some instances, a new, and securing in
 all a more certain and steady demand  
 for the surplus produce of the soil. Hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00206536792:1894030801:0072/pct:28.567560249119957,44.976832350463354,10.574059030598429,3.1486941870261163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00206536792:1894030801:0072/pct:28.57207329181334,44.976832350463354,10.574059030598429,3.1522044369559112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2982,7 +2982,7 @@ energy to the general stock of effort.
   
 It is, therefore, to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:0041615675A:1896111901:0441/pct:6.409062693978895,29.851767388825543,17.147734326505276,2.0524515393386547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:0041615675A:1896111901:0441/pct:4.812170133498913,22.394526795895096,12.868674324743868,1.5393386545039909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3073,7 +3073,7 @@ fall on raw materials, wear a beneficial labor or money*
 aspect towards the manufacturers of the JAMES ARNOLD,  
 country. As often as a duty upon a Vesta, Minn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346836:1899070601:0101/pct:42.37898386451527,55.24967989756722,23.536471529537273,6.882202304737516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346836:1899070601:0101/pct:42.37898386451527,55.24967989756722,23.536471529537273,6.889315692132594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

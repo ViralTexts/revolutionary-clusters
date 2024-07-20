@@ -246,7 +246,7 @@ We can only say-
 Oh, how wretched  
 Is that poor man that hangs on prince&#x27;s favour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743191:1844010501:0031/pct:58.77019452687109,93.10030741204599,46.538081107814044,5.829443242627804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743191:1844010501:0031/pct:19.59006484229036,31.033435804015333,15.512693702604682,1.9431477475426013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ Returned to America, he soon entered Harvard University at th
 “Oh! how wretched is that poor  
 man that hangs on Princes’ favors !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1877032301:0018/pct:25.70258700911967,22.417023554603855,15.317327377628885,1.5524625267665952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1877032301:0018/pct:19.919226885907975,17.380030424560918,11.88037886436848,1.2066104273267875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ That 6weet aspect of princes and their ruin.
 More pangs and fears that wars or women  
 have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bravo_ver01:data:sn84028140:00237283697:1899060901:0193/pct:98.99386084583902,31.75495292960517,14.409959072305593,3.203597021216805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bravo_ver01:data:sn84028140:00237283697:1899060901:0193/pct:74.28766422112268,23.81621469720388,10.81726667804129,2.4026977659126034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

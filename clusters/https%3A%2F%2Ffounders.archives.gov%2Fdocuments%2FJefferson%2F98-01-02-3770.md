@@ -83,7 +83,7 @@ With my thanks for the pamphlet, he pleas­
 ed to accept die assurance of mv great res­  
 pect. TH.JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823101401:0189/pct:17.44017986189176,10.624628197501487,15.079492532519673,23.29565734681737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823101401:0189/pct:17.4373795761079,10.623364263621223,15.082423463926354,23.2968514553097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ ing, of couree § having feund it necessir to
 decline giving opinions oo books, evee when  
 desired,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823101601:0571/pct:31.580902842281255,26.288249345921965,20.397547835779307,25.99249232169264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823101601:0571/pct:31.59328751006254,26.295832859363742,20.397547835779307,25.996284078413527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ ining of course ; having found it necessary
 t i dei I ne giving opinions mi hunks, even  
 vvlii&#x27;ii desired.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823102101:0500/pct:1.5098241985522234,1.7754952311078502,14.808686659772492,16.581071166544387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823102101:0500/pct:1.509511993382961,1.7752347417840375,14.810794044665013,16.582306338028168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ be pleased to accept the assurance of
 my greatest respect.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1823102201:0024/pct:45.810619826367855,5.6480295916915635,39.02685241267918,120.04552567932849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1823102201:0024/pct:35.50826683356804,4.377228123047521,30.26130496010014,93.05009371899004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ pleased to accept the assurance of my
 great respect.  
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823102801:0169/pct:56.29401408450704,19.052281182690425,16.065140845070424,29.635794008224007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823102801:0169/pct:56.30379499217528,19.055544677240388,16.060250391236305,29.635794008224007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ With v thanks for the pamphlet, be pleas­
 ed to accept the assurances of mv great re­  
 spcct. TH. J! FFKiiSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823120601:0148/pct:3.4757230034491906,6.353408338848444,36.614486601220484,92.47187293183322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823120601:0148/pct:3.4748010610079576,6.352357320099256,36.61140583554376,92.46071133167908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ with its laws or contracts, these deriving their
 obligation from the will of the existing major­  
 ity,&quot; and yet this simple proposition, supposin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86074084:00295878186:1841050801:0171/pct:54.705882352941174,21.12234227953991,23.761609907120743,5.228302544440572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86074084:00295878186:1841050801:0171/pct:41.05621805792163,15.84756593470431,17.825615610964846,3.91541768328105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ generation, no other law than the law of
 nature; the present generation, therefore, is  
 not bound by the preceding generation, no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779568:1879012801:0073/pct:135.4973821989529,158.4111647879764,39.21465968586387,38.60440150295223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779568:1879012801:0073/pct:33.878779945018984,39.6027911969941,9.804948291661212,9.651100375738057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +887,7 @@ change of circumstances or of will calls
 for it; habit alone confounds civil prac­  
 tice with natural right. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270208:00279527756:1889110901:0080/pct:39.812332439678286,6.241726911719784,32.84182305630027,120.39507178495062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270208:00279527756:1889110901:0080/pct:29.873960847412175,4.68384074941452,24.63126843657817,90.29630383871296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,7 +1083,7 @@ move something, They aro axioms
 also pregnant with salutary conso­  
 quooces. Thomas Jelferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_estlund_ver01:data:sn99063955:00280760377:1898061001:0930/pct:27.579493835171967,94.31415325879466,14.487345879299156,21.679847286610308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_estlund_ver01:data:sn99063955:00280760377:1898061001:0930/pct:20.691333982473225,70.7390237251159,10.873093151574164,16.266703026997547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

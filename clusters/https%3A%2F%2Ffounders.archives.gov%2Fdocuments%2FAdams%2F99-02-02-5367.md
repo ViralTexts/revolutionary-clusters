@@ -756,7 +756,7 @@ concealed. I should never have revealed or ex­
 plained them, if he, and his partisans, had not  
 compelled me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809070701:0074/pct:5.974552830536603,3.7367199902307973,53.863175364189566,91.11002564415679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809070701:0074/pct:5.9734513274336285,3.7362637362637363,53.859390363815145,91.1029711029711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ pE the secretaries. Ike him what
 to France, with or ~withour others ?  
 Is it determined ¢ fend to Fra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809071101:0315/pct:60.16298385832942,10.773067331670823,34.35198244789218,81.14713216957605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809071101:0315/pct:60.168207699942535,10.776392352452202,34.3572062895053,81.15045719035744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1111,7 +1111,7 @@ ence, thit they always feared bo
 would discover some errer or carry,  
 fymie point againflt them— Or whether
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809071101:0316/pct:5.26885043263288,2.4324593759346027,17.521631644004945,81.93599840494467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809071101:0316/pct:5.279151215492377,2.4324593759346027,17.521631644004945,81.93599840494467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1326,7 +1326,7 @@ should never have revcaled or explained
 them if he, and his partizaas had not com­  
 pelled me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809071101:0316/pct:23.748454882571075,2.572026717176752,33.85352286773795,92.37364171069684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809071101:0316/pct:23.748454882571075,2.575349749111089,33.8689740420272,92.37364171069684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1522,7 +1522,7 @@ hcads of departments, whom My, Washing«
 ton had gppeinted. and 1 bac no thoughts of  
 removing, Indecd licht.d then mm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809071201:0060/pct:46.047495120364346,5.688327078807031,50.06506180871828,93.39324511159391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809071201:0060/pct:46.05291693775754,5.691618934755415,50.07590544350466,93.39324511159391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1601,7 @@ for he alone disgovered and furnished the evi- -
 Tulleyrasd ; and he alone brought bowe the  
 ma. formal and official assurances upa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809071201:0060/pct:73.81262199089134,47.72861939561525,22.7878985035784,45.83251036934624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809071201:0060/pct:73.82346562567773,47.72861939561525,22.79874213836478,45.83251036934624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1732,7 +1732,7 @@ It recommended an - invigorstion of the
 Treasury, Ly seizing on.all the taxable arti­  
 cles not yel taxed by the government.—And
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809071201:0061/pct:3.393843725335438,3.4110958635561657,22.525651144435674,79.82748480690061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809071201:0061/pct:3.4043672717705866,3.4110958635561657,22.525651144435674,79.83728680650853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1837,7 +1837,7 @@ have revealed or explained them il he, and:
 his partizans, had not compelled me. b A  
 | JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809071201:0061/pct:26.945540647198104,4.724563811017448,21.894238358326756,62.2917075083317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809071201:0061/pct:26.945540647198104,4.724563811017448,21.904761904761905,62.30150950793962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1858,7 +1858,7 @@ which 1 doubted whether he had a right to aban­
 don, or I a right to invite him to relinquish, tlio*  
 but for a time.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810011801:0323/pct:26.714932126696834,43.123712589361446,17.14027149321267,3.489640130861505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810011801:0323/pct:26.710097719869708,43.118488005815365,17.14320183375558,3.4932557951700187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1885,7 +1885,7 @@ I Mr. Adams, when president of ine U. States, at
 a time when the greatest difficulties existed be­  
 tween the United States and France, would o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810011801:0323/pct:26.425339366515836,46.72240397431237,17.447963800904976,6.712710529504423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810011801:0323/pct:26.420557365182773,46.71674339714078,17.45083846061045,6.715935707939585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1913,7 +1913,7 @@ of hostility to England—of hatred to commerce
 alions With the belligerent powers—arc with­  
 out foundation.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810011801:0323/pct:26.642533936651585,64.59469283896765,17.176470588235293,7.088331515812432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810011801:0323/pct:26.637712631197974,64.58686697358856,17.179394378091448,7.0915111864954365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1951,7 +1951,7 @@ ed he would discover some érror or
 carry some point 2gainft them.” .  
 Such is the testimony of the lat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810032701:0474/pct:7.4131036604121805,19.7191759762222,15.995078437403876,16.675207543302246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810032701:0474/pct:7.4131036604121805,19.72259232687643,16.00533169281247,16.675207543302246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1977,7 +1977,7 @@ official aflurances upon which t he sub­
 sequent commiifion proceeded &amp; peace  
 was made.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810032701:0474/pct:24.192556136573362,47.658091626524545,16.456474930790527,8.322230193707082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810032701:0474/pct:24.19768276427766,47.66150797717878,16.46672818619912,8.329062895015545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1998,7 +1998,7 @@ nation, and whof€ experience, genius, learn­
 ing and travel, had emincntly qualified  
 them to give advice.” i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810080701:0550/pct:4.981024667931689,4.848484848484849,16.840607210626185,4.003974167908594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810080701:0550/pct:4.981024667931689,4.8517966550753435,16.86169091292431,4.003974167908594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2025,7 +2025,7 @@ Eugland—of batred to commerce—of partiality
 and duplicity in his late negociations with  
 telligerent powers—are wittout foundation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810080701:0550/pct:5.075901328273245,36.17486338797814,16.729917773561038,7.382016890213611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810080701:0550/pct:5.081172253847775,36.17486338797814,16.729917773561038,7.385328696804106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2045,7 +2045,7 @@ Jrom the President, they passed a bill to raise
 an army, not a large one, indeed, bur envugh  
 to overturn the then federal government,”” I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811040301:0386/pct:4.26418723949984,37.03339882121807,21.52933632574543,3.398821218074656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811040301:0386/pct:4.26418723949984,37.03339882121807,21.534679918777385,3.4053700065487886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

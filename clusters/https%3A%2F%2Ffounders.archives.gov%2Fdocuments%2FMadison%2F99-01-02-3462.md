@@ -97,7 +97,7 @@ experiment insi either fbrmss and of official
 character, would certainly- bc uscless and  
 probably injurious.&quot; s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111401:0560/pct:31.653076352853965,11.191756272401435,22.86137879911045,8.906810035842295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111401:0560/pct:31.64838422769048,11.190753516709972,22.862931119675856,8.9089985963026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ made at the present moment in either form j
 mud of official character, would certainly b«  
 Oft-lest and probably injurious.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808111501:0374/pct:4.00604686318972,86.20950460103366,17.98941798941799,5.899407538131855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808111501:0374/pct:4.005290005667863,86.19863876985127,17.992316896530006,5.902865305436518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ ment made at the present moment tu either form
 and of official cl.arac t-r, would certainly be useless  
 and prohat.iy injurious.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:53.81669645136584,61.70422766902451,21.062037273423538,7.287382793222569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112101:0219/pct:53.80296069423175,61.69407894736842,21.063042368555386,7.290296052631579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ experiment made at the present moment in ci­
 ther form, and of oiheial character, would cer­  
 tainly lie useless and probably injurious.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:77.16126722749239,31.268619662363456,16.82477179165921,5.83416087388282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112501:0237/pct:77.14745884037222,31.26473873650242,16.827726079694585,5.837573952256837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ ment, in either fcrtit, and of oB­
 cUi character,,would certainly be.  
 useless, and probably injurious.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808112501:1069/pct:39.940508382909684,84.95879120879121,16.92806922660898,9.735576923076923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808112501:1069/pct:39.92971073263044,84.94420600858369,16.930251419302515,9.738197424892704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ ment ia either form and of official
 i.liarac er, itou I certain.y be useless  
 md prebably injurious.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0389/pct:58.97877223178428,32.889396245560626,17.8045515394913,8.384069000507356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112901:0389/pct:58.96749521988528,32.8852251109702,17.807520713830467,8.38723314309871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ ny new experiment, made at the present
 moment, in official character, would certain­  
 ly be useless, and probably injurious.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809110801:0492/pct:30.62125512456638,49.34862385321101,23.273415326395458,3.2752293577981653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809110801:0492/pct:30.616427557937886,49.34409687184662,23.275001313784223,3.277986729046265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ the prefent moment, in official char­
 acter, would certainly be ufdefs and  
 probably injurious
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809111301:0708/pct:77.62516614975631,31.768030139935416,17.235268054940185,4.103875134553283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809111301:0708/pct:77.60797342192691,31.76375622225212,17.236987818383167,4.106686398493206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ moment, in either form&quot; and of osicial cha­
 racter, would certainly be ueeleee aadctpro­  
 bably injurioue.&quot; &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810061801:0593/pct:52.97061672586374,81.92400192400193,21.23022279625444,7.2727272727272725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810061801:0593/pct:52.96206618240517,81.91612158522508,21.232176486413774,7.275234064383738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

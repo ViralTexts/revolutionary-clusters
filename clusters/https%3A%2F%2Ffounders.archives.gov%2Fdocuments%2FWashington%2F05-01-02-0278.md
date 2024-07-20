@@ -157,7 +157,7 @@ reference to justice and the public good.&quot;
 In the answer of the Senate to General Wa­  
 chington&#x27;s first address to Congress, they say
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1847071701:0474/pct:30.374174614820248,121.89866045428072,57.37344093910492,44.6709376820035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1847071701:0474/pct:7.594936708860759,30.47466511357018,14.345991561181435,11.167734420500874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ enable me, in balancing the various pretensions of differ­
 ent candidates for appointments. To AcT With A sole  
 reFereNCE TO DuSTICE ANd PUrLie GOOD.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1847071901:1225/pct:266.7185675360062,228.31541218637992,60.8991825613079,27.852449223416965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1847071901:1225/pct:66.66666666666667,57.07032999850679,15.221833041447752,6.962072569807376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ enaolc nie. ;.i .&gt;a;ancing tno various pretensions of
 dbicrent candidates for appointments, lu act with a  
 sole reference to justice and the public good.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1847072201:0301/pct:78.09565727699531,47.12773147105204,14.583333333333334,7.118720432529849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1847072201:0301/pct:78.084201261552,47.122423696362205,14.586083810082636,7.1216728610579265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ pre-supposes me, thavc deltrmined to go into it
 perfectlyfree from all engagements of every nature  
 whatsoever. A Coriducl In conformity to lhis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1847080701:0295/pct:102.95801526717557,37.3534338358459,21.135496183206108,5.877874219582762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1847080701:0295/pct:77.25536992840095,28.018882290239073,15.871121718377088,4.4160194913963755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ ihe various pretensions of different candidates,
 for appointments, to act with a sole . reference to  
 justice ana toe public good. ..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1847082101:0352/pct:87.38938053097345,37.278570308825834,19.569589702333065,8.88854052359304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1847082101:0352/pct:65.56024944679139,27.966765950775983,14.685174009253672,6.6624862831164755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ reference to justice and the public goed.&quot;
   
 When Gen Taylor was written to on the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1847100201:0518/pct:270.57122198120027,239.55884487012045,56.399132321041215,29.197503990712523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1847100201:0518/pct:67.67950804847169,59.88971121753011,14.107433532284318,7.299375997678131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ nature wchutsoever. A conduct in conformity to for forty vears and has grown gra
 this resolution would enable me, in balancing in   i eni on o e­  
 a toncians of amlidat wis commended the Goverment to obtain sloopnound
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1848071401:0675/pct:267.21680420105025,242.0698728256103,98.04951237809452,15.143984797544219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1848071401:0675/pct:66.84180896978795,60.517468206402576,24.526177519234377,3.7859961993860547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ the station to which your letter pre-supposes me, (the Presi­
 dency,) I have determined to go into it perfectly free from all  
 engagementa of every nature whatsoever.&quot;?Vnatkngton t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102101:0365/pct:32.74501363179796,92.12651413189771,15.482852633089395,3.073126962763571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848102101:0365/pct:32.749796718802315,92.12651413189771,15.478069546085043,3.0806041573201735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -643,7 +643,7 @@ free from all engagements of every nature !
 whatsoever.”—tVushinnlon lo Isfiyelle  
 ‘•lf elected to the Presidential office il
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848102101:0264/pct:63.67008509709797,44.3171114599686,18.80864062840934,6.185243328100471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848102101:0264/pct:49.34332901189335,34.35396220293617,14.59331492024125,4.789520642387866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ free from all engagements of every nature
 whatsoever. Washington to Lafayette.  
 &quot;If elected to the Presidential office i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1848102601:0017/pct:44.9528672427337,61.70347003154574,18.87274155538099,7.413249211356467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292455:1848102601:0017/pct:33.73943800353704,46.277602523659304,14.167812929848694,5.5678233438485805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ pre-supposes me, (the Presidency,) I have de­
 termined to go into it perfectly free from all  
 engagements of every nature whatsoever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848103101:0612/pct:278.39272175890824,91.2280701754386,51.55420773313116,12.38390092879257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848103101:0612/pct:69.63777735634363,22.80701754385965,12.895884695619191,3.0959752321981426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

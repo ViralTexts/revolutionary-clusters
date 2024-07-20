@@ -157,7 +157,7 @@ Yawful Invasions, Attacks, and Depredations, from Cutters and
 Ships of War,’  
 That it be recommended to the Makers of Arms for the Ufl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775081501:0474/pct:6.629237745627294,54.872149274360744,26.970416756640034,6.7726330338631655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775081501:0474/pct:6.629237745627294,54.872149274360744,26.970416756640034,6.791061967288643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1566,7 +1566,7 @@ appear’and - thew cause (if any they have,)
 &quot; why the fame ship, her cargo and appurte­  
 nances should not ke cordemned and distri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776072701:0039/pct:35.35497681056012,90.13630997102071,29.504102747056724,4.91574541161318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776072701:0039/pct:35.366868831014386,90.13988766054882,29.498156736829586,4.919323101141283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1585,7 +1585,7 @@ appear and shew cause (if any they have,)
 why the fame ship, her cargo and appurte­  
 nances thould not Le cordemned and diftri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776080301:0041/pct:67.02089975203684,70.0755939524838,28.338646829613886,4.557235421166307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776080301:0041/pct:67.026803636793,70.08279337652988,28.338646829613886,4.557235421166307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1607,7 +1607,7 @@ buted as the law direéts.
 At the court aforefaid, will be tried the  
 justice of the capture or seizure of a certai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776081001:0048/pct:66.61420076949983,50.09033903709214,28.593913955928645,7.322776065469232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776081001:0048/pct:66.62003031362947,50.09388174442909,28.588084411799,7.329861480143125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1706,7 +1706,7 @@ and depredations_ from cutter: or thips of war ;”’
 tants of the united colonies, to fit out armed  
 veflels, to cruize on the enemies thereof ; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:47.17730079388415,73.30521241337752,19.450161717142016,8.687355629205584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:47.18220131333921,73.30856014194369,19.450161717142016,8.697398814904087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1750,7 +1750,7 @@ as by this aft is hereafter ordered and direéted,
 And 1n pursuance of a relolve of the American  
 Congress ; be it further enated, that ail ship
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:47.17730079388415,14.42201466305112,39.63540135254337,79.7228080747213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:47.18220131333921,14.425362391617288,39.63540135254337,79.72950353185364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1789,7 +1789,7 @@ which is to the treasurer and receiver general
 of the colony, conditioned to comply with this  
 att, and to observe and fulfil such inftrution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:67.55366068803293,35.36205684443105,19.25904145839459,16.782163302199457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:67.558561207488,35.36540457299722,19.25904145839459,16.77881557363329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1826,7 +1826,7 @@ be granted from the court aforefaid ; be it
 further enafled, that from all judgments or de­  
 crees, hereafter to be given in the said cour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:67.55366068803293,52.19443607512303,19.185533666568656,15.446419604298484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:67.558561207488,52.19443607512303,19.19043418602372,15.449767332864651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1998,7 +1998,7 @@ other goods of such persons as shall, in
 \bmtilo manner, invade or attempt the  
 defeating of the said Plantation, or th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833120401:0595/pct:64.56221963781358,41.13303474155671,15.15201860774215,4.527296937416778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1833120401:0595/pct:64.57329567480755,41.13706976556511,15.146480589245169,4.5394020094419565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2453,7 +2453,7 @@ pulse, resist and pursue by force of arms, as well
 by sea as by land, within and without the limits  
 of the State,&quot; ete. &quot;Provided, that the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036830:1898051501:0302/pct:247.42183663447372,223.320916582007,47.70011458503847,9.583474432780223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036830:1898051501:0302/pct:82.47394554482457,74.44030552733567,15.900038195012822,3.1944914775934077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

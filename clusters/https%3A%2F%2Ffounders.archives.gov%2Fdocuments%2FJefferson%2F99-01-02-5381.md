@@ -61,7 +61,7 @@ having added nothing to my private fortune
 during my public service, and of retiring with  
 hands as clean as they are empty.&quot; A year later
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875051701:0708/pct:186.80089485458612,57.338086749851456,49.739000745712154,15.092097445038622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875051701:0708/pct:46.72635702294348,14.334521687462864,12.441708636448423,3.7730243612596555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -88,7 +88,7 @@ retiring with hands as clean as they
   
 are empty.&quot; A year later, in March
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1875052601:0814/pct:165.81632653061226,47.62394921942014,66.0204081632653,24.223709041001886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1875052601:0814/pct:41.464659351875476,11.905987304855035,16.509313600408266,6.0559272602504715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -107,7 +107,7 @@ private fortune during my public
 service, and of retiring with hands  
 as clean as they are empty. Where&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1875052601:0436/pct:19.58997722095672,342.1420102753261,48.747152619589976,13.278882887630088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296114:1875052601:0436/pct:4.9002849002849,85.53550256883152,12.193732193732194,3.319720721907522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ added nothing to my private fortune
 during my public service, and of retir.­  
 ing with hands as clean as they ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1875052801:0699/pct:332.1516900247321,62.135299775569095,42.78647980214345,18.852196216736132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1875052801:0699/pct:83.08929676221902,15.533824943892274,10.70323778098577,4.713049054184033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ nothing to my private fortune during
 my public service, and retiring with  
 hands as clean us they are empty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551232:1875053001:0538/pct:66.70998886000743,46.71654197838736,16.097289268473823,4.322527015793849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551232:1875053001:0538/pct:66.72236662953335,46.71654197838736,16.103478153236786,4.327145100212432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ nothing to my private fortune during
 iny public service, and retiring  
 hands as clean as they are empty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1875060301:0093/pct:128.50202429149797,342.9225050042894,50.040485829959515,20.932227623677438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1875060301:0093/pct:32.13851761846902,85.73062625107235,12.515188335358445,5.2330569059193595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ daring my public service and of reti­
 ring with hands as clean as they are  
 empty.” Where’s Grant 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1875060401:0306/pct:8.657706406004538,49.143813570233036,15.116076104032118,4.789494013132484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1875060401:0306/pct:6.709654146187492,38.08953635335595,11.719348874960545,3.708507949178474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ ing to my private fortune during, mv
 publio service, and. of &#x27;retiring with  
 hands as clean as they are empty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763815:1875061101:0324/pct:111.95589088798607,69.33019976498237,14.422518862449216,3.008225616921269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763815:1875061101:0324/pct:83.99129172714079,51.99764982373678,10.827285921625544,2.2679200940070507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ too, iif bavii.g adder! nothing to my private
 fortune during niv public service, and of reti­  
 ring with hands as clean as they are empty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:004141867018:1875061201:0095/pct:18.524970963995354,82.16443677168753,12.267711962833914,3.6037980146741475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:004141867018:1875061201:0095/pct:18.522281898679054,82.15557233790052,12.270769826293124,3.6070054302873378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ having added nothing to mg prinate fortune dur-
 ing an public sercice, and of retiring with hdnds  
 as eledn as thee are empty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875062201:0846/pct:74.2081447963801,160.6002648227159,50.075414781297134,29.130498749448286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875062201:0846/pct:18.552036199095024,40.150066205678975,12.518853695324283,7.2826246873620715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ and of retiring witi hands as &#x27;jelean as they are
   
 empty.-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295879877:1875062601:0255/pct:8.174300254452927,53.36440779251823,15.87150127226463,4.50579658180949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295879877:1875062601:0255/pct:6.140629971364938,40.026293773156446,11.915367483296214,3.3823353651248955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ rewards and honofs such as had never been
 accorded to any other President. He was  
 raised from poverty to wealth, and vote
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416157108:1875063001:0744/pct:144.954128440367,194.04696886947025,60.46705587989992,58.05570726379028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416157108:1875063001:0744/pct:36.246089676746614,48.51174221736756,15.119916579770594,14.51392681594757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ and of retiring with hands as clean
 they are empty.?&#x27; v V ,&#x27;  
 Comment is. unnecessary. , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1875071501:0243/pct:23.86858137510879,96.7129387113672,18.14621409921671,8.158721843897329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1875071501:0243/pct:17.918571739603745,72.53797799895233,13.629436098410626,6.1157674174960714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

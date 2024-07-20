@@ -363,7 +363,7 @@ and three-fourths at least of the mariners are
 hngl.fl!, under the penalty of the forfeiture of  
 all inch goods and commodities, and of the fhi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792042501:0002/pct:9.002274943126421,80.16843793864047,27.949301267468314,8.161219169841589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792042501:0002/pct:9.018524536886577,80.16843793864047,27.981800454988626,8.171245237617807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ any court of record, by bill, information, plaint
 01 othei action, wherein no eflbine, protection  
 or wager of law shall be allowed. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792042501:0002/pct:8.80727981800455,89.77341086825747,27.88430289242769,4.732303990374975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792042501:0002/pct:8.831654208644784,89.78343693603368,27.900552486187845,4.737317024263084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ which are not prohibitcd by law, to be im­
 ported from forcign countries, and to enter  
 and land such goods, wares, and merchan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805083101:0465/pct:23.645320197044335,19.781152721441373,22.64367816091954,6.952174323177059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805083101:0465/pct:23.64143818748974,19.779286926994907,22.645433152739013,6.9546626422687545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1029,7 +1029,7 @@ or persons domiciled in that Republic by act of the
 government as lawful citizens of the Texan repub­  
 lic, to be certified according to the laws of tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841051401:0432/pct:94.40946091230225,57.37092391304348,37.981876823836586,21.47871376811594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841051401:0432/pct:31.464987714987714,19.121476282123854,12.658681408681408,7.158760707951243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1081,7 +1081,7 @@ fied according to the laws of that country, shall bee
 considered as Texian vessels. This is an abroga  
 tion for the term of eight years of the British nav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843052201:0580/pct:196.0190820858694,243.88800364215797,51.60388221746998,10.892328704757569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743178:1843052201:0580/pct:65.33969402862313,81.29600121405267,17.201294072489993,3.6307762349191894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ of its dependencies, except in English
 ships, under the penalty of forfeiture of  
 the goods and ships; nor from any part of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849072001:0148/pct:44.01205809810907,34.63502872951692,16.223622910386407,12.194083847627155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849072001:0148/pct:44.02119302091897,34.638575583457474,16.219055448981457,12.201177555508265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1244,7 +1244,7 @@ law shall be allowed. It also provides that
 every parish clerk within this province shall  
 procure a copy of the act, and that the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:0028065453A:1880073001:0481/pct:43.92351274787536,43.999581852393895,14.23512747875354,3.5124398912816224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:0028065453A:1880073001:0481/pct:43.934135977337114,44.007422120008364,14.228045325779037,3.52028015889609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

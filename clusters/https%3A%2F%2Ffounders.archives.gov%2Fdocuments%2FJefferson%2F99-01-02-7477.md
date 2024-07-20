@@ -167,7 +167,7 @@ j officers above the rank of Brigadier
 i Generals ;—of that grade it may be  
 j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808022901:0003/pct:57.725766362883185,33.7163750326456,17.584921292460646,29.65526247061896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808022901:0003/pct:57.73267053300194,33.72508052581179,17.584921292460646,29.65526247061896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ force into separate departmcnxs, and to have :
 sscommandersito each dopmsitment, of ccmrsc, to --  
 have no such officer as a_commandcr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808022901:0341/pct:46.841946207313384,3.9250669045495092,24.19159867029314,88.3942908117752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1808022901:0341/pct:46.83486931560659,3.9247167960039246,24.19297980561011,88.3893794784884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ respect,
 I am, sir, your humble-serv’t,  
 H. DEARBORN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030401:0399/pct:58.35429392741646,8.911373887602096,17.62486525332375,22.772156528099476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030401:0399/pct:58.343811747799535,8.910287664553875,17.627686964852405,22.773443848529173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ have four or five, as soon as a suitable
 proportion of the troops is raised; - —  
 With sentiments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808030401:0920/pct:51.39040348964013,30.387220003472827,20.583424209378407,30.647681889216877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808030401:0920/pct:51.37639683837558,30.381944444444443,20.584627964022893,30.64670138888889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ With sentiments of the highest respect,
 I am, Sir, your humble servant,  
 H. UEAllBOR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808030701:1019/pct:73.79115226337449,35.16129032258065,21.83641975308642,23.532258064516128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808030701:1019/pct:73.77217793777321,35.15562006128044,21.837233221907944,23.532494758909852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ soon as a suitable proportion of the
 troops is raised. |  
 With sentiments, &amp;c. &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808030801:0039/pct:6.706660513767113,38.39527196233597,16.366712813413322,33.02614444555745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808030801:0039/pct:6.711787930062042,38.39527196233597,16.37696764600318,33.03282246485692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ With sentiments of the highest respect*
 i am, Sir, Your humble servant,  
 H. DEA.KBOHN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808030801:0085/pct:58.89628924833492,3.6441857522459826,37.73549000951475,91.26913830191067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808030801:0085/pct:58.88508371385084,3.6437246963562755,37.73465246067986,91.26180836707152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -783,7 +783,7 @@ grade it may be prope* to have four or
 five as soon as a suitable proportion of  
 the troops is raised With sentiments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808031401:0361/pct:41.935483870967744,35.75356415478615,17.282299849573793,29.531568228105908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808031401:0361/pct:41.92847593582888,35.74992363303126,17.283589572192515,29.53110681193361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -925,7 +925,7 @@ visable to have any&#x27; officer above the
 rank of brigadier general ;—of that  
 grade it may be proper to have four or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808031701:0343/pct:65.71507760532151,36.12565445026178,30.12749445676275,56.75868633983817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808031701:0343/pct:65.6968689387642,36.11705924339757,30.12838274683661,56.75311285589658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -943,7 +943,7 @@ With sentiments of the highest respect,
 I am, sir, your humble servant,  
 II. Dear BORN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808031701:0344/pct:7.20350588879759,9.086661994861014,27.47192549986305,6.447091800981079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808031701:0344/pct:7.2015334063526835,9.084539934609996,27.473530485578678,6.453370699050288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ is now Commander in Chief; and that loo of
 an army destined to act against the same enem  
 my then spoken of! Four years ago we talk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812051901:0457/pct:25.37792029317453,56.25684056913535,22.888990685600856,8.299890550893835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812051901:0457/pct:25.374045801526716,56.25170998632011,22.890585241730278,8.302173582611339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -760,7 +760,7 @@ nature; that he was created a little lower than th
 will not let it go; my heart shall not re­  
 proach me so long as I long as I live.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1886102801:0324/pct:22.5434391851408,12.069801260300533,14.110245656081485,1.6238487639360155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1886102801:0324/pct:16.913857677902623,9.0523509452254,10.591760299625468,1.2239457101308773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ and will not let it go ; my heart shall not
 reproach me so long as I live.” 27:5, 6.  
 0 troubled heart, thou needst not b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889112801:0192/pct:72.80431432973806,27.375405901454187,10.99768875192604,4.517859663984187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889112801:0192/pct:72.79029462738302,27.371541501976285,11.000385133834007,4.520750988142293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ My heart shall not reproach me as long as I live’ (xxvii. 6)—
 
 ---
 
-## [From _The Living Age (1897-1941)_](https://archive.org/details/sim_living-age_1897-09-11_214_2775/page/n8/mode/1up?view=theater)
+## [From _The Living age_](https://archive.org/details/sim_living-age_1897-09-11_214_2775/page/n8/mode/1up?view=theater)
 
 #### 1897-09-11 &middot; [Boston](http://dbpedia.org/resource/Boston)
 

@@ -56,7 +56,7 @@ V. When the council is fitting, no member
 fiiall (peak to another, fo as to interrupt any  
 member who may be /peaking in the debate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805030801:0375/pct:24.96933590327668,37.541569158763394,16.558612230594008,10.641704643428994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805030801:0375/pct:24.964961457603362,37.53694581280788,16.561551039476758,10.644499178981938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ United States, section 20
   
 The above refers to some proceedings had at the late
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1841072701:0334/pct:252.84191829484902,167.00499924253901,75.13321492007105,35.752158763823665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1841072701:0334/pct:63.25261053099311,41.751249810634754,18.79582315041102,8.938039690955916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ The amendment is intended to remedy this provision of
 the general parliamentary law, that whenever a question  
 is rained by the motion of any member, it is in |H&gt;?sessio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851010101:0007/pct:63.893921923900514,33.64678603632616,15.714050403557899,7.896431791833054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851010101:0007/pct:63.893921923900514,33.64678603632616,15.725031570855982,7.900725664476791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ name &gt;ball be debated ; and any motion may be withdrawn
 by the mover at any tune before *? decision, aineiidineut,  
 or ordering of the yean and nays, eloept a motion t &gt; recoi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012101:0087/pct:32.425823280078255,14.112388250319285,15.520052168242582,2.554278416347382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851012101:0087/pct:32.425823280078255,14.12090251170711,15.530920552113901,2.554278416347382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ motion may be withdrawn by the mover at any rl
 time before a decision, amcndia&lt; nt, or ordering of ^  
 the yeas and nays, except a motion to reconsider, 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851012201:0107/pct:5.988445822178385,33.69118318867063,14.160913061857123,4.396984924623116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851012201:0107/pct:5.988445822178385,33.69879701537993,14.16560988210981,4.393178011268463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ cerfain; sixth to commit, and seventh, to amend;
 which several motions shall have precedence in the  
 order in which they are arranged. Motions to adjour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743919:1875122301:1066/pct:100.18296739853626,11.297552005516607,92.68130405854957,116.12458338122055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743919:1875122301:1066/pct:33.39432246617876,3.7658506685055357,30.89376801951652,38.70819446040685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ nostpone indefinitely, to postpone to
 certain day, to commit or to amend,  
 which several motions shall nave prece
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1876021801:0242/pct:194.3737441393168,145.2991452991453,43.26858673811119,47.66214177978884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1876021801:0242/pct:48.60971524288107,36.324786324786324,10.820770519262982,11.91553544494721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ withdrawn at any time before amendment. . &quot;
 petitions), and tha same is objected to by any mem­  
 ber, it shall be determined by a vote of the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037901:1880011401:0066/pct:38.65108197757068,74.18190287644113,10.614436897804454,5.985792477000117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037901:1880011401:0066/pct:38.65503080082136,74.19063700943286,10.614436897804454,5.985792477000117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ ber speaking, nor shall any member go
 across the House nor from one part  
 thereof to another while another i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1897021001:0998/pct:104.69187675070027,35.58013892462053,15.388655462184873,13.094931824028814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1897021001:0998/pct:78.56016815554388,26.691535888860304,11.560693641618498,9.814767172626704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

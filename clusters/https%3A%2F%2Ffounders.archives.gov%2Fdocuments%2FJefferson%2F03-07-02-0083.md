@@ -527,7 +527,7 @@ characters, present and future, and their
 notes with them? For these are to ruin  
 both Republio and individuals.&quot;—Lette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn86076200:00279554103:1892092401:0160/pct:32.53138075313807,57.28141285466126,12.552301255230125,15.938042848870875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_quartz_ver01:data:sn86076200:00279554103:1892092401:0160/pct:32.52457644844175,57.27312201476335,12.554904831625183,15.939354465190332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ them? For these are to ruin both the
 republic and individuals.  
 While the Democrats at West Point
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074064:00383343604:1892111701:0800/pct:58.194945848375454,78.52427184466019,12.92418772563177,8.711974110032363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074064:00383343604:1892111701:0800/pct:58.184443241292186,78.51410820605747,12.926367081754195,8.714082319440848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ ut tki. &#x27; t
 and the&#x27; .ith tuem? I e  
 oih republic and individu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473807:1893080201:0336/pct:8.861892583120204,119.91865785460091,16.39386189258312,22.918149466192173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473807:1893080201:0336/pct:5.908683974932856,79.94916115912557,10.934902161401714,15.282155566853076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ seeking to filch from the public thus
 swindling on barren gains  
 Was this a wail of a calamity how
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1895021301:0359/pct:62.49092229484386,71.93720213064199,15.79520697167756,6.111578357162882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1895021301:0359/pct:46.88578173234066,53.952901597981494,11.857635736335572,4.594196804037006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ the tribe of bank-mongers, who were
 seeking to filch from the public, thus  
 swindling on barren gains.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1896031801:0506/pct:4.424655628217615,62.2093023255814,12.021705857798803,5.060292850990526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1896031801:0506/pct:4.424655628217615,62.2093023255814,12.03098186540513,5.071059431524548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -735,7 +735,7 @@ In other words they would have
 called him a “crank” if they had  
 domesticated that good old Germa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1896041501:0529/pct:6.720467510783359,86.07881136950904,12.063447892027272,6.2338501291989665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1896041501:0529/pct:6.725105514586522,86.08240022968705,12.072723899633598,6.241027849554981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ to beat back this destroyer of liberty
 of today, the bank of issue. I hope  
 the senate will allow any tariff meas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1896120901:0130/pct:5.803878421125018,43.989159891598916,11.607756842250035,9.116531165311653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1896120901:0130/pct:5.803878421125018,43.99277326106594,11.612341264383625,9.116531165311653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -856,7 +856,7 @@ and barren gains. The evils they have en­
 gendered are now upon us and the ques­  
 tion is how we are to get out of them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898042801:0783/pct:74.7584541062802,13.092082516998962,16.19867149758454,8.182551573124352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898042801:0783/pct:56.077306356635965,9.819061887749221,12.15461271327193,6.142676040106028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ mongers , who AArere seeking to filch
 from the public their swindling and  
 barren gains. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn95069779:00206538983:1898111701:0017/pct:52.09205020920502,54.10178702058732,18.051404662283325,2.967917232730693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn95069779:00206538983:1898111701:0017/pct:39.08234942460021,40.57895286863831,13.540576894335675,2.223325321350193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ public their swindling and barren
 gains.&quot;  
 What would Jefferson have said o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_ellis_ver01:data:sn86063952:00237280866:1899052001:0868/pct:72.99771167048056,161.71366594360086,50.87719298245614,24.837310195227765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_ellis_ver01:data:sn86063952:00237280866:1899052001:0868/pct:18.25290864009155,40.428416485900215,12.721724203700171,6.209327548806941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -992,7 +992,7 @@ who wero seeking to .filch from the
 public their swindling and borred gains  
 What would Jefferson have said o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_franck_ver01:data:sn84024716:00175032629:1899052401:0295/pct:3.361603700848111,35.84474885844749,13.801079414032383,8.284409654272668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_franck_ver01:data:sn84024716:00175032629:1899052401:0295/pct:3.3667437676689795,35.85199681090092,13.801079414032383,8.288033630499385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1046,7 +1046,7 @@ told Andrew lackson that this bank con­
 trolled the business men of the country,  
 and could and would regulate the nomi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:0020029032A:1899062201:0827/pct:31.320064058567834,30.551393467186095,15.00800732097918,6.877434821696134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_green_ver01:data:sn87093220:0020029032A:1899062201:0827/pct:31.320064058567834,30.562631105783638,15.025165865934568,6.869943062631106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

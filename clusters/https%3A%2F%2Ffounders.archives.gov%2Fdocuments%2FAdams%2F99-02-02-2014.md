@@ -37,7 +37,7 @@ United States privateering against nations
 in amity with or against Citizens of. the  
 United States, hat been brought forwar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060301:0003/pct:22.54335260115607,59.056853239312474,15.76878612716763,5.362127221977376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060301:0003/pct:22.55491329479769,59.064198619068605,15.757225433526012,5.362127221977376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -55,7 +55,7 @@ the exportation of arms and ammunition,
 and encouraging the importation thereof;  
 and a bill to prevent citizens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060601:0003/pct:39.76553341148886,59.31777909037212,15.920281359906213,2.3331364441819256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797060601:0003/pct:39.76553341148886,59.31777909037212,15.955451348182883,2.355286473715298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ and n 1 nety-feveil.
 An Act prohibiting, for a limited time, the Ex?  
 portation of Arms and Ammunition, and fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061601:0002/pct:5.668711656441718,1.5717722534081797,35.263803680981596,95.01202886928628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061601:0002/pct:5.680981595092025,1.5717722534081797,35.2760736196319,95.02004811547714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ or against the citizens of the United States.
 BE it enafted by the Senate and House  
 of Representatives of the United States o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061601:0002/pct:23.680981595092025,74.57898957497996,17.25153374233129,10.601443464314354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061601:0002/pct:23.680981595092025,74.57898957497996,17.2760736196319,10.609462710505213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ ted States.
 4. An aft authorizing a detachment fiom  
 the militia of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071201:0002/pct:26.39121089085264,12.974683544303797,16.957248626701695,6.600361663652803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797071201:0002/pct:26.40315261523764,12.974683544303797,16.9811320754717,6.6041289933695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ the militia of the United States
 &quot; encouraging the importation thereof&quot;;  
 by confining the quantities of the said arti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032201:0003/pct:55.6854653828519,59.15366146458584,17.10224667583677,3.751500600240096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032201:0003/pct:55.69692801467217,59.161164465786314,17.11370930765704,3.7590036014405763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ and ammunition, and for encouraging
 the importation thereof ;by confin­  
 ing the quaniiesof the id aricle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041101:0476/pct:24.066002490660026,80.73119568474678,16.500622665006226,3.99560483468185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798041101:0476/pct:24.071191365711915,80.73119568474678,16.500622665006226,3.99560483468185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ States from privateering against nn’ions
 in amity with, or against citizens of the  
 United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:22.922691343743974,46.85075608152531,17.92943898207056,3.918474687705457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:22.91827293754819,46.844596371285824,17.932408121305578,3.9223420106933125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ privateering against nations in amity with,
 or against the citizens of the United States,&quot;  
 and the act passed the third day of March
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866061201:0668/pct:229.9927378358751,188.81526636628678,49.673202614379086,15.955473098330241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774728:1866061201:0668/pct:57.49818445896877,47.203816591571695,12.418300653594772,3.9888682745825603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

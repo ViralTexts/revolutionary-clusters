@@ -3945,7 +3945,7 @@ should depend upon having this pres­
 ence of mind on such an occasion, but  
 learn fairly to swim.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665167:1873061401:0563/pct:62.20800476119625,25.798365122615802,12.081535485790805,45.22070844686648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665167:1873061401:0563/pct:62.21296434062391,25.805631244323344,12.08649506521847,45.22070844686648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4037,7 +4037,7 @@ the clothes, their additional weight when
 immersed is very inconsiderable, the water  
 supporting them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1873061801:0510/pct:333.20373250388803,139.25509486999297,44.32348367029549,148.53127196064654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1873061801:0510/pct:83.33333333333333,34.81377371749824,11.085180863477246,37.132817990161634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

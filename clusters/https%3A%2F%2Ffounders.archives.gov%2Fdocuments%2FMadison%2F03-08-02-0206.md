@@ -670,7 +670,7 @@ to favor the oj-C&#x27;Q tons of our land
 forces on th t l i oikr«  
 A pa t ot the quad^on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814092201:0561/pct:3.648424543946932,7.368028352919231,38.82255389718076,87.37175900018653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814092201:0561/pct:3.647819598739844,7.367341229133638,38.82164372961919,87.36671951257422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -777,7 +777,7 @@ but i n c«:n&lt; iimr-saa iir possible at on
 j.««-1 ; whilst it was known t at these or  
 dt rs would not otherwise ce-se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814092201:0561/pct:24.693200663349916,7.069576571535161,37.114427860696516,87.37175900018653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814092201:0561/pct:24.68910628419831,7.068917280611769,37.113800917481896,87.36671951257422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1055,7 +1055,7 @@ hopes of support from an Omnipotent and kind :
 Providence.  
 YAMPC M AlMCAkT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814092401:0078/pct:5.748904356792988,2.9305828421741977,44.52178396493942,94.9410609037328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814092401:0078/pct:5.747422680412371,2.930103126534621,44.516752577319586,94.92961204779833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1240,7 +1240,7 @@ American, comm mded by ( a; tain M.ic&#x27;b­
 nough. Jt issued in the cloture of the wh ile  
 of the enemy’s siiips. Th • hot pi &lt;iso fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814092401:0155/pct:59.134960516870066,11.448225033779634,35.62455132806892,82.38545633214592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814092401:0155/pct:59.12434954243675,11.446818963399656,35.62414019977271,82.37943175305003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1370,7 +1370,7 @@ iitipairinl world, hmI the best hopes of support from an
 Omnipotent and kind I’rovidence.  
 .FAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814092401:0156/pct:5.2887209929843495,4.080873232448524,18.276668465551356,57.23145621433888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814092401:0156/pct:5.287769784172662,4.080367109016495,18.27937649880096,57.22849228988383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2473,7 +2473,7 @@ ih«-best hopes of support from an Omnipotent
 and kind Providence.  
 JAMEft MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814092501:0255/pct:10.332167832167832,6.727864280734371,51.66083916083916,85.63792702765512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814092501:0255/pct:10.330361824855794,6.727082607180202,51.65763561148983,85.63185004453739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2777,7 +2777,7 @@ tial world, and the best hopes of tupport from
 an omnjipotent_agd kind Providence.  
 : % JAMFg‘MADXSON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814092701:0158/pct:42.13483146067416,4.042864101315149,52.07865168539326,90.75499269361909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814092701:0158/pct:42.13483146067416,4.049358662120474,52.08801498127341,90.74849813281376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3107,7 +3107,7 @@ wishes of thie impartial world, and the best lLopes
 of support from un omnipotent and kind Providence.  
 JAMILS MADISO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814092801:1112/pct:0.9833841980332316,7.023050514958313,71.93964055612072,89.36733692986758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814092801:1112/pct:0.9890358313552616,7.029589668137976,71.93398892279869,89.37387608304725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3147,7 +3147,7 @@ of their victory on Lake Champlain and the
 achievments of their land ferces, yeu it is pre­  
 sumed they will npot pretend to compare i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814092801:1113/pct:73.41492435832059,17.99249901302803,22.947475777664458,16.66008685353336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814092801:1113/pct:73.42625644512437,17.999078826161337,22.941809734262563,16.66008685353336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3478,7 +3478,7 @@ port from an Omnipotent and kind Provi­
 dence.  
 JAME9 MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814092901:0565/pct:24.875857176637503,11.443284222571878,68.92882478127217,85.05220998426549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814092901:0565/pct:24.86997635933806,11.441647597254004,68.91843971631205,85.04362128146452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5138,7 +5138,7 @@ or u: warrn tab e p*fiioo*, with which a oar the
 War can no* be puriued again ft u*  
 lathe event
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814100301:0118/pct:4.9593843522873025,23.77107238985692,18.319794784095766,27.312650517070406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814100301:0118/pct:4.9583244282966445,23.76770538243626,18.32122248343663,27.312322946175637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5365,7 +5365,7 @@ hopes of suppu. i fioin an. ommpo&#x27;.ent and k mi
 P. oviucuce.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814100301:0118/pct:4.7883710987601535,5.085706190678566,37.68704574604532,91.95353449497095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814100301:0118/pct:4.787347723872623,5.084985835694051,37.68433425945715,91.94405099150141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7922,7 +7922,7 @@ where paying their taxes, direct and in­
 direct, with the greatcit promptnefs and  
 alacrity.” And the late fecretary, Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814122601:0166/pct:43.496532885059885,54.25711869185227,17.56671569657491,2.8897659994361433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814122601:0166/pct:43.48739495798319,54.24947145877378,17.56827731092437,2.8928823114869626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7945,7 +7945,7 @@ service the up- ions rn st capable of it. will
 give to that great .esoar e for the public  
 safety, all the .cquisite energy and efficte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814122601:0167/pct:1.6743407283382168,52.36124982165787,17.936375052323147,6.106434584106149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814122601:0167/pct:1.6739903745553464,52.353780313837376,17.937853107344633,6.109129814550642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7965,7 +7965,7 @@ duty call. In offering* their blood,
 give the surest pledge, that no other  
 He will he withheld ” If this be true
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814122601:0167/pct:3.6626203432398494,63.68954201740619,15.885307660108833,3.980596376087887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814122601:0167/pct:3.66185394433982,63.68045649072753,15.887214898514333,3.9835948644793153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8064,7 +8064,7 @@ the best praise of Captain Macdonougb, and his in­
 trepid comrades, is the likeness of his iritimnh to the  
 illustrious victory which imnuiitalized another ofli&lt; «
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815031801:0402/pct:24.058077559272192,35.99850783387217,17.037309318140046,2.909723949266352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815031801:0402/pct:24.053656743844176,35.99403207758299,17.04030380987382,2.913506568859049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8086,7 +8086,7 @@ and liis intrepid comrades, is the lU&#x27;dirts
 °H)is triumph to the illustrious victory  
 which i nmortulized anther cfliccr on an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815031801:0079/pct:41.04078243218306,15.513126491646778,17.401734637386973,4.597412385378721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815031801:0079/pct:41.03321033210332,15.51117809595579,17.404674046740467,4.601021518881353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8128,7 +8128,7 @@ impartial world, and the best hopes of sup.
 pi rt f&#x27;om cti omnipotent and kind Provu  
 Oencc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815031801:0080/pct:5.378745579750605,5.158679984827412,17.86711334450028,16.08294348210899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815031801:0080/pct:5.377744696687756,5.158027812895069,17.86999131621387,16.08512431521281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8156,7 +8156,7 @@ tot olhtrwUe cease hur with a war, which hud lasted
 •rude, a sincere desi-.v u» meet the enemy on the  
 ftround of jnst ice, on r resolution to defend our be love* 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032201:0406/pct:3.734363502575423,54.21884882985452,17.7336276674025,7.033523086654016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032201:0406/pct:3.7336766599227516,54.21199089299267,17.736496842621545,7.036849650054811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8379,7 +8379,7 @@ the p- rtions m ? ? capable &lt;.f it, will give to that great
 resource for the public safety all the requisite enorg)  
 and etliciincv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840061901:0519/pct:81.25187631341939,38.591773727716365,15.640948664064846,1.8225276366895728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840061901:0519/pct:81.25687981587112,38.59509345018756,15.640948664064846,1.8225276366895728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8489,7 +8489,7 @@ of Alexandria, and his predatory warfare on our
 coast, and then follows, by w&amp;y of contrast, the  
 paragraph which the Globe has quoted. In thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840092501:0384/pct:19.440937781785394,55.98717948717949,15.99639314697926,27.371794871794872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840092501:0384/pct:19.440937781785394,55.98717948717949,16.002404568680493,27.384615384615383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8639,7 +8639,7 @@ provisions for the wants of the Treasury might be
 supplied,&quot; as for making further provisios for the  
 return of peace or for the prosecution of the war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841073101:0826/pct:60.649676482239535,81.14434330299089,37.13191601743034,14.997832683138276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841073101:0826/pct:20.213889622392394,27.045183660201538,12.375671155708124,4.998735868819302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8660,7 +8660,7 @@ ents. They will cheerfully and proudly bear every
 irden of the kind which the safety and honor of  
 e Nation demand.&quot; It is not always pleasan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841073101:0826/pct:60.649676482239535,151.85305591677502,37.48844579426911,9.82878196792371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841073101:0826/pct:20.213889622392394,50.61220067179543,12.494498723703899,3.275905659695886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8755,7 +8755,7 @@ arguments for the use of the friends of the administration
 They place us upon the vantage ground. Upon these  
 grounds we are willing to fight the battle, and cop
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846121401:1248/pct:47.99092676604018,18.173902226645104,17.222942320155543,10.797362856076626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846121401:1248/pct:48.00172823503996,18.178048679354813,17.21754158565565,10.797362856076626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8783,7 +8783,7 @@ offering their blood, they gave the surest
 pledge that no other tribute wvill be with­  
 held.&quot; And such are the American peo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1847011201:0090/pct:318.63391252246856,153.29420883623075,58.05871779508688,33.83899900343262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:0021247163A:1847011201:0090/pct:79.67041198501873,38.32355220905769,14.51685393258427,8.459749750858155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8810,7 +8810,7 @@ richly merited all the effusions of gratitude which
 the country has bestowed upon this noble cham­  
 pion of its rights, its safety, and its renown
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848080401:0036/pct:19.803600654664486,78.34963845172267,13.006642919033407,6.153409896497944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848080401:0036/pct:19.801694262610706,78.3440844970582,13.008599666281606,6.155336594125847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8894,7 +8894,7 @@ protracts his hostile efforts, the more ,
 certain and decisive will be his final.  
 discomfiture.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624463:1852102301:0264/pct:84.69456254195569,106.30771638754109,19.31080778697695,14.118015338863671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624463:1852102301:0264/pct:65.65119371061911,82.38719068413391,14.971963697323545,10.949377324923177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8951,7 +8951,7 @@ which immortalized another oflioer, and established
 at a critical moment our command of another lake.&quot;  
 / n immediate consequence ol the success of Perry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857091501:0319/pct:57.881773399014776,55.18423307626392,14.966676325702695,3.8560411311053984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857091501:0319/pct:57.881773399014776,55.19058046907233,14.981164879745002,3.8592148275096005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8980,7 +8980,7 @@ of lYrry was the victory gained l&gt;y Gen.
 Harrison at the river Thames, over the  
 combined British and Indian forces, on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1857092401:0673/pct:43.097497842968075,11.346704871060172,15.099223468507335,10.166189111747851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1857092401:0673/pct:43.10229124724379,11.350525310410697,15.094430064231616,10.170009551098376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9010,7 +9010,7 @@ Cis3 of Perry was tho victory gained In
 Gen. Harrison at the river Tlnmesover th1  
 combined British and Indian f rces. on tl 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1857100101:0196/pct:22.51647834274953,45.86761406133134,16.560734463276837,11.733358264771878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056247:00200294531:1857100101:0196/pct:16.89228958210712,34.405385190725504,12.430841671571512,8.797681376215408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9063,7 +9063,7 @@ poasession of the States of Georgis and the
 Carolinat, with an invading army in Virginia;  
 while, in contrast to the war of 1812, the pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861072501:0674/pct:152.33011354007795,126.1405819662316,49.97458057956278,74.3743264279727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861072501:0674/pct:50.77670451335932,42.046860655410526,16.65819352652093,24.791442142657566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9117,7 +9117,7 @@ Carolina?, with an invading army in Virginia;
 while, in eontrast to the war of 1812, the pecple  
 of the North, and we may say of the Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654176:1861072701:0037/pct:17.12863070539419,49.05619440225645,18.190871369294605,16.999349099587764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654176:1861072701:0037/pct:17.136929460580912,49.05890648730744,18.190871369294605,17.00477326968974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9162,7 +9162,7 @@ The ayrats plea, excused his devilish deeds
 Your President forther says in the same message: &quot;We  
 ng with enthusisam to the seenes wher
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530753:1863092301:0167/pct:151.89627800317515,134.66894698265332,45.7223496207444,14.47593452235524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530753:1863092301:0167/pct:50.632092667725054,44.88964899421777,15.2407832069148,4.8253115074517465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9182,7 +9182,7 @@ disciplinins for the moet prompt and active service the por
 tions most capable of it, will give to that great resource fo  
 the public safety all the requieite enelgy and ene&#x27;ency
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743452:1863092301:0765/pct:101.66953528399311,180.9879518072289,45.50774526678141,6.228915662650603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743452:1863092301:0765/pct:33.88984509466437,60.329317269076306,15.16924842226047,2.076305220883534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

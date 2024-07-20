@@ -88,7 +88,7 @@ to be but rotif, d a little to go to war w;; It
 England, and afiilt France. Let ail who  
 think with me. SPE AK 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793051501:0003/pct:71.88703465982029,11.320376678020438,21.726572528883185,36.10498898016429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793051501:0003/pct:71.90308087291399,11.335403726708075,21.718549422336327,36.10999799639351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ belligerent powers: and, as the letter, which commu
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n16/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n16/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -167,7 +167,7 @@ strong, the oppressed against the oppressor; but
 arc people aware that every dollar paid into the  
 : Hungarian fund will go to assist in having th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1852020601:0228/pct:42.630676949443014,56.14771748492679,12.867752070836904,2.7885443583118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040305:00514151350:1852020601:0228/pct:42.64019803865562,56.154895205282806,12.867752070836904,2.7813666379557853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ terest of the United Stales require that they should, with
 sincerity and good faith, adopt and pursue a con duel  
 friendly and impartial toward* the belligerent powers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021801:0215/pct:68.4581353432738,38.645169353830774,15.910208094379813,1.9997500312460943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855021801:0215/pct:68.4581353432738,38.6493354997292,15.915669889125567,2.0039161771445237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ of alliance between the United States and
 renewed complaint that the stipulations of  
 ! the treaties ot 1&lt;»S had not been obser
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022001:0032/pct:47.52102058567701,18.118988243676522,12.660674591669084,6.013537584609904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215932:1855022001:0032/pct:47.51642829532277,18.117697349672273,12.66267233603917,6.01548399354042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

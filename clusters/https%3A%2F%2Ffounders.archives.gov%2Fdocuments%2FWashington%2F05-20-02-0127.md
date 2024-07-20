@@ -52,7 +52,7 @@ the United States which divides their terri­
 rory from the Spanish colonies of Eaftand  
 Welt Florida, -shall be designated by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796040901:0057/pct:8.841746670795912,45.223880597014926,15.825332920408796,10.656716417910447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796040901:0057/pct:8.852069784246929,45.223880597014926,15.825332920408796,10.669983416252073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ tory from the Spanith colonies of Esffand
 Weft Florida, shall be: designated by a  
 Jine beginning on the nver Milifipps
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796041601:0061/pct:6.477044365435153,44.72396925227114,15.89117328798887,11.180992313067785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796041601:0061/pct:6.477044365435153,44.72729692855479,15.89632606791364,11.177664636784133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ the southern boundary line of the United States, which
 divides their territory from the Spanish colonies of East  
 and West plorids, shall os delghated by a line hegine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847121701:0698/pct:104.12060301507537,190.61823978139589,50.16750418760469,8.186268928612092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742964:1847121701:0698/pct:34.70686767169179,63.539413260465295,16.722501395868232,2.728756309537364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ and West Florida, agreeably to the second and third articles
 the L nited States and his Catholic Majesty.  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848022601:0096/pct:3.416985679852545,37.24052346570397,15.709627109031619,5.573104693140794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848022601:0096/pct:3.421711801124817,37.24052346570397,15.714353230303889,5.580625752105896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

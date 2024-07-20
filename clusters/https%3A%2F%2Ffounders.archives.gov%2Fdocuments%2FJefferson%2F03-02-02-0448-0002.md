@@ -173,7 +173,7 @@ or they have, of whatsoever nature or
 kivi Hie same shall or may be, to the  
 lands aforesaid, which be or they shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032301:0002/pct:59.22663802363051,19.703764098382933,19.054779806659507,9.974181274629705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032301:0002/pct:59.233798782670966,19.70829369932509,19.054779806659507,9.969651673687547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ settlement thereon, until thereunto mi.
 therised by law. And every right, ti- ;  
 tie, or claim, forfeited voder tnft uct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032301:0002/pct:59.22663802363051,34.03995108030983,19.054779806659507,9.987770077456176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032301:0002/pct:59.233798782670966,34.04901028219414,19.054779806659507,9.987770077456176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ claim, of any person to lands in th- ter­
 ritories of ()rU?*M or i,ouisiana, belure  
 the board- of commissioners establishe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032301:0002/pct:60.0859291084855,44.67998369343661,18.195488721804512,4.321239298817774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032301:0002/pct:60.0859291084855,44.68451329437877,18.20264948084497,4.321239298817774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ any boundaries thereon, by marking !
 trees, or otherwise, until thereto du- &lt;  
 •ly authorised by law ; such off nder 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041401:0127/pct:7.525242903410174,79.71366483446248,18.517812916746045,8.51335804678512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041401:0127/pct:7.523809523809524,79.70347648261759,18.520634920634922,8.516530334014996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ possession oi the same, or make or
 attempt to make a settlement there­  
 on, until thereunto authorised by law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041401:0127/pct:26.252619546580302,5.215390515147641,17.660506763192988,12.654991691167071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041401:0127/pct:26.247619047619047,5.214723926380368,17.663492063492065,12.657634628493524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ of Louisiana” shall have made their
 reports an 1 the decision of Congress  
 been had thereon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041401:0127/pct:26.29072204229377,19.92841620861562,17.679558011049725,9.689377476671353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041401:0127/pct:26.285714285714285,19.925869120654397,17.682539682539684,9.692399454669394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ cured to tlie United S-ates, by any
 treaty made with a foreign nation, or  
 by a cession lrom any state to die IJ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041401:0127/pct:26.405029529434177,30.461459798031445,17.527148028195846,4.946951297456219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041401:0127/pct:26.4,30.45756646216769,17.530158730158732,4.9505794137695975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ whose claim shall have been filed with
 the proper commissioners before the  
 first day of Jamnrv next
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041401:0127/pct:44.37035625833492,18.01099322510546,17.565250523909317,11.287229962929823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807041401:0127/pct:44.36190476190476,18.00869120654397,17.56825396825397,11.290047716428084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ veyed, or the-boundaries thereof he
 or they shall have designated, or cause  
 to be designated, by marking trees o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807092901:0575/pct:60.12728719172633,29.224155168966206,16.75417661097852,14.397120575884824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807092901:0575/pct:60.137894457703524,29.224155168966206,16.764783876955715,14.40378590948477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ claim, of any person to lands in the
 territories of Orleans or Leuifiana, be­  
 fore the boards of commissioners el
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807092901:0575/pct:60.28639618138425,55.22895420915817,16.579156722354814,4.629074185162968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807092901:0575/pct:60.28639618138425,55.23228687595814,16.589763988332006,4.629074185162968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ ana, whose claim thall have been filed
 with the proper commiflioners before  
 the firt day of January next
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807092901:0575/pct:77.34287987271281,61.247750449910015,17.311058074781226,8.108378324335133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807092901:0575/pct:77.3481835057014,61.247750449910015,17.316361707769822,8.108378324335133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ hath, or they have, of whatsoever nature or kind
 the same shall or may be, to the land aforesaid,  
 which he or they slndi have taken possession of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112002:0243/pct:2.6490066225165565,38.261195428143154,21.85430463576159,8.825182686902755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112002:0243/pct:2.6484018264840183,38.25402772573998,21.856925418569254,8.82977394779568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ or attempt to make a settlement thcicon, ur &#x27;. l
 thereunto authorised by law. And every right,  
 title, or claim, forfeited under this act, shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112002:0243/pct:2.4891527746060746,47.742177253138465,22.15117606759534,13.565673599400412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112002:0243/pct:2.4885844748858448,47.73323342075684,22.153729071537292,13.569376795304109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ Sec. 2. And be itJurt,htr enacted. That anv per
 at t, had taken possession of, occupied, or a  
 Settlement r.n any lends ceded or .«&lt;t tiled to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112002:0243/pct:2.763187942452615,62.001124227093875,21.922813427723224,11.204796702267192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112002:0243/pct:2.7625570776255706,61.989509179467966,21.925418569254187,11.208942175596354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ ment thereon until thereunto authorized by law.” (It will
 be recollected that Alabama was ceded to the U. Slates !  
 by the Slate ot Georgia.) The difference between th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833100801:0179/pct:64.31632794137978,50.368739680792515,15.083644407576386,3.9405613648871767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833100801:0179/pct:64.30743710257119,50.36319612590799,15.086167173532393,3.943796316677673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ pei soil&#x27;, who shall he, falter take possession of
 the saute, or mike or attempt to make a settle­  
 *»?&#x27;t’hereon until «uihurized bv law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833101801:0348/pct:6.755793226381462,72.55390751589181,18.39572192513369,8.737380032406831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833101801:0348/pct:6.7545891997861345,72.54486540378863,18.398384126418346,8.740445330674643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ ceded to the U. States, by the State #f Georgia, in her act
 ol cession ol April &amp;lih, 1802  
 3d. A treaty was concluded with the Creek Indians
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833102501:0200/pct:36.57127132636214,44.655817022212446,14.914694551458448,5.762040906091928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833102501:0200/pct:36.566240198101525,44.65090709180868,14.917228412894943,5.765072384093824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -878,7 +878,7 @@ Indian nation or tribe of Indians, shall be of any |
 validity in law or equity, unless the same be  
 ‘made by treaty or convention entered intn pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834101401:0477/pct:19.504326147528964,16.206933562305462,14.81155594661974,4.883546205860255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834101401:0477/pct:19.51410275211419,16.210511251833566,14.806667644327126,4.883546205860255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ hereafter take possession of the same, or make, or at­
 tempt to mako, a settlement thereon, until thereunto  
 authorized by law. And every right, title, or claim, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838071801:0533/pct:2.317825579456395,42.08933543154582,16.14140403535101,13.291369083646048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838071801:0533/pct:2.323383914179312,42.0974054795626,16.14140403535101,13.291369083646048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ tained shall bo construed to affect the right, title, or
 claim, of any person to lands in tile territories of Or­  
 leans or Louisiana, before the boards of commissioner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838071801:0533/pct:2.484575621143905,55.392809587217045,15.391028847757212,2.5662752693378525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838071801:0533/pct:2.484575621143905,55.392809587217045,15.396587182480129,2.5783803413630313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -986,7 +986,7 @@ tually, inhabit and reside on auch lands, may, at any
 time prior to the first day of Junuary next, apply to the  
 proper register or recorder, as the case may be, of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838071801:0533/pct:2.4679006169751543,58.73380946616632,15.574453893613473,7.831981600290522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838071801:0533/pct:2.4734589516980714,58.737844490174716,15.585570563059308,7.836016624298915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,7 +1083,7 @@ to make n settlement thereon until thereunto authorized
 by law.&quot;  
 These several acts are referred to for the purpos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847123101:0432/pct:17.362554317022482,55.181537556960166,14.83090874740223,5.203586652947229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847123101:0432/pct:17.362554317022482,55.181537556960166,14.849801624787455,5.213386251163702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1122,7 +1122,7 @@ occupied, taken possession of, or settled; or shall survey or
 attempt to survey, or cause to be surveyed any such lands;  
 or designate any boundaries thereon, by marking trees or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849040901:0349/pct:60.84360554699538,201.38740661686234,43.68258859784284,4.16221985058698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849040901:0349/pct:20.28120184899846,67.1291355389541,14.560862865947612,1.3874066168623265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1148,7 +1148,7 @@ take possession of the same, or make or attempt to make
 any settlement thereon, until thereunto authorized by law.&quot;  
 Now this statute not only does not discriminat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849040901:0349/pct:60.612480739599384,212.31323372465314,43.68258859784284,12.8068303094984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849040901:0349/pct:20.204160246533128,70.77107790821772,14.560862865947612,4.268943436499466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1186,7 +1186,7 @@ take possession of the same, or attempt to
 make n settlement upon said land until they are  
 duly authorized by law.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851030601:0238/pct:18.504474442590627,45.69809984657146,14.530562718034279,7.199339077068335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851030601:0238/pct:18.504474442590627,45.70596797671033,14.545730320036402,7.195405011998899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1213,7 +1213,7 @@ the same, or make or attempt to ma^ * settlement thereon,
 until thereunto authorized by law.&quot;  
 Here were two laws passed on 0* ?me day, on the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851030801:0556/pct:83.37690931608641,5.739987149282501,15.467180404568598,6.328978367958878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851030801:0556/pct:83.38149626163937,5.747126436781609,15.471767350121555,6.328978367958878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1261,7 +1261,7 @@ may judge necessary to remove from
 the lands as aforesaid any such persons  
 atoresaid. The Commissioner of India
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851032001:0399/pct:19.355694020946572,70.90355550723062,11.865305581333686,5.567032728063499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851032001:0399/pct:19.355694020946572,70.90717987749629,11.878562906005568,5.567032728063499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1279,7 +1279,7 @@ The,e shall also be appointed a court to consist
 of three judges, any Iwo of whom to form a  
 court, w ho shall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851122501:0560/pct:16.941649899396378,35.34992744725974,11.911468812877263,1.8417234066302042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83025241:0038334721A:1851122501:0560/pct:16.941649899396378,35.34992744725974,11.915940084954169,1.845444059976932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1301,7 +1301,7 @@ enploy such military force as he may judge neces.­
 sary and proper for that purpose.  
 Tbe trary betwecn the United States and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854082301:0444/pct:194.0432612312812,108.57370881313419,46.356073211314474,11.720442366890891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854082301:0444/pct:64.68108707709374,36.19123627104473,15.452024403771492,3.9068141222969635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1322,7 +1322,7 @@ j &quot;designate any boundaries thereon by marking
 “trees or otherwise, until thereto duly autbor­  
 ; -ized by law ; sucli offender or offenders shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1854123001:0701/pct:30.9507406131588,42.04338698390483,12.60764726145367,3.331000699790063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1854123001:0701/pct:30.9507406131588,42.05271751807791,12.613388448731198,3.331000699790063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1348,7 +1348,7 @@ if any he hath or they have, of whatso
 ever nature or kind the same shall or may  
 be, to the lands aforesaid, which he o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855022401:0036/pct:61.88837920489296,69.4630248978075,16.488277268093782,8.742103307320699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855022401:0036/pct:41.2694366556207,46.31178000743218,10.99923527912312,5.8249721293199554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1390,7 +1390,7 @@ and most fully shall they have it, and that
 to the most liberal extent, so long as the  
 laws remain as they are, and the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855022401:0036/pct:61.735474006116206,82.07915273132664,16.717635066258918,20.22482348569305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855022401:0036/pct:41.16747387203671,54.71943515421776,11.152179454499107,13.489409141583055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1411,7 +1411,7 @@ shall forfeit all his or their right, title and
 claim, if any he bath, or they have, to th­  
 lands aforesaid, which he or they shall hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1860090801:0228/pct:75.2,116.59375911344415,57.12,13.706620005832605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1860090801:0228/pct:18.8,29.148439778361038,14.28,3.426655001458151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,7 +1433,7 @@ claim, if any he hath or they have, to th
   
 lands aforesaid, which he or they shall have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1860092201:0232/pct:188.11074918566774,136.5276545400769,58.957654723127035,14.078674948240165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1860092201:0232/pct:47.05642697086983,34.131913635019224,14.7484212670605,3.5196687370600412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1454,7 +1454,7 @@ shall forfelt all his or their right, title and
 claim, if any he hath, or they have to the  
 lands aforesaid, which he or they shall hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1860092901:0234/pct:127.96747967479675,172.81696362833162,58.699186991869915,13.95965248122515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1860092901:0234/pct:31.99837365318154,43.204240907082905,14.677780036592804,3.4899131203062876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

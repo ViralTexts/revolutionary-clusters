@@ -278,7 +278,7 @@ For lessons to the multitude unborn I
 The Executive interference also, brought to bear  
 from the White House to strengthen the chances o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743725:1870102901:0373/pct:156.21311475409837,45.029775538250114,46.377049180327866,8.600549702244617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743725:1870102901:0373/pct:52.07103825136612,15.009925179416705,15.459016393442623,2.866849900748206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

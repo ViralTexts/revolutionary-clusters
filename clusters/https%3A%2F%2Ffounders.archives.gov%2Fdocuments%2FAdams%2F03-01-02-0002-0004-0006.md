@@ -480,7 +480,7 @@ of faith.” And it seems to me
 me, to every man that is among you, not.to think ofhimself more highly than ha ought  
 to think, but to think soberly, according as God hath dealt to every man the rnessur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065337:00295878204:1840111401:0069/pct:85.90163934426229,13.815504547423126,39.59016393442623,2.02107694528656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065337:00295878204:1840111401:0069/pct:64.46586015993438,10.365237476541072,29.731392249333606,1.5158077089649198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ but to think soberly according as God hath dealt
 to every man the measure of faith.” “Take  
 care not to desire each other’s gifts. Nev
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016536:1859110301:0300/pct:69.68144709460542,22.876761835923382,12.38994717464383,2.9153114082640648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016536:1859110301:0300/pct:69.67029449423815,22.874006263550953,12.39196542893726,2.917971573114912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1122,7 +1122,7 @@ of himself more highly than he ought to
 think; but to think soberly, as God hjth  
 dealt to every man the measure of faith.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280118:1890021001:0428/pct:3.127147766323024,21.650618982118296,14.914089347079038,2.668500687757909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280118:1890021001:0428/pct:2.35516589307203,16.244841815680882,11.191335740072201,2.0082530949105917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ ought to think; but to think soberly,
 according as God hath dealt to every  
 man the measure of faith.”—Golde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529650:1890082101:0284/pct:35.693348365276215,26.95638960644279,14.295377677564826,3.692447956237654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529650:1890082101:0284/pct:35.685302073940484,26.952294135521118,14.297790802524798,3.695685202066241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1172,7 +1172,7 @@ think of himself more highly than he
 ought to think.&quot;  
 The collection this morning will be fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282085:1892020701:0447/pct:69.85791610284168,74.83388704318936,14.73274695534506,2.9761904761904763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:00237282085:1892020701:0447/pct:52.428498899983076,56.13233665559247,11.050939245219157,2.2286821705426356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1201,7 +1201,7 @@ but to think soberly, according as
 (Jod hath dealt to every man the  
 meascro of faith.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187195:1892031101:0243/pct:16.52681503101058,42.95600082627556,10.95707162835948,8.386696963437306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187195:1892031101:0243/pct:16.52480544747082,42.95156459774863,10.959792477302205,8.389273296843264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1222,7 +1222,7 @@ but to think soberly, according as (Iod
 has dealt to every man tho measuro of  
 faith.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:00175031698:1892051301:0249/pct:17.625411582413324,67.74723020106688,15.882239008328492,3.775133360689372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:00175031698:1892051301:0249/pct:17.625411582413324,67.75634888068208,15.882239008328492,3.775133360689372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1262,7 @@ ought to think, but to think soberly ac­
 cording as God hath dealt to every man the  
 measure of faith.&#x27;.&#x27; In the matter of salva
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893101801:0337/pct:34.49002756607751,25.517398226063225,13.977622831198314,3.0134182397088924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893101801:0337/pct:34.500837792551756,25.517398226063225,13.972217717961191,3.0209991660980973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1302,7 +1302,7 @@ ought to think, but to think soberly ac­
 cording as God hath dealt to every man the  
 measure of faith.&quot; In the matter of salva
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893101901:0504/pct:166.64044059795435,101.66386811173867,50.66876475216365,11.662341627232484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893101901:0504/pct:41.66011014948859,25.415967027934666,12.667191188040913,2.915585406808121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1332,7 +1332,7 @@ ought to think, but to think soberly accord­
 ing as God hath dealt to every man the meas­  
 ure of faith.” In the matter of salvatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1893102101:1017/pct:18.540580789277737,25.417928129524814,13.756515264333581,2.658944320126366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1893102101:1017/pct:18.53713009491904,25.414582784943406,13.758607854085241,2.661884706501711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1355,7 +1355,7 @@ he ought to think; but to think soberly
 according as God has dealt to every man  
 the measure of fait
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893112201:0746/pct:48.878394332939784,230.48832271762208,53.246753246753244,12.569002123142251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893112201:0746/pct:12.219598583234946,57.62208067940552,13.311688311688311,3.142250530785563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1416,7 +1416,7 @@ think; but to think soberly.&quot; iSober
 thinking is timely and necessary, and  
 in it the church must lead the world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_onamia_ver01:data:sn90059522:00206536913:1896030101:0019/pct:70.10103885014942,49.86138207208132,12.423509321189696,3.7888900297771846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_onamia_ver01:data:sn90059522:00206536913:1896030101:0019/pct:70.10103885014942,49.86822740185509,12.437740145154404,3.7854673648903034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

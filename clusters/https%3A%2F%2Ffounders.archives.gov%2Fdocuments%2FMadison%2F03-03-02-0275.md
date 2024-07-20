@@ -147,7 +147,7 @@ nature of the case requires.
 &amp; And your petitioncrs, as in duty bound,  
 c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811061901:0546/pct:52.39441303624875,6.823689056896384,44.19687396075823,87.41882330134729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811061901:0546/pct:52.385702410640064,6.823027718550106,44.195067885840956,87.4135814434322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ your petitioners such relief as the nature uftfac cast
 requires.  
 And your petitioners, as in duty bound,&amp;t.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062101:0581/pct:51.58049497672139,1.9177636925077197,44.915461896593975,96.4570128392654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062101:0581/pct:51.567858892699654,1.9174520636984076,44.91058304752572,96.44540136496587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ si det alien, and of granting to your , etitioners
 such rdiet as the nature of the case requires.  
 Audyour petitioners, as m duty bound, &amp;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811062101:0057/pct:41.80252793551933,4.013747391677918,36.087195457043414,92.41438566343439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811062101:0057/pct:41.794871794871796,4.013254786450663,36.08669108669109,92.40713467517591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ PRESIDENT’S ANSWER,
 To the inhabitant9 of the Town of jYcw-Ha­  
 ven.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811062401:0212/pct:58.13053097345133,5.745085605580216,36.4122418879056,92.59353202282816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811062401:0212/pct:58.11981566820276,5.744357088511286,36.41167434715822,92.58601741482796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ requires.
   
 And your Petitioners, as in duty bound, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811062601:0433/pct:4.721237512085079,21.425750394944707,22.462133419271673,68.36492890995261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811062601:0433/pct:4.721237512085079,21.425750394944707,22.478246857879473,68.37151132174829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

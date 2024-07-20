@@ -285,7 +285,7 @@ my ncarert ronitcxious, andliving for more than
 three years in a a ate of widowhood ”  
 GOVERNOR NI L-ON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827051501:0321/pct:22.596053997923157,41.6892180601054,14.496365524402908,3.760148127047429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827051501:0321/pct:22.591362126245848,41.68328111649103,14.498546511627907,3.7631728852178865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

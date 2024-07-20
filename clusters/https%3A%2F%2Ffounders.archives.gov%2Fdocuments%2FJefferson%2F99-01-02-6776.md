@@ -123,7 +123,7 @@ securely established in the enje.
 ■ of life, liberty and happiness.  
 ! Til : JEFFLRS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807111601:0003/pct:21.959604641168887,2.0796278560678614,36.89299527288354,94.73252154877548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807111601:0003/pct:21.959604641168887,2.0887490308751766,36.921644463543906,94.73708213617914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ established in the enjoyments of life, liber­
 ty and happiness.  
 ., TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807112401:0391/pct:60.12861736334405,46.83448709880428,17.760544732362398,37.583385777218375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807112401:0391/pct:60.117246596066565,46.82859300276869,17.763489662128087,37.582850910311265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ felves fecurely eftablifhed in the enjoyment of
 life, liberty and happinefs.  
 _ T . TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112701:0251/pct:42.24106155547364,26.710735708165014,17.655731662366385,31.227812461745625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112701:0251/pct:42.233278054173574,26.707466340269278,17.658620477857625,31.228070175438596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ political effort-find Isiocergly pray him
 yctcu, mysticoda, that - all the members  
 &amp;! the human si
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807120301:0080/pct:53.43241330502477,3.6014511990089373,43.84996461429582,93.05371206087956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807120301:0080/pct:53.42485140107557,3.601132542912759,43.84847627134636,93.04842800684244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ established in the enjoyment of life, li­
 berty and happiness.  
 Tit: Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807120301:0221/pct:5.651672433679354,10.5224429727741,28.690888119953865,75.84007848908512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807120301:0221/pct:5.650043240126838,10.519862677783227,28.69222638608629,75.82965505966978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ themfclves securely established in the enjoy­
 ments of life, liberty and bappinefs.  
 ; &quot; TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807120801:0619/pct:61.513790891597175,12.359661217254285,34.86209108402822,82.15481583612369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807120801:0619/pct:61.51913619841779,12.359661217254285,34.872781697669446,82.15481583612369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ It was dictated by the principles of humanity,
 the precepts of the Gospel, and the general wish  
 of our country. THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022801:0774/pct:1.1645962732919255,156.82472352673838,65.99378881987577,22.481442205726406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022801:0774/pct:0.2912621359223301,39.206180881684595,16.50485436893204,5.6203605514316015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ by the principles of humanity, the
 precepts of the Gospel, and the gen­  
 eral wish of our couutr/.?Thoma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898030501:0216/pct:5.428179502253577,57.69845498135322,17.98941798941799,7.858284496537027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898030501:0216/pct:5.437977660199882,57.70511454448588,17.994317068391144,7.871603622802344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ by the principles of humanity, the
 precepts of the Gospel, and the gen-­  
 eral wish of our country. Thoma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1898031101:0251/pct:72.66261925411969,220.14836402172475,48.93321769297485,28.10968340177507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1898031101:0251/pct:18.165654813529923,55.037091005431186,12.233304423243712,7.027420850443767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1081,7 +1081,7 @@ principles of humanity, the precepts of
 the Gospel, and the general wish of our  
 country. • • • The power of makin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898041001:0504/pct:19.556412729026036,7.302880418970032,12.092574734811958,7.739307535641548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898041001:0504/pct:19.56605593056895,7.302880418970032,12.097396335583413,7.750218213558336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ tne gospel and tho general wish of our
   
 country. Thomas Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023504:1898052701:0865/pct:77.72669625871909,46.087238878666525,21.87698161065314,6.721506656564563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023504:1898052701:0865/pct:51.8395179194418,30.728433813183244,14.589280050745321,4.481004437709709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

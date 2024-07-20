@@ -76,7 +76,7 @@ my opinion, of great political importance, and
 ought to be attended to in time.” And, in  
 speaking of the danger of severation, he says
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:24.164310660236154,78.64686468646865,17.81140861466822,3.1243124312431245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:24.16029265048221,78.63821361786383,17.813989579869194,3.1276353903127636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ panied by the Marquis La Fayette, who had
 crossed the Atlantic, and had devoted a part of  
 his time to the delights of an enthusiastic friend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:24.164310660236154,7.073707370737074,36.20488940628638,88.56985698569856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:24.16029265048221,7.072929270707293,36.2044119277242,88.56378102885638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ nieiise increase to our exports, and binding
 be hroken.’  
 ‘Ilis letter to the Governor was communica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826061501:0101/pct:23.59550561797753,81.51415966984489,16.769132923468305,10.374270670271809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826061501:0101/pct:23.590504451038576,81.50256118383608,16.77087749046206,10.376351735913488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ of the west. “To tell any man of information
 how fast it is settling, how much more rapidly  
 it will set lie, of the vast fertility ol the soil, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1828081601:0162/pct:24.598183088749128,60.568426080726056,18.553459119496857,1.8270838309051827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1828081601:0162/pct:24.593886462882097,60.561194029850746,18.55604075691412,1.8308457711442787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ prevent [hr trade of the Western Territory from
 ^ be hand* Of eith.r the Spaniard* or the  
 fini sh If either of these happen, there is a tine o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830112301:0223/pct:49.27579071829737,64.95589414595028,15.237954478273721,2.337037461335777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830112301:0223/pct:49.26850894044628,64.94845360824742,15.240628540465988,2.3405880106911034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ toward* Lake fine, and we shall not only draw the!
 produce of the western settlers, hut the peltry and fur  
 trade of the Lakes also, to our ports, thus adding a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831032401:0326/pct:4.958023126881039,69.77866729456086,17.677807698400127,4.485519190016483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831032401:0326/pct:4.957237884067152,69.77045320776928,17.680287192482314,4.488915048067491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ towards Lake -Lne* and vve shall Dot only draw the!
 produce of the western settlers, but the peltry and furl  
 trade of the Rakes also, to our ports, thus adding an 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831032501:0114/pct:7.368097215812952,69.80896065499203,17.3357944931549,3.2522174209688424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831032501:0114/pct:7.366964011073516,69.80102330869812,17.338254895929456,3.2556376729202197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ trade of the Lakes also, to our ports, thus adding an im­
 mense increase to our exports, and binding those peo­  
 ple to us by a chain which can never bo broken.” I1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831032901:0425/pct:50.18277525954087,67.7648949603949,15.119169469220646,5.108483526575594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831032901:0425/pct:50.175438596491226,67.75711662075298,15.121832358674464,5.111723293541475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ our exports, and binding those people to us by
 no particular predilection for us/&#x27; Look at his  
 letter in 1704: when speaking of emigration, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838030301:0145/pct:57.620941020543405,26.911031202876696,18.223989396951623,2.0879248347059507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838030301:0145/pct:57.620941020543405,26.911031202876696,18.229511817981003,2.095657889649306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

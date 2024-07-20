@@ -48,7 +48,7 @@ cafe under this ast, unless the fame shall have been commenced
 within three years next after the penalty or forfeiture was in­  
 curred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081501:0004/pct:71.97597941092364,49.85711564107449,23.36288247068916,2.8957896742236615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081501:0004/pct:71.97597941092364,49.86187845303867,23.370031455533315,2.9005524861878453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -68,7 +68,7 @@ this aét, unless the fame thall have been
 commenced within three years next after  
 the forfeiture or penalty was incurred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091701:0458/pct:51.88814531548757,36.659046374918354,21.080305927342256,5.045721750489876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091701:0458/pct:51.90407903123008,36.66993250598737,21.072339069471,5.040278684955367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ lative to inrernal duties; unles® t&#x27;w. same shall
 have been commenced within one year after the  
 penalty of ferfeiturc was incurred, or withi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815041101:0269/pct:40.61066513761468,26.08695652173913,16.198394495412845,3.2486014329178525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815041101:0269/pct:40.61066513761468,26.090228023685675,16.212729357798164,3.2584159387574836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ loss the same shall have been commenced within
 two years after the cause of action shall have a­  
 risen. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831032901:0468/pct:22.403135835971657,42.83473828661047,15.980702547866727,2.7347578906096843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831032901:0468/pct:22.41318659229107,42.83473828661047,15.980702547866727,2.7478272234202445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ in any case of forfeiture or penalty, under
 this act, unless the same shall have been com­  
 menced within two years after the cause o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831040601:0051/pct:17.607589079130033,43.332775639953155,15.386395187413235,2.7103898276727456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831040601:0051/pct:17.60351607679852,43.32552693208431,15.388619014573212,2.7141184342589493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ sec, 17. No action or prosecution shall be maintained in any
 case of forfeiture or penalty under this ast, ualess the same  
 shall have been commenced within two years after the cause o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861090101:0217/pct:224.65321563682218,345.68772796799624,49.74779319041614,4.0475350041181315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861090101:0217/pct:56.17215828472332,86.42193199199906,12.438909033580325,1.0118837510295329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ lowing conditions, vis First, that copy rights soall be applied
 for in this Confederacy within four months from the time of the  
 publication of the oriinal 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861090301:0221/pct:222.73291925465838,347.0208015042896,48.88198757763975,16.782230579386532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861090301:0221/pct:55.700528114321216,86.7552003760724,12.224293258776017,4.195557644846633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ SEc. 17. No action or prosecution shall be maintained in any
 case of forfeiture or penalty under this act, unless the same  
 shall have been commenced within two years after the cause o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861091501:0268/pct:246.15384615384616,183.71274348744427,49.656035021888684,3.8488617695376672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861091501:0268/pct:61.54808444096951,45.92818587186107,12.415949960906959,0.9622154423844168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ $ec, 17No action or prosecution shall be maintained in any
 case of forfeiture or penalty under this ast, unless the same  
 shall have been commented within two years after the cause o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861092201:0292/pct:237.3409669211196,182.8368794326241,50.19083969465649,3.6879432624113475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861092201:0292/pct:59.363564041368335,45.709219858156025,12.553699284009546,0.9219858156028369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ $eC. 1? No action or prosecution shall be maintained in any
 case of forfeiture or penalty under this ast, naless the same  
 shall have been commenced within two years after the oause o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100201:0324/pct:238.30318153462258,183.52068605863948,49.71927635683094,3.7084250782245913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100201:0324/pct:59.60368232173506,45.88017151465987,12.435637384927446,0.9271062695561478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ lewing conditions, vis. First, that copy rights shall be applied
 for in this Confederacy within four months from the time of the  
 publication of the or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100501:0336/pct:243.7189054726368,177.29457541771572,49.50248756218905,16.067750057221332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100501:0336/pct:60.9297263681592,44.32364385442893,12.375621890547263,4.016937514305333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ SeC. 17. No action or prosecution shall be maintained in any
 cise of forfeiture or penalty under this ast, unless the same  
 shall have been commenced within two years after the cause o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100601:0340/pct:242.49843063402386,177.2357723577236,49.717514124293785,3.7630662020905925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100601:0340/pct:60.65316376197205,44.3089430894309,12.435233160621761,0.9407665505226481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ cause of such action accrued, and
 not after.&quot; (Civil Code, Section  
 1036). &quot;In all actions for debt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195684:1892051301:0065/pct:6.981236203090508,77.6249094858798,15.82505518763797,3.744698458673839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195684:1892051301:0065/pct:5.244996549344376,58.218682114409845,11.870255348516219,2.8136960794455366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

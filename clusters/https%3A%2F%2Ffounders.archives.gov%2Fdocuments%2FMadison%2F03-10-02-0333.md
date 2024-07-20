@@ -194,7 +194,7 @@ and of the con jUost, navigation and commerce of
 EthioDia. Arabia. I&#x27;ersia and India, etc., send  
 many greetings to Your Majesty as One whom 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195453:1886082801:0207/pct:12.314767501277466,26.154008661666843,15.597853857945836,3.644237878947924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195453:1886082801:0207/pct:9.237255653507091,19.61550649625013,11.703079085217835,2.735819161297137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ Guinea, and of the Conquest Naviga­
 tion and Comtneicc of Ethiopia,  
 Arabia, Persia and India, Etc., salut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82016412:00294552121:1890020101:0164/pct:7.801950487621905,34.70287176570941,15.9039759939985,3.2413989195336934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82016412:00294552121:1890020101:0164/pct:5.853658536585366,26.030707989764004,11.932457786116323,2.43104918965027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ of the Conquest Navigation and Commerce
 of Ethiopia, Arabia, Persia and India, etc.,  
 salute Your Majesty whose friend 1 a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108940:1890020401:0243/pct:34.188988095238095,55.49009105516872,17.782738095238095,3.70915907873594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108940:1890020401:0243/pct:25.66536385631863,41.61756829137654,13.344500279173646,2.785216925549009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ Lord of Guinea, and of the Conquest, Na­
 . vigation and Commerce of Ethiopia, Ara­  
 . bia, Persia and India, etc., salute You
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195635:1890032101:0269/pct:9.69728065674705,27.917035289491793,16.944586967675733,4.158065467413742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195635:1890032101:0269/pct:7.273893521488134,20.937776467118844,12.713277742142399,3.125921557062813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ Lord of Guinea, and of the Conquest, Navigation
 and Commerce of Ethiopia, Arabia,  
 Persia and India, etc., salute You
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108940:1890032501:0318/pct:13.024737631184408,20.785466203580015,13.455772113943029,3.3529254608602725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108940:1890032501:0318/pct:13.024737631184408,20.785466203580015,13.455772113943029,3.3629441624365484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ the royal house of Braganza some years
 ago. These mysterious deaths have  
 never been slly cleared up, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285062:1896010301:0186/pct:141.09149277688604,193.4968625213919,56.340288924558585,86.5373645179692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285062:1896010301:0186/pct:35.287033319951824,48.374215630347976,14.09072661581694,21.6343411294923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ the royal house of Braganza some years
 ago. These mysterious deaths have  
 never been fully cleared up, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058217:206534874:1896021401:0575/pct:194.96935648621042,140.3066812705367,62.43615934627171,61.500547645125955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058217:206534874:1896021401:0575/pct:65.00638569604087,46.768893756845564,20.81736909323116,20.50018254837532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ pia, Arabia, Persia and the Indies.&quot;
 —Mrs. Kate L. Glasford of Muskegon  
 county has the unique distinction of hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182215:1897081001:1026/pct:75.27762606954306,57.940037297374836,15.965774622246496,4.963419882369818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182215:1897081001:1026/pct:58.34548276348587,44.90642949786918,12.373606734703475,3.8502871965906986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

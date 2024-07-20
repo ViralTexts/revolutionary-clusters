@@ -133,7 +133,7 @@ time I request of y on to hate every thing
 ready for departure before the last day of  
 December, acd lb got you to shnw t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806052901:0572/pct:52.85,15.513606745879647,23.7,52.75009582215408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806052901:0572/pct:52.841193134477585,15.512120341094183,23.701605288007553,52.74823544441251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ this letter, not thinking prudent in me at this
 moment and on fo delicate a fubjedl to write a­  
 ny more ; do the fame with the m ijor, and re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806053001:0026/pct:41.30158153063079,37.45570084321154,17.596800581712415,30.2089698154711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806053001:0026/pct:41.29407488186114,37.451124144672534,17.599660729431722,30.20935158031932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ much as is necessary of this letter, not thinking
 pru&lt;lent in me ai this moment and on so delicate  
 a subjeft to write any more; do the feme with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806053001:0185/pct:21.99469093667046,5.232929164007658,36.556693211983315,91.46139119336311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806053001:0185/pct:21.990521327014218,5.232261357835631,36.55608214849921,91.45397311553513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ Obedient servant,
 (Signed) FRAN. DE MIRANDA.  
 To the ho:i Jjmco Madison, esq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806053001:0185/pct:40.76602199469094,69.27887683471602,17.254455821008722,7.377153797064454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806053001:0185/pct:40.758293838862556,69.27003573251659,17.257503949447077,7.38046622426408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ ject ; provided the publick. laws should not he /nlu
 violated.” The reader will judge for himself whether  
 tnis has the appearance of a sla er fabrication invent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806061601:1167/pct:52.074739140985194,58.800959232613906,20.965785003639894,7.162270183852917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806061601:1167/pct:52.062105773896164,58.79156010230179,20.96676370693838,7.165121483375959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ ander, he wrote two letters, one to the
 President of he U. Stales, and the other  
 to the Secretary of Slate of the United
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806080901:0265/pct:23.330775134305448,62.657815957308344,17.45970836531082,3.9437719640765327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806080901:0265/pct:23.326299635526567,62.649661634565334,17.46275337297781,3.9475967378101684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ in and good wishes are evidently for us, and they do
 see any difficulty that may preveut the eiluseu* of Uie  
 ed Mates in attending or seudiug supplies for this o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661113:1858011601:0080/pct:83.75119009838147,8.15380761523046,14.249444620755316,2.0666332665330662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661113:1858011601:0080/pct:83.76176875066116,8.162157648630595,14.244155294615465,2.0666332665330662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ After the receipt of Secretary Boutwell&#x27;s note
 General Butterfield wrote the following letters, one  
 to the President and the other to the Secretary o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869102501:0313/pct:103.08610400682012,252.26070226070226,45.52429667519181,15.247715247715247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869102501:0313/pct:34.36203466894004,84.08690075356742,15.174765558397272,5.082571749238416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ of revolving ages begins anew.” He
 asks Fate to be propitious to the boy,  
 under whom the iron age shall cease an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1880112601:1012/pct:42.43511289301541,29.089584850691917,16.33255961173243,6.642388929351784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1880112601:1012/pct:42.426160337552744,29.08534809204777,16.336146272855135,6.646276337508496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

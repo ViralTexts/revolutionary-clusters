@@ -115,7 +115,7 @@ virtue is a body without a soul a mass of corrup­
 tion and petrefaction food lor worms.&quot;  
 John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1845082301:0310/pct:105.44635544635544,16.027773759583393,19.553644553644553,6.596267901055981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1845082301:0310/pct:79.14361811104281,12.020830319687546,14.669125179266544,4.947200925791986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ vernment, without knowledge and virtue, isa
 body without a soul a mass of corruption and  
 putrefaction food for worms.&#x27; John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1846112601:0585/pct:85.08531383302864,67.3904052936311,22.54722730042657,5.303970223325062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1846112601:0585/pct:63.846974546563025,50.5479735318445,16.918152720621855,3.9805624483043838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ ness, Ac. As we are a friend to all ration­
 al measures for propagating knowledge  
 among the masses, the actions of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623562:1889051601:0070/pct:24.290220820189276,42.93531793805406,10.751840168243953,1.3461748932910145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623562:1889051601:0070/pct:24.298983526112863,42.93531793805406,10.74745881528216,1.3571194046185837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

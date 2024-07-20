@@ -89,7 +89,7 @@ The second Continental Congress met upon
 tbe Ibth of May, Ins, three weeks after the  
 battle ot Lexington. Measnres were soo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862070701:0003/pct:77.06909643128321,66.83238636363636,10.117691723614275,5.355113636363637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862070701:0003/pct:77.08333333333333,66.83948863636364,10.11294608959757,5.365767045454546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ Yorkers and New Englanders are no
 more. I am not a Virginian, but an  
 Amerhjan.&#x27;&#x27; A century, says the New
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293101:1874090901:0245/pct:127.65957446808511,279.5285677683833,40.29255319148936,11.580835254932104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn83045160:00200293101:1874090901:0245/pct:31.920199501246884,69.88214194209583,10.074812967581048,2.895208813733026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ are no more. I am not a Virginian, but
 an American.&quot; A century has passed, and  
 yet how far are many of our public me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1874090901:0773/pct:209.06994619523442,367.87870279376665,42.89008455034589,12.859750105292713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1874090901:0773/pct:52.287581699346404,91.96967569844166,10.726643598615917,3.2149375263231783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ against &quot;Federal interference&quot; and
 &quot;oppression,&quot; and such things. But a  
 State that can murder six prisoners, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279555144:1874091401:0260/pct:22.74538210793191,279.5148247978437,43.33574791742122,56.83288409703504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279555144:1874091401:0260/pct:5.685315951475648,69.86928985311953,10.831975375701612,14.206306427705162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ no more. I am not a Virginian but
 an American.&quot; A century has pass­  
 ed and yet how far . axe many o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174481A:1874091601:0694/pct:114.76520168573148,112.76418902873426,14.494280553883202,5.070054618855378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174481A:1874091601:0694/pct:86.11654871254329,84.57611018760389,10.886914621291973,3.811446212301116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ ian, but an American;&quot; his listeners
 are said to have declared him the  
 greatest speaker on the continent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198910:1884082101:0371/pct:195.98635034124146,265.8536585365854,43.84140396490088,11.409474671669793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198910:1884082101:0371/pct:48.996587585310365,66.46341463414635,10.96035099122522,2.8523686679174483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ Virginians, Pennsylvauians, New Yorkers
 and New Englanders aro no more. I am  
 not a Virginian, but a New Englander.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286637:1889042801:0232/pct:4.602065613608748,88.16273533867128,18.833535844471445,8.840077905215322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286637:1889042801:0232/pct:3.068509797964454,58.77515689244752,12.562661400577245,5.896991993075092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ spoochoH &quot; The measure of arbitrary power Is
 not yet full, and I think It mustrunoor before  
 we undertake to frame a new Constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00206533122:1890060101:0408/pct:79.39814814814815,17.01998788612962,50.0,7.207752877044215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00206533122:1890060101:0408/pct:19.857197993052875,4.254996971532405,12.504824392126592,1.8019382192610538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ Blue and Gray believes in the
 greater power of the nation be­  
 cause it holds that the word
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:00517175420:1893112701:1035/pct:10.546265328874025,64.352856109906,16.031215161649943,4.960231381055676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:00517175420:1893112701:1035/pct:10.557413600891861,64.36008676789588,16.04236343366778,4.971077368040492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

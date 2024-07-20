@@ -136,7 +136,7 @@ for a file of the &quot; Pennsylvania Gazette, printed by
 B. Franklin, postmastei, at the new printing office,  
 near the market, Philadelphia.&quot; Their date is 174
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842031701:0076/pct:51.46337839845491,73.93475366178428,14.990343188233545,1.575676875277408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661289:1842031701:0076/pct:51.4683306096172,73.93475366178428,14.99529539939583,1.5830744192927948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ soutiiern postaets out next Monday for Anna­
 polis, and continues going every fortnight dur  
 ing the summer season.&quot; At that time the pos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1850082101:0517/pct:68.78186968838527,22.872816838334078,12.592067988668555,3.459471562919839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1850082101:0517/pct:68.78186968838527,22.872816838334078,12.601510859301227,3.470667263770712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ of Pennsylvania, which offices he discharged with
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1864-10_6_4/page/n112/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1864-10_6_4/page/n112/mode/1up?view=theater)
 
 #### 1864-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

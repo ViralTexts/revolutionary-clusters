@@ -366,7 +366,7 @@ good conduét of the said armies, do give
 them the thanks of their country for their  
 long, eminent and faithful services. An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783111501:0460/pct:35.770850884582984,65.3772378516624,27.37994945240101,5.328218243819267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783111501:0460/pct:35.770850884582984,65.38078999715829,27.37994945240101,5.335322534811026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -603,7 +603,7 @@ in a thort time, of the military charaéter—
 and to bid final adieu to the armies he  
 has so long had the honor to command—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783112201:0464/pct:9.194039959363359,4.9083006466659596,86.84388757196072,93.93618149051203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783112201:0464/pct:9.199683937238966,4.9083006466659596,86.84953154983633,93.94324887805223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ service— The curtain of {eperation will soon
 be drawn-=and the military scene to bimy  
 will be closed foraver. e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783112201:0465/pct:4.721467391304348,3.5237586759209822,27.836277173913043,13.838761345435131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783112201:0465/pct:4.732789855072464,3.5308773803167823,27.8419384057971,13.838761345435131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2988,7 +2988,7 @@ vice. Tho curtain of soparalion will soon be
 drawn, and the military scene to him will be clo  
 sed forever!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1844071701:0080/pct:26.415455241009948,34.39446366782007,19.68247895944912,13.121107266435986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1844071701:0080/pct:19.82016453032332,25.79930795847751,14.769466233020854,9.84083044982699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3036,7 +3036,7 @@ from service. The curt ain ofseparation will
 soon bedrawn, and the military scence to him  
 will be closed forever!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023649:00280777778:1844121101:0804/pct:64.53674121405751,215.781393920786,51.51757188498402,89.16180534233958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023649:00280777778:1844121101:0804/pct:16.143856143856144,53.9453484801965,12.887112887112886,22.290451335584894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3072,7 +3072,7 @@ ration will soon be drawn, ami the mili­
 tary scene to him will be closed for­  
 ever!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624426:1845010401:0308/pct:82.53557567917206,85.76602109903952,17.917205692108666,17.38308927727917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624426:1845010401:0308/pct:63.96903197059151,66.47142566605653,13.896624707586053,13.47162904209884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3157,7 +3157,7 @@ from service. The curtain of separation
 will soon be drawn, and the military scene  
 to him will le closed forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845031201:0265/pct:23.763056624518967,14.429902395740905,73.39197361187466,110.38154392191659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845031201:0265/pct:17.833081259452772,10.825199645075422,55.06668499931253,82.78615794143744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3189,7 +3189,7 @@ vice. The curtain of separation will soon be
 drawn, and the military scene to him will be  
 closed forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1845031501:0972/pct:81.67539267015707,262.008486562942,58.339566192969336,47.807637906647805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1845031501:0972/pct:20.418848167539267,65.5021216407355,14.584891548242334,11.951909476661951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3228,7 +3228,7 @@ tain of separation will soon be drawn,
 and the military scene to him will be  
 closed forever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1845032001:0042/pct:19.888609414301115,18.23948220064725,14.103485447358965,15.042071197411003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1845032001:0042/pct:19.88503682414227,18.237121408231943,14.10693970420933,15.044438691862974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3315,7 +3315,7 @@ of separation will soon be drawn, and
 the military scene to him will be clos  
 ed for ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065517:00295878174:1845062801:0058/pct:62.981680353758684,82.78421230181041,19.172457359444092,36.10705048914877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065517:00295878174:1845062801:0058/pct:47.243721371031434,62.09378162599798,14.389511925446216,27.077476667041495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3347,7 +3347,7 @@ think that a Rhode Island man can be found to
 he 5o reckless as to slander the name of the il­  
 lustrious dead, by insinuating that he ever gav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:44.29835980213486,18.094841930116473,25.68341577714137,79.01414309484193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1845123101:0592/pct:44.29835980213486,18.094841930116473,25.687754924932744,79.02107598447033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3416,7 +3416,7 @@ vice. The curtain of separation will soon bo
 drawn, and the military scene to him will be clo­  
 sed forever I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1852042801:0173/pct:37.20783322804801,96.70900055218111,25.773847125710677,15.913859745996687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1852042801:0173/pct:24.822246800442407,64.4726670347874,17.19070943276979,10.612921038100497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3569,7 +3569,7 @@ from service. The curtain of separation
 will soon be drawn, and the military scene  
 to him will be closed forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1852081101:0651/pct:31.91657449834097,65.64525633470831,14.409859377468795,10.724808485562757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1852081101:0651/pct:31.921841259809344,65.64525633470831,14.409859377468795,10.72873698683952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3607,7 +3607,7 @@ ocgaution will soon be dra&#x27;yn, and the
 military scene to him will be closed !or~l  
 ever!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021532:00514153103:1852100701:0102/pct:16.646020439764634,79.33325824980291,14.880768039640756,14.663813492510418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021532:00514153103:1852100701:0102/pct:16.65634355321565,79.33325824980291,14.875606482915247,14.667567669031797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3638,7 +3638,7 @@ service. The curtain of separation will soon be
 drawn, and the military scene to him will be  
 closed forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1852112701:1053/pct:115.21739130434783,194.37978995174566,50.54347826086956,30.76923076923077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1852112701:1053/pct:28.804347826086957,48.594947487936416,12.63586956521739,7.6923076923076925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3683,7 +3683,7 @@ retire from service. The curtain of sepa­
 ration will soon be drawn, and the mili­  
 tary scenes will be closed to him forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654024:1853091901:0268/pct:48.50177755205688,73.60365505425472,16.184188251227358,12.427184466019417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654024:1853091901:0268/pct:48.51024208566108,73.60365505425472,16.184188251227358,12.438606510565391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3721,7 +3721,7 @@ in-Ctiiei is about to retire from servico The curtain oi so
 parutlon will soon be draw n, and the militaiv scenes to him  
 will be closed forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1853101801:0628/pct:19.994084590357883,26.191832858499524,16.104702750665485,5.47008547008547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664333:1853101801:0628/pct:20.003943606428077,26.198163975941753,16.099773242630384,5.47008547008547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3807,7 +3807,7 @@ service. The curtain of separation will soon be
 drawn, and the military scenes to him will be  
 closed forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853121801:0299/pct:3.397056800990235,48.01089918256131,13.505707605556319,10.147138964577657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661526:1853121801:0299/pct:3.397056800990235,48.01816530426885,13.5148764498235,10.143505903723888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3874,7 +3874,7 @@ from service. The curtain of separation&quot;, w-11
 topn be drawn, and the military gcttthijS&#x27; to  
 kfm.willbeflloed forever.&quot;&#x27;, ;&#x27;&quot;.&#x27;&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85025647:00296026670:1853122801:0703/pct:7.4746008708272855,111.38738262134638,17.235123367198838,12.458669488162942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85025647:00296026670:1853122801:0703/pct:5.609003448901797,83.54714984790371,12.942457796333272,9.350614998016136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3961,7 +3961,7 @@ he drawn,The
   
 to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854011101:0513/pct:62.17956656346749,46.75215275177836,11.034055727554179,6.673530512916511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854011101:0513/pct:62.18782249742002,46.75215275177836,11.034055727554179,6.682890303257207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3994,7 +3994,7 @@ vice. The curtain of separation will soon be
 drawn, and the military scenes to him will be  
 closed forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854011101:0036/pct:168.47381342062192,133.03789731051344,38.788870703764324,24.709657701711492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854011101:0036/pct:56.157937806873974,44.34596577017115,12.92962356792144,8.236552567237164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4065,7 +4065,7 @@ tain of seperation will soon be drawn,
   
 and the military scenes to him will be accomplised every wish of his heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1854011301:0636/pct:66.00294985250737,51.273247496423465,132.3746312684366,337.9685264663805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1854011301:0636/pct:16.503780195463765,12.818311874105866,33.09976028028766,84.49213161659513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4182,7 +4182,7 @@ Commander-in-Chief is about to retire from service.
 The curtain of separation will soon lie drawn, and  
 the military scenes to him will be closed forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1854012801:0051/pct:19.50368359829391,55.97458212460285,16.556804963164016,7.998342312474098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1854012801:0051/pct:19.508530438154324,55.97803564028181,16.556804963164016,8.012156375189944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4220,7 +4220,7 @@ vice. The curtain of separation will soon be
 drawn, and the ud itary scene to him, will be  
 closed forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472050:1854012801:0105/pct:124.25172678434382,182.56555634301913,50.34535686876439,26.931254429482635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472050:1854012801:0105/pct:31.068892726923814,45.64138908575478,12.588754557666475,6.732813607370659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4255,7 +4255,7 @@ retire from service. The curtain of sepa­
 ration will soon be drawn, and the military  
 scenes to him will be closed for ever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854012801:0857/pct:68.76770538243626,63.88166004656896,98.93767705382436,312.77907136008764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854012801:0857/pct:17.194970780945635,15.97041501164224,24.73879936249336,78.19476784002191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4287,7 +4287,7 @@ fromt service. The curtain o1&#x27; separation will
 soon be. irawn, and the military scenes to  
 Linm will be closed forever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288270:1854020101:0141/pct:2.13457732541702,82.10577864838393,13.78286683630195,9.725759059745348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288270:1854020101:0141/pct:2.1440015078691923,82.10577864838393,13.78286683630195,9.738818152138426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4335,7 +4335,7 @@ will soon be closed forever.
   
 The closing of the &quot;military scenes&quot; I am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854020201:0312/pct:125.37537537537537,153.47432024169186,50.22522522522522,37.242515792364735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854020201:0312/pct:31.36150234741784,38.368580060422964,12.56338028169014,9.310628948091184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4443,7 +4443,7 @@ soon be drawn, and tho military scenes to
   
 him will bo closed for ever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1854030101:0568/pct:23.90752032520325,89.76325122208377,16.00609756097561,12.3837822294642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1854030101:0568/pct:17.939270740693686,67.3248346592543,12.006098335662559,9.28783667209815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4482,7 +4482,7 @@ separation will soon be drawn and the
 military scenes to him will be closed for  
 ever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022165:00296025148:1854030401:0255/pct:237.60092272203,59.86819285466528,134.94809688581316,323.3437391605966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022165:00296025148:1854030401:0255/pct:59.4173637150274,14.96704821366632,33.746755119700026,80.83593479014915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4551,7 +4551,7 @@ separation will soon be drawn, and the
 military scenes to him will be closed  
 forever a e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854051601:0271/pct:13.578394598649663,49.877750611246945,104.0510127531883,323.60132316985477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1854051601:0271/pct:3.396509664102083,12.469437652811736,26.027397260273972,80.90033079246369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4587,7 +4587,7 @@ separation will soon be deawn, ard the
 mhaary scefies t5&quot; himn will be closed  
 forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022366:0020029015A:1854051901:0296/pct:237.05179282868525,102.89743982829987,44.78087649402391,51.694005825540394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022366:0020029015A:1854051901:0296/pct:59.298385489336255,25.724359957074967,11.201913494119992,12.923501456385099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4698,7 +4698,7 @@ from service. The curtain of separation
 will soon be drawn, end the military Bcenes  
 to him will be closed forever.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1855030901:0046/pct:42.69287833827893,67.42581090407177,16.5986646884273,12.946859903381643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1855030901:0046/pct:32.03487293637544,50.5728088336784,12.446670376553515,9.71704623878537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4737,7 +4737,7 @@ all
   
 itary scenes to him will be eh3-.-l forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049817:00415668879:1855031301:0264/pct:51.556450363946105,5.396213581226618,18.646430230757318,34.293164040358235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049817:00415668879:1855031301:0264/pct:51.56161272004543,5.403771303329177,18.66191729905529,34.296942901409516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4776,7 +4776,7 @@ separation will soon be drawn, and the
 military scenes will be to him closed for-:  
 ever.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775526:1855090601:0043/pct:7.348541510845176,18.189581554227157,33.09648466716529,106.90293196697979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775526:1855090601:0043/pct:5.517112399476342,13.649302590378595,24.836356835608754,80.17364076288072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4870,7 +4870,7 @@ events of which he has been a witness?events which
 &quot; have seldom, if ever, before taken place on the stage of buit  
 man action, nor can tbey probably ever happen again.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:37.48604243100973,10.013890642757923,16.94050087733291,5.821442101275413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:37.48604243100973,10.013890642757923,16.95113521561121,5.8340699583280715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4891,7 +4891,7 @@ diers mar expect considerable assistance in recommencing
 their civil occupations from the sums due to them from the  
 n public, which must, and will, most inevitably, be paid?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:37.501993938427184,16.062634170981184,16.63742223640134,3.0685692637959336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:37.512628276705485,16.07105274234962,16.63742223640134,3.0727785494801534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4908,7 +4908,7 @@ r &quot; Let it be remembered that the unbiased voice of tbe
 free citizens of the United States has promised the just reward,  
 and given the merited applause.&quot;?9 Sparks, p. 481
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:37.56579996809698,19.282737719409017,16.62147072898389,1.5153428463189798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:37.56579996809698,19.286947005093236,16.62678789812304,1.5237614176874184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5053,7 +5053,7 @@ vice. The curtain of separation will soon be
 drawn, and the military scene to him will be  
 closed forever ! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684964:1859021701:0060/pct:37.63501989766913,48.54822560907776,14.241046048891416,12.7489153409723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684964:1859021701:0060/pct:37.62967173511439,48.54282536151279,14.243759177679882,12.75120504263997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5092,7 +5092,7 @@ from service. The curtain of separation
 will soon be drawn, aud the military scenes  
 to him will be closed forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477655:1860032201:0591/pct:21.99260752688172,25.442421133624006,61.87836021505376,102.41087458322647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477655:1860032201:0591/pct:16.50420168067227,19.081815850218003,46.42016806722689,76.81456783790716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5158,7 +5158,7 @@ curtain of separati~n will soon be ;
 drawn, and the military scenes to him j  
 will be closed forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684976:1860121901:0192/pct:14.942845338107698,16.636681130278337,11.362071340035808,13.662821462588633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85035610:00513684976:1860121901:0192/pct:14.940787661801156,16.634920634920636,11.365096851188836,13.664902998236332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5178,7 +5178,7 @@ dence and sovereignty, almost exceed the
 power of description. 1783.  
 The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862100401:0589/pct:63.06439674315322,57.57575757575758,49.592894152479644,13.897596656217345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862100401:0589/pct:15.771936319881526,14.393939393939394,12.402813772676787,3.4743991640543364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5220,7 +5220,7 @@ bade &quot;the armies of the United States, how
 ever widely dispersed the individuals who  
 compose them may be, an affectionate and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883101001:0468/pct:257.1308724832215,185.6674739991452,55.62080536912752,13.164268414304033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1883101001:0468/pct:64.29620306272288,46.4168684997863,13.908118313404657,3.291067103576008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5238,7 +5238,7 @@ which he announced that &quot;the curtain of
 separation will soon be drawn, and the  
 military scene to him will be closed foreve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887051601:0973/pct:125.86466165413533,376.80782754930436,49.24812030075188,7.9498547622687665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887051601:0973/pct:31.472081218274113,94.20195688732609,12.314344801654446,1.9874636905671916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5336,7 +5336,7 @@ was extraordinary, be saw that
 upon the recognition of our independence  
 by tiie mother country, the crisis iv th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036593:1889060101:0006/pct:28.94655545257955,53.35566593508144,10.642570281124499,9.552962920180201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036593:1889060101:0006/pct:28.954278653073835,53.35855377151438,10.650293481618784,9.550075083747256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5492,7 +5492,7 @@ navy, the gem of the ocean,&#x27; has added
 fresh aurels to her imperishable renown.  
 and denonstrated to a doubting world tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898073101:0684/pct:178.97413542574833,198.0904175773611,37.19848881139204,23.09904520878868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898073101:0684/pct:59.65804514191611,66.0301391924537,12.399496270464013,7.699681736262893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5510,7 +5510,7 @@ the honor, dignity and justice of the Nation
 would be lost forever.&quot; By these two mem­  
 orable documents, Washinoron began th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121401:0610/pct:70.99236641221374,289.91432436494813,49.770992366412216,8.657748384187585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121401:0610/pct:17.75486827033219,72.47858109123703,12.44749904543719,2.164437096046896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

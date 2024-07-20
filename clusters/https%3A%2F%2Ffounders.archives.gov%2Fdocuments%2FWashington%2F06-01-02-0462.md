@@ -165,7 +165,7 @@ Your most affectionate
 Martha Washington.  
 -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878022101:0243/pct:38.56408609058786,36.76070279633754,11.034371988435593,39.73026478594407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340688:1878022101:0243/pct:38.55789304641079,36.75615489298528,11.036614742251485,39.72844240999629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ descending, &amp; has almost reached, the
 bottom of the hill ; or in other words,  
 the shades below.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776099:1878022801:0301/pct:8.428981348637016,106.40022358859699,16.12266857962697,21.660145332588037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026259:00280776099:1878022801:0301/pct:6.3329745245783995,79.8071548351034,12.091855041263006,16.2520961430967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ descending, &amp; has almost reached, tl
   
 bottom of the hill : or in other words.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197504:1878030101:0031/pct:7.432922407541697,107.12177595277814,16.533720087019578,20.402925702553574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197504:1878030101:0031/pct:5.586794848539815,80.3413319645836,12.407037910393615,15.308610291287053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ descending, &amp; has almest reached, the
 bottom of the hill ;—or in other words,  
 the shades below.”’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153541:1878030201:0190/pct:72.59466170080695,77.25514955409992,10.945582453962341,14.837029437297767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153541:1878030201:0190/pct:72.59811021449755,77.25514955409992,10.949030967652941,14.839660116276011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ descending. .Alia* almost reached, the
 bottom of the hill ;—or in other words,  
 the shades below.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028745:1878031401:0132/pct:55.60316841968576,71.95848746403617,9.622126996493963,13.655980271270037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028745:1878031401:0132/pct:55.60316841968576,71.95848746403617,9.630783880881271,13.659405397999725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

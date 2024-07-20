@@ -103,7 +103,7 @@ to be still more under the controul of the
 were under the King am] British gem-sn­  
 ment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809011201:0133/pct:46.788990825688074,60.752881844380404,23.74617737003058,7.087536023054755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809011201:0133/pct:46.781837639504666,60.74741107609185,23.74764307190542,7.089899444694582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ least as much so as ,hey formerely were un
 der the King and Biitish Pailiment.”  
 “The States will usurp the General Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1833022801:0252/pct:33.54614045269878,83.39158395078988,15.283420390791255,2.851950230672445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1833022801:0252/pct:33.539651837524175,83.37992731339111,15.285299806576402,2.8550461280402573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ frankly does it stand upon the resolutions
 of 1798, as explained and interpreted by  
 their author? We ask further, if it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851102001:0265/pct:105.46963410033949,340.2096911306319,45.888344021124105,33.11136299234911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851102001:0265/pct:26.36243635677918,85.04037399065024,11.469922685272488,8.276668083297917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ authority of the Virginia proceedings in
 1798-99, as asserting a right in a single State  
 to nullify an act of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861062801:0495/pct:31.30303601734867,13.971084988515065,12.785215915519517,2.2969868936630187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861062801:0495/pct:31.317178955308314,13.981218754222402,12.780501602866302,2.2969868936630187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ ceived the slightest countenance from her
   
 and which with one veice she now dh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1861080801:0344/pct:124.86360093530787,223.81471389645776,50.272798129384256,28.228882833787466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1861080801:0344/pct:31.215900233826968,55.95367847411444,12.568199532346064,7.0572207084468666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ Incidentally, Mr. Madison, in these let
   
 ters, vindicates also his compeers, Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1861080801:0344/pct:125.09742790335152,252.31607629427793,50.662509742790334,40.10899182561308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1861080801:0344/pct:31.27435697583788,63.079019073569484,12.665627435697584,10.02724795640327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ No man&#x27;s creed was more opposed to
 auch an iaversion of the republican order  
 of things.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1861080801:0344/pct:126.26656274356976,320.76294277929156,50.9742790335152,42.67029972752044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1861080801:0344/pct:31.56664068589244,80.19073569482289,12.7435697583788,10.66757493188011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ amendment to the Virginia plan, that
 each State should in the Senate have an  
 equal vote, he said, &quot;I confess that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030801:0218/pct:64.47852760736197,224.73188881593347,37.668711656441715,12.168964762530095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030801:0218/pct:16.119631901840492,56.18297220398337,9.417177914110429,3.0422411906325237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

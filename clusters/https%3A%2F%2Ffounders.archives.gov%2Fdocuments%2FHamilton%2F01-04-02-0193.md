@@ -212,7 +212,7 @@ superior to the disadvantages of situation, and will
 command tho tribute due to their merit, not only  
 from the classes to which they belong particularly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1845100201:0597/pct:65.54959785522789,81.62894432512803,19.928507596067917,3.5189162398810505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1845100201:0597/pct:49.1953509164059,61.22583842722617,14.953062136790344,2.64331736329093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ The separate States cannot da it, for the
 power is taken from them by the Constitu­  
 tion. By the very language of the ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862060601:0238/pct:114.8995148995149,155.49844447450292,43.45114345114345,34.68145543081293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862060601:0238/pct:28.734835355285963,38.87461111862573,10.866551126516464,8.670363857703233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ on arficles of consumption, &quot;if such be
 a true definition of an indirect tax, or if such be the  
 understanding of the people when they adopted th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870041301:0750/pct:247.45735174654752,117.8953488372093,48.302193338748985,23.313953488372093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870041301:0750/pct:82.48578391551584,39.298449612403104,16.10073111291633,7.771317829457364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ amendment in these words: &quot;That Congress do
 not lay direct taxes except when the moneys  
 arising from the impost and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895042501:0517/pct:63.4375,92.75629220380601,51.953125,31.184775936157152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895042501:0517/pct:15.862473139285017,23.189073050951503,12.990818519242039,7.796193984039288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ census or enumeration of the people must furnish
 the rule; a circumstance which effectually shuts  
 the door to partiality or evasion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038796:1895050901:0132/pct:6.656877141458639,183.62826933778518,47.348670256159245,6.766833611574847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038796:1895050901:0132/pct:2.2189590471528797,61.20942311259507,15.782890085386414,2.2556112038582823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ articles of consumption, one is at a loss to con
 ceive what can be the nature of the difficu  
 apprehended.&quot; Thus we find Mr. Hamilton, whil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038796:1895052101:0330/pct:54.67802719973783,189.07544213118425,47.468458135343276,10.006715916722632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038796:1895052101:0330/pct:18.226009066579277,63.025147377061415,15.822819378447758,3.3355719722408774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -759,7 +759,7 @@ general&quot;; these, however, are pronounced by
 the Federalist &quot;exceptions to the rule.&quot; Accord­  
 ing to the same authority, &quot;the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112001:0256/pct:227.6073619631902,15.247852945607955,108.35889570552148,370.2275124303149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112001:0256/pct:56.91275167785235,3.8119632364019886,27.094918504314478,92.55687810757873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

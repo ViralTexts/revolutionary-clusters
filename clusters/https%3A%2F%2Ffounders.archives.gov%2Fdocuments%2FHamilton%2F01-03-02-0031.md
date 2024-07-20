@@ -169,7 +169,7 @@ for the interest cf tho xrnrt.n tvc-jlj never
 heprincipla strong enough to curb&quot; the am­  
 bition and intrigues of tho diflhrcnt portico
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065694:00295877595:1839111501:0407/pct:109.28612059158134,93.33547282841249,18.72866894197952,9.734702610183996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065694:00295877595:1839111501:0407/pct:81.99146514935988,70.00427899015833,14.054054054054054,7.306375695335901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ with the Union severed how proportionately di
 minntive and contemptible would be a number  
 of petty repaid cs, jarring, jealous and perverse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1862080901:0543/pct:33.532934131736525,32.64857881136951,14.062783523861368,3.397932816537468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1862080901:0543/pct:33.54200689530031,32.65503875968992,14.058247142079477,3.404392764857881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ direction—fluctuating and unhappy at homo ;
 weak and insignificant by their disseutioui in the  
 eyes of other nations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1862080901:0543/pct:33.532934131736525,36.82170542635659,14.080929050988932,2.248062015503876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557293:1862080901:0543/pct:33.54200689530031,36.82170542635659,14.080929050988932,2.257751937984496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ neligence or ignorance permits the spirit of
 discord to erect her banner on the reins o  
 thy tranqeility.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1878071801:0115/pct:121.28279883381924,132.65984314768045,48.61516034985423,33.39093446763259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283387:1878071801:0115/pct:30.32622562420266,33.16496078692011,12.156005102970658,8.347733616908148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ and the depregeion that follows a commerclal and
 financial crisis Shearly inevitably give rise to unwise  
 jegislation, and are a natural outcome and result o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nash_ver01:data:sn83030214:00175038711:1894060201:0454/pct:14.726574992005117,91.69694967514592,47.105852254557085,16.363836581874242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nash_ver01:data:sn83030214:00175038711:1894060201:0454/pct:4.908858330668372,30.565649891715303,15.701950751519028,5.454612193958081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ the State demands. Whatever liberty we now
 possess in theory, it cannot exist in fact while  
 arbitrary assessments continue.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894060201:0226/pct:82.09285187914517,171.5309932785661,48.85777450257922,15.593726661687827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894060201:0226/pct:20.534562211981566,42.88274831964152,12.221198156682028,3.8984316654219566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ pression and abuses, a
 turbance in society. It was hopred and bel  
 that the great amendments to the Constitutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175038784:1895040901:0610/pct:101.9028871391076,76.99582142071695,48.047900262467195,16.230481636243677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175038784:1895040901:0610/pct:33.967629046369204,25.665273806905653,16.01596675415573,5.410160545414559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ it cannot exist in fact while tarbitrary as­
 sessments continue.&quot; The legislation in the  
 discrimination it makes is class legisla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895040901:0319/pct:179.96965098634294,208.373786407767,50.22761760242792,10.194174757281553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895040901:0319/pct:45.009487666034154,52.09344660194175,12.561669829222012,2.5485436893203883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ in theory, it cannot exist in fact while tarbitrarn
 assessmenta continue.&quot;  
 The United States Supreme Court, in the cas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038796:1895050901:0131/pct:245.07428940568477,201.8175773024493,48.094315245478036,14.93959880305885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038796:1895050901:0131/pct:81.69142980189491,67.2725257674831,16.031438415159347,4.979866267686283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ vise any specific tax that will operate equally on the
 whole community.  
 He refers, in these words, to a form of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895051901:0823/pct:120.74592074592074,85.48876745598056,51.437451437451436,61.14146933819065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895051901:0823/pct:30.198212203653323,21.37219186399514,12.864360668480373,15.285367334547663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ that every man, by a definite and general rule,
 should know what proportion of his property  
 the State demands.AeaNDER HAMIITON, FO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897041301:0388/pct:287.6865671641791,21.817086032846166,49.776119402985074,14.464366430616243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897041301:0388/pct:71.9484882418813,5.454271508211542,12.448674878686077,3.616091607654061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -735,7 +735,7 @@ definite and general rule should know
 what proportion of his property tho State  
 demands Alexander Hamilton Vol 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1897042101:0735/pct:42.716095380029806,12.797744890768147,16.076751117734723,6.765327695560254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1897042101:0735/pct:32.05367126351099,9.59830866807611,12.07603428997391,5.07399577167019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

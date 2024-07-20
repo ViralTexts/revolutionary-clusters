@@ -62,7 +62,7 @@ Wheieupan,
 Jiisutved, That they do advise end consent to  
 the appointment, agreably to tho nomination.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840040401:0012/pct:51.024096385542165,116.53435114503817,19.779116465863453,6.061068702290076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840040401:0012/pct:38.280779272946376,87.40458015267176,14.842337818839125,4.549618320610687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ do advise and consent to the appointment of
 WILLIAM II. HARRISON, agreeably lo the  
 nomination.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840042501:0024/pct:29.889152810768014,81.52610441767068,38.9944576405384,45.44331170837195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840042501:0024/pct:22.431201742229263,61.1523015137473,29.241734310037618,34.09020698177325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ Whereupon,
 Resolved, That llicy do advise and consent to  
 the appointment, agreably to the nomination.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050901:0032/pct:29.9800796812749,116.0988336402701,19.58167330677291,6.062001227747084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840050901:0032/pct:22.499003587086488,87.07796193984039,14.687126345157433,4.542664211172498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ Whereupon,
 Resolved, That they do advise and consent to  
 the appointment, agreably to the nomination.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840060601:0048/pct:27.658730158730158,115.70776255707763,19.74206349206349,6.270928462709285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840060601:0048/pct:20.758086922008335,86.78843226788432,14.804524707283191,4.703196347031963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ Whereupon,
 Resolved, That they do advise and consent to  
 the appointments, agreeably to the nomination
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840090501:0096/pct:29.810725552050474,96.5945209626154,19.400630914826497,14.408960193733918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840090501:0096/pct:22.362453165056202,72.45345845315575,14.553342535988957,10.806720145300439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ and consent to the appointment &#x27; agreeably
 to the nomination.&quot;. . &#x27; , c - ,-: r3  
 &#x27; &quot;Ordered, I hat the Secretary . lay-thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027042:1848062101:0764/pct:92.5856065002902,56.67049368541906,16.729541497388276,14.695752009184845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027042:1848062101:0764/pct:69.47307301495137,42.50287026406429,12.556249092756568,11.03329506314581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ On the following day (July 3J the Senate resolved, unani­
 mously, “That they do adv ise and consent to the appoint­  
 ment, agreeably to the nomination.” The rank o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026213:print00211110119:1863020801:0001/pct:6.402328119316115,47.544046983449014,12.095307384503457,1.4415376401494928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026213:print00211110119:1863020801:0001/pct:6.402328119316115,47.547383876134546,12.113495816660604,1.4482114255205552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ whereupon it was resolved that they do advise
 and consent to the appointment according to  
 the nominotion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525255:1868040601:0273/pct:15.166420724708969,47.70009199632015,11.05099196589605,2.65639374425023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525255:1868040601:0273/pct:15.163934426229508,47.69460733586294,11.05327868852459,2.6589628607565827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ the United States.” And on the 3d of July.
 they “do advise and consent to the appoint­  
 ment agreeably to the nomination.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882091801:0265/pct:76.56418554476807,59.65137418457919,9.924487594390508,1.6148005560902576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882091801:0265/pct:76.57317511686443,59.65137418457919,9.919992808342323,1.6183652372295299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

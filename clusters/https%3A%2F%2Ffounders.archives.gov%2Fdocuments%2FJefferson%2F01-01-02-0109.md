@@ -797,7 +797,7 @@ of these events, the colonies are to return to their
 former connection and friendship with Great Britain,  
 but on failure thereof, this confederation to be per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022846:1858111301:0366/pct:8.473208521626857,11.623790417748406,40.41316978695933,117.7602076941232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022846:1858111301:0366/pct:6.3620216373324725,8.720793013924947,30.32455998708219,88.31720556997875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ their enemics for the securities of their liberties and praperl
 the safety of their persons and families and their mutual and  
 eral wellfare!&quot; and, hually, it was deolared that on fatlur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861071301:0581/pct:103.22145387080452,169.62577207218118,45.25215044695564,8.053772556618627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861071301:0581/pct:34.407151290268175,56.54192402406039,15.084050148985215,2.6845908522062087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -925,7 +925,7 @@ the first words of the arricle as follows:
 &quot;The sald Colonies unite them-eives so as  
 never to be divided by any act whatever, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861120201:0527/pct:85.46460821438974,117.23237597911228,37.15409263035246,10.955613577023499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861120201:0527/pct:28.488202738129914,39.07745865970409,12.384697543450821,3.6518711923411664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ the first words of the article as follows: &quot;The said
 Celonies unite themselves so as never to be divided  
 by any act whatever, and hereby severally,&quot; &amp;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861120701:0546/pct:260.814606741573,338.4034248300176,55.47752808988764,15.613195668597331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861120701:0546/pct:65.20365168539325,84.6008562075044,13.86938202247191,3.903298917149333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1057,7 +1057,7 @@ their former connection and friendship with Great
 Britain; but on failure thereof, this confederation  
 is to be perpetual.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872013101:0126/pct:246.6189339697693,189.8391916891988,44.630071599045344,25.33086665717945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872013101:0126/pct:61.691542288557216,47.4597979222997,11.164179104477611,6.332716664294862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1091,7 +1091,7 @@ friendship with great Britain; but on
 failure there of, this confederation is to be  
 perpetual.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1872022901:0453/pct:196.16055846422339,147.78692343531606,57.24258289703316,47.02593570430191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1872022901:0453/pct:49.05084006109535,36.946730858829014,14.313768274056295,11.756483926075477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

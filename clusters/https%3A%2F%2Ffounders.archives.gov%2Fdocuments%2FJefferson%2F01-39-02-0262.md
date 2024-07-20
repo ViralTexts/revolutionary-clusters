@@ -89,7 +89,7 @@ nominate yon to the Senate lor all extraordinary tnissi m to !|J
 Kruno-1; ami the circumstances are such as to render it &quot;&quot;  
 Impossible to decline. &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848012701:0108/pct:46.99532785564685,90.44505908976616,16.65861124536813,4.6140306763892385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848012701:0108/pct:46.99532785564685,90.44505908976616,16.66935180709951,4.622412203503479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ nate rou to the Senate for an extraordinary mission to France,
 and the eireumrtanees arc MM as to renter it impossible to  
 decline. Accept affectionate salutations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848012901:0059/pct:16.903225806451612,90.29355528062085,15.727598566308243,4.9600719829040605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848012901:0059/pct:16.903225806451612,90.29355528062085,15.741935483870968,4.97131931166348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ to France. Pray work night and day to
 arrange your affairs for a temporary ab­  
 sence, perhaps for a long one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763840:1880072801:0136/pct:67.1875,39.96267350985653,14.427570093457945,3.499358450950659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763840:1880072801:0136/pct:50.401635752884474,29.977837396477312,10.822257923178034,2.6245188382129943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ s les the Senate decide immediately, or later, ac-
  ees pernaps for a long one. Accept affectionate  
 et sea salntations  Ti. JeFElso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896081601:0014/pct:0.0,260.3308270676692,71.45003756574005,32.30075187969925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896081601:0014/pct:0.0,65.0827067669173,17.869222096956033,8.075187969924812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ temporary absence, perhaps for a long
 one. Accept affectionate salutations.  
 &quot;TH. JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021209:1896091001:0174/pct:10.15952980688497,92.63157894736842,37.23761544920235,15.816814764183185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021209:1896091001:0174/pct:7.624448645242596,69.47368421052632,27.95631169922285,11.866028708133971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

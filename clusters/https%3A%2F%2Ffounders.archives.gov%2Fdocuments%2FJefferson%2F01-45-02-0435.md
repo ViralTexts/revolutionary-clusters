@@ -260,7 +260,7 @@ first day of November, in the year of
 1 L our Lord one tuouaaud eight Lundred  
 and seventy-three, and of the Inde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1873111401:0262/pct:11.299519807923168,26.52392172933101,20.948379351740698,6.403032476180719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1873111401:0262/pct:7.536405945053295,17.682614486220675,13.976880348296051,4.2721032681077755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

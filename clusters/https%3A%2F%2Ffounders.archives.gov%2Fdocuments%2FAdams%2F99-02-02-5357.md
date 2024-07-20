@@ -297,7 +297,7 @@ and independent nation.
 JOHN ADAMS.  
 United States t June l1, 1798
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1798062901:0028/pct:7.301460292058412,49.471762097300115,16.583316663332667,16.877527064040695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184169:1798062901:0028/pct:7.3,49.46531038080334,16.586666666666666,16.87967310033038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ erful anil Independent Nation.
 JOHN HD AMS.  
 Lm&#x27;eJ States, fune Ilf, 179^*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798070201:0039/pct:50.18050541516246,50.71616137502984,22.040661219836593,14.860348531869182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798070201:0039/pct:50.1709726443769,50.710108604845445,22.04122340425532,14.86155865855114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ United States, Fune 21, 1798.
 My Dear S, &#x27;  
 THIS 1 expeé you will receive b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798070301:0528/pct:23.342175066312997,5.997060264576188,34.311124980496174,90.49485546300834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798070301:0528/pct:23.342175066312997,6.003593009962437,34.326728038695585,90.4915890903152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ Neither incompatible interests, nor
 ‘of the United States has&#x27; thought,  
 “that France wanted to_revolutioniz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809061301:0299/pct:76.93385214007782,26.823151770488515,16.8715953307393,67.20834587220384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809061301:0299/pct:76.9390402075227,26.823151770488515,16.866407263294423,67.21837696860267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -961,7 +961,7 @@ tionsin my meflage to the Senate nomina­
 ting Mr. Murray and others ministers and  
 envoys to France.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809061301:0300/pct:4.984375,3.0275868937356836,35.015625,92.2318494173887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809061301:0300/pct:4.994791666666667,3.0275868937356836,35.015625,92.2351691398599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ with the conditions and requisitions in my mes­
 sage to the Senate, nominating Mr. Murray anil  
 otliers ministers and envoys to France
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809061301:0046/pct:22.836230558096982,4.084113285523277,35.90118938700824,91.1632429804303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809061301:0046/pct:22.83205268935236,4.083616917841517,35.900719599951216,91.15621455193647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1352,7 +1352,7 @@ vernment, wounded as it may be, is 100
 to entertain the views of disturbance, wi  
 the other supposes, It ?m 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809061401:0044/pct:73.78548895899054,13.654223968565816,21.813880126182966,69.96070726915521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809061401:0044/pct:73.79600420609884,13.660772757039947,21.813880126182966,69.96725605762934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1539,7 +1539,7 @@ it Jmy message to the senate, nomtinating Mr.
   
 i . JOHN ADAMS;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809061401:0045/pct:5.241224555217182,2.331934822909552,45.760538547844206,93.65791784564348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809061401:0045/pct:5.251910028316503,2.335187172732299,45.760538547844206,93.66767489511172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1570,7 +1570,7 @@ c- to complete the others in this niwiner,
 !y if Mr. Gerry hyl :ot refused I  
 t,&gt; thereto.&quot; Bw let any ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809090401:0001/pct:58.68421052631579,10.897435897435898,35.850202429149796,83.30716902145474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809090401:0001/pct:58.690958164642375,10.897435897435898,35.85695006747638,83.3158904587476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1604,7 +1604,7 @@ j how a negociation might thereafter be
 b tion that a new plenipotentiary would  
 „ receive.&quot;—But did that envoy think i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809090401:0001/pct:75.93117408906883,41.287284144427005,18.11740890688259,13.788592360020932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809090401:0001/pct:75.9379217273954,41.287284144427005,18.130904183535762,13.80167451596023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1632,7 +1632,7 @@ avo-.v, that you think him too irresolute
 to he fit to hasten ;■&#x27; sion of an  
 affair of this kind .&quot; « Testimonies of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809090401:0001/pct:76.37651821862349,79.06855049712192,17.14574898785425,9.641548927263212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809090401:0001/pct:76.38326585695006,79.06855049712192,17.14574898785425,9.641548927263212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1650,7 +1650,7 @@ with Mr. Gerry, until the day of his departure, is a
 curious monument of advance* on your part, antf of  
 evasions cm his.”&#x27; That it is • curi&lt; us monument o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809090601:0659/pct:31.319910514541387,74.49847536510994,20.954511558538403,2.3591718825228694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809090601:0659/pct:31.312127236580515,74.48652118100128,20.95551689860835,2.3628048780487805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1678,7 +1678,7 @@ pondence, and declare, if ho can, that vour proles­
 Cations were not altogether vngtie, from the begin­  
 n:»»5 to the end—did you not know before the pub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809090601:0659/pct:52.92070594084017,12.164981543893436,20.929654486701466,8.361418712887177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809090601:0659/pct:52.90755467196819,12.163029525032092,20.930666003976143,8.364088575096277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1708,7 +1708,7 @@ returned. I gave hint the most solemn assurances
 | would receive.” but did that envoy tli.nk it impor­  
 I taut &lt; lly to know how a negotiation might hereafte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809090601:0659/pct:52.59756400695998,33.493821216498155,21.277653492418594,9.516931471673889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809090601:0659/pct:52.584493041749504,33.488446726572526,21.278578528827037,9.51941591784339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1733,7 +1733,7 @@ ted him ; that you will even avow, that you think
 him too irresolute to fit to hasten the conclusion of an  
 iiiuir of this kind.&quot; •* Testimonies of regard,&quot; sir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809090601:0659/pct:53.14441958737261,56.98924731182796,20.90479741486453,6.162734713529129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809090601:0659/pct:53.13121272365805,56.9801026957638,20.905815109343937,6.1657573812580235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1770,7 +1770,7 @@ know, sir, he did tmt. In his letters to your­
 tdf of tlie 4t t and 20th of April, ir9o, the  
 Jirst being be ore, and the last subsequent t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809090801:0145/pct:3.580657069029162,23.356573705179283,17.90328534514581,12.524900398406375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809090801:0145/pct:3.5799963092821554,23.353666127225196,17.906132742818478,12.527490767251754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1797,7 +1797,7 @@ f&gt;e tit to hasten the conclusion of an affair of
 ’his kind.” “ Testimonies of regard”. Sir,  
 In nego&lt; iations, inspire neither courage no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809090801:0145/pct:3.636028054632706,50.52290836653386,17.700258397932817,7.432768924302789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809090801:0145/pct:3.635357076951467,50.51661894684427,17.703143261364335,7.435993194738371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2170,7 +2170,7 @@ be received, respected and honored as the
 representative of a great, free, powerful  
 and independent nation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199367:1895122701:0080/pct:132.09894401851585,73.911227154047,38.00086792998698,7.258485639686684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199367:1895122701:0080/pct:44.03298133950528,24.637075718015666,12.666955976662328,2.4194952132288945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

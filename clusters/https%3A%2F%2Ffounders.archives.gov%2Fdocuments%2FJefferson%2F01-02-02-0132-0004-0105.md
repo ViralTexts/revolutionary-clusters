@@ -289,7 +289,7 @@ re before the Judge of our Soper or Court of Law, for
 &gt;1 the next term, to shew wherefore he hath not ren­  
 !ored unto William II. Minson, John Minson, Willia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830062901:0061/pct:82.23146634972515,82.50628858906929,15.287475857970584,4.436313743425566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830062901:0061/pct:82.2192513368984,82.49685606493655,15.290156466627055,4.439617392629854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ pear, and i he doth appear, then summon him, that lie
 be before the Judge ol our S-.prr.or Court of Law, for  
 Chestei field county, at tin Courthouse, on the first da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830070601:0070/pct:82.64512268102932,51.347631609129486,15.350089766606823,3.7274916848262416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830070601:0070/pct:82.63275991024682,51.341743119266056,15.352779855397657,3.7308868501529053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ there this writ. Witness, Robert Tinsley. Clerk of
 our said Court, at the the Courthouse, the 11th day  
 Suptemher 1841, and in the ofith year of the Cnm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1841102101:0098/pct:329.7090352220521,144.1457323343617,61.42802450229709,32.6869399147936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1841102101:0098/pct:82.41148325358851,36.031139835487664,15.354066985645932,8.170534665099883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ the county of King and Queen, at the Court­
 house on the first day of the next Court, to show  
 wherefore he hath not rendered unto John Roane
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844121001:0647/pct:30.213146519600535,75.45367717287488,13.712922939335222,9.637058261700096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844121001:0647/pct:30.213146519600535,75.45686087233365,13.717891389675561,9.640241961158866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ the county of King and GLueen, at the Court­
 hoiise on the first dav of the next Court, to show  
 wherefore he hath not rendered unto John Roane
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844121701:0656/pct:1.5924032140248356,84.20952199217632,13.513513513513514,4.608338898960023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844121701:0656/pct:1.6021426832237644,84.21270235028464,13.508643778914049,4.614699615176669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ next friend, a tenement containing one hundred
 acres of land, with the appurtenances, In the  
 county of King and Clueen; and have you the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1844122401:0013/pct:42.393538913362704,76.91802663665354,14.493392070484582,11.386231476270869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1844122401:0013/pct:42.40332843857073,76.92427937222534,14.493392070484582,11.386231476270869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ the county of King and Queen, at the Court­
 house on the first day of the next Court, to show  
 wherefore he hath not rendered unto John Roane
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1844123101:0021/pct:41.38443256090315,36.57050366561935,14.720736779560308,4.712939160239931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1844123101:0021/pct:41.38938403644286,36.573677362023545,14.720736779560308,4.712939160239931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ the county of King and (iueen, at the Court- {
 house on the first day of the next Court, to show :  
 wherefore he hath not rendered unto John Roane, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845010701:0029/pct:12.65468473777254,85.39026017344897,14.805539186800235,4.603068712474983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845010701:0029/pct:12.65468473777254,85.39343689443756,14.82518169318405,4.606245433463579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ the countv of King and Uueen, at the Court­
 house: onthe first day of the next Couit, to show  
 wherefore he hath not rendered unto John Roan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845011401:0037/pct:68.81752701080433,83.75653827864954,14.570828331332534,4.536376604850214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845011401:0037/pct:68.81752701080433,83.76287842764305,14.580832332933173,4.536376604850214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ the county ol King and Uueen, at the Court­
 house on the lirst day of the next Couit, to show  
 wherefore he hath not rendered unto John Roane
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845012101:0045/pct:27.7177089421391,51.556698086261065,14.143775569842198,7.807293154336856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845012101:0045/pct:27.7177089421391,51.556698086261065,14.143775569842198,7.810466850741058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

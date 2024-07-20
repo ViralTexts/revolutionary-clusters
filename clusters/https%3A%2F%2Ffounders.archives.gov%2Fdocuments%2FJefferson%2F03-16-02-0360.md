@@ -79,7 +79,7 @@ the law and the more fatal as hoingirro- &quot;
 pealablo but with the&quot; consent of the Sen-  
 ate, which will never be obtained
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033372:00200293897:1857071701:0124/pct:108.4448160535117,21.073446327683616,17.692307692307693,36.59604519774011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033372:00200293897:1857071701:0124/pct:81.37861803580391,15.805084745762711,13.284256315877531,27.45762711864407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ swap work, and make of them what all oxecutit
 directories become, mere sinks of corruption at  
 faction.&quot; Again, we say, how prophetic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014015:0041566106A:1857100701:0088/pct:38.98001789442291,7.063236870310825,14.181330152102595,6.9989281886388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014015:0041566106A:1857100701:0088/pct:38.984988567452035,7.070382279385495,14.191271498160852,6.9989281886388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ another in, and make of them what all
 executive directors become, mere sinks  
 of oorruption and faction.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472554:1872070401:0620/pct:4.684934966536179,63.09256182191379,10.670539209496148,8.718600332323332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472554:1872070401:0620/pct:4.333605887162714,58.35995419203182,9.878129502005217,8.076668073051655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ those in place sycophants to their Senators,
 engage them in eternal intrigue to put out  
 one and put in another.&quot; How accuratel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877031701:0877/pct:54.6004249060304,121.80545996788254,53.211309037424414,31.44069740766231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877031701:0877/pct:18.200141635343467,40.60181998929418,17.737103012474805,10.48023246922077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ and faction. It must have been one of the midmignt sig-­
 itures of the I resident, when he had no time to con  
 ir even to read the law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buick_ver01:data:sn83030214:00175039909:1882062601:0753/pct:243.98046013236686,184.8501914845686,46.20233217774977,18.866861905834647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buick_ver01:data:sn83030214:00175039909:1882062601:0753/pct:81.32682004412229,61.6167304948562,15.400777392583255,6.288953968611549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ works carried, leaving to the future the
 extension of the reform to state and  
 municipal government, a task rendere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206536949:1896100401:0349/pct:56.73006044523073,6.596589080767993,12.280701754385966,10.43655475705245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206536949:1896100401:0349/pct:56.739888938031356,6.6037398548392865,12.280701754385966,10.43655475705245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

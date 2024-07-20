@@ -52,7 +52,7 @@ of Cornwallis was in reality decided. In a let­
 ter which he then wrote to Sir Ilonry Clinton,  
 he represented his situation as so desperate?, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824091401:0269/pct:35.089399744572155,37.709121992917325,15.229885057471265,7.070460373671999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824091401:0269/pct:35.08379888268156,37.704517704517706,15.232774674115456,7.073667073667074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ ed there is no danger, which they w ill not
 clieeifully encounter ; no difficulty which they  
 will not bravely overcome
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824091701:0151/pct:63.57293525880253,13.779006853432728,30.926496835956513,82.79427678249368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824091701:0151/pct:63.562621674237505,13.77735032459726,30.92688730261735,82.78833052817184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ enemy, without returning a shot.
 &quot; The General reflects with the highest degree of plea- I  
 sure on the confidence which the troops of the two nation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853102201:0780/pct:18.628128889503525,16.373649650497775,15.751624948139954,7.095954246981572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853102201:0780/pct:18.628128889503525,16.377179975993787,15.765454294011894,7.099484572477582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

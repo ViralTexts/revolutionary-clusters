@@ -35,7 +35,7 @@ that the President of the United States
 be authorized to employ, as dispatch boats,  
 such of the revenue cutters of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032701:0001/pct:70.86640211640211,65.06450270495215,19.477513227513228,6.179775280898877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032701:0001/pct:70.89120370370371,65.0749063670412,19.485780423280424,6.169371618809821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -60,7 +60,7 @@ of arsenals and magazines, and for other
 purposes,&quot; with several amendments, to  
 which they desire the concurrence of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032701:0003/pct:30.3,68.57023759899958,19.5,7.523968320133389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032701:0003/pct:30.316666666666666,68.58065860775324,19.491666666666667,7.5135473113797415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ table and read the firjt time.
 Ordered, That this bill pass to the se­  
 cond reading
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794040201:0002/pct:70.69015304649149,59.40993219717794,18.94311290788334,16.73080447132124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794040201:0002/pct:70.70459139474444,59.41451346893898,18.9575512561363,16.73080447132124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ ad to provide for the erecting and repair­
 ing of arsenals and magazines and for o­  
 the&#x27;r purposes,&quot; was lead the third time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794040301:0001/pct:69.5775446555146,23.339483394833948,18.400907286645875,3.025830258302583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794040301:0001/pct:69.5846328324355,23.339483394833948,18.42217181740856,3.0488929889298895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ zines, and for other purposes &quot; That they
 have agreed that it would be proper, in­  
 stead of the amendments proposed to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794041001:0002/pct:9.18141592920354,6.9261695906432745,18.030973451327434,6.103801169590644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794041001:0002/pct:9.18141592920354,6.930738304093567,18.05862831858407,6.108369883040936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ poses&quot;—-The bill, entitled, &quot;An ast
 transferring, for a limited time, the ju­  
 rifdiftion of suits and offences, from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794042401:0002/pct:71.9034090909091,33.609271523178805,19.602272727272727,7.7078734363502575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794042401:0002/pct:71.9034090909091,33.613870493009564,19.630681818181817,7.7078734363502575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

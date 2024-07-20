@@ -51,7 +51,7 @@ vain. Attend to him, in opposition to all the courts in the
 world.&quot;So charges your affectionate Father  
 &quot;JoKN AdAMs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848041801:0190/pct:6.7998170452812925,99.07713341688505,40.79890227168776,23.914777258744447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848041801:0190/pct:2.266605681760431,33.02571113896168,13.599634090562585,7.971592419581482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ all the courts in the world.
 **So charges your affectionate lather.  
 “John Adam*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848042401:0378/pct:4.254909510974201,69.92863703808379,12.706969580284944,4.9388822157846395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848042401:0378/pct:4.254499951872172,69.92369648155999,12.70895498443867,4.940888323677641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ tion to all the courts in the world.
   
 &quot;So charges youl alfectionale I ather,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1848042801:0635/pct:35.085122131754254,257.8362573099415,47.44633604737232,13.391812865497077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1848042801:0635/pct:8.774527952610145,64.45906432748538,11.865975564605701,3.347953216374269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ your breast. See te it that this minister never
 negotiates in vain. Attend to bim, in opposi  
 tion to all the courts in tbe world, bo charg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848042901:0189/pct:24.58651399491094,111.66439290586631,16.889312977099237,5.081855388813097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848042901:0189/pct:18.450771433115953,83.75397908140064,12.676952441546048,3.808549340609368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ to him, in opposition to all the Courts in the
 world. So charges your affectionate Fither.  
 JOHN ADAMs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848042901:0357/pct:121.996708721887,299.6119016817594,50.99652587310295,23.195342820181114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848042901:0357/pct:30.49360146252285,74.89328676755918,12.746800731261425,5.798085629284698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ in opposition to all the courts in the
 world, So charges your affectionate  
 Father. „ on:; Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848050601:0167/pct:62.60697827518104,51.668240478438776,18.58678955453149,9.332703808624489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1848050601:0167/pct:48.53174603174603,40.0471621401854,14.404761904761905,7.241014799154334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ in the world.
 So cbarg&#x27;-s your alb**•tiunn’r lather,  
 IOUN IDA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688210:1848051001:0325/pct:34.660221779926076,36.245892132225016,14.216661927779358,8.428378117146723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688210:1848051001:0325/pct:34.660221779926076,36.25877956053869,14.235617477016396,8.428378117146723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ breast. Attend to him, in opposition lo&quot;&quot;afi the courts 1
 in the world. So charges your affectionate father  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849030701:0467/pct:106.86550365785031,119.02069554085769,20.934158694428813,7.0834222317047155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849030701:0467/pct:80.17168589924007,89.26818860678472,15.705037996059668,5.312566673778536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

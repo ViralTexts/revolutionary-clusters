@@ -67,7 +67,7 @@ the general interest and security of commerce, it has been pre
  which the United States can never have reason  
  to repent.-JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022801:0774/pct:0.15527950310559005,198.69716709589457,66.77018633540372,13.088925920315104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022801:0774/pct:0.038834951456310676,49.67429177397364,16.699029126213592,3.272231480078776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ only course of which the United
 States can never linvo reason to re­  
 pent.?James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898030501:0216/pct:5.467372134038801,72.61587639850826,18.224573780129337,8.803942461374534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898030501:0216/pct:5.467372134038801,72.62586574320724,18.244170096021946,8.807272242940863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ only course of which the United
 States can never have reason to re-­  
 pent.-James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1898031101:0251/pct:72.41977450130095,269.45290766989007,48.27406764960971,26.294873493177903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1898031101:0251/pct:18.104943625325237,67.36322691747252,12.068516912402428,6.573718373294476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ the blessing of peace whon forced upon us
 is the only course of which the United  
 States can never have reason to repent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898032401:0256/pct:76.80451701510758,92.56789524733269,9.79703952388219,3.6008729388942773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898032401:0256/pct:76.79279829111992,92.55667353618621,9.799359169972536,3.603467086919627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ forced upon us, is the only course of
 which the United States can never have  
 reason to repent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898041001:0504/pct:6.557377049180328,84.1722432353797,12.266152362584378,4.669770148385219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898041001:0504/pct:6.562198649951784,84.17588012801862,12.275795564127291,4.673407041024149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ the form of meal.
 If an egg is allowed to freeze. Its vital­  
 ity will be destroyed, and the first war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1898041401:0518/pct:51.981796829125074,108.40636958400198,14.386376981796829,12.171336871991112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1898041401:0518/pct:39.007196357761785,81.31094926552278,10.794536642678807,9.134674731514627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ me uiofesmg oi peace wnen roreeu upon us
 is tho only course of which tho United  
 States can never have reason to repent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023504:1898052701:0865/pct:77.5840202916931,59.714254789479384,21.845275840202916,5.303604286178158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023504:1898052701:0865/pct:51.744370440849984,39.809503192986256,14.573422137646686,3.5393440848576687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

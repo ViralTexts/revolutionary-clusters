@@ -60,7 +60,7 @@ far as we have heard--he
 trusted me with it, it was on that occasion  
 when I was enabled to use both for the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864042701:1141/pct:99.23469387755102,163.97480755773267,124.23469387755102,23.344996501049685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1864042701:1141/pct:24.813948543482883,40.99370188943317,31.065277482458004,5.836249125262421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +89,7 @@ If the affair of H e Chesapeake was ever avenged,
 it was not until live years later, when wo were  
 obliged to go to war, onr commerce having bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1864062501:0307/pct:32.61703760552571,57.12711747693155,14.33231005372218,6.872331634761053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1864062501:0307/pct:32.631427475057556,57.12711747693155,14.322716807367613,6.879217738603498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ learned nothing of diplomacy but its
 suspicions, without head enough to dis  
 tinguish when tbey were misplaced
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779416:1873072801:0701/pct:37.26890756302521,27.796123474515433,17.16386554621849,7.681263460157933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779416:1873072801:0701/pct:27.96806051691532,20.847092605886576,12.88085732296701,5.771715721464465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ on tho billow of laughter, and ho remains to this
 dayono of tho stock jests of Washington. Thus  
 ho recounted his woes, three years after th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873080301:0012/pct:29.044465468306527,14.086799276672695,13.126773888363292,3.019891500904159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873080301:0012/pct:29.0503784295175,14.095840867992766,13.132686849574267,3.015370705244123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ were misplaced ” Nevertheless he comes ,
 down to us borne on the billow of laugh- i  
 er and he remains to this dav one of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623513:1873081401:0577/pct:54.2001976563603,29.349340765355343,12.169984469857406,4.244827955836638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623513:1873081401:0577/pct:54.20490376017695,29.35648694036517,12.184102781307356,4.237681780826812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ Merry bad learned nothing of diplomacy
 but its suspicions without head enough to  
 distinguish when tbsy were mieplaced.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1873081601:0405/pct:72.86694998365479,25.564864178725564,10.918600849950964,1.408987052551409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1873081601:0405/pct:72.85504167347605,25.561619494859755,10.920902108187612,1.4119812158903413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

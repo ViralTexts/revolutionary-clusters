@@ -57,7 +57,7 @@ ding them with individuals, I hove declined let­
 ting my own birthday be known, and have enga­  
 ged my family not to communicate it.&quot; Ibi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830042601:0704/pct:3.305276123999179,84.84323074700188,14.678710737014987,5.114867793671435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830042601:0704/pct:3.3045977011494254,84.83097370702109,14.680829228243022,5.117740537416932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ individual*, I have declined letting my own birth-day
 be known, nnd have engaged my family not to coni­  
 tnunicatc it.&quot;— notion t&#x27;ourter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830052001:0480/pct:80.38744796669869,80.39333976833977,17.963496637848223,4.210907335907336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830052001:0480/pct:80.37457979830319,80.38364096996018,17.965956992689826,4.214420718220936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ individuals, 1 have declined letting my otvn birth-day
 lie known, and have engaged my family not to com­  
 municate itM—-IJoston (&#x27;mirier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830052101:0171/pct:22.79306505487514,82.56771268345067,17.70319707332591,7.576661496241498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830052101:0171/pct:22.78944020356234,82.55786208542114,17.70568278201866,7.579734351387895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ als, I &#x27;have declined letting my own
 birth-day be known, and have engaged  
 my family not to communicate it.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830063001:0060/pct:75.61082984811799,62.82637954239569,17.587497248514197,6.702557200538358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830063001:0060/pct:75.59419014084507,62.81792490916431,17.590962441314552,6.706140941102588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ be desirable for Congress to do what ianeces-
 sary in silence.&quot;  
 We have indited this article and quoted this 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1839100101:0075/pct:25.257888349514563,4.672600127145581,35.25485436893204,119.74994702267429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1839100101:0075/pct:18.950083447124868,3.507098961644416,26.44515248065544,89.81775799957619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ spplication of the kind.&quot;
 Oor modern Democrats do not tread eractly  
 in the footsteps of Jefferson. Their aversio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1840031001:0040/pct:8.205128205128204,142.11292671088822,55.64102564102564,22.13234104513833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1840031001:0040/pct:2.0525978191148173,35.528231677722054,13.919178960872355,5.533085261284582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ the better-and that it will be destrable
 for congress to do what is necessary, in  
 silence.&quot; And, in a letter to Wilson e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843120401:1000/pct:59.35352904434728,57.975018015853955,43.62898188632105,8.875810713427816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843120401:1000/pct:19.781420765027324,19.322685240782995,14.54072339318241,2.9582482686842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ any constitutional difficulty, the better : and that
 it will be desirable for Congress to do what is ne­  
 cessary, in silence.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1843120701:0764/pct:59.969392216878006,23.773638561069244,17.052907739396588,2.474050902886393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1843120701:0764/pct:59.95628415300546,23.770258743247087,17.05464480874317,2.477253340915553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ less that is said about any Constitutional difficulty the bet­
 ter, and that it will be desirable for Congress to do what  
 is necessary in silence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845010301:0017/pct:5.1762276950302315,26.261913166254853,38.23919775844271,4.706436051300153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845010301:0017/pct:1.7251548215865526,8.75294117647059,12.744519807333138,1.5686274509803921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ To Wilson Cary Nicholas, Sept. 17, 1893, vol.
 4th, page 2d, be says:  
 Whatever Corgren shall think it neccusery
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845010701:0227/pct:3.4896573503868624,255.44496487119437,42.50750039475762,8.337236533957846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845010701:0227/pct:1.1632191167956207,85.14832162373146,14.16916679825254,2.779078844652615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ better, and that it will be desirable for
 Congr ss to do what is necessary in  
 silence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845010901:0032/pct:107.3140749846343,208.55823863636363,42.65519360786724,10.203598484848484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845010901:0032/pct:35.765862651713014,69.51118475559238,14.216213448046295,3.4007969384937073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ that in said about any constitutional difficulty the better, and
 that it will be desirable- for Cougress to do what &gt;? necessary in  
 silence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845011801:0087/pct:52.089366983864295,6.210572112247117,15.170321334988277,1.7837720252338483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845011801:0087/pct:52.093964050935504,6.217823218040751,15.165724267917069,1.7801464723370315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ part&quot; of the United States. He did not propose any gen
 al grant of power to admit foreign States. All he asked  
 eis a mere affirmation by the people of the act admittin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845022001:0154/pct:95.62255399333236,180.4203152364273,37.49818814320916,24.95037945125511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845022001:0154/pct:31.869565217391305,60.13308428671492,12.497584541062801,8.315822242976108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ and obligations, on the same footing with
 other eitizens of the United States, in analo­  
 gous situations.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021168:00514152779:1846123101:0173/pct:67.56600779108354,68.02047401802604,12.552301255230125,13.586291309669523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021168:00514152779:1846123101:0173/pct:67.5708171019093,68.02418307926264,12.547491944404367,13.597418493379326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -824,7 +824,7 @@ sotting my own birthday be known, and have engaged
 my family not to commimicate it.&quot;  
 we quote this as copied from The Boston Courier, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870043001:0881/pct:2.4279702168986725,275.7794589637781,49.70864357397216,17.537826685006877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870043001:0881/pct:0.809323405632891,91.92648632125936,16.56954785799072,5.845942228335626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ kind.&quot;
 Celebrations of this character were far  
 more numerous in the early days of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036581:1889042001:0461/pct:56.171370282216934,34.39018464528669,11.645698741924516,4.859086491739553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036581:1889042001:0461/pct:56.184121047262835,34.39018464528669,11.645698741924516,4.865160349854228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ uniform answer to every application
 of the kind.&quot; It is said that, accordingly,  
 Jefferson&#x27;s birthday was neve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861964:1889052201:0141/pct:88.58819303077476,80.56412894375858,14.02227278170279,6.464334705075446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861964:1889052201:0141/pct:88.58819303077476,80.56984453589392,14.030255857581926,6.467192501143119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1005,7 +1005,7 @@ family not to communicate it This
 has been tho uniform answer to every  
 communication of tho kind 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069675:00206533420:1892042601:0380/pct:26.8879173290938,48.707068028112985,19.515103338632752,10.67497679352871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069675:00206533420:1892042601:0380/pct:20.182938954066415,36.533616231269065,14.655000994233445,8.006232595146532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1076,7 +1076,7 @@ lence. I find but one opinion about the
 necessity of shutting up the constitution  
 for some time.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109117:1897062601:0399/pct:41.87022900763359,12.319348954679388,16.77480916030534,4.012908657219026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109117:1897062601:0399/pct:31.424207712867506,9.2465272905851,12.581137838869797,3.0166970674898272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1116,7 +1116,7 @@ tions of land occupied by them until an
 amendment of the Constitution shaJl be  
 made for these purposes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041566574A:1898012801:0278/pct:28.32172606855114,27.69012944983819,12.72702444353407,11.215614886731391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041566574A:1898012801:0278/pct:28.32172606855114,27.696871628910465,12.731576312076108,11.212243797195253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ the uniform answer to every application of
 the kind.&quot;  
 But whatever Congress may do or not do
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022101:0684/pct:0.0,13.68147808825775,126.47058823529412,373.91968239425864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022101:0684/pct:0.0,3.4203695220644375,31.63601161665053,93.47992059856466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1181,7 +1181,7 @@ icans forget it, can they forget him
 Our Headless State Department.   
 In the very crisis of our relations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_echo_ver01:data:sn82016354:100493974:1898022601:0043/pct:111.7247623358986,44.37840515106488,89.7540365172778,342.79346210995544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_echo_ver01:data:sn82016354:100493974:1898022601:0043/pct:27.93119058397465,11.09460128776622,22.43850912931945,85.69836552748886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1201,7 +1201,7 @@ silence. I find but one opinion as to the
 necessity of shutting up the constitution  
 for soma time.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109154:1898050601:0370/pct:24.236641221374047,108.0781118291655,16.50763358778626,3.9898847991008712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109154:1898050601:0370/pct:18.19396716303933,81.06209609440855,12.390225276823214,2.992413599325653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1247,7 +1247,7 @@ have as to other portions of the Union
 generally, and to enumerate the special  
 exceptions, in some such form as fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892125:1898121301:0512/pct:49.86906710310966,6.937746602367382,14.36988543371522,5.534853134590092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892125:1898121301:0512/pct:49.87452264048009,6.937746602367382,14.380796508456083,5.542159871401432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1286,7 +1286,7 @@ find but one opinion about the ne­
 cessity of shutting up the constitut­  
 ion for some time.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_isabel_ver01:data:sn85030529:00212473893:1899031001:0891/pct:31.647398843930635,27.40803145183937,18.538398018166806,5.616399887672002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_isabel_ver01:data:sn85030529:00212473893:1899031001:0891/pct:23.750516315572078,20.55602358887953,13.919867823213549,4.226340915473181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1312,7 +1312,7 @@ not to communicate i:. This has been
 the uniform answer to every applica?  
 tion of the kind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:0017503139A:1899032501:0840/pct:33.50441387805379,65.74464987625564,16.526380619995894,6.114427136409958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:0017503139A:1899032501:0840/pct:33.51125709984261,65.74950259620518,16.519537398207074,6.11927985635949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1335,7 +1335,7 @@ for some time.&quot; Jefferson was inclined by the
 arbitrary use of his majority in Congress to  
 smother any objections that might b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:0020653901A:1899041401:0418/pct:124.11674347158218,244.52554744525548,50.614439324116745,13.138686131386862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:0020653901A:1899041401:0418/pct:31.029185867895546,61.13138686131387,12.653609831029186,3.2846715328467155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -143,7 +143,7 @@ tral commerce. The embargo was laid as
 being the fafeft cowrfc : It was considered  
 as the best mcans that could be resorted t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808030801:0038/pct:9.205085005360699,35.71928421473558,16.265890641752183,14.79556133160052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808030801:0038/pct:9.215295859498648,35.72261654836882,16.255679787614234,14.798893665233763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ To prevent our ships and vessels from
 leaving their ports, for the purpose of pre­  
 serving them as resources to meet a stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808030801:0084/pct:3.446947814365492,48.523892919689764,19.179664933564414,10.307730798098573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808030801:0084/pct:3.446284174046977,48.51782363977486,19.18238993710692,10.310610798415677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ ed the embargo, says, “ I deem it my duty to re­
 “ lion of the departure of our vessels from the ports  
 ; “ of the United States.” I shall not undertake t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808031601:1035/pct:50.72426937738246,91.1214953271028,22.236340533672173,4.9468256525942635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808031601:1035/pct:50.71138211382114,91.10681488641856,22.23704268292683,4.95005638794909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ and particularly the set men, from foreign
 countries, it was no more than cvci’v gorern­  
 Mient has a right to issue, and commonlr doe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809010301:0297/pct:76.78958785249458,53.20788077797424,17.335502530730295,6.933569083101793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809010301:0297/pct:76.77570938008314,53.20116176284885,17.338393879149347,6.936902807593551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ tage which may he expected from an in — j
 hibition of the depnrtute of our vessels from  
 the ports&#x27;of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810062901:0064/pct:23.34246575342466,8.96551724137931,18.319634703196346,8.784029038112523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810062901:0064/pct:23.3382030679328,8.96443261553351,18.32237643048454,8.786998951528348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ proclamation manifested a lessening not an
 increase of dangers to our seamen ; and u  
 h »d no relation to vessels or merchandize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811061401:0100/pct:29.22568460812087,59.581227436823106,22.285174693106704,7.5234657039711195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811061401:0100/pct:29.21878687750767,59.57262489171239,22.28581543544961,7.525989026855328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ allude to the fact that our government has
 refused to acknowledge the Confederates as  
 belligerents, though we may refer to i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021982:1861120201:0559/pct:78.65972674040339,102.44604316546763,49.772283669486015,21.45192936559843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82015672:00296021982:1861120201:0559/pct:19.671330946957372,25.611510791366907,12.447120078099577,5.362982341399608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

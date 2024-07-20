@@ -68,7 +68,7 @@ TH : JEFFERSON.
 Hy order of the Prr fident,  
 James Madison, Sec. of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807080401:0109/pct:44.74496278816482,89.46921958313136,16.917770920312215,4.277750848279205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807080401:0109/pct:44.73684210526316,89.45837877135587,16.92075015124017,4.281271456843976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ Vne Constitution, emperor of the French
 king of Italy and protector of the confe­  
 deration of the Rhine.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808022601:0073/pct:5.308898545248441,18.61888111888112,16.720196485924806,1.585914085914086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808022601:0073/pct:5.307895731016245,18.61655637407916,16.723334592620578,1.5898780538560786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ WE Napoleon Emperor of the
 French, King of Italy, and Protector of  
 the Confederation of the Phine, upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808030701:0357/pct:60.45485403937543,23.000916777019455,17.243720298710116,1.9761637974941428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808030701:0357/pct:60.44459528253861,22.99857404766755,17.245036483964025,1.9785088612752089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ bis Imperial Majesty Napoleon, Emperor of the
 French, King of Italy, and Protector of the Con­  
 federation of the ltiiine ; that they, their grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808121301:0264/pct:23.252835711672155,50.69978565124196,16.959385290889134,2.7739251040221915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808121301:0264/pct:23.248582403511982,50.693393847705494,16.962380342662033,2.7777777777777777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ Littornle, the part oi&#x27;Croatia, m.fl nil that has been
 ceded to os ffn tlte right bank of the Save; Dalma­  
 tia end its islands, *h«Ji hereafter bear the name o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809122201:0843/pct:9.093155423770694,42.290538388021666,20.92908327155918,7.502389295954125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809122201:0843/pct:9.090909090909092,42.28380315336837,20.930088932806324,7.505175983436853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ of Italy, and Protector of the Confederation
 of the Rhine,  
 We have decreed and do decree as fol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810030901:0392/pct:22.438580527752503,20.820650188725192,17.43403093721565,2.1429441129915987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810030901:0392/pct:22.434497816593886,20.818115412710007,17.436923823386707,2.146741335930525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

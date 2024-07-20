@@ -69,7 +69,7 @@ pation.” ‘ :
 It is presumed that you will con­  
 fider the inftra&amp;ions of the 23d o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799020601:0021/pct:6.716876729173071,59.467599339356845,16.492468490624038,13.387739240260371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799020601:0021/pct:6.72712368070499,59.47083778619774,16.48734501485808,13.387739240260371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ Concerning the public conduct tst character oj
 JOHN ADAMS, Es^  
 Prejident of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800103001:0002/pct:53.56521739130435,16.5164198325821,24.52173913043478,20.009658725048293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800103001:0002/pct:53.58385093167702,16.524468770122343,24.503105590062113,20.01770766258854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ Concerning the public conduct iSf character oj
 JOHN ADAMS, Esq^  
 P. (Jidcnt of the United Stales
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800110301:0002/pct:59.94072610521116,67.59660092993427,17.090639664114597,20.795254128587462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800110301:0002/pct:59.946900469251666,67.6046176046176,17.0968140281551,20.795254128587462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ concerning the public conduct and character ol
 John Adams, Efej. l&#x27;rcfident of the United  
 States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800120101:0002/pct:27.95646916565901,81.79498724298364,21.136638452237,2.4013207263995198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800120101:0002/pct:27.95646916565901,81.79998999449697,21.136638452237,2.4113262294261846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,13 +321,13 @@ der Hamilton, concerning the public con­
 duct and character of John Adams, Esq.,  
 President ol the United States.” It was th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837112301:0262/pct:7.661612130885874,12.595276771210797,14.381484437350359,2.049231538173185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837112301:0262/pct:7.660389403127993,12.593703148425787,14.38450899031812,2.0531400966183573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1846-12_4_6/page/n81/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1846-12_4_6/page/n81/mode/1up?view=theater)
 
 #### 1846-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -406,7 +406,7 @@ acter of John Adams, Es, President
 of the United States,&quot; in which he stated  
 his reasons for opposing Adams an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198910:1884112901:0717/pct:70.88917947041517,332.9616724738676,44.47531873161164,19.465737514518004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198910:1884112901:0717/pct:17.722294867603793,83.2404181184669,11.11882968290291,4.866434378629501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ powerful and independent nation.”
 The almost universal belief in the  
 country was that war with the Frenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210697:1898032501:0558/pct:26.55812324929972,38.46036585365854,11.099439775910364,3.8871951219512195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210697:1898032501:0558/pct:26.55347453176965,38.45450388660265,11.101872921407317,3.8904130467916476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

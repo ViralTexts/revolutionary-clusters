@@ -120,7 +120,7 @@ Georgia company** purchafe, in the manner follow­
 ing, that is to f.iy ; thirty-one thoufand dollars to be  
 drpofited previous to the palling of this aift, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805011501:0316/pct:22.11820851688693,71.69881767268201,17.51101321585903,12.557560672059738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805011501:0316/pct:22.114149385208297,71.68989547038328,17.51391692665321,12.560146009623361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ the latitude of thirty-fourdegrees nwth of 1
 the equator thence a due west course to !  
 the Mississippi river, thence down the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805082801:0309/pct:41.23452012383901,62.8503750493486,18.711300309597522,9.435452033162258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805082801:0309/pct:41.2265428516154,62.8421052631579,18.714129102985748,9.43859649122807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ or river called the Althamaha, and westward
 from the heads of the said rivers respectively,  
 in direct lines to the south seas, and all land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897091301:0358/pct:169.9470098410295,148.98785425101215,50.26495079485238,13.13540260908682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897091301:0358/pct:42.48675246025738,37.24696356275304,12.566237698713095,3.283850652271705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ westward from the heads of the said
 rivers respectively in direct lines to the  
 South sea, and all lands lying withi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023061:1897092301:0376/pct:23.107734806629836,26.356343677432974,14.62707182320442,1.8893814650622758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023061:1897092301:0376/pct:17.336648708385137,19.769896559003588,10.968365796380716,1.4249525015832805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

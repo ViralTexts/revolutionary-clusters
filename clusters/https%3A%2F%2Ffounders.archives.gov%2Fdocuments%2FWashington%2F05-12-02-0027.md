@@ -103,7 +103,7 @@ of attaining and helding the highest offices that
 are known tn the united Slates.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855052301:0418/pct:77.18096611391492,83.47725222322464,17.05118961788032,5.554839541177987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855052301:0418/pct:57.92605951307484,62.61116123211754,12.804328223624887,4.162907591184431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ al and individual capacities taste those blessings
 ; which a gracious God bestow s upon the right­  
 eous. GEORGE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855091101:0262/pct:60.54196959682749,26.14651578320429,11.4738929279577,13.688703593408775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855091101:0262/pct:60.533967750462594,26.143920595533498,11.475680676711605,13.689826302729529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ attaining and holding the highest offices that are.
   
 known in the United States:&quot;1 Vol. XII., page 202.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855121401:0416/pct:48.378522062732586,12.46414086457612,20.361509835194045,10.475813631417548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855121401:0416/pct:36.29353895240627,9.34810564843209,15.275192767880883,7.864279355030171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ e  an in o o onei eeon an i e
 furniched of those who audaciously assribe to the great  
 Washington any illiberal or proscrip ive sentiment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022301:0431/pct:42.3211024406442,147.02857142857144,53.12966959986718,14.491428571428571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856022301:0431/pct:14.107034146881398,49.00952380952381,17.70988986662239,4.83047619047619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

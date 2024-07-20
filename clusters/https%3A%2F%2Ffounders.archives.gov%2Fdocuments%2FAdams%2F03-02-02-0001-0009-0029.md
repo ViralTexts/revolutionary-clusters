@@ -107,7 +107,7 @@ Himself would be the last to desire that his
 praises be sounded before men. But it i­  
 fitting that we should recognize the beaut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1873110701:0605/pct:133.05380852550664,86.68054110301769,38.7141858839972,18.366285119667012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1873110701:0605/pct:33.27507864383083,21.670135275754422,9.681929395316322,4.591571279916753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ salth unto him, Come and see.
 salth of him, Behold an Israelite indeed, In  
 whom is no guile 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1886040801:0203/pct:53.752233472304944,32.0522030651341,14.27933293627159,2.6340996168582373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1886040801:0203/pct:40.32762472077439,24.042145593869733,10.707371556217424,1.9755747126436782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ deed, in whom is no gutle.&quot; What a testl­
 mony from the searcher of hearts! Na  
 thanael must have been a true worshiper u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1894081601:0261/pct:247.76632302405497,261.5566735720627,57.81786941580756,10.890796093518793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1894081601:0261/pct:61.968199398367,65.38916839301568,14.460678985818651,2.722699023379698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ deed, in whom is no guile.” What a testi­
 mony from the searcher of hearts 1 Na­  
 thanael must have been a true worshiper u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894081801:0188/pct:35.70175438596491,66.0959432361561,13.991228070175438,2.699367576739164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894081801:0188/pct:35.69392677044508,66.08574953732264,13.99364174523131,2.7028069093152376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ ing to him and saith of him, “ Be­
 hold an Israelite indeed in whom  
 there is no guile.” Nathaniel said,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1895011001:0293/pct:7.593220338983051,94.14933413137813,15.909604519774012,3.2021547209337125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1895011001:0293/pct:7.591504744690465,94.13524835427887,15.91165838228649,3.20541591861161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ Israelite indeed, in whom there is no
 guile.&quot; Oh, how sweet it would be if ho  
 would only say that of us when he sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1896062401:0862/pct:73.7062937062937,42.96543749196968,15.0,4.188616214827188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1896062401:0862/pct:55.299055613850996,32.22407811897726,11.262679258481986,3.147886419118592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

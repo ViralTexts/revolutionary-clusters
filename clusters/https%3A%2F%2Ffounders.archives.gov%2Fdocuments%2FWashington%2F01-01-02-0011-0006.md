@@ -194,7 +194,7 @@ ADAPTED to the climates and seasons of tha Unit
 ed States; Containing a complete account of all too  
 work necessary to be done in to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851032601:0285/pct:105.31088082901555,102.82138311412812,20.17846862406448,13.120492151039457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851032601:0285/pct:78.99812868864258,77.12134068731439,15.143227292356412,9.843020789138736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ A DA PT ED to the climates and seasons of the Unit-
 ed States; Containing a complete account of all tha  
 work necessary to do done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851032601:0287/pct:104.97142857142858,116.8750667949129,20.071428571428573,2.639734957785615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851032601:0287/pct:78.75107173478136,87.65630009618468,15.06144612746499,1.9878166078871433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ ITIcinauou&#x27;a American Gardened.
 ed States; Containing a complete account of all taa  
 work necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851032601:0172/pct:104.83972344437461,115.60577526679222,19.65744814582024,2.686754551161331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851032601:0172/pct:78.66687627731488,86.70433145009416,14.761829900958968,2.0213433772755804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ ADAPTED to the climates and season, of the Unit­
 ed State.; Containing a complete account of all the  
 work necessary to be done in the - &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851032901:0177/pct:28.2354797979798,103.5317608885561,19.87058080808081,14.538874329215025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851032901:0177/pct:21.18389897395422,77.64882066641707,14.901341752170481,10.907275677024835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ ADAPTED to the climates and seasons of the Unit­
 ed States; Containing a complete account of all the  
 work: necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851040201:0292/pct:91.3516609392898,115.57682083997874,20.13172966781214,2.7432216905901115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851040201:0292/pct:68.52355721036804,86.68793195108985,15.108119719318344,2.052099946836789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ ADAPTED to the climate, and season, of the Unit­
 ed States; Containing a complete account of all the  
 work necessary to be done in the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851040901:0189/pct:29.873817034700316,113.09004857391955,19.558359621451103,2.578154191057417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851040901:0189/pct:22.41678498185834,84.81753643043966,14.671083767155702,1.942956781666459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ A DAPTED to the climates and seasons of the Unit-
 XA.ed States; Containing a complete account of all the  
 wora necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851041901:0201/pct:51.41955835962145,60.62034739454094,19.63722397476341,2.6054590570719602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851041901:0201/pct:38.57683811928053,45.47146401985112,14.736509940044177,1.9478908188585609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ A DAPTED to the climates and seasons of the Unit­
 XjLed States; Containing a complete account of all the  
 work necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851042301:0304/pct:49.240687679083095,51.63426618243965,20.25787965616046,11.568041016876736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851042301:0304/pct:36.944683290341075,38.73104037598804,15.204929779306392,8.673360393078402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ A DAPTED to the climates and seasons of the Unit-
 .XjLcd estates; Containing a complete account of all the  
 worn necessary to be done in tn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851042301:0205/pct:50.924764890282134,60.869565217391305,19.670846394984327,2.6459627329192545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851042301:0205/pct:38.209470053308245,45.65217391304348,14.769520225776105,1.9875776397515528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ ADAPTED to the climates and seasons of the Unit­
 ed States; Containing a complete account of all the  
 work necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851042601:0209/pct:9.44267515923567,61.71081950977965,19.522292993630572,2.562515474127259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851042601:0209/pct:7.087115782767957,46.28620945778658,14.652014652014651,1.9187917801435999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ DAPTED to the climates and seasons of the Unit­
 ed States; Containing a complete account of all the  
 work necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851043001:0213/pct:10.072738772928526,61.44833603390253,19.275774826059457,1.8446964975694877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851043001:0213/pct:7.56089844985764,46.092484108188955,14.457450173995571,1.3835223731771158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ ADAPTED to the climates and seasons of the Unit-
 ed States; Containing a complete account of all the I  
 worn necessary io ue done in tn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851051001:0225/pct:9.119696010132996,60.92039800995025,19.74350854971501,2.5248756218905473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851051001:0225/pct:6.840855106888361,45.69651741293532,14.821852731591449,1.890547263681592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ ADAPTED to the climates and seasons of the Unit­
 ed States; Containing a complete account of all the  
 work necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851052101:0320/pct:111.08232584916523,97.92316797589584,20.077720207253886,2.582589045518132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851052101:0320/pct:83.34293118341492,73.44237598192187,15.059026778001728,1.947702571828258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ A DA PTE D to the climates and seasons of the Unit-
 XJLed States; Containing a complete account of all the  
 work necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851052101:0237/pct:10.294117647058824,60.73862932209691,18.854489164086687,2.590159871111662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851052101:0237/pct:7.725654126025701,45.557070268930474,14.15079733704908,1.9457181806915356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ ADAPTED to the climates and seasons of the Unit­
 ed States; Containing a complete account of all tbo  
 work necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851052401:0241/pct:112.38110336081166,102.26734770150742,19.197844007609383,2.6535442880279057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851052401:0241/pct:84.30315522435389,76.70362526473153,14.396702077057238,1.993272704621901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ ADAPTED to the climates and seasons of the Unit­
 ed States; Containing a complete account of all the  
 work necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851053101:0249/pct:50.8418043202033,25.180303407112657,19.837992376111817,2.7232031832877395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851053101:0249/pct:38.147442008261834,18.888336234767472,14.887194153161742,2.0392937080328277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ ADAPTED to the climates and seasons of the Unit­
 ed States; Containing a complete account of all the  
 I work necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851060701:0257/pct:50.06361323155216,74.80649188514357,20.403944020356235,10.898876404494382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851060701:0257/pct:37.559656379255486,56.10486891385768,15.319758192809418,8.177278401997503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ ADAPTED to the climates and seasons of the Unit­
 ed States; Containing a complete account of all the  
 work necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851061101:0261/pct:50.57034220532319,82.53296840009953,19.581749049429657,2.625031102264245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851061101:0261/pct:37.94579172610556,61.90594675292361,14.709145664923126,1.9656631002737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ A DAPTED to the climates and seasons of the Unit-
 r ed States; Containing a complete account of all the  
 work necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851061401:0265/pct:111.25869702719798,81.23754980079681,19.19671094244149,10.408366533864541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851061401:0265/pct:83.45721967420528,60.93127490039841,14.407717855448363,7.806274900398407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ ADAPTED to the climates and seasons of the Unit­
 ed States; Containing a complete account ofall th  
 work necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851061801:0269/pct:112.77208706786172,80.21104903786468,19.190140845070424,11.036623215394165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851061801:0269/pct:84.60060829198015,60.16139044072005,14.390907635665119,8.280571073867163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ ADAPTED to the climates and seasons of the Unit­
 ed States; Containing a complete account of all ihe  
 worn necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851070901:0293/pct:111.13207547169812,86.8041749502982,19.41823899371069,2.60934393638171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851070901:0293/pct:83.3621638622425,65.1093439363817,14.577763799339518,1.9507952286282306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ ADAPTED to the climates and seasons of the Unit­
 ed States; Containing a complete account of all the  
 work necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851072301:0356/pct:111.25071387778412,79.3424716213322,19.845802398629356,11.094452773613193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851072301:0356/pct:83.47378945864877,59.50953094881131,14.897871732609627,8.320839580209896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ A DAPTED to the climates and seasons of the Unit-
 f ed States; Containing a complete account of all the  
 work necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851080601:0322/pct:84.72222222222223,98.60954528372793,19.949494949494948,10.610046348490542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851080601:0322/pct:63.551696921862664,73.95715896279594,14.964483030781373,7.966929725667042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ ADAPTED to the climates and seasons of the Unit­
 ed States; Containing a complete account of all the  
 work necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851083001:0350/pct:85.60116354234002,109.1998502059668,20.232708468002585,2.5964299088752965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851083001:0350/pct:64.23605497170574,81.8998876544751,15.181891673403396,1.9473224316564723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ ADAPTED to the climates and seasons Of the Unit­
 ed States;- Containing a complete account of all the  
 work necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851090301:0354/pct:85.49935979513444,99.97492477432297,20.134443021766966,10.669508525576731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851090301:0354/pct:64.14278853849848,74.98746238716149,15.111253401632784,7.998996990972919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -913,7 +913,7 @@ iricITIaliou&#x27;s A merican . Gardener. -
 ADAPTED to the climates and seasons. of the Unit  
 ed States ; Containing a complete account, of all the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851091701:0370/pct:105.44239338001273,102.00818148010413,20.00318268618714,1.8966158423205652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851091701:0370/pct:79.11493155046163,76.50923515557209,15.011142948105698,1.4255609272344119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -945,7 +945,7 @@ ADAPTED to the climates and seasons of the Unit
 ed States; Containing a complete account of all the  
 work necessary to be done in the &quot; . .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851092701:0382/pct:43.346007604562736,89.70149253731343,20.183776932826362,12.114427860696518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851092701:0382/pct:32.51980982567353,67.27611940298507,15.150554675118858,9.092039800995025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -963,7 +963,7 @@ ADAPTED to the climates and seasons of the Unit
 cd States; Containing a complete account of all the  
 work necessary to be done in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851100101:0386/pct:43.439490445859875,98.42646512204188,20.17515923566879,2.4160574897782183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851100101:0386/pct:32.584806497849975,73.81984884153141,15.145723841376014,1.821335646140503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ The American Gardener&#x27;s Calendar, adapted
 containing a complete uistory til all the work ne­  
 cessary to be done in the Kitchen. Garden, Frui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:0041421597A:1857091501:0266/pct:20.945220193340493,29.14293556577232,13.016307001269407,2.127221574143965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:0041421597A:1857091501:0266/pct:20.943175161101347,29.14093591327021,13.018290698431295,2.1293627921869995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

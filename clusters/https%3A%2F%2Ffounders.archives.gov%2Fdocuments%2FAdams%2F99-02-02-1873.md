@@ -346,7 +346,7 @@ beloved country, I avail myfelf of your leave of *b- m
 fence for the remainder of the fefiion.  
 P
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797021601:0003/pct:6.330935251798561,6.005345071529634,40.7673860911271,86.66876277314887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797021601:0003/pct:6.342925659472422,6.017135670492061,40.76139088729017,86.67269297280302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ the aohruie ouciuons. dinunli cooj oictures, dan­
 gercus emergencies, and an.mated debates upon the  
 great i«
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1797022301:0223/pct:3.2233009708737863,2.0004763038818765,53.43689320388349,87.4493927125506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1797022301:0223/pct:3.222049689440994,2.0,53.42585403726708,87.43452380952381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ the virtues, liberties, profperiiy and peace of our
 beloved country, 1 avail myielf of your leave of ab­  
 le it ce for the remainder of the lcflion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1797022301:0223/pct:29.902912621359224,38.628244820195285,26.9126213592233,19.480828768754467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1797022301:0223/pct:29.891304347826086,38.61904761904762,26.911878881987576,19.482142857142858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ of our beloved country, I avail my­
 felf of your leave of absence for the  
 remainder of the feflion. ‘
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797031101:0249/pct:9.512832334409097,7.125843588725685,81.83494698017519,85.2520841603811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797031101:0249/pct:9.512832334409097,7.125843588725685,81.84519235694893,85.25870054254334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1348,7 +1348,7 @@ that had ot the members trom w hose judgement
 freedom of deliberation and independence of  
 thought which they asserted for themselves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843030601:0222/pct:82.51694094869313,18.2493694185016,14.714424007744434,9.530301997409502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843030601:0222/pct:82.50895363469171,18.248125426039536,14.716226244635886,9.531924562599409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1396,7 +1396,7 @@ disposition to allow me the same freedom of deliberation
 and independence of thought which they asserted for them  
 selves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843030701:0023/pct:50.92429577464789,118.98760118864638,48.444835680751176,17.184137719028588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843030701:0023/pct:16.974765258215964,39.66253372954879,16.14827856025039,5.728045906342863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1423,7 +1423,7 @@ aim at be our Country&#x27;s Gocd&#x27;s, and Truth&#x27;s.
 With cordial wishes for your health and happiness, and  
 fervoat prayers for the peace, prosperity, and lasting ibert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843030701:0023/pct:50.93896713615023,169.86371554462548,48.09272300469483,16.75376575468798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843030701:0023/pct:16.97965571205008,56.62123851487516,16.030907668231613,5.584588584895993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1443,7 +1443,7 @@ teulings of the heart, I have experienced a uniform
 Ph eness from every quarter of this house. When,  
 in the trial of opinion upon quesious of maportanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843030801:0208/pct:100.2173238124806,69.90535521744339,44.256442098727106,9.464478255660717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843030801:0208/pct:33.40058978736614,23.298993770963104,14.749857726731854,3.154448171218655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1485,7 +1485,7 @@ same freedom of deliberations and &#x27;tide­
 peadence of thought which they asserted  
 for themselves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1843030901:0453/pct:1.7119464086341645,5.033603072280894,26.125790844808336,92.2370045261281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1843030901:0453/pct:1.7116279069767442,5.032912781130006,26.12558139534884,92.22778387273725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1516,7 +1516,7 @@ life, let nil the ends we ami at bo our
 With cordial wishes for your health and  
 happiness, and fervent prayer forthepeace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1843030901:0453/pct:14.663193152214365,34.46715128240296,13.323409006326758,10.067206144561789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1843030901:0453/pct:14.66046511627907,34.46242457487658,13.325581395348838,10.069253976961054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

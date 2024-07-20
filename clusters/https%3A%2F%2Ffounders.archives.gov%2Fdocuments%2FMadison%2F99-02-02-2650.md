@@ -85,7 +85,7 @@ plication of it to herself. The same may be
 aid ef nnllilcation, whloh she now preaohes  
 as the only faith by whloh the Union can b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859121201:0385/pct:7.688966116420504,25.884861407249467,18.853171155516943,5.614783226723525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859121201:0385/pct:5.780095610604085,19.417199715707177,14.146023468057367,4.2075337597725655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ and I shall be glad to see the task commenced
 by one who understands the subject ; and  
 again, if a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1860112401:0082/pct:41.231236937108115,81.79625425652668,15.94147824434733,5.519296254256527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1860112401:0082/pct:31.95405683993521,63.39478796320053,12.359495410592451,4.277388850199758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ coerce in the federal articles, that bring in­
 herent iti-lhe compact.” The singular posi­  
 tions orthc Message upon the right of Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1860120801:0090/pct:25.397716638592552,55.78664402942841,15.75893692682014,2.8720996038483304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1860120801:0090/pct:19.687666199294107,43.23830409356725,12.222598269109897,2.22953216374269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ much fermentation there, and created an
 alarm against the danger of consolidation  
 balancing that of disunion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860121301:0563/pct:68.67599569429494,66.82474671265359,45.532831001076424,140.63375727527483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470284:1860121301:0563/pct:17.168998923573735,16.706186678163398,11.383207750269106,35.15843931881871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ States&#x27; must be prohibited. Let thein keep their
 slave property in their own borders, and their only  
 alternative will bo emancipation by their own ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860121301:0152/pct:70.55683610336042,10.159817351598173,13.987625864369768,46.58412363891816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860121301:0152/pct:70.56492377370698,10.162744409319751,13.987625864369768,46.587050696639736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ name should view secession in the light j
 mentioned. The essential difference between ;  
 a free Government and a Government not 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860122001:0169/pct:19.997173544375354,82.3442760942761,14.245336348219332,12.626262626262626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860122001:0169/pct:20.006595063124177,82.35129068462402,14.245336348219332,12.626262626262626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ for much fermentation there, and created
 | an alarm against the danger of consolidation  
 ; balancing that of disunion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860122001:0169/pct:34.228377614471455,16.96127946127946,14.104013566986998,37.58417508417509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860122001:0169/pct:34.228377614471455,16.968294051627385,14.113435085735821,37.580667789001126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -943,7 +943,7 @@ we, the peeple of the United States, are di­
 vided in sentiment upon the important sub-  
 Jct of slavery, theretore our Governmenta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861010401:0018/pct:118.24855794441531,223.5972732039853,42.78972207656004,43.67068694284216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861010401:0018/pct:29.562139486103828,55.89931830099633,10.69743051914001,10.91767173571054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1047,7 +1047,7 @@ leaven for much fermentation thers, and
 created an alarm against the danger of  
 consolidation balaneing that of disunion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056248:00200294543:1861011001:0392/pct:124.10671748451644,129.33594844494257,50.547879942829915,202.37227981694218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056248:00200294543:1861011001:0392/pct:31.03037522334723,32.33398711123564,12.638475282906493,50.593069954235546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1073,7 +1073,7 @@ In a letter to Andrew Stevenson, dated Feb. 4,
 1833. he said:  
 &quot; I have received your communication of the 29t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861011201:0025/pct:65.98934043970687,101.86638135996196,20.28647568287808,8.155016642891107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861011201:0025/pct:49.50857904381143,76.40275796481217,15.209062135598867,6.122206371849739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1154,7 +1154,7 @@ we shall now deal with the question as one of revolu-
 to and coneider  
 Aist the caunes alleged as governing the action of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861011901:0174/pct:5.2990897269180754,247.71182600815587,48.00065019505852,44.27956502038967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861011901:0174/pct:1.7663632423060251,82.5706086693853,16.000216731686173,14.759855006796556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1263,7 +1263,7 @@ sent, or absolved by an intolerable abuse of
 the power created.&quot;  
 In tho same letter, Mr. Madison alludes t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1861021501:0063/pct:32.46732547019445,61.473759033289895,14.424609499521836,12.889468072503258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1861021501:0063/pct:32.47795133354585,61.473759033289895,14.435235362873234,12.893417051692138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1281,7 +1281,7 @@ fect that it was not necessary to find a &quot;right
 to cocrcc iu the Federal articles, that being  
 inherent in the nature of a compact/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1861021501:0063/pct:32.626713420465414,74.97926785925839,14.233343959196684,2.2746120127946927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1861021501:0063/pct:32.63202635214111,74.97926785925839,14.233343959196684,2.2785609919835723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1457,7 +1457,7 @@ a leaven for much fermentation there and created an
 alarm against the danger of consolidation balancing  
 that of disunion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022652:1861022001:0457/pct:86.55261221486387,28.08483290488432,20.52980132450331,46.7866323907455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022652:1861022001:0457/pct:64.94295178505705,21.066838046272494,15.403018034596982,35.08997429305913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1494,7 +1494,7 @@ one who understands tho subject.
 The French Emperor on Skates  
 His Enjoyment of Tit e Si&#x27;ort. Ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1861022101:0867/pct:106.27147766323024,90.98070106341079,16.993127147766323,33.00512012603387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1861022101:0867/pct:79.74901151796459,68.24209006170409,12.755716004813477,24.760404358671394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1566,7 +1566,7 @@ of the parties, owes fidelity to it till released by i
 consent or absolved l-v an intolerable abuse of !  
 the power created. It is high time that the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861031201:0515/pct:75.98171059709522,52.76933633957455,13.031199569661108,9.371630232330164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861031201:0515/pct:75.9861932938856,52.76933633957455,13.035682266451497,9.37816553932621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1820,7 +1820,7 @@ These extracts from Mr. Madison’s letters
 are quite enough to show that the Virginia  
 resolutions never were meant to justify th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861062801:0495/pct:31.114463511220062,28.915011484934467,12.936073920422402,9.214970949871638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861062801:0495/pct:31.114463511220062,28.918389406836916,12.940788233075617,9.221726793676531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1966,7 +1966,7 @@ Tlrginia Resolutions of 1798. adverse to
 this pYlnciple, which Is that of common  
 sense and cnmmnn justice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190741:1864091401:0249/pct:57.55170755170755,23.464130003963536,13.516113516113515,10.503369005152596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190741:1864091401:0249/pct:57.557720057720054,23.478993261989693,13.522126022126022,10.503369005152596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1994,7 +1994,7 @@ coerce in the Federal Articles, that being
 inherent in the nature of a compact.  
 In 1881 the State of Sooth Carolina at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190741:1864091401:0249/pct:57.503607503607505,33.67023384859294,13.41991341991342,7.411811335711454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190741:1864091401:0249/pct:57.52164502164502,33.68014268727705,13.41991341991342,7.406856916369401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2115,7 +2115,7 @@ a right to eocrce in the Federal articles, that
 ing inherent in the nature of a compact  
 In 1832 the State of South Carolina attempte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1864092301:0375/pct:61.956348574159634,85.02143018272051,14.752270192767245,7.3426573426573425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1864092301:0375/pct:61.96696935903563,85.02894954507858,14.757580585205247,7.335137980299271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2133,7 +2133,7 @@ political system a system without a reason for preferring for the purpose a
   
 feet structure,, distributing, the powers oPthafr it was not .necessary to find a righ$ growing-brighter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287459:1864100601:0237/pct:45.73899371069182,124.81284582836064,47.16981132075472,2.451990886405555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287459:1864100601:0237/pct:34.318968229002834,93.60963437127047,35.38848694558037,1.8444179234024085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2283,7 +2283,7 @@ created an alarm against the danger of consocia­
 tion balancing that of disunion.  
 “ With cordial salutations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1867101901:0379/pct:15.042536736272234,57.38264580369844,12.838360402165506,30.61166429587482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1867101901:0379/pct:15.04737045630317,57.39331436699858,12.838360402165506,30.60810810810811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

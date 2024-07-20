@@ -125,7 +125,7 @@ can possess,” &amp;e.
 Immediately after the above passage comes the LJlow­  
 ing :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833050301:0462/pct:4.658385093167702,24.256444150693987,15.217391304347826,6.080634500991408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833050301:0462/pct:4.65772759350741,24.25377244189889,15.219948247471184,6.083636230128135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ conformation*, ami which are, peiliap*, essential to pro­
 serve the pinily ol the government by the censorship  
 which these panics habitually exercise over each other.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833050301:0462/pct:4.517221908526256,30.502313284864506,15.316205533596838,9.165014320334876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833050301:0462/pct:4.516584333098095,30.498953629254324,15.318748529757704,9.167676322649337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ irons tliu Union; l.ut it is n..r probable that local discontents can
 spread to such an extent, as to b« ub e to taco the setend parts ol eo  
 exloitsivn an Union 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833072601:0097/pct:79.73292530254555,15.477896593539853,15.009041591320072,2.0063940028662772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833072601:0097/pct:79.72183588317107,15.476190476190476,15.01159017153454,2.0098471487360374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ l iU0)i; tun it is not protiahle that loeal discontents can
 sptead to such an extent, as to be able to face the sound  
 pa,Is of so extensive a Union.” What does Mi Jefler- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833080601:0109/pct:48.484429065743946,74.77348066298343,15.418685121107266,2.298342541436464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833080601:0109/pct:48.47771934680321,74.76521931278312,15.421164314051111,2.3017714433027656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ tided the course to be pursued, and kept U,e Government
 stea.hly in it, Uftafrecled by tlie agitation. The public  
 knew well the ihssensisns in ihe Cabinet, but never ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834021101:0352/pct:5.613137703594023,68.27880512091038,14.72607349575986,12.408359776780829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834021101:0352/pct:5.612382234185733,68.27133479212254,14.728577837595335,12.410649161196208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ i steady movement.&quot;
 I also refer to Mr. Madison&#x27;s opinion in  
 ie debate before referred to, and just quod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836060701:0093/pct:51.51898734177215,36.01955990220049,19.21237693389592,24.34229828850856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_hookandcook_ver03:data:sn88084121:00295861800:1836060701:0093/pct:51.523675574308484,36.01955990220049,19.221753398968588,24.34555827220864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ of action and direction in all the branches of the
 Govern tnent.&quot;  
 In the&#x27;circular addressed by Mr. Jcffirson t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841090201:0874/pct:50.044587123238806,63.7285986049461,16.087034064562154,11.655041217501585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841090201:0874/pct:50.044587123238806,63.7285986049461,16.09297901432733,11.663496089621644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ heir views to one centre, and produces an unity
 f action and direction in all the branches of the  
 lovernment.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841090401:0112/pct:80.97540167780464,54.68359700249792,16.251955068960616,10.407993338884262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841090401:0112/pct:80.97540167780464,54.68359700249792,16.261434191193896,10.414932001110186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ had provided a regulating power, which would keep the
 machine in steady motion. I Speak with an intimate  
 knowledge of these scenes quorum part fu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849090501:0225/pct:51.31536213056187,24.608980827447024,17.473205586229295,14.61907164480323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849090501:0225/pct:51.32077514344484,24.613185334678775,17.489444624878207,14.61907164480323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ contrived h&gt; man ia that of which oar
 Revolatiou and present Government  
 found ns poaocased.&quot; ? Jtgrrwm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665003:1865051201:0439/pct:57.03638754932047,89.84582668793195,13.327487943884261,4.8697501329080275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665003:1865051201:0439/pct:57.0412587071947,89.84937090200248,13.322616786010034,4.8697501329080275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

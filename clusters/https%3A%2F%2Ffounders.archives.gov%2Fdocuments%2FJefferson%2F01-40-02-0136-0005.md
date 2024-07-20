@@ -171,7 +171,7 @@ pursue, renders a knowledge of these people
 important. ¥ou will therefore endeavour to  
 make yourself acquainted,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814032601:0063/pct:57.29185080431324,14.412624196376388,34.32914972600318,78.468731735827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814032601:0063/pct:57.28172499116295,14.4109396914446,34.328973724519855,78.4634564438211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ tial chiefs, or of young people, wou!d give some
 security to your own party. Carry with you  
 some matter ot the kine-pox ; inform those of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814032601:0063/pct:74.47410288138589,53.94506136762127,17.252960933356903,38.971361776738746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814032601:0063/pct:74.46094026157652,53.9387564282375,17.255802992812537,38.970702820632695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ June, 1803.
 THOMAS JEFFERSON,”  
 H President etfthe United Htuies of America.**
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814032601:0064/pct:9.319125880440671,5.154882951052258,17.80747697309012,69.0943485457555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814032601:0064/pct:9.317443120260021,5.15427355479371,17.810280486336826,69.09012097568665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1801,7 +1801,7 @@ ndo, or any other river, may offer the most direct
 ind practicable water communication across the  
 mntinent, for the purposes of eon merer. (.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821121801:0270/pct:20.75835475578406,65.9093557031341,14.74935732647815,3.1690551089362695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821121801:0270/pct:20.755020080321284,65.90167753960857,14.752342704149934,3.172569120844983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1820,7 +1820,7 @@ n-sl eomniunicr.tion w&#x27;iih the Pacific Ocean, should
 il«o be fixed by observation; and Hie course of that  
 v.itcr to the ocean, in the same manner .is that of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821121801:0270/pct:20.75835475578406,69.81241989980194,14.669023136246787,2.2369800768961903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821121801:0270/pct:20.755020080321284,69.80428704566636,14.67202141900937,2.2406026716371543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1844,7 +1844,7 @@ neatly conducted through the Missouri ami United
 hate* more lienefiriuily than by the circumvention  
 low practised.” (*ame p. xviii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821121801:0270/pct:20.75835475578406,72.42222998951415,14.669023136246787,4.439007340090877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821121801:0270/pct:20.755020080321284,72.41379310344827,14.67202141900937,4.442373407890649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1957,7 +1957,7 @@ the minister of England will entitle you to
 the friendlv aid of anv . tnuiara nf th.t  
 u&quot;?giut wiiu wuom you may nappan to meet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764248:1885120101:0539/pct:33.539870689655174,94.95974412705415,13.079202586206897,10.025366714459027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764248:1885120101:0539/pct:25.171809729147014,71.22532259843388,9.809998652472713,7.5217822874159035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2211,7 +2211,7 @@ as a preservative from the smallpox
 and instruct and encourage them in tha  
 use of lt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898120201:0013/pct:30.794419134396357,80.63090834360871,12.542710706150341,10.974106041923552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898120201:0013/pct:30.803910402429764,80.6343334703384,12.537965072133638,10.970680915193862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

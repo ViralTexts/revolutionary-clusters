@@ -78,7 +78,7 @@ oath that had accompanied it, could oblige the king to
 alienate the dominions of the crown. For the i&#x27;ame  
 reason, a want&#x27;of po&#x27;«er, 4 Treaty is shfoTauty mum.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796040701:0002/pct:52.59605399792316,84.26928845192468,21.131879543094495,10.264955840693219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796040701:0002/pct:52.61552440290758,84.27762039660057,21.131879543094495,10.273287785369105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ injustice as that of depriving a porson of bis
 property. And further, us the engogements  
 of a tieaty lmpose on the one hand a periec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811021301:0361/pct:51.58668125683914,6.798418972332016,21.02548069407535,10.385375494071146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811021301:0361/pct:51.5971028086082,6.801712779973649,21.02548069407535,10.391963109354414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ tea neglected in practice, is generally acknow­
 ledged by all nations.  
 The inelanrlioly allusion to the frequen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820051901:0020/pct:19.515030725793057,56.05402797877472,15.39611360239163,13.68789194404245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820051901:0020/pct:19.51179010295583,56.04726878089956,15.399092217424997,13.690260862574862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ treaties inviolable. This great (ruth, though
 too often neglected in practice, is generally  
 acknowledged by all nations.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216286:1820052001:0174/pct:63.67419738406659,59.34473708027876,18.475029726516052,21.77572631007331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216286:1820052001:0174/pct:63.66473473027196,59.339366515837106,18.477237826323872,21.776772247360483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ itself being necessarily obliged to perform everything re­
 quired for its preservation and safety, it cannot enter into  
 engagements contrary to its indispensable obligations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852110501:0860/pct:74.02017529353398,12.713881019830028,76.17000165371259,282.9688385269122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852110501:0860/pct:24.67339176451133,4.237960339943343,25.390000551237527,94.3229461756374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ reviewhof the history of that period.
 &quot;that their treaties do not depend upon. a  
 &quot;nullity so vague and dangerous.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289687:1854042901:0849/pct:84.64223385689354,94.36652103931938,18.440954043048283,15.750747298229477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289687:1854042901:0849/pct:63.50938454823221,70.77489077948954,13.83675250982104,11.81880892159117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ Lewis admitted
 at the time that if England were at war with any  
 of the parties to it, it would cease to be bindin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531083:1871070101:0443/pct:52.828646173969915,94.99364088333911,48.08698495748855,26.696727945427217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531083:1871070101:0443/pct:17.609548724656637,31.66454696111304,16.028994985829517,8.898909315142406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ might recede,&quot; he says, &quot;from a treaty because
 we find ourselves injured by it, there would be  
 no stabllity in the contracts of nations.&quot;- Boo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873012401:0084/pct:252.56769374416433,83.80024360535931,42.857142857142854,4.593701061423351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873012401:0084/pct:63.18617145526746,20.95006090133983,10.721793973370708,1.1484252653558378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ engagements contrary to its indis-;
 pnusable obligations.&quot; Iu like man- j  
 cer Wheaton, the American public
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291098:1882061601:0238/pct:74.08945686900958,55.60804263565891,11.118210862619808,13.662790697674419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291098:1882061601:0238/pct:74.09345047923323,55.60804263565891,11.134185303514377,13.662790697674419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ preservation and safety, cannot enter
 iuto obligations contrary to its indis­  
 pensable obligations.&quot; In a lik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291104:1886090301:0638/pct:50.10266940451746,27.95903786615861,10.69341336281788,16.634913074541558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291104:1886090301:0638/pct:50.1105670510188,27.95903786615861,10.68946453956721,16.637889973803286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

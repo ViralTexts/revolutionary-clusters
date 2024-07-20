@@ -209,7 +209,7 @@ of things ; and I solemnly protest that a pecuniary i
 d of twenty thousand pounds a year would not induce i  
 ndergo what 1 do, and after all, perhaps, to lose my ch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:33.15831344470963,41.548322231996984,13.842482100238664,18.323488752042227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:33.16892071068682,41.556700599053244,13.837178467250066,18.323488752042227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ and the power they have by sea, to surround and render
 them unapproachable.  
 As stated in the foregoing letter of Washington, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858011001:0081/pct:146.10581662832732,6.579841449603624,101.18304304962209,286.2740656851642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858011001:0081/pct:48.701938876109104,2.193280483201208,33.72768101654069,95.42468856172141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ is impossible under such a variety of dis­
 tressing circumstances, to conduct matters  
 agreeably to public expectation, or even t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665611:1896070501:0057/pct:21.2756052141527,42.69527896995708,17.202048417132215,15.313304721030043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665611:1896070501:0057/pct:15.962277331470485,32.02575107296137,12.911864012108511,11.484978540772532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ for the difficulties their own errors have
 occasioned.  
 Yet this man was serving without pay o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665611:1896070501:0057/pct:21.345437616387336,58.0343347639485,17.085661080074487,2.652360515021459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665611:1896070501:0057/pct:16.020491326114797,43.527896995708154,12.81872162067761,1.9914163090128756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ and nominating such as are not lit to be
 bootblack?, from the local attachments of  
 this or that member of the Assembly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740554:1899010101:0014/pct:43.236978456503955,55.29566626164439,12.762476138532861,3.604698258404212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740554:1899010101:0014/pct:43.24606853922371,55.2990414472796,12.757931097172984,3.604698258404212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

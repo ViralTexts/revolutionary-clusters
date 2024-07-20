@@ -295,7 +295,7 @@ petance o( the chief magistrate, yet for my­
 self, and for the substantial service of ths  
 public, I fool most sensibly the loss we bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837112301:0262/pct:7.406225059856345,64.82569036611271,14.732641660015961,25.802823941022115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837112301:0262/pct:7.405043089690393,64.8175912043978,14.735610171294818,25.80376478427453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ shall, of course, see you before the fourth ol
 March. Accept my respectful anil affect inn­  
 ate salutations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837112301:0262/pct:7.326416600159617,8.259402723978509,30.119712689545093,85.80532300387355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837112301:0262/pct:7.325247366741142,8.258370814592704,30.120225555910203,85.79876728302516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ in our new administration. It lea\es n chasm
 in my arrangements which cannot be ado  
 quately filled up !” It this letter is carefol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837112301:0262/pct:22.841181165203512,30.700987129826316,14.285714285714286,2.66150193677371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837112301:0262/pct:22.837535908075328,30.697151424287856,14.28875412277902,2.6653339996668333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ shall of course see you before the 4th of
 March. ; .Accept my respectiul and af  
 fectionate salutions.&quot; ; ,&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026142:00296026827:1837120201:0190/pct:86.05980650835532,60.857780612244895,19.89885664028144,66.78890306122449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026142:00296026827:1837120201:0190/pct:64.5842498900132,45.64732142857143,14.93620765508139,50.09566326530612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ writing thi? much to you, which I would not have
 ventured through the post otttce at this frying x&quot;m  
 son.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839052201:0926/pct:49.06139015728057,23.506585136406397,15.711144934889226,2.3165569143932268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839052201:0926/pct:49.06139015728057,23.51442458450925,15.716782231241897,2.3165569143932268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ ot writing this much to you, wh.ch 1 would not
 have ventured through the Post Office at this prying  
 season.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840040201:0166/pct:65.34458004307251,16.7955380910128,15.703517587939698,2.370389149448599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840040201:0166/pct:65.35654462790141,16.803988676215827,15.691553003110792,2.366163856847087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ condition. Integrity, ability, efficiency, ore, of
 course, to be expected; nnd tho nature of the rela­  
 tion with the chief executive officer is such that tb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876080101:0002/pct:2.2606382978723403,37.63933121019108,13.164893617021276,3.304140127388535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876080101:0002/pct:2.2606382978723403,37.63933121019108,13.164893617021276,3.314092356687898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

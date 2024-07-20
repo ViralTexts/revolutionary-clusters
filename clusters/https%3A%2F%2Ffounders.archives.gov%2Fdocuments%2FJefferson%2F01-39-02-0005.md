@@ -172,7 +172,7 @@ teur le plus divin
 Est toujours quoi pu&#x27;il fasse, un  
 [méchant écrivain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_maia_ver01:data:sn83045239:0029587661A:1890080701:0550/pct:43.96087326339666,39.551767676767675,11.823079104054438,2.398989898989899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_maia_ver01:data:sn83045239:0029587661A:1890080701:0550/pct:43.97032416595785,39.5587822671156,11.823079104054438,2.395482603815937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -60,7 +60,7 @@ cers Of the &#x27;l&#x27;rossctzsur},s, therein referred to,
 which are heress-ssfirli tra:;i*;nitcfct-d &#x27;axsixctd fssrsssisiz}­  
 ed to be received as part of this report.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121501:0023/pct:26.61085743277524,38.71781928319031,21.575342465753426,14.19485108531045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1800121501:0023/pct:26.607482561826252,38.71391076115486,21.576833650391038,14.196783094420889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ State-‘Albert Gallatin, Secretary of die
 Treasury—H. Dearborn, Man of War  
 t-jR. Smith, Secretary of the Navy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803082601:0133/pct:46.17478900081677,29.730651210364815,19.874761775115708,4.602795772246846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803082601:0133/pct:46.16222101252041,29.725583773649223,19.87615677735438,4.606272370888018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ President of the Senate.
 JAMES MADISON,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804022001:0003/pct:2.947940623039933,5.966881072943752,36.587915534183566,9.963049130970303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804022001:0003/pct:2.961878876576765,5.971442908626432,36.58094640741515,9.976734638018339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ therein referred to, which are herewith
 tranfmitted, and prayed to be received  
 as part of this report
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805022201:0001/pct:1.1183180496533214,18.505140316754655,19.190337732050995,10.072242289524867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805022201:0001/pct:1.1257735033176768,18.509771232749838,19.19779318571535,10.081504121515236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ the present month ; and in the statements therein
 referred to, which are herewith transmitted, and  
 prayed to be received as part of this report
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805030801:0390/pct:47.09076803723817,29.374389051808407,22.161882596327903,6.17464972303682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805030801:0390/pct:47.07859358841779,29.36960417006027,22.16261633919338,6.177716240430038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ month, and in the statements therein referred to. which
 are herewith transmitted, und which it is prayed mav Ik*  
 received ns part of this report
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835020701:0370/pct:66.99459609255923,30.05559795050692,14.909242067341001,4.894799956393764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835020701:0370/pct:66.9853144915489,30.052321778940485,14.911794587605062,4.8978998619286385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -81,7 +81,7 @@ ing within their separate ,splj r«s, by&#x27;a
 wise partition of power, a just proportion  
 of the sovereignty, have improved thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817030701:0408/pct:52.34515443699951,70.64079652795506,14.62657296943945,1.8126116926219045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817030701:0408/pct:52.33660130718954,70.63178047223995,14.62962962962963,1.8166347585620082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ sures, promote intelligence among the
 people, as the best means of’ preserving  
 our liherti; s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817030701:0408/pct:67.83788200686386,57.54403880520807,14.593887890178134,1.595608884350268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817030701:0408/pct:67.82679738562092,57.53669432035737,14.596949891067538,1.5996596468836417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ means of preserving our liberties. :
 mote intelligence among the people, as the best  
 means of preserving our liberties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1817031801:0427/pct:44.970681100586376,34.78900883218842,16.779431664411366,1.0402355250245339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1817031801:0427/pct:44.96392062537583,34.78559513296045,16.780667468430547,1.0425865960160927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ beyond example. Their citizens, individ­
 ually, have been happy, and the nation pros­  
 perous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817031801:0041/pct:57.56188295893547,69.35468028680876,15.853484046358563,1.9153324820744524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817031801:0041/pct:57.57142175800067,69.3579543594277,15.86302284542376,1.9218806273123137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ just proportion of the sovereignty, have.im-.
 proved their police, extenced their settle­  
 ments, and * attained a strength and maturi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817031801:0041/pct:57.23279439118615,77.1044101758177,16.44012018886822,3.192220803457421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817031801:0041/pct:57.23279439118615,77.10768424843663,16.449658987933418,3.202043021314213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ mote intelligence among the people as
 the best means of preserving our liber­  
 ties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1869051501:0185/pct:54.038349796629866,276.0167069685645,47.762928529924466,19.037151022202682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1869051501:0185/pct:13.509587449157467,69.00417674214113,11.940732132481116,4.7592877555506705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

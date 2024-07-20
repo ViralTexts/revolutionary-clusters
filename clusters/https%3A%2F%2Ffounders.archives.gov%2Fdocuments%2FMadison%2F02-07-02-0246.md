@@ -46,7 +46,7 @@ ture until the lit of July 180.5, after which the
 old form ot pali’port wiil be unavailable and ti;e  
 new one alone in life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804060201:0039/pct:78.14854682454252,2.5046728971962615,17.330462863293864,10.118380062305295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804060201:0039/pct:78.13452914798206,2.5043608273112383,17.333333333333332,10.121272530941107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -71,7 +71,7 @@ compliance with the terms pi el
 by law and furre/ideting the former  
 it of which fh poffeffed, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804060601:0001/pct:7.496012759170654,68.26450670561678,16.547049441786285,7.542159075819944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804060601:0001/pct:7.5026581605528975,68.27335900500155,16.547049441786285,7.5465852255123265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ J of the United States, f.-c.n capture until the Is
 of July 1S05, after which the old form o‘ passpur  
 will l&gt;o unavailable and the new one .-none in us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804060601:0165/pct:23.989618094178716,45.34282018111255,17.556544308490917,9.573091849935317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804060601:0165/pct:23.985171455050974,45.33695511576769,17.559468643805992,9.576165222265338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ fels of the United States, from capture until the
 prlport will be unavailable and the mew one  
 alone in vfe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804060701:0502/pct:46.17547806524185,29.370876531573987,19.478815148106488,11.333647502356268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804060701:0502/pct:46.17547806524185,29.370876531573987,19.48506436695413,11.337574615142946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ ture until the 1ft of July 18011, after which the
 old form of pafl&#x27;port will be unavailable and the  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804061301:0049/pct:24.667274384685506,80.97873946408353,17.684594348222426,10.315762989055226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804061301:0049/pct:24.662777980313525,80.96855345911949,17.687446834366266,10.318658280922431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ of the United States, from capture until the 1st
 of July 1805, af er which the old form of pas-port  
 will be unavailable and the new one a one in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804061301:0174/pct:40.63455657492355,69.9176362923258,17.622324159021407,9.582952019871879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804061301:0174/pct:40.62679151538315,69.90849673202614,17.625326453914262,9.586056644880175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ whom we are at peace, cither the old or the
 new form of pa:l&#x27;port will be fufTiCknt to pro­  
 tefl the vellcls of the United State*, fiom 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804061601:0055/pct:76.92307692307692,80.41314086610254,17.644914327378782,8.710801393728223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804061601:0055/pct:76.9090577729178,80.40313549832027,17.64777352530223,8.713865040852722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ in which latter case no fees will be required for !
 * ! of July 1B05, after which the old form of passport  
 ■ ; will he unavailable and the new one atone in use 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804061601:0178/pct:39.89667049368542,82.81209278081835,19.24990432453119,9.616888193901486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804061601:0178/pct:39.8890376889229,82.8013029315961,19.25259868630827,9.6199782844734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -349,7 +349,7 @@ which the old form of paffport will be
 unavailable and the new one alone in  
 uSe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804061801:0004/pct:25.338894681960376,45.88296897499673,18.14389989572471,14.70087707815159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804061801:0004/pct:25.35279805352798,45.8916961207837,18.129996524157107,14.696513505258105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ which ahe old form of passport will be
 unavailable, and the new one alone i  
 use. 3 eA 3 ; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804061901:0513/pct:42.31780906699675,56.64962870093548,17.221104750116044,15.353457421159225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804061901:0513/pct:42.32296663056372,56.64962870093548,17.231419877249987,15.356672131674543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ vefuls of the TJnitid States, from cap­
 ture until the Ift of July 1*05) after  
 which th,-. oIJ form of pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804062001:0004/pct:79.64791756118505,74.00509178614499,17.84027479604981,13.868417526463888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804062001:0004/pct:79.65507370831544,74.00509178614499,17.847430943180193,13.881816963687525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ ture until the lit of July iso.*, after which the
 old form of pafTport will be unavailable and the  
 new one alone in life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804062001:0059/pct:4.61961503208066,75.60761713856176,17.855178735105408,10.223001753946379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804062001:0059/pct:4.618768328445748,75.5981460603783,17.858015640273706,10.225896697148107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ of the United Sta&#x27;e*. from capture until the 1st
 of July IROS.af’er wlmh the old form of passport !  
 will he unavailable and the new erne a oite in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804062001:0182/pct:41.36669874879692,83.37239583333333,18.132820019249277,9.609375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804062001:0182/pct:41.358737490377216,83.36154146595496,18.13574544521427,9.612463654906046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ if of July 180 g, sfter which&#x27;the old form of
 paffport will be unavailable and the new cone  
 alone in ufe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804062101:0509/pct:13.851220457187138,23.493903175178076,20.30220844633863,11.746951587589038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804062101:0509/pct:13.851220457187138,23.497927481991226,20.3151233372078,11.75097589440219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ lure until the lit of July 1805, after which the
 old form of paffport will be unavailable and tht  
 new one alone in life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804062301:0064/pct:59.23244026068067,76.72916925369428,17.396813902968862,10.18254066807401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804062301:0064/pct:59.22171945701358,76.71964241370748,17.39969834087481,10.185415114642828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ thr exchange ; and that by an arrangement a­
 gretd upon by the Batbary poweis, with whom  
 \vt a e at peace, either the old or the new form
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804062301:0186/pct:39.6327467482785,57.57496399109598,18.63045141545524,7.398193007725546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804062301:0186/pct:39.62516733601071,57.56742602775596,18.633263211576466,7.401588548485642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ which tfii eld form cf paffporc will be
 unavailable and the new one alone in  
 v IV
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804062501:0004/pct:77.84019975031211,24.808575803981622,17.228464419475657,15.592370875678686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804062501:0004/pct:77.85407129976419,24.81785697712191,17.23540019420169,15.587730289108544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -686,7 +686,7 @@ Fanre antilths Ilof ! 805, r ;
 gSR S w&quot;‘@ﬁ?@; vallpor Ewillbe’  
 “”E 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804062601:0515/pct:6.355140186915888,80.30712768012363,18.021806853582554,12.941858219045779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804062601:0515/pct:6.355140186915888,80.30712768012363,18.0269989615784,12.94507758676196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ ture until the 111 of July 1805, after which the
 old form ot paflport will 1m. unavailable and the  
 new one alone in ufc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804062701:0066/pct:76.67565139263253,75.32726592694178,17.376460017969453,10.223164193990774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804062701:0066/pct:76.66187567373338,75.31787584143605,17.379326865492875,10.226045042798969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ st of July 180, after which. the old form of
 pafiport will be ooavailable and the new one  
 a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804062801:0515/pct:8.841580360567702,83.31514490117618,20.444955887993864,11.980113980841518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804062801:0515/pct:8.84797340493543,83.31514490117618,20.45134893236159,11.988197728466917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ j of passport will be mficUnt to pr&lt;&gt;*c&lt;ft the vers-is j
 i of July T 03, uf-er which the old for n nr passp’-vt  
 i wili be unavailable aim the new one a one m u.c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804063001:0194/pct:40.54002297970126,58.29514207149404,18.594408272692455,9.624197983501375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804063001:0194/pct:40.532261152594295,58.28750981932443,18.597230199757483,9.627302086060924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ which the old form of paffport will be
 unavailable and the new one alone iv  
 ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804070201:0002/pct:77.85044691519512,73.36043360433604,20.361892304338348,15.325203252032521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804070201:0002/pct:77.86498074267858,73.36495031616982,20.354625390596613,15.338753387533876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -863,7 +863,7 @@ ture until the rft of July 1805, after
 which the old form of pafiport will be -  
 u?a“vaﬂablc{ and the new one alone i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0522/pct:25.642230576441104,72.01821528921616,16.99561403508772,14.921034783451216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804070301:0522/pct:25.65267335004177,72.01821528921616,17.000835421888052,14.924264444659755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ which the old form of paffport will be
 unavailable and the new one alone in  
 ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804070401:0004/pct:79.49231796927188,76.16407982261642,19.349810732576262,15.715077605321508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804070401:0004/pct:79.49231796927188,76.16407982261642,19.357232984487492,15.715077605321508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ I of tite U&gt;.r*ed .Mates, frorn capture until the 1st
 j of Juiy 1&#x27;03. af et which the old form ot passport  
 will be unavailable* and the ta. s one a one in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804070401:0198/pct:58.51780558229066,58.94203275279438,18.421559191530317,9.578892643618405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804070401:0198/pct:58.50654349499615,58.93437296946069,18.42442904798563,9.581979640459172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1000,7 +1000,7 @@ fels o&amp;%United 8&amp;, from capture om l
 pafiport will be unavailable and the new one  
 elone in ufe. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804070501:0519/pct:34.77454073111895,65.69203115638106,19.595472258303953,11.719592570401439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804070501:0519/pct:34.77454073111895,65.69203115638106,19.614028576730377,11.735570201717595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1032,7 +1032,7 @@ ture until the 1ft of July 1805, after which the
 old form of paflport will he unavailable and the  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804070701:0080/pct:57.75535939470366,81.60876603162744,17.852639164114574,10.247789814468932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804070701:0080/pct:57.74495677233429,81.59860557768924,17.85542747358309,10.25066401062417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1063,7 +1063,7 @@ of the United Stages. from capture until the 1st
 of July 1805, af.e. which the old form oi passport  
 will be unavailable and the new one a one in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804070701:0202/pct:59.243535314550364,57.877604166666664,18.448475492087997,9.518229166666666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804070701:0202/pct:59.232104958518235,57.87006900143211,18.45134735352756,9.521329687974657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1145,7 +1145,7 @@ which the old form of passport will be
 - unavailable, and the new one alonein  
 ule. 34 B i o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804071001:0526/pct:24.430836866070027,66.35015986822982,17.051342439943475,15.172948357717276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804071001:0526/pct:24.430836866070027,66.3566191906469,17.056576123933638,15.169718696508736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1177,7 +1177,7 @@ ture’ until the lit of July 18i*5, after which the
 old form of paflport will be unavailable and the  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804071101:0081/pct:41.95193008011653,11.843421710855427,18.02621995630007,10.25512756378189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804071101:0081/pct:41.94429273620972,11.841940727772915,18.029006614479034,10.258013421699804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1208,7 +1208,7 @@ of ine United Pta ch, frnir capture until the 1st
 of j ■ ily 1 (1», af’ei vvi &gt;&lt; .1 the old for n o* pas ,p -it  
 wilt l.e unavailable an i the new one a one i&gt;. uie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804071101:0206/pct:40.98987196636728,83.30935251798562,18.020256067265432,9.627207325049051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804071101:0206/pct:40.98204050439435,83.29845670939054,18.023181760285315,9.630307786206295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ ift of July 1803, after which the old form of
 paffport will be unavailable and the new one  
 elone in afe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804071201:0523/pct:55.56371648916636,74.17128634460911,19.573999265515976,11.23430252290983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804071201:0523/pct:55.57595788958257,74.17128634460911,19.573999265515976,11.241844854244446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1277,7 +1277,7 @@ Which the old form of paltooft will bfi
 unavailable and the new one alone in  
 ufe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804071301:0003/pct:57.760510061765295,72.95589203423305,16.537158796573024,14.983541803818301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804071301:0003/pct:57.76715149100087,72.9646697388633,16.530517367337453,14.99231950844854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1309,7 +1309,7 @@ ture until the ifl of July 1805, after which the
 old form of paflport will be unavailable and the  
 new one alone iu ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804071401:0085/pct:6.333938294010889,63.711702661978904,17.65880217785844,10.271220492214967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804071401:0085/pct:6.332788967519506,63.7037037037037,17.661646404161374,10.274115923833438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1340,7 +1340,7 @@ of the United States, from capture until the 1st
 of July 1 M)j, af er which the old form of passport  
 will be unavailab&#x27;c and the new one a,one in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804071401:0210/pct:40.56694119900402,69.20067805450515,17.525378280022984,9.597079149823967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804071401:0210/pct:40.5591727307545,69.19165580182529,17.5284054640623,9.600173837461973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1430,7 +1430,7 @@ ture until the 1 of July 1805, after
 ~which the old form of paflport will be  
 upavailable, and the uew one alone i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804071701:0530/pct:23.7417943107221,76.51235168255204,16.81775554860894,14.997082279712119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804071701:0530/pct:23.752214233614673,76.51883550541399,16.812545587162656,14.99384036828114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1500,7 +1500,7 @@ tare until the lft of July 1805, after which the
 old fovr^ of mi Hnort will be unjv?i!ab!t and the  
 ■e\v one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804071801:0089/pct:4.592863677950595,63.35117639736089,18.17017383348582,10.245238391634508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804071801:0089/pct:4.592023417489938,63.34329101319393,18.17294792047811,10.248112189859762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1532,7 +1532,7 @@ ture until the lit of July 180.3, after which tne
 old form of paflport dill be Unavailable and the  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072101:0093/pct:5.315068493150685,55.567998009207415,17.698630136986303,10.1779270872216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072101:0093/pct:5.314097881665449,55.56108484697686,17.701485269052835,10.180807829476652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1563,7 +1563,7 @@ if the United State*, from capture until the 1st I
 &gt;f July li.O£, after which the old form of pa-i-.port  
 a iii be unavailable and the new one a one m Hue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072101:0218/pct:59.54036307454616,78.92347600518806,17.941290073387407,9.584954604409857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072101:0218/pct:59.52886657655918,78.91324082479575,17.94426208405741,9.58803440971772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1642,7 +1642,7 @@ port will be fufficient to protect the
 tare until the 1R of July 1805, after |  
 which the bld form of passport willb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804072401:0534/pct:42.20544281893975,80.62807051343802,17.618373446594305,14.362778152393796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804072401:0534/pct:42.210686382465525,80.62807051343802,17.618373446594305,14.365989146838777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1711,7 +1711,7 @@ tnrr until the jft of July 1805, after which the
 old form of pairport will be unavailable and tb«  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0100/pct:75.58886509635974,66.0450080815616,17.21984296930764,10.294666169339799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0100/pct:75.57537912578056,66.0367976131278,17.222717811477846,10.297530250290071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1742,7 +1742,7 @@ of the United States, Born capture until ihe 1;
 of July 1B05, af’er which ihe old form of pas .pr.rt  
 will be unavailable and the new one a one in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0222/pct:58.36672390765121,79.18124109340589,18.29803472619729,9.56082394092499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0222/pct:58.35558946966807,79.17098445595855,18.30090296324558,9.563903281519861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1777,7 +1777,7 @@ ture until the Ift of July 1805, aLer
 which the old form of paffport wiil t c  
 unavailable and the new one alone i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072701:0004/pct:22.191192266380238,74.78792935613961,17.78732545649839,15.088304825476289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072701:0004/pct:22.191192266380238,74.78792935613961,17.801646974579306,15.106846521114356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1809,7 +1809,7 @@ ture until the Ift of July laoj, after which the
 o, . *orm of pafiport will be unavailable and the  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072801:0101/pct:24.411445128576602,75.18647439085032,17.330677290836654,10.30581800099453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072801:0101/pct:24.407025167481443,75.17712865133623,17.333574748023416,10.308680339755542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1840,7 +1840,7 @@ I of,he L nited Mates, from capture until the 1 ,i
 i of July 1^05, sr er which the old form o p.-; port  
 . will he unavailable and the new out a one in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072801:0228/pct:58.711399161265724,71.86034392912975,17.918414029736944,9.69254820218864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072801:0228/pct:58.700209643605874,71.8509834570796,17.921351883616033,9.695627632321653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1932,7 +1932,7 @@ which the old form of passport will be
 unavailable, and the new one alone in  
 use.. . Department of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0538/pct:6.086557577611256,61.95276497695853,16.393944028138858,15.27457757296467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0538/pct:6.09165519702299,61.95916538658474,16.40413926696233,15.268177163338454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1998,7 +1998,7 @@ j which the old form of paffport will be
 I unavailable and the new one alone in  
 i ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804080101:0004/pct:26.357860217257635,74.36180488477991,17.360114777618364,15.523664964813026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804080101:0004/pct:26.371524219443874,74.36180488477991,17.360114777618364,15.537463778115082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2029,7 +2029,7 @@ of the United States, from capture until the 1st1
 of July 1805, after which the old form of passport !  
 will be unavailable and the new one a&#x27;one in use 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804080101:0232/pct:59.25996932515337,72.16374269005848,18.117331288343557,9.642625081221572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804080101:0232/pct:59.2486103124401,72.1543659043659,18.12024790748195,9.645703395703396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2061,7 +2061,7 @@ ture until the l ft of July 180% aftc»- which fne
 old form of palfporf will be unavailable and the  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804080401:0112/pct:75.58222859190255,81.33864145309778,17.663919742027947,10.276188106494153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804080401:0112/pct:75.56869066809959,81.32852344819007,17.666726371723684,10.27905626736327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2092,7 +2092,7 @@ of the United States, from capture until the 1st
 of J uly 1895, af’er which the old form of pa$t|iot t  
 will be unavailable and flic new one a one in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804080401:0236/pct:41.08616388409135,65.87084148727985,18.134715025906736,9.575994781474234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804080401:0236/pct:41.07828089025326,65.86224889120793,18.13763110770018,9.579093834246455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2181,7 +2181,7 @@ j ture until the Ift of July 1805, after
 I which the old form ot paffport will he  
 unavailable and the new one alcnc i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804080601:0004/pct:78.17906574394463,27.212977205985176,18.403979238754324,14.948958187666062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804080601:0004/pct:78.19348327566321,27.217638558709737,18.39677047289504,14.958280893115182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2215,7 +2215,7 @@ July 1805, after which the old form of pass­
 port will be unavailable and the new one  
 alone in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804080701:0041/pct:32.39510033880636,52.82956607820492,21.214490487359917,14.53555518891272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804080701:0041/pct:32.38665971860344,52.820851204223025,21.21547681083898,14.537281425272187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2283,7 +2283,7 @@ ture until the ifl of July 1805, after which the
 old form of pafTport will be unavailable and the  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804080801:0116/pct:73.94793152639087,81.05028486499876,17.13623395149786,10.156056477582363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804080801:0116/pct:73.93474772686753,81.04024767801857,17.139121649729603,10.158926728586172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2314,7 +2314,7 @@ of the United States, fiom capture until the 1st j
 of July le.05, afier which the old form of passport  
 will be unavailable and the new one a.one in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804080801:0240/pct:40.52300057262836,29.19344262295082,17.92326779919832,9.521311475409837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804080801:0240/pct:40.51526717557252,29.18961447678993,17.92620865139949,9.52443395401696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2345,7 +2345,7 @@ of passfi ort wiil be s&#x27;i&lt;!icient to protell the vessels
 | °f July 1805, af-er which tl»e old form of passport  
 i will be unavailable and &#x27;he new one a&#x27;.oi.e in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804081101:0244/pct:22.502387774594077,82.65933778301269,17.78414517669532,9.632247088077477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804081101:0244/pct:22.498090145148968,82.6485213294949,17.787114845938376,9.635348512605775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2464,7 +2464,7 @@ which the old form of paffport will be
 unavailable and the new one alone in  
 ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804081501:0004/pct:58.3250049970018,26.92467173462336,16.59004597241655,15.521769177608846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804081501:0004/pct:58.3250049970018,26.92467173462336,16.59004597241655,15.540198111034323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2496,7 +2496,7 @@ ture until thc.lft of July 1SC5, after which the
 old form of paffport wilibe unavailable and the  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804081501:0124/pct:77.00418105798946,23.62302623399229,17.46955099072896,10.145468108914583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804081501:0124/pct:76.99018538713196,23.620089507707608,17.472434266327397,10.148350737609812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2527,7 +2527,7 @@ of passport will lie sufficient to protean the vessels I
 I of July ] Ko.i, ? f-t-r which the old form ot pasrport  
 | will be unavailable and the new one a one in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804081501:0248/pct:22.437248515041194,82.41153342070773,18.45181069170339,9.64613368283093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804081501:0248/pct:22.43295019157088,82.40073384877473,18.454661558109834,9.64923775826672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2560,7 +2560,7 @@ it of Joly 180 g, aftcr which the old form of
 peflport will be uonavailzble and the new une  
 elone in vfe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804081601:0543/pct:56.32745024408562,15.44496487119438,19.864814119414195,11.381733021077283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804081601:0543/pct:56.32745024408562,15.452771272443403,19.87107272499687,11.37782982045277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2596,7 +2596,7 @@ which the old form cf paffport will hs
 unavailable and the new one alone in  
 ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804081701:0004/pct:79.80405254954353,2.3746333286771897,18.681808060565576,15.72845369465009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804081701:0004/pct:79.81147480145476,2.3746333286771897,18.689230312476806,15.73310983843181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2628,7 +2628,7 @@ ture until t he 1ft of July 1805, after which the
 old form ol paflport will be unavailable and the  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804081801:0128/pct:74.82256919801277,26.80349022981443,17.10432931156849,10.015976404080128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804081801:0128/pct:74.80929572467625,26.800196608503317,17.107208325941695,10.01884164823462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2659,7 +2659,7 @@ of &#x27;he United States, from capture until the 1st !
 of July 1805, after which the old form ot passport  
 will be unavailable and the new onca.one in&#x27;itoe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804081801:0252/pct:21.988527724665392,83.24464633354964,18.049713193116634,9.604153147306944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804081801:0252/pct:21.98432422099025,83.23384375811057,18.052634932772573,9.607232459555325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2772,7 +2772,7 @@ ture Until the Jft of July Iso.t, after which Ur
 old form of paflport will be u:m\,.liable and Hr  
 new one alone in life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804082201:0131/pct:78.28470380194518,79.41212642971344,17.382847038019452,10.18324929282991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804082201:0131/pct:78.27086280056577,79.4023610427939,17.385667138142384,10.186096081324807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2804,7 +2804,7 @@ of July 1805, af er which the old form of passport
 will he unavailable and the new one a flue in uae.  
 Department of State ~
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804082201:0256/pct:22.594222307250813,83.19207197809362,17.65831260761431,10.15777806754466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804082201:0256/pct:22.58990053557766,83.18122555410692,17.66131089007906,10.160799652325077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2838,7 +2838,7 @@ ture until the Iff of July 180.% after which the
 old form of pafipovt will be unavailable and the  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804082501:0136/pct:75.85112012700652,70.80896686159844,16.987122949373788,11.001461988304094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804082501:0136/pct:75.83774250440918,70.8003410890486,16.990005878894767,11.004182401429325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2870,7 +2870,7 @@ of the United Sir. es, from capture until the 1st
 °l Ju‘&gt; lBOJ.af cr which the old form of passport  
 will be unavailable and the new one a.otic in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804082501:0260/pct:41.1211364945287,28.43786521231009,17.872912267229793,9.570185690170108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804082501:0260/pct:41.11324376199616,28.434172942092964,17.875879718490083,9.573271011858392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2987,7 +2987,7 @@ ture until the ifi of July 1305, after which the
 i old form of pafiport will be unavailable and the  
 : new one alone in ufc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804082901:0137/pct:61.107130060910066,35.84719654959951,17.735578645646722,10.178681454097351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804082901:0137/pct:61.09618484685653,35.84277969443075,17.73837244014568,10.181534417611303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3018,7 +3018,7 @@ ot ;he United States, from capture until tnc 1st
 oi July 180o,af er which the old form of pa*, port  
 will be unavailable anu the new one a.one muse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804082901:0264/pct:40.63400576368876,5.030626873452365,18.213256484149856,9.500847126286981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804082901:0264/pct:40.62620053784095,5.0299713317696115,18.216160840056347,9.503952740856572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3050,7 +3050,7 @@ fels of the United States, from capture until the
 paffport will be wnavailabie and the new one  
 elone in ufe.,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804083001:0551/pct:51.53156518490848,21.7131249294662,20.02241314904744,11.183839295790543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804083001:0551/pct:51.53156518490848,21.71688673212203,20.03486489851824,11.18007749313471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3086,7 +3086,7 @@ which the old form of paffport will bt
 unavailable and the new one alone in  
 ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804083101:0003/pct:55.63894923958128,58.04865424430642,17.222990321943513,14.72567287784679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804083101:0003/pct:55.645532951478046,58.05728088336784,17.22957403384028,14.729986197377501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3118,7 +3118,7 @@ ture until the ift of July 1805, after which the
 old form of paflport will be unavailable and the  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804090101:0144/pct:58.755201109570045,64.28658909981628,16.76490984743412,10.12859767299449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804090101:0144/pct:58.74501646732536,64.27871662992898,16.767781822384006,10.131439301167442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3149,7 +3149,7 @@ of the United States, th nn capture until the 1st
 of July 1S05, af-er which die old form of passport  
 will be unavailable and the new 011c a&gt;onc in use. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804090101:0268/pct:41.375336150595466,4.7675026123301985,18.267383787936996,9.49582027168234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804090101:0268/pct:41.36739005185328,4.766879979104088,18.270277190960886,9.498933437812894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3228,7 +3228,7 @@ ture until the lft of July 1805, after which the
 old form of paifport will be unavailable and the  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804090501:0145/pct:24.207283928247872,27.008483033932137,17.485051639789816,10.217065868263473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804090501:0145/pct:24.202898550724637,27.005114132468503,17.48792270531401,10.219949274458443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3259,7 +3259,7 @@ i of the United States, from ca;v ,t.o until the 1st
 | of July LI03, af’er which the old form of passport  
 l will lie unavailable and the new one alone iu use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804090501:0272/pct:21.876799078871617,23.282841472969444,18.24985607369027,9.454165578480021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804090501:0272/pct:21.872601688411358,23.279801540671105,18.252750063954977,9.457283370326849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3291,7 +3291,7 @@ ture until the lft of July 1805, after which the
 old form of pafTport will be unavailable and the  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804090801:0149/pct:6.637806637806638,31.95633296117107,17.658730158730158,10.122813546706364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804090801:0149/pct:6.636609558160505,31.95236913917142,17.66155695822062,10.125692549408749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3403,7 +3403,7 @@ ture until the iff of July 1805, after which the
 old form of paflport will be unavailable and the  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804091201:0153/pct:24.8015873015873,68.812375249501,17.586580086580085,10.29191616766467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804091201:0153/pct:24.79711451758341,68.80379194212298,17.589419897805833,10.294790237412165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3435,7 +3435,7 @@ ol the tin.ted States, from capture until the 1st ;
 j 7 di it wmcn oia mrm o&gt; pas port .  
 win be unavailable and the new one aione in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804091201:0280/pct:22.091679506933744,22.73794002607562,18.355161787365176,9.504563233376793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804091201:0280/pct:22.08742538031966,22.734975883196455,18.358046087682137,9.507669578064572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3467,7 +3467,7 @@ it of July tBog, after which the old form of
 palfport will be unavailable and the new one  
 elone in ule,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804091301:0559/pct:74.65714822468533,18.995308387687377,19.913582566222054,11.214097722851585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804091301:0559/pct:74.66967249045025,18.995308387687377,19.913582566222054,11.225540679711637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3499,7 +3499,7 @@ ture until the lfi ofjuiy iso.1;, after which tile
 old form of pafi&#x27;port will be unavailable and the  
 new one alone in life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804091501:0160/pct:58.05631244323342,69.95905199156223,17.565849227974567,10.212185134632088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804091501:0160/pct:58.04576825281511,69.95037220843672,17.568712919239616,10.21505376344086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3530,7 +3530,7 @@ ot the United States, from capture until the l*i
 of July 180b, afier which the old form of passport  
 wi!&#x27;. be unavailable and the new one a.one m us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804091501:0284/pct:22.751626482969765,18.82921730040507,17.757367011098353,9.551809747811316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804091501:0284/pct:22.747273770805432,18.826757251110532,17.760346916650725,9.554916819092414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3607,7 +3607,7 @@ old form of pafiport will be unavailable and the
 new one alone in ufe.  
 Department of State, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804091901:0164/pct:57.61324358741132,57.25324027916251,17.591413498271784,10.954636091724826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804091901:0164/pct:57.602764641687884,57.246105919003114,17.594276706681217,10.95742471443406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3639,7 +3639,7 @@ ot^ the Unite ! Slates, from capture until the 1st j
 ot J uly 1805, after which the old form of passport !  
 will be unavailable and the new one aione in use. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804091901:0288/pct:21.75579835154303,32.370543845953684,18.55472493770366,9.484777517564403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804091901:0288/pct:21.751628976619394,32.366332769611034,18.557557173885268,9.487879970512987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3672,7 +3672,7 @@ iR of July 1805, atter which the old form of
 paffport will be snavailable and the new one  
 clone in afe. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804092001:0563/pct:54.593976362943195,53.76895883224997,19.900876858558902,11.164328885847873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804092001:0563/pct:54.60668445799975,53.76895883224997,19.900876858558902,11.171931425095982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3704,7 +3704,7 @@ ture until the ift of Juiy mo/S, after which the
 old for n of paifport will be unavailable and the  
 new one ^done in ofe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804092201:0165/pct:5.786323235987665,80.44043053321786,17.758026482858696,10.392181120870964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804092201:0165/pct:5.785273848385927,80.43047996041564,17.760851166727118,10.395018967507834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3780,7 +3780,7 @@ ture until the 1ft of July i«»5, after which the
 old form of paflport will be unavailable and the  
 new one alone in life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804092601:0169/pct:24.658273381294965,58.43073862223328,17.571942446043167,10.221337975627954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804092601:0169/pct:24.653839237547203,58.42347382817357,17.57477671881556,10.224211529694559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3812,7 +3812,7 @@ of the United States, liom capture until the 1st
 of Inly 1805, after which the oid form of, nstpoit  
 will be unavailable&#x27;and the new one a,one hi ujc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092601:0296/pct:22.4688995215311,27.00758566570756,18.507177033492823,9.573633272299242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092601:0296/pct:22.464600076540375,27.00405387733752,18.510014032402093,9.576740333900004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3844,7 +3844,7 @@ ture until the l ft of July 1805, after which the 1
 old form of paflport will be unavailable and the  
 new one alone in life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804092901:0173/pct:24.412134266738466,55.257270693512304,17.69879734338539,10.216256524981358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804092901:0173/pct:24.40775305096913,55.25040387722132,17.701603254367072,10.219129282134128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3876,7 +3876,7 @@ of passport will be sufficient to protert the vessels I
 t ot July ISO.) :tf er which the old term of pas.port  
 will he unavailable and the new one a.one in use. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0300/pct:21.95589645254075,24.758296315651947,18.830297219558965,9.69427750195976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804092901:0300/pct:21.95168711656442,24.755062050947092,18.83307770961145,9.697365556281298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3956,7 +3956,7 @@ which the old form of paffport will ba
 unavailable and the new one alone in  
 ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804100101:0004/pct:40.89786756453423,64.65745779266081,18.78787878787879,15.878331240407423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804100101:0004/pct:40.89786756453423,64.66675968559602,18.80284324728769,15.88298218687503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3988,7 +3988,7 @@ ture until the 1ft of July 1805, after which the
 old form of pafTpovt will be unavailable and the  
 new one alone in ule
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804100301:0180/pct:76.22668839398878,35.960591133004925,17.707767517653448,10.061576354679802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804100301:0180/pct:76.21288921071687,35.9561630341091,17.710596186338403,10.064441981693552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4013,7 +4013,7 @@ passports of which she may be possessed, if any
 in which lain i ca’-e u&gt;i lees x. til be required to  
 the exchange; and that by an arrangement 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804100301:0304/pct:41.1764705882353,23.814500326583932,17.320261437908496,6.178967994774657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804100301:0304/pct:41.16855660196041,23.811389759665623,17.323339099237618,6.182514803204459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4046,7 +4046,7 @@ tft of Joly 1804, after which the old form of
 paffport will be wnavailable and the new one  
 elone in ule.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804100401:0571/pct:32.52170630426576,55.8692929522942,20.139675349188373,11.237618125925083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804100401:0571/pct:32.52170630426576,55.8692929522942,20.152258713980117,11.24520854681392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4079,7 +4079,7 @@ old form of paflport will be unavailable and the
 new one alone in ufe.  
 Department of State, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804100601:0184/pct:76.74714104193139,49.080973671137606,17.60755127972409,10.779930452061599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804100601:0184/pct:76.73321234119783,49.07487892710791,17.610405323653964,10.782731073306014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4159,7 +4159,7 @@ which the old form of pafTport will be
 unavailable and the new one alone in j  
 ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804101001:0001/pct:1.4018691588785046,67.46632996632997,19.514908767245217,15.951178451178452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804101001:0001/pct:1.4018691588785046,67.47100635989526,19.52232606438214,15.955854844743733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4191,7 +4191,7 @@ lure until the lA of July 1905,. after which the
 nld form of paflport will be unavailable and the  
 new one alone in life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804101001:0187/pct:78.99008115419296,73.00995024875621,17.421100090171326,10.286069651741293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804101001:0187/pct:78.97583844212045,73.00087053849023,17.42396922707056,10.288935870331219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4223,7 +4223,7 @@ ture until the 1ft of July 180% after which the
 old form of paifport will he unavailable and the  
 new one alone in life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804101301:0189/pct:22.00729927007299,78.60169491525424,18.1021897810219,10.331505483549352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804101301:0189/pct:22.00328407224959,78.59190031152647,18.104968679681324,10.334371754932503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4254,7 +4254,7 @@ ol the United State:., from capture until the It
 ol Jci, I.&#x27;Jd, ii er which the old form of pasipoi  
 wilt hi- unav table and the new one a.one ii.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101301:0316/pct:22.931976634633504,23.336395852474077,17.599397022800076,9.502559390996193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101301:0316/pct:22.9276563677468,23.333333333333332,17.60236121577493,9.505686789151357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4359,7 +4359,7 @@ Which the old form of paffport will be
 unavailable and the new one alone in  
 life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804101701:0001/pct:2.574732707833297,12.32781410880757,18.78682085969889,15.861973006817866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804101701:0001/pct:2.574732707833297,12.337090116413895,18.80136737217252,15.866611010621028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4391,7 +4391,7 @@ ture until the l ft of July isos, after which the
 old form of paflport will be unavailable and the  
 new one alone in life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804101701:0196/pct:76.89661415897157,70.68056253139126,17.399963787796487,10.29633350075339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804101701:0196/pct:76.88269370021723,70.67168863779034,17.402848177649048,10.299225779451769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4419,7 +4419,7 @@ greed upon by the Baihary powers, wi li whom
 we are at peace, ei’her the old or the new form  
 of nassnort will l»t* nti..__ .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101701:0320/pct:22.713414634146343,23.129162857515997,17.8734756097561,7.6923076923076925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804101701:0320/pct:22.709087445227663,23.126142595978063,17.876420905569315,7.695655958910073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4448,7 +4448,7 @@ fels of the United States, from captare votil the
 paffport will be unavailable and the new one  
 slone in ufe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804101801:0579/pct:53.56299212598425,75.96175734122468,20.669291338582678,9.924880491691328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804101801:0579/pct:53.56955380577428,75.96175734122468,20.675853018372703,9.932468320813415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4490,7 +4490,7 @@ ture until the ift of July 1805, after which the
 old form of paiTport will be unavailable and the  
 new one alone in life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804102001:0197/pct:41.5634110787172,17.56993006993007,17.93002915451895,10.177322677322678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804102001:0197/pct:41.55583895062853,17.56773629666625,17.932835367705106,10.180213925999917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4521,7 +4521,7 @@ ot passport vili bo so T- ie-.t to protctSi the vessels
 of July riKi.i, af• cr which the oid form of passport  
 be unavailable art 1 tl-.u now one aioue m use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804102001:0324/pct:21.824042472506637,17.285079696890516,18.18354190367842,9.498301541677554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804102001:0324/pct:21.819905213270143,17.28282168517309,18.18641390205371,9.501415197038972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4616,7 +4616,7 @@ tnre until the Ift of July 1805, afrcJ &#x27;
 unavailable and the new one alone in  
 ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102201:0003/pct:2.6145203111495245,75.81627006087437,18.5609334485739,15.592141671278362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102201:0003/pct:2.6217228464419478,75.82088175613356,18.582541054451166,15.601365061796717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4652,7 +4652,7 @@ which the old form of paffport will bs
 unavailable and tbe new one alone ii»  
 ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102401:0001/pct:22.528689349708074,21.29772059851769,16.71028790014093,15.704097329044888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102401:0001/pct:22.542111267700154,21.29772059851769,16.70357694114489,15.722742739943131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4684,7 +4684,7 @@ ture until the 1 ft of July 1805, aft^r which the
 old form of pafipovt will be unavailable ami the  
 new one alone in ufc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804102401:0201/pct:5.667506297229219,70.50243111831442,17.38035264483627,10.185762373768856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804102401:0201/pct:5.666486778197518,70.49364248317129,17.383222402110693,10.188647884982963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4715,7 +4715,7 @@ a of the United Slates, front capture until the 1st
 ot July 1605, after which the old form of pas.port  
 will be unavailable and the new one.aluae in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804102401:0328/pct:21.114929362352044,16.795696102873638,18.61397479954181,9.578795433670122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804102401:0328/pct:21.11089902653178,16.793492521647863,18.616784373608194,9.581912009096476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4751,7 +4751,7 @@ which the old form of palTport will be
 unavailable and the new one alone in  
 life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102601:0001/pct:1.2416851441241685,12.647671994440584,18.891352549889135,15.77484364141765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102601:0001/pct:1.2564671101256466,12.652304841324995,18.891352549889135,15.77947648830206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4783,7 +4783,7 @@ tore until the ift of July 1XC5, afi.r which I he
 old form of pairport will be unavailable and the  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804102701:0208/pct:76.39717851329354,23.67077574399203,17.52577319587629,10.085917071348524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804102701:0208/pct:76.38336347197107,23.667828685258964,17.528631705846895,10.088811420982736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4814,7 +4814,7 @@ of the United States, from capture until the 1st
 o! | a.v Id&#x27;).), after which the old form of pas spot t  
 will be u- available and the new one alone in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804102701:0332/pct:21.929321872015283,18.060637741766858,17.89875835721108,9.526921066387873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804102701:0332/pct:21.925133689839573,18.05827779955573,17.901706137000254,9.530031795809922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4903,7 +4903,7 @@ tine until the HI of July 1805,
 which the old form ofpaflpott will bt  
 unavailable and the new one alone i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102901:0004/pct:40.39279206317068,69.34478459620446,17.33144361206722,14.960520847762847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804102901:0004/pct:40.39954106769252,69.34940204091056,17.344941621110888,14.965138292468948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4939,7 +4939,7 @@ f.ire until the Ift of July 1805, nftej !
 lilable and the new one alone in  
 ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804103101:0004/pct:24.51384796700059,66.51554404145078,16.990768021999607,14.740932642487047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804103101:0004/pct:24.526942971256467,66.51986183074266,16.990768021999607,14.749568221070811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4971,7 +4971,7 @@ ture until the III of July I 8oa, after which the
 old form of palTport wilibe unavailable and the  
 new one alone in life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804103101:0209/pct:39.107658959537574,73.6235119047619,17.43135838150289,10.069444444444445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804103101:0209/pct:39.10059599060863,73.61438313701179,17.43423032929986,10.072328993593718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5007,7 +5007,7 @@ which the old form of palTport will be
 unavailable and the new one alone in  
 ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804110201:0003/pct:1.650891481399956,29.046563192904657,18.710103455866168,15.770509977827052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804110201:0003/pct:1.6655660723457333,29.046563192904657,18.717440751339055,15.779748706577974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5039,7 +5039,7 @@ ture unti1 the lft of July 1805, after which the
 old form of paflport will be unavailable and the  
 new one alone in ufc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804110301:0216/pct:76.52333028362305,60.861446533051165,17.25526075022873,10.145649197062118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804110301:0216/pct:76.50933040614709,60.853871048045804,17.258202219782902,10.148535391253837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5070,7 +5070,7 @@ oi the * nit&quot; l States, from capture until the 1st
 °1J ’dy 1W ■-*, af gr which tire old form of passport I  
 v. ii: bo unavailable and the new one alone in use. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804110301:0340/pct:59.44242887149131,8.978044955567173,18.159251479854877,9.618400418191323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804110301:0340/pct:59.43108056510118,8.976871814974519,18.162148402698232,9.621499194215776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5149,7 +5149,7 @@ lof Joly 1803, after which the ol form of
 patlport wiil be unavailable and the new one  
 alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804110801:0591/pct:54.85725614591594,49.35882213251009,20.55908009516257,11.600569935882213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804110801:0591/pct:54.85725614591594,49.36278002058102,20.572297118688873,11.596612047811288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5181,7 +5181,7 @@ tore until tiie 1ft of July 1805, after which the
 old form of pafiport will be unavailable and the  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804111001:0224/pct:75.61901319356588,18.591338974614235,17.332369419844568,10.079641612742659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804111001:0224/pct:75.60534875316227,18.58902575587906,17.335260811950366,10.08253494255734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5212,7 +5212,7 @@ o^&#x27;he United States, ii ut cxpuue until the 1st
 oi July 1805, af-er which the Ajd forin.of passport  
 wi.; ho unavailable and the new one a.one in us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804111001:0348/pct:59.03133903133903,8.86390377827167,17.967711301044634,9.504510393515492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804111001:0348/pct:59.02012913026965,8.862745098039216,17.970629193568808,9.507625272331154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5319,7 +5319,7 @@ ture until the lb of July 1805, after which tnt
 old form of palTport will be unavailable and the  
 new one alone in nfc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804111401:0225/pct:41.900841238589585,80.2280897483575,17.146948272776086,10.102888310400397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804111401:0225/pct:41.89334287759485,80.21814576103124,17.149844905750417,10.105767641712113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5352,7 +5352,7 @@ tft of July 1805, after which the old form of
 paffport will be unavailable and the new one  
 alone in ufe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804111501:0595/pct:73.8227945416106,50.054472824113304,20.430520853353833,11.741919864423194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804111501:0595/pct:73.8227945416106,50.0585078481217,20.430520853353833,11.745954888431585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5384,7 +5384,7 @@ ture until the 111 of July UM/t, after which the
 old form of pi.Tpi&gt;rt will be unavailable and the  
 new one alone in ufe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804111701:0232/pct:75.25369414278084,63.31032782844466,17.00195834075129,10.007394626571358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804111701:0232/pct:75.24029903880384,63.30252618607517,17.004865313872077,10.010269049086055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5415,7 +5415,7 @@ ol&#x27;,5,c United States, f.cm . ure until the 1st I
 | J,y 1 d ■. a I er which tat old form cl passpou I  
 wid be uitiivai able ami the new one alone in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804111701:0356/pct:59.290347195726824,9.01522050214648,18.561617703166732,9.561597502276571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804111701:0356/pct:59.279038718291055,9.014047866805411,18.56443511984233,9.564689559486645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5521,7 +5521,7 @@ ftir (:.w.iiingf; and that by an arialignment a­
 gret.tt ution by tite 1* ifbarv powers, \ ,rii ... &#x27;  
 no are at (it.ii t ii ••• ru. ■&gt;, or the I ,rir. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804112101:0360/pct:59.96573386636208,36.40276509716969,17.932609937178754,7.304030259553932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804112101:0360/pct:59.9543205177008,36.39801773604591,17.935541174977796,7.307424795687706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5594,7 +5594,7 @@ ture until the lit of July 1305, after which the
 old form of patlport will be unavailable and the  
 new one alone in life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804112401:0237/pct:24.834496332080874,27.607513593672763,17.23027375201288,9.997528423133959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804112401:0237/pct:24.83005366726297,27.604102310638822,17.23315444245677,10.000411878578195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5702,7 +5702,7 @@ tiire untd the iff of July 180.5, after which the
 old form of pal]port will be unavailable and the  
 new one alone in life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804112801:0244/pct:75.72710951526032,67.88482834994463,17.073608617594253,6.496862310815799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804112801:0244/pct:75.71351642434034,67.87647637795276,17.07652725423323,6.500164041994751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5778,7 +5778,7 @@ ti.ie u .til the 1.1 of July 18CJ, after which the
 old form ot pailport will be unavaiiabic and the  
 new one alone in ufc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804120101:0248/pct:75.89016829052258,65.14426028238184,16.95305580159433,10.067526089625536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804120101:0248/pct:75.87672688629118,65.13626319666093,16.955957019718976,10.070382191668713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5891,7 +5891,7 @@ ol ihe United States, from capture until the 1st
 ol July U1U.5,«I er which tbe oid form of passport  
 will he unavailable ar. i the new one a&gt;o,ie in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804120501:0380/pct:40.936785986290936,73.53745928338762,17.84082254379284,9.654723127035831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804120501:0380/pct:40.928992956405864,73.52787910369985,17.843771812932292,9.657807886051764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5922,7 +5922,7 @@ of tV: Unit»d States, from capture until the 1st ]
 of July l05,af er which the Old form ol pasopr-rt  
 will lie unavailable and the new one alone in use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804120801:0384/pct:40.8124161716804,72.80334728033473,18.087756275148497,9.544979079497908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804120801:0384/pct:40.804597701149426,72.79382925872663,18.090676883780333,9.548089074824595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

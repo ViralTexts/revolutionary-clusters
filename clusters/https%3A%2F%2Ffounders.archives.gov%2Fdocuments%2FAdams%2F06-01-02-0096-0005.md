@@ -202,7 +202,7 @@ fccccflbrs, give and grant to the said Governor and the
 Great and General Court or Aflembly of our (aid province  
 or territory for the time being, fuU power and authorit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774030301:0543/pct:7.946127946127946,62.54026046772161,27.60942760942761,8.766279232600477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774030301:0543/pct:6.164105537837054,48.467966573816156,21.39170774137431,6.800998444452484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

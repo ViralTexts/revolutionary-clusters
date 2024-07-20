@@ -236,7 +236,7 @@ on the means of quieting the disorders now
 fubfillirg in certain of the Colonies, Planta­  
 tions, and Provinces of North America,”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778102701:0080/pct:66.88109566300062,37.21320649132625,26.478522515044617,5.567991046446559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778102701:0080/pct:66.89492979179636,37.21320649132625,26.464688386248877,5.572654355530685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ forwarded to tbe General by the Anna
 Therofa Packet, now lying under failing  
 orders at Falmouth for New York
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779112301:0290/pct:35.090030742204654,66.33020908435472,27.119016249451033,14.909877433309301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779112301:0290/pct:35.09735031474162,66.33020908435472,27.111696676914068,14.919490507089641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,9 +333,9 @@ tations and provinces of North America.” Thes
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1844-03_14_79/page/n108/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1844-03_14_79/page/n108/mode/1up?view=theater)
 
-#### 1844-03-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1844-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

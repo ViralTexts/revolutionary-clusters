@@ -544,7 +544,7 @@ Sir, with due refpeét, 3
 ~ Your most obedient servant,  
 . EDM. RANDOLPH. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796011601:0009/pct:5.95529699938763,8.643933386201427,72.0759338640539,84.44686756542427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796011601:0009/pct:5.95529699938763,8.647237642083002,72.08614002857726,84.45347607718742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ gn it. It will not, however, be
 concluded from hence that I mean to  
 relinquish the inquiry,&quot; ete
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885061401:0596/pct:6.888580674988442,107.63670647391578,35.81445523193096,22.2082547663943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885061401:0596/pct:2.2961935583294806,35.87890215797193,11.938151743976986,7.4027515887981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

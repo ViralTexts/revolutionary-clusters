@@ -6059,7 +6059,7 @@ For when you read, ’tis with intent
 To find out meanings never meant,  
 Since things are thus, fe defendando,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1787092201:0060/pct:10.87514585764294,7.338709677419355,25.71761960326721,28.516129032258064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1787092201:0060/pct:10.87514585764294,7.338709677419355,25.73317775184753,28.526881720430108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7929,7 +7929,7 @@ says “ An open foe may prove a curse—but
 a pretended friend is worse.” England neither  
 threatens our liberty or independence. Sh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812061601:0552/pct:76.93682955899881,56.13892647722147,21.483909415971393,2.471808750563825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812061601:0552/pct:76.92536868762103,56.133862529316254,21.48567456179552,2.4745925792290575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8375,7 +8375,7 @@ Each little speck and blemish find;
 To our own stronger errors blind.&quot;  
 D The Union Star has passed into the hand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1848011501:0579/pct:154.06976744186048,212.55733944954127,53.56104651162791,12.958715596330276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1848011501:0579/pct:38.51744186046512,53.13933486238532,13.390261627906977,3.239678899082569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8404,7 +8404,7 @@ them.
 The poor have little--beggars none  
 the rich too much--enough not one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:18.75,192.80246651073782,37.306301652892564,13.969806506485222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:6.25,64.2674888369126,12.43543388429752,4.656602168828408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8431,7 +8431,7 @@ Fools make feasts and wise men eat them.
 The poor have little--beggars none,  
 The rich too much--enough not one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849030301:0502/pct:263.55866355866357,339.9622743195904,52.136752136752136,8.407437348423606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849030301:0502/pct:65.91527399922269,84.9905685798976,13.039253789350953,2.1018593371059016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8474,7 +8474,7 @@ Fools make feasts and wise men eat them.
 The poor have little--beggars none-  
 the rich too much,--enough not one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:171.55172413793105,243.5173479421267,50.64655172413793,20.171372383761764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:42.90334171757097,60.87933698553167,12.666187567373338,5.042843095940441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8497,7 +8497,7 @@ Fools make feasts and wise men eat them.
 The poor have little--beggars none.  
 The rich too much--enough not one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:210.93343250278915,321.2095520700862,59.6690219412421,19.909566200367387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:52.723554564045365,80.29104266742017,14.91448224577059,4.976688330036733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8557,7 +8557,7 @@ the rich too much enough not one.
 ‘The poor have little—beggars none—the rich  
 too much—enough, not one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1849061601:0404/pct:102.2852120413096,81.17684277127492,18.41353548670622,1.2337867763366024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1849061601:0404/pct:79.27002327297497,62.91680287675711,14.293012431174434,0.9643674403399803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8573,7 +8573,7 @@ too much—enough, not one
 1 The poor have little--beggars  
 none--the rich too much--enough, no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849090701:0475/pct:275.4643962848297,113.95550418954059,49.14860681114551,4.738514880092459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849090701:0475/pct:68.86609907120743,28.488876047385148,12.287151702786378,1.1846287200231147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8607,7 +8607,7 @@ miles from Phillips&#x27; beach is this notice:
 V M People are requested not to nse anything  
 that is in the bathing house, except the boardTh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00202193973:1850061401:0187/pct:1.7295308187672493,68.75300336376742,20.993560257589696,7.448342143200384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00202193973:1850061401:0187/pct:1.7356639067770623,68.76101233381387,20.99969334559951,7.448342143200384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8740,7 +8740,7 @@ order of the day, in the Senate, for Thursday next. (N.
 When you speak to a man, look on his eyes  
 when he speaks to thee, look on his mouth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852020201:0117/pct:50.020559210526315,238.83540372670808,38.301809210526315,5.450310559006211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852020201:0117/pct:16.673519736842106,79.61180124223603,12.767269736842104,1.8167701863354038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8772,7 +8772,7 @@ He got the coat--he did--N. O. Delta.
 When you speak to a man, look on his eyes;  
 when he speaks to thee, look on his mouth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852021001:0098/pct:27.706453851492018,98.41892233746522,42.2970159611381,25.51226916266127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852021001:0098/pct:9.235484617164007,32.80630744582174,14.099005320379366,8.50408972088709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8903,7 +8903,7 @@ tually come to pass, believe as he pleases.
 I am his humble Friend,  
 R. SAUNDERS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1852071601:0575/pct:14.296187683284458,60.17852001151742,101.61290322580645,324.1577886553412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1852071601:0575/pct:3.57601320374106,15.044630002879355,25.41720154043646,81.0394471638353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9013,7 +9013,7 @@ Hash lttle spack and blamish find?
   
 To our own stronger errors blind.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855111501:0658/pct:68.23266219239373,295.84638431158925,51.081282624906784,44.6683916655318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855111501:0658/pct:17.06771124790151,73.96159607789731,12.777466890505503,11.16709791638295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9114,7 +9114,7 @@ enemy.
 &quot;An open foe may prove a curse;  
 But a pretended friend is worse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470077:1856081201:0147/pct:21.094190637337846,339.87380419295744,49.35138183869148,8.304498269896193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470077:1856081201:0147/pct:5.275035260930888,84.96845104823936,12.341325811001411,2.0761245674740483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9325,7 +9325,7 @@ curse, But a pretended friend is worse,
 BThe poor have little--beggars, none  
 the rich, too much--enough, not one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862060401:0729/pct:254.09520993494974,284.2360811394044,36.05854523950325,2.751402675873975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862060401:0729/pct:84.72345459923099,94.74536037980147,12.02307009760426,0.9171342252913249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9377,7 +9377,7 @@ The poor have little--beggars none
   
 -the rich, too much-enough, not one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629217:1862101401:0285/pct:60.94249201277955,329.267968646207,52.236421725239616,55.85226517869005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629217:1862101401:0285/pct:15.244755244755245,82.31699216155175,13.066933066933068,13.963066294672512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9414,7 +9414,7 @@ Tricks and treachery are the practice
 of fools that have not wit enough to be  
 honest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn83035143:00280775599:1864081701:0594/pct:339.546783625731,89.10691097965662,45.10233918128655,7.73337180781994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn83035143:00280775599:1864081701:0594/pct:84.88669590643275,22.276727744914155,11.275584795321638,1.933342951954985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9434,7 +9434,7 @@ Tricks and treachery are the prac­
 tice of fools that have not wit eflouglt  
 to be honest. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:0027952858A:1864082501:0451/pct:83.04215196894066,86.96364567332309,12.354409317803661,2.672811059907834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:0027952858A:1864082501:0451/pct:83.04677389535959,86.9704727769244,12.34978739138473,2.6693975081071857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9457,7 +9457,7 @@ another occasion.
 Tricks and treachery are the practice of  
 fools that have not wit enough to be honest.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1864090801:0613/pct:38.396321310533125,84.64084740152268,11.194137088662163,4.225973739379897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1864090801:0613/pct:38.401111270776454,84.64084740152268,11.203717009148823,4.240685571370775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9499,7 +9499,7 @@ Tricks and treachery are the practice
 of fools that have net wit enough to ho  
 honest.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769787:1864092101:0422/pct:72.33688876575702,81.88111196571805,13.035046405319296,10.394462147016812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086769:00271769787:1864092101:0422/pct:68.71956836425845,77.78705636743216,12.391981401061543,9.878218510786361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9555,7 +9555,7 @@ A man is a fool tq,he enraged with any ill
 that he cannot remedy, or if he endures one  
 that he can. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870012701:0122/pct:51.872621670338475,83.02309307207838,15.101141598237533,12.204338698390483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870012701:0122/pct:51.86223468161794,83.01147495102155,15.103123748498199,12.206129303106634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9598,7 +9598,7 @@ In vain malicious tongues assail;
 From virtue’s shield (secure from wound,)  
 Their blunted, venomed shafts rebound
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1871101801:0131/pct:18.560380725758478,12.57931744126222,24.009518143961927,81.56405419310582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1871101801:0131/pct:18.558172733761598,12.578238875075023,24.010627329685146,81.5599188316328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9636,7 +9636,7 @@ Tricks and treachery are the practice
 of fools that have not sense enough to be  
 honest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877509:1872091401:0125/pct:53.86947218259629,5.779308279682588,14.81811697574893,14.403353795478365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877509:1872091401:0125/pct:40.420977524081344,4.341967360383291,11.13093114520157,10.795029195987423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9803,7 +9803,7 @@ Now, I make bold to say that there has never ap-­
 peared in the &quot;Compiaint Book&quot; a more silly or ui­  
 peared in thes amg hise rowp than llanover
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743956:1877051801:0629/pct:248.3496433902803,193.696373412653,46.49195554818378,8.248484155130992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743956:1877051801:0629/pct:82.78321446342677,64.56545780421767,15.49731851606126,2.7494947183769973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9859,7 +9859,7 @@ Ben Butler and the Negro
 An open foe may prove a curse  
 But a pretended friend is wors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101908:1880091001:0262/pct:275.38461538461536,55.519765739385065,44.84615384615385,38.88726207906296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101908:1880091001:0262/pct:68.84615384615384,13.879941434846266,11.211538461538462,9.72181551976574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9893,7 +9893,7 @@ lvle.
 An open foe may prove a curse,  
 But a pretended friend is worse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471550:1882121601:0630/pct:204.7581284694687,208.8680509042197,56.06661379857256,49.618218352310784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471550:1882121601:0630/pct:51.20983736612455,52.217012726054925,14.022213407378025,12.404554588077696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10092,7 +10092,7 @@ Through life disdains a double pari.
 Ho never needs the screen of lies  
 His inward bosom to disguise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623896:1888031701:0056/pct:62.147102526002975,13.513135830072667,7.540861812778603,1.1878144214645052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623896:1888031701:0056/pct:62.15329370975731,13.513135830072667,7.553244180287271,1.1878144214645052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10316,7 +10316,7 @@ Tricks and treachery are the prac­
 tice of fools that have not wit enough  
 to be honest.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153590:1892032601:0051/pct:27.383637482058642,12.014787430683919,10.96985851958171,2.803450400492914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153590:1892032601:0051/pct:27.383637482058642,12.019921955226947,10.976693322397649,2.800883138221401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10355,7 +10355,7 @@ When you speak to a man, look on
 his eyes. When he speaks to you,  
 look on his mouth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1892080601:0924/pct:33.19773611602405,75.56833377908532,10.134418111071808,12.998127841668895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1892080601:0924/pct:33.19186560565871,75.55822970985426,10.137046861184793,12.999732584570129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10392,7 +10392,7 @@ and tricks and treachery as one of my
 maxims said are the practice of fools that  
 have not wit enough to be hones
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00206534461:1892090401:0170/pct:27.392578125,59.33652530779754,19.124348958333332,1.8581851345189238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00206534461:1892090401:0170/pct:18.270639960918416,39.55768353853169,12.766650382673832,1.2425900592795258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10409,7 +10409,7 @@ of them. Remember &quot;an open foe may
 prove a curse, but a pretended friend is  
 worse&quot; And when the returns are coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_emerson_ver01:data:sn84020631:00415628936:1892091001:0864/pct:10.7981220657277,101.15278204734092,14.43661971830986,2.028896403320012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_emerson_ver01:data:sn84020631:00415628936:1892091001:0864/pct:8.101761252446185,75.86842914233016,10.841487279843443,1.5216723024900092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10426,7 +10426,7 @@ jaw-bones, I know you lawyers can
 with ease twist words and meanings  
 as you please.” “Jaw-bones vs. Saw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340733:1893071401:0223/pct:49.29891650732951,29.126322900247693,13.448056086679413,1.7225850033776176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_fencing_ver02:data:sn83016589:00393340733:1893071401:0223/pct:49.304227745910346,29.130075808751783,13.45336732526025,1.7225850033776176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10481,7 +10481,7 @@ tice of fools that have not wit enough to
 be honest.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1895122801:0036/pct:45.549813379270745,70.01942585797539,12.388745334481769,5.19102093675804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1895122801:0036/pct:45.55459852617475,70.02302323908195,12.383960187577758,5.201813080077703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10713,7 +10713,7 @@ But a pretended friend Is worse
 HatDV that nation, fortunate that  
 age, whose history is not diverting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:0041615675A:1896072301:0372/pct:56.40060240963855,78.41759238267966,16.716867469879517,1.5642711403309908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:0041615675A:1896072301:0372/pct:42.31058894411809,58.81886193606892,12.547070341918964,1.1788710043074133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10736,7 +10736,7 @@ always bright.
 The sleeping fox catches no poul  
 try
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:0041615675A:1896072301:0372/pct:56.41566265060241,82.04488778054863,16.746987951807228,7.367943776921333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:0041615675A:1896072301:0372/pct:42.32565145353216,61.53933348447064,12.562132851333033,5.52029018363183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10918,7 +10918,7 @@ taurants have closed their doors since
 An open foe may prove a curse, but  
 a pretended friend is worse. Fope,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:0028077456A:1897040301:0420/pct:210.33243486073675,313.07086614173227,118.86792452830188,79.8740157480315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_agave_ver01:data:sn93061674:0028077456A:1897040301:0420/pct:52.61856596988087,78.26771653543307,29.73701955495617,19.968503937007874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10994,7 +10994,7 @@ FoR WOmen And home
 TTEMS OF iNTEREET FOR MAiDs  
 AND MATRONS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1898010701:0017/pct:104.72161572052401,22.193737410730634,83.76091703056768,257.37044497344806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1898010701:0017/pct:34.91673491673492,7.397912470243545,27.92792792792793,85.7901483244827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11054,7 +11054,7 @@ The rich too much—enough not one.’
 gars none—the rich too much  
 •—enough not one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210703:1898042201:0051/pct:4.964539007092198,26.34647844100046,10.724788098944819,2.7926960257787323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210703:1898042201:0051/pct:4.963680387409201,26.342436330162627,10.727257004496714,2.7961030991101565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11072,7 +11072,7 @@ gars none—the rich too much
 gars none—the rich too much  
 — enough not one.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524810:1898042801:0137/pct:83.42612419700214,23.97471477027444,12.269807280513918,2.6210299105766266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524810:1898042801:0137/pct:83.40826375508456,23.971018960998922,12.272532648255192,2.6244797286881454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11176,7 +11176,7 @@ like gold iu the mine.
 The poor have little, beggars none,  
 the rich too much, enough not one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916385:1899030401:0113/pct:53.62205748471843,75.05653328089667,14.163090128755364,3.913086225543211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_abolitionist_ver02:data:sn86074033:00199916385:1899030401:0113/pct:41.55691439322672,58.17332114192828,10.983066792097837,3.035151884588032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11271,7 +11271,7 @@ of poetry averse that roads, &quot;I know
 you lawyers can with ease twist words  
 and meanings as you please.&quot; Ru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_fleming_ver01:data:sn84020630:0041562900A:1899111401:1122/pct:10.024252223120452,44.478570431383496,16.309620048504446,2.191819070221974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_fleming_ver01:data:sn84020630:0041562900A:1899111401:1122/pct:7.522750252780586,33.36590813904788,12.254802831142568,1.647354460421611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

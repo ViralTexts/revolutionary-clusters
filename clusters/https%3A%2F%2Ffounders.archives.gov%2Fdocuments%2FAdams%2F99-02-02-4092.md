@@ -40,7 +40,7 @@ world. It remains for an affectionate and grate
 ful people, in whole hearts he can never die, to  
 pay luitable honor to his memoiy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799123001:0312/pct:51.397800183318054,64.60476257573623,21.333638863428046,6.227983655065521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799123001:0312/pct:51.38602520045819,64.5956607495069,21.33447880870561,6.230628346012962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ ful peopls, in whose hearts he can nev­
 er die, to pay suitable honor to his  
 memory. JOHN ADAMS. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010101:0211/pct:5.679166018360044,61.448989650073926,16.508479850630152,20.00985707244948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010101:0211/pct:5.684352471344847,61.455561031706914,16.513666303614958,20.00985707244948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ his countrv, rendered illustrious tlrough thi world, it
 remains for an affectionate and grateful peope, in whose  
 hearts he can never die, to pay *Jghx
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853102201:0781/pct:34.2754225547243,36.43534804391856,15.724577445275699,10.947660164161602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853102201:0781/pct:34.28465872356146,36.44245460682941,15.719959360857116,10.947660164161602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ world. It remains for an affectionate and grateful peo­
 ple, in whose hearts he can never die, to pay suitable  
 honor to his memory. John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879099:1858030501:0251/pct:3.51985559566787,63.85554024798268,19.520371325425476,14.49517811454438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879099:1858030501:0251/pct:2.6441377531278216,47.89411533162763,14.652392622210757,10.873843731548908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ worid. It remains for an affectionate and
 sir:tcful people, in whose hearts he can never  
 , to pay suitable honors to his memory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885032101:0378/pct:65.56512378902045,21.891595717777964,9.978471474703984,5.580375958863693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885032101:0378/pct:65.5687118765698,21.891595717777964,9.985647649802655,5.588805529798533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ in which he said: &quot;It remains for an affectionate
 and grateful people, in whose hearts he can never  
 die, to pay sustable honors to his memory,&quot; Rot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121001:0570/pct:122.92307692307692,105.33273246207,50.38461538461539,6.068799759651495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121001:0570/pct:30.74850875505099,26.3331831155175,12.603425052915144,1.5171999399128737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ and grateful people, in whose
 hearts he can never die. to pay suitable  
 honors to&#x27;his memory.&quot; Both house
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_germany_ver01:data:sn84026844:00202193729:1899121401:1161/pct:34.3171114599686,50.07278020378457,19.654631083202514,2.1470160116448325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_germany_ver01:data:sn84026844:00202193729:1899121401:1161/pct:34.33281004709576,50.07278020378457,19.654631083202514,2.1515647743813684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

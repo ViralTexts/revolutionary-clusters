@@ -285,7 +285,7 @@ niav we not raise our eyesaod hearts, when &gt;
 &gt;v-j consider mai me greatest power is the  
 best 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804100601:0306/pct:41.152815013404826,58.703872734385186,17.885867483722713,5.737384274351284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804100601:0306/pct:41.144935860616506,58.696219035202084,17.888825068606803,5.740982181660148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -215,7 +215,7 @@ have entered the city. The Insurgents
 have burned the palace of Tuilleries  
 and other fine buildings. Fires ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1871060101:0089/pct:73.39821573398216,345.878861459598,51.90592051905921,32.59139349790908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1871060101:0089/pct:18.353275197728657,86.4697153648995,12.979111742040153,8.14784837447727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

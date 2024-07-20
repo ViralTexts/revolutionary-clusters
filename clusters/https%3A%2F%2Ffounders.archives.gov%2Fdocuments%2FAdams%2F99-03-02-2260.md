@@ -292,7 +292,7 @@ merciful like himself.
 ple that is poor by thee, thou shall not be to  
 him as an usuier, neither shalt thou lay u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816113001:0378/pct:57.53277455405115,29.68882602545969,18.138835160111757,2.6025459688826027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816113001:0378/pct:57.52041254834551,29.684627351152596,18.140309411259132,2.6057134775845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ ever iemember that litigation is the great
 evil of society ; the disturber of its peace ;  
 the ruin of the rich and poor. It sows th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830012601:0308/pct:10.44608832100426,10.552834149755073,42.74826272136292,110.48285514345696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830012601:0308/pct:8.095899930507297,8.182081133849158,33.136437340745886,85.63164364740763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1215,7 +1215,7 @@ afflict any widow, or fatherless child, if
   
 thou afflict them in any wise, and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1843120701:0283/pct:45.62398703403566,32.020997375328086,19.266612641815236,3.8203557888597257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1843120701:0283/pct:34.23186055938387,24.015748031496063,14.471017430077017,2.8725575969670456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1327,7 +1327,7 @@ nor bear any grudgp against the children
 of thy people; but thou shalt love thy  
 neighbor as thyself. 33. 34. And if 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1845061901:0601/pct:28.361513687600645,45.986255300482526,19.26328502415459,17.005410147682408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1845061901:0601/pct:21.289023162134946,34.493346980552715,14.46122860020141,12.765024126334259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1480,7 +1480,7 @@ ing, were of home produce, and, consequently, did not give rise to an
 &quot;If thou lend money to any of my people, that is poor  
 by thee, thou shalt not be to him as an usurer.&quot;E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849060701:0352/pct:252.94009891921598,133.72864605393195,61.05513830371863,6.282648595228011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849060701:0352/pct:63.223443223443226,33.427442123094295,15.260989010989011,1.5704404291360814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1641,7 +1641,7 @@ thou lend money to any of my people that is
 poor by thee, thou shall not be to him as a  
 usurer, neither shall thou lay upon him usu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1852031701:0247/pct:4.406073236082167,75.84985051489315,14.528133373027687,10.39751965452331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1852031701:0247/pct:4.406073236082167,75.85354150518585,14.538056961397242,10.393828664230613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1671,7 +1671,7 @@ thou lend money to any of my people that is
 poor by thee, thou shall not be to him as a  
 usurer, neither shall thou lay upon him usu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1852031701:0248/pct:4.566413803361595,76.22470419108703,14.606574445931876,9.94139113126175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624268:1852031701:0248/pct:4.566413803361595,76.22470419108703,14.621448757994942,9.945077223635224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1859,7 +1859,7 @@ shalt thou gather the gleanings of thy harvest.
 10 And thou shalt not glean thy vineyard, neither  
 shalt thou gather every grape of thy vineyard, tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855022101:0063/pct:41.89927184466019,58.509747637842366,19.933252427184467,13.252003348881713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022743:1855022101:0063/pct:31.446349977234785,43.882310728381775,14.964334496888753,9.939002511661284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1900,7 +1900,7 @@ money upon usury, nor lend him thy
 victuals for increase.&quot; Agin, Deut.  
 xxiii. 19v: &quot;Thou shalt not lend upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855051801:0094/pct:100.39494470774092,53.34025165391101,54.02843601895734,64.96303022441302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855051801:0094/pct:25.113613910294408,13.335062913477753,13.515115589804386,16.240757556103254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2041,7 +2041,7 @@ ye were strangers in the land of Egypt. Ye
 shall not afflict any widow or fatherless child.  
 If thon afflict them in any wise, and they cr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1856090901:1015/pct:155.4481546572935,246.2429588691678,41.78383128295255,28.24954830481454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1856090901:1015/pct:51.83123351889833,82.0809862897226,13.932024611778495,9.416516101604847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2092,7 +2092,7 @@ and testified also; but I shall by no means bear any
 blame of Mr. Rosenfels himself to be guilty of such  
 a low act in that respect. I know him to be a gentle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190996:1856111901:0484/pct:109.95755217545101,178.49554280131883,42.71312345242306,18.121870802295764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190996:1856111901:0484/pct:36.652517391817,59.49851426710628,14.237707817474355,6.0406236007652545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2139,7 +2139,7 @@ press him, for ye were strangers in the land
 of Egypt; ye shall not afflict any widow or  
 fatherless child; if thou afflict them in an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857060501:0304/pct:128.8295365278869,33.073229291716686,51.610369206598584,8.703481392557023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857060501:0304/pct:32.22637060326194,8.268307322929171,12.910198467282374,2.175870348139256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2157,7 +2157,7 @@ nor oppress him; for ye were strangers in the land of
 Egypt. Ye shall not afflict any widow or fatherles  
 child. If thou afflict them in anywise, and they cry a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857072401:0332/pct:234.0141398271799,228.9228922892289,50.58915946582875,5.8205820582058205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857072401:0332/pct:58.53802318726665,57.23072307230723,12.65474552957359,1.4551455145514551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2205,7 +2205,7 @@ afflicted in the gate; for the Lord will
 plead their cause, aud spoil ilie soul ofj  
 those that spoiled tlieui. Aud if a stran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1857102201:0070/pct:32.545536655125694,75.62131423757371,14.52656932108987,10.07792754844145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1857102201:0070/pct:32.55055446836269,75.62131423757371,14.53158713432686,10.084948048301039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2269,7 +2269,7 @@ and the widow might have what remained after
 the first gathering. &quot;When thou dost lend thy  
 brother anything, thou shalt not go into hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190637:1859042301:0379/pct:133.28096947935367,205.3690036900369,62.679533213644525,34.18819188191882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190637:1859042301:0379/pct:33.32024236983842,51.34225092250922,15.669883303411131,8.547047970479705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2336,7 +2336,7 @@ Command ot Christ’s, but was the Law and
 the Prophets also ; and those that come to ob­  
 serve that Command, even f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860062901:0615/pct:21.38401559454191,43.72093023255814,15.964912280701755,8.343904157857645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860062901:0615/pct:16.582737435794137,33.886764973602766,12.37284721522812,6.470052794465683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2356,7 +2356,7 @@ the land of Egypt.
 fatherless child.  
 23. If thou afflict them in any wise, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860062901:0323/pct:26.204819277108435,31.55157468939613,49.3222891566265,11.095059231436002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1860062901:0323/pct:6.554906762102091,7.8878936723490325,12.337540026370315,2.7737648078590005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2384,7 +2384,7 @@ not vex him. But the stranger that dwellethwith
 you shall be unto you as one born among you,  
 thou ahalt love bim as thyself, for ye were stran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1861030601:0249/pct:75.16459400146306,99.58891393714362,15.98390636430139,6.948680546346639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1861030601:0249/pct:56.40321990486645,74.69831587322636,11.983168679107209,5.2115104097599785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2469,7 +2469,7 @@ people, but thou shalt love thy neighbor as thyself
 by thee, thou shall not be to him as an usurer, neither  
 shalt thou lay upon him usury.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861102101:0379/pct:109.2264017033357,47.7521722704949,42.92051100070972,4.206019393023548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861102101:0379/pct:36.40234167110165,15.915386552505666,14.30429897699722,1.4018299336858893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2646,7 +2646,7 @@ or bear any grudge against the children of thy
 people, but thou shalt love thy neighbor as thy  
 self.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864012501:0091/pct:15.704387990762125,138.39044380503967,49.51501154734411,6.55680530124684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864012501:0091/pct:3.9265504099780575,34.59761095125992,12.380182469107288,1.63920132531171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2873,7 +2873,7 @@ neither rob him ” “Thou shall not
 avenge, nor bear any grudge against the  
 children of the people.” And then, ris
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340639:1867110801:0179/pct:74.64176461117373,52.259956022477404,10.78731283207213,6.828731981431713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340639:1867110801:0179/pct:74.62974887314874,52.253572737266396,10.789600772698003,6.830951508489068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2892,7 +2892,7 @@ strangers in the land of Egypt.
 Ye shall not afflict any &quot;widow or fatherless child.  
 If you afflict them in anywise, and they cry at al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1868110801:0003/pct:69.29046563192905,77.95051172431663,12.21359940872136,1.7748413006866175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1868110801:0003/pct:69.29046563192905,77.96022800880944,12.222838137472284,1.7748413006866175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2923,7 +2923,7 @@ cent and righteous slay thou not, for I will not jus­
 tify the wicked.  
 Thou shalt not oppress a hired servant that i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1868110801:0003/pct:69.3089430894309,80.38606037051431,12.195121951219512,5.4799844539448115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1868110801:0003/pct:69.31356245380636,80.39253789350953,12.199741315594974,5.4799844539448115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3012,7 +3012,7 @@ strangers in the land of Egypt.
 Yephall not afflict any widow or fatherless child.  
 If ye afflict them in anywise, and they cry at all unt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1869080101:0003/pct:44.64843032862126,83.15504575331873,12.080044060950982,1.765691455084418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1869080101:0003/pct:44.64843032862126,83.15826781801779,12.093813108132917,1.7689135197834773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3044,7 +3044,7 @@ and needy, whether he be of thy brethren or of the
 strangers tnatarein thy land within thy gates; at  
 this day thou shaft give him his hire; neither shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1869080101:0003/pct:44.59335413989352,85.5780384070112,12.080044060950982,5.748163423121536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1869080101:0003/pct:44.602533504681475,85.58126047171027,12.080044060950982,5.754607552519655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3064,7 +3064,7 @@ him. Thou shalt not avenge, nor bear any
 grudge against the children ot thy people, but  
 thon shalt loye thy neighbor as thyself: 1 a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn87070095:00296022688:1869090801:0153/pct:65.39558089807555,112.72640038383112,14.736279401282966,3.214585582343769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn87070095:00296022688:1869090801:0153/pct:49.07308377896613,84.55079764903442,11.05169340463458,2.4109391867578265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3083,7 +3083,7 @@ strangers in the land ot Egypt.
 Ye shall not afflict any widow or fatherless child.  
 If ye afflict them in any wise, and they cry at all un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1869103101:0003/pct:68.82925932732954,87.16986017607458,12.03822826686271,1.8125323666494044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1869103101:0003/pct:68.83385407094283,87.17633350595547,12.047417754089322,1.8190056965302952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3116,7 +3116,7 @@ and needy, whether he be of thy brethren or or the
 strangers that are within thy gates; at. this day thou  
 shalt give him his hire; neither shall tne sun g
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1869103101:0003/pct:68.81088035287631,89.61677887105127,12.03822826686271,6.136716727084412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026214:print0021111017A:1869103101:0003/pct:68.81088035287631,89.62325220093216,12.047417754089322,6.1464267219057485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3135,7 +3135,7 @@ stiangers in the laud of Egypt.
 Ye shall not afflict any widow or fatherless child.  
 If ye afflict them in any wise, and they cry at al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110193:1869121901:0003/pct:57.26823916620955,27.166216042229948,11.994880234046443,1.8024977468778165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110193:1869121901:0003/pct:57.272810385810935,27.17587228015965,12.008593892850612,1.7928415089481138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3167,7 +3167,7 @@ Thou shalt not oppress a hired servant that is poor
 and needy, whether he be of thy brethren or oi the  
 strangers that are in thy land within thy gates; a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110193:1869121901:0003/pct:57.26823916620955,29.52233809707738,12.031449990857562,5.832367709540363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110193:1869121901:0003/pct:57.272810385810935,29.53199433500708,12.031449990857562,5.835586455516931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3187,7 +3187,7 @@ inonish thy neighbor, and not suffer sin
 upon him. Thou shalt not avenge nor  
 bear any grudge.&quot; And atrain savs th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775915:1869122901:0402/pct:49.968671679197996,65.40401078925765,13.972431077694235,3.0491380321332238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775915:1869122901:0402/pct:37.490208365972116,49.055939955435676,10.480965063449789,2.286853524099918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3208,7 +3208,7 @@ thou see the ass of him that hateth
 thee, lying under his burden, and  
 wouldest forbear to help him, tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556503:1870062501:0104/pct:31.842260153031194,139.52060455779903,41.730429664508534,13.224701853819813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556503:1870062501:0104/pct:7.962908448631145,34.88015113944976,10.435678539888137,3.306175463454953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3257,7 +3257,7 @@ not respect persons in judgment; bu
 astray thou shalt auvely oring it back to him agat a  
 if thou see the ass of him that hateth thee lying un-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871021901:0532/pct:147.52821491018915,129.41705043243851,44.96900333810205,4.650117937773784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871021901:0532/pct:49.176071636729716,43.139016810812834,14.98966777936735,1.5500393125912613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3278,7 +3278,7 @@ stumbling block before the blind, but shalt fear thy
 God: I am the Lord.&quot; Next to the decalogue, he  
 said, this chapter is one of the most important in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743750:1871070901:0092/pct:248.7401968963791,76.02470522178551,47.939262472885034,7.6810780460415495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743750:1871070901:0092/pct:82.9133989654597,25.34156840726184,15.979754157628344,2.5603593486805165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3498,7 +3498,7 @@ Exo, 234, 5. &quot;If thou meet thine
 enemy&#x27;s ox or his ass going astray, thou  
 shalt surely bring it back to him again.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022795:no_reel:1876090901:0196/pct:178.07361002349256,184.59492997695443,46.880709997389715,31.146959758907997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022795:no_reel:1876090901:0196/pct:59.357870007830854,61.53164332565148,15.626903332463238,10.382319919635998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3723,7 +3723,7 @@ grudge against the children of thy peopl
 ut thou shalt love thy neighbor as thy­  
 self: I am the Lord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_forge_ver01:data:sn85038558:00280761539:1877081801:0187/pct:127.79765777488615,124.93244647682394,39.86662329212752,5.1756391602577425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_forge_ver01:data:sn85038558:00280761539:1877081801:0187/pct:42.60614934114202,41.64847728926307,13.291036277859119,1.7253923708554204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3765,7 +3765,7 @@ Take thou no usury of him, or increase ;
 but fear thy God. that thy brother may live  
 Thou shalt not give him thy money upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346782:1877101801:0466/pct:52.15183106121358,23.745154557201072,13.59262229350441,14.690388629360898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346782:1877101801:0466/pct:52.156286197986276,23.745154557201072,13.597077430277109,14.697014875923534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3791,7 +3791,7 @@ ment as a pledge, thon shalt deliver it
 unto him by that the sun goeth down.”  
 Here there «an he no doubt Hut the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016093:1878011701:0202/pct:55.79783982066436,91.01697461318912,12.308946403097616,6.894997746732763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016093:1878011701:0202/pct:55.78647106764466,91.00330429558426,12.311532192339039,6.897717032141784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3838,7 +3838,7 @@ God said to the Jews: &quot;When your
 children shall say to you, what .mean ye  
 by this service ? ye shall say, it is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194394:1878060301:0089/pct:36.958333333333336,19.24136469591015,15.01388888888889,11.44310235219326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194394:1878060301:0089/pct:27.729924979160877,14.431023521932612,11.2670186162823,8.592922229285866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3899,7 +3899,7 @@ pass, when he crieth unto me, that i will hear:
 for 1 am gracious.” This paasage plainly  
 teaches that human suffering is a greater evi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878120101:0003/pct:42.65704584040747,72.82743637492241,12.966893039049236,2.4829298572315333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878120101:0003/pct:42.66235144312394,72.83907510862818,12.982809847198642,2.47129112352576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3975,7 +3975,7 @@ nor oppress him, for ye were strangers
 in Egypt.” And with still greater em­  
 phasis comes the divine command
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173393:1879040401:0615/pct:2.1793416572077184,87.09677419354838,14.824063564131668,2.597187758478081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173393:1879040401:0615/pct:2.1788470267816615,87.08236850810454,14.826373127553337,2.600893152497519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3993,7 +3993,7 @@ avenge nor bear any grudge against the chil­
 dren of thy people, but shalt love thy neigh­  
 bor as thyself,&quot; ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475488:1879051901:0406/pct:234.8684210526316,130.41578389830508,44.93034055727554,5.283368644067797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475488:1879051901:0406/pct:78.28947368421052,43.471927966101696,14.976780185758514,1.7611228813559323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4135,7 +4135,7 @@ each other as enemies; but the good Samari­
 tan had compassion upon the unforttinate  
 Jew that had been beaten and robbed an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779581:1880030701:0216/pct:270.1983551040155,109.50198594561564,35.41364296081277,15.765352887259395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779581:1880030701:0216/pct:67.5741076830006,27.37549648640391,8.856624319419238,3.9413382218148487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4293,7 +4293,7 @@ Institute, &quot;well explains the character of the
 Jewish law; it is that of a people who know  
 what it is to suffer. The law protect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882082701:0835/pct:169.12096168294516,298.6085904416213,49.88730277986476,23.77495462794918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882082701:0835/pct:42.28024042073629,74.65214761040532,12.47182569496619,5.943738656987295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4419,7 +4419,7 @@ lend money to any of my people that is poor by
 thee, thou shall not be to him as a usurer  
 neither shall thou lay upon him usury.&quot; Fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885053101:0162/pct:76.75134719014626,236.47342995169083,50.50038491147036,7.427536231884058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044863:1885053101:0162/pct:19.187836797536566,59.11835748792271,12.62509622786759,1.8568840579710144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4438,7 +4438,7 @@ people that is poor by thee, thou
 shalt not be to him as an usurer  
 neither shalt thou lay upon hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528414:1885060401:0107/pct:184.03767505267072,192.96487301741755,31.701573924897758,5.818818721416756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528414:1885060401:0107/pct:61.345891684223574,64.32162433913918,10.567191308299252,1.939606240472252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4552,7 +4552,7 @@ live with thee.
 Thou shalt not give him thy money  
 upon usury, nor lend him thy victual
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_clash_ver01:data:sn90065027:00414219391:1887040901:0282/pct:48.35390946502058,42.93544457978076,18.724279835390945,28.42570036540804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_clash_ver01:data:sn90065027:00414219391:1887040901:0282/pct:36.298126415482805,32.20158343483557,14.062178299361745,21.330694275274055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4739,7 +4739,7 @@ ple that is poor by thee, thou shaft not
   
 be to him asan usurer, neitnersnan ino
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1889052301:0091/pct:75.21713954834973,108.6547811993517,16.372321945570352,1.7612101566720693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1889052301:0091/pct:56.42919200695048,81.49108589951378,12.293657688966116,1.3290113452188006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5014,7 +5014,7 @@ tion.
 people that is poor by thee, thou shalt  
 not be to him a usurer, neither shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1892042801:0010/pct:5.969120485249517,63.2614092037426,14.254204576785222,2.1290815352300934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_eridanus_ver02:data:sn83016235:00393344520:1892042801:0010/pct:5.969120485249517,63.26777417096302,14.263394908556199,2.1354465024505123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5033,7 +5033,7 @@ of thy people, but thou shalt love
 thy people as thyself.&#x27; Our Lord&#x27;B-summary  
 puts the whole in brief and coi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271763116:1892053001:0517/pct:54.84508899143046,31.732259064146266,14.667106130520764,3.594669972110319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271763116:1892053001:0517/pct:41.147378832838776,23.7991942981097,11.012199142762942,2.6960024790827393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5077,7 +5077,7 @@ creeping into his house by night or the
 savage tomahawking his wife and chil­  
 dren or attempting to burn his home
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529662:1892061601:0192/pct:52.34720992028344,17.282082324455207,14.216120460584587,16.131961259079905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529662:1892061601:0192/pct:52.335620987381006,17.27946739294901,14.218507859198583,16.133303071569074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5097,7 +5097,7 @@ ple, in a court of justice, in the great
 assembly of the people or at the pub­  
 lic games. Also a law declaring th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_dagger_ver01:data:sn2001063133:00415623252:1892121501:0859/pct:24.31784107946027,36.20923913043478,10.569715142428786,3.1136775362318843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_dagger_ver01:data:sn2001063133:00415623252:1892121501:0859/pct:24.32533733133433,36.21773097826087,10.569715142428786,3.1136775362318843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5117,7 +5117,7 @@ ple, in a court of justice, in the great
 assembly of the people or at the pub­  
 lic games. Also a law declaring th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581210:1892121501:0167/pct:41.48378875831799,35.45221367235419,9.301996318844683,2.776848444295751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581210:1892121501:0167/pct:41.48732833073765,35.457789673246346,9.298456746425032,2.7796364447418314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5162,7 +5162,7 @@ thee.&quot; Lev. xxv, 36.
 fatherless child If thou afflict them  
 in anywise, and they cry unto me, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156876:1893022301:0189/pct:17.816742081447963,98.92565535023635,15.059389140271493,8.014611087236785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156876:1893022301:0189/pct:13.368227472061111,74.19424151267727,11.302871693308813,6.016330038676408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5180,7 +5180,7 @@ people that is poor by thee, theu sbalt
 not be to him as :an usurer neither  
 shalt thou lay upon him usury.&quot; E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156876:1893022301:0189/pct:17.830882352941178,109.25010743446498,15.313914027149321,2.879243661366566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn92072978:00416156876:1893022301:0189/pct:13.38237374451832,81.94026643747314,11.48677323525251,2.1594327460249247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5229,7 +5229,7 @@ fallen in decay with thee, then shalt
 thou relieve him. Yea though he be a  
 stranger and a sojourner; that he ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473807:1893030801:0250/pct:74.8081841432225,19.60089141004862,32.608695652173914,124.31118314424636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473807:1893030801:0250/pct:49.878501087095536,13.067260940032416,21.741910730272412,82.88087520259319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5416,7 +5416,7 @@ not avenge nor bear any grudge&quot; (Lev. xix
 shalt not hate thy brother in thine heart  
 thou shalt not avenge nor bear any grudge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893101801:0337/pct:34.684611642613916,84.13691153058903,13.977622831198314,1.5692517625653855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:0021247986A:1893101801:0337/pct:34.684611642613916,84.14449245697824,13.999243284146804,1.565461299370783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5433,7 +5433,7 @@ thou shalt not avenge nor bear any grudge
 shalt not hate thy brother in thine heart;  
 thou shalt not avenge nor bear any grudge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893101901:0504/pct:167.58457907159718,338.207907189742,50.590086546026754,5.983819264234468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1893101901:0504/pct:41.896144767899294,84.5519767974355,12.647521636506688,1.495954816058617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5460,7 +5460,7 @@ thou shalt not avenge nor bear any grudge
 hate thy brother in thine heart; thou shalt  
 not avenge nor bear any grudge” (Lev. xix.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1893102101:1017/pct:18.428890543559195,77.09622219297091,13.7192851824274,1.329472160063183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1893102101:1017/pct:18.42546063651591,77.0860752829692,13.7213847012842,1.332587523032377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5487,7 +5487,7 @@ children of thy people, but thou shall
   
 love thy neighbor as thyself; I am the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197528:1893110301:0824/pct:52.27090032154341,43.35236541598695,16.820739549839228,5.886351277868407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197528:1893110301:0824/pct:39.231852000804345,32.517672648178355,12.628192238085662,4.418162044589451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5511,7 +5511,7 @@ land. (22) Ye shall not afflict any
 widow or fatherless child. (23) If  
 thou afflict them in any wise, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1893110801:0222/pct:77.18010188792329,10.076838638858398,13.380281690140846,5.005488474204172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1893110801:0222/pct:77.18509639396663,10.076838638858398,13.380281690140846,5.012806439809733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5536,7 +5536,7 @@ To Clay County Alliances.
   
 At the last annual meeting of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1893110801:0222/pct:77.19508540605334,59.61580680570801,13.350314653880732,5.268935236004391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1893110801:0222/pct:77.20507441814004,59.619465788510794,13.355309159924083,5.272594218807171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5614,7 +5614,7 @@ it says, &quot;If thou lend money to any of my
 people that is poor, thou shalt not be to  
 him as an usurer, neither shalt thou la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_lawrencium_ver01:data:sn88076679:00199918527:1894030301:1297/pct:56.27235213204952,14.881013175365132,12.173314993122421,1.6954345827801043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_lawrencium_ver01:data:sn88076679:00199918527:1894030301:1297/pct:56.28152223750573,14.887822149593164,12.173314993122421,1.6920300956660879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5632,7 +5632,7 @@ If thou lend money to any of my peo­
 ple that is poor by thee thou shalt not  
 be to blm as an usurer, neither shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270211:0027952780A:1894030801:1207/pct:88.29034941763727,79.1339648173207,19.28036605657238,2.841677943166441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270211:0027952780A:1894030801:1207/pct:66.26430801248699,59.35047361299053,14.464099895941727,2.138024357239513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5740,7 +5740,7 @@ people that is poor by thee, thou
 shaSt not be 1o him as a usurer,  
 neither shalt thou lay upon hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_muddy_ver02:data:2012252560:00200290495:1895032301:0094/pct:2.8310502283105023,30.478183867332152,39.90867579908676,33.76267911769441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_muddy_ver02:data:2012252560:00200290495:1895032301:0094/pct:2.8386605783866057,30.478183867332152,39.916286149162865,33.77341276230344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5770,7 +5770,7 @@ scriptural. God said to the Jews :
 you, What mean ye by this service?  
 ye shall say, It is the sacrifice of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1895053001:0454/pct:34.454506252695126,25.114424922486343,13.971539456662354,9.951277129780008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1895053001:0454/pct:34.44707911187756,25.110717449069973,13.973916792412158,9.95349867139061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5818,7 +5818,7 @@ pression that proper Interest was al­
 lowable. but that was not the real  
 meaning. It meant that no interest wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186828:1895060601:0433/pct:38.85786344802738,65.84578986987849,14.880201765447667,5.8393375631788365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186828:1895060601:0433/pct:38.85086455331412,65.83870967741936,14.883525456292027,5.842293906810036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5903,7 +5903,7 @@ If thou lend money to any of my peo­
 ple that is poor by thee, thou shalt not  
 be to him a usurer, neither shalt tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473819:1895090401:0074/pct:67.79758481886141,109.46198701727363,17.99884991374353,4.609968093299593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473819:1895090401:0074/pct:45.20488856937455,72.97832544834415,12.005751258087706,3.069644625371328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5943,7 +5943,7 @@ If thou lend money to any of my peo­
 ple that is poor by thee, thou shall nnt  
 be to him a usurer, neither shalt tho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_kentuckycoffetree_ver03:data:2017270213:00279527793:1895090501:0018/pct:67.9746835443038,94.9809056192035,19.029535864978904,4.36442989634479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_kentuckycoffetree_ver03:data:2017270213:00279527793:1895090501:0018/pct:51.02385476039687,71.23567921440262,14.27063542326367,3.2733224222585924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5976,7 +5976,7 @@ thou mayest lend upon usury.&quot; Neh.
 and I rebuked the nobles aud the rulers  
 and said unto them, ye exact usury e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473819:1896021201:0170/pct:84.94926719278467,13.088491717523976,18.10879368658399,15.725806451612904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_harvey_ver03:data:sn82015080:00212473819:1896021201:0170/pct:56.65351000845785,8.729293809938971,12.080631519594023,10.483870967741936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6150,7 +6150,7 @@ neither shalt tbou lay upon him usury.
 This is a command and appeals to us  
 as individuals as closely as any of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270205:00279527768:1897021101:1092/pct:45.11054421768708,27.638467897492422,19.791666666666668,9.644530173601543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270205:00279527768:1897021101:1092/pct:33.85073357431427,20.73573987324332,14.841590474165427,7.233397630201157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6293,7 +6293,7 @@ are not in being and good policy, to pre­
 vent the perpetuation of hatred.  
 Here in Ihe home of many a brother El
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182227:1897120601:0976/pct:32.477064220183486,50.049751243781095,12.715596330275229,9.751243781094526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182227:1897120601:0976/pct:32.477064220183486,50.05448945747453,12.715596330275229,9.755981994787964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

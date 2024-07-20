@@ -56,7 +56,7 @@ homas Griffen,
 eorge R. Avery,  
 Thomas Nelson, Jnn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814051701:0398/pct:57.426397618260005,39.47081287506819,18.160767449553425,16.921258410620112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814051701:0398/pct:57.416900942616174,39.46722429311755,18.163276555867924,16.922750553080583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -90,7 +90,7 @@ THOMAS GRIFFIN,
 GEORGE R. AVERY,  
 THOS. NELSON, Jr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814052101:0879/pct:29.540918163672654,71.03614457831326,21.58183632734531,11.598393574297189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814052101:0879/pct:29.533549513594412,71.02473498233215,21.58268894986281,11.600546097012527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ Thomas Griflen,
 George R. Avery,  
 Thomas Nelson, Jun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814052801:0419/pct:44.151510095110964,43.29359165424739,18.154513599199067,18.93628912071535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814052801:0419/pct:44.14414414414414,43.289559467262734,18.157045934823714,18.937630002173172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ Thomas Griffon,
 George R- Avery,  
 Thomas Nelson, Jun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814053101:0423/pct:44.69507101086049,29.088064783288857,18.01169590643275,17.143645900432503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814053101:0423/pct:44.68760441029068,29.085388295914612,18.014255485020605,17.1451355661882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ to a majority of the Company at a general meeting, and
 v give the Company tlie choice of purchasing the.same it  
 • ■ ’ they wdl give as much as another.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814060101:0890/pct:3.435114503816794,48.36474947639761,23.282442748091604,9.279845335911068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814060101:0890/pct:3.434240651233783,48.3569587628866,23.282879674383107,9.282377577319588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ j give not&#x27;ee «if his inter*,,n to , majority of
 I &gt;he Com ••my at » General Meefire, #rd ’’give the  
 I Company t r i l oiee of purchasing tli- same if the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814060801:0042/pct:42.23491610139236,54.77235670387558,17.315244555515886,8.353192023077888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814060801:0042/pct:42.22737819025522,54.765487835465265,17.31810339698971,8.356324722013209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ Thomas Griffen,
 George R. Averv,  
 Thomas Nelson, Jun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814060901:0441/pct:6.726457399103139,15.703552546145998,18.086696562032884,20.944253779797794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814060901:0441/pct:6.725340418465626,15.702096086069375,18.089228384811246,20.945402831880294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ to a majority of the Company at a general meeting, and
 give t.ie Company the choice of purchasing the same if  
 they will give as much as another.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814061101:0905/pct:75.54540842212074,41.77464326718058,21.689497716894977,10.677382319173365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814061101:0905/pct:75.5262490489475,41.767792718924234,21.690337306619327,10.679731059363727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ Thomas Griffen,
 George R. Avery,  
 Thomas Nelson, Jun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814061401:0446/pct:56.4167086059386,18.4498022226408,18.436503942291562,25.08005274062912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814061401:0446/pct:56.40724589064072,18.448064789528203,18.4390025718439,25.080829958878738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ to a majority of the Company at a general meeting, and
 give the Company the choice of purchasing the same il  
 they will give as much as another.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814061501:0909/pct:53.14401622718053,49.50884086444008,21.754563894523326,9.462999345121153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814061501:0909/pct:53.130544993662866,49.50073661810443,21.755386565272495,9.465542642003602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ THOMAS 0R1FFIN, f „
 GEORGE It. A VERY, f  
 TftOS. NELSON, Jr. J : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814062201:0917/pct:29.796437659033078,49.09180166912126,21.73027989821883,11.716576665030273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814062201:0917/pct:29.78885779699822,49.083769633507856,21.731111676418216,11.71875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ Thomas Griffen, .
 George R. Avery,  
 Thomas Nelson, Jun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814062301:0465/pct:25.27749747729566,62.239389426656736,18.937100571812984,23.34326135517498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814062301:0465/pct:25.273247015301834,62.23359702187064,18.93952132727986,23.344191096634095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ to a majority of the Company at a general meeting, and
 jive the Company the choice of purchasing the same if  
 lliAir Ui&#x27;sIJ (Viva. &gt;.0 Il.h )
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814070201:0929/pct:52.69035532994924,29.663105998356613,21.472081218274113,12.046014790468364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814070201:0929/pct:52.67698553666582,29.658232007886955,21.472976401928445,12.048143279658232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ to a majority of the Company at a general meeting, and
 give the Company the choice of purchasing the same ii  
 they will give as much as another.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814070601:0933/pct:51.904161412358135,31.95927081622598,21.46279949558638,9.574642798489078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814070601:0933/pct:51.8910741301059,31.95402298850575,21.463691376701966,9.577175697865353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ to a majority of the Company at a general meetings and
 give the Company the choice uf purchasing the same if  
 they will give as much as another.’’: ;.|
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814071601:0945/pct:52.75530839231547,22.21303341051935,21.41051567239636,9.063843863711545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814071601:0945/pct:52.74197624462977,22.209360013229702,21.411422795046754,9.066479245907061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ to a majority of tiie Company at a genera! meeting, and
 g:re the Company the choice of purchasing the same it  
 they will give as much as another.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814073001:0019/pct:51.05356689515105,38.251633986928105,21.883726834221882,9.428104575163399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814073001:0019/pct:51.04060913705584,38.24538474105538,21.884517766497463,9.430648586832216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ to a majority of tie Company at a general meeting, and
 give the Company the choice of purchasing the same it  
 they will give as much as another.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814080301:0023/pct:29.689922480620154,36.017088399605655,21.524547803617573,10.532369372329937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814080301:0023/pct:29.6822526478946,36.01117134877608,21.52544562128649,10.534746180384426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -78,7 +78,7 @@ mit him to spare one, with orders to march
 the greatest expedition possible to  
 Canada
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840030401:0188/pct:10.770577933450088,166.32401911104677,68.91418563922942,50.789054582307806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840030401:0188/pct:2.6932340705058024,41.58100477776169,17.23231880884607,12.697263645576951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ I I’ennsylvuuia, two &#x27;vieh in Maryland, Air- ■
 j ginia and North Carolina, three in South ;  
 ; Carolina, and one in Georgia. In Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060120:00415623501:1866111501:0136/pct:30.3460161739361,51.30754698220145,13.469441866631314,2.127871134533161/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060120:00415623501:1866111501:0136/pct:30.35485439038402,51.3141758642405,13.469441866631314,2.127871134533161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ ing is earlier than last year by six days
 in Virginia, three in North Carolina,  
 three in South Carolina, one in Georgia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885021101:0155/pct:78.97144660041016,207.7391304347826,34.62691276226534,6.619565217391305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885021101:0155/pct:26.323815533470054,69.2463768115942,11.542304254088448,2.2065217391304346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ Mississippi, ten in Texas, eight in Arkan­
 sas and ten in Tennessee; the date is the  
 same as last year in Florida and Alabama
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1885021301:0233/pct:73.74441964285714,18.047464940668824,17.006138392857142,4.023732470334412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023024:1885021301:0233/pct:55.33845080251221,13.538295577130528,12.756454989532449,3.0204962243797193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ and ten in Tennessee. The date is the
 same as last year in Florida and Alabama.  
 The average of the dates reported here are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861939:1885021901:0130/pct:69.41943900848011,5.184310877065553,14.846705805609915,3.4773924096604323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861939:1885021901:0130/pct:69.41943900848011,5.184310877065553,14.859752120026092,3.483445312027117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ New York, nine in Pennsylvania, two each
 in Maryland, Virginia and North Carolina,  
 three in South Carolina and one in Georgia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895722:1889112701:0517/pct:36.06808185121438,39.45954016124216,9.447313061770894,1.8363690653926545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895722:1889112701:0517/pct:36.06118546845124,39.453649798477386,9.450286806883366,1.8398268398268398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ Now York, nine in Pennsylvania, two each
 in Maryland, Virginia and North Carolina,  
 three in South Carolina and one in Georgia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286650:1889120301:0556/pct:23.939031679617454,68.24331756682433,18.469814704124328,3.4649653503464966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286650:1889120301:0556/pct:15.966512184182987,45.49554504454955,12.318732246972642,2.3099769002309976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ York, nine in Pennsylvania, two each in Mary­
 land, Virginia and North Carolina, three in  
 South Carolina, and one in Georgia, a total o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1889120501:0230/pct:71.2388503468781,50.775566231983525,21.40733399405352,3.03363074811256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1889120501:0230/pct:71.22473246135553,50.76859730990942,21.409697450125513,3.0377893677372128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ York, nine in Pennsylvania two each in )(ary­
 land, Virginia and North Carolina, three In  
 South Carolina and one in Georgia, a to,;p‘l o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1890012501:0651/pct:71.65529281066497,53.176081109042,20.107919377876527,3.207117732257397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1890012501:0651/pct:71.65529281066497,53.176081109042,20.118499709040893,3.2105662459479962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

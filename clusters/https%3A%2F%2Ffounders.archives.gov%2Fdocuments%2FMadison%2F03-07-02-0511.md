@@ -49,7 +49,7 @@ of the United &#x27;States of America the thirty­
 fourth,  
 (Signed) JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810022601:0946/pct:48.56364536899455,18.72882723019842,21.842496285289748,9.533795773511857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810022601:0946/pct:48.55162168853677,18.725806451612904,21.843278039118594,9.536290322580646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -88,7 +88,7 @@ of the United Stales of America the thirty­
 foprth.  
 (Signed) JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810030201:0954/pct:49.009776886437706,19.206579583938076,21.183253948357983,9.514594420254797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810030201:0954/pct:48.99749373433584,19.203482747500807,21.18421052631579,9.517091260883586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ Done&#x27;at the City of Washington, the 29th day of
 eight hundred and ten, and of the Independence  
 of the United
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810030501:0958/pct:49.68632371392723,18.76411745724427,21.279799247176914,8.212326556953856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810030501:0958/pct:49.673858504766685,18.761090498467496,21.28073256397391,8.21503468301339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ of the United States of America the thirty­
 fourth.  
 (Signed) JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810030901:0966/pct:49.24821296524526,62.70044900577293,20.951441952181415,9.461193072482361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810030901:0966/pct:49.236076885165104,62.690396023729356,20.952439625431246,9.463684463684464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ of the United States of America the thirty­
 fourth.  
 (Signed) JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031201:0970/pct:48.759727626459146,56.376052088296014,21.133268482490273,9.385421629347308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031201:0970/pct:48.7478725990761,56.36710066687837,21.13420860685631,9.387900920927278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ of the United States of America the thirty­
 fourth.  
 (Sjgped) JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031401:0972/pct:47.85749875435974,48.927592323818736,21.101145989038365,9.417835832930173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031401:0972/pct:47.84557907845579,48.91970332150919,21.102117061021172,9.420348274750081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ of the United States of America the thirty­
 fourth.  
 (Signed) JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031901:0980/pct:48.22800495662949,54.788347014324806,20.966542750929367,9.480122324159021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031901:0980/pct:48.21605550049554,54.77953009333763,20.967542120911794,9.482619890569682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ of the United States of Amentia the thirty-:
 fourth.  
 (signed) James madIsOK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032101:0984/pct:49.37185929648241,47.60290556900726,21.507537688442213,9.443099273607748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032101:0984/pct:49.3594574227581,47.595222724338285,21.508414971112785,9.445610071013558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ of the United States of America the thirty­
 fourth.  
 (Signed) JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032301:0988/pct:49.17828685258964,47.50926970820571,20.991035856573706,9.447041753990005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032301:0988/pct:49.16604431167538,47.50161186331399,20.992033856111526,9.449548678272082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ of the United States tof America the thirty
 fourth. ,  
 (Signed) JAME3 MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810033001:1000/pct:49.08954851583936,43.13377440697111,21.05263157894737,9.423914797482652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810033001:1000/pct:49.077306733167084,43.12681510164569,21.05361596009975,9.426427879961278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ dence of the United States the thirry­
 cighth, s _  
 s it JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814062801:0107/pct:58.27635327635328,9.33074684772066,16.937321937321936,11.22211445198836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814062801:0107/pct:58.281101614434945,9.333979954736503,16.937321937321936,11.225347559004202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ of the Independence of the United
 States the thirty-eighth.  
 , JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814062901:0161/pct:42.54032258064516,42.1767874632713,16.917155425219942,11.275710088148873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814062901:0161/pct:42.53252702950339,42.171624433835234,16.920163704110927,11.278410250132616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ ana of the Independence of the U. S
 the thirty eighth.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814063001:0513/pct:47.688274547187795,21.71865803413773,20.54337464251668,14.508534432018834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814063001:0513/pct:47.676912080057186,21.715462704134175,20.544436502263522,14.510077975577461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ of the Independence of the United
 Stales the thirty righth.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070201:0165/pct:25.607064017660043,60.74585300883884,17.29212656364974,11.163579125802155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070201:0165/pct:25.602354239470298,60.738498789346245,17.295076941941023,11.166263115415658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ z hundred and fourteen, and of the Indepen­
 § eighth. »  
 3 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814070501:0112/pct:22.979942693409743,29.567331064657267,17.292263610315185,11.453573164803112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814070501:0112/pct:22.989493791786057,29.567331064657267,17.3018147086915,11.453573164803112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -811,7 +811,7 @@ of the Independence of the United
 States the thirty-eighth.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070601:0169/pct:42.763894069377095,10.84500122819946,17.62402088772846,11.250307049864897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070601:0169/pct:42.75592019392131,10.843669409308609,17.626950090123685,11.253018952883867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -912,7 +912,7 @@ sand eight ludred and fourteen, and
 Stales tlio thirty-eighth.  
 3AMF.S M ADIS OX
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070901:0173/pct:41.806644270250096,59.463684463684466,17.618514371033967,10.97883597883598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814070901:0173/pct:41.79884306773652,59.45653480822412,17.621446787335945,10.981523786621779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,7 +1006,7 @@ denccllof the United States the thirty­
 | eighth. Sy ,  
 _( JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814071201:0115/pct:41.63865546218487,32.45258091912805,16.834733893557424,10.984240822874398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814071201:0115/pct:41.643323996265174,32.4557264634645,16.84873949579832,10.984240822874398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1048,7 +1048,7 @@ day of June, A. D. ore thouyand eight hundred
 and fourteen, and of the bdqo&amp;d the  
 United States the thirty.-cight
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814071301:1070/pct:77.06390913714189,65.88500784929356,22.902186811323954,9.919544740973313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814071301:1070/pct:77.06955981239759,65.88500784929356,22.907837486579645,9.919544740973313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,7 +1083,7 @@ of the Independence of the United
 States the thirty-eighth.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814071301:0177/pct:43.01349872309376,65.61705219813491,17.256475738781468,11.190505026038513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814071301:0177/pct:43.00565383913916,65.60910632114313,17.25940786673962,11.193186405102123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1148,7 +1148,7 @@ of the Independence of the United
 Slates the thirty-eighth.  
 , , JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814071601:0181/pct:78.77896285399044,51.19221411192214,17.212210371460095,11.265206812652067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814071601:0181/pct:78.76447876447877,51.18598710619146,17.2151743580315,11.267891173012204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ dence of the United States the thirty­
 eighth. s :  
 &#x27; | . JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814071901:0120/pct:23.173007896625986,31.53696498054475,17.458722182340274,11.3715953307393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814071901:0120/pct:23.17779373055755,31.543450064850845,17.45393634840871,11.365110246433204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1283,7 +1283,7 @@ and fourteen, and of the Indepeundence of the
 United States the thirty-eight.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814072001:1072/pct:2.224884477152148,59.35666797027767,23.10456957042615,10.217051231912397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814072001:1072/pct:2.2362941411375434,59.35666797027767,23.098864738433452,10.223569286924782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1318,7 +1318,7 @@ of the Independence of the United
 States the thirty-eighth.  
 „ . JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814072001:0185/pct:79.11095048789302,28.509249183895538,18.75677629201301,11.171563293434893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814072001:0185/pct:79.096657633243,28.505802707930368,18.759409816320385,11.174242424242424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1383,7 +1383,7 @@ of the Independence of the Unite.
 States the thirty-eighth.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814072301:0189/pct:60.22830222866461,28.02044044287626,17.24950172132633,11.254410512227764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814072301:0189/pct:60.21739130434783,28.017031630170315,17.252415458937197,11.257096512570966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1475,7 +1475,7 @@ dence of the United States the thirty­
 eighth.,  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814072601:0124/pct:24.863119472132528,43.604985618408435,16.973185455566476,11.332694151486098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814072601:0124/pct:24.872478824465347,43.604985618408435,16.977865131732884,11.339085969958454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1510,7 +1510,7 @@ of the fnd«-peiidencc of the United
 States the shirty-eighth. •  
 JAKES M VDI3CN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814072701:0190/pct:21.17753623188406,46.65307101727447,17.083333333333332,10.940499040307103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814072701:0190/pct:21.173700416591196,46.647475110951184,17.086276640705186,10.943184998600616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1561,7 +1561,7 @@ and fourteen, and of the Ind-&#x27;pvndeiice of the U­
 iiiteil Slates the tiurtv-cighth.  
 „ . „ JAMES MAD ISOM
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814073001:0091/pct:22.963636363636365,43.60996370008762,17.70909090909091,8.424083114282137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814073001:0091/pct:22.959461916015268,43.60450563204005,17.711931164030783,8.427200667501044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1596,7 +1596,7 @@ of the Independence of the United
 States the ihirty-ughth.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814073001:0197/pct:43.41392998917358,11.310311635182288,17.340310357271743,11.093731199614968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814073001:0197/pct:43.40609778098503,11.308950914340713,17.34319562210596,11.096406801411614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1690,7 +1690,7 @@ hundred apd fourteen, and of the Indepen­
 cighth,  
 o JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814080201:0128/pct:40.943209177170374,61.058490381798656,17.164707548505877,11.395371545747485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814080201:0128/pct:40.94792994382288,61.065000162744525,17.16942831515838,11.39211665527455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1735,7 +1735,7 @@ of the Independence of the United
 States the ahirty-eighth.  
 . , JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814080301:0201/pct:61.9116845357078,42.328998073217726,17.1361075776849,11.163294797687861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814080301:0201/pct:61.90043604651163,42.32390126429861,17.1390503875969,11.16596427854706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1780,7 +1780,7 @@ of the Independence of the United
 States the chirtv-eighth.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814080601:0205/pct:60.347403810235335,9.924775539917496,17.87448636533433,11.077408396020383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814080601:0205/pct:60.33613445378151,9.923571515225039,17.87737317149082,11.080108374782643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1815,7 +1815,7 @@ eighth,
   
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814080901:0132/pct:75.91107358941888,24.88158530691155,16.941044041086254,11.396810053165781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814080901:0132/pct:75.91576380094742,24.88802964395038,16.95042446414333,11.403254390204607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1860,7 +1860,7 @@ of the Independence of the United
 States the thirty eighth.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814081001:0209/pct:61.14275215873599,10.345251259368473,17.26988792945067,11.156161690625384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814081001:0209/pct:61.13152094048494,10.343980343980345,17.272838599069313,11.158886158886158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1905,7 +1905,7 @@ of the Independence of the United
 States the shirty .eighth.  
 JAilEo MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814081301:0212/pct:58.246544215110774,11.882046834345186,17.932209808748343,11.262544913889233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814081301:0212/pct:58.23551684967815,11.880574826560952,17.93512558374353,11.265279154278163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1958,7 +1958,7 @@ hundred andfeurteen, and of the Indepen­
 -177&quot; dende of the U’nizc%‘States the thirty-  
 I JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814081601:0136/pct:5.177345537757437,54.12595530618168,17.94908466819222,11.260520460481764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814081601:0136/pct:5.1821128909229595,54.12917996839831,17.94908466819222,11.257295798265131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2003,7 +2003,7 @@ of the Indepeadtnce of the United1
 States the thirty eighth.  
 _ . „ .. JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814081701:0217/pct:62.85112359550562,13.678571428571429,16.555477528089888,11.071428571428571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814081701:0217/pct:62.840091276110236,13.676943221045114,16.55842256158212,11.074078482720312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2044,7 +2044,7 @@ oiidfourteen, and of the Independence of the U­
 niteii States the thirty-eighth.  
 _ . n . J.dJJLES MADISOJC
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814082001:0115/pct:23.321234119782215,20.090236871788445,17.495462794918332,8.409575134728662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814082001:0115/pct:23.317002358918526,20.087719298245613,17.498336660013308,8.412698412698413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2079,7 +2079,7 @@ of the Independence ul the United
 State* the thirlv rightb.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814082001:0220/pct:72.60839642119753,43.25981837480835,16.27666896077082,10.75598537563392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814082001:0220/pct:72.59590572853948,43.25471698113208,16.279603188256207,10.758647798742139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2153,7 +2153,7 @@ the United States to be affixed to these pred­
 cighthe e Bamha U 8 bTG N  
 o YAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814082301:0140/pct:42.4868998725393,55.69364161849711,16.923948449228156,11.223506743737957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814082301:0140/pct:42.4868998725393,55.69364161849711,16.92866921588066,11.229929351316635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2237,7 +2237,7 @@ dence of the Unitgd States the thirty­
 eighth. ,  
 S ~ JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814083001:0144/pct:6.515580736543909,38.79527406546581,17.74787535410765,11.408096068177416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814083001:0144/pct:6.515580736543909,38.79850216282523,17.752596789423986,11.408096068177416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2271,7 +2271,7 @@ dence of the United States the thirty­
 eighth. ~ L  
 | JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814090601:0148/pct:77.46741154562383,39.63615250628992,17.103566824237216,11.186375072575963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814090601:0148/pct:77.46741154562383,39.63615250628992,17.117891419567396,11.186375072575963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2315,7 +2315,7 @@ dence of the United States the thirty­
 eighth.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814091301:0152/pct:59.308663224325876,35.198293416076794,17.03958691910499,11.33520798991564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814091301:0152/pct:59.313444253203286,35.198293416076794,17.034805890227577,11.344904489479298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2349,7 +2349,7 @@ dence of the United “States the thirty­
 : el - 5 R ) &#x27;  
 | }AMES’ MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814092001:0156/pct:24.859550561797754,65.6629994209612,16.741573033707866,11.185099401659912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814092001:0156/pct:24.859550561797754,65.66943318535675,16.74625468164794,11.185099401659912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2384,7 +2384,7 @@ hundred and fourteen, and of the Indepen­
 cighth, :  
 Lo JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814092701:0160/pct:77.04335465529495,63.81127332495407,16.830135039090262,11.118630958135938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814092701:0160/pct:77.04809286898839,63.81127332495407,16.8348732527837,11.131522124464212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

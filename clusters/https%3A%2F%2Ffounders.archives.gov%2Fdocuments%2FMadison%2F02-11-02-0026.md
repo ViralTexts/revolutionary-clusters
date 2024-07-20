@@ -113,7 +113,7 @@ As this article is intended to render in a great
 degree the local advantages of each party com­  
 mon to both, and thereby to promote a difpofi-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:27.698842829939945,82.0204449789537,19.54006152043357,7.145720585287632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:27.703725404033005,82.02378566178928,19.54006152043357,7.149061268123204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ to the fubjefh of his majesty, and to the citizens of
 itie United States, and Indians dwelling on either  
 fide of the boundary line aforefaid ; but that all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796062101:0003/pct:70.84977637463825,58.30288940551312,21.599579058142595,12.255064762537364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1796062101:0003/pct:70.84977637463825,58.311192294918634,21.619310707708497,12.255064762537364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

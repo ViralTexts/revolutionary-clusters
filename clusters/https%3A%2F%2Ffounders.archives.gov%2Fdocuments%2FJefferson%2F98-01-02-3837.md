@@ -123,7 +123,7 @@ account.&quot;
   
 Sixth. &quot;The Judiciary of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529236:1857032301:0343/pct:123.3289859797848,76.88507234443007,32.81708509944571,19.903540759910598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529236:1857032301:0343/pct:41.109661993261604,25.628357448143355,10.939028366481905,6.634513586636866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ newable by the President and Senate, &quot; the
 Sixth. &quot; The Judiciary of the United States  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1857032601:0498/pct:53.96407556519046,29.367901801078354,14.462681944874575,13.490879889870369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn84024558:00296028630:1857032601:0498/pct:53.96407556519046,29.375549692172385,14.462681944874575,13.494703835417384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ all liability to account.”
 The threat contained in the extract from the  
 Richmond Enquirer, quoted above, that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857032801:0286/pct:5.924630924630924,95.52646720368239,16.18104118104118,13.147295742232451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857032801:0286/pct:4.601565636290647,74.03292333989819,12.540144520272984,10.200289844301587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ suming its substance.’’
 Jefferson went so far as to declare:—  
 I That “the germ of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857032801:0053/pct:27.175080558539204,77.14119019836639,12.996777658431794,8.38973162193699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857032801:0053/pct:27.18531021431129,77.14119019836639,13.001892486317836,8.39751069622715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ secure against all liability to account.&quot;
 r : Sixth. &quot;The Judiciary of the United  
 t States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1857040201:0432/pct:6.185860889395667,48.94220283533261,16.69042189281642,22.039258451472193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1857040201:0432/pct:4.648509910166833,36.706652126499456,12.519606445173249,16.53217011995638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ ity to account.&quot;
 Sixth. &quot;The Judiciary of the United  
 States is the oubtle corps of sappers and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857040301:0268/pct:24.605678233438486,336.1612515042118,157.01892744479494,35.92057761732852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857040301:0268/pct:6.153846153846154,84.04031287605295,39.27021696252466,8.98014440433213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ if secure against all liability to account.&#x27;&#x27;
 Sixth. &quot;The iudiciary of the United  
 States is the subtle corns of sappers a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857040901:0070/pct:38.78266411727215,74.06944791406445,14.244741873804971,10.467149637771671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857040901:0070/pct:29.108879324087358,55.55833125156133,10.68069504224454,7.856607544341744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ trusted for life, if secqre against pll liability to
 account.”  
 Sixth. “The Judicary of the United States i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:0038334735A:1857041801:0271/pct:32.010113780025286,44.622009569377994,11.984829329962073,6.382775119617225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:0038334735A:1857041801:0271/pct:32.014327855035816,44.622009569377994,11.984829329962073,6.389154704944179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ truth, man is not made to be trusted for life, if
 secure against all liability to account.&quot;  
 Sixth. .&quot; The Judiciary of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857070901:0121/pct:51.555716353111436,25.705654677617293,15.991316931982634,9.968847352024921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857070901:0121/pct:51.555716353111436,25.705654677617293,16.00337674867342,9.97514081626231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ The press is the best instrument for enlightening the
 mind of man, and improving him as a rational, moral,  
 and social being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.34612432847274,143.92922513727882,50.65234075211051,7.62660158633313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.8637236084453,35.982306284319705,12.667946257197697,1.9066503965832824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ arrainging them at the tribunal of public opinion, pro­
 duces reform peaceably, which must otherwise be done  
 by revolution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.1926323867997,205.12507626601587,50.80583269378358,7.62660158633313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.82533589251439,51.28126906650397,12.706333973128599,1.9066503965832824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ for enlightening the mind of man,
 and improving him as a rational,  
 moral, and social being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:58.57746478873239,83.48605377102004,12.0,2.3361192226361895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:58.569215603436135,83.47764800644381,12.003004271698822,2.3392401664652973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ ion, produces reform peaeably,
 which must otherwise be done by  
 revolution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.45806906272023,58.94662353416903,12.00845665961945,4.003234937323089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.44813979706878,58.940665116749216,12.011461856444946,4.006199669800195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ reform peaceably, which must other
 wise be done by revolution.  
 oaalian tor pitS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:110.66666666666667,331.1436485951721,43.50877192982456,15.934573275293497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:27.676377676377676,82.78591214879303,10.881010881010882,3.983643318823374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ proying him as a rational, moral, and
   
 social being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:111.15789473684211,219.4961086927846,44.49122807017544,12.821527502967946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:27.7992277992278,54.87402717319615,11.126711126711127,3.2053818757419865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ lightening the mind of a man and improy
 ing him as a rational, moral and social be  
 ing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:181.26934984520125,253.74791782343144,49.76780185758514,11.382565241532483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.32610799303271,63.43697945585786,12.444358428488485,2.8456413103831206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ form peaceably, which must otherwise be
 done by revolution.  
 Were it left with me to decide whethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:182.43034055727554,335.81343697945584,50.0,11.438089950027763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.616411844397135,83.95335924486396,12.50241919876137,2.8595224875069407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ Tjj6 press Is the best Instrument for enlight­
 ening the mind of roan nud Improving him as­  
 I a rational moral and social bein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:0.23659305993690852,296.1684658658963,63.170347003154575,13.942526987988444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:0.05914826498422713,74.04211646647407,15.792586750788644,3.485631746997111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ tionaries by arraigning them at tho tribunal
 of public opinion produces reform peaceably  
 which must otherwise bo done by revolutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:66.7981072555205,37.95043332826517,52.91798107255521,24.50965485783792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:16.699526813880126,9.487608332066293,13.229495268138802,6.12741371445948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ for enlightening tbe mind ol man
 ami improi log him as a rational,  
 moral, and soci ll being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.21872601688411,31.235584843492585,10.483499616270146,2.0757825370675453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.21872601688411,31.24290682775032,10.488616014325915,2.0757825370675453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -735,7 +735,7 @@ loo, produces reform peaceably,
 which must otherwise I e ?lone by  
 revolution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.295471987720646,54.82701812191104,10.514198004604758,2.987369577155409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.300588385776415,54.834340106168774,10.514198004604758,2.987369577155409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -983,7 +983,7 @@ enlightening the inind of man and im­
 proving him as a rational, moral, and  
 social being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521675:1890060901:0102/pct:4.1261722080136405,35.445499256548096,15.038363171355499,2.1731671051126615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521675:1890060901:0102/pct:4.137539073600455,35.44931183041671,15.032679738562091,2.1769796789812803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ rhe press is the best instrument for en­
 lightening the mind of man and improving  
 him as a rational, mora), and social being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762507:1891011401:0234/pct:5.864811133200795,63.82386435530811,10.685884691848907,1.2273820068328483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762507:1891011401:0234/pct:5.868952948972829,63.83019106668354,10.702451954937045,1.2400354295837024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1056,7 +1056,7 @@ feared that the judges, ambitious for power,
 would strain the constitution, and undermine  
 and ultimately shatter the fabric erected upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556874:1894101101:0117/pct:87.77397260273973,43.10009087368558,18.561643835616437,3.1156692197844995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556874:1894101101:0117/pct:65.861596437136,32.325068155264184,13.926002055498458,2.34973386992081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1097,7 +1097,7 @@ aries, by arraigning them at the tribunal of pub
 lic opinion, produces reform peaceably, which  
 must otherwise be done by revolutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:278.6697247706422,135.484853097884,51.37614678899082,19.181001674531892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:69.66743119266054,33.871213274471,12.844036697247706,4.795250418632973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1148,7 +1148,7 @@ is the best instrument for enlightening ihe
 mind of man and improving him as a ra­  
 tional, moral and social being, and educa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623574:1895022101:0239/pct:58.048846309539876,29.568069983597596,11.010659829982458,1.7277200656096228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623574:1895022101:0239/pct:58.05334412809787,29.568069983597596,11.010659829982458,1.7386550027337342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1173,7 +1173,7 @@ form penceably, which must otherwise be
 done by revolution.  
 Nothing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762975:1895022601:0204/pct:46.6786355475763,93.68088467614534,13.165769000598445,6.4507635597682995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_gum_ver01:data:sn94053256:00271762975:1895022601:0204/pct:35.014215172826574,70.260663507109,9.875804279515188,4.844655081621906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ form peaceably, which must otherwise be
 done by revolution.  
 Nothing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895032101:0048/pct:86.86175887821979,53.821849556446715,9.693644261545495,4.6178150443553285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895032101:0048/pct:86.84852179213654,53.81530984204131,9.695976836330386,4.620291616038882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1234,7 +1234,7 @@ tribunal of public opinion, produces ru­
 done by revolution.  
 Nothing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn86076126:00332891066:1895040301:0106/pct:33.19789674952199,78.52360817477097,15.033460803059274,6.994362226920367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_gabbs_ver01:data:sn86076126:00332891066:1895040301:0106/pct:33.18996415770609,78.50977629029417,15.03584229390681,6.997533908754624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1270,7 +1270,7 @@ consuming its substance.&quot;
 Has not subsequent history conferred  
 upon the utterance of Jefferson the dig
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1895080101:0220/pct:4.724231464737794,95.21028037383178,18.896925858951175,16.691004672897197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1895080101:0220/pct:3.550429669832655,71.40771028037383,14.17910447761194,12.529205607476635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1343,7 +1343,7 @@ stance.”
 Has not subsequent history confer­  
 red upon the utterance of Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895082101:0305/pct:20.254565578306586,65.0333368610435,11.745987825124516,10.180971531378981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895082101:0305/pct:20.26378896882494,65.0333368610435,11.741376129865339,10.180971531378981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1397,7 +1397,7 @@ piness of every individual arenow acknowl­
 edges to be the only legitimate objects of  
 government.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_plasse_ver01:data:sn85042461:00280769629:1895082401:0672/pct:5.021409108602569,74.64420563462097,12.203191903464383,1.6410107464420562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_plasse_ver01:data:sn85042461:00280769629:1895082401:0672/pct:5.036006228104321,74.64783618936974,12.203191903464383,1.6446413011908219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1421,7 +1421,7 @@ produces reform peaceably, which
 must otherwise be done by revolu­  
 tion.Nothing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776865:1896031201:0998/pct:45.1067615658363,71.77611940298507,19.595195729537366,9.283582089552239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776865:1896031201:0998/pct:33.85265969285555,53.83582089552239,14.711773870465167,6.970149253731344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1466,7 +1466,7 @@ ceived that that invisible and helpless
 worm has been busily employed in  
 consuming its substance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1896081301:0051/pct:91.45454545454545,68.913813459268,16.045454545454547,17.4616292798111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1896081301:0051/pct:68.61170051530767,51.688311688311686,12.049105789633222,13.093270365997638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1485,7 +1485,7 @@ for enlightening the mind of man and
 improving him as a rational, moral  
 hd1 social being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1897040801:0286/pct:37.52847380410023,57.18994140625,13.952164009111618,3.28369140625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1897040801:0286/pct:28.15838199686654,42.8955078125,10.468594217347956,2.4658203125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1521,7 +1521,7 @@ at the tribunal of public opinion, produces re­
 forms peaceably, which must otherwise be done  
 by nonunion.—Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897051401:0851/pct:5.567638103523271,11.428571428571429,10.678555893866898,1.3769363166953528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897051401:0851/pct:5.566427484235703,11.42660471519532,10.68166992824527,1.3810015487867837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1541,7 +1541,7 @@ produces reform pcacably, which must
 otherwise bo done by revolution.  
 Where the law ot the majority ceases t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:55.7510885341074,59.00519267559442,15.965166908563136,3.730527466520907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:41.84062443274642,44.26072697458322,11.980395716100926,2.8013118338343808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1578,7 +1578,7 @@ truth, man, is not to be trusted for life,
 if secured against all liability to ac  
 count.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1897072901:0503/pct:39.006024096385545,26.453175457481162,14.118975903614459,14.43756727664155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661782:1897072901:0503/pct:29.271049161800715,19.84660925726588,10.604633640987004,10.831539289558664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1597,7 +1597,7 @@ lightening the mind of man and Im­
 proving him us a rational, moral and  
 social being.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100242:1897100101:0017/pct:75.03831417624521,79.10651048760556,16.60919540229885,3.2143830019068376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100242:1897100101:0017/pct:56.30509773859716,59.32988286570417,12.45688003066309,2.4244075183873606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1617,7 +1617,7 @@ proving him as a rational, moral and
 social being.  
 I place economy among the firgt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1897111001:0323/pct:19.002310724480086,88.86453309951776,11.376919940193014,3.3647523016220955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1897111001:0323/pct:19.006841556793983,88.8718398363291,11.385981604820806,3.3647523016220955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1655,7 +1655,7 @@ Cliauncey M. Depew was. one of the
 gpeakem on Sunday at the last service  
 held in the Church, of the Strangers. Hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898012601:0195/pct:5.40407358738502,72.67583758597736,14.4053876478318,8.520079875748834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898012601:0195/pct:5.40407358738502,72.67953553731233,14.410862899693386,8.523777827083796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1673,7 +1673,7 @@ enlightening the mind of man and im
 proving him as a rational, moral, and  
 social being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898092301:1039/pct:48.53971962616822,58.645418326693225,18.38006230529595,2.403718459495352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898092301:1039/pct:36.42384105960265,43.98406374501992,13.790416828983249,1.8061088977423638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1914,7 +1914,7 @@ for enlightening the mind of man and
 improving him as a rational, moral  
 and social being
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:80.37142857142857,69.50735215198026,14.871428571428572,2.479338842975207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:60.29432776110873,52.130514113985186,11.158736962423204,1.867553933669636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1935,7 +1935,7 @@ peaceably, which must otherwise be
 done by revolution.  
 I love to see honest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:95.88571428571429,50.069764945798006,14.771428571428572,4.23956209080176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:71.92456065152165,37.55500697649458,11.087298185455065,3.187721369539551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

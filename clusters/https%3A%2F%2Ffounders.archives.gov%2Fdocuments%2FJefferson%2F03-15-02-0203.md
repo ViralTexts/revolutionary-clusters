@@ -118,7 +118,7 @@ gutter, as these scenes on the separation of the legislature, and we
 w ho culls gMOW that lauds have been already &quot;old undei the hammer  
 cry Hower, for than a year&#x27;s rent. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091501:0267/pct:48.34863863380055,5.323868677905945,35.2021910745932,92.06490049435924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091501:0267/pct:48.34863863380055,5.323868677905945,35.21830191719027,92.07757637216378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ r- their money to commence these scenes on the separation
 educing already sold under the hammer for less than a year&#x27;s  
 , rent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661113:1858010501:0018/pct:79.41993211971614,11.20180836368203,20.76519592718297,36.129599397212104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661113:1858010501:0018/pct:79.41993211971614,11.210180417765498,20.78062326442456,36.129599397212104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ is believed that harpies are already hoarding their
 money to commence these scenes on the  
 tha lagislature, and we know that lands hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293253:1858011601:0055/pct:69.30803571428571,13.423101199242584,91.796875,366.2528929097412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293253:1858011601:0055/pct:17.33426378227495,3.355775299810646,22.958827634333566,91.5632232274353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ might endanger
 a competition in pur  
 chas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0275/pct:239.83739837398375,273.7011679420056,54.239256678281066,60.491341119613374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536536:1893100101:0275/pct:59.959349593495936,68.4252919855014,13.559814169570267,15.122835279903343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ have the same ebbs and flows of
 medium and the same revolutions of  
 j.-f.Tvr!r T&quot; c&quot; Ihro&#x27;rh f very t wenty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473650:1894072701:0352/pct:33.07787903893952,136.09176074945952,21.002485501242752,7.278404996396829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473650:1894072701:0352/pct:22.072538860103627,90.72784049963968,14.010362694300518,4.852269997597886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ through every 20 or 30 years. Chicago
 Herald.  
 THE PASSING OF 1894
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:00212472888:1894122801:0037/pct:58.399710354815355,46.32019115890083,19.913106444605358,9.71326164874552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn85030821:00212472888:1894122801:0037/pct:38.9603332729578,30.88410991636798,13.276580329650425,6.475507765830346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ property to go through every twenty of
 thirty years.&quot; Congressman Bryan  
 shows how utterly disastrous to ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn97067584:00200296345:1895012901:0587/pct:310.0263852242744,212.27584195946932,56.992084432717675,37.964717888905085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn97067584:00200296345:1895012901:0587/pct:77.54069511658601,53.06896048986733,14.254289485261769,9.491179472226271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ the same ebbs and flows of medium, and
 the same revolutions of property to go  
 through every twenty or thirty years 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1895020101:0700/pct:39.816262705238465,22.542348342261473,15.989053948397185,13.450123063558708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522564:1895020101:0700/pct:30.867501514845486,17.473912555634513,12.386386588567966,10.42749747540861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ revolutions of property to go through
 every twenty or thirty vears.&quot;  
 Jefferson was a great thinker who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_absaber_ver01:data:sn83030193:00206539859:1895021001:0294/pct:337.25055432372505,51.7617317111708,61.86252771618625,14.220255964607363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_absaber_ver01:data:sn83030193:00206539859:1895021001:0294/pct:84.35940099833611,12.9404329277927,15.474209650582363,3.5550639911518407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ ebbs and flows of medium, and the
 same &#x27;revolutions of property to go  
 through every twenty or thirty years.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473650:1895022801:0609/pct:98.4156378600823,28.004793289394847,21.131687242798353,19.101258238466148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473650:1895022801:0609/pct:65.63078822803045,18.669862192929898,14.097550936406668,12.738166566806472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ islature and we know that lands have al­
 ready been sold under the hammer for less  
 than a year&#x27;s rent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064515:00212479020:1898032501:0090/pct:7.585772741580107,77.73239125634798,13.928234183191691,13.236917641863545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064515:00212479020:1898032501:0090/pct:7.5962648200608545,77.73607124457202,13.938726261672437,13.236917641863545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ islature; and we know that lands have al
 ready been sold under the hammer for less  
 than a year s rent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898033101:0746/pct:24.735294117647058,92.39031078610603,15.970588235294118,15.91636197440585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898033101:0746/pct:18.561553169583764,69.29844606946983,11.987056920135315,11.940127970749543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -810,7 +810,7 @@ iess. saying ‘luterUici forever to both
 I lie state ami national governments, the  
 power of establishing any paper banks.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896829:1899082501:0165/pct:28.3195472355246,4.701073071027082,10.731388767958206,1.8565832055867826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896829:1899082501:0165/pct:28.313384113166485,4.700272479564033,10.73449401523395,1.860524523160763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

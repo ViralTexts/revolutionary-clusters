@@ -280,7 +280,7 @@ Car you dance the Saratoga?
 &quot;O blest that temper whose unclouded ray,  
 Can make to-morrow cheerful as to-day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1875041501:0127/pct:28.081293706293707,19.695565850430178,16.10576923076923,3.785572468563865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1875041501:0127/pct:21.08025366280341,14.771674387822634,12.092718128143451,2.845797485109199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ Can make to-morrow cheerful as to-iluy.
 Pity there were not more of the mas­  
 culine fraternity modeled after this pat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edina_ver01:data:sn90059522:00175033579:1891051001:0111/pct:38.412483039348714,45.42155816435432,10.746268656716419,2.0170757737459977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_edina_ver01:data:sn90059522:00175033579:1891051001:0111/pct:38.41700587969245,45.42867307008182,10.750791497060154,2.0170757737459977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ culine fraternity modeled after this pat
  whose unclouded ray  
  Can make to-morrow cheerful as to-day.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045028:1892062201:0300/pct:1.7358490566037736,227.91970802919707,70.0377358490566,8.51581508515815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045028:1892062201:0300/pct:0.43420804228808757,56.97992700729927,17.51935057579762,2.1289537712895377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

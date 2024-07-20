@@ -398,7 +398,7 @@ deed, in whom is no guile. What a tes­
 timony from the searcher of hearts! Na­  
 thanael must have been a true worshipe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1894081701:0679/pct:69.40760389036251,279.7110174593618,57.20601237842617,9.933774834437086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1894081701:0679/pct:17.363415173634152,69.92775436484045,14.31099314310993,2.4834437086092715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

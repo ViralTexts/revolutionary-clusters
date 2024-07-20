@@ -377,7 +377,7 @@ gate the horrors of war as much as pos
 sible.  
 It Is not enough that fconeBt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:39.205370101596515,72.000546597431,15.47532656023222,3.730527466520907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:29.424577963332727,54.003826182016944,11.617353421673625,2.8013118338343808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ lightful in contemplation, but really In­
 teresting to all the world, friends, foes and  
 neutrals.&quot; This Is the position of the civil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583322:1898060801:0563/pct:20.350346020761247,42.15686274509804,14.511245674740485,8.85369532428356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583322:1898060801:0563/pct:20.345945945945946,42.15050520283517,14.513513513513514,8.856130297089429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ not only delightful in contemplation
 but really interesting to all the world   
 friends, foes and neutrals.&quot; Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_echo_ver01:data:sn82016354:100493974:1898073001:0131/pct:198.13712017101847,113.32412407384152,43.30432127042297,57.666708526937086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_echo_ver01:data:sn82016354:100493974:1898073001:0131/pct:49.53428004275462,28.33103101846038,10.826080317605742,14.416677131734271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ corps, officers and men, seem now
 happy and satisfied with their situation   
 In this correspondence of Jefferson are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_echo_ver01:data:sn82016354:100493974:1898073001:0131/pct:198.01496411665903,181.4893884214492,43.365399297602686,26.824061283435892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_echo_ver01:data:sn82016354:100493974:1898073001:0131/pct:49.50374102916476,45.3723471053623,10.841349824400671,6.706015320858973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

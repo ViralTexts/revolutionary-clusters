@@ -644,7 +644,7 @@ And plighted an eternal vow:
 So altered are thy face and mind.  
 Twere perjury to love thee now.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199616:1899021201:0711/pct:97.1743010113028,186.67439165701043,32.242712671029146,4.6465816917728855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199616:1899021201:0711/pct:32.39143367043427,62.22479721900348,10.74757089034305,1.5488605639242952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

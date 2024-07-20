@@ -159,7 +159,7 @@ fairs. . b
 And am sir, your most obedient  
 humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808033001:0002/pct:76.03455202892728,31.109406952965234,16.994777018883084,11.362474437627812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808033001:0002/pct:76.04794428820142,31.117927743694615,16.994777018883084,11.353953646898432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ reign affairs.
 (Signed) JOHN ARMSTRONG.  
 Mr. Mttduon, SfC
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040401:1068/pct:4.7727272727272725,67.66217084136159,21.565656565656564,8.686576750160565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040401:1068/pct:4.771522342842717,67.65130839621126,21.566523605150216,8.689195697543747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ minister of foreign affairs.
 And I am, Sir, your most obedient humble ser­  
 vant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040801:0439/pct:22.49459264599856,24.341386427097245,17.537851478010094,6.665047954352313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040801:0439/pct:22.490538835826275,24.33843165816946,17.54069802366793,6.668285182487659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ minister of foreign affair*.
 And am sir, your most obedient hum*  
 b!e servan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0121/pct:58.715945894456084,69.85851440121273,17.546199276052583,9.512379989893885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0121/pct:58.7047619047619,69.84969053934572,17.54920634920635,9.515388825733654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ And am, fir, your molt otediecnt humble
 servant. Cot g e 3 ]  
 - (igned) JOHN ARMSTRONG
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808052401:0081/pct:40.86005166388087,73.55339033605091,16.54763713721319,9.017697355339033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808052401:0081/pct:40.87018183660032,73.55670444753761,16.537506964493744,9.021011466825744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ sul joiu a ropy ot my note to the minister of foreign
 allairs ; and am, sir, etc.  
 JOHN ARMSTRONG
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808111801:0215/pct:75.72343149807938,65.02138861467589,21.15236875800256,8.045409674234946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808111801:0215/pct:75.70404505888376,65.01069254811647,21.153353814644138,8.048198716894227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ titled to see right. ! subjoin a copy of my
 &#x27;note to the minister of foreign aﬀairs ; and  
 am, sir, &amp;c. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111901:0580/pct:30.803112611951256,31.025004433410178,22.94817207458523,12.01454158538748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111901:0580/pct:30.798590722254843,31.02225374589946,22.94969661381875,12.01643171675976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ favor, what I believe myself eni.ittied to as a
 right. I subjoin a copy of mv note to the mi­  
 nister of Foreign affairs and am, sir, See. fee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112201:0233/pct:41.08938036921952,45.4340755566675,17.6019009321879,7.418063547660745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112201:0233/pct:41.08187134502924,45.42839274546591,17.60477582846004,7.421304982280592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

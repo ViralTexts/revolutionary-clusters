@@ -97,7 +97,7 @@ bounded liccntioufr.ef s, as is ujualjrom one ex­
 treme&#x27; to another. It uould be a miracle were they to  
 fiop precisely at the point oj temperate libert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792061301:0003/pct:47.527472527472526,24.050137093615355,20.604395604395606,12.749706227967097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792061301:0003/pct:47.5503663003663,24.055033294163728,20.58913308913309,12.749706227967097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ They will infule into it their spirit, warp
 and bias its direction, and render it a hete­  
 rogeneous, incoherent diftratfled mass.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794091501:0002/pct:10.31317494600432,18.851227249958256,16.846652267818573,23.092335949240272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794091501:0002/pct:10.333423326133909,18.855401569544163,16.833153347732182,23.092335949240272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ uid &quot; addition of half a million of foreigners to our
 an- &quot; present numbers, would produce a iimilar effect  
 &quot; here.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796102201:0002/pct:71.90222652468539,14.003396634244249,21.272991287512102,6.299212598425197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796102201:0002/pct:71.9203775411423,14.003396634244249,21.266940948693126,6.310792033348773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ other.&quot; &quot;■*« It Would be a miracle were they
 to, flop precisely at the print of temperate  
 liberty.&quot; See Jcfferfon&#x27;a notes, pages 140
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800081101:0002/pct:42.57985257985258,62.16436126932465,17.174447174447174,12.5793327908869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800081101:0002/pct:42.5982800982801,62.17656631407648,17.156019656019655,12.57526444263629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ addition ot half a million of foreigners to our
 “ effeft hcie.’*  
 Such are the Lntimenti of Mr. Jefferfon o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801072701:0639/pct:64.27065026362038,37.339593114241005,21.423550087873462,31.841418883672404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801072701:0639/pct:64.25935687928308,37.33569789276027,21.42417852749956,31.840705195076154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ These principle-s, with their language,
   
 they will transmit to their children. 17
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801092601:0434/pct:3.947898482610447,6.3421135152085295,40.58009936887337,86.51614926309188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801092601:0434/pct:3.9473684210526314,6.3416163674845185,40.57912638739706,86.51198035065715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ we may believe that the addition J*&#x27; 77^*1
 iion of foreigners to our prefent im.nb ^ * °ifi&#x27;«  
 produce « fimilar effedl herev” IJcrs w°u‘«l 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801122801:0725/pct:57.053347654851414,4.29574555968608,41.40708915145005,84.83064849235853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801122801:0725/pct:57.04313585108287,4.295302013422819,41.40415249686773,84.82447083118224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ renolutlon to attain that independence
 now isiL/z&#x27;d&#x27;um/Zy attacked ?  
 LUCIUS CRAESUS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802012601:0668/pct:30.00139411682699,5.470368835474513,41.65621079046424,88.13924575217571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802012601:0668/pct:29.99721215500418,5.469915464942814,41.65505064585076,88.13470357478313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1367,7 +1367,7 @@ arded a revolution to attain that independence
 now infdioufiy attacked ?  
 LUCIUS CIIASSUS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802032901:0778/pct:44.23218221895665,13.116013609922073,43.57090374724467,78.98145099330479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1802032901:0778/pct:44.22405876951331,13.11457418788411,43.56749311294766,78.97552677787533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1446,7 +1446,7 @@ louth this precious Manns, that is inces.
 ssitntly distilling usivon them, and falling in  
 celestial showers arounsil their tent-s; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803031801:0216/pct:53.62616527097488,12.403656569277649,21.61478906620319,12.125829001613193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803031801:0216/pct:53.61769352290679,12.402545030916748,21.616640337019483,12.127729485915703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1757,7 +1757,7 @@ dassiejfed from the inﬂuence of aliens, than
   
 at yresent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803040201:0265/pct:24.87054762278362,30.547627541919372,22.783618390083163,52.81840884766322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803040201:0265/pct:24.86664574835268,30.544903237313832,22.78527350695534,52.81667112577663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1947,7 +1947,7 @@ believe that the addition of halsa :ntllion
 of foreignets, to our present numbers,  
 would p oduce a similar eﬀect here.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803061501:0484/pct:54.36046511627907,13.568016982133381,22.077723378212973,47.55881832655227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803061501:0484/pct:54.352149303962065,13.566817016007782,22.0794452093213,47.55756021343711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1998,7 +1998,7 @@ it threw them off, it wi’l be tor an Unbounded
 “ eous, incoherent, diftra£ted tnafs ” 1 nefe  
 are perhaps as correct lentiments, as ever cam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804091701:0187/pct:2.362380209494094,18.658112804063084,22.308892355694226,19.4199411921946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804091701:0187/pct:2.3618538324420677,18.65561940398236,22.309491978609625,19.420686890284646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2042,7 +2042,7 @@ tir jy not possible, are tan not probable * Is it not safer to
 “ expected ? May not our government be more homogeneous  
 “ more peaceable, more durable.and again—I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805021101:0345/pct:50.33401849948613,50.25182778229082,21.96813977389517,21.121039805036556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805021101:0345/pct:50.321089134343694,50.24366471734893,21.96891857179553,21.121669915529566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2163,7 +2163,7 @@ their spirit, waip, ar.d Lias its diretfk&#x27;oi. and
 render it heterogeneous, incoherent,dirtraile«!  
 maf- U it not safer to wait wiT paiieuce lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808031401:0360/pct:76.86671318911375,51.414045122338734,17.620376831821353,7.467429297743883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808031401:0360/pct:76.85330542473399,51.40859987290828,17.621664050235477,7.4692861681847065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2185,7 +2185,7 @@ pu ucd from 1 heir S; ft settlement. by mat y
 of these Ihrtes and Util believed of conscqueni e  
 to their prosperity, Might not the geoeia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808031401:0360/pct:76.86671318911375,58.93443491155598,17.742498255408236,4.512233873530346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808031401:0360/pct:76.85330542473399,58.92819317941114,17.743764172335602,4.514403728023724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2249,7 +2249,7 @@ believe that the addition of half a million
 of foreigners to our present numbers  
 would produce a similar effect here.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808052301:0402/pct:1.1310711909514304,4.052977494523003,36.87624750499002,88.04023102967537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808052301:0402/pct:1.1308830866456012,4.052573932092004,36.87427240977881,88.03395399780942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2446,7 +2446,7 @@ e, are they not probable? Is it not safer to wait with
 patience for the attainment of any degree of popula­  
 tion desired or expected?&quot; It wiil be recollected that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837081001:0063/pct:58.583981074687394,62.83932078087097,19.313957418046638,10.269146355550422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837081001:0063/pct:58.583981074687394,62.84702167802549,19.325222485073787,10.269146355550422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2465,7 +2465,7 @@ doubt. The present desire of Ametica is to produce
 rapid population by as great importations of foreigners  
 as possible. But is this founded in good policy?&quot;Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837081001:0064/pct:2.1189336978810664,68.6896872456691,18.9336978810663,3.0345308685036625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837081001:0064/pct:2.1246297562087038,68.69356276401969,18.9336978810663,3.0384063868542417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2521,7 +2521,7 @@ foreigners would produce a similar effect here. If
 they come of themselves, they are entitled to all the  
 rights of citizenship, but I doubt the expediency of in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837081001:0064/pct:2.050580997949419,71.85211021974189,19.172932330827066,22.439251249854667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837081001:0064/pct:2.050580997949419,71.85986125644305,19.184324447482343,22.439251249854667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2606,7 +2606,7 @@ degree of population, desired or expectedl May not
 our government he more homogeous, more peaceable,  
 more durable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837090901:0077/pct:40.169801897785916,16.792755616689593,18.844681205260528,22.31774415405777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837090901:0077/pct:40.169801897785916,16.800397371236436,18.85023028688752,22.321565031331193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2662,7 +2662,7 @@ happy, less strong, we may believe that the addition of
 half a million of foreigners would produce a similar  
 effect here.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837100701:0091/pct:39.543409431761376,23.20110701107011,18.780203299450093,22.31319188191882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837100701:0091/pct:39.543409431761376,23.208794587945878,18.785757929234016,22.309348093480935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2718,7 +2718,7 @@ happy, less stromj, we may believe that the addition of
 h-iif a million ol foreigners would produce a similar  
 effect here.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837101401:0094/pct:4.9004850309416295,42.660338041213244,18.966382338183642,22.285251215559157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837101401:0094/pct:4.911635167530802,42.66419695917265,18.977532474772815,22.292969051477964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2758,7 +2758,7 @@ OUR COURSE TOWARDS THE IRISH?THE
 DANGER IN CONGRESS.  
 Since fff&lt;r appearance of our late articles against th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838012701:0131/pct:3.219917012448133,19.858238438298862,18.57261410788382,15.50081338600976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838012701:0131/pct:3.219917012448133,19.858238438298862,18.58367911479945,15.508559919436053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2796,7 +2796,7 @@ timore.
 For six months and more We have labored in the &quot;Na­  
 tive American cause,&quot; and we pause for one moment t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838020301:0135/pct:2.7089527585067725,22.757743874248728,18.483647175421208,14.274156264447527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838020301:0135/pct:2.7089527585067725,22.7654492217599,18.483647175421208,14.27030359069194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2830,7 +2830,7 @@ us the legislation: they will infuse into it their spirit,
 warp and bias its directions, and render it a heterogen­  
 ous, incoherent, distracted mass.&quot;?Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838021001:0139/pct:2.858092389498172,21.10437864410655,18.494516450648057,9.90053732708357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838021001:0139/pct:2.858092389498172,21.10437864410655,18.500055389387395,9.908158987843452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2866,7 +2866,7 @@ The Boston Patriot says he will exchange if
 we will pay the difference. What contemptible  
 avarice! But if the Patriot was not duller tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838022401:0143/pct:3.1626506024096384,22.050447518307568,18.65796519410977,13.22794374055562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838022401:0143/pct:3.1626506024096384,22.058196753070636,18.674698795180724,13.231818357937154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2904,7 +2904,7 @@ nineteenth century. It is a great era. So replete with
 44 wise saws and modern instances;&quot; and, above all others,  
 blessed with visitations of saintly martyrs in the caus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838030301:0147/pct:2.7071640805546386,22.55254906514923,18.438428524265433,13.436302403901985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838030301:0147/pct:2.7071640805546386,22.56029110053033,18.44393089028282,13.436302403901985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2923,7 +2923,7 @@ present desire of America is, to produce rapid
 population bv as great importation of foreigners  
 as possible: but is this founded in good policy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838072801:0232/pct:42.62616364527192,16.94736842105263,18.373346398824104,3.3216374269005846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838072801:0232/pct:42.637051554249005,16.955165692007796,18.362458489847025,3.317738791423002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2977,7 +2977,7 @@ the attainment of any degree of population desired
 or expected? May not our Government be more  
 homogeneous, more peaceable, more durable?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838072801:0232/pct:42.413849420218845,24.935672514619885,18.19369590070227,24.80701754385965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838072801:0232/pct:42.413849420218845,24.943469785575047,18.21002776416789,24.80701754385965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2996,7 +2996,7 @@ present desire of America is, to produce rapid
 population by as great importation of foreigners  
 as possible: but is this founded in good policy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838081101:0240/pct:42.35509660226516,17.01513226290863,18.687541638907394,3.4307496823379924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838081101:0240/pct:42.36620031090384,17.018982711485886,18.68198978458805,3.4346001309152516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3050,7 +3050,7 @@ the attainment of any degree of population desired
 or expected? May not our Government be more  
 homogeneous, more peaceable, more durable?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838081101:0240/pct:42.188540972684876,25.112625620884835,18.48767488341106,24.85849601478572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838081101:0240/pct:42.19409282700422,25.120326518039352,18.493226737730403,24.85849601478572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3112,7 +3112,7 @@ foreigners would produce a similar effect here.&quot;
 The Southern and Southwestern States are  
 deeply interested in the consequences of the grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838090101:0250/pct:4.940346160309192,13.408854467691596,18.467484456393883,29.730666974916193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838090101:0250/pct:4.940346160309192,13.416560705891419,18.47868705539685,29.72681385581628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3173,7 +3173,7 @@ strong, we may believe that the additionof hall
 a million of foreigners would produce a similar  
 effect here.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839021601:0339/pct:40.16181229773463,40.34615834405333,17.89644012944984,28.850426850660742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839021601:0339/pct:40.17259978425027,40.353954703153626,17.891046386192016,28.850426850660742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3238,7 +3238,7 @@ strong, we may believe that the addition of half a
 million of foreigners would produce a similar ef­  
 fect here.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839033001:0362/pct:4.157834664927441,2.6002542470819368,37.11071253872493,92.38414422743557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839033001:0362/pct:4.163269742920811,2.607958704110328,37.1161476167183,92.38799645594976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3294,7 +3294,7 @@ of any degree of population desired or expected?
 May not our government be more homogeneous,  
 more peaceable, more durable, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839050401:0384/pct:5.655737704918033,65.84381128157804,18.34426229508197,26.1852578152036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839050401:0384/pct:5.66120218579235,65.84765640019995,18.349726775956285,26.18910293382551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3386,7 +3386,7 @@ States, requiring floreigners to be pru-’
 pounded a certain time before being nat­  
 walized, was mtended to correct th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1841060301:0100/pct:5.349614769588603,29.09915748541802,13.141444977467655,11.514365953769712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152767:1841060301:0100/pct:5.359306100692931,29.10275797508461,13.141444977467655,11.517966443436308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3434,7 +3434,7 @@ efune p conet tor avefestion of these cone
  sunocsary or our purpose to make further exe  
 from the many almost prophetic remark, of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843120701:0663/pct:61.06151598766434,99.94364292155095,55.088459665638695,39.12308385933273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843120701:0663/pct:20.35383866255478,33.314547640516984,18.36281988854623,13.04102795311091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3610,7 +3610,7 @@ j strong, JVO may believe that the addition of
 I half a million of foreigners to our present.  
 numbers would produce a similar effect here.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026128:1844112801:0067/pct:33.2409972299169,16.19421835531855,31.005144440047488,81.58854897558237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026128:1844112801:0067/pct:33.24759266587522,16.198896061371503,31.005144440047488,81.58854897558237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3661,7 +3661,7 @@ they will share with us the legislation. They will
 infuse into it their spirit, warp and bias its direc­  
 tions,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844122301:0397/pct:3.8696939782823296,45.70309816583087,14.787759131293189,13.237617640997458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844122301:0397/pct:3.869312012634488,45.699958785547466,14.789589708156484,13.238998030865046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3691,7 +3691,7 @@ of population desired or expected?” At any rate,
 is it not safer to extend the term of probation un­  
 til foreigners become in some degree acquainte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844122301:0397/pct:3.8696939782823296,59.435323212200316,14.787759131293189,7.796936181905612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844122301:0397/pct:3.869312012634488,59.4312405550213,14.789589708156484,7.79869029628612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3733,7 +3733,7 @@ cd mass.&quot;
 MARYI xvi) ELECTION&#x27;. Tho general elec­  
 tion in this Stale for Congressmen, members o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845092501:0931/pct:21.069661210506283,10.643258812234262,15.0171298058622,15.841448360993006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845092501:0931/pct:21.069661210506283,10.647830658803091,15.023474178403756,15.850592054130663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3797,7 +3797,7 @@ turbulent less strong we may believe than
 the addition of half a million of foreigners  
 to our present number would produce a si
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065697:00295877595:1854090101:0188/pct:67.59522455940875,35.22629310344828,19.457077885162025,39.81681034482759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065697:00295877595:1854090101:0188/pct:50.71083309638897,26.42241379310345,14.6005117998294,29.870689655172413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3830,7 +3830,7 @@ it their spirit, wurp and bias its directions, and
 render it a HETEROGENEOUS, IKCOIIEKKNT,  
 AND D1STE.ACTED. MAS.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477771:1854100401:0066/pct:48.51735015772871,19.20931360659714,19.305993690851736,10.902255639097744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477771:1854100401:0066/pct:36.39949510886715,14.406985204947853,14.499842221520984,8.185787048265826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3908,7 +3908,7 @@ months longer for the attainment of any degree of popu
 lation desired, or expected? May not our government  
 be more homogencous, more peaceable, more durabls?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184662:1854110101:0913/pct:207.17031342400946,48.31368887851558,39.13364872856298,43.914108997549306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184662:1854110101:0913/pct:69.04656319290466,16.102683780630105,13.042621335304261,14.636328276935044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3965,7 +3965,7 @@ tiacted mass. I may appeal to experience, dur- j
 wig the present contest, for a verification of these I  
 r?iyeeturce.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854111501:0022/pct:2.968250986285929,56.786528234996204,15.78057486379861,20.44821473790833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854111501:0022/pct:2.9807752520508486,56.79496919051237,15.78057486379861,20.44821473790833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4095,7 +4095,7 @@ patience for the attainment of population desired
 or expected? May not our government be more  
 homogeneous, more peaceable, more durable?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854113001:0071/pct:32.19502940618479,51.43549827740207,15.613735534054259,26.45144825826209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854113001:0071/pct:32.20767722759754,51.44400493386075,15.613735534054259,26.45144825826209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4115,7 +4115,7 @@ ME CoMMENts And GUEr shall we refuse the unhappy fugitives
 s will the sUrpriseof from distress that hospitality which  
 iGNORANCE, AND Tie it, the wilderness extended to our fath
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1854120101:0822/pct:196.69421487603304,104.28591769898904,92.86250939143501,11.334187669087285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1854120101:0822/pct:49.201277955271564,26.07147942474726,23.22871640669047,2.8335469172718213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4169,7 +4169,7 @@ longer for the attainment of any degree of popu­
 lation de*ire.l, or expend ? May not our gorern^  
 roent be more homogm&quot;*&quot;, ?&gt;&quot;&lt; &gt;&quot;or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854121101:0105/pct:79.47598253275109,55.350600126342385,15.834440858173533,18.862918509159822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854121101:0105/pct:79.47598253275109,55.35902295220046,15.853426998291248,18.858707096230784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4212,7 +4212,7 @@ of any degree of population desired or expected?
 May not our government be mure homogeneous, more  
 peaceable, more durable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854121201:0111/pct:1.3867781155015197,44.922920117212385,15.634498480243161,12.16715505159893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854121201:0111/pct:1.3867781155015197,44.931413768208266,15.640830800405269,12.16715505159893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4305,7 +4305,7 @@ population desired or expected? May not our govern­
 ment be more homogeneous, more peaceable, more du­  
 rable?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184662:1854121501:1038/pct:134.07374500222124,16.32414759458197,79.7127202724715,277.48715553479684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184662:1854121501:1038/pct:44.68463132958247,5.440747227086982,26.56697265817787,92.4849192449893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4327,7 +4327,7 @@ ample onlv, that in this State (Virginia) we could
 double oui numbers in one yew by the Importation  
 of f jreigners; and this i* a greater accession tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854121801:0130/pct:4.406714994276993,54.15407854984894,15.852727966425029,3.9400805639476335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854121801:0130/pct:4.419432786468269,54.15407854984894,15.865445758616303,3.948472641826116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4372,7 +4372,7 @@ nneous, Incoherent, distracted mass. I may ap­
 peal ti experience, during the present contest, for  
 a verification of these conjectures.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854121801:0130/pct:4.196871423120946,58.34592145015106,16.348721861884776,14.539274924471298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854121801:0130/pct:4.209589215312222,58.35431352802954,16.34236296578914,14.535078885532057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4388,7 +4388,7 @@ a verification of these conjectures.
 &quot; It would be a miracle were they to stop pre­  
 cisely at the point of temperate liberty 1&quot; Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854121801:0130/pct:20.18313620755437,16.17573011077543,15.623807706982069,1.3721047331319234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854121801:0130/pct:20.18313620755437,16.184122188653912,15.630166603077706,1.3721047331319234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4585,7 +4585,7 @@ ed? May not our government be more
 homogeneous, more peaceable, more dura­  
 ble.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854122801:0469/pct:181.93215339233038,238.7643521049754,51.54867256637168,77.69272826681247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854122801:0469/pct:45.483038348082594,59.69108802624385,12.88716814159292,19.423182066703117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4852,7 +4852,7 @@ tainment of population desired or expected? Maj
 not our government be more homogeneou*, more  
 peacoabUy more durable ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011701:0226/pct:19.478063540090773,20.099667774086377,15.563540090771559,8.037311525683618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855011701:0226/pct:19.478063540090773,20.099667774086377,15.569843671205245,8.050089445438283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4922,7 +4922,7 @@ their spirit, warp and biss its directions, nnd
 reuder it a heterogenous, iucuheretit, distract­  
 ed nisss.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1855020201:0315/pct:112.37900223380491,36.646803900325025,16.846612062546537,16.305525460455037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1855020201:0315/pct:84.32029795158287,27.491874322860237,12.644320297951582,12.229144095341278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5110,7 +5110,7 @@ wnrping us ciireotlon, and
 rendering it a  
 Ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292467:1855030801:0674/pct:92.47856586126267,67.49923383389519,17.614964925954794,10.64970885688017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292467:1855030801:0674/pct:69.40924156755703,50.62825620594545,13.2189510625853,7.983450812136071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5182,7 +5182,7 @@ We have now traced the division of parties on this dec&#x27;
 uhjort to the time of Jefferson, hv an appeal to the jlui.  
 coord, and by undoubted authorities. We may hereIte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855031601:0568/pct:57.50985257626624,31.136516476126427,15.355422566048752,9.395715246421366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855031601:0568/pct:57.51471804602734,31.13971883306113,15.360288035809857,9.39891760335607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5309,7 +5309,7 @@ sible, axe they not probable V :
 To&#x27; Sao N iciits. A gentleman informs  
 us that he has received the latest sips
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855032901:0061/pct:9.318181818181818,78.43379446640316,16.136363636363637,38.327569169960476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1855032901:0061/pct:6.995452955578874,58.83152173913044,12.102133613151452,28.742588932806324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5417,7 +5417,7 @@ liberty.&quot; Again: &quot;In proportion to their number
 they will share the legislation. They will infuse  
 into it their spirit, warp and bias
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190960:1855050501:0431/pct:148.5976362674193,142.72604918634528,42.917622155583,17.447693625351768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190960:1855050501:0431/pct:49.5325454224731,47.57534972878176,14.305874051860998,5.815897875117256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5451,7 +5451,7 @@ wot pro utile l Is it not sitef to wait with putt
 expected ? May not our Government be more  
 Iij uogene.uis, more peaceaule, inure durable ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:0041418375A:1855050901:0256/pct:4.627766599597585,15.62087808554739,12.890677397719651,9.082344073864707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:0041418375A:1855050901:0256/pct:4.627145922746781,15.619406500235515,12.893419170243204,9.084628670120898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5486,7 +5486,7 @@ of population desired or expected T May not our
 government be more homogeneous, more peace­  
 able, more durable ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051101:0614/pct:50.67796610169491,59.11038306451613,15.480225988700566,9.954637096774194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855051101:0614/pct:50.684243565599495,59.114583333333336,15.480225988700566,9.954637096774194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5524,7 +5524,7 @@ ment of population desired or expected! May not
  our government be more homogeneour, pencea  
  ble, more durable?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855051601:0913/pct:86.07198748043818,13.350977797382738,119.03364632237871,371.2542273195118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855051601:0913/pct:21.513788382554274,3.3372537488973832,29.752591433600625,92.79991179064982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5579,7 +5579,7 @@ as is usual, from one extreme to another.&quot; I
 might cite to you, fellow citizens, the de­  
 clarations of other fathers of the Republic, al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855061501:1013/pct:24.166339741074932,126.16740088105728,59.023146331894864,24.684287812041116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347971:1855061501:1013/pct:6.040400078446754,31.537219204228453,14.752892724063543,6.170165908089855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5706,7 +5706,7 @@ may believe thnt the addition of half a mil­
 lion of foreigners to our numbers would pro­  
 duce a similar effect here
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1855070601:0387/pct:95.02608047690015,43.906397944001085,17.02682563338301,29.554984444745028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1855070601:0387/pct:71.28749767095212,32.93656161233599,12.781814794112167,22.169619910726365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5917,7 +5917,7 @@ strong, we may hellevu Unit the nddilion of
 ball a million of foreigners In our present  
 numbers oulri rodiK-e a similar effect here.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1855071301:0026/pct:23.876404494382022,17.249922576649116,32.86516853932584,109.33725611644472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1855071301:0026/pct:17.92452830188679,12.945184267575101,24.66880770774789,82.00681325487767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5950,7 +5950,7 @@ tions, and render it a heterogeneous, incohe.
 reiit,-distrneled mass.&quot; &quot;I have conversed,&quot;  
 H.ya the I)uke,&quot;wiih ninny of the novereign
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1855071301:0026/pct:40.24879614767255,35.4598947042428,15.951043338683789,12.047073397336638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1855071301:0026/pct:30.20875150541951,26.602663363270363,11.963067041348856,9.027562712914214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5972,7 +5972,7 @@ ample only) that, in this State, we could double
 our numbers in one year by the importation of for­  
 eigners ; and this is a greater accession than th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855071401:0830/pct:35.01056270405224,26.594012276086683,15.498367582101018,3.9333583865714643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855071401:0830/pct:35.01056270405224,26.602363355463694,15.523974137379168,3.937533926259969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6033,7 +6033,7 @@ foreigners to our pressnt numbers would produce
 they arc entitled to all the right* of citizenship;  
 but I doubt the expediency of inviting them b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855071401:0830/pct:34.79930862300749,45.045722159589126,15.728826579604378,22.122009269698108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855071401:0830/pct:34.81211190064656,45.045722159589126,15.728826579604378,22.13036034907512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6113,7 +6113,7 @@ distress that hospitality which even tbe savages of
 the wilderness extended to our fathers on arriving in  
 this land 1 Shall onnressed hurmnitv find no asvlum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855072001:0337/pct:90.49973276322822,64.7877659053034,20.57723142704436,3.048720713655524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855072001:0337/pct:67.88721101162635,48.59327516910107,15.434985968194574,2.284089795118126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6131,7 +6131,7 @@ safely communicated to every one manifesting a hone
 fide purpose of embarking his life and fortune perma­  
 nently amoiig tts?&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855072001:0337/pct:90.51309460181722,69.85589648073719,20.537145911277392,3.176159200078424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879087:1855072001:0337/pct:67.90057463584124,52.39682384079992,15.4082587197648,2.382119400058818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6312,7 +6312,7 @@ one year by the importations of foreig
 gners;  
 and this is a greater accession than the mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1855080101:0122/pct:145.60838033843675,220.52491890297847,177.4375503626108,46.71188439988204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1855080101:0122/pct:36.402095084609186,55.13122972574462,44.3593875906527,11.67797109997051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6369,7 +6369,7 @@ the freest principles of the English constitu-
 tion, with others derived from natural res  
 son. To these nothing can be more opposed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1855080101:0122/pct:146.17244157937148,292.6570333235034,59.6293311845286,82.63049248009436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1855080101:0122/pct:36.54311039484287,73.16425833087585,14.90733279613215,20.65762312002359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6406,7 +6406,7 @@ they be not certain in event, are they possi
 ble, are they not probable? Is it not safer  
 to wait with patience twenty-seven years an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1855080101:0122/pct:204.9153908138598,15.570628133294013,58.50120870265915,48.36331465644353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1855080101:0122/pct:51.22884770346495,3.8926570333235033,14.625302175664787,12.090828664110882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6430,7 +6430,7 @@ lent, less happy, less strong, we may believe
 that the addition of half a million of foreign  
 ers to our present number woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1855080101:0122/pct:205.31829170024173,64.1108817457977,58.17888799355359,23.591860808021234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1855080101:0122/pct:51.32957292506043,16.027720436449425,14.544721998388397,5.897965202005309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6488,7 +6488,7 @@ the savages of the wilderness extended to our fa­
 thers, arriving in this land? shall oppressed  
 humanity find no asylum on the globe!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855082101:0252/pct:61.856913183279744,12.120911793855303,11.387995712754556,2.5470763131813676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1855082101:0252/pct:61.84862692565305,12.119710633237538,11.389819156061622,2.5493013576454264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6641,7 +6641,7 @@ the wilderness extended to our fathers arriving
 in this land? Shall oppressed humanity find  
 to asylum on this globe? To the state gor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1855092901:0104/pct:218.10109289617486,198.65900383141764,52.595628415300546,18.869731800766285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1855092901:0104/pct:72.70036429872495,66.21966794380587,17.531876138433514,6.2899106002554275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6676,7 +6676,7 @@ for all musical peoplu who desire to keep
 the run of interesting intelligence relative  
 to the art. and of the progress and cultiva
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1855100501:0159/pct:84.12765064035271,78.3244262810437,12.975015746378332,15.058157812008803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1855100501:0159/pct:84.10999160369437,78.31211692597832,12.97753988245172,15.059720257740059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6709,7 +6709,7 @@ directions, and render it a heterogeneous, inco­
 herent, distracted mass.&quot; &quot;I have conversed,&quot;  
 says the Duke, &quot;with many of the sovereign
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855101801:0376/pct:162.77128547579298,219.48669201520912,39.25292153589316,25.85551330798479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855101801:0376/pct:54.257095158597664,73.16223067173638,13.084307178631052,8.61850443599493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6758,7 +6758,7 @@ population desired or expected? May not
 our government be more homogeneous, more  
 peaceable, more durable?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1855102001:0249/pct:10.391179580123849,49.20347983278725,12.475456879625435,16.619591006665914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1855102001:0249/pct:10.38961038961039,49.19792137370086,12.477348233162187,16.620537731586083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6790,7 +6790,7 @@ sssars?: t: 3-*-gs&gt;
 will share with us in the legislation-. They wdl m­  
 fuse into it their spirit, warp an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855102001:1163/pct:1.8122228648544438,22.276833156216792,17.65953344900713,10.30818278427205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1855102001:1163/pct:1.8186491870702397,22.276833156216792,17.65953344900713,10.317038611406305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6817,7 +6817,7 @@ they will share with us the legislation.
 Afc will into it their spirit, warp and bias  
 Section, and render it h(tro&quot;encuvs, m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1855102001:0373/pct:0.15646391550948563,115.7986362976933,18.443184040680617,8.26925866821413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1855102001:0373/pct:0.12126111560226355,89.75002810778398,14.298706548100242,6.412322452497845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6926,7 +6926,7 @@ rr nnicated to everv one manifesting a Uma
 Jile purpose of embarking his life and for­  
 tune permanently with ours.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014286:0020219168A:1855110801:0167/pct:6.890796375774917,70.31878096662615,14.675727229375298,3.4776105450126202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014286:0020219168A:1855110801:0167/pct:5.174675092404913,52.74375993269141,11.00512698223441,2.608207908759465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7003,7 +7003,7 @@ will infuse into it their spirit, warp and bias iu
 directions, and render it a heterogeneous, inco­  
 herent, distracted mass.&quot; &quot;Remember, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058249:00271744778:1855111501:0179/pct:7.1645415907710985,104.15979708306912,17.19793564055859,19.797083069118578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058249:00271744778:1855111501:0179/pct:5.3750379593076225,78.12301838934687,12.90616459155785,14.850982878883958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7125,7 +7125,7 @@ desired or expected. May not our government
 (by so doing) be more hoinogcnious, more  
 peaceable and more durable?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1856022301:0255/pct:7.704089447082248,28.93053016453382,12.544034308469904,12.86563071297989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82014892:00393342870:1856022301:0255/pct:7.702909647779479,28.92722495144522,12.54594180704441,12.867017022735062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7171,7 +7171,7 @@ Fremdem Blatt of Vienna, states, on the anthori­
 ty of its Constantinople correspondent, that the  
 appearance of the Sultan at the balls of the En
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1856032801:0787/pct:79.76470588235294,72.95058554698657,60.568627450980394,68.28049128820336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1856032801:0787/pct:19.93726720250931,18.235042124803655,15.139188394432464,17.06768527773811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7376,7 +7376,7 @@ for a verification ot these conjectures. But it
 they be not certain in event, are they not pro­  
 bable? Is it not safer to wait with patienc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1856041601:0055/pct:68.72679045092838,79.95169082125604,12.824933687002652,10.804533630620588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1856041601:0055/pct:68.71767670070282,79.94426381792847,12.827653273217521,10.806626412757392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7402,7 +7402,7 @@ lion of foreigners to our preseut numbers would
 produce a similar effect here.” In 1797, Mr,  
 Jefferson was quite us emphatic and much mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1856041601:0055/pct:69.0185676392573,90.74693422519509,12.559681697612731,5.444072835377183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1856041601:0055/pct:69.00941519692348,90.73850441244775,12.562436458471467,5.446663570212107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7456,7 +7456,7 @@ rapid population by as great importations of
 foreigners as possible. But is this founds on  
 good policy ? The advantage proposed is tl,,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856042401:0040/pct:85.6008954920118,9.709731666301089,12.333367253485296,2.5297945455874826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856042401:0040/pct:85.59218559218559,9.709021786810938,12.33550400217067,2.5320465955061655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7535,7 +7535,7 @@ half a million of foreigners to our preset,t
 numbers, would produce a similar effect  
 hero.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856042401:0040/pct:85.48895899053628,22.08817723184909,12.567416302025032,32.477882576588435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856042401:0040/pct:85.48026048026048,22.086562362918556,12.569529236195903,32.477945118682065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7670,7 +7670,7 @@ more durable?” Thus we find that Mr.
 Jefferson was the founder of Native Amer­  
 icanism as well as of Democracy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1856050701:0257/pct:42.25721784776903,48.76347495244134,13.090551181102363,13.811033608116677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1856050701:0257/pct:42.262685914260715,48.771929824561404,13.10148731408574,13.802578735996619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7725,7 +7725,7 @@ its direction, and render it a heterogene
   
 ous, incoherent, distracted mass.&quot; Thus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1856050701:0314/pct:25.7823613086771,90.64864194468561,16.642958748221908,22.473024928686595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028817:00296027352:1856050701:0314/pct:19.34910190289881,67.98958204142379,12.484438911613019,16.854768696514945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7867,7 +7867,7 @@ it their spirit, warp and hiass its directions,
 and render it a heterogeneous, incoherent, dis­  
 tiwoUd mass.—[Tliumas Jajjersoiu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1856051701:0496/pct:21.734169994295492,104.48783330904853,16.447993915193003,20.12239545388314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1856051701:0496/pct:16.849241047305593,80.98697583377249,12.74254556172324,15.595121583979523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7912,7 +7912,7 @@ But if they be not certain in event, are
 they not probable! Is it not safer to  
 wait with patience twenty-seven year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059652:00415664989:1856052001:0007/pct:98.61478403223775,155.54616522290303,51.819670066742226,50.72892457215297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059652:00415664989:1856052001:0007/pct:32.87159467741258,51.848721740967676,17.27322335558074,16.90964152405099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7940,7 +7940,7 @@ our present numbers would produce a
 similar effect here.&quot;  
 In 1797, Mr. Jefferson was quite a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059652:00415664989:1856052001:0007/pct:101.7504092683541,205.3560109866892,47.890693867271125,24.33974223536869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059652:00415664989:1856052001:0007/pct:33.91680308945137,68.45200366222973,15.963564622423709,8.113247411789562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7969,7 +7969,7 @@ ent for the whole country at a time when
 the number of foreign immigrants was on­  
 ly some 4,000 a year. At present, whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1856060401:0273/pct:54.15261044176707,34.336663715694954,12.85140562248996,8.372328316681422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1856060401:0273/pct:54.163319946452475,34.336663715694954,12.85140562248996,8.38075966443236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8044,7 +8044,7 @@ in this State, we could double our numbers ;
 in one ye w by the importation of foreign-j  
 ers; and this is a greater accession than 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1856071601:0297/pct:68.03265567472387,59.06722582284915,12.838162317912598,7.472359893252001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1856071601:0297/pct:68.03799156928659,59.07569788622019,12.832826423349875,7.468123861566484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8112,7 +8112,7 @@ dom? Ifit would be more turbulent, less
 happy, less strong, we may believe thet the  
 addition of half a million similar effec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1856071601:0297/pct:68.0646710421002,14.728682170542635,26.108532095405796,81.10306265090863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1856071601:0297/pct:68.0646710421002,14.728682170542635,26.11920388453124,81.11577074596518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8219,7 +8219,7 @@ tience for tbe attainment, of any degree of population
 desired or expected ? May not our Government be  
 more homogeneous—more peaceable—more durable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn84025908:00211664137:1856090801:0238/pct:47.018794556059625,22.400637740576244,14.46856772521063,17.537865846714496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn84025908:00211664137:1856090801:0238/pct:47.02419529055952,22.400637740576244,14.46856772521063,17.537865846714496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8374,13 +8374,13 @@ poraries considered only the reasons why this immi­
 gration was inexpedient for the whole country at a  
 time when the number of foreign immigrants wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857012301:0579/pct:79.22971114167812,81.60714285714286,59.67773629396738,21.086309523809526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857012301:0579/pct:19.80353634577603,20.398750185984227,14.916502946954813,5.270793036750484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1864-02_5_2/page/n5/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1864-02_5_2/page/n5/mode/1up?view=theater)
 
 #### 1864-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -8424,7 +8424,7 @@ contributed to the downfall of Rome, or if the
 same causes scourged Syracuse by perpetual  
 sedition, how much will be the dangers tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869022401:0634/pct:193.48014565632045,52.20445736434109,47.09554361019594,22.85610465116279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869022401:0634/pct:64.49338188544014,17.401485788113696,15.698514536731981,7.6187015503875966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8477,7 +8477,7 @@ one manifesting a bona tide pur­
 pose of embarking hia life and for­  
 tune permanently with us?&#x27;&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_janesville_ver01:data:sn85042459:00280769009:1879021501:0132/pct:14.102828825108404,8.19672131147541,11.046871773693992,8.451376730861053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_janesville_ver01:data:sn85042459:00280769009:1879021501:0132/pct:14.11831509395003,8.19672131147541,11.046871773693992,8.455355721788955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8536,7 +8536,7 @@ spirit, warp and bias Its direction, and
   
 render it a heterogeneous mass.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1894092101:0069/pct:107.66028309741881,74.94698147886328,18.297252289758536,3.9869927894811252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1894092101:0069/pct:80.77884214910453,56.213770677223245,13.744273219491879,2.9973137282624065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8582,7 +8582,7 @@ tion. They will infuse into it their
 spirit, warp and bias its direction, and  
 render It a heterogeneous mass
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1894101201:0094/pct:50.703060380479734,86.97123519458545,18.196856906534325,3.976311336717428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1894101201:0094/pct:38.05090006207325,65.22842639593908,13.67680529691703,2.9892836999435985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8601,7 +8601,7 @@ tion. They will Infuse into it their
 spirit, warp and bias its direction, and  
 render It a heterogeneous mass
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1894101901:0102/pct:49.218089602704985,88.67548726703656,18.681318681318682,4.040404040404041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1894101901:0102/pct:36.92665398435849,66.51017214397496,14.013950538998097,3.0303030303030303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

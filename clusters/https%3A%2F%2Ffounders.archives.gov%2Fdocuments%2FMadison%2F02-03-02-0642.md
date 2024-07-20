@@ -68,7 +68,7 @@ from which he w*s rliawo, or to fome
 &lt; th: r convenient arrangement that may  
 be more eligible to him. In cafe of a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804120501:0002/pct:20.644151196600312,67.4317093776401,20.01789308879445,21.726274288932697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804120501:0002/pct:20.644151196600312,67.4317093776401,20.04025944978752,21.73096780249695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ al, in favour oflhe Jlrother, which may he a desira­
 ble alleviation of his mi fortune.”  
 It appears that this brother was governour cf Dir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120501:0249/pct:50.93623481781376,54.27281522089648,21.761133603238868,17.204127700741697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804120501:0249/pct:50.92334935492031,54.26406577462518,21.761952947128762,17.205384491375142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ slipulatisnt formal or informal in favor
 of the Brother, which may be a desira*  
 b!e alleviation of his mi*fortun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1805091301:0495/pct:73.58989424206815,18.10158501440922,22.032902467685076,20.226945244956774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1805091301:0495/pct:73.568281938326,18.098325229605617,22.033773861967695,20.227804790203493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ j fo triumphantly quoted by fome of the Federal print.?
 “ formal or informal in favour of the brother, which  
 “ may be a defiruble alleviation of his misfortunes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805092001:0159/pct:41.83942706370147,53.1629392971246,18.2246513381078,8.178913738019169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805092001:0159/pct:41.831543244771055,53.15614617940199,18.22749827272156,8.18212794956981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ unto subscribed my name, end
 affixed the seal of the navy de­  
 (r.. s.) partment ot the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012001:0002/pct:22.43726074011059,27.67157199834961,18.694172692471287,32.54022830422225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012001:0002/pct:22.43726074011059,27.68074084261679,18.694172692471287,32.531059459955074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ ble peace, to take advantage of the he.-stile
 as me views of the-brother may contribute  
 to our success, the aid of.-them---nu--
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012201:0144/pct:28.035392429952484,53.521391631405734,24.004587907586433,14.066760695815702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012201:0144/pct:28.030799475753604,53.51635953365927,24.00611620795107,14.068572144916635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ perhaps it may be possible to make some stipulation,
 formal, or inf. rtnul, in favour of the brother, which  
 mu} be a desirable alleviation of his misfortune.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806012401:0926/pct:28.01565940787864,25.53123502156894,21.189136285784194,16.743888800127817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806012401:0926/pct:28.00880626223092,25.527156549520768,21.190068493150687,16.74520766773163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ on, formal, or informal, in favour of the bro­
 ther, which maybe adefirable alleviation of his  
 misfortune.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806012501:0324/pct:2.9184710977217097,9.355376137383058,17.943890039540577,17.72395232602845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806012501:0324/pct:2.917921686746988,9.354177344951307,17.946787148594378,17.72595250298992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ lu» misfortunes.”
 Te all tv ho shall sec these presents—  
 carktino 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806012801:0036/pct:40.43977055449331,14.4,36.19502868068834,81.03225806451613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806012801:0036/pct:40.43203976295163,14.3981421752032,36.19448161600714,81.02610415860319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -515,7 +515,7 @@ informal, in favor of the brother, which may
 bo a desirable alleviation of his misfortune.&quot;  
 Nothing was done at this time beyon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898092501:0538/pct:22.587883320867615,15.681470137825421,104.48765893792071,377.7029096477795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043020:1898092501:0538/pct:5.646970830216904,3.9203675344563553,26.12191473448018,94.42572741194488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

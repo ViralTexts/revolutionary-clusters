@@ -120,7 +120,7 @@ portion in a half cent. In pursuance of this au
 this day, (Dec 3, 1795) as collected from the register  
 kept for that purpose, consists of silver in dollars 204,791
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1857080901:0003/pct:20.21762021762022,73.04839723444374,12.004212004212004,0.9428032683846638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1857080901:0003/pct:20.23078273078273,73.04839723444374,11.9998244998245,0.9490886235072281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ expiration of thn c years all foreign coins except
 Spanish milled dollars shall cease to be a legal  
 tender
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776166:1864111001:0506/pct:92.62416604892513,64.6637652674435,16.679021497405486,1.4600589639196968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776166:1864111001:0506/pct:69.50315164998146,48.504843464832234,12.513904338153504,1.0950442229397725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ the 9th of February, 1793, after the expiration of three
 years, all foreign coins, except Spanish milled dollars,  
 shall cease to be a legal tender
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:0027174349A:1864111301:0615/pct:110.14446227929373,130.5659947614167,45.296950240770464,13.643093041794785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:0027174349A:1864111301:0615/pct:36.71482075976458,43.52199825380556,15.098983413590155,4.547697680598262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ after the expiration of three years all for­
 eign coins except Spanish milled dollars  
 shall cease to be a legal tender
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1864111601:0705/pct:114.0885984023239,258.7609678277054,50.39941902687001,26.80138261100771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1864111601:0705/pct:28.522149600580974,64.69024195692634,12.599854756717502,6.700345652751928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ three years, all foreign coins, except Span­
 ish milled dollars, shall cease to be a legal  
 tender
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1864113001:0784/pct:5.431389686602572,18.559528646891508,10.975152952927957,8.26899634295002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:00279529431:1864113001:0784/pct:5.439713655470928,18.5629148042801,10.9668289840596,8.279154815115806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ that all foreign coins, except Spanish
 milled dollars, shall cease to be a legal  
 tender
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1878020801:0447/pct:101.67768174885613,189.83190677529132,38.68835790543976,4.578735691450964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1878020801:0447/pct:25.42265158256006,47.45797669382283,9.673318927164104,1.144683922862741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ tender
 that all foreign coins except Spanish milled  
 dollars shall cease to be a legal tender
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1878021601:0649/pct:167.54550093553325,105.38680588514475,37.21721381187277,2.693402942572378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1878021601:0649/pct:55.84850031184442,35.12893529504825,12.405737937290922,0.8978009808574593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ clares that all foreign coins except Span­
 ish milled dollars shall cease to be a le­  
 gal tender
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623537:1878031501:0044/pct:16.036368427987878,56.37982195845697,11.384899196205033,1.565537705924486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623537:1878031501:0044/pct:16.040760750208634,56.38323271598622,11.389291518425791,1.5757699785122277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ declares that all foreign coins except
 Spanish milled dollars shall cease to  
 be a legal tender
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291074:1878033001:0875/pct:20.84878450762258,46.13740022805017,13.988463123197363,1.7958950969213228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291074:1878033001:0875/pct:20.853934899052327,46.144526795895096,13.988463123197363,1.7994583808437856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

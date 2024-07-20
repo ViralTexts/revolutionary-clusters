@@ -64,7 +64,7 @@ letter of April 28th, just now received, with the
 assurance of my highest consideration.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826062701:0511/pct:42.67589388696655,27.121110364898144,17.482287032460043,14.584732482650548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826062701:0511/pct:42.66886326194399,27.118074986010072,17.484898407468425,14.586830815146428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ your letter of April 28th, just now received, with (lie
 assutance of my highest consideration.  
 ,, . TfJ. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826070401:0159/pct:59.64182922929325,67.28971962616822,17.796610169491526,11.179906542056075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826070401:0159/pct:59.63229416466827,67.28185959584161,17.799094058086865,11.182494256901453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ tion, by your letter of April 28’h, just now receiv­
 ed, with the assurance of iny highest consideration.  
 TH. J El&#x27;&#x27;PERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826070401:0070/pct:36.06060606060606,36.156748204940975,15.023923444976077,11.330169161494462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826070401:0070/pct:36.05485568489874,36.152348503285474,15.02684314038165,11.332846596901112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ the organs of their commucication, by your letter of April
 19th, just now received, with the assurance of my highest  
 consideration  e ti eeso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842110701:0344/pct:152.52225519287833,264.1775672056854,49.43620178041543,22.391595426923473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842110701:0344/pct:50.84075173095945,88.05918906856182,16.478733926805145,7.463865142307824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ wiMjom of employing the resources of industry in
 works of Improvement rather than of destruction. &#x27;*  
 111 the descendants of lho*e pro|ortors are her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876062701:0001/pct:57.50461619625429,12.586276898091757,12.92534951200211,2.7608607389362567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876062701:0001/pct:57.511210762331835,12.586276898091757,12.931944078079662,2.7608607389362567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

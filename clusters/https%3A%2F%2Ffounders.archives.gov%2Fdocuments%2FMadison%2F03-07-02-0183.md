@@ -72,7 +72,7 @@ when and hole ibe same whs so vriiii
 Mr. Grosvenor of N. Y. ealled far  
 ; (he Yeas and .Yays on (tie qweslio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813123001:0194/pct:39.4075682382134,51.265704106506654,17.88151364764268,18.441777611100694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813123001:0194/pct:39.40145759032408,51.26089809693447,17.883909650074948,18.44317365082341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ I* the possession of the executive ; and if none such be
 tame was so withdrawn.  
 , Mr. Grosvenor of New York called for tiie Yeas an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814010501:0726/pct:3.6090225563909772,61.69097165328527,22.45614035087719,10.650499754219236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814010501:0726/pct:3.6081182660987223,61.68086500655308,22.45677774993736,10.652850589777195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ j hatv the same was so withdrawn,
 j Mr. Grosvexor of N. Y. called  
 j for the Yeas and Nays on the qu^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814010801:0209/pct:26.347009391992092,13.253888838351678,18.33910034602076,17.283726007459293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814010801:0209/pct:26.342668863261945,13.252683281790068,18.341570565623282,17.28518585895337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ gHM&#x27;tmeiit State. and if §o. tt&gt;ri£7l
 and how the same was so withdrawn.  
 Mr. lifiiiHon of Jfd. said, that t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814011501:0222/pct:37.94019933554817,35.31189887331684,18.18936877076412,18.22845103966291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814011501:0222/pct:37.93389802358412,35.30866459058436,18.19188396168964,18.2298345240276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ tin: same was so wi lidrawn.
   
 The Court Martial tor the trial of Bl ip
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814011701:0021/pct:22.744688261929642,60.54839853445219,16.335771508185303,10.944332821179529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814011701:0021/pct:22.74072784259098,60.54124320491609,16.338731209008067,10.946978649649413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ dtate, mu. if so, when and /iovj thu nine wxn
 so withdrawn.  
 Mr Hanson of Md. said, that ,to red. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814011801:0311/pct:77.24517906336088,32.958239559889975,17.649219467401284,14.253563390847711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814011801:0311/pct:77.23099522585383,32.954119264908115,17.65209940017138,14.255948660249198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ department of slate, and if so, vsLch and hov&gt;
 the same was so wHulrawn.  
 Messrs. Hanson, Post and Grosvenor, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814012201:0023/pct:4.04340976719762,23.884268478388194,16.366182391037984,11.198313224786224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814012201:0023/pct:4.042702135106755,23.881471070508315,16.369151790922878,11.200905754665417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ Ail ot which i9 respectfully submit­
 t ^ cl  
 JAMES MUNROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814012501:0238/pct:19.56772809767365,18.839652809502056,18.67678600890942,25.66468707172225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814012501:0238/pct:19.56450016496206,18.83793166453499,18.67920378312988,25.665387660637066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ sent Minister of France.
 All which is respectfully submitted.  
 JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814012601:0029/pct:3.8568450312717166,5.812185709273769,34.173036831132734,86.66822593848673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814012601:0029/pct:3.8561750911933297,5.811506080449018,34.17289097330786,86.66198939819145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ Statement is aunexed
 That tin such communication was ever address :d  
 toth« Secretary of Slate by the prcsc.it iilinu tr o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814012701:0330/pct:3.4476401179941,11.95719030631074,18.21533923303835,15.241727149710911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814012701:0330/pct:3.447004608294931,11.955719557195572,18.218125960061442,15.243952439524396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ Min:ker of France. 1
 All which is sefp-&amp;Qfully submitted. ‘  
 | : . JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814020101:0018/pct:22.9901269393512,3.7351606987742496,35.45839210155148,89.80793359714313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814020101:0018/pct:22.9901269393512,3.7383778914519192,35.47249647390691,89.81436798249847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -735,7 +735,7 @@ Minister of France.
 All which is respect{ully submitted.  
 JAMES MONRQE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814020301:0977/pct:27.618568795039383,4.416527627833939,45.751633986928105,93.856119344391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814020301:0977/pct:27.629741355231552,4.419799129780483,45.74046142673593,93.86593385023065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

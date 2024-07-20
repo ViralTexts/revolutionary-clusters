@@ -80,7 +80,7 @@ on a ledge of rocks,at the mouth of Lobster
 Bay, near Mud Islands, oo the 23d of  
 September,————She had on beard abou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783101101:0440/pct:66.62788765165365,25.58628667578084,27.771314608608943,20.748764328530864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783101101:0440/pct:66.63342751094122,25.58628667578084,27.771314608608943,20.752269779507134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ vp, and fay they fhail agply to Mr, Hartiey on thie subj-&amp;, and
 sifo on the tranfporration . f Ncgroes from New. Yok, contrary  
 to the words and intention of che provisional arcicles,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784052201:0559/pct:33.61302231918107,27.672623453526487,27.219332102701795,14.92016495717458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1784052201:0559/pct:33.61302231918107,27.676148179479046,27.224925882418752,14.92016495717458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ ty of the American inhabitants, withdraw all his armies,
 garrisons and fleets from the said United States, and  
 from every port, place and harbor within the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860122001:0601/pct:15.877556858818481,27.02485159472784,11.15720211700758,1.6601267733172351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860122001:0601/pct:15.88232489391122,27.031559177650333,11.171506222285796,1.663480564778482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ and fleets from the United States, and from
 every port, place, and harbor, within the  
 same.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861022701:0204/pct:152.52469813391878,278.99013977679056,44.29198682766191,12.872467222884387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861022701:0204/pct:38.141641504254736,69.74753494419764,11.07603623387318,3.2181168057210967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

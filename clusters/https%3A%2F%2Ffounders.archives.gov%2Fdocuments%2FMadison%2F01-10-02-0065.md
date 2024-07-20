@@ -59,7 +59,7 @@ If it be a fundamental principle of free government
 &quot;should he separately exercised, it is equally so that  
 &quot;they be independently exercised.&quot;  ElLIOt&#x27;s Deb337
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1858043001:0495/pct:224.33489827856025,196.57039711191337,51.25195618153364,21.48014440433213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1858043001:0495/pct:56.11665688001566,49.14259927797834,12.820512820512821,5.370036101083032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -88,7 +88,7 @@ de partments in one, and thus to create, whatever
  aere of goveroment u roal desporism  
 The submission of the executive to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1858050501:0877/pct:16.10239471511148,348.81101376720903,50.70189925681255,30.851063829787233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1858050501:0877/pct:4.0272614622057,87.20275344180226,12.68071045022718,7.712765957446808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ The substitution of electors obviated this diffi­
 culty, and seemed, on the whole, to be liable to  
 fewest objections.-5 Elliot&#x27;s Debates, 337
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881030201:0884/pct:260.15748031496065,134.85023041474653,40.47244094488189,63.6520737327189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881030201:0884/pct:65.05217562512306,33.71255760368663,10.120102382358732,15.913018433179724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

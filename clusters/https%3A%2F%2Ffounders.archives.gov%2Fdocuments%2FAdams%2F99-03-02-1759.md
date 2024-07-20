@@ -363,7 +363,7 @@ Acts not by partial but bv eeneral laws.&quot;
 And makes what happiness we justly call  
 Subsist not iu the good of one, but alh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197474:1884010301:0344/pct:49.39483593329747,74.05843795133875,11.390532544378699,1.7998000222197534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197474:1884010301:0344/pct:37.06444235167496,55.54938340184424,8.542983990313466,1.3554049550049994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

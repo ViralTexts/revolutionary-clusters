@@ -3156,7 +3156,7 @@ Or wet the thirſty carth with falling ſhowers,
 &quot; And that which he delights in, must be  
 t( happy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794041101:0004/pct:34.22085201793722,61.33849557522124,16.984304932735427,3.650442477876106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794041101:0004/pct:34.22785874439462,61.343104719764014,16.97729820627803,3.655051622418879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3176,7 +3176,7 @@ t( happy.
 14 Anithat which he delights in, must be  
 44 happy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794041401:0004/pct:14.908579465541491,57.523914643119944,16.652601969057667,3.734363502575423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794041401:0004/pct:14.915611814345992,57.533112582781456,16.645569620253166,3.738962472406181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4465,7 +4465,7 @@ virtue;
 And that which he delights in, must be hap­  
 py
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822052201:0334/pct:25.94223318069743,27.357159652010345,17.611835153222966,3.9148836115683046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822052201:0334/pct:25.95397440413291,27.36499725683831,17.605964541505227,3.9148836115683046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4661,7 +4661,7 @@ pines, r ’ &#x27;
 With every plant in sign of worship wave ”  
 He repeated them a second lime wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826100401:0263/pct:104.35667752442997,68.10795124782356,19.218241042345277,5.731282646546721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826100401:0263/pct:80.87724834332597,52.78683608830916,14.910066266961186,4.449192248585029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5302,7 +5302,7 @@ human hands, than that of monuments of
 human industry and skill. They are co­  
 nical mounds of clay, which their tiny ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1840061601:0001/pct:64.1063298575415,49.518304431599226,14.965486855632252,12.770284735602655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1840061601:0001/pct:64.1112253390121,49.525440662242204,14.965486855632252,12.76314850495968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5352,7 +5352,7 @@ Fairest of stars! last in the train of night,
 That crown&#x27;st the smiling morn  
 With thy bright circlet! praise him thy sphere.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1840100301:0015/pct:18.407212622088654,34.33914152146196,58.37716003005259,51.45204703215753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1840100301:0015/pct:4.6026676686079275,8.58478538036549,14.597031749013714,12.863011758039383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5466,7 +5466,7 @@ And that there is, all nature cries aloud
 Through all her works,-he must delight in virtue;  
 And that which he delights in, must be happy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843091801:0336/pct:104.36060754532092,79.29864253393666,37.7266046055855,4.377828054298643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843091801:0336/pct:34.78686918177364,26.43288084464555,12.575534868528498,1.4592760180995474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5484,7 +5484,7 @@ And that there is, all nature cries aloud
 Through all her works--he must delight in virtue;  
 And that which he delights in, must be happy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843091901:0340/pct:106.42020135335864,146.84276159165628,38.25713814160753,4.2398820995352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843091901:0340/pct:35.473400451119545,48.94758719721876,12.752379380535842,1.4132940331784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5673,7 +5673,7 @@ These lines he repeated twice. He had just strength to say them the secon
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1845-09_2_3/page/n98/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1845-09_2_3/page/n98/mode/1up?view=theater)
 
 #### 1845-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5914,7 +5914,7 @@ i poet: &#x27;
 If rather thou belong&#x27;st not to the dawn.&#x27;  
 &quot; It we could at last lay down permanently the boundarie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850051801:0194/pct:1.7050067658998647,60.086699090716856,15.588633288227335,1.998308310425037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850051801:0194/pct:1.7095173658096527,60.09022344399803,15.588633288227335,1.998308310425037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5946,7 +5946,7 @@ A second time he took up the sub­
 lime and melodious strain, and accom­  
 panying the action to the word,, wav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1850082901:0269/pct:79.69835284778726,52.03318373453013,14.705298670371105,4.256765945872433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1850082901:0269/pct:79.68253968253968,52.02610824041338,14.70734126984127,4.259586619526788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5966,7 +5966,7 @@ With every plant, in sign of worship wave.&#x27;
 A second time he took up the sublime  
 and melodious strains, accompanying th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1850091201:0381/pct:16.583912611717974,85.30897367006986,12.498226698822528,2.7941966684578183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1850091201:0381/pct:16.583912611717974,85.31255597349096,12.512413108242304,2.7941966684578183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6016,7 +6016,7 @@ quarters blow,
 Breathe soft or loud;and wave your tops, ye pines,  
 With every plant, in sign of worship wave.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1850111401:0262/pct:25.790441176470587,168.40424172735402,43.91544117647059,13.351220135428644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1850111401:0262/pct:8.596813725490197,56.13474724245135,14.638480392156863,4.450406711809548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6075,7 +6075,7 @@ going, there is plainly no foundation for the popu
 
 ---
 
-## [From _The International Monthly Magazine of Literature, Science and Art (1850-1852)_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1851-01-01_2_2/page/n6/mode/1up?view=theater)
+## [From _The International magazine of literature, art, and science_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1851-01-01_2_2/page/n6/mode/1up?view=theater)
 
 #### 1851-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -6273,7 +6273,7 @@ Whether to deck with cleuds the anchored sky,
 Or wet tbe thirsty earth with falling showers,  
 Rising or falling still advance llis praise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852103001:0391/pct:52.06646188215582,66.56668452062132,12.175370008377548,3.267273701124799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852103001:0391/pct:52.07577026901238,66.5702553115515,12.16606162152099,3.267273701124799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6294,7 +6294,7 @@ Whether to deck with clouds the uncolored aky.
 Or wet the thristy earth with falling showers,  
 Rising or falling still advance His praise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190522:1852112701:0335/pct:338.6215092097445,253.03413400758532,51.31709249356308,14.348925410872313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190522:1852112701:0335/pct:84.65537730243612,63.25853350189633,12.82927312339077,3.5872313527180784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6313,7 +6313,7 @@ in thy eternal course, both when thou climbst,
 And when high noon hast gained, and when thou falr&#x27;s.&quot;  
 From the sun, the monarch of the heavens, it was natu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653039A:1852121601:0534/pct:251.55516941789747,114.64664105250903,46.2380538662033,6.333682617301199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:0020653039A:1852121601:0534/pct:83.85172313929915,38.215547017503006,15.412684622067767,2.1112275391004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6724,7 +6724,7 @@ Witnee. if I bs silent, morn or even, .
 To oil! or valley. fbuntai;i or fresh shade, &#x27;  
 Made vocal by my song, and taught his praise. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027133:1859041301:0485/pct:97.2310630171865,21.074270557029177,14.767663908338637,27.55968169761273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027133:1859041301:0485/pct:72.94286169027535,15.809018567639257,11.077510743275505,20.676392572944298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7092,7 +7092,7 @@ climb&#x27;st
 And when hign noon hast gained, and  
 thon fall&#x27;st.&#x27;7 . &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1864120201:0399/pct:72.69670477471419,116.63650621305345,20.090786819098856,6.1044758113162025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1864120201:0399/pct:54.54086781029263,87.47737965979009,15.08577194752775,4.584388949209796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7117,7 +7117,7 @@ The blind Ossian speaks thus beautifully :
 the shield, of my fathers ! Whence are  
 thy beams, O sun 1 thy everlasting light 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1864120701:0571/pct:70.32163742690058,115.9664932097982,19.992690058479532,9.493590557177306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1864120701:0571/pct:52.76051188299817,86.97804289884503,15.009140767824498,7.12019291788298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7365,7 +7365,7 @@ Breathe soft or loud, and wave your tops, ye pines;
 With every plant, in sign of worship wave.”  
 Accompanying tho action to the word h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110193:1870041001:0006/pct:68.46465390279823,10.696710696710698,12.15022091310751,3.0044030044030046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110193:1870041001:0006/pct:68.46925625920471,10.706423206423207,12.154823269513992,2.997927997927998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7456,7 +7456,7 @@ Through all her works—he must delight in
 virtue;  
 Aud that which lie delights iu must be happy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1874090401:0143/pct:66.40481363864282,32.97999204982112,14.106635467156945,2.5043063468928053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1874090401:0143/pct:51.46804835924007,25.566509207914013,10.932642487046632,1.9408502772643252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7705,7 +7705,7 @@ moon
 With thy bright circlet, praise Him in thy  
 spere. Miltos.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876102601:0446/pct:53.16601049868766,74.79744659955807,13.238188976377952,3.105818806776332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876102601:0446/pct:53.16601049868766,74.79744659955807,13.254593175853019,3.1140027825517635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7771,7 +7771,7 @@ Mow.
 Breathe soft or loud; and wave your tops, ye pines.  
 With every plant, in sign of worship wave 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623793:1878051101:0088/pct:72.03305314147315,19.68503937007874,10.357600797834449,1.488512566066228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623793:1878051101:0088/pct:72.0425511706321,19.688634811059575,10.367098826993399,1.4921080070470643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7789,7 +7789,7 @@ blow,
 Breathe soft or loud; and wave your tops, ye pines,  
 With every plant, in sign of worship wave 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623793:1878051102:0242/pct:71.64855072463769,17.727221533956527,10.82427536231884,1.5317040207230543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623793:1878051102:0242/pct:71.65358293075684,17.734729886999286,10.819243156199677,1.5279498442016743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7879,7 +7879,7 @@ While dav ariuea that sweet hour of uriine .
   
 Tbou sun.of this great world both eye and soul.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1881052101:0082/pct:32.8002414001207,77.0624701955174,13.050694025347013,5.352885073915117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1881052101:0082/pct:24.615152429821915,57.79685264663805,9.794747962571687,4.017644253695756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7926,7 +7926,7 @@ Join voices, all ye living souis; ye birds
 That ainging up le ueaven ascead.  
 Bear en your wings aad in yaur notes his praise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1881052101:0082/pct:32.89076644538322,82.79685264663806,13.141219070609536,9.763948497854077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn87052143:00294556588:1881052101:0082/pct:24.675520676124357,62.10061993323796,9.870208270449744,7.331902718168813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8236,7 +8236,7 @@ In honour to the world’s great Author rise.”
 smiling morn   
 “With thy bright circlet.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152123:1891012201:0501/pct:76.94992616458585,64.02387041773231,14.028728688414553,2.538599981055224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152123:1891012201:0501/pct:76.95440103817067,64.02387041773231,14.033203561999374,2.55122983170724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8307,7 +8307,7 @@ What did their visit mean I The word here
 translated wise men is the same as that  
 elsewhere is translated magicians Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048558:1891122501:0475/pct:75.48913043478261,10.010346611484739,42.95289855072464,131.22090015519916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048558:1891122501:0475/pct:50.34432765494744,6.673564407656492,28.651685393258425,87.48060010346612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8476,7 +8476,7 @@ The earth, and stately tread, or lowly
 creep  
 Witness then if I be silen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536366:1894100201:0296/pct:73.10344827586206,169.81744421906694,51.49425287356322,12.089249492900608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536366:1894100201:0296/pct:18.281115263006612,42.454361054766736,12.877263581488934,3.022312373225152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8581,7 +8581,7 @@ To hill or valley, fountain or fresh shade,
 Made vocal by my song, and taught His  
 praise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199331:1895040101:0084/pct:92.93960923623446,61.59381945179384,38.38069863824748,34.15176209122659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199331:1895040101:0084/pct:30.979869745411484,20.531273150597947,12.79356621274916,11.383920697075528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8837,7 +8837,7 @@ Circle his throne rejoicing; yea in heaven:
 Him first, him last, him midst, and witheut&#x27;md.&#x27;1 MHon.  
 &#x27;Give the case of each noun and pronoun in the foregoing sentence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028297:0029602918A:1896022001:0459/pct:3.9087947882736156,44.53407510431154,29.132736156351793,5.118219749652295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028297:0029602918A:1896022001:0459/pct:2.9327902240325865,33.40751043115438,21.873727087576373,3.8386648122392213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8893,7 +8893,7 @@ Breathe soft or loud, and wave ye tops, ye
 pines,  
 With every plant, in sign of worship, wave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014114:1896051101:0607/pct:69.61102106969206,15.065012703631744,12.135332252836305,2.555671797937528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014114:1896051101:0607/pct:69.59692120721085,15.06276150627615,12.137938019039902,2.559025702331142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8913,7 +8913,7 @@ Breathe soft or lend, and wavo ye tops, ye
 pines.  
 With every plant. In sign of worship, ware
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:00212471823:1896052801:0756/pct:22.56838905775076,33.61547762998791,16.204407294832826,3.688029020556227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_ephemera_ver01:data:sn92053934:00212471823:1896052801:0756/pct:16.929507885236557,25.21160822249093,12.160364810944328,2.7660217654171704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -62,7 +62,7 @@ S. FAIRFAX.
 ANN SPEARING,  
 EDIZ’TH DENT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340238:1896022901:0209/pct:14.862354332038507,54.79725870930896,11.19743286606992,14.463163906339235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340238:1896022901:0209/pct:14.85984464707869,54.789436117059246,11.199763593380615,14.464668094218416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ very early, we shall be at Mount Vernon.
 Ann Spearind  
 E1TH DEiNT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_charlotte_ver01:data:sn86072143:00280777122:1896040201:0168/pct:180.6122448979592,216.44144144144144,51.41287284144427,38.00675675675676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_charlotte_ver01:data:sn86072143:00280777122:1896040201:0168/pct:45.179658354604356,54.11036036036036,12.860789318672689,9.50168918918919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ Mount Vernon.SFA.
 ANN SPEARING.  
 ELIz&#x27;TH DENT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1896050801:0148/pct:139.34723481414323,115.75160331612702,58.83952855847688,21.210699202252464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1896050801:0148/pct:34.83680870353581,28.937900829031754,14.70988213961922,5.302674800563116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ Mount Vernon, 8. FAIRFAX.
 Ann Speak [no.  
 Kliz&#x27;th Dent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovelock_ver01:data:sn85042461:00280769678:1896061201:0451/pct:44.798592100117325,66.3884334476077,12.28001564333203,4.903860485914444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovelock_ver01:data:sn85042461:00280769678:1896061201:0451/pct:44.803480641376616,66.3884334476077,12.289792725850607,4.9113131614249514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ morning very carly we shall be at Mt.
 Vernon. Sally Fairfax, Ann Spearing. Eliza­  
 beth Dent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022101:0685/pct:70.40498442367601,109.12414318354912,50.700934579439256,16.633663366336634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897022101:0685/pct:17.604673807205454,27.28103579588728,12.677702044790653,4.158415841584159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ morning, very carly, we shall be at
 Mount Vernon. Sally Fairfax, Ann  
 Spearing, Elizabeth Dent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026965:00294551189:1897032401:0278/pct:23.433675966715615,60.213568995673384,10.939794419970632,6.2873975881432385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026965:00294551189:1897032401:0278/pct:23.433675966715615,60.213568995673384,10.947952357643988,6.293534628248795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ morning very early, we shall be at {
 Mount Vernon. Sally Fairfax, Ann .  
 Spearing, Elizabeth Dent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295861484:1897050101:0072/pct:56.10709987966305,68.29395776709178,13.583032490974729,7.098055613631612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295861484:1897050101:0072/pct:56.11712795828319,68.3009268938602,13.578018451664661,7.10154017701582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ very early we shall be at Mt. Vernon.
 “ANN SPEARING,  
 “ELIZ’TH DENT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768588:1898021701:0190/pct:57.02524698133919,74.15335142196764,12.349066959385292,7.647472615817506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768588:1898021701:0190/pct:57.02524698133919,74.16005091615583,12.358214416392244,7.640773121629317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ early we shall be at Ml. Vernon.
 &quot;ANN SPEARING,  
 &quot;ELIZ&#x27;TH DENT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898022201:0371/pct:1.5638089919017035,80.25420694593628,14.353532532812064,6.229860365198711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898022201:0371/pct:1.5847528623289584,80.26763336913713,14.33258866238481,6.229860365198711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

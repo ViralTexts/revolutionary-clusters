@@ -48,7 +48,7 @@ cause it is believed here, that we cannot do much, 1
 and even that we will not do what we have the pow- 1  
 er of doing.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809031501:0386/pct:46.0904321758681,26.8864113750202,21.433924556582564,9.856196477621587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809031501:0386/pct:46.07892107892108,26.882067851373183,21.434815184815186,9.85864297253635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -75,7 +75,7 @@ betause it is believed here, that we can: ot
 damucsih and exen that we will not do v.&quot; l&#x27;at  
 &#x27;{sssfyss five hate the pon er of _doing.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809031601:0336/pct:3.0430852666465804,42.9127091813659,26.42362157276288,9.154228855721392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809031601:0336/pct:3.0426269016418135,42.90882778581766,26.4246623487473,9.156415822479499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ that we cannot do much, and evyn that we
 will not uo tvhat we have the power of do­  
 ing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809031701:0396/pct:4.777655273796398,48.26760740834068,17.76920249908122,13.279576666246692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809031701:0396/pct:4.7767775124012495,48.261526832955404,17.772061975626187,13.282102964642647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ ed these remaikable expressions: “We have some­
 have reflected that even the terms on which Mr.  
 Frskine was authorised to make an arrangemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810081001:0045/pct:31.42717497556207,58.7846550612508,20.8455522971652,7.382333978078659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810081001:0045/pct:31.419496701685805,58.775181305398874,20.846567310041536,7.385173247381144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ cause it is believed here that we cannot do
 much, and that we will not do what we  
 have the power of doing.” How muc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811062101:0104/pct:5.371024734982332,3.7364228819695873,45.27679623085984,93.12092686459087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811062101:0104/pct:5.3697597739048515,3.735881841876629,45.2720207253886,93.11106284390385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

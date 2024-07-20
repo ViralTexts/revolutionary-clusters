@@ -115,7 +115,7 @@ what is good in it, and that the others
 might, by holding off, produce the neces-  
 sary amendments.&quot; Subsequently t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1843091401:0133/pct:74.36684574059862,303.2032301480485,55.71757482732156,15.074024226110364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1843091401:0133/pct:18.598848368522074,75.80080753701212,13.934740882917467,3.768506056527591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ things is for liberty to yield and govern­
 ment to gain grolunid.&quot;  
 The light which experience has latel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762027:1875041101:0285/pct:53.72825186412593,36.134590377113135,15.907207953603978,7.948634590377113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_Cypher_ver01:data:sn86086284:00280762027:1875041101:0285/pct:53.05788504806709,35.86640851887706,15.708733892411535,7.889641819941917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ progress of things is for liberty to yield aud
 government to gain ground.&quot;  
 The light which experience has lately throw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551281:1875041501:0340/pct:82.53135024788568,40.57729941291585,15.63137941090697,6.839530332681018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551281:1875041501:0340/pct:82.54107125498201,40.58382257012394,15.636239914455137,6.839530332681018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ invasion, or any other cause, and the whole
 that pa|»er is poverty, |li:it it is only the  
 ghost oi money, and not money itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090801:0160/pct:31.73755483501812,80.36290322580645,12.702651153919511,5.766129032258065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090801:0160/pct:31.731502669717774,80.35210321193388,12.704996186117468,5.768713882542669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ visionary fabric vani-hes Into air, and allows
 that paper is poverty, that it is only the  
 ghost of money, and not money itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092201:0167/pct:55.368184373243395,88.32995267072346,12.516394978452315,5.747126436781609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092201:0167/pct:55.35781191457475,88.31800973499189,12.51873360809292,5.749729583558681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ visionary fabric vanishes into air, and shows
 that paper is poverty, that it is only tin*  
 ghost of money, and not money itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092901:0171/pct:56.171802054154995,88.29169480081026,12.492997198879552,5.712356515867657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887092901:0171/pct:56.1613144137416,88.27977315689981,12.495332337565348,5.714960842560086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ ImsineMs with his legs crossed.
 The limbs at tliose times are  
 str.iighter than at any other be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887100601:0175/pct:57.185967559411544,13.667026443604964,25.367785741229724,79.68159740960604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887100601:0175/pct:57.17518385819348,13.665182786995818,25.367716386950782,79.6742209631728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ visionary fabric vanishes into air, and shoyv&#x27;
 that paper is poverty, that it is only the  
 ghoat of money, and not money itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887101301:0179/pct:55.04169825625474,88.01781136148968,13.07808946171342,5.707731750101201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887101301:0179/pct:55.03126776577601,88.00593631948192,13.080348682963805,5.710334592552617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ vi-ionurv fabric viuii-hes into air, and slum­
 ttint paper is poverty, that it is only the  
 ghost of money, and not money itself.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102001:0183/pct:56.03873908089631,88.53632190116122,12.628180782377516,5.7115852011882255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102001:0183/pct:56.02809948737422,88.52436884028621,12.630529713309285,5.714189280410422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ visionarx fabric vanish* - into air. and allow*
 that pu|mr is povert \, that il i» oiilv tin  
 glioaL of ue*m \, ami uo| \ itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102601:0187/pct:55.11018237082067,88.74476422105121,12.708966565349543,5.701932171328199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887102601:0187/pct:55.0997150997151,88.73277492569576,12.711301044634379,5.704539313699001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ visionary fabric vanishes into air, and shows
 that paper is poverty, that it is only the  
 ghost of money, and not money itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110201:0191/pct:56.53817082388511,88.6820652173913,12.622826908541194,5.720108695652174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110201:0191/pct:56.527489136595506,88.67001766064394,12.62516531267712,5.7227278902323055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ visionary fabric vanishes into air, and show
 that pa;&gt;cr is poverty, that it is only tin  
 ghost of money, and not money itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110901:0195/pct:55.25468661238402,89.30415873878772,12.724862715394812,5.74884479478119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887110901:0195/pct:55.244225672093904,89.29202337274086,12.727186671715259,5.751460796303846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ vi*iotiar&gt; fubric vanishes into air. and show*
 that pu|R*r is poverty, that it is only the  
 ghost of money, and not money itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887111601:0199/pct:55.63650306748466,88.83904295812941,12.749233128834355,5.750407830342578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887111601:0199/pct:55.625838604562006,88.8269675139323,12.751581368602645,5.7530243305695254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ visionary fabric vanishes into air. and shows
 that paper is poverty, that it is only the  
 ghost uf money, and not money itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887120701:0211/pct:68.9603308892649,87.16225299099341,12.445948486557624,5.71313348568356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887120701:0211/pct:68.94736842105263,87.15053763440861,12.448308270676693,5.715725806451613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ visionary fnhrie vanishes into air, ami show;
 that piper is poverty, that it is only tin  
 v boat of money, and not money itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887121401:0215/pct:68.08307926829268,88.13811780636425,12.5,5.754908598510494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887121401:0215/pct:68.07010859211279,88.12618467370702,12.502381405982092,5.757514216084484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ visionary fabric vanishes into air, and shows
 that paper is poverty, that it is only the  
 ghost of money, and not money itself*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888011101:0227/pct:69.59164292497626,87.8522313603883,12.592592592592593,5.649184306323312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888011101:0227/pct:69.5784276490695,87.84038824480992,12.594948727687049,5.6517929361013755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ visionary fabric vanishes into air, and shows
 that paper is poverty, that it is only the  
 ghost of money, and not mono itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020101:0239/pct:68.84782198755421,88.91292590589508,12.55892890816519,5.692266089778259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020101:0239/pct:68.83484162895928,88.90090577261051,12.561274509803921,5.69487630120319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ visionary fabric vanish**.&#x27; into air, tied shows
 that paper is poverty , that it is only the  
 ghost of money, and not monev itself*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020801:0243/pct:69.78011651945123,88.62348178137651,12.516444277391468,5.681511470985155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888020801:0243/pct:69.76700488538144,88.6115234111456,12.518789928598272,5.684118202671704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ visionary fa brie vanishes into air, and shows
 that paper is poverty, that it is only the  
 rhost of money, and not money itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888021501:0247/pct:68.94726894726895,88.19951338199513,12.568512568512569,5.6772100567721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888021501:0247/pct:68.93424036281179,88.1875929179619,12.570861678004535,5.679821597513177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ iuva.-ion. *r auv other cause, and thu whole
 that paper i- poverty, that it i» only the  
 ghost «»t loiiev, and not money itself’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022201:0251/pct:68.73249953332089,88.10004033884631,12.376330035467612,5.674331047465376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022201:0251/pct:68.7196715192236,88.08819575154611,12.378686076894363,5.676929282065071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ invasion, or any other eause, and llat whole
 l that paper is poverty, that it is only the  
 I ghost of inottev, and not money itsell*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022901:0255/pct:66.86690444903323,88.04887874311804,12.746386333771353,6.082986437491607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888022901:0255/pct:66.85435435435436,88.03705692803437,12.748686186186186,6.0855263157894735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ visionary fabric vanishes into air, and show­
 that pnper is poverty, that it is only the  
 ghost of money, and not money itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888030701:0259/pct:68.15515610217597,88.77661007814605,12.469252601702934,5.6588520614389655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888030701:0259/pct:68.14226258040107,88.76465041088508,12.471623155505108,5.661457631685303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ y i*iouan l&#x27;abri; v.mi*lies into air. and whoxvs
 that pap&lt; &gt; is poxurty, that it is only the  
 ghost of money. and not money itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888031401:0263/pct:67.22785536636694,88.8108108108108,12.645877176200498,5.675675675675675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888031401:0263/pct:67.21499617444529,88.79881097149034,12.6482402448355,5.67828671801108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -807,7 +807,7 @@ visionary fabric vanishes into air, ami allow*
 that paper is poverty, that it is milt tin  
 ghost of money, and not money itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032101:0267/pct:67.89342534023385,88.08464752662084,12.55510829978915,5.728534842970751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032101:0267/pct:67.88041395170563,88.07277628032345,12.557493292449214,5.731132075471698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -834,7 +834,7 @@ visionary fabric vani. I&#x27;es into air, and show*
 that paper is poverty, that it is only the  
 ghost of money, and not money itself’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032801:0271/pct:68.18867924528301,88.49008231007961,12.471698113207546,5.667251383079207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888032801:0271/pct:68.17581588379551,88.47814355099838,12.474061497830599,5.669859686994064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,7 +861,7 @@ v isionary ti&gt;’■ r vanishes into or. mid shows
 that paper is poverty, that it i- only the  
 ghost of money, and not n&gt; nov itself. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888040401:0275/pct:67.07317073170732,87.64999325872995,12.90015243902439,5.676149386544425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888040401:0275/pct:67.06039245570585,87.63817740630898,12.902457610973519,5.6787543812348344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,7 +888,7 @@ visionary fabric vanishes into air, and-hows
 that paper is povertv, that it i- only the  
 ghost of money, and not money itself.*&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041101:0279/pct:67.55308972642051,87.13151164355902,12.645877176200498,5.666980751110513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041101:0279/pct:67.54016832440703,87.11978465679677,12.6482402448355,5.669582772543742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,7 +915,7 @@ visionary fabric vanishes into air, at d shows
 that paper is poverty, that it is only the  
 ghost of money, ami not money itself.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041801:0283/pct:67.41079946575081,88.29643628509719,12.707498568975387,5.737041036717063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888041801:0283/pct:67.39793971766501,88.28451882845188,12.709843571156048,5.739640977189904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ of restoring more peoplo to health and
 happiness by giving them a healthy  
 Liver than any other agency on earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888042501:0287/pct:69.21182266009852,14.090601757944556,25.085259568018188,80.45977011494253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888042501:0287/pct:69.19871187724948,14.08869659275284,25.085243417313887,80.45227149810708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ visionary fabric vanishes into air, and shows
 that paper is poverty, that it i- only the  
 gin st of money, and not money itself.”—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050201:0291/pct:67.75852218625023,88.52723604572965,12.740430394210627,5.70275722932078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050201:0291/pct:67.74562071591775,88.51533082302313,12.742764661081493,5.705352339967725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1005,7 +1005,7 @@ visionary fabric vanishes into air, and-hows
 that paper is poverty, that it is only the  
 ghost of money, and not money itself.*’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050901:0295/pct:69.14590070382347,88.82892606583918,12.687844778390717,5.679978413383702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888050901:0295/pct:69.13275009509319,88.81694320787805,12.690186382655002,5.682584648590314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1032,7 +1032,7 @@ I invasion, or unv other cause, and the whole
 that paper is poverty, that it is only the  
 I ghost of money, and not money itself.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888051601:0299/pct:68.6135580237457,88.18451578095495,13.040980467253926,5.691934178581063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888051601:0299/pct:68.60042121386176,88.1726230613621,13.043270151254069,5.694538098449089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1059,7 +1059,7 @@ visionary fabric vanishes into air, and shows
 that paper is povertv, that it is only tin  
 ghost of money, and not money itself.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888052301:0303/pct:68.83961001720512,87.73724592811953,12.559740011470081,5.6939022748687576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1888052301:0303/pct:68.82645259938838,87.72543741588156,12.562117737003058,5.6965006729475105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

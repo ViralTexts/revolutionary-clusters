@@ -141,7 +141,7 @@ the most oratorical paragraph*, it was adopted
 on the fourth of July, 177ti, and published to  
 the world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851040301:0335/pct:13.482292141662867,9.987060345841666,15.807873537011703,49.476532172685566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851040301:0335/pct:13.482292141662867,9.99490256048308,15.823073415412678,49.476532172685566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ atriking out several of the moat oratorical paragraphs,
 it waa adopted on the fourth of July,  
 1776, and published to the world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851041001:0292/pct:44.102488587836845,12.060797473351757,16.212634369017817,38.5511251480458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851041001:0292/pct:44.10739704510872,12.067377286485064,16.20772591174594,38.55441505461245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ several of the most oratorical paragraphs, it
 was adopted on the 4th of July 1776, and pub­  
 lished to the world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851041101:0607/pct:72.54046719007464,4.87062404870624,13.007657264708733,41.62169641621696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851041101:0607/pct:72.53343671254119,4.870287097890003,13.009627188731667,41.62112302548138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ most, oratorical paragraph.&quot;, it wan adopted
 on the, fourth of J11I3&#x27;,&quot; 1770, and published  
 to the world, r - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877649:1851042401:0278/pct:72.82307265668331,17.139566537535337,36.18968386023295,107.83164066589886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877649:1851042401:0278/pct:54.62487865760644,12.85729243011203,27.152960754402997,80.88158308030573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ the most oratorical paragraphs, it was adopted on
 the fourth of July, 1776, and published to the  
 world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851042501:0403/pct:46.70398009950249,40.02100840336134,39.365671641791046,107.32292917166866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851042501:0403/pct:15.56799336650083,13.340336134453782,13.121890547263682,35.77430972388956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ striking out several of the most oratorical
 paragraphs, it was adopted oti the fourth  
 of July, 1776, and published to the world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1851043001:0411/pct:31.984251968503937,14.181131184319282,29.086614173228348,80.57621915220214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1851043001:0411/pct:31.989501312335957,14.189003030660842,29.091863517060368,80.57228322903137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ Mr. Thomas Jefferson: &quot;During the whole time I sat
 I with him in Congress, I never heard him utter three  
 sentences together
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191629:1851050801:0103/pct:47.409188034188034,120.68032872152294,19.391025641025642,1.737230833246645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00202191629:1851050801:0103/pct:35.56831841859223,90.51284718610215,14.545211700280486,1.300322479975034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1089,7 +1089,7 @@ and striking out several of the most orator­
 ical paragraphs, was adopted on the fourth of  
 July, 1776, and published to the world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1851052001:0975/pct:234.84759671746775,37.34561213434453,42.9073856975381,151.17009750812568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1851052001:0975/pct:78.3054822632659,12.448537378114843,14.306654939900323,50.39003250270856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1285,7 +1285,7 @@ galled in some controversy, and take a seeret
 pleasure in assisting to humble and mortify  
 him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025143:no_reel:1853080601:0189/pct:237.5107789594711,133.55168884339815,45.645300373670594,81.74002047082907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025143:no_reel:1853080601:0189/pct:79.17025965315703,44.51722961446605,15.215100124556866,27.246673490276358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1323,7 +1323,7 @@ son, John Adams, Donj. Franklin, Roger
 Sherman, and Robert R. Livingston. Mr.  
 Jefferson and Mr. Adams were deputed 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856070401:0280/pct:45.52806392606142,21.896306818181817,12.120920381245789,2.919034090909091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856070401:0280/pct:45.52368117058144,21.894751793196505,12.12296239250417,2.9211940439836184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1343,7 +1343,7 @@ Sherman and Robert R. Livingston. Mr.
 Jefferson and Mr Adams, standing thus at  
 the head of the committee, were requeste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858070301:0315/pct:31.291250634625147,41.01309350614998,12.201726180402776,3.1345060177225235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858070301:0315/pct:31.28595600676819,41.00766992859032,12.20389170896785,3.1373975138852157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1487,7 +1487,7 @@ utes, and in a day or two produced rac his draft.”&#x27;
 On tbo Ist July this declaration was re­  
 ported to the House, in Committee of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557979:1859070901:0112/pct:78.86268056317425,16.294101804470777,14.92046077893582,14.826286022084568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557979:1859070901:0112/pct:78.87182300237703,16.30420145434958,14.92046077893582,14.822919472124966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1578,7 +1578,7 @@ itation should be made on his part. He
 accordingly took the minutest and in a day  
 or two produced to me the draft.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861072501:0096/pct:43.90847247990105,27.158741424177904,20.408163265306122,47.79985805535841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861072501:0096/pct:32.93644657491882,20.36905606813343,15.308489253131281,35.85285072155193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1851,7 +1851,7 @@ i several of the most praetidle paragraphs,
 it was adopted on the Foiirth of July,  
 | 1770, and published to thr world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn84026707:00296029944:1866051001:0073/pct:81.66817769718948,9.410270880361173,13.109700815956483,65.20880361173815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn84026707:00296029944:1866051001:0073/pct:81.66817769718948,9.419676448457487,13.133877304321548,65.20880361173815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1881,7 +1881,7 @@ the elegance of his pen, and none at all of
 my own. In a letter to Timothy Pick­  
 ering, dated the 6th of August, 1822, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416157108:1873092401:0394/pct:81.73913043478261,130.46357615894038,54.940711462450594,45.253863134657834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416157108:1873092401:0394/pct:20.446905279810164,32.615894039735096,13.743326082657703,11.313465783664459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1911,7 +1911,7 @@ elegance of his pen, and none at all of my
 own.” In a letter to Timothy Pickering,  
 dated the 6th of August, 18:12. as to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623744:1873092701:0180/pct:74.02702157693084,41.76706827309237,10.848961484170196,7.764390896921017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623744:1873092701:0180/pct:74.02702157693084,41.76706827309237,10.855683269476373,7.7743071049630625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2064,7 +2064,7 @@ which is, &quot;I hail a great opinion of the elegance
 of bis pen, aud none at all of my own.&quot; Iu a  
 letter to Timothy Pickering, dated tho Cth o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876070601:0643/pct:94.51086956521739,32.39949572769295,16.44927536231884,7.676145118363917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876070601:0643/pct:70.90052545751041,24.303123686790865,12.339191882587425,5.757108838772937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2108,7 +2108,7 @@ Congress on July Ist, and discussed for
 three days. It is well to know that Mr.  
 Lee’s original resolution was pass
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882071101:0027/pct:33.12315535283069,22.709784756160964,9.927555674805474,10.793386711032547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882071101:0027/pct:33.12762722475628,22.713250840525458,9.932027546731062,10.793386711032547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2148,7 +2148,7 @@ sumed a permaneut union. Connecticut,
 in continuing her charter in force, re­  
 solved &quot;that all the free inhabitants o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040341:1894041701:0211/pct:1.4235444657709533,41.74950298210736,13.163787587971848,3.8942813705999297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040341:1894041701:0211/pct:1.4342077201962038,41.74950298210736,13.153124333546598,3.90207772970023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2170,7 +2170,7 @@ manent union. Connecticut, In continuing
 her charter In forcv, resolved &#x27;that all the  
 free Inhabitants of this or any other of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665477:1894041901:0477/pct:27.28613569321534,92.3037629831432,17.99410029498525,3.7544696066746126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82015679:00415665477:1894041901:0477/pct:20.469633636587165,69.23207900561893,13.51118760757315,2.8179805891367273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2203,7 +2203,7 @@ lution of Congress should continue
 I Georgia recited the resolution of Con­  
 gress of May 15th and referred to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:0017504842A:1894042101:0310/pct:63.749183540169824,14.743078500626638,19.497060744611364,11.689643386122821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:0017504842A:1894042101:0310/pct:42.51184060101257,9.832516805286545,13.000163318634657,7.793095590748547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2234,7 +2234,7 @@ The committee then appointed Jefferson
 and me to draw them up and clothe them  
 in proper dress.” The question then aros
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897070401:0038/pct:17.027991218441272,61.48305944410631,12.746981339187705,3.6112801785352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897070401:0038/pct:17.027991218441272,61.486440792588084,12.746981339187705,3.6112801785352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2253,7 +2253,7 @@ of my own. I therefore insisted that no hes­
 itation should be made on his part. He  
 urged me again to make the draft. I said
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897070401:0038/pct:17.041712403951703,67.95496043822277,12.801866081229418,2.5360113613308988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897070401:0038/pct:17.050859860958653,67.95834178670454,12.792718624222466,2.5393927098126734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -198,7 +198,7 @@ by inattention to these little rules of pru-
   
 deuce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022974:1871091901:0571/pct:43.11735261401557,22.48223986627664,19.952725250278085,29.366903468449646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022974:1871091901:0571/pct:32.345988040606315,16.86167989970748,14.977054651647894,22.03301295445048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ how many persoua are rendered un­
 li.ippy by inattention to theso little  
 rules of prudence.-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023140:1871092801:0160/pct:81.37198622273249,47.871039466370206,14.796211251435132,31.817676486937188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84026522:00296023140:1871092801:0160/pct:61.06245513280689,35.908838243468594,11.09834888729361,23.86881600889383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ dered unhappy by inattention to tlijso
   
 llttlo rules of prudence &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237287988:1871100601:0489/pct:109.51448707909162,20.979827089337174,15.42678151918559,29.221902017291065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237287988:1871100601:0489/pct:82.16173878989622,15.734870317002882,11.572351674172705,21.930835734870318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ It is wonderful how many persons are
 rendered unhappy by inattention to  
 these little rules of prudence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1871102501:0072/pct:290.8091123330715,105.34979423868313,43.833464257659074,87.98070100752093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1871102501:0072/pct:72.73084479371316,26.337448559670783,10.962671905697446,21.995175251880234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ er. It 13 wonderful how many persons
 aro rendered unhappy by inatten­  
 tion to these little riles of prudence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283636:1871110201:0460/pct:114.32129514321295,26.450742240215924,13.916562889165629,34.73909131803869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283636:1871110201:0460/pct:85.75432041102289,19.838056680161944,10.446831698583216,26.057130004498426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -819,7 +819,7 @@ It is wonderful how many persons are rendered
 unhappy by inattention to the*e ltetle rules ui  
 prudence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871110901:0253/pct:15.09303928325293,35.175619834710744,14.047783138065702,16.365358126721762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026753:0041562038A:1871110901:0253/pct:15.09303928325293,35.18135904499541,14.0516119151543,16.368227731864096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ inattention to these little rules of pru­
 dence.”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623513:1871111601:0329/pct:53.117375982651126,7.532641446267157,11.832474925454052,22.642562214038612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623513:1871111601:0329/pct:53.1264118550646,7.5400810921400145,11.827956989247312,22.635122568165755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -933,7 +933,7 @@ many persona are rendered unhappy by
 inattention to these little rules of pru­  
 dence.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623513:1871111601:0330/pct:53.359683794466406,6.965340465841971,11.544227886056971,22.93547308592444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623513:1871111601:0330/pct:53.359683794466406,6.9690553140904195,11.544227886056971,22.93918793417289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -989,7 +989,7 @@ derful bow many persons are rendered
 unhappy by inattention to these little rules  
 of prudence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624335:1871111701:0319/pct:54.08345957857045,21.066638279753032,12.119542762704862,22.961464764743454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624335:1871111701:0319/pct:54.09264105036037,21.073735008161236,12.119542762704862,22.965013128947554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1101,7 +1101,7 @@ subject together. It is wonderful bow many
 persons are rendered unhappy by inattention  
 to these little rules of prudence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558030:1871120901:0195/pct:64.44660194174757,53.778795635187926,14.87378640776699,21.75670214199111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558030:1871120901:0195/pct:64.44660194174757,53.782163545736225,14.883495145631068,21.7634379630877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1161,7 +1161,7 @@ rendered unhappy by inattention to
 these little rules of prudence,&quot;  
 Careful observors in Enrope and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877820:1871120901:0513/pct:76.7741935483871,292.032967032967,43.79032258064516,81.26373626373626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877820:1871120901:0513/pct:19.20129084308189,73.00824175824175,10.951996772892295,20.315934065934066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1207,7 +1207,7 @@ sell &#x27;tithe wrong, es: eeially in symiafl&#x27;V
 N ‘th&quot;ig is so gi iliu r. Mii •! hetter.  
 til-’M fore, it our cHip omm view- a thi&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1871121401:0195/pct:4.003129482331464,58.525980911983034,11.618203155561352,18.027571580063626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1871121401:0195/pct:3.8029564786522423,55.60629974142852,11.045503344619704,17.13287887437456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1253,7 +1253,7 @@ persons, are rendered unhappy by the
 iuai tension paid to these little rules of  
 prudence.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775927:1872010301:0285/pct:104.17234332425068,63.74313800587259,15.633514986376023,21.920081705604495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775927:1872010301:0285/pct:78.17345373998978,47.810545129579985,11.739649003237348,16.44325290437891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1308,7 +1308,7 @@ It is wonderful how many persons are ren­
 dered unhappy by inattention to these lit­  
 tle rules of prudence.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1872020301:0323/pct:66.46989374262101,88.671875,14.825434305953786,26.15966796875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1872020301:0323/pct:51.52280946363993,68.72694017848696,11.489695438107272,20.276875532149727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1425,7 +1425,7 @@ together. It is wonderful how many
 persons are rondercd unhappy by inat?  
 tention to the rule of prudence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551578:1872092401:0495/pct:48.96683451988192,34.75099464947181,16.374370550442784,25.819728357799423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551578:1872092401:0495/pct:48.96683451988192,34.75099464947181,16.374370550442784,25.833447660858827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1481,7 +1481,7 @@ revising the subject together/ It ia
 wondtfful bow many perssns are render­  
 ed unhappy by inatteufion to the rule
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348458:1872092601:0156/pct:55.78909868186676,14.384816753926701,23.90452440327752,82.17277486910994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348458:1872092601:0156/pct:55.779162956366875,14.382934170920036,23.90471950133571,82.16529250098155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1538,7 +1538,7 @@ subject together. It is wonderful how
 many persons are rendered unhappy  
 by inattention to the rules of prudence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1872101101:0139/pct:67.20386784850926,62.36425690350605,12.127316680096696,23.425380080670184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624347:1872101101:0139/pct:67.21282120153998,62.36425690350605,12.122840003581342,23.43916985555211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1590,7 +1590,7 @@ gether. It is wonderful h.w many persons
 are rendered unhappy by inattention to tlie  
 , rules (.if prudence.— 1 homns J- tJtrson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1872101901:0360/pct:56.35319454414932,41.88667095943335,12.7494615936827,23.53509336767547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1872101901:0360/pct:56.345104794717194,41.882176199163,12.752416499186525,23.536144793790463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1644,7 +1644,7 @@ together. It is wonderful how many per­
 sons are rendered unhappy by inattention  
 to the rules of prudence. Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022986:1872102901:0175/pct:106.57111952406706,52.61024322720981,20.335316387236343,27.654736009491792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022986:1872102901:0175/pct:79.94590939824205,39.46015424164524,15.253549695740364,20.743523828356732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1846,7 +1846,7 @@ wonderful how many persons are
 rendered unhappy by inattention to  
 these little rules of prudence.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151234:1872112101:0092/pct:5.081837381203801,10.596546310832025,14.598732840549102,34.49764521193092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151234:1872112101:0092/pct:5.090637099612812,10.59981684981685,14.594332981344596,34.50091575091575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1906,7 +1906,7 @@ by inattention to these littlo rules of
 prudence.  
 Ir. Harrison Consents to I.rrlnre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061077:00212470314:1872112301:0189/pct:82.21667854597291,40.31759415401911,14.807555238774055,29.960652051714447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061077:00212470314:1872112301:0189/pct:61.70440363701194,30.241708825182688,11.107149224460688,22.470489038785836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1978,7 +1978,7 @@ the subject together. It is wonder­
 ful how many persons are rendered  
 heppy by inattention to these li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1872113001:0585/pct:219.91991991991992,281.437125748503,40.290290290290294,86.51662192855667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1872113001:0585/pct:54.993742177722154,70.35928143712574,10.075093867334168,21.62915548213917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2040,7 +2040,7 @@ unhappy by inattention to these lit­
 tle rules of prudence.&quot;  
 Wasted Wealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872120501:0440/pct:304.6714172604909,198.78116343490305,48.93111638954869,107.31301939058172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872120501:0440/pct:76.1829340724609,49.69529085872576,12.23520095030687,26.82825484764543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2102,7 +2102,7 @@ unhappy by inattention to these lit­
 tle rules of prudence.&quot;  
 He Will Sever Forsake
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1872120601:0630/pct:112.35119047619048,50.98125205569565,14.813311688311689,32.89113035851332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1872120601:0630/pct:84.2895805142084,38.241420896831485,11.123139377537212,24.668347768884992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2353,7 +2353,7 @@ How to Cook a Parsnip.
 A badly-cooked parsnip is neither  
 eatable nor digestible, but cook i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296278:1873021401:0454/pct:91.30434782608695,55.39043880555166,33.90269151138716,69.26959203701108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296278:1873021401:0454/pct:30.445288229202625,18.463479601850555,11.304798066965827,23.089864012337024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2409,7 +2409,7 @@ together. It is wonderful how many
 persons are rendered unphappy by inat­  
 tention to these little rules of prudence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1873031201:0665/pct:308.47750865051904,291.4569742155949,57.266435986159166,98.41565703634669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1873031201:0665/pct:77.13605883625351,72.86424355389873,14.319705818732425,24.60391425908667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2478,7 +2478,7 @@ wonderful how many persons aro ren­
 dered unhappy by inattention to iliese  
 little rules of prudence.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:0051701607A:1873031501:0047/pct:17.294724315747718,7.478721919910702,12.81237604125347,23.74773266359704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:0051701607A:1873031501:0047/pct:17.291294864168155,7.477678571428571,12.814792782074163,23.747907366071427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2659,7 +2659,7 @@ finds there some very odd but agreeable
 tilings. For lust nice, she says:&#x27; &#x27;As s&gt;  
 general role, wd&#x27;.ers and sfciltfbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn84026920:00294558731:1873032901:0172/pct:84.80378115153252,44.10655351249411,13.935835004296763,33.934464875058936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn84026920:00294558731:1873032901:0172/pct:84.80378115153252,44.114411441144114,13.935835004296763,33.934464875058936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2715,7 +2715,7 @@ many persons are rendered uaha^pf^SJ
 inattention to these little rulox of pru­  
 dence.&quot; t.?wvt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn84026920:00294558731:1873032901:0173/pct:84.46004010312231,43.00922640170334,13.663706674305356,31.133191388691742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn84026920:00294558731:1873032901:0173/pct:84.46958846557816,43.00922640170334,13.663706674305356,31.141077202113397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2770,7 +2770,7 @@ ject together. It it wonderful how
 many persons are rendered unhappy by  
 inattention to these little rules of pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn84026920:00294558731:1873032901:0174/pct:84.25846854540279,43.22193457284067,13.834329632792485,30.477759472817134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_heddalettuce_ver01:data:sn84026920:00294558731:1873032901:0174/pct:84.26321282854161,43.225857064407315,13.834329632792485,30.481681964383778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2822,7 +2822,7 @@ viving the subject together. It ii wonderful
 how many persons arc rendered unhappy I y  
 inattention to these little rules of prudence.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:004141867006:1873032901:0052/pct:81.6661777647404,77.78860732077106,12.789674391317101,18.832575265323804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:004141867006:1873032901:0052/pct:81.6542014958205,77.78018408229562,12.79268709977025,18.834145461108104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2881,7 +2881,7 @@ many persons are rendered unhappy
 by inattention to these little rules of  
 prudence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776464:1873040901:0184/pct:144.43091905051736,285.8750703432752,41.63116250760803,84.00675295441756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776464:1873040901:0184/pct:36.10772976262934,71.4687675858188,10.407790626902008,21.00168823860439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3025,7 +3025,7 @@ gether. It is wonderful how many persons
 are rendered unhappy by inattention to  
 these little rules of prudence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022986:1873042201:0276/pct:45.046524356869185,23.274626254351833,20.005473453749318,29.858693426172437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022986:1873042201:0276/pct:33.7895169016012,17.45852959246365,15.013001231695634,22.394020069629327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3079,7 +3079,7 @@ together. It is wondei fnl how many per­
 sons nro rendered unhappy bv inattention  
 to these little rules of prndeuc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769337:1873061901:0605/pct:24.16191403533176,44.546765782758236,9.959660592571986,20.892044824142904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769337:1873061901:0605/pct:24.16191403533176,44.55416250600984,9.96893401956693,20.899441547394503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3120,7 +3120,7 @@ revising the subject together. It is wonderful
 how many persons are rendered unhappy by  
 mattention to these little rules of prudence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_quentin_ver01:data:sn86079088:00200299541:1873072601:0114/pct:81.42430278884463,12.425373134328359,40.537848605577686,46.082089552238806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_quentin_ver01:data:sn86079088:00200299541:1873072601:0114/pct:27.141434262948206,4.141791044776119,13.51261620185923,15.360696517412935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3176,7 +3176,7 @@ derful how many persons are rendered
 unhappy by inattention to the rules of  
 prudence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029014:1873080701:0027/pct:112.65432098765432,18.8595921548253,14.953703703703704,24.094038186777503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029014:1873080701:0027/pct:84.50378144775428,14.144694116118977,11.220867417811391,18.080270164956488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3290,7 +3290,7 @@ derful how many persons are rendered un
 happy by inattention to the rules of prue  
 dence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1873112601:0606/pct:188.52963818321786,299.38752783964367,43.34103156274057,69.543429844098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777663:1873112601:0606/pct:47.132409545804464,74.84688195991092,10.835257890685142,17.3858574610245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3344,7 +3344,7 @@ gether. It is wonderful hew many cr­
 sons ure rendered unhappy by inniif ntiou  
 to the rules of prudence. Thomas Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197449:1873112601:0623/pct:106.73534072900158,28.042992741485204,16.600633914421554,29.061976549413735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197449:1873112601:0623/pct:80.06736675252625,21.035734226689,12.462849217356846,21.803461753210495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3473,7 +3473,7 @@ ject together. It is wonderful how
 inattention to these little rules of pru-  
 dence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524032:1873120201:0203/pct:243.40888756337608,185.3656035278433,38.57739337906352,70.67993026356271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524032:1873120201:0203/pct:81.1241985984792,61.78219852337982,12.857213856170171,23.5575608422204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3649,7 +3649,7 @@ rendered unhappy by inattention to
 the rules of prudence. Thomm Jeffer­  
 son
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553937:1874012401:0085/pct:315.0435771125426,30.090526584215223,47.53694581280788,75.5960729312763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553937:1874012401:0085/pct:78.74597461640462,7.521672616012238,11.881985224474333,18.89660887302397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3714,7 +3714,7 @@ therefore, if our companion views a
 thing in a light different from what we  
 o  to eve him in qut posession o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101027:1874020601:0886/pct:151.57004830917873,85.55881844878218,73.79227053140097,97.99619968906546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101027:1874020601:0886/pct:50.52334943639291,28.519606149594058,24.59742351046699,32.665399896355154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3768,7 +3768,7 @@ is wonderful how many persons are ren­
 dered unhappy by inattention to the rules  
 of prudence, Thomas Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197607:1874021101:0236/pct:80.05747126436782,103.08101518342015,15.201149425287356,22.94137204920758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197607:1874021101:0236/pct:60.06036217303823,77.3135320846725,11.411325093417648,17.21157043112047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3825,7 +3825,7 @@ dered unhappy by inattention to the
 rules of prudence. Thomas Jefferson.  
 A Benevolent Work. There is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1874022001:0460/pct:91.3290113452188,66.60746003552399,17.36223662884927,37.84783895796329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1874022001:0460/pct:68.5384147577539,49.95559502664298,13.034664504358403,28.38957963291889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3942,7 +3942,7 @@ points in the dressing of the hair which
 all women should understand. The pres  
 ent universal fashion of covering th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194977:1874071301:0555/pct:23.653734800231614,10.707182320441989,14.562825709322524,38.22099447513812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194977:1874071301:0555/pct:17.750108585492978,8.033149171270718,10.916461560735486,28.674033149171272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4114,7 +4114,7 @@ wonderful how many persons are ren­
 dered unhappy by . inattention to the  
 little rules of prudence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763815:1874091101:0166/pct:38.95011600928074,98.76500058254689,14.47215777262181,25.51555400209717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763815:1874091101:0166/pct:29.23255476570434,74.07666317138529,10.851588568112579,19.142490970523127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4270,7 +4270,7 @@ how many persons are rendered un­
 happy by inattention to the littlo  
 rules of prudence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193778:1875010701:0346/pct:80.68283917340521,26.31578947368421,13.701707097933513,15.470033465165805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202193778:1875010701:0346/pct:80.69407008086253,26.327198052935806,13.707322551662175,15.470033465165805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4474,7 +4474,7 @@ together. It is wonderful how many
 persons are rendered unhappy by inattention  
 to the little rule el prudence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn85042623:00295862154:1875051201:0090/pct:81.30712191757199,73.93977415307403,19.53785135368167,23.450439146800502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn85042623:00295862154:1875051201:0090/pct:81.30712191757199,73.94813885403597,19.53785135368167,23.44625679631953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4530,7 +4530,7 @@ ject together. It i* wouilerful how many
 ]M&gt;r*ona are rendered uahappy ly inat­  
 tention to the little rule of prudence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1875051301:0223/pct:65.97304017798717,54.236939531057175,9.789294594948306,17.451665981077745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1875051301:0223/pct:65.97304017798717,54.236939531057175,9.789294594948306,17.458521870286575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4595,7 +4595,7 @@ wonderful how many persons are render­
 ed unhappy by inattention to the little  
 rules of prudence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1875060401:0299/pct:109.55328760247616,17.462845010615712,14.304835201606156,24.42940552016985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625509:1875060401:0299/pct:84.90296927000043,13.54038118744001,11.090461166097592,18.93253805018511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4710,7 +4710,7 @@ enbjoct together. It is wonderful how
 many persons are rendered unhappy by  
 inattention to the little rules of prudence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1876011401:0483/pct:6.070574162679426,9.697912615065475,12.858851674641148,30.4032153507066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028903:1876011401:0483/pct:4.56245325355273,7.2734344612991055,9.648466716529544,22.805652793984184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4774,7 +4774,7 @@ weather prognostication at Louisville,
 but the Xentucky bourbons will learn  
 nothing; aod .the Louisville Commercia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876020401:0117/pct:24.011774600504626,5.615991297253196,34.25147182506308,123.40223007886864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876020401:0117/pct:18.023133543638277,4.215392983410389,25.69926393270242,92.56187109056296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4829,7 +4829,7 @@ rectifying him if the thins be unim­
 portant? Let it pa-s for the present  
 and wait a softer morneut and mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1876032301:0251/pct:6.873126873126873,30.997150997150996,12.507492507492508,22.15099715099715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016081:1876032301:0251/pct:6.871753895325609,30.99273607748184,12.50998801438274,22.15140293405498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4957,7 +4957,7 @@ prudence.&quot;
 I  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1876120701:0135/pct:316.45429362880884,190.8375552441522,37.06371191135734,67.00441953217636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1876120701:0135/pct:79.11357340720221,47.70938881103805,9.265927977839334,16.75110488304409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5014,7 +5014,7 @@ sacrifice of any other wish when weigh­
 ed agaiost the affections of. ona. with  
 whom we are to paos our whole life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763189:1878041801:0175/pct:106.23781676413256,114.19423692636073,18.567251461988302,8.18722366214362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_maple_ver01:data:sn92051487:00271763189:1878041801:0175/pct:79.71721111652852,85.65330080805,13.94441735738664,6.144229303247446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5041,7 +5041,7 @@ ject whatevor on which a wish can be
 fixed.  
 Many have yielded to go a mile wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1878050901:0352/pct:105.1923076923077,86.09375,15.122377622377622,8.4375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1878050901:0352/pct:78.91239727225039,64.5703125,11.34813778632628,6.328125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5100,7 +5100,7 @@ it pass for the present, and wait a softer
 moment and more conciliatory occa­  
 sion of reviving the subject togethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1879041101:0475/pct:82.876254180602,190.98802789106696,33.41137123745819,35.126956979344826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1879041101:0475/pct:27.63928392169985,63.66267596368899,11.142713735987954,11.708985659781607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5151,7 +5151,7 @@ and wait a softer moment and more
 conciliatory occasion of reviving the  
 subject together. Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020618:1879052401:0085/pct:113.86840612592172,49.758725171136795,13.357912648893931,15.205925260913478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020618:1879052401:0085/pct:85.43262411347517,37.3246549208843,10.02836879432624,11.401638424419257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5194,7 +5194,7 @@ moment and more conciliatory oc
 casion ot reviving tne suoject to  
 gether. f Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1879060501:0515/pct:35.638594534300054,24.84258729250143,13.162297824874512,18.809387521465368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn85033964:00296020539:1879060501:0515/pct:26.736401673640167,18.637664567830566,9.874476987447698,14.104178591871781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5648,7 +5648,7 @@ uy persona are rendered unhappy
 by inattontion to these rules of pruj  
 donee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192208:1883070401:0081/pct:85.28258362168397,29.272054287476866,12.295271049596309,31.832202344231955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192208:1883070401:0081/pct:85.29988465974625,29.272054287476866,12.283737024221454,31.85533621221468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5733,7 +5733,7 @@ ful investigation, and was rare; that
 he seen but one case like it, and he  
 would tell her confidentially it wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768916:1883092801:0236/pct:35.924932975871315,60.73807184190414,9.691689008042895,30.72387815263675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768916:1883092801:0236/pct:35.92940125111707,60.745350656913054,9.691689008042895,30.72751756014121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5790,7 +5790,7 @@ gether. It is wonderful how many
 persons are rendered unhappy by n­  
 attention to these rules of prudence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769477:1883100401:0321/pct:19.900562606306423,5.1773184145647635,28.14339918880021,90.60307225488337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769477:1883100401:0321/pct:19.90492389550351,5.180479170617612,28.14339918880021,90.61255452304191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5952,7 +5952,7 @@ A movement has been started by
 the farmers of Kansas looking to the or­  
 ganization of tbe Farmers&#x27; Trust, to in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023036:1888041301:0278/pct:91.73813607775872,86.61811066420263,17.58147512864494,31.383846070225026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn91068247:00296023036:1888041301:0278/pct:68.82058613295212,64.96358299815198,13.18084345961401,23.546037612783998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6012,7 +6012,7 @@ is wonderful how many persons are ren­
 dered unhappy by inattention to these  
 rules of prudence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768928:1888042001:0483/pct:66.19119462350844,11.917211328976036,20.02468797147168,85.56644880174292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768928:1888042001:0483/pct:66.2003383166461,11.920842411038489,20.02468797147168,85.56644880174292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6075,7 +6075,7 @@ unhappy by inattention to these
 rules of prudence. ,  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1888042501:0321/pct:16.533619895609455,60.43097074046688,16.57967454712926,22.97454314988909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1888042501:0321/pct:16.533619895609455,60.43801274603007,16.589908914133662,22.97806415267068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6133,7 +6133,7 @@ is wonderful how many persons are ren­
 dered unhappy by inattention to these  
 rales of pradenco
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:0041562511A:1888042801:0272/pct:64.29854646415156,5.641566971616233,28.695084109096847,91.33239502697631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:0041562511A:1888042801:0272/pct:64.3039904186401,5.649386191258112,28.695084109096847,91.33239502697631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6155,7 +6155,7 @@ ject whatever on which the wish had
 been fixed. How light, in fact, is the  
 sacrifice of any oth&#x27;er wish when
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878459:1888050301:0322/pct:71.7502850627138,47.25228538404959,16.319840364880275,4.3816328675002625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878459:1888050301:0322/pct:53.842863253956935,35.441840916255124,12.248681020961072,3.288851528843123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6214,7 +6214,7 @@ how many persons are rendered un­
 happy by inattention to these rules of  
 prudence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878459:1888050301:0322/pct:38.66875712656785,56.236208889355886,50.48460661345496,26.121676999054323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878459:1888050301:0322/pct:29.017538856409526,42.17715666701692,37.88678169114502,19.596511505726596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6283,7 +6283,7 @@ gether. It is wonderful how many
 persons are rendered unhappy by inat­  
 tention to these rules of prudence. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283296:1888070701:0076/pct:55.48398328690808,66.50096993210475,21.7966573816156,36.869544131910764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283296:1888070701:0076/pct:37.00801114594218,44.3380213385063,14.541971438523163,24.57565470417071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6342,7 +6342,7 @@ gether. It is wonderful how many
 persons are rendered unhappy by inat­  
 tention to these rules of prudence.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:00517179693:1888071101:0903/pct:80.35851472471191,46.478873239436616,14.775928297055058,23.836691032269567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_ginsberg_ver01:data:sn92067125:00517179693:1888071101:0903/pct:80.36491677336748,46.4922446068818,14.788732394366198,23.836691032269567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6549,7 +6549,7 @@ Oh , Those Gns Hills !
 Life : The smell of gas became so  
 strong that they burst open the door an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206539616:1888101901:0914/pct:110.84938101788171,38.95747599451303,16.196698762035762,31.454046639231823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dewitt_ver01:data:sn99021999:00206539616:1888101901:0914/pct:83.15993121238178,29.218106995884774,12.145313843508168,23.590534979423868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6600,7 +6600,7 @@ many persons are rendered unhapp
 by inattention to these rules of prue  
 dence.-Lrhung
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_quentin_ver01:data:sn86079088:00200299590:1888102001:0170/pct:161.32271468144043,42.361111111111114,82.27146814404432,247.7704678362573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_quentin_ver01:data:sn86079088:00200299590:1888102001:0170/pct:53.77423822714682,14.12037037037037,27.42382271468144,82.5901559454191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6654,7 +6654,7 @@ the subject together. It is wonderful haw
 many persons aro rends-ed unhappy by inat­  
 tention to dese siajpio ral3 of prudesc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286613:1888102601:0223/pct:45.12454434993925,84.56020306809403,18.59052247873633,28.727513519479086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286613:1888102601:0223/pct:30.09723488301428,56.37346871206269,12.397447584320876,19.15903321929147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6793,7 +6793,7 @@ roe suoject iOgcT!fer. ’ “ &#x27;is wonderltl how
 many persons are rendered unhappy by inat­  
 tention to these simple rules of prudence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176631:1888110701:0860/pct:40.75949367088607,3.6743092298647855,35.21288837744534,92.29864785420341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176631:1888110701:0860/pct:40.776754890678944,3.681657848324515,35.20138089758343,92.29864785420341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6857,7 +6857,7 @@ gether, &#x27; It is wonderful how many per­
 sons are rendered unhappy by inatten­  
 tion to these simple rules of prudence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kasota_ver01:data:sn90059522:00175033373:1888111101:0129/pct:62.28486646884273,27.92932081722805,11.691394658753708,21.667586968525676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kasota_ver01:data:sn90059522:00175033373:1888111101:0129/pct:62.28981206726014,27.92932081722805,11.686449060336301,21.671268175961714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6897,7 +6897,7 @@ Women Who Are Interesting.
 It bas got pretty well nolsed about the  
 world that American women are, on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pinkfloyd_ver01:data:sn86071854:00175048224:1888120901:0767/pct:149.54183566170948,236.07703894986014,35.706774823494065,51.62470411017861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_pinkfloyd_ver01:data:sn86071854:00175048224:1888120901:0767/pct:49.84727855390316,78.69234631662005,11.902258274498022,17.20823470339287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6963,7 +6963,7 @@ the subject together. It is wonderful how­
 many persons arc rendered unhappy by inat­  
 tention to these simple rules of prudence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740876:1889010501:0835/pct:15.090751944684529,44.99665998663995,20.864304235090753,17.287909151636608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_fluorine_ver01:data:sn88076013:00271740876:1889010501:0835/pct:15.090751944684529,45.0,20.88591184096802,17.29124916499666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7087,7 +7087,7 @@ It is wonderful how many persons aro
 rend,Ted unhappy by iuattontiam to  
 theso ru!cs of prudefcce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023796:1889022701:0506/pct:51.42243692968331,45.93215534347539,20.169082125603865,35.78380421430596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023796:1889022701:0506/pct:34.29990602765472,30.624586601152792,13.451469995972614,23.85901918170651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7113,7 +7113,7 @@ of any other wish when weighed
 against the affections of one With  
 whom we are to pass our whole life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1889022701:0189/pct:83.66963866729235,49.375264718339686,17.22196152041295,5.972045743329097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287289:1889022701:0189/pct:83.66963866729235,49.375264718339686,17.232389592783775,5.9826344769165605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7364,7 +7364,7 @@ pass for the present and wait for a softer
 moment and more conciliatory occas  
 ion of revising the subject together
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889053001:0320/pct:70.13704686118479,61.244654180799294,18.81078691423519,27.6065477068279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889053001:0320/pct:52.63157894736842,45.93717740746202,14.108801415302963,20.704910780120926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7436,7 +7436,7 @@ for the present, and wait for sober
 moment and nioro conciliatory occa­  
 sion of revising tho subject together
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063952:00280760286:1889053101:0138/pct:77.8048780487805,92.33985366582051,52.4390243902439,116.23114827534717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_desalvo_ver01:data:sn99063952:00280760286:1889053101:0138/pct:19.451219512195124,23.08496341645513,13.109756097560975,29.05778706883679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7467,7 +7467,7 @@ The Sweet Little Gicl at the Kallroad
 Ticket Seller&#x27;s Window,  
 When one is in a hurry and has t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn92064044:0051415319A:1889071901:0399/pct:30.48120926362502,2.786409778330226,25.641381223131326,92.82162834058421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn92064044:0051415319A:1889071901:0399/pct:30.485831830998936,2.789862578551205,25.641381223131326,92.81817554036323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7493,7 +7493,7 @@ any other wish whon woighod &quot;gainst
 the affections of one with whom vo are  
 to puss our wholo life.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065677:00415661903:1889072701:0270/pct:58.740978348035284,119.5630585898709,16.27906976744186,8.625336927223719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065677:00415661903:1889072701:0270/pct:44.09227683049147,89.67229394240317,12.216649949849549,6.483189104837566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7577,7 +7577,7 @@ and wait for a softer moment and more
 conciliatory occasion of revising the  
 subject together.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:0041562508A:1890032801:0655/pct:39.34460446670841,54.49375866851595,18.701732414944686,33.56449375866852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:0041562508A:1890032801:0655/pct:31.487253701436046,43.59789925290332,14.961594122230881,26.862193949256604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7696,7 +7696,7 @@ ful how many persons are rendered un­
 happy by inattention to these simple rules  
 nf nniftano* ”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016159:1891040901:0059/pct:25.12889058621348,13.369732605347894,11.476035898415123,19.851602967940643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016159:1891040901:0059/pct:25.12409316533028,13.367861142217246,11.478617793050782,19.852323628219484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7759,7 +7759,7 @@ many persons are rendered unhappy
 by inattention to these little rules of  
 prudence.  From a letter of Thoma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202196913:1894030101:0068/pct:16.43646408839779,79.31996955087541,57.73480662983425,112.35726972849531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202196913:1894030101:0068/pct:4.109116022099448,19.829992387718853,14.433701657458563,28.089317432123828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7820,7 +7820,7 @@ wonderful how many persons are ren­
 dered unhappy by inattention to these  
 little rules of prudence. From a Lette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777717:1894040401:0533/pct:325.70579494799404,74.45427728613569,49.554234769687966,102.59587020648968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn86071719:00280777717:1894040401:0533/pct:81.45670754366407,18.613569321533923,12.393162393162394,25.64896755162242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7886,7 +7886,7 @@ wonderful how many persons are ren­
 dered unhappy by inattention to these  
 little rules of prudence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289407:1894091301:0807/pct:5.767599660729432,57.854463615903974,18.956743002544528,43.735933983495876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289407:1894091301:0807/pct:4.327535002121341,43.39084771192798,14.234196011879508,32.81320330082521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7993,7 +7993,7 @@ sons are rendered unhappy by inat
 tention to these little rules of pru  
 dence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196433:1895012101:0457/pct:4.033687943262412,9.63948973932335,19.518321513002363,40.177481974486966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196433:1895012101:0457/pct:3.0298551581436595,7.232390460343871,14.646763227904227,30.138657792567944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8067,7 +8067,7 @@ by inattention to these simple rules of
 prudence.- Thomas Jefferson.  
 Richest Nation in the World
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026409:0023728804A:1899071901:0370/pct:294.9193066347878,58.12351812126002,40.884638374178124,99.31127921418087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026409:0023728804A:1899071901:0370/pct:73.76289430408133,14.530879530315005,10.22574375840933,24.827819803545218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8128,7 +8128,7 @@ many persons are rendeiid unhappy
 by inattention to these simple rules of  
 prudence.— 77knm* ./&lt;fferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:0041562573A:1899072101:0126/pct:40.93575618829589,36.673506611947104,10.502217770782659,28.08937528499772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:0041562573A:1899072101:0126/pct:40.94052558782849,36.67730658154735,10.502217770782659,28.096975224198207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

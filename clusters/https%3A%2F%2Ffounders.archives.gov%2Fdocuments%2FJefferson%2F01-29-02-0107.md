@@ -63,7 +63,7 @@ is could scarcely be applied tr* a V r*&gt;—
 to a notorious defaulter—or vVcn !o a  
 common j^ckpocket/*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808070401:0424/pct:76.20176032498307,70.24925224327019,17.907921462423833,22.492522432701893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808070401:0424/pct:76.18886444406837,70.24224902801316,17.90912167879506,22.492772405542816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ indecent terms, a» would qc?reels h’- appli­
 ed to a AVrc— to r traitorous d.Taulter—or  
 even to a common pick-pot ki-i 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809103001:0702/pct:40.27747192248403,27.768817204301076,17.661308081920282,13.064516129032258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809103001:0702/pct:40.26860413914575,27.765085337992204,17.6629238221048,13.066120145141783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ terms as coaid scarcely be applied to a Ne­
 ro—to a notorious defaulter—or even to a  
 common pick pocket.” Life, Vol. 6th pac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813031901:0380/pct:70.97984060009377,57.54157628344179,21.401781528363806,16.890817064352856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1813031901:0380/pct:70.96320599953128,57.53325621746674,21.402624794937896,16.891989589358012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ jnly of a subject, and that too in such an -
 sxasserated and indecent terms as cou c  
 icarcvly be applied to a J^ero—to a de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815091801:0656/pct:63.29824561403509,76.09247744986426,18.24561403508772,21.227778264296347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815091801:0656/pct:63.28936289643559,76.08581436077058,18.24773131256432,21.228838295388208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ Thus wrote Washington of hiscalum­
 ‘ maters, in 1T96. ?&#x27;*nv ryacler examine  
 i the subject, and try to satiify yoursel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815092801:0689/pct:20.433305012744267,14.645228940929744,18.69158878504673,16.41908423628102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815092801:0689/pct:20.43041200622965,14.643949322848405,18.69366180565388,16.420562108635504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ iTrors of desolating war, 1 should be accused of being tbe j
 *?*?? of one nation, awl subj??et to the intloenee of another ; I  
 ?&lt;f, ?o prort it, that eery -tel of Kjf admimnefratum &quot;OMili L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855011601:0059/pct:1.1451612903225807,86.80112330865458,15.483870967741936,6.242021955578249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855011601:0059/pct:1.1559139784946237,86.80112330865458,15.489247311827956,6.250531869628117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ in &quot;such exaggerated and indecent terms, as could
 scarcely be applied to a Nero--a notorious default­  
 er--or even to a common pickpocket.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470065:1856061101:0564/pct:67.38148984198645,80.18507342587004,48.419864559819416,4.828002414001207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053516:00212470065:1856061101:0564/pct:16.850127011007622,20.04626835646751,12.108382726502963,1.2070006035003018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ gratified in endeavoring to blast the character and
 embitter the old age of Washington? After thus per­  
 secuting the savior of his country, how can th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475385:1856061901:0697/pct:166.3397328881469,236.1320754716981,38.0008347245409,13.30188679245283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475385:1856061901:0697/pct:55.446577629382304,78.71069182389937,12.6669449081803,4.433962264150943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ and indecent terms, as could scarcely be ap­
 plied to a Nero a notorious defaulter1 or  
 even to a common pickpocket
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1856062701:0324/pct:9.433258762117822,25.241360011193507,16.57345264727815,2.9662795578564434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775782:1856062701:0324/pct:7.085586425508112,18.93102000839513,12.437068804773448,2.2247096683923324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ pickpocket,&quot; that many members of
 Congress were violent against him; and  
 that there were those who refused t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529091:1859120801:0172/pct:139.63372011743326,19.08762228838792,35.70529847616385,9.719268396427053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529091:1859120801:0172/pct:46.54457337247775,6.362540762795973,11.901766158721282,3.2397561321423507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ ty, falling into the minority in the
 House, and in danger of losing their  
 majority in the Senate, fought, it ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529091:1859120801:0172/pct:103.98434223402768,160.16588685665675,35.71927862435342,17.68396427052318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529091:1859120801:0172/pct:34.66144741134256,53.388628952218916,11.906426208117805,5.89465475684106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +655,7 @@ most vulnerable part of mo, though,
 while T am up as a mark, they will con­  
 tinual:}* bo aimed. The article* in Fre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152354:1863080801:0034/pct:18.849933988558018,84.81994459833795,12.468827930174564,7.700831024930748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152354:1863080801:0034/pct:18.849933988558018,84.81994459833795,12.47371766661777,7.715604801477378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ ated and indecent terms as could scarcely
 be applied to a Nerc, a notorious defaulter,  
 nr Krn tn n common pickpocket. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868032401:0290/pct:7.5,90.16248480159169,14.102941176470589,12.3466342433956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868032401:0290/pct:5.634838899514492,67.62462694815962,10.578196263057231,9.262739029512545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -865,7 +865,7 @@ too, in such exaggerated and indecent terms as
 could scarcely be applied to a Nero, a notorions  
 defaulter, or even to a common pickpocke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868032701:0595/pct:5.1004636785162285,118.97344228804903,44.97681607418856,27.65577119509704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868032701:0595/pct:1.7001545595054095,39.657814096016345,14.992272024729521,9.218590398365679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -953,7 +953,7 @@ terms as could scarcely be applied to a Nero,
 a notorious defaulter, or even to a common  
 pickpocket.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82016242:00211105483:1868050901:0428/pct:72.18045112781955,244.3958606617111,64.41102756892231,61.09896516542778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82016242:00211105483:1868050901:0428/pct:18.045112781954888,61.09896516542778,16.102756892230577,15.274741291356944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1167,7 +1167,7 @@ notorious defaulter, or even to a com­
 mon pickpocket.&quot; So it seems that  
 the Copperheads aud Liberals of to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn84027352:0027952875A:1872101001:0190/pct:2.356339312861052,77.4748420313597,10.367892976588628,10.554645448162884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn84027352:0027952875A:1872101001:0190/pct:2.3677409546974766,77.4748420313597,10.375494071146244,10.569272174116545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1218,7 +1218,7 @@ common pickpocket.”
 He was accused in congress. Mr. Giles, after­  
 wards governor of Virginia, charged him wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171876:1872102201:1006/pct:6.928450066075137,33.47645429362881,13.932414574287332,4.349030470914127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171876:1872102201:1006/pct:5.369422092172641,25.948189494776013,10.80712021458181,3.3777014455417205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1277,7 +1277,7 @@ the pure and patriotic Administration of
 the Father of his country could bo so at­  
 tacked as to cause him to thus write i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1872110201:0477/pct:52.8391167192429,89.65431792838558,14.791447599018577,6.7030107793334155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624530:1872110201:0477/pct:40.95889170590366,69.48436449764748,11.463237957261862,5.197964344013059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1403,7 +1403,7 @@ indecent terms as could scarcely be applied to a
 Nero, a notorious defaulter, or even to a common  
 pick-pocket.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1876121601:0089/pct:30.325932923948983,51.38527113426474,12.171311604471736,6.60667771726261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1876121601:0089/pct:30.325932923948983,51.38527113426474,12.1765601217656,6.6224642828952565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1447,7 +1447,7 @@ could scarcely be applied to a Nero, a no
 torious defaulter, or even to a common  
 pickpocket.&quot;—0. E. Pond, in Galaxy for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1877071901:0114/pct:59.15615484993475,94.24719101123596,12.208206466579671,3.9213483146067416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1877071901:0114/pct:51.769780521842094,82.46706429835486,10.677887258426017,3.4312119027331716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1502,7 +1502,7 @@ could scarcely be applied to a How, to n no­
 torious defaulter, or even to a common pick­  
 pocket.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880041601:0002/pct:45.71280991735537,35.86439333862014,12.784090909090908,10.785091197462332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880041601:0002/pct:45.725723140495866,35.87430610626487,12.777634297520661,10.795003965107059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1521,7 +1521,7 @@ tration would be tortured and the
 grossest and most insidious mis­  
 representation of them made an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878009:1885071101:0781/pct:83.8079739625712,316.9934640522876,45.240032546786004,9.313725490196079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878009:1885071101:0781/pct:20.96052096052096,79.2483660130719,11.314611314611314,2.3284313725490198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1567,7 +1567,7 @@ and indecent terms a could scarcely
 be applied to a Nero a notorious de­  
 faulter or even A common pickpocke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534515:1896101901:0609/pct:41.70386904761905,93.72108393919366,19.196428571428573,4.415069398545935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534515:1896101901:0609/pct:27.819129140305172,62.48512888301388,12.802381838481578,2.9477858559154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

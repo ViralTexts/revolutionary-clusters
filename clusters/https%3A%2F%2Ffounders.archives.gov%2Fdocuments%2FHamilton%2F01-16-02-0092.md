@@ -163,7 +163,7 @@ shall be due to the Unirted States.
 And be it further enafted, That it shall  
 be the duty of the Treasurer to receiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789110501:0485/pct:68.54121605383321,43.889340927583405,21.05263157894737,18.74694873881204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789110501:0485/pct:68.54121605383321,43.90018985625169,21.07666426339822,18.73609981014375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ lionis madezby- law,- by warrantaupontlsie
 tteactsureti? . si ,  
 If that adminiatt-ationrcttvere now in pow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807112401:0048/pct:77.16218160886459,6.243423360224483,21.34120017268672,14.135391090845317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216079:1807112401:0048/pct:77.15107913669065,6.2428759316089435,21.34292565947242,14.137074382580739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ I made by low, by warrants upon the Trta­
 1 surer.”  
 ■ If that administration were now in pow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807112401:0390/pct:58.21748238430775,83.37754199823165,17.71091220719863,11.052166224580018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807112401:0390/pct:58.2063975628332,83.36701187168477,17.713886773292714,11.054980213858718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ the principles now prevailing, which were then jus­
 tified, be would have given them his sanction, be­  
 cause the course was obvious. But m the report o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807112501:0846/pct:27.645136969087712,49.71932638331997,21.713998492083437,15.49318364073777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807112501:0846/pct:27.63819095477387,49.71135343168698,21.714824120603016,15.494708146247595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ rors in the treafury department, in applications
 of money. This being the cafe, was it rot pro.  
 per that the Houfe fhnuld underfiand the mode
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112701:0253/pct:6.76828161858102,33.37375697307785,17.437851569588098,18.26340043657531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807112701:0253/pct:6.767053701015965,33.36971019764763,17.440735365263667,18.265227759589347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ burned, when provision is made by law.
 by Warrants updo the treasurer.”  
 If that administration were now h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807121801:0879/pct:27.429039301310045,66.43344411404583,20.278384279475983,13.59104425397936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807121801:0879/pct:27.42155525238745,66.4218258132214,20.279672578444746,13.5930395243092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ at Boaton, New Y&#x27;ork, Baltimore, and Charleston, and
   
 M Um Bank of botMiite*. The Trriumr ha* m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838070701:0521/pct:19.56882255389718,2.838962310327949,31.890547263681594,94.18746940773373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838070701:0521/pct:19.56882255389718,2.847120248001305,31.89607517965727,94.18746940773373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ di*bur*ed abioad, *re kept by ihe hsnker*, under whose
 agency ihe loan* are made, till they are di*bur*ed for  
 the purpose* of iheir desimaiun.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838070701:0521/pct:35.67164179104478,7.684777288301517,15.439469320066335,11.257953989231522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1838070701:0521/pct:35.67164179104478,7.684777288301517,15.444997236042012,11.266111926904879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ abroad, ere kept l y the bankers, under whose
 rency the loans are made, till they are disbursed for  
 it* purpose of their destinatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838082801:0337/pct:17.704426106526633,1.2378055176754432,35.31882970742686,95.95090737438372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838082801:0337/pct:17.71442860715179,1.2447987691877338,35.31882970742686,95.95440400013986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ perintend and direct the affairs of the Department? that he
 appropriate dutie* ; direct the mode* of keeping the account*,  
 and cause to be furnished the material* necessary for fully un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848051301:0179/pct:64.6257527960998,23.113313809416535,15.615141955835963,12.255012390177969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848051301:0179/pct:64.6257527960998,23.11706840880078,15.629480929165473,12.258766989562213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -801,7 +801,7 @@ shall be so audited be dissatisfied therewith, he may appeal
 to the Comptroller agaist such settlement.  
 Sec. 8. And be i further enacted, That the Auditor of t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861022601:0506/pct:3.0145867098865478,101.16840804403999,45.54294975688817,18.503538928210315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861022601:0506/pct:1.0048622366288493,33.722802681346664,15.180983252296055,6.167846309403438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -842,7 +842,7 @@ ee ee
 ance and transmit the accounts, with the vouchers  
 and certificates, to the Comptroller for his dec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475269:1861022801:0420/pct:207.43355481727573,191.59937888198758,39.493355481727576,36.56832298136646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_riel_ver01:data:sn82015753:00212475269:1861022801:0420/pct:69.14451827242524,63.86645962732919,13.164451827242525,12.18944099378882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

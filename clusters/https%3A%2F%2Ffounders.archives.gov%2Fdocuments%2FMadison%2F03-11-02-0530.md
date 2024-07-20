@@ -503,7 +503,7 @@ cannot tail to be an inpwtaat auxiliary to tbuae uica
 sure*.&#x27;  
 ^ How that sounds now aa an argument for the Su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840090801:0363/pct:63.87704335465529,3.2968431771894093,31.556503198294244,93.34266802443992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840090801:0363/pct:63.88296612177209,3.3053292600135777,31.556503198294244,93.33842498302783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ Now let us see what Gena Jackson thought
 about a National Bank, and ascertain if we  
 can whether he too was willing &quot;to forge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1841051401:0080/pct:30.412371134020617,237.62203118169896,50.88365243004418,45.75258633250765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1841051401:0080/pct:7.603092783505154,59.40550779542474,12.720913107511045,11.438146583126912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ been organized under
 auspices the most fa-  
 vorable, and cannot fail t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023646:00280777778:1841052501:0054/pct:260.17628205128204,195.75589053124543,61.29807692307692,6.380799063368944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023646:00280777778:1841052501:0054/pct:65.08318300260574,48.93897263281136,15.333734215273601,1.595199765842236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ it “the Washington Democratic J&amp;ocialion.&quot;—
 I The Jacobin Ulub in I Vance, while they were  
 /inking the jitters of the cities sn ut orean&gt; nf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1844012901:0636/pct:82.25981992678342,8.381155745362339,14.742257841100228,14.707059922594421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1844012901:0636/pct:82.25168183616937,8.380596516981385,14.744097084817307,14.708302751273326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -713,7 +713,7 @@ having entrusted Congrrss exclursively with the power oof crtse
 aind reauinting a currency of that dessripiion, your mee  
 pray that theae pomers may now be wiscly ete
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862020701:0314/pct:140.3028822667318,204.9367088607595,50.480377788633774,9.03337169159954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862020701:0314/pct:46.76762742224393,68.31223628691983,16.82679259621126,3.0111238971998464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ may circulate. The Constitution has intrust&#x27;
   
 ed Congress exclusively with the power of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83045232:00295878794:1880021201:0919/pct:5.381471389645776,65.47877285404401,37.37511353315168,8.072513170127053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83045232:00295878794:1880021201:0919/pct:4.0426981603452194,49.11682677409359,28.049057460822166,6.058258444375581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ constitution has intrusted congress, ex­
 clusively, with the power of creating and  
 regulating a currency of that descrip
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:0028076095A:1892122801:0138/pct:43.889970788704964,30.028598665395617,30.111976630963973,8.102955195424213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85031982:0028076095A:1892122801:0138/pct:29.28136419001218,20.01906577693041,20.09744214372716,5.401970130282809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

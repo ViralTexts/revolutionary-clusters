@@ -161,7 +161,7 @@ their own or any other veffels, to any parts
 of tie- dominions of the other, where it  
 (ball he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800120501:0002/pct:51.070637460004924,77.88649706457926,21.708097464927395,2.9504741833508956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800120501:0002/pct:51.08704569693986,77.89653269105324,21.708097464927395,2.940438556876913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ render account of their car­
 go, Or 1o pay any duties, im­  
 posts; or charges whatsoeve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819011901:0393/pct:58.68255080588648,83.53658536585365,9.558514365802383,2.6229190863337206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819011901:0393/pct:58.68722261153936,83.53981158859207,9.558514365802383,2.6229190863337206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ rest the operation of said treaty, it shall re­
 main binding for one year beyoud that time,  
 and so oun, until the expiration of the twelv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830100701:0562/pct:36.89625108979948,53.174418604651166,16.425457715780297,11.174418604651162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830100701:0562/pct:36.90787561755304,53.17829457364341,16.419645451903516,11.186046511627907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ with respect to the property belonging
 to the citizens or subjects of the Contracting  
 Parties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863092:1841052601:0133/pct:40.00388953714508,60.969196093163035,22.306495527032283,12.459303781617832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863092:1841052601:0133/pct:40.00388953714508,60.969196093163035,22.31297808894075,12.467651723850071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,9 +363,9 @@ Parties
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1844-05_14_81/page/n3/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1844-05_14_81/page/n3/mode/1up?view=theater)
 
-#### 1844-05-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1844-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -420,7 +420,7 @@ from the force of the laws already publish. M
 ereafter to be published by his Majesty the G  
 Bavaria, to prevent the emigration of his j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846081801:0837/pct:16.672046481601033,53.47680059708919,12.314396384764365,12.464236845378778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846081801:0837/pct:16.682806111469766,53.47680059708919,12.31977619969873,12.4766762035079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ to the ratification of the President of the Unjtcd
 States of -America, by and with the advice &#x27; and  
 consentof their Senate, and of. his Majesty th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847021001:0025/pct:85.984230560087,45.28104026845637,19.94290375203915,7.791526845637584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847021001:0025/pct:64.51788385692915,33.96602348993289,14.959880320957433,5.841023489932886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ of the sea shall remain entirely abolished with respect to I
 the property belonging to the subjects or citizensof the high I  
 eontraotiiig parties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847042401:0406/pct:78.94991141890803,17.68926274121722,16.556611370591078,3.785254824344384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847042401:0406/pct:78.94991141890803,17.69750948375392,16.556611370591078,3.785254824344384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ selves as for their vessels and effects, the same assis­
 tance which would be doe to the inhabitants of the  
 country where the accident happen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849040401:0483/pct:1.4177428411005053,86.75254965110038,20.157215047725998,10.241545893719806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849040401:0483/pct:1.0671159786576805,65.06709608158883,15.122156697556866,7.686527106816962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ ment of the war placed under blockade an
 jects of his Majesty the King of Prussia and the sub­  
 fects and citizens of the most favored nations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00175044875:1885112001:0024/pct:68.30218068535825,181.61201348452346,51.246105919003114,4.903463070793748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00175044875:1885112001:0024/pct:17.085525034093124,45.403003371130865,12.819014221702709,1.225865767698437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

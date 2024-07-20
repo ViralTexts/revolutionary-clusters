@@ -95,7 +95,7 @@ Bridge. It stands under the Hill on the interval lind,
 and has only one Mecting house 2 miles frm  
 Hartfd. a a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861030201:0425/pct:52.836879432624116,7.212522576760987,99.07125970955758,290.64419024683923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861030201:0425/pct:17.61229314420804,2.4041741922536626,33.02375323651919,96.88139674894641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ men sat an hour or two with me at Parsons&#x27;s
 tavern, where I lodged, and which is a good  
 house.&quot; From which it should seem that Gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897091901:0441/pct:287.71251931993817,176.13168724279836,51.39103554868625,7.376924249352233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897091901:0441/pct:71.94202898550725,44.03292181069959,12.85024154589372,1.8442310623380582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ Even before Washington came the
 tavern hod had a distinguished tran­  
 sient. When John Adams returned fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583310:1897092601:0687/pct:20.29016890428757,47.23314182038101,14.378518839324382,6.939824614454188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583310:1897092601:0687/pct:20.285776142022083,47.2260015117158,14.380818358952155,6.942554799697657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ Even before Washington came the
 tavern had had a distinguished tran?  
 sient. When John Adams returned fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ivory_ver01:data:sn94060041:00175031224:1897101601:0164/pct:17.22230310088805,65.60523446019629,11.762993157664871,9.520174482006544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ivory_ver01:data:sn94060041:00175031224:1897101601:0164/pct:17.22715582083758,65.60523446019629,11.767845877614404,9.523809523809524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ an hour or two with me at Parsons’
 tavern, where I lodged, and which is a  
 good house.”” From which it woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153036:1897102201:0683/pct:52.190867111339145,33.731926533802266,11.174961518727553,5.806955842125831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_carrioncrawler_ver02:data:sn92064044:00514153036:1897102201:0683/pct:52.19770822644091,33.73713690243585,11.16812040362579,5.806955842125831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ sat an hour or two with me at Par­
 sons&#x27; tavern, where I lodged, and  
 which is a good house.&quot; From whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86053634:00212478052:1898021601:0021/pct:52.79789335088874,76.30543164523748,14.236339697169191,5.103647336657045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86053634:00212478052:1898021601:0021/pct:39.61145867632532,57.229073733928104,10.68488640105367,3.8310154815009185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

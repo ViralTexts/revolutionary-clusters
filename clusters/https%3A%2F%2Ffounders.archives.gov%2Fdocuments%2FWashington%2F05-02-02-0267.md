@@ -116,7 +116,7 @@ territory hold the said treaty agreeably to such
 initrultions as shall be given him for that pur­  
 pose. ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1787110901:0086/pct:37.19864995178399,33.504,26.229508196721312,13.76/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1787110901:0086/pct:37.20668595306975,33.50933333333333,26.237544198007072,13.76/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ creaty : But that no part of the
 f=id sums beapplied forany purpose  
 ather thaa thole above mentioned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788072401:0223/pct:8.544839255499154,42.57538945262255,18.84517766497462,22.39531227669001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788072401:0223/pct:8.558939650310208,42.584917345529036,18.852227862380147,22.39531227669001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ plaints -y of regulating trade, and amicably fettling
 ili affairs concerning lands and boundaries between  
 ;hem and the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792013001:0002/pct:70.7227813357731,82.91065158017948,20.524550167734066,8.310573546625049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792013001:0002/pct:70.74565416285454,82.9252828716348,20.532174443427873,8.3203277409286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ Thus careful and attentive was the gcvernmtnt
 of the United Slates to fettle a boundary with the  
 Indians on the basis of fair treatv, to obviate the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792013001:0003/pct:7.861343237387806,4.699174203696422,20.9223150727329,19.66181675186787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792013001:0003/pct:7.861343237387806,4.713920566260322,20.94552770040235,19.671647660243806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ be applied tor any other purpose other than those above men­
   
 Accordingly new treaties were held at Fort Harmar the latte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792020101:0001/pct:8.573216520650814,60.57750150391016,27.44055068836045,18.949268097052336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792020101:0001/pct:8.573216520650814,60.582514537798275,27.45619524405507,18.949268097052336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ the United States.”
 &#x27; On the 2d day of July, 1788,  
 ‘Cengrefs appropriated *¢ the su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792022201:0963/pct:28.41557153483759,52.601248599327675,21.472848995784776,23.051064510965265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792022201:0963/pct:28.423836680717415,52.61192038845312,21.4811141416646,23.040392721839815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ States, to fettle a boundary with
 the Indians on the basis of fair  
 treaty, to obviate the diffatisfac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792022201:0963/pct:28.465162410116537,13.91067712502001,43.416811306719566,78.46966543941092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1792022201:0963/pct:28.465162410116537,13.916013019582733,43.42507645259939,78.47500133397364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ prerogatives of consuls, kc. was also submitted.
 Mr. Jefferson desiring to return, Wm. Short, j  
 Esq. wa* nominated on the 16th June, and confirm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854100701:0299/pct:3.7692418357070925,8.171163202122955,15.940152496043735,5.517470145953118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854100701:0299/pct:3.77883278185393,8.178534571723427,15.940152496043735,5.513784461152882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ ot the protection of the United States.&quot;
 In the execution oi tne loregomg a; ti  
 de of the treaty made at tort t inney
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028812:1871092101:0250/pct:50.86641461877757,67.23924864063272,14.540012602394455,19.920909540286704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028812:1871092101:0250/pct:38.17178881008668,50.432525951557096,10.90622537431048,14.940682155215027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -748,7 +748,7 @@ under the protection of the United States;
 the boundaries were prescribed and  
 reserves made ; no citizen of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1876012701:0465/pct:11.013986013986013,110.48323210984948,18.88111888111888,11.116979139160286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1876012701:0465/pct:8.262295081967213,82.86242408238711,14.163934426229508,8.344335885925535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

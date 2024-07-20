@@ -56,7 +56,7 @@ Srvcnth.—The present convention shall
 have no force or until it be ratified  
 by the contracting parties, anil the ratifi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804100301:0303/pct:40.809669992325404,15.836159666057918,18.169608595548734,9.71823636837986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804100301:0303/pct:40.80184154997123,15.834094169818703,18.17251742438775,9.721316464501543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,7 +74,7 @@ ble to their two governments* they have expressly
 agreed that each government shall reserve (as it docs  
 by this convention) to itself, ‘its subjects or its citi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100401:0142/pct:4.086294416243655,84.68222043443282,22.106598984771573,2.9927594529364443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100401:0142/pct:4.085257548845471,84.66859716859717,22.10733316417153,2.9962998712998714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ ent to them. . , ,
 force or efibcl, until itbe ratified by the contracting par­  
 ties, and the ratifications shall be exchanged as soo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100401:0142/pct:3.9593908629441623,88.86564762670957,22.18274111675127,2.9927594529364443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804100401:0142/pct:3.9583861963968534,88.85135135135135,22.1834559756407,2.9962998712998714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ I as poffible. fn faith whereof, we the underwritten
 plenipotentiaries, have figned this convention,and have  
 I affixed thereto our refpeCtive eals
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804100601:0183/pct:23.187883159033536,29.71997510889857,17.52614496934728,3.957685127566895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804100601:0183/pct:23.183702902469804,29.71627675460428,17.528994651763718,3.961340633814501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ may In* ir.o«t convenient to them.
 force or effect, until it be ratified by the con­  
 tracting pat ties, ami the ratifications shall h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818122901:0278/pct:52.20125786163522,34.44947569113442,14.680569347898047,2.2163965681601527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818122901:0278/pct:52.19261955982128,34.445371142618846,14.68365602074025,2.2201040549664404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ fn faith whereof, we, the underwritten
 Plenipotentiaries have signed this conven­  
 tion, anti have affixed thereto our re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819010501:0073/pct:81.63966617574864,35.52532123960695,16.372115856651938,6.243386243386244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1819010501:0073/pct:81.61963190184049,35.51995163240629,16.374233128834355,6.246221281741233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ convenient to them. -
 no force or affect, until it be ratified by  
 the contracting parties, and the ratifica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1819010601:0324/pct:59.767188068388506,9.823484267075978,16.405965805747545,2.5454080327449478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1819010601:0324/pct:59.75631933078741,9.82222790638189,16.409044068618538,2.5493456111182162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ force oreffect, until it
 be ratified by the con­  
 tracung parties, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819011201:0389/pct:33.869485294117645,44.61300309597523,8.348651960784315,13.973168214654283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1819011201:0389/pct:33.869485294117645,44.61300309597523,8.36907679738562,13.976608187134502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

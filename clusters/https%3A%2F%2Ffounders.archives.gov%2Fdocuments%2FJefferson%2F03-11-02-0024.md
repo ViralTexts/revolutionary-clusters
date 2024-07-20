@@ -94,7 +94,7 @@ jty A great many democrats in the |
 South make a terrible ado about the Un­  
 ion, but at the inmo time swear that the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1860010401:0094/pct:56.247328679299045,79.90339249606829,12.280951702521726,6.133453156594024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152330:1860010401:0094/pct:56.247328679299045,79.90713697296488,12.295198746260152,6.137197633490602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

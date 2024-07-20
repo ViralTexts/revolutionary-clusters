@@ -1672,7 +1672,7 @@ Tnvite to sacred thought und Lift the mund,
 ¥rom low pursuits to meditate the Gop !  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810050201:0219/pct:5.798969072164948,7.142857142857143,21.1340206185567,16.50485436893204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810050201:0219/pct:5.809707903780069,7.146159434647646,21.12865120274914,16.50485436893204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1943,7 +1943,7 @@ everyone. Who is powerful? he that
 governs his passions. Who is rich ?  
 he that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835112101:0240/pct:1.575,33.282828282828284,15.325,2.457912457912458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835112101:0240/pct:1.5746063484128967,33.27722605621949,15.327418145463634,2.461706783369803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2012,7 +2012,7 @@ his
 Who is rich! He that is content.  
 passions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842073001:0416/pct:21.79675994108984,364.03285188331915,58.32106038291605,7.873123760974228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1842073001:0416/pct:5.452201142015104,91.00821297082979,14.588321974580953,1.968280940243557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2083,7 +2083,7 @@ every one. Who is powerful? He
 that governs his own passions. Who  
 is rich? He that is content.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065355:00295878216:1842110501:0946/pct:234.30079155672823,359.2074269086878,66.31486367634125,11.25121241513094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065355:00295878216:1842110501:0946/pct:58.588080052782054,89.80185672717195,16.582361996921048,2.812803103782735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2166,7 +2166,7 @@ that governs his own passions.
 Who-  
 is rich? He that is conten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016922:00200292108:1844032301:0468/pct:101.05170902716915,113.38827554035143,18.799298860648555,3.296532421085368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016922:00200292108:1844032301:0468/pct:75.80539119000657,85.04120665526357,14.113521805829498,2.4879489970455606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2214,7 +2214,7 @@ every one. Who is powerful? He
 that governs his passions. Who is  
 rich! He that is contented
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065087:00212470478:1857012901:0202/pct:215.2635719905586,228.0796126949973,58.92997639653816,10.166756320602474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn97065087:00212470478:1857012901:0202/pct:53.84766778193269,57.01990317374933,14.741192678606573,2.5416890801506185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2246,7 +2246,7 @@ To disappointment and fallacious hope:
 Rich in content, in Nature’s bounty rich,  
 In herbs and fruits; whatever greens the spring
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1857052301:0087/pct:66.80595019221127,55.5207925954895,12.017382583987965,9.35992699778386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1857052301:0087/pct:66.79478609625669,55.51355578727841,12.019552139037433,9.36196558915537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2265,7 +2265,7 @@ Who is powerful? He that governs his
 passions.  
 Who is rich? lie that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1857111401:0183/pct:31.571815718157183,90.8980745927023,12.059620596205962,2.558233472465329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1857111401:0183/pct:31.566469093988147,90.88583737210554,12.061812023708722,2.5612547119009155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2286,7 +2286,7 @@ Who is rich?
 He that is content.  
 What to do With Street Beggars.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858092501:0363/pct:68.23728813559322,87.9978471474704,11.23728813559322,3.767491926803014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858092501:0363/pct:68.22572445348246,87.98600834118122,11.23962040332147,3.77034844611866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2308,7 +2308,7 @@ Of scatter’d villages, and winding streams,
 And meadows green, and woods, and distant spires,  
 Seeming above the blue horizon’s bound
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00211110144:1866090901:0006/pct:31.30051432770022,40.725334719875214,11.315209404849375,2.4567788898999092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00211110144:1866090901:0006/pct:31.30510653930933,40.73183413492786,11.328986039676709,2.4567788898999092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2336,7 +2336,7 @@ And painting to our mind the bustling scenes
 Of pride and bold ambition, pity kings.”  
 Thia, though wanting in the grand touches o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00211110144:1866090901:0006/pct:31.061719324026452,43.15611594956454,12.380602498163116,4.146626803587677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_frost_ver02:data:sn85026214:print00211110144:1866090901:0006/pct:31.066311535635563,43.15611594956454,12.389786921381337,4.162875341219291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2354,7 +2354,7 @@ Who is powerful? He that governs his
 passions. Who is rich? He that is  
 content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279555223:1867011401:0048/pct:229.08822443706165,343.3806451612903,44.83204134366925,7.135483870967742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279555223:1867011401:0048/pct:57.26148735929138,85.83408592439685,11.205942055729839,1.7836408205392853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2371,7 +2371,7 @@ Who is wise? He that learns from everyone.
 Who is powerful? He that governs bis passions.  
 Who is rich? He that is contented
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1867032301:0260/pct:3.225806451612903,41.996287305440525,12.806644774966196,1.0995287733828358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn84038763:0027955792A:1867032301:0260/pct:3.2402936063357157,41.996287305440525,12.796986671817654,1.110238469227474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2485,7 +2485,7 @@ governs his passions. Who is rich? He
 that is content.  
 When Plato was told that he ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:00414215531:1871122901:0205/pct:79.4991965720407,48.867474667196504,11.90412426352437,2.394198291277568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_flobberworm_ver01:data:sn85033019:00414215531:1871122901:0205/pct:79.4991965720407,48.874097622359095,11.913051240849848,2.394198291277568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2504,7 +2504,7 @@ governs his passions. Who is rich? He
 that is content.  
 When Plato was told that he ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627610:1872010601:0071/pct:104.34698608964452,63.73265701924512,15.45595054095827,3.132925555721319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627610:1872010601:0071/pct:80.87941704931124,49.39684741974024,11.978438810141744,2.4395883917215864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2546,7 +2546,7 @@ every one. Who is powerful?, He that
 governs his passions. Who is rich? He  
 that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028812:1872031401:0350/pct:9.278024065864471,24.083573126485675,14.138695376820772,2.0643062679844864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038238:00296028812:1872031401:0350/pct:6.968641114982578,18.06580758163393,10.611339879632563,1.5513574377580384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2564,7 +2564,7 @@ every one. Who is powerful? He that
 governs his passions. Who is rich? He  
 that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559917:1872031501:0260/pct:28.005464480874316,75.64102564102564,42.486338797814206,6.410256410256411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559917:1872031501:0260/pct:7.001366120218579,18.91025641025641,10.621584699453551,1.6025641025641026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2582,7 +2582,7 @@ everyone. Who Is powerful? He that
 governs his passions. Who is richf Ho  
 mat is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775745:1872031501:0428/pct:5.687124749833222,22.84184406425493,14.543028685790526,2.115711114013321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn87076843:00280775745:1872031501:0428/pct:4.27022518765638,17.134648034478253,10.909090909090908,1.593313308084106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2603,7 +2603,7 @@ governs his passions. Who is rich?
   
 he is that content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293058:1872033101:0379/pct:301.06007067137807,143.11720418024498,38.044758539458186,9.349365097201932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293058:1872033101:0379/pct:75.28718703976436,35.779301045061246,9.5139911634757,2.337341274300483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2622,7 +2622,7 @@ Who is powerful?He that Governs his
 passions.  
 Who is rich? He that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777535:1873120601:0749/pct:205.05865102639297,167.85090273733255,43.03519061583578,9.435061153174141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777535:1873120601:0749/pct:51.29286631212177,41.96272568433314,10.764716669723088,2.3587652882935353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2681,7 +2681,7 @@ ery one. Who is powerful? he that gov­
 erns his passions. Who is rich? He that  
 is content*—Miscellanies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550055:1884050701:0014/pct:66.19111709286676,42.32522796352583,14.14535666218035,2.0611702127659575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550055:1884050701:0014/pct:66.19111709286676,42.33156028368794,14.158815612382234,2.064336372847011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2700,7 +2700,7 @@ ery one. Who is powerful? he that gov­
 erns his passions. Who ia rich? He that  
 is content*—Miscellanies,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_dagger_ver01:data:sn2001063133:00415623240:1884050801:0211/pct:38.990278014668256,45.9830866807611,10.677127750298482,1.863107822410148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_dagger_ver01:data:sn2001063133:00415623240:1884050801:0211/pct:39.00307010063108,45.98969344608879,10.685655807607027,1.8664112050739958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2818,7 +2818,7 @@ everyone. Who is powerful? he that
 governs his passions. Who is rich? he  
 that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn87068192:00279529625:1884091101:0289/pct:34.709276520195296,79.55834994632725,14.46959609409676,2.315595767520319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn87068192:00279529625:1884091101:0289/pct:34.70157532726869,79.54615148727385,14.47193254936765,2.3190739037105184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2836,7 +2836,7 @@ from every one. Who is power­
 ful? He that governs his passions.  
 Who is rich? He that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349219:1884101101:0741/pct:78.00586510263929,56.25170253336965,14.349951124144672,3.0509397984200493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349219:1884101101:0741/pct:77.99061767005473,56.244041944709245,14.352032838154809,3.0539289118888737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2854,7 +2854,7 @@ every one. Who is powerful ? He that
 governs his passions. Wbo is rich ? He  
 that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551116:1884102301:0453/pct:13.536402130856441,51.62613536478172,12.143149842917634,1.943549174724094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551116:1884102301:0453/pct:13.536402130856441,51.62939089103754,12.15225606702181,1.9468047009799134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2872,7 +2872,7 @@ every one. Who is powerful ? He that
 governs bis passions. Who is rich ? He  
 that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026965:00294551190:1884102302:0492/pct:14.193733009014165,51.645907473309606,12.27643439690943,1.9906583629893237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_gnomiemoore_ver01:data:sn84026965:00294551190:1884102302:0492/pct:14.203271808079363,51.65332147093713,12.27643439690943,1.9869513641755634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2891,7 +2891,7 @@ every one. Who 18 powerful? lit&#x27; that
 governs his passions. Who is rich? He  
 that is oontent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175036453:1884110301:0143/pct:16.82519881490722,30.209394453876627,10.75939497894901,1.5732880588568194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175036453:1884110301:0143/pct:16.832995477935444,30.212224108658745,10.75939497894901,1.5761177136389362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2987,7 +2987,7 @@ every one. Who is powerful ? He who
 governs his passions. Who is rich ?  
 He that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206537759:1885120301:0221/pct:67.44067796610169,24.672228843861742,18.050847457627118,3.492252681764005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206537759:1885120301:0221/pct:50.59755890828954,18.510131108462456,13.531954568570944,2.622169249106079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3005,7 +3005,7 @@ one. Who is powerful? He that governs
 his passions. Wiio is rich? lie that is  
 content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348495:1885123101:0645/pct:4.878048780487805,43.36335624555582,10.848907190370605,1.9080350794027021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348495:1885123101:0645/pct:4.877276326207443,43.358217798317334,10.851148060174188,1.9107714184145042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3024,7 +3024,7 @@ that governs his passion. Who is
 rich ? He that is content.  
 Those that would be safe have nee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86053067:00295862361:1886011401:0286/pct:43.39125038783742,46.220439189189186,13.403661185231151,6.714527027027027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn86053067:00295862361:1886011401:0286/pct:43.40159271899886,46.234515765765764,13.393318854069708,6.714527027027027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3043,7 +3043,7 @@ that governs his own passions. Who
 Is rich ? He that is content.  
 The pleasantest things in the worl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020515:1886011601:0022/pct:53.841145833333336,94.45804871761825,20.85503472222222,4.794432272200026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020515:1886011601:0022/pct:40.412595005428884,70.84675860291274,15.656894679695982,3.5958242041500195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3061,7 +3061,7 @@ one. Who is powerful ? He that governs his
 passions., w no is nob I lie mat is content,  
 Those that wjuld be safe have need to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077272:00296027261:1886012101:0237/pct:37.959974176888316,123.1013916500994,13.992898644286637,1.8290258449304175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077272:00296027261:1886012101:0237/pct:28.47457627118644,92.32604373757455,10.508474576271187,1.3783962889330683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3099,7 +3099,7 @@ from every one. Who is powerful ?
 He that governs his passions. Who  
 is rich ? He that is content.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349086:1886022701:0389/pct:49.22243578542722,91.94217641547316,11.427572951249346,4.818632043903092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349086:1886022701:0389/pct:49.21383647798742,91.92987152034262,11.429944095038435,4.8213329764453965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3121,7 +3121,7 @@ Who is rich? He that is content.
 I&#x27; ortuns gives too much to many,  
 but to none enough.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213042:1886031701:0270/pct:21.062372755876364,91.34957208689927,12.65963353692393,4.555628703094141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213042:1886031701:0270/pct:21.058475203552923,91.33754607688257,12.661917098445596,4.558320168509742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3140,7 +3140,7 @@ everyone. Who is powerful? He that
 governs his passions. Who is rich? lie  
 that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332897093:1886041701:0687/pct:51.361936977034006,43.0553628416817,10.610646252447927,2.3726932149299294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332897093:1886041701:0687/pct:51.352794588821645,43.049389567147614,10.61320754716981,2.375832408435072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3168,7 +3168,7 @@ every one. Who is powerful? He
 that governs his passions. Who  
 rich ? I lo that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020515:1887111901:0788/pct:59.67885816235504,117.40099659061107,21.07493309545049,3.252032520325203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020515:1887111901:0788/pct:44.78910957375586,88.05402570154733,15.822361080116046,2.4390243902439024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3218,7 +3218,7 @@ governs his passions. Who is rich.
 trfl  
 that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889091201:0510/pct:71.52777777777777,79.51631701631702,18.413978494623656,5.914918414918415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889091201:0510/pct:53.68751401031159,59.64452214452214,13.830979600986327,4.428904428904429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3240,7 +3240,7 @@ everyone.2 Who is powerful? He that
 governs his passions. Who is rich. He  
 that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237280842:1889091801:0097/pct:15.261609313035692,56.87406855439642,11.756428297300754,4.30327868852459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:00237280842:1889091801:0097/pct:15.270137733998551,56.87406855439642,11.752164086819326,4.306383507203179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3276,7 +3276,7 @@ everyone. Who is powerful ? He
 that governs his passions. Who Is  
 rich. He that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588319:1889092801:0282/pct:29.937998228520815,104.53853183064271,17.62621789193977,3.01553457203777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588319:1889092801:0282/pct:23.213774955666153,81.02451115395208,13.64910474229163,2.3409529055356653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3294,7 +3294,7 @@ everyone. Who is powerful? He that
 governs his passions. Who is rich. He  
 that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776142:1889100201:0521/pct:60.615627466456196,95.03105590062111,16.337805840568272,2.651113467656416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776142:1889100201:0521/pct:45.48864758144126,71.27707923041963,12.26061204343534,1.984547795788517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3334,7 +3334,7 @@ everyone. Who is powerful ? Hethat
 governs his passions. Who is rich ?  
 He that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588319:1889101201:0283/pct:101.06053910737958,107.42431157766622,17.69774635439682,3.057964399817435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588319:1889101201:0283/pct:78.33333333333333,83.25734947335324,13.72716894977169,2.3777707907561703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3352,7 +3352,7 @@ every one. Who is powerful? He that
 governs his passions. Who is rich ? He  
 that is content
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861964:1890012201:0288/pct:25.25729507204262,27.148774594408007,12.289623441094564,1.7863306869175009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861964:1890012201:0288/pct:25.26536707430278,27.154527672304685,12.285587439964484,1.7863306869175009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3370,7 +3370,7 @@ everyone Who is powerful He that
 governs his passions Who is rich He  
 that is conten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn84022097:00206536196:1890020701:0026/pct:54.224806201550386,64.2708950800237,13.837209302325581,2.3414344991108478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_juliet_ver02:data:sn84022097:00206536196:1890020701:0026/pct:40.68617949214964,48.20687611144043,10.370226788137236,1.7634854771784232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3388,7 +3388,7 @@ from every one. Who is powerful ?
 He that governs his passion. Who  
 si rich ? He that is content.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349232:1890032201:0510/pct:66.95456252346978,89.89247311827957,14.288396545249718,2.903225806451613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349232:1890032201:0510/pct:66.94199361742069,89.88039242037361,14.290407358738502,2.9061954038435696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3489,7 +3489,7 @@ everyone. Who is powerful? He
 that governs his passions. Who is  
 rich? He that is content. Dillwyn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn86053634:00212478039:1891111101:0182/pct:65.57600545330607,36.9826435246996,14.587593728698023,2.937249666221629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn86053634:00212478039:1891111101:0182/pct:49.19877258779407,27.74365821094793,10.944425502898056,2.202937249666222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3544,7 +3544,7 @@ his passions. Who is rich? He that is con­
 tent. Who is that? Nobody.—Benjamin  
 Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740530:1898102301:0490/pct:84.28030303030303,40.638016864777,12.648809523809524,2.062379355887433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740530:1898102301:0490/pct:84.28030303030303,40.638016864777,12.657828282828282,2.065765857292831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

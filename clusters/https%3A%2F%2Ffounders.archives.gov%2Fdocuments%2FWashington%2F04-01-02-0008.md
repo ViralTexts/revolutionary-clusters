@@ -89,7 +89,7 @@ will come right at last as we have often prophesied.
 My only fear is, that we shall lose a little reputation  
 ars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:2.0317145688800795,71.75179979430922,60.406342913776015,23.711575819906297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743038:1851022401:0290/pct:0.6772381896266931,23.917266598103073,20.13544763792534,7.903858606635432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ i and, 1 am informed, without a dissenting voice, hvery­
 ; have often prophesied My only fear I*, that we shall lost*  
 j a little reputation first.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:31.329479768786126,42.76257161043921,15.722543352601155,7.027371101209421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0235/pct:31.33498486099642,42.77105877360492,15.722543352601155,7.027371101209421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ voice. Everyihing, my dear Trumbull, will corne
 right at last, as we have often prophesied. My only  
 fear is, thai we shall losea litlle leputation first.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0059/pct:108.07228915662651,42.71330837743643,17.40963855421687,12.572608751774881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851031401:0059/pct:81.09085430164231,32.03820833871176,13.063130932650294,9.435910675100038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ our evening hours of
 life, in cultivating the tender plants, and  
 bringing them to perfection, before they
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1855062001:0316/pct:94.7136563876652,20.215571608760463,81.16005873715125,140.2362114436418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn85049614:0027952939A:1855062001:0316/pct:31.5712187958884,6.738523869586821,27.05335291238375,46.74540381454726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ transplanted to a happier clime.
 True silence is the rest of the mind, and  
 is to the spirit what sleep is to the body
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237286972:1872072401:0034/pct:73.92370572207085,32.735291169690285,11.743869209809265,5.4124486318532625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn84026909:00237286972:1872072401:0034/pct:73.92370572207085,32.738632187364274,11.748410535876475,5.415789649527246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ you &amp; yours with which I am D&#x27;r Sir
 yr. most Affect. &amp; Obedt Serv.,  
 GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621140:1896022401:0374/pct:4.508856682769726,63.528883567794075,17.290660225442835,44.01376833283448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621140:1896022401:0374/pct:3.3836858006042294,47.650404070637535,12.990936555891238,33.01406764441784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

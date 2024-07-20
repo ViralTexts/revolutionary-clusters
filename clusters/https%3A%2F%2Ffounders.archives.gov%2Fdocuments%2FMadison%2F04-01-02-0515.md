@@ -182,7 +182,7 @@ yom loiter;/ot wlncli i pray you to accept
 my acknowledgements, with mv respects and  
 good wishes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820012201:0318/pct:34.8531559305533,5.114111602341977,15.219860457569366,56.135739036921976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820012201:0318/pct:34.847501622323165,5.113500597371565,15.222799048237075,56.133014735165276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ have required for their introduction into
 the counties where they are now scen in  
 their greatest extent and prosperity, ejth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820012601:1046/pct:47.25946372239748,9.842249657064471,44.26261829652997,82.96753543667124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820012601:1046/pct:47.25946372239748,9.846060051821368,44.26919032597266,82.97134583142814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ n the ten rof your letier; tor whic |
 pray vou to accept my acknowledgments,  
 with my respects and good wishes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820012601:1047/pct:6.625669510017854,4.28620024946139,21.940091251735765,29.368409116679896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1820012601:1047/pct:6.625669510017854,4.28620024946139,21.959928585598096,29.375968552745967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ subject, and in the tenor of vour letter; for which
 I pray you to accept my acknowledgements, with  
 my respect and good wishes. JAMEs MAdIsoN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530169:1842020301:0113/pct:52.43557276925369,28.011146661162144,100.05958587814688,268.82031169367326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530169:1842020301:0113/pct:17.478524256417895,9.337048887054047,33.353195292715625,89.60677056455775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

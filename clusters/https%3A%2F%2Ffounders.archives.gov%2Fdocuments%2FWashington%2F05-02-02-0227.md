@@ -583,7 +583,7 @@ knowledge the niftnefs of the observation, that the foundation of
 our national policy should be laid in private morality. If indi­  
 viduals be not influenced by moral principles, it is in vain to look
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789052001:0003/pct:29.308323563892145,28.040084794758144,25.703399765533412,30.063596068606667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789052001:0003/pct:29.322977725674093,28.040084794758144,25.718053927315356,30.073231836577374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ Government, and dignity and splendor to that
 country, which your skill and valor as a soldier so  
 eminently contributed to raise to independence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842120601:0443/pct:99.89657210401892,73.03901006711409,48.3451536643026,19.924496644295303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842120601:0443/pct:33.2988573680063,24.346336689038033,16.1150512214342,6.641498881431767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ ned once more to public life. In you, all par­
 ties confide, in you, all interests unite.&quot;  
 The resemblance here is so striking that n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1847071701:0474/pct:30.00733675715334,158.29935934769946,57.07997065297139,36.1094933022714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1847071701:0474/pct:7.503210420106402,39.574839836924866,14.27261053017795,9.02737332556785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ to public life. In you, ALl. parties CoNride; in you,
 all interests unite.&quot;  
 The resemblance here is so striking that no one ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1847071901:1225/pct:266.56286492798756,254.6594982078853,61.13273647333593,23.79032258064516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1847071901:1225/pct:66.62774858921969,63.65536807525758,15.280210157618214,5.946692548902494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ In you, all parties confide-, in you, all interests u
 niic.”  
 The resemblance here is so striking that no on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1847072201:0301/pct:78.09565727699531,53.80716377562514,14.583333333333334,6.9384996620860555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1847072201:0301/pct:78.084201261552,53.801103727897285,14.586083810082636,6.941472388031685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -914,7 +914,7 @@ dience to the call of our common country you
   
 have returned once more to public lile. In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1847080701:0295/pct:103.33969465648855,46.67275772803411,21.254770992366414,8.32952641997868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1847080701:0295/pct:77.5417661097852,35.00837520938023,15.966587112171839,6.243337901629359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -941,7 +941,7 @@ country, you have returned once more to
 public life. |u you. am, fartirs c onfidk ;  
 I hi you all ini crests unite.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688210:1847081101:0206/pct:34.63068181818182,18.366556996322817,15.142045454545455,7.8382039868395585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688210:1847081101:0206/pct:34.63068181818182,18.379459389716793,15.160984848484848,7.831752790142572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -967,7 +967,7 @@ the call of our common country, you have - re
 turned once more to public life. In you, all  
 parteis confide; in you, all interests unite.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1847082101:0352/pct:87.38938053097345,45.524376861577046,19.609814963797266,10.612948738046716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1847082101:0352/pct:65.56024944679139,34.14328264618279,14.705290685978676,7.9636306631133404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1021,7 +1021,7 @@ ident as one of the most propitious aud im­
 portant.&quot;  
 In connection with this document, remar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1859120801:0175/pct:15.88852696344553,41.540421917032425,10.984437205935578,12.161970833923261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1859120801:0175/pct:15.90059114489082,41.540421917032425,10.972373024490288,12.171409693709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1128,7 +1128,7 @@ nnd establishment of a Federal Government, wo
 esteem your acceptance of tho olHco of President aa  
 one of the most propitious and important
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877062401:0009/pct:1.7970401691331923,51.974214343271555,13.10782241014799,5.9629331184528604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877062401:0009/pct:1.8102536997885834,51.989323126510875,13.114429175475687,5.947824335213538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1150,7 +1150,7 @@ States, and that your administration
 may be prosperous to the nation .and  
 glorious to yourself.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555328:1888052901:0524/pct:256.71768707482994,237.75657704538884,53.91156462585034,19.427580225498698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555328:1888052901:0524/pct:64.17942176870748,59.43914426134721,13.477891156462585,4.8568950563746744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1199,7 +1199,7 @@ review of the many signal instances of
 divine Intervention In favor of the country  
 claims our most pious gratitude, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583280:1898022301:0459/pct:20.176192522561237,53.84037276416654,14.288783841856468,2.104313843378927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583280:1898022301:0459/pct:20.171858216971,53.832281334535615,14.29108485499463,2.10775473399459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1216,7 @@ evitably led to acknowledge and adore the i
 great arbiter of the universe by whom em- I  
 pires rise and fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537486:1898022301:0524/pct:17.84365010171462,82.13868535627057,12.932287125835513,1.1468620579802484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537486:1898022301:0524/pct:17.84849365494527,82.1422250539804,12.927443572604863,1.1539414533998797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1234,7 +1234,7 @@ of divine intervention in favor of the
 country claims our most pious grati­  
 tude and that they were inevitably
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898022301:0379/pct:18.1552452094836,53.78855410946693,16.30399480350763,2.228561240862899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193699:1898022301:0379/pct:18.179603767456967,53.78855410946693,16.30399480350763,2.2330183633446246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1296,7 +1296,7 @@ of the country claims our most pious
 gratitude,&quot; and that they were &quot;inev­  
 itably
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026409:0023728804A:1898030201:0071/pct:123.45159350571257,262.6574378758652,40.95009019843656,9.667536593668444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026409:0023728804A:1898030201:0071/pct:30.872180451127818,65.6643594689663,10.240601503759398,2.416884148417111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1316,7 +1316,7 @@ and that they were inevitably led to acknowl­
 edge and adore the Great Arbiter of the unlv­  
 erseby whom empires rise and fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898030301:0714/pct:25.358851674641148,70.25564256103178,15.9688995215311,2.660064486411792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898030301:0714/pct:19.027673896783845,52.69461077844311,11.982049364248317,1.992169507139567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

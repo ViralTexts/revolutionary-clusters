@@ -37,7 +37,7 @@ tion appears to me to be little more than a shadow, with­
 out the substance; and Congress a nugatory body, their  
 ordinances lieing little attended to.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855092301:1017/pct:4.176985306257223,86.51656645772036,15.717351824335479,2.0084431367532303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855092301:1017/pct:4.176985306257223,86.5250948786832,15.717351824335479,2.0084431367532303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -53,7 +53,7 @@ ordinances lieing little attended to.&#x27;
 
 ---
 
-## [From _The United States democratic review_](https://archive.org/details/sim_united-states-democratic-review_1856-11_38/page/n60/mode/1up?view=theater)
+## [From _The United States Democratic Review (1856-1859)_](https://archive.org/details/sim_united-states-democratic-review_1856-11_38/page/n60/mode/1up?view=theater)
 
 #### 1856-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -74,7 +74,7 @@ Mlliberality, jealousy, and local policy mix too much in all our public coun
 
 ---
 
-## [From _The United States democratic review_](https://archive.org/details/sim_united-states-democratic-review_1856-11_38/page/n61/mode/1up?view=theater)
+## [From _The United States Democratic Review (1856-1859)_](https://archive.org/details/sim_united-states-democratic-review_1856-11_38/page/n61/mode/1up?view=theater)
 
 #### 1856-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -128,7 +128,7 @@ into the vaie of confusion and
 dHilin(fi  
 This was the condition of a Governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1861022201:0586/pct:11.048265460030166,35.017221584385766,16.119909502262445,14.265212399540758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775332:1861022201:0586/pct:8.30032069420864,26.262916188289324,12.09205810224486,10.706084959816303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

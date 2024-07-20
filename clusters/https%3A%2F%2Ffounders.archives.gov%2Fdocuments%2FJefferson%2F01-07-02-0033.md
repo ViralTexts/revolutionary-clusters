@@ -157,7 +157,7 @@ following passage of it:
 engage in a war. or grant letters of marque and reprisal in  
 time of peace, nor enter into any treaties or alliances, no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854050601:0430/pct:32.852700028272544,7.046413502109704,12.336254829893507,4.177215189873418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854050601:0430/pct:32.849604221635886,7.045918008578862,12.338233446412866,4.179265405620796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ time of peace, nor enter into any treaties or alliances, no
 never engage in a war, or grant letters of marque aud  
 reprisal in time of peace, nor enter into anv treaties 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854052601:0238/pct:16.916210768787792,66.05109558893886,14.411171897494961,1.3874270404745956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854052601:0238/pct:16.916210768787792,66.05747456383759,14.425568672617334,1.3906165279239626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ The United Slates, m Congress assembled, shall
 never engage in a war. nor grant letter- of marine  
 and reprint) In time of peace, nor enter into uny
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877110501:0005/pct:57.123975680676715,34.858870967741936,13.137721385144065,6.229838709677419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877110501:0005/pct:57.13719270420302,34.863911290322584,13.144329896907216,6.234879032258065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ bled shall never engage in a war, nor
 grant letters of marque and reprisal in  
 times
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_elkweed_ver01:data:sn92070464:00280773797:1893060301:0273/pct:115.48872180451127,341.9363800527851,49.92481203007519,8.945686900958467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_elkweed_ver01:data:sn92070464:00280773797:1893060301:0273/pct:28.883038736367055,85.48409501319628,12.485896953742008,2.236421725239617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

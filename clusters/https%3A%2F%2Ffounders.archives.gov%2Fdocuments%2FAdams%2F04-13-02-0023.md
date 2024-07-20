@@ -362,7 +362,7 @@ PROOFS of aCONSPIRACY against
 all the Religions and Government# of EU­  
 ROPE, carried on in the secret meetings of Fre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032301:0004/pct:45.04422771603538,48.713705431021516,15.899296892719438,2.346923424101098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032301:0004/pct:45.05556815604445,48.72122762148338,15.887956452710364,2.346923424101098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ PROOFS of a CONSPIRACY against
 all the Religions and Governments ot EU­  
 ROPE, carried on in the secret meetings of Fre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032701:0004/pct:44.55909943714822,39.311460938649404,16.135084427767353,10.1956745623069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032701:0004/pct:44.57082551594747,39.32249521847874,16.146810506566606,10.184640282477563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ taut only fix months—entitled &quot;
 PROOFS of a CONSPIRACY against  
 all the Religions and Governments of EU
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032801:0004/pct:44.2257529049087,39.252760550597486,17.998577187574107,10.316139767054908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798032801:0004/pct:44.2257529049087,39.252760550597486,18.0104339577899,10.323702919376796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ PROOFS of aCONSPIRACY against
 all the Religions and Governments ot EU­  
 ROPE, carried on in the secret meetings of Fre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040401:0001/pct:73.55955363242997,69.13839687781447,16.101115918925075,2.3716601621134794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040401:0001/pct:73.56524709633341,69.14214950465326,16.112502846731953,2.3754127889522665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ tant only lix m -nths—entitled
 PROOFSof a CONSPIRACY against  
 all the Religions and Governments of EU
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040601:0004/pct:27.027027027027028,61.324624031596535,17.44051744051744,13.428528026735531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798040601:0004/pct:27.03857703857704,61.324624031596535,17.463617463617464,13.43612334801762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ PROOFSof a CONSPIRACY against
 all the Religions, and Governments of EU­  
 orcv i\OPE, pp. in the fecrrt meetings of Fre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798041001:0004/pct:26.8450184501845,59.46732644447679,17.71217712177122,14.015427157618978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798041001:0004/pct:26.856549815498155,59.47460340561781,17.70641143911439,14.011788677048465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ tlement, and civilization of the world, than
 by any other part in the whole scheme of  
 Divine wisdom.&quot; It is hoped that simila
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1867120401:0416/pct:51.90348525469169,111.41328577797593,14.611260053619302,6.341952741863576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1867120401:0416/pct:38.93805309734513,83.55996433348194,10.968087959238401,4.75925100312082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -884,7 +884,7 @@ ing that marriage is the origin of all relations, and
 consequently the first element of all duties, have  
 endeavored by every art to make it sacred.&quot; An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:00175038267:1888100901:0414/pct:152.13166144200628,124.01981904351572,46.191222570532915,6.656613528651444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:00175038267:1888100901:0414/pct:50.71055381400209,41.339939681171906,15.397074190177639,2.2188711762171476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

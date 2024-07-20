@@ -125,7 +125,7 @@ Presidenl made to pass, an evening winch
 his good sense rendered a very miserable  
 one in him.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035172:00296027273:1853091401:0082/pct:25.60553633217993,67.7710374863898,16.457612456747405,28.69808679421372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035172:00296027273:1853091401:0082/pct:19.208306294613887,50.83216674443926,12.351287043045641,21.5274537253072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ other respects the ceremony was conducted nigor­
 ously according to ar rangement, and the President  
 ln w to pass an evening waion was a very alsagre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854121001:1340/pct:47.831887925283525,22.370806890299185,56.204136090727154,40.038531278331824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743208:1854121001:1340/pct:15.943962641761175,7.456935630099728,18.734712030242385,13.346177092777275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ President was made to pass an evening
 which his good sence rendered a very mis­  
 erable one to him.&quot;-Vol. 4. P. 187
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1864012301:0464/pct:225.72886297376093,291.07683436644083,51.60349854227405,69.3094997837682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1864012301:0464/pct:56.45278891724389,72.76920859161021,12.905577834487787,17.32737494594205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ the company, and to alt where she coaid. in
 &#x27; other res pec la, the ceremony wai conducted rig*  
 orena’y according to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870021601:0002/pct:50.4871395167576,75.35904469904793,9.275136399064692,10.392125221881555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870021601:0002/pct:50.49201091192518,75.35904469904793,9.280007794232269,10.408262062288204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

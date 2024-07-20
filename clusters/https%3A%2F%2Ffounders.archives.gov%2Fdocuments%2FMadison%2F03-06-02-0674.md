@@ -513,7 +513,7 @@ Winds under ground or waters forcing way,
 Sidelong had pushed a mountain from his seat,  
 Half sunk with all his pine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855112301:1182/pct:18.21555068308315,162.6328217237308,45.55574295834036,17.119244391971666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743221:1855112301:1182/pct:6.071850227694384,54.21094057457694,15.18524765278012,5.706414797323888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ this letter much too long for your patience
 Sidelong had pushed a mountain from his seat,  
 Halt sunk, with all his pines
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215968:1857032301:0427/pct:7.283502198432422,50.23883696780893,12.52150640412923,1.3568708895811699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215968:1857032301:0427/pct:7.282806078562554,50.2353592690018,12.523495492051355,1.3590844062947067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ Thus folled their mightiest, ours joy filled and shout
 Presage of victory and herce deaire  
 Of battle; whereut Michael bid soun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530753:1863102401:0406/pct:109.92406851492142,218.95897121861606,40.24368709164754,16.32578077158604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530753:1863102401:0406/pct:36.641356171640474,72.98632373953868,13.414562363882512,5.441926923862012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ Such rain intercept.&quot;
 Even so, again and again, the Presi­  
 lent has smitten with his vetoes and the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292972:1868022601:0180/pct:104.57478005865103,68.27586206896552,77.5366568914956,103.27586206896552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292972:1868022601:0180/pct:26.143695014662757,17.06896551724138,19.3841642228739,25.81896551724138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

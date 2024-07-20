@@ -262,7 +262,7 @@ land waiting promotion, since the advancement of Frye,
 who has not, and I doubt will not, do much service to the  
 cause.&quot; Would the point of these caustic expressions be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:49.480920314253645,44.38781043270795,15.642536475869809,3.622166793189459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:49.480920314253645,44.38781043270795,15.642536475869809,3.6257817301088098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

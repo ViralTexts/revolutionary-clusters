@@ -165,7 +165,7 @@ taking place in the office of President, the good
 sense and free spirit of our countrymen will make  
 the changes necessary to prevent it.&quot;I. 303
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840082401:0164/pct:78.97853441894893,318.7586589082849,56.846780162842336,11.582155721806595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1840082401:0164/pct:19.74828798815473,79.68966472707122,14.214325374791782,2.895538930451649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ doctrine of their divine rights is nn imposition;
 every man in his senses knows it to bo so; and  
 our President ought to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840091901:0102/pct:10.0,11.94549583648751,19.448818897637796,14.928084784254352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840091901:0102/pct:7.504431751034075,8.962906888720665,14.614930076817018,11.203633610900832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ ed vstrytuin by &#x27;the people of any
 parish! America !(!s ;,- &#x27;; -.v.-: -.;  
 -What a picture he draws of. theEurope-sovereign
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775423:1872121201:0338/pct:97.75725593667546,67.97360248447205,14.907651715039577,20.61335403726708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775423:1872121201:0338/pct:73.33003463631866,50.98343685300207,11.182582879762494,15.463250517598343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ America.&quot;
 thut, aster an I do not belleve aald the coti  
 in conclusion, that there is any serious in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174383A:1873091101:0864/pct:56.6922699787547,37.356125356125354,52.44320967478346,25.321937321937323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174383A:1873091101:0864/pct:18.897423326251566,12.452041785375119,17.481069891594487,8.440645773979107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ necessary to prevent it.&quot; And in his auto­
 blography, written in old age, he restates his  
 chiaations and the reasons of them. We have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874121801:1016/pct:55.056179775280896,274.91529384273866,47.559953043769916,16.812711765393153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874121801:1016/pct:18.352059925093634,91.63843128091288,15.853317681256637,5.604237255131051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ It Is thus shown Jefferson was opposed to
 tho principles of repented terms of tho Presi­  
 dency to any one man, and opposed for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880042401:0011/pct:15.046113306982873,29.490509490509492,13.175230566534914,8.77122877122877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880042401:0011/pct:15.065876152832674,29.5004995004995,13.194993412384717,8.776223776223777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

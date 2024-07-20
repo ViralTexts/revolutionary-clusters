@@ -199,7 +199,7 @@ day, and 1o morrow, Crucify him.”
   
 Tue FEcrese or Armin 2th.- We are in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021168:00514152779:1846052801:0050/pct:31.758338209479227,79.08134404344383,12.946167349327093,7.432967530263604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021168:00514152779:1846052801:0050/pct:31.7680905012678,79.08888637477844,12.946167349327093,7.429196364596296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ tice is generally remarked upon by the Englisi pupers
 For the most part they regard it as a peace moasure,  
 We insert extracts from a few of the leading journais 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1846060901:0505/pct:49.51610573450816,12.600696171059175,29.293658818431314,81.19343610144207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1846060901:0505/pct:49.52092060282151,12.607326371622742,29.298473686744668,81.19343610144207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ of the unthinking, undisceruing multitude
 who are apt to cry Hosanna to-day and  
 to-morrow crucify him.&#x27;—Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769751:1852041501:0698/pct:45.361860999425616,81.54038396001363,13.383113153360139,9.6671589230944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:00271769751:1852041501:0698/pct:43.09294288832303,77.46321810137056,12.718261185885776,9.194575344436851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

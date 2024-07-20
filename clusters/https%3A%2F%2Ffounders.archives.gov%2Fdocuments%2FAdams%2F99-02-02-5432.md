@@ -632,7 +632,7 @@ his Privy Council, to order, and it is hereby
 ordered, that general reprizals be granted a­  
 gainst the thips, goods, and fubj-&amp;s of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778102001:0076/pct:67.66517951986403,51.57419172666949,27.36350116847249,8.513341804320204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778102001:0076/pct:67.67934282274626,51.58360393430279,27.370582819913604,8.513341804320204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ veflels, and goods belonging to the French
 King, and the vaffuls and fubje@s of the  
 French King, or any inhabiting within hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778102001:0076/pct:67.5164648396006,68.34674572921078,27.172296579562353,20.93745588027672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778102001:0076/pct:67.5164648396006,68.34674572921078,27.172296579562353,20.94686808791002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ draught of inftru&amp;ions for such ship: as thall
 be commiflionated for the purposes afore­  
 mentioned. &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778102001:0077/pct:7.637877211238293,8.860221151119932,27.53381893860562,37.751630280691806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778102001:0077/pct:7.637877211238293,8.86494660240053,27.561567811307665,37.74690482941121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,7 +857,7 @@ also anorber draught of infirustions for fuckh
 Soips as fhiall be commiffionated for the purposes  
 afarcinentioned. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779083101:0247/pct:37.1515020531662,4.886787044998567,57.531878106764644,90.6993407853253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779083101:0247/pct:37.16591023701462,4.896340880863667,57.52467401484043,90.70411770325786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3203,7 +3203,7 @@ Extract of a letter from Annapolis; dated
 the 2d, inst.  
 «We are well zffured that Lord Cornwalii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1781040201:0484/pct:6.893670357217464,17.951839826839826,54.64800501357844,73.32251082251082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1781040201:0484/pct:6.907596963999722,17.960858585858585,54.64800501357844,73.32702020202021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3591,7 +3591,7 @@ France;” is in fa a Declaration of Wars: |
 sHIP NEWS  
 Capt. Scoit, in the Minerwa, on bhis passag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793042301:0007/pct:50.20970641102456,11.889638745533942,20.67106051527861,5.5577610162763005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793042301:0007/pct:50.21969243059716,11.89294693661506,20.66606750549231,5.564377398438534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3864,7 +3864,7 @@ it- another draught of iiiftrudhons for such (hips as
 ft- (hallbe coaimiflioned for the purposes aforemeatioii­  
 n- ed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111901:0002/pct:71.36664966853647,19.323270857521976,21.978582355940848,44.833305689169016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111901:0002/pct:71.3730239673636,19.335710731464587,21.978582355940848,44.825012439873944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3953,7 +3953,7 @@ in ; as also another draught of inftruftions for such
 (hips as ftisll be aommiffioned for the purposes  
 aforementioned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797011701:0002/pct:52.19955763086754,41.34691928036937,19.61169820594741,41.76086610412355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797011701:0002/pct:52.21798967805358,41.35089953829008,19.593266158761367,41.76484636204426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4514,7 +4514,7 @@ inftruftions for fuch Ihips ar, fhall he
 commiffioned for the purpoles above  
 mentioned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803070601:0002/pct:75.38864955984266,41.98425590403598,16.201535868140102,27.27727102336624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803070601:0002/pct:75.39489292626584,41.99258611354075,16.220265967409627,27.273105918613854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4599,7 +4599,7 @@ fur their guidance herein ; and alfo another draft
 of inftructiogs for fuch fhips as thall be commil­  
 floned for the parpofes above. mentioned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803070901:0357/pct:32.33756534727409,7.574867880211392,20.313666915608664,39.48326482677628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803070901:0357/pct:32.343788897186954,7.582697201017812,20.313666915608664,39.48326482677628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5062,7 +5062,7 @@ fhall and may lawfully feize all fhips,
 veffels, and goods belonging to the per­  
 sons inhabiting the countries ftylin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803101401:0003/pct:3.6685641998734977,68.93122286034459,17.963314358001266,12.971004342344866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803101401:0003/pct:3.68262000140558,68.93589204837279,17.963314358001266,12.971004342344866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5091,7 +5091,7 @@ also all other ships and veflels that shall
 ‘be commiifioned, by letters of marqus  
 or Wﬂ&quot;repn&amp;ls, or otherwise, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803101801:0373/pct:5.006142506142506,76.79475722371164,16.292997542997544,10.138020057591103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803101801:0373/pct:5.006142506142506,76.79475722371164,16.298116298116298,10.147949558137226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5484,7 +5484,7 @@ hending, f izing and taking the fhips,
 veffels, and goods belonging to Spain,  
 and the vaffdls and fubjc&amp;s of the kin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031101:0001/pct:21.335396860490825,65.25059003193114,18.903382710590318,29.6681938081355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031101:0001/pct:21.342766600339008,65.25984543477254,18.9107524504385,29.6681938081355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5539,7 +5539,7 @@ flections for fuch flips as fhall be com­
 miilioned for the purpofei aforemention­  
 ed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031101:0001/pct:40.12823347335839,9.41274468971262,19.41189476011497,29.529362765514367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805031101:0001/pct:40.14297295305476,9.422000092554029,19.397155280418602,29.53861816835578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5633,7 +5633,7 @@ herein ; as also another draft of instruc*
 lions 101 such ships as shall be commissi­  
 oned for the purposes aforementioned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805031601:0099/pct:44.168345645847324,13.45396176856851,43.2505036937542,79.73150445060557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805031601:0099/pct:44.158460161145925,13.451998832798365,43.24828409430021,79.72473494796226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5954,7 +5954,7 @@ guidance herein • as also another draft. I
 commissioned for the purposes above j  
 mention--ct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806071401:0003/pct:40.419610361806896,15.634015661491963,19.13937058445729,56.75230114026652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806071401:0003/pct:40.42674659244987,15.643174428721894,19.146506815100263,56.74772175665156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6039,7 +6039,7 @@ draft of inftruflions for fiich fiiips as fhall be
 commifiionated for the purpofes above-menti­  
 oned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806071501:0078/pct:23.267148014440433,4.301730441140629,35.541516245487365,90.77504265171825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806071501:0078/pct:23.26294892618661,4.301206287315706,35.54111772844853,90.76804354006742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6119,7 +6119,7 @@ ance herein ; as also another draft instructions for
 such ships as shall be commissioned for the pur*  
 pc»es above-mentioned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806071601:1216/pct:26.336154776299878,41.666666666666664,20.507859733978236,38.809067688378036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806071601:1216/pct:26.329787234042552,41.66001596169194,20.50894584139265,38.80686352753392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6172,7 +6172,7 @@ taking the ships, vessels and goods belong­
 ing to Prussia, and the vassals and sub­  
 jects of the Kmg t-f Prussia, or any inha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806071601:0237/pct:76.88202782542405,71.69349645846748,17.934057556699067,25.975531229877657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806071601:0237/pct:76.8673780487805,71.68426474375482,17.9369918699187,25.9764786676968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6227,7 +6227,7 @@ other draft of instructions for such ships
 as shall be commissioned for the purpo­  
 ses above mentioned.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806071601:0238/pct:3.6039383243544494,4.472065607380831,19.543005758870517,27.293695540748335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806071601:0238/pct:3.6032689450222883,4.47149263292761,19.545567112431897,27.294469357249625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6703,7 +6703,7 @@ Cat/ic/iart.
   
 At the Cou-t at the Queen’** Palace, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807122101:0313/pct:5.227460711331679,23.633424269980804,18.081058726220018,15.28746084672123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807122101:0313/pct:5.226596096592789,23.63103657304506,18.08220310949388,15.288442109517074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6745,7 +6745,7 @@ goods belonging to the said territories,
 ports, and places, &lt;*r to any persons  
 being subjects or inhabitants thereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807122101:0313/pct:6.120760959470637,46.69091643932505,17.187758478081058,18.500555723956754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807122101:0313/pct:6.119748594111809,46.686199232168114,17.18905061197486,18.501212366134574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7021,7 +7021,7 @@ j all the Kussias, and bring the same to judg­
 • meat in any of the courts of admiralty with­  
 : in his majesty’s dominions, See. &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808030401:0080/pct:23.10861423220974,30.007549068948162,18.352059925093634,19.58983392048314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808030401:0080/pct:23.10428758659427,30.003774059630143,18.35486488173251,19.59156288002684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7210,7 +7210,7 @@ towns and people, of every degree, without
 exception of persons nr places : And where  
 as his Britannic Majesty has caused to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812050801:0443/pct:40.7037037037037,67.17227771611789,17.35185185185185,5.105438401775805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812050801:0443/pct:40.69616737641178,67.16399506781751,17.35481083749923,5.1089190300041105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7381,7 +7381,7 @@ prisals he granted against the ships, goods
 and citizens of the United States of Ameri­  
 ca anti others inhabiting within the territ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812121901:0275/pct:58.64332603938731,25.867158671586715,17.377826404084608,6.113161131611316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812121901:0275/pct:58.632634457611665,25.863977370557127,17.380735338802797,6.116508834501701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7442,7 +7442,7 @@ bring the same to judgment in any of the
 v-mii&#x27;is oi /vmmrRity within his Majesty’s  
 dominions duly authorised and required to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812123101:0292/pct:76.49982250621228,56.55448912647309,17.234646787362443,13.850078969748512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812123101:0292/pct:76.48624667258207,56.54761904761905,17.237503697131025,13.852445740200842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7458,7 +7458,7 @@ dominions duly authorised and required to
 bution of all manner of captures, seizures,  
 prizes, and reprisals of all ships and good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812123101:0292/pct:76.7128150514732,73.53905965253311,16.98615548455804,1.2756651682663103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812123101:0292/pct:76.69920141969831,73.53012633624878,16.98905649216208,1.279559442824749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8509,7 +8509,7 @@ persons or places.”
 This treaty is declared by our Constitution to &#x27;  
 be the supreme law of the land; and in my opin- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836071801:0132/pct:44.627914760682806,60.12505650143137,17.906950797723976,5.9590176284465874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836071801:0132/pct:44.62293618920125,60.120527306967986,17.90867172393277,5.961079723791588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8672,7 +8672,7 @@ instructions, as may be proner to be sent to the
 courts ef Admiralty in her Majeaty&#x27;s foreigntiaverae  
 and plantations for the guidance herein; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030312:00271743142:1840050301:0476/pct:21.01323119777159,157.00257189618893,65.19846796657382,43.336450783259295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030312:00271743142:1840050301:0476/pct:7.004410399257196,52.33419063206297,21.732822655524604,14.445483594419764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8718,7 +8718,7 @@ instructions, as may be proner to be sent to the
 courts of Admiralty in her Majesty&#x27;s foreign Govern  
 ments andiplantations for their guidance herein; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030312:00271743142:1840050401:0481/pct:180.8259587020649,30.381535562882714,66.44108971022037,43.464437117286856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030312:00271743142:1840050401:0481/pct:60.27531956735496,10.127178520960904,22.14702990340679,14.488145705762285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8786,7 +8786,7 @@ jesty&#x27;s foreign Governments and plantations for their
 guidance herein, and the said commissioners arc to give  
 the necessary instructions herein accordingly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840050701:0095/pct:79.18939984411536,12.651296829971182,14.458300857365549,9.72622478386167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840050701:0095/pct:79.20239023122889,12.66090297790586,14.45180566380878,9.716618635926993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8964,7 +8964,7 @@ the course of Admiralty and the laws of nations, to
 adjudge and e nlemn all such shipt, vessels, and  
 goods as shall belong to China or subjcets of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030312:00271743142:1840072001:0628/pct:6.12354521038496,214.0299210743315,60.28648164726947,33.96159736129108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030312:00271743142:1840072001:0628/pct:2.0411817367949867,71.34330702477716,20.095493882423156,11.320532453763693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8986,7 +8986,7 @@ Foretgn Markets.
 tavas. Moeer stasesy, Jaly ls The cantianel fde  
 of Eank Stock is the leading feature of the Englis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030312:00271743142:1840072001:0628/pct:6.911369740376007,248.41559665449404,59.4449418084154,12.62810696195076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030312:00271743142:1840072001:0628/pct:2.3037899134586692,82.80519888483136,19.814980602805132,4.20936898731692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9041,7 +9041,7 @@ gent to the Courts of Admiralty in her
 Majesty’s foreign government and plan­  
 tations, for their guidance herein; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1840072301:0912/pct:2.2573363431151243,29.800127578141613,12.895033860045146,22.69827769508824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152755:1840072301:0912/pct:2.266741911211437,29.800127578141613,12.885628291948834,22.70536536962223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9650,7 +9650,7 @@ sesty, theretore, is pleased, by and with the advice of
 her Privy Counell, to order, and it is hereby ordered, that  
 general reprisals be granted against the ships, veasels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854041801:0880/pct:250.24138505077408,287.8458049886621,46.545696687198266,4.149659863945578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854041801:0880/pct:83.4137950169247,95.94860166288738,15.51523222906609,1.383219954648526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9695,7 +9695,7 @@ to be sent to the said several courts of admiralty in her
 Majesty&#x27;s dominions, possessions, and colonies, for their  
 guidance herein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854041801:0881/pct:6.058599569607681,13.561441400477435,47.26038735308724,35.875866772763445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854041801:0881/pct:2.019533189869227,4.520480466825812,15.75346245102908,11.958622257587814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

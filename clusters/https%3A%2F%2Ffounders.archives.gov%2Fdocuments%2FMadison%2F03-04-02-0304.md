@@ -47,7 +47,7 @@ ses pending in the respective district courts
 ty of the Judges thereof, wasread, with thfc  
 amendments reported, the third time an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812032401:0396/pct:4.896387309737759,17.97627872498147,17.825050430955436,2.816901408450704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812032401:0396/pct:4.895489548954895,17.974058060531192,17.827893900501163,2.820671196211653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -68,7 +68,7 @@ of the United States in case of the disabili­
 ty of the Judges thereof, was read, with the  
 amendments reported the third time an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812032601:0103/pct:57.07096998091272,73.06103175540078,15.75568280409509,4.202573486011096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812032601:0103/pct:57.06106870229008,73.05240793201133,15.758732361785796,4.206011960969468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ of.
 vides that so much of a former act on thib  
 subject, as requires the application of the dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812033001:0108/pct:11.105263157894736,24.538227729717093,16.24561403508772,4.804769698386719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812033001:0108/pct:11.103315207858271,24.535359438924605,16.24861135473309,4.808104422365089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ diciary Department, to a discretionary au­
 thority of the Executive Department.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812041001:0330/pct:28.53996224040277,4.948226885366077,48.19068596601636,92.77925410061394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812041001:0330/pct:28.53547270725185,4.947773501924134,48.188348801845734,92.77380734225154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ which are by law required of the district
 judge: Provided, That the said justice shall  
 be authorised to adjourn the said couit to suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812041001:0330/pct:53.36689741976085,58.38907724731971,23.049087476400253,5.213964995876478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812041001:0330/pct:53.35850243825704,58.383727322704786,23.050705259294215,5.216541445238532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ he Inil introduces* an uusuH ;ble relation of
 partment.  
 JAMI&#x27;S MADISO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812041001:0412/pct:59.019716233646584,2.606023355869699,36.11571770775751,92.32944068838353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812041001:0412/pct:59.00884303610906,2.6057030481809242,36.11520510930975,92.32218944608326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ ing in the lespective District Courts of the United
 4 judges thereof.&quot;?,7prtl 3, 1812. //. R.  
 4. 44 An ict supplementary to the ac:s heretofor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848111101:0388/pct:19.826839826839826,45.82912316155832,15.743145743145742,3.1772762995396877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848111101:0388/pct:19.836459836459838,45.83286553646944,15.733525733525733,3.184761049361925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ in cases of the absence or disability of the judges
 thereof. Jpril o, 1812 i K.  
 4. An act supplementary to the acts heretofor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848111201:0563/pct:204.12984091274305,27.152166457070997,45.460388879961435,6.299302618040471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848111201:0563/pct:68.04328030424769,9.050722152356999,15.153462959987145,2.0997675393468236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ thereof. Jpril o, 1812 i K.
 the respective District Courts of the United States in  
 case of the absence or disability of the judges t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848111601:0124/pct:267.6449009537784,131.14939282688505,59.51944240645635,6.001129624399887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848111601:0124/pct:66.89895470383276,32.78271918678526,14.877131854025308,1.5000705915572496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ in case of the absence or disability of the judg­
 es thereof. April 34, 1812, H. R.  
 4, An act supplementary to the acts here
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848112501:0981/pct:118.27956989247312,39.0269285807207,48.54838709677419,8.911148692597893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848112501:0981/pct:29.56459415875291,9.755463059313215,12.134922056979036,2.2274973985431843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ thereof.”
 ti. Bill oot approved, nor returned with ol&gt;-  
 jcctlons, for want of time,—retained, and notic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879032901:0016/pct:85.52460296797709,26.422275641025642,12.887268940380109,2.984775641025641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879032901:0016/pct:85.54412913303827,26.427283653846153,12.880760218693048,2.979767628205128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -688,7 +688,7 @@ subscribers of the Bank of tbe United States
 of America.&quot;  
 8. Returned to the House of Representative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879040301:0207/pct:73.72936225315637,50.81730769230769,10.893493039818711,5.528846153846154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525462:1879040301:0207/pct:73.71743000485516,50.81120057685374,10.895776015536494,5.531186155510155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

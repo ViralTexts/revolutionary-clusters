@@ -136,7 +136,7 @@ ought to be left free. Adieu, my dear sir yours ever,
 A. HAMILTON.  
 O. WoLcorr, Esg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530236:1845112401:0077/pct:2.5042510434379346,96.5553235908142,41.66022569176071,110.51960102064486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530236:1845112401:0077/pct:0.8347503478126449,32.185107863604735,13.886741897253568,36.83986700688162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ ments, in which he ought to be left free. Adieu,
 my dear sir. Yours ever, A, HAMILTON.  
 O. Wolcott, Esq
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1845112601:0176/pct:23.286706249371036,16.81534643503924,14.924021334406763,51.82104768931518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1845112601:0176/pct:23.284363050915676,16.814218645204562,14.925873750586973,51.81980773530069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ that he has formed himself upon the model of Catiline, and
 he is too cold-blooded and too determined a conspirator ever  
 to change his plan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845112901:0269/pct:82.80412371134021,32.189829022358616,15.793814432989691,29.17580008768084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845112901:0269/pct:82.81328751431845,32.19713575916995,15.79839633447881,29.172146719275172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ partments, in which he ought to be left free.
 Adieu, my dear sir. Yours ever,  
 O. Wolcott, Esq. A. HAMILTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845112901:0269/pct:82.72164948453609,61.25602805786936,15.381443298969073,19.048662867163525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1845112901:0269/pct:82.72164948453609,61.263334794680695,15.399770904925544,19.048662867163525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ and In- situat rn and his habits will oblige
 III! expedients  
 restruiiifd iy n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1845120501:1124/pct:89.23550087873463,7.459066100667071,38.027240773286465,121.63432383262584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1845120501:1124/pct:66.95231817183037,5.594299575500303,28.52120413096023,91.23711340206185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ Adh-n, my dear sir. Yours, ever,
 A. HAMILTON.  
 0, Woleott, Cf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1845120501:1124/pct:108.28207381370827,79.33596118859916,19.090509666080845,10.627653123104912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1845120501:1124/pct:81.23489343001538,59.50576106731352,14.326521643594814,7.974530018192844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ left free. Adieu, my dear eir.
 &quot;A. HAMILTON. i  
 &quot;0. Wolcott, esq.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845121301:0784/pct:59.64060223409422,36.359032788960626,16.83665209648697,46.52487656665401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845121301:0784/pct:59.64060223409422,36.367472675866146,16.85823754789272,46.52065662320125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ am of the opiuion that this party has hitherto solid
 aas w a e   
 claims of merit with the public, and so long as it doe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191290:1845121301:0245/pct:24.035087719298247,106.74856810824272,58.728070175438596,31.244293185025317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191290:1845121301:0245/pct:6.008771929824562,26.68714202706068,14.682017543859649,7.811073296256329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ great departments, in which he ought to be lelt free.
 Adieu, my dear sir, yours ever. A HAMIILTON.  
 O. WoLcorT, Esq.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191290:1845121301:0245/pct:23.50877192982456,138.52411388727484,63.64035087719298,157.74881713289616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191290:1845121301:0245/pct:5.87719298245614,34.63102847181871,15.910087719298245,39.43720428322404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1265,7 +1265,7 @@ Fata line.”
 Dunne, the editor of the Aurora,  
 one of the organs of Jetlerson, was on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896092701:0196/pct:21.91780821917808,21.26391543910941,14.19822723609992,5.093894073990779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891996:1896092701:0196/pct:21.928552242814934,21.26766370553619,14.187483212463068,5.097642340417557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -574,7 +574,7 @@ mines
 Herself the glory of a creditor,  
 Both thanks and use.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898012001:0067/pct:6.989829041333045,39.568345323741006,13.936377407487557,3.347526060784026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898012001:0067/pct:6.988316745997404,39.56253669994128,13.93877109476417,3.350704638872578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

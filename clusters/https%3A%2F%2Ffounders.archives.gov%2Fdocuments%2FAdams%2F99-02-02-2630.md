@@ -348,7 +348,7 @@ spected and honored as tho representative
 of a great, free, powerful and Independent  
 nation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777456:1898032501:0116/pct:94.15959907478798,92.97491039426524,16.653816499614496,2.996415770609319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777456:1898032501:0116/pct:70.63813379602853,69.73476702508961,12.49277038750723,2.25089605734767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

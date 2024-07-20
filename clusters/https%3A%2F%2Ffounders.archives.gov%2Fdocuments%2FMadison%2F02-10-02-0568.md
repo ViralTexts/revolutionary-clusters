@@ -181,7 +181,7 @@ for which I have not yet got a single
 sous.&quot;  
 ■I—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806030301:0003/pct:3.247311827956989,2.504399620955733,37.8494623655914,95.31609584405035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806030301:0003/pct:3.2544802867383513,2.5134244844546725,37.86379928315412,95.32060827579983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ ss tion ofthe New-jerch ,ctsid sings}; is
 si subsisting- inasmuch 35&quot; has si-Osi e &#x27; ci­  
 nulledb&#x27; [! d Of councllCs Pn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030701:0288/pct:75.97592713077424,54.2167516107318,21.19388418998048,39.167227618040194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030701:0288/pct:75.96357131240852,54.21153846153846,21.19585840516073,39.166666666666664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ w gbaodoned, end that the under­
 _ couldnot- be siadtnittcd, inasmuch as it  
 &#x27;Mnocaow be liquidaled under the rul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030701:0289/pct:3.424545305587416,20.649138014061446,19.678846468949697,9.66002118848117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030701:0289/pct:3.4239842726081258,20.647149460708782,19.681083442551333,9.662300975860298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ sszou will thmk an I did, ] have no doubt,
 thculiuform you, that there are claims  
 mouoting tomore than three million, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030701:0289/pct:2.310339177453711,34.94173167677935,20.891364902506965,20.417990946739863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806030701:0289/pct:2.3099606815203146,34.93836671802774,20.893403232852773,20.419234720082176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ fth divili.in, dated ot! the 13th Germinal, and m /
 !&gt;t- d.jcftcd &gt;iiio the l ilow mg head#.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806030701:0382/pct:76.54160475482912,75.02896125627494,18.183506686478456,21.276869609988417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806030701:0382/pct:76.52739090064995,75.01930501930502,18.186320024760136,21.278421278421277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ circumfiances of the claimants, for which I have not
 yet got k angle iou».”  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806030701:0383/pct:4.783175134933929,0.6044238683127572,18.592964824120603,34.38786008230453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806030701:0383/pct:4.782285076293264,0.6043461489006043,18.595707728569657,34.387724486734385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ ants, lor which I have not yet got a single sous.&quot;
 Hiiircn /,  
 Our renders will perceive by our Journal of Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806031001:1000/pct:49.00941059930659,2.4538893344025663,44.1802872709262,95.44506816359262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806031001:1000/pct:48.997276553602376,2.45349583066068,44.17553849962862,95.43377164849262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

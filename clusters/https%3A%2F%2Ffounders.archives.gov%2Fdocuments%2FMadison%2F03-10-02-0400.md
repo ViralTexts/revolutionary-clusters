@@ -449,7 +449,7 @@ the dale hereof, to import and bring into this pro­
 vince, from the United States of America, in Bri­  
 tish built ships or vessels owned and navigated ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810062001:1142/pct:5.625,35.30840213695969,21.1,2.687388700016189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810062001:1142/pct:5.623594101474631,35.302686953706704,21.100974756310922,2.6910003237293623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ to import and bring into this province, from
 the United States of America, in British built  
 ships or vessels owned and navigated accor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810062201:0056/pct:60.46183677066808,43.77761413843888,16.6931077031553,2.8595974472263133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810062201:0056/pct:60.45118082481495,43.77224199288256,16.696040418282223,2.863337014766638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ da, Nova-tcotia, and New Bruns­
 wick.  
 Canada.• N. S. N. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816042601:0096/pct:26.72888616891065,8.512746599405459,37.14810281517748,89.30726961534997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816042601:0096/pct:26.72479730763347,8.511979823455233,37.147519249400844,89.302227826818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ vhich are admitted, except provision*,
 ay a duty ol thirty-three and une-third,  
 t)er centum.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816042601:0096/pct:45.532435740514074,32.897937122781734,18.34455324357405,64.70588235294117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816042601:0096/pct:45.52547039926572,32.89497387858044,18.3468461577686,64.7030565063352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1033,7 +1033,7 @@ pleasure of the govn per. accaidif? ■
 die deiDi-mls f- t th* current exPe:lt(JG  
 of fHe different c&lt; loni« s. ie&lt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816042601:0096/pct:63.98408812729498,5.395910278353302,35.97001223990208,92.57724529321683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816042601:0096/pct:63.97430013767784,5.395424247883264,35.96960889296823,92.57190896535158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

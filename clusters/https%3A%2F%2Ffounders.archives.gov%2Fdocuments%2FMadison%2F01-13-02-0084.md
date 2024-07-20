@@ -37,7 +37,7 @@ in all cases while on their paflages to the United
 States, or to foreign ports, as far as it refpetfts  
 the citizens of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790031001:0004/pct:9.153175591531756,73.1246308328411,27.24159402241594,8.033077377436504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790031001:0004/pct:9.153175591531756,73.1344752904115,27.257160647571606,8.02815514865131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -61,7 +61,7 @@ the United States who are concerned in th- Afr ? T&quot;f
 Applying Foreigners with slaves; and to providefoMhei h &#x27;  
 treatmcnt, wh,:e on their passages to the United Stlte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790032001:0002/pct:37.547649301143586,85.72553652293759,27.73189326556544,6.635164402441426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790032001:0002/pct:37.55559085133418,85.74030320929317,27.763659466327827,6.625319944871038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -103,7 +103,7 @@ their pafloges to the United States, or
 to fqggiegéo_rtwas far as it refpefts the  
 citizens of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790033101:0565/pct:47.33953710331663,15.851239669421487,19.94750656167979,9.239669421487603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790033101:0565/pct:47.34749065457727,15.851239669421487,19.95546011294043,9.239669421487603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ and to provide for their humane treat­
 ment, while on their passages to the  
 United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790040701:0569/pct:70.04107272287992,67.84282277465918,20.65716356607876,5.613472333600641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790040701:0569/pct:70.04912619795442,67.84282277465918,20.65716356607876,5.629510825982358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ during the paflfage of slaves imported
 by the citizens, into the said States ad­  
 mitting such importation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790041401:0574/pct:9.14765906362545,54.569977784830215,20.576230492196878,13.091082196128212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790041401:0574/pct:9.14765906362545,54.57526711097006,20.576230492196878,13.096371522268063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ providing by proper regulations for the humane
 treatment, during their passage, of slaves imported  
 by the said citizens into the Slates admitting suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829062301:0057/pct:49.20216886134779,56.0837844198635,14.63981409759876,6.660390680160037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829062301:0057/pct:49.19454770755886,56.07718555124132,14.642709624122263,6.663529042632467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ of slaves, in all cases, while on their passages
 to the Unitod State&#x27;s, or to foreign ports, as tar  
 as it respects the citizens of tho United States. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853091501:0832/pct:33.529411764705884,38.92468981436953,14.985994397759104,4.164662883524094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853091501:0832/pct:33.529411764705884,38.927895867397645,14.995331465919701,4.16786893655221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ while on their passage to tho United
 itntes.  
 The committee then rose, and the House admirne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853092201:0836/pct:33.55318551782206,17.064485081809433,14.075217513331463,10.923965351299326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853092201:0836/pct:33.56254092992796,17.067693294834775,14.079895219384413,10.92717356432467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ slaves in all oases while on their passago to tho
 United States, vr to foreign ports, so far as respects  
 the citixrns of the I mt? d Stale
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853092201:0836/pct:33.45495369071008,80.17324350336862,14.594442885209093,3.8209817131857555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853092201:0836/pct:33.45963139676303,80.17645171639397,14.599120591262045,3.8241899262111003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ slaves, and to provide for their humane treatment
 while on their passage to the United  
 States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853092201:0837/pct:33.24037925264919,24.718885151369534,13.636363636363637,2.671792407496396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853092201:0837/pct:33.24037925264919,24.725292327406695,13.641011340397844,2.671792407496396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ slaves, in all oaae* while on their passage to tho
 I&#x27;nited State* or to foreign port* so far as respect*  
 tha oititens of the I&#x27;nited State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853092201:0837/pct:33.156720580033465,80.41326285439692,14.43112102621305,3.8443056222969725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853092201:0837/pct:33.156720580033465,80.41326285439692,14.440416434281465,3.853916386352715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ foreigners with slaves, and of providing by proper
 regulations, for the humane treatmeut during their  
 passage of slaves imported by the said citizens int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1858092401:0126/pct:30.893716285172765,23.745851114272167,13.660883510715848,2.3423423423423424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1858092401:0126/pct:30.893716285172765,23.749012170064802,13.665743305632502,2.345503398134977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

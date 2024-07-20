@@ -71,7 +71,7 @@ clearly and intelligibly, and in few
   
 wor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470338:1853121501:0604/pct:12.528473804100228,94.03444735941599,15.746013667425968,4.243184669784418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470338:1853121501:0604/pct:9.397693293464332,70.525835519562,11.818311262993022,3.182388502338314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ the opinion of the learned) ought to be
 qualified with an extensive acquaintance  
 with the languages,” etc. Of the papers pub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880112801:0004/pct:57.07983193277311,53.94919168591224,13.298319327731093,4.234026173979984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880112801:0004/pct:57.095588235294116,53.95304080061586,13.298319327731093,4.237875288683603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

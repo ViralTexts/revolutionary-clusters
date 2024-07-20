@@ -56,7 +56,7 @@ as not to stand in need of a proper opportunity.
 a patron, and even the praises of a friend, to  
 recommend them to the notice of the world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1864060301:0303/pct:247.01640271493213,106.23229461756374,37.85350678733032,32.213678672602185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1864060301:0303/pct:82.3271596210943,35.40718259989884,12.616051651821481,10.736806609340752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ It is uot so difficult a task to plant new
 truths as to root out old errors, for there  
 is this paradox in men—they run afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1875042201:0211/pct:77.32444095723814,75.51125269756449,9.977769059761998,10.759428630151064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83032058:00296028733:1875042201:0211/pct:77.32879996512794,75.51125269756449,9.99084608343141,10.762854108861713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ popular concerts in London, and his
 patron was discovered in Arthur Chap­  
 pell. The friend to recommend Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_onamia_ver01:data:sn90059522:00206536913:1896030201:0028/pct:69.3950177935943,70.82263530861661,12.398576512455517,4.457225017972681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_onamia_ver01:data:sn90059522:00206536913:1896030201:0028/pct:69.40450771055754,70.82263530861661,12.393831553973902,4.46407175379138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ If it were not for labor men
 could neither eat so much, nor  
 relish so pleasantly, nor sleep s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_elizabethtown_ver01:data:sn86090439:00517175171:1896061901:1375/pct:43.82239382239382,69.08890290037832,16.336872586872587,17.843631778058008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_elizabethtown_ver01:data:sn86090439:00517175171:1896061901:1375/pct:43.83445945945946,69.08890290037832,16.336872586872587,17.85545397225725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ world.--I liny.
 Only Chinese women of high rank  
 have their feet bandaged. To hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1896081501:0179/pct:115.18544436668999,330.9838857592035,43.94681595521344,18.655836499410455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1896081501:0179/pct:28.80139982502187,82.74597143980087,10.988626421697289,4.663959124852614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ and even the praises of a friend, to
 recommend him to the notice of the  
 worid.—x&#x27;b .0
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177325:1896082701:0306/pct:29.451553930530164,97.76656151419559,18.244972577696526,22.52365930599369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177325:1896082701:0306/pct:22.825162935675827,75.77012093751019,14.149428544441296,17.465853897056427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ patron, and even the praises of a
 friend, to recommend him to the  
 notice of the world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192245:1897011301:0195/pct:38.25281270681668,65.79141466292964,12.524818001323627,7.287210503024045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:00202192245:1897011301:0195/pct:38.26108537392455,65.79141466292964,12.524818001323627,7.290898362590353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

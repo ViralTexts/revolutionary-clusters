@@ -1015,7 +1015,7 @@ ing performed by the indolent, must
 naturally fall to the share of others,  
 who must thereby fuffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790081201:0644/pct:8.818555206571636,37.88341095230448,20.971249093984053,41.737594347197685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790081201:0644/pct:8.82660868164613,37.88341095230448,20.971249093984053,41.75365344467641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1119,7 +1119,7 @@ executed, would make money as plenty, and of
 as little value. I fay, are not fa eh laws akin to  
 those Spanish edicts ; follies of the fame fatniW »
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111901:0001/pct:62.59469696969697,79.17722752973289,27.46212121212121,12.439071943848704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791111901:0001/pct:62.59469696969697,79.1918502632092,27.485795454545453,12.439071943848704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1286,7 +1286,7 @@ nations. No nation was ever mined
 by trade, even seemingly the most dis­  
 . advantageous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808101701:0484/pct:76.09697797507256,35.90671491757137,18.558989243640088,26.759147567350222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808101701:0484/pct:76.08398770911575,35.903105839782896,18.56008876749744,26.758970750829228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1573,7 +1573,7 @@ science ol politics, who knows tlie lull
 lor&lt; e ol that maxim, hop pouvernert  
 not to govern loo much 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820042101:0439/pct:49.721128608923884,27.09062386871003,14.5997375328084,11.33100036201279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1820042101:0439/pct:49.71297359357061,27.087355212355213,14.602810125198184,11.333655083655083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2190,9 +2190,9 @@ der pretence of public good.”
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1838-05_2_6/page/n43/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1838-05_2_6/page/n43/mode/1up?view=theater)
 
-#### 1838-05-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1838-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2302,7 +2302,7 @@ ally fill to the share of others, who must there
 by suffer. -  
 Walking on the Water. A gentteman 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841122201:0208/pct:7.376126126126126,109.55798587377535,20.11542792792793,8.054226475279107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841122201:0208/pct:5.534431770173215,82.17133743449533,15.096465286579354,6.037821827295511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2381,7 +2381,7 @@ indolent, must naturally fall to the share of
   
 others, who must thereby suffer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1842091601:0092/pct:104.20155502392345,93.2529297986119,21.336722488038276,7.4411195812948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87090028:00295877959:1842091601:0092/pct:78.1899775617053,69.93969734895893,16.020942408376964,5.586528615314598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2451,7 +2451,7 @@ want.
 commerce, each may hurt himself as much as  
 his enemy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843081501:0538/pct:21.69605128952353,72.31837496113587,14.629170916508816,2.476940615607835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843081501:0538/pct:21.70576521443489,72.31837496113587,14.619456991597454,2.480395205029882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2494,7 +2494,7 @@ would the nations. No nation was ever ruined
 by trade; even seemingly, the most disadvanta­  
 geous.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843081501:0538/pct:21.535771528486084,75.22023007565551,14.804021564913302,13.856358171831278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843081501:0538/pct:21.545485453397447,75.22368466507756,14.799164602457623,13.856358171831278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2516,7 +2516,7 @@ that be is well advanced in the science of politics, who
 knows the full foree of that maxim—Pas trop Gouverner,  
 Not to govern too much.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843122601:0614/pct:81.99376021393552,67.2913646717747,14.78235031941762,3.3029612756264237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843122601:0614/pct:82.00366463626008,67.29481604196866,14.787302530579904,3.306412645820391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2552,7 +2552,7 @@ world, as it is between the spveral counties of England:
 so would all, by mutual communication, obtain more  
 enjovinents.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844030101:0302/pct:32.283348121857436,41.17815817155972,15.956817509612542,9.56297217175098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844030101:0302/pct:32.283348121857436,41.181345828950306,15.956817509612542,9.56297217175098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2626,7 +2626,7 @@ ven, seemingly, the most disadvantageous.
 From these remarks it is clear, that Dr. Franklin’  
 uotion of protecting trade or industry was,merely to ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844040901:0058/pct:52.15927389840434,4.0780688238315355,30.273752012882447,89.08063687724704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844040901:0058/pct:52.169033328453615,4.0780688238315355,30.273752012882447,89.08406094846772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2647,7 +2647,7 @@ POLITICAL BLUNDERS OR JOBS OBTAINED BY
 AHTFDL men for private advantage  
 UNDER PRETENCE OF PUBLIC GOOD.&quot; Ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1845082001:0448/pct:41.482391482391485,66.58367911479945,21.94922194922195,6.90179806362379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065704:00295877571:1845082001:0448/pct:31.134780827529703,49.944674965421854,16.46866038508808,5.172890733056708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2680,7 +2680,7 @@ havelbeen of little more value than so
 mucht lead os iron. Their plenty would  
 have lessened their valne.-FRAnKLIsT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874429:1852032701:0285/pct:131.70037926675096,253.79890809827114,39.30151706700379,15.696087352138308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874429:1852032701:0285/pct:43.90012642225032,84.59963603275705,13.100505689001265,5.232029117379436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2782,7 +2782,7 @@ ally fall to the share of otheis, who must thereby
 Soifer.  
 For the Spy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172078:1858112701:1109/pct:58.206896551724135,78.4692417739628,16.098522167487683,21.158798283261802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172078:1858112701:1109/pct:45.11580554848562,60.81380737674625,12.481547467548994,16.3981077684973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2850,7 +2850,7 @@ of public good.&quot; This is a sweeping
 condemnation, and we accept it with reserve.  
 But one of the most learned and philosophica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040201:0033/pct:55.38334707337181,95.45875810936052,46.26545754328112,22.323911028730304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040201:0033/pct:18.461115691123936,31.819586036453508,15.421819181093706,7.441303676243435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2891,7 +2891,7 @@ political blunders or jobs obtained by artful
 men for private advantage under pretence of  
 public good. If he had lived to witness th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533456:1874082101:0868/pct:242.80359820089956,221.46152701294835,49.70014992503748,11.192141687751153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533456:1874082101:0868/pct:60.70089955022489,55.36538175323709,12.42503748125937,2.7980354219377883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3156,7 +3156,7 @@ about them. It is the only Demo­
 cratic district iu Chicago.” Doubt­  
 less Mr. Lawler thought he wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521638:1888061401:0319/pct:4.684040197581332,58.05422647527911,16.147164026571282,25.23353839143313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521638:1888061401:0319/pct:4.695395446545166,58.05422647527911,16.147164026571282,25.2449305080884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3213,7 +3213,7 @@ tion obtain more enjoyment These counties
 do not ruin one another by trade neither would  
 the nation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048637:1892041701:0286/pct:25.957854406130267,19.98188610890977,18.837803320561942,3.600135854183177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048637:1892041701:0286/pct:17.310763334397954,13.325031133250311,12.567869690194826,2.4000905694554513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3243,7 +3243,7 @@ ly necessities permitted to be pur­
 chased, men would work no more than  
 was necessary for that purpose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn90061371:00294557179:1895031301:0125/pct:74.20382165605096,22.306684141546526,15.994338287331917,3.892529488859764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn90061371:00294557179:1895031301:0125/pct:55.68141592920354,16.73656618610747,12.0,2.9226736566186107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3283,7 +3283,7 @@ ly necessities permitted to be pur­
 chased, men would work no more than  
 was necessary for that purpose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556874:1895031401:0301/pct:62.028160575194725,10.589980600251055,28.145596165368485,116.36425881547416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556874:1895031401:0301/pct:46.538807311956845,7.9424854501882916,21.111777045250225,87.27604701586215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3307,7 +3307,7 @@ Franklin.
 from folly&#x27;, meanness and vanity than  
 from the greater sins of avarice an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn84022980:00393342961:1895031501:0110/pct:69.0524754311144,23.28974535443909,12.219543853142962,5.53337921541638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn84022980:00393342961:1895031501:0110/pct:69.03967371153134,23.28654004954583,12.221913236929922,5.536058353977429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3348,7 +3348,7 @@ ly necessities permitted to be pur­
 chased, men would work no more than  
 was necessary for that purpose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292558:1895031601:0684/pct:187.38532110091742,23.19396847155586,96.86544342507645,353.39273474982866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292558:1895031601:0684/pct:46.85528579621487,5.798492117888965,24.220990250430127,88.34818368745717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3390,7 +3390,7 @@ ly necessities permitted to be pur­
 chased, men would work no more than  
 was necessary for thot purpose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn89066235:00280779738:1895031601:0244/pct:57.35507246376812,8.536415541011001,30.76086956521739,119.0920484612171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn89066235:00280779738:1895031601:0244/pct:43.04875838317926,6.405793065032725,23.074134493384086,89.31903634591282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3482,7 +3482,7 @@ es in consequence.
 A writer In a popular magazine says  
 that &quot;no arguments are worthy ot se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:00416156761:1897102101:0170/pct:16.55534351145038,52.198185624563855,17.22328244274809,15.631542219120727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:00416156761:1897102101:0170/pct:12.424435252943049,39.148639218422886,12.917594654788418,11.723656664340544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

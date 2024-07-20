@@ -73,7 +73,7 @@ What will the people in Europe now say, even
 in England and Scotland, when they hear of the  
 persecution by the Protestant inquisition of Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743324:1859081501:0952/pct:202.38095238095238,40.958268933539415,96.79162445119891,102.27083581024849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743324:1859081501:0952/pct:67.46031746031746,13.652756311179804,32.26387481706631,34.09027860341616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ ee eton e i po eu lesa
 to them. These fraternizations of the miltia  
  egimeats of the iferent States are now bsco
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743324:1859081501:0952/pct:202.2965214454576,60.123647604327665,93.81965552178318,69.21888003804541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743324:1859081501:0952/pct:67.43217381515254,20.041215868109223,31.27321850726106,23.072960012681804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ ments.” So wrote the patriot and statesman
 upon tlie anniversary of whose birth you ate  
 assembled; and to the Democracy It is expo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558005:1865070101:0110/pct:18.13491305178674,66.08251690354629,14.29390407032295,4.512211949772319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558005:1865070101:0110/pct:18.144467800496848,66.0859666068718,14.289126695967896,4.515661653097833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ the particular ones are into legislative
 executive and judiciary The firsthand last  
 are already separated The second shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048431:1891012501:0207/pct:4.356060606060606,64.2713004484305,12.531565656565656,6.165919282511211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048431:1891012501:0207/pct:4.356060606060606,64.2713004484305,12.531565656565656,6.17339312406577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ l alive executive and judiciary The first and
 he last are already separated The second  
 should be1 In speaking of this the historia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048674:1892012401:0194/pct:46.553367217280815,81.44622010653973,18.678526048284624,7.967811402017454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048674:1892012401:0194/pct:31.05037343079612,54.301258075484526,12.458286985539488,5.311874268011636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ tween the general and particular govern­
 ments &quot; During the administration o  
 John Q Adams the alien and sedition law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_mazama_ver01:data:sn84022644:00295868351:1893041401:0193/pct:9.750733137829911,67.37571982606651,12.961876832844574,4.465859677988012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_mazama_ver01:data:sn84022644:00295868351:1893041401:0193/pct:7.3188618363156355,50.53472793512751,9.724259313581696,3.3493947584910093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

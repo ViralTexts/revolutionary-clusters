@@ -99,7 +99,7 @@ some reason) we have upward of fifteen hundred,
 and the list daily increasing.&quot;  
 His duties and associations tended to speedil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876061501:0631/pct:41.9906407487401,87.87368421052632,16.360691144708422,4.926315789473684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876061501:0631/pct:31.514496668467494,65.90877192982457,12.281649558797046,3.6912280701754385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ magazine, but, having little or no turn that
 way himself, he has applied to me for assist­  
 ange. slshteen months Paine edited th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045053:1892111301:0169/pct:78.38444278234854,126.36363636363636,49.06507105459985,21.21212121212121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045053:1892111301:0169/pct:19.60710944808232,31.59090909090909,12.273152478952293,5.303030303030303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

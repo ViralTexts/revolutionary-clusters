@@ -142,7 +142,7 @@ We alfijre the Prefident that the fen- n,
 1 ed complaints redreiT d, if practicable, we t i  
 are fully perl&#x27;uaded. If it be an objeft, 14 to f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801072901:0002/pct:5.455407969639468,6.048565121412803,44.07020872865275,89.77189109639441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801072901:0002/pct:5.455407969639468,6.048565121412803,44.07811511701455,89.78170223203335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ It may i e laid that the appointment was with
 , a riew to the aid of his f n Abrahrm Bilhop,  
 &lt;}- an 1 that be is to be the real Collector
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801080301:0643/pct:0.47802904945762087,19.42309716812296,21.235521235521237,40.793767765027894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801080301:0643/pct:0.47794117647058826,19.42105263157895,21.236213235294116,40.79210526315789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ the public
 I tion of those infirmities which are incident  
 to that advanced period of lif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801083101:0001/pct:48.67172675521822,71.79263142565895,21.18121442125237,2.257171981942624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801083101:0001/pct:48.67172675521822,71.80233969224795,21.212839974699556,2.2668802485316246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ nue laws, grant, what however may be
 doubted, that he was totally unacquainted  
 with them when appointed, what follow 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801083101:0001/pct:70.2561669829222,30.974224552206202,21.01518026565465,16.688510266491917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801083101:0001/pct:70.264073371284,30.983932818795203,21.030993042378242,16.693364399786418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ his fellow-citizens,” to that degree thar chey
 prefumed ¢ his warmelt partizans would not  
 have hazarded a recommendation for Li,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1801102401:0016/pct:46.009389671361504,13.981125480601188,21.107198748043817,4.800186415006408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1801102401:0016/pct:46.02243088158581,13.981125480601188,21.107198748043817,4.807953706940076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1069,7 +1069,7 @@ by Mr. Goodiich was conducted with a
 promptness, integrity and ability, satisfactory  
 to the mercantile interest in the state.” Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805050101:0481/pct:73.1977342945417,84.93683187560738,22.425334706488158,10.090702947845806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805050101:0481/pct:73.17889317889318,84.92307692307692,22.425997425997426,10.093117408906883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

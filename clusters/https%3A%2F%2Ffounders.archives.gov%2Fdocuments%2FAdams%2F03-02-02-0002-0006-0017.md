@@ -731,7 +731,7 @@ food she has gathered. It is to those who
 want good and look for it, that God gves  
 good abundantly. “ Blessed are they whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1874070101:0258/pct:19.46374162096283,47.18116191130973,12.455819622181597,15.460639394981094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1874070101:0258/pct:19.461369729466245,47.17710750193349,12.458363798846372,15.462175245624588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ to them that walk uprightly. He
 keepeth the paths of judgment, and  
 preservetb the way of his saints
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769465:1882060801:0605/pct:31.902737177783685,59.50497058226821,11.985118256710072,7.821059038344492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769465:1882060801:0605/pct:31.911595358313402,59.50497058226821,11.98954734697493,7.827821735308041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -941,7 +941,7 @@ treasures ; then shall thou understand the
 fear of the Lord and find, the knowledge  
 of God. For the Lord giveth wisdom 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016135:1888122001:0408/pct:17.01919310614963,14.078354002254791,24.44183313748531,80.87655016910935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016135:1888122001:0408/pct:17.015860583512826,14.076370297308722,24.44194243195614,80.86867690573482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ of God. For the Lord giveth wisdom
 If thou criest after knowledge and liftest up  
 thy voice for understanding, use A. B. C. Tonic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654772:1890081501:0327/pct:2.9681862905870777,11.39560043274432,13.397835355854378,1.6468325519894218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654772:1890081501:0327/pct:2.9722859954083307,11.39560043274432,13.406034765496884,1.652842889770405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

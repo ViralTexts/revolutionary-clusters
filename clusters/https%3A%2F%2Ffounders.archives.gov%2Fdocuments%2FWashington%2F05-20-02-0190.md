@@ -74,7 +74,7 @@ have been, committed ctan tntentibnal er­
 ),  
 ror.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805052701:0160/pct:50.99033433687213,30.18072853263414,22.94406591665346,26.0979492461841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805052701:0160/pct:50.98225602027883,30.177902621722847,22.945711871567386,26.098626716604244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ course ofmy administration ; howeversi
 numerous they may have been com­  
 mitted an intensitionai error.&quot; si 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805061901:0237/pct:45.44605324614666,31.38288038454428,23.291296901759303,30.96690700684045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805061901:0237/pct:45.43897882938979,31.379979665403457,23.2928601079286,30.967125735588624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ errour.”
 The following is a transl ation of the most interesting  
 parts of an ordinance of the council of stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805062901:0577/pct:27.97979797979798,71.36613790870832,21.31313131313131,17.966979605050177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805062901:0577/pct:27.9727341580409,71.35458812105519,21.314062105528908,17.96811781841722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ consolation of knowing that I have not, in the
 nuiBcrotls they may have have been, commit­  
 ted an intentional error.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811102601:0342/pct:8.711738984191053,61.34045653229723,21.695257315842582,20.242836328314716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811102601:0342/pct:8.71027408777535,61.33449883449884,21.697214281710668,20.244107744107744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ than their intrinsic merit entitled them to ;
 and surely not with a view to bring any  
 of my own relations into office.’’ An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1871081001:0544/pct:74.08343868520859,9.327774882751433,11.287700921076395,5.2631578947368425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1871081001:0544/pct:74.07006139400505,9.326559854109679,11.290176959191044,5.265728800312622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ their intrinsic value entitled ,them to; and
 surely not with a view to bring any of  
 my ownrelations into office.&quot;1 Thoma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871081001:0138/pct:24.677835051546392,24.001889912591544,14.577963917525773,7.193479801559178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871081001:0138/pct:18.517324738114425,18.001417434443656,10.942788074133762,5.398062839593669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

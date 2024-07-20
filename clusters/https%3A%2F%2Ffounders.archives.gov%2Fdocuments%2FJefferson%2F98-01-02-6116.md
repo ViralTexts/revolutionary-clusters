@@ -250,7 +250,7 @@ he Memoirs, 1 am not able toouote it.. y ,
 am It., said there that about the time of T.Oe  
 on’s expedition op the North branch 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826102701:0210/pct:65.89928057553956,3.2285266835321047,31.60671462829736,93.39838573665823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826102701:0210/pct:65.88874680306905,3.228137798120935,31.60699062233589,93.39115072673252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ father s work ; and with them I pray you to ac­
 cept assurances of my gieat esteem and respect,  
 TH. JEFFEliSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826102701:0211/pct:1.691399393649274,1.9363427326636815,15.190681346736875,15.56335471378434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826102701:0211/pct:1.691129546904914,1.936108422071636,15.193575834928739,15.565505001613424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1278,7 +1278,7 @@ n socond at noon, » third in the eveaing,
 on one .‘%u hour for the cmrﬂy  
 of another. is [ saw myself on the late.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826111601:1168/pct:77.40069417662939,17.208323591302314,19.282684149633628,77.37900397474866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826111601:1168/pct:77.40712173801259,17.212220403709765,19.282684149633628,77.37900397474866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1461,7 +1461,7 @@ father&#x27;s work, and with them I pray vou
 to aceept assurances of my great esteem  
 and respect, TII. JLF%‘ERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826111601:1169/pct:6.233571160345475,4.764698978993076,36.23732632369508,90.00117357117709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826111601:1169/pct:6.239829765928151,4.7686108829167155,36.24984353486043,90.00508547510073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

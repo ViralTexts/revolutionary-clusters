@@ -115,7 +115,7 @@ prompt as well as the most ef­
 fectual prohibitory measures, in c  
 to put an end to its cause ; and he sei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806011701:0001/pct:3.377354405715523,34.078590785907856,18.597098939164322,52.289972899728994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806011701:0001/pct:3.377354405715523,34.078590785907856,18.618748646893266,52.29900632339657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ ment of the Lnited States will take the most prompt,
 as well as the most effectual prohibitory measures,  
 in order to put an end to its cause ; and be seize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806012001:0917/pct:31.381563029276556,2.5115981442969124,42.58407936123881,94.16093425051992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806012001:0917/pct:31.373971940009675,2.5111964171465133,42.57982583454282,94.1498720409469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ eystem ol robbery_(brigandage) are so evi- si
 .Mgsisiw generally acknowledged. and a-,  
 dopted not only by all nations,si who have a c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012001:0136/pct:4.311183144246353,31.14428800907115,24.32739059967585,8.825474818104507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012001:0136/pct:4.310484524388268,31.14134542705971,24.328849997299194,8.827790375409423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ dopted not only by all nations,si who have a c
 &quot;success&quot; of this ignoble and criminai trsiaf­  
 &#x27;-fic by the use of force. T he vessels des
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012001:0136/pct:4.311183144246353,59.1042237550789,23.517017828200974,1.927619767551734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012001:0136/pct:4.310484524388268,59.09863945578231,23.518608545346513,1.9305870496346687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ Domingo,ssto-that face of African slaVes,
 the reproach,-and the relnsc of nature;  
 it was moieoverss necessary to insure the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012001:0136/pct:4.635332252836305,39.657941982424646,23.970826580226905,19.691958801852028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012001:0136/pct:4.634581105169341,39.65419501133787,23.972343758440015,19.693247669438147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ si ; &quot;&#x27; lene evident than &#x27;thess.pr_inciplessiwhich
 ed todozebtthauhossgovermm of me U.  
 &#x27;sssmee sswiii teke the most promptctas well a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012001:0136/pct:4.311183144246353,66.21940848530663,24.440842787682335,23.377114239818578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012001:0136/pct:4.310484524388268,66.21315192743764,24.44228380057257,23.378054925673972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ molt prompt as well as the molt
 effedtual prohibitory meafures,  
 , in order to put an end to it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806020301:0771/pct:1.825068870523416,12.438868807144376,36.63911845730028,85.10525196682968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1806020301:0771/pct:1.8247546909967292,12.437546507919635,36.6371148218282,85.09886254916552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ the U. States will taka the most prompt
 as well as the most energetic measures,  
 in order to pot an end to its causa ; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806020401:0045/pct:23.45124461912783,38.94736842105263,17.53696425229272,51.228070175438596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806020401:0045/pct:23.44685628742515,38.94230769230769,17.539920159680637,51.22574497574497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ And certainly the maderfigned, io ﬁo%ing him­
 felf called by his duty, 2» well a 0 by his iocli.  
 paticn, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806020601:0692/pct:69.64692482915717,43.58914365933552,20.178435839028094,13.547028544688816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806020601:0692/pct:69.65325234117945,43.58914365933552,20.178435839028094,13.558727187646234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ take the moft prompt, ss well a the moft effec­
 teal probibitory mesfares, in order to put an  
 end to its caufe ; and he feixes with eagerncl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806020601:0692/pct:69.11541381928626,58.10715956948994,21.867881548974943,31.024801123069725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806020601:0692/pct:69.11541381928626,58.10715956948994,21.880536573019487,31.040399313679615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1016,7 +1016,7 @@ the most effectual prohibitory measures, in order to put an end to it
 these complaints, is to put an end to the tolerance,  
 which produces them.” And again, “ Your si
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808032801:1054/pct:27.08653353814644,44.7495183044316,22.094214029697902,2.0391779062299293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808032801:1054/pct:27.0796007166624,44.74233424305667,22.09495776810852,2.0428640231176756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1094,7 +1094,7 @@ vernmenl of the United Stairs will take the most
 prompt, as well as the most effectual prohibitory  
 measure?, in Older to put an end to us cause ; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810011501:0880/pct:3.7863590772316953,28.942245295262815,22.94383149448345,42.35885788449059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810011501:0880/pct:3.7854098771621962,28.937550689375506,22.94434695412384,42.356042173560425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1165,7 +1165,7 @@ si the union; he might esinlnrg&#x27;e ttill farther
   
 upon &quot;the reﬂectiomss legge-ted by such 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810012301:0116/pct:31.45788515637928,40.85235030232104,22.32334932980308,30.612443924322214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810012301:0116/pct:31.45268034414295,40.848366650414434,22.325170968453563,30.612709247521533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -118,7 +118,7 @@ Lincoln declares that offenses against the law
 may be examined, not by the civil magistrate,  
 but by the military officer, not only upon th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863073101:0118/pct:15.774778966961378,211.28476821192052,52.210330386226154,67.42604856512142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863073101:0118/pct:3.9436947417403445,52.82119205298013,13.052582596556539,16.856512141280355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ PHILADELPHIA, March 26th, 1795,
 DeAR SiR. The interest which you have.  
 takan in the safety of John Mitchell, as e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1863080801:0895/pct:232.04601479046838,88.6438809261301,68.85784716516024,7.938257993384785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1863080801:0895/pct:58.02342305321553,22.160970231532524,17.217998767207725,1.9845644983461963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ necessary for accomplishing the foregoing
   
 objects.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1863080801:0895/pct:232.04601479046838,121.44432194046307,70.74774034511093,89.69128996692392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1863080801:0895/pct:58.02342305321553,30.361080485115767,17.690569139100063,22.42282249173098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ ferring to any instructions from me,
 adopt the measures necessary for ac­  
 complishing the forgoing ol jeets
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1863090201:0805/pct:41.77505738332058,44.5238737523604,17.27237949502678,33.59859724844888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1863090201:0805/pct:31.349282296650717,33.39627731319126,12.976076555023923,25.1955759374157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ ny instructions from me, adopt the meas
 ures necesaary for accemplishing the forego-  
 ing objects. I am, dear sir, your humbl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863090301:0673/pct:89.70233306516492,240.45801526717557,56.154465004022526,55.99781897491821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863090301:0673/pct:22.42558326629123,60.11450381679389,14.038616251005632,13.999454743729553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ them; and, without referring to any instructions
 from me, adopt the measures necessary for ac­  
 complishing the foregoing objects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028459:1863090401:0283/pct:48.05566145634769,68.07936293696855,14.735036218070912,20.97449048454582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028459:1863090401:0283/pct:48.06201550387597,68.07936293696855,14.741390265599186,20.97898951725379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ ny instructions from me, adopt the meas­
 ures necessary for accomplishing the forego­  
 ing objects. I am, dear sir, your humbl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863091701:0683/pct:200.6482982171799,74.20100639194887,55.753646677471636,59.83952128382973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863091701:0683/pct:50.17223910840932,18.550251597987216,13.941236068895643,14.959880320957433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -493,7 +493,7 @@ any instructions from me, adopt the meas
 ures necessary fer accomplishing the forego­  
 ing objects. I am, dear sir, your humbl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863092401:0689/pct:30.128205128205128,298.7701557802678,55.52884615384615,55.86225744739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863092401:0689/pct:7.5350701402805615,74.69253894506696,13.887775551102205,13.9655643618475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ any instructions from me, adopt the meas­
 ures necessary for accomplishing the forego­  
 ing objects. I am, dear sir, your humbl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863092401:0691/pct:36.547811993517016,91.94144205773704,54.94327390599676,55.65740867423724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863092401:0691/pct:9.136952998379254,22.98536051443426,13.73581847649919,13.91435216855931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ any instructions from me, acopt the meas
 necessary for accomplishing the forego  
 ing objects. I am, dear sir, your humbl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863100101:0697/pct:35.5484387510008,92.90462623795958,54.4435548438751,55.89472256138923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1863100101:0697/pct:8.892449429200882,23.226156559489894,13.61906669337072,13.973680640347308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ and disorderly behavior of the latter.&quot;
 Good- From the Congressional Globe, of the  
 1st, we get the following
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864031201:0255/pct:12.751992498827942,306.6322442802457,50.679793717768405,46.54144039882489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864031201:0255/pct:3.1879981247069855,76.65806107006142,12.669948429442101,11.635360099706222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ that out of camp they have no more authority
 than other citizens.&quot;  
 General I-.ee in Favor of the Propose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776208:1867032201:0547/pct:65.98389355742297,48.25203813734973,18.82002801120448,3.509741605637695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776208:1867032201:0547/pct:49.50963222416813,36.1890286030123,14.115586690017514,2.6392151443968497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -748,7 +748,7 @@ was committing treason against that free
 government? General Garfield demanded the  
 removal of General Hancock for obezing 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103401:1880091901:0127/pct:118.48208011243851,220.17030335284727,44.132115249472946,44.81106971793507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn85042682:00211103401:1880091901:0127/pct:29.63093145869947,55.04257583821182,11.036906854130052,11.202767429483767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ officer, but by a magistrate \ that thoy
 are npt exempt from arrests and  
 indictments or violating the laws.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84038198:00202192506:1880100201:1070/pct:56.72402804333971,29.40926476838079,13.734862970044615,10.64598385040374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84038198:00202192506:1880100201:1070/pct:56.72402804333971,29.40926476838079,13.734862970044615,10.677858053548661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ fl or of Congress for repeating the very
 words which be addressed to the Army  
 of tbe United States, and which were t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880102101:0566/pct:31.553398058252426,4.266526204898605,18.53486319505737,15.986304977613905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880102101:0566/pct:23.691764186354604,3.199894653673953,13.910355486862443,11.996312878588359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -875,7 +875,7 @@ With great regard and esteem,
 I am, dear  
 Sir, yr. obt. sert.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654851:1892071601:0261/pct:50.06622516556291,11.631052204490127,12.632450331125828,14.444143900459832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654851:1892071601:0261/pct:50.0703642384106,11.634433324317014,12.63658940397351,14.454287259940493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ fractions of law, and that the whole
 county is not to be considered as within  
 the limits of the camp.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340767:1892080901:0135/pct:29.885714285714286,84.8415968177298,12.361904761904762,6.691291376615997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340767:1892080901:0135/pct:29.880022852789946,84.82954545454545,12.364311559702914,6.693892045454546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

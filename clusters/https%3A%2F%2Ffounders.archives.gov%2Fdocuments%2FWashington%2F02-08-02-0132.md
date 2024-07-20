@@ -233,7 +233,7 @@ What! could the poor colonies in
 America starve the trade of Great Brit­  
 tain!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1860062301:0969/pct:25.0,74.9302249220161,51.281474820143885,49.5320965358726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1860062301:0969/pct:6.248595189930321,18.729481286933684,12.817487075747358,12.380991464215365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

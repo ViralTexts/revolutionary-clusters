@@ -163,7 +163,7 @@ laws, and a hearty welcome. The rest,
 he adds, depends on a man’s own indu , •  
 i try and virtue.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1821121801:0032/pct:74.2338961851157,91.0803034266283,20.679591411298727,4.812974104106723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_palmer_ver02:data:sn84037834:print:1821121801:0032/pct:74.21842434347644,91.06839283379102,20.682228706405446,4.81670371823373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

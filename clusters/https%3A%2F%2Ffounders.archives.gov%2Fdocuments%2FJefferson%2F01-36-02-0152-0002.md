@@ -186,7 +186,7 @@ establishment of religion, or prohibiting the tree ex- j
 ert ise thereof,&#x27; thus building a wail of separation be;  
 twecu Cnureh and State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855050401:0621/pct:54.70388211958062,92.64734114033404,14.026636440918107,4.348243424841621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855050401:0621/pct:54.70860489279305,92.65374032123889,14.026636440918107,4.345043834389198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ worship, that the legislative powers of govern­
 ment reach actions only and not opinions, I con­  
 template -with sovereign reverence that act of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667292:1855050501:0072/pct:67.07589285714286,111.60504858706578,19.852120535714285,4.188540154138278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667292:1855050501:0072/pct:50.31393888656341,83.70378644029934,14.901632482210129,3.149782195911985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ thereof, thus building a wall of sep­
 aration between Church and State.&quot;  
 ?Dobbs says he would have .died o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1855053101:0088/pct:91.74391657010429,107.0316937407702,16.280417149478563,14.915369760308986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:0021247034A:1855053101:0088/pct:68.82514848616543,80.2794501874361,12.212081703607128,11.189367261160967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ of the advocates of the measure it may be accepted
 almost as an authoritative declaration of the scope  
 and effect of the amendment thus secured. Congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744055:1879011001:0132/pct:58.14759782070332,152.21410636840903,51.92339441967971,21.170965532983338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271744055:1879011001:0132/pct:19.382532606901105,50.738035456136345,17.307798139893237,7.0569885109944455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ that he o
 of the Gove  
 y, and not opinions, I contemplate wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531344:1879011001:0071/pct:54.1871921182266,28.19837361127019,47.602627257799675,9.44908945138014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531344:1879011001:0071/pct:18.0623973727422,9.399457870423396,15.867542419266558,3.14969648379338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ stitution the decisions of the Supreme
 Court and the principles of civil and re­  
 ligious liberty as proclaimed by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:00206535799:1888100301:0396/pct:122.11251862891207,91.05783866057838,21.311475409836067,16.14662607813293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:00206535799:1888100301:0396/pct:81.45386766076422,60.70522577371892,14.221808014911463,10.768645357686454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

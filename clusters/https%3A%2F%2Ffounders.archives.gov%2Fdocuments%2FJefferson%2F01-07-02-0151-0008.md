@@ -143,7 +143,7 @@ of the United States be one dollar, and that the
 smallest coin be of copper, of which 200 shall  
 pass for one dollar, and that the several piece
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843020301:0449/pct:123.94160583941606,98.60302677532015,49.85401459854015,23.166472642607683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1843020301:0449/pct:31.00237356216907,24.650756693830036,12.470330472886618,5.791618160651921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ gun with that )ear awl ended with the
 relation between silver and gold being  
 fixed, all the other weights must fo&#x27;low
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:00211109336:1895042701:1102/pct:59.33441558441559,67.87972243639167,33.3400974025974,61.00231303006939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:00211109336:1895042701:1102/pct:44.518879415347136,50.91750192752506,25.03045066991474,45.75173477255204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ congress their report on certain princi­
 ples for establishing a mint, accompanied  
 by a letter to the president of congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895050801:0181/pct:6.832027850304613,47.533485788957854,12.228024369016536,3.5282587389741913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895050801:0181/pct:6.832027850304613,47.53711568477985,12.242529736002322,3.5318886347961813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ congress their report on certain princi­
 ples for establishing a mint, accompanied  
 by a letter to the president of congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895050801:0182/pct:7.412242529736003,48.18686703691604,12.30055120394546,3.506479364042252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895050801:0182/pct:7.421912774393192,48.19049693273803,12.29088095928827,3.5137391556862316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ congress their report on certain princi­
 ples for establishing a mint, accompanied  
 by a letter to the president of congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895050801:0183/pct:6.556425877574703,47.50081672655995,12.30055120394546,3.506479364042252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895050801:0183/pct:6.556425877574703,47.504446622381934,12.31022144860265,3.5137391556862316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ and the relation between silver and
 gold being lixed, all the other weight  
 must follow. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_chelsea_ver01:data:sn85038709:00415669288:1895051001:0389/pct:7.423780487804878,121.79801642316306,21.448170731707318,4.937613309160712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_chelsea_ver01:data:sn85038709:00415669288:1895051001:0389/pct:4.955779200975908,81.19867761544204,14.303141201585849,3.2952970033059614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ accounts , anil may. In time , produce the
 happy effeot of uniformity in counting  
 money throughout the union. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895070701:0887/pct:5.800423131170663,113.44776321124476,16.5197461212976,3.9194485741316396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895070701:0887/pct:4.35626102292769,85.08920124341127,12.398589065255733,2.946344100554129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ one dollar and the smallest division
 of that should be a half cent piece, that  
 it should be copper and that it shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871283:1895071701:0119/pct:27.645113886847906,103.471565581521,18.864805290227775,13.116304200999595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871283:1895071701:0119/pct:20.746049246600514,77.60367418614075,14.149209849320103,9.847359178711333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ ing that it should be called one dollar,
 and that the smallest division of that  
 should be a half-cent piece; that i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_onamia_ver01:data:sn90059522:00206536871:1895071701:0157/pct:50.28801071667783,55.97745160604127,10.42196918955124,5.073388640714741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_onamia_ver01:data:sn90059522:00206536871:1895071701:0157/pct:50.29247599910694,55.97745160604127,10.42196918955124,5.073388640714741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ the measure of value , deciding that It should
 be called one dollar , and then the smalleft  
 division of that slioulJ be a half-cent piece 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895071701:0984/pct:92.17638691322902,8.003857280617165,16.74964438122333,6.0889929742388755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895071701:0984/pct:69.16918697740616,6.006336961013914,12.577833125778332,4.573632731781237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ est division of that should be a half-cent
 piece; that it should be copper and that it  
 should take 200 of them to make the unit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199343:1895071701:0234/pct:177.72449869224062,168.13654285121393,37.968613775065386,22.203776717161237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199343:1895071701:0234/pct:59.24149956408021,56.04551428373798,12.656204591688462,7.401258905720412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ Value, deciding that it should be called
 one dollar and that the smallest division  
 of that should be copper, and that i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895072401:0278/pct:7.941339236303265,68.20827600804319,11.732152739346985,5.788972378029421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895072401:0278/pct:7.95056262682162,68.21533142836985,11.722929348828629,5.785444667866088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ ure of value, deciding that it should
 be called one dollar and that the  
 smallest division of that should be 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871283:1895072701:0201/pct:86.31426502534396,78.47315888858915,18.410572049239683,11.923388184515781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871283:1895072701:0201/pct:64.74741988049973,58.86161316428379,13.814955640050696,8.942541138386837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ by whom it la not aufflciently esteemed. U
 ver ia not exported ao easily aa gold, and it la  
 a more useful metal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028297:0029602918A:1896082001:0667/pct:20.94103392568659,16.682995101469558,16.296445880452342,12.176347095871238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028297:0029602918A:1896082001:0667/pct:15.720347544958578,12.512246326102169,12.224691856940796,9.13925822253324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -911,7 +911,7 @@ tho adoption of it double standard, prin­
 cipally through tho exertions of Alexan­  
 der Hamilton. His suggestions an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1896101501:0729/pct:29.98236331569665,21.85999126764663,18.187830687830687,10.62436326590016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85030687:00212473133:1896101501:0729/pct:22.496691662990738,16.402270411876,13.65240405822673,7.960995488284093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

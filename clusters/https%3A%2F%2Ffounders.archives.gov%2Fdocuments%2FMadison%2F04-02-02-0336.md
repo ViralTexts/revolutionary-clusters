@@ -60,7 +60,7 @@ institution to which they clung should be
 condemned as inhuman, unwise, and un­  
 just; in the throes of discontent at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053570:00237288968:1866021201:0153/pct:69.93339676498573,167.5705186533212,48.9058039961941,17.106460418562328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053570:00237288968:1866021201:0153/pct:17.48750892219843,41.8926296633303,12.229359980965977,4.276615104640582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -82,7 +82,7 @@ new generation sprang up, impatient that an in­
 stitution to which they clung should be con­  
 demned as Inhuman, unwise, and uuust; in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776178:1866021201:0255/pct:45.62545191612437,118.66035371118228,19.36008676789588,5.291742097200947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776178:1866021201:0255/pct:34.22527571867655,88.99874669266119,14.536250225998915,3.9688065729007103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -103,7 +103,7 @@ generation sprang up, impatient that an institution to
 which they clung should be condemned as inhuman,  
 unwise and unjust; in the throes of discontent at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866021301:0359/pct:102.2024121657053,254.01631240731587,46.11081978675057,8.51458230350964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866021301:0359/pct:34.06747072190176,84.67210413577196,15.370273262250189,2.8381941011698797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ patient that an institution to which they
 clung should be condemned as inhuman,  
 unwise and unjust; in the throes of dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866021401:0574/pct:182.07979071288423,103.97521941146103,38.78351863963375,15.384615384615385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866021401:0574/pct:45.51994767822106,25.993804852865257,9.695879659908437,3.8461538461538463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ an institution to which they clung should be
 condemned as inhuman, unwise and unjust ;  
 in the throes of discontent at the self&quot; re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1866022301:0663/pct:28.60763503880881,39.777500283800656,12.846507207349912,4.393234192303326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1866022301:0663/pct:28.612915148635093,39.777500283800656,12.846507207349912,4.3970182010822265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

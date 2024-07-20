@@ -144,7 +144,7 @@ Or any good creature shall lay o’er my head,
 Lies one who ne’er car&#x27;d, and still cares not #&#x27;ping:  
 What they said, or may fay, of the mortal within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1763090901:0103/pct:67.0116156282999,78.97620764239366,28.827877507919748,7.613554434030281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1763090901:0103/pct:67.0186554030271,78.97620764239366,28.834917282646956,7.632780581590963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ Or any good creature should lay o’ermy head;
 Lies one who ne’er cared and still cares not a pin,  
 what they said, or may say, of the mortal wlthm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872050501:0006/pct:13.26205214781467,3.3541454915057356,11.461264303132621,9.234790184405401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872050501:0006/pct:13.271431251172388,3.3614055466821546,11.475332958169199,9.227530129228983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

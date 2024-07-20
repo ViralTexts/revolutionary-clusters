@@ -175,7 +175,7 @@ who can justly say, &quot;Ben Franklin ha
 wronged me,&quot;- This my friend in old age  
 is a comfortable reflection.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022355:00200290136:1846082701:0364/pct:315.21926053310403,161.81012077663965,57.867583834909716,18.34581868215869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022355:00200290136:1846082701:0364/pct:78.80481513327601,40.45253019415991,14.466895958727429,4.5864546705396725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ not exist a human being who can justly say.
 Ben Franklin has wronged me.&quot; This my  
 friend in old age is a comfortable reflec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1846090801:0156/pct:14.93212669683258,110.09545849002025,51.50829562594269,22.7943303442291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1846090801:0156/pct:3.733735621346408,27.523864622505062,12.879502168583821,5.698582586057275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ tuct myself so that there does not exist a human being wh
 an justly say, &quot;Ben Franklin has wronged me.&quot; Tiss, my  
 riend, is in old age a comfortable reflection.&quot; The 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858011901:0157/pct:151.81313296308397,266.06677985285796,43.97255798758576,9.790605546123373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743282:1858011901:0157/pct:50.60437765436132,88.68892661761932,14.657519329195251,3.2635351820411245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

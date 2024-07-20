@@ -390,7 +390,7 @@ on him, nor condemn him, bt by the lawful
 Judgment of his (Peers, or by the law of the  
 land. .We will {ell to&#x27;no man, we will not de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794052001:0230/pct:10.32954041672824,65.59420872712649,19.476873060440372,4.7757892620148805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794052001:0230/pct:10.33446628244914,65.59756015818755,19.476873060440372,4.782492124137007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ nor shall the Commonwealth pa--, upon
 him, nor condemn him, hut by lawful judg­  
 ment of his Peers, or by the laws of the land?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817041801:0457/pct:33.382497541789576,63.881780962128964,14.650934119960668,3.3393039918116685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817041801:0457/pct:33.37702769129936,63.873608801330434,14.653995302856519,3.343141017440621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ condemn him, hut by liwful judg­
 ment of his Peers, or by the law?:  
 of tbo land/* That these defendant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817042501:0699/pct:26.555386949924127,14.84608390700091,17.92759592456102,7.702298999870113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817042501:0699/pct:26.549631556133505,14.844155844155845,17.930934836006358,7.705627705627705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ demn him, but by the law ini judgment
 of his peers, or bv the laws oftlie land;”  
 that they are advised that ati act whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021901:0339/pct:17.844727694090384,53.23522257358307,14.765767257076643,4.889321333009001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021901:0339/pct:17.8417742469381,53.22874863188617,14.768840339843319,4.892780412663667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -838,7 +838,7 @@ nor condemn him but by lawful judgment of his
 peers, or by the law of the land. We will sell  
 to no man, we will not deny or defer to an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863110501:0468/pct:198.26034793041393,123.31443734169582,42.89142171565687,14.135809914364975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863110501:0468/pct:49.5725213739313,30.828609335423955,10.72446377681116,3.5339524785912437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,7 +976,7 @@ condemn him, nor will we commit him to
 prison, excepting by the legal judgment of  
 his Peers, or by the laws of the land.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1867032301:0499/pct:90.47881122729774,38.307251487767246,16.689598238855258,4.474322239365219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470107:1867032301:0499/pct:67.88713007570544,28.730438615825435,12.525808671713696,3.3612519285871723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -999,7 +999,7 @@ referring to justice and its administration) to no
 man, and we will not deny nor defer either right  
 or justice to any man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1867072501:0323/pct:226.30185348631952,211.52703505644683,52.60370697263901,15.448603683897801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1867072501:0323/pct:56.57546337157988,52.88175876411171,13.150926743159753,3.8621509209744502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,7 +1023,7 @@ to justice and its administration to no man, and
 we will not deny nor defer oither right or justice  
 A ahy man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1867080801:0331/pct:225.21891418563922,61.94427978660344,51.0507880910683,14.344991108476586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1867080801:0331/pct:56.32939115199299,15.48606994665086,12.768287341217697,3.5862477771191466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1066,7 +1066,7 @@ wise despoiled, nor will wo pass upon mm, or
 condemn him, but by lawful judgment of his  
 peers, or tbe lawolthelacd.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870012401:0003/pct:20.790742526518805,64.29353778751369,9.238187078109933,1.7055233922703803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870012401:0003/pct:20.79556412729026,64.29353778751369,9.2526518804243,1.721170395869191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1098,7 +1098,7 @@ stroyed; nor will we pass upon him or condemn
 him but by lawful judgment of his peers or by th  
 law of the land.&quot; Buglish constitutional writer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873050701:0440/pct:75.97042513863217,223.7418902332106,42.42144177449168,8.907592495177976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873050701:0440/pct:18.99699560896695,55.93547255830265,10.607811416685925,2.226898123794494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1175,7 +1175,7 @@ judgment of his peers or by the law of
 the land. We will sell to no man, we  
 will not deny or defer to any ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297568:1876080401:0223/pct:96.96727853152434,127.72645801737212,47.645650438946525,19.24720805184062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297568:1876080401:0223/pct:24.256338590537034,31.93161450434303,11.918546616091037,4.811802012960155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1447,7 +1447,7 @@ pass upon him, nor send upon him, but
 by lawful judgment of his peers, or by  
 the law of the land,&quot; a prov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032873:1897041101:0100/pct:93.01066955311582,26.723599250156216,39.616514612648835,9.456363257654655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_u2_ver01:data:sn85038614:00175032873:1897041101:0100/pct:31.003556517705274,8.90786641671874,13.205504870882944,3.152121085884885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1489,7 +1489,7 @@ decalogue:
 &quot;We will sell to no man, we will not  
 delay or defer to any man either righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871386:1898012801:0197/pct:59.2872191011236,117.29704797047971,16.60814606741573,6.411439114391144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871386:1898012801:0197/pct:44.47761194029851,87.97662976629766,12.467076382791923,4.812423124231242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1512,7 +1512,7 @@ ment of his peers, or by the law of the
 land.&quot;  
 &quot;We will sell to no man, we will no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026409:0023728804A:1898061501:0132/pct:83.04473304473305,310.4594781805588,47.76334776334777,17.64026783652736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026409:0023728804A:1898061501:0132/pct:20.768675568386865,77.6148695451397,11.945146156622158,4.41006695913184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1534,7 +1534,7 @@ stnd upon him, but by lawful judgment of
 his peers. .or by the law of the land. We  
 will sell to no man. we will not deny o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871921:1899072201:0218/pct:73.08579335793358,20.549726870718807,16.69741697416974,4.84696089482355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871921:1899072201:0218/pct:54.82643293737747,15.416630538454868,12.524506977280591,3.6330529784097805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

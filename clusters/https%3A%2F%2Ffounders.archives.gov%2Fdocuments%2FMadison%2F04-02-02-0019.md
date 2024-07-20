@@ -104,7 +104,7 @@ thinking then prevalent on that and other articles, equally
 the result of a sense of cquUy mid a spirit of mutual ounces- &#x27;  
 siou. H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120301:1195/pct:37.361243260386935,4.54260258501694,31.366952109102442,91.1783159744008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848120301:1195/pct:37.37181520245269,4.550968335633915,31.372238080135322,91.18249884970929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ might fairly require.” __ __
 llere, in this declaration of Mr. Madison,  
 himself the most authoritative and soundest o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0085/pct:29.148289718710185,75.90616830353989,12.99617759482505,3.243128665300643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0085/pct:29.14543316346531,75.90080542602797,12.998170652031883,3.2452545805661535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ ur constitutional expositors, we have all the es-
 sential elements of this territorial power admira.  
 bly cornpreesed into a single sontene and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1849033101:0889/pct:76.1637239165329,61.110345777655326,63.24237560192616,23.86003581760573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1849033101:0889/pct:19.04475215733494,15.277586444413831,15.81376680714429,5.965008954401433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ might fairly require.&quot;
   
 lories themselves, isadmissibleonly whilst th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1849041701:0237/pct:44.70402751899097,9.81034093474825,26.143041421814534,78.81011515014676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1849041701:0237/pct:44.70402751899097,9.81034093474825,26.15737422961158,78.81764130352977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ lic Territory That power, as Mr Madison stiys. is in
 and ought not to be extended further nor continued  
 longer than the occasion might fairly require.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850012301:0097/pct:37.629276054097055,58.7162932016711,15.338106603023071,6.190657045195595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850012301:0097/pct:37.639883320074254,58.72473308857661,15.338106603023071,6.194876988648352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ says, is in &quot;suspension of the great principle of self-gorern­
 ment, an J ought not to be extended further nor continued  
 longer than the occasion might fairly require.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850012601:0068/pct:64.02809671754694,66.33798384558901,15.466702688099419,3.9966432392741007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850012601:0068/pct:64.02809671754694,66.34148047134515,15.475708046287542,4.0001398650302455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ nation, but moot favormbt* fat i/ercs alio, both at t? thiir
 prooprdt of tmanei/iation and at la thnr condition Is th*  
 mran timr 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850020801:0171/pct:66.50799047942877,66.83640161901032,16.71200272016321,10.628019323671497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850020801:0171/pct:66.50799047942877,66.84075379727554,16.723336733537344,10.628019323671497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ to their prospects of emancipation, and as to
 thru condition in the mean time.”  
 But the advocates of Tie const tutional powe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1850021501:0548/pct:59.73581678228642,50.33089020138049,12.743514206975197,13.669679072084252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:0041421583A:1850021501:0548/pct:59.730140630938806,50.32730895118827,12.745470670214115,13.671078222095726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ only best for the nation, but most favorable for the slaves
 also, both as to their prospects of emancipation and at to  
 their condition in ttie mean time 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850022401:0256/pct:63.36234687298517,34.28535480624056,15.764023210831722,15.626572722697533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850022401:0256/pct:63.373092628411776,34.28535480624056,15.753277455405115,15.634960577084382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ under our fonstilution. but before its adoption.
 How, then, can it be regarded as an interpretation  
 if the Constitution, when, at its passage, the Conititutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850031801:0387/pct:5.141643059490085,3.8809261300992284,27.93201133144476,95.44652701212789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850031801:0387/pct:5.141643059490085,3.8809261300992284,27.950897072710102,95.45387725101065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ in the United States was not onU best for the nation, but most
 favorable tor the slaves also, both as to their prospects ot  
 emancipation, and as to their condition in the mean time.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850032301:0131/pct:51.267991775188484,37.99936420472608,15.654557916381084,9.97138921267352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850032301:0131/pct:51.267991775188484,37.99936420472608,15.6636965958419,9.974921408639752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ ower,&quot; says?&quot;for myself 1 must own that I
 ave ahrays leaned to the belief that the restrieion  
 was not within the true scope of the Contitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850072201:0127/pct:13.959879087661445,70.88118493077171,15.856004396812311,3.2628528496297093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850072201:0127/pct:13.969039113309517,70.88118493077171,15.84684437116424,3.266430539157812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ restriction was not within the true scope of the
 Constitution.&quot; As we have no territory now  
 not disposed of by the compromise, and bein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854020301:0132/pct:45.061975209916035,31.201938270304435,13.128082100493137,4.266301485304962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854020301:0132/pct:45.066417877293524,31.208960988798765,13.141410102625617,4.266301485304962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ of the government, which he contends was
 against slavery.  
 &#x27; Mr. Monroe expressed the same opinions i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031501:0264/pct:44.91842738700187,58.62363752938662,13.051618079700456,13.090403932464202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031501:0264/pct:44.91842738700187,58.630761558737625,13.056075599536419,13.093965947139703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ This waa the opinion of Mr. Msdison, the father of the [
 constitution, who participated in the deliberations of the con­  
 vention which formed it, and who, the senator from Mas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854031801:0435/pct:63.32622601279318,79.91019884541373,15.647039527636542,9.506093649775497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854031801:0435/pct:63.33169318243945,79.91447509087021,15.647039527636542,9.514646140688475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ was not within the true scope of the Constitu­
 tion.&quot;  
 And, sir, who can look back to the exercis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854041601:0378/pct:2.710721510451787,27.425393090170072,13.243425488873903,4.246443469889828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854041601:0378/pct:2.7152169026747583,27.432523977609012,13.252416273319847,4.250008913609299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ lU&quot;Pirm2eown,&quot;Biid Mr. Madison, &quot;that I have.always
 leaned to the belief that the restriction whs not within .  
 to the cere i,. of tld. power
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854042301:0600/pct:32.775476387738195,38.90658850516121,15.72493786246893,2.5105135720657574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854042301:0600/pct:32.775476387738195,38.91508432097192,15.747031206848936,2.506265664160401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ to the cere i,. of tld. power
 leaned to the belief that the restriction was not within the  
 truo scope of the Constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854042801:0206/pct:21.04802218654211,82.33272883459006,15.705736388848344,1.2694473608857497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854042801:0206/pct:21.04802218654211,82.3359104069231,15.710601858609449,1.2726289332187968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ striction was not within the true scope of the
 constitution.”  
 An adherence to this old, effete compromise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1854051601:0024/pct:2.913521387895643,87.57726819541377,13.097602966494504,2.59222333000997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1854051601:0024/pct:2.913135593220339,87.5685375336457,13.099179025423728,2.594457182733526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -770,7 +770,7 @@ stitution.&#x27; &quot;
 &quot; &#x27; The proposed restriction as to the territo­  
 ries which are to be admitted into the Union &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1854060101:0348/pct:46.924792861695344,116.16224261969735,18.881453154875718,4.080873232448524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1854060101:0348/pct:35.21441096763909,87.12478293227487,14.171847600828949,3.0637558918382535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ Madison admitted that ho &quot; must own&quot;&#x27; he had
 tion was not within the true scope of the Con­  
 stitution.&quot; All know that her senators, Plea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854060201:0546/pct:31.597084161696486,29.98230825267978,12.816434724983433,4.100322614215839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854060201:0546/pct:31.60150209851999,29.989246192805357,12.816434724983433,4.1037915842786274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ constitution.&quot;
 The proposed restrictions as to the Terri  
 tones which are to be aduiited into the Union,&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854061401:0599/pct:38.16263190564867,78.86125654450262,11.086281812538795,2.3092744951383697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1854061401:0599/pct:38.16677012207739,78.86125654450262,11.090420028967515,2.3155073547743705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -865,7 +865,7 @@ tution.&#x27; &quot;&#x27;
 &quot; The proposed restriction as to the territories  
 which are to be a Imitted into the Union,&#x27;&quot; sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1854062201:0360/pct:28.05893657911595,50.06780914807052,19.07431133888533,3.809641227962027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1854062201:0360/pct:21.054318218234258,37.553939095056094,14.32462746354751,2.8603131549747256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,7 +944,7 @@ Union, if not hi direct violation of the Con
 that the res&#x27;rictiun (Missouri line of 30.30) was not within  
 the true scope of the constitution.&#x27;&#x27; No one was more decide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854082501:0195/pct:82.32512636556335,50.08164803416656,16.14218164030654,1.8465016957668634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854082501:0195/pct:82.33599652155009,50.09002219151698,16.13674656231317,1.8465016957668634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ ts James Monroe said;
 e ries which are to be admitted into thp Lnion, i  
 a not in direct violation ofthe Constitution, is r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1854090101:0027/pct:31.545198623709727,86.71229643615766,14.90459806068189,4.04767524191645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1854090101:0027/pct:31.550411844437495,86.71229643615766,14.90459806068189,4.051608842734639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1008,7 +1008,7 @@ always leaned to the belief that the restriction (Missouri
 line of 36? 30&#x27;) was not within the trne scope of the Con­  
 stitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854090201:0256/pct:2.115142176775459,35.11943896559281,15.604426390250735,2.366863905325444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854090201:0256/pct:2.115142176775459,35.11943896559281,15.609095578278938,2.3741690408357075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1114,7 +1114,7 @@ tK* tr-M ssepe of (As eeastftesiea.&quot;
 This is an extract from a letter written by Mr. Madison,  
 in 1M&amp; to Mr. Monroe, then President of tbe United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856030102:0266/pct:80.43514366384322,82.82548476454294,16.110280684271714,9.355326114328884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856030102:0266/pct:80.43514366384322,82.83387895576261,16.126889221059624,9.351129018719046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1142,7 +1142,7 @@ the Constitution.”
 Comment upon the above is unnecessary. AVc  
 have said enough to indicate the great father
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557955:1856050301:0350/pct:23.503649635036496,42.168832873834845,14.799270072992702,6.60364973086517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557955:1856050301:0350/pct:23.51277372262774,42.17539713798083,14.808394160583942,6.606931862938165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1160,7 +1160,7 @@ not to be extended further, nor continued longer, than the
 occasion might lairly requite.&quot;  
 The power, then, however derived, is confined to the es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856052001:0584/pct:35.07413509060955,18.203638201111673,15.782537067545304,1.9327943405760486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856052001:0584/pct:35.08511806699616,18.203638201111673,15.771554091158704,1.9412161024086239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1247,7 +1247,7 @@ tended further nor continued longer thau the occasion
 might fairly require.&quot;  
 On the question whether the territorial restriction bei a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856112601:1228/pct:21.629533257440233,21.675935288169867,15.628557489022604,4.006572295247725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856112601:1228/pct:21.629533257440233,21.68014829794405,15.6339784246761,4.0107853050219076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1301,7 +1301,7 @@ tion.&quot; This question is now before the Supreme
 Court of the United States, and protabilities are that  
 the court will decide that the Miseouri compromis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857021301:0154/pct:24.484697064334792,354.72140762463346,49.968769519050596,33.0791788856305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857021301:0154/pct:6.123086535457669,88.68035190615836,12.496094970321774,8.269794721407624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1369,7 +1369,7 @@ their prospects of emancipation and as to their condition is lb*
 mean time.  
 THE KANSAS CONVENTION ACT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857032601:0415/pct:84.20122147219544,39.183055975794254,17.855994856959178,24.470499243570348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857032601:0415/pct:84.20122147219544,39.19146074970583,17.86670952534019,24.46629685661456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1451,7 +1451,7 @@ I United States was not only best for the nation, but j ja
 W3&#x27; Javorable fn &#x27;He tiavts cuo, com at u&gt; innrpro? 0t  
 put&gt; of emancipation and at to tkeir condition i? Ik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857033101:0128/pct:55.383037937600704,71.86561561561561,15.717006005566134,20.0731981981982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857033101:0128/pct:55.392803085786824,71.87187187187187,15.712123431473072,20.0731981981982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1519,7 +1519,7 @@ nation, but moat fatorahle fot the slaves al, both
 n to their prospects of emancipation and a to their  
 coi.d&#x27;tion in the meantime
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857040101:0266/pct:43.492753623188406,13.3028545941124,20.3768115942029,38.26940231935772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857040101:0266/pct:32.627917089433254,9.97992863514719,15.292071314683287,28.702051739518286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1587,7 +1587,7 @@ nation, hut moat favorable for the late aho, both
 o to their prospects o f emancipation and a to their  
 cohd&#x27;tionin the meantime
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857040101:0104/pct:44.216787838731,17.733447558438378,19.69596827495043,35.662709582670416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022767:1857040101:0104/pct:33.17355371900826,13.303145269856811,14.793388429752065,26.753151389058868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1606,7 +1606,7 @@ are to operate as a condition on future States ea e sa e unuee of iin
 on e ae aion e e o eo e e o a e on e ee  
 ter, indirectly, the arguments which prevailedei o e i e oe 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290008:1857040401:0313/pct:155.63139931740614,53.354487760652766,86.80318543799773,6.980961015412511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290008:1857040401:0313/pct:38.91338358697198,13.338621940163192,21.703882804721946,1.7452402538531278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1708,7 +1708,7 @@ of bein inluenced by the abit of a guardeda ee oe an a ii o o
 construction of constitutional powers; and Ite atea wi i ea  aon te  
 ae cetan e a te ine ta o oo e o oo i 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290008:1857040401:0313/pct:155.9726962457338,72.34814143245694,88.1683731513083,60.47144152311877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290008:1857040401:0313/pct:38.99871995448727,18.087035358114235,22.045228274783103,15.117860380779693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1748,7 +1748,7 @@ in a conciliatory course, the demand for
 which was deemed urgent, and the course  
 itself deemed not irreconcileable with the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1857041101:0523/pct:63.35578002244669,43.31466965285554,46.01571268237935,93.21388577827548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1857041101:0523/pct:15.841167391609373,10.828667413213886,11.505542303914691,23.30347144456887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1806,7 +1806,7 @@ favorable for the slaves also, both as to
 their prospects of emancipation, and as to  
 their condition in the mean time.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1857041101:0523/pct:56.00448933782267,102.0380739081747,282.8843995510662,57.51399776035834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1857041101:0523/pct:14.003086852813245,25.509518477043674,70.73102287077312,14.378499440089586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1872,7 +1872,7 @@ tii&lt;is: favorable for the slaves also, both as to tbair \
 prospects for emancipation and as to their condition  
 in the meantime. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857041701:0149/pct:2.9120559114735003,39.81315466641502,17.19569015725102,18.335377937152025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857041701:0149/pct:2.921762764511745,39.81315466641502,17.190836730731895,18.34166902582492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1906,7 +1906,7 @@ i iiy require.
 t hi the nt j er si le, it cannot If do d-d that  
 ie e institutional p 11
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212438:1857052601:0131/pct:60.595065312046444,68.90601258953767,11.190130624092888,8.476231821141742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212438:1857052601:0131/pct:60.58627194891888,68.89853499728703,11.192134668408068,8.47802495930548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1945,7 +1945,7 @@ LAVES ALSO. BOTH AS TO THEIR FR&#x27;iSFKCTS 1 &gt;F
 MANCIPATION AND AS TO THEIR CONDITION IN  
 HE MEAN TIME.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212438:1857052601:0131/pct:60.595065312046444,81.21337095723898,11.161103047895502,10.625135663121338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212438:1857052601:0131/pct:60.58627194891888,81.20455778621812,11.163111304600204,10.62669560499186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1996,7 +1996,7 @@ wholly inconsistent with popular sovereignty.
   
 From the day of the adoption of the present
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859092101:0279/pct:132.0,46.76088185415489,34.309859154929576,14.154889768230639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859092101:0279/pct:33.013949556150486,11.690220463538722,8.581090601662675,3.5387224420576597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2036,7 +2036,7 @@ the Constitution of the United States. It
 has steadily claimed and exercised the po­  
 wers to control their legislation in all case
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1859092801:0502/pct:45.333333333333336,26.666666666666668,11.855855855855856,7.566807313642757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1859092801:0502/pct:45.34534534534534,26.666666666666668,11.855855855855856,7.57149554617909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2069,7 +2069,7 @@ must own that I have always leaned to the bolief
 that the reetrictioa uat not u if A in the true tcopt oj  
 the Comtitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn98021556:00415661915:1860030301:0602/pct:71.45021645021644,73.9051094890511,20.28138528138528,12.240314430095452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn98021556:00415661915:1860030301:0602/pct:53.627896902750706,55.43234138124649,15.22633744855967,9.18023582257159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2091,7 +2091,7 @@ tion of it by the grester? On the first
 point there is certainly room for some  
 difference of opinion, though for fayself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014138:00279528712:1860030701:0647/pct:102.00883889112093,130.84561513536113,30.842373108343377,7.243650047036689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014138:00279528712:1860030701:0647/pct:34.00294629704031,43.615205045120376,10.28079103611446,2.414550015678896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

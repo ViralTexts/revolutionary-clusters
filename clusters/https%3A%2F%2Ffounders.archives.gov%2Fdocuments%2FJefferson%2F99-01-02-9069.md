@@ -60,7 +60,7 @@ and proclamations affecting the com.
 enacted by tirsat Britain and France, or-rry  
 other belligerent power sin. 1791 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111401:0003/pct:57.62814070351759,66.10058785107773,17.386934673366834,6.178967994774657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111401:0003/pct:57.641541038525965,66.10058785107773,17.380234505862646,6.192031352057478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -84,7 +84,7 @@ also an act placing the commerce of America in
 English ports updi the footing of the most favor­  
 ed nation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808111801:0230/pct:5.132450331125828,20.13968253968254,17.568064753495218,5.2063492063492065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808111801:0230/pct:5.131506345411072,20.137125444388015,17.570964379866346,5.209920433384121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ nterce of America in Loglish ports upon
 the too&#x27;ing of riie most faveraed nation*.”  
 In aJvoca iog the above resoiu io
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808111801:0378/pct:4.969418960244648,68.2417025589055,17.94724770642202,7.1066632885736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808111801:0378/pct:4.96846932925664,68.23305889803673,17.950187910057966,7.109985222714799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ lith ports upon the footing of the most favor­
 ed nations.: : - &quot;  
 In advocating the above refolutien, M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808112901:0190/pct:25.82853586432239,40.76452292565466,16.399564337949275,6.350958161934384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808112901:0190/pct:25.82853586432239,40.76452292565466,16.409937243918883,6.350958161934384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ crees, Orders and Proclamations, affecting
 the commercial rights of the United States  
 v h ch tiaveb’-en issued since 1791—or durin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809022801:0374/pct:78.29360100376411,11.944059468312965,17.24323355440043,2.3938515812019654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809022801:0374/pct:78.27956989247312,11.942554799697657,17.24611708482676,2.3977492231460484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

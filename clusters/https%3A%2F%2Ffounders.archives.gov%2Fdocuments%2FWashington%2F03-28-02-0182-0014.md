@@ -317,7 +317,7 @@ Molt obedicnt and most humble servant,
 e JOHN ANDRE,  
 : - Ad}. Gen. the Briiith asmy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0439/pct:6.84477809671009,61.80351906158358,28.571428571428573,17.419354838709676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0439/pct:6.852138073158166,61.81329423264907,28.57878854787665,17.41446725317693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -685,7 +685,7 @@ rience the operation of these feelings in
 your breast, by being informed I am not  
 to die on a gibbet.&#x27;&#x27;&#x27; As the mode of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1822010201:0132/pct:77.15637771563777,29.96911847276811,21.91869219186922,8.674901740595171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1822010201:0132/pct:59.80217826183596,23.229502846575045,16.98710824627695,6.719367588932807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ being informed that I am not to die on a gibbet.
 &quot;I have the honor to be your excellency&#x27;s most  
 obodient and humble servant, John Andre.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1845070901:0290/pct:46.16111951588502,107.95895729339989,19.232223903177005,14.129229062673323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1845070901:0290/pct:34.63866818009837,80.97615085967831,14.43435489973515,10.593455352190793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -908,7 +908,7 @@ pathy towards a soldier will surely induce your Ey­
 cellency and a military tribunal to adapt the mode  
 of my death to the feelings of a man of honor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:0029587238A:1848081701:0164/pct:194.40184049079755,204.57089552238807,43.59662576687116,4.037846481876333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:0029587238A:1848081701:0164/pct:64.80061349693251,68.19029850746269,14.532208588957054,1.345948827292111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -945,7 +945,7 @@ am not to die on a gibbet.
 most obedient and :uost humble servant.  
 JOHN ANOUK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1852032301:0223/pct:42.87772375292634,71.97652197652198,12.929947775976949,11.957411957411958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1852032301:0223/pct:42.870003601008285,71.96669851235157,12.932120993878286,11.959192029480006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1096,7 +1096,7 @@ the consciousness of a life devoted to hon­
 orable pursuits, and stained with no ac­  
 tion that gave him remorse. &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1855081501:0043/pct:33.266932270916335,32.16175359032502,12.101593625498008,2.1164021164021163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn83032308:00513685506:1855081501:0043/pct:33.261410788381745,32.157702481420834,12.103734439834025,2.119284544652979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1114,7 +1114,7 @@ of death by the consciousness of a life devo­
 ted to honorable pursuits, and stained with  
 no action that gave -him remorse. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855082201:0584/pct:87.16645489199492,57.48937234308577,18.789707750952985,2.9882470617654415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:0021247762A:1855082201:0584/pct:65.39561487130601,43.12328082020505,14.108674928503337,2.2380595148787195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ that I am not to die on a gibbet.
 I have the honor to be your Excellency&#x27;s  
 most obedient and most humble servant,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1858031301:0184/pct:47.08249496981891,182.30566081065564,32.67296084197493,29.01596050063153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84027096:00279529479:1858031301:0184/pct:15.694164989939638,60.76855360355188,10.890986947324976,9.671986833543844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1282,7 +1282,7 @@ as the victim of policy and not of resentment, I shall ex-
 perience the operation of these feelings in your breast,  
 by being informed that I am not to di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531216:1875060301:0652/pct:102.69962595543991,189.1127647395535,46.85314685314685,8.219805380652547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531216:1875060301:0652/pct:34.2332086518133,63.03758824651784,15.617715617715618,2.7399351268841823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1311,7 +1311,7 @@ gibbet.” I nwilling to wound the piis
 oner&#x27;s feelings by a refusal, Washington  
 did not answer the letter, and Andre wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1876042701:0287/pct:72.37103174603175,43.88957055214724,11.160714285714286,6.441717791411043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524676:1876042701:0287/pct:72.35906761448173,43.88418598944915,11.163002149115556,6.443994601889338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1378,7 +1378,7 @@ marks me as the victim of policy and not of resentment,
 I shall expertence the operation of these teelings in your  
 breatt by being intormed that I am not to die on a gibbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879010101:0291/pct:12.871287128712872,154.84821691718244,50.19040365575019,12.083701738874153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1879010101:0291/pct:3.218434583888783,38.71205422929561,12.54999047800419,3.020925434718538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

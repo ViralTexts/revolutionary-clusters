@@ -262,7 +262,7 @@ last campaign, bv land, both in the north
 and south, has still deepened and confirmed  
 the impression
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815092001:0008/pct:51.14529342919244,52.85251619332337,15.114529342919244,5.580468360737419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815092001:0008/pct:51.13674356402541,52.84593349109478,15.117574947063412,5.583924938763649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ ing ourselves and all Christendom from the
 piratical Barbarians of Africa be reserved  
 for the American Navy Dost. Pat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815092001:0008/pct:50.84434041130246,58.43298455406079,15.432201972914228,24.701046337817637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815092001:0008/pct:50.83584085590104,58.42570681280359,15.435194472305806,24.702121476315025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ but to write and read comes by nature
 •no be a well-favored man is the gift of for­  
 tune. but to write and read comes by natur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853121701:0572/pct:31.647358010737495,39.00809004572635,12.103230667796929,0.9215617305663032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853121701:0572/pct:31.64437747221699,39.0053460889139,12.105230112387769,0.9238416807353217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ read, comes by nature.”
 Fatal Accident.—Nelson Hammond, who  
 drives on the Marysville and Camptonvill
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn93051083:00279557517:1860092901:0454/pct:18.760413195601465,48.452749345393954,14.245251582805732,4.284694120447512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn93051083:00279557517:1860092901:0454/pct:18.760413195601465,48.452749345393954,14.250805287126513,4.292628739189082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -494,7 +494,7 @@ nature.&quot; :1
 To be a well favored man is the gift of for­  
 tune ; but to write and read comes by nature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159373:1870022201:0026/pct:62.0026525198939,91.71042003231018,10.583554376657824,0.8077544426494345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159373:1870022201:0026/pct:62.01149425287356,91.71378567582121,10.587975243147657,0.8111200861604739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

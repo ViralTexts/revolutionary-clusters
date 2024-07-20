@@ -151,7 +151,7 @@ whose heart is J)er{ect. toward IHim.
 Herein thou hast done foolishly; therefore  
 from henceforth thou shalt have wars,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152809:1892032801:1184/pct:3.258381580718998,50.86297621553357,12.669987882051972,2.315302041675437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_displacerbeast_ver02:data:sn91070630:00514152809:1892032801:1184/pct:3.267357838517122,50.86297621553357,12.678964139850097,2.3223181084683926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ therefore from henceforth thou shalt
 have wars.”  
 Then Asa was angry with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:00393349128:1898100101:1022/pct:19.412360688956433,76.94025683975433,14.184397163120567,10.287548855388051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:00393349128:1898100101:1022/pct:19.40842787682334,76.92951849267271,14.186588330632091,10.28960223307746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

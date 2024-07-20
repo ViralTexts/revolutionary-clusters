@@ -62,7 +62,7 @@ INGTON, wait on-you, Sir, to express
 their condelence on &#x27;this melancholly  
 and diftrefling event. &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010101:0211/pct:23.12120740625486,86.28881222276983,16.5707172864478,6.160670280926565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800010101:0211/pct:23.131580312224468,86.29209791358633,16.560344380478192,6.163955971743059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ ington, wait on you, Sir, to express their con
 dolence on this melancholy and distressing  
 event
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077571A:1859022201:0385/pct:127.48091603053435,90.74150502132343,48.54961832061068,12.161232631723758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:0028077571A:1859022201:0385/pct:31.870229007633586,22.68537625533086,12.13740458015267,3.0403081579309394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ and beloved Washington, wait on you,
 first, to express their condolence on this  
 melancholy and distressing event
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862022201:0031/pct:38.73616565512317,83.55455269445181,11.281685112459837,3.278470931775949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862022201:0031/pct:38.749553730810426,83.5578709848686,11.281685112459837,3.275152641359172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ and beloved Washington, wait on you,
 llrst, to express their condolence on this  
 melancholy and distressing event.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190856:1870030801:0232/pct:1.4932928372563907,37.219730941704036,12.250063275120223,3.6995515695067263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190856:1870030801:0232/pct:1.5017295199527545,37.219730941704036,12.250063275120223,3.7057797708021925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ loved Washington, walt on you, sir, to ex­
 press their condolence on this melancholy  
 and distressing event
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777559:1875121401:1066/pct:156.13382899628252,122.29700701704138,43.56877323420074,14.492338536445654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777559:1875121401:1066/pct:39.040713887339656,30.574251754260345,10.894218256181446,3.6230846341114136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ the death of that grea and good man, the lilustrion
 and beloved Washington, wait on you, sir to ear  
 their condolence on this melancholy and distressin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885022201:0684/pct:232.44246473645137,111.57609513773897,49.88864142538976,7.285864820111396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885022201:0684/pct:58.13219457853695,27.894023784434744,12.47679168213888,1.821466205027849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ loved Washington, wait on vou, sir, to ex­
 press their condolence on this melancholy  
 end distressing event
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885032101:0378/pct:65.6297093649085,42.088847677653206,9.795479009687837,2.4192868582989124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1885032101:0378/pct:65.63688554000717,42.09446739160977,9.795479009687837,2.416477001320633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ ington , wait on you , sir , to express their condolence -
 dolenco on this melancholy uud distressing  
 event. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206538843:1890090701:0622/pct:58.30935251798561,43.604491920021914,16.672661870503596,3.766091481785812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206538843:1890090701:0622/pct:43.76462119848839,32.70336894001643,12.506748245456182,2.8348397699260475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ wait on you, sir, to express their con­
 dolence on this melancholy and dis­  
 tressing event.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022201:0938/pct:8.620689655172415,143.9419795221843,38.63146551724138,10.83617747440273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1898022201:0938/pct:2.8735632183908044,47.9806598407281,12.877155172413794,3.6120591581342434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ wait on you, fir, to express their con
 dolence on this melancholy and dis  
 tressing even
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899042901:1380/pct:125.970066518847,106.83724832214764,36.91796008869179,10.255872483221477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899042901:1380/pct:41.990022172949004,35.61241610738255,12.3059866962306,3.4186241610738257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ loss sustained by the Nation in the death
 of that great and good man, the illustrious  
 and beloved Washington.&quot; As the new
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899121401:0453/pct:20.361887311039855,74.46052517549181,16.868987631699497,2.8252014905971055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899121401:0453/pct:15.278891306837705,55.84539388161886,12.656053143969762,2.1232342490683767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

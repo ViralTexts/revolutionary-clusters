@@ -338,7 +338,7 @@ Comprising his Letters Private and official, his Public
 Documents, and his Speeches. Edited by his grandson,  
 Charles H. King. M. D. In course of publication. T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175038784:1895030201:0026/pct:105.48481880509304,35.091255178591425,46.88214169115246,6.8861269734632184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175038784:1895030201:0026/pct:35.16160626836435,11.697085059530474,15.62738056371749,2.2953756578210727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ lnl‘)hh letters, private and official, his
 public documents, and his speeches,’’  
 edited bg his grandson, Charles R. King
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152883:1896021701:0762/pct:15.33725543850048,74.88954344624447,12.997674100424135,2.8297917104986325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152883:1896021701:0762/pct:15.341816025904137,74.89655656076864,13.011355862635108,2.8297917104986325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

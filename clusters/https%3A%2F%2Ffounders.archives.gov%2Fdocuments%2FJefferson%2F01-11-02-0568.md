@@ -271,7 +271,7 @@ ficzundssi usssgcsh by. chesqssga . ty-ssos Vech-ctss
 &#x27;_ him?! Wissllfprctcp&#x27;ura and re-&quot;hctdsicf fit and coni- sse  
 ss-sifssrumzzxe food.ss &#x27;Wixhoat t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806062701:0668/pct:4.296100462656973,2.3082080260511444,47.57105089226702,90.70970213581074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806062701:0668/pct:4.295390715347762,2.307986975675158,47.5686987168897,90.7042073676818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ I the memory ol Ihtwo persons is held i„ great ics­
 ■&gt; i t in ..outh ( aroliuu, w Im lufroduved there the  
 mltiire ol rice, 11 plant which sows life n„d deat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821121501:0266/pct:21.54484519629748,26.88938208153253,14.873922757740186,59.011797687186075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821121501:0266/pct:21.5414073719483,26.886241532352255,14.87686825168874,59.00879856731293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1236,7 +1236,7 @@ lorAvardues*. The palm, hardier than the caper and
 oiange, never produces perfect fruit here.  
 I have the honor to lie, tee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821121501:0266/pct:36.62623683370571,4.158392711131877,14.826045323970636,20.791963555659386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821121501:0266/pct:36.62039253231211,4.1579070310675075,14.828998457528854,20.793428326714942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1545,7 +1545,7 @@ village. Take away these trees, and the same
 ground in corn would ftot support a single fums  
 ily
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1841020601:0025/pct:243.61478365384616,79.02638762511374,35.78725961538461,26.171519563239308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1841020601:0025/pct:81.20492788461539,26.342129208371247,11.929086538461538,8.723839854413102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1575,7 +1575,7 @@ their present inhabitants. Wherever the orange
 will grow, the olive will flourish, being a hardier  
 tree--and if will live for ages and bear abundant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1841020601:0025/pct:243.1640625,105.50500454959054,36.05769230769231,24.499545040946316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1841020601:0025/pct:81.0546875,35.16833484986351,12.01923076923077,8.166515013648771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2042,7 +2042,7 @@ into our own country.”—AM, Planter.
   
 THE SOUTHERN CHRISTIAN ADVOCAT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847040901:0095/pct:79.64760877382237,68.61065796628603,14.527148507731033,13.580750407830342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847040901:0095/pct:79.63329138953802,68.60133206470029,14.52903109832824,13.582302568981921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2190,7 +2190,7 @@ country.&quot;
 General A. C. Jones, of the Department of Agrie­  
 culture, has prepared, under direction of the co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531319:1878030101:0426/pct:101.78453403833443,121.85697808535178,48.44679444811633,16.839677047289506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531319:1878030101:0426/pct:33.92817801277815,40.618992695117264,16.148931482705443,5.613225682429834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2214,7 +2214,7 @@ wishes so kindled for the introduction of
 any article of new culture into our new  
 country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742149:1878030401:0224/pct:48.42708611037057,214.6556473829201,42.09544121567582,14.471992653810835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742149:1878030401:0224/pct:16.14236203679019,71.55188246097337,14.031813738558606,4.823997551270279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2242,7 +2242,7 @@ teresting papers treating of tbo culture and
 usca of several species of agricultural products  
 which are only known to tho majority of Ameri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878031501:0002/pct:72.03256302521008,41.32663316582914,13.130252100840336,7.035175879396985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_michigan_ver01:data:sn84031492:no_reel:1878031501:0002/pct:72.05225840336135,41.33165829145729,13.149947478991596,7.050251256281407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2316,7 +2316,7 @@ kindled for the introduction of any
 article of new culture into our new  
 urn try.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667413:1878040401:0145/pct:2.2358859698155396,42.79176201372998,19.088876467300167,9.402049547308726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667413:1878040401:0145/pct:1.6773832820799552,32.09630882499254,14.327648867766285,7.0540244751765995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2383,7 +2383,7 @@ kindled for the introduction of any
 article of new culture into our new  
 country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1878050901:0352/pct:58.39160839160839,21.71875,15.384615384615385,8.098958333333334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1878050901:0352/pct:43.801363874803286,16.2890625,11.54047910473859,6.080729166666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2439,7 +2439,7 @@ wishes so kindled for the introduction
 of any article of new culture into our  
 own country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_caliente_ver02:data:sn86091346:00415668569:1896100101:0162/pct:11.892829606784888,31.831455986649978,15.863531225905938,27.11722987067167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_caliente_ver02:data:sn86091346:00415668569:1896100101:0162/pct:8.926161557740505,23.87706855791962,11.895122421438211,20.34487553886803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

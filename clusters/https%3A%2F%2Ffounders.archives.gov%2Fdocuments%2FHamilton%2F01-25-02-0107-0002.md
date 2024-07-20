@@ -100,7 +100,7 @@ taken within cannon ffiot of the coaft, nor
 w.thln the jurifdi&amp;iou deferibed in article  
 twelve, lb long a# the provilions of the fai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808091201:0464/pct:21.85792349726776,54.65688737064202,17.87909836065574,5.596302622324927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808091201:0464/pct:21.85419156564794,54.65139642354832,17.880314154003756,5.598251959011453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ things ; and certainly It was not from an exerciae of the oon
 niitutional prerogative of Uoclaring war that cither ol them  
 derived validity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855020301:0145/pct:80.94382756368387,71.86681631126075,16.03527106466362,5.075445816186557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855020301:0145/pct:80.94382756368387,71.87512989982126,16.04071413019813,5.075445816186557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ act authorizing the reduction of French cruisers was an
 authoriz ation of war, limited, indeed, in its extent, but not  
 in its nature.&quot; John Marshall, before he had left thelloua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855033101:0403/pct:37.067011977986404,73.9879306009555,15.717060537390742,2.225295448830777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855033101:0403/pct:37.067011977986404,73.99212136451261,15.727851516132514,2.229486212387897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -235,7 +235,7 @@ charter of our liberties and a system of legislation found­
 ed on the principles of an honest policy, and dictated by  
 tbe spirit of an enlightened and diliusive patriotism. Le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852032101:0285/pct:0.8898589657488247,59.672505712109675,15.782404298186702,2.0563594821020565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852032101:0285/pct:0.8954555630176853,59.672505712109675,15.793597492724423,2.0690530591520693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ established by the virtue of the people, the
 greatness of the occasion invites us once  
 more to repeat, with solemnity, the pledge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1865120601:0342/pct:295.357833655706,217.29166666666666,38.555770470664086,46.354166666666664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1865120601:0342/pct:73.87518142235123,54.322916666666664,9.643605870020965,11.588541666666666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ established by the virtue of the people, the
 greatness of the occasion invites us once  
 more to repeat, with solemnity, the piedg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774960:1865120801:0626/pct:343.0735930735931,322.2796397460505,44.22799422799423,25.985530783995276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774960:1865120801:0626/pct:85.81483486735246,80.56990993651263,11.062985020754377,6.496382695998819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ sorrows, and strengthened by conflict, andes- ;
 tablished by the virtue of the people,the great j  
 ness of the occasion invites us once more to re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:0029602868A:1865121201:0187/pct:52.389734132472725,43.58748347289555,14.814814814814815,6.170118995152049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:0029602868A:1865121201:0187/pct:52.39485682085959,43.58748347289555,14.809692126427949,6.177464374908182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ established by the virtue of thethat
 people--the greatness of the occasion  
 invites us once more to repeat--wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775101:1865121401:0823/pct:67.29041916167665,266.5516249640495,50.89820359281437,51.59620362381363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076793:00280775101:1865121401:0823/pct:16.825753322103687,66.63790624101237,12.726932434961633,12.899050905953407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ re.-ponsibility for the destiny of republican
 liberty.&quot; More than seventy-six years have  
 glided away since these words were spoken
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287459:1865121401:0479/pct:45.600787918581744,81.87486562029672,20.05909389363099,4.332401634057192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn84026399:00237287459:1865121401:0479/pct:34.220032840722496,61.406149215222534,15.041050903119869,3.257364007740271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ by tho virtue of the people, tho great?
 ness of the occasion invites us once more  
 to repeat, with solemnity, the pledges o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1865121401:0231/pct:49.739583333333336,51.11731843575419,15.983072916666666,12.458100558659218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551244:1865121401:0231/pct:49.739583333333336,51.12476722532588,15.99392361111111,12.461824953445065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ country; and we add our own for the
 choicest blessings of heaven on the most  
 beloved of her citizens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768790:1898022201:0462/pct:19.81773470273398,29.53041622198506,12.483726312744105,2.2838847385272145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768790:1898022201:0462/pct:19.81773470273398,29.53041622198506,12.483726312744105,2.287442191390964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -171,7 +171,7 @@ space of one montk, or sooner, it it can be
 done,to be computed from the day cithe sig­  
 nature of the present articles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783042601:0344/pct:11.455308163923846,47.677312318540025,26.298806066473055,5.506014102032352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783042601:0344/pct:11.460686242874045,47.68076869901839,26.293427987522858,5.506014102032352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ to any private armed vessels empowering
 them to take or destroy such trading ships  
 or Interrupt such commerce.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871921:1899072701:0282/pct:109.34216537231613,58.84628610729023,17.21105527638191,16.764099037138926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871921:1899072701:0282/pct:82.02170188463735,44.13686382393398,12.906910336950315,12.577372764786794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

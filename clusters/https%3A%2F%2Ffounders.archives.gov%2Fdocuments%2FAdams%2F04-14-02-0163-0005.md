@@ -933,7 +933,7 @@ Methought I heard a spirit whisper fair;
 Tilgrim, forbear, still upwards raise thy mind,  
 “Look to the skies, thy native home is there.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824051101:0237/pct:5.724887357540418,31.723909075825453,17.51921547839915,23.676787788286045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824051101:0237/pct:5.723370429252782,31.71864631718646,17.52119766825649,23.677007299270073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ Still you, my parents, in its bosom holds,
 My fancy Hew, I ic.it the starting fear.  
 PiJgiim foibenr, .till upward mise thy mind 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827050401:0106/pct:21.42412935323383,42.49114521841795,17.9726368159204,12.125147579693035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827050401:0106/pct:21.4207990051298,42.48612914649982,17.975024612674233,12.127651202140637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1088,7 +1088,7 @@ My fancy flew, I felt the Starting tear
 Pilgrim forbear, still upward raise thy mind j  
 i.ook to the aides, thy naliv* M*otr is there.” I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827051701:0299/pct:3.84967919340055,31.245500359971203,20.41704857928506,18.30093592512599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827051701:0299/pct:3.8487972508591066,31.241002015548517,20.418098510882015,18.301900374316155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1393,7 +1393,7 @@ Methonght | heard a spirit whisper fair
 “Pilgrin, torbear, still upward raise thy mind,  
 “Louok totheskiesthy native home is there.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1828101601:0165/pct:7.342060330108139,3.647380301770227,35.173591348890156,91.48152548413924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1828101601:0165/pct:7.34838424081452,3.647380301770227,35.16726743818377,91.49340620173459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1417,7 +1417,7 @@ there was hul a single, jud a sudden Hep!
 °&quot; reluming to the I,„i, where I had lodg  
 ed I u role ihe follow ing lines in llie liunk : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1828102001:0080/pct:31.735398785848858,14.694767441860465,14.925685576721792,5.0726744186046515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1828102001:0080/pct:31.728756802009208,14.69263188490045,14.927794056090415,5.075570411277431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1826,7 +1826,7 @@ Methought I heard a spirit whisper fair: iT&gt;^ ^
 Look to the skies, thy notice kamt is there.&quot;*  
 s * ifft 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1848042801:0312/pct:50.56807935076645,67.17733188720173,15.130748422001803,18.302603036876356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1848042801:0312/pct:50.558961413631444,67.16822556594822,15.132527948070681,18.30351091229497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

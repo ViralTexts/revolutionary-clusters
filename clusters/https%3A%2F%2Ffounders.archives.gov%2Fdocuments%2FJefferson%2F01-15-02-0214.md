@@ -390,7 +390,7 @@ JOHN ADAMS, j
 To which the President was pleafcd to make the following reply—•  
 Gent lemen,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789052001:0003/pct:29.63071512309496,57.525534785122375,25.468933177022276,11.832723068028521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789052001:0003/pct:29.63071512309496,57.539988437078435,25.48358733880422,11.81826941607246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ tion, will not withdraw its
 providential influence before  
 our political felicity thall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789052801:0393/pct:33.30106485963214,14.456083803384367,36.95546950629235,78.9041095890411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789052801:0393/pct:33.30913197805744,14.46682782702122,36.97160374314295,78.9041095890411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ generally there was neither
 system nor respectability in  
 them ; that the business of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789060401:0397/pct:72.98963986186483,65.28464359751236,20.10360138135175,25.91293254664328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789060401:0397/pct:72.98963986186483,65.28995907085526,20.120046045058377,25.91824801998618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ those of FRIDAY, the 22d, which
 principally consisted in the discussion  
 of the merits of the elettion of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789060401:0398/pct:6.533883896040806,5.323013741904912,20.42749574933204,41.17832885800031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789060401:0398/pct:6.541980406444822,5.323013741904912,20.42749574933204,41.18885905333544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +655,7 @@ Reply.
   
 Gentlemen,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791102901:0003/pct:8.01963993453355,50.070447340612894,23.622476813966177,1.6731243395561817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791102901:0003/pct:8.01963993453355,50.070447340612894,23.649754500818332,1.686333215921099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ Gentlemen, &#x27;
 WITH real pleasure I. receive your Ad­  
 dress, recognizing the prosperous situa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795122901:0566/pct:31.862968015764743,74.84955384934634,19.433075640442624,7.460053953102303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795122901:0566/pct:31.86802081754333,74.85301238154527,19.433075640442624,7.466971017500173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ foundation of our national policy should be
   
 laid in private morality: if individuals be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293460:1872081801:0167/pct:36.615566037735846,16.791869200176755,14.283608490566039,4.385771100309324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293460:1872081801:0167/pct:27.469772928339722,12.593901900132568,10.719551754644648,3.2920901458241274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ position In favor of this country claim.
 our moset pious gratitude. We cooni  
 mend yiu,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555328:1888052901:0524/pct:256.4625850340136,219.83232148019658,53.99659863945578,22.318589187626483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555328:1888052901:0524/pct:64.1156462585034,54.958080370049146,13.499149659863946,5.579647296906621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ review of the many signal Instances of di­
 vine Intervention In favor of the country­  
 claims our most pious gratitude, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655181:1898022201:0438/pct:57.5666541494555,35.84249339084458,13.837776943297033,2.546264087936552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655181:1898022201:0438/pct:57.57134810364251,35.84945039654932,13.856552760045062,2.5497425907889246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ they were Inevitably led to acknowledge
 and adore the Uriat Arbiter of the uni­  
 verse, by whom empires rise and fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655181:1898022201:0438/pct:57.58542996620353,38.22178934186726,13.800225309800977,1.3774871295394462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655181:1898022201:0438/pct:57.59012392039054,38.22526784471963,13.819001126549004,1.384444135244191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ signal instances of Divine intervention
 in favor of the country claims our most  
 pious gratitude, and that they wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768790:1898022301:0474/pct:31.86749602198756,43.59710699851095,12.16548531751772,1.7762178259944692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768790:1898022301:0474/pct:31.86749602198756,43.60065234347302,12.16548531751772,1.7726724810324044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -850,7 +850,7 @@ inevitably led to acknowledge and
 adore the great arbiter of the universe  
 by whom empires rise and fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768790:1898022301:0474/pct:31.82409952263851,45.469049138481175,12.179950817300737,1.3295043607743033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:00280768790:1898022301:0474/pct:31.82409952263851,45.4761398284053,12.189594483822749,1.3224136708501737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -870,7 +870,7 @@ and that they were inevitably led to acknowl-
 edge and adore the great arbiter of the universe­  
 by whom empires rise and fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175036817:1898022301:0439/pct:57.21763959390863,139.6140116019634,47.11294416243655,8.099062918340026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_triumph_ver01:data:sn83030214:00175036817:1898022301:0439/pct:19.072546531302876,46.53800386732114,15.704314720812183,2.6996876394466756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ were inevitably led to acknowledge and adore
 the great Arbiter of the Universe, by whom em­  
 pires rise and fall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041566574A:1898022301:0535/pct:71.53573376977633,30.32604293236128,12.588652482269504,1.9643580396921831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:0041566574A:1898022301:0535/pct:71.54482633206038,30.32941811799649,12.588652482269504,1.9609828540569731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -914,7 +914,7 @@ were inevitably led to acknowledge and
 adore tho great arbiter of the universe by  
 whom empires rise and fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210697:1898022301:0344/pct:15.095640186110632,17.535328977359065,11.01154575219714,4.482601428354354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210697:1898022301:0344/pct:15.09303928325293,17.53266484351261,11.013955892487939,4.4857186265572775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -935,7 +935,7 @@ they were inevitably led to acknowledge
 and adore the great Arbiter of the uni­  
 verse, by whom empires ri&quot;e and fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109142:1898022301:0365/pct:76.29573170731707,69.1172296338348,16.5015243902439,4.016463241555493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109142:1898022301:0365/pct:57.25452812202097,51.845018450184504,12.392755004766444,3.0087993187624185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -955,7 +955,7 @@ try claims our moat pious gratitude, and
 I adore the great arbiter of the  
 universe by whom empires rise and fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199458:1898022301:0540/pct:129.97506965830766,266.0640732265446,37.688810676052206,7.025171624713959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199458:1898022301:0540/pct:43.32502321943589,88.68802440884821,12.562936892017403,2.3417238749046527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1012,7 +1012,7 @@ Congress added it- sanction by providing that
 to the president, he. ullended by the vice-pres­  
 ident and the members of the senate and hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212025:1898022501:1398/pct:17.798641630043946,81.54281098546042,14.402716739912105,3.7964458804523424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212025:1898022501:1398/pct:17.79508687837028,81.53183470184412,14.404833233473138,3.7993000403822856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1049,7 +1049,7 @@ itably led to acknowledge and adore
 the Great Arbiter of the Universe, by  
 whom empires rise and fall.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026409:0023728804A:1898030201:0071/pct:123.51172579675286,270.6002496312266,40.82982561635598,5.718824463860207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026409:0023728804A:1898030201:0071/pct:30.887218045112782,67.65006240780664,10.210526315789474,1.4297061159650517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

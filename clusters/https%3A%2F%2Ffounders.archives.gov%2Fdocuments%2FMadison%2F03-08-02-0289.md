@@ -50,7 +50,7 @@ resolution.
 Respectfully submitted.  
 JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814110901:0115/pct:6.559917355371901,8.16827631363562,21.77169421487603,6.629562939924702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1814110901:0115/pct:6.558223599277047,8.166939443535188,21.772527756261297,6.632569558101473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -76,7 +76,7 @@ solution*
 Respectfully submitted.  
 JAMES MQfyftOR
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814110901:0294/pct:74.84321806127934,62.59036144578313,16.789105895000898,7.108433734939759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814110901:0294/pct:74.82981010390542,62.58282134682568,16.792069747999523,7.111592980765369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ tion.
 Respectfully submitted,  
 . JAS. MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814111201:0223/pct:23.9618910659716,19.688598694123556,17.059140751393134,6.755399296835761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814111201:0223/pct:23.957584471603163,19.686126804770872,17.062065660196502,6.758736137267211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ tizen of the United States, has tire honor
 of submitting to the President the accom­  
 panying papers, received at the depart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818020301:0420/pct:45.414664716941715,80.11680726800779,16.79548777940255,3.9325113562621676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818020301:0420/pct:45.40517961570593,80.10641058915131,16.798941798941797,3.9363266718574272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ o* the United States, has the honor of
 submitting to the President the accom­  
 panying papers, received at the Depart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021701:0333/pct:33.38358458961474,25.06003842459174,15.159128978224455,3.3381364073006723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818021701:0333/pct:33.37799363590688,25.05702965542082,15.162172723720204,3.341737703605875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ The Secretary of the Treasury, in compliance
 with the resolution of the House of Representatives  
 of the 15th inst, has the honor of submitting th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841122501:1184/pct:14.22613531047266,29.565020389669233,37.45752239728143,3.545536927956502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841122501:1184/pct:4.741312741312742,9.853890587835542,12.483912483912484,1.1817117831388984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ pliance with the resolution of the House of
 Representatives of the 15th inst has the  
 honor of submitting the draught of a bil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1842011301:0008/pct:131.25556544968833,61.41152202740533,58.5040071237756,9.311919846765877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1842011301:0008/pct:32.83582089552239,15.352880506851333,14.635776342169748,2.327979961691469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

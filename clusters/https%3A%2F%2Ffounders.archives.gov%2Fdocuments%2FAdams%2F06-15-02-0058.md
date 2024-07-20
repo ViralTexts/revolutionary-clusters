@@ -267,7 +267,7 @@ the Adriralty, dre to give the neceflary
 cireCtions herein, as to them may refpective­  
 iy appertain. STEPHEN COTTREL.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783092701:0432/pct:9.331797235023041,4.317300639211988,55.71099407504938,84.74274337210521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783092701:0432/pct:9.331797235023041,4.324286562576408,55.72196620583718,84.739250410423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ and the Lords Commiffoners of the Admiralty, are tc give
 the neceflary direliisns berein, as to them may. rr/;,eéfi‘w{y  
 appertain. Stepfv. Cotirell.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785081201:0133/pct:66.75792835957107,45.02923976608187,28.701802418434863,37.99670115459589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025586:0051701512A:1785081201:0133/pct:66.75792835957107,45.02923976608187,28.70940755951023,37.99670115459589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ ly fubjet and liable if exported to any
 Britith colony or plantation in America ;  
 and that the said duties shall be raised
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788060501:0202/pct:31.144343302990897,16.187683284457478,19.02904204594712,12.947214076246334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788060501:0202/pct:31.158792082069066,16.187683284457478,19.01459326686895,12.956989247311828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ his majesty, tobacco, pitch, tar, turpentine, hemp,
 flax, masts, yards, bowsprits, staves, heading boards,  
 timber, shingles, and lumber of any sort, horses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804111601:0217/pct:27.362409138110074,53.44155844155844,22.144340602284526,1.8506493506493507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804111601:0217/pct:27.35530755255645,53.43288427203376,22.14508175447703,1.854406752150625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ majesty s treasury, and the lords commissioners of
 the admiralty, are to give the necessary directions  
 herein as to them may respectively appertain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806112401:0227/pct:30.38130381303813,91.15569823434991,20.95940959409594,3.451043338683788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806112401:0227/pct:30.373831775700936,91.14106884930187,20.960403344810626,3.4545016851227732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -918,7 +918,7 @@ are to give the necessary directions herein as to
 them may respectively appertain.  
 b. COTTRELL.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809080401:0104/pct:24.105865522174536,86.18589353148982,16.648783977110156,4.2148861006212694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809080401:0104/pct:24.10155551582335,86.1753958587089,16.651767089814648,4.218432805521721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -968,7 +968,7 @@ the continent of S v h America, or
 . der the dominion of his majesty, shall  
 , after such importation be exported o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809111701:0003/pct:42.55702280912365,35.263987391646964,18.48739495798319,17.861833464670344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809111701:0003/pct:42.5703614779245,35.263987391646964,18.49406429238362,17.87058926538832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1005,7 +1005,7 @@ of the Territories belonging to the United States
 of America, from the said Territories to the port  
 af Saint George, in tha Island of Bermuda, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815042401:0307/pct:28.448711470439616,59.35525676332416,21.526023244062657,8.731572979102543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815042401:0307/pct:28.44152563778732,59.34564301911241,21.52690073250821,8.734207968901847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1037,7 +1037,7 @@ yards, bowsprits, staves, heading,boards and
 plank, timber, shingles, and lumber of every  
 sort, horses neat cattle, sheep, hogs, poultr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815060301:0037/pct:2.422946730803492,43.042880360045004,17.601995367895956,11.326415801975246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815060301:0037/pct:2.4225151407196295,43.0375,17.604797529984562,11.329166666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1086,7 +1086,7 @@ importation of masts, yards, bowsprits, staves,
 heading, boards, timber, shingles an i lumber of  
 any sort, of wliatever country such article
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815061701:0177/pct:22.571692876965773,23.85194479297365,17.465309898242367,1.6938519447929736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815061701:0177/pct:22.56751757306696,23.848952452640823,17.4682451596991,1.6978212687659433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1275,7 +1275,7 @@ has permitted ’he imputation of “ pitch, tar,
 turpentine, hemn, flax, masts, yards, bow­  
 sprits, staves, heading, boards, timber, shinghs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820121201:0199/pct:23.086844368013757,6.960326140996321,16.265405560332475,2.197474395943124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820121201:0199/pct:23.086844368013757,6.966955023035365,16.274959396197573,2.194159954923602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

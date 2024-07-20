@@ -115,7 +115,7 @@ Whole, and on the 4th of July adopted the well­
 kaowa peetehatiol of Independence,  
 After being signed, copies of the Declaration wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851012401:0315/pct:3.990490745457633,70.27093900779414,12.548819833588045,3.3527155759000373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851012401:0315/pct:3.9898132427843804,70.262246412667,12.5509337860781,3.3553933696190006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ the date of otir act of im^peodencr. On the lltb ot June,
 mittee be appointed to prepare and digest the form of a  
 confederation to be entered into between the colonies 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854041201:0552/pct:1.0846343467543138,65.39722572509457,15.546425636811833,1.9672131147540983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854041201:0552/pct:1.0901122980005478,65.40563261874738,15.5573815393043,1.9630096679277007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ consists of five: The members chosen Mr.
 Jefferson, Mr. John Adams, Mr. Franklin,&#x27;  
 Mr. Shcrtaan,&#x27; and Mr! R. R. Livingston.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027534:1856070101:0427/pct:108.6880669923238,90.99513605889312,16.60851360781577,3.733403444196135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027534:1856070101:0427/pct:81.56746378076453,68.25292493755751,12.462908011869436,2.8000525831471013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ tee: Mr. Jefferson, Mr. John Adams, Mr.
 Franklin, Mr. Sherman, and Mr. R. R. Liv­  
 ing torise asth of Jane a declaration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1860071101:1143/pct:262.5207296849088,361.4070938549117,58.70646766169154,11.151656692453656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1860071101:1143/pct:65.67102260941714,90.35177346372792,14.685749844430616,2.787914173113414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ that a committee be appointed to prepare and digest the
 form of a confederation to be entered into between the  
 colonies. Aad after due deliberation, the Articles o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863062301:0160/pct:7.376793512164691,55.79100796053369,18.558951965065503,2.029375490525844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863062301:0160/pct:5.538221528861154,41.84325597040027,13.931357254290171,1.5248346227155511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ form of a confederation to be entered into between the
 .colonies. And after due deliberation, the Article of (km­  
 federation were agreed to in Congress, :on the 1 5th of No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:5.365210843373494,55.89464353551982,20.143072289156628,2.140053184753704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:4.030890939913355,41.92731416993795,15.125258994160859,1.6082056477143218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ members chosen, Mr. Jefferson, Mr. John
 Adams, Mr. Franklin, Mr. Sherman, and Mr.  
 B* U. Livingston
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874070401:0157/pct:2.7919298960668435,68.01186943620178,11.086203382922356,2.477744807121662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874070401:0157/pct:2.7919298960668435,68.01681503461919,11.10658243325861,2.477744807121662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ colonies. - On the day following a com­
 mittee composed of members of one from  
 each colony, were appointed to perfor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077272:00296027248:1882051101:0519/pct:54.32213930348259,59.30763378138473,13.588308457711443,3.9944204920111592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077272:00296027248:1882051101:0519/pct:40.75571450785259,44.48389551103221,10.185041206655264,3.0053258939893484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ colonies. On the day following a com­
 mittee composed of members of one from  
 each colony were appointed to perfor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195052:1882051201:0403/pct:165.72944297082228,277.8602281537269,40.318302387267906,24.1444235241998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195052:1882051201:0403/pct:41.44885232851267,69.46505703843172,10.08358763433727,6.03610588104995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ colonies. On the day following a com
 mittee composed of members of one from  
 each colony, were appointed to perfor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069392:00202195088:1882052501:0771/pct:157.38866396761134,189.54537714966798,53.340080971659916,14.847607696237016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069392:00202195088:1882052501:0771/pct:39.35712477853708,47.386344287416996,13.338395342951152,3.711901924059254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ ll. passed &quot;that the committee for preparing
 S the declaration consist of five: The members  
 chosen, Mr. JeFFerson, Mr. John Adam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884070401:0648/pct:6.43451930355791,351.4224533496482,66.99470098410295,6.240440501682472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884070401:0648/pct:1.608934317622563,87.85561333741205,16.751845542305507,1.560110125420618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

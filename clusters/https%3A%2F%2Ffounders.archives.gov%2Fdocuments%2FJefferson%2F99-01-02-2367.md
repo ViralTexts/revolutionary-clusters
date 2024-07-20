@@ -608,7 +608,7 @@ only, as are injurious to others. But it
 does me no injury for my neighbor to say  
 there are twenty gods, or no God. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1859031101:1017/pct:57.856567284448026,63.49846390168971,42.519473542841794,6.624423963133641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1859031101:1017/pct:19.285522428149342,21.166154633896568,14.17315784761393,2.208141321044547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ But it docs me no injury for my neighbor
 to say there are twenty gods, or no God.  
 It neither picks my pocket nor breaks m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862040301:0199/pct:96.56552614590058,92.56090756927655,40.68431245965139,8.443369908871118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1862040301:0199/pct:32.188508715300195,30.853635856425516,13.561437486550462,2.8144566362903727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

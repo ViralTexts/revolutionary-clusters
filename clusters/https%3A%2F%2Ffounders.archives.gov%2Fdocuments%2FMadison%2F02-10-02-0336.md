@@ -42,7 +42,7 @@ now the pleasure to send you the result,
 , and  
 i un-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805121101:0002/pct:76.31739572736521,86.84244707104818,16.927772126144454,7.559423301727497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805121101:0002/pct:76.32417768735165,86.85110620426896,16.948118006103766,7.568082434948262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -88,7 +88,7 @@ that my exertions have been effectual*
 and will probab Lure cup..  
 tures on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805121301:0001/pct:78.56987137562678,58.39165637436531,17.89840854589056,20.035679978043092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805121301:0001/pct:78.58440520311024,58.39165637436531,17.891141632148827,20.035679978043092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ city. _ ss &#x27;
 si&#x27;sssshdve been eﬀecmal, and Will-probably pre­  
 &#x27; rent futureicaptures on that growth&quot;, - &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1805121301:0016/pct:4.0957275939608095,29.06835773570829,23.273369739800835,13.345145947962324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1805121301:0016/pct:4.095069857074033,29.065647146587093,23.274985279160646,13.347009822205644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ tual, and will probably prevent future cap­
   
 tures on that ground. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1805121601:0024/pct:29.424066924066924,42.464729515089225,23.06949806949807,23.00289638419135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1805121601:0024/pct:29.419334083963328,42.460762331838566,23.071149000053616,23.00386148480319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ leave no doubt of its authenticity. Bv this it appear*
 that my exertions may have beeu effectual, and will  
 probably prevent future captures on that ground.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805121701:0264/pct:3.184116875819442,15.0133706863619,17.868514703127925,7.271106583471285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805121701:0264/pct:3.183520599250936,15.011459129106187,17.871410736579275,7.274424921483745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ no doubt of its authenticity, llv this it appears that
 my exertions have been effectual, and w ill probably  
 prevent future captures on that ground 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805121801:0865/pct:9.440726577437859,43.40554316661357,20.673996175908222,8.26696400127429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805121801:0865/pct:9.438470728793309,43.39863035515209,20.675029868578257,8.269628921802834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ probably prevent faturc captures on that
 ground.”  
 The order of the Spanish court recent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805121801:0438/pct:42.4031007751938,4.497770784159455,18.003875968992247,11.801730920535011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805121801:0438/pct:42.39488471226507,4.497181067261046,18.00684621843312,11.804553996765875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ appear&quot;, that my exertion* have been cffe&amp;ual, and
 will probably prevent future capture* on that ground.  
 From the Secretary of State and of the Marine to the Dl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805121901:0268/pct:4.317757009345795,71.11647402514924,18.0,14.289343325288963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805121901:0268/pct:4.316950102784526,71.10744221488443,18.002865508004735,14.291761916857167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ future captures on that ground.
 fTRA&#x27;lTStATIO&#x27;A.1  
 From the S*crctary of State anti of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805122401:0445/pct:40.476651811664404,37.29658792650918,17.94225925208293,21.20734908136483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805122401:0445/pct:40.46881053855095,37.29169400341163,17.94524086271471,21.208940209071425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

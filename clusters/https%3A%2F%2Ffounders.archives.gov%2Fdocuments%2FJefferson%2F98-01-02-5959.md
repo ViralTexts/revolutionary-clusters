@@ -33,7 +33,7 @@ what I could have expected, has countervailed all
 1 suffered, and become a source of felicity which  
 1 should otherv isc never have known.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826032401:0391/pct:47.43956743002545,19.938359412043624,14.933206106870228,3.532479848269322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826032401:0391/pct:47.43202416918429,19.935996207182647,14.936131870461653,3.5360120105882817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ vailed all I suffered, and become a source of fe­
 licity which I should otherwise never have  
 known.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826033101:0220/pct:61.49200130590924,90.30595091336994,16.92784851452824,4.718144121932085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826033101:0220/pct:61.48196507262934,90.29583146571045,16.930526086719983,4.721350664873749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ ed all I suffered, and become a source
 of felicity which I should otherwise ne­  
 ;yer have known.’*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826040401:0412/pct:68.85040684331317,7.018362900715842,12.518255789693303,4.730781201369437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826040401:0412/pct:68.8360450563204,7.017270888439397,12.520859407592825,4.73393496187957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ suffered and became a source of felici­
 ty which I should otherwise never bav®  
 known.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826040601:0061/pct:74.32663531423685,78.62205840657782,16.65241556220607,5.854834136660051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826040601:0061/pct:74.31075016029067,78.61091424521616,16.654199615302414,5.857547838412473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -173,7 +173,7 @@ citly assured by the treaty with (sreat: Bri­
 tain, France, and the Uaited States, which  
 shall terminate the war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782060801:0160/pct:9.97048212528698,42.932642487046635,27.17284355526402,7.33678756476684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782060801:0160/pct:9.97048212528698,42.93609671848014,27.189242374549032,7.3402417962003454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -737,7 +737,7 @@ in uscmeanvfor preventing t u- consequence* o
 •UiCfcM to Ur. H. Adanu ui.&lt;4 hit pm ty / ami 11  
 / I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808081201:0122/pct:59.679793890320205,58.63024046330102,17.44571218255429,38.53707667128289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808081201:0122/pct:59.6688132474701,58.62286002014099,17.448635387917818,38.536421617992616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ j have declared ut an early period, to the Ainei i­
 cans, that their pretension is not founded, :.nd  
 that his Majesty does not support it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808081201:0122/pct:77.30953257269047,5.413571698350749,18.27383143172617,49.6663729069621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808081201:0122/pct:77.29530818767249,5.41289023162135,18.276602269242563,49.66431688486069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ out their knowledge am! concurrence, and
 ultimately to govern themsel c*£s by their ad­  
 vice and (rpinion 7 From the fatal con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811080201:0076/pct:6.495016611295681,71.50066653970673,21.561461794019934,5.989335364692439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811080201:0076/pct:6.493937884072413,71.49385889745787,21.563416929635167,5.991938811133327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ udiua, riiuiMm &lt;uiu uav, iu nutKts me lTlOSl
 ‘ and, ultimately to govern themselves by  
 * their advice and opinionFrom the fata
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811081601:0135/pct:24.808005585292065,58.50242926550443,21.875727251570865,6.158902543583881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811081601:0135/pct:24.80223359702187,58.49407058151164,21.87645416472778,6.161594513501929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -925,7 +925,7 @@ upon the testimonies of several delegates,
 that tlic measure is approved by a great ma•  
 Jorlty.n What this secret ultimatum wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814053001:0047/pct:20.460676488898113,63.17487028467256,18.157294044407553,12.84532323657271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814053001:0047/pct:20.456431535269708,63.16601233875491,18.15871369294606,12.847027481772294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -967,7 +967,7 @@ nation had even in our court&#x27;;!* ; md with
 the sad effects of it our Commissioners lor  
 peace, Jay and Adams, h id to contend i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814053001:0047/pct:20.377671716123675,12.438648155938859,36.33533928200872,81.50329547048099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814053001:0047/pct:20.37344398340249,12.43690409422322,36.33298755186722,81.4953729669097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1221,7 +1221,7 @@ ultimately to govern themselves by their advice
 and opinion.&quot; This extraordinary instruction.  
 which made the French King master of the terms o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:0017503805A:1885021301:0382/pct:5.126937026046818,31.07163323782235,48.81305637982196,7.01432664756447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:0017503805A:1885021301:0382/pct:1.7089790086822727,10.357211079274116,16.271018793273985,2.33810888252149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1339,7 +1339,7 @@ ble resolution, his sagacity, his patience,
 j perseverance and pure public virtue were  
 : nexer exceeded by any man ln America.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899101601:0268/pct:29.49843260188088,6.720055710306407,26.927899686520377,91.30687093779015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037895:1899101601:0268/pct:29.49843260188088,6.727793252862891,26.927899686520377,91.3107397090684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

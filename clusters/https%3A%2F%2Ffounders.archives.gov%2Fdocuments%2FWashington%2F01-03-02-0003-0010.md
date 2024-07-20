@@ -58,7 +58,7 @@ NEW BOOKS.?Memoirs of his own time,
 with reminiscences of the men snd events of  
 the revolution, by Alexander Graydon, 1 volume
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846060101:0574/pct:84.88632724943965,68.64736116334461,13.944924751841178,2.5197442647611883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846060101:0574/pct:84.88632724943965,68.64736116334461,13.950261500693777,2.528101625506665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -75,7 +75,7 @@ N&#x27;EW BOOKS.?iMemoirs of hia own time, ^
 _ withreminiscenc.es of the men and events of  
 the revolution, by Alexander Qraydon, 1 volume 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846061301:0620/pct:85.35964353914704,86.66078851240711,14.576702737110121,1.7760423227106688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846061301:0620/pct:85.37025249310418,86.66498719402108,14.57139826013155,1.7844396859386153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ VEW BOOKS.?Memoirs of his own time,
 with reminiscences of the men and events 4  
 le revolution, by Alexander Oraydon, 1 volum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846061501:0624/pct:85.50631898896177,87.75868556377775,13.261878099504079,1.693214599272545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846061501:0624/pct:85.51698394923478,87.76286634056608,13.256545619367568,1.6973953760608722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ Memoirs of his own Time, with Reminiscences
 of the Men and Events of the Revolution, by Al­  
 exander Graydon, edited by John Stockton Lit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846061701:0171/pct:77.85829307568439,60.52684903748734,14.905394524959743,9.023978385680513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846061701:0171/pct:77.85045788467345,60.52276104282048,14.907249002046225,9.025620244045207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ Memoirs of his oxen Time, with Reminiscences
 of the Men and Events of the Revolution, by Al­  
 exander Graydon, edited by John Stockton Lit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846062001:0183/pct:78.86106141920095,66.52000270764232,14.6591134963228,1.4688959588438368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846062001:0183/pct:78.85322468448773,66.51550020305943,14.660969227201962,1.4710527503271513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ Memoirs of his own Time, with Reminiscences
 of the Men and Events of the Revolution, by Al­  
 exander Graydon, edited by John Stockton Lit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846062301:0191/pct:79.49155948553054,59.175271647432005,14.90152733118971,9.097658095430925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846062301:0191/pct:79.48357279212298,59.171278175192334,14.903379215646874,9.09929365186485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ Memoirs of his own Tune, with Reminiscences
 of the Men and Events of the Revolution, by Al­  
 exander Graydon, edited by John Stockton Lit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846062401:0195/pct:77.868030485359,65.81997035439967,14.761331728840753,1.5361811076674303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846062401:0195/pct:77.86022260102276,65.81553594286869,14.76319395701728,1.538323339845943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ Memoirs of his own Time, with Reminiscences
 of the Men and Events of the Revolution, by Al­  
 ! enander Graydon, edited by John Stockton Lit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846062601:0203/pct:62.893897088153174,77.15157680569685,15.047865975269247,9.440488301119023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846062601:0203/pct:62.88762588493369,77.14634477146345,15.04968923455313,9.442108594421086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ B &quot;MEMOIRs oF HIS OWs TIMe, with Re.
  miniscences of the Men and Events of the Revolution, by  
 AleaNdea GrardoN, Elited by John Stockton Littell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846062901:0093/pct:129.33729290403252,254.43318187114062,43.372929040325104,4.9516486077129205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846062901:0093/pct:43.112430968010834,84.81106062371354,14.4576430134417,1.650549535904307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ Memoirs of his oxen Time, with Reminiscences
 of the Men and Events of the Revolution; by Al­  
 exander Graydon, edited by John Stockton Lit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846062901:0211/pct:63.096774193548384,82.95132803020088,14.630272952853598,1.4426317918295808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846062901:0211/pct:63.09051210797936,82.94573643410853,14.632129151779807,1.444781485226379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,9 +314,9 @@ Graypon. Edited by John S. Littell, Member of th
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1846-07_19_97/page/n75/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1846-07_19_97/page/n75/mode/1up?view=theater)
 
-#### 1846-07-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1846-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 

@@ -135,7 +135,7 @@ House of Reprefentativea, .By O:der of the Senate,
 JAMES SHARP, C. 8.  
 AL L those who have any demands ou this State, in conse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783071901:0394/pct:36.7687074829932,20.626574652207253,27.602040816326532,9.968233103297186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783071901:0394/pct:36.77437641723356,20.630226019644358,27.613378684807255,9.97188447073429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ the exprels prohibition of the govern­
 ment of the United Statee, and of this  
 state, informed the honfe that the com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010601:0003/pct:6.4655172413793105,64.0122199592668,19.09814323607427,10.590631364562118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010601:0003/pct:6.4655172413793105,64.0122199592668,19.147877984084882,10.60590631364562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ quires (hoiild be preserved ; and as many
 of the citizens of this state may be induc­  
 ed, by the insidious arts of the persons act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010601:0003/pct:27.553050397877985,27.576374745417514,19.16445623342175,9.979633401221996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010601:0003/pct:27.569628647214856,27.59164969450102,19.189323607427056,9.979633401221996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ Bv order of the House,
 JOHN SAND FORD DART,  
 Clerk of the House of Reprefentativis.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010801:0003/pct:71.8511133266866,65.06710044733632,19.308740445330674,12.098413989426597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010801:0003/pct:71.86773014290462,65.08235054900366,19.31704885343968,12.108580723871492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ a letter fromM. Genet, Minister Plenipo­
 tentiary of the Republic of France to the  
 United States, dated the 2cth Decembe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794011501:0003/pct:69.71279373368147,19.8097936058276,19.12532637075718,5.989477944152165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794011501:0003/pct:69.72911227154047,19.814852286523674,19.12532637075718,5.99453662484824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ the said com millions, and in obedience
 to the inftruftionsrof Mr. Genet, and  
 his Agents, particularly Mr. Mangourit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794013001:0001/pct:49.636243386243386,28.08553971486762,19.047619047619047,51.40529531568228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794013001:0001/pct:49.64451058201058,28.09572301425662,19.055886243386244,51.40529531568228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ That thishoufe do agree to the furcgoiijr
 report. Ordered, That the report ai d  
 Tcfolntion be fetil to the Senate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794013001:0001/pct:49.735449735449734,10.896130346232178,40.50925925925926,79.18533604887983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794013001:0001/pct:49.76025132275132,10.896130346232178,40.50099206349206,79.19042769857434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -676,7 +676,7 @@ lutions.
   
 Ordered, That the resolutions be lent to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794020401:0001/pct:30.338196286472147,75.70379436964504,19.59549071618037,12.545899632802938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794020401:0001/pct:30.346485411140584,75.70379436964504,19.628647214854112,12.576499388004896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ Treasury Department,
 NOTICE is hereby given, that proposals will  
 be received at the Office of the Secretar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794020701:0004/pct:32.46124031007752,64.14941128704831,18.959948320413435,16.34185952090946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794020701:0004/pct:32.46124031007752,64.16463662200569,18.959948320413435,16.346934632561915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ Treasury Department,
 XTOTICE is hereby given, that proposals will  
 IN be received at the Office of the Secretar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794021001:0004/pct:32.19309462915601,60.59202577527185,18.67007672634271,18.24405960531615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794021001:0004/pct:32.20907928388747,60.602094240837694,18.6940537084399,18.239025372533227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -813,7 +813,7 @@ Houlc ot Rrprefentativei.
   
 By oidrr of the Senate,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794021101:0004/pct:11.897208121827411,62.102935263369524,18.718274111675125,13.691194209891435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794021101:0004/pct:11.913071065989847,62.11801367108966,18.742068527918782,13.67611580217129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,7 +861,7 @@ FELIX WARLEY, Clerk.
   
 ewtNov.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794021201:0004/pct:11.835443037974683,60.04832863471607,18.79746835443038,17.33789770438985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794021201:0004/pct:11.85126582278481,60.05336286749899,18.79746835443038,17.342931937172775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ FELIX WARLEY, Clerk.
   
 ewtNov.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794021301:0004/pct:11.641221374045802,63.292929292929294,18.575063613231553,14.909090909090908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794021301:0004/pct:11.649173027989821,63.303030303030305,18.59096692111959,14.914141414141413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ received and accepted a military com­
 miflion from Genet, minister plenipotenti­  
 ary from the republic of France, autho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794021501:0001/pct:70.31963470319634,31.772305207912797,19.373776908023483,12.111425111021397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794021501:0001/pct:70.34409654272667,31.782398062171982,19.381930854533593,12.106378683891805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ House ot Representatives.
   
 By order of the Senate,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030501:0004/pct:31.621447028423773,78.72939284278247,19.186046511627907,12.303980699638117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030501:0004/pct:31.62952196382429,78.7394451145959,19.186046511627907,12.298954563731403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ By order of the Senate,
   
 ewtNov,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030601:0004/pct:32.17005076142132,78.02573381584239,19.003807106598984,14.595898673100121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030601:0004/pct:32.18591370558376,78.02573381584239,19.003807106598984,14.60595094491355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1078,7 +1078,7 @@ FELIX WARLEY, Clerk.
   
 FOR SALE,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030701:0004/pct:32.832480818414325,7.48695303091128,32.928388746803066,84.38378161380972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030701:0004/pct:32.84846547314578,7.491971095945403,32.928388746803066,84.39883580891208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1125,7 +1125,7 @@ Ordered, That the resolutions be lent to the
 House of Representatives.  
 By order of the Srnafe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031701:0004/pct:26.675257731958762,74.86804709703614,24.484536082474225,15.712545676004872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031701:0004/pct:26.675257731958762,74.87819732034104,24.500644329896907,15.707470564352416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1170,7 +1170,7 @@ FELIX Clerk.
   
 CWtNoT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031801:0004/pct:25.87818240412504,77.62464531820024,24.331292297776347,14.43048236724767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031801:0004/pct:25.88623912342894,77.6297122010539,24.355462455688045,14.435549250101337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1208,7 +1208,7 @@ lutions.
   
 Ordered, That (be resolutions be lent to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032001:0004/pct:53.14935064935065,77.86951268626662,19.285714285714285,11.921063229963753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032001:0004/pct:53.14935064935065,77.86951268626662,19.3262987012987,11.936165928312525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1253,7 +1253,7 @@ FELIX WARLEY, Clei*.
   
 ewtNov,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032201:0004/pct:50.88350785340314,77.31386260798025,19.077225130890053,14.561908679555739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032201:0004/pct:50.899869109947645,77.3241464417935,19.093586387434556,14.577334430275608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1298,7 +1298,7 @@ FELIX WARLEY, Clerk.
   
 ewtNov.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032701:0004/pct:71.1870026525199,67.38001246623728,19.59549071618037,14.772491169748598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032701:0004/pct:71.19529177718833,67.38520673176812,19.620358090185675,14.772491169748598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1339,7 +1339,7 @@ lul ions,
 Ordered, That the resolutions be sent to thfc  
 Houtc of Reprclentatives.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032801:0004/pct:72.27423739051646,68.61520998864927,19.93355481727575,13.185773741959894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794032801:0004/pct:72.27423739051646,68.61993946273175,19.941105406221684,13.204691638289821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1383,7 +1383,7 @@ FELIX WARLfeY, Clerk
   
 ewtNov.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794043001:0004/pct:30.019824412347777,43.402137854773315,18.465024072500707,14.467379284924437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794043001:0004/pct:30.041064854148967,43.402137854773315,18.457943925233646,14.476594176188721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1415,7 +1415,7 @@ House of Reprefe ritatives in the foi cgomg refo- (
 lutions. ]  
 Ordered, That the rcfolulions be lent to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794050701:0004/pct:31.28800442233278,37.6,20.729684908789388,10.818181818181818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794050701:0004/pct:31.30873410724157,37.6,20.729684908789388,10.822727272727272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1455,7 +1455,7 @@ That tire refolutiom be sent lo the
 Houfeot Rcprefcnutive*.  
 by order oT the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794051501:0004/pct:31.21794871794872,49.606616905386325,19.262820512820515,13.314504740770627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794051501:0004/pct:31.233974358974358,49.606616905386325,19.262820512820515,13.319548113778495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1490,7 +1490,7 @@ House ot Reprelentativcs.
 by order of the Senate,  
 FELIX WARLEY, Clerk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794051901:0004/pct:74.17962003454231,64.61880088823094,18.364997121473806,12.805329385640267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794051901:0004/pct:74.18681635002879,64.6280532938564,18.39378238341969,12.809955588452997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1527,7 +1527,7 @@ lutions.
 Ordered, That the resolutions be sent to tbr  
 Houle ot Reprelentativi s.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794052001:0004/pct:72.69076305220884,64.3463810930576,18.674698795180724,11.6506646971935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794052001:0004/pct:72.7122776821572,64.3556129985229,18.667527251864602,11.664512555391433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1566,7 +1566,7 @@ House of Representatives.
 by order of the Senate,  
 FELIX WARLEY, Clerk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794052201:0004/pct:72.59216919119748,61.10294117647059,18.205201486138897,15.202205882352942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794052201:0004/pct:72.60645898828237,61.11672794117647,18.226636181766217,15.197610294117647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1590,7 +1590,7 @@ the government of the United States,&quot;
 informed ihe House, that himfelf and the  
 other members of that committee, ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794052601:0002/pct:72.61657261657261,76.25,19.156519156519156,7.555147058823529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794052601:0002/pct:72.61657261657261,76.25,19.186219186219187,7.555147058823529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1612,7 +1612,7 @@ permission, and contrary to tne express
 prohibition of the government ot tne  
 Raited, States, and of this ftatc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794052601:0003/pct:6.332842415316642,20.351069665386724,18.20324005891016,6.2717132931066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794052601:0003/pct:6.332842415316642,20.364783324190896,18.225331369661266,6.262570853903822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1649,7 +1649,7 @@ Hpule ot Representatives.
 by order of the Senate,  
 FELIX WARLEY, Clerk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794052701:0004/pct:69.56274843838727,63.305270863836014,18.34185122089722,13.854319180087847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794052701:0004/pct:69.58404315729699,63.314421669106885,18.348949460533788,13.854319180087847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1686,7 +1686,7 @@ Houfe.ot Representatives.
 by order of the Senate,  
 FELIX WARLEY, Clerk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794052801:0004/pct:71.16094237865455,62.988209285187914,17.854101617939257,13.854089904200443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794052801:0004/pct:71.17513482827135,62.992815033161385,17.86829406755606,13.863301400147384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1724,7 +1724,7 @@ House of Representatives.
 by order of the Senate,  
 FELIX WARLEY, Clerk.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794053001:0004/pct:71.48841105836358,62.839325018341896,18.011728567439263,13.939838591342626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794053001:0004/pct:71.50935492879084,62.84849596478357,18.004747277296843,13.949009537784299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1759,7 +1759,7 @@ House of Reprefentaiives.
 by order of the Senate,  
 FELIX WARLEY, Clerk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060201:0004/pct:69.63003865267808,74.94967978042087,19.574820541137495,13.247941445562672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060201:0004/pct:69.6507454445058,74.94967978042087,19.56791827719492,13.252516010978956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1796,7 +1796,7 @@ House of Representatives.
 by order of the Senate/  
 FELIX WARLEY, Clerk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060601:0004/pct:70.70116861435726,73.7582176771366,18.14134668892599,14.079620160701241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060601:0004/pct:70.7220367278798,73.76278305332359,18.13439065108514,14.08418553688824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1836,7 +1836,7 @@ e — —
 y PHILADELPHIA :  
 Printed by JOHN FENNO, N0.,f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060701:0004/pct:75.97014925373135,75.48374976517002,22.149253731343283,17.715573924478676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794060701:0004/pct:75.9776119402985,75.48374976517002,22.17910447761194,17.729663723464213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1872,7 +1872,7 @@ Ordered, That tire resolutions be lent to
 the House of Representatives.  
 by order of Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794061401:0001/pct:23.738170347003155,78.34299917149959,16.114616193480547,12.294946147473073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794061401:0001/pct:23.75131440588854,78.34299917149959,16.114616193480547,12.307373653686827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1909,7 +1909,7 @@ the House of Representatives.
 by order of the Senate,  
 FELIX WARLEY ,Clerk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794062001:0001/pct:6.248338207923425,64.47741290215036,17.309226269609148,12.668778129688281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794062001:0001/pct:6.248338207923425,64.47741290215036,17.335814942834354,12.681280213368895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1946,7 +1946,7 @@ the House ot Representatives.
 by order of the Senate,  
 FELIX WARLEY ,Clerk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794062301:0001/pct:5.688622754491018,64.37521164917034,16.92977681001633,13.037588892651542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794062301:0001/pct:5.688622754491018,64.37521164917034,16.943385955362004,13.037588892651542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1985,7 +1985,7 @@ FELIX WARLEY !Clerk.
 ewtNov.  
 INSURANCE COMPAN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794062401:0001/pct:6.807826320021442,62.930303544175004,16.483516483516482,14.278446667797185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794062401:0001/pct:6.807826320021442,62.930303544175004,16.517019565800055,14.299643886722063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2031,7 +2031,7 @@ FOR SALE,
   
 At the STORES o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794063001:0001/pct:6.838744012772752,3.4673366834170856,53.352847259180415,87.08542713567839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794063001:0001/pct:6.852048962213944,3.479899497487437,53.36615220862161,87.0896147403685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2071,7 +2071,7 @@ the House of Representatives.
 by order of the Senate,  
 FELIX WARLfiY Clerk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794070801:0001/pct:20.78194699553923,78.04549283909014,17.318289162949355,14.709351305812973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794070801:0001/pct:20.795066911571766,78.0497051390059,17.324849120965627,14.72620050547599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2115,7 +2115,7 @@ the Hoofe of Representatives.
   
 by order of the Senate,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794070901:0001/pct:24.719101123595507,76.82906688687035,16.043898615103213,13.806771263418662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794070901:0001/pct:24.719101123595507,76.83319570602808,16.076561275150247,13.810900082576383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2153,7 +2153,7 @@ by order of the Senate,
 FELIX WARL£Y Clerk.  
 ewtNov.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794071001:0001/pct:22.02444208289054,78.87184562097971,16.44527098831031,13.161801088570014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794071001:0001/pct:22.031083953241232,78.87596899224806,16.438629117959618,13.170047831106713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2194,7 +2194,7 @@ the House of Reprefentttives.
   
 by order of ihe Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794071701:0001/pct:55.83836263447914,65.41978387364921,16.13749672002099,14.380714879467996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794071701:0001/pct:55.84492259249541,65.42809642560266,16.150616636053527,14.39318370739817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2230,7 +2230,7 @@ Ordered, That the resolutions be lent to
 the House of Representatives.  
 by order of the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794071901:0001/pct:55.62859490550534,28.769874476987447,16.872089838400438,12.150627615062762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794071901:0001/pct:55.642289783620924,28.782426778242677,16.885784716516024,12.154811715481172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2267,7 +2267,7 @@ Or/lered, That tbfc resolutions be lent to
 by order of the Senate,  
 FELIX WARLEY Clerk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794072601:0001/pct:57.86473179580202,39.167626254318144,15.884944286084478,10.708998190491858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794072601:0001/pct:57.877688520342055,39.167626254318144,15.884944286084478,10.708998190491858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2306,7 +2306,7 @@ Ordered, That the resolutions be feet to
 the House of Representatives.  
 by order of the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794080801:0004/pct:60.79369546861807,50.11473962930273,18.012946805516464,14.616063548102384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794080801:0004/pct:60.800731775963975,50.119152691968225,18.01998311286237,14.620476610767874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2334,7 +2334,7 @@ by order of the Senate,
 FELIX WARLEY Clerk.  
 cwt N«
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794080901:0004/pct:60.834990059642145,57.62978500262192,18.659471740982674,8.058031812620172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794080901:0004/pct:60.84919057086055,57.642894598846354,18.65237148537347,8.04929208180388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2368,7 +2368,7 @@ Y Ordered, That the resolutions ,be lent to
 by order of the Senate,  
 FELIX WARLEY Clerk. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794081301:0004/pct:61.85088482738613,53.365045806906274,18.39280533797505,11.486962649753348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794081301:0004/pct:61.85088482738613,53.3738548273432,18.40005802146794,11.486962649753348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2404,7 +2404,7 @@ the House of Rcprefe»tatives in the foiego­
 ~ ing resolutions. \
 Ordered, Ttrat the resolutions Itnt t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082801:0004/pct:60.21533613445378,72.10271802567951,17.962184873949578,12.139403034850758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794082801:0004/pct:60.23503151260504,72.10271802567951,17.95561974789916,12.151909287977322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2449,7 +2449,7 @@ f wf N.
   
 NOTICE.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090201:0004/pct:63.24152542372882,73.09163479128554,16.260593220338983,14.252453018460002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090201:0004/pct:63.24814618644068,73.09163479128554,16.293697033898304,14.260768335273575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2495,7 +2495,7 @@ FELIX WARLEY Clerk.
   
 ♦ wt N*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090301:0004/pct:63.05263157894737,71.59337903360642,16.210526315789473,15.164688179234242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090301:0004/pct:63.06578947368421,71.60591874268518,16.223684210526315,15.164688179234242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2544,7 +2544,7 @@ NOTICE.
   
 The Gazette of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090401:0004/pct:60.80508474576271,70.72439633638635,16.3135593220339,16.802664446294756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090401:0004/pct:60.80508474576271,70.72855953372189,16.326800847457626,16.815154038301415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2587,7 +2587,7 @@ FELIX WARLEY Clerk,
   
 ewt 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090901:0004/pct:60.78693790149893,80.04675237936216,16.38115631691649,12.990482551344131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794090901:0004/pct:60.7936295503212,80.04675237936216,16.407922912205567,12.998831190515945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2624,7 +2624,7 @@ Ordered, That the resolutions be tent to
 by order of the Senate,  
 FELIX WARLET Clerk.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794091001:0004/pct:60.541845493562235,78.94293889917522,16.65772532188841,12.65780171688268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794091001:0004/pct:60.541845493562235,78.94714694495876,16.6644313304721,12.662009762666218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2669,7 +2669,7 @@ ewt M
   
 In Barrels ; and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794091501:0004/pct:62.873931623931625,9.767907831023543,16.266025641025642,81.9001502755051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794091501:0004/pct:62.873931623931625,9.780430789781265,16.27938034188034,81.904324595091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2701,7 +2701,7 @@ rvt* N.
 JUST PUBLISHES;  
 And&#x27; fur sale a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794092301:0004/pct:46.10268688480979,59.18945963975984,16.094706038840116,9.006004002668446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794092301:0004/pct:46.12263899973397,59.19362908605737,16.094706038840116,9.001834556370914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2742,7 +2742,7 @@ FELIX WARLEV Clerk.
   
 Iff#
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794092401:0004/pct:42.99363057324841,52.68709191361125,16.666666666666668,13.125732462749037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794092401:0004/pct:43.00690021231423,52.69964841788046,16.673301486199577,13.125732462749037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2799,7 +2799,7 @@ JUST PUBLISHED,
   
 And for sale a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794093001:0004/pct:41.59436008676789,44.89898146602104,19.821041214750544,14.4765403239272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794093001:0004/pct:41.6011388286334,44.90315578560695,19.821041214750544,14.480714643513107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2839,7 +2839,7 @@ Ordered, That the refolutioni be lent to
 the House of Representatives.  
 by order of the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794100701:0004/pct:45.121308016877634,76.73048600883652,16.40295358649789,13.909343806251023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794100701:0004/pct:45.13449367088607,76.73048600883652,16.40954641350211,13.91343478972345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2879,7 +2879,7 @@ the House of Rcprefcntatnes in the forego­
 ing rcfoluuon*.  
 Orderei Thar, the refolutioni be lent t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794102301:0004/pct:11.67192429022082,76.57998683344306,16.140904311251315,12.705727452271232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794102301:0004/pct:11.67192429022082,76.58821593153391,16.180336487907464,12.71395655036208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2911,7 +2911,7 @@ FELIX WARLEY Clerk.
   
 ewt N«
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794102401:0004/pct:14.036458333333334,83.07845744680851,15.9375,8.643617021276595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794102401:0004/pct:14.055989583333334,83.08676861702128,15.930989583333334,8.656083776595745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2954,7 +2954,7 @@ FELIX WARLEY Clerk.
   
 cwt 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794102501:0004/pct:12.123572170301141,78.67353723404256,15.861889927310488,12.965425531914894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794102501:0004/pct:12.143042575285566,78.68600398936171,15.85539979231568,12.96126994680851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2974,7 +2974,7 @@ Ordered, That the report and refoiuti­
 1 for their concurrence.  
 By order of Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795031001:0002/pct:78.06710065097647,55.26565464895636,16.199298948422634,3.462998102466793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795031001:0002/pct:78.06710065097647,55.26565464895636,16.20555833750626,3.474857685009488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3102,7 +3102,7 @@ port be returned to the House of Repre
 sentatives.  
 By order of the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:0029586185A:1841070701:0401/pct:80.20304568527919,64.45806204519342,16.116751269035532,9.996170049789352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:0029586185A:1841070701:0401/pct:80.20304568527919,64.4644452955445,16.121451400639216,9.996170049789352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3138,7 +3138,7 @@ Houss of Representatives.
   
 By order of the Senata
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841070801:1201/pct:3.974706413730804,163.08654848800833,60.07226738934056,37.717860866974526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841070801:1201/pct:0.9941256213285133,40.77163712200208,15.024853140533212,9.429465216743631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

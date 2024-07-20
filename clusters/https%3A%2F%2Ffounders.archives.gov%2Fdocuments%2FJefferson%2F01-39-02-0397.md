@@ -78,7 +78,7 @@ in some such way as this &quot;by
 entitled to privi  
 lege,&quot; or in any other way you please. The wine wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530935:1869121301:0754/pct:150.526958912479,96.08206919131288,47.53322132274324,20.20080759576558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530935:1869121301:0754/pct:50.175652970826334,32.0273563971043,15.84440710758108,6.73360253192186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ Philadelphia, probably about midsummer last. Ae­
 cent assurances of my great esteem and respect.  
 Gena Munlenneno. TH. JEFFEISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869121401:0680/pct:132.23076923076923,100.91130012150668,49.61538461538461,25.273390036452003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869121401:0680/pct:33.07041169680647,25.22782503037667,12.408618699499808,6.318347509113001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ probably about midsummer last. Accept as
 Totienerai Muhlenburg.  
 Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_connemara_ver01:data:sn85025007:00414184807:1869121601:0367/pct:4.381846635367762,60.93666844065992,15.665101721439749,10.069185737094198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_connemara_ver01:data:sn85025007:00414184807:1869121601:0367/pct:4.381161007667032,60.93018305661984,15.667866270275908,10.071661700014191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ phia, probably alum* midsummer last.
 I Acc ^pt ass lrrancss of my great esteem j  
 ai,d respect. *&#x27;Th. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566509A:1869121801:0583/pct:21.077352120945253,83.42273571281204,16.55658300308234,10.016505054672994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566509A:1869121801:0583/pct:21.077352120945253,83.42617426586892,16.576153432164,10.019943607729868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ bly about midsummer last. Accept as­
 surances of my great esteem and respect.  
 TH. JEFPERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074143:00280761461:1869122301:1162/pct:17.194570135746606,174.87261610132478,69.23076923076923,46.58611151550444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074143:00280761461:1869122301:1162/pct:4.301562146253113,43.718154025331195,17.31944758886122,11.64652787887611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ abount Midsummer last. Accept as
 surances of my great esteem and re­  
 spect.1TH. JErPERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775113:1869122401:0711/pct:65.6989247311828,297.59747932256795,39.46236559139785,43.79677038204017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775113:1869122401:0711/pct:16.4247311827957,74.39936983064199,9.865591397849462,10.949192595510043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ Philadelphia, probably about midsummer
 Let. Accept assurances of my great es­  
 teem and respect&#x27; Tit. JkffeksoN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:0020029340A:1869122501:0644/pct:36.43230679837304,111.73749327595482,12.899477048227775,11.145777299623454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:0020029340A:1869122501:0644/pct:27.332170880557978,83.80849919311457,9.69195001453066,8.35933297471759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ about midsummer Inst. Accept assuran­
 ces of iny great esteem nnd respect.  
 Th. Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152378:1869123001:0371/pct:29.08487297921478,38.63785917964466,12.254618937644342,12.03114718139943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033221:00514152378:1869123001:0371/pct:29.094495765973825,38.63785917964466,12.254618937644342,12.034802953864151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ Philadelphia, probably about midsummer
 last. Accept assurances of my great es­  
 teem and respect. Th. JErFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn84038005:0020029581A:1870010601:0076/pct:112.07598371777476,272.54529767040555,43.96200814111262,35.65142364106989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn84038005:0020029581A:1870010601:0076/pct:28.022164423838063,68.13632441760139,10.991744882958272,8.912855910267472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ about Midsummer last. Accept assurance of my
 great esteem and respect.  
 ThOS, JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1870011501:0018/pct:24.20796100731113,254.93416764437492,70.43054427294882,39.94264111589102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1870011501:0018/pct:6.055679739890266,63.73354191109373,17.618370249949198,9.985660278972755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ ed into Philadelphia, probably about midsummer
 ho t. Accept assurance of mv great esteem and  
 respect. Til. JKFFKliSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1870012701:0224/pct:58.64186699420951,34.962455539454616,12.721530092998771,7.008299301804769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1870012701:0224/pct:58.63157894736842,34.957850368809275,12.723684210526315,7.010669125395153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ The wine was imported Into Philadelphia probably
 ■bout midsummer last. Accept assurances of my  
 great esteem and respect. Tu. Jestxrsoh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873072001:0007/pct:15.21585279547063,74.10583941605839,12.998348667138476,6.45985401459854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873072001:0007/pct:15.21585279547063,74.11952554744525,13.010143901863646,6.446167883211679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ bly about the midsnmmer last. Accept assur­
 nuccs of my great esteem and respect,  
 Tu. Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875082601:0457/pct:41.685267857142854,93.65949669619008,16.908482142857142,10.276957683115423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875082601:0457/pct:31.28605992927601,70.25165190496274,12.693095105155408,7.704203570926473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,7 +861,7 @@ bly about the midsummer last. Accept
 assurances of my great esteem and  
 respect, Tn. Jeffergox
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281871:1875090901:0088/pct:61.01645123384254,89.32256617317182,13.102232667450059,12.808434275459847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281871:1875090901:0088/pct:45.7764066402233,66.99192462987887,9.828118113706479,9.611933602512337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -892,7 +892,7 @@ Philadelphia, probably about midsummer last. Accept
 assurances of iny great esteem and respect  
 &quot;Gel, MUHLeNrUe.TH. JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533481:1876080501:0450/pct:180.5640243902439,91.00591715976331,50.30487804878049,21.005917159763314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533481:1876080501:0450/pct:45.141006097560975,22.75147928994083,12.576219512195122,5.2514792899408285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -947,7 +947,7 @@ into Philadelphia, probably about midsummer
 last. Accept assurances of my great esteem and  
 respect. TH. JEFFERsON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064616:00295878617:1876081201:0195/pct:16.01620029455081,157.62513034410844,43.29896907216495,66.71011470281543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064616:00295878617:1876081201:0195/pct:5.338733431516936,52.541710114702816,14.43298969072165,22.236704900938477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ tor here, has been so kind as to spare me two
 hundred bottles of champagne, part of a larger  
 parcel imposted for his own use, and conse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064616:00295878617:1876081201:0195/pct:16.126656848306332,202.20281543274243,42.91237113402062,6.061001042752868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064616:00295878617:1876081201:0195/pct:5.375552282768778,67.40093847758081,14.304123711340207,2.0203336809176227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -997,7 +997,7 @@ into Philadelphia, probably about midsummer
 last. Accept assurances of my great esteem and  
 respect. Th. JeFFErsON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064616:00295878617:1876081301:0198/pct:240.2635431918009,203.14109165808446,46.174963396778914,52.29145211122554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064616:00295878617:1876081301:0198/pct:80.08784773060029,67.71369721936148,15.391654465592973,17.430484037075182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1030,7 +1030,7 @@ could be done without mini tionuig
 my name, it would avoidill-intended  
 observations.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876081401:0764/pct:43.995098039215684,115.93489262754753,16.56454248366013,12.48803173300506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033673:00280779441:1876081401:0764/pct:33.026772940936034,86.95116947066064,12.42591457183732,9.369443304609492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1096,7 +1096,7 @@ titled to privilege,&quot; or in any other way vou please. The
 wine was iinported into Philadelphia about midsummer  
 last. Accept assurance of my great esteem and respec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885021701:0663/pct:118.93883566691231,205.69389614333434,52.02652910832719,18.84300030367446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885021701:0663/pct:29.740187949143174,51.423474035833586,13.00902892942694,4.710750075918615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1166,7 +1166,7 @@ uch way as this, &quot;By duty paid on a part of such a par­
 cel of wines, not entitled to privilege,&#x27; or in any other  
 way you pleas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885031101:0766/pct:121.82218956649523,172.4013257005122,51.80014695077149,47.905995781862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885031101:0766/pct:30.455547391623806,43.10033142512805,12.950036737692873,11.9764989454655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

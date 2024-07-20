@@ -41,7 +41,7 @@ sufficiently safe in his judgment.
 The Vice-President of the lj. S. havinp  
 on Friday retired from the chair of the Se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808042601:0144/pct:41.55990957045968,63.69040091058556,17.501883948756593,4.742633109902618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808042601:0144/pct:41.55208137125636,63.682346990389476,17.504865950900985,4.746248524700725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -78,7 +78,7 @@ company v.ith two l’renchmen, washy
 them attacked on the Alleghcu\ inoun­  
 iiiin, not more than A?(A) yards irom th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808042801:0392/pct:34.31266846361186,27.329916123019572,27.277628032345014,29.706430568499535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808042801:0392/pct:34.30342225815144,27.3235499650594,27.279259858079584,29.707275409581488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ This 1s the language of JEFFERSON ! It
 would have been thk language of WASH­  
 INGTON ! It was osice the language of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808091301:0147/pct:24.72783825816485,46.29021013843243,16.20528771384137,4.03346280250971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808091301:0147/pct:24.738206324520476,46.29684958337483,16.21047174701918,4.030143080038509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ pect them. But While these edicts remain,
 to be pursued.  
 _ TH: ]EFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808091401:0353/pct:46.362665853286565,23.903508771929825,23.60835748055513,40.80701754385965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808091401:0353/pct:46.35559621835925,23.90141215682835,23.609840398495475,40.80636201502792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ while these edicts remain, the legislature a­
 lone can prescribe the course to be pursued.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808091601:0163/pct:41.13358848186623,3.5010666332036644,35.04647348277747,93.85117329652402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808091601:0163/pct:41.12609329446064,3.5006273525721454,35.046161321671526,93.8435800920117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ main, the Legislature alone can prescribe
 the course to be pursued.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808091601:0307/pct:77.79242795253343,14.887711329800656,17.83763420606517,7.860206913954075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808091601:0307/pct:77.77777777777777,14.885833228207392,17.840552416823602,7.863420377612379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ L5.it while these edicts remain, the legislature alone
 can prescribe the course to he pursued.  
 Til: Jlil’FERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808091901:0113/pct:9.773299748110832,4.667312661498708,42.141057934508815,90.79457364341086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808091901:0113/pct:9.770838579702845,4.666559018246407,42.13674137496852,90.78394962053932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ that the American government, notwithstan­
 ding the neutral character of the measure,  
 determined upon some relaxation ; and ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032901:0412/pct:6.191335740072202,38.69489846458643,17.184115523465703,9.435364041604755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815032901:0412/pct:6.190218372134994,38.69010771325988,17.18703001864886,9.438322809624035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -418,7 +418,7 @@ river St, Coix, mentioned in the said Treaty of
 Peace, an¢ forming a part of the boundary  
 therein defiribed, that question shall be refer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:47.88340413065768,16.376027259971938,19.01274351838289,18.671076368009622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:47.88828670475075,16.382708625643083,19.00786094428983,18.671076368009622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1047,7 +1047,7 @@ the river St. Croix,&quot; provides for as­
 cert dning that river, and r.hr latitude:  
 and longitude of its mouth and source
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807093001:0001/pct:78.75927174645987,44.10270880361174,17.914138008541244,15.222911963882618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807093001:0001/pct:78.75927174645987,44.10270880361174,17.914138008541244,15.241723100075244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1074,7 +1074,7 @@ name of the river St. Croix,’ provides for ascertain­
 ing that river, and the latitude and longitude of its  
 mouth and suurce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807093001:0752/pct:4.340056165432729,3.2002586067561016,21.955578248659688,8.631000484887668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807093001:0752/pct:4.338948443083206,3.199741435035553,21.95635528330781,8.633645765998708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1120,7 +1120,7 @@ vides tor and regulates commerce between
 the United Slates and the British East In­  
 dies,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807093001:0323/pct:24.350649350649352,40.06763527054108,17.971734148204735,18.17384769539078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807093001:0323/pct:24.345999618101967,40.06261740763932,17.974667430462734,18.17574619077437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1160,7 +1160,7 @@ The sixth, seventh end eighth articles
 have been esteaded.  
 The ninth provides
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807101601:0843/pct:50.63685253325785,12.074412074412074,43.39088593263516,83.41523341523342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807101601:0843/pct:50.62252405206565,12.072293384804352,43.38568194680249,83.40498333040884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1359,7 +1359,7 @@ the country that it should be adjusted. h
 In the arrangement of the boundary it is rontend- ti  
 ed by the opposers of the treaty that the Admmistm- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842091201:0250/pct:68.00645682001614,65.33242102862356,17.09443099273608,18.896111301174592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842091201:0250/pct:68.01183750336293,65.33622229824762,17.09443099273608,18.896111301174592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1407,7 +1407,7 @@ plexed question, in all probability a stale t *.
 might have ensued. But tlie Cabinet saw that j*  
 in the si ualion of this country, is an object &lt; I -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842091201:0250/pct:84.19693301049233,6.363325350667123,15.189669087974172,15.668833390352377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842091201:0250/pct:84.2076943771859,6.370927889915231,15.184288404627388,15.665032120728323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1519,7 +1519,7 @@ the Woods. In this report they say :
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1880-01-17_42_3/page/n9/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1880-01-17_42_3/page/n9/mode/1up?view=theater)
 
 #### 1880-01-17 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1765,7 +1765,7 @@ one to settle the boundary north­
 ward from the St. Croix to the  
 highlands, and one to define th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jones_ver01:data:sn96061150:00200298391:1885100301:0329/pct:8.790024630541872,30.740146654445464,18.657635467980295,49.31255728689276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jones_ver01:data:sn96061150:00200298391:1885100301:0329/pct:5.866050808314088,20.49725022914757,12.440338722093918,32.87121906507791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

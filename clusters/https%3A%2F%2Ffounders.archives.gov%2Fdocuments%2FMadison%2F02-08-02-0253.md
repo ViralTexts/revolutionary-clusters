@@ -44,7 +44,7 @@ that yon retain out of the next instalment,
 ■ choice of niiodps and funds, as may finally appear  
 «&#x27; wost pateer.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811030401:0394/pct:2.8679245283018866,50.17921146953405,23.547169811320753,9.595959595959595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811030401:0394/pct:2.867203219315895,50.17103762827822,23.547535211267604,9.598468805994461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -79,7 +79,7 @@ most proper.&#x27;- ■*. Vv&quot; -;£■-*
 ■- ■ 7 &gt;4 am,dear sir, your ob. servant, -  
 . ■&#x27;; * &gt; • &quot; rct. - JAMES MADISQNI 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811070101:0595/pct:50.48947626040137,76.4629388816645,21.390112579539892,14.353055916775032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811070101:0595/pct:50.4771225838023,76.45051194539249,21.39099584046978,14.354786283113928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ With greet &quot;teem end regard _
 your obedient _sermt, &#x27;  
 &#x27; _ JAMES MADXSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811070201:0590/pct:74.77400648132355,54.139753376394594,22.633464096878733,20.91407320414954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811070201:0590/pct:74.7612551159618,54.134455426166944,22.635288767621645,20.915288514857945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ Dear Sir,
 Your obedient ser’vt.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070901:0075/pct:58.96089790007241,48.01961986511343,17.90369297610427,13.562231759656653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070901:0075/pct:58.95022624434389,48.013732221677294,17.906485671191554,13.56465587706392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ Witli great esteem and regard,
 I am, dear s,r, vriur obedient servant,  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811071101:0231/pct:61.71312534613254,13.80045124091251,35.33321026398375,84.93356731010279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811071101:0231/pct:61.70173495754891,13.79872164431633,35.332841146794635,84.92710030496721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ government, and will leave the way open
 for tho choice of modes and funds, as  
 may finally appear most proper.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811072001:0032/pct:32.050223029902526,76.15006268685505,21.328266975053694,11.83334940688591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811072001:0032/pct:32.04492897258011,76.1427193828351,21.330249972469993,11.835422693667631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ the government, and will leave the way open for
 the choice of inodes and foods, os may finally op-.  
 pear most proper.* , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811072201:0631/pct:28.717056190949776,21.736324027755366,21.556439582297365,10.133935775375182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811072201:0631/pct:28.70991797166294,21.732817037754113,21.55729555058414,10.136334301387544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ and will leave the way open for the choice of
 modes and funds, as may Anally appear most  
 proper.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811072201:0243/pct:60.48581494529946,54.37199898913318,17.59688485073243,9.893858984078848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811072201:0243/pct:60.47460140897293,54.36512950094757,17.599802249412928,9.896820383238577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ ehe government, sed will have the way open lor
 the choice of modes and funds, as n,&amp;y finally  
 appear most proper.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811072301:0092/pct:3.7704616516461282,4.431479642502483,18.31892587824168,7.931976166832174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811072301:0092/pct:3.7697682971680764,4.430929626411816,18.321686894691677,7.935128873443382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ may finally appear moflt proper. |
 ~am, dear fir, your obd’t servant, {  
 LA JAMES MADISON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811073001:0121/pct:75.12753130313804,46.086871453727255,16.895965373318905,18.655840344355312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811073001:0121/pct:75.12753130313804,46.09339333463771,16.895965373318905,18.655840344355312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ g the equity of your claim regularly before the
 - choice of modes gnd funds, as. may finally appear  
 ost proper.’” . oy , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811073101:0453/pct:26.358786262087364,64.52027695351137,23.75791930643548,7.636003956478734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811073101:0453/pct:26.358786262087364,64.52027695351137,23.763476714460374,7.645895153313551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ With great esteem and regard,
 1 am, dear sir, your obt. aervt.  
 JAS MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811080601:0108/pct:5.226608187134503,20.26475318569838,17.744883040935672,11.419027588766546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811080601:0108/pct:5.225653206650831,20.262246412666997,17.747731286923685,11.421738413326736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ seament, and will leave thie way open
 @ the choice of modes and fynds, as  
 “may finally appear most proper.” &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811082001:0134/pct:24.545877969259433,5.953203672623161,16.89178698959789,11.995261131404877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811082001:0134/pct:24.545877969259433,5.953203672623161,16.896962169435387,12.001842893342548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -879,7 +879,7 @@ will bring the eqity of your claim regularly
 &#x27; Before the goernment, and will ledve the way,  
 - gpen for the cho §° Ofnmtgﬁw‘l 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811091001:0145/pct:74.03238242097147,79.78494623655914,16.63839629915189,11.808406647116325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811091001:0145/pct:74.04266255461322,79.78820462691431,16.63325623233102,11.80514825676116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -368,7 +368,7 @@ whole. In rude mockery of the protection
   
 which this very constitution is designed to extend to al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848110701:1108/pct:46.969937967233975,76.5043695380774,18.0849371719421,7.478152309612984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848110701:1108/pct:46.975239913048085,76.50853100291303,18.09554106357033,7.482313774448606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ apt to nrise of itself; the other was the inequality
 of poioers that must he vested in the two branches,  
 and whirh would destroy the equilibrium of inlerests.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851013001:0122/pct:45.1955137920582,45.163576237156015,15.550166717187027,19.168536671784576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851013001:0122/pct:45.1955137920582,45.171449942915636,15.565322825098514,19.172473524664383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ the United States. It did not lie between the large
 and small Slates. It lag between the Xorthem and  
 Southern. &quot; Rufus King, of Massachusetts, said
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851022201:0429/pct:9.703660662405579,28.3768182867698,19.14584543869843,7.099976910644193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851022201:0429/pct:7.279860505666957,21.288386054029093,14.370822435338564,5.322096513507273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ quality of powers that must be vested in the !
 i two branches, and which would destroy the  
 i equilibrium of interests?P?gf 1006
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853060901:0778/pct:47.93641940881205,4.145968666411922,27.788622420524263,91.58387466564768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853060901:0778/pct:47.941067112846255,4.15233728187492,27.802565532626883,91.58705897337919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ other. Lock at the votes in Congress, and moet of t
 vided by the gography of the country, not according to the size of  
 the States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530443:1854060601:0254/pct:55.49405827771447,230.79338244173408,46.931466710076506,5.723946383287043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530443:1854060601:0254/pct:18.498019425904825,76.93112748057803,15.64382223669217,1.9079821277623474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ votes in Congress, and most of them stand divided by
 the geography of the country, not a cording to the  
 size of the States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1854060601:0562/pct:23.20175438596491,204.9867374005305,41.79824561403509,23.20424403183024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1854060601:0562/pct:7.735048983769557,68.3289124668435,13.934785787395818,7.73474801061008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ arks:
 &#x27; This speech, so a&#x27;iiiiirahle for its correct  
 ipreciatioi) of the true principles of represe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860071701:0239/pct:51.71219187208528,37.45711204783845,13.590939373750833,23.585922948730516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860071701:0239/pct:51.72107483899622,37.46364735483449,13.599822340661781,23.58919060222854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,7 +797,7 @@ other circumstances--the most material of
 which resulted partly from climate, but prin­  
 cipally from their having, or not having slaves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860111001:0404/pct:93.53070175438596,58.162821070962124,33.88157894736842,18.850674793208533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860111001:0404/pct:23.389086920756785,14.540705267740531,8.472717301891967,4.712668698302133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -828,7 +828,7 @@ Union will result.”
 It is by this geogrrphical conflict so  
 much feared by the fathers of the republic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860122801:0605/pct:7.530213820886272,72.66582655516096,12.86024171056709,8.500400962309543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860122801:0605/pct:7.540543332300382,72.66964524382327,12.86024171056709,8.49658227364723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ cles of Confederation can be amended.&quot; &quot;If the
 old fabric of the Confederation must be the  
 groundwork of the new, we must fail. Ibid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863112401:0510/pct:118.05555555555556,190.81857432372897,49.351851851851855,5.181073222310336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863112401:0510/pct:29.51730524366246,47.70464358093224,12.339391133233013,1.295268305577584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ tstand divided by the geography o
 &quot;country, not according to the size of  
 tho States.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026922:00237288154:1866052201:0445/pct:66.09991603694374,242.18128224023582,57.89252728799328,38.968312453942524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026922:00237288154:1866052201:0445/pct:22.033305345647914,80.7270940800786,19.29750909599776,12.989437484647507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1023,7 +1023,7 @@ it on correct principles, but otherwise not.
 must be the ground-work of the new, we  
 must fail.&quot; Mr. Ellswort of Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030801:0218/pct:64.47852760736197,236.85708032392208,37.484662576687114,20.004377325454147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030801:0218/pct:16.119631901840492,59.21427008098052,9.371165644171779,5.001094331363537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1049,7 +1049,7 @@ States had an equal vote in the second
  and leave the larger without any essen­  
 tial benefit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030801:0218/pct:63.68098159509202,262.3768877216021,38.282208588957054,14.620267016852702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030801:0218/pct:15.920245398773005,65.59422193040052,9.570552147239264,3.6550667542131756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1180,7 +1180,7 @@ most of them stand divided by the
 geography of the country.&quot;  
 Sectionalism existed before the pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870102001:0743/pct:19.162640901771336,12.388162422573984,107.80998389694042,372.63592567102546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870102001:0743/pct:4.793554884189326,3.097040605643496,26.968781470292043,93.15898141775637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1200,7 +1200,7 @@ with the same care as I would trials by
 jury.&quot;  
 Indeed, one vast republic, grown to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871041101:0353/pct:42.728402734617774,82.93721177722597,13.781852082038533,3.488234598557408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293435:1871041101:0353/pct:32.06901912016167,62.20882109495093,10.337323177366702,2.6132198179023294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1327,7 +1327,7 @@ school.
 The mission of the State Rights party  
 from the beginning of the Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887061501:0520/pct:231.66023166023166,303.7619796881705,51.351351351351354,38.73551709340581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887061501:0520/pct:57.926240586985905,75.94049492204263,12.840316663448542,9.683879273351453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1438,7 +1438,7 @@ the States were divided into different
 interests by the effects of their having  
 or not having slaves, down to yester
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663637:1898051401:0405/pct:2.356652440155873,49.547314895200294,14.084245685655965,2.3812476745628177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663637:1898051401:0405/pct:2.3690233191068226,49.55144900574641,14.084245685655965,2.3812476745628177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -183,7 +183,7 @@ the Lives of deceased Professors. By JosepH Carson, M.D.
 
 ---
 
-## [From _Putnam's magazine of literature, science, art, and national interests_](https://archive.org/details/sim_putnams-magazine_1869-04_3_16/page/n126/mode/1up?view=theater)
+## [From _Putnam's Magazine.  Original Papers on Literature, Science, Art and National Interests (1868-1870)_](https://archive.org/details/sim_putnams-magazine_1869-04_3_16/page/n126/mode/1up?view=theater)
 
 #### 1869-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

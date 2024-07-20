@@ -1051,7 +1051,7 @@ with efficacy, as in important incentive, sup­
 pleméntary to the other motives to moral  
 conduct. ;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835101301:0161/pct:62.621431774024806,14.840573507382837,28.665371394410403,78.33297667451316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835101301:0161/pct:62.63139540676531,14.844140095584564,28.665371394410403,78.33654326271488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1122,7 +1122,7 @@ would notice a few facts in corroboration. There
 was before the revolution which separated the  
 United States from Great Britain, an eminem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1843081201:0176/pct:70.47593795572054,34.68061338478724,13.005435503115471,17.172742967401238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1843081201:0176/pct:70.48477617216845,34.68738363630209,13.005435503115471,17.17951321891608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1350,7 +1350,7 @@ the most perfect and sublime that has ever
 been taught by man.  
 &quot;To the corruptions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1875021801:0031/pct:74.51298701298701,33.09127153638046,51.62337662337662,85.8322654136409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1875021801:0031/pct:18.639593908629443,8.272817884095115,12.913705583756345,21.458066353410224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1370,7 +1370,7 @@ the Union indissoluble the glorious
 old Ship of State again launched on the  
 open sea of prosperity, with the unive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:0029602899A:1876062401:0427/pct:35.275305895439374,97.74436090225564,12.75027808676307,3.150733977801647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:0029602899A:1876062401:0427/pct:26.4673157162726,73.31423797589211,9.56884561891516,2.3630504833512354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1417,7 +1417,7 @@ ocracy. Anyone reading the proceed­
 ings of the Chicago and St. Louis con­  
 ventions will perceive that in the matte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478726:1888062801:0645/pct:25.425246195165624,11.252459016393443,15.649059982094897,23.60655737704918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478726:1888062801:0645/pct:22.246592511358294,9.853498068316567,13.697843229411458,20.651799716941436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

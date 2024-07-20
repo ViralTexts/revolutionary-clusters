@@ -75,7 +75,7 @@ JAMES MADISON.
 liy the President,  
 James Momioe, See*y of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811072601:0053/pct:49.25275086221054,53.68136639969121,21.711282640827722,23.448808260156326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811072601:0053/pct:49.24466338259442,53.67618680046314,21.713191023535853,23.449761996655088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ JAMES MADISON.
 I V &#x27; JAMES MONROE,  
 ^ Secretary nf State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811072901:0252/pct:23.106976744186046,34.76340694006309,17.153488372093022,5.350157728706624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811072901:0252/pct:23.102678571428573,34.759020943729496,17.156498015873016,5.353688283287072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ By the President,
 JAMES MONROE,  
 Hec&#x27;ry oj Hr ate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811073001:0100/pct:77.31676110400292,3.74675404970941,17.83951745567538,18.560652899715592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811073001:0100/pct:77.30263157894737,3.7462908011869436,17.842348927875243,18.562479393339927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ JAMES MADISON.
 By the President,  
 James Monroe, Secy of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811080201:0129/pct:3.3749422098936663,45.24725666239134,22.029588534442905,21.134387915063417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811080201:0129/pct:3.3741622371157844,45.24080934739242,22.030275017333025,21.134938728982615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ A JAMES MADISON.
 &quot; Dy the President; . .  
 JAMES MONROE, Serretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811080601:0127/pct:5.495689655172414,7.267470840394776,16.533251231527093,16.369255308543515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811080601:0127/pct:5.500821018062397,7.267470840394776,16.538382594417076,16.375901372412187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ Dune at the City of Washington,
 the 8th day of August, in the year  
 of our Lord 1814, and of the In
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814081301:0213/pct:23.60356865787432,31.38895828128903,17.99844840961986,15.02623032725456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814081301:0213/pct:23.598991661818886,31.385038091669788,18.00142201538362,15.028516714541443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ sixty-first,
 M. VAN BUREN.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1837052001:0192/pct:3.132949524702102,8.37423915177695,14.700763154371401,13.037502454349106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1837052001:0192/pct:3.1418753068237604,8.380784082727928,14.696300263310572,13.034229988873618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ day of May, in the year of our Lord one thou­
 sand eight hundred and thirty-seven, and of the  
 independence of the United States the sixty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1837052501:0513/pct:22.783743946093914,13.463641334062329,17.435249526216044,8.70694368507381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:0041418294A:1837052501:0513/pct:22.778947368421054,13.461801284679513,17.436842105263157,8.709170425037584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ these presents, appoint the first .Monday in
 September next, for thtir meeting at the  
 city of Washington.&quot; Proclamation fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1837062301:0393/pct:74.712368168744,40.43699927166788,23.873441994247365,8.900218499635834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1837062301:0393/pct:56.0537041476864,30.32774945375091,17.90937425077919,6.686088856518572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -647,7 +647,7 @@ dence of the United States
 the thirty sixth.  JAMEs MADisoN.  
 By the President--JAMEs MONROE, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854062001:1398/pct:6.79083566836987,120.4524783992724,46.03593209164332,3.956343792633015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854062001:1398/pct:2.263611889456623,40.150826133090796,15.345310697214439,1.318781264211005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ If a similar document should be issued
 now and signed Grover Cleveland instead  
 of Martin Van Buren, it might be the mean
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102044:1887062901:0664/pct:22.536287242169596,22.949816401468787,86.707410236822,362.53059975520193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102044:1887062901:0664/pct:5.636224684753534,5.737454100367197,21.685135651509363,90.63264993880048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ JAMES MADISON.
 By the President:  
 JAMES MONROE, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:00280760626:1898032201:0508/pct:65.95680863827235,88.5161148388516,18.53629274145171,3.211967880321197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:00280760626:1898032201:0508/pct:43.9778011099445,59.01440985590144,12.359382030898455,2.144978550214498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

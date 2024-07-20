@@ -89,7 +89,7 @@ office under this state with a falarv by law annexed toil, or any
 other office which shall declare incompatible with  
 offices or appointments under the United States. All comimfli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792020401:0001/pct:9.11959608709372,55.1217548802576,27.516566740296625,9.17689675991145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792020401:0001/pct:9.127485011044493,55.1217548802576,27.508677816345852,9.197021533507748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -952,7 +952,7 @@ pointment OI trust or prom uuuer ine i mieu r-uocs,
 shall at the same time hold or exercise any office in  
 this State to which a salary, fees, or perquisite snai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776117:1873111901:0705/pct:24.932003626473254,84.32119205298014,19.945602901178603,2.6324503311258276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776117:1873111901:0705/pct:18.703241895261847,63.24503311258278,14.985264112446158,1.9701986754966887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1003,7 +1003,7 @@ the said Prothonotary shall appoint such assis­
 tants as may be neceseary and authorized by said  
 courts, and he and his assistants shall receive fix
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776464:1873111901:0311/pct:190.8595641646489,116.28912919749573,125.66585956416465,24.951622083096186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776464:1873111901:0311/pct:47.729336966394186,29.07228229937393,31.425976385104452,6.237905520774047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1045,7 +1045,7 @@ of trust or p olit under the United
 States, shall at the same time hold or  
 exercise any office in this state t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1873111901:0635/pct:75.80147965474723,64.28893905191873,12.453760789149198,3.961625282167043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1873111901:0635/pct:75.80147965474723,64.28893905191873,12.453760789149198,3.965387509405568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1064,7 +1064,7 @@ appointment of trust or profit under the United
 Sthtes, shall at the same time hold or exercise  
 any office in this State to which a salary, fees, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1873111901:0487/pct:293.44,363.60005705320214,44.56,7.359863072314933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1873111901:0487/pct:73.36,90.90001426330053,11.14,1.8399657680787334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1108,7 +1108,7 @@ fjuited States, shall at tbe same time hold or exer
   
 cise aDy office in this State to which a salary,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn84026399:00212478015:1873112001:0602/pct:41.642099056603776,102.37489397794741,19.60495283018868,4.166666666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn84026399:00212478015:1873112001:0602/pct:31.239864366799353,76.78117048346056,14.713253722541648,3.1276505513146735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1128,7 +1128,7 @@ appointment of trust or profit under the United
 States, shall at the same time hold or exercize any  
 office in this state to which a salary, fees, or per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1873112101:0375/pct:236.8035190615836,39.93105429474289,47.800586510263926,8.388394139615054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1873112101:0375/pct:59.21173235563703,9.982763573685723,11.952337305224564,2.0970985349037634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1150,7 +1150,7 @@ o!iice in this State to which a salary, fee s, or p&#x27;jrqui- ,
 sites shall be attached. The tieneraj Absemblyiuay  
 bv law declare what olliecs are incompatible. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477692:1873112101:0585/pct:26.60680529300567,54.60333006856023,18.115942028985508,3.7708129285014693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477692:1873112101:0585/pct:19.965332492908917,40.95249755142017,13.599117554364954,2.840352595494613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1191,7 +1191,7 @@ appointment of Trust or profit under the United
 Stätes, shall at the same time hold or exercise any  
 office in this State to which a salary, fees, or per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776464:1873112601:0315/pct:269.92068334350216,125.04262816869387,41.06162294081757,7.093327270660453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776464:1873112601:0315/pct:67.48017083587554,31.260657042173467,10.265405735204393,1.7733318176651132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1213,7 +1213,7 @@ of trust or p:otit under the I nited
 exercise any office in this state to  
 which a salary, fees or perquisite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1873112601:0639/pct:75.35000786534529,64.38681915977806,13.009281107440616,4.529498358056845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1873112601:0639/pct:75.36049499239684,64.39436832370815,13.004037543914844,4.529498358056845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1232,7 +1232,7 @@ appointient of tust or pront unuer the thited
 States, shall at the same time hold or exercise  
 any ofice in this State to which a salary, fees, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1873112601:0491/pct:291.77316293929715,361.0133104336625,44.40894568690096,7.32789466151424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1873112601:0491/pct:72.98701298701299,90.25332760841563,11.10889110889111,1.83197366537856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1252,7 +1252,7 @@ appointment of trust or profit under the United
 States, shall at the same time hold or exercize any  
 office in this state to which a salary, fees, or per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1873112801:0381/pct:23.503649635036496,247.86494538232373,47.81021897810219,8.2848631011491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1873112801:0381/pct:5.875912408759124,61.96623634558093,11.952554744525548,2.071215775287275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1291,7 +1291,7 @@ any person holding or exercUing any ofhee or ap
 pointment oi mui or proni uuuer uie i uiiea ruiieu,  
 shall at the same time hold or exercise any office i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776117:1873120301:0715/pct:25.612522686025407,84.61664751272369,19.941016333938293,2.068625841405352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776117:1873120301:0715/pct:19.219423644202404,63.47069446724676,14.953483095076015,1.5432605483500246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1310,7 +1310,7 @@ appointment of trust or profit under the United
 States, shall at the same time hold or exercise  
 any office in this State to which a salary, fees, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1873120301:0495/pct:290.5872888173773,359.70811274860495,44.89139179404666,7.669194448418944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1873120301:0495/pct:72.66143633071816,89.92702818715124,11.225105612552806,1.917298612104736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ appointment of trust or profit under the United
 States, shall at the same time hold or exercize any  
 olfice in this state to which a salary, fees, or per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1873120501:0385/pct:19.191176470588236,243.65079365079364,48.01470588235294,8.276643990929704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1873120501:0385/pct:4.797794117647059,60.91269841269841,12.003676470588236,2.069160997732426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1390,7 +1390,7 @@ nor any person holding or exercising any office or
 States, shall at the same time hold or exercise any  
 office in this State to which a salary, fees, or per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776464:1873121001:0325/pct:276.0709914320685,132.7455634678422,41.98286413708691,6.827173053012321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776464:1873121001:0325/pct:69.03887358432813,33.18639086696055,10.498928680746863,1.7067932632530802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1411,7 +1411,7 @@ States, shall at tiie same time hold or
 exercise any office in this state to  
 which a salary, lees or perquisite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1873121001:0647/pct:75.41241162608013,65.33122672384607,12.678711704634722,3.9047511567543167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn83032195:0029602868A:1873121001:0647/pct:75.41241162608013,65.33122672384607,12.694422623723488,3.9085129594101495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1431,7 +1431,7 @@ appointment of trust or pront under the United
 States, shall at the same time hold or exercize any  
 office in this state to which a salary, fees, or per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1873121201:0391/pct:27.013177159590043,243.79478360561765,47.510980966325036,8.369160217827458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1873121201:0391/pct:6.755767118271695,60.94869590140441,11.882094470889784,2.0922900544568646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1451,7 +1451,7 @@ appointment of trusi or profit under the l&#x27;nited
 States, shall at the same .taic hold or exercise any  
 ollice in this State to which a salary, fees. orperqui
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477692:1873121201:0599/pct:24.670639899623588,56.07819181429444,17.675658720200754,2.8833231521075136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477692:1873121201:0599/pct:18.51561274125216,42.064752596212585,13.259061666405147,2.1624923640806353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1471,7 +1471,7 @@ profit under the United States, shall at the same
 time hold or exercise any office in this State to  
 which a salary fees or perquisites shall be attac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1879051401:0525/pct:187.05793829947328,239.51924452711404,37.99849510910459,8.18428959793962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1879051401:0525/pct:46.76448457486832,59.87981113177851,9.499623777276147,2.046072399484905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1497,7 +1497,7 @@ hold or exercise any office In .this State to
   
 which a salary, fees or perquisites shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288002:1880052101:0756/pct:22.175890826383625,15.066178541255985,15.238817285822593,4.05519571951563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288002:1880052101:0756/pct:16.64770572620402,11.30667417628837,11.433447098976108,3.041396789636722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1535,7 +1535,7 @@ appointment of trust or profit under the United
 States, shall at the same time hold or exercise  
 any office in this State to which a salary, fees o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881011201:0859/pct:179.17981072555204,16.654702081837762,84.93690851735016,372.7207465900933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881011201:0859/pct:44.79495268138801,4.1636755204594404,21.23422712933754,93.18018664752333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1564,7 +1564,7 @@ of trust or profit under the United States, shall at the
 same time hold or exercise any office in this State to which  
 a salary, fees or perquisites shll be attached. The legisla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150023:1889100201:1016/pct:73.28767123287672,38.88678530859523,21.39269406392694,10.034078000757289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150023:1889100201:1016/pct:73.29337899543378,38.88678530859523,21.409817351598175,10.038811056418023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1600,7 +1600,7 @@ under the United States, shall at the
 same time hold or exercise any office in  
 this state to which a salary, fees or per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150035:1890073101:0855/pct:36.4983164983165,27.743346700692673,11.0662177328844,12.777980313525337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150035:1890073101:0855/pct:36.509539842873174,27.75246080933285,11.077441077441078,12.787094422165513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

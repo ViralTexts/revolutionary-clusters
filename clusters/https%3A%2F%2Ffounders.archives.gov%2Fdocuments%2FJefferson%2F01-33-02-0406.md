@@ -56,7 +56,7 @@ creased esteem with which this trans action fills me
 for you. Accept my affectionate expression of it,  
 IH. JEEFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1869033001:0933/pct:287.06157443491816,270.48955314930606,50.038971161340605,35.74805551319201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536093:1869033001:0933/pct:71.7933723196881,67.62238828732652,12.514619883040936,8.937013878298002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ jjjisJtitisactioii fiffs thfr for you.! : Ac­
 ceptihiy&#x27;hffe&#x27;ctionati; kpi-essiou of it.  
 j fli iltaOtU XHOS. jEFKERSOK. j
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027157:1869040101:0183/pct:53.474466709760826,54.92868862804493,14.641241111829347,10.703016534141108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027157:1869040101:0183/pct:40.129345189975744,41.196516471033696,10.994341147938561,8.03988388236779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -194,7 +194,7 @@ with which this transaction litis
 me for you. Accept my affectionate  
 expression of it, Tn, Jeffeuson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190832:1869040101:0307/pct:26.341281669150522,43.79833432480666,14.530551415797317,13.816180844735277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190832:1869040101:0307/pct:26.341281669150522,43.80577037477692,14.549180327868852,13.812462819750149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ public esteem with which this transaction fills me for
 you. Accept my affectionate expression of it .  
 , 1 ;; :;(:; i - &#x27; Th. JlFFERSOX. &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1869040601:0341/pct:73.02558398220245,60.44548651817116,19.660734149054505,12.110199296600234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744808:1869040601:0341/pct:54.776804338756776,45.33411488862837,14.7545543039911,9.085580304806564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ to be triply powerful in the future.
   
 destiny in America is especially noble,  public good, which can not be effected, if
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1869040901:0455/pct:221.52834839769926,101.53677277716795,139.19474116680362,36.2788144895719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1869040901:0455/pct:55.39346620094514,25.38419319429199,34.80583521676598,9.069703622392975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ tionate expressions of it.
 .  
 ThoMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1869040901:0455/pct:291.4543960558751,64.87376509330406,69.35086277732128,96.37760702524699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1869040901:0455/pct:72.87856996096158,16.218441273326015,17.3412779946579,24.094401756311747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ a ee oe e  e  e ­
 sed ly I ahould he doubly inencusble insrii  
 hans, too, it is compensated by sharing in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:0020029953A:1869041101:0749/pct:144.65116279069767,256.1793422404933,51.51162790697674,22.584789311408016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:0020029953A:1869041101:0749/pct:48.21705426356589,85.39311408016444,17.170542635658915,7.528263103802672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ f r yn. Accept my aflecttoimte elpreKsion
 ot ,t.  
 TH. Jill TKUo.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879944:1869041201:1105/pct:9.35672514619883,50.82482325216025,16.684941520467838,18.42105263157895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879944:1869041201:1105/pct:7.018826539937854,38.12516365540718,12.520562968378725,13.812516365540718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ tils me for you. Accept my affectionate ex: !
 preasions of it.  
 Tuomas Jefferson. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1869041301:0277/pct:30.054452836817145,8.178764422374762,13.578078341823291,15.831751131882577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1869041301:0277/pct:30.058844194624978,8.178764422374762,13.586861057438961,15.835402365999707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ nrtld not be satisfied till I assnred yon of
 ic increased esteem with which thia trans  
 ciion fills me for you. Accept my auec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775009:1869041401:0188/pct:1.4916810097532989,59.84270734032412,13.281698221457258,15.264537654909438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775009:1869041401:0188/pct:1.1192423590185105,44.88798856053384,9.97273640407519,11.451382268827455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ Thomas .lErrensou
 It appears that tho Supremo  
 Court of tho TJnifed Stales Is a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293393:1869041801:0356/pct:8.314087759815243,63.70848917601723,13.077367205542725,14.178850731043863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293393:1869041801:0356/pct:6.23826714801444,47.784200385356456,9.819494584837544,10.631304544939363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ action fills me for you . Accept my af­
 fectionate expression &quot;of it .  
 &#x27; .- , .V.&#x27;,. ,&quot;Tii. Jeffeeso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027443:1869042001:0146/pct:37.03703703703704,93.72553405659322,14.663023679417122,20.53461581478582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027443:1869042001:0146/pct:27.790432801822323,70.29415054244491,11.009870918754746,15.412146292361033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ public esteem. Thomas Jifpersos.
 See Naples and Die.  
 The old Italian proverb of &quot; Tele Ka
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779374:1869042101:0372/pct:92.26044226044226,86.9552500731208,17.362817362817363,15.033635565954958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779374:1869042101:0372/pct:69.23392052437525,65.22374963439603,13.02744776730848,11.275226674466218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ action fills me for you. Accept my
 affectionate expression of it.  
 T. H. JErPERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029581A:1869042201:0599/pct:274.62981243830205,55.56284562751898,49.25962487660414,92.5672509138626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029581A:1869042201:0599/pct:68.67440138237473,13.890711406879745,12.317946186126882,23.14181272846565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ be lo-j. requires this sacrifice. Perhaps.
 too. il is conipcn-ated i.iy sharing in the  
 public esteem. &#x27;I&#x27;iioias J i:i&#x27;t-l.iisoN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1869042301:1134/pct:109.21787709497207,31.64719293245939,18.036711891460495,20.931889427187233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1869042301:1134/pct:81.93973258830573,23.738956967797094,13.530233486330074,15.702479338842975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ THE RESULT
   
 JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869042801:0713/pct:27.051787759256904,64.99847110386301,11.082834966280696,18.72388135765977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869042801:0713/pct:27.051787759256904,65.00526619780518,11.099800653178946,18.730676451601944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ a-
   
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775915:1869042801:0264/pct:94.16354556803995,99.75555814224188,15.02808988764045,16.249563496682576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775915:1869042801:0264/pct:70.64148587482441,74.82248865091374,11.268924613703762,12.18717262251193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ confidence be lost, requires this sacri
 fice. Perhaps, too, it is compensated  
 by sharing in the public esteem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1869042901:0492/pct:0.5577689243027888,177.7837116154873,56.41434262948207,81.28170894526035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1869042901:0492/pct:0.1394700139470014,44.44592790387183,14.106395696353855,20.320427236315087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -930,7 +930,7 @@ if its confidence be lost, requires this sac­
 rifice. Perhaps, too, it is compensated by  
 sharing in the public esteem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470193:1869043001:0032/pct:68.42026378896882,55.03462368032694,18.86990407673861,22.6472925417187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470193:1869043001:0032/pct:51.33433283358321,41.2759677602452,14.152923538230885,16.99398342604155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -975,7 +975,7 @@ which this transaction fills me for you.
 Accept my affectionate expressions of it.  
 geahung bun ani ThOMAs JErrERON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296540:1869050101:0283/pct:62.397617274758005,243.26417704011064,43.857036485480265,53.665283540802214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296540:1869050101:0283/pct:15.608120692866455,60.81604426002766,10.970385546656733,13.416320885200554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1016,7 +1016,7 @@ esteem. Tnos. Jefferson.
   
 There lives near Billvillc, Hen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470375:1869060301:0088/pct:8.188657407407407,61.737460460912786,16.07349537037037,23.6782647989155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033395:00212470375:1869060301:0088/pct:6.149616553320793,46.30591956619973,12.053248444508753,17.758698599186623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1089,7 +1089,7 @@ be satisfied till I assured you of the in?
 creased esteem with which this trousac  
 tion fills mo for you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551517:1869080301:0213/pct:2.1125541125541125,15.417789757412399,16.38095238095238,19.110512129380055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551517:1869080301:0213/pct:2.1183261183261184,15.417789757412399,16.375180375180374,19.11500449236298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1120,7 +1120,7 @@ himself infinitely by his conduct on the
 subject, as General Washington had done  
 himself the greatest honor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869080401:0774/pct:42.71721155069329,43.95306859205776,18.025696476275282,6.107099879663057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027239:00279529443:1869080401:0774/pct:42.72145189331298,43.95306859205776,18.029936818894967,6.117127958283193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1151,7 +1151,7 @@ relatives of the President in a worse situation than
 1 this sacrifice. Perhaps, too. it is compensated by  
 sharing in the public esteem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1869093001:0156/pct:43.336322869955154,22.254875768100455,13.704035874439462,6.932941490782794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1869093001:0156/pct:43.32855093256815,22.25190329905169,13.706061692969872,6.93535461466542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1190,7 +1190,7 @@ creased esteem with which this transaction fills me
 for you. Accept my anectionate expression of it,  
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1870112501:0091/pct:78.70722433460077,274.9701314217443,49.80988593155894,35.42413381123058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1870112501:0091/pct:19.688035000951114,68.74253285543608,12.459577705915923,8.856033452807646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1230,7 +1230,7 @@ creased esteem with which this transaction fills me
 tor you. Accept my affectionate expression of it  
 TH JLFFEISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1870120601:0127/pct:82.26788432267884,295.78567128236,49.77168949771689,35.64118001204094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1870120601:0127/pct:20.578716923662668,73.94641782059,12.450028555111365,8.910295003010235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1276,7 +1276,7 @@ esteem with which this transaction fills
 me for you. Accept my affectionate  
 expression of it. T. I. JEFFERsoN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1870120801:0542/pct:223.46278317152104,53.76166941241076,54.12621359223301,75.83745194947831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1870120801:0542/pct:55.86569579288026,13.44041735310269,13.531553398058252,18.959362987369577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1338,7 +1338,7 @@ offices, tho disposal of which they intrust to
 their President for public purposes, divided  
 out as famQy property,”—upon which tho Re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871011701:0003/pct:50.252289291721176,25.131916176692297,8.970285927863952,2.291572440826172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871011701:0003/pct:50.25696131564194,25.143223277551634,8.984301999626238,2.299110508065732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1377,7 +1377,7 @@ creased esteem with which this transaction fills me
 for you. Accept my affectionate expression of it.  
 eeeeee o  Ti JEEFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1871062901:0833/pct:4.681504221028396,235.75106664705018,69.99232540291635,34.838899514491686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1871062901:0833/pct:1.171050105586485,58.937766661762545,17.508158955653677,8.709724878622922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1452,7 +1452,7 @@ approbation offices, the disposal of which
 they entrust to their Presidents for public  
 purposes, divided out as family property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871072201:0080/pct:46.80296377607025,233.0263517826206,42.247530186608124,20.114890124920215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871072201:0080/pct:15.600987925356751,77.67545059420686,14.082510062202708,6.704963374973405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1557,7 +1557,7 @@ requires this saonnce.
   
 VERT LATES
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053941:00295873589:1871072901:0543/pct:3.4307496823379924,17.7499696270198,29.97141041931385,100.17008868910217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053941:00295873589:1871072901:0543/pct:2.5742888924201495,13.315514518284534,22.501191800413157,75.13060381484631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1663,7 +1663,7 @@ confidence be lost, requires this sacri­
 fice  attack so bitter and unexpected  
 as this must greatly annoy the Presi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1871080201:0025/pct:160.14150943396226,74.91828904362654,45.283018867924525,42.63180332528066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1871080201:0025/pct:40.05112072355486,18.729572260906636,11.325206449075894,10.657950831320164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1697,7 +1697,7 @@ bslost, requires this sacrifice.&quot;
 Considering how thoroughly the Har  
 pers&#x27; concern is wedded to Grant, as i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871080501:0122/pct:7.4267100977198695,106.55290911245409,14.511400651465799,11.8734447209385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871080501:0122/pct:5.5709398924906335,79.91468183434056,10.89754031601238,8.911008413319113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1719,7 +1719,7 @@ the disposal of which tliev intrust t&gt;« dieii |
 Presidents for public purposes, divided  
 out as family property.’’ Alba lookin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1871081001:0544/pct:74.13761964962977,15.776446065659197,11.522485100234784,4.116727462219906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1871081001:0544/pct:74.1242325749368,15.77439103816595,11.524918743228602,4.11944770092484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1755,7 +1755,7 @@ Perhaps, too, it is compensated
 by sharing .in the public esteem.&quot;  
 It is related of Gen. Harrison that jus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871081001:0138/pct:24.710051546391753,31.998582565556344,14.43298969072165,15.863453815261044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871081001:0138/pct:18.54955680902498,24.001889912591544,10.829975825946818,11.894637373021498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1790,7 +1790,7 @@ be lost, requires this sacrifice.&quot;
 An attack so bitter aud unexpected as  
 this must greatly annoy-, the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1871081001:0364/pct:40.306925498426025,90.2085620197585,14.283840503672613,12.952799121844127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1871081001:0364/pct:30.23743932834842,67.66190998902306,10.717565263019809,9.714599341383096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1824,7 +1824,7 @@ tlfe public good, which cannot bo etlccteu
 if its confidence be lost.&#x27; requires this  
 sacrifice.&quot; ..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871081001:0745/pct:57.160292921074046,95.21094640820981,16.43612693246542,11.944127708095781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871081001:0745/pct:42.8978428978429,71.40820980615736,12.332112332112333,8.965222348916761/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1858,7 +1858,7 @@ be lost, requires this sacrifice.&quot;
 Considering how thoroughly the Har­  
 pers&#x27; concern is wedded to Grant, as i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1871081201:0326/pct:155.69487983281087,284.5325290822921,42.8944618599791,39.16415338216286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195301:1871081201:0326/pct:38.9338907760648,71.13313227057303,10.726417559446041,9.791038345540715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1891,7 +1891,7 @@ eneeted if its confidence be lost, requires
 this sacrifice.  
 LAUGHABLE STORY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_kilo_ver01:data:sn88074142:00280761485:1871081801:0412/pct:174.24593967517401,62.654055603324736,51.50812064965197,37.83319002579535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_kilo_ver01:data:sn88074142:00280761485:1871081801:0412/pct:43.561484918793504,15.663513900831184,12.877030162412993,9.458297506448838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1913,7 +1913,7 @@ with approbation affices, the dlaposal of which they
 intrust to the Presidents for public purposes, dirided  
 out as family property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1871082901:1041/pct:132.80898876404495,302.81605751947274,49.36329588014981,12.103055721989215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536123:1871082901:1041/pct:33.20846600486983,75.70401437986818,12.343135418617718,3.0257639304973036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1938,7 +1938,7 @@ I he public will never be made to be these verses : &quot;
   
 Italian taste, thougCnot without fault&quot; alone, uninfluenced by family
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027327:1871083001:0131/pct:69.05985489721887,35.49716640906749,43.27388149939541,6.259659969088099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027327:1871083001:0131/pct:51.814333232537045,26.622874806800617,32.46144541880859,4.70118495620814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1975,7 +1975,7 @@ effected if its confidence be lost, re­
 quires this sacrifice.&quot;  
 PRESIDENT.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027327:1871083001:0131/pct:83.67593712212818,41.60226687274601,28.521765417170496,8.874291602266872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035174:00296027327:1871083001:0131/pct:62.775929845781675,31.20814013395157,21.409132143937104,6.658938691396187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1994,7 +1994,7 @@ which they intrust to their Presidents
 for public purposes, divided out as fam  
 ily property.? We find also at page 312
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1871090101:0400/pct:57.9196876742889,30.39237176676896,12.981037367540434,3.1126698816308638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn85033386:00200293873:1871090101:0400/pct:43.452795983823734,22.797018851380972,9.733649421280155,2.3345024112231476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2015,7 +2015,7 @@ the disposal of which they intrust to the re­
 ident for public purposes, ditided out as  
 family property.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871090601:0023/pct:134.9433962264151,100.04413711931734,50.18867924528302,16.124760923937032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871090601:0023/pct:33.74221551236082,25.011034279829335,12.549537648612946,4.031190230984258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2037,7 +2037,7 @@ of Spuisiens als aages is Govarnor, proved had long been formed in &#x27;my
   
 Dunn, pardonef a sonvies and notised mind. The public will never be made to correspondence from La Mesilla, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1871090701:0352/pct:78.17083692838654,25.120772946859905,171.78602243313202,10.03584229390681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1871090701:0352/pct:19.542709232096634,6.280193236714976,42.946505608283005,2.5089605734767026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2061,7 +2061,7 @@ the disposal of which they entrust to
 their Presidents for public purposes,  
 divided out as family property
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1871090701:0148/pct:67.77059773828756,135.43917982820727,47.49596122778675,18.509282349681353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1871090701:0148/pct:16.94607150070693,33.85979495705182,11.876388608361948,4.627320587420338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2082,7 +2082,7 @@ the disposal of which they intrust to the Pres­
 ident for public purposes, alvided out as  
 fumily peoperty.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871090801:0031/pct:128.46328538985617,210.68837897853442,50.26495079485238,16.16580310880829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871090801:0031/pct:32.11582134746404,52.672094744633604,12.566237698713095,4.041450777202073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2106,7 +2106,7 @@ the disposal of which they entrust to
 their Presidents for public purposes.  
 divided out as family property
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1871090801:0379/pct:95.87301587301587,42.83979242574804,14.285714285714286,5.631003643590593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033306:00212470119:1871090801:0379/pct:71.91427437491731,32.12984431931103,10.715703135335362,4.228773324500386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2130,7 +2130,7 @@ the disposal of which they entrust to
 their Presidents for public purposes,  
 divided out as family property
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877820:1871090901:0462/pct:276.0132340777502,133.02056023182007,46.236559139784944,15.620256657927419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877820:1871090901:0462/pct:69.00330851943755,33.25514005795502,11.559139784946236,3.9050641644818547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2151,7 +2151,7 @@ the disposal of which they intrust to the Pres­
 ident for public punposes, dirided out as  
 fumily peoperty.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871091101:0039/pct:133.2319391634981,56.02605863192182,50.64638783269962,16.345869114598756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871091101:0039/pct:33.31431831146606,14.006514657980455,12.664004563605248,4.086467278649689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2191,7 +2191,7 @@ offices, the disposal of which they intrust to
 the Presldent for public purposes, divided  
 out as family property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871091201:0043/pct:81.02796674225246,80.51023435182438,49.50869236583522,9.077425096410561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871091201:0043/pct:20.264650283553877,20.127558587956095,12.381852551984878,2.2693562741026403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2215,7 +2215,7 @@ fices, the disposal of which they intrust
 to the rresidcnts for public purposes,  
 V divided. out as fnmily property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027431:1871091201:0090/pct:5.591524426133019,113.31201058784603,15.214832254267217,6.396823646189478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027431:1871091201:0090/pct:4.194877833382396,84.9895224440278,11.42184280247277,4.797617734642109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2237,7 +2237,7 @@ which they intrust to the President for
 public purposes, divided out as a family  
 property.&quot; : .. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871091201:0854/pct:61.281224818694604,18.009810791871057,16.418211120064463,6.026629292221443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779398:1871091201:0854/pct:45.989520354695685,13.510861948142956,12.313583232567513,4.52697967764541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2268,7 +2268,7 @@ approbation offices, the disposal of which
 they intrust to the President for public  
 purposes, divided out as family property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775010:1871091401:0148/pct:46.653543307086615,101.02137767220903,13.048368953880765,4.738717339667458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775010:1871091401:0148/pct:35.0070323488045,75.77197149643706,9.789029535864978,3.5510688836104514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2337,7 +2337,7 @@ tion, offices, the disposal of which they on*
 trust to the IVcsiJent for public purposes,  
 divided out as family property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1871092201:0328/pct:29.023909292580726,19.391230310770542,13.13778654177964,4.246487867177522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1871092201:0328/pct:29.02033271719039,19.38916675534745,13.140275210515506,4.2495832003121565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2372,7 +2372,7 @@ but the public good, which cannot be
 etfected it’ its confidence be lost, requires  
 this sacrifice.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1871092801:0571/pct:38.53904282115869,67.14323537198835,11.442965095358042,8.948901244373841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524652:1871092801:0571/pct:38.53211009174312,67.1343481138319,11.445403849613239,8.951025810721376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2420,7 +2420,7 @@ which they entrust to the Presis
 dent for public purposes, divided  
 out as family property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296540:1871100701:0775/pct:290.0527505651846,60.51762114537445,45.139412207987945,45.75991189427313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296540:1871100701:0775/pct:72.51318764129616,15.129405286343612,11.284853051996986,11.439977973568283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2439,7 +2439,7 @@ of which they entrust to the
 President for public purposes,  
 divided out as family prop
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn86079037:00280774893:1871101801:0586/pct:178.9023521026372,295.5852156057495,46.258018531717745,13.655030800821356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn86079037:00280774893:1871101801:0586/pct:44.74950971652701,73.89630390143738,11.570689962560172,3.413757700205339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2460,7 +2460,7 @@ offices, the disposal of which they intrust to
 the president for public purposes, divided out  
 as family property.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1871102101:0804/pct:93.91233766233766,365.1041666666667,68.50649350649351,19.739583333333332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1871102101:0804/pct:23.482849604221634,91.27604166666667,17.13009945199919,4.934895833333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2496,7 +2496,7 @@ reoly to some speculations which that gentleman
 ha I sent him ou the transmigration of sonls. Mr.  
 Jefferson says
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871110801:0240/pct:57.918552036199095,265.26128266033254,49.47209653092006,34.14489311163896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871110801:0240/pct:14.482368470676976,66.31532066508314,12.370356402036583,8.53622327790974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2563,7 +2563,7 @@ poses, divided out as family property.&quot;
   
 Mr. Ramsey&#x27;s Postal Telegraph Scheme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871120901:0347/pct:131.39183055975795,94.13155949741315,49.77307110438729,20.931263858093125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871120901:0347/pct:32.84795763993949,23.532889874353287,12.443267776096823,5.232815964523281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2592,7 +2592,7 @@ which they er trust to their Presidents for public
 perposes, dit ided out as family property.&quot;  
 Besides, the Merald may as well understan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871121301:0359/pct:131.9083969465649,153.23590814196243,49.847328244274806,32.03101699970176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1871121301:0359/pct:32.98969072164948,38.30897703549061,12.466590301641848,8.00775424992544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2624,7 +2624,7 @@ see with approbation offices, the disposal of
 which they intrusUo their Presidents for pub­  
 lic services, divided out as family property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871122201:0594/pct:10.748870238863782,103.14278937381404,14.444803098773402,4.48292220113852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871122201:0594/pct:8.071025020177563,77.3600569259962,10.83131557707829,3.3681214421252372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2646,7 +2646,7 @@ is compensated by sharing in the public es­
 teem.&quot;We can add nothing to these few words,  
 except to ask our readers to look on thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871122201:0594/pct:10.652033570045191,120.75426944971537,14.444803098773402,5.241935483870968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871122201:0594/pct:7.990314769975787,90.57163187855788,10.847457627118644,3.937381404174573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2671,7 +2671,7 @@ son, in which he said:
 services, divided out as family prop  
 erty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872010401:0215/pct:130.23622047244095,16.86195286195286,51.496062992125985,27.52861952861953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872010401:0215/pct:32.55905511811024,4.215488215488215,12.874015748031496,6.882154882154882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2688,7 +2688,7 @@ erty.
 tions of the President in a worse  
 situation than if he weae a strangel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872010401:0215/pct:132.04724409448818,103.05723905723906,50.0,6.1952861952861955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1872010401:0215/pct:33.011811023622045,25.764309764309765,12.5,1.5488215488215489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2724,7 +2724,7 @@ good, which cannot be nﬁ&#x27;ected if its}
 conﬁdence he lost, requires this sacri-i  
 ﬁcc.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022793:no_reel:1872020501:0037/pct:53.69522563767168,31.165444172779136,12.012208415086112,13.202933985330073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022793:no_reel:1872020501:0037/pct:53.71157619359058,31.169519152404238,12.001308044473513,13.207008964955175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2760,7 +2760,7 @@ esteem with which this transaction fills me for you.
 Accept my a  
 And Jefferson did not make a good resolution at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531113:1872032701:0624/pct:5.814905814905815,23.68815592203898,48.402948402948404,26.08695652173913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531113:1872032701:0624/pct:1.9383019383019382,7.896051974012994,16.134316134316133,8.695652173913043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2794,7 +2794,7 @@ this transaction fills me for you. Accept my
 affectionate. expressions of it.  
 Tn. Jeffehsox
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872050301:0004/pct:1.7028443113772456,77.32288037166086,11.470808383233534,6.475029036004646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872050301:0004/pct:1.7028443113772456,77.33376887340302,11.470808383233534,6.4677700348432055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2844,7 +2844,7 @@ relative is made on the ground of in erit alone, uninfit
 see with approbation offices, the disposal of  
  for public purposes, divided out a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872060101:0241/pct:152.21539456662356,151.26845018450186,46.846701164294956,4.739391143911439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872060101:0241/pct:50.73846485554118,50.422816728167284,15.615567054764984,1.5797970479704797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2870,7 +2870,7 @@ said that popes were not to neglect their own blood;
 that they should not show themselves worse than  
 the beasts, not one of whom fatled to caress his re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:154.23014586709886,13.167829767761125,45.46191247974068,13.019105365518818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:51.41004862236629,4.389276589253709,15.153970826580228,4.339701788506273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2898,7 +2898,7 @@ tirement from the Presidency, in a letter to a kins-­
 man, he asserts the rule again:-&quot;Toward acquir­  
 ing the confidence of the people the first measur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:143.17666126418152,100.89234641345384,55.9643435980551,16.531289326164053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:47.72555375472717,33.630782137817945,18.654781199351703,5.510429775388018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2931,7 +2931,7 @@ But John Adams, besides transferring his son,
 John Quincey Adams, from one diplomatic post  
 to another, appointed only two relations. Pray
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872060101:0984/pct:111.83704842428901,107.9075246649978,50.96079938508839,29.745251067589457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872060101:0984/pct:27.970011534025375,26.97688116624945,12.745098039215685,7.436312766897364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2969,7 +2969,7 @@ Miiji&#x27;ct, a* Wobhlngton had duneMmaelf the greatest
 honor With t*o nuch examples io nr**ce**rt by. I  
 Alionjd bo doubly inexcusable to orr Letter to (icorg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872060301:0002/pct:38.41394825646794,38.33191730387992,11.417322834645669,7.646559048428207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872060301:0002/pct:38.41863517060367,38.33191730387992,11.426696662917136,7.646559048428207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2987,7 +2987,7 @@ conduct on this subject.&quot; But John Adams, be­
 sides transferring his son, John Quincy Adams,  
 from one diplomatic post to another, appointe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1872060801:1062/pct:95.9049959049959,342.9166124625992,69.53316953316953,8.585924287758553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1872060801:1062/pct:23.986071282261367,85.7291531156498,17.39041376485047,2.1464810719396383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3030,7 +3030,7 @@ the disposal of which they intrust to
 their President for public purposes, di­  
 vided out as family property.&quot; Com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293058:1872061001:0663/pct:103.28151986183074,179.15722700498415,37.53598157743235,16.40235613955596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293058:1872061001:0663/pct:25.824096732402477,44.78930675124604,9.385346192601123,4.10058903488899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3067,7 +3067,7 @@ besides transferring his son, John
 Quincy Adams, from one diplomatic  
 post to another, appointed only tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556527:1872061501:0094/pct:50.53191489361702,305.4672897196262,39.53900709219858,11.074766355140186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556527:1872061501:0094/pct:12.636712976647946,76.36682242990655,9.887673662429796,2.7686915887850465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3136,7 +3136,7 @@ ted only two relatives. Pray, sir, wha
 Presidents for public purposes, divided out  
  as family property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872062001:1055/pct:6.854531607006854,272.64653641207815,62.45239908606245,17.406749555950267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872062001:1055/pct:1.7139592458579318,68.16163410301954,15.616073128927823,4.351687388987567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3158,7 +3158,7 @@ posal of which they intrust to their
 Presidents for public purposes, divided  
 out as family property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1872062801:0087/pct:250.31695721077654,248.16931870848137,43.026941362916006,18.847520469643133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn84038328:00280763391:1872062801:0087/pct:62.60404280618312,62.04232967712034,10.760998810939357,4.711880117410783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3203,7 +3203,7 @@ excusable to err.
 to it by saying: “.Mr. Adams degraded  
 himself infinitely by his conduct on this sal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558030:1872092101:0358/pct:21.396615444466057,33.707106187516885,14.666407313752188,1.2699270467441233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279558030:1872092101:0358/pct:21.411204045905468,33.717238584166445,14.65668157945925,1.276681977843826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3231,7 +3231,7 @@ sured you of the increased esteein with which this
 transaction fills me for you.&quot;  
 win-law did not suffer from the rule, sinc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531149:1873071401:0570/pct:7.974379503602882,83.41927351896413,46.85348278622898,15.560902944883694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531149:1873071401:0570/pct:2.658126501200961,27.806424506321378,15.617827595409661,5.186967648294565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3262,7 +3262,7 @@ fied,&quot; said he, &quot;until I assured you of the in-­
 creased esteem with which this transaction  
 fills me for you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742058:1873071701:0065/pct:86.64411366711772,110.1530284981215,41.36671177266577,23.934756712178135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742058:1873071701:0065/pct:28.881371222372575,36.717676166040505,13.788903924221922,7.978252237392712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3290,7 +3290,7 @@ sation. “I could not bo satisfied,&#x27;’ said
 bo, &quot;until I assured you of tho inoreosod esteem  
 with which this transaction fills mo for you.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873072001:0007/pct:1.4626091059212079,62.11678832116788,13.069120075489502,5.930656934306569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873072001:0007/pct:1.474404340646379,62.11678832116788,13.069120075489502,5.9489051094890515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3451,7 +3451,7 @@ never bo mado to believe,” ho said, “that tho
 appointment of a relative is mado on tho ground  
 of merit alone, uninfluenced. by family views.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873081001:0006/pct:69.8338403931664,70.9783803591059,12.98853264685233,2.0886771711249543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873081001:0006/pct:69.85139246431079,70.9783803591059,12.98853264685233,2.09783803591059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3493,7 +3493,7 @@ the disposal of which they intrust to
 their Presidents for public purposes,  
 divided out as family property.&quot; Bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291062:1873081601:0916/pct:6.355357488858749,53.329626025302375,13.950784731641155,5.519254831085778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291062:1873081601:0916/pct:6.3602015113350125,53.333101626581396,13.965316799069948,5.519254831085778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3620,7 +3620,7 @@ ifice.&quot; Mr. Hayes is evidently
 well learned in the doctrines of the fathers of the e­  
 Mr. Don M. Dickinson, Chairman of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531289:1877032101:0593/pct:2.8836754643206257,7.713530290838027,97.42587161942001,289.20565582250833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531289:1877032101:0593/pct:0.9612251547735419,2.5711767636126757,32.47529053980667,96.40188527416944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3667,7 +3667,7 @@ huenced by lamily views.
   
 Dur Washington Letter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877040401:0057/pct:242.99698795180723,24.709549447435535,74.47289156626506,358.91187305185605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877040401:0057/pct:60.7835750612168,6.177387361858884,18.628743642870596,89.72796826296401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3708,7 +3708,7 @@ examples to proceed by he should be doubly
 inexcusable to err. As’to appointments in oth­  
 er respects, Mr. Jefferson did more, perhaps
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347272:1878011001:0434/pct:48.879624804585724,74.53062026934042,11.00833767587285,2.8211933549592056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ellsworth_ver01:data:sn84020071:00393347272:1878011001:0434/pct:48.87325778298815,74.5232946726951,11.011245712300813,2.8241923858200644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3754,7 +3754,7 @@ disposal of which they entrusted to their
 president, for public purposes, divided out  
 as family property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881071301:0042/pct:224.85586162716208,208.92814514203866,49.45547725816784,18.667939842444497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881071301:0042/pct:56.231976930471006,52.232036285509665,12.367830823454021,4.666984960611124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3783,7 +3783,7 @@ has done himself the greatest honor.
 With two such examples to proceed by I  
 should be doubly inexcusable to err
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1884060401:0506/pct:69.25824175824175,73.40038519152579,15.027472527472527,9.052000855981168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667449:1884060401:0506/pct:51.957686495397716,55.05028889364434,11.265283692814947,6.794350524288466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3823,7 +3823,7 @@ approbation: offices, the : disposal of . which
 they entrust to their presidents tor public  
 purposes, divided out as family property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kasota_ver01:data:sn90059522:00175033415:1889051501:0157/pct:26.317401960784313,33.657182512144345,11.504289215686274,3.018736988202637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kasota_ver01:data:sn90059522:00175033415:1889051501:0157/pct:26.317401960784313,33.66103785951114,11.509395424836601,3.022592335569435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3889,7 +3889,7 @@ thuir presidents for public purposes, di
 vided out iih family property.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052020:00206533833:1889060701:1144/pct:46.074043938161104,94.34758155230597,19.873881204231083,7.508436445444319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052020:00206533833:1889060701:1144/pct:34.574684574684575,70.76420134983127,14.916564916564916,5.638357705286839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3914,7 +3914,7 @@ of which they entrust to their president
 for public purposes, divided out as fam­  
 ily property. . Jefferson * lived som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kasota_ver01:data:sn90059522:00175033415:1889061701:0461/pct:25.939039408866996,85.98250728862973,11.514778325123153,5.795918367346939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kasota_ver01:data:sn90059522:00175033415:1889061701:0461/pct:25.939039408866996,85.98639455782313,11.519909688013136,5.803692905733722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3993,7 +3993,7 @@ they entrust to iheir Presidents for pnblic
 purposes, divided oat as family prop­  
 erty.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550389:1889073101:0109/pct:18.511824069890043,66.15697177074422,10.890194306371441,3.881522668947819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550389:1889073101:0109/pct:18.509036144578314,66.14989842831177,10.893574297188755,3.884671584874728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4017,7 +4017,7 @@ their Presidents for public pur­
 poses. divided out as family prop­  
 erty &quot; _ * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn86092009:00514157273:1889080801:0088/pct:2.4860853432282,31.31906560358092,11.743970315398887,6.630297943768359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn86092009:00514157273:1889080801:0088/pct:2.485624188462252,31.314685314685313,11.746429233908366,6.6328671328671325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4041,7 +4041,7 @@ which they entrust to their Presi­
 dents for public purposes, divided  
 out as family property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:0020219221A:1889081401:0511/pct:3.2097493992447648,39.78556940017386,11.980775832475112,6.6357577513764125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026817:0020219221A:1889081401:0511/pct:3.2097493992447648,39.79643581570559,11.98935805012015,6.6466241669081425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4092,7 +4092,7 @@ the disposal of which they intrust to
 their Presidents for public purpose  
 divided out as family property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1889081501:0697/pct:94.43457667258733,69.17924849585651,15.748963883955003,9.649222386195936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556849:1889081501:0697/pct:70.83641746854182,51.89011238506073,11.828275351591413,7.231240776478601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4115,7 +4115,7 @@ the disposal of which they intrust to
 their Presidents for public purpose)  
 divided out as family property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292546:1889081701:0351/pct:133.8709677419355,220.0109649122807,47.61904761904762,18.530701754385966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_gordon_ver01:data:sn87052181:00200292546:1889081701:0351/pct:33.487031700288185,55.00274122807018,11.91162343900096,4.6326754385964914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4144,7 +4144,7 @@ Secretary Noble is now the most
 promising candidate for the vacancy  
 on the Supreme Bench, and thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1889081701:0328/pct:0.7506983240223464,39.176788124156545,10.631983240223464,8.866396761133604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1889081701:0328/pct:0.7505672892302322,39.171501821616516,10.634491185198115,8.868573741735258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4172,7 +4172,7 @@ the disposal of which they intrust to
 their Presidents for public purposes,  
 divided out as family property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473467:1889082201:0426/pct:103.4789644012945,76.65791201575837,17.974649406688243,11.282556358065222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473467:1889082201:0426/pct:68.99527983816589,51.10527467717225,11.989211058664868,7.528999781133727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4195,7 +4195,7 @@ the disposal of which they intrust to.
 their Presidents for public purposes,  
 divided out as family property.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_beast_ver01:data:sn82003389:00294555195:1889082801:0146/pct:84.12261380323055,52.64730488825146,13.362701908957415,4.936058324369547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_beast_ver01:data:sn82003389:00294555195:1889082801:0146/pct:84.12261380323055,52.653597896246715,13.362701908957415,4.936648338513029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4247,7 +4247,7 @@ proceed by, I should, be doubly in­
 excusable to err.&quot;  
 During the recent war the countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ibis_ver01:data:sn85042448:00200298834:1898103101:0435/pct:7.000811688311688,92.51600196947317,19.50081168831169,17.101591990809126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ibis_ver01:data:sn85042448:00200298834:1898103101:0435/pct:5.256748528516338,69.39110454620055,14.63365130911305,12.834400131298212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4349,7 +4349,7 @@ degraded himself Infinitely by his conduct
 on this subject , as General Washing Vli  
 had done himself the greatest honor &quot; Mo &lt;(
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538934:1899022001:0237/pct:110.69000679809653,120.7095046854083,16.11148878314072,2.396251673360107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538934:1899022001:0237/pct:83.04573274396463,90.53212851405623,12.091975518531111,1.7971887550200802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -45,7 +45,7 @@ which •will be the day after to-morrow.”
 This done, the rest of the day passed in  
 conferences between Washington and hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872060901:0005/pct:25.83473232605857,51.101888952489986,11.247901510912143,4.550658271322266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872060901:0005/pct:25.844058944226823,51.11262163709216,11.238574892743891,4.547080709788208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ journey on Thursday morning, whie
 will be the day after to-morrow.  
 This done, the rest of the day passe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293058:1872063001:0743/pct:334.19354838709677,217.73969430291802,38.2991202346041,19.592403890690136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293058:1872063001:0743/pct:83.5728952772074,54.434923575729506,9.577588735699619,4.898100972672534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ day morning, which will be&#x27; the day alter to­
 morrow.-&#x27;  
 This done, the rest of the day passed iu con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663699:1872070501:0043/pct:2.249402502460284,56.299509619011694,15.787993814143118,6.2617880045265935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663699:1872070501:0043/pct:2.2540887576737427,56.30579655475921,15.797366324570037,6.264931472400352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ pose to commence my journey on Thursday morn­
 ing, which will be day after to-morrow.&quot;  
 This done, the rest of the day passed in con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:0029455564A:1872101701:0535/pct:41.462093862815884,76.6065388951522,16.407942238267147,6.116121758737317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:0029455564A:1872101701:0535/pct:31.112314915131815,57.45490417136415,12.31491513181654,4.594137542277339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ commence my journey on Thursday morn.­
 ing, which will be the day after to-morrow.&quot;  
 This done the rest of the day passed i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742034:1872101901:0386/pct:6.60159956621933,235.41647491946617,41.56161041073607,17.156005522319376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742034:1872101901:0386/pct:2.2005331887397768,78.47215830648872,13.853870136912024,5.718668507439792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ day morning, which will be the day after
 to-morrow.” (  
 This done, the rest ol the day passed i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625492:1872102501:0182/pct:70.568278201866,86.9542346133614,15.911789652247668,8.390320883745398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625492:1872102501:0182/pct:54.70003067619089,67.39595719381688,12.34059336517814,6.502463054187192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ will be the day after to-morrow.&quot;
 This done the rest of the day pas  
 sed in conferences between Was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1872102901:0885/pct:108.44988344988344,284.0244434744653,45.10489510489511,30.24879965080751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1872102901:0885/pct:27.12037306907607,71.00611086861632,11.279510346837657,7.562199912701877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ will be day after to-morrow.&quot;
 This done, the rest of the day pass­  
 ed in conference between Washingto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280544:1872103101:0535/pct:64.44622792937399,64.72833182685548,15.088282504012842,9.842321984533495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280544:1872103101:0535/pct:48.35429488894835,48.548759666566234,11.319240032111319,7.38174148840012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ journey on Thursday morning, which
 will be day after to morrow.  
 This done, the rest of the day passe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283363:1872112801:0352/pct:340.01484780994804,165.3911086100169,53.229398663697104,27.91221159257175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283363:1872112801:0352/pct:85.0510677808728,41.34777715250422,13.314763231197771,6.978052898142938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ morning, which will be the day after to-mor­
 row.&quot;  
 This done, the r?lst of the day passed in con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663778:1876121401:0551/pct:1.8068887634105026,51.17848317810302,15.979672501411631,6.4246340999809926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663778:1876121401:0551/pct:1.816299642386599,51.181651143635555,15.974967061923584,6.427802065513527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ day morning, which will be the day after to­
 morrow.But what did Washington do with the  
 intervening timef Perhaps you have al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn85038102:00202197279:1892070801:0189/pct:11.330349877949553,64.4603288062902,18.36859235150529,7.719799857040743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn85038102:00202197279:1892070801:0189/pct:8.508039894158355,48.34882058613295,13.779767962548341,5.789849892780557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ morrow.
 But what did Washington do with the  
 intervening time? Perhaps you have al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:00175031698:1892080901:0873/pct:1.5336827800427102,49.98634625887493,16.24927198602213,6.499180775532496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:00175031698:1892080901:0873/pct:1.5336827800427102,49.98634625887493,16.25574322138096,6.508283269615875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ morrow. I have tho honor to be. with sen­
 timents of esteem, sir. your most obedient  
 servant. GEO. W ASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665635:1896112701:0274/pct:39.77888086642599,26.6268146883006,16.471119133574007,6.242527754056362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665635:1896112701:0274/pct:29.843168227462485,19.974380871050386,12.35473316032946,4.679760888129803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

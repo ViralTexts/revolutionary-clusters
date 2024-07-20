@@ -373,7 +373,7 @@ The advice was given by Congress and
 closely followed by Massachusetts, her  
 fiction being &quot;in observance oi the resolv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040341:1894041701:0211/pct:1.455534229046705,29.41176470588235,13.099808061420346,4.3737574552683895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040341:1894041701:0211/pct:1.4608658562593304,29.41176470588235,13.099808061420346,4.38155381436869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ Congress and closely followed by Mas­
 sachusetts her action being in ob­  
 servance of the resolve of the Conti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:0017504842A:1894042101:0310/pct:44.08883082952319,123.90338384413809,19.839973873285434,17.443317762333372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:0017504842A:1894042101:0310/pct:29.39735423811857,82.60225589609206,13.228809407153356,11.628878508222247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

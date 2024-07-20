@@ -40,7 +40,7 @@ sidence, and their occupations or pursuits; and whe­
 ther, and at what time, they have made the applica- *  
 tiou to the courts required by law as pim-raton t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812071401:0081/pct:76.47817277583349,31.464826906492547,18.71431202799779,6.159911297277319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812071401:0081/pct:76.46408839779005,31.460950973146094,18.717004297114794,6.163258602282992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ ther? occupations or pursuits ; and whether, #nd at
 what time, ’:J havé jnade the application to the  
 courts required by law, as prepafatory td theif nat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812073001:0662/pct:52.33827603063386,71.40043332676778,21.63923741241649,5.84006302934804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812073001:0662/pct:52.349139101624026,71.40371610531153,21.633805876921407,5.846628586435559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ occupations or pursuits ; and whether, and at i
 wtiat time, they have made their application to &lt;  
 the courts required by law, as preparatory to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812080601:0207/pct:21.889081455805893,24.230003513291955,17.209705372616984,5.644689073662021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812080601:0207/pct:21.885288511523132,24.227166276346605,17.212499277999193,5.647931303669009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ to ibe Marshals (ok to the persons to be&#x27;ap­
 pointed by them’ ol the respective states or  
 territories within which they may reside, thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812082401:0230/pct:11.017531797868683,75.236316956471,16.13956686146442,2.55572412183452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812082401:0230/pct:11.015638425846365,75.22753792298717,16.142521624563212,2.559315441462466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

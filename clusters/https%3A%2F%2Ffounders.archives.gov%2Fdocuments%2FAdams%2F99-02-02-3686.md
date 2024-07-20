@@ -58,7 +58,7 @@ therein, to continue the discharge of their!&quot;
 refpe£ive offices at such port, the Secretary J Notice.   
 or in his abferce, the Comptroller of th« j THE creditors of John Ji. Hubb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799031601:0002/pct:59.0941768511862,6.571884520528072,38.43757488617302,83.38894530683302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799031601:0002/pct:59.100167745027555,6.579138256201944,38.43158399233165,83.3961990425069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ tafety of the public revenue and the observance of such
 ealth laws may require.&quot;  
 Under the provisions of the foregoing section th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743294:1858072001:0692/pct:195.0878922293412,134.05846363018355,50.45178248726795,11.88533877181056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743294:1858072001:0692/pct:65.02929740978041,44.686154543394515,16.817260829089317,3.96177959060352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ places therein as the safety of the publlc revenue, and the obe
 seryance of such health laws may require.  
 This section of law is full and expricit. It clearly refers t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530595:1858082801:0397/pct:103.42762063227953,118.80352189120734,47.15474209650582,10.541551079483778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530595:1858082801:0397/pct:34.475873544093176,39.601173963735775,15.718247365501941,3.513850359827926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ the port of New York as the safety of the pub-
 lic revenue and the observance of such health  
 laws may require; and the sum twenty thou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288993:1864122801:0615/pct:268.52207293666027,227.650805545148,49.80806142034549,24.503559385537656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288993:1864122801:0615/pct:67.17887154861945,56.912701386287,12.460984393757503,6.125889846384414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ port of New York as the safety of the public
 revenue and the observance of such health  
 laws may require; and the sum of twent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1865061501:0792/pct:254.65577860950435,77.83673089453598,30.58863559033685,16.243135064693288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84038074:00279529467:1865061501:0792/pct:84.88525953650145,25.945576964845326,10.196211863445617,5.414378354897763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ York, at such convenient place or places within or near
 the port of New York ils the safety of the public revenue  
 and the observance of audi health laws may require; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_eclipse_ver01:data:sn85038624:00280762635:1865062201:0017/pct:30.466222645099904,8.417137346741976,12.901998097050429,3.5404325664692107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_eclipse_ver01:data:sn85038624:00280762635:1865062201:0017/pct:30.475737392959086,8.427469348395096,12.90675547098002,3.5335445653671305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ York, at such convenient plnce or places within or near
 the port of New York as the safety or the public revenue  
 and the observance of such health laws may require; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_eclipse_ver01:data:sn85038624:00280762635:1865062301:0021/pct:30.54234062797336,8.499793359966938,13.092293054234062,2.9067364650778345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_eclipse_ver01:data:sn85038624:00280762635:1865062301:0021/pct:30.54234062797336,8.510125361620059,13.106565176022835,2.896404463424714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ York, at such convenient place or places within or near
 the pott of New York as the safety of the public revenue  
 ami the observance of such health laws may require; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_eclipse_ver01:data:sn85038624:00280762635:1865062401:0026/pct:15.606936416184972,7.936946902654867,13.238858847659891,3.5536504424778763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_eclipse_ver01:data:sn85038624:00280762635:1865062401:0026/pct:15.616259556218534,7.936946902654867,13.23419727764311,3.5605641592920354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ tho port of New York as the safety of the public revenue
 and the observance of such health laws may require- ami  
 the sum of twenty thousaud dollars is hereby appropri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_eclipse_ver01:data:sn85038624:00280762635:1865062801:0036/pct:1.6595189259742682,16.371681415929203,12.69811672571322,4.424778761061947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_eclipse_ver01:data:sn85038624:00280762635:1865062801:0036/pct:1.6735036360246132,16.382051991150444,12.707439865746784,4.424778761061947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ the port of Divvt York us the safety of the public revenue
 and the observance of such health laws may require; and  
 the sum of twenty thousaud dollars is hereby appropri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_eclipse_ver01:data:sn85038624:00280762635:1865062901:0040/pct:1.6035800857728884,17.270464601769913,12.735409285847473,3.9684734513274336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_eclipse_ver01:data:sn85038624:00280762635:1865062901:0040/pct:1.60824165578967,17.27737831858407,12.730747715830692,3.971930309734513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ convenient places therein as the safety
 of the public revenue and the observance  
 of such health laws may require
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn84024442:0021110207A:1897011701:0079/pct:26.2910085054678,8.702549575070822,18.028554070473877,7.546742209631728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn84024442:0021110207A:1897011701:0079/pct:17.530001519064257,5.801699716713881,12.030988910830928,5.031161473087819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

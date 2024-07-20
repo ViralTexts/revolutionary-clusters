@@ -241,7 +241,7 @@ outrage and an infamy?
 Having adopted those resolutions, that  
 Congress of1783 appointed a committee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528700:1868090201:0209/pct:48.50111856823266,232.98626495347807,33.75093214019388,32.78688524590164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528700:1868090201:0209/pct:16.167039522744222,77.66208831782602,11.250310713397962,10.92896174863388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ for the use of the United State a duty
 of five per cent ad valorem, at the time  
 and place tf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775927:1871020101:0096/pct:23.24159021406728,44.12238325281803,13.685015290519878,4.301817345295606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85026309:00280775927:1871020101:0096/pct:17.439192290041305,33.091787439613526,10.279944928866453,3.232114101679319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ ry, that they vest a power in Congress to
 levy, for the use of the United States a duty  
 of five per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1882120701:0389/pct:13.097226862679586,28.624581421307205,10.95890410958904,3.2122038943321343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1882120701:0389/pct:13.095039251712043,28.621031746031747,10.961249373642893,3.214905753968254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ orable discharge of the public debts, to in­
 vest the United States, in Congress assem­  
 bled. with the power to levy, for the use o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1882120701:0389/pct:13.097226862679586,37.83951382859978,10.975609756097562,10.479970234404067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896441:1882120701:0389/pct:13.095039251712043,37.83482142857143,10.9779522298313,10.481770833333334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

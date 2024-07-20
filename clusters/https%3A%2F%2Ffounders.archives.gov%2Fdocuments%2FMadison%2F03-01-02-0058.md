@@ -52,7 +52,7 @@ Italy, and protector of the confederation of the
 Rhine, and his majesty the king of Prussia, ani­  
 mated with the same desire of putting an end to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807092101:0735/pct:72.81035795887281,8.574196673663813,21.782178217821784,4.165993864040045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807092101:0735/pct:72.79187817258884,8.572812399095898,21.782994923857867,4.16935744268647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -69,7 +69,7 @@ the Constitution, Er, peror of the French
 King of Italy and Protector of the Confe­  
 deration of the Whine_ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808022601:0390/pct:78.07457870204374,73.08488612836439,16.56507708856221,1.619778346121057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808022601:0390/pct:78.06058433411006,73.07598636142231,16.568082691043795,1.6236402013313849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ ration of the Rhine. His imperial majest
 tution, Emperor of the French, King of Italy, and  
 Protector of the Confederation of the Rhine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826103101:0260/pct:44.94127068873465,41.64373835093636,17.592098238120663,0.9763024762580989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826103101:0260/pct:44.9352729213933,41.640042598509055,17.59419903020597,0.9791740622411549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

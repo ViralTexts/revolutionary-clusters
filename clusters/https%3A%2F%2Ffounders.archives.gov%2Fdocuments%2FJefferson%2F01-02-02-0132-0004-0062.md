@@ -126,7 +126,7 @@ ment of their respective asylums, to appoint officers,
 nurses and attendants, and to provide lor the accom­  
 modation, maintenance and cure of patients therein
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841032601:0238/pct:35.97154963680387,18.09862735129639,15.935230024213075,5.582104728012201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841032601:0238/pct:35.97154963680387,18.09862735129639,15.940274414850686,5.585493984070497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ modation, maintenance and cure of patients therein
 ions offered there for sale, and if on his own observa­  
 tion, or the information of others, he shall discove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857082601:0334/pct:83.78702962369896,15.419776119402986,12.42327195089405,0.7742537313432836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857082601:0334/pct:83.7758505670447,15.418337841619252,12.426061818990439,0.7772906756210552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ tion, or the information of others, he shall discove
 ions ottered there for sule, and if on his own observa­  
 tion, or the information of others, he shall discove
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857090901:0345/pct:56.4542046063203,15.362372912974536,12.61381896089984,0.7648540248111184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183761:1857090901:0345/pct:56.446646137367786,15.36094012311136,12.616593028964163,0.7678915625194305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ given or to be given to the said Asylum,
 or to themselves, for the use thereof, so  
 as the annual income of such donation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1858012201:0424/pct:42.597765363128495,62.09279368213228,13.84427374301676,5.993512903680722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1858012201:0424/pct:42.61085893854749,62.09279368213228,13.84427374301676,6.014666478634889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ to be given to said asylum, or to them­
 selves, or for the use thereof, so as the  
 annual income of such donations shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1858040901:0468/pct:15.049226441631506,48.56449078703042,13.924050632911392,6.541922582488216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1858040901:0468/pct:15.062412095639944,48.56806170547065,13.91965541490858,6.541922582488216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ annual income of such donations shal
 provisions ottered there for sale, and if upon his own  
 observation, or the information of others, he shall dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1860052201:0093/pct:82.60475944128298,23.53447451467916,12.674599068804966,0.7172229128813236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1860052201:0093/pct:82.60907052940162,23.537662172069744,12.670287980686325,0.7235982276624908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ observation, or the information of others, he shall dis
 upon his own observation, or the information of  
 others, he shall discover any unfit, damaged, taint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349463:1860052501:0086/pct:15.922598479612992,20.633597332221758,12.633033863165169,0.8128386827844936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349463:1860052501:0086/pct:15.92039800995025,20.631447327289777,12.635894601068731,0.8162272932513632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ and if upon his own observation, or the_ informa­
 tion of others, he shall discover any unfit, dama­  
 ged, tainted or unsound provisions offered i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1867030501:0252/pct:69.66336633663366,35.68776865963267,12.607260726072607,1.221180148495506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1867030501:0252/pct:69.66336633663366,35.69428162042465,12.62046204620462,1.21466718770353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ and if upon his own observation, or the informa­
 tion of others, he shall discover any unfit, dama­  
 ged, tainted or unsound provisions offered i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1867031201:0257/pct:70.01980198019803,36.59632669011332,12.528052805280527,1.1625635013677218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1867031201:0257/pct:70.01980198019803,36.59958317050931,12.536853685368538,1.1690764621596978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ and if upon his own observation, or the informa­
 tion of others, he shall discover any unfit, dama­  
 ged, tainted or unsound provisions offered i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1867031901:0261/pct:69.18811881188118,35.795232512700274,12.528052805280527,1.1723329425556859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1867031901:0261/pct:69.18811881188118,35.80174547349225,12.536853685368538,1.1690764621596978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ subject matter, which warrant thall be sub
 tablishment of a “Western Hospital for the main­  
 tenance and cure of persons of unsound mind.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1872020101:0021/pct:29.627732240437158,32.4327868852459,12.278005464480874,0.839344262295082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348719:1872020101:0021/pct:29.622673723749358,32.42853396275898,12.28017756530647,0.8425124573826384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

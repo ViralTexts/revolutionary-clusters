@@ -227,7 +227,7 @@ Burr, there is nothing in his favor. His
 private character is not defended by his  
 most partial friends
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877011001:0007/pct:105.53869499241274,179.98279323200458,42.03338391502276,37.338686550043015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877011001:0007/pct:26.39969633706586,44.995698308001145,10.514329094704877,9.334671637510754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ country.&quot; And Jefferson was elected pyer
 crats in New York, and other duels. First, ,  
 the death of Philip Hamilton, the eldes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296023012:1881070801:0114/pct:102.64017419706042,43.74463519313305,18.93032117583016,11.781115879828326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296023012:1881070801:0114/pct:77.00789545330792,32.81115879828326,14.198203103729922,8.841201716738198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ He is bankrupt bevond redemntion. excent
 1 r r  
 by the plunder of his country.&quot; And Jeff
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84027490:0020219123A:1881071601:0303/pct:58.511673151750976,86.20340543028072,15.831712062256809,7.878508973768983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn84027490:0020219123A:1881071601:0303/pct:43.89442957917782,64.65715600552232,11.88275358793481,5.908881730326737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ plunder of his country.&quot; And Jefferson was
 elected over Burr. Then began the reign of  
 the Democrats in New York, and other duels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1881072801:0273/pct:70.22025283461488,59.50843200574094,14.896389938746253,7.086472909939003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861915:1881072801:0273/pct:70.22025283461488,59.5144121516565,14.905078413484512,7.086472909939003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ country.&quot; And Jolerson was elected
 over Burr. Then began the reign of the  
 Democrats in New York, an(d ot.he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288427:1881082001:0748/pct:69.85531675797162,32.29086932750137,13.513133867116167,9.89611809732094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288427:1881082001:0748/pct:69.86468136910615,32.29086932750137,13.522498478250691,9.903408055403682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ demption, except by the plunder of Ids
 country.&quot; And Jefferson was elected  
 over Burr. Then began the reign of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83008556:00296028526:1881082501:0327/pct:83.18187635991296,32.90846956682368,12.67118904390119,8.811305070656692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83008556:00296028526:1881082501:0327/pct:83.18614275353045,32.91462701271512,12.675455437518666,8.817462516548137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ beyond redemption, except by the plunder of
 his country. * ? ? Everv dtep in his careet  
 proves that he hns formed himself upon th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654772:1890072601:0168/pct:42.979990077724494,66.24043977055449,13.676203075905407,1.9598470363288718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654772:1890072601:0168/pct:42.992392922110135,66.24342734225621,13.672068794443526,1.974784894837476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -422,7 +422,7 @@ ous a man and he lias pretentious to
 character. As to Hurr, there is nothing  
 in his favor. ” These definitions have 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521687:1891070601:0186/pct:83.13508228776276,47.40757963264357,12.742382271468143,3.4875610323180655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521687:1891070601:0186/pct:83.14051382325783,47.415329768270944,12.753245342458312,3.479810896690692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ character. As to Burr, there is nothing
   
 iu his favor. &quot; These definitions have 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020527:1891081501:1104/pct:54.5837023914969,56.88267124191633,20.482728077945083,6.6517091197043685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn86090474:00296020527:1891081501:1104/pct:40.96145325653522,42.66860234921473,15.37439078422685,4.988781839778277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ partial friends. He is bankrupt be­
 yond redemption, except by the plun­  
 der of his country.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767827:1895050201:0151/pct:49.073773155671105,19.69781757134863,13.844653883652908,3.02182428651371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767827:1895050201:0151/pct:49.073773155671105,19.69781757134863,13.85548694615968,3.02182428651371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ partial friends. He is bankrupt be­
 yond redemption, except by the plun­  
 der of his country.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jicama_ver01:data:sn98062949:00340581088:1895050901:0163/pct:27.165425821681495,27.70160353241924,16.978391138550936,4.380664652567976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jicama_ver01:data:sn98062949:00340581088:1895050901:0163/pct:27.174505175231523,27.71031838252382,16.98747049210096,4.377759702533116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ partial friends. He is bankrupt be­
 yond redemption, except by the plun­  
 der of his country.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1895051101:0017/pct:37.38019169329073,32.52296661438494,13.865814696485623,3.0472776159533947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1895051101:0017/pct:37.38019169329073,32.5304354320711,13.887113951011715,3.0398087982672344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ fended by his must partial friends. He
 is bankrupt beyond redemption, except  
 by the plunder of his country.&quot; &quot;Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478088:1895080301:0267/pct:7.943548387096774,16.92864097927389,34.354838709677416,111.15593267492001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478088:1895080301:0267/pct:5.971353641315312,12.699958269578524,25.78172281621949,83.37738211155933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

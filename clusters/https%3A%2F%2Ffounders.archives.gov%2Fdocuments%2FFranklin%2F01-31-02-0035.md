@@ -435,7 +435,7 @@ almost all men in all ages and couu
 (tries have at times made use of  
 prayer.” His earlier pamphlet “ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1878071101:0109/pct:83.04567180031864,29.769539078156313,10.661178969729155,2.9158316633266534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1878071101:0109/pct:83.04567180031864,29.776219104876418,10.665604531775536,2.9191716766867066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ for its foundation this fact, that almost
 all men in all ages and countries have at  
 times made use of prayer.&quot; His earlie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1878102301:2227/pct:24.115755627009648,99.89499474973749,69.2390139335477,11.830591529576479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn86063984:00200292819:1878102301:2227/pct:6.030554811042616,24.973748687434373,17.314392924149022,2.9576478823941197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ for its loundation tms tact, tnat almost
 all men in all ages and countries have at  
 times made use of prayer.&quot; Hie earlie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775216:1878121301:0062/pct:79.74051896207585,33.938205002452186,14.204923486360611,2.758705247670427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn88078580:00280775216:1878121301:0062/pct:59.84356798136129,25.453653751839138,10.650690630720586,2.072094163805787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ for its foundation this fact, that almost
 all men in all ages and countries have at  
 times made use of prayer.&quot; His earlie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1879041701:0451/pct:61.23076923076923,34.97555012224939,12.707692307692307,4.7799511002444985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283600:1879041701:0451/pct:45.93721144967682,26.234718826405867,9.541397353031702,3.5941320293398533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

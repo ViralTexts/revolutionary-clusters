@@ -77,7 +77,7 @@ tiality.&quot;
 He wondered if she would sob, He hated  
 to think of her tears, and again he mut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655120:1897022001:0086/pct:15.055378261685751,63.45325739686068,13.77886239909893,3.37546881511321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655120:1897022001:0086/pct:15.064764407734184,63.45325739686068,13.792941618171579,3.3858869287401028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ tiality. &quot;
 Ho wondered If she would sob. He bated  
 to think of her tears , and again ho mut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538958:1897022001:0262/pct:24.688796680497926,85.97957288765089,16.217150760719225,4.350709643188752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538958:1897022001:0262/pct:18.51979941206986,64.49131184507229,12.173612311948816,3.2597161427244994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -138,7 +138,7 @@ power, but it is impossible for me to
 comply with your request, without in­  
 curring the charge of partiality.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892198:1897022101:0546/pct:19.71107544141252,75.21464075915047,14.510433386837882,2.474017171260732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892198:1897022101:0546/pct:19.716425896201176,75.21840638650399,14.505082932049223,2.474017171260732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ quest without violating the principles
 of justice and incurring the charge of  
 partiality 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:206534618:1897022201:0495/pct:124.78260869565217,19.059984419631263,24.565217391304348,4.336535964684497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:206534618:1897022201:0495/pct:83.20347889110346,12.710984159958452,16.379778945461133,2.8953518566606076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ and incurring the charge of partiality.&#x27;
 He wondered if she would sob. He  
 hated to think of her tears, and agai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_frawley_ver01:data:sn84038095:00415668806:1899070401:0804/pct:81.87933143090093,86.49807115302185,17.48878923766816,5.615087869695671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_frawley_ver01:data:sn84038095:00415668806:1899070401:0804/pct:65.51255571257745,69.20292616017679,13.99608653114469,4.495923188295359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ and incurring the charge »f partiality.&#x27;
 He wondered if shg would sob. He  
 hated to think of her tears, and agai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jackson_ver01:data:sn87057934:0041562265A:1899070601:0874/pct:25.1550930558335,72.86538191025461,17.190314188513106,27.09241806161204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jackson_ver01:data:sn87057934:0041562265A:1899070601:0874/pct:20.129142430225734,58.2992610375483,13.757404343881744,21.681233354589445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ and incurring the charge of partiality.&#x27;
 He wondered if she would sob. He  
 hated to think of her tears, and agai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197310:1899122701:0485/pct:28.667192429022084,79.20426579163248,17.665615141955836,29.122231337161608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn97067613:00202197310:1899122701:0485/pct:21.51449418260698,59.40661744599399,13.251824097811083,21.848509707410447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

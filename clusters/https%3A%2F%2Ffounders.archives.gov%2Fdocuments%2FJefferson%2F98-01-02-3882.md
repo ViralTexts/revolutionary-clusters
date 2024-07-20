@@ -28,7 +28,7 @@ ter to him, on the subject of the treacherous publication of the Cunningham corr
 was made, by the treacherous publication of  
 the Cunningham correspondence, to destro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823123001:0205/pct:5.496610669024462,23.878437047756876,16.3719422340112,1.244573082489146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823123001:0205/pct:5.501522742902053,23.88486894999196,16.381766381766383,1.244573082489146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -57,7 +57,7 @@ their tombs as implacable enemies, two of the
 only three surviving signers of the Declara­  
 tion of Independence. While the holiness o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823123001:0205/pct:5.511346890657236,31.45200192957067,16.357206012378427,10.496864447660396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823123001:0205/pct:5.521171038412418,31.45200192957067,16.362118086256018,10.496864447660396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,7 +86,7 @@ hopes, to send to their tombs as implacable
 enemies, Ivv u of the only three «urv iv ing sign­  
 ers of the Declaration of Independence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823123001:0289/pct:48.944180716974955,56.458007929832995,15.04337862170568,8.15811606391926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823123001:0289/pct:48.93617021276596,56.451225372417106,15.046372067648663,8.161140477334614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ hopes, 1o send ta their tombs ae implacehle
 enemies, two of the only three su: viving sign­  
 ers of .the Declardtion of ludependence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824010101:0615/pct:31.464772509118834,65.52088221492257,21.155692071414858,10.11262318160488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824010101:0615/pct:31.471171690023677,65.52870326920069,21.1620912523197,10.108712654465823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ cans would out only participate,but visit
 the supposed wrongs of the father upon  
 1 the son. So far from this desired re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824010101:0008/pct:45.01683501683502,7.983283326189456,16.54882154882155,6.815259322760395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824010101:0008/pct:45.009257700723786,7.9824279438551375,16.55164674858329,6.818100646451659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ implacable enemies, two of the only
 three surviving signers of the Declara­  
 tion o! Indepen ence. While the ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824010101:0008/pct:45.01683501683502,16.116588084012,16.5993265993266,11.390912987569653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824010101:0008/pct:45.009257700723786,16.114861245044466,16.602143297985748,11.39326404514447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ send to their tombs as implacable enemies,
 t.vo of the only three surviving signers of  
 ttie Declaration of Independent*&#x27;. Whil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824010601:0578/pct:1.2936344969199178,65.14110250036555,14.86652977412731,2.134815031437345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824010601:0578/pct:1.2933689180866352,65.13157894736842,14.868610141654692,2.138157894736842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

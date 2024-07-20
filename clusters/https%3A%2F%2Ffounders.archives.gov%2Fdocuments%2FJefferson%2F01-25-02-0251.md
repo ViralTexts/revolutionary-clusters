@@ -67,7 +67,7 @@ was given to the orator, published in the samo
 paper, we learn that the Address is to be, as we  
 might also infer from the notice, on “ the prin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1830062301:1041/pct:44.96698018811287,41.12846489376671,19.15149089453672,15.801322639651048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1830062301:1041/pct:34.854986299953474,31.874522918105484,14.847748539523343,12.260550325324417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ ciety, &amp; as soon as a new portion be­
 came encircled within our line, it be­  
 came a tixed limit of our society.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1830071001:0004/pct:12.225851609892674,20.749325289728528,15.842277181521231,14.192729004603905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1830071001:0004/pct:12.23751749883341,20.757263057628194,15.842277181521231,14.19669788855374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ j of our society, and ss soon as a new portion
 ! became encircled within our hue, it became  
 a li ved limit of our society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830072201:0338/pct:20.333117023577763,50.1056784556855,18.53774605234696,10.44103142172749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830072201:0338/pct:20.32871972318339,50.09861932938856,18.539143598615915,10.443082558467173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ a li ved limit of our society.
 the treaty should proceed, merely to gratify public  
 opinion, and not from an expectation of ■ucces*.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830081801:0784/pct:3.390108090402882,72.01563240170535,18.32623648869964,1.6935101847465657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830081801:0784/pct:3.389552971999345,72.00710479573712,18.32869384858905,1.6972567594237222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ An I her question seems to have anaer, in the Cab
 inet. which, as tar as I can gather from the bonk bo  
 fore m^, (d»r I hav** not been able to lay my hand o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830081801:0784/pct:3.340976089092696,74.19469445760303,18.49000982640026,9.249171009000474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830081801:0784/pct:3.3404290158834127,74.18590882178805,18.492440368975494,9.25202289323071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ fore m^, (d»r I hav** not been able to lay my hand o
 too treaty should proceed, merely to gratify public  
 opinion, and not from an expectation of succcs.- ’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830082001:0274/pct:4.085201080909235,70.68512771544522,17.644253695755843,1.623299116734304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830082001:0274/pct:4.084551811824539,70.67669172932331,17.646747192201737,1.6270835819708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ Another question secrri3 to hove arisen in the Cnb
 inct. Which, as far an I can gather from the book be  
 fore me, (for I have not been able to lay aiy hand o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830082001:0274/pct:4.101096804959466,72.83361184053473,17.723732316006995,9.405586058725232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830082001:0274/pct:4.100445009535918,72.82491944146079,17.726213180758634,9.408441739268808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ ed at tha counter of any of these institutions or branches, the
 name of the person presenting it is immediately registered,  
 together with the number, letter, signatures, &amp;c. of the note
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841081701:0437/pct:2.174714338370807,96.40959170447181,58.5514190932547,34.270900842514585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841081701:0437/pct:0.7249047794569358,32.13653056815727,19.517139697751567,11.423633614171527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ nas so fundamental, thai it could not Ire die- i
 inrmhcrr-d hy the constituted authorities, except when  
 their |Kiwer w?ade?potic, or u as expressly delegaltd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844042201:0385/pct:35.278179190751445,73.22354771784232,17.052023121387283,10.101141078838173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844042201:0385/pct:35.29022157996146,73.22354771784232,17.052023121387283,10.10978561549101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

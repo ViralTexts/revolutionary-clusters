@@ -837,7 +837,7 @@ ant Ihall recover double coil : and in all actions, suits or informa­
 tions to be brought, where any seizure shall be made pursuant to  
 tnis a£t, it the property be claimed by any person, in every suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081501:0004/pct:19.15927938232771,55.99161745094304,25.221618530168715,7.620499142693847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789081501:0004/pct:19.180726336860165,56.005905886835585,25.23591649985702,7.606210706801296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ seizure shall be made pursuant to this
 aét, if the property be claimed by any  
 person, in every such case the onus pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091001:0454/pct:51.446330384891226,35.51964512040558,20.894095147023666,13.11787072243346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789091001:0454/pct:51.46226790979361,35.53020701309675,20.894095147023666,13.11787072243346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ tions, fuirs or information to be brought* where any seizure fliall
 be made pursuant to this if the property be claimed by any  
 person, in every such cafe the onus probandi fliall be upon suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790092501:0001/pct:63.064169481117595,28.408867961546008,26.71169788148603,5.846576417500491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790092501:0001/pct:63.064169481117595,28.408867961546008,26.757752533005835,5.866195801451834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ feizare shall be made pursuant to this
 a&amp;, if the property be claimed by any  
 person, in every such ease the onus pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010101:0724/pct:10.07453714835297,19.72844757075086,20.509737917768696,14.182888925241288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010101:0724/pct:10.07453714835297,19.733900430775943,20.52576741203815,14.193794645291455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -953,7 +953,7 @@ inhumations to be brought, where any sei­
 zure shall he made pursuant to this act, if  
 the property be claimed by any person, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809011701:0321/pct:23.10154721678819,22.963238946845504,17.126089276187088,9.860904123199205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809011701:0321/pct:23.097439544807965,22.960387433254688,17.128971076339496,9.863818866674945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1015,7 +1015,7 @@ in every such case the onus proband: shall be
 upon such claimant : but the onus probandi  
 shall lie on the claimant only when probabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815041101:0269/pct:23.251146788990827,49.298262832466385,16.456422018348626,11.247423692217097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815041101:0269/pct:23.251146788990827,49.30480583635947,16.461200305810397,11.253966696110185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

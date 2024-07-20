@@ -79,7 +79,7 @@ in the prefence o
 part, his heirs or assigns, the just and full  
 sum of one hundred and seventeen dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049816:00415668855:1844011101:0045/pct:31.51595744680851,64.94399467672174,14.644281914893616,0.9537540201840967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049816:00415668855:1844011101:0045/pct:31.51595744680851,64.94399467672174,14.64982269503546,0.9648441832094932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ sum of one hundred and seventeen dollars
 part, his heirs or assigns, the just and full  
 sum of one hundred and seventeen dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049816:00415668855:1844011801:0049/pct:61.52416356877323,20.336322869955158,14.768502872592093,0.9753363228699552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049816:00415668855:1844011801:0049/pct:61.535428635800386,20.340059790732436,14.774135406105666,0.9790732436472347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ case the above and foregoing deed is to be
 void ami of no effect otherwise to be a id  
 remain in full force and virtue in law.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049816:00415668855:1844012501:0053/pct:31.161853593015447,73.37502792048247,14.741437206178643,5.316059861514407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049816:00415668855:1844012501:0053/pct:31.17304678755317,73.38247338247338,14.747033803447504,5.316059861514407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ remain in full force and virtue in law.&quot;
 part, his heirs or assigns, the just and full  
 sum of one hundred and seventeen dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049816:00415668855:1844020101:0057/pct:46.049548041513226,73.14845751197238,14.496149983260796,0.9577903998218065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049816:00415668855:1844020101:0057/pct:46.06070751032251,73.14845751197238,14.496149983260796,0.9689274974941531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ sum of one hundred and seventeen dollars
 part, his heirs or assigns, the just and full  
 sum of one hundred and seventeen dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049816:00415668855:1844020801:0061/pct:47.26451397021918,73.33259102549827,14.488874017065417,0.9130386371228149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn85049816:00415668855:1844020801:0061/pct:47.26451397021918,73.34001410384887,14.5111817522726,0.9093270979475189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

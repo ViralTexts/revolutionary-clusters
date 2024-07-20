@@ -172,7 +172,7 @@ A quarrel is quicklj&#x27; settled when
 deserted by one party. There is no  
 battle unless there be two. Seneca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556862:1894032901:0841/pct:42.275449101796404,77.03969447980558,15.95808383233533,17.602129383173242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556862:1894032901:0841/pct:31.711334032040725,57.782664043513485,11.977840994160802,13.204490221039231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ more erroneous than that which holds
 that when time is slow life is dull.  
 No human being can come into thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1894032901:0487/pct:22.184760620364127,12.870646121973326,14.817936614969657,19.7462126116794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775319:1894032901:0487/pct:16.644182124789207,9.659458759549398,11.129848229342327,14.81289654279425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ A quarrel is quickly settled when
 deserted by one party. There is no  
 battle unless there be two.?Seneca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554929:1894041001:0338/pct:24.800796812749002,20.12752980316052,19.840637450199203,20.46021624618797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554929:1894041001:0338/pct:24.810756972111555,20.12752980316052,19.845617529880478,20.463681729969505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ You can tell a good deal about a
 man&#x27;s religion by the songs he sings  
 and the way he sings them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661757:1894050301:0463/pct:107.02564102564102,88.51162790697674,21.53846153846154,19.162790697674417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661757:1894050301:0463/pct:80.30264170300077,66.3875968992248,16.15798922800718,14.372093023255815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ Mutability of temper and inconsist­
 ency with ourselves is the great weak­  
 ness of human nature.—Addison.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kinnikinnick_ver01:data:2007252175:00211107728:1894051901:0226/pct:12.402475114339522,8.348948573808036,23.35216572504708,5.017697272537997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kinnikinnick_ver01:data:2007252175:00211107728:1894051901:0226/pct:12.411442919917496,8.362828787563329,23.35216572504708,5.017697272537997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

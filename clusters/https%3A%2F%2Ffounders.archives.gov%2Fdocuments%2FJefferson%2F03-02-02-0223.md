@@ -70,15 +70,15 @@ to l iace ourselves within the scope of (heir
 tether, a trijie ol tlic paw, or a flounce of the  
 rad, may be our fortune.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830011401:0228/pct:0.9640102827763496,59.935265972417675,17.759211653813196,8.6687306501548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830011401:0228/pct:0.9638038123795245,59.926832700154776,17.760762475904905,8.671028563388209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1843-06_12_60/page/n87/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1843-06_12_60/page/n87/mode/1up?view=theater)
 
-#### 1843-06-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1843-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -130,7 +130,7 @@ opinion for himself. In this way they are not brought
 together, and it is not necessarily known to any what  
 opinions the others have.&quot; Meeting together and discussin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849090501:0225/pct:35.80708022085093,60.92330978809284,18.106528093536863,5.890514631685167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849090501:0225/pct:35.80708022085093,60.927514295324585,18.106528093536863,5.894719138916919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ council, but that he thinks the course of requiring sep.­
 arate opinions in writing from the respective Heads of  
 the Departments, as more strictly within the spirit of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868041801:0747/pct:51.09839108910891,39.019884820167334,48.54579207920792,10.561773334782137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868041801:0747/pct:17.03279702970297,13.006628273389111,16.181930693069308,3.5205911115940456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ or taking their opinions separately in con
 versation or in writing; that in his own  
  ainitaton e oo te patic 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868041801:0230/pct:53.20534223706177,237.37785016286645,56.010016694490815,16.01907864122848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743622:1868041801:0230/pct:17.73511407902059,79.12595005428882,18.670005564830273,5.339692880409493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

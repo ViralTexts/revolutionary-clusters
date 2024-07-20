@@ -38,7 +38,7 @@ and the fame are hereby declared to be,
 and to have been from the beginning,  
 null, void, and of no eft&#x27;ft in law o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0003/pct:1.9081428888395828,50.32903756512202,18.437985356112712,7.787222374554428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804033001:0003/pct:1.9229346941794245,50.32903756512202,18.445381258782636,7.796362306918929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -67,7 +67,7 @@ and the same are hereby declared to he,
 and to Have been from the beginning, null,  
 v .id. and of no efTetf in law or equity 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:60.78658183921342,64.7731755424063,17.794486215538846,9.62524654832347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804040701:0085/pct:60.774865073245955,64.7646594793584,17.797481367257774,9.628363572618108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

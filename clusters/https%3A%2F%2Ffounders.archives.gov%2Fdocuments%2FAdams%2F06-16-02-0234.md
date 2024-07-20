@@ -88,7 +88,7 @@ ty of peace is in thefe words ; &quot; It is a­
 ./ith no lawful impediment to the re­  
 covery of the full value in fterllng m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800112101:0004/pct:7.079646017699115,7.300918259822369,21.263520157325466,3.944001204275177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800112101:0004/pct:7.087840052441822,7.300918259822369,21.28810226155359,3.9590546439861507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ and declared to be binding and obligatory
 upon his Britannic Majefly and the fmd U.  
 nited States, and the {ame shall be accord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802042701:0068/pct:78.1520254893036,12.27761485826002,16.279775451373084,11.436950146627566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802042701:0068/pct:78.1570828908107,12.284131638970349,16.289890254387295,11.436950146627566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ ling money of all bona fide debts heretofore
 contracted.&quot;  
 It is commonly believed in this country tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882052101:0382/pct:131.04747550866617,300.04483634733225,50.113036925395626,21.760573905245852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882052101:0382/pct:32.76186887716654,75.01120908683306,12.528259231348907,5.440143476311463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

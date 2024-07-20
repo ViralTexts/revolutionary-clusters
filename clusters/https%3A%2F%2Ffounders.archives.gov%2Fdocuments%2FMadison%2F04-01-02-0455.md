@@ -218,7 +218,7 @@ come the painful duty of this tribunal,
 should a case requiring such a decision  
 come before it, to say that such an act wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819070501:0384/pct:27.72120786516854,22.66377910124526,17.134831460674157,5.089334055224689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819070501:0384/pct:27.716341934351412,22.661325249025552,17.13767479960213,5.092392088927386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ laud. Bui where the law is not pro
 any of tile objects, entrusted to the  
 “ government, to undertake here to en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819072701:0091/pct:19.46078431372549,36.883866314017794,14.950980392156863,8.06684299110363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819072701:0091/pct:19.45760496650874,36.87943262411348,14.95398355388553,8.069880193933566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ without limit; but then comes the enumeration
 of the eases to which its powers shall extend.—  
 You may apply the money to the common de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824021301:0024/pct:50.016,42.605674580196876,15.28,11.696583671105964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824021301:0024/pct:50.00799872020477,42.60074108383511,15.282888071241935,11.699089084452678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ marks intended by a limitation of its powers,
 and to substitute for a definite connexion be­  
 tween means and ends, a legislative discretio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824021301:0024/pct:65.776,35.76143601621309,15.264,3.242617255356109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824021301:0024/pct:65.76547752359622,35.75729504400185,15.2668906308324,3.246101590242396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ Uy, may amount tp a power ever every oilier
 thin5—ends and means may be made to  
 &quot;l&gt; utge th-.ir eh.*r *. ter, at the&#x27; will of b gisla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824021401:0367/pct:64.4590901784279,83.14434207417906,15.3994534640733,6.520198440822112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824021401:0367/pct:64.44873031179685,83.13452226290303,15.40233579770706,6.52336522184166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ such an act was not the law of the land. But when
 the law is not prohibited, and is really calculated to ef­  
 fect any of the objects entrusted to the Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841092801:0918/pct:66.46075581395348,53.21981820509538,16.09738372093023,3.955959544232493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841092801:0918/pct:66.46075581395348,53.22835317714335,16.10343992248062,3.955959544232493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ than that of Congress. If it exists, it
 must be derived from the Constitution.  
 If not found there its exercise can be re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870011101:0044/pct:20.74375363160953,336.71390092516685,39.04706565950029,33.587071085607214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293010:1870011101:0044/pct:5.185938407902382,84.17847523129171,9.761766414875073,8.396767771401803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ act was not the law of the land; but where the law
 is not, pronibited and is really calculated to effect  
 any of the objects entrusted to the Government, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743695:1870020801:0443/pct:58.610972981932704,263.08173188238015,45.84783689706614,15.512850196804816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743695:1870020801:0443/pct:19.536990993977568,87.69391062746006,15.282612299022045,5.170950065601605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ complishment of oljects not intrusted to the Govern-­
 ment, it would be the painful duty of this tribunal.  
 should a cuse requiring such a decision come before it, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870020801:0280/pct:55.321580150179564,140.98850574712642,47.796278158667974,8.494252873563218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206530947:1870020801:0280/pct:18.44052671672652,46.99616858237548,15.93209271955599,2.8314176245210727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ wuuld be the painful duty of thia tribunal,
 should a case requiring such a decision come  
 before it, to say that such an act w.is uot th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:0029455175A:1870021101:0141/pct:42.956045725326035,95.22414958323947,13.73369827725004,3.2665014642937598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:0029455175A:1870021101:0141/pct:42.961412547630545,95.22414958323947,13.73369827725004,3.2740106630622514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ land; but where the law is not prohibited
 and is really calculated to effect any of  
 the objects entrusted to the governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190856:1870021101:0148/pct:25.522801713277904,46.31192660550459,15.11715797430083,12.587155963302752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190856:1870021101:0148/pct:25.522801713277904,46.321100917431195,15.136054421768707,12.591743119266056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ not entrusted to the Government, it was clearly
 the painful duty of the Supreme Court to declare  
 that such law was not the law of tbe laud
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1870021701:0245/pct:34.5350135587813,62.87313432835821,15.712234806189185,2.666812993854258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551268:1870021701:0245/pct:34.5350135587813,62.880450687737785,15.733503482745785,2.666812993854258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ duty of the Supreme Court to de1
 clare that such law was not the law  
 of the land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn84026853:00202193997:1870022501:0085/pct:26.280254777070063,45.57310995652635,14.07643312101911,5.397094687731948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn84026853:00202193997:1870022501:0085/pct:26.28874734607219,45.57310995652635,14.072186836518046,5.4006291308804295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -927,7 +927,7 @@ paintul duty of this tribun a should a case requirin
 such a decision come before it, to say that such an act  
  was not the law of the land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894071501:0784/pct:169.1320754716981,281.00315362667067,53.35849056603774,28.713019972968915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894071501:0784/pct:42.29099830156633,70.25078840666767,13.34214002642008,7.178254993242229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

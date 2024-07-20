@@ -34,7 +34,7 @@ acvtof war, necessarily required an explanation,
 which would satisfy not only the United States, but  
 the world. But the note of the duke of Cador«, in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811070101:0594/pct:49.297856614929785,55.956213779781066,21.13821138211382,4.764971023824855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811070101:0594/pct:49.285714285714285,55.947207468211815,21.139162561576356,4.768227909222598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -59,7 +59,7 @@ sens of the United States.. This statute was also
 in force against the vessels of Crcat Britain. If It*  
 operation bad been considered by the French gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811070101:0594/pct:49.297856614929785,70.79845460399227,21.13821138211382,7.533805537669028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811070101:0594/pct:49.285714285714285,70.78705939159826,21.139162561576356,7.536616771286013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ io operation, there can benoldhujed asolitary
 the A meri c an p roper ty, detained by the &#x27;Ffehcft gS*®;  
 vernmcut, into tbe possession of.thereipeetiVfown- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811070101:0594/pct:70.9780734170978,55.37669027688345,22.493224932249323,15.614938828074694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811070101:0594/pct:70.96059113300493,55.36777724126831,22.49384236453202,15.616449380331563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ is scarcely less than an act of war, necessarily
 : required an explanation, which would satisfy  
 1 not only the U. S. but the world. But the not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070501:0072/pct:58.50773430391265,19.997534212797436,17.579617834394906,2.638392306743928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070501:0072/pct:58.49708879184862,19.995069033530573,17.582484230955846,2.6421761998685076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ sumption of the other. TFlien the American Go
 vernment sees &gt;n the provisions of the British or  
 ders an assumption of jnaritime power in contra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070501:0072/pct:58.835304822565966,42.57181605227469,17.252047315741585,7.36037479965479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070501:0072/pct:58.824599708879184,42.56656804733728,17.25497331392528,7.363576594345825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ countries. By the Act of Congress of the last
 session an opportunity is again afforded to his  
 Imperial Majesty to establish the mo9t amicabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070501:0072/pct:58.68971792538672,56.750092467020096,17.415832575068244,19.13450869189989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070501:0072/pct:58.67903930131004,56.7430966469428,17.418728772440563,19.136259040105195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ detained by the French Government,into the pos_
 session of the respective owners  
 These observations you will not fail to presen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070501:0072/pct:76.52411282984531,3.2178522993465664,17.743403093721565,9.493280729873012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070501:0072/pct:76.51018922852984,3.217455621301775,17.746239689471132,9.49621959237344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ c:.&quot;Cely less than an act of war, necessarily’
 required an explanation, which would satisfy  
 not ‘&#x27;niy the United States but the world. Hu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811070801:0227/pct:74.03225806451613,32.405424696645255,16.630824372759857,2.7242445871996193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811070801:0227/pct:74.01899301200501,32.40157012013798,16.633817117601385,2.727885492248523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ States. The French government wottld not
 then have had tile opportunity of exercising  
 its power, in a manner as contrary to the form
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811070801:0228/pct:6.245407788390889,15.766893099749732,17.266715650257165,4.898105112620665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811070801:0228/pct:6.2442607897153355,15.765014299332698,17.269666360575453,4.9014934858595485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ owners.
 These observations you will not fail to pre­  
 sent to the view of the French government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811070801:0228/pct:6.576047024246877,28.22071266833512,16.991182953710506,12.45381956858539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811070801:0228/pct:6.5748393021120295,28.217349857006674,16.99418426691154,12.456307594534477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ the inilowing ; ‘Mad Fra re® interdicted to
 “ by oui law, there.would have been no  
 “ r carve of complaint on. the part of the U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811071901:0087/pct:59.830944505696436,81.51530108588351,17.5303197353914,3.4797630799605135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811071901:0087/pct:59.81995223222488,81.50524367674275,17.533223100006126,3.483446432243471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ _their own honor to tefilt with corref­
 ‘ponding measure the cupidity of the  
 one and the presumption of the other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811072301:0118/pct:26.235330450895614,62.49515691592406,16.939468807906113,8.795040681906238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811072301:0118/pct:26.24047766110768,62.49515691592406,16.949763228330244,8.801498127340825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +864,7 @@ f{olitary reasonable pretext for pro­
 ican property, detained by the Freach  
 government, into thé poflcflion es th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811072301:0118/pct:43.576281655342804,27.4118558698179,16.800494132180358,22.626888802789615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811072301:0118/pct:43.576281655342804,27.4118558698179,16.805641342392423,22.633346248224203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -884,7 +884,7 @@ tion with that given by our law, there would
 have been no cause ol compiaint on the part  
 of the United States.”” Wnat ! no cause o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811072401:0449/pct:3.807840616966581,41.75521448248721,21.995501285347043,3.9748130657221568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811072401:0449/pct:3.8185518423307627,41.75521448248721,21.99014567266495,3.9846517119244393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ with that given by our’ law, there
 &quot; would have been uo cause of complaint.  
 on the part of the United” States.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811081301:0130/pct:7.036411123060378,31.259920634920636,16.74604393916116,4.712301587301587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811081301:0130/pct:7.041532237414861,31.263227513227513,16.740922824806677,4.718915343915344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

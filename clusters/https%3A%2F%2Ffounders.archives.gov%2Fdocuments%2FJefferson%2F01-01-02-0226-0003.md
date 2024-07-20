@@ -387,7 +387,7 @@ right ot hi- wife, sit.11 have a vole, or be capable o i
 being chosen a representative,in the county where j  
 the said land shall lie.”fcc. Vid. Hen. Stsl.at I rge,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827030101:0402/pct:18.682751874796217,19.068869858883126,15.552657319856538,6.175370884091183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827030101:0402/pct:18.679706601466993,19.06657018813314,15.555555555555555,6.178646084579515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

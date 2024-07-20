@@ -160,7 +160,7 @@ ceeding, more especially as it met with
 very general approbation from all whom I  
 consulted upon it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840050601:0222/pct:82.45149911816578,202.35699913768323,72.92768959435627,53.69359011210118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840050601:0222/pct:20.612874779541446,50.58924978442081,18.231922398589067,13.423397528025294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ in a state not far from mutiny upon the deduction from
 their stated allowance,&quot; and from the fact that the para­  
 graph containing the omitted sentence is to be found i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:65.44612794612794,67.83429129161696,15.754769921436589,4.186096952608177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852111301:0408/pct:65.44612794612794,67.83790622853631,15.768799102132435,4.189711889527528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ roll; but a claim was immediately made for pay by lunar
 months, and several regiments have declined taking up their  
 warrants on this account.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071701:0779/pct:45.96580923470203,28.415643018300326,15.242051445917879,2.544497367761344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071701:0779/pct:45.96580923470203,28.415643018300326,15.25270277467114,2.5570318375532715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ ollicers from private and narrow views. I have, therefore, P0,ei
 forborne pressing them.&quot; * * * * &quot; With &#x27;UP?  
 the present army I fear such a subscription is impracticable.&quot; fe*d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:16.77008750994431,27.49780067864773,16.897374701670646,8.395123790373257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:16.77008750994431,27.50617904570399,16.902678334659242,8.399312973901386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

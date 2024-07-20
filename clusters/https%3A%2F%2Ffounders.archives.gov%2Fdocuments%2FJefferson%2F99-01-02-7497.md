@@ -59,7 +59,7 @@ i dentially, and with a request that nft rr
 I Houses, they may be returned.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808022901:0003/pct:22.700911350455677,45.66466440323844,17.17067108533554,15.800470096630974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808022901:0003/pct:22.700911350455677,45.67336989640463,17.191383595691796,15.791764603464786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ j being read to the^atisfaction of both Houses,
 they mayhe returhed.  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030401:0399/pct:58.138699245418614,37.18151895647934,17.64283147682357,13.336584176520786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030401:0399/pct:58.12825579306628,37.17698683568991,17.645649961080174,13.339021615472127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ ter being read to the satisfaction ot both |
 Hoii&#x27;ks, they may be retnrnrd.  
 Til: JEFFERSON*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808030401:0081/pct:59.136583550427986,75.70186335403727,17.88239672497209,14.409937888198758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808030401:0081/pct:59.12558139534884,75.6924605639051,17.885271317829456,14.41228832857202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ ing read to the satisfaction of buth houses, they
 may be returned.  
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808030701:1019/pct:5.401234567901234,22.903225806451612,22.19650205761317,14.693548387096774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808030701:1019/pct:5.399845718693752,22.899532333494598,22.197222936487528,14.695210449927432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ read to the {ati:faGion of bath houses, they
 may be returned, :  
 { - TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808031501:0042/pct:27.168405365126677,53.81135044752631,15.931445603576751,14.281498967246975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808031501:0042/pct:27.17834078489816,53.81135044752631,15.936413313462493,14.281498967246975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ communicating their representations
 against the decrees and orders of France  
 and Britain, fee.&quot; These communi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808082901:0002/pct:77.35732009925559,73.63800671314226,17.3904052936311,5.293054479731475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808082901:0002/pct:77.37110559691205,73.63800671314226,17.3904052936311,5.305964368706429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ ouf ministers at Baris and London, communicating
 their representations against the decrees and orders of  
 France and Britain, &amp;c.” These communication
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808090201:0085/pct:53.579335793357934,37.235958735876864,20.2460024600246,3.8644178811200263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808090201:0085/pct:53.56615838662076,37.22986247544204,20.247171667486473,3.867878192534381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

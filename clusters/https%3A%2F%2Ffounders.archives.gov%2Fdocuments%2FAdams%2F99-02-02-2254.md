@@ -53,7 +53,7 @@ rants from the treasury ; which disbursements shall be mads
 pursuant to warrants from the Secretary at War, countersign­  
 ed by the accountant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052601:0001/pct:63.940637827597094,45.29505582137161,27.628670666245657,3.9872408293460926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052601:0001/pct:63.956425639406376,45.30502392344498,27.6365645721503,4.00219298245614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ present office of affillant to the Secretary of the Treasury be
 abolished, and that instead thereof there be an officer in the de­  
 partment of the Treasury, to be denominated Commissione
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052601:0001/pct:64.13009156930849,67.02551834130782,27.660246289864226,8.114035087719298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052601:0001/pct:64.14587938111778,67.03548644338117,27.668140195768867,8.104066985645932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ sury j which difourfements /hall be rr.aJe pur/uant
 ro warrants from the Secretary at War, counter­  
 signed by the accountant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792062501:0004/pct:9.767587939698492,27.41176470588235,20.85427135678392,8.568627450980392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792062501:0004/pct:9.791143216080402,27.42156862745098,20.84641959798995,8.563725490196079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ and whose cnmpenfa: ion (hall be, a fala­
 iy of two thousand dollars per annum.  
 • And all letters to and from the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795032401:0003/pct:5.686834588418592,10.327658207516865,17.11243832770709,12.736909733376164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795032401:0003/pct:5.7063100493378345,10.339704465146161,17.11243832770709,12.728878894956633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ servo* ^,e United States ; and it shall be
 the duty of the deputy commissaries, when  
 directed thereto, either bv the Serrotn rv nf*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812041601:0127/pct:74.14481680847369,29.17242969110189,16.339642299010244,10.984324573536192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812041601:0127/pct:74.13194444444444,29.169067650109486,16.34259259259259,10.986900234335984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ duty of the deputy commivsaries, when di«
 rected thereto, either by the Secretary of  
 War, the commissary-general of purchases
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812052001:0620/pct:73.46735338096029,61.847988077496275,22.412360857285265,10.581222056631892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812052001:0620/pct:73.46735338096029,61.85129988408677,22.423436894279227,10.577910250041398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

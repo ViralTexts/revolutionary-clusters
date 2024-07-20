@@ -38,7 +38,7 @@ La Croyable, Alexander Silrcftrr IjteVommau­
 i!tr, with her apparel, guns and appurtenances  
 and the goods and effeiJUoii board the fame ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798071201:0003/pct:72.92719919110212,67.81156451867024,15.975733063700709,2.536631479439105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798071201:0003/pct:72.93983822042468,67.81156451867024,15.975733063700709,2.548448085709784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ who shall be found acting on board the Same, t&#x27;o
 bring within some port of the United States, and al­  
 so to retake any vessels, goods and effects of the ci
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805041901:0457/pct:73.76921073196145,35.90696171862381,22.219327949986976,12.582781456953642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805041901:0457/pct:73.75,35.901162790697676,22.220052083333332,12.584786821705427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ Sko. 20. And be it further enacted, That
 the President of the United S,ates shall  
 be and he is hereby au.horisea and requi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809030301:0077/pct:22.380506091846296,14.497805318874258,17.97563261480787,18.49987090111025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809030301:0077/pct:22.37631184407796,14.495933909900607,17.978510744627688,18.501785637451057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ be made by the publick armed vessels of tire United
   
 “ And hr it further enacted, That the presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809030601:0369/pct:53.76237623762376,64.3458549222798,21.237623762376238,9.407383419689118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809030601:0369/pct:53.74907201187825,64.3354379148454,21.23855481316506,9.409907722195241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ fects which shall be found on board the same, bein­
 Briti&amp;la property, shall be brought within soine^xn*  
 of the United States, and shall be duly proceeded *
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812070301:0067/pct:23.362084786199304,56.06171932402645,17.36098366672784,10.053881949546902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812070301:0067/pct:23.357798165137616,56.05485490388148,17.363914373088686,10.056732378270274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ forfeited, and shall accrue and he distributed
 as «v. Jaw is shall be provided, respecting  
 the captures which shall be made by the pub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812070601:0616/pct:6.2279490719435495,52.77651961228372,22.84092652247277,11.423136153637104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812070601:0616/pct:6.226993865030675,52.77173913043478,22.842535787321065,11.42512077294686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ States, and the other to the use of the person
 or persons who shall sue for, and prosecute the  
 ‘same to effect ; and every such ship or vesse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818081101:0301/pct:57.90993071593533,66.8935582519483,16.469399538106234,4.320804971885173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818081101:0301/pct:57.91955350269438,66.8935582519483,16.47902232486528,4.320804971885173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ ie specially commissioned and aulhonrod to captura any
 rruted French vessels, and to haw ttiem adjudicated and  
 condemned as lawful piuea. and to istake Amainan vessel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846082201:0853/pct:81.99135585080839,18.528170761975677,14.390907635665119,3.9587987093571604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846082201:0853/pct:81.99135585080839,18.528170761975677,14.401579424790565,3.9712087366592206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

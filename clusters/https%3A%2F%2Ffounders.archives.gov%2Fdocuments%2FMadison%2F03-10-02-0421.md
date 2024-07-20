@@ -100,7 +100,7 @@ with modifications necessary’ to the enjoyment of
 civil liberty and social happiness. It is believ­  
 ed,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051801:0161/pct:58.046984572230016,48.83275469891057,16.56732117812062,5.566862205195738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051801:0161/pct:58.03680981595092,48.82690926502274,16.57026000584283,5.570185938871599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ But his hared to foreigners, tvete the
 last souiul-s that dwell up n the ear t  
 Again, can ^ki m die ails anil maiiu- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824032301:0206/pct:41.45377929944693,10.057236304170074,35.71240452989202,83.48323793949305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824032301:0206/pct:41.44286466561348,10.055591890124264,35.70958399157451,83.47367560497057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ our native citizens * !•»» (Ind&#x27;isu thtsti
 tee lings, no c re it tot nt&lt; r&quot; i in.  
 Sim , i i r . &quot; . .. ui d wci t to sey a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824032301:0206/pct:59.30998156439294,9.91005723630417,35.84408743745062,83.56500408830745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824032301:0206/pct:59.2943654555029,9.908436886854153,35.84123222748815,83.55542838456508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -378,7 +378,7 @@ not *» fair topic Idr public discussion.
 I am, Sir, Slc.  
 AMKRIC \XUS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824032301:0206/pct:77.37687648143272,57.72690106295993,17.96154859099289,20.16353229762878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824032301:0206/pct:77.35650342285413,57.717462393721384,17.963401790416007,20.164323086984957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -414,7 +414,7 @@ modifications necessary to the enjoyment of
 civil liberty and social happiness. It is be­  
 lieved,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824033001:0210/pct:4.309421841541756,45.78651685393258,17.987152034261243,6.394580304031725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824033001:0210/pct:4.3082686647043085,45.77895258549479,17.98902863259299,6.397654055840079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

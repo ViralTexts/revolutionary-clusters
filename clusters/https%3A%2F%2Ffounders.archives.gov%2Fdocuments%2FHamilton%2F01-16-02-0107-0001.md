@@ -88,7 +88,7 @@ mercial treaty with the United States.
 This being read—Mr. Fitzfimons mo­  
 ved an amendment by striking out th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794020301:0003/pct:69.19831223628692,29.587249693502248,19.01979876663421,3.7597057621577443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794020301:0003/pct:69.19831223628692,29.587249693502248,19.05225576111652,3.7852472415202287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ days after the commencement of the fat
 (ion of Congress next ensuing the present.  
 These resolutions were read- twice an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031301:0002/pct:50.998711340206185,7.284500202347228,40.36726804123711,85.28935653581546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794031301:0002/pct:51.0228737113402,7.289558883043302,40.34310567010309,85.2994738972076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ days after the commencement of the feflion of
 Congress next ensuing the present.  
 After some lengthy observations by Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794040501:0205/pct:50.360954174513495,3.837953091684435,42.13747645951036,93.18763326226012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794040501:0205/pct:50.366185394433984,3.8450604122245915,42.13747645951036,93.18052594171998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ and shall bring the same, with their cargoes,
 to lcg&gt;u adjudication in our courts of Admi  
 ralty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030101:0397/pct:40.75949367088607,17.673048600883654,17.233273056057865,2.614138438880707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030101:0397/pct:40.75212438980293,17.670879862559822,17.23618393298379,2.6179081277866403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

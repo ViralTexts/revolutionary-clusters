@@ -186,7 +186,7 @@ tained, according to&#x27; the receipts and attested
 accountsy and other authentic titles which shall  
 be furnifhed on each fide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0963/pct:36.638125281658404,15.980184005661712,27.692654348805767,14.394904458598726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0963/pct:36.653147063241704,15.980184005661712,27.68514345801412,14.404340646378863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ ticles, and have,caufed the seal of our arms to be
 put thereto. : .  
 , Done at Fontainebleau, the 3d day of Novem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0963/pct:36.72825597115818,53.26256192498231,27.53492564218116,9.21443736730361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1763021101:0963/pct:36.72825597115818,53.27199811276245,27.53492564218116,9.20971927341354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ fentDeclaration, and caused the seal of our arms
 to be put thereto.  
 Done at Paris,the Tenth of February, 1763
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1763052701:0046/pct:5.516088591725867,4.599468754368797,57.37567906393648,92.15713686565077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1763052701:0046/pct:5.53001810837164,4.599468754368797,57.38264382225937,92.1617969150473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ have been detained,according tothe receipts
 and attested accounts, and other authemiic  
 titles, which shall be produced on each fide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783042601:0344/pct:11.374636979670862,12.930319369556202,26.42787996127783,17.772708419742845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783042601:0344/pct:11.38539313757126,12.933775750034563,26.422501882327634,17.77962118069957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ thereto. , ,
 Done at Versailles; the 2oth day of Ja­  
 seaty, 1788 . o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783042601:0344/pct:11.471442400774443,51.22355868934052,26.298806066473055,10.151389464952302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783042601:0344/pct:11.482198558674842,51.22355868934052,26.298806066473055,10.158302225909027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1121,7 +1121,7 @@ Art, g It is furtbermore agreed and
 concluded that the commissioners .appointed  
 in pursuance of ‘the seventh article of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802042701:0068/pct:78.27340312547413,24.271749755620725,16.021847974510695,4.095796676441838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802042701:0068/pct:78.27340312547413,24.27500814597589,16.031962777524907,4.0990550667970025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ s, from the said United States.&quot; This treaty, recog- that&lt;
 ig slaves as property, was ratified by the British gov- last s  
 nent, and was voted for by every northern represent- tion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847032501:0300/pct:63.60885491320274,23.681284743668932,16.180920528746615,4.681902408894379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847032501:0300/pct:63.60885491320274,23.689520280008235,16.18622922970749,4.686020177064031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1361,7 +1361,7 @@ the Senate, • a beneficial and sat­
 isfactory intercourse between the two  
 countries be so as to secure peace and har
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895710:1888022201:0183/pct:17.059587896788564,7.135969141755063,11.119361425654352,2.851632456261193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_freeport_ver01:data:sn82014248:00332895710:1888022201:0183/pct:17.056421677802525,7.134986225895317,11.121937639198219,2.8546831955922864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1385,7 +1385,7 @@ and satisfactory intercourse between the
   
 two countries will be established so as to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020758:1888022201:0420/pct:20.73552425665102,178.8617886178862,51.09546165884194,10.858481466170593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020758:1888022201:0420/pct:5.183881064162755,44.71544715447155,12.773865414710485,2.7146203665426483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

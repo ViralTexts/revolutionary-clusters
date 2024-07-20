@@ -57,7 +57,7 @@ appointed at Charlottesville, arc then to order
 a day of election, at w hich the people may  
 vote for a Governor and two representative
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822011501:0311/pct:33.76602564102564,52.49941051638764,14.951923076923077,4.880924310304174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822011501:0311/pct:33.760615286011856,52.49322173759283,14.95486834374833,4.884278360642854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -75,7 +75,7 @@ ings, archives, kc. ke. At the first session of
 tin: legislature, a law is to pass calling a Con­  
 vention to form a Constitution, for. Uc. “Her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822011501:0311/pct:33.81410256410256,61.03513322329639,14.887820512820513,2.1575100212214102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822011501:0311/pct:33.80868450568819,61.02793822939998,14.890776050846553,2.1611851153286965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ to he cal­
 or, w h&#x27;,? ti e  
 senate an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822021301:0280/pct:42.49590685828634,4.880066170388751,36.98380935055485,90.03899326479971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1822021301:0280/pct:42.50197077193621,4.884004884004884,36.98987326420472,90.04687069203199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -497,7 +497,7 @@ tionaries necessary for the administra­
 tion of the laws of the State.  
 A NATIVE BORN VIRGINIAN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825060201:0267/pct:22.29718611156821,5.584545353613856,45.45005759420767,89.09736871322305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825060201:0267/pct:22.293517604475156,5.583925399644761,45.44806405615883,89.09117821195974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ safe depositary of the ultimate powers of the
 society, but the people themselves,” and we  
 hold with him,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840122201:0624/pct:66.47619047619048,87.46872393661384,14.54945054945055,1.5742285237698082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840122201:0624/pct:66.47619047619048,87.47567417292188,14.559218559218559,1.5777036419238255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ purchasers. SRR : May 23.
 E&amp; eA g B e N A g e e s  
 I know no safe depository of the ultimate powers of the society, but the people themselves.”—Jeferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843091201:0553/pct:19.00116482236459,7.285315697013537,50.21840419336051,87.14477627363853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843091201:0553/pct:19.010871675402836,7.292204884433881,50.21355076684139,87.14477627363853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ I know no safe depository of the ultimate powers of the society, but the people 
   
 “I know no safe depository of the ultimate powers of the society, but the people themselves.”*—Jeferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843102401:0577/pct:30.52506674577277,10.044852404297487,39.64698902402848,0.8553249191613643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843102401:0577/pct:30.530010877088895,10.05180626542888,39.66182141797686,0.8553249191613643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ I know no safe depository of the ultimate powers of the society, but the people 
   
 *I know no safe depository of the ultimate powers of the society, but the people themselves.”—Jeferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843112101:0593/pct:30.97097392073081,7.4089533548993005,39.36938264328864,0.6678493164979652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1843112101:0593/pct:30.97588527086096,7.412431736756061,39.37429399341879,0.6713276983547254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -610,7 +610,7 @@ I know no safe depository of the ultimate powers of the society, but the people 
   
 *I know no safe depository of the ultimate powers of the society, but the people themselves.””—Jeferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844012301:0013/pct:30.378267854534833,5.768011831819142,39.14122973565065,0.5598985844073526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844012301:0013/pct:30.38313616669101,5.771533206563842,39.146098047806824,0.5669413338967533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ I know no safe depository of the ultimate powers of the society, but the people 
   
 “I know no safe depository of the ultimate powers of the society, but the people themselves.”—Jeferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844021301:0025/pct:29.97347480106101,6.9811123865177915,39.40465664603595,0.6261087342168423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844021301:0025/pct:29.98329894881619,6.984590768374552,39.40465664603595,0.6261087342168423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -642,7 +642,7 @@ I know no safe depository of the ultimate powers of the society, but the people 
 “I know no safe depository of the ultimate powers of the society, but the people themselves.”—Jeferson.  
 et N S e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844040901:0057/pct:29.561235042103707,6.224712107065049,39.72521790515586,0.7158418923124805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844040901:0057/pct:29.57108386270744,6.224712107065049,39.73506672575959,0.7193000657052945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ et N S e
   
 **l know no safe depository of the ultimate powers of the Society, but the people themselves.””—Jeferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844050701:0073/pct:30.307488597910844,7.015173560590314,39.38502280417831,0.8002494283932654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844050701:0073/pct:30.307488597910844,7.0221021270699095,39.38502280417831,0.8037137116330632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ et N S e
   
 “I KNOW NO SAFE DEPOSITORY OF THE ULTIMATE POWERS OF THE SOCIETY, BUT THE PEOPLE THEMSELVES.”_de‘”son.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844081301:0129/pct:27.88376871147637,8.333333333333334,43.263868506017026,0.8581472291149711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844081301:0129/pct:27.893552489971626,8.33677970774745,43.263868506017026,0.8615936035290874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1041,7 +1041,7 @@ Whereas, The women of Wyoming
 have enjoyed the right of suffrage for  
 more than twenty years, a right conferre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150023:1889061601:0649/pct:30.368098159509202,5.867924528301887,25.03539405379896,90.98113207547169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn86072173:00514150023:1889061601:0649/pct:30.37989617744219,5.882075471698113,25.053091080698444,90.97169811320755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

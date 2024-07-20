@@ -137,7 +137,7 @@ discovered at the battle of Brandywine,
 possesses a large share of bravery and  
 military ardor.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835020701:0085/pct:17.20964934095996,33.97137150466045,15.667744342203433,18.874833555259652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1835020701:0085/pct:17.20537046245649,33.965718089532366,15.670064644455495,18.875852887335665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

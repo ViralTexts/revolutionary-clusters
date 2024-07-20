@@ -64,7 +64,7 @@ and perfeot submission to Government.&#x27; The people
 arouud, as they looked on, were so still that the noise of  
 breaking open the tea chests was plainly heard. A de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854111101:0341/pct:19.696318579000142,37.176652664160954,15.355966193955021,2.564669467167809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854111101:0341/pct:19.705868309220264,37.18402240400914,15.35119132884496,2.564669467167809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -85,7 +85,7 @@ people around, as they looked on, were so
 still, that the noise of breaking open the  
 tea chests was plainly heard. A. delay of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1854120101:0399/pct:56.17816091954023,60.72380418010941,16.19971264367816,5.00771496703605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1854120101:0399/pct:42.14876033057851,45.54635993828026,12.163133309378368,3.759293028475242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -103,7 +103,7 @@ other property. &#x27;All thing, were conducted
 with great order, decency, and perfect sub  
 mission to government.&#x27; The people .round
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1855020101:0417/pct:42.78131634819533,111.97527314548591,16.259731068648264,2.875215641173088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077537A:1855020101:0417/pct:32.100513183507346,83.98504887866589,12.192532295168997,2.156411730879816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ perfect submission to government,&quot; The peo
 ple around, as they looked on, wero so still,  
 that the noise of breaking open the tea chest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777341:1855031701:0405/pct:39.60441582336706,71.63057096831932,16.996320147194112,5.852872740289959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777341:1855031701:0405/pct:29.735327963176065,53.73187757293717,12.750287686996547,4.385179881868623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ The people around, as they looked on, were
 ao still that the noise of the breaking open  
 the tea chests was plainly, heard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855051701:0407/pct:11.842105263157896,110.78668876705342,16.02062588904694,6.604615580772664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1855051701:0407/pct:8.892050506846878,83.0932041310723,12.022052285256981,4.95983679714395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ things were conducted with great order,
 decency, and perfect submission to Gove  
 ernment.&quot; The people around, as the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855072501:0325/pct:116.02870813397129,293.5385602052269,45.45454545454545,11.415744749078083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777808:1855072501:0325/pct:29.007177033492823,73.38464005130672,11.363636363636363,2.853936187269521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ than it had been.
 Piase to make Mrs. Adams Most respectfall Compliments to Mrs.  
 Warrea, and mine. Iam your FriendJouN Adaws
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871122001:0807/pct:197.50122488975992,179.45061367621275,47.787032500408294,41.94038573933372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871122001:0807/pct:65.83374162991997,59.81687122540425,15.929010833469432,13.980128579777908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ Please to make Mrs. Adams most respect.­
 full Compliments to Mrs. Warren, and mine.  
 I am your Friend, JouN ADans
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871122501:0613/pct:45.090715048025615,8.696446515026947,84.07150480256136,284.2422581529186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742010:1871122501:0613/pct:15.030238349341872,2.8988155050089826,28.02383493418712,94.7474193843062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ Compliments to Mrs. Warren, and mine,
 I am your Friend  
 JoHir Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871122701:0006/pct:39.3609022556391,64.18383518225039,11.353383458646617,19.435239878979974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871122701:0006/pct:39.3609022556391,64.18383518225039,11.37218045112782,19.435239878979974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ grandest Kvenl which has ever yet hap­
 pened Since the Controversy with Britain  
 opened ! The Sublimity of it. charms
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016739:00295877534:1872010601:1093/pct:51.23934934159566,21.69446098868374,14.81409759876065,5.0774270399047055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016739:00295877534:1872010601:1093/pct:38.46153846153846,16.274568195354377,11.12187560550281,3.811792733770101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ and mine.
 1 am y our Friend  
 JOItil A I &#x27;A Ms
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016739:00295877534:1872010601:1093/pct:51.006971340046476,27.367480643240025,15.201394268009295,36.49493746277546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016739:00295877534:1872010601:1093/pct:38.287153652392945,20.533055390113162,11.412516954078667,27.367480643240025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,7 +857,7 @@ a
 in attention to little things, has a wonder- sentiments of it, better than in the Words  
 ful influence. of Coll. J)«ane to me last Evening
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn84027183:00279528979:1872011101:1016/pct:17.793594306049823,69.4512983198214,29.555160142348754,3.5600986958054284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn84027183:00279528979:1872011101:1016/pct:17.793594306049823,69.4512983198214,29.567022538552788,3.575764696667058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ become Ht alities tbey had better be suf­
 fered. than the great Principle, of Par­  
 liamentary Taxation given up—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn84027183:00279528979:1872011101:1016/pct:48.256227758007114,6.062742333450828,14.395017793594306,2.4673951357067323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn84027183:00279528979:1872011101:1016/pct:48.26215895610913,6.070575333881643,14.400948991696323,2.4673951357067323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,7 +944,7 @@ and mine.
 I am your Friend  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn84027183:00279528979:1872011101:1016/pct:32.93594306049822,10.433556573845612,29.715302491103202,84.39666314181648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn84027183:00279528979:1872011101:1016/pct:32.947805456702255,10.441389574276426,29.715302491103202,84.38883014138565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +988,7 @@ will
   
 be that 1hc I rovince
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn84027183:00279528979:1872011101:1016/pct:30.551601423487543,66.51392315826577,16.868327402135233,7.942662436846434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn84027183:00279528979:1872011101:1016/pct:30.557532621589562,66.51392315826577,16.874258600237248,7.950495437277249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1019,7 +1019,7 @@ Colonies But for him, this te* might
 have lieen saveel to the K^t^ India om­  
 pany. Whereas the Loss il the rest of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn84027183:00279528979:1872011101:1016/pct:32.95373665480427,79.82610739043591,14.501779359430605,5.992245329573493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn84027183:00279528979:1872011101:1016/pct:32.965599051008304,79.83002389065132,14.495848161328588,5.992245329573493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1108,7 +1108,7 @@ spectful Compliments to Mrs.Warren.and
 mine I urn your Friend   
 John Adams.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151222:1872011101:0257/pct:38.35488601519798,36.66001994017946,14.51806425809892,42.20338983050848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151222:1872011101:0257/pct:38.35488601519798,36.66001994017946,14.53139581389148,42.20338983050848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1206,7 +1206,7 @@ and mine.
 I am your Friend.  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025567:00212472207:1873102201:0023/pct:24.353407589201435,15.065797564875169,17.44383613366056,60.3000860902718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025567:00212472207:1873102201:0023/pct:24.36599332955761,15.069897101627516,17.437543263482475,60.31238470052884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1237,7 +1237,7 @@ grandest event which has ever vet happened
 since the controversy with Britain happen­  
 ed. The sublimity of it charms me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1873121901:0628/pct:27.680448493342677,188.32381940840685,38.54239663629993,12.558380902957966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1873121901:0628/pct:6.921324688978448,47.08095485210171,9.63728754161556,3.1395952257394915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1274,7 +1274,7 @@ harbor. This is the greatest event which has
 ever yet happened since the coutrowrv with  
 Great Britain oixneil. The sublimity, .charm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1874011501:0095/pct:75.66883586406362,23.8021420518602,16.449746926970356,3.3680947012401354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1874011501:0095/pct:56.78119349005425,17.85512965050733,12.332730560578662,2.5225479143179257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

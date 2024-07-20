@@ -157,7 +157,7 @@ wind and of the density of clouds; (he
 quantities of rain which fall at different  
 heights, and the hygrometric conditio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685312:1886123001:0208/pct:62.8268891384566,67.6162649135622,10.74923792716188,1.4365717068419772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685312:1886123001:0208/pct:62.81681103625281,67.60803408399269,10.751523901187038,1.439440048691418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

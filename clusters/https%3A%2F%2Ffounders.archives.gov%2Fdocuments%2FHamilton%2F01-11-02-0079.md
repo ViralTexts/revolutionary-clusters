@@ -206,7 +206,7 @@ The following Bills were reported by
 committees, gnd read a firft time: A  
 Bill to continue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791040201:0776/pct:13.563271964577021,17.913158329205878,19.552551852714984,9.228991249793626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791040201:0776/pct:13.578808358579973,17.913158329205878,19.56032004971646,9.234494524241924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ dered in the navy of the United States,
 in the late war.  
 Ordered to lie on the table
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791110301:0001/pct:49.97463216641299,14.293817356778218,33.02891933028919,77.40593685006617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791110301:0001/pct:49.97463216641299,14.293817356778218,33.054287163876204,77.42011722442805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ Ordered to lie on the table.
 Mr. Giles called the attention of the  
 House to a meflage from the Prcfiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791110301:0001/pct:66.41298833079655,41.72811495556816,17.35159817351598,14.879939497069389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791110301:0001/pct:66.42567224759006,41.73756853847608,17.35159817351598,14.894119871431272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ fame, can, in his opinion, be made in the excise
 law, confidently with its main design, and with  
 the maintenance of the public faith.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791110601:0002/pct:39.23923923923924,17.641381972592164,29.195862529195864,13.182783246477515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791110601:0002/pct:39.255922589255924,17.646207295888825,29.204204204204203,13.197259216367497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ hits whirtvlhsll be diftilled from articles of the
 growth, or produce of the United States, or from  
 reign articles within the fame, can, in his opinio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000718192:1791111401:0016/pct:10.934891485809683,84.29584599797366,29.590984974958264,6.332320162107396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000718192:1791111401:0016/pct:10.930329578639967,84.27449987338566,29.58906967042136,6.337047353760446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ ficers and soldiers of the late army of
 the United States, and wbich either  
 remain unclaimed, or have been claim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791112301:0911/pct:27.803567065721964,32.89829699188286,21.060346933789397,15.597644437370683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791112301:0911/pct:27.819855037055135,32.90890763435726,21.044058962456226,15.592339116133482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1953,7 +1953,7 @@ appearance of them.
 It has been heretofore noticed, that  
 lie chief circumstances, which in cer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031501:0001/pct:7.488443759630201,17.273612463485883,21.10939907550077,76.78675754625122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031501:0001/pct:7.496147919876734,17.273612463485883,21.10939907550077,76.80136319376825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2265,7 +2265,7 @@ the law from imputations of severity or
 oppression.  
 fSec laji page.)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031501:0001/pct:29.121725731895225,14.216163583252191,64.99229583975347,80.07789678675755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031501:0001/pct:29.121725731895225,14.216163583252191,65.0,80.08763388510224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2647,7 +2647,7 @@ he diftiliery commonly made use of for such pro­
 lay to be notified by the difti&#x27;ler, there is ground  
 o conclude that it would obviate the objedtion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031501:0004/pct:4.870530209617756,5.4358377014172,65.10480887792848,88.70122306348281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031501:0004/pct:4.8782367447595565,5.4358377014172,65.13563501849569,88.71578334304019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2761,7 +2761,7 @@ a hardship, and impofFible to be com­
 plied with.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031901:0001/pct:6.689272503082614,12.349514563106796,22.19482120838471,79.53398058252426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031901:0001/pct:6.6969790382244145,12.359223300970873,22.21023427866831,79.53398058252426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3073,7 +3073,7 @@ conceive that nine ccnts per gallon on
 distilled spirits, which is Hating it at  
 the higheit, can from the magnitude o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031901:0001/pct:28.545006165228113,11.766990291262136,65.50554870530209,80.33009708737865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031901:0001/pct:28.545006165228113,11.766990291262136,65.5363748458693,80.33980582524272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3437,7 +3437,7 @@ Secretary of the &quot;Treajury
 freafury Department,  
 March sth, 1792.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031901:0004/pct:5.840543881334981,4.206058267412695,65.29666254635352,88.53945591356357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792031901:0004/pct:5.840543881334981,4.215705190044376,65.32756489493201,88.5539262975111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3467,7 +3467,7 @@ powers are its natural and neceflary con­
 comitants. If therefore the tax Hands the  
 test of examination, or the questions ref
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042301:0003/pct:6.829268292682927,43.500292340674335,20.274390243902438,11.050477489768076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042301:0003/pct:6.844512195121951,43.50516468524654,20.266768292682926,11.050477489768076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3495,7 +3495,7 @@ which the tax relates.&quot;
 This I readily admit; but I hope the|  
 Secretary will also admit, that the law, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042301:0003/pct:48.6280487804878,52.01715065289417,20.548780487804876,9.783667900993958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042301:0003/pct:48.65091463414634,52.02202299746638,20.55640243902439,9.783667900993958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3515,7 +3515,7 @@ one ot those cases in which names have
 an improper influence, and in which certain  
 prepolfeffions exclude a due attention t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042601:0002/pct:30.313267813267814,34.85826001955034,20.208845208845208,4.69208211143695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042601:0002/pct:30.328624078624077,34.868035190615835,20.201167076167078,4.687194525904204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3547,7 +3547,7 @@ decide jultly in relation to the truth of a
 act which it is highly probably he would  
 io, tho&#x27; no oath were administered
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042601:0002/pct:51.28992628992629,64.94623655913979,20.423832923832922,12.375366568914956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042601:0002/pct:51.28992628992629,64.95601173020528,20.431511056511056,12.375366568914956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3568,7 +3568,7 @@ rate annexed to the capacity of the still
 and using great diligence, the duty maj  
 in fact be reduced to 6 cents per gallo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792052101:0001/pct:8.670343137254902,64.67691095350669,20.159313725490197,5.4373522458628845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792052101:0001/pct:8.685661764705882,64.68676122931443,20.189950980392158,5.442277383766745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3598,7 +3598,7 @@ pofe for which it is intended, as whether for sale or use in dis­
 tilling ; and in the cafe of removal, shall fpecify the place from  
 which every luch still shall have been brought
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052601:0001/pct:7.451847173981686,77.19298245614036,27.155036311967162,10.386762360446571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052601:0001/pct:7.459741079886328,77.2079346092504,27.186611935585727,10.386762360446571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3623,7 +3623,7 @@ ring the whole time of working the fame, a trefpafler or intruder
 «n his land.  
 And be tt further ena&amp;ed, That every officcr of infpettion with­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052601:0001/pct:7.514998421218819,87.51993620414673,27.218187559204296,7.177033492822966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792052601:0001/pct:7.530786233028103,87.52492025518342,27.226081465108937,7.182017543859649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4954,7 +4954,7 @@ exsft entry, or entries, in writing at
 the office of infpeftion which (hall be  
 Tieareft to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795041801:0002/pct:11.643835616438356,34.554551323434474,15.215264187866927,14.622336991607488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1795041801:0002/pct:11.643835616438356,34.558586184635246,15.227495107632095,14.642511297611362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4997,7 +4997,7 @@ be jointly and severally liable for the duty
 thereupon ; and that every owner of land,,  
 upon which any flill shall be worked, shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798061201:0516/pct:77.30089866749303,12.267839687194526,16.470405949798575,16.666666666666668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798061201:0516/pct:77.30089866749303,12.267839687194526,16.470405949798575,16.673183447376996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5031,7 +5031,7 @@ be jointly and severally liable for the duty
 thereupon ; and that every owner of land,  
 upon which any {till shall be worked, shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798061901:0522/pct:78.44064693317058,18.107396939869407,15.868172108635948,11.470616898937726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798061901:0522/pct:78.45081883836842,18.11064548614495,15.858000203438104,11.477113991488809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5055,7 +5055,7 @@ of working the fame, a trefpafler or intrud­
 er on his land.  
 Sec. Bth. Andbe it further enaéled, Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798061901:0522/pct:78.33384192859323,29.480557450540882,16.036008544400367,5.857128934801676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798061901:0522/pct:78.33384192859323,29.483805996816425,16.051266402197133,5.860377481077218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5089,7 +5089,7 @@ be jointly and severally liable for the ’duéy :
 thercupon ; and&#x27; that every owner of land, |  
 upon which any fill {hall be worked, shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798062601:0523/pct:41.45810663764962,49.16135360470819,17.052697030934244,11.584109857773418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798062601:0523/pct:41.468469868905125,49.167892757887856,17.04233379967874,11.584109857773418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5164,7 +5164,7 @@ a false oath or affirmation in any of the cases in
 which an oath or affirmation is required to be  
 taken by this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861080801:0740/pct:202.7077497665733,237.5794048813106,59.01027077497666,8.090939485122032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861080801:0740/pct:50.6887695540509,59.39485122032765,14.756012141022648,2.022734871280508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5184,7 +5184,7 @@ who shall be convicted of wilfully taking a false oath or
 affirmation in any of the cases in which an oath or af­  
 firmation is required to be taken by this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861082201:0448/pct:73.8274111675127,37.35228122662678,15.97969543147208,2.3784592370979807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861082201:0448/pct:57.220036716496196,28.95621594466128,12.389194859690532,1.8433357808092128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5202,7 +5202,7 @@ who shall be convicted of wilfully taking a false oath or
 affirmation in any of the cases in w hich an oath or af­  
 firmation is required to be taken by this act, shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861082601:0460/pct:75.0,38.880574678240045,15.776699029126213,1.6013169709667765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861082601:0460/pct:58.135646358031146,30.136085981597464,12.221757759431497,1.2448774452949818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5220,7 +5220,7 @@ who shall be convicted us wilfully taking a false oath or
 affirmation in any ofthe cases in which an oath or af­  
 firmation is required to be taken by this ad, shall li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861082801:0468/pct:74.20132610006027,38.77124962719952,15.893108298171589,1.5806740232627499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861082801:0468/pct:57.505450015571476,30.047382410724605,12.33260666459047,1.2365653530567433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5268,7 +5268,7 @@ ases in which an oath or affirmation is requir.
 I to be taken by this act, shall be liable to the  
 tins
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529467:1861091201:0013/pct:16.122517670817906,239.92051021351327,29.989902389767757,5.980219983362603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn82014141:00279529467:1861091201:0013/pct:5.374172556939302,79.97350340450443,9.996634129922585,1.9934066611208676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5286,7 +5286,7 @@ fully taking a false oath or affirmation in
 any of the cases in which an oath or affir  
 mation is required to be taken by this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1861091401:0154/pct:322.39336492890993,340.946873870618,59.12322274881517,9.251897361763643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1861091401:0154/pct:80.67002668247851,85.2367184676545,14.79395197153869,2.3129743404409107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

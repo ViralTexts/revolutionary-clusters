@@ -144,7 +144,7 @@ tion of the legislature, but are to be taken and con.­
 strued as one and the sime act, the latter controling  
 the earlier ennctmient. The vatious acts of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_latvia_ver01:data:sn86092535:00202190509:1855010601:0024/pct:65.03800217155266,368.3734939759036,54.83170466883822,13.448795180722891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_latvia_ver01:data:sn86092535:00202190509:1855010601:0024/pct:16.259500542888166,92.0933734939759,13.707926167209555,3.362198795180723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

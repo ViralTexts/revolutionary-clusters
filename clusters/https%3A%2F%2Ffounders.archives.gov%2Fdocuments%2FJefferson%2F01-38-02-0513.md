@@ -56,7 +56,7 @@ should be known that we are determined
 to remove officers who are aelive, or open  
 mouthed against the government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830040601:0347/pct:34.85157489236347,62.15277777777778,20.552911851348288,7.75/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83020243:00517172194:1830040601:0347/pct:27.021015044195984,48.175522944996594,15.92811567054967,5.9990671307093395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ remove officers who are active or open-mouthed against
 the government, by which I mean the legislature as  
 well as the executive. [Halt. Repub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830051101:0396/pct:34.30129716981132,50.442885079949384,15.492334905660377,15.702289198205452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830051101:0396/pct:34.29624170965365,50.4370830457787,15.494964382215672,15.704317153592516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ Republicans, and trould come over to us by degrees; but
 that their leaders Itml gone too far to change.&quot;  
 Tlii«, the Opposition have found. Iliey find that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835072801:0100/pct:35.108153078202996,25.85264538696983,14.947310038824181,2.7219064276344556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835072801:0100/pct:35.10328573409122,25.84981965242103,14.949859050787929,2.7252523044412866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ IV. Not only is the course of the opposition
 of the present .day towards General  
 Taylor like that of the old opposition toward
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.19086908690869,35.870732231050034,15.8003300330033,7.891346360317801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849080201:0192/pct:71.2000366703337,35.870732231050034,15.795746241290797,7.902082885978097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ tray tho cause commuted to our core were wo to
 permit the influence of official patronage to be  
 .used to overthrow that cause.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873072001:0007/pct:15.286624203821656,46.13138686131387,13.021939136588818,9.251824817518248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873072001:0007/pct:15.298419438546826,46.14507299270073,13.039631988676575,9.247262773722628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ we to permit the influence of official pa
 tronage to be used to overthrow that  
 cause. The Instances (of removal)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883080801:0821/pct:7.322863403944485,120.39808440586651,15.869247626004382,4.2053277461837775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774856:1883080801:0821/pct:5.499725927279371,90.30230469919186,11.91302758998721,3.1577372044298113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ cratic party, it is intended that it shall be con
 lucted by Democrats, olso the party cannot  
 justly bo held to account. This involves th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885010801:0480/pct:178.16265060240963,20.30703754369965,51.43072289156626,16.415868673050614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885010801:0480/pct:44.54066265060241,5.0767593859249125,12.857680722891565,4.1039671682626535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ tbem, te be tore cf ycur ground, that we
 may commit no errors or wrongs, and iave  
 &#x27;he rett to me.&quot; We hav quoted thu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn83016223:00200295754:1885010901:0082/pct:50.833333333333336,9.391898301868894,38.30769230769231,113.32890617588464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn83016223:00200295754:1885010901:0082/pct:38.142875464922405,7.048667109382412,28.741823778376297,85.00142301489423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ were we to perpiit the Influence of official
 patronage to bo uaeji to overthrow that  
 cause.” Cleveland classes among those wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342132:1885012101:0374/pct:26.71379034409176,38.249594813614266,9.935982928781009,1.8334683954619124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342132:1885012101:0374/pct:26.71379034409176,38.25297136682874,9.940428558726772,1.8368449486763911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -603,7 +603,7 @@ permit the influence of official pat­
 ronage to be used to overthrow  
 that cause.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878812:1885022001:0007/pct:90.22617124394183,240.39812646370024,48.78836833602585,23.594847775175644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878812:1885022001:0007/pct:22.565656565656564,60.09953161592506,12.202020202020202,5.898711943793911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -646,7 +646,7 @@ the founder of the Democracy, is his theory
 upon which a party succeeding to the man  
 agement of the national machinery afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885040101:0863/pct:126.04790419161677,299.2725653206651,50.374251497005986,58.38776722090261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885040101:0863/pct:31.51197604790419,74.81814133016627,12.593562874251496,14.596941805225653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ or open and industrious opposition to the
 principles of the administration, legislative  
 and executive.&quot; Presideut Cleveland i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663912:1885040601:0313/pct:3.494202444374804,58.30179028132992,16.013788780946413,5.033248081841432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663912:1885040601:0313/pct:3.494202444374804,58.30520034100597,16.0294578502037,5.036658141517477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ ples of the present government,&quot; I think
   
 the similarity between the policy of Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:0029587370A:1885041401:0105/pct:46.244897959183675,72.19939016306509,16.591836734693878,10.446771841442397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:0029587370A:1885041401:0105/pct:34.7080440996325,54.15617128463476,12.45406288280931,7.835078881081798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ that cause.”
 So thought Thomas Jefferson. And surely  
 we shall have enough honest fruits of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342429:1885071701:0662/pct:36.22061482820976,52.20525869380831,13.417721518987342,13.17500706813684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fireweed_ver01:data:sn83016209:00383342429:1885071701:0662/pct:28.071568719050735,40.459409122448236,10.417639914042791,10.210714676989372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -895,7 +895,7 @@ Jefferson to be President again; anee
 when in 1o0t, he was a second time a  
 candidate, some of the Democrats wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn83045160:00280779994:1885100401:0317/pct:240.21447721179624,309.28076968203686,34.69168900804289,27.12659861551097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn83045160:00280779994:1885100401:0317/pct:60.061670465209815,77.32019242050922,8.674084997989006,6.781649653877743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -914,7 +914,7 @@ mouthed against the Government. But
 it does not appear that he intended the  
 application of this principle for the fed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1885100701:1318/pct:264.471403812825,106.90537084398977,57.01906412478336,11.99204319408923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1885100701:1318/pct:66.16084977238239,26.726342710997443,14.264036418816389,2.9980107985223077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,7 +993,7 @@ permit the ioflaence of official I
 to be used to overthrow that cause/-^11  
 Mr. Jefferson thought it eonmm^ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341760:1886032401:0088/pct:75.35495441638021,1.658255227108868,24.585263787176803,97.2190750849727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341760:1886032401:0088/pct:75.34369396294082,1.658084449021627,24.586571030085675,97.21249570889118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

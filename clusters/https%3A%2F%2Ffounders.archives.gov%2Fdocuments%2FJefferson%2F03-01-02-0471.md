@@ -116,9 +116,9 @@ TH: JEFTERSO
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1843-06_12_60/page/n87/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1843-06_12_60/page/n87/mode/1up?view=theater)
 
-#### 1843-06-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1843-06-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -192,7 +192,7 @@ earned by your labors, and belongs to you, and the
 ere triendhip and attachment which grew  
 our joint exertions to promote the common good
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530297:1849081401:0512/pct:49.53806944886907,108.35657833565783,41.39853456514814,16.492329149232916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530297:1849081401:0512/pct:16.51268981628969,36.11885944521928,13.799511521716045,5.497443049744305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ to \ow. ami the sinceie fiieiidsh&#x27;p and attach­
 ment which grew out of our joint exertions to  
 promote the common good.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849081701:0600/pct:71.16954623125119,22.107105355267763,12.540345547750142,7.322366118305915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849081701:0600/pct:71.16279069767442,22.105557888842224,12.542319253282708,7.324186849596342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ charge of the debt, theref re, is vital to the destinies of
 ar Government, and it hangs on Mr. Madison and your­  
 elf alone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862052701:0517/pct:118.20308844174076,180.79458400142525,49.88301357042583,9.44236593621949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862052701:0517/pct:29.55077211043519,45.19864600035631,12.470753392606458,2.3605914840548725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ maintain the existence of the Government
 and to carry on the war in which we are  
 engaged. To this assertion I return 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471616:1862061701:0303/pct:287.51625487646294,82.67774248717322,45.25357607282184,27.168336183728318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84024082:00212471616:1862061701:0303/pct:71.87906371911573,20.669435621793305,11.31339401820546,6.7920840459320795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ debt, therefore, is vital to the destinies of our
 Government, and it hangs on Mr. Madison and  
 yourself alone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1862061901:0516/pct:131.47735708982924,281.635520584516,49.81440237564959,13.882253758606154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1862061901:0516/pct:32.875440876183404,70.408880146129,12.455912381659552,3.4705634396515386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ ate.&quot;
 Sp&#x27; aking of the employment eif Alexander  
 Cnmmings by Cameron, then Secretary o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477643:1862062501:0537/pct:41.03900470746469,115.05185934733115,39.55951580363147,11.042246395142929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477643:1862062501:0537/pct:30.798990748528176,86.28889451049835,29.688814129520605,8.284846951682267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

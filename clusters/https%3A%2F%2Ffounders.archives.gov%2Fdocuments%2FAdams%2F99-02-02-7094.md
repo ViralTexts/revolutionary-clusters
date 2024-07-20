@@ -290,7 +290,7 @@ law of nature ; for whatever is a man’s own, is
 absolutely his own ; no man hath a right to take  
 it from him without his consent, either exprefle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768012201:0014/pct:8.812095032397409,65.61967026719726,27.75377969762419,3.6384309266628767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768012201:0014/pct:8.812095032397409,65.62440780746637,27.75377969762419,3.6479060072010614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ to their Agent they [ay, that the Colonifis cannot be
 conceived to have any Property, if their Money may  
 be granted away by others without their Consent, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768101401:0163/pct:34.77508650519031,43.489583333333336,27.919550173010382,2.9369212962962963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768101401:0163/pct:34.77508650519031,43.49440586419753,27.926758938869664,2.9417438271604937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1315,7 +1315,7 @@ jséts within theßealm ; and that what aMan has honestly acqui­
 red, is ablolutely hisown ; which he may freely give, but which  
 cannot be taken from him without his Consent,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774091601:0316/pct:65.87477797513321,64.23888255416192,27.79751332149201,11.929874572405929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774091601:0316/pct:65.87477797513321,64.23888255416192,27.79751332149201,11.944127708095781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1339,7 +1339,7 @@ that interesting matter in the clearest pint of view.
 “ ftroying its own foundation ; or the constitution afcer­  
 « tarns and limits both sovereignty and allegiance : An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774092201:0641/pct:64.04124616059676,79.10510175634235,26.50285212812637,7.722330638416504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774092201:0641/pct:49.64293810927227,61.314368023046455,20.539560190433008,5.988476773496579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1362,7 +1362,7 @@ that interesting matter in the clearest pint of view.
 « lately his own; which he mayfretly give, but which  
 «« cannot be taken from him without his consent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774092201:0641/pct:63.60245721807811,87.49651519375523,26.985519964896884,6.997490939503764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774092201:0641/pct:49.29721151666289,67.81058696435002,20.913625028338245,5.426719481454807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1545,7 +1545,7 @@ it is itself an eternal law of nature. For whatever is
 a man&#x27;s own, is absolutely his own. No man has a  
 right to take it from him without his consent. Who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809042601:0445/pct:31.829637096774192,54.19003364845377,21.169354838709676,1.8746995673770228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809042601:0445/pct:31.82161753590325,54.18135213072733,21.17031997984379,1.8784043575776994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1620,7 +1620,7 @@ ture : For, whatever is a man’s own, is ab­
 solu&#x27;ely his own. No man hath a right to  
 take it from him, without his consent, ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216274:1820021701:0168/pct:24.700380005846245,41.96924196924197,18.108740134463606,4.295204295204295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216274:1820021701:0168/pct:24.696770422329386,41.965423111919925,18.110964976374884,4.29784652714589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1848,7 +1848,7 @@ of nature; for whatever is a man&#x27;s own is absolutely his
 own. nnd no man has a right to take it from him without  
 his consent. Whoever attempts to do it attempts an injur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854072601:0090/pct:83.22267206477733,55.65787813800934,18.817813765182187,3.4313107102308567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854072601:0090/pct:83.2280701754386,55.66628821327951,18.81241565452092,3.4313107102308567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1883,7 +1883,7 @@ to take it from him without his consent, either
   
 expressed by himself or his representative; wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1857012101:0330/pct:24.071428571428573,28.081204977079242,16.553571428571427,2.4885396201702683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1857012101:0330/pct:18.060021436227224,21.06090373280943,12.433011789924974,1.8729535036018337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1900,7 +1900,7 @@ is itself an eternal law of nature. For whatever is
 a man&#x27;s own, is absolutely his own. No one has a  
 right to take it from him, without his own consent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1857092701:0002/pct:31.103678929765888,57.78944736184046,12.040133779264215,1.0502625656414104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1857092701:0002/pct:31.103678929765888,57.798824706176546,12.05773631402922,1.047136784196049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1927,7 +1927,7 @@ ham said: &quot;Whatever is a man&#x27;s own, is absolutely his
 own. No man has a right to take it from him without  
 his consent. Whoever attempts to do it, attempts an in-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861020501:0329/pct:63.89383395371419,111.3725931764441,45.05583427739116,3.839657696205382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861020501:0329/pct:21.297944651238065,37.124197725481366,15.018611425797054,1.2798858987351274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1961,7 +1961,7 @@ Chatham said: Whatever is a man&#x27;s own
 is absolutely his own. No man has a right to take  
 it from him without his consent. Whoever a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861021901:0172/pct:211.24859392575928,46.079258010118046,44.881889763779526,5.691399662731872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861021901:0172/pct:52.83443522295681,11.519814502529512,11.225207483471655,1.422849915682968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1978,7 +1978,7 @@ against their will, Lord Chatham said: ‘■Whatever
 is a man&#x27;s own is absolutely his own. No man Ims  
 a right to take it from him without his consent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861042701:0073/pct:63.5663181067694,45.30178787471434,14.639515685195377,1.3845947035891921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861042701:0073/pct:63.57090442120712,45.311869874983195,14.648688314070812,1.3845947035891921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1999,7 +1999,7 @@ a man&#x27;s own, is absolutely his ewn. No man
 his a right to take it from him without his con  
 sent, either expressedly himself or his reprc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1861071101:0494/pct:39.832361516034986,99.91697799916977,16.107871720116616,4.026567040265671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1861071101:0494/pct:29.899726526891524,74.94119274941193,12.087511394712854,3.0303030303030303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2055,7 +2055,7 @@ is absolutely his own no man nas a
 right to take it from him without his  
 conoent, either expressed by himself o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665350:1885080701:0069/pct:53.557639271924984,35.105067985166876,12.20812649384078,2.8430160692212607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665350:1885080701:0069/pct:53.57142857142857,35.105067985166876,12.203530060672918,2.8567504463672573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2074,7 +2074,7 @@ nature, for whatever is a man&#x27;s own is
 absolutely his own no man has aright  
 £o take, it from him without his con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625066:1885082801:0291/pct:9.228535877229366,53.346346904629115,18.291165491497303,3.248745119910764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625066:1885082801:0291/pct:7.39368467621523,42.67707752370329,14.632527788530664,2.5989960959286114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -2904,7 +2904,7 @@ cins of Europe, in electrified wine, from electris
 fied glasses, under the discharge of guns from the  
 electricof battery.&quot; Such was the character o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841122301:0877/pct:99.89019033674964,83.730856138589,50.12811127379209,24.114988701983428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841122301:0877/pct:33.296730112249875,27.910285379529668,16.709370424597363,8.03832956732781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3012,7 +3012,7 @@ ar.d Germany is to be drank in electrified bum­
 pers, under the discharge of guns from the elec­  
 tric battery.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845083001:0549/pct:1.6290339210227858,12.336122733612273,14.970615527373957,4.5885634588563455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845083001:0549/pct:1.6288659793814433,12.335262533993445,14.972508591065292,4.590567835808754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3098,7 +3098,7 @@ the electrical battery.”
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1848-04-01_3_28/page/n5/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1848-04-01_3_28/page/n5/mode/1up?view=theater)
 
 #### 1848-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3340,7 +3340,7 @@ Isotnfied kmnpars, under the discharge of guns
   
 from the electrical battery
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn90068762:00296026876:1852052801:0108/pct:17.46545768566494,13.513115237253169,30.59153713298791,52.136752136752136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn90068762:00296026876:1852052801:0108/pct:13.10732023321097,10.138520483348069,22.954005614338158,39.10993221338049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3430,7 +3430,7 @@ land, France, and Germany are to be drunk in electrified
 bumpers, under a discharge of guns from the electrical  
 battery.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854100701:0297/pct:51.09731446722495,17.195270195601722,15.665607854461449,9.183335175157476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854100701:0297/pct:51.106940032726925,17.202637492172247,15.660795071710464,9.183335175157476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3462,7 +3462,7 @@ France, and Germany are to he drunk in electrified
 bumpers, under a discharge of guns front the  
 electrical battery.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854101301:0394/pct:16.518830885560565,71.46282973621103,16.315253744365275,6.676258992805756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854101301:0394/pct:16.518830885560565,71.46922462030376,16.32979496873637,6.679456434852118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3493,7 +3493,7 @@ the hot weather coming on when electrical experim
 for this season, somewhat humorously in a party of  
 the amazoment of many. A turkey is t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854102701:1035/pct:128.3442088091354,25.15133171912833,38.601141924959215,28.91949152542373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475361:1854102701:1035/pct:42.78140293637847,8.383777239709444,12.867047308319739,9.639830508474576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3692,7 +3692,7 @@ banks of the Schyulkill. Spirits at the
 courses in our mountains, he adapt as hisa i a o e ie e a a e  
 o wit er si aration te an o i e i o e ie 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020241:00212470570:1855011001:0072/pct:191.3793103448276,142.84923928077455,151.56739811912226,29.87551867219917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020241:00212470570:1855011001:0072/pct:47.86358290866327,35.71230982019364,37.90670325362603,7.468879668049793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3720,7 +3720,7 @@ many and France are to be drunk in elee­
 trified bumpers, under a discharge of guns  
 from the electrical battery.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020241:00212470570:1855011001:0072/pct:192.0846394984326,175.71230982019364,114.34169278996865,52.780082987551864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_lee_ver01:data:sn84020241:00212470570:1855011001:0072/pct:48.039984319874556,43.92807745504841,28.596628773030183,13.195020746887966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3755,7 +3755,7 @@ France and Germany are to bo drunk ut
 electrified, bumpersj, under A discharge of  
 guns,from the electric batteryl&quot;,t &quot;Z
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855020701:0355/pct:109.85611510791367,96.06104082431199,17.140287769784173,17.177514021129515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:00296027078:1855020701:0355/pct:82.43656649271189,72.04904134602843,12.866654669785856,12.886396243641581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3911,7 +3911,7 @@ electrified bumpers, under a discharge of guns from
 the electrical battery.”—National Intelligencer,  
 Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1857061401:0002/pct:82.40985048372912,42.515268602767044,12.119613016710643,7.952137604387386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1857061401:0002/pct:82.41864555848724,42.515268602767044,12.132805628847846,7.964601769911504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3949,7 +3949,7 @@ tie; when the health nf ?n ?
 ciana of England, Holland, Franco and Qerniany &#x27;  
 are to Ije drank in eleotrificd, bum pern, under 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1857061801:0618/pct:16.781510192362905,76.34494574528841,14.039621016365203,10.302684180468304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1857061801:0618/pct:16.781510192362905,76.34494574528841,14.044406163269212,10.306491528650294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3972,7 +3972,7 @@ President ordered out the U. S. Marines, weather coming on, when electrical ex­
 the stores were closed, and a general periments are not so very agreeable, it is  
 tight occurred near the Northern Liber- proposed to put an end to them for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1857062701:0119/pct:30.067283431455003,78.99424351037254,25.749929913092235,10.904746388617356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1857062701:0119/pct:30.067283431455003,79.00148437782846,25.75460237360994,10.908366822345316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3999,7 +3999,7 @@ An old man lay dead near Hyatt&#x27;s store, drank in electrified bumpers, under
 discharge of guns from the electrical bat­  
 tery.—Xational Irdelligcncer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1857062701:0119/pct:30.137370339220634,18.290431193657,38.491729744883656,75.72499185402411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn88059517:00279529364:1857062701:0119/pct:30.14671526025605,18.297672061112923,38.491729744883656,75.72137142029615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4042,7 +4042,7 @@ bumpers, under a discharge of guns from
 the electric battery.’&#x27;—[National Intelli­  
 gencer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857070401:0112/pct:5.838739573679333,12.743959107806692,12.990423231387087,16.58921933085502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159348:1857070401:0112/pct:5.838739573679333,12.751703841387856,12.990423231387087,16.5930916976456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4264,7 +4264,7 @@ tund, Motlund, Frunce and Germany are to
 drank in slectrifled bumpers, under the dis­  
 charge of guns from the slectrical battery.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887040901:0268/pct:164.10453497309763,338.26199740596627,52.88239815526518,34.587116299178554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887040901:0268/pct:41.049798115746974,84.56549935149157,13.228225341280522,8.646779074794638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4286,7 +4286,7 @@ With this letter Frot Mendenhall intro.
   
 toonth contury and from the beglaning
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887040901:0268/pct:163.72021521906225,10.95258682807321,98.923904688701,373.0796944804727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282346:1887040901:0268/pct:40.953662757162085,2.7381467070183025,24.74524129975005,93.26992362011818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

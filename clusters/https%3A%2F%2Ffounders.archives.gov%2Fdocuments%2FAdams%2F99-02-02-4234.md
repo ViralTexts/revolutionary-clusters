@@ -64,7 +64,7 @@ ple was exhibited by the Captain, Ofljceri,
 bailors, and Marines, honourable to the  
 American name, and instructive to it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800031801:0003/pct:23.837809917355372,33.11610358429086,16.322314049586776,8.83210427027954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800031801:0003/pct:23.85072314049587,33.11610358429086,16.322314049586776,8.84925398730921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -89,7 +89,7 @@ American name, and inftruitive to its rising
   
 navy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800032501:0003/pct:40.32846715328467,46.07320845506101,16.319082377476537,5.482041587901701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800032501:0003/pct:40.33498435870699,46.07320845506101,16.319082377476537,5.499226671249356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ was exhibited by the Captain, Officers, Sailors,
 and Marines, honorable to the American name,  
 and inftruflive to its rifing Navy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800033101:0364/pct:76.32839224629419,46.036627988256676,21.482326111744584,8.835453655808752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1800033101:0364/pct:76.3109895120839,46.03019289907744,21.48312813497492,8.837713167458764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ an example by the Captain,
 the American name, aniir.ftruitive to its  
 riling navy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800040401:0002/pct:44.599391480730226,35.01625877117919,15.922920892494929,13.024131439329112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800040401:0002/pct:44.61840770791075,35.02909464316276,15.929259634888439,13.036967311312681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ tained by Coffgrefs of his gallantry and
 good conduct ill the ~abo.&#x27;/e engagement  
 wherein an example was exhibited by the cap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072301:0003/pct:59.8488542174549,4.686489980607628,35.421745490004874,92.87330316742081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800072301:0003/pct:59.8610433934666,4.6945701357466065,35.41565090199902,92.8773432449903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ I example was exhibited by the captain, officers, sailors, and !
 ; marines honorable to the American name, and instructive ;  
 I to its rising navy.&#x27;&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855033101:0403/pct:37.067011977986404,49.00678903696254,15.846552282292004,4.790042745788282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855033101:0403/pct:37.07240746735729,49.015170564076776,15.846552282292004,4.790042745788282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ example was exhibited by the Captain, officers,
 sailors and marines, honorable to the American  
 Mini- and intiructite to it* ritmy navy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865091901:0002/pct:22.988929889298895,81.99391171993912,8.837638376383763,3.1202435312024352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865091901:0002/pct:22.988929889298895,81.99391171993912,8.851476014760147,3.127853881278539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

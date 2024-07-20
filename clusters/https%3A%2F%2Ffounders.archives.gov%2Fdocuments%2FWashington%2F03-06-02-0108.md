@@ -67,7 +67,7 @@ nius to Sir W illiam Draper, and not attract the
 pubiick attention to a character which will only pass  
 without censure when it passes without obseiva
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828031801:0428/pct:49.50746742929774,56.1276287164612,15.157292659675882,1.4986705342035291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828031801:0428/pct:49.499602859412235,56.120845921450154,15.160180037066455,1.5025176233635449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ it passes without notice.&quot;
   
 The RichmOnD EnguIrEr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843122201:1166/pct:92.89561799388558,183.75043247606965,39.84568350560489,5.27044170222581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843122201:1166/pct:30.96069868995633,61.24308118081181,13.279961183891315,1.7566113161131611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ will only pass without censure, when it passes
 without observation !”  
 CITY AND COUNT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861120901:0790/pct:23.77495462794918,31.61184700104182,15.82980439604759,3.5273106116981694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172182:1861120901:0790/pct:18.436132527609917,24.503056634241993,12.278599708272557,2.7452035833749857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ you to be careful in the future how you attract
 attention to an administration, which will only  
 pass without censure when it passes without o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191411:1864082201:0183/pct:329.09343200740057,244.36992587363218,49.861239592969476,26.685492410871866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191411:1864082201:0183/pct:82.28287267260322,61.092481468408046,12.466751474499826,6.671373102717967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ of their present Town-hall, and th
 &quot;which will only pass without censure when  
 &quot;it passes without observation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531071:1871030901:0472/pct:203.44556324732537,173.036918504972,46.82190056639396,5.737798605554921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531071:1871030901:0472/pct:67.81518774910846,57.67897283499067,15.607300188797986,1.9125995351849736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ exposure, spreading before you the proots of that pere­
 sonal government, which will only pass without censure  
 when it passes without observation. Insisting upon re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872060101:0241/pct:102.63583441138422,29.358856088560884,47.574385510996116,7.702952029520295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872060101:0241/pct:34.21194480379474,9.78628536285363,15.858128503665373,2.5676506765067653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ spreading before you the proois of that personal
 government which will only pass without censure  
 when it passes without observation. Insistin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:97.3743922204214,194.52007779430272,55.64019448946515,6.280745910078938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:32.45813074014046,64.84002593143424,18.546731496488384,2.093581970026313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ fore you the proofs of that personal government
 which will only pass without censure when it  
 passes without observation. Insisting upon re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872060101:0984/pct:58.80092236740968,345.928434692976,50.96079938508839,4.653217493741717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872060101:0984/pct:14.705882352941176,86.482108673244,12.745098039215685,1.1633043734354291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ only pass without censure when it
 passes without observation. Insist­  
 ing upon re-election, the Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556527:1872061501:0094/pct:51.241134751773046,83.17757009345794,38.77068557919622,9.065420560747663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556527:1872061501:0094/pct:12.814070351758794,20.794392523364486,9.69553650605971,2.2663551401869158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

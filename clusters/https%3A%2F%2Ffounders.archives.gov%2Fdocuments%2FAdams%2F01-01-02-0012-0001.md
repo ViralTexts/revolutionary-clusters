@@ -93,7 +93,7 @@ Another Still, and still another spreads ;
 Wide, and more wide, th’ oYrflowing of the mind,  
 Takes cv’ry Creature in, of every kind
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824022701:0042/pct:2.6071657069737686,75.3419893345699,14.779270633397314,3.060514722930675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824022701:0042/pct:2.6067487605949142,75.3332560565666,14.782237859160936,3.064023801244156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ A TALE.
 It was in the autumn of the year 18—,  
 that chance called me to a pretty village o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1828082801:0445/pct:40.811078140454995,55.1440329218107,17.408506429277942,6.5294924554183815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1828082801:0445/pct:40.80300632911393,55.13646962007955,17.410007911392405,6.532025785214648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

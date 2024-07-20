@@ -160,7 +160,7 @@ which I hope we shall not.&quot;
   
 Truth like its divine origin, is immutable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792070401:0003/pct:28.32080200501253,83.8646202282566,20.551378446115287,9.582841401023218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792070401:0003/pct:28.344298245614034,83.87445887445888,20.535714285714285,9.577922077922079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ can see the rays of light and glory—f can
 . see that the end is more than worth all the  
 I means ; and that posterity will triumph,a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805071701:0262/pct:22.08780487804878,67.30388925510877,18.692682926829267,7.989452867501648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805071701:0262/pct:22.083495903238394,67.295017136831,18.695539081805176,7.992793742859654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ can ve the rays of light and glory-1 can
 see that the end is more than worth all the  
 ; means ; anR that posterity will triumph, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810072001:0089/pct:21.964252810023954,36.31694790902421,18.021006080707572,6.798728295426755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810072001:0089/pct:21.960206337509213,36.312507641520966,18.023827069516088,6.801972531279293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ worth all the means, and that posterity will tri­
 umph, although voa and l n,ay rue, which I hope  
 we shall not. I am, bcc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816072401:0094/pct:19.796119697467937,28.600405679513184,14.929299572509043,5.907707910750507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816072401:0094/pct:19.792865362485614,28.596780327037646,14.932325058907338,5.911184349516204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ us. to maintain llus (IccImi..lion,and support
 and dete.iu] these states. Yet ti.tough all the  
 gloom. I can see rays ot light and glory. ( ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820070401:0073/pct:19.37795147370135,13.447902896286504,14.883569451229441,11.77743059728398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820070401:0073/pct:19.374796483230217,13.446286950252343,14.88657332030826,11.780020828326524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ rati see rays of light and glory. I can see that
 the end is more than worth all the means; and  
 that posterity will trnmpli, although yon ami 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821070301:0069/pct:48.56307842182172,50.26196713503215,15.327163500568274,6.977851869492737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821070301:0069/pct:48.5551948051948,50.2559828551018,15.33008658008658,6.98098980037306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ olemn acts of devotion to Cod Aim ghtywuit 1
 ught to be solemnized With pomp, *l«p f  
 ames, sports, guns, be Us, bonfires »ml ilf^R- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826080301:0131/pct:40.438116100766706,48.35680751173709,17.984665936473167,38.68260065443164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826080301:0131/pct:40.429259745948315,48.34992887624467,17.986202365308806,38.680654338549076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -884,7 +884,7 @@ the end is more th in worth all the means, and that posterity
 will triumph in that day&#x27;s transaction, even although wr  
 should rue it, which I trust in God we -&#x27;.tall not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854050501:0642/pct:31.01761252446184,37.29565327588392,15.70450097847358,7.362818400709669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854050501:0642/pct:31.01761252446184,37.30410171925823,15.715372907153728,7.358594179022515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ so it has been, year after year, and will be,
 we trust till the end of time. We are  
 among those who abate not a jot of hear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854070801:0948/pct:69.3019943019943,164.60772439779302,49.643874643874646,28.20616336966761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1854070801:0948/pct:17.331670822942645,41.151931099448255,12.415390096188101,7.051540842416903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1030,7 +1030,7 @@ and illuminations, from one end of this
 continent to the other, from this time  
 forward for evermore.&#x27;&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn88059487:00279529455:1857070201:0176/pct:30.11312890741292,10.790025635050105,10.479309318249479,5.022139361454206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn88059487:00279529455:1857070201:0176/pct:30.118090701597698,10.793909733550842,10.49419470080381,5.026023459954945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1068,7 +1068,7 @@ forever more.&quot;
 &quot;day&#x27;s transaction, even although we should  
 &quot;rue it, which, I trust in Gon, we shall not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021908:1857070401:0531/pct:16.0392798690671,76.64073409136246,51.3911620294599,51.10712148414123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021908:1857070401:0531/pct:4.010366934933843,19.160183522840615,12.849543036420679,12.776780371035308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1088,7 +1088,7 @@ sports, guns, bells, bonfires and illuminattons,
 from one end of the continent to the other,I  
 from this time for evermore.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743294:1858070301:0559/pct:247.9831524380366,26.43107146889466,50.80187915114207,11.346957208987241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743294:1858070301:0559/pct:82.66105081267887,8.81035715629822,16.933959717047358,3.782319069662414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1114,7 +1114,7 @@ bells, bonfires, and illuminations from one end of
 the continent to the other, from this time forward  
 forevermore.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743324:1859070301:0588/pct:56.89772341148488,98.26264078600528,46.07543323139653,20.1294033069734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743324:1859070301:0588/pct:18.965907803828294,32.75421359533509,15.358477743798845,6.709801102324467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1171,7 +1171,7 @@ is worth all the means; that posterity will triumph in
 that day&#x27;s transaction, even though we should rue it,  
 which I trust in (loil we shall not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860070401:0017/pct:4.621548147088282,24.552043487014295,11.060237516096723,4.157439098047111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026372:1860070401:0017/pct:4.621548147088282,24.555398966512314,11.065006915629322,4.154083618549091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1216,7 @@ that posterity will triumph in that day&#x27;s transi ton,
 even although we should rue it,which I trust in od we  
 shall not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174335A:1860070701:0639/pct:11.566304705495229,68.79570383912248,47.30174399473511,33.95795246800731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174335A:1860070701:0639/pct:3.855434901831743,22.931901279707496,15.767247998245036,11.319317489335772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1249,7 +1249,7 @@ that posterity will triumph in that day&#x27;s transaction,
 even al hough we should rue it--which I trust in God we  
 shall not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860070901:0028/pct:92.02626641651032,82.84037028674645,37.961225766103816,22.228494016708062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860070901:0028/pct:30.67062685633891,27.610339767468112,12.651763847636913,7.408661624713098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1284,7 +1284,7 @@ that prosperity wi&#x27;l triumph in that day&#x27;s transac­
 tion, even although we should rue it--when I trust  
 in God we shall not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860071001:1138/pct:195.38800882293964,265.3008223921512,60.016041708441946,41.16289135766845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860071001:1138/pct:48.83720930232558,66.31563762261973,15.001002405773857,10.289238315060588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1423,7 +1423,7 @@ mail supply us with a batch of fictions, and the
 next day brings their contradictions; but whether  
 the assertion or the de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1861062901:0004/pct:17.444717444717444,36.35910224438903,12.021762021762022,10.13715710723192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1861062901:0004/pct:17.453492453492455,36.36221945137157,12.021762021762022,10.146508728179551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1676,7 +1676,7 @@ posterity will triumph in that day&#x27;s transaction,
 even though we should rue it, which I trust in God  
 we shall not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743750:1871070201:0035/pct:12.260784949724295,60.25859135760463,47.4699967564061,26.777815583531815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743750:1871070201:0035/pct:4.086928316574765,20.086197119201543,15.823332252135366,8.925938527843938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1812,7 +1812,7 @@ forward forevermore.&quot; Now, Mr. Speaker, said
 Mr. Adains, in conclusion, had this gentleman  
 lived later, he would have seen that we d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533456:1874021001:0151/pct:110.23738872403561,304.0,48.961424332344215,18.715867158671585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533456:1874021001:0151/pct:27.559347181008903,76.0,12.240356083086054,4.678966789667896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1869,7 +1869,7 @@ fires, and illuminations, from one end
 of tho continent to the other from this  
 time forward forever.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293496:1874032201:0281/pct:22.27592267135325,105.90949033391915,14.45518453427065,6.6124780316344465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293496:1874032201:0281/pct:16.71794871794872,79.43760984182776,10.857142857142858,4.953866432337434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1966,7 +1966,7 @@ ought to be commemorated as the day
 of deliverance by solemn acts of devo­  
 tion to God Almighty.&quot; The 2d of Ju
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297568:1876070101:0102/pct:305.45609548167096,212.58702311333892,48.33759590792839,16.095795043163463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297568:1876070101:0102/pct:76.38030270731187,53.14675577833473,12.086975058622896,4.023948760790866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2050,7 +2050,7 @@ the adoption of the Deelaration, &quot;will be a
 &quot;acts of devotion to Almighty God.&quot; On the  
 6th of July Colonel Haslett, commanding th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876070401:0012/pct:202.80701754385964,123.24944582083714,43.92982456140351,23.418959447124788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876070401:0012/pct:50.728453572055464,30.812361455209285,10.988239424258381,5.854739861781197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2079,7 +2079,7 @@ people maturely to consider the­
 ruestion of independence, and to repair their i  
 their fears, and allure their hopes.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876070401:0028/pct:248.92287452721592,173.95640074211502,47.475744121032726,24.68692022263451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876070401:0028/pct:82.97429150907197,57.98546691403834,15.825248040344242,8.228973407544837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2104,7 +2104,7 @@ guns, bells, bonfires and illuminations
 from one end ot this continent to the other, from  
 this time forward, forevermore.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070401:0622/pct:4.586800851557964,95.86187214611873,14.108767176311206,5.079908675799087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070401:0622/pct:3.5648217589120543,74.29224417575936,10.939453027348632,3.936891772338543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2133,7 +2133,7 @@ terity will triumph in that day&#x27;s transac­
 tion, even though we should rue it, which  
 I trust in God we shall not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1876070401:0965/pct:6.027849028948332,61.09764789736279,12.623671674606083,8.610121168923735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1876070401:0965/pct:6.026744825059534,61.088939566704674,12.625938816633083,8.61245724059293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2191,7 +2191,7 @@ gloom I can see the rays of ravishing
 light and glory.&quot; &quot;Yesterday,&quot; he  
 cried, &quot;the greatest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn84027398:00279528438:1876070601:0954/pct:113.10323285959706,103.7433155080214,33.468686553178195,58.50703917930809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn84027398:00279528438:1876070601:0954/pct:37.701077619865686,34.58110516934046,11.1562288510594,19.502346393102695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2214,7 +2214,7 @@ festival. It ought to be commemorated as
 the day of deliverance by solemu acts of  
 levotiou to Almighty God, from one en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876070601:0316/pct:15.959821428571429,32.44017946161515,10.90561224489796,3.3150548354935196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340676:1876070601:0316/pct:15.957277219831022,32.43613707165109,10.907859078590786,3.317757009345794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2495,7 +2495,7 @@ bells, bonfires and illuminations from one end of this
 continent to the other, from this time forward forever,­  
 more.&quot; John Adams was an old idiot, and the Board o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531320:1878070401:0469/pct:50.69444444444444,26.041189931350115,48.23082010582011,8.100686498855834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531320:1878070401:0469/pct:16.89814814814815,8.680396643783372,16.076940035273367,2.7002288329519453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2521,7 +2521,7 @@ am well aware,&quot; continues Adams, &quot;of the toil
 and blood and treasure that it will cost us to  
 maintain this declaration and defend thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn84022650:00295868740:1881071501:0509/pct:29.616148246194573,36.01835330104512,15.916611515552614,6.4746367575834824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_pearsoll_ver01:data:sn84022650:00295868740:1881071501:0509/pct:22.227739159218803,27.02013764975784,11.933134723601457,4.855977568187612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2552,7 +2552,7 @@ ing light and glory; and posterity will tri­
 umph in this day&#x27;s transactions.  
 Posterity has justified the sturdy old p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294750:1883062801:1062/pct:123.1686541737649,97.35806632939854,50.936967632027255,27.43114109050028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294750:1883062801:1062/pct:30.8052833404346,24.339516582349635,12.73966766084363,6.85778527262507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2583,7 +2583,7 @@ ing light and glory; and posterity will tri­
 umph in this day&#x27;s transactions.  
 Posterity has justified the sturdy old pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:02202296576:1883062801:1024/pct:176.89795918367346,152.23037831733484,49.87755102040816,26.82100508187465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:02202296576:1883062801:1024/pct:44.23351704429476,38.05759457933371,12.471933047560727,6.705251270468662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2651,7 +2651,7 @@ solemn&#x27; acts of devotion to God Almighty.
 . * * Through all the gloom 1 can see  
 the rays of ravishing light and glory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342107:1883070401:0009/pct:13.751524183714944,44.49055820709691,10.134128166915053,8.985266652832538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342107:1883070401:0009/pct:13.760556383507204,44.494016739295844,10.134128166915053,8.985266652832538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2687,7 +2687,7 @@ which cut the thirteen colonies loose Irom
 the apron strings of Great Britain, and  
 established the government under whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895849:1883070401:0013/pct:5.675624882540876,9.286219081272085,12.929900394662658,13.6113074204947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895849:1883070401:0013/pct:5.67455843667794,9.284906726964387,12.93216835776024,13.612916902204635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2730,7 +2730,7 @@ light and glory; and posterity will tri­
 umph in this da&#x27;s traditions.  
 Posterity has justified the sturdy ol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025001:00237281032:1883071201:0297/pct:62.56400877834675,55.74446161772282,26.280175566934894,17.181865018031942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025001:00237281032:1883071201:0297/pct:46.953339432753886,41.80834621329212,19.725526075022874,12.892838742916023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2835,7 +2835,7 @@ this time forward for evermore.&quot;
   
 For several weeks Miss Ncvas Johnston
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn90059522:00175035424:1884070801:0117/pct:57.297207446808514,56.44946808510638,13.19813829787234,6.62677304964539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dassel_ver01:data:sn90059522:00175035424:1884070801:0117/pct:57.30274822695036,56.45316193853428,13.192597517730496,6.634160756501182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2962,7 +2962,7 @@ and defend those states. Yet through all the
 gloom I can see the rays of ravishing light  
 and glory. Yesterday the greatest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349098:1887070901:0123/pct:49.410377358490564,72.56556738509478,10.64690026954178,10.529732537003376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349098:1887070901:0123/pct:49.40205490988715,72.55614695573153,10.649317837291562,10.53161106062573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2987,7 +2987,7 @@ and parade, with shows, games, sports, guns, bells,
 bnfires, and illaminations, from one end of this cos  
 tinent to the other, from this time forward foreve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524093:1887071201:0327/pct:86.44549763033176,34.651140952202084,33.93364928909953,10.432904498074937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279524093:1887071201:0327/pct:28.811264554562687,11.549295774647888,11.309684989620003,3.4773082942097027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3086,7 +3086,7 @@ bells, bonfires and illuminations from one end of
 this continent to the otber from this Urns forward,  
 forevermore.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280039:1889070501:0037/pct:64.83569587628865,84.31906614785993,14.110824742268042,4.695201037613489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280039:1889070501:0037/pct:48.64647115694489,63.24254215304799,10.58652916532388,3.5278858625162126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3110,7 +3110,7 @@ and illuminations from one end of the continent
 to tho other, from this time forward forever­  
 more.The Declaration of Indenendenca nroelalme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280192:1891051101:0124/pct:18.75,45.820562830872106,14.951657458563536,5.252159375870716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_franco_ver01:data:sn84024546:00237280192:1891051101:0124/pct:14.07842459837623,34.36890498746169,11.210917256866471,3.942602396210644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3137,7 +3137,7 @@ minations from one end of this
 continent to.lhe other, from this time for­  
 ward forcvermore.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:0023728205A:1891070501:0048/pct:3.239812959251837,83.55974494039368,15.965263861055444,6.126975325755476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_eisenhower_ver01:data:sn84024546:0023728205A:1891070501:0048/pct:2.4394319131161235,62.66980870529526,11.979949874686717,4.602162461879678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3176,7 +3176,7 @@ cannons boom and Chinese crackers crack.
 Let song cheer the soul and “music swell  
 the breeze.” And let the day close in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769374:1891070901:0596/pct:29.967991464390504,38.2712215320911,10.922912776740464,8.00207039337474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769374:1891070901:0596/pct:29.972437094336268,38.278122843340235,10.9184671467947,8.00207039337474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3220,7 +3220,7 @@ ponfires and illuminations. from one endo
 this continent to the other, from this time  
 forward forever more.&quot; Adams was a leve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:00175038632:1893060101:0440/pct:202.44526130733578,97.93448084397556,45.724788237174366,22.598556357579124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:00175038632:1893060101:0440/pct:67.48175376911193,32.64482694799186,15.241596079058121,7.532852119193041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3248,7 +3248,7 @@ sports, gune, bolle, bonfires and iluminations,
 from one end of this continent to the other,  
 from this time forward forever more.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199161:1893070401:0477/pct:9.926963779997019,77.23907830257534,38.3812788791176,15.764779480763215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:00202199161:1893070401:0477/pct:3.3089879266656728,25.746359434191778,12.793759626372534,5.254926493587739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3328,7 +3328,7 @@ umph in to-day&#x27;s transaction, even though
 we should rue it, which I trust in God we  
 shall not. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665556:1895070401:0047/pct:40.072694229895504,50.83187390542907,16.628805088596092,12.64448336252189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665556:1895070401:0047/pct:30.061349693251532,38.126094570928196,12.474437627811861,9.483362521891419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3380,7 +3380,7 @@ from this time forth forevermore.&quot; &#x27;
 The declaration was formally ap­  
 proved on the fourth instead of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473091:1896062501:0049/pct:10.57347670250896,31.450203843913805,18.86200716845878,14.80780430984275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473091:1896062501:0049/pct:7.933662034961901,23.587652882935352,14.164051994621246,11.109493302271403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3423,7 +3423,7 @@ that day’s transaction, even though
 we should rue it, which 1 trust in  
 God we shall not.” Posterity ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896070201:0426/pct:19.965539521860865,6.468248121408576,13.956493646349344,17.81346692205687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896070201:0426/pct:19.96124031007752,6.467295226870949,13.958871662360034,17.81452563347083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3478,7 +3478,7 @@ illuminations from one end of this con­
 tinent to the other from this time for­  
 ward for ever more.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768716:1896070501:0171/pct:70.95030776159736,16.004319654427647,12.535655307010959,6.997840172786177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768716:1896070501:0171/pct:70.95030776159736,16.004319654427647,12.555672321473253,7.005039596832254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3731,7 +3731,7 @@ than worth all tho means, and that
 posterity will triumph, although you  
 and I may rue, which I hope we shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_fairplay_ver01:data:sn90051265:00383340974:1897070101:0320/pct:54.149377593360995,42.01831210191083,12.83713692946058,53.5828025477707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_fairplay_ver01:data:sn90051265:00383340974:1897070101:0320/pct:54.155860995850624,42.033240445859875,12.83713692946058,53.57782643312102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3847,7 +3847,7 @@ than worth all&#x27; the means, and that
 posterity will triumph, although you  
 tnd I may rue, which I hope we shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473091:1897070101:0466/pct:90.13961605584642,47.722973956059946,18.455497382198953,78.26276735050196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_curry_ver01:data:sn85029677:00212473091:1897070101:0466/pct:67.63422086425142,35.79223046704496,13.858577040593627,58.70798777826277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3966,7 +3966,7 @@ not.
 The Day We Celebrate.  
 If there is any day more dear than
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767840:1897070101:0221/pct:64.45077556188667,6.596652445027896,28.664134219689775,87.75845093534625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767840:1897070101:0221/pct:64.46132742429039,6.603945593115268,28.669410150891633,87.75480436130256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4003,7 +4003,7 @@ As is well known, the celebration of the
 4th of July instead of the 2d comes from  
 the fact that on that day the Declaratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1897070101:0104/pct:85.03960999390615,43.14187993867201,9.811090798293723,8.503361245429886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1897070101:0104/pct:85.02665651180503,43.136792452830186,9.813404417364813,8.505306603773585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4043,7 +4043,7 @@ terity will triumph in that day&#x27;s trans­
 actions, even though we should rue it,  
 which I trust in God we shall not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199422:1897070101:0372/pct:22.457937088514996,111.41897565071369,37.67373811265545,40.008396305625524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199422:1897070101:0372/pct:7.485979029504999,37.1396585502379,12.557912704218483,13.336132101875174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4192,7 +4192,7 @@ than worth all the means, and that
 posterity will triumph, although you  
 and I may rue, which I hope we shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285062:1897070201:0811/pct:198.77250409165302,148.0017189514396,58.18330605564648,235.95473427875663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285062:1897070201:0811/pct:49.723643807574206,37.0004297378599,14.554759467758444,58.98868356968916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4312,7 +4312,7 @@ not
   
  unl itt,l 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058217:206534874:1897070201:1074/pct:190.43814432989691,110.79761258817146,40.28350515463917,167.49864351600652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058217:206534874:1897070201:1074/pct:63.47938144329897,36.93253752939049,13.427835051546392,55.83288117200217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4364,7 +4364,7 @@ days transactions even though we
 should rue it which I trust In God we  
 shall no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534643:1897070401:0317/pct:46.66313559322034,12.217541171964765,18.926553672316384,22.290310225967062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534643:1897070401:0317/pct:31.1197456729071,8.14502744797651,12.628046626633699,14.860206817311376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4409,7 +4409,7 @@ games, sports, guns, bells, bonfires, and illumi­
 nations, from one end of this continent to the  
 other, from this time forward, for evermore.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1897070801:0116/pct:6.15951566201632,30.33976124885216,21.216109502500657,8.337924701561064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1897070801:0116/pct:6.157894736842105,30.334190231362467,21.217105263157894,8.340984208593463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4535,7 +4535,7 @@ The Day We Celebrate,
   
 If there is any day more dear tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eagle_ver01:data:sn2001063133:00415623276:1897070801:0361/pct:3.8900716082833364,6.8662674650698605,36.07509192955293,108.21024617431803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_eagle_ver01:data:sn2001063133:00415623276:1897070801:0361/pct:3.1224194880264244,5.493062701820375,28.860445912469032,86.57606188566764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4610,7 +4610,7 @@ F*|hted and mistaken people,
 f been gradually, and at last totally  
 PWlshed. Time has been give
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1897070801:1080/pct:4.244031830238727,37.10470085470085,11.889530347948197,35.534188034188034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1897070801:1080/pct:4.255734123888282,37.11004273504273,11.889530347948197,35.534188034188034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4731,7 +4731,7 @@ glory I can see that the end is more
 than worth all the means, and that  
 posterity will triumph, although yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863572:1897070901:1072/pct:48.13030069390902,36.89346344071648,14.070932922127987,58.027001737735596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863572:1897070901:1072/pct:48.13030069390902,36.89680523994119,14.090208172706244,58.033685336185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4846,7 +4846,7 @@ glory; I can see that the end is more
 than worth all the means, and that  
 posterity will triumph, although yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011782:1897071001:0483/pct:7.919777484994876,35.546235679214405,14.053579270970575,55.28846153846154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011782:1897071001:0483/pct:7.929536915044161,35.553055100927445,14.06333870101986,55.28505182760502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4988,7 +4988,7 @@ States. Yet through all the gloom I can
 see the rays of ravishing light and glory.  
 I can see that the end is worth all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740517:1898052201:0207/pct:31.940095302927162,40.73772990549741,12.552756977535738,2.0729600650340414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740517:1898052201:0207/pct:31.94463353755389,40.74111709514616,12.56637168141593,2.079734444331538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5040,7 +5040,7 @@ tions, from one end of the continent to the
 other from this time forward, forever­  
 more. ■
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583322:1898062001:0670/pct:34.385130754268424,41.18355669326909,14.739572076939702,15.329016714350248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583322:1898062001:0670/pct:34.377700950734656,41.17735621800662,14.741789109766637,15.330472749171935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5097,7 +5097,7 @@ guns, bells, bonfires, and illuminations, from
 one end of this continent to the other, from thi3  
 time forward, for evermore.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898063001:0348/pct:50.75207468879668,64.71441523118767,21.006224066390043,8.884859474161377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685166:1898063001:0348/pct:50.73891625615764,64.70268310369833,21.00725952813067,8.887781000725163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5122,7 +5122,7 @@ evermore. I am well aware of the toil
 and blood and treasure that it will cost us  
 to maintain this declaration. Yet throug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898063001:0312/pct:66.32559560171045,47.9744393537497,9.743433109346364,4.38871473354232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898063001:0312/pct:66.31546801038327,47.968655816757085,9.745762711864407,4.391199517781796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5172,7 +5172,7 @@ evermore. I am well aware of tho toll
 and blood and treasure that it will cost us  
 to maintain this declaration. Vet throug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023826:1898070601:0173/pct:31.433529097704216,73.3774208786018,20.52856380138815,2.834199338686821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023826:1898070601:0173/pct:20.96128170894526,48.91828058573453,13.69826435246996,1.889466225791214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5306,7 +5306,7 @@ fires and Illuminations, from one end of
 this continent to the other,&quot; from this time  
 forward, forevermore.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899121701:0482/pct:76.11464968152866,117.43213249103637,16.890354868061873,9.262421034659383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899121701:0482/pct:57.098976109215016,88.07409936827727,12.67349260523322,6.9489499743896195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

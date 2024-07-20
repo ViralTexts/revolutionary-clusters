@@ -41,7 +41,7 @@ making all the preparations that their
 mews permit to commence the war in  
 this quarter,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805120901:0003/pct:20.834272829763247,8.846316382589096,18.602029312288614,7.000986054373856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805120901:0003/pct:20.841788801202554,8.851011879607457,18.602029312288614,7.010377048410574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ rcadilv be repaired and made defensi- ;
 sible without any ce&gt;nsiuerable expendi- \
 ture
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805121101:0003/pct:6.327568667344862,23.39264839589557,17.721261444557477,36.01766463177036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805121101:0003/pct:6.341132587317735,23.401307529116334,17.721261444557477,36.01766463177036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ ami ate making ail the preparations that their
 means permit to commence the war in this quar­  
 ter.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805121401:0257/pct:78.83102285500188,72.60326364099949,18.040464593480703,4.436511983681795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805121401:0257/pct:78.81625772616594,72.59400892288082,18.043328962976837,4.440195453579775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ a speedy aupture and are making all the
 preparations that their means permit to  
 catnmenee the war in this quarter#*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805121401:0434/pct:42.40531042561499,74.96065057712487,18.23506442795783,14.821615949632738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805121401:0434/pct:42.39703298848331,74.95081967213115,18.238011581755483,14.824043715846994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ jr work* are »* «iins, hut might readily he repaired and
 made defenfible without any con Adorable expendi­  
 ture. 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805121701:0264/pct:1.16126615471062,32.64994269705845,20.153586814010115,25.595313892779828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805121701:0264/pct:1.1610486891385767,32.645785586962056,20.15605493133583,25.59629912571089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ the way of the lakes to this city. The works arc in
 ruihs, but might readily be repaired and made defen­  
 sible without any considerable expenditure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805121801:0865/pct:9.27342256214149,62.82255495380694,21.247609942638622,28.3051927365403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805121801:0865/pct:9.27120669056153,62.81254976907151,21.248506571087216,28.304666348144607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ known to me, that a Spanish agent has
 i contracted* with a meiebant of this c.ii,  
 I fpr &#x27;he delivery ut the town of Mobile o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805121801:0438/pct:42.4031007751938,30.93364804615788,18.003875968992247,20.41699449252557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805121801:0438/pct:42.39488471226507,30.92959223810148,18.00684621843312,20.41868799440584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ sc,u a gitai impediment to the passage of
 Hoops Irom Per.s^c.du and Mobile hy the I  
 way ol ihe lake. 10 ihisciiy. I he work
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805121801:0438/pct:42.4031007751938,52.543928665093105,18.003875968992247,16.037241017571468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805121801:0438/pct:42.39488471226507,52.53703946505834,18.00684621843312,16.0395087627289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ ture and are making all the preparations
 thal.^their means permit to commence the  
 war in this quarter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1805122301:0752/pct:12.512698950220114,73.43783096801525,20.58923129021334,9.64837958059733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895060:1805122301:0752/pct:12.510580667005248,73.43005400826009,20.589977992212628,9.650005294927459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ ferences may enfoe. But lam inclined&#x27;to think that ghe Spanish 2gents calcu
 raprare and are m&#x27;ak-ing all the preparations that their means pergrt to commence ‘the war  
 in this quarter,” ~————2. Statemeants rc{peéliog the detention of thc_ Amczncan Gun Boats
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805122401:0206/pct:40.92633575719254,60.70188970304667,35.188112551375276,3.0370227535672965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805122401:0206/pct:40.92633575719254,60.70188970304667,35.198651069659604,3.0370227535672965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ fpeedy rupture and are makiog all the prepara.
 tions that their means permit to commence the  
 wat in this quarcer,””
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806031301:0713/pct:33.190218405824155,26.575498575498575,19.843195818555163,5.62962962962963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806031301:0713/pct:33.190218405824155,26.57929724596391,19.868085371165453,5.637226970560304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

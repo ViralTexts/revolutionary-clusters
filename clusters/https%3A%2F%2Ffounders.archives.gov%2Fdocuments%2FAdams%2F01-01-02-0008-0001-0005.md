@@ -152,7 +152,7 @@ resentatives are regularly chosen before they are choser
 in the town. Uncle Fairfleld, Story, Rnddock, Adams,  
 Cooper, and a rudls indigestaque moles are members.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038541:1892032201:0304/pct:198.3022636484687,278.33685851051985,48.169107856191744,12.634977179116108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038541:1892032201:0304/pct:66.10075454948957,92.77895283683996,16.05636928539725,4.21165905970537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ assessors, collectors, fire-wards, and representa­
 tives are regularly chosen before they are  
 chosen in the town.&quot; The Caucus Club, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897050201:0637/pct:76.82271680736761,79.12288716308817,51.1128165771297,26.983401857773718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897050201:0637/pct:19.205679201841903,19.78072179077204,12.778204144282425,6.745850464443429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ lectors, fire-wards, and representatives are
 regularly chosen before they are chosen in  
 the town.&quot; During the Revolutionary period
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112001:0256/pct:175.07668711656441,295.37441615187583,50.53680981595092,26.759077896640047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898112001:0256/pct:43.77756471716203,73.84360403796896,12.636625119846597,6.689769474160012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

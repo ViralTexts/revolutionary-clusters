@@ -85,7 +85,7 @@ and of n » effect, i xcept so far its may re­
 late to any transactions tindi r then’, p ioi  
 t.i the promulgation &lt;&gt;f this act, &amp;•„ the se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806082701:0284/pct:58.249419054996125,71.70915712799167,18.067389620449266,13.13735691987513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806082701:0284/pct:58.23814133591481,71.69983092729873,18.070345272668604,13.13998352624962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ armies of the U. States have heretofore
 be:n governed, and she resolves of Con.  
 grefs thereunto annexed, and refpeQin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806090201:0350/pct:6.55992538473496,28.978693608082423,16.75734494015234,8.932679803941182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806090201:0350/pct:6.55992538473496,28.98536227534927,16.7728897870356,8.929345470307759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ martial.”
 Tilt City of New-Orleans and its en­  
 virons being under martial law, and se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815041701:0180/pct:24.410360295181594,43.302540415704385,17.725365359571697,6.715224729081542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815041701:0180/pct:24.406828703703702,43.29869437783107,17.727623456790123,6.717588891849483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ r them, shall suffer death according to the Hr
 », and usage of nations, by sentence of a gencr  
 i ul court Martial.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815041901:0436/pct:59.44464742418707,87.49215907665287,18.195104128607966,4.416008029105507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815041901:0436/pct:59.4337899543379,87.48118414450578,18.19786910197869,4.419635390533534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ suffer death according to the law and
 usage of nations,by the sentence of a  
 general court martial.” This sec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824013101:0058/pct:7.059447983014862,68.41760401878345,17.37438075017693,7.7427104947035055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824013101:0058/pct:7.058199186272775,68.41013321685958,17.377203844566306,7.745504840940526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ of the United States, or any of them, shall suffer death, ac.
 i online to the law and usage of nations, by sentence of a  
 general court martial.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824051801:0017/pct:48.51773853879799,76.15291262135922,15.130406609428155,2.2815533980582523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824051801:0017/pct:48.509880142533206,76.14367188448004,15.133354929273297,2.2853213606762934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ the law and usage of nations, by sentence
 of a General Court Martial.”  
 CONGRESS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824052601:0150/pct:5.312058170066654,60.76305786287484,18.743688143809333,15.049978882162467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824052601:0150/pct:4.116879728672059,47.09947263138753,14.542134098617272,11.663938897981451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ ford Convention within this section ?
 Were they aliens ? No; they were citizens.  
 Were they lurking as spies? Call the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071587:00542866561:1824052801:0336/pct:6.129644697586113,5.1016830294530155,41.171684296175755,91.164095371669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071587:00542866561:1824052801:0336/pct:6.127982646420825,5.100788781770377,41.16729934924078,91.15249780893953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ Now, said Mr. B. it i, under U is- section,
 that the Genera! would “have punished the  
 leaders of the party!” Kveg as I had bCe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825010401:0008/pct:81.67279705741244,88.3175355450237,15.528546297777067,5.947867298578199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825010401:0008/pct:81.65973776782859,88.30707262172729,15.531393241658671,5.951111637641669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ suffer death, according to the law and u­
 sage of nations, by sentence of a gene­  
 ral court martial.” This law is explicitl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826102401:0073/pct:22.993705743509047,31.07883817427386,17.210857592446892,13.001383125864454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1826102401:0073/pct:22.989183874139627,31.07454017424976,17.212389380530972,13.003042456091826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ men/s of the armies of the United States, or any of
 them, shall suffer death, according to the law and  
 usage of nations, by sentence of a general court mar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826110101:0264/pct:24.84,41.52918218910768,18.613333333333333,7.690260777009048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216365:1826110101:0264/pct:24.836688441541128,41.52549889135255,18.615295738346,7.692535107169253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ shall suffer death, according to the law and u­
 sage of nations, by sentence of a general court  
 martial.” It would indeed have been an inde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827041401:0348/pct:61.649170335252286,45.51157750655869,17.880121909922114,4.231778259381772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827041401:0348/pct:61.638733705772815,45.50638686131387,17.88273799446984,4.235097323600973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ they were not spies Again, weie they lurking1
 in or about the lurtifications, See. when they  
 were in Hartford, where no fortifications per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827041701:0357/pct:21.523841280426808,62.45850978596772,18.056018672890964,9.15646102781275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827041701:0357/pct:21.520253375562593,62.45136186770428,18.05856531644163,9.159227893492027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ death, men who had assembled in Convention, no
 matter with what object in view, and citizens  
 too,under a law which decreed death to &#x27;&#x27;alien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827042501:0384/pct:61.43857850674868,72.52823231159253,18.38373483683581,7.847430283475455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827042501:0384/pct:61.42808336180389,72.51987556170066,18.38628857761075,7.850366785728003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ were citizens. V.&#x27;eie they lurking as spies? Call
 them traitors, if you please—they were not spies.—  
 Again, were they in or about the fortificat ions, rfye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827051101:0111/pct:41.89857761286333,47.950383933845245,17.67161410018553,7.028942705256941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184558:1827051101:0111/pct:41.89210078837533,47.94472005669738,17.674035141959088,7.032049767698244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ shall suffer death, according to the law and
 usage of nations, by sentence of a general court  
 martial.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827052401:0301/pct:40.62431303583205,24.22076065198742,17.124642778632666,4.175007148984844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827052401:0301/pct:40.61538461538461,24.217298070050035,17.126373626373628,4.177984274481773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ can citizen by virtue ol the powers&#x27; contained
 in this section, I am at a loss which to condemn  
 most, the ignorance, or folly of Cen Jackson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827060101:0508/pct:23.520382056967424,52.46807041767345,18.07948149411564,5.948682545161661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827060101:0508/pct:23.51637107776262,52.462034054302805,18.082082764893133,5.951833103236693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ found lurking as spies, in or about the fortifies-,
 lions or encampment of the armv of the United |  
 States, or any of them, shall suffer death, See
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827081401:0032/pct:61.425186188219364,8.206470028544244,18.195666892349358,5.280685061845861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827081401:0032/pct:61.41479099678457,8.205494113449875,18.198228690697807,5.284021088516273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +751,7 @@ States, or any of them, shall suffer death, See
 “jecortling to the law and uaage of nations, by  
 “sentence of a general court-martial.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828101601:0605/pct:1.8626813948451375,26.32615730969467,17.067359757418238,3.9257070493879276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828101601:0605/pct:1.8622780424426157,26.32245357343838,17.069077522737114,3.928671918964547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -870,7 +870,7 @@ the United States, or any of them, shall suffer death, accor­
 ding to the law and usage of nations, by sentence of a  
 general court martial.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843011801:0064/pct:90.63496665700202,200.48577376821652,40.20005798782256,17.77700670830442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843011801:0064/pct:30.20727641687201,66.82086272695733,13.398077015992657,5.9249836166685945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ of the armies of the U. S., or any of them, shall suffer death,
 according to the law and usage of nations, by sentence of a  
 general court martiul.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843013101:0104/pct:52.95622512791359,175.75547064953108,38.64411597498579,7.097371772606229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843013101:0104/pct:17.649566576666192,58.5783746237555,12.879541471270901,2.365516709114764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -910,7 +910,7 @@ encampinents of the armies of the U. S., or any of them,
 shall suffer death, according to the lawe and usage of no  
 tions, by sentence of a general court martial.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1843021301:0636/pct:204.0392383150606,344.47391688771,61.56953260242354,11.862658414382553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1843021301:0636/pct:51.0,86.10579048180345,15.389423076923077,2.9652276410785325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -995,7 +995,7 @@ of the army of the republic, or any of them, shall suffer
 death, according to the law and usage of nations, by sen  
 tence of a general coust martia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:153.18651985318652,213.55625847266154,46.57991324657991,11.782647989154993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:51.062173284395506,71.18541949088718,15.52663774885997,3.9275493297183313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1016,7 +1016,7 @@ jft be armies of tbe United States, or any one
 aws and usages of nations, by sentence of a |  
 general court martial.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:00415663456:1858052001:0478/pct:32.081911262798634,62.6297933586923,13.651877133105803,3.742160995168089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:00415663456:1858052001:0478/pct:32.09139173302996,62.63322024605051,13.656617368221465,3.7490147698845138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1038,7 +1038,7 @@ See. And he it farther enacted, That, the rules and regulations by
 wlii. h the armies of the (&#x27;onlederate States have heretofore been gov­  
 erned, and the resolves of Congress thereunto annexed, and respectin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:43.4435741224253,38.326701795892035,18.639396576733393,3.8068609527906228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861062701:0244/pct:43.43727338651197,38.32258064516129,18.640319071791154,3.8091397849462365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1086,7 +1086,7 @@ any of them, shall sutler death, according to the
 law and usage of nations, by sentence of a court-)  
 martial.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026396:1861083101:0219/pct:6.453822965195944,59.11291119233429,10.7289668402302,2.1732687938358195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026396:1861083101:0219/pct:6.453822965195944,59.1162040238401,10.742669224445054,2.1765616253416313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1117,7 +1117,7 @@ fate? The Constitution of the United States pro­
 vides that &quot;the riht oF the People to keeP and  
 BEaR ARMs Shall Not Be InFrinGed,&quot; yet Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861091101:0250/pct:85.30895334174022,91.8094787850136,50.81967213114754,32.336603238387895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861091101:0250/pct:21.33396404919584,22.9523696962534,12.708924629454431,8.084150809596974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ United States of Americe, who shall be found lurk
 in or about the fortifications or encampments of the armies of  
 the United States, shall sufter death. Second, the act passe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530741:1863060901:0268/pct:150.30793594932254,268.3625,48.68907267288404,8.3625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530741:1863060901:0268/pct:50.10264531644085,89.45416666666667,16.229690890961347,2.7875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1201,7 +1201,7 @@ Uafted States of America, who shall be found lurking as
 aptes in or about the fortifications or encampments of the  
 armies of the United States shall suffer death; second
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743440:1863060901:0600/pct:6.267123287671233,155.1895361511445,46.13013698630137,6.430907109119535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743440:1863060901:0600/pct:2.089041095890411,51.729845383714824,15.376712328767123,2.143635703039845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1273,7 +1273,7 @@ ther to assaminate or seize and carry away the soldiers
 ad citisens who wer loyal to the canse of the country.  
 erefore, on the 2i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743518:1865062801:0748/pct:159.37653011261628,206.47085819183113,48.44132528154072,34.763653051858654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743518:1865062801:0748/pct:53.12551003753876,68.82361939727704,16.14710842718024,11.58788435061955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1334,7 +1334,7 @@ Fernandina, safely boxed to prevent their contents
 being known, and on their arrival at Cedar keys  
 were stored to await the order of the party to who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869100701:0090/pct:92.97886843899114,205.20126091173617,56.407634628493525,15.397672162948593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869100701:0090/pct:30.99295614633038,68.40042030391206,18.802544876164507,5.132557387649531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -223,7 +223,7 @@ condition, not to mingle any thing, which I do
 mot sincerely conceive to belong to the sub-  
 Jey.” /
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795102001:0527/pct:48.25701624815362,29.683257918552037,19.054652880354507,14.077425842131724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795102001:0527/pct:48.26686361398326,29.689961454667337,19.054652880354507,14.080777610189374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ cal matter, connefted with many do.
 cuments, a lift of whicl he mentions.  
 He fays he is inevitably driven int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796012301:0013/pct:42.23225404732254,20.170398256389934,15.395392278953922,5.211016445413117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796012301:0013/pct:42.23744292237443,20.173700548180438,15.395392278953922,5.211016445413117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ papfr desired, before 1 forward to you
 my general letter, which is delayed for no oilier c.iujo 1 shall  
 also rely that youi will con»em to the whole of this affair, how
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831022801:0082/pct:25.496326403001408,81.20116618075802,17.39878067844302,2.4489795918367347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831022801:0082/pct:25.49234135667396,81.19169776119404,17.401271230592894,2.4525808457711444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ also rely that youi will con»em to the whole of this affair, how
 driven to the discussion of many confidential and  
 delicate points. I could immediately appeal to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1831030101:0471/pct:33.27632543366724,89.36532244342351,20.156364524798438,2.0248426067721628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1831030101:0471/pct:33.26819736199316,89.35011908812521,20.157547630679044,2.028751275944199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ tiie saase time, I prescribe to myself this condition,
 not to mingle any thing which l do not sincerely  
 conceive to belong to the subject.’’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1831030101:0471/pct:54.165648668458346,67.78968861664114,20.498411922795015,6.3127445975838015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1831030101:0471/pct:54.152418172936,67.77815583531813,20.49951148021495,6.315923783599864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

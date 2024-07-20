@@ -182,7 +182,7 @@ the unconquerable rage of tbe people, to renounce their
 ottioes &#x27;  
 &quot; The stamp act could not be executed here. Can th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851011201:0055/pct:63.84246235313586,54.053710067455775,15.588283964918087,2.545500827287769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851011201:0055/pct:63.85349440123559,54.0621950702134,15.582767940868223,2.549743328666582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ been seen to sink into universal contempt and
 ignominy.&quot; A voice &quot;Ditto the Slave Hunt­  
 er.&quot;Surely the love of freedom cannot have s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1851040301:0221/pct:31.646216768916155,104.23339540657976,15.422631220177232,12.650527622594662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1851040301:0221/pct:23.747016706443915,78.17504655493482,11.575178997613365,9.497206703910615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ whatever his fortune, connections, and influence had
 been, has been seen to sink into universal contempt  
 .sad ignominy.1 ; A voice, Ditto the slave hun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851043001:0306/pct:6.9155092592592595,42.74159216687952,20.92013888888889,20.019157088122604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851043001:0306/pct:5.196121001592126,32.05619412515964,15.689680127370098,15.017028522775648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ ment of the people, that every man who has dared to ! slavery is held, might be 
 speak in favor of the stamps, or to soften the deles- nature of the institution, but to ihe terms by which  
 tation in which they are held, how great soever his it has been characterized. Northern writers hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851043001:0211/pct:8.881163084702907,43.125544357347266,39.87041719342604,15.777031230558666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851043001:0211/pct:6.67193675889328,32.35037949483638,29.91304347826087,11.832773422918999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ from Georgia to New Hampshire inclusive, the stamp distri­
 butors and inspectors have been compelled, by the uncon­  
 querable rage of the people,to renounce their offices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851052301:0243/pct:22.05402196497477,17.555705604321403,16.013653903235383,3.472557152503135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851052301:0243/pct:22.05402196497477,17.56213626571493,16.023548036014642,3.4693418218063727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ bis fortune, connections, and influence had been, has
 been seen to sink into universal contempt and ignominy.&quot;  
 The Stamp Act Iteeame a dead letter. A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852090201:0609/pct:0.7164790174002047,40.26251823043267,14.75361895013891,7.447739426349052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852090201:0609/pct:0.7164790174002047,40.26900016204829,14.763366963981088,7.444498460541241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ tione, and influence had been, has been seen to sink
 into universal contempt and ignominy.”  
 The Stamp Act became a dead letter. At th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172145:1852091501:0275/pct:83.44774980930588,30.847061875729665,18.1350114416476,10.533143079517448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172145:1852091501:0275/pct:64.67806295876645,23.9067055393586,14.05980590176856,8.166616400254684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ been compelled, by the unconquerable rage of the people,
 to renounce their offices.&#x27;  
 &quot;The stamp acteould not lie executed here Can th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854031501:0404/pct:68.04705124073477,75.5461320997173,15.372220431840155,2.492932408121306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854031501:0404/pct:68.04705124073477,75.55041548873469,15.388333870447953,2.497215797138696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

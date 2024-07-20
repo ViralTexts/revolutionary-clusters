@@ -92,7 +92,7 @@ discourses on the neceflity of marryiong re
 husbands and wives Bcing of the {fame. oe  
 pinions in religion ‘with ‘ohe another
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796022001:0031/pct:72.97805642633229,47.44496463791214,16.018808777429467,12.232294053192549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796022001:0031/pct:72.98850574712644,47.451605405584885,16.024033437826542,12.23561443702892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ ligious husbands and wives only, asalfo of
 hafbands and wives being of the f{ame o­  
 pinious in religion with one another
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796022701:0033/pct:38.459143968871594,19.41041728911463,34.599221789883266,74.0762872223882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796022701:0033/pct:38.459143968871594,19.417056734057034,34.60440985732814,74.0762872223882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ ligious husbands and wives only, asallo of
 husbands and wives ‘being of the fame o­  
 pinious in religion with one another. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796030501:0040/pct:45.258951897956045,44.52184296944969,16.059628092823115,2.9057617673400338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796030501:0040/pct:45.258951897956045,44.52184296944969,16.069873469596846,2.9157130062692804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ l:gious husbands and wives only, as also of
 husbands and wives being of the fame o­  
 pinions lin religion with one another
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796031901:0045/pct:8.405172413793103,51.37715024361142,15.82512315270936,9.893606443273342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796031901:0045/pct:8.410303776683087,51.37715024361142,15.830254515599343,9.893606443273342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ yet the ensiness and order with which the whole was co
 diteted, it was the most grand, the most elegant ente  
 tainm ut that has been made in these parts of America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531253:1876061601:0580/pct:4.128137384412153,221.95856001852067,47.457067371202115,9.28348188447737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531253:1876061601:0580/pct:1.376045794804051,73.98618667284022,15.819022457067371,3.0944939614924567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

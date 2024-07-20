@@ -141,7 +141,7 @@ Yet lives our pilot still: Is&#x27;t meet that he
 Should leave the helm, and like a fearful lad,  
 With tearful eyes add water to the sea,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1864060901:0248/pct:62.13890596189305,297.50489236790605,44.314689612784264,14.285714285714286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1864060901:0248/pct:15.53711387736284,74.37622309197651,11.080374980789918,3.5714285714285716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ Yet lives our pilot still: Is&#x27;t meet that he
 Should leave the helm, and like a fearful lad,  
 With tearful eyes add water to the se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184753:1864061501:0290/pct:67.66200762388819,27.717011868745637,43.519695044472684,19.769606702350476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184753:1864061501:0290/pct:22.550420835318405,9.237929028504945,14.504261288444233,6.589102191196432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

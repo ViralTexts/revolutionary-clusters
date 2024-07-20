@@ -61,7 +61,7 @@ others in their stead ; and also upon Spirits
 Distilled within the United States, and for ap­  
 propriating the fame.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031901:0001/pct:7.10077519379845,12.135265700483092,80.18604651162791,14.666666666666666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791031901:0001/pct:7.108527131782946,12.140096618357488,80.2015503875969,14.676328502415458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -87,7 +87,7 @@ and referred to a committee of the
 der of the day, resumed the considera­  
 tion of the bill, to eftablith offices, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791031901:0767/pct:49.369544131910764,20.184948979591837,20.61105722599418,9.661989795918368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791031901:0767/pct:49.37762689945037,20.184948979591837,20.619139993533786,9.667304421768707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ others in their stead ; and also upon Spirits
 Distilled within the United States, and for ap­  
 propriating the fame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791032601:0001/pct:5.7272727272727275,15.023474178403756,57.81818181818182,76.86384976525821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791032601:0001/pct:5.7272727272727275,15.03755868544601,57.84090909090909,76.85446009389672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ spirits diitilled within the
 Uniteg Sgates; and for ap­  
 propriating the fame.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791050501:0795/pct:6.197046719922537,3.908742820676452,85.52408617768094,25.861518825781747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791050501:0795/pct:6.213184862422335,3.919378855562646,85.54022432018074,25.850882790895554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ of distilled {pirits, and distillers of spi­
 rits from foreign materials, and of those  
 the growth or produttion of this coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791060901:0818/pct:7.8478002378121285,64.0,20.57074910820452,11.854251012145749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791060901:0818/pct:7.8636543797066984,64.01079622132254,20.562822037257234,11.859649122807017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ of distilled spirits, and distillers of fpi=
 rits from foreign materials, and of those  
 the growth or produétion.of this coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791062301:0823/pct:69.15731678204823,76.4158511150329,20.91191215087133,11.647681694208247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791062301:0823/pct:69.17323147927111,76.42654687416439,20.903954802259886,11.647681694208247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ denominated collectors of the revenue. Tlfe
 number has been of necessity left to the discretion  
 of the supervisor. with these wn,r,&#x27; ; • Uo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791110301:0002/pct:52.738283307003684,6.0606060606060606,36.36124275934702,85.45078110295502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1791110301:0002/pct:52.74486571879937,6.070016939582157,36.38098999473407,85.45548654244307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ tf others in their stead, and also upon fpirita dif­
 &quot; tilled within the United States, and for appro­  
 ** priating the fame*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792051701:0004/pct:6.798780487804878,41.88267394270123,20.548780487804876,3.858896901188852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792051701:0004/pct:6.8064024390243905,41.89241863184564,20.5640243902439,3.8686415903332683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ and taken to corrcfpond with those mentioned in the 44 ast rc­
 4&lt; others in their stead, and also upon spirits distilled within the  
 44 United States, and for appropriating the fame.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792051901:0001/pct:5.513307984790875,52.545743834526654,27.978453738910012,3.2219570405727924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792051901:0001/pct:5.537072243346008,52.55071599045346,27.96261089987326,3.241845664280032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ their stead ; and also upon spirits distilled within the United
 States, and for appropriating the fame,&quot; shall extend to, and be  
 in full force for the collection of the duties fpecified and laid i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792051901:0001/pct:34.72750316856781,45.52505966587112,27.82002534854246,4.534606205250597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792051901:0001/pct:34.72750316856781,45.52505966587112,27.84378960709759,4.534606205250597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ heretofore laid upon distilled Ipirits imported from
 ipon spirits distilled within the Unir»d States,  
 and for appropriating the fame,&quot; fiiall prior t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792061101:0001/pct:29.931761786600497,74.95635305528613,20.471464019851116,3.821532492725509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792061101:0001/pct:29.931761786600497,74.96605237633365,20.47921836228288,3.8263821532492726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ King and Queen, King William, Hanover, Caroline,
 Spottsylvania, Stafford, Prince William, Fairfax, Alex­  
 andria, Loudoun, Fauquier and Rappahannock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072301:0073/pct:50.43971076802814,49.14001421464108,14.500683994528044,4.136460554371002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072301:0073/pct:50.42985541227042,49.13303013075611,14.50273544353263,4.139425810119386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -748,7 +748,7 @@ and Essex.
 Tne filth circuit, of the counties of Stafford, Prince Wil­  
 liam, Fairfax, Alexandria, Loudoun, Fauquier and Rapya
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851072501:0368/pct:51.530311948204826,40.156946328230966,15.744555620953502,2.5188916876574305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851072501:0368/pct:51.530311948204826,40.16340502486598,15.754365312929174,2.52212103597494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ the following counties, cities and towns,
 viz: Culpeper, Madison, Greene, Orange,  
 Louisa, Goochland, Fluvanna, Albemarle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851072801:0170/pct:6.388575723412251,311.6259358666478,46.84329199549042,31.204972453736403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851072801:0170/pct:1.5968438850272402,77.8954802259887,11.708622956979147,7.800141242937853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ Prince George, Dinwiddie, Brunswick,
 Mecklenburg, Lunenburg, Nottoway, A­  
 melia, Chesterfield, Powhatan and city o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851072801:0170/pct:54.41563322059376,21.30244384800113,45.71589627959414,15.892075151857608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851072801:0170/pct:13.601352620702611,5.324858757062147,11.426826977268458,3.972457627118644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -821,7 +821,7 @@ i.\. The counties of Stafford, Prince
 William, Alexandria, Fairfax, Loudoun,  
 Fauquier and Rappahannock shall consti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0104/pct:18.14480439015755,46.12676056338028,12.834129934501682,4.293066088840737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0104/pct:18.141592920353983,46.120514556533514,12.836283185840708,4.295870006770481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -842,7 +842,7 @@ ei. thth circuit.
 i ’.v. The counties of Stafford, Prince \Y illiam,  
 Alt xandria, Fairfax, Loudoun, Fauquier an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0390/pct:24.96969696969697,78.10695628265054,14.986225895316805,3.100082485565026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0390/pct:24.966945791097398,78.10158773798887,14.988247392390187,3.1021605150411253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ the terms of Circuit Courts of the counties of Lan­
 caster, Northumberland, Richmond, Westmoreland,  
 King George, Spottsylvania, Caroline, Hanover
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853020701:0078/pct:119.7324414715719,130.8781442988402,53.939056112969155,6.371441482150926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853020701:0078/pct:29.933110367892976,32.71953607471005,13.484764028242289,1.5928603705377316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ the counties of Lancaster, Northumberland, Rich­
 mond, Westmoreland, King George, Spottsylvania,  
 Caroline, Hanover, King William, King and Quee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191010:1857072101:0069/pct:50.0924784217016,224.13307325530994,37.14549938347719,3.9445166883398355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191010:1857072101:0069/pct:16.697492807233868,74.71102441843664,12.381833127825729,1.3148388961132784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ district, c unposed of the counties of
 Lancaster,Northumberland, Richmond  
 Westmoreland and King George, in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_glass_ver01:data:sn87060165:00175032149:1899081701:0254/pct:2.10115563559958,77.6100086281277,12.036620141077593,1.8011216566005177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_glass_ver01:data:sn87060165:00175032149:1899081701:0254/pct:2.1111611386262443,77.61360368133448,12.03161738956426,1.8083117630140926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

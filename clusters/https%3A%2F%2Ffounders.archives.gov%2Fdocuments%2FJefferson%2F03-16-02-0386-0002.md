@@ -704,7 +704,7 @@ To feed on hopi-, to pine with fear and sorrow;
 To fawn, to crouch, to walk, to ride, to run,  
 To spend, to give, to want, to be undone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824031701:0107/pct:24.64788732394366,51.517280134869345,18.812877263581488,4.846867097499297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824031701:0107/pct:19.107022194500754,39.932496189301006,14.58495763813088,3.7562604340567614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ To rat thy heart thro’ comfortless despairs,­
 To faum, to crouch, to wait, Utride, to run,  
 1 o spend, to give, to want, to he undone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826061201:0459/pct:25.84120669650257,88.6823948364122,15.266036797613127,6.176274204317828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826061201:0459/pct:25.836924096784884,88.6725269834205,15.269031046293227,6.1792960201772935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1299,7 +1299,7 @@ To eat thy heart through comfortless despairs;
 To fawn, to crouch, to wait, to rjde, to run;  
 To spend, ;o give, to want, to be undone ’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215701:1842030401:0309/pct:18.336907779294208,21.206383554233163,14.690972899200624,5.903435217744117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215701:1842030401:0309/pct:18.33512038210352,21.204949624721078,14.692790070507197,5.905289967768837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1562,7 +1562,7 @@ spend, to give, to want, to be undone
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1850-01_11_25/page/n90/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1850-01_11_25/page/n90/mode/1up?view=theater)
 
 #### 1850-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1733,7 +1733,7 @@ To fawne, to crouohe, te waite, to ride, to ronnt;
 Tctspend, to give, to want, to be undone.  
 Unhappy wight, borne to disastrous end
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854120901:0368/pct:80.25251808767202,83.12356353288826,14.243155057454958,6.314983036007442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854120901:0368/pct:80.25724689081194,83.1308598737733,14.243155057454958,6.314983036007442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1751,7 +1751,7 @@ To eat thy heart through corufortle despair,
 To ihtn, to crouch, to wait, to ride, to run,  
 To jnd, to jtiYe, to want, to be undwne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014286:0020219168A:1855062101:0097/pct:6.9378557874762805,54.19541301510349,11.824003795066414,1.6874883460749581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014286:0020219168A:1855062101:0097/pct:5.206974261653422,40.648890546336006,8.872019926461867,1.2679470445646093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1774,7 +1774,7 @@ To have thy Prince&#x27;s grace, yet want his Pet
 T&#x27;o have thy asking, yet wait many yeeres  
 To fret thy soul with crosses, and with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1856032901:0115/pct:320.51739518287246,69.68618570042058,49.26404995539697,16.062762859915885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1856032901:0115/pct:80.11148272017837,17.418728772440563,12.313266443701226,4.015041242115478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1860,7 +1860,7 @@ donne.”
 &quot;To fawne, to crouch, to wait, to ride, to run,  
 To spend, to give, to want, to be undone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623483:1858042901:0256/pct:159.963436928702,191.2020656019891,41.34238704622617,2.7541359854642824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623483:1858042901:0256/pct:53.32114564290067,63.7340218673297,13.78079568207539,0.9180453284880941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1920,7 +1920,7 @@ To cat thy heart with comfortless despairs ;
 To fawn, to crouch, to wait, to ride, to run ;  
 To spend, to give, to want, to be undone!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1859091001:0305/pct:37.63659937025375,62.722965440356745,12.37266160400074,4.584726867335563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1859091001:0305/pct:37.65049083163549,62.72644927536232,12.381922578255232,4.5916945373467115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1947,7 +1947,7 @@ To fawne, to crowche, to waite, to ride, to ronne,
 To spend, to give, to want, to be undonne  
 Unhappie wight, borne to disastrous end
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861032701:0433/pct:66.77942212825934,115.24458456218855,41.08527131782946,17.44126919556595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528682:1861032701:0433/pct:22.259807376086446,38.41486152072952,13.695090439276486,5.813756398521984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2200,7 +2200,7 @@ spend. &#x27;
 Elsewhere, the poet adds:  
 Such &quot;curse God Bend unto mine enemy!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027007:00294551633:1865072001:0120/pct:19.881440948472413,61.3226124056449,19.471044231646147,18.24745651460453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027007:00294551633:1865072001:0120/pct:19.881440948472413,61.33355212777595,19.50144398844809,18.241986653539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2339,7 +2339,7 @@ To fawne, to crouche, to waite, to ride, to
 runne;  
 To spend, to give, to want, to be undone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293009:1869120501:0679/pct:220.04662004662003,315.59507523939806,37.52913752913753,7.7975376196990425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293009:1869120501:0679/pct:55.03570908030899,78.89876880984951,9.386386824078123,1.9493844049247606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2539,7 +2539,7 @@ To eat thy heart with comfortless despair;
 To fawn, to crouch, to wait, to ride, to run,  
 To spend, to give, to want, to be undone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293496:1874061201:0561/pct:35.62874251497006,73.59445483551546,14.386227544910179,5.204092859500495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85033699:00200293496:1874061201:0561/pct:26.729559748427672,55.19859170425789,10.79664570230608,3.9058202222466716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2751,7 +2751,7 @@ To spend, to give, to want, to be undone.”
 is to fret thy soul with crosses and with cares,  
 to eat thy heart through comfortless despairs, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533481:1876051401:0066/pct:286.55146506386177,63.344146269537006,49.812171299774604,3.656738425243291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533481:1876051401:0066/pct:71.67825596692352,15.836036567384252,12.460063897763579,0.9141846063108228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2775,7 +2775,7 @@ To cat thy heart thro&#x27; comfortless despairs,
 To fawn, to crouch, to walt, to ride, to run,  
 To spend, to give, to want--to be undone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878070301:0023/pct:80.32786885245902,236.1132364192808,46.19093539054966,17.67406273909717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878070301:0023/pct:20.096501809408927,59.0283091048202,11.556091676718939,4.418515684774293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3034,7 +3034,7 @@ To waste long nights in pensive discontent;
 To speed to-day, to be put back to-morrow;  
 To feed on hope, to pine with fear and sorrow.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:0019991974A:1888031401:0130/pct:10.457371225577266,20.97500388138488,18.49467140319716,3.974538115199503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:0019991974A:1888031401:0130/pct:10.457371225577266,20.980179061222376,18.49467140319716,3.9797132950370027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3225,7 +3225,7 @@ spairs; f
 To fawn, to crouch, to wait, to ride, to run;  
 To spend, to give, to wait, to be undone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654966:1894082501:0062/pct:42.549306062819575,91.37651821862349,14.04309715120526,6.747638326585695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654966:1894082501:0062/pct:42.55843681519357,91.38663967611336,14.047662527392257,6.7408906882591095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3420,7 +3420,7 @@ pairs;
 To fawn, to crouch, to wait, to ride, to run.  
 To spend, to g&#x27;ve. to want, to be undone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769258:1897051501:0078/pct:17.329183760079218,67.68182302204238,11.246286603479984,5.87796826749015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769258:1897051501:0078/pct:17.333899184231623,67.68182302204238,11.246286603479984,5.885067262982288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3455,7 +3455,7 @@ speirs
 To fawn, to crouch, to watt, to ride, to run  
 To spend, to give, to want, to be undon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034894:1897061301:0888/pct:48.92665474060823,183.17373461012312,52.23613595706619,10.807113543091655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_delta_ver01:data:sn86071197:00175034894:1897061301:0888/pct:12.231663685152057,45.79343365253078,13.059033989266547,2.7017783857729136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3649,7 +3649,7 @@ run.
 To spend, to give, to wait, to be un­  
 done!&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013456:1899020901:0097/pct:33.4921107472462,38.182199832073884,19.321226555522475,21.452560873215784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013456:1899020901:0097/pct:33.482142857142854,38.17418677859391,19.322916666666668,21.45330535152151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3691,7 +3691,7 @@ to roune,
 Tp spend, to give, to want, to be un­  
 donne.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_clabbert_ver01:data:sn85040451:00414215142:1899051701:0283/pct:85.55092156598951,40.069981974339946,12.457957755953181,14.452338034142722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_clabbert_ver01:data:sn85040451:00414215142:1899051701:0283/pct:66.30174121572307,31.059796751307967,9.658360268307094,11.203330868052703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3732,7 +3732,7 @@ to roiine.
 To spend, to give, to want, to be un­  
 donne.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1899051801:0929/pct:66.01903251387787,86.62551440329219,18.04123711340206,18.463648834019203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768965:1899051801:0929/pct:51.175416133162614,67.13561784613204,13.98719590268886,14.313051490130762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3774,7 +3774,7 @@ to roune,
 To spend, to give, to want, to be un­  
 donne.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_hodag_ver01:data:sn86086586:00414214447:1899051901:0103/pct:35.27847746991324,66.3258480649785,14.301707248810523,14.33349259436216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_hodag_ver01:data:sn86086586:00414214447:1899051901:0103/pct:35.28314208414964,66.33221850613155,14.301707248810523,14.32712215320911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

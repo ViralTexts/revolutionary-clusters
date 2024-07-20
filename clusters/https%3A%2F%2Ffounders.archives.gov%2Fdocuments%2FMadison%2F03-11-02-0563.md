@@ -73,7 +73,7 @@ may be tendered more dear and precise
 an their import.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1816121001:0248/pct:63.00920867800843,37.087712939470826,18.54221944747932,12.939470822761871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1816121001:0248/pct:62.999375780274654,37.08435263205581,18.544527673741158,12.941318595028843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ rendered more clear and precise in their im­
 port. &#x27;  
 . JAMES MADISO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816121001:0268/pct:84.30820215410108,88.33962264150944,14.581607290803646,8.666666666666666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816121001:0268/pct:84.29423459244533,88.32851213683813,14.584713938590678,8.669769001802708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ how far other provisions of the act may
 fc«- re. dered more clear and precise* it,  
 the a impoit. JAMES MADISUN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816121101:0164/pct:42.65747654604633,5.258432730537386,34.482098410874976,90.17570860587405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816121101:0164/pct:42.64931087289433,5.257758399589639,34.4818785094436,90.16841925279986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ port.
   
 ~ Dee. 6, 1816, JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816121801:0401/pct:74.16364369205965,5.241935483870968,21.54373236598146,12.200460829493087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1816121801:0401/pct:74.17036141340857,5.241935483870968,21.55045008733038,12.211981566820276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

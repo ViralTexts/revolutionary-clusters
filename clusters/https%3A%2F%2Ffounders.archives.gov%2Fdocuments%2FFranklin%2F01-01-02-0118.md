@@ -242,7 +242,7 @@ then, that such a prooedure would aecure her hus
 in the law from being sued for any of the  
 debts of his predecessor. Then, as if fearing tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174383A:1873072801:0317/pct:98.54636591478696,242.97577067455353,52.514619883040936,7.325673984757138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:0027174383A:1873072801:0317/pct:32.84878863826232,80.99192355818451,17.50487329434698,2.4418913282523795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ nine to half-past twelve in the morning, from two to five
 in the afternoon and in the evening from half-past seven to  
 half-past nine, and that from half-past nine in the mornin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743920:1876021601:0491/pct:102.01804757998359,38.09960982327289,48.87612797374897,6.288730778058297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743920:1876021601:0491/pct:34.006015859994534,12.699869941090965,16.292042657916326,2.096243592686099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ j entertainment was provided, and the pro­
 - .1 nil other persons Of distinction hon­  
 or.&#x27;! the society with their presence.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_napa_ver01:data:sn82015104:00175036672:1891072101:0031/pct:18.14829987709955,80.55140838061112,12.576812781646867,5.69324176371056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_napa_ver01:data:sn82015104:00175036672:1891072101:0031/pct:18.14829987709955,80.55140838061112,12.585916518730938,5.703194983577188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ prietor (Thomas Penn), the Governor and
 several other geuons ot distinetion honored  
 the society with their presence.’”” This para
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1891080101:0865/pct:6.944444444444445,44.08514121981171,20.28423772609819,5.7408923454768725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153292:1891080101:0865/pct:6.944444444444445,44.091963432937646,20.295004306632215,5.737481238913904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ several of the London papers at that time.
 Philadelphia Press.  
 She Introduced Herself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn88061072:00296020655:1891090801:0877/pct:40.49730146491905,36.73583066425289,16.46106399383192,11.00125330733881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn88061072:00296020655:1891090801:0877/pct:30.3895102198226,27.558835816738615,12.360200539915157,8.257902799053056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ proprietor ( Thomas Penn ) . the govoruor.nnd
 several other persons. of distinction honored  
 the society with their presence. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206539148:1891092701:0045/pct:58.08773132282385,48.197650870797894,16.24400274160384,5.494802214121776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206539148:1891092701:0045/pct:43.59677695868335,36.15498852436884,12.189267958169038,4.117726474956123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ several of the London papers at that time.
 Philadelphia Press.  
 She Introduced Herself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn92051501:00271763645:1891100801:0152/pct:80.9667240390132,54.01658902397455,14.343086632243258,9.862515623224633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn92051501:00271763645:1891100801:0152/pct:60.73734041027112,40.51812294057493,10.75885812652417,7.396886717418475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ the Governor and several other persons of
 distinction honored tho society with their  
 presence.&quot; This paragraph was reprinte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_kaweah_ver01:data:sn94052989:00175040110:1891102701:0490/pct:61.72541445356511,69.01651466600937,10.719459198454853,4.362829677101306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_kaweah_ver01:data:sn94052989:00175040110:1891102701:0490/pct:61.72541445356511,69.02575794922356,10.7436021245775,4.368991865910772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +655,7 @@ I ftnd the proprietor, Thomas Venn, the gov­
 ; ernor and several other persons of distinc­  
 tion honored the society with their pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478155:1894052901:0408/pct:38.322759714512294,43.84787472035794,16.653449643140366,7.8694565074351885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478155:1894052901:0408/pct:28.76413410037691,32.88590604026846,12.49752033326721,5.908672193709698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

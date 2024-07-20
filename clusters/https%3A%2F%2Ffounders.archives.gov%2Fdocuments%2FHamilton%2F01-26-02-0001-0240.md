@@ -171,7 +171,7 @@ vices Siom thofe who may have confined
 important interefti t&gt; me and exooSe  
 them to the of f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0003/pct:3.485148514851485,57.555354136993394,18.752475247524753,26.53114074841383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0003/pct:3.4917491749174916,57.56398636108593,18.745874587458747,26.53114074841383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ ly instructed in their cause. I shall also
 want a little time to make some arrange­  
 ments respecting my own affairs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0017/pct:51.500123977188196,5.110410094637224,42.8961071162906,89.10094637223975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0017/pct:51.4873574615766,5.10960416338117,42.89167079821517,89.090837407349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ confided important interefts to ire, and expofe them to
 the embarraA nent offeekirig other rounfel, who may  
 ror have time *o be inAruiHcd in their cmife. I Aial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0099/pct:6.386066763425254,68.09488325881769,17.761248185776488,18.703427719821164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0099/pct:6.384908398331217,68.08642741835341,17.764072797629844,18.705244422368477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ suHi&#x27;-iently instructed in their cause. I
 shad also want a little time to make some  
 arrangements rt-peSling my own affairs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0224/pct:4.3494922398927,12.069191455903551,17.876987928721977,32.45970383960162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0224/pct:4.3486590038314175,12.067610062893081,17.879948914431672,32.459818308874915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ he can mever fubmit, Frequert allufion has
 been made w fanders fuid to be in circulation.  
 Whe het they are open
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0529/pct:12.753074739829707,64.72977547105945,20.491958372753075,18.266952499153785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0529/pct:12.753074739829707,64.72977547105945,20.504572690003155,18.266952499153785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ their caufe. I ftall alfo want a little time to
 make Lmc arrangements refpe&amp;ing my own af­  
 fairs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0160/pct:4.749163879598663,28.55213398163155,23.38907469342252,29.376012965964343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0160/pct:4.748105216228265,28.548278190411885,23.38943379402586,29.37542201215395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ mifunde:flood. M’r_-l_?i,cﬂ.d}twn}‘ therefore
 preient difcoffion written or verbal,thee has  
 been no iorearin to gvade, dey, or infu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:41.20205000776518,82.81490015360983,16.55536574002174,7.939708141321044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:41.212403582336805,82.82130056323605,16.55536574002174,7.939708141321044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ fufficiently inflru@ed in their caufs, Ikall
 allo want a f’tdle time to make some arrange­  
 meats relpeling my own aflairs. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:58.642646373660504,19.105222734254994,16.601956825594037,13.556067588325654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804073101:0535/pct:58.64782316094632,19.111623143881207,16.607133612879846,13.55926779313876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ suBciciidy instructed in their cause. I
 a little time to make  
 arrangements respecting my own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0312/pct:31.655266757865938,26.268084364650512,19.890560875512996,35.48893149729824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0312/pct:31.64660831509847,26.263506448239806,19.89195842450766,35.48710352039038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ ment respecting my own affairs
 “ openly or in whispers, they have a form  
 and shape and might be specified.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804083001:0080/pct:25.890552400619516,48.71031746031746,20.263293753226638,1.4219576719576719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804083001:0080/pct:25.883870967741935,48.70226483716317,20.26451612903226,1.4258555133079849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1086,7 +1086,7 @@ their causes. I shall also want a iiitle lime to
 wake some arrangements respecting my own  
 affairs.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846092501:0512/pct:22.606863335340158,14.62461432979088,14.920730483644391,20.63764141241001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846092501:0512/pct:22.604595164041335,14.623611682435213,14.922577840206014,20.638511814982405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1195,7 +1195,7 @@ their causes. I shall also want a little time to
 make some arrangements respecting my own  
 aflairs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0332/pct:319.46508172362553,95.99287622439893,48.88558692421991,77.23360047491838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0332/pct:79.86627043090638,23.99821905609973,12.221396731054977,19.308400118729594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1253,7 +1253,7 @@ sufficiently instructed in their causes. 1
 hall also want a little time to make some ar-  
 ranaements resnectiuff mv own affairs.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846112101:0482/pct:45.5957086391869,38.636623584581955,19.904009034443817,34.13016127187464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846112101:0482/pct:34.20866864323027,28.98318654923939,14.92305520259777,25.59762095390598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1282,7 +1282,7 @@ and overy person who may have understood
 him in un unfavorable sense,&quot; as though a P?*  
 man&#x27;s convenience should ever stand in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1853042701:0259/pct:2.5444143330322193,35.93083314619358,14.558867810900331,2.6723557152481474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862634:1853042701:0259/pct:2.5494329017364246,35.938318736432365,14.573923517012949,2.6760985103675425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

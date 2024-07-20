@@ -858,7 +858,7 @@ dt&#x27;iiJ was Major General Joseph Warren, a
 inau whose memory will be endeared to Ids  
 con titty men so lung ns virtue and valor shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825063001:0349/pct:82.96952224052718,63.81762204955285,14.909390444810544,3.75311537897669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825063001:0349/pct:82.95243977764052,63.808267370272645,14.91146798435248,3.756229844620346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -884,7 +884,7 @@ creants who have iiitruduced horror, drsnin­
 tion and havoc into these oaee happy abode*  
 of liberty, peace und plenty. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825063001:0349/pct:82.8665568369028,70.18032546547427,14.868204283360791,7.682158041342912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825063001:0349/pct:82.84949557339922,70.17003811199062,14.87029030265596,7.6846965699208445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1885,7 +1885,7 @@ the dead, as a man whose memory will be endeared
 part ard age of the world, so long as virtue and  
 valor shall be esteemed among mankind. Eighty-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530546:1857061801:0553/pct:101.34217067108534,211.68507303170645,46.843413421706714,6.365039781498634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530546:1857061801:0553/pct:33.780723557028445,70.56169101056882,15.614471140568904,2.1216799271662117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1917,7 +1917,7 @@ men, and to the worthy in every part and age of
 the world, so long as virtue and valor shall be es  
 teemed among mankind.&quot; Eighty-two years hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191009:1857062001:0587/pct:55.394411036434384,161.50522146200936,42.87230279448178,9.698715640379307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191009:1857062001:0587/pct:18.46480367881146,53.835073820669784,14.290767598160594,3.2329052134597687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1945,7 +1945,7 @@ countrymen, nud to the worthy in every part ami
 age of the world, so long as virtue and vaiof shall  
 be esteemed among mankind.” Eightr-twe rear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1857062501:0520/pct:21.012795098215896,87.89364997418689,14.471075869526041,1.8327310273618997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182987:1857062501:0520/pct:21.00900900900901,87.88230739450252,14.472972972972974,1.8357207381597624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1974,7 +1974,7 @@ to the worthy in every part and age of the
 world, so long as virtue and valor shall be  
 esteemed among mankind.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1857062601:0109/pct:37.470542026708564,52.90888075515315,34.10578685519769,7.031400500866885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1857062601:0109/pct:12.488545621154602,17.634595011075795,11.36710738752891,2.3435744325660535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2087,7 +2087,7 @@ o do. These formed the extreme left of the British,
 rd alvanced from the south; the 5th, the 28th and  
 42d battalions formed the center, and attacked f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530583:1858041301:0086/pct:250.76108537392454,225.97606672307506,48.14692256783587,20.282847818203795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530583:1858041301:0086/pct:83.58702845797485,75.32535557435835,16.048974189278624,6.760949272734599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2116,7 +2116,7 @@ seemed to hesitate on the beach as if uncer­
 tain what to do. These formed the extreme  
 left of the British, and advanced from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1858050701:0282/pct:206.20805369127515,46.78954222177702,36.297539149888145,21.376339777621958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1858050701:0282/pct:68.7264084999301,15.594951923076923,12.097488233375273,7.124732905982906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2146,7 +2146,7 @@ fence and the bank of the Mystic. They
 had repulsed the enemy twice; they now  
 held them in check, till the main body ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1858050701:0282/pct:206.45973154362417,132.9760593008114,35.752237136465325,22.848843033156367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1858050701:0282/pct:68.81028938906752,44.32091346153846,11.915746306910853,7.615518162393163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2173,7 +2173,7 @@ passage across the Charlestown causoway,
 were the principal places of slaughter.  
 Putnam, at the third onset, was absent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1858050701:0282/pct:206.3758389261745,161.3743363718321,35.83612975391499,18.67174196133427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1858050701:0282/pct:68.78232909268839,53.78605769230769,11.943706603289995,6.223290598290598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2194,7 +2194,7 @@ the worthy in every part and age of the
 world, so long as virtue and valor shall be  
 esteemed among men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1858050701:0282/pct:244.6728187919463,123.72032455173796,35.961968680089484,10.317539817690074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:0027952388A:1858050701:0282/pct:81.54620438976653,41.23597756410256,11.985647047858707,3.43883547008547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2346,7 +2346,7 @@ ed the extreme left of the British, and advanced
 from the south; the Mb, the 38lh and 43d bat­  
 talions formed the c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1858061601:0402/pct:6.632556376729203,28.721399730820995,14.079969679742279,14.562584118438762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1858061601:0402/pct:6.646768997536479,28.72476446837147,14.079969679742279,14.562584118438762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2373,7 +2373,7 @@ seen an engagement before. Trevett and his
 men drew off tiie only field piece that was saved.  
 I’omeroy walked backward, facing the enem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1858061601:0402/pct:6.045101383361758,68.15612382234185,14.515823384498768,6.527590847913863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1858061601:0402/pct:6.045101383361758,68.1628532974428,14.525298465036952,6.534320323014805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2422,7 +2422,7 @@ treat. He ntys
 &quot;The Ifttlo handful of brave men would have  
 been effectually cut off, but for the unfailin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1858062601:0323/pct:93.96825396825396,21.890007745933385,16.706349206349206,3.749031758326878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1858062601:0323/pct:70.51816557474687,16.421378776142525,12.54715108199325,2.8195197521301316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2443,7 +2443,7 @@ gagement. Trcvctt and bis men drew off the
 only field piece that was sav ed. l&#x27;omeroy walk­  
 ed backwards, facing the enemy and brandish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1858062601:0323/pct:93.96825396825396,30.069713400464757,16.765873015873016,4.601084430673896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777353:1858062601:0323/pct:70.51816557474687,22.556158017041053,12.586857256303356,3.4546862896979085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2478,7 +2478,7 @@ so short a time under dicipline, and many
 of whom had never before seen an engage-  
 ment. Trevett and his men drew off th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1858070701:0147/pct:194.13823272090988,103.83954154727793,61.5923009623797,44.126074498567334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1858070701:0147/pct:48.545176110260336,25.959885386819483,15.401443885364253,11.031518624641834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2500,7 +2500,7 @@ in every part and age of the world, so long
 as virtues and valor shall be esteemed  
 among men.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1858070701:0147/pct:256.6929133858268,137.93696275071633,62.729658792650916,16.79083094555874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1858070701:0147/pct:64.18726755633341,34.48424068767908,15.685845548020128,4.197707736389685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2585,7 +2585,7 @@ j what to do. These formed the extreme left of
 the British, and advanced from the South ; the  
 Oth, the 08th and 48 battalions Harmed th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1858072401:0295/pct:69.53463203463204,15.842651219183619,13.023088023088023,10.359692846557996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1858072401:0295/pct:69.53463203463204,15.84938704028021,13.023088023088023,10.356324936009699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2619,7 +2619,7 @@ had never seen an engagement before. Trc­
 vclt and his men drew olf the only Held piece  
 that was saved. Pomeroy walked backward
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1858072401:0295/pct:69.67893217893217,48.92900444564192,12.878787878787879,10.400107773137545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014488:00279557438:1858072401:0295/pct:69.68795093795094,48.92900444564192,12.887806637806637,10.406843594234138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2660,7 +2660,7 @@ to the other, so that the Americans
 were obfiged to crowd within their fort.  
 Then the British troops, having dise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1860112101:0074/pct:125.93113141250879,249.74253347064882,50.17568517217147,16.014418125643665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn85029094:00237281858:1860112101:0074/pct:31.499384777641062,62.435633367662206,12.550536122341361,4.003604531410916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2692,7 +2692,7 @@ the head of a column, to a spot within two hundred paces
 of the bridge, where he was repulsed by a murderous fire.  
 The fate of the column resembled that of tiie British a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026213:print00211110119:1863021501:0006/pct:43.23631704191836,28.36596084698362,12.227713710415523,6.7652150752430416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026213:print00211110119:1863021501:0006/pct:43.24089328207944,28.37594886136636,12.232289950576606,6.7618857371154615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2721,7 +2721,7 @@ be endeared to his countrymen and to the worthy in every
 part and age of the world—so long as virtue and valor  
 shall be esteemed amonc mankind.” The contemporar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026213:print00211110119:1863030101:0006/pct:43.22049405306496,65.12991339107262,12.168344007319305,6.03597601598934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn85026213:print00211110119:1863030101:0006/pct:43.225068618481245,65.13657561625583,12.186642268984446,6.042638241172551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3120,7 +3120,7 @@ two regiments of provincials who had heen posted
 in that town.&quot; This statement is inexplicable.  
 Pigot&#x27;s men met a warm reception when the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061601:1049/pct:200.1634788294916,79.76,45.921203204185055,7.04/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061601:1049/pct:66.72115960983052,26.586666666666666,15.307067734728353,2.3466666666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3142,7 +3142,7 @@ rods, and a second time put the regulars to flight,
 who ran in great confusion toward their boats.&quot;  
 Nothing ts said here, however, about Howe&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061601:1049/pct:199.9509563511525,134.37714285714284,46.15007356547327,9.508571428571429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875061601:1049/pct:66.65031878371751,44.79238095238095,15.383357855157756,3.1695238095238096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3205,7 +3205,7 @@ ness with tbe utmost diligence and alacrity, so
 that by dawn of day tbey had thrown np a small  
 redoubt, about eight rods square. Such was th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875070101:0425/pct:93.94833948339483,64.51338716532086,16.752767527675278,9.378098880861312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875070101:0425/pct:70.48726467331119,48.39212353024508,12.56921373200443,7.0264910043915565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3236,7 +3236,7 @@ Between twelve and ono o&#x27;clock, and the day
 exceeding hot, a number of boats and barges,  
 filled with Regular troops from Boston, approach
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875070101:0425/pct:93.80073800738008,83.60957642725599,16.623616236162363,9.40643150587902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875070101:0425/pct:70.3765227021041,62.71426547669642,12.476928755998523,7.054823629409265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3270,7 +3270,7 @@ my come within five or six rods; then discbarge
 their well-directed pieces, and put them a sec­  
 ond time to flight. Such is the loss already sus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875070101:0425/pct:111.14391143911439,36.80407989800255,16.771217712177123,11.219719507012325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875070101:0425/pct:83.38870431893687,27.61014307975634,12.58767072720561,8.414789630259243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3309,7 +3309,7 @@ siderable reinforcements getting to the hill; but
 this was owing more to tbo cowardice of somo  
 Provincial officers than to tbe execution of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875070101:0425/pct:110.71955719557195,77.40473154837795,17.15867158671587,13.727156821079474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875070101:0425/pct:83.0749354005168,58.053548661283465,12.88298265042451,10.298909193936819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3339,7 +3339,7 @@ ulars and the provincials had kept the enemy at bay
 vome time, contronting them with the butt ends of their  
 muskets.&quot; A large share ot the skill displayed by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743956:1877061901:1004/pct:243.72215805972613,177.76112520175235,46.51047681900676,19.76020290523403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743956:1877061901:1004/pct:81.24071935324204,59.253708400584124,15.503492273002255,6.586734301744678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3362,7 +3362,7 @@ be esteemed among mankind.&quot;
 During the mecting sultable resolutions were  
 adopted and tributes paid to the memory of Willia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743956:1877061901:1004/pct:243.672661277017,200.4496195526862,46.77445966012209,10.698639612635462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743956:1877061901:1004/pct:81.22422042567233,66.8165398508954,15.59148655337403,3.5662132042118206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

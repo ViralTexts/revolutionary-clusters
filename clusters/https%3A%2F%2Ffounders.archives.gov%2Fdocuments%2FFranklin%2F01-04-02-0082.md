@@ -1709,7 +1709,7 @@ mischief—for want of a nail ths shoe is lost,
 for want of a shoe the horse is lost, for want  
 of a horse tljo rider i* lost.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1830012701:0955/pct:83.73071528751753,121.61667370792846,19.194550190342618,1.8729756372341924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1830012701:0955/pct:64.90165631469979,94.25567520372526,14.865424430641822,1.4588183934807917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1836,7 +1836,7 @@ often breeds great mischief-for want of a nail,
 the shoe is lost--for want of a shoe, the horse  
 is lost--for want of a horse the rider is lost.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1844012701:0732/pct:265.34727408513817,304.96535796766744,58.25242718446602,17.551963048498845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1844012701:0732/pct:66.34920634920636,76.24133949191686,14.565826330532213,4.387990762124711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1854,7 +1854,7 @@ want of a nail, the shoe is lost — for w ant
 of a shoe, the horse is lost—for want of  
 a horse, the ride is lost.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1844022901:0276/pct:11.496090973702914,83.42977380326144,13.823738450604122,2.3540241977906367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1844022901:0276/pct:11.494048676496714,83.41880341880342,13.827204358382188,2.3580977427131273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1888,7 +1888,7 @@ for want of a nail, the shoe is lost for
 want of a shoe, the horse is lost for want  
 of a horse, the rider is lost.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1844042001:0065/pct:105.75396825396825,100.49223196431318,19.72222222222222,16.9820027688048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292431:1844042001:0065/pct:79.35688765383088,75.37301953545608,14.7876141325923,12.7365020766036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2034,7 +2034,7 @@ half censure what they practice, the other
 halt practice what they censure. The rest  
 always say and do as the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1849021601:0314/pct:285.9101294744859,337.8331402085747,51.78979436405179,9.212050984936269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1849021601:0314/pct:71.5047619047619,84.45828505214368,12.952380952380953,2.3030127462340673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2057,7 +2057,7 @@ the price.
 If man could have half his wishes he  
 would double his troubles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:18.75,205.08186264086754,37.306301652892564,17.28683818839039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:6.25,68.36062088028918,12.43543388429752,5.76227939613013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2111,7 +2111,7 @@ it not to a friendae
 Old boys have their playthings as well as young  
 ones; the difference is only in the price
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849030301:0502/pct:260.76146076146074,348.5852869846403,56.33255633255633,16.922662355160334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849030301:0502/pct:65.21570151574038,87.14632174616007,14.088612514574427,4.2306655887900835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2170,7 +2170,7 @@ Old boys have their playthings as well
 as young ones, the difference is only in the  
 price. Tutnueisar a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:171.40804597701148,261.5535889872173,50.502873563218394,17.98005337828347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:42.86740927057133,65.38839724680433,12.630255120373697,4.495013344570867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2212,7 +2212,7 @@ Mankind are very odd creatures. One half censure
 what they practice, the other half practice what they  
 censure. The rest always say and do as they ough
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:211.00780959464484,339.0137063727568,59.6690219412421,8.266214497668503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:52.74214538018219,84.74145238768014,14.91448224577059,2.066261655834982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2230,7 +2230,7 @@ ones; the difference is only in the price.
 If man could have half his wishes he would double  
 his troubles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:211.08218668650056,348.9614243323442,59.59464484938639,9.453158117846545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:52.760736196319016,87.22803051709522,14.89589142963376,2.3629556371856455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2270,7 +2270,7 @@ tice what they censure. The rest always say
 and do as they ought.  
 H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:2.8789659224441833,47.09976798143852,13.131609870740306,2.7631301413203966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:2.8786840301576424,47.096456692913385,13.133587910832599,2.7652793400824898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2288,7 +2288,7 @@ young ones: the difference is only in the price.
 If man could have half his wishes he would  
 double his troubles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:2.8397963180571875,49.919145046755254,13.1903642773208,2.186599170357871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:2.839518261039851,49.9156355455568,13.192336564509285,2.1887889013873267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2347,7 +2347,7 @@ ought.
 Old boys have their playthings as well as young ones;  
 the difference is only in the price
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849041801:0148/pct:261.66231505657095,267.8508588186007,57.57180156657964,13.372434017595308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849041801:0148/pct:65.41557876414274,66.96271470465018,14.39295039164491,3.343108504398827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2365,7 +2365,7 @@ weys have their playthings as well
 young ones; the difference is only in  
 the price
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849042001:0269/pct:66.14853195164076,126.92196947883674,58.54922279792746,5.298013245033113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849042001:0269/pct:16.54427645788337,31.730492369709186,14.643628509719223,1.3245033112582782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2384,7 +2384,7 @@ sun whit ,ev practice, the other half practice
 whti. mey i, - ie. The test always say and do  
 as they ought
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1849051201:0302/pct:61.38032305433187,91.9899709685933,15.304291075216184,2.823964106624439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1849051201:0302/pct:61.385761679447434,91.99876836456409,15.315168325447328,2.8283628046098355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2645,7 +2645,7 @@ half censure what liiey practice, the olltei
 half practice w ha! they censure. The rest  
 always say and do as ihey ought
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849053001:0309/pct:34.14373088685015,59.31623931623932,15.244648318042813,3.1837606837606836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849053001:0309/pct:34.14882772680938,59.32336182336182,15.254841997961265,3.1873219373219372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2670,7 +2670,7 @@ as young ones; the difference is only in
 the price.&#x27;  
 A Gentleman. To tell the reader ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1849053101:0032/pct:30.517344497607656,77.60165403170227,19.482655502392344,9.57960027567195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1849053101:0032/pct:22.902019446522065,58.201240523776704,14.614809274495139,7.190443372386859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2727,7 +2727,7 @@ censure what they practice, and the other half
 practice what they censure. The rest always  
 say and do as they ought
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1849061601:0404/pct:102.17534607778511,82.42644732679531,18.78707976268952,2.56248022777602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1849061601:0404/pct:79.19055457796446,63.88117031709709,14.565476528353296,1.9900294213795358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2903,7 +2903,7 @@ censure what they practice, and the other half
 practice what they censure. The rest always  
 say and do as they ought.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1850082201:0214/pct:23.251589464123523,225.46055139118283,43.32425068119891,8.829881844746538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1850082201:0214/pct:7.750529821374508,75.15351713039428,14.44141689373297,2.943293948248846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2921,7 +2921,7 @@ Old boys have their play.
 things as well as young  
 ener; the difference is only in the price.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1850082201:0214/pct:23.37874659400545,235.84042688349638,42.979109900090826,3.1126921610977005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1850082201:0214/pct:7.79291553133515,78.61347562783213,14.326369966696943,1.0375640536992334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2938,7 +2938,7 @@ ener; the difference is only in the price.
 Old boys have their playthings as well as  
 young ones, the difference is only inthe price
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1850090401:0181/pct:31.533307055577453,91.80111618467782,12.455656286953094,0.9842719431760527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1850090401:0181/pct:31.533307055577453,91.80449856248943,12.473174790872859,0.9910366987992558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2965,7 +2965,7 @@ Uld boys have their playthings as well at
 young ones; the difference Is ouly In ihe  
 price. . : &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1851071001:0074/pct:108.74307479224376,51.86139379106016,16.51662049861496,2.009532397269097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1851071001:0074/pct:81.57575757575758,38.90248615226072,12.398268398268398,1.5071492979518228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2999,7 +2999,7 @@ censure what they practice, the other half prac­
 tice what they censure. The rest always say  
 and do as they ought
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1852013001:0370/pct:66.23690572119258,67.3546856465006,14.617244157937147,11.459074733096086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1852013001:0370/pct:66.24227773301101,67.36259391063662,14.617244157937147,11.451166468960063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3028,7 +3028,7 @@ spitefully when driven to tbe wall!
 Old boys have their playthings, as well as  
 young ones: the difference is only in the prioe.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852070201:0688/pct:4.186873585515681,88.74257079594453,15.777562237310056,9.649225032047546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014593:00415661034:1852070201:0688/pct:4.186873585515681,88.75033989822477,15.782950749003126,9.653109583187662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3052,7 +3052,7 @@ censure what they practice, and the oilier half
 practice what they censure. The rest always say  
 1 and d&lt;? as they ought
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852080301:0073/pct:37.919221060223585,79.10430308699719,18.39163360980887,5.9869036482694105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852080301:0073/pct:37.93124173578555,79.10430308699719,18.39163360980887,5.998596819457437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3068,7 +3068,7 @@ practice what they censure. The rest always say
 Old buys have their playthings as well as  
 young ones; the difference is only in the &quot;price.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852080301:0073/pct:38.08150018031014,84.75210477081384,18.19329246303642,1.5668849391955098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852080301:0073/pct:38.0935208558721,84.75990021827253,18.205313138598388,1.5629872154661677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3088,7 +3088,7 @@ the other half practice what thoy cen­
 sure. The rest always say and do as  
 they ought
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1860030101:0648/pct:7.665745856353591,111.52036564054309,16.125690607734807,4.341981449119506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1860030101:0648/pct:5.751295336787565,83.64027423040731,12.107081174438687,3.266568087108482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3149,7 +3149,7 @@ young ones. The differenceis only in the price.
 young ones. The difference is only in the  
 price
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862060401:0728/pct:239.49798038084248,267.695274831244,37.26197345643393,4.082288653166184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1862060401:0728/pct:79.85569985569985,89.23175827708133,12.424242424242424,1.3607628843887283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3166,7 +3166,7 @@ price
 a* young ones. The difference is only in  
 the price
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862060501:0525/pct:4.1223692775005425,11.007232316105133,13.34345845085702,1.8874581054859763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862060501:0525/pct:4.127793447602516,11.011642264949726,13.34345845085702,1.9006879520197566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3184,7 +3184,7 @@ Old boys have their playthings as wel)
 as the young ones. The difference is only in  
 the price.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1862090401:0193/pct:84.04434465338198,76.82665523891151,11.184395172607353,1.789157917291622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1862090401:0193/pct:84.04434465338198,76.83379758588673,11.184395172607353,1.789157917291622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3210,7 +3210,7 @@ Old boys have their playthings as well
 as young ones—the difference is ouly in  
 the price
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1862100101:0285/pct:8.04972804972805,59.639084507042256,14.39005439005439,8.142605633802816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1862100101:0285/pct:8.04972804972805,59.64275234741784,14.39005439005439,8.146273474178404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3244,7 +3244,7 @@ Old boys have their playthings
 as well as young ones the difference is  
 only in the price
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:0027176912A:1862102301:0018/pct:53.713327745180216,46.48199445983379,14.870075440067058,13.706371191135734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:0027176912A:1862102301:0018/pct:53.72450405141101,46.48568790397045,14.864487286951663,13.713758079409049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3262,7 +3262,7 @@ Mankind are verj* odd creatures. One half
 practice what they censure. The rest always 1  
 U-* as they ought
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1862120601:0506/pct:88.46873830026207,24.408117249154454,16.41707225758143,2.2406989853438555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1862120601:0506/pct:68.56230958943856,18.920198048638415,12.723052371971566,1.7365661861074706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3280,7 +3280,7 @@ half censure what they practice, the other
 half practice what they ceusure. The rest  
 always say and do as they ought.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1870033101:0226/pct:3.9845532736527995,72.74046708008972,12.480252764612954,2.467343976777939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1870033101:0226/pct:3.983853983853984,72.73087071240106,12.482449982449982,2.4703166226912927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3336,7 +3336,7 @@ Mankind are very odd creatures. One;
 half censure what they practice, and the i  
 other half practice what they censur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524664:1872010401:0009/pct:14.904163912756113,35.559633027522935,11.384666226040979,2.7033639143730888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524664:1872010401:0009/pct:14.901701635552618,35.55528375733855,11.38691557905171,2.7060909980430528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3375,7 +3375,7 @@ eye which never blanches, the though
 half censure what they practice, and the other  
 half practice what they censure
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455127A:1872031401:0189/pct:18.89838556505223,89.50643776824035,15.622032288698955,1.8991416309012876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455127A:1872031401:0189/pct:18.89838556505223,89.51001430615165,15.627308219900813,1.8991416309012876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3436,7 +3436,7 @@ half censure what they practice, and the
 other half practice what they censure.  
 “ Change oars!” is what a city booM 1 O ’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174373:1874073101:0225/pct:2.484333034914951,7.035599797536697,15.264100268576545,11.186097519824532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ethan_ver01:data:sn82016399:00517174373:1874073101:0225/pct:2.4837771313492953,7.034412955465587,15.266278809577086,11.188427800269906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3548,7 +3548,7 @@ never practiced it.
 Calamity and prosperity are the touchstones  
 of integrity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.20937188434696,38.54535548896759,21.256231306081755,1.8114955053119042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.1993620414673,38.54010622361432,21.258639021796917,1.8157882790866584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3564,7 +3564,7 @@ deeds.
 Old boys have their playthings as well as  
 young ones; the difference is only in the price.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.32901296111665,63.824570961590844,21.335992023928217,1.8523563061836013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1891080601:0591/pct:50.31897926634769,63.815879068500614,21.338383838383837,1.8566435153661083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3718,7 +3718,7 @@ Oid boys have their playthings as well as
 young ones; the difference is only in the  
 price.—Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740542:1898110601:0054/pct:68.91233766233766,21.055837563451778,12.554112554112555,1.614213197969543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00271740542:1898110601:0054/pct:68.91684704184703,21.055837563451778,12.554112554112555,1.614213197969543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3746,7 +3746,7 @@ Old boys have their playthings as
 well as young ones; the difference is  
 only in the price
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1898122301:0945/pct:24.80366492146597,266.94193548387096,41.295811518324605,7.832258064516129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1898122301:0945/pct:6.201930944198986,66.73548387096774,10.325642284405172,1.9580645161290322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3783,7 +3783,7 @@ Old boys have their playthings as
 well as young ones: the difference is  
 only in the price
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556023:1899022401:0322/pct:107.36534717715769,61.95483331341857,19.110966904607398,4.146254032739873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556023:1899022401:0322/pct:80.55826030509574,46.469112199784924,14.345991561181435,3.106703309833911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3803,7 +3803,7 @@ in age repose, allotted acres (no reluc­
 tant soil,) shall prompt their industry  
 1 and pay their toil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:0041562573A:1899052601:0089/pct:82.96041308089501,69.83927960788783,10.499139414802066,4.114897982446141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_irving_ver01:data:sn89060124:0041562573A:1899052601:0089/pct:82.96519410977243,69.84687868080094,10.50392044367948,4.111098445989589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

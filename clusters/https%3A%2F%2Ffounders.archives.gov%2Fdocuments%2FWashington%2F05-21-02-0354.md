@@ -83,7 +83,7 @@ in— prsferving pea.ee between the frontier fe&#x27; tiers and tlve i
 ~tlre Indians, and therefore a part ef the .sih&#x27;tary.eftab­  
 ;&#x27;T lifhmcQt should confill of cavalry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797030301:0002/pct:31.584362139917694,38.86568123393316,22.916666666666668,31.169665809768638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797030301:0002/pct:31.590792181069958,38.86568123393316,22.910236625514404,31.177699228791774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ erring peace between the frontier settlers and
 Indians; and, therefore, a part of the military esl  
 lishment should consist of cavalry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846081101:0815/pct:-0.4832474226804124,63.90347586896724,13.949742268041238,20.880220055013755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846081101:0815/pct:-0.4832474226804124,63.90347586896724,13.955111683848797,20.88438776360757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ ri the former, In preserving peace between the front
 lers and the Indians ; and, therefore, a part of the in  
 r establishment should consist of cavalry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848071501:0715/pct:17.0543879351837,74.57310233079895,14.278838440558319,19.456562383148448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848071501:0715/pct:17.065083694315206,74.57310233079895,14.284186320124071,19.460717104989822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ ties, which he avows himself to stand much in need
 of.  
 But the General has done more than pledge him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072601:0279/pct:21.578029642545772,43.616932453869914,117.95989537925021,20.305585705936377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072601:0279/pct:5.394507410636443,10.904233113467479,29.489973844812553,5.076396426484094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,15 +693,15 @@ the former, in preserving peace between the frontier settlers
 and the Indians; and, therefore, a part of the military estab­  
 lishment should consist of cavalry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072601:0279/pct:81.69136878814298,25.916339650997745,57.93374019180471,66.76129247724806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072601:0279/pct:20.422842197035745,6.479084912749436,14.483435047951177,16.690323119312016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1849-01_24_127/page/n16/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1849-01_24_127/page/n16/mode/1up?view=theater)
 
-#### 1849-01-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1849-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -722,9 +722,9 @@ ton that the latter will be less expensive and more useful than the former.”
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1849-01_24_127/page/n18/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1849-01_24_127/page/n18/mode/1up?view=theater)
 
-#### 1849-01-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1849-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -756,7 +756,7 @@ and important service; that a considerable
 outlay had been made in equipments and  
 bounties for tho dragoons, most of whom ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854051301:0478/pct:55.886716115981116,91.67751736111111,13.13553607552259,5.230034722222222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854051301:0478/pct:55.886716115981116,91.6847511574074,13.144526859968533,5.23365162037037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -805,7 +805,7 @@ former in preserving peace between the frontier
 the Indians, and, therefore, a part of the military establish  
 ment ahould consist of cavalry. ^ WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855022001:0221/pct:51.217917279712275,23.08654327163582,16.674840608141245,16.50825412706353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855022001:0221/pct:51.217917279712275,23.090712022678005,16.68028990245763,16.51242287810572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

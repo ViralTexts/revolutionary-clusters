@@ -1632,7 +1632,7 @@ Vine town, thirty-eight miles below
 this, which caused us to hesitate wheth­  
 er we should proceed.&quot; But they con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566509A:1869112201:0492/pct:2.740129640542133,53.43785223895891,12.080141426045964,3.617173890767497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566509A:1869112201:0492/pct:2.740129640542133,53.44468353998019,12.085052052641917,3.617173890767497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1667,7 +1667,7 @@ In the morning they talked about peace,
 friendship and trade, aud Washington  
 sa.ve. Tbe tedious ceremony which th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566509A:1869112301:0496/pct:3.306898099655843,43.244631665468,12.419572048481221,9.760608240008219/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566509A:1869112301:0496/pct:3.311885879594992,43.24805644028905,12.414584268542072,9.767457789650331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1688,7 +1688,7 @@ then bore southwardly and westwardly;
 till we came to our camp at the contin­  
 ence of tbe rivers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566509A:1869112301:0496/pct:3.4565314978303157,60.27946162539813,12.15023193176717,3.133668961265797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:0041566509A:1869112301:0496/pct:3.4565314978303157,60.28631117504024,12.160207491645469,3.133668961265797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1773,7 +1773,7 @@ other authentic Information in relation to the early Ex
 plorations and settlement and lim; rovement of the Coun.­  
 try around the Head of the ohio.&quot; It is an importan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531241:1876030101:0462/pct:5.87655942219304,106.7685844322558,47.42284963887065,5.37985762632746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531241:1876030101:0462/pct:1.9588531407310132,35.58952814408527,15.807616546290216,1.7932858754424865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1987,7 +1987,7 @@ lower end of an island, and is 70 to 80
 yards wide; and I fancy it is tho creek  
 commonly called Wheehug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193444:1879032801:0303/pct:11.58129175946548,52.36172080772607,13.412521653056174,17.01492537313433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193444:1879032801:0303/pct:11.587478346943826,52.36172080772607,13.41870824053452,17.01931518876207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2036,7 +2036,7 @@ I of them, and to show how badly furnished
 this country is with mill seats.&quot;  
 October 25th, he says: &quot;About fiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:0020219347A:1882020901:0141/pct:36.10152784622967,60.999825814318065,12.567767373090192,4.232712071067758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:0020219347A:1882020901:0141/pct:36.113849186791526,60.999825814318065,12.580088713652046,4.2588399233583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

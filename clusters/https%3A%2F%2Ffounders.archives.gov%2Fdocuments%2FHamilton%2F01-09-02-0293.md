@@ -289,7 +289,7 @@ books of the association; sixty days pre­
 vious to the ejection ; and it shall be the  
 duty of the cashier to make out a list o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815101601:0054/pct:25.297441998810232,23.720060546701095,18.173706127305177,5.502626658356335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815101601:0054/pct:25.29368029739777,23.71794871794872,18.175960346964064,5.505104463437797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ be eligible as a president, director, or
 commissioner, and the president, and di- 1  
 rectors, for the time being, shall giveiour 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815110601:0110/pct:62.54837749330158,61.21574578237972,18.681155105686216,14.496117111487994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815110601:0110/pct:62.53906831373716,61.21028204212781,18.68333581386119,14.497798405331428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ be eligible as a president, director, or
 commissioner, and the president, and di­  
 rectors, for the time being, shall give fou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815111501:0142/pct:44.1433436990967,63.65012915293489,18.406634088553236,13.72583949407678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1815111501:0142/pct:44.13680781758958,63.64446027787674,18.408844141743163,13.727585797411233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ Authorised daring the present session of congress,
 ’*• nominate, and by end with the advice and con­  
 sent of the senate, to appoint five directors e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816041801:0909/pct:8.186236889229981,84.7732008334669,21.872601688411358,7.372976438531816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816041801:0909/pct:8.184143222506394,84.75961538461539,21.873401534526856,7.375801282051282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -617,7 +617,7 @@ specified proportion to the number
 of shares held by the voter ; but nc  
 voter m entitled to a greater numbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816051501:0160/pct:63.87086808773556,72.50546249089585,18.674698795180724,15.340495265841223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216213:1816051501:0160/pct:63.86100386100386,72.4988620846609,18.676962676962678,15.342133211955698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ specified proportion to the number
 of shares hel&#x27; by the voter ; but no  
 voter is entitled to a greater num
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816051501:0013/pct:33.04392236976506,16.366906474820144,15.168539325842696,13.193730729701953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816051501:0013/pct:33.03829787234042,16.36480411046885,15.171631205673759,13.196317704988225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -688,7 +688,7 @@ T&quot;e number of votes shall be in a spec’.­
 nip proportion to the number of shares heir.  
 ) the voter ; but no voter is entitled to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051501:0156/pct:45.87916737180572,30.125669071445195,15.552546962260958,10.030253665347917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184297:1816051501:0156/pct:45.87140439932318,30.12216404886562,15.555555555555555,10.03296490207485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ RULE I.
 fied proportion to the Dumber of shares held  
 by the voter ; bat bo voter is entitfed to f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816051601:0957/pct:74.0722039888917,79.97744845360825,21.81267356728099,13.192654639175258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816051601:0957/pct:74.0535083291267,79.96456756321469,21.813478041393235,13.194556289257529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -942,7 +942,7 @@ least two newspapers printed in each of the places
 ly,) where subscriptions shall have been mad; and  
 the said persons shall, at the same time, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841061701:0544/pct:52.4537037037037,210.69972826086956,37.56172839506173,27.89855072463768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841061701:0544/pct:17.481870081777505,70.22529152043474,12.518644242143703,9.298464092984641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -983,7 +983,7 @@ the next session of Congress hereafter, to nominate,
 and, by and with the advice and consent of the Se- c  
 nate, to appoint two directors of the said bank, whe- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841061901:0088/pct:51.55421859332474,3.980825343893289,15.484887551926658,12.223843268028345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841061901:0088/pct:51.55421859332474,3.987772683062387,15.49443728214678,12.227316937612894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1016,7 +1016,7 @@ Congress hereafter, to nominate, and, by and with the
 advice a ltd conaent of the Senate, to appoint three di­  
 rectora of the aald bunk, whether they Ims atockholJer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841062601:0761/pct:18.571428571428573,2.3186528497409324,31.160714285714285,95.24611398963731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841062601:0761/pct:18.571428571428573,2.3229706390328153,31.160714285714285,95.25043177892918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1049,7 +1049,7 @@ sion of Congress hereafter, to nominate, and, by
 and with the advice nnd consent of the Senate,  
 to appoint two directois of the said hank, whet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1841070301:0266/pct:51.9260700389105,96.48017214878574,18.8715953307393,14.586535505687058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1841070301:0266/pct:38.96457765667575,72.36397171841377,14.168937329700272,10.943744236089763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ places. . respectively,) where subscriptions
 shall have been made; and the said persons  
 shall, at the same time, and&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065204:00295877935:1841070901:0339/pct:48.22115384615385,19.708770741618693,72.5801282051282,104.5377582119878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065204:00295877935:1841070901:0339/pct:36.187269520602854,14.787222034089627,54.465287798621134,78.40614064792867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1155,7 +1155,7 @@ s.iid B.wik, (? xchisively oi the subscription often mil­
 lions aforesaid, on the part of the United Stales,) the*  
 operations of the same shall thenceforth commence an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841072201:0802/pct:34.21332388377038,76.96938644805944,15.556343019135365,5.341360317663635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841072201:0802/pct:34.21332388377038,76.96938644805944,15.562248995983936,5.345629990179753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1203,7 +1203,7 @@ vided, and that the question on printing it could be
 passed by to day.  
 Mr Clay would prefer to lay it on the table, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841072701:0818/pct:20.551742344244985,178.12808964077777,37.35480464625132,31.64890695375151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1841072701:0818/pct:6.8496766530289035,59.3695079086116,12.449958206854076,10.548476859988284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1253,7 +1253,7 @@ to nominate, and, by and with the advice
 and consent of tbe Senate, to appoint  
 three directors of the said bank, whethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1841081901:0759/pct:56.192018848475925,24.640371229698374,12.678545133264615,19.037122969837586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1841081901:0759/pct:56.18374558303887,24.637513049530217,12.681586179819396,19.038781270540927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1372,7 +1372,7 @@ shall confer a right of voting, which shall not have
 been holden three calender months previous to the  
 day of voting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1847061101:0580/pct:23.534158149542765,122.64542283397756,17.415277030661645,3.0545865937588386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1847061101:0580/pct:17.662093085821898,91.9864240595833,13.06160882432069,2.290939945319129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1391,7 +1391,7 @@ shall confer a right of voting, which shall not have
 been holden three calender months previous to the  
 day of voting.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1847061801:0584/pct:24.127445795875197,123.20884146341463,17.10735060814384,3.0678353658536586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1847061801:0584/pct:18.10367627611743,92.40663109756098,12.840518381380587,2.305640243902439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ of the stockholders. The stock of the said cor­
 poration shall be assignable and transferable ac­  
 cording to the rules which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1849020301:0239/pct:28.280802292263612,16.173680098225248,19.598853868194844,1.9310190869516688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1849020301:0239/pct:21.22384637431929,12.133050563678982,14.70335339638865,1.4510548052237973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1484,7 +1484,7 @@ according to the rules which shall be instituted
 inthat behalf by the laws and ordinances of the  
 same.&quot; &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667280:1851021501:0036/pct:24.782356355194427,21.5165770609319,20.08125362739408,3.7298387096774195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667280:1851021501:0036/pct:18.589464518937746,16.140232974910393,15.07763749818604,2.800179211469534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

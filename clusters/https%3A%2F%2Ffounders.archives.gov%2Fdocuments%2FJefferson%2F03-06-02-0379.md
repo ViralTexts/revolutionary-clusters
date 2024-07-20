@@ -210,7 +210,7 @@ in the said complainants&#x27; bill to be true, doth demur
 thereto; and for causes of demurrer showeth, that  
 the complainants have no interest in the subject of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843090101:0267/pct:154.58429181728556,14.644684479818078,50.09858692080184,11.370096645821489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843090101:0267/pct:51.528097272428525,4.8815614932726925,16.699528973600614,3.79003221527383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ showeth, that the complaints hare no interest in
 the subject of the bilf, or title to institute a suit  
 concerning it; that the subject of the suit is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843102501:0600/pct:105.98159509202453,24.243098842386466,20.329057445621864,11.475957257346394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843102501:0600/pct:79.50076697810626,18.187889581478185,15.255891786361735,8.604185218165627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ ant s blil to be true in such manner and form as the same are
 therein set forth and alleged, demurs thereto, and for causes  
 of demurrer thoweth that the said complamant hath not, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856120701:1318/pct:141.13157458105192,258.34950348133776,45.893479342956695,7.807327930601529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856120701:1318/pct:47.04385819368398,86.11650116044592,15.297826447652232,2.602442643533843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -457,7 +457,7 @@ bill of complaint, to be true in such manner
 and form as the same are therein set forth and  
 alleged, doth demur thereto, and for cause o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863011401:0004/pct:23.571824736550195,33.66604876657636,9.946385653540396,2.081847996577784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863011401:0004/pct:23.581068589388057,33.66604876657636,9.937141800702532,2.0889776130044204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ said bill of complaint to be true in such
 manner and form as the same are therein and  
 e othereby set forth and alleged, doth demu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742101:1876060301:0543/pct:70.63331988705123,91.50447375703348,61.46295549280624,7.68379300802509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742101:1876060301:0543/pct:23.54443996235041,30.501491252344493,20.487651830935413,2.5612643360083633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ such manner and form as the same are therein set
 forth and alleged, do demur thereto, and for cause of  
 demurrer show* that tbe said complainants hare not
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877040801:0005/pct:17.34006734006734,65.93441579114932,12.773569023569024,2.292263610315186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877040801:0005/pct:17.350589225589225,65.93839541547278,12.773569023569024,2.292263610315186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ the complainant&#x27;s bill of complaint, contained
 to be true in such manner and form as the  
 same are therein set forth and alleged, d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475476:1879030401:0285/pct:15.523255813953488,249.97373949579833,44.18604651162791,5.86922268907563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475476:1879030401:0285/pct:5.174418604651163,83.32457983193277,14.728682170542635,1.95640756302521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ propound and allege :
 First : That the said Attorney General is not  
 authorized by law to present the said libel i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108885:1881030201:0031/pct:42.673338098641885,78.04485027527863,12.044317369549677,4.0687525177924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108885:1881030201:0031/pct:42.673338098641885,78.05492144487714,12.044317369549677,4.0687525177924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ set forth, demurreth and shows:
 1st That said complainants or any  
 one of them never offered or intended t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195465:1887052001:0459/pct:24.778434268833088,84.63050314465409,16.309699655342197,8.569182389937106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195465:1887052001:0459/pct:18.58919118552259,63.472877358490564,12.23685830358242,6.4367138364779874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ complaint contained to be true in such
 manner and form as the same is there­  
 in set forth and alleged do demur t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206535805:1887111101:0089/pct:55.55964653902798,66.55238095238096,20.949926362297496,4.304761904761905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206535805:1887111101:0089/pct:37.05340699815838,44.36825396825397,13.977900552486188,2.86984126984127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ in soch manner and form as the
 same are therein and thereby alleged,  
 demurs to said libel an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108940:1889090301:0013/pct:5.635838150289017,42.59927797833935,13.204479768786127,4.481513755757501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108940:1889090301:0013/pct:5.635838150289017,42.60861446533051,13.204479768786127,4.472177268766339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ this - defendant to the complainant
 or to the holders of the bonds or coupons  
 secured by either of the Becond general
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871234:1894040201:0009/pct:108.29903978052126,27.043939600054415,18.82716049382716,10.420350972656781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871234:1894040201:0009/pct:81.23820956954211,20.28295470004081,14.131366832447265,7.822065025166644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -802,7 +802,7 @@ The said intervening defendants have
 not in and by said complaint of inter  
 vention made or stated such a cause a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn83045555:206539720:1896022901:0735/pct:101.28012048192771,68.48203939745075,35.39156626506024,12.514484356894554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn83045555:206539720:1896022901:0735/pct:33.78548103491585,22.827346465816916,11.80607887465461,4.171494785631518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ The said intervening defendants have
 not in and by said complaint of inter­  
 vention made or stated such a cause a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:2065344540:1896030101:0550/pct:64.58864795918367,124.72260748959778,18.941326530612244,5.790568654646324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:2065344540:1896030101:0550/pct:43.078149920255186,83.14840499306518,12.631578947368421,3.8680844506087224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ be true in« such manner and form as
 the same are therein set forth and al­  
 leged, demurs to said amendment t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn93058748:00517171529:1897052201:0546/pct:55.911782724116804,14.818652849740932,16.091484582397385,5.344189489267209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn93058748:00517171529:1897052201:0546/pct:43.342477315889425,11.492274743766254,12.460434690863051,4.134159400336546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -883,7 +883,7 @@ sh.oweth: First, that this court hath no
 jurisdiction over the person of this defend­  
 ant; second, that in and by said bill it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665702:1897061601:0448/pct:56.36972538513061,30.191146881287725,12.417950435365038,3.5010060362173037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665702:1897061601:0448/pct:56.36972538513061,30.197853789403084,12.426881000223265,3.5010060362173037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -902,7 +902,7 @@ plaint of James Campbell:
 confessing or acknowledging all or  
 any of &#x27;the matters nnd things i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn82015415:00237283910:1897072701:0575/pct:45.18045774647887,43.04595051483018,19.058098591549296,4.1340095282004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn82015415:00237283910:1897072701:0575/pct:33.913234970270864,32.28830490241278,14.314027747192249,3.1043491624404487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ ants&#x27; bill contained, to be true in such
 manner, and form as the same are  
 therein set fort!* and alleged, do de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551426:1897120101:0316/pct:33.56174586622971,17.04856199905705,16.05839416058394,6.657237152286657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551426:1897120101:0316/pct:33.566711356075274,17.051705170517053,16.06832514027509,6.663523495206664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ complaint contained to be true in such
 manner und form ns the same is there­  
 in set forth and alleged, doth demur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn82015415:00237284069:1898112901:1021/pct:86.04240282685512,49.190031152647975,19.169611307420496,7.258566978193146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn82015415:00237284069:1898112901:1021/pct:64.57458563535911,36.900311526479754,14.386740331491712,5.451713395638629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -996,7 +996,7 @@ that a corporation existing under the
 aws of the Hawaiian Islands, having  
 the corporate name of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_desdemona_ver03:data:sn85047084:00202196020:1898113001:0509/pct:45.835443037974684,38.13875786163522,17.772151898734176,15.349842767295597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_desdemona_ver03:data:sn85047084:00202196020:1898113001:0509/pct:34.38845277285389,28.606525157232703,13.332489237781717,11.517295597484276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

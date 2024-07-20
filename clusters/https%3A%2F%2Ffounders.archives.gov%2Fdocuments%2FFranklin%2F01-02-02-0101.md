@@ -220,7 +220,7 @@ Riches produce Pride ; Pride is War’s
 War begets Poverty—The World  
 goes round. e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797102501:0382/pct:8.391284191006028,9.455587392550143,15.917168907433163,4.811777492342654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797102501:0382/pct:8.396435378354711,9.458880874748871,15.917168907433163,4.808484010143925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

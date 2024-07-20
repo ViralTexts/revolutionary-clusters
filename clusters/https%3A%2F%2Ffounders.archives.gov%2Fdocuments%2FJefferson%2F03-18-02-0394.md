@@ -212,7 +212,7 @@ ond (his ;moment have heard read for the third
 or fourth time, the best letier that ever was  
 written by an Octogenarian, dated June 151
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822121801:0402/pct:66.64095642113382,13.184463713030052,20.748168145005785,3.2307875044542107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822121801:0402/pct:66.65381154390025,13.188423011442373,20.741740583622573,3.2347468028665323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ thousend. Mr. Jag, who is about your ege, |
 am told experiences more decay than you du.v  
 lam your old fiiend, = &quot; . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822121801:0402/pct:65.73467026610105,19.0758997505642,21.654454300038566,34.70720988240884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1822121801:0402/pct:65.74109782748425,19.07985904897652,21.654454300038566,34.71512847923348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ This globe is a theatre of war; its in­
 habitants are all heroes* The little eels  
 in vinegar, and the animalcules
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1822121901:0146/pct:24.113066051341217,35.39527945950689,18.82030573983271,28.37588839168202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1822121901:0146/pct:24.10958904109589,35.39217406562555,18.822398461908197,28.37632333157864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ pleasure than a thousand. Mr. Jay, who
 more decay than you do. 1 am your old  
 friend JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1822121901:0146/pct:24.113066051341217,70.04474861805738,18.488606864724545,15.591822409405983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:00414216328:1822121901:0146/pct:24.10958904109589,70.03860326373048,18.49074741648642,15.593378955372287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ more decay than you do.
 1 am yowr old fiiend,  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822122401:0621/pct:42.00346420323326,45.275512233936745,16.238452655889144,13.835289437039984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822122401:0621/pct:42.008275596612776,45.282143093959284,16.252886836027713,13.831974007028712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ your age, J ant told, experiences mole de­
 cay than you do. i tun your old trie ml,  
 3 &#x27; „ JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822122701:0166/pct:2.4048515265579256,29.193899782135077,14.91007946465914,11.416122004357298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822122701:0166/pct:2.4043487351034916,29.189660180075517,14.912189002717959,11.418094684867848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ more decay that! you do. I am your old
 friend,  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1822122801:0066/pct:23.32701164995936,5.3886925795053005,40.96450826334327,91.39575971731449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1822122801:0066/pct:23.320693391115928,5.387740681858329,40.96018418201517,91.38403108991345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -971,7 +971,7 @@ wormsrare the only tribes among whom
 1 have not seen battles ; and heaven it­  
 sel!,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823010101:0338/pct:101.59827213822894,11.202566964285714,22.159827213822894,40.52734375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823010101:0338/pct:78.73681861295542,8.682019677803005,17.184623109970428,31.416008937903197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1008,7 +1008,7 @@ than you do.
 1 am your old friend,  
 „ . JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823010101:0338/pct:101.792656587473,52.87388392857143,22.116630669546435,20.786830357142858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823010101:0338/pct:78.8930424594097,40.98461094893142,17.134408302181555,16.106245720258045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1427,7 +1427,7 @@ inhuhit.iu&#x27;s are all heroes. Thel&#x27;tile }
 ifi |H-pp r water, I belive are quarrrl­  
 s ??ne. The bees are as warlike a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1823011501:0458/pct:25.777033314721756,18.510211309172472,18.444072212916435,25.51056545862354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1823011501:0458/pct:25.789441032322106,18.510211309172472,18.43786835411626,25.5145004525243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1452,7 +1452,7 @@ tho&#x27;is.iiid. Mr. Ja&gt;, who is about
 more deray than yon d ?. I am your  
 old friend, John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1823011501:0458/pct:25.628140703517587,56.21532286624956,18.36962590731435,7.094794003069295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1823011501:0458/pct:25.63434456231776,56.22319285405108,18.36962590731435,7.094794003069295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1655,7 +1655,7 @@ xpcriences more decay than you do.
 I am your old friend,  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823020101:0010/pct:78.07344332091537,33.550434201736806,19.10590739755189,45.12358049432198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823020101:0010/pct:78.05267358339984,33.544832192352644,19.107475392391592,45.12022040407414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2136,7 +2136,7 @@ it vfkh&#x27;n&#x27;.a mouh; vet I feel, when sittiif&quot;
   
 ..y chair, r ? tfl con! J not rise out cf i.;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065199:00295877960:1839041301:0112/pct:50.17324093816631,110.57355516637477,17.643923240938165,12.784588441330998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn87065199:00295877960:1839041301:0112/pct:37.63827802212448,82.93563922942207,13.234706117552978,9.588441330998249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2241,7 +2241,7 @@ in his which he had been turned. I saw the array
 four stories, and Starke remembered his eno an ei in i the eocit o  
 nington, and exulted in his glory; the worstin oer te o ta an o of ae
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1850031901:0747/pct:133.2112970711297,130.35174794993526,75.90219665271967,4.887785930082003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1850031901:0747/pct:44.4211903204709,43.45058264997842,25.310660562459123,1.6292619766940009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2267,7 +2267,7 @@ than you do.
 I am your old friend.  
 JOliN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1850031901:0747/pct:133.1328451882845,135.23953388001726,37.26464435146443,18.54769097971515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1850031901:0747/pct:44.39502943100065,45.07984462667242,12.426422498364945,6.18256365990505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2374,7 +2374,7 @@ am told, experiences more decay than you do.
 “ I am your old friend,  
 „ , “ JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1852101601:0235/pct:69.9367088607595,13.717248143477653,12.623066104078763,9.47176684881603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1852101601:0235/pct:69.9367088607595,13.726589136425202,12.628926394749179,9.467096352342255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2408,7 +2408,7 @@ told, experience* more decay than you do.
 &#x27;? I am your old fiiend,  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852102901:1051/pct:80.09933774834437,12.1343169676927,16.274834437086092,9.297888577969982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852102901:1051/pct:80.09933774834437,12.142796574238956,16.280353200883003,9.297888577969982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2487,7 +2487,7 @@ am told, experiences more decay Uian you do.
   
 JOHM ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1852111001:0261/pct:72.17443973349485,85.79925650557621,10.902483343428225,7.881040892193308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1852111001:0261/pct:72.17847769028872,85.80235439900868,10.902483343428225,7.884138785625774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2530,7 +2530,7 @@ told, experiences more decay than you do.
 I am your old friend,  
 JOHIN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853021901:0660/pct:157.6326530612245,169.7825147630707,73.0,51.51951605934034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853021901:0660/pct:39.4001224239951,42.439516129032256,18.24627627014895,12.878024193548388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2571,7 +2571,7 @@ ten by an octogenarian, dated June 1.
 * * * * “1 bis globe is a theatre of wat;  
 i s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853072701:0088/pct:56.11470860314524,21.876950821946313,12.210915818686402,3.0588888118193798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215907:1853072701:0088/pct:56.10951808343354,21.87543348592038,12.212869608115192,3.0609885790909512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2590,7 +2590,7 @@ this moment have heard read, for the third or
 fourth time, the best letter that ever was written by  
 an octogenarian, dated June I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190935:1853072701:0088/pct:25.556715379262354,84.10082404265633,41.99721642310369,6.410567135239942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190935:1853072701:0088/pct:8.518905126420783,28.033608014218775,13.999072141034564,2.136855711746647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2630,7 +2630,7 @@ and this moment have heard read, for the third
 or fourth time, the best letter that ever was  
 written by an octogenarian, dated June 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853072901:1205/pct:20.612043435340574,319.6911196911197,68.72655478775913,12.76991276991277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853072901:1205/pct:5.151993683379392,79.91135258793251,17.178247137781288,3.1920217329139264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2660,7 +2660,7 @@ third or fourth time, the best letter that ever
 was written by an octagenarian, dated June  
 I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021842:1853080201:0207/pct:139.28571428571428,104.900718208703,58.560090702947846,13.688212927756654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021842:1853080201:0207/pct:34.83623989791578,26.22517955217575,14.646249822770452,3.4220532319391634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2694,7 +2694,7 @@ and this moment have heard read, for the third
 or fourth time, the best letter that ever was writ­  
 ten by an octagenarian, dated June 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1853080301:0422/pct:14.012034876581113,68.99318839227395,10.745425518850546,1.530278995987683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1853080301:0422/pct:14.020221867452618,68.99940903859911,10.753612509722052,1.5364996423128363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2713,7 +2713,7 @@ and this moment have hear read, for the
 third or fourth time, the best letter that ever  
 was written by an ectagenarian, dated June
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1853080401:0212/pct:226.12809315866085,136.1250697934115,48.32605531295488,9.93858179787828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1853080401:0212/pct:56.542311191992724,34.03126744835288,12.08371246587807,2.48464544946957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2732,7 +2732,7 @@ moment have heard read, for the third or fourth time,
 the best letter that eer was written by an octogena­  
 rian, dated June 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853080501:0588/pct:86.67633104902478,104.00742840387059,20.492883500263574,3.1570716450004888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879075:1853080501:0588/pct:65.02768257316109,78.00801485680775,15.370419193250726,2.3653601798455672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2751,7 +2751,7 @@ moment have heard read, for the third or fourth time
 the best letter that ever was written by an octogena­  
 rian, dated June 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853080601:0254/pct:69.2814371257485,95.75584167858845,19.9251497005988,3.135431568907964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853080601:0254/pct:51.97663971248877,71.81688125894135,14.959568733153638,2.3605150214592276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2812,7 +2812,7 @@ read, for the third or fourth time,&quot; the ;
 best letter that ever was written by an4  
 oetagenarian, dated June 1. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1853081101:0132/pct:106.74453654860588,112.09295653421317,16.52223059532781,4.733897575670635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn85038121:00280775514:1853081101:0132/pct:80.11310084825637,84.07688997274423,12.403393025447691,3.557595753837326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2852,7 +2852,7 @@ and this moment have heard read, for the third
 or foifrtli time, the best letter that ever was  
 written by an octogenarian, dated June 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1853081301:0415/pct:44.60085836909871,21.773288439955106,12.257510729613735,2.3849607182940518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1853081301:0415/pct:44.606580829756794,21.782641227085673,12.25178826895565,2.3896371118593343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2885,7 +2885,7 @@ peace. Wo need not trouble ourselves be­
 cause of evil doers; but safely trust the &quot;Ru­  
 ler with hit skies.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1853081301:0125/pct:59.42982456140351,99.56233234505153,17.288011695906434,12.890018353804885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775940:1853081301:0125/pct:44.58051544507403,74.67174925878865,12.977517821239262,9.671043343216152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2904,7 +2904,7 @@ and this moment have heard read, for the third
 or fourth time, the best letter that ever was  
 written by an octogenarian, dated June 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853081601:0402/pct:199.11542923433873,226.23626373626374,42.45939675174014,7.544378698224852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853081601:0402/pct:66.40069635862469,75.41208791208791,14.15929203539823,2.514792899408284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2936,7 +2936,7 @@ lexer watch,
 vest chain and  
 of the. inner case 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528542:1853081701:0301/pct:32.84074831001415,33.94156231365534,12.230781323691243,20.298151460942158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528542:1853081701:0301/pct:32.84074831001415,33.94156231365534,12.24126185610229,20.314052872192406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2956,7 +2956,7 @@ the third or fourth time, the best letter that
 ever was written by an octogenarian, da­  
 ted June 1... 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1853081701:0228/pct:94.23418095801301,81.1031175059952,16.09994086339444,4.35251798561151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027509:1853081701:0228/pct:70.71439136222452,60.827338129496404,12.08401124094069,3.273381294964029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2991,7 +2991,7 @@ the (Ruler wiih his skies.&#x27;
 John Adams.&quot;  
 Progress of the Reform
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1853082301:0444/pct:58.017857142857146,68.88660323990743,17.232142857142858,16.469529442015943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1853082301:0444/pct:43.5411827764874,51.671380817690924,12.93550116133643,12.355361275392132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3010,7 +3010,7 @@ this moment have heard read, fcr the thirl or
 fourth time, the best letter hat ever was written  
 by an octagenarian. dated June I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1853082401:0428/pct:6.681766704416761,45.23526230394808,19.960362400906003,3.991346673877772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1853082401:0428/pct:5.012034546226816,33.931855056787455,14.97947047996602,2.996214169821525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3030,7 +3030,7 @@ ed, and this moment have heard read, for
 ever was written by an octagenarian, dated  
 i Juno 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688234:1853083101:0129/pct:62.72276318206871,41.94886895997858,15.101965827668565,3.5470485878731095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688234:1853083101:0129/pct:62.72888725580256,41.94886895997858,15.095841753934717,3.5604336768839513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3065,7 +3065,7 @@ hings, nor fret ourselves booause of evil
 loers ; but safely trust the &quot; Ruler wiLh his  
 kies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853090701:0394/pct:84.67713787085515,26.595744680851062,13.525305410122163,12.110171961527252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1853090701:0394/pct:84.69022687609075,26.60303118624308,13.520942408376964,12.113815214223258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3084,7 +3084,7 @@ this moment have read, for the third or fourth
 time, the best letter that ever was written by  
 an octogenarian, dated June 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556641:1853091701:0115/pct:54.67314028090862,77.68426115185764,15.120513265129183,2.476854635084766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556641:1853091701:0115/pct:54.68181029998266,77.69327882649993,15.116178255592162,2.4708428519899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3116,7 +3116,7 @@ es more decay than you do.
 I am your old friend,  
 Joun Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1853092301:0123/pct:64.73053892215569,33.140221006329796,17.82934131736527,12.445016629117047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053481:00212470090:1853092301:0123/pct:48.56244384546272,24.85784787040017,13.387241689128482,9.333762471837785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3146,7 +3146,7 @@ third or fourth time, the best letter that ever
 was written by an octogenarian, dated  
 June I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854051901:0474/pct:57.46353476037128,25.182328190743338,12.388709982951317,2.9102384291725105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854051901:0474/pct:57.45809262240743,25.180562372905126,12.390693563153077,2.91237173643737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3175,7 +3175,7 @@ not trouble ourselves about these tilings,
 I nor fret ourselves because ol evil doers;  
 but safely tii/St the &#x27;&#x27;Ruhr With hrsskies&#x27;.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1854052901:0076/pct:55.99645704162976,80.8171466845278,12.896368467670506,7.9035498995311455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348689:1854052901:0076/pct:55.98653914275593,80.8063219930351,12.898512221041445,7.905839807125636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3194,7 +3194,7 @@ this moment heard read for the third or fouitlt time,
 the Itest letter that was ever written by an octogena­  
 rian, dated June 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347221:1854053101:0559/pct:67.31686780802694,23.786560436104413,14.44007858546169,1.8240905755320265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn84035804:00383347221:1854053101:0559/pct:67.31686780802694,23.790054862494323,14.449433997567592,1.8310794283118426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3214,7 +3214,7 @@ this moment have heard read for the third or
 fourth time, the best letter that ever was  
 written by an octagenarian, dated June 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1854060301:0027/pct:207.11817553559086,287.3166298844606,45.127850725639256,9.970141503310398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472062:1854060301:0027/pct:51.788491446345255,71.82915747111515,11.28391221703819,2.4925353758275994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3233,7 +3233,7 @@ this moment lme heard read for the third or fourth
 time, the best letter that was ever written bv an  
 octogenarian, dated June 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1854060601:0017/pct:17.638386275298217,61.75261968358332,12.196756466961533,2.095746866652969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn85025594:00383347348:1854060601:0017/pct:17.647321628021267,61.75261968358332,12.196756466961533,2.1025957126224233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3276,7 +3276,7 @@ read for the third time the best letter
 an, dated June 1.  
 This globe is a theatre of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059651:00415664965:1854061001:0047/pct:221.70582755408344,143.52074048680151,34.509885105061585,11.22728830990744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059651:00415664965:1854061001:0047/pct:73.90194251802781,47.840246828933836,11.50329503502053,3.742429436635813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3297,7 +3297,7 @@ e « « This globe is a a theatre of war: itslnhahitanls are
 all heroes. The little eels in vinegar and the aalmacules In  
 pepper-water, I believe, are quarrelsome. The beos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030364:print00211110089:1854061101:0001/pct:67.000634115409,93.7922129519269,8.674698795180722,1.7183154549066348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030364:print00211110089:1854061101:0001/pct:67.000634115409,93.7922129519269,8.674698795180722,1.7232816845450933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3374,7 +3374,7 @@ experiences more decav than you ilo.
 1 am your of friend,  
 John- Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1854061701:0086/pct:41.19947848761408,16.304347826086957,58.311603650586704,107.99059929494712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1854061701:0086/pct:31.946783428763894,12.639447522197768,45.19198383294039,83.69886924186082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3469,7 +3469,7 @@ have not seen battles; and Heaven itself, if we be
 leve Hindoos, Jews, Christians, and Mahommedan,  
 has not always been at peace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475221:1859061801:1172/pct:49.16805324459234,256.606463878327,38.68552412645591,10.788973384030419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475221:1859061801:1172/pct:16.389351081530783,85.53548795944234,12.895174708818635,3.596324461343473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3490,7 +3490,7 @@ All men say this globo is a theatre of
 war; its inhabitants are All heroes. The  
 little eels in viueirar and tha l.nt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1860120601:0324/pct:123.35526315789474,69.67847411444141,19.221967963386728,5.493188010899183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1860120601:0324/pct:82.26037195994277,46.45231607629428,12.818311874105866,3.662125340599455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3515,7 +3515,7 @@ periences more decay than you do.
 I am your old friend,  
 JOHN AKAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85042534:00200293575:1875042801:0969/pct:28.555355535553556,119.70551378446115,18.744374437443746,7.988721804511278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn85042534:00200293575:1875042801:0969/pct:21.426963763223046,89.78696741854637,14.067071798334458,5.983709273182957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3605,7 +3605,7 @@ experiences n ore decay than you do.
 1 sin your old friend,  
 John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688076:1875050401:1179/pct:28.710827547382248,58.63782912412681,13.098142240570464,34.67221923696937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688076:1875050401:1179/pct:28.72333771189091,58.64230700340319,13.091887158316132,34.67221923696937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3632,7 +3632,7 @@ more docay than you do.
 I am your old friend,  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn84027398:00279528438:1875050601:0704/pct:249.96932515337423,268.4816867731768,32.5920245398773,15.704814694054994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn84027398:00279528438:1875050601:0704/pct:83.32310838445808,89.49389559105894,10.8640081799591,5.234938231351665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3678,7 +3678,7 @@ experiences more decay than you do.
 I am your old friend,  
 JoHN ADAMs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283375:1875050601:0143/pct:249.75083056478405,68.75391358797746,38.33056478405316,87.63306199123356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027670:00237283375:1875050601:0143/pct:83.2618025751073,22.917971195992486,12.778623840509484,29.21102066374452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3762,7 +3762,7 @@ selves about those things, r,or fie t our­
 selves because of evil tha rs; but safely  
 trust the Kulsr w iii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470016:1875052001:0255/pct:25.01571338780641,89.75769635959264,14.613450659962288,26.571462015685356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470016:1875052001:0255/pct:18.764733616218766,67.31827226969449,10.96966839541097,19.93444925670139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3869,7 +3869,7 @@ age, lam told, experiences more decay than
 you do. I am your old friend,  
 John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:0023728799A:1875052801:0317/pct:65.05582693649686,19.427348140219426,29.71039776692254,110.89108910891089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:0023728799A:1875052801:0317/pct:48.804746117606,14.57051110516457,22.299773163496774,83.18169654803319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4010,7 +4010,7 @@ I have not sprained my wrist; but both
 my arms and hands are so over-strained that  
 I cannot write a line. Poor Stark
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1876120801:0626/pct:133.91608391608392,146.14091790562378,38.88111888111888,12.359405300581772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1876120801:0626/pct:33.490731024833856,36.535229476405945,9.723679608254635,3.089851325145443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4042,7 +4042,7 @@ I am told experiences more decay than you
 do.  
 I am your old friend. JoHN ADAMs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1876120801:0626/pct:133.84615384615384,202.1978021978022,39.02097902097902,26.683904330963156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1876120801:0626/pct:33.47324239244491,50.54945054945055,9.758656873032528,6.670976082740789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4059,7 +4059,7 @@ Thi3 globe is a 4 theatre of war ; its hi-
 habitants are all&quot; heroes;&#x27; The little eels&#x27;  
 in vinegar, and the&#x27;animalcules
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877051101:0562/pct:28.72146118721461,55.49239514518359,22.76255707762557,2.3659548317713934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877051101:0562/pct:21.5623572407492,41.619296358887695,17.08542713567839,1.7821477953602705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4141,7 +4141,7 @@ experiences more dcr ay than you do.
 1 am your old frier d,  
 Jons A11am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1881111801:0729/pct:69.14231601731602,35.474623062221276,12.31060606060606,39.31832660862179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1881111801:0729/pct:69.13296361422968,35.47085677885126,12.3134496595879,39.31769119156315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

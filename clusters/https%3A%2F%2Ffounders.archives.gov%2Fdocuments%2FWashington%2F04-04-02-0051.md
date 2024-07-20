@@ -178,7 +178,7 @@ degrees it certainly might and assured
 ly ought lo be effected; and lhat too  
 by legislative authority.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1836011501:0081/pct:89.34021543985638,73.59926918392205,19.456912028725313,19.00121802679659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029087:1836011501:0081/pct:67.04086214638527,55.20706455542022,14.61607543780871,14.250913520097441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ chief; but by degrees it certainly might and assur­
 edly ought to be effected ; and that too by legis­  
 lative authority.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839011201:0317/pct:22.12171052631579,31.343974092065697,18.4375,10.698588942863752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839011201:0317/pct:22.12171052631579,31.35168478679929,18.448464912280702,10.698588942863752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ are not attended to before they suffer in per-
   
 son, in interest, and in reputation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840062501:0981/pct:157.89954337899545,214.25795845165146,121.27853881278538,84.41189657749216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840062501:0981/pct:39.50194196938542,53.564489612912865,30.340415809915466,21.10297414437304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,9 +652,9 @@ to be effected; and that too by legislative authority.”
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1843-11_13_65/page/n107/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1843-11_13_65/page/n107/mode/1up?view=theater)
 
-#### 1843-11-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1843-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -738,7 +738,7 @@ noble proof of your humanity. Would to God a
   
 like spirit might diffuse itself generally into the; The lather, instead of being richer for his sons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1847040101:0642/pct:65.33127889060093,74.40739252711933,39.32973805855162,5.142627561269586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1847040101:0642/pct:49.026787434958564,55.805544395339496,29.52399306224706,3.85697067095219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ Wpuld to God a like spirit misfit difTus it
 self eiieially into the minds of the people  
 oi mis country. Lturr to lJtjatjtUe, Ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1847110601:0088/pct:74.09713574097135,16.037520018302448,16.422789539227896,5.078929306794784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1847110601:0088/pct:55.59015882902523,12.033859528711965,12.33260666459047,3.809196980096088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ slavery; nut Uiey could scarcely oblsin a hear
 ing.  
 Ia another letter addrsdto John F. Mercer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849022401:0360/pct:58.95739186571982,74.37997724687145,16.97869593285991,8.430034129692833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849022401:0360/pct:44.243500726626834,55.79067121729238,12.740190537703858,6.325369738339021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,7 +931,7 @@ ty. ould to God a liks spirit inirht iiif-
 fuse itself generally into the minds of the!  
 people of this country. Letter to Lifay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849110301:0503/pct:24.166142227816238,57.07212782716327,17.275015733165514,5.108585574434567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1849110301:0503/pct:18.13031161473088,42.80409587037246,12.968209002203336,3.8370653763924834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1030,7 +1030,7 @@ degrees it certainly might, and assuredly ought
 to be effected; and that, too by legislative  
 authority
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851022201:0356/pct:153.3457249070632,90.41272068280135,48.3271375464684,25.1139950894423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530339:1851022201:0356/pct:51.11524163568773,30.137573560933784,16.1090458488228,8.371331696480768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1063,7 +1063,7 @@ to ho effected: and that, too, by legislative authority.?
 I&#x27;p lt?3, 1(51  
 To Char lei Pinckney, (lover nor of South Caro­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051901:0766/pct:20.968409435784245,33.9626239511823,15.312456890605601,8.714721586575134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853051901:0766/pct:20.977606106589416,33.9626239511823,15.312456890605601,8.724256292906178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1083,7 +1083,7 @@ rous and noble proof of your humanity. Would to
 God a like spirit might diffuse itself generally in  
 the minds of the people of this country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171992:1854020301:0106/pct:29.80708077167691,28.619477144167558,17.341530633877465,3.4398410029047546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171992:1854020301:0106/pct:23.106413275644886,22.184044233807267,13.450900925570952,2.669826224328594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1109,7 +1109,7 @@ slaves aflost at once would, I really believe be productive
 of much mischief and inconvenience; but by degrees it  
 and assuredly ouglt to be affected, and that, too, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854042401:0772/pct:152.1746347941567,55.73947463116229,48.67197875166003,20.067170445004198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854042401:0772/pct:50.7248782647189,18.579824877054097,16.22399291722001,6.6890568150014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1137,7 +1137,7 @@ believe, be productive of auch mischief and
 inconvenience; but by egrees it might, and  
 assuredlyt ought to be effected;, and that, to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1854050501:0075/pct:13.88888888888889,316.1344537815126,43.23361823361823,23.753501400560225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1854050501:0075/pct:3.4740780331373595,79.03361344537815,10.814181364689114,5.938375350140056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1159,7 +1159,7 @@ it might, and assuredly ought to be effected; and that too,
 by legislative authority.&quot;  
 The people of the North would then alsdty t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530443:1854051301:0092/pct:249.580385058417,143.29571653925495,47.65509297350666,11.891760708651862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530443:1854051301:0092/pct:83.19346168613899,47.76523884641831,15.885030991168888,3.9639202362172874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1178,7 +1178,7 @@ venience and mischief, but by degrees it cer­
 tainly might, and assuredly ought to be ef­  
 fected, and that too by legislative authority.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021854:1854070701:0281/pct:147.36547085201795,147.92636050981184,57.73542600896861,10.762694719805786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:00296021854:1854070701:0281/pct:36.85169610316793,36.98159012745296,14.437902999719652,2.6906736799514466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1204,7 +1204,7 @@ To set the slaves afloat at once would, I really believe, be
 i grets it might, and assuredly ought to be effected; and that  
 &#x27; too, by legislativ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030364:print00211110089:1854071601:0001/pct:12.118537200504413,85.44335219938436,9.180327868852459,2.9490616621983916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030364:print00211110089:1854071601:0001/pct:12.12484237074401,85.44831694965744,9.186633039092056,2.94409691192533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1269,7 +1269,7 @@ tary on this correspondence betweca Wash­
 ington and Lafayette, on the subject ef Amer­  
 ican Slavery, to quote the words which th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1854082501:0536/pct:15.19672131147541,13.488059199461823,78.26229508196721,274.91871286018613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523969:1854082501:0536/pct:5.0647434846746435,4.495515695067264,26.083155766814183,91.62929745889387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1298,7 +1298,7 @@ Ip. 154.
 Again, he writes to John F. Mercer:  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854101001:0268/pct:248.48975188781014,100.26673440873873,48.13016900395541,26.152673694906643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854101001:0268/pct:82.82991729593671,33.42224480291291,16.04338966798514,8.717557898302214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1328,7 +1328,7 @@ assuredly ought to, be effected, and that, too,
 by legislative authority.&quot;?Page 163.  
 Again, ha writes to John F. Mercer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854101901:0176/pct:36.72371638141809,55.33585619678335,13.9119804400978,6.9157994323557235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1854101901:0176/pct:36.7318663406683,55.34216335540839,13.9119804400978,6.9157994323557235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1357,7 +1357,7 @@ and mischief; but by degrees it certainly
 might, and assuredly ought to be effected;  
 and that too by legislative authority.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1854102701:0149/pct:15.122846653487715,117.40650801359884,38.43547020615645,21.602719766877126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1854102701:0149/pct:5.040237187632359,39.13170163170163,12.810014588921831,7.2002072002072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1409,7 +1409,7 @@ Would to God, a like spirit might
 diffuse itself generally into the minds  
 of the people in this country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1855020901:0864/pct:197.32142857142858,297.1106412966878,45.68452380952381,26.046511627906977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1855020901:0864/pct:49.34871604019352,74.27766032417195,11.425381466319315,6.511627906976744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1447,7 +1447,7 @@ proof of your humanity. Would to God
 a like spirit might difluse itself generally  
 into tne minus or tne people in tms cou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855041401:0062/pct:58.68526897938663,82.44289044289044,16.289592760180994,10.256410256410257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1855041401:0062/pct:39.13754085994468,54.96503496503497,10.862459140055318,6.834498834498834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1517,7 +1517,7 @@ his death, he bone his practical testimony to
 those ideas and aspirations, by the emancipa­  
 tion of his slaves. With these things take
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856022501:0170/pct:5.91012084592145,93.27169274537695,15.993202416918429,5.846372688477952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856022501:0170/pct:4.585142188185942,72.2889795318414,12.399395151456027,4.530922720758461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1570,7 +1570,7 @@ last session, for the abolition of slavery ; but they
 could scarcely obtain a hearing.”  
 Such were the sympathies, principles and feel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856051301:0408/pct:6.18830675778284,60.91529277998863,15.698557327258921,6.083001705514497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171931:1856051301:0408/pct:4.79599843075716,47.216918783962406,12.166535896429972,4.718020267293288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1594,7 +1594,7 @@ ny cear Mar juis, which yoa propose as a precedent
  to sncournge the emancipation of the black people in  
 this conutry from that state of bondage in which the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856080201:0227/pct:195.08907077515647,220.16119612194836,46.926657037393674,14.4142039481369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856080201:0227/pct:65.02969025838549,73.3870653739828,15.642219012464558,4.804734649378966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1643,7 +1643,7 @@ authority.&quot;
 Governor Pinckney, of South Car-  
 olina, had written the following in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856091901:0151/pct:241.321044546851,245.62027567807914,44.00921658986175,55.72847191344301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1856091901:0151/pct:60.365033621517775,61.405068919519785,11.00864553314121,13.932117978360752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1664,7 +1664,7 @@ lie slaves on it, i* a generous and noble proof of your
 uitiaiilty. Would to trod a hke spinl might diffuse itself  
 rnrrallti into thr minds if thr people of this rountry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0599/pct:84.67451357194331,79.26817707839605,11.79437905356714,2.426770309981989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856101601:0599/pct:84.67451357194331,79.27133693557052,11.798382576667468,2.4299301671564444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1692,7 +1692,7 @@ manity. Would to God like spirit might dif
 fuse itself generally in the minds of the people  
 of this country?&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1857012801:0327/pct:63.60429222401881,55.46772068511199,12.288696163457299,4.358805445761967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1857012801:0327/pct:63.61409182223529,55.47138047138047,12.293595962565535,4.369784804567414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1717,7 +1717,7 @@ maid &quot;Oney&#x27; ran away to one of the New
 England States, the General was desired by  
 his wife to advertise her and offer a rewar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:158.6231884057971,70.656259034403,42.89855072463768,18.61809771610292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776981:1857040301:0693/pct:39.655797101449274,17.66406475860075,10.72463768115942,4.65452442902573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1775,7 +1775,7 @@ shown in the closing passage of Mr. Jefferson&#x27;s t?
 will, in relation to the slaves which his encum- u  
 be red estate enabled him to dispose of. It is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858051301:0299/pct:3.118175200194128,62.527109853842525,12.557631642805145,7.694483734087695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858051301:0299/pct:3.1262638518159025,62.53339619676253,12.553587316994257,7.697626905547698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1826,7 +1826,7 @@ edly ought to be effected; and that, too, by
 legislative authority.&quot;  
 Once more we quote from a letter writ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:21.729696218226906,81.82301355301621,16.11903285802852,19.08052086101515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:16.310077519379846,61.37390380015945,12.093023255813954,14.31039064576136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1861,7 +1861,7 @@ of an estate in the Colony of Cayenne,
   
 with a view of emancipating the slaves on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1859100601:1060/pct:173.9290989660266,118.66993731261924,49.926144756277694,13.028073044426273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1859100601:1060/pct:43.49030470914128,29.66748432815481,12.483841181902124,3.2570182611065683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1884,7 +1884,7 @@ and assuredly ought to be effected; and
   
 that too by legislative authority.&quot; Iag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1859100601:1060/pct:174.00295420974888,142.70918506405016,50.22156573116691,10.62959934587081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1859100601:1060/pct:43.50877192982456,35.67729626601254,12.557710064635272,2.6573998364677025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1906,7 +1906,7 @@ it, is a generous and noble proof of your the body, and the world of spirits in 
 humanity. Would to God a like spirit o an ta eae io o  
 might diffuse itself generally into the ing wit thos who reman in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1859100601:1060/pct:174.2245199409158,129.081493594985,102.21565731166913,28.999727446170617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1859100601:1060/pct:43.56417359187442,32.27037339874625,25.558633425669438,7.249931861542654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2018,7 +2018,7 @@ One hour of American Slavery is
 fraught with more misery than ages of  
 that which our fathers *rose in rebellio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058318:0027952892A:1860030801:0154/pct:79.06158357771261,19.393319700068165,14.120234604105573,10.724835264712565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058318:0027952892A:1860030801:0154/pct:79.07135874877811,19.40089373627206,14.125122189638319,10.717261228508672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2073,7 +2073,7 @@ your humanity. Would to God a like spirit
 might diffuse itself generally into the minds of  
 the people of this country.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:201.85331854902583,243.80693245001774,36.93964834468557,10.552466579912457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860062801:0200/pct:67.28443951634193,81.26897748333924,12.313216114895189,3.517488859970819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2094,7 +2094,7 @@ manity. Would to God a like spirit might dif­
 fuse itself generally in the minds of the people  
 of this couutrj!” * * * * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860090801:0002/pct:47.139013452914796,19.013102871480346,9.38116591928251,2.4114859213827713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860090801:0002/pct:47.139013452914796,19.01658767772512,9.385650224215247,2.418455533872317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2116,7 +2116,7 @@ and noble proof of your humanity. U ould to
 God a like spirit might diffuse itself generally in­  
 to the minds of people in this couutry,—Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668892:1860090801:0661/pct:40.95680863827234,46.04182634402716,11.247750449910018,2.584035913719479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668892:1860090801:0661/pct:40.95680863827234,46.04547611226687,11.257748450309938,2.5949852184386293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2137,7 +2137,7 @@ Would to God a like spirit might diffuse it­
 self generally into the mind* of the peoplo  
 of this country.&quot;— Wa*hingtoiC$ Lett*? tf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:82.6086956521739,14.10361003467265,12.41234221598878,3.446869263716092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:82.6086956521739,14.110408593378203,12.421692379616644,3.446869263716092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2158,7 +2158,7 @@ humanity. Would to God a like spirit
 ■ might diffuse itself generally into tho  
 minds of the people of this ecuutry.&quot;--
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1860100401:0607/pct:79.72231191475622,67.10992907801419,15.644171779141104,3.8120567375886525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028666:1860100401:0607/pct:79.73307501883544,67.11731678486997,15.638790227101497,3.8046690307328603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2186,7 +2186,7 @@ ground of defense and excuse for
 Slavery, for they seek not merely to  
 maintain it where it is, but to exten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1860101101:0595/pct:150.5731922398589,91.6560347027303,44.04761904761905,30.89223441354087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn86058541:00202191472:1860101101:0595/pct:37.647447910924924,22.914008675682574,11.013118730018741,7.723058603385217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2212,7 +2212,7 @@ sword in the. cause of America, if I
 could have conceived that thereby I  
 was helping to tound a nation of slaves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1860101101:0521/pct:104.75741239892183,46.26065004733354,18.369272237196764,9.971599873777217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1860101101:0521/pct:69.86652285290549,30.84043336488903,12.255628960496157,6.647733249184811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2231,7 +2231,7 @@ and noble proof of your humanity. Would to
 God a like spirit might diffuse itself generally  
 into the minds of the people of this country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477795:1860102401:0157/pct:104.88817891373802,89.80868728191554,19.472843450479232,3.3209000120322463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477795:1860102401:0157/pct:78.6866911647228,67.35651546143664,14.60297172072216,2.490675009024185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2251,7 +2251,7 @@ Would to God a like spiritmight diffuse itself
 generally into the minds of the peopleof this  
 oountry.&quot;— Washington&#x27;s letter to Lafayette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1860110201:0592/pct:51.428975664968874,9.382878439109941,11.148839841539333,2.5868683547078812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1860110201:0592/pct:51.428975664968874,9.386532207972524,11.15355593284286,2.5941758924330447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2277,7 +2277,7 @@ session for the abolition of slavery; but
 they could scarcely obtain a hearing.&quot;  
 —[Letter of Lafayette.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1860120801:0015/pct:48.78787878787879,23.657996679579412,14.153297682709447,7.6784726065301605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291049:1860120801:0015/pct:48.80124777183601,23.661455451023798,14.148841354723707,7.681931377974544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2305,7 +2305,7 @@ are in Pennsylvania laws for the
 gradual abolition of slavery, which neither  
 Virginia nor Maryland have at present, hu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861022201:0002/pct:3.114848079495509,33.696916812100056,10.051595643034588,5.206515415939499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861022201:0002/pct:3.114848079495509,33.70055264688772,10.065927766099751,5.221058755090168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2415,7 +2415,7 @@ the hope that it may suggest to ibeir minds
 tbe practical wisdom, as well as jostle*, of  
 giving to evtry slave either freedom or 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862121201:0552/pct:42.56633119853614,85.68824065633547,13.746569075937787,6.381039197812215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862121201:0552/pct:42.56633119853614,85.69279854147675,13.763723696248856,6.381039197812215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2450,7 +2450,7 @@ Wonld to Qod a like spirit might diffuse itself
 generally in the mind of the people of this  
 country.&quot; In a letter to Kooert Atoms, ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477801:1863021101:0093/pct:24.18909592822636,87.86970684039088,19.806763285024154,9.055374592833877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477801:1863021101:0093/pct:18.15984809252546,65.90228013029316,14.862765406525117,6.801302931596092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2472,7 +2472,7 @@ r wiGHt DiFFUSe irSelF GENerally into The
 NINDS OF THE PEOPLR oF ThIs COUNTrY.&quot;  
 Still more emphatic is the expression of a lette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:0020653073A:1863022701:0395/pct:201.13274336283186,226.37225548902197,48.83185840707964,13.46057884231537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:0020653073A:1863022701:0395/pct:67.04424778761062,75.45741849634065,16.277286135693217,4.486859614105123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2518,7 +2518,7 @@ Would to God a like spirit might diffuse it-
 self generally into the minds of the people of  
 this country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863062501:0577/pct:111.97522367515485,122.92297564186966,47.694425326909844,13.851217906517446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863062501:0577/pct:28.008263040110172,30.730743910467414,11.929764159063522,3.4628044766293615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2566,7 +2566,7 @@ ally into the minds of the people of this
 country.&quot; Passing over other letters  
 abounding in the game sentiments, 1 com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1864070901:0209/pct:5.668246445497631,82.96538954564876,16.13270142180095,6.509044295684375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1864070901:0209/pct:4.397864733826339,64.30200897784974,12.512855673637299,5.040841857384649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2587,7 +2587,7 @@ manity. Would to God a like spirit
 might diffuse itself generally into the  
 minds of the people of this country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028034:1864111001:1034/pct:127.44186046511628,167.96319531576745,49.06976744186046,15.61410846228914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84024207:00296028034:1864111001:1034/pct:31.878999418266435,41.99079882894186,12.27457824316463,3.903527115572285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

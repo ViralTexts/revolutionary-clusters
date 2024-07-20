@@ -41,7 +41,7 @@ The bill limiting the time for present­
 ing claims for destroyed certificates, was  
 read the third time and pafTed. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030701:0003/pct:49.170918367346935,45.234215885947044,18.81377551020408,11.038696537678208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794030701:0003/pct:49.18686224489796,45.24949083503055,18.8297193877551,11.038696537678208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -62,7 +62,7 @@ The bill limiting the time for presenting
 claims for destroyed certificates, was read the  
 third time and passed. The blank for the tim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794032901:0202/pct:32.92845504369723,5.881761512165695,19.43415790253296,4.836115021114016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794032901:0202/pct:32.93833012393225,5.888464374287821,19.43415790253296,4.8294121589918895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ of a number of vessels with their cargoes,
 the property of the citizens of the United  
 States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794040301:0002/pct:12.047511312217194,34.76163976998701,18.297511312217196,13.485438694119829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794040301:0002/pct:12.061651583710407,34.77091448710814,18.297511312217196,13.494713411240957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ Sec. I. T) Eit enaP.ed by the $eifate and
 Jj Houfi of Reprefenlaiives of  
 the United Statet of America, in Cer.grefs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794040401:0002/pct:49.971687429218576,82.28244837758112,20.781426953567383,10.988200589970502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794040401:0002/pct:49.992921857304644,82.29166666666667,20.76727066817667,10.992809734513274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ ing on the Slave trade from the United
 States to any foreign place or country—to  
 which they request the concurreece of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800042201:0002/pct:77.18470705064549,66.49196956889264,15.839126117179742,6.914623837700761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1800042201:0002/pct:77.20332671300893,66.49196956889264,15.839126117179742,6.9273034657650046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ cond time ahd referred to the {fame
 committee of the whole, to whom a  
 bill of a similar nature teported i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800050601:0283/pct:23.1307321622882,5.048029798078808,16.38426861495414,6.822191727112331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800050601:0283/pct:23.135913777915952,5.048029798078808,16.39463184620965,6.822191727112331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ hundred :” :
 tion of the United States, from and after the  
 first day of January, in the year of our Lor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052801:0501/pct:23.572558607795198,68.4406912804399,16.726592837624047,7.482325216025138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1822052801:0501/pct:23.57735270147179,68.4406912804399,16.736181024977228,7.482325216025138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ place or country’ was passed, (Stat. 1794, c. 11.) s
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1850-05_11_29/page/n93/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1850-05_11_29/page/n93/mode/1up?view=theater)
 
 #### 1850-05-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 

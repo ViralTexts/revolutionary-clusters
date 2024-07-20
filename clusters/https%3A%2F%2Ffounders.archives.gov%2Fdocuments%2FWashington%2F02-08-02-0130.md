@@ -215,7 +215,7 @@ quietly have, hold, use, occupy, possess,
 And enjoy the above demised premises, for  
 and during the term granted thereof with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803031101:0192/pct:5.9282868525896415,42.76867030965391,22.05577689243028,3.397085610200364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803031101:0192/pct:5.927342256214149,42.76477552135507,22.057573826216274,3.399811796132714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ former estate, or resort to his or their legal
 remedy in the premises. And the said party  
 of the second part, by the said Postmaster
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297581:1880021201:0540/pct:11.143984220907297,142.11341803532693,59.861932938856015,23.67524016114038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297581:1880021201:0540/pct:2.788058228472736,35.52835450883173,14.976560572415496,5.918810040285095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ ordered to be certified.
 Test’e,  
 Jno. Chew, C. C. H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173514:1891022701:0489/pct:18.183831672203766,50.6244146113019,14.994462901439645,4.152357165157665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173514:1891022701:0489/pct:18.179805137289637,50.61651318869986,14.9966784765279,4.15561105041361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

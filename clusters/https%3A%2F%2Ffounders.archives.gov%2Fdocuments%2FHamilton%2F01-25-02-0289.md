@@ -40,7 +40,7 @@ as Vice Presrdenr. *&#x27; .
 si directed without delay, .to transmir th:  
 foregoing amendments \ to the dissere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802011301:0653/pct:48.61188228761799,74.57194599934145,20.044419766796224,7.087586433980902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1802011301:0653/pct:48.605135322692576,74.56580788542267,20.046264168401574,7.089746755562872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ the state of the Union,
 tee of ways and in®ans, reported a bill mak­  
 ing partial appropriations for the naval ser
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803012501:0220/pct:42.93811998110534,22.78644539401769,16.469847268146747,6.508993341945742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803012501:0220/pct:42.94861701569307,22.78644539401769,16.464598750852883,6.5123058067508035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ which as Vice President.&quot;
 This cafe does not come within the J  
 limits of the general queftion, whether 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803020901:0003/pct:40.60790273556231,66.55441810344827,17.973657548125633,5.792025862068965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803020901:0003/pct:40.62141168524147,66.56339798850574,17.96690307328605,5.792025862068965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ which for &#x27;Vice-Presidentﬀ&#x27; &#x27;
 hit-. Dss yton moved tsio refer this mbtion  
 to a select committeesi He thought th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803102401:0257/pct:24.891092083521105,78.19416277224231,23.013369385609135,5.581518384622167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803102401:0257/pct:24.887353559627517,78.18726855933697,23.014919395213777,5.583965203079997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ tee of the whole on the fate of . the
 Union. | ol %  
 &quot; The Speaker laid before the Hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110101:0380/pct:8.30229671011794,71.6602392959557,16.511483550589695,11.401166814990606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110101:0380/pct:8.307469480653838,71.66353538349979,16.521829091661495,11.397870727446522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ exertions in obtaining the above a­
 mendment to the Confßtitution of the  
 United States, or some other amend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0385/pct:25.328388193478595,3.796073717948718,16.226240148354197,10.84735576923077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0385/pct:25.33353938082728,3.8027510683760686,16.23139133570288,10.850694444444445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ rial courts ; and the other, to ami
 • divide the Indiana, territory  
 two separate governments, and foi othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806040401:0001/pct:79.55101133585241,62.26544308998767,19.026450322293844,24.982879057663332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806040401:0001/pct:79.56582944358006,62.270008674610786,19.033859376157665,24.978313473040224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ courts ; and the other, to amend the aft
 to divide the Indiana territory imo two  
 separate governments..and for other pur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806041101:0129/pct:59.91281273692191,1.9385896435076764,37.92645943896892,92.51886546968514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806041101:0129/pct:59.90145916240288,1.9383374528424613,37.925589034173456,92.51116603789949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ may be some detached portion of territory not sufficient
 mr cit to fori a District, which then shall be annexed  
 to some other Distriet,&quot; the validity of which election
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869020901:0272/pct:52.414330218068535,72.62008733624454,48.45794392523364,26.2117903930131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530911:1869020901:0272/pct:17.471443406022846,24.20669577874818,16.152647975077883,8.7372634643377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ by Mr. Morris of that State to the
 House. UIbid, page 472  
 The amendment proposed Februar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881030201:0884/pct:300.70866141732284,157.54608294930875,81.5748031496063,44.00921658986175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881030201:0884/pct:75.19196692262257,39.38652073732719,20.39771608584367,11.002304147465438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

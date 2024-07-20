@@ -32,15 +32,15 @@ the Floridas; because their position and the
 manifest course of events guaranty an early and  
 reasonable acquisition of them&quot; In Mr. Madison&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743191:1844030701:0285/pct:8.664495114006515,6.005013673655424,93.25732899022802,273.94029170464904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743191:1844030701:0285/pct:2.8881650380021715,2.001671224551808,31.085776330076005,91.31343056821635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1844-04_14_80/page/n91/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1844-04_14_80/page/n91/mode/1up?view=theater)
 
-#### 1844-04-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1844-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -127,7 +127,7 @@ their position and the manifest course of events
 guarantee an early and reasonable acquisition  
 of them.” In Mr Madison’s letter, also, as Sec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844043001:0069/pct:50.76262401895454,84.22699770498645,14.971123944913371,6.4051742123930735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844043001:0069/pct:50.767560096747125,84.22699770498645,14.971123944913371,6.408651505667988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ the Florulas; because their position and the
 manifest course of events guarantee an early  
 and reasonable acquisition of them.&#x27;1&#x27;’ In Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844050101:0138/pct:47.12278353964537,8.998699609882966,13.198394111743058,3.368010403120936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844050101:0138/pct:47.11490215755143,8.997529580028605,13.200367954507442,3.370823039916786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ j no en&#x27;ml&#x27;ty.&quot; &quot;We are the less disposed also to
 ike sacrifices to obtain th? Florida#; because their  
 T^tiun and the manifest course of events guarant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844052801:0410/pct:1.177336276674025,27.168183996166746,15.261221486387049,1.6003833253473887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844052801:0410/pct:1.177336276674025,27.168183996166746,15.266127054206525,1.6067720811371986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

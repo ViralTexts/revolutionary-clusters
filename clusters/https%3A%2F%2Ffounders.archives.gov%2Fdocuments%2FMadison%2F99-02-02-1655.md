@@ -100,7 +100,7 @@ swer to the said bill, orany of the matters and things
 therein contained, and prays that he may be hence  
 dismissed, with his reasonable costs in this behal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843090101:0267/pct:154.18994413407822,39.37464468447982,46.89451199474203,5.719158612848209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174318A:1843090101:0267/pct:51.39664804469274,13.124881561493273,15.631503998247343,1.9063862042827364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ any further or other answer to the said bill, or any of the mat
 ters and things therein contained, and prays to be hence dis  
  missed with his reasonable costs in this behalf sustained
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856120701:1318/pct:141.01543056246888,278.0846935281361,45.910071345611414,3.2872959707795912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856120701:1318/pct:47.00514352082296,92.69489784271202,15.303357115203806,1.0957653235931972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ he is advised it is material for him to an
   
 swer, answering, says: That he denies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293034:1871012701:0106/pct:103.32749562171628,134.66681649623553,38.12025685931115,5.303966737835712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293034:1871012701:0106/pct:25.83564443146986,33.66670412405888,9.531455262005547,1.325991684458928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ this Honorable Court shall direct and pray to be
 hence dismissed with their reasonable costs in this  
 behalf most wrongfully sustained.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053944:00295873735:1886083001:0103/pct:87.37745098039215,30.253916801728796,18.186274509803923,5.438501710786962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053944:00295873735:1886083001:0103/pct:65.55528315763668,22.690437601296598,13.655307673449375,4.087880424995498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ aud pi ays to be hence dismissed
 with his reasonable costs In this be­  
 half sustained. Kealina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82016412:00294551967:1887051901:0565/pct:42.42707554225879,20.838682071031236,15.613313388182497,2.1965482812722863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82016412:00294551967:1887051901:0565/pct:31.83093323358893,15.632577378405363,11.72620160837853,1.654542861218086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ matters therein contained, and prays to
 be hence dismissed with his reasonable  
 costs in this behalf sustained
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195465:1887052001:0459/pct:24.692269817823732,102.94811320754717,16.285081240768093,6.78066037735849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195465:1887052001:0459/pct:18.527637572325496,77.21108490566037,12.212236858303582,5.090408805031447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ these defendauts be hence dismissed with
 their reasonable costs in. this behalf most  
 wrongfully sustained
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037470:1896121501:0243/pct:71.54898218829517,64.44704505558806,13.39058524173028,1.5447630193095376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_carlsbad_ver01:data:sn85066387:00175037470:1896121501:0243/pct:71.55428329092452,64.44704505558806,13.395886344359626,1.5486639360249659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ bill, and prays to be hence dismissed
   
 half sustained.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn82015415:00237283910:1897072701:0575/pct:64.78873239436619,8.437067773167358,18.948063380281692,2.289841708928846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_azure_ver01:data:sn82015415:00237283910:1897072701:0575/pct:48.62365117815459,6.331642846165668,14.225941422594142,1.7212232979867834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

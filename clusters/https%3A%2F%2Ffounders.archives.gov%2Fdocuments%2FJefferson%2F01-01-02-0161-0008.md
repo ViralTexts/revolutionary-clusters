@@ -2083,7 +2083,7 @@ all others offending against the state, either [
 by mal adininiftration, corruption, or other J  
 means, by which the fafety of the eommoii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011401:0003/pct:56.206482593037215,27.56183745583039,19.903961584633855,7.635581502534952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799011401:0003/pct:56.206482593037215,27.56183745583039,19.90996398559424,7.643263174066677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2806,7 +2806,7 @@ due; and by the public treaty of peace
 between the courts of Britain and  
 Fiance, in the year 1T63 ; ;i:v-. fs b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805013001:0001/pct:40.79151005969489,57.86710871667357,18.660181295600264,5.801906340654787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805013001:0001/pct:40.80624953939126,57.86710871667357,18.660181295600264,5.806511028226735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2840,7 +2840,7 @@ tiie court of appeals.&quot; Hence it appears
 most clearly, that these general words  
 &#x27;• offending against the state by mal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805080901:0002/pct:5.343671416596814,47.78713731782324,18.021793797150043,12.44818826046263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805080901:0002/pct:5.343671416596814,47.79605116548558,18.021793797150043,12.44818826046263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2859,7 +2859,7 @@ wealth, save only such as the legislature may abolish,
 or otherwise provide-for. The commonwealth then  
 stands on the same ground here, with respect to thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805112901:0833/pct:30.49108233569509,89.60872354073123,20.962619105790374,3.0949326491340603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805112901:0833/pct:30.483634587200783,89.59435626102292,20.963605276013677,3.0984447651114317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2878,7 +2878,7 @@ by joint ballot of both houfe* of aflembly, at
 the end of every three years, and be ineligible  
 for the next three years.” Previous to the tak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805121901:0267/pct:59.11961367013373,56.00967659791189,17.62630014858841,2.8647822765469826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805121901:0267/pct:59.108635097493035,56.00254614894971,17.629216960693284,2.868661150010609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2915,7 +2915,7 @@ with the conieut of the Houfe of Delegates, except
 money hill*, which in no indance (hall lie altered by  
 che Senate, but wholly approved or rejecte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806020601:0343/pct:2.8207964601769913,1.838845613587026,18.086283185840706,2.8348869876133316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806020601:0343/pct:2.8202764976958523,1.8386108273748722,18.089093701996926,2.8387810691181476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2935,7 +2935,7 @@ the consent of th&lt;: horre cf Delegates,
 e xcept money bills, w hich in no instance  
 shall be altered by the Senate, but wliol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806020701:0050/pct:5.616078136739294,61.823544498589385,16.9045830202855,3.847140292382662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806020701:0050/pct:5.615023474178404,61.815617386844465,16.907668231611893,3.8509210582553317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2966,7 +2966,7 @@ of taxes, and bills for the appropriation of Revenue,’*
 are “money Bills” within the mea ling of the faid reci­  
 ted article of the conllitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806092601:0163/pct:58.47953216374269,10.028265945680227,17.507309941520468,9.241735283273934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806092601:0163/pct:58.46884706742189,10.027033669206194,17.510201595712285,9.244695666420906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2989,7 +2989,7 @@ ive county courts ; that tnc Governor and coun­
 cil fliall have power to futpend an officer ami  
 order a court martial: that they may fuppl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807082501:0134/pct:22.56717501815541,56.28823097626621,17.374727668845317,5.064839735747492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807082501:0134/pct:22.563078598656745,56.281345565749234,17.377624493253464,5.068297655453619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3017,7 +3017,7 @@ jthe Governor, and continue in ojffiee during
 in conformity to these provisions m the  
 [Constitution, the legislature, long since, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122801:0286/pct:59.48977745612448,48.93695014662757,17.53211507146734,7.258064516129032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809122801:0286/pct:59.479015918958034,48.93097128894319,17.53497346840328,7.261250254530646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3037,7 +3037,7 @@ Mth section of the constitution “ the t\Vo houses
 “ Court, Judges in Chancery, Judges of Admi­  
 ralty, !tc.” It is thought that cr. no question o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810011601:0318/pct:23.46829093514869,20.313068802329813,16.821927624507346,3.1306880232981436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810011601:0318/pct:23.464087408203476,20.310604222276147,16.82488506776524,3.134352503437677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3442,7 +3442,7 @@ houses appoint ju
 gress shall be chosen annually, or superceded in the  
 meantime, by joint ballot of both Houses of Assembly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0415/pct:49.831460674157306,17.737757493524114,22.134831460674157,1.7022326384605897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813122701:0415/pct:49.82213068713724,17.735569807597436,22.136928165761717,1.706133859562572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3462,7 +3462,7 @@ ded into Four Classes, and numbered Imtot.&quot;—
 This was the course originally pursued. The  
 Dist riets werefirst formed, and then if was 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817032801:0432/pct:53.03524804177545,78.6711966779917,15.045691906005223,2.856423807726186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817032801:0432/pct:53.02659487681514,78.66129843985908,15.04867569478436,2.8602583459151147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3495,7 +3495,7 @@ Augusta, annually, of surh men as actually
 reside In, and are freeholders of the same, oi  
 duly i/uulified according to law.&quot; If the consti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819122301:0271/pct:19.27219321148825,82.35645933014354,14.654046997389035,8.68421052631579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819122301:0271/pct:19.269048784467287,82.34660925726588,14.657094686463262,8.68715863333732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3583,7 +3583,7 @@ men as actually reside in, or are freeholders of
 the .same,” or “ duly qualified according to law.&quot;  
 The Legislature have construed these last words
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824032301:0069/pct:35.527544351073765,30.91015169194866,15.032679738562091,7.339556592765461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824032301:0069/pct:35.52201649292049,30.906545327266365,15.035527202945906,7.342589351689806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3605,7 +3605,7 @@ dations of the respective County Court.
 I underst ind that too Executive so construe  
 this clause, as giving them the power of makin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824032301:0069/pct:35.714285714285715,82.53208868144691,15.219421101774042,4.247374562427071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824032301:0069/pct:35.70872880037342,82.52245945630615,15.222239510398838,4.250768093960254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3630,7 +3630,7 @@ emergencies demanded it. It never could be
 intended that the County Courts were to be rie­  
 J privedol tue selection from among the officer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824032301:0069/pct:50.98039215686274,6.196032672112018,15.31279178338002,5.775962660443407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824032301:0069/pct:50.97245993465069,6.1953097654882745,15.315595664125304,5.779177847781278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3652,7 +3652,7 @@ at the same time, except that the justices of
 the county courts shall be eligible to either  
 house of Assembly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824050401:0474/pct:19.573420836751435,56.74641148325359,15.602953240360952,4.37799043062201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824050401:0474/pct:19.57020997375328,56.7396244468365,15.605861767279091,4.381453574133875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3674,7 +3674,7 @@ at the same time, except that the justices of the
 oounty courts shall be clligiblc to either house  
 of Assembly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824050701:0122/pct:33.312262958280655,44.461095100864554,15.470922882427308,4.0806916426512965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824050701:0122/pct:33.306999525991465,44.455970493314894,15.473745194080161,4.084063316428462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3696,7 +3696,7 @@ of them at the same time, except that the
 justices of the county courts shall he eligible  
 to either House of Assembly.”—The con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824120401:0239/pct:33.1076724693746,41.942843419788666,15.119277885235332,4.418828049951969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824120401:0239/pct:33.102336825141016,41.93780765998319,15.122213268869192,4.422299595789811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3718,7 +3718,7 @@ Sec. 7. *• That the right of suffrage in the
 election of members of boili houses, shall re  
 main as exercised at pres. nl”.—Let me as
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824120401:0239/pct:33.172147001934235,52.6657060518732,15.31270148291425,4.550912584053794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824120401:0239/pct:33.16680096696213,52.65938287909713,15.315605694332527,4.554368271501181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3736,7 +3736,7 @@ bers to be chosen by the Assembly out of
 their own body, or the people at large, “ to  
 assist in the administration of government”—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824122101:0263/pct:33.23680823680824,22.8543992317849,15.057915057915057,2.244628495978874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824122101:0263/pct:33.231462119993566,22.8516562650024,15.060854645863493,2.248359737558009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3760,7 +3760,7 @@ forward rease &#x27;.o vend a delegate represent-! -
 live to the assembly Why. ii may be asked*,  
 should not a county lose its light to di: tinc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1825012201:0024/pct:77.42986425339366,71.96616817847512,17.14027149321267,5.467026231919588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn85025230:00414184108:1825012201:0024/pct:77.41585233441911,71.95734771418066,17.14320183375558,5.470441639089758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3799,7 +3799,7 @@ Council, who is to discharge the duties
 of the Executive, may, by his own  
 vote, in his legislative character, pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825030101:0106/pct:24.2467718794835,65.26177148501812,14.171847600828949,9.219624629568653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825030101:0106/pct:24.242907236212943,65.25460930640914,14.174901710763999,9.22227099795142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3823,7 +3823,7 @@ such city or borough h ill tlicnc forth cen-&gt;e ,
 to senJ a delegate or representative to the ,  
 Assembly.&quot; &#x27;Vmtt it» the reasonable rond
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825080101:0386/pct:17.68342951360264,42.79604778056334,15.37510305028854,6.090547116944403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1825080101:0386/pct:17.67978569956728,42.78973754054851,15.377086338347414,6.093335299321734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3847,7 +3847,7 @@ ncapacify or resignation, the Governor, with the advice !
 d the Council, shall appoint persons to succeed in of- j  
 !ice, to he appioved or displaced by both Houses.” So 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825091601:0205/pct:40.242367012905255,24.383434155421128,17.57947749449166,6.852024197301071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184534:1825091601:0205/pct:40.2360346184107,24.380597882982435,17.581956464725938,6.855104493815672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3865,7 +3865,7 @@ d the Council, shall appoint persons to succeed in of- j
 shall appoint persons to succeed in office, to be  
 approved or displaced by both House*?” &quot;ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826020701:0328/pct:36.183474508550425,14.964598583943358,14.703532044110597,2.088083523340934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826020701:0328/pct:36.17769255353148,14.962802975761939,14.706509001811016,2.091832653387729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3910,7 +3910,7 @@ tu nflli e, lu lie ajiprov ed ur ill placi d by
 lint|| houses,” and it is in the I • l sentence  
 that lie finds this power. i\nvv is il no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826050101:0692/pct:16.845804051260853,62.50365176745545,15.06821000413394,7.4642126789366054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826050101:0692/pct:16.842322793965696,62.4945231488243,15.070262450919612,7.466773769534102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3946,7 +3946,7 @@ instrument Mr. D.rby disclaims the editorship of
 that part of the work, which professes to intro­  
 duce the Constitution of the United Stales, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080401:0104/pct:82.88676236044657,53.90053924505692,15.518341307814993,11.491911324146196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080401:0104/pct:82.87354488917238,53.89408099688473,15.521182161271462,11.494528316958224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3971,7 +3971,7 @@ courts system had been long tried, and had always
 been found the purest, and best system for the  
 administration of justice, that had appeared in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080401:0105/pct:17.592295345104333,7.73109243697479,14.991974317817014,5.630252100840337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826080401:0105/pct:17.589471994864386,7.730164446044893,14.994917883699781,5.6335774016724685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4030,7 +4030,7 @@ each county, and for the District of West Augus­
 ta, annually, of such men as actually reside in,  
 and are freeholders of, the same.’” It is not said
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012701:0345/pct:1.3911355548366224,44.42565527237589,14.978971206729215,2.500301968836816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827012701:0345/pct:1.390910561216238,44.42028985507246,14.981939727209014,2.50402576489533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4050,7 +4050,7 @@ District of West Augusta, annually,of
 such men as actually reside in, and are  
 freeholders of. the same.” It is uot said
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827020801:0239/pct:57.47747747747748,73.5315135057882,18.513513513513512,3.944547663284265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827020801:0239/pct:57.46453501463634,73.52100600171478,18.514974104931323,3.947556444698485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4072,7 +4072,7 @@ na»d are freeholders of the same, or duty qual
 fied according to law.&quot; These last words con­  
 g.iture the basts of all the diversity ot opinion o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827021501:0378/pct:3.9243953227614927,87.83100625902745,15.168989267980137,4.164660568127107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827021501:0378/pct:3.9237668161434978,87.82043567216272,15.171898355754857,4.168171059493722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4094,7 +4094,7 @@ legislative, Executive and Judiciary departments
 branches, who, together, shall be a complete Le­  
 gislature.” The Executive and Judiciary are also 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827021701:0379/pct:48.196295092622684,61.317567567567565,15.778355541111472,4.138513513513513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827021701:0379/pct:48.18846466287571,61.31017010495838,15.781207690224749,4.142035629549202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4117,7 +4117,7 @@ are freeholders of the same, or our.Y QUAi.jnro
 ACCono: na to i.aw. ’ IHre, to a certain e.t*  
 ; tent, the qualifications r.f persons eligible to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827022701:0398/pct:19.17090216010165,67.1998031496063,15.168360864040661,4.699803149606299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827022701:0398/pct:19.167857710020645,67.19153647435108,15.17124556667196,4.703325542297126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4175,7 +4175,7 @@ corroboration ol Air Jeff.-rson’s idea, that the
 Constitution, as then drawn up, was only intended  
 to answer temporary purpose*, and hence, the re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827052201:0027/pct:33.09620048504446,51.29980563654033,15.537590945836701,6.790573372206025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827052201:0027/pct:33.09085030714517,51.29357463864934,15.540467722814958,6.793797319729544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4195,7 +4195,7 @@ Ministers of the Gospel of even) denomination,
 be incapable of being elected members ol either i  
 House of Assembly or the Psivy Council;” the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827052901:0337/pct:38.72976338729763,60.321525110257504,15.110004151100041,2.97339593114241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827052901:0337/pct:38.72172649927371,60.31294452347084,15.112056443245487,2.976529160739687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4223,7 +4223,7 @@ viour.” It is contended, that the proposed mo.lt-1
 rtcation of the judicial system is in violation of]  
 ihis clause of the constitution. If it be so, it is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827082801:0143/pct:19.41808981657179,35.16969407265774,15.101201771030993,6.9311663479923515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827082801:0143/pct:19.41501976284585,35.165491695543075,15.104084321475625,6.934321105667742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4243,7 +4243,7 @@ a calm and dispassionate perusal, must admit.-_The
 “Appeals and General Court, Judges in Chancery,  
 “Judges of Admiralty, Ac ”—This seel ion taken i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828011201:0020/pct:6.555068836045057,64.90860402840843,17.443679599499376,3.1435557107928744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828011201:0020/pct:6.554043485061786,64.90104772991852,17.44616507638563,3.147070236709352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4270,7 +4270,7 @@ behaviour.” And whether this bill is unconsti­
 tutiona! or not, depends upon what is the proper  
 construction to be put upon this clause of the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020901:0373/pct:50.84497887552811,31.636980491942325,15.307117322066949,6.337089543196414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828020901:0373/pct:50.83671811535337,31.633147564817058,15.310046033035473,6.340360229383733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4303,7 +4303,7 @@ bers of eitheir House of Assembly or the Privv
 Council.” *  
 Now. Mr. Speaker, this is the only clause in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828021201:0377/pct:35.23114355231144,60.901251062796064,15.182481751824817,9.352605368638406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828021201:0377/pct:35.22542977619202,60.89385474860335,15.185425451400151,9.355517771840336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4335,7 +4335,7 @@ ral Court, the impeachment of whom is, by the
 ot Appeals, and by making the judges of the Gen­  
 eral Court Chancellors aLo, you disqualify tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828021201:0377/pct:50.77047850770479,41.33365723308636,15.587996755879967,9.316166646422932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828021201:0377/pct:50.762244566980215,41.328637357299,15.590874689155584,9.319083475022266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4362,7 +4362,7 @@ reed iu office,” fsc.
 It must he admitted hy every gentleman who has  
 roars th s clause of the Constitution, that its phra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828021401:0381/pct:4.272278016897816,72.04365555289039,15.319623784473139,6.296473974574239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828021401:0381/pct:4.271597067261715,72.03501618899149,15.322494952714909,6.299716192988767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4395,7 +4395,7 @@ Governor, with advice of Council, shall appoint
 persons to succcd in office.&quot; Sir, (said Mr. N.) I  
 apprehend that the two sentences of this sectio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828021401:0381/pct:19.990435198469633,14.475893499640202,14.841383707954726,9.15087550971456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828021401:0381/pct:19.987248963978324,14.474157572850462,14.84433110190203,9.15377543270576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4416,7 +4416,7 @@ crimes or offences before mentioned, such House j
 ot Delegates may, in like manner, impeach the  
 Jm.ge or Judges so accused, to be prosecuted i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828022101:0391/pct:50.971575397462665,72.21146866682797,15.33643809217922,3.580933946285991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828022101:0391/pct:50.96339113680154,72.20273376073546,15.339327767073431,3.5845328817386397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4436,7 +4436,7 @@ joint I,allot, appoint Judges of the Hopremc Court
 ol Appeals, and General Court, Judges in Chance  
 ry Judges of Admiralty, &amp;c ” |K&quot;h?X
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828022101:0391/pct:50.810984422675446,85.8456327123155,15.079492532519673,3.0970239535446407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828022101:0391/pct:50.80282594733462,85.83524857868635,15.082423463926354,3.1006814241361234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4489,7 +4489,7 @@ joint ballot of both Houses, (to be taken in each
 House respective!v) deposited in conference room,  
 tic.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828030101:0407/pct:4.627992929455247,20.634920634920636,15.426643098184156,17.869167869167867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828030101:0407/pct:4.627249357326479,20.632439581579895,15.429520137103685,17.87102721333814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4512,7 +4512,7 @@ W ill any man contend that (lie only object of
 these Sections, Was t«, designate the appointing  
 power? It so, where is the Executive organized 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828030101:0407/pct:4.66013176924313,38.63636363636363,15.394504258396271,4.3410293410293415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828030101:0407/pct:4.659383033419023,38.63171816760851,15.39738646101114,4.344515249889784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4535,7 +4535,7 @@ in office during good behaviour, Sir.&quot; The simi­
 luity of the language is apparent and palpable—  
 yet this Section is said only to designate the ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828030101:0407/pct:4.627992929455247,55.146705146705145,15.249879479350795,4.377104377104377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828030101:0407/pct:4.627249357326479,55.14007454611038,15.252784918594687,4.38058594845898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4558,7 +4558,7 @@ J grounds, ’ “ be accused of the crimes or offences
 in lino manner, impeach tho Judge or Judges so  
 • accused, to be prosecuted in the Court of Appeals
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828030401:0413/pct:19.620051085568328,23.37146297411198,15.373563218390805,4.708007224563516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828030401:0413/pct:19.616919393455706,23.368649169275223,15.376429901569566,4.711453567702063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4579,7 +4579,7 @@ res belore mentioned, such House ol De.e-ates may
 l*ke marine!, impeach the Jm.-e or Jm.gib so ac­  
 cused, to be prosecuted in the Court of Appeals.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828032201:0023/pct:38.973561430793154,35.0259984511561,17.44945567651633,3.429582918464432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1828032201:0023/pct:38.96750116622609,35.02212389380531,17.45192556885917,3.4328908554572273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4606,7 +4606,7 @@ ring good behaviour; now, sir, it is proposed to
 supply the ellipsis of language, by reading this  
 part of the constitution with tho word “ and” in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828041501:0461/pct:35.50968154904785,17.486797887662025,15.282445191230597,6.156985117618819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1828041501:0461/pct:35.504,17.484699387975517,15.285333333333334,6.160246409856394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4626,7 +4626,7 @@ South Carolina, arc hereby, ceded, released,
 and forever confirmed to the people of (bom rolo­  
 nies respectively,” fcc. hr. All that any colon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829010801:0321/pct:17.885649128522562,81.20733021918792,14.953575500895912,2.910528206970895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829010801:0321/pct:17.882736156351793,81.19760479041916,14.95656894679696,2.914171656686627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4645,7 +4645,7 @@ ilia, North and South Carolina, are hrieUv ce­
 ded, released, and forever confirmed to iIm* peo­  
 ple ol those colonies respectively, ’ $v&lt;*. Nlc. \
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1829011501:0177/pct:22.900763358778626,76.7064233366863,14.689498658964308,2.45724960482828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348823:1829011501:0177/pct:22.896039603960396,76.69540229885058,14.691625412541255,2.4604885057471266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4674,7 +4674,7 @@ colonies of Maryland, Pennsylvania, North mid South
 Carolina, are hereby ceded, released, and forever  
 confirmed to the people of those colonics respective-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829011601:0180/pct:59.1584941474217,33.17004898530441,18.522619424232836,8.595754606951248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829011601:0180/pct:59.14913806737308,33.16618075801749,18.5249617797459,8.598639455782314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4692,7 +4692,7 @@ i colonics of Maryland, Pennsylvania, North and South
 Carolina, are hereby ceded, released, and forever  
 : confirmed to the people of those colonies respective
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829011601:0016/pct:59.32389937106918,38.29659798754193,17.971698113207548,2.2041207474844273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829011601:0016/pct:59.31457318031756,38.29201101928375,17.974113084944715,2.2078492434223658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4713,7 +4713,7 @@ leased, and forever confirmed to the people
 of those colonies respectively,” &amp;c. &amp; c.  
 All that anv colony claims from the oldes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1829012801:0219/pct:21.98255352894528,48.598538553822664,15.194290245836637,4.504307994328716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038586:00414187377:1829012801:0219/pct:21.9790675547098,48.593238822246455,15.197166719526377,4.50745183569611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4733,7 +4733,7 @@ of West Augusta, annually, of such men as actu-1
 ally reside iu and are freeholders or the same,or I  
 duly qualified according to law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829041001:0457/pct:1.3678553981436248,7.506637702148201,15.632633121641426,2.896451846488052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829041001:0457/pct:1.3676326929338978,7.5057318691927115,15.635515033105394,2.9001246932947184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4765,7 +4765,7 @@ Virginia. - . J
 2d.—One of these shall be called, the House of Dcl­  
 egatca and shall consist of one member for ‘ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829101301:0297/pct:23.411016949152543,19.217165762791794,16.812953995157386,4.527234142890828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829101301:0297/pct:23.407474655772432,19.21490038901332,16.815453674282544,4.530629887225431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4805,7 +4805,7 @@ test number of votes in the whole district.
 bers of both branches shall be exercised by everv  
 male white citizen, aged twenty-one years, who shaf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829101301:0297/pct:23.35048426150121,42.537137467578404,17.055084745762713,13.286960622494695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829101301:0297/pct:23.34695112725072,42.53212306966875,17.057547788369394,13.289323745530277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4833,7 +4833,7 @@ snry, or on the application of a majority of the House
 of Delegates, call them together before the time to  
 which they shall stand prorogued or adjourned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829101301:0297/pct:23.229418886198548,64.15939636878095,17.009685230024214,7.533600565904268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829101301:0297/pct:23.225904070207292,64.15183307792054,17.01215514197811,7.536641911273527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4869,7 +4869,7 @@ o instance be altered by the Srna*e, but *
 pproved or rejected. ..  
 Either House of the General a»sco,t&gt; f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829101501:0052/pct:82.0475847152127,83.28773936831634,16.762797404470078,14.760009947774186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1829101501:0052/pct:82.03279870246891,83.27738406067388,16.76578362467712,14.762319200961498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4907,7 +4907,7 @@ votes in the whole district.
 4th.—The fight i t* suffrage in the election &lt;-f  
 members of both blanches shall be exfi&#x27;ii^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829101901:0487/pct:83.06468494871258,57.423738615006506,14.632614611680971,11.927136041636548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829101901:0487/pct:83.04730012557556,57.415437987857764,14.634784428631226,11.929025729979763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4952,7 +4952,7 @@ legates, call them together before the tune
 to which they shall stand prorogued or adjourn  
 ed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829101901:0487/pct:83.08561858907264,71.95315888390921,14.611680971320913,15.310105537082551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829101901:0487/pct:83.06822938467978,71.94275802254987,14.613855169527,15.311506215669269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4984,7 +4984,7 @@ except where the prosecution shall iatve been carried
 on bv tiie House of Delegates or the law shall other­  
 wise positively direct, in which ca .es the House o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829102201:0311/pct:23.180379746835442,58.174719375305024,17.78481012658228,9.870668618838458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829102201:0311/pct:23.17671254548331,58.16762230084177,17.787269946738384,9.873530966613801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5004,7 +5004,7 @@ whereof any member may enter his dissent,) to be laid before
 the General Assembly when called for by them. The menibris  
 of the Council shall be elected by joint ballot of both Hou-es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829102201:0313/pct:22.559823677581864,74.01765203723855,17.85264483627204,2.841252569217749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829102201:0313/pct:22.556272627105304,74.00870406189556,17.85508158875072,2.8449387491940685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5023,7 +5023,7 @@ the House of Delegates, or the law altall otherwise
 particularly three*; in which cases, the House of Dele­  
 gates shall alone have an I exercise the power of grant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829102201:0128/pct:66.77037037037037,12.105080430505728,15.066666666666666,2.2103923157042007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829102201:0128/pct:66.76047992889943,12.103679703772276,15.069372438651063,2.213993674303788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5055,7 +5055,7 @@ iMCieitt (Co any part whereof, any member may enter
 hi* dissent) to be laid before the General A**embly,  
 when called for by them. The member* of tho Coun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829102201:0128/pct:67.00740740740741,4.05045712301817,31.40740740740741,92.29255873162829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829102201:0128/pct:66.99748185454007,4.04998842860449,31.407692687503086,92.28573632646764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5079,7 +5079,7 @@ during tiicir continuance in office, and they shall be In­
 capable during that time, of sitting in either House of  
 Assembly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829102201:0128/pct:82.41481481481482,7.649577595185742,15.303703703703704,4.455502835319986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829102201:0128/pct:82.40260702118205,7.648692432307336,15.30637436429171,4.458844403301705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5215,7 +5215,7 @@ enter his dissent) to he laid before the General
 Assembly, when called for by th in. Tile ire in­  
 bet* of the Council shall be elected by join
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829102901:0499/pct:7.712875359934183,81.75549490015803,14.500205676676265,9.768711392041373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829102901:0499/pct:7.711289327575571,81.74375179546108,14.50236479539379,9.770899166906062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5251,7 +5251,7 @@ counliea, return as a senator, the tmn who
 ehnll have the greatest number of votes in the  
 whole district
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829102901:0182/pct:9.414045669969841,47.182412689578406,17.578629900904783,11.65994156115208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829102901:0182/pct:9.412018091751023,47.175848636616585,17.58022830066767,11.661797440178075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5276,7 +5276,7 @@ or shall not prorogue or adjourn the assembly
 during their sitting, nor dissolve them *t any  
 time; but he shall, whenever in his opinion th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829102901:0182/pct:9.73718224903059,70.62752191456796,17.53554502369668,5.899540837623487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829102901:0182/pct:9.735085074305406,70.61769616026712,17.537152702993755,5.902198107957707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5328,7 +5328,7 @@ sent to any pait whereof any member may i
 General Assembly, when called for by  
 ihem. 1 fie members of the Council Hul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1829110401:0077/pct:54.44966769330524,11.679964539007091,15.594099529907602,24.756205673758867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1829110401:0077/pct:54.440842787682335,11.678670360110804,15.596974608319828,24.757156048014775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5374,7 +5374,7 @@ any member may enter his dissent) to lie laid before
 the General A&lt;siiiihly, when railed for by them_  
 I&#x27;he members of Ihe Council shall he. elected by bot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829120101:0176/pct:49.956101843722564,63.76878082348893,14.910740415569213,14.370914095653172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829120101:0176/pct:49.948792977322604,63.76146788990825,14.913435747378688,14.37308868501529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5405,7 +5405,7 @@ whereof, any member may enter bis dissent) to be
 laid before the General Assembly, when called lor  
 by them. The members of that Council shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829120101:0176/pct:65.34972197834358,47.11549489620369,15.042434884401521,7.4664525748365635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829120101:0176/pct:65.34016093635698,47.11009174311926,15.045110948549134,7.469418960244648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5432,7 +5432,7 @@ formed by the Council? He presumed it &#x27;w.is not the
 plan to have a Lieutenant Governor, who should only he  
 the President ol a Hank, and act in case of the Gov. r.i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829120101:0176/pct:65.30582382206615,73.97637343732079,15.027802165642376,5.814887028328937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829120101:0176/pct:65.29626920263351,73.96788990825688,15.030480370641307,5.818042813455658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5463,7 +5463,7 @@ enter his riisvcnf) to b • led buf ire th« General As­
 sembly, when called for by thorn.—Tho members  
 ot the Council shnll he elected by both Uoumv „rth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829120301:1250/pct:60.993927772451265,78.32997271972482,17.929050814956856,9.405764440754359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829120301:1250/pct:60.984182776801404,78.32068311195447,17.931511956116527,9.408602150537634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5492,7 +5492,7 @@ hhall be entered of record, and signed by the mem-I
 1 Sim olinylR,rt whereof any member mav  
 I entdr his dissent) to be laid before the General As
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829120301:0380/pct:59.72288580984233,78.16471163245357,18.187609491957318,8.46774193548387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829120301:0380/pct:59.71337579617835,78.15516188149053,18.190021231422506,8.47077988189778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5522,7 +5522,7 @@ and signed I y Ihe members present, (to an*.
 |ihi i whereof any member may enter bis dis  
 seal) lo In* laid before the General A s inlil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829120701:0542/pct:32.92146596858639,44.441227562246674,14.743455497382199,8.03416328894036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829120701:0542/pct:32.914572864321606,44.43479519467361,14.745603015075377,8.036618902880301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5549,7 +5549,7 @@ i law,and take an oath of secrecy in 6iich matters,
 as lie shall be directed by the Board to conceal. At  
 , tin* &lt;-ml of °ne your alb r their ilrst appointment, on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829121001:1275/pct:19.85588470776621,21.53810676813098,17.838270616493194,7.010261731811369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829121001:1275/pct:19.85270573166827,21.535623703020523,17.840751414238447,7.0132964414726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5575,7 +5575,7 @@ their own Clerk, who shall have a salary settled by
 law,and fake an oath of secrecy in such matter?,)  
 ns he shall be directed by the Board to conceal. At 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829121001:0393/pct:22.09466897310898,19.70134874759152,17.801541122818055,6.57514450867052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829121001:0393/pct:22.09119496855346,19.698976520168575,17.80398322851153,6.578366445916115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5603,7 +5603,7 @@ such matters as lie shall b* directed by the hoard to
 command. At Hip end ot on* year after their first ap­  
 poti&#x27;ment one councillor to be designated by lot *hall g
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121001:0193/pct:65.37602382725242,18.94845835250805,15.502606105733433,6.36217211228716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121001:0193/pct:65.36628945801073,18.94627861497757,15.50526106809609,6.3652747421296825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5630,7 +5630,7 @@ own cl rk. who shall have a salary settled by law,
 and take an oath of secrecy in such matters  
 as he sh ill oe directed by the Board to conceal. At 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829121201:0395/pct:22.864839169703693,32.57205666829507,17.762636666138487,7.107962872496336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829121201:0395/pct:22.861216730038024,32.56807913054097,17.765103506548375,7.111165384458827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5666,7 +5666,7 @@ a salary settled by law and take an oath of aecrecy of
 such matter* as he shall be directed by the hoard to  
 command. At the end of one year after their first ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121201:0195/pct:65.09048453006422,60.72119212831305,15.178050204319907,9.441474235013082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121201:0195/pct:65.08098642930103,60.714285714285715,15.180699450362372,9.44419168941462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5694,7 +5694,7 @@ President, who, in case of tiye death, inability, nr necessary
 absence of the Governor from the government, shall act as  
 Lieut. CJovernor. Three members shall lie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829121401:1287/pct:6.620861961274204,66.370299170972,17.16114928169894,6.524089871440586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829121401:1287/pct:6.619828259172522,66.36232580490149,17.16367421285454,6.527310587858401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5720,7 +5720,7 @@ memhti may enter his dissent, and to be laid before the
 point their own clerk, who shall have a salary fixed by latv.  
 and shall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829121501:0399/pct:77.06784754072434,32.709490461241245,17.68148030997944,5.228205747404009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829121501:0399/pct:77.05566097406705,32.70554147048171,17.683955302551126,5.2315988570968655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5747,7 +5747,7 @@ rected to conceal. A sum of money shall he appro­
 priated by law and divided annually among the mem­  
 bers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121501:0201/pct:4.074505238649593,28.188833408987744,14.624563445867288,5.70812528370404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121501:0201/pct:4.073912410883166,28.18563485759673,14.627285513361462,5.711259881236053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5777,7 +5777,7 @@ n Hilary teltlrd by law, mi I lake an oath nf
 trcrroy in tucli maiiort aa hr alinll hr di’r i d  
 by fin Board m conyral, Al the rod ol nn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829121701:0554/pct:62.682519816437214,12.137393563284745,30.413016270337923,84.77413768220522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829121701:0554/pct:62.669447340980184,12.135642135642136,30.411887382690303,84.76551226551227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5795,7 +5795,7 @@ pnevH, or pardons except where the prosec,liinn shall
 have been carried on by the House of Dsleg.ies, or  
 tb-law shall otherwise parficularly direr!; and to con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121701:0204/pct:50.36420395421436,67.49222439811082,14.850602051434517,1.9698191452597626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829121701:0204/pct:50.356718192627824,67.48445058742226,14.853349187475228,1.9734316209782692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5827,7 +5827,7 @@ appropr alul hy law and divided annually a,
 I long I he members in pMipmtiuo to lliei it  
 tendance and they shull he incapable durin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829122101:0559/pct:22.451081359423274,77.77938831714741,14.685890834191555,8.98680968256269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829122101:0559/pct:22.44645799011532,77.76811594202898,14.688014827018122,8.98913043478261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5863,7 +5863,7 @@ law and shall t*kr an oath of secrecy in s ich wafers
 a* he sh ill be directed by the board to conceal At  
 th«&#x27;end of one y.-ur, from their first appointment, on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829122301:1318/pct:42.63371911166719,16.171501805895375,17.923052862058178,11.697541652102995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829122301:1318/pct:42.62705238467553,16.169617893755824,17.925462600990357,11.700062131096614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5899,7 +5899,7 @@ law, and shall take an oath of secrecy in such matters
 as ho shall be directed by the board to Conceal At  
 the end of one year, from their first appointment, on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829122401:0418/pct:41.66137229987294,13.164618566735612,17.69377382465057,11.972259398953645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829122401:0418/pct:41.65475623312689,13.16301703163017,17.6962574771055,11.974858069748581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5930,7 +5930,7 @@ shall be directed by the board to conceal. At the end
 ol one year, fioin their first appointment, one Conned*  
 lor, to be designated by lot shall go out of ollire,and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829122501:0215/pct:34.15929203539823,14.231996353691887,30.722713864306783,83.22698268003646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829122501:0215/pct:34.15425453472939,14.230374843340549,30.723098854642874,83.22129808970415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5953,7 +5953,7 @@ fled by law, him] shall take an oath of aecrecy
 1 in such mailers hi lie shall bo directed by^ the  
 board to conceal. At the end of one year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829122801:0567/pct:52.346723044397464,9.25090909090909,15.3276955602537,4.509090909090909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829122801:0567/pct:52.33565842316635,9.24956369982548,15.329740012682308,4.5120709714950555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5973,7 +5973,7 @@ exercise ol the kingly office in the government of
 \ irginia, hod endeavored to pervett the same into :t  
 ! detestable and insupportable tyranny, by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010501:0020/pct:24.254152556039347,14.688128772635816,18.222867279471053,3.29033021659368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010501:0020/pct:24.250241857465333,14.68639053254438,18.22530366548425,3.293885601577909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6024,7 +6024,7 @@ and «n comp.&#x27; auce with tho recommendations of the
 General (Joo»rr«**s. ordain and duclarc, a form of rro­  
 vernment of Virginia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010501:0020/pct:24.512175455571683,29.175050301810867,18.061602967263344,19.7774884601728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010501:0020/pct:24.508223153821348,29.171597633136095,18.064065355261743,19.779092702169624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6077,7 +6077,7 @@ by the fourteen counties lying between the Allegha­
 ny and nine Ridge of mountains forty for and lijTtlie  
 twenty-nine counties lying east of the Blue Rid^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010501:0020/pct:24.592807611675536,49.461474730737365,17.98097081115949,20.783524677476624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010501:0020/pct:24.588842308932602,49.455621301775146,17.98344620015049,20.785009861932938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6119,7 +6119,7 @@ according to its number, and continued in due order i
 annually. And for the election of Senators, tho conn-1  
 ties of *************
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010501:0020/pct:24.754071923883245,72.86069357320393,17.868085792614096,15.043200378743046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010501:0020/pct:24.75008061915511,72.85207100591715,17.870579382994734,15.045364891518737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6135,7 +6135,7 @@ ties of *************
 ttially a resident and freeholder within the district, or  
 duly qualified fo voto for members of the General As
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010501:0020/pct:24.770198355104014,89.0519588116937,17.481051443315593,1.15990057995029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010501:0020/pct:24.766204450177362,89.0414201183432,17.483607438460712,1.1637080867850098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6158,7 +6158,7 @@ n*ir_ intermediate vacancies.
 eg ales, to be approved or rejected by the Senate or  
 to l»i&gt; amended with the consent of the Homo of Pcl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010501:0020/pct:42.83180132236736,7.503846609066161,17.78745363651024,4.888152444076222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830010501:0020/pct:42.82489519509836,7.502958579881657,17.78996022788348,4.891518737672584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6177,7 +6177,7 @@ Third, King of Great llritnin aud Ireland, ami Elec­
 tor of Hanover, before that time entrusted with the  
 exercise of the kingly office in the government o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:24.968454258675077,14.369186739804436,17.160883280757098,2.5995707130932506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:24.964516637754297,14.36747347084774,17.1634337381065,2.6032351655339614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6213,7 +6213,7 @@ and in compliance with the recommendations of the
 General Congress, ordain and decide, a form of go­  
 vernment of Virginia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:24.952681388012618,36.20319580252802,17.318611987381704,12.008108752683043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:24.948746254533987,36.19887921783713,17.321137570309624,12.010651404952108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6251,7 +6251,7 @@ legates, and shall consist of one hundred and twenty­
 seven members, to be chosen, annually, for and by the  
 several counties, cities, towns, and boroughs of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:24.747634069400632,52.96923443834963,17.57097791798107,13.176723109945147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:24.743731272669926,52.962918802909265,17.573463701834623,13.179126425817733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6295,7 +6295,7 @@ sai( # rotation shall he applied to each division
 according to its number, and continued in due order  
 am in ly. Ami for the election of Senators, the comi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:24.589905362776026,70.74886715955164,17.634069400630914,15.478177915573575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:24.586027440466804,70.74043162036484,17.63654523471587,15.480306824053098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6321,7 +6321,7 @@ egates except money bills, which in no instance
 shall be altered by the Senate, but wholly approved or  
 rejected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:42.397476340694006,7.572144049606487,17.49211356466877,6.3081326019556405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830010501:0012/pct:42.39079009619934,7.571241206629307,17.49461178573306,6.311354874607527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6401,7 +6401,7 @@ he speedily adopted, and in compliance with the recoin­
 mendalion of the General Congress, ordain and declare  
 a form of government of Virginia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010501:0228/pct:66.39880952380952,46.27246376811594,15.401785714285714,29.692753623188405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010501:0228/pct:66.38893021871745,46.267099466728496,15.404453702326043,29.693175670453666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6427,7 +6427,7 @@ brl/o.7^ hp 0( two distinct
 branches, which together shall be a complete l.egi-la­  
 me, snd shall lie called ihs General Assembly ot Vir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010501:0228/pct:66.39880952380952,83.21159420289855,15.074404761904763,5.715942028985507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010501:0228/pct:66.38893021871745,83.20194760027823,15.077121460100184,5.719143674163382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6462,7 +6462,7 @@ and numbered by lot. At the cr.d of one year alter tfJ
 hri. general dectio,, the eight members elected by  
 the first division shall he displaced, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010501:0228/pct:82.2172619047619,24.417391304347827,15.074404761904763,9.542028985507246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010501:0228/pct:82.20502901353966,24.41456063065152,15.077121460100184,9.544787077826726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6491,7 +6491,7 @@ consent ol the other, adjourn lor more lltau tiiree day*,
 nor to any other place than that in which (lie two Ilona  
 e» shall be silling 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010701:0232/pct:3.4954633348207644,85.8235771415324,15.112301056076156,6.8274023414860325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010701:0232/pct:3.494943486020226,85.81363004172462,15.115010906206622,6.830474424354814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6510,7 +6510,7 @@ amended with the consent of th* House ol Delegates,
 except money bills, which iun&gt; instance shall be al­  
 tered by the S**nate, but wholly approved or reject«d.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010701:0232/pct:34.73151866726164,16.657007070824157,15.127175368139223,2.295119972180364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010701:0232/pct:34.72635336109459,16.65507649513213,15.129883006147134,2.2987173543501775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6530,7 +6530,7 @@ amended with the consent of the House ot Delegatee,
 except money bills, which in no instance shall be al­  
 tered by the Senate, but wholly approved or rejected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010701:0232/pct:35.326491149784324,3.9063405587110234,30.075858991521642,93.31169583864612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010701:0232/pct:35.32123735871505,3.9058878071395458,30.076343446361292,93.30474424354814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6554,7 +6554,7 @@ monwealth ol Virginia, and bear test by the Clerks of
 (he Several Courts. Indictments shall conclude against  
 th# peace and dignity of the Cninm-mwealtli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010701:0232/pct:66.01219693589171,23.13666396197983,15.424661609400566,4.578648429349716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010701:0232/pct:66.00237953599049,23.13398238293927,15.427325004957366,4.581981146654304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6598,7 +6598,7 @@ country would be reduced, unless some regu­
 lar adequate mode of civil polity should be  
 speedily adopted, and in compliance with *e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830010801:0336/pct:5.6722689075630255,62.276017562596415,18.73249299719888,18.68992524029904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830010801:0336/pct:5.671276037108349,62.268628381585195,18.735048719295175,18.691662711596265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6627,7 +6627,7 @@ III. One of these shall be called the Home
 of Delegates, and shall consist of one hundred  
 and twenty seven members, to he chosen annu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830010801:0336/pct:24.61484593837535,4.105850243265694,18.36484593837535,9.422095644950753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830010801:0336/pct:24.610537370908453,4.105363075462743,18.3674660131863,9.424932763803195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6673,7 +6673,7 @@ V Any person may be elected a senator w &gt;o
 -hall have attained the age of thirty years, and  
 shall be actually a resides aud freeholder with
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830010801:0336/pct:24.754901960784313,23.93497092678296,18.242296918767508,19.23578972350777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830010801:0336/pct:24.750568877997548,23.932130991931658,18.244938444483342,19.237462426831197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6702,7 +6702,7 @@ which in no io-tan. e th ll be altered by the se­
 nate. bu1 wholly ippro»ed or tej&#x27;Ctrd  
 VIll I he members of &#x27;he assembly shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830010801:0336/pct:24.702380952380953,53.542185831256674,18.224789915966387,9.149163403346387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830010801:0336/pct:24.69805706283914,53.53583293782629,18.227434506097204,9.15203290618573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6802,7 +6802,7 @@ pliance with tho ‘ recommendation of thv Gen­
 oral Congress, ordain und declare, u ibim of |  
 of government if Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830010801:0120/pct:20.850734725444703,5.127628471831778,30.62645011600928,85.05566175643764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830010801:0120/pct:20.84751005258274,5.12705194513155,30.626868749355605,85.04984633835545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6837,7 +6837,7 @@ and by the several counties, cities town&#x27;J A
 boroughs of the Common wealth ; whereof twen­  
 ty-nine Delegates shall be chosen foe and b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830010801:0120/pct:36.42691415313225,22.905656134038008,15.050270688321733,11.49218486450017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830010801:0120/pct:36.42128054438602,22.903080728581067,15.053098257552325,11.494640581665543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6880,7 +6880,7 @@ of Senators, the comities of * * *
 V’. Any person may he elected a Senator who  
 shall have attained the age of thirty years, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830010801:0120/pct:36.48878576952823,41.38086135162487,14.802784222737818,17.361970088833914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830010801:0120/pct:36.483142592019796,41.37620868000899,14.805650067017218,17.36376583464508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6906,7 +6906,7 @@ House of Delegates, except money bills, which
 in no instance shall be altered by the Senate, but­  
 wholly approved nr rejected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830010801:0120/pct:36.45784996133024,70.39244349488362,15.019334880123743,6.893061958844035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830010801:0120/pct:36.452211568202905,70.38452889588487,15.022167233735436,6.896034780001499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6929,7 +6929,7 @@ prescibed by law,, all intercourse with ei­
 ther and foreign Stales ; and during tiie  
 recess of the Legis.ature, to fiil pro tem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830010801:0120/pct:66.91415313225058,28.303159788597775,14.36968290796597,5.262566063195772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830010801:0120/pct:66.90380451592948,28.299977512930067,14.372615733580782,5.265722209729406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6963,7 +6963,7 @@ tation shall tie applied to each dividou, according to It#
 number, anil continue tu due order aiiiiually And lor  
 thi) elec ion of S-uators, the Counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010901:0237/pct:34.25022182786158,3.600598182445646,30.70097604259095,92.81030714367883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830010901:0237/pct:34.24515747449357,3.600184034966644,30.70136527182217,92.80346599187179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7008,7 +7008,7 @@ m *oner aforesaid. Tins rui a lion sua&#x27;I be ap­
 plied fo each Hi* tinn hi c- rding to lit number,  
 and continued in d e order am uady And fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830011101:0583/pct:23.710482529118135,5.042138913106655,30.09567387687188,91.47050276082534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830011101:0583/pct:23.705552089831567,5.041406363504286,30.09461426491994,91.4608455615284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7026,7 +7026,7 @@ of Delegates; to be approved or rejected
 by the Senate, or to be amended w ith tin*  
 insert of the House ol Delegates. Mom 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830011301:0118/pct:1.9489779749643479,70.20331074325075,15.037236571066392,2.633040773247417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830011301:0118/pct:1.9486692015209126,70.19551210842035,15.040135192226447,2.6364511590017035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7050,7 +7050,7 @@ oflieers shall be provided by law.
 •)1. A Treasurer shnll be annually ap­  
 pointed by joint vote of the two houses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830011301:0118/pct:17.4140389795595,15.24275080546606,15.354143558865474,6.332629707810243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830011301:0118/pct:17.41128010139417,15.241057542768274,15.356991972961554,6.335629119454936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7077,7 +7077,7 @@ applied 10 earn division, according to its num­
 &#x27;&gt;er and continue in due order aunually. And  
 (nr&#x27; the election of Senators, the Counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830011401:0588/pct:2.8466856445709636,9.505376344086022,15.067100447336315,6.594982078853047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830011401:0588/pct:2.8461069323033135,9.50401376146789,15.06911973978451,6.597620412844036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7105,7 +7105,7 @@ signed by the members pre *nt, (to any part whereof
 any m-mber may enter hit dissent.) to be laid before  
 the General Assembly, when called lor by them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011401:0244/pct:51.428990180272606,44.32550644567219,14.817528946211343,6.422651933701657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011401:0244/pct:51.42145369284877,44.32040510990908,14.82024228214146,6.42574903134231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7133,7 +7133,7 @@ these circumstances, he felt it his duty to bring the sub­
 ject before the Convention. He never could conceive  
 the reason in favour of this part of the old constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011401:0244/pct:66.58361424593288,14.157458563535911,15.095998827495237,6.376611418047882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011401:0244/pct:66.573856975381,14.15582920934515,15.098671355998437,6.3797138144013505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7164,7 +7164,7 @@ should be speedily adopted, and mcompliarfcd with
 tin* recommendation of the General Ooiigri-s?, ordain  
 and declare,a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011601:0056/pct:42.912,7.476525821596244,18.064,9.612676056338028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011601:0056/pct:42.90513517837146,7.475648398075343,18.066442702500932,9.615459844306224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7193,7 +7193,7 @@ Virginia.
 egates, and slnll consist of one hundred rial thirty  
 lour members, to be chosen, annually, for ami b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011601:0056/pct:42.96,32.840375586854464,17.984,8.110328638497652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011601:0056/pct:42.953127499600065,32.836521535031096,17.98645550045326,8.113288737628604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7232,7 +7232,7 @@ vir ion arcotdiiig t&lt;1 its numhor.and continu&#x27;d in due
 older annually. And for the election of Senators,&#x27;  
 ti e counties of JSroukc, Ohio and Tyler,sliiill for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011601:0056/pct:42.816,72.24178403755869,18.128,14.002347417840376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011601:0056/pct:42.809150535914256,72.23330595000587,18.130432464139073,14.004616046629895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7249,7 +7249,7 @@ provide. And each House shall choose its own
 Sneaker, appoint its own officers, settle its own rules  
 ol proceed, ng, &amp;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011601:0056/pct:61.12,66.4319248826291,17.712,1.6666666666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011601:0056/pct:61.110222364421695,66.424128623401,17.714499013491174,1.6703829753941244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7329,7 +7329,7 @@ should bo si* eddy adopted, and in compliance with
 t.ho recommendation of the General Congress, ordain  
 and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830011601:0032/pct:24.40087145969499,4.543308945008261,35.16962340491752,89.37927779088979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830011601:0032/pct:24.39707484051657,4.542772861356932,35.16933768995384,89.37266470009833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7364,7 +7364,7 @@ One ol th&gt;ac slu&#x27;d bo called the House of Del­
 egates, and shall consist of one hundred and thirty  
 four members, to be chosen, annually, for and b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830011601:0032/pct:42.265795206971674,28.699551569506728,17.304699657640835,10.715128628746754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830011601:0032/pct:42.25921892018049,28.696165191740413,17.30719361028992,10.71779744346116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7419,7 +7419,7 @@ ision according to its number, and continu- d in due
 he counties of Brooke, Ohio and Tyler,shell fbr/n  
 ,ne (,18tr,cl: counties ofMonongalm, Preston an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830011601:0032/pct:42.15686274509804,63.334906773660606,17.41363211951447,21.371253245220675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830011601:0032/pct:42.150303407499614,63.32743362831859,17.4161091229708,21.37266470009833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7472,7 +7472,7 @@ sea*, ravaging our coast*, burning our towns, and des­
 iroyii % run livt-ji ol our people; by irici&#x27;inp iimirrtc­  
 limisol onr fellow sut.jp/-ts wi&#x27;h ihe allurements o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011601:0249/pct:3.4406704896338773,56.09052072508948,14.924275841787972,17.68848862717931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011601:0249/pct:3.44016465745369,56.08404525513738,14.926982260119573,17.690294774109137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7497,7 +7497,7 @@ joli.y should be speedily adopted, and in compliance
 wi h he recommendation of Ihe General Cong r**«, or­  
 dam and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011601:0249/pct:3.5877076900455815,79.51737674633414,14.791942361417439,5.518993187853597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011601:0249/pct:3.5871802411055573,79.50819672131148,14.794668234832892,5.5222042638343725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7549,7 +7549,7 @@ of Sena ors, the counties of Brooke, Ohio and Tyler,
 shall form one dis&#x27;rict; the counties of Monongalia,  
 Preston and Randolph, shall form another district: th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011601:0249/pct:18.70313189236877,32.14409421544856,14.997794441993824,17.1804641496363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011601:0249/pct:18.700382240517495,32.1403832833064,15.000490051945507,17.18232894635573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7573,7 +7573,7 @@ the respective County Courts, and when appioved by
 Justices shall appoint Constables. /Vnd all fees of (he  
 aforesaid officers, shall be regiilufpil by Fiw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011601:0249/pct:49.44861049845611,37.03960281722665,14.718423761211586,4.676134395566332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011601:0249/pct:49.44134078212291,37.03532671438467,14.721160443006958,4.679442776879858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7596,7 +7596,7 @@ vote of both Houses.
 ARTICLE VII.  
 The Executive Department of the Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011601:0249/pct:49.4044993383326,41.68109918023323,14.83605352154095,4.202747950583073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830011601:0249/pct:49.39723610702735,41.67628723158624,14.838772909928453,4.206110982836912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7629,7 +7629,7 @@ the recommendation of the General Congress, ordain
 and declare,a form of government of Virginia:  
 Aod whereas the General Assembly of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011801:0062/pct:24.140700289110182,6.998114985862394,17.956954706071315,10.014137606032046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011801:0062/pct:24.13682351051871,6.997290611379432,17.959424013703764,10.016884595751364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7654,7 +7654,7 @@ AirrtCLK ITI.
 branches, which togethvr 6hnll In a complete Legis­  
 lature, and shall tfe Cbllefl the General ireembtv o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011801:0062/pct:24.237070350144556,32.13949104618285,17.84452296819788,5.973138548539114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011801:0062/pct:24.23317809539104,32.13570503003887,17.84701033135271,5.97636156594809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7695,7 +7695,7 @@ aforesaid. Tins rotation shall be applied to each di­
 vision according to its number, and continued in due  
 i nrler annually. And for the election of Senators
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011801:0062/pct:24.140700289110182,70.57021677662583,18.08544812078381,14.50282752120641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011801:0062/pct:24.13682351051871,70.56190364000472,18.087896793533538,14.505045745474536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7719,7 +7719,7 @@ ruj Assembly, such writs may bo issued by the Gover­
 nor, under such regulations as mav be prescribed by  
 law. Each House aboil judge or the election, qu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011801:0062/pct:42.4349502088018,64.8091423185674,17.60359781561195,5.501885014137606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011801:0062/pct:42.42813553878272,64.8015078336671,17.606123869171885,5.505163544979777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7741,7 +7741,7 @@ toro the Sunato, which shall have the aoie power to
 try all impeachments. When sitting for that poe­  
 pose.thc Senate shall be on oath or affirmation: an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011801:0062/pct:60.600706713780916,7.32799245994345,18.069386443944747,4.205937794533459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011801:0062/pct:60.59097478721696,7.3271292260572505,18.071837696054814,4.20936898731692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7758,7 +7758,7 @@ pose.thc Senate shall be on oath or affirmation: an
 inonwcHlth of Virginia, and bear teste by tbe Governor, wrfli tin  
 seal of tlief ommouwealth annexed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011801:0062/pct:60.61676839061998,69.56880301602261,18.021201413427562,1.3430725730442978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011801:0062/pct:60.60703388469568,69.56060784544705,18.02366040361865,1.346841009934425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7898,7 +7898,7 @@ slmulil he speedily adopted, and incnoipli&amp;m&#x27;o with
 the rcceiiuuCndalioiiof tho General Congrcsv, ordain  
 and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011901:0066/pct:6.470873003066,5.402217504128332,36.40471195739874,90.13918376975701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011901:0066/pct:6.469828977089383,5.401580375044227,36.404216413896954,90.13248417659315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7938,7 +7938,7 @@ the several counties, citie&#x27;s, towns, and boroughs of
 the Commonwealth; whereof thirty-one delegates  
 shall be cbOsen foi and by the twenty-six coanties ly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011901:0066/pct:24.80232370501856,28.650625147440433,18.057124415039535,13.38759141306912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011901:0066/pct:24.798322039367537,28.647246137516216,18.059589114768205,13.389943782678776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7980,7 +7980,7 @@ aforesaid. Tins rotation shall bo applied to each di­
 vision according to its number, and continual In due  
 order annually. And for tlx* election of S natorw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011901:0066/pct:24.80232370501856,70.05189903279076,18.073261255446184,15.015333805142722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011901:0066/pct:24.798322039367537,70.04363722137045,18.0757233516188,15.017494201360224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7999,7 +7999,7 @@ provide. And each ilonse shall choose its own
 speaker, appoint its own officers, settle its own rules  
 orproceeding, &amp;. direct writs of election fi&gt;r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011901:0066/pct:43.24673228981765,64.89738145789102,17.79893496853316,2.7246992215145083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830011901:0066/pct:43.23975475959987,64.88972756221253,17.801441325158653,2.728309155953925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8097,7 +8097,7 @@ should 1&gt;« aiseeildy nd &gt;piod, and in compliance with
 the recommendation ot ilie General Congress, ordain  
 •liddeclare,a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012001:0070/pct:6.562399226056111,5.3132714235335605,35.98839084166398,89.79663806277183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012001:0070/pct:6.561341286474287,5.312646920545369,35.9879628136923,89.79000156715249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8127,7 +8127,7 @@ egates, and sh ill consist of one hundred auJ thirty
 &#x27;four members, to be chosen, annually, for and by  
 tlm several counties, cities, town#, and boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012001:0070/pct:24.572718477910353,31.973668743387798,17.97807158980974,8.545903373692253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012001:0070/pct:24.56875705303885,31.969910672308416,17.980547047127732,8.548816799874627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8161,7 +8161,7 @@ tho counties of Brooke, Ohio and Tyler, shall form
 one district: the counties ot Monongalia, Preston and  
 Randolph, shall form another district: the counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012001:0070/pct:24.572718477910353,75.49077230516046,17.703966462431474,10.603032796520512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012001:0070/pct:24.56875705303885,75.48189938881053,17.706486108872053,10.60570443504153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8181,7 +8181,7 @@ llnuse ol A-sembly.
   
 o. i ue members of to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012001:0070/pct:42.986133505320865,51.58105089925943,17.65559496936472,2.5978605854002588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012001:0070/pct:42.979203611155896,51.57498824635637,17.658122413885753,2.6014731233349004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8202,7 +8202,7 @@ o. proceed, ng, &amp; d.rect writs of election for supply,, u
 intermediate vacancies. But if vacancies shall occur by  
 death or resignation, during the recess of iho Gene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012001:0070/pct:42.92163818123186,64.15892794169507,17.68784263140922,3.8791583401904313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012001:0070/pct:42.9147186845075,64.15138692994829,17.69036487720995,3.882620278953142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8227,7 +8227,7 @@ legates.
 I I. The privilege of the Writ »r Habeas Con, aw  
 Hiiall not in any ease be suspended. The Legislature 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012001:0070/pct:42.776523702031604,68.8491830257435,18.36504353434376,6.077348066298343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012001:0070/pct:42.769627599548606,68.84109073812883,18.36745660701811,6.080551637674346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8698,7 +8698,7 @@ should be speedily adopted, and in compliance with
 the recommendation of the General Congress, ordain  
 and declare, a farm of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:5.386718121884547,5.755649717514125,36.03473227206946,89.06544256120527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:5.385852090032154,5.754972343179946,36.034297963558416,89.05888352751951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8733,7 +8733,7 @@ ogates, and shall consist of one hundred and thirty
 four members, to he chosen, annually, for and bv  
 the several counties, cities, towns, and boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:23.70155973629201,29.81403013182674,18.12188454735488,11.087570621468927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:23.69774919614148,29.81052136048017,18.124330117899248,11.09018869404888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8772,7 +8772,7 @@ otder annually. And for the election of Senators,
 the counties of Brooke, Ohio and Tyler, shall fiirm  
 one district: the counties of Monongalia, Preston an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:23.70155973629201,72.1045197740113,18.12188454735488,13.465160075329567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:23.69774919614148,72.09603389431564,18.124330117899248,13.46749833274489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8804,7 +8804,7 @@ cond time for the same offence.
 e amended with the consent of tho House of De­  
 legates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:42.080720373050326,64.3243879472693,17.735970413249717,9.545668549905837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:42.07395498392283,64.31681770036484,17.738478027867096,9.548468086775724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8829,7 +8829,7 @@ direct; to conduct, either in person, or in such manner as shall
 he prescribed by law, all intercourse with other and foreign  
 states; and during the recess of the legislature, to fill, pro trm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:60.37948223187008,52.436440677966104,17.89676796912687,4.943502824858757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:60.369774919614144,52.430269506884784,17.89924973204716,4.946843984151269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8850,7 +8850,7 @@ seal of the (oiinuon wealth annexed.
 |Arthi.i. V.  
 I. The judicial power »hall lie vented in a supreme court o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:60.33124296510693,68.32627118644068,17.912847724714585,3.2015065913371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012101:0074/pct:60.32154340836013,68.31822996351653,17.915326902465168,3.205052763720529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8904,7 +8904,7 @@ compliance withthe recommendation of the Ge­
 neral Cungiess, ordain and declare, a form of  
 government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830012101:0595/pct:52.47298420615129,62.369942196531795,15.045719035743973,19.68208092485549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830012101:0595/pct:52.46208186162477,62.360930501372636,15.047787242883857,19.682849299234213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8934,7 +8934,7 @@ General Assembly of Virginia.
 of Delegates, and shall consist of one hundred \
 and thirty four member*, f*» be cho*en,ai»- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830012101:0595/pct:67.66417290108063,7.687861271676301,15.128844555278471,8.33815028901734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830012101:0595/pct:67.65011427384168,7.68675046958532,15.130895491377519,8.340557722872417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8962,7 +8962,7 @@ ed lo each divi ion according to us nuuiher,
 and continued indue aider annually. A id for  
 l lie election of Senators,the counties of Binuke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830012101:0595/pct:67.76807980049875,57.18208092485549,14.754779717373234,7.0520231213872835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830012101:0595/pct:67.75399958445875,57.17381881231036,14.756908373156035,7.054616384915475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9039,7 +9039,7 @@ P°&quot;&#x27;y should he speedily adopted, and in compliance
 wi h the recommendation of the General Congress, or­  
 dain an I declare, a form of government of Virginia&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012101:0257/pct:33.897550111358576,67.41624598439651,15.64959168522643,28.533731069297843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012101:0257/pct:33.892517814726844,67.40851210278765,15.652216943784639,28.534281671828992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9075,7 +9075,7 @@ counties, cities, towns and boroughs of the Common­
 wealth; wliereol thirty-one Delegates shall be chosen  
 for and by the twenty-six counties lying West of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012101:0257/pct:50.18559762435041,13.733363928407526,15.397178916109874,10.107847636530519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012101:0257/pct:50.17814726840855,13.73178845933234,15.399841646872526,10.110512026308745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9127,7 +9127,7 @@ ol Senators, the counties of IJrookc, Ohio and Tyler
 shall form one district; the counties of Monongalia’  
 1 icston and Randolph, shall form another district: th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012101:0257/pct:49.88864142538976,43.345571363010556,15.753526354862657,16.911427260211106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012101:0257/pct:49.8812351543943,43.34059882987266,15.756136183689629,16.91331115444916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9154,7 +9154,7 @@ ARTICLE VI.
 A Treasurer shall be appointed annually by joint  
 vote of both House*. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012101:0257/pct:81.81143281365999,50.42450665442864,15.352635486265775,5.8168884809545665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830012101:0257/pct:81.79928741092637,50.41872203739819,15.355304829770388,5.820045122557455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9235,7 +9235,7 @@ unless some regular adequate mode of civil polity
 i the recommendation of thu General Congress, ordain  
 &#x27; and declare,n Form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:5.797334189818532,4.101469890943575,35.956319254857874,90.95542911332385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:5.796403339755941,4.100983762000711,35.95589809462642,90.9485994231757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9270,7 +9270,7 @@ Virginia.
 egates, and ehill consist of one huhdred and thirty  
 tour members, to be chosen, annuuliv, for and b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:23.67110968363578,29.208155523945,18.00224827364702,10.585585585585585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:23.667308927424536,29.20469361147327,18.004709912224364,10.588281774722454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9321,7 +9321,7 @@ vision according to its number, and continu &#x27;d in due
 order annually. And lor tho election of fctannlors,  
 the counto w of Brooke, Ohio and Tyler,shall for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:23.57475509876345,65.87245139876718,18.08254376104063,19.227121858700805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:23.57096981374438,65.86464383074552,18.084992506957825,19.228793805064992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9344,7 +9344,7 @@ inann.-r and under such neualties as eocli House may J
 Speaker, appoint its own officers, settle its own rules i  
 j of proceeding, di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:41.88212622450618,62.2569938359412,18.227075638349124,4.800853485064011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:41.875401412973666,62.249614791987675,18.229501177478056,4.804235312709889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9364,7 +9364,7 @@ diiect; to conduct, either in |ierson, or in such manner ns shall
 he proscribed by law, all intercourse with other and foreign  
 States; and during the recess of the Legislature, to fill, pro tun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:60.22161554520636,54.540066382171645,17.857716396338525,2.7027027027027026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012201:0078/pct:60.21194605009634,54.53360199122911,17.860201241704132,2.706333214807791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9451,7 +9451,7 @@ gross, ordain and&#x27; declare, a Town of government
 of Virginia.  
 And whereas the General Assembly of Vir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012201:0128/pct:20.034461152882205,34.680324178298065,15.037593984962406,41.05132823052679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012201:0128/pct:20.031323414252153,34.67642093415869,15.040459410075698,41.050459576064526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9495,7 +9495,7 @@ ed to each division according to its number, and
 continued in due order annually—And for the  
 election of Senator.!, tho counties of Brooke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012201:0128/pct:35.57330827067669,56.23592976136875,14.865288220551378,17.357046375506528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012201:0128/pct:35.56773688332028,56.22960045019696,14.868180631688855,17.35884449446633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9523,7 +9523,7 @@ Hut if vacancies shall occur by death or resig­
 nation, during the recess of the General Assem­  
 bly, such writs may l-e issued by the Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012201:0128/pct:50.93984962406015,70.38496172895093,14.802631578947368,7.507879333633499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012201:0128/pct:50.93187157400157,70.3770399549803,14.805533803184547,7.510785968861377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9548,7 +9548,7 @@ Delegates, to be approved or rejected by the
 Senate, or be amended with the consent of the  
 House of Delegates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012201:0128/pct:50.955513784461154,77.80279153534444,14.724310776942357,6.427285006753714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012201:0128/pct:50.94753328112764,77.79403489026448,14.727225267554163,6.430313262052148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9570,7 +9570,7 @@ other high clime or misdemeanor, shall he ini
 pcacliablu by the House of Delegates; such ii  
 peaclinicnt to be prosecuted before the Sena
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012201:0128/pct:65.91478696741855,26.778478162989643,14.536340852130326,3.9171544349392167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012201:0128/pct:65.90446358653094,26.775464265616208,14.539284782041243,3.920465203526543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9592,7 +9592,7 @@ manner as shall he prescribed by law, all
 intercourse with other and foreign States;  
 and during the recess of the Legislature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012201:0128/pct:80.79573934837093,13.158487167942369,14.786967418546366,4.705087798289059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012201:0128/pct:80.78308535630384,13.157006190208216,14.78987209605847,4.7083098855749395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9619,7 +9619,7 @@ ly by joint vote of both Houses.
 ARTICLE VII.  
 The Executive Department ol the Go­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012201:0129/pct:3.044351723072168,7.163841807909605,14.63452325761088,8.587570621468927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012201:0129/pct:3.0438813349814584,7.163032425714609,14.637412443345694,8.590366436937446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9699,7 +9699,7 @@ ahould be speedily adopted, and incompliance with
 the recommendation of the General Congress, ordain  
 and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:5.286059629331184,4.761343547436653,36.22884770346495,90.44195639363583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:5.285207863358041,4.76078246523686,36.22838113653454,90.43522664781209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9734,7 +9734,7 @@ egate*, and shall consist of one hundred and thirty
 four members, to be chosen, annually, for and bv  
 the several counties, cities, towns, and boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:23.529411764705884,41.86210960518562,17.98549556809025,11.337654684737773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:23.5256203673864,41.85717652604289,17.987968632506178,11.340246680807605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9775,7 +9775,7 @@ viaion according to its number, and continued in due
 older annually. And for the election of Senators,  
 the counties of Brooke. Ohio and Tyler, shall for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:23.62610797743755,4.773129051266942,36.21273166800967,90.64230995875073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:23.622300999033193,4.772566580249824,36.21226769792674,90.63555660303244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9795,7 +9795,7 @@ peakor, appoint its own officers, settle its own rules
 of proceeding, &amp;. direct writs of election for supplying  
 | intermediate vacancies. But if vacancies shnll occur b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:41.64383561643836,77.1714790807307,18.501208702659145,3.370654095462581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012301:0082/pct:41.63712536255237,77.16238510487862,18.503598667955742,3.374184932044937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9850,7 +9850,7 @@ the recommendation oftho Genera! Congress, ordain
 and dccla.c.a term of. government of Virginia:  
 And whereas the General As-embiv of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012501:0086/pct:24.269557021677663,6.654908877131099,17.67200754005655,22.198706643151088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012501:0086/pct:24.265745248939847,6.654126498941923,17.67446730537668,22.200015675209656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9877,7 +9877,7 @@ lature, mid shall be called the General A&gt;&#x27;Cinblv ct
 Virginia.  
 2. One of these shall he railed the House of Del
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012501:0086/pct:24.23814011938423,44.315108759553205,17.67200754005655,6.878306878306878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012501:0086/pct:24.234333280980053,44.30989889489772,17.67446730537668,6.881417038952896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9896,7 +9896,7 @@ aforesaid. This rotation shall be applied to each di­
 vision according io its number,and continu&#x27;d iudue  
 older annually. And tor tho election ol Seuators
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012501:0086/pct:42.082940622054664,4.538506760728983,17.436380772855795,2.104644326866549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012501:0086/pct:42.076331082142296,4.537973195391489,17.43887754567824,2.1083156987224703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9918,7 +9918,7 @@ h»ro tiny Senate, which shall have the solo power to
 try nil impeachments. When sitting for that pur­  
 pose, the Senate shall Iks on oath or iifiirrnu.ion: an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012501:0086/pct:60.17907634307257,18.883009994121107,17.57775683317625,4.256319811875367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012501:0086/pct:60.16962462698288,18.880790030566658,17.580231401497304,4.259738223998746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9944,7 +9944,7 @@ the recnmmcndution of tbo General Congr.-ss, ordain
 and declare, a fetmof government of Virginia:  
 And whereas the General Assembly of Virginia,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012601:0090/pct:23.966543348882098,22.59660697455231,18.38507318642432,6.998114985862394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012601:0090/pct:23.96268896751367,22.593945105430556,18.38747721668275,7.001217261554168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9979,7 +9979,7 @@ egates, and shall consist of one hundred und thirty
 i four members, to be chosen, annually, for und bv  
 | the several counties, cities, towns, ami boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012601:0090/pct:23.966543348882098,42.295004712535345,18.17596911693743,11.180490103675778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012601:0090/pct:23.96268896751367,42.290022381906,18.178406776026588,11.183099697647936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10010,7 +10010,7 @@ aforesaid. Tins rotation sliall In* applied to each dt­
 vis.un according &#x27;o its number, end contium-d in due .  
 order annually. Aud tar tho-&#x27;•lection ol Senators
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012601:0090/pct:23.966543348882098,5.289820923656928,36.89882580022519,90.23327049952874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012601:0090/pct:23.96268896751367,5.289197785369302,36.89825238554734,90.22656771508227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10036,7 +10036,7 @@ gates, to Ik? approved or rejected by the Renata, or to
 be amended with the consent of tho House of De-j  
 legates.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012601:0090/pct:42.174682322663664,80.58435438265786,18.481582756956733,6.361922714420358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012601:0090/pct:42.16789964618849,80.57486158558135,18.48397126621636,6.365099933246947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10090,7 +10090,7 @@ should be snoeuily adopted, and in compliance with
 the recommendation of the General Congress, ordain  
 and declare, u firm of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:24.36814496900334,5.19730510105871,17.94627245271022,22.004331087584216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:24.36427209154482,5.196679898953446,17.94871794871795,22.005693893099163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10126,7 +10126,7 @@ egates, and shall consist of one hundred and thirty
 four membere, to be chosen, annually, for and by  
 the several counties, cities, towns, and boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:24.36814496900334,40.53176130895091,17.803210936258147,11.308950914340713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:24.36427209154482,40.526885600866116,17.805679169315532,11.311600304743575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10170,7 +10170,7 @@ iforesaid. Tins rotation shall be applied to each di- b
 he couutii-s of Brooke, Ohio and Tyler, shall form &lt;  
 &gt;no district: the counties of Monongalia, Preston and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:24.36814496900334,2.9956689124157845,35.7653791130186,91.87921077959577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:24.36427209154482,2.9953085528690004,35.764992583174404,91.87216809013994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10188,7 +10188,7 @@ manner and under such penalties as each House may !
 provide. And each Honse shall chooso its own &lt;  
 Speaker, appoint its own officers, settle its own rules i &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:42.26673024956287,76.32338787295477,17.86679383245907,2.2738209817131856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830012601:0046/pct:42.26001271455817,76.3142066642608,17.86925196016105,2.277557239664782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10263,7 +10263,7 @@ should be snecdily adopted, nnd incompliance with
 I the recommcndatioooftlic General Congress, ordain  
 and declare n form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012701:0094/pct:5.51004016064257,4.197209742255852,36.0,90.30503665169071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012701:0094/pct:5.509155155798266,4.1967135595224025,35.99957168861763,90.29830161169563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10288,7 +10288,7 @@ Article III.
 branch) c. which together shall be a complete Lcgis­  
 latuic, and uhalt be culled the Goneral ^e*omhly o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012701:0094/pct:23.46987951807229,43.970205722393004,18.02409638554217,5.911563017261764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012701:0094/pct:23.46610986186958,43.96500768412342,18.026555305707248,5.914804744453639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10307,7 +10307,7 @@ provide. And earh IIoiiko hIuiII choose its own
 Speaker, appoint its own officers, settle its own rules I  
 &lt;&gt;t proceeding, fit direct writs of election lor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012701:0094/pct:41.863453815261046,76.59021045164342,17.76706827309237,2.7074958619058878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012701:0094/pct:41.85672984259557,76.58115616503133,17.769568476282256,2.711116365212594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10332,7 +10332,7 @@ Hoioe of Delegates, or the law shall otherwise particularly
 he prescribed by law, ul] intercourse with other and foreign  
 ■Slates: and during the recess of the Legislature, to fill, pm Inn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012701:0094/pct:59.83935742971887,64.38874438401514,17.83132530120482,5.013005438637976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012701:0094/pct:59.82974622550594,64.38113252157466,17.833815183638507,5.016353390865745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10359,7 +10359,7 @@ Aartcuc VI.
 ! A Treasurer shall be appointed annually by jnhit vote of  
 both Houses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012701:0094/pct:78.05622489959839,15.641995743674627,18.42570281124498,5.686923622605817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012701:0094/pct:78.04368776100225,15.640146589431374,18.4280972266838,5.690191906056666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10382,7 +10382,7 @@ manner aa»hall be prescribed by law,all
 intereoorse with other foreign .States;  
 and during the rrce«* of the Legisla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830012701:0017/pct:9.267540478026215,47.04118122044065,14.30994602929838,5.479294036221018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830012701:0017/pct:9.266111625038544,47.035755478662054,14.312879021482166,5.482506728181469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10416,7 +10416,7 @@ bear teste by ti*e Clerks «.| the several
 Court*. Indictments shall conclude*  
 against the peace Mid dignity of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830012701:0017/pct:24.05551272166538,42.86538239704695,14.371626831148806,12.077517591417696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830012701:0017/pct:24.051803885291395,42.86043829296425,14.374550313495734,12.079969242599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10486,7 +10486,7 @@ pliance with the recommendation of the
 General Congress, ordain and declare, a  
 form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:21.331609566903683,29.488598627407573,15.853264382676148,36.207659951295106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:21.328162869607368,29.485334809075816,15.856088759627296,36.20734181885261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10526,7 +10526,7 @@ one hundred and thirty-four members to be
 chosen, asnually, for and bv the several  
 counties, cities, towns and boroughs of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:21.67097608274079,4.427717511622759,31.173238526179702,94.12220500332079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:21.667474551623847,4.427227448810183,31.17358754779986,94.1154768492898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10587,7 +10587,7 @@ j cording to its number, and continued in
 I counties of Monongihn, Preston and  
 Randolph, shall form anoilier district: th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:37.427278603749194,50.5645339827319,15.659340659340659,29.643568740314368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:37.42123121667475,50.558937465412285,15.662196369903592,29.643977125991515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10606,7 +10606,7 @@ of every denomination, shall be incapable
 of being elected members of either House  
 of Assembly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:53.555268261150616,72.3931813150321,15.384615384615385,3.2433030772636706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:53.54661496202941,72.38516878804649,15.38751548446168,3.2466334624608004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10635,7 +10635,7 @@ vacancies. Rut if vacancies shall occur
 bv death or resignation, during the recess  
 ; of the General Assembly, sacli writ* ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:53.23206205559147,88.79787469559442,15.70782159017453,9.907017932255922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:53.22346097915657,88.78804648588822,15.710669467334519,9.909610772920125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10659,7 +10659,7 @@ of Delegates, to be approved or rejecte y
 the Senate, or to be amended with tire con­  
 sent of the House ot Delegate!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:69.21460892049127,5.125083019703343,15.481577246283129,6.774407792782821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:69.20342543221845,5.124515771997786,15.48446167932353,6.777347352886921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10681,7 +10681,7 @@ tier as shall he prescribed by law, all hub
 course with other nnd foreign States: Hf  
 during the recess of the Legislature, tot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:85.11635423400129,38.26654859419969,13.978668390433096,5.368607482842594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830012701:0125/pct:85.10260138956212,38.262313226342,13.98179565896483,5.371702637889689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10762,7 +10762,7 @@ should In *i»ceoily adopted, and incompliance with
 the recommendation of the General Congress, ordain  
 and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012801:0098/pct:4.874112330535829,4.447328064173647,36.523563589412525,89.78412174118202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012801:0098/pct:4.87332580280781,4.4468034913894785,36.52304878704749,89.7774632381851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10796,7 +10796,7 @@ older annually. Aud for tlio election of Senator*,
 tho enuntim of Brnoku, Ohio and Tyler, shall form  
 owe district: the counties uf Monongalia, Preston an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012801:0098/pct:23.06326662362815,4.4119381856788955,36.44286636539703,90.35035979709804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012801:0098/pct:23.059544941100533,4.411417787213965,36.44236458501425,90.34363450499332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10833,7 +10833,7 @@ Irrionris hi- nvasians ©I the r ^ ,n ol the peo­
 ple ; when dis-o.lve.l, hv M l using to cull other*  
 I &gt;r « long s|&gt;* Mime, ih t*hy !e «vi.»a »
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830012801:0604/pct:3.919983835118206,5.4232424677187945,29.763588603758336,91.73601147776183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830012801:0604/pct:3.919191919191919,5.422464495768183,29.762626262626263,91.72643810070291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10922,7 +10922,7 @@ mendation of the General Congress, ordain
 and declare, a form of government for Vir­  
 ginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830012801:0234/pct:20.615711252653927,18.047752808988765,18.301486199575372,43.693820224719104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830012801:0234/pct:20.611335172999365,18.04521836820671,18.30290808745489,43.69119505687404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -10959,7 +10959,7 @@ of Delegates, and shall consist of one hundred
 and tlurty-four members, to be chosen, an­  
 nually. lor and by the several counties, cities
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830012801:0234/pct:20.764331210191084,78.87640449438203,18.78980891719745,13.30056179775281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830012801:0234/pct:20.759923583103376,78.86532790338435,18.79112714922522,13.302204746524364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11016,7 +11016,7 @@ And for&#x27;.he election of Senators, the counties1
 of Brooke, Ohio and Tyler, shall form one!  
 district: tlie counties of Mooongdia, Preston
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830012801:0234/pct:39.34182590233546,41.43258426966292,18.00424628450106,24.929775280898877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830012801:0234/pct:39.33347484610486,41.42676590366521,18.00573126724687,24.92978514253616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11039,7 +11039,7 @@ of election .or supplying intermediate vacan­
 cies. ltut if vacancies shall occur by death  
 or resignation, during the recess of the Ge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830012801:0234/pct:57.388535031847134,70.42134831460675,17.898089171974522,5.196629213483146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830012801:0234/pct:57.376353215877735,70.4114590647381,17.899596688601147,5.199410195197304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11064,7 +11064,7 @@ Delegates, to be approved or rcje ted by the
 Senate, or to be amended with the coasent  
 of the House of Delegates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830012801:0234/pct:57.43099787685775,76.75561797752809,18.02547770700637,5.814606741573034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830012801:0234/pct:57.418807047336024,76.74483920797641,18.026958182976013,5.81730094087909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11091,7 +11091,7 @@ suspend&#x27; d in th&#x27;-ir operation for bis nssent, and when
 to suspender] neglocting to attend to them for many  
 year*;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012901:0102/pct:6.565575092756896,82.411647293648,17.63187610904985,6.715979805095691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012901:0102/pct:6.564516129032258,82.40197229396571,17.634408602150536,6.71910464115207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11129,7 +11129,7 @@ should be speedily adopted, and in compliance witii
 the recommendation of the General Congress, ordain  
 : and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012901:0102/pct:24.342635909017584,14.7234941880944,18.164220035489596,12.997534343078549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012901:0102/pct:24.338709677419356,14.72176567269312,18.166666666666668,12.99992173436644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11163,7 +11163,7 @@ Virginia.
 egates, and shall consist of one hundred and thirty  
 four members, to be chosen, annually, for and b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012901:0102/pct:24.342635909017584,40.68333920394505,18.148088401355057,10.661030879417636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012901:0102/pct:24.338709677419356,40.67856304296783,18.150537634408604,10.663692572591374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11217,7 +11217,7 @@ vision according to it* number, and continued in due
 order annually. And lor the election ot Svnutora,  
 the countien of Brooke, Ohio and Tyler,shall for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012901:0102/pct:24.342635909017584,4.391217564870259,36.00580738828843,89.02195608782435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012901:0102/pct:24.338709677419356,4.390702042733036,36.005376344086024,89.01541832981138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11235,7 +11235,7 @@ ters of the Gospel and Priests of every denomination,!
 slmll lie incapable of being elected members of either  
 House of Assembly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012901:0102/pct:42.781093724794324,62.79206293295761,17.938377157606066,2.089937771515792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012901:0102/pct:42.774193548387096,62.7846912420756,17.940860215053764,2.093605697738123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11261,7 +11261,7 @@ intermediate vacancies. Hut if vacancies shall occur by
 death or resignation, during the recess of the Gene*  
 Ml Assembly, “ueb writs may be issued by the Gover
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012901:0102/pct:42.781093724794324,73.40612891863333,17.61574447491531,6.492896559821533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830012901:0102/pct:42.774193548387096,73.39751115285279,17.618279569892472,6.496047585505204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11347,7 +11347,7 @@ with the recommendation of the General Con­
 gi ess. ordain and declare, a turni of government  
 of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012901:0132/pct:35.202492211838006,13.309710995460081,15.0,32.46595061454988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012901:0132/pct:35.19700981155583,13.308237378210807,15.00285521466023,32.466046648951874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11379,7 +11379,7 @@ pleto Legislature, and shall be called the Gen­
 ciaI Astfci.ihly of V irginia.  
 ‘7 One of tlieso shall he called the House o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012901:0132/pct:35.5607476635514,59.59472926586203,14.454828660436137,8.515114605248588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012901:0132/pct:35.55520946893007,59.5881310894597,14.457768779525516,8.517862415116623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11429,7 +11429,7 @@ Ohio and Tyler, shall form one district; the
 cunnltCH of Monongalia, Preston and Kaininlpli  
 shall form another district; the . counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012901:0132/pct:50.42056074766355,13.619754180046506,14.672897196261681,15.97829697707895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012901:0132/pct:50.412708300887715,13.618246235606732,14.6758033535794,15.980218482432832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11457,7 +11457,7 @@ law. J
 ft. Writs shall run in the name oftho Cmmon­  
 woa 1th of Virginia, and bear test by tho Clerks o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012901:0132/pct:80.52959501557632,64.63293101539143,14.595015576323988,6.4887609345587425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830012901:0132/pct:80.51705341847064,64.62577502214349,14.59793386284587,6.491733097136109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11807,7 +11807,7 @@ time, tlreirbr loving tho p ?iti?C!«y*l&#x27;‘rn with&#x27; ut miv
   
 i,\: ‘te.o a-*«d; by emlouvouriOg Ut preuciiltbit pq^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830013001:0106/pct:5.23940029018217,4.436054742803209,36.62743833628889,90.25483718735252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830013001:0106/pct:5.238555770470664,4.43553143800873,36.626907371588224,90.24812237033542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11827,7 +11827,7 @@ direct to conduct, either in pitiOii, or m snrli inanuur as shall
 la* prr- rihad by lau. nil int«*n onrse with Other and foreign  
 Slates; nod during the re.’ iss ot the Legislature, hi fill, pm tan- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830013001:0106/pct:60.954376914396256,66.89476168003776,18.313719168144445,2.784332232184993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830013001:0106/pct:60.94455190199871,66.88687035507844,18.31614012465076,2.787935983642012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11903,7 +11903,7 @@ I’o&#x27;ily should be speedily adopted, and in compliance I
 wuh the recommendation ol the General Congress, or- |  
 dain an I declare, a form ol government ot Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830013001:0269/pct:2.8292104873352097,13.627529438664686,30.86950081469412,81.18211958385733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830013001:0269/pct:2.828791469194313,13.62597165066301,30.869865718799367,81.17664990092973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11934,7 +11934,7 @@ and shatl consist of one hundred and thirty-four mem­
 bers, to be chosen, annually, for and by the several  
 counties, cities, towns and boroughs of the Common
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830013001:0269/pct:18.204710413272107,41.294157997027554,15.153310620648792,7.191036926946381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830013001:0269/pct:18.202014218009477,41.28943758573388,15.156003159557661,7.194025301021186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -11989,7 +11989,7 @@ of Sena ors, tho counties of Brooke, Ohio and Tvlcr,
 shall form one district; the counties of Monongalia,  
 Preston and Randolph, shall form another district: th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830013001:0269/pct:18.35283661679751,66.89150565908311,15.168123241001334,18.45204069966846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830013001:0269/pct:18.350118483412324,66.88385916780979,15.170813586097946,18.453741807651273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12012,7 +12012,7 @@ and pai&lt;! out ol the public Treasury, but no la nr in­
 creasing the rourpensa&#x27;ion of the rneiiihecs shall take  
 effect until the end of the next annual session alte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830013001:0269/pct:33.90608798696489,49.38836172401967,15.03480965782847,4.047101863496056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830013001:0269/pct:33.9010663507109,49.382716049382715,15.037519747235388,4.0504496265813135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12046,7 +12046,7 @@ ID. All laws shall originate in the House of D-le­
 gates, to be approved or rejected by the Senate, or to  
 be amended with the consent of the House of Dele
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830013001:0269/pct:34.009776329432675,58.35143477763805,15.04962227818101,9.04310049159712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830013001:0269/pct:34.00473933649289,58.34476451760403,15.05233017377567,9.045877152873038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12073,7 +12073,7 @@ aforesaid officers, shall he regulated by law.
 9. Writs shall run in the name of the Common­  
 wealth of Virginia, and b»ar teste by the Clerk® of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830013001:0269/pct:49.6519034217153,13.890476734880531,31.00281439786698,81.26214702183606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830013001:0269/pct:49.644549763033176,13.88888888888889,31.003159557661927,81.25666819082457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12464,7 +12464,7 @@ sbouM be aoeedily adopted, and in compliance with
 the recommendation of tho General Congress, ordain  
 and declare, a form of gir. eminent of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:7.233244805499141,4.052165812761993,35.369473519762536,88.53050768514206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:7.232114964073727,4.0516940272441495,35.36915547224826,88.52408118911787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12494,7 +12494,7 @@ egates, and sh ill corwfst of ooo hundred und thirty
 four membcTs, to be chosen, annuully. for und by  
 the several counties., cnie«?, towns, and boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:25.10545227308233,43.08337214718212,17.49726605217935,8.430367955286446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:25.101530771633865,43.07835603679124,17.499739664688118,8.433267357472737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12521,7 +12521,7 @@ vision according to its number, and corUmiisl indue
 nrdrr Annually. And for iko election of Senator*,  
 the coiiuti’ * cf Bruces, Ohio and Tvler, shall torr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:24.99609436025621,3.982300884955752,34.9945321043587,88.9496972519795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:24.99218994064355,3.9818372336709746,34.9942726231386,88.94322195055692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12542,7 +12542,7 @@ oi proceeding, &amp;, direct writs of election ftir uupplyiog
 intermediate vacancies. lint if vacancies shall occur by  
 deiitii or resignation, during the recess of the Gene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:42.85267926886424,75.05822077317187,17.341040462427745,3.7261294829995344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020101:0110/pct:42.845985629490784,75.04948189544767,17.343538477559097,3.729576590212287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12660,7 +12660,7 @@ should be six eddy adopted, and in compliance with
 the recommendation of tliC General Congress, ordain  
 and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020201:0114/pct:24.11493887918717,20.343367826904984,17.46308937926655,7.3494825964252115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020201:0114/pct:24.11111111111111,20.340975896531454,17.465608465608465,7.352537722908093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12690,7 +12690,7 @@ Awricr.K ITT.
 brauch.0*. which togetlier shall b&lt;* a complete Leors­  
 latnre, and aliail be called the General Assembly o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020201:0114/pct:23.74980155580251,40.769049858889936,17.875853310049216,8.537158984007526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020201:0114/pct:23.746031746031747,40.76425631981188,17.87830687830688,8.540074466000393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12731,7 +12731,7 @@ order annually. And for the election ot Senator*,
 the counties ct&#x27; Brooke, Ohio and Tyler, shall form  
 one district: the counties of Monongalia, Preston an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020201:0114/pct:23.686299412605177,4.256820319849482,36.021590728687094,89.39322671683914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020201:0114/pct:23.682539682539684,4.256319811875367,36.02116402116402,89.38663531256124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12755,7 +12755,7 @@ ffntof?, to bo approved or rejected by the Senate, or to
 be amended wrth the consent of tho lioireo of De­  
 legates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020201:0114/pct:41.59390379425306,79.85653809971778,17.558342594062548,5.232831608654751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020201:0114/pct:41.58730158730159,79.84714873603762,17.56084656084656,5.236135606505977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12774,7 +12774,7 @@ signed hy tbe members present and consenting thereto, mid laid
 before the General Assembly when called for by them. The  
 council shall appoint their own clerk, who shall take an oath 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020201:0114/pct:59.692014605492936,75.11759172154281,17.828226702651214,2.2695202257761053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020201:0114/pct:59.682539682539684,75.108759553204,17.83068783068783,2.2731726435430137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -12791,7 +12791,7 @@ council shall appoint their own clerk, who shall take an oath
 to he approved or rejected by the Senate, or to he a­  
 mended with the consent of the House of Delegates.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020201:0275/pct:34.39293598233996,19.16464751355717,15.040470934510669,1.4191761855313256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020201:0275/pct:34.38787522071807,19.16243654822335,15.043162644692957,1.4228580218427933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13128,7 +13128,7 @@ J stances ut cruelty ami perfidy unworthy the head ol
 ; finally, liy abandoning the helm of government, and  
 | declaring us out ol his allegiance and protection: b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020301:0118/pct:24.883007907051798,7.070588235294117,17.960303372599643,15.764705882352942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020301:0118/pct:24.878993223620522,7.069756499235384,17.962783693664623,15.766772536564325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13155,7 +13155,7 @@ V lt‘ or under this Constitution, shall vote
 h*r oua Senator; and the Sheriffs or other officers  
 holding the election for oath county, city, town o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020301:0118/pct:24.96369210908504,80.4235294117647,17.863482330159755,6.894117647058824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020301:0118/pct:24.959664407873507,80.4140689330667,17.86597827256104,6.89722777712426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13176,7 +13176,7 @@ of proceeding. &amp;. direct Wfits of election for supplying
 intermediat e vacancies. But iTvacancies shall occur by  
 i a or resignation, during the reruns of tho Gene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020301:0118/pct:43.11763756656447,75.89411764705882,17.831208649346458,3.847058823529412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020301:0118/pct:43.11068086479509,75.88518997764969,17.833709798859847,3.850527388934635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13212,7 +13212,7 @@ unless some regular ndcqnato mudo of civil polity
 the recontmendaiiunof the Gimeral Congress, ordutn  
 • and declare a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020401:0122/pct:23.241145075206212,16.6156382477626,18.29209121785541,12.2703721149317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020401:0122/pct:23.23738680465718,16.613681855645826,18.29452350150927,12.272852152753249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13242,7 +13242,7 @@ egates. aud ahull consist of one hundred and thi»fy
 ! fout members, to be chosen, annually, for and bv  
 , the several counties, cities, towns, and boroughs of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020401:0122/pct:23.19262493934983,44.59491285916156,18.34061135371179,8.431464908148847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020401:0122/pct:23.188874514877103,44.58966207464971,18.34303579128935,8.434396954354566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13262,7 +13262,7 @@ direct; to conduct, either in person, or in such manner as shall
 hr* prescribed liy law, nil intercourse with other and foreign  
 States: nnH during Mia recoss of the l-egislaturn, to fill, pro trm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020401:0122/pct:60.181141840530486,67.03956665096561,17.887756752385574,2.7908619877531793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020401:0122/pct:60.17141009055627,67.03167314258802,17.890254420008624,2.7944581812473017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13341,7 +13341,7 @@ j should be speedily adopted, and in compliance with
 i the recommendation of the General Confess, ordain  
 j and declare, a form of government of Virpfnh:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020501:0126/pct:6.305732484076433,4.067436925253478,36.11464968152866,88.89412874322093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020501:0126/pct:6.304728546409807,4.066957444300366,36.11420686727167,88.88757907972808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13374,7 +13374,7 @@ Virginia.
   
 &quot;■ Une nl those aLall be called jhe House of 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020501:0126/pct:24.79299363057325,40.473944824333884,17.595541401273884,9.490686158924781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020501:0126/pct:24.789046330202197,40.469173641400445,17.59804702011357,9.493496797516602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13396,7 +13396,7 @@ vision according lo its numher, and continued in due
 order annually. And tor the election of Senator*,  
 tho counties of Brooke, Oluo nod Tyler, shall for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020501:0126/pct:24.506369426751593,4.0556472530063665,35.52547770700637,89.2713982551285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020501:0126/pct:24.502467759910843,4.055169161853118,35.5251286950061,89.26480411804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13415,7 +13415,7 @@ of proceeding, &amp; direct writs of election for supplyiio
 intermediate vacancies. Hut if vacancies sbs.I occur by  
 dcatli or resignation, during the recess of the Gene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020501:0126/pct:42.611464968152866,76.45602452251828,17.404458598726116,2.7469936335769867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020501:0126/pct:42.604680783314755,76.44701167039962,17.406994639919333,2.7505992376910684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13435,7 +13435,7 @@ direct; to conduct, either in pet-on, nr in such manner as shall
 he prescribed fry law, all intercourse with other and foreign  
 States; and during the recoss of the legislature, to fill, pro Urn- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020501:0126/pct:60.50955414012739,65.63310539966989,18.00955414012739,2.7941523225654326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020501:0126/pct:60.49992039484159,65.62536838382648,18.01199384386775,2.797752367480058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13463,7 +13463,7 @@ with the recommendation of tho General Con­
 gress, ordain and declare, a form of government  
 of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:19.84212970128463,78.88914496427748,14.4250116081102,7.179073519244065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:19.839059114825133,78.88005530591082,14.427937686990612,7.182087029995775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13501,7 +13501,7 @@ boroughs of the Commonwealth ; whereof thir­
 ty-one Delegates shall lie chosen for and by the  
 twenty-six counties lying West of Alle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:34.63860083578393,24.049320119843284,14.378579167311562,11.51186909426135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:34.63324048282266,24.046549141606175,14.381512431651707,11.514383377501249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13558,7 +13558,7 @@ Ohio and Tyler, shall form one district; the
 enmities of Monongalia, l’reston and Kauuolph  
 shall form another district ; the counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:34.63860083578393,59.6796496888684,14.517876489707476,20.13136667434893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:34.63324048282266,59.67277336098629,14.52078819766842,20.13288781349618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13582,7 +13582,7 @@ Priests of every denomination, shall be incapable
 »f being elected members of either House of  
 Assembly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:49.280297167621114,56.96012906199585,14.394056647577774,4.8052546669739575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:49.2726709996905,56.953566079041366,14.396987516764675,4.808541690670968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13609,7 +13609,7 @@ but if vacancies shall occur by death or resigna­
 tion, during the recess of the General Assem­  
 bly, such writs may be issued by tne Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:49.280297167621114,70.86886379350081,14.486921529175051,6.245678727817469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:49.2726709996905,70.8606982371241,14.489838027442485,6.248799784921458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13627,7 +13627,7 @@ Delegates, to be approved or rejected by the
 Senate, or be amended with the consent of the  
 House of Delegates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:49.43507197028324,80.46784973496197,14.517876489707476,1.9474533302604287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:49.42742185082018,80.45857817720936,14.52078819766842,1.9510696316779967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13655,7 +13655,7 @@ the aforsaid officcts shall he regulated by law.
 1). Writs shall run in tho naino of the Cmmon­  
 wwalth’of Virginia,&#x27;and bear test by the Clerks o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:79.07444668008048,61.177690712145655,14.734561213434453,6.752707997234386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830020501:0135/pct:79.06220984215413,61.1706417790068,14.737439389249975,6.7557706340976305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13693,7 +13693,7 @@ unless some regular adequate inode of civil polity
 the recommendation oft he General Congress, ordain  
 (and declare.r. form of Government.yf Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020601:0130/pct:24.312148028962188,14.408172851103805,18.27835880933226,13.257397839361202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020601:0130/pct:24.30823680823681,14.406481155336387,18.28078078078078,13.259754999804313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13717,7 +13717,7 @@ Anrici.E m.
 1. The Lcr;A&#x27; .re slmll be formed of two cT.Uitjct  
 , brancho?, which together tdaall h; a complete Lm-is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020601:0130/pct:24.27996781979083,43.48285580084547,18.29444891391794,5.425082198215124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020601:0130/pct:24.276061776061777,43.477750381589765,18.296868296868297,5.428358968337834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13746,7 +13746,7 @@ order annually. And for Ibo election of Senators,
 tii« conn tie* of Brooke, Ohio and Tyler, fdinll form  
 one district: the counties of Monongalia, Trenton an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020601:0130/pct:24.440868865647627,3.816345702207609,36.34754625905068,90.44152184124002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020601:0130/pct:24.436936936936938,3.8158976165316427,36.34706134706135,90.43481664122734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13766,7 +13766,7 @@ ol this Commonwealth; and shall not under any pre­
 tence, exercise any pnw-r, or pr rrg t.ivc, by virtue of  
 any law, statute, or custom of England. It says no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0282/pct:67.28332119446468,67.35044694017877,14.82884195193008,2.8420811368324546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0282/pct:67.27352170113603,67.34272946029563,14.831537042431304,2.845575035330965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13784,7 +13784,7 @@ militia, with tie advice ol Die Privy Council, and
 when embodied rhall a&#x27;one have the direction of the  
 militia, under the law* ol the country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0282/pct:67.2978878368536,77.42379096951639,14.799708667152222,1.867980747192299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0282/pct:67.2880862219633,77.41491921622551,14.802408000776774,1.8715862648485544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13859,7 +13859,7 @@ polity should be speedily adopted, and in compliance
 with th» recommendation of Ihe General Fongr***, or­  
 tfaln an I derlaro, a form of government of Virgin.is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0284/pct:35.22794552989935,67.30077717202181,15.452930728241563,27.920194872984574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0284/pct:35.222731981648664,67.29297146833682,15.45557693256376,27.92082270161602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13894,7 +13894,7 @@ anti shall consist of one hundred and thirty-four mem­
 bers, to he chosen, rnnuolly, for and by the several  
 counties, cities, towns aud lioroughs of the Common
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0284/pct:50.991711071640026,12.898735645516762,15.156897572528123,9.082473030970885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0284/pct:50.98416457007548,12.897239619577824,15.159587588180159,9.085285703239775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13937,7 +13937,7 @@ of Sena ors, the counties of Brooke, Ohio and Tyler,
 shall form one district; the counties of Monongalia  
 Preston and Randolph, shall form another district: th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0284/pct:51.006512729425694,46.5955225611878,15.245707519242155,12.713142326876232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0284/pct:50.998964037294655,46.59011830201809,15.24838439149524,12.715533905513029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13965,7 +13965,7 @@ ring the recess ol the Gen. Assembly, such writs may
 be issued by (lie Governor, under such regulation* as  
 •nay be prescribed by law. Etch House sh ill judge o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0284/pct:66.60746003552399,21.1576383250203,15.349319123741859,6.507365734833546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0284/pct:66.59760248631049,21.15518441196938,15.3519806620295,6.510477074151396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -13989,7 +13989,7 @@ tint G ivemor, shall he commissioned by him. Thu
 Justices shall appoint Constables. And all fee*of tho  
 alo-esai i officer-, shall he regulated by iiw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0284/pct:82.41563055062167,47.67428372578587,15.20130254588514,4.593434636353091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830020601:0284/pct:82.40343347639485,47.6687543493389,15.2039859898377,4.59676795793706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14029,7 +14029,7 @@ antlbhipsof war, by affecting to render the military
 independent of and soponour to the civil poxver; by  
 combining with others to subject us to u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020801:0134/pct:6.021811284969179,4.685486704931475,35.65670934091987,90.31275623755418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020801:0134/pct:6.02085967130215,4.684937924572499,35.65634218289085,90.30608261107207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14065,7 +14065,7 @@ should bo speedily adopted, and incomplittucn with
 j the recommendation of the General Congress, ordain  
 and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020801:0134/pct:24.276908487434802,15.860372496193042,17.796744112533585,12.275975166920464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020801:0134/pct:24.27307206068268,15.85851487467791,17.799199325748,12.278441477317092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14092,7 +14092,7 @@ trict: the counties of Kanawlra, Mason, CabeD, Lo
 counties of Greenbrier. Monroe, Giles, and Mont­  
 gomery, shall form another district: the counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020801:0134/pct:42.20009483167378,4.146655733864355,17.780938833570413,6.51282651985475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020801:0134/pct:42.19342604298357,4.146170063246662,17.78339654445849,6.515967830092918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14113,7 +14113,7 @@ of proceeding, &amp; direct writs of election fbr supplying
 intermediate vacancies. Hot if vacancies shall occur by  
 dhJitb or resignation, during the recess of tlio Gone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020801:0134/pct:42.31073178441599,76.94740541173715,17.622886043938674,3.818671664519152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020801:0134/pct:42.30404551201011,76.93839306629187,17.625368731563423,3.8221285234637308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14213,7 +14213,7 @@ slniiil I be speedily adopted, and incompliance witn
 the recommendation of the General Coiurress, ordain  
 and declare.n form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020901:0138/pct:24.564487773693465,42.35266328097319,18.155665654466997,35.17184362820361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020901:0138/pct:24.560562480025567,42.34766178554558,18.158090976882924,35.17162651550937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14248,7 +14248,7 @@ lature, and shall be called the QcndVal Assembly of^
 Virginia. j  
 2. One of these shall be called jhe House of Del-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020901:0138/pct:24.564487773693465,3.566788709105941,36.7268659101806,91.92157789063423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020901:0138/pct:24.560562480025567,3.5663675011809164,36.72632363907532,91.91465910880176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14294,7 +14294,7 @@ the counties of Brooke, Ohio and Tyler, shall form
 one district: the counties of Monongalia, Preston and  
 Randolph, shall form another district: the counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020901:0138/pct:42.879974428639926,39.541750324790364,18.411379255234138,17.17255226172198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020901:0138/pct:42.87312240332375,39.53708077468115,18.41376371577714,17.174460714848056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14312,7 +14312,7 @@ niann r am! timlrr such ponaltii-s ns e tch House may
 provide. And each House shall choose its own  
 Speaker. appoint its own officers. sot&#x27;le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020901:0138/pct:61.64295988492888,34.28605173024684,17.612274252836823,2.149521672375103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020901:0138/pct:61.6331096196868,34.28200283419934,17.614786406732716,2.1532042198079044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14351,7 +14351,7 @@ ing the laws for the naturalization of foreigners; by*
 keeping among us, in time of peace, standing armies  
 and ships of war, bv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021001:0142/pct:24.326069410815172,42.78169014084507,17.869249394673123,13.169014084507042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021001:0142/pct:24.322143318269852,42.77666940499941,17.871745211964708,13.171380510894652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14378,7 +14378,7 @@ should be soecdily adopted, and in complianco with i
 the recommendation of the General Congress, ordain i  
 ano declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021001:0142/pct:24.16464891041162,70.11737089201878,18.095238095238095,7.535211267605634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021001:0142/pct:24.160748870238862,70.10914211946955,18.09769743920809,7.5382388608535775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14408,7 +14408,7 @@ egates, aud shall consist of one hundred and thirty
 four members, to bo chosen, annually, lbr uud by  
 the several counties, cities, towns, and boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021001:0142/pct:24.019370460048425,4.061032863849765,36.545601291364,91.50234741784037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021001:0142/pct:24.015493867010974,4.060556272737942,36.54508284914999,91.49552087000744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14464,7 +14464,7 @@ the counties of Brooke, Ohio nnd Tyler, shall firm
 one district: the counties of Monongalia, Preston and  
 Randolph, shall form another district: the counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021001:0142/pct:42.3728813559322,35.082159624413144,18.28894269572236,21.854460093896712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021001:0142/pct:42.36604260813428,35.07804248327661,18.291370776845277,21.855807221374643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14489,7 +14489,7 @@ legates.
 11. The privilege of the Writ of Habeas Corpus  
 sha&#x27;i not in any case be suspended. The Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021001:0142/pct:60.823244552058114,39.401408450704224,18.45036319612591,5.997652582159624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021001:0142/pct:60.81342801807618,39.39678441497477,18.452765224876263,6.000860618863201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14506,7 +14506,7 @@ inisdem« tutor, shall be impeachable by the House of
 Delegates; •ttrn impeachment to be prosecuted bc­  
 lore tho Senate, which shall have the sole power t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021001:0142/pct:61.06537530266344,68.8849765258216,18.208232445520583,1.795774647887324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021001:0142/pct:61.05551969012266,68.87689238352306,18.210673552829782,1.7994758048742323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14585,7 +14585,7 @@ should bo specnily adopted, nnd in compliance with
 * he rccwronondntion of tho General Congress, ordain  
 end declare.a fonnof government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021101:0146/pct:24.394966118102612,43.36740688520738,18.19941916747338,34.81377041475737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021101:0146/pct:24.391030811421196,43.36231203007519,18.20186051513685,34.81359649122807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14621,7 +14621,7 @@ cjfntcs, and shall consist of ono hundred and thirty
 four members, to ho chosen, annually, fbr and by  
 the several counties, cities, towns, mid boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021101:0146/pct:24.443368828654403,4.840794266243685,36.640851887705715,91.17612501468687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021101:0146/pct:24.43942571382481,4.840225563909774,36.64031833091359,91.16932957393483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14672,7 +14672,7 @@ the counties of Brooke, Ohio and Tyler,shall form;
 one district: tho counties of Monongalia, Preston and  
 Randolph, shall form another district: tho counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021101:0146/pct:42.70732494353017,38.42086711314769,18.473701193933525,19.151686053342733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021101:0146/pct:42.70043555412163,38.41635338345865,18.47609829542399,19.153352130325814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14690,7 +14690,7 @@ J that nil persons holding lucrative offices and Mims­
 shall bo incapable of being elected members of either  
 j House of Assembly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021101:0146/pct:61.293965795417876,22.500293737516156,18.134882220070992,2.1854071201973917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021101:0146/pct:61.284078077109214,22.49765037593985,18.137333978598697,2.1890664160401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14712,7 +14712,7 @@ manner and tinder such penalties as each House may
 provide. And each House shall choose its own  
 Speaker, appoint its own officers,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021101:0146/pct:61.31010003226847,33.15709082364,18.134882220070992,4.253319233932558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021101:0146/pct:61.30020971124375,33.153195488721806,18.137333978598697,4.256735588972431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14730,7 +14730,7 @@ monwealib may require it; to grant reprieve* and imrdims. ex­
 cept where the prosecution shall have been earned ou by tbo  
 House of Delegates, or the law shall otherwise tiarticuW
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021101:0146/pct:79.97741206840917,24.65045235577488,17.97353985156502,1.9151686053342734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021101:0146/pct:79.96451040490402,24.647556390977442,17.97601763725332,1.918859649122807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14762,7 +14762,7 @@ mble right of representation iu the Leg&#x27;s.&#x27;a.
   
 lure ; by dweolv ng lr^.lWe rt^nybUr* re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021101:0621/pct:6.329113924050633,5.818654345942824,29.72573839662447,91.0771007796708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021101:0621/pct:6.327778949588694,5.817814349646311,29.724741615692892,91.06756171502815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14791,7 +14791,7 @@ hly, such writs may bn issued by the (ioxern
 or. under such regulations as may be prest ri  
 bod by law. Kai h House shall judge of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021101:0621/pct:36.983122362869196,88.57926653190874,15.29535864978903,7.363557609009529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021101:0621/pct:36.975321662096604,88.56647899523604,15.297405610630669,7.366103652374766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14810,7 +14810,7 @@ Delegates, «o be approved or rejected by the
 Seriate, or be amended with Hit consent cl tba  
 House ot Delegates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021101:0621/pct:52.34177215189873,6.641640196361537,15.147679324894515,2.411204158244297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021101:0621/pct:52.330731913098504,6.640681391655839,15.149757435140266,2.414465136422694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14839,7 +14839,7 @@ Mich manner as shall be prescribed by law, all
 iirercourto w ith oilier am! foreign States ; and  
 during the recess of th** Legislature, to fill pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021101:0621/pct:52.59493670886076,87.49639041293676,15.063291139240507,7.392434305515449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021101:0621/pct:52.58384307108205,87.48375920311824,15.06538704914575,7.394976180164574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14857,7 +14857,7 @@ name o f the Commonwealth of Virginia, « i
 bear test by the Governor, with the seal of the  
 Go hi in on weal i!» annexe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021101:0621/pct:68.12236286919831,21.238810280103955,14.936708860759493,2.0069304071614207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021101:0621/pct:68.10799409407298,21.235744189403782,14.938831470153977,2.010249747365382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14889,7 +14889,7 @@ ARTICLE VI.
 The Treasurer shall he appointed annually  
 by joint vote ol both House
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021101:0621/pct:68.16455696202532,59.08172105111175,15.0,8.706323996534797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021101:0621/pct:68.15017928707024,59.073191857947165,15.002109259649863,8.708676194600837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -14978,7 +14978,7 @@ at gpvernmeni al Virginia.
 .Aftd whereas the General Assembly of Vir.  
 ginia by an act passed on the tenth day of Fe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021101:0245/pct:24.506614617219693,5.2786334360123215,18.173931901973543,40.702884346121536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021101:0245/pct:24.501300954032956,5.277894442111158,18.1754119687771,40.70068598628028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15015,7 +15015,7 @@ i De egatts, and shall consist of one hundred
 and thirty four members, ta be chosen, snnu*  
 [ ally, for and by the aeveral counties, citie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021101:0245/pct:24.15961830405552,60.55726687202464,18.32574278898287,11.957434892187063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021101:0245/pct:24.154379878577625,60.548789024219516,18.32718993928881,11.959260814783704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15063,7 +15063,7 @@ counties of Brooke, Ohio and Tyler shall f irm
 one dis»&#x27; ict; the counties of Monongal&#x27;s, Pres­  
 ton and Ran Inlph, thall form a.iother district
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021101:0245/pct:42.810670136629795,15.345841500980118,18.499240945564953,18.552226267152058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021101:0245/pct:42.80138768430182,15.343693126137477,18.500650477016478,18.553128937421253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15085,7 +15085,7 @@ Hut if vacancies shall occur by death or reaig
 natnm, during :he rec&lt;-*-* of&#x27;he general as.sem  
 hly, such ar ts may hr issued by the governo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021101:0245/pct:61.83040555194101,22.402688322598713,18.13055736282802,4.466535984318118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021101:0245/pct:61.81699913269731,22.39955200895982,18.132046834345186,4.469410611787764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15110,7 +15110,7 @@ delegates, t-&gt; be approved or rejected by tbe !
 senate, or to he amended with the consent of  
 the house of delegates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021101:0245/pct:61.85209282151377,26.785214225707083,18.499240945564953,6.0207224866984035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021101:0245/pct:61.838681699913266,26.781464370712587,18.500650477016478,6.0233795324093515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15192,7 +15192,7 @@ nnd declare, a forinof government of Virginia:
 And whereas the General A.-womhly of Virginia.;  
 by an act parsed on the tenth day of I’nhrtiary, in tho 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021201:0150/pct:23.60645264334771,43.783469150174625,18.30378533780546,35.90221187427241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021201:0150/pct:23.602682848930055,43.77837271563264,18.306185457255403,35.90191285453769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15225,7 +15225,7 @@ the several counties, cities, towns, and boroughs of
 the Commonwealth; wjjercof tlurty-ono delegates  
 wiiall be chosen for nnd b)’ the twenty-six counties ly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021201:0150/pct:23.766171538092955,5.529685681024447,36.479795559814725,90.9080325960419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021201:0150/pct:23.762376237623762,5.529042020719357,36.479293090599384,90.90133085011446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15271,7 +15271,7 @@ the counties of llrookc, Ohio and Tyler, shall form
 one district: the counties of Monongalia, Preston and  
 Randolph, shall form another district: tho counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021201:0150/pct:42.02204120747484,40.9895227008149,18.223925890432838,16.9848661233993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021201:0150/pct:42.0153305653146,40.98475148411128,18.226338762908547,16.986769099445155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15296,7 +15296,7 @@ legates.
 j The privilege of the Writ of Uabeat Corpiu  
 shall not in any case bo suspend&#x27; d. The .Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021201:0150/pct:60.35777032422936,40.61699650756694,18.176010222009264,5.972060535506403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021201:0150/pct:60.348131587352285,40.61226865324176,18.178430746300435,5.975245411865131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15382,7 +15382,7 @@ with the recommendation nf the General Con­
 gress, ordain and declare, a form of government  
 of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:21.36700438530168,51.73878113164238,14.320278239830637,34.25915298978538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:21.36377381312368,51.732843699793435,14.323152907972986,34.25904674470201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15418,7 +15418,7 @@ eral Assembly of Virginia.
 Delegates, and shall consits of one hundred and  
 thirty-four members to bo chosen, annually, lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:36.12581279298352,23.37885917594399,14.184182670497504,10.111327900837829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:36.12035077109162,23.376176268074364,14.187077915532708,10.113992808507383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15481,7 +15481,7 @@ distiict; the counties of Greenbrier, Monroe,
 Giles and Montgomery, shall form anotherdis­  
 irict ; the counties of Tazewell, Wythe an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:35.85362165431725,59.4973028807529,14.637834568274611,23.355904969585676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:35.848200786211066,59.490475097544184,14.640661223666969,23.35704995792212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15517,7 +15517,7 @@ IJut if vacancies shall occur by tieuth or rtsii&#x27;na­
 tion, during the recess of the General Assem­  
 bly, such writs may be issued by the Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:50.6426735218509,65.91300355790199,14.29003477997883,11.259038218753586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:50.63501663138796,65.9054395226073,14.292914020764035,11.26157141764211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15535,7 +15535,7 @@ Delegates, to be approved or rejected by the
 Menale, or bo amended with the consent of the  
 House of Delegates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:50.92998639044307,80.48892459543211,14.244669590201118,1.9511075404567888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:50.922286059872995,80.47968785861832,14.24755568995061,1.9547088975594828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15556,7 +15556,7 @@ other high crime or misdemeanor, shall hu im­
 peachable by the House of Delegates; such im­  
 peachment to he prosecuted, before the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:65.35611673975502,28.88786870193963,14.063208831090277,3.362791231493171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:65.34623525854249,28.884553591921048,14.066122366696906,3.3662305867951954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15582,7 +15582,7 @@ ernor, shall bo commissioned by him. Tho Jus­
 tices shall appoint Constables.* And all fees of  
 the a for said officeis shall he regulated by law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:79.91834265840012,61.06966601629749,14.456373809163768,5.8188913118328935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:79.90625944965225,61.06265779205876,14.459227900413264,5.822048810343508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15606,7 +15606,7 @@ A Treasurer shall be appointed annually by
 joint voto of both Houses.  
 ARTICLE VII
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:79.94858611825192,66.81969470905544,14.380765159534251,4.280959485825778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021201:0139/pct:79.9364983368612,66.81202662382373,14.383630682390889,4.284293474102976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15686,7 +15686,7 @@ should bo speedily adopted, nnd incompliance * with
 i oe recommendation of the Ciencral Congress, ordain  
 and declare,n form of government of Virgini
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021301:0154/pct:24.191502853519342,44.2560553633218,17.97717184527584,34.45213379469435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021301:0154/pct:24.18766841020764,44.250951447353245,17.979605854070904,34.452004766847345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15715,7 +15715,7 @@ egates, and shall consist of one hundred and ihi&#x27;ty
 four members, to be chosen, annually, lor and bv  
 the several counties, cities, town*, and boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021301:0154/pct:28.012048192771083,6.3321799307958475,32.32403297400127,89.91926182237601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021301:0154/pct:28.0076081787922,6.331449659785492,32.3241929518677,89.91273593972245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15757,7 +15757,7 @@ the counties of Brooke, Ohio and Tyler,shall fbrm
 one district; the counties of Monongalia, Preston and  
 Randolph, shall form another district: the counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021301:0154/pct:42.2003804692454,43.63321799307958,18.31008243500317,14.786620530565168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021301:0154/pct:42.19369155175146,43.62818590704648,18.312463676229726,14.788759466420636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15785,7 +15785,7 @@ legates.
 11. The privilege of the Writ of Ilabent Corim*  
 , nr ‘ !n nny case bo suspended. The Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021301:0154/pct:60.74825618262524,39.64244521337947,17.64426125554851,7.497116493656286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021301:0154/pct:60.73862735774291,39.637873371006805,17.646748031912082,7.500096105793257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15815,7 +15815,7 @@ t. l*ho Lej.slntiire e-hall bo formed of two distinct
 Virginia.  
 -• One of tli.’Fo shill bo called iho House of D •!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021501:0158/pct:22.754001960143743,4.219964136282128,36.80169879124469,93.15002988643155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021501:0158/pct:22.75028580761065,4.219459717905809,36.80113234253361,93.14287991074985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15855,7 +15855,7 @@ order annually. Ar.d for tho election of Senators, 1
 the counties of Brooke, Ohio and Tyler, shall f..rm i  
 one district: the counties of AFonor.galn, Pro.-d.on and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021501:0158/pct:41.45704018294675,42.8332337118948,18.409016661221823,14.739988045427376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021501:0158/pct:41.450269475747184,42.828113793927805,18.41145408024389,14.742210534703961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15875,7 +15875,7 @@ Speaker. appoint its own officers, ccttlc its own rules
 j of procped;r.{j, &amp; d.rcet wi its of election for supplying  
 •nfermcdial.-&#x27; vacancies. I&#x27;i«t it vacanciessliall occur b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021501:0158/pct:59.996733093760206,35.33771667662881,18.24567134923228,3.335325762104005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021501:0158/pct:59.9869345092275,35.333492708582355,18.248135445587675,3.3389114670491673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15907,7 +15907,7 @@ t finable right of representation in Ibc Legisla­
   
 air# ; by diltofting bgltlalit* re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021501:0625/pct:5.747605164514786,5.491161982034193,29.591836734693878,92.01680672268908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021501:0625/pct:5.746408494690818,5.49036650731566,29.590880699562774,92.00709836303056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15930,7 +15930,7 @@ occasioned supplied from so l» da-s °* dtvta­
 according to ns number, and coo iniied m d it*  
 order annually —And lor the election of Sen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021501:0625/pct:35.755935027072056,10.315850478122284,15.139525197834235,4.563894523326572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021501:0625/pct:35.74849052675411,10.314356077067941,15.141578180303977,4.5668549905838045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -15957,7 +15957,7 @@ I election for supplying intermediate vacancies
 nation, during the ‘cress of the General Ass* n»  
 t*|y, such writ* may be issued by thu Gover
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021501:0625/pct:35.65181174510621,88.91625615763547,15.222823823406914,6.505360764995653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830021501:0625/pct:35.644388923589425,88.90337534405332,15.224859462835727,6.508039982616253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16037,7 +16037,7 @@ should be speedily adopted, and incompliance with
 t&#x27;m recommendation of the f/cneral Congress, ordain  
 and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021601:0162/pct:24.071661237785015,43.42496727359276,18.241042345276874,35.130310603355944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021601:0162/pct:24.06774141019378,43.41980009519276,18.24349997286001,35.13009677931144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16067,7 +16067,7 @@ V irginia.
 egates, and shall consist of one hundred and thirty  
 lour members, to bo chosen, auuually, lor and l»
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021601:0162/pct:24.071661237785015,4.474592407473521,36.807817589576544,92.12186124003333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021601:0162/pct:24.06774141019378,4.474059971442171,36.807251804809205,92.11486593685547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16114,7 +16114,7 @@ vision according to its number, and continued in due
 order annually. And for the election of Senators,  
 the counties of Brooke, Ohio and Tyler, shall for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021601:0162/pct:42.47557003257329,38.97417588956325,18.355048859934854,17.779364512674046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021601:0162/pct:42.468653313792544,38.96953831508805,18.357487922705314,17.7812152943043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16134,7 +16134,7 @@ misdemennor, shall be itnponchable by the House of
 Delegator, such impeachment to be prosecuted be.  
 , mrc the Senate, which t-linl) havo the sole power t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021601:0162/pct:60.99348534201955,68.10662858502916,18.534201954397393,3.4154468642151614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021601:0162/pct:60.98355316723661,68.09852451213708,18.53661184389079,3.4190068221481833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16215,7 +16215,7 @@ should be speedily adopted, and in compliance with
 the recommendation of the General Congress, ordain  
 and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:4.621451104100946,9.57753240518483,35.4416403785489,85.42966874699952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:4.6207222835514905,9.576383055322212,35.44130789044841,85.42341693667747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16252,7 +16252,7 @@ egates, and shall consist of one hundred and thirty
 four members, to be chosen, annually, for and by  
 tho several counties, cities, towns, and boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:22.350157728706623,52.44839174267883,17.649842271293377,11.365818530964955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:22.346633023182463,52.442097683907356,17.652315617936182,11.368454738189527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16291,7 +16291,7 @@ order annually. Ami for the election of Senators,
 the counties of Brooke, Ohio aqd Tyler, shall form  
 one district: the counties of Monongalia, Preston an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:40.55205047318612,11.209793566970715,17.886435331230285,13.44215074411906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:40.5456552594228,11.208448337933516,17.888871366240867,13.44453778151126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16310,7 +16310,7 @@ shall be incapable of being elected members of either
 House of Assembly.  
 8. The members of the Assembly shall receive fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:40.93059936908517,81.68506961113778,17.365930599369086,2.7124339894383103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:40.924144456710295,81.67526701068043,17.368448719970562,2.716108644345774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16329,7 +16329,7 @@ provide. *£And each House shall choose its own
 ^peakcrytapoiat its own officers, settle its own rules  
 o pioc ceding, &amp;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:58.722397476340696,9.793566970715315,17.52365930599369,2.7244359097455595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:58.71313672922252,9.792391695667826,17.526152552173684,2.7281091243649747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16354,7 +16354,7 @@ direct; to conduct, cither in-person, or in such manner as shall
 be prescribed by law, all intercourse with other and foreign  
 btajgs; and during the recess of the Legislature, to fill, pro to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:58.89589905362776,88.93422947671627,17.57097791798107,5.0648103696591456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:58.88661094464595,88.92355694227768,17.573463701834623,5.068202728109124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16375,7 +16375,7 @@ shall be appointed by the General Assembly
 monwealth of Virginia, and bear teste by thr Gfrr . *  
 teal of the Commonwealth annexed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:76.78233438485805,19.41910705712914,17.618296529968454,3.1445031204992797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:76.77022551648005,19.41677667106684,17.620774851495558,3.1481259250370015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16400,7 +16400,7 @@ Aitnct.F. VI.
 A Treasurer shall be appointed annually by jaiitl vOft  
 both Houses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:76.6403785488959,47.167546807489195,17.586750788643535,4.8847815650504085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830021601:0067/pct:76.62829206749724,47.16188647545902,17.589234085054933,4.888195527821113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16427,7 +16427,7 @@ suspended in their operation 1’ot his assent, and when
 , ao aiispon led neglecting to attend to them for many  
 I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:5.118232731798382,82.78746465598492,18.170504044803984,6.986333647502356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:5.117436615336755,82.77771233360819,18.17286254990408,6.989437311029961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16452,7 +16452,7 @@ j should be speedily adopted, and in compliance with
 I the recommendation of tho General Congress, ordain  
 , and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:23.568761667703797,19.93402450518379,17.548226509023024,6.361922714420358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:23.565095660289312,19.931676286959593,17.550681806398092,6.365099933246947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16489,7 +16489,7 @@ j the several counties, cities, towns, and boroughs ot
 j the Commonwealth; whereof thirty-one delegates  
 [ shall be chosen for and by the twenty-six counties ly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:23.568761667703797,39.608859566446746,17.641568139390166,12.441093308199811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:23.565095660289312,39.60419366238662,17.64400891792399,12.44355440373817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16541,7 +16541,7 @@ order amiuauy. Aud lor the election of Senators,
 i ho counties of Urooku, Ohio and Tyler. shall form  
 one district: the counties of Monongalia, I1 re*Lon an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:23.755444928438084,3.5461828463713476,35.034225264467956,91.15221489161169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:23.75174988334111,3.545765107786547,35.03396069891637,91.14540385597047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16559,7 +16559,7 @@ ters of tho Gospel and Priests of every denomination,
 shall be incapable of being elected members of either  
 , House of Assembly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:41.35034225264468,61.58105560791706,17.392657125077786,2.0735155513666355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:41.343910405972935,61.57380139003416,17.395136620521594,2.0771979424353084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16584,7 +16584,7 @@ of proceeding, &lt;fc direct writs of election for supplying
 intermediate vacancies. Cut if vacancies shall occur by  
 death or resignation, during the recess of the Gene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:41.31922837585563,72.26672950047126,17.626011200995645,5.914231856738925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:41.312801368797636,72.25821651549063,17.62845439933634,5.9174618133270505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16607,7 +16607,7 @@ gates, to be approved or rejected by the Senate, or to
 be amended with tho consent of tho HousoofDe­  
 legalcs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:41.50591163658992,79.20593779453345,17.439327940261357,4.8421300659754944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:41.49945559184943,79.19660737424903,17.441800176284545,4.845486315624141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16629,7 +16629,7 @@ direct; to conduct, either in person, or in such manner as shall
 lie prescribed by law, all intercourse wiih other and foreign  
 States; and during the recess of the Legislature, to fill, pro (cm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:59.30304915992533,63.018378887841656,17.112632233976353,3.652214891611687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:59.2938248561207,63.01095535398751,17.1151552859439,3.6557113126791534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16647,7 +16647,7 @@ shall t*e appointed by the General Assembly.
 mon wealth of Virginia, and bear teste by ibe (iftyemor, with life  
 seal of the Commonwealth annexed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:59.225264467952705,78.1573986804901,17.06596141879278,1.7789820923656927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:59.216052263182455,78.14819177759453,17.068491730180952,1.7826991793301135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16667,7 +16667,7 @@ stoned by linn. The Justice, shall^npomt Constables. Ahd
 a.I fees of the aforesaid officers, shall he regulated l.y lave  
 9 Wilts shall ion in the name of the Commonwealth o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:76.85127566894835,13.00659754948162,17.268201617921594,2.803958529688973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021701:0166/pct:76.83932182298958,13.00506537872541,17.270700471820398,2.807554874936192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16747,7 +16747,7 @@ unlcsssoinc regular adequate niodo of civil polity
 I the recommendation of the General Congri ss, ordain  
 and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:5.122349102773247,5.0771055753262155,36.96574225122349,91.57769869513642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:5.121513619311695,5.076503380381924,36.965149785244385,91.57079033724746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16781,7 +16781,7 @@ Virginia.
 egates, and shall consist of one hundred and thirty  
 lour members, to ho chosen, annually, for and b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:23.588907014681894,41.30486358244365,18.482871125611744,10.830367734282325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:23.585059533518187,41.29996441703238,18.485293318110152,10.83303680860317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16824,7 +16824,7 @@ order annually. An«l for tho election ofScuator^,
 llie counties of Brooke, Ohio and Tyler, shall form  
 one district: tho counties of Monongalia, Preston an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:23.67047308319739,5.041518386714117,36.7047308319739,91.94543297746145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:23.666612298156906,5.040920412762424,36.70418093840048,91.93848100264896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16849,7 +16849,7 @@ ot proceeding, 4r. direct writs ofelection for supplying
 intermediate vacancies, f tut if vacancies shall occur by  
 dealh or resignation, during the recess of the Gene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:42.33278955954323,74.27046263345196,18.287112561174553,6.002372479240806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:42.32588484749633,74.26165342189539,18.28956668297722,6.005614201557743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16869,7 +16869,7 @@ fore the Senate, which shall have the sole power to
 try nil impeachments. When sitting for that pur­  
 pose, the Senate shall be on oath or affirmation: an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:60.766721044045674,18.517200474495848,18.238172920065253,3.2147093712930013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:60.756809655847334,18.515004151346222,18.24063502419399,3.218281738030285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16889,7 +16889,7 @@ direct; to conduct, either in person, or in such manner ns glial
 Im prescribed liy law, all intnrcnurso with other and foreign  
 States; and during the recess of the Legislature, to fill, pro ter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:60.73409461663948,65.88374851720047,18.270799347471453,2.811387900355872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021801:0170/pct:60.724188549991844,65.8759340529,18.273256130049475,2.815008105009291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16945,7 +16945,7 @@ of civil polity should speedily aflitptcfl, sud *
 incompliance with the recommendation of the  
 General Congres*, ordum and declare, a for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021801:0249/pct:6.13882863340564,22.21444568868981,18.047722342733188,23.33426651735722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021801:0249/pct:6.1374972890913035,22.211336599020292,18.049230101930167,23.33449965010497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -16975,7 +16975,7 @@ Complete Legislature, snd shall be called the
 Delegates, and shall consist of one hundred  
 ■*nd thirty four members, to be chosen, ann
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021801:0249/pct:5.79175704989154,64.54367301231802,17.917570498915403,8.66461366181411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021801:0249/pct:5.790500975927131,64.53463960811756,17.919106484493604,8.666899930020994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17005,7 +17005,7 @@ counties of Hi obke, Ohio and Tyler shsll torm
 one-district; llie counties of Monongalia, Pres-’  
 tun and Randolili, shall form another d&#x27;S&#x27;rict
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021801:0249/pct:24.22993492407809,26.413773796192608,18.2646420824295,8.678611422172452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021801:0249/pct:24.2246801127738,26.41007697690693,18.266102797657776,8.680895731280616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17028,7 +17028,7 @@ bly, sncdi wr.ts may he issued by the governor,
 tuvler such regulations as may be prescribed  
 by Uw.—Eacn hou,-e shall judge of the elec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021801:0249/pct:42.971800433839476,24.286114221724524,17.852494577006507,4.899216125419933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021801:0249/pct:42.96248102363912,24.282715185444367,17.85404467577532,4.902029391182645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17049,7 +17049,7 @@ the house of delegate*.
 11. The privilege «f the writ of Jfaiecn Vrtr.  
 pwe shall not in any case be suspended.—Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021801:0249/pct:42.99349240780911,31.424972004479283,17.982646420824295,3.83538633818589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021801:0249/pct:42.98416829321189,31.420573827851644,17.984168293211884,3.8383484954513647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17072,7 +17072,7 @@ AJUICfJK V.
 supreme court &lt;Jf appeals in such superior  
 courts as the legislatuce-nuy from tune to &#x27;on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021801:0249/pct:61.51843817787419,56.14501679731243,18.004338394793926,4.703247480403135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830021801:0249/pct:61.505096508349595,56.1371588523443,18.005855562784646,4.706088173547935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17099,7 +17099,7 @@ should be speedily adopted, and incompliance with (
 the recommendation of the General Congress, ordain ,  
 and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:24.36759526096702,19.497749348495617,18.011527377521613,7.450841032930585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:24.36369457339523,19.495440009475306,18.013980043754337,7.453906589285009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17134,7 +17134,7 @@ egates, and shall consist of one hundred and thirty
 i four members, to be chosen, annually, for and by  
 the several counties, cities, towns, and boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:24.335574767851426,40.28666192845297,18.011527377521613,11.28879412461502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:24.33167920601889,40.28189032334478,18.013980043754337,11.291405108768606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17186,7 +17186,7 @@ order annually. Ami fur the circtiou ot r&gt;cnatofs, {
 the counties ot&#x27; ltrooke, Ohio aud Tyler,ahull form  
 one district: the counties of Monongalia. Prestun an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:24.35158501440922,4.098554844823502,36.1511367275056,91.50675195451315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:24.34768688970706,4.098069406609025,36.15068566245131,91.49986181846894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17224,7 +17224,7 @@ legates.
 • 1- The privilege of tiio Writ of Jfulrat Corpus  
 slinll not in any case bo suspended. The Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:42.49119436439321,72.98033641317224,17.86743515850144,12.994551054252547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:42.484392508404035,72.9716925263532,17.869910890560803,12.99696000631687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17246,7 +17246,7 @@ direct; to conduct, either in person, or in such nranuer as shall
 lie prescribed by law, all intercourse with other and foreign  
 States; and during the recess of the Legislature, to fill, pro tem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:60.88696765930195,63.69343757403459,17.707332692923472,3.636579009713338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:60.87722106611174,63.685893639701526,17.7098340536791,3.6400963322673614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17266,7 +17266,7 @@ AnricLs. VI.
 A Treasurer shall be appointed annuelly by Joint vote uf  
 both House*. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:78.88248479026576,16.31130063965885,17.77137367915466,2.594171997157072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830021901:0174/pct:78.86985753161518,16.309368707805284,17.77386478843178,2.597812783765644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17352,7 +17352,7 @@ with the recommendation of the General Con­
 gress, ordain and declare, aform of government  
 of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:18.833307197741885,53.47326916386408,15.08546338403638,34.40797866171866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:18.83035434305425,53.467068645640076,15.088324448625483,34.407854050711194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17392,7 +17392,7 @@ boroughs of the Oommon wealth ; whereof thir­
 ty-one Delegates shall be chosen for and by the  
 twenty-six counties lying West of Alle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:34.16967225968324,24.91012408674475,14.960012545083895,12.130349066450192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:34.16431483223581,24.907235621521338,14.962893278979827,12.132807668521954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17442,7 +17442,7 @@ Ohio snd Tyler, shall form one district; the
 cuunties of Monongalia, Preston and Rnnuolph  
 shall form another district ; the counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:34.01285871099263,64.82662646410762,15.163870158381684,16.873477907920677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:34.00752587017874,64.8191094619666,15.166718929654019,16.875386518243662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17461,7 +17461,7 @@ Priests of every denomination, shall be incapable
 of being elected members of either House of  
 Assembly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:49.36490512780304,61.05763655340369,14.787517641524227,2.412153542850516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:49.35716525556601,61.05055658627087,14.790425420717048,2.41573902288188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17488,7 +17488,7 @@ Hut if vacancies shall occur by death or resigna­
 tion, during the recess of the General Altera­  
 bly, such writs msy be issued by the Governor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:49.49035596675553,72.65452858633886,14.803198996393288,6.308709265916734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:49.48259642521167,72.6461038961039,14.806104316922756,6.311842918985776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17513,7 +17513,7 @@ Delegates, to be approv.»d or rejected by the
 inmate, or be amended with the consent of the  
 House of Delegates.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:49.64716951544614,78.9284471761568,14.850243061000471,5.33457033515018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:49.63938538726874,78.91929499072356,14.853141005539877,5.337816944959802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17541,7 +17541,7 @@ tho aforsaid officeis shall be regulated by law
 u- )Vril?,?haU fun in lho namo of the Cmmonl  
 wealth of Virginia, and bear test by the Clerks o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:79.80241492864984,62.90154238664038,14.975693899952956,6.8537631914646875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830021901:0143/pct:79.78990279084353,62.894248608534326,14.978572175185533,6.856833642547929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17620,7 +17620,7 @@ should be speedily adopted, and in compliance with
 the recommendation of the Genera! Congress, ordain  
 and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:6.347671983244724,5.141296604132035,36.41050426937329,91.51033008786511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:6.346649484536083,5.140686216312478,36.41000859106529,91.50342316672602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17656,7 +17656,7 @@ j egates, and shall consist of one hundred and thirty
 tour members, to be chosen, annually, for and bv  
 the several counties, cities, towns, and boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:24.375704849363622,41.35597245309903,18.334138875463186,11.386843980052245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:24.371778350515463,41.35106256678143,18.33655498281787,11.389449523131109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17683,7 +17683,7 @@ v..iun according to its number, and continued gj due
   
 ardor ommally. And Jor tko civet** of flenato*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:24.55292411793137,5.212538589408691,36.39439342677622,91.74780337212064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:24.548969072164947,5.211919743559302,36.39390034364261,91.74086825754877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17706,7 +17706,7 @@ manner nnd under such penalties as each House limy
 provide. And each House shall choose its own  
 Speaker, appoint its own officers,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:43.08039310455937,73.69983376870103,17.673594328983405,4.891949655663738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:43.07345360824742,73.6910839368396,17.67611683848797,4.895326289128972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17730,7 +17730,7 @@ monwealth of Virginia, and bear teste by the Governor, with the
 seal of (lie Commonwealth annexed.  
 jAarui.K V
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:61.350088609634284,78.12871052006649,18.140808764298374,4.5951080503443364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022001:0178/pct:61.34020618556701,78.11943488068384,18.143256013745706,4.598519925600538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17800,7 +17800,7 @@ should bo apoeaily adopted, and Incompliance with
 the recommendation of tho General Congress, ordain  
 and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022201:0182/pct:5.666180994010038,4.584323040380047,37.1215800550429,93.39667458432304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022201:0182/pct:5.665263839430236,4.583778648616554,37.12096687169526,93.38954201797094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17835,7 +17835,7 @@ egates, and shall consist of one hundred and thirty
 four members, to be chosen, annually, fbr and by  
 thc6cvural counties, cities, towns, and boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022201:0182/pct:24.65598186822082,40.902612826603324,18.018455560951917,11.365795724465558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022201:0182/pct:24.651990935577857,40.89775561097257,18.020934498759036,11.368404385860744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17884,7 +17884,7 @@ bers ejected by the /irsl division shall bo displncod,
 and the Taconcics thereby occasioned, supplied from  
 such class or division by now election in tho manne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022201:0182/pct:24.55884733689493,76.40142517814726,18.24510280071232,19.121140142517813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022201:0182/pct:24.55487212690191,76.39235245220283,18.247545052336246,19.1228278510074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17910,7 +17910,7 @@ of proceeding, &amp; direct writs of election for supplying
 intermediate vacancies. But if vacancies shall occur by  
 dentil or resignation, during tho recess of the Gune
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022201:0182/pct:43.030597377367656,73.26603325415677,17.84037558685446,6.532066508313539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022201:0182/pct:43.02363224344448,73.25733285833036,17.842883349519802,6.5352491786407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17934,7 +17934,7 @@ ing Ute luw« Ibf tu«
 keeping amoof ui  
 and ships of war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:5.487705585409542,4.178041543026707,25.30532486565706,91.26409495548961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:5.486812113318138,4.177545691906006,25.306631933137957,91.25721971674974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -17985,7 +17985,7 @@ should be speedily adopted, and in compliance with
 the recommendation of the General Congress, ordain  
 and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:24.051457417358737,7.252225519287834,18.661455788959454,19.727002967359052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:24.047541517421035,7.25136482316639,18.663844567459027,19.728617770393228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18020,7 +18020,7 @@ egates, and shall consist of one hundred and thirty
 four members, to be chosen, annually, for and bv  
 the several counties, cities, towns, and boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:24.409705259729687,40.27299703264095,18.23807197524833,11.335311572700297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:24.405731032237057,40.26821742226442,18.24052968631282,11.337922303979745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18057,7 +18057,7 @@ bers elected by the first division shall bo displaced,
 ami tho vacancies thoreby occasioned, supplied from  
 such ctsss or division by now olection in the mnnno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:24.051457417358737,82.04154302670624,18.596319817619282,12.474777448071217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:24.047541517421035,82.03180631379065,18.59871920112884,12.477252947226837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18078,7 +18078,7 @@ of proceeding, dt direct writs of election for supplying
 intermediate vacancies. But if vacancies shall occur by  
 death or resignation, during the recess of tho Gene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:43.006025077348966,75.22848664688428,18.02638006839277,3.798219584569733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:42.99902311950505,75.21955850937574,18.028872245739716,3.8017248200015823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18103,7 +18103,7 @@ appeals, in such siqierior courts as the Legislature may from
 tune to lime ordain nnd establish, and the judges thereof, in the  
 county courts, and in justices of the peace The legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:61.61862888780329,78.2433234421365,18.12408402540303,5.103857566765579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022301:0186/pct:61.608596548355585,78.23403750296701,18.126560295234995,5.107207848722209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18190,7 +18190,7 @@ should bo speedily adopted, and in compliance with
 the recommendation of tho General Congress, ordain  
 and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022401:0190/pct:25.004038119851398,41.2482235907153,17.864642222581168,38.38228327806727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022401:0190/pct:25.0,41.243339253996446,17.867140396210164,38.381685415433196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18226,7 +18226,7 @@ egates, and «LaM consist of one hundred snd thirty
 four members, to ho chosen, annually, for and by  
 the several counties, cities, towns, and boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022401:0190/pct:25.19786787271846,5.483183325438181,36.0684865126797,90.70345807674089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022401:0190/pct:25.1937984496124,5.482534043812907,36.06804478897502,90.6966646931123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18278,7 +18278,7 @@ order annually. And for tho election of Senators,
 I ho counties of Brooke. Ohio and Tyler, shall form  
 one district: the counties of Monongalia, Preston an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022401:0190/pct:43.207882409949924,38.57176693510185,17.94540461960911,19.63524396020843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022401:0190/pct:43.200904392764855,38.567199526346954,17.94788975021533,19.63686599565818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18296,7 +18296,7 @@ tors of tho Gospel and Priests of every denomination, |
 shall be incapable of being elected members of either !  
 ilutisc of Assembl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022401:0190/pct:61.76708124697141,23.34201800094742,18.05847197544823,2.072477498815727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022401:0190/pct:61.75710594315245,23.339253996447603,18.060938845822566,2.0761791987369254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18334,7 +18334,7 @@ legates.
 11. The privilege of the Writ of Habeas Corpus  
 shoii not in any case bo suspended. The Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022401:0190/pct:61.68631884994347,33.87020369493131,17.961557099014698,12.825675035528185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022401:0190/pct:61.67635658914729,33.866193013617526,17.964039621016365,12.828103414249062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18353,7 +18353,7 @@ I and ( or oners shall be nominated by the respective County
 sioned by Inm. The Justices shall appoint Constables. And  
 j all Ice* of the afoirsaid officers, shall l.-e regulated by law&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022401:0190/pct:79.95477305766435,64.86262434864993,18.284606687126473,2.4040738986262435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022401:0190/pct:79.94186046511628,64.85494375370041,18.287037037037038,2.407736333135978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18375,7 +18375,7 @@ Annn.r. v i.
 A Treasurer shall Be appointed annually by joint vote ul  
 both House*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022401:0190/pct:79.95477305766435,67.12458550450023,18.284606687126473,3.019895783988631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022401:0190/pct:79.94186046511628,67.11663706335109,18.287037037037038,3.023485297019933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18452,7 +18452,7 @@ unless some regular adequate mode of civil polity
 tbe recommendation of tho Genorul Congress, ordain  
 and declare, a form of government of Virginia:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:23.346872461413486,46.61406194794488,18.245329000812347,33.564951124720295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:23.34307992202729,46.60857277437589,18.247779943686375,33.564923849897944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18483,7 +18483,7 @@ egates. and shall consist of one hundred and thirty
 tour members, to be chosen, annually, for and by  
 the several counties, cities, towns, and boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:24.1429731925264,5.87681074078436,35.84077985377742,91.1317865975739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:24.139051332033787,5.8761186999528965,35.84037253627897,91.12498037368503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18539,7 +18539,7 @@ the counties of Brooke, Ohio and Tyler, shall form
 one district: the counties of Monongalia, Preston and  
 Randolph, shall form another district: the counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:41.8034118602762,36.80367447885997,18.26157595450853,22.459074313979507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:41.796621182586094,36.79934055581724,18.264024258176306,22.46035484377453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18557,7 +18557,7 @@ ter* of the Gospi&#x27;l and Priests of every denomination,
 sluill bo iucapable of being elected members of either  
 House of Assembly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:60.519902518277824,24.013661523966555,17.806661251015434,2.119891649982334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:60.510071474983754,24.010833725859634,17.809183452458306,2.1235672790076934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18575,7 +18575,7 @@ manner and under such penalties as each House tnny
 provide. And each House shall choose its own  
 Speaker, appoint its own officers,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:60.601137286758735,36.82722883052644,17.806661251015434,2.1316688258155696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:60.591293047433396,36.82289213377296,17.809183452458306,2.135343067985555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18592,7 +18592,7 @@ Speaker, appoint its own officers,
 monwealth of Virginia, and bear teste hy the Gjyycrnor, with liip  
 seal of tho Commonwealth annexed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:79.04142973192526,40.53703921799553,18.034118602761982,1.2954893416558708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022501:0194/pct:79.02858999350228,40.53226566179934,18.036603855317306,1.2992620505573873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18665,7 +18665,7 @@ Ot government ol Virginia.
 And whereas the General Assembly of Vir.  
 g-inia hv an act passed on the tenth day of Fe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830022501:0253/pct:5.389859394972305,13.300083125519535,19.130805283340436,32.23884732612912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830022501:0253/pct:5.388711395101171,13.298240753566976,19.132055378061768,32.23784457681119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18715,7 +18715,7 @@ counties of Brooke, Ohio and Tyler shall form
 ane district; the room les of Monongalia, Pres­  
 ton and If inilolj h, ‘hall farm another district
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830022501:0253/pct:24.968044311887517,14.172901080631753,17.554324669791225,19.368246051537824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830022501:0253/pct:24.96272630457934,14.17093780301981,17.55591054313099,19.369026180911483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18795,7 +18795,7 @@ j should be speedily adopted, and in compliance with
 j i be recommendation ol tho General Congress, ordain  
 i anddeclare,a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:24.611689351481186,44.4457730479493,18.014411529223377,35.2265933277532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:24.607748959333975,44.440459110473455,18.016864126374212,35.226366969552046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18829,7 +18829,7 @@ tho several counties, cities, towns, and boroughs of
 the Connnonwcahh; ^crcuf thirty-ono delegates  
 shall be chorcn for and mr the twenty-six counties ty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:27.285828662930346,4.029654430228387,33.54683746997598,93.67451871338037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:27.28146013448607,4.029172644667623,33.54680328743729,93.66730432010202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18885,7 +18885,7 @@ the counties of Brooke. Ohio and Tyler,shall form
 ore district: the counties of .Monongalia, Preston and  
 Randolph, shall form another district: the counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:42.73819055244196,35.72880545258879,18.11048839071257,22.62346048068875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:42.73134806276017,35.724533715925396,18.112925605720996,22.624740953291887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18903,7 +18903,7 @@ tor.-&lt; of tho Gospel and Pnests of every deuorninatioji,
 shall bo incapable of being elcctod members of either  
 House of Assembly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:61.313050440352285,22.27669496592132,17.66212970376301,2.1642951094104985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:61.303234069804674,22.27403156384505,17.66463870210268,2.168021680216802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18928,7 +18928,7 @@ of proceeding, &amp; direct writs of election for supplying
 intermediate vacancies. Cut ifvBCancics shall occur by  
 death or resignation, during the recess of tho Gene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:61.39311449159327,33.050340786799,17.710168134507605,6.038502929570728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:61.38328530259366,33.046389287422286,17.71266944177607,6.041766300015941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18955,7 +18955,7 @@ legates.
 11. Tho privilege of tho Writ of Habeas Corpus  
 shall not in any case be suspended. The Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:61.23298638911129,39.5671409781179,17.966373098478783,6.648331938299653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:61.22318283701569,39.56241032998565,17.968833386700823,6.651522397576917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -18978,7 +18978,7 @@ cept where the prosecution shall have been carried on by the
 House uf Delegate?, or tho law shall otherwise particmaily  
 ditcct: to conduct, cither in person, or in such manner aa iBbl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:79.51961569255404,21.929929451153892,17.822257806244995,4.113356451034318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:79.50688440601985,21.9273075083692,17.82474116768065,4.116849992029332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19000,7 +19000,7 @@ signed by the members present and coroutine thereto, and DTi I
 before tha General Assembly when called for by them. Tho  
 council shall appoint their own clerk, who shall tako en oath t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:79.56765412329864,32.2611503049145,17.838270616493194,3.7187612100920724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:79.55491514569324,32.257293161166906,17.840751414238447,3.722301928901642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19021,7 +19021,7 @@ I teal of the Commonwealth annexed.
 Ajinr.Lt V. t •  
 1. The judicial jmwer shnll be vested in a supreme court o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:79.34347477982386,38.59858902307784,18.190552441953564,2.84586870740165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022601:0198/pct:79.33077169388409,38.59397417503587,18.19297683850998,2.8495137892555396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19108,7 +19108,7 @@ with the recommendation of the General Con­
 gress, ordain and declare, a form of government  
 of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:19.005355776587606,54.64226289517471,14.613618974751338,32.978369384359404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:19.002447980416157,54.63620230700976,14.616483068135455,32.97840875480627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19165,7 +19165,7 @@ Ohio and Tyler, shall form one district; the
 counties of Monongalia, Preston and Randolph  
 shall form another district ; tho counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:33.833205814843154,62.26289517470882,14.843152257077277,19.467554076539102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:33.82802937576499,62.255989352262645,14.845981232150143,19.469091984619936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19190,7 +19190,7 @@ of being elected members of either House of
 Assombly.  
 6. The members of tho Assembly shall ro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:48.890589135424634,59.64503605102607,14.215761285386382,5.158069883527454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:48.88310893512852,59.63842058562555,14.218686250509997,5.161194912747708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19210,7 +19210,7 @@ own Speaker, appoint its own officers, settle its
 own lules of proceeding, and direct writs of  
 election for supplying intermediate vacancies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:48.890589135424634,74.83083749306711,14.24636572302984,2.850804215196894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:48.88310893512852,74.82253771073647,14.249286005711955,2.8541851523217985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19238,7 +19238,7 @@ Delegates, to be approved or rejected by the
 Senate, or he amended with the consent ot the  
 House of Delegates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:48.951798010711556,78.12534664448143,14.353481254781943,6.112035496394897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:48.944308445532435,78.11668145519077,14.35638514891881,6.11505471753919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19259,7 +19259,7 @@ other high crime or misdemeanor, shall he ini­
 peacliable by the House of Delegates ; such im­  
 peachment to bo prosecuted_before the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:63.871461361897474,32.55684969495286,14.322876817138486,3.338879645036051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:63.86168910648715,32.55323868677906,14.325785393716851,3.34220644779651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19293,7 +19293,7 @@ svjt ofthreo mcn&gt;bcis, any one or mote of whom
 may act. They shall he e’ectod by joint  
 vote of both Ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:63.68783473603673,84.94731003882418,14.644223412394798,9.284525790349418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830022601:0145/pct:63.6780905752754,84.93788819875776,14.647082823337414,9.287193138124815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19373,7 +19373,7 @@ shook! be speedily adopted, and in compliance with
 the recommendation of the General Congress, ordain  
 and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:23.925593329057087,44.182464454976305,17.944194996792817,35.07109004739336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:23.92175725509059,44.17723018599692,17.946662391106834,35.07088417644039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19424,7 +19424,7 @@ tfrtlcr annually. And for the election of Senators,
 l he counties of Brooke, Ohio and Tyler, shall form  
 one district: the counties of Monongalia, Preston an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:42.222578576010264,37.476303317535546,17.960230917254652,19.881516587677726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:42.21580888247555,37.47186352327923,17.962695740473517,19.88311021600916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19443,7 +19443,7 @@ shall be incapable of being elected members of either
 House of Assembly.  
 8. The members of Vbc Assembly shell receive fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:60.66388710711995,21.97867298578199,17.623476587556127,2.748815165876777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:60.654160654160655,21.97606918611539,17.62599540377318,2.7524384946491334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19468,7 +19468,7 @@ of proceeding, &lt;St direct writs of election for supplying
 intermediate vacancies. But if vacancies shall occur by  
 death or resign a’, ion ^dijfjRy the recess of the Gene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:60.63181526619628,32.68957345971564,17.655548428479793,6.018957345971564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:60.62209395542729,32.685700746357064,17.65806210250655,6.022193263041504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19487,7 +19487,7 @@ Courts, and when approved by the Governor, shall be commit&#x27;
 sinned by him. The Justices shall appoint Constables. And *»  
 aU feefof tha aforesaid officers, shall be regulated by law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:78.86465683130211,64.0995260663507,18.77806286080821,2.345971563981043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:78.85201218534552,64.09193223551712,18.780396558174335,2.3496426173834064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19508,7 +19508,7 @@ AaTictr. VI.
 A Treasurer ahall be appointed annually by joint vote of  
 both Houses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:78.86465683130211,66.35071090047393,17.99230275817832,3.0687203791469195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830022701:0202/pct:78.85201218534552,66.34285037317854,17.994762439206884,3.072305808948387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19541,7 +19541,7 @@ the several counties, cities, towns, mid boroughs of
 tho Commonwealth; whereof thirty-ono delegates  
 shall be chosen for nml by tho twenty-six counties ly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:25.143325143325143,5.147058823529412,35.38083538083538,91.33064516129032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:25.13920733704553,5.146448476224356,35.38050005459111,91.32376773785525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19582,7 +19582,7 @@ the counties of Brooke, Ohio and Tyler,shall form
 one diatriet: the counties of Monongalia, Preston and  
 Randolph, shall form another district: the counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:42.24406224406224,43.95161290322581,18.37837837837838,14.753320683111955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:42.2371437929905,43.94640104351951,18.380827601266514,14.755523933752322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19604,7 +19604,7 @@ manner and under such penalties as each House may
 provide. And each House shall choose ita own  
 Speaker, appoint its own officers, sct&#x27;le its ovvn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:60.93366093366093,33.894686907020876,18.001638001638003,4.328747628083492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:60.92368162463151,33.890667615320766,18.004148924555082,4.332187042966125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19622,7 +19622,7 @@ m/3demoanor, shall be impeachable by the House of
 IJelcgatos; hucIi impeachment to be prosecuted be­  
 fore the Senate, which shall have the sole power t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:60.86814086814087,69.52087286527514,18.214578214578214,2.217741935483871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:60.85817228955126,69.51262895766631,18.217054263565892,2.221431677141389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19640,7 +19640,7 @@ niunweu.th may require it; to grant reprieves anti nardcus, ex.
 House ol Delegates, or the law shall otherwise pnrticula f /  
 direct; to conduct, either in person, o. in such maimer a, s&#x27;jai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:79.47583947583948,25.332068311195446,18.181818181818183,1.885673624288425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:79.46282345234196,25.329064389896836,18.184299596025767,1.8894027431914304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19659,7 +19659,7 @@ Courts, anti when approved by the Governor, shall be commit
 sionci. by him. 1 he Justices shall appoint Constable*. And  
 u. i fees ol the aforesaid cfhccrs, shall ho regulated by law. • • 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:79.57411957411958,65.0853889943074,18.804258804258804,2.383776091081594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030101:0206/pct:79.56108745496233,65.07767105419187,18.806638279288133,2.3874461441163684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19778,7 +19778,7 @@ should be speedily adopted, and in compliance with&#x27;
 ! , recommendation ol tho General Congress, ordain  
 and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:22.93159609120521,45.122240683598385,18.322475570032573,34.963209114645146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:22.92786191174076,45.11688619912187,18.32491993703523,34.963015703492744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19830,7 +19830,7 @@ order annually. A^l for tho election of Senators,
 the counties of Bnwkn, Ohio and Tyler,shall form  
 one district: the counties of Monongalia, Preston an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:41.36807817589577,38.53548540232613,18.289902280130292,19.724661761215287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:41.36134180100961,38.53091254301649,18.29235195136514,19.726276650448956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19849,7 +19849,7 @@ shall be incapable of being elected members of eitbor
 House of Assembly.  
 8. The members of the Assembly shall receive fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:60.09771986970684,23.20199382862568,18.14332247557003,2.7889864704486116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:60.087933561309235,23.19924053637119,18.145796015849754,2.792611051778015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19874,7 +19874,7 @@ ot proceeding, &amp; direct writs of election for supplying
 intermediate vacancies. But if vacancies shall occur by  
 death or resignation, during the recess of tho Gene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:60.06514657980456,33.87135058153335,18.192182410423452,5.981485877047235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:60.055365575639144,33.867331197341876,18.19464799435488,5.984731616629089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19893,7 +19893,7 @@ gates, to bo approved or rejected by the Senate, or to
 be amended with tho consent of the House ofDe­  
 legates.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:60.0,42.93852361737479,18.306188925081432,2.646570140042725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:59.990229604298975,42.93342826628693,18.308635944200184,2.6502116213757367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19922,7 +19922,7 @@ House of Delegate* or the taw .hell otherwise p.^cStriy
 direct; to conduct, either in person, or in such manner ■haft  
 be prescribed by law, el) CXuri whhoiE, Erf feE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:78.79478827361564,20.733444101590315,18.27361563517915,6.788511749347259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:78.78195733593877,20.730983742731695,18.2760679585301,6.791661722242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19939,7 +19939,7 @@ be prescribed by law, el) CXuri whhoiE, Erf feE
 ■&quot;°™cal.lh °f Virginia, and bear teste by the Gavemor, with tlTo  
 seal of tho Common wealth annexed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:78.84364820846906,39.93591265131735,18.175895765472312,1.3410871113220983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:78.8308093144439,39.9311736086389,18.17836400151984,1.3448835093548515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -19957,7 +19957,7 @@ ami Coroner* shall be nominated by the respective County
 C ourts, and when approved by the Governor, shall be eotnmls­  
 sioned by him. The Justices shall appoint C onstables. Ani
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:78.81107491856677,65.34535960123428,18.110749185667753,1.946356515547116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030201:0210/pct:78.79824132877381,65.3376053162454,18.113228030179666,1.9500810885645345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20037,7 +20037,7 @@ should he speedily adopted, and incompliance with
 the rocouunendalion &lt;&gt;■ the General Congress, ordain  
 and declare, a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:23.023218054879038,46.02967359050445,18.168533852898197,35.06231454005935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:23.01948051948052,46.024210776169,18.17099567099567,35.06210934409368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20070,7 +20070,7 @@ egates, and shall consist &lt;g‘ ono hundred and thirty
 four members, to be chosen, annually, for and by  
 the several counties, cities, towns, aud boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:23.559019321318395,5.756676557863502,36.32083130378308,92.17804154302671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:23.555194805194805,5.755993353904581,36.32034632034632,92.17105783685417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20123,7 +20123,7 @@ i the counties of Brooke, Ohio and Tyler, shall form
 one district: the counties of Monongalia, Preston and  
 Randolph, shall form another district: the counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:41.46777074200357,39.40652818991098,18.655625913297612,20.237388724035608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:41.46103896103896,39.40185141229528,18.658008658008658,20.238942954347653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20142,7 +20142,7 @@ shall be incapable of being elected members of either
 House of-Assembly.  
 8. The members of the Assembly shall receive fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:60.35070628348758,23.96439169139466,17.811333008605292,2.741839762611276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:60.34090909090909,23.96154759079041,17.813852813852815,2.7454703694912572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20164,7 +20164,7 @@ manner and under such penalties as each House may
 provide. And each House shall choose its own  
 Speaker, appoint its own officers,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:60.366942685500895,34.67062314540059,17.860042214645233,4.29673590504451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:60.357142857142854,34.66650842629955,17.86255411255411,4.300181976422185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20189,7 +20189,7 @@ monwealth of Virginia, and bear teste by the Governor, with the
 seal of the Commonwealth annexed.  
 Article V
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:78.82773177463874,37.566765578635014,18.022406234778373,4.890207715133531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:78.81493506493507,37.56230714455258,18.024891774891774,4.893583353113379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20213,7 +20213,7 @@ all fees of the aforesaid officers, shall he regulated hy law.
 J Writs shall run in the name of the Commonwealth of  
 Virginia, and bear teste hy the Clerks of the several Courts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:78.94138658873193,64.73590504451039,18.00616983276506,4.640949554896142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030301:0214/pct:78.92857142857143,64.72822216947543,18.00865800865801,4.644354774903078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20241,7 +20241,7 @@ the r* &#x27; oimncndation of tho General Congress, orduin 1
 and declare, a form of government of Virginiar  
 Ami whereas the General Ah-embly of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:23.58368404014244,73.81262584389435,18.193590158627387,8.113229894587231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:23.57986729244214,73.8038844149692,18.196040351728975,8.11621664298121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20272,7 +20272,7 @@ egates, and shall consist of one hundred and thirty 1
 tour members, to he chosen, annually, for and by j  
 the several counties, cities, towns, und boroughs of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:25.493687277436063,5.80362430415729,34.81709291032697,92.44344427336254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:25.48956141770513,5.802936996684036,34.816852780924634,92.43644402336965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20314,7 +20314,7 @@ the counties of Ilrooke, Ohio and Tyler, shall form
 one district: the counties of Monongalia, Preston and  
 Randolph, shall form another district: the counties o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:41.92295241178375,44.93663389790359,18.40401424409194,15.006514272178135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:41.91616766467066,44.931312174324965,18.406430382478288,15.008684667614085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20333,7 +20333,7 @@ shall be incapable of being elected members of either
 House of Assembly.  
 8. The members of the Assembly shall receive fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:60.63450955001618,24.043586402937343,17.934606668824863,2.676773658652138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:60.62469655284026,24.040738986262436,17.93709877542213,2.6804042318016736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20358,7 +20358,7 @@ of proceeding, &amp;. direct writs of election for supplying
 intermediate vacancies. Hut if vacancies shall occur by  
 death or resignation, during the recess of the Gene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:60.666882486241505,34.750681037545895,18.047911945613468,6.016818666350823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:60.65706424987862,34.746565608716246,18.050385715056375,6.020053687036159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20384,7 +20384,7 @@ legates.
 11. The privilege off ho Writ of Habeas Corpus  
 shall not hi any case be suspended. The Legislatur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:60.666882486241505,41.276797346914606,18.161217222402072,6.466895653203838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:60.65706424987862,41.27190904784462,18.163672654690618,6.470077372493289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20403,7 +20403,7 @@ t otirt*, and when approved by iheGovrmor, sliall be commis­
 sioned by him I be .Insures shall appoint C onstables. And  
 all lees nl the aforesaid officer*, shall be regulated by law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:79.281320815798,66.33897903588772,18.080284881838782,2.3925145090607605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030401:0218/pct:79.26849004693317,66.33112269066793,18.08275341209473,2.3961787462498028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20484,7 +20484,7 @@ i the recommendation of tho Genornl Congress, ordain
 I and declare, a form of government of Virginia:  
 And whereas tho General Assembly of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:23.27361563517915,45.925397956759326,18.517915309446256,35.8279876455215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:23.269825761276664,45.91994298610286,18.520327851055747,35.82769133309578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20515,7 +20515,7 @@ egates, and shall consist of one hundred and thirty &gt;
 four members, to bo chosen, annually, for and by  
 the several counties, cities, towns, and boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:24.299674267100976,5.310049893086243,36.270358306188925,92.88429555713947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:24.295717309884385,5.309419170922912,36.26988004125278,92.87722215623391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20567,7 +20567,7 @@ order annually. And for the election of Senators,
 i lie counties of Brooke, Ohio and Tyler, shall form  
 one district: the counties of Monongalia, Preston an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:41.90553745928339,39.225469232596815,18.615635179153095,19.980993110002377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:41.89871356456603,39.22081007245516,18.618031808066004,19.982579086985787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20586,7 +20586,7 @@ shall be incapable of being elected members of either
 House of Assembly.  
 8. The members of the Assembly shall receive fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:60.74918566775244,23.675457353290568,17.964169381107492,2.7559990496555002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830030501:0222/pct:60.73929327471096,23.672645207269273,17.96667209466428,2.7596309933879715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20634,7 +20634,7 @@ i i iheir f r&lt; • #*iitfr*il acts «f *egnl t. oi, f &gt;r *j
 feting Idig** bodies f lumen In* j»s among ***  
 for i lilting off tiur 11 n t«
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830030801:0649/pct:6.160337552742616,5.3395240858966915,30.443037974683545,91.83110853163087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830030801:0649/pct:6.159038177599663,5.3387494559698245,30.441889896646277,91.82141302770927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20669,7 +20669,7 @@ Delegates, to be approved or rejected by the
 Hanatc or be amended with the consent of  
 I the i loose of Delegate*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830030801:0649/pct:36.89873417721519,5.034822983168891,30.928270042194093,92.4260011607661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830030801:0649/pct:36.890951276102086,5.034092557667199,30.927019616114745,92.41621935296678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20691,7 +20691,7 @@ name of the Commonwealth of Virginia, and
 hear test by tli*• Governor, with the seal of the  
 Coinmu iw alth annexed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830030801:0649/pct:68.22784810126582,21.154962275101568,15.042194092827005,3.975623911781776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830030801:0649/pct:68.21345707656613,21.15189322501088,15.04429445264712,3.9786740171188164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20721,7 +20721,7 @@ due order annually. And for tlio el cfloii of
 I&#x27;yler, *hall form one district : Hie counties  
 ol Mofiongain, Prest m gnd Randolph, *ha!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830031101:0653/pct:37.73505176420875,10.368864362474586,14.768645679273188,7.972698228289283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830031101:0653/pct:37.72708069286016,10.367358791926819,14.770806928601605,7.975170611296646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20739,7 +20739,7 @@ sons holding lucrative offices and Ministers of
 shall be incapable of being elected members of  
 either House of Assembl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830031101:0653/pct:37.50264103105852,78.66686029625326,14.979928163955208,2.047632878303805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830031101:0653/pct:37.494719053654414,78.65543778132714,14.98204478242501,2.050965587338464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20763,7 +20763,7 @@ cess of.the Genera! Assembly, such writs mty
 he issued by the Governor, under such regain  
 Lous do may be prescribed by law Kttch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830031101:0653/pct:37.35474329178111,92.94220156839965,15.00105641242341,4.9811211153064185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830031101:0653/pct:37.34685255597803,92.92870625816757,15.003168567807352,4.984027878611878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20781,7 +20781,7 @@ Delegates, to he approved or rejected by the
 Senate nr to be amended with (he consent of  
 the House of Delegates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830031101:0653/pct:53.09528840059159,8.756898054022654,14.937671667018805,2.01858844031368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830031101:0653/pct:53.084072665821715,8.755626542761725,14.939797211660329,2.0219253666327863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20799,7 +20799,7 @@ priev*s and pardons, except where the prosecti I
 tion shall have been carried on by the House of  
 Deleg -x f »• s, or the law shall otherwise direct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830031101:0653/pct:52.96851890978238,93.95875689805402,15.191210648637227,2.0040662213186176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830031101:0653/pct:52.95732995352767,93.94511398286627,15.193282636248416,2.007405256279948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20844,7 +20844,7 @@ tarv independent«»!, and »opert *r to, the » tvil
 po».ar ; by c udiuinig with others to • ibj&#x27;-ft  
 iia in a foreign ju»i» ticfiuu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830032501:0669/pct:5.654824469203279,4.946485391958346,30.60752575152407,91.43766271333526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830032501:0669/pct:5.653635981504834,4.945770065075922,30.60634720470786,91.42805495300072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20873,7 +20873,7 @@ lor die elec soil of beuafor*. In— counties of
 Rriiokf, Ohm and In l-r, shall form on dii  
 tnet the lounlies of Monongalia Pretdon an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830032501:0669/pct:36.82993483287787,8.923922476135377,14.820264872819003,7.434191495516344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830032501:0669/pct:36.82219419924338,8.922631959508315,14.8224043715847,7.4367317425885755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20895,7 +20895,7 @@ rect writs of election for supply ing intermediate
 vacancies But it vacancies shall occur by  
 death or resignation, during the recess of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830032501:0669/pct:36.220306916123604,89.7020538038762,15.072524700441456,3.9629736765982067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830032501:0669/pct:36.21269440941572,89.68908170643529,15.074611181168558,3.9660159074475776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20915,7 +20915,7 @@ H. of Delegate*.
 11. The privilege of the Writ of llnbtas Cor  
 pus tbal* not m any case be suspended. 1 h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830032501:0669/pct:51.986546142526805,5.741972808793752,15.114568005045196,3.1096326294474976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830032501:0669/pct:51.97562000840689,5.7411424439624,15.116645649432535,3.1127982646420826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -20936,7 +20936,7 @@ And all fees of the alorcintd offices o shell be1
 it \V * its shall run in the name of the Com­  
 monwealth oi Virginia, and hear test by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830032501:0669/pct:67.54256884591129,58.38877639571883,15.282741223460164,3.5869250795487417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830032501:0669/pct:67.52837326607819,58.38033261026754,15.284783522488441,3.59002169197397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21024,7 +21024,7 @@ m compliance with tbe reconmienrisuou oi the
 General Congress, ordain and declare, a form  
 ol government ol Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830032501:0266/pct:20.925205361003027,26.009284006189336,18.50410722006053,40.4276269517513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830032501:0266/pct:20.920682947914415,26.0056258790436,18.505511130322024,40.42545710267229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21054,7 +21054,7 @@ Geiicrd Aaaao.bfy ol Virginia.
 Delegates, and shad consist of our hundred  
 xnd thirty four members, to be chosen, arm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830032501:0266/pct:21.72503242542153,84.93458995639331,17.747514051015997,8.777605851737235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830032501:0266/pct:21.720337151502054,84.9226441631505,17.749081478279663,8.779887482419127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21104,7 +21104,7 @@ to its number, and commut&#x27;d in due order an­
 nually And tor the election ol Senators, the  
 counties of lit ooke, Ohio aud lyler shall for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830032501:0266/pct:39.64548205793342,41.86242790828527,18.35278858625162,19.566746377830917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830032501:0266/pct:39.636913767019664,41.856540084388186,18.35422519991355,19.567510548523206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21123,7 +21123,7 @@ I delegates, to be approved or rejected by the
 senate, or to be • invudru with tire consent of  
 the bouac ol delegate*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830032501:0266/pct:57.93341980112408,65.67731045154031,18.612191958495462,2.7148684765789843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830032501:0266/pct:57.92089907067214,65.66807313642757,18.613572509185218,2.7180028129395217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21190,7 +21190,7 @@ i ’.an win* shall have toe /greatest
 &#x27; d * in the who o ufotrict To keep  
 sHinhly hy rotation, the districts shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830032901:0670/pct:1.4616830235957403,58.06405077899596,14.63771142200877,26.99076745527986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830032901:0670/pct:1.4613778705636744,58.055675753642,14.639874739039666,26.99048031155344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21426,7 +21426,7 @@ until ihe etui ot the succeeding session «»f \*.
 either I louse shall issue wiit* for new elec*  
 lions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830032901:0670/pct:1.5660889538525788,10.34333525678015,45.124243057005636,85.45874206578188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830032901:0670/pct:1.5657620041753653,10.341843357853742,45.120041753653446,85.45002163565556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21515,7 +21515,7 @@ odop&#x27;cd, (ho same convention, in the very act which tie­
 ol.ircd the tot:tI dissolution ol the former government, or­  
 ditmed “the future form of Government of Virginia.” I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833042601:0456/pct:19.25377385360296,39.45570736007051,15.608088863571632,2.787571617452622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833042601:0456/pct:19.25103232236936,39.45136058168998,15.610612748587974,2.7909367999706216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21698,7 +21698,7 @@ ol the Governor Irom the Government,shall act os Lieu­
 tenant-Governor.- The Convention seemed to have  
 foreseen that some difficulty in relation to this subjec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836041901:0437/pct:49.08561928512053,40.54319371727749,14.810196730396232,8.486038394415358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1836041901:0437/pct:49.07881978113312,40.53877194895845,14.81276261716766,8.488748318609808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21823,7 +21823,7 @@ sion of the counties into districts )
 Sec 9. “The General Assembly shall  
 meer once or ofiener every year.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215622:1837052001:0357/pct:1.2057786372426345,34.11214953271028,14.128085542031624,8.549103722996783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215622:1837052001:0357/pct:1.2056414922656962,34.10953657602451,14.130269942371854,8.55100217030512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21847,7 +21847,7 @@ ed the Mouse of Delegates, and shall
 consist of one hundred and thirty.four  
 members, to be chosen annually, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1837052401:0464/pct:69.03660886319845,7.749287749287749,29.30635838150289,87.52136752136752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1837052401:0464/pct:69.02330957426315,7.74818401937046,29.305528799845888,87.5124626121635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21879,7 +21879,7 @@ districts.)
 Sec. 9. “The General Assembly  
 shall meet once or oftener every year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1837052401:0464/pct:83.77649325626204,17.264957264957264,13.71868978805395,11.438746438746438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348951:1837052401:0464/pct:83.76035445964169,17.262498219626835,13.720863032171065,11.440677966101696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21929,7 +21929,7 @@ I his rotation shall be applied to each divis­
 ion, according to its number, and continued  
 in due order annually.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837052501:0162/pct:52.12361331220285,64.14059578711205,14.928684627575278,20.39137479745731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837052501:0162/pct:52.11535414355887,64.13260219341974,14.931600908466699,20.392987703556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21961,7 +21961,7 @@ tricts.)
 Sec. 9. &quot;The General Assembly  
 shall meet once or oftener every year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1837052701:0545/pct:5.0552147239263805,6.325910931174089,15.312883435582823,11.62280701754386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_queen_ver01:data:sn84026826:00393349414:1837052701:0545/pct:5.053974484789009,6.32484398718165,15.315260058881256,11.625063248439872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -21981,7 +21981,7 @@ consent of the House of Delegates;&quot; the bill iri question,
 did so originate, and was so amended by the Senate, and  
 therein beyond all question the Senate committed n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838040701:0172/pct:67.62319711538461,61.11578947368421,16.165865384615383,2.9368421052631577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1838040701:0172/pct:67.63321314102564,61.12280701754386,16.165865384615383,2.9368421052631577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22001,7 +22001,7 @@ vote -, and all laws, to originate in the Hcnse of
 Delegates, to be approved or rejected by the Senate,  
 or to be amended with the consent of the former.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839082401:1034/pct:32.718204488778056,77.14823086869637,15.627597672485454,2.8094510403197366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839082401:1034/pct:32.718204488778056,77.15214921045414,15.633139373787753,2.813369382077505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22018,7 +22018,7 @@ The Governor and Judges, and all others offend­
 ing against the State, by any high crime or misde­  
 meanor, arc impeachable by the House of Dele7at.es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839082401:1034/pct:32.718204488778056,82.87292817679558,15.245220282626766,1.6692135888092159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839082401:1034/pct:32.723746190080355,82.88076486031112,15.256303685231366,1.673131930566984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22080,7 +22080,7 @@ shall be called the House of Delegates, and consist
 of 134 members, to be chosen annually for and by  
 the several counties, cities, towns and boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842012701:0204/pct:133.21891090653767,32.638570774163995,38.5395537525355,12.929454878607421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842012701:0204/pct:44.399375975039,10.878277796862475,12.844513780551223,4.3093247833886785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22104,7 +22104,7 @@ one of them shall be called the House of Delegates, and
 consist of J34 members, to be chosen annually for and  
 by the several counties, cities, towns and boroughs o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1842012701:0612/pct:49.15148684415382,21.148431214802898,16.50319165498988,4.686242960579244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1842012701:0612/pct:49.15148684415382,21.15513542504693,16.513571020810627,4.686242960579244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22135,15 +22135,15 @@ er should be exercised, and limited the duration of
 the office of Sheriff to two years. By the constitu­  
 tion, Justices of the Peace, are to be nominated by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842022201:0292/pct:13.761034047919294,186.50995831403426,38.65069356872635,19.4650301065308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842022201:0292/pct:4.58628841607565,62.16278800509436,12.881534016285789,6.487592142333372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-07_11_49/page/n73/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-07_11_49/page/n73/mode/1up?view=theater)
 
-#### 1842-07-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -22183,7 +22183,7 @@ to penert the same into a detestable and
 unsupportable tyranny, by?( ere follows a long |  
 enumeration of misrule, and then proceeds)?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844013101:0109/pct:19.37444146559428,73.14636957356896,18.06970509383378,2.1001408631066716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844013101:0109/pct:19.37444146559428,73.15063815255901,18.0875781948168,2.104409442096726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22206,7 +22206,7 @@ Tliit declaration wa? drawn up by Jefferson, and is
 plainly from the iimr pen which drew the l&gt;ecl?ra. j  
 tion of lndrpendt nee, of which it la the great pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844013101:0109/pct:19.33869526362824,77.30823408887181,16.47899910634495,4.546036624407734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661332:1844013101:0109/pct:19.33869526362824,77.31250266786186,16.484956806672624,4.554573782387843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22255,7 +22255,7 @@ ebiosais so followe: &quot;All laws shall originate in the House
 of Delspasss to be approved or rejected by the Senate, or  
 to boumonded with the consent of the House of Delegates.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845021001:0124/pct:10.902644408332103,50.00584863726752,37.99674988920077,7.205521113580536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845021001:0124/pct:3.633677991137371,16.666666666666668,12.663712456917775,2.401559454191033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22275,7 +22275,7 @@ trusted with the exercise of the kingly j*&#x27;.&#x27; .
 this Government, hath endeavored to  
 same into a detestable and insupportabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845031101:0121/pct:85.90724898694282,84.5631067961165,12.381809995497523,2.7184466019417477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845031101:0121/pct:85.90724898694282,84.5663430420712,12.386812747010856,2.7249190938511325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22296,7 +22296,7 @@ the House of Delegates, to be approved or rejected by
 the Senate, or to be amended with the consent of the  
 House of Delegates.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845031701:0260/pct:322.0860089511578,124.0418118466899,60.65382370110917,13.891834570519618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1845031701:0260/pct:80.50583657587549,31.00575583156619,15.160505836575876,3.472432596182975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22326,7 +22326,7 @@ The time of meeting mentioned in this clause,
 was fixed for the litst election under the Consti­  
 tution, but the time for subsequent elections ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846020301:0496/pct:31.33818505866627,34.6040777619725,13.753156096836477,6.62873399715505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846020301:0496/pct:31.33818505866627,34.61039987355777,13.768008317243428,6.6318950529476846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22362,7 +22362,7 @@ lhat day, in a, comparatively, wild and unset­
 Constitution related to the state of things, then  
 j existing, and made no provision for the subse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1846061801:0525/pct:14.485801995395242,33.08354149320011,13.91020721412126,10.22758812101027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1846061801:0525/pct:14.483023211202763,33.07895101984182,13.912334548244774,10.229637852088247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22382,7 +22382,7 @@ j “In the Senate it is even more glaring.—
 “b&gt;-elected. By a law of 1792 the territory  
 i “west of the Blue Ridge of mountains wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1846061801:0525/pct:14.581734458940906,79.586455731335,13.967766692248658,2.9281154593394394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1846061801:0525/pct:14.578937272204104,79.5754127931178,13.969882984845578,2.9311780213681145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22577,7 +22577,7 @@ tion to which this once happy - country must be
 reduced unless some regular adequate mode of  
 civil polity were speedily adopted.’ Acting i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1849061101:0081/pct:23.20666531192847,36.657604807554726,14.712456817719975,2.031764200887108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348677:1849061101:0081/pct:23.20195042665583,36.652360515021456,14.714546932141406,2.0350500715307582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22597,7 +22597,7 @@ he hath refused h.s permission to exclude by
 law.&quot; \Y hat a contrast! The king&#x27;s refu­  
 sal to authorize the exclusion of slaves fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849061201:0570/pct:31.49864812668984,12.95297993411201,13.460795674005407,3.5938903863432166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849061201:0570/pct:31.49864812668984,12.957971448537487,13.473670657911677,3.60387341519417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22674,7 +22674,7 @@ permission to exclude by law.&quot; What a
 contrast! The king&#x27;s refusal to authorize  
 the exclusion of slaves from Virginia; the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027054:1849070201:0210/pct:92.51700680272108,92.79157667386609,15.54421768707483,4.994600431965443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027054:1849070201:0210/pct:69.4231750893313,69.60043196544277,11.67262208609835,3.7526997840172784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22693,7 +22693,7 @@ his negative, he hath refused us permission to exclude
 by law.&quot; What a contrast !--The Jing&#x27;e refusal to  
 authorize the exclusion of slaves&#x27; from Virginia, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849071801:0543/pct:65.95143986448335,43.35514319425078,20.567476002258612,3.2178483320819478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1849071801:0543/pct:49.48453608247423,32.521720476241555,15.435672927552606,2.413386249061461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22712,7 +22712,7 @@ laws shall originate in the House of Delegates, to be
 approved or rejected by the Senate, or to be amended  
 with the consent ol the House of Delegates.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850031801:0455/pct:80.74132182780937,14.393615505201653,14.355756030594234,2.1234145646287588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850031801:0455/pct:80.72549019607843,14.39156454830436,14.357843137254902,2.126674266172699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22735,7 +22735,7 @@ Ayes I4,noes!.
 BHLlS pASSED.  
 The following engrossed bills were read a third time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850032101:0247/pct:203.96230044239277,122.6835138387485,61.4156568570879,18.12575210589651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850032101:0247/pct:50.98076923076923,30.666265603850203,15.350961538461538,4.530756504737554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22755,7 +22755,7 @@ sion it was left to the Legislature to fix &#x27;by law’ the
 qualifications of members—and, under the old Constitu­  
 tutiun, the Legislature had a right to enact the follow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850041701:0559/pct:21.75459395376408,33.15744438106104,14.522821576763485,2.5099828864803193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850041701:0559/pct:21.750296325563017,33.15271638385855,14.52489134729356,2.5131897903892773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22776,7 +22776,7 @@ tween the courts of Great Britain and France, in the
 year one thousand seven hundred and sixty-three.’’  
 When Virginia, by her acts of cession of 178
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348355:1850070801:0011/pct:25.29226201521618,44.02464065708419,13.713119317127482,3.0116358658453115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348355:1850070801:0011/pct:25.287569573283857,44.018614837120175,13.715213358070502,3.0146454968519025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22794,7 +22794,7 @@ among us, those very negroes whom by an inhuman use
 of his negative he had refused us permission to exclude  
 by law.&quot; And in the Declaration of American Indepe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850080101:0396/pct:75.41169789892106,338.13317300465957,61.27200454287337,8.191793176010822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1850080101:0396/pct:18.849356548069643,84.52058911932671,15.315102195306586,2.0476405169822662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22821,7 +22821,7 @@ ally on the first Wednesday of the month
 of October, by, the voters of the several  
 [counties of the Slate, and of the city of Bal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624256:1850121801:0201/pct:65.29338327091136,20.91763744124259,14.454154529060895,7.490292254240752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624256:1850121801:0201/pct:65.29338327091136,20.921043667824783,14.463402228695612,7.4971047074051365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22903,7 +22903,7 @@ vision according to i’* number, and continued
 in due order biennially. And for the electio ■  
 of senator*, the counties ot Accornac, .North
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851021501:0411/pct:59.04055485984009,66.66666666666667,12.898564685483095,12.114933001795828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851021501:0411/pct:59.03486804083992,66.66206229711997,12.900532973736595,12.116398462140571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22944,7 +22944,7 @@ ond year, and of the second class at the ex?*
 rat.on of the fouith year after such first ei/ *  
 ti#o. and this rotation shall be continued bier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851021501:0411/pct:72.09324727868221,4.35142975549109,25.565937770927658,91.08302251692223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851021501:0411/pct:72.08630321710653,4.351129221631328,25.566685930777627,91.0790340032691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22969,7 +22969,7 @@ by the clerks of the several courts. In­
 dictmentsshall conclude against the peace  
 and dignity of the commonwealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851021801:0008/pct:58.60361898258791,47.16180371352785,11.98361215431888,5.941644562334218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851021801:0008/pct:58.59361665813279,47.15554966184856,11.985833760027308,5.944171860495955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -22993,7 +22993,7 @@ from the county, city, town, or election
 district, in which he resided at the time of  
 his election, shall be deemed a vacation of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851021801:0008/pct:71.47490611130078,5.623342175066313,12.785933765790372,5.3978779840848805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851021801:0008/pct:71.46270694657791,5.6225964726163635,12.788018433179724,5.400477390266543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23035,7 +23035,7 @@ in the manner aforesaid. Ihis rotation shall j
 be applied to each division according to its j  
 number and continue*! in due order
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851022001:0428/pct:15.259245139153641,30.11446409989594,13.00991231414411,12.563302115851544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851022001:0428/pct:15.25779090822453,30.112375138734738,13.011849169287462,12.564742878283388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23062,7 +23062,7 @@ thereby occasioned supplied from such class or division by a
 new election in the manner aforesaid. 1 his sha I be  
 applied to each division according to Its number and c?nvin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851022101:0043/pct:35.61703996486605,48.82924043403769,15.898111550285464,5.187511897963069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851022101:0043/pct:35.61703996486605,48.83558601434101,15.902991265310106,5.187511897963069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23109,7 +23109,7 @@ tier aforesaid. This rotation shall be applied to
 each H-tvision according to its number aud contin­  
 ued in due order
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851022801:0335/pct:83.01331949489708,53.57979051139864,13.630859712852448,14.34380776340111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851022801:0335/pct:82.99896229678312,53.573188762937406,13.632826011760637,14.345120749137505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23143,7 +23143,7 @@ members to be chosen bienially,
 whose term of service shall bo two years,  
 to commence on the da\ of the first elec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851031801:0024/pct:58.97303795294522,10.6203007518797,12.313240597630088,10.9828141783029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851031801:0024/pct:58.96291208791209,10.618875016780775,12.315418956043956,10.984695932339912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23172,7 +23172,7 @@ supplying intermediate vacancies. But
 if vacancies shall occur, by death or resig­  
 nation, during the recess of the genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851031801:0024/pct:58.835651725914474,46.29430719656283,12.26172076249356,8.176691729323307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851031801:0024/pct:58.82554945054945,46.28809236139079,12.263907967032967,8.178950194657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23193,7 +23193,7 @@ demeanor, shall be impeached by the
 house of delegates ; such impeachment to  
 be prosecuted before the senate, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851031801:0024/pct:72.23080886141165,30.89419978517723,12.107161257083977,3.7728249194414607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851031801:0024/pct:72.2184065934066,30.89005235602094,12.109375,3.7756745871929116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23224,7 +23224,7 @@ day of the first election under this Constitution.
 shall be called the Seuate, and shall consist of  
 members whose term of service shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1851032501:0158/pct:54.49143656064313,19.785064756131167,13.911219853198183,9.506751171121522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1851032501:0158/pct:54.504543865781194,19.785064756131167,13.902481649772806,9.520529071369523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23267,7 +23267,7 @@ tion, during the recess of the general assembly,
 such writs may bo issued by the governor, under  
 such regulations as may be prescribed by law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1851032501:0158/pct:54.47396015379238,38.7710112978782,13.858790632645928,13.543675943786168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1851032501:0158/pct:54.47396015379238,38.777900248002204,13.87626703949668,13.550564893910169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23299,7 +23299,7 @@ trial, judgment and punishment,according to l?w.
 18. In all elections in this commonwealth to  
 any office or place of trust, honor, or profit, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1851032501:0158/pct:68.26284515903531,19.49572885092312,14.138413142257951,8.928079360705429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192300:1851032501:0158/pct:68.26721426074799,19.49917332598512,14.147151345683328,8.928079360705429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23327,7 +23327,7 @@ ber of electors in tho city or borough (not tho number of
 the who-- population) ceased to be equal to half the  
 I number of Voters in some county, it shall cease to hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851041501:0153/pct:21.047136038186157,77.3111694371537,15.79653937947494,6.163118499076504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851041501:0153/pct:21.057080350039776,77.3111694371537,15.79653937947494,6.172839506172839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23346,7 +23346,7 @@ when approved by the Governor shall be commissioned
 by him. The justices shall appoint constables.” What  
 lusiiees? Why thejustices of the county courts, I tak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851041501:0349/pct:67.25540781901171,67.27889234246962,14.74498908513594,2.1192427239333145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851041501:0349/pct:67.2420634920635,67.26938833168526,14.74702380952381,2.1224749258369826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23374,7 +23374,7 @@ Virginia.
 shall consist of one hundred and fifty members; seventy-five  
 of which shall be chosen for and by the&gt;ev?al counties, citie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851042201:0163/pct:3.8978296175992915,22.310186951545212,16.108076184851615,6.228538725677223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851042201:0163/pct:3.8978296175992915,22.31654584764085,16.11299768689404,6.231718173725041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23397,7 +23397,7 @@ elates, and shall consist of one hundred and fifty
 members ; seventy-five of which shall he chosen lor  
 and by the several counties, cities and towns lyin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851042601:0208/pct:22.02080706179067,62.162837162837164,19.845523329129886,6.181318681318682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851042601:0208/pct:16.52736161488724,46.62837162837163,14.887241759974767,4.6328671328671325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23429,7 +23429,7 @@ gates, and shall consist of one hundred and fifty
 members; seventy-five of which shall be chosen for  
 and by the several counties, cities and towns lyin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851042801:0069/pct:205.6131098135242,170.85941946499716,46.053870785458656,12.99089356858281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851042801:0069/pct:51.39359698681733,42.70877792004553,11.51129943502825,3.247261345852895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23450,7 +23450,7 @@ of Delegates, and shall consist of one hun­
 dred and fifty members; seventy five of  
 which shall be chosen for and by the sev
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851043001:0274/pct:84.85593336064454,24.446611409068748,12.904547316673494,3.6860068259385668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851043001:0274/pct:84.84434735117422,24.444227769110764,12.907336610231203,3.688897555902236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23475,7 +23475,7 @@ Assembly ol Virginia.
 gates, and shall consist of one hundred and thirty-five  
 members, to be chosen lor and by the several counties
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851050101:0405/pct:35.31605810757754,74.70217238962859,14.703572830781312,5.101611772950245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851050101:0405/pct:35.309126594700686,74.69170403587444,14.70559371933268,5.104400224215246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23505,7 +23505,7 @@ the Commonwealth, in an equal ratio, as near as mav be, ac­
 cording to the qualified votes thereof.  
 3. The other House shall be called the Senate, and shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851050201:0188/pct:37.01567583555161,52.321772639691716,15.942028985507246,7.20616570327553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851050201:0188/pct:37.025534851621806,52.32498394348105,15.951888001577442,7.209377007064869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23540,7 +23540,7 @@ the qualified votes thereof.
 Senate, and shall consist of thirty-two mem­  
 bers, and shall be chosen for and by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851050501:0078/pct:8.544125913434513,223.49260523321956,47.011429642121044,41.936860068259385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851050501:0078/pct:2.1356313225927313,55.86520688184274,11.750655676283252,10.482724299729846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23562,7 +23562,7 @@ gates, and shall consist of one hundred and fifty mem­
 bers, to be chosen biennially for and by the several couo­  
 ties, cities and towns ol the Commonwealth; whereo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851051501:0453/pct:20.106341079165027,47.11962513781698,14.730208743599842,3.3076074972436604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851051501:0453/pct:20.102382358732033,47.11313214827064,14.73223075408545,3.3105966652886867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23601,7 +23601,7 @@ be continued biennially, so that one-half may be cho­
 sen every second year. And for the election of Sen­  
 ators the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851051501:0453/pct:20.08664828672706,54.56174200661521,14.730208743599842,9.950385887541344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851051501:0453/pct:20.082693443591257,54.554223508336776,14.73223075408545,9.952459694088466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23624,7 +23624,7 @@ Delegates, and shall consist of one hundred and
 fifty members, to be chosen biennially for and by  
 the several counties, cities and towns of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851051601:0480/pct:46.131891242301336,45.84658890067161,14.360823193630765,4.5363497113232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851051601:0480/pct:46.131891242301336,45.85051647617925,14.380852235741825,4.54027728683084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23658,7 +23658,7 @@ senators uhall be assembled, in consequence of
 such an election, they shall lie divided by lot in- J  
 to two classes?the seat of the senators of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851051601:0480/pct:46.146913023884636,57.26405090137858,15.307195433378398,9.6147048427006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851051601:0480/pct:46.146913023884636,57.26405090137858,15.307195433378398,9.626487569223519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23678,7 +23678,7 @@ I 2d. One of them shall be callcd the House of Delegates,
 and *hnll consist of one hundred and fifty members, to e  
 i chosen biennially for and by the several counties, cities an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851051601:0228/pct:15.855072463768115,19.967532467532468,16.246376811594203,2.482811306340718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851051601:0228/pct:15.855072463768115,19.97389865036924,16.256038647342994,2.4859943977591037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23703,7 +23703,7 @@ the Commonwealth, whereof *&gt;2 delegates shall
 be chosen for and by th^ counties, cities and  
 towns Iving west of the Blue Ridge mountains
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851051701:0044/pct:58.9038479900697,7.573362655487595,12.66112861644228,4.948113531716033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851051701:0044/pct:58.898224174145504,7.57284222100055,12.663102285023232,4.950064137804654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23732,7 +23732,7 @@ j be vacated at the expiration of the second
 year, and the second class at the expiration of  
 ! the fomth year after such first election, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851051701:0044/pct:58.7797192781438,21.02261012988798,12.918934402749928,6.679953267816645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851051701:0044/pct:58.774107313347336,21.02116547553601,12.920883457450195,6.681784863478102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23754,7 +23754,7 @@ egates, and shall consist of one hundred and fifty
 members, to be chosen biennially for and by the  
 several counties, cities and towns of the Common
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851051901:0093/pct:161.4616688641929,208.0865603644647,45.52646449425504,12.485763097949887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851051901:0093/pct:40.357815442561204,52.01423487544484,11.379472693032016,3.1209964412811386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23790,7 +23790,7 @@ by lot into two classes. The seats of the Senators
 of the first class shall be vacated at the expiration  
 of the second year, and of the second class, at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851051901:0093/pct:161.38632510830664,235.0227790432802,45.75249576191373,36.51765375854214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851051901:0093/pct:40.33898305084746,58.74733096085409,11.435969868173258,9.128113879003559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23820,7 +23820,7 @@ ihall be chosen for and by the counties, cities and towns ly­
 ng West of tho Blue Ridge of mountains, and sixty-eight for  
 ind by the counties, cities and towns lying East of the Blu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851052001:0233/pct:21.44436256448047,47.54460003836562,15.814296241709654,6.1864569345866105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851052001:0233/pct:21.45418816015721,47.547797173732334,15.804470646032916,6.189654069953322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23856,7 +23856,7 @@ of the second year, and of the second class at the expiration of
 the fourth year, after such first election, and which rotation  
 shall be continued biennia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851052001:0233/pct:21.35593220338983,55.04507960867063,15.961680176860723,8.891233454824476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851052001:0233/pct:21.365757799066568,55.04507960867063,15.956767379022354,8.894430590191188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23876,7 +23876,7 @@ called the General Assembly of Virginia.
 and shall consist of one hundred and fifty Members, to be  
 chosen biennially for and by the several counties, cities an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851052001:0235/pct:20.044444444444444,21.95378151260504,16.177777777777777,2.559205500381971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851052001:0235/pct:20.049382716049383,21.956964604023426,16.182716049382716,2.5623885918003566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23909,7 +23909,7 @@ shall be assembled in consequence of such election, they
 shall be divided by lot into two classes. The seats of the  
 Senators of the first class shall be vacated at the expiratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851052001:0235/pct:19.985185185185184,27.234530175706645,16.28148148148148,7.801757066462949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851052001:0235/pct:19.990123456790123,27.234530175706645,16.28148148148148,7.804940157881334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23929,7 +23929,7 @@ Virginia.
 ?J. One of these shall &#x27;tis called the house of dele­  
 gate*. a&quot;.d -hail consist of members, to bo chose
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851052001:0239/pct:67.72518177771182,41.32345679012346,15.491912746698324,2.725925925925926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851052001:0239/pct:67.73012811000643,41.32345679012346,15.50180541128753,2.7325102880658436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23965,7 +23965,7 @@ Her aforesaid. This rotation shall be applied to each 1
 oi&lt; is.on according to its number, and continued in due ?  
 order.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851052001:0239/pct:67.6806647870604,44.74074074074074,15.981599643864074,9.491358024691358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851052001:0239/pct:67.6905574516496,44.74074074074074,15.976653311569471,9.501234567901234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -23987,7 +23987,7 @@ gates, and shall consist of one hundred and fifty mem­
 bers, to be chosen biennially lor and by the several coun­  
 ties, cities and towns of the Commonwealth; whereof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851052201:0477/pct:20.779479021674288,13.637648388920294,14.814078345595545,3.434143583945732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851052201:0477/pct:20.77534791252485,13.635721350854881,14.81610337972167,3.437190900098912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24023,7 +24023,7 @@ of the first class shall be vacated at theixpiration of the
 second year, and of the second cluss at the expiration of  
 the fourth year, after such first election, and which ro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851052201:0477/pct:20.978325710876913,20.43527416619559,14.69477033207397,9.49689089881289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851052201:0477/pct:20.974155069582505,20.43238660449343,14.696819085487078,9.499081531722481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24065,7 +24065,7 @@ ators, of the first class shall be vacated at
 the expiration of the second year, and of  
 the second class at the expiration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851052601:0100/pct:288.67049879473393,214.35868331441543,45.41071759688485,57.562429057888764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851052601:0100/pct:72.1542454579162,53.5820683784934,11.350574712643677,14.388565754007661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24092,7 +24092,7 @@ House of Delegates, and shall eoosist of
 one hundred and fifty Members, to be  
 chosen bieneialiy for and by the severa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851052701:0060/pct:73.12675070028011,12.569416226466206,12.412464985994397,7.652715698225654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851052701:0060/pct:73.11395063889375,12.567713976164681,12.414668300367582,7.655065005417118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24137,7 +24137,7 @@ first election, and which rotation shall be
 continued biennially, so that one-half may  
 be chosen every second year; and for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851052701:0060/pct:73.14425770308124,27.874847622917514,12.377450980392156,16.76825138832453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851052701:0060/pct:73.13145457727988,27.87107258938245,12.37966042359531,16.7693661971831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24158,7 +24158,7 @@ General Assembly of Virginia.
 of Delegates and shall consist of one hun­  
 .dreJ and fifty members, to be chosen bim
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026203:0029602756A:1851060901:0252/pct:9.761120263591433,78.69029901231227,18.327841845140032,4.721959139493979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026203:0029602756A:1851060901:0252/pct:7.334157395962093,59.01772425923421,13.741244334569426,3.544851846840752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24198,7 +24198,7 @@ tion, tbey shall be divided by lot into two
 classes. The seats of &#x27; the Senators of the  
 first class shall be vacated at the exniratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026203:0029602756A:1851060901:0252/pct:10.152388797364086,91.59788932485455,17.957166392092258,17.940738736300908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026203:0029602756A:1851060901:0252/pct:7.622579316028018,68.70518197808146,13.473423980222497,13.448789067785144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24227,7 +24227,7 @@ of it, he shall return it to the Legislature
 with his objections, and that body shall  
 reconsider it, and if then the bill shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851060901:0117/pct:301.95858981533297,190.96445262710665,45.68177578809924,34.68347259594958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851060901:0117/pct:75.47556881760538,47.73435287453979,11.418314061917195,8.669640328518833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24248,7 +24248,7 @@ gates, and shall consist of one hundred and fifty mem­
 bers; seventy-five of which shall be chosen for and by  
 the several counties, cities and towns lying east of tli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851061001:0279/pct:48.55319780382846,23.960528836941943,15.477073749814512,3.151944817014754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851061001:0279/pct:48.55814413612306,23.966915756530625,15.482020082109116,3.1551382768090948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24276,7 +24276,7 @@ dictments shall conclude &quot;against the peace
 and dignity of the Commonwealth.&quot;  
 31. The General Assembly, after th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851061201:0122/pct:10.287673842636693,243.85419610059338,45.89445608687369,27.649053404916643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851061201:0122/pct:2.5714285714285716,60.95493713801385,11.471428571428572,6.9112869049300745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24309,7 +24309,7 @@ gates shall b? distributed and apportioned as follows, tc
 wit:  
 9. The other Hgase of the General Assembly 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851062001:0304/pct:4.43019093078759,10.000984348853233,16.452863961813843,9.006792007087311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851062001:0304/pct:4.435163086714399,10.004265511697346,16.452863961813843,9.006792007087311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24345,7 +24345,7 @@ expiration of the secoud year, and of the second class at i
 the expiration of the fourth year, after such first elec­  
 tion, and which rotation shall be coutinued biennially
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851062001:0304/pct:4.2959427207637235,19.509794271089675,16.58711217183771,9.89270597499754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851062001:0304/pct:4.300914876690533,19.513075433933786,16.602028639618137,9.899268300685764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24375,7 +24375,7 @@ Virginia.
 .cates and shall consi?t of one hundred and liftv mem­  
 uers, (to be chosen biennially.) whereof 81 delegates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851062401:0312/pct:67.46757075471699,29.82421683197486,15.683962264150944,7.35539624864971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851062401:0312/pct:67.46757075471699,29.830763691119184,15.703616352201259,7.358669678221873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24407,7 +24407,7 @@ bled, in consequence of such election they shall be di­
 vided by lot into two classes. The seats&#x27;of the Sena­  
 tor* of the first class shall be vacated at the expiration 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851062401:0312/pct:67.57075471698113,40.361386624766766,15.418632075471699,7.80712952960817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851062401:0312/pct:67.57075471698113,40.367933483911095,15.423545597484276,7.80712952960817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24428,7 +24428,7 @@ wealth of Virginia, and bear teste by the clerks of the
 savers 1 coutts Indictments shall conclude against  
 the peace and diguity of the commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851063001:0605/pct:51.720785533735175,42.95503211991435,14.27182578261715,2.91220556745182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851063001:0605/pct:51.71073094867807,42.94890094204967,14.27391135303266,2.9153582643448472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24446,7 +24446,7 @@ Virginia, and bear teste by the clerks of the severul courts.
 Indictments shall conclude against the peace and dignity of  
 ;he commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851070101:0323/pct:64.63022508038586,55.03222137983321,15.638702133878983,1.6489764973464747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851070101:0323/pct:64.63509695020949,55.038539297447564,15.643574003702621,1.6489764973464747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24470,7 +24470,7 @@ clerks of the several courts. Indictments shall
 conclude against the peace and dignity of the  
 commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851070101:0197/pct:16.457875107583437,41.44969797958758,12.814382710146313,4.499062695271818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851070101:0197/pct:16.456301396060432,41.44682032768675,12.816344744055588,4.501064519115061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24489,7 +24489,7 @@ j ticle. alter the fi&#x27;llowing: &quot;And each hocsc shall choose its
 mediate vacanci s, &#x27; th^ words?&quot;and cittier flvitse, alter a  
 second unsoccessttil attempt to choose a Speaker, or othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851070401:0334/pct:66.75033220138786,89.76721629485937,16.093311678724348,2.201745877788555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851070401:0334/pct:66.75033220138786,89.76721629485937,16.09823318076677,2.208212091820239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24507,7 +24507,7 @@ wealth of^ Virginia, and bear teste by the Clerks of the
 several Courts. Indictments shall conclude, against  
 the peace and dignity ol the Commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851070401:0017/pct:81.41421947449768,74.12109375,14.258114374034003,1.66015625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851070401:0017/pct:81.39849333590882,74.11075463802483,14.260189298821711,1.6634119124006137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24532,7 +24532,7 @@ following: “But neither house shall by any ruleorregu
 ladon restrict the freedom of debate in any manner  
 whatsoever, other than by a motion J&#x27;or the previou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851071101:0033/pct:81.09384221916191,52.49112845990064,14.676372221129254,4.5422285308729595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851071101:0033/pct:81.07789142407553,52.48367868294068,14.67840283241542,4.545131989781436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24559,7 +24559,7 @@ rule or regulation restrict the freedom of debate
 m an v manner whatsoever, other than by a mo­  
 tion for the previous question as that motion i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851071201:0233/pct:3.3850630455868087,17.302518109692997,12.589718719689621,5.843394273887547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851071201:0233/pct:3.3847347492968676,17.301324503311257,12.591730514337439,5.8452906548933035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24588,7 +24588,7 @@ date of such commission.”
 The committee of the whole first amended by stri­  
 king out th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851071501:0045/pct:37.95133437990581,40.73029747638517,14.580062794348509,6.17510221344988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851071501:0045/pct:37.94388856189916,40.72455596278545,14.582107121836374,6.177755850014097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24609,7 +24609,7 @@ Mr Camden, with the leave of the Conven­
 tion, withdrew his amendment  
 Mr Letcher moved to insert in the blank 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851071701:0249/pct:1.832915300019294,26.70944593941903,12.492764808026239,3.318843579659146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851071701:0249/pct:1.8327384971544323,26.707603146129433,12.49477508761776,3.320914401361483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24626,7 +24626,7 @@ The Convention refused i&gt; sirike out the word-*, &quot;except
 tvlf 11 lh?* prosecution ?&gt;!??!! linve l&quot;eu curried or. i?v if.e  
 ||.mis.?of Delegates, or the law shall otherwise particularl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851071801:0358/pct:83.58806944650541,26.508785332314744,15.759014690606914,1.3273491214667685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851071801:0358/pct:83.58806944650541,26.515151515151516,15.768907355196122,1.324166030048383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24648,7 +24648,7 @@ officer ol the Senate, as provided lor in this Consti.u
 lion/’ Agreed to.  
 Mr Woor.For.K moved to annex to that part of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072101:0065/pct:67.2166149068323,12.885509083227715,14.402173913043478,3.3798056611744824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072101:0065/pct:67.20357073549388,12.88369473387778,14.40423054531341,3.3828499014362152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24669,7 +24669,7 @@ attach these words: &quot;except that of tho Lieutenant Govern­
 or, who shall he tiie presiding officer of the Senate as pro­  
 ; viJed for in tills Constitution.&quot; Agreed to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851072201:0359/pct:64.77306002928258,16.91894999041962,15.95900439238653,2.883694194290094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851072201:0359/pct:64.77794045876037,16.91894999041962,15.973645680819912,2.890081113878776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24690,7 +24690,7 @@ to attach these words: “except that of the |
 Lieutenant Governor, who shall he the presid­  
 ing officer of the Senate as provided for in thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851072201:0264/pct:69.86590038314176,13.8714354760754,12.89272030651341,3.141614306428226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851072201:0264/pct:69.85920888803754,13.870477768572218,12.894678032116975,3.1436987940716192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24710,7 +24710,7 @@ tion and companies, and all Attornies lor ihe Common­
 wealth ,shall be incapable of beingelected membersof  
 either house of Assembly. A permanent change o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072401:0077/pct:36.018957345971565,51.9321004692244,14.028436018957345,2.470328457079768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072401:0077/pct:36.01213040181956,51.924934455636816,14.030515542077332,2.473437284393542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24735,7 +24735,7 @@ direct writs of election for supplying intermediate va­
 cancies, except that of the Lieutenant Governor, who  
 shall be the presiding officer of the Senate, as provided
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072401:0077/pct:35.88625592417062,61.96522219155396,14.066350710900474,4.499033949765388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072401:0077/pct:35.879454131918116,61.95667172623154,14.068423047763456,4.501862839795778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24757,7 +24757,7 @@ to be prosecuted before the Senate, which shall have
 the sole power to try all impeachments. When sitting  
 for that purpose, the Senate shall be on oath or affir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072401:0077/pct:50.5781990521327,31.70024841291747,14.009478672985782,3.243168644769528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851072401:0077/pct:50.56861258529189,31.695874154822686,14.011561789234268,3.2461708293086793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24822,7 +24822,7 @@ vil policy should be speedily adopted, and in C0,,&#x27;P|jnnL*
 the recommendation of the general Congress, ordain and de­  
 clare a form of government for Virginia: ..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080101:0384/pct:3.3284457478005867,45.63549859209632,16.466275659824046,19.35139333915914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080101:0384/pct:3.3333333333333335,45.63549859209632,16.4613880742913,19.36110301971065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24846,7 +24846,7 @@ towns, of the Commonwealth,and distributed and apporiion­
 C(*The counties of Augusta and Rockingham and the city of  
 Richmond shall each elect three delegates: The countie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080101:0384/pct:3.504398826979472,90.60102922613846,16.114369501466275,4.3499368870764155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080101:0384/pct:3.509286412512219,90.60750234650614,16.114369501466275,4.3499368870764155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24875,7 +24875,7 @@ so taken in their respective counties, cities, and towns, re­
 turn as Senator the person who has received the greatest  
 number of votes in the whole district. Upon the assem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080101:0384/pct:19.589442815249267,19.895135450043693,15.909090909090908,5.835518011457423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080101:0384/pct:19.59921798631476,19.895135450043693,15.904203323558162,5.838754571641259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24896,7 +24896,7 @@ house shall appoint its own officers, settle its own rules of J
 proceeding, and direct writs of election for supplying inter- i  
 mediate vacancies: but if vacancies shall occur during ine 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080101:0384/pct:35.58651026392962,13.156617147295854,16.099706744868037,2.883775123798427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080101:0384/pct:35.58651026392962,13.163090267663527,16.104594330400783,2.8805385636145906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24919,7 +24919,7 @@ ilie Commonwealth.
 County Courts.  
 23. There ah ill be in each county of the Commonwealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080101:0384/pct:67.36070381231671,48.101757452179825,15.659824046920821,3.5246140401980774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080101:0384/pct:67.36070381231671,48.1082305725475,15.664711632453567,3.527850600381914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -24996,7 +24996,7 @@ polity should be speedily adopted, and in compliance
 with the recommendation of the general Congress,  
 ordain and declare a form of government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080101:0101/pct:50.77790742901595,52.599257355041416,14.819136522753793,26.249642959154528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080101:0101/pct:50.768034221271634,52.5917463944024,14.821116080108887,26.24946451520777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25022,7 +25022,7 @@ arid distributed and apportioned as follows:
   
 1 he counties ol Augusta and Koekinghcrn and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080101:0101/pct:66.0248930377285,17.23793201942302,14.663555036950603,4.627249357326479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080101:0101/pct:66.01205522068831,17.23547051263744,14.66556484542096,4.6301585034985004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25065,7 +25065,7 @@ vear.
 4. i. lor the election of Senators, the counties of  
 Accomack and Northampton shall form one district: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080101:0101/pct:65.83041618047453,46.4724364467295,14.760793465577596,11.668094830048558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080101:0101/pct:65.8176161773284,46.46580037126946,14.762784367100913,11.669998572040553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25087,7 +25087,7 @@ settle its own rules cf proceeding, and direct writs of
 election for supplying mteimeJia&#x27;e vacancies: but il va­  
 cancies shall occur during tire recess cf the Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080101:0101/pct:80.86347724620771,62.43930305626964,14.469078179696616,3.341902313624679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080101:0101/pct:80.84775422904919,62.43038697700985,14.471125802061055,3.344995002141939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25164,7 +25164,7 @@ polity should be speodily adopted, and in compliance
 with the recommendation of the general Congress,  
 ordain anddeclarea form of government of yirginiu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080201:0104/pct:3.079035104922534,47.22939994257824,14.983330064718572,26.32787826586276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080201:0104/pct:3.0784313725490198,47.22262092722836,14.985294117647058,26.32768767044639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25187,7 +25187,7 @@ gates, and shall consist clone hundred and fifty-two
 membcis, to be chosen biennially for and by the seve­  
 ral counties, cities and towns of the Commonwealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080201:0104/pct:18.513434006667975,18.217054263565892,14.453814473426162,3.775480907263853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080201:0104/pct:18.50980392156863,18.21443950050237,14.455882352941176,3.778527343189321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25215,7 +25215,7 @@ elected under this Constitution; and oi the Senators of
 the second class at the expiration of two years there­  
 after: and this alternation shall he continued, so tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080201:0104/pct:18.474210629535204,51.650875681883434,14.59109629339086,5.871375251220212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080201:0104/pct:18.470588235294116,51.64346203530931,14.593137254901961,5.874120855461461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25237,7 +25237,7 @@ settle its own rules of proceeding, and direct wiits of
 election for supplying intermediate vacancies: but it va­  
 cancies shall occur during the recess of the Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080201:0104/pct:33.418317317121,69.62388745334482,14.512649539125318,3.344817685902957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080201:0104/pct:33.411764705882355,69.61389407205397,14.514705882352942,3.3479259365580596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25254,7 +25254,7 @@ as may be prescribed by law; and, except when the
 prosecution has been carried on by the House of Dele­  
 gates, or the law shall otherwise particularly direct, to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080201:0104/pct:63.345754069425375,33.69221935113408,14.610707981957246,1.2919896640826873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851080201:0104/pct:63.333333333333336,33.687383378785704,14.612745098039216,1.2953925649490454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25342,7 +25342,7 @@ speedily adopted, and in compliance with the
 : dain and declare a form of government of Vir­  
 i gm;a 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080401:0309/pct:29.44750332257452,4.458820255982192,25.878108980444274,91.50667779632721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080401:0309/pct:29.44470811580446,4.458510120331084,25.878816642936243,91.50263151793374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25364,7 +25364,7 @@ Delegates, and shall consist ot one hundred and
 ft It v-two members, to he chosen biennially tor  
 and by the several counties, cities, and towns o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080401:0309/pct:42.63337763432694,46.939343350027826,12.483387127397,3.721480244852532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080401:0309/pct:42.629330802088276,46.936078458649234,12.485366239519063,3.7235399132874267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25399,7 +25399,7 @@ towns, return as Senator the person who ha*
 received the greatest number of votes in the •  
 whole district. Upon the assembling of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080401:0309/pct:42.5764192139738,82.24123539232053,12.692234668691855,9.439343350027825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080401:0309/pct:42.57237778832463,82.23551505877442,12.694193956652429,9.441005309406227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25425,7 +25425,7 @@ of the General Assembly, such writs may be
 issued b\ the Governor, under such regulations  
 as may be prescribed by law. Each hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080401:0309/pct:68.64438959559521,32.21341124095715,12.464400987279285,5.425709515859766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080401:0309/pct:68.63787375415282,32.21117061973986,12.466381901597849,5.4276506457072635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25453,7 +25453,7 @@ Judgment in cases of impeachment shall not :
 extend further than to removal from office, and  
 disqualification to hold or enjoy any office o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080401:0309/pct:68.39756977406493,87.31218697829716,12.758686159103855,6.281302170283807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080401:0309/pct:68.39107736117703,87.30611393197468,12.76063913937668,6.283183788922121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25480,7 +25480,7 @@ law; and, except when the prosecution has
 been carried on by the House of Delegates, or  
 the law shall otherwise particularly direct, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080501:0312/pct:4.157422590913476,27.57782101167315,12.838815472171312,5.9130072262367985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851080501:0312/pct:4.157021604938271,27.575904953796986,12.84079218106996,5.91491234164756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25566,7 +25566,7 @@ ily adopted, and in compliance with the recommen­
 dation of the general Congress,#ordain and declare  
 a form of government of Virginia 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0331/pct:42.9618569295507,61.95211430778142,13.193973123388082,32.68970843792238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0331/pct:42.95602605863192,61.946133796698525,13.196706478465437,32.689770569874824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25606,7 +25606,7 @@ of the General Assembly and all officers elective
 by the people: but no person in the military, naval  
 nr marino service of the United States shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0331/pct:56.3730147957106,12.096929909248889,12.854621962807112,12.975477891484843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0331/pct:56.365363735070574,12.095762139202625,12.857401375316686,12.977443125140779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25628,7 +25628,7 @@ Delegates, arid shall consist of one hundred and fit­
 ty-lwu members, to be chosen biennially for and by  
 the several counties, cities and towns of the Com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0331/pct:56.332292656440885,38.86850743386754,12.664585312881771,3.620390036686619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0331/pct:56.324647122692724,38.86475528525919,12.667390517553384,3.62325835827139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25664,7 +25664,7 @@ class expire with that of the delegates first elected
 under this cnnstitution; and of the Senators of the  
 second class at the expiration of two yeais therpa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0331/pct:56.332292656440885,74.56072600888203,13.058232659155694,10.10812898242904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0331/pct:56.324647122692724,74.55352833285066,13.060984437205935,10.110371013933134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25690,7 +25690,7 @@ writs may be issued by the Governor, under sticb
 regulations as may be prescribed by law. Each  
 house shall judge of the election, qualification an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0331/pct:82.99171983168182,18.48812512067967,12.922492194923306,5.531955976057154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851080601:0331/pct:82.98045602605863,18.48634038034559,12.925262395946435,5.5346397657431545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25788,7 +25788,7 @@ general Congress, ordain and declare a
 form of government of Virginia:  
 And whereas, a Convention held on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0180/pct:151.43446465404088,40.99361249112846,93.0245640352522,344.2583392476934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0180/pct:37.851518560179976,10.246948623332386,23.251781027371578,86.05237013908601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25815,7 +25815,7 @@ nor shall any person exercise the powers
 of more than one of them at the same time,  
 except, that justices of the peace shall be eh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0180/pct:199.06244140258767,187.65081618168915,46.29664354022126,25.621007806955287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0180/pct:49.75628046494188,46.90604598353676,11.571991001124859,6.404342889582742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25839,7 +25839,7 @@ one hundred and fifty-two members, to be
 chosen biennially for and by the several  
 connties, cities, and towns of the Com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0180/pct:198.8374273392087,307.05464868701205,45.54659666229139,19.261887863733143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0180/pct:49.70003749531308,76.75276752767527,11.384514435695538,4.814788532500709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25883,7 +25883,7 @@ towns return as Senator the person who
 has received the greatest number of votes  
 in the whole district. Upon the assem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0180/pct:246.24039002437652,125.02484031227822,45.996624789049314,56.84882895670688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0180/pct:61.5485564304462,31.251774056202102,11.497000374953132,14.210190178824865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25909,7 +25909,7 @@ if vacancies shall occur during the recess
 of the General Assembly, such writs may  
 be prescribed by law. Each house shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0180/pct:340.4462778923683,87.77856635911995,45.47159197449841,23.463449254790632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851080701:0180/pct:85.09561304836896,21.941527107578768,11.365766779152606,5.8650298041441955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -25979,7 +25979,7 @@ liie ii ei tnrnt ndaiion *&gt;f the general Congress, ordain and de­
 clare a form of government of Virginia :  
 And wher as, a &quot;Convention held on the first Monday I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:0.26358178357006884,52.3325014398157,15.844193879045248,21.098099443271263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:0.26846292771025526,52.335701030268126,15.844193879045248,21.098099443271263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26003,7 +26003,7 @@ towns, cf the Commonwealth,nnd distributed and apportion­
 ed ns follows:  
 The counties of Aucustnand Rockingham and the city o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:16.224923121979792,3.772317143405644,16.166349392297555,3.954693799193703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:16.224923121979792,3.7787163243104884,16.17123053643774,3.9578933896461255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26032,7 +26032,7 @@ so taken in their respective counties, cities, and towns, re­
 turn as Senator the person who has received the greatest  
 number of votes in the whole district. Upon the assem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:16.28349685166203,28.12440007679017,16.06384536535364,5.864849299289691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:16.288377995802215,28.130799257695013,16.05896422121345,5.864849299289691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26049,7 +26049,7 @@ house shall appoint its own officers, settle its own rllle!&gt;
 proceeding, and direct writs of election for supplvmj mter­  
 inediate vacancies: but if vacancies shall occur dtirin? &gt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:32.449846243959584,23.872144365521212,15.522038365792941,1.2382415050873488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:32.449846243959584,23.87854354642606,15.5366817982135,1.2350419146349267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26066,7 +26066,7 @@ and regulations lis may be prescribed by law ; and, except
 when the prosecution has been carried on by the House ol  
 Delegates, or the law shall otherwise particularly direct, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:48.27939669058427,41.93703205989633,15.858837311465807,1.2862353618736801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:48.27939669058427,41.943431240801175,15.878361888026554,1.2862353618736801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26097,7 +26097,7 @@ County Courts.
 25. There shall be in each county of the Commonwealth  
 a County Court, which shall be field monthly, by not les
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:64.25538146141456,54.290650796698024,15.961341338409722,6.152812440007679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:64.26514374969493,54.29385038715044,15.95157905012935,6.152812440007679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26131,7 +26131,7 @@ ly, lor opposing with manly firmness his inva-;
 &lt;ions of tiie rights of the people; when disol-,  
 ved by refusing to call others for a long space
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0336/pct:72.20774206004441,76.85127566894835,13.022492518582874,9.099080412086012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0336/pct:72.2007722007722,76.84596238938053,13.024453024453024,9.100755899705014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26160,7 +26160,7 @@ i general Congress, ordain and declare a form of
 government of Virginia:  
 And whereas, a Convention held on the f,rv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0336/pct:85.29780866879042,11.892415128258314,12.607394536152139,7.100878102744935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0336/pct:85.2895752895753,11.891592920353983,12.609395109395109,7.102691740412979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26186,7 +26186,7 @@ ei;&gt;ire with that of the delegates first elected
 under this constitution; and of the Senators of  
 the second cla*« at the expiration of two years
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0337/pct:2.3078408651989184,5.6753219918727185,12.717265353418309,5.881947792547696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0337/pct:2.307618036110843,5.674931129476584,12.719255897782498,5.883838383838384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26209,7 +26209,7 @@ own rules #f proceeding, and direct wills of
 election tor supply ing intermediate vacancies : j  
 but if vacancies shall occur during the recess o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0337/pct:15.247199691000386,40.09918038432399,12.958671301660873,3.980990426337902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0337/pct:15.24572752727624,40.09641873278237,12.960638537543046,3.983011937557392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26227,7 +26227,7 @@ when the prosecution has been carried on bv the
 Hou?e of Delegates, or the law shall otherwise  
 particularly direct, to grant reprieves and par
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0337/pct:41.82116647354191,29.93319099111509,12.591734260332174,1.7838694124939733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0337/pct:41.81712851211741,29.931129476584022,12.593736925107013,1.7860422405876952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26294,7 +26294,7 @@ with the allurement of forfeiture and con­
 fiscation ; by prompt.ng our negroes to  
 rise in arms amongst
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:3.1088082901554404,12.269021739130435,24.317789291882555,82.14673913043478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:3.108271455707132,12.267354978943079,24.317907097219823,82.13897568265182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26322,7 +26322,7 @@ icy should be speedily adopted, and in
 compliance with the recommendation of  
 the general Congress, ordain and declar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:15.45768566493955,43.682065217391305,11.986183074265975,7.894021739130435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:15.455016404766017,43.676130960467326,11.988430322914867,7.896345605216682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26349,7 +26349,7 @@ others; nor shall any person exercise the
 powers of more than one of them at the  
 same time, except, that justices of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:15.613126079447323,67.96195652173913,11.917098445595855,7.350543478260869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:15.610429977551373,67.95272381469908,11.919357623899154,7.352941176470588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26373,7 +26373,7 @@ one hundred and fifty-two members, to be
 chosen biennially for and by the several  
 counties, cities and towns, of the Com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:28.359240069084628,20.597826086956523,12.158894645941277,5.448369565217392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:28.354342945950613,20.595027849476974,12.161112070454154,5.451025675859258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26424,7 +26424,7 @@ second year.
 counties of Accomac and Northampton  
 shall foim one district
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:28.5146804835924,68.02989130434783,12.158894645941277,19.19836956521739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:28.50975651873597,68.02064936829235,12.161112070454154,19.199157723135443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26452,7 +26452,7 @@ wilts may be issued by the Governor, un­
 der such regulations as may be prescribed  
 by law. Each bouse shall judge ol th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:54.30051813471503,80.23097826086956,11.917098445595855,7.377717391304348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:54.29114142635123,80.22007879364217,11.919357623899154,7.380111397907893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26482,7 +26482,7 @@ shall not extend further than to removal
 from office, and disqualification to hold  
 and enjoy any office of honor, trust o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:67.0293609671848,69.14402173913044,11.917098445595855,8.423913043478262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0103/pct:67.01778621999655,69.13462844722184,11.919357623899154,8.426164923244125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26509,7 +26509,7 @@ Lieutenant Governor.
 8. A Lieutenant Governor shall bo c­  
 lecteil at the same lime, anil for (he sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0104/pct:4.992033988316516,62.54062838569881,12.179146751637457,6.310942578548213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0104/pct:4.991150442477876,62.53215978334462,12.18141592920354,6.313473256601219/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26528,7 +26528,7 @@ land/and Elector of ILcocer, before that ‘imo on- l
 trusted with the exercise of the kingly office in the  
 government of Virginia, had
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:5.162081176791065,85.71010819768009,13.293380550258785,2.3589043766448974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:5.161378183303826,85.70175438596492,13.296109673612056,2.3619233268356075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26566,7 +26566,7 @@ ily adopted, and in compliance with the recommen­
 dation of the general Congress, ordain and declare  
 a form of government of Virginia 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:18.414600926178153,21.91246710205673,13.37510215200218,11.667803879520422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:18.412093149938716,21.910331384015596,13.377820146170956,11.669915529564653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26588,7 +26588,7 @@ Delegates, and shall consist of one hundred and fif­
 ty-two members, to be chosen biennially for and by  
 the several counties, cities and towns of the Com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:18.673385998365568,69.1685349449264,12.789430672841188,3.635831952432011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:18.670842979708567,69.16179337231969,12.79222842616551,3.6387264457439894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26619,7 +26619,7 @@ their respective counties, cities, and towns return
 ns Senator the person who has received the greatest  
 number of votes in the whole district. Upon th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:31.748842277308636,22.39009650063359,12.91201307545628,7.681060532215615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:31.744518589132507,22.387914230019494,12.91479413500386,7.6835607537361925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26645,7 +26645,7 @@ writs may be issued by the Governor, under such
 regulations as may be prescribed by law. F.ach  
 house shall judge of the election, qualification an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:45.31462816671207,67.81362705916756,12.707709071097794,5.565844624232382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:45.308457033909846,67.80701754385964,12.71051795360661,5.568551007147498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26666,7 +26666,7 @@ conviction, and to commute capital punishment.
 I He shall communicate to the General Assembly  
 1 at each session, the particulars of every case o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:71.68346499591392,72.88234720733016,12.884772541541814,3.2556779413198167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183736:1851081301:0334/pct:71.67370284624813,72.87524366471735,12.88755731081756,3.258609486679662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26747,7 +26747,7 @@ pliance with the recommendation of the general
 Congress, ordain and declare a form of government  
 of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:55.89809857854901,283.6979534227241,45.65257522613993,104.23429781227946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:13.971945367294204,70.91447925486875,11.411037283130307,26.054896979960485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26771,7 +26771,7 @@ egates, and shall consist of one hundred and fifty­
 twe members, to be chosen biennially for and by  
 the several counties, cities and towns, of the Com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:102.49215432896438,161.7501764290755,44.69263429942773,13.959068454481299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:25.618309339239573,40.431837425910246,11.17109634551495,3.4892746260231444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26802,7 +26802,7 @@ and towns, return as Senator the person who has
 received the greatest number of votes in the whole  
 district. Upon the assembling of the Senators s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:102.56599593871147,282.06069160197603,44.69263429942773,26.492589978828512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:25.636766334440754,70.50522156364663,11.17109634551495,6.622212813999435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26828,7 +26828,7 @@ writs may be issued by the Governor, under such
 regulations as may be prescribed by law. Each  
 house shall judge of the election, qualification an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:149.2338932988739,356.52787579393083,44.69263429942773,18.757939308398026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:37.301587301587304,89.11939034716342,11.17109634551495,4.688823031329382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26858,7 +26858,7 @@ under the Commonwerlth; but the party convicted
 shalll nevertheless be subject to indictment; trial,  
 judgment and punishment, according to law. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:195.31105778105962,186.87367678193365,45.13568395791028,24.57304163726182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:48.8187523071244,46.7118261360429,11.281838316722038,6.1423934518769405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26877,7 +26877,7 @@ amended with the consent of the House of Delegates,
 except money bills, which in no instance shall be al­  
 tered by the Senate, but wholly approved or rejected.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851081401:0145/pct:7.503858024691358,42.80908326324643,14.525462962962964,2.0605550883095036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348379:1851081401:0145/pct:7.502410800385728,42.8030833917309,14.5274831243973,2.063770147161878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26961,7 +26961,7 @@ be -peedily adopted, and in ccmpliance with ti
 recommendation of the general Congress, ord*  
 and declare • form of government for Virgini
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851081401:0410/pct:42.58340461933276,58.92945239269857,13.139435414884517,30.34040453872718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851081401:0410/pct:42.57612042422169,58.922185226291774,13.141464249059187,30.339745961277593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -26989,7 +26989,7 @@ County Courts.
 35. There shall be in each county of the Com­  
 monwealth, a county court, which shut) he he 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851081401:0413/pct:29.726962457337883,77.12181727408887,12.662116040955631,6.340489266100849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851081401:0413/pct:29.721890462378433,77.11219268688382,12.664221122675311,6.342817920878573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27066,7 +27066,7 @@ clare a form of government of Virginia:
 And whereas, a Convention held on the first Monday in  
 October, in the year one thousand eight hundred and twent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:1.6327742318539409,49.96099083284572,16.43164613329375,24.917105519797154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:1.6426698332591163,49.96749236070477,16.43164613329375,24.917105519797154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27095,7 +27095,7 @@ so taken in their respective counties, cities, and towns, re­
 turn as Senator the person who has received the greatest  
 number of votes in the whole district. Upon the&quot;assem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:18.212854386225324,28.47669202262532,16.119934689030725,5.880631948507899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:18.217802186927912,28.483193550484362,16.119934689030725,5.877381184578376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27116,7 +27116,7 @@ house shall appoint its own officers, settle its own rules of j
 proceeding, and direct writs of election for supplying inter- ;  
 mediate vacancies: but if vacancies shall occur during the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:34.42184948790263,22.303491320460306,16.312898916431646,3.0232104544567973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:34.4317450893078,22.309992848319354,16.317846717134234,3.0232104544567973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27140,7 +27140,7 @@ and regulations as may be prescribed by law; and. except
 when the prosecution has been carried on by the House of  
 Delegates, or the law shall otherwise particularly direct, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:50.4824105685023,39.39925882582407,16.179308297461777,4.144724010142384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851081501:0398/pct:50.49230616990748,39.405760353683114,16.179308297461777,4.14147324621286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27160,7 +27160,7 @@ the House Delegates, except money hills, which
 in no instance shall be altered by the Senate,  
 but wholly approved or rejected.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081601:0352/pct:59.58719135802469,27.027213703550213,12.712191358024691,2.7766266058847906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081601:0352/pct:59.581444690905585,27.025347054354583,12.714180088083069,2.7787370214333404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27247,7 +27247,7 @@ of civil polity should he speedily adopted, and
 in compliance with the recommendation of the  
 general Congress, oidain and declare a fonn o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0363/pct:18.00515101849684,14.233475921070788,31.690470615780846,76.7489995860356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0363/pct:18.003043427367434,14.232493963435667,31.690662920909908,76.74600436932276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27275,7 +27275,7 @@ at the same time, except, that justices o! the
 peace shall be eligible to either house of As­  
 sembly.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0363/pct:34.230859283540156,53.98785704429419,15.476469210957621,6.326755898992687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0363/pct:34.22685239377268,53.98413245946878,15.478559444379414,6.328619064045073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27297,7 +27297,7 @@ Delegates, and shali consist of one hundred and
 fifty-two members, to be chosen biennially for  
 and by the several counties, cities, and town
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0363/pct:34.14891126199953,79.52256105974887,15.476469210957621,3.580792051883538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0363/pct:34.14491396464942,79.51707485339773,15.478559444379414,3.582844659077843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27329,7 +27329,7 @@ towns, return as Senator, the person who has re­
 ceived the greatest number of votes in the whole  
 district. Upon the assembling of the Senator
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0363/pct:49.96487941933973,38.49178970608528,15.628658393818778,8.203394508072305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0363/pct:49.95903078543837,38.48913418420145,15.63073081275118,8.205128205128204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27357,7 +27357,7 @@ own rules of proceeding, and direct writs of
 election for supplying inteimediate vacancies:  
 but if vacancies shall occur during the recess o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0363/pct:66.23741512526341,13.998896094935835,30.87099040037462,76.9214847523113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081901:0363/pct:66.22966171134262,13.997930320800275,30.87127862967732,76.91847763596643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27429,7 +27429,7 @@ clare a form of government of Virginia:
 And whereas, a Convention held on the first Monday in  
 October, in the year one thousand eight hundred and twent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082201:0406/pct:3.4966066686338153,51.75157690441533,16.317497786957805,22.05725376031053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082201:0406/pct:3.4966066686338153,51.75804625586285,16.337169273138585,22.060488436034287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27458,7 +27458,7 @@ so taken in their respective counties, cities, and towns, re­
 turn as Senator the person who has received the greatest  
 number of votes in the whole district. Upon the assem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082201:0406/pct:19.932133372676304,27.879670063076176,15.948657421068162,5.8418243571082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082201:0406/pct:19.932133372676304,27.886139414523694,15.958493164158552,5.8418243571082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27482,7 +27482,7 @@ house shall appoint its own officers, settle its own rules of
 proceeding, and direct writs of election for supply ing inter­  
 mediate vacancies: but if vacancies shall occur during the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082201:0406/pct:35.9545588669224,20.679281901989327,16.02242549424609,4.046579330422126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082201:0406/pct:35.96439461001279,20.685751253436845,16.017507622700894,4.043344654698367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27501,7 +27501,7 @@ and re?ul:ilions as muv be prescribed by law ; and, exi.ep ?
 when llic prosecution has been carried on by the House of j  
 Uel-gales, or the law shall otherwise particularly d reel, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082201:0406/pct:51.84420182944822,40.34934497816594,16.02242549424609,2.4065987384764678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082201:0406/pct:51.85403757253861,40.3525796538897,16.017507622700894,2.4065987384764678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27589,7 +27589,7 @@ genera! Congress, ordain and declare a form ot
 government of Virginia:  
 And whereas, a Convention field on the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0389/pct:16.380910778639294,14.873068432671081,29.431036365621928,76.20722958057395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0389/pct:16.37912207905656,14.872042491549976,29.431462473611415,76.20427214826056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27625,7 +27625,7 @@ wealth. of the age of twenty-one years, who
 has been a resident of the State for two years,  
 and of the county, city or town, where tie of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0389/pct:31.396745659058645,53.84243929359823,14.404280878016818,9.326710816777043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0389/pct:31.393317318191745,53.838725253500726,14.406347819756862,9.32836678853096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27648,7 +27648,7 @@ fifty-two members, to be chosen biennially for
 and by the several counties, cities, and towns  
 of the Commonwealth, and distributed and ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0389/pct:31.42950748061592,79.51848785871965,14.36059844927378,4.056291390728477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0389/pct:31.426075562349858,79.51300269021176,14.362670160879377,4.058310914901933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27685,7 +27685,7 @@ expire with that of the delegates first elected
 under this constitution; and of the Senators of  
 the second class at the expiration of two year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0389/pct:46.05220050234793,39.466059602649004,14.57901059298897,10.161423841059603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0389/pct:46.047171871587686,39.46333724218804,14.581058455266797,10.163022234485295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27708,7 +27708,7 @@ own rules of proceeding, and direct writs of
 election lor supplying intermediate vacancies:  
 but if vacancies shall occur during the recess o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0389/pct:76.37872665720214,16.10789183222958,14.33875723490226,3.952814569536424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0389/pct:76.37038654728107,16.106780713251016,14.340831331440635,3.954841231519165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27736,7 +27736,7 @@ peachment shall not extend further than to re­
 moval from office, and disqualification to hold or  
 enjoy any office of honor, trust or profit unde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0389/pct:75.83269629791417,69.48813465783664,14.229551163044665,6.187913907284768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0389/pct:75.82441581131252,69.48334138097538,14.231637184246924,6.189786392586972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27766,7 +27766,7 @@ KsOuniy Souris.
 25. There shall be in each connty of the  
 Commonwealth, a County Court, which shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0390/pct:55.58126721763085,9.767665658509761,14.534435261707989,6.7775639263128955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851082601:0390/pct:55.57514323490525,9.76699429514056,14.536506537387982,6.77938919055147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27859,7 +27859,7 @@ one tboti
 for the f!.;i  
 repeated petitions for redress wi:h 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851082801:0418/pct:43.61152756954856,15.790766208251473,25.37064800932867,78.49950884086444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851082801:0418/pct:43.604263824117254,15.788827501534684,25.370586275816123,78.49294045426642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27888,7 +27888,7 @@ egate*. fihd -hall consist of one hundred and fifty­
 two mi)miners’, to be chosen biennially for and by the  
 several counties, cities and towns, of the Common
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851082801:0418/pct:56.505080792936866,48.52652259332024,12.42711977344661,6.25/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851082801:0418/pct:56.49566955363091,48.52056476365868,12.429213857428381,6.252302025782689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27909,7 +27909,7 @@ writs may be .issued by the Governor, under such’
 regulations as may be prescribed by law Each  
 House shall judge of the&#x27; election, qualification an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851082801:0418/pct:82.47542895219057,30.93074656188605,12.343828085957021,2.762770137524558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851082801:0418/pct:82.46169220519654,30.92694904849601,12.345936042638241,2.765500306936771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -27980,7 +27980,7 @@ clare a form of government of Virginia:
 And whereas, a Convention held on the first Monday in  
 October, in the year one thousand eight hundred and twent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0414/pct:2.628873549713614,52.92576419213974,16.360699074754002,21.83406113537118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0414/pct:2.633769031184217,52.93223354358726,16.3558035932834,21.83406113537118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28004,7 +28004,7 @@ shall consist of one hundred and fifty-two nit ?
 towns, of the Commonwealth,and distributid v PP  
 to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0414/pct:18.960199735644,3.930131004366812,16.111029519753266,3.63901018922853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0414/pct:18.9650952171146,3.9366003558143294,16.111029519753266,3.63901018922853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28038,7 +28038,7 @@ vice of the Senators of the first class shall expire with that
 ot ihe delegates first elected under this Constitution; and of  
 the Senators of the second class at the expiration of tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0414/pct:18.916140402408576,28.42309558466764,16.052283742106034,7.782629791363416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0414/pct:18.916140402408576,28.429564936115156,16.05717922357664,7.779395115639657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28055,7 +28055,7 @@ house shall appoint its own officers, settle Us own rules of
 proceeding, and direct writs of election for supplying inter­  
 mediate vacancies: but if vacancies shall occur during th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0414/pct:34.98311058892642,23.65841824357108,15.993537964458804,1.5138282387190685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0414/pct:34.98311058892642,23.664887595018598,15.998433445929408,1.5138282387190685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28085,7 +28085,7 @@ County Courts.
 25. There shall be in each county of the Commonwealth,  
 a Coiintv Court, which shall be neld monthly, by not le&gt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0414/pct:66.85269496254956,54.885977680737504,15.89073285357615,6.327025715672004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0414/pct:66.85269496254956,54.889212356461265,15.91031477945856,6.330260391395763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28173,7 +28173,7 @@ in compliance with the recommendation of the
 general Congress ordain and declare a form oi  
 government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0415/pct:17.018006148440932,15.987529002320185,29.5344751866491,80.43793503480279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0415/pct:17.01613788560764,15.986369897774233,29.534892231126726,80.43451992556611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28196,7 +28196,7 @@ fifty-two members, to be chosen biennially for
 and by the several counties* cities, and towns  
 of the Commonwealth, and distributed and ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0415/pct:32.07070707070707,84.46925754060325,14.437856829161177,4.227088167053364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0415/pct:32.06718629926446,84.46313347350105,14.43993120357156,4.229198385654559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28219,7 +28219,7 @@ taken in their respective counties cities and
 ceived the greatest number of votes in the whole  
 | district. Upon the assembling of the Senator
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0415/pct:46.79402722880984,45.729408352668216,14.602547211242863,4.33584686774942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0415/pct:46.78889010868372,45.72609294569709,14.604603505690342,4.337949201285676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28242,7 +28242,7 @@ own rules of proceeding, and direct writs of
 election for supplying intermediate vacancies:  
 &#x27; but if vacancies shall occur during the recess o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0415/pct:76.75669740887132,17.394141531322507,14.624505928853756,4.089327146171693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851090201:0415/pct:76.74827094082775,17.39288044660335,14.626559812639513,4.0914473525218105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28314,7 +28314,7 @@ the M»m of:#oyeramem, amt&#x27; declaring us otuJ
 - » - — * — -1 wus* tti^ l |  
 aad protection; by which serera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851090401:0425/pct:3.313096270598439,66.00294985250737,13.425845620121422,22.087020648967552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851090401:0425/pct:3.3125216788067986,65.99483839252795,13.427852930974678,22.0873786407767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28337,7 +28337,7 @@ egates, &quot;and shall consist of one hundred and fifty­
 two mftnberj, to be chosen biennially for and by the  
 several;counties, cities and towns, of the Common
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851090401:0425/pct:17.137901127493496,36.025073746312685,13.009540329575021,3.675024582104228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851090401:0425/pct:17.134928893513703,36.02064642988817,13.011619840443982,3.677645323829421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28367,7 +28367,7 @@ writs may he issued by the Governor, under such
 regulations as may be prescribed by lew. Each  
 Hogue shall judge of the election, qualification an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851090401:0425/pct:30.70251517779705,81.40363815142577,12.940156114483955,6.231563421828908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851090401:0425/pct:30.69719042663892,81.39363401745115,12.942247658688865,6.233869976649871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28410,7 +28410,7 @@ ting to renefer the military independent of and su­
 perior to tbS civil power; by combining with oth­  
 er*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091101:0429/pct:1.965901183020181,65.2120315581854,13.743910925539318,11.267258382642998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091101:0429/pct:1.9655592276917724,65.20399359053371,13.745868846755958,11.268951066190064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28446,7 +28446,7 @@ was totally dtssrdvsd; did, therefore*, baring ma­
 twrely eotwiuyred the premises, and viewing with  
 great concern the deplorable condition to which thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091101:0429/pct:2.67919276270007,80.79388560157791,13.082811412665276,9.035996055226825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091101:0429/pct:2.6787267350843624,80.78392703069149,13.084884327709167,9.037963761863676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28469,7 +28469,7 @@ egate*, and shall consist of one hundred and fifty­
 two members, to be chosen biennially fur aind by the  
 several counties, cities and tow ns, of the Conjman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091101:0429/pct:16.38830897703549,34.89891518737672,12.978427279053584,3.661242603550296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091101:0429/pct:16.38545834058097,34.894613583138174,12.980518351017569,3.6638727967459634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28501,7 +28501,7 @@ towns, return as Senator the person who has re­
 ceived the greatest aumber of votes in the whole  
 district. Upon the assembling of the Senators s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091101:0429/pct:16.2839248434238,64.965483234714,12.961029923451635,6.6691321499013805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091101:0429/pct:16.28109236388937,64.957475656354,12.96312402156897,6.671391593738444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28527,7 +28527,7 @@ writs may be issued by the Governor, under
 regulations as may ba prescribed by law. 1  
 House shall judge of the election, qualificatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091101:0429/pct:29.97564370215727,82.51972386587771,12.230340988169798,4.733727810650888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091101:0429/pct:29.97042963993738,82.50955256994946,12.23256218472778,4.736225810427708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28556,7 +28556,7 @@ from office, and disqualification to-hold and enjoy
 monwealth ; but the party convicted shall neverthe­  
 less be subject to indictment, trial, judgment an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091101:0429/pct:43.21503131524008,38.21499013806706,13.187195546276966,5.892504930966469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091101:0429/pct:43.207514350321794,38.21027979785529,13.189250304400765,5.894860101072353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28583,7 +28583,7 @@ County Courts. :-i
 ‘JSt. There shall be in each eonntv of die Common­  
 wealth, a county ceurt, which shall be held month
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091101:0429/pct:70.45929018789144,85.94674556213018,12.943632567849686,5.374753451676528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091101:0429/pct:70.44703426682901,85.93615185504746,12.945729692120368,5.3771724392949585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28611,7 +28611,7 @@ opcralioo tor hie aswm, and when -so suspended
 neglecting,to attend to them for many years; by  
 refuting to puna
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091801:0433/pct:2.211606510969568,66.00441501103752,13.163481953290871,5.445180279617365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091801:0433/pct:2.2112152839200423,65.99632127529124,13.165575800459933,5.447578172900061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28634,7 +28634,7 @@ egates, and shall consist of one hundred and lifty­
 two members to fit chosen biennially for and by the  
 several counties, jcities and towns, of the Common
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091801:0433/pct:15.905874026893136,35.76158940397351,13.05732484076433,3.7772872209958304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091801:0433/pct:15.903060321952946,35.75720416922134,13.05943746683177,3.779889638258737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28663,7 +28663,7 @@ towns, return as Senator the person who has re­
 | reived the greatest number of votes in the whole  
 : district. Upon the assembling of the Senators s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091801:0433/pct:15.72894550601557,66.17610988471915,13.411181882519463,6.168751532989943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091801:0433/pct:15.726163099239342,66.16799509503372,13.413231912258977,6.171060698957695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28689,7 +28689,7 @@ writs may be issued by the Governor. under such
 regulations as may be prescribed bv law. Each  
 House shall judge of the election, qualification an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091801:0433/pct:29.635527246992215,83.30880549423595,13.163481953290871,4.807456463085602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091801:0433/pct:29.630284804528568,83.29858982219497,13.165575800459933,4.809932556713672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28706,7 +28706,7 @@ be prescribed jby law ; and, except when rhe prose­
 cution has bef n carried on by the House of Dele­  
 gates, or the law shall otherwise particularly direc.t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091801:0433/pct:57.43099787685775,46.455727250429234,13.004246284501061,1.177336276674025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn84026784:00514157327:1851091801:0433/pct:57.420838492835664,46.45003065603924,13.006368300017689,1.1802575107296138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28725,7 +28725,7 @@ shall have power, except where tho prosecution
 has been carried on by the Uouso of Delegates,  
 or the law shall otherwise particularly direct, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852060101:0506/pct:19.857883618206262,39.84920413292377,14.787785673132323,2.5970399329796146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852060101:0506/pct:19.85407066052227,39.84364093257015,14.789746543778802,2.6001675275722462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28773,7 +28773,7 @@ trusted with the exercise of the kingly office
 in the government of Virginia,” bv which it  
 was declared that the government &lt;&gt;f thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854051201:0450/pct:58.51175183176325,48.27223662998528,12.379864877723856,2.9999299081797153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215919:1854051201:0450/pct:58.50618458610847,48.26885337818896,12.38185854741516,3.0020558826277917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28791,7 +28791,7 @@ to prevent the population of our country, and for that
 purpose obstructing the laws for the naturalization of  
 foreigners.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855011601:0496/pct:2.459846621328317,57.503799392097264,13.833019823469831,2.0801671732522795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855011601:0496/pct:2.459846621328317,57.503799392097264,13.837843052139101,2.0833333333333335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28876,7 +28876,7 @@ chlt.
 Const of Va., Art6, 414. &quot;Commissions and grants  
 shall run in the name of the Commonwealth, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191010:1857081301:0147/pct:93.58835372463993,172.0727589587191,37.30834752981261,8.659187452347238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191010:1857081301:0147/pct:31.19611790821331,57.35758631957303,12.43611584327087,2.88639581744908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28903,7 +28903,7 @@ Judges shall be commmissioned by the Governor
 Cont of Va Act. e,S. 14. &quot;Commissions and grants  
 shall run in the name of the Commonwealth, and bo after
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184686:1857081401:0016/pct:99.22557026189806,226.3241285649615,36.341875528020275,16.4440923494794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184686:1857081401:0016/pct:33.07053357736168,75.43283919882313,12.112253038622178,5.480743842178718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -28973,7 +28973,7 @@ Virginis, which met in 11, and i theat
 legislation on this continent, the House of Bur­  
 aran  o eotaposen of tso membera from eve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190625:1858092801:0301/pct:137.44537147397696,125.58028616852147,66.68653158522051,77.0906200317965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn86092535:00202190625:1858092801:0301/pct:34.36134286849424,31.395071542130367,16.671632896305127,19.272655007949126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29032,7 +29032,7 @@ fice for a time; aud by the third, no removal at
 all, but merely &quot;subjected to pains or penalties,&quot;  
 as the Court should decide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1860032001:0057/pct:55.85876875323331,59.76978417266187,12.609932747025349,10.302158273381295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1860032001:0057/pct:55.867390929470595,59.772981614708236,12.609932747025349,10.305355715427657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29071,7 +29071,7 @@ plorable condition to which tnls ouce happy Com­
 monwealth must be reduced, unless some regular  
 adequate remedy Is speedilv adopted, end appealin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190674:1861061401:0570/pct:16.398022781001504,45.15391380826737,13.152804642166345,2.832014072119613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190674:1861061401:0570/pct:16.398022781001504,45.15831134564644,13.185041908446165,2.8408091468777483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29104,7 +29104,7 @@ wealth from the United States, or to levy and
 carry on war against them, are without au­  
 thority and void; and that the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775654:1861061501:0165/pct:14.29553264604811,237.8966936661798,44.123711340206185,33.6210330633382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775654:1861061501:0165/pct:3.5757263194086297,59.47417341654495,11.036616812790099,8.40525826583455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29136,7 +29136,7 @@ to separate this Commonwealth from the United
 States, or to levy and carry on war against them,  
 are without authority and void, and the offices
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861061701:0593/pct:61.36458188878103,45.474244065793364,10.872278463458604,5.6141042056535015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861061701:0593/pct:61.36920445615495,45.477527167668015,10.876901030832524,5.6141042056535015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29201,7 +29201,7 @@ recitude of our intentions, do hereby, in the name, and
 on the behalf of the good peole of Virginia, sclemnly  
 declare that the preservation of their dearest rights an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861062101:0587/pct:175.18403171007927,148.0004039587962,38.53340883352208,11.8258937588366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861062101:0587/pct:58.3864118895966,49.328486317277594,12.842651568766218,3.9415665286613484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29269,7 +29269,7 @@ monwealth from the United States, or to levy
 nd carry on war against, them, are withont  
 autherity and void and the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861062201:0594/pct:48.272297696396926,201.75082737269136,37.197282929710575,23.049001814882033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861062201:0594/pct:16.090765898798978,67.25027579089712,12.399094309903525,7.683000604960678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29303,7 +29303,7 @@ the United States, or to levy and carry on
 war against them, are without authority and  
 void
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_archer_ver01:data:sn86092243:00393348896:1861062201:0089/pct:17.99023028611305,17.690101849105112,30.397766922540125,78.6611292395926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_archer_ver01:data:sn86092243:00393348896:1861062201:0089/pct:17.987719787887244,17.688352778327072,30.398176574565074,78.6566475512491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29346,7 +29346,7 @@ or to levy and carry on war against them, are with
   
 out authority and void, and the o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861062501:0600/pct:268.99012074643247,283.3525647749921,43.962678375411635,25.637260044057484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861062501:0600/pct:67.25675861122546,70.83814119374803,10.992177850967476,6.409315011014371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29390,7 +29390,7 @@ the United States, or to levy and carry on
 war against them, are without authority and  
 void; and the offi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1861062901:0107/pct:57.71695825394076,77.57357837261952,12.454529707257924,10.494073778132908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340603:1861062901:0107/pct:57.70696224454451,77.56324900133156,12.456702459300312,10.49600532623169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29424,7 +29424,7 @@ monwealth from the United States, or to levy
 nd carry on war against them, are without  
 authority and void; and the o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1861070901:0898/pct:55.945945945945944,255.0489628303675,37.013513513513516,31.715278509002843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1861070901:0898/pct:18.65621197782885,85.01632094345582,12.342841692578073,10.571759503000948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29495,7 +29495,7 @@ from the U. S. or to levy and carry on war
 against them, are without authority and  
 void; and that the offices
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861072001:0676/pct:123.4525447042641,93.836246550138,50.55020632737276,42.10802996451571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861072001:0676/pct:30.87906416652331,23.4590616375345,12.644073628075004,10.527007491128927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29529,7 +29529,7 @@ the United States, or to levy and carry on war
 against them, are without authority and void;  
 and the offices of all 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1861072401:0540/pct:244.5079086115993,124.44373808010171,38.62038664323374,26.478067387158298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1861072401:0540/pct:81.50263620386643,41.481246026700575,12.873462214411248,8.8260224623861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29556,7 +29556,7 @@ polls so taken in their respective counties, cities and
 towns return as Senator the person who has received the  
 greatest number of votes in the whole district.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861112301:0492/pct:108.62710363153234,19.941977800201816,43.01151461470328,17.19223007063572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861112301:0492/pct:36.20262132483174,6.6464875772480765,14.334632187979691,5.730020599487115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29587,7 +29587,7 @@ to each class according to its number, and continued in
 due order annually.  
 4 For the election of Senators the districts shall r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861112301:0492/pct:108.46767050487156,41.09485368314834,42.95837023914969,22.262865792129162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861112301:0492/pct:36.14948636202622,13.696556942867954,14.316920533711182,7.4200193382940265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29640,7 +29640,7 @@ tricts shall remain as now arranged until re­
 presentation in the two Houses shall be re­  
 apportioned in the manaer provided in thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861112301:0500/pct:61.2351406204697,200.67722442175454,37.257175993041464,42.92560950197958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861112301:0500/pct:20.411713540156565,66.89240814058485,12.419058664347153,14.30853650065986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29661,7 +29661,7 @@ LI Judiciary departments shail bo separate anc
 17 than one of them at the same time, except tha  
 !7 justices of the p&#x27;-.ic:- ar.aii be eligible to eithe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isogawa_ver01:data:sn84024735:00415664394:1861112601:0007/pct:24.468227424749163,86.10673493501379,12.735785953177258,3.3379283182355257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isogawa_ver01:data:sn84024735:00415664394:1861112601:0007/pct:24.477146042363433,86.10673493501379,12.731326644370123,3.344492582381515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29710,7 +29710,7 @@ order annually.
 Mr. Stcai&#x27;.t ?This conforms to the propes  
 tion submitted on yesterday by the gentl- m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861120601:0222/pct:38.45432627913207,30.315541138307285,13.045807661398339,15.87535633539762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861120601:0222/pct:38.45432627913207,30.32209443297618,13.054737030091973,15.872079688063174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29776,7 +29776,7 @@ ah uld be speedily adepted, and in foompllancs with the recom
 mendation of the general Congress, ordain and declare a form of  
 gover meat of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861120601:0535/pct:201.7812611328821,123.92056374119154,42.981831136444605,53.24791800128123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861120601:0535/pct:67.24844167408726,41.301562900333074,14.324725437815376,17.74703219745495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29801,7 +29801,7 @@ QuAltIAtin or votirs
 twenty one years, who has been a res dent of the State for two  
 years, and of the county, cily or town where he offers to vete, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861120601:0535/pct:201.83469896686853,201.71684817424727,43.462771642322764,11.697629724535554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861120601:0535/pct:67.26625111308994,67.23033563925186,14.485010388839418,3.898710393714237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29826,7 +29826,7 @@ ma&#x27;n as new provided by law ufll a re arperti nment of the
 same shall be made by the General Assemby, as hereinafter pro­  
 vide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861120601:0535/pct:201.4606341289633,241.7296604740551,42.82151763448522,11.697629724535554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861120601:0535/pct:67.14158504007123,80.56623110427876,14.271297120807361,3.898710393714237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29868,7 +29868,7 @@ manner aforesaid. This rotation shall be applied to each class
 according to its number, and continued in due order anbually.  
 5 For the election of Senątors the districls shall remain as po
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861120601:0535/pct:201.19344495903098,15.490070467648943,88.56430352689705,271.4157591287636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861120601:0535/pct:67.05253784505788,5.162695362541634,29.516176907094092,90.46032966094457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29896,7 +29896,7 @@ cle four, it is declared that the manner of filling vacan­
 cies in office in cases not specially provided for by the  
 constitution shall be prescribed by law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861120701:0539/pct:241.8562329390355,211.2964366944655,44.62238398544131,18.81475865554713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861120701:0539/pct:80.60407569141194,70.42324699936829,14.871421639980593,6.270793851337124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -29954,7 +29954,7 @@ worthy the head of a civllized natien; by answering our repeated
 astitions for re dress with a repstitlon of injada; and snally, by  
 s 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861121701:0570/pct:14.518730955368346,233.8235294117647,44.38071338949633,44.705882352941174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861121701:0570/pct:4.838709677419355,77.93121084260325,14.790919952210276,14.90005540638452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30002,7 +30002,7 @@ manaer afore-aid. This rotation shall be applied to each class
 according to its nuraber, and continndin due order annually.  
 A. For tha eleclian of Senators the districts shall remain as no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861121701:0570/pct:59.58056999462269,115.97186700767263,44.864671088008606,34.73145780051151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861121701:0570/pct:19.85663082437276,38.652346247282956,14.95221027479092,11.575672335166006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30020,7 +30020,7 @@ nis, and be attested by the clerks of the several courts. Indict­
 ments shall conelude &quot;against the peace and dignity of the Com  
 monweslh.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861121701:0570/pct:150.24197884925613,247.97953964194375,43.14393260440939,3.9641943734015346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861121701:0570/pct:50.07168458781362,82.64927758598645,14.37873357228196,1.3212291693304352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30141,7 +30141,7 @@ Virginin, by an act passed January 17th,
 ple, of delegates to meet in general Conven­  
 tion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861121701:0580/pct:12.65658747300216,12.709832134292565,230.3959683225342,276.93671150036494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861121701:0580/pct:4.21886249100072,4.236610711430855,76.7986561075114,92.31223716678831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30166,7 +30166,7 @@ for and by the several counties, cities and
 towns of the Commonwealth, the distribution  
 and appointment whereof shall remain a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861121701:0580/pct:50.53995680345572,130.0907100406631,37.005039596832255,12.866228756125535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861121701:0580/pct:16.846652267818573,43.36357001355437,12.335013198944084,4.288742918708511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30214,7 +30214,7 @@ plied to each class according to its number,
 and continued in due order annually.  
 4. For the election of Senators, the distric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861121701:0580/pct:50.885529157667385,164.1747471587947,37.149028077753776,37.19111667187989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861121701:0580/pct:16.961843052555796,54.724915719598236,12.38300935925126,12.397038890626629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30236,7 +30236,7 @@ writs may be issued by the Governor under
 such regulations as may be prescribed by  
 law. Each House shall judge of the election
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861121701:0580/pct:89.31605471562276,124.28318214993223,36.81785457163427,8.75821082264623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861121701:0580/pct:29.772018238540916,41.427727383310746,12.272618190544756,2.9194036075487437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30302,7 +30302,7 @@ should be speedlly adopted, and in  compllance wlth the recom­
 mendation o&#x27; the general Congress, ordain and declare a form of  
 goverament of Virg nla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122001:0582/pct:104.73436935308999,62.276698396140304,45.880014456089626,53.683661494327815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122001:0582/pct:34.90514905149052,20.75619295958279,15.290575127973502,17.892220773576707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30327,7 +30327,7 @@ aumbared by lot The first cass shall consist of twelve, the second
 t of thirtess, the third of twelve, and the fourth of thirteen. The  
 I seats of the Senators of the flrst class shall be vacated at the e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122001:0582/pct:104.95121069750633,207.71938975094537,44.68738706179978,11.67036119441909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122001:0582/pct:34.97741644083108,69.23076923076923,14.893104486600421,3.88961321164711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30345,7 +30345,7 @@ nis, and be attestef by the clerks of the several courts. Indict­
 ments shall conclude &quot;aganst the peace and dignity of the Gome  
 monwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122001:0582/pct:242.59125406577522,75.45964271743382,43.92844235634261,4.120485069761377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122001:0582/pct:80.84914182475158,25.14993481095176,14.640168623908462,1.373315949587136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30412,7 +30412,7 @@ should be speedily adopted, and in compliance with the recom­
 mendation of the genaral Congress, ordain and declare a form of  
 government of Virg&#x27;nia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122401:0594/pct:56.90559440559441,164.11123637730176,42.23776223776224,52.06062883627709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122401:0594/pct:18.965215871351162,54.69689378757515,14.076793101439142,17.351369405477623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30437,7 +30437,7 @@ monwealth, the distribution and apportionment whereof shall
 main as now provided by law until a re apportinment of the  
 same shall be made by the General Arsemby, as hercinafter pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122401:0594/pct:57.06293706293706,39.83464862833521,87.6048951048951,244.88287611173743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122401:0594/pct:19.017654256248907,13.276553106212425,29.196527413622327,81.61740146960588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30484,7 +30484,7 @@ manner aforesaid. This rotation shall be applied to each class
 according to its number, and continued in due order annually.  
 5. For the election of Senators the districts shall remain as po
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122401:0594/pct:100.96153846153847,47.95189778278843,43.6013986013986,33.571339095578104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122401:0594/pct:33.6479636427198,15.98196392785571,14.531259103886267,11.189044756179024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30528,7 +30528,7 @@ mies and ships of* war; by affecting to render the
 military independent of, superior to, the}  
 civil power, by combining with others to subject 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0362/pct:43.109954456733895,72.98422224373246,13.272608978529604,12.75771948504501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0362/pct:43.11429191064845,72.98422224373246,13.276946432444156,12.760946020069047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30556,7 +30556,7 @@ recommendation of the general Congress, ordain
 and declare a form of government of Virginia.  
 2. And, Whereas, a Convention held on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0362/pct:56.486662329212756,5.072113057787242,12.934287573194535,6.417578162810957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0362/pct:56.49533723704186,5.07533959281128,12.929950119279983,6.417578162810957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30589,7 +30589,7 @@ officers elected by the people ; but no person in
 the military, naval or marine service of the Con­  
 federate States shall be deemed a resident o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0362/pct:56.616785946649316,25.118575162133386,12.765126870527,8.363178782305681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0362/pct:56.62112340056387,25.121801697157423,12.765126870527,8.36640531732972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30613,7 +30613,7 @@ fifty two members, to be chosen annually for and
 by the several counties, cities and   
 Commonwealth, the distribution and appoint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0362/pct:56.72088484059857,46.50082276643113,12.765126870527,4.404220307811442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0362/pct:56.72088484059857,46.5072758364792,12.769464324441552,4.404220307811442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30665,7 +30665,7 @@ tation shall be applied to each class according to
 its number, and continued in duo order annually.  
 d For the election of Senators, the Distric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0362/pct:56.55172413793103,56.35466072984222,12.934287573194535,15.70031942696738/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0362/pct:56.556061591845584,56.35466072984222,12.934287573194535,15.70031942696738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30683,7 +30683,7 @@ wealth of Virginia, and be atnsted by the clerks of
 the several courts Indictments shall conclude—  
 &quot;against the peace and dignity of the Commonwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0363/pct:4.7234873129473,62.55928758106669,12.791151594014314,1.510018391249637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861122401:0363/pct:4.732162220776404,62.55928758106669,12.78681414009976,1.5229245313457878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30749,7 +30749,7 @@ should be speedlly adopted, and in Icompliance with the recom­
 mendation of the general Congress, ordain and declare a form of  
 government of Virgini
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122701:0602/pct:58.70024656569215,163.42557965594614,42.70870024656569,52.592869608576414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122701:0602/pct:19.563303398485647,54.468403340396364,14.233726595057815,17.528771448751506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30781,7 +30781,7 @@ QuALiFiCATION OF VOTReS.
 twenty one years, who has been a res dent of the State for two  
 years, and of the county, city or town where he offers to vete, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122701:0602/pct:59.01725959845016,231.8997756170531,42.70870024656569,18.972824731987036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122701:0602/pct:19.668955802077832,77.29029041505672,14.233726595057815,6.32348664256928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30806,7 +30806,7 @@ monwealth, the distribut on and apportionment whereof shall re
 main as now provided by 1w until a re appertionment of the  
 same shall be made by the General Atsemby, as hercinafter pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122701:0602/pct:59.175766114829166,41.21166791323859,86.77351179992955,242.4956369982548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122701:0602/pct:19.721782003873923,13.735510407578213,28.919410694371074,80.82180398022352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30846,7 +30846,7 @@ manner afore tald. This rotation shall be applied to each class
 accoroiing to its number, and continued in due order annually.  
 5. Epr the election of Senators the districts shall remain as no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122701:0602/pct:102.18386755899965,56.09573672400897,43.76541035575907,26.414859137372225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861122701:0602/pct:34.055291424546574,18.69624828617724,14.585901273698422,8.803855581868794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30913,7 +30913,7 @@ should be spredily adopted, and in teomphance wih the recom­
 mendation o&#x27; the general Congress, ordain and declare a form of  
 goveroment of Virgnla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861123101:0614/pct:57.859765693303025,160.18552875695732,42.45497464591712,51.366728509585656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861123101:0614/pct:19.283216783216783,53.38857284194905,14.14918414918415,17.120125319482234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30962,7 +30962,7 @@ according to its nutiber, and continued in due order annually.
 5, For the election of Senators the districts shall remaln as now  
 arranged antil representation in the two Hou es shall be re-ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861123101:0614/pct:102.13324007693653,45.083487940630796,42.55988809232383,35.188620902906614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861123101:0614/pct:34.03846153846154,15.025970813752163,14.184149184149184,11.72808970236623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -30988,7 +30988,7 @@ the extou ive depar ment upon any subject relating to the dutles
 of their respective offices; and may a so require the opinien in  
 writing of the Attorney General upon any question of law co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861123101:0614/pct:146.0919741213499,217.4025974025974,43.13691204756076,11.886209029066173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861123101:0614/pct:48.68881118881119,72.45857036853822,14.376456876456876,3.961579685052354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31039,7 +31039,7 @@ military independent of, and superior to, the
 us to a foreign jurisdiction, giving his assent to  
 £he:r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861123101:0364/pct:56.590761223162005,70.34169005904559,12.778139232270657,16.029425999419225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861123101:0364/pct:56.59943613099111,70.34814312909367,12.78681414009976,16.0358790694673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31074,7 +31074,7 @@ recommendation of the general Congress, ordain
 and declare a form of government of Virginia.  
 2. And, Whereas, a Convention held on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861123101:0364/pct:56.590761223162005,4.452618333172007,26.011711125569292,92.5079856741845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861123101:0364/pct:56.59943613099111,4.452618333172007,26.00737367165474,92.51121220920854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31097,7 +31097,7 @@ Delegates, and shall consist of one hundred and
 fifty two members, to be chosen annually for and  
 by tbe several counties, cities and town*/.: th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861123101:0364/pct:69.7462589459987,46.355628690349434,12.791151594014314,4.017036104926919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861123101:0364/pct:69.75493385382781,46.355628690349434,12.78681414009976,4.026715709999032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31143,7 +31143,7 @@ tation shall be applied to each class according to
 its number, and continued in due order annually.  
 4 For the election of Senators, the Distric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861123101:0364/pct:69.8373454782043,58.513212660923436,12.739102147039688,13.45465105023715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861123101:0364/pct:69.8373454782043,58.51966573097151,12.747777054868791,13.457877585261189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31213,7 +31213,7 @@ government ofiirgn&#x27;a
 And wher eas, a conyention he&#x27;d on the first Mon isy in octo­  
 ber, in the yeak ore thousa dicight hundred and twenty-nine, did
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010301:0015/pct:61.41647143629483,171.36210907211165,44.56658857451793,57.00439390023262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010301:0015/pct:20.46846846846847,57.11332213464272,14.852852852852854,18.999009346599475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31246,7 +31246,7 @@ th il be qualtsed to vote for members of the General Arsembly
 and all efficers elected by the people; but no person in the mill­  
 tary, naval or marine service of the Confederate States shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010301:0015/pct:61.57866282213011,245.83871801499095,44.134078212290504,21.026104936676145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010301:0015/pct:20.52252252252252,81.93565060085282,14.70870870870871,7.007796011543266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31275,7 +31275,7 @@ The General Assemb&#x27;y shall have powor, upon application of a
 malority of the yoters of the county of Ga opbll, to provide that  
 instead of the two delegates to be elected by said
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010301:0015/pct:61.41647143629483,41.212199534763506,89.49360245089206,253.9545102093564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010301:0015/pct:20.46846846846847,13.735624757720636,29.825825825825827,84.64056510315717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31316,7 +31316,7 @@ manner afore ald. This rotation shall heapplied to each, class
 according to its number, a ad continuedl due ordar annually.  
 5. For the election of Senators the districts shall remain as no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010301:0015/pct:106.93818706073166,57.495476867407596,44.404397188682644,28.78004652364952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010301:0015/pct:35.63963963963964,19.162682517121077,14.7987987987988,9.592109230305379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31334,7 +31334,7 @@ mia, and be attested thy the clerks of the several courts. Indict
 ments shall conclude &quot;against the peace and dignity of the Com  
 monwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010301:0015/pct:197.65723553793475,181.90746963039544,44.458460983961075,4.122512277074179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010301:0015/pct:65.87387387387388,60.627988112159194,14.816816816816816,1.3739931946418573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31402,7 +31402,7 @@ hould be speenlly adepted, and in compllance with the recom
 dation of the general Congress, ordain and declare a form of  
 goverament of Virgini
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010701:0027/pct:55.79399141630901,165.2920081967213,42.61444921316166,54.22643442622951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010701:0027/pct:18.594671911317718,55.09028044563965,14.202276655342988,18.07316344388953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31434,7 +31434,7 @@ te Every white male cit zen of the Commonwealth, of the age of,
 twenty one years, who has been a rendent of the State for two  
 ears, and of the connty, elty or tewn where he offers to vete, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010701:0027/pct:55.79399141630901,236.33452868852459,43.36552217453505,19.49282786885246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010701:0027/pct:18.594671911317718,78.76808810347036,14.452589546456881,6.496777222862509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31469,7 +31469,7 @@ manner afore aid. This rotation shall be appiled to each class
 according to its number, and continued in due order annually.  
 5. For the election of Senators the districts shall remain as no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010701:0027/pct:100.0,61.01434426229508,43.794706723891274,21.567622950819672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862010701:0027/pct:33.32737350259253,20.33551030861826,14.595625484236248,7.188287019251291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31521,7 +31521,7 @@ complete the work of death, desolation, and tyr­
 anny, then already begun, with circumstances of  
 cruelty and perfidy unworthy the bead of a civil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862010701:0014/pct:82.74872864780285,80.63210637887839,12.935193636719259,16.361534014260936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862010701:0014/pct:82.75307515104099,80.6385302241922,12.939540139957405,16.358322091604034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31549,7 +31549,7 @@ bo speedily adopted and in compliance with the
 recommendation of the general oongre*., ordain  
 and declare a form of srovernnieut of Virginia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862010701:0015/pct:4.407354283478941,4.567354018115243,12.987351675576999,6.44632877240316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862010701:0015/pct:4.416047289955231,4.567354018115243,12.978658669100708,6.449540695060063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31588,7 +31588,7 @@ shall remain as now arranged, umil representa­
 tion in the two Houses shtli bo reapportioned in  
 the manner provided iv this Constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862010701:0015/pct:4.968053201199635,62.410869146270954,12.726561481288304,10.46444401618809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862010701:0015/pct:4.968053201199635,62.410869146270954,12.735254487764593,10.470867861501896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31609,7 +31609,7 @@ ticularly direct, to grant reprieve* and pardons after
 oe shall oommumcute to the General Assembly, at  
 each session, the particulars of every ease ot fine o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862010701:0015/pct:31.203546746642328,64.53073809982655,12.674403442430565,2.6209288880323762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862010701:0015/pct:31.212239753118617,64.53716194514035,12.67005693919242,2.6241408106892785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31658,7 +31658,7 @@ ements of forfeiture and conflrcation; by prompting our negrees
 to rise in arms among us--those very negroes, whom, by an in­  
 human use of his negative, he had
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011001:0039/pct:54.4718373222962,164.50621237351095,45.42019075040489,35.90367618803638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011001:0039/pct:18.15401223461677,54.82838114754098,15.13733957058894,11.966359289617486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31678,7 +31678,7 @@ should be spredily adopted, and in compliance with the recom
 mendation of the general Congress, ordain and declare a forta of  
 government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011001:0039/pct:55.659528522584125,212.50160112719354,44.124527622818064,6.045856282823108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011001:0039/pct:18.54983807124865,70.82479508196721,14.705529566990524,2.0150273224043715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31699,7 +31699,7 @@ ly belonging to either of the others; nor shall ary person exer­
 cise the powers of more than one of them at the same time, except  
 that iustices of the peace shall be eligible to either House af As
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011001:0039/pct:55.983444304480834,242.09043166389137,43.152780277127945,6.891251441014474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011001:0039/pct:18.657790572148254,80.68647540983606,14.381672064291712,2.296789617486339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31725,7 +31725,7 @@ monwe alth, the cletribution and apportionment whereof shall re
 main as now proveded by ltw unill a re apportienment of the  
 same shall be made by the General Arsemby, as hertinafter pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011001:0039/pct:54.2558934676984,39.7719994876393,90.22854057944934,249.3275265787114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011001:0039/pct:18.0820439006837,13.25563524590164,30.070768861700852,83.09853142076503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31765,7 +31765,7 @@ manner afore said. This rotation shall be applied to each class
 according to its number, and continued in due order anqually.  
 5. For the election of Senators the districts shall remain as now 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011001:0039/pct:100.46787835162857,54.066863071602405,45.09627496850819,27.718713974638145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011001:0039/pct:33.483267362360564,18.01997950819672,15.029387069689337,9.238387978142077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31783,7 +31783,7 @@ nia, and be attested thy the clerks of the several courts. Indict­
 ments shall conclude &quot;against the peace and dignity of the Com  
 monwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011001:0039/pct:191.704156919201,178.03253490457283,42.666906604282886,3.932368387344691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011001:0039/pct:63.889888449082406,59.33657786885246,14.219743312942306,1.3106215846994536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31851,7 +31851,7 @@ thau&#x27;d be speedily adopted, and in compliance with the recom­
 mendatien of the general Congress, ordain and declare a form of  
 Government of Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011401:0051/pct:61.44512857660268,164.20395421436004,44.62151394422311,55.267950052029136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011401:0051/pct:20.478001086366106,54.72753283912082,14.871144909167723,18.42025404257164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31884,7 +31884,7 @@ QuAITSICATIMN Of VOTaRS.
  twenty one years, who has been a resident of the Stats for two  
 years, and of the county, city or town where he offers to rate, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011401:0051/pct:61.60811300253531,236.0041623309053,44.730170228178196,20.460457856399582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011401:0051/pct:20.53231939163498,78.65782286383144,14.907357112680307,6.819265617548879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31906,7 +31906,7 @@ Nouse of Dlegafes.
 conist of one hundred and aifty two memubars, to be choien annu­  
 aly, far and by the several countler, cities and towas of the Co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011401:0051/pct:62.966316551973925,36.64151925078044,87.97537124230351,254.2013527575442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011401:0051/pct:20.984971935542276,12.212251268045259,29.319814110688636,84.72276412190575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31951,7 +31951,7 @@ manner afore sald. This rotation shall be applied to each class
 according to its number, and continued in due order annually,  
 . For the election of Senators the districts shall remain as no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011401:0051/pct:106.70047084389714,47.45057232049948,44.67584208620065,32.98647242455775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011401:0051/pct:35.56038384935724,15.814800364156588,14.889251010924015,10.994060779468505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -31969,7 +31969,7 @@ nia, and be attested tby the clerks of the several courts. Indict­
 ments shall conclude &quot;against the peace and dignity of the com  
 monwealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011401:0051/pct:198.8409996378124,178.01768990634756,42.937341542919235,4.071279916753382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn86071866:0041418473A:1862011401:0051/pct:66.26833242802824,59.331512550396674,14.309855754722674,1.3569168075605844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32042,7 +32042,7 @@ complete the work of death, desolation, andtyr
 army, then already begun, with circumstances ot  
 cruelty and perfidy unworthy the head of a civtj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862011401:0016/pct:82.07067414265224,71.99845827712468,13.104707263006912,24.956639044131816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862011401:0016/pct:82.07502064589038,72.00167019978159,13.104707263006912,24.963062889445624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32071,7 +32071,7 @@ recommendation of the general Congress, ordain
 and declare a form of government of Virginia.  
 2. And, Whereas, a Convention held on the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862011401:0017/pct:4.289998696049029,4.808248217382926,12.935193636719259,6.831759491231451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862011401:0017/pct:4.289998696049029,4.811460140039828,12.939540139957405,6.841395259202159/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32128,7 +32128,7 @@ tation shali be applied to each class according to
 its number, and continued in due order annually.  
 4. For the election of Senators, the Distric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862011401:0017/pct:4.472551832051115,53.757949508575834,12.869996088147087,18.1730583927539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862011401:0017/pct:4.47689833528926,53.76437335388964,12.874342591385231,18.176270315410804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32152,7 +32152,7 @@ cancies; but if vacancies shall occur during the recess
 of the General Assembly, sqcb writs may be issued by  
 the Governor under such regulations as may be pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862011401:0017/pct:17.61637762420133,33.48429369820775,12.687442952145,3.738677972634419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862011401:0017/pct:17.620724127439473,33.490717543521555,12.687442952145,3.7322541273206142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32180,7 +32180,7 @@ office aud disqualification to hold or enjoy any cilice
 of honor, triptl, or profit unoer the Commonwealth;  
 uut the party convicted shall nevertheless be subjec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862011401:0017/pct:17.629417133915766,72.86567739448834,12.752640500717174,5.212950472152631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862011401:0017/pct:17.638110140392055,72.86888931714525,12.752640500717174,5.2193743174664355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32274,7 +32274,7 @@ recommendation of the general Congress, ordain
 and declare a form of government of Virginia.  
 2. And, Whereas, a Convention held on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862012101:0019/pct:3.624983700612857,5.020235112738486,25.739992176294173,92.25284255155135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862012101:0019/pct:3.6336767070891467,5.023447035395388,25.73129916981788,92.26247831952206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32297,7 +32297,7 @@ Delegates, and shall consist of one hundred a*d
 fifty two members, to be chosen annually for and  
 by the several counties, cities and townsjof th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862012101:0019/pct:16.89920458990742,46.60820967431104,12.765680010431607,3.989207939872808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862012101:0019/pct:16.89920458990742,46.614633519624846,12.774373016907898,3.9924198625297103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32348,7 +32348,7 @@ tation shall bo applied to each class according to
 its number, and continued in due order annually.  
 4 For the election of Senators, the Distric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862012101:0019/pct:16.87312557047855,56.46560030834458,12.778719520146042,15.696666024282136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862012101:0019/pct:16.877472073716696,56.46560030834458,12.774373016907898,15.70308986959594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32377,7 +32377,7 @@ of the Geueral Assembly, such writs may be issued by
 the Governor under such regulations as may be pre­  
 scribed by law. Each House shall judge of the elec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862012101:0019/pct:29.899595775198854,32.125650414338025,12.66136393271613,5.559838119098092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862012101:0019/pct:29.899595775198854,32.125650414338025,12.67005693919242,5.566261964411897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32398,7 +32398,7 @@ conviction, and to commute capital punishment; but
 he shall communicate to the General Assembly, at  
 each session, the particulars of every case of fine o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862012101:0019/pct:43.199895683922286,65.05106957024475,12.609205893858391,2.6305646560030835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1862012101:0019/pct:43.20424218716043,65.05428149290165,12.609205893858391,2.636988501316888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32473,7 +32473,7 @@ Xr?zhosh very negroes, whom, by an inbernau.
 ^33 of his negstiv^, be had refused us peralai&#x27;OG  
 to exclude by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862022501:0311/pct:84.70746469401479,76.38603696098562,13.893745796906524,16.847560379387893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862022501:0311/pct:84.71194799372338,76.39255565333595,13.89822909661511,16.847560379387893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32492,7 +32492,7 @@ of election for supplying intermediate vacanci--;
 but if vtamcii- shall occur during the recess  
 of the Gener-.l Assembly, such writs ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862022501:0312/pct:38.05721889554225,32.97265394452095,12.947438456420493,2.4198308085776117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862022501:0312/pct:38.05721889554225,32.97921175159027,12.951874029718342,2.4231097121122698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32522,7 +32522,7 @@ $ &#x27;i|j be speediiy adopted, and in compliance with
 * ;||? the recommendation of the General Cocgre??,  
 j &#x27; lpi ordain and declare c foriu of government o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862022501:0314/pct:-0.13308490817141336,3.829493994880882,14.226776683524088,7.422721008072455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862022501:0314/pct:-0.13752107177712714,3.829493994880882,14.235649010735516,7.429283979786047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32546,7 +32546,7 @@ of Assembly,
 Mr. ??tcr.?My idea is that it ia, perhaps,  
 better not to ttko the vote upon each section
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862022501:0314/pct:0.6388075592227841,32.60484347312463,13.508118179398457,4.804095294349281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1862022501:0314/pct:0.6476798864342117,32.611406444838224,13.499245852187029,4.804095294349281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32610,7 +32610,7 @@ Ruler of the Universe for the rectitude of
 onbehelf of lhe good people of Virginia,  
 solemnly declare that the preservation o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862060401:0518/pct:70.02595155709342,50.44650674137629,13.47318339100346,5.883382945193486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn84026845:00202190698:1862060401:0518/pct:70.04217128027682,50.45088425844861,13.483996539792388,5.896515496410436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32734,7 +32734,7 @@ been brought into the Colony as slaves.
 This was the sentiment of the feunders of the  
 &quot;Old Dominlon,&quot; and it has been virtuall ondorse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184765:1865041401:0192/pct:97.69325153374233,248.903053661429,66.13496932515338,19.226208123332345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184765:1865041401:0192/pct:32.556427870461235,82.95538757966504,22.039581288845273,6.407786176572304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32767,7 +32767,7 @@ provision that—
 bers for both houses shall remain as exercised at  
 present.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525206:1865071401:0296/pct:15.149020253581426,18.242143483160135,11.098303968384654,3.643420558407412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525206:1865071401:0296/pct:15.146526177148502,18.239859789684527,11.100592690154757,3.6460941412118175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32879,7 +32879,7 @@ Sec. 2. A school or , schools shall be established by the
 General Assembly, for the convenient instruction of youth,  
 with such salaries to the masters, paid by the public, as ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866070301:0189/pct:60.62653562653563,90.71974365294552,26.904176904176904,7.887601676115356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042146:00296022822:1866070301:0189/pct:45.483870967741936,68.04288883411388,20.18433179723502,5.915701257086517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32907,7 +32907,7 @@ General Assembly, for the convenient instruction of youth,
   
 with such salaries to the masters, paid by the public, as may
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1866070401:0111/pct:6.002824858757062,70.47096934961375,26.20056497175141,7.513082481933716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn85042148:00296022676:1866070401:0111/pct:4.503708936771459,52.85322701221032,19.657364888731898,5.64415649140294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32935,7 +32935,7 @@ ters, paid by the public, as may enable thrm to
 instruct at low prices; and all useful learning  
 shali be duly encouraged and promoted in one o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1866070501:0549/pct:65.05511022044088,61.39472163359661,20.090180360721444,7.551531496821422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1866070501:0549/pct:48.80370787924339,46.050857252937774,15.069522735813603,5.6636486226160665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -32996,7 +32996,7 @@ For taking away our charters, abol­
 ishing our most valuable laws, and al­  
 tering fundamentally the forms of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1867041101:0259/pct:30.387596899224807,248.48172928461142,66.74418604651163,40.40144107050952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1867041101:0259/pct:7.599844901124467,62.120432321152855,16.692516479255527,10.10036026762738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33029,7 +33029,7 @@ most valuable laws, and altering fundamentally,
 the forms of our Governments;  
 &#x27;or suspending our own legislatures, and decla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1867041801:0274/pct:233.1578947368421,94.76001761338617,51.666666666666664,30.295024218405988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1867041801:0274/pct:58.3022592673832,23.690004403346542,12.919499890326826,7.573756054601497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33132,7 +33132,7 @@ ofthe general Congress, ordain and de-­
 lare a form of government of Virginia;  
 and whereas a Convention held on the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868012501:0095/pct:91.61482282932107,96.5022091310751,41.520151474168244,102.89027982326951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868012501:0095/pct:30.538274276440358,32.167403043691706,13.840050491389414,34.29675994108984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33170,7 +33170,7 @@ mute capital punishment; bat he shall
 communicate to the General Assembly at  
 each session the particulars of every cas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868020401:0127/pct:47.8290274584066,117.54710011082379,40.890031110509945,35.29737717029922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868020401:0127/pct:15.943009152802201,39.18236670360793,13.63001037016998,11.765792390099742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33194,7 +33194,7 @@ ginia, and be attested by the Governor,
 with the seal of the Commonwealth an­  
 nexed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868020701:0139/pct:89.05492730210017,196.76793794440854,40.75121163166398,14.839782066672823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868020701:0139/pct:29.68497576736672,65.58931264813617,13.583737210554657,4.946594022224274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33217,7 +33217,7 @@ of the Commonwealth annexed.
 8. Every bill which shall have passed the l  
 Senate and House of Delegates, and every res- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868021101:0031/pct:43.4044809757391,5.2250489236790605,13.31035397056874,3.6301369863013697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868021101:0031/pct:43.4044809757391,5.2250489236790605,13.31919218701666,3.6366601435094585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33242,7 +33242,7 @@ direct writs of election for supplying inter.­
 mediate vacancies; but if vacancies shall  
 occur during the recess of the Genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868033101:0320/pct:88.88278891023882,253.42778793418648,42.025802909689816,16.389396709323584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868033101:0320/pct:29.62759630341294,84.47592931139549,14.008600969896605,5.4631322364411945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33262,7 +33262,7 @@ of the several courts. Indictments shall con­
 clude against the peace and dignity of the Com  
 nionwcalth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868033101:0058/pct:69.89261567015777,72.1464324271273,12.634230412302797,2.649916576700363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868033101:0058/pct:69.89703477838172,72.14970392907384,12.634230412302797,2.6564595805934506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33334,7 +33334,7 @@ dain and declare a form of government of Vir-­
 ginia:  
 And whereas a convention held on the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868041801:0386/pct:1.595527069412246,73.59540313754104,41.90645029319514,66.04341481211237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868041801:0386/pct:0.5318423564707486,24.531801045847015,13.968816764398381,22.014471604037457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33354,7 +33354,7 @@ longing to either of the others; nor shall any
 person exercise the power of more than one of  
 them at the same time, except as hereinafte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868041801:0386/pct:43.03831992363289,117.44801167457132,42.670121369153144,7.342210871944546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741947:1868041801:0386/pct:14.346106641210964,39.149337224857106,14.223373789717714,2.4474036239815153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33386,7 +33386,7 @@ and oi&#x27;the county, city or town in which he !jh
 shall offer to vote, three months next preceding  
 any election, shall be entitled to vote upon 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663626:1868042101:0584/pct:50.96544715447155,54.07953376756942,17.327235772357724,9.196091875214261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ellis_ver01:data:sn85025007:00415663626:1868042101:0584/pct:50.96544715447155,54.07953376756942,17.335704607046072,9.20180550794195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33408,7 +33408,7 @@ longing to either of the other; nor shalj any
 person exercise the power of-more than&quot; &#x27;one&#x27; of  
 them at the same time, except as hereinafte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868050501:0078/pct:17.33033470035719,58.048636408388305,12.647175552321736,3.9578615732992026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868050501:0078/pct:17.334744454733872,58.048636408388305,12.647175552321736,3.9709888090315384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33433,7 +33433,7 @@ priving ns, in many case&#x27;, of &#x27;the benefit of
   
 trial by jury ; for abolishing the free sys
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293381:1868070401:0018/pct:38.382953882078226,50.41560456610883,14.14185639229422,3.369167682588939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293381:1868070401:0018/pct:28.802919708029197,37.81447412168902,10.613138686131387,2.5268757619417044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33524,7 +33524,7 @@ General Congrese, crdain and declare a
 form of government of Virginia:  
 And whereas a convention held on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869051801:0485/pct:5.968152013916767,41.90380025702221,41.455907935233505,119.02882320543418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869051801:0485/pct:1.9893840046389224,13.967933419007405,13.81863597841117,39.6762744018114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33552,7 +33552,7 @@ more than one of them at the same time,
 except as hereinafter provided.  
 ARTICLE III
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869051801:0485/pct:47.46420446942326,219.65302001101523,40.907266158169406,19.34092160822471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869051801:0485/pct:15.821401489807752,73.21767333700508,13.63575538605647,6.446973869408237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33576,7 +33576,7 @@ ral courts. Indictments shall conclude
 monwealth.&quot;  
 ARtICLE VII
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869051801:0486/pct:49.63861993726987,150.22079116835326,41.41551888722215,14.664213431462741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869051801:0486/pct:16.546206645756627,50.073597056117755,13.805172962407383,4.8880711438209135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33609,7 +33609,7 @@ writs may be issued by the Governor, un-
 der such regulation as may be pres thed  
 by law. Each House shall juige of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1869070901:0203/pct:109.36619718309859,291.632597437994,43.66197183098591,30.962115017716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn85026955:0020029354A:1869070901:0203/pct:27.355997886207504,72.9081493594985,10.921261229522635,7.740528754429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33632,7 +33632,7 @@ belonging to either of the others ; nor shall
 any person exercise the power of more than  
 one of them at the same time, except a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1870021101:0294/pct:26.30876958986329,69.63687870203451,11.387129043014339,4.403811485964461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1870021101:0294/pct:26.30438406401067,69.62791296510879,11.38939823303884,4.406463241920948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33659,7 +33659,7 @@ attested by clerks of the several courts,—
 Indictments shall conclude against the peace  
 and dignity of the Common wealth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1870021101:0294/pct:73.79126375458486,54.365181560648985,11.487162387462487,6.515580736543909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349499:1870021101:0294/pct:73.77896316052676,54.35818205227243,11.489414902483746,6.5179606025492465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33706,7 +33706,7 @@ justices of the peace shall be eligible to
 the legislature.  
 ARTICLE VI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1872041901:0444/pct:47.063530164826375,56.91908825753484,14.258281325012002,5.779410176082965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1872041901:0444/pct:47.056,56.91294015986174,14.261333333333333,5.782386404551019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33742,7 +33742,7 @@ the provisions hereinafter contained.
 3. Senators shall be elected for the term of j  
 four years, aud delegates for the term of two 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1872042001:0257/pct:31.78576626400815,32.24145486415425,12.894775141900743,11.360648553900088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186993:1872042001:0257/pct:31.78114086146682,32.237923102201776,12.897749320915793,11.363055464271369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33765,7 +33765,7 @@ insupportable tyranny, by patting h:e
 negative on laws the most wholesome  
 and necessarv for the public gc od/&#x27; A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665179:1873070801:0027/pct:50.800176185582146,82.14674504681037,11.877844663045074,4.811669932505987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665179:1873070801:0027/pct:50.800176185582146,82.15400246752304,11.887632750942103,4.811669932505987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33783,7 +33783,7 @@ eovernment of this country as formerly
 exercised under the crown of Great  
 Britain, is totally dissolved.&quot; The sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665179:1873070801:0027/pct:50.9176332403465,86.75157848900501,11.745705476435178,2.2534291312867407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665179:1873070801:0027/pct:50.9176332403465,86.75157848900501,11.755493564332207,2.25705784164308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33812,7 +33812,7 @@ Great Britain, and imbued aa they
 were with the doctrine that Parliament  
 or the Legielative Department wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665179:1873070801:0027/pct:50.90295110850096,10.494230350533421,23.682278666862427,86.16372741127803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665179:1873070801:0027/pct:50.90784515244947,10.494230350533421,23.682278666862427,86.16735612163437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33861,7 +33861,7 @@ in which cases no reprieve or pardon
 House of Delegates.&quot;  
 The Chief Execute officer ol th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665179:1873070801:0027/pct:62.575245925708415,30.209013716525146,11.921891058581705,18.147180492053124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665179:1873070801:0027/pct:62.585034013605444,30.216271137237825,11.916997014633191,18.147180492053124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -33896,7 +33896,7 @@ spective county courts.
 It will thus be seen that the legisla­  
 tive department was the representativ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665179:1873070801:0027/pct:62.50183526648069,56.96712388417156,11.921891058581705,10.43979969518833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665179:1873070801:0027/pct:62.50183526648069,56.97438130488425,11.931679146478736,10.443428405544669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -34057,7 +34057,7 @@ its own proceeding, and direct writs of election
 for supplying intermediate vacancies; but if  
 vacancies shall occur during the recess of the gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883122501:1231/pct:84.58874458874459,314.1801853997683,57.22943722943723,6.851100811123986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883122501:1231/pct:21.160927008880225,78.54504634994207,14.316655837123673,1.7127752027809966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -34081,7 +34081,7 @@ the members present tto any part whereof any
 member may enter his dissenth to be laid before  
 the General Assembly when called for by them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00175030852:1884020101:0122/pct:132.11285465208434,32.25668905233984,40.37089871611983,11.629890203603027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00175030852:1884020101:0122/pct:44.03761821736144,10.752229684113278,13.45696623870661,3.876630067867676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -34307,7 +34307,7 @@ Other portions of the Constitution, us
 we have seen, not only provide that the  
 Legislative department of the governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889031301:0247/pct:33.07075732448867,57.598939208486335,10.295743504698729,5.0591595267237865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889031301:0247/pct:33.06618764681498,57.59306476287608,10.298926811293814,5.0620431752507224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -34400,7 +34400,7 @@ ter to Lord Baltimore, and confessed
 it to the only original measure de­  
 scriptive of their territory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1892011601:0812/pct:22.477309129738387,42.411077925604125,10.233137568962448,16.94270974748846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1892011601:0812/pct:22.473309608540927,42.40532102619791,10.23576512455516,16.94380344780779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -34454,7 +34454,7 @@ measure descriptive of their terri­
 tory.  
 The State of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340586320:1892012901:0042/pct:4.679958027282266,47.68585478738791,17.75445960125918,32.10876482499277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340586320:1892012901:0042/pct:3.637842233667661,36.96383201315199,13.754404987801573,24.89164549394709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -34544,7 +34544,7 @@ South Carolina are hereby ceded,
 released and forever contirmed to  
 the people of those colonies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588332:1893040601:0113/pct:81.81818181818181,98.15774323546344,17.660550458715598,5.555555555555555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588332:1893040601:0113/pct:63.41502827901966,76.07733779512921,13.692431995690816,4.305633017289459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -34663,7 +34663,7 @@ measure descriptive of their terri­
 tory.  
 The State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:0034058854A:1894030101:0070/pct:105.43598846239183,29.000150806816468,17.927668071888174,30.80983260443372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:0034058854A:1894030101:0070/pct:81.72647025106042,22.47545582047686,13.894302418892583,23.8857721676796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -34711,7 +34711,7 @@ Indian natives; but on behalf of
 the public by authority of the Gen­  
 eral Assembly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:0034058854A:1894041201:0111/pct:48.14895947426068,31.083108310831083,18.159912376779847,26.927692769276927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:0034058854A:1894041201:0111/pct:37.321034463244864,24.093163850565805,14.090883368230434,20.872732909626414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -34731,7 +34731,7 @@ and all improvemerts which have or will
 be made thereon.&#x27; By the compact of 1785  
 Maryland assented to this, and declare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:0028065498A:1895012501:0287/pct:43.16436251920123,19.62854598651571,13.841952551629971,2.6078107111054574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:0028065498A:1895012501:0287/pct:43.17716333845366,19.638086757409997,13.837685611879161,2.6078107111054574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -34796,7 +34796,7 @@ several courts. Indictments shall con
 clude, &quot;Against the peace and dignity of  
 the Commonwealth.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_whitesnake_ver01:data:sn85034438:00175049332:1896031501:0544/pct:165.13061820541944,133.7391304347826,39.23413921791335,13.507246376811594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_whitesnake_ver01:data:sn85034438:00175049332:1896031501:0544/pct:55.04353940180648,44.57971014492754,13.078046405971119,4.502415458937198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1847,7 +1847,7 @@ from Alexandria, less from the City and
 George Town and not more than three  
 from the Great Falls of Potomac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802083001:0337/pct:48.28431372549019,76.96779551536403,20.58823529411765,7.991141459813601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802083001:0337/pct:48.27691836422117,76.96069385495478,20.59018736917343,7.993479731807836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1878,7 +1878,7 @@ ling nort vt ith more ease and an asmailcr
 : ex tnsfct, than that which is transi&#x27;þorted on.  
 ly 30 miles&#x27; oy land.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802083001:0337/pct:70.40441176470588,17.181876903201992,21.721813725490197,11.488419304235489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802083001:0337/pct:70.39362842701792,17.180291566709727,21.72359217848573,11.490434889586025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1902,7 +1902,7 @@ the Year 1754, wassought. -
 One other tract on the Mo­  
 lsawk river, State ofNesquerk, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802083001:0337/pct:70.89460784313725,41.819691796622685,20.72610294117647,8.22183261050106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802083001:0337/pct:70.88374942563945,41.81583317955342,20.728033900035737,8.224149597096636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1930,7 +1930,7 @@ ping port with more ease and at a smaller
 I expenie, than that which is transoortcd on.  
 I ly 30 miles by land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090301:0346/pct:52.89399182132746,43.277501131733814,21.909405473419316,11.190583974649163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090301:0346/pct:52.885673848089326,43.27358319753757,21.911201970959794,11.192588569014424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1958,7 +1958,7 @@ theyear 1754, was l ight.
 One other tract on the Mo­  
 hawk river, State ofNew-York, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090301:0346/pct:53.27146901541365,64.01086464463557,21.32746146586977,11.570846536894523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090301:0346/pct:53.26309168108193,64.00506970849176,21.329349478429524,11.572816705896553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1996,7 +1996,7 @@ Bath, or -Warm Springs.
 Two well sicuated lots, on one of them.  
 is a small building large. enuugh toaccoms
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090301:0346/pct:52.89399182132746,5.9393390674513356,44.558037118590754,91.69760072430964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090301:0346/pct:52.885673848089326,5.938801376063734,44.556271950516326,91.69231697748808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2015,7 +2015,7 @@ ington, Alexandria and Geixge Town to
 3George Town and not more than three  
 from the Great Falls of Potomac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090701:0358/pct:54.725897920604915,14.5610278372591,20.170132325141775,3.8093091400879073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090701:0358/pct:54.71555471555472,14.559386973180077,20.172620172620174,3.812636165577342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2043,7 +2043,7 @@ ping pOrt with mzre ease and at :: smaller
 expensc, than that which is transportcd on.  
 7 30 amiss-5 by lznd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090701:0358/pct:55.12287334593573,41.64318719711484,20.170132325141775,10.830609714865322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090701:0358/pct:55.11245511245511,41.63849447825107,20.172620172620174,10.833145518743896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2079,7 +2079,7 @@ where the first action with the French, in
 the) car 1754, was tought.  
 One other tract on the M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090701:0358/pct:54.44234404536862,61.50118336526541,20.850661625708884,16.916488222698074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090701:0358/pct:54.43205443205443,61.49425287356322,20.853020853020855,16.91833821651266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2106,7 +2106,7 @@ leeshurgh and Winchelicr, nineteen miles
 &quot;George Town and not more than three  
 &quot;from the Great Fails of Potomac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090901:0362/pct:8.959673623097443,9.670409272002898,22.783618390083163,8.085838464324521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090901:0362/pct:8.958267963602134,9.669533725667723,22.78527350695534,8.08812433982194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2134,7 +2134,7 @@ ping port with more ease and a: a smailer &#x27;
 exPense, than that which is transported on.  
 ly 30 miles by land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090901:0362/pct:9.069512003765887,42.149583484244836,22.65808881217637,11.254980079681275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090901:0362/pct:9.06808911201757,42.14576731552739,22.659763623051983,11.25697902519994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2162,7 +2162,7 @@ where the first action with the French, in
   
 --
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090901:0362/pct:9.03812960928919,62.72183991307497,22.563941628746274,10.032596885186527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802090901:0362/pct:9.036711641041732,62.716161158895424,22.565631210124465,10.034706503696997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2186,7 +2186,7 @@ ss from Alexandria, less from the City and
 George &#x27;lown and not more than three  
 from the Great Falls of Potomac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802092201:0394/pct:54.29712460063898,10.955081465478441,22.33226837060703,7.840489693041678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802092201:0394/pct:54.288452323909915,10.954095409540955,22.334025448543898,7.8427842784278425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2214,7 +2214,7 @@ ping port wish more case and a: &amp; smaller
 CXanse, than thzit which is transpottcd on­  
 iy 30 miles by land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802092201:0394/pct:54.52076677316294,43.53227113151499,21.869009584664536,11.288144747502026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802092201:0394/pct:54.51205877655327,43.52835283528353,21.870840653782675,11.290129012901291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2232,7 +2232,7 @@ from Alexandria, less from the Citssy and
 George Town and not more&#x27; than three  
 from the Great_ Falls of Patomgc. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802092701:0398/pct:58.221830985915496,86.81414960026284,18.538732394366196,3.000766619209287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802092701:0398/pct:58.211582467875374,86.80464301357863,18.541336619139823,3.0040881880566506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2260,7 +2260,7 @@ ping part with more ease and at &amp; smailer
 expcm&#x27;e, than that which is tunsponed on..  
 ly 30 miles by lapd. s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802092701:0398/pct:77.74647887323944,27.182126820720622,18.433098591549296,10.601248494140838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802092701:0398/pct:77.7327935222672,27.17915024091108,18.435721410549785,10.603737771937508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2288,7 +2288,7 @@ the year 1754, was sought.
   
 ()ne uthcr Had on the Mo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802092701:0398/pct:77.6056338028169,46.59949622166247,18.327464788732396,10.031759938670463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802092701:0398/pct:77.59197324414716,46.59439334209374,18.330106201959747,10.034311578332604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2312,7 +2312,7 @@ she: in the commons oisiabooc snx acres.
 Bath, or Warm Springs.  
 Two well situated lots, on one of th: mc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802092701:0398/pct:77.57042253521126,71.5146205234914,18.345070422535212,8.049501697513964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802092701:0398/pct:77.55676817461715,71.50678931230837,18.347708736724755,8.052270404438604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2346,7 +2346,7 @@ expense, than tl at which is transported on­
   
 l)&#x27; 30 miles b) land.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100401:0422/pct:32.900297386132415,40.302760463045416,22.21004852089529,12.404274265360641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100401:0422/pct:32.895148669796555,40.299171934823256,22.211789254042774,12.406137773424748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2378,7 +2378,7 @@ One other traesst on the Mo­
   
 hawk river, State olssNew-Yet&#x27;k, contain­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100401:0422/pct:32.79073407419001,62.21727515583259,21.552668649240882,11.460373998219056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100401:0422/pct:32.785602503912365,62.211735375300506,21.55451225873761,11.462321550470424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2401,7 +2401,7 @@ lxciborgh and Winchcﬂcr, nineteen miicsis
 from Alexandria, less from the City and  
 George Town and not moresi thanssihse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100601:0430/pct:32.3875699671878,11.101398601398602,20.536575950588688,6.818181818181818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100601:0430/pct:32.38131995368583,11.100185731454168,20.53904541361122,6.821078699151462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2431,7 +2431,7 @@ ping port wish more ease and at a smaiier
 expense, than that Which is trani&#x27;ported on.  
 ly 30 miles by land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100601:0430/pct:32.348967380814514,41.67395104895105,20.845396641574986,10.500437062937063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100601:0430/pct:32.3427248166731,41.6693980115809,20.84780650971311,10.50293164354128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2452,7 +2452,7 @@ the year 1754, was sought.
 One other tract on the Mo­  
 hawk river, Statcos New-York, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100601:0430/pct:32.19455703532137,66.14947552447552,20.420768191468827,5.5725524475524475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802100601:0430/pct:32.18834426862215,66.1422484431334,20.42326000257301,5.575585418259951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2479,7 +2479,7 @@ from Alexandria, less from the City and
 George Town and not more than three  
 from the Great Falls of Poromac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101401:0458/pct:32.110236220472444,9.779123619522622,22.0,7.997862486640542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101401:0458/pct:32.105180286569045,9.778252738445097,22.001784495879914,8.00011874016683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2510,7 +2510,7 @@ ing rooo acres.
   
 In North XXsiest &#x27;iserr otry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101401:0458/pct:32.07874015748032,63.04773779836124,21.79527559055118,13.448521553259708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101401:0458/pct:32.07368918280586,63.04212307418292,21.7970923214192,13.450292397660819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2534,7 +2534,7 @@ from Alexandria, less from the City and
 Georve &#x27;lown and not more than three  
 srom the Great lfalls of Pocomac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0462/pct:54.802436357957205,10.728654447921324,21.724191785100736,8.126955744300401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0462/pct:54.79387882573392,10.72769533345253,21.72600458047054,8.129209130460694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2562,7 +2562,7 @@ ping port with more ease and at &amp; smalle:
 cxssvmse, than that wisiich is transported cn.  
 iy go tzziies by land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0462/pct:54.06840543495237,43.60303978542691,22.208339840699672,11.354492624050067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0462/pct:54.05996252342286,43.59914178437332,22.21007703518634,11.356457476607664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2595,7 +2595,7 @@ A__
   
 hawk river, State of New- York, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0462/pct:54.396376698422614,64.44345105051408,21.64610338903639,11.533303531515422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101501:0462/pct:54.38788257339163,64.43768996960486,21.647928378097024,11.535252398831874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2619,7 +2619,7 @@ Leeshurgh and Winchester, nineteen miles
 George &#x27;lown and not more than three  
 l from the Great Falls us Potomat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102101:0482/pct:52.460815047021946,10.030179300550328,22.413793103448278,7.962009586366057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102101:0482/pct:52.45259363736091,10.029289074287743,22.415504361907747,7.964261412384249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2647,7 +2647,7 @@ ping port with more ease and a: a smaller
 eitpense, than that which is transported on.  
 ly 30 miles by Land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102101:0482/pct:52.35109717868338,42.606071365169534,22.272727272727273,11.441505414521568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102101:0482/pct:52.34289296348535,42.60228987308068,22.274460638353446,11.443448418685838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2677,7 +2677,7 @@ where the first action with the French, in.
   
 ! \ !
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102101:0482/pct:52.35109717868338,63.40315995029292,22.586206896551722,10.05680809515356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102101:0482/pct:52.34289296348535,63.39753261737818,22.587891135140783,10.058873997810716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2711,7 +2711,7 @@ Bath, or Warm springs,
 Two well situated lots, on one of  
 has small building large enough to n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102101:0482/pct:52.35109717868338,5.4677791585300906,43.58934169278997,91.42552813775963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102101:0482/pct:52.34289296348535,5.4672938670453535,43.58773441989239,91.42037217833791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2738,7 +2738,7 @@ George Town and not more than three
   
 &#x27; from she Great Falls of Potomacsi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102301:0490/pct:54.22901244290439,8.986666666666666,22.649236100173255,8.053333333333333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102301:0490/pct:54.22047244094488,8.985867922851302,22.650918635170605,8.055580244718987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2766,7 +2766,7 @@ pinss port with more ease and at a smaller
 expense, than that which is tra nsported on­  
 ly 30 miles oy land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102301:0490/pct:54.04000630020476,41.76888888888889,22.208221767207434,11.466666666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102301:0490/pct:54.031496062992126,41.76517642876189,22.20997375328084,11.468610197612064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2795,7 +2795,7 @@ One other tract on the Mo­
 hawk river, State olsiNew-Yt-&gt;rk, contain.  
 ing rooo acres. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102301:0490/pct:54.11875885966294,62.63111111111111,22.019215624507797,12.497777777777777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102301:0490/pct:54.110236220472444,62.625544396053684,22.020997375328083,12.499629662548514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2819,7 +2819,7 @@ from Alexandria, less from the City and
 George-. Town and not more than three  
 from the Great Falls of Focomae
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102601:0498/pct:55.70793180133432,11.333407846205432,19.977761304670125,7.49972057672963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102601:0498/pct:55.6976097832129,11.332141260616897,19.980235933543327,7.502607659067203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2860,7 +2860,7 @@ the year 1754, was taught.
 One other traet on the Mo­  
 hawl; river, State of New.York, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102601:0498/pct:55.819125277983694,52.632167206884986,19.996293550778354,20.00670615848888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102601:0498/pct:55.808782657031685,52.62628520339741,19.998764745846458,20.008195499925495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2884,7 +2884,7 @@ Leeshurgll and Winchester, nineteen miles
 George Town and not more than thrcel  
 from tsize Great Falls of Pocomac.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102701:0502/pct:53.93968103584399,9.12888888888889,22.974893415442917,7.937777777777778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102701:0502/pct:53.931165140511524,9.128077504221848,22.97652878644353,7.94003495985542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2912,7 +2912,7 @@ ss tion ofthe Potomac} be brooght toa ship. ss
 i cxpense, than that Which is transpotted on.  
 ? ly 30 miles by land. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102701:0502/pct:53.93968103584399,41.635555555555555,22.974893415442917,11.44/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102701:0502/pct:53.931165140511524,41.631854946227,22.97652878644353,11.441945901105086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2946,7 +2946,7 @@ the year 1754, was sought.
 One other tract on the Mo­  
 hawk river, State of New-Yolk, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102701:0502/pct:53.93968103584399,61.39555555555555,22.327490920574768,12.693333333333333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102701:0502/pct:53.931165140511524,61.39009865789708,22.329228502262918,12.695167836933013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2975,7 +2975,7 @@ with a good post and rail sence, and : not
 Two well situated lots, on one of (he.  
 has small building large enough to accom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102701:0502/pct:54.03442286436128,4.48,44.82867519343123,91.80444444444444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102701:0502/pct:54.025892011367226,4.479601813172162,44.82686033049153,91.79924747429858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3003,7 +3003,7 @@ ping port with more ease and it : smaller
 eagense, than that which is transported on.  
 iy 30 miles hctv iand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802110101:0518/pct:53.474273278408205,42.5696316262354,22.073682574226645,11.50943396226415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802110101:0518/pct:53.46596207646876,42.565807205102864,22.075432597658274,11.511394603659449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3024,7 +3024,7 @@ the year 1754, was sought. &#x27;
 One other tract on the Mo­  
 hawk river, State of Ness.v.York, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802110101:0518/pct:53.9250738380227,69.54177897574124,21.591792320845638,5.876010781671159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802110101:0518/pct:53.91669257071806,69.53553139879615,21.593617241736606,5.8784775252298385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3055,7 +3055,7 @@ her in the common; of about ux. acm.
 Two well sicuatcd lols si ( &#x27;  
 has small building large et,: on me of she
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802110101:0518/pct:53.9250738380227,4.44743935309973,44.47380693300171,93.36028751123091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802110101:0518/pct:53.91669257071806,4.447039798760219,44.472075432597656,93.35489473841824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3083,7 +3083,7 @@ ping port with more eme and a: a smaiicctr
 cx zeal: , man that whicsi ] is tranf sit:- zrted on­  
 ly 30 miles b) land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802110901:0546/pct:30.468138406137466,42.879943252349705,22.044778456239236,11.455931902819648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802110901:0546/pct:30.463368816530995,42.8761415019062,22.04654560634523,11.457871560717559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3104,7 +3104,7 @@ the year 1354, was fought.
 One other tract on the Mo­  
 hawk river, State of New-Yark, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802110901:0546/pct:30.40551119461406,69.65774073417272,22.26397369657116,5.736832771768044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802110901:0546/pct:30.400751408891672,69.65156485504033,22.265706533082863,5.739279486952153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3136,7 +3136,7 @@ ping part with more ease and it a smaller
 egrenss, than that which is transportcd on.  
 lcts&#x27; 50 miles by land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111101:0554/pct:31.223175965665234,42.64049955396967,22.194972409564684,11.75735950044603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111101:0554/pct:31.2183908045977,42.636696102042634,22.196679438058748,11.75928403651176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3166,7 +3166,7 @@ In North West T erritory.
 Three tracts lying on Little Miami, con­  
 taining 3051 acres.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111101:0554/pct:31.56039239730227,66.41391614629795,21.873083997547518,13.068688670829616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111101:0554/pct:31.555555555555557,66.40799215056641,21.874840357598977,13.070496238813071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3190,7 +3190,7 @@ from Alexandria, less from the City and
 George Town and not more than three  
 from the Great Falls of Potomac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0574/pct:30.408542246982357,9.779068743948596,21.696069328381306,7.948243992606285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0574/pct:30.403837227293828,9.778208061960923,21.69786992624684,7.950478202194449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3218,7 +3218,7 @@ ping port with more ease and at a smaller
 expense, than that which is transported on­  
 ly 30 miles by land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0574/pct:30.4859176725472,42.66349793152011,21.788919839059115,11.451456737963207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0574/pct:30.48120068079839,42.65974300299243,21.79070607045232,11.453382620430675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3256,7 +3256,7 @@ the year 1754, was sought.
 _ One other tract on the Mo  
 hawk river, State of New.York, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0574/pct:29.758588672237696,55.91057125253059,22.361497988238934,19.37329460434821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111701:0574/pct:29.753984217855486,55.905650413659565,22.363195626386094,19.374523264683447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3275,7 +3275,7 @@ si Leesburgh and Winchester, nineteen miles
 .George Town and not more than three}  
 ? from the Great Falls of Potomac. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111901:0582/pct:30.484988452655887,14.213016694937952,22.602001539645883,4.0442817605570935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111901:0582/pct:30.480295566502463,14.211747902160328,22.603653530377667,4.046896387549842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3303,7 +3303,7 @@ ping portwith more ease and at a smaller
 expensc, than that which is transported on.  
 ly 30 miles by lend
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111901:0582/pct:31.131639722863742,43.33541648067137,21.662817551963048,11.677528792072136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111901:0582/pct:31.126847290640395,43.33154793786824,21.664614121510674,11.679462000833185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3332,7 +3332,7 @@ One other tract on the Mo­
 hawk river, State ofNew-Yotk, contain­  
 ing tooo acres.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111901:0582/pct:30.94688221709007,64.52995268279618,22.1401077752117,12.820283903222926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111901:0582/pct:30.942118226600986,64.52419210855204,22.141830870279147,12.822115098494317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3359,7 +3359,7 @@ Bath, or Warm Springs.
 Two well siruased lots, on one of then  
 haa small building large enough (o accom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111901:0582/pct:30.484988452655887,5.1691813230961525,45.18860662047729,93.33095259351843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802111901:0582/pct:30.480295566502463,5.168719871451526,45.1867816091954,93.32559661965125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3387,7 +3387,7 @@ ping port wixh [] .re czsie a isii &amp;: &amp; imctillcr
 CXPCZ-ict&#x27;si&#x27;, th. is. that .mi &#x27;h is {tsisiznictksioztcd on.  
 ly 30 mii-si ; by in:. ssi. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802120601:0626/pct:53.761948812827626,41.66812379786676,21.67745914276904,11.313166637524043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802120601:0626/pct:53.75366116849083,41.66448116094064,21.67925594779302,11.315091645540111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3415,7 +3415,7 @@ the year 1754, was tought.
 One other tract on the Mo­  
 hawk river, State of New- Yark, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802120601:0626/pct:53.60777058279371,62.537156845602375,21.692876965772435,11.662878125546424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802120601:0626/pct:53.59950670571913,62.531689833027365,21.69467139407019,11.664772561704112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3443,7 +3443,7 @@ ping port with more case and a: a smaller
 cxPcnse, than that which&#x27;is crausporlcd on.  
 ly 30 miles by lactnd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802121601:0650/pct:37.44964091784901,41.958887545344616,18.637239446488003,10.673848521490601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802121601:0650/pct:37.443082311733804,41.95427566498132,18.639813193228253,10.676339122151388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3464,7 +3464,7 @@ where (he: first action with the French, in
 One other tract on the Mo­  
 hawk river, Ssctte es Nex-Yenk, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802121601:0650/pct:37.36205990541251,66.94514675167638,18.479593624102293,5.430361657689348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802121601:0650/pct:37.35551663747811,66.93778852495053,18.48219497956801,5.433428592364622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3488,7 +3488,7 @@ Lceshurgh and Whsizchcstcr, nineteen mtlcs
 ; George Town and no: more than three  
 from the Great ctFai&#x27;ts of Potomac. &#x27;s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122101:0662/pct:33.1865127582017,8.857379615136727,20.473876063183475,7.853788785563023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122101:0662/pct:33.181473044798786,8.856564168661388,20.475828904074916,7.8561345363039345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3523,7 +3523,7 @@ ping port with more ease and a: a smaiier ;
 expense, than that which is transported on­  
 ly 30 miles by land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122101:0662/pct:33.702916160388824,40.25412024675444,19.957472660996356,10.993462848724795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122101:0662/pct:33.69779802581625,40.250414288344686,19.959503923057454,10.995519548272265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3556,7 +3556,7 @@ One other tract on the Mo­
   
 hawk river, State of New-York, contain. -
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122101:0662/pct:33.1865127582017,63.576097965196574,20.473876063183475,8.203664487616242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122101:0662/pct:33.181473044798786,63.570244890443746,20.475828904074916,8.20597802737372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3573,7 +3573,7 @@ Lccshurgh and W&#x27;inchesicr, nineteen miles
 t from Alexandria, less from&#x27;the City and  
 &#x27;si George Town and not more than thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122401:0674/pct:53.09678441311579,13.453486255233933,21.020117218438145,2.466775896595667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122401:0674/pct:53.08837503959455,13.452261763902793,21.022067363530777,2.4695852674372745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3603,7 +3603,7 @@ pmg port With more ease and a: a smaller
 exsivense, than that which is transporccd on.  
 ly 30 miies hzjand. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122801:0678/pct:52.484276729559745,39.195148842337375,20.943396226415093,10.731348768834987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122801:0678/pct:52.47602578210973,39.19154800183739,20.94534402347639,10.733425202878578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3639,7 +3639,7 @@ the year 1754, was sought.
 One other tratt on the Mo­  
 hawk river, State of New-Yark, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122801:0678/pct:52.54716981132076,51.571113561190735,20.88050314465409,18.36640940830577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802122801:0678/pct:52.53890897657601,51.56637574644005,20.882460829010114,18.36778441280049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3665,7 +3665,7 @@ the apneliatitn of the Great ivieadows,
 where the firti action with the French, in  
 the year 1754, was tow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803010301:0014/pct:53.63358778625954,60.927789934354486,21.236641221374047,9.916849015317286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803010301:0014/pct:53.62540070218287,60.92245755294941,21.238487762682542,9.9188984188109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3700,7 +3700,7 @@ ping port with more ease and at &amp; smaller
 exsizense, than th at which 13 transporced on­  
 ly 30 miles bv land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803010701:0026/pct:54.384069157147266,42.039800995024876,22.3680148193887,11.5227434257285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803010701:0026/pct:54.37567525852755,42.03606644754375,22.369707259350722,11.52468093926742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3726,7 +3726,7 @@ the year 1754, wa s fousirht.
 One other tractsi on the Mo  
 hawk river, btatc ol New- Yolk, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803010701:0026/pct:54.276011114541525,66.50675195451315,22.259956776782957,8.528784648187633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803010701:0026/pct:54.26763389411946,66.50084391933908,22.261665894942634,8.530988125906843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3754,7 +3754,7 @@ ping port with more ease. and at a lsimailer
 sscxr-zense, than that which is transported on.  
 ly 30 miles by land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011001:0034/pct:29.30391547545059,41.80651963799315,22.45183343691734,11.369826904489939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011001:0034/pct:29.29936305732484,41.80284659989457,22.453523898296307,11.371756574708604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3782,7 +3782,7 @@ the year 1754, was sought.
 -si One other tract on the Mo­  
 hawk river, State of New-Yerk, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011001:0034/pct:29.381603480422623,62.525261400579915,21.674953387197018,11.598277831473508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011001:0034/pct:29.377038993319868,62.5197680548234,21.67676453834602,11.600187430445732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3806,7 +3806,7 @@ from Alexandria, less from the .Cit) and
 George Town and not more than three  
 from the (Ire-fit Falls o?&quot; Potomac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011201:0042/pct:53.73065015479876,8.330373001776199,22.1671826625387,7.877442273534636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011201:0042/pct:53.72233400402415,8.329633247491342,22.168910901305267,7.879702809105171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3834,7 +3834,7 @@ ping-port with more ease and at a smaller
 expense, than that which rs transportcd on­  
 ]) 30 miles by land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011201:0042/pct:53.76160990712074,41.06571936056838,22.058823529411764,11.429840142095914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011201:0042/pct:53.75328896455657,41.06207264008525,22.06056853944178,11.431785217417044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3855,7 +3855,7 @@ the year 1754, was fought.
 One other tract on the Mo­  
 lawk river, State ofNew- 1 Usk, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011201:0042/pct:54.040247678018574,67.90408525754884,21.439628482972136,5.88809946714032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011201:0042/pct:54.0318836093484,67.89805523488145,21.44146932879327,5.890536660450523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3882,7 +3882,7 @@ ping port with more ease and at &amp; smailef
 expense, than that which is tranictportet} on.  
 iy 30 miles by land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011501:0054/pct:55.51987767584098,42.4548352816153,21.75840978593272,11.202621324831739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011501:0054/pct:55.511389695765175,42.451075887718055,21.760179381338226,11.20458100888456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3904,7 +3904,7 @@ the 2 ppellation of the Great Meadows,
 where the first action with the French, in  
 si teyear 1754, was sought
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011501:0054/pct:55.535168195718654,66.56925256818987,21.743119266055047,6.411618845200142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011501:0054/pct:55.52667787800031,66.56335783228549,21.744891199103094,6.414002774580124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3928,7 +3928,7 @@ from Alexandria, less from the City and
 George Town and not more than three  
 from the Great Falls of Potomac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011801:0062/pct:53.032418178997986,9.273338048090523,21.544904606793857,8.08875530410184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011801:0062/pct:53.024193548387096,9.272518341730752,21.54673283705542,8.090986770382155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3958,7 +3958,7 @@ cxncns-r, than that which is transported on­
   
 i)&quot;30 miles by. lind. s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011801:0062/pct:52.92384054599038,42.07036775106082,21.762059872809058,11.509900990099009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011801:0062/pct:52.91563275434243,42.06664898789004,21.763854425144746,11.511830048027344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3989,7 +3989,7 @@ the year 1754, was sought.
 One orher tract on the Mo­  
 hawk river, State of New-York, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011801:0062/pct:52.31890801923375,63.09229137199434,22.491081123002946,11.775106082036775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803011801:0062/pct:52.31079404466501,63.086714399363565,22.492762613730356,11.777011697457203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4017,7 +4017,7 @@ the appellation of the Great Meadows,
 the year : 754, was fought.  
 One Other tracr on the Mo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012201:0070/pct:54.892750900266165,62.80099150141643,21.872553624549866,10.578966005665722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012201:0070/pct:54.88415779586725,62.79543241568558,21.87434773533709,10.580980201233366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4041,7 +4041,7 @@ from Alexandria, less from the City and
 George Town and not more than three  
 fromss the Great Falls of Potomac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012501:0074/pct:6.770833333333333,9.977885891198584,23.89520202020202,8.137992038920832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012501:0074/pct:6.769764872968281,9.977003361047231,23.89669138919573,8.140220531870982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4069,7 +4069,7 @@ ping port with more ease and at a smailer
 upense, than that which is transported on.  
 ly 30ss miles by land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012501:0074/pct:7.4021464646464645,42.494471472799646,22.411616161616163,11.764705882352942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012501:0074/pct:7.400978380937352,42.49071289580753,22.41333964546841,11.766613597499852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4089,7 +4089,7 @@ qhere the first action with the French, in
 the year 17 54,sswas fought.  
 &#x27; One other tract on the Mo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012501:0074/pct:7.559974747474747,69.55329500221141,22.25378787878788,4.909332153914197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012501:0074/pct:7.558781757929619,69.54714310985318,22.255536268476146,4.911846217347721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4110,7 +4110,7 @@ the year 1754, was sought. .
 One other tract on the Mo-—  
 hawk river, State of New-Yerk, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012801:0086/pct:54.67501957713391,69.11830257644647,22.06734534064213,5.84826602478381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012801:0086/pct:54.66645787660507,69.11214120164023,22.069109510387307,5.850716111012064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4128,7 +4128,7 @@ from Alexandria, ess from the City and
 eorge Town and not more than three  
 from the Gteau Falls of Potumac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803021101:0114/pct:7.143993635640414,13.642479146111759,22.21161495624503,3.2469279756031932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803021101:0114/pct:7.142857142857143,13.641255605381167,22.213384240110297,3.2496263079222723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4156,7 +4156,7 @@ ping port with more ease and at a smaller
 Expense, than that which is transsizorted on­  
 ly 30 miles by land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803021101:0114/pct:6.443914081145585,41.39384698179209,22.879872712808275,11.534666786258857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803021101:0114/pct:6.442888959592746,41.39013452914798,22.88153568777177,11.53662182361734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4184,7 +4184,7 @@ fit&#x27;sor the scytbc. It is diﬄnguished by
 where the first action with the French,!sijin  
 fthc year 1754, was sought.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803021101:0114/pct:6.968973747016706,62.283612880078934,22.895783611774064,10.072652255807697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803021101:0114/pct:6.967865097041043,62.2780269058296,22.89744405557323,10.07473841554559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4212,7 +4212,7 @@ ping port with more ease and a: :: smaller
 expmsc, than Lint which is transparted on­  
 iy 3-3 l&#x27;sliiid by iznd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803021201:0118/pct:55.072463768115945,41.75326405542233,21.78638941398866,11.386446398436807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803021201:0118/pct:55.06378957316113,41.749555950266426,21.788208116763794,11.388395500296033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4233,7 +4233,7 @@ Lceshurgh aul Winchester, nineteen mites
 a from Alexandria, less from the Cuy and  
 k George Town and not more than thre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803021801:0134/pct:53.849863366018326,9.847044981446285,22.761613888442373,6.480224454701783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803021801:0134/pct:53.84120861459338,9.846153846153847,22.76331297546341,6.482654600301659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4261,7 +4261,7 @@ tion ofthe Petomne) be brought to a ship.
 LXansC, than that which is transported on.  
 ly 30 miles by land.s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803021801:0134/pct:54.15528050152709,41.198298488551,22.616942613727698,11.593809394515342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803021801:0134/pct:54.146576663452265,41.19457013574661,22.618664952319726,11.59577677224736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4299,7 +4299,7 @@ i
 One hothcr Had on the Mo­  
 hawk river; State of New-Yark, contain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803021801:0134/pct:53.849863366018326,37.559960177391616,23.581417778492202,36.46483844691827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803021801:0134/pct:53.84120861459338,37.55656108597285,23.582985106610952,36.464555052790345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4327,7 +4327,7 @@ ping port with more ease atzd at a smaiict
 expense, than that which is transportedcn.  
 ly 30 miles by land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803022301:0150/pct:78.32986055457606,25.94045284364414,20.644334027889084,11.294348368693171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803022301:0150/pct:78.3173076923077,25.93814065424726,20.646367521367523,11.29631280268592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4356,7 +4356,7 @@ One other traesit on the Mo­
 hawk river, State of New-Yotk, contain­  
 ing rooo acres.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803022301:0150/pct:78.45808623176791,46.773043323230524,20.259656996313513,12.426457479051525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803022301:0150/pct:78.44551282051282,46.7688742312149,20.261752136752136,12.428321003060285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4389,7 +4389,7 @@ ly 30 miles by land.
   
 Fl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803022501:0158/pct:52.98436003830194,22.050775993540864,23.348228534950525,11.572620435991746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803022501:0158/pct:52.97590553693952,22.048797990670973,23.349821817988406,11.574572419567037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4430,7 +4430,7 @@ One other tract on the Mo­
 &quot;hawk river, State otssNew-Yerk, contain­  
 ing tooo acres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803022501:0158/pct:52.920523459942544,35.30097784157172,22.67794446217683,20.229658204001076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803022501:0158/pct:52.91207914472634,35.297811266594906,22.679644699750014,20.23083363234063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4454,7 +4454,7 @@ the )ear 2754, was .ought.
 One other ttasi&#x27;t on the Mo­  
 &#x27;]1awk river, dtate o! New-Xss erk, contaius
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803030301:0174/pct:6.115862514119735,68.18425760286226,23.640471195739874,8.425760286225403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803030301:0174/pct:6.11487576637625,68.17815937751543,23.642035065074754,8.427987955758281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4774,7 +4774,7 @@ value, and in what condition the houses are, I
 amn ignorant, but suppose they are not valued  
 too high.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190595:1856072101:0453/pct:2.512562814070352,235.1577287066246,59.256281407035175,38.927444794952685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190595:1856072101:0453/pct:0.628140703517588,58.78943217665615,14.814070351758794,9.731861198738171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4793,7 +4793,7 @@ too high.
 &quot;three dollars per foot?$4,000&quot; In a note j  
 to this item in the schedule, the following is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663559:1864090301:0120/pct:11.767420396862022,37.55960121369744,29.11859713890171,6.426094495015171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663559:1864090301:0120/pct:11.767420396862022,37.563213408466986,29.123724555196638,6.4333188845542555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4815,7 +4815,7 @@ added :?&#x27;For this lot, though unin. proved, I j
 &quot;on Prince and Pitt stieets.&quot; 1  
 ?1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663559:1864090301:0120/pct:11.505922165820643,43.30299089726918,29.426242116597447,9.05938448201127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663559:1864090301:0120/pct:11.505922165820643,43.30660309203872,29.431369532892376,9.062996676780813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4839,7 +4839,7 @@ cost me, to the best of my recollection, be­
 tween forty and fifty pounds twenty years  
 ago.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053571:00237289006:1869072201:0077/pct:118.9239332096475,200.13708019191228,43.22820037105751,14.873200822481152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053571:00237289006:1869072201:0077/pct:29.730983302411875,50.03427004797807,10.807050092764378,3.718300205620288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4907,7 +4907,7 @@ lots, much less coiivenient, have so1(1 a or
 great deal higher. I will rate these at ibi  
 twelve cents (lie squiaire foot only. s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288415:1883083001:0413/pct:67.42312340539814,70.55991627420198,14.032496307237814,8.16326530612245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288415:1883083001:0413/pct:67.42759948077526,70.55991627420198,14.045924533369142,8.16326530612245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4938,7 +4938,7 @@ Nos. 5, 12, 14 and 15, the last three
 water lots in square 667, containing to-,  
 gether 34,438 square feet. These he de-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_inman_ver01:data:sn84020151:00340583620:1885121901:0295/pct:53.659909909909906,38.34301591310937,14.47072072072072,8.992169739833292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_inman_ver01:data:sn84020151:00340583620:1885121901:0295/pct:53.649840495402515,38.33817401187019,14.472696565959842,8.994191185755778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5000,7 +5000,7 @@ Nos. 5, 12, 14 and i5, the last three
 water lots in square 667, containing to­  
 gether 34,438 square feet. These he de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn87065522:00295878058:1885121901:1172/pct:258.8331963845522,218.94333424582535,45.275267050123254,30.002737476047084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn87065522:00295878058:1885121901:1172/pct:64.70829909613805,54.73583356145634,11.318816762530814,7.500684369011771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5063,7 +5063,7 @@ water lots in square 667, containing to­
 gether 84,438 square feet These he de­  
 scribed as &quot;advantageously situated, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn87007277:00415662415:1886011601:0041/pct:63.618290258449306,48.61373660995589,18.93638170974155,12.586641461877758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn87007277:00415662415:1886011601:0041/pct:47.749316090524744,36.46817895400126,14.225317085302164,9.436042848141147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5093,7 +5093,7 @@ more ease and at a smaller expense,
 than that which is transported only 30  
 miles by land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192385:1886060101:0093/pct:13.896408590507129,31.587635054021607,12.633098718642843,8.98859543817527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192385:1886060101:0093/pct:13.905432232449016,31.587635054021607,12.637610539613789,9.01110444177671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5147,7 +5147,7 @@ of the plantation and the stock thereon,
 belonging to the said company in the said  
 swamp.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031108:1893072301:0113/pct:88.43980133584517,238.2312200319659,41.188559684877546,12.573255194459243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031108:1893072301:0113/pct:29.47993377861506,79.41040667732197,13.729519894959182,4.191085064819748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5216,7 +5216,7 @@ the French in the year 1754 was
 fought&quot;  
 Save money when you hare 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1895022201:0567/pct:14.035087719298245,82.49870039854444,16.413916146297947,4.08941258014209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1895022201:0567/pct:14.04252155813262,82.49870039854444,16.45108534046982,4.102408594697626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

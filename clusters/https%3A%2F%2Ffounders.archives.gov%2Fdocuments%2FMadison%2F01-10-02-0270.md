@@ -119,7 +119,7 @@ atesto therfu&#x27;ojecc of oi-.r prcftat enquiry,
 Slight nOtXO be O&#x27;VerllJoil.d &quot;  
 The Qaietid conclude ; that the defer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792112801:0003/pct:70.85271317829458,31.37671365128403,21.612403100775193,16.682757289051942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792112801:0003/pct:70.86821705426357,31.381540837999612,21.6046511627907,16.692411662483106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ at it equally displays a fervent attachment to lepubli an
 I govern mem, ami an enlightened view of the dangerous  
 propjiisitie* again«t which it ought to he guarded.&quot; II i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817050901:0010/pct:0.47642516839165433,49.93914313534567,16.24774108756366,6.2560856864654335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817050901:0010/pct:0.4763469119579501,49.9330655957162,16.250547525186157,6.259380958176139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ Let us now advert to the bold charge
 that the people are incompetent, of  
 themselves, to make known to their de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825110801:0245/pct:45.10398613518198,4.869431643625192,26.08318890814558,91.21351766513057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825110801:0245/pct:45.09421702404158,4.8686837659345725,26.08295429932857,91.20334818000308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ constitution, or correcting brec.ches.o f it,
 j a convention shall be called for that  
 ! purpose.” .To Mr. Madison’s lucid an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825112901:0269/pct:43.87842465753425,52.4653312788906,13.184931506849315,4.191063174114022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825112901:0269/pct:43.869034881232615,52.4572484979202,13.18745987588273,4.194268987829302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ vision in all cases, for keeping the stve­
 ! rat departments of power, -within their  
 : constitutional limits,&quot; and he proceeds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825112901:0269/pct:43.83561643835616,56.56394453004623,13.227739726027398,3.12788906009245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825112901:0269/pct:43.826235822811896,56.5552303189031,13.230258934303444,3.1312586658450163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ to recur to the same oiiginal authority,,
 to enlarge, diminish, or new-model the  
 j powers of government.” He farthe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825112901:0269/pct:43.81421232876713,59.63020030816641,13.334760273972602,6.194144838212635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825112901:0269/pct:43.80483629360154,59.62101371129256,13.337256580355232,6.197042058234478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ stitutional limits,” or “correcting brea­
 ches in the constitution;” but at the will  
 of a great and sovereign people, “wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825112901:0269/pct:43.81421232876713,65.77812018489985,13.249143835616438,9.738058551617874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825112901:0269/pct:43.80483629360154,65.76798644276691,13.251658463513802,9.740409798182098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ them,It is evident,cm pretend loan exclusive or superior
 power*. And. string that It t* the tendency of each, to  
 j extend beyond it* proper and natural boundaries, it be 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834090201:0149/pct:81.86684969114619,92.12529910811399,15.15442690459849,2.403741570589515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834090201:0149/pct:81.85561350535274,92.1152800435019,15.156921950773173,2.40710531085735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ ment of the legislative, at tho expense of the
 other departments.&quot;  
 Mr. Jefferson, In referring to the early Consti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776208:1867010701:0030/pct:66.09276177090653,42.72853185595568,18.973998594518623,3.3240997229916895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776208:1867010701:0030/pct:49.59578207381371,32.04986149584487,14.235500878734623,2.4930747922437675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ dency of republican governments is to an
 aggrandizement of the legislative, at the ex­  
 pense of the other departments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289043:1867010801:0032/pct:222.29417206290472,277.83215515678813,49.49121184088807,7.612833061446438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237289043:1867010801:0032/pct:55.586398334489935,69.45803878919703,12.375665047420773,1.9032082653616096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ randizement of the legislative, at the expense of
 an aggran  
 the other departments.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867010801:0079/pct:197.49918804806757,97.73797221265357,44.39753166612537,5.316339418991848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867010801:0079/pct:65.83306268268919,32.579324070884525,14.799177222041788,1.7721131396639491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ tendency of republican Governments is to an ag
 grandizsment of the legislative, at the expense of  
 other departments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653607A:1867010801:1273/pct:306.8130204390613,95.51243177683445,43.22482967448902,5.518496058217101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653607A:1867010801:1273/pct:76.73229837182885,23.87810794420861,10.810299129117759,1.3796240145542753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ governments is to an aggrandisement of the legis?
 lative at the expense of tho other departments.  
 Mt. Jefferson, in referring to the early constitutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555237:1867010801:0127/pct:28.14764874431148,26.900012238404113,13.938985336254845,2.080528699057643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555237:1867010801:0127/pct:28.14764874431148,26.90817117447885,13.961458508904995,2.076449231020275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -710,7 +710,7 @@ governments is to an aggrandizement of
 other departments. Mr. Jefferson, in  
  referring to the early constitution of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867010801:0015/pct:104.52322738386309,266.0927152317881,38.691931540342296,8.123620309050773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867010801:0015/pct:26.142791622076135,66.52317880794702,9.67741935483871,2.0309050772626933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -727,7 +727,7 @@ the tendency of republican governments is to
 an aggrandizement of the legislative at the  
 expense of the other departments. Mr. Jefe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867010801:0035/pct:126.94634933440904,249.66875397041474,41.159069517278475,5.009528995371631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867010801:0035/pct:42.31544977813635,83.22291799013824,13.719689839092824,1.6698429984572103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ republican Governments is to an ag­
 grandizement of the legislative at the  
 expense of the other departments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82014296:00296022093:1867011001:0285/pct:78.04698972099852,243.3886024801449,54.77239353891336,11.536853838651247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn82014296:00296022093:1867011001:0285/pct:19.51532953919589,60.847150620036224,13.695612263631357,2.8842134596628117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ an agaiandieinc-ut of the legislative, at the
 expense of the other departments.&quot;  
 Mr. Jc-tTersort, in referiing to the earl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879129:1867011001:0009/pct:93.01801801801801,99.03429247142294,16.804304304304303,3.439101300748916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879129:1867011001:0009/pct:69.7872340425532,74.28064643279464,12.60325406758448,2.5817895151754042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ tendency of republican governments m lo
 aggrandizement of the legislative at the  
 expense of the other departments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867011001:0037/pct:47.337443946188344,110.32229965156795,12.89237668161435,2.2539198606271778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867011001:0037/pct:35.515066573230555,82.74172473867596,9.67063770147162,1.6986062717770034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -842,7 +842,7 @@ Constitution of Virginia, objected that by
 its provision all powers of the Government.  
 The legislative, executive and judiciary, r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528608:1867011101:0491/pct:70.86166227279034,222.36371760500447,29.665602886082976,11.081322609472744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528608:1867011101:0491/pct:23.620554090930113,74.12123920166816,9.888534295360992,3.6937742031575813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ dency of republican governments is to ag­
 grandizement of the legislative at the expense  
 of the other departments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867011201:0355/pct:274.48763250883394,154.47848003101979,51.30742049469965,7.186247899702727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:0028077473A:1867011201:0355/pct:68.64616472251679,38.619620007754946,12.831389183457052,1.7965619749256818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -914,7 +914,7 @@ ernments is to the aggrandisement of the
 legislative at the expense of other depart­  
 ments. Mr. Jefferson in referring to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296539:1867011901:0555/pct:201.17474302496328,102.47750865051903,43.245227606461086,8.581314878892734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022278:00200296539:1867011901:0555/pct:50.30291903800257,25.619377162629757,10.81329172021296,2.1453287197231834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -933,7 +933,7 @@ islative at the expense of the other depart
   
 Mr. Jesferson, in referring to the earl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1867012301:1148/pct:100.0,161.97244379985497,88.17307692307692,18.04205946337926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1867012301:1148/pct:25.006011060351046,40.49311094996374,22.04856936763645,4.510514865844815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -954,7 +954,7 @@ dent, can pretend to an exclusive or su­
 perior right of settling the boundaries  
 between their respective powers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867082301:0146/pct:98.03318992009834,241.67132164004022,38.53718500307314,13.36163557144453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867082301:0146/pct:24.519600307455804,60.417830410010055,9.638739431206764,3.3404088928611326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ ments is to an aggrandizement of tlie
 legislative at the expense of the other  
 departments.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:0027952889A:1872040501:0475/pct:76.78119886955228,58.738307095596625,10.025286330507214,2.817704768423454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:0027952889A:1872040501:0475/pct:76.7861569735733,58.742109666134304,10.040160642570282,2.825309909498821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

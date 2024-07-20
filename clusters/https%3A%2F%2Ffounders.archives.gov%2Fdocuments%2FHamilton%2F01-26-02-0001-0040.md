@@ -97,7 +97,7 @@ granted, bargained, sold and conveyed, and by these
 presents do grant, bargain, sell, and convey, unte them,  
 the said the President, Directors and Company of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838100901:0162/pct:36.89492325855962,69.94722135982614,14.920306965761512,7.078547035082273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838100901:0162/pct:36.904761904761905,69.94722135982614,14.920306965761512,7.088895788057539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ do grant, bargain, sell, and convey, unto them,
 the said President, Directors, and Company  
 of the bank of the United Slates, oe equal un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838101701:0165/pct:88.48961257720381,58.37625979843225,20.508141493542954,11.444568868980964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838101701:0165/pct:66.37652674434929,43.784994400895854,15.386775235153728,8.58902575587906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ of the bank of the United Slates, oe equal un
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1845-12_2_6/page/n36/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1845-12_2_6/page/n36/mode/1up?view=theater)
 
 #### 1845-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -304,7 +304,7 @@ hereby granted, or meant, mentioned or
 intended so to be, with the appurtenances,  
 unto the said Flavel Roan, his heirs 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1850060501:0156/pct:116.51515151515152,113.08089500860585,51.21212121212121,70.10900745840505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:0028077635A:1850060501:0156/pct:29.13982569154983,28.270223752151463,12.807881773399014,17.52725186460126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ these presents do, and each of them doth grant,
 bargain. sell, alien, release and convev unto the  
 Bud patty hereto of the fouith pa. t, aud bis heirs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654103:1857092801:0201/pct:0.9563277016257571,60.9375,16.353203697800446,4.385416666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654103:1857092801:0201/pct:0.9642970991393051,60.9453125,16.353203697800446,4.380208333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ the second part, and to his heirs and assigns
 forever, all that tract or parcel of land, situate,  
 lying and being in the city of Laboo, and count
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859021001:0137/pct:24.60850111856823,269.59972786030164,33.83668903803132,30.47964621839211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290082:1859021001:0137/pct:6.154706952021262,67.39993196507541,8.462722059029234,7.619911554598027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ doth grant, bargain, sell, alien, enfeoff, re­
 lease, assign, transfer, set over and confirm,  
 unto the said Jonathan H Walker, Willia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028575:1867071201:0181/pct:29.496162829496164,59.75517415446744,12.162162162162161,11.004543160020193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028575:1867071201:0181/pct:29.50728506284062,59.75938078411577,12.162162162162161,11.012956419316843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ sixth streets, in the city of New York,
 being the same premises conveyed to the said par­  
 ty of the first part by Emil Justn and Virginia W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869102101:0495/pct:68.21766561514195,245.8107480253988,50.709779179810724,36.05389499767694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869102101:0495/pct:17.06450976523969,61.4526870063497,12.684947721444072,9.013473749419235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ right to use water for practice tu handling their
 apparatus, when, tn the judgment of the party  
 of the first, there is a sufficient supply of wate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_rhyolite_ver01:data:sn84022044:00279555314:1880011001:0880/pct:56.6551513919935,53.62063910876576,12.050396260922577,3.943125183230724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_rhyolite_ver01:data:sn84022044:00279555314:1880011001:0880/pct:56.643640796424215,53.612780301919976,12.053027224705405,3.946211343983585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1067,7 +1067,7 @@ right to use water for practice in handling their
 apparatus, when, in the Judgment of the party  
 of the flr-&lt;t. there is a sufficient supply of wate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_rhyolite_ver01:data:sn84022044:00279555314:1880011401:0892/pct:58.673469387755105,55.516941789748046,12.09608843537415,3.924123950188242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_rhyolite_ver01:data:sn84022044:00279555314:1880011401:0892/pct:58.66099893730075,55.50890401042421,12.098831030818278,3.9271753293759954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1092,7 +1092,7 @@ right to use water for practice in handling their
 apparatus, when, in the judgment of the party  
 of the first, there is a sufficient supply of wate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_rhyolite_ver01:data:sn84022044:00279555314:1880012701:0932/pct:58.44572896596018,54.84852877228584,12.417041318775423,3.9570952311929264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_rhyolite_ver01:data:sn84022044:00279555314:1880012701:0932/pct:58.43321917808219,54.84057971014493,12.419734589041095,3.960144927536232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1117,7 +1117,7 @@ right to use water for prac tice in handling their
 apparatus, when, in the judgment of the party  
 of the first, there is a sufficient supply of wate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_rhyolite_ver01:data:sn84022044:00279555314:1880012801:0936/pct:58.5949177877429,55.49738219895288,12.36386931454196,3.926701570680628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_rhyolite_ver01:data:sn84022044:00279555314:1880012801:0936/pct:58.582408198121264,55.48931220008725,12.36656703672075,3.9297658862876252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1209,7 +1209,7 @@ which the said party of the second part
 shall pay to the said party of the first  
 part for and daring the five years next fol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_anoka_ver02:data:sn83025287:0017503545A:1883062101:0471/pct:1.3194660043464763,21.303567422032756,13.551692021111457,2.0192954902400717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_anoka_ver02:data:sn83025287:0017503545A:1883062101:0471/pct:1.3194660043464763,21.307306858125795,13.567215150574356,2.026774362426146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1248,7 +1248,7 @@ who are charged with laying out and
 planning the city, and also consisting  
 of certain tracts. Squares, lots and parcels o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101994:1884082101:0210/pct:163.17435496481627,85.68353067814854,42.92415949960907,34.63017069045056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101994:1884082101:0210/pct:40.80954243253813,21.420882669537136,10.735236605396949,8.65754267261264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1279,7 +1279,7 @@ him in hand paid by the said party of
   
 the second part tIle receipt wnereoi i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:0020653509A:1884091401:0555/pct:47.66860949208993,66.47242751563388,20.711906744379682,11.59749857873792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:0020653509A:1884091401:0555/pct:31.805873776296604,44.314951677089255,13.809622995209331,7.731665719158613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1392,7 +1392,7 @@ rect that the same shall be divided as follows:
 One full equal half part or share thereof  
 I give and devise and bequeath unto my sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885022501:0623/pct:122.50755287009063,150.26250345399282,50.453172205438065,23.542415031776734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885022501:0623/pct:30.644247118836198,37.565625863498205,12.620442093330814,5.885603757944184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1431,7 +1431,7 @@ S. W. Corner, of the lot herein des­
 cribed, and at the N. W. Corner of  
 lot of J. T. Brickwood, and runnin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_kildeer_ver02:data:sn94052364:0020219557A:1890062101:0566/pct:100.32208588957056,70.36489151873768,13.266871165644172,13.880670611439843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_kildeer_ver02:data:sn94052364:0020219557A:1890062101:0566/pct:75.26848726603252,52.773668639053255,9.957042037434796,10.416666666666666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1467,7 +1467,7 @@ United States Surveyor-General, which
 Bald certain lands are those lying within j  
 and on the western side of the glen o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175036659:1891022301:0487/pct:18.17587446878065,74.32990908017476,12.765609676364825,8.702326130593931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175036659:1891022301:0487/pct:18.184047074207257,74.33286102255283,12.765609676364825,8.702326130593931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1494,7 +1494,7 @@ atives, all that certain piece or parcel of
 land&quot; (describing it).  
 If there were nothing else in the in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175036659:1891030601:0558/pct:30.933948278702026,75.67567567567568,12.320869708450008,5.249940205692418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175036659:1891030601:0558/pct:30.933948278702026,75.67866539105478,12.333223521660353,5.25591963645061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1532,7 +1532,7 @@ line of Van Horae street, distant six
 inches; westerly, from the point where  
 the easterly lice of lot 16 strikes the lin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ginger_ver02:data:sn87068097:00383340743:1891062701:0747/pct:44.18125643666323,35.527127003699135,12.5437693099897,10.033908754623921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ginger_ver02:data:sn87068097:00383340743:1891062701:0747/pct:44.172158154859964,35.521652026506395,12.546334431630973,10.036215133302512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1594,7 +1594,7 @@ contract shall be located by the mayor
 and council and shall be placed by tho  
 party of the first part where so located b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:00280760687:1899080101:0357/pct:47.2504482964734,86.19902120717781,18.454871488344292,14.997281131049483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:00280760687:1899080101:0357/pct:31.5050067254521,57.466014138118545,12.315050067254521,10.005437737901033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1626,7 +1626,7 @@ required by tho said party of the second
 part, shall be furnished by said party of  
 the first part on request of said part
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:00280760705:1899122001:0158/pct:26.233650416171226,72.6490138389452,18.177764565992867,13.370382477933966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:00280760705:1899122001:0158/pct:17.496655269808237,48.43630816170862,12.11535602794708,8.913588318622644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1661,7 +1661,7 @@ month per light; and the said party of
 the second part may deduct from the  
 price to become due to the said party o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:00280760705:1899123001:0241/pct:44.943820224719104,51.8816619534479,18.169722057953873,15.444855340439418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:00280760705:1899123001:0241/pct:29.97633836143153,34.58777463563193,12.111801242236025,10.300195779856429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

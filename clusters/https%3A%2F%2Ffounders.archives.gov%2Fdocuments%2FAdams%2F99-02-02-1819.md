@@ -174,7 +174,7 @@ draw us into the vortex, in season to make
 T preparations against them, However we  
 may confider ourlelves, the maritime an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:41.13894507546289,63.19,16.228411389450756,8.15/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797052301:0293/pct:41.13894507546289,63.196666666666665,16.243970748405165,8.143333333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ i 1 ecssary than if we were^directly concerned in
 , ‘ ry of the efforts made to draw us into the vortex,  
 in season to make preparations against them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826042101:0421/pct:77.8021978021978,39.113288718929255,15.243328100470958,5.688336520076482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826042101:0421/pct:77.78998587348924,39.10861512725535,15.246167529953436,5.691639781734177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ is very true that we ought not to involve ourselves
 in the political system of Europe, but to keep our­  
 selves always distinct and separate from it, if w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851121801:1214/pct:54.864532019704434,202.4003623188406,37.5615763546798,4.7101449275362315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851121801:1214/pct:18.288177339901477,67.46678743961353,12.520525451559934,1.570048309178744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

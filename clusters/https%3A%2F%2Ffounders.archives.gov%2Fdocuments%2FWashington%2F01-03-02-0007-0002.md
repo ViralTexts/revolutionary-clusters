@@ -305,7 +305,7 @@ Corps, called the Queen’s Rangers, Com­
 mwanded by Lient. J G Simcoe, during the war  
 of the Ameiican Revolution, illustrated by te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1843122701:0301/pct:3.9117609336924457,38.60940695296524,12.60741310760549,12.106339468302659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153255:1843122701:0301/pct:3.9203112308152708,38.612815269256984,12.603137959044076,12.10974778459441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ ations of a Partisan Corps, called the Qucen&#x27;s Rangers,
 commanded by Lieut, Col.J. G. Simeoe, during the  
 War of the American Revelution, illustrated by Te
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530194:1843123001:0326/pct:5.745687256538676,11.709467228823303,48.56705620478576,8.489842851667305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530194:1843123001:0326/pct:1.915229085512892,3.9031557429411015,16.189018734928585,2.829947617222435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,9 +386,9 @@ lonel J. G. Simcoe, during the War of the American Revolution ; illus
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1844-02_14_78/page/n104/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1844-02_14_78/page/n104/mode/1up?view=theater)
 
-#### 1844-02-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1844-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -405,9 +405,9 @@ Lieut. Col. J. G. Simcoe, during th
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1844-02_14_78/page/n111/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1844-02_14_78/page/n111/mode/1up?view=theater)
 
-#### 1844-02-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1844-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -632,7 +632,7 @@ J. G. Simcoe, during the War of the American Revolu
 1. Simcoe’s Military Journal; a History of the operations  
 of a Partisan Corps
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844101501:0167/pct:34.120580900689454,19.491437467566165,14.654540120287516,0.8303061754021795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844101501:0167/pct:34.120580900689454,19.498356685694517,14.669209329617134,0.8337657844663553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ of a Partisan Corps.
 2. Landscape Gardening.—l, An Encyclopedia of Gar­  
 dening, by J. C. Loudon, F. L. S. &amp;c. 2. Europea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844102201:0169/pct:19.299781181619256,72.00499168053244,14.719183078045223,1.7158901830282862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844102201:0169/pct:19.299781181619256,72.00845812534665,14.724045708728422,1.7193566278424848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ dening, by J. C. Loudon, F. L. S. &amp;c. 2. Europea
 1. Simcoe’s Military Journal; a History of the operations  
 of a Partisan Corps. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844102901:0173/pct:20.052809153586622,61.50860260176248,14.698547748276368,0.902224087284935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1844102901:0173/pct:20.052809153586622,61.50860260176248,14.713216957605985,0.9092180724576864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ a Memoir of the Author, and other Additions
 Tarlton&#x27;s Campaigns; a History of the Campaigns of 1780 and 1781  
 in the Southern Provinces of North America. By Lieut. Co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861041601:0360/pct:128.64955826672275,72.7859778597786,37.287897910531484,1.7015170151701517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861041601:0360/pct:42.8771733034212,24.2595059956954,12.42755655262666,0.5671142086023709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ in the Southern Provinces of North America. By Lieut. Co
 Tarlton&#x27;s Campaigns; a History of the Campaigns of 1780 and 1781  
 in the Southern Provinces of North America. By Lieut. Co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861041801:0368/pct:128.21612349914236,32.26269881990765,38.093196112064035,1.857362750128271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861041801:0368/pct:42.73259968557954,10.753129489021138,12.695917297889572,0.6190573910664204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -831,7 +831,7 @@ in the Southern Provinces of North America. By Lieut. Co
 Tarlton&#x27;s Campaigns; a Histery of the Campaigns of 1780 and 1781  
 in the Southern Provinces of North America. By 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861050301:0418/pct:125.3603539317825,183.812729498164,37.862137862137864,1.7237862097103223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184716:1861050301:0418/pct:41.78082191780822,61.2646608873024,12.618911719939117,0.5745368009518953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ in the Southern Provinces of North America. By
 Fariton&#x27; Campaigns; a History of the Campaigns of 1780 and 1781  
 in the Southern Provinces of North America. By Leut Col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861070401:0018/pct:52.71098538425271,191.1501454464086,38.11095395253811,1.8908033117028418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861070401:0018/pct:17.56756756756757,63.709587202147894,12.701655143515609,0.6301972629302308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -863,7 +863,7 @@ in the Southern Provinces of North America. By Leut Col
 fariton&#x27;s Caropaigns; a History of the Campaigns of 1780 and 1781  
 in the Southern Provinces of North America. By Lieut. Col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861071101:0042/pct:55.88328075709779,198.0392156862745,38.10725552050473,1.803020058598152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861071101:0042/pct:18.62482258318877,66.0056338028169,12.700415286758135,0.6009389671361502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -879,7 +879,7 @@ in the Southern Provinces of North America. By Lieut. Col
 Fariton&#x27;s Campaigns; A Histery of the Campaigns of 1780 and 1781  
 in the Southern Provinces of North America. By Leut, Col
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861072201:0078/pct:57.951900698215674,126.97927285083249,37.532971295577966,2.18597802695662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861072201:0078/pct:19.314303443996277,42.32163080407701,12.509049539766263,0.7285768214420536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

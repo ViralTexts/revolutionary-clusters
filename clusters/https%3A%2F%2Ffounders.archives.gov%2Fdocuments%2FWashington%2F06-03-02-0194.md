@@ -197,7 +197,7 @@ governments ought to interfere with the internal con
 cerns of another, except for the security of what is due t  
 themselves.&quot;?(Sparks&#x27;s Writings of Washington, Vol. X
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849102001:0382/pct:15.806076705960486,20.570136883084263,16.055122032209862,6.919502699987442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82003410:00415661174:1849102001:0382/pct:15.817145387127123,20.574322910126,16.0661907133765,6.923688727029177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ In a letter to Thomas Pickering, dated August
 2o, 1727, sibid, 389, he says  
 That France had stepped far beyond the line of rect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850020501:0359/pct:88.8550840672538,83.81816040513485,40.67253803042434,21.42268284065481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850020501:0359/pct:29.61836135575127,27.939386801711617,13.557512676808113,7.14089428021827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ form of government under which it conceives it can
 live most happy, and that no governments ought to  
 interfere with the internal concerns of another.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530364:1851121201:0285/pct:51.08343286128647,235.87623996221066,47.27862139566627,6.837505904581955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530364:1851121201:0285/pct:17.027810953762156,78.6254133207369,15.75954046522209,2.279168634860652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ that ferm of government under which it conceives it can
 live most habpy, and that no governments ought to in  
 berfere with the internal concerns of another.&quot; Here 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851121201:0938/pct:11.903183023872678,14.000691961711452,48.8395225464191,6.250720793449429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851121201:0938/pct:3.9677276746242263,4.666897320570484,16.279840848806366,2.083573597816476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ tablish that form of government under which it conceives
 it cau live most happy, and that no governments ought  
 to interfere with the internal concerns of another.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851121601:1329/pct:16.523570387169933,28.047396949451656,15.40579944921432,2.420269759233581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851121601:1329/pct:16.528970246773582,28.05580066389344,15.416599168421621,2.420269759233581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ it can live most happy, aud that no governncnts
 ought to interfere with the internal concerns  
 &gt;f another.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851121601:0656/pct:44.938758271153034,37.26721763085399,14.74025059833873,2.5454545454545454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566140A:1851121601:0656/pct:44.94345112393824,37.27089072543618,14.74025059833873,2.549127640036731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ an live moat happy, and that no govornnie
 ought to interfere with the internal concerns  
 another.&quot; Here ! take my gronnd?I take 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851121601:0243/pct:55.49901046084252,66.94168803657041,12.623692394684761,3.233359348868324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851121601:0243/pct:55.50843464329469,66.94168803657041,12.618980303458676,3.240792358865723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ think every nation has a right to establish that
 form of government under wiiioh it conceives il  
 call live moat happy, nnd that no governmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851121601:1200/pct:1.1940298507462686,20.96564750324637,13.074626865671641,2.219336560028332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851121601:1200/pct:1.199004975124378,20.97351749104789,13.074626865671641,2.2154015661275723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ ment under which it conceives it can live most
 happy, and that no government oughtto interfere  
 with the internal concerns of another.” Here 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172170:1851121701:0966/pct:66.57229143072858,91.7233560090703,17.799169497923746,4.081632653061225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172170:1851121701:0966/pct:51.60425199921982,71.08808669546752,13.799492880826994,3.1668741304825363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ eives it can live most happy, and that no Gov- a]
 Turnout ought to interfere with &quot;the internal b;  
 toneerns of another&#x27;&#x27; [Checrs.l n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851121801:0446/pct:30.971128608923884,63.0460333006856,14.406532516768737,3.447600391772772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1851121801:0446/pct:30.971128608923884,63.05256284688214,14.416253523865073,3.444335618674502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ form of Government under which it con country was in a far happier geographical
 ceives it can live most happy, and that no position than we, poor Hungarians, should  
 government ought to interfere with the in France have given such an answer to you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1851122501:0206/pct:268.8888888888889,183.76092472511982,101.18518518518519,6.5971243304200735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1851122501:0206/pct:67.25958866036687,45.940231181279955,25.31035760607745,1.6492810826050184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ re,nought to interfere with the interna con­
 wns oi another, except lor the security of what  
 IS due to themselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852012101:0199/pct:2.9163904933244957,13.866704360732207,12.328377994508095,4.304191108912291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852012101:0199/pct:2.9161143722779777,13.865724381625443,12.33036672347409,4.306242638398116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ Others; AND THAT NO GoEEHNMENT OUGHT TO INTERFERE
 WITH THE INTERNAL CONCERNS OP AN&#x27;&#x27;THEB, EXCEPT FJR  
 THE SECVR1TV OK WHAT IS DUE TO THEMSELVES
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1852012301:0568/pct:37.33831560793332,12.31357552581262,15.651049152055188,20.65965583173996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1852012301:0568/pct:37.34789690524097,12.319949012109625,15.646258503401361,20.662842574888465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -669,7 +669,7 @@ gerous to others ; and that no Government ovoht to in­
 terfere WITH THE INTERNAL CONCERNS OF ANOTHER, EX­  
 CEPT FOR THE SECURITT OF WHAT IS DIE TO THEMSELVES
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852012401:0067/pct:50.055524708495284,45.269255524565544,15.866185452526373,30.755202746191806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852012401:0067/pct:50.06477882657783,45.2728312951441,15.866185452526373,30.758778516770363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ are carpets or flooreloths should be
 washed with o spor ge instend of linen  
 and Danue!, and the edge will not h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1852012901:0637/pct:33.02699597932223,5.996656916005015,25.445146467547385,87.67237776849143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1852012901:0637/pct:33.036569021635074,6.003621674327901,25.440359946390963,87.67237776849143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ ernment ought to interfere with the in­
 ternal concerns of another, eacept for  
 the security of what is due to them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852020401:0446/pct:339.4836750189825,32.98277701569883,43.65983295368261,27.19097698521567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852020401:0446/pct:84.91927825261159,8.245694253924707,10.921177587844255,6.7977442463039175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ concerns of another, except for the security
 of what 14 due to themselves.&#x27;  
 This is as nearly KosButh&#x27;s doctrine as ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852021901:0484/pct:44.6031746031746,85.77319587628865,15.44011544011544,5.694648993618066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852021901:0484/pct:44.612794612794616,85.77319587628865,15.43049543049543,5.701194567173949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -792,7 +792,7 @@ ought to interfere with the internal con-­
 cerns of another, exceet for the securI­  
 TY OF WHAt IS Due to theMSElves.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1852021901:0522/pct:133.8872104733132,167.0115945642688,38.60355824102048,25.4831068445331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529200:1852021901:0522/pct:44.62907015777106,55.67053152142293,12.867852747006825,8.4943689481777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -838,7 +838,7 @@ with the internal concern* of another, exrept (|
 fifr the security ol wfiat is due to themselves.&quot; p  
 I remarked in tin* city some twenty years ago, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022601:0214/pct:70.29648101967304,56.29557079116335,13.965087281795512,6.061595385787355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022601:0214/pct:70.29648101967304,56.30282584249284,13.969705366214095,6.061595385787355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ for the security of what is due to them­
 selves.&#x27;&#x27;The editors of the Memphis Eagle &amp; En  
 quirer after giving an account of the recen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1852022701:0032/pct:70.74961360123648,39.195148842337375,18.199381761978362,15.531973539140022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1852022701:0032/pct:53.10264836651846,29.39636163175303,13.647786584187125,11.659316427783903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ cept for the security of what is due to them­
 selves.”  
 I remarked in this city some twenty year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852022801:0189/pct:83.43450166438222,42.94739733553083,14.626982572939102,8.089548138991896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348409:1852022801:0189/pct:83.41816758026624,42.941499588025266,14.629013312451058,8.091870365284263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,7 +929,7 @@ er, except for the security oj what is due to.
 themselves.&quot;  
 This is as nearly Kossuth&#x27;s doctrine a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852030301:0072/pct:15.706435029250134,80.91525913093692,13.915972345328843,8.502959434098456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn85059716:00202193018:1852030301:0072/pct:15.710866867576671,80.92608632885809,13.924836021981918,8.495741302151004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ to interfere with the internal concerns of another, except
 for the security of what is due to themselves.&quot;  
 I remarked in this city some twenly years ago, at a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852030401:0225/pct:44.5390365448505,41.39369592088999,38.4343853820598,13.674289245982695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852030401:0225/pct:14.846345514950166,13.797898640296662,12.811461794019934,4.558096415327565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,7 +1006,7 @@ j ought to interfere with the internal con
 cerns oi anotner, except lor the security  
 of what is due to themsdves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292467:1852030401:0042/pct:78.38884585592564,106.42315431047825,17.118512780790084,10.338956817830057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292467:1852030401:0042/pct:58.80302149912841,79.81736573285869,12.84137129575828,7.769695093638756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1164,7 +1164,7 @@ others : and that no Government /ought to interfere with i
 tie internal concerns of another/&#x27; except for the security i  
 of what is due to themselves.&quot; ( &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852032701:0143/pct:2.8487641390867195,38.32937108277502,16.43625192012289,5.716446941862978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852032701:0143/pct:2.858073825815761,38.33657517469923,16.44090676348741,5.716446941862978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1186,7 +1186,7 @@ Government under which it conceives it may live
 most happy, and no government ought to interfere  
 with the internal concerns of another.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852041301:0621/pct:49.1250810110175,136.38993990652125,55.605962410887884,10.449588248386378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852041301:0621/pct:16.3750270036725,45.46331330217375,18.535320803629293,3.48319608279546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1212,7 +1212,7 @@ ought to interfere with the internal concerns
 of another except for thie seurity. of what  
 i-to themrfiE E es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288282:1852041501:0225/pct:18.222554144884242,45.65288179746011,13.412994772218074,6.707912732009118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288282:1852041501:0225/pct:18.227532984814538,45.66011794927458,13.412994772218074,6.7115308079163505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1240,7 +1240,7 @@ interfere with the internal concerns oof
 nother, except for the security  
 what is due to themselves.g i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1852042001:0068/pct:251.40687807056722,87.65600181529385,41.7597141581063,22.555026094849104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1852042001:0068/pct:83.80229269018908,29.218667271764616,13.919904719368766,7.518342031616368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1281,7 +1281,7 @@ ought to interfere with the eternal concerns
 of another, except for security of what is I  
 due to themselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00202193985:1852042301:0106/pct:23.42177493138152,78.37144190387308,21.171088746569076,17.428838077461503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00202193985:1852042301:0106/pct:23.42177493138152,78.3792191631669,21.171088746569076,17.428838077461503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1315,7 +1315,7 @@ tion has a right to establish that form of gov­
 ernment under which it eonceirag it can live  
 most happy and Mr. Fillmore utleied th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028393:1854030201:0321/pct:8.061658398299079,33.58219467530638,11.782423812898653,5.676855895196507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028393:1854030201:0321/pct:8.061658398299079,33.58689017232474,11.800141743444366,5.676855895196507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ themseives.&quot; Oparks&#x27; Writings of Washington, vol. ah,
 P.382.)  
 Wheaton lays down the same rule substantially, when h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871032801:0980/pct:192.49359795134444,234.3799412694827,45.13444302176696,5.398689857691439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743737:1871032801:0980/pct:64.16453265044814,78.12664708982757,15.044814340588989,1.7995632858971462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1463,7 +1463,7 @@ internal concents of another except for
 the security of what is due to them  
 selves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:42.44942196531792,16.675884955752213,16.419797687861273,8.158185840707965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_kryptonite_ver01:data:sn86069180:00100481790:1899022501:0163/pct:31.857607517166606,12.513827433628318,12.323816407661727,6.125553097345133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1480,7 +1480,7 @@ ion that &quot;Every nation has a right to es­
 tablish that form of government under  
 which it conceives it may be most hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892046:1899080301:0040/pct:35.15419947506562,51.65897604921995,14.271653543307087,1.4282575258185015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892046:1899080301:0040/pct:35.159667541557305,51.6626382480041,14.288057742782152,1.4355819233868015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1498,7 +1498,7 @@ to establish that form of government
 under which it conceives it may live  
 most happy.&quot; Jefferson fays iu hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1899081101:1011/pct:29.220532319391634,44.127969762419006,15.874524714828897,3.050755939524838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1899081101:1011/pct:21.92848992012172,33.09935205183585,11.905667554203118,2.294816414686825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1518,7 +1518,7 @@ form of Government under which it conceives
 it may live most happily.  
 And Jefferson clinched it with thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777900:1899081101:0255/pct:89.61267605633803,138.3903792784459,58.098591549295776,10.360777058279371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777900:1899081101:0255/pct:22.417969610218012,34.59759481961147,14.534243558687514,2.590194264569843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1552,7 +1552,7 @@ cerns of another exoept for the seourlty of
 what la.due to themselves.  
 Here Is the oode of morality tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jonesport_ver02:data:sn83016025:00414210740:1899091501:0792/pct:5.532445923460899,76.04358759430008,12.354409317803661,4.71081307627829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jonesport_ver02:data:sn83016025:00414210740:1899091501:0792/pct:5.531295487627365,76.03084143479718,12.357038885423165,4.714213878645658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1575,7 +1575,7 @@ of it. I could not remain an unconcerned spectator
 of the attempt of another power to accomplish  
 the same objec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121001:0570/pct:15.846153846153847,156.9475739822743,51.30769230769231,17.00465675229082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899121001:0570/pct:3.963825283817587,39.23689349556857,12.834327496632673,4.251164188072705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

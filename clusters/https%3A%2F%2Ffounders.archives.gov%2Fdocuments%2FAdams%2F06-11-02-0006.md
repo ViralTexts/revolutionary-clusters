@@ -36,7 +36,7 @@ blithed, and their Mobles shall bhe of them­
 selves ; and their Governor shall proceed out  
 of the midit of them. After which the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780110401:0427/pct:8.243500317057704,21.638330757341578,27.055590784189388,3.639173809189265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780110401:0427/pct:8.257591770591137,21.638330757341578,27.062636510956104,3.653224673317409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ Irom the midst of them: and I will cause
 him lo draw near, and he shall approach un  
 to me; for wh is this that engaged hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857110501:0198/pct:84.23734385272847,57.640884668249406,14.612097304404998,3.236286392602774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775381:1857110501:0198/pct:63.202893784939164,43.233787329751344,10.966787241039132,2.424090965887792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -336,7 +336,7 @@ to me; for wh is this that engaged hi
 selves and their Governor shall proceed from  
 the midst of them ; and I shall cause him t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:0038334718A:1857110701:0202/pct:50.46901836438103,31.56744379683597,11.045052186550404,1.3530391340549541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:0038334718A:1857110701:0202/pct:50.47342229268507,31.56744379683597,11.04945611485445,1.359977796280877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ and their Governor shall proceed from the
 midst of them: and I will cause him to draw  
 near, and he shall approach unto me for wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528566:1857111201:0806/pct:43.19942611190818,63.858021361527676,12.72596843615495,2.12536411694897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528566:1857111201:0806/pct:43.20899091343855,63.858021361527676,12.721186035389765,2.13974898406876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ from the midst of them; and I will cause
 him to draw near, and he shall appaoach  
 unto me; iur who is this that engsget
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1857111201:0856/pct:70.46276211135213,17.833535680561177,32.51988430947216,107.12262242007284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026712:1857111201:0856/pct:52.86566624480203,13.381896668015647,24.38980292894594,80.34533926885202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ same type, &quot;their nobles shall be of them­
 selves, and their governors shall proceed  
 from the midst of them, the people shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190649:1859121401:0117/pct:15.320277437780497,70.34505208333333,13.912688698490411,5.419921875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190649:1859121401:0117/pct:15.33047735618115,70.34912109375,13.922888616891065,5.43212890625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ chapter and part of the -.&#x27;1st verse, &quot;Their no­
 bles shall be of themselves, and their governor  
 -s lall proceed trom the midst of them &quot; Tli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:0028065436A:1871120101:0727/pct:15.555889875131639,41.596402473299605,13.60012035504739,1.371557054525014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:0028065436A:1871120101:0727/pct:15.5634120655935,41.596402473299605,13.60012035504739,1.3743676222596966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ should be in the west beyond the rivers
 of Ethiopia shadowed by wings (our eagle)  
 that there should be no symbol of monar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876100501:0414/pct:24.146981627296586,45.506997299287995,13.156167979002625,3.0444389884605942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346770:1876100501:0414/pct:24.152449693788277,45.506997299287995,13.17257217847769,3.052622964236026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ government as follows: &quot;And their nobles shall
 be of themselves, and their governor shall pro­  
 ceed from the midst of them; and I will caus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:0019991974A:1890080701:0635/pct:9.904930355958435,83.21560196560196,19.45611319920407,7.678132678132678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn86063465:0019991974A:1890080701:0635/pct:9.919669835654801,83.21560196560196,19.463482939052252,7.688370188370189/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ The vested choir of the church ren­
 dered the following programme, under  
 the direction of Preston Ware Orem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovelock_ver01:data:sn84025968:00280769411:1891110901:0096/pct:9.760956175298805,35.27561209136917,13.525896414342629,5.607987963342908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovelock_ver01:data:sn84025968:00280769411:1891110901:0096/pct:9.76593625498008,35.28245110108056,13.530876494023904,5.607987963342908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -715,7 +715,7 @@ from the midst of them.&quot;
 It will certainly do no harm to discuss  
 these prophecies or even speculate upo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191551:1892060101:0277/pct:3.0779944289693595,121.55072919945441,16.629526462395543,3.147623544224111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191551:1892060101:0277/pct:2.312299763198217,91.165669919211,12.480846914612062,2.360717658168083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -731,7 +731,7 @@ these prophecies or even speculate upo
 Their nobles *hall be of themselves, and their  
 governor shall proceed out of the midst of them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897070401:0042/pct:3.5891920957117893,12.202470623681831,12.474794999327866,0.6628502561012353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665714:1897070401:0042/pct:3.5981538737285477,12.209166080814168,12.470314110319487,0.6661979846674032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -170,7 +170,7 @@ pe&lt; p&#x27;e, who might have performed he
 useful labor.”  
 From the Chester if l elaunre Feihraiist
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818012201:0380/pct:79.95712754555198,61.64419426626522,18.113612004287244,19.97643670637518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818012201:0380/pct:79.93999142734677,61.63612565445026,18.116873839119876,19.978184991273995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ ing michle? in bringine misery into thousande in fam,
 is and destroyingo lives of so many thonsands of  
 worling people, who might have performed the usefu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530261:1847082401:0083/pct:3.6337895233600754,117.5842044134727,41.70206072046563,41.045296167247386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530261:1847082401:0083/pct:1.2112631744533584,39.1947348044909,13.900686906821877,13.681765389082463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ nto thousands of families, and destroying the
 lives of so many thousands of working people  
 who might have performed this useful labor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864061501:0488/pct:332.1969696969697,158.54063018242124,61.553030303030305,68.91468583010871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864061501:0488/pct:83.0689083589865,39.63515754560531,15.391901491830453,17.228671457527177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ Again an idea seems to be prevalent,
 that the same rules of moral­  
 ity do not apply to nations as to Individ­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jonesport_ver02:data:sn83016025:00414210740:1899091501:0792/pct:5.449251247920133,56.01005867560771,12.416805324459235,12.539815590947192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jonesport_ver02:data:sn83016025:00414210740:1899091501:0792/pct:5.44811811187357,56.000670465973855,12.41942191723851,12.54190412336574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

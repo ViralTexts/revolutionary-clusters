@@ -47,7 +47,7 @@ tary character. Over the center arch, a rich ca­
 nopy of 20 feet 111 height was erecfied, with the  
 American Eagle perched above—the whole form
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789110401:0003/pct:5.025125628140704,15.21821631878558,25.95329589122081,12.333965844402277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789110401:0003/pct:5.025125628140704,15.21821631878558,25.975465563109665,12.34819734345351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ much indisposed to do so, being resoleed to receive the
 visit Dined at my lodgings, where the vice Presi  
 dent favored me with his company.&quot; Hanceek&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859022201:0180/pct:284.85804416403784,85.0691571107696,50.22082018927445,20.475233479134648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293277:1859022201:0180/pct:71.22574538570753,21.2672892776924,12.557185675974129,5.118808369783662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ be ng resolved to receive the visit. Dined at my Lodg­
 ings, where the Vicc-President favoured me with his  
 Company
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861030201:0425/pct:102.90442418101992,159.54244431065624,48.632218844984806,76.6887417218543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861030201:0425/pct:34.30147472700664,53.180814770218745,16.210739614994935,25.56291390728477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

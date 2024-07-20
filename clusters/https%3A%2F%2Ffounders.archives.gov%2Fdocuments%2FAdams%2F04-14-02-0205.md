@@ -134,7 +134,7 @@ with Mrs. Washington s love, inviting me to
 will go before l leave this place.  
 A A P \ MS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215695:1841041301:0025/pct:31.94605905603348,9.976599063962558,15.752150662636597,48.1201248049922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215695:1841041301:0025/pct:31.942345693362782,9.975820918805086,15.75419427331551,48.1189714790838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ brother, and tell him he is ever present up­
 on my mind.  
 Affectionately your mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1841051801:0193/pct:31.73722627737226,16.643712257654414,30.37956204379562,75.66479499947029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1841051801:0193/pct:31.746958637469586,16.650775152735108,30.369829683698295,75.66126355192993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ ington&#x27;s love, inviting me to Mount Vernon,
 where, health permitting, I will go before I leave  
 this place. A. ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1841052901:0277/pct:75.5109231853418,37.65490943755958,23.484848484848484,69.84883562576604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1841052901:0277/pct:56.671954873964395,28.244586681192974,17.627357659086904,52.39003132234782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ and there,&quot; she writes, &quot;is a small cot, without a Rlass win­
 ? clothes in. It is a beautiful spot, capable of every improve­  
 &#x27; ment, and the more I view it the more I am delighted with it.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847092501:0671/pct:80.71863064082615,82.12808762713759,15.971141604187297,7.376774337766849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847092501:0671/pct:80.72806148913095,82.13553891434745,15.966426180034894,7.373048694161916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ is upon ti grand and superb scale, requiring
 about thirty servants to attend ami keep the  
 apartments in proper order, I could con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082162:00514159324:1847101601:0938/pct:6.583011583011583,90.45619927232018,19.034749034749034,6.325216904561993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082162:00514159324:1847101601:0938/pct:5.111709555156593,70.11062106861398,14.751645721125074,4.898416600390427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ out, and the great unfinished audience room
 I make n drj»..g room of. tn hang up the  
 clothe* iu. It i* t Iwautiful spot, capable of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082162:00514159324:1847101601:0938/pct:6.67953667953668,98.83851105513574,18.93822393822394,4.883851105513574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082162:00514159324:1847101601:0938/pct:5.181528027129463,76.59966741378064,14.681827249152205,3.7922059142505966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ I Kvist fence, yarn or other convenience without,
 and the g e it unfinished audience room, I make a  
 , drying room of, to hang up the clothes in. It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1847112701:0041/pct:62.50802825947335,38.232203835040714,15.79961464354528,8.615707906488048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn82016488:00513688039:1847112701:0041/pct:62.50802825947335,38.24095963575869,15.79961464354528,8.606952105770073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ It is a beautiful spot, capable of every
 improvement, and the more I&#x27; view i  
 the more | am delighted with it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021168:00514152779:1847121601:0374/pct:85.56187766714082,5.566513258820951,12.731152204836416,13.335524873986412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021168:00514152779:1847121601:0374/pct:85.57136083451873,5.573818394331215,12.726410621147464,13.339177441741544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ without a glass window, interspersed among the
 forests, through which you travel for miles without  
 seeing a human being. The house is u|xin a gran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848110101:0176/pct:63.95961369622476,29.983136593591905,14.866842259291776,2.4957841483979766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848110101:0176/pct:63.950256035113384,29.97976618705036,14.869544013655206,2.4992505995203835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -768,7 +768,7 @@ tot ihe least fence, yard or other convenience with- i &#x27;
 nit, and the great unfinished audience room I  
 T»ake a drying room of, to hang up clothes in. it 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848110101:0176/pct:63.95961369622476,32.939853850477796,14.866842259291776,4.48566610455312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848110101:0176/pct:63.950256035113384,32.93615107913669,14.869544013655206,4.488908872901678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1031,7 +1031,7 @@ been removed. It is a very beautiful spot, capa­
 ble of every improvement, and the more 1 view­  
 it the more 1 am delighted with it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1853042701:0357/pct:44.99431171786121,44.599000217344056,20.207622298065985,21.6692023473158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87065704:00415662038:1853042701:0357/pct:33.76013657703798,33.44925016300804,15.165741926305307,16.257335361877853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1101,7 +1101,7 @@ spot, capable of any improvement, and the more I view
 it the more I am delighted with it.&quot;  
 Au old friend near us, who was familiar with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853121701:0843/pct:34.53699904253864,1.9015062493323363,30.898645876077143,93.26994979168892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853121701:0843/pct:34.53699904253864,1.9086279955845173,30.898645876077143,93.26994979168892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1146,7 +1146,7 @@ in. It is a beautiful spot, capable of every
 improve men t, and the more i view it, the  
 more 1 am delighted with it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1855091501:0352/pct:38.7121502491376,106.69383003492433,16.136450747412802,12.223515715948778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624475:1855091501:0352/pct:30.006435962176344,82.69237998571482,12.515471062923908,9.480846584714861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1185,7 +1185,7 @@ It is a beautiful spot, capable of every im-­
 provement, and the more I view it the more  
 a deigted with i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn83025182:00415668958:1856030701:1026/pct:64.23118865866958,214.316048278945,90.02959962610998,51.933392936969156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn83025182:00415668958:1856030701:1026/pct:21.410396219556524,71.43868275964834,30.00986654203666,17.31113097898972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1208,7 +1208,7 @@ upon a grand and superb scale?requiring
 about thirty servants to attend and keep the I  
 apartments in order. I could content mysel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856031101:0627/pct:18.32952866926279,62.490772962142785,13.455082583590707,4.977327849836549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856031101:0627/pct:18.32952866926279,62.494288024183625,13.459558658967817,4.9843579739182395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1228,7 +1228,7 @@ other convenience without, and the great un­
 finished audience room I make a drying room  
 to hang up clothes in. It is a beautiful spot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856031101:0627/pct:18.504095608970054,68.65970684382579,13.253659191620788,3.2690076979858693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856031101:0627/pct:18.504095608970054,68.66673696790748,13.267087417752116,3.2654926359450243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1295,7 +1295,7 @@ least fence, yard, or other convenience without,
 and th* great unfinished audience room I wake  
 a drying room to hang up clothes in. It is 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288269:1856032601:0181/pct:1.4196242171189979,81.40552099533437,13.597773138482951,8.116251944012442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288269:1856032601:0181/pct:1.4242635119461842,81.4087610160705,13.607051728137323,8.122731985484707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1326,7 +1326,7 @@ least fence, yard, or other convenience without
 and the great, unfinished audience room I make  
 a drying room to hang up clothca in. It i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288269:1856032601:0182/pct:1.4670616448018057,81.41100702576112,13.528001128508958,8.128415300546449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn84026897:00237288269:1856032601:0182/pct:1.4764658861146378,81.4175123601353,13.528001128508958,8.131667967733542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1357,7 +1357,7 @@ itable, but there is not a single apartment
 in it finished. We have not the least fence,  
 ward, or other convenience without, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856032801:0261/pct:56.42135642135642,124.25956738768718,37.870771204104535,30.12756516916251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856032801:0261/pct:18.80410387944854,41.41526175687667,12.621566741476968,10.041407867494824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1375,7 +1375,7 @@ beautiful spot, capable of every improve-
 ment, and the more I view it the more I am  
 lelighted with it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856032801:0261/pct:56.42135642135642,156.53910149750416,37.77457110790444,6.833056017748198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856032801:0261/pct:18.80410387944854,52.17391304347826,12.58950518328524,2.277432712215321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1447,7 +1447,7 @@ convenience without, and the gre%t unfinished au­
 &lt; dtfnce room I make a drying room to hang up  
 clothe* In. It i? a beautiful apot, capable of ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856040401:0389/pct:4.441758573802689,70.45126954207784,16.573500528780784,8.814724470562146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856040401:0389/pct:4.441758573802689,70.45126954207784,16.573500528780784,8.822116273053185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1479,7 +1479,7 @@ drying room to hang up clothes in. It is a beautiful
 spot, capable of every improvement, and the more I  
 view it, the more I am delighted with it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475385:1856040701:0400/pct:89.5,237.5936329588015,38.625,21.39513108614232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475385:1856040701:0400/pct:29.833333333333332,79.19787765293383,12.875,7.131710362047441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1539,7 +1539,7 @@ least fence, yard or other convenience with­
 out, and the great unfinished audience room  
 I make a drying room to hang up clothes in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654073:1856050501:0275/pct:82.24416235699734,76.94835198685696,15.734210938724338,8.460827600369647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654073:1856050501:0275/pct:82.25591600062685,76.94835198685696,15.738128819934179,8.47109559503029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1605,7 +1605,7 @@ is a beautiful spot, capable of every im&#x27;
 provement, and the moro I view it, the  
 &#x27; more I am delighted with it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1856082801:0469/pct:69.9886104783599,38.09417040358744,15.503986332574032,10.70627802690583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1856082801:0469/pct:69.99335611237662,38.09417040358744,15.508731966590737,10.71001494768311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1934,7 +1934,7 @@ had been Improved, as they would have been
 in New Ecgland, very many of the present  
 iDionvenUnces would have been removed.1*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868051401:0002/pct:32.90298082399848,30.41897233201581,9.151319536738182,21.960474308300395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868051401:0002/pct:32.91722042908677,30.41897233201581,9.151319536738182,21.9802371541502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2167,7 +2167,7 @@ levee room. Up stairs there is the odd room,
 which is designed for the drawing-room, and has  
 the crimson furniture to it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1870051401:0162/pct:96.11021069692059,60.21449799715725,69.69205834683954,30.85669983201964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212471513:1870051401:0162/pct:24.027552674230147,15.053624499289313,17.423014586709886,7.71417495800491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2218,7 +2218,7 @@ with one small w indow struggled to view above
 the hazel. Arrived in the “Wilderness city”on  
 Sunday, finding the white house barnlike an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171888:1871070101:0618/pct:52.10343496719413,30.785413744740534,14.415283674257044,3.6746143057503504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171888:1871070101:0618/pct:40.39084700134603,23.86231884057971,11.167057181315121,2.8550724637681157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2275,7 +2275,7 @@ make a drying-room of to- bang np
 my clothes in.&quot;  
 This was seventy-one years ago 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1871083001:0029/pct:85.95505617977528,17.393548387096775,12.578027465667915,17.92258064516129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286856:1871083001:0029/pct:64.47635398782582,13.04516129032258,9.44279694084595,13.44516129032258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2345,7 +2345,7 @@ are all you see from Baltimore until you
 reach the city which is only so in name,&quot;  
 writes the clever and accomplished Mrs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:00202197231:1871090801:0141/pct:156.2111801242236,266.9627984453082,50.69875776397515,7.551360355358135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:00202197231:1871090801:0141/pct:39.07554865022335,66.74069961132705,12.682074189162945,1.8878400888395337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2393,7 +2393,7 @@ ing the death of his wife by ill-treatment,
 is progressing. A witness testified to  
 the cruel treatment, and also that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:00202197231:1871090801:0141/pct:156.1335403726708,274.4031093836757,50.93167701863354,64.35313714602998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn84022552:00202197231:1871090801:0141/pct:39.0561274033793,68.60077734591893,12.740337929695086,16.088284286507495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2417,7 +2417,7 @@ are nil you see fr^ni Baltimore until you
 reach the city which is only so in name,&quot;  
 writes the clover and accomplished Mrs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:0020219249A:1871091101:0043/pct:43.23656578134651,63.48837209302326,13.372452130945028,5.369978858350952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:0020219249A:1871091101:0043/pct:43.259728227300805,63.49365750528541,13.372452130945028,5.385835095137421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2453,7 +2453,7 @@ wholly wanting, not one single one be­
 ing hung through the whole house, and  
 promises are all you can obtain. * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:0020219249A:1871091101:0043/pct:43.36009882643607,68.56236786469344,13.156269302038295,11.331923890063425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:0020219249A:1871091101:0043/pct:43.36781964175417,68.57822410147992,13.17171093267449,11.347780126849894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2472,7 +2472,7 @@ great unfinished audience room Imake a
 drying room of to houg up the clothes  
 in.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:0020219249A:1871091101:0043/pct:43.2674490426189,79.64059196617336,13.279802347127857,2.66384778012685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jordan_ver03:data:sn84026840:0020219249A:1871091101:0043/pct:43.275169857937,79.65644820295984,13.295243977764052,2.653276955602537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2568,7 +2568,7 @@ they would have been in New England,
 very many of the present inconvenienc  
 es would have been removed. It
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479718:1872051601:0083/pct:49.97511818860413,42.2789048650778,11.035083354068176,21.991333464644477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479718:1872051601:0083/pct:44.98189825700743,38.05359411469259,9.931698577986788,19.792005199870005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2633,7 +2633,7 @@ es would have been removed. It is a
 beautiful spot, capable of any improve­  
 ment, and the more I view it the more 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271769805:1872052301:0656/pct:80.77427821522309,15.481460985058108,16.62292213473316,29.510237963475372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jane_ver01:data:sn86086770:00271769805:1872052301:0656/pct:80.77427821522309,15.490684375576462,16.63750364537766,29.50101457295702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2711,7 +2711,7 @@ had, because people cannot be hired to cut and
   
 cord it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873110101:0437/pct:206.20884289746002,340.7459535538353,43.36782690498589,42.505277973258266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873110101:0437/pct:51.58860908449047,85.18648838845883,10.849611673334902,10.626319493314567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2768,7 +2768,7 @@ it the more 1 am delighted with it
 The ladies are impatient for a drawing-room. I  
 have no looking-glasses but dwarfs for this bouse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876123101:0010/pct:57.08955223880597,25.427059712774,13.349917081260365,15.721844293272865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876123101:0010/pct:57.09473466003317,25.427059712774,13.370646766169154,15.729402872260016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2794,7 +2794,7 @@ a drying-room of to hantr my clothes in. Six cham­
 bers are made comfortable; two lower rooms, one  
 for a common parlor and one for a ball-room.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876123101:0010/pct:57.04809286898839,41.511715797430085,13.038971807628524,4.021164021164021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876123101:0010/pct:57.04809286898839,41.511715797430085,13.04933665008292,4.036281179138322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2828,7 +2828,7 @@ the more I view it the more I am delighted with
 it.’’  
 The “great unfinished audienco room” whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1877032401:0115/pct:57.50150330727601,7.366678491190729,11.635598316295852,8.324464940286154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:0041562752A:1877032401:0115/pct:57.50651433152937,7.374561507232667,11.645620364802566,8.320523432265185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2863,7 +2863,7 @@ beautiful spot, cupable of every improve­
 ment, and the more I view It the more I  
 am delighted with it &#x27; , ; &#x27; ., .... 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877051101:0566/pct:52.77264325323475,107.81081497458018,23.220887245841034,16.592204590972116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn87052128:00200292182:1877051101:0566/pct:39.58862953547492,80.86581420428286,17.425467991680147,12.448004929902943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2949,7 +2949,7 @@ spot, capable of (.very improvement, ami
 be raorn I view it, the more i am delighted  
 vjth if.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663808:1878112301:0399/pct:80.03934426229509,20.077594568380214,16.56393442622951,35.093907062869235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663808:1878112301:0399/pct:80.03934426229509,20.083472944772655,16.572677595628416,35.09684625106546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3143,7 +3143,7 @@ where, health permitting. I will go before
 1 leave this place.  
 Affectionately, your mother
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654541:1880121101:0237/pct:2.1010789324247585,2.965073335443706,30.52243043725156,94.00654215469031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654541:1880121101:0237/pct:2.1010789324247585,2.965073335443706,30.52952867688813,94.02236994829588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3167,7 +3167,7 @@ ing.&quot; The house, in Washington, she
 says, &quot;is on a grand and superb scale  
 requiring about 30 servants&quot; (for hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1881021101:0052/pct:178.78787878787878,113.72826240633394,48.484848484848484,23.978509826099252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1881021101:0052/pct:44.705436635726464,28.432065601583485,12.123508240197006,5.994627456524813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3192,7 +3192,7 @@ other convenience, without, and the
 principle stairs are not up; but six  
 chambers are made comfortable.&quot; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1881021101:0052/pct:179.0151515151515,147.7166690230454,48.56060606060606,25.844761770111692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1881021101:0052/pct:44.76226558060239,36.92916725576135,12.142451221822315,6.461190442527923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3243,7 +3243,7 @@ audience-room (the East Parlor) I make a drying­
 rojui uf, to hung up the clothes in. The principal  
 stairs are not up, aiid «ill not be this winter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037950:1882010201:0473/pct:28.69191334546056,24.863127826707927,11.079874317843558,8.950249940490359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037950:1882010201:0473/pct:28.69191334546056,24.866103308736015,11.096411443691087,8.956200904546536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3277,7 +3277,7 @@ Iry tho family linen. The grounds 6urouuding
 the house wero uncleared and  
 ouch i henco tho nee&#x27;essity of this expreslio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193493:1884110601:1069/pct:25.173819228002877,73.06896551724138,14.43298969072165,8.448275862068966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193493:1884110601:1069/pct:25.185806760968592,73.07758620689656,14.43298969072165,8.456896551724139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3302,7 +3302,7 @@ a tax indeed, but the fires we are obliged to
 keep to secure us from daily ague are cheer  
 ing. Bells are wholly wanting; not one hun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197504:1884121901:0823/pct:60.16886930983847,88.37542306690966,16.57488986784141,6.469669356938297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197504:1884121901:0823/pct:45.16069788797061,66.28482166102577,12.433425160697889,4.855506378547253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3346,7 +3346,7 @@ niles on the Frederick rond, by which means we were
 obliged to go the other eight through woods, where we  
 wandered two hours without finding a guide or a pat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885021701:0663/pct:64.7015475313191,109.0191314910416,50.92114959469418,7.83480109322806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885021701:0663/pct:16.178367422148515,27.2547828727604,12.73263313064308,1.958700273307015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3395,7 +3395,7 @@ the President and Mr Shaw; two lower rooms, one for
 a common parlor and one for a levee room  
 And yet,&quot; Mr. Bigelow observes, &quot;there wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885021701:0663/pct:64.77523949889462,117.82569085939872,50.99484156226971,44.27573641056787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044851:1885021701:0663/pct:16.196793808734107,29.45642271484968,12.751059517228672,11.068934102641968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3486,7 +3486,7 @@ by which means we were obliged to go the other
 eight through woods, where we wandered two  
 hours without finding a guide or a path. [This
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1885022801:0262/pct:73.60327313769751,12.965997541990987,11.060948081264108,2.591151167554281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1885022801:0262/pct:73.60797592174568,12.965997541990987,11.065650865312264,2.5979789703673357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3541,7 +3541,7 @@ Shaw; two lower rooms, one for a parlor and one
 for a levee room.”  
 STATE ITEMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1885022801:0262/pct:73.56094808126412,15.936091765669808,11.060948081264108,15.362556329373207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1885022801:0262/pct:73.56565086531226,15.936091765669808,11.060948081264108,15.369384132186262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3632,7 +3632,7 @@ by the President and Mr. Shaw; two
 lower rooms, one for a common parior  
 and ome for a levee room,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198922:1885031401:0251/pct:55.69476082004556,185.2324774462179,44.93166287015946,96.40527411519778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198922:1885031401:0251/pct:13.92369020501139,46.308119361554475,11.232915717539864,24.101318528799446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3652,7 +3652,7 @@ or ti ne miles on the Fredrii k road, b
 which means we were obliged to go the  
 other eight through woods, where we
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667450:1885032501:0050/pct:80.83427282976325,48.02013422818792,14.360202931228862,2.9642058165548097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667450:1885032501:0050/pct:60.642796729630675,36.017897091722595,10.78376092472512,2.2259507829977627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3741,7 +3741,7 @@ aud one for a levee room.
   
 the Presidency iu . those days, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667450:1885032501:0050/pct:80.46786922209695,53.51230425055928,14.825253664036076,30.29082774049217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_grandfather_ver01:data:sn85042098:00415667450:1885032501:0050/pct:60.37496475895123,40.13422818791946,11.12207499295179,22.729306487695748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3777,7 +3777,7 @@ tered as they are, I see no great comfort
 for them.&quot; A number of similar interest­  
 ing reminiscences are reproduced in B
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103085:1886012101:0074/pct:168.9578713968958,189.35887988209285,42.79379157427938,39.97052321296979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103085:1886012101:0074/pct:42.26289517470882,47.33971997052321,10.704381586245146,9.992630803242447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3806,7 +3806,7 @@ Her lofty lineaments carried a trace of
 the Puritan severlty. They were those of  
 the helmeted Minerva, and not of the cos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030906:1886060301:0628/pct:16.925556858147715,235.63912907594542,32.72274325908558,17.26221481404313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030906:1886060301:0628/pct:5.641852286049238,78.54637635864847,10.90758108636186,5.754071604681043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3984,7 +3984,7 @@ badly but wrote: “It is a beautiful spot,
 capable of any improvement, and tbe more  
 I view it the more I am delighted with it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182069:1891122801:0515/pct:71.81331857590851,7.700831024930748,16.12248662608375,5.637119113573407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182069:1891122801:0515/pct:55.654038598999286,5.968226706741091,12.494639027877055,4.375983970230428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4008,7 +4008,7 @@ tory l
 And how came it that Mrs. Adams  
 was the first occupant of the Whit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1893040101:0872/pct:6.077348066298343,19.14387633769322,14.19317965326729,5.641432157484476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685178:1893040101:0872/pct:6.076190476190476,19.141347424042273,14.195238095238095,5.643989431968296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4032,7 +4032,7 @@ of our early history!
 Anti how came it that Mrs. Adams  
 was the first occupant of the White 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_aberdeen_ver01:data:sn91052321:00414214216:1893042901:0067/pct:15.50122249388753,23.353535353535353,10.56234718826406,4.303030303030303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_aberdeen_ver01:data:sn91052321:00414214216:1893042901:0067/pct:15.507334963325183,23.358585858585858,10.56845965770171,4.297979797979798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4068,7 +4068,7 @@ New England,’ very many of the pres- 1
 ; ent inconveniences would have been [  
 removed.&quot; Hut she had not muc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_aberdeen_ver01:data:sn91052321:00414214216:1893042901:0067/pct:15.207823960880196,65.91919191919192,10.855745721271393,9.818181818181818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_aberdeen_ver01:data:sn91052321:00414214216:1893042901:0067/pct:15.2200488997555,65.92929292929293,10.855745721271393,9.828282828282829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4114,7 +4114,7 @@ aimple-minded were the great dames
 And how came it that Mrs. Adams  
 was the first occupant of the Whit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_hartville_ver01:data:sn90051455:00514150515:1893050401:0931/pct:8.603383997705764,26.386078510724403,14.683108689417837,4.81586402266289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_hartville_ver01:data:sn90051455:00514150515:1893050401:0931/pct:8.603383997705764,26.386078510724403,14.697447662747347,4.825981384055038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4138,7 +4138,7 @@ ew England, very many of the pres­
 ent inconveniences would have been  
 removed.” But she had not muc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_hartville_ver01:data:sn90051455:00514150515:1893050401:0931/pct:9.349010610840264,81.42452448401457,14.25293948953255,4.856333468231485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_hartville_ver01:data:sn90051455:00514150515:1893050401:0931/pct:9.349010610840264,81.42452448401457,14.260108976197305,4.856333468231485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4304,7 +4304,7 @@ on a grand and superb scale, requiring about thirty
 servants to keep the apartments in order. For  
 that time, indeed. It was on so superb and gran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175038759:1894121701:0709/pct:6.077170418006431,75.65217391304348,47.057877813504824,6.443701226309922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175038759:1894121701:0709/pct:2.0257234726688105,25.217391304347824,15.685959271168274,2.147900408769974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4340,7 +4340,7 @@ sion has long been inadequate for the
 requirements of the president. The  
 official part of the house is exactly, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529674:1895021401:0476/pct:49.92373066027457,13.162705667276052,14.142514709086948,6.657525898842169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529674:1895021401:0476/pct:49.91285403050109,13.160700685453161,14.14488017429194,6.66031987814166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4366,7 +4366,7 @@ sion hes long been inadequate for the
 requirements of the president The  
 official part of the house Is exactly, I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_lawrence_ver01:data:sn84029386:00295871465:1895072501:0469/pct:92.52519596864502,118.44138394356735,16.601343784994402,8.313738663083642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_lawrence_ver01:data:sn84029386:00295871465:1895072501:0469/pct:69.43977591036415,88.8310379576755,12.46498599439776,6.247900571044676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4535,7 +4535,7 @@ this place.
 the one is bells, but the more important is  
 wood, yet you cannot sec wood for trees
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102354:1897040101:0287/pct:22.652081109925295,6.835215349255521,34.72518676627535,122.32437293894274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102354:1897040101:0287/pct:17.002535699986655,5.126411511941641,26.05098091552115,91.7457779554312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4576,7 +4576,7 @@ bells and let me have wood enough to
 keep fires,’ wrote Mrs. Adams. ’I de  
 sign to be pleased.’ But, thoug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011782:1897050101:0399/pct:34.65950341222593,63.65517955086412,13.169740090024684,2.3181206664596914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011782:1897050101:0399/pct:34.66434344901021,63.65862913518921,13.174580126808964,2.314671082134603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4683,7 +4683,7 @@ wood enough to keep .fires,&#x27;
 wrote Mrs. Adamsj &#x27;I design  
 to be pleased.&#x27; But, thoug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn82007642:00202197905:1897050601:0499/pct:85.47326906222612,37.092696629213485,19.01840490797546,5.280898876404494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn82007642:00202197905:1897050601:0499/pct:64.1244795090949,27.823033707865168,14.266929651545036,3.960674157303371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4701,7 +4701,7 @@ me up some belle and let me have
 wood enough to keep fires,&#x27; wrote  
 Mrs. Adams, ‘1 design to be pleased.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fugazi_ver01:data:sn89051168:00393343060:1897051201:0272/pct:48.88487040385775,25.02376103190767,14.96885674100864,2.4983027834351663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fugazi_ver01:data:sn89051168:00393343060:1897051201:0272/pct:48.87505022097228,25.020363833831116,14.970871836078746,2.5013575889220743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4718,7 +4718,7 @@ will put up some bells and let me have
 wood enough to keep fires.&#x27; wrote Mrs.  
 Adams, &#x27;I design to be pleased.&#x27; Hut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768753:1897051701:0543/pct:69.3063499046781,12.915049590340663,12.1718727086083,1.347563605002156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768753:1897051701:0543/pct:69.3063499046781,12.918643093287336,12.1718727086083,1.3439701020554837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4757,7 +4757,7 @@ up some bells and let me have wood enough
 to keep fires,&#x27; wrote Mrs. Adams,&#x27;I de­  
 sign to be pleased.&#x27; But, though literall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479901:1897051901:0163/pct:62.84552845528455,61.32169300475191,13.951219512195122,2.011271963752901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479901:1897051901:0163/pct:62.856368563685635,61.32169300475191,13.956639566395664,2.0149556120381624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4775,7 +4775,7 @@ up some bells and let me have wood
 enough to keep fires,&quot; wrote Mrs. Ad  
 ams, &quot;I design to be pleased.&quot; But
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270502:0027176277A:1897052601:0381/pct:58.76288659793814,57.18682671591259,17.06553755522828,2.9701446598953525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_hickory_ver01:data:2016270502:0027176277A:1897052601:0381/pct:44.09651869589243,42.89012003693444,12.820040523116596,2.231455832563866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4811,7 +4811,7 @@ bells and let me have wood enough to
 beep fires,&#x27; wrote Mrs. Adams, &#x27;I design  
 to be pleased.&#x27; But, though literally i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1897061801:0337/pct:88.01208231074193,57.06439653988741,15.121767037946007,2.4852395990663187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1897061801:0337/pct:77.02219040801718,49.9399279134962,13.237156544243158,2.182619142971566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4831,7 +4831,7 @@ ings amid bogs and morasses. &quot;The White
 House,&quot; she wrote, &quot;is upon a grand and  
 superb scale, but not a single apartment fin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102354:1897070801:0400/pct:24.53580901856764,87.11729622266401,16.631299734748012,3.78727634194831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102354:1897070801:0400/pct:18.41581531113175,65.33797216699801,12.485073636725488,2.8429423459244534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4860,7 +4860,7 @@ cupants. The ever increasing needs of
 the president’&#x27;s life have encroached  
 more and more upon his living apart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152913:1897072401:0580/pct:83.2417950435365,33.92226148409894,12.525117213663764,7.534816046559967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152913:1897072401:0580/pct:83.24626032596562,33.92919005057853,12.529582496092878,7.541744613039562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4884,7 +4884,7 @@ ple cannot be found to cut and cart it!
 into a new country.” ‘lhe public officers  
 had bardly been established in the cit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1898090301:0642/pct:48.30104795173071,43.235234007766195,19.752302318196254,7.480073574494176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1898090301:0642/pct:48.311633322747966,43.23864023434839,19.752302318196254,7.483479801076368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

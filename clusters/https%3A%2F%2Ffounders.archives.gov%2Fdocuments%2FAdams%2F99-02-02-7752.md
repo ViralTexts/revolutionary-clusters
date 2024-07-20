@@ -110,7 +110,7 @@ ing an anecdote. One &lt;f the zealous mendi­
 cants for the contributions to the funds of  
 Missionary Societies, called on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823042301:0402/pct:101.22749590834697,48.11849479583667,21.05155482815057,46.543901788097145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823042301:0402/pct:78.45251308070398,37.29532214140439,16.331060726177263,36.071563997380125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ his pulpit, nor be permitted o go into the
 pulpit of sny other. Now, if you will raise o  
 fungd to couvers thpeo nine Clergymen (o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823043001:0475/pct:28.72734359773923,45.06271379703535,21.574741765737674,49.08779931584949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823043001:0475/pct:28.72734359773923,45.07031546940327,21.574741765737674,49.095400988217406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ adding an anecdote.—One of the zealous
 mendicants for the centributions to the  
 funds of Missionary societies called on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823050601:0070/pct:61.11598013438504,29.29487797820006,16.09699094361671,45.45191472942992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823050601:0070/pct:61.120849157658974,29.301308639593582,16.101859966890643,45.45191472942992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ whom lives on terms of civility with any
 other, will admit, mine other into his pulpit,  
 nor he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823050601:0312/pct:33.096976016684046,17.27047868470828,15.453597497393117,44.39109559144478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823050601:0312/pct:33.090075062552124,17.26796624963631,15.45558798999166,44.38827465813209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,7 +1220,7 @@ In* pulpit, nor be per milted to go into
 the pulpit of any other. Now. if x»u  
 Will raise a fund to convert ihr*e mne 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831071401:0321/pct:8.281733746130032,13.046937151949086,15.897832817337461,12.580975110808046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831071401:0321/pct:8.280451942423774,13.045454545454545,15.90053139348914,12.583333333333334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

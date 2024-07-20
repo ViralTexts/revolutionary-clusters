@@ -1822,7 +1822,7 @@ So shall thy lasting leaves, with beauty hung.
 Prove a fit emblem of the lays he sung.  
 There can scarcely be imagined a mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn92053237:00212472025:1840112701:0113/pct:325.5832037325039,217.60445682451254,59.72006220839813,16.71309192200557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn92053237:00212472025:1840112701:0113/pct:81.42746013224426,54.401114206128135,14.935822637106185,4.178272980501393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1854,7 +1854,7 @@ So shall thy lasting leaves, with beauty hung,
 Prove a fit emblem of the lays he sung.&quot;  
 There can scarcely be imagined a more delight
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1841022601:0018/pct:19.906074837145887,7.297720160929817,14.800787759430388,3.8891372373714796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1841022601:0018/pct:19.91112457708428,7.3051706154075395,14.805837499368783,3.8965876918492026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1954,9 +1954,9 @@ arch-episcopal labors by preaching in public; and as Paris had neve
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1844-04_14_80/page/n75/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1844-04_14_80/page/n75/mode/1up?view=theater)
 
-#### 1844-04-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1844-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2038,7 +2038,7 @@ without a book are in the same condition.’’ Th
 &quot;So much as thou for it; for all must own,  
 &quot;Thy name and lasting fame adorns this stons.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874429:1850081001:0111/pct:248.89947437582128,223.18773234200742,35.775295663600524,6.029275092936803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874429:1850081001:0111/pct:82.9664914586071,74.39591078066914,11.925098554533509,2.0097583643122676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2208,7 +2208,7 @@ whose origin is entirely in the intempera­
 ture of our humors, or in some disposition  
 of air that oppresseVour machine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1855122001:0172/pct:8.333333333333334,117.50053225463061,16.161616161616163,4.055780285288482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn87076863:00296028861:1855122001:0172/pct:6.2596491228070175,88.13072173727912,12.126315789473685,3.0444964871194378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2231,7 +2231,7 @@ Prove a Bt emblem ol the days he suag.&quot;
 This ancient custom, observed to a great  
 extent in our own community at the presen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1858082601:0141/pct:8.59100491918482,103.05919745729042,16.408995080815178,6.0389352403655145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035102:0029602708A:1858082601:0141/pct:6.448778773502021,77.30101973248577,12.317694605517485,4.529201430274136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2255,7 +2255,7 @@ Ivy and flowerets were also planted at the
 Sravc of Anacreon- Th tombs of llafiz and  
 Sade&#x27; the great poets of Persia, are honore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1858091501:0651/pct:22.333333333333332,58.842943117841195,16.41025641025641,7.076295864880605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667814:1858091501:0651/pct:16.76285750929845,44.13706076490002,12.312427856868027,5.309648611920015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2298,7 +2298,7 @@ being made consul&quot;--a far less mischievous or odious ruler
 by the way, than our Northern masters would put over  
 us--&quot;would have surprised us so much as we imagine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860113001:0524/pct:172.5943396226415,84.84263151914556,38.17610062893082,5.908419497784343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860113001:0524/pct:57.52240213802861,28.277664167234718,12.723366347010428,1.9692494130121942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2799,7 +2799,7 @@ come from Spain, for then it will be sure to
 be long in coming.  
 At certain seasons of the year nearl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294749:1882081201:0252/pct:54.64759959141982,22.998590004699984,60.776302349336056,12.658624471251763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294749:1882081201:0252/pct:13.665389527458492,5.749647501174996,15.197956577266922,3.1646561178129406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2915,7 +2915,7 @@ supplanted the rose and the violet, the favourit
 wiser than they seem. The Spaniards  
 seem wiser than they are.” And tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jackman_ver02:data:sn82014248:00514155951:1898051201:0362/pct:56.74040461334846,83.49183818310858,12.72452259406315,1.4478353442157559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jackman_ver02:data:sn82014248:00514155951:1898051201:0362/pct:56.7296786389414,83.47998864604031,12.726843100189036,1.4511779733181946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2949,7 +2949,7 @@ The French,&quot; said Bacon, &quot;are wiser
 than they seem. The Spaniards seem  
 wiser than they are.&quot; And that is no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn84036012:00294550161:1898051701:0731/pct:131.6983122362869,147.24576271186442,37.869198312236286,3.940677966101695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_avocet_ver01:data:sn84036012:00294550161:1898051701:0731/pct:43.89943741209564,49.0819209039548,12.623066104078763,1.3135593220338984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2969,7 +2969,7 @@ than they seem. The Spaniards seem
 wiser than they are.&quot; And that is not  
 saying much for the actual condition of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898070302:0278/pct:171.71383421922138,280.71135430916553,38.816262031317336,8.675330597355222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898070302:0278/pct:57.237944739740456,93.57045143638851,12.938754010439114,2.8917768657850735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

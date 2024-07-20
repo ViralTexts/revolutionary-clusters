@@ -124,7 +124,7 @@ In connexion with those opinions respecting
 the principles of a constitution, it may not he  
 | amiss to state some of the chief features o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827112101:0364/pct:62.239891727288104,28.97141518275539,19.099983082388768,11.30506091846298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827112101:0364/pct:62.22936400541272,28.96802155323884,19.10239061795219,11.307641247901293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ it may not be amiss to state some of the
 chief features of Hamilton&#x27;s plau of go  
 reminent, as presented by him to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828011001:0435/pct:38.983411314334326,29.91381706978037,18.65163760102084,54.43425076452599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828011001:0435/pct:38.97512226238571,29.909659485753995,18.652987454816074,54.43015983321751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ whatsoever, on the legislative acts of the States,
 as the King of Great Britain heretofore had.&quot;  
 The tesolutions of Mr. Randolph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841111801:1007/pct:17.564693371144983,53.25542570951586,15.384615384615385,2.260177218440991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841111801:1007/pct:17.564693371144983,53.25970634818715,15.390523455039585,2.260177218440991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ of a federal government, says &quot;an article ought to be in­
 serted expressly guarantecing the tranquility of the States  
 against internal as well as external dangers;&quot; and in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860022301:0188/pct:12.52013471957827,131.5273951637588,39.85942304876263,3.5608611366187124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860022301:0188/pct:4.172767203513909,43.83799224648031,13.284529038555393,1.1868326191933618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ th .t the -National govern ment should be
 armed with positive and complete auiboritv  
 j in all cases which require uniformity ;&quot; tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200295602:1876051801:0769/pct:85.45279383429673,69.25369712254958,19.20359666024406,7.451564828614009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200295602:1876051801:0769/pct:64.1182139415355,51.94313882838473,14.407324124638611,5.594405594405594/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

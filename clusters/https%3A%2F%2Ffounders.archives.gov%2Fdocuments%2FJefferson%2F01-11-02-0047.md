@@ -182,7 +182,7 @@ kind ; for I can apply no milder term to
 tlie Governments of Europe, and to the  
 general prey of the rich on the poor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830011501:0123/pct:63.55097012627041,23.163513983985144,14.582691715429627,37.05465939422073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1830011501:0123/pct:63.541185527328714,23.160826177767465,14.585578650243777,37.054227585673395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ devours his ow n kind, for I can apply no milder term »o
 the governments ol Europe, and to the general prey ol  
 lb* ricl^ou the poor.”—1787. Vol. ii. p 8
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831070801:0074/pct:36.92136084774121,4.892521271831616,29.37813720022309,91.65920286609942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1831070801:0074/pct:36.91621357869789,4.891973581103772,29.37868860077141,91.65267360722414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -918,7 +918,7 @@ strong and explicit.
 There can be no doubt that universal eduea­  
 tion is the greatest preventative to slavery
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842060701:0294/pct:4.875166198847688,56.602597402597404,15.245974294578224,17.31948051948052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842060701:0294/pct:4.885015019451421,56.60952380952381,15.241049884276357,17.312554112554114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +940,7 @@ that every man should receive those papers
   
 and be capable of reading them.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1844081001:0848/pct:75.13069454817028,350.41084042093127,59.820761762509335,19.08606025659507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1844081001:0848/pct:18.78267363704257,87.60271010523282,14.955190440627334,4.771515064148767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -962,7 +962,7 @@ vithollt newspapers, or newspapers without a
 government, I should not hesitate a moment  
 to prefer the latter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846122601:0317/pct:85.75757575757575,253.156146179402,57.61904761904762,16.44518272425249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846122601:0317/pct:21.441714471263122,63.2890365448505,14.406321030414547,4.1112956810631225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1217,7 +1217,7 @@ al a goperament. I should not hesilate a mo-
 ment to prefer the latter.  
 This is the language of Thomas Jereerso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn83045160:0020029290A:1858052301:0339/pct:22.805139186295502,150.2066772655008,36.563169164882225,11.192368839427663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn83045160:0020029290A:1858052301:0339/pct:5.7028112449799195,37.5516693163752,9.143239625167336,2.798092209856916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1309,7 +1309,7 @@ milder term to the governments of Km ope,
 and to the general prey of the rich on the  
 poor.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557438:1861102601:1074/pct:14.969523126568662,9.538702111024238,11.473646468268196,31.691425592911127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557438:1861102601:1074/pct:14.969523126568662,9.541959864477457,11.478128361419865,31.691425592911127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ heeww poesrtmMwt without newepapers, or
 wmmtn without a fotenmentyl should  
 net hesitate a moment to prefer Me latter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862050301:0073/pct:16.862535612535613,6.24257621750033,11.253561253561253,3.2730632176323082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557244:1862050301:0073/pct:16.86698717948718,6.249175135277815,11.253561253561253,3.2763626765210505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1454,7 +1454,7 @@ hope always justly, and under the
 deepest sense of responsibility for the  
 truth of what we utter.-p
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869092201:0768/pct:332.6923076923077,301.16378086857793,47.03525641025641,60.40306556911723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1869092201:0768/pct:83.22309079975948,75.29094521714448,11.765884946883142,15.100766392279308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1628,7 +1628,7 @@ the poor.
 Under pretence of government, the  
 people of the United States, like th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1876072001:0331/pct:174.49324324324326,271.6561906154071,53.80067567567568,72.79637479900599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1876072001:0331/pct:43.623310810810814,67.91404765385178,13.45016891891892,18.199093699751497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1686,7 +1686,7 @@ newspapers, or newspapers without a gov­
 ernment, I should not hesitate a moment  
 to prefer the latter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881071301:0042/pct:224.85586162716208,78.01384578658391,49.39141575912876,15.039388875626642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881071301:0042/pct:56.231976930471006,19.50346144664598,12.351810317206024,3.7598472189066605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1717,7 +1717,7 @@ happiness than those who live under the European
 Governments,&quot; and he was convinced that public  
 opinion was quite as effective a torce as law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039958:1883042701:0238/pct:10.795631825273011,217.95358178977907,46.17784711388455,27.929033697835305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039958:1883042701:0238/pct:3.5985439417576703,72.65119392992635,15.392615704628184,9.309677899278435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1820,7 +1820,7 @@ Government, I should not hesitate to
 prefer the latter.-T. JefersoN.  
 William T. Adams, the &quot;Olive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295900:1885022001:0063/pct:298.58921161825725,36.459430979978926,67.30290456431536,61.22233930453108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295900:1885022001:0063/pct:74.66279311060386,9.114857744994731,16.8292176800166,15.30558482613277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1894,7 +1894,7 @@ prefer the latter. T. Jefferson.
 The past year&#x27;s literary record  
 chiefly showed unusual productivenes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539240:1885040101:0689/pct:112.16719914802982,20.784641068447414,14.230564430244941,16.42320534223706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_abbott_ver01:data:sn95073194:00206539240:1885040101:0689/pct:84.15446071904128,15.588480801335558,10.679094540612518,12.32262103505843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1974,7 +1974,7 @@ The people are the only censors of their Governors,
 and even their errors will tend to keep these to the true  
 principles of their institutions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.4228702993093,180.4758999389872,50.575594781273985,6.345332519829164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.88291746641075,45.1189749847468,12.648752399232245,1.586333129957291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1992,7 +1992,7 @@ a Government without newapapers, or newspapers
 without a Government, I should not hesitate a moment  
 to preter the latter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.1926323867997,211.47040878584502,50.882578664620105,7.809640024405125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.82533589251439,52.867602196461256,12.72552783109405,1.9524100061012812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2030,7 +2030,7 @@ errors will tend to keep these to the
 true principles of their institutions.  
 The cement of this I&#x27;niou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.40169133192389,40.31540638900121,12.07892882311487,10.705620703598868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.39177001127396,40.31133124431416,12.081924088688464,10.70790794838101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2050,7 +2050,7 @@ papers without a Government, I
 should not hesitate a moment to  
 prefer the latter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.50035236081747,62.545491306105944,11.994362226920366,4.144763445208249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110201:0360/pct:70.49041713641488,62.539169109471345,11.997369409996242,4.147713871761178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2068,7 +2068,7 @@ the Governors, and even their errors
 will tend to keep these to the true prin­  
 ciples of their institutions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:110.94736842105263,283.6565096952909,43.29824561403509,10.76375148397309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559966:1888110901:0609/pct:27.746577746577746,70.91412742382272,10.828360828360829,2.6909378709932725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2091,7 +2091,7 @@ man parasites living on the labor ot the
 Industrious  
 Tne cement of this Union I I the he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:11.35646687697161,360.5291166185191,53.47003154574133,25.30028888551011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:2.8391167192429023,90.13227915462977,13.367507886435332,6.3250722213775274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2139,7 +2139,7 @@ principle as to deem it honorable
 lor the i idler.tl of yesterday I  
 as a c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.11128165771297,41.23009335529929,10.698388334612433,13.179571663920923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.11128165771297,41.23009335529929,10.698388334612433,13.186893648178657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2163,7 +2163,7 @@ He who is now against domestic
 maoafacture mast be for reducing  
 aseithei todepeudei.on Englan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.23407521105142,56.672158154859964,10.621642363775901,5.9088412959912135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071901:0317/pct:45.23407521105142,56.672158154859964,10.62675876183167,5.912502288120081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2443,7 +2443,7 @@ grains most perfectly. The past year has
 departed from the average, both in rain­  
 fall and temperature and, therefore, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478738:1890013001:0037/pct:24.90025389916576,9.106371843516943,15.723612622415668,23.603297134632996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042405:00212478738:1890013001:0037/pct:21.793176408357578,7.967945048654837,13.768844221105528,20.660179355084907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2511,7 +2511,7 @@ fairs you and I and Congress, and
 the assemblies, Judges and Govern­  
 ors will all become wolves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jughead_ver01:data:sn89066489:00294556655:1891072201:0345/pct:29.305019305019304,53.17220543806646,19.826254826254825,13.490082753185341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jughead_ver01:data:sn89066489:00294556655:1891072201:0345/pct:22.001158972377826,39.879154078549846,14.873478848754104,10.127413634572441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2574,7 +2574,7 @@ those papers, and be capable of reading them.— Worés
  o a y mean that every man should receive those  
  o   paners and be capable of reading them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045107:1893082002:0054/pct:0.0,155.89866586718634,76.90036900369003,19.907060410733024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045107:1893082002:0054/pct:0.0,38.974666466796585,19.225092250922508,4.976765102683256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2629,7 +2629,7 @@ have a Government without newspapers, or
 newspapers without a Government, I should not  
 hesitate a moment to profer the latte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:278.6697247706422,156.1272644238088,51.29969418960245,9.681838940478002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:69.66743119266054,39.0318161059522,12.824923547400612,2.4204597351195005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2648,7 +2648,7 @@ papers, or newspapers without a govern­
 ment, I should not hesitate a moment to  
 prefer the latter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895022101:0032/pct:86.58462473412337,68.8506588579795,9.738681251899118,2.464616886285993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1895022101:0032/pct:86.57147197326447,68.84225936318165,9.740999544280722,2.4673661095522754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2674,7 +2674,7 @@ newspapers, or newspapers without
 a government, I should not hesitate  
 a moment to prefer the latter.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157509:1895051101:0480/pct:3.2727895819054145,79.37451537865081,9.93831391363948,5.453605582837943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157509:1895051101:0480/pct:3.272228884701045,79.36425894818451,9.940894295014562,5.456131283111513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2754,7 +2754,7 @@ can apply no milder term to the gov­
 ernments of Europe, and to the gen­  
 eral prey of the rich on the poor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879324:1895071601:0228/pct:49.678550555230856,8.285243198680956,41.788427819988314,118.29142621599341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879324:1895071601:0228/pct:37.26435773783428,6.213932399010718,31.345900920648837,88.72629843363562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2857,7 +2857,7 @@ their institutions.&quot;
 Here is what St Loe Strachey, ed­  
 itor of the London Spectator, said re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270204:00279527768:1895101001:0596/pct:109.10224438902743,41.779975278121135,19.22277639235245,10.245845350913337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270204:00279527768:1895101001:0596/pct:81.87110187110187,31.34184864716385,14.428274428274428,7.691251201758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2882,7 +2882,7 @@ governors; and even their errors will
 tend to keep to the true principles of  
 their institutions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895101101:0556/pct:46.70348058902276,44.77440734132042,18.28982597054886,8.807035432067295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_douglas_ver01:data:sn84029671:00212473285:1895101101:0556/pct:31.15165718111818,29.849604894213613,12.202879142952796,5.87560540402753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2923,7 +2923,7 @@ with a uress under the strict surveil­
 lance of government has been tried  
 and also government with an enlighten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:2065344540:1896010701:0066/pct:40.652724968314324,32.59345794392523,16.825095057034222,20.677570093457945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:2065344540:1896010701:0066/pct:27.111392806211377,21.72897196261682,11.218507368087467,13.785046728971963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2976,7 +2976,7 @@ the classes. They have monopolized
 the fruits of the earth and imposed up­  
 on the people of this country. We hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871313:1896041701:0121/pct:40.37245256500351,21.328883495145632,17.164441321152495,19.766383495145632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_inge_ver01:data:sn82016014:00295871313:1896041701:0121/pct:30.298769771529,16.004247572815533,12.882249560632689,14.820995145631068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3033,7 +3033,7 @@ fruits of the earth and imposed upon
 the people of this country. We have  
 come to that pass where a few million
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn93067634:00237288142:1896043001:0468/pct:9.45632920016351,217.47541337944452,40.346096198392154,48.02766670269102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn93067634:00237288142:1896043001:0468/pct:3.1521097333878365,72.49180445981483,13.448698732797384,16.00922223423034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3076,7 +3076,7 @@ prefer the latter, but I should mean
 papers and be capable of reading  
 them.Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766434:1896111201:0380/pct:9.418282548476455,57.056351952545725,16.694367497691598,23.084527928818588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766434:1896111201:0380/pct:9.418282548476455,57.056351952545725,16.694367497691598,23.08864722359532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3252,7 +3252,7 @@ jno milder term to the governments j
 jof Europe and the general prey of \
 ! the rich on the poor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_muddy_ver02:data:2012252560:00200290495:1897032001:0380/pct:62.61552680221811,39.025796224239805,17.88354898336414,49.3586972186194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_muddy_ver02:data:2012252560:00200290495:1897032001:0380/pct:62.62322858903266,39.03540375654513,17.898952556993223,49.3586972186194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3274,7 +3274,7 @@ out newspapers, or newspapers with­
 out a government, I should not hesi­  
 tate a moment to prefer the latter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1897040801:0286/pct:37.642369020501135,73.92578125,13.980637813211844,5.1513671875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1897040801:0286/pct:28.243839908844894,55.4443359375,10.497080188007406,3.86962890625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3294,7 +3294,7 @@ out newspapers, or newspapers without
 a government, I should not hesitate a  
 moment to prefer the latter.”—Jeffer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897051401:0851/pct:27.925184862983905,51.46299483648881,10.743801652892563,3.253012048192771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332896817:1897051401:0851/pct:27.9191128506197,51.45413870246085,10.746901500326159,3.2567544312510757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3315,7 +3315,7 @@ government, I should not hesitate a mo­
 ment to prefer the latter.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898092301:1039/pct:48.38395638629284,31.248339973439574,18.43847352024922,4.1699867197875164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898092301:1039/pct:36.306973120373975,23.43957503320053,13.82937280872614,3.134130146082337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3341,7 +3341,7 @@ per enterprise depends upon
   
 the character of the ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn90061309:00200292194:1899052501:0232/pct:57.038123167155426,103.82240026706727,21.309872922776147,10.933066266065765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_imogen_ver01:data:sn90061309:00200292194:1899052501:0232/pct:42.81173594132029,77.86680020030045,15.990220048899756,8.212318477716575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3380,7 +3380,7 @@ tate to prefer the latter. Tlios. Jef­
 ferson.The result of every newspaper en­  
 terprise depends upon the characte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556023:1899060901:0435/pct:106.16570327552986,10.912579445976736,18.705844572896595,29.140184674421395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556023:1899060901:0435/pct:79.66265060240964,8.190430507255067,14.040160642570282,21.84914258304353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3431,7 +3431,7 @@ papers without a government, I should
 not hesitate a moment to prefer the lat  
 ter.&quot; It will be seen from these extract
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1899081101:1011/pct:29.505703422053234,101.97084233261339,15.855513307984792,7.95086393088553/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1899081101:1011/pct:22.13769494104222,76.48488120950324,11.905667554203118,5.966522678185745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -92,7 +92,7 @@ S.ates the thirty-sixtn.
 Ay the President,  
 (Signed) JAMES MUNROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812062201:0573/pct:23.284671532846716,31.922414574458443,21.605839416058394,34.72310341702166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812062201:0573/pct:23.281272806889504,31.91952147906471,21.607551209069236,34.72297746359737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ Hit eke President,
 (Signed) JAMES MUNKOE,  
 Secretary qf State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812062301:0057/pct:41.46559428060768,3.404776484996938,34.83467381590706,93.99877526025719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812062301:0057/pct:41.45818441744103,3.404359539554249,34.83440552775792,93.99134623234549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ v
 IES MONROE.  
 Secretary of Stitt?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812062401:1208/pct:27.8239608801956,59.274258869269396,21.246943765281173,38.06901020573465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812062401:1208/pct:27.81715961867514,59.26465824425008,21.24786115864092,38.06689342403628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ Washington, the nine­
 teenth day of June,  
 one thousand
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062501:0196/pct:58.875473058208684,11.965811965811966,17.17426563344747,51.69183936307224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062501:0196/pct:58.86486486486486,11.96441114493093,17.177177177177178,51.68969015843284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ S&#x27;ates the thirtv-sixth.
 (Signed) JAMES MUNROE,  
 Vixrctury vf State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812062601:0270/pct:5.802292263610315,62.93481438175972,22.54059216809933,34.09821689564455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812062601:0270/pct:5.800907137741705,62.92561741926056,22.541179279064217,34.09688733011837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ By the Prefdenz, 8
 {Signed) - Jamus Monroe,  
 | gt 1 Secretary zf State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812063001:0314/pct:41.979835013748854,32.06152026027802,17.201344332416742,39.49521837720595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812063001:0314/pct:41.979835013748854,32.06152026027802,17.201344332416742,39.49850471589602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ United States the thirty-sixth,
 - BY THE PRESIDENT,  
 (Signed) James MoNrok,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812070101:0645/pct:73.69890001641767,24.620723847297967,22.574289935971105,43.29201784828954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812070101:0645/pct:73.70984512668966,24.62402908610147,22.574289935971105,43.28871260948603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ States the seventieth.
 JAMES K. POLK.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661022:1846051501:0517/pct:72.26343405102226,10.83881980004877,17.839696037633434,20.141428919775663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661022:1846051501:0517/pct:72.26343405102226,10.84694789888645,17.851758036306617,20.137364870356823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -907,7 +907,7 @@ be affixed to these presents.
 In testimony whereof, I have hereunto set my  
 hand, and caused the seal of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846051501:0589/pct:8.046166529266282,121.47443246961706,47.81533388293487,49.66750745241917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846051501:0589/pct:2.6820555097554273,40.49147748987235,15.938444627644957,16.555835817473056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -954,7 +954,7 @@ May, 1846, and year of the Independence of the
 United States the seventieth.  
 JAMES E
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530236:1846051501:0680/pct:4.124203821656051,62.47648165569144,42.8343949044586,45.637347130761995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530236:1846051501:0680/pct:1.3747346072186837,20.82549388523048,14.278131634819532,15.212449043587332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,7 +1006,7 @@ the seventieth.
 JAMES K. POLK.  
 Ry the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026141:1846051501:0472/pct:31.72737955346651,14.995090475522513,15.041128084606346,20.577921167064105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:00296026141:1846051501:0472/pct:31.733907820864342,14.99976621312012,15.047656352004179,20.587272642259315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1051,7 +1051,7 @@ ence of the United States the seventieth.
 By the President:  
 JAneS BuCHANaN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846051501:0445/pct:8.572691117984975,28.48167539267016,38.32670496391221,44.86329261198371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846051501:0445/pct:2.857142857142857,9.492787342950209,12.773686794305352,14.952691174189546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1107,7 +1107,7 @@ By the President:
 James Buchanan, Secretary of State.  
 BOMBARDING THE CAPITOL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846051501:0068/pct:6.701444622792938,27.258053668706705,15.3892455858748,24.520815118703343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846051501:0068/pct:6.70077239442271,27.256220578345662,15.391045574614639,24.521407756108495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1158,7 +1158,7 @@ seventieth. JAMES K. POLK.
 By the President:  
 Jav.es Buchanan, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846051501:0613/pct:14.128521126760564,11.075441412520064,14.172535211267606,15.399867812293456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1846051501:0613/pct:14.138302034428795,11.078588738866333,14.182316118935837,15.403015138639725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1274,7 +1274,7 @@ By the President:
 James Buchanan,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846051601:0366/pct:67.68698060941828,6.8411336735801935,15.484764542936288,19.687262460636333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846051601:0366/pct:67.68698060941828,6.848372968472871,15.493998153277932,19.687262460636333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1329,7 +1329,7 @@ By the President:
 James Buchanan,  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846051601:0032/pct:42.95087781521546,54.396877668008294,17.99964532718567,23.23454079765825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846051601:0032/pct:42.94326241134752,54.390243902439025,18.002364066193852,23.235772357723576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1502,7 +1502,7 @@ JAMes BeehASan, Sceretary of State.
 SUICIDE.  
 The citizens of our village were shoched, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846051801:0398/pct:57.30511099638616,168.6748259126398,38.92617449664429,64.99261447562778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186464:1846051801:0398/pct:19.099238611433734,56.21901044413968,12.97371703875769,21.661919330449766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1646,7 +1646,7 @@ i,
 By the President, JAMES K. POLK.  
 James Bucuanan, Secretary of State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1846051901:0494/pct:6.416184971098266,60.331246212886285,14.783236994219653,14.290042415673602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1846051901:0494/pct:6.416184971098266,60.33797885948967,14.792870905587668,14.283309769070222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1700,7 +1700,7 @@ By the PresideNT. JAMES K. POLK.
 JAMES BUCHANAN.  
 Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1846051901:0091/pct:283.034379671151,84.67532467532467,53.06427503736921,85.65656565656566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1846051901:0091/pct:70.77181835170997,21.16883116883117,13.268547934965428,21.414141414141415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1908,7 +1908,7 @@ the late bid of Gov. Graham for the Raleigh and
 Gaston Road, and by the acts of Whig Governors  
 and Whig- Legislatures for the last seven or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1846052001:0512/pct:8.15944355270198,65.82687338501292,101.20385232744783,10.540482342807925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1846052001:0512/pct:6.127090301003345,49.3755383290267,75.90635451505017,7.902670111972437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1928,7 +1928,7 @@ people of the United States, as ihcy Jove their; The whisrs are iust besinnins l
   
 country, as they feel the wrongs which have fore-1 war is upon us. While the resolutions for the eight years, the State has been plunged deeply i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1846052001:0512/pct:48.28785446762975,74.33247200689061,60.78116639914393,3.025409130060293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1846052001:0512/pct:36.22742474916388,55.74935400516796,45.591973244147155,2.271748492678725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1975,7 +1975,7 @@ Done at the City of Washingten the 13 day of
 May, 1846, and year of the {odependence of the Umited  
 Sta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1846052001:0750/pct:5.7972902553413235,6.731657260133402,12.506513809275665,13.299127757824525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1846052001:0750/pct:5.8059753343755425,6.738498375235164,12.515198888309884,13.299127757824525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2033,7 +2033,7 @@ day of May, one thousand
 eight hundred and forty-six, and  
 of the independence of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026944:00202194278:1846052001:0034/pct:60.025730564234514,34.9948347107438,22.789928321999632,30.87551652892562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026944:00202194278:1846052001:0034/pct:60.03798321387,35.0034435261708,22.78380199718189,30.879820936639117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2262,7 +2262,7 @@ wrongs which have forced on them the e w olene tat ete oth wesh
   
 to set my hand, and caused the sea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1846052101:0661/pct:193.55828220858896,22.82694848084544,113.88036809815951,346.20871862615587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1846052101:0661/pct:48.38957055214724,5.70673712021136,28.470092024539877,86.55217965653897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2321,7 +2321,7 @@ forty-six, and of the independence of the
 United States the seventieth.  
 JAMES K.POLK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1846052101:0489/pct:56.80236604036187,10.913888222595347,24.391092553931802,37.98272967138403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:0023728236A:1846052101:0489/pct:42.628372497824195,8.191412808827057,18.311575282854655,28.484048932597744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2380,7 +2380,7 @@ i Tue War Procrammen.— We publish, to-day,
 (says the N, York Commercial, the proclama­  
 |li:m issued by the President to inform people o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021168:00514152779:1846052101:0046/pct:46.20043258832011,31.616082428043455,12.833453496755588,20.125433979169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021168:00514152779:1846052101:0046/pct:46.210045662100455,31.623548736327322,12.833453496755588,20.125433979169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2425,7 +2425,7 @@ thousand eight hundred and frty six, and of the
 independence of the United States the seventieth  
 JAEsK. POL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846052101:0749/pct:86.86946476703889,270.52600646488395,59.703504043126685,60.255656773435206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1846052101:0749/pct:21.713185755534166,67.621566034964,14.923002887391723,15.06170118995152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2486,7 +2486,7 @@ of the United States the seventieth.
 JAMES K. POLK.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1846052101:0223/pct:24.404652021414066,29.86529826812059,14.639099132361086,29.71135343168698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1846052101:0223/pct:24.40014765596161,29.861467419189328,14.642549526270457,29.711818026338292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2541,7 +2541,7 @@ By the President,
 JAnEs Buchanan,  
 Secretary of State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022355:00200290136:1846052101:0306/pct:274.95755517826825,293.91684901531727,58.573853989813244,96.16338439095551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn84022355:00200290136:1846052101:0306/pct:68.78318114249309,73.47921225382932,14.652792524952218,24.04084609773888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2582,7 +2582,7 @@ presents. Done at the City of Washington, on the thir­
 L. S. teenth day of May, one thousand eight hundred and forty  
 six, and of the Independence of the United States th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846052101:0294/pct:30.83528493364559,65.75498575498575,57.533177205308355,38.00569800569801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846052101:0294/pct:7.713337238820543,16.43874643874644,14.391720367115798,9.501424501424502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2636,7 +2636,7 @@ Slates thu seventieth.
 JAMES K. POLK.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1846052101:0794/pct:48.544866612772836,90.92235843549328,19.48261924009701,32.22416812609457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1846052101:0794/pct:36.43348160129398,68.19906596614128,14.617873028710068,24.16812609457093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2688,7 +2688,7 @@ of May, one thousand eight hun­
 dred and forty-six, and of the in­  
 dependence of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1846052101:0508/pct:4.808763460824359,34.785549993235016,13.275157816561455,17.60248951427412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348987:1846052101:0508/pct:4.8078708000742525,34.78084415584416,13.277334323371079,17.60349025974026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3130,7 +3130,7 @@ early last Saturday morning, and down we ran ten on the oeo o te o­
 to the river, and there, sure enough, pufling and lowing States for additional troops, to  
 snorting, ploughed the waters, a genuine hre o a o a e to te 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1846052201:0547/pct:123.5248447204969,149.82549211224347,106.05590062111801,63.38126483317046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1846052201:0547/pct:30.887206367695594,37.45637302806087,26.51912250048534,15.845316208292616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3178,7 +3178,7 @@ By the President:
 JAMEs BucHAnAs, Secretary of State.  
 THE CROps
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1846052201:0817/pct:122.91483757682177,299.2793057802618,121.24670763827919,70.59861744374173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1846052201:0817/pct:30.742204655248134,74.81982644506544,30.324989020641194,17.649654360935433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3230,7 +3230,7 @@ dence of ihe United Slates the seventieth.
 James K. Polk.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846052201:0359/pct:5.1757276221856126,90.18238261544431,39.59362987369577,36.36010865347303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846052201:0359/pct:3.886294973908267,67.63678696158324,29.703378192804173,27.27978269305394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3279,7 +3279,7 @@ Done at the City of Washington, the 13lh
 day of May. 1846, and year of the Indepen­  
 dence of the United Slatos the seventieth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1846052201:0181/pct:72.14083175803403,11.272968051647078,44.54158790170133,110.4287369640788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1846052201:0181/pct:54.124320491609545,8.458864426419467,33.41999527298511,82.81741433537493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3325,7 +3325,7 @@ of the Independence of the United States the
 seventieth. Jambs K. Pot.it.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1846052201:0274/pct:48.53987270685137,20.23121387283237,14.676151254211906,17.904624277456648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1846052201:0274/pct:48.53078794684634,20.228290709435054,14.678083473703913,17.905649472619565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3541,7 +3541,7 @@ States the seventieth.
 JAMES K. POLK.  
 By the President 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846052301:0376/pct:66.7975322490185,9.603676048248133,20.092540661805945,32.60195290063182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846052301:0376/pct:50.11220196353436,7.2027570361860995,15.077138849929874,24.457208500861572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3586,7 +3586,7 @@ a er ta o te tae te
 oe al ins sity a arninaton ins Isn Hinw  
 o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1846052301:0229/pct:147.64437689969606,271.95325542570953,60.25835866261398,75.5147468002226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1846052301:0229/pct:36.9181075432263,67.98831385642738,15.067452023560707,18.87868670005565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3618,7 +3618,7 @@ FROM WASHiNGTON.
 The War Spirit. Proceedings in Philade  
 phia--Remarks of GeN. CameroN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1846052301:0229/pct:330.54711246200606,174.06789092932667,59.650455927051674,48.970506399554814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776014:1846052301:0229/pct:82.65247957438723,43.516972732331666,14.915447463423902,12.242626599888704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3680,7 +3680,7 @@ of letters from General T&#x27;aylor which were
 ommunicated to Congress in connection  
 ith the President&#x27;s message on the subjec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1846052301:0294/pct:321.6478190630049,73.91120507399577,60.33925686591276,143.98872445384075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1846052301:0294/pct:80.41195476575122,18.477801268498943,15.08481421647819,35.99718111346019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3734,7 +3734,7 @@ JAMEs BuchANAN,
 Secretary of State.  
 The Tarif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1846052301:0720/pct:210.20408163265307,243.35004423473902,61.63265306122449,88.05662046593925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1846052301:0720/pct:52.5617472953664,60.837511058684754,15.411308430291896,22.01415511648481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3963,7 +3963,7 @@ FKOM THE SEAT OF WAR!
 Triumphs of the American Arms ! !  
 Brazos Santiago,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065542:0029587756A:1846052701:0537/pct:57.87671232876713,26.167960479887086,22.74375503626108,45.67395906845448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn87065542:0029587756A:1846052701:0537/pct:43.43006852075776,19.63302752293578,17.069729947601772,34.25546930134086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4013,7 +4013,7 @@ Seal of tiie United States to be
 (L. S. affixed to these presents. Done  
 , i at the City of AV
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027042:1846052701:0252/pct:26.05284888521883,23.363398312481817,19.40545004128819,29.7788769275531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035101:00296027042:1846052701:0252/pct:19.55399545736114,17.52982251963922,14.557092711129465,22.330520803025895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4062,7 +4062,7 @@ Uuited Slates the seventieth.
 , JAMES K. POLK.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846052801:0267/pct:5.707876370887338,14.861733353931717,23.404785643070788,29.12096400432566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846052801:0267/pct:4.288207429568686,11.154024409083886,17.57666417352281,21.844585200061797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4135,7 +4135,7 @@ orable peace. &quot;v:A; ; .-A&quot;--f. .A&quot;
 my hand, and caused the seal of the  
 United States to la tfaxed tot?.-?-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn84020019:00295877571:1846052901:0240/pct:48.02325581395349,100.3814367450731,19.21511627906977,19.495655859292224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn84020019:00295877571:1846052901:0240/pct:36.03315399156609,75.29137529137529,14.42489457612331,14.621741894469167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4276,7 +4276,7 @@ It.. S.) presents. Done at the city of Washing.
   
 ton the 13th 6ay ofMy, one thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016872:00295877522:1846053001:1264/pct:48.434891485809686,42.331288343558285,18.885642737896493,25.49753104893012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn83016872:00295877522:1846053001:1264/pct:36.33896890002087,31.752207092623074,14.172406595700272,19.123148286697592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4335,7 +4335,7 @@ hundred and forty six, and of the in
   
 dependence of the United States the seventieth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn84020048:0029587823A:1846053001:0357/pct:189.91331757289205,97.02617514046868,63.12056737588652,81.67740167191997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn84020048:0029587823A:1846053001:0357/pct:47.49704375246354,24.25654378511717,15.786361844698463,20.41935041797999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4439,7 +4439,7 @@ In testimony whereof. I have hereunto set
 my hand, and cansed the seal of  
 the United States to be affixed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082162:00514159324:1846053001:0656/pct:67.69260549748354,66.52655177245342,19.608981804103756,23.987669889309235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082162:00514159324:1846053001:0656/pct:52.472870930639594,51.55825822564882,15.192278841826274,18.604987874181056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4582,7 +4582,7 @@ JAMES K. TOLK.
 By the President:  
 J.oir.J BucnAtfAN, .Src&#x27;ty of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1846060301:0315/pct:25.37575150300601,97.46174617461746,19.564128256513026,28.11881188118812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn86053972:00295878472:1846060301:0315/pct:19.05239408373026,73.1053105310531,14.690398596139383,21.098109810981097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4604,7 +4604,7 @@ sort of injured n«j/tons,[!!] and as they con­
 sult the best meas, under the blessing of Di­  
 vine Providence [!] &amp;c. &amp;c. &amp;c.;” this i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1846060401:0239/pct:19.057293783015034,73.72575250836121,14.872003250711092,4.093645484949833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182963:1846060401:0239/pct:19.05342270972984,73.71589085072232,14.874060532195816,4.096441947565543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4659,7 +4659,7 @@ day of May, one thousand eight
 hundred and forty-six, and of the  
 independence of the United
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016940:0029587806A:1846060401:0659/pct:103.2967032967033,84.73413379073756,24.90842490842491,39.63693539165237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016940:0029587806A:1846060401:0659/pct:77.50801649106734,63.550600343053176,18.68987631699496,29.73127501429388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4699,7 +4699,7 @@ and the efficacy of the laws, and in supporting
 ing a speedy, a just and an honorable peace.  
 &#x27;■ In testimony whereof, I have hereunto sot m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82016488:00513688040:1846060601:0636/pct:17.998760842627014,10.245078344716754,18.804213135068153,16.23141824025713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82016488:00513688040:1846060601:0636/pct:17.998760842627014,10.251774474353823,18.835192069392814,16.22472211062006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4909,7 +4909,7 @@ day of May. in the year of our Lord, one
 [l. s.] thousand eight hundred and forty-six, and 1  
 of the independence of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1846111101:0031/pct:28.86947218259629,56.72064777327935,13.7660485021398,15.452091767881242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1846111101:0031/pct:28.864325191656267,56.71299419781406,13.76805134605099,15.453380110646336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4938,7 +4938,7 @@ ing and invigorating all the measures which may be
 adopted by the constituted authorities for obtaining a  
 peedy, a just, and an honorable peace.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846111801:0260/pct:83.01310043668123,262.15199398043643,57.99126637554585,25.583145221971407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846111801:0260/pct:20.753275109170307,65.53799849510911,14.497816593886462,6.395786305492852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5015,7 +5015,7 @@ J amki Buchanan, Secretary of Stat*
   
 ! Bulhe President of tke United States of Am rica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846112401:0193/pct:27.318914211061113,29.138576779026216,13.644941210625635,12.00374531835206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846112401:0193/pct:27.32859147433106,29.138576779026216,13.644941210625635,12.013108614232209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5076,7 +5076,7 @@ JAMES K. POLK.
 By the President:  
 JAMEs BUCHANAN, SecrEtArY oF StatE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846120501:0283/pct:206.46701388888889,130.74606891937103,58.55034722222222,53.49615255938441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846120501:0283/pct:51.62795745604515,32.68651722984276,14.640764054699371,13.374038139846103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5177,7 +5177,7 @@ seventieth.
 JAMES K. POLK.  
 By the President 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846121101:0471/pct:59.86385477843032,6.602970390691515,34.8505072076882,120.13054583293918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846121101:0471/pct:44.91921484844438,4.9569577145019394,26.14501268527173,90.09554441396273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5230,7 +5230,7 @@ the United Slates, the seventieth.
 JAMES K. POLK.  
 Ily the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn82014375:00414187419:1846122501:0060/pct:56.35422656699252,70.05462909718229,13.015142802376845,18.458884416331223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn82014375:00414187419:1846122501:0060/pct:56.343426600229975,70.04455943653873,13.017439632042928,18.4598246370562/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5288,7 +5288,7 @@ N JAMES K. POLK.
   
 By the President: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153218:1846122601:0606/pct:83.40013821700069,42.75587062472308,12.328956461644783,17.035888347363755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153218:1846122601:0606/pct:83.40935268371344,42.75587062472308,12.33817092835752,17.039580564170727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5406,7 +5406,7 @@ these presents.
 Done at the city of Washington, the nineteenth day of  
 June, 1812, and of the Independence of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854062001:1398/pct:6.115048623701995,84.79990904956799,46.71171913631119,37.39199636198272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854062001:1398/pct:2.0383495412339983,28.266636349855997,15.570573045437063,12.463998787327574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5448,7 +5448,7 @@ cansed the acal of the United states to be allized to these pree
 Done at the city of Washington the 18th day of June, 1812,  
 and of the independence of the Uulind itates the thiri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872020601:0451/pct:100.32159783344618,51.66825548141087,52.9790115098172,30.54099142040038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872020601:0451/pct:33.440532611148726,17.222751827136957,17.659670503272398,10.180330473466794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5568,7 +5568,7 @@ be-wlopted by the constituted authorities
 for obtaining a speedy, a just and an I  
 honorable&#x27; peace.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn85054468:00211102123:1898022201:0629/pct:28.169856459330145,53.460324616771864,18.361244019138756,25.87917042380523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn85054468:00211102123:1898022201:0629/pct:18.785521986239903,35.64021641118124,12.249476518097516,17.25653742110009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5614,7 +5614,7 @@ ures which may be adopted by the consti?
 tuted authorities for obtaiuiug a speedy,  
 a just and honorable pence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn95079490:00175031820:1898022301:1177/pct:33.647738209817135,31.35017658245042,16.304138594802694,17.26433034501494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn95079490:00175031820:1898022301:1177/pct:33.66057106191851,31.359232092728426,16.297722168752006,17.26433034501494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5648,7 +5648,7 @@ several passages of the condition of the
 relations with Mexico, summarizing the  
 condition in his message of May 11, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537498:1898030301:0022/pct:17.266881028938908,61.48009805065951,12.556270096463022,6.268238589938135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hallock_ver01:data:sn90059523:00206537498:1898030301:0022/pct:17.266881028938908,61.48787984903311,12.561629153269024,6.268238589938135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5712,7 +5712,7 @@ set my hand and caused the seal of the
 United States to be affixed to these pres­  
 ents.Done at the city of Washington the 19t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:00280760626:1898032201:0508/pct:65.92681463707258,61.61038389616104,18.83623275344931,26.828731712682874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:00280760626:1898032201:0508/pct:43.962801859907,41.07358926410736,12.55437228138593,17.885821141788583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5743,7 +5743,7 @@ United Sttes, that they be vigilant and
 realous in discharging the dutles respec-­  
 tively incident thereto; and I do more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049459:1898040901:0080/pct:129.13398965459703,269.92498827941864,40.63073585850159,23.734177215189874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049459:1898040901:0080/pct:43.04466321819901,89.97499609313955,13.54357861950053,7.9113924050632916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5775,7 +5775,7 @@ The rest of the proclamation is
 simply an exhortation calling up­  
 on all civil and military officers t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076432:00271740712:1898041401:0587/pct:7.569799449469131,72.26546497337156,17.63664962642548,16.837361736993035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076432:00271740712:1898041401:0587/pct:6.055680805326902,57.82018134809366,14.119435851727573,13.473653545027494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

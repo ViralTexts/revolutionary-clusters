@@ -92,7 +92,7 @@ the close of lf,£ war. i&#x27;lie division between astatue and
 a monument was so nearly equal, that the session pass.  
 Ht away without an appropriation for either. Th pub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816022201:0818/pct:2.193548387096774,14.111414352223472,22.09032258064516,7.705891796436025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816022201:0818/pct:2.192982456140351,14.109149277688603,22.09107327141383,7.708667736757624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ a &quot;dogtiin A1.4 v we cclehrato and con-eciate the
 memory of the heroic general, the patriotic statesman,  
 and viituoua sage; let his example leach wisdom an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828072301:0239/pct:57.76476175399715,28.65315852205006,17.46082000949818,1.66865315852205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184303:1828072301:0239/pct:57.755618866729975,28.649743773090215,17.463332278147092,1.6724268064990266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ long as our history shall be read.&quot; The
 House of Representatives adopted appro­  
 priate resolutions, and, headed by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899121401:0453/pct:20.361887311039855,60.785163359043246,16.89189189189189,12.72207296992807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_beveridge_ver01:data:sn82015679:00295871945:1899121401:0453/pct:15.278891306837705,45.59320565040298,12.667506585729011,9.541554727446053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

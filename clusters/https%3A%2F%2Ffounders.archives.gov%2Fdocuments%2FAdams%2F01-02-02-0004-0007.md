@@ -231,7 +231,7 @@ fels the redress of grievances, which we have
 delired, be obtained before that time., And  
 - we recommend that the {.me be held at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774111801:0353/pct:4.633879781420765,74.59524890301104,27.846994535519126,6.4457557875624145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774111801:0353/pct:4.648451730418944,74.60533615776467,27.846994535519126,6.435668532808796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ redress of grievances, which wc have desired, be
 obtained b.fbrethat time.—And we recommend  
 that the fame be held at the city of Philadelphia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774121601:0678/pct:69.46681175190425,28.64879877794751,27.834602829162133,5.5270101374809055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774121601:0678/pct:53.837072018890204,22.20269058295964,21.571934558947547,4.286995515695067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ tention to the grievances that alarm &amp; dis­
 tress his Majesty’s faichful fubjes in North-  
 America, and intreating his Majesty’s gra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012001:0388/pct:4.5423728813559325,23.878082401592895,28.519774011299436,5.513861234492265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012001:0388/pct:4.55743879472693,23.878082401592895,28.504708097928436,5.524072088630214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ May next, unless the redress of grlevances which
 we have desired be obtained before that time.&quot;  
 From the meeling, the organization and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874121701:0618/pct:68.84561891515995,359.02389425521096,43.25452016689847,7.320793085917641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874121701:0618/pct:17.220386154113758,89.75597356380274,10.819272917029048,1.8301982714794103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ May next, unless the redress of grievances which
 we have desired be obtained before that time.&quot;  
 From the meeting, the organization and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874121801:0622/pct:117.3342541436464,249.5853004976394,43.232044198895025,7.29871124154651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558329:1874121801:0622/pct:29.338628906924537,62.39632512440985,10.809877395959248,1.8246778103866275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

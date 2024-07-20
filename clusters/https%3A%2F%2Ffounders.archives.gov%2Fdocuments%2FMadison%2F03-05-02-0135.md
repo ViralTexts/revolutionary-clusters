@@ -78,7 +78,7 @@ sures necessary for removing their grievances
 mnd advancing their safety and prosperity.  
 That the people of Uus town and the people’o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809011401:0320/pct:6.654411764705882,7.075830585848339,17.5,11.387268577225463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809011401:0320/pct:6.653188752067635,7.074933434766071,17.502910004288427,11.390051139005115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -107,7 +107,7 @@ belonging to our citizens, deposited in that rountiy,
 and an opportunity to her navy and cruisers to  
 sweep the ocean of the remains of our once flou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812061501:1191/pct:51.885369532428356,49.71381847914963,21.141277023629964,10.645952575633688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812061501:1191/pct:51.872329731088215,49.70568999345978,21.142246795677305,10.648299542184434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ ami to furnish the individual* who compose it, with the
 power of enjoying j„ saf.ty ,lfltJ tranquility, their natu­  
 ral right*,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829111401:0148/pct:3.7102734663710275,77.67398411957029,14.98891352549889,2.7323680523120037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829111401:0148/pct:3.709725096068578,77.66491535318156,14.991624790619765,2.735940844522281/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ tution, maintenance and administration of
 government is to secure the existence of the  
 body politic, to proiect it&quot; &amp;c. The end o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197218:1843051701:0110/pct:89.85267588695129,108.15309584393553,19.7083583884546,6.361323155216285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197218:1843051701:0110/pct:67.40339798526537,81.11747243426633,14.794767704104645,4.770992366412214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ pie have a right to alter the govirnn
 and to take measures necessary for thei,  
 safely, prosperity, and UPpVDess
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197218:1843051701:0110/pct:89.97294046903187,11.789652247667515,38.99579073962718,116.20016963528414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_kirby_ver02:data:sn83025661:00202197218:1843051701:0110/pct:67.49360998346113,8.842239185750635,29.258758081491504,87.1607294317218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ that mnajorities are to be restrained and minorities proe­
 tected within the limits of Constitutional law. Mark the  
 contrast. The Democratic party believes in ascertainin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878092601:0188/pct:55.442955214122264,33.18364997121474,47.56456358287022,8.221070811744386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878092601:0188/pct:18.480985071374086,11.06121665707158,15.854854527623406,2.740356937248129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -530,7 +530,7 @@ tained the people have a right to
 alter the government and to take  
 measures for their safety prosperit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206535891:1881062201:0675/pct:6.564808596373405,104.55231930960086,22.36400268636669,4.973031283710895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206535891:1881062201:0675/pct:4.38287153652393,69.70514203523912,14.91183879093199,3.315354189140597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ are not obtained, the people have a right to
 take such measures tor reform as to them  
 may appear necessary to promote their we
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202197061:1890070301:0536/pct:193.1686810299527,201.52409573897177,43.19495533368366,11.334120425029516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202197061:1890070301:0536/pct:48.29217025748817,50.38102393474294,10.798738833420915,2.833530106257379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ compose It with the power of enjoying in safety
 and tranquility their natural rights and the  
 blessings of life. Without artificial heat ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210971:1892051101:0198/pct:17.975126311698407,32.42544126597687,12.378546443839875,4.488740109555691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210971:1892051101:0198/pct:17.97163396153099,32.42050813935798,12.380998639984456,4.491860642020386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ of the people demands the unswerving
 loyalty of every citizen, both iu war and  
 in peace.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076432:00271740712:1898062301:0669/pct:8.412135539795115,102.97854898210139,17.671394799054372,6.298674682333652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_europium_ver01:data:sn88076432:00271740712:1898062301:0669/pct:6.7349619122668765,82.39087663047438,14.14762280010507,5.031698608176055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ and as the preservation and honor of the
 republic, as well as the happiness of the  
 people, demands the unswerving loyalt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_germanium_ver01:data:sn88076013:00199917857:1898062501:0115/pct:51.2350865400773,38.5313959522574,10.63686775331877,4.1385573430202385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_germanium_ver01:data:sn88076013:00199917857:1898062501:0115/pct:51.24348848932952,38.53788271925272,10.63686775331877,4.151530877010898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ demands the unswerving loyalty of
 every citizen, both in war and in  
 peace.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918394:1898062501:0239/pct:37.44578313253012,9.355390758699372,14.024096385542169,5.704506560182544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918394:1898062501:0239/pct:37.44578313253012,9.362996767446283,14.040160642570282,5.696900551435634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

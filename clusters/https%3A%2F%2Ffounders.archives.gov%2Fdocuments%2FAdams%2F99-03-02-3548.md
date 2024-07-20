@@ -437,7 +437,7 @@ With innocence and meditation joine
 “ Farewell! thy cherished image dear,  
 Shall many a heart, with pious love revere.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1846080701:0319/pct:6.9654427645788335,53.07578408937946,10.637149028077754,0.901871045901198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517016494:1846080701:0319/pct:6.964189310779197,53.06864064602961,10.639733669245995,0.905114401076716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ ever appeared, like Thomson&#x27;s Patroness, only
 With unaffected grace, or walk the plain  
 With innocence and meditation joine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852081201:0269/pct:54.19463087248322,147.7591515566199,47.36577181208054,6.671228190215532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743063:1852081201:0269/pct:18.064876957494405,49.2530505188733,15.788590604026846,2.223742730071844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ O Hertford, fitted or to shine in courts
 With unaffected grace, or walk the plain  
 With innocence and meditation joine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1862040301:0067/pct:11.24401913875598,70.43034803614566,101.57894736842105,311.28209716381855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1862040301:0067/pct:2.8113410695059216,17.607587009036415,25.39777485345137,77.82052429095464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

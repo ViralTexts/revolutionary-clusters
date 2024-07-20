@@ -1044,7 +1044,7 @@ And that, ’tis true 1 dare his warrant be—
 For ne’er heard I of woman, good or ill,  
 But always dearly lov’d her own sued will.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824071401:0179/pct:7.293156281920327,52.620456466610314,18.876404494382022,5.4804170188785575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824071401:0179/pct:5.657589191471396,40.78468481583928,14.634789951446063,4.247343135827632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1095,7 +1095,7 @@ The kindly laws protecting care ;
 A shell for him, a shell for thee—  
 Tile oyster is the lawyer’s fee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1828022801:0341/pct:23.221799238629533,29.37440886366707,17.190943698657584,6.120794487231455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1828022801:0341/pct:23.217147435897434,29.370440421507702,17.192508012820515,6.123345041880572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1144,7 +1144,7 @@ And that &#x27;tis true I dare his warrant be,
 For ne&#x27;er heard I of woman, good or ill,  
 But always dearly lov&#x27;d uer own sweet Will!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845031401:0045/pct:150.62208398133748,92.84903518728717,56.22083981337481,11.464245175936435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845031401:0045/pct:37.670167250097236,23.212258796821793,14.060676779463243,2.866061293984109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1245,7 +1245,7 @@ The poor have little--beggars none--the
 rich too much--enotigh not one.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1849021601:0314/pct:285.98629093678596,310.6604866743917,51.63747143945164,29.721900347624565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1849021601:0314/pct:71.52380952380952,77.66512166859792,12.914285714285715,7.430475086906141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1265,7 +1265,7 @@ he ir.
 Ne&#x27;er take a wife till thou hast a house  
 (and a fire) to put her in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:18.09142561983471,175.16478843291517,37.84865702479339,12.343185200935572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:6.0304752066115705,58.38826281097172,12.616219008264462,4.114395066978524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1283,7 +1283,7 @@ Great talkers, little doers.
 A rich rogue is like a fat hog.  
 Who never does good till dead as 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:20.803202479338843,187.53986816925368,34.94318181818182,6.953008717839677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849022701:0539/pct:6.934400826446281,62.51328938975122,11.647727272727273,2.3176695726132257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1327,7 +1327,7 @@ Great talkers, little doers.
 A rich rogue is like a fat hog,  
 Who never does good till as dead as a log
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849030301:0502/pct:260.9168609168609,319.26704392347074,54.85625485625486,22.635408245755862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849030301:0502/pct:65.25456665371162,79.81676098086768,13.719393703847649,5.6588520614389655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1386,7 +1386,7 @@ He&#x27;s a fool that makes his doctor his heir.
 &quot;Ne&#x27;er take a wife till thou hast a house  
 (and a fire) to put her in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:171.6235632183908,232.44837758112095,50.28735632183908,13.653603034134008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1849031001:0810/pct:42.921307941070786,58.11209439528024,12.576356449874236,3.413400758533502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1422,7 +1422,7 @@ Kings and bears often worry their keepers.
 He&#x27;s a fool who makes his doctor his heir.  
 Ne&#x27;er take a wife till thou hast a house to put he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:210.85905541093342,315.7835240921294,59.74339903309781,7.644482125194291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1849031201:0253/pct:52.704963747908536,78.93472732410285,14.933073061907418,1.9108505227465387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1441,7 +1441,7 @@ He&#x27;s a fool who makes his doctor his heir, j
 Ne&#x27;er take a wife till thou hast a house to j  
 put her in.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:2.8397963180571875,41.67897068129086,13.35683509596553,2.256907825353301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:2.839518261039851,41.676040494938135,13.358791083259897,2.2590926134233222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1459,7 +1459,7 @@ The poor have little—beggars none.
 The rich too much—enough not o»&#x27;e.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:3.3490011750881314,46.19278633199747,11.799843321582452,1.7928707023834634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849031601:0086/pct:3.348673259571135,46.18953880764904,11.801951760827704,1.7950881139857517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1496,7 +1496,7 @@ Nothing dries sooner than a tear.
 Kings and bears often worry their keepers.  
 He&#x27;s a fool that makes his doctor his heir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849041801:0148/pct:261.66231505657095,250.22203602848765,57.57180156657964,9.317134478424801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849041801:0148/pct:65.41557876414274,62.55550900712191,14.39295039164491,2.3292836196062003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1513,7 +1513,7 @@ Great talkers, little doers.
 The poor have little--beggars none--the rich too  
 much---enough, not one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849041801:0148/pct:261.7058311575283,263.7620444072057,57.48476936466493,5.798072894847088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191265:1849041801:0148/pct:65.42645778938207,65.94051110180142,14.371192341166232,1.449518223711772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1578,7 +1578,7 @@ A rich r&lt;?gue is like a fat hog,
 Who never does good till as dead as a  
 &#x27;&quot;g- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849053001:0309/pct:34.09785932721712,50.0534188034188,16.62079510703364,8.290598290598291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849053001:0309/pct:34.10295616717635,50.0534188034188,16.615698267074414,8.297720797720798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1595,7 +1595,7 @@ Fools make feasts and wise men cat them.
 The poor have little?beggars none,  
 The rich too much?enough not one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849053001:0309/pct:34.862385321100916,57.94871794871795,14.44954128440367,1.9978632478632479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849053001:0309/pct:34.87257900101937,57.95584045584046,14.444444444444445,2.0014245014245016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1613,7 +1613,7 @@ Kings and bears often worry their keep­
 ers.lie&#x27;s a fool that makes his doctor his  
 heir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1849053101:0032/pct:30.502392344497608,71.9159200551344,19.482655502392344,3.824948311509304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071377:00212477618:1849053101:0032/pct:22.887060583395662,53.93981162416724,14.629768137621541,2.8715828164484263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1688,7 +1688,7 @@ proof of woman, gold; the proof of man,
 a woman.  
 By degrading the female character
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288488:1849121901:0124/pct:214.968293761982,270.72810011376566,40.141572039522195,10.61433447098976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288488:1849121901:0124/pct:71.65609792066067,90.24270003792188,13.380524013174064,3.5381114903299204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1786,7 +1786,7 @@ A fine genius in his own country, is like gold in the
 mine.  
 There is no little enemy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015234:1850032601:0052/pct:9.092208720514654,24.295848111829752,14.367405289492496,18.892134362612143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015234:1850032601:0052/pct:9.096974029068383,24.295848111829752,14.362639980938766,18.892134362612143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1806,7 +1806,7 @@ A fat kitehen, a lean will
 Distrus: and caution are the parents of security.  
 Tongue deuble, brimgs tronble
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015234:1850032601:0052/pct:9.206576125804146,44.31462549551429,14.18155825589707,2.941790110577926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015234:1850032601:0052/pct:9.206576125804146,44.32158008206412,14.186323564450799,2.941790110577926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1827,7 +1827,7 @@ fire have peace.
 Snowy winter, a plentiful harvest.  
 Nothing more like a fool than a drunken man
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015234:1850032601:0052/pct:9.135096497498212,50.61548090965992,14.253037884203001,3.515543500938869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015234:1850032601:0052/pct:9.139861806051941,50.61548090965992,14.253037884203001,3.515543500938869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1857,7 +1857,7 @@ a body without soul or spirit.
 Light purse, heavy heart,  
 lie&#x27;s a fool that makes his doctor his heir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1850041301:0491/pct:8.647887323943662,24.627363737486096,19.535211267605632,10.53392658509455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1850041301:0491/pct:6.493872376391041,18.47608453837597,14.649950697281307,7.897664071190212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1878,7 +1878,7 @@ A rich rogue i like a fat hog, who never does
   
 good till as dead as a lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1850041301:0491/pct:9.633802816901408,41.301446051167964,18.535211267605632,2.5027808676307006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1850041301:0491/pct:7.226369911255106,30.978865406006673,13.917453162417242,1.8798665183537264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1910,7 +1910,7 @@ A taogh horse, and a woman to teach, and
 teachers practising what they preach.  
 He is ill clothed who is bare of virtue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1850041301:0491/pct:9.380281690140846,45.66184649610678,18.690140845070424,12.369299221357064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1850041301:0491/pct:7.04324552753909,34.24916573971079,14.01605859980279,9.276974416017797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1942,7 +1942,7 @@ Nothing more like a fool than a drunken man.
 Many medicines, few cures.  
 Better slip with foot than tongue.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1850041301:0491/pct:9.464788732394366,59.41045606229144,18.633802816901408,11.635150166852059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1850041301:0491/pct:7.099591491759402,44.560622914349274,13.987885617692633,8.731924360400445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1966,7 +1966,7 @@ j find it necessary to call a servant from her
 &#x27;household to translate the terms, upon  
 , which she consents to admit the gentee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1850041301:0491/pct:9.535211267605634,10.456062291434927,39.11267605633803,66.65183537263626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1850041301:0491/pct:7.155937455979715,7.842046718576196,29.34216086772785,49.988876529477196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1983,7 +1983,7 @@ ves that the proof of gold is fire; the proof
 of woman, gold; the proof of man, a wo-  
 man. &#x27; Antony was one of the bravest son
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1850050601:0764/pct:75.1528384279476,107.76683856852634,22.358078602620086,2.7348023128613845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066057:00200292121:1850050601:0764/pct:56.412497268953466,80.82512892639475,16.7795499235307,2.062822315986873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2024,7 +2024,7 @@ Kings and bears often worry their keepers.
 He&#x27;s a fool that makes his doctor his heir.  
 Hunger never saw bad bread
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00202193973:1850061401:0187/pct:2.5390984360625577,67.44353676117251,17.82888684452622,2.9192695819317636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00202193973:1850061401:0187/pct:2.5390984360625577,67.45154573121897,17.841153020545846,2.9152650969085374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2044,7 +2044,7 @@ And talk of nothing all day but of pride ;
 (&#x27;*&lt;d in his merry may do much lo aave her,  
 But what • case ii be in that shall hart he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1850070201:0657/pct:16.327595200834637,93.68435227578777,11.354547035298209,2.666307568004309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1850070201:0657/pct:16.324756606397774,93.67173825232261,11.35691933240612,2.669314662717113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2095,7 +2095,7 @@ the Slamese Iwins. They are doing well
 The proof of gold is fire; the proof of woman, gold,  
 the proof of man, womar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1851010201:0569/pct:83.13299728576968,371.6094032549729,59.732454439705315,8.574442435201929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1851010201:0569/pct:20.77922077922078,92.88835317161369,14.930219034696647,2.143287629953292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2177,7 +2177,7 @@ Kings and bears often worry their keepers.
 lie&#x27;s a fool that makes his doctor his heir.  
 Hunger never saw had bread
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852080301:0073/pct:38.04543815362423,76.53180542563143,18.28344752975117,4.174462114125351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067980:00295862270:1852080301:0073/pct:38.0574588291862,76.53570314936077,18.271426854189205,4.182257561584035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2328,7 +2328,7 @@ what he has done.
 —The heart of a fool is in his mouth,  
 but the mouth of a wise man is in his heart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:0051415935A:1860031701:0045/pct:82.31863442389758,91.95793052161903,12.588904694167852,1.7635185381918623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:0051415935A:1860031701:0045/pct:82.32337600758653,91.96501292538687,12.593646277856804,1.7564361344240236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2351,7 +2351,7 @@ Don’t be too smart; it is the instinct of man
 to give the extreme smart ones, of both genders, a  
 wide berth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860081101:0003/pct:83.94400276529554,73.43496188929151,11.873487729001036,3.261277021117081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00205958186:1860081101:0003/pct:83.95696508814379,73.4380857178558,11.88212927756654,3.258153192552793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2371,7 +2371,7 @@ He&#x27;s a fool who makes a debtor his
 heir.  
 Never take a wife till thou hast a hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861081501:0533/pct:49.31960279514527,86.09967343461594,10.831187936741449,2.797103507028255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861081501:0533/pct:49.31960279514527,86.10913909792228,10.831187936741449,2.797103507028255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2393,7 +2393,7 @@ Mankind are very odd creatures. Om
 half censures what they practice, the oth  
 er self practice what they censure. T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861081501:0533/pct:49.393159249724164,91.60868947891524,10.75763148216256,4.074968053386341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026189:1861081501:0533/pct:49.40541865882064,91.60868947891524,10.745372073066077,4.093899379999053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2468,7 +2468,7 @@ A rich rogue is like a fat hog,
 Who never does good till as dead as a  
 dog
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1862100101:0285/pct:7.847707847707848,45.048415492957744,14.592074592074592,15.735035211267606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1862100101:0285/pct:7.858067858067858,45.052083333333336,14.586894586894587,15.735035211267606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2484,7 +2484,7 @@ dog
 i The poor have little —beggars none—the&#x27;  
 rich too much—enough, not one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1862120601:0506/pct:88.46873830026207,23.294813979706877,16.39835267690004,1.1273957158962795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1862120601:0506/pct:68.56230958943856,18.06101645551187,12.727888195754147,0.873743993010048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2640,7 +2640,7 @@ Great talkers, little doers.
 A rich rogue is like a fat hog,  
 Who never does good till as dead as a log
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1870033101:0226/pct:4.002106371774619,65.93218102652065,12.462699666491135,5.686766064124555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1870033101:0226/pct:4.001404001404001,65.92348284960423,12.464899964899965,5.689313984168866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2657,7 +2657,7 @@ Fools make feasts and wise men eat them.
 The poor have little—beggars none,  
 The rich too much—enough not one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1870033101:0226/pct:4.704230296647358,71.60575273782821,11.70791644725294,1.5569336324053304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348707:1870033101:0226/pct:4.703404703404703,71.59630606860158,11.710249210249211,1.5600263852242744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2858,7 +2858,7 @@ a house (and a fire) to put her in.&quot;
 A Gentleman seeing an Irishman  
 fencing in a very barren and desolat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:00200292364:1874041701:0539/pct:300.1054852320675,139.6270787838065,66.87763713080169,14.244918528473038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:00200292364:1874041701:0539/pct:75.04616196254287,34.906769695951624,16.723819572672117,3.5612296321182595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2876,7 +2876,7 @@ young friend, cautioned him in this
 wise : 44 Ne&#x27;er take a wife till thou hast  
 a house (and a fire) to put her in.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1874042401:0446/pct:30.72218986604543,24.87551867219917,20.58823529411765,3.1431535269709543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023747:1874042401:0446/pct:20.4952658412236,16.58713692946058,13.736343772760378,2.095435684647303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2896,7 +2896,7 @@ a house (and a fire) to put her in.&quot;
 A gentleman seeing an Irishman  
 fencing in a very barren and desolat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283624:1874043001:0480/pct:49.10340705319785,16.71624033313504,12.910938433950987,3.6287923854848305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283624:1874043001:0480/pct:36.85154731648976,12.540154669839382,9.687546718493047,2.724568709101725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2980,7 +2980,7 @@ This made me ask her what she meant.
 vein,  
 Take your own kisses; give me mine again.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471549:1880062601:0752/pct:207.88253477588873,362.8786840301576,59.35085007727975,12.666209732693625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471549:1880062601:0752/pct:52.000773245698824,90.7196710075394,14.846317417359366,3.1665524331734063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3000,7 +3000,7 @@ But when I won she would be paid:
 This made me ask her what she meant.  
 Pray, since I see, quoth she, &quot;you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1880082701:0140/pct:304.0510127531883,284.4925725392198,30.15753938484621,7.052616965153408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1880082701:0140/pct:76.01275318829707,71.12314313480495,7.5393848462115525,1.763154241288352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3021,7 +3021,7 @@ Her silver crescent tipped with sable clouds,
 Conclude she bodes a tempest on the main,  
 And brews for fields impetuous floods of rain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779611:1881073101:0108/pct:55.61468866418308,337.13625380817314,35.23150612027674,8.614350246874672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779611:1881073101:0108/pct:13.905522288755822,84.28406345204328,8.809048569527612,2.153587561718668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3079,7 +3079,7 @@ Conclude she bodes a tempest on the main,
 And brews for fields impetuous floods of rain,  
 Or if her face with fiery flushings glow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470855:1883110201:0133/pct:81.5639564992232,18.4686281460475,14.155014672881064,2.8004253810705424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470855:1883110201:0133/pct:81.57546464123368,18.4686281460475,14.1607687438863,2.8043640946866755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3329,7 +3329,7 @@ Conclude she bodes a tempest on the main,
 And brews for fields impetuous floods of rain,  
 Or, if her face with fiery flushings glow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182082:1892090301:0034/pct:40.73587385019711,108.11776475632414,16.256804955885112,2.944118908103473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182082:1892090301:0034/pct:31.569758983560448,83.79545874100056,12.603656466708696,2.281705741185158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3356,7 +3356,7 @@ Conclude she bodes a tempest on the main,
 And brews for fields impetuous floods of rain,  
 Or, if her face with fiery flushings glow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550109:1892092101:0327/pct:35.402329274748546,24.807781380268644,14.13446267866596,5.798981009726726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550109:1892092101:0327/pct:35.411152285159694,24.81395707889455,14.130051173460386,5.805156708352633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3384,7 +3384,7 @@ Conclude she bodes a tempest on the main,
 And brews for fields impetuous floods of rain,  
 Or, if her face with fiery flushings glow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152615:1892092201:0273/pct:32.42278441719696,25.739929479645262,14.698121992860468,5.962175446094668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152615:1892092201:0273/pct:32.43313156397124,25.743491113722975,14.69294841947333,5.958613812016953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3423,7 +3423,7 @@ Cenclude she bodes a tempest on the main,
 Aud brews for fields impetuous floods of rain,  
 Or, if her face with fiery flushings glow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340767:1892111601:0468/pct:15.575664227955333,6.3799076212471135,12.629957643434732,10.739030023094688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340767:1892111601:0468/pct:15.572666025024061,6.378986866791744,12.632338787295476,10.74108818011257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3933,7 +3933,7 @@ Jove, of his mercy, may do much) to save
 her,  
 But what a case is he in that shall have her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769757:1897100301:0407/pct:18.58961406344716,3.799551234106208,44.918165285916345,88.60134629768137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769757:1897100301:0407/pct:18.58961406344716,3.799551234106208,44.938371388159226,88.62004487658938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3955,7 +3955,7 @@ without effect, enect without
 profit, and profit without  
 virtue, are not worth a lart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn82007642:00202197905:1898011301:0645/pct:68.59375,116.16457461645746,18.973214285714285,7.642956764295676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn82007642:00202197905:1898011301:0645/pct:51.47387226440375,87.12691771269178,14.247431889236266,5.7322175732217575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3997,7 +3997,7 @@ Could not be ended till both were one
 gars none—the rich too much  
 — enough not one. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jackman_ver02:data:sn82014248:00514155951:1898043001:0239/pct:4.46277892368273,27.585714285714285,12.432027001687606,2.6714285714285713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jackman_ver02:data:sn82014248:00514155951:1898043001:0239/pct:4.4619422572178475,27.581774032281103,12.434383202099738,2.6746179117268962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4187,7 +4187,7 @@ The proof of gold is Are; the proof
 of woman, gold: the proof of man, a  
 woman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473686:1899052501:0622/pct:72.98519736842105,63.055083717544285,20.908717105263158,9.305993690851736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn85032801:00212473686:1899052501:0622/pct:48.673658235657,42.04076680417374,13.942011104256633,6.199951468090269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

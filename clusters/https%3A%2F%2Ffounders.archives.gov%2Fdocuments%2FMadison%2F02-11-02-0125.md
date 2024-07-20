@@ -71,7 +71,7 @@ ritairt and Ireland, for the years i
 ■ charged.  
 &#x27;■Resolved, That the secretary of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805110801:0003/pct:0.3162412468940592,60.91062870031012,19.629545967924102,9.585565266422329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805110801:0003/pct:0.3237708003915368,60.91532750681327,19.629545967924102,9.590264072925477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ of less Importance,
 AH wkich is respectfully submitted.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022401:0001/pct:41.4057368075323,12.434082708853733,37.333041383840595,86.70552317513183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022401:0001/pct:41.41303554485074,12.434082708853733,37.34763885847748,86.71940049958368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ a ton is imposed on vessels entering
 outwards or inwards to or from any  
 port in the U. States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022401:0001/pct:60.302167724983576,74.72939217318901,17.932997591416687,5.772966971967804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806022401:0001/pct:60.30946646230202,74.73864372282357,17.92569885409824,5.772966971967804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ po&gt; lance.
 All which is respectfully submitted.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022801:0075/pct:23.80329094988781,11.79089290256932,17.57666417352281,60.3408801831595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806022801:0075/pct:23.798840904842027,11.789393361312476,17.579609895930705,60.33744541947518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ ance. &#x27;
 All which is refpedlfully fuhmitted.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806030401:0380/pct:3.315125258994161,4.426250479723679,18.214352985496326,41.37137009082768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806030401:0380/pct:3.3145009416195856,4.425684318239959,18.217200251098557,41.37034194593673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

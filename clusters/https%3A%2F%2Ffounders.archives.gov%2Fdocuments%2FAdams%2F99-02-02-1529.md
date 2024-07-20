@@ -73,7 +73,7 @@ fliips of war, and privateers, that have,
 or may have, letters of marque agairill  
 France, to seize all ships, whatever b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794021401:0002/pct:71.57083199486026,17.83490660775256,18.952778670093156,3.0528218517774652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794021401:0002/pct:71.59492451011886,17.839927696324562,18.968840346932218,3.0578429403494676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ may have letters of marque against France. ‘
 GIVEN at our Court, at St. fJames, the fifth  
 “day of November, 1793, in the 34th yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794031501:0195/pct:6.7280453257790365,42.82442748091603,19.64589235127479,3.7118320610687023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794031501:0195/pct:6.737488196411709,42.82760814249364,19.650613786591123,3.7118320610687023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ Privateers, that have or may have Letters of
 Marque against France : Given at our Court at  
 St. James’s the 18th August, 1794. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794111101:0331/pct:71.28164556962025,32.50566771024506,20.31645569620253,4.976789377091655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794111101:0331/pct:71.292194092827,32.50566771024506,20.30590717299578,4.980387923278995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ privateers, that have or may have, letters of
 marque against France. :  
 Given at our court at St. James’s, the gth da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795042801:0426/pct:14.541775079502747,36.10115491835922,19.095114194854006,2.7479091995221028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795042801:0426/pct:14.54659342777296,36.107792380193814,19.09993254312422,2.7445904686048057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ and privateers that have or may have
 letters of marque against France,  
 Spain and the United Provinces
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0493/pct:5.821011673151751,36.36542239685658,16.249027237354085,2.75049115913556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798050101:0493/pct:5.831387808041504,36.36869679109365,16.25421530479896,2.753765553372626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ have, letters of marque against France.
 | Given at our court at at. Janies, the 6th  
 &#x27;day of November, 1793, in the 3-ttli yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807062701:0214/pct:40.39446235539541,19.117279319829958,17.73184145647639,7.08927231807952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807062701:0214/pct:40.386803185438,19.114889361170146,17.734799646062445,7.0925532358211445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ ladei: with goods, the produce of any colony
 belonging to France, or carrying provision,  
 or other suftfilienjor the u*e of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030101:0397/pct:40.75949367088607,11.377025036818852,17.251356238698012,7.326951399116347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808030101:0397/pct:40.75212438980293,11.375628911522886,17.254263846200203,7.3301427578025935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

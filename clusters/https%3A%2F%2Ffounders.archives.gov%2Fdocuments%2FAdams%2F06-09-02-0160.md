@@ -67,7 +67,7 @@ be admitted, and though the same is
 inconsiderable, they are of the opinion  
 that a precedent be not established.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210867:1894092601:0297/pct:17.491096161456273,54.13418920984258,12.663237039968342,3.591624637016659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210867:1894092601:0297/pct:17.487636003956478,54.12591687041565,12.665677546983185,3.59489608801956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ inconsiderable, they are ot tho opinion
 thai a precedent be not established.&quot;  
 In tue appointment of Benjami
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175035618:1894121501:0601/pct:44.267295161513935,4.699210046586996,12.366560377096908,3.726959692120721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_oakland_ver01:data:sn82015104:00175035618:1894121501:0601/pct:44.276537732797266,4.705961785159679,12.357317805813578,3.7337114306934036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ a dyer&#x27;s house while he was away and
 gently asked his wife how much money  
 there was in the house. She answere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211105136:1895011901:0083/pct:171.7948717948718,314.3683573254406,47.985347985347985,37.66985066594915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211105136:1895011901:0083/pct:42.94871794871795,78.59208933136016,11.996336996336996,9.417462666487287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

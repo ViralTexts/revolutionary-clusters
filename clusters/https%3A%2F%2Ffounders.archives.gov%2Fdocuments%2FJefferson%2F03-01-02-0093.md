@@ -84,7 +84,7 @@ ers for your own weifare and prosperitv.
 TH: JEFFERSON.  
 April 3d. 1809
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809041401:0423/pct:41.45021645021645,3.159851301115242,17.316017316017316,31.090458488228006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809041401:0423/pct:41.442741208295764,3.1594597943253624,17.318905921250376,31.09073638128278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ own welfare and prosperity.
 Th: JEFFERSr  
 April 3d, 1809
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042101:0003/pct:60.690490611750455,51.786183346467034,17.888148596810016,37.969529813501445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809042101:0003/pct:60.69722053974022,51.79056124682602,17.901608452789556,37.973907713860434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -280,7 +280,7 @@ which l have been called, have ob­
 tained for me the approbation of mv  
 country. I he part which I have acted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809042801:0132/pct:77.53205723843152,73.22584740383395,18.806913213157404,22.97829122762473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809042801:0132/pct:77.51765143069491,73.21655242447322,18.809612287873158,22.97960565287298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ prosperity.
 TH ; JEFFERSON.  
 April 3d, 1809.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809042801:0133/pct:4.746894122010013,3.0523444603195222,17.633969961060632,15.76828159501234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809042801:0133/pct:4.746014089729329,3.051948051948052,17.636880484488938,15.770562770562771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ sisskvorld&#x27;, &quot;sswhose ox haycsil taken, of?&quot; whom !
 sihssavess l defrapded} .Wsshom have I oppressct- ]  
 &quot;ed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809050901:0516/pct:4.247391952309985,3.2743126612687963,49.70193740685544,93.14885665984518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809050901:0516/pct:4.24675905230219,3.2740213523131674,49.69949833606517,93.1435349940688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ ivour own welfare and profpeiitv.
 Iy Th: JEFFERSON.  
 ! April 3(/, &gt;809
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809051501:0604/pct:76.35435168738898,40.076024979636166,18.716696269982236,34.74070051588379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809051501:0604/pct:76.33740288568258,40.07058504140084,18.7180910099889,34.739378308673814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ profpereyy s n T
 ; -~ TH: JEFFERSON.  
 . dpril 3, 1809, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809053001:0293/pct:24.48477391571824,33.923245177967786,16.779452476161183,44.61125472260887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809053001:0293/pct:24.48477391571824,33.929873400941204,16.78457910386548,44.60794061112216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ defrauded ? Whom have I oppressed, or of
 whose hand have I received a bribe to blind my  
 eye* therewith?&quot; The same testimony whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840081401:0341/pct:79.02247591865859,39.72306910569106,15.840171245094542,3.252032520325203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840081401:0341/pct:79.02247591865859,39.731537940379404,15.840171245094542,3.24779810298103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ pressed, or of whoso hand have I received a
 bribe to blind mine eyes therewith ?’ On your  
 verdict I rest with conscious security.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870071101:0004/pct:50.25553662691652,16.768947529917153,9.180389929964036,4.617980975759435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870071101:0004/pct:50.25553662691652,16.780454127032833,9.194586409237175,4.617980975759435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ sincere prayer.:. 1&#x27;or your own welfare and pros­
 perity. Tit. Jbkkkksox.  
 &quot;April 3, 1809.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663729:1875060701:0552/pct:35.431268774138175,52.61625084943209,15.90616506937491,19.580623240462092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_fezza_ver01:data:sn85025007:00415663729:1875060701:0552/pct:35.43603680923091,52.619486781218654,15.920469174653125,19.587095104035207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -897,7 +897,7 @@ and I offer sincere prayers for your own wel-­
 fare and prosperity. Th. JEEFErsON.  
 &quot;April a, 1809.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742083:1875060701:0553/pct:127.13083604777415,51.30890052356021,41.720955483170464,62.25853042065355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742083:1875060701:0553/pct:42.37694534925805,17.102966841186735,13.906985161056822,20.75284347355118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1107,7 +1107,7 @@ and 1 offer sincere prayers for your own
 welfare and prosperity.  
 April 3,1809. Tu. Jefferson.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1875061101:0093/pct:3.4317769344992577,3.894279877425945,22.785018973766704,93.53932584269663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1875061101:0093/pct:3.4312108215110526,3.8937827141580494,22.785384361596833,93.53057576918167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1421,7 +1421,7 @@ and I offer sincere prayers for your
 own welfare and prosperity.  
 ApRIL3, 1809. Th. JErFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875111701:0892/pct:263.672182821119,40.57134612610013,79.03861308116628,342.0574231712596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1875111701:0892/pct:65.93103448275862,10.142836531525033,19.763546798029555,85.5143557928149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1474,7 +1474,7 @@ frauded ? Whom have I oppressed , or
 of whose hand have I received a bribe  
 to blind mine eyes therewith ? &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn95069779:00206538983:1898111701:0017/pct:52.0023909145248,96.96938029052147,17.94680215182307,4.336921308391681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn95069779:00206538983:1898111701:0017/pct:39.00762217904648,72.73226042428676,13.465849648781946,3.250078378095935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1494,7 +1494,7 @@ frauded? Whom have I oppressed, or
 of whose hand have I received a bribe  
 to blind mine eyes therewith*?” “Ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_miller_ver01:data:sn86092518:00514157893:1899082201:0358/pct:16.833949639020954,54.59361674634966,12.748723366789928,3.540509109704096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_miller_ver01:data:sn86092518:00514157893:1899082201:0358/pct:16.830985915492956,54.58656330749354,12.75088028169014,3.54328165374677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

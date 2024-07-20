@@ -139,7 +139,7 @@ bebes V rgilium, finibus Atticis
 Reddas incolumem, precor;  
 Et serves anime dimidium mes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860010601:0024/pct:106.00350569675723,14.868804664723031,20.961145194274028,7.037297677691766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860010601:0024/pct:35.32934131736527,4.955770004020908,6.986027944111776,2.345530089800295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -116,7 +116,7 @@ consist in its proceedings with more
 coolness, with more system, mid with  
 mure wisdom than the popular branch.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187304:1892022401:0974/pct:67.67661616919155,40.303422321533574,12.7943602819859,2.069857697283312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092392:00414187304:1892022401:0974/pct:67.66646670665867,40.29868297271872,12.797440511897621,2.0735340232047665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ electoral college, and hence, in both
 instances, that the election would be  
 the deliberate choice of a body of me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00206536858:1894081901:0460/pct:50.102866547798655,56.55851804261698,10.698120971060211,12.078380982974622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00206536858:1894081901:0460/pct:50.112010240936314,56.55851804261698,10.688977277922552,12.089088767533998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -293,7 +293,7 @@ d be to us to-day? Throughout he
 ta ament to popular rightr never wave  
 His falth in the people and i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175033026:1899051101:0083/pct:130.03231017770597,229.20077552778974,41.77705977382875,34.50021542438604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175033026:1899051101:0083/pct:43.34410339256866,76.40025850926325,13.925686591276252,11.50007180812868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

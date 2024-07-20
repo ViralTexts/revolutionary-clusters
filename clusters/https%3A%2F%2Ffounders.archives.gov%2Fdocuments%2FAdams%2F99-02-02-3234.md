@@ -284,7 +284,7 @@ to out more determinate afluranccs that
 ig he would be received, would b.e an aft of,  
 th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798120801:0003/pct:4.515979620194535,6.967503902369803,34.71514590088004,85.99404001702852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798120801:0003/pct:4.515979620194535,6.971051511281396,34.73830477072719,85.99758762594011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ i- we shall iecure to our country that
 r ly entitled.  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798120801:0003/pct:21.352477999073646,5.874840357598979,51.806391848077816,87.34213140343408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798120801:0003/pct:21.36405743399722,5.881935575422165,51.806391848077816,87.33858379452249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ ter fiom the U. States should poflels, and
 that while France is asserting the existence  
 of 2 difpofizion jon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798121901:0625/pct:5.643903960087309,37.75084442678323,16.61989398191456,44.92350486787205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798121901:0625/pct:5.6491009250597655,37.75084442678323,16.61989398191456,44.93012782303464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ fiream is the continuation of the St. Croix
 ‘toits source, Thig decision, it is under­  
 flood, will preclude all .contention amon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798121901:0625/pct:23.214842531961335,4.500298032982316,16.651075771749298,83.53864494337374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798121901:0625/pct:23.225236461906245,4.50692098814491,16.651075771749298,83.54195642095503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -838,7 +838,7 @@ our country that weight and refpett to which
 it 15 so justly entitled. |  
 - John Adams
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798121901:0625/pct:23.214842531961335,4.549970196701769,34.47146866230121,91.58553546592489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798121901:0625/pct:23.225236461906245,4.553281674283065,34.47146866230121,91.58553546592489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ Among the ireafurcs cf preparat on, which
 appear e«p d ent, I takr the iher&#x27;y t&gt; jc a i  
 your at ention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798122401:0138/pct:49.5350639287098,12.071201225981374,46.319256102285934,83.24885064246139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798122401:0138/pct:49.52546968816579,12.06977840641207,46.31512686422622,83.24198491277699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1237,7 +1237,7 @@ md enough 1;.1 s be n a com 1 lit - * f» allure «t
 fulf.lmcnt of rl c views &lt;•( the JLe. id.tint e.  
 Gfr.lkmfv r&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798122401:0139/pct:2.8931312733713836,2.307513914656772,47.21511513481598,92.18460111317255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798122401:0139/pct:2.8925619834710745,2.307246376811594,47.210743801652896,92.1768115942029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3161,7 +3161,7 @@ we have uniformly and pi rseveringly culti­
 vated, and henrnny bettvten us end France  
 may tic rtt&#x27;orai ut lur ii&#x27;(n.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1848011401:0510/pct:46.01949634443542,44.74544605324615,18.21689683184403,4.888681301572474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100473:1848011401:0510/pct:34.54582401950823,33.56686906430017,13.676082097134728,3.658726451813794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3182,7 +3182,7 @@ received, would be an act of humiliation to
 which the United States ought not to submit.&quot;  
 In answer to this part of the message, the Se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852020901:0092/pct:24.75711311589174,188.9252866322288,41.551006245662734,10.721935240015119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852020901:0092/pct:8.25237103863058,62.97509554407627,13.850335415220911,3.573978413338373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3203,7 +3203,7 @@ leceived, would be an act of humiliation to
 which the Tinted Slates ought not to submit ’*  
 in an&gt;werto this pari of the message, the Se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852021201:0274/pct:85.15171692190621,41.65976249654791,12.261010177875011,3.1137807235570283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215877:1852021201:0274/pct:85.14361803309872,41.65688643424232,12.26301439350707,3.115866988839029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3427,7 +3427,7 @@ cient to guard our coast and protect our trade.
 Such a naval force would afford the best means  
 of general defence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897090501:0264/pct:0.0,14.373409192992963,108.04597701149426,384.9678095523282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897090501:0264/pct:0.0,3.5933522982482407,27.0218474511307,96.24195238808205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3454,7 +3454,7 @@ ecast and protect our trade. Such a
 naval force would afford the best means  
 of general defense.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199434:1897090801:0218/pct:12.409240924092408,171.19991630923738,33.742574257425744,20.315932628936082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199434:1897090801:0218/pct:4.136413641364136,57.066638769745786,11.247524752475247,6.771977542978694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

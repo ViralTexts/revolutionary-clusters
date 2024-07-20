@@ -891,7 +891,7 @@ ble »s suppose that the Dot tor meant
 to insinuate that the ladies would dis­  
 close the faults of their acquaintanc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1836080401:0531/pct:5.7881215052138435,22.083673231558095,12.54344869276107,7.073767626150798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1836080401:0531/pct:5.7872469023874284,22.08109997669541,12.546590107786844,7.0768274683445975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1063,7 +1063,7 @@ We hear with transport, and with pride obey.
 
 ---
 
-## [From _The International Monthly Magazine of Literature, Science and Art (1850-1852)_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n22/mode/1up?view=theater)
+## [From _The International magazine of literature, art, and science_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n22/mode/1up?view=theater)
 
 #### 1852-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1124,7 +1124,7 @@ Answer-- Commend her among her fe
   
 male acquaintance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1852050801:0477/pct:20.579710144927535,341.89883689477955,49.27536231884058,40.41114417094942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1852050801:0477/pct:5.144927536231884,85.47470922369489,12.318840579710145,10.102786042737355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1147,7 +1147,7 @@ rimonial knot is tied. Try it.
 A blind man, having a shrew for his wife,  
 was told by one of his friends that she was 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn90068762:00296026876:1852100801:0190/pct:105.12765957446808,78.7672247740406,17.872340425531913,5.3044895540080015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn90068762:00296026876:1852100801:0190/pct:78.86784422217494,59.075418580530446,13.407107895296871,3.985775670469699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1163,7 +1163,7 @@ was told by one of his friends that she was
 Charming women can true converts make;  
 We love the precepts for the Teacher&#x27;s sake
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855041301:0833/pct:55.4333552199606,250.0,41.33289560078792,2.555504162812211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855041301:0833/pct:18.477785073320202,83.33333333333333,13.777631866929307,0.8518347209374036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1230,7 +1230,7 @@ We love the precepts for the teacher&#x27;s sake:
 Virtue in her appears so bright and gay, &#x27;  
 We bear with pleasure, and with pride obey.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862683:1857090301:0349/pct:43.50465970064953,90.60331534309947,13.4990115786501,1.9853508095605243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862683:1857090301:0349/pct:43.51407323731526,90.6065278848625,13.50371834698296,1.99177589308661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1248,7 +1248,7 @@ We love the precepts for the teacher’s sake
 Virtue in her appears so bright and gay.  
 We hear with pleasure, and with pride obey.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1859101901:0377/pct:1.3868613138686132,34.64078716808195,12.664233576642335,1.7926944332120232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn89051343:00414212578:1859101901:0377/pct:1.3866082831600073,34.63611859838275,12.666484218208357,1.795822102425876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1281,7 +1281,7 @@ acquaintance with, how shall I come to a
 knowledge of her faults. Answer.Praise her  
 among her female acquaintances
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860082101:0170/pct:19.03450275442157,109.18176139912555,37.6630907509423,22.288153237559857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:0028077800A:1860082101:0170/pct:6.344834251473857,36.393920466375185,12.554363583647435,7.429384412519953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1301,7 +1301,7 @@ faults f
 Answer Praise her among her female  
 acquaintances.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1860082301:0325/pct:7.19002201027146,125.01731541764788,16.122523844460748,4.335780579027566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028820:00280775472:1860082301:0325/pct:5.395485410167003,93.76644964676548,12.11231418608919,3.255298517800249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1341,7 +1341,7 @@ Answer—Praise her among her fe­
 male acquaintances.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1860090601:0525/pct:82.8135949544499,90.98371335504886,11.002102312543798,3.1270358306188926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182999:1860090601:0525/pct:82.79908915747066,90.97186034392912,11.004554212646697,3.1298853569567484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1361,7 +1361,7 @@ Answer.Praise her among her female
 acquaintances.  
 e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470478:1860101801:0988/pct:321.3895394223263,225.86206896551724,51.75644028103044,12.539184952978056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470478:1860101801:0988/pct:80.36306851454226,56.46551724137931,12.941635760296702,3.134796238244514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1381,7 +1381,7 @@ to a knowledge of her faults ? Answer ;
 Praise her among her female acquaint­  
 ances.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn87067106:00279557438:1860102001:0814/pct:10.373626373626374,90.9090909090909,13.780219780219781,3.373356203544883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn87067106:00279557438:1860102001:0814/pct:10.384615384615385,90.9126643796455,13.785714285714286,3.3769296740994856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1403,7 +1403,7 @@ John Hole, who is so lazy that in writing his
 name he merely makes a J, and then punches  
 a hole through the paper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775666:1860110901:0038/pct:113.96803335649757,136.7575398393257,43.571924947880476,13.644145923877256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775666:1860110901:0038/pct:28.492008339124393,34.18938495983142,10.892981236970119,3.411036480969314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1423,7 +1423,7 @@ shall I come to a knowledge of her fauits
 Answer- Praise her among her female  
 acquaintances.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1860120101:0474/pct:57.18175629680054,207.94274132252343,34.97277059223962,7.2840131745629595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn84031042:00279529303:1860120101:0474/pct:19.060585432266848,69.31424710750781,11.657590197413207,2.4280043915209863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1442,7 +1442,7 @@ come to a knowledge of her faults? An­
 swer: Praise her among her female ac­  
 ea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056248:00200294543:1860121301:0376/pct:331.4366998577525,325.24664098468475,49.881460407776196,16.23602367753453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056248:00200294543:1860121301:0376/pct:82.85917496443813,81.31166024617119,12.470365101944049,4.059005919383632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1513,7 +1513,7 @@ acquaintances.
 fortunes of war&quot; we hear so much about, are the for­  
 tunes made by the army contractors
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1862123101:0081/pct:20.904409398133247,83.04277206280454,15.030576118442227,5.793178126691933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081912:00296028617:1862123101:0081/pct:20.909773629438902,83.0463815195813,15.025211887136573,5.796787583468688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1561,7 +1561,7 @@ Virtue in ber appears so bright and gar,
 We bear with pleasure, and with pride  
 obey
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020631:1886092501:0509/pct:50.90237899917965,11.720252816707887,18.867924528301888,2.9678483099752677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020631:1886092501:0509/pct:38.21054791709419,8.793624622148942,14.159655243176688,2.225886232481451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

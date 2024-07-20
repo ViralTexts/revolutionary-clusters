@@ -48,7 +48,7 @@ to make way for the functions of another who will be
 mete favorable to their vlews, vote a tempotary removal  
 of the existing magistrate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530856:1867020701:0260/pct:152.2084670640379,113.22889469103568,47.6692648632126,11.956048738033072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530856:1867020701:0260/pct:50.73615568801264,37.742964897011895,15.889754954404198,3.9853495793443576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ for the function of another who will be
 more favorable to thoir views, vote a tem­  
 porary removal of the existing magistrate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867020801:0134/pct:34.89941768131286,83.26656394453005,12.744838538909477,7.868515665125835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867020801:0134/pct:26.184802753508077,62.45505906522855,9.557850145618216,5.906522855675398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ re favorable to their views, vote a
 porary removal of the existing magis.­  
 rte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867020901:0151/pct:5.492021276595745,41.509943309637364,38.670212765957444,20.516512192927202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741923:1867020901:0151/pct:1.8306737588652482,13.83664776987912,12.890070921985815,6.838837397642401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ favorable to their views, votea tempo- j *
 rary removal of the existing magis- I 1  
 trate.&quot; &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190790:1867020901:0138/pct:3.1063567167249535,70.78323041923952,14.153466364945485,5.914852128696783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190790:1867020901:0138/pct:3.1063567167249535,70.79406348174629,14.174038263731742,5.909435597443397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ Mr. Madison- The president is made
   
 too dependent 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021301:0140/pct:24.144254278728607,346.6843208650557,37.469437652811735,6.6644598918680344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867021301:0140/pct:6.036063569682152,86.67108021626393,9.367359413202934,1.6661149729670086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ tions of another who will be more favorable to
 their views, vote a temporary removal of the ex-  
 isting magistrate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1867021301:0244/pct:274.7442958300551,121.59951529839442,50.82612116443745,17.933959406240533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1867021301:0244/pct:68.71310507674144,30.399878824598606,12.711530893349074,4.483489851560133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ order to make way for the functions of another
 who will be more‘favorable to their views, vote a  
 temporary removal of the existing magistrate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348434:1867021401:0073/pct:52.649970879440886,68.23142947970753,13.861386138613861,4.747271378616086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348434:1867021401:0073/pct:52.64230601252002,68.22420004238187,13.864220895812103,4.75030020484566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ functions of another who will be more favor­
 able to their views, vote a temporary remo­  
 val of the existing magistrate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349487:1867021501:0233/pct:31.472291149710504,47.87460148777896,12.544802867383513,7.1732199787460145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349487:1867021501:0233/pct:31.467953135768436,47.86951439804484,12.547668274753043,7.175999716643644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ make way for the functions of another who will
 be more favorable to their their views, vota a  
 temporary suspension of the existing magis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777018:1867021501:0444/pct:99.71969166082691,294.3650999740327,44.00840925017519,18.80031160737471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777018:1867021501:0444/pct:24.943032427695005,73.59127499350818,11.007887817703768,4.700077901843677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ to make way for the fanctions of another who
 will be more favorable to their views, vote a  
 temporary removal of the existing magistrate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1867032201:0292/pct:67.73289750175111,87.87185354691076,42.91384543544245,15.217391304347826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1867032201:0292/pct:22.577632500583704,29.290617848970253,14.304615145147482,5.072463768115942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ of another who will be more favorable to their
 views, vote a temporary removal of the existing  
 Magistrate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288579:1867101801:0384/pct:222.43654822335026,276.464900406111,51.6751269035533,21.504544575517308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288579:1867101801:0384/pct:55.609137055837564,69.11622510152775,12.918781725888325,5.376136143879327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ another who will be-more favorable to their
 views, vote a temporary removal of the ex­  
 isting Magistrate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349487:1867102501:0365/pct:42.810143934201506,11.81367899673306,12.460589444825223,7.06080725050058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349487:1867102501:0365/pct:42.80427631578947,11.812434141201264,12.463450292397662,7.06357569371268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -660,7 +660,7 @@ who will be more favorable to their views,
 vote a temporary removal of tho existing  
 Magistrate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767778:1867102601:0177/pct:14.769533445756043,6.658927817644575,13.546936481169196,8.421274799493457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767778:1867102601:0177/pct:14.774217725313846,6.665963134937385,13.546936481169196,8.424792458139862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -708,7 +708,7 @@ way for the function of another who will
 be more favorable to their views, vote a  
 temporary removal of the existing magis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774753:1867103001:0057/pct:21.85754189944134,253.23593489683455,50.06983240223464,21.273869024734076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774753:1867103001:0057/pct:5.464385474860335,63.30898372420864,12.51745810055866,5.318467256183519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ functions of another who will be more
 favorable to their views, vole a temporas  
 ry removal of the existing Magistrate.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1867103001:0279/pct:89.00479278263322,46.970854710184476,39.54045672399211,24.484226612815196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1867103001:0279/pct:29.668264260877738,15.656951570061493,13.180152241330703,8.161408870938399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -762,7 +762,7 @@ for tho lunction of another who will be
 more favorable to their view?, vote a tenv  
 nomnr removal of the existing magistrate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293368:1867103001:0415/pct:8.407341622261693,114.40437158469945,14.535227945529899,6.622950819672131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293368:1867103001:0415/pct:6.307373408350607,85.80327868852459,10.912052117263844,4.972677595628415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -821,7 +821,7 @@ who will bo more favorable to their
 views, vote a temporary removal of  
 the existing Magistrate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551682:1867103101:0106/pct:17.659372026641293,22.58436688779925,16.251189343482398,10.008653014133257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551682:1867103101:0106/pct:17.659372026641293,22.58436688779925,16.263875673961305,10.01826747428132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -849,7 +849,7 @@ be more favorable to their views, vote
 a temporary removal of the existing  
 magistrate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1867103101:0369/pct:277.29430379746833,46.3452566096423,50.63291139240506,28.615863141524105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1867103101:0369/pct:69.32357594936708,11.586314152410575,12.658227848101266,7.153965785381026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ tbeir visws, vote a temporary removal of
   
 ilm rxmtinir magistrate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867103101:1022/pct:42.89867109634552,4.457225017972681,17.171926910299003,4.543493889288282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779350:1867103101:1022/pct:32.191069574247145,3.3501078360891445,12.876427829698859,3.4076204169662114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ other who will be more favorable to
 their views, vote a temporary re  
 moval of the existing magistrate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529340:1867110101:1708/pct:6.349739627078784,40.63916050560458,78.90139425499748,17.433818268542808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529340:1867110101:1708/pct:2.1165798756929277,13.546386835201526,26.300464751665828,5.811272756180936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -927,7 +927,7 @@ function nf nnother who will bo moro
 favorable to their views, voto it tempo­  
 rary removal of the existing magistrate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237287988:1867110101:0069/pct:53.29457364341085,92.5517652316401,14.94186046511628,7.314166542529421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237287988:1867110101:0069/pct:40.00387822377351,69.41754804111426,11.208066705448905,5.481900789512886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1090,7 +1090,7 @@ to make way f r the functions of another who ill
 be more favorable to their views, vote a temporary  
 removal of the existing magistrate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879129:1867121301:0207/pct:24.424986931521172,9.074872598980791,17.315734448510195,5.693845550764406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879129:1867121301:0207/pct:18.32919335860897,6.811054488435907,12.995162766374689,4.272834182673462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

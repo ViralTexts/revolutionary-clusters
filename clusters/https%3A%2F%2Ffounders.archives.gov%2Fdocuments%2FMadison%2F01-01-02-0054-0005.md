@@ -182,7 +182,7 @@ master-builder of the Constitution and its main expositor
 and supporter throughout the discussions, which ended  
 in its establishment.&quot; He, however, never clamed th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861112601:0499/pct:59.684439608269855,84.14124794329831,44.305404425099745,13.188204024806986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861112601:0499/pct:19.89120580235721,28.043533282713238,14.765790268963434,4.395511684805535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ lasting, and of framing an equal, free, and lib­
 eral Government that might bear the test of  
 future ages. We observe, finally, that whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897081501:0962/pct:76.50557620817844,240.69237777102947,48.99628252788104,17.00576981475858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897081501:0962/pct:19.12639405204461,60.17309444275737,12.24907063197026,4.251442453689645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

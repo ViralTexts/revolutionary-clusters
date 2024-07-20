@@ -397,7 +397,7 @@ sparing my women and children.&quot; Mr. May­
 er shows that Logan never made the speech,  
 and ihnt he had no occasion to make it. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1851080801:0206/pct:85.24478694469629,24.408783783783782,19.106980961015413,18.75/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1851080801:0206/pct:63.95375198367717,18.31081081081081,14.350487417819089,14.070945945945946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ in cold blood and anprovoked, oat off the
 relations of Logan, not sparing even my  
 women and children. There rans
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862683:1857111201:0389/pct:83.2793351176222,27.038543482471432,14.523172277785603,8.773968622893667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862683:1857111201:0389/pct:83.28872611165892,27.041771579830847,14.518476780767244,8.773968622893667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -512,7 +512,7 @@ th e veins of any Lumen creature. &quot;This cal­
 led ou me for rt verge. I have sought it. I  
 have killed many. I have fully glutted m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477631:1858052601:0608/pct:77.2530329289428,39.473977488019614,18.731946851530907,15.201159032653516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477631:1858052601:0608/pct:57.95175501950022,29.611055388387385,14.054600606673407,11.400869274490137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -619,7 +619,7 @@ their own expenses and having the prospect of no
 recompense but the honor and safety of the coun­  
 try.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:52.421052631578945,80.92293598992327,48.550607287449395,23.634489866025422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:17.473684210526315,26.97431199664109,16.18353576248313,7.8781632886751405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -655,7 +655,7 @@ girdle? Silent is his whoop iu the great
 council chamber at Washington. Who is  
 there to mourn for Logan. Not one!&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053942:00295873206:1877013101:0308/pct:73.8981998758535,16.09392898052692,16.37181874612042,13.665521191294387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053942:00295873206:1877013101:0308/pct:55.448618441477805,12.073310423825887,12.278795405153678,10.25200458190149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -741,7 +741,7 @@ venge. I have sought it. I have killed
 some of my party. I have glutted my ven­  
 geance. But what remains to Logan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688787:1877020801:0020/pct:16.468960063266113,75.16926700029438,12.336892052194543,13.614954371504268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jupiter_ver01:data:sn90050272:00513688787:1877020801:0020/pct:16.468960063266113,75.16926700029438,12.363252932647951,13.629673241095084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -819,7 +819,7 @@ venge. I have sought it. I have killed
 some of my party. I have glutted my ven  
 geance. But what remains to Logan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1877020901:0048/pct:216.84737281067555,110.77085533262935,66.97247706422019,63.357972544878564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1877020901:0048/pct:54.223149113660064,27.692713833157338,16.746611053180395,15.839493136219641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ that mine Is tbeloy of fear. &#x27;Logan serer felt fear, lie
 will not tarn on his heel to aave his life. Who ia there  
 to mourn for Logan I Not one.&quot; Saeec 0 Zoosa, Ckit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555663:1878101001:0416/pct:5.417276720351391,27.9750346740638,17.478038067349928,8.238557558945908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555663:1878101001:0416/pct:4.065189525727889,20.984743411927877,13.129463468229263,6.185852981969487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ It. I have killed many. I have f ully gluttod my
 vengennco. For my country I rejolco nt the  
 beams ot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn87075048:0023728950A:1887022601:0273/pct:59.60536113179449,73.77746279234586,16.008935219657484,12.827781715095677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_delta_ver01:data:sn87075048:0023728950A:1887022601:0273/pct:44.72998137802607,55.33664068036853,12.011173184357542,9.6243798724309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -934,7 +934,7 @@ cabin hungry and he gave hhn not
 meat,&quot; and ending, &quot;Logan never felt  
 fear. He would
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1898012201:0269/pct:69.76266118482526,28.35541474654378,12.203326481031583,5.789170506912442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1898012201:0269/pct:69.76266118482526,28.35541474654378,12.222014576714633,5.803571428571429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

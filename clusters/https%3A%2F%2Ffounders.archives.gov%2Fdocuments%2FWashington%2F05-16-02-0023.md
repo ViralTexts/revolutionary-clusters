@@ -119,7 +119,7 @@ prepare and bring in a bill purluant to the
 above resolution.  
 From the Leyden Gazette of 2 &quot;jlh Dec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794042201:0003/pct:26.13065326633166,22.975482912332836,19.745787762341116,19.167904903417533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794042201:0003/pct:26.152822938220513,22.98941307578009,19.760567543600356,19.172548291233284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ fame respects articles of the growth or ma­
 nuiafture of Great Britain or Ireland,  
 fliall be prohibited
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794042401:0001/pct:49.583213567116985,16.900369003690038,18.712273641851105,19.870848708487085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794042401:0001/pct:49.59758551307847,16.90959409594096,18.712273641851105,19.870848708487085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ growth or manufaéture of Eereat-Britain or Ire­
 -1 %and, shall be prohibited. s  
 A committee was then appointed to prepar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794050301:0223/pct:26.47775746496039,65.74008318961144,20.399146861669713,25.18007507355179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794050301:0223/pct:26.487913873654275,65.74346488113355,20.38899045297583,25.18007507355179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ carried on in the extent; at present allowed:
 BE it enaQed by the Senate and House of  
 Representatives of the United States of A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794051001:0001/pct:48.07256235827664,57.53829119763794,19.302721088435373,24.377191363720243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794051001:0001/pct:48.07256235827664,57.53829119763794,19.323979591836736,24.39103155563757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ nufadhire of Great-Britain or Ireland, and if any
 fuch (ball he imported, the fame (hall he forfeited,  
 and may be feized by any of the officers of the cuf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805102901:0203/pct:60.01855287569573,42.819013726487036,17.84786641929499,10.345704117946111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805102901:0203/pct:60.0074197736969,42.8135722455204,17.850738885797316,10.34862540771805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ afier the fi:ft day of November next, it shall
 be unlawfal to import into the United Siates  
 any goods, wares and merchandize of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805120301:0194/pct:25.190483595086302,17.883385819257562,16.18721816202768,9.972325603588128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805120301:0194/pct:25.195666822163478,17.883385819257562,16.18721816202768,9.978687533797753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ This refolittion was decided by the Yeas and
 Nays, and I find there were for it 5* Yeas, and  
 agamft it 39 Nays. Among thofe who vote
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806040401:0413/pct:60.1956080457649,77.89674952198853,17.567816940394906,14.697259400892287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806040401:0413/pct:60.18450184501845,77.88682131022176,17.570725707257072,14.699634633358825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ the extent nt preant allow ids
 •* IfiSOCVKO, &#x27;1 hat fr&lt; m nrd nf-rr thy  
 rpcj \1 jy ot M’-trtisbwf next, all corn mgr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806040401:0120/pct:75.8151131568853,82.94835193355827,18.316072113540468,12.756293797041266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806040401:0120/pct:75.80057526366251,82.93758920461917,18.318951741770533,12.758963712642187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ turc of Great Britain or it:-laud shall be
 ,rohibited.&quot; &#x27;  
 This resolution&#x27;was decided by the ye
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806041201:0412/pct:52.763413057530705,3.553586577434254,45.74983839689722,91.38467339051749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806041201:0412/pct:52.75488770399095,3.5532516493873705,45.74783217536489,91.37920201068175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ a third time—ayes 50 —noe- 24.
 April 28  
 In the senate, the bit sen* up from th- hntr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806081601:0273/pct:42.90916059793024,2.918666493708652,34.419317746262934,92.90439745751719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806081601:0273/pct:42.900938877179534,2.9182879377431905,34.41910966340934,92.89667099005621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ refwse ord which I cannof efford, unlens I sell port of it to
 Besides these, I have another mo-­  
 tive which makes me eArnestir wish for these things
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530443:1854072101:0556/pct:150.08239947264337,194.77505355867652,47.4950560316414,16.09140680790288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530443:1854072101:0556/pct:50.027466490881125,64.92501785289217,15.831685343880466,5.36380226930096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ the Foreign Secretary lias caused a circular
 to he sent to all the English Consular and  
 other agents abroad, requesting them t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215920:1854073101:0028/pct:84.10736699816549,10.87307719322891,12.928454185574973,9.826508393622252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215920:1854073101:0028/pct:84.09924695887237,10.872313527180784,12.930424148806075,9.82815938568151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ yet so unproductive is it, that I am oftentimes ashamed to
 refuse aid which I cannot afford, unless I sell part of it to  
 answer this purpose.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184662:1854080101:0636/pct:171.4410990938322,78.46635005212556,38.33674364220988,25.03185451175721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184662:1854080101:0636/pct:57.138681864679235,26.152420662497104,12.777047104096644,8.342985097675855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ tive is i?, that J cm oftentimes ashamed to refute
 aid which / cannot afford, unless I sell part of  
 it to answer this purpose Besides these, I hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854080301:0746/pct:43.80375017623009,69.03357531760436,13.619061046101791,5.977767695099819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053546:00415660984:1854080301:0746/pct:43.8131491141501,69.03357531760436,13.628459984021806,5.981548699334543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ am oftentimes ashamed to refuse aid wiiuh I
 cannot afford, unlets I tell part of it to an  
 nicer this purpose. , Besides these, I hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1854081001:0263/pct:46.68715846994535,108.51767098906687,15.368852459016393,8.74650394101195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199276:1854081001:0263/pct:35.03587290741373,81.38825324180016,11.530577382985992,6.572590897533689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ to you that my motives to these sales
 are, to reduce my income, be it  
 more or less, to specialities,-tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1854081801:0762/pct:153.99551904406275,213.98661159379006,45.25765496639283,8.773678963110669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1854081801:0762/pct:38.52045581916682,53.496652898447515,11.320754716981131,2.193419740777667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ aid which I cannot afford unless I sell part
 of it to answer this purpose. Besides these  
 I have another motive which earnestly wis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1854090101:0126/pct:57.882254464285715,42.95837023914969,38.016183035714285,21.592362956401928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83021380:00279523878:1854090101:0126/pct:19.291393499790765,14.318047628419603,12.67029339284884,7.196746047366004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ I possers a cood and clear eatate, yet so unprodue,
 tive is it, that I am oftentimes ashamed to refuse ald which I  
 sannot afford, unless I sell part of it to answer this 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854090201:0014/pct:56.55605381165919,220.70197830248884,46.83408071748879,8.89597957881302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854090201:0014/pct:18.85201793721973,73.5673261008296,15.611360239162929,2.965326526271006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -881,7 +881,7 @@ the terms and for the purposes mentioned, yet for reasons
 which will resdily occur to you, I would not hawk them about  
 as some do, if they were never to be sold.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854090201:0014/pct:105.09417040358744,76.01786853860881,46.74439461883408,48.37268666241225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530455:1854090201:0014/pct:35.03139013452915,25.339289512869602,15.581464872944693,16.12422888747075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ cleat estate, yet. so unproductive is it that I
 am oftentimes ashamed .to refuse aid which  
 I cannot afford unless I sell part of it fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027534:1856070101:0427/pct:40.61409630146546,38.6486131194952,16.695743196092113,22.637044827132904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027534:1856070101:0427/pct:30.47652295339501,28.9864598396214,12.532728224821085,16.984356513737346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1072,7 +1072,7 @@ cannot afford unloss I sell part of it
 to answer this purpose. Besides  
 these I have another motive whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn95063180:00212472852:1857082001:0033/pct:87.08767361111111,6.87577044240515,19.466145833333332,20.58622106560745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn95063180:00212472852:1857082001:0033/pct:65.34954407294833,5.163676208738529,14.61137646547981,15.436241610738255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1102,7 +1102,7 @@ fuse aid which I cannot afford, unless 1
 sell part of it to answer this purpose. Be­  
 side these, I have another motive which
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:37.848729076255424,59.34095136858889,16.878487290762553,13.340419877757109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858080301:0281/pct:28.4031007751938,44.512357161838956,12.666666666666666,10.005314908317832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1168,7 +1168,7 @@ occur to you, I would not hawk them about as
 some do, if they were never to be sold  
 The world has been of the impression tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022301:0725/pct:121.81682799702159,209.96799268404206,50.707371556217424,36.93034598384393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022301:0725/pct:30.454206999255398,52.491998171010515,12.676842889054356,9.232586495960982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1207,7 +1207,7 @@ occur to you. I would not hawk them about as
 some do, if they were never to be sold  
 The world has been of the impression tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022301:0726/pct:117.73584905660377,208.0243161094225,50.113207547169814,38.28267477203647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042854:1896022301:0726/pct:29.44507361268403,52.006079027355625,12.533031332578332,9.570668693009118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1289,7 +1289,7 @@ am oftentimes ashamed to refuse aids which
 I cannot afford unless I was to sell part of it  
 to answer the parpose.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0962/pct:123.05953278070837,177.1684053651267,50.037678975131875,77.61549925484351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897031401:0962/pct:30.76488319517709,44.29210134128167,12.509419743782969,19.40387481371088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

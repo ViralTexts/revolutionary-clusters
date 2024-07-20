@@ -90,7 +90,7 @@ and dirt, the work of righteousness is
 peace, and the effect of righteousness qui­  
 etness at d assurance forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152329:1859051101:0371/pct:66.64803688696381,44.5957538065623,11.527176191141539,1.4797340767746086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn86086437:00514152329:1859051101:0371/pct:66.64803688696381,44.5957538065623,11.531833636067253,1.4868825505754522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ righteousness is peace, and the effect of
 righteousness quietness and assurance  
 forever. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_faribault_ver01:data:sn90059522:00206538612:1891111601:0164/pct:27.51246392023091,64.53283613010151,10.666491734452899,1.533043298114771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_faribault_ver01:data:sn90059522:00206538612:1891111601:0164/pct:27.52121053091927,64.53283613010151,10.66211842910872,1.533043298114771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ him the work of righteousness is peace
 and the effect of righteousness, quietness  
 and assurance forever (sa. xxxil, 17)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1896092501:0312/pct:133.8235294117647,371.06089139987444,58.91544117647059,6.0263653483992465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1896092501:0312/pct:33.4635715927373,92.76522284996861,14.732245460813607,1.5065913370998116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

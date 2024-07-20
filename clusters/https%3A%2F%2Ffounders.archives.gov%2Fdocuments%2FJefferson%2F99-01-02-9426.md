@@ -200,7 +200,7 @@ tries, that taey will have learnt du­
 ■iy to appreciate etch other&#x27;s friend­  
 ship ; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111101:0001/pct:58.288770053475936,48.805950672060554,17.21132897603486,29.440167036408717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111101:0001/pct:58.29537202086222,48.805950672060554,17.21793094342114,29.448866849362737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ place, to which, though unfortunately
 not practicable at this moment, nor  
 under the conditions prescribed l»
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808111501:0374/pct:59.297052154195015,22.67742342115215,17.98941798941799,24.404386738938612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808111501:0374/pct:59.285849234838466,22.674565162591378,17.992316896530006,24.40551214183682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ I he andersigned is commanded, in
 conclusion to observe, that nothing is  
 said in Mr. Pinkney’s letter,of any in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808111501:0374/pct:59.297052154195015,51.909744106895246,17.800453514739228,15.504853145090129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808111501:0374/pct:59.285849234838466,51.90320141164608,17.80338812267775,15.507100243677002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ measure ol hostility, he would gladly have farilitat
 ed its removal as a mesure of inconvenient restricti  
 on upon the American piople.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0228/pct:46.65816326530612,41.57817350106192,21.04591836734694,13.102434242770789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112501:0228/pct:46.6462637082377,41.57138190133943,21.046926804386636,13.10437765436132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -481,7 +481,7 @@ the Strength and power of Great­
 Britain are not for herself ootv,  
 but for. the worldi When thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808112501:1070/pct:27.31194392019412,57.128446536650976,16.28471286060933,11.60053799596503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808112501:1070/pct:27.304582210242586,57.118843503109765,16.287061994609164,11.602790384938645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ measure of. hostility,, be would
 al at a measure of inconvenient  
 restriction upon the America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808112501:1070/pct:27.015368023726072,75.92468056489577,16.60825020221084,16.694687289845326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808112501:1070/pct:27.00808625336927,75.91191796940662,16.610512129380055,16.696083375357205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ moval as a meafure of incontemer *:
 renriefnm upon the American peo­  
 ple
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808112801:0508/pct:56.86775732788003,32.944840751532205,18.336741649625086,17.763488395458655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808112801:0508/pct:56.85806781393764,32.94153104279687,18.337876980746294,17.76421539079767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ a measu.ee of inconvenient restriction
 ufion the American fieo/de. I have no  
 faith, Mr. President, in the sincerity o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808113001:0001/pct:41.90513524108193,46.224941421504816,17.130537044296354,14.423327258526426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808113001:0001/pct:41.91820201228276,46.22928056929619,17.130537044296354,14.432005554109173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ measure of hostility, he would jjlj.ilv have f icilita­
 ted Us innov ,1 as .i measure of inconirnieot restric­  
 tion upon the American people * Hu mojcsly ! woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808120501:0243/pct:10.382231404958677,4.201819685690653,43.31095041322314,93.92886683209264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808120501:0243/pct:10.379550735863672,4.201124710552431,43.30622256648593,93.91746609328482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ for the repeal of the embargo, would gladly
 facilitate its removal as a measure of incon­  
 venient restriction ufion the American fieo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808121001:0257/pct:41.72790822728088,84.0074441687345,16.956443807133894,5.310173697270471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808121001:0257/pct:41.72043010752688,83.99702270189803,16.959378733572283,5.313650084770293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ restriction upon the American people. 1 have
 no faith, Mr. President, in the security of!  
 this profession ; but 1 feel roost sensibly the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808121201:0517/pct:24.724622945263516,56.29726731874559,17.607185222843587,5.535948371483311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808121201:0517/pct:24.720433751270754,56.29159104658197,17.60843781768892,5.53791086912684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -794,7 +794,7 @@ go, without appearing to deprecate it
 .sure ci&quot; hostility, he would  
 gladly have facilitated its remova
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808121401:0001/pct:59.24320063066614,23.575433563698006,16.81119432400473,6.102490546355457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808121401:0001/pct:59.24977006963605,23.575433563698006,16.817763762974643,6.1155300560698915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ tivity, and if it were poaaible
 without any sacrifice* for the re­  
 peal of the tmb-rgo, would glad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808121601:1082/pct:10.95063025210084,31.22081387591728,15.493697478991596,5.870580386924616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808121601:1082/pct:10.947755316355998,31.21560780390195,15.496193226568654,5.873770218442554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -841,7 +841,7 @@ bave facilitated ilts removal as a measure of
 tacoavenient reflrition upon the, American  
 people,” (Canning’s Lietter.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808122001:0203/pct:5.532953620829943,23.366909344769123,16.92432872253865,6.432631893886507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808122001:0203/pct:5.532953620829943,23.370233702337025,16.94060211554109,6.4392806090223065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +864,7 @@ ry sacrifice for the repeal of the embargo,
 sure of hostility, he would gladly have faci­  
 litated its removal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808122001:0273/pct:5.033864177192019,43.09933442170036,17.389712612117883,4.973000125580811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808122001:0273/pct:5.03294289897511,43.0939226519337,17.39263055148853,4.976561192030806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -887,7 +887,7 @@ embargo, without appearing to deprecate
 it as a measure of hostility, he would glad­  
 ly have facilitated its removal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808122701:0421/pct:59.097801364670204,14.004600051111678,17.854435178165275,5.18783542039356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808122701:0421/pct:59.086602236119006,14.002810783186407,17.857368454298527,5.1914313700438655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

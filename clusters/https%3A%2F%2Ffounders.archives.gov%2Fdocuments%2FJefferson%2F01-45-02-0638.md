@@ -186,7 +186,7 @@ Lord. Hence, all that is voluntary in the pro
 them to break off their sins by righteousness  
 and their iniquities by turning to the Lord. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881042401:0024/pct:57.98969072164948,94.10747957259585,13.2946735395189,0.8799497171590195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ogden_ver03:data:sn84031492:no_reel:1881042401:0024/pct:57.98969072164948,94.11140791954746,13.2946735395189,0.8760213702074168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ Wesley witnessed these manifestations of power, an
 breaking off their sins by righteousness and  
 their iniquities by turning unto the Lor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861939:1885072301:0220/pct:42.84973421496175,84.48667818495953,13.367042655257357,1.1821405837955805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861939:1885072301:0220/pct:42.858377630839705,84.48667818495953,13.375686071135313,1.1912339729017005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -180,7 +180,7 @@ tha Ithever had heard a disp sition to separate from
 tain, and after that, its pessibility  
 plated with affliction by al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:73.65985345160047,162.46802106847252,61.49247975318164,28.72836719337848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:18.411413148255253,40.61089377068914,15.370156159629843,7.181011134517003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ for a restoration to the state of things before the contest began,
 provided we could have had a sufficient security tor il? con  
 tinuance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:80.94499294781382,29.59195207414943,15.698166431593794,3.990053125353227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:80.94499294781382,29.59948758524547,15.716972261401034,3.986285369805207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ for a restoration to the state of things before
 the contest began, provided we could have had  
 a sufficient security for its continuance,&quot; &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:43.74557302734098,2.630691399662732,19.662841762289275,64.2495784148398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849070401:0281/pct:43.750295131510605,2.630691399662732,19.67700807479813,64.2495784148398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ sessed for a restoration of the state of
 could have had sufficient security for its con­  
 tinuance.&quot; Gallowa and the Allens of enn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861052601:0210/pct:150.1755559271025,178.89864133702056,47.21618458451764,13.298064205843453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861052601:0210/pct:50.058518642367495,59.63288044567352,15.738728194839213,4.4326880686144845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ stale of tilings hefore the contest began, pro­
 vided we could have had suflicieiil security  
 lor its continuance.&quot; Galloway and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1861060801:0193/pct:39.4092353710974,79.12228376651044,15.853430547765937,3.763669933248118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1861060801:0193/pct:30.55153095721047,61.32819666116309,12.276634791847773,2.909557879288204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ state of things before the contest began, pro­
 vided we could have had sufficient security  
 for its continuance.” Galloway and the Al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861062501:0003/pct:33.82438457065323,80.92927510660196,10.118239968986238,2.0291133656815172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861062501:0003/pct:33.83892227175809,80.92927510660196,10.118239968986238,2.0474930157329805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ state of things before the contest began, provi­
 ded we could have had sufficient security for its  
 continuance.&quot; Galloway and the Allens of Penn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1861062601:0524/pct:163.52100350058342,63.1496062992126,38.33138856476079,8.062992125984252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024570:1861062601:0524/pct:54.53086239603093,21.0498687664042,12.782722895082445,2.6876640419947506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ luc t&quot;&quot;&quot; ucgau, j-w.,uv- ..v
 sufficient security for its continuance&quot;  
 Galloway and the Aliens of Pennsylvani
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283508:1861080701:0393/pct:52.25705329153605,102.62163150835264,14.153605015673982,4.548225826118766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237283508:1861080701:0393/pct:39.20677222135131,76.96622363126448,10.612948738046716,3.414217778319717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ a restoration of the state of things before
 the contest began, provided we could have  
 rtfirl enfff irint cni&#x27;nrlf tr fn fta .nnlinn.nna &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555614:1861090501:0218/pct:108.04314912944739,69.24616410940627,17.165026495079484,3.9359573048699135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015486:00294555614:1861090501:0218/pct:81.05243233011547,51.941294196130755,12.890403180011358,2.9486324216144095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ its continuance.&quot; And Washington him­
 self declared that he was indebted for his  
 success more to the inertness and genera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1863050901:0654/pct:62.16308427157966,75.95806218365871,14.19310815421358,4.1937816341287055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1863050901:0654/pct:62.1687706129876,75.96609624809192,14.198794495621517,4.201815698561902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

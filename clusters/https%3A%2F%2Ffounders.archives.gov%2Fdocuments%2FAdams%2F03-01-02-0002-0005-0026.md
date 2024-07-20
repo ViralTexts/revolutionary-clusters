@@ -374,7 +374,7 @@ rily be, “ I knew thee that thou art an hard
 man, reaping where thou hast not sown,  
 and gathering where thou hast notstrawed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013523:1851051601:0289/pct:18.23107848278273,40.33306255077173,12.357979374235274,3.8721906309233685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013523:1851051601:0289/pct:18.2278923453338,40.32760254501151,12.360188745193987,3.8750507648571815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ Lord, I knew thee that thou art an hard man, reaping where
 thou hast not sown, and gathering where thou hast not  
 strewe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853031801:0579/pct:10.971734403746446,101.34498218185999,46.84729887941127,8.023910794344177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853031801:0579/pct:3.6572448012488152,33.78166072728666,15.61576629313709,2.674636931448059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ your talent?&quot; Then he which had received the
 one talent came and sald, &quot;Lord, I knew thee that  
 thou art an hard man, and, careful about m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_honda_ver01:data:sn83030214:00175039831:1881031301:0626/pct:56.47626709573612,114.85273815002301,47.27272727272727,11.45881270133456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_honda_ver01:data:sn83030214:00175039831:1881031301:0626/pct:18.825422365245373,38.28424605000767,15.757575757575758,3.819604233778187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ thee that thou art a hard man, reaping
 where thou hast not sown, and gathering  
 where thou hast not strewed 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029075:1888042601:0297/pct:50.909904534606206,84.8268345846452,14.319809069212411,6.442237829983047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029075:1888042601:0297/pct:38.20325324578421,63.623153305885204,10.744664975376809,4.831678372487285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ and said, ‘ Lord, I knew thee that thou art a
 hard man, reaping where thou didst not sow,  
 and gathering where thou didst not scatter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1888061601:0822/pct:17.75544388609715,22.45184872768171,12.134747813139773,4.203570926472656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1888061601:0822/pct:17.752139933010792,22.448692718583075,12.137141793822106,4.206494236716334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ know that thou art a hard man, reaping where
 thou hast not sown, and gathering where thou  
 hast not strewed, and we were afraid, and wen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1889060601:0121/pct:28.090782400955604,56.58967391304348,21.361736014334063,2.404891304347826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1889060601:0121/pct:28.08519108280255,56.581986143187066,21.36411889596603,2.409092967441018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ thou art a hard man, reaping where thou
 hast not sown, and gathering where thou  
 hast not strewed.” His Lord answere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1890022001:0236/pct:38.398002305032655,46.1310364303869,11.025739531310027,2.6404970347359504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1890022001:0236/pct:38.390628000768196,46.12452350698857,11.028423276358748,2.643653819003247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -783,7 +783,7 @@ some excuse: ‘I knew thee that thouart a hard
 man, reaping where thou hast not sown, and  
 gathering where thou hast not strewed: and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1895100501:0218/pct:6.214057507987221,16.829725228975853,19.792332268370608,4.860532889258951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92064114:00514153401:1895100501:0218/pct:6.214057507987221,16.833194560088813,19.79765708200213,4.867471551484874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ Text; &quot;Then he which had received the one talent came and said, ‘Lord, I 
 thee that thou art an hard man, reaping where thou hast not sown, and gatlieilng  
 where thou hast not strewed; and I was afraid and went and hid thy talent in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1896042501:0645/pct:5.459770114942529,7.1609454136184585,21.896551724137932,4.079909960607766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897913:1896042501:0645/pct:5.458724382302241,7.159938106625404,21.897146140586095,4.082852721901815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

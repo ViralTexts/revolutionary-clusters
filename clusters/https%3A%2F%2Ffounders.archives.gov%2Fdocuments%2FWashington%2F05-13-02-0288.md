@@ -65,7 +65,7 @@ ple of America, with their defrre to observe
 with fidelity their public engagements or   
 their affectionate regaid for thccaule
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082401:0002/pct:74.07649558679307,71.7284677261134,21.15070284406669,19.109279968608984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082401:0002/pct:74.09284079764629,71.7431822640769,21.158875449493298,19.119089660584656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ its implacable enemies, and the prefcnt cold
 indifference at&#x27; some who were it* ancient  
 friends. 1 have the honor, &amp;;c-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082401:0003/pct:6.259879860891559,2.8643313334623572,20.961112867530826,28.604606154441647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793082401:0003/pct:6.275687638318052,2.878846526030579,20.953208978817578,28.61912134700987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ co.d indifference of some who were if
 ancient iriends.  
 I have the honour, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793082801:0001/pct:50.04827808175089,35.0140056022409,22.62632764724815,53.06122448979592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793082801:0001/pct:50.06437077566785,35.024009603841534,22.61828130028967,53.07122849139656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ sent cold indifference of some who were
 its ancient friends. -  
 1 haws the bonor, 5
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793090301:0084/pct:29.58246964761623,19.26887259758272,20.521172638436482,69.30850009906875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793090301:0084/pct:29.58740499457112,19.26887259758272,20.521172638436482,69.31510468264976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

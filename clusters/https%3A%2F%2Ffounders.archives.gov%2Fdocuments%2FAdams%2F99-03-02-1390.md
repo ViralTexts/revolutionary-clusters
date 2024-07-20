@@ -250,7 +250,7 @@ Or why sae sweet a flower as love
 Depend on money&#x27;s shining?”  
 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030362:print00211110089:1853120401:0004/pct:42.88806825417038,44.52984627670194,5.99770788233796,2.4755440207626274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030362:print00211110089:1853120401:0004/pct:42.89443524767605,44.52984627670194,6.000891379090794,2.4755440207626274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ Or why sae sweet a flower as love
 Depend on fortune&#x27;s shining.&quot;--BurNs.  
 Oh, heavenly muse, thy power I own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022799:no_reel:1863061301:0295/pct:270.03484320557493,66.77011219861542,39.214444092492876,8.904273096204344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn84022799:no_reel:1863061301:0295/pct:67.50871080139373,16.692528049653856,9.803611023123219,2.226068274051086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ Depend on Fortune&#x27;s shining?”
 | Or why sae sweet a flower as love,  
 i Depend on fortune’s shining?”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1878041201:0157/pct:55.79338404387051,113.8739431206764,15.602335043339819,3.9072508326928004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drteeth_ver01:data:sn85034082:00517177283:1878041201:0157/pct:43.24361376410913,88.25826521494523,12.091577937211534,3.0314061620941852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ Life&#x27;s dearest hands untwining?
 Or why sae sweet a flower as love  
 Depend on fortune&#x27;s shining
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623379:1895021601:0575/pct:72.05255681818181,21.440489432703004,9.463778409090908,1.3487208008898777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623379:1895021601:0575/pct:72.05255681818181,21.440489432703004,9.477095170454545,1.3661012235817576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

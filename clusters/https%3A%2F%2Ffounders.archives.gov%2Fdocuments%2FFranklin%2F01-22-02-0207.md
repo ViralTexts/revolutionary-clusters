@@ -467,7 +467,7 @@ fectionately, B. FuASKLl!*.
 Major Gen. Lee.  
 Seme things that have happened and bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654085:1856100201:0187/pct:64.68131188118812,21.75063613231552,16.29022277227723,37.98473282442748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654085:1856100201:0187/pct:64.68131188118812,21.75318066157761,16.294090346534652,37.99745547073791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ bU0C6^»
 1 am, with the greatest esteem, yours af­  
 “ fectionately, . D. 1 ranklin&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856100701:0602/pct:6.94211616211419,15.965839183614388,13.253130854945272,40.45740754143446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856100701:0602/pct:6.941431670281996,15.96468374583876,13.255110760533753,40.45689197664881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ in King Edward tho Third’s relgu, and adds:
 when men wore some defensive armor, bow  
 much more might be done now that U U out o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876072401:0002/pct:72.21627408993577,79.738430583501,13.222698072805139,18.53118712273642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876072401:0002/pct:72.23634903640257,79.75352112676056,13.222698072805139,18.516096579476862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ e is extracted.
 1 provided everywhere than muskets an  
 ! ammunition.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85026954:0041562010A:1876081701:0153/pct:43.34032511798637,84.8184512782512,13.817514420555847,12.99555390885513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85026954:0041562010A:1876081701:0153/pct:43.34032511798637,84.8184512782512,13.821884285963993,12.99864147215018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -930,7 +930,7 @@ success.
 I am, with the greatest esteem,  
 Yours affectionately, B. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1876082401:0362/pct:48.29192546583851,53.69746851228333,13.183229813664596,28.80658436213992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237283612:1876082401:0362/pct:36.23796210003106,40.279336575632875,9.894377135756447,21.598703080184563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1001,7 +1001,7 @@ rows when men wore some defensive ar
   
 mour, how much more might be done now 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876090601:0139/pct:32.88869764773379,89.13090360146647,36.144578313253014,29.58809575156351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876090601:0139/pct:24.67718794835007,66.8535691179642,27.116212338593975,22.191071813672632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ water is (piite cold add &#x27;i n! a corresp indent. My eyes will now sun of ri
   
 u ui water: the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876090601:0139/pct:39.2570281124498,113.90985551002804,44.707401032702236,7.472503773991805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197620:1876090601:0139/pct:29.45480631276901,85.43239163252103,33.54375896700144,5.60707353892603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1126,7 +1126,7 @@ terruption, (lod give jon success!
 I am, with the greatest esteem, yours affec­  
 tionately, B. Fraxkux
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883011801:0614/pct:35.680494905385736,83.64226762278447,15.120087336244541,23.975104857258827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883011801:0614/pct:26.769790718835306,62.73846570152889,11.337579617834395,17.98132864294412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

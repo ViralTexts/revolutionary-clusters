@@ -410,7 +410,7 @@ the natural method ranking under the 33d order
 Comeulaca. There are flfty-one species, all na­  
 tives of warm climates. The most remarkable ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1861091401:0006/pct:68.78622870191464,75.61526870919135,12.03232039346566,1.3435459568056254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1861091401:0006/pct:68.7950114175303,75.62154696132596,12.03232039346566,1.349824208940231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -359,7 +359,7 @@ is as follows +—¢¢ You are at full liberty to
 ** your presence, from whence you can derive  
 ‘¢ any advantage in your vindication.” And i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796010201:0003/pct:6.308205939202249,49.43833372337936,19.978914074855034,5.394336531710742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796010201:0003/pct:6.308205939202249,49.442234183633666,19.984771276284192,5.394336531710742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ the unlimited licence herein contain­
 ed.  
 GO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796012301:0013/pct:41.765255292652554,19.526451357241925,32.58094645080946,73.27125024767189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796012301:0013/pct:41.77044416770444,19.53305594082293,32.58094645080946,73.26464566409088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ Here, fellow-citizens, read and pause.
 Contrast this language and this conduct  
 with that of Madison ; and then ask your
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811072401:0045/pct:46.97774825639323,46.343355965082445,21.554300896712057,10.950533462657614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811072401:0045/pct:46.96994853063258,46.3388614101445,21.556256572029444,10.952704231726635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -545,7 +545,7 @@ Here, fcllow-citilens, read and pause.
 Contrast this language and this conduct  
 with that of Madison ; and then ask your
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811080201:0129/pct:25.982431807674526,39.062277326492804,22.122052704576976,11.215619210488812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811080201:0129/pct:25.9764270857407,39.0567113137646,22.122717818349894,11.21758335708179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ tered to you, orin your presence, from when*®&quot;
 you can derive any advantage in your vitufiF  
 cation.” . . &#x27; t;. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811083001:0699/pct:72.96626984126983,15.696649029982364,21.52777777777778,4.104537437870771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811083001:0699/pct:72.9481775353335,15.694132734850914,21.528638730473592,4.107887143315165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ witlm.it reserve, any and .vary private and confidential letter 4
 ever Wruto you: nay more, any word I ever uttered to or as  
 your presence, from whence you can derive aav advsotaaa i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831022601:0238/pct:23.67064131485659,86.21436304583183,17.98259748630358,4.3185372308432575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831022601:0238/pct:23.66682777509264,86.20399326437335,17.985070619193383,4.322027102878678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ without reserve, any and every private and confidential letter I
 ever wrote you: nay more, any word I ever uttered to O, in j  
 your presence, from whence you can derive any advantage In 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831022801:0082/pct:25.08988588400813,85.63265306122449,17.8052211974363,4.128279883381924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831022801:0082/pct:25.085964363863706,85.62266791044776,17.807648223403145,4.131685323383085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -668,7 +668,7 @@ justification.” See American Pamphlets, page 25,
 Lib. Lon.  
 In the other instances referred to by Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1831030101:0471/pct:54.14121671145859,74.95320741875106,20.547275836794526,9.01820656797686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1831030101:0471/pct:54.12799218368344,74.94045593739366,20.54836345872008,9.020925484858795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ that something h-s parsed between us that you
 would disclose with reluctance with respect to aie.  
 Then, in another letter, of which a draft wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00414210521:1884102401:0086/pct:15.539544784673327,30.197666110978805,10.971016865891599,10.240533460347702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00414210521:1884102401:0086/pct:15.537000654878847,30.194070722705085,10.973313686967911,10.242290748898679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -788,7 +788,7 @@ preciate my motives even if it shall condemn my
 prudence in allowing you the unlimited license herein  
 contained.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884110201:0307/pct:243.5979004294576,144.011839708561,47.30396055352314,34.80191256830601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038036:1884110201:0307/pct:81.19930014315254,48.00394656952034,15.767986851174381,11.60063752276867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

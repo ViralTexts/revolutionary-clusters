@@ -51,7 +51,7 @@ t there were individuals, who aimed at independ
 their views must have been confined to theif own bosoms  
 or to a very confidential circle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:73.11993829541072,60.316027088036115,61.338218279984574,48.893905191873586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0034/pct:18.27646038172354,15.076737887451099,15.331598226335068,12.221637074932291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ eat, ambition, and revenge. If there were individuals who
 aimed at independence, their views must have l&gt;een confined  
 to their own bosoms or to a very confidential circle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:65.26093088857546,10.512037978975924,31.227080394922424,87.80377529105911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:65.26093088857546,10.519573490071965,31.236483309826045,87.80377529105911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ n the third Virginia Convention. It was that Conven­
 tion which instructed the Virginia delegates in Congress  
 to propose the Declaration of Independence, and whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184686:1859110201:0276/pct:15.432098765432098,152.7190855559404,37.84538506760729,17.295924258168803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184686:1859110201:0276/pct:5.143277002204262,50.90048487647195,12.613274553024736,5.7646424998075885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ the real object of every class of the peo­
 ple, till the despair of obtaining it,” etc.  
 With the people and leaders feeling tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665738:1897112901:0262/pct:14.775365287450498,45.695296523517385,12.549501570394646,3.7014314928425356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00415665738:1897112901:0262/pct:14.775365287450498,45.69870483980913,12.55860530747872,3.7014314928425356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

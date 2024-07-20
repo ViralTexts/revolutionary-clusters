@@ -53,7 +53,7 @@ Your Lordship’s most obedient,
 and most humble fervint,  
 ol 2k e WAASMINATON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111701:0044/pct:38.710226305938406,23.787798408488065,28.126595201633485,17.3262599469496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781111701:0044/pct:38.72156996199875,23.794871794871796,28.137938857693836,17.3262599469496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ pose a cessation of hostilities, during two
 hours from the delivery of this letter will be  
 granted. I have the honor to be, etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281895:1882020901:0086/pct:99.82638888888889,44.254937163375224,12.688078703703704,6.597845601436266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281895:1882020901:0086/pct:74.88062509043554,33.19120287253142,9.521053393141369,4.959605026929982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -110,7 +110,7 @@ country, respociable membere of society, and
 ® tesl blessing to their parenie.™ | advise  
 pou, my son, ia whatsosver you lesd, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824032501:0663/pct:29.6,84.69882298638356,20.857142857142858,9.427648280636973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824032501:0663/pct:29.606349206349208,84.69882298638356,20.85079365079365,9.431494730363875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ passions, It is in the Bible you must learn
 these tules and principles.”  
 Speaking of those parts of the Scripture
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824032501:0663/pct:51.2952380952381,23.874913454881145,20.857142857142858,7.858296792060928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1824032501:0663/pct:51.2952380952381,23.878759904608046,20.876190476190477,7.869836141241634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ own cons alettC M aie t hi ?n&#x27;i.esttui-,,1 M es them fri m
 ns. our se&#x27;f love :s alwa\ a busy, either in attempt i ? g  
 to diasuiid them to us under fallt?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848030401:0019/pct:4.218362282878412,149.0123169881478,42.67990074441688,25.09876830118522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848030401:0019/pct:1.4061207609594706,49.6707723293826,14.22663358147229,8.366256100395074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ and like the Apostle Paul,  I find a law in ta o a o theg ie i o
 my members, warring against the law of fort to yourself and usefulness to your  
 my mind.&quot; But as I knnts that it is my fellow creatures, that you should form an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848032901:1021/pct:246.57955418908531,212.32152300370174,116.37202152190622,50.29085140137494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848032901:1021/pct:61.68044606806384,53.080380750925436,29.109786579503943,12.572712850343734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -741,7 +741,7 @@ members of society. John Qiincy
 Adams.  
 It is impossible to govern the worl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470028:1879052901:0374/pct:53.935018050541515,41.751057556723495,16.642599277978338,22.881681835662096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86053488:00212470028:1879052901:0374/pct:40.465872156013,31.31649788488655,12.495485734922354,17.1644660940905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -790,7 +790,7 @@ my hopes that they will prove useful
 citizens to their country, and respecta­  
 ble members of society.&quot; Joh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn85038603:00415662142:1879090601:0260/pct:29.567436861902202,77.53567926789411,15.569586243954863,7.898463884954788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn85038603:00415662142:1879090601:0260/pct:22.187877973390673,58.15448305915677,11.691976884827309,5.926571521952282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -866,7 +866,7 @@ s TJ S Grant Hold fait to the Bibla
 as tho sheet anchor of our liberties write  
 S its precepts on your hearts and practic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:0020653591A:1880021501:0153/pct:0.07946598855689765,83.02351623740202,18.150031786395424,9.160134378499441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn85058130:0020653591A:1880021501:0153/pct:0.07946598855689765,83.03098170959314,18.150031786395424,9.160134378499441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -883,7 +883,7 @@ I have myself, for many years, made it
 a practice to read through the Bible  
 once every year. My custom is to rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1882020201:0227/pct:84.88761358201818,78.11031412317585,10.824167065200063,2.0034627751669554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1882020201:0227/pct:84.87408351928595,78.10065537282058,10.826426522154925,2.0063064177074317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -920,7 +920,7 @@ citizens to their country, and respectable
 members of society.&quot;—John Quincy  
 Adums*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625066:1885051501:0164/pct:102.70661157024793,93.55785354946897,17.706611570247933,4.5695919508105085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_mustang_ver01:data:sn99067997:00415625066:1885051501:0164/pct:82.1763085399449,74.84628283957518,14.15977961432507,3.659400037264766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ it, the more confident will be my hopes that;
 they will prove useful citizens to their country,  
 and respectable members of society.? j 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861939:1886042901:0376/pct:56.95459290187891,88.69723104857013,14.548538622129437,3.0594643667725827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861939:1886042901:0376/pct:56.95459290187891,88.69723104857013,14.552887961029924,3.065516719624754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ spectable members of society.—John
 Quincy Adams.  
 It is impossible to govern the worl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623446:1889100301:0130/pct:44.02794343158971,13.787396562698918,25.11501107514057,81.36218968809675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623446:1889100301:0130/pct:44.03362299085591,13.791640144281773,25.11501107514057,81.3579461065139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1041,7 +1041,7 @@ fluence of this book we are indebted
 for the progress made in true civili­  
 zation and to this we must look a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349244:1892060401:0290/pct:50.17878426698451,51.849174798217085,10.693001872978035,7.456932899650645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349244:1892060401:0290/pct:50.170241743275454,51.84292941459889,10.695437521280217,7.459046013008914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1082,7 +1082,7 @@ that they will prove useful citizens to
 their country, and respectable members  
 of society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295861484:1897033101:0036/pct:42.73147457879827,32.10923761249612,13.836290442820934,4.975690493431261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295861484:1897033101:0036/pct:42.73147457879827,32.10923761249612,13.851200238556732,4.986034964311576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1125,7 +1125,7 @@ ixl ourselves lace to face with a lerri- 1 n
 le danger; and it is this?no time to w  
 e alone willi God. The world, in r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287162:1897040701:0198/pct:56.08457321848081,1.9952545297670405,27.862176977290524,95.0711820534944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287162:1897040701:0198/pct:56.08457321848081,2.0024446361806154,27.86739754633255,95.0711820534944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

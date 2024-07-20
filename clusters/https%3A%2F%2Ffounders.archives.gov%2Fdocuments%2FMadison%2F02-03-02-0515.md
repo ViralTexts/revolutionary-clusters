@@ -134,7 +134,7 @@ or merchand:fe -of all other nations, Nor shall
 any other or higher duty be imposed in one  
 Country on the importauon c¢f any articles th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:32.66755437194851,5.044776119402985,39.502885042166,87.35323383084577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:32.66755437194851,5.044776119402985,39.51274843418652,87.35986733001658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ i of the other, than such as are paid by the r
 &#x27;• tious ; nor shall any other or higher duty be t  
 • imposed in one country, on the importation 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110401:0002/pct:43.03470919324578,68.6879325910322,17.80018761726079,5.025579295817033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110401:0002/pct:43.04643527204503,68.6879325910322,17.81191369606004,5.029340956966596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ ports of the other, than fuch as arc paid by the
 like vc ftels on merchandize of all other nations.”  
 Such treaties therefore, do not e.ompleatly bin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805061101:0045/pct:24.84016547574276,80.50121467842987,17.619405791650998,3.64403528960491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805061101:0045/pct:24.835495393871028,80.4909230375863,17.622360092749265,3.6478309042870536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ teenth article of the Treaty, which stipulates “ That
   
 11 merchandize of ail other nations.” Again it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805121101:0853/pct:32.07331042382589,1.988950276243094,39.88545246277205,92.31254932912391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805121101:0853/pct:32.0659642693541,1.9886363636363635,39.88204306000916,92.3019255050505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ imported or exported goods of each party,
 than of any other nation :  
 And as to the doty on tonnage, “ th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806121101:0251/pct:41.969864020580665,11.417910447761194,17.603822124219036,5.6840796019900495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806121101:0251/pct:41.96215322432482,11.416490486257928,17.606711984812296,5.6875181362185465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ ons. Nor shall any other or higher duty
 be imposed in one country on the importa­  
 tion ot any articles, the growth, produce, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0122/pct:77.47969015681089,53.29169269206746,17.58926884564519,4.6346033728919425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0122/pct:77.46505477899508,53.28503622283287,17.59224279058053,4.638188025647431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ the one party in the ports of the other, than such as
 are paid by the like vessels or merchandize of all o­  
 ther nations. Nor shall any other or htghei dut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:29.442015942401646,58.80355699272433,22.087940344561584,3.49232012934519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:29.434447300771208,58.79405108309085,22.088688946015424,3.4957969608794053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ tions Nor shall any other or higher duty he im­
 posed in one country on the importation of uiiv  
 articles the growth, produce or manufacture o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0442/pct:77.87802237459401,14.095940959409594,17.52075063154096,3.7392373923739237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0442/pct:77.86397257802633,14.094207354568933,17.523603343556438,3.742877054892797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ shall any other or higher duty he im­
 posed in one country, on the impor­  
 tation of any articles, the growth, pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051601:0002/pct:58.77768662838392,83.6025641025641,17.411812961443808,6.153846153846154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051601:0002/pct:58.77768662838392,83.6068376068376,17.411812961443808,6.1581196581196584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ shall any other or higher duty be imposed
 in one country, on the importation of any  
 articles, the growth, produce, or manufac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808090501:0460/pct:77.84960871044574,27.556134723336008,18.679823069071112,4.4406575781876505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808090501:0460/pct:77.83636672903555,27.553372757341887,18.680898111923796,4.442718251979553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

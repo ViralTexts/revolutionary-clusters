@@ -106,7 +106,7 @@ decided, shall stand continued to the next
 succeeding term. If from any cause the  
 cotin shall not sit r.p art/ d.iy in a term afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808021901:0065/pct:40.904770956092,77.22546284554907,17.620224291959705,5.959928988080142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808021901:0065/pct:40.89699733941467,77.21567135793077,17.623210439630054,5.963399687249059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -134,7 +134,7 @@ the county courts to the superior
 courts of chancery hereby established,  
 and from the superior courts to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010501:0012/pct:78.42007434944237,50.93618647306076,17.360594795539033,10.15157304801936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010501:0012/pct:78.40550083627579,50.92969943963321,17.36356315430837,10.154525386313466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ judges shall not sit on any day of the
 term after said court shall have been  
 opened, there shall be no discontinu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010501:0013/pct:3.592251269512883,34.56191812268843,17.6227195787098,17.638056370360925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010501:0013/pct:3.5915757803685597,34.55751083907167,17.625673812210103,17.640057808382217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ of our fathers, “doing equal right to all manner
 “an.I poor, according to law, without respect of  
 &#x27; persons.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1872061401:0474/pct:2.5561484055093686,26.540593413759375,12.755925052736071,2.858384958156722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1872061401:0474/pct:2.555831265508685,26.537709193653555,12.758478081058726,2.8616967325943636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ of our fathers, “doing equal right to nil manner
 and poor, according to law, without respect of  
 1‘person
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1872081601:0508/pct:15.257861635220126,78.03474368538846,12.918238993710691,3.2718746669508687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1872081601:0508/pct:15.255942648723432,78.02642796248935,12.92080660713537,3.2750781472009094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

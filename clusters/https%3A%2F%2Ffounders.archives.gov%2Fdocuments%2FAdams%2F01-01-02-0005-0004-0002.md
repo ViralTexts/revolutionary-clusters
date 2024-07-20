@@ -271,7 +271,7 @@ To lash the great-.
 Spleen to “ democrats” his envious heart possess’d&quot;  
 And much he hated all, but most the best.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844050801:0141/pct:13.252601057479106,32.04060385216033,12.706805389732219,3.6179073399271213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844050801:0141/pct:13.250341064120054,32.03643461288224,12.708901773533425,3.6206896551724137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ To lash the great the virtuous to revile.
 His figure such as might his soul proclaim  
 One tvt vsat blinking and one leg vai fame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867012401:0082/pct:47.01117318435754,74.92420961455176,11.675977653631286,3.2481593763534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:00200293356:1867012401:0082/pct:35.28014531228168,56.19315721091382,8.76065390526757,2.446946730186228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ spread,Thin hairs bestrew &#x27;d hia long mis sbapen head.
 Spleen to mankind his envious heart possest,  
 And much he hated all, but most the blest.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477680:1870050501:0556/pct:42.84841075794621,27.19225775994335,17.817848410757946,7.848459813525316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477680:1870050501:0556/pct:32.14121962402567,20.394193319957513,13.373070456976922,5.889295408946064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

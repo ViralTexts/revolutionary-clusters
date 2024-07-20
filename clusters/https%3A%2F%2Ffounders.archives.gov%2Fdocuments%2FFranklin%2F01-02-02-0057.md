@@ -943,7 +943,7 @@ unto his said apprentice meat, drink,
 washing, lodging and wearing apparel,  
 and all other necessaries fit and con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807091601:0004/pct:27.72876228888329,2.4842044801838026,44.23997983362742,95.46237794371051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807091601:0004/pct:27.745567599361397,2.488991001340226,44.23157717838837,95.47195098602336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1090,7 +1090,7 @@ them to any without Leuve he shall not
 commit Fornication, nor contract matrimony within  
 d Term. nor frequent Taverns, Ordinaries or place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1859103101:0129/pct:116.20986687548942,83.19954935924518,49.09945184025059,15.040135192226447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1859103101:0129/pct:29.063846455150802,20.799887339811296,12.27967097532315,3.760033798056612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1138,7 +1138,7 @@ washing, lodging and apparel, both linen and wool
 en, and all other necessaries in sickness and in  
 health, meet and convenient for such an apprentice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293289:1859111701:0480/pct:71.17263843648209,128.94494001845587,43.159609120521175,33.138521480570084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293289:1859111701:0480/pct:17.795574860866026,32.23623500461397,10.79136690647482,8.284630370142521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1157,7 +1157,7 @@ the Reign of Gur Sovereign Lord
 GEOrGE thE Second, KING of Great  
 Britain, &amp;c. Annoque Domini 1751.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861060801:0653/pct:127.16643741403026,305.2758114064378,50.13755158184319,10.52490984372913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861060801:0653/pct:31.79707652622528,76.31895285160945,12.536543422184007,2.6312274609322825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1417,7 +1417,7 @@ that can, shall teach, instruct
 or cause to be instructed, with dn&lt;.  
 correction; and up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551682:1868040401:0629/pct:79.32255922072171,36.50767722966351,18.751383661722382,43.00882064684743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551682:1868040401:0629/pct:79.32255922072171,36.518566917129476,18.75876319090842,43.00882064684743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1449,7 +1449,7 @@ others. He shall not commit fornication,
 nor contract matrimony within the said  
 term; shall not play at cards or dice tables
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074142:00280761473:1871010601:0916/pct:126.06382978723404,171.92880070032098,50.911854103343465,44.528742340239276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_juliet_ver01:data:sn88074142:00280761473:1871010601:0916/pct:31.527936145952108,42.982200175080244,12.732801216267578,11.132185585059819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1635,7 +1635,7 @@ Signed and sealed in presence of us.&quot;
 The Stinos of Insects. There is a  
 great deal of needless fear and positiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1874101601:0599/pct:7.918367346938775,62.57796257796258,17.408163265306122,40.57024057024057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1874101601:0599/pct:5.941200489995917,46.94089694089694,13.066557778685178,30.42768042768043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1684,7 +1684,7 @@ leave from his said Master.
 And he the said Master Hugh Alexander  
 shall use the utmost of his endeavor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1874110701:0055/pct:35.75146935348447,26.303287910988875,14.223341729638959,18.20227528441055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1874110701:0055/pct:27.706923477355545,20.384963183051287,11.031580773902482,14.109934117039142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1707,7 +1707,7 @@ ents: In Witness whereof they have inter­
 changeably set their hands and seals this  
 Thirteenth Day of October Anno Domin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1874110701:0055/pct:35.80184718723761,47.79347418427304,14.223341729638959,5.18814851856482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1874110701:0055/pct:27.750303661287525,37.04624725487663,11.027242755509283,4.02725746027645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1723,7 +1723,7 @@ Thirteenth Day of October Anno Domin
 shall uot frequent; at cards, dice or any other un­  
 lawful game he shall not play ; and matrimony h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1876030601:0590/pct:29.726253904097007,60.74779846975603,12.548227080654051,0.8373033059044319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1876030601:0590/pct:29.720793534166056,60.739030023094685,12.55051432770022,0.8407909930715936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1745,7 +1745,7 @@ commit matrimony, nor waste nor lend his
 master’s goods to any,” and in return for  
 this he is to be taught to “read, write an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1876091501:0335/pct:85.7579658834889,65.20537620901897,11.120051496620535,4.044718000251224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349529:1876091501:0335/pct:85.74416733708769,65.19718663652348,11.122284794851167,4.0473499120823915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1910,7 +1910,7 @@ nor Bell: He shall not frequent taverns,-ale-houses,
 or play-houses, or absent,  
 himself from his said Master&#x27;s service. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296029002:1879052401:0326/pct:111.56405990016638,26.789947842579423,13.20022185246811,17.911332385016596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_norgay_ver01:data:sn84028194:00296029002:1879052401:0326/pct:83.70319001386963,20.092460881934567,9.902912621359222,13.442389758179232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1987,7 +1987,7 @@ and procure and provide for him sufficient Meat, Drink
 Clothing, Lodging and Washing, fitting for an Apprentice  
 during the said Term of five years, four months, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044747:1880082201:0813/pct:276.76537585421414,170.59268218929543,50.26575550493546,41.805261566374355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044747:1880082201:0813/pct:69.19134396355354,42.64817054732386,12.566438876233866,10.451315391593589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2026,7 +2026,7 @@ Taverns, inns, or ale houses he shall not
 haunt. At cards, dice, tables, or any  
 oiher unlawful game, he shall not play
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556801:1880090201:0299/pct:7.880434782608695,7.7885952712100135,36.70176630434783,117.10709318497914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556801:1880090201:0299/pct:5.9123343527013255,5.84144645340751,27.539925246347266,87.83664180048046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2059,7 +2059,7 @@ master of the same.
 not waste, nor the samo without license  
 of him to any give or lend. Hurt to hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291086:1880111901:0670/pct:35.34998967582077,22.73968664654305,14.0821804666529,9.529969814575248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291086:1880111901:0670/pct:35.360313855048524,22.750467155383067,14.097666735494528,9.522782808681903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2502,7 +2502,7 @@ tice. And give him, the said Samuel Bow­
 man, one pair of shoes in each and every year  
 during the said term; and also pay to the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885082101:1231/pct:68.21144098479363,174.3213897937025,50.68790731354091,54.72312703583062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885082101:1231/pct:17.05903658094893,43.58034744842563,12.676566461427019,13.680781758957655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2614,7 +2614,7 @@ And for the true performance of all
 and every the covenants and agree­  
 ments aforesaid, the said party of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769489:1885091701:0441/pct:33.298041291688726,34.013346043851286,13.97564849126522,10.371782650142993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769489:1885091701:0441/pct:33.306864302099875,34.01970130282809,13.984471501676373,10.371782650142993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2659,7 +2659,7 @@ and agreement. And the said party of
 the second part hereby authorizes an  
 attorney of the courts of this common
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:0041562511A:1885091901:0022/pct:33.567251461988306,35.435365427205966,14.68671679197995,15.782725259354237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:0041562511A:1885091901:0022/pct:33.567251461988306,35.435365427205966,14.703425229741018,15.790496172825115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2897,7 +2897,7 @@ said term without license from his
 j master lie shall not buy nor sell; he  
 not absent himself day nor nigh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn82015137:00414181946:1887022001:0661/pct:3.9855072463768115,74.07610935568073,14.746376811594203,14.521225443055364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn82015137:00414181946:1887022001:0661/pct:3.0934107076001496,57.408524683252296,11.432983901160615,11.268055506263973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2986,7 +2986,7 @@ Christ 1741,&quot; &quot;Printed and sold by B.
 Franklin, at the New Printing office near  
 the market,&quot; Philadelphia; &quot;Early Englis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102056:1887101701:0380/pct:242.19474497681608,53.842655752614824,43.508500772797525,6.609064726390784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102056:1887101701:0380/pct:60.54868624420402,13.460663938153706,10.877125193199381,1.652266181597696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3354,7 +3354,7 @@ waste the goods of his master nor lend them
 unlawfully to any. At cards, dice, or any other  
 unlawful game he shall not play. Matrimon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016373:00211103358:1891060701:0478/pct:169.70830216903516,154.9246967879515,63.35078534031414,24.097027855524455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016373:00211103358:1891060701:0478/pct:42.42707554225879,38.73117419698787,15.837696335078535,6.024256963881114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3409,7 +3409,7 @@ one suit of clothes for the Sabbath day.”
 The document is duly signed, sealed  
 and witnessed. On the hack the tow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524755:1892021101:0052/pct:18.17632850241546,55.92203898050975,12.922705314009661,24.632683658170915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524755:1892021101:0052/pct:18.17267055745623,55.913656123519715,12.925135842221774,24.63273871983211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3652,7 +3652,7 @@ During all which Term the said Servant her raid
 Mister his Executors or Assigns faithfully shall  
 serve, and that honestly and obediently in al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102330:1893082401:0167/pct:4.437633262260128,69.33119100220928,16.644456289978677,3.745732074713798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102330:1893082401:0167/pct:3.332888948140248,51.99839325165696,12.49166777762965,2.8118096003213497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3691,7 +3691,7 @@ license of his said master he shall not trade;
 taverns or playhouses he shall not frequent;  
 from the service of his said master lie shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn85038102:00202197279:1894061501:0512/pct:11.376518218623481,86.99070764832022,18.82591093117409,14.581844174410293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn85038102:00202197279:1894061501:0512/pct:8.544239724640615,65.24660471765547,14.112168455152865,10.93638313080772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3713,7 +3713,7 @@ ing davs. In testimony whereof the said
 Kedinc&#x27;ton and Prichard have hereunto in­  
 terchangeably set their hands and seals a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn85038102:00202197279:1894061501:0512/pct:11.11336032388664,115.56826304503217,18.562753036437247,4.689063616869192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn85038102:00202197279:1894061501:0512/pct:8.341769588985624,86.67619728377413,13.929945333063372,3.5167977126518943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3739,7 +3739,7 @@ extract matrimony within the said term. He
 shall not play at cards, dice or any other  
 unlawful fame whereby his master ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654954:1894072801:0549/pct:15.368081676518,46.85081398452095,13.899337273867097,4.803843074459568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654954:1894072801:0549/pct:15.368081676518,46.85081398452095,13.91277091169622,4.8138510808646915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3762,7 +3762,7 @@ and agreements In Bald permit contained,
 the requirements of law in respect to such  
 sales, and the payment to the slate treas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:0020653686A:1895052101:0640/pct:19.69981238273921,8.983968353112639,11.906480011545678,3.2583801790547575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:0020653686A:1895052101:0640/pct:19.704623081733775,8.983968353112639,11.911290710540241,3.2618502324935803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3792,7 +3792,7 @@ The bond herein provided for shall be
 approved by the land commissioner in writ­  
 ing filed in his office, and recorded in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766227:1895052201:0205/pct:19.911504424778762,9.215278537813287,11.902654867256636,5.625478822370581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766227:1895052201:0205/pct:19.911504424778762,9.222574878698333,11.907571288102261,5.621830651928058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3905,7 +3905,7 @@ dues.
 Strange as it may seem, Elizabeth was not con;  
 tent with her life, and during the fourth year o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039077:1897041801:0319/pct:198.3780311546491,8.843687817820031,96.29034848241528,286.7897413221313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039077:1897041801:0319/pct:66.12601038488303,2.9478959392733435,32.09678282747176,95.59658044071044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3921,7 +3921,7 @@ tent with her life, and during the fourth year o
 obey; at cards, dice or any other un­  
 lawful game he shall not play, r.o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00340587923:1897041901:0126/pct:43.82470119521912,36.40116190184987,12.569721115537849,0.9325791163430668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00340587923:1897041901:0126/pct:43.8159729137622,36.39559767655151,12.572196773551086,0.9362580250687863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3979,7 +3979,7 @@ whereoff, the said parties have interchangeably
 set their hands and seals hereunto. Dated the  
 24th Day of October, in the 20th year of the in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897060601:0065/pct:169.41266209000761,119.53883495145631,50.80091533180778,49.939320388349515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042945:1897060601:0065/pct:42.353165522501904,29.884708737864077,12.700228832951945,12.484830097087379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4037,7 +4037,7 @@ In Witness Whereof the said parties have set
 their hands and seals hereunto. Dated the  
 first day of September, in the year of our Lor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026409:0023728804A:1898021601:0063/pct:209.84802431610942,260.9664582148948,41.09422492401216,69.58499147242752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026409:0023728804A:1898021601:0063/pct:52.462006079027354,65.2416145537237,10.27355623100304,17.39624786810688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4212,7 +4212,7 @@ upon the same by the magistrate be?
 yond tola atte.-tatlon as a witness. But  
 it does not follow, because the inden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:00175031418:1899062001:0609/pct:1.7121891561353444,92.5856065002902,16.082348145128414,5.383052814857806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hazel_ver01:data:sn86071779:00175031418:1899062001:0609/pct:1.71898355754858,92.5856065002902,16.095936947954886,5.397562391178178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

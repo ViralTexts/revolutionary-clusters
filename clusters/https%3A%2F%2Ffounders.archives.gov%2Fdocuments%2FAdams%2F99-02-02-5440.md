@@ -254,7 +254,7 @@ plundered, or taken by the (hips of war
 or privateers of one or the other of the  
 belligerent powers, the minifteP of the in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801041501:0004/pct:52.18116805721097,26.9150521609538,21.09654350417163,2.2652757078986587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801041501:0004/pct:52.18116805721097,26.920019870839543,21.09654350417163,2.275211127670144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ port only shall be deemed as such, into whicb no ships
 can enter without being exposed to an evident peril  
 from the forces that attack the said port, and from tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843051901:0594/pct:80.105421686747,89.00981440093285,15.903614457831326,5.402779127392868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843051901:0594/pct:80.11044176706827,89.00981440093285,15.89859437751004,5.406018203608331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ above all, of Americans lovina, admiring and
 adoring them so much us very soon humbly to  
 implore their king to take them under bis gra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171888:1871020101:0106/pct:66.02316602316603,9.568904593639576,14.266409266409266,4.522968197879859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171888:1871020101:0106/pct:51.17195292240176,7.4159272647606524,11.051266706562936,3.505312739620988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -509,7 +509,7 @@ cribe it. Here it is:
 And eye and ear attentive bent,  
 And locks flung back, and lips apart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852062101:0545/pct:20.228326792722083,232.69206588708664,43.399928647877275,11.16559788758959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:0020219090A:1852062101:0545/pct:6.742775597574028,77.5640219623622,14.466642882625758,3.721865962529863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

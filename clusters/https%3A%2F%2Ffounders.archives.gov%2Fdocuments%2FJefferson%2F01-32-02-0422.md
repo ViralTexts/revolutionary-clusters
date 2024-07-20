@@ -91,7 +91,7 @@ those who have done ill would have nothing
 to hope, be tbeirpolitical principles what they  
 might.” And again removals “must ba a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525541:1883041401:0092/pct:15.986787778695293,38.998919697515305,11.11478117258464,5.209458648421558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525541:1883041401:0092/pct:15.984147952443857,38.99423907825252,11.11707397622193,5.211833893422948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ to vacancies till they occupy their duc share
 Mr. Morse is of the opinion that the righteou  
 ness of this proposition could hardly be contr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883042201:0517/pct:129.1510142749812,147.11596842744385,50.187828700225396,13.41833636915604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883042201:0517/pct:32.30595752678068,36.77899210686096,12.554031197143393,3.35458409228901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ ministration, and the utter annihilation
 of the rival party.  
 Two .Hore Tablets
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91090200:0041566753A:1884101801:0252/pct:93.69345396487493,96.90346083788707,16.950505588078766,10.007500267866709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn91090200:0041566753A:1884101801:0252/pct:70.30480500465859,72.6775956284153,12.711300412618128,7.510982535090539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ have done ill would have nothing to 1
 hope, be their political principles what &#x27;  
 they might.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kingjulius_ver01:data:sn93067668:00202193961:1885040101:0102/pct:16.256229844620346,7.765897580191334,14.365288771621225,3.984243106359032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kingjulius_ver01:data:sn93067668:00202193961:1885040101:0102/pct:16.266002149907163,7.773400862877509,14.365288771621225,3.984243106359032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ thing to fear from me.&quot; His spirit seems to
 have descended upon the present occupant of  
 the executive chair
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885041801:0806/pct:75.34345625451917,261.0571736785329,50.469992769342014,19.039913700107874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885041801:0806/pct:18.835864063629792,65.26429341963322,12.617498192335503,4.7599784250269686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -63,7 +63,7 @@ t. State, possessed cf sufficient power to reward
 id his merits, and advaifcb him to the  
 ?y ors of.a free country. , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849071801:0337/pct:80.23255813953489,39.17458945548833,16.90636474908201,11.754537597234226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1849071801:0337/pct:80.23255813953489,39.18179199078075,16.91656466748266,11.754537597234226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ These were scenes enacted at the birth-day of
 Independence. It was the most trying period in  
 the history of our national existence. But th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851070401:0652/pct:55.09950248756219,120.8968347010551,38.308457711442784,33.45545134818288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872354:1851070401:0652/pct:18.366500829187398,40.2989449003517,12.769485903814262,11.151817116060961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ REBEL REPORTS IN CIRCULATION.
 A report has been circulated through the city very in-­  
 dustriously to day that a severe battle was fought yester
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743427:1862111701:0638/pct:55.40130844104037,51.3118868355008,45.23695548109143,15.366187542778919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743427:1862111701:0638/pct:18.467102813680125,17.103962278500266,15.07898516036381,5.12206251425964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ ABRAHAM LIOCOLN.
   
 men, attacked an ox-wagon train that was re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288889:1862111701:0032/pct:120.3125,82.59080336375023,102.11397058823529,85.02415458937197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288889:1862111701:0032/pct:30.091954022988507,20.647700840937556,25.54022988505747,21.256038647342994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ endeavor to live and act as becomes a Christian
 soldier defending the dearest rights and priv­  
 ileges of his country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862111701:1091/pct:6.597152596751554,117.38554394229354,16.061760577501502,3.356396290298837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:00517172157:1862111701:1091/pct:5.112665112665113,90.98307663053812,12.457912457912458,2.6050579958166953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ ileges of his country
 as becomes a Christian soldier, defending the  
 dearest rights and liberties of his country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663535:1862111701:0063/pct:40.72172966246695,35.5834868349767,28.962513610203764,4.550872250514682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663535:1862111701:0063/pct:40.72172966246695,35.59071044172355,28.972883289262196,4.550872250514682/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ friends secreted themselves and waited for the
 carrier, who approached in a sulky. Suddenly  
 coming from his concealment he comman
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021295:0051717158A:1862111901:0154/pct:5.346224939570596,64.39018901890189,10.322764112043226,8.078307830783078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021295:0051717158A:1862111901:0154/pct:5.350964500687236,64.39018901890189,10.322764112043226,8.078307830783078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ act as becomes a Christian soldier defend­
 ing the dearest rights and privileges of his  
 t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775629:1862112001:0284/pct:105.84795321637426,242.0777713290772,47.2953216374269,43.64480557167731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775629:1862112001:0284/pct:26.461988304093566,60.5194428322693,11.823830409356725,10.911201392919327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ comes a Christian soldier, defending the
 dearest rights and privileges of his coun.  
 try.&quot; ABraHaM LiNCOLN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1862112001:0622/pct:75.86471944657956,185.66120820145863,49.26979246733282,19.705518095500206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078724:00296028034:1862112001:0622/pct:18.96617986164489,46.41530205036466,12.317448116833205,4.926379523875052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ that every officer and man will endeavor to live
 and act as becomes a Christian soldier, defend­  
 ing the dearest rights and privileges of his
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862112001:0311/pct:125.8041958041958,346.99618772183516,48.6013986013986,12.935454186933088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862112001:0311/pct:31.462049667715984,86.74904693045879,12.154599510318294,3.233863546733272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -498,7 +498,7 @@ as becomes a Christain soldier, des
 lending the dearest rights and priv­  
 ileges of his country.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1862112001:0239/pct:26.141488162344984,45.435085090442044,11.245772266065389,3.606978486567484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151386:1862112001:0239/pct:26.141488162344984,45.44222055727996,11.250469748214957,3.606978486567484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ Kill endeavor to live and act as become, a
 Christiansoldier, defending the dearest rights  
 and privileges of hi* country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862112001:0481/pct:30.057273768613975,55.192342423695145,13.791523482245132,2.7632291854795015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862112001:0481/pct:30.06872852233677,55.19685750406357,13.79725085910653,2.7632291854795015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ rights and liberties of his country.&quot;
 AERAHAM LINCOLN.  
 When the first instalment of drafte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1862112101:0672/pct:22.300263388937665,229.56746287927695,50.4828797190518,21.0458360232408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776385:1862112101:0672/pct:5.57628979143798,57.391865719819236,12.623490669593853,5.2614590058102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -606,7 +606,7 @@ every officer and man will endeavor to live and
 act as becomes a Christian soldier, defending the  
 dearest rights and privileges of his country.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862112201:0466/pct:81.80586142639336,62.81377002151566,14.128409283415213,1.8885967009323452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862112201:0466/pct:81.81150827262974,62.81377002151566,14.139702975887966,1.9045342258347278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ the dearest rights and privileges of his
 country.&quot; ARAHAM LINCOLN.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862112201:0434/pct:124.32432432432432,83.6697247706422,48.58108108108108,23.119266055045873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862112201:0434/pct:31.09158499493072,20.91743119266055,12.149374788779994,5.779816513761468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ acts as becomes a Christian soldier,
 defending the dearest rights and liberties  
 of his country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1862112201:0209/pct:283.9298758217677,206.31219789593405,51.27830533235939,11.259596246801252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1862112201:0209/pct:70.99543378995433,51.57804947398351,12.821917808219178,2.814899061700313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ and act as becomes a Christian soldier, de­
 fending the dearest rights and liberties of  
 his country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kalmia_ver01:data:sn82002197:00332898759:1862112401:0009/pct:42.98483206933911,76.45013723696249,37.56771397616468,13.321134492223239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kalmia_ver01:data:sn82002197:00332898759:1862112401:0009/pct:33.319339490624124,59.24840463247459,29.12118667786174,10.337981564641929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ every oficer and man will endeavor to live and
 act as becomes a Christian soldier, defending  
 the dearest rights and privileges of his country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862112501:0764/pct:204.25855513307985,98.8013468013468,56.19771863117871,20.094276094276093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293757:1862112501:0764/pct:51.07434873550105,24.7003367003367,14.052101159916333,5.023569023569023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -769,7 +769,7 @@ endeavor to act as becomes a Christian
 soldier defending the dearest rights and  
 privileges of his country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862112601:1168/pct:54.89935118948594,236.62536443148687,43.553485276992184,8.624878522837706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:00279528293:1862112601:1168/pct:18.299783729828647,78.8751214771623,14.51782842566406,2.874959507612569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ and man will endeavor to live and act as
 becomes a Christian soldier, defending the  
 dearest right* and privileges of his country.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn89064562:00212472591:1862112601:0161/pct:56.21468926553672,21.16359213460369,12.29486144740382,3.7401175755118587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn89064562:00212472591:1862112601:0161/pct:56.21468926553672,21.1669707412663,12.308313155770783,3.750253395499696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ Christian soldier, defending the dearest rights
 a  o ee oe ooooo  
 and privileges of his country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862112601:0615/pct:67.9579413392363,254.89270868441747,43.77421140011068,12.94236602628918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862112601:0615/pct:16.996539792387544,63.72317717110437,10.948096885813149,3.235591506572295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ soldier, defending the dearest rights
 and privilages of his countey?  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1862112701:0425/pct:255.93971631205673,183.2368180432795,55.673758865248224,24.3828101188662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077265:00280774819:1862112701:0425/pct:63.99911327865218,45.809204510819875,13.921525160718245,6.09570252971655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -883,7 +883,7 @@ act as becomes a Christian soldier defend
 ing the dearest rights and privileges of Lis  
 country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472931:1862112901:0015/pct:97.51792608935466,62.273061181656,21.387203530060674,7.492916360583482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472931:1862112901:0015/pct:65.04345426955442,41.515374121103996,14.264036418816389,4.995277573722321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ ABRAHAM LINCOLN.
 The following is an extract from  
 Gen. Mitchell&#x27;s report of the Battle o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769428:1862112901:0104/pct:80.90073998468998,50.86011992529244,11.635621331972441,4.875651233657721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769428:1862112901:0104/pct:80.90924555583908,50.866673219961335,11.635621331972441,4.875651233657721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ the dearest rights and privileges of
 his country.&quot;  
 We should be much pleased to se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295877972:1862120301:1167/pct:131.1512415349887,149.45210321668435,65.12415349887134,35.418875927889715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016951:00295877972:1862120301:1167/pct:32.78781038374718,37.36302580417109,16.281038374717834,8.854718981972429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1058,7 +1058,7 @@ Great Britain.
 The Loudon Times of the Bth ult.;  
 again adverts to the action of the No
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:0027176912A:1862120401:0035/pct:79.26608523942735,33.445227705046435,14.694750699358236,6.635336242586998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:0027176912A:1862120401:0035/pct:79.27157040206242,33.445227705046435,14.694750699358236,6.642795867367871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1300,7 +1300,7 @@ ficient power to reward his merit and advance
 him to the highest honors of a free country.”  
 The latter part of June a large hostile fleet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870051201:0182/pct:5.311920938851142,56.00913502711961,15.13279802347128,10.10562375107051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870051201:0182/pct:5.31082750102923,56.00114171542743,15.134829147797447,10.10774939346368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1327,7 +1327,7 @@ and man will endeavor to live and act as be­
 comes a Christian soldier, defending the dew&gt;  
 eat rights and liberties of his country.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870051201:0182/pct:20.42413012147416,8.606908364259207,15.441630636195182,6.951184698829574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870051201:0182/pct:20.419925895430218,8.605680034251463,15.443598188554962,6.953760525189097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1476,7 +1476,7 @@ brigade, and every soldier had a copy for a
 self. In his reply to the President, wrast  
 ton said: &quot;The expressions and bena
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876070401:0012/pct:156.35087719298247,345.18190116051636,44.21052631578947,28.426131177467727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558366:1876070401:0012/pct:39.10830261541162,86.29547529012909,11.058451816745656,7.106532794366932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1503,7 +1503,7 @@ and act as becomes a Christian soldier, detending
 the sacred rights and liberties of his country.&quot; The  
 sathusinsmn in the city was boundiess. The enlisen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876070401:0029/pct:3.0183077684314696,256.4796453983436,47.352795645719944,22.08095182549866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876070401:0029/pct:1.0061025894771565,85.49321513278122,15.78426521523998,7.36031727516622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1572,7 +1572,7 @@ General&#x27;s office, several of the declarations, to be deliv
 ered to the brigadier generals and the colonels of regl  
 ments
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743981:1876082801:0607/pct:103.41518946170109,6.446033210332104,50.77248333062287,39.12592250922509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743981:1876082801:0607/pct:34.47172982056703,2.1486777367773677,16.92416111020762,13.041974169741698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1710,7 +1710,7 @@ will endeavor to live and act as becomes
 a christian soldier, defending the dear­  
 est rights and liberties of his country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029385:00237285207:1885092401:0281/pct:7.7267119062307215,25.319606290304332,16.347933374460208,4.729041746803937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029385:00237285207:1885092401:0281/pct:5.7997840505938605,18.995361466229213,12.262841277186487,3.5524380586039146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1855,7 +1855,7 @@ dier, defending the dearest rights and liberties of
 his country.’   
 The date of this remarkable orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152111:1889080101:0494/pct:37.57846282605663,26.49445117970717,14.172130004184684,3.291989182131866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85040310:00514152111:1889080101:0494/pct:37.583112475008136,26.49445117970717,14.172130004184684,3.3013149305231746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1930,7 +1930,7 @@ becomes a Christian soldier, defending the dear­
 est rights and liberties of his country.&quot;  
 The date of this remarkable order leave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870345:1889081801:0446/pct:87.71428571428571,115.71835571835572,18.285714285714285,3.988603988603989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870345:1889081801:0446/pct:65.80138128125745,86.7887667887668,13.72945939509407,2.9955229955229954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2034,7 +2034,7 @@ and advance him to the highest honors of
 a free country.&quot;  
 The army at that time was encamped o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026499:1892070101:0553/pct:6.296194908294552,51.783960720130935,9.649603065973173,9.918166939443536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026499:1892070101:0553/pct:6.296194908294552,51.78759774504455,9.654165526051647,9.918166939443536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2140,7 +2140,7 @@ In August of the same year he issued the
 following notice to bis army at New York:  
 &quot;Tbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182094:1893041601:0679/pct:3.617099013518451,43.63712142261739,15.418341249543296,5.04306751875521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182094:1893041601:0679/pct:2.8079282680509676,33.82622115350106,11.95375176970269,3.9012310232207588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2162,7 +2162,7 @@ that every officer and man will en­
 deavor to live and cfc aa becomes s.  
 Christian soldier.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286789:1893042301:0351/pct:10.501802884615385,47.68299394606494,17.998798076923077,5.811777655476059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286789:1893042301:0351/pct:7.003306281935678,31.78866263070996,12.007814848211602,3.8745184369840397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2197,7 +2197,7 @@ Christian soldier.&quot;
 In August of the same year he issued  
 the following notice to his army a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1893050401:0992/pct:10.37497571400816,38.10158645513931,18.321352244025647,6.999066791094521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1893050401:0992/pct:8.040554105601284,29.532304725168757,14.203975105400522,5.434632869541259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2216,7 +2216,7 @@ all times necessary,but especially
 so in time of public danger and  
 distress.&quot; He alsa said: &quot;Thoug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1893051201:0154/pct:3.6941580756013748,8.121739130434783,15.807560137457045,3.6869565217391305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664850:1893051201:0154/pct:3.7156357388316152,8.126086956521739,15.821878579610539,3.6956521739130435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2295,7 +2295,7 @@ eavor to live and act as becomes a Christian soldier
 defending the dearest rights and liberties of his coun­  
 try.&quot;AERAHAN LInCOLs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175045156:1894082701:0210/pct:285.17397881996976,201.68272908061803,50.529500756429655,10.402325225638672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175045156:1894082701:0210/pct:71.30697938339323,50.42068227015451,12.634764516739171,2.600581306409668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2336,7 +2336,7 @@ John Adams was a Congregationlist
 and came of a long line of Puritan an­  
 cestors, but was very liberal in hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287034:1894091201:0447/pct:3.345820953365198,10.281506338553319,12.311070921069629,4.2225950782997765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_floydcouncil_ver01:data:sn93067777:00237287034:1894091201:0447/pct:3.345820953365198,10.281506338553319,12.319683072815742,4.228809346259011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2356,7 +2356,7 @@ especially so in time of public
 danger and distress.&quot; He also  
 said : &quot;Though I ara a member o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101271:1894092601:0211/pct:62.97843665768194,32.258708453937516,11.671159029649596,4.241940313404531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101271:1894092601:0211/pct:62.97843665768194,32.258708453937516,11.684636118598382,4.2519213494360715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2500,7 +2500,7 @@ On the next day, July 10th, the
 General wrote to the President of  
 Congress as follows: “Agreeably
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896070201:0423/pct:21.80725477570294,4.832549941245594,28.375187808542606,91.17215041128084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896070201:0423/pct:21.802575107296136,4.831840211484799,28.374463519313306,91.1624320751946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2565,7 +2565,7 @@ were not content with the ringing of
 bells and the other usual manifesta­  
 tions of public joy. There was a leade
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685191:1896070401:0216/pct:59.69387755102041,10.701508788303002,16.85992578849722,14.636801990978379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685191:1896070401:0216/pct:59.68003709714816,10.699844479004666,16.86181312311616,14.63841368584759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

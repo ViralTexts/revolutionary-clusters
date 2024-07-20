@@ -270,7 +270,7 @@ to dispose of their cargoes, of corn, meal or
 flour, in the ports of any country in amity with  
 his Majelty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794102101:0319/pct:8.765822784810126,7.621395647979419,20.838607594936708,10.129703076428342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794102101:0319/pct:8.771097046413502,7.628541822989245,20.833333333333332,10.129703076428342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ ralty, fiiould be permitted to proceed
 to dispose of their carges of corn, meal  
 or flour, in the ports of any country i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794110301:0002/pct:77.8335535006605,51.695331695331696,16.08982826948481,9.565929565929565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794110301:0002/pct:77.85336856010568,51.695331695331696,16.109643328929987,9.574119574119575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ vernmeat, and the ships be released after {uch
 purchase, and atier a due allowance for freight,  
 or that the master of said thips, on giving -du
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794111101:0331/pct:71.3132911392405,41.56320846378063,20.2373417721519,5.851236100615352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794111101:0331/pct:71.3132911392405,41.566807009967974,20.2373417721519,5.851236100615352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ I &quot; thorized aft of Great-Britain, into a war
 0 &quot; with which we meddle not, and which we  
 )t &quot; wish to avoid, if justice to all parties wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797053001:0003/pct:22.33844723384472,71.08060230292294,16.759646675964667,8.945969884853852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797053001:0003/pct:22.350069735006972,71.08429288455861,16.771269177126918,8.945969884853852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -424,7 +424,7 @@ thin-,- whatever to a place blockaded by its ene­
 my.” Is it not then a violation of our natural I  
 rights, that any prohibition Arnold he place
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805100101:0171/pct:41.627336228053615,74.84646878198566,18.557674155182177,6.499488229273285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805100101:0171/pct:41.61947904869762,74.83689394908532,18.560463067824337,6.502920984179779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ with France; and between reftrai&#x27; it onr­
 felves, and permitting her enemies t -drain it  
 unrightfully, is no difference.” Air. J iferloti’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805100101:0171/pct:60.65697564659241,32.151995905834184,17.84028695488012,7.561412487205732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805100101:0171/pct:60.645526613816536,32.14788281949597,17.843211274694852,7.564709394055691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ rjgh/ttHy, is no difference fuppofe we fly, that
 Gen. Turreau had made filch a remonftrance  
 to ourgov; rnrrdnf, what rep&#x27;y Would We hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806032501:0403/pct:23.64614243323442,70.29917250159134,18.08234421364985,9.318905155951624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806032501:0403/pct:23.64175783422956,70.29022403258656,18.08517213672044,9.321961982348947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ ed applications have been made to ihe go­
 vernments of Great Britain and France, by  
 the government of the U. S. for a withdrawa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810031301:0397/pct:59.85576923076923,21.104798742898584,18.380177514792898,16.995044119424634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810031301:0397/pct:59.844703272323905,21.102248005801304,18.382942010229865,16.99701877366852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ Resolved, that a com mi ties be appointed&#x27;lo eitn
 quire into the expediency of authorising by Jaw  
 merch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811030401:0394/pct:49.40880503144654,46.774193548387096,21.48427672955975,14.776800260671228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811030401:0394/pct:49.396378269617706,46.76657436064506,21.48516096579477,14.778465548134875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ right o&gt; either &#x27;t&gt; inVrruptthe agricul­
 or the praceabli exchange of its pro-’  
 • &lt;ui&#x27;e wir&#x27;i all nation!} and whereas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811031201:0092/pct:25.39417547764793,70.26403486285568,17.529215358931552,15.149961548320944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811031201:0092/pct:25.38946587537092,70.25503011662181,17.532146389713155,15.152291853560596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ bat she can (rive bo right of doing it at our loas. uor of
 making u* the iMtroment of it.&#x27;  
 The drtJarat&#x27;iOti that Gr?tnt Brimin may fael the desir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031301:0316/pct:0.9292468209977176,39.08204102051025,15.911313987610042,18.134067033516757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031301:0316/pct:0.9292468209977176,39.090378522594634,15.916748179545701,18.138235784558947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1081,7 +1081,7 @@ Cabinet a compromise was made in the
 Jay treaty of 1794, the eighteenth article  
  of which provided:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899122701:0792/pct:77.94226498889711,164.23960366311366,50.407105847520356,33.98889055697343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539045:1899122701:0792/pct:19.496389557489355,41.059900915778414,12.60877615256434,8.497222639243358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ party implements merely of war for the
 annoyance of the others, nor anything  
 ever to a place blockaded by its en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_vanhalen_ver01:data:sn85034438:00175049538:1899123101:0757/pct:87.43377483443709,74.23262377984241,41.109271523178805,49.38257085734447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_vanhalen_ver01:data:sn85034438:00175049538:1899123101:0757/pct:29.14459161147903,24.744207926614138,13.70309050772627,16.460856952448154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

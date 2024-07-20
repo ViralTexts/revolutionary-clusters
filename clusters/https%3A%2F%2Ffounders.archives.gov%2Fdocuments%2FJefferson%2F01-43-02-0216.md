@@ -114,7 +114,7 @@ divide the Republican#, join the minority, and barter with thrmf»r
 “ formed, who will constitute tha majority of it, whleh majority is  
 “ than to dictate? Certainty tha Federalists.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834010901:0296/pct:66.24965631014572,91.55555555555556,15.067363211437998,4.988888888888889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834010901:0296/pct:66.2405498281787,91.5453838462393,15.069873997709049,4.992037921712402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ that others should be as free as himself, and acqui­
 ‘esce when his opinion is fairly overruled, will at­  
 tain his object in the end.”’ Kirrery
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834081901:0447/pct:34.63018383924754,36.41507419664781,14.037337893686761,3.9713889185438243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834081901:0447/pct:34.63018383924754,36.41507419664781,14.051588998147356,3.9856232874274937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ selves into gear with the republican minority, is ex­
 actly like Roger Sherman’s proposition to add Con­  
 necticut to Rhode Island.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834081901:0447/pct:34.63018383924754,40.40781466851713,14.222602251674505,10.323476032881391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834081901:0447/pct:34.63018383924754,40.41493185295897,14.227352619828038,10.323476032881391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ of opinion will be contented that others should be as
 free as himself, and acguiesce whea his opinion is  
 fairly overruled, will attain his object in the end.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834081901:0447/pct:34.644434943708134,51.01953667129283,14.122844520450334,9.896444966371304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834081901:0447/pct:34.64918531186167,51.02665385573467,14.118094152296804,9.903562150813139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ revolution. And when this party is formed, who will
 constitute the majority of it, whic h majority is then to  
 dictate? Certainly the federalists.” Is not this precisel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835031201:0425/pct:50.22711631108052,66.35889637193135,15.113558155540261,8.0165109711058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1835031201:0425/pct:50.22020368841178,66.3516889323341,15.116065694100376,8.01926070743275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ when this party is formed, tefto will constitute the majority
 of it, which majority is then to dictate ? Certainly the fe­  
 deralists.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835112001:0220/pct:3.837161325814881,34.58975199388179,15.554944299271076,6.205615645143669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835112001:0220/pct:3.8366336633663365,34.585973344985796,15.557389072240557,6.208579127521666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ undoubtedly, they have but one means, which is, to divide j
 the republican party, join the minority, and barter with  
 lliem lor the cloak of their name.&quot; On this plan the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836010901:0141/pct:49.46629213483146,81.37080867850099,15.997191011235955,2.9684418145956606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836010901:0141/pct:49.47565543071161,81.37738330046022,16.00187265917603,2.9717291255752794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ putting themselves into gear with the Republi­
 can minority, is exuctly like Roger Sherman&#x27;s  
 proposition to add Connecticut to R. Island.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838090801:0715/pct:36.86311028335772,58.704175651832976,14.500465611281097,11.73299353068026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838090801:0715/pct:36.87197906966431,58.704175651832976,14.500465611281097,11.73299353068026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ federal papers:
 “ Any one who has ever seen a person draw­  
 ing water out of a country well, by the slo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838090801:0715/pct:36.86311028335772,70.92726916290923,14.460556072901424,9.909821603607137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838090801:0715/pct:36.87197906966431,70.93053649611187,14.45168728659483,9.909821603607137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ fairly overruled, will attain his object in
 the end.&quot;  
 THE PLANTER
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1838120101:0638/pct:69.70740103270224,8.37696335078534,40.3184165232358,110.99476439790575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1838120101:0638/pct:52.30305639259578,6.282722513089006,30.262591476538958,83.26103216155572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ s , ..1.1... ol 1.1-
 give a price lor auxiliaries, auo mav-l.nuriple.  
 It is true that the Federalists, needin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1839092101:0431/pct:64.87034035656401,69.56043956043956,20.340356564019448,6.607142857142857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1839092101:0431/pct:48.69247922156902,52.17032967032967,15.264544901682546,4.958791208791209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ system of Federo-Republicanism will rise
 on the ruins of the true principles of the  
 Revolution,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839092101:0806/pct:71.42570281124497,99.2650117875468,19.397590361445783,14.78297046179448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839092101:0806/pct:53.595821615106466,74.45569269172098,14.564081960626758,11.09416169740674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -603,7 +603,7 @@ system of Federo-Republicavism will rise on
 ‘the ruins of the true principles of the revolu.  
 [tion.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839100901:1151/pct:37.594390507011866,39.44254535892716,14.670981661272924,8.651064948724692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1839100901:1151/pct:37.600383555076114,39.44254535892716,14.670981661272924,8.655447453764571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ nuttin&quot; themselves into gear with the kepid&gt;.:can mi­
 !:or.tv&quot;i, exactly like Itoger Sh-rinaii s proportion to  
 add Connecticut to Rhode Island
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840030301:0383/pct:81.18662025124867,58.851438173371555,16.28575752989254,8.935455174458832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840030301:0383/pct:81.18662025124867,58.85802774208428,16.295847838151456,8.935455174458832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -665,7 +665,7 @@ S&gt;sn.ni Ol r Revolution. And when tins party l* formed,
 who will constitute a majority of it, which majority is then to  
 Jictutc? Certainly tbe Federalist-.&quot; [1 homo J.rrtno*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840031001:0397/pct:17.86144578313253,73.02061547654615,16.265060240963855,5.059257046110945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840031001:0397/pct:17.866465863453815,73.02393519901736,16.265060240963855,5.065896491053348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ jority is then to uictatel Certainly the Federal­
   
 ISIS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848063001:0228/pct:54.99778532408091,31.428846709702285,13.58334563708844,7.94874265343482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848063001:0228/pct:55.00270682612333,31.435269936088897,13.588267139130863,7.94874265343482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ vails&quot;! But do thrv vinni. jhar ih?.ir.&#x27;&quot;&#x27;Ji vidua I
 nui udvc me pauions ot Oiner men, it alter ga­  
 ting thus into the seatot power, ihev suffer them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848063001:0228/pct:54.85014026280821,47.09509586665382,13.33234903292485,3.622699682050294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848063001:0228/pct:54.85014026280821,47.09830747984713,13.342192037009696,3.6291229084369077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,15 +751,15 @@ his opinion is lairly overruled, will attain his
 object in the end.&quot;  
 Could language better adapted to the presen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848063001:0228/pct:54.93872729957183,50.5732729550053,13.524287612579359,6.281915406108488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848063001:0228/pct:54.93872729957183,50.5732729550053,13.529209114621782,6.285127019301795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1848-08_23_122/page/n10/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1848-08_23_122/page/n10/mode/1up?view=theater)
 
-#### 1848-08-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1848-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -846,7 +846,7 @@ formed, who will constitute the majority of it;
 which majority is then to deci lel Certainly tkt  
 Federalists.&quot; (Jefferson&#x27;s Memoirs, vol. 4th.)
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849020901:0489/pct:16.926334896384812,81.97725284339458,13.916200272273484,10.82920190531739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849020901:0489/pct:16.926334896384812,81.98373351479214,13.916200272273484,10.83244224101617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -908,7 +908,7 @@ be contented that others should be as free as himself, and ac- !
 bis object in tbe end. And that this may be the conduct of :  
 us all, 1 offer my sincere prayers,&quot; Ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854052801:0731/pct:67.54673663496229,24.824146310269857,16.038045260741228,23.916101803299654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854052801:0731/pct:67.55766918115229,24.832672549771925,16.038045260741228,23.916101803299654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -937,7 +937,7 @@ s of the true principles of our revolution. And when
 party is formed, who will constitute the majority of i  
 which ninjhrl&#x27;y Is then to dictate? Certainly, the ledisls.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091001:0251/pct:67.84670347515427,7.5466935890964155,15.946735953231569,8.568904593639576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091001:0251/pct:67.85211648803724,7.555106848393067,15.952148966114539,8.568904593639576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,7 +956,7 @@ do, 1 cannot believe they can carry with them the
 s of their .States, advancing so steadily, as we see them,  
 union of principles with their brethren. It will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091001:0251/pct:67.94413770704774,15.484603735487127,14.858720363754466,2.7637556789500253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091001:0251/pct:67.94413770704774,15.484603735487127,14.858720363754466,2.772168938246677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ his opinion is fairly nerreled, will attain his
 et in the end,  
 the distinguished author of the uhove letter had heen 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091001:0251/pct:67.81422539785645,18.58909641595154,15.670672296200065,3.8995456839979807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854091001:0251/pct:67.81422539785645,18.59750967524819,15.681498321966007,3.895339054349655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1002,7 +1002,7 @@ j continues Mr. Jefferson, &quot;trbo&#x27;wiH constitute the maJ
 joritv of it 1 which majority is then to dictate 1 CerI  
 tainly the Fed. ralists.&quot;?yt- snakes in the grass, yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854091201:0355/pct:12.815338042381432,90.56929269695227,16.130892316563354,5.606670500287522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854091201:0355/pct:12.815338042381432,90.56929269695227,16.135697467685358,5.616254552424765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ when his opinion is fairly overruled, will nttaiuhisob|cet
 in tho end.&quot;  
 We have been led to these remarks, under tho hop
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854091201:0355/pct:26.711835087213494,15.439907993099482,15.885829609341213,4.379911826720337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1854091201:0355/pct:26.711835087213494,15.446297361190979,15.89543991158522,4.379911826720337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1051,7 +1051,7 @@ divide the Kepuhliciiiir, join the minority, and barter -J1
 with tli&lt;-in for the clotik of their mi UK*. I lie iniimri &#x27;  
 ty, having no other mean* of ruliinr the majority. will 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855040601:0589/pct:28.743645606390704,17.74546145803631,14.553376906318082,4.590818363273453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855040601:0589/pct:28.753328491890585,17.75179799131895,14.548535463568143,4.593986629914774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1152,7 +1152,7 @@ give a price for auxiliaries, and that price must be
 principle,&quot; &amp;e.  
 Again, in November 4th, 1823, Mr. Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855120801:0546/pct:28.30540037243948,201.7894984695079,49.720670391061454,28.631975512126207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855120801:0546/pct:7.078547035082273,50.44737461737697,12.434026699782676,7.157993878031552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1204,7 +1204,7 @@ means of ruling the majority, will give
 a frice for auxiliaries, and that price  
 must be principle,&quot; &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855122701:0227/pct:204.0562913907285,63.86243386243386,56.62251655629139,85.39682539682539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1855122701:0227/pct:51.045765168772,15.965608465608465,14.164423276040589,21.349206349206348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

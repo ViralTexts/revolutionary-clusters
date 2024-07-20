@@ -76,7 +76,7 @@ all the good offices, and show him all the favor thaton
 further acquaintance you shall find him deserve.  
 I have the honor &#x27;o be, &amp;e.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840081801:0550/pct:35.811903012490816,61.09094680078814,14.871418074944893,6.906564347194856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840081801:0550/pct:35.821699730590254,61.09440353970064,14.861621356845458,6.910021086107366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ the favor that on ftirther acquaintance
 pou shall And him deserve. ?  
 I hare the honor .to be, dec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861794:1840110401:0014/pct:17.66536964980545,11.135504329796317,16.171206225680933,13.05037199658495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861794:1840110401:0014/pct:17.66536964980545,11.143635402691386,16.17639429312581,13.046306460137416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ n him all the good offices, and show him all
 you shall find him deserve. &lt;  
 &#x27; I have the honor to be, &amp;c. ^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861794:1840110401:0015/pct:17.053655475368686,11.315021876519202,17.33605271415124,12.967914438502675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861794:1840110401:0015/pct:17.058885053864657,11.323124291038729,17.33605271415124,12.963863231242911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ he favor that on further acquaintnnc
 you shall find him deserve.  
 I have the honor to he, dec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861794:1840110401:0016/pct:18.385093167701864,11.077186126038104,14.860248447204969,13.006839276990718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861794:1840110401:0016/pct:18.390269151138718,11.085328122455627,14.855072463768115,13.006839276990718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ the favor that on further acquaintance
 you shall find him deserve.  
 I have the honor to be, &amp;:c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:0029586185A:1840110402:0268/pct:18.705137227304714,12.5484496124031,15.960591133004925,12.887596899224807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:0029586185A:1840110402:0268/pct:18.705137227304714,12.554909560723514,15.969974196575182,12.887596899224807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ whom we know no harm, has a right to; and I request you
 will do him all the good offices and show him all the favor  
 that, on further acquaintance, you shall find he deserves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843062601:0584/pct:174.33602771362587,218.46350237901822,39.15993071593533,15.713125217593129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843062601:0584/pct:58.103622456342904,72.81271756788118,13.051426372251889,5.237100642066991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ request you will do him ali the good offices and
 tance, you shall find he deserves. 13. Franklin.  
 It may be interesting to the administratio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843062601:0606/pct:52.78485977642675,70.80221963417141,15.01274759756815,8.82373090361033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843062601:0606/pct:52.77968428277282,70.7973695026716,15.014543909533614,8.825409873498653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -631,7 +631,7 @@ you will do him all the gond offices, and show
 him all the favor that, on further acquaintance  
 you shall find he deserves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1843071501:0069/pct:48.912341158733575,45.9193991044345,21.21473185440448,12.451249458327315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082160:00514159324:1843071501:0069/pct:37.90686029043565,35.594611739244,16.452456462471485,9.642150826523379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ tho frnml offices and show him all the
 favor, that, on further acquaintance, you  
 will find ho deserves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1843072901:1227/pct:70.1770736253495,86.15931721194879,22.576887232059647,15.206258890469417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878204:1843072901:1227/pct:52.66961995803217,64.62304409672831,16.950338074143158,11.408250355618776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,7 +888,7 @@ right to. I request you will do him all the
 good offices, and show him all the favor, that  
 on further acquaintance you shall find hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1870041301:0058/pct:45.017728328646534,73.82643339684739,12.324245017728328,9.180668629828512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1870041301:0058/pct:45.012224938875306,73.82003983718715,12.32681336593317,9.182760312923993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

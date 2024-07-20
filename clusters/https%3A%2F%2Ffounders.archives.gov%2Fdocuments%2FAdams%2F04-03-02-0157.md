@@ -388,7 +388,7 @@ great price demanded and given for it verifies
 that pathetic passage of Sacred writ, &#x27; All that  
 man hath will he give for his lffe.&#x27; Corn i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1847091701:0633/pct:57.28232189973615,114.84068510190413,17.150395778364118,3.2532771983542244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1847091701:0633/pct:42.97400712495052,86.13529805760214,12.864493996569468,2.4399578987656683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ writ: All that a man bath will he give for
   
 hla life. Corn la sold at four dollar$,hard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1853011101:0314/pct:60.70432357043236,108.25318429945412,16.649232914923292,4.393033532622823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1853011101:0314/pct:45.55284269271015,81.19313750974786,12.486920125566794,3.301273719781648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ twelve, it is probable. Goods of all kinds art*
 at such a price that 1 hardly dare mention it.  
 Linens are sold at twenty dollars per yard:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525164:1863040701:0263/pct:17.22728117450288,57.942113280709044,12.562720683887754,7.076582190832295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525164:1863040701:0263/pct:17.224080267558527,57.93409027970091,12.565031586770717,7.079063971199114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

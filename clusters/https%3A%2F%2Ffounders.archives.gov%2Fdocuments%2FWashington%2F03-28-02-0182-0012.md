@@ -358,7 +358,7 @@ liam Smith, Chics Jullice of this province,
 will artend His Excellency Lieut, General  
 Kobertion. H. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0437/pct:5.9225011008366355,48.51616713420936,28.775869660942316,29.765244352576406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0437/pct:5.929840011742257,48.526010138294204,28.775869660942316,29.76032285053398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

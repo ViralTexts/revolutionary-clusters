@@ -704,7 +704,7 @@ rained a small degree of reputation, wlirii this ex- I
 crahle project wan art on toot for iny ruin, a* well  
 ip that of America in general, and of Great Brit- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850090601:0252/pct:54.413851830826,46.8697502519879,14.760147601476016,17.560757083659983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850090601:0252/pct:54.418582647364936,46.877216560271776,14.760147601476016,17.55702392951805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ he apparent impatience of the town inuat produce
 ionic spirited measures, perhaps more spirited  
 han prudent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850090601:0252/pct:54.37127448197559,65.14727293089932,15.895543570820324,29.40978833016015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661381:1850090601:0252/pct:54.37600529851452,65.15473923918319,15.900274387359259,29.40978833016015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -851,7 +851,7 @@ degree of reputation, when this execiable pro­
 ject was set on foot for my ruin as well as that  
 of America in general, and ot Great Britain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850090901:0581/pct:33.945297864368676,32.248704663212436,12.663919070813039,20.518134715025905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850090901:0581/pct:33.942118572632765,32.24647692732799,12.665854953014268,20.519019987105093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -926,7 +926,7 @@ unless it should be admitted that he is too ac­
 tive to the public, and not enough so to himself  
 and his family
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850090901:0581/pct:33.982765080554515,54.10017271157167,12.77632071937055,27.067357512953368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215841:1850090901:0581/pct:33.97958227966657,54.096435479414204,12.7782460741157,27.067790365662706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1135,7 +1135,7 @@ his fortune, connections, and influence had been
 has been seen to sink into universal contemp  
 and ignominy.&quot; [A voice. &quot; Ditto the slav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850112101:0549/pct:45.35310926656688,53.44588097018912,13.212681997550687,8.644085906613954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850112101:0549/pct:45.357645031069985,53.453004238344555,13.212681997550687,8.64052427253624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1177,7 +1177,7 @@ unteer in favor of this Bill &#x27;No! no!&#x27;
 more tolerant of the slave-hunter, who, un  
 der its safeguard, pursues his prey upon th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1850120701:0196/pct:66.39544344995932,70.60805636391484,18.327908868999188,19.267881758309084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035487:00237283776:1850120701:0196/pct:49.826989619377166,52.96370041353959,13.759413800122125,14.458569459335273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ the stamp distributors and inspectors have
 been compelled, by the unconquerable rage of the  
 people, to renounce their offices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851011101:0067/pct:58.52319516881691,36.18809631985461,13.683777106780127,3.5438437074057245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851011101:0067/pct:58.52319516881691,36.19188247766167,13.688352090767681,3.547629865212782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1219,7 +1219,7 @@ inclusive, the stamp diitributors and inspectors
 have been compelled, by the unconquernble rage  
 of the people, to renounce their offices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851011101:0059/pct:40.55839087361153,44.78383458646616,13.779645752026418,3.68890977443609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851011101:0059/pct:40.56839787851496,44.791666666666664,13.779645752026418,3.68890977443609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1252,7 +1252,7 @@ or whatever bis fortune, connexions, and influence
 had been, has been seen to sink into universal eontempt  
 and ignominy.&#x27; A voice: [&#x27;Ditto the slavehunter.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851022001:0234/pct:0.31586503948312994,33.40378067394622,15.922469490308686,8.218856404837384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851022001:0234/pct:0.31586503948312994,33.41160815623655,15.92725532424025,8.218856404837384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1282,7 +1282,7 @@ or wlu&#x27;ever his fortune, connexions, and influence had
 been, lias been seen to sink into universal conlempi and  
 iguo i.my.&#x27; [A voice, &#x27; Ditto the slave burner.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0238/pct:52.82956058588549,33.567505428534936,15.895472703062584,6.654745178183676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851022701:0238/pct:52.84065690190857,33.571763102993145,15.889924545051043,6.659002852641887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1383,7 +1383,7 @@ connections, and influence had been, has been seen
 to sink into universal contempt and ignominy.&quot;  
 The Stamp Act became a dead letter. At th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852093001:0145/pct:46.45390070921986,100.25205624834173,15.764023210831722,10.758821968691962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852093001:0145/pct:34.859722670106414,75.19235871583975,11.834891970332151,8.065799946935527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1613,7 +1613,7 @@ But. was the speaker justifiable in makin
 a well settled rule of the law of nations, that every in­  
 terpretation that leads to an absurdity ought to be re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471392:1856051701:0442/pct:70.09929532351057,83.20267465990315,20.067264573991032,1.2681577127046346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471392:1856051701:0442/pct:52.595322012175586,62.40488817154715,15.05927587311759,0.9568826377680424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2022,7 +2022,7 @@ colour of which act, shaking this funda­
 mental law, it is not credible what hor­  
 rible oppressions, and exactions, to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292972:1868060101:0235/pct:115.67301782421634,35.67833313824183,42.83958205285802,17.745522650122908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292972:1868060101:0235/pct:28.918254456054086,8.919583284560458,10.709895513214505,4.436380662530727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

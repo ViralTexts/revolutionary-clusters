@@ -2343,7 +2343,7 @@ other, binding on themselves and their posterity,
 for their common defense against their enemies, for  
 the security of their
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022846:1858111301:0366/pct:8.42479018721756,88.9780505074345,19.367333763718527,3.799858390370545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022846:1858111301:0366/pct:6.329727111254642,66.73353788057588,14.532536735023413,2.8557941940051923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2483,7 +2483,7 @@ islands, Quoboc, St. Johns, Noya Sootia, Bermudas,
 and East and West Florids, and shall thereupon b  
 mtitled to all the advantages of our Union, mutua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870061501:0781/pct:111.41769743101808,64.47227191413238,44.14843006660323,7.656529516994634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870061501:0781/pct:27.85442435775452,16.118067978533094,11.037107516650808,1.9141323792486584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2518,7 +2518,7 @@ Assembly or Convention.
 e   
 &quot;Art. 13th.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872013101:0126/pct:246.3802704852824,161.605236943219,44.78918058870326,31.193966130638962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1872013101:0126/pct:61.6318407960199,40.40130923580475,11.203980099502488,7.798491532659741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2556,7 +2556,7 @@ best to its own Assembly or Convention.
   
 Art. 13th.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1872022901:0453/pct:196.50959860383944,94.42460009318216,57.15532286212915,55.785059791893154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292807:1872022901:0453/pct:49.13811913593716,23.60615002329554,14.291948505345843,13.946264947973289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

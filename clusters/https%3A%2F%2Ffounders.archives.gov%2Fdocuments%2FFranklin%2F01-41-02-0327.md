@@ -826,7 +826,7 @@ it. m for that) a bird of courage, &lt;k w ould
 Friu-!i g &gt;auls, who should p. fSUUie tO in­  
 vade Ills larui-jnrd with a icd coat on,,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1817111201:0145/pct:0.5598621877691645,32.03135558859305,18.863049095607234,28.490336531963777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1817111201:0145/pct:0.5597416576964478,32.027027027027025,18.86616433440976,28.49099099099099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1387,7 +1387,7 @@ would not hesitate to attack a grenadier of
 the British Guards, who should presume  
 to invade his farmyard with a red coat on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1827052401:0185/pct:4.384384384384385,9.81823189204076,36.27627627627628,86.36739190305701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1827052401:0185/pct:4.383506805444355,9.816880077103125,36.2740192153723,86.35894258570839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1483,7 +1483,7 @@ British guards, who should presume t®
 invade his farm yard with a red coat  
 nn.”—n 95. ■ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827091301:0367/pct:77.06861180761341,35.54942662215126,21.290175518577616,30.294672666569895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1827091301:0367/pct:77.0510483135825,35.54426705370101,21.29102096627165,30.293904208998548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2473,7 +2473,7 @@ courage, and would nut hesitate to attack a grenadier
 of the.British Guards, who would presume to  
 invade his farm-yard with a red coat on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850060401:0680/pct:15.159537411174586,24.377890332525876,15.814407133899959,20.105703589517727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:0041566137A:1850060401:0680/pct:15.164181877293204,24.377890332525876,15.809762667781339,20.11671438009249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2664,7 +2664,7 @@ the kina-birds from our countiy, though ex­
 actly fit for that order of knights which the  
 French call chevaliers d’indusirie.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183748:1852020401:0023/pct:32.33923578751165,15.609617569102612,25.762215417387832,80.99204846648996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183748:1852020401:0023/pct:32.33493077742279,15.608140085186937,25.76322328718495,80.98753746647736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2682,7 +2682,7 @@ France to provide the ribands and med­
 als had executed his commission  
 &quot;To me (says that venerable philosphe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852060201:0513/pct:198.07692307692307,317.08527131782944,44.46153846153846,8.496124031007753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852060201:0513/pct:49.528755529909596,79.27131782945736,11.117522600500097,2.124031007751938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2754,7 +2754,7 @@ sume to invade his farm-yard with a red
 coat on.&quot;  
 The editor of this interesting corres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852060201:0513/pct:197.69230769230768,45.82945736434109,91.15384615384616,338.17054263565893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852060201:0513/pct:49.43258318907482,11.457364341085272,22.792844777841893,84.54263565891473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2975,7 +2975,7 @@ He is, therefore, by no means a proper
 emblem for the brave and honest Cincinnatus  
 of America.&quot; This bird, however, is not s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856040501:0671/pct:28.044574157601485,71.40863216663088,13.173255505439109,4.477131200343569/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1856040501:0671/pct:28.044574157601485,71.41578985040441,13.182099584328292,4.477131200343569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3016,7 +3016,7 @@ is, therefore, by no means a proper em­
 blem for the brave and honest Ciac’nna­  
 tus or America,” This bird, however, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557499:1856062001:0209/pct:84.14477310306816,26.201505500868556,12.98916038949109,4.125651418645049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557499:1856062001:0209/pct:84.14936615836855,26.212362478286046,13.002939555392247,4.13288940359004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3042,7 +3042,7 @@ bodily, and drives him out of tho district. He is, therefore,
 by no means a proper emblem for the brave and honest  
 Cincinnatus of America. ” This bird, however, is not s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110065:1856070601:0006/pct:83.5844428871759,27.844795423454794,12.666433076384022,4.26563860216391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110065:1856070601:0006/pct:83.59758234057463,27.847904489491356,12.662053258584443,4.262529536127348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3074,7 +3074,7 @@ out of the district.”
 If Dr. Franklin could have foreseen the  
 time, that he never dreamed of, when ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857060801:0522/pct:57.076745082915544,103.32709203514331,15.715387581951408,10.47097796341639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857060801:0522/pct:44.24408468244085,80.08632236940021,12.16936488169365,8.122488465545468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3154,7 +3154,7 @@ been requested by the Federal administra­
 tion to give their attention to the coast for­  
 tifications and defences,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769301:1861110101:0445/pct:56.46719538572459,13.256639071067626,26.589762076423938,81.34609181808408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769301:1861110101:0445/pct:56.47680845950493,13.256639071067626,26.589762076423938,81.3568433501774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3329,7 +3329,7 @@ sharping and robbing, he is generally poor.
 which the French call chevaliers d&#x27;indus.­  
 trie.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742071:1874083101:0212/pct:83.36727766463001,113.58476748443793,53.088934147997286,15.369827901867447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742071:1874083101:0212/pct:27.789092554876667,37.86158916147931,17.696311382665762,5.12327596728915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3368,7 +3368,7 @@ actly fit for that order of knights which the
 French call chevaliers d&#x27;industrie.&quot;  
 This was written about one hundred year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742071:1874090301:0224/pct:123.36971350613915,228.37111900209413,53.8881309686221,34.94491486843303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742071:1874090301:0224/pct:41.12323783537972,76.12370633403138,17.962710322874035,11.648304956144344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3396,7 +3396,7 @@ beside talthough a uttle vain and silly, it is true,
 but not the worst embiem for thath, a bird of cour-­  
 age, and would not hesitate to attack a Britis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:41.602799066977674,272.4417661374435,60.596467844051986,21.462510140224822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:13.867599688992557,90.81392204581451,20.198822614683994,7.154170046741608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3515,7 +3515,7 @@ The fowl so eulogized by the American
 phllosopher has become in fact our naa  
 bird, although not yet officiall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eucalyptus_ver01:data:sn83030313:00271744079:1879112501:0762/pct:195.3658943157193,24.99418469411491,53.042173695615936,39.24168411258432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eucalyptus_ver01:data:sn83030313:00271744079:1879112501:0762/pct:65.12196477190643,8.331394898038303,17.680724565205313,13.08056137086144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3535,7 +3535,7 @@ respectable bird, and, withal, a true,
 ! have been found in all countries, but  
 I tho turkey was pecular to ours.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291086:1879121901:0250/pct:62.44707874682472,86.23209169054441,14.458086367485182,3.5816618911174785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291086:1879121901:0250/pct:62.45766299745978,86.23209169054441,14.447502116850128,3.5888252148997135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3640,7 +3640,7 @@ little king bird, not bigger than a spar­
 row, attacks him boldly and drives him  
 out of the district.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288427:1881092201:0806/pct:70.95151599832332,14.86398258977149,13.609054072935587,7.986942328618063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288427:1881092201:0806/pct:70.95151599832332,14.867609720710918,13.618368962787015,7.99056945955749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3707,7 +3707,7 @@ and which appeared in tho coat of arms
 of several of tho New England States,  
 seomed for a long time a good dea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_ishtar_ver01:data:sn86069125:00206534242:1882040801:0467/pct:65.71091908876669,50.54613394653636,26.237234878240375,55.80626616843921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_ishtar_ver01:data:sn86069125:00206534242:1882040801:0467/pct:49.31237721021611,37.91319344639264,19.68565815324165,41.86188559931015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3740,7 +3740,7 @@ should presume to invade his farm
 yard with a red coat on.&quot;  
 But, after all, the turkey never ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023553:1882112401:0460/pct:7.693580410324288,118.48384518780682,21.095301125082727,15.184381778741866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_detroit_ver02:data:sn96077385:00296023553:1882112401:0460/pct:5.130751406818934,78.9930357346729,14.068189341277723,10.126726795296266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3771,7 +3771,7 @@ should presume to invade his farm
 yard with a red coat on.&quot;  
 But, after all, the turkey never ap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537930:1882122001:0430/pct:4.6358423813590335,68.06714342471196,10.479443698914237,7.965832340087406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quiring_ver01:data:sn89064939:00206537930:1882122001:0430/pct:4.643975438168436,68.06714342471196,10.483510227318938,7.969143159846378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3982,7 +3982,7 @@ from Canada and served up at the wed-
   
 was all amber and amethyst in the sun 1 ding table of Charles IX He is beside
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_angelou_ver03:data:sn89066097:00211109737:1886080601:0536/pct:31.11413043478261,55.84541062801932,25.058229813664596,28.171152518978605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_angelou_ver03:data:sn89066097:00211109737:1886080601:0536/pct:31.11413043478261,55.84541062801932,25.058229813664596,28.18150448585231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4018,7 +4018,7 @@ N Y Telegram
   
 Have you read the Descent o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_angelou_ver03:data:sn89066097:00211109737:1886080601:0536/pct:31.133540372670808,83.96135265700484,25.077639751552795,10.36576949620428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_angelou_ver03:data:sn89066097:00211109737:1886080601:0536/pct:31.133540372670808,83.96135265700484,25.077639751552795,10.376121463077984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4314,7 +4314,7 @@ eagle, which is a natie of our country
 living in California, New Mexico and south  
 ern MexIco. The Aztecs called them th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654917:1893120201:0607/pct:70.77089727387614,64.22753547031003,13.793103448275861,13.649500788229112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654917:1893120201:0607/pct:70.77992417403864,64.23081975827641,13.802130348438347,13.65935365212822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

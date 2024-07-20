@@ -398,7 +398,7 @@ lawful attorney for--and in--name and steat
 to ask. d mand, sue for, levy and receive all such sum and  
 sums of money
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877080901:0468/pct:247.09379128137385,187.79879913900533,48.712021136063406,7.250481477285601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877080901:0468/pct:82.36459709379128,62.59959971300177,16.237340378687804,2.4168271590952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ seal the day of--in the year of our Lord one
 thousand eight hunred and seventy-seven.  
 Signed, soaled and delivered in presence o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877080901:0468/pct:247.44055482166448,202.05052679279484,46.449801849405546,11.872663419055172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877080901:0468/pct:82.48018494055482,67.35017559759828,15.483267283135183,3.9575544730183907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ seal the day of-- in the vear of our Lord one
 thousand eight hungred and seventy-seven.  
 Signed, sealed and delivered in presence o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877080901:0470/pct:251.6467549241201,202.68242782450557,44.785276073619634,11.991361673107525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877080901:0470/pct:83.88225164137337,67.5608092748352,14.928425357873211,3.997120557702508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ cause to be done by virtue hereof, and
 revoking any authority heretofore- given  
 to any other person. • „ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1891040901:0544/pct:76.59327925840093,42.29934924078091,17.149478563151796,8.242950108459869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1891040901:0544/pct:76.5755329008341,42.29279628195197,17.15129749768304,8.24554608830364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ cause to be done by virtue hereof, and
 revoking any authority heretofore given  
 to any other person
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1891042301:0564/pct:30.51044083526682,51.928417155199014,14.918793503480279,8.161061400802222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013894:1891042301:0564/pct:30.50336348874971,51.92040721888015,14.921131987937834,8.1636587999383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ power of substitution and revo
 cation; hereby ratifying and con­  
 firming all that my
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195684:1892072801:0440/pct:26.390418502202643,20.970394736842106,16.065528634361232,16.74547697368421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195684:1892072801:0440/pct:19.7989811372711,15.727796052631579,12.04736334847859,12.561677631578947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

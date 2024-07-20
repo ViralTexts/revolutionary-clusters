@@ -81,7 +81,7 @@ U. $., or towards any station &quot;occupied hv
 States,,from which vessel* or craft he en !  
 emy might derive succours or iutell:gence. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813080301:0109/pct:4.4125758411472695,2.6536487670547,35.6683213826071,92.61484541244211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813080301:0109/pct:4.411764705882353,2.653316645807259,35.66789215686274,92.60742594910305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ lenorU, in the fare, too, of a declared and ri­
 ll blockade) direct to the fleets and stations  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080401:0559/pct:4.730584366304073,62.324814509480625,23.880597014925375,8.178070898598516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080401:0559/pct:4.729387961557916,62.31454005934718,23.880880121396054,8.18084404879657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ the revenue, hi we, ^nd fropth* vigilauce Which
 vessels of giUter capacity attract. ;.a , i...  
 I*m. therefore, eomihunded br the presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080401:0559/pct:7.285605868960284,74.52596867271228,21.806223121679736,8.276999175597691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080401:0559/pct:7.283763277693475,74.51368282228816,21.80703085483055,8.279756017144742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ from which vessels or craft the ene­
 my might derive succours or intel­  
 ligence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:55.57381948595338,5.879145842798728,34.21996413628213,85.51567469332122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080701:0464/pct:55.565516210966685,5.878611666363802,34.219831664923554,85.51093343025016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ the United States, from which vessels or
 craft the enemy might derive succours or  
 intelligence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080901:0250/pct:39.732142857142854,11.434840911861514,16.839285714285715,24.564183835182252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080901:0250/pct:39.72504909837529,11.433447098976108,16.842230554067726,24.56525272224931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -737,7 +737,7 @@ within the jurisdiction of the United States,
 from which vessels or craft th. enecmny might  
 derive succers or intelligence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813081201:0876/pct:24.414429817062747,39.631427722183695,23.337322619251154,29.733478648568315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813081201:0876/pct:24.420128796945345,39.631427722183695,23.348720579016355,29.73678126754516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -867,7 +867,7 @@ in the jurisdiction of the United States,
 from which vessels or crajt the evenly  
 might derive succours or intelligence.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081801:0500/pct:3.6965270532121033,60.439461072429694,16.336264719034133,9.286553937969074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081801:0500/pct:3.6959761549925485,60.43399638336347,16.338797814207652,9.288728149487643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

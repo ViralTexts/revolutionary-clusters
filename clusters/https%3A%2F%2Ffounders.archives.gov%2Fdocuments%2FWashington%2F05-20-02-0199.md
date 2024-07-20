@@ -35,7 +35,7 @@ thin thirteen where that number can be
 convei ed, v.i bout manifest injury t &gt; the  
 service
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806082301:0281/pct:6.089438629876308,23.95077720207254,17.678401522359657,4.494818652849741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806082301:0281/pct:6.0882800608828,23.947675171609895,17.681380010147134,4.4985537279281615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -61,7 +61,7 @@ of less than thirteen, where that num.
 ie&amp;’figjury to the service, ;  
 ~ &quot; Article 65. Any general ‘office
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806090201:0349/pct:25.11336982017201,76.46881590840614,16.79437060203284,8.28562820126544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806090201:0349/pct:25.11858222569716,76.47216363697231,16.79437060203284,8.28562820126544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ Art. 51. General courts-martial may consist of any
 number of members from five to thirteen inclusively; but  
 they shall not be of a less number than can be detaile
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:155.13847180513847,32.049254405784005,46.36302969636303,3.8296430185268866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856071601:0137/pct:51.71282393504616,10.683084801928,15.45434323212101,1.2765476728422955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

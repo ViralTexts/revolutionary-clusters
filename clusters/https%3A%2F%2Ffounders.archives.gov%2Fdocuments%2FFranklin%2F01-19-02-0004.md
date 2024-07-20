@@ -50,7 +50,7 @@ to obtain a share of it Let th,™
 «hr« fourths of the people of Ireland, IT  
 year round on potatoes and butter mi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772050701:0236/pct:93.40610380931165,50.150109170305676,26.598351525952328,22.106986899563317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1772050701:0236/pct:72.40029924612995,38.8740040894028,20.607699833112736,17.136712966227172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -97,7 +97,7 @@ people, every Indian is a gentleman : And the effeét of this
 kind of civil society seems only to be the depressing multitudes  
 below the savage slate, that a few may be raised above it.”&gt; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1772050801:0856/pct:36.933093848226314,3.0069830411856917,57.13964975303098,90.35200228017672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1772050801:0856/pct:36.94806166741506,3.0069830411856917,57.13964975303098,90.35675264833024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ kind of civil society seems to be the depressing
 multitudes below the savage state that a few may  
 be raised above it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:55.86471176274575,41.87043689882953,46.184605131622796,21.022134662185653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:18.621570587581918,13.956812299609842,15.394868377207597,7.007378220728551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ be the depressing multitudes below toe
 savage state that a few may be raised  
 above it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053943:00295873655:1881020201:0218/pct:13.360323886639677,24.30736443286763,16.136495083863505,11.14136869524035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_columnist_ver01:data:sn92053943:00295873655:1881020201:0218/pct:10.02459134963113,18.233483305706844,12.10762331838565,8.358986502486385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ the depressing of multitudes below tho
 savage state that a few mav be raised nbove  
 it.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282747:1881031101:0070/pct:24.135393671817514,54.30775825117874,14.532744665194997,9.47278182597514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282747:1881031101:0070/pct:18.11154058531198,40.734390627232465,10.914780047855697,7.115302186026575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

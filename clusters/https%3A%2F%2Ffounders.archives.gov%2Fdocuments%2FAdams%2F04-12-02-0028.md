@@ -62,7 +62,7 @@ delights to bless. We have leaped from might.
 the weakness of infancy to the giant. It is pleasant to know that the Chief  
 strength of manhood, and in the race of Magistrate of this great republic paid suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841042901:0995/pct:11.968503937007874,352.3860303918955,177.24409448818898,17.75526526259664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1841042901:0995/pct:2.993304450571091,88.09650759797387,44.3284757778653,4.43881631564916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ tion “ cometh neither from the east, nor from
 the west, nor from the south. But God is the  
 judge: He putteth down one, and setteth u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847061801:0135/pct:35.77469857836962,23.549212333378215,14.234299082238618,3.2045240339302543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847061801:0135/pct:35.768261964735515,23.54604200323102,14.2362360561353,3.207458266020463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ procure the Divine purpose. In some periods of the
 world&#x27;s history, all things seemed moved without intel  
 ligent control; when the wicked bore the rule, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851121501:0952/pct:198.6824769433465,55.59748427672956,48.81422924901186,17.015437392795885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851121501:0952/pct:66.22749231444884,18.532494758909852,16.27140974967062,5.671812464265295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ God is the Judge, and promotion cometh neither from
 the East nor from the West, nor from the South, but  
 God is the Judge; He putteth down one, and settet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857112701:0397/pct:100.39499670836076,78.75427627698478,47.43252139565504,6.11065235342692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857112701:0397/pct:33.464998902786924,26.251425425661594,15.810840465218345,2.0368841178089734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ been exalted. “Promotion cometh neith­
 er from the east, nor from the west, nor  
 from the south; but God is the judge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184443:1880080401:0248/pct:62.8294289897511,46.62599601593625,17.36822840409956,2.079183266932271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184443:1880080401:0248/pct:62.81793229643184,46.62019170919955,17.371149740774626,2.083073986472468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ from the south; but God is the judge
 tion cometh neither from the east, nor from the  
 west, nor from the south. But God is the judge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1880111001:0894/pct:27.127659574468087,251.82450660230015,42.02127659574468,3.1236688910975436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1880111001:0894/pct:6.781914893617022,62.95612665057504,10.50531914893617,0.7809172227743859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ that &quot;Promotion cometh neither from the
 east, nor from the west, nor from the south;  
 but God is the Judge, He putteth down on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762707:1890061801:0119/pct:5.79967248908297,59.595168866025496,14.233078602620088,3.354954148959964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_beatles_ver01:data:sn84027718:00271762707:1890061801:0119/pct:4.354948805460751,44.69917244464326,10.689419795221843,2.516215611719973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ that &quot;Promotion coipeth neither from the
 east, nor from the west, nor from the south ;  
 but God is the Judge, He putteth down on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn88061072:00296020643:1890062001:0694/pct:60.55806938159879,64.76556073485057,16.19532428355958,3.5919934192486975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kay_ver01:data:sn88061072:00296020643:1890062001:0694/pct:45.43568464730291,48.57417055113792,12.165220671444738,2.7008500137098985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -684,7 +684,7 @@ tion cometh neither from the east nor from
 the west, nor from the south, but God is the  
 judge. He putteth down one and setteth u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1894041901:0136/pct:251.26475548060708,115.73899142566488,57.082630691399665,7.033861357360848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1894041901:0136/pct:62.82943284840818,28.93474785641622,14.273666455829643,1.758465339340212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ Promotion cometh neither from the east
 nor from the west, nor from the south, but  
 God is the judge. He putteth down on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1894041901:0815/pct:180.32532920216886,126.2964099416999,49.49651432997676,8.039275851488187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1894041901:0815/pct:45.090063916327715,31.574102485424977,12.376525276002324,2.0098189628720466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ Promotion cometh neither from the east
 nor from the west, nor from the south, but  
 God is the judge. He putteth down on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1894042001:0543/pct:75.26315789473684,125.88832487309645,56.666666666666664,7.703792176769185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1894042001:0543/pct:18.828176431863067,31.472081218274113,14.175992977836296,1.9259480441922963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ tion cometh neither from the east nor from
 the west, nor from the south, but God is the  
 judge. He putteth down one and setteth u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894042101:0086/pct:34.91785323110624,29.398112331734488,14.019715224534501,1.8412501934086338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894042101:0086/pct:34.91020586947,29.393564356435643,14.022120017520805,1.8448329207920793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ Promotion cometh neither from the east
 nor from the west, nor from the south, but  
 God is the judge. He putteth down on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1894042101:0274/pct:76.55184786508791,22.14755896873286,9.903121636167922,1.9336258913878224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1894042101:0274/pct:76.53811659192826,22.144522144522146,9.905829596412556,1.936788701494584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ tion cometh neither from the
 east, nor from the west, nor from  
 the south: but God is the judge 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664862:1898041501:0524/pct:45.44198895027624,86.04166666666667,15.74585635359116,5.642361111111111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jones_ver02:data:sn84037844:00415664862:1898041501:0524/pct:45.46270718232044,86.04600694444444,15.738950276243093,5.642361111111111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -60,7 +60,7 @@ urged to have public prayers in camp, so
 as to excite the curiosity and foster the  
 conversion of the Indians, he ignored th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202196913:1896040301:0960/pct:114.5536384096024,202.58563241370118,50.712678169542386,35.98560575769692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202196913:1896040301:0960/pct:28.649155722326455,50.646408103425294,12.682926829268293,8.99640143942423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -114,7 +114,7 @@ officers are allowed.&#x27; And when he was
 urged to have public prayers In camp,  
 so as to excite tho curiosity and foste
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896050201:0450/pct:58.592263792010144,105.35911602209944,18.75396322130628,5.370165745856354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023474:1896050201:0450/pct:39.08009516256939,70.24309392265194,12.513877874702617,3.5801104972375692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ prayers in camp, so as to excite the
 curiosity and foster the conversion  
 of the Indians, he ignored the rec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1896050901:0117/pct:122.24591329068942,208.76576928079075,45.13148542999289,16.75120301729744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1896050901:0117/pct:30.572342694632066,52.19144232019769,11.286882332029862,4.18780075432436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ prayers in camp, so as to escita the
 curiosity and foster the conversion of  
 the Indians, he ignored the recom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196445:1896062201:0196/pct:52.90351399642645,5.97578584916139,18.761167361524716,5.0094412973453295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196445:1896062201:0196/pct:39.69909131535826,4.487393091191825,14.077163712200209,3.754304120848606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ prayers in cam p, so as to excite the
 curiosity and foster the conversion  
 of the Indians, he ignored the rec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kathak_ver01:data:sn91059394:00383347798:1896062401:0210/pct:34.955601092896174,36.174418604651166,14.275956284153006,5.034883720930233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kathak_ver01:data:sn91059394:00383347798:1896062401:0210/pct:34.966985428051004,36.174418604651166,14.287340619307832,5.034883720930233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

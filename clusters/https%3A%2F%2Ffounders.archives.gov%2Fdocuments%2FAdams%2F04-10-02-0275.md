@@ -330,7 +330,7 @@ Than fables yet have feign&#x27;d, or fear conceived&#x27;;
 that plant, under which all that grows to defile the­  
 earth, to pest the air, and to desecrate the work
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839091401:0138/pct:100.0821692686935,87.03676791164075,23.233360723089564,4.5923557622438596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839091401:0138/pct:75.10791366906474,65.28120912658044,17.451181911613567,3.444266821682895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -549,7 +549,7 @@ Abominable, unutterable and worse
 Than fables yet have feigned or fear conceived.&quot;  
 And though these facts are patent to all, wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862100701:0529/pct:217.61457758144672,136.7449104461008,43.29099944781888,17.310045611302705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290021:1862100701:0529/pct:54.41866887600111,34.1862276115252,10.825738746202706,4.327511402825676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

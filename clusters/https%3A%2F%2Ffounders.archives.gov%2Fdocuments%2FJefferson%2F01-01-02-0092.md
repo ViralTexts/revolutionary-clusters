@@ -207,7 +207,7 @@ People of the Maflachufetts-Bay ; and therefore, that the exe­
 cuting, or attempting to execute, such Proclamation, wili jufti­  
 fy Resistance and Reprisal,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774082601:0305/pct:33.82940915148823,15.251798561151078,56.93025322079076,76.76258992805755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774082601:0305/pct:33.82940915148823,15.251798561151078,56.94506145416852,76.7673860911271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ nue in America,—for extending the powers
 of courts of admiralty, for the trial of persons  
 beyordSea for crimes committed in America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012001:0388/pct:5.288135593220339,77.88328993720324,28.112994350282484,6.601317200183796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775012001:0388/pct:5.303201506591337,77.88328993720324,28.112994350282484,6.611528054321744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ Virginia- Richard Henry Lee, George Washing­
 ton, Patrick Henry. Jr.. Richard Bland. Benjamin  
 Harrison, Idmund Pendleton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1842060401:1185/pct:211.2006556481355,119.18528252299606,38.16418522059828,4.0188348664038545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1842060401:1185/pct:70.39060366020213,39.72407752107741,12.719657652736046,1.3394649439760575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ happy j&quot; from all which we infer that in Virginia, in 1776,
 there prevailed a notion that tho people had no slight share of  
 freedom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:49.576868829337094,79.62021024075958,15.557122708039492,3.5266191929467614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:49.58627174424071,79.62774575185561,15.561824165491302,3.5266191929467614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ J duty. T give then in the order in which thev stand on the
 Washington, Patrick Henry. Richard Bland,&#x27;Benjamin Har- &#x27;  
 rison and Edmun! Pendleton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850031901:0286/pct:52.97195175119895,65.12971028214353,15.75352419706438,1.581139935618254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850031901:0286/pct:52.97195175119895,65.12971028214353,15.768056968463886,1.5906078394243515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ tation, that theis lregisietures should be aus
 or prevented, by hasty dissolutions,  
 from exercising their legislative powers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859110801:0441/pct:56.335710367526055,266.4906490649065,34.064728469555675,8.88888888888889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859110801:0441/pct:14.087791495198903,66.62266226622663,8.518518518518519,2.2222222222222223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ their representatives in the Continental
 Congress in regard to the Declaration  
 of Inder endence: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1882071401:0649/pct:279.1604197901049,217.5995544416597,48.425787106446776,58.47953216374269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1882071401:0649/pct:69.79010494752623,54.399888610414926,12.106446776611694,14.619883040935672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -138,7 +138,7 @@ In tc It&#x27;many whereof 1 have crnfrdthefe
 fesl of the United States of America to  
 be hereunto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793102601:0002/pct:49.71042471042471,5.361072214442888,42.857142857142854,88.69773954790958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793102601:0002/pct:49.71042471042471,5.361072214442888,42.865186615186616,88.71774354870975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ George i ajhington,
 By the President.  
 T&#x27;H. JerrFEßsoN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793110901:0121/pct:29.53763279964088,21.80376610505451,20.48481221008529,44.737363726461844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793110901:0121/pct:29.547608359519177,21.80376610505451,20.47982443014614,44.74727452923687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ mitted, by the laws of the land, to the Consuls
 of nations, between whom and the United  
 States, no Treaty or Convention exists, for per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0511/pct:27.964601769911503,19.144256722983105,19.3952802359882,7.35779266220134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0511/pct:27.964601769911503,19.144256722983105,19.3952802359882,7.367789663101069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ en Hundred and Ninety-five, and of
 -~ . the Independence of the United States  
 : of America the Twentieth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0511/pct:27.964601769911503,36.489053284014794,19.601769911504423,18.634409677096873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0511/pct:27.964601769911503,36.49238561764804,19.601769911504423,18.641074344363357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ letters to be made patent, and the seal
 of the United States of America to  
 be hereunto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798022001:0003/pct:55.908639523336646,32.21359530977658,15.764647467725919,26.0339090476945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798022001:0003/pct:55.914846077457796,32.225479321819044,15.777060575968223,26.0339090476945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ In testimony whereof, I have caunfed
 these letters to be made patent,  
 {r.s.) and the seal of the United
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798072401:0541/pct:5.898876404494382,49.1091642878236,16.853932584269664,14.223840929225318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798072401:0541/pct:5.898876404494382,49.1091642878236,16.85913441531419,14.230403254913542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ the faid S:atcs the twenty third.
 (3;«ncJJ JOHN ADAMS. 1  
 Ey the Prcfident
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798073001:0054/pct:1.4218009478672986,61.42973004286873,23.09004739336493,9.35001737921446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83045634:00332895059:1798073001:0054/pct:1.4215314632297196,61.42261353104727,23.09040940106141,9.351830398517146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ do hereby wholly revoke and annul the said exe.
 quateur heretofore given, and do declare the same  
 e te sheclotch anll and weid, from this day fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850011501:0073/pct:153.03822280300557,87.94758838811703,53.16889905259719,26.58985654580368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850011501:0073/pct:51.012740934335184,29.315862796039006,17.72296635086573,8.863285515267894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ irom tins day forward, January 4, i?ou.
 Mw Clayton explains this expulsion  
 to rest on the results of the trial of sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1850012601:0143/pct:77.8434851172876,61.89203634420096,21.919968460477037,14.71138428647782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1850012601:0143/pct:77.85662658518956,61.900944236593624,21.926539194428017,14.71583823267415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ By the president:
 P BeNAviN,  
 e  es etary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863060801:0270/pct:242.10948787927435,103.01495972382048,48.226039492695456,19.620253164556964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863060801:0270/pct:80.69020866773675,34.334368887354735,16.072766185125737,6.5393318758869325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ J. P. BEEAMIN,
 Secretary of State  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863061001:0226/pct:203.11948204826368,171.13924050632912,42.37786933490288,39.011452682338756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863061001:0226/pct:50.787343635025756,42.78481012658228,10.596026490066226,9.752863170584689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -756,7 +756,7 @@ L.8. Eyear of our Lord one thousand eight hundred and sixty­
 Isigned!JEFErSOn DAvIS.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863061001:0275/pct:105.49180327868852,235.03895801837422,43.49180327868852,26.910105826258867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863061001:0275/pct:35.1581707916735,78.33720930232558,14.494891547833689,8.968992248062015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ hereunto affixed ate States of America to be
  een e e an i i e e  
 L year of our Lord one thousand eight Mof June, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863061101:0277/pct:152.65139116202946,197.42003268736866,44.20621931260229,20.079383609619427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863061101:0277/pct:50.875470463099326,65.7989961480098,14.73299514536628,6.69234660129956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -862,7 +862,7 @@ L. S year of our Lord one thonsand eight hundred and sixty­
 8i ned JEEFERSON DAVIS.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863061201:0279/pct:146.60723130262505,135.75938468602916,44.543503384513784,27.39065549305476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184741:1863061201:0279/pct:48.861010234400794,45.247933884297524,14.845383514911411,9.129170492806857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -955,7 +955,7 @@ to be herewith affixed.
 |  
 Given under my hand this fift
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862701:1863061701:0425/pct:57.55426917510854,51.6977760127085,16.78726483357453,17.742255758538523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862701:1863061701:0425/pct:57.55426917510854,51.704395022504634,16.796912686927158,17.738946253640457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1007,7 +1007,7 @@ three, r
 Signed JEFFERSON DAVIS.  
 By the President 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879440:1863061901:0460/pct:3.781793842034806,17.15530436830331,59.554886211512716,110.8559990580478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879440:1863061901:0460/pct:2.846140967687929,12.86942187683975,44.68441319270048,83.13905569292358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1049,7 +1049,7 @@ affixed.
 (Signed) JEFFERSON DAVIS.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688258:1863070801:0169/pct:85.74117647058823,26.32398753894081,12.501960784313725,12.736640306733765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688258:1863070801:0169/pct:85.74117647058823,26.32398753894081,12.501960784313725,12.75261602364406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1176,7 +1176,7 @@ eighth.
 ABRAHAM LINCOLN.  
 By the PrEsIdENT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864052001:0559/pct:66.47780925401322,72.50777391622462,50.330500472143534,94.96981891348088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288853:1864052001:0559/pct:16.619452313503306,18.126943479056155,12.582625118035883,23.74245472837022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1211,7 +1211,7 @@ ercise and enjoy such functions, powers, and
 privileges as are allowed to the Consuls of the  
 most favored nations in the United States; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_englishsetter_ver01:data:sn83045462:0028065422A:1864052001:0019/pct:82.86377195889956,74.1800572309047,16.257872058336094,10.917895663658376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_englishsetter_ver01:data:sn83045462:0028065422A:1864052001:0019/pct:82.8762015246934,74.1800572309047,16.266158435531985,10.923398635263043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1247,7 +1247,7 @@ of the United States of America, the &amp;3tfe.
 Abraham Lincoln.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_englishsetter_ver01:data:sn83045462:0028065422A:1864052001:0019/pct:82.91349022207491,88.01452784503633,15.992707988067616,10.367598503191724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_englishsetter_ver01:data:sn83045462:0028065422A:1864052001:0019/pct:82.91763341067285,88.01452784503633,16.005137553861452,10.375852960598724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1326,7 +1326,7 @@ pendence of the United States of America the ceth.
 ABRAHAM LINCOLN.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864052101:0162/pct:8.012080298454432,238.00498753117208,49.671344821460295,36.072319201995015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864052101:0162/pct:2.670693432818144,79.33499584372403,16.557114940486766,12.024106400665005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1357,7 +1357,7 @@ dence of the United States of America the 38tn.
 ABRAHIAM LINOOLN.  
 By the Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743488:1864052101:0209/pct:249.0272373540856,79.08391688669498,46.092736705577174,19.60739295144071/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743488:1864052101:0209/pct:83.00907911802854,26.36130562889833,15.364245568525725,6.5357976504802355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1401,7 +1401,7 @@ abratiam LINCOLN.
   
 By tbe President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864052401:0001/pct:13.508805883491387,54.109384339509866,10.160634797754984,5.96234309623431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864052401:0001/pct:13.508805883491387,54.11312014345487,10.175149990323204,5.966078900179318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1446,7 +1446,7 @@ affixed
 Given under my hand at the city of  
 Washington, this twelfth day of Fel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053570:00237288968:1866021401:0161/pct:167.14697406340056,97.24402263186713,49.66378482228626,48.914035407921155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053570:00237288968:1866021401:0161/pct:41.78674351585014,24.31100565796678,12.415946205571565,12.228508851980289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1530,7 +1530,7 @@ States of America the ninetieth.
 ANDREW JOHNSON.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053570:00237288968:1866033101:0319/pct:81.58396946564885,77.19044170890659,49.52290076335878,53.511947863866766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053570:00237288968:1866033101:0319/pct:20.395992366412212,19.297610427226648,12.380725190839694,13.377986965966691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1566,7 +1566,7 @@ affived.
 Given under my hand at Washington,  
 the twenty-sixth day of March, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053570:00237288968:1866033101:0319/pct:81.6793893129771,167.12527154236062,49.61832061068702,50.76031860970311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053570:00237288968:1866033101:0319/pct:20.419847328244273,41.781317885590155,12.404580152671755,12.690079652425778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1623,7 +1623,7 @@ America the ninetieth.
 Amoukw Johnson.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654255:1866040201:0653/pct:50.674120355146336,43.202777476402304,19.681025978296613,9.721167408050341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654255:1866040201:0653/pct:50.67823084511674,43.202777476402304,19.681025978296613,9.729304545947706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1658,7 +1658,7 @@ United States of America the ninety-first.
 SNE AEDREW JOHNSON.  
 Ey the President.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743567:1866122301:0819/pct:58.123370981754995,107.49031945788964,46.91572545612511,24.697483059051308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743567:1866122301:0819/pct:19.374456993918333,35.83010648596321,15.638575152041703,8.232494353017103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1761,7 +1761,7 @@ Letters to be made Patent, and the Seal of the
 United States of America to be hereunto affixed  
 Given under my band at Washington, thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654280:1866122801:0176/pct:51.38623326959847,37.03506341255462,17.399617590822178,7.524245976766492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654280:1866122801:0176/pct:51.38623326959847,37.03772780560588,17.411567877629064,7.532239155920282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1794,7 +1794,7 @@ Anif rica tho ninety-flrsl.
 L. S. A 81 OH W JOHNSOX.  
 By the riesident
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776191:1866122801:0860/pct:86.8114406779661,28.638757970612698,18.76765536723164,11.533130024951483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776191:1866122801:0860/pct:65.12449231855906,21.485999445522594,14.07381246689034,8.649847518713612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1896,7 +1896,7 @@ dependence of the United States of America the blst.
 ANDREW JOlNsON.  
 By the President: Wit. H. SEwAnd, Secretary o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530844:1866122901:0849/pct:197.49626927541038,236.779324055666,48.23412369424639,27.27166413284996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:00206530844:1866122901:0849/pct:65.83208975847013,78.92644135188867,16.078041231415465,9.090554710949986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1945,7 +1945,7 @@ the plea that he is a consular officer of Olden­
 burg, thus seeking to use his official position  
 to defeat the ends of justice, it is deemed tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288956:1866122901:0628/pct:82.35831809872029,10.68814055636896,215.81352833638024,371.8887262079063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288956:1866122901:0628/pct:20.603704550651727,2.67203513909224,53.99039560942145,92.97218155197658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1980,7 +1980,7 @@ seala) eight hundred and sixty-six, and of
 the Independence of the United  
 States of America the ninety-first
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288956:1866122901:0628/pct:134.0036563071298,77.3792093704246,49.90859232175503,50.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053571:00237288956:1866122901:0628/pct:33.5238966384633,19.34480234260615,12.485707752115253,12.5/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2012,7 +2012,7 @@ independence of the United States of Americs, the
 ninety-first.ANDrEW JoHNson  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743567:1866122901:0866/pct:53.7593332175725,204.39547059539754,46.01493314811599,21.08851820284914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743567:1866122901:0866/pct:17.91977773919083,68.13182353179918,15.338311049371997,7.0295060676163805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2104,7 +2104,7 @@ the United States of Amorica the ninety-fourth.
 U. S. GRANT.  
 By the President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743701:1870051401:0546/pct:9.036144578313253,227.234857014186,54.70530771735591,20.535915334384146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743701:1870051401:0546/pct:3.0120481927710845,75.74495233806199,18.23510257245197,6.845305111461383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -58,7 +58,7 @@ their privateers, as well as their prizes,
 thofe of the nation the moft favored ; and,  
 in general the two parties fhall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800122201:0002/pct:28.187250996015937,63.66361864787888,21.887450199203187,4.63198920701544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_abyssinian_ver01:data:sn83045242:print:1800122201:0002/pct:28.19555112881806,63.66861539999001,21.879150066401063,4.646979463348823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ their prizes, shall be treated in their
 refpe&amp;ive ports as thdfe of the most  
 favored nation, and in general th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800122301:0414/pct:27.8010878010878,19.554989217800433,16.27039627039627,13.409135463634582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800122301:0414/pct:27.8010878010878,19.558256551003073,16.275576275576274,13.412402796837222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ spective ports as thofe ef the nation the
 nioft favoured; and, in general the tv i  
 parties fhall efijoy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801122301:0002/pct:43.87599847850894,57.758513931888544,16.12780524914416,3.9009287925696596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801122301:0002/pct:43.87599847850894,57.76676986584107,16.140484341321162,3.9009287925696596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ officers of the place. make examination
 concerning the lawfulnefs of fuch prizes;  
 but they may boil&#x27;t fail at any time and de- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801122301:0003/pct:22.753195673549655,5.998518884226117,17.246804326450345,3.1473710195013576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801122301:0003/pct:22.75975090134382,6.006747305192134,17.25335955424451,3.1473710195013576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ with the most favored nation ; this decree
 in reality making “no exceptions.” As to the  
 12th article, it merely provides for t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808121301:0263/pct:23.502804414691514,28.426586556515208,17.27881309933056,9.725873075478784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808121301:0263/pct:23.498552821997105,28.423028785982478,17.281717317896767,9.728827701293284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

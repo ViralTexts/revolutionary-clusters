@@ -102,7 +102,7 @@ taining his original view# as to the union of th?
 Judiciary with the Executive on the Veto pow­  
 er, moved an amendment to the resolution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841111801:1007/pct:17.72421127259837,2.0418646462052137,31.141439205955336,92.66726595608064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841111801:1007/pct:17.736027413446767,2.0418646462052137,31.135531135531135,92.67582723342322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ right to negative any legislative act which shall
 not afterwards be passed by-parts of each  
 branch of the National Legislature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841120201:0160/pct:18.65548734840545,90.625,14.957328941458302,3.894412878787879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1841120201:0160/pct:18.652694610778443,90.61427387856551,14.960079840319361,3.8978971870438315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ ed this check of the executive upo
 &quot; lature.&quot; This is the Veto of the Constitution.  
 Against it there were only two votes in the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1844091101:0149/pct:22.438304721030043,58.394863563402886,19.809549356223176,4.505082932049224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1844091101:0149/pct:16.838856836173353,43.798822899946494,14.866496712733127,3.3814874264312467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,13 +268,13 @@ tive shall have a right to NEGATIVE any
 44 branch of the National Legislature.&quot; This  
 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1844092101:0005/pct:23.491847826086957,58.996590355577204,20.04076086956522,4.1110569897710665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1844092101:0005/pct:17.62707257406904,44.2474427666829,15.03125849415602,3.088163662932294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n99/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1845-08_2_2/page/n99/mode/1up?view=theater)
 
 #### 1845-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -326,7 +326,7 @@ ercised. It was mentioned by Colonel Ham-
 liton that the king of Greal Britain had not  
 exerted his negative since the Revolution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848080101:0560/pct:18.74527588813303,364.55547391623804,51.54950869236583,11.403379867744306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848080101:0560/pct:4.687204687204687,91.13886847905951,12.88981288981289,2.8508449669360765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -391,7 +391,7 @@ Col Hamilton, that the King of Great Brit­
 ain had not exerted his negative since the  
 Revolution.&quot; (i. e. 1668.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848081001:0761/pct:219.01358112937814,145.63702258154447,49.82130092923517,14.831335377752996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848081001:0761/pct:54.77297104040043,36.40925564538612,12.45977833392921,3.707833844438249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ tioncd by Col. Hamilton, that the King of
 uiuai uriiam nan not cxcricu nis negative  
 since the Reiolulion.&quot; (i. c. 1033.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777341:1848081101:0131/pct:22.232063773250665,34.97672815031891,16.718334809565988,5.0336148939837955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:00280777341:1848081101:0131/pct:16.677740863787374,26.236855714531977,12.55813953488372,3.775211170487847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ King of Great Brittain had not exerted his
   
 negative since the revolution.&quot; (i. e 1638 .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1848081801:0503/pct:60.02921129503408,52.13858653993561,21.324245374878288,5.978844090142572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016872:00295878502:1848081801:0503/pct:45.05601558694593,39.107772497317185,16.0009741841208,4.491798252337881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ tioned by Col. Hamilton that the King of Great
 Britain had not exerted his negative since the  
 Revolution.&quot; (i. e. 1688.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848081901:0562/pct:84.47660586835845,50.25785278949836,19.052339413164155,5.157055789967182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:00200292443:1848081901:0562/pct:63.38754462514875,37.69338959212377,14.299880999603332,3.8756055633692763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ Cola Hamilton, that the king of Great Bri­
 tain had not exerted his negative since the  
 Revolution.&quot; G. e. 1688
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848082201:0689/pct:122.56744186046511,81.53967007069913,49.50697674418605,15.043205027494109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186488:1848082201:0689/pct:30.636160714285715,20.382248985469303,12.374441964285714,3.7603089409608588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ It was mentioned by Col. Hamilton, that the
 King of Great Britain had not exerted his  
 negative since the Revolation.&quot; G. e. 10s8.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848082601:1195/pct:10.0,113.94856278366112,59.83606557377049,14.09984871406959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296199:1848082601:1195/pct:2.5,28.48714069591528,14.959016393442623,3.5249621785173977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ Their report affords us authentic testimony ol
 what th.* Convention intended the veto power to  
 be. The Cummi tec reported the vetoclau.c as fol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848092601:0331/pct:31.834425253126863,28.483151491744714,13.713519952352591,5.18489910205658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848092601:0331/pct:31.839388524915623,28.489588362138328,13.708556680563827,5.18489910205658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ ting that &quot; th? national Executive shall have a right to :
 negative any legislative act which shall not afterwards be  
 passed by ptrts of each branch of the national legia- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855022701:0253/pct:36.839530332681015,6.69116715245216,15.932811480756687,2.0783170700798377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855022701:0253/pct:36.839530332681015,6.69116715245216,15.949119373776908,2.086765513454146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ of their office to make them judges of the folic* of public
 in ensure?, but that such power should belong to the Execu­  
 tive. Why ? Because it is not foreign to the nature o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031601:0335/pct:20.09102730819246,58.48158356301679,15.83224967490247,4.923578050613881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855031601:0335/pct:20.101863892501083,58.489935688632755,15.826831382748157,4.927754113421866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ nege ive any legislative act which shall not be afterward passe
 unlers by two-third parts of each branch of the Natior  
 Legislature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530649:1860041801:0772/pct:99.98385794995964,39.267750614106916,45.66585956416465,7.439466604281202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530649:1860041801:0772/pct:33.32795264998655,13.089250204702305,15.221953188054883,2.4798222014270674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

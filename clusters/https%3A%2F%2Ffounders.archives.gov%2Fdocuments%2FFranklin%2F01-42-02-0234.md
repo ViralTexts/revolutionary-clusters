@@ -361,7 +361,7 @@ lin, vol. 1, p. 585.
 
 ---
 
-## [From _The International Monthly Magazine of Literature, Science and Art (1850-1852)_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n22/mode/1up?view=theater)
+## [From _The International magazine of literature, art, and science_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n22/mode/1up?view=theater)
 
 #### 1852-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -404,7 +404,7 @@ Dr. Pise, and hoping this may prove satis­
 factory to all concerned, 1 remain your  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853033001:0328/pct:60.57115041375953,26.30314425989763,19.795554113256532,9.537240154601484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853033001:0328/pct:60.57115041375953,26.30836728298339,19.799610579263344,9.539851666144365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ before the enc of the year.&quot;
 Deeming, Mr Editor, an anology due to Dr Sise, and  
 boping this may prove sati-factory to al concerned I r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853050101:0910/pct:86.3170086035738,243.199636404954,60.17538054268696,18.7137825247131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853050101:0910/pct:28.772336201191266,81.066545468318,20.058460180895654,6.2379275082377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ ed he would be independent of the others, and
 even of the Pope; which I did not olearly under­  
 stand.&quot; (8ee vol. 1, Works of Franklin, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856111401:1201/pct:50.30257186081695,34.847982310668876,15.46142208774584,8.822553897180763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415661009:1856111401:1201/pct:50.30257186081695,34.847982310668876,15.476550680786687,8.829924451815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ founded on the fith day of November, lTrfl,
 and the l(K&gt;ih anniversary of tbii day is  
 the occ Ui he observed in the manner jos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092523:00383341814:1888021901:0098/pct:63.44817388732811,9.989949748743719,11.903001626497117,14.462311557788945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092523:00383341814:1888021901:0098/pct:63.4387936132466,9.988945834589488,11.906169919179973,14.464207952299601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ quainted me that the pope had, on my recom­
 mendation, appointed Mr. John Carroll  
 superior of the Catholic clergy in America.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1888031701:0463/pct:132.9093799682035,327.4366794854794,57.472178060413356,11.93475666357247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1888031701:0463/pct:33.240556660039765,81.85916987136984,14.37375745526839,2.9836891658931175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -701,7 +701,7 @@ Oa the other hand the Uuited States
 is for ever indebted to a faithful aud  
 devoted son of the Church for the pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1889122101:0170/pct:36.06369244010902,72.00648889790125,13.914789843637928,10.524181283585117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1889122101:0170/pct:36.06369244010902,72.00648889790125,13.929134987806627,10.530940552232249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ L flrf M1I
 one the latter might havo turned the  
 former out of his kingdo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00206534485:1893052101:0560/pct:17.549775208734747,3.7521318931210916,25.995504174694926,96.06594656054577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00206534485:1893052101:0560/pct:17.549775208734747,3.7521318931210916,25.995504174694926,96.07352662497631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -846,7 +846,7 @@ would almost always carry his points
 gainpt, the most flourishing orator  
 bo had not the character of sincer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536512:1893052201:0239/pct:151.49501661129568,249.63534069597833,50.83056478405316,131.11064805167743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536512:1893052201:0239/pct:37.905236907730675,62.40883517399458,12.718204488778055,32.77766201291936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ and John Wilkes a good one, the lat­
 ter might have turned the former out  
 of his kingdo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536512:1893052201:0239/pct:204.65116279069767,158.8664305063555,50.055370985603545,17.503646593040216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071158:00206536512:1893052201:0239/pct:51.20532003325021,39.716607626588875,12.524244943197562,4.375911648260054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -126,7 +126,7 @@ any service to you, or any gratification to your
 curiosity, here you have it, from sir your friend  
 and humble servant, JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827120301:0396/pct:24.80040767793443,43.73285629099583,18.600305758450823,49.31425163983304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827120301:0396/pct:24.796195652173914,43.727641306940136,18.602807971014492,49.31234597344781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ be established, that “ in this way, a single month is
 sufficient, without convulsion or animosity, to accom­  
 plish a total revolution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850062701:0802/pct:63.753007217321574,71.7901058049757,14.534883720930232,1.64426651415499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1850062701:0802/pct:63.74022850270595,71.77984274481773,14.536981358989777,1.6476054324517513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ A hanr Ants ro Frorser Heaatthe
 respectably dressed individual of the  
 genus loafer insulted a lady on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866042601:0397/pct:139.14772727272728,321.13728338694614,37.21590909090909,20.711839784165196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293812:1866042601:0397/pct:34.801762114537446,80.28432084673653,9.30794372601961,5.177959946041299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ against the other two that the efforts in human nature
 toward tyranny can alone be checked and restrained  
 and any degree of freedom preserved in the Constitu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872060101:0241/pct:53.46054333764554,62.98431734317343,48.67399741267788,7.714483394833948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531101:1872060101:0241/pct:17.82018111254851,20.994772447724475,16.22466580422596,2.5714944649446494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ toward tyranny can alone be checked and re-­
 strained and any degree of freedom preserved in  
 the Constitution. Then, again, the same authorit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:60.972447325769856,187.89612172520307,45.607779578606156,6.246424894176868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743786:1872060101:0802/pct:20.32414910858995,62.63204057506769,15.20259319286872,2.082141631392289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

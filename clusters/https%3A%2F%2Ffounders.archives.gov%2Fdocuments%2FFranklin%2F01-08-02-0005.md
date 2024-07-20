@@ -3463,7 +3463,7 @@ gins upon page 99, section 16:-&quot;And we do further
 for us, our heirs and successors, give, grant, ratify and  
 confirm, unto the said Mayor. Aldermen, and Com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853022501:0419/pct:102.99109393379264,205.09349546862452,47.28617039153084,5.655615464035792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853022501:0419/pct:34.330364644597545,68.3644984895415,15.762056797176944,1.8852051546785973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3525,7 +3525,7 @@ laws whatever,
 1718, entitled &quot;an act for the advancement of  
 justice and more certain admisistration ther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477795:1861020601:0217/pct:22.49679075738126,111.72081829121541,19.961489088575096,1.3357400722021662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477795:1861020601:0217/pct:16.888746187188953,83.79061371841155,14.978327179322523,1.0108303249097472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3541,7 +3541,7 @@ justice and more certain admisistration ther
 1718, entitled &quot;an act for the advancement of  
 justice and more certain administration there
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477795:1861022701:0227/pct:44.01273885350319,85.32099062274585,19.570063694267517,1.2983890358259198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn85054616:00212477795:1861022701:0227/pct:33.02533057192927,63.99374849723491,14.688545483511232,0.9737917768694397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3611,7 +3611,7 @@ conscience, in this Provluoe, &#x27;Be It further en­
 acted,&#x27; thut according to the example of the  
 primitive Christians, and for the ease of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867110801:0474/pct:25.535714285714285,65.2861340422555,19.339285714285715,6.058486078074717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867110801:0474/pct:19.164136452938024,48.97159647404506,14.502589748169315,4.547362529732755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4186,7 +4186,7 @@ by the solemn affirmation allowed by act of
 parliament to those called Quakers, in Great  
 Britain; which affirmation of such person
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776506:1885121601:0145/pct:172.95029051000645,147.23095525997581,40.8005164622337,21.910519951632406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776506:1885121601:0145/pct:43.24455205811138,36.807738814993954,10.201775625504439,5.477629987908101/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4435,7 +4435,7 @@ ctrovinee from this point shows an inces­
 sant struggle between popular rights and  
 prerogative. The second Assembly of the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623926:1892021301:0038/pct:4.526112185686654,69.09791607193834,11.547388781431335,3.910933485583785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623926:1892021301:0038/pct:4.539007092198582,69.09791607193834,11.547388781431335,3.910933485583785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

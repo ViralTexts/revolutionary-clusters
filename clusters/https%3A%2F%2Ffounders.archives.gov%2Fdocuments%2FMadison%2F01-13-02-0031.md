@@ -55,7 +55,7 @@ one part of which waa supposed to apply
 f?r an unconstitutional Interference by the  
 General Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863079:1836031201:0024/pct:40.87982832618026,15.391812865497077,24.26680972818312,16.900584795321638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863079:1836031201:0024/pct:40.89175011921793,15.399610136452242,24.26680972818312,16.900584795321638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ miht be made in relation to the iutroduc:
 lion of them into the new Slates to be form­  
 ed of the Western territory.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1847022701:0538/pct:27.88740568775392,28.47007666781096,20.284387695879282,12.816111683258955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1847022701:0538/pct:20.9288824383164,21.35255750085822,15.224963715529753,9.623526719304268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ tion, and regulations might be made in relation to
 iheintroduclioh of them into the new Stales to be  
 formed out of the Western Territory.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847030301:0037/pct:85.96897114861187,33.34732864490396,20.100707675557974,8.890521675238794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847030301:0037/pct:64.49768581540975,25.01312060459746,15.083038388238498,6.6652671355096045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ lions might be wade ia relation to the iutrottuc
 lion of tbem slaves into the new States to be  
 formed out of the western territory.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848072201:0232/pct:40.825688073394495,28.365937859608746,17.382044560943644,1.7491369390103568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848072201:0232/pct:30.62428313943962,21.277330264672038,13.04276585285925,1.3118527042577675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ might be made in relation to the introduction of them and hi
 (slaves] into the new States to be formed out of the the rei  
 western territory.&quot; const
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848091701:0933/pct:16.429475015812777,78.1003629082718,17.409867172675522,3.9669628331873357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848091701:0933/pct:16.429475015812777,78.10870562716389,17.409867172675522,3.9669628331873357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ ihall it be committed to investigate facts? The
 vetition speaks of none For what purpose,  
 ben, shall it be committed ? If g
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853090801:0828/pct:45.756718528995755,9.961649089165867,27.524752475247524,28.15915627996165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853090801:0828/pct:45.756718528995755,9.968040907638223,27.543611504007544,28.15596037072547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ tion of them into the new States to be formed out
 of the Western Territory. He thought the ob&gt;ect  
 well worthy of consideration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853090801:0828/pct:45.7991513437058,11.860019175455417,28.98161244695898,40.939597315436245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853090801:0828/pct:45.7991513437058,11.866410993927772,28.995756718528995,40.939597315436245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ to current events. &quot;Though Congress,&quot; he said,
 &quot;into the nete States, make regulations such as were  
 &quot;beyond their power in relation to the old settle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856092301:0580/pct:154.44640282006088,199.8840982846546,46.30668162153501,15.542420027816412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530510:1856092301:0580/pct:51.48213427335363,66.62803276155154,15.43556054051167,5.180806675938804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ lition, and regulations might be made in relation to the
 introduction of them into the neme States to be formed ong  
 of the Western territory. He thought the object wel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857042401:0280/pct:79.66903073286052,99.59158977461806,51.30023640661938,10.104371502042051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857042401:0280/pct:19.92118226600985,24.897897443654514,12.827586206896552,2.5260928755105128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ rial been treated in the usual way, it
   
 would have been considered, as a matter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858090701:0302/pct:43.333333333333336,44.26798345122114,16.959876543209877,5.351661550780729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858090701:0302/pct:32.510033961099104,33.20432403576672,12.735412164248224,4.0170826104364075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ to be apprehended. The petition prayea,
   
 in general terms, for the interiercnce oi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858090701:0302/pct:25.74074074074074,42.172694514880554,84.02777777777777,14.760443080208194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858090701:0302/pct:19.311515899969127,31.629520886160417,63.04414942883606,11.077005204857867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ Iib oheved thouirh human laws say no ? niitrht be committed, as was the case ou
   
 We answer, there w a Hiirher Law which is Mr. Churchman&#x27;s petition, one part of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858090701:0302/pct:25.80246913580247,57.01321233150941,34.72222222222222,4.377418924329374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858090701:0302/pct:19.357826489657302,42.759909248632056,26.05742513121334,3.2830641932470304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ all tho human laws that can be made while constitutional interference by the Gen
   
 mankind shall live.cannot absolve a single Government. He admitted that Congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858090701:0302/pct:25.95679012345679,61.49739757106633,34.5679012345679,2.629120512478313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296027546:1858090701:0302/pct:19.481321395492436,46.12304817829975,25.9339302253782,1.9751768317095957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -788,7 +788,7 @@ MR. GRundY on tnOlirIoN PEtiriONs.
 &quot;Therefore, if there were no constitutional doubts existing, fas to  
 the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860081301:0148/pct:92.23573433115061,89.89476066538418,37.854692859370125,37.863528346724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860081301:0148/pct:30.74045206547155,29.96152975786377,12.616263964666148,12.61974805762993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +988,7 @@ Chnrchmans’s petition, one part of which
 w as supposed to apply for an unconstitution­  
 al interference by the Genetal Government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1860090101:0032/pct:5.406427221172023,59.79381443298969,16.049149338374292,18.387233441604295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1860090101:0032/pct:4.199833960052742,46.34804815760671,12.438345460760853,14.253921926304269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

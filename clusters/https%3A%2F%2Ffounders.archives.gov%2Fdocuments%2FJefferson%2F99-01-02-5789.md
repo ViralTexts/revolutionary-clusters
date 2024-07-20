@@ -122,7 +122,7 @@ not have strength to accomplish. When then we have
 seen a disease cured by a certain sarural evacuation,  
 should that disase occur aruin, we tay count upen e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842090901:0297/pct:152.92479108635098,196.0645235098959,51.43372112076028,34.847271479235786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842090901:0297/pct:50.97493036211699,65.3548411699653,17.144573706920095,11.615757159745261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ and do effectually what she might not have strength to ace
 complish. When, then, we have seen a disease cured by a  
 certain NAteeal evacnation, should that disease occu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842091001:0146/pct:199.40889611349195,213.54891526811298,48.24885473621989,25.828898894801473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842091001:0146/pct:66.46963203783065,71.18297175603766,16.082951578739962,8.609632964933825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -192,7 +192,7 @@ should that disease occur again, we may count upon cu
 ring it by the use of such substances, as we know bring  
 about the same evacuation, which we had before observe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842091001:0301/pct:153.2068062827225,14.484263726165862,100.35994764397905,282.51780381346197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743166:1842091001:0301/pct:51.06893542757417,4.828087908721955,33.453315881326354,94.172601271154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ the first degree of value set on clinrical ob­
 ervations, and the lowesf on visionary the­  
 nies. (See Jefferson&#x27;s letter to Dr. Wis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1843070501:0500/pct:17.94453507340946,330.7872174590803,51.876019575856446,42.15120810600156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1843070501:0500/pct:4.486133768352365,82.69680436477007,12.969004893964112,10.53780202650039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1860,7 +1860,7 @@ most conclusively, that ‘ the doctrines of the
 schools have been a succession of the grossest  
 absurdities
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847022101:0004/pct:19.447123111539696,41.326469531904706,10.736097717775635,4.285885310666826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847022101:0004/pct:19.45917711346834,41.329462468574164,10.724043715846994,4.297857057344666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1886,7 +1886,7 @@ hypotheses, for sober facts; the first degree of
 value set on clinical observations, and the lowest  
 on visionary theories?—Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847022101:0004/pct:19.54355512696882,45.67221357596073,10.671809707489553,4.070393870465701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847022101:0004/pct:19.551591128254582,45.67221357596073,10.687881710061074,4.070393870465701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1999,7 +1999,7 @@ sound principles in this branch of science,
 the most important of all others,.being that to  
 which we commit the care of health and life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1849090201:0001/pct:47.324414715719065,39.447207123857986,9.638187899057463,36.347866312015725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110004:1849090201:0001/pct:47.33201581027668,39.447207123857986,9.641988446336272,36.362322192667975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

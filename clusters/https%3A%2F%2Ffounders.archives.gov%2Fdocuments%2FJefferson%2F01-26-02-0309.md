@@ -283,7 +283,7 @@ tioner (the inventor), his heirs, administra­
 tors, etc., for any term not exceeding four­  
 teen years, the soul and exclusive right o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103085:1886121401:1221/pct:239.0753169276659,120.68039391226499,43.10216256524981,35.7505222321695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103085:1886121401:1221/pct:59.7911227154047,30.170098478066247,10.779559865721746,8.937630558042375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ teen years, the soul and exclusive right o
 ~ fourteen years the sole right to make,  
 ~ use and sell the invention
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_tahoe_ver01:data:sn84030031:0022072041A:1887111101:0004/pct:2.2955523672883786,89.25207234363225,16.298421807747488,4.050489826676714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_tahoe_ver01:data:sn84030031:0022072041A:1887111101:0004/pct:2.305117168818747,89.25835217282089,16.28885700621712,4.050489826676714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

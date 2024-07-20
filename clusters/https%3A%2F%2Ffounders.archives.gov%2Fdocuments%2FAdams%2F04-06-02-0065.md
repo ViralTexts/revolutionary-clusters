@@ -353,7 +353,7 @@ isburv and LadvTaihoi; lc.it tlm observe - J
 tion Aid not in general linl 1 good, that &#x27;  
 line leathers make fine birds.&quot; j 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861794:1840110401:0010/pct:49.24504561182762,1.6504854368932038,32.29002831078956,95.74029126213593/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861794:1840110401:0010/pct:49.24504561182762,1.6585760517799353,32.29527104959631,95.74433656957929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ and Lady TaShot; hut the observation
 did not in general hold good, that  
 line feathers make tine birds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861794:1840110401:0011/pct:49.3805864826721,0.29257588687065705,34.93805864826721,97.28148238449347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:00295861794:1840110401:0011/pct:49.38581360096179,0.3007029948392864,34.948512884846586,97.27741883050916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ i.shurv and Ladv Talbot; but th? o&#x27;?serv?.Uou
 did not hi general boil good, that !  
 tine feathers make tine birds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:0029586185A:1840110402:0266/pct:49.80209216850438,4.037658934290983,33.2767882386203,94.29292439095408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85042795:0029586185A:1840110402:0266/pct:49.80680425973047,4.044129541557475,33.2767882386203,94.28968908732085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -950,7 +950,7 @@ pins.&quot; As to the other ladies present, she
 declares that most of them were very plain  
 ill shaped and ugly. Nor did she co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022168:00296025185:1868062001:0123/pct:202.42130750605327,134.9112426035503,53.753026634382564,19.011261691162435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022168:00296025185:1868062001:0123/pct:50.62064789585226,33.72781065088758,13.442325158946412,4.752815422790609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1064,7 +1064,7 @@ up by a ribbon. She wore treble lace ruffles, a
 dress cap with long lace lappets and two white  
 plumes, these last doubtless soaring straigh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210041:1884021601:0360/pct:26.97636511817441,41.800834824090636,18.317033414832927,4.546809779367919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210041:1884021601:0360/pct:20.91162692773304,32.403912809058,14.200747407758303,3.527690056227374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1136,7 +1136,7 @@ wore treble lace ruffles, a dress cap with
 long lace lappets and two white  
 plumes, these last doubtless soarin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285025:1884030701:0414/pct:213.60824742268042,117.4013921113689,54.982817869415804,18.37587006960557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285025:1884030701:0414/pct:53.411239044509365,29.350348027842227,13.748066678123388,4.593967517401392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1159,7 +1159,7 @@ bon. She wore treble lace ruffles, a
 dress cap with long lace lappets and two  
 white plumes, these last doubtless soar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1884040501:0062/pct:72.74935695913118,33.71350842314534,11.160331523292369,4.426075128178299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1884040501:0062/pct:72.75412022482614,33.71350842314534,11.160331523292369,4.43305081789962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ bon. She wore treble lace rufflas a
 dress cap with long lace lappets and  
 two white plumes, those last doubtles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769350:1884041701:0822/pct:82.86400640597891,34.88709343277398,10.703323101561457,3.9776258545680547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769350:1884041701:0822/pct:82.86845500244672,34.89399903321594,10.698874505093643,3.9776258545680547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1203,7 +1203,7 @@ She wore treble lace ruffles, a dress
 cap with long, lace lappets, and two white  
 plumes, these last doubtless soaring straigh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1884042401:0392/pct:16.120576671035387,24.34288854290686,14.980340760157274,3.5351222639435846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1884042401:0392/pct:16.120576671035387,24.34594132551821,14.989078200087375,3.538175046554935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1226,7 +1226,7 @@ bon. She wore treble lace ruffles a
 dress cap with long lace lappets and  
 two white plumes, these last doubtles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769477:1884052901:0589/pct:64.1701217065668,27.022929694902405,13.949444964557978,4.775440591245026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769477:1884052901:0589/pct:64.17457982256698,27.022929694902405,13.962819312558512,4.775440591245026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1270,7 +1270,7 @@ wore treble lace ruffles, a dress cap
 with long lace lappets and two white  
 plumes, these last doubtless soarin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1884080701:0338/pct:46.11570247933884,46.43290329694564,9.476584022038567,3.3410519351637444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1884080701:0338/pct:46.11570247933884,46.43290329694564,9.4811753902663,3.3520785092071894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

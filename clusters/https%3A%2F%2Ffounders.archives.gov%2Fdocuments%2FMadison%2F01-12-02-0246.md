@@ -144,7 +144,7 @@ suppose that it ought to move towards those who
 molt want its protection.  
 The queition on this motion was taken an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789090901:0003/pct:3.5231943628890194,13.548387096774194,25.01467997651204,15.38899430740038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789090901:0003/pct:3.537874339401057,13.55787476280835,25.0,15.398481973434535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ made by the Member from Maflachufetts. I wifti they would
 prove that the place which they have pitched upon, is in fa£t the  
 permanent center, and New-York the temporary center of wealth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091201:0001/pct:3.719976567076743,22.24971450323563,24.63386057410662,5.767034640274077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091201:0001/pct:3.734622144112478,22.2544727826418,24.63386057410662,5.77655119908641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ day&#x27;s proceeding have been forefeen in the Convention of Virgin­
 ia, it would have obviated many objections that were there pro­  
 duced againit the Constitution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091201:0001/pct:56.619800820152314,28.207080319756376,25.834797891036906,4.45374952417206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091201:0001/pct:56.63444639718805,28.211838599162544,25.842120679554775,4.45374952417206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ magnitude has occupied weeks. This business prefects an afpeCk ;
 it marks a genius in this body, which will cootradiCt the expecta­  
 tions of its warmest friend*. I wiftx to make many observation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091201:0001/pct:56.795547744581135,46.23144271031595,25.717633274751027,4.415683288922725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789091201:0001/pct:56.802870533099004,46.24095926912828,25.739601640304627,4.425199847735059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ consistent with convenience to the navigation of the
 Atlantic Ocean, and having due regard to the situation  
 of the Western country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830031501:0560/pct:24.392857142857142,77.89083073976538,18.517857142857142,4.488867608331338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830031501:0560/pct:24.388502053204785,77.88150807899461,18.520502291257515,4.492319968082985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ cating on the Susquehanna, it was said that
 the population was receding from the East.  
 To this Fisher Ames replied: ‘West, of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557967:1857091201:0147/pct:33.14596215102117,69.71244289169579,14.652426456810943,6.920182746573502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557967:1857091201:0147/pct:33.15064643057897,69.71916151572158,14.652426456810943,6.923542058586402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ tbe navigation of the Atlantic Ocean, and having
 one regard to the particular aituatlon of the West­  
 ern country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869101901:0002/pct:50.066401062417,33.71327660940761,8.840827167520395,2.2796596564456575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869101901:0002/pct:50.08062986150635,33.71327660940761,8.831341301460823,2.2957135976882324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ Atlantic Ocean, and
 regard for the particular situation of  
 the Western country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293009:1869102401:0499/pct:26.29080118694362,164.35602094240838,38.21958456973294,13.821989528795811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293009:1869102401:0499/pct:6.57367561952812,41.089005235602095,9.556313993174061,3.4554973821989527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ the Atlantic Ocean, and having due
 regard for the particular situation of  
 the Western country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293009:1869102501:0505/pct:100.11820330969267,170.8656466149654,37.234042553191486,14.001257597987843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293009:1869102501:0505/pct:25.033249593616077,42.71641165374135,9.309886212501848,3.5003143994969608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ convenience to the navigation of the Atlantic Occan, and
 having due regard to the particular situation of the  
 Western country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531071:1871012801:0194/pct:56.2795089707271,60.57713651498335,48.756688700031475,8.634850166481687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531071:1871012801:0194/pct:18.7598363235757,20.192378838327784,16.25222956667716,2.878283388827229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ mining the great question that had agitated the
 minds of the people for several years. We  
 might be assured. he said. tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1879102501:0131/pct:2.781289506953224,19.92940537605213,13.50912046234423,4.76513711648113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_yorkie_ver01:data:sn83045462:00280654528:1879102501:0131/pct:2.7933297212690387,19.93845596886596,13.515140569502137,4.760611820074215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ territory as maj fee consistent with the convenience
 to the navigation ot the Atlantic ocean,  
 and having due regard t j the sit iation of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654541:1880112001:0157/pct:2.87135749822317,56.358626536668076,14.797441364605543,2.91437049597287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654541:1880112001:0157/pct:2.8820184790334045,56.361275964391695,14.800995024875622,2.9196693514200933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ the board of commissioners was abolished.
 The act Incorporating &quot;the inhabitants of  
 -the city of Washington, In the District o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897061201:0114/pct:56.43788996029495,37.27260102763505,13.953488372093023,4.652131648382169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_havanese_ver01:data:sn83045462:00280655144:1897061201:0114/pct:56.442616751748915,37.27260102763505,13.962941955000945,4.672962088598806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

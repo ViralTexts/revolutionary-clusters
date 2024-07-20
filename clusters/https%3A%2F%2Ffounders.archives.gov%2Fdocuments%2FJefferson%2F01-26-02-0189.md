@@ -49,7 +49,7 @@ granted to then ax*„ utiz.es to lead them to com­
 mit ads contrary to the duties they owe their  
 own country.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807010501:0112/pct:57.30673316708229,54.589421691706114,17.2402327514547,9.775674006997324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807010501:0112/pct:57.297207446808514,54.58380491820146,17.24152260638298,9.777240456837124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

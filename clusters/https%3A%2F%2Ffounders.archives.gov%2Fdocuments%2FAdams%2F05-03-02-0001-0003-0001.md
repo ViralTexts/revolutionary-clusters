@@ -351,7 +351,7 @@ form of the statate in such case made and provided,
 and against the peace of the people of the State of New  
 York and their dignity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855032401:0672/pct:148.47261235955057,50.562749606680384,46.89255617977528,17.80225099842672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:0027174321A:1855032401:0672/pct:49.49087078651685,16.85424986889346,15.630852059925093,5.93408366614224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ the jurors aforesaid unknown, him the said Robert M.
 Rigdon, in manner and form aforesaid, feloniously, wil­  
 fully and of their malice aforethought,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026335:1858110901:0469/pct:39.52009251228679,58.55382750959402,11.347210176351547,7.64492021813775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026335:1858110901:0469/pct:39.52009251228679,58.55719383289571,11.356846872891973,7.65165286474113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -455,7 +455,7 @@ known, him the said Robert M. Rigdon, in manner
 and form aforesaid, feloniously, wilfully and of  
 their malice aforethought,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859010301:0014/pct:37.476992779272265,31.73873963846999,11.085940818349144,9.627484270448416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859010301:0014/pct:37.48171220916513,31.73873963846999,11.081221388456274,9.637471287326475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ white man to the jurors aforesaid unknown, him the said
 Robert M. Rigdon, in manner and form aforesaid, feloni  
 ously, wilfully and of their malice aforethought,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859010601:0024/pct:49.38131133551415,44.789268195014515,11.150618688664485,6.166783461807989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026347:1859010601:0024/pct:49.386052244820554,44.789268195014515,11.155359597970891,6.180131477959089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ win Coppee and Shields Green in the felony and murder
 aforesaid, in manner aforesaid to commit. And so the  
 jurors aforesaid, upon their oaths, do say that the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743336:1859103001:0562/pct:50.02578648788035,165.4819921549982,46.00309437854564,8.463092832521099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743336:1859103001:0562/pct:16.675262162626783,55.160664051666075,15.334364792848547,2.8210309441736996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ lohn Copeland, then and there, fe-
 lonicusly willfully, and of his malice aforethought, was present.  
 aiding helping abetting comforting and assisting the said Johi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859103101:0433/pct:247.47491638795987,104.5608108108108,47.290969899665555,10.424710424710424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859103101:0433/pct:82.49163879598662,34.8536036036036,15.763656633221851,3.474903474903475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ form aforesaid, feloniously, voluntarily,
 and of his malice aforethought, himself  
 lid kill, strangle, and murder, against th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861022701:0486/pct:0.0,243.2943795214246,59.2964824120603,9.961046188091263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1861022701:0486/pct:0.0,60.82359488035615,14.830330959363218,2.4902615470228158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ ham Lucas and George Lucas, then and there, in
 manner and form aforesaid, feloniously killed  
 and murdered the said Byron Knight against th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863103101:0430/pct:69.70260223048327,334.5403410089647,49.62825278810409,5.238178941817543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863103101:0430/pct:17.425650557620816,83.63508525224117,12.407063197026023,1.3095447354543857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -597,7 +597,7 @@ I de say that tha said Semo and John
 Ormick, the said Michael Gibbs then and  
 thare in manner and form aforesai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866020501:0545/pct:139.44954128440367,55.131663455362876,38.92529488859764,15.876685934489403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866020501:0545/pct:34.862385321100916,13.782915863840719,9.73132372214941,3.969171483622351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ H. Fowler then and there instantly
 died, and that the said Davis B Bon  
 foey with the means aforesaid, the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1867081701:0718/pct:64.34744072678927,306.2721132196848,40.35009971194327,11.016403988420715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520956:1867081701:0718/pct:16.083296411165264,76.55571635311144,10.085290208241029,2.7536581443962054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1949,7 +1949,7 @@ and the territory aforesaid:
 And so the Jurors aforesaid, upon their  
 oath aforetald. do say that the said Henrj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1897111701:0157/pct:57.68939393939394,112.06561023074785,16.666666666666668,4.545454545454546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dred_ver01:data:sn86063615:00211109130:1897111701:0157/pct:43.292913982569154,84.05615790936892,12.504736642667677,3.405615790936892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -97,7 +97,7 @@ GIVEN at Head Quarters, Morris Town,
 . By bis Excellency’s Command, .  
 Rosert H. Harrison, Sec’ry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1777021101:0145/pct:5.123239436619718,3.6314655172413794,29.031690140845072,64.66594827586206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1777021101:0145/pct:5.129107981220657,3.6314655172413794,29.031690140845072,64.67313218390805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ happiness of their country, forthwith to withdraw
 themselves and families within the enemy’s lines.”  
 Such a permit from General Scott, with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861090401:0003/pct:22.96153846153846,70.24721700159029,10.23076923076923,5.739482434581466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861090401:0003/pct:22.96153846153846,70.24721700159029,10.245192307692308,5.753939569177389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ the freedom and happiness of their country,
 for thwith to withdraw themselves and famil  
 ies within the enemy&#x27;s lines.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1861092001:0171/pct:186.70295489891134,199.87908101571946,51.16640746500778,34.220072551390565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1861092001:0171/pct:46.70297607469364,49.969770253929866,12.799066329507879,8.555018137847641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -564,7 +564,7 @@ the freedom and happiness of their country,
 forthwith to withdraw themselves and faml  
 lies within the enemiy&#x27;s lines.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1861092701:0367/pct:79.95321959273528,254.05547937981225,35.016510731975785,29.53274970994621/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523891:1861092701:0367/pct:26.647406795982942,84.67622864374604,11.670564497638374,9.843211699360191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -598,7 +598,7 @@ of their country, forthwith to withdraw
 themselves and families within the enemy&#x27;s  
 lines.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861100501:0724/pct:278.49829351535834,275.98623245962403,51.262798634812285,39.81996293354514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1861100501:0724/pct:69.6483441447593,68.99655811490601,12.820075110959372,9.954990733386285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ and happiness of their country, forth­
 with to withdraw themselves and fami  
 lies within the enemy&#x27;s lines.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1861101001:1003/pct:91.71251719394773,37.088092424839175,15.887207702888583,5.7240383353026125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1861101001:1003/pct:68.82848787201101,27.819351450702378,11.921555135042146,4.293028751476959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ G. WASHINGTON.
 &quot;By his Excellency&#x27;s command,  
 &quot;RonERt H. HARRISON, Seo&#x27;ry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293770:1864022701:0201/pct:110.46575342465754,140.64400358887448,43.50684931506849,85.37533645698335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293770:1864022701:0201/pct:27.627792243387695,35.16100089721862,10.881184048239003,21.343834114245837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ AmErIcA:
 These are to certify that the bearer here­  
 of, John Kindal, a serieant in the third
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293022:1870080601:0149/pct:70.96569250317663,282.6696578799776,41.04193138500635,31.901289960740325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293022:1870080601:0149/pct:17.741423125794157,70.6674144699944,10.260482846251588,7.975322490185081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ alley Fo rge, this 2&#x27;Jtli day of Decemhev,
 By His Excellency&#x27;s command, Robert H.  
 Hickory, Secretary
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287356:1890040201:0183/pct:42.65045405571802,88.24658703071673,15.299368939510543,2.175767918088737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287356:1890040201:0183/pct:42.65045405571802,88.25369738339022,15.304499512595557,2.172212741751991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -81,7 +81,7 @@ for Ramage near two hours to-day, who was
 drawing a miniature picture of me for Mrs.  
 Washington.&quot; What is believed to be thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175044991:1892022801:0713/pct:179.16981132075472,219.9602628763564,50.0377358490566,5.502063273727648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_milosz_ver01:data:sn83030272:00175044991:1892022801:0713/pct:44.80090583128892,54.9900657190891,12.511794678241177,1.375515818431912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ two hours to-day, who was drawing a
 miniature picture of me for Mrs.  
 Washington.” What is believed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152615:1892042101:0120/pct:54.40389294403893,72.97470381043868,15.344687753446877,2.2094140249759846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152615:1892042101:0120/pct:54.40929981075966,72.98181947557548,15.350094620167614,2.202298359839186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ hours to-day, who was drawing1 a min­
 iature picture of me for Mrs. Washing­  
 ton.&quot; What is believed to be this iden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026499:1892042201:0509/pct:55.14277793179928,34.966471987886656,9.744940393678958,1.5574302401038287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026499:1892042201:0509/pct:55.14277793179928,34.966471987886656,9.754181683763054,1.5682457278823274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ hours to-day, who was drawing a min­
 iature picture of me for Mrs. Washing­  
 ton.&quot; What is believed to be this iden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152524:1892042801:0487/pct:23.874118285404233,77.01250274182935,9.617471513836136,1.5792937047598157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152524:1892042801:0487/pct:23.883161512027492,77.01250274182935,9.608428287212877,1.5866052496892593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ near two hours to-day, who was draw­
 ing a miniature picture of me f  
 W ashington.&quot; What is believed to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn86053634:00212478039:1892072001:0324/pct:102.19206680584551,8.186514770168234,15.24008350730689,2.54338322956683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_mateer_ver01:data:sn86053634:00212478039:1892072001:0324/pct:76.67942916811695,6.1465094714531725,11.434041072050121,1.9075374221751225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

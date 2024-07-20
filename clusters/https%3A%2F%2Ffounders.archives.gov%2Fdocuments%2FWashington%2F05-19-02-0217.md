@@ -87,7 +87,7 @@ plication now
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n3/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n3/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -120,7 +120,7 @@ nations of the esrth; to share in the broils of none; ?o
 fulfil our own engagements; to mppljr the wants and to be  
 carriers lor them ail,&#x27;* ft a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852051501:0473/pct:51.878324468085104,92.90617848970251,15.940824468085106,2.6315789473684212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852051501:0473/pct:51.878324468085104,92.914653784219,15.94636524822695,2.6315789473684212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ fatth in the people, his deference to the
 popular will when calmly manifested, was  
 as profound as that of Linooin. In his fe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199367:1896022201:0690/pct:17.51824817518248,266.3916449086162,37.59124087591241,17.16971279373368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199367:1896022201:0690/pct:5.839416058394161,88.79721496953873,12.530413625304137,5.723237597911227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

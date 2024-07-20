@@ -129,7 +129,7 @@ freedom, would be my choice &gt;’
 These opinions of the mischievous effeets of grea  
 cities were entertained at that time by many of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837081501:0534/pct:35.95009888939602,43.22587227096511,14.407424311577666,6.32523974699041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837081501:0534/pct:35.96024139155129,43.23267360402639,14.402353060500026,6.32864041352105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ useful ones ean thrive c¢!sewhere ; and less perfee­
 tion in the others, with more health, virtue and fiee­  
 dom, would be my choice.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837101701:0569/pct:79.82753310748383,53.627600202942666,14.351709270095473,5.36783358701167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837101701:0569/pct:79.83266605071348,53.627600202942666,14.351709270095473,5.3712159648232705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ of producing some good.&quot; This is a most excellent habit
 of mind, and the proposition may be stated, with truth,  
 even more broadly; for all evils, sent as inflictions by Pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843041001:0328/pct:11.173425366695428,113.59054570733403,38.625251653724476,9.604912524620554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843041001:0328/pct:3.723939611790079,37.859128822984246,12.873232686316799,3.2012666048810625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -248,7 +248,7 @@ pressed may deem it patriotic to discourage the growth of
 towns, in order to prevent their pestilential influence from  
 blusting the health, virtue and freedom of the State. The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843041001:0328/pct:11.087144089732528,124.36565867222802,39.660626977279264,19.232997335187115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843041001:0328/pct:3.6951833213515455,41.450417052826694,13.2183081715792,6.410256410256411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -267,7 +267,7 @@ tilential to the morals, the health, and the liberties
 of mankind.&quot; What kind of a government would  
 we have, if we had any at all, if our country wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293265:1858071101:0037/pct:70.03194888178913,175.1510126732204,51.054313099041536,9.949070235698212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293265:1858071101:0037/pct:17.510784470362676,43.7877531683051,12.76561751078447,2.487267558924553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ and the liberties of man.&quot;
 Hale&#x27;s Honey of Horehound and Ter  
 will arrest every ailment of the lungs, throa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193481:1883033001:0314/pct:35.908865775136206,84.78453626529526,12.258543833580982,3.582195424720695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193481:1883033001:0314/pct:35.908865775136206,84.78453626529526,12.27092620108965,3.6087958857953537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ ara &#x27;^pestilential to the morals, the health
 and the liberties of man.&quot;  
 Last week 7,700 tons of freight wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035412:1883040301:0301/pct:1.8730013704888078,15.2753108348135,13.293741434444952,2.775310834813499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035412:1883040301:0301/pct:1.8730013704888078,15.279011249259916,13.30896908786356,2.782711663706335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ the health and the libertiesof man.&#x27;&quot;
 The Legislatures &quot;of North Carolina  
 and Tennessee have granted pension
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:00295873668:1883042101:0658/pct:23.551171393341555,3.07943543683658,34.4482120838471,122.75749445934912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:00295873668:1883042101:0658/pct:17.67154973014649,2.309576577627435,25.859676175790284,92.06812084451184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ Thomas Jefferson wrote that great
 cities were &quot;pestilential to the morals  
 the health and the liberties of man.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:0029587367A:1883060401:0013/pct:47.571872571872575,46.941000136258346,15.714840714840715,7.248943997819866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:0029587367A:1883060401:0013/pct:35.70456754130223,35.209156560839354,11.797862001943635,5.4367079983649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ Is moro than I have before committed to
 paper on tho suhjectornii me nes wi u  
 iiivelieeii proaciieu nun prnuou hkiii&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774868:1884061201:0176/pct:31.72231985940246,49.01490947816826,18.299648506151144,3.2348242811501597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280774868:1884061201:0176/pct:23.796967699406725,36.7678381256656,13.733245440562515,2.422790202342918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

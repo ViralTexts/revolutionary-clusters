@@ -963,7 +963,7 @@ course doubted, be sent a messenger with
 his speech, to be delivered to Lord Dun­  
 i more. This address, so full ol deep elo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1852021301:0377/pct:33.76226475792183,71.54037709000356,14.894643718835452,17.075773745997864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028587:1852021301:0377/pct:33.767626400729185,71.54037709000356,14.894643718835452,17.087631922210363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1094,7 +1094,7 @@ celebrated in peace and war, and
 long distinguished as the friend of  
 the whites.’&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157480:1886012301:0619/pct:66.22459524629693,16.675719717544812,10.02411298656562,9.03041825095057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157480:1886012301:0619/pct:66.21319097640779,16.673455532926003,10.026691923540554,9.032586558044807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1194,7 +1194,7 @@ This unworthy return provoked his
 vengeance, and he accordingly signal­  
 ized himself in the war which ensued. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186889:1896102501:0652/pct:68.82141180153388,13.078728397695754,13.163249334794177,2.4429272455728612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186889:1896102501:0652/pct:68.81064162754303,13.077333333333334,13.166405842462181,2.446222222222222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1216,7 +1216,7 @@ of the Shawnees, Mingoes, Delawares,
 Wyandoltes and Cayugas, commanded  
 by the Shawnee chief, .Cornstalk, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186889:1896102501:0652/pct:68.89967131006418,21.602304245786218,12.787603693848803,3.2323447834435672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092523:00414186889:1896102501:0652/pct:68.88888888888889,21.6,12.790818988002087,3.2355555555555555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

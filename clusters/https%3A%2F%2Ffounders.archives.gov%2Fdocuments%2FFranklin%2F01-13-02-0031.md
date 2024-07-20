@@ -908,7 +908,7 @@ be authorized to make all general laws and also
 to raise all monies necessary for the common de­  
 fence.** This rational scheme of Union did no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832071101:0352/pct:25.85675119945168,3.0448910819593213,36.29198080877313,90.92550246720424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832071101:0352/pct:25.852321397978415,3.0445246690734056,36.29147393067215,90.91857200160449/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ instance, buffo be ultimately reimbursed by a tax
 to be laid on the Colonies, by act of parliament  
 This pretence of taxing the colonies for their ow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832071101:0352/pct:44.44825222755312,4.946443615356842,17.700479780671692,6.318449873631002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832071101:0352/pct:44.44063731368854,4.945848375451264,17.703158014962025,6.321700762133975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

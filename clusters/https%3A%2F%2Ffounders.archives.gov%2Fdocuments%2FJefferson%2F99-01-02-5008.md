@@ -104,7 +104,7 @@ beyond the strict letter of the law when the
 public preservation requires it. His motives  
 will be a justification of the act.&quot; If this b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:0020653073A:1863010801:0051/pct:152.37178365132155,9.854423292273236,48.92350778925258,11.06134129650367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:0020653073A:1863010801:0051/pct:50.79059455044052,3.2848077640910787,16.307835929750862,3.6871137655012234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -144,7 +144,7 @@ when the public preservation requires it.
 His motives will be a justification of the  
 act.&quot; If this be true of so small an affai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775629:1863011001:0453/pct:31.67883211678832,247.1988388969521,43.503649635036496,13.178519593613933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775629:1863011001:0453/pct:7.921153495163351,61.79970972423803,10.87789742653769,3.294629898403483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ his I&#x27;ltra legal po;ecdings, and no indulgence of private
 IL-e ings.&quot;  
 I all the attention of senators to this ku
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863012201:0440/pct:39.30835734870317,73.147593369283,17.40634005763689,5.542240862792091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863012201:0440/pct:29.485516645049717,54.8631915318554,13.056636402939905,4.1541841422009185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ OPPOSITION.
 Men may innocently differ . their opinions  
 as to what are the best means to restore peac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863012201:0440/pct:39.13544668587896,89.24505692031157,17.55043227665706,7.9288995406430995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1863012201:0440/pct:29.355814958927798,66.93628919512682,13.171926790603834,5.951667665268624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ lyler, &amp;c, they will be supported by the
 public approbation.&quot;  
 May I not, Mr. President, slightly alte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1863012301:0156/pct:22.934131736526947,48.04248487093985,16.482035928143713,6.286278868716809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174478A:1863012301:0156/pct:17.208327093005842,36.03803877979499,12.370825220907593,4.717796714832654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ far as there is any discretios in his ultra legal proceedings,
 no indulgence of private feelings.&quot;  
 I call the attention of Senators to this language, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1863012301:0466/pct:22.5,86.66567119605794,50.078125,13.618037927430192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1863012301:0466/pct:5.6271981242672915,21.666417799014486,12.524423602969911,3.404509481857548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -302,7 +302,7 @@ go beyond such offenders as Swartwout, Bollman, Burr, en:
 herhasset, Tyler, &amp;c., they will be supported by the public ap­  
 prohat te. Mtr Prestdent, slightly alter the language o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1863012301:0466/pct:21.640625,123.21935194863372,50.625,7.5257578020008955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:0028077764A:1863012301:0466/pct:5.412270418132083,30.80483798715843,12.661195779601407,1.8814394505002239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ l any uiscreuon in ui unia jugai pro­
 ceedings, nd no indulgence of private  
 feellnta.&quot; &#x27; . &#x27; . &quot; &#x27; &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1863020401:0164/pct:11.11797405806053,111.4778508499814,14.021000617665225,7.544360342474253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1863020401:0164/pct:8.339768339768339,83.60838813748605,10.517374517374517,5.6582702568556895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ j Blonnorhaset, Tyler, 4c, they will 1
 ! Fiilorted bv the public approbation.&quot;  
 Jlav 1 not, Mr. President, slichtlv l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1863020401:0164/pct:25.525015441630636,16.490879761757043,14.329833230389129,5.248790172477975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1863020401:0164/pct:19.15057915057915,12.371261943169127,10.749034749034749,3.94589899491252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ language, and to the time and circum-
   
 ayswe goor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1863020501:0736/pct:45.193929173693085,264.3703432270673,74.99156829679595,33.101258092097225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1863020501:0736/pct:15.064643057897696,88.12344774235576,24.99718943226532,11.033752697365742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ wild he the justification of the act.
 The fault of the Democratic politicians  
 is. that they apply principles and law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:0027176912A:1863020501:0054/pct:7.018138667570775,53.49325668803891,15.002542803865062,5.1072297147910675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_naomi_ver01:data:sn85033019:0027176912A:1863020501:0054/pct:7.0237893428264675,53.496941557963005,15.002542803865062,5.1182843245633425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ be ready to risK himself in going beyond the
   
 Strict line of law when the public preservation i,e sl10,V8 ihe most earnest anxiety to do al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029208:1863020601:0451/pct:6.780185758513932,120.55226327070987,29.241486068111456,5.194805194805195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296029208:1863020601:0451/pct:5.0952454700325225,90.41734964065061,21.94517577822518,3.896103896103896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ beyond such offenders, as Burr, Bolman, Blan­
 nerhasset, Tyler, &amp;o., they will be supported  
 by the public approbation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1863031401:0588/pct:18.38905775075988,60.21660649819495,14.201283350219521,8.543922984356197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1863031401:0588/pct:18.38905775075988,60.220617729643,14.212540808285489,8.539911752908143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ infringements of liberty, by the military ar­
 rests and deportation of citizens.&quot;  
 Such was the doctrine of Jefferson it wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1863041501:0020/pct:5.761067313523347,27.805737292400604,14.46331109763493,3.4599899345747356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1863041501:0020/pct:4.321455648218347,20.86059386009059,10.856709628506444,2.5918470055359837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ Jond such offenders as Swartwout, Bali man. Burr,
 lennci basset, Ac., they will be supported by pub*  
 lie appiobation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863061801:0003/pct:23.289473684210527,57.12468193384224,9.868421052631579,7.096409386485722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863061801:0003/pct:23.289473684210527,57.13528413910093,9.882518796992482,7.096409386485722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ man, Burr, Blennerhasset, &amp;c., they will be suy
 ported by public approbation.  
 &quot;The arrest and deportation&quot; of Vallandi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024582:1863070101:0108/pct:25.218150087260035,150.97913322632425,37.478184991274,28.28250401284109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn83016318:00296024582:1863070101:0108/pct:8.406050029086678,50.32637774210808,12.492728330424665,9.427501337613696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ beyond such offenders as Swartwout, Boll­
 man, Burr, Blennerhasset, Tyler, &amp;c, they  
 will be supported by the public approbation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1863110401:0138/pct:96.23329283110571,17.679908617844905,14.39854191980559,12.37466683589288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1863110401:0138/pct:72.19690063810393,13.263104454880061,10.817380735338803,9.290519101408808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -706,7 +706,7 @@ are made: &quot; On great occasions, every good
 officer must be ready to risk himself in going  
 bevond the strict line of law, when the pub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1863110401:0138/pct:83.0194410692588,124.81279350171341,14.3681652490887,2.0560984896560477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1863110401:0138/pct:62.29109693102401,93.61594110927783,10.771801883925859,1.5357278842492703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

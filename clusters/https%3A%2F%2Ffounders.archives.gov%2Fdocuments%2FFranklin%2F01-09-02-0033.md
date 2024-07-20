@@ -265,7 +265,7 @@ hungry, the cold and the naked, &quot;Be ye fed, be
 ye warmed, be ye clothed,&quot; without showing  
 them how they should get food, fire or clothing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1867011101:0254/pct:29.37354988399072,149.32111892687715,41.67053364269142,22.264027482414527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1867011101:0254/pct:9.791183294663574,49.77370630895905,13.890177880897138,7.421342494138176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ warmed, be ye clothed, without showing
 them how they should get food, fire and  
 cluthin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn86079037:0028077490A:1867031401:0049/pct:315.97110754414126,243.13298884960565,55.61797752808989,38.23769377209682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn86079037:0028077490A:1867031401:0049/pct:79.04035334270228,60.78324721240141,13.912868901826942,9.559423443024205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

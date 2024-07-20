@@ -228,7 +228,7 @@ tober man, would join heartily to
 reprobate so nefarious a plan for  
 speculation. Hajit&#x27;rigion,.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1837101401:0066/pct:69.67831612390786,120.13586956521739,20.035742652899128,8.192934782608695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1837101401:0066/pct:52.27408142999007,90.1086956521739,15.03475670307845,6.141304347826087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ State. I do verily believe that the greatest foes
 we have in the world could not devise a more  
 effectual plan. for ruining Virginia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838040401:0053/pct:108.44991606043648,94.77461314196007,21.012870733072187,7.669881139268894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838040401:0053/pct:81.360201511335,71.08095985647006,15.771060733277357,5.76362413097107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ pose that every friend to his country, every honest
 and sober man, would join heartily to reprobate so  
 npfnrimia a nln n fnr encMi1ti-i-i &quot; &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838050201:0071/pct:43.8519977490152,90.74219187283107,20.849746764209343,3.7613343781484385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838050201:0071/pct:32.9064039408867,68.06224112840032,15.650950035186488,2.821000783611329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ Bank, as a direct violation of, and dangerous, to
 the free spirit of the Federal Constitution, and op­  
 pressive and hostile to the free institutions of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838061301:0096/pct:25.602916432978127,81.62125949084412,20.723499719573752,7.793657882983474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838061301:0096/pct:19.21728152616075,61.221527467619474,15.542151774442418,5.850826261723984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ jieve ifiai me greatest toes we ba v in the
 world could not devise a more effectual  
 plan for ruining Virginia Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839082401:0792/pct:10.345528455284553,113.27679688586126,20.0609756097561,4.935353816210204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839082401:0792/pct:7.7673851159007725,84.95759766439593,15.046766978446524,3.711942165994717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ I do verily believe that the grealpsf foes we have in the
 world could not devise a more effectual plan tor ruiniti&quot;  
 Viiginia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843083001:0568/pct:90.99395936298737,50.507502206531335,40.11532125205931,33.16416593115622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843083001:0568/pct:68.25484003844569,37.886142983230364,30.097487299189893,24.867608120035303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ V devise a more effectual plan of ruining Virginia.&quot;
 pose 1 upon a people, that there is not specie enough in tho  
 n world to answer all the necessary wants of the communi- qp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846042001:0429/pct:26.207442596991292,79.08820614469772,15.328582739509105,2.576808721506442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846042001:0429/pct:26.212721034573764,79.09646514701024,15.339139614674057,2.5809382226627022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ plan of ruining Virginia,&quot; George
 Washington.  
 v; &quot;I sincerely believe that banking
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846042301:0248/pct:11.564625850340136,72.76648182378312,22.643343051506317,7.285890326555761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846042301:0248/pct:8.675577156743621,54.574861367837336,16.986634264884568,5.4682686383240915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ was, and then they cheated me out if every
 dollar i placed intheir hands. Harrison&#x27;s  
 Day ton speech
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85026335:00296028873:1846060501:0081/pct:25.792988313856426,91.10981987216735,19.24040066777963,7.001743172574085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85026335:00296028873:1846060501:0081/pct:19.352818371607516,68.33236490412551,14.446764091858038,5.258570598489251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ A.inu mMntinn ftf naner currencv in the State. I do
 uoiiiu hAiime that the creates! foes we have in the world  
 could not devise .a more effectual plan of ruining Vl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846061101:0272/pct:10.048780487804878,24.297066014669927,22.951219512195124,1.619804400977995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1846061101:0272/pct:7.542103978520869,18.230440097799512,17.23212106419331,1.2224938875305624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ the greatest foes we have in the world, could
 not devise m more effectual plan of ruining  
 Virginia. George Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85026335:00296028873:1846080701:0106/pct:24.4672131147541,117.54232340922358,18.811475409836067,3.415061295971979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85026335:00296028873:1846080701:0106/pct:18.37194996924339,88.16403969643899,14.1070330120976,2.5539988324576766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ ing a large sum of paper money by the assembly! I The papers were sent to the Se
 The Secretary was ordered to lay the resolution  
 advising and consenting to the treaty, before th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846082601:0161/pct:203.23285277413717,18.602278524060534,176.05941459152467,18.12616901887434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846082601:0161/pct:50.824866164099205,4.650569631015133,44.02928001748061,4.531542254718585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ heartily to reprobate so nefarious a plan for specula
 tion.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846082701:0390/pct:65.91397849462365,11.453189030156562,19.166666666666668,5.432384154670589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846082701:0390/pct:49.44877655283678,8.595145529053273,14.38558752352783,4.076914994220868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -723,7 +723,7 @@ pose that every friend to his country, every honest
 and sober man, would join heartily to reprobate so  
 nefarious a plan of speculation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:5.717168320161426,238.39368616527392,46.93122582814865,17.177344475394616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0095/pct:1.905722773387142,79.4645620550913,15.643741942716215,5.725781491798205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ honest and sober man&#x27; &quot;to repudiate
 so nefarious a plan of speculation.&quot; James  
 Madison, it will vex Senator Came-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0091/pct:144.40700808625337,136.00887954200257,47.506738544474395,9.545507652763174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743865:1874040601:0091/pct:48.13566936208446,45.336293180667525,15.835579514824797,3.181835884254391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -773,7 +773,7 @@ ton : &quot;Is it possible that a plan can be
 &quot;effectual plan ior ruining Virginia.&quot; To  
 which Washiugton replied: &quot;I have nev
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295873644:1874092901:0307/pct:7.490774907749078,47.096176742955414,16.752767527675278,4.497949464214844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_broadsheet_ver01:data:sn92053942:00295873644:1874092901:0307/pct:5.630422743215802,35.32213255721656,12.571534059442495,3.3734620981611325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ nefarious a plan of specul atton.
 Georze Mason, to Washington, at a somewhat later  
 date, wrote
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0214/pct:9.20877659574468,13.699106832154042,93.76662234042553,279.80512701542744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0214/pct:3.06959219858156,4.566368944051347,31.255540780141843,93.26837567180915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -863,7 +863,7 @@ should suppose that every friend to his country, every
 honest and sober man, would join heartily to reprobate so  
 nefarious a plan of speculatton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0216/pct:7.961197524669677,13.261648745519713,95.5009198862686,279.5236443519482/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0216/pct:2.653732508223226,4.4205495818399045,31.833639962089535,93.17454811731606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -885,7 +885,7 @@ Virgiuia. I should suppose that evely friend to
 his country, every honest and sobor man would  
 join heartily to reprobate so nefarious a plan o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878101701:0391/pct:169.51456310679612,84.79014247208318,48.83495145631068,11.859838274932615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878101701:0391/pct:42.40952149623512,21.197535618020794,12.217634199659946,2.964959568733154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -908,7 +908,7 @@ would join heartily to reprobate so nelarious a plan of
 apeculation.&quot;  
 George Mason, to Washington, at a somewhat late
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878101701:0354/pct:3.095001655081099,251.1197886757781,48.01390268123138,10.474330998047549/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878101701:0354/pct:1.0316672183603663,83.70659622525937,16.004634227077126,3.4914436660158494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,7 +931,7 @@ uore effectual plan for ruiniog Virginia. I
 jry honest and sober man, whould join heart- tl  
 to reprobate so ncf&#x27;arioua a plan of speoala- t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663808:1878101701:0272/pct:51.35383806519453,85.27462946817785,15.878023133543639,4.812554489973845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663808:1878101701:0272/pct:51.362600771118124,85.28044173205464,15.873641780581844,4.809648358035455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ paper money bv the next Assembly?
 I do virily believe that the greatest  
 foe* we ivl1 iu the world could uot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1878102401:0375/pct:6.152060359837493,68.03694109697038,12.304120719674986,3.0070953936254083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1878102401:0375/pct:5.387219636055861,59.53945207279416,10.765975454930173,2.6246632941331054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1003,7 +1003,7 @@ honest and sober man, would join
 heartily to reprobate so nefarious a  
 plan cf :peculation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1878102401:0375/pct:6.108531630876379,62.473251492285165,25.043528728961114,12.073431692758193/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919933:1878102401:0375/pct:5.344900550148116,54.66789304250706,21.917054591620822,10.561066946981144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1027,7 +1027,7 @@ nan, would join heartily, to reprobate so nefari­
 ous a plan of speculation.”  
 George Mason, to Washington, at a somewha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878103101:0567/pct:17.3943661971831,62.147633407630785,10.598591549295774,2.9500458896027273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878103101:0567/pct:17.391304347826086,62.139486103828006,10.60112656222496,2.952936549554274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

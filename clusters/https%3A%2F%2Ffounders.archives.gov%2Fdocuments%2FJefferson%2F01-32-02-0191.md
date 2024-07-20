@@ -74,7 +74,7 @@ amendments, they cannot reject it, but must
 report it back to (be bouse without amend­  
 ments, aud there make their opposition.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216298:1821012701:0089/pct:61.27922971114168,90.0882697011592,18.088033012379643,3.381899393810486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216298:1821012701:0089/pct:61.26869520371326,90.07868991918333,18.090653830726033,3.38508436126471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ good by .amendments, they cannot reject if,
 hut must report it oack to the house without  
 amendments, and there make their opposi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821013001:0340/pct:5.377220140133616,62.13696665471495,14.388137526478735,9.286482610254572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821013001:0340/pct:5.376344086021505,62.129541108986615,14.391224068643423,9.289356277884002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

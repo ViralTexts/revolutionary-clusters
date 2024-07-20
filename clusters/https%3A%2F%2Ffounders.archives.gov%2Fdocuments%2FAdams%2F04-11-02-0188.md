@@ -408,7 +408,7 @@ And rack thee in their fancies.&quot;
 JUT Iraturt.  
 The Hon. John Tilu, of *ir(5&#x27;&quot;ia, now Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842123101:0627/pct:1.4209591474245116,6.071787990607179,16.550944614887776,4.6069551604606955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842123101:0627/pct:1.4209591474245116,6.079242610607924,16.56170945691372,4.610682470461068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ Upon thy doings! Thousand scraps of wit
 Make thee the father of their idle dream,  
 And rack thee ih their fancies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844062701:0470/pct:23.401190704820433,77.53010845698317,14.365277511042827,4.843968327899394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215749:1844062701:0470/pct:23.39894383101296,77.52495009980039,14.367098735797727,4.845863827899756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -561,7 +561,7 @@ Tpon thy doings. Thousand ‘scapes of wit
 Make thee father of their idle dreams.  
 And rack thee in their fancies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:0027176974A:1848051901:0147/pct:33.98354160316976,88.04360706244816,13.882962511429442,3.8867164355966346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:0027176974A:1848051901:0147/pct:32.28452852041309,83.64291343014747,13.198532960138984,3.7037037037037037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -604,7 +604,7 @@ Upon I by doi ugs I Thousand &#x27;scapes of irit
 Make .hec the Qther of their Idle dream,  
 And nek thee In their fancies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455127A:1873080701:0483/pct:19.770006301197228,23.99957086149555,13.500315059861373,2.467546400600794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:0029455127A:1873080701:0483/pct:19.770006301197228,24.003147015699316,13.505566057550935,2.4746987090083326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

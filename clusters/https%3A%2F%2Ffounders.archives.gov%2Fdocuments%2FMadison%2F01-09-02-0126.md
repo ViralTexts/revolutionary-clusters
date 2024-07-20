@@ -343,7 +343,7 @@ much. It is a medicine necessary for the
 sound health of the government.” .Mr.  
 JeH&#x27;erson was writing from Paris unde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898032001:0590/pct:5.5537459283387625,14.500548847420417,14.478827361563518,5.905598243688255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892162:1898032001:0590/pct:5.5646036916395225,14.504207830223198,14.467969598262759,5.909257226491036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

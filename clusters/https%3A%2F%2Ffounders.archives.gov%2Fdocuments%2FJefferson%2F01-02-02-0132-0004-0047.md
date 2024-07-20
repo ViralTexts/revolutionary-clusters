@@ -398,7 +398,7 @@ or corporation court, and applied towards !
 lessening the poor rate* ol the county or  
 corporation; and he shall also be liaoie t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216304:1821101701:0285/pct:41.681230339042294,17.157338509651677,18.280321565886055,6.912541787986628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216304:1821101701:0285/pct:41.67394723047353,17.15548846236791,18.282951831789855,6.91539069800877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

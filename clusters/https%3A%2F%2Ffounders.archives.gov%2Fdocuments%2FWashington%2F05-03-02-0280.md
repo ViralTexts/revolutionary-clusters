@@ -430,7 +430,7 @@ tisfv the affiirted soul, then »hail thy light
 rise in ob-curity, ar.d thy darkness be as  
 the noonday.”•• That this may becom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805070301:0246/pct:41.145322612276914,48.364116094986805,18.27809374387135,9.393139841688654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805070301:0246/pct:41.13725490196079,48.35773644637911,18.281045751633986,9.396297761948732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ morning without clouds : as the tender grass spring­
 ing out of the earth by the clear shining of the sun  
 alter rain.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808051301:1132/pct:50.35087719298246,21.104,21.50375939849624,3.152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808051301:1132/pct:50.33826108744675,21.10062390017597,21.504635429716863,3.155495120780675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -786,7 +786,7 @@ a morning without clouds ; as the tender
 grass springing out.of the earth by clear  
 shining after rain.”” The Archbithop en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821091701:0358/pct:27.040669166426305,10.148466497362767,16.339775021632537,5.8409845672983005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821091701:0358/pct:27.05028362657437,10.151722341603177,16.330160561484472,5.847496255779124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -817,7 +817,7 @@ when the sun nseth, even a morning without
 ^ clouds; as the tender grass springing out of  
 the earth by clear shining after rain.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821091801:0157/pct:1.6427432216905902,78.94049174486281,15.534290271132376,3.812804371065447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821091801:0157/pct:1.6424812629564662,78.93111638954869,15.537128581300164,3.8163103721298497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1455,7 +1455,7 @@ he shall be as the light of the morning when the
 tender grass springing out of the enith by clear  
 shining after rain.” ” She adapted her discours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011801:0329/pct:47.94719046852359,9.519797809604043,15.118338431814523,2.0820796726441206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827011801:0329/pct:47.93947198969736,9.518652226233455,15.121270658939686,2.0858403529883676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1553,7 +1553,7 @@ light of the morning, without clouds; as
 the tender grass springing out of the earth  
 by clear shining after rain.” 2 Sam. chap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1827032801:0364/pct:104.94548286604362,95.09185247510868,18.769470404984425,4.86607768896368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1827032801:0364/pct:81.34399678084604,73.69584118243733,14.541522056234596,3.782060570931749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1573,7 +1573,7 @@ God. And he shall he as the light ol the morn­
 ing, without clouds; as the tender grass spring­  
 ing out of the earth by clear shining after rain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827032801:0288/pct:24.92527399535038,56.4956772334294,17.701760212553967,3.6311239193083575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216377:1827032801:0288/pct:24.9211356466877,56.48916551406178,17.704355526039073,3.6345474104810203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1819,7 +1819,7 @@ clouds; as the tender grass springing
 out of the earth by clear shining af­  
 ter rain;&quot; 11. Sam. ch. xxiii, 3, 4
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831121701:0001/pct:24.02818270165209,64.75044563279857,15.986394557823129,8.25906120023767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831121701:0001/pct:24.046404275996114,64.75787284610814,15.980320699708455,8.262774806892454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1904,7 +1904,7 @@ riseth, even as a morning without
 clouds, as the grass springing out of  
 the earth by clear shining after rain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82016416:00271744730:1833071301:0109/pct:29.129373474369405,43.06173526140156,68.06346623270952,7.313681868743048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82016416:00271744730:1833071301:0109/pct:21.855921855921856,32.299777530589544,51.07855107855108,5.492213570634038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2573,7 +2573,7 @@ thy light rise in obscurity,and thy darkness be as
 the noon day.  
 You know that I have not written this letter l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839110901:0167/pct:53.63265306122449,67.78748180494905,22.979591836734695,3.8719068413391557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839110901:0167/pct:40.240914659044506,50.84425036390102,17.251939567170275,2.911208151382824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2610,7 +2610,7 @@ lead in ihe way of righteousness, in the
 midst of the paths of judgment.&quot; But doubt­  
 less the above must be the true meaning, fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fennal_ver01:data:sn83025661:00415628882:1840030401:0306/pct:48.53312302839117,92.66890792755666,20.347003154574132,2.873874850883852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fennal_ver01:data:sn83025661:00415628882:1840030401:0306/pct:36.409528316769205,69.50439214835701,15.270547404953463,2.158117340852402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2631,7 +2631,7 @@ thoughts: if you seek him he will be found of
 thee; but if thou forsake him he will cast thee off  
 forever. I Chron, xxvili, 9
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840051901:0595/pct:96.96969696969697,37.0924488355681,71.96969696969697,18.235709244883555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296187:1840051901:0595/pct:24.25161045850701,9.273112208892025,17.999242137173173,4.558927311220889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3085,7 +3085,7 @@ of the Gospel, must be made known to all the nations.
 Therefore, the church which is to exist every where,  
 must be Catholic. Again, in the 54th chapter of the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846020901:0174/pct:145.07089241034194,257.7713957495692,47.65638031693078,11.970132107983916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271742939:1846020901:0174/pct:48.356964136780654,85.92379858318974,15.885460105643592,3.990044035994639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3573,7 +3573,7 @@ thou shalt have treasure in heaven.&quot;
 A pplea of Gold.  
 Before we condemin the failings of oth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288464:1854020101:0051/pct:48.57751407272174,250.0,40.5902936254374,21.896510799905055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288464:1854020101:0051/pct:16.192504690907246,83.33333333333333,13.530097875145799,7.298836933301685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3952,7 +3952,7 @@ God, a duty of religion. &quot;By me kings reign
 and princes decree justice. By me princes rule, and  
 nobles, even all the judges of the earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857040901:0829/pct:6.127372145384368,209.18264379414734,45.513026696687035,4.350263482453189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857040901:0829/pct:2.0424573817947893,69.72754793138245,15.171008898895678,1.4500878274843967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3969,7 +3969,7 @@ God, a duty of religion. &quot;By me kings reign
 and princes decree justice. By me princes rule, and  
 nobles, even all the judges of the earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857040901:0830/pct:5.3728949478749,209.41558441558442,45.54931836407378,4.38871473354232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743257:1857040901:0830/pct:1.7909649826249665,69.8051948051948,15.183106121357925,1.4629049111807733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4222,7 +4222,7 @@ ing without clond,; as the tender grass springing out
 of the earth by char shining after rain.&quot;  
 Sua ly nepe but a relit ious man can answer to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860120101:0651/pct:149.19236417033773,102.58185658960215,47.36498613150596,7.815984039431991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860120101:0651/pct:49.73078805677925,34.193952196534056,15.788328710501984,2.605328013143997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4444,7 +4444,7 @@ princes rule, and nobles, even all the judges of
 the earth.&quot; Prov vi, 15,16. Of Cyrus, God  
 says, by the mouth of Isaiah, &quot;For Jacob, m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861101701:0979/pct:72.74401473296501,161.60053799596503,56.26151012891344,32.95225285810356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861101701:0979/pct:18.198571757659526,40.40013449899126,14.075097903708823,8.23806321452589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4600,7 +4600,7 @@ I isfy tbei&#x27;fHicted snul; then shall thy light
 rise in obscurity, and thy darkness be ae  
 the noonday &quot; O that Ood, for Christ&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190741:1864080401:0116/pct:17.022184300341298,44.919127988748244,13.694539249146757,7.99929676511955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190741:1864080401:0116/pct:17.027517064846418,44.919127988748244,13.705204778156997,8.003691983122362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4749,7 +4749,7 @@ day.&quot;
 Skating. ? The skating park has been  
 placed in order, the pond tilled with wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665015:1865122301:0601/pct:14.14619709973365,30.529822004788176,13.776265167209234,3.903403768085771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665015:1865122301:0601/pct:14.156061951267633,30.533291697026474,13.786130018743219,3.906873460324069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4833,7 +4833,7 @@ noon-day, and the Jjord shall guide thro
 continually, and thou shalt delight &#x27; thyself  
 in God. and he will cause thee (with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077540A:1866081601:0547/pct:41.089466089466086,61.00419620894227,16.251803751803752,3.9212849081174936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:0028077540A:1866081601:0547/pct:30.837242872609167,45.7531471567067,12.197762540599062,2.9518159455939808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4854,7 +4854,7 @@ noon-day, and the Lord shall guide
 the continually, and thou shalt delight  
 thyself in God, and he will cause the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774960:1866081701:0753/pct:200.35945363048168,32.31597845601436,43.781452192667146,17.295032914422503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774960:1866081701:0753/pct:50.11688545225679,8.07899461400359,10.951267757597554,4.323758228605626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4896,7 +4896,7 @@ thee offfor over.&quot;-let Obhron. xxviii
 And kings shall be thy nursing fathers and  
 their queens thy nursing mothers.—lsauuh, xiix
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1866111601:0219/pct:31.655659303120018,68.11570247933884,13.778182646322023,0.9090909090909091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1866111601:0219/pct:31.670841873529188,68.12121212121212,13.770591361117438,0.9146005509641874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4974,7 +4974,7 @@ the light of the morning.&quot; Now listen to this :
 clouds ; as the tender grass springeth out of the  
 earth by clear shining after rain. Althoug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:0028077621A:1867061001:0288/pct:29.009103641456583,56.80686220254566,19.257703081232492,10.40398450470393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:0028077621A:1867061001:0288/pct:21.765014883558045,42.61206419479801,14.44580633864472,7.802988378527947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5089,7 +5089,7 @@ found of thee, but if thou forsake Him,
 He will cast thee off forever.&quot;  
 With a few additional remarks i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665064:1868060101:0523/pct:24.713434204493353,83.27511379273844,12.257374293137705,5.578490526092939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665064:1868060101:0523/pct:24.72362321055581,83.28217070674994,12.252279790106476,5.578490526092939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5174,7 +5174,7 @@ tho imaginations of the thoughts; if thou seek Him, He
 will be found nf tbee; but if thou forsake Him, He will  
 cast thee off forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776269:1869052101:0140/pct:108.33926031294452,87.85823065208362,19.07894736842105,3.4196317319673266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776269:1869052101:0140/pct:81.27334163258047,65.90059532050394,14.316201316023475,2.5612626332548802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5194,7 +5194,7 @@ morning without clouds; as the tender
 grass springing out of the earth by clear  
 shining after rain.&quot; And neither hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1870030401:0252/pct:11.609845991838883,194.28882510145502,34.17138344083191,11.38275759675344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523921:1870030401:0252/pct:3.8694393261384574,64.75653206650831,11.388962007545846,3.7938770124043284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5213,7 +5213,7 @@ sun riseth, even a morning with out clouds, as the
 tender grass springeth out of the earth by clear  
 shining after rain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743713:1870082201:0546/pct:245.75682382133996,83.49773703144946,47.245657568238215,6.521991412324475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743713:1870082201:0546/pct:81.91894127377998,27.832579010483155,15.74855252274607,2.1739971374414915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5441,7 +5441,7 @@ morning when the sun riseth, even a morning
 without clouds; as the tender grass springing out  
 of the earth by clear shining after rain. Althoug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743828:1873062901:1221/pct:147.77885862516212,161.53491055972302,46.17380025940337,12.57934218118869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271743828:1873062901:1221/pct:49.25961954172071,53.84497018657434,15.391266753134458,4.19311406039623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5468,7 +5468,7 @@ If thou seek him he will be found of thee,
 but if thou forsake Him, He will cast thee  
 off forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777547:1874032301:0281/pct:63.39483394833948,151.04331558497626,43.321033210332104,21.700964167506115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777547:1874032301:0281/pct:15.854558877814691,37.760828896244064,10.834256183093393,5.425241041876529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5580,7 +5580,7 @@ but if thou forsake him. he will cast thee
 oft forever.&#x27; Bo Saul lost tbe kinirdom and  
 his bfe. Is there no kingdom, or life, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876021101:0038/pct:99.12790697674419,98.43585852690556,14.418604651162791,3.443445780319832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876021101:0038/pct:74.37836265813581,73.82981206956927,10.818670932092482,2.579666160849772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5701,7 +5701,7 @@ Jesus; who is at the right hand of the
 Father, and tke third is the Holy  
 Spirit who is on# with the Father.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deepcreek_ver01:data:sn83025728:00220720433:1876100701:0001/pct:34.11073825503356,64.28742802303263,13.791946308724832,10.568618042226488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deepcreek_ver01:data:sn83025728:00220720433:1876100701:0001/pct:34.11073825503356,64.28742802303263,13.797539149888143,10.580614203454894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6307,7 +6307,7 @@ the judges of the earth.&quot; The worship that
 daily ascends from her ancient sanctuaries,  
 the reverence for the Lord&#x27;s Day tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00202195398:1881111201:0712/pct:75.53544110147884,53.036876355748376,15.973992860785314,3.459869848156182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00202195398:1881111201:0712/pct:56.67644433108022,39.783080260303684,11.988266802703738,2.592190889370933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6413,7 +6413,7 @@ that love me to inherit substance.&quot; Proverbs
 vil., 20.21.  
 Ninth-street Methodist Protestant Churc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82014424:00211102883:1882040801:0342/pct:172.66610597140453,211.71493654409372,48.44407064760303,10.348193947282786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82014424:00211102883:1882040801:0342/pct:43.18468657972234,52.92873413602343,12.116112747160287,2.5870484868206964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6686,7 +6686,7 @@ all the imagination of the thoughts; if thou
 seek him he will be found of thee, but if thou  
 forsake him he will cast thee off forever.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885080101:1163/pct:172.47639796659405,87.08406899361674,49.96368917937546,11.028113540676355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1885080101:1163/pct:43.134762077733384,21.771017248404185,12.49545949872866,2.7570283851690887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6703,7 +6703,7 @@ strength. By me kings reign and princes de­
 cree justice. By me princes rule, and nobles.  
 Even the judges of the earth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210533:1885081001:0455/pct:61.41331142152835,60.214797136038186,10.944946589975348,1.1813842482100239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210533:1885081001:0455/pct:61.40322050607953,60.207612456747405,10.947255997371016,1.1842262259873524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6794,7 +6794,7 @@ thy darkness be aB the noon day.”
 gered, and fed thee? or thirsty, and gave ,  
 thee drink? when saw we thee a stranger 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184479:1886120801:0346/pct:62.05327039784221,51.121506537123665,16.55428186109238,12.450521770421014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184479:1886120801:0346/pct:62.04281139389853,51.115375389781725,16.55710994999719,12.453026305269049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6982,7 +6982,7 @@ mind recurs to. that old Hebrew King­
 dom. Here as there we encounter the  
 same firm faith in the God of battles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195489:1888032301:0284/pct:51.0655737704918,43.64014364014364,20.314207650273225,9.034209034209034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195489:1888032301:0284/pct:38.31647991254441,32.734832734832736,15.236403388904073,6.775656775656776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7012,7 +7012,7 @@ mind recurs to that old Hebrew King­
 dom Here as there Ave encounter  
 the same firm faith in the God of bat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108927:1888032701:0530/pct:26.84341342170671,36.71537926235212,19.739022369511186,10.911621433542102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108927:1888032701:0530/pct:20.136730888750776,27.543493389004873,14.812512948000828,8.183716075156577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7052,7 +7052,7 @@ life itself, in some pursuit which seems to
 them the noblest use they can make  
 of their powe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286595:1888060601:0454/pct:26.111778846153847,67.50736980019653,18.524639423076923,15.798667976853368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_hickok_ver01:data:sn85032490:00237286595:1888060601:0454/pct:17.41809437932071,45.00491320013102,12.353471596032461,10.536084725406704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7274,7 +7274,7 @@ thou seek Him He will be found of
 thee : but if thou forsake Him He  
 will casttiiee off forever,&quot; of whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556990:1890092501:0369/pct:18.24503311258278,35.31650386908537,14.02317880794702,15.29874413294431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556990:1890092501:0369/pct:13.69885704820275,26.487377901814032,10.518469438462812,11.480400862615756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7295,7 +7295,7 @@ all the imaginations of the thoughts : If thou
 seek Him, He will be found of thee; but if thou  
 forsake Him, He will cast thee off forever.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1890101601:0411/pct:5.709722499500899,54.5143170297301,21.381513276103014,4.315659679408138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn91064026:00513685142:1890101601:0411/pct:5.708582834331337,54.50684931506849,21.38389886892881,4.319634703196347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7603,7 +7603,7 @@ gry, and satisfy the afflicted soul; then
 shall thy light rise in obscurity and thy  
 darkness be as the noonday.”—(Isa., 58
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1894110801:0225/pct:16.984732824427482,43.62866734783243,14.164546225614927,1.9851116625310175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865994:1894110801:0225/pct:16.9811320754717,43.622300058377114,14.16684333262667,1.988470519556334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7754,7 +7754,7 @@ gry and satisfy the afflicted soul ; then shall
 thy light rite in obscurity and thy daiknessbe  
 su the noouday. And the Lord shall guido the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102342:1895112101:0407/pct:5.442359249329758,68.32304321848237,16.72922252010724,2.250547699661422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102342:1895112101:0407/pct:4.090116668901703,51.24477195777734,12.551964597022932,1.6928898625771758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7854,7 +7854,7 @@ shining after rain&quot; (2nd Samuel, 23r
 their queens thy nursing mothers, and that thou  
 shalt know that I am the Lord.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039119:1897071801:0308/pct:95.26548672566372,204.43911217756448,64.57964601769912,5.698860227954409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175039119:1897071801:0308/pct:31.755162241887906,68.14637072585482,21.52654867256637,1.899620075984803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7916,7 +7916,7 @@ they are not poetry only they are prac­
 tical indications of what is possible , and  
 what may be made actual. Is a consum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1898112401:0287/pct:43.2649667405765,33.326513911620296,31.596452328159646,21.788052373158756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_fairbury_ver01:data:sn96080161:00206539215:1898112401:0287/pct:32.48266296809986,25.0,23.717059639389735,16.346153846153847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

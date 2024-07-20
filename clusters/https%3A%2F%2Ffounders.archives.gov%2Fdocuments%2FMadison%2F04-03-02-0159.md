@@ -156,7 +156,7 @@ relation to other quarters of the globe,
 I return the correspondence of Mr. Rush and  
 Mr. Canning, with assurances, &amp;c.. J. M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00175044875:1886010501:0286/pct:80.441400304414,129.7971918876755,50.60882800608828,140.21840873634946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00175044875:1886010501:0286/pct:20.11417697431018,32.449297971918874,12.654614652711704,35.054602184087365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

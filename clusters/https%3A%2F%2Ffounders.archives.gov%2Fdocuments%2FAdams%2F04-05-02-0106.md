@@ -2047,7 +2047,7 @@ It is right to be contented with what
 we have; never with what we are.-Mack­  
 intosh.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1878082201:1000/pct:133.86796838679683,167.31391585760517,48.55880985588099,45.405937807795134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn84022761:no_reel:1878082201:1000/pct:44.62265612893228,55.771305285868394,16.186269951960327,15.135312602598377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2082,7 +2082,7 @@ civil thing than to act one; no more
   
 right to say a rude tbing to another
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82015133:00211105732:1883110301:0481/pct:76.14576702737111,65.71118872696616,12.84213876511776,3.757677947729736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_bobcat_ver01:data:sn82015133:00211105732:1883110301:0481/pct:57.13148678764725,49.28339154522462,9.630690862782552,2.8182584607973022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2129,7 +2129,7 @@ What is it to be wise?
 &#x27;Tis but to know how little can be known,  
 To see all others&#x27; faults, and feel our own
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn95068565:00280779192:1884060401:0484/pct:320.8471760797342,73.48172574883209,48.50498338870432,6.705138774388568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn95068565:00280779192:1884060401:0484/pct:80.21179401993355,18.370431437208023,12.12624584717608,1.676284693597142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2172,7 +2172,7 @@ Tell (for you can) what is it to be w isof
 To see all others&#x27; faults, and feel our own.  
 Pope
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn83045789:00237281913:1884092301:0432/pct:34.360189573459714,10.931878844145293,12.100118483412322,2.75037716142509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn83045789:00237281913:1884092301:0432/pct:25.773959413420233,8.204711616571894,9.080136276107243,2.0656841128002785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2266,7 +2266,7 @@ Tell (for you can) what is it to be wist1 ?
 To see all others&#x27; faults, and feel our own.  
 SMOK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182021:1890052201:0439/pct:56.119839240043845,29.243697478991596,14.084764340518817,4.019607843137255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182021:1890052201:0439/pct:43.49693251533742,22.667245558811825,10.924964605946201,3.1115452802199792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2391,7 +2391,7 @@ known;
 To see all others’ faults and feel yom  
 own. —Pope
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1892122201:0843/pct:101.52686509470429,89.90141220357047,18.051797448782374,3.3972821742605914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1892122201:0843/pct:78.69482724186139,69.67475477542591,13.985420411424007,2.6363792806745825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2428,7 +2428,7 @@ fistula, and all other diseases of the rectum
 speedily and permanently cured without  
 tne use of a knife, ligature or caustics. Ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:0028076095A:1894012401:1036/pct:76.11731843575419,82.09817131857555,29.376163873370576,30.863009303817773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:0028076095A:1894012401:1036/pct:50.78034008851619,54.7321142123837,19.61332401583974,20.580686557587423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

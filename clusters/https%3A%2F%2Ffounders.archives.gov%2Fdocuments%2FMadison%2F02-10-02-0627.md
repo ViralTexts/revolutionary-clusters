@@ -82,7 +82,7 @@ whether the cirrumftances of tills cafe are fuch
 which lead to the unavoidable conclufion, that  
 it was the intention of the party to purfue thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805092701:0167/pct:5.883458646616542,17.66520956544099,17.706766917293233,4.024170737978915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805092701:0167/pct:5.882352941176471,17.662938681064404,17.70970368978262,4.027938466812358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ of the cafe are fuch which lead to the
 unavoidable conclufion, that it was the  
 intention of th= party to purfue thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1805111401:0646/pct:4.8560135516657255,30.886105311992576,19.555806512328253,6.3790303873811185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1805111401:0646/pct:4.862287470983123,30.886105311992576,19.56208043164565,6.3944947034717385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -172,7 +172,7 @@ actions in America may be laid out cf the
 case. I &#x27;pen these grounds there being ;  
 no dispute about the property, I shall , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806010601:0001/pct:22.489698546952937,39.758869179600886,18.62936456300152,13.317627494456763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806010601:0001/pct:22.504156726668114,39.76348854397635,18.62213547314393,13.3130081300813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ is no evidence hire, that the continuity of the voyage
 wusfiimcicntiy interrupted. Since the cafe of the Kf­  
 fix.Oriie, am eye importation with the intent of ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806010901:0298/pct:39.74903118656579,77.38506851069279,17.494002583502493,5.05826610321424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806010901:0298/pct:39.74169741697417,77.37516005121638,17.496924969249694,5.061886470337175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ there is no evidence here, that the continuity of the
 voyage was sufficiently interruptciL Since the case  
 of the Essex, Ornc, a mere importation with inten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806011701:0913/pct:31.59294174522601,21.356421356421357,20.763838530335992,5.291005291005291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806011701:0913/pct:31.585306911551474,21.352997755690925,20.764862252295796,5.294164796409105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ tion perfectly legal, and all transactions in America
 may be laid out of the case. Upor these grounds  
 there being no dispute about the property, I shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806011701:0913/pct:31.737974377568285,55.29902196568863,20.35291273869954,7.150873817540484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806011701:0913/pct:31.730304494925086,55.29015710163514,20.354035766070567,7.153735171529337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ to have belonged at the time of the capture and sei­
 zure thereof, to the enemies of the crown of Great  
 Britain, and by interlocutory decree, condemned th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806092601:0125/pct:51.244400199104035,65.02732240437159,21.40368342458935,2.426872388299582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806092601:0125/pct:51.23164966409555,65.01687289088864,21.40457825329684,2.4304997589587014/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ and as such or otherwise fubje&amp; and
 liable to confifcation, and by interlo­  
 cutory decree condemmned the fame a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807090101:0560/pct:42.40615674572012,35.65545301180907,16.287105387152504,16.21514339585194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807090101:0560/pct:42.41662740170672,35.66206873738877,16.276634731165906,16.208527670272236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

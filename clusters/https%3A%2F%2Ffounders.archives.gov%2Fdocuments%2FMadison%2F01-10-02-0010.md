@@ -94,7 +94,7 @@ such a system would be framed as might render
 this resource unnecessary, and moved that the  
 clause be postponed. This motion was agree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851032701:0311/pct:41.25884887657741,55.1103160405486,15.527854724530625,9.09958258795468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851032701:0311/pct:41.25884887657741,55.1103160405486,15.527854724530625,9.103557940767242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ it miwht be bound. He hoped such a system would
   
 be framed as might render this resou ce unnecessary, ; tjon 0f this Union, to depend on the successful main
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851040901:0294/pct:8.848797250859107,28.179206129615835,40.12027491408935,7.8535702883899114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022627:1851040901:0294/pct:6.6447085779750825,21.134404597211876,30.08735500501217,5.895498563371289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ as a dissolution of all previous compacts by which
 &#x27; be framed as might render this resource unnecessary.  
 and moved that clause be postpone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851040901:0187/pct:10.031446540880504,29.318266484539922,20.17295597484277,8.25779212715758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851040901:0187/pct:7.532630916810819,21.991804296535452,15.128164805787073,6.1964485284986965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ hoped such a system would be framed as
 might render this resource unnecessary,  
 and moved that the clause be postponed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1851051001:0395/pct:115.64594407210538,142.834318581243,52.80795008088745,39.38328806518613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1851051001:0395/pct:28.904805914972272,35.70287539936102,13.198937153419593,9.844249201277956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ Je hoped such a system would be framed as la
 night render this resource unnecessary, and it  
 noved that clause be postponed. This mo* a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067976:00202193985:1851060601:0078/pct:24.928057553956833,45.33739456419869,19.22661870503597,12.089971883786317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn93067976:00202193985:1851060601:0078/pct:24.940047961630697,45.34520462355514,19.22661870503597,12.089971883786317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ bound. He hoped such a system would be framed
 as might render this resource unnecessary, and  
 moved that clause be postponed. This motio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851060701:0484/pct:3.573546856465006,5.533969151065583,40.40628706998814,123.18379842223007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851060701:0484/pct:2.6842651638736466,4.156364064523725,30.312917099214,92.3937360178971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ hoped such a system would be framed as
 might render this resource unneceasary, and  
 moved that clause be postponed. Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1851072601:0439/pct:275.6953944368445,127.91258235577696,54.01276789785682,43.78916921099148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1851072601:0439/pct:68.90813767950763,31.97300771208226,13.500113973102348,10.945533419023135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ bound. Ho hoped that such a system would be fram­
 ed as might render this resource unnecessary, and  
 moved that the clause be postponed. This motion wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851082301:0526/pct:34.78260869565217,102.2753656837706,18.64765669113495,10.181100534014394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016866:00295878198:1851082301:0526/pct:26.094323637390566,76.71232876712328,13.993222253600678,7.638727652658463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ ste. This conclusion is strengthened, if posle,
 by the notion of the cpnypntjon ppon Mr.  
 tterson&#x27;s plan of a Constitution, subsequentl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851091301:0884/pct:86.08239700374531,20.81879506862061,14.142322097378278,14.631309606885322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851091301:0884/pct:86.09238451935082,20.81879506862061,14.132334581772785,14.639063348065442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ such a system would be framed as might render
 this resource unnecessary, and moved that the  
 clause be postponed. This motion was agree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851092301:0916/pct:32.24244203111242,41.61097432289834,14.572938068682125,8.688005627857896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851092301:0916/pct:32.25222580960767,41.618790792199164,14.58272184717738,8.688005627857896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ dissolution of all previous compacts by which it might be
 j render this resource unnecessary, and moved that clause be  
 postponed. This motion was agreed to, no one dissent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851092301:0439/pct:14.874473951530982,33.69061413673233,16.470758960963575,6.797991502510622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851092301:0439/pct:14.879311178832292,33.697051628685465,16.470758960963575,6.797991502510622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ pacts by wliich it might be bound. He hoped
 , this resource unnecessary, and moved thut the  
 clause be postponed, This motion was agree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851092401:0165/pct:29.457142857142856,40.43405676126878,15.9,8.770172509738453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851092401:0165/pct:29.461904761904762,40.44147653496568,15.904761904761905,8.770172509738453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ would be framed a* wouid render such a re­
 course unnecessary, and moved that the claiii»e  
 be postponed. This motion wa* agreed to, n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851101101:0550/pct:82.51283026040677,36.966238052671386,12.792244820376354,8.49893419514543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851101101:0550/pct:82.50498907155755,36.96369636963696,12.794196838670848,8.500641730839751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ might be bound. Ho hoped such a system I
 would be framed as might render this resource a&quot;d  
 unnecessary, and moved that the clause be post- ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851111301:1089/pct:70.65055207400776,27.346032488021503,14.473291554759774,9.185462194694402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851111301:1089/pct:70.65055207400776,27.346032488021503,14.478265194469312,9.193253087141132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ might be bound. He hoped such a system
 tfould be framed as might render this resource  
 innt&#x27;cessnry, and moved that the clause be postjoned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851111501:0212/pct:69.3768887609728,27.68729641693811,15.268383940135271,9.873076491070426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1851111501:0212/pct:69.3768887609728,27.694784529559325,15.27318079339953,9.86933243475982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ would probably be considered by the party
 attacked, as a dissolution of all previous com-  
 paces oy wuicn ji.migni oe oouuu. Alte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877662:1852012201:0137/pct:41.5819209039548,54.29400186470527,16.991525423728813,9.914016367968507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn87065038:00295877662:1852012201:0137/pct:31.19525289629839,40.723091266963635,12.757841198078554,7.438102144411064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ paces oy wuicn ji.migni oe oouuu. Alte
 an ingredient, seemed to provide t&#x27; r its  
 own destruction.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1860032101:0893/pct:28.556454028152142,74.816091954023,13.402216232404912,1.7701149425287357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1860032101:0893/pct:28.566437057003096,74.816091954023,13.397224717979435,1.7777777777777777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ dissolution of all previous compacts by which
 Mr. Hamilton, who, if I were to express a  
 jndgment by way of comparison, I would sa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860051701:0427/pct:55.255916345624655,205.9285091543156,33.95707209686296,13.121185701830862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860051701:0427/pct:13.813979086406164,51.4821272885789,8.48926802421574,3.2802964254577156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ of punishment, and would probably be considered by the party
 attacked as a dissolution of all previous compacts by which it  
 might be bound.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293290:1860052301:0493/pct:118.35722160970232,242.77848369335027,43.60529217199559,6.903854299025837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293290:1860052301:0493/pct:29.58930540242558,60.69462092333757,10.901323042998898,1.7259635747564592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ i be bound. lie hoped that such a system would j
 I be framed as might render this resource untie- j  
 cessary; and moved that the clause be post- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860100901:0331/pct:51.00688924218336,46.69241433947316,11.950185479597245,6.872648049118637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860100901:0331/pct:51.00688924218336,46.695715323166304,11.954601660484013,6.875949032811778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -831,7 +831,7 @@ of all previous compacts by which it might
   
 be bound, lie moved that the clause b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1860120101:1144/pct:19.173859432799013,77.27967996234851,17.956226880394574,8.353923991057771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:sn84026912:00211109981:1860120101:1144/pct:19.173859432799013,77.28360199239127,17.96136457048911,8.35784602110052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,7 +861,7 @@ a system would be framed as might render this
 resource unnecessary, and moved that the  
 clause be postponed. This motion was agree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860121401:0405/pct:38.426606117269934,8.905065815715995,15.13289702150394,7.638611886717192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860121401:0405/pct:38.426606117269934,8.905065815715995,15.14180134455278,7.641935912777556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -893,7 +893,7 @@ ouch a system would bo framed as might ren­
 der this resource unnecessary, and moved  
 that the clause be postponed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557207:1860122801:0612/pct:22.384129213483146,44.82056502926953,12.640449438202246,10.040722830236701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557207:1860122801:0612/pct:22.392907303370787,44.82056502926953,12.649227528089888,10.056630185797912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1052,7 +1052,7 @@ He hoped that such a system would bo framed as
 might render this source unnecessary, and moved  
 thac the clause be postponed. This motion wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1861011801:0268/pct:84.5163663111438,7.46790112673596,13.583425278901556,8.533496375229278/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1861011801:0268/pct:84.5163663111438,7.470812589163537,13.599771157696866,8.533496375229278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1078,7 +1078,7 @@ and would be considered by the party attacked
 as a dissolution of all previous compacts by  
 which it might be bound;&quot; he opposeed th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861012101:0071/pct:124.36600919472045,186.59815658438393,39.01824113895892,13.158173535332132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861012101:0071/pct:41.45533639824015,62.199385528127976,13.006080379652973,4.386057845110711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1108,7 +1108,7 @@ system would be framed as might render this re­
 source unnecessary, and moved that the clause be  
 postponed. This motion was agreed to unanimously
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861012601:0049/pct:85.70234113712375,12.433139189349816,19.91638795986622,10.614525139664805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861012601:0049/pct:64.31320060230885,9.330797575181267,14.957336456416263,7.963865446333056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1137,7 +1137,7 @@ He hoped that such a system would be framed
 as might render this resource unnecessary, and  
 moved that the clause be postponed.--Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861012701:0042/pct:102.14994487320838,64.75419057261784,33.95810363836825,19.39475756553043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861012701:0042/pct:25.544527157430384,16.18854764315446,8.491866556382686,4.8486893913826075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1163,7 +1163,7 @@ and would be considered by the party attacked
 as a dissolution of all previous compacts by  
 which it might be boundhe opposed the us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861012901:0459/pct:16.06100795755968,67.87731256085686,12.13527851458886,5.111976630963973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861012901:0459/pct:16.069849690539346,67.87731256085686,12.13969938107869,5.118468029860435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1218,7 +1218,7 @@ hoped such a system would be framed as might render
 this resource unnecessary, and moved that the ciause be  
 postponed,&quot; which motion was agreed to nemt con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861020901:0355/pct:250.37958326603135,110.6759176365264,46.43837829106768,21.01611459265891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861020901:0355/pct:83.45986108867712,36.8919725455088,15.479459430355893,7.005371530886302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ gredieut seemed to provide for its own destruc­
 tion. The use of force against a State would  
 look more like a declation of war.&quot; Debates i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1861021301:0048/pct:98.41831916902738,5.643280100484478,27.455146364494805,117.46815000897183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1861021301:0048/pct:73.84579053016886,4.234703032478019,20.592750029519422,88.10335546384353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1266,7 +1266,7 @@ be considered by the party attacked as a disoahi
 tion of all previous comparts by which it might  
 lie liound;&#x27; he opposed the ie of force. If th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1861021301:0048/pct:112.37016052880075,52.12632334469765,14.18791312559018,5.508702673604881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014306:00202191691:1861021301:0048/pct:84.30747431810131,39.09922842275256,10.650608100129885,4.12704109097434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1285,7 +1285,7 @@ and efficiency of it, when applied to people col
 lectively and not individually.&quot;  
 Alexander Hamilton said, &quot;to coerce the State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1861021401:0222/pct:16.95040710584752,300.53117137265866,49.37083641746854,10.399776348895722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn84028822:00280775459:1861021401:0222/pct:4.239955563784484,75.13279284316467,12.349564895389742,2.5999440872239306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1311,7 +1311,7 @@ He hoped that such a system would be framed as might
 render this resource unnecessary, and moved that t  
  clause be postpened. This motion ean aareed o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861030301:0546/pct:237.8096479791395,53.285165951682096,47.83246414602347,15.03725445924588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861030301:0546/pct:79.26988265971316,17.76172198389403,15.944154715341156,5.01241815308196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1362,7 +1362,7 @@ ation of war than an infliction of punishment,
 tion of the United States, expressly declared  
 hat the powers of government may be rea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861031501:0166/pct:90.18058690744921,116.4562618701821,35.10158013544018,26.90202212043347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861031501:0166/pct:22.55469301340861,29.114065467545526,8.77911079745942,6.725505530108368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1379,7 +1379,7 @@ Mr. Mapisox objected to it on the ground that a
 Union centaining such an ingredient &quot;seemed to  
 provide for its own destruction.&quot; Mr.Farrerson, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032201:0279/pct:22.829763246899663,303.0050083472454,45.94137542277339,5.509181969949917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032201:0279/pct:5.708245243128964,75.75125208681135,11.486962649753348,1.3772954924874792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1409,7 +1409,7 @@ source unnecessary, and moved that the clause be
 postponed. This motion was agreed to, nem, con.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032701:0294/pct:247.9490022172949,137.0534770661594,44.73392461197339,22.8281547241598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032701:0294/pct:61.99584199584199,34.26336926653985,11.185031185031185,5.70703868103995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1434,7 +1434,7 @@ be considered by the party attacked as a dissolution
 of all previous compacts by which it might be  
 bound
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861042801:0407/pct:24.886363636363637,109.24794607120286,45.85227272727273,15.757320412892353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861042801:0407/pct:6.222474783349908,27.311986517800715,11.46469668987072,3.9393301032230883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1507,7 +1507,7 @@ the practicability, the justice, aud the efiica- |
 ,.y of it?when applied to people collective- j  
 lv and not individually. The use of force 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663523:1861050201:0013/pct:2.4494272483548625,18.581534879555836,13.453570558128199,2.8924509716127877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663523:1861050201:0013/pct:2.4494272483548625,18.587504850601473,13.457632626533432,2.895435957135608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1566,7 +1566,7 @@ pacts by which it might be bound.&quot;
 General Hamilton, speaking on the same subject  
 said: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861050401:0178/pct:27.55,36.70389733840304,19.45,9.351235741444867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861050401:0178/pct:20.67700516925129,27.530893536121674,14.607303651825912,7.022338403041825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1672,7 +1672,7 @@ by which it might be bound.&#x27;
 Gen. Hamilton, speakingoci the same subject, said:  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1861050701:0290/pct:2.4277141298417892,71.85590221936314,20.103655210038188,10.046102712554948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1861050701:0290/pct:1.8281036834924966,53.897287445052,15.088676671214188,7.537257424681034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1703,7 +1703,7 @@ solution of all previous compacts by which it
 might be bound.&quot;  
 General Hamilton, speaking on the same sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_price_ver01:data:sn84026547:00296022962:1861050701:0294/pct:92.71099744245524,50.414560161779576,17.033248081841432,9.595551061678464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_price_ver01:data:sn84026547:00296022962:1861050701:0294/pct:69.557431568176,37.8159757330637,12.778204144282425,7.199191102123357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1731,7 +1731,7 @@ i considered by tho party attacked as dis­
 solution of nil previous compacts by which  
 it uii ht be bound.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1861050801:0365/pct:9.325498211548288,96.40667735546543,16.13438937148697,8.469301141186456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667826:1861050801:0365/pct:7.002300025555839,72.30972366311421,12.100690007666753,6.3472602093747055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1760,7 +1760,7 @@ pacts by which it might be bound.&quot;
 General Hamilton, speaking on the same subject,  
 said: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022652:1861050801:0504/pct:27.338651196519216,35.569183595247225,19.19869470630892,9.441676248882075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022652:1861050801:0504/pct:20.511425462459194,26.676887696435415,14.41784548422198,7.090839402069759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1787,7 +1787,7 @@ be considered by the party attacked a disso­
 lution of all previous compacts by which it  
 might be found.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1861050801:0077/pct:30.42763157894737,248.78399769751044,180.50986842105263,21.643401928335013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1861050801:0077/pct:7.610037021801728,62.19599942437761,45.14603044014809,5.410850482083753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1813,7 +1813,7 @@ tacked as a dissolution of all previous compacts by which it
 might be. bound.  
 General Hamilton, speaking on the same subjact, said 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1861050901:0310/pct:64.54498977505112,50.90407308717168,19.56799591002045,6.02398172820708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1861050901:0310/pct:48.43370412990666,38.180433955081845,14.678429868303287,4.520365435858394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1850,7 +1850,7 @@ bound.&#x27;
 General Hamilton speaking on the same  
 subject said ; 13ut how can this force b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879440:1861051001:0169/pct:21.247300215982722,40.653277422202606,19.681425485961125,20.933568748620612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879440:1861051001:0169/pct:15.94437694073174,30.489958066651955,14.756311597137843,15.702935334363275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1902,7 +1902,7 @@ applied to the people, collectively and not individ
 ually.  
 The use of force against a State would look mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861052201:0488/pct:211.19954519613415,134.7341878545913,45.0824332006822,9.83399873923093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861052201:0488/pct:52.81489906170031,33.68354696364783,11.273812908729031,2.4584996848077325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1935,7 +1935,7 @@ that such a sytem would be framed as might
 render this resource unnecessary, and moved  
 that the clause be postponed. The motio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861052701:0505/pct:51.001038113599286,47.626683771648494,37.490731128577785,20.95360273679709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861052701:0505/pct:17.00034603786643,15.875561257216164,12.496910376192595,6.984534245599031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2035,7 +2035,7 @@ refused&quot;
   
 Deatn or . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1861060501:0191/pct:79.18927064496685,17.741935483870968,87.20614828209764,153.59447004608296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014129:00279528724:1861060501:0191/pct:26.396423548322282,5.913978494623656,29.06871609403255,51.19815668202765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2081,7 +2081,7 @@ The stand taken upon this question by
 the fathers of the Republic, on that memor­  
 able day was never changed by them. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1861060601:0685/pct:36.321107784431135,22.417707150964812,17.365269461077844,18.94154370034052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn86063325:00200292480:1861060601:0685/pct:27.2608125819135,16.81328036322361,13.031267552892716,14.216799091940976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2119,7 +2119,7 @@ ter, Mr. Pinckney moved in the
 &quot;That the National Legislature should have au-3  
 &quot;thority
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1861060701:0480/pct:52.2672260771341,68.78416130207701,14.765208972083267,13.494473460463986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1861060701:0480/pct:52.272605023936315,68.78416130207701,14.765208972083267,13.506619701202478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2141,7 +2141,7 @@ on observed, &quot;that the more he reflected on
 he use of force, the more he doubted the prac  
 icability, the justice, and the efficacy of it,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861061101:0346/pct:31.356968215158926,106.1548943901885,75.06112469437653,9.402679990915285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861061101:0346/pct:7.8404401650618984,26.538723597547126,18.768149167048755,2.3506699977288212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2171,7 +2171,7 @@ this resource unnecessary, and moved that the
 claii-e be postponed,&quot; which was unanimously  
 agreed to J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861061501:0589/pct:83.29395413481585,29.074456575194255,10.771369006254343,4.996557489918363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026384:1861061501:0589/pct:83.30321982858466,29.074456575194255,10.766736159369932,5.003114651978624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2225,7 +2225,7 @@ pacts by which it might be bound.&quot;
   
 THE WHEAT CROP
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861101701:0999/pct:221.97566213314244,280.3791715361641,49.96420901932713,35.216205687573044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774662:1861101701:0999/pct:55.51378446115288,70.09479288404103,12.495524525599713,8.804051421893261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2259,7 +2259,7 @@ mously, and the vote upon it conclusively e
 iroves that, by the unanimous sentiment of 1  
 ho Convention, the proposition to give the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861101701:0160/pct:38.0583043594544,67.11645643883837,12.436480342337523,9.054463674586877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664394:1861101701:0160/pct:38.06276187929036,67.11645643883837,12.436480342337523,9.060982366937193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2284,7 +2284,7 @@ Euniahment, and would probably be considered
 y the party attacked as a di«aolution of all  
 prcviouaeompacla by which it might be bound.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557438:1861101901:1068/pct:26.499102333931777,84.7092419522326,11.526032315978457,4.21858774662513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014489:00279557438:1861101901:1068/pct:26.508078994614003,84.71897715472481,11.53052064631957,4.215342679127726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2315,7 +2315,7 @@ by which it might be bound.”—
 “Any Government for the United  
 States formed on the supposed prac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016108:00415625649:1861102601:0036/pct:62.71822789562606,74.59776383965094,18.04017270508729,15.039541859830925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016108:00415625649:1861102601:0036/pct:48.61548906454585,57.81261007396971,13.976043838805102,11.666079605494893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2390,7 +2390,7 @@ ject was incidentally brought in afterward,
 but always with a fixed opinion on their part  
 that the exertion ot force to compel State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1863052301:0079/pct:78.16091954022988,21.887769000272407,14.358394573205201,15.28193952601471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557992:1863052301:0079/pct:78.16091954022988,21.894579133751023,14.377237610702846,15.28193952601471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2423,7 +2423,7 @@ agreed to, nem con. -Wadtson Papers, p. fol
 Alexander Hanllton used the following language on the  
 same subject. After referring to the case of shays&#x27; re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743440:1863060401:0559/pct:110.86306908068202,104.19183377627446,47.073299349622076,20.790045904807926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743440:1863060401:0559/pct:36.95435636022734,34.73061125875815,15.69109978320736,6.930015301602642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2475,7 +2475,7 @@ the States containing such an ingredient seems to
 provide for its own destruction. (8  
 AerAlaM LincOle- Without force it is i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863081901:0178/pct:68.64289022695692,217.24958153466656,49.83788791106994,13.81376090212316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295729:1863081901:0178/pct:17.16072255673923,54.31239538366664,12.459471977767485,3.45344022553079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2499,7 +2499,7 @@ containing such an ingredient seems to
 provide for its own destruction.  
 Abraham Lincoln- Without force it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1863082701:0356/pct:71.62225338943432,66.9004984308658,49.18186068256195,25.549196972494002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:00200295808:1863082701:0356/pct:17.90974982464344,16.72512460771645,12.298339957914425,6.3872992431235005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2625,7 +2625,7 @@ such a system would be framed as might
 render this unnecessary, and moved that the  
 clause be postponed. This (notion wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn86092517:00415660595:1864021601:0155/pct:16.768853464132434,49.61748633879781,16.09442060085837,12.52856433184302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn86092517:00415660595:1864021601:0155/pct:16.768853464132434,49.6241099519788,16.09442060085837,12.531876138433516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2659,7 +2659,7 @@ frained as wight render this recource
 unnecessary, and moved that the clan  
 se be postponed. The motion wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1864030301:0778/pct:83.38870431893687,305.0510626552581,55.98006644518272,50.73143803477781/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1864030301:0778/pct:20.851505711318797,76.26276566381452,13.997923156801662,12.682859508694452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2724,7 +2724,7 @@ such a system might be framed as might ren
 er this resource unnecessary, and moved  
 that the clause he postponed. This motio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864093001:0798/pct:201.1331444759207,184.42780003483713,59.39565627950897,44.52186030308309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864093001:0798/pct:50.31892274982282,46.10695000870928,14.859437751004016,11.130465075770772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2816,7 +2816,7 @@ that such a system would be formed, as
 might render this resource unnecessary,  
 and moved that the clause be postponed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031601:0246/pct:105.15653775322284,260.9658839167036,38.67403314917127,22.906513070447495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031601:0246/pct:26.293169608595548,65.2414709791759,9.669992325402916,5.726628267611874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2887,7 +2887,7 @@ On the sth of June Mr. Pinckney moved
 have authority to negative all laws (of  
 btates, which they should judge to be im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870082501:0711/pct:22.54901960784314,120.27934461455816,52.205882352941174,42.7074939564867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870082501:0711/pct:5.639558643236616,30.06983615363954,13.056804250102166,10.676873489121675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2926,7 +2926,7 @@ that the National Legislature should
 have authority to negative all laws tol  
 States, which they should judge to be im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870090101:0717/pct:76.54220779220779,83.45400911772593,52.02922077922078,42.853311879860556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870090101:0717/pct:19.14332115306537,20.863502279431483,13.01258627689809,10.713327969965139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2965,7 +2965,7 @@ that the National Legislature should
 have anthority to negative all laws fof  
 stales, which they should judge to be in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870090801:0721/pct:72.86063569682152,80.46927076389815,51.344743276283616,43.83415544594054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00212470491:1870090801:0721/pct:18.21515892420538,20.117317690974538,12.836185819070904,10.958538861485135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2985,7 +2985,7 @@ union of the States containing such an
 ingredient seemed to provide for its own  
 destruction.&quot; It &quot;might preserve th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877650:1879030501:0071/pct:38.77878950187466,97.36115711604285,14.234065345474022,4.4275146295682895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877650:1879030501:0071/pct:29.087987143431096,73.02638842883957,10.687022900763358,3.323396268079938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3027,7 +3027,7 @@ He hoped that such a system would be framed
 as might render this resource unnecessary, and  
 moved that the clause be postponed. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882061801:0511/pct:81.17559523809524,13.718084302764769,100.9672619047619,372.2012388578335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882061801:0511/pct:20.29389880952381,3.4295210756911922,25.241815476190474,93.05030971445838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3107,7 +3107,7 @@ considered by the party attacked as a dissolu-
 tion of all provious compacts by which it might  
 be bound.&quot; Wadisen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031078:1892121401:0722/pct:96.34512683578104,273.2971977909593,40.53738317757009,16.966659848639804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031078:1892121401:0722/pct:32.115042278593684,91.09906593031977,13.51246105919003,5.655553282879935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3132,7 +3132,7 @@ ared by the party attacked as a dis-­
 stion of all previous compacts by which  
 night be bound.&quot; Madison. A Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:00175048388:1892121401:0706/pct:61.32369847265561,229.89342078294732,40.203645918870095,14.603402336544374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:00175048388:1892121401:0706/pct:20.441232824218535,76.63114026098245,13.40121530629003,4.867800778848125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

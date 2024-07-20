@@ -75,7 +75,7 @@ arrived al Wefi Point from Hartford, and 15,70
 Doult, taking the proper Meaftres 16 trace toiis  
 Source so dangerous.a Plat. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780102101:0422/pct:35.07462686567164,50.740900589843186,28.1387181738367,31.405553157819018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780102101:0422/pct:35.08194322505121,50.75049153599002,28.1387181738367,31.39596221167218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ arrived at West point from Hartford; and is no
 doubt taking proper measures to unravel fully so  
 hellish a plot.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841120901:1132/pct:170.84777812795463,134.9533571346309,39.11125118184683,52.735229759299784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841120901:1132/pct:56.9402867496455,44.979272224781205,13.035029672811302,17.576385690158144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ plot.
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1847-04_5_4/page/n59/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1847-04_5_4/page/n59/mode/1up?view=theater)
 
 #### 1847-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -493,7 +493,7 @@ vent the fatal misfortune.
 Further on is given the preceedings of the Court  
 Martia&#x27;, in weich they report
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857030601:0438/pct:104.00662251655629,92.23557692307692,47.18543046357616,15.132211538461538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530534:1857030601:0438/pct:34.66887417218543,30.745192307692307,15.728476821192054,5.044070512820513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ fatal misfortune.&quot;
 Further on is given the proceedings of the conrt-mar­  
 in which they report
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661629:1857032801:0041/pct:2.8901734104046244,88.66120218579235,15.551885494082025,5.201765447667087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661629:1857032801:0041/pct:2.8947609872465363,88.66820793050302,15.556473070923937,5.198262575311755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ timely discovered to prevent the fatal misfortune.&quot;
 Further on are given the proceedings of the court-martb  
 in which they report
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857033101:0431/pct:7.132576363345594,73.79923761118171,15.032784263553495,4.332909783989835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857033101:0431/pct:7.1379071379071375,73.80347310461669,15.032784263553495,4.341380770859805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ His Fxcellency the Commander-in-chief has
 arrived at West Point, from IHartford, and is  
 now dcrbtless taking proper steps to unrave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021523:00514152731:1860070701:0026/pct:33.3611760775142,14.869382196360034,31.373204143000333,81.13160827039742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021523:00514152731:1860070701:0026/pct:33.3611760775142,14.87763608600553,31.38434124067268,81.12748132557468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -88,7 +88,7 @@ or by practice, to the services of the Firat Magistrate,
 his office, though nominaily elective, will, in fact, be for  
 life, and that will soon degenerate into an inheritance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:149.87978842763263,240.09035097880226,47.010738900464816,32.89702305108305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:49.959929475877544,80.0301169929341,15.67024630015494,10.965674350361018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ d his term.&quot; &quot;If some period be
 &quot;for life, and that will soon degenerate into  
 &quot;an inheritance.&quot; So for nearly a hundre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0594/pct:56.27478978264318,174.29654301137018,46.80310963033476,12.713908349603766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0594/pct:18.758263260881062,58.09884767045672,15.60103654344492,4.237969449867922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ not fixed, either by the constitution or by practice, the offic
 already written, ‘be not fixed, either by  
 the constitution or by practice, the offic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895090401:0323/pct:56.115107913669064,43.316753095565666,12.00885445489762,0.9313154831199069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346812:1895090401:0323/pct:56.12433130418742,43.316753095565666,12.00885445489762,0.9348431932832398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ must be the strongest pos­
 , sible.  
 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1898041501:0725/pct:15.426078028747433,18.910997994755515,15.836755646817249,7.265155020823693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_deepspace_ver01:data:sn87091045:00513688167:1898041501:0725/pct:15.44318959616701,18.92128129980976,15.836755646817249,7.265155020823693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ The government which can wield
 the arm of the people must be the  
 strongest possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:95.95714285714286,68.32671460770635,14.8,4.411291188150693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:71.98171167309616,51.25040249007191,11.101585940848693,3.3057851239669422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

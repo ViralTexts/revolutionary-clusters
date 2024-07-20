@@ -653,7 +653,7 @@ see the interesting spectacle of crowds of
 invalids on training days,suddenly afflicted  
 with rheumatisms, lame backs, spraine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1843050201:0592/pct:21.450617283950617,42.88766788766789,14.323793490460156,7.946682946682946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151313:1843050201:0592/pct:21.450617283950617,42.894451227784565,14.337822671156005,7.950074616741284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -757,7 +757,7 @@ The royal banuer, and all quality,
 Pride, pomp, aud circumstuuee of glorious  
 wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1844113001:0107/pct:30.896892655367232,51.147213909077955,19.84463276836158,6.313239276043894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1844113001:0107/pct:23.185590676319972,38.363973207923614,14.886102772382129,4.745617785378367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ Farewell, Storms’ occupation has gone.”
 We, i n common with all the admirers of the military  
 from the fair damsel who peeps at them through th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00205958162:1850120101:0002/pct:54.72332619993885,45.06159498595202,9.752369306022622,3.02571860816944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barnes_ver02:data:sn83030362:print00205958162:1850120101:0002/pct:54.72332619993885,45.06699805489518,9.767655151329869,3.02571860816944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,7 +915,7 @@ And O yon mortal engines whose rude thronts,
 he immortal Jove&#x27;s dread clamors countefeit  
 Farewell!&quot; young Franklin&#x27;s &quot;occupation&#x27;s gone!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1852091001:0113/pct:20.464737056665307,13.030432918988426,145.556461475744,363.7805400771539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1852091001:0113/pct:5.115141634399837,3.257142857142857,36.381699612798045,90.93214285714286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1133,7 +1133,7 @@ The spirit stirring drum, the ear-piercing fife,
 The royal banner, and all quality.  
 Pride, pomp, and circumstance of glorious war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861042501:0207/pct:48.757448045342244,43.30128205128205,11.175701206220026,9.38034188034188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:0041421244A:1861042501:0207/pct:48.7503632664923,43.296656340134604,11.177709968032548,9.38201046896699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1158,7 +1158,7 @@ And O! you mortal engines, who se rude throats,
 The immertal Jove&#x27;s dread clamors counterdit,  
 Farewell! Othello&#x27;s occupation&#x27;s gone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861110401:0426/pct:194.87317862924988,131.23096446700507,44.702284583558196,18.17258883248731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn86071866:00414184728:1861110401:0426/pct:64.94604316546763,43.73810430148458,14.898081534772182,6.0567609863384515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1252,7 +1252,7 @@ The immortal Jove&#x27;s dread clamors coun
 terfeit,  
 Farewell! Othello&#x27;s occupation&#x27;s gone?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024660:00414184765:1865051301:0052/pct:176.03633360858794,195.17241379310346,38.21635012386457,20.35632183908046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024660:00414184765:1865051301:0052/pct:58.66908850726552,65.04999425353408,12.736679876706297,6.784660766961652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1303,7 +1303,7 @@ We can sell them lower than any other house in
 town. G. HIRSH &amp; CO.  
 april 29-t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348690:1868042901:0304/pct:43.22797104008476,26.06439595529537,12.590499735122727,4.2442788717402875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348690:1868042901:0304/pct:43.220338983050844,26.0609285619263,12.592690677966102,4.247040042570174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1323,7 +1323,7 @@ she wants is a Parasol or sun Umbrella, which
 —being of our own manufacture iu Philadelphia.  
 (Ye can sell them lower than any other house i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348690:1868052001:0318/pct:16.509349955476402,93.53121256488753,12.662511130899377,2.6088113935844537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348690:1868052001:0318/pct:16.506410256410255,93.51876497205217,12.664707977207977,2.6117913228639873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1343,7 +1343,7 @@ can be bought at low prices at the Fancy Bazar
 —being of our own manufacture in Philadelphia.  
 Wfe can seU them lower than any other house i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348690:1868052701:0322/pct:82.76107454189646,91.85224696626217,12.737946984522328,2.6136818242432325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348690:1868052701:0322/pct:82.74635361081465,91.84,12.740128068303095,2.6166666666666667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1369,7 +1369,7 @@ on the following morning we were on our
 way, and at three oclock in the afternoon  
 halted, having passed the line of Dougla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528633:1868081101:0172/pct:9.618341954424716,225.79029385574356,60.81364462463302,12.544523597506679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279528633:1868081101:0172/pct:3.206113984808239,75.26343128524785,20.271214874877675,4.18150786583556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1631,7 @@ Farewell the plumed troop, and the big wars
 That make ambition virtue!O farewell!&quot;  
 But may be the general will do nothing of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779593:1880110901:0513/pct:165.8385093167702,175.46267415263048,34.523809523809526,5.156997296735288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779593:1880110901:0513/pct:41.46499288210172,43.86566853815762,8.632069367154134,1.289249324183822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1733,7 +1733,7 @@ The spirit stirting drum, the ear-piercing fife,
 The royal banner; and all quality  
 Pride, pomp and circumstance of glorious war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82014681:00294552042:1885071101:0064/pct:31.743772241992882,232.88301235987353,40.49822064056939,10.347801092267893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82014681:00294552042:1885071101:0064/pct:7.940181591596938,58.22075308996838,10.129962613494747,2.5869502730669733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1759,7 +1759,7 @@ The spirit-stirring drum, the ear-piercing life,
 T:io royal banner; and nil quality.  
 i&#x27;riilc, pomp and circumstance of plorious war
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175035278:1885072901:0294/pct:57.20923029270559,44.14490311710194,13.194982189871457,3.9806234203875315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn90059522:00175035278:1885072901:0294/pct:57.21439264880492,44.14490311710194,13.194982189871457,3.9806234203875315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1827,7 +1827,7 @@ Farewell, the neighing steed and the shrill
 trump,  
 The spirit-stirring drum • • 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:0041421096A:1892011501:0049/pct:17.83052177324441,46.454656116859404,12.357787367595135,1.704199634814364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:0041421096A:1892011501:0049/pct:17.82702490684448,46.44758862011258,12.360266718964503,1.7077438003955576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

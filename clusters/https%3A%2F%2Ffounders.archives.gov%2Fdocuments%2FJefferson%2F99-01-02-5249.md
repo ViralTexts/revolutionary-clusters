@@ -71,7 +71,7 @@ shall have been given be found on any
 part of the lab da aforesaid, shall mine­  
 over incur * penalty of one hundred dol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032301:0002/pct:78.17400644468313,10.762331838565023,18.539205155746508,8.11251528740318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807032301:0002/pct:78.18116720372359,10.762331838565023,18.546365914786968,8.11251528740318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ firmed as pre emptions, ney cairn., e &lt;lis
 turned in their possessions, and are pos­  
 itively excepted from the op ration of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811012401:0336/pct:41.206120612061206,57.25993883792049,17.083708370837083,10.128440366972477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811012401:0336/pct:41.19870410367171,57.25293542074364,17.086633069354452,10.131278538812785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ mission shall not be granted to any such applicant, unless lit
 shall previously sign a declaration, stating that he does  
 not lay any claim to such tract or tract# ol land, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833102901:0204/pct:20.41239966786604,69.19014084507042,15.153611956822585,3.554137323943662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833102901:0204/pct:20.409575204095752,69.1825283309495,15.156127484894608,3.557413723548612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ part of the lands aforesaid shall incur a pen
 alty of one hundred dollars, to be recovered in  
 any court having jurisdiction of the same, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1860090801:0228/pct:74.96,130.06707494896472,57.52,35.228929717118696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1860090801:0228/pct:18.74,32.51676873724118,14.38,8.807232429279674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ be given to all such persons who were settled
 on such lands prior to the passing of that act;  
 and every person who shall, at any time afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1860092201:0232/pct:188.43648208469057,152.26264418811002,59.039087947882734,23.720792664892045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1860092201:0232/pct:47.13790996129558,38.065661047027504,14.76879201466694,5.930198166223011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ all such persons who were settled on such lauds
 prior to the passing of that act; and every  
 person who shall, at any time after the expira
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1860092901:0234/pct:126.7479674796748,192.37225739949935,59.51219512195122,19.967604182005594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_gaul_ver01:data:sn83021447:00237285475:1860092901:0234/pct:31.693433624720473,48.09306434987484,14.881073388900184,4.991901045501399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

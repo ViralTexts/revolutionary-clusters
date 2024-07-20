@@ -614,7 +614,7 @@ white females, including heads
 of families, 1,556,681  
 Other free persons, exclulive o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798053101:0002/pct:12.101593625498008,55.954452000632614,15.886454183266933,11.228847066266013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798053101:0002/pct:12.114043824701195,55.96235963941167,15.886454183266933,11.224893246876483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ Names of heads of families.
 _Free white males under ten years.  
 Free white males of ten and under six
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820041801:0167/pct:1.2925349512002111,11.745189117451892,36.42838301239778,85.55076310550763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820041801:0167/pct:1.2921940928270041,11.743241001824515,36.42536919831224,85.54071985403881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -717,7 +717,7 @@ number of persons within the United States taken
 according to the different nots providiig for the  
 enumeration of the United S’utes, prinbd bv nu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832090501:0080/pct:38.26196473551637,39.81042654028436,16.952141057934508,2.422327540810953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn82015332:00332897925:1832090501:0080/pct:38.25232938806346,39.8034398034398,16.95416771594057,2.4262899262899262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -879,7 +879,7 @@ of the United States. According to an Act pro
 viding tor the enumeration of the inhabitants  
 of the Unite! States, passed March the first
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871090901:0068/pct:5.5827619980411365,73.68853420959981,47.89422135161606,5.269334585142589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871090901:0068/pct:1.860920666013712,24.562844736533272,15.964740450538688,1.7564448617141963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ of the Unite! States, passed March the first
 the Office of the Secretary of State. Th. JEFFERSON.  
 &quot;October 24,470.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871090901:0068/pct:5.794972249428665,93.53362281422368,47.682011100228536,4.330477643469076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871090901:0068/pct:1.9316574164762215,31.177874271407894,15.894003700076178,1.4434925478230254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -918,7 +918,7 @@ certified as many of our late Govern
 ment officers, for neither were the re  
 turns accurate nor was the transcrip
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629229:1871091401:0722/pct:26.08012568735271,209.75543845426293,50.667714061272584,19.402783407647615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_iceberg_ver01:data:sn83025668:00415629229:1871091401:0722/pct:6.522593320235757,52.43885961356573,12.671905697445972,4.850695851911904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -957,7 +957,7 @@ the United States. According to an Act provid­
 ing for the enumeration of the inhabitants  
 of the United States, passed March the first
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1871091501:0150/pct:226.85185185185185,85.7805255023184,39.67236467236467,7.367336424523441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1871091501:0150/pct:56.72306322350846,21.4451313755796,9.919857524487979,1.8418341061308603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ of the United States, passed March the first
 posited in the Office of the Secretary of State.  
 &quot;October 24, 1791.&quot; Th. JEEFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1871091501:0150/pct:226.85185185185185,117.67130345182895,38.96011396011396,4.121586810922205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777031:1871091501:0150/pct:56.72306322350846,29.417825862957237,9.741763134461264,1.0303967027305512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ providing for the enumeration of the in­
 habitants of the Unied States, passed  
 March the fiist, 1790. Philadelphia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197449:1871092001:0155/pct:36.41087130295763,66.93593314763231,17.146282973621105,5.125348189415042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jay_ver01:data:sn84023428:00202197449:1871092001:0155/pct:27.3236058364981,50.20891364902507,12.852288626823906,3.8440111420612815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1060,7 +1060,7 @@ of the United States, according to an
   
 act providing for an enumeration ol the inbabltantaottheUnlted8tate?,paseelMaic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193444:1879120401:1157/pct:2.725518572117704,2.6928422515635857,24.095513748191028,94.49270326615705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_france_ver01:data:sn84026844:00202193444:1879120401:1157/pct:2.731548480463097,2.7015288394718553,24.089483839845634,94.50138985406532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

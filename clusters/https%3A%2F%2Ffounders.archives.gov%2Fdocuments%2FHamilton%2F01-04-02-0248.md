@@ -357,7 +357,7 @@ pra&amp;ises, which ha*» undermined the foundations
 of society, planted diftrult in allclaOViof citizens,  
 occasioned an almost universal prostration of raotals
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110201:0002/pct:72.04161248374513,37.06710853355427,20.234070221066318,2.8334714167357085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796110201:0002/pct:72.06111833550065,37.06710853355427,20.247074122236672,2.8376139188069596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -505,7 +505,7 @@ they inevitably fall into in their first trials
   
 ana experiment*. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821020101:0345/pct:19.144471347861177,62.63643996641478,14.592413236481033,7.040902003118628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821020101:0345/pct:19.141381536475144,62.62892780043176,14.595437916935657,7.044055329015751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ powerful individuals hi this State [New York] and other
 States are enemies to a general national government in  
 every possible shape.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851011901:0083/pct:15.969831119855714,58.404485790748055,15.658304640104936,6.129731107429591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851011901:0083/pct:15.975296496693447,58.404485790748055,15.663770016942669,6.138226923240304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ sentations to keep the truth from the public eye.&quot;
 in order to beget against the plan of the conven-­  
 tion, the disapprobation of the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853012101:0021/pct:174.1887355464379,87.2980251346499,54.625139873181645,9.275882704967085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853012101:0021/pct:43.547183886609474,21.824506283662476,13.656284968295411,2.3189706762417712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -670,7 +670,7 @@ tion, which Washington remarked in the letter of
 the Convention to the President of Congress, &quot;was  
 &quot;the result of a spirit of amity, and of that mutua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853012101:0021/pct:173.83439015292802,113.9736684619988,55.315180902648265,35.92160383004189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190534:1853012101:0021/pct:43.458597538232006,28.4934171154997,13.828795225662066,8.980400957510472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ ItErESTING FrOM ChINa.  A Washington
 despatch, of a recent date, says  
 Mr. Reed, late Minister to China, is here
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860030901:0207/pct:57.380688124306324,340.5334499344119,34.62819089900111,22.081329252295582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290069:1860030901:0207/pct:14.347162480921327,85.13336248360298,8.658248924656585,5.5203323130738955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -748,7 +748,7 @@ lie a compound as well of tlie errors and prejudices as of
 the good sense and wisdom of the individuals of wliom  
 tliey arc composed.&quot;—[Bs No. of Federalist 1 And &quot;tli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860041901:0389/pct:15.709841628959277,47.17000202142713,10.986990950226245,2.7996765716595915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009573:00296026360:1860041901:0389/pct:15.719268476621417,47.176740111852304,10.982277526395173,2.8030456168721782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ become parties to it, and it involved the
 necessity of a spirit of accommodation to  
 the reasonable expectations of the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768710:1861011801:0126/pct:18.822452715070163,48.86683955350096,12.568639414276998,4.814522494080505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:00271768710:1861011801:0126/pct:18.832621517185277,48.86683955350096,12.563555013219442,4.8295561318450035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ to it, and it involved the necessity of a spirit
 of accommodation to the reasonable expec­  
 tations of the people, and of moulding no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769301:1861011801:0312/pct:84.66581160039902,9.376334899615548,12.113438791506342,4.410508329773601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769301:1861011801:0312/pct:84.6753123367061,9.38345436423181,12.122939527813406,4.406948597465471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -982,7 +982,7 @@ admit that I have not failed in the assurance I gave
 you, respecting the spirit with which my endeavors  
 should be conducted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032701:0294/pct:248.17073170731706,205.87613612344114,44.12416851441242,8.370323398858591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032701:0294/pct:62.05128205128205,51.469034030860286,11.032571032571033,2.092580849714648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ union, must as necessarily be a compromise of as
 many dissimilar interests and inclinations. How can  
 perfection spring from such material?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032701:0294/pct:247.9490022172949,260.57915874022405,43.95787139689579,22.954977805960684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032701:0294/pct:61.99584199584199,65.14478968505601,10.99099099099099,5.738744451490171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1038,7 +1038,7 @@ each State.&quot;
 Even then it was only accepted by the most  
 strenuous efforts of the most influential men of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861041601:0362/pct:341.26268320180384,131.88590889740314,44.7576099210823,14.133673903788846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861041601:0362/pct:85.31567080045096,32.971477224350785,11.189402480270575,3.5334184759472116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1078,7 +1078,7 @@ tional government in every possibte shape.”
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1864-09_6_3/page/n99/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1864-09_6_3/page/n99/mode/1up?view=theater)
 
 #### 1864-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1107,7 +1107,7 @@ shape.’
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1864-09_6_3/page/n99/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1864-09_6_3/page/n99/mode/1up?view=theater)
 
 #### 1864-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1166,7 +1166,7 @@ to the mass of its powers; and on this account alone,
 I think there is no weight in the observation just  
 stated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1865011901:0921/pct:68.57962697274031,109.15298752462246,49.56958393113343,9.717662508207486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1865011901:0921/pct:17.14798206278027,27.288246881155615,12.394618834080717,2.4294156270518714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1222,7 +1222,7 @@ a compromise of as many dissimilar in­
 terests and inclinations.&quot;  
 The fundamental objection to the ol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:104.08785845027455,312.01764057331866,37.705918242831,12.083792723263507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:26.02990540128166,78.00441014332966,9.429356118400976,3.0209481808158767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1497,7 +1497,7 @@ are to be accommodated in their interests, or
 4 making such a system as will satisfy all the par  
  ties to the compact.&quot; James Madison declare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881073101:0149/pct:6.714285714285714,216.46660076260414,67.21428571428571,13.317328061008332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881073101:0149/pct:1.6794711452563873,54.116650190651036,16.812578166875113,3.329332015252083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1542,7 +1542,7 @@ over so considerable a part of the ground, to
 recommence the course.&quot; This was in view of  
 the talk of a new convention to modify th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1887121901:0221/pct:236.56080557707205,155.10703363914374,51.66537567776917,31.25382262996942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1887121901:0221/pct:59.17457857004457,38.776758409785934,12.923851966673125,7.813455657492355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1563,7 +1563,7 @@ passed over so considerable a part of the
 ground, to recommence the course.” Tins  
 was in view of the talk of anew conventio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:0041418196A:1887122301:0677/pct:21.862056546011164,88.43546825287038,15.829281469475958,3.9009544888642966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_bobbsey_ver02:data:sn86063034:0041418196A:1887122301:0677/pct:16.948127471505,68.54518814994819,12.263317050476855,3.023264124647107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1996,7 +1996,7 @@ must correct the mistakes, which
 they inevitably fall into in their  
 trials and experiments.&quot; Let u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87007277:0041566218A:1895062101:0957/pct:21.202809482001754,90.22801302931596,16.483757682177348,12.881255552265324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_minuette_ver01:data:sn87007277:0041566218A:1895062101:0957/pct:15.920070267896355,67.67841279241931,12.362758014931927,9.653538643766657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2192,7 +2192,7 @@ dissimilar interests and inclinations. How
 can perfection spring from such ma­  
 terials?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199422:1897062301:0292/pct:47.931395653312386,143.82257558322002,33.90940036658811,41.657077100115075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199422:1897062301:0292/pct:15.977131884437462,47.94085852774,11.303133455529371,13.885692366705024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

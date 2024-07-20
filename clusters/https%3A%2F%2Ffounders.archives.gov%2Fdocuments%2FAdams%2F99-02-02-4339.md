@@ -32,7 +32,7 @@ Appropriating a certain sum of money to de­
 fray the expense of holding a treaty or  
 treaties with the Indians
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799022201:0002/pct:62.44041944709247,78.8215842477078,16.682554814108673,4.268750939425823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laperm_ver01:data:sn83025881:print:1799022201:0002/pct:62.45829361296473,78.8215842477078,16.69447092469018,4.280024049301067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -52,7 +52,7 @@ certain sum of money to defray the |
 expence of holding a treaty or treaties |  
 with the Indians.—¢g. For augmenta- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799032701:0052/pct:7.8006500541711805,20.325841593875747,17.009750812567713,4.858180390617332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799032701:0052/pct:7.8006500541711805,20.325841593875747,17.01490997265645,4.867994896456963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ certain {fum of money to defray the
 expences of holding a treaty or trea­  
 ties with the Indians.—67 To mak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800052701:0294/pct:27.31752386818602,42.27944776265544,16.245765321835542,14.031136786448643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800052701:0294/pct:27.327789754645313,42.27944776265544,16.25089826506519,14.034400600541794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ To appropriate a certain sum of money to
 defray the expence of b /ding a treaty or  
 treaties with the Indians
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071701:0002/pct:77.7345649003403,16.291049581455248,16.771998055420514,4.990341274951707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071701:0002/pct:77.7467185221196,16.29507405022537,16.76592124453087,4.998390212491951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ fpe£\ively ; and in addition tn the fnm of
 ■ene and one-quarter per centum heretofore  
 &lt;lire£ted by law to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800081301:0003/pct:5.770171149144255,60.03244120032441,17.188264058679707,18.58880778588808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800081301:0003/pct:5.776283618581907,60.04055150040551,17.206601466992666,18.605028386050282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ allowance and payment thereof and in liea
 of Rampeduties on debentures,” was read a  
 third time. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802042001:0064/pct:78.15761609438815,15.529895293081514,15.912872485251853,2.7791369018494962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802042001:0064/pct:78.15761609438815,15.533157190853638,15.912872485251853,2.7758750040773723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ and payment thereof, and in lien ofstamp
 duties on debentnres.&quot;  
 Actssn act declaring the assent of Congrcss t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802050601:0048/pct:55.31569550397663,46.492409952393785,23.242980035708488,14.928590676367556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802050601:0048/pct:55.30671859785784,46.48823423747081,23.244617548415018,14.930243697982156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ trade and intercourse with the Indian tribes, and
 to preserve peace on the frontiers,approved A­  
 pril twenty-nine, eighteen hundred and sixteen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834101401:0477/pct:34.65317495233905,78.90952023183428,14.70890159847485,7.813673929376408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834101401:0477/pct:34.66295155692428,78.9166756108905,14.713789900767463,7.810096239848306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ passed thirtieth March, eighteen hundred and two, to
 segulate trade and intercourse with the indian tribes.  
 and to preserve peace on the frontiers, approved Apri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1857121101:0760/pct:69.02056277056278,255.8658134574365,42.451298701298704,19.701376769439598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1857121101:0760/pct:23.006854256854258,85.28860448581216,14.1504329004329,6.567125589813199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ are bereby, repealed, namely: an act to make pro
 vision relative to rations for Indians, and to their vis.  
 its to the peat of government, approved May thirtee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1857122501:0768/pct:71.86240257995162,253.62824990298796,42.27358237033056,13.213038416763679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1857122501:0768/pct:23.95413419331721,84.54274996766266,14.091194123443518,4.404346138921226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -682,7 +682,7 @@ regulate trade and intercourse with the Indian tribes,
 and to preserve peace on the frontiers, approved April  
 twenty-nine, eighteen hundred and sixteen; an ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858010801:0776/pct:71.96969696969697,244.05662206709326,42.18073593073593,29.668411867364746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1858010801:0776/pct:23.98989898989899,81.35220735569776,14.06024531024531,9.889470622454915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

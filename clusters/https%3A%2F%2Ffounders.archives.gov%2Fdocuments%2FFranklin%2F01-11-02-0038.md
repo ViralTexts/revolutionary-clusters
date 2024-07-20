@@ -638,7 +638,7 @@ contented with a quiet and peaceful enjoy­
 ment of tho same, not giving offence or scan­  
 dal to the Government.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1847111701:0035/pct:71.4774184356746,23.9035333707235,12.665621883459183,2.5350532809871003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083352:0041566882A:1847111701:0035/pct:71.48216745025407,23.91101140400075,12.670370898038657,2.5350532809871003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ be contented with a quiet and peaceable enjoyment
 of the same, not giving offence or scandal to the  
 Government. ”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1847113001:0187/pct:4.646113764654798,58.36159389571853,14.459400781589231,2.3420941076727426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1847113001:0187/pct:4.650938389540213,58.36159389571853,14.469050031360062,2.3526918185671897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ by the same contentions between proprie­
 tary Interest and power and popular 56­  
 erty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654905:1893100701:0729/pct:62.68608932287498,95.92423252775963,12.197854970385785,2.4820378837361203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654905:1893100701:0729/pct:62.68608932287498,95.92749836708035,12.20585881222987,2.4983670803396474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

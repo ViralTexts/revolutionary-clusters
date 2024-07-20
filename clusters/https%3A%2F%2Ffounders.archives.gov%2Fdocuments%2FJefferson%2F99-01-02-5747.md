@@ -198,7 +198,7 @@ which eagainly the President might con
 trols but @ this there wos never an exam.  
 ple, eithe in the first or in the presentad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829110501:0377/pct:28.859436251633376,6.4223385689354275,35.019600522680605,89.74985456660849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829110501:0377/pct:28.86565863978595,6.430095016482451,35.019600522680605,89.74209811906147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ certainly be better that one of them should make an o
 pening for re-composing the commission more harmo  
 niously
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1849100401:0061/pct:77.35922330097087,206.4652567975831,60.679611650485434,69.50151057401813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347934:1849100401:0061/pct:19.336051252184042,51.60851835070231,15.166957872257814,17.37275336051956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

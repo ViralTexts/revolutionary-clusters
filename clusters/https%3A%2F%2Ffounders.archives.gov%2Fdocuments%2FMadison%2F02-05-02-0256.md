@@ -64,7 +64,7 @@ ry cafe.
 The rejection of claim fliall  
 have no other tifee} than to exemp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803102101:0003/pct:72.28177641653905,16.631210111375296,16.309341500765697,22.70053810536854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803102101:0003/pct:72.288157223073,16.631210111375296,16.309341500765697,22.704709464814584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ _ ] &#x27;WWW&#x27; Of the treasu&#x27;y (if sithe French Repub
 _ = definitivcly in ever; ere-se.  
 essect t[Ilus-{tion of any claim_shal&#x27; have no The
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803102401:0257/pct:1.4120474688298033,57.13781853452077,23.118521856692205,25.676748082179703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216018:1803102401:0257/pct:1.4118353860018023,57.132780814671136,23.120056072894762,25.677423147005232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ The rei
 no other elect than to exempt the Unit­  
 ed States from the payment of it, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803110401:0164/pct:53.56054308672763,5.687446626814689,42.975893599334995,91.3065755764304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803110401:0164/pct:53.54570637119114,5.686475409836065,42.970914127423825,91.29525273224044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ in every cale. &quot; 7
 - The rejetion of any claim shall have ro  
 other ¢ ffc&amp;l thaa toexempt the United Srate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0384/pct:8.51195065535852,3.693747510951812,33.955281418658444,90.99960175228992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803110801:0384/pct:8.522230789000258,3.7003849727864067,33.95014135183757,91.00292048320722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -157,7 +157,7 @@ Desires composed, affections ever even ;
 Tears that delight, and sighs that waft to hea­  
 ven
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824010601:0018/pct:25.417178991744247,11.839947523778289,17.003337431933954,12.780146496118945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824010601:0018/pct:25.412715138742534,11.838653257542632,17.006205362369744,12.782393237137443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

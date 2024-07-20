@@ -105,7 +105,7 @@ I am ever yours.
 ,, ... “GA: WASHINGTON.  
 Vice-President.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809050901:0451/pct:21.139122315592903,27.33425241258303,17.217553688141923,14.16217571124201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809050901:0451/pct:21.135175504107544,27.330827067669173,17.22056260891212,14.164578111946533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ regard, I am ever yours.
 “ GEORGE WASHINGTON.  
 &quot;Vice-Pretidcnl.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051901:0154/pct:57.720245855839075,45.117888262429524,17.805922890668654,18.247052793439263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809051901:0154/pct:57.70949720670391,45.11210762331839,17.80881440099317,18.248985692931882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ by over delicacy ont your part. *
 regard, lam ever yeurs. Ve ik  
 © 4 % GQ: WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809053001:0292/pct:23.739787266841375,67.8342377898372,16.2941267149684,20.680809077454366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809053001:0292/pct:23.739787266841375,67.84081565531984,16.2941267149684,20.680809077454366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ With sinceie esteem and affectionate regard. I
 . am ever yours,  
 GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823062401:0059/pct:79.47676308092298,79.65960485598667,16.10334741631459,12.97310164246608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823062401:0059/pct:79.463850528026,79.65012495537309,16.106146764148388,12.975524614225078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ fectionate regard, | am ever yours,
 GEO WASHINGTON.  
 Vice Presipexsr.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823062501:0507/pct:8.433268858800774,28.915105250983114,21.47001934235977,24.4853111265325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1823062501:0507/pct:8.439716312056738,28.92281594571671,21.476466795615732,24.481455779165703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ I am ever vours.
 GEO. WASHINGTON.  
 Nice President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823070301:0107/pct:57.325776658270364,12.740617642985736,34.65575146935348,83.54798504362277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1823070301:0107/pct:57.313746065057714,12.738853503184714,34.65372507869885,83.53987815009692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ A ter I’llksinr ,nt.
 • t noth rr A nnu nation. Wo perceive b\
 the rinmu c (ia/i-lle, that the riti/rnx ol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823070401:0378/pct:35.05239367166632,10.667054207237321,14.670228066570782,18.209562563580874/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823070401:0378/pct:35.04519309778143,10.66550421389131,14.672350041084634,18.210549258936357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ supporters. It is a sourceof infinate satisfac­
 tion to reflect that we are supporiing for the  
 Presidency, a. man whom the Father of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823072901:0118/pct:61.58891041884036,27.570234618870206,16.544939633328365,18.23582720773336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823072901:0118/pct:61.5938788691807,27.57694760514215,16.549908083668704,18.23247071459739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ With sincere esteem and affectionate re­
 gard, I am ever yours.  
 GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823080901:0092/pct:41.197278911564624,4.705686730961091,36.89795918367347,91.4865314266711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823080901:0092/pct:41.1860718171926,4.7049044056525355,36.894722524483136,91.47547797173732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ no disposition to enter into new spaper con­
 troversies w ith Pickering, nr bis friends or  
 editors.” And Mr. (_&#x27;. replies &quot;Wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823092601:0471/pct:36.89320388349515,78.92271662763466,14.625077463334021,3.9666276346604215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823092601:0471/pct:36.885584469227595,78.91116639836089,14.627220156959934,3.969705839309235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -760,7 +760,7 @@ With sincere esteem and affectionate re­
 Vice President.  
 PRESIDENTIAL ELECTION ANTICIPATED
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824080501:0338/pct:26.359527627934103,56.4045740625831,18.31170724595422,19.058594096268063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824080501:0338/pct:26.355685131195337,56.39957454352065,18.313896987366377,19.059859362997106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -805,7 +805,7 @@ swear? es vein and affectionate tegard, I
 am ev r v oil s,  
 G&#x27;v &gt;RGE tVASHENG TO N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824101901:0322/pct:2.9689963215974777,59.55592105263158,17.551234892275353,19.769736842105264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824101901:0322/pct:2.9682164433937483,59.54612728169709,17.5531914893617,19.77059694129255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ over delicacy on y oui pa if
 I am ever yours.  
 44 george W ashington:*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827100801:0489/pct:79.4075877459931,58.01537585421412,14.627713532156625,14.664009111617313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1827100801:0489/pct:79.39148073022312,58.00711743772242,14.629817444219068,14.665480427046264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1097,7 +1097,7 @@ un your part.
 [ am ever yours,  
 GEORGE WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827102401:0272/pct:44.00965350801586,18.957685871384175,18.220996379934494,22.424097537652404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827102401:0272/pct:44.00206825232679,18.95542010278475,18.223601057106745,22.42540137843114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1205,7 +1205,7 @@ W ith sincere esteem and affectionate regard,
 I am ever yours,  
 GEO WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828051501:0513/pct:18.969605518430697,77.0200252065537,18.085794352231083,14.703822993978434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1828051501:0513/pct:18.96551724137931,77.00924110893307,18.08728448275862,14.70526463175581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1327,7 +1327,7 @@ more, as he 13 known, are appreciating his
 talents and worth ; and his country would  
 suffer a loss if these were to be neglected.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1828062601:0099/pct:24.919216878920356,36.010725110748425,17.753278844326175,7.892282583352763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1828062601:0099/pct:24.931888741050496,36.01849693013134,17.753278844326175,7.896168493044222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1688,7 +1688,7 @@ pellow fever saved Washington from being
 drogged out of his house, or compelled to  
 declare war against England.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846070101:0095/pct:29.587852494577007,300.12695725772323,58.22125813449024,41.64198053322048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846070101:0095/pct:7.399370728002604,75.03173931443081,14.560052077682544,10.41049513330512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1864,7 +1864,7 @@ letters, calls this one of the most deliber
 ate, virtuous, and disinterested actions of  
 his life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868031401:0255/pct:52.06367924528302,75.2797783933518,14.13620283018868,2.7922437673130194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868031401:0255/pct:39.06503465565551,56.46537396121884,10.617902964164578,2.0941828254847645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1914,7 +1914,7 @@ ningham letters, calls this one of the most
 deliberate, virtuous, and disinterested actions  
 of bis life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1868031701:0048/pct:43.462406667824276,83.64350101773772,13.057822538635179,2.0209363186972955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192324:1868031701:0048/pct:43.46674769925334,83.64713579528933,13.07518666435145,2.0282058738005233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1947,7 +1947,7 @@ eon o his Cunin gham letter ca this on of the
 most deliberate, virtuous, and disinterested ac­  
 tions of his life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868031901:0538/pct:112.99705449189985,76.18020304568527,46.11561119293078,3.464467005076142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_psylocke_ver01:data:sn82015775:00200299899:1868031901:0538/pct:37.66568483063328,25.393401015228427,15.371870397643594,1.1548223350253808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1989,7 +1989,7 @@ anniversary of the foral tribute to the
 Confederate dead.  
 One of Grant&#x27;s earliest exploits wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_empath_ver01:data:sn88064630:00280761515:1868032601:0067/pct:148.18228366615463,114.08025312814613,44.649257552483355,24.59370056090896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_empath_ver01:data:sn88064630:00280761515:1868032601:0067/pct:49.394094555384875,38.026751042715375,14.883085850827786,8.197900186969653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2079,7 +2079,7 @@ conduct, disapprove of the caution which
 is hinted at in the letter.&quot;  
 As to the nominations of SMiril an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872032601:0733/pct:73.99848828420257,73.43565525383707,50.18896447467876,16.52892561983471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536135:1872032601:0733/pct:18.510115333711475,18.358913813459267,12.554358101720553,4.132231404958677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -42,7 +42,7 @@ Northwestern lands ceded hy Virginia to the Union
 were not more fully transferred than the regulation  
 of t he commerce of t lie St nt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830052101:0484/pct:42.169064166801355,9.998822282416677,18.34491676095038,8.444235072429631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830052101:0484/pct:42.162249515190695,9.997644842204428,18.34733893557423,8.447165960119328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -71,7 +71,7 @@ their opinion of n*. and respect for us. And it should
 ever he held in mind, that insult and war are the conse  
 rp.em-es ol n want ol respectabiliy in the national cbarac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833030501:0391/pct:34.16105499438833,29.78205553711694,15.011223344556678,6.6710919349485565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833030501:0391/pct:34.156263150512,29.778761061946902,15.013793425912938,6.674041297935103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -115,7 +115,7 @@ om they employed.
 Interior government Is what each state  
 should keep to Itself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:55.9143686502177,76.85159879748565,15.820029027576197,2.13172998086909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:41.96768923579597,57.63869909811424,11.871483027772735,1.5987974856518175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ man able to read, ail is safe.
 No government can continue good  
 but under the control of the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fugazi_ver01:data:sn89051168:00393343072:1898032801:0507/pct:69.32118013912209,57.15978083814601,17.366274886063803,24.270694506145418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fugazi_ver01:data:sn89051168:00393343072:1898032801:0507/pct:69.30455635491607,57.15131773763696,17.36810551558753,24.270802487414866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ State should keep to itself.
 It is necessary to give as well as to  
 take in a government like ours.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:95.88571428571429,59.51486529998927,14.714285714285714,3.166255232370935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878691:1899120701:0404/pct:71.92456065152165,44.63883224213803,11.044434919274183,2.372008157132124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

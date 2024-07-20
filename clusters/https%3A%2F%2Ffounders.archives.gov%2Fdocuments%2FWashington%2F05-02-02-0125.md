@@ -256,7 +256,7 @@ that one of the essential docrines of the party
 should be abandoned, and the opposite doctrine  
 of a slave code for the territories should b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860050701:0430/pct:6.68211664735419,52.76452427729441,16.10660486674392,8.840864440078585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172017:1860050701:0430/pct:5.183596088605069,40.899039332970816,12.492516463779685,6.851549755301795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ success of our Revolution, and many of
 them are disposed to form connections of  
 the strictest kind with Great Britain.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897101701:0789/pct:280.33282904689867,303.9733090688505,50.45385779122542,36.39672429481347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897101701:0789/pct:70.12298959318827,75.99332726721262,12.620624408703879,9.099181073703367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

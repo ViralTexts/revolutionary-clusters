@@ -439,7 +439,7 @@ You and I were long Friends: You are now
 my Enemy, and I am  
 Yours, B. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845082201:0624/pct:133.56729975227086,221.272365805169,38.329204514175615,14.656505411972608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845082201:0624/pct:44.51630659144076,73.74930977360575,12.774643364983257,4.884962267623781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -462,7 +462,7 @@ Blood of your Relations! You and I were long
 Tr ends You arc now my Lnemy—and 1 8m  
 tr„ B FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845091201:0591/pct:63.29022245214692,90.17850892544627,14.754267977237454,4.564228211410571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215762:1845091201:0591/pct:63.2836747361887,90.17219655606888,14.756190082074626,4.566242008493163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ re long Friends,-you are now mhy Enamy and
 I am yours.B. FRANKLIN.  
 RA, road suBscriptIONs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845092601:0695/pct:64.6797153024911,195.79632918886915,58.45195729537367,21.314387211367674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1845092601:0695/pct:16.180725573113733,48.94908229721729,14.622746494547073,5.328596802841918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ ed with the blood of your relations! You and
 and 1 am  
 Yours. lb FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845101501:0999/pct:33.41000575043128,75.03103876396744,14.66359976998275,5.18692233411505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845101501:0999/pct:33.41639511852278,75.03563709937002,14.669989138074245,5.191520669517635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ Uie blood of your relations ! You and I were long
 Friends—you are now my Enemy—and I am  
 Yours^_ B. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1845102001:0320/pct:79.96466431095406,15.050739699229736,17.6678445229682,5.37963076170681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184376:1845102001:0320/pct:79.95053877406819,15.048899755501223,17.670611788258846,5.383048084759576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ were long Friends you are now my
   
 emy and I am , r . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878216:1845102501:0342/pct:68.68231046931407,47.98765951479456,22.337545126353792,7.768896367970831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn83016942:00295878216:1845102501:0342/pct:51.54662452020772,35.997756275417196,16.775795890720254,5.819660636656851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ long friends; You are now my enemy and I am
 Yours,B FrAnklix  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846102101:0226/pct:86.24454148471615,242.7147046501885,57.51091703056768,19.237536656891496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846102101:0226/pct:21.561135371179038,60.67867616254713,14.37772925764192,4.809384164222874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -613,7 +613,7 @@ and I were long Friends. You are now
 my enemy--and I am yours,  
 B. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1846111301:0632/pct:336.3705391040243,112.46521981079577,50.949126803340924,25.98775737340011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1846111301:0632/pct:84.1245727307254,28.116304952698943,12.742119255601976,6.496939343350028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -809,7 +809,7 @@ stained with the blood of your relations! You
 and I were long friends; you are now my  
 enemy and I am yours. B. Franelih.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654061:1855100601:0202/pct:1.0797078437599237,38.751918158567776,16.338520165131786,4.378516624040921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654061:1855100601:0202/pct:1.0797078437599237,38.75959079283887,16.34248967926326,4.378516624040921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ B. FRANRLIN.&quot;
   
 eei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1855100901:0211/pct:90.61032863849765,14.963865665296868,96.02895148669796,368.38599971659346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1855100901:0211/pct:22.648151769998044,3.7404363842448287,24.00254253862703,92.08345140266364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -855,7 +855,7 @@ your relations! You and I were long friends; you
 are now my enemy and I am yours,  
 B. ErANKliN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:0020219056A:1855101001:0221/pct:62.87089013632718,354.33177640500224,55.252606255012026,14.780774446285973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:0020219056A:1855101001:0221/pct:15.717722534081796,88.58294410125056,13.813151563753006,3.695193611571493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ B. Franklin.
  one of that majority which has doomed my country to de  
 with the blood of your relations! You and I were lo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855102601:0404/pct:248.88091216216216,283.74524714828897,39.527027027027025,4.752851711026616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475373:1855102601:0404/pct:82.96030405405405,94.58174904942966,13.175675675675675,1.5842839036755387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1079,7 +1079,7 @@ B. Ff.anklin.’&#x27;
   
 Col. B. Morgan has been elected to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349463:1860120701:0196/pct:80.11124677791345,71.89468249870934,12.481345814679148,6.9488900361383585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024653:00393349463:1860120701:0196/pct:80.10037981551818,71.88725996283296,12.484174353409296,6.951614013352605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1106,7 +1106,7 @@ friends-—You are now my Enemy,—and
 I am, yours,  
 B. FRANKLIN.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1861012301:0920/pct:60.56018168054504,67.1154425801266,10.97653292959879,5.063799859338893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027238:0027952942A:1861012301:0920/pct:60.56018168054504,67.12214072808868,10.989149634115568,5.063799859338893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1129,7 +1129,7 @@ murder our people,—Look upon your hands!
 They are stained with the blood of your Re­  
 lations—You aro now my Enemy,—and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1861020601:0570/pct:18.30292499275992,88.62986584561249,12.43845931074428,4.068616670332087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85025569:0021247258A:1861020601:0570/pct:18.30292499275992,88.63719668645993,12.457766193648036,4.068616670332087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1160,7 +1160,7 @@ hour: &quot;You have doomed our country to de.­
 &quot;your relations! You and I were long friends;  
 &quot;you are now my enemy, and I am yours!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861042201:0766/pct:155.30328140536957,273.9800759013283,47.34835929731521,13.591081593927894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530674:1861042201:0766/pct:51.76776046845652,91.32669196710943,15.782786432438405,4.530360531309298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1181,7 +1181,7 @@ Leok upon your Hands! They are stained with the blood of
 your Relatitea! You and I were long Friends; You are now  
 ny Easey, an!&quot; Iai. araanaim,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861062801:0470/pct:151.77905794645883,207.6867469879518,48.187055235513384,9.53012048192771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530686:1861062801:0470/pct:50.59301931548627,69.2289156626506,16.062351745171128,3.176706827309237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1207,7 +1207,7 @@ i my anetny, and
 I am, Yojrs,  
 . B. Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862032001:0095/pct:10.714285714285714,85.18620689655172,20.238095238095237,8.455172413793104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862032001:0095/pct:8.047628823650175,63.889655172413796,15.171422705809896,6.344827586206897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1386,7 +1386,7 @@ with the blood of your relatives. You
 and I were long friends; you are now my enemy, and  
 I am, Yours, Benj. Franklin.&quot; That this lette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:52.24291497975708,172.79285468911027,48.48582995951417,12.172220313752433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531228:1875070301:0031/pct:17.41430499325236,57.59761822970342,16.161943319838056,4.057406771250811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1408,7 +1408,7 @@ I am, Yours, Benj. Franklin.&quot; That this lette
 ow my enemy,and I am, yours B  
 &quot;Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777559:1875070501:0598/pct:23.806024981631154,313.9821992535171,43.4974283614989,16.42262417456216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777559:1875070501:0598/pct:5.954787722845065,78.49554981337927,10.880352876309502,4.10565604364054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1433,7 +1433,7 @@ were long friends. Yon are now my eot
 emy, and 1 am yours.  
 &quot;B. Franklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:00296026955:1880010901:0974/pct:29.25774134790528,100.68800478612025,19.398907103825138,8.031708046664672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:00296026955:1880010901:0974/pct:21.964000911369332,75.51600358959018,14.559125085440876,6.02752019144481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1473,7 +1473,7 @@ enemy, and I am yours.
 B. FRANKLIN.  
 The statement that the above firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:0020029693A:1880021401:0793/pct:251.14503816793894,78.06668706026308,56.965648854961835,43.56072193331294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:0020029693A:1880021401:0793/pct:62.81622911694511,19.51667176506577,14.24821002386635,10.890180483328235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1582,7 +1582,7 @@ stained with the blood of your Relations!—
 rou and I were long friends:—You are now my  
 enemy,—and lam yours. B. Fkasklin.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_anoka_ver02:data:sn83025287:00175035217:1882081301:0352/pct:43.44648367711548,7.648320228734811,13.155757674191976,3.9313795568263044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_anoka_ver02:data:sn83025287:00175035217:1882081301:0352/pct:43.457311461209464,7.656262409657692,13.150343782144985,3.9353506472877453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1612,7 +1612,7 @@ Yours,
 B. FRANKLIN.  
 The question has often occurred t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1882081801:0372/pct:148.15436241610738,128.1414725386839,43.54026845637584,29.92688318313212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1882081801:0372/pct:37.061909758656874,32.035368134670975,10.891920251836307,7.48172079578303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1635,7 +1635,7 @@ were long Friends. You are now my Enemy, and I am,
  B. FRANELIN.  
 Among the manuscripts are the original lette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883021201:0378/pct:18.92176002402763,152.69369467817725,43.86544526205136,10.752923177794777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039946:1883021201:0378/pct:6.307253341342544,50.897898226059084,14.621815087350454,3.584307725931592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1683,7 +1683,7 @@ of your Relations! You and I were long Friends.
 ou are now my Enemy, and I am, Yours,  
 B. FRA K1IN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1883022301:0588/pct:19.08783783783784,198.50695622667118,43.83445945945946,11.469290804207668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777067:1883022301:0588/pct:4.772967265047519,49.626739056667795,10.960929250263991,2.867322701051917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1751,7 +1751,7 @@ I am
 Yours,  
 B. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282309:1883060601:0557/pct:125.57840616966581,23.246969336819586,49.74293059125964,30.473021155217495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282309:1883060601:0557/pct:31.399646472762335,5.811742334204896,12.437730997910975,7.618255288804374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1785,7 +1785,7 @@ enemy, and I am Yours, B. FRANKLIN.”
 now my enemy, and I am Yours,  
 B. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1885112701:0805/pct:88.4304932735426,281.906496660595,59.10313901345292,5.100182149362477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn98060001:00280777857:1885112701:0805/pct:22.10762331838565,70.47662416514875,14.77578475336323,1.2750455373406193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1802,7 +1802,7 @@ B. FRANKLIN
 are now my enemy, and I am Yours,  
 B. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83008556:0029602854A:1885120301:0189/pct:69.50400413329889,34.76270553064275,12.516145698785843,1.3546337817638265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83008556:0029602854A:1885120301:0189/pct:69.50400413329889,34.76581963129048,12.529062257814518,1.3546337817638265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1926,7 +1926,7 @@ You and I were long friends. You are now
 my enemy, and I am  
 „ Yours, B. Fkanki.in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210594:1888081601:0278/pct:14.702517162471397,73.64368218410921,9.482265446224256,1.4700735036751837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210594:1888081601:0278/pct:14.7004147004147,73.63509099393374,9.484484484484485,1.472818478768082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1987,7 +1987,7 @@ You and I were long friends. .You are
 now my enemy and I am yours.  
 B. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_jeffers_ver01:data:sn90059522:00175033385:1889011401:0144/pct:62.581409117821195,80.48537234042553,11.352871521610421,8.333333333333334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_jeffers_ver01:data:sn90059522:00175033385:1889011401:0144/pct:62.586343003749754,80.48537234042553,11.352871521610421,8.340721040189125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2044,7 +2044,7 @@ your Hlands? They are stained with the Blood of
 your Relations. You and I were long Friends. You  
 are now my Enemy. I am yours. B. raassi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175042866:1896052401:0925/pct:225.56732223903177,59.62656871747781,49.92435703479576,16.835016835016834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175042866:1896052401:0925/pct:56.41316685584563,14.906642179369452,12.485811577752553,4.2087542087542085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2072,7 +2072,7 @@ my, aud I am
 Yours  
 B. Frakk-lin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102354:1897081201:0439/pct:8.119434258774227,110.19272799523148,15.793609219486642,7.868070733161137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102354:1897081201:0439/pct:6.091171076761855,82.6445459964236,11.854859837568771,5.901053049870852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2095,7 +2095,7 @@ were long Friends:You are now my Enemy,­
 and I am yours. B FRANKLIN.&quot;  
 With his austere control over his emotion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_volvo_ver01:data:sn83030214:00175036945:1898120401:0085/pct:144.57662701189642,16.817906836055656,68.67273151387917,20.114942528735632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_volvo_ver01:data:sn83030214:00175036945:1898120401:0085/pct:48.19220900396548,5.6059689453518855,22.89091050462639,6.704980842911877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

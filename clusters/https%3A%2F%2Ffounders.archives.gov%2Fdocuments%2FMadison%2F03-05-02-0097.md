@@ -117,7 +117,7 @@ to grow out of it. If the time should ever ar­
 rive, when this Union shall be holden together  
 by nothing but the authority of Law ; whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812082001:0769/pct:24.102327014948376,38.5581094802917,22.098936662043457,6.277116218960583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812082001:0769/pct:24.098613251155623,38.554550489200665,22.10066769388803,6.279613562242323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ shall look on that hour, as the closing scene
 of our country’s prosperity.  
 We shrink from the separation of the states
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812082001:0769/pct:23.578363384188627,49.681528662420384,22.561257512713823,5.243238253484723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812082001:0769/pct:23.57473035439137,49.676942957356474,22.56291730868002,5.245831025783029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ try undertakes to controul, to regulate, and to
 &#x27;sacrifice the interest of another ; when a small  
 and heated majority in the Government, taking
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812082001:0769/pct:23.91739867468023,58.75565402012369,22.360918477423333,5.409397212221915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812082001:0769/pct:23.91371340523883,58.75023075503046,22.36260914227016,5.411974647713987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ can defend our towns r.nd cities, on the
 set coast f”$ W»mld to God he had re­  
 membered our towns and our dues, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813042901:0125/pct:29.696110848685247,77.41367159971811,18.516769012753898,4.386892177589852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813042901:0125/pct:29.691435768261965,77.40685281423413,18.519101595298068,4.389441850905781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ taking counsel of their passiops, and not their
 - reason, contemptucnsiy disregarding the interests,  
 - and perhaps stopping the mouths of a large an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828092301:0563/pct:78.23757070556714,16.54944145635085,16.1804108365585,4.127016963177493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828092301:0563/pct:78.24749429393668,16.54944145635085,16.17544904237372,4.137360364087712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ one portion of the country undertakes to control, to reg­
 ulate, and to sacrifice the interest of another; when a  
 small and heated majority in the government, takin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835111701:0182/pct:52.61026102610261,41.11790936430572,14.176417641764177,3.1110650212589444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835111701:0182/pct:52.61026102610261,41.12136610321822,14.176417641764177,3.1179784990839643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ tion, which it was inthe power, and which we presume
 to say it wasthe DUTY, of Government to have afforded.  
 On t..e subject of naval defence, we do not feel our
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835111701:0182/pct:52.37023702370237,69.13823498911127,14.236423642364237,8.265062739811261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835111701:0182/pct:52.375237523752375,69.14514846693629,14.246424642464246,8.265062739811261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ eral Government, adequate protection to our lawful
 commerce. When the Constitution empowered the ‘  
 Government to build and maintain a Navy, it was no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835111701:0182/pct:52.37023702370237,78.1914342009748,14.236423642364237,2.0947837809810226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835111701:0182/pct:52.375237523752375,78.1914342009748,14.246424642464246,2.1086107366310625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ the land ; and we shall asreadily assent, to a practi­
 cal construction of that instrument, which deprives us  
 of the one, as that which deprives us of the other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835111701:0182/pct:52.37023702370237,80.65954578450689,14.101410141014101,3.3288395727470705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835111701:0182/pct:52.375237523752375,80.65954578450689,14.106410641064107,3.3322963116595803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ defenceless condition of our Commerce and the inhabi­
 tants of the Atlantic frontier, no sooner does the con­  
 sumate hypocrite have an opportunity of acting in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835111701:0182/pct:52.325232523252325,7.25915171627087,28.922892289228923,83.38691278647724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835111701:0182/pct:52.33023302330233,7.26606519409589,28.937893789378936,83.38691278647724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ great majorities, against that war, ameng
 the professed objects ol which, the release  
 of impressed scamen FYORMS 50 PRINCIPAL 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840101401:0049/pct:8.640130417062899,63.35331657319667,14.114930036679798,14.89073680139238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840101401:0049/pct:8.64465878730245,63.3597627796042,14.11945840691935,14.893959904596144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ all, as we view in it the harbinger of French alliance.&quot;
 Then follows an appeal for the Government &quot;to re­  
 ; store the blessings of Peace and Commerce.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841083101:0419/pct:35.31843233312921,15.282392026578073,16.090018371096143,2.818886539816772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841083101:0419/pct:35.32353541539089,15.282392026578073,16.090018371096143,2.8289539917446893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ to the present War.&quot; 7
 for the present war against England will bear the  
 test of these principles.&quot; &#x27;:x 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847111701:0185/pct:23.863013698630137,37.89761954918896,20.589041095890412,9.627132926058563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022615:1847111701:0185/pct:17.911470467315336,28.42848114598694,15.444703302727149,7.22561617863914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ heated majority In the Government taking
 counsel of their passions and not of their rea­  
 son contemptuously disregarding the inter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044917:1890101901:0934/pct:69.82758620689656,267.45598057073465,51.41065830721003,15.467516697024895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044917:1890101901:0934/pct:17.46716330131347,66.86399514268366,12.86022348559106,3.8668791742562236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

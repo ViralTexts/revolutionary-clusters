@@ -61,7 +61,7 @@ I be informed ol the result,nod vf the ancient pedigree
 j of the family, seme of whom 1 find intermixed with  
 i that ot f errors. b-ir Isaac Hoard was prevented
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1849110301:0119/pct:23.558758314855876,25.562372188139058,14.375461936437546,8.166325835037492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn86071855:00393348343:1849110301:0119/pct:23.55440605948642,25.558887677208286,14.377424718270829,8.168620501635768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -81,7 +81,7 @@ scenes of life, from an early period of it, that but
 a small portion could have been devoted to re­  
 searches of this nature, evert if my inclinatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851040501:0317/pct:20.488179896213722,72.25806451612904,14.318662310205651,3.6185133239831697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_icelandic_ver01:data:sn84024692:00393348367:1851040501:0317/pct:20.484242890084552,72.24793156640023,14.320714834742505,3.6215117094376663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ life, from an early period of it, that but a small
 portion of it could be devoted to researches of this  
 nature, even if my inclinations and circumstance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101957:1882090101:0230/pct:128.29581993569133,80.77479040185024,49.839228295819936,10.75455333911535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101957:1882090101:0230/pct:32.08040201005025,20.19369760046256,12.462311557788945,2.6886383347788376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ that hut a amall portion of it could be de
 voted to researches of this nature, even if  
 my inclinations and circumstances shoul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:02202296576:1882091401:0643/pct:67.10097719869707,24.534250501576384,50.1628664495114,13.642877615362568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:02202296576:1882091401:0643/pct:16.775244299674267,6.133562625394096,12.54071661237785,3.410719403840642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ early period of it, that but ft small por­
 tion (rs it could be devoted to researches  
 of this nature, even if my inclinat’on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151295:1882102701:0055/pct:82.27254455312877,27.974081198744557,10.58555540667292,3.270223752151463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514151295:1882102701:0055/pct:82.27254455312877,27.980830886571496,10.594488364822011,3.266848908237994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -290,7 +290,7 @@ bind ourselves and each of us, our,
 and each of our, heirs, executors, ad­  
 ministrators, and assigns, firmly b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_peugeot_ver01:data:sn90059028:00212479196:1882011201:0137/pct:50.81006979062811,38.13591860241889,10.730309072781655,2.34210021117297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_peugeot_ver01:data:sn90059028:00212479196:1882011201:0137/pct:50.81422399468262,38.14231778332373,10.738617480890662,2.3389006207205476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

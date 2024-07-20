@@ -75,7 +75,7 @@ No man is more ready than I am to acknowledge the Obligations we are under t
 to settle their own controversy. I do not deny?no man is  
 more ready than I am to acknowledge?the obligations w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850031601:0345/pct:83.09677419354838,37.88166730013936,15.806451612903226,1.2669453946534905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850031601:0345/pct:83.10752688172043,37.890113602770384,15.811827956989248,1.2627222433379788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ right. I state the facts. I leave these gentlemen to settle their
 own controversy. I do not deny, no man is more ready than  
 I am to acknowledge, the obligations we owe to the South, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850031601:0119/pct:51.88164712298882,52.677157038758054,15.380419961821653,2.597951209208998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850031601:0119/pct:51.890737205708575,52.68419755694019,15.380419961821653,2.597951209208998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ emit paper money, or any other currency, for
 ** mass will be worth no more than that which was  
 44 emitted within the rde.*&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862020401:0002/pct:2.6686434395848777,29.759018964779695,10.13713862120089,4.562954513047198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862020401:0002/pct:2.6686434395848777,29.759018964779695,10.160303928836175,4.566519321260516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ The principles of the Democracy are directly
 averse to the financial schemes of those who now  
 have the control of the Government, and it wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862021401:0165/pct:14.0,247.09534368070953,51.116279069767444,32.070953436807095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862021401:0165/pct:3.5008141428239123,61.77383592017738,12.782042335426844,8.017738359201774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ and actual position of the rebel currency,
 he could not more truly have described  
 them. For wo have first the issue o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862100101:0309/pct:29.889447236180903,68.70813397129187,14.251256281407036,13.157894736842104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190704:1862100101:0309/pct:29.899497487437184,68.70813397129187,14.271356783919598,13.16188197767145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ The -Government wants more money.
 Jt is proposed to raise it by issuing legal  
 tender notes. But the country holds mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863011401:0002/pct:2.89532293986637,25.235109717868337,10.152190051967334,12.467939583927045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863011401:0002/pct:2.89532293986637,25.24579652322599,10.170749814402376,12.467939583927045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ the case of paper, if you go on emitting forever, the
 whole mass will be worth no more than that was which  
 was emitted within the rule.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863012601:0210/pct:56.67635493246709,13.699783497714698,92.01572918447597,277.4837623286024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863012601:0210/pct:18.89211831082236,4.566594499238232,30.67190972815866,92.49458744286746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ twenty for one. Millinery of all sorts at an advance far
 excecding. Bohea tea, which cost in France forty sous a  
 pound, was selling at forty-five dollars; and salt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863012601:0210/pct:103.55616344674303,29.396199182102478,45.153017609847836,8.515756555208084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743439:1863012601:0210/pct:34.518721148914345,9.798733060700826,15.051005869949279,2.8385855184026942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ was emitted within the rule.&quot;
 riting on the 20th of June, 1780,  
 to the Count de vergennes, he says tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529145:1863021801:0392/pct:59.83739837398374,122.61154855643045,65.5103884372177,40.15748031496063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529145:1863021801:0392/pct:19.94579945799458,40.870516185476816,21.836796145739235,13.385826771653543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ at an advance far exceeding. Bohea
 tea, which cost in France forty sous a  
 pound, was selling at 45 dollars; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529145:1863021801:0392/pct:59.74706413730804,163.08398950131235,42.113821138211385,16.089238845144358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529145:1863021801:0392/pct:19.915688045769347,54.36132983377078,14.037940379403794,5.363079615048119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ their business. The precise sum is dis-­
 coverable by calculation and reduciblee  
 to certainty. I ou may emit paper or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529145:1863021801:0392/pct:59.94579945799458,133.76640419947506,48.672086720867206,8.884514435695538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529145:1863021801:0392/pct:19.98193315266486,44.58880139982502,16.224028906955738,2.9615048118985126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ menty nee coin almost exclusively. When their cifcula.
 tion is once full, that is all they nced and all they can use,  
 and the romainder is expelled in obedience to this fixe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867040601:0939/pct:9.608773940088394,131.95876288659792,46.505156326731054,25.899198167239405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867040601:0939/pct:3.202924646696131,43.986254295532646,15.501718775577018,8.633066055746468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ far Adams was right is shown in the above table,
 and it may be fairy inferred that paper money  
 based on national er dit will not depreiate excep
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743725:1870111901:0634/pct:99.20260374288038,43.52711844971907,46.16761594792514,23.449145740167413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743725:1870111901:0634/pct:33.06753458096013,14.50903948323969,15.389205315975047,7.8163819133891375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ I emitting forerer. the whole maae will be
 worth bo mbre than tbat&#x27;which wu emit­  
 ted within the role.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193432:1878080101:0736/pct:15.56791104050834,3.52586817859674,12.152501985702939,5.95322466335932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193432:1878080101:0736/pct:15.581149060100609,3.530297661233168,12.159120995499073,5.9753720765414595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

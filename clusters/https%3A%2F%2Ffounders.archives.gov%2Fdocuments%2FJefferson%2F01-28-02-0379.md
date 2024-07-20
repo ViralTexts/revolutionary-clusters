@@ -59,7 +59,7 @@ illy ami particularly as if the same were here-: as
 i again especially&#x27;repeated, and they thereto ,  
 ar lieu lari y interrogated j that the said Stale of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216444:1831011301:0040/pct:27.114225191461625,5.377103188610425,35.94590190646896,91.48135074714672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216444:1831011301:0040/pct:27.109807754969044,5.376470588235295,35.945476268056915,91.47450980392156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ cose provided and that your orator mar hare
 such further relief in the premises os shall be  
 equitable, mar it please vour Honor to gran
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860041801:0001/pct:33.07281738467404,82.92470622370521,10.00762485703393,3.2206586391991876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_belmont_ver02:data:sn82014511:no_reel:1860041801:0001/pct:33.07281738467404,82.93195995937909,10.02192146397255,3.224285507036124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ fore your honor in this honoruble court, then
 and there&#x27; to anBwcr the premises, and to  
 stand to abi.de such order and decree therei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775344:1860042401:0591/pct:39.71531676022454,88.22897483118477,16.379310344827587,6.998158379373849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775344:1860042401:0591/pct:29.797473430920395,66.17556783302639,12.291959093643474,5.248618784530387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ expressly waived] and that as fully as If the same
 were herein again repeated, and they thereto par­  
 ticularly interrogated. And that the said flour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863030501:0003/pct:44.686853488809476,46.52130253909052,9.836373895053601,8.492325347869746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863030501:0003/pct:44.69625728794433,46.52488882513269,9.841075794621027,8.50308420599627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ Alabama, and the cierk has accordingly summoned
 the parties interested to attend. That there wil be  
 war to the knile is reasonably anticipated.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869120901:0863/pct:10.990359333917617,214.52959960697618,46.643295354951796,27.08179808400884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869120901:0863/pct:3.663453111305872,71.50986653565873,15.547765118317265,9.027266028002948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ stated and set forth, and that as fully and
 sarticularly as if the same were here again  
 repeated, and he thereunto particularly inter
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82014681:00294552054:1883090801:0625/pct:25.0,59.80539947923804,89.46280991735537,305.33095792791556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_flying_ver01:data:sn82014681:00294552054:1883090801:0625/pct:6.25,14.95134986980951,22.365702479338843,76.33273948197889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ full, true and perfect answer make to all, and
 singular the premises as fully and completely as  
 though they were particularly interrogated, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296321:1888102501:0174/pct:292.1930447125621,51.76085176085176,39.815471965933284,5.896805896805897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296321:1888102501:0174/pct:73.06122448979592,12.94021294021294,9.955634427684117,1.4742014742014742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -353,7 +353,7 @@ ties and herein before referred to, and that upon
 such accounting in case any balance is found due  
 cree therefor against the parties owing the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296321:1888110101:0178/pct:296.1952620244077,50.184906177235995,39.770279971285,14.902068209834269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296321:1888110101:0178/pct:74.06210734159038,12.546226544308999,9.944354693950817,3.7255170524585672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ full, true and perfect answer make to all, and
 singular the premises as fully and completely as  
 though they were particularly interrogated, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296321:1888110801:0183/pct:215.46610169491527,50.103007828594976,38.983050847457626,6.317813487158357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296321:1888110801:0183/pct:53.86652542372882,12.525751957148744,9.745762711864407,1.5794533717895893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

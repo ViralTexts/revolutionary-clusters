@@ -226,7 +226,7 @@ To beg the voice and utterance of a tongue.
 V/o to the hands that shed this costly blood.  
 A curse shall light upon their line.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00205958198:1872111001:0003/pct:42.20697128408886,63.09001805519732,11.865631208235506,9.956151663657467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00205958198:1872111001:0003/pct:42.216001444825714,63.09324219757544,11.879176449340799,9.962599948413722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

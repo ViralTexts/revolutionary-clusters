@@ -253,7 +253,7 @@ e country,
 almost make one suspect that the I  
 not so angry at that offence as a New-Engiand Ju
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531356:1879080401:0688/pct:249.32076074796228,83.82420091324201,47.33898034201694,28.63013698630137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531356:1879080401:0688/pct:83.10692024932077,27.941400304414003,15.779660114005647,9.54337899543379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ Dear t rien 1
 Yours aileclionately  
 1J. Franklin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:0020029712A:1879080701:0237/pct:16.742467310972142,31.927710843373493,13.231949971574759,31.41454707719768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn83021327:0020029712A:1879080701:0237/pct:12.569316081330868,23.95136099955377,9.924640978245414,23.56091030789826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ prosperity attend you and yours. I am
 Dear Friend Yours affectionately.  
 B. FRANKLIN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1879080801:0469/pct:7.727942724784165,21.101315218962277,16.25605390608549,30.553548200607025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053038:00332897974:1879080801:0469/pct:7.726315789473684,21.09826589595376,16.25964912280702,30.553949903660886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ ever. -May every prosperity attend yours and
 yours. I am Dear Friend Yours affectionately  
 PBANKXIN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83025287:00280768157:1879080901:0199/pct:81.1091135389296,73.98814904087577,12.059189600331905,17.24414984433062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83025287:00280768157:1879080901:0199/pct:81.1091135389296,73.9948444980081,12.068409164246532,17.240802115764453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ nywhere in the Country, which would almost
 mak one suspect that the Del y ls not on gry  
 it hat offence as a New England Justice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475300:1879081101:0077/pct:105.16178736517719,239.51740506329114,45.53158705701079,29.193037974683545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_omahoney_ver01:data:sn83026413:00212475300:1879081101:0077/pct:35.05392912172573,79.83913502109705,15.177195685670261,9.731012658227849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ all in renair; and un old renor any where in the Country
 which would almont make one susreef that the beiy is  
 not so angry at that offence as a New England Justic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1879081801:0231/pct:185.2213053263316,265.9895444361464,51.83795948987247,56.92307692307692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1879081801:0231/pct:46.32270168855535,66.4973861090366,12.96435272045028,14.23076923076923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ suspect that the Deity is not so angry
 at that offonce as a New England Jus-  
 tice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_camas_ver01:data:sn83045610:00202198223:1879083101:0656/pct:25.258701787394166,187.89085372994495,49.04358733145187,106.2302377327556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_camas_ver01:data:sn83045610:00202198223:1879083101:0656/pct:6.3146754468485415,46.97271343248624,12.260896832862967,26.5575594331889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ Prosperity attend you and our. I am
 Dear Frieiid, Yours affectionately  
 it. FilANKUJC
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281883:1879090401:0230/pct:86.58610271903324,76.36128425261673,13.413897280966767,28.190050570386923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281883:1879090401:0230/pct:64.94938812509443,57.27390332823709,10.06194289167548,21.145478066564742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -895,7 +895,7 @@ and yours. I am, Dcr Friend
 Yours affectionately,  
 &quot; &quot;BANKLDr.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:00296026955:1879100401:0313/pct:47.15277777777778,23.00405953991881,19.88425925925926,36.009622613140884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:00296026955:1879100401:0313/pct:35.38675312644743,17.26056232145542,14.91431218156554,27.003458126597504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1004,7 +1004,7 @@ which would almost mako one suspect that
 the Deity is not so angry at that offence as a  
 New England Justice.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108873:1880022501:0605/pct:58.835904628330994,92.2983216025988,16.09396914446003,17.014076881429347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_cardinal_ver01:data:sn83025121:00211108873:1880022501:0605/pct:44.14240617327253,69.23050893340552,12.0834794808839,12.763941526800217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

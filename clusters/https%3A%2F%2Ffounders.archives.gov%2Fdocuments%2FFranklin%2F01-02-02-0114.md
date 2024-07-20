@@ -3955,7 +3955,7 @@ have an opportunity to serve others by an in­
 vention of our own ; and this we should do  
 freely and generously
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1860060901:0448/pct:11.211098612673416,84.315107102593,12.56092988376453,2.62119503945885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1860060901:0448/pct:11.225159355080615,84.32215332581737,12.556242969628796,2.628241262683202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4003,13 +4003,13 @@ is the real necessity that mothered the in
 vention of stoves. In this country, as else­  
 where, except in England, where the eve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1876042201:0355/pct:49.51309603760913,89.09000124828361,14.674278038952316,5.767070278367245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624542:1876042201:0355/pct:38.382129689872045,69.04546920348275,11.372804163955758,4.479200257981296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1880-05-29_42_22/page/n5/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1880-05-29_42_22/page/n5/mode/1up?view=theater)
 
 #### 1880-05-29 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4263,7 +4263,7 @@ own-freely and generously.&quot;
   
 There was scarcely any principle o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1896011801:0060/pct:30.442426018165836,73.63576594345825,12.613536478171696,2.8380451457374534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:0027174285A:1896011801:0060/pct:30.447309307549567,73.63941851121338,12.623303056939154,2.849002849002849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -82,7 +82,7 @@ fhefe circumstances are transmitted to
 Congress for their consideration.  
 Go: WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794040301:0002/pct:30.712669683257918,6.844741235392321,38.65950226244344,86.2919680949731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794040301:0002/pct:30.726809954751133,6.858653311074012,38.64536199095023,86.29660545353367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ Congress for their coniideration.
   
 G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794041701:0002/pct:11.799065420560748,24.446511627906975,19.6553738317757,38.69767441860465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794041701:0002/pct:11.799065420560748,24.455813953488374,19.6553738317757,38.69767441860465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ of the treasury. All armed , vessels posses­
 sing public commissions from any foreign  
 power are not tobc considered as liable to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807122901:0295/pct:25.493391272858954,12.809499747347145,17.200796668477278,1.7306720565942395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807122901:0295/pct:25.488776249094858,12.807881773399014,17.203717113202995,1.734663803629321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ tary of the Treasury. All armed vessels
 possessing public commissions from any fo­  
 reign power are not to be considered as li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807122901:0435/pct:59.702055440316805,45.467101958814666,17.273241561380352,2.235057759919638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807122901:0435/pct:59.69079939668175,45.46139359698682,17.276269482151836,2.2389621259677757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ transmitted to the se-retary of the treasury.
 All armed vessels possessing public commis­  
 sions from any foreign power are not to be con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808011501:0025/pct:59.08832986570834,56.9226850082792,17.60923018725175,1.6685772513055661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808011501:0025/pct:59.077155824508324,56.91543555781966,17.612203731719617,1.6726099507556462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -340,7 +340,7 @@ said act, viz. &#x27; armed vessels posses­
 sing public commissions from any  
 foreign power, are not tc be con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808062001:0003/pct:42.09098497495826,82.97034898976646,17.195325542570952,2.0204670690107585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808062001:0003/pct:42.09794101279911,82.97472229511064,17.188369504730105,2.0248403743549375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ necessary sea stores. And all public armed ves­
 sels possessing public commissions from any fo­  
 reign power, are not to he considered as liable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813081101:0566/pct:3.8102447640676256,31.638141809290953,21.826898814029775,8.06845965770171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813081101:0566/pct:3.8092835519677095,31.63298565840939,21.827699293642784,8.071219035202086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ of the President of the U. States. And
 all public armed vessels possessing pub­  
 lic commissions from any foreign pow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813122301:0181/pct:80.2552667999385,26.69159219405435,16.69998462248193,1.8511763633047602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1813122301:0181/pct:80.24292742927429,26.68915838424364,16.702542025420254,1.8540469894532081/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ lic commissions from any foreign pow
 sident of the U.States. And ull public armed vessels  
 possessing public commissions from any foreign pow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813123001:0957/pct:3.6820083682008367,48.79835873388042,22.209205020920503,1.1723329425556859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813123001:0957/pct:3.687587168758717,48.80161521427641,22.220362622036262,1.1690764621596978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ public commissions [rom any foreign power,
 not liable to the Embu oo These circums  
 stances are transmitt | o Cooeress tor thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814030301:0994/pct:1.9805361106368449,12.913416921709942,22.520061464913777,18.92585645177214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814030301:0994/pct:1.9919185020772865,12.919998683647613,22.53144385635422,18.91927468983447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -295,7 +295,7 @@ Rome, of and in the said Province of Quebec, may have, hold, and
 enjoy the free Exercise of the Religion of the Church of Rome,  
 fubjc&amp; e tthing&#x27;aSupremacy,de&#x27;clated and eftabhithed by anA&amp;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090901:0311/pct:5.884985455359141,88.49621873182083,26.896397404341016,4.552065154159395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090901:0311/pct:5.884985455359141,88.49621873182083,26.91877377489371,4.556912933876284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ Statute patled in the Fieit Year of the Reign ot Queen Elizmabeth,
 or any other Caths fabflituted by any other A€t in ihe Place  
 thereof ; Lut that every such Person who, by the said Statute i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090901:0311/pct:34.48198702170508,22.12041884816754,26.73976281047214,11.809191390343223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090901:0311/pct:34.49690460207354,22.12526662788443,26.747221600656374,11.814039170060113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ man Catholic religion, instead of being tolerated,
 as stipulated by the treaty of peace, is eftabliih­  
 ed ; and the people there deprived of the righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774120101:0669/pct:34.96625299368604,52.06143896523848,27.21532767254518,3.6378334680679063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774120101:0669/pct:27.105011530457283,40.35502958579882,21.09792451768941,2.826313957535677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ vince are extended so as tocomprehend those
 vast regions, that lie adjoining to the nor­  
 thernly and wefternly boundaries of these co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775032401:0423/pct:7.2546857772877615,43.7708396483783,27.805953693495038,13.307062746286753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775032401:0423/pct:7.2546857772877615,43.77589168434879,27.820654171260568,13.31211478225725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ and the encouragement of the protestant religion, and for the main­
 tenance and support of a protestant Clergy within the said province, as  
 he or they should from time to time think necessary and expedient
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840081201:0266/pct:257.20640569395016,214.41988152001156,120.2846975088968,28.030631411645714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840081201:0266/pct:64.33021806853583,53.60497038000289,30.084557187360925,7.007657852911429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +864,7 @@ HIadison, and Adams.
 Nothing can be deemed my property to which  
 I have not a perfect and uncontrollable right b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897041301:0388/pct:287.76119402985074,17.779117070965796,49.701492537313435,5.846014765707398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042933:1897041301:0388/pct:71.9671519223591,4.444779267741449,12.430011198208287,1.4615036914268495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -901,7 +901,7 @@ Nothing cau be deemed my property
 to which I have not a perfect and uncon­  
 trollable right by law Alexander Ham
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1897042101:0735/pct:42.80923994038748,11.02184637068358,16.076751117734723,3.044397463002114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069309:00100481728:1897042101:0735/pct:32.12821468505405,8.273431994362227,12.057398434588148,2.2832980972515857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

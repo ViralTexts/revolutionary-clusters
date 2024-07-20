@@ -278,7 +278,7 @@ Besides the reasons common to us, with other nations
 which lecoiiimend the justice and utility of this doctrine  
 we have strong ones arising from the sp
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835120801:0241/pct:1.5295576684580405,28.93279774183042,16.19126360755133,10.444034306807078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835120801:0241/pct:1.5293469275282447,28.929656969170647,16.193625424818592,10.446519033145172/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ of most nations, to deliver fugitives from them, would
 be to become their accomplices. The former, therefore,  
 is viewed as the lesser evil.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1842020801:0635/pct:2.560124127230411,74.69805527123849,16.555469356089993,4.524053224155578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1842020801:0635/pct:2.5704680630980086,74.69805527123849,16.550297388156192,4.530876833845104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ plices. Another objer
 I the diffioulty in guarding against the abuse arising out of  
 demands for the surrender of political offenders, un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530406:1853042701:0811/pct:4.89607390300231,119.74893521631921,48.899153194765205,21.687962340282446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530406:1853042701:0811/pct:1.6320246343341032,39.91631173877307,16.2997177315884,7.22932078009415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ crimes enumerated in the treaty. In most instances,
 perhaps, of political offences, the acts cetached from the  
 political character of the transaction, would bring th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853042701:0885/pct:57.81764318630678,21.85680027406646,46.18169848584595,20.714856686079706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853042701:0885/pct:19.272547728768927,7.285600091355487,15.393899495281984,6.904952228693236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,7 +471,7 @@ fugitives frotrt Ihein, would be to become no
 tneir accomolice.&quot; th  
 Another objection to entering into these treaties w
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661447:1853050501:0141/pct:2.972195589645254,17.081850533807827,14.162443500890289,3.3538229267766635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661447:1853050501:0141/pct:2.9767611742683653,17.089039864840576,14.157877916267179,3.357417592293037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ the French minister, unless it could be brought
 within the provisions of the consular convention,  
 which provided for the rendition of seafearin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864062401:0613/pct:176.71361502347418,159.4003747657714,49.29577464788732,17.63183724457928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295778:1864062401:0613/pct:44.19396501115416,39.85009369144285,12.328284607256077,4.40795931114482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ country, &quot;is received by them as an innocent
 man, and they have authorized no one to seize  
 or deliver him?&quot; We answer that this right o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864062701:0410/pct:53.27185671218301,208.89444097439102,49.76059585032807,15.015615240474704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864062701:0410/pct:17.75728557072767,69.631480324797,16.58686528344269,5.005205080158235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

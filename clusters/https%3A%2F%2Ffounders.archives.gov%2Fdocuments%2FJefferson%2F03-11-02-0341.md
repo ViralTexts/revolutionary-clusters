@@ -98,7 +98,7 @@ of powers isa limitation of the purposes for
 which they may raise money.”  
 Other reinarks of his, in like terms, have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830031601:0250/pct:37.240333586050035,58.55892120358257,16.148597422289612,11.814430914763006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830031601:0250/pct:37.25044225423301,58.55892120358257,16.14354308819813,11.821139847707222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -132,7 +132,7 @@ enumeration did not place under their action : conse­
 quently, that the specification ol powers is a limitation  
 ol the purposes for which they may raise money.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830032301:0342/pct:3.7355469908093686,13.050514391399838,15.209012748295287,9.33996069818518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830032301:0342/pct:3.734993330369053,13.049006010171059,15.211699026727928,9.342733857296965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ their action, consequently, that the specification
 of powersis a linitatation of the purposes for  
 which they may raise money.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830070601:0315/pct:78.69804856249068,44.3019943019943,15.924325934753464,10.897435897435898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1830070601:0315/pct:78.70301405233626,44.30538597205264,15.929291424599036,10.897435897435898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ VHrat is the answer to the proposi­
 tion—  
 That the system of free trade mus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830100601:0115/pct:80.25789239662072,31.569074098887846,19.519786571809693,42.54321318504623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830100601:0115/pct:80.24005334518782,31.564844587352624,19.52285693116989,42.54197927831368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -711,7 +711,7 @@ or are distinct and co-ordinate powers, a question
 unequivocally decided by the exact definition of  
 powers immediately following.”’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837111401:0585/pct:49.05091895149141,37.81094527363184,14.447122627297379,9.12783023657224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837111401:0585/pct:49.06096213718992,37.81432971198429,14.45214422014663,9.131214674924696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -739,7 +739,7 @@ ed by the first or are distinct and co-ordinate pow­
 ers ; a question unequivocally decided by the exact  
 definition of powers immediately following
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841032401:0049/pct:64.70425649530127,100.33253067308794,20.163073521282477,9.68925581928678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1841032401:0049/pct:48.5485208736522,75.255131292283,15.123030135471385,7.269808508198601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ consequently, that the specification of powers is a limi- &#x27;
 tation of the purposes lor which they may raise mo j  
 uev.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843061301:0623/pct:3.2953682611996964,25.123591061894405,16.203492786636296,5.378683013644453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843061301:0623/pct:3.3004302708175146,25.126886823544922,16.203492786636296,5.378683013644453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -812,7 +812,7 @@ this proof of the innate good sense, the
 vigilance, and the determination of the peo­  
 ple to act for themselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_devilsbag_ver01:data:sn84024670:00280762416:1873032201:0290/pct:2.6167471819645733,42.10992907801418,13.446054750402576,11.317966903073286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_devilsbag_ver01:data:sn84024670:00280762416:1873032201:0290/pct:2.6167471819645733,42.10992907801418,13.456119162640901,11.325354609929079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ mination of tbo people to act for themselves.
 —lt Is usual, after the adjournment of a Con­  
 gress, to throwaway the list of its membership
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873032401:0005/pct:57.62081784386617,41.85445142223864,12.848513011152416,6.649427410417436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873032401:0005/pct:57.626626394052046,41.86368673808644,12.848513011152416,6.654045068341337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ warning and preparation to our people with,­
 out delay. As the case stands, the hum of  
 preparation comes from the camp of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742046:1873032501:0298/pct:212.1928038017651,120.37674334359717,42.10454854039376,42.98134395942764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742046:1873032501:0298/pct:70.73093460058837,40.125581114532395,14.034849513464584,14.327114653142546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -933,7 +933,7 @@ the people to act for themselves.&quot;
 Let the present members of Con­  
 gress read and learn, and especiall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:0027952875A:1873032701:0287/pct:54.566106315311224,6.216216216216216,10.328638497652582,11.412776412776413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:0027952875A:1873032701:0287/pct:54.57746478873239,6.225429975429975,10.336210813266696,11.40970515970516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -966,7 +966,7 @@ pleased with tbi3 proof of the innate good
 sense, the vigilance, and the determination  
 of the people to act for themselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293472:1873033001:0308/pct:84.94882600842865,36.08705307572729,14.388922335942203,10.493004663557628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293472:1873033001:0308/pct:63.74040054208704,27.070841661114812,10.796566782111128,7.872529424827892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1019,7 +1019,7 @@ to act for themselves.&quot;
 acre.- of improved profile land and Ave  
 acres of wood bind, upon which i- Htnate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528906:1873040401:0051/pct:64.40233236151603,16.033132871893795,20.32069970845481,19.062748212867355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528906:1873040401:0051/pct:64.40719144800778,16.033132871893795,20.32555879494655,19.074095086803585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1069,7 +1069,7 @@ termination of the people to act for
 themselves.&quot;  
 Let the present members of Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280544:1873041001:0627/pct:111.35291033036182,38.87270169798051,14.643418982695334,15.281824575504872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_gibson_ver01:data:sn84020109:00237280544:1873041001:0627/pct:83.53218827848433,29.157038078971166,10.987282024387046,11.463880237114438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1109,7 +1109,7 @@ people to act for themselves.”
 The General Assembly at its late ses­  
 s’on passed 385 bill? and 26 joint res
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348458:1873041001:0265/pct:8.674897119341564,47.38986503692386,10.831275720164609,13.929208046855106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jennet_ver02:data:sn85026941:00393348458:1873041001:0265/pct:8.673469387755102,47.38383195416932,10.833607636603029,13.930617441120306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ mination of the people to act for them­
 selves.  
 Tbe rumors of the revelations of frau
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1873041701:0473/pct:37.364953886693016,12.773642732049037,20.61923583662714,87.71891418563924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn85033153:00271769726:1873041701:0473/pct:35.50150200267023,12.134761360091504,19.59279038718291,83.33160029115109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1195,7 +1195,7 @@ vigilance, and the determination of the peo­
 ple to act for themselves.”  
 Such is the fate, we hope, that not onl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340664:1873041801:0064/pct:4.311853619729515,58.014044597757795,10.835322195704057,7.958605396082296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340664:1873041801:0064/pct:4.311167674196628,58.00689825080069,10.837575564747057,7.96070460704607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1232,7 +1232,7 @@ nation of the people to act for them­
 selves.&quot;What an Old Man has-Xotlced.  
 I have noticed that all men are hon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1873041901:0272/pct:18.820058997050147,91.70904267079372,13.244837758112094,14.337828874640724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn88061082:00212470314:1873041901:0272/pct:14.119209206255533,68.78178200309529,9.943936264384774,10.756135308423612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1271,7 +1271,7 @@ people to act for themselves.
 Robbing tho Malls.  
 For mouths past, the popular and relia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776804:1873042901:0572/pct:101.57378740970073,87.15888163401975,22.60061919504644,21.446509291813157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jordan_ver01:data:sn84026050:00280776804:1873042901:0572/pct:76.24580428608314,65.37753222836096,16.96359411309063,16.08906747028294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1439,7 +1439,7 @@ proof of the innate good sense, the vigi­
 lance, and the determination of the peo­  
 ple to act for themselves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1873052201:0975/pct:82.7219086711134,54.184825120125154,14.44330425859415,13.420493909934072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296026724:1873052201:0975/pct:62.052597819114816,40.64141244831825,10.840282232200128,10.068164040674935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1482,7 +1482,7 @@ author of our holy religion.&#x27; which stood in
 creed of a great majority 01 vueui.  
 It has been proposed that the Eur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779428:1874022401:0181/pct:9.36007640878701,37.55525072397501,19.364851957975166,13.930803231214753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779428:1874022401:0181/pct:7.023411371237458,28.16643804298125,14.548494983277592,10.455723212924859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1575,7 +1575,7 @@ raise money for purposes which the
 enumeration did not place under their  
 actio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536366:1894092401:0222/pct:244.34490481522957,47.78904665314402,51.95968645016797,24.421906693711968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536366:1894092401:0222/pct:61.12044817927171,11.947261663286005,12.99719887955182,6.105476673427992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1604,7 +1604,7 @@ said that the doctrine of secession was during
 the same Administration proclaimed on the  
 floor of Congress by the representative fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895081101:0889/pct:232.7969348659004,281.15231382163654,51.417624521072796,28.80784554091327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175042817:1895081101:0889/pct:58.22154082023764,70.28807845540913,12.85933307780759,7.2019613852283175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1631,7 @@ should wish to seo tho kings of
 other countries maintained in their  
 despotism
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:83.12324929971989,44.92324266092109,14.548319327731093,9.318610288176677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533614:1897042801:0291/pct:62.364273204903675,33.69243199569082,10.928196147110333,6.999057366011312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1656,7 +1656,7 @@ other countries maintained in their
   
 desDotism.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1897052701:0542/pct:49.156355455568054,122.57788245369875,14.749718785151856,3.254469542875495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068245:00295878976:1897052701:0542/pct:36.87245113204894,91.93876458623274,11.06736042750668,2.4408521571566215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1675,7 +1675,7 @@ at least as Justifiable as that one king
 should wish to see the kings of other  
 countries maintained In their despotism
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:39.495645863570395,109.62011478546052,15.892597968069666,2.691992347635966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_atherton_ver01:data:sn84026355:00211100229:1897061101:0672/pct:29.64240333998911,82.22191855698279,11.925939371936831,2.022410494670675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1696,7 +1696,7 @@ as that one king should wish to
 see the kings of other countries  
 maintained in their despotism.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1898041501:0844/pct:121.26089872568745,170.47397047397047,41.91817572099262,14.141414141414142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1898041501:0844/pct:30.330481462841806,42.61849261849262,10.484817983559806,3.5353535353535355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1778,7 +1778,7 @@ ural and at least as justifiable as that
 one king of other countries maintained  
 in their despotism.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011800:1899071501:0204/pct:62.166172106824924,63.342472012794154,13.616880975931421,2.764450536897418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_caesar_ver01:data:sn82002441:00517011800:1899071501:0204/pct:62.177162325530276,63.342472012794154,13.605890757226069,2.7720661031147666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1797,7 +1797,7 @@ ural and at least as justifiable as that
 one king of other countries maintained  
 in their despotism. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661794:1899072001:0022/pct:53.717948717948715,8.1690906619546,13.58974358974359,3.0990893027049067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn89066695:00415661794:1899072001:0022/pct:40.31519149715961,6.130216120701373,10.207073483599046,2.3243169770286802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

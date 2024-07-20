@@ -423,7 +423,7 @@ talents and industry as your •• Sketches’’ de­
 inon&gt;i rate.  
 »Vi:h great c teem, \ am. sir, your frien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818062301:0058/pct:1.6452780519907864,47.64649375600384,16.880552813425467,38.24447646493756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818062301:0058/pct:1.6450074025333115,47.64077320206508,16.88325930800022,38.243886821146994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -663,7 +663,7 @@ strate.
 With great esteem, I am. sir, vour fiiem].  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849081401:0590/pct:3.285659064553537,10.251559105879055,13.248936992655585,34.04106229416299/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215828:1849081401:0590/pct:3.285341578896512,10.250840807174887,13.250877701549264,34.04101270553064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ R. H. Lee, Cicero, Mr. Otis was Isaiah
   
 and Ezekiel united.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn86083440:0028077635A:1850010901:0076/pct:219.6078431372549,82.29555236728838,104.07239819004525,163.0416068866571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn86083440:0028077635A:1850010901:0076/pct:54.93303150348991,20.573888091822095,26.03282399547255,40.76040172166427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -970,7 +970,7 @@ Massachusetts Bay, and the whole continent
 more than Patrick Henry ever did in the whole  
 course of his lif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883021801:0229/pct:123.52941176470588,281.2072373422533,50.98039215686274,9.38117682834119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044814:1883021801:0229/pct:30.89400226329687,70.30180933556332,12.749905695963788,2.3452942070852973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

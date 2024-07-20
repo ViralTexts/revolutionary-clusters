@@ -68,7 +68,7 @@ do fwear to be faithful and true to the com­
 monwealth of Virginia, as long 33 I continue a  
 citizen thereof. &#x27;.So help me God
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806120201:0239/pct:41.05512960934648,78.73947498761763,17.34209565534867,6.785537394749876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806120201:0239/pct:41.047636430005475,78.72972638355826,17.34501429701284,6.788824233419999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ and I tio sweater affirm,as the case may be Ho
 be faithful to the said Commonwealth of Vir­  
 ginia; so long as I continue a citizen thereof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817020401:0361/pct:66.05714285714286,11.342534504391468,14.693877551020408,4.717691342534504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1817020401:0361/pct:66.04635977799543,11.34111152929369,14.696920230710631,4.721281311420566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ ral periods to which my continuance in ihe said
 office is or shall be limited by law, and the Con­  
 titution
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826092201:0165/pct:17.030283295343537,2.1470160116448325,30.983393031585802,93.70451237263464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826092201:0165/pct:17.027510988116557,2.146755609460279,30.983775571110748,93.6971902162927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ executive, or judiciary, before lie shall have given
 smell assurance, and moreover, have taken such of  
 the following oaths, kt” In the revision of’19
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827030101:0402/pct:34.46364525595044,16.451573995899167,15.27551353113792,4.607405620552406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1827030101:0402/pct:34.45802770986145,16.449589966232512,15.278456941048628,4.610869914777296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ Mlh go further than merely to declare a prior allegiance
 lo V irginia in preference to any of the other States? Let  
 it not he forgotten, that the persons required to take thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833022101:0371/pct:34.52397693713964,68.64069072393181,15.103360990015469,4.073500110692938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833022101:0371/pct:34.51912260967379,68.63309352517986,15.105924259467567,4.07673860911271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ m-ow&#x27;­
 No person has powe, to act.. office, legislative, executive, „r  
 Judiciary, before he shall have given this nssufance) and all who ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833042601:0456/pct:19.38194246653375,79.58351696782724,15.252064938763885,4.341119435874835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1833042601:0456/pct:19.37918268546205,79.5747493665308,15.25463951777493,4.3443134662700595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ I. &quot;Every person elected or appointed
 to any post or office referred to in the pree­  
 ceding chapter shall, before he acts in suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741984:1870022401:0195/pct:91.66329966329967,164.0401664555817,41.063973063973066,15.958024244617333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741984:1870022401:0195/pct:30.554433221099888,54.6800554851939,13.687991021324354,5.3193414148724445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ citizenship and the anti-duelling oath, are
 substantially, though not in terms, super-­  
 seded by the oath prescribed by the Constie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741984:1870022401:0195/pct:91.83838383838383,200.6694409263615,41.26599326599327,28.044146915143838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741984:1870022401:0195/pct:30.612794612794612,66.8898136421205,13.755331088664422,9.348048971714613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ any post or office referred to in the preceding
 the following oath :  
 &quot;I swear (or affirm) that I have not since th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1870030101:0447/pct:19.873257287705957,74.51298701298701,12.433460076045627,5.653170359052712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1870030101:0447/pct:19.881706801858893,74.51298701298701,12.433460076045627,5.656353450471098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -380,7 +380,7 @@ By comparison it will be observed that the
 oaths prescribed in the Code, with the excep­  
 tion of that clause declaratory of citizenship an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1870030101:0447/pct:20.03802281368821,86.31588999236058,12.179974651457542,4.784186401833461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1870030101:0447/pct:20.03802281368821,86.31907308377896,12.179974651457542,4.781003310415075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

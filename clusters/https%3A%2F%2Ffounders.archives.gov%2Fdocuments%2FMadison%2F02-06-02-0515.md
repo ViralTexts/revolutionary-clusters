@@ -122,7 +122,7 @@ Be so good as to a and the British government
 on this subject, and comm :* icate i s sentiments  
 for the inforpiatiou of the Htesidenl.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041501:0447/pct:59.56711531465988,2.269103397522384,36.28592215351037,92.65301116153563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041501:0447/pct:59.55628296053828,2.2688251165072355,36.28538522155544,92.64573624397023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ torbidding Inreign l.triors to do so he enforced there.
 i this subject, and communicate its semiinetils lor  
 tbe information oi the president.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042001:1092/pct:27.009728622631847,9.173419773095624,22.759856630824373,51.912479740680716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808042001:1092/pct:27.00281545943179,9.171933236104358,22.760429997440493,51.90811861934856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -312,7 +312,7 @@ be calculated to cherish amity and use­
 ful intercourse between the two na­  
 tions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808102401:0002/pct:23.8535883199671,5.378000256706456,36.500102817191035,89.37235271467077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808102401:0002/pct:23.867297278771677,5.378000256706456,36.500102817191035,89.38090959654302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ it ex/iediert, to erect the shores, waters
 and inlets of the bay and river Mobille. and  
 of the other rivers, creeks, inlets and bavs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810111301:0226/pct:40.75812274368231,29.35791015625,17.075812274368232,4.45556640625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810111301:0226/pct:40.75076700956506,29.354326864396437,17.07874631534621,4.4590910940233535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ Speaker of the House of Repir raentatives,
 E. GERRY,  
 Vice-President of the United States, aun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813090901:0892/pct:47.66909645702661,46.47012423585092,22.15629767757247,7.434431078682706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813090901:0892/pct:47.680397807538,46.47341089857359,22.15629767757247,7.441004404128049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

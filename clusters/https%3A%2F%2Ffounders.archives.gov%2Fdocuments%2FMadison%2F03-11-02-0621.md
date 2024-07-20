@@ -60,7 +60,7 @@ Semite (. lumber, in thh city, on that day, at 10
 o clock in the forenoon, is accordingly requested. I  
 # JAMES K POLK. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849011101:0050/pct:32.68292682926829,85.7970583865696,13.151969981238274,4.145000742831674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849011101:0050/pct:32.68918073796122,85.8020105977319,13.151969981238274,4.149952953993958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -80,7 +80,7 @@ of March next, to receive and act upon such cominun
 an may be made to it on the part of the Executivi  
 - attendance in the Senate chamber, in this city, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849011201:0052/pct:63.327539895718125,75.29761904761905,14.03065255174593,3.050595238095238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849011201:0052/pct:63.327539895718125,75.30588624338624,14.041186074682678,3.050595238095238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -103,7 +103,7 @@ your atiendance in the Senate Chamber, in this
 city, on ihat day, at 10 o&#x27;clock in tbe forenoon,  
 is accordingly requested. Jambi K. Polk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849011201:0455/pct:31.168048229088168,94.20652487729767,13.504144687264507,3.936098546819363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1849011201:0455/pct:31.173072092439085,94.21294068584993,13.504144687264507,3.9328906425432266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ city, on that day, at 10 o&#x27;clock in the forenoon,
 is accordingly requested. James K. Polk.  
 Married
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1849011201:0557/pct:29.559322033898304,24.243899047486615,13.026634382566586,5.103246888688035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1849011201:0557/pct:29.556459422816193,24.24221357063404,13.02860094260443,5.105209492028179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ I made to it on the part of the Executive,
 ! your attendance in the Senate ( hand er,  
 in lid city, on 1 hat dav. at 10 o&#x27;clock i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1849011301:0317/pct:46.58249891162386,41.838501495356525,18.67653461036134,7.036045962537384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:0041562444A:1849011301:0317/pct:36.10189506832368,32.429245283018865,14.480121464319856,5.457059206245933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ made to it on the part of the Executive, your at
 tendance in the Senate Chamber, in this city, on  
 that day, at 10 o&#x27;clock in the forenoon, is accord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237282358:1849011801:0329/pct:64.5997574287447,49.0060053841375,22.513644633110978,5.974321805756886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237282358:1849011801:0329/pct:48.46830451925993,36.7570925657486,16.89414619350925,4.483329881963139/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ on that day, at 10 o&#x27;clock in the forenoon,
 is accordingly requested.  
 JAMESK. POLK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849012001:0483/pct:156.8019093078759,209.90045002045548,57.59745425616547,29.510432292376926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1849012001:0483/pct:39.208275313308135,52.47511250511387,14.402227968967575,7.3776080730942315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ attendance in the Senate Chamber, in the city, on that day
 at 10 o&#x27;clock in the forenoon, is accordingly requested.  
 JAMES K. POLK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849012201:0078/pct:14.214175654853621,100.77868852459017,43.740369799691834,8.155737704918034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849012201:0078/pct:4.738058551617874,33.59289617486339,14.580123266563945,2.7185792349726774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -472,7 +472,7 @@ at 10 o&#x27;clock in the forenoon, is according
 ly requested.  
 JAMES K POLK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849012601:0220/pct:26.01410934744268,207.47201628143625,60.670194003527335,24.887338275912196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1849012601:0220/pct:6.50352733686067,51.86800407035906,15.167548500881834,6.221834568978049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -2066,7 +2066,7 @@ muks it a condition of their gravts, the fame will be
 confidersd by Congrals as corfiftent with their reso­  
 lution of the 3d of February, 1781, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783032901:0328/pct:11.230294165447749,51.47630555847431,26.588655940191778,27.6452663654513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783032901:0328/pct:11.235711577008505,51.479808062764874,26.59407335175253,27.648768869741865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2131,7 +2131,7 @@ main design of the House, which is to show a de­
 cent respect to the States which bave dificred from  
 them in opinion upon this subject
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811020601:0357/pct:28.17332474226804,1.82286506835744,45.2319587628866,94.99702793738855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1811020601:0357/pct:28.18406357388316,1.8261673601479427,45.2319587628866,94.99702793738855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2201,7 +2201,7 @@ rai-ed, and of appropriating it when rai­
 sed.”  
 1 lie first clause of the section of the con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818091701:0204/pct:81.05708245243129,75.81923890063425,16.617336152219874,3.4619450317124736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1818091701:0204/pct:81.03994927076728,75.80922182586868,16.620869442683013,3.4658915752851542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2275,7 +2275,7 @@ sive province of die Federal Government. This provi­
 “ definite power of prescribing the quantity of money to  
 “ &quot;r raised, and of appropriating it when raised.&#x27;1 f 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832081001:0107/pct:49.70513900589722,73.22512973390748,15.051951698960966,4.471679364027824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832081001:0107/pct:49.6981608872666,73.21704570545374,15.054518227338669,4.474865680429823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2343,7 +2343,7 @@ agreeable tax to the people that can be im­
 posed, because it is paid insensibly, and seems  
 to be voluniary.” This mode was adopte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842050301:0274/pct:7.052677405311275,24.052598881756058,14.714845450587724,5.353075170842825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842050301:0274/pct:7.062351859913897,24.052598881756058,14.719682677889034,5.363429281424725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2363,7 +2363,7 @@ cial States, and so would press peculiarly hard
 upon that State, which draws its chief support  
 from commmerce.”” The report makes the fol-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842050301:0274/pct:7.009142359599478,45.9101263201491,14.830938905819185,3.582522261337751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842050301:0274/pct:7.013979586900788,45.91702906053703,14.835776133120495,3.585973631531718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2453,7 +2453,7 @@ substance, and in the eveat we shoald find our­
 stance, we were cenleut to approsch it with  
 moderation.” ; e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842050301:0274/pct:6.443186765346104,50.155311658728515,15.35335945436076,45.226755021743635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842050301:0274/pct:6.443186765346104,50.155311658728515,15.363033908963383,45.233657762131564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2475,7 +2475,7 @@ to be &quot;the most agreeable tax to the peopie that can be
 imposed, becau?e it is paid insensibly, and seems to be  
 voluntary.&quot; This mode was adapted by the first Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842051001:0090/pct:35.132648366814905,89.89550573196713,16.28584572918264,3.8855635588921578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842051001:0090/pct:35.13776005725093,89.90226911501132,16.28584572918264,3.8855635588921578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2502,7 +2502,7 @@ press peculiarly hard upon that State, which draws its
 chief support from commerce,&quot; the report makes the  
 following answer:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842051001:0090/pct:51.15779788376016,3.1855534138175914,16.393191228339212,6.218930709140712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842051001:0090/pct:51.15779788376016,3.1923167968617903,16.39830291877524,6.215549017618613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2591,7 +2591,7 @@ dit, in n sound and healthy elate, and in a condition
 much bettor than any of the banks in the Union. So  
 say those who profess to have intimate knowledge o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842051001:0090/pct:51.26514338291673,9.089986811403064,16.515871798803865,33.65121233641067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842051001:0090/pct:51.27025507335276,9.093368502925163,16.52609517967592,33.65121233641067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2623,7 +2623,7 @@ ernment can exist without a right to create
 subordinate officers for those purposes which  
 proceed from, and concentrate in itself. The ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853080501:0795/pct:93.90599001663894,33.982947624847746,38.498336106489184,28.41047503045067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853080501:0795/pct:31.30199667221298,11.327649208282581,12.832778702163061,9.470158343483556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2645,7 +2645,7 @@ fined and established on the faith of all the
 States, and not revocable by any, without a  
 breach of the general compact
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853080501:0795/pct:94.28036605657238,62.48477466504263,38.186356073211314,12.195493300852618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853080501:0795/pct:31.426788685524127,20.828258221680876,12.728785357737104,4.065164433617539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2714,7 +2714,7 @@ is the parallel between the sovereign
 power that makes the House in the  
 Untted States Legislature and that i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026922:00237288154:1866042401:0400/pct:118.3634431455898,48.90829694323144,55.855472901168966,82.08101189579882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026922:00237288154:1866042401:0400/pct:39.454481048529935,16.302765647743815,18.618490967056324,27.360337298599607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2733,7 +2733,7 @@ faith of the States, solemnly pledged to
 each othes, and not revocable by any  
 without a breach of the general com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031501:0242/pct:143.94591272280272,123.13112407794782,37.61524277811924,6.737861939887702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867031501:0242/pct:35.99200860611649,30.782781019486954,9.405255878284924,1.6844654849719256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2797,7 +2797,7 @@ his annual report for 1845, says: &quot;The merchant
 advances in cash the duty on the import and  
 adds the duty, with a profit upon it, and othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101945:1882052001:0575/pct:64.03861625100564,28.77365304058934,50.362027353177794,18.373537483749818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101945:1882052001:0575/pct:16.00965406275141,7.193413260147335,12.590506838294448,4.593384370937454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2898,7 +2898,7 @@ tify an objection on the part of the nonimportins tates
  tor itis as reasonable ther shoud atow an advance on  
  the duty paid as on the first cost, freight, or any inct
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044899:1886070401:0191/pct:3.005259203606311,204.49133383571967,66.26596543951916,85.65184626978146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044899:1886070401:0191/pct:0.7517383950385266,51.12283345892992,16.57583161059951,21.412961567445365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2935,7 +2935,7 @@ The following spring, on April is, 1s
 oe conge passed relutons asking the  
 States to invest it with cortain powers fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044899:1886070401:0191/pct:1.8031555221637867,302.9841748304446,67.01728024042073,44.37076111529766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044899:1886070401:0191/pct:0.45104303702311593,75.74604370761115,16.763766209359144,11.092690278824415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3017,7 +3017,7 @@ The great light who is the affliction of the
 city, over the signature of ‘A&quot; cries out in  
 hysterieal tones that our cutlery industrie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_crawlingclaw_ver03:data:sn92064070:00514153863:1888102201:0127/pct:4.453388730199948,72.2095907399752,12.399376785250585,11.14096734187681/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_crawlingclaw_ver03:data:sn92064070:00514153863:1888102201:0127/pct:4.457716610404224,72.21303568967893,12.412360425863412,11.147857241284278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3044,7 +3044,7 @@ ted with the price of the commodity,
 and ultimately paid by the Consum­  
 er with the profit on tbeduty itself.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1888110301:0173/pct:34.74758324382385,4.9863387978142075,10.239885427855352,7.445355191256831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157492:1888110301:0173/pct:34.74136388043673,4.985657697035924,10.242527295507427,7.447753039202294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3074,7 +3074,7 @@ all reason itself, confirms this genera!
 principle, and the occasional excep  
 tions are not at variance with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023991:1892010601:0318/pct:91.08761329305136,59.67789744096433,16.137965760322256,13.220037545697066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn85033549:00296023991:1892010601:0318/pct:60.73272063452096,39.78855844284162,10.764194888581141,8.813358363798043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3132,7 +3132,7 @@ duty itself, as a compensation to the
 merchantfor the advance of his  
 money.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295912:1892011501:1276/pct:66.12546125461255,346.4809384164223,57.7859778597786,22.9227761485826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295912:1892011501:1276/pct:16.534415943901088,86.62023460410558,14.449160361690348,5.73069403714565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3196,7 +3196,7 @@ to Congress on this matter in December
 this objection is true but argued that  
 it had no necessary bearing on the fact
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048789:1892121401:0363/pct:27.46815286624204,117.21794290892615,19.31528662420382,18.577254191209786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048789:1892121401:0363/pct:18.315018315018314,78.14529527261743,12.88421723204332,12.392387856819212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3229,7 +3229,7 @@ reconcilable McEiNLEY claims not only
 that the tariff is not a tax but that  
 the foreigner pays the tax HAMI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048789:1892121401:0363/pct:27.515923566878982,5.6071590394200275,39.3312101910828,140.8246488445854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048789:1892121401:0363/pct:18.346870520783565,3.7381060262800183,26.230291447682752,93.89065095906963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

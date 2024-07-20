@@ -94,7 +94,7 @@ I cannot combat their insinuations, however
 injurious, without disclosing secrets which it  
 is of the utmost consequence to conceal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840053001:0603/pct:38.59592364930443,60.066476733143396,18.246522161112907,6.885090218423552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1840053001:0603/pct:38.60131564757899,60.066476733143396,18.246522161112907,6.89696106362773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ best circumstances would permit, yet I have
  the means, and may in mafe instances de­  
  serve the imputation of error.&quot; A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861103101:0424/pct:57.92245793708852,197.62277134813888,38.434528163862474,31.76936711500365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280778059:1861103101:0424/pct:19.307485979029504,65.8742571160463,12.811509387954157,10.58978903833455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ stances deserve the imputation of error.&quot;
 TREATMENT OF PRISOnERS.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861110601:0390/pct:327.3449920508744,230.1398897838067,52.35824059353471,60.49173378550233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470405:1861110601:0390/pct:81.84709155956008,57.534972445951674,13.091294554127467,15.122933446375583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ Manassas. In tbe Book of Common Pray­
 er, in the Psalter for tbe evening of the  
 lltb, in the 7th verse we read 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347300:1862032801:0118/pct:37.13650087398697,76.44022057960812,13.252820594311139,14.501935938049982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347300:1862032801:0118/pct:37.13650087398697,76.44022057960812,13.263414375761428,14.505846924009543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ vessels that will enable us to defy Europe.
 Give me only the requisite means, and. If  
 a rer lort time, we can say to those powers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472086:1862032901:0115/pct:249.2769744160178,322.0184505946427,43.99332591768632,41.96954540402356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472086:1862032901:0115/pct:62.3279098873592,80.50461264866067,10.999860937282714,10.49238635100589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ combat their insinuations, however inju-­
 rious, without disclosing secrets which  
 it is of the utmost moment to conceal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529133:1862033101:0015/pct:57.66215253029223,215.37005887300253,36.450463292943695,14.161059714045416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82015737:00279529133:1862033101:0015/pct:19.220717510097412,71.79001962433418,12.15015443098123,4.7203532380151385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ insinuations, however injurious, witl10ll,
 disclosing secrets wliich it is of tllft  
 most moment to conceal.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862041001:0117/pct:112.45888157894737,11.77857935627081,19.305098684210527,7.18645948945616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862041001:0117/pct:84.37178696278018,8.837402885682575,14.476660497635205,5.396781354051054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ often mistaken iu rny judgment of the means, and
 may, in nm.iy instances, deserve the imputation of  
 error.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1863070201:0108/pct:44.33938477054967,33.85689354275742,20.007564296520425,9.162303664921465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1863070201:0108/pct:33.27027367890024,25.392670157068064,15.008197755076303,6.874151638549544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ answer the important purposes of the trust,
 rerawed in me, could not but give me some  
 e oin a personal account. But my chie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864071201:0296/pct:24.696356275303643,178.19761949744947,57.135627530364374,13.829586245985263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864071201:0296/pct:6.174089068825911,44.54940487436237,14.283906882591094,3.457396561496316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ history is ever repeating itself.
 The only purpose which mokes a struagle for  
 ind pendence worth the cost of blood an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864071201:0296/pct:25.101214574898787,197.16606839221615,57.43927125506073,39.97732854713773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864071201:0296/pct:6.275303643724697,49.29151709805404,14.359817813765183,9.994332136784433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ vated station? Merit and talents, with which I can
 have no pretensions of rivalship, have ever been  
 subject to it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531320:1878072701:0631/pct:8.970046452026269,240.4425182481752,47.36504885471728,8.508211678832117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531320:1878072701:0631/pct:2.9900154840087563,80.14750608272506,15.788349618239094,2.8360705596107056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ n my judgment of the means, and may. In
 many Instances, dos.-rve the Imputation of er&quot;ot  
 .&quot; And when, at last, he was contemplatin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885022101:0630/pct:82.20817643894567,23.0546976188104,14.107046799354492,2.640231144764372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1885022101:0630/pct:82.20817643894567,23.062169971106904,14.12049488972566,2.6427219288632062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ many instances, drserve the imputation of
 error.&quot; And when, at last, he wm contem­  
 plating a final reiirement from the Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885022101:0241/pct:27.258566978193148,116.0398975603181,16.140965732087228,4.717616929505324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885022101:0241/pct:20.44790652385589,87.0332928966168,12.112950340798442,3.5449521498854293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ error.&quot; And when, at last, he was­
 contemplating a final retirement from  
 the presidency, and, in one of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0193/pct:220.20942408376965,134.74476088124663,33.37322363500374,15.475550779150995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0193/pct:73.40314136125654,44.91492029374888,11.12440787833458,5.1585169263836645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ i judgment ol the means, and may, in n»apv
 I instances, deserve the imputation ol error. &#x27;  
 In C*a*1 Mien the OeOwrSaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092523:00383341723:1885022201:0097/pct:38.79024108560704,83.17598387610056,11.707810018767143,4.741699374138114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092523:00383341723:1885022201:0097/pct:38.78464203233256,83.16716164616038,11.710931485758275,4.744732003959836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ utmost moment to conceal. Hut why should
 I expect to bo exempt from censure , the un­  
 failing lol of elevated station ? My heart tell
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539197:1898040701:0482/pct:93.88809693513899,36.60095173351461,16.945830363506772,4.486743711760707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539197:1898040701:0482/pct:70.45373506863969,27.45071380013596,12.716170440363701,3.371855880353501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -818,7 +818,7 @@ tion? My heart tells me that it has ever
 been my unremitted aim to do the best  
 that circumstances would permit.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898043001:0824/pct:122.32531168454625,218.9371763116415,37.6630907509423,16.381445620355777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898043001:0824/pct:40.77510389484875,72.97905877054717,12.554363583647435,5.460481873451926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

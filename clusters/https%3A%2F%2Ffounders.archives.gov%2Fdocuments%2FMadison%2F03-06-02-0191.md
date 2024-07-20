@@ -146,7 +146,7 @@ bay ; in pursmnceof which acts of incorpo­
 ration subscriptions were received for near­  
 ly the whole amount of the 2000 shares, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813122801:0276/pct:40.757520840884375,77.1297102350454,17.216382747372236,3.258301206317622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813122801:0276/pct:40.75013589418373,77.12011937329022,17.21930301383101,3.262040951670397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ ly the whole amount of the 2000 shares, a
 55 400,000, for the purpose of cutting and making a ca­  
 nal between the river Delaware and the Chesapeak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813123001:0419/pct:71.90007293946024,31.400247831474598,21.571845368344274,1.3011152416356877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813123001:0419/pct:71.8869644484959,31.39635732870772,21.57398966879368,1.305084045760542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ nal between the river Delaware and the Chesapeak
 the purpose of cutting and making a canal be­  
 tween the river Delaware and the Chesapeak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814010101:0722/pct:48.946840521564695,60.075732630885746,21.489468405215646,2.090879157062891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1814010101:0722/pct:48.93457006768614,60.065843621399175,21.490348458260215,2.094650205761317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ cutting and making a canal between the
 river Delaware and the Chesapeake Bay.  
 passed at November session, one thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1866050501:0584/pct:39.76950689590024,64.92472495657209,15.662195352352164,6.079907353792704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624517:1866050501:0584/pct:30.831177705110058,50.31599416626155,12.147981843916249,4.715605250364609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ pose of cutting and making a canal be­
 tween the river Delaware and the Ches­  
 apeake Bay, passed at the Novembe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060120:00415623501:1866053101:0071/pct:153.20580474934036,21.708400646203554,38.57519788918206,15.216074313408724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060120:00415623501:1866053101:0071/pct:51.068601583113455,7.236133548734518,12.858399296394019,5.072024771136241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

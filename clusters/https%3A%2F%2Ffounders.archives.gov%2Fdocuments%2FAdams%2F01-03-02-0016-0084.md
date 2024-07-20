@@ -77,7 +77,7 @@ duct in the siege and acquisition of Boston.
 The next medal presented by Congress was  
 to General ASrHoNy Wawne. By the jou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653607A:1866102601:1024/pct:162.8810975609756,72.94541091781643,44.74085365853659,19.61607678464307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653607A:1866102601:1024/pct:40.74356530028599,18.236352729454108,11.19161105815062,4.9040191961607675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ of thanks and a proper device for the medal.&quot; The
 committee appointed consisted of John Adams, Joha  
 Jay and Stephen Hancock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876040301:0047/pct:245.07111329082883,181.3079830489062,45.970246853032535,21.383575764517236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174397A:1876040301:0047/pct:81.69037109694294,60.4359943496354,15.323415617677512,7.127858588172413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ pointed to prepare a letter of thanks and a prop­
 er device fur tbe iiudal.&#x27; Tbe committee up­  
 jMiinted consisted of John Adams, John Jay, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876042701:0600/pct:111.21190130624093,50.529735838395254,16.727140783744556,7.585817205820031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876042701:0600/pct:83.44827586206897,37.90083345105241,12.558983666061707,5.6928944766209915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

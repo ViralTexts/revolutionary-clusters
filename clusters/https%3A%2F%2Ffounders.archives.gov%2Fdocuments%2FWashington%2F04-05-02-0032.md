@@ -127,7 +127,7 @@ signing, and perhups, most valuable part of the com­
 munity, are preyed upon by the moie knowiig and  
 crafly speculators.”’---Harl. Times. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837112101:0590/pct:20.839117692426345,49.32405165456013,14.885084066018818,14.09402744148507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837112101:0590/pct:20.844259344953468,49.33077750874361,14.89022571854594,14.09402744148507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ void it the natural consequence of
 which will be, that the specie which  
 remains unexported will be locked up.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1837112501:0238/pct:67.80641767490795,8.148341603551842,26.21427318954936,47.51893444763646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1837112501:0238/pct:67.81226255187329,8.15704709671803,26.2201180665147,47.51022895447027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -483,7 +483,7 @@ for speeulation; by which: the least designing, and per­
 _haps most valuable’part of the community, are preyed  
 .upon by the more knowing and crafty speculators.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838031201:0042/pct:6.871609403254973,77.05980761187787,14.96383363471971,12.515683814303639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838031201:0042/pct:6.881655615832831,77.05980761187787,14.97387984729757,12.515683814303639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ possibly aveid it—the natural consequence of which
 will be, that the specie which remains unexported,  
 will be locked up. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838032101:0527/pct:50.966608084358526,58.270713379525716,14.911450588076248,25.656289645749975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153231:1838032101:0527/pct:50.966608084358526,58.27721934875248,14.92496958226308,25.64978367652321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ a representative of coin, or the neeessity for it as
 a medium.&quot;  
 In another letter to Thomas Jefferson, Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838040401:0053/pct:108.42193620593173,90.1659564924871,20.59317291550084,6.873738506391567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197966:1838040401:0053/pct:81.34620766862581,67.62727068849517,15.449202350965574,5.158107198923526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ a paper emission] will be, ihtit the spe­
 cis which remains unexported will  
 be locked up.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838060901:0348/pct:0.6384814495254529,5.182491232627614,20.465918895599653,35.32926354071957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838060901:0348/pct:0.6499856197871728,5.182491232627614,20.471670980730515,35.34225224055072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ and crafly speculators.”’
   
 Itis also true that Mr Madison was the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838061901:0098/pct:65.92384887839434,22.568013190436933,14.064344746162927,14.890766694146743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838061901:0098/pct:65.93368752459662,22.574883209672986,14.064344746162927,14.897636713382797/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1112,7 +1112,7 @@ that it is by the substance and not &#x27;. li e
   
 khadow of a thing thai we are to be ber.e.lt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016784:00295877960:1838102001:0024/pct:5.044699872286079,66.94743935309972,22.33397190293742,12.443845462713387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016784:00295877960:1838102001:0024/pct:3.784129011655756,50.21338724168913,16.765128532652085,9.332884097035041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1197,7 +1197,7 @@ vno can possibly avoid it the natural con­
 sequences of which will l. that the specie  
 which remains unexported will be locke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016784:00295877960:1838102001:0024/pct:5.044699872286079,68.48607367475292,69.01340996168582,36.02875112309074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016784:00295877960:1838102001:0024/pct:3.784129011655756,51.37017070979335,51.780296982276866,27.02156334231806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1265,7 +1265,7 @@ i :o can poibly avoid it the natural con­
 s quencesof which will be, that the specie  
 i aich remains unexported wilt be locke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016784:00295877960:1838102701:0026/pct:2.529346003353829,60.40569315252718,19.745667970933482,42.92278381710187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016784:00295877960:1838102701:0026/pct:1.90130015378163,45.30987336097725,14.818957080945058,32.19769135940827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1297,7 +1297,7 @@ tflt J.uili.
   
 To xiji gn reasons for this opinion, would
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016784:00295877960:1838102701:0027/pct:7.619182746878547,50.93760280732536,20.559023836549375,14.168220199583288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016784:00295877960:1838102701:0027/pct:5.719557195571956,38.20594363417041,15.427192733465796,10.626165149687466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1336,7 +1336,7 @@ reditor of the politic iu.fers. Whether i.
 be a Ugil tender cr not, it xvill, us his been  
 trulv otnerveJ. leave no alternative. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016784:00295877960:1838102701:0027/pct:7.6901248581157775,65.0948568922031,26.09250851305335,16.87685053185656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016784:00295877960:1838102701:0027/pct:5.776326994039171,48.821142669152316,19.571388021572524,12.665862484921592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1398,7 +1398,7 @@ designing, and perhaps most valuable part of
 the community, is preyea upon oy me more  
 knowing and crafty speculators.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1839062901:0065/pct:65.50362080315998,106.44257703081233,20.11191573403555,4.78858209950647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1839062901:0065/pct:49.14389199868291,79.83193277310924,15.09713533091867,3.6014405762304924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1485,7 +1485,7 @@ stantly locked up. With great esteem and
 regard,  
 I am, dear Sir, Your&#x27;s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1839110901:0553/pct:30.58252427184466,63.418217433888344,23.689320388349515,55.713352921971925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025180:00237287927:1839110901:0553/pct:22.94803302574065,47.5677440417891,17.7756192326372,41.78909565785178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1561,7 +1561,7 @@ specie, which remains uncxp rted, will l o in.
 statly locked up. With great esteem and re­  
 gard. 1 um, dear Sir. Vonr&#x27;s.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839121401:0848/pct:97.22560975609755,48.513169073916735,31.402439024390244,38.55848201642594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839121401:0848/pct:72.99359169972536,36.39195695270462,23.588648153799205,28.915321438685925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1651,7 +1651,7 @@ ni.fin. which remains unexprted. will be in-
 sfatly locked up. With great esteem and re­  
 gard. 1 am, dear Sir, Your&#x27;s. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839122101:0851/pct:23.353658536585368,53.47586206896552,20.73170731707317,37.282758620689656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839122101:0851/pct:17.52745018300122,40.110344827586204,15.555103700691339,27.958620689655174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1709,7 +1709,7 @@ designing, and perhaps most valuable fsrtjof tho
   
 community. Hre I&quot;)&#x27;.! tp-i. U t, ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1839122801:0484/pct:90.8130081300813,8.096280087527353,35.792682926829265,119.55689277899343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1839122801:0484/pct:68.15131177547285,6.072210065645514,26.86597518812284,89.67450765864332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1780,7 +1780,7 @@ natural consequence of hich will be, that the
 specie, which remains unexponea, win uo  
 statly locked up. With great esteem an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839122801:0855/pct:23.47861842105263,54.03248004404074,20.189144736842106,36.085879438480596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1839122801:0855/pct:17.626491155902922,40.531241398293425,15.13780337309749,27.05752821359758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1868,7 +1868,7 @@ natural consequence of which will be, thJt the
 specie, which remains uneiportcd, will bH i­  
 statly locked up. With irrea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1840022201:0884/pct:109.89077669902913,25.432719151312117,20.73220064724919,35.831937465103294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065654:00295878216:1840022201:0884/pct:82.43981387821161,19.081518704634284,15.557353833704228,26.87046342825237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1917,7 +1917,7 @@ THE COMMUNITY, ARE PREYED UP­
 ON BY THE MORE KNOWING AND  
 CRAFTY SPECULATORS.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840032501:1247/pct:3.5103674063295744,57.551878119254006,14.641687886504183,17.80929866036249/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840032501:1247/pct:3.522493027767673,57.560633919971984,14.641687886504183,17.8049207600035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1966,7 +1966,7 @@ THE COMMUNITY, ARE PREYED UP­
 ON BY THE MORE KNOWING AND  
 CRAFTY SPECULATORS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840040101:1250/pct:6.756012483936112,54.821263685529615,14.411602717091977,18.071494525788154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840040101:1250/pct:6.7682516369867205,54.821263685529615,14.399363564041368,18.071494525788154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2015,7 +2015,7 @@ THE COMMUNITY, ARE PREYED UP- I‘
 ON BY THE MORE KNOWING AND  
 CRAFTY SPECULATORS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840040801:1254/pct:7.42237736542348,35.31824798200344,15.432665809296344,18.009792245600106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1840040801:1254/pct:7.434625512891175,35.32265890344493,15.426541735562497,18.005381324158616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2076,7 +2076,7 @@ MuairY, Are PlaYed upon by the
   
 MORE KNOwIx AND CRarTY StEc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840051601:0559/pct:255.65286624203821,62.02444719131987,97.69108280254777,71.30888614201346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840051601:0559/pct:63.938669852648346,15.506111797829968,24.432497013142175,17.827221535503366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2174,7 +2174,7 @@ least designing, and perhaps the most valuable
 part, of the community are preyed upon by the  
 more knowing and crafty speculators.&quot; For al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840061301:0576/pct:19.759036144578314,346.9079939668175,61.84738955823293,10.475798711092828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840061301:0576/pct:4.9397590361445785,86.72699849170438,15.461847389558233,2.618949677773207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2248,7 +2248,7 @@ touch it who can possibly avoid it the nat­
 ural consequence of which will be, that the  
 specie, which remains unexportcd, will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840062701:0096/pct:77.81659388646288,57.465495608531995,23.51528384279476,58.04579673776662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn83016924:00200292091:1840062701:0096/pct:58.40069914791348,43.099121706398996,17.653484815381255,43.53826850690088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2290,7 +2290,7 @@ the hast designing, ami perhaps most valuable part of
 the community, are preyed upon by the more knowing  
 and crafty speculators.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840072401:0560/pct:67.23352566049195,57.67842822774659,16.246583662314,12.530072173215718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840072401:0560/pct:67.23858690150826,57.68511093290564,16.241522421297702,12.533413525795241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2429,7 +2429,7 @@ locked up. .
 With great esteem and regard,  
 . 1 am, dear sir, your
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1840081301:0014/pct:102.41659538066723,43.11395037884415,19.95295124037639,35.091368295944136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1840081301:0014/pct:76.83422459893048,32.34289110087654,14.973262032085561,26.32595453870153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2518,7 +2518,7 @@ With great esteem and regard.
 1 r,&#x27;s , &#x27;7&#x27;. Inni, dear sir, kn.:  
 ! ty GEORGE W ASH IN GTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840082101:0219/pct:0.4355400696864111,29.808877928483355,25.217770034843205,39.73489519112207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028888:00296027376:1840082101:0219/pct:0.32686859882327307,22.364364981504316,18.936587491828284,29.793464858199755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2615,7 +2615,7 @@ ted, will be instantly locked up.
 W ith great esteem and regard,  
 I am, dear sir, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840082901:0312/pct:42.06714944042133,54.28646795040886,20.22712310730744,47.83698232656291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1840082901:0312/pct:31.560750740862694,40.71485096280665,15.17945340796839,35.88762859403851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2656,7 +2656,7 @@ ainst the
   
 We ore alrtat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840100301:0628/pct:272.2764227642276,104.95103373231774,81.13821138211382,195.5386289445049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840100301:0628/pct:68.0691056910569,26.237758433079435,20.284552845528456,48.88465723612622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2743,7 +2743,7 @@ mains unexported will be instantly locked up.
 With great esteem and regard,  
 I am dear sir, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840100301:0628/pct:272.7642276422764,92.76387377584331,117.8048780487805,278.0195865070729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840100301:0628/pct:68.1910569105691,23.190968443960827,29.451219512195124,69.50489662676823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2811,7 +2811,7 @@ mains unexported will be instantly locked up.
 With great esteem and regard,  
 I am dear sir, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840100302:0631/pct:261.63723916532905,247.9989072531075,61.075441412520064,120.8578063106133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1840100302:0631/pct:65.44870507930135,61.99972681327687,15.278056615137523,30.214451577653325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2855,7 +2855,7 @@ culation, by which the least designing, and peril a p? the
 inc&#x27;si valuable part of the community, are preyed upon  
 by the more knowing1 and crafty speculator*.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840101501:0657/pct:49.90212317422075,2.899970608405996,31.742207498870652,93.11256980503576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840101501:0657/pct:49.91216182301862,2.9032363410731197,31.73216885007278,93.11583553770288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3051,7 +3051,7 @@ ed up.
 &quot;With great esteem and regard,  
 &quot;I am, c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1841071601:0247/pct:72.53803042433947,97.04338214976512,57.96637309847878,168.9969604863222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1841071601:0247/pct:18.134507606084867,24.26084553744128,14.491593274619696,42.24924012158055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3102,7 +3102,7 @@ speculation ,by which the least designing, znd perhaps
 the most valuable part ofthe community are preyed up­  
 on by the more knowing and crafty speculators.”. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842091301:0350/pct:4.661389621811786,43.85619560712806,14.76106713573732,6.5271446332366345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842091301:0350/pct:4.661389621811786,43.85619560712806,14.775725593667547,6.5271446332366345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3187,7 +3187,7 @@ portion of the community are preyed up­
 on by the more knowing and crafty specu  
 lators.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877935:1843083001:0647/pct:47.531231409875076,99.41030781931832,19.95835812016657,19.094232810472935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877935:1843083001:0647/pct:35.659030050580185,74.56067932539214,14.980660517703065,14.31772614695129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3231,7 +3231,7 @@ designing, and, perhaps most valuable porriorr of
 the&#x27;eommunity, &quot;arer preyed upon Nby the- more  
 knowing and trafty speculators.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843090601:0571/pct:23.763056624518967,29.30746068919371,20.313358988455196,15.300546448087431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843090601:0571/pct:17.828178694158076,21.98059551689528,15.243986254295532,11.486561837849894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3349,7 +3349,7 @@ locked up.
 With great esteem and regard,  
 I am, dear sir, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1843091901:0006/pct:70.0895436164067,3.882856202698256,26.90641247833622,89.91992980146978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040303:00514151325:1843091901:0006/pct:70.09917196225689,3.8865123761471243,26.90159830541113,89.92358597491865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3429,7 +3429,7 @@ yoid it—the natural consequence of which
 will be, that the specie which remains un­  
 exposed will be locked up.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1843092901:0314/pct:15.703125,24.494530991050713,15.546875,39.39896144072478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn85050801:00279528499:1843092901:0314/pct:15.713541666666666,24.50189665966928,15.546875,39.39896144072478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3490,7 +3490,7 @@ Bumble oninion teannot at this time,
   
  devise a plah by which the credit of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065355:00295878216:1843093001:1082/pct:48.24636441402909,248.08951965065503,71.68520102651838,98.52620087336244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065355:00295878216:1843093001:1082/pct:12.066752246469832,62.02237991266376,17.928968763371845,24.63155021834061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3511,7 +3511,7 @@ by which the least desighing, and this desirable purpose, it is proposed
  perhaps nlost valuable portion of the to hold a public meeting of the De  
 community are preyed upon by the mecrals of Winston County, af th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065355:00295878216:1843093001:1082/pct:47.81864841745081,351.31004366812226,139.7775876817793,15.611353711790393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_hoitytoity_ver01:data:sn87065355:00295878216:1843093001:1082/pct:11.959777492511767,87.82751091703057,34.959349593495936,3.9028384279475983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3554,7 +3554,7 @@ Opinion of James Madison.
 &quot;The power (to incorporate a bank) was  
 proposed to Le vested in Congress,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1843093001:0184/pct:62.115072933549435,18.473371063706285,40.032414910858996,106.68988535771295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1843093001:0184/pct:46.605876393110435,13.858656218255696,30.030395136778115,80.01741401828473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3687,7 +3687,7 @@ my opinion; reasons too, which of all others
 are least pleasing to tho advocate for pape  
 money. x am, dear sir, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1845032801:0023/pct:52.38331678252234,7.837670384138786,48.0635551142006,117.5185873605948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038078:00269026803:1845032801:0023/pct:39.309659796374476,5.885997521685254,36.056617829649866,88.13506815365551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3889,7 +3889,7 @@ will touch it who can possibly avoid it--lhe nat­
 ural consequer.ee of which will be, 1 lint the spe­  
 cie which remains unexporled, will be locked tip
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1846021101:0417/pct:45.63975628332064,35.47478162862778,19.28789032749429,41.30741053817977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1846021101:0417/pct:34.24761904761905,26.613130459284307,14.476190476190476,30.98055790363483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3956,7 +3956,7 @@ touch it who can possibly avoid it the natural
 consequence of which will be,&#x27; that the specie  
 which remains unexported will be locked u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1846021401:0414/pct:106.4214463840399,88.19444444444444,19.638403990024937,34.895833333333336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1846021401:0414/pct:79.83787154437746,66.14583333333333,14.737060902099355,26.171875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3975,7 +3975,7 @@ CIDEDLY AGAINST A PAPER EMISSION, Upon the
 general principles of its inutility as a represen­  
 tatiue, and necessity ol it as i medium. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1846022801:0422/pct:88.53738701725554,23.733677715597647,19.124897288414132,3.17118668388578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1846022801:0422/pct:66.42695705773578,17.807432917204764,14.341483460036983,2.3819773281675993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3994,7 +3994,7 @@ cidedly against a paper emission, upon the
 eeneral principles of Its inutility ss a represent  
 tatiue, and necessity ot it as medium. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1846070401:0495/pct:26.883701883701885,57.64519383196426,19.103194103194102,3.098429168468079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1846070401:0495/pct:20.176157312576812,43.2338953739732,14.338385907414994,2.3346303501945527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4064,7 +4064,7 @@ oreat. it the door it immediately opens for spenu­
 the valuable part id* the community, are preyod  
 upon by the more knowing and crafty specula
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846071601:0135/pct:63.68994989684645,6.0,30.99027409372237,85.86021505376344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846071601:0135/pct:63.680565787534995,5.999354908074401,30.990619321251412,85.85456760921765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4083,7 +4083,7 @@ ly against a paper emission, upon the general prin­
 ciples of its utility, as a representative, and the ne­  
 cessity of it as a medium.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846082601:0161/pct:202.88335517693315,68.21969052882163,57.44866754041066,9.998299608910049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846082601:0161/pct:50.73746312684366,17.054922632205407,14.366874248880148,2.499574902227512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4103,7 +4103,7 @@ ciples of its utility, as a representative, and the ne­
 cessity of it as a medium.&quot;  
 In a letter to Mr. Jefferson, he says &#x27; .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846082701:0390/pct:65.96774193548387,23.63139644846065,19.18010752688172,4.150467584322791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029804:1846082701:0390/pct:49.48910997579995,17.726174214563414,14.399031997848883,3.1207313228958706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4163,7 +4163,7 @@ lcast designing, and perhaps the most valuable
 part of the community, pre preyed upon by the  
 more knowing and crafly specunlator, What di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848042901:0663/pct:45.27958387516255,16.368415731473057,12.444733420026008,8.007279344858963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1848042901:0663/pct:45.27958387516255,16.368415731473057,12.449068053749459,8.007279344858963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4313,7 +4313,7 @@ pecie, which remains unexported, will be in­
 stantls locked up. With great esteem and re.  
 gard, I am dear Sir, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1849120801:0986/pct:93.0609097918273,18.076038425111623,116.26831148804935,356.0546610742795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1849120801:0986/pct:23.278688524590162,4.519009606277906,29.083895853423336,89.01366526856988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4396,7 +4396,7 @@ consequence of which will be, that the specie which &#x27;l &#x27;
 emains unex ported will be instantly locked tip. Bans  
 With great esteem and regard, I am, dear sir, &amp;c., th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857101001:0618/pct:36.00832932884831,55.95192915876028,17.443536761172513,22.922201138519924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857101001:0618/pct:36.01900795557691,55.956145899219905,17.443536761172513,22.92641787897955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4430,7 +4430,7 @@ least designing and perhaps most valuable party of the
 community are preyed upon by the more knowing and  
 crafty speculators
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1857101101:0005/pct:43.67554309740715,80.06474909724817,12.088297126839523,6.4375544764039345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110077:1857101101:0005/pct:43.679922915206724,80.06474909724817,12.105816398037842,6.453119163242436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4572,7 +4572,7 @@ stantly locked up..
 With great esteem mid regard, I am,  
 dear sir, c;c.. &amp;c 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1857101401:0281/pct:37.34253149370126,22.06164471159995,29.574085182963408,45.287121115232125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027285:1857101401:0281/pct:28.0185990700465,16.549430873513238,22.183890805459725,33.968538176237374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4638,7 +4638,7 @@ the spiecie which remains unexported will be instant
 ly loc ked up.  
 With great esteem and regard, I am, dear sir, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857101501:0367/pct:60.07816862088219,251.62451053021485,46.231155778894475,76.83352735739231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857101501:0367/pct:15.025834380673091,62.90612763255371,11.562630917469628,19.20838183934808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4765,7 +4765,7 @@ of which will be, that the specie which remains uner.­
 ported will be instantly locked up.  
 With great esteem and regard, I am dear Sir, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857101701:0117/pct:51.73102529960053,7.80209324452902,96.78761651131825,285.19267364414844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857101701:0117/pct:17.243675099866845,2.60069774817634,32.26253883710608,95.06422454804948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4842,7 +4842,7 @@ locked up.
 With great esteem and regard, I am,  
 dear sir, &amp;c., Geo. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348781:1857101701:0375/pct:30.145719489981786,7.870182555780933,13.07832422586521,33.27924273157539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn84024652:00393348781:1857101701:0375/pct:30.140229466399564,7.869118442401298,13.08049535603715,33.27812330989724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4909,7 +4909,7 @@ uneiported will be instantly locked up.
 With kjreat esteem and retard,  
 1 am, dear sir dec 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857102001:0359/pct:57.523809523809526,77.24746022618363,15.223443223443223,18.91891891891892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664369:1857102001:0359/pct:57.523809523809526,77.25384959427512,15.223443223443223,18.91891891891892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5088,7 +5088,7 @@ locked np.
 e e e   
 sir, ac.o. Washinw I be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857102501:0456/pct:100.88446655610835,29.64056076736587,42.45439469320066,77.36903130599768/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857102501:0456/pct:25.231577492050324,7.410140191841467,10.618000829531315,19.34225782649942/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5150,7 +5150,7 @@ e
   
 Below whpublith a lettes from the Ethkedit may he ragarded as rathen sold to the re sea telegaph co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014138:00279528712:1857102801:0139/pct:105.91590396604325,21.383838383838384,90.68842021488261,237.6060606060606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014138:00279528712:1857102801:0139/pct:35.305301322014415,7.127946127946128,30.22947340496087,79.20202020202021/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5211,7 +5211,7 @@ the shadow of a thing that e are to beae o a oo i o eo ao a e o  e a­
 benefitted. The wisdom of man in my i an ater i wi o inga tme it wil be seen that a   
 humble opinion cannot, at this timked
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014138:00279528712:1857102801:0139/pct:107.13622496352302,161.44444444444446,122.04536410664544,84.96969696969697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014138:00279528712:1857102801:0139/pct:35.71207498784101,53.81481481481482,40.68178803554848,28.32323232323232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5287,7 +5287,7 @@ instantly locked up.
 With great esteem and regard, I am, dear i  
 sir, Sic.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857102801:0320/pct:54.4769424008613,39.640823477879984,12.147855732998385,36.341071689297706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:0029602840A:1857102801:0320/pct:54.48292361983372,39.640823477879984,12.147855732998385,36.35080547038497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5364,7 +5364,7 @@ instantly locked up.
 YVith great esteem and regard, I am, dear  
 sir, &amp;c., &amp;.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857102802:0171/pct:55.266463305221606,38.213987183059345,12.345235959088463,36.22178879910839/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hershey_ver01:data:sn85025182:00296028411:1857102802:0171/pct:55.27244452419403,38.218631002136156,12.351217178060889,36.22178879910839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5437,7 +5437,7 @@ jnexported will be instantly locked up.
 With great esteem and regard, I am, dfear  
 sir, Ac., George Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857102901:0185/pct:39.23699142822649,7.638626933232742,13.738983460098998,25.697849867974348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1857102901:0185/pct:39.23699142822649,7.641770401106501,13.74300776691215,25.700993335848107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5514,7 +5514,7 @@ mains unexported will lie instantly locked up.
 With gnat esteem und regard.  
 1 am. dear sir. Ac.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1857102901:0467/pct:78.85304659498208,10.906090609060906,13.401035444046197,35.79357935793579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1857102901:0467/pct:78.86632151865126,10.916091609160915,13.387760520377007,35.79357935793579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5648,7 +5648,7 @@ I of which will be, that the specie, which re­
 mains unexported will hi instantly locked up.  
 “ &quot; ‘i*1 great esteem and regard, I am, .1 -a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1857110301:0222/pct:12.914915205102188,7.900096473362632,11.972749673865778,24.129059920677456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn82014282:00414212438:1857110301:0222/pct:12.91304347826087,7.89924973204716,11.97463768115942,24.129153269024652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5714,7 +5714,7 @@ remains unexported will be instantly Jocked up.
 With great esteem and regard,  
 t I am, dear sir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857110401:0391/pct:46.604215456674474,76.72190282944426,20.2576112412178,34.471874647728555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn84045030:00296022640:1857110401:0391/pct:34.95827843653931,57.547063465223765,15.210071731810862,25.848269642655843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5796,7 +5796,7 @@ ported will be instantly locked up.
 With great esteem and regard,  
 I am, dear sir, ?fce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1857110401:0390/pct:42.6593210244193,18.02247191011236,16.21500893388922,37.30337078651685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_irmookrastrut_ver01:data:sn84026900:00295862646:1857110401:0390/pct:42.6593210244193,18.02247191011236,16.229898749255508,37.31086142322097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5960,7 +5960,7 @@ locked up.
 With great esteem and regard, I am  
 dear Sir, &amp;c. GEO. WASHiNGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:0029602191A:1857110901:0286/pct:125.74152542372882,145.18824136152656,49.894067796610166,109.62351727694688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_harrison_ver01:data:sn82015672:0029602191A:1857110901:0286/pct:31.439544431201167,36.29706034038164,12.475168851807707,27.40587931923672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6115,7 +6115,7 @@ instantly I eked up.
 AN ith great esteem and regard, I am, dear  
 sir, Ac., Geo. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1857111301:0606/pct:56.49585371039762,20.620700687889936,13.374441845630448,30.3951367781155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895047:1857111301:0606/pct:56.48384353741496,20.617402431222008,13.376913265306122,30.394273832373642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6186,7 +6186,7 @@ j iy locked up.
 With great esteem and regard,  
 I, am dear sir, Kc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1857111301:0543/pct:51.49009205804337,30.31054433817452,14.651271649243252,32.41232731137088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028435:1857111301:0543/pct:51.50049409684298,30.31054433817452,14.651271649243252,32.41232731137088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6210,7 +6210,7 @@ not, at this tune, devise a pian uy wim.u
   
 The statement made by us last Monday. &#x27;nnortej consequently depreciation keeps
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82015827:00212472815:1857111401:0399/pct:31.908237747653807,53.193360448499504,35.66214807090719,3.891392766846213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82015827:00212472815:1857111401:0399/pct:21.28047985395749,35.46224029899967,23.78406571912896,2.594261844564142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6266,7 +6266,7 @@ fore only observe generally, that so many
   
 people have suSered ny lormer emi.wu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82015827:00212472815:1857111401:0399/pct:49.55683003128259,57.161701659887875,18.53493222106361,19.84170605694185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82015827:00212472815:1857111401:0399/pct:33.05515712609206,38.11146531823678,12.36145520928413,13.224139826316367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6381,7 +6381,7 @@ dering property insecure and the wages of labor un
 steady and uncerta&#x27;1. The corpo rations which  
 create paper money cannot be relied on to keep th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857112401:0503/pct:21.65289256198347,48.80614284211634,44.62809917355372,48.469548753550015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857112401:0503/pct:5.414714797464867,12.201535710529084,11.160099200881785,12.117387188387504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6444,7 +6444,7 @@ in &quot;hich remains unexported will be instantly locked up.
 With great esteem and regard, ?el  
 no I atu, dear sir, &amp;c., of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857112601:0778/pct:51.68843580758203,17.77861540394522,18.58872252309653,23.545671566779745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857112601:0778/pct:51.68843580758203,17.782803534782428,18.59403206966125,23.549859697616952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6564,7 +6564,7 @@ dering property insecure, and the wages of labor un­
 steady and uncertain. The corporations which  
 create paper money cannot be relied on to keep th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857120301:0531/pct:73.70165745856353,13.25990256301631,88.83977900552486,370.0910823977971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293241:1857120301:0531/pct:18.430505664548217,3.3149756407540774,22.216081790549875,92.52277059944927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6591,7 +6591,7 @@ least designing, and perhaps the most valnable
 part of the community are preyed upon by the  
 more knowing and crafty speculators.&quot;-Was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857120501:0604/pct:137.5995449374289,170.01185728144875,38.907849829351534,18.066185189177535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857120501:0604/pct:34.40477883658085,42.50296432036219,9.728345896742995,4.516546297294384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6636,7 +6636,7 @@ thereby rendering property insecure, and the
 wages of labor unsteally and uncertain. The  
 corporations which create paper money canno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857120601:0608/pct:97.08580679978414,308.5690856908569,38.69400971397734,41.69741697416974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200292911:1857120601:0608/pct:24.2747267575226,77.14227142271423,9.674807718256645,10.424354243542435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6747,7 +6747,7 @@ son will touch it who can possibly avoid it; the
 natural consequence of which will be, that the  
 specic which remains unexported, will be locke
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190601:1857120901:0553/pct:77.69294263309946,172.25720914816043,63.72265786215436,68.5614849187935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190601:1857120901:0553/pct:19.423235658274866,43.06430228704011,15.93066446553859,17.140371229698374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6784,7 +6784,7 @@ i perhaps most valuable parts of the community
 | are preyed upon by the more knowing and crafty  
 j speculators.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557281:1857121901:0406/pct:21.42723356433789,60.80474934036939,14.703127926578011,10.672823218997362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn85025202:00279557281:1857121901:0406/pct:21.436598613972652,60.81464379947229,14.712492976212774,10.676121372031663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6906,7 +6906,7 @@ GEo. WASHINGTON.
   
 WHEN IT SAYS A tHInG It doN&#x27;t mea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1858010701:0649/pct:199.41077441077442,103.05459571527298,57.15488215488215,179.62681409813408/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1858010701:0649/pct:49.873684210526314,25.763648928818245,14.294736842105262,44.90670352453352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6979,7 +6979,7 @@ of which will be, that the specie which renains un
 expouted will be instantly focked up  
 With great esteem and regard, I am, doar sir, the.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1859121201:0301/pct:217.94466403162056,205.52454558465723,52.17391304347826,72.07671389723772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1859121201:0301/pct:54.5184892228594,51.38113639616431,13.05121613604904,18.01917847430943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7046,7 +7046,7 @@ which remains unexported will be instantly locked
 up.  
 With great esteem and regard, I am, dear sir, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293289:1859121501:0568/pct:71.77111716621253,207.53871230643847,43.76021798365122,71.80114099429503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293289:1859121501:0568/pct:17.942779291553133,51.88467807660962,10.940054495912806,17.950285248573756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7114,7 +7114,7 @@ ed up.
 With great esteem and regard,  
 I am, dear sir, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1859121601:0459/pct:137.5558577812318,19.466975666280415,119.93394210219546,364.20915411355736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1859121601:0459/pct:34.38228438228438,4.866039102099927,29.977661227661226,91.03910209992759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7304,7 +7304,7 @@ instantly locked up.
 With great esteem and regard, I am,  
 dear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1860012401:0538/pct:9.364186851211073,31.120507399577168,18.94463667820069,46.01832276250881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1860012401:0538/pct:7.033109716511578,23.340380549682877,14.21770179614802,34.517265680056376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7388,7 +7388,7 @@ locked up.
 With great esteem and regard, I am dear  
 sir, &amp;c, GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84024323:00295878770:1860020101:0167/pct:85.20742358078603,81.59901092107974,12.418122270742359,28.54935091695858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_eiffel_ver02:data:sn84024323:00295878770:1860020101:0167/pct:63.91428961375733,61.19925819080981,9.321686911423502,21.419740366783433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7465,7 +7465,7 @@ will be instantly locked up.
 With great esteem and regard, I am, dear  
 sir, etc., Guo. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557979:1860021101:0240/pct:47.803521779425395,25.568797399783314,14.810009267840593,37.229144095341276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557979:1860021101:0240/pct:47.812789620018535,25.575568797399782,14.800741427247452,37.22237269772481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7536,7 +7536,7 @@ remains unexported will be instantly locked up.
 With great esteem, snd recrard. I am, dear  
 sir,&amp;c, GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1860022901:0035/pct:73.61516034985422,37.2029702970297,16.982507288629737,32.722772277227726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1860022901:0035/pct:55.241567912488605,27.90841584158416,12.76207839562443,24.542079207920793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7574,7 +7574,7 @@ her ar she ecamed in a oc tae a aa ei te eto
 eoause, As I have observed, he  
 into hesterics and cased thebidei te ao in e o the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014138:00279528712:1860031401:0649/pct:193.4892373106564,90.88357588357589,60.60324209407388,26.444906444906444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014138:00279528712:1860031401:0649/pct:64.49641243688546,30.294525294525293,20.201080698024626,8.814968814968815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7629,7 +7629,7 @@ for the bridal party, the Jehn of the
   
 Is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014138:00279528712:1860031401:0649/pct:193.52909912304014,74.60498960498961,84.10842412968377,80.66528066528066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014138:00279528712:1860031401:0649/pct:64.50969970768004,24.86832986832987,28.036141376561254,26.88842688842689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7650,7 +7650,7 @@ is rather a delieate ssatter
   
 h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014138:00279528712:1860031401:0649/pct:224.26255647090088,62.2972972972973,54.14562848790858,13.451143451143452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn82014138:00279528712:1860031401:0649/pct:74.75418549030029,20.765765765765767,18.04854282930286,4.483714483714484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7848,7 +7848,7 @@ will be in.-tan:ly locked up.
 With great esteem and regard  
 I am. dear sir, iVc. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477655:1864113001:0235/pct:110.00339673913044,21.53036333290538,20.00679347826087,53.90935935293363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn86071378:00212477655:1864113001:0235/pct:82.53482840638804,16.150982154320197,15.018688413183826,40.428809860059054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7923,7 +7923,7 @@ remains unexported will be instantly locked up,
 With great esteem and regard,  
 I am dear sir, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191411:1864122401:0601/pct:15.953488372093023,69.2226148409894,51.86046511627907,99.96466431095406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00202191411:1864122401:0601/pct:3.988372093023256,17.30565371024735,12.965116279069768,24.991166077738516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7943,7 +7943,7 @@ In 186433.e 243,1s0 eon may be, becaoce as I have observed, he gives
   
 the shadow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1865010701:1132/pct:169.02218570254723,75.3025302530253,144.12489728841413,11.056105610561056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1865010701:1132/pct:42.26422847750154,18.825632563256324,36.03862749126772,2.764026402640264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8011,7 +8011,7 @@ ee e e e o o o e e e e e o e e i o ooi o e o oe o  e ee e
   
 an  e tnesay and she ta tae cately to matrimonial of most men, and as my sentiments thereon,$1.30, and sent by mail, FaEe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1865010701:1132/pct:18.898931799506986,313.14631463146316,349.05505341002464,45.54455445544554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295997:1865010701:1132/pct:4.725703718923361,78.28657865786579,87.28169303472365,11.386138613861386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8047,7 +8047,7 @@ representative and the necessity of it as
 a medium. To assign reasons fer this  
 opinion would bo as unnecessary as t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1865011101:0333/pct:26.583777383066902,106.17957537658641,16.31142687981054,15.751393666231763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1865011101:0333/pct:19.946690359840073,79.6346815324398,12.246409003405894,11.825406238880323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8103,7 +8103,7 @@ ed up.
 With great esteem tinA regard,  
 I am dear ir &amp;.,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1865011101:0333/pct:42.480757844878624,8.04175068200688,33.11130846654825,27.137943304471595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027467:1865011101:0333/pct:31.882126462313046,6.0372435061084095,24.84821560787798,20.353457478353693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8178,7 +8178,7 @@ locked up. ,
 With great esteem and regard,  
 t .1 am. dear sir, &amp;o.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027303:1865011801:0213/pct:74.01918047079337,35.086661642803314,16.564952048823017,44.415975885455914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn83035173:00296027303:1865011801:0213/pct:55.55070883315158,26.314996232102487,12.431842966194111,33.3232856066315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8197,7 +8197,7 @@ against a paper emission, upon the general prin­
 ciples of its etility as a representative, mad the  
 necessity of it as a mediam. I contend that it i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879932:1868021401:0412/pct:43.67450731087095,19.265266003194494,16.147488874761603,2.789040422656346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879932:1868021401:0412/pct:32.761087267525035,14.448949502395871,12.112541726275632,2.1009952082565424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8216,7 +8216,7 @@ for speculation, by which the least designing,
 and, perhaps, the most valuable part of the com­  
 munity are preyed upan by the more crafty spec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879932:1868021401:0412/pct:43.70629370629371,22.50890772822214,16.083916083916083,2.8504730310849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_article_ver01:data:sn84038628:00295879932:1868021401:0412/pct:32.7928787156255,16.881680796166606,12.06485455412494,2.137854773313675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8368,7 +8368,7 @@ who can possibly avoid it. The natural consequence of
 whien will ne, that the specie, which remains unexporten,  
 wil be instantly locked up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0214/pct:8.560505319148936,173.2281637861037,46.858377659574465,25.983064609674052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0214/pct:2.8535017730496453,57.742721262034564,15.619459219858156,8.661021536558017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8419,7 +8419,7 @@ who can possibly avoid it. The natural consequence of
 which will ne, that the spocie, which remains unexported,  
 will be inat antly locked up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0216/pct:8.111724368623516,159.72944849115504,46.880749289178794,39.125910509885536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744043:1878101701:0216/pct:2.703908122874505,53.24314949705168,15.626916429726265,13.041970169961845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8472,7 +8472,7 @@ who can possibly avold it, the natural conse­
 quence of which will be that the specle which re­  
 mains unexported will be instantly locked up.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878101701:0391/pct:118.83495145631068,237.812860993454,48.932038834951456,57.75895263765884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558391:1878101701:0391/pct:29.73038620354627,59.4532152483635,12.241923730871994,14.43973815941471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8509,7 +8509,7 @@ many people have suffered biy
 like aburn  
 avoid it. The batural conse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878101701:0354/pct:2.797087057265806,129.9873664867348,48.14630916914929,27.943034340186056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531332:1878101701:0354/pct:0.9323623524219353,43.329122162244936,16.048769723049762,9.314344780062019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8547,7 +8547,7 @@ ao possibly aToid if. The natural coDsequenos
 rill be that the specie which remains uncx  
 orted will be instantly locked up.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663808:1878101701:0272/pct:51.41955835962145,23.966870095902355,16.74553101997897,12.502179598953793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_gabbana_ver01:data:sn85025007:00415663808:1878101701:0272/pct:51.42832106554504,23.966870095902355,16.74553101997897,12.510897994768962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8596,7 +8596,7 @@ avoid it. The natural consequence of which will
 be that the specie which remains unexported will  
 be constantly locked up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1878102301:0397/pct:226.9554753309266,145.000945000945,67.26835138387484,78.54847854847854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1878102301:0397/pct:56.73886883273165,36.25023625023625,16.81708784596871,19.637119637119635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8705,7 +8705,7 @@ avoid it. The natural consequence will be thal
 the specie which remains unexported will be in­  
 stantly locked up
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878103101:0567/pct:17.429577464788732,22.027009309033698,10.915492957746478,13.098203749836108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348720:1878103101:0567/pct:17.4265094173561,22.024121657052962,10.91797218799507,13.09976402726796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8776,7 +8776,7 @@ locked np.
 With great esteem and regard,  
 I am, dear sir. Ax 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:114.2078488372093,25.11174319382365,14.534883720930232,26.357849112826763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555675:1883022201:0631/pct:85.69611050527081,18.840579710144926,10.905125408942203,19.761614519842883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8860,7 +8860,7 @@ whichUemalns uncxported will be
   
 instantly locked u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896080601:0876/pct:111.89488243430152,124.83112672250743,14.522821576763485,5.809240745744393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896080601:0876/pct:83.96471198754541,93.62334504188057,10.897768552153607,4.3603080248581465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8920,7 +8920,7 @@ whicliuemains unexposed will be
   
 instantly locked u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896081301:0878/pct:113.88504155124653,97.63346175013758,14.785318559556787,33.72317006053935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896081301:0878/pct:85.46249783474796,73.2250963126032,11.09042092499567,25.29925701706109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8978,7 +8978,7 @@ which remains unsxpor wjll le
   
 instantly locked u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896082001:0882/pct:113.66643454038997,96.23408290436196,15.668523676880223,33.2972094283392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896082001:0882/pct:85.26902315862789,72.17556217827148,11.753438969179872,24.976293687347603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9032,7 +9032,7 @@ of which will be that tk specie
 which remains unexpodpd will be  
 instantly locked u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896090301:0890/pct:111.8103448275862,95.68616877864653,14.741379310344827,32.987328120787275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896090301:0890/pct:83.87653043628212,71.77136694526827,11.07087428867046,24.73375572930709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9083,7 +9083,7 @@ of which will be that tho spcciuC
 which remains unexported will ba  
 instantly locked u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896091001:0896/pct:113.24232081911263,96.0683990844217,14.897610921501707,32.83963915443652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896091001:0896/pct:84.94623655913979,72.05803150666488,11.179382147124082,24.62636326915309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9142,7 +9142,7 @@ of wldch Will be that the specio
 which remains unexported v ill be  
 instantly locked u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896091701:0904/pct:114.78382147838215,12.515354169510031,18.113668061366806,118.26122560393067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896091701:0904/pct:86.11789326822462,9.38992766480142,13.603069410533658,88.6993312406169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9193,7 +9193,7 @@ of which will be that the specie
 which remains uhexported wilt Iks  
 instantly locked u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896092401:0910/pct:110.5604921394395,96.45018152480839,14.524948735475052,32.741696920801395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896092401:0910/pct:82.93881387796958,72.33763614360629,10.904118954024954,24.566357402178298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9227,7 +9227,7 @@ ow in lieu of tho substance and in
 proportion to his gain tho creditor  
 of the body politic suffersWhcther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896100101:0916/pct:111.38663967611336,94.68354430379746,14.288124156545209,16.055962691538973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896100101:0916/pct:83.59071729957806,71.0159893404397,10.721518987341772,12.045303131245836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9262,7 +9262,7 @@ of which will be that tho specie
 which remains unreported will bo J  
 tnctnntltr Inrkivl n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896100101:0916/pct:111.43724696356276,110.7128580946036,17.257085020242915,16.055962691538973/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896100101:0916/pct:83.62869198312237,83.0346435709527,12.940928270042194,12.045303131245836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9316,7 +9316,7 @@ of which will be that tho specie
 which remains unexported will bo  
 instantly locked up -2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896100601:0920/pct:111.69272603670971,97.5825946817083,14.700883752549286,32.782702121944666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896100601:0920/pct:83.81227682366945,73.19030351866775,11.035538173779969,24.590384098845018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -9390,7 +9390,7 @@ of which will bo that tho specie
 which remains unexportcd will bo  
 instantly locked u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896100801:0924/pct:111.35899182561307,82.10978392162126,14.713896457765667,48.275399275265066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896100801:0924/pct:83.57045493269722,61.5890484498725,11.041063213494633,36.2065494564488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

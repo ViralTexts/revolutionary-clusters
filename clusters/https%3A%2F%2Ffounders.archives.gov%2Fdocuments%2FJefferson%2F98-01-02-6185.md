@@ -99,7 +99,7 @@ dance room of the rotunda, on the
 uisc oi the olicliMk mitrhf b etj&#x27;Tiivt&#x27;il  
 norn Apr 2 1 713 O
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_elk_ver01:data:sn84027457:00296024818:1878110901:0993/pct:9.314903846153847,101.39462074854134,18.409455128205128,24.00740002846165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_elk_ver01:data:sn84027457:00296024818:1878110901:0993/pct:6.995389857686911,76.04952326739718,13.830426939266387,18.016223139319766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ ed to communicate with Paris during the
 siege. Every device which ingenuity could  
 suggest was employed to get 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764194:1883051701:0554/pct:88.19325328759291,42.811081920229284,13.350485991995425,11.559589204681156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764194:1883051701:0554/pct:66.18046618046618,32.11129687126821,10.01001001001001,8.669691903510866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ mounted by an obelisk of six feet in
 height, earh of a single stone.&quot; The  
 style and dimensions of the monumen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:0038334167A:1883051901:0484/pct:3.3063817499278083,92.85270997103848,11.521801905861969,2.6479106330161355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:0038334167A:1883051901:0484/pct:3.3059044319330155,92.8431068362809,11.524950676098358,2.6510842210500916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ father of the University of Virginia.’ On the die
 of the obelisk might bo engraved, ‘Born April 2d,  
 1743.’ Opposite side,‘Died .’ Becaus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1884042601:0075/pct:38.947669430940806,11.136648558295027,11.080926508435802,4.084830756372754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1884042601:0075/pct:38.952435420836906,11.136648558295027,11.080926508435802,4.098760273018526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ of the obelisk might bo engraved, ‘Born April 2d,
 coarse stono, that no one might be tempted here­  
 after to destroy it for the value of tho materials.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1884042601:0075/pct:38.976265370317414,15.597576264103635,11.03803259937089,0.7730881738403678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1884042601:0075/pct:38.976265370317414,15.597576264103635,11.057096558955296,0.7730881738403678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ engraved:
 BORN APRIL!  
 DIED
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1890071901:0406/pct:49.87215909090909,41.106203573579606,13.636363636363637,17.536639229070467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1890071901:0406/pct:49.88162878787879,41.10954962189654,13.636363636363637,17.543331325704344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -500,7 +500,7 @@ look for our dead and wountled, many of j&#x27;&#x27;1&quot;&#x27;1 column on wh
 of I &quot;1VI&#x27;U &quot;,0 university if they would  
 pltic.e it in tho dome of the rotunda.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1890081501:0797/pct:43.32944379618825,44.945135332845645,24.659665499805524,14.001463057790783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1890081501:0797/pct:43.3343057176196,44.952450621799564,24.67425126409957,14.008778346744696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -547,7 +547,7 @@ horn aprils,
 hied  
 IT 13. o. s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477734:1890101701:0675/pct:41.83352402745995,83.77574370709382,14.259153318077804,18.97025171624714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477734:1890101701:0675/pct:31.38769670958512,62.837528604118994,10.701001430615165,14.233409610983982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ IT 13. o. s
 &quot;Could tho dead feci any interest in  
 monuments or other remembrances o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1891011601:0895/pct:42.8927680798005,37.82413443430393,11.797429503165164,1.0719976821671737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1891011601:0895/pct:42.89756378285057,37.82775604809503,11.797429503165164,1.0828625235404896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -599,7 +599,7 @@ place it in the dome ot the rotunda.
 &quot;On the die of the obelisk might bo  
 cngravod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1891011601:0895/pct:42.81603683099942,44.458930899608866,11.950892000767313,8.141387802404752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090256:00415623136:1891011601:0895/pct:42.81603683099942,44.46979574098218,11.965279109917514,8.141387802404752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -693,7 +693,7 @@ were subjects of King Qeorge. and their
 act was treason. If the king could have  
 caught them he would have hung the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654954:1894063001:0239/pct:71.30012587664089,8.733055265901982,13.91836000719295,9.436913451511991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_otterhound_ver01:data:sn83045462:00280654954:1894063001:0239/pct:71.30012587664089,8.736313868613138,13.931846790145658,9.443430656934307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ I-.-&#x27;-; ■ Thomas Jefferson, &#x27; ;
 I . for religious freedom, ;  
 : and Father of .the University of Virginia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00206536858:1894072201:0206/pct:50.222160510969175,42.8926871484206,10.913635101360732,6.674599740372133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_gonvick_ver01:data:sn90059522:00206536858:1894072201:0206/pct:50.2267888549477,42.896293091013995,10.913635101360732,6.678205682965527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ hung them everyone and this they
 knew but according to the traditions  
 i that have come down to us thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00175048650:1894072901:0550/pct:25.954075032341528,34.712799638172775,20.06791720569211,17.028493894165535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:00175048650:1894072901:0550/pct:17.305515122109007,23.145635459068295,13.39155749636099,11.352329262777024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ for religions freedom.
 and Father of the University of  
 Virginia.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768552:1894092001:0649/pct:69.53812813219558,42.15183509301156,12.28497900582419,9.15032679738562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_belle_ver01:data:sn85033078:00271768552:1894092001:0649/pct:69.53812813219558,42.15183509301156,12.28497900582419,9.153678565443272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -223,7 +223,7 @@ than countervail the ordinary o
 t\u tion to such publications, li. -  
 t\u wish th. n&lt;J\
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808032501:0002/pct:4.569455727051178,2.0814595914171914,37.61169780666125,95.93986894513684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808032501:0002/pct:4.576225291091253,2.0857424300826586,37.61169780666125,95.94843462246777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ tire to restrain injuriously the freedom ut our fo­
 “ on to such publications. it is my wish, there­  
 “ lore, that it may now be published.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808032801:1056/pct:48.612172141583905,56.275108468584286,21.823274764451234,13.450104451229311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808032801:1056/pct:48.59979633401222,56.26606683804627,21.82408350305499,13.451960154241645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ t .tough any other accredited channel, since the
 formation of the same ..ml harl. from time !&lt;•  
 urt , t&#x27;-en given them.— ti,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808032901:0428/pct:58.43276936776491,57.424058323207774,17.70258236865539,35.066828675577156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808032901:0428/pct:58.42236467236467,57.41708176406269,17.70536562203229,35.066618069898354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ more than countervail thu ordinary objection u&gt;
 su :li publications. It is fOy wish Tlivrefure that it  
 m .y be i ow published. TH : JEFFErtSO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808032901:0428/pct:76.3312555654497,1.5795868772782502,17.310774710596615,9.173754556500608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808032901:0428/pct:76.31766381766381,1.5793949702344794,17.313627730294396,9.176689750131617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ J to resume the r.cgociations, and locndeavoi t,.
 , obtain cci tain i Iterations, and tint &lt; V.» w m.  
 • teirupted by th • c-tioi: vl .-!• ;; ph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032901:0110/pct:41.33615710435117,53.720756595321056,17.98228725452445,6.533101045296167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032901:0110/pct:41.32820019249278,53.71407241508025,17.985242220083414,6.5364356517771975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ It ;v my wish lucrciure lliat it o.jv be now pub­
 1 is hod.  
 Til: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032901:0110/pct:41.33615710435117,4.106520657043305,36.21486330381209,89.23593827775012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808032901:0110/pct:41.32820019249278,4.106009705113848,36.214308630093036,89.22898262203974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -678,7 +678,7 @@ information of the same kind had,
 j from time to time, been given  
 them,&quot;* including the celebrated let
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808033001:0003/pct:60.22909967845659,34.552429667519185,17.644694533762056,8.081841432225064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808033001:0003/pct:60.22909967845659,34.55669224211424,17.658092175777064,8.09462915601023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -782,7 +782,7 @@ jection to such publications. It is my wish, there­
 fore, that it may now he published.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040101:1062/pct:3.003308729956732,28.256319433263563,23.008399083736318,52.97053614554822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808040101:1062/pct:3.0025445292620865,28.251770766258854,23.008905852417303,52.96603348358017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ It is my w-ish, thcpefbru, that it m.iy
 now be published. -  
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808040101:0939/pct:53.42428376534789,11.351927518209273,41.60982264665757,83.38958962515545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808040101:0939/pct:53.40971085651937,11.349911190053286,41.60529187124932,83.37921847246892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1009,7 +1009,7 @@ ing purely from a regard to the pub­
 lic good, s furnifhed occasion for  
 diffemifating “unfounde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808040501:0055/pct:5.664421310471525,18.023778599260666,17.11573790569504,68.35847737036667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808040501:0055/pct:5.664421310471525,18.030439271322475,17.120840987956726,68.36513804242848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1421,7 +1421,7 @@ to such publications. It is my wish
 therefore that it may now be published.  
 Th : Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808040701:0368/pct:7.276736493936053,10.458586803930745,86.76957001102537,84.16003743565746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808040701:0368/pct:7.274731330945164,10.456140350877194,86.75484522825388,84.14814814814815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1467,7 +1467,7 @@ Th : Jefferson
 “been jpven them” This declaration of  
 the President was supposed to have bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041201:0126/pct:4.48901623686724,15.317258883248732,17.593123209169054,6.878172588832487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808041201:0126/pct:4.488158899923606,15.315315315315315,17.596129360835242,6.881529416740684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1496,7 +1496,7 @@ charges of French influence and the with­
 holding of documents which established it.  
 If they are astonished, ought, not those wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808052401:0083/pct:23.150831172792437,34.743051389722055,16.272685679426566,8.628274345130974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808052401:0083/pct:23.150831172792437,34.749716723322,16.28285293071018,8.628274345130974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1517,7 +1517,7 @@ fore you, embrace a/l the communicatioss, ¢fficial or verbal, from the
 French government” &amp;e. In addition to these testimonials of the cor­  
 rectnels of the President’s conduct, we ought to mention the declara
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808082301:0134/pct:67.35194845044492,5.018996200759848,25.882172445535442,4.049190161967607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808082301:0134/pct:67.36217653676997,5.022328867559821,25.877058402372917,4.045857495167633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1569,7 +1569,7 @@ i sion of Congress&quot;. Notwithstanding
 I this solemn asseveration that the pa- &#x27;  
 ! pers then communicated containe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809013001:0002/pct:22.939362795477905,80.00523080946776,18.890030832476874,8.866222047861907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809013001:0002/pct:22.953066118533744,80.00523080946776,18.903734155532717,8.87929907153132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1601,7 @@ part whi &#x27;ll may anti to your information on
 this subject, or contribute to the correctness  
 of the views which should be formed.&quot; A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810062901:0064/pct:23.397260273972602,49.12280701754386,17.972602739726028,4.331518451300665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810062901:0064/pct:23.392987582176772,49.11686426324704,17.975407840272705,4.335027018307928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1633,7 +1633,7 @@ nister there* or through any other accredited channel
 silire the last session ol Congress.’ . Notwithstanding this j  
 solemn asseveration that ihe papers then communicate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833051001:0007/pct:64.38579785063257,52.871658935277225,15.113589987756768,3.5233046167439808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833051001:0007/pct:64.37704026115343,52.865819988956375,15.116068190061661,3.526596723725382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -471,7 +471,7 @@ senseless confederation.&quot; His cslebrated resolutions of
 It is pot my purpose, nor is it necessary in an addreis  
 ef this character, to go into the details of the proceeding
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856051101:1076/pct:59.58222811671087,231.89853076216713,46.966180371352785,8.482552800734618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856051101:1076/pct:19.860742705570292,77.2995102540557,15.655393457117595,2.8275176002448728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ ing.&quot; In the sense in which he meant it, the say­
 ng is correct. A person lends money to the Gov­  
 arnment, which spends that mone to the ady a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896101802:0819/pct:221.07988165680473,310.1116812556595,49.18639053254438,10.624811349230304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896101802:0819/pct:55.26997041420118,77.52792031391488,12.296597633136095,2.656202837307576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ ander Hamilton said: &quot;A National debt
 if it is not excessive, will be to us a Na­  
 tional blessin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071197:00175034857:1897021401:0874/pct:202.96861747243426,314.9353918442692,48.85496183206107,14.918610505118309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86071197:00175034857:1897021401:0874/pct:50.76368264743318,78.7338479610673,12.218922358930845,3.7296526262795773/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -759,7 +759,7 @@ Money league is sending out. Great
 flow of reason! Foil of argument!  
 It reminds us of tbo days of Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270205:00279527823:1898012001:0228/pct:89.47590870667794,41.56851877511431,19.63229078613694,22.488568657336845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_jackinthepulpit_ver01:data:2017270205:00279527823:1898012001:0228/pct:67.13168463326993,31.176389081335735,14.732614669203128,16.876818622696412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

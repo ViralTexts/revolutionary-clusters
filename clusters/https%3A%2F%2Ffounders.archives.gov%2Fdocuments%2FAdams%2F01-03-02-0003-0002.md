@@ -1144,7 +1144,7 @@ Still labors glorious with some great design.
 Appreciating the worth of their fathers  
 and emulous of their great examples ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819022501:0732/pct:80.73542600896862,69.20817924733522,16.932735426008968,10.822275396998043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819022501:0732/pct:80.7209469153515,69.20065252854812,16.935676709708275,10.824723581656697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1294,7 +1294,7 @@ Of empires rises or alternate falls,
 Send forth the saving virtues &#x27;round this  
 land!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065517A:1898010601:0531/pct:57.02252334737228,51.61602209944751,13.18439846182018,1.6988950276243093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065517A:1898010601:0531/pct:57.02710126350485,51.61602209944751,13.188976377952756,1.712707182320442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1313,7 +1313,7 @@ O thou by whose almighty nod the scale
 Of empires rises or alternate falls,  
 Bend forth the saving virtues round this laud
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1898021001:0447/pct:64.53588817339406,33.03788118602933,13.978325742107742,1.2767753508494248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1898021001:0447/pct:64.53588817339406,33.03788118602933,13.986178734097692,1.2846892476522107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1382,7 +1382,7 @@ O thou by whose almighty nod the scale
 Of empires rises or alternate falls,  
 Send forth the saving virtues round this land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898022401:0243/pct:34.62940461725395,24.18042593921991,9.766099635479952,8.973438621679827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898022401:0243/pct:34.62414578587699,24.17753319775093,9.768413059984814,8.975355903816245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1422,7 +1422,7 @@ O thou by whose almighty nod the scale
 Of empires rises or alternate falls,  
 Send forth the saving virtues round this land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470715:1898022501:0709/pct:53.96590066716086,53.09126594700687,227.20533728687917,68.20412168792934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470715:1898022501:0709/pct:13.493975903614459,13.272816486751717,56.811862835959225,17.051030421982336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1457,7 +1457,7 @@ O thou by whose almighty nod the scale
 Of empires rises or alternate falls,  
 Send forth the saving virtues round this land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529698:1898031701:0092/pct:37.647315582714974,32.762645914396884,14.469663902226102,13.105058365758754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529698:1898031701:0092/pct:37.63910102552913,32.757547463429816,14.47196159720707,13.106909430438842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1531,7 +1531,7 @@ O thou by whose almighty nod the scale
 Of empires rises or alternate falls  
 Bend forth the saving virtues round this land
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069873:00100481960:1899020301:0081/pct:49.72466960352423,4.535169699950812,48.38931718061674,121.67240531234629/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn86069873:00100481960:1899020301:0081/pct:37.30377306527127,3.4038366945400886,36.30886808041862,91.25184456468274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

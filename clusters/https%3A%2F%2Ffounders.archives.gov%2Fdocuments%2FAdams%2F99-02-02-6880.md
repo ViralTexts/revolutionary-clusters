@@ -2339,7 +2339,7 @@ than he has himfelf; and be that cannot !
 away his own life, &lt; ■ ano- |  
 ther power over it. Indeed, having by 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803081201:0003/pct:7.460136674259681,30.515207945375543,16.192103264996202,7.200496585971447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803081201:0003/pct:7.472791698304227,30.51934616180426,16.20475828904075,7.212911235257604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3563,7 +3563,7 @@ nued. ?? may profit by their example.
 If this be treason make the most  
 of it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820061401:0064/pct:60.40868454661558,5.80799045915325,35.686918445539135,90.98389982110912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820061401:0064/pct:60.40868454661558,5.815941164778374,35.70516329137019,90.98389982110912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4074,7 +4074,7 @@ George the Thiud—(**Treason,” cried
 the speaker—*‘“treason,” “treason,” ech­  
 oed from every part of the house. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1833092601:0738/pct:79.82321944586096,38.1077694235589,14.63539010708822,3.7343358395989976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021167:00514152743:1833092601:0738/pct:79.82321944586096,38.1077694235589,14.646722193892005,3.7510442773600667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4150,7 +4150,7 @@ First his Cromwell, and George the Third—** Trea­
 son,” cried the Speaker ; * treason, treason,” echo­  
 ed from every part of the house. [t was one of thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1835101401:0352/pct:59.317055259776026,83.48380244291025,19.01964384064623,3.146574614976102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1835101401:0352/pct:59.32317483630133,83.48822800495662,19.025763417171532,3.155425739068862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4455,7 +4455,7 @@ own purposes of power and profit. With them
 &quot;The fove of country is an en:pty name,  
 For gold they buner, but ne&#x27;er thirst for fame.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841112001:0576/pct:108.60774119006355,75.8669331139062,20.73945696129405,13.483013988480074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00416156888:1841112001:0576/pct:81.46757186190958,56.9060773480663,15.57128412537917,10.10932173504173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4641,7 +4641,7 @@ the Ist his Cromwell, and George the 3d ”
 “ Treason,” cried the speaker: “ treason, trea­  
 son,” echoed from every part of the house. I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847080101:0001/pct:44.60156134924142,93.37403889642695,9.58904109589041,1.7978290366350067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110028:1847080101:0001/pct:44.6052437766976,93.3768656716418,9.603770805715127,1.8034825870646767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4876,7 +4876,7 @@ of the House. Henry faltered not for an instant; bu
 
 ---
 
-## [From _The International Monthly Magazine of Literature, Science and Art (1850-1852)_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n21/mode/1up?view=theater)
+## [From _The International magazine of literature, art, and science_](https://archive.org/details/sim_international-monthly-magazine-of-literature-science_1852-02-01_5_2/page/n21/mode/1up?view=theater)
 
 #### 1852-02-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -4940,7 +4940,7 @@ the Third—( Treason !’ cried the Speaker
 . —Treason, treason !’ echoed from every  
 I part of the house. It was one of those try
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855091201:0121/pct:44.902614493770834,25.906735751295336,14.05509738550623,3.354922279792746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855091201:0121/pct:44.902614493770834,25.906735751295336,14.066795344212435,3.3635578583765113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4968,7 +4968,7 @@ cried the Speaker--Treason treas-
 on!&quot; echoed from every part of the  
 house. It was one of those tryin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1855091401:0995/pct:24.041297935103245,240.1915223207999,44.100294985250734,30.925221799746513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1855091401:0995/pct:6.011432786280657,60.04788058019997,11.02710676747188,7.731305449936628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5024,7 +5024,7 @@ Third- CTreason! cried the speaker
 Treason! treason! echoed from every  
 part of the house. It was one of thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn85048197:00202191356:1858102901:0118/pct:172.93800539083557,285.7260641038854,47.97843665768194,28.156240338039783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn85048197:00202191356:1858102901:0118/pct:43.23450134770889,71.43151602597135,11.994609164420485,7.039060084509946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5170,7 +5170,7 @@ quired, and not innate; 3. Kings were tand plantation
 governors should be) made for the good of the people,  
 and not the people for them.&quot; And again he writes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860070901:0503/pct:106.17766911165444,198.39811542991754,47.8239608801956,9.045936395759718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860070901:0503/pct:35.39255637055148,66.13270514330586,15.941320293398533,3.015312131919906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5195,7 +5195,7 @@ but none of the last, which infallibly proves that they
 are uanccessary;&quot; and in another pampblat, in 1794,  
 he says &quot;The colonists are men; the colonists ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860070901:0503/pct:202.49388753056235,48.7396937573616,46.7318663406683,16.007067137809187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860070901:0503/pct:67.49796251018745,16.2465645857872,15.577288780222766,5.3356890459363955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5225,7 +5225,7 @@ the moat refined politician in the cabinet but
 none of the last, whieh inlhllibly proves that they  
 are unnecessary and &quot;in another pamphlet, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668892:1860072101:0632/pct:23.953523015045434,11.349928720254415,11.440488604200805,3.8710384910626163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668892:1860072101:0632/pct:23.958488504891008,11.357239463391453,11.435523114355231,3.8746938626311365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5279,7 +5279,7 @@ Locke, &quot;is to be under no other legislative
 power but that established by consent in the  
 commonwealth, and our Declaration of in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:0023728897A:1865101001:0345/pct:270.0934579439252,207.1896582256065,48.78504672897196,7.295909332388879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:0023728897A:1865101001:0345/pct:67.53914465996728,51.79741455640163,12.199111942042533,1.8239773330972198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5300,7 +5300,7 @@ Uie held to tlie most refined polmciau in ihe ca met, but none
 ot tne last, winch infallibly proves they are unnecessary -&quot;  
 but the case would have been mipertectly staled, tt tue pat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866022001:0032/pct:88.83465527760829,102.5932122370937,17.022574740695546,3.011472275334608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866022001:0032/pct:66.64632285627098,76.94789674952199,12.78608483368935,2.258604206500956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5474,7 +5474,7 @@ his fiery eyes on the speaker said, with the
 firmest emphasis?&#x27;may ptofit by their example.  
 If this be treason make the most of it&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862725:1867112101:0185/pct:56.21409921671018,19.945406626506024,13.942558746736292,4.753388554216867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862725:1867112101:0185/pct:56.21409921671018,19.945406626506024,13.946910356832028,4.756526104417671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5532,7 +5532,7 @@ Cromwell; and George the Third&quot;
 &quot;Treason! Treason!&quot; echoed from  
 every part of the house.) It was on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776555:1870063001:0096/pct:115.13911620294598,363.8589332556106,50.98199672667758,15.505683474205771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026106:00280776555:1870063001:0096/pct:28.80245649948823,90.96473331390266,12.753326509723644,3.8764208685514427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5879,7 +5879,7 @@ people have.&quot; In accordance with this
 it has always been held that legislative  
 power cannot be delegated, except t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064616:00295878587:1876011801:0115/pct:130.6122448979592,98.36739780658026,38.97959183673469,41.61266201395813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_oddish_ver01:data:sn88064616:00295878587:1876011801:0115/pct:43.53741496598639,32.78913260219342,12.993197278911564,13.870887337986042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5970,7 +5970,7 @@ an engine of politics and feelings of to-day, in­
 stead of a memorial of the principles and feelings  
 of the Revolutionists half a century ago.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1879070901:0574/pct:249.38176197836168,267.8735632183908,42.8902627511592,9.885057471264368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1879070901:0574/pct:62.38159675236807,66.9683908045977,10.728784071138604,2.471264367816092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6335,7 +6335,7 @@ nor can transfer ihe power of making
 laws to anybody else, or place it any­  
 where but where the people have.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn93060412:00294556400:1888012101:0014/pct:98.48955392433653,10.773574251835122,12.71880293619424,8.176171654432524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn93060412:00294556400:1888012101:0014/pct:73.89155605761084,8.085827216261999,9.545326179045468,6.132128740824393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6537,7 +6537,7 @@ Cromwell, and George tho Third (Treason ! cried
 the Speaker) may profit by their example. If this  
 be treason, make the most of it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102330:1893051101:0047/pct:24.617817606747497,22.930255895634723,16.565629942013707,5.178123432012042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102330:1893051101:0047/pct:18.46823095175323,17.200200702458606,12.430793567097284,3.8835925740090316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6849,7 +6849,7 @@ Confucius in China, Buddha in simpler, healthierlife of the country, ness does n
   
 India, Mohammet in Arabia, and. I do not mean that city people or money. To a vulgar person it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470715:1897043001:0360/pct:59.22330097087379,219.0523198420533,301.7176997759522,37.51233958538993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470715:1897043001:0360/pct:14.80859010270775,54.76307996051332,75.44351073762839,9.378084896347483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7020,7 +7020,7 @@ that before any rule or law could become
 obligatory, or in any way binding upon the  
 people, or any portion of the people, tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583371:1899091901:0633/pct:52.02424767265642,61.0969196093163,14.397055639748864,23.65138993238167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583371:1899091901:0633/pct:52.01298701298701,61.08774038461539,14.39935064935065,23.651592548076923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -129,7 +129,7 @@ States at New York ” I wish you and your family
 well, and am your humble servant,  
 Geo. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172042:1859031201:0236/pct:58.01126432316955,80.72306171444711,15.886579918430764,7.400084733794662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172042:1859031201:0236/pct:44.96287377082079,62.56840569135352,12.32691149909693,5.738781466618023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ United States, ati New York.&quot; I wish you
 and your family well, and am your humblo  
 servant, - O. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023802:1892021701:0451/pct:32.20673329826407,30.698476573728083,20.7127827459232,56.49132892593657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023802:1892021701:0451/pct:21.48401526114985,20.465651049152054,13.813971845809762,37.6640797163936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ United States, at New York.&quot; I wish you
 and your family well, and am your humble  
 servant, O. Washisotox
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669252:1892021801:0612/pct:46.97569248162804,116.85571928336691,18.159977388355003,15.413972225166967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669252:1892021801:0612/pct:31.325982471020637,77.90734654934803,12.114786542267458,10.272447789674548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ humble servant, G.
   
 WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919969:1892021801:0440/pct:45.99217277866357,88.36424957841484,12.132193071459632,10.17425519955031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_allemande_ver01:data:sn85025570:00199919969:1892021801:0440/pct:40.24689270313689,77.3190805653015,10.61976832671007,8.902515001475555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ President of the United States, at New York.’
 I wish you and your family well, and am your  
 humble servant. O. Washisotox.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062948:00340581076:1892021801:0924/pct:37.48663918155444,77.4914292469559,10.749732783631089,8.783544154155338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_imbe_ver01:data:sn98062948:00340581076:1892021801:0924/pct:37.4942739349519,77.4914292469559,10.749732783631089,8.783544154155338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ President of the United States, at New York.&quot;
 I wish you and your family well, and am your  
 humble servant,O. WAshinoton.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295912:1892021901:1312/pct:241.77121771217713,297.5562072336266,58.8929889298893,40.811339198435974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295912:1892021901:1312/pct:60.45395829488836,74.38905180840665,14.725964200036907,10.202834799608993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -518,7 +518,7 @@ Ohltod States, at New York.&quot; I wish you
 and your family well, and am your humblo  
 servant, G. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283314:1892022001:0336/pct:33.006198347107436,30.838358756060067,22.262396694214875,56.225611919120254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_earhart_ver01:data:sn82015485:00237283314:1892022001:0336/pct:22.007921474083002,20.56284734539435,14.844153607714826,37.4837412794135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ United States, at New York.” I wish you
 and your family well, and am, your humble  
 servant, G. WASHINGTON,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153590:1892031901:0047/pct:50.256305105597704,62.77726432532347,10.990362928029526,9.758163894023413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153590:1892031901:0047/pct:50.25972250700567,62.77983158759499,10.997197730845466,9.76329841856644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ United States, at New York.&#x27; I wish you
 and your family well, and am, your humble  
 servant, G. WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081853:00296026062:1892041501:0572/pct:65.13552658804055,65.68783451468248,14.069935857645355,11.485606827715898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carlisle_ver01:data:sn86081853:00296026062:1892041501:0572/pct:65.13552658804055,65.69747818120449,14.076832885026553,11.480784994454892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -794,7 +794,7 @@ New York. I wish you and .vour family
 well, and am your humble servant.  
 “Geo. Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:6.053223388305847,107.92964244521337,16.079460269865066,14.143598615916956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182112:1894021801:1016/pct:4.691358024691358,83.65302245893702,12.461873638344226,10.961302096912362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

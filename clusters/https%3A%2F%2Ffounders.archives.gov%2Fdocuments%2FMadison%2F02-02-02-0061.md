@@ -62,7 +62,7 @@ WRITTEN LANGUAGE, illufrating, by a philofo
 33. Cadmus or a Treatise on the Elements of  
 Written Language, illuftratin*, by a Phil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010101:0004/pct:32.40924092409241,87.50506277845281,19.471947194719473,1.2353179424868368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010101:0004/pct:32.43399339933993,87.52025111381126,19.455445544554454,1.2403807209396516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -78,7 +78,7 @@ Written Language, illuftratin*, by a Phil
 33. Cadmus or a Treatise on the Elements of  
 Written Language, illuftratinf, by a Philo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010601:0004/pct:31.758530183727036,88.78850102669405,19.258530183727036,1.211498973305955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794010601:0004/pct:31.7749343832021,88.78850102669405,19.258530183727036,1.2371663244353184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ Written Language, illuftratinf, by a Philo
 33- Cadmus or a Treatise on the Elements of  
 Written Language, illustrating, by a Philo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794013101:0004/pct:33.471318746303965,88.0108991825613,19.012418687167358,1.2170753860127157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_iranese_ver01:data:sn83025878:print:1794013101:0004/pct:33.49349497338853,88.0108991825613,19.034594914251922,1.2216167120799273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

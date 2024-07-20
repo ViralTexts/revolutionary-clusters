@@ -61,7 +61,7 @@ tv. will attend at Southampton Cour&#x27;-IIouse,on the
 10th day of April next, to meet and co-operate  
 with the committees, that may he sent from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829031301:0425/pct:33.10591293047433,22.9607250755287,15.172189733593243,6.259818731117825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829031301:0425/pct:33.10053597531265,22.95795070082165,15.17513940772021,6.263090059610118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ hub so appropriately alluded.
 • offer to the Delegation the expression ofmv .sin­  
 cere and great respect. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829040201:0416/pct:41.70464904284412,43.10146923783287,17.608629595867516,15.185950413223141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829040201:0416/pct:41.698313838675375,43.096522437736716,17.61101827940655,15.188033207085198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ appropriately alluded.
 I offer to the Dt legation »he expression of  
 my sincere and grt at respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829040201:0168/pct:43.53085553997195,38.38817358130663,19.126928471248245,20.445875059608966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829040201:0168/pct:43.523225241016654,38.38359756824413,19.129418638621093,20.44741129256566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ has so appropriately alluded.
 I offer to the Delegation the expression of niy sin­  
 cere and great respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829040301:0078/pct:36.80338134001252,51.53538050734313,17.78334376956794,16.15487316421896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829040301:0078/pct:36.79762091094068,51.529126213592235,17.785777638649762,16.15695792880259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ the Delegation has so appropriately alluded.
 I oiler to the Delegation tho expression of my  
 sincere and great respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829040301:0448/pct:50.566821012294426,66.74262413048693,15.344084304646335,14.212041256896137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829040301:0448/pct:50.55874840357599,66.7346204580885,15.346956151553853,14.21433425270816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ Iih so dppi |h iali&#x27;ly alluded.
 I offer to Hie Delegation tile ex; ;c*&gt;• int» ol u v  
 fR»cere and gi mil i expect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829041301:0277/pct:38.362760834670944,17.927090779127948,14.6669341894061,16.05432451751251/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829041301:0277/pct:38.35506519558676,17.92452830188679,14.669007021063189,16.055603201829616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

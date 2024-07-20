@@ -402,7 +402,7 @@ abuse have made them quite otherwise.”
 James Madison telle us, in 1819, that mu&amp;h  
 of the rich soil of Virginin had been exhaust
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172078:1858052701:0494/pct:23.079906904577193,81.53802657619451,15.768037238169123,2.9120723777212327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021205:00517172078:1858052701:0494/pct:17.896688210832206,63.1997954935544,12.215040833709104,2.2568747032830587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ weight would be an insuperable objection to
 their being drawn by two horses.&quot;  
 A curious description of &quot;farming&quot; in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897021401:0595/pct:127.23076923076923,114.72962680883472,50.15384615384615,13.343488194973343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897021401:0595/pct:31.807692307692307,28.68240670220868,12.538461538461538,3.3358720487433358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ resoectable figure as farmers than we have
 hitherto done.&quot;  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897021401:0595/pct:127.0,129.4744859101295,50.30769230769231,69.27646610814928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:0017504291A:1897021401:0595/pct:31.75,32.36862147753237,12.576923076923077,17.31911652703732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ superable objection to their being drawn
 by two horses.&quot;  
 A curious description of &quot;farming&quot; In th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0547/pct:75.2738475581926,49.56173942643179,16.967138293016887,5.293166539017956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0547/pct:56.46468104530412,37.171304569823846,12.723952984137853,3.974129861288401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -621,7 +621,7 @@ that I hope in tho course of a few years
 wo shall make a moro respectable figure  
 as farmers than we have hitherto done.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0547/pct:75.23961661341853,55.348480980342096,17.04701049748973,27.835928857118542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022101:0547/pct:56.44185781125186,41.511360735256574,12.781011069268516,20.88332907837631/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ property, and consequently a regula
 course of crops have never been in view.&#x27;  
 He goes on to say there are sever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jackman_ver02:data:sn82014248:00514156001:1899021501:0365/pct:43.13923030425146,57.32561681388974,12.472294982873262,4.477611940298507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jackman_ver02:data:sn82014248:00514156001:1899021501:0365/pct:43.13053988718775,57.31688746764124,12.474818694601128,4.480737018425461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -676,7 +676,7 @@ the sole object with men of landed property
 and consequently a regular course of cropa  
 have never been In view. &quot; He goes on t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538934:1899022001:0237/pct:110.57104010876955,63.90896921017403,16.247450713800134,4.8460508701472556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538934:1899022001:0237/pct:82.96497789867392,47.938420348058905,12.189731383883032,3.637884872824632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

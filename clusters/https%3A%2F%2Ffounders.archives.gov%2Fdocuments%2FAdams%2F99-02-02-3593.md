@@ -82,7 +82,7 @@ ensigh and pendanty, with sach mairks toeve­
 ony as shall be prescribed and directed By the  
 President of the Uniied States 3 end in cus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812011501:0550/pct:26.047183437650457,44.14503665543887,21.473278767453056,4.051912026946701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812011501:0550/pct:26.057882629861446,44.15164123901988,21.483977959664045,4.055214318737204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ ensigh and pendanty; with such marks there­
 on, us shall be prescribed and directed by the  
 President of the United States 3 and in cas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812012201:0555/pct:72.49589490968802,51.08220810166799,22.151067323481115,4.140190627482129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812012201:0555/pct:72.50684181718664,51.08220810166799,22.162014230979747,4.140190627482129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ nccticut; Providence, in Rhode Island; Boston,
 I in Massachusetts; Portland, in Maine; and  
 | San Francisco, in California, shall designate tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852090801:0259/pct:41.70171012054948,92.48883928571429,13.414634146341463,3.158482142857143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852090801:0259/pct:41.7110550415849,92.49627976190476,13.414634146341463,3.1547619047619047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,13 +246,13 @@ London, in Connecticut; Providence, in Rhode Island ;
 Boston, in Massachusetts ;t Portland, in Maine ; and San  
 rrancisco, in California, shall designate two inspectors o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852091101:0336/pct:33.497469566406785,53.86776145203112,15.278347695253727,8.243301642178047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852091101:0336/pct:33.50202890621438,53.87496398732354,15.278347695253727,8.239700374531836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1852-09-18_8_1/page/n4/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1852-09-18_8_1/page/n4/mode/1up?view=theater)
 
 #### 1852-09-18 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -291,7 +291,7 @@ Providence, in Rhode Island; Boston, in
 Massachusetts; Portland, in Maine; and  
 San Francisco, in California, shall desi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852101301:0589/pct:150.34377387318563,275.4682222904513,45.378151260504204,18.97451642615904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852101301:0589/pct:37.600305693542225,68.86705557261283,11.348872755063049,4.74362910653976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ in New York; New London, in Connec­
 ticut; Boston, in Massachusetts; Port­  
 land, in Maine; and San Francisco, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022165:00296025148:1853041601:0104/pct:172.0136518771331,274.2468085106383,64.39135381114903,19.2/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022165:00296025148:1853041601:0104/pct:43.02788844621514,68.56170212765957,16.107000569151964,4.8/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

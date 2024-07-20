@@ -45,7 +45,7 @@ ing on shore in any part thereof, shall be imprefled by
 her Mujefty’s thips of war, unless such mariner shall have  
 before deserted from {uch ship of war, at-any time afte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1761030601:0635/pct:6.31784628745115,84.8412809397287,27.941815023881894,4.139281219409873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025581:00517015052:1761030601:0635/pct:6.325083224779274,84.85060364517783,27.93457808655377,4.139281219409873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ In addition to all this, we are continually al­
 armed with fumours and reports of hew revenue  
 Adts to be pafled, new importations of Officers 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768062401:0102/pct:67.70411426135152,22.326861779194438,28.79982946066937,72.28339611706751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768062401:0102/pct:67.71122006679457,22.33652081522264,28.806935266112415,72.28339611706751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ time, is an enemy to this town and province, and
 -a disturber of the peace and good order of both.,  
 Then the Mseting was d:ffilved.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768062401:0103/pct:4.959756362845334,3.2693984306887534,29.323471829453993,53.763440860215056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768062401:0103/pct:4.967007468638967,3.2742419839194032,29.323471829453993,53.773127966676356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ tiade to America. vV cmean the iuch alarming rumours and reports
 quefton is, can this be conflitutional ? Can we  
 with jufltice make -them pay a land tax, windo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768102801:0171/pct:5.748865355521937,57.75293780452852,28.333693537929545,4.71481799942677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768102801:0171/pct:5.748865355521937,57.75293780452852,28.355305813702184,4.71481799942677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -155,7 +155,7 @@ a contingency which fails, and that the
 institution will bo opened under this  
 disadvantage. [Gazette
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824060301:0234/pct:44.15470773538677,42.21182105148579,17.028351417570878,52.72667900293894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025001:0041421633A:1824060301:0234/pct:44.14698162729659,42.20722681758816,17.031204432779237,52.724568277463355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ the late Legislature,fur the porch.-e efa Library and Ap­
 paratus, rested on a contingency which fails, nnd that the  
 institution will he opened under this disadvantage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824060401:0035/pct:48.33093754991216,18.51096990768493,15.540648458712665,28.234024697278503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824060401:0035/pct:48.323219418716064,18.50875089906497,15.543489832854252,28.234635978582276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -334,7 +334,7 @@ pelise nf a student, will he ahold t
 exclusive of clothe* ami packet mom ,  
 that the latter at i .g&#x27;e w il! he kept o 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824061101:0753/pct:83.60723944247972,53.6996336996337,15.20698980653214,42.095238095238095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1824061101:0753/pct:83.58985024958403,53.69176677409903,15.209026622296173,42.09273366539701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -537,7 +537,7 @@ tested on u contingency winch fails,
 and that the institution will lie opened  
 nudef (his disadvantages
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824061701:0312/pct:44.44911690496215,9.025626584060827,17.514718250630782,57.166995212616165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348914:1824061701:0312/pct:44.43977296615514,9.02435590595523,17.51629178053395,57.162466563423905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1005,7 +1005,7 @@ rested on a contingency which fads, and
 that the institution will he opened under  
 this disadvantage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071587:00542866561:1824062501:0352/pct:5.532503457814661,4.555010511562719,20.91286307053942,76.15627189908899/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn86071587:00542866561:1824062501:0352/pct:5.530973451327434,4.554212646698196,20.91399336283186,76.1473112629182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

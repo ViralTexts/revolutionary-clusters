@@ -683,7 +683,7 @@ gutlty of our disaster the sun, the moon and the stars, as if we
 were villatus by necesstty--fools by heavenly compulsion,  
 knaves and thieves by sperical predominance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856123101:1510/pct:4.337231968810916,134.408237157728,46.11760883690708,19.303009730708304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856123101:1510/pct:1.4457439896036388,44.802745719242665,15.372536278969028,6.434336576902768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ by any conventional delicacy. The first
 one I ever spoke to stuck his head in the  
 cabin, and wanted to kfe&#x27;ow where was 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551104:1878080801:0110/pct:2.37590799031477,11.398509425690486,23.7590799031477,87.58220078912757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551104:1878080801:0110/pct:2.380952380952381,11.402162794096157,23.7590799031477,87.58950752593891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ ence and all that we are evil in by a
 divine thrusting on but in truth it is  
 not so either in the case of an individ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535945:1886052201:0390/pct:39.17464114832536,23.969443643701354,20.514354066985646,10.810031709426347/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535945:1886052201:0390/pct:26.1268448344635,15.984433554338427,13.681691264459513,7.206687806284232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1232,7 +1232,7 @@ once planetary influence a 1111 all
 that we are evil in by a divine tl rust­  
 ing on No let us not lay it to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535064:1886102301:0404/pct:35.82183186951067,102.81243160428978,21.031994981179423,17.43269862114248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535064:1886102301:0404/pct:23.890196078431373,68.5452688407383,14.023529411764706,11.625446851973445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1304,7 +1304,7 @@ guilty of our disasters the sun, moon
 and stars, as if we were villains on  
 necessity, liars by divine thrusting on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:0023728320A:1888100501:0668/pct:26.077136900625433,109.53175112251444,18.276580958999304,6.452854393842206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:0023728320A:1888100501:0668/pct:17.399617590822178,73.02116741500963,12.184946984182165,4.310455420141116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1326,7 +1326,7 @@ guilty of our disasters the sun, moon
 and stars, as if we were villains on  
 necessity, liars by divine thrusting on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020424:1888101101:0630/pct:25.82273747195213,115.08120649651973,15.893792071802544,5.5297757153905645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020424:1888101101:0630/pct:19.375350663923694,86.31090487238978,11.93192444361324,4.150554266563547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1540,7 +1540,7 @@ compulsion knaves, thieves and treach­
 ers by spherical predominance—Shake­  
 speare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766227:1895080701:0311/pct:49.06586447118429,26.137463697967085,14.344521849271691,18.758739378294074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_audi_ver01:data:sn89081128:00280766227:1895080701:0311/pct:49.06586447118429,26.141049083933886,14.355077052987122,18.758739378294074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1561,7 +1561,7 @@ ncccssity, fools by heavenly compulsion;
 knaves, thieves and trcachcrs by spherical,  
 predominance. BhakesjMsarc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilamonster_ver01:data:sn87062054:00211106645:1895082201:0741/pct:101.72570390554041,17.179447134155865,19.414168937329702,4.201155708261752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilamonster_ver01:data:sn87062054:00211106645:1895082201:0741/pct:76.346284935242,12.884585350616899,14.587593728698023,3.1547712009995315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1584,7 +1584,7 @@ necessity, fools by heavenly compulsice
 knaves, thieves and treachers bry spherical  
 predominance. Shakespear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344037:1895082201:1335/pct:349.3601102579248,62.35311616837721,42.23272297696397,14.413208389112004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_diamond_ver01:data:sn87065469:00383344037:1895082201:1335/pct:87.32283464566929,15.585960737656157,10.556102362204724,3.602766210588935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1692,7 +1692,7 @@ necessity, fools by heavenly compulsion
 knaves, thieves and treachers by spherical  
 predominance.Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1895082301:0551/pct:291.072618254497,54.71818413669982,86.7255163224517,304.25911757204796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn85052141:0020653378A:1895082301:0551/pct:72.80453257790369,13.679546034174955,21.69221796367272,76.06477939301199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1801,7 +1801,7 @@ necessity, fools by heavenly compulsion;
 knaves, &#x27;thieves and treachers by spherical  
 predominance. Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871659:1895082401:0351/pct:88.03519061583577,10.325621251071123,38.504398826979475,117.04155955441303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kauffman_ver01:data:sn82015485:00295871659:1895082401:0351/pct:66.03607567091949,7.744215938303342,28.889866549347413,87.7892030848329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1876,7 +1876,7 @@ necessity, fools by heavenly compulsion;
 knaves, thieves and treachers by spherical  
 predominance. Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1895082401:0821/pct:176.28755364806867,29.664769133459835,179.93562231759657,349.65211891208094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn85034374:00295878162:1895082401:0821/pct:44.10738255033557,7.416192283364959,45.02013422818792,87.41302972802023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1919,7 +1919,7 @@ necessity, fools bx heavenly compulsion;
 knaves, thieves and treachers by sphcricai  
 predominance.—~Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584405:1895082901:0303/pct:75.16672516672517,15.075376884422111,15.619515619515619,3.4072803039588186/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gardevoir_ver02:data:sn87057928:00340584405:1895082901:0303/pct:65.77600327600328,13.190820047186673,13.667076167076168,2.988489311503539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1967,7 +1967,7 @@ knaves, &#x27;thieves and tre&amp;chers by spherical
 predominance. Shakespeare.  
 CHEAP RATE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473492:1895082901:0621/pct:90.08409250175193,16.98962370296287,50.15767344078486,122.47780972621578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473492:1895082901:0621/pct:60.08764241893076,11.326415801975246,33.46187554776512,81.66020752594075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1988,7 +1988,7 @@ necessity, fools hy heavenly compulsion;
 knaves, thieves ami treachers by spherical  
 predominance.—Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn84022980:00393342961:1895083001:0202/pct:82.93135435992579,11.814576781074798,12.115027829313544,2.885272801859702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn84022980:00393342961:1895083001:0202/pct:82.91597106288258,11.8129614438064,12.117417918753478,2.8882964178288213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2047,7 +2047,7 @@ necessity, fools by heavenly compulsion;
 knaves, thieves and trenchers by spherical  
 predominance.—Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343035:1895090101:1242/pct:80.2777218756289,12.339787292064358,14.872207687663513,3.0951731660758113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn89051168:00393343035:1895090101:1242/pct:80.261569416499,12.338104976141786,14.874245472837021,3.098159509202454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2086,7 +2086,7 @@ necessity, fools by heavenly compulsion;
 knaves, thieves and treachers by spherical  
 predominance. -Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1895090601:1242/pct:262.4553890078515,174.73884140550808,56.673804425410424,45.72649572649573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1895090601:1242/pct:65.62555773692665,43.68471035137702,14.170979832232732,11.431623931623932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2122,7 +2122,7 @@ necessity, fools by heavenly compulsion;
 knaves, thieves and treachers by spherical  
 predominance.—Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_motocross_ver01:data:sn90059182:0039334104A:1895091101:0058/pct:75.66742944317315,70.19315742961747,16.037376048817695,10.806716323696502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_motocross_ver01:data:sn90059182:0039334104A:1895091101:0058/pct:75.68014238494787,70.20157387535244,16.031019577930333,10.81513276943147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2160,7 +2160,7 @@ necessity, fools by heavenly compulsion
 knaves, thieves and treachers by spheric:  
 predominance -Shakespear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766422:1895091201:0419/pct:65.14120020171457,4.265041888804265,31.467473524962177,91.84120335110434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_orr_ver01:data:sn90059228:00280766422:1895091201:0419/pct:65.14960497562616,4.265041888804265,31.47587829887376,91.85389692815436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2198,7 +2198,7 @@ necessity, fools bv heavenly compulsion;
 knaves, thieves and treachers by spherical  
 predominance —Shakespeare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1895091201:0353/pct:74.61569854441572,11.300804053309836,20.078900829819073,85.81341557440247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152536:1895091201:0353/pct:74.61569854441572,11.308147005911076,20.09703895161656,85.80974409810185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2219,7 +2219,7 @@ necessity, fools by heavenly compulsion­
 knaves, thieves and trearhers by spherical  
 predominance.— Shakesjieare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740852:1895091301:0224/pct:80.65604498594189,12.594458438287154,12.239925023430178,2.714805485586342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740852:1895091301:0224/pct:80.65604498594189,12.597956898964455,12.25398313027179,2.721802406940946/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2240,7 +2240,7 @@ necessity, fools ly heavenly compulsion;.
 knaves, thieves and trenchers by npherical  
 predominance. Shakesieare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn97065075:00296020862:1895092701:0067/pct:107.56026296566837,23.75524109014675,16.818845872899928,3.852201257861635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn97065075:00296020862:1895092701:0067/pct:80.69406392694064,17.81970649895178,12.621004566210045,2.8957023060796647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2260,7 +2260,7 @@ necessity, fools by heavenly compulson
 knaves. thieves and treachers by spherical  
 predomlnance.-Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_iceman_ver01:data:sn88064111:00280761680:1895092801:0554/pct:126.25770853618955,16.511836979322744,19.279454722492698,3.640994905603836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_iceman_ver01:data:sn88064111:00280761680:1895092801:0554/pct:84.19087810420386,11.01123595505618,12.855055997403019,2.4269662921348316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2303,7 +2303,7 @@ necessity, fools bv heavenly compulsion:
 knaves, thicvesand treachers by spherical  
 predominance Shakespeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760523:1895092901:0615/pct:123.93072289156626,36.55323819978046,18.75,3.743139407244786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760523:1895092901:0615/pct:82.64537511298585,24.368825466520306,12.503766194636938,2.502744237102086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2372,7 +2372,7 @@ n and the stars; as if we were villainsby b
 knaves, thieves and treachers by spherical  
 Spredominalce.-Shakepeare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lila_ver02:data:sn88064176:00211100874:1895101901:0382/pct:64.42554874431481,54.12793117802137,16.412893019576824,3.4133481337588454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_lila_ver02:data:sn88064176:00211100874:1895101901:0382/pct:64.41281138790036,54.12793117802137,16.409648082245948,3.4133481337588454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2421,7 +2421,7 @@ enforced obedience of planetary in­
 fluence; and all that wre are evil in, by  
 a divine thrusting on, an admirabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90060762:00199919763:1895110701:0348/pct:60.23391812865497,59.81415624641505,12.895486579697106,8.70712401055409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_disco_ver01:data:sn90060762:00199919763:1895110701:0348/pct:60.23891637926726,59.817980191962064,12.895486579697106,8.70712401055409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2479,7 +2479,7 @@ villains by necessity, fools by heavenly
 compulsion; knaves, thieves, and treach­  
 ers by spherical predominance. Shake
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202196913:1896011001:0865/pct:127.66116941529235,149.38654442496966,49.32533733133433,49.99325872994472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202196913:1896011001:0865/pct:31.921274601686974,37.346636106242414,12.333645735707591,12.49831468248618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2663,7 +2663,7 @@ obedience of planetary influence,
 and all that we are evil in, by a di­  
 vine thrusting on.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn96091104:00296020849:1899082501:0277/pct:10.73076923076923,83.153549074444,18.057692307692307,10.6805167132774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn96091104:00296020849:1899082501:0277/pct:8.062343659803734,62.365161805833,13.546276698095054,8.017046211213211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

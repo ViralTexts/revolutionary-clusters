@@ -410,7 +410,7 @@ years after this event, two gentlemen from
 I ltaedpa bo te teiliblot  
 of the encampment held by the America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843082201:0339/pct:251.27304653204564,173.29047340736412,60.403863037752416,23.20280537697253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1843082201:0339/pct:62.81826163301141,43.32261835184103,15.100965759438104,5.800701344243133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ Brig-dier General Nash, whor fell in the
 battle of Germantown hravely contending  
 for the independence of his country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1843082401:0120/pct:157.66536964980546,110.6671889280585,56.96498054474708,19.480349915132525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1843082401:0120/pct:39.42401245378478,27.666797232014623,14.244016345592527,4.870087478783131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ and that Brigadier Stark be appointed a Briga­
 dier General in tho army of the United States.&quot;  
 Never were thanks more deservedly bestowe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1845052801:0266/pct:46.627906976744185,75.85199610516067,19.689922480620154,10.460425650299069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028793:00296026669:1845052801:0266/pct:34.98740065904245,56.8924746139936,14.770304322543128,7.845319237724301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ dier General in the army of the United
 States.’ Never were thanks more de­  
 servedly bestowed. This was the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1845052901:0078/pct:46.94055944055944,57.214455288842,13.479020979020978,9.680823001846479/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348483:1845052901:0078/pct:46.93235448348191,57.206910193854675,13.482491405931365,9.683942151303354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ nington ; and that Brigadier Stark be appointed
 a Brigadier General in the army of the United  
 States.&quot; Never were thanks more deservedly 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016312:00415661563:1845062801:0033/pct:76.14678899082568,58.17732250088308,19.01421118906278,8.760155422112328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82016312:00415661563:1845062801:0033/pct:76.14678899082568,58.181247301699436,19.02020747136775,8.760155422112328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ and troops under his command, for their
 brave and successful attack upon, and  
 signal victory over the enemy in thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194989:1877031901:0450/pct:110.75,70.39536109646811,14.833333333333334,2.7517132314180284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194989:1877031901:0450/pct:83.08098346992638,52.7991565629942,11.126545353521323,2.066420664206642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -733,7 +733,7 @@ Bennington, and that Brigadier Stark be
 appointed a Brigadier-General in the  
 army of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296333:1892012201:0344/pct:314.2983230361871,254.06340057636888,56.57546337157988,33.8328530259366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84022639:00200296333:1892012201:0344/pct:78.59192231295519,63.51585014409222,14.146987419995586,8.45821325648415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ i bravely &quot;contending for the independence
 of his country” and that on the 4th of  
 November, 1777. Congress, by resolutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892149:1898062601:0701/pct:48.23510096864226,11.22119559167316,14.825151863405024,4.0298341311365915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332892149:1898062601:0701/pct:48.24604607891425,11.22119559167316,14.814206753133037,4.0298341311365915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

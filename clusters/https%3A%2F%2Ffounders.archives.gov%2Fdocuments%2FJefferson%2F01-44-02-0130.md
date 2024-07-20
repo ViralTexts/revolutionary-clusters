@@ -191,7 +191,7 @@ Dina about Eleven years old together with
 all her Wearing Apparell---to have and to  
 hold the said Negro Girl unto the aforesai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861030301:0220/pct:119.61517904863709,321.87028657616895,43.132014965259216,27.968110321051498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861030301:0220/pct:29.903794762159272,80.46757164404224,10.783003741314804,6.992027580262874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ hereby acknowledged, have bargained and sold,
 and by these presents do grant, bargain and sell  
 unto the said party of the second part, the permi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn88071311:00514155835:1886091901:0548/pct:51.17990907122754,16.565071624504725,14.526953886122538,4.87656202377324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn88071311:00514155835:1886091901:0548/pct:51.16883116883117,16.562547615419778,14.529220779220779,4.879628218802377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ bill of sale, sealed and delivered in the
 presence of Richard Coles and David  
 Dare.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1886120901:0391/pct:63.74475601678075,68.56665146678827,14.307794215058513,9.788721690226478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529637:1886120901:0391/pct:63.730684326710815,68.55623100303951,14.310154525386313,9.791033434650457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ Elizabeth Ten Broeek, for myself, my
 heirs, executors and administrators, do  
 covenant and agree to and with the abov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685312:1887092901:0364/pct:39.02676399026764,19.12229516168247,11.046228710462287,12.059324094335036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685312:1887092901:0364/pct:39.020434641582874,19.119970827762245,11.04849172883555,12.060897046310927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

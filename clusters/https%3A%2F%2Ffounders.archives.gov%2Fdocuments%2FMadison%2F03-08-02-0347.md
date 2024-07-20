@@ -60,7 +60,7 @@ state of their negotiation* with the Pleni­
 potentiaries of Great Britain.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814120801:0606/pct:53.98271431908432,73.98802736602052,22.004204625087596,5.544469783352337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814120801:0606/pct:53.97010742643624,73.97748325495226,22.004904250350304,5.547242411286875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ Britain.
   
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814121001:0331/pct:8.295433873021649,11.81893393215932,17.100236492632344,4.420281290627585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814121001:0331/pct:8.293925063659513,11.81753722524226,17.10318903843822,4.4236981013156855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ States at Ghent, explaining the course and actual
 state oftheir negotiations with the plenipotentia­  
 ries of Great Britain, JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814121301:0202/pct:23.567874911158494,74.29711061387295,16.929637526652453,3.2688004669714954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814121301:0202/pct:23.57261312485193,74.3035963290852,16.924899312959013,3.2655576093653726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ States at Ghent, explaining the cause and actual
 state of their negociations with the plenipotentiaries  
 of Great Britain, JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814121501:1156/pct:3.5920027109454424,13.147802143770281,22.500847170450694,3.3729963614908054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814121501:1156/pct:3.603298316954705,13.147802143770281,22.495199367446062,3.376274297702167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

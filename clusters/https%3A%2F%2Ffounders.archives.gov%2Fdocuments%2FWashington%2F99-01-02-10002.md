@@ -71,7 +71,7 @@ justified by the practice of war and un­
 known at this day among civilized na­  
 tions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883070501:0110/pct:83.95337697589015,51.906474820143885,10.7935494172122,5.839328537170264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685300:1883070501:0110/pct:83.93997445721584,51.900251768373096,10.795817369093232,5.841625704351996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ fied, but because the event accords with
 the wishes of his Most Christian Ma­  
 jesty.&quot; It lifted a great weight from hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202196913:1896090401:1132/pct:57.934700075930145,84.21052631578948,50.26575550493546,42.435069396729425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:00202196913:1896090401:1132/pct:14.489175845043677,21.05263157894737,12.571211545765287,10.608767349182356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ gratified, but because the event ac­
 cords with the wishes of his mc6t Chris­  
 tian majesty.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_baldwin_ver01:data:sn98066406:00296023334:1897010101:0912/pct:77.21787345075016,78.22040631029395,20.825179386823223,8.43264101691068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_baldwin_ver01:data:sn98066406:00296023334:1897010101:0912/pct:51.4924155928886,52.15072069004653,13.880280541510357,5.617977528089888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -270,7 +270,7 @@ gratified, but because the event ac­
 cords with the wishes of his meat Chris­  
 tian majesty,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_aerodactyl_ver01:data:sn87058235:00279528396:1897010501:0539/pct:36.06719367588933,50.939597315436245,14.064558629776021,6.666666666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_aerodactyl_ver01:data:sn87058235:00279528396:1897010501:0539/pct:36.07817303469477,50.94332587621178,14.059068950373298,6.674123788217748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

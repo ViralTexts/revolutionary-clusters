@@ -127,7 +127,7 @@ While pursuing their studies at the academy,
 they might be allowed subsistence at the pub­  
 lic expense.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861070201:0612/pct:19.012797074954296,234.71849865951742,58.13528336380256,23.257372654155496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861070201:0612/pct:4.756460096043906,58.679624664879356,14.543791447518865,5.814343163538874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ cles in the standing regiments should be supplied from
 thence--those few instances excepted where it would be  
 tost to promote a meritorious sergeant.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011301:0119/pct:23.36311941510967,70.8763477861895,45.86515028432169,16.529020417526954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743403:1862011301:0119/pct:7.787706471703222,23.625449262063164,15.28838342810723,5.509673472508985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ of the United States, reserving to the States respectively the
 appointment of the officers, and the autherity of training the  
 uilitis ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862091201:0091/pct:244.81733962593952,235.75405171347273,49.064848802656876,18.87912903624892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530728:1862091201:0091/pct:81.60577987531317,78.5846839044909,16.354949600885625,6.293043012082973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ of the United States, reserving to the States respectively the
 appointment of the officers, and the authority of training  
 the militia according to t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743427:1862091201:0108/pct:148.10187409899086,175.10259917920658,45.61909338459074,13.20109439124487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743427:1862091201:0108/pct:49.36729136633029,58.36753305973552,15.206364461530248,4.4003647970816235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

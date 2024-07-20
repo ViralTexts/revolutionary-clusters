@@ -149,7 +149,7 @@ hote these Christians love one another, but, murk
 ho tv these Christians hate one another/”  
 And when we refer to certain newspapers i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833091801:0248/pct:4.289834174477289,47.70014917951268,18.619322278298487,7.931377424167081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216481:1833091801:0248/pct:4.289061092088665,47.69422001243008,18.6219739292365,7.934534907810234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ suff.rs, and its enemies are ready to say
 not what was said in the primitive times,  
 behpld how these Chris ’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834022601:0033/pct:81.09498438361197,40.42832742083826,14.95498805805622,6.188411509657075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834022601:0033/pct:81.10110845734583,40.42832742083826,14.95498805805622,6.188411509657075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ as if they had not much of either among them
 B. FranelIn.  
 TO MISS MArY STEVENSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888010101:0312/pct:120.66306861989206,213.86198547215497,50.26985350809561,47.45762711864407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:00175044796:1888010101:0312/pct:30.18322082931533,53.46549636803874,12.574734811957569,11.864406779661017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

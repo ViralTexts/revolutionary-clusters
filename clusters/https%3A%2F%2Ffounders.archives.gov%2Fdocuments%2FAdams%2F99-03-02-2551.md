@@ -47,7 +47,7 @@ low. The history of warfare; I think, fur*
 nishei few instances of a more brilliant atw  
 tack—the regulars led on by their intrepi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814041602:0083/pct:50.74572571844307,37.39404214095423,34.66715169152419,3.6086219423589245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814041602:0083/pct:50.72727272727273,37.38498789346247,34.666666666666664,3.615819209039548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -74,7 +74,7 @@ which was to follow. The history oi
 warfare I think furnishes few in­  
 stances of a more brilliant attack-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814042101:0361/pct:43.95750332005312,12.296350232092474,18.210491367861884,2.0478747610812778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814042101:0361/pct:43.95020746887967,12.295231161266836,18.213001383125864,2.050721999757311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ I follow. The history of warfare, I think
 furnishes few instances of a more brilliant  
 : attack—the regulars, led on by their mtre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814042101:0490/pct:29.969128473046784,78.39290903807033,21.538826881975776,2.165068294100552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814042101:0490/pct:29.96201329534663,78.38151968618335,21.539648622981957,2.1683858782507626/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ furnishes few instances of a more brilliant
 i concealed. We took 250 prisoners, all wo­  
 men and children, except two or three.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814042101:0490/pct:29.684160531940158,92.8509154315606,22.085015435763477,2.208660273176402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814042101:0490/pct:29.677113010446345,92.83742554118844,22.08570750237417,2.2119715240447477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ We took 250 prisoners, all women and children ex-
 follow. The history of warfare I think  
 furnifhes few instances, of a more brilliant at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814042601:0071/pct:7.886074137684271,39.25170068027211,17.074567053098612,1.2342079689018464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814042601:0071/pct:7.890844902437861,39.2549400712666,17.079337817852203,1.2406867508908326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -158,7 +158,7 @@ morning we killed 16 who had been con­
 cealed. We took about 250 prisoners, all  
 women and children except two or three
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814042601:0071/pct:7.957635608988121,53.31389698736638,16.94575640475168,1.924198250728863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1814042601:0071/pct:7.957635608988121,53.32037576935536,16.94575640475168,1.927437641723356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ sure augury of the success which was to fol­
 low. The history of warfare I think furnish­  
 es few instances of a more brilliant attack 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814042701:1025/pct:76.47454209376575,63.95814999511098,22.26516551840027,4.09699814217268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814042701:1025/pct:76.48014339326724,63.9646686874613,22.276368117403237,4.09699814217268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ ing to cross a river ; it was supposed not
 more than 10 escaped. 250, women and  
 children, were made prisoners l&#x27;he A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814050201:0033/pct:1.5026455026455026,3.8810198300283285,36.27513227513227,91.91218130311614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895084:1814050201:0033/pct:1.502327549724926,3.8804701883585895,36.27274650867541,91.90270499929188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

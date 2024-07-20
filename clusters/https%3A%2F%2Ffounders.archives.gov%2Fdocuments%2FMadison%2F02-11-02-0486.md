@@ -77,7 +77,7 @@ coined at the Mint snall be of small denominations so
 that the value of the largest pleces shall not exceed  
 half e dollar. I am, sir, ec.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744006:1877122301:1060/pct:148.24359816152332,35.20161743232618,45.84701247537755,12.658654386161968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744006:1877122301:1060/pct:49.41453272050777,11.73387247744206,15.282337491792514,4.219551462053989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ Mint fur the purpose of exporting them, and, as it
 la probable the farther purchase* and exportations  
 will be made, the President directs that ell tUve*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877122301:0001/pct:82.02429149797571,93.38842975206612,12.165991902834008,2.8313437404346495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877122301:0001/pct:82.02935222672065,93.39990817263545,12.176113360323887,2.8389960208142027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ the President ilirects that all silver to be colned at the
 Mint shall be of small denominations so that the valug  
 of the la rest pieces shall not exceed half naloilar 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1877122301:0547/pct:326.76269901440486,280.70807080708073,68.30932524639879,12.301230123012301/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:0020653350A:1877122301:0547/pct:81.73715152664518,70.17701770177018,17.08704722169543,3.0753075307530753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ all silver to be coined at the mint shall be of
 small denominations, so that the value of the  
 large pieces shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779532:1877122301:0595/pct:164.04657933042213,104.5041598928947,36.48714216399806,12.852634598833317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779532:1877122301:0595/pct:41.01164483260553,26.126039973223676,9.121785540999515,3.2131586497083293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ nominations, so that the value of the
 largest piece shall not exceed half a  
 dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349918:1877122301:1215/pct:3.427199301462563,44.60674157303371,11.30757476533508,3.4082397003745317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_baggs_ver01:data:sn84022149:00393349918:1877122301:1215/pct:3.427199301462563,44.61142322097378,11.318489412791967,3.403558052434457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ coined at the mint shall be of small denomina­
 tions so that the value of the largest pieces  
 shall not exceed half a dollar I am, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525437:1877122401:0548/pct:4.140075274095893,61.63746871648195,11.06201930944199,4.838517459182458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00279525437:1877122401:0548/pct:4.1393979057591626,61.630123927550045,11.064299738219896,4.840919923736892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ mint shall be of small denominations, so
 that the value of the largest pieces shall not  
 exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742137:1877122401:0615/pct:86.00107787658312,114.65626700526029,42.18539477229857,20.07074188282242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742137:1877122401:0615/pct:28.667025958861043,38.2187556684201,14.061798257432857,6.6902472942741396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ hall be of small denominations, so
 that tho value of the largest pieces  
 shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281871:1877122701:0627/pct:7.9662471395881,119.21029281277728,12.643020594965675,6.266637089618456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032573:00237281871:1877122701:0627/pct:5.980827013878953,89.40771960958297,9.486335670339104,4.702750665483585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ directs that all silver to be colned af the mint shall be
 of small denominations, so that the value of the largest  
 shall not exceed half a doltar. I am, sir, etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531319:1878010201:0017/pct:148.84293451501722,215.40253990446232,47.792548826522236,11.930560410113014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_java_ver01:data:sn83030214:00206531319:1878010201:0017/pct:49.614311505005745,71.80084663482077,15.930849608840747,3.976853470037671/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ value of the largest piece shall not exceed
   
 half a dollar. . I am, Ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077272:00296027236:1878010301:0015/pct:9.676331759946056,53.031081428204466,14.143627781523938,7.706139224248651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_arnarson_ver01:data:sn88077272:00296027236:1878010301:0015/pct:7.269354022600776,39.77652196249679,10.608871647832688,5.779604418186489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ shall be of small denominations, so that the
 value of the largest pieces shall not exceed  
 half a dollar. I, am tc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028897:1878010301:0325/pct:51.396103896103895,91.81783095329989,14.39935064935065,7.770487585230928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85038088:00296028897:1878010301:0325/pct:38.57398083482215,68.86658947639265,10.800714633750204,5.827865688923196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ be of small denominations, so that
 the value of the largest pieces eh: II  
 not exceed half of a dollar. laa A 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1878010301:0004/pct:5.930741674406263,88.47501752277961,10.7735173145814,6.258135576249124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159191:1878010301:0004/pct:5.935164300561674,88.47835519508695,10.782362566892221,6.261473248556457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ tions, so that the value of the largest
   
 tieces shalt not exceed half a dollar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1878010401:0407/pct:170.35881435257411,335.19913885898814,65.99063962558502,32.9924650161464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1878010401:0407/pct:42.58970358814353,83.79978471474703,16.497659906396255,8.2481162540366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ shall be of small denominations, so that the
 value of the largest pieces shall not exceed  
 half a dollar. I am, Ac.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1878010501:0074/pct:5.7325689908012265,48.4349087893864,12.984935341954406,5.41044776119403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186580:1878010501:0074/pct:5.731804852039456,48.42988910767955,12.987647738380875,5.413341624347947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ to be coined at the trint shall be of amanl de.­
 nominations, so that the value of the largest  
 pieces shall not excoed half a doliar. I a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528414:1885061101:0109/pct:88.93992055610725,48.95397489539749,31.777557100297916,10.995426680938017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_lapras_ver01:data:sn83025167:00279528414:1885061101:0109/pct:29.646640185369083,16.317991631799163,10.592519033432637,3.665142226979339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ shall be of small denominations, so
 that the value of the largest pieces  
 shall not exeeed half a dollar. la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894082201:0554/pct:31.423919478981645,33.341075368714435,11.678507992895204,6.282661711764023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894082201:0554/pct:31.423919478981645,33.341075368714435,11.678507992895204,6.290403747145125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ nominations, so that the value of the larg
   
 est piece shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_mazama_ver01:data:sn84022644:0029586834A:1894122101:0003/pct:7.820816085156712,53.930985414443256,13.024837374334712,7.150480256136606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_mazama_ver01:data:sn84022644:0029586834A:1894122101:0003/pct:5.8701759574153485,40.44823906083244,9.773769037409433,5.371753824261829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -642,7 +642,7 @@ directs that all silver coined at the mint
 shall be of small denominations, so that  
 the largest shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665532:1895040901:0377/pct:39.70016657412548,14.327901126544898,16.379789006107718,4.724926173028546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665532:1895040901:0377/pct:29.787529509790307,10.75139450946079,12.289959727815582,3.54369462977141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -666,7 +666,7 @@ that all the silver to be coined at the Mint shall be
 of small denominations so that the value of the  
 st pleces shall not exceed half a dolar. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175038784:1895041501:0713/pct:55.14993481095176,41.04594112399643,48.516949152542374,14.640945584299732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_willys_ver01:data:sn83030214:00175038784:1895041501:0713/pct:18.383311603650586,13.681980374665477,16.172316384180792,4.8803151947665775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ shall be of small denominations, so that
 the ralue of the largest piece shall not  
 exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665532:1895041901:0467/pct:22.512437810945272,100.39181541140618,16.30735212824765,5.137135393992164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665532:1895041901:0467/pct:16.892452308542993,75.29386155855464,12.233895493502903,3.8528515454941226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -724,7 +724,7 @@ so that the value of the largest
 piece shall not exceed half a dol­  
 lar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_haedus_ver02:data:sn90057595:00271760553:1895042301:0293/pct:67.47667185069984,73.99727148703957,15.241057542768274,13.628922237380628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_haedus_ver02:data:sn90057595:00271760553:1895042301:0293/pct:62.4288197566385,68.45160476170446,14.104177905652461,12.61094518992134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -824,7 +824,7 @@ the silver to be coined at the mint shall be of
 small denominations so the value of the larg­  
 est pieces shall not exceed a dollar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037251:1895050801:0570/pct:43.73382061824273,38.391757195654606,13.156692553677479,3.6174263635345505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037251:1895050801:0570/pct:43.7388965027156,38.395490349796546,13.166844322623216,3.6136932093926157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ probable further purchases and exportation
 will be made.&quot; The coinage of silver dollars  
 thus authoritatively suspended at the Ameri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037251:1895050801:0570/pct:43.76427592507994,42.06518087131818,13.14146490025887,3.11345055437339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_dogtown_ver01:data:sn85066387:00175037251:1895050801:0570/pct:43.76427592507994,42.06518087131818,13.14146490025887,3.120916862657259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ shall be of small denominatons, so the
 value of the large pieces shall not exceed  
 half a dollar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769617:1895050801:0114/pct:7.218458933107536,28.514513375071143,13.99237933954276,7.014797951052931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769617:1895050801:0114/pct:7.223751058425064,28.518070574843485,14.002963590177815,7.025469550369949/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -891,7 +891,7 @@ ver to be coined at the mint shall be of
 small denominations, so that the value of  
 the largest pieces shall not exceed half 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665544:1895050801:0075/pct:22.815533980582526,93.39630817228529,16.008384819064432,2.001906577693041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665544:1895050801:0075/pct:17.11542705804458,70.04939769477424,12.017214742882366,1.4992633677095069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -913,7 +913,7 @@ and exportatlons will be made.&#x27; The coin­
 age of v silver dollars thus authoritatively  
 suspended at the American mint was not re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665544:1895050801:0075/pct:22.815533980582526,95.31155212756738,16.041482789055603,3.9258167952162233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665544:1895050801:0075/pct:17.11542705804458,71.48799722679608,12.039284926064886,2.946529161972441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -944,7 +944,7 @@ thirty years. In these few facts, which
 are ofilcial and Unquestionable, behold  
 the advantage of a double standard
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760511:1895050801:0266/pct:6.9352905931695625,74.44565217391305,18.843618933493108,10.380434782608695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jennison_ver01:data:sn82014635:00280760511:1895050801:0266/pct:4.630600929117339,49.630434782608695,12.573055597182677,6.923913043478261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -981,7 +981,7 @@ ther -purchase and&#x27;exportations will
 be made.&#x27; &#x27; The coinage of silver : dol­  
 lars thus &quot;authoritatively suspended a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:0020653686A:1895050801:0075/pct:50.27042019137429,40.20433958289446,11.108029399528498,10.838424267958711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:0020653686A:1895050801:0075/pct:50.27504275874821,40.20785057229127,11.112651966902417,10.848957236149147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1021,7 +1021,7 @@ tlons will be made. &#x27;
 &quot;The coinage of silver dollars thus nu-  
 thorltatlv ely suspended at the American min
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895050801:0294/pct:30.353319057815845,40.64148847542349,12.598144182726625,3.3601777284087753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895050801:0294/pct:30.353319057815845,40.64148847542349,12.598144182726625,3.3705915023604556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1043,7 +1043,7 @@ and exportations will be made.” The
 coinage of silver dollars thus authora­  
 tlvely suspended at the American min
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014114:1895050801:0085/pct:45.65865289091993,35.837638376383765,12.060401351082854,3.690036900369004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014114:1895050801:0085/pct:45.64958283671037,35.832349468713105,12.062971791815654,3.6931818181818183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1062,7 @@ be of small denominations so the value
 of the largest pieces shall not exceed  
 half a dolla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539744:1895050801:1259/pct:76.22075279755849,33.73753178173284,36.241098677517805,7.158224134558967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206539744:1895050801:1259/pct:25.406917599186166,11.245843927244279,12.080366225839267,2.386074711519656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1081,7 +1081,7 @@ coined at the mint shall be of small de­
 nominations, so that the value of the  
 largest pieces shall not exceed half a dol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199331:1895050801:0418/pct:13.697204045211183,124.69096671949286,37.80487804878049,6.138404648705758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199331:1895050801:0418/pct:4.565734681737061,41.56365557316429,12.601626016260163,2.0461348829019195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1169,7 +1169,7 @@ will be made.&quot;
 &quot;The coinage of silver dollars thus  
 authoritatively suspended at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550379:1895050901:1129/pct:19.318181818181817,175.10660980810235,43.75,17.630597014925375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550379:1895050901:1129/pct:6.4393939393939394,58.368869936034116,14.583333333333334,5.876865671641791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1207,7 +1207,7 @@ silver coined at the mint shall be of
 small denominations, so that the value  
 of the largest piece shall not exceed hal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_whitesnake_ver01:data:sn85034438:00175049290:1895050901:0266/pct:129.4973544973545,280.58046248230295,39.26917989417989,5.604058518168948/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_whitesnake_ver01:data:sn85034438:00175049290:1895050901:0266/pct:43.1657848324515,93.52682082743432,13.089726631393297,1.8680195060563158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ the advantage of a double standard
 The unlimited coinage of both metals,  
 in an enacted and constant ratio wal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283041:1895051001:0386/pct:9.397870924817033,48.9179548156956,20.85828343313373,13.579072532699168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283041:1895051001:0386/pct:6.273922449658845,32.61593341260404,13.912464636378765,9.048751486325802/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1287,7 +1287,7 @@ the sUver to be coined at mints shaU be of
 small denominations, so that the value of the  
 largest pieces shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556874:1895051601:0374/pct:8.118027011156782,35.1573959156042,16.250733998825602,4.084395802775584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556874:1895051601:0374/pct:6.094874430900279,26.36804693670315,12.189748861800558,3.068938282748505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1309,7 +1309,7 @@ the silver to be coined at mints shall be of
 small denominations, so that the value of the  
 largest pieces shall not exceed half a dollar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1895051701:1121/pct:14.409847936278059,117.30205278592375,57.711803041274436,13.83186705767351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1895051701:1121/pct:3.6031142495020823,29.325513196480937,14.43056309976462,3.4579667644183774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1331,7 +1331,7 @@ will be made.&quot;
 The coinage of silver dollars, thus au­  
 thoritatively suspended at the American mint
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1895051701:1121/pct:14.409847936278059,131.42717497556208,57.566980448950034,13.83186705767351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1895051701:1121/pct:3.6031142495020823,32.85679374389052,14.394350896252037,3.4579667644183774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1359,7 +1359,7 @@ denomination, so that the value of the
 largest piece shall not exceed one-half a  
 dollar. I am, sir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:0029455998A:1895071201:0583/pct:120.97186700767263,282.5846153846154,42.58312020460358,29.046153846153846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:0029455998A:1895071201:0583/pct:30.252638311480652,70.64615384615385,10.64918452190598,7.2615384615384615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1424,7 +1424,7 @@ small denominations, so that the value of
 the largest piece shall not exceed half  
 a dollar. I am, etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583218:1895101101:0083/pct:50.465872156013,17.683200959088865,14.301191765980498,5.724561666416904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583218:1895101101:0083/pct:50.454939341421145,17.680551393467187,14.303509532062392,5.727449805214264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1450,7 +1450,7 @@ be coined at the mint shall be of small
 denominations, so that the value of the  
 largest piece shall not exceed half a dol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:0034058322A:1896032101:0667/pct:36.106951871657756,55.612092187967676,14.203208556149733,5.222987129601916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:0034058322A:1896032101:0667/pct:36.09923011120616,55.603770761633996,14.20551753635586,5.225946431243454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1478,7 +1478,7 @@ shall be small denominations, so that
 the value of the largest piece shall not  
 exceed one-half dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556047:1896041001:0309/pct:27.40983606557377,23.155614394030568,19.147540983606557,12.059212901672884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556047:1896041001:0309/pct:20.567492209283255,17.366710795522927,14.367721830408398,9.050427247562883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1521,7 +1521,7 @@ directs that the silver bullion shall be
 coined as rapidly as possible, in order  
 to supply the demand for circulation i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556047:1896041001:0309/pct:27.0327868852459,49.11541701769166,19.229508196721312,28.48718257311349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556047:1896041001:0309/pct:20.288666557323275,36.839571548922855,14.433327866163687,21.37441328679745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1593,7 +1593,7 @@ coined at the mint shall be of small
 denominations, so that the value of  
 the largest pieces shall notcxceed one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918163:1896073101:0251/pct:98.00936768149883,68.1692859112214,17.330210772833723,3.1293079680176454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918163:1896073101:0251/pct:78.41790268019776,54.5381024151748,13.869372885766328,2.507076425394258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1625,7 +1625,7 @@ mint shall be of small denominations,
 so that the value of the largest pieces  
 shall not exceed half a dollar.&quot; N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289341:1896080601:0705/pct:67.91628334866606,55.81359343551633,19.80220791168353,5.263972751199876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289341:1896080601:0705/pct:50.954681389464,41.864065644836664,14.860823556475731,3.9479795633999073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1678,7 +1678,7 @@ mint shall be of small denominations,
 so that the value of the largest pieces  
 shall not exceed half a dollar.” N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1896080801:0160/pct:64.06120073174787,41.06122448979592,13.337768168967237,3.7434402332361514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1896080801:0160/pct:64.06120073174787,41.06511175898931,13.354398802594378,3.747327502429543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1741,7 +1741,7 @@ to be coined at the mint shall be of small de
 nomination, so that the value of the largest  
 piece snail not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760973:1896081901:0816/pct:41.666666666666664,95.9961716382198,29.25925925925926,13.032381560057425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760973:1896081901:0816/pct:27.79064381658175,63.99744775881321,19.52292728114868,8.693571542510767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1768,7 +1768,7 @@ ooinod at the mint shall be of small de­
 nomination so that the value of the larg­  
 est pieces shall not exoecd half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210636:1896082201:0650/pct:18.709423568758606,49.97700444580715,12.590989573086759,5.825540395523532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210636:1896082201:0650/pct:18.705743509047995,49.96934396076027,12.59343036978757,5.82847946045371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1873,7 +1873,7 @@ portation will be made, the President directs that all the silver to
 be coined at the Mint shall be of small denomination, so that the  
 vahieof&#x27;the largest pieces shall notexceed half a dollar. I am, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn84024442:0021110305a:1896082801:0152/pct:25.981570512820515,64.28248076052512,32.49198717948718,6.413158291836427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn84024442:0021110305a:1896082801:0152/pct:19.498997995991985,48.211860570393846,24.38877755511022,4.813641164931341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1918,7 +1918,7 @@ the President directs that all the silver
 to be coined at the mint shall be of small  
 denomination,&quot; etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768893:1896091101:0094/pct:52.65337423312884,22.95382733666293,13.634969325153374,4.566303129140761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_firebaugh_ver01:data:sn82015104:00280768893:1896091101:0094/pct:52.65337423312884,22.95382733666293,13.650306748466258,4.573098223082934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1984,7 +1984,7 @@ coined at the mint shall be of small de­
 nomination&quot;, so that the value of the larg­  
 est pieces shall not exceed half a dollar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:00211109385:1896091401:0274/pct:59.257842387146134,112.1437596518321,16.698546289211937,2.8499227853432543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:00211109385:1896091401:0274/pct:44.46995790279372,84.10781973887407,12.533486414083429,2.1479713603818618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2068,7 +2068,7 @@ at the mint shall be small denomina­
 tions, so that the value of the largest  
 pieces shall not exceed half a dollar/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1896100801:0715/pct:36.18964003511852,37.712721647030826,14.644424934152765,3.094133047721052/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1896100801:0715/pct:36.18964003511852,37.72065532151216,14.644424934152765,3.094133047721052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2087,7 +2087,7 @@ coined at the mint shall be of small de
 nominations, so that the value of the  
 largest piece shall not exceed half a dol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn93060416:00294556436:1896101001:0169/pct:74.57403055229142,82.41580713309308,12.72032902467685,2.4605443022244313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eeyore_ver01:data:sn93060416:00294556436:1896101001:0169/pct:55.95063179547458,61.81185534981981,9.550396708786366,1.8516217223810116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2149,7 +2149,7 @@ tlmia So that the value of the largest
   
 Pieces shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194291:1896103101:1056/pct:76.35627530364373,40.808670279283035,16.032388663967613,8.73975267472558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194291:1896103101:1056/pct:57.27880137679692,30.609976379046824,12.046973071471959,6.558288175628734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2173,7 +2173,7 @@ all denominations, so that the value
 of the largest piece shall not exceed half  
 a dollar. JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049393:1897041501:0124/pct:48.34814690591984,184.07048249763483,39.862485326178096,16.154210028382213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049393:1897041501:0124/pct:16.116048968639948,61.356827499211605,13.287495108726032,5.384736676127405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2231,7 +2231,7 @@ shall be of small denominations, so
 that the value of the largest piece  
 shall not exceed half a dollar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1897041701:0325/pct:35.1313969571231,136.8258064516129,45.22821576763486,33.961290322580645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1897041701:0325/pct:8.78436797509943,34.20645161290322,11.309009164793359,8.490322580645161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2287,7 +2287,7 @@ mint shall be of small denominations,
 so that the value of the largest piece  
 shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_alcott_ver01:data:sn92066979:00513687400:1897041901:0061/pct:65.00351370344343,35.36067892503536,12.01686577652846,7.797029702970297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_alcott_ver01:data:sn92066979:00513687400:1897041901:0061/pct:65.01522604825486,35.37393917963225,12.034434293745608,7.792609618104668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2378,7 +2378,7 @@ to be coined at the mint shall bo of small
 denominations, so that tho value of tho  
 largest piece shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283818:1897042601:0539/pct:46.52961980548187,48.42007434944238,19.03183023872679,6.939281288723668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283818:1897042601:0539/pct:34.925901349259014,36.322800495662946,14.28887414288874,5.204460966542751/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2403,7 +2403,7 @@ be coined at the mint shall be of small de­
 nominations, so that the value of the largest,  
 piece shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760985:1897042801:0266/pct:78.17613089509143,110.36496350364963,30.245428296438885,12.473641524736415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760985:1897042801:0266/pct:52.155068625090294,73.57664233576642,20.178184444979532,8.321167883211679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2514,7 +2514,7 @@ all stiver to lie coined at the mint shall be of
 small denominations, so that- the value of tho  
 largest p&#x27;.ecc sh:ill not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1897043001:1001/pct:39.00131984161901,37.45808717866837,13.660360756709196,4.901804247165895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1897043001:1001/pct:39.00131984161901,37.46207887593805,13.665860096788386,4.905795944435574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2592,7 +2592,7 @@ be of small denominations, so that the
 value of the largest price shall not ex  
 ceed half a doll
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049393:1897050201:0271/pct:215.52711350623105,199.56207835246775,40.08083529808016,16.59367972541129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049393:1897050201:0271/pct:71.84237116874368,66.52069278415591,13.360278432693388,5.531226575137097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2628,7 +2628,7 @@ all silver to be coined at the mint shall be of
 small denominations, so that the value of the  
 largest piece shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479901:1897050501:0143/pct:34.395836721418114,37.16291508803209,14.03480240689543,4.936483173612658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479901:1897050501:0143/pct:34.40667859272511,37.16291508803209,14.040223342548924,4.936483173612658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2653,7 +2653,7 @@ nil silver to bo coined at the mint shall be of
 small denominations, ho that tie* value of the  
 largest piece shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1897050501:0072/pct:72.18543046357615,39.07949790794979,10.524431716484697,3.9748953974895396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1897050501:0072/pct:72.17251252684324,39.07404824989541,10.527022190408017,3.9778273602008087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2689,7 +2689,7 @@ all silver to be coined at the mint shall be of
 small denominations, so that the value of the  
 largest piece shall not exceed half a dollar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_baseball_ver02:data:sn89064489:00393340150:1897050601:0585/pct:40.764006791171475,38.644484144707455,14.363327674023768,4.644930772666369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_baseball_ver02:data:sn89064489:00393340150:1897050601:0585/pct:40.77532541029994,38.64820604436505,14.357668364459537,4.641208873008783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2714,7 +2714,7 @@ all Hilvcr to bo coined at the mint shall be of
 Hinall denominhtions, so that the value of tho  
 largest piece shall not exceed half a dollar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1897050601:1002/pct:31.931343745167776,46.33654967659845,13.854955930106696,4.739688262114304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1897050601:1002/pct:31.942941085511055,46.33654967659845,13.843358589763413,4.744989926837027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2740,7 +2740,7 @@ all silver to be coined at the mint shall be of
 small denominations, so that the value of the  
 largest piece shall not exceod half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152913:1897050701:0039/pct:44.80085538626036,32.76457657280435,12.616947340283346,4.898984612163718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152913:1897050701:0039/pct:44.809765659805755,32.77155518336299,12.612492203510648,4.898984612163718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2781,7 +2781,7 @@ all (Silver to be coined at the mint shall lie of
 small denominations, so that the value of the  
 largest piece shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624657:1897050701:0346/pct:73.58759942892107,7.4424516311255475,18.947583112380176,38.469142776444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624657:1897050701:0346/pct:68.07319833983146,6.888743740474635,17.532385863413406,35.597648595689094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2832,7 +2832,7 @@ to be coined at the mint shall be of small
 denominations, so that the value of the  
 largest piece shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_elizabethtown_ver01:data:sn86090439:00517175158:1897051101:1081/pct:9.690771852934015,62.31816774992262,16.484051619186754,5.60198081089446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_elizabethtown_ver01:data:sn86090439:00517175158:1897051101:1081/pct:9.690771852934015,62.325905292479106,16.508400292184074,5.613587124729186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2893,7 +2893,7 @@ to bo coined at the mint shall be of small
 denominations, so that the value ot tho  
 largesfploce shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069313:00206533158:1897051401:0296/pct:91.40562248995984,52.69580022701476,15.32128514056225,5.717934165720772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069313:00206533158:1897051401:0296/pct:68.58175974286863,39.52894438138479,11.51064684612294,4.284903518728718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2918,7 +2918,7 @@ all ailver to lx coined at the mint shall be of
 uninll denominations, so that the value of tho  
 largest piece shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023486:1897051401:1031/pct:57.656350741457125,55.95434090659642,21.131528046421664,7.112281857095819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023486:1897051401:1031/pct:38.45533698806837,37.30655251893316,14.092228313447276,4.7415212380638785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2969,7 +2969,7 @@ all silver to 1*) coined at tho mint ahall he of
 small denominations, so that the value of the  
 largest piece shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:00393349128:1897051501:0441/pct:39.74282888229476,36.87972508591065,13.986152324431256,4.756013745704467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:00393349128:1897051501:0441/pct:39.73496835443038,36.87465640461792,13.988330696202532,4.758796041781198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2995,7 +2995,7 @@ te be coined at the mint shall be of small
 denominations, se that the alue if the  
 largest piece shall net exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_gandhi_ver01:data:sn86069117:00206533754:1897052001:0493/pct:27.515847860538827,57.05538168458293,18.561806656101425,6.749217580623214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_gandhi_ver01:data:sn86069117:00206533754:1897052001:0493/pct:20.654112983151634,42.79493808681453,13.934588701684836,5.061913185467411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3046,7 +3046,7 @@ to l-u coined at the mint shall be of small
 denominations, so that the value of the  
 Jargest piece shaf.l not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292340:1897060501:0186/pct:30.403700588730025,45.832106038291606,18.08242220353238,6.730486008836524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292340:1897060501:0186/pct:22.822885990744638,34.3740795287187,13.567522086663862,5.051546391752577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3072,7 +3072,7 @@ to be coined at the mint shall be of small
 denominations, so that the value of the  
 largest piece shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1897061901:0343/pct:55.92997811816193,43.12203536006899,11.830780452224653,4.614057783527382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1897061901:0343/pct:55.939703379528325,43.12203536006899,11.830780452224653,4.617651286474055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3097,7 +3097,7 @@ all silver to be coined at the mint shall be of
 small denominations, so that the value of the  
 largest piece shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415628109:1897062501:0727/pct:66.94091249065072,67.8226821423577,14.397905759162304,5.425814571388617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415628109:1897062501:0727/pct:50.22446689113356,50.874003635855125,10.811821922933033,4.069360928541463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3149,7 +3149,7 @@ to be coined at the mint shall be of small
 denominations, so that the value of the  
 largest piece shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159245:1897072201:1110/pct:45.868333658917756,46.613545816733065,18.57784723578824,6.7042176123093835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159245:1897072201:1110/pct:35.54882664647994,36.13230649110977,14.403229876356296,5.19572701139227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3174,7 +3174,7 @@ all silver to bo coined at tho mint shall lx of
 small denominations, so that the value of tho  
 largest piece Khali not exceed hc.lf a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021209:1897081401:0360/pct:70.10353753235547,49.583101723179546,18.35634167385677,6.183991106170095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021209:1897081401:0360/pct:52.62249082667818,37.18732629238466,13.770774875890352,4.641467481934408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3200,7 +3200,7 @@ to be coined at the mint shall be of small
 denominations, so that the value of the  
 largest piece shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740852:1897093001:0769/pct:43.14092953523238,39.025389025389025,11.956521739130435,4.641004641004641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740852:1897093001:0769/pct:43.150299850074965,39.02880152880153,11.961206896551724,4.6478296478296475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3227,7 +3227,7 @@ denominations, so that the value of the
 largest prices shall not exceed half a  
 dollar.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559991:1898011401:0231/pct:111.83279742765274,284.80825958702064,43.47266881028939,26.696165191740413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:00294559991:1898011401:0231/pct:27.9626949670365,71.20206489675516,10.869914777295385,6.674041297935103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3254,7 +3254,7 @@ shall be of small denominations, so that
 tho value of tho largest piece will not  
 exceed half a dollar. 1 am, etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_fleming_ver01:data:sn84020630:00415628997:1898021001:0139/pct:27.742699289660617,45.763672428449986,16.041831097079715,7.905922357608388/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_fleming_ver01:data:sn84020630:00415628997:1898021001:0139/pct:20.82099861851194,34.32983848115614,12.03868166567989,5.922357608387645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3327,7 +3327,7 @@ all silver to be coined at the mint shall be of
 small denominations, so that the value of the  
 largest piece shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076145:00199918047:1899020301:0211/pct:25.107020547945204,41.537405628002745,15.988869863013699,5.010295126973233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076145:00199918047:1899020301:0211/pct:25.112371575342465,41.54770075497598,15.983518835616438,5.020590253946465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3350,7 +3350,7 @@ all silver to be coined at the mint shall be of
 *mall denominations so that the value of tha  
 largest piece shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076145:00199918047:1899021001:0219/pct:7.947579792855633,43.45449576386991,32.02282815472416,4.140475539764963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076145:00199918047:1899021001:0219/pct:7.963432678080744,43.461328231757314,32.02282815472416,4.143891773708663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3397,7 +3397,7 @@ coined at the Mint shall be of small de­
 nominations, so that the value of the lar?  
 gest pieces shall not exceed half a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_navy_ver01:data:sn95079154:00175031236:1899041301:0466/pct:13.770443925233645,35.24219817169276,12.10572429906542,6.073342439844489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_navy_ver01:data:sn95079154:00175031236:1899041301:0466/pct:13.77531152647975,35.249203180273895,12.100856697819315,6.073342439844489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

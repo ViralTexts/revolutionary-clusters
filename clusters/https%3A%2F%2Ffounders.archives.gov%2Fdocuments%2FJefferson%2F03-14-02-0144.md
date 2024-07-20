@@ -88,7 +88,7 @@ towards ntj&#x27;-elf ; and, with iny acknowledgment., bir
 these, be pleased to uccepltbe a.ssurunre ol mv re pert and  
 eslenn. TJI JKFFKKijoN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824061501:0048/pct:35.71661769507019,43.46825012118274,15.409729023832844,21.84924866698982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183980:1824061501:0048/pct:35.710788314019915,43.46298315763965,15.412654371361732,21.85064017125086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -704,7 +704,7 @@ joy good health—too feeble indeed to walk much,
 but riding without much fatigue si&gt; or eight mi.iia  
 adav, and sometimes thirtv or forty
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830072601:0196/pct:25.878099173553718,3.9693169365639838,36.828512396694215,93.24242055278218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216432:1830072601:0196/pct:25.873644344981926,3.9688336985634285,36.82791071326103,93.2351270189108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ late occasion of Indisposition, I enjoy good health—
 too feebleindeed to walk much, but riding without  
 fatigue, six or eight miles a day, ond sometimes thir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830072901:0716/pct:23.78068218042716,35.239852398523986,18.5049410264584,26.522140221402214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830072901:0716/pct:23.776892430278885,35.235789230946615,18.50730411686587,26.52292555440255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -958,7 +958,7 @@ left me ; I enjoy good helath ~too feeble indeed to
 walk much, but riding without fatigne six or eight  
 miles a day, and sometimes thirty or [ony.--??ef.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835062301:0097/pct:20.921155347384854,64.80129764801298,14.660421545667447,22.720426370061407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835062301:0097/pct:20.921155347384854,64.80902174332832,14.681238615664846,22.716564322403737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1171,7 +1171,7 @@ previous reading of something moral, whereon
 to ruminate in the intervals of sleep,&quot; and his  
 biographer states that the book most usuall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858081501:0155/pct:107.56488128106018,193.81888912902528,37.49309773605743,8.558461205964988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290094:1858081501:0155/pct:26.902361552271785,48.45472228225632,9.377157851125535,2.139615301491247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1202,7 +1202,7 @@ the purpose. _
 In a letter to an old fiiend, Mr. Jeffer­  
 son describes this book (wliicli he calle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1858100101:0566/pct:16.38447971781305,10.298142013538817,13.80952380952381,9.722022180613568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn85059716:00201293031:1858100101:0566/pct:16.38447971781305,10.298142013538817,13.822751322751323,9.72562292956935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1288,7 +1288,7 @@ Extract-^-&quot; I have lived temper­
 ately ; eating littlci animal food ; vegf  
 etables constitute my principal diet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192373:1885050501:0485/pct:84.56387665198238,27.417470055506865,11.823788546255507,3.461875547765118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192373:1885050501:0485/pct:84.57709251101322,27.42842535787321,11.823788546255507,3.465527315220567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1307,7 +1307,7 @@ location, makes writing both slow and
 painful; I sleep five or eight liottrg  
 accordingly as my company or th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192373:1885050501:0485/pct:84.58149779735683,34.83786152497809,11.894273127753303,2.906806894536956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192373:1885050501:0485/pct:84.58590308370044,34.848816827344436,11.90308370044053,2.899503359626059/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ partly to tho habit of bathing my feet
 iu cold water every morning for sixty  
 years past; I am too feeble to wal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192373:1885050501:0485/pct:84.58149779735683,38.03680981595092,11.841409691629956,4.995617879053462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_iceland_ver01:data:sn84026788:00202192373:1885050501:0485/pct:84.59471365638767,38.04046158340637,11.841409691629956,4.995617879053462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1361,7 +1361,7 @@ drinks, and my breakfast, like that, also,
 or my mend, is tea and ooffee.&quot;  
 All true statesmen, whether of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1887062301:0791/pct:91.73502871205906,68.9760712298275,18.457752255947497,11.463550361713967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297672:1887062301:0791/pct:68.82051282051282,51.73900946021146,13.846153846153847,8.597662771285476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1414,7 +1414,7 @@ eyesight were good At night and with
 fine print however glasses were nec­  
 essary He was too feeble to walk fa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534783:1898070301:0032/pct:126.09114249037228,23.092643051771116,19.20731707317073,17.892824704813805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:00206534783:1898070301:0032/pct:84.07960199004975,15.39509536784741,12.801583480447226,11.932334241598546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

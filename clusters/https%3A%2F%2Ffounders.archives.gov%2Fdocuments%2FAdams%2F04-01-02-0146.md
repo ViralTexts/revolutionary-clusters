@@ -936,7 +936,7 @@ way are now beginning to engage in politics, and
 they engage with a fervor that will produce won­  
 derful effects.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857041101:0334/pct:6.222136072882342,70.76592698639942,15.87516960651289,7.444523979957051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021205:00517171906:1857041101:0334/pct:4.827240861291938,54.8467029106106,12.303455182774162,5.780539221125042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1265,7 +1265,7 @@ land, who was suspected of designs of in­
 dependency. an American republic, Pres­  
 byterian principles by Pennsylvania
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199082:1891070401:0505/pct:16.967051534778935,245.48335974643422,36.116586876936076,4.585314315900686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199082:1891070401:0505/pct:5.655683844926312,81.82778658214474,12.038862292312025,1.528438105300229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1357,7 +1357,7 @@ nor ear heard, neither have entered into
 the heart of man, the things which God  
 hath prepared for them that love Him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550379:1895040801:0859/pct:107.2700296735905,50.766129032258064,42.396142433234424,33.87096774193548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550379:1895040801:0859/pct:35.7566765578635,16.922043010752688,14.132047477744807,11.290322580645162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1383,7 +1383,7 @@ tion of those days. Isa. xxxy., 4, says &quot;Be­
 hold your God will come with vengeance,  
 even God with a recompense.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1896052801:0916/pct:120.64570943075616,152.88811290557254,57.68903993203059,21.533537028953877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1896052801:0916/pct:30.18065887353879,38.222028226393135,14.431455897980872,5.383384257238469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1399,7 +1399,7 @@ even God with a recompense.
 says: &quot;Behold your God will come with  
 vengeance, even God with a recompense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014114:1896052901:0670/pct:32.27051177904143,45.00754147812972,12.124289195775791,0.9200603318250377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_crane_ver01:data:sn84020107:00517014114:1896052901:0670/pct:32.263959390862944,45.00075403408234,12.126903553299492,0.9236917508671392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1415,7 +1415,7 @@ vengeance, even God with a recompense
 says: &quot;Behold your God will come with  
 vengeance, even God with a recompense
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1896052901:0172/pct:198.08043875685559,192.97585449984322,59.41499085923218,3.888366259015365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777894:1896052901:0172/pct:49.520109689213896,48.243963624960806,14.853747714808044,0.9720915647538413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1436,7 +1436,7 @@ tion of those days. Isa. xxxv., 4, says “Be­
 hold your God will come with vengeance,  
 even God with a recompense.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685191:1896053001:0177/pct:39.223028317341445,45.8442965485219,16.615960683360637,3.513388020430274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685191:1896053001:0177/pct:39.21385119326158,45.83720210461158,16.617922321010763,3.5167130919220058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1478,7 +1478,7 @@ vengeance, even God with a recompense
   
 he will come and save von. Kesponse,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776154:1897090801:1105/pct:89.68012185833967,16.850625459896982,15.860624523990861,2.8108903605592346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776154:1897090801:1105/pct:67.3080586778434,12.641648270787343,11.907029910459135,2.1044885945548195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

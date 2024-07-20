@@ -127,7 +127,7 @@ at any time during the war with Great Bri­
 tain according to them, in the fame manoer,  
 as if this ordinance had never been made
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0075/pct:33.752726052675726,31.322751322751323,27.948330816977016,18.825396825396826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0075/pct:33.763909858524855,31.329805996472665,27.948330816977016,18.828924162257497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ fel belonging to a foreign nation, othe: than
 an enemy, shall in no case be subject to con­  
 demnation. &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0075/pct:33.38366045965442,64.1058201058201,27.847676564334844,9.597883597883598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0075/pct:33.39484426550355,64.10934744268077,27.84208466141028,9.597883597883598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ ging, tackle, apparel and furniture, and
 with their cargoes, found in the pofleffion  
 of pirates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0075/pct:63.210870659285355,34.4973544973545,27.411508136218757,4.190476190476191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0075/pct:63.222054465134484,34.4973544973545,27.41710003914332,4.197530864197531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ matches, powder, salt petre, fuiphur; car«
 cases, pikes, {words, belts, pouches, car~  
 touch boxes, laddles and bridies, in any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0075/pct:63.16054353296427,38.70899470899471,27.59604093272941,8.34920634920635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0075/pct:63.16613543588883,38.71252204585538,27.607224738578537,8.34920634920635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ portion which would be due to the Uniteds
 States, *o be remitted tofiuch a citizen, nei  
 regard being had to the tige of pofelien b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0075/pct:63.26119778560644,52.35978835978836,27.713470894145278,38.27513227513227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0075/pct:63.27238159145557,52.35978835978836,27.713470894145278,38.27865961199294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ while captures of this fort are licensed by the
 Britith, . |  
 Recaptures shall be made by no other per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0076/pct:7.8911794525177426,8.815105547894346,28.218992903007774,38.64431950779675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0076/pct:7.902444519544892,8.81864149075351,28.230257970034923,38.64078356493759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ contrary. , f
 ~From and after the firft day of February,  
 which shall be in the year of our Lord, on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0076/pct:8.161541061169315,49.230932428131965,27.99932409597837,6.385912803649093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0076/pct:8.167173594682888,49.230932428131965,27.99932409597837,6.396520632226583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -373,7 +373,7 @@ ny prizs or prizes thall be taken, excepting only foch
 before taken, or sent away by his or their command­  
 ing officers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0078/pct:9.361489857000333,13.576473068409403,27.835051546391753,36.94529355960788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0078/pct:9.372575102538521,13.579986648396051,27.84059416916085,36.948807139594535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ sion of the courp. -
 On reesptare by in armed veflel belonging to the  
 United ‘States, of .2 veflel under the proteétion of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0078/pct:9.261722647156635,50.395277748497946,27.419354838709676,17.866554232107095/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782011201:0078/pct:9.267265269925728,50.395277748497946,27.419354838709676,17.880608552053687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -926,7 +926,7 @@ centraband of war, of changes or additions being intro­
 duced in consequrnee of treaties with forelgn Po wers, at­  
 terfor regulations will be made
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854051401:1095/pct:239.71582048171894,269.5870136070661,45.90192341015422,11.995703031749821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743099:1854051401:1095/pct:79.90527349390631,89.86233786902204,15.300641136718074,3.99856767724994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1001,7 +1001,7 @@ except the vessel or vessels making the cape
 ares in whieh torm shall be inciudod vessels  
 present at the capture and rendering actna
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288993:1864071801:0060/pct:121.72211350293541,158.20560747663552,50.782778864970645,39.47663551401869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288993:1864071801:0060/pct:30.430528375733854,39.55140186915888,12.695694716242661,9.869158878504672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1038,7 +1038,7 @@ shall be included vessels present at the capture
 and rendering actual assistance in the capture.  
 All prize money adjudged to the captors shall b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171578:1864072801:0714/pct:23.212898212898214,20.491922573133458,15.88966588966589,12.021539804977442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171578:1864072801:0714/pct:17.99478121236451,15.88149039365342,12.329385788839824,9.324359890213183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +1065,7 @@ aptors, unless it shall be
 other wise pto Iied in the commissions issued to  
 uch vessels. All vessels of the navy within a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022032:1864081101:0559/pct:34.36532507739938,356.73578270886384,40.61919504643963,15.472292955013945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059181:00296022032:1864081101:0559/pct:8.595322905374013,89.18394567721596,10.159516803469103,3.868073238753486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1131,7 +1131,7 @@ none shall be entitled to share except the vessel
 or vesscls making the capture, in which term  
 shall be included vessels present at the captur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1864110701:1211/pct:129.0948275862069,58.042600073448405,36.877394636015325,23.944179214102093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn88085145:no_reel:1864110701:1211/pct:43.0316091954023,19.347533357816133,12.292464878671776,7.981393071367364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1159,7 +1159,7 @@ That, in caseof privateers and letters of mar
 que the whole shall be decreed to the cap  
 tors, unlessit shall be otherwise provided in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022168:00296025173:1864111201:0198/pct:98.04822043628013,266.05905942398834,54.53501722158438,19.248997448049582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn84022168:00296025173:1864111201:0198/pct:24.519092736146998,66.51476485599709,13.637668676428367,4.812249362012396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1183,7 +1183,7 @@ letters of marque, the whole shall be de-
 creed to the captors, unless it shall be  
 otherwise provided in the commnission
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898042601:0745/pct:215.93303506999567,111.382571492907,37.65334103045173,11.596487277640172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898042601:0745/pct:71.97767835666522,37.127523830969004,12.551113676817241,3.8654957592133905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1207,7 +1207,7 @@ letters of marque, the whole shall be de­
 creed to the captors, unless it shall be  
 otherwise provided in the commission
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898042602:0759/pct:215.25472651176216,113.02634541769872,37.76879780632126,11.652780905201531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:0020219946A:1898042602:0759/pct:71.75157550392072,37.67544847256624,12.589599268773753,3.8842603017338435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1231,7 +1231,7 @@ privateers and letters of marque, the
 whole shall be decreed to the captors, un­  
 less it shall be otherwise provided in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871398:1898042701:0196/pct:3.591352859135286,115.91046581972172,16.823570432357045,4.99092558983666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jesse_ver01:data:sn82016014:00295871398:1898042701:0196/pct:2.703645560788418,86.9328493647913,12.628641200069772,3.750756200846945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

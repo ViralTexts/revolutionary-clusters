@@ -318,7 +318,7 @@ aeenesme
 try, and with satisfaction to this greut pouple, shall be  
 thedtily prayer of yourA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840102901:0450/pct:174.9190938511327,19.465033838221075,79.18015102481122,267.493823181867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186427:1840102901:0450/pct:58.29850343804773,6.487647690655209,26.389825176396567,89.15503043322592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -468,7 +468,7 @@ tialiry ta yoar cossiry, and with sa
 tisfaction to this great people, shall  
 be the daily prayer of your A.A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840110501:0900/pct:33.85826771653543,13.921113689095128,121.88976377952756,344.8614712706428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840110501:0900/pct:8.464566929133857,3.480278422273782,30.47244094488189,86.2153678176607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -524,7 +524,7 @@ may not be hidden from your eyes.
   
 My feelings are not those of pride or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1840111201:0281/pct:84.63653023824068,95.78218445073969,17.700061087354918,19.210995698247824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1840111201:0281/pct:63.49473041087521,71.83926135767496,13.273254925920268,14.405623754065681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ satisfaction to this great people, shall be
   
 the daily prayer of your A. A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1840111201:0281/pct:84.81979230299328,115.79057811352429,17.532070861331704,6.484104501101668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016884:0041566199A:1840111201:0281/pct:63.632197953261034,86.84293358514321,13.151061554910646,4.868324415066625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -592,7 +592,7 @@ wiiii justice ana impartially to your country, and
 wilh satisfaction to this great neoplo shall be the  
 uauy prayer oi your a. A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840112101:0138/pct:88.8756927949327,37.30378578024008,19.517022961203484,21.037242228377963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840112101:0138/pct:66.70627847098436,27.977839335180054,14.636561695385225,15.789473684210526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ honor lo yourself, with justice and impartiality
 to your country, und with satisfaction to thin  
 great people, shall he my daily prayer.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199288:1862030401:0242/pct:61.027457927369355,97.22261384463556,21.54561558901683,5.879035668969406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199288:1862030401:0242/pct:45.78073089700997,72.91696038347666,16.168327796234774,4.412801353447061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -776,7 +776,7 @@ honor to yourself, with justice and impartiality
 to your country, and with satisfaction to this  
 great people, shall be my daily prayer.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023210:00202197656:1862030401:0443/pct:58.19707401032702,110.27173913043478,23.709122203098108,10.692934782608695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023210:00202197656:1862030401:0443/pct:43.681377825618945,82.7038043478261,17.804090419806244,8.029891304347826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,7 +857,7 @@ standing heart to judge thy people, that I may
 liscern between good and bad; for who is able to  
 judge this Thy so great a people?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743877:1874091401:0888/pct:105.7660626029654,144.06662040249827,44.59637561779242,4.580152671755725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743877:1874091401:0888/pct:35.25535420098847,48.022206800832755,14.865458539264141,1.5267175572519085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -980,7 +980,7 @@ justice and impartiality to your country,
 and with satisfaction to this great people,  
 shall be the daily prayer of your A.A
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82014898:00211105501:1876042101:0280/pct:198.8078541374474,117.6036866359447,60.028050490883594,53.824884792626726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82014898:00211105501:1876042101:0280/pct:49.71939670291126,29.400921658986174,15.012276394247632,13.456221198156681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1022,7 +1022,7 @@ partiality to your country, and with satisfaction
 to this great people, shall be the daily prayer  
 of you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877030701:0040/pct:111.30369253956292,150.13480913864055,42.20045214770158,46.43110543493685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1877030701:0040/pct:27.82592313489073,37.53370228466014,10.550113036925396,11.607776358734213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1067,7 +1067,7 @@ with satisfaction to this great people,
 shall be the daily prayer of your  
 “A. A.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016093:1877051701:0070/pct:66.2054180471643,18.227305218012866,11.966478269343208,20.41458184417441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016093:1877051701:0070/pct:66.19251753702261,18.224699828473412,11.969017926734217,20.415237278444824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ that I may discern between good and bad,
 for who is able to judge this Thy so great  
 people. And the speech pleased the Lor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:0041418442A:1877082201:0235/pct:30.8236422491308,34.34084699453552,12.276705431003476,7.172131147540983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:0041418442A:1877082201:0235/pct:30.819947254854952,34.33791513702724,12.279229601214737,7.1743646660405815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1218,7 +1218,7 @@ and numerous duties connected with
 it.” When finally, after four years, he  
 failed of re-election, she wrote to her son
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210041:1884021601:0360/pct:26.9559902200489,33.28861061419201,18.357783211083945,4.561717352415027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210041:1884021601:0360/pct:20.89057318806253,25.799121928675962,14.248118322016948,3.5469460063159515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1240,7 +1240,7 @@ duties, connected,with it,&quot; When finally,
 after four years, he failed of re-election, she  
 wrote to her son: &quot;The consequence to u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_vasa_ver01:data:sn90059522:00175035308:1884022001:0483/pct:43.3825840930525,53.05929352396972,12.983338572775857,3.511354079058032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_vasa_ver01:data:sn90059522:00175035308:1884022001:0483/pct:43.39306297809913,53.062797869358,12.972859687729226,3.511354079058032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1262,7 @@ duties, connected, with it,&quot; When finally,
 after four years, he failed of re-election, she  
 wrote to her son: &quot;The consequence to u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_vasa_ver01:data:sn90059522:00175035308:1884022001:0484/pct:43.036780886513675,53.22750210260723,12.983338572775857,3.511354079058032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_vasa_ver01:data:sn90059522:00175035308:1884022001:0484/pct:43.047259771560306,53.22750210260723,12.972859687729226,3.511354079058032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1380,7 +1380,7 @@ finally, after four years, he failed of re­
 election, she wrote to her son: &quot;The  
 consequence to us is personally
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285025:1884030701:0414/pct:214.02061855670104,54.385150812064964,55.32646048109966,48.95591647331786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285025:1884030701:0414/pct:53.51434954459529,13.596287703016241,13.83399209486166,12.238979118329466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1406,7 +1406,7 @@ oonsoijuenoH to us is personally that we
 fatnily I have lew regrets .. If I did  
 not rise with d gnitjr, I ran at least fal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186592:1884030701:0242/pct:30.897559630497724,65.43396226415095,12.656831655866538,5.509433962264151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_floyd_ver01:data:sn86092245:00414186592:1884030701:0242/pct:30.893300248138956,65.42690815006468,12.659682014520724,5.512433520195486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1429,7 +1429,7 @@ When finally after four years, he failed
 of re-election, she wrote to her eofi:  
 ‘ ‘The consequence to us is personally
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_apple_ver01:data:sn2001063566:00279522746:1884040401:0207/pct:74.04059625753251,34.578474873594054,17.507136060894386,5.438035290475699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_apple_ver01:data:sn2001063566:00279522746:1884040401:0207/pct:74.04588222856539,34.58191449110859,17.507136060894386,5.441474907990232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1451,7 +1451,7 @@ after four years, he failed of re-election,
 she wrote to her son: “The consequence  
 to us is personally
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1884040501:0062/pct:72.74935695913118,25.750758606257193,11.17462132037725,3.9238254682431726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_indianhead_ver01:data:sn83016368:00415627567:1884040501:0062/pct:72.75412022482614,25.754246451117854,11.184147851767172,3.920337623382512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1475,7 +1475,7 @@ of re-election, she wrote to her son:
 &quot;The consequence to us is personally  
 that we retire fr#hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348079:1884041001:0103/pct:71.81830048296567,28.474100791503858,10.781882260801462,4.598737601442741/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_hula_ver01:data:sn91059392:00383348079:1884041001:0103/pct:71.82700256711482,28.474100791503858,10.777531218726885,4.608756637611462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1498,7 +1498,7 @@ When finally after four years, he failed
 of re-election, sho wrote toiler son:  
 &#x27;The consequence to us is personally
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623355:1884041101:0425/pct:66.80412371134021,39.516129032258064,11.75257731958763,4.199110122358176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_falcon_ver01:data:sn99068076:00415623355:1884041101:0425/pct:66.80880974695408,39.516129032258064,11.76194939081537,4.216490545050056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1521,7 +1521,7 @@ with ;’ When, finally, after four
 years, he failed of re-election, she wrote  
 to her son: “The consequence to us i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769350:1884041701:0822/pct:82.85066061657547,27.159726538222497,10.703323101561457,4.153718665837995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769350:1884041701:0822/pct:82.85066061657547,27.159726538222497,10.7166688909649,4.160624266279953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1542,7 +1542,7 @@ it.&quot; &quot;When, finally, after four years, he
 failed of re-election, she wrote to her son:  
 &quot;The consequence to us is personally
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1884042401:0392/pct:16.068152031454783,17.703086363220073,14.53473132372215,3.489330524773331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1884042401:0392/pct:16.072520751419834,17.706139145831425,14.539100043687199,3.492383307384681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1565,7 +1565,7 @@ with it.” When, finally, after four
 years, he failed of re-election, she wrote  
 to her son: “The consequence to ns i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769477:1884052901:0589/pct:64.1299986625652,18.050028425241614,13.936070616557442,4.709115027477734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271769477:1884052901:0589/pct:64.13445677856538,18.056345145600403,13.94052873255762,4.712273387657128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1588,7 +1588,7 @@ with it.&quot; When, finally, after four
 years, he failed of re-eleciion, she wrote  
 to her son: &quot;The consequence to us i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625108:1884060701:0383/pct:79.35966195351861,18.66864580954556,14.009426296115716,4.749942909340032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625108:1884060701:0383/pct:79.36507936507937,18.676257897541294,14.014843707676473,4.746136865342163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1633,7 +1633,7 @@ after four years, he failed of re-election,
 she wrote to her son: “The conse­  
 quence to us is personally
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1884080701:0338/pct:46.15702479338843,38.846620355055684,9.449035812672177,3.7931414709449776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1884080701:0338/pct:46.16161616161616,38.846620355055684,9.45821854912764,3.800492520307274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1679,7 +1679,7 @@ t country, and with satisfaction to this
 J great people, shall be the prayers of  
 i four a. a.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521560:1884082801:0037/pct:5.927835051546392,63.24089178901577,19.22680412371134,26.56878738444807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521560:1884082801:0037/pct:5.927835051546392,63.248142106217145,19.238258877434134,26.56516222584738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2005,7 +2005,7 @@ nor the robes of royalty.&quot;
 There were women as well as men in  
 the Revolution ; the &quot;fathers&quot; woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:00416156748:1894111501:0411/pct:57.74493705528188,22.69747112082423,16.625615763546797,11.801436153605994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073907:00416156748:1894111501:0411/pct:43.3264887063655,17.025705068165262,12.484599589322382,8.856280570298678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2133,7 +2133,7 @@ prayer ol
 lours,  
 &quot;A. A.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102354:1897040101:0287/pct:57.91088580576307,18.716898171280103,16.969050160085377,18.047366843209755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn82016187:00211102354:1897040101:0287/pct:43.4538902976111,14.040171879684221,12.731883090884827,13.540521634855601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

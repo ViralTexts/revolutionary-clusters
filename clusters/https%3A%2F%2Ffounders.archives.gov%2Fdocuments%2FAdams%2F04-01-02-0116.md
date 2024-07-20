@@ -283,7 +283,7 @@ ocoaslon for all our Industry and
 economy.&#x27;&#x27;  
 The Sons of the Revolution chose fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:00206539586:1891060301:0043/pct:62.50927988121752,183.91992250565062,44.84038604305865,13.367775266386825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:00206539586:1891060301:0043/pct:15.63602599814299,45.979980626412654,11.216341689879295,3.3419438165967064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ occalon for all our industry and
 economy.&quot; t t  
 Tho Sons of the Revolution chose fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:00206539586:1891060302:0049/pct:64.93604213694508,182.465306122449,45.522949586155,22.66122448979592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_isahakyan_ver01:data:sn83030193:00206539586:1891060302:0049/pct:16.24317711274233,45.61632653061225,11.387163561076605,5.66530612244898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ together.&quot;
 That she was zealous to take her share  
 of the burden is evident fiom her state
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769642:1895112801:0381/pct:18.360655737704917,77.75811209439529,12.208293153326904,5.752212389380531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769642:1895112801:0381/pct:18.360655737704917,77.76548672566372,12.21311475409836,5.748525073746313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -65,7 +65,7 @@ K natural born subject of one prince to
 “ lutely to another; but it is his own  
 V act that brings him into these strait
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813012901:0394/pct:12.832852101379531,7.36013986013986,38.450433108758425,87.77097902097903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813012901:0394/pct:12.830793905372895,7.359496547504588,38.44961240310077,87.76622090143636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,7 +86,7 @@ ilother, put off or dis. h »rgr his natural «1
 iegiauee to the forrm-i, without the concur  
 &#x27;tnt act of the prince to whom it was firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813061801:0057/pct:39.50434621786573,71.43566199280308,17.84723506565563,3.983124457128676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813061801:0057/pct:39.49704142011834,71.42679900744417,17.850098619329387,3.986765922249793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ Wd antecedent to the other; ami cannot lie di­
 vested without the ratieurrent act of that mince  
 to whom it was first due.”* - * &gt; i V&#x27; f
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813101301:0640/pct:1.7783505154639174,72.79775651600131,23.350515463917525,6.1200923787528865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813101301:0640/pct:1.7778922958000516,72.78574962889658,23.350940479257922,6.123206333498268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ cannot by any act ot his own, no, not by
 swearing allegiance to another, put oh* or  
 discharge his natural allegiance to the for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813121801:0261/pct:23.02405498281787,43.72202884137245,17.218303490685475,2.9338637493784185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813121801:0261/pct:23.01989150090416,43.716594157862026,17.221217600964437,2.9376424280091156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ by any act cf his own, no. not by swear­
 ing allegiance to another, put off or dis­  
 cbnrg&#x27; his natural all* giance ; or in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814040901:0423/pct:4.897808874976984,74.46940548591287,17.41852329221138,2.805014273302718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814040901:0423/pct:4.896907216494846,74.46016381236039,17.421453117329406,2.8088028460329277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ now; for it is a principle of univemsal law that the astural bora sabject
 of one prince cannot, by any act of his own--no, not by swearing alle  
 legiance to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868013101:0207/pct:200.53191489361703,253.53345148427115,46.048632218844986,3.511298183429331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868013101:0207/pct:66.84397163120568,84.51115049475705,15.349544072948328,1.170432727809777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ e t a poa  a w
 This doctrine is unjust, unreasonable and at war with  
 the spirit of the present age. But netxithstanding this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868013101:0276/pct:199.98381353188734,262.76933545021546,46.633214632567174,25.096393740077115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868013101:0276/pct:66.66127117729577,87.58977848340515,15.54440487752239,8.365464580025705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ dent to the other, and cannot be divided
 wlltont the concurrent act of that Prlncotowbom  
 It was first cm.”—Voi. I.page 3CS. This doctrin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868013101:0001/pct:29.776496034607067,57.87594823739402,8.832011535688537,2.85586791610888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kedzie_ver02:data:sn82014064:no_reel:1868013101:0001/pct:29.7810021629416,57.88710397144132,8.841023792357607,2.8484307600773464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ cannot hy any act of his own no, not by
 nnvn..; liill.re w lllloilirr Jllll oil or : o&quot;1 1 fc ,i. ...,,,., r. us.,. .. i.-.i , es 1 1. o .ears ago 111c .viusworin lann, loealcl  
 discharge his natural allegiance to the j ua iu regard to this very important qucs- Iu..ir&quot; j l!ombazine, pavin&quot; for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628353:1868022001:0063/pct:8.024691358024691,76.55662909286097,50.5787037037037,3.3145464304884595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628353:1868022001:0063/pct:6.020841373986878,57.420826623725176,37.95831725202625,2.4825550187869028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ the concurrent act of that principle to
 whom it was first due. Is such a doctrine  
 based upon any true philosophy? Is i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1868022501:0776/pct:179.11445279866334,279.06976744186045,50.87719298245614,33.26659479439396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:0028077781A:1868022501:0776/pct:44.79732553280401,69.76744186046511,12.72461345591308,8.31664869859849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ was first due. Until very late in En­
 glish history, naturalization, without a  
 license from the allen&#x27;s gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898080401:0724/pct:14.93722037812094,258.95211658570435,38.57699523740799,21.20055517002082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199483:1898080401:0724/pct:4.979073459373647,86.3173721952348,12.858998412469331,7.066851723340273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

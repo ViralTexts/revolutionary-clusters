@@ -88,7 +88,7 @@ General of the coleny &amp; dominion of Pirginia, and Vice Admiral
 of the fame, to the General Assembly, converted at the Capitol,on -  
 Tuejday the 7th of Noewember 1469. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769120801:0379/pct:4.741563434429731,28.428634425988534,28.193079880392993,3.6307511392032925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769120801:0379/pct:4.741563434429731,28.428634425988534,28.193079880392993,3.6356509383115294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ ny great virtues and amiable qualities which adorned
 this noble Lord, as well in his public as private charac­  
 ter, would demand the (kill of the ablest penman. Suf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1770110801:0026/pct:70.06949436855979,15.837275307473982,50.179726815240834,15.345316934720909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1770110801:0026/pct:54.30853039494862,12.28370319679343,38.90058189922001,11.89265812884935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ General and Commander in Chief of the Colony and Dominion of
 Virginia, and Vice-Admiral of the fame, . .  
 Truly and justly to express the many great Virtues and amiabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1770111601:0564/pct:37.48710542603672,50.65871585078352,27.17144625541572,3.6056025516571903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1770111601:0564/pct:37.49398253215047,50.667960985531366,27.164569149301975,3.600979984283271/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ the superior officers set over him, according to
 the rules and discipline of war. Given under  
 my hand, at the city of Richmond, this 20th da
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn99066040:00206539884:1861121401:0653/pct:277.18724448078495,159.24084952553096,50.94031071136549,20.485012803133003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn99066040:00206539884:1861121401:0653/pct:69.32515337423312,39.81021238138274,12.740286298568508,5.121253200783251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ or superior officers sut over him according to the itules
 and Discipline of War,   
 Given under my hand, in the city of Nash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn85038553:00212470442:1868062601:0523/pct:57.07196029776675,82.53486961795028,52.191894127378,16.79805942995755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn85038553:00212470442:1868062601:0523/pct:14.276846679081316,20.63371740448757,13.056072832609145,4.199514857489388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ minion of Virginia, and Vice-Admiral of the
 same, dated at Williamsburg, June 13,1772,  
 in the seventh year of the &quot;reign of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742046:1873032801:0309/pct:169.24932975871315,38.05245485071241,40.20107238605898,8.821127144023958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742046:1873032801:0309/pct:56.41644325290438,12.684151616904135,13.400357462019661,2.9403757146746528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ Company in Arms, both inferior Officers
 and Soldiers, and to keep them in good Or­  
 der and Discipline; and they are hereb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197607:1875051901:0499/pct:19.671201814058957,6.340026189436927,14.767573696145124,14.720646006110869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197607:1875051901:0499/pct:14.755492558469172,4.757747708424269,11.08433734939759,11.043212570929725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -685,7 +685,7 @@ the said Company in Arms, both infer
 for Officers and Soldiers, and to keep  
 them in good Order and Discipline; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:0020029628A:1875052801:0290/pct:55.326162387231086,210.4972375690608,34.09090909090909,20.718232044198896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:0020029628A:1875052801:0290/pct:18.451657698316264,70.1657458563536,11.369553896892901,6.906077348066298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ minion of Virginia, and Vice­
 Admiral of the same,” is on file  
 in the office, issued by authorit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349207:1882110401:1171/pct:2.359238699444885,45.80564784053156,14.591593973037272,2.8792912513842746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn84038206:00393349207:1882110401:1171/pct:2.358771060455897,45.799307958477506,14.593657086223985,2.8823529411764706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

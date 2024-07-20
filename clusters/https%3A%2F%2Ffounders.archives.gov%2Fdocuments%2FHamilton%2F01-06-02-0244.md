@@ -36,7 +36,7 @@ ance and care of the fame; and th&lt;
 President is hereby authorized to maki  
 the said appointments. That the nu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042301:0001/pct:7.160493827160494,78.97804546337673,20.462962962962962,6.197785117544201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792042301:0001/pct:7.183641975308642,78.9829026617447,20.44753086419753,6.197785117544201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -64,7 +64,7 @@ ced four buoys on the shoals called th?
 South and North basics of the harbor or  
 entrance of the inlet leading to the town o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808042601:0141/pct:4.202157864849517,74.28318807629152,17.546848381601365,8.273335859542756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808042601:0141/pct:4.201362604087812,74.27380651679717,17.54983598284128,8.276500799865286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ wages, or hire, of the person or persons
 to be appointed by the President for the  
 superintendence of the same
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820062701:0203/pct:56.66492420282279,30.4419798046681,17.48562467328803,11.05777189207085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820062701:0203/pct:56.65011758557617,30.436941410129098,17.487588189182127,11.06007944389275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ lakes and navigable rivers The convent
 j led to the gradual extension of these ex­  
 penditures ; io the erection ©fligh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:0039334894A:1834121101:0617/pct:15.38162750048553,5.56469298245614,28.976500291318704,85.26589912280701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:0039334894A:1834121101:0617/pct:15.37864077669903,5.563930382348911,28.975728155339805,85.25764012607921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

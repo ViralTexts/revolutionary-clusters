@@ -596,7 +596,7 @@ lon of coffee made and sold, and In 1G75
 King Charles Issued a proclamation to  
 shut up the coffee ‘houses, because the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583231:1896080801:0810/pct:79.26464300983326,55.02994011976048,14.087216759298846,3.9520958083832336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn85044812:00340583231:1896080801:0810/pct:79.2477025005343,55.02170333782368,14.089549048942082,3.955246220625655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ Charles Issued a proclamation to shut up
 the coffee houses because they were semi­  
 naries of sedition. The French first con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665611:1896080901:0405/pct:93.87755102040816,75.37370803792602,16.115794143744456,11.488852823097293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665611:1896080901:0405/pct:70.43159880173083,56.53028102844452,12.09364251636525,8.618775091825404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -668,7 +668,7 @@ gallon of coffee made and sold; and in
 1765 King Charles issued a proclama­  
 tion to shut up .the coffee houses be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473509:1896100101:0370/pct:66.46727656579873,10.803639120545869,49.73610133708656,131.77912560020218/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473509:1896100101:0370/pct:44.33298134459697,7.202426080363912,33.17493840197114,87.85696234521102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ gallon of coffee made and sold and in
 1765 King Charles issued a proclama­  
 tion to shut up! the coffee houses be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918163:1896100201:0342/pct:44.89001362663033,105.23921136081621,17.189020829277787,6.879911760650765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918163:1896100201:0342/pct:35.91154485049834,84.19059524247216,13.751038205980066,5.5075554248317955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -751,7 +751,7 @@ gallon of coffee made and sold; and in
 1765 King Charles issued a proclama­  
 tion to shut up the coffee houses be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_frederick_ver03:data:sn89060092:00279521894:1896100901:0324/pct:43.01494476933073,34.44051825677268,13.060428849902534,13.321554770318022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_frederick_ver03:data:sn89060092:00279521894:1896100901:0324/pct:43.02577431232402,34.44444444444444,13.049599306909249,13.321554770318022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -798,7 +798,7 @@ gallon of coffee made and sold; and in
 1705 King Charles issued a proclama­  
 tion to shut up the coffee houses be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028782:1896102201:1014/pct:42.309322033898304,39.06356801093643,12.076271186440678,13.465481886534517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lydia_ver01:data:sn87080287:00296028782:1896102201:1014/pct:42.309322033898304,39.07496012759171,12.076271186440678,13.454089769879243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -821,7 +821,7 @@ gallon of coffee mado and sold; and in
   
 tion to shut up the coffee houses b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020448:1896110501:0159/pct:77.72184936614467,27.3008109151757,15.678598061148397,4.003089200669327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058248:00296020448:1896110501:0159/pct:58.306917769904906,20.478826103745657,11.76580272235689,2.999098983138113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -895,7 +895,7 @@ gallon of coffee made and sold; and in
 1765King Charles issued a proclama­  
 tion to shut up the coffee houses b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211105148:1896112601:0195/pct:129.12979351032448,136.387184730743,45.64896755162242,47.880027266530334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_blackwidow_ver01:data:sn84021913:00211105148:1896112601:0195/pct:32.30031359527762,34.09679618268575,11.41855746172293,11.970006816632583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

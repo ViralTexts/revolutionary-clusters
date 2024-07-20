@@ -81,7 +81,7 @@ be paid at the expiration of one year, the se­
 cond at the expiration of two years ; and the  
 third and last at the expiration of three year
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802042701:0068/pct:78.22788651191019,28.9247311827957,16.14322561068123,9.3841642228739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802042701:0068/pct:78.22788651191019,28.9247311827957,16.148283012188337,9.390681003584229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -38,7 +38,7 @@ perfedeas; and whereupon such writ of error the Supreme or circuit
 court shall affirm a judgment or decree, they Oiall adjudge ordccrec  
 to the respondent in error just damages for his delay, and single o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789111101:0004/pct:19.18588101337888,41.09902690326274,25.362937660119556,6.239267315397825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789111101:0004/pct:19.20011386279533,41.10379698530815,25.348704810703104,6.244037397443236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -66,7 +66,7 @@ complained of.&quot; He said that the benefit of a fuperfedeas was an
 important one, and wss intended for all the citizens of the Union ;  
 &quot;but on the conftruftion of the defendants in error, it could be en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791081301:0001/pct:6.630824372759856,61.12160120845922,26.76224611708483,8.629154078549849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791081301:0001/pct:6.630824372759856,61.13104229607251,26.777180406212665,8.629154078549849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ rendering of the judgment complained
   
 of, and giving the security require
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283405:1884042401:0161/pct:66.36363636363636,262.1706007243662,43.84615384615385,32.221805919820156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283405:1884042401:0161/pct:16.59090909090909,65.54265018109155,10.961538461538462,8.055451479955039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

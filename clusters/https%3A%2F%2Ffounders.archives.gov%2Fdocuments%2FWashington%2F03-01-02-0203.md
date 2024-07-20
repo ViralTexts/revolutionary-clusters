@@ -1564,7 +1564,7 @@ modation.
 I am, sir. your most obedient, hum­  
 ble servaot, ^ THOMAS G.\UK
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830111701:0186/pct:1.03029371059511,5.868249800205503,31.170229125019222,87.09898390227195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1830111701:0186/pct:1.0301353013530135,5.867579908675799,31.170561705617057,87.09284627092846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1808,7 +1808,7 @@ Should those under whose usurped authority you
 &quot;knoss all hearts, be the appeal for the dread ul conse­  
 quences.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861071001:0036/pct:18.00844145693294,149.9327203408836,39.73737689541973,18.984077147342454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184728:1861071001:0036/pct:6.001875586120662,49.97196995178832,13.243721996457227,6.327316216317225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1971,7 +1971,7 @@ the land, the being of the Constitution,
 will meet all events with becoming  
 fortitude.&quot; What could be more su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1876080901:1035/pct:93.62041467304626,287.5820808405078,40.19138755980861,15.817889975193346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1876080901:1035/pct:23.414439569206223,71.89552021012695,10.051854806541684,3.9544724937983364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1994,7 +1994,7 @@ the land, the being of the Constitution,
 will meet all events with becoming  
 fortitude.&quot; What could be more s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1876080901:1036/pct:93.86942675159236,287.1497023377378,39.968152866242036,15.73979962247713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1876080901:1036/pct:23.46735668789809,71.78742558443444,9.992038216560509,3.9349499056192827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2038,7 +2038,7 @@ care and kindness indiscrimately, it is
 true, for I acknowledge no rank that is  
 not derived Irom the king.&quot; In thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1890031501:0266/pct:49.207264341308736,62.19920804142553,14.024214471029115,6.152908924763936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742812:1890031501:0266/pct:49.21206879984626,62.20597691813044,14.029018929566638,6.14952448641148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

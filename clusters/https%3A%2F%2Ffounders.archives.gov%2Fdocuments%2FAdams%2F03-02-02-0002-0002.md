@@ -1436,7 +1436,7 @@ And blown with restless violence ronnd about
 The pendent world; or to be worse than worst  
 Of those that lawless and inccrtain though
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877111101:0004/pct:68.99363564041369,11.410217191801774,12.251392203659506,5.521566228204343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877111101:0004/pct:68.99363564041369,11.417864790455797,12.261336515513127,5.529213826858366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2032,7 +2032,7 @@ ment
 Can lay on nature is a paratäse  
 To what we fear in deat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536500:1893031201:0699/pct:257.90613718411555,333.82609864265555,49.31407942238267,29.33745464319312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536500:1893031201:0699/pct:64.48817476078715,83.45652466066389,12.33074562195342,7.33436366079828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2068,7 +2068,7 @@ Massachussetts Medical- Society cata­
 logue of its officers, fellows and licen­  
 tiates, 1781-1.93; Providence publi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206536809:1894060801:0371/pct:5.447284345047923,36.1059306229019,10.591054313099042,1.6163123212731567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206536809:1894060801:0371/pct:5.451277955271565,36.109038915827426,10.603035143769969,1.6318537859007833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

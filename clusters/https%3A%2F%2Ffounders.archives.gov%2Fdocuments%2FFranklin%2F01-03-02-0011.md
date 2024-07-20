@@ -168,7 +168,7 @@ tficienby of ?u&gt;d that fills the muscles appears
 at tn the highest part soonest grows  
 Wrinkled and lank. Therefore the age that shows i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210181:1886092601:0223/pct:5.212710084033613,50.09882352941177,14.640231092436975,22.089411764705883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210181:1886092601:0223/pct:5.212710084033613,50.09882352941177,14.640231092436975,22.098823529411764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ bryA„d , lastly, they are so grateful.
 Thus much for my j&gt;aradox. But still I advise vou  
 to marry directly, being sincerely your affectionat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210181:1886092601:0223/pct:5.357142857142857,73.82588235294118,14.456407563025211,2.7858823529411763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210181:1886092601:0223/pct:5.357142857142857,73.82588235294118,14.47391456582633,2.7890196078431373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -291,7 +291,7 @@ face soonest grows wrinkled and
 lank. Therefore the age that shows  
 in the visage, is not necessarily proo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1886093001:0940/pct:23.273657289002557,5.436820397450319,28.96845694799659,108.93638295213098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1886093001:0940/pct:19.782608695652176,4.624809660398739,24.6231884057971,92.59534686072453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ Thus much for my paradox. But
 still I advise you to marry directly,  
 being sincerely your affectionat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1886093001:0940/pct:37.971014492753625,15.848018997625298,13.947144075021313,6.174228221472316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_bowbells_ver01:data:sn84024779:00295863699:1886093001:0940/pct:32.28019323671498,13.477814370197246,11.859903381642512,5.244519990084635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ Thus much for my paradox. But still
 I advise you to marry directly , being  
 sincerely your aUectionatu friend 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538156:1886101001:0922/pct:42.139959432048684,46.61633863575088,16.024340770791074,53.01968185494743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:00206538156:1886101001:0922/pct:31.614539306847,34.96562415745484,12.02028740490279,39.77150175249393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ highest part. The face soonest grows
 wrinkled and lank. Therefore the age  
 that shows in the visage is not necessaril
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535568:1886101301:1087/pct:124.67419635099913,170.12926335461765,55.43006081668115,139.83803145927425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535568:1886101301:1087/pct:31.16854908774978,42.53231583865441,13.857515204170287,34.95950786481856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ I advise you to marry directly, being sin
   
 cerely your affectionate frien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535568:1886101301:1087/pct:124.58731537793223,317.3337486372839,54.82189400521286,16.118984581840834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_hotel_ver02:data:sn86064205:00206535568:1886101301:1087/pct:31.146828844483057,79.33343715932098,13.705473501303215,4.029746145460209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ the mnscles appears first in the highest!
 f&gt;art. The face soonest grows wrinkled and  
 ank. There fore the age that shows in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627695:1887031201:0050/pct:8.438985736925515,23.39463370515526,15.61014263074485,2.8791076273741334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627695:1887031201:0050/pct:6.550330075226447,18.138629283489095,12.092523412312573,2.2274143302180685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -612,7 +612,7 @@ adox, and demand my reasons.&quot; Franklin
 goes on to give eight, of which three must  
 be passed over in silence. Some of them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898120401:0441/pct:80.91660405709993,227.94319743472286,49.812171299774604,17.407237746220797/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898120401:0441/pct:20.232951343227505,56.985799358680715,12.455382303212474,4.351809436555199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ give you frequent bitter reflections, none of
 which can attend the making an old woman  
 happy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898120401:0441/pct:80.46581517655898,245.41151320812338,50.187828700225396,44.281569705298516/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043032:1898120401:0441/pct:20.120232951343226,61.352878302030845,12.54931429644937,11.070392426324629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ a prudent healthy wife jour Indus
 try In your profession with her good  
 economy will be a fortune sufficien
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052116:00206534229:1899081601:0124/pct:69.00269541778975,100.50407134548274,14.167789757412399,13.0283055447848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_casablanca_ver01:data:sn85052116:00206534229:1899081601:0124/pct:51.76946410515672,75.37805350911206,10.633636670037074,9.780922838309422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -945,7 +945,7 @@ ceed In the world. A single man his
 iin your profession, with her goid  
 economy, will be a fortune sufficient.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_nisswa_ver01:data:sn90059523:00206533961:1899111201:0131/pct:15.980460572226098,74.2301133513893,13.007676203768318,10.321998194402648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_nisswa_ver01:data:sn90059523:00206533961:1899111201:0131/pct:15.980460572226098,74.2301133513893,13.01232844847639,10.332029290801485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -36,7 +36,7 @@ in fterling money of the exports of the United Siates,
 front Great Britain and Ireland, for the years ISO?,  
 1803,and ISO-!, on which luch dutin- are charged
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805030801:0375/pct:24.91676888032241,24.608941987929548,16.62870159453303,5.431703411750216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1805030801:0375/pct:24.91240364400841,24.60591133004926,16.63162812427003,5.435139573070607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ United States, from Great-Britain and Ireland,
 for the years 1802, 1803, and 1804, on which  
 fuch daties are charged
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1805031401:0622/pct:5.77969600300244,70.50433591967138,19.70350910114468,7.6335006846188955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1805031401:0622/pct:5.792206167511103,70.51194279628784,19.716019265653344,7.637304122927126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ such la ws of Givat Britain, as impose
 any higher or greater duties on the ex­  
 portation of goods,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805110801:0003/pct:1.355319629545968,57.66845221313786,18.590467585272194,3.89061178460671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805110801:0003/pct:1.355319629545968,57.67315101964101,18.605526692267148,3.8859129781035615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ itwlmg money, of the exports to the United States,
 from Great Britain and Ireland, for the years 1802,  
 1803, and 1804, ou which fuch duties are charged, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805111501:0223/pct:22.779342723004696,5.855797755707468,17.859154929577464,5.081903779182252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805111501:0223/pct:22.77506571535862,5.855042558679392,17.862060332957817,5.085547244432981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ from Great Britain and Ireland, for
 the years 1802, 1803, and 1804, on  
 _which such duties are charged
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805112601:0190/pct:25.727244291523302,8.105515587529975,16.8282765092274,9.96642685851319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805112601:0190/pct:25.737670732978835,8.111910471622702,16.823063288499636,9.969624300559552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ posed on similar articles exported to the nations of
 Europe- It^ls neither more nor less than a commer­  
 cial regulation ; a part of the system of managin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806041601:1064/pct:26.288659793814432,8.290816326530612,21.10947471772214,5.404974489795919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806041601:1064/pct:26.282208588957054,8.28949465965248,21.11042944785276,5.4080981986290455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

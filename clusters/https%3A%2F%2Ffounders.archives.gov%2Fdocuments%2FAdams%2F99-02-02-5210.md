@@ -276,7 +276,7 @@ Returning were as tedious as go o&#x27;er.&quot;
 EUEcTIONs in NoVA ScoTIA. The election for  
 Members of the Legislature of Nova Scotis was held o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530261:1847081901:0067/pct:5.181266531818889,173.1270358306189,40.345417768787925,10.01628664495114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530261:1847081901:0067/pct:1.7270888439396297,57.70901194353963,13.448472589595974,3.3387622149837135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ We have not insisted on the instant withdrawal
 of our Army from Mexico. What we insist on is  
 that the Whigs shall not vote men and money fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530261:1847082801:0100/pct:47.683965917893104,67.72711611347192,40.71262587141751,8.820489261513725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530261:1847082801:0100/pct:15.894655305964369,22.575705371157305,13.570875290472502,2.9401630871712414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ and that nothing was more cruel and insulting than
 to hold out as a resource to the starving fishermen  
 of Nen-England, that, after the plenty of the ocean
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855071601:0515/pct:151.5593895155939,143.69331237150803,48.15859323158593,11.198452049824647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855071601:0515/pct:50.51979650519797,47.89777079050268,16.052864410528645,3.732817349941549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ condition of Macbeth, when he exclaimed
 Stept in so far, that, should I wade no more.  
 Returning were as tedious as go o&#x27;er.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1857082901:0477/pct:30.060728744939272,119.69039637152436,15.941295546558704,4.003155196213765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1857082901:0477/pct:20.043021637352904,79.7968842437389,10.628875110717448,2.6720567935318478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ All canses shall give way; I am in blood
 Stept in so far, that, should I wade no more.  
 Returning were as tedious as go oer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863111001:0476/pct:203.81586917019987,155.31966224366707,39.309509388249545,4.969843184559711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:0020029001A:1863111001:0476/pct:50.96940321114813,38.82991556091677,9.830354438049076,1.2424607961399277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -559,7 +559,7 @@ Returning were as tedious as go o&#x27;er&#x27;-
 so this Republican party finds itself  
 compelled to proceed, either from 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529340:1867100401:1696/pct:48.2280173854898,233.4568491513268,37.91374122367101,6.932823332536457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025167:00279529340:1867100401:1696/pct:16.07600579516327,77.81894971710894,12.63791374122367,2.310941110845486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ There are thousands of men in New England
 to-day who, two years ago, would have re­  
 buked such views as I have expressed to you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:0029455838A:1878042201:0409/pct:67.76937618147448,123.6658078763342,49.716446124763706,26.499815973500183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:0029455838A:1878042201:0409/pct:16.954362733506738,30.91645196908355,12.437928588318751,6.624953993375046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ Returning were as tedious as go o&#x27;er.&quot;
 In response to Macbeth&#x27;s demand, there  
 appears the apparition of an armed ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020758:1888021401:0369/pct:221.94381169324222,186.74141555711282,49.278663629460894,10.20322354590049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020758:1888021401:0369/pct:55.49648756407822,46.685353889278204,12.32200493639643,2.5508058864751226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

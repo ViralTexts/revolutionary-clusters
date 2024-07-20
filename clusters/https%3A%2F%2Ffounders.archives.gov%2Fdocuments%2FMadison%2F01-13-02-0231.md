@@ -1422,7 +1422,7 @@ make the eftablithed government more and more instrumental in
 promoting the good of our fellow citizcns, and more and more  
 theobjcft of their attachment and confidence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790121101:0001/pct:4.921898025346302,18.55915158164198,54.75979958738579,71.89614189065642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790121101:0001/pct:4.944002357795461,18.572865240446152,54.752431476569406,71.89157067105504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1565,7 +1565,7 @@ the nations most concerned in aéive
 commerce with this country, to abridge  
 the means, and thereby at least enhance
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790122501:0720/pct:50.65217391304348,5.3749597682652075,42.48792270531401,86.5143224975861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790122501:0720/pct:50.668276972624795,5.3749597682652075,42.49597423510467,86.51968672889176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1679,7 +1679,7 @@ of their attachinent and confidence.
 (S‘;g ne.z&#x27;)  
 : George Washington.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790122501:0721/pct:3.999018645731109,5.636304909560724,22.301275760549558,82.34819121447029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790122501:0721/pct:4.015374550212627,5.647071490094746,22.2930978083088,82.3535745047373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2675,7 +2675,7 @@ j&#x27;th. The preamble of the nil of 3d March
 fuiy of the receipts and .expendit^*/rom the  
 commencement of the government to tjv; o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032001:0002/pct:12.062833432128038,6.581352833638026,40.24896265560166,84.91773308957953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032001:0002/pct:12.077652637818613,6.585923217550274,40.256372258446945,84.92230347349178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2720,7 +2720,7 @@ the truvsfioricr ion if cur own /.rod,ice. &#x27;ffer
 ns abundant means f.rguarding onrselves a.  
 gainst this i vil.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804110301:0337/pct:77.60336906584992,61.96447230929989,17.955589586523736,19.971264367816094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804110301:0337/pct:77.58851674641149,61.95637978320491,17.9585326953748,19.973009446693656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2754,7 +2754,7 @@ dingly authorised au expedition, in which the regu­
 lar troops hi that quarter arc combined with such  
 drafts of tnilida as were deemed sufficient.” Thus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812080701:0110/pct:23.919468045807168,26.085361379479025,17.565570742519395,9.649015531368473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812080701:0110/pct:23.91505078485688,26.082171680117387,17.568482610033858,9.651911632836065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2839,7 +2839,7 @@ jects for which the public faith stands now
 pledged.&quot; The President also states that a loan  
 of three millions of florins had been readily effect.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843052501:0300/pct:6.49662415603901,170.83333333333334,48.987246811702924,38.15136476426799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843052501:0300/pct:2.1655413853463368,56.94444444444444,16.329082270567643,12.71712158808933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2928,7 +2928,7 @@ doubted, and whose authority is seldom questioned, that, 111 donor
 a case not stronger than the one now before us, it is not Sir,  
 only competent for Congress to admit a State into the Union, pie 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849022801:0246/pct:16.23095429029671,56.835961753383835,17.48195669607057,8.568235440208618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661137:1849022801:0246/pct:16.23095429029671,56.84010099755785,17.487302860197808,8.568235440208618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3037,7 +3037,7 @@ funded, as far and as fast as the growing re
 sources of the country will permit, to exoner.  
 ate it of the principal itself.-Washington&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn90061739:00280779660:1881040701:0430/pct:108.2246740220662,270.61958694203867,68.60581745235707,18.72085276482345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn90061739:00280779660:1881040701:0430/pct:27.076537013801758,67.65489673550967,17.164366373902133,4.680213191205863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3068,7 +3068,7 @@ jagriculture less dependent on foreign bottoms,
 which may fall us in the very moments most  
 interesting to both of these great objects.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886031301:0296/pct:209.7560975609756,110.74780502573418,43.75,32.81864971238268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886031301:0296/pct:52.459016393442624,27.686951256433545,10.94166984369043,8.20466242809567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3141,7 +3141,7 @@ agriculture less dependent on foreign bottoms.&quot;
 A MISAPPLIED SAYiND.  
 Washington has always been quoted more o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:0017503710A:1899120301:0055/pct:100.0,116.03221891206003,48.04287802501218,12.33587112435176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:0017503710A:1899120301:0055/pct:33.333333333333336,38.67740630402001,16.01429267500406,4.111957041450586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

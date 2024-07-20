@@ -65,7 +65,7 @@ mch regulations as will prevent advantage
 !&gt;e.ug taken of it for improper purposes  
 JAMES MADJSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111201:0221/pct:23.978201634877383,29.26889409443965,16.8755676657584,9.394649241770436/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812111201:0221/pct:23.97384671267708,29.265285996055226,16.87855672599588,9.397600262984879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ vill prevent advantage being L*.kcu ui it for &gt;
 ;t*proper purposes. t  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812111201:0285/pct:11.272401433691757,5.547067810553531,34.42652329749104,88.58855329650957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812111201:0285/pct:11.270381652033686,5.54641598119859,34.4263274204145,88.58206032119075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ made in favor of alicng entitled to the con- .
 ‘mplared benefit, vader such regulutions,  
 a 8 will prevent advantage beivg takew o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812111701:0402/pct:76.36812085709882,83.12095667516174,17.064899028826886,8.674769653009214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812111701:0402/pct:76.37325933919121,83.12422400836438,17.070037510919274,8.674769653009214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ uniform rule of naturalization, which
 was twice,re«d and referred tea commit­  
 tee ot the whole hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812111901:0187/pct:21.511017838405035,82.71354120660719,16.5192624793884,2.8177722816005653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812111901:0187/pct:21.50779376498801,82.70623564741211,16.521782573940847,2.820467526349879/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ position.
 THE BUDGET.  
 The Speaker laid before the house a le
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813060701:0177/pct:7.786811201445348,44.785791431657266,16.85636856368564,11.172446897875915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813060701:0177/pct:7.785404624277457,44.78041756659467,16.859344894026975,11.17510599152068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ ji bill supplementary to the acts heretofore
 , floated on the subject of an uniform rule  
 ) of naturalization
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813061501:0052/pct:23.11002994011976,29.790962573538614,18.244760479041915,1.777443985480035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1813061501:0052/pct:23.105706267539755,29.78723404255319,18.24758341128781,1.7813934084272007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ terwhite passed through a committee of the
 whole, and was ordered to be engrossed for  
 a third
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813072601:0232/pct:22.881047653692253,26.19898902724695,17.31538741360495,10.07274072247565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813072601:0232/pct:22.87688670667394,26.195759368836292,17.3183002970237,10.07560815253123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ fore passed upon the subject of an uniform
 rule of naturalization.  
 An act to establish the town of Mobile 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813080601:0070/pct:5.346266636589217,47.23684210526316,22.039251071509135,3.5526315789473686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813080601:0070/pct:5.345060893098782,47.229937143692446,22.041798225830703,3.5569848462700384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ passed upon the subject of an uniform rule of
 naturalization.  
 An act to establish the town of Mobile a por
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813081101:0567/pct:30.58971141781681,40.45789043336059,21.304893350062734,2.7636958299264105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813081101:0567/pct:30.58203712995484,40.45127534336167,21.30582037129955,2.7673315892740353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ tofore passed upon the subject of an uni*
 form rule of naturalization. .  
 An set to establish the town of Mobil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081101:0475/pct:80.36117381489842,51.54415748600325,16.373212942061702,2.3478417915838903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081101:0475/pct:80.34908215467951,51.53950338600451,16.37576487110041,2.3506395786305494/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ The reason here assigned for retaining the bill was,
 beyond doubt, the true one. It proceeded from a  
 man of proverbial conscientiousness?from a Chie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848110401:0383/pct:2.1519167735499503,17.363344051446944,15.989739204788371,8.814724470562146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848110401:0383/pct:2.161417509857014,17.367039952692465,15.98498883663484,8.822116273053185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ as the basis of his objection; and most certain­
 ly it is not a reason founded on the Constitu­  
 tion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854051301:0478/pct:69.31894807821982,20.64887152777778,13.095077545515846,5.848524305555555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854051301:0478/pct:69.31894807821982,20.64887152777778,13.099572937738818,5.855758101851852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -136,7 +136,7 @@ tures, buildings&#x27;and inventions of itsinhab.-
 itants. Compiled front Hifterical and Ge­  
 ographical works of efiabiifhed celebrity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805082001:0136/pct:60.34085674804238,54.95158661681526,15.937356057116537,5.886300450580002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805082001:0136/pct:60.35109268642203,54.95478221966574,15.937356057116537,5.886300450580002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ manufactures, buildings, and
 inventions of its inhabi­  
 tants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807060301:0180/pct:76.57349305951702,53.553719008264466,18.311466058185967,15.575333757151938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807060301:0180/pct:76.55893536121673,53.546910755148744,18.314321926489228,15.577591321298415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ manufactures, buildings, and
 inventions of its inhabi­  
 tants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807062001:0209/pct:42.414386837574135,55.19373974504607,18.74880428544098,15.41082923135176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807062001:0209/pct:42.40627390971691,55.18677435638566,18.751593981127264,15.413091031465589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ manufactures, buildings, and
 inventions of its inliabi­  
 , tants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807070801:0225/pct:78.07881773399015,68.6,18.510799545282303,15.575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807070801:0225/pct:78.06402727789354,68.59142607174103,18.51360737513418,15.577219514227389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ ture and art, or a conc ise account of
 what is most curious and remarkable in  
 the world, 14 vols, plates, Sterne’s works
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1838020901:0437/pct:80.27528286480812,20.460377945407885,15.42050624052257,2.1308033284081187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1838020901:0437/pct:80.26592022393282,20.458786936236393,15.422595443589145,2.133229652669777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

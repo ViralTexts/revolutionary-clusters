@@ -206,7 +206,7 @@ are unequivocal to attest his greatness and perpetuate the hon,
 ors of his name. His abilities entitled liim to a preeminent  
 thare in the counsels of his Chief. He gained it and he pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530558:1857080601:0249/pct:53.249958861280234,188.67438867438867,47.21079480006582,5.101205101205101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530558:1857080601:0249/pct:17.749986287093414,62.89146289146289,15.73693160002194,1.7004017004017005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ ors of bis name. His abilities entitled him to a preeminent
 share in the counsels of his Chief. He gained it and he pre-  
 served it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530558:1857080801:0265/pct:99.62759067357513,97.83152627189324,46.59974093264249,6.147980459907066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530558:1857080801:0265/pct:33.20919689119171,32.61050875729775,15.533246977547496,2.0493268199690218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ are unequivocal to attest his greataens and perpetuate the hon.
 ors of his name. His abilities entitled him to a preeminent  
 thare in the counsels of his Chief. He gained it and he pr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530558:1857081101:0281/pct:52.45955221441412,107.51020408163265,47.32799477038732,5.061224489795919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530558:1857081101:0281/pct:17.486517404804708,35.83673469387755,15.775998256795774,1.6870748299319729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ merit need not the coloring pencil
 ot imagination, nor the florid decor­  
 ations of rhetoric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349086:1886042401:0424/pct:5.103448275862069,89.44984680964433,11.10344827586207,4.675636072998535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349086:1886042401:0424/pct:5.102568522668506,89.43793287160362,11.10584382003103,4.678343100692595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ service, this honored citizen of the Republic lays
 down his burden as poor in worldly wealth as when  
 he began his career, honored by the record and faith
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887010101:0007/pct:7.74896876841485,104.69720905739864,19.31349440188568,3.654555028962612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745680:1887010101:0007/pct:5.820807544945476,78.52553975776725,14.48570586501621,2.738283307003686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

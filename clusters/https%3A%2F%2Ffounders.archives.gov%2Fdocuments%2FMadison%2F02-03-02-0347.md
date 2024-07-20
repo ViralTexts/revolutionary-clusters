@@ -119,7 +119,7 @@ bills on I ilaifd to that amount: That
 Periods of payment for the instalments  
 due per the above statement
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802112901:0002/pct:6.531757162893208,4.520495466734772,35.16329392907233,90.23113267781892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802112901:0002/pct:6.546784211580846,4.530072787638871,35.18166032191277,90.23219682458604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -178,7 +178,7 @@ nited States (hall fell to him the two thou­
 fand two hundred and twenty (hares of  
 the Sank of th? United State*, owned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802112901:0002/pct:24.464035263474255,62.92938322053378,16.91043878982168,29.97062954922743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802112901:0002/pct:24.477392640085487,62.93896054143787,16.912108461898082,29.973821989528794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ of t/x Sinking fund* J
   
 —-- * r. I &gt; C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802112901:0002/pct:42.296133039471044,3.2179798237772954,34.70246443598477,90.07789554335334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802112901:0002/pct:42.31282976023509,3.2179798237772954,34.70747345221398,90.09172945132593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -382,7 +382,7 @@ sings},
 TEDWAPD joxzs, Sat-starry.)  
 lo the Bazzra&#x27; quommissi. s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803010101:0009/pct:1.8120393120393121,9.2481468408048,23.617936117936118,69.18460995411225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803010101:0009/pct:1.8117610931982189,9.247330803847172,23.619427811044577,69.18144651313274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ ceeds to pay oﬀ a debt of upwards of four
 millioos due to the Bank of the U. States,  
 and then presiingly demanded. But now
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803041501:0308/pct:31.079203334877256,18.15852257665459,21.846533889146208,27.489617389767606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803041501:0308/pct:31.07440568076567,18.156918183424633,21.848307090665845,27.490133710313955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ poccr.S to pay oiradeoc of upwards
 United States, and then preffin-dv Jc­  
 inamicd. ikicnow, inx3o2, three per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024679:00414184364:1803051801:0154/pct:30.25027203482046,21.215553038882597,20.60210373594487,30.89216056373474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024679:00414184364:1803051801:0154/pct:30.244786944696283,21.2128837443382,20.604412209126625,30.89246770676061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

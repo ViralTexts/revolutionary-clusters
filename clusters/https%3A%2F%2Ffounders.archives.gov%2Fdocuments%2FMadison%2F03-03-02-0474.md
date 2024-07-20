@@ -334,7 +334,7 @@ I iic^iuncii between the governor and
 the Indian chiefs closed on Wednesday e­  
 vening. The celebrated Tecumseh was th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811082601:0285/pct:41.04408780667774,5.532503457814661,17.967164729754657,41.73267949201559/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811082601:0285/pct:41.03651789007746,5.531807895398542,17.96999877044141,41.73162350180203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ sufficient proof of coincidence of senti.
 mem, in that which relate* te the oonti­  
 peat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811083001:0136/pct:5.2111903455842015,43.07577454273983,17.80947156701408,40.79880552444942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811083001:0136/pct:5.210237659963437,43.07041552625031,17.81230956733699,40.79787675209422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ never be secured but by the prEAkING UP
 of the combination formed by the Shawanee  
 Prophet on the Wabash.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836060101:0464/pct:4.2434394193188165,10.077519379844961,15.55927787083566,4.303662122427158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1836060101:0464/pct:4.24964327811899,10.08197451661766,15.55927787083566,4.317027532745255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

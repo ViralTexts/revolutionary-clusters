@@ -62,7 +62,7 @@ very departure by the enemy from the or­
 u*nary modes of conducting war ainomi civi­  
 lised nations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080501:0245/pct:4.841093865484109,45.16717325227963,17.239467849223946,3.7933130699088147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080501:0245/pct:4.840199519674857,45.161682470216384,17.24244103700967,3.796904125131696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ departure by the enemy trum the oidmary&#x27;
 modes of conducting war among civilised i  
 nations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813081601:0256/pct:57.99964086909679,23.843807199511897,17.29215298976477,3.7949969493593656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813081601:0256/pct:57.98922800718133,23.840897999023912,17.295032914422503,3.7986009435496992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ departure by the encmy from the ordinary
 modes of conducting war among civilized na­  
 tions. ———— 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813081901:0881/pct:51.78147268408551,74.50438899299733,22.463522225992534,4.684880165696814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1813081901:0881/pct:51.78147268408551,74.50767662820134,22.4691776948309,4.6914554361048095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

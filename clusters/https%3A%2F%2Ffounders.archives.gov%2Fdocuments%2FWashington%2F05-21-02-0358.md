@@ -76,7 +76,7 @@ Yes, beware of those men and their descen­
 dants who ever admired and sustained the  
 political career, of George Washington or wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840082201:0008/pct:37.397484964461455,65.79897105121708,14.969928922908693,14.758504184903632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215683:1840082201:0008/pct:37.39339602011808,65.79391891891892,14.971936730082367,14.759930384930385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ prospect of retirement is most grateful to my soul,
 and I have not a wish to mix again in the great  
 world or to partake in its politics.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875052801:0512/pct:6.583506583506583,261.5325177076626,43.52044352044352,24.365743721828718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558330:1875052801:0512/pct:1.6461618437012648,65.38312942691564,10.88199618783573,6.0914359304571795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ To be suffered to do this in peace,&quot; he
 added, &quot;is too much to be endured by  
 some.&quot; Accordingly, on that very day 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1884013001:0605/pct:320.2411714039621,51.20405576679341,57.27820844099914,12.279960568933953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777687:1884013001:0605/pct:80.07753607581306,12.801013941698352,14.322636226577643,3.0699901422334883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ place, and is bending his body to lean
 thereon. . To bo suffered to do this in  
 peace&quot; he added, &quot;is loo much , to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669227:1884013101:0417/pct:75.89592538046146,119.99412800939518,16.00392734413353,4.218046584458798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85026421:00415669227:1884013101:0417/pct:50.607585614336564,79.99608533959679,10.66650300724193,2.8185554903112156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ To be suffered to do this in peace,&quot; he
 added, &quot;is too much to be endured by  
 some.&quot; Accordingly, on that very day 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282310:1884013101:0533/pct:222.15099715099714,184.5863648612234,49.92877492877493,11.425491781191054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282310:1884013101:0533/pct:55.56743274541243,46.14659121530585,12.488865134509176,2.8563729452977635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ lean thereon. To be suffered to do
 this in peace,&#x27; he added, &#x27;is too much  
 to be endured by some.&#x27; Accordingly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033749:1897052701:0358/pct:85.94357154924819,8.49635374464637,13.515796587261361,4.491260562565111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033749:1897052701:0358/pct:85.94357154924819,8.504070687193733,13.52705975108408,4.491260562565111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

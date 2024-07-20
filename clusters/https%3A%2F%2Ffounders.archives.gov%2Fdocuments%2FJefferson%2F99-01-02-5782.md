@@ -93,7 +93,7 @@ kithful discharge of my dull* than owe
 psions of it to my pu tting myself in die  
 I if receiving them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830011401:0228/pct:2.2065124250214225,26.498733464677738,16.43101970865467,12.749788910779623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830011401:0228/pct:2.206039837224245,26.495004924722107,16.432855001070894,12.751512593217955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ i f in k so I i tom to P i o •«. ii I &quot;ill r I I
 unit ii&#x27;* it lo S \urmnh, p- fh ip. t • Oibiiiis an.I  
 Ei inkl &#x27;ii. As I h.tv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348847:1833071101:0374/pct:33.576186511240635,46.649373108517075,15.882597835137386,12.696353941490129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348847:1833071101:0374/pct:33.56919875130073,46.642651296829975,15.884495317377732,12.698126801152737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ a faiihtul discharge of my duties, than owe expres­
 sions of it to putting mi/self in the teat) of receiving  
 them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839112701:1142/pct:17.273482959268495,86.79585941261435,15.793848711554448,3.7674530572941745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839112701:1142/pct:17.284566361873097,86.79585941261435,15.793848711554448,3.7754774514524154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ which, to be valuable, should be purely voluntary.&quot; He in
 timates, however, that he might make a visit to Boston,  
 or Portsmouth, after his term of office had expired, bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843062301:0576/pct:132.55713045993636,127.55360848512797,38.32803008388776,9.62646991007609/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843062301:0576/pct:44.17932031814895,42.512968299711815,12.774162448782839,3.208453410182517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ ral States, as an object of public gaze, and in que(t
 of an applause, which, to be valuable, should be  
 purely voluntary.” lie intimates, however, thn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843062601:0606/pct:83.20258874289077,82.16071795574433,14.385173563443812,3.1581831883263685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843062601:0606/pct:83.19443082655162,82.15508973832031,14.387031408308005,3.160250262593049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ faithful discharge&#x27; ofiny -duties, than OWs ox
 pressions of it to my putting myself in the way  
 of receiving fhem.&#x27;&#x27;-jEmBsor, &#x27;;;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1861022001:0243/pct:40.0593471810089,33.590939373750835,17.025222551928785,5.676215856095936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026694:1861022001:0243/pct:30.055658627087197,25.19653564290473,12.782931354359926,4.263824117255163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ silent good will by a faithful discharge of my
 duties than owe expressions of it to my putting  
 myself in the way of receiving them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861022601:0505/pct:155.582406959884,11.6653530007882,45.73868213307556,21.866906879855872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861022601:0505/pct:51.86080231996134,3.8884510002627333,15.246227377691854,7.288968959951958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ expressions of it to my putting myself in the
 way of receiving them.&quot;-Jefferson.  
 ATLANTA VS. MoNTGOMery. The Mon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861022601:0107/pct:235.18930957683742,292.40895129442737,34.354120267260576,13.602457218078104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861022601:0107/pct:58.797327394209354,73.10223782360684,8.588530066815144,3.400614304519526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ my duties, than owe expressions of it to
 my putting myself in the way of receiving  
 them.&quot;JEsfersoN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1861041201:1456/pct:190.93521421107627,194.11652340019103,40.72622779519331,33.48615090735434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_auklet_ver01:data:sn83025141:no_reel:1861041201:1456/pct:63.64507140369209,64.70550780006367,13.575409265064437,11.16205030245145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ t&gt;od will by a faithful discharge of my
 titles, than owe expressions bf it by pntng  
 myself in thaway of. receiving theni.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190789:1866091501:0259/pct:25.28373266078184,50.27877992784519,12.862547288776797,10.150869137422106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190789:1866091501:0259/pct:25.299495586380832,50.29107904230895,12.867801597309795,10.163168251885864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ a faithful discharge of my duties, than .
 lat owe expressions of it by putting myself  
 to in the way of receiving them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190789:1866092201:0283/pct:48.958990536277604,22.75862068965517,14.027339642481598,4.351395730706075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_belgium_ver01:data:sn84026844:00202190789:1866092201:0283/pct:48.97476340694006,22.76272577996716,14.032597266035753,4.359605911330049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ faithful discharge of my duties, than
 one expressions of it by patting myself  
 in the way of receiving them”-vVol. 5
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664204:1866092701:0080/pct:39.48004836759371,15.704918032786885,14.223095525997582,15.748633879781421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664204:1866092701:0080/pct:39.49012494961709,15.712204007285974,14.233172108020959,15.748633879781421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ make a Presidential tour through the North
 North have proposed that I should make in  
 that daarter, I have not made up a final onin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528360:1866100501:0320/pct:54.28706774040739,248.1939277571103,32.48065687667772,11.124444977799111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528360:1866100501:0320/pct:18.095689246802465,82.7313092523701,10.82688562555924,3.7081483259330374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ expressions oi it vo my puuiug myseu iu
 the way of receiving them. Jefferson&#x27;s  
 TTT I 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775824:1866100501:0156/pct:113.11929595827901,48.55555555555556,15.596479791395046,17.320987654320987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026050:00280775824:1866100501:0156/pct:84.87120965112487,36.41975308641975,11.705249429409847,12.987654320987655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -723,7 +723,7 @@ the way of receiving it.
 MCCLELLAN FOR JOHeSON. General  
 McClellan is reported by the Now Yor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_jackrabbit_ver01:data:sn84022040:00271762367:1866102501:0274/pct:91.86046511627907,49.37027707808564,65.22198731501057,26.700251889168765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_jackrabbit_ver01:data:sn84022040:00271762367:1866102501:0274/pct:22.971186888712662,12.34256926952141,16.309807031456515,6.675062972292191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ because no others can arrogate to them
 selves the claims which he had on the  
 public homage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775423:1872121201:0338/pct:97.98812664907652,110.4296066252588,14.742744063324539,7.867494824016563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775423:1872121201:0338/pct:73.51146297212601,82.82867494824016,11.050634999175326,5.900621118012422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -837,7 +837,7 @@ had rather acqmire silent good will by a faithful discharge
 of my duties, than owe expressions of it to my putting  
 myself in the way of receiving them.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533493:1877070201:0844/pct:286.3157894736842,91.41650324332478,49.24812030075188,8.628752451350127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533493:1877070201:0844/pct:71.61933421102125,22.854125810831196,12.318976866654129,2.157188112837532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -909,7 +909,7 @@ In the mean time, and at all times, I salute
 you with great respect and esteem.  
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533493:1877081401:1040/pct:289.2058596761758,119.67980667572874,50.886661526599845,92.19151185621507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533493:1877081401:1040/pct:72.34329797492768,29.919951668932185,12.729026036644166,23.047877964053768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -947,7 +947,7 @@ of It to my putting myself In the war of re­
 ceiving them. Th: Jekkermon &quot;  
 (Writings of Jf tier sob. 2d tdition. Bosto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654486:1877090801:0280/pct:29.15218376907964,85.5338037787389,13.93380686111531,9.48099248804917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654486:1877090801:0280/pct:29.163518210669487,85.5338037787389,13.93380686111531,9.483837923969952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ be purely-roluntary I had rathen acquire sis
 duties, than owe expressions of it to my put-  
 ting myself in the way of receiving themto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559930:1877092101:0156/pct:70.2113606340819,312.73460133518074,42.53632760898283,18.541378007305706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559930:1877092101:0156/pct:17.552840158520475,78.18365033379519,10.634081902245708,4.6353445018264265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1129,7 +1129,7 @@ owe expressions of it to my putting
 myself In the way of receiving  
 them.&quot; But tho manners and cus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020606:1877100601:0374/pct:116.69540229885058,41.54004341368674,13.318965517241379,9.65383297155261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020606:1877100601:0374/pct:87.56647980451343,31.155032560265052,9.989938191749317,7.243230892265509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1155,7 +1155,7 @@ Subscribe for Tuk Columbian,
   
 It Has Mood the Test
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288002:1877101201:0177/pct:84.15645277577505,7.884399551066218,25.46863734679164,121.42255892255892/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288002:1877101201:0177/pct:63.14460872701046,5.920314253647587,19.112874143526867,91.06341189674524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1215,7 +1215,7 @@ will by a faithful discharge of my duties,
 than owe expressions of it to my putting  
 myself in the way of receiving them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1877101301:0588/pct:46.57312466270912,223.9291348137362,39.953228998021224,17.024632932896495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1877101301:0588/pct:15.524374887569707,74.64304493791207,13.317742999340409,5.674877644298831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ of receiving them.&#x27;&#x27;
 An old negro named Pete was very  
 much troubled about his sins. Perceiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688088:1877101601:0382/pct:68.63024867509172,77.15593620791495,13.045250713412148,6.94034258712345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn84022991:00513688088:1877101601:0382/pct:68.63024867509172,77.16085843670014,13.065633917651855,6.950187044693838/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1274,7 +1274,7 @@ Song of the Baker &quot;I Knead Theo Every
   
 Hour,&quot; The Cut note of tho tone Is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288002:1877101901:0180/pct:83.07158509861213,117.94654221467968,30.003652300949597,10.493565266581813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:00237288002:1877101901:0180/pct:62.34240818563859,88.45990666100975,22.510506120957427,7.877245085560741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1327,7 +1327,7 @@ obtained the highest respect and love of
 the American people, and, after two  
 terms in the Presidency, he retired wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551104:1878091201:0132/pct:50.34965034965035,65.0618229565598,12.13134691395561,8.27223985118722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84026965:00294551104:1878091201:0132/pct:50.34965034965035,65.0618229565598,12.151616499442586,8.279534595324069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1357,7 +1357,7 @@ the American people, and, after two
 terms in tho Presidency, ho retired with  
 tho admiration and reverenco of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550847:1878091202:0430/pct:49.58078726730141,64.2872687704026,12.562171379849367,8.715995647442872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550847:1878091202:0430/pct:49.59026100137369,64.29452303228146,12.562171379849367,8.715995647442872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1429,7 +1429,7 @@ in the way of receiv­
   
 ing them.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347737:1887101201:0427/pct:6.601373696260493,65.93168618958559,10.951411854489951,6.437641500147652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347737:1887101201:0427/pct:6.6056134995336215,65.93168618958559,10.95565165776308,6.440922662991764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1470,7 +1470,7 @@ my duties than owe expressions of it to my
 putting myself in the way of receiving  
 them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887101501:0901/pct:130.63763608087092,46.666666666666664,50.77760497667185,49.666666666666664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887101501:0901/pct:32.67211201866978,11.666666666666666,12.699338778685336,12.416666666666666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1493,7 +1493,7 @@ had rather acquire stlent good will by a faithful diy
 thargo of my duties than owe exprassions of it to my  
 putting myself in the way of receiving them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:0017503819A:1887102101:0212/pct:249.41583017936483,265.48050770625565,47.78673687674839,11.7973708068903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rolls_ver01:data:sn83030214:0017503819A:1887102101:0212/pct:83.13861005978828,88.4935025687519,15.928912292249466,3.9324569356301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1525,7 +1525,7 @@ ful discharge of my duties than owe ex­
 pressions of it to my putting myself ia the  
 way of receiving them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521626:1887102201:0261/pct:21.62828947368421,19.076576576576578,14.967105263157896,11.452702702702704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521626:1887102201:0261/pct:21.62828947368421,19.08033033033033,14.967105263157896,11.456456456456456/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1569,7 +1569,7 @@ l discharge of my duties than owe expressions
 . eeiving them.&quot;  
 It is a little remarkable that Gen. Roge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745722:1887102601:0496/pct:5.4948216340621405,115.6930126002291,19.23187571921749,6.883265646152244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82015679:00271745722:1887102601:0496/pct:4.128902316213495,86.77496615640946,14.429578477916847,5.165052587733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1601,7 +1601,7 @@ my duties than owe expressions of it to
 ray putting myself in the way of receiv­  
 ing them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550079:1887102601:0220/pct:25.6,12.102088167053365,13.665573770491804,10.979118329466358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550079:1887102601:0220/pct:25.608743169398906,12.102088167053365,13.669945355191256,10.991492652745553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1639,7 +1639,7 @@ myself in the way of receiving
   
 them.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283417:1887110301:0399/pct:204.52674897119343,192.79521309073147,42.661179698216735,20.857247527170596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn84027670:00237283417:1887110301:0399/pct:51.158003088008236,48.198803272682866,10.670784010979585,5.214311881792649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1678,7 +1678,7 @@ nave become a private .citizen, wou.d much
 better harmonize with my feelings as well  
 as duties.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210958:1891082201:0100/pct:3.9297538505829857,9.063016285107388,9.673240247588888,8.284163323105972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210958:1891082201:0100/pct:3.929188255613126,9.061946902654867,9.67544617156016,8.28613569321534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1719,7 +1719,7 @@ or Boston, after 1 shall have become a pri­
 vate citizen, would much better harmonize  
 with my feelings as well as duties.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182057:1891082401:0724/pct:39.69437875204657,13.9149641082275,15.808622885210115,18.04251794588625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_columbo_ver02:data:sn86063034:00414182057:1891082401:0724/pct:30.772122750129235,10.784208837060019,12.25621504769961,13.983096180592703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1740,7 +1740,7 @@ valuable should be purely voluntary.-
 Thomas Jefferson.  
 Yesterday President Ilarrison began 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_crawlingclaw_ver03:data:sn92064071:0051415370A:1891082601:1171/pct:3.5762121618001608,61.46364057433997,10.996517546209484,3.589624826308476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_crawlingclaw_ver03:data:sn92064071:0051415370A:1891082601:1171/pct:3.585141530493794,61.47136019762235,10.992052861862666,3.593484637949668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -75,7 +75,7 @@ By the President,
 James Maoison, Secretary of  
 State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807101901:0003/pct:40.317052270779776,5.867208672086721,18.808911739503,22.601626016260163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807101901:0003/pct:40.317052270779776,5.867208672086721,18.823193373321907,22.619692863595304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -121,7 +121,7 @@ thirty second.
 By the Prestdcm,  
 ].AMEa MAmsoN, Sec&#x27; ry qutate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807102001:0533/pct:46.57656319619783,30.46346120465197,22.9912371899599,22.904009720534628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216067:1807102001:0533/pct:46.56964656964657,30.460817495443894,22.99277299277299,22.90491480806503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ By the President,
 James Madison, Secretary of  
 State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807102301:0003/pct:78.69029608817809,6.63293216630197,18.219148476334556,19.201312910284464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807102301:0003/pct:78.69029608817809,6.63293216630197,18.240760752107196,19.210430342815464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ Til: JEFFERSON.
 By the President,  
 James Madison, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807102301:0792/pct:49.06941649899397,7.774244833068362,21.70523138832998,16.15262321144674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807102301:0792/pct:49.057078199647975,7.773009060562709,21.706059844103596,16.154029566046734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ second,
 Ry the President,  
 Ja^ks Madison, Sec’ry of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807102301:0351/pct:41.51298456906285,57.426738774996856,17.444486262702295,18.81524336561439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807102301:0351/pct:41.505174035747885,57.41951710261569,17.447475697710882,18.817069081153587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ TH: 31 ON.
 By the President,  
 James Mapisos, y o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807102601:0003/pct:41.02285092491839,74.79235880398672,18.324265505984766,22.757475083056477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807102601:0003/pct:41.02285092491839,74.79235880398672,18.338774029742474,22.762089331856775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ Til: JEFFERSON.
 By the President,  
 JAMES MADISON, Scc’ry ojState
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807110201:0285/pct:23.953605648008068,5.832654723127036,17.801311144730207,18.59731270358306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807110201:0285/pct:23.949579831932773,5.8320610687022905,17.80252100840336,18.59796437659033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ TH JEFFERSON.
 By the Prefideant,  
 James Mabisov, Sccretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807111001:0602/pct:60.319721430832544,5.303181909145487,16.381766381766383,18.60116069641785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807111001:0602/pct:60.319721430832544,5.309852578213595,16.40287010657381,18.594490027349742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ By the President, 1
 JAMES MADISON, «f  
 Secretary of State, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808030701:0004/pct:42.61962692619627,26.18651656645772,16.261151662611518,10.656261993091979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808030701:0004/pct:42.62638550959719,26.19078077693915,16.254393079210598,10.656261993091979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ fourth. &#x27; 1 •&#x27; •
 fStgrtcd) &#x27; JAME^frl  
 By file President
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810021601:0932/pct:70.9806872335089,56.07703511895129,22.071733132681214,13.011814209419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810021601:0932/pct:70.962888665998,56.067961165048544,22.07246740220662,13.013754045307444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ army of the United States, tome of whom
 sought shelter without thejuM, diction thereof, hevei  
 become sensible of their offence, and are desirous oC
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810021901:0936/pct:72.09656925031766,55.343449176048296,21.626429479034307,3.687387828356991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810021901:0936/pct:72.07825203252033,55.33442088091354,21.627286585365855,3.690864600326264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -730,7 +730,7 @@ army of the United States, some of whom have
 sought shelter without the jurisdiction thereof, have  
 become sensible of their offence, and are desirous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810022601:0946/pct:48.56364536899455,16.35747701242136,20.950965824665676,3.0327472172931116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810022601:0946/pct:48.55162168853677,16.35483870967742,20.95196830898737,3.036290322580645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -776,7 +776,7 @@ fourth.
 Uy the President,  
 tf R. SMITH, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810022801:0950/pct:49.36582939567272,16.276818841748668,20.86545635414076,13.147281819648331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810022801:0950/pct:49.353555445052216,16.274193548387096,20.866484336151167,13.149193548387096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -795,7 +795,7 @@ army of the United* States, 9ome of whom have
 sought shelter without the jurisdiction thereof, have  
 become sensible of their offence, and are desirous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810030201:0954/pct:49.03484582602156,16.835994194484762,21.057909250438705,3.0317690695049184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810030201:0954/pct:49.02255639097744,16.833279587229924,21.05889724310777,3.0353111899387293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ army of the United States, some of Whom have
 sought shelter without thejurisdictinn thereof, have  
 become sensible of their offence, and are desirous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810030501:0958/pct:49.73651191969887,16.37625040335592,21.355081555834378,3.0332365279122295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810030501:0958/pct:49.724034119417965,16.373608646555898,21.355995985950827,3.036780125826746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ fourth.
 By the. President,  
 tf , R. SMITH, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810030701:0962/pct:49.98757763975155,16.38628275638952,21.043478260869566,13.134907796829506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810030701:0962/pct:49.975161450571285,16.38363254083778,21.044461003477398,13.136826783114993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -879,7 +879,7 @@ army of the United States, some of whom have
 sought shelter without the Jurisdiction thereof, have  
 become sensible of their offence, and are desirous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810030901:0966/pct:49.19891545476953,60.34316869788326,20.852846931229973,2.9506093649775496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810030901:0966/pct:49.186791522917694,60.333493666827,20.853868900936423,2.9541446208112876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -898,7 +898,7 @@ army of the United States, some of v*h &gt;m have, j
 sought shelter without the jurisdiction thereof, have j  
 become sensible of their offence, and are desirous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031201:0970/pct:48.735408560311285,54.041607114498966,21.060311284046694,2.922026361759568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031201:0970/pct:48.7235594456601,54.03302635757383,21.061269146608314,2.925531914893617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -917,7 +917,7 @@ army of the United Stages, some of whom have
 sought shelter without thejiirisdiction thereof, have  
 become sensible of their offence, and are desirous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031401:0972/pct:47.907324364723465,46.44412191582003,20.92675635276532,3.0317690695049184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031401:0972/pct:47.89539227895392,46.43663334408255,20.927770859277707,3.0353111899387293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ army of the United States, some of whom have
 S&#x27;hikHi shelter without the jurisdiction thereof, have  
 become sensible of their offence, and are desirous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031601:0976/pct:49.03893543617546,50.31234983181163,20.699852143913258,2.9473009770943457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031601:0976/pct:49.02685390490269,50.30429212043562,20.70091155457009,2.950832799487508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -955,7 +955,7 @@ army of the United States, some of wh &gt;m have
 sought shelter withont the jurisdiction thereof, have  
 become sensible of their offence, and are desirous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031901:0980/pct:48.15365551425031,52.42234025430549,20.867410161090458,2.929341702881056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810031901:0980/pct:48.14172447968286,52.41390408754425,20.868434093161547,2.9328934663662696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ army of the United Sts1?*, son e of whom have
 sought shelter without the jurisdiction thereof, have  
 become sensible of their offence, and are desirous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032101:0984/pct:49.37185929648241,45.213882163034704,21.055276381909547,2.953995157384988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032101:0984/pct:49.3594574227581,45.206584893479665,21.05626726953027,2.9575532601678503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,7 +993,7 @@ army of the United States, some of whom have
 sought slither without the jurisdiction thereof, have  
 become sensible of their offence, and are desirous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032301:0988/pct:49.12848605577689,45.13944865387715,20.84163346613546,2.950185394164114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032301:0988/pct:49.11625591237242,45.13217279174726,20.842668658202637,2.953739522888459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1017,7 +1017,7 @@ army of the United States, some of whom have
 sought shelter without the jurisdiction thereof, have  
 become sensible of their offence, and are desirous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032601:0992/pct:48.14538212596465,38.74193548387097,20.83644510828977,5.951612903225806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032601:0992/pct:48.133399701343954,38.735687792291564,20.83748133399701,5.954684728269634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1053,7 +1053,7 @@ fourth.
 By the President,  
 tfR. SMITH, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032801:0996/pct:49.40083149914405,42.00773445053174,20.665199315236,13.003544956493716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032801:0996/pct:49.38875305623472,42.000966650555824,20.666259168704155,13.005477686483003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1072,7 +1072,7 @@ army of the United States, some of whom have
 sought shelter without the jurisdiction thereof, have  
 become sensible of their offence, and are desirous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810033001:1000/pct:49.03966076328261,40.729385186380505,20.878024444998754,2.969178634823302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810033001:1000/pct:49.02743142144639,40.72281381090674,20.879052369077307,2.972733139722491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1108,7 +1108,7 @@ fourth.
 By the President,  
 tf R. SMITH, Secretary of State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810040201:1004/pct:48.87892376681614,40.07713321549092,21.599402092675636,13.064438373774706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810040201:1004/pct:48.8667496886675,40.0706940874036,21.60024906600249,13.066356041131105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1148,7 +1148,7 @@ serted trom the army of the United States,
 have become sensible of their offence, and  
 are desirous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812021701:0060/pct:77.97640328923848,46.33038210624417,16.62495530925992,4.100652376514446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812021701:0060/pct:77.96246648793566,46.32498543972044,16.627941614536788,4.104057464569986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1211,7 +1211,7 @@ signed the tame with mu haiaL
 Done at the City &lt;f Washington, tlx seventeenth&#x27;  
 day of June,. I. D.&#x27;one thousand eight kwulre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814070901:0071/pct:6.2851952770208905,13.594297148574286,17.420526793823797,8.441720860430214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814070901:0071/pct:6.284053759535053,13.592597223958984,17.423416878556726,8.444833479221375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

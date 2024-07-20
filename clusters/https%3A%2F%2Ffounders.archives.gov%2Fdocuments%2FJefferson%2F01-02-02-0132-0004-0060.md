@@ -481,7 +481,7 @@ such court shall and may make such further a
 other order for the relief of the petitioner as to  
 shall seem just
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846081301:0822/pct:3.8473921442369607,61.23644521999252,13.522215067611075,13.049981303751714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846081301:0822/pct:3.852758102597124,61.24059994183389,13.527581025971239,13.054136025593087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ the wart’s estate infbthe hands of the safety, or ol
 .some other person: in cither of which case* it shall  
 tali- v:.&#x27;Sr-r;,&gt; security of the person into whsn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1846093001:0013/pct:1.1384170581857607,63.4771986970684,13.227322009396458,6.053203040173724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1846093001:0013/pct:1.1382113821138211,63.46858461120912,13.229448961156278,6.055774189170851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ such court shall and may make such further aud other
 order tor the relief of the petitioner as toil shall seem  
 just
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846102701:0161/pct:14.823460752845055,53.8946587537092,13.495768894076452,5.192878338278931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846102701:0161/pct:14.823460752845055,53.8946587537092,13.500632234218461,5.199060336300692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -610,7 +610,7 @@ and other order for the relief of the petitioner as to it shall
 seem just.  
  o e eo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846110401:0245/pct:83.02712160979877,325.6154357950765,58.61767279090114,24.617431803060544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191241:1846110401:0245/pct:20.756780402449692,81.40385894876913,14.654418197725285,6.154357950765136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ such summons left at the place of bis usual
 abode, shall order him to give counter security  
 for the complete indemnity of the origina
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846110601:0448/pct:56.711229946524064,87.51061220639562,17.433155080213904,6.801245165550419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846110601:0448/pct:42.545794892365286,65.63531742288464,13.076614520657841,5.103292142250731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ and such court shall and may make such fur­
 ther and other order for the relief of the peti­  
 tioner as to it shall seam just
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846110601:0448/pct:56.75133689839572,94.34015658900104,17.33957219251337,4.942929912272427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846110601:0448/pct:42.57253643535232,70.7574757098387,13.009760663190265,3.7071974342043204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -750,7 +750,7 @@ and such conrt shall and may muke such further
 sand othier order for the reliel of the petitioucr as  
 to it shail seemn just
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1846110701:0110/pct:70.28833551769331,66.40406343941122,12.817824377457406,6.717114128744687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153279:1846110701:0110/pct:70.29707295762341,66.407518745033,12.817824377457406,6.724024739988252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ SES.
 make returns to the Court of their county, of the poor or­  
 phans within their district, and of su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184649:1847021901:0175/pct:211.52094048493754,50.80928923293455,38.94195444526084,23.973727422003282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184649:1847021901:0175/pct:70.49662062885689,16.934443532309135,12.978744245273779,7.990305304718346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -841,7 +841,7 @@ ing and writing and common arithmetic, includ­
 ing the Rule of Thiee, and to pay him or her  
 #12 [or at the disruption ol the Cmiit $2(1] at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215786:1847032901:0458/pct:7.047216349541931,18.867536032944408,14.829356689821806,6.451612903225806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215786:1847032901:0458/pct:7.046506945842561,18.866241163955802,14.83121938124958,6.453457781438016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

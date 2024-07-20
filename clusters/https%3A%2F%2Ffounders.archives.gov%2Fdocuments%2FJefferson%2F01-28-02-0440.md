@@ -87,7 +87,7 @@ ly pronounced as between the Republicans and Mono­
 crats of our country, I hold it as honorable to take a firm  
 and decided part.&quot; etc. Vol. 3, page 310
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091101:0048/pct:140.18281535648995,325.81552305961753,59.762340036563074,10.362767154105736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091101:0048/pct:35.03929811734601,81.44242935470265,14.937854140010966,2.5903275692394208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ and as strongly pronounced as between the Repub­
 licans and .dfonnerats of onr country, I hold it ay  
 honorable to take a firm and decided part,” etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848091301:0148/pct:78.66784037558685,81.48692995360416,14.920774647887324,2.059522462374109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183724:1848091301:0148/pct:78.65630042540707,81.47770988911519,14.92347562466383,2.0630610243644867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ strongly pronounced as between the Republican and, Monn
 erats of our country, I hold it as honorable, to take a firm  
 and decided part,&quot; etc. Vol 3. page 310
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091801:0056/pct:23.164048227986846,29.68553459119497,62.78772378516624,9.853249475890985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848091801:0056/pct:5.789954337899544,7.420346562325322,15.69406392694064,2.4629681386249302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ the RepurlicAns and Monocrats of our
 country, I hold it as honorable to take a  
 firm and decided part,&quot; Nc.-Vol. 7, pag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848100301:0466/pct:209.31321540062436,112.40852688514158,36.992715920915714,11.135857461024498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1848100301:0466/pct:69.79830839297333,37.46950896171386,12.335718932986337,3.7119524870081664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ tiex of honext men and roguex, into whicl
 every country is divided.&quot;  
 This exercise of the Veto is the gre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849090501:0306/pct:17.853246044735407,57.70632368703108,13.14784506273868,10.664523043944266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661368:1849090501:0306/pct:17.853246044735407,57.713469096105754,13.166030187306783,10.664523043944266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -214,7 +214,7 @@ December 21, 1795, he says
 in 179d, the President would have been kept  
 al concert with the British and Anti-Republican parl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030201:0461/pct:87.28744939271255,157.21294241326947,40.74493927125506,7.160378460460227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530303:1850030201:0461/pct:29.095816464237515,52.404314137756494,13.581646423751687,2.386792820153409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ who, while they profess great love for Doug­
 ins, are yet consorting with his enemies, and  
 fraternising with organizations which de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557189:1859062201:0596/pct:31.978367062107466,9.628120224146715,12.334263782274947,10.163015792154866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557189:1859062201:0596/pct:31.978367062107466,9.628120224146715,12.3473482205164,10.166199694345389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ of thi rottennegs, and in confirmation
 of our suspicions as to the real object  
 of the organization, we find that in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873111301:0643/pct:122.54335260115607,41.562853907134766,58.7943848059455,67.15741789354473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779155:1873111301:0643/pct:30.648492358529534,10.390713476783692,14.704667492771582,16.789354473386183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

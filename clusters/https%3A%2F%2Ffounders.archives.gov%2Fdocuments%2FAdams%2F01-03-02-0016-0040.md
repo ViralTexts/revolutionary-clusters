@@ -174,7 +174,7 @@ able to serve to advantage by sea when required.
 Its first commandant, Major Nichols, was ap­  
 pointed the following June, and under him th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894080601:1045/pct:291.63059163059165,117.97207043108682,48.268398268398265,19.12568306010929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_stein_ver01:data:sn83030272:00175045144:1894080601:1045/pct:72.92080101028324,29.493017607771705,12.069276565036983,4.781420765027322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ A or enlisted into said battalions but such as are
 27h soolseamen or so acquainted with maritime  
 ff? Aairs as to serve with advantage at sea whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898073101:0805/pct:0.22900763358778625,38.288704216682056,64.58015267175573,28.07017543859649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898073101:0805/pct:0.05725190839694656,9.572176054170514,16.14503816793893,7.017543859649122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ Congress; that they be distinguished by
 •he names of the First and Second Bat­  
 talions of Marines.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898111301:0795/pct:2.7617092741183056,76.74866627148785,12.576973315917149,8.891523414344991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898111301:0795/pct:2.7617092741183056,76.75854574194823,12.576973315917149,8.891523414344991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ ally recruited independently of the
 army before Boston.  
 During the revolution the marine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776877:1899090701:0742/pct:8.764607679465776,95.51137219460762,18.864774624373958,8.404880253050159/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776877:1899090701:0742/pct:6.577573606180831,71.63729477330924,14.157444142827313,6.311191444494653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -1483,7 +1483,7 @@ course through the air of the room and the
 bedding, when it can go through a continued  
 better conductor, the wall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823081301:0467/pct:5.525883319638456,6.715489843857952,42.27608874281019,116.36037031919304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823081301:0467/pct:4.2878369772872,5.21167987434854,32.76905115686691,90.17634040122796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1703,7 +1703,7 @@ i by silk cords equally distant from the wJb an*
 I safest situation a person can have in any ’r*ut!‘ J ‘&#x27; :  
 ever, and what, indeed, may lie considered n,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829062001:0440/pct:82.48815581680996,16.5410836024399,16.722231970521143,7.798110273890683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829062001:0440/pct:82.47368421052632,16.539105477158575,16.72514619883041,7.801163995854261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1726,7 +1726,7 @@ whatever, and what-&quot; indeed, may be*
 considered quite free from danger of!  
 Any strok® ot lightning It a storm ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829062501:0111/pct:8.70127073013138,66.51785714285714,18.048675425371528,5.998883928571429/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829062501:0111/pct:8.699397071490095,66.50857860231552,18.050172265288545,6.001534384153996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2024,7 +2024,7 @@ from danger of any stroke by lightning
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1850-07-06_5_42/page/n7/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1850-07-06_5_42/page/n7/mode/1up?view=theater)
 
 #### 1850-07-06 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -2516,7 +2516,7 @@ decmned quite free from danger of any
 The HEST iN tHE WorlD.  
 From the Stevensville News
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_cutthroat_ver01:data:sn84036012:00294550318:1892071901:0895/pct:147.9208361129642,199.49590422180214,58.083166555481434,20.415879017013232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_cutthroat_ver01:data:sn84036012:00294550318:1892071901:0895/pct:36.98020902824105,49.873976055450534,14.520791638870358,5.103969754253308/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2566,7 +2566,7 @@ ever, and one which, indeed, may
 be deemed quite free from danger o!  
 any stroke of lightning
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556989:1892072101:0115/pct:57.03703703703704,93.68217988907644,13.61111111111111,26.95924764890282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556989:1892072101:0115/pct:42.78438030560272,70.26766337111165,10.217626176879149,20.219435736677116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2623,7 +2623,7 @@ be deemed quite free from danger of
 any stroke of lightning.  
 &#x27; &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:0020653865A:1892073001:0287/pct:61.0386115969326,40.71330299502593,11.179873536929907,18.234733834268177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:0020653865A:1892073001:0287/pct:61.0386115969326,40.71683070518926,11.184358042961568,18.231206124104844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2669,7 +2669,7 @@ can have in any room whatever, aud
 Toe from danger of any stroke of light*  
 .dug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1892090301:0596/pct:86.9904427540472,79.53000295595625,15.369611858786815,21.53414129470884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:00415627683:1892090301:0596/pct:67.41912728005643,61.63567637738154,11.926836642144513,16.70421137031805/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2784,7 +2784,7 @@ can have in any room whatever and one
 which indeed may be deemed quite free from  
 danger id&quot;any stroke of lightniug
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_quartz_ver01:data:sn85025007:00175033634:1893020401:0521/pct:15.367406642574428,66.05700712589073,13.921872311134056,19.144893111638954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_quartz_ver01:data:sn85025007:00175033634:1893020401:0521/pct:15.367406642574428,66.06492478226446,13.921872311134056,19.140934283452097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

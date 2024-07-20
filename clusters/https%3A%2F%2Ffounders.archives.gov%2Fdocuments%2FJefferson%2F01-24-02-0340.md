@@ -30,7 +30,7 @@ termined never to intermeddle with election*
 by the people, and have invariably adht red  
 to this determination.&quot; Much as he love
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525346:1873032001:0495/pct:85.48256285482563,72.26294632300781,10.900243309002432,1.477890754315441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_damariscotta_ver02:data:sn83016025:00279525346:1873032001:0495/pct:85.46869931884528,72.25440359380542,10.902530003243594,1.4806714741695235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -72,7 +72,7 @@ termined never to intermeddle with elec&quot;
 tlon by the people, and have invariably ad  
 hered to thia determination.” Much as h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151234:1873040301:0248/pct:4.919558569339183,71.93551558045807,14.838452333466295,4.217045119433795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151234:1873040301:0248/pct:4.919558569339183,71.93551558045807,14.8473164029606,4.226875061437138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -90,7 +90,7 @@ I determined never to intermeddle with
 elections by the people, and have in-  
 vnriably adhered to this determination
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1873041201:0054/pct:56.62133142448103,96.75333074634588,16.177523264137438,2.509377829517527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:00202197498:1873041201:0054/pct:42.48880931065354,72.5649980597594,12.139659803043868,1.8885008407709223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ never to intermeddle with elections by
 the people, and have invariably adhered  
 to this determination.&quot; Much as h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779416:1873042101:0369/pct:21.276150627615063,110.31711866838857,16.84100418410042,3.83125269048644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779416:1873042101:0369/pct:15.965683197321615,82.73783900129143,12.638627327892864,2.884201463624623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ I determined never to intermeddle with
 elections by the people, and have invariably  
 adhered to this determination.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn84026857:00295862166:1873042401:0037/pct:42.40960099750623,73.70684901290393,15.321072319201996,2.4704974081835225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grandamericancoonhunt_ver01:data:sn84026857:00295862166:1873042401:0037/pct:42.40960099750623,73.71052534833278,15.331463009143807,2.474173743612367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ intermeddle with elections by
 the people, and have invariably  
 adhered to this determination.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075167:00280774893:1873072301:0979/pct:112.30876216968011,129.83161598391555,43.88038942976356,18.34631817039457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075167:00280774893:1873072301:0979/pct:28.08695652173913,32.45790399597889,10.97391304347826,4.586579542598643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ ed never to intermeddle with elec­
 tions by the people, and have invari­  
 ably adhered to this determination.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn86063662:00200292406:1884110601:1136/pct:61.30653266331658,294.049140747053,39.267767408470924,13.520806703593239/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_felice_ver01:data:sn86063662:00200292406:1884110601:1136/pct:15.334889567247261,73.51228518676325,9.82223020290896,3.3802016758983098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ elections by the people, and have
 invariably adhered to this de­  
 termination.&#x27; Much as he love
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:0029455628A:1884110601:0396/pct:101.40243902439025,71.2072072072072,13.201219512195122,6.714714714714715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:0029455628A:1884110601:0396/pct:76.0866249809364,53.4054054054054,9.913070001525087,5.045045045045045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

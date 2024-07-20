@@ -57,7 +57,7 @@ BY THE MAILS.
 FROM THE WEST-INDIES.  
 Curracoa papers have been received a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016083:00332895096:1818122201:0797/pct:63.63209760675739,54.63627546071775,18.223056468011887,11.037827352085355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016083:00332895096:1818122201:0797/pct:63.622145761651545,54.630976626903305,18.224116359086644,11.039181456696731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -82,7 +82,7 @@ from district to district in the same state
 or from a district in one state to a district  
 in the next adjoining state.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1818122201:0065/pct:45.327788649706456,55.38854652036675,17.123287671232877,6.959266496317451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_beachhaven_ver01:data:sn85025061:00513684939:1818122201:0065/pct:45.316703350452435,55.38022242260295,17.125213988750307,6.961977757739706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ state to a district in the next adjoining state:
   
 3d. That every ship or vessel, of the bur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819021601:0700/pct:26.650062266500623,23.402399127589966,17.505781889343535,11.679389312977099/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216249:1819021601:0700/pct:26.64532194948417,23.399847344891505,17.508597177754062,11.681750445244067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ adjoining State ; any thing in any law (o the
 contrary notwithstanding.  
 Sec. 3. Aad de it furtrer enacted, Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819033101:0874/pct:3.5405041370021166,37.15038972948189,21.031364248604966,4.413113250802384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819033101:0874/pct:3.546918093772048,37.15038972948189,21.031364248604966,4.420755005349228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ omer tnan between a state in one, aim an
 adjoining state inanothergreat district,such  
 vessels are to conform to, and observe th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819050301:0172/pct:24.875974486180013,60.221835580687255,18.090007087172218,6.6115702479338845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819050301:0172/pct:24.871567759078832,60.21528759378058,18.092707410687925,6.614475734841071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ trict. other than between a state in one, and
 an adjoining slate ill another great district, such  
 v«*se|s aie to coiilorni to, and observe the ie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819051101:0010/pct:19.75492631230336,8.992718446601941,14.803775459513165,3.216019417475728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183943:1819051101:0010/pct:19.751655629139073,8.991627229705133,14.806843267108167,3.219673987784654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

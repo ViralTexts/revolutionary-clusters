@@ -44,7 +44,7 @@ and of the feveral corps of volunteers wear
 lix months. M J t General Hamilton will give  
 the necelLry orders for carrying into clFefl th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799123001:0312/pct:73.32722273143905,77.90615753135127,21.746104491292392,10.27194589263069/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1799123001:0312/pct:73.31042382588774,77.89518174133559,21.746849942726232,10.274020850943927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ my wear crape on the loll arm, by way of
 mourning, for six months.  
 Major General Brown will give the necessa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071001:0552/pct:2.8518393520081,83.73745347919251,17.92102598717516,8.165106574940792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826071001:0552/pct:2.851358191327822,83.72801082543978,17.92362634272538,8.16794466997444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ Maj, Gen. Brown will give the neces­
 sary orders for carrying into effect the  
 foregoing directions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826071101:0526/pct:57.9160451736629,60.3405572755418,12.571915619007031,9.241486068111454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1826071101:0526/pct:57.90370685982105,60.33121807769695,12.574563272262463,9.243925088995512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ jrfilr.it the Otliccrs of the Army wear crape on the left
 Sarin, by way of mourning, for six months.  
 I Majoi General ifr.iirn u ill give (he iieri&#x27;^Eirt Older
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071101:0168/pct:22.91336083782926,25.225439012814427,18.02602348460806,4.342667299477931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826071101:0168/pct:22.909725527526575,25.222446316289002,18.02845205986567,4.346106695139795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ ordeis for carrying luio effect the foregoing direc­
 tions. JAMES BAD BOLD.  
 MAYOR’S OFFICE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826071101:0076/pct:52.11402946828956,25.88178644516673,14.67008327994875,8.270133622246298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826071101:0076/pct:52.10568454763811,25.878671160327396,14.673071790765945,8.273150377146525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ I JAMES BARBOUR.
   
 PrntS ofth• lift Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826071701:0779/pct:22.94202599546111,2.5855842842698253,25.974829791623684,92.95103278925322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826071701:0779/pct:22.937293729372936,2.585210860774119,25.974628712871286,92.94121894858463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ orders for carrying into effect the foregoing direc­
 tions.  
 “ It has become the painful duty of the Secreta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826071801:0084/pct:52.005799903334946,39.61742059672762,15.063637828258418,8.229066410009624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184005:1826071801:0084/pct:51.99742268041237,39.61265487790208,15.066580756013746,8.23208629054894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ tlie A1 m v n 1 ar crape on the left arm, hv
 way ol iiuut nmg, for six months.  
 Major-General Hro«vn will give the n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826072401:0787/pct:5.076351630210483,87.71137026239067,14.630623194387123,6.895043731778426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:0039334880A:1826072401:0787/pct:5.075304311945533,87.69858621192246,14.632762533525892,6.89768255356362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

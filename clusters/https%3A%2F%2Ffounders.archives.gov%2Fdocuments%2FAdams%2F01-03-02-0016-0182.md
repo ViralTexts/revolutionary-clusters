@@ -64,7 +64,7 @@ Ia CONGRESS, Sept. 5, 1776. ¢ &quot;
 Relolved, Tha: General Sullivan be requefied to  
 isform Lord Howe that this Coagrefs, being the Re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776100501:0078/pct:34.53850165131236,3.398316821135613,59.62106726925082,92.12741024821561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776100501:0078/pct:34.54429572976418,3.4054188416604525,59.62106726925082,92.12030822769078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

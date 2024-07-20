@@ -959,7 +959,7 @@ theTown of Boston 25 foop asthe Rigour of the Seafon.and other ¥
 Circomflances indispensable ro the Safety a°d Accommedation of  
 the said Troops, may render the fame praéticablel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775041401:0434/pct:63.351134846461946,80.95238095238095,28.104138851802404,8.072696534234996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775041401:0434/pct:63.35855214359887,80.95707711092327,28.104138851802404,8.077392692777309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ make Piovifion also for the Support of
 CIVIL. GOVERNMENT, and the Ad­  
 ministration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775042101:0439/pct:9.235880398671096,29.539605376036604,27.685492801771872,6.048041178152702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775042101:0439/pct:9.243263196751569,29.539605376036604,27.692875599852343,6.057573157944905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1007,7 +1007,7 @@ of the Season, and other Citcumflances indispensable to the
 Safety and Accommondatioh of the said Troopé, may iender  
 the fame praicable,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775050501:0444/pct:6.430006697923644,20.617300663327466,27.595445411922306,9.557330445377014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775050501:0444/pct:6.4374488353055,20.617300663327466,27.60288754930416,9.570867740625424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2996,7 +2996,7 @@ thi electors receive limtiey for their vot&#x27; l ,
 ami pay taxis, vv Iiii i w it li.ill milli»|&#x27;I 1  
 may brjiic tin&#x27;ll i vplesentatives whctich*.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822092001:0056/pct:80.84566596194503,39.2306562912935,15.83509513742072,11.56951989428865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822092001:0056/pct:80.8285774677658,39.22489724016442,15.837032339885859,11.571491485613622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4057,7 +4057,7 @@ Boyles and Newtons,and is nn honor,not to the En­
 glish nation only, but to human nature.&quot;  
 There ure four marked periods in the life o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058213:00271744742:1838082501:0012/pct:50.56890012642225,82.97435897435898,20.6858407079646,3.6923076923076925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058213:00271744742:1838082501:0012/pct:37.944664031620555,62.23076923076923,15.525691699604742,2.769230769230769/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4719,7 +4719,7 @@ the nigor of the season, and other circumatances
 sable to the safety and accommodation of the said troops,  
 may render the same practicabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:0020653025A:1847020901:0140/pct:8.454901960784314,81.74676524953789,41.64705882352941,14.071164510166358/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:0020653025A:1847020901:0140/pct:2.8183006535947714,27.248921749845966,13.882352941176471,4.690388170055453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4880,7 +4880,7 @@ Lord Chatham, I wrote back to Lord Stanhope the following
 note:  
 1,4
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848112501:0408/pct:50.96390781272648,46.446671922513794,15.929844905058705,3.3337087509854713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848112501:0408/pct:50.96390781272648,46.45418027555656,15.939508141276514,3.3299545744640913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5046,7 +5046,7 @@ with the lives and thoughts of the wisest and best
 minds of the past that a class e aroma hangs about their  
 writings and their speech; and they were profou adl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860070901:0503/pct:57.359413202933986,201.11896348645465,48.0358598207009,21.83745583038869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860070901:0503/pct:19.119804400977994,67.03965449548488,16.011953273566967,7.279151943462898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5163,7 +5163,7 @@ those of the ancient Greeks and Romans in
   
 the most virtuous times.&quot; Speaking in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1874091101:0148/pct:59.26708949964764,311.32953957578894,39.0415785764623,7.087428867046042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777043:1874091101:0148/pct:14.821995065209729,77.83238489394724,9.763835037010928,1.7718572167615105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5191,7 +5191,7 @@ easily interrupted, and I had such pleasure in
 hearing him that I found little inclination to inter.­  
 rupt him.&quot; He also gives us a painful picture o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:56.43118960346551,19.457642832309652,45.734755081639456,21.219144744466334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:18.810396534488504,6.485880944103218,15.244918360546485,7.073048248155445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5213,7 +5213,7 @@ have in my eye the man who drew it up
 —one of the bitterest and most mUchiov  
 ous enemies this country has ever known.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623768:1875021301:0036/pct:5.38,58.461309080065604,10.9,3.7721783211570004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623768:1875021301:0036/pct:5.386666666666667,58.466279011977534,10.9,3.777148253068933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6153,7 +6153,7 @@ shield of his eloquence for the protection of one who might no
 
 ---
 
-## [From _The Living Age (1897-1941)_](https://archive.org/details/sim_living-age_1899-03-04_220_2852/page/n57/mode/1up?view=theater)
+## [From _The Living age_](https://archive.org/details/sim_living-age_1899-03-04_220_2852/page/n57/mode/1up?view=theater)
 
 #### 1899-03-04 &middot; [Boston](http://dbpedia.org/resource/Boston)
 

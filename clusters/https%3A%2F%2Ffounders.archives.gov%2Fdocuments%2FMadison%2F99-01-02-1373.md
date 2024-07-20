@@ -63,7 +63,7 @@ States of America, the thirty­
 first.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807040101:0003/pct:22.57161318113289,65.26315789473684,17.79022183932802,5.727956254272044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807040101:0003/pct:22.58597171369086,65.27227158806106,17.77586330677005,5.727956254272044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ these present* greeting:
 the abilities and integrity of Christopher Hempstead, of New  
 York, 1 have nominated, and, by and with the advice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853011501:0480/pct:63.63885088919289,24.587867686671697,15.253077975376197,3.243185001616205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1853011501:0480/pct:63.64797081623347,24.59505082067306,15.248518011855905,3.243185001616205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ ing, for the term of four years.”
 erate States of America, to all who shall see  
 these presents, greeting: Know ye that, b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861062301:0590/pct:112.62032085561498,40.991088893718754,42.83422459893048,5.172788524233862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn83025725:00212470296:1861062301:0590/pct:28.15884476534296,10.247772223429688,10.709987966305656,1.2931971310584656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ retury of War for the United States, and
 do authorize and empower him to execute  
 and fulfill
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1868031801:0815/pct:92.4795234549516,23.86502236075349,16.269545793000745,5.800243935492614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1868031801:0815/pct:69.3854748603352,17.90215476351809,12.216014897579143,4.350182951619461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ deteimine this Commission.
 In Testimony whereof I have can&quot;ed these  
 letters to be mad-? Patent mid th&lt;* seal of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654310:1868121601:0727/pct:44.78482859226842,13.608948349599737,14.61706783369803,7.051211755674965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654310:1868121601:0727/pct:44.79212253829321,13.617172935628906,14.609773887673231,7.0457286983221845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ Ia test imoay whereof, I, Adelbert
 Anns, Governor of the State afore­  
 said, have caused these letters to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877510:1875091801:0080/pct:6.228131560531841,42.08471012316011,14.818054583624912,13.412436167017121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877510:1875091801:0080/pct:4.672733636681834,31.57104235506158,11.130556527826391,10.06308200660859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -392,7 +392,7 @@ In Uftimony whereof, I, Adelbert
 Ames, Governor of tbe State afore­  
 said, have caused these letters to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877510:1875100201:0088/pct:5.539872971065631,65.81556022829679,14.872971065631615,11.279663562631422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877510:1875100201:0088/pct:4.165195905400635,49.36917993391409,11.154253441581362,8.455992790627816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ hold said office, with all tlie powers,
 privilege and emoluments, to the  
 same of right appertaining, for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877510:1875100901:0092/pct:5.8782365290412875,63.948306595365416,14.870538838348496,8.333333333333334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877510:1875100901:0092/pct:4.4102205110255515,47.96494355317885,11.165558277913895,6.253713606654783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ fidence in the integrity, diligence and discre­
 tion of Nchemia G. Ordway, or New Hampshire,  
 1 have nominated and by and with tlio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665362:1880062401:0212/pct:40.06079027355623,21.71212121212121,15.379939209726444,2.6515151515151514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_avenger_ver01:data:sn91099608:00415665362:1880062401:0212/pct:32.05987247379228,17.373737373737374,12.304117583486438,2.1292929292929292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ ecribed by law.
 In testimony whereof I have caused  
 1 these letters to be made patent and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889051501:0471/pct:76.31879098944967,78.3112582781457,10.422013116623894,16.61837748344371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889051501:0471/pct:76.30791161796151,78.30315571650284,10.42527916369684,16.620106914985342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -683,7 +683,7 @@ hundred and throe&#x27;. i
 James Garrard.&quot; I  
 The first Ciroult Court met in Hartford, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533791:1893101801:0821/pct:53.05575411007863,44.25537899029673,14.885632594710508,18.028406693854592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn84037890:00206533791:1893101801:0821/pct:39.8105112620665,33.19856560258754,11.172685019663925,13.517789340458444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -710,7 +710,7 @@ Chariton and state of Missouri, and
 do authorize and empower him to  
 execute and fulfill
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556059:1893102701:0265/pct:104.13981958762886,21.928571428571427,18.894974226804123,11.904761904761905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556059:1893102701:0265/pct:78.14665592264303,16.452380952380953,14.182111200644641,8.928571428571429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

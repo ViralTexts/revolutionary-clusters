@@ -98,7 +98,7 @@ standings hut theirs.—Their •»»»Is»­
 plnsieal bead*. usurping the judg­  
 ment sniff of find, driiwtinre os hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814112201:0657/pct:26.926298157453935,7.651177593889242,35.11306532663317,88.27498408656906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814112201:0657/pct:26.92066150303538,7.65020366598778,35.11269276393831,88.26799049558724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -120,7 +120,7 @@ fn* the kind concern you have been
 so go &gt;:l .is to express, I s d«*e you  
 with iYeulshi.) and h otherlv love
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814112201:0657/pct:44.97487437185929,39.75811584977721,17.001675041876048,5.410566518141311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216183:1814112201:0657/pct:44.9654594934059,39.753054989816704,17.005093852487615,5.414120841819416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ u-o-it perc -ive fh.e geometrical logic of Euclid, in the
 demons&#x27; nfirus ofSt. Anthnnasiu?, that three are one,  
 iitv* on.- three
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814112401:0246/pct:23.44901996043877,23.48409542743539,17.568782593058803,21.110834990059644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814112401:0246/pct:23.4448040273283,23.481177786060382,17.571616924367735,21.11235350147016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ cern you have been so good 2s to express, I
 salute you with friendship and brotherly love.  
 TH JEFFLRSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814122101:1163/pct:2.544229149115417,2.909948879276445,46.385846672283066,93.49193865513173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1814122101:1163/pct:2.549845549003089,2.909948879276445,46.40269587194608,93.49521562459037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ to cxpicss. I salute you with iriendahtp
 .inti bioiheriy love. •  
 TH JEJFFERSOI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816110101:0124/pct:78.64150943396227,9.10941475826972,20.245283018867923,43.05343511450382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1816110101:0124/pct:78.62667421241275,9.108255947080524,20.24775199647865,43.05219861764831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1973,7 +1973,7 @@ In all essential points, you and 1 are of the
 same religion, and I am too old to go into in­  
 quiries and changes as to the unesseutials.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827040301:0261/pct:39.247150569886024,45.41789577187807,15.941811637672465,27.26647000983284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827040301:0261/pct:39.25214957008598,45.41789577187807,15.941811637672465,27.269747623729923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2223,7 +2223,7 @@ all eesentiai points, you and I lira of the same religion, and I am
 ttaJe. Repeating therefore my thankfulness for lha kind con- :  
 eern yon have been so good ns to express, I salute you with 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830052101:0485/pct:39.49771689497717,73.30733782346685,18.786692759295498,13.753987947536334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830052101:0485/pct:39.491276699820645,73.29867674858222,18.78906462307734,13.756301197227474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2268,7 +2268,7 @@ uals. Repeating therefore my thankfulness for th« kind con­
 cern you have been so good as to express, 1 salute you with  
 friendship and brotherly love ”_
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830052101:0173/pct:40.653153153153156,73.21683309557774,18.098455598455597,13.98002853067047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830052101:0173/pct:40.64661412256716,73.20813027457507,18.100906117634445,13.982328935377788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2311,7 +2311,7 @@ for the kind concern you have been so gouil *
 lo eepress, I salute you wun friendship an  
 brotherly iove.’*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830052701:0739/pct:83.15161489405472,21.159420289855074,14.297469656449291,14.608695652173912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1830052701:0739/pct:83.13451254627725,21.156354151572234,14.299670917317977,14.610201420084046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2481,7 +2481,7 @@ thankfulness for the kind concern you
 have been so go*od as toexpress, I salute  
 you with friendship and brotherly tote
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830063001:0059/pct:79.68715576118088,40.02144484653532,19.01299845781009,32.01983648304517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830063001:0059/pct:79.66960352422907,40.016081479496115,19.016152716593247,32.020012507817384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2715,7 +2715,7 @@ concern you have been so good as to express, I
 salute you with friendship and brotherly love.  
 TIIOMAS JEFFErSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1850051101:0557/pct:114.9034749034749,253.60011683949176,52.74131274131274,105.79815977800497/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1850051101:0557/pct:28.73141533114501,63.40002920987294,13.187874106970458,26.449539944501243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2887,7 +2887,7 @@ as to express, I salute you with friend
 ship and brotherly love.  
 Thos. JEFFerSo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779982:1885032501:0287/pct:96.38228941684665,246.95981984117577,33.80129589632829,93.25589664572715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:00280779982:1885032501:0287/pct:24.10533423362593,61.73995496029394,8.453747467927077,23.313974161431787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2984,7 +2984,7 @@ as to express, I salute you with friend­
 ship and brotherly love.  
 Thos. Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:00202198053:1885042301:0840/pct:61.83127572016461,64.1739558950351,22.376543209876544,54.66305285203893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:00202198053:1885042301:0840/pct:41.24206553439698,42.78674387088826,14.925373134328359,36.44203523469262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3052,7 +3052,7 @@ good as to express I salute you with
 ndslnp and brotherly love  
 THOMAS JEFFERSO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058117:206534886:1885042401:0191/pct:1.7042086544161232,39.543960558751024,17.827504445761708,34.4391947411668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058117:206534886:1885042401:0191/pct:1.1412479620572107,26.366064092029582,11.886764487920557,22.956039441248972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3129,7 +3129,7 @@ been eo cood a3 to express. I salute you with
 fiier-dship and brotherly love.  
 Tnos. Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn83016223:00200295766:1885050301:0419/pct:69.4937369519833,40.638810767376455,18.893528183716075,40.38770590598634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn83016223:00200295766:1885050301:0419/pct:52.14043330723049,30.484130172760146,14.173844949099452,30.293290478103657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3166,7 +3166,7 @@ erv they Prescribe and in the due
 1lect Finance of that course I have no reI  
 nhu I lion which gin me any remorsej
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535106:1885050701:0282/pct:2.027027027027027,124.73765216174618,22.42014742014742,14.859381558695956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535106:1885050701:0282/pct:1.3519049569848423,83.16309873606642,14.952888160589922,9.910918334032928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3226,7 +3226,7 @@ cern you have been so good as to
 express I salute you with friendship  
 and brotherly love THOS JEFFERSO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535106:1885050701:0282/pct:4.361179361179361,9.08073317475864,43.12039312039312,140.53448999580243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_eaton_ver01:data:sn85058130:00206535106:1885050701:0282/pct:2.9086439983613275,6.058486078074717,28.758705448586646,93.68965999720162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3284,7 +3284,7 @@ judguientseatofi&#x27;od. demuuue as his
 cnetuiesailwlm eattnot perceive the geo­  
 metrical logic ofEttelidittthe demon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn91064052:00513685579:1886040901:0500/pct:70.28019323671498,27.49125874125874,12.541062801932368,23.615967365967364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_galloway_ver01:data:sn91064052:00513685579:1886040901:0500/pct:70.26661514683153,27.487254187909688,12.543469860896446,23.61616897305171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -63,7 +63,7 @@ restore this once flourishing place to its form-
   
 er prosperity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1851093001:0033/pct:16.200706297822247,101.18059987236758,44.27604473219541,19.36821952776005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1851093001:0033/pct:5.400235432607416,33.72686662412253,14.75868157739847,6.456073175920017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -84,7 +84,7 @@ now 8apreem Being, to whom alone can
 te attributed the slgnel successes of onr  
 arms, I cannot bnt express my gratitud
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:0028077487A:1887012701:0244/pct:8.228133453561767,8.23545861297539,39.13435527502254,121.08501118568233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:0028077487A:1887012701:0244/pct:6.178128523111612,6.180089485458613,29.35738444193912,90.81375838926175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ alone can be attrebuted the signel successes
 of our arms, I cannot but express my grati­  
 tude to you gentlemen,&quot; Ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1887012701:1247/pct:11.136536994660565,202.33704068703364,50.41952707856598,9.460791214979587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282334:1887012701:1247/pct:2.7841342486651413,50.58426017175841,12.604881769641494,2.3651978037448966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ ing that now Supreem Being, to whom alono can
 be ntlrebutod the signel successes of our arms, I  
 cannot but express my gratitude to you, gentle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102962:1887021001:0333/pct:23.806998939554614,121.65276122367898,16.3441145281018,4.558998808104887/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102962:1887021001:0333/pct:17.857616333023994,91.23957091775924,12.263025321490124,3.4266984505363527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ Being, to whom alone can be attrebuted
 the signel successes of our arms, I cannot  
 but express my gratitude to you gentle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn93063557:00280777869:1887021801:0055/pct:334.3189964157706,193.572197447332,58.064516129032256,12.60956481623866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn93063557:00280777869:1887021801:0055/pct:83.61721201255043,48.393049361833,14.522635589421784,3.152391204059665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ wttrebuted the signel successes of our
   
 arms, I carnot but express my grat:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1887031201:0791/pct:24.73554866972967,91.14292849413135,9.595042205363821,2.9218346790976444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153565:1887031201:0791/pct:24.73554866972967,91.1484780376814,9.60928874167468,2.9218346790976444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ Being, to whom alone can be attrebute
 the signel successes of our arms, I cannot  
 but express my gratitude to you gentle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555353:1887040701:0342/pct:101.0880722644221,197.61415055532703,52.55594333812359,11.792129439188262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn86075021:00294555353:1887040701:0342/pct:25.272018066105524,49.40353763883176,13.138985834530898,2.9480323597970655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

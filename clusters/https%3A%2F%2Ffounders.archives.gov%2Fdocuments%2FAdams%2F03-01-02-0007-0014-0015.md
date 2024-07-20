@@ -127,7 +127,7 @@ when thon hast gathered in thy labours out of the
 field,&quot; and said that this feast was perhaps better known  
 as the Feast of Iabernacles, and we recognire it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530789:1864112501:0592/pct:53.46851654215582,95.26472781506338,50.764852365706155,23.17921948794432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530789:1864112501:0592/pct:17.822838847385274,31.754909271687794,16.921617455235385,7.72640649598144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ field.&quot;
 In obedience to this divine command, you  
 have come together at the end of the harvest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1869111201:0401/pct:26.64776754075124,66.7517223781577,38.69596031183558,20.719571319214086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:0028077702A:1869111201:0401/pct:6.663122452596137,16.687930594539424,9.675704412546517,5.179892829803522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ ing, which is in the end of the year, when thou hast
 gathered in thy labors of the deid.&quot; The preacher  
 sald that the feast here alluded to was what wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869111901:0626/pct:59.635550971291046,33.7641942498188,45.332645693656524,7.465571394056536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743683:1869111901:0626/pct:19.87851699043035,11.254731416606266,15.110881897885507,2.488523798018845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ which is iu the eud of the year, when
 thou hast gathered in thy labours out  
 of tho field.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767808:1877080401:0336/pct:30.222160122956545,44.83425147385716,13.888500768478412,10.96936310041558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767808:1877080401:0336/pct:30.22681756788226,44.83425147385716,13.888500768478412,10.97580619181083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ the year, when thou hast gathered in thy
 labors out of the field.&quot; Exodus, 23, 10.  
 &quot;When ye have gathered in the fruit of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:00296026931:1878080501:0648/pct:27.41187384044527,84.85127261576204,19.642857142857142,3.802514566084023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_himilco_ver01:data:sn85025759:00296026931:1878080501:0648/pct:20.5800464037123,63.64612082183379,14.733178654292344,2.8518859245630175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ ingathering, which is iu tho end of the year,
 when thou hast gathcied iu thy labours out  
 of tho fields.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777390:1878112201:0206/pct:49.688187820983124,17.24934989887316,14.288334556126193,2.7159780410286043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_eden_ver01:data:sn98060050:00280777390:1878112201:0206/pct:37.28440366972477,12.944235770008667,10.73394495412844,2.036983530771453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ which is in the end of the year, when
 thou hast gathered in thy labours out  
 of the fields.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1878112201:0395/pct:151.50310988251556,152.9979879275654,34.88251554941258,9.496981891348089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_montpelier_ver01:data:sn84023253:00200296291:1878112201:0395/pct:50.50976326248488,50.99932930918846,11.629514428892344,3.165660630449363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ hast gathered in thy labours out of ihe field.&quot;
 The sermon was able and impressive, marked  
 by patient research, and very appropriate t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879092701:0183/pct:3.478785441383471,41.066154754873004,10.818419465111603,2.820437093916125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562380A:1879092701:0183/pct:3.485488303505597,41.066154754873004,10.831825189355856,2.840126009056901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ sown in the field: the least of the ingathering
 which is in the end of the year, when thou hast  
 gathered in thy labors out of the field.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065151:00279523350:1879111501:0095/pct:11.837655016910936,55.197174808711004,17.343104096204435,3.107710417892878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065151:00279523350:1879111501:0095/pct:11.85018163597645,55.20109868550127,17.34936740573719,3.1194820482636847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ the continuance of the same.
 in the end of the year when thou hast  
 gathered in the labors from the field.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776130:1886111001:0964/pct:88.82716049382717,72.60213143872113,18.930041152263374,5.802249851983422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026497:00280776130:1886111001:0964/pct:66.63922617822597,54.45529899348727,14.200452768059272,4.351687388987567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -508,7 +508,7 @@ thou hast gathered in thy labors out
 of the field;” and again in Exodus,  
 &quot;And the Feast of Weeks thou shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529650:1890040301:0118/pct:34.92769744160178,6.5310492505353315,14.2825361512792,4.0685224839400425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ketchup_ver01:data:sn87068192:00279529650:1890040301:0118/pct:34.919928825622776,6.530050466432177,14.284919928825623,4.071723505123107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

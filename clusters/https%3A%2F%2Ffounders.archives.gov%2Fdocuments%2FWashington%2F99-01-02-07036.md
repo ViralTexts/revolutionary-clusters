@@ -71,7 +71,7 @@ we are engaged, and the honof of the two
 nations, mull inspire every breast with sen­  
 timents that are preiages of viéfory,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781102701:0035/pct:6.2128222075347,4.771739130434782,56.49372108393919,86.59782608695652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1781102701:0035/pct:6.21833002864067,4.77536231884058,56.49372108393919,86.59782608695652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ boast which the British make of their pecu­
 liar prowess in deciding battles with that  
 weapon.&quot; But Cornwallis did not &quot;offer t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037950:1881101501:0135/pct:70.8502739968181,15.08850105211041,11.773024571327559,4.010397326401782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175037950:1881101501:0135/pct:70.8635319073714,15.08850105211041,11.773024571327559,4.019680653546231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

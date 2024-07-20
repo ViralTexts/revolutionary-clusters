@@ -154,7 +154,7 @@ your people in my name, and assure
 them of ny friendship.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031001:0002/pct:57.87800516590503,2.341093382160607,34.47248162129942,91.48574417996338/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809031001:0002/pct:57.88462812106762,2.3498125381463075,34.48572753162461,91.48574417996338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ the establishment of fixed laws and&#x27; a réguﬁar
 oovernment. The deputies from the lower  
 towns to make knewn their desire 1o continu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818082501:0309/pct:23.16280384397965,62.17697729052467,16.619559072922556,7.11628817541112/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818082501:0309/pct:23.16751460335406,62.1835030018272,16.62898059167138,7.122813886713652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ a Government of regular law. In this
 you may always rely on the counsel and  
 assistance of tlig United Stoles.&quot; Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1829061701:0001/pct:38.19255222524977,77.37139458816533,14.963669391462307,5.709188224799286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1829061701:0001/pct:38.19255222524977,77.37139458816533,14.963669391462307,5.724055902468034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ by adopting industrious occupations, and a Gov
 ernmcct of regular law- In thia, you may always  
 rely on the counsel and assistance of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830081801:0784/pct:22.12577792335408,19.07863571766935,18.211595152309204,4.772619611558503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830081801:0784/pct:22.122154904208287,19.076376554174068,18.214071284318543,4.7760015788434975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ by adopting industrious occupations, and a Gov
 ernmect of regular law In this, you may always  
 rely on tho counsel and assistance of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830082001:0274/pct:22.19043077412176,17.617569825734066,17.739628040057223,4.332776318930533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830082001:0274/pct:22.18690400508582,17.61546723952739,17.742106378470016,4.336237418944186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ And whereas the President of the United Slates,
 after maturely considering the petitions of both parties,  
 on the ninth day of July, A. D. one thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845081801:0376/pct:33.853078283234204,69.24535456958665,15.3994534640733,9.758564024775628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845081801:0376/pct:33.853078283234204,69.25378165423672,15.415528050152709,9.754350482450596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

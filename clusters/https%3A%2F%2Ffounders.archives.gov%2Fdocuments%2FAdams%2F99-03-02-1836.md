@@ -266,7 +266,7 @@ W liispering a mingled sentiment
 Mahmiox.  
 Age was now settinn his signet upon m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1846051301:0527/pct:14.584824624194702,18.312572235777576,12.3478883321403,4.03236162835495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1846051301:0527/pct:14.582215065306853,18.310220852593734,12.3501520844516,4.035053929121726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ content. ()ft In ey luadt snell thought
 &quot;When musing on companions gone,  
 We doubly feel ourselves alone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82014899:00211105483:1868090501:0500/pct:158.53242320819112,299.9566285962122,40.955631399317404,3.3540552262541565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82014899:00211105483:1868090501:0500/pct:39.63310580204778,74.98915714905306,10.238907849829351,0.8385138065635391/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -396,7 +396,7 @@ its weight, if they whom death hath sun­
 der&#x27;dd did not meet again.&quot;  
 Let the dead in the majestic silence of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101039:1879020701:0401/pct:149.11312573906187,27.230926430517712,43.10208908159243,9.860354223433243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101039:1879020701:0401/pct:49.70437524635396,9.076975476839237,14.367363027197477,3.286784741144414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -412,7 +412,7 @@ Let the dead in the majestic silence of th
 &quot;When musing on companions gone,  
 We doubly feel ourselves alone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:0028077957A:1879073001:0092/pct:21.860701576004068,290.2206882125301,30.757498729028978,2.2173412822926473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_charlie_ver01:data:sn83045160:0028077957A:1879073001:0092/pct:5.465870090250413,72.55517205313252,7.690352103724418,0.5543353205731618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ There is a pleasure in this pain;
 It soothes the love of lonely rest  
  Deep in each gentle heart impressed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776506:1887111601:0551/pct:170.48155096935585,102.90376769858412,40.150093808630395,13.822894168466522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776506:1887111601:0551/pct:42.62705238467553,25.72594192464603,10.039093041438624,3.4557235421166306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ Long after it was heard no more.
 beauty won,  
 O, what were man?--a worl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550392:1895120101:0381/pct:146.38975155279502,178.30802603036875,41.284937888198755,18.058568329718003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550392:1895120101:0381/pct:48.796583850931675,59.43600867678959,13.761645962732919,6.019522776572668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -746,7 +746,7 @@ for whom we mourn.
 1 When musing on companions gone.  
 We doubly feel ourselves alone.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069313:00206533158:1899082501:0797/pct:67.11332312404288,64.3364034425487,14.356814701378255,3.0952740449947154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069313:00206533158:1899082501:0797/pct:50.37349166826279,48.25607730635664,10.764221413522314,2.3214555337460365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -42,7 +42,7 @@ In 1772 Mr. Madison, then 2I years old, returned
 to his father&#x27;s house at Montpelier. Here he oc  
 cupied himself for some time as tutor to the younge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859101501:0316/pct:6.348417039615448,135.7319806535331,48.26786010276811,26.64857850654713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_flavory_ver01:data:sn83030213:00206530637:1859101501:0316/pct:2.1161390132051494,45.243993551177695,16.089286700922703,8.882859502182376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -67,7 +67,7 @@ their black gown?, and the brll tolling. There are ahuul
 one hundred and fifteen student? in college and grammar  
 school, all of them iu American cloth.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1859111101:0596/pct:25.010550007033338,82.60044289781715,12.364608243072162,3.711905515132342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664370:1859111101:0596/pct:25.019927791062972,82.603957959858,12.364608243072162,3.715420577173187/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

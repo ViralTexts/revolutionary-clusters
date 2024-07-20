@@ -118,7 +118,7 @@ roe, and be assured of my constant and
 sincere friendship,— A Copv,  
 I (Signed) TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808110101:0357/pct:41.70140204622963,12.62433052792655,35.29746115953012,80.66819688854883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808110101:0357/pct:41.69350255730252,12.622720897615709,35.29708909515691,80.66216158782778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ dinecre friendship—A copy.
 (as-red)  
 TH : ]EFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110201:0520/pct:4.918032786885246,20.377392560491153,25.698239222829386,46.52401589021307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808110201:0520/pct:4.917286386401578,20.375552947548975,25.69939798654323,46.52282507297403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ candor and high under­
 d on ury mind  
 that I could not be easy without un- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808110401:0001/pct:6.148675365757216,68.71709259021446,16.963226571767496,10.838577115705663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808110401:0001/pct:6.16185580598392,68.72137322888575,16.96981679188085,10.838577115705663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ him, as they will l* to the other two
 candidates, under forms, which howev  
 er false, he can scarcely question 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808111401:0501/pct:23.83890317052271,57.70051845074718,17.309340188517567,2.6532479414455628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808111401:0501/pct:23.834818368745715,57.69465338483432,17.31065798492118,2.6555194145151453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ yourself aa two principal piUars of
 *y happioeak. Were either to  
 be withdrawal 4 sbonkl too
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808111801:1065/pct:21.888412017167383,12.483130904183536,33.18133047210301,81.57894736842105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808111801:1065/pct:21.882542236524536,12.481025468038455,33.17913649772057,81.56940462135267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ sincere friendship for both will insure its sacred ob­
 servance. / suffer no one hi converse with nu  
 upon the subject.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1835070601:0366/pct:49.6549004141195,91.76470588235294,15.775981068822718,5.602941176470588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348859:1835070601:0366/pct:49.64511041009464,91.7512130569034,15.777799684542586,5.605793265696221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -714,7 +714,7 @@ will insure its ohs rv in e. / safer no one to con­
 verse with tm on the subject &quot;  
 The “ sec * a 1 Jellersou” is in loud at an infinit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836090501:0044/pct:2.295332823259373,47.61835184102864,14.996174445294567,6.180596142606663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348860:1836090501:0044/pct:2.2948938611589216,47.611395178962745,14.998087588449033,6.183345507669832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -748,7 +748,7 @@ k,l&#x27;t they will m&gt;t. For independently of the
 * 1 insure its observance. I suffer no one to  
 v&#x27; &#x27;nv*rse with me on the subject.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836090901:0312/pct:1.7304901194596405,80.58677124971717,16.69085631349782,5.377479447922166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836090901:0312/pct:1.730296941281536,80.58069381598793,16.692714147503164,5.379587732528909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -864,7 +864,7 @@ however false, he can scarcely question. Yet !
 have been equally careful as to him. also, never  
 to say a word on the subject.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840091501:0500/pct:53.82565664255805,69.55173385959966,13.932242101256186,8.387369608119538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016475:00296026402:1840091501:0500/pct:53.83200101509961,69.55173385959966,13.938586473797741,8.387369608119538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -41,7 +41,7 @@ under the Linited States, in .foreign coun­
 tries.  
 On the suggestion o&#x27; Mr. Tnlbnadge, tf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810050101:0452/pct:76.79708826205642,62.63388510223953,17.470427661510463,4.6007789678675755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810050101:0452/pct:76.78311499272198,62.62626262626262,17.47331392527899,4.604275688613038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -60,7 +60,7 @@ be requested to cause to be laid before this
 house a statement of the Indian agents and in­  
 terpreters who now are or have been in offic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812010401:0017/pct:1.0215136975700356,69.49000627408802,22.194706701748956,3.352155597382809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812010401:0017/pct:1.021355617455896,69.48377845492024,22.196430413700607,3.3548425643783233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

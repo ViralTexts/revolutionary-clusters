@@ -98,7 +98,7 @@ enterprises of force attempted on them by the others
 and to none has it given more effectual or diversified |  
 means than to the Exccutive.??
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837072501:0521/pct:64.3615360599438,57.18914540299716,14.783015922572588,7.128392061563386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837072501:0521/pct:64.3615360599438,57.19589577426758,14.798626287855136,7.128392061563386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -255,7 +255,7 @@ stitutional right. But, however this may
 be, his intimation that he would, if nec­  
 essary, resist the execution of the proces
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895090901:0104/pct:38.72301332108406,91.11629111629112,16.869545245751034,17.67245100578434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665568:1895090901:0104/pct:29.052268811028146,68.34153500820167,12.659391154508903,13.252179918846586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

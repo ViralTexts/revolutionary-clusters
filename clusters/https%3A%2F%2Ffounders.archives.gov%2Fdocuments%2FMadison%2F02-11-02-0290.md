@@ -241,7 +241,7 @@ trust created by the treaty of the 30th April, 1803, with the
 French republic ceding Louisiana.  
 &quot; Upon the admission of Alabama into the Union, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855110901:1173/pct:3.5696579077838373,46.730175077239956,15.947777226904645,5.59989701338826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855110901:1173/pct:3.5696579077838373,46.738757294885,15.953285958243816,5.59560590456574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ ships of France shall be treated on the
  footing of the most favored nations in the  
 port above mentioned.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861111401:0018/pct:144.40035837706387,150.07215007215007,40.9957762703187,18.547378547378546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn89060119:00415623495:1861111401:0018/pct:48.133452792354625,50.02405002405003,13.6652587567729,6.182459515792849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ tional tonnage duty upon articles, the growth
 and produce of the United States and of France,  
 imported into either country in the ships of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475439:1878061501:0133/pct:107.37885462555066,99.70452209660843,45.09911894273128,25.28263103802672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475439:1878061501:0133/pct:35.79295154185022,33.234840698869476,15.033039647577093,8.427543679342241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

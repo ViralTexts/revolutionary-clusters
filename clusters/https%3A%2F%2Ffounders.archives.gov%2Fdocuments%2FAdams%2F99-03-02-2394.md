@@ -106,7 +106,7 @@ is not becoming a moral and religious people to
 express any approbation of American naval uiul  
 military exploits”—it it becoming in the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813072901:0237/pct:77.25298588490772,16.433059449009182,16.757148027506332,2.2595456742387627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813072901:0237/pct:77.23900850370906,16.431074060649994,16.760147156383812,2.263299907373847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -246,7 +246,7 @@ ple to express any approbation of military and naval
 exploits not directly connected with the defence of  
 our sea coast and our soil.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022652:1861080701:0556/pct:49.011713030746705,84.56324338150658,19.39970717423133,3.632178027880803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022652:1861080701:0556/pct:36.78813404138436,63.42243253612994,14.557773301593114,2.7241335209106023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ they were won in a contest prosecuted in
 a manner &quot;indicating that conquest and  
 ambition are its real motives.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_orwell_ver01:data:sn86071719:00280777730:1899041201:0117/pct:20.764617691154424,149.56573824498352,49.47526236881559,7.067984426474992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_orwell_ver01:data:sn86071719:00280777730:1899041201:0117/pct:5.191154422788606,37.39143456124588,12.368815592203898,1.766996106618748/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

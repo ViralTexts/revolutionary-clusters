@@ -52,7 +52,7 @@ his former fellow-slaves.?Puge 68.
 Friday, March 28.  
 Thn committee last montinned reported tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853060901:0778/pct:47.81093139988845,41.39281620175774,15.337423312883436,10.19296904852885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1853060901:0778/pct:47.82022680795687,41.39281620175774,15.328127904815021,10.202521971723348/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -92,7 +92,7 @@ remain in bondage—experience having shown that
 a freed man immediately loses all attachment and  
 sympathy with hie former fcllow-sLavea.’-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861121901:0002/pct:11.953629798555681,45.318782309017806,10.167236792094261,4.264790350373349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1861121901:0002/pct:11.963131889015584,45.318782309017806,10.171987837324211,4.275560022975301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ man immediately loeea all attachment and
 armpathy with bU former fellow-elaves.&quot;  
 Thia Mediaonian policy would make ahor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654176:1861122001:0530/pct:3.6587366694011485,73.6955584303579,18.26086956521739,8.721431651573955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_leonberger_ver03:data:sn83045462:00280654176:1861122001:0530/pct:3.6628383921246925,73.69825355756792,18.26086956521739,8.726821905993964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ would make short woik of the rebellion, and
 leave us with hands free to deal with foreign  
 foes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1861122001:0409/pct:26.751824817518248,35.97809296447128,16.05839416058394,11.47310770959135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn84028745:00280775320:1861122001:0409/pct:20.076656324146743,26.990591209099847,12.045993794488044,8.608341525066704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ mak; soldiers at once of the blacks them­
 selves, as to make them instrument for  
 enlisting white soldiers.&quot; He furthe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1862012401:0225/pct:58.108108108108105,88.55353075170842,16.613672496025437,5.082574031890661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194941:1862012401:0225/pct:43.607078942135615,66.41514806378132,12.467687413004574,3.8154897494305238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ those who should remain in bondaze, experience having
  shown that a freedman immedistely loses all attachment and  
 eympathy with his former felloa slaves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530716:1862073101:0690/pct:104.28921568627452,125.791687283523,48.581932773109244,21.536368134586837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basic_ver01:data:sn83030213:00206530716:1862073101:0690/pct:34.76307189542484,41.930562427841004,16.193977591036415,7.178789378195613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ In the “ Old Dominion,” too, many persons
 during the course of the war caused their  
 slaves to enlist, having tendered them to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863021001:0003/pct:23.74323279195669,77.46437054631829,10.382830626450117,9.946555819477435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863021001:0003/pct:23.748066511987627,77.46437054631829,10.392498066511987,9.961401425178147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ from the
   
 example on those wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:0027952830A:1863021201:0079/pct:115.9438574357357,84.31753283837807,50.228670556694524,40.10279840091376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ivysaur_ver01:data:sn83025182:0027952830A:1863021201:0079/pct:38.64795247857856,28.105844279459358,16.742890185564843,13.367599466971255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ bondage, expe-ience having shown that a &#x27;
 &#x27;riadman imuivniutelv loses ail ai&#x27;achrnent I  
 and sympathy with n i rtnar tallow*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026190:1863021201:0290/pct:57.21234798877455,30.934325368436113,12.927970065481759,8.956932322220633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83016179:00296026190:1863021201:0290/pct:57.2185843467415,30.93909476796871,12.934206423448705,8.961701721753231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ have faadolged ia toward those who are,now
 trying to carry eart the polioy which he advo­  
 cated. Sir, 4otosbe eoateat to go otraigh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1863021401:0558/pct:19.01019896338405,67.2194184090363,14.128072228724294,16.077865897620764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1863021401:0558/pct:19.02134537145405,67.22342385644477,14.128072228724294,16.07386045021229/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ danger cuu be feared from themselves, as there cer­
 tainly could be none from the effect of the oxample  
 on those who should ruinuin in bondage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1863021801:1054/pct:92.11072664359861,86.45144561130559,16.124567474048444,5.147154155322183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1863021801:1054/pct:69.10695742471444,64.83858420847919,12.09761163032191,3.863606897445871/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -603,7 +603,7 @@ In the &quot;Old Dominion,&quot; too, many
 persons during the course of the war  
 caused their slaves to enlist having ten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863021801:0141/pct:270.75757575757575,219.3460117663155,48.86363636363637,59.926118484060744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863021801:0141/pct:67.70221632885016,54.83650294157888,12.218223148323546,14.981529621015186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ tachment and sympathy with his former fellow­
 slaves,&quot;In Virginia uu act was passed in 1777&#x27;  
 that no negro should be enlisted withou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1863022501:1058/pct:74.4018296973962,90.54299818134581,16.29134412385644,11.067809820732657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85026193:00280775769:1863022501:1058/pct:55.83524027459954,67.91374382956612,12.233761661679281,8.300857365549493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ atel y looses all attachment and sympathy
   
 that they have
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:0027952858A:1863030501:0145/pct:44.56430372653404,30.620352449831923,25.46931913701317,5.113578486299277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:0027952858A:1863030501:0145/pct:44.57364341085271,30.620352449831923,25.464649294853835,5.127160368068996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -753,7 +753,7 @@ certainly could be none from the effect of
 the example on those who should remain  
 in bondage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1863031101:0185/pct:8.861538461538462,113.32245102963336,14.246153846153845,7.69713711702662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn84028385:00237286881:1863031101:0185/pct:6.6492227181776205,84.99497739829232,10.697244882253347,5.775991963837268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -828,7 +828,7 @@ that a freedman immediately loses all attach-
 iHe  
 e and smpat wit his former 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667127:1865012601:0045/pct:22.692503824579298,273.70786516853934,57.215706272310044,44.08239700374532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667127:1865012601:0045/pct:5.675296518301237,68.42696629213484,14.309399311312333,11.02059925093633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

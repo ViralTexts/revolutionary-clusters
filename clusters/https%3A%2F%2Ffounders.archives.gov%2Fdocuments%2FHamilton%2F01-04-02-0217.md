@@ -261,7 +261,7 @@ Ministers, ■’authorizes the nominalinu and appointment
 tonlI5e.es of a diph malic character only, existing by  
 virtue of intei nat innal laws; and does not authorize th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826032101:0059/pct:76.65925690695458,37.90063147861313,17.87869164814227,4.170141784820684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826032101:0059/pct:76.64708683918082,37.89611627352871,17.881145155315657,4.173616074974188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ and by and with the advice and consent
 of the Senate, to appoint “ Ambassadors  
 and other Public Ministers,” authorize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826040801:0195/pct:61.245401996847086,89.97020854021847,17.20966894377299,5.047997351870242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898036:1826040801:0195/pct:61.22931442080378,89.95532020519609,17.211715261360652,5.051299023663743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ of the Senate appoint,” all “officers of the U.
 nited States whose appointments are not in the  
 constitution otherwise provided for,”” with a pro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834042901:0381/pct:61.44141531322506,67.99872122762149,14.037122969837586,1.555839727195226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1834042901:0381/pct:61.45108275328693,67.99872122762149,14.027455529775715,1.562944018186985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ to authoi ize the I resident, ling/y, to make teiuiiora
 pointiuents daring the recess ol the Senate, by gri  
 commissions which should expire at the end of the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848051601:0510/pct:5.632666236281472,83.69098712446352,14.009038089089735,4.632668518050997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848051601:0510/pct:5.643425866150205,83.69098712446352,14.009038089089735,4.641083901371707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ jn a throne surrounded with minions, and giving audislice
 to the envoys of foreign potentate&quot; in ail Hie supercilious  
 pomp ol majesty, .&quot;sir, what was supposed to b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848090201:0881/pct:62.295342552853285,57.278721785442556,17.26275631855031,3.3984275932031447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848090201:0881/pct:62.295342552853285,57.2829486854341,17.27335346791713,3.3984275932031447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,13 +602,13 @@ these jealouses and apprehensions in opposition
 to the ascendancy of thewhig party, to break  
 up their organization, and thus secure a tri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852032201:0286/pct:93.50247524752476,92.28986402966625,38.79950495049505,64.66316440049444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852032201:0286/pct:31.167491749174918,30.76328800988875,12.933168316831683,21.554388133498147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States Review (1853-1856)_](https://archive.org/details/sim_united-states-democratic-review_1855-11_36/page/n1/mode/1up?view=theater)
+## [From _The United States review_](https://archive.org/details/sim_united-states-democratic-review_1855-11_36/page/n1/mode/1up?view=theater)
 
 #### 1855-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -709,7 +709,7 @@ the Secretary of War or any civil officer from office by
 virtue of the Constitution. The power of removal during  
 the recess of the Senate was 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042301:0777/pct:245.73775573465593,84.5685166722056,47.44265344079355,22.665337321369226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530881:1868042301:0777/pct:81.9125852448853,28.18950555740187,15.814217813597852,7.5551124404564085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -767,7 +767,7 @@ fluence on the Legislature.
 This is no time for structural changes in  
 our organic system. The government ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768108:1878012201:0037/pct:19.37535330695308,40.50385604113111,12.379875635952516,12.75064267352185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:00280768108:1878012201:0037/pct:19.384774825701903,40.50385604113111,12.389297154701337,12.760925449871465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ Legislature, the power of appointing all officers
 whose appointments are not in the Constitution  
 itself otherwise provided for. Accepting th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896062802:0361/pct:124.35114503816794,314.6546546546547,50.76335877862596,28.34834834834835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896062802:0361/pct:31.099656357388316,78.66366366366367,12.695685376097748,7.087087087087087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

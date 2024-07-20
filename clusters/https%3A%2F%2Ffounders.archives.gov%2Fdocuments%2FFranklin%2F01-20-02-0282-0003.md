@@ -201,7 +201,7 @@ endeavoring to exculpate them, declaes that he did not ‘‘believe
 if the Mob had seized them, there was any authority able and  
 willing to have rescued them :* by which clause, and by othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773071601:0095/pct:33.3756345177665,21.903000995590954,26.205583756345177,2.0907410041245913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773071601:0095/pct:33.3756345177665,21.903000995590954,26.212633953750704,2.109704641350211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

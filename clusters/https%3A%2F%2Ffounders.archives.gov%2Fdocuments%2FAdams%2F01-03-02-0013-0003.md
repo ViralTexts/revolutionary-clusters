@@ -344,7 +344,7 @@ Sto, calf. Fine copy.
 Bry ant&#x27;s New System, or an Analysis of  
 Ancient Mythology. 3 vols, tto calf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293253:1858051901:0471/pct:337.7212389380531,37.14520773344303,42.75442477876106,5.347593582887701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293253:1858051901:0471/pct:84.44198589406722,9.286301933360757,10.690084359009818,1.3368983957219251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

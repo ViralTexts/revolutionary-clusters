@@ -37,7 +37,7 @@ inthorty for a dissolution of the Union.” &quot;They
 ind death f&lt; + &#x27;he Union.”  
 The Journal has no doubt, that thU Citizen wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021901:0393/pct:64.76977950713359,82.23961468994581,15.256160830090792,3.383503913305238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021901:0393/pct:64.75928027232939,82.22971346014928,15.259091154698222,3.3871097198812103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -79,7 +79,7 @@ rican federalists in this city have received let­
 ters from their friends in London and in Got­  
 tenburg,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829022701:0052/pct:24.33853162782548,35.97113792287674,18.52111442088663,5.050863496569671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216419:1829022701:0052/pct:24.33426769446391,35.96688350088705,18.52370941368839,5.054208555095604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ i! • fcarnc view of the subject, th augh pronmt id bv 1
 more than seven years the projects of the Boston fae-:  
 tion
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829030201:0308/pct:42.93218720152817,41.361256544502616,18.354027379815346,23.7347294938918/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829030201:0308/pct:42.92535413019258,41.35644485807352,18.356411480715156,23.73584612998294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ j mean* rfidrcu-lt to account for. There is much
 i foreign hope and fear involved in these Massachu­  
 I setts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829030301:0414/pct:19.47376969303232,50.75165363800361,15.94932597044015,11.016235718580878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829030301:0414/pct:19.47060734004547,50.745550745550744,15.952148966114539,11.018919352252686/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ the energy of the Union and its Government, that
 in the prospectus cf a war with America, which  
 most of the British Statesmen now at the hel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1829030701:0065/pct:74.95421245421245,75.36585365853658,17.399267399267398,18.38137472283814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024689:0041418411A:1829030701:0065/pct:74.94277430184648,75.35749916860658,17.40169896739407,18.38303218416288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -278,7 +278,7 @@ their threats of resistance to the laws; they seem
 , as in the line of wise policy, they and all their  
 . partizans calculato
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829030901:0039/pct:4.410427402243104,6.342685370741483,33.585935131858136,84.61923847695391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829030901:0039/pct:4.4154794382136,6.342685370741483,33.585935131858136,84.62925851703407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

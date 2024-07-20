@@ -764,7 +764,7 @@ after this other white men, among whom was
 a notorious character named Daniel Great­  
 house, committed a dreadful crime. Thero wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289432:1887022401:0389/pct:59.455755677368835,34.41185364378591,16.268598277212217,11.505896583005745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289432:1887022401:0389/pct:44.62291870714985,25.80889023283943,12.203721841332028,8.633202298155428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ was argued. It was generally agreed that
 Logan unci his followers had no hostile Inten­  
 tions, as I myself and others present had bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282735:1887022501:0184/pct:38.196594427244584,118.47249583270192,14.531733746130032,5.4402182148810425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282735:1887022501:0184/pct:28.668215253581106,88.8619487801182,10.898180410375533,4.076375208364904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

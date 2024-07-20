@@ -195,7 +195,7 @@ the m
 Here love his golden shafts employs, here lights  
 His constant lamp, and waves his purple wi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1857091901:0419/pct:60.707047962170684,122.60183968462549,51.00202657059221,10.200394218134035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279520944:1857091901:0419/pct:15.173345339936965,30.64542617835441,12.74763619990995,2.5496797503695188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ i— i m
 Here love his golden shafts employs, here lights  
 His constant Lamp, and waves his purple Avings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1866032701:0062/pct:19.74178051343642,44.987643709036206,14.382224891157485,3.6316750832706566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762477:1866032701:0062/pct:19.74178051343642,44.9912252426489,14.397237652004204,3.6388381504960425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ His constant lamp and waves his purple wings
 Here love his g.dden shaft employs, herelights  
 His constant lamp and waves his purple wings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:0021247020A:1866061501:0097/pct:47.93972939729397,9.137812428342123,17.650676506765066,1.1006649850951618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:0021247020A:1866061501:0097/pct:35.97908014151669,6.856225636321945,13.24411628980157,0.8254987388213713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ Hero love his golden shafts employs, here
 lights  
 His constant lamp, and waves his purpl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032490:00237283004:1886092601:0436/pct:45.92848557692308,103.5146173688736,18.9453125,3.4716251074806537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brockovich_ver02:data:sn85032490:00237283004:1886092601:0436/pct:30.632797234330376,69.01332760103182,12.640913873440553,2.310834049871023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

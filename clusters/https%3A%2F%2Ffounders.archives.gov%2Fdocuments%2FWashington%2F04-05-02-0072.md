@@ -165,7 +165,7 @@ will see. When that happens they are roused
   
 to action
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045119:1893121401:0285/pct:65.11111111111111,158.10851773264625,49.25925925925926,17.399211882388602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045119:1893121401:0285/pct:16.27777777777778,39.52712943316156,12.314814814814815,4.349802970597151/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ they are roused to action. Hence it is
 that those kind of governments are so  
 slow. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761023:1899082601:0522/pct:29.1866028708134,57.53591759284359,19.497607655502392,8.403361344537815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_charlie_ver01:data:sn84024055:00280761023:1899082601:0522/pct:21.903052064631957,43.15532664678775,14.641930979453422,6.302521008403361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ the3r are roused to action. Hence it is
 that those kind of governments are so  
 elow. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556023:1899100601:0559/pct:100.4594423320659,77.03516377649326,18.74207858048162,8.369460500963392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn88068010:00294556023:1899100601:0559/pct:75.36048169862146,57.77938342967245,14.054824908889241,6.286127167630058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

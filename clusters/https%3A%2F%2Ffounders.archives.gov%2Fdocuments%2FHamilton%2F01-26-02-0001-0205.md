@@ -391,7 +391,7 @@ was never Seen by me &#x27;till after the re­
 ceipt, of your lever.  
 1 nave ths honor to be, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0002/pct:22.475247524752476,58.1898226077949,17.02970297029703,36.760326298070694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1804072301:0002/pct:22.48184818481848,58.19413871984117,17.02970297029703,36.76895852216324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +526,7 @@ was not seen by me till after the re­
 ceipt of your letter. I have the hon­  
 our to be, &amp;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804072401:0532/pct:7.20679012345679,5.907213524157141,35.138888888888886,89.19412160215157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1804072401:0532/pct:7.217078189300412,5.913617007652163,35.138888888888886,89.20052508564659/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -639,7 +639,7 @@ The publication of Doctor Cooper wa* i&#x27;­
 never seen by me ’till after the receipt of  
 your letter. I have the honour to be, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0016/pct:48.9656912209889,11.769493732703891,44.752774974772954,86.87937489825818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804072401:0016/pct:48.95334174022699,11.767578125,44.74779319041614,86.86930338541667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ The publication of Doctor Cooper was never feen
 by me tiii after the receipt of your letter.  
 1 have the honor to be, &amp;.c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0098/pct:40.18471568272365,2.261369315342329,36.019558131111914,94.21539230384808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183785:1804072501:0098/pct:40.17743979721166,2.2610868207370394,36.019071760516624,94.20778679991672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ ed that I shall enter into an e^danati­
 ■ j ou have adopted. I trust on mo”e re.  
 ! flection von will cco #%.. ....... ... .v,.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:5.840674071237074,12.323205866946045,36.46112600536193,83.17181770560502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184170:1804072501:0223/pct:5.839555810836684,12.321592248265025,36.46052715553003,83.16529178124046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -895,7 +895,7 @@ I&#x27;he publication of Doélor Coopet way
 never feen by we rill afrer the receipt of your  
 letter. I have the honor to be, &amp;e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0528/pct:24.985814261395877,20.5620287868403,20.124834499716286,29.01530728809687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1804072601:0528/pct:24.99211903410882,20.5620287868403,20.13744404514217,29.01530728809687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1123,7 +1123,7 @@ I iie [UhlicatroR (^•dntflor’Coop&#x27;r waf. never
 fern by rne it I after the rdt?eiyt cf your letter.  
 / Lj9* the hoW’ 10 bL A ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0159/pct:2.5436850254368504,11.192930780559646,46.118115461181155,83.70598473691257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016081:00332895060:1804073001:0159/pct:2.5431225121627596,11.191432396251674,46.11344537815126,83.69812583668005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1236,7 +1236,7 @@ I have the honor to be See.
 A. HAMILTON.  
 Col. Burr.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0311/pct:2.6315789473684212,12.909374458499393,45.05907626208378,84.64737480505978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804080301:0311/pct:2.6308724832214767,12.907137907137907,45.053691275167786,84.63704088704088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1662,7 +1662,7 @@ says Dr. Cooper* “ have declared, in sub­
 “ Ought not to be trusted with the reins of  
 “ government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804080901:0044/pct:47.87012987012987,28.38191942351785,21.142857142857142,8.72911889944317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804080901:0044/pct:47.857699298883404,28.377271982970363,21.143858737990133,8.731783199607008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1698,7 +1698,7 @@ will see the matter in the same light with
 me. If not I can only regret the circum­  
 stances and abide the consequences.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804082801:0076/pct:46.96930616456023,26.84486716956379,20.608718080990457,16.07084289931125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804082801:0076/pct:46.95719443011862,26.840465650106577,20.609850438370295,16.07230693556321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1723,7 +1723,7 @@ that “ he looked upon Mr. Burr to be a
 dangerous man, and one who ought not to  
 be trusted with the reins of government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804082801:0076/pct:47.27882383286046,84.37192522138406,20.944028888315707,8.166612003935716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804082801:0076/pct:47.26663228468283,84.35809149040827,20.945074780814853,8.169372028201344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1750,7 +1750,7 @@ Rnrr’a knowledge, and on that day he sent a
 sopy of it to Hamilton, by Mr. Van Ness, in  
 which he demanded “
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:23.61111111111111,26.565279260049806,18.370020964360588,6.794734969761651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:23.608017817371937,26.562916851934194,18.371981309227476,6.797095005187491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1775,7 +1775,7 @@ more reflection, you will see the matter in the
 same light with me. If not, 1 can only regret  
 the circumstance, and abide the consequences.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:23.61111111111111,36.250444681607966,18.57966457023061,6.350053361792956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834051401:0465/pct:23.608017817371937,36.24722098710538,18.58159744967029,6.352452942048318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1876,7 +1876,7 @@ on Mr. Burr to be a dangerous man. and
 me who ought not to be trusted with the  
 reins of government.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1837120101:0232/pct:22.29583095374072,29.6831744078745,15.248429468874928,4.913872654567825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1837120101:0232/pct:22.293284604842395,29.680891964628987,15.250494898736104,4.916057926438549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1896,7 +1896,7 @@ which you seem to think necessary.”
 Too correspondence was continued  
 through several letters, hut widening th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1837120101:0232/pct:22.284408909194745,39.549369424792374,15.179897201599086,3.191325745924331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215610:1837120101:0232/pct:22.281863864778437,39.54632833525567,15.181970458352367,3.1936434704600796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1923,7 +1923,7 @@ vow it was either a distinct denial or
 avowal vif the obnoxious words. The  
 time and place ol meeting were then
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1837122301:0104/pct:15.886198975083937,52.73179838207841,15.515108676444601,8.06471686372122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187122:1837122301:0104/pct:15.883392226148409,52.72523643603783,15.518256772673734,8.067861290857806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1983,7 +1983,7 @@ upon Mr. Burr to be a dangerous man, and
 onr who ought not to be trusted with the reins  
 of government.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.18331313830708,37.25515972130932,14.124978362471872,3.7596950177468123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82015686:00415668818:1838021001:0281/pct:33.1948531533091,37.263923579159545,14.119208354970862,3.768458875597038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2681,7 +2681,7 @@ The publication of Dr. Cooper w as never seen
 me till after the receipt of your letter.  
 I have the honor to be, &amp;c.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846092501:0512/pct:7.51555287979129,37.08604730887898,15.01103752759382,38.03908124785739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00279550304:1846092501:0512/pct:7.514798836159326,37.083504730563554,15.012875823551052,38.03875862699392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2811,7 +2811,7 @@ thrilling trampets breathed forth their most joyen ter or o o not interogate me 
 ful notes, till the heavens rung with the melody, the opinion which is specifically ascribed to me.  
 Such bursts of music had welcomed Napoleon I must conclude that you view it as within the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0332/pct:220.72808320950966,168.2398337785693,98.7369985141159,38.94330661917483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0332/pct:55.182020802377416,42.05995844464233,24.684249628528974,9.735826654793707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2829,7 +2829,7 @@ was taken, it was no ordinary obstacle or danea to ao o io o an ei­
 ger that could shake it. Such men as Murat, ly any precise or definite opinion which I may  
 and lernnes, and Angerean, relied very much onbe charged with having declared of any gentl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0332/pct:221.99108469539377,262.98604927278126,97.32540861812778,7.242505194419709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0332/pct:55.49777117384844,65.74651231819531,24.331352154531945,1.8106262986049273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2904,7 +2904,7 @@ The publication of Dr. Cooper was never
 seen by me till alter the receipt of your letter.  
 I have the honor to be &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0332/pct:269.9851411589896,133.68952211338677,50.22288261515602,156.96052241021076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1846101601:0332/pct:67.4962852897474,33.42238052834669,12.555720653789004,39.24013060255269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3002,7 +3002,7 @@ The publication of Dr. Cooper was never
 see u by me till after the receipt of your letter.  
 I have the honor to be, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846112101:0482/pct:25.197628458498023,37.53860231041976,20.28514963297572,66.06427999542491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:0041615689A:1846112101:0482/pct:18.904419031483833,28.15967059361775,15.219539743046731,49.54820999656868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3033,7 +3033,7 @@ reflection, you will see the matter in the same light
 If not, I can only regret the circumstance, and must  
 abide the consequences.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851091301:0510/pct:58.29573064908018,74.7308647817343,47.37938215897258,9.51141606530226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crunchy_ver01:data:sn83030213:00206530352:1851091301:0510/pct:19.43191021636006,24.9102882605781,15.793127386324192,3.17047202176742/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3053,7 +3053,7 @@ Upon this latter passage Burr seized as the
 means of forcing Hamilton into a duel. For his  
 agent and assistant therein, he selected Willia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851091601:0462/pct:19.23040107207811,79.39000558347293,12.644778405283814,2.666108319374651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851091601:0462/pct:19.228560490045943,79.38446507083538,12.646758550280756,2.6682485402563567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3075,7 +3075,7 @@ will see the matter in the same light. 11 not,
 I can only regret the circumstance, and must  
 abide theconsequences.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851091601:0462/pct:32.401646405666696,7.370184254606365,12.558629271561214,3.7339475153545507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851091601:0462/pct:32.39854517611026,7.369669900202386,12.560617662072486,3.7360132132970434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3196,7 +3196,7 @@ you will see the matter in the same light. If
 not, I can only regret the circumstances, and  
 must abide the consequences.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1851120301:0089/pct:36.48182957393484,101.26273814798405,25.485588972431078,5.449712007089056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026466:0020219798A:1851120301:0089/pct:24.33025223249256,67.512184315463,16.99827667241109,3.633141338059371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3215,7 +3215,7 @@ not be reasonably expected that I shall enter
 into any explanations upon a basis so vagu  
 that you have adopted. I trust, on more
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851120301:0774/pct:9.40099833610649,301.87651331719127,59.56738768718802,14.648910411622277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851120301:0774/pct:2.3512276321265086,75.46912832929782,14.898044111527257,3.662227602905569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3258,7 +3258,7 @@ same light. If not, I can only regret the
 circumstance, and must alide the conse­  
 quences
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852012901:0356/pct:200.37622272385252,212.15719536330224,47.27238525206923,17.825841108283857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852012901:0356/pct:50.084634192213656,53.03180212014134,11.815873612939628,4.455830388692579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3313,7 +3313,7 @@ as the means of forcing Hamilton into
 a duel. For his agent and assistant  
 therein he selected William P. Va
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852021101:0449/pct:58.79204892966361,265.4981549815498,45.41284403669725,40.65190651906519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852021101:0449/pct:14.698012232415902,66.37453874538745,11.353211009174313,10.162976629766298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3338,7 +3338,7 @@ the matter in the same light. If not, I
 can only regret the circumstance and a­  
 hide the consequences.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852021101:0449/pct:104.20489296636086,76.01476014760148,44.03669724770642,27.675276752767527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852021101:0449/pct:26.051223241590215,19.00369003690037,11.009174311926605,6.918819188191882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3481,7 +3481,7 @@ lenge, on the part of Burr, to mortal combat. Hamilton
 perceived at the beginning that Burr was determined to  
 jtorce him to fight, against his own conviction of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00205958198:1872111701:0004/pct:7.9198989716759876,16.126543209876544,11.888868843586506,2.2376543209876543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00205958198:1872111701:0004/pct:7.92440916471225,16.129758230452676,11.893379036622768,2.2472993827160495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3655,7 +3655,7 @@ light with me. If not, I can only re­
 gret the circumstances, and must  
 abide the consequences.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767827:1895050201:0151/pct:63.698407539811505,9.625069949636261,13.958401039974001,12.378287632904309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_goshen_ver01:data:sn83016758:00280767827:1895050201:0151/pct:63.698407539811505,9.625069949636261,13.963817571227386,12.378287632904309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3692,7 +3692,7 @@ part of April. Im»4. and about the mid­
 dle of June the paper containing Dr.  
 Cooper’s letter was brought to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jicama_ver01:data:sn98062949:00340581088:1895050901:0163/pct:27.637552206282912,4.3574250522891,34.138369348102415,88.5661166627934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jicama_ver01:data:sn98062949:00340581088:1895050901:0163/pct:27.64663155983294,4.36323495235882,34.142909024877426,88.56321171275854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3731,7 +3731,7 @@ light with me. It&#x27; not. I can only re­
 gret the circumstances, aud must  
 abide the consequences.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jicama_ver01:data:sn98062949:00340581088:1895050901:0163/pct:45.16070455783548,26.679061120148734,16.54258216814963,13.839181966070184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_jicama_ver01:data:sn98062949:00340581088:1895050901:0163/pct:45.16978391138551,26.679061120148734,16.551661521699653,13.847896816174762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3770,7 +3770,7 @@ light with me. If not. I can only re­
 gret the circumstances, and must  
 abide the consequences.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1895051101:0017/pct:51.980830670926515,23.38113376652476,13.977635782747603,12.682052431100157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_krypton_ver01:data:sn88076086:00199918382:1895051101:0017/pct:51.980830670926515,23.38113376652476,13.982960596379126,12.685786839943237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3803,7 +3803,7 @@ part of April, 1804, and about the mid
 die of JUne the paper containing Dr.  
 Cooper&#x27;s letter was brought to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478088:1895080301:0267/pct:25.806451612903224,79.24607038531089,16.713709677419356,12.046181666434832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478088:1895080301:0267/pct:19.366552350211823,59.43803032410627,12.547912043574742,9.041591320072333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3838,7 +3838,7 @@ light with me. If not, I can only regret
 the circumstances, and must abide the  
 consequences.&quot; ..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478088:1895080301:0267/pct:25.887096774193548,108.55473640283766,16.81451612903226,13.117262484351093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478088:1895080301:0267/pct:19.427072826306233,81.41605230212825,12.628606011700626,9.848379468632633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

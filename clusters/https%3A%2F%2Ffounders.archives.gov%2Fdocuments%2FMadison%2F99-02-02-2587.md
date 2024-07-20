@@ -54,7 +54,7 @@ to estaldish.
 Resolved, Tliat a copy of these resohtj,  
 be forwarded m said communication
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1832080201:0132/pct:81.84754521963825,3.8106071377790416,17.248062015503876,9.270581544149012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1832080201:0132/pct:81.82992465016146,3.810065396644868,17.2497308934338,9.272817742394086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ long be preserved, to enjoy the blessings
 of our free government, which he, in so  
 eminent a degree,contributed toestablish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn85026864:00414184510:1832080301:0190/pct:63.72532758334715,12.746435213887167,30.58550340023221,82.41785492870427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn85026864:00414184510:1832080301:0190/pct:63.714759535655055,12.74485494668981,30.58595909342178,82.41176956773288/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ The following i* the reply of the illin tnous Vir. !
 giutan to tho letter ol&#x27;the President of the Convert- I  
 Don, transmitting him copio* of the above rosolu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832081401:0276/pct:50.438785786217814,3.836457305710841,30.45604948928212,92.63400197303518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184340:1832081401:0276/pct:50.43153049482164,3.836036825953529,30.456463367855772,92.62750255735789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ the blessing* of our free Government, which
 In1, hi -o eminent a degree, contributed to  
 establish
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186920:1832082301:0024/pct:17.096774193548388,36.58674508029858,14.101382488479263,5.835783759330468/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186920:1832082301:0024/pct:17.09414836430656,36.582607712314825,14.104336251471867,5.8388932865920316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -268,7 +268,7 @@ to sustain and to cherish those institutions which
 he in so eminent a degree contributed to estab-j  
 lish. When we review your active services o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1842100501:0490/pct:25.837988826815643,73.01995348267842,24.54608938547486,7.932427469702534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn86053954:00237281846:1842100501:0490/pct:19.381875327396543,54.76802546211287,18.421512135498517,5.9493206022769005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

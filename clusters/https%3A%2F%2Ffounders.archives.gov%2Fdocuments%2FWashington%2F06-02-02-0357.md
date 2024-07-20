@@ -351,7 +351,7 @@ designed by Providence to live for
 bimfelf alone, shall prepare for the  
 worst that can happen.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800072901:0329/pct:41.646115906288536,17.86836935166994,33.60049321824908,77.12180746561886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800072901:0329/pct:41.651253596383064,17.86836935166994,33.61590628853268,77.12835625409299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ that can happen.&quot;
 Trom the Nett-Yark Evening Post.  
 WARNING TO AMERICANS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808080801:0041/pct:33.47826086956522,51.92339171713865,19.855072463768117,38.84432804059584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808080801:0041/pct:33.470176285921276,51.91489361702128,19.85631489978266,38.842062193126026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -741,7 +741,7 @@ that pleased me better, and what adds to my
 satisfaction is, that he is himself contented, having  
 declared that he never was happler in his life
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:00175038668:1893103101:0792/pct:11.727899887694528,37.0464884056363,47.44103962778758,11.838455564185066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mazda_ver01:data:sn83030214:00175038668:1893103101:0792/pct:3.9092999625648432,12.348829468545434,15.813679875929195,3.946151854728355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

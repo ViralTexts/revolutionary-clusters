@@ -120,7 +120,7 @@ ctor thereof, firft had and obtained in writing, signed in the L &quot;
 fence of two or more credible witnefles ; or knowing the fame tr&gt;  
 be so printed, reprinted, or imported, (hall publish, fell, orexpof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790060501:0002/pct:68.59784283513098,23.291682936352988,26.37904468412943,6.559937524404529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790060501:0002/pct:68.61325115562404,23.291682936352988,26.386748844375962,6.569699336196798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ or either of them, to the author or
 proprietor of such map, chart, book or  
 books, who shall forthwith destroy th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790091601:0661/pct:7.218734910671174,13.128893148059415,41.93626267503621,77.27200127775116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790091601:0661/pct:7.226782552712056,13.128893148059415,41.93626267503621,77.29329713038386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ trary to the i n ten t of this act, the one moie­
 ty thereof to such legal owner of the copy­  
 right, as aforesaid, and the other to the us
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831032301:0210/pct:21.965830929664964,42.83536585365854,18.1495451519858,12.749445676274945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831032301:0210/pct:21.960958296362023,42.829430511292784,18.152913339248745,12.752297815343402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ as aforesaid; to the proprietor or proprie­
 tors of the copy-right thereof; and shall  
 further forfeit one dollar for every sheet o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831032301:0210/pct:22.054581761704014,60.71230598669623,18.21610827601509,15.091463414634147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1831032301:0210/pct:22.049689440993788,60.70389358459194,18.21946169772257,15.093991039674842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -350,7 +350,7 @@ trary to the intent of this act, the one moiety
 theroof to such legal owner of the copy-right, as  
 aforesaid, and the other to the use of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831032901:0468/pct:5.623398160711593,66.62419133503235,16.56867179255239,11.076259556949617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831032901:0468/pct:5.6284235388713,66.62419133503235,16.573697170712094,11.082794223354897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ PUBLISHED BY GIDEON BECK, PUBLISHER OF THE LAWS OF THIS STATE AND OF THE UNITED 
 - ery sheet thereof so copied or printed, as afore­  
 - said, to the proprieter or preprietors of the copy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831032901:0468/pct:5.879692446856626,7.263281709468732,75.13945424393185,83.48363066065477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831032901:0468/pct:5.889743203176039,7.2698163758740115,75.14447962209157,83.48036332745214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ lished,imported, or exposed to sale, contrary
 to the intent of this act,the one moiety thereof  
 to such legal owner of the copy-right, as afore
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831040601:0051/pct:2.082369273484498,70.50359712230215,15.201295696436835,12.246946628743517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831040601:0051/pct:2.081887578070784,70.49180327868852,15.20356234096692,12.249079959852793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -460,7 +460,7 @@ tor or proprietors of the copy-right thereof;
 first obtained in writing, signed in the pre­  
 sence of two credible witnesses; or, knowin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831040601:0051/pct:2.082369273484498,92.28710055211644,15.178158260064786,2.2419273883219004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831040601:0051/pct:2.081887578070784,92.27166276346604,15.180430256766135,2.2457343593174977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ of this a¢l, the one moiety thercofl to such
 legal owner of the copy-right, as aforesaid  
 and the other to M\‘a of the« Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1831041401:0055/pct:19.427102460521482,27.23615712257454,16.048475945648182,11.878845243729295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153139:1831041401:0055/pct:19.433223160729586,27.240100962296893,16.048475945648182,11.886732923174002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -808,7 +808,7 @@ printed or printing, published, impoited or exposed
 to sale, contrary to the intent of this act; the one moiety  
 thereof to such legal owner of the copyright as aferesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030312:00271743142:1840120401:1111/pct:155.65774347183446,128.53532452613442,49.89325012317293,17.874784606547962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030312:00271743142:1840120401:1111/pct:51.88591449061148,42.84510817537814,16.63108337439098,5.958261535515987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -991,7 +991,7 @@ the author of aty book already male and composed, and
 not printed or published, or that shall hereafter be made  
 and composed, &quot; shall have the sole right and libert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860102101:0554/pct:52.3007466574058,255.96584075054125,46.04966139954853,8.491700745730094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860102101:0554/pct:17.433582219135268,85.32194691684708,15.349887133182845,2.830566915243365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1041,7 +1041,7 @@ efther printed or printing, publist ed, imported or exposed to
 sale contrary to te intent of this act; the one moiety thereof  
 to such legal owner of the copy right as aftresaid, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861090101:0217/pct:226.1034047919294,215.460642428521,50.0,20.04941757853865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861090101:0217/pct:56.534762730569135,53.86516060713025,12.501970676336118,5.012354394634663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1068,7 +1068,7 @@ cut or engraving whith may be found in his or their possession,
 prin ed or published, or exposed to sale, contrary to the true in  
 tent and meaning of this act the one moicty thereof to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861090101:0217/pct:225.59899117276166,250.85304153429814,50.25220680958386,16.37839745852453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861090101:0217/pct:56.408639445057545,62.713260383574536,12.565032319091912,4.094599364631133/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1101,7 +1101,7 @@ sale, contrary to the intent of this sct; the one moiety thereof
   
 to such legal owner of the copy right as aferesaid, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861090301:0221/pct:223.9751552795031,214.59630978963452,49.316770186335404,22.752379833117875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861090301:0221/pct:56.01118359739049,53.64907744740863,12.333022677850265,5.688094958279469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1128,7 +1128,7 @@ cut or engraving whish may be found in his or their possession,
 prin ed or published, or exposen to sale, contrary to the true in  
 tent and meaning of this act; the one moiety thereof to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861090301:0221/pct:223.47826086956522,252.53261252791162,49.192546583850934,16.500176283934657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861090301:0221/pct:55.886921404162784,63.133153131977906,12.301957129543336,4.125044070983664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1160,7 +1160,7 @@ prin ed or published, or exposed to sale, contrary to the true in
   
 tent and meaning of this act the one moiety thereof to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861091501:0268/pct:246.71669793621012,89.22788077915982,49.59349593495935,16.52194320582023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861091501:0268/pct:61.68881939014855,22.306970194789955,12.40031274433151,4.130485801455057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1188,7 +1188,7 @@ sither printed or printinge published, imported or exposed to
 sale, contrary to the intent of this act; the one molety thereof  
 to such legal owner of the copy right as aft resaid, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861092201:0292/pct:236.70483460559797,54.23167848699764,50.44529262086514,17.825059101654848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861092201:0292/pct:59.20445505171042,13.55791962174941,12.617342879872712,4.456264775413712/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1211,7 +1211,7 @@ or print shall be copied, and also all and every sheet thereof so
 copiel and printed as afore aid, to the proprictor or proprietors  
 of the copy-right thereof; and shall further forfeit one dolla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861092201:0292/pct:237.0229007633588,87.32860520094563,50.38167938931298,11.48936170212766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861092201:0292/pct:59.28400954653938,21.832151300236408,12.601431980906922,2.872340425531915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1241,7 +1241,7 @@ either printed or printing, published, inported or expesed to
 sale, contrary to the intent of this act; the one moiets thereof  
 to such legal owner of the copy right as afer-said, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100201:0324/pct:237.8041172800998,54.60655927685711,50.15595757953837,20.11820604936841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100201:0324/pct:59.478857856139804,13.651639819214278,12.544858792323295,5.029551512342103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1273,7 +1273,7 @@ for every sheet of such map chart, musical composition, print,
 cut or engraving which may be found in his or their possession,  
 prin ed or published, or exposed to sale, contrary to the true in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100201:0324/pct:238.1784154709919,82.1416154826747,49.78165938864629,22.667748290647815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100201:0324/pct:59.572476205336244,20.535403870668674,12.451240443126853,5.666937072661954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1303,7 +1303,7 @@ I erther printed or printing publisbed imported or exposed to
 sale contrary to the intent of this sct; the one molety thereot  
 to such legal owner of the copy right as afer-said, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100501:0336/pct:242.84825870646767,50.629434653238725,50.995024875621894,19.638361181048296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100501:0336/pct:60.71206467661692,12.657358663309681,12.748756218905474,4.909590295262074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1321,7 +1321,7 @@ or proprietors of the copy-riget therecf, first obtained in writing,
 signed in the presence of two cre lible witnesses, or knowing the  
 same to be so printed or imported without such consent asafor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100501:0336/pct:244.15422885572139,84.96223392080567,49.440298507462686,4.943923094529641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100501:0336/pct:61.038557213930346,21.24055848020142,12.360074626865671,1.2359807736324102/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1349,7 +1349,7 @@ either printed or printing, published, imported or exposed to
 sale, Centrary to the intent of this act; the one moiety thereof  
 to such legal owner of the copy right as aferesaid, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100601:0340/pct:242.68675455116133,50.49941927990709,50.03138731952291,17.746806039488966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100601:0340/pct:60.700266917883496,12.624854819976772,12.513738420474171,4.4367015098722415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1375,7 +1375,7 @@ for every sheet of such map chirt, musical composition, print,
 cut or engraving which may be found in his or heir possession,  
 prin ed or published, or exposed to sale, contrary to the true in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100601:0340/pct:242.81230382925298,83.2520325203252,49.84306340238544,15.145180023228804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:00200293320:1861100601:0340/pct:60.73166902182446,20.8130081300813,12.466635264562726,3.786295005807201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1906,7 +1906,7 @@ j tame to be so printed, reprinted or imported,
 to be published, sold or exposed to sale, any  
 I copy of such Map, Chart, Book or Books
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474253:1865012101:0013/pct:30.584826132771337,33.72313527180784,19.678609062170707,18.141592920353983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_ariel_ver01:data:sn82015418:00212474253:1865012101:0013/pct:22.95125164690382,25.29498525073746,14.769433465085639,13.611462284028656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

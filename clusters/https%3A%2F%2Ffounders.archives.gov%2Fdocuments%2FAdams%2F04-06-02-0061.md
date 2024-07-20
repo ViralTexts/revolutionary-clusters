@@ -1198,7 +1198,7 @@ To make mankind in conscious virtue bold-­
 Live o&#x27;er each scene, and be what they behold.  
 For this the tragic muse first trod the stage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742903:1844092801:0375/pct:104.01060656281074,81.82870370370371,47.398077560490556,21.05324074074074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_houseleek_ver01:data:sn83030313:00271742903:1844092801:0375/pct:34.67020218760358,27.276234567901234,15.799359186830184,7.017746913580247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1542,7 +1542,7 @@ chief about such popular amusements.
 But if good morals, are taught at the  
 theater, how dear reader, do you accoun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777821:1872021301:0460/pct:163.0338733431517,264.9467190128996,45.36082474226804,56.92652832305104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777821:1872021301:0460/pct:40.78099097439676,66.2366797532249,11.346472646896297,14.23163208076276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1573,7 +1573,7 @@ Live o&#x27;er each scene and be what they behold.
 For this the tragic muse first trod the stage,  
 Commanding tears to flow through every age
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873042501:0399/pct:26.854460093896712,204.16447944006998,43.755868544600936,23.027121609798776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053573:00237288932:1873042501:0399/pct:6.718346253229974,51.041119860017496,10.946676062955133,5.756780402449694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

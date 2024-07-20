@@ -74,7 +74,7 @@ were a sceptre, he has merited :t and would become it..—Dr
 ‘tner.ted it, and would bcci me it.”  
 Mr. Samuel Washington has hath th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624414:1842111901:0272/pct:29.71342383107089,32.44856290246584,18.013359189829778,5.292916601225067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624414:1842111901:0272/pct:23.039242972446424,25.14809705428873,13.960478708600055,4.106142984662825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ and the friend of mankind,Gen. Wa.sh-j
 ington. II’it were a sceptre, he has me- j  
 rited it and would become it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1842120101:0100/pct:48.216911764705884,15.250369177070748,28.529411764705884,76.6008860249698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1842120101:0100/pct:48.208049990810515,15.248322147651006,28.530294676223733,76.59507829977629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -133,7 +133,7 @@ Gem ral Washington, in his will, devises this cane a
 follows: .  
 &quot;I em. To my brother Charles Washington, I R&#x27;v
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843021501:0454/pct:110.7043040804919,88.87003732609433,20.514253773057575,8.856464200882254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843021501:0454/pct:83.04682040531097,66.65535572898993,15.38784067085954,6.65083135391924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ give to my friend, and the friend of mankind.
 General Washington. If it were a sceptre, he  
 lias merited it, and would becOme&#x27;h.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1843021601:0388/pct:19.40096327513546,7.384760112888053,14.945815773630343,3.445437441204139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1843021601:0388/pct:19.398043641835965,7.383891828336273,14.948582894406822,3.4489515970997453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ And from Washington&#x27;s will, asfollows;
   
 nirton. I give and bequeath my gold hea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1843022101:0588/pct:48.640611724723875,9.160188995579942,37.914188615123194,116.03414113702179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_gann_ver01:data:sn83035312:00296026864:1843022101:0588/pct:36.50658733531662,6.873952141441853,28.45303867403315,87.02941624752324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ self. After some remarks illustrative of these pre-
 cious relics of the past, he said that the sword of  
 the hero and statesman should go with the staff o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1843022401:0580/pct:141.60866202629543,335.41029207232265,60.092807424593964,20.361613351877608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn82014968:00212472025:1843022401:0580/pct:35.41586073500967,83.85257301808066,15.029013539651837,5.090403337969402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ ton;&quot; adding that &quot;if it were a sceptre,
 he bad merited it, and would become it,  
 It is now the property of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848102101:0289/pct:78.20012995451592,40.594744121715074,17.153996101364523,10.20055325034578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848102101:0289/pct:58.68681943767268,30.45182111572153,12.8717698683569,7.653296449976948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ ed in a codicil of his will to &quot;the friend of mankind.&quot;
 General Washington, adding that, had it been a  
 sceptre, he has merited it, aud would become it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475397:1857042701:0487/pct:47.66528925619835,141.85393258426967,38.429752066115704,10.861423220973784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:00212475397:1857042701:0487/pct:15.888429752066116,47.28464419475655,12.809917355371901,3.620474406991261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -448,7 +448,7 @@ mankind, General Washington,”
 adding that ‘ if it were a sceptre, he  
 meii&#x27;ed it, and would become it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349256:1894072801:0326/pct:38.36889194769442,58.344459279038716,10.960082587749485,3.8232795242141036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_duval_ver01:data:sn84038206:00393349256:1894072801:0326/pct:38.36229141579219,58.3373786407767,10.962497849647342,3.8258495145631066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

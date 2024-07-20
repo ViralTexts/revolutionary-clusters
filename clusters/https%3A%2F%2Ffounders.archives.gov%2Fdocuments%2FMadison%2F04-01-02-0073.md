@@ -166,7 +166,7 @@ ety, and for its objects, rather thar. for
 any hope of being ufeful as a member  
 lo yourfelf, 1 teneier my friendly ref
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1817081201:0511/pct:26.99451887941535,11.789099526066352,17.387332521315468,38.21090047393365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1817081201:0511/pct:26.990409499162734,11.78793563036825,17.38849139899528,38.209596208905126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ its obje&amp;ts, rather than from any hope of be- i
 ing ufeful as a member. To yourfelf, [  
 tender my friendly refpes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817081201:0086/pct:8.70312052676782,5.2495268453033175,33.71027769825365,88.04661818906266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817081201:0086/pct:8.70312052676782,5.25616761297606,33.72459204122531,88.04993857289902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

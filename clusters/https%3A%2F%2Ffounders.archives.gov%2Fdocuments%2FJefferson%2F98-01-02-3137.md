@@ -76,7 +76,7 @@ pace of the public patronage, may probably
 spare me the. pain of witnessing consequen­  
 ces.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830011401:0228/pct:18.958868894601544,33.02842668167746,18.273350471293917,7.402195327891922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830011401:0228/pct:18.954808310130648,33.023779372449695,18.27479117584065,7.404671450682426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ April 11,1823, ToJohn Adams. “And
 lh&amp;du wille the imyetical gen­  
 or &#x27;gpl e Bouq a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830040801:0458/pct:67.78523489932886,41.72971714585031,16.452022492290947,7.950180421371202/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1830040801:0458/pct:67.78523489932886,41.73747720482676,16.452022492290947,7.95794048034765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ the pain of witnessing consequences. I salute you
 with constant friendship and respect.  
 TII: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831061801:0094/pct:18.976250864652986,12.647695123980697,15.448466682038275,48.22765851223165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831061801:0094/pct:18.97187644075611,12.645590682196339,15.450668510834486,48.22379367720466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ scribe.&quot; What would that illustrious sage have
 thought if know-nothingism had sprung up with  
 its monstrous proposition to proscribe millions o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855111401:0466/pct:26.332094175960346,280.01905215527506,49.56629491945477,19.099785663253154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_chet_ver01:data:sn85038518:00200293204:1855111401:0466/pct:6.585063526495197,70.00476303881877,12.395413696932135,4.774946415813289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -719,7 +719,7 @@ cradle of toleration and freedom of religion,
 it conld have arisen to the height you de­  
 scribe.&quot; What would that illustrious sag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014286:0020219168A:1855120601:0177/pct:7.407407407407407,117.20839524517088,14.316239316239317,4.661961367013373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82014286:0020219168A:1855120601:0177/pct:5.556874851579197,87.90861812778603,10.745666112562336,3.50111441307578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -959,7 +959,7 @@ and neutralize their prejudices, aud make
 the geueral religion, a religion of peace,  
 reason, and morality.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184479:1886120801:0344/pct:10.153061224489797,6.222707423580786,34.47278911564626,88.42794759825327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184479:1886120801:0344/pct:10.151334807005611,6.221952698605215,34.47259536360029,88.42126541338185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1066,7 +1066,7 @@ hey do not direct; are jealous at
 ing others begin to attend at all to that  
 biec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899040501:1137/pct:42.36760124610592,16.65968147527242,69.62616822429906,280.0083822296731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899040501:1137/pct:14.126200986756686,5.553227158424141,23.214749415736172,93.33612740989103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1102,7 +1102,7 @@ the tdo not direct are jealous at ag
 ing others begin to attend at all to that  
 object
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899040701:1175/pct:154.25696594427245,36.65129924559933,34.52012383900929,24.89522212908634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_hornacek_ver01:data:sn83045555:206534710:1899040701:1175/pct:51.458817454169896,12.21709974853311,11.515620965659695,8.298407376362112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

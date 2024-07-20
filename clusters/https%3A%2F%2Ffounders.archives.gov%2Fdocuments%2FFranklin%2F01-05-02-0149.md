@@ -254,7 +254,7 @@ expose the inventor, though very unjustly to gen­
 cial ridicule and contempt; and if they do succeed,  
 to envy, robbery, and abuse.” But let us remem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826012801:0311/pct:2.321882951653944,82.83292122924762,15.37849872773537,9.125161898033674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826012801:0311/pct:2.3215137541739543,82.82316929597363,15.38135368633063,9.128011929989796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ Bpot where he stood instantly, and there is
 no previous staggering, nor does he ever  
 tall lengthwise.&quot; The kind of collaps
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891060201:0526/pct:84.84057971014492,81.72055984555985,12.347826086956522,8.795849420849422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764054:1891060201:0526/pct:63.66536175148615,61.293436293436294,9.264897781644192,6.599903474903475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ this? Let the experiment be made.”” Th
 the current. Thwe reversals from positive  
 to negative and from negative to positiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538934:1899031101:0468/pct:45.545880776959144,64.82767833288806,11.821835231078365,0.8682874699438953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538934:1899031101:0468/pct:45.545880776959144,64.83769703446433,11.821835231078365,0.8682874699438953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

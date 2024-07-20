@@ -128,7 +128,7 @@ immortal example of true glory.
 Done in the year of Christ , and in  
 the year of the Commonwealt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812122901:0289/pct:58.920317988537626,4.58128078817734,36.10648918469218,91.07142857142857/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812122901:0289/pct:58.909426987060996,4.58071666050979,36.10597658656808,91.06431884414891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ the year of the Commonwealt
 “ Christ  
 “ and in the rear of the CoininQusvcu&#x27;.i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813010701:0305/pct:77.07948243992607,18.89122113841215,17.948243992606283,5.284603037412026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813010701:0305/pct:77.06523747920902,18.88888888888889,17.95108729132015,5.288065843621399/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -183,7 +183,7 @@ ties of his Country, has rendered his name dear to h
 lollow-citizens, amt given the World an imin&gt;-rtal exau  
 pic of Titi&#x27;E oi.okv.’ —jVe Gun—*Drunk standing and 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835070701:0077/pct:36.02106969205835,62.73469820727697,14.26256077795786,2.6413493157950567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835070701:0077/pct:36.01620526671168,62.7280441238863,14.265136169255008,2.644604723518597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ glory. Done in the year of Christ, one thousand
 seven hundred and eighty-eight, and in the year of  
 the Commonwealth the twelft
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843071201:0658/pct:7.332881880623005,83.36952945047713,14.878591467543774,6.508719973675551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843071201:0658/pct:7.332172567227704,83.36404316925507,14.880376604114272,6.510485215407563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -306,7 +306,7 @@ one thousand seven hundred and
 ci&quot;htv-ci&quot;ht. and in the year of the Common­  
 C ? &#x27;wealth the uvellth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847061801:0432/pct:46.45930847048165,9.615569900761152,13.739996980220443,9.268715675883996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1847061801:0432/pct:46.464341436408475,9.61878151395446,13.755095878000906,9.268715675883996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ one thousand seven hundred and
 eighty-eight, and in the year of the Common­  
 wealth the twelfth.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847061801:0040/pct:54.330708661417326,11.118756020366039,14.60730870179689,11.022430163753956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_emeralds_ver02:data:sn85025007:00414215798:1847061801:0040/pct:54.32522458867467,11.117991056071551,14.60919888294472,11.0239651416122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -376,7 +376,7 @@ Done in the year of Christ one thou
 sand soven hundred and eighty eight, and  
 in the year of the Commownealth the twelfth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1847070101:1204/pct:261.0065309258548,67.03809667218792,59.71955436035344,39.527179641620236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1847070101:1204/pct:65.23910120990973,16.757000903342366,14.92702131745727,9.880307136404697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ and given to the world an immortal example ot
 tjue dory.1&#x27;  
 Tradition says that this brief but noble tribut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031701:0273/pct:29.046203728721967,30.838131797824698,13.388273439610916,4.5532096395820005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854031701:0273/pct:29.046203728721967,30.838131797824698,13.392776727010718,4.563872894007251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -533,7 +533,7 @@ name dear to his f&lt;dlow-citi?ens. and given to
 the wurtd an immortal example of true glory &quot;  
 Tradition says that thi? brief but noble tri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654036:1854031701:0276/pct:15.167471113061284,59.37723328228688,13.79259909316952,4.512506380806534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654036:1854031701:0276/pct:15.174784262103262,59.37978560490046,13.807225391253473,4.51761102603369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ and given the world an example of true glory.&quot;
 But we wonld, ia the celebration of his  
 birth, but half express our veneration for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855022201:0192/pct:3.1717698750514898,60.86120311999145,13.428532198269943,8.14189550165616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661551:1855022201:0192/pct:3.1809236120646256,60.86832638814688,13.423955329763375,8.14189550165616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ ow citizens, and
 given the world an immortal example of true glory.&quot;  
 This inscription, which we are told was written b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856070801:0072/pct:223.1932214653597,158.23938048058307,66.6223625186908,14.975515317162055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856070801:0072/pct:74.39774048845324,52.74646016019436,22.207454172896938,4.9918384390540185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,7 +797,7 @@ tal example of trne glory.&quot;
 &quot;Done iu the year of Christ 1788, and in  
 the year of the Commonwealth the lath.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190741:1864070401:0017/pct:15.155412647374062,14.614597544338336,13.783494105037514,6.360845839017736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190741:1864070401:0017/pct:15.171489817792068,14.614597544338336,13.788853161843516,6.377899045020464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -826,7 +826,7 @@ an immortal example of true glory.
   
 year of the Commonwealth the 12th.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288993:1864070601:0021/pct:133.6782690498589,205.88342773615932,48.54186265286924,20.902612826603324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deltaair_ver01:data:sn86053570:00237288993:1864070601:0021/pct:33.427428840272874,51.47085693403983,12.138320395201129,5.225653206650831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -861,7 +861,7 @@ to the world an immortal example of true ch
 &quot;Done in the year of Christ, 1188 and in the vea of  
 the Commonwealth the teth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539902:1864070701:0898/pct:222.76080084299264,51.07593811132847,167.54478398314015,331.2822336830873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539902:1864070701:0898/pct:55.70487483530962,12.768984527832117,41.89723320158103,82.82055842077183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -897,7 +897,7 @@ mortal example of true glory.11 &quot;Done in
 the year of Christ, 1783, and in the year of  
 the Commonwealth the 12th.1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn86092517:00415660601:1864070901:0236/pct:35.29591214154973,29.309168859008086,16.259914582062233,6.820617753093638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn86092517:00415660601:1864070901:0236/pct:35.29591214154973,29.309168859008086,16.2751677852349,6.827113579525155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -981,7 +981,7 @@ world an immortal example of true glory.
 Done in the year of Christ, 1788, and in the  
 year of the commonwealth the 121 h.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171578:1864071301:0659/pct:38.32428238944919,35.36,15.923196276183088,8.887272727272727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171578:1864071301:0659/pct:29.705897089032515,27.407657911546988,12.355328423267698,6.89136887987074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1025,7 +1025,7 @@ of true glory. Done in the year of Christ,
 1788, and in the year of the Common­  
 wealth the 12th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn83035143:00280775599:1864071501:0485/pct:158.81073241479334,18.77172653534183,42.71211022480058,35.16801853997683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_edgar_ver01:data:sn83035143:00280775599:1864071501:0485/pct:39.7170837867247,4.692931633835458,10.68190061661226,8.792004634994207/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +1065,7 @@ tal example of true glory. Done in the
 year of Christ, 1788, and in the year of the  
 Commonwealth the 12th.&quot;oY 5uous 4&#x27;fu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1864072001:0291/pct:67.28439059158946,37.86029602700597,50.17818959372773,28.096598286159438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774704:1864072001:0291/pct:16.824095526644093,9.465074006751493,12.546783104615933,7.024149571539859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1098,7 +1098,7 @@ ample of true glory. Done in the year of
 Christ, 1166, and in the year of the Com  
 monwealth the 12th.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:0028077523A:1864072201:0238/pct:78.65253595760787,333.6167717343498,49.50794852384557,38.99721448467967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:0028077523A:1864072201:0238/pct:19.663133989401967,83.40419293358745,12.376987130961393,9.749303621169917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1153,7 +1153,7 @@ and given to the work! an immortal example&#x27;of
 true glory. Done in the* year of  
 Christ, 1788, and in the yoar-of the Commonwealt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862713:1864080301:0103/pct:43.15165207568484,61.957364341085274,16.097147698390284,7.180232558139535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862713:1864080301:0103/pct:43.15165207568484,61.963824289405686,16.101854466723147,7.177002583979328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1180,7 +1180,7 @@ ple of true glory.&quot; &quot;Done in the year of
 unnst uta, and in tbe year of the Uom  
 monwealth the 12th,&quot; ..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn84038223:00202195234:1864080401:0348/pct:64.27595628415301,26.035042180402336,19.09153005464481,9.409474367293965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn84038223:00202195234:1864080401:0348/pct:48.223436966176976,19.53277092796885,14.332080628629997,7.060350421804023/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1211,7 +1211,7 @@ name to his fellowcitizens, and given
 to the world an immortal example of  
 true glory. Done in the year o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1864080401:0860/pct:257.52508361204013,270.5289672544081,56.60535117056856,42.76518331933949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774935:1864080401:0860/pct:64.39473134016308,67.63224181360202,14.154296466652728,10.691295829834873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1235,7 +1235,7 @@ name to his fellow-citizens, and given to the world an
 immortal cxamplo of true glory. Dono in the yeat of  
 Christ, 1788, and in the year of the Commonwealt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027852:00295862324:1864080501:0047/pct:28.223607323724192,39.57865168539326,25.10712894429295,7.050561797752809/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027852:00295862324:1864080501:0047/pct:28.230099987014672,39.58801498127341,25.120114270873913,7.050561797752809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1270,7 +1270,7 @@ his name to his fellow citiz3ns, and given to the world
 on immortal example of true glory. Done in the year  
 of Christ, 1738, and in the year of the Commonwealt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864081101:0344/pct:25.174389636273045,84.26889775269967,19.718485301444943,6.994843856406265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879117:1864081101:0344/pct:18.888612010964366,63.20653760093394,14.789434338400198,5.243700749100107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1295,7 +1295,7 @@ and given to the world an immortal example
 of true glory. Done in the year of Christ  
 1783, and in the year of the Commonwealt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:00279554206:1864081701:0164/pct:174.4965104685942,333.42238845845577,51.00697906281157,19.262623563986107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84022046:00279554206:1864081701:0164/pct:43.62412761714855,83.35559711461394,12.751744765702892,4.815655890996527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1325,7 +1325,7 @@ world tin immortal example of true glory.—
 Done in the year of Christ, ;?;*», and in&quot; the  
 year of the Commonwealth the 12th.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1865010701:0629/pct:46.24124218897936,51.84931506849315,12.156788487028972,7.4520547945205475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1865010701:0629/pct:46.250710092785454,51.85616438356164,12.16625639083507,7.458904109589041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1394,7 +1394,7 @@ One thousand and seven hundred and
 eighty-eight, and in the year of the  
 commonwealth the twelfth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628389:1872010401:0005/pct:36.434331797235025,30.203720106288753,14.674539170506913,11.857838795394153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628389:1872010401:0005/pct:27.344763002449216,22.652790079716564,11.00705950151275,8.901682905225863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1471,7 +1471,7 @@ Christ, One Thousand Seven Hundred
 and Eighty-Eight, and in the year of  
 the Commonwealth the Twelfth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623537:1878050901:0076/pct:28.812209688122095,51.34479271991911,11.785003317850034,10.161779575328614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623537:1878050901:0076/pct:28.82105728821057,51.351533535557806,11.789427117894272,10.15840916750927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1625,7 +1625,7 @@ one thousand seven hundred and eighty-­
 eight, and in the year of the Common  
 wealth the twelfth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031145:1894122001:0655/pct:113.68035190615836,15.181551532315162,70.60117302052785,271.61929806817034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031145:1894122001:0655/pct:37.89345063538612,5.0605171774383875,23.533724340175954,90.53976602272344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1653,7 +1653,7 @@ example of true glory.&quot;
 Wasisington was consurted as to the con  
 tumo of the statue, and with charac-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175031182:1895072801:0206/pct:5.883358987514965,266.9828999765753,60.23601847101077,17.791051768564067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175031182:1895072801:0206/pct:1.9611196625049883,88.99429999219177,20.078672823670257,5.930350589521355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

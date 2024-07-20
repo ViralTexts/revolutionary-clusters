@@ -103,7 +103,7 @@ the prifosers from cruel &amp; inhumaan death, threatened
 in {uch terms as left no doakt it was to be perpetra­  
 ged ; and that he did in the end conclude it after se
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776081701:0050/pct:6.165839829907867,51.7967254943653,28.82707299787385,15.022326174782053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776081701:0050/pct:6.165839829907867,51.80026933163229,28.82707299787385,15.018782337515061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ Resolved, That a copy of this report be tran{mit­
 ted to the Commander in Chief of the Continental  
 forces, to be by him sent to Generals Howe an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776081701:0050/pct:37.08362863217576,11.46076972145439,28.6144578313253,45.55602806719116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776081701:0050/pct:37.08362863217576,11.467857395988377,28.626269785022444,45.55602806719116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ iy, of the same rank wnd condition, to be
 restored to them, us stipulated by the seid  
 spolsion :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810112801:0317/pct:29.394812680115272,0.009965122072745391,44.98879282740954,95.19681116093672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810112801:0317/pct:29.40014942896787,0.016608536787908985,45.00480307396734,95.19348945357913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ lutifins be transmitted to the cammander in
 chicf of the continental forces, to be by Lim  
 sent to Geueraip Howe and Burgoyne.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810112801:0317/pct:52.28946525776497,5.570503238664673,21.91802753762408,19.691081215744894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810112801:0317/pct:52.28946525776497,5.570503238664673,21.939374533034474,19.697724630460055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ them:
 That, immediately on the surrender, the  
 garrison was put into the custody of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840040801:0209/pct:24.890061565523308,297.1627099015634,71.76781002638522,41.34337000579039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840040801:0209/pct:6.225252969643643,74.29067747539085,17.949846018477782,10.335842501447598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ That four hostages were accordingly
 lelivered to captain Foster, who were  
 immediately plundered and stripped by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840040801:0209/pct:99.8240985048373,166.1841343370006,71.59190853122251,68.96352055587724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840040801:0209/pct:24.967003959524856,41.54603358425015,17.905851297844258,17.24088013896931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ resolutions be transmitted to the comman
 der in chief of the continental forces, to be  
 by him sent to generals Howe and Bur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840040801:0209/pct:97.53737906772207,41.1696583671106,148.28496042216358,348.0602200347423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840040801:0209/pct:24.395072591289047,10.29241459177765,37.08754949406071,87.01505500868558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -107,7 +107,7 @@ life, even tho’ no foreign trade should be.allow’d us :---Alllreland -
 I is strongly in favor of the American cause, They have reason to  
 sympathize with us. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769061601:0295/pct:72.92891950932616,47.561489810260014,22.4332045034448,21.64441321152495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769061601:0295/pct:72.92891950932616,47.56617474818459,22.44440710244777,21.64441321152495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ said: &quot;All Ireland is strongly in favor of
 the American cause. They have reason  
 to sympathize with us.&quot; Of the signer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_bogoff_ver01:data:sn84026907:00295862385:1893070501:0164/pct:72.96222664015905,51.266188237235006,11.378786106888084,3.3820011548296627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_bogoff_ver01:data:sn84026907:00295862385:1893070501:0164/pct:72.97002299925934,51.27168742610465,11.374887927337934,3.3847507492644833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

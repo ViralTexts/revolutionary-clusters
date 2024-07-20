@@ -32,7 +32,7 @@ cept from any part of Turkey, or from a­
 Streights of Gibraltar, or in the Weft Bar­  
 bary on the Atlantic Ocean) are liable t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801030201:0003/pct:50.1460047783382,54.23101673101673,23.1749402707725,3.346203346203346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801030201:0003/pct:50.16370232722768,54.24174174174174,23.16609149632776,3.340840840840841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -77,7 +77,7 @@ key, or of any place in Africa, within the Straits of
 Gibraltar, or in the West Barbary, on the Atlantic  
 Ocean ; or stating of what place they are the growth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805090901:0694/pct:6.121951219512195,15.374841168996188,21.048780487804876,6.4961880559085134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805090901:0694/pct:6.120458424774445,15.372399555343815,21.049743964886613,6.499126568207083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -101,7 +101,7 @@ rica, within the Straits of &#x27;gxibralt,’_a_; ors
 in Weft Barbary, on the Atlantic O­  
 cean. Such deglaration to be mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805091001:0146/pct:78.20074580484773,69.54094889808488,16.485394655065257,6.572995861803483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805091001:0146/pct:78.20074580484773,69.54736470663715,16.495753055728194,6.579411670355757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -130,7 +130,7 @@ sed to take care, that previous to their sailing from
 America, they are provided with a certificate, or I  
 declaration on oath, of the owner, proprietor or ship
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805092001:0713/pct:51.8348623853211,68.82745471877979,21.125060357315306,9.008579599618685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805092001:0713/pct:51.8223509534154,68.81652104845115,21.12599565532223,9.011119936457506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -148,7 +148,7 @@ facture of Turkey, or any pi act in Africa,
 within the Stieights of Gibraltar, or in  
 the West Barbary on the Atlantic Ocean 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810092101:0160/pct:59.80409940141484,85.56162720097146,16.66968982405224,2.185792349726776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810092101:0160/pct:59.79325353645267,85.55123846527441,16.672711884899044,2.1895742269710214/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -184,7 +184,7 @@ onthe Atlantic Ocean, coming from any place in Europe, withou
 “ raltar, or in the West Harhary or the  
 “ Atlantic Ocean, and let that heccrtihud
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817081901:0115/pct:65.79337617399901,38.88153938665063,14.961278629098699,2.742032471437162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817081901:0115/pct:65.7825370675453,38.87686387686388,14.964305326743547,2.7457110790444124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ of State, of the 27th April, IS26.
 Apparel of all kinds, artificial flowers, hast or any  
 article made thereof, beads, bracelets or necklaces, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826061401:0468/pct:40.81461615822997,53.30504689593569,17.733825008380826,15.676641357748995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826061401:0468/pct:40.80777610189375,53.29909567935693,17.736439305066757,15.67861263071713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -647,7 +647,7 @@ ost severe tryals, and I flatter myself resolution tol
 that any mas durit, as shall be proved when it coml  
 he Test, which I believe we are upon the borders of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743348:1860042701:1055/pct:249.03333333333333,264.94286044095577,43.483333333333334,5.0675285697795225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743348:1860042701:1055/pct:83.0111111111111,88.31428681365193,14.494444444444444,1.6891761899265074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ ould be fortunate enough to drive the French
 hic-as far as your Honor would please have  
 tut to-in any short time, our pay will not be sun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743348:1860042701:1055/pct:249.05,270.44903613067066,43.06666666666667,7.445457693639617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743348:1860042701:1055/pct:83.01666666666667,90.14967871022355,14.355555555555556,2.4818192312132057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -969,7 +969,7 @@ Honorable Gir nothind is a greater stranger to my
 breast or a sin that my soul more abhors, than  
 that black and detestable one, ingratitude.&quot; H
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475245:1860050701:0977/pct:128.73134328358208,204.48998748435545,38.24626865671642,7.603254067584481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475245:1860050701:0977/pct:42.91044776119403,68.16332916145181,12.748756218905474,2.5344180225281603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -999,7 +999,7 @@ please have them sout toin any short time, aur
 pay will not he sufficient to discharge our first a­  
 nenses   the motives that lead me her
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475245:1860050701:0977/pct:128.85572139303483,213.03191489361703,38.18407960199005,18.820400500625784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475245:1860050701:0977/pct:42.95190713101161,71.01063829787235,12.728026533996683,6.273466833541927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1021,7 +1021,7 @@ will at the same ftimad hear that we have done our
 will at the same ftime hear that we have doneo  
 duty in fighting las) long as there was a possibili
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475245:1860050701:0977/pct:128.9179104477612,243.9142678347935,38.24626865671642,8.729662077596997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_qualchan_ver01:data:sn82015753:00212475245:1860050701:0977/pct:42.972636815920396,81.30475594493116,12.748756218905474,2.909887359198999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1050,7 +1050,7 @@ ere were pure and noble. I had no viow of acquisi-
 tion, but that of honor--by serving faithfully my king  
 and country.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860051901:0146/pct:151.84645286686103,164.3623222196316,48.07256235827664,26.031709023082303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530650:1860051901:0146/pct:50.615484288953674,54.787440739877205,16.02418745275888,8.677236341027434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1144,7 +1144,7 @@ said: &quot;I had no view of acquisition
 but that of honor, by serving faith­  
 fully my King and country.&quot; Whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1878022801:0404/pct:128.3640424343942,189.7180043383948,35.0642099385818,5.683297180043384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1878022801:0404/pct:32.104454685099846,47.4295010845987,8.769724898757158,1.420824295010846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1231,7 +1231,7 @@ stranger to my breast, or a ain my soul
 more abhors, than that black and detestable  
 one of Ingratitude.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193560:1891021401:0160/pct:12.145390070921986,10.952298949543653,13.275709219858156,2.8413983123816084/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_denmark_ver01:data:sn84026844:00202193560:1891021401:0160/pct:12.145390070921986,10.956604098501808,13.286790780141844,2.8543137592560703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1273,7 +1273,7 @@ Washington examined the Youghiogheny river I
 for miles to ascertain whether It would he poe  
 sible to descend that stream in canoes an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654838:1892022201:0483/pct:12.574651625746517,14.512441156691326,12.773722627737227,7.410894418291863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654838:1892022201:0483/pct:12.574651625746517,14.512441156691326,12.790311877903118,7.431069266980498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

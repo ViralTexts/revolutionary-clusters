@@ -797,7 +797,7 @@ department.
 of the executive officers of government,  
 with their assistants and clerks
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789101501:0474/pct:51.04391648668106,61.8234073127894,20.97432205423566,5.556442599393262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789101501:0474/pct:51.05991520678346,61.828729575815636,20.97432205423566,5.556442599393262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ nine, fixhundred &amp; twenty-eightdollars
 and twenty-fix cents: To the late com­  
 missioner for adjusting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790050501:0586/pct:8.995866763919281,20.879478827361563,20.88499878434233,19.429967426710096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790050501:0586/pct:8.995866763919281,20.879478827361563,20.901207553286326,19.44082519001086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -849,7 +849,7 @@ missioner for adjusting
 Anthony Renatus Charles Mathurin de la Forest, vice-consul  
 general of France, to the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792020401:0003/pct:64.68908629441624,61.219169841588126,27.44289340101523,1.2432324042510527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792020401:0003/pct:64.7128807106599,61.22418287547624,27.466687817258883,1.2532584720272708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ of bank of New-York, being the
 produce of biH» of exchange, &#x27; : ■  
 d/awn on the agents aforefaid,&#x27; 87
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032001:0002/pct:33.04682868998222,9.085923217550274,19.26496739774748,6.946983546617916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793032001:0002/pct:33.04682868998222,9.090493601462523,19.287196206283344,6.951553930530165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1196,7 +1196,7 @@ members of the House of Representatives.
 their Officers and Clerks, and for the con­  
 tingent expenses of both Houses of congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829012901:0222/pct:1.1734028683181226,24.342336022448265,16.91190165766437,13.632643516894657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153188:1829012901:0222/pct:1.1734028683181226,24.342336022448265,16.924318619233873,13.6404380529249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1234,7 +1234,7 @@ the House of Representatives, their officers and
 clerks, and for the contingent expenses of boih  
 houses of Congress, theye be, and hereby is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829071401:0109/pct:73.16231623162317,55.66047314448167,16.036603660366037,2.1829627373337392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829071401:0109/pct:73.16231623162317,55.66047314448167,16.041604160416043,2.1897316140386502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

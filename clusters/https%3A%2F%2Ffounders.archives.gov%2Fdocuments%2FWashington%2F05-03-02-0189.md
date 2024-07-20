@@ -50,7 +50,7 @@ that can be improved into a supposed partiality for
 friends or relatives.  
 Extract of a Letter from General Washington to Jame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848122601:0739/pct:63.15282018319139,113.00748469040599,53.9771814237506,23.1344976185076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848122601:0739/pct:21.050940061063795,37.66916156346866,17.99239380791687,7.711499206169199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ slip will paRS unnoticed, that can be Improved Into
 a supposed partiality for friends or relativco.  
 Extract of a Letter from General Washington to Jame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849010101:0019/pct:2.3431594860166287,64.16816277678038,13.359788359788359,8.916816277678038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014405:00415660935:1849010101:0019/pct:2.3431594860166287,64.17813684420507,13.366087175610986,8.921803311390384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ ga nst jtj&quot;t criticism: for the eyes of Aigus are ;
 can he improved into a supposed partiality for  
 friends or relatives.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1849010101:0516/pct:69.8835754834985,29.630671825536407,13.220436832483403,7.618712627506156/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1849010101:0516/pct:69.87685203001732,29.62858750703433,13.22237188121352,7.6205214781466895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ will be passed unnoticed that can be
 improved into a supposed partiality  
 for friends or relations.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293393:1869043001:0392/pct:74.73913043478261,75.07318171582976,12.826086956521738,10.763341589732041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293393:1869043001:0392/pct:56.08235464694795,56.304886286872325,9.627374220675657,8.072506192299032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ passed unnoticed that can be improved
 into a supposed partiality for friends or  
 relations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665088:1869061001:0551/pct:26.566193853427897,24.227454277906244,12.219267139479905,13.338238385537103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665088:1869061001:0551/pct:26.566193853427897,24.2344614953402,12.229117415287629,13.338238385537103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -354,7 +354,7 @@ are upon me, and no slip will pasr, unno­
 ticed that can be improved into a supposed  
 partiality for friends and relatives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879130:1870042901:0069/pct:96.24937280481686,40.96863834855101,17.900150526843955,20.55379118697896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879130:1870042901:0069/pct:72.21734220102898,30.726478761413258,13.427029740243443,15.422786820166733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ are upon me. and no slip will pass unnoticed
 that can be improved Into a supposed partial!tv  
 for mends or relations.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870050101:0006/pct:11.074793308979043,55.18773946360153,9.305902711017112,4.21455938697318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870050101:0006/pct:11.084406844837531,55.191570881226056,9.310709478946356,4.218390804597701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ no slip will pass unnoticed that can
 be improved into a supposed partiali­  
 ty for friends and relatives.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1870051101:0796/pct:211.77575494870683,173.46586991496207,41.87256176853056,36.31349115145944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1870051101:0796/pct:70.5919183162356,57.82195663832069,13.957520589510187,12.104497050486478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ no slip will pass unnoticed tbal can be improved
 into a supposed partiality for friends and rela  
 tives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867541:1870052001:0042/pct:74.11764705882354,70.0589970501475,15.712074303405572,9.255162241887906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867541:1870052001:0042/pct:55.605450603902135,52.54424778761062,11.799318674512232,6.944444444444445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ eyes of Argus are upon me, and no slip will pass
 unnoticed that can be improved into auppdred  
 partiality for friends and relatives,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82014899:00211105483:1870052801:0861/pct:42.88256227758007,275.91177742540003,68.06049822064057,61.29450771226755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82014899:00211105483:1870052801:0861/pct:10.727798798130426,68.97794435635001,17.026485644335633,15.323626928066888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ unnoticed that can be improved into a
 supposed partiality for friends and rela  
 tives.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1870070101:0710/pct:235.63748079877112,224.03528114663726,64.1321044546851,45.4244762954796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00200295924:1870070101:0710/pct:58.90937019969278,56.008820286659315,16.033026113671276,11.3561190738699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ cism; for the eyes of Argus are upon me, and no slip
 will pass unnoticed that can be improved into a sup­  
 posed partiality for friends or relations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871121901:0798/pct:202.53246753246754,155.48342221191746,47.743506493506494,21.249710178530027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871121901:0798/pct:67.5108225108225,51.827807403972486,15.914502164502165,7.0832367261766755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -604,7 +604,7 @@ will pass unnoticej that can be im
 proved into a supposed partiality for  
 friends or relations.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665131:1871122801:0615/pct:61.029859841560025,66.10730845661294,12.370505789152956,11.017884742768823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_deforest_ver02:data:sn84026847:00415665131:1871122801:0615/pct:61.03493804590697,66.11098844483698,12.370505789152956,11.025244719216898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ i-&#x27;Arguj are upon me, and no slip will pass
 unnoticed tliat can be improved into a sup-  
 posed partiality for friends or relations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871123101:0623/pct:9.456264775413711,81.44053601340033,14.9822695035461,10.10608598548297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85033699:00200293447:1871123101:0623/pct:7.094295004433935,61.08319374651033,11.247413538279634,7.582356225572306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ pass unnoticed that can be improved
 into a supposed partiality for friends or  
 relat ons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn89058302:00212470417:1872010401:0575/pct:189.94668697638994,293.7275269676388,47.90555978674791,52.78998535091224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn89058302:00212470417:1872010401:0575/pct:47.49571510188535,73.4318817419097,11.978670729384879,13.19749633772806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -794,7 +794,7 @@ just criticism, for tho eyes of Argus are upon
 me, and no slip will pass unnoticed that can bo&#x27;  
 tortured iuto a supposed partiality for my rela
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875090901:0466/pct:41.599707815924035,106.74000835538226,17.001460920379838,3.3282272663974375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875090901:0466/pct:31.22031421264158,80.05848767581116,12.751187431494337,2.506614677621501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -839,7 +839,7 @@ ato a supposed partiality for friends or
 relations.&quot;  
 This was the answer which Georg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876072001:0151/pct:326.793893129771,303.0873272566892,43.89312977099237,37.45957071449573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:0020029239A:1876072001:0151/pct:81.74527401183884,75.7718318141723,10.979568455222456,9.364892678623933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -872,7 +872,7 @@ outgeneraled, but that I have had the greatjust criticism, for the eyes of Argus
 eian oe o e e ee an o i i pa noce ta an  
 republican confidence game played on me be improved into a supposed partiality fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1876090901:0315/pct:136.54434250764527,347.44796500066286,117.12538226299694,30.067612355826594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1876090901:0315/pct:34.14261135538138,86.86199125016572,29.2869432230931,7.516903088956648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -894,7 +894,7 @@ My political conduct in nominations, even if
 I were uninfluenced by principle, must be  
 exceedingly circumspect and proof against
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1876090901:0315/pct:195.10703363914374,325.22868885058995,58.86850152905199,46.188519156834154/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1876090901:0315/pct:48.78608296692793,81.30717221264749,14.719938826228255,11.547129789208538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -922,7 +922,7 @@ court lawyers in your own State
 who are desirous of this appoint  
 ment.&quot; In a letter to another perso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877031701:0877/pct:54.22454649452525,39.045652672631334,50.84164079097892,24.076623078687774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877031701:0877/pct:18.074848831508415,13.01521755754378,16.947213596992974,8.025541026229257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -977,7 +977,7 @@ and no slip will pass unnoticed that
 can be improved into a supposed  
 partiality for ,rieuds or relations.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291098:1882060201:0227/pct:39.39297124600639,69.28294573643412,10.86261980830671,6.637596899224806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291098:1882060201:0227/pct:39.396964856230035,69.28294573643412,10.866613418530351,6.652737403100775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1053,7 +1053,7 @@ noticed, that can be Improved, Into a supposed par­
 tiality for f rlenda or relations. I am, fro..  
 Oao. WieHiKorow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889050701:0884/pct:70.17954722872756,278.3291457286432,52.69320843091335,33.982412060301506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889050701:0884/pct:17.54831153620925,69.5822864321608,13.175873511614288,8.495603015075377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1092,7 +1092,7 @@ will pant unnoticed I &#x27;oil can be luiprortd Into a
 tuppoted partlatttg for frlendt or relatione. I  
 am, Ac, Oeo. wahiiikotom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889050702:0888/pct:71.07309486780716,132.56068911511355,52.48833592534992,38.5904463586531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_hanyu_ver01:data:sn83030193:00206539100:1889050702:0888/pct:17.778642287492705,33.14017227877839,13.129741295467808,9.647611589663274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1165,7 +1165,7 @@ that he would do nothing that could be
 construed into partiality . for&#x27; friends or  
 relatives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kasota_ver01:data:sn90059522:00175033415:1889051001:0103/pct:13.771446078431373,45.79753889017878,11.32046568627451,5.827722312514512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kasota_ver01:data:sn90059522:00175033415:1889051001:0103/pct:13.7765522875817,45.79753889017878,11.315359477124183,5.831591982044733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1202,7 +1202,7 @@ slip will p*»» nnuotlced. that can be improve.
 Into a supposed partiality tor Irteiutsor relation  
 I am. etc t;ao* t \Y »»un«..ton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889051001:0456/pct:3.8263531376095727,73.39166237776634,9.94851815778489,10.04632012352033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889051001:0456/pct:3.8258208124652198,73.38410868670235,9.951771470970135,10.048716893097296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1234,7 +1234,7 @@ mo , and no slip will pass unnoticed that can
 bo Improved into a supposed partiality foi  
 friends or relations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:0020653963A:1889051201:0561/pct:59.48930296756384,22.776280323450134,16.407867494824018,11.725067385444744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_chadron_ver01:data:sn99021999:0020653963A:1889051201:0561/pct:44.63237832240249,17.088948787061994,12.323092854677252,8.800539083557952/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1251,7 +1251,7 @@ Youcannot doubt any wishes to see you^appointed to any office of honor or emolu^
 Mypolitical conduct in nominations,^even if I were uninfluenced by priaclple,^must be exceedingly circumspect and proot^against just criticism :f or the eyes of Argus^are upon roe, and no slip will pass un^^noticed, that can be improved, into a sup^^posed partiality for friends and relations.^I ani, etc  
 Ueo.Washisutos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_ibis_ver01:data:sn83025308:00294550471:1889051501:0059/pct:13.58148893360161,301.257253384913,34.758551307847085,27.852998065764023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_ibis_ver01:data:sn83025308:00294550471:1889051501:0059/pct:3.3953722334004026,75.31431334622825,8.689637826961771,6.963249516441006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1275,7 +1275,7 @@ and no slip will pans unnoticed, that can be
 improved, into a supposed partiality for  
 friends or relations&#x27;.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889051601:0298/pct:31.317204301075268,68.0,18.996415770609318,6.13919413919414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889051601:0298/pct:23.509636934110265,51.00366300366301,14.25369789332138,4.6007326007326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1315,7 +1315,7 @@ relations. Iatn, &amp;c,
   
 Geo. wasiiinqton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295912:1889060701:0181/pct:313.60691144708426,85.51724137931035,61.33909287257019,45.960591133004925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295912:1889060701:0181/pct:78.41584158415841,21.379310344827587,15.337533753375338,11.490147783251231/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1359,7 +1359,7 @@ r the eyes of Argus are upon me, and, n
 will pass unnoticed that can be improved into a  
 supposed partiality for friends and relatlyes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038875:1896012601:0469/pct:149.09658344283838,14.229069899172991,47.15834428383705,7.26181035459386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038875:1896012601:0469/pct:49.69886114761279,4.743023299724331,15.719448094612352,2.4206034515312864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

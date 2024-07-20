@@ -211,7 +211,7 @@ ycu. Such indiscreet and improper language has been
 sometimes held here by some of our people, and produced  
 no good effects
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030362:print00211110089:1854041601:0004/pct:31.62382285568847,51.396143029329046,8.755408500890812,2.249899558055444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dunbar_ver01:data:sn83030362:print00211110089:1854041601:0004/pct:31.62382285568847,51.40367617517075,8.764952914227539,2.2524106066693452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

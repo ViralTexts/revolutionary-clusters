@@ -106,7 +106,7 @@ humble servants, ; :
 | GUY CARLTON, &#x27;  
 . R. DIGBY
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782081701:0200/pct:67.36365220421676,16.07808729984646,28.87262589301272,59.67317394165387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782081701:0200/pct:67.36365220421676,16.07808729984646,28.87262589301272,59.67682971411859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

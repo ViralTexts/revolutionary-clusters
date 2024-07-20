@@ -259,7 +259,7 @@ R. Foster, the respondent&#x27;s immediate
 grantor, under the claim that the land was  
 excepted from the grant to the Norther
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_kelseya_ver02:data:sn83025308:00212476699:1893120501:0637/pct:27.8184165232358,206.1030235162374,42.3407917383821,24.23012318029115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_kelseya_ver02:data:sn83025308:00212476699:1893120501:0637/pct:9.272805507745266,68.7010078387458,14.113597246127366,8.076707726763718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -296,7 +296,7 @@ In witness whereof. The said part.,
 of the first part ha. .hereunto set . .h. .  
 hand., and seal.. this day of...
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192622:1898032301:0660/pct:46.84256055363322,79.08282639213851,18.9878892733564,15.785368897207924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elk_ver01:data:sn84020558:00202192622:1898032301:0660/pct:35.16554858255789,59.319918889408825,14.239342133737287,11.839026672905943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

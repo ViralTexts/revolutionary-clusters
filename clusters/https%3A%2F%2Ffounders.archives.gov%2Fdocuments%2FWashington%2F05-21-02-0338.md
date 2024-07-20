@@ -100,7 +100,7 @@ I am sir, with great regard your most
 obedient servant,  
 GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822092301:0124/pct:44.19805008602562,34.07040284661329,17.243356910724525,11.894776972931757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184145:1822092301:0124/pct:44.18960244648318,34.06607369758577,17.24643221202854,11.89750105887336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

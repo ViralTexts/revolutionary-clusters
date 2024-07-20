@@ -121,7 +121,7 @@ gling for her own existence against a power,
 •which threatened to overthrow the indepen­  
 dence of all Europe ; but it might be mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040101:0418/pct:6.2727272727272725,30.680536408071188,17.418181818181818,3.4340142875047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040101:0418/pct:6.271586984184694,30.67669172932331,17.421074956068594,3.437761069340017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ hend for the United States, from her mari­
 time power, than from the territorial power  
 of her enemy. The event has justified th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040101:0418/pct:6.4363636363636365,42.448928437147515,17.345454545454544,4.52437648828174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040101:0418/pct:6.435193601163425,42.443609022556394,17.348360904078046,4.527986633249792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -173,7 +173,7 @@ by Great Britain towards the United Sc ites,
 could have counteracted and controlled,  
 those tendencies to peace and amity, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040101:0418/pct:24.509090909090908,14.212307306680035,17.145454545454545,8.986088482265949/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040101:0418/pct:24.504635520814396,14.210526315789474,17.14839726110404,8.989139515455305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -200,7 +200,7 @@ sential cause, the practice of impressment
 would have been the subject of renewed nr  
 gociatiun, under the. auspicious influence of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040101:0418/pct:24.98181818181818,85.34904123323724,16.927272727272726,7.39441032710866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040101:0418/pct:24.977276858752955,85.33834586466165,16.9302551051324,7.39766081871345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ arms, was manifested by the steps taken to
 arrest the progress of hostilities, and to hasten  
 a restoration of peace. On th&lt; 26th of June
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040101:0418/pct:42.78181818181818,51.66060909888457,17.12727272727273,2.907632535405439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040101:0418/pct:42.77404108343937,51.65413533834587,17.130218748106405,2.9114452798663324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ in this respect, is as necessarv on the ocean
 as on the land ; and the controul that it gives  
 to the nations of the world, over the action
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040801:0426/pct:59.38591652877367,70.39301310043668,17.374517374517374,14.635059263880224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1815040801:0426/pct:59.375,70.38423153692615,17.377450980392158,14.637391882900864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

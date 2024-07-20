@@ -45,7 +45,7 @@ tatement of the number, nature, extent, situ­
 ation and value cl the arts and manufactures  
 &lt;&gt;t the U. States, together with such othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812022701:0364/pct:23.22449732521675,33.26352100529753,17.579782327983768,3.9300234076629295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812022701:0364/pct:23.220213943194395,33.25942350332594,17.582687815074387,3.9336453970600314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ ted States, a statement of the number, nature,
 extent, situation and value of the arts and ma­  
 nufacturei of the United States, together wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812040201:0111/pct:58.158774863580355,79.03168387326451,16.651997887695828,4.734781060875757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812040201:0111/pct:58.14853924674411,79.02230659705742,16.654933708787986,4.738174339503243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ of the number, nature, extent, situation and
 value of the arts and manufactures of the U­  
 nited States, together with such other detail
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812051301:0617/pct:6.383657835939994,27.30240379859531,21.67251835301628,6.924522702542289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812051301:0617/pct:6.383657835939994,27.308998582121543,21.68847749760613,6.9179279190160585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ the interests of the Uuited States, a {tatement -
 - and value of the arts and muoufactares  
 - of the Uniied Siates, together with suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812072801:0329/pct:58.389057750759875,25.658153241650293,16.717325227963524,5.088408644400785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812072801:0329/pct:58.39918946301925,25.664702030124428,16.727456940222897,5.088408644400785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ them. &#x27;
   
 Unuer the rc.solutjn-i of the House of Re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814012201:0319/pct:40.26359754965658,53.153153153153156,17.83924262112493,17.71771771771772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183876:1814012201:0319/pct:40.25612472160356,53.146503190291504,17.842118287552587,17.7196713791234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ motives which exist for affoi ding encouragement V
 extension to them.  
 Under the resolution of the House of lleprescntn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814012601:0027/pct:39.52159942877544,76.96279779368619,16.922527668689753,14.59922544302312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814012601:0027/pct:39.51454577904694,76.9537667214269,16.925456600630614,14.601423765939138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

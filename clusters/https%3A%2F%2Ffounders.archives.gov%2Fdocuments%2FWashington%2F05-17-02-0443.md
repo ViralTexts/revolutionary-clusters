@@ -30,7 +30,7 @@ I must beg the favor of your Excellency to lay this letter before that honorable
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n25/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n25/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -126,7 +126,7 @@ plan of universal education ought to be
 adopted in the United States&quot;; and he  
 added, &quot;The more homogeneous our eiti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742101:1876051701:0481/pct:87.4865301724138,221.0579951825088,42.1875,6.364647026125625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742101:1876051701:0481/pct:29.162176724137932,73.6859983941696,14.0625,2.121549008708542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -371,7 +371,7 @@ abroad among other political systems those
 who have not well learned the value of  
 their own.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665532:1895030801:0073/pct:74.98645720476706,109.20392584514723,16.12946912242687,6.194111232279171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665532:1895030801:0073/pct:56.258466540233,81.90839694656489,12.096992684909239,4.645583424209378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ today than it was when the father ot
   
 his country so earnestly pleaded for one.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1895041901:0313/pct:8.410819949281487,34.22760709649502,18.93491124260355,27.188807154190105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_larkspur_ver01:data:2017270212:0027952746A:1895041901:0313/pct:6.32001690974424,25.67431126496466,14.20418516169943,20.39521130823597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -32,7 +32,7 @@
 &quot; Secretary of the Treefury, is fully refuted—  
 &quot; Written by himfelf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797082801:0004/pct:78.49358198110923,30.363636363636363,16.78372487285057,3.090909090909091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797082801:0004/pct:78.49358198110923,30.367424242424242,16.789779607653184,3.0984848484848486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -52,7 +52,7 @@ r &quot; in No. V. and VI. of &quot; The History of the Unit*
 &#x27; &quot; Secretary of the Tresfurr, is fully refated—  
 • \ &quot; Written by himfeif 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797082901:0004/pct:75.60799422104503,29.15157004830918,17.553575728389117,3.0646135265700485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797082901:0004/pct:75.62003371057067,29.15157004830918,17.577654707440406,3.0683876811594204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -90,7 +90,7 @@ In which the cd/.RuK or specdhtioi agsinft
 ALEXANDER HAMILTON,  
 Late Secretary of the is FULL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797083001:0001/pct:24.142011834319526,12.966305655836342,16.615384615384617,14.455475330926594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797083001:0001/pct:24.153846153846153,12.970066185318894,16.609467455621303,14.459235860409146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -110,7 +110,7 @@ t&quot; ed States for the year 1796,&quot; in which th« charge
 &quot; Secretary of the Tresiury, is /jjlly refutec—  
 &quot; Written by himfelf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797083001:0004/pct:77.54165660468486,29.166666666666668,16.831683168316832,3.068592057761733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797083001:0004/pct:77.55373098285439,29.170427196149216,16.82564597923207,3.076113116726835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -135,7 +135,7 @@ REFUTED.
 tr HIT Ti H BY HlMiEir.  
 This publication presents a concise ftatemrn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797083101:0001/pct:23.677280344745032,25.284772182254198,16.97390471630357,6.2799760191846525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797083101:0001/pct:23.695235815178357,25.29601318944844,16.967919559492458,6.268735011990407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ t&quot; ed States for the year 1796,&quot; in which the charge
 &quot; Secreury of the Treasury, is fully refuted—  
 &quot; Written by himfelf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797083101:0004/pct:77.24252491694352,28.53942652329749,16.540104413858568,3.016726403823178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797083101:0004/pct:77.24252491694352,28.53942652329749,16.563834836260085,3.035394265232975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ This publication presents a concise statement
 of the base means pra&amp;ifed by tilt Jacobins of the  
 United States to asperse the characters of (hos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090201:0001/pct:24.41776710684274,16.80229053646775,17.38295318127251,17.07353827606992/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090201:0001/pct:24.41776710684274,16.80229053646775,17.38295318127251,17.084840265220013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ United States to asperse the characters of (hos
 &quot; Secretary of the Treasury, is fully refuted—  
 &quot; Written by himfelf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090201:0004/pct:77.98319327731092,29.324894514767934,17.79111644657863,3.059071729957806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090201:0004/pct:77.98319327731092,29.332429174201327,17.809123649459785,3.0628390596745025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ t&quot; ed States for the year 1796,&quot; in which the charge
 &quot; Secretary of the Treufury, is fully refuted—  
 &quot; Written by himfeif.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090301:0004/pct:76.92123533636581,29.181818181818183,16.686617189370363,3.0757575757575757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090301:0004/pct:76.93919080679913,29.189393939393938,16.686617189370363,3.0795454545454546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ This publication prefentt a coticife ftatemeyit
 of the bale meant pra&amp;ifed. by the Jacobins of the  
 United States to asperse the charaflcrs of v|iof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090501:0001/pct:24.100458826370442,34.172661870503596,17.145617000724464,17.01139088729017/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090501:0001/pct:24.100458826370442,34.18390287769784,17.169765757063512,17.01139088729017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ in No. V. and VI. of &quot; The Hillory of the Unit­
 I&quot; Secretary of the Treasury, is fully refuted—  
 &quot; Written by himfelf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090501:0004/pct:77.64817900499881,28.300180831826403,17.25779576291359,3.044002411091019/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090501:0004/pct:77.65412996905499,28.300180831826403,17.287550583194477,3.044002411091019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ of &quot;in No. V. and VI. of &#x27;«The History of the Unit­
 &quot; Secretary of the Tr«fary, is fully refuted—  
 Df &#x27;• Vi ritteh by himfelf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090601:0004/pct:76.71068427370949,29.287003610108304,18.2953181272509,2.572202166064982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090601:0004/pct:76.71068427370949,29.298285198555956,18.319327731092436,2.575962695547533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -359,7 +359,7 @@ ALEXANDER HAMILTON,
 Late Secret art of the Txeasur, is FULLY  
 REFUTED
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090701:0001/pct:22.94726703587768,34.55615942028985,16.85528533590176,14.7493961352657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090701:0001/pct:22.9532867806405,34.55615942028985,16.86130508066458,14.760718599033817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ REFUTED
 44 Secreta/y of the Treasury, is fully refuted—  
 &quot; (Writvn&#x27;by himfeif 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090701:0004/pct:76.71982861223518,28.111718275652702,16.353249226374672,3.0813600485731634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090701:0004/pct:76.72577957629136,28.111718275652702,16.365151154487027,3.0851548269581057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ REFUTED.
 WRITTEN BY HIMSELF.  
 This publication presents a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090801:0001/pct:24.849506380929448,12.777777777777779,16.710811461594027,5.8258258258258255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090801:0001/pct:24.855526125692272,12.785285285285285,16.72285095111967,5.818318318318318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ t&quot; ed States for the year 1796,&quot; in which the charge
 &quot; Seerctary ot the Treasury, is fully refuted—  
 &quot; Written by himfelf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090801:0004/pct:77.79123274400581,29.347826086956523,16.832162751271493,3.0948067632850242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090801:0004/pct:77.80334221361105,29.347826086956523,16.82005328166626,3.10612922705314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -443,7 +443,7 @@ j &quot; ed States for the year 1796,&quot; in which the charge
 * Secretary of the Treasury, is fully refuted—  
 £ &quot; Written by himfeif,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090901:0004/pct:76.10725401005506,29.23472474289171,17.57242039741441,3.206291591046582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797090901:0004/pct:76.11922432367729,29.24228675136116,17.560450083792194,3.2138535995160313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ Late Secretarv of the Trjasihi, is I&#x27;ULLY
 REFUTED.  
 irr.iTrErt ir u:\i 3 ij_£ t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091101:0001/pct:6.621719239104262,8.756038647342995,64.21863712978569,84.43538647342996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091101:0001/pct:6.627738983867084,8.756038647342995,64.21261738502288,84.4429347826087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ irr.iTrErt ir u:\i 3 ij_£ t
 41 Secretary oi the Treasury, is Ailly refuted—  
 -11 .Written by himfelf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091101:0004/pct:76.78786419455815,29.30930930930931,17.168312063568504,3.078078078078078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091101:0004/pct:76.78786419455815,29.313063063063062,17.174331808331328,3.0855855855855854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ irr.iTrErt ir u:\i 3 ij_£ t
 &#x27;&#x27; Secretary of the Trettf«ry, is fully refuted—  
 &#x27;• &#x27;Written bv hiiAfelf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091301:0004/pct:77.26944377558391,29.11373260738052,16.68673248254274,2.9491833030852996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091301:0004/pct:77.26944377558391,29.117513611615244,16.698771972068386,2.9643073200241985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ REFUTED.
 WRITTEN BY UIMS RI P.  
 This publication prefentt a concise statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091401:0001/pct:23.834822506640908,13.040838014270532,16.87998068099493,5.890390162441172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091401:0001/pct:23.846896884810434,13.05222407772886,16.87998068099493,5.882799453468954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ t&quot; ed States for the year 1796,&quot; in which the charge
 &quot; Secretary of the Treasury, is stilly refuted—  
 f &quot; W rittcn by himfeif 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091401:0004/pct:76.17233991906689,29.666666666666668,17.13877648179005,3.227272727272727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091401:0004/pct:76.19019281123542,29.670454545454547,17.12092358962152,3.2386363636363638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -620,7 +620,7 @@ This publication presents a concise ftateraent
 of the base means pra&amp;ifed by the Jacobins of the  
 United States to asperse the charaders of thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091501:0001/pct:22.790021797045288,18.070652173913043,17.994671833373697,21.51268115942029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091501:0001/pct:22.796076531847905,18.08197463768116,17.994671833373697,21.505132850241544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ Observations on certain documents contained
 &quot; Secretary of the Treasury, is fully refuted—  
 &quot; Vv ritten by himfelf&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091601:0004/pct:77.59157289920996,19.87063778580024,16.662676562125927,12.770758122743683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091601:0004/pct:77.59157289920996,19.881919374247893,16.680632032559252,12.770758122743683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ Late Secretary of the Treasur, is FULLY
 REFUTED.  
 tr rlr rb k Br uims s1 r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091801:0001/pct:23.419714216517317,32.80685920577617,16.832162751271493,5.189530685920578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091801:0001/pct:23.42576895131993,32.814380264741274,16.82610801646888,5.189530685920578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ t&quot; ed States for the year 1796,&quot; in which tka charge
 &quot; Secretary of the Treafiiry, is fully refuted—  
 * Written by himfalf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091801:0004/pct:77.14829802427994,29.933211900425015,16.54368007617234,3.126897389192471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091801:0004/pct:77.14829802427994,29.9408014571949,16.56153296834087,3.1193078324225865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -769,7 +769,7 @@ REFUTED,
 m/rttjr «r himself.  
 This publication presents a concise statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091901:0001/pct:22.970721256843607,18.423423423423422,17.638657462508927,20.255255255255257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091901:0001/pct:22.970721256843607,18.427177177177178,17.650559390621282,20.2515015015015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ This publication presents a concise statemen
 &quot; Secretary of the Treasury, is fully, refuted   
 &quot; Written byhjmf«if 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091901:0004/pct:76.6859344894027,29.68844525105868,16.738921001926784,3.0399274047186933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091901:0004/pct:76.69195568400771,29.68844525105868,16.75698458574181,3.055051421657592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -813,7 +813,7 @@ Late Secr*t&gt;*y of the Tkeasdk, ia FULIA&quot;
 REFUTED.  
 ir R1 r N BY BIMSKLf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092001:0001/pct:23.928311939937032,31.193490054249548,16.78372487285057,5.605786618444847/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092001:0001/pct:23.94042140954226,31.20102471368294,16.789779607653184,5.605786618444847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,7 +832,7 @@ t, &#x27;* Ohfervations on certain documents contained
 &quot; Secretary, of the Treasury, is fully refuted—  
 jf &quot; Written by himfelf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092101:0004/pct:76.37963843958136,30.014836795252226,17.64985727878211,3.086053412462908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092101:0004/pct:76.39153187440533,30.01854599406528,17.643910561370124,3.1008902077151337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -852,7 +852,7 @@ t&quot; ed States for the year 1796,&quot; in which »ha charge
 &quot; Secretary of the Treafory, is fully refuted—  
 j- &quot; Written by himfelf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092201:0004/pct:76.14853606284218,30.407199763942167,17.2815996191383,3.0835054588374153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092201:0004/pct:76.16043799095453,30.407199763942167,17.293501547250656,3.0835054588374153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ Late SccatTAftv of the TucAsua, is FULLY
 REFUTED.  
 WRIT.tEN Br UfMSßir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092301:0001/pct:23.696011328770357,33.9846062759029,16.662733065848478,14.09117821195974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092301:0001/pct:23.696011328770357,33.9846062759029,16.66863346707576,14.09117821195974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -912,7 +912,7 @@ ld ALEXANDER HAMILTON, h.a
 Late SiciiT.tsr of the Txiasukt, is FULLY  
 REFUTED. n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092601:0001/pct:22.95810905686871,43.12684365781711,19.073250643575943,4.631268436578171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092601:0001/pct:22.96981043763164,43.134218289085545,19.073250643575943,4.634955752212389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -932,7 +932,7 @@ of speculation, againlt Alexander Hamilton, late
 &quot; Secretary of the Treasury, is fully refuted—  
 &quot; Written by himfelf .
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092601:0001/pct:22.95810905686871,62.30088495575221,17.13082143692956,3.03834808259587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092601:0001/pct:22.96981043763164,62.31194690265487,17.136672127311023,3.0309734513274336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -972,7 +972,7 @@ REFUTED.
 /r RIT TE N Br M/MS E£ /.  
 This publication presents a concifc statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092701:0001/pct:23.78698224852071,33.776595744680854,16.662721893491124,14.627659574468085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092701:0001/pct:23.78698224852071,33.78398345153664,16.668639053254438,14.627659574468085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -991,7 +991,7 @@ r 3 &quot; Observations on certain documents contained
 &quot; of speculation, against Alexander Hamilton, late  
 u Secretary of the Treasury, is fully refuted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092801:0001/pct:24.125792067589767,62.01067615658363,18.51678009856841,2.5652431791221826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092801:0001/pct:24.143393569584603,62.01438315539739,18.51678009856841,2.5726571767497033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1029,7 +1029,7 @@ Late Seckjctary of the Trlasukv, is FULLY
 REFUTED.  
 WRITTEN BY HIMSELF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092901:0001/pct:24.94674556213018,34.04255319148936,16.63905325443787,14.051418439716311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092901:0001/pct:24.964497041420117,34.04624704491726,16.633136094674555,14.047724586288416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1049,7 +1049,7 @@ u O&#x27;rfervations on certaiH documents contained
 &quot; Secrctiry of the Treasury, is fully refuted—  
 &quot; Written by himlelf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092901:0001/pct:24.757396449704142,62.027186761229316,16.54437869822485,2.9994089834515365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797092901:0001/pct:24.76923076923077,62.038268321513,16.550295857988164,3.0031028368794326/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1073,7 +1073,7 @@ REFUTED.
 WRITTEN BT HIMSELF.  
 This publication presents a concise ftaiemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797093001:0001/pct:23.90842577295256,43.040780141843975,16.426717016757138,5.747635933806147/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797093001:0001/pct:23.920226575407128,43.05186170212766,16.44441822043899,5.758717494089835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1093,7 +1093,7 @@ This publication presents a concise ftaiemen
 &quot; Secretary of the Treasury, is fully refuted—  
 &quot; Written by himfelf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797093001:0001/pct:23.743214538588624,62.086288416075654,16.544725041302808,2.9846335697399526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797093001:0001/pct:23.749114939815907,62.089982269503544,16.56242624498466,2.9883274231678487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1119,7 +1119,7 @@ This publication presents a concise llatement
 of the base means pra&amp;ifed by the Jacobins of the  
 United States to asperse the characters of thol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797100201:0001/pct:23.668639053254438,42.43635287152161,16.568047337278106,6.779159265837774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797100201:0001/pct:23.680473372781066,42.44745411486087,16.57396449704142,6.768058022498519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1139,7 +1139,7 @@ United States to asperse the characters of thol
 &quot; Secretary of the Treasury, is fully refuted—  
 •&#x27; Written by himfelf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797100201:0001/pct:23.83431952662722,61.54529307282416,16.615384615384617,3.049141503848431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797100201:0001/pct:23.846153846153847,61.55639431616341,16.633136094674555,3.041740674955595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1159,7 +1159,7 @@ United States to asperse the characters of thol
 &quot; Secretary of the Treasury, is fully refuted—  
 &quot; Written by himfelf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797100301:0001/pct:24.037558685446008,77.35087457018986,16.47887323943662,3.0946329795186127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797100301:0001/pct:24.037558685446008,77.35834952907759,16.496478873239436,3.09089550007475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1179,7 +1179,7 @@ United States to asperse the characters of thol
 s il Secretary of the Treasury, ia fully refuted—  
 { &quot; Written jjp^himfelf&#x27;* 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797100401:0001/pct:23.706997425696233,76.047197640118,17.294640767610577,3.112094395280236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797100401:0001/pct:23.718698806459162,76.05825958702064,17.30049145799204,3.1010324483775813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1199,7 +1199,7 @@ s il Secretary of the Treasury, ia fully refuted—
 44 Secretary of the Treasury, is fully refuted— fc,  
 &quot; Written by himftlf&quot; n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797100501:0004/pct:58.53198017465188,26.201067615658364,17.890016521123435,3.0990510083036775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797100501:0004/pct:58.53788057587916,26.201067615658364,17.901817323578005,3.0990510083036775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1219,7 +1219,7 @@ t&quot; e.d States for the year 1796,&quot; in which th* charge
 &quot; Secretary of the Treasury, is fully refuted— j  
 &quot; Written by himfeif 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797100701:0004/pct:59.52662721893491,26.24981566140687,17.088757396449704,3.1116354519982306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797100701:0004/pct:59.544378698224854,26.24981566140687,17.106508875739646,3.1190089957233447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1258,7 +1258,7 @@ Late SE&quot;Chetahip of 111 e Treasury, is FUJLLY
 REit/TKD.  
 IV RIT TE N DT UIMSF. I?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797100901:0004/pct:41.7991929741277,5.806737588652482,33.895086636601,88.00236406619385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797100901:0004/pct:41.7991929741277,5.810431442080378,33.895086636601,88.00975177304964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1278,7 +1278,7 @@ IV RIT TE N DT UIMSF. I?
 &quot; Secretary of the Treasury, is fully refuted—  
 &quot; Written by himfeif 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797100901:0004/pct:59.05530500830762,27.09810874704492,16.662710657488724,3.0289598108747047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797100901:0004/pct:59.06717303584144,27.101802600472812,16.656776643721813,3.0363475177304964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1298,7 +1298,7 @@ IV RIT TE N DT UIMSF. I?
 u Secretary of the Treasury, is fully refuted—  
 &quot; Written by himfeif 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101001:0004/pct:59.22145739378115,27.031828275351593,16.710182767624023,2.990377498149519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101001:0004/pct:59.23925943508189,27.031828275351593,16.704248753857108,2.990377498149519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1318,7 +1318,7 @@ u Secretary of the Treasury, is fully refuted—
 &quot; Secretary of tile Trcafury, is fully refuted—► j  
 &quot; Written by himfeif &quot; / ! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101101:0004/pct:58.82771713336497,27.511820330969268,17.41813004271476,3.0141843971631204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101101:0004/pct:58.833649738965356,27.51920803782506,17.42999525391552,3.0215721040189125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1338,7 +1338,7 @@ u Secretary of the Treasury, is fully refuted—
 &lt;fc Secretary of the Treasury, is fully ft  
 K Written by himfelf &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101201:0004/pct:58.854166666666664,26.21200889547813,17.755681818181817,3.0541141586360268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101201:0004/pct:58.86008522727273,26.21200889547813,17.755681818181817,3.0652335063009635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1364,7 +1364,7 @@ This publication prcfe.nts a concise flatement
 ot the base means prailifed by the Jacobins of the  
 United States to z;fperfe the charters of rhof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101301:0004/pct:59.3992020652429,6.849110213847764,17.13212860830791,6.879018992074173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101301:0004/pct:59.3992020652429,6.852848811126066,17.161464444965972,6.890234783909078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1384,7 +1384,7 @@ t&quot; ed States (or the year 1796,&quot; in Which the charge
 4t Secretary of the Treasury, is fully refated—  
 -41 Written by■ himfelf,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101301:0004/pct:59.98591879840413,26.05054583520263,16.475005867167333,3.0357409899805594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101301:0004/pct:59.98591879840413,26.054284432480934,16.49260736916217,3.0394795872588607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1407,7 +1407,7 @@ Late Secretary Treasury, is FULLY
 REFITOI).  
 &#x27;WRITTEN BY HI M\S Kir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101401:0004/pct:59.66863905325444,7.874481941977502,17.159763313609467,5.254588513913558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101401:0004/pct:59.68639053254438,7.885583185316755,17.16568047337278,5.243487270574304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1427,7 +1427,7 @@ REFITOI).
 44 Secretary of the Treafnry, is fully refuted—  
 &quot; Written by himfelf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101401:0004/pct:60.21301775147929,26.99822380106572,16.615384615384617,3.019538188277087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101401:0004/pct:60.21301775147929,27.009325044404974,16.63905325443787,3.008436944937833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1450,7 +1450,7 @@ Late Secrkrarv of the Tr ka3Ur,y, is FULLY
 REC-UnrD.  
 rr r/rr ew , or mimsp.lf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101601:0004/pct:59.26362992683502,8.037300177619894,16.969553929667217,5.19538188277087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101601:0004/pct:59.26362992683502,8.041000592066311,16.981354732121783,5.191681468324452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1470,7 +1470,7 @@ II in N6. V. and Vrl. of &quot; The Hiilory of tbe Unit­
 &quot; Secretary of the Treasury, is fully refuted—  
 &quot; Written by hinifelf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101601:0004/pct:59.64125560538117,27.057430432208406,16.568326646211943,3.004736530491415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101601:0004/pct:59.653056407835734,27.061130846654827,16.56242624498466,3.008436944937833/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1490,7 +1490,7 @@ II in N6. V. and Vrl. of &quot; The Hiilory of tbe Unit­
 &quot; Secretary of the Treasury, is fully refuted— ■ few 1  
 &quot; Written by himfelf&quot; I not 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101701:0004/pct:58.4348641049672,27.918331114070128,18.626991565135896,3.092173398431721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101701:0004/pct:58.44657919400188,27.925728658085514,18.626991565135896,3.092173398431721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1510,7 +1510,7 @@ II in N6. V. and Vrl. of &quot; The Hiilory of tbe Unit­
 &quot; Secretary of the Treafury,&#x27;is fully refuted— f  
 &quot; Written by &#x27;himfelf &quot; , &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101801:0004/pct:59.41273975846555,27.424848215607877,17.428368458441867,3.020879609062639/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101801:0004/pct:59.430499644802275,27.424848215607877,17.428368458441867,3.028283725751518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1530,7 +1530,7 @@ II in N6. V. and Vrl. of &quot; The Hiilory of tbe Unit­
 &quot; Secretary of the Treasury, is fully refuted— f  
 &quot; Written by himfelf,&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101901:0004/pct:58.94086915222037,27.959331880900507,17.478033721206366,2.962962962962963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797101901:0004/pct:58.95867964853954,27.962962962962962,17.472096889099976,2.9702251270878723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1550,7 +1550,7 @@ V of speculation, againlt Alexander Hamilton, late enqi
 &quot; Secretary of the Trcafnry, is fully refuted— few  
 &quot; Written by him felf.&quot;&#x27; ! no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797102001:0004/pct:58.91712182379482,27.393420858533705,18.499168843505107,3.142056350494173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797102001:0004/pct:58.9289954880076,27.40448443723263,18.51104250771788,3.1383684909278653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1570,7 +1570,7 @@ V of speculation, againlt Alexander Hamilton, late enqi
 &quot; Secretary of the Treaftiry, is fully refuted—  
 &lt;• Written, by himfclf,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797102401:0004/pct:59.69761398535318,27.01344761341806,16.44223954642098,2.985074626865672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797102401:0004/pct:59.70942593905032,27.017142012708735,16.436333569572408,3.0035466233190484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1590,7 +1590,7 @@ M ed States for the year 1796,&quot; in which the charge at
 44 Secretary of the Treasury, is fully refuted— fe  
 Written by himfeif.&quot;, n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797102501:0004/pct:58.742911153119096,26.56529516994633,17.698487712665408,3.085867620751342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797102501:0004/pct:58.74881852551985,26.56902206320811,17.722117202268432,3.10077519379845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1610,7 +1610,7 @@ t&quot; ed States for the year 1796,&quot; in which th» charge
 &quot; Secretary of the Treasury, is fully refuted—  
 &quot; Written bvhimfelf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797102601:0004/pct:59.89823116064938,25.642174432497015,16.864550520959536,2.927120669056153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797102601:0004/pct:59.89823116064938,25.645908004778974,16.888781196995396,2.9308542413381122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1630,7 +1630,7 @@ t&quot; ed States for the year 1796,&quot; in which th» charge
 (t Secretary of the Treasury, is fully refutfcd— fcw j  
 * Written by himfeif &quot; not 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797102701:0004/pct:58.901469525415564,25.988442822384428,19.079739821729703,3.2542579075425793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797102701:0004/pct:58.901469525415564,25.988442822384428,19.0917851120212,3.269464720194647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1650,7 +1650,7 @@ t&quot; ed States for the year 1796,&quot; in which th» charge
 &quot; Secretary of the Treasury, is fully refuted— 1  
 &quot; Written by himfelf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797102801:0004/pct:59.303750919342974,26.47103312660717,19.0242706545722,3.2067765844804113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797102801:0004/pct:59.303750919342974,26.478596278929057,19.0242706545722,3.214339736802299/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1670,7 +1670,7 @@ t&quot; ed States for the year 1796,&quot; in which th» charge
 &quot; Secretary of the Treasury, is fully refuted—  
 &quot; Written byhimfelf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797103001:0004/pct:60.08697753080454,26.53153153153153,17.51630828702585,3.063063063063063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797103001:0004/pct:60.09905774341628,26.53153153153153,17.522348393331722,3.0668168168168166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1690,7 +1690,7 @@ t&quot; ed States for the year 1796,&quot; in which th» charge
 &quot; Secretary of the Treafmry, is fully refuted— A&#x27;  
 &quot; Written by himfelf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797103101:0004/pct:58.11126694717158,27.832252225071656,18.27956989247312,3.167898627243928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797103101:0004/pct:58.11711079943899,27.832252225071656,18.27956989247312,3.1716699351335045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1710,7 +1710,7 @@ t&quot; ed States for the year in which the charge
 &quot; Secretary of the Treafnry, is fully refuted—  
 &quot; Writtep by himfcif 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110101:0004/pct:58.93314698346145,26.758455552229872,16.51525739576054,3.0978748877581563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110101:0004/pct:58.93314698346145,26.76219694702185,16.532727696249708,3.1090990721340916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1730,7 +1730,7 @@ t&quot; ed States for the year in which the charge
 &quot; Secretary of the Treafnry, is fully refuted   
 « Written by himfeif&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110201:0004/pct:58.543352601156066,27.08427219468229,18.3121387283237,3.1545741324921135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110201:0004/pct:58.54913294797688,27.09178308547394,18.32369942196532,3.1583295778879377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1753,7 +1753,7 @@ Late Sfxrztaßy ef the Tneasury, is FULLY
 REFUTED.  
 WRITTEN BY HIMSELF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110301:0004/pct:59.37062937062937,7.365269461077844,16.083916083916083,5.164670658682635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110301:0004/pct:59.38811188811189,7.372754491017964,16.07808857808858,5.1609281437125745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1773,7 +1773,7 @@ WRITTEN BY HIMSELF
 &quot; Secretary of the Treasury, is fully refuted—  
 &quot; Written by himfclf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110301:0004/pct:59.37062937062937,26.49700598802395,16.27039627039627,3.0838323353293413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110301:0004/pct:59.38811188811189,26.50449101796407,16.27039627039627,3.0763473053892216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1796,7 +1796,7 @@ Late Secretary of the Treasury, is FULLY ,
 REFUTED.  
 WRITTEN BY HIMSELF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110401:0004/pct:58.38552540013918,6.933213536987122,16.863836696822084,5.076370170709794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110401:0004/pct:58.38552540013918,6.933213536987122,16.87543493389005,5.095088349805331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1816,7 +1816,7 @@ WRITTEN BY HIMSELF
 c&lt; Secretary of the Treasury, is fully refuted—  
 &quot; Written by himfelf.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110401:0004/pct:58.43191834841104,25.9958071278826,16.167942472744144,3.069781371668164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110401:0004/pct:58.437717466945024,25.999550763701706,16.167942472744144,3.077268643306379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1839,7 +1839,7 @@ Late tiECaiiTARV c! the Treasury, is FOLLY
 R£ftJTED.  
 WRITTEN BY himself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110601:0004/pct:58.942125237191654,6.649654758330832,16.105313092979127,5.148604022815971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110601:0004/pct:58.942125237191654,6.649654758330832,16.111242884250473,5.159861903332333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1859,7 +1859,7 @@ l &quot; ed State? for the year if 96,&#x27;&quot; in which tho charge
 » li Secretary of the Treasury, is fully refuted—  
 &quot; Written by himfelf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110601:0004/pct:57.99335863377609,25.68297808465926,17.054079696394687,3.0171119783848694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110601:0004/pct:57.99335863377609,25.690483338336836,17.060009487666033,3.0133593515460824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1882,7 +1882,7 @@ Late Secretary cf the Tr»asury, it FULLY ,
 REFUTED.  
 WRITTEN BY himself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110701:0004/pct:58.901869158878505,6.362007168458781,16.869158878504674,5.1224611708482675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110701:0004/pct:58.919392523364486,6.3694743130227005,16.863317757009344,5.114994026284349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1902,7 +1902,7 @@ WRITTEN BY himself
 •4 Secretary of the Treasury, is fully refuted—  
 &quot; Written by himfclf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110701:0004/pct:58.901869158878505,25.43309438470729,16.285046728971963,3.016726403823178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110701:0004/pct:58.919392523364486,25.436827956989248,16.279205607476637,3.0316606929510157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1922,7 +1922,7 @@ i &quot;of speculation, against Alexander Hamilton, late |
 s &quot; Secretary of the Treasury, is fully refuted—   
 &quot; Written by himfelf&quot; nf&lt;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110801:0004/pct:58.22813862749598,25.550726809530946,18.774386045444114,3.2219391578000898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110801:0004/pct:58.22813862749598,25.55821969129327,18.78586183153546,3.2369249213247415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1942,7 +1942,7 @@ s &quot; Secretary of the Treasury, is fully refuted—
 &quot; Secretary of the Treasury. is fully refuted—  
 &quot; Written by himl&#x27;clf 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110901:0004/pct:60.01897083234527,26.1698956780924,16.480910599952573,3.0104321907600595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797110901:0004/pct:60.01897083234527,26.173621460506705,16.498695755276263,3.0141579731743664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1983,7 +1983,7 @@ REFUTED. 1
 WRITTEN BY HIMS KL F»  
 This publication presents a concise statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111001:0004/pct:41.740344346207536,4.2004200420042,33.317822242903674,88.41884188418842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111001:0004/pct:41.740344346207536,4.2004200420042,33.33527221963704,88.43009300930093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2003,7 +2003,7 @@ This publication presents a concise statemen
 44 Secretary of the Treasury, i» fully refuted- 1  
 H Written by himfelf&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111001:0004/pct:58.32945556072592,25.562556255625562,16.658911121451837,3.0303030303030303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111001:0004/pct:58.34108887854816,25.566306630663068,16.676361098185204,3.049054905490549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2023,7 +2023,7 @@ H Written by himfelf&quot;
 &quot; Secretary of the Treasury, is fHly refuted—   
 « Written by himfelf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111101:0004/pct:59.51035781544256,26.88076122509664,17.749529190207156,3.1668153434433544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111101:0004/pct:59.5280131826742,26.884478144513828,17.737758945386066,3.1630984240261673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2051,7 +2051,7 @@ StentTARV of t]lC &#x27;I RFASURY, 16 FULLY
   
 WRITTEN BY HIMS RI T
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111301:0004/pct:58.901869158878505,7.181168057210965,16.261682242990656,5.512514898688916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111301:0004/pct:58.919392523364486,7.181168057210965,16.279205607476637,5.523688915375447/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2071,7 +2071,7 @@ WRITTEN BY HIMS RI T
 &quot; Secretary of the Trcafury, is fully refuted—  
 &quot; Written by himfelf.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111301:0004/pct:59.06542056074766,26.638855780691298,16.35514018691589,3.0542312276519668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111301:0004/pct:59.08294392523364,26.642580452920143,16.36682242990654,3.0616805721096543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2091,7 +2091,7 @@ ed States for the year JiJ96,&quot; in which the charge
 &quot; Secretary of the Treasury, is fully refuted—  
 n Written by himfcif-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111401:0004/pct:57.647874306839185,26.453055141579732,16.1275415896488,3.1296572280178836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111401:0004/pct:57.6652033271719,26.45678092399404,16.1275415896488,3.133383010432191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2111,7 +2111,7 @@ n Written by himfcif-
 &#x27;k Secretary of the Treafory, is fully refuted—*-  
 &quot; Written by himfclf &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111501:0004/pct:58.61749014149849,26.994323274574246,17.67571329157968,3.122198984164924/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111501:0004/pct:58.62908837856646,26.994323274574246,17.67571329157968,3.140872423065432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2134,7 +2134,7 @@ ALEXANDER HAMILTON,
 REFUTED.  
 WRITTEN Br UIMS EL t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111601:0001/pct:74.31988742964353,80.10975971521803,16.416510318949342,5.295164639572827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111601:0001/pct:74.31988742964353,80.11346781370513,16.422373358348967,5.291456541085731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2158,7 +2158,7 @@ REFUTED.
 irRITTSM Br ulms b1 r.  
 This publication picfents a coneifr ftatemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111701:0001/pct:74.57349848095349,79.265013444876,16.265482589390043,5.885867941440096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111701:0001/pct:74.57934096751578,79.27621750821632,16.265482589390043,5.874663878099791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2180,7 +2180,7 @@ ALEXANDER HAMILTON,
 Late Secretary of the Treasury, is FULLT  
 REFUTED
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111801:0001/pct:74.34579439252336,79.56378846728414,16.14485981308411,4.556319091723932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797111801:0001/pct:74.34579439252336,79.57499253062444,16.16822429906542,4.55258440394383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2203,7 +2203,7 @@ Late Secretary of the Treasury, is FULLT
 REFUTED.  
 WRIT TEN Ji Y HIMSELF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112101:0002/pct:24.62335216572505,69.44692239072256,16.360640301318266,5.084745762711864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112101:0002/pct:24.63512241054614,69.45063931013975,16.348870056497177,5.092179601546238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2248,7 +2248,7 @@ REFUTED.
 WRITTEN Br HIMS tI T.  
 This publication presents a concise statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112301:0001/pct:6.732117812061711,57.42530102571726,17.601683029453014,18.23992864575591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112301:0001/pct:6.737961664329125,57.43273375947673,17.613370733987846,18.243645012635646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2291,7 +2291,7 @@ late Secretary of the Treasury, is FULLY
 REFUTED.  
 IF RIT TE N BT HIMS EI F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112401:0001/pct:6.238229755178907,57.43666169895678,18.408662900188325,17.80923994038748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112401:0001/pct:6.255885122410546,57.43666169895678,18.408662900188325,17.827868852459016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2335,7 +2335,7 @@ Late Secretary of the Treasury, is FULLY
 REFUTED.  
 ir rlt ri n bt ulm sll r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112501:0001/pct:6.519699812382739,55.9916741005055,16.627579737335836,18.88195063931014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112501:0001/pct:6.537288930581614,55.99910793933987,16.62171669793621,18.878233719892954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2380,7 +2380,7 @@ REFUTED.
 WRITTEN ST UIMS-S&#x27;LT.  
 This publication presents a concise ftatemeo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112701:0001/pct:7.9143389199255125,56.52757078986587,16.59683426443203,19.538002980625933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112701:0001/pct:7.920158286778398,56.53874813710879,16.602653631284916,19.538002980625933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2425,7 +2425,7 @@ REFUTED.
 WRITTEN Br UIMSSir.  
 This publication presents a concise statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112801:0001/pct:6.590324842252863,55.81429842776624,16.49918205188128,19.37110649658855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112801:0001/pct:6.5961673288151434,55.81429842776624,16.50502453844356,19.374814595075645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2448,7 +2448,7 @@ ALEXANDER HAMILTON,
 Late Secretary of the Treasury, is FULLY  
 REFUTED
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797113001:0001/pct:6.265954977953121,69.54587296716784,17.01090740310977,5.170297637312059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797113001:0001/pct:6.277558598282664,69.54587296716784,17.022511023439314,5.181804234427738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2471,7 +2471,7 @@ Lase Secretary of the Treasury, is EULLY
 REFUTED.  
 IV RITr E N Br U 1J! SEI F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797120101:0001/pct:7.107670654468684,78.91330523780854,16.490734224724374,5.192655027092113/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797120101:0001/pct:7.119399483931503,78.91330523780854,16.490734224724374,5.207706201083685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2497,7 +2497,7 @@ This publication presents a concise statement
 ef the base means pradifed by the Jacobins of the  
 United States to asperse the characters of thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797120201:0001/pct:8.63425925925926,78.81040892193309,16.319444444444443,6.765799256505576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797120201:0001/pct:8.640046296296296,78.82156133828997,16.32523148148148,6.762081784386617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2536,7 +2536,7 @@ Late Sucaer arv of the Trbasurv, i» BULLY
 REFUTED.  
 tr rlr rs n Br himself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797120401:0001/pct:7.020872865275142,62.65275707898659,16.888045540796963,14.575260804769002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797120401:0001/pct:7.032732447817837,62.66393442622951,16.89397533206831,14.575260804769002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2588,7 +2588,7 @@ This publication presents a concifc flatement
 of the bafc means pradlifed by the Jacobins of the  
 United States to afperfa the characters of thol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797120501:0001/pct:7.309738607448531,63.7298747763864,16.28498727735369,15.84675014907573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797120501:0001/pct:7.3213046495489245,63.73732856290996,16.28498727735369,15.850477042337507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2612,7 +2612,7 @@ REFUTED.
 WRITTEN BT HIMSELF.  
 This publication presents a concise statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797120701:0001/pct:7.0481507327285415,70.78416728902165,16.23633403117004,5.840179238237491/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797120701:0001/pct:7.05978134449872,70.79536967886483,16.242149337055128,5.840179238237491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2635,7 +2635,7 @@ Late Secretary of the Treasury, is EULLY
 REFUTED.  
 ITK *T TEN BT HIMSELF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797120901:0001/pct:7.194244604316546,70.71930611634515,16.26827570201903,5.18917302228204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797120901:0001/pct:7.211650034810861,70.72304471362345,16.279879322348574,5.18917302228204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2659,7 +2659,7 @@ REFUTED.
 MITTEN BY UIMS EI F.  
 &quot;fhis publication presents a concise statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121101:0001/pct:6.378026070763501,70.51320083061407,16.783054003724395,5.7994660338178585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121101:0001/pct:6.378026070763501,70.51320083061407,16.800512104283055,5.818006526253337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2683,7 +2683,7 @@ REFUTED.
 ttrn IT TEN Br HIMSELF.  
 This publication presents a concise statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121201:0001/pct:7.925840092699884,70.92293906810036,16.245654692931634,5.779569892473118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121201:0001/pct:7.9374275782155275,70.92667264038232,16.23406720741599,5.783303464755078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2721,7 +2721,7 @@ Late S«cretj»»y of the T&amp;iasdhy, is EULLY
 REFUTED.  
 iviirrEN Br hims e1 r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121301:0001/pct:7.081093713484459,61.622348371676125,16.56929189062865,14.087242306543173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121301:0001/pct:7.092778686609021,61.62981774723633,16.563449404066372,14.098446369883478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2747,7 +2747,7 @@ This publication presents a concise statement &#x27;
 «f the base means pra&amp;ifed by the Jacobins of the &quot;  
 United States to asperse the charaders of thof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121401:0001/pct:5.161133995638479,70.70616397366847,18.245699055003634,6.822262118491921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121401:0001/pct:5.179307002665374,70.71738479952124,18.233583716985702,6.822262118491921/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2785,7 +2785,7 @@ Xate Secretary of the Treasury, is FULLY
 REFUTED.  
 WRITTEN Br HIMSELF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121601:0001/pct:5.01574993942331,62.17717717717718,18.02762297068088,14.12912912912913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121601:0001/pct:5.033922946450206,62.17717717717718,18.033680639689848,14.136636636636636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2808,7 +2808,7 @@ Late Secretary of the Treasury, is F.ULLY
 REFUTED.  
 WRITTEN BT HIMSELF.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121801:0001/pct:57.22791140747797,72.5,18.028101929030722,5.212121212121212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121801:0001/pct:57.23981900452489,72.51136363636364,18.03405572755418,5.208333333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2849,7 +2849,7 @@ REFUTED.
 WRITTEN tr tIIMSKLT.  
 This publication presents a concise statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121901:0001/pct:57.72970345162859,61.50937689050212,17.744287797763732,16.48517846339988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797121901:0001/pct:57.73578026251823,61.52071990320629,17.744287797763732,16.48517846339988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2872,7 +2872,7 @@ Late SiicaaTAiiv of the Treasury, is FULLY
 REFUTED.  
 IF KITTEN BT UIMSELt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797122001:0004/pct:42.82261962300628,72.16666666666667,16.84388593523441,5.151515151515151/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797122001:0004/pct:42.84074432092798,72.17424242424242,16.84388593523441,5.15530303030303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2895,7 +2895,7 @@ Late Szc*eta*t of the TiiASUny, is FULLY
 REfUTED.  
 WRITTEN Br MIMS KL F
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797122701:0004/pct:23.839611178614824,38.610097323600975,18.201701093560146,5.261557177615572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797122701:0004/pct:23.851761846901578,38.61389902676399,18.195625759416767,5.265358880778589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2924,7 +2924,7 @@ REFUTED.
 IT It IrT E N Br UIMS EI r.  
 This publication presents a soncife statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797122901:0004/pct:5.540704738760632,40.52139843279084,17.18104495747266,10.021097046413502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797122901:0004/pct:5.540704738760632,40.525165762507534,17.193195625759415,10.021097046413502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2964,7 +2964,7 @@ REFUTED.
 WRITTEN BT HI MS KIT.  
 This publication presents a eoncife statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798010301:0004/pct:59.543958627174426,5.803770224135372,34.367653972731546,89.2979070803028/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798010301:0004/pct:59.55571227080395,5.803770224135372,34.37353079454631,89.30532878135669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2990,7 +2990,7 @@ J&gt; This publication presents a eoncife statement
 &#x27;■ of the base means pradlifed by the Jacobins of the  
 United States to asperse the characters of thof
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798010401:0004/pct:76.98636577338975,7.481074662312602,17.81852374236013,6.813121567463263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798010401:0004/pct:76.99224259520452,7.484785512839543,17.824400564174894,6.820543268517144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3013,7 +3013,7 @@ Late Secretary of the T*easo»t, it FUI
 REFUTED.  
 WRITTEN BT HIMSEIr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798010601:0004/pct:77.46847489888175,6.9677611053335315,15.179633595051154,5.095825285990195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798010601:0004/pct:77.47442303116821,6.9677611053335315,15.179633595051154,5.103253602733621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3037,7 +3037,7 @@ RErUTED.
 ITRITTBJ/ BT HIMSELF.  
 This publication presents a 6oncife statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798010801:0004/pct:76.73393644166087,6.436921208440868,16.49269311064718,5.890390162441172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798010801:0004/pct:76.73973556019484,6.436921208440868,16.49269311064718,5.89798087141339/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3060,7 +3060,7 @@ Late Secretary of the Tliasury, is FULLY
 REFUTED. &gt;  
 wrrr rs n sr ulms s1 r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798010901:0004/pct:78.89241942805266,8.502209355477678,15.932818883340898,5.2567423434405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798010901:0004/pct:78.89241942805266,8.513637056224288,15.949841125737631,5.252933109858296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3100,7 +3100,7 @@ Late Secuztary of the Treasury, it FULI V
 REFUTED.  
 tFR I T TEN Br himself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011301:0004/pct:60.310369151187395,5.0489826676714396,33.740888784387494,90.20346646571214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011301:0004/pct:60.31624735480837,5.056518462697815,33.74676698800847,90.19969856819894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3123,7 +3123,7 @@ Late Secretaby of the Treaiuk.t, it FULLY
 REFUTED.  
 rr Rlt t£ n Br bimselt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011501:0004/pct:78.02615933412604,7.653910149750416,16.646848989298455,5.218575102102556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011501:0004/pct:78.02615933412604,7.665254878233248,16.658739595719382,5.214793525941612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3164,7 +3164,7 @@ ALEXANDER HAMILTON
 Late Secretary of the Treasury, it Flir r v  
 &#x27; . REFUTED. 1 &#x27;UL.L
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011601:0004/pct:59.92189406883085,5.526512322628827,35.513790578472054,91.1277072442121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011601:0004/pct:59.93409812057603,5.537714712471994,35.51989260434464,91.13517550410754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3188,7 +3188,7 @@ REFUTED.
 WRITTEN Br aIMSEI F.  
 This publication presents a concise Hatemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011701:0004/pct:76.19160540668722,7.9608728367193375,16.670618923405264,5.838976674191121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011701:0004/pct:76.20939056201091,7.964635063957863,16.670618923405264,5.846501128668171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3211,7 +3211,7 @@ Late S«£*itrjißY of yhe l«&gt;.ASuarLi» t.
 REFUTED.  
 fr RIT TS N Br BIM SE 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011801:0004/pct:77.09905660377359,79.67688358749811,15.424528301886792,5.405405405405405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011801:0004/pct:77.10495283018868,79.68065831194323,15.430424528301886,5.420504303185868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3234,7 +3234,7 @@ jimXANDER HAMILTON,
 1 REFUTED.  
 WRITTEN Br HIMSELF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011901:0004/pct:74.13712686567165,78.36842880282727,19.612873134328357,5.124429391842144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798011901:0004/pct:74.14878731343283,78.36842880282727,19.612873134328357,5.131792077749963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3274,7 +3274,7 @@ d ALEXANDER HAMILTON,
 h REFUTED.  
 wri r r sir Br himself
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798012401:0004/pct:77.92026113313126,69.63176238824065,17.766379109349497,15.866040309137748/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798012401:0004/pct:77.93191886220565,69.64312774662828,17.789694567498252,15.858463403545992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3293,7 +3293,7 @@ Contained in No( V and V! *f
 the year 1796,&quot;  
 In which the charge of speculatiov bjairff
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798012601:0004/pct:78.32086061739943,79.94912464462068,16.487371375116933,2.962741283854556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798012601:0004/pct:78.33255378858746,79.95286547957504,16.493217960710943,2.97022295376328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3333,7 +3333,7 @@ Late Sickitaky of the Treasury, it FULLY
 REFUTED.  
 WRITTEN BY HlMSftir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798013001:0004/pct:77.45970651912437,70.66527757106712,17.753187394755834,15.776157166244976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798013001:0004/pct:77.47774837623287,70.66527757106712,17.75920134712533,15.78359874981396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3357,7 +3357,7 @@ REFUTED.
 WRITTEN Br BIUS EI F.  
 This publication prcfents a ooncife statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798020101:0004/pct:79.32469935245143,57.90010193679918,16.003700277520814,5.621086355031309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798020101:0004/pct:79.32469935245143,57.91102373671181,16.009481961147085,5.624726955002185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3381,7 +3381,7 @@ REFUTED.
 tr RIT fK N BY UIMS EL F.  
 This publication presents a eoncife statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798020201:0004/pct:78.47206385404789,58.633720930232556,15.758266818700115,5.523255813953488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798020201:0004/pct:78.48916761687572,58.64462209302326,15.758266818700115,5.526889534883721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3405,7 +3405,7 @@ Late Secretary of the Treasury, it FULLY
 JT KIT TE N Br UtMf EI F.  
 This publication prefentt a ooncife statemen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798020501:0004/pct:78.54934601664685,58.148863467538256,17.621878715814507,5.794087059872233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798020501:0004/pct:78.56123662306777,58.15257762590997,17.60998810939358,5.79037290150052/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3442,7 +3442,7 @@ Late Secretar\ of th kf.m»ury, is f LJILY
 REFUTED.  
 WRITTEN BY HIMSEL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798020901:0003/pct:72.35510579576817,42.29761211415259,15.823367065317388,12.856726849155503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798020901:0003/pct:72.36660533578657,42.30489225393128,15.811867525298988,12.864006988934188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3484,7 +3484,7 @@ REFUTED.
 WRITTEN BY HIMSELF.  
 This publication presents a concise flatentnt o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798021001:0002/pct:44.41637190500253,66.07678938220889,16.09398686205154,16.30589350608311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798021001:0002/pct:44.435320869125825,66.08073945331016,16.112935826174837,16.309843577184388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3508,7 +3508,7 @@ ie Late Secretary of the Treasury, is FULLY
 3,. WRITTEN LT HIMSELF.  
 cr This publication pre fen ts a concjfc ftatemtnt o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798021301:0001/pct:71.91470054446461,67.03170028818444,16.833030852994554,5.389048991354467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798021301:0001/pct:71.91470054446461,67.03530259365995,16.855716878402905,5.3962536023054755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3532,7 +3532,7 @@ REFUTED.
 WRITTEN BY HIMSELF.  
 1 his publication presents a concifc (latemtnt o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798021401:0001/pct:72.08826205641492,67.85923753665689,15.673339399454049,5.527859237536657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798021401:0001/pct:72.08826205641492,67.87023460410558,15.690400363967242,5.524193548387097/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3556,7 +3556,7 @@ REFUTED,
 WRITTEN BY HIMSELF.  
 This publication presents a concise ftatemtnt o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798021501:0001/pct:71.37023593466425,67.61627906976744,15.721415607985481,5.494186046511628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798021501:0001/pct:71.38157894736842,67.61991279069767,15.727087114337568,5.49781976744186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3580,7 +3580,7 @@ REFUTED.
 WRITTEN BT HIMSELF.  
 This publication presents a concise ftatemtnt.o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798021601:0001/pct:72.43824336688014,68.47699475829936,15.850869167429094,5.474665113570181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798021601:0001/pct:72.45539798719122,68.4806348281887,15.856587374199451,5.485585323238206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3603,7 +3603,7 @@ Late Sicretaky of the J&#x27;reasur y. is FUIIV
 REFUTED.  
 WRITTEN Br lIIMSELP
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798021701:0001/pct:72.15703971119133,68.38963308095515,15.478339350180505,5.008736167734421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798021701:0001/pct:72.16832129963899,68.3932731508445,15.483980144404333,5.0196563774024465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3626,7 +3626,7 @@ Late secretar \ of the Treasury, is FUI LY
 REFUTED.  
 WRITTEN BT HIMSELF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798021901:0001/pct:73.0045871559633,68.49015317286653,15.73394495412844,4.989059080962801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798021901:0001/pct:73.0045871559633,68.49015317286653,15.739678899082568,5.010940919037199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3649,7 +3649,7 @@ Late tECRti arv of theTaEASuRT, is EUI LY
 REFUTED.  
 WRITTEN BT HIMSELF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798022001:0001/pct:71.89960629921259,68.07940759413896,15.403543307086615,4.962974633685206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798022001:0001/pct:71.89960629921259,68.09122420040964,15.428149606299213,4.9669135024420985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3672,7 +3672,7 @@ Late Sicretary oi the Treasure, is FUI LY
 REFUTED.  
 WRITTEN BY HIMSELF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798022101:0001/pct:72.64760147601476,67.81323185011709,15.728782287822877,4.961943793911007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798022101:0001/pct:72.64760147601476,67.82055035128806,15.746079335793358,4.961943793911007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3695,7 +3695,7 @@ Late Secretary of the Treasbrv, it FUI LY
 REFUTED,  
 WRITTEN ET HIMSELF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798022201:0001/pct:72.64760147601476,68.5934769947583,15.797970479704796,4.965055329062318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798022201:0001/pct:72.64760147601476,68.60075713453698,15.797970479704796,4.96869539895166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3718,7 +3718,7 @@ Late secretary ot the Treasury it FULLY
 REFUTED.  
 WRITTEN BY HIMSELF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798022401:0001/pct:72.78740875912409,69.44281524926686,15.579379562043796,5.0146627565982405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798022401:0001/pct:72.79311131386861,69.44648093841643,15.579379562043796,5.021994134897361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3742,7 +3742,7 @@ REPUTED,
 WRITTEN BY HIMSELF.  
 This publication presents a concifc ftatemtnt o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798022601:0001/pct:71.87782805429865,67.71986022131625,15.588235294117647,5.518345952242283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798022601:0001/pct:71.88348416289593,67.7235002912056,15.599547511312217,5.536546301688992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3766,7 +3766,7 @@ RFFUTED.
 WRITTEN BY HIMSELF.  
 This publication presents a concise ftatemtnt o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798022801:0001/pct:73.07692307692308,68.23220536756126,16.876456876456878,5.484247374562427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798022801:0001/pct:73.0944055944056,68.23585180863478,16.876456876456878,5.4806009334889145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3790,7 +3790,7 @@ REFUTED.
 WRITTEN BY HI MS E LP.  
 This publication presents a conc.Te natemtnt o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030101:0001/pct:71.3929219600726,67.50291715285881,15.562613430127042,5.5863477246207704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030101:0001/pct:71.40993647912886,67.51385647607934,15.56828493647913,5.597287047841307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3814,7 +3814,7 @@ REFUTED. F
 WRITTEN Err HIMSELF.  
 This publication presents a corcife ftatemtnt o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030701:0001/pct:55.57899671823723,82.03610984676074,17.698077824660103,5.810954331664391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030701:0001/pct:55.59657759024848,82.03610984676074,17.692217533989687,5.826126536185708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3838,7 +3838,7 @@ Late Secritar? of the Treasvrt, is FUI LY
 WRITTEN BY HIMSELF.  
 This publication presents a concise ftatemtnt o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030801:0001/pct:56.39080459770115,81.06642566651604,16.275862068965516,5.814128633830396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798030801:0001/pct:56.39655172413793,81.07019129386956,16.28735632183908,5.8178942611839135/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3861,7 +3861,7 @@ Late SxckETAKt of tliirTtiAstat, is FUI LY
 RFFUTHD.  
 WRITTEN BT HIMSELF
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798031001:0004/pct:78.53987444780283,78.98561255631449,15.880027900488258,4.824880104635954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_napolean_ver01:data:sn83025881:print:1798031001:0004/pct:78.53987444780283,78.99287894201424,15.897465705649848,4.8394128760354596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3924,7 +3924,7 @@ against Alexander Hamilton, late Secretary of the
 Treasnrv, Is fnllv refuted. Written by himself.  
 • Phlladefphta: 1797.” The original portion of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869050901:0005/pct:60.66524850125701,58.525568640103245,9.031135176948366,2.0164542668172287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869050901:0005/pct:60.66524850125701,58.529601548636876,9.045639141365307,2.020487175350863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3946,7 +3946,7 @@ runy refuted. Written by Himself. Philadelphia,
 printed for John fenso, by John Bioren. kit ”  
 Hamilton abowi ta this pamphlet all his grace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869122701:0002/pct:48.59884836852207,81.76926728912802,8.809980806142034,2.658648520335496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1869122701:0002/pct:48.603646833013435,81.7732236113309,8.81957773512476,2.674473809147017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4007,7 +4007,7 @@ in which the charge of speculation against Alex­
 ander Hamilton, late Secretary of the Treasury,  
 is fully refuted.&quot; In this defence he savs: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875042201:0621/pct:166.26506024096386,66.73526385418198,49.623493975903614,8.643245626929296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206533468:1875042201:0621/pct:41.566265060240966,16.683815963545495,12.405873493975903,2.160811406732324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

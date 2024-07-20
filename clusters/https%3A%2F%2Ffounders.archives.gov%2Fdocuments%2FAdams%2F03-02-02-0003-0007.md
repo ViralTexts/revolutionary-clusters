@@ -302,7 +302,7 @@ What stands before him can espy ;
 But optics Bkarp It needs I ween,  
 To see what is not to be seen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1877031501:0955/pct:30.004332755632582,54.592376919004764,12.75996533795494,2.3689782953943888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1877031501:0955/pct:22.513542795232937,40.947591318157755,9.577464788732394,1.7734250926416093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ What stands before him oan espy;
 But optica sharp It needs I ween  
 To see what is not to be seen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:0028077487A:1886112501:0183/pct:87.99107142857143,75.37071035164524,11.383928571428571,2.188956362095749/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:0028077487A:1886112501:0183/pct:66.0486933214206,56.53156333851151,8.532499441590351,1.638186696794238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

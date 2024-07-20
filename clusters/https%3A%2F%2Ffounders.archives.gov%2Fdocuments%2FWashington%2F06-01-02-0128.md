@@ -96,7 +96,7 @@ I shall only add that I am always and affee­
 tionately yours.  
 Groner WAsmNGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851030301:0006/pct:102.55425388899559,14.850640113798008,95.04513155367775,376.6856330014225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851030301:0006/pct:25.63364055299539,3.7121319869150904,23.756720430107528,94.15801450718247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -164,7 +164,7 @@ ately yours, George Washington.’
 A vein of quiet humor prevades th.s letter;  
 that must be new to most of the world who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851030801:0487/pct:5.658914728682171,14.390142021720969,13.226744186046512,24.923419660261764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851030801:0487/pct:5.658366437360721,14.389140271493213,13.228692310176662,24.92400510500058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ day book. At present, I shall only add that I am
 always and affectionately yours,  
 George Washington.?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851031201:0155/pct:29.993658845909955,64.74829086389062,40.599239061509195,30.47855811062772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn84024517:00296022706:1851031201:0155/pct:22.505947660586838,48.564325668116844,30.467882632831085,22.85891858297079/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ the nights grow longer, when poedbly 1 may
 be looking in Houmaday Hook.”  
 The influx of strange faces alluded to in 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859052601:1139/pct:7.004589902215127,38.146775389177165,13.590101776092597,29.132690882134916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347269:1859052601:1139/pct:7.011241934410963,38.151717321472695,13.603405840484267,29.137632814430443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ ably not before the nights grow longer when
 possibly I may be looking in Dooms-day  
 Book.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1859062401:0950/pct:51.106290672451195,87.49567424155035,46.16052060737527,106.96735494289999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn93067882:0020219428A:1859062401:0950/pct:17.0354302241504,29.16522474718345,15.386840202458425,35.655784980966665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ my writing-table and acknowledge the let­
 ters I have received. Having given you  
 this history for a da}’, it will serve for 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1873042301:0214/pct:31.57510049945182,44.512616660905636,12.474113777561213,9.05634289664708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184418:1873042301:0214/pct:31.571254567600487,44.50877041389441,12.4766544863987,9.058440623289842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -720,7 +720,7 @@ plished these matters, breakfast (a little after a|
 7 o&#x27;clock) is ready; this being over, I mount ^  
 my horse and ride round the farms.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862762:1877032201:0251/pct:29.524812425957617,12.720279094731193,14.518889035145452,3.157706413811611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862762:1877032201:0251/pct:29.529200122855514,12.72326087604735,14.527664428941248,3.1606881951277694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ is time to dress for dinner, at which I
 rarely miss to see some strange faces, come,  
 as they say, out of respect for me.&quot; Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888113001:1318/pct:17.940717628705148,294.04344779257184,49.765990639625585,13.342676944639104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888113001:1318/pct:4.486054222742345,73.51086194814296,12.44392432221572,3.335669236159776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1213,7 +1213,7 @@ eomes, and with It the same causes for
 pou the history of a day. It will serve  
 tor a year.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:00340582433:1899021601:0454/pct:57.22256664600124,29.246881256738025,12.130605497003513,20.637609733559216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:00340582433:1899021601:0454/pct:57.210743801652896,29.242377579303973,12.133264462809917,20.638281490606715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1254,7 +1254,7 @@ fHE PRECIOUS
 FORTY PER CESTT MORE GOLD IN  
 THE WORLD
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016810:00280768005:1899021801:0431/pct:56.9845396087016,13.75655931680214,24.558763168696128,81.6956477003807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016810:00280768005:1899021801:0431/pct:56.9845396087016,13.759989024933978,24.567884343503444,81.70593682477622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1286,7 +1286,7 @@ longer, when, possibly, I may be looking in
 Doomsday book.&quot;  
 For the rest, the best portrait we get o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016810:00280768005:1899021801:0432/pct:68.81633749832056,37.61684643040575,12.078462985355367,7.437082691319979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_effie_ver01:data:sn83016810:00280768005:1899021801:0432/pct:68.82529446011912,37.620270501626436,12.087419947153926,7.4336586200992985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1337,7 +1337,7 @@ postponement, and so on. Having given
 rou the history of a day, it will serve  
 for a year.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elephanttree_ver01:data:sn94051692:00211106153:1899031101:0496/pct:49.26663174436878,45.80057526366251,18.373493975903614,29.050814956855227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_elephanttree_ver01:data:sn94051692:00211106153:1899031101:0496/pct:32.85733001441111,30.536912751677853,12.262544215904624,19.367209971236818/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1376,7 +1376,7 @@ table and acknowledge the letters I have
 received. When the lights are brought I  
 feel tired and disinclined to engage in this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199677:1899121001:0186/pct:12.738728096081905,186.2708136977694,50.99429021460917,47.1253534401508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199677:1899121001:0186/pct:3.1846820240204763,46.56770342444235,12.748572553652293,11.7813383600377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1403,7 +1403,7 @@ eral at Mount Vernon were not long left
 The other morning I called upon the gen­  
 eral to learn how he creates the immorta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199677:1899121001:0186/pct:67.25733412088994,216.25824693685203,51.07304587517228,48.68049010367578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_hoquiam_ver01:data:sn83045604:00202199677:1899121001:0186/pct:16.814333530222484,54.06456173421301,12.76826146879307,12.170122525918945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

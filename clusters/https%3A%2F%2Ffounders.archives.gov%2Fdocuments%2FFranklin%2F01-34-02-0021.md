@@ -1180,7 +1180,7 @@ happy people, if they wish to be respected
 and beloved by others, aud happy,in them­  
 selves, to leave of looking at the vgly lep.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952519A:1864100401:0043/pct:4.629021667760998,72.75467906041955,11.145764937623113,8.88079387011682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952519A:1864100401:0043/pct:4.628261939931068,72.74554132127606,11.148038732972264,8.882818387339864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1322,7 +1322,7 @@ by others, and happy in themselves, to
 leave off looking at the ugly leg.&quot;  
 Various expedients, in addition to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026789:00271768047:1865012501:0062/pct:56.494661921708186,89.95960076045627,48.39857651245551,39.38925855513308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn84026789:00271768047:1865012501:0062/pct:18.83155397390273,29.98653358681876,16.132858837485173,13.129752851711027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1446,7 +1446,7 @@ leave oft looking at the ugly leg.&#x27;’
   
 AUGUSTA SAVINGS BAN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1875102201:0136/pct:81.55268022181146,23.66771159874608,13.548983364140481,55.54288971216871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:00332895928:1875102201:0136/pct:81.53760857512475,23.664339649522724,13.551099611901682,55.53853825331244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1467,7 +1467,7 @@ equal degrces of health and wealth, and the
 other comforts of life, become the one hap-  
 py, and the other miserable.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022473:00280777936:1877051501:0459/pct:126.3540824575586,131.93781745420964,47.45351657235246,14.591349853778667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84022473:00280777936:1877051501:0459/pct:31.60768452982811,32.98445436355241,11.870576339737108,3.6478374634446666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1652,7 +1652,7 @@ may observe the signs of a carping and
 fault-muling disposition.—October Pop­  
 ular be knee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625108:1884111501:0576/pct:23.02123552123552,79.26968864468864,13.835263835263834,8.940018315018316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625108:1884111501:0576/pct:23.02123552123552,79.26968864468864,13.835263835263834,8.9514652014652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1677,7 +1677,7 @@ for an instrument, He of course pos­
 sessed a thermometer to test heat, aud  
 a barometer to tell the .air-piesmtre,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:0029602112A:1884112901:0154/pct:104.47443181818181,52.680293096799076,15.553977272727273,6.37614089214552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:0029602112A:1884112901:0154/pct:78.39758394030912,39.516647383982516,11.671700124356013,4.78210566910914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1713,7 +1713,7 @@ tion.
   
 . 1 &quot;wakened m the light or her smile, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:0029602112A:1884112901:0154/pct:71.484375,62.57873762694434,48.79261363636363,24.733256202596735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:0029602112A:1884112901:0154/pct:53.650737253508616,46.934053220208256,36.61396340380174,18.562797274713972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

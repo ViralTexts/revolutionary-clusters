@@ -210,7 +210,7 @@ the trouble winch this may give you.
 With entire respect,  
 Your friend and Que lien! servt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012301:0003/pct:60.28973157221986,15.90068674062335,17.66084363016617,9.58795562599049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012301:0003/pct:60.28973157221986,15.909491107589364,17.682147422241158,9.58795562599049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -308,7 +308,7 @@ y ur character and may be embarrassed
 ia your presence—put him,at ease and  
 fis will satisfy ,vfiu. Doctor Bollma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012301:0003/pct:78.97315722198552,29.160063391442154,18.065615679590966,51.003697834125724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012301:0003/pct:78.97315722198552,29.160063391442154,18.07981820764096,51.01690438457475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ tention: of --—-, and will disclosc to
 he hasssis lmbibed a reverence for your &#x27;cha-ss  
 :acrer and may be cnbarraued in you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807012401:0401/pct:45.09599642803989,36.674239776301995,23.083792230986752,58.31003145753233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807012401:0401/pct:45.089285714285715,36.671035386631715,23.08531746031746,58.307849133537204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ give you.
 With entire respect,­  
 YOUr friend and obedient lervt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807012401:0401/pct:69.1471945229945,63.34323663054876,22.399166542640273,10.983921705697309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807012401:0401/pct:69.13690476190476,63.337702053298386,22.400793650793652,10.985874472113004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ gelifts of Almighty God, d t declare an I fwear, &#x27;
 that on the fixth tfty of November Iaft, when  
 in command at Natchitoches, I received by i!i,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0330/pct:60.09615384615385,60.3125,17.93639053254438,6.325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0330/pct:60.08504344610834,60.30496187976503,17.93923707401245,6.328375619714202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -579,7 +579,7 @@ reverence for your character, and cnay he-am­
 harrafTeclin your-prefence ; put hiju at cafe  
 and lie will fatisfyyou: doAor Bnllnuin, «r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0330/pct:60.00369822485207,3.1375,36.05769230769231,93.15/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807012701:0330/pct:59.99260491772971,3.1371078615173102,36.05718863622358,93.14252385118527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ lowing facts may legal y charge him with, on m
 honor as a soldier, and on the holy evangelists o  
 Almgibty God, do declare and swear, that on t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807012701:0035/pct:39.666919000757005,9.059763989341453,35.143830431491295,82.43877680497398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807012701:0035/pct:39.659413434247874,9.058614564831261,35.143487858719645,82.43254673094815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ and no further; he has imbibed a reverence for
 your character, and maybe emoarrassed in your  
 presence; put him at ease and he will satisf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807012701:0035/pct:57.55109765329296,27.610709300850147,17.259651778955337,37.11457936810049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807012701:0035/pct:57.540208136234625,27.607206292819082,17.26269315673289,37.11409963630212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ pardon the trouble which this rr.ay give
 you. With entire respect,  
 ^ our friend and obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807012701:0035/pct:75.47312641937926,25.18715898997589,17.56245268735806,9.681512498413907/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807012701:0035/pct:75.45884578997162,25.183963461050496,17.565436770734784,9.684513236911105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -806,7 +806,7 @@ i&gt; to move down rapidly from the &#x27;
 falls on the 15th of November wita the j  
 al, or 1000 men in light boats now 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012801:0003/pct:3.463758819756254,46.462455950121985,18.38785546290357,45.79831932773109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012801:0003/pct:3.4708858955170694,46.466973886328724,18.380728387142756,45.80735520014457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,7 +956,7 @@ and Ogden, have boon parties to and
 have been concerned Hi the insurrec­  
 tion .formed, or . fr.taiioa; in the state
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012801:0003/pct:21.744708146247593,2.507454594741122,37.139191789608724,94.7682298725942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807012801:0003/pct:21.75183522200841,2.5164904671546036,37.139191789608724,94.77274780880094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1010,7 +1010,7 @@ on the holy Evangelists of Almighty God, do de­
 clare and swear, that on the sixth day of November  
 last, when in command at Natchitoches, I receive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807013001:0342/pct:73.5042735042735,29.46071371419427,20.83028083028083,6.657065130420867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807013001:0342/pct:73.486328125,29.456,20.831298828125,6.66/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1089,7 +1089,7 @@ he has imbibed a revereuce for your character, and
 may be embarrassed in your presence ; put him at  
 ease and he will satisfy you: Dr. Bollinan, equall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807013001:0342/pct:72.99145299145299,48.79180668907025,21.318681318681318,42.854856777084336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807013001:0342/pct:72.9736328125,48.784,21.319580078125,42.852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1117,7 +1117,7 @@ may give you.
 With entire respect,  
 Your friend and obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807013001:0343/pct:6.856868856389355,41.455187921619014,20.402781107648046,9.315772566655959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807013001:0343/pct:6.85522531160115,41.448530592580695,20.403883029721957,9.318291312028265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1196,7 +1196,7 @@ I nal orders are given to my mum- and lux­
 I—Wilkins&#x27;on shall dictatc the rank&quot; and  
 &#x27;promouan of his oshccrs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807013001:0421/pct:2.0372010628875112,5.6474914630943,45.9551225273103,89.94834077576394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807013001:0421/pct:2.03690036900369,5.646997023288391,45.953259532595325,89.94338411253138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1350,7 +1350,7 @@ achooocu were couctacced iur alwg 09?
 southern coin tonhcir nervicc; um tie  
 hau be:- accompanied iron the inns o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807013001:0421/pct:25.036905816356658,5.831363278171789,45.777974608798345,89.76446896068646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807013001:0421/pct:25.03321033210332,5.830852740325687,45.77613776137761,89.75952839549407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1424,7 +1424,7 @@ Siglled, _ , _ _
 _ JAMES W—ILKINSON.  
 SWo&#x27;m to andctubscfibed before me this 26t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807013001:0421/pct:48.125184529081785,40.01400928114876,22.881606141127843,39.09465020576132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807013001:0421/pct:48.11808118081181,40.01050604097356,22.883148831488313,39.094145800501956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1802,7 +1802,7 @@ GEORGE POLLOCK,
 Juftice of the peace for  
 the county of Orleans.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807020301:0342/pct:21.823104693140795,3.466076696165192,35.88447653429603,92.51474926253687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807020301:0342/pct:21.819166215484568,3.465650731227725,35.88401612224027,92.50747613780672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2028,7 +2028,7 @@ i . r »’om *he extraordinary nature of the pro­
 I ject. and the mo e extraorninary appeal to me,  
 j I coul i bn* d iib; its reality, notwithstanding ib
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807020301:0042/pct:41.326530612244895,4.767895332746257,53.779289493575206,90.55227072587746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807020301:0042/pct:41.31872284148876,4.767295597484277,53.775426664147616,90.54507337526205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2061,7 +2061,7 @@ f next month”—In addi ion to ihese c ir &gt;bo a­
 tingeir. umttanceaagainst Alexander. I bef k ve  
 o refer ro the accompanying documents—n an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807020301:0042/pct:77.53212396069539,40.92338658950811,17.630385487528343,10.353503585356648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807020301:0042/pct:77.51747591158133,40.918238993710695,17.633352226210718,10.356394129979035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2083,7 +2083,7 @@ the sta.es and territories on tlie Ohio and Mis.
 sissippi rivers, against the laws und constitution  
 of ,he United Stare
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807020301:0042/pct:77.81557067271353,51.21398918102906,17.498110355253214,4.2521071832934965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807020301:0042/pct:77.80086907235972,51.20754716981132,17.501102084514137,4.255765199161425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2447,7 +2447,7 @@ of Dec., in the year of our Lord 1806.
 (Signed) George Pollock,  
 Justice of peace for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020401:0350/pct:52.09713024282561,3.267136450992953,42.92371842040716,93.80204996796925/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807020401:0350/pct:52.08435507601766,3.266613290632506,42.9193231976459,93.791032826261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2495,7 +2495,7 @@ do declare and swear, that on the sixth
 day of November last, when in com­  
 mand at Natchitoches, I received by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807020601:0713/pct:5.9169938306225465,30.278884462151396,21.620863712843523,9.9601593625498/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807020601:0713/pct:5.91533501541912,30.27364045722203,21.621811045696663,9.962764114998269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2595,7 +2595,7 @@ racter and may be embarrassed in your
 presence ; put him at ease and he will  
 Satisfy yon. Dr. BoUntan. equally con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807020601:0713/pct:5.776780706674145,5.9760956175298805,43.49411104879417,91.46024597263121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1807020601:0713/pct:5.775161199887861,5.97506061655698,43.48892626857303,91.44873571181157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3134,7 +3134,7 @@ has imbibed a reverence for your character
 and ma\ be elboarrassed in your presence­  
 put liim at ease apd he will satisfv you Dr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807020901:0132/pct:58.78675228117607,15.067130780706117,36.346738763095644,77.83192441571357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807020901:0132/pct:58.77682040885285,15.06563245823389,36.3448217604325,77.82667064439141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3210,7 +3210,7 @@ will:be fettled. &#x27;l“i&#x27;n:Gadl invite to glary
 _and fortune---it remains (¢ be {een whether  
 ~we defervelthe boon, © The bearer of this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807021001:0443/pct:59.04255319148936,56.24124824964993,17.083854818523154,36.55731146229246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807021001:0443/pct:59.05298289528577,56.24791624991665,17.078639966624948,36.55731146229246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3240,7 +3240,7 @@ which this may give you. :
 With entire refpeél,  
 Your fricod and obedient “&gt;rvant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807021001:0443/pct:76.93992490613266,67.22344468893779,16.614518147684606,8.621724344868975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807021001:0443/pct:76.93992490613266,67.22677868907115,16.63537755527743,8.631726345269055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3271,7 +3271,7 @@ been &quot;tilt and were ready—said that
 them, and that there would be some :  
 »ci ting 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807021101:0003/pct:3.6301516122143926,62.14666120442442,18.236173393124066,10.74696162774819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807021101:0003/pct:3.6301516122143926,62.151213072966456,18.257527226137093,10.751513496290228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3312,7 +3312,7 @@ on to th&#x27;s, Wilson and Meade swear that j
 when they left Ncw-Orleans, the one the  
 15th, the other the 19th Dec. the strongest 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807021701:0057/pct:59.48583223869394,80.32930023699639,17.69562769750422,4.191093925408507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807021701:0057/pct:59.47467166979362,80.31928161636318,17.698561601000627,4.194728527479837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3341,7 +3341,7 @@ people were ready to join them, and that
 there would be some seizing.  
 Here then is evidence of a connection wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807021701:0057/pct:77.4254081441171,11.026568541848572,19.47832613998874,8.606710739678183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807021701:0057/pct:77.4108818011257,11.025193315041157,19.480925578486556,8.609794628751974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3386,7 +3386,7 @@ that any territory of the U. S. was the
 1 object of the expedition.  
 For what purpose seize on Battoe 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807022501:0002/pct:40.820688181235305,40.66972724817715,18.93567001496046,13.205509046718877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807022501:0002/pct:40.82781221058631,40.67872895850211,18.949918073662463,13.205509046718877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3405,7 +3405,7 @@ and will not subject them to a foreign
 power, in three weeks all will be set-,  
 ; tied.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807022501:0002/pct:40.820688181235305,68.16095058061032,18.93567001496046,3.3351336753983256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807022501:0002/pct:40.82781221058631,68.16995229093527,18.949918073662463,3.3396345305608066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3437,7 +3437,7 @@ I also stated. The mere enlittUig of men
 without assembling them i. not levying j  
 ! war. The. question then is whethe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807022501:0002/pct:59.67086984398376,28.598433702403458,19.08527463133148,11.342155009451796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807022501:0002/pct:59.67086984398376,28.598433702403458,19.09239866068248,11.355657574939238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3495,7 +3495,7 @@ gion and will not subject them to a foreign
 power, in three weeks all will be settled ”  
 There is no expression in the-&gt;e senten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807030301:0073/pct:41.62417374881964,77.45532885565835,17.393767705382437,9.377772145482195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807030301:0073/pct:41.616314199395774,77.4455144450076,17.396777442094663,9.38080756884609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3528,7 +3528,7 @@ would be revolutionized where the people
 would be some seizing, he supposed, at N  
 Orleans.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807030301:0073/pct:59.58451369216242,27.094157901406668,17.658168083097262,10.18882270941579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807030301:0073/pct:59.573262839879156,27.09072478459199,17.66112789526687,10.19175536408177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3549,7 +3549,7 @@ from the state of New York and the wes­
 tern states and territories, with a view tc  
 carry an expedition to the Mexican terri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807030301:0073/pct:59.92445703493862,53.681409200354835,17.318224740321057,4.131288810036751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807030301:0073/pct:59.9131419939577,53.674607197161684,17.321248741188317,4.134989018415273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3575,7 +3575,7 @@ hjr that if we will proteA their religion and will not
 fubj.A them to a foreign power, in three weeks all  
 will be fettled.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807030601:0380/pct:24.839361116210757,57.98215171046108,17.44079309711768,6.296479920674269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807030601:0380/pct:24.834801762114537,57.97496591894907,17.443710230053842,6.2998306275044405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3604,7 +3604,7 @@ he people were ready to join them, and that there
 would be fume lcizixig, he fuppofed, at New-Or­  
 can*..
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807030601:0380/pct:24.36203414723701,2.7640059494298463,35.964751239214245,93.00941993058998/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807030601:0380/pct:24.357562408223203,2.76366340314785,35.9642682329907,93.00202420787376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3631,7 +3631,7 @@ on the point to which the parties have advanced, h»a
 been alfo dated. 1 he mere enliding of men with­  
 out affeinbling them is rot levying war. The quefli
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807030601:0380/pct:42.88599228933358,18.80267724343084,17.27556453093446,7.040158651462568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807030601:0380/pct:42.87812041116006,18.800347007064072,17.27851199216838,7.043417193373817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3687,7 +3687,7 @@ fif
   
 ] t 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807031101:0544/pct:53.0562347188264,3.135608361622298,32.40327916007479,92.42451313203502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807031101:0544/pct:53.04860511935577,3.135328271549799,32.40341290384431,92.4192347774304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3708,7 +3708,7 @@ from the state of New York and the west­
 crn states and tersitories, with a view {0  
 carrv an expcditiou to the Mcxicau cem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807031101:0544/pct:75.95282611822235,88.27050205467215,20.854307493168417,5.806682151152403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216055:1807031101:0544/pct:75.94190394017832,88.26261723983922,20.856102003642988,5.809140985559029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3794,7 +3794,7 @@ j arid guarantees the result With his
 j and honor, the lives, honor, and f-.u t■■  
 of hundreds, the best blood of our
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807031601:0001/pct:77.67155300616103,46.90659118479579,18.079456129169323,4.987195039762772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807031601:0001/pct:77.68571630904327,46.91108415330009,18.06529282628709,4.991688008267062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3860,7 +3860,7 @@ they expected naval protection from Great Britain
 vy were so disgusted with the government that they  
 were ready to join.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807033001:0441/pct:4.878658994245685,31.923139027934766,21.491118338754067,18.294849023090585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807033001:0441/pct:4.87743871935968,31.917985146916372,21.491995997999,18.295931546658057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3904,7 +3904,7 @@ the officers of our navy were f» riifgnfted
 with the government that they were ready to  
 join.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807040301:0410/pct:58.960278235401795,28.377879049143985,17.719201903715906,16.13499199408794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807040301:0410/pct:58.949487554904834,28.374384236453203,17.72205954123963,16.137110016420362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3923,7 +3923,7 @@ New-York and the wcltern (fates and territo­
 ries, with a view to carry an expedition againft  
 the Mexican provinces.” The term “levy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807040301:0411/pct:42.20707442888725,51.50800546108974,17.55711127487104,2.9415415166935586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807040301:0411/pct:42.199300055258796,51.50161330354927,17.560017191625224,2.9453131463555886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3950,7 +3950,7 @@ onot Mr. Swartwout, that “Col. Burr w
 “ry on an expedition against the Mexici  
 “provinces.” The term “ levying” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807040301:0112/pct:5.431309904153355,78.1732961743096,16.369103551963917,7.638712946541677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807040301:0112/pct:5.430289364900413,78.16339455351488,16.372291118627082,7.641967489972556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3968,7 +3968,7 @@ wont, that Col. Barr was laying an armed body
 “ western states and territories, with a view to  
 “ carry °n an expedition against the Mexican pru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807040801:0456/pct:75.04281869341816,11.132194813409235,20.675311964766333,2.7514231499051234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807040801:0456/pct:75.02446183953033,11.130434782608695,20.676369863013697,2.7549407114624507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4064,7 +4064,7 @@ tain; that Qomm-ilorc i&#x27;ruxton and the
 nfliccis i&gt;f the navv were soui igus’ed with  
 the government that they \v&gt; re ready t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807093001:0324/pct:4.845145354360631,41.98521117934578,17.518525555766672,16.581025191126706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807093001:0324/pct:4.844224924012158,41.97994987468672,17.521529888551164,16.58312447786132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4087,7 +4087,7 @@ by gen. Wilkinson, in the following words. “ He
 “ lor your character and may be embarrassed in  
 “ your piesenre/..put him at ease and he will satis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807100201:0755/pct:28.90983188996434,52.53605574461189,21.85430463576159,6.076810889645114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807100201:0755/pct:28.902470078940667,52.52754374594945,21.85510567863509,6.079876863253403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4104,7 +4104,7 @@ he said, that was the man. He said that he had
 &#x27;Been dispatched by col. Burr from Philadelphia, and  
 had traversed the states of Ohio and Kentucky. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807100201:0755/pct:28.57870606214977,71.60913952357802,22.109016811003567,2.1390374331550803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807100201:0755/pct:28.571428571428573,71.59753726506806,22.109752992105932,2.1427414128321454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4159,7 +4159,7 @@ October, for New-Orleans, as 1 understood—It
 nsay be proper in this stage of my testimony, to say  
 that the envelope which contained the cyphered b i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807100201:0755/pct:51.52827305145186,13.255550153945876,22.440142638818134,27.83989628909415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807100201:0755/pct:51.515151515151516,13.253402462734932,22.44079449961803,27.83943616331821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4189,7 +4189,7 @@ you.
 With entire respect,  
 Your triend and obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807100301:0328/pct:22.146636432350718,41.12207922029239,17.479213907785336,9.184055979007873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807100301:0328/pct:22.142452295484603,41.11694152923538,17.482209207128914,9.187073130101616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4213,7 +4213,7 @@ jis thorou .i mcd of the plans
 close to you as far as you enquire,  
 j and no farther. He has mc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807100501:0002/pct:21.45757640521479,75.85305448541553,18.422739901688395,7.305998899284535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807100501:0002/pct:21.471824463916793,75.85764079985324,18.415615872337394,7.301412584846817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4273,7 +4273,7 @@ from colonel Burr to me, and that j
 i they must have arrived. Mr. Swart- j  
 v/out informed me that he was obliged 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807100501:0002/pct:40.286385979910236,54.74683544303797,19.042530455225474,33.503026967528896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807100501:0002/pct:40.286385979910236,54.75600807191341,19.049654484576475,33.49844065309117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4304,7 +4304,7 @@ you,
 With entire respect,  
 Your friend and humble servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807100501:0758/pct:29.609079445145017,15.407664406245072,42.6733921815889,80.77590285443937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807100501:0758/pct:29.601613716591025,15.405234941658783,42.66893595562279,80.76710816777042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4328,7 +4328,7 @@ lowing words. “ He i&lt; a man of inviolable ho­
 ! “ your character and may hr etnbarafTed’in yotir i  
 “ prefence—put him at eafe and he will fat’sf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807100701:0182/pct:41.65298303229338,8.129487647559937,18.025907681080096,5.47645125958379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807100701:0182/pct:41.64538489602335,8.128498418106595,18.028699987838987,5.479840999432141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4349,7 +4349,7 @@ would be uecellary at New O.leans ; that they
 j ift of February ; that they propofed landing at  
 La Fern Crux, and marching from thence t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807100701:0182/pct:41.65298303229338,57.53924790069368,17.78872468527641,3.9552147985882926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807100701:0182/pct:41.64538489602335,57.5322462886347,17.79156025781345,3.9587896487385414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4401,7 +4401,7 @@ this may give yu.
 With&#x27; entire respect,  
 Your friend and obedient servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807100901:0001/pct:22.203135065492805,67.1806768558952,18.337985827786127,7.191593886462882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807100901:0001/pct:22.21745043303987,67.1806768558952,18.330828144012596,7.200691411935954/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4764,7 +4764,7 @@ pher from col. Bu; r, of which the fol­
 lowing- is substantially as fair an in­  
 tciprctation as 1 have heretofore bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808020101:0001/pct:58.06581059390048,52.503521577666795,17.51605136436597,32.01434242540658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808020101:0001/pct:58.0724986623863,52.5120587356469,17.50936329588015,32.02287958338669/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4819,7 +4819,7 @@ my possession.&quot;
 Mr. Randolph said he should certainly have ab­  
 , stained from noticing tbe circumstance be was a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808020801:0972/pct:47.87926099401509,34.755999355773874,22.61254228467343,27.411821549363825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808020801:0972/pct:47.86680541103018,34.750402576489535,22.61316337148803,27.411433172302736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4882,7 +4882,7 @@ in my possession.’*
 Mr. KamWph sa’dhc should certainly have  
 abstained troin noticing the circumstance h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808020901:0366/pct:59.98914223669924,35.20510255127564,17.191458559536734,27.001000500250125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808020901:0366/pct:59.97828840238827,35.200700262598474,17.1943791086183,27.001792338793713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4971,7 +4971,7 @@ for your character, and may be embarras­
 sed in your presence; put him at cas^ and  
 he will satisfy you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808022601:0072/pct:77.6028826095202,49.23345382026673,18.05423857386687,42.71469525115293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808022601:0072/pct:77.5881683731513,49.22731804586241,18.057135633927444,42.713526088401466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4999,7 +4999,7 @@ last moment, and then under proper
 Whether Mr. Burr did actually  
 leave Philadelphia on the Kst of Au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808072001:0002/pct:59.22953451043339,81.31767775603392,17.937399678972714,9.58904109589041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808072001:0002/pct:59.24291064740503,81.31767775603392,17.950775815944354,9.59773863883453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5098,7 +5098,7 @@ L­
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809100701:0384/pct:28.73941674506115,6.715539867861345,24.223894637817498,52.493438320209975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216109:1809100701:0384/pct:28.73491142812353,6.714932126696833,24.22532267335528,52.49170437405731/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5380,7 +5380,7 @@ i&#x27;.‘lices which his situation may require, and beg you to pardon
 &#x27;Or tumble which this may give you. •  
 ‘&#x27;With entire rrqiect. your friend an t iltedieiit servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829062301:0696/pct:5.818587597640683,18.28149207484209,17.87023752590467,4.0757954951734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829062301:0696/pct:5.8176601848900225,18.279313632030505,17.87270215705026,4.079281855735621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5453,7 +5453,7 @@ ander had left i’hilndelphia hefore him, with dispatches for me, ]
 And that they were to proceed by sea to New Orleans, w here he’ ;  
 said they must have arrived.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829062301:0696/pct:5.643232902917265,27.36265045882493,18.061533556512035,26.063639613872006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829062301:0696/pct:5.642333439591967,27.35938989513823,18.06396769737541,26.064505878614554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5477,7 +5477,7 @@ oVes which In* situation may require, and beg you to par.loii
 the trouble which this may give you.  
 (,ll ills entire respect, vour frien*l an i uliedicttt servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829062301:0168/pct:5.900079302141158,18.766690944403983,17.636796193497226,4.4671036659383345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829062301:0168/pct:5.899143672692674,18.76441315693652,17.639285336716355,4.470607274345592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5497,7 +5497,7 @@ you, he. will hand n formal letter of introduction to you from
 Burr, lie is a man of inviolable honor and pcilivt discretion,  
 lormcd to execute rather than project; capable of relating fact
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829062301:0168/pct:6.0111022997620935,26.062151007526097,17.52577319587629,2.7312454479242536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829062301:0168/pct:6.0101490643831275,26.05898774123073,17.5282799450259,2.734959744305539/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5557,7 +5557,7 @@ and that tbny were to proceed by sea to New Orleans, where iie
 said thev must have arrived.”  
 From ths foregoing extracts, the reader will be at no loss t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829062301:0168/pct:5.852498017446471,34.51080359310512,17.684377478191912,20.757465404224327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829062301:0168/pct:5.851569933396765,34.506614880446655,17.686859076012265,20.75899178702917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5594,7 +5594,7 @@ your character, and may he embarrassed in &#x27;
 your presence ; put him at ease, and he will !  
 satisfy you. 29th July.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829070101:0836/pct:85.25501091486406,30.23123037396517,19.150625124032548,16.171852697687697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1829070101:0836/pct:66.07197785296832,23.42920353982301,14.851840459345842,12.544247787610619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5621,7 +5621,7 @@ j may give you.
 ‘ With entire respect, your frtend aud obedt  
 * ant servant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829070201:0115/pct:45.13601741022851,26.792189679218968,18.041349292709466,7.04323570432357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829070201:0115/pct:45.126196692776325,26.78845349323665,18.042863359442993,7.0457397852461305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5718,7 +5718,7 @@ were to proceed by sea to New Orleans, where
 he said they must have arrived.”  
 From the foregsing extracts, the reader wil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829070201:0115/pct:44.78781284004353,38.382147838214784,18.781284004352557,45.14644351464435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1829070201:0115/pct:44.778067885117494,38.376795426021474,18.782637075718014,45.143634081718034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5761,7 +5761,7 @@ maica, to arrange with the Admiral on that sta­
 tion, and would meet in the Mississippi, and that  
 the navy of the United States were ready to join
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836100701:0407/pct:10.073404856013552,86.56412576340195,17.763975155279503,4.81791449898213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836100701:0407/pct:10.07226738934056,86.55759951749096,17.765733212887685,4.820064334539606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5816,7 +5816,7 @@ situation may require, and beg you to pardon the trouble
 which this may give you.  
 With entire .respect, vour friend and obedient serv?nt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839011901:0761/pct:2.6178010471204187,60.199367858011186,15.369025502448912,5.482616095307561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839011901:0761/pct:2.6178010471204187,60.20342005024718,15.380284861791363,5.490720479779561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5850,7 +5850,7 @@ promotion of lib officers. Burr will
 proceed westward in August, never to  
 return.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082161:00514159324:1845010401:0369/pct:104.73217881594844,88.56398378691372,20.036246476037054,17.544875506658947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082161:00514159324:1845010401:0369/pct:81.17879623367841,68.63617665756703,15.533475524111742,13.608316816872966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5976,7 +5976,7 @@ ber with a corps of worthies.” He assure
 tionized, and that “there would be some  
 seizing, he supposed, at New Orleans:” tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865060801:0003/pct:31.08234852748077,15.751422858021844,8.985181016694805,0.7383479464697739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865060801:0003/pct:31.08234852748077,15.751422858021844,8.999249671731382,0.7460390709121674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5998,7 +5998,7 @@ to determine whether it will be expedient in
 the first Instance to seize or pass by Baton  
 Kongo. The gods invito to glory aud for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865060801:0003/pct:30.763459013318325,34.65620673742501,9.060213843556555,2.753422550376865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_halsted_ver02:data:sn82014064:no_reel:1865060801:0003/pct:30.772838116676045,34.663897861867405,9.060213843556555,2.7611136748192586/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6028,7 +6028,7 @@ military, and dropped silently down the
 Ohio in the night, joining the flotilla of  
 Burr at the mouth cf the Cumberland.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668922:1865061701:0155/pct:33.480898507952126,66.9115154254718,14.510575504181013,6.893434286360041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668922:1865061701:0155/pct:33.48636388478985,66.91528232945342,14.510575504181013,6.893434286360041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6120,7 +6120,7 @@ character and may be embarrased in
 your presence; put him at ease, and he  
 WIHI Satisly you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101027:1875012201:1016/pct:202.62133934056934,37.02874849371665,45.340978906409994,142.17593389567912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_angel_ver01:data:sn85034336:00211101027:1875012201:1016/pct:67.54044644685644,12.342916164572216,15.113659635469999,47.391977965226374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6289,7 +6289,7 @@ rank and prolotiot of his ofBlers-BHurr
 will prtesK l Westwardl Ausiast 1.  
 never to return. * * * Al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn84036012:00294550549:1889121201:0695/pct:93.08805143775675,58.4454646192813,55.938560457224504,22.0357764761754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_bobcat_ver02:data:sn84036012:00294550549:1889121201:0695/pct:23.272012859439187,14.611366154820326,13.984640114306126,5.50894411904385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

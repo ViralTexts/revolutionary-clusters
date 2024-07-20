@@ -189,7 +189,7 @@ producing proof of his citizenship authenticated&#x27;
 in a mander which the aet has omitted to define,  
 „he shall enter the name of the applicant; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816032101:0866/pct:2.682186234817814,8.672651490862457,22.16599190283401,5.931388265469701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1816032101:0866/pct:2.6815077156589933,8.671261420099375,22.16670882873767,5.934444622535663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

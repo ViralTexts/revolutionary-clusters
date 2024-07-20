@@ -89,7 +89,7 @@ tate, the general government m.iy by bounties
 or protecting duties, tax the one to promote  
 the other ; then the conftitalion has not fuffi.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806052301:0019/pct:41.39381745015548,66.60057008303383,17.98061093835742,3.4081050935679764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806052301:0019/pct:41.386247256766644,66.59231722428748,17.98341867837113,3.4118133002891367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ lures,as their local intere-ts may dictate, the ge..e
 ral goveiument may by bounty.s or protecting dtt  
 ties, tux the one lo promote the other; then th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828121101:0276/pct:51.618705035971225,37.687107677450506,15.206017004578156,2.4384355383872527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828121101:0276/pct:51.61026647049207,37.68255884127942,15.208980437033404,2.4421645544156108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ tures, as their local interests may dictate, the
 general government may by bounties or protecting  
 duties, tax the one to promote the other; then th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828122701:0301/pct:18.05600781504396,33.249400479616305,15.271898404428525,2.4100719424460433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1828122701:0301/pct:18.053068533289924,33.2454142189186,15.274838569645667,2.413779323022819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ agriculture or manufactures, as their local interest
 may dictate, the general government may, by bounties  
 or protecting duties, tax the one to promote the other
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846071001:0707/pct:0.591715976331361,51.674581354661335,14.584999200383816,2.986753311672082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846071001:0707/pct:0.5970467508929047,51.674581354661335,14.590329974945359,2.9992501874531365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

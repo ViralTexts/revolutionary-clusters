@@ -715,7 +715,7 @@ I have the honor tc be, with due refpel, your
 Excellency’s most obedieat and very humble  
 tervant, B. ARNOLD.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0439/pct:6.491499227202473,2.8592375366568916,29.454625745197614,57.74193548387097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780120401:0439/pct:6.498859203650548,2.8641251221896384,29.46198572164569,57.75171065493646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1365,7 +1365,7 @@ that you suffer ant an unjust sentence to touch the life of
 Majer Andre. But if this warning should be disregarded,  
 and he suffer, I eall heaven and earth to witness that you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070601:0058/pct:201.31557035803496,282.9850405389974,46.26144879267277,5.492748658216284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070601:0058/pct:67.105190119345,94.32834684633245,15.420482930890925,1.830916219405428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1448,7 +1448,7 @@ spared by his Excellency Sir Jafties Clinton,who
 cmmnt In justice extend his mercy to them any  
 longer if Mai. Andre suffers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879070901:0002/pct:44.08912188728703,21.815636872625475,12.89646133682831,2.599480103979204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879070901:0002/pct:44.08912188728703,21.820635872825434,12.90956749672346,2.6194761047790442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1494,7 +1494,7 @@ cy, Sir James Clinton, who cannot in jus-
 lice extend nis mercy to them any longer  
 if Maj. Andre suffers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028271:00296027340:1879072401:0130/pct:81.57894736842105,33.78016085790885,14.091187270501836,12.255840674071237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028271:00296027340:1879072401:0130/pct:61.202938475665746,25.341503893782715,10.575451484542393,9.191880505553428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1521,7 +1521,7 @@ cannot in justice extend his mercy to
 them any longer if Alaj. Andre suf-  
 fers.&#x27; Inter (ce:ni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023772:1884051501:0957/pct:79.9207217058502,80.11347517730496,21.02241662110443,10.278959810874705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023772:1884051501:0957/pct:53.29505058791359,53.40898345153664,14.027891714520099,6.855791962174941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1547,7 +1547,7 @@ cannot in justice extend his mercy to
 them anv longer if Maj. Andre suf­  
 fers.”—inter Ocean.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1884091101:0358/pct:25.740256163062938,91.1010391333186,9.475278887205619,4.908246738890117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1884091101:0358/pct:25.744846898957903,91.1010391333186,9.479869623100583,4.908246738890117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

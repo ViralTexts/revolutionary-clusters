@@ -133,7 +133,7 @@ mind,&quot; he said, &quot;must be really depraved which would not
 prefer the equality of political rights, the foundation of pure  
 Republicanism, if it were to be obtained eventually with or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843122901:1186/pct:51.937309534175014,60.86001618310022,39.67493832535191,5.00520171078488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843122901:1186/pct:17.309924550203135,20.284327323162273,13.22306055329851,1.6682077361689012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ equality of political rights, the foundation of pure ί
 Republicanism, if it were to be obtained eventu­  
 ally with order/&#x27; Accordingly each year tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1844010201:0544/pct:36.30130179866839,76.91494283259533,15.104839511080195,2.511400436190602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215737:1844010201:0544/pct:36.297694753577105,76.90985989955063,15.106650768415474,2.51343730725174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ ciety by giving stability and protection to it
 rights, and that it will probably be found expe  
 dient to go into the British for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881070301:0021/pct:123.50826743350108,328.1672117161951,50.25161754133717,11.019479596189393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044772:1881070301:0021/pct:30.893724150332673,82.04180292904877,12.569681711922316,2.7548698990473484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ into the British form
 This was the system of Hamilton  
 which we are informed is to supersede th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048479:1891062101:0167/pct:65.02186133666459,7.237512742099898,19.159900062460963,5.776418620455318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048479:1891062101:0167/pct:43.35467749492425,4.825008494733265,12.775261596126816,3.8509457469702117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ it will probably be found expedient to go
 Into tae British form  
 This was the system of Hamilto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn86091037:206535696:1891072501:0199/pct:75.625,52.65689674460231,16.13095238095238,6.085691911846963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_kirilenko_ver01:data:sn86091037:206535696:1891072501:0199/pct:50.43918415959506,35.10459782973487,10.76373380973649,4.06085691911847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

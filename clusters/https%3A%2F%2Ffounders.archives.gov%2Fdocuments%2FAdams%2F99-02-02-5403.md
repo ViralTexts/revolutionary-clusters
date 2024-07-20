@@ -259,7 +259,7 @@ ties are highly important at all times ;
 and some of them are peculiarly so in  
 the present times, when a revolutioni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800120201:0403/pct:6.9602710194025255,38.559859498487654,16.399753618724976,8.098351058639867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800120201:0403/pct:6.9602710194025255,38.56636419813315,16.41515244841392,8.098351058639867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ rival to the University, it would-be ati honour -
 and adv ¢ toit. That the president and ~ .  
 “ ’lincipdm:fseuou would no donbt be .nlwfa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809102501:0112/pct:27.549394518801783,9.49448803257523,68.97705544933078,89.88976065150462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809102501:0112/pct:27.549394518801783,9.49448803257523,68.98236668791162,89.89969212434204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -691,7 +691,7 @@ these depend on spreadit cpportupiies
 and advantages of education, in ‘h‘m v  
 ‘parts of the country, aud among the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809102501:0112/pct:72.88081580624602,87.02949647432715,23.741236456341618,11.808521203694507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809102501:0112/pct:72.8914382834077,87.03611745621876,23.741236456341618,11.808521203694507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -749,7 +749,7 @@ P
 A L  
 ‘ gt B oA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809102501:0113/pct:3.2759761747187293,2.012616401321718,23.759099933818664,28.51707219385201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809102501:0113/pct:3.2814912861239796,2.019291745936384,23.764615045223913,28.510396849237342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -841,7 +841,7 @@ r i industry and frugality, hone-i y and {timeIn
   
 and all social generous affections among th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823061701:0051/pct:32.32421875,13.520925241445093,30.729166666666668,81.29247645165137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1823061701:0051/pct:32.31895850284784,13.51931330472103,30.729590452942773,81.28675886186616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -913,7 +913,7 @@ cation in the various parts of the country and
 among the different orders of the people” ; if  
 the good citizens of this Commonwealth ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824111701:0249/pct:46.72878266153535,14.118806306306306,18.857605833502127,6.74268018018018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021202:00517171980:1824111701:0249/pct:36.21474543456648,10.942216080584748,14.635550206687249,5.225644568893414/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -954,7 +954,7 @@ people.” In the statute now in force, provid­
 ing tor the instruction of youth, and for the  
 promotion of good education, it is declared
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826020801:0127/pct:24.98991528842275,59.34191702432046,19.28196853569988,18.540772532188843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826020801:0127/pct:19.37265527303043,45.99009535072807,14.943726552730304,14.36913297361224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1156,7 +1156,7 @@ cerity and good humor, and all social aflec-|
 lions and generous sentiments among the s  
 people.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624232:1846031901:0146/pct:56.900878293601004,27.208918249380677,17.1267252195734,13.810900082576383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624232:1846031901:0146/pct:56.90610623170222,27.212358932012112,17.14240903387704,13.817781447839252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1214,7 +1214,7 @@ honesty ami punctuality in all their dealings,
 sincerity, good humor, and all social affection and  
 generous sentiments among the people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021203:00517172030:1849011201:0031/pct:7.226654152979822,54.56557014308895,25.551384326607227,11.978167871367459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021203:00517172030:1849011201:0031/pct:5.612801551703237,42.292595556571776,19.7902776094072,9.286993635913266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1734,7 +1734,7 @@ unanimously, without amendment.” We
 may imagine tbejgrim satisfaction with which  
 that do!ie quietly absorbed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952536A:1874032601:0439/pct:72.90280707447671,9.173661189265871,22.47282167775434,87.59900697481972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952536A:1874032601:0439/pct:72.89097988319273,9.1725768321513,22.473231667748216,87.59160756501183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1886,7 +1886,7 @@ dealings; sincerity and good humor,
 and all social affections and gener  
 ous sentiments among the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1876122901:0423/pct:160.49136786188578,125.7085020242915,43.22709163346614,63.25910931174089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn85034039:00294559929:1876122901:0423/pct:40.13616738625041,31.427125506072876,10.81036200597808,15.814777327935223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2395,7 +2395,7 @@ periods of this commonwealth, to cher­
 ish tin&#x27; interests of literature and the  
 M&#x27;lcnivs and all seminaries of them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_beaver_ver01:data:sn92070477:00280773505:1894091201:0062/pct:19.21965317919075,94.7278496460825,31.502890173410403,15.523553819868196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_beaver_ver01:data:sn92070477:00280773505:1894091201:0062/pct:14.419949403686303,71.05198926043447,23.635706541380557,11.642665364901147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

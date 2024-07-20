@@ -188,7 +188,7 @@ more solid satisfaction.
 happy sight of your friends. Believe me  
 ever, with sincere and great esteem, yours
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775666:1860120101:0110/pct:67.73519163763066,238.9389920424403,44.73867595818815,103.44827586206897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775666:1860120101:0110/pct:16.933797909407666,59.734748010610076,11.184668989547038,25.862068965517242/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

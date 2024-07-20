@@ -65,7 +65,7 @@ ing the jurisdiction of thedistrict courts in the dis­
 tricts of Kentucky, Tennessee and Ohiol  
 16’. An act to punish frauds committed on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807031101:0409/pct:4.542051410032443,56.31416001303568,21.237833790865984,2.7374938895225682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807031101:0409/pct:4.5409181636726546,56.3049853372434,21.23877245508982,2.7411208862821765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,7 +86,7 @@ iO. An act to punish frauds commit­
 ted on the bank ol the United States.  
 IT. An act authorizing the Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807032601:0029/pct:10.019214932747735,46.474654377880185,26.681306615426845,9.516129032258064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807032601:0029/pct:10.016465422612514,46.46394839898641,26.68313208927918,9.521615603163633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ act establishing circuit courts and
 abridging the jurisdiction of the dis­  
 trict courts of Kentucky, Tennesse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808031101:0002/pct:77.15560965713127,42.56634887915486,16.31162507608034,3.2208193764493687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808031101:0002/pct:77.15560965713127,42.56634887915486,16.33191316697099,3.2251138022846346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ An act concerning the sale of the lands of
 the United States, and for other purposes.  
 An act authorising a detachment from th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808050601:0473/pct:41.13742375313958,42.9275505174963,17.222820236813778,5.101034992607196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808050601:0473/pct:41.130044843049326,42.92226191942836,17.225710014947683,5.104513161677138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ tinuance of the m|nt at Philadelphia.
 41. An act concerning the safe of the  
 lands of the United States, and fot othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808051301:0961/pct:67.82071926999463,39.410649663966915,19.618894256575416,6.858521454420128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808051301:0961/pct:67.80252213576603,39.403859407305305,19.620338073517573,6.861647139903515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ day of October annually, shall be and is hereby
 repealed 5 ami from and after the passing of  
 this act, the said Circuit Courts shall be held a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812032601:0103/pct:39.94447336456707,31.97969543147208,16.154780496269304,5.560146381773108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812032601:0103/pct:39.93754337265788,31.975920679886684,16.157760814249365,5.563424614416116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ day of Marsh, eighteen hundred am! eight, as pro­
 vides that the sessions of the said Circuit Courts shai: (  
 lie held at Knoxville, in East Tennessee, on the thir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812040701:0410/pct:41.26605504587156,72.60709914320685,17.834862385321102,3.83108935128519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812040701:0410/pct:41.25848468170978,72.59821319299964,17.83770561976396,3.8346999551258514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -264,7 +264,7 @@ sing of this act, the said Circuit Courts shal}
 be held at Knoxville, in the District of East-  
 T&#x27;ennéssee, on the second Monday in Octo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812050601:0612/pct:74.31596091205212,85.26065881887428,21.758957654723126,9.051340389751706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812050601:0612/pct:74.32681867535288,85.26065881887428,21.75352877307275,9.051340389751706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ CAKBRELEitG in the Chair,) the bill establishing
 l/irctm Courts, and abridging the jurisdiction of the  
 District Courts in the Districts of Indiana,- Illinois
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830040801:0249/pct:23.81243628950051,12.381759141606663,16.289500509683997,2.0048002258929833/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830040801:0249/pct:23.80758255197717,12.380011293054771,16.291275988585404,2.0080463015245624/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

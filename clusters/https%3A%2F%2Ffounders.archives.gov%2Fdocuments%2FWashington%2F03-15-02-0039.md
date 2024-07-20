@@ -173,7 +173,7 @@ Adjutant-General for an order on the Commissary of
 I Military Stores, for tl e number of blank cartridges  
 | that may be wanted. Eacli officer and soldier is t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661344:1844113001:0529/pct:66.91255847427132,14.482056502926953,17.794170564951422,34.93255281242046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661344:1844113001:0529/pct:66.91855583543241,14.490540425892933,17.80016792611251,34.93255281242046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ i a| Brigades will apply to the Adjutant-General
 ■ for an ordder on the Commissary ot Military  
 ! Store&quot;,tor the number of blank cartridge&quot; t!iat ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844113001:0321/pct:31.630628843483436,48.61433447098976,15.225153739337433,34.85324232081911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1844113001:0321/pct:31.627491817911334,48.61101631287967,15.22694965122814,34.85313857984666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ huzza, the American Stale*
 Nor was this all. lie signalized the rejoicing  
 oy a banquet; and when retiring from that, aays 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851123101:1243/pct:19.67383246849518,87.81512605042016,14.336545589325427,6.804388422035481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661484:1851123101:1243/pct:19.678774400790708,87.822906940554,14.336545589325427,6.804388422035481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ be given followed by a run­
 States &#x27;™  
 r As deseribed by an officer of the arm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1881110501:0437/pct:4.545454545454546,4.2674842558833275,19.27863319974689,91.36559496188266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1881110501:0437/pct:4.548969978204317,4.2674842558833275,19.285664065246433,91.37388133907855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -759,7 +759,7 @@ given, followed by a general running
 fire and huzza, The American States!&quot;&quot;  
 As described by an officer of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881112301:1032/pct:137.9202501954652,129.53695714696576,79.28068803752932,74.20189818809318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477874:1881112301:1032/pct:34.50029336984158,32.38423928674144,19.831801290827304,18.550474547023295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -805,7 +805,7 @@ fhis ning fire and huzza, &#x27;The Amerii
 and States!&quot;&#x27;  
 the | As described by an-officer of the a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194047:1881112301:0230/pct:21.925667248690445,80.33113730929264,11.536542778747817,13.16747572815534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194047:1881112301:0230/pct:21.925667248690445,80.33113730929264,11.553172029600066,13.176144244105409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1017,7 +1017,7 @@ running fire and huzza:
 This program was executed with precislen  
   ae  t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887112401:1250/pct:286.15023474178406,229.43829438294384,51.56494522691706,93.6449364493645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020746:1887112401:1250/pct:71.53755868544602,57.35957359573596,12.891236306729265,23.411234112341123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1490,7 +1490,7 @@ general running fire, and huzza :
 This programme was executed with pre­  
 cision, and the effect was brilliaut and pic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889112801:0195/pct:50.37138389366693,9.603487064116985,11.395621579358874,26.940382452193475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1889112801:0195/pct:50.36153996482314,9.602136932377338,11.39828024232949,26.940109658371995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1576,7 +1576,7 @@ This programme was
 executed with  
 precision, and the effect was brillian
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_lawrencium_ver01:data:sn88076679:00199918527:1889120701:0665/pct:58.94751343160215,5.383899968998657,24.31464389034302,89.72822155626744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_lawrencium_ver01:data:sn88076679:00199918527:1889120701:0665/pct:58.94751343160215,5.3873445627088286,24.319235891077742,89.72822155626744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1650,7 +1650,7 @@ generai running Hre, and huzza:
 This programme was executed with  
 precision, and the effect was briiiiant an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_harveycedars_ver02:data:sn87068108:00513685713:1891112101:0329/pct:6.668178725334543,56.602914389799636,14.538444091630755,28.976927747419552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_harveycedars_ver02:data:sn87068108:00513685713:1891112101:0329/pct:6.666666666666667,56.59432387312187,14.540816326530612,28.976324176658068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

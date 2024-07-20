@@ -47,7 +47,7 @@ skine to the Secretary of Stale, and
 his answer.  
 JAMES, MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809061601:0005/pct:7.081436519979768,8.895405669599217,21.497218007081436,17.341153470185727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809061601:0005/pct:7.089866801551172,8.895405669599217,21.50564828865284,17.367220593027046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -76,7 +76,7 @@ communication just made by Mr. Er- j
 shine to the Secretary of Stale, and •  
 bis answer. JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809061901:0003/pct:5.657679738562091,11.562212587045066,17.769607843137255,10.27460254894232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809061901:0003/pct:5.657679738562091,11.566592213025007,17.790032679738562,10.283361800902203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -104,7 +104,7 @@ nication just made bv Mr.- Krskiue to the
 Secretary of State, had Ins answer.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809062001:0053/pct:23.80867709815078,4.21395798116397,34.08605974395448,90.32842308621106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809062001:0053/pct:23.804444444444446,4.213449233369552,34.08592592592593,90.3215421143708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -131,7 +131,7 @@ munication jus: made by Mr. Erskine to
 the Secretary of State, .and his answer  
 JAMES MADISO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809062001:0188/pct:59.412425149700596,13.626916082099246,17.57110778443114,7.651338009872695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809062001:0188/pct:59.40130963517306,13.625146122873101,17.574056750857498,7.6546737671559075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ To these documents are added a communication
 just made b&gt; Mr. Erskuie to the Secretary of State,  
 and his answer. JAMES MADIsON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809062101:0541/pct:31.28408527516113,28.405797101449274,20.84779375309866,6.553945249597423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809062101:0541/pct:31.27633209417596,28.40122363548543,20.848822800495665,6.556915150539366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ communication jult made by Mr. Eifkine;
 to the Stcretary of State, and his anfwer.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809062601:0629/pct:5.825027685492802,17.26880560798059,17.27574750830565,8.182798598004853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1809062601:0629/pct:5.823737821080602,17.266477961989487,17.277457927369355,8.185065372691737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

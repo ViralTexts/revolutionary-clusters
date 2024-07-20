@@ -290,7 +290,7 @@ any street or avenue, the owners snail be paid the
 reasonable value thereol by the Government. The  
 lots held in the towns of Carrollsburgh and Hamburgh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847121101:0372/pct:16.381739620514747,25.61439438267993,15.329701296261506,13.428905792861322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847121101:0372/pct:16.394263886279667,25.619270528574216,15.317177030496588,13.438658084649893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ Middlebury College, the sums set a­
 gainst our respective names, for the pur­  
 poses, and on the conditions specified i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852120101:0617/pct:242.95506473724296,203.53139874097957,89.26123381568927,33.41010287118072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852120101:0617/pct:60.73876618431074,50.88284968524489,22.315308453922317,8.35252571779518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ Holmead, his; executors, administrators ant
 assisrns shall be paid the reasonable valut  
 thereof, in the same manner as squares or othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1884112201:0234/pct:44.08425659964437,35.25514240506329,13.404459034331829,6.7147943037974684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654632:1884112201:0234/pct:44.08767610450007,35.25514240506329,13.404459034331829,6.729628164556962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -416,7 +416,7 @@ spaces or Intersections referred to the
 Commissioners have no Jurisdiction except  
 so far as tue s.ime has been given to tnem by act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654693:1888062501:0620/pct:37.341585617447684,38.75256859663967,11.995284409077513,10.769974616221443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654693:1888062501:0620/pct:37.34526967285588,38.75256859663967,12.0026525198939,10.788105886619123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ public, and each present proprietor, and shall be
 I.ilrly and equally divided between the public Hid  
 the individual,&quot; anJ it is further provided tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654693:1888062501:0634/pct:37.088719153936545,42.418471792430374,11.8096357226792,1.9162104260890265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654693:1888062501:0634/pct:37.09973560517039,42.421447274458465,11.80596357226792,1.925136872173292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -463,7 +463,7 @@ spaces or intersections referred to the
 Commissioners have no Jurisdiction except  
 90 tar as tue same has been given to them by act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654693:1888062501:0634/pct:36.971210340775556,44.156153296834084,11.956521739130435,5.094025232087598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654693:1888062501:0634/pct:36.97855464159812,44.16507974291835,11.960193889541715,5.088074268031421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ public, and each present proprietor, and shall be
 r ?.n^fVy divided between the public and  
 ^individual, and it is further provided tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654693:1888062501:0626/pct:25.64556588460971,77.31062410671748,12.335841817913531,4.561696045736065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654693:1888062501:0626/pct:25.65294378043382,77.31062410671748,12.339530765825586,4.570628870890901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ spaces or intersections referred to the
 couia lssioners have no Jurisdiction except  
 so Ur as t.,e same has been given to them by act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654693:1888062501:0626/pct:25.940681717574147,81.467365412101,11.996458610004426,5.05002382086708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:00280654693:1888062501:0626/pct:25.944370665486204,81.4733206288709,12.000147557916483,5.061934254406861/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ the same shdl be far - and equally divided
 between the public ,nd the individual. Am soon  
 as may bete ct &quot;shall be laid of. For th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654814:1891080101:0302/pct:0.6696064020904785,46.79158802911836,12.314225053078557,7.589646805068751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654814:1891080101:0302/pct:0.6818552996896946,46.79832839040173,12.314225053078557,7.593016985710434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ The Cllleott Plain.
 graved and published, inu was considered  
 the only legitimate and authentic plan o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065517A:1897120101:0008/pct:15.208411565903116,20.567474048442907,13.969207660533232,6.269896193771626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065517A:1897120101:0008/pct:15.21779947427713,20.57439446366782,13.95981975215922,6.273356401384083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ or any kind of public improvements or uses
 the proprietors whose lands shall be so  
 taken shall receive at the rate of ?2j pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655247:1899011801:0325/pct:29.15730337078652,27.074961895524456,13.95131086142322,12.969377857835665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655247:1899011801:0325/pct:29.171348314606742,27.078425938755714,13.955992509363297,12.979769987529444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

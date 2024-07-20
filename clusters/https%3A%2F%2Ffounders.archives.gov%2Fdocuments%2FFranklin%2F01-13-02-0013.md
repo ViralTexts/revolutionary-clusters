@@ -116,7 +116,7 @@ cept that of taking their Money out of their Pockets
 without their Consent,  
 % Mr. Dowdefwell, the present Chancellor o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766051601:0589/pct:7.160061309393475,45.775684427435976,28.684037661484563,4.710038269060936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1766051601:0589/pct:7.174658784030362,45.780590717299575,28.691336398803006,4.705131979197331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ fine their manufatiures, and exercise every power
 whatsoever, except that of taking theivr money out of  
 their pockets without their consent,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768012901:0018/pct:37.146557306281025,29.17488031540411,28.361752644075114,3.78766544635314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768012901:0018/pct:37.153752068494136,29.179573828968365,28.38333693071444,3.792358959917394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -211,7 +211,7 @@ Jfine their manufatlures, and exercise every power
 whatsoever, except that of taking their moriey out of  
 their pockets without their consent,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768020501:0022/pct:37.26039198793883,29.149626286842476,28.38681886711178,3.7794387251445496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768020501:0022/pct:37.2747505204968,29.159027875710994,28.38681886711178,3.77473793071029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ whatever, so that we may bind their trade, confine
 cept that of taking money out of their owe  
 pockets without their consent.&quot; It was preserve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861020501:0329/pct:62.825699951448456,119.1645085012949,45.945945945945944,6.046616372030177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861020501:0329/pct:20.941899983816153,39.721502833764966,15.315315315315315,2.0155387906767257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ their trade, confine their manufactures, and exer
 cise every power, except that of taking money out  
 of their own pockets without their consent.&quot; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861021901:0172/pct:211.24859392575928,60.66610455311973,44.82564679415073,4.1736930860033725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861021901:0172/pct:52.83443522295681,15.166526138279933,11.211140807427205,1.0434232715008431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ and exercise every power except that of taking
 money out ol their own pockets without (heir  
 consent.” It was reserved lor the latter hall o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861042701:0073/pct:63.529627591267655,50.100820002688536,14.749587231700605,1.828202715418739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557980:1861042701:0073/pct:63.529627591267655,50.1075413362011,14.754173546138324,1.828202715418739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ confine their manufactures, and exercise every
 power whatever, except that of taking money  
 out of their pockets without their own consent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070601:0626/pct:80.4957724827056,83.226723525231,13.970023059185243,6.879886282871357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070601:0626/pct:62.38272524199553,64.50132197414806,10.836435840158849,5.346650998824912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

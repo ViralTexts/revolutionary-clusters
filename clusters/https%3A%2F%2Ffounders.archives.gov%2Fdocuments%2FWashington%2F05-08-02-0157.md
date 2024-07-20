@@ -65,7 +65,7 @@ receive soon) lor the issue. Olnty sin*
 cer&quot; esteem and regard for v on both I  
 wish vou to be persuaded, and that I a.n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1839112801:0401/pct:85.36804308797127,32.925138632162664,13.180730101735488,6.758317929759705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186944:1839112801:0401/pct:85.35527299925205,32.921335335566596,13.18374470206931,6.761387701667244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ filled. Will either of you two gentlemen
 accept it? And, in that case, which of  
 you? Of my sincere esteem and regard fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879130:1870042901:0069/pct:95.960863020572,84.00158793171893,17.41093828399398,6.411274315204446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879130:1870042901:0069/pct:72.00401556029615,63.0011909487892,13.063119588405069,4.81341802302501/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ Union remains to be filled. Will
 either of you two gentlemen accept  
 it! And, in that case, which of you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1870051101:0796/pct:252.26123392573328,42.18570443576189,39.84973269758705,6.38933578487704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn84026923:00237288361:1870051101:0796/pct:84.08707797524443,14.061901478587298,13.283244232529018,2.129778594959013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ ion 1 entertain of your confluence ana .trtenasutp
 lor each other. The office lately resigned by Mr.  
 John kutledge, in the Supreme Judiciary of t i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867541:1870052001:0042/pct:74.21052631578948,104.57227138643069,15.65015479876161,4.191248770894789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_ireland_ver01:data:sn84022644:00295867541:1870052001:0042/pct:55.68287395478476,78.429203539823,11.737379993806131,3.146509341199607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -272,7 +272,7 @@ Union, remains to be filled. Will either of you
 two gentlemen accept it? And, in that case,  
 which of you? Of my sincere esteem and regar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82014899:00211105483:1870052801:0861/pct:111.29893238434164,63.60098025082889,67.61565836298932,20.75825284705204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_apachetrout_ver01:data:sn82014899:00211105483:1870052801:0861/pct:27.84331181838415,15.900245062707222,16.915201424438013,5.18956321176301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -372,7 +372,7 @@ for you both I wish you to be assured,
 and that 1 am, gentlemen, your most  
 obedient servent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kingjulius_ver01:data:sn93067668:00202193961:1887020101:0631/pct:64.96056904283284,61.45168641750228,17.96814597185712,20.202825888787604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kingjulius_ver01:data:sn93067668:00202193961:1887020101:0631/pct:64.96572341631875,61.45928289273777,17.973300345343024,20.199027651169857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

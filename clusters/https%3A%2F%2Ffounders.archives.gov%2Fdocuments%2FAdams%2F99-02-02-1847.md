@@ -125,7 +125,7 @@ United States, with conscientious dil­
 igence, punctuality and persever­  
 ance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291074:1876111801:0379/pct:17.293876154635647,35.0794659885569,11.837153609305508,5.696122059758423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291074:1876111801:0379/pct:17.293876154635647,35.0794659885569,11.858535750940813,5.708836617927527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ In 1897, on a suggestion that the whole of the certifl-­
 cates need not be read, the Vice President said that,  
 under the rule of the houses appointing tellers h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876112201:0654/pct:100.18065363770734,25.510204081632654,46.09952373131877,16.37291280148423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876112201:0654/pct:33.393551212569115,8.503401360544217,15.36650791043959,5.457637600494744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ sult of his complete examination of the
 records that &quot;never since the Government  
 was established has any Vice President as-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876112201:0657/pct:56.449743334989236,187.22938737908797,46.74615002483855,33.37171810225703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876112201:0657/pct:18.81658111166308,62.409795793029325,15.582050008279516,11.123906034085675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ the United States, with conscienti­
 ous diligence, punctuality and per­  
 severence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82015854:00279528980:1876112201:1191/pct:18.116243584408377,41.61843842014418,10.542377583576085,5.57416996649406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82015854:00279528980:1876112201:1191/pct:18.125491284043093,41.61843842014418,10.551625283210802,5.57416996649406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ der the rule of the houses appointing
 tellers, he considered that the count­  
 ing of the vote devolved upon the tel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020606:1876120201:0198/pct:86.04522890237176,85.50185873605948,12.71373414230557,11.3777176974203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020606:1876120201:0198/pct:64.54282167976831,64.13202658555818,9.54351123982899,8.52765573955165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ passed at the present session, I declare,&quot;
 etc. Mr Clay, in a speech made on the  
 question of counting the votes of Missour
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022998:1876120401:0420/pct:9.030470914127424,63.41714756801319,19.40443213296399,5.08037922506183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022998:1876120401:0420/pct:6.774729842061513,47.568013190436936,14.56082017179274,3.8128606760098926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -369,7 +369,7 @@ United Slates, with conscientious
 diligence, punctuality and porsc  
 venture.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1876120801:0090/pct:103.76641326883207,112.68229166666667,15.065653075328266,17.473958333333332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn86053402:00280779283:1876120801:0090/pct:77.87381158167675,84.51822916666667,11.305099394987035,13.098958333333334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ the Government was established has
 any Vice President assumed to count  
 an elector
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1876120901:0422/pct:62.412529156947684,127.4673145898415,36.62112629123625,34.987851440472056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1876120901:0422/pct:20.804176385649228,42.489104863280495,12.207042097078752,11.662617146824019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ TUB FOURTH ELECTION,
   
 On tho 10th day of February, ISOI. tho Hous
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877010201:0006/pct:17.95002549719531,12.377131394182548,12.595614482406935,4.754262788365096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877010201:0006/pct:17.95002549719531,12.392176529588767,12.614737378888321,4.7592778335005015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -451,7 +451,7 @@ Congress, expressed in their resolution, passed at the
 present session, I now declare by these votes&quot; such a  
 man and such a man are elected
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877012401:0253/pct:56.7424991757336,30.639421421191596,45.12034289482361,6.026862587533004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ambrosia_ver01:data:sn83030313:00271743944:1877012401:0253/pct:18.9141663919112,10.213140473730533,15.040114298274535,2.0089541958443347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ lips of the Chancellor in one of the addresses he
 made to college students. These addresses were  
 not known by him to be the germ of those com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533493:1877012401:0114/pct:268.2164634146341,48.02395209580838,49.771341463414636,20.479041916167663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533493:1877012401:0114/pct:67.07967975600458,12.005988023952096,12.447579107891727,5.119760479041916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -578,7 +578,7 @@ duties of these offices conformably to the con­
 stitution of the United States, with consci­  
 entiousness, diligence, punctuality and per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1888122901:0801/pct:77.21822541966426,80.17817371937639,58.19344524380496,25.88759334468754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1888122901:0801/pct:19.308414951029384,20.044543429844097,14.551269238456927,6.471898336171885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -605,7 +605,7 @@ duties of these offices conformably to the con­
 stitution of tbe United States, with consci­  
 entiousness, diligence, punctuality and per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297684:1889011001:0602/pct:43.42218400687876,28.7865990990991,18.766122098022358,8.361486486486486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297684:1889011001:0602/pct:32.58765325876533,21.59346846846847,14.08905140890514,6.278153153153153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ duties of these offices conformably to the con­
 stitution of the United States, with consci­  
 entiousness, diligence, punctuality and per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529030:1889011701:0319/pct:24.041595530032595,25.01664078100732,13.099487816234673,3.794098069669403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_ditto_ver02:data:sn87058308:00279529030:1889011701:0319/pct:24.05194267680687,25.01664078100732,13.099487816234673,3.808889875009245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

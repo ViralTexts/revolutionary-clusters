@@ -244,7 +244,7 @@ bonour tc bs, with grear refpeét, Sir, your
 Excellency’s most cbadiznt xnd most humble  
 {ervant, Joux Anprr, Adjt General
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0433/pct:7.171139463264408,9.702040217231763,29.6304443466784,81.49126669602231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0433/pct:7.171139463264408,9.706932824502177,29.65244170699516,81.50105191056313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1643,9 +1643,9 @@ voluntarily an impostor.” Alas! André was found
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1838-12_4_12/page/n61/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1838-12_4_12/page/n61/mode/1up?view=theater)
 
-#### 1838-12-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1838-12-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -1815,7 +1815,7 @@ Your Excellency’s most obedient,
 And humble servant,  
 Jou~ ANDRE, Adjutant General.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839021901:0237/pct:33.18623124448367,26.08829885767212,15.033833480435423,27.333539158176393/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1839021901:0237/pct:33.19603805040698,26.091729271723096,15.033833480435423,27.340399986278342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2084,7 +2084,7 @@ room, and when the door was closed, Hamilton . in any rigor policy may dictate, 
 placed in hi3 hands several papers, saying, &quot;As . conduct towards me may m.-irk, that though un­  
 the messenger who arrived soon after you left,! fortunate, I am branded With nothing dishonor.!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1847052101:0302/pct:67.40837696335079,110.72495248438773,38.66866118175019,9.679609014390442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1847052101:0302/pct:50.57041331587806,83.04371436329079,29.00691976809426,7.2631007330980175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2144,7 +2144,7 @@ nieht. without the American posts, to neulral
 grounds, and informed I wat beyond all armed I  
 ! parties, and left to nress for New otk. 1 wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1847052101:0302/pct:86.68661181750187,77.45044800434428,39.06133133881825,33.22020092316047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1847052101:0302/pct:65.02711801009912,58.0912299755634,29.30615298298111,24.911756720065164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2171,7 +2171,7 @@ conspiracy against us. Though their siutaiion
 i -  
 is rtoi similar, ih ? naf b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1847052101:0302/pct:86.68661181750187,6.081998370893293,30.516080777860882,121.62639152864513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn83035366:00296029099:1847052101:0302/pct:65.02711801009912,4.5614987781699705,22.91004301477464,91.2299755633994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2432,7 +2432,7 @@ had tairly risked my person. Aainst my supulation, my
 $ intenton, and without my knowiedge beforchand, I was  
 sonducted within one of your pust
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1878123101:0287/pct:0.0,270.9177592371871,63.56060606060606,29.201430274135877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206533523:1878123101:0287/pct:0.0,67.72943980929678,15.899185143073716,7.300357568533969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2473,7 +2473,7 @@ posts to neutral ground, and was Informed that
 I wns beyond all armed parties,ami left to prusa  
 for New Font, I was token at Tarrytown.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879070901:0002/pct:43.98427260812582,6.898620275944811,12.948885976408912,7.038592281543691/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879070901:0002/pct:43.99082568807339,6.898620275944811,12.942332896461338,7.058588282343531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2517,7 +2517,7 @@ beyond all armed parties, and left topress
 lor INew xorK. 1 was taken at Tarry-  
 town.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028271:00296027340:1879072401:0130/pct:81.3953488372093,19.634878079918295,14.091187270501836,10.813226094727435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cousteau_ver02:data:sn84028271:00296027340:1879072401:0130/pct:61.06519742883379,14.7325418102898,10.575451484542393,8.106727945870038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

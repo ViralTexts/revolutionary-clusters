@@ -53,7 +53,7 @@ Resolved, That the firt Wednesday in
 January next, be the day for appointing  
 eleftors in the several States, which be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788092501:0259/pct:9.346775887418609,51.23839009287926,18.90359168241966,19.701660568533633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1788092501:0259/pct:9.360778547924106,51.23839009287926,18.889589021914162,19.701660568533633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ State by the people thereof.&quot; &#x27; &#x27; &#x27;
 lne Constitution ot the Federal  
 Government; and the laws of Congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1861011001:0579/pct:47.29299363057325,17.073170731707318,18.126326963906582,13.268709610173024/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85033611:00202198004:1861011001:0579/pct:31.537032121051233,11.382113821138212,12.091850278736395,8.849280800500313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -219,7 +219,7 @@ try, in the same manner, and with the same effect a
 the State Governments were formed in their respec-  
 tive jurtsdictions. The States are independent of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1861011501:0799/pct:208.79934210526315,275.3868984524062,38.89802631578947,16.790332838668647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1861011501:0799/pct:69.60932145305003,91.79563281746873,12.967786154900617,5.596777612889548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ the resolves of the convantion made and provided
 in that case.  
 In conformity with this resolation the stat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1861032001:0700/pct:96.43128321943811,53.09833543152889,47.076689445709945,11.861798852986432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_nelson_ver01:data:sn83030272:00206539872:1861032001:0700/pct:24.121557454890787,13.274583857882222,11.775878442545109,2.965449713246608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ Resolved, That the first Wednesday in January next be
 the day for appointing electors in the several States, which  
 before the said day, bhall have ratified tbe Constitution 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863062301:0160/pct:27.04304429195259,79.15685614979257,19.276356830941985,5.617221661621258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863062301:0160/pct:20.296411856474258,59.367642112344434,14.461778471138846,4.215719251037112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ resolves of the convention made and provided in
 that case; and whereas the Constitution so reported  
 by the convention, and by Congress transmitte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211101921:1881030501:0248/pct:113.14641744548287,159.457422758101,50.716510903426794,25.57864140381096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211101921:1881030501:0248/pct:28.295419133686508,39.86435568952525,12.683078840760361,6.39466035095274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ cbotten in each State by tbe people
 fied by tbe conventions of the several  
 States at different dates, Delawar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026487:1887081201:0369/pct:13.724966622162883,74.29079870197843,9.853137516688918,7.58923898251858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026487:1887081201:0369/pct:13.729417000445038,74.29777731253708,9.862038273253226,7.582260371959943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

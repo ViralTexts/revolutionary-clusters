@@ -66,7 +66,7 @@ Tiie House resumed the consideration
 of the bill laying a duty on imported Salt.  
 After considerable discussion on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813071701:0392/pct:38.03510933169079,66.58047834518423,16.78472436094857,6.694985686582325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813071701:0392/pct:38.0292532717475,66.57433056325023,16.78727226071337,6.697445367805479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ vernment of the united k&#x27;mgdon of Great
 Britain and Ireland.  
 An aet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813080601:0070/pct:5.346266636589217,30.891812865497077,22.242273855177082,17.67543859649123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813080601:0070/pct:5.345060893098782,30.887297178775032,22.244775221771164,17.677727427763973/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ governmegt of the united kingdom of
 Great Britain and Ireland.  
 An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081101:0475/pct:79.89465763732129,37.76413220155319,17.05041384499624,14.312804767924868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813081101:0475/pct:79.88263617213362,37.760722347629795,17.052863878021867,14.314522197140708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ the Umited Kingdom of Great Britain and lre­
 land,” passed the second day of ‘August, eigh­  
 teen hundred and thirteen, be, and the same i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816010901:0445/pct:59.02926481084939,43.664890467732384,16.245538900785153,2.634695085849615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816010901:0445/pct:59.034023316678564,43.66817972501809,16.255055912443492,2.641273600421025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ of the united kingdom of Great Britain and
 gated as aforesaid bas used a liceuse, pass,  
 or other instrument granted by the gov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826101901:1146/pct:57.21253048208591,65.70059600327218,17.76402175951979,6.929998831366133/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1826101901:1146/pct:57.21878321765772,65.70059600327218,17.78277996623523,6.9377897238128625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

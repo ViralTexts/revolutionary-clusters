@@ -62,7 +62,7 @@ per of the value of&#x27; the one-hundredth
 of a unit, and a coin of gold of the value  
 of ten units.&quot; Jefferson clung to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665532:1895042601:0537/pct:23.792073832790447,9.098881824161369,16.001628664495115,4.812541109405832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665532:1895042601:0537/pct:17.852294325278304,6.829642622231967,12.00108607113766,3.6066652049989036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -84,7 +84,7 @@ the one-hundreth of a unit, and a coin
 of gold of the value of ten units.&quot; Jef  
 ferson clung to the idea of value, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:0029455998A:1895051701:0551/pct:79.93569131832797,275.094940585569,42.250803858520904,16.56253828249418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061417:0029455998A:1895051701:0551/pct:19.983922829581992,68.77373514639226,10.562700964630226,4.140634570623545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ having regard to tin1 average ol their
 values in those markets mid to other  
 circumstances and the coinage ol&#x27; gol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768953:1896080601:1078/pct:7.965832340087406,102.84814459811037,18.116805721096544,9.146925920854443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_lucretia_ver01:data:sn86086852:00271768953:1896080601:1078/pct:6.183926921892641,79.7134771842943,14.035717951349687,7.088786699681641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -170,7 +170,7 @@ at those market ! ) , and to other circumstances.
 and to report the same to the committee , by  
 them to be laid before congicss. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538946:1896082901:0686/pct:2.487473156764495,37.503440682631435,12.6521116678597,4.238921001926783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_beatrice_ver01:data:sn99021999:00206538946:1896082901:0686/pct:2.487473156764495,37.513762730525734,12.6521116678597,4.22859895403248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ age of gold and silver at our
   
 mints should be at the rati
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896090301:0890/pct:111.72413793103448,43.42140738743597,14.672413793103448,15.94769479644109/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896090301:0890/pct:83.80755302638386,32.56942572121866,11.014830143128126,11.967511458614181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ erage of their values at those markets aud to
 other circumstance.., to report the same to the  
 committee to he by them kUd before congres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1896090301:0679/pct:22.967338429464906,14.646464646464647,14.315496872828353,4.157857646229739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_kauai_ver01:data:sn84022137:00279523593:1896090301:0679/pct:22.97312948807042,14.650379766658837,14.332870048644892,4.157857646229739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ circumstances and the coin­
 age of gold and silver at our  
 mints should be at the rati
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896091701:0904/pct:114.6792189679219,44.656749010509074,14.853556485355648,16.009280742459396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896091701:0904/pct:86.0437739797698,33.49256175788181,11.148412975235438,12.010372594513443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ at the ratio thus dcrtermiucd
 Thomas Jefferson  
 Congress shall have power t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896102201:0934/pct:112.61031907671419,38.61040182771133,14.392396469789546,13.022443219997312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_airplane_ver01:data:sn87060004:00100481649:1896102201:0934/pct:84.50925454236713,28.961161134256148,10.804041433180506,9.766832414997983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ Jefferson framed and had passed by
 the Virginia, assembly a law by which  
 the value of the paper money of Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283818:1897042601:0539/pct:46.816976127320956,71.68525402726146,18.98762157382847,11.013011152416357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283818:1897042601:0539/pct:35.14709135147091,53.7639405204461,14.244636142446362,8.271375464684015/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ Jefferson framed and had passed by
 the Virginia assembly a law by which  
 the value of the paper money of Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1897043001:1001/pct:39.04531456225253,53.824045984352544,13.726352837659482,7.360689765288201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:0041562315A:1897043001:1001/pct:39.0618125824901,53.82803768162223,13.72085349758029,7.372664857097238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ them to be laid before congress.
   
 Jefferson framed and had passed b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479901:1897050501:0143/pct:34.4120995283786,53.37642077111656,14.067328020816394,6.251392912859371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_rolls_ver01:data:sn85025431:00212479901:1897050501:0143/pct:34.422941399685584,53.383849639699875,14.067328020816394,6.247678478567714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ Jefferson framed and had passed by
 the Virginia assembly a law by which  
 the value of tin* paper money of Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1897050501:0072/pct:72.25702523715769,52.62203626220363,10.63182387685699,6.066945606694561/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1897050501:0072/pct:72.24409448818898,52.61469808952726,10.63439513242663,6.069585831822619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -702,7 +702,7 @@ Jefferson framed and had passed by
 the Virginia1 assembly a law by which  
 the value of the paper money of Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_baseball_ver02:data:sn89064489:00393340150:1897050601:0585/pct:40.764006791171475,54.48861098704779,14.380305602716469,7.045556051808843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_baseball_ver02:data:sn89064489:00393340150:1897050601:0585/pct:40.77532541029994,54.49233288670538,14.385964912280702,7.049277951466428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ and to repor* the same to the committee, by
 them to bo laid before oongra*.   
 Jefferson framed and had passed b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1897050601:1002/pct:31.9777331065409,62.48542042201251,13.854955930106696,6.107517760576821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581222:1897050601:1002/pct:31.9777331065409,62.49337291909659,13.866553270449977,6.099565263492737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -760,7 +760,7 @@ Jefferson framed and had passed by
 the Virginia assembly a law by which  
 the value of the paper money of Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624657:1897050701:0346/pct:73.52641240057108,57.97203784776161,15.031613297980828,7.72489761333145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415624657:1897050701:0346/pct:68.01031316815495,53.625081645983016,13.91019997484593,7.163074243413891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -806,7 +806,7 @@ Jefferson framed and had passed by
 the Virginia assembly a law by which  
 the value of the paper money of Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_elizabethtown_ver01:data:sn86090439:00517175158:1897051101:1081/pct:9.836863890917945,71.40204271123491,16.72753834915997,18.7867533271433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_elizabethtown_ver01:data:sn86090439:00517175158:1897051101:1081/pct:9.836863890917945,71.4097802537914,16.73971268565863,18.79062209842154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ Jefferbon framed and had passed by
 the Virginia assembly a law by which  
 the value of the paper money of Americ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069313:00206533158:1897051401:0296/pct:91.36546184738955,61.875709421112376,15.36144578313253,19.09761634506243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_dracula_ver01:data:sn86069313:00206533158:1897051401:0296/pct:68.56167135395741,46.41032917139614,11.53073523503415,14.326759364358683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -917,7 +917,7 @@ Jefferson framed and had ,.as-:cd by
 tho Virginia assembly law by which  
 tho value of the paper money cf Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023486:1897051401:1031/pct:57.17279174725983,81.99978048512787,21.308833010960672,9.164745911535507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_calumet_ver01:data:sn86086632:00296023486:1897051401:1031/pct:38.132860367623344,54.67017890462079,14.20509513060303,6.113489188892547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -991,7 +991,7 @@ Jefferson framed and had passed by
 tho Virginia assembly a law by which  
 tho value of the paper money of Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:00393349128:1897051501:0441/pct:39.70326409495549,53.154639175257735,14.085064292779427,7.285223367697594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_casper_ver01:data:sn85059533:00393349128:1897051501:0441/pct:39.69541139240506,53.14733369983507,14.087223101265822,7.287658053875756/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ same te the committee, by them te be laid
 before congress.&quot;  
 Jeffersen framed and had passed b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_gandhi_ver01:data:sn86069117:00206533754:1897052001:0493/pct:27.456418383518226,67.92760919853042,18.62123613312203,21.132126819975507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_gandhi_ver01:data:sn86069117:00206533754:1897052001:0493/pct:20.614469772051535,50.94570689889781,13.974231912784935,15.85249693835896/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1116,7 +1116,7 @@ Jefferson framed and had passed by
 the Virginia assembly a law by which  
 the value of the p;:per Money of Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292340:1897060501:0186/pct:30.235492010092514,69.36671575846833,17.998317914213626,10.014727540500736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292340:1897060501:0186/pct:22.696676482961717,52.03240058910162,13.504417332772402,7.511045655375552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1162,7 +1162,7 @@ before congress.&quot;
   
 Jefferson framed and had passed b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1897061901:0343/pct:55.842450765864335,50.625269512721,11.918307804522247,14.370418283742993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_evans_ver01:data:sn83035387:00211664526:1897061901:0343/pct:55.847313396547534,50.625269512721,11.923170435205446,14.38119879258301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1191,7 +1191,7 @@ Jefferson framed and had passed by
 the Virginia assembly a law by which  
 the value of the paper money of Ame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415628109:1897062501:0727/pct:67.12789827973074,86.21171864074955,14.360508601346298,8.25059432247238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn90000523:00415628109:1897062501:0727/pct:50.3741114852226,64.66228499510558,10.774410774410775,6.194937770941127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1275,7 +1275,7 @@ Jefferson framed and bad passed by
 the Virginia assembly a law by which  
 the value of the paper money of Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159245:1897072201:1110/pct:45.731588200820475,57.41173238082154,18.675522563000587,22.461876631405413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159245:1897072201:1110/pct:35.45293969215241,44.50083401355716,14.473883421650266,17.40426589062001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1317,7 +1317,7 @@ Jefferson framed and had passed by
 tho Virginia assembly a law by which  
 the value of the paper money of Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021209:1897081401:0360/pct:70.16824849007766,60.56142301278488,18.464193270060395,19.677598665925515/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_gordon_ver01:data:sn89058370:00296021209:1897081401:0360/pct:52.66565939995683,45.42801556420233,13.857112022447659,14.758198999444136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1365,7 +1365,7 @@ Jefferson framed and had passed by
 the Virginia assembly a law by which  
 the value of the paper money of Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740852:1897093001:0769/pct:43.065967016491754,46.42369642369643,12.087706146926537,15.506415506415506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_argon_ver01:data:sn87096037:00271740852:1897093001:0769/pct:43.07065217391305,46.42369642369643,12.097076461769115,15.516653016653017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1402,7 +1402,7 @@ those markets and to,- other circumstances,
 and to report the samfc to the committee, by  
 them to be laid before congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076145:00199918047:1899020301:0211/pct:25.14982876712329,58.40768702814001,16.095890410958905,5.875085792724777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076145:00199918047:1899020301:0211/pct:25.165881849315067,58.41798215511324,16.090539383561644,5.881949210706932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1434,7 +1434,7 @@ Jefferson framed and had passed by
 the Virginia assembly a law by which  
 the value of the paper money of Amer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076145:00199918047:1899021001:0219/pct:24.07524836186853,59.401475813063676,15.810610864510675,7.679693905438644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_carbon_ver01:data:sn88076145:00199918047:1899021001:0219/pct:24.0858169520186,59.40489204700738,15.810610864510675,7.686526373326045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1460,7 +1460,7 @@ Congress.&quot;
 In 1792 he wrote to Hamilton, approving his &quot;re­  
 port on the establishment of a mint,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037858:1899051701:0020/pct:20.55503292568203,89.59056210964607,17.607400439009094,6.789266712930835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_joshuaTree_ver01:data:sn85066387:00175037858:1899051701:0020/pct:20.565485523152503,89.59441745701288,17.607400439009094,6.79697740766443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

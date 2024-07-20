@@ -178,7 +178,7 @@ been much wealthier had I remained in that pri­
 vate condition which renders it lawful and even  
 laudable to use proper efforts to better it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1872102801:0433/pct:233.43328335832084,204.50646896351213,50.07496251874063,37.50545137374618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536147:1872102801:0433/pct:58.38020247469066,51.12661724087803,12.523434570678665,9.376362843436546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ have thought myself richer in con­
 tentment than I should have been  
 with any increase of fortune.&quot; ri 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174481A:1873021501:0438/pct:67.23826714801444,95.86554228156477,14.515643802647412,15.963925977980791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:0027174481A:1873021501:0438/pct:50.45899172310008,71.90208479737643,10.895410082768999,11.970016397282736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ the statesmen of the present day. Aud
 yet when looking at the long years of  
 poverty which the descendanfs of Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877492:1878050101:0534/pct:95.49450549450549,51.119078661451546,14.89010989010989,23.218166014776184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016926:00295877492:1878050101:0534/pct:71.64056059356966,38.342025206431984,11.170651277823579,17.416340721425467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ richer in contentment than I should
 have been with any increase of for­  
 tune.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:00279528761:1878050801:0417/pct:60.5606967882417,11.907783417935702,8.954817637452368,8.365059221658207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:00279528761:1878050801:0417/pct:60.567501360914534,11.91571489001692,8.958219923788786,8.367703045685278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ the statesmen of the present day. And
 yet, when looking at the long years of  
 poverty through which the descendant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877613:1878051101:0030/pct:53.15096952908587,42.21225710014948,14.31786703601108,21.136023916292974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016739:00295877613:1878051101:0030/pct:39.89260349904729,31.659192825112108,10.73965009527109,15.85949177877429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ What a rebuke this letter contains to
 the statesmen of the present day. And  
 vet, when looking at the long years o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:0020029693A:1878051801:0244/pct:315.35135135135135,168.75522138680034,68.21621621621621,77.19298245614036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_ferrari_ver02:data:sn86088181:0020029693A:1878051801:0244/pct:78.85915112192484,42.188805346700086,17.058664503919978,19.29824561403509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ statesmen of the present day. And yet,
 when looking at the long years of pover­  
 ty through which the decendants of Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876475:1878061101:0464/pct:81.17647058823529,36.82483889865261,14.521008403361344,20.82015231400117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn83025440:00295876475:1878061101:0464/pct:71.03921568627452,32.224994019751904,12.700980392156863,18.214127054642383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ gotten themselves in a most inter­
 ested situation.  
 STILL AT LARGE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513688027:1894062201:1017/pct:21.255438160348042,35.02092050209205,12.512948000828672,11.89679218967922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513688027:1894062201:1017/pct:21.26924936123196,35.03021850302185,12.499136799944756,11.887494188749418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -612,7 +612,7 @@ adds, &quot;I have thought myself richer in con­
 tentment than I should have been with any in­  
 crease of fortune.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473716:1895030801:0943/pct:75.57444852941177,90.51973051010587,30.009191176470587,17.773500160410652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_goodnow_ver01:data:sn83040052:00212473716:1895030801:0943/pct:50.41379310344828,60.34648700673725,20.022988505747126,11.854347128649342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ public career Is now closing, andt will go
 through on the principle on which I have  
 hitherto acted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn85054468:00211102093:1897063001:0638/pct:45.42944785276074,111.22649128879658,18.404907975460123,17.09934233298719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn85054468:00211102093:1897063001:0638/pct:30.296057677557908,74.15484019845391,12.27182083141586,11.399561555324794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

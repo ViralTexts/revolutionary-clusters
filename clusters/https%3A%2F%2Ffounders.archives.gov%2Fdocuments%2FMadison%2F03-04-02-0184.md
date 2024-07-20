@@ -131,7 +131,7 @@ JAMES MADISON.
 By the President,  
 JAMES MONROE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812021701:0060/pct:77.85126921701823,50.04659832246039,17.840543439399358,10.088536812674743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812021701:0060/pct:77.83735478105451,50.04076878276063,17.843312481382185,10.091244418559503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ States, the thirty-sixth.
 ^,b&quot;Ld&gt;  
 .JAMES MAD1SOX
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062501:0196/pct:59.18183456478645,63.048823322795926,16.867904126869707,5.6784919798618425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062501:0196/pct:59.171171171171174,63.041442285179116,16.87087087087087,5.681729493483181/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ f3EAL) thousand eight hundred and twelve, and of
 the Independence of the United States the  
 thirty-seventh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812112401:0237/pct:58.631443771784994,43.204843093649615,17.758209502843513,6.325673338275266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1812112401:0237/pct:58.62068965517241,43.19950586781964,17.76106627537295,6.329009676755199/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

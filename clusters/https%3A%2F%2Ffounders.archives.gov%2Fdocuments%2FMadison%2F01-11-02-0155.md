@@ -33,7 +33,7 @@ the terms and manner of granting waste
 and unappropriated lands ; for settling  
 the titles and bounds of lands ; directin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806020401:0045/pct:77.44712708216358,77.68680961663418,17.05034624742654,2.690058479532164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806020401:0045/pct:77.43263473053892,77.67671517671518,17.053393213572853,2.694040194040194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -52,7 +52,7 @@ O Rce ; ascertaining the terms and
 manner of granting waste and unap­  
 propriated lands; for set.ling the title
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012001:0027/pct:41.19087996985114,17.894736842105264,17.467495760316563,3.6907082521117607/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809012001:0027/pct:41.18311981914092,17.89241164241164,17.470484802813363,3.6945599445599444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -78,7 +78,7 @@ and the Tennessee river, which have been re­
 served by law for the Virginia troops on conti­  
 nental establishment, and upon their own state
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011701:0327/pct:6.154684095860566,54.87223376940946,17.33841684822077,6.211028243061499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011701:0327/pct:6.1535668905427485,54.86552567237164,17.341320263810733,6.214343928280359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ the U States in Congress assembled, all the
 right of tins commonwealth to the Territory  
 noith westward of the river Ohio,” upon th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011701:0327/pct:6.063907044299201,68.39466927497249,17.356572258533042,8.338427680645555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811011701:0327/pct:6.062806316935923,68.38630806845966,17.3594723785321,8.341483292583536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ condition, nan ed in their re pi rt “ tht
 fifth condition/’ was rt as it able, an-1  
 ought to be acceded to by Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811020801:0055/pct:57.186876925865505,64.50503561778433,17.255754939278592,21.8987963645296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811020801:0055/pct:57.17651322943095,64.4971140857178,17.258668599734204,21.90020058127635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ territory nonh Westward ofihe river O­
 hio,” upon the terms on which Con; r : s  
 had agreed&#x27;to accept the cession ol th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811020801:0055/pct:75.16766358528186,16.16310488823385,17.05637121624071,7.504298698108573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811020801:0055/pct:75.1540413193186,16.161119980351224,17.059321010027787,7.507470629170249/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ ascertaining the time and manner of grant­
 ing waste and unappropriated land.”  
 Mr. Scott, from the Commi tec on t!,a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816021301:0213/pct:48.90793010752688,74.09661468238875,15.070564516129032,4.513756815012045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816021301:0213/pct:48.89971442969931,74.08722109533468,15.073632342236408,4.517410412440839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ suitable sword, to Major Gen. YY’infieli
 Scott, for his gallant and uniform good  
 conduct, in sustaining the military r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1816021601:0446/pct:82.51470588235294,26.80273332134508,15.911764705882353,10.915303003057003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216201:1816021601:0446/pct:82.5025731510072,26.80032365369055,15.914326324560113,10.917318469237916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ for other purposes,” declares that all the
 powers vested in the deputations of offi­  
 cers of the continental and state lines b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818022801:0355/pct:49.313922356091034,42.774427020506636,15.110441767068274,3.3051869722557297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818022801:0355/pct:49.30567174167643,42.76926788083464,15.113490602866545,3.3088087484420856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ ourlli west s..l«- of the Ohio river, I.clvtecu ike rivi r, &#x27;
 SCiOto .mil Little Ml mi . unlit Ill&#x27;ll tliiii-itMii-v of nil . 1  
 military huumi -in lands shall be fully md a.*i;,l&#x27;&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822020901:0356/pct:20.83002067101288,4.7680563711098065,30.624900620130386,90.73399882560187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822020901:0356/pct:20.82670906200318,4.7674964772193515,30.625331213566508,90.72725849381557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ I he committee of Congress to whom those resolu­
 ioiis wane i. lined, lepoitas follows :—“ That they  
 a.»\e coiisideted tlie several matters referred t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822020901:0356/pct:36.174272539354426,4.791544333529067,30.290984258228654,90.7809747504404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822020901:0356/pct:36.16852146263911,4.79098168154063,30.29146793852676,90.77422890245812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ linn, to lie in same manner subject to be
 ‘ claimed by the said officers and soldiers.” i  
 I bis act provides for the manner in which 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822022801:0386/pct:21.47758097973512,80.56147832267236,15.1108983564704,8.552475716654822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822022801:0386/pct:21.47415443522655,80.55193651545659,15.11380557328228,8.555410793951596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ missioned officers and soldiers were to lieclass­
 cd and numbered. Priority of location was to  
 be determined by lot, under the direction an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822022801:0386/pct:36.9714376894846,24.16488983653163,14.91941917983086,8.528784648187633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822022801:0386/pct:36.96553924696873,24.162027715267087,14.922356945330781,8.531722531485649/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ and Mississippi, shall he saved, subject ts tin­
 order and particular disposition or the leg!-d i  
 tine of this state.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822022801:0386/pct:36.70017552257858,39.55223880597015,15.1108983564704,9.997630893153282/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822022801:0386/pct:36.69432035737077,39.54755418690039,15.11380557328228,10.000394804374432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -475,7 +475,7 @@ hio, in such proportions as have been entratred 1
   
 •.o them by l!h* laws of Virginia.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822022801:0386/pct:67.65597574597096,62.662876095711916,15.04707196425722,10.779436152570481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1822022801:0386/pct:67.64518187619656,62.65545422243279,15.049989363965114,10.78210746575072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ Miami. on the northwest side of tho river Ohio, in
 ouch proportions as havo been engagod to them by  
 the Stale of Virginia.” These resolutions wore luo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020801:0131/pct:2.6697053556894024,42.67787380134959,18.42747843073417,9.660234402746537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830020801:0131/pct:2.6692708333333335,42.67282196969697,18.42990451388889,9.663036616161616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -568,7 +568,7 @@ t&amp;ianu, on the northwest aide of the river Ohio, m
 such proportions as have been engaged to thorn by  
 the State of Virginia.” These resolutions were lite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830020901:0059/pct:4.547592912027599,30.809774796358408,17.453347969264545,9.714901772879731/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830020901:0059/pct:4.546879899655064,30.806084561025273,17.455837775687257,9.717730666347267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -586,7 +586,7 @@ to the officers and soldiers on continental
 and state establishment, and for other pur­  
 pose* ” This law is in Hen. St. at large
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830071401:0221/pct:22.06422751238217,18.962848297213622,15.066304521489055,2.620521892967713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn84038587:00414187389:1830071401:0221/pct:22.06070287539936,18.96075179657269,15.069222577209798,2.6239174497880966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -638,7 +638,7 @@ forfeited lands shall be &lt;xe*pted and exempted from the operations
 or the pic visions in this act abt ve contained, save oo’v the re tion  
 Mf couceirUg lists of delinquent lands above mentioned
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831041401:0449/pct:34.14239482200647,21.15071045888656,15.225066195939982,6.615420451898439/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831041401:0449/pct:34.13737314310928,21.148247350646326,15.227729568073736,6.618531889290012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -659,7 +659,7 @@ been, or irnu hereafter be returned delinquent, far
 non payment of taxes, and which have been heretofore  
 rested by law, in tho President and Directors of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831041501:0404/pct:24.414031775994967,64.42780248069272,17.33522101620261,3.580622513456588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831041501:0404/pct:24.410191884240326,64.42026442026442,17.337737233931005,3.584103584103584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -676,7 +676,7 @@ nine, entitled an act, for establishing a Land Office
 and ascertaining the terms and manner of granting  
 waste and unappropriated lands, and the subsequen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831041501:0139/pct:27.036924015868173,65.54784389577881,16.99725358559658,1.6384116509272955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831041501:0139/pct:27.032799389778795,65.54038680318544,16.999745741164507,1.6420174440652255/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ Office, and ascertaining the terms and man­
 ner of granting waste and unappropriated  
 lands, and the subsequent acts on the tam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831042101:0270/pct:61.28039396737458,52.92975442604226,14.4352108341028,2.055968018275271/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831042101:0270/pct:61.270964763809815,52.92370945637277,14.438118684925886,2.059540124866758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -717,7 +717,7 @@ vested by law, in the President and Directors of the
 Literary Fund, or which, by the provisions of this act  
 shall or may hereafter be forfeited and vested, in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831042201:0427/pct:75.08390602525172,65.41459957476967,17.612274252836823,4.7247814788566025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831042201:0427/pct:75.07190795781399,65.40687374512814,17.614786406732716,4.728160308649266/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -741,7 +741,7 @@ ner of granting waste and unappropriated lands,” and the
 lubvequont acts on the same subject, are and shall be applies­  
 h,e also, and applied and ex tender I to lands lying on the Wes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831042201:0428/pct:23.645399166399486,89.09752376481633,17.681949342738058,4.682548996596643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831042201:0428/pct:23.641609232248758,89.08706876320113,17.684457979377036,4.685910975514355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ vested by law. in the President and Directors of the
 Literary Fund, or which, by the provisions of this act,  
 shall or may hereafter he forfeited and vested, in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831042201:0146/pct:73.92674872410687,65.43841692255204,16.691684178925247,4.480837029455248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831042201:0146/pct:73.91565360948522,65.43097566522628,16.694181799989995,4.484117959214616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -781,7 +781,7 @@ I entitled an act for establishing a land office, and as­
 certaining the terms and manner of granting wsste tnd  
 : unappropriated lam&#x27;s,” and the subsequent action th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831042201:0461/pct:49.40128504672897,37.007147798017066,15.36214953271028,1.4872031358081623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831042201:0461/pct:49.394072127317855,37.002881844380404,15.364773446245193,1.4908741594620558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -808,7 +808,7 @@ nine, entitled an act, for establishing a Land Office,
 and ascertaining the terms and manner of granting  
 waste and unappropriated lauds, and the subsequen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831042301:0431/pct:76.91067397613674,66.45039518697652,17.720090293453726,1.6869175415831072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831042301:0431/pct:76.89827502821215,66.44255720688842,17.72260734053415,1.6906503106078479/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -841,7 +841,7 @@ vested hy Uw, in the T*. eaident and Directors of the
 f.iterarj fund, or which, by the provisions of this act  
 shall or may hereafter be forfeited and vested, in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831042501:0436/pct:23.492921902338157,65.05825585500764,17.655479560998888,4.813463575379545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831042501:0436/pct:23.489185750636132,65.0506001412097,17.657972858354537,4.816819643837766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -874,7 +874,7 @@ vested by law, in tbc President and Directors of the
 Literary Fund, or which, hy the provisions of this act.  
 D.iall or may hereafter he forfeited and vested, in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831042601:0440/pct:23.792,64.60114794424271,17.792,4.767482722267776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831042601:0440/pct:23.788193888977762,64.59358163504334,17.794486215538846,4.770828453189662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -899,7 +899,7 @@ thereof concerning lists of delinquent lands above mentioned.
 SO. And as to such delinquent lands as wrre bet anginaliy granted  
 mnler the rai I rented art of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831042601:0465/pct:50.21115479831076,19.04487917146145,14.926459880588322,4.027617951668584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831042601:0465/pct:50.20384391380315,19.042687837993327,14.929139972820812,4.030989912936755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ nine, entitled an act, for establishing a l.and Office
 and ascertaining the terms and manner of granting  
 | waste and unappropriated lands, and the subsequen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831042701:0444/pct:23.54249404289118,57.93127794775241,17.712470214455916,7.295834313956225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831042701:0444/pct:23.538754764930115,57.924461701376636,17.714951291825496,7.298897909557987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -955,7 +955,7 @@ nine, entitled n y art, for establishing n Land t»ffi r,
 land ascertaining the terms and manner of granting  
 Waste and unappro Vnrtml lands, and ihe sohseqiieo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831042801:0448/pct:22.44139046079224,64.1643059490085,18.221503637833468,1.6288951841359773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831042801:0448/pct:22.437762689945036,64.15673315236634,18.223946545964004,1.6326370038160432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -973,7 +973,7 @@ office, and ascertaining the terms and man­
 nrr or granting waste and unappropriated  
 Lmla, and the subsequent act* on the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831042801:0277/pct:39.00198989744375,23.222587594965415,14.20480636767182,2.029708583739653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84024746:00414186920:1831042801:0277/pct:38.99602081420263,23.219954648526077,14.207733904703602,2.0332577475434617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1006,7 +1006,7 @@ i(Cts on the same subject.) which haw- heretofore
 non payment of taxes, and w hich have been heretofore  
 vested by Jaw, in the President and Directors of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831050201:0460/pct:24.188129899216126,58.82490090930287,17.51719724844025,9.244579155980414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831050201:0460/pct:24.18426103646833,58.81804406107938,17.519727020686712,9.247387030345417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1033,7 +1033,7 @@ nine, entitled an act, fur establishing a Land Office
 and ascertaining the terms and manner of granting  
 ! ‘V;rs,e amI unappropriated lands, and the subsequen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831050301:0464/pct:24.624720536569786,64.77259441131767,17.98147556691153,1.7070033906231732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831050301:0464/pct:24.62078875938049,64.76502221183073,17.983926765660758,1.7107006468708597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1054,7 +1054,7 @@ been, or may hereafter Le returned delinquent, for
 non payment ol taxes, and which have been heretofore  
 veiled by&#x27;law, in the President and Directors of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831050501:0472/pct:24.928229665071772,65.0492264416315,17.575757575757574,3.7037037037037037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831050501:0472/pct:24.924254504863658,65.04160318762452,17.57827034497422,3.7071760615649048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1081,7 +1081,7 @@ nine, entitled an act, for establishing a Land Office
 and ascertaining the terms and manner of granting  
 | waste and unappropriated lands, and the subsequen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831050601:0476/pct:24.330218068535824,59.80855725983162,17.64797507788162,7.207934494291316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831050601:0476/pct:24.32642890515496,59.80166051660517,17.65041789960027,7.210947109471094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1128,7 +1128,7 @@ nine, entitled «n act, for establishing a Land Office,
 and ascertaining the terms and manner of granting  
 wuato and unappropriated lands, and the subsequen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831051101:0488/pct:22.99117510450534,63.17739694302918,17.154358259792538,1.6327003242241778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831051101:0488/pct:22.987616099071207,63.170082204469146,17.15686274509804,1.6363706533904518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1156,7 +1156,7 @@ nine, entitled an act, for establishing a Land Office, I
 and ascertaining the terms and manner of granting!  
 waste and unappropriated lands, and the subsequen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831051201:0492/pct:23.780968912734732,58.89584783112967,17.65819788543475,7.225701693342612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184583:1831051201:0492/pct:23.777216787630167,58.88901774324481,17.66067108446408,7.228729367196258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1203,7 +1203,7 @@ nine, entitled an act, for establishing a Land Office,
 am! ascertaining the terms and manner of granting  
 waste and unappropriated lands, anti the subsequen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831053001:0191/pct:24.390243902439025,86.94555873925502,17.455762792922048,1.6160458452722064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831053001:0191/pct:24.386356391456808,86.93559477423791,17.458293486345767,1.6196806478722592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1277,7 +1277,7 @@ of the
 ment “all the right of that Commonwealth to  
 the Territory northwestward of the river Ohio,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212438:1856102101:0012/pct:86.98610717323504,40.183232129540855,11.284377658066346,0.873548524555236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212438:1856102101:0012/pct:86.97377746279234,40.17895185342991,11.28632175761871,0.876118449083937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1360,7 +1360,7 @@ the General Assembly, entitled an ‘Act for establishing
 a land office, and ascertaining the terms and manner ol  
 granting waste and uuappropriate lands,&#x27; no reservatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860042501:0399/pct:85.68326577880718,233.59030837004406,39.09959467284308,4.695634761714057/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860042501:0399/pct:28.556954696772326,77.85564120532585,13.031311815506344,1.5650548937164215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1380,7 +1380,7 @@ to the United States in Congress assembled
 all the right of that commonwealth to the  
 territory Northwestward of the river Ohio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:31.304347826086957,55.8025698551907,12.482468443197757,2.253722210891291/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:31.30902290790089,55.80936841389625,12.496493688639552,2.253722210891291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1401,7 +1401,7 @@ a land office, and ascertaining the terms and
 nanner of granting waste and unappropriated  
 ands,&quot; no reservation thereof is made, but th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861012401:0083/pct:204.05766944114148,36.61450623810531,37.574316290130795,7.792345104673292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_johnhenry_ver01:data:sn84024738:00280777973:1861012401:0083/pct:68.01922314704717,12.204835412701769,12.524772096710265,2.597448368224431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1418,7 +1418,7 @@ that purpose &quot;all that tract of land included
 within the rivers Missiesippl, wnlo, and ten­  
 nessee and the Carolina boundary line,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn83045160:00280779635:1882121001:0527/pct:97.01744513224536,164.37143190026796,36.80360157568936,4.334148898986369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn83045160:00280779635:1882121001:0527/pct:24.257774025608555,41.09285797506699,9.202195018995356,1.0835372247465922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1436,7 +1436,7 @@ ber, 1781, setting apart for that purpose
 rivers Mississippi, Ohio, and Tennessee and  
 the Ciiolina boundary line,&quot; which was al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762246:1883073101:0134/pct:61.700032819166395,59.6684383700329,10.731867410567771,1.645153125790939/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762246:1883073101:0134/pct:61.712340006563835,59.6684383700329,10.735969806366919,1.645153125790939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

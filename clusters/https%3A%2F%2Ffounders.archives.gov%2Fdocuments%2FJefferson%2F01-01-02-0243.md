@@ -29,7 +29,7 @@ The coiumitiec of .privileges and elections have, according to order, had under 
 consideration the petition of Jonn Woodward, complaining of the undue election of Da­  
 vid Graham, returned to serve as a delegate for the county of Monroe, to them refer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805010201:0012/pct:6.38787646268943,15.659839253305678,40.59083061576827,2.2815659839253306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805010201:0012/pct:6.3866513233601845,15.657809462086844,40.58943869070451,2.2855908403542884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -48,7 +48,7 @@ their consideration the petition of David
 Ciaham, complaining ol the undue elec­  
 tion ol John \Vor&gt;dward, returned to serv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805121101:0430/pct:23.708325209592513,88.22987901104682,17.898225775004875,3.3666491320357705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805121101:0430/pct:23.703703703703702,88.21827744904668,17.901234567901234,3.3705895244356783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -67,7 +67,7 @@ their consideration, the subjects referred
 to them by the resolution of the house of  
 delegates, relative to the right of Richar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807122901:0435/pct:23.571563266075806,39.490205926670015,17.386385065057514,2.9382219989954796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807122901:0435/pct:23.56711915535445,39.48524795982423,17.389391654097537,2.9420380832810213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -91,7 +91,7 @@ to the f&#x27;■&#x27;Mowing resolutions thereupon ;
 U appears to your committee that at the  
 election held for the county of Amelia, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808121301:0407/pct:39.157088122605366,34.52396084911656,17.739463601532567,5.885343841362654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808121301:0407/pct:39.14958820149397,34.519572953736656,17.74245036072272,5.888832401287917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -108,7 +108,7 @@ T.ie committee of Privileges and
 Elections, have, according to order,  
 ha 1 under their consideration the peti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809011001:0016/pct:59.6816479400749,58.898142216527866,17.49063670411985,2.190903267136451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184224:1809011001:0016/pct:59.67047369406478,58.8905969766846,17.493602945765463,2.194892817490819/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ according toorder, had under their conside­
 ration the petition of John Minor, to them  
 referred, and have come to tbc following re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809011701:0323/pct:40.8287194141811,69.80450753330842,17.03875692087873,11.592578757315403/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809011701:0323/pct:40.82142857142857,69.79581673306772,17.041666666666668,11.595285524568393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ That the petition of the said inhabitants of the
 pms, establishing a town on the land of William  
 M‘ Dowell, situate in the upper part of the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809121601:0267/pct:5.021151370240942,70.06893215624622,17.60161853963583,5.272705284798645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809121601:0267/pct:5.020228025009194,70.06045949214027,17.604511462547507,5.2760983474405485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -182,7 +182,7 @@ tice have, according to order, had un­
 der their consideration the petition of  
 John Tharp, to them referred and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810121401:0405/pct:60.68991660348749,20.52618200305033,17.645943896891584,2.0843924758515504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810121401:0405/pct:60.678415766534016,20.5235735163299,17.648916682458466,2.0883636209598846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -201,7 +201,7 @@ their consideration the petition of George
 Minor, complaining ot the undue elec ion  
 of Richard Coleman returned to serve aB 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811010101:0009/pct:40.79288625416821,60.422499363705775,17.024824008892182,2.825146347671163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811010101:0009/pct:40.78533061678088,60.41481104466217,17.02784466259184,2.8290282902829027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

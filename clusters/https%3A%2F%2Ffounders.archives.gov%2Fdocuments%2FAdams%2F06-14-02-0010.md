@@ -93,7 +93,7 @@ westernmost head of Connecticut river.”
 Doubts having arisen as to the St. Croix de­  
 signated in the treaty of 1783, a provision wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815010301:0214/pct:6.832039911308204,29.46194225721785,16.62971175166297,4.349456317960255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815010301:0214/pct:6.832039911308204,29.46506686664167,16.64818920916482,4.352580927384077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ M&#x27;.&#x27;SBUJ fl- L
   
 a line to be drawn along the middle of ihe rive
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839031601:0036/pct:54.723597359735976,6.168359941944848,46.864686468646866,121.05950653120465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839031601:0036/pct:41.07327141382869,4.629898403483309,35.1702786377709,90.79825834542815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ due north, to the aforesaid highlands, which
 divide the riven which run into the St. Law­  
 rence from those which fall into the sea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840033101:0162/pct:33.19011815252417,76.45867611694722,15.717866093805943,10.935324642450322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840033101:0162/pct:33.19011815252417,76.46711386744293,15.735767991407089,10.935324642450322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ tersect.
 Nor can any truth be more obvious than  
 that the treaty lines and the colonial lines ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840040201:0320/pct:67.2221609093919,57.05099446687603,14.73347312658647,9.181994915507701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840040201:0320/pct:67.21474288236593,57.046728971962615,14.73552563819613,9.18380062305296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ was not done.
 “Mr. Chairman, the language used in  
 the description of those boundaries is s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1842072101:0031/pct:23.290136789056877,12.996342737722047,14.164866810655148,12.748171368861025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1842072101:0031/pct:23.285945654129925,12.994645422489226,14.168316237778178,12.750859779722258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ a ceding her sovereignty to the United Statee, stipulated
 r a continuance of the same privilege from the United  
 The United States also succeeded to the rights of Eng-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861012801:0259/pct:12.761843377376731,60.57291079282734,45.68159845310989,20.852599526333595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861012801:0259/pct:4.253947792458911,20.19097026427578,15.227199484369965,6.950866508777866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ tion ol tne agreement now piacea Deiore tne owitato
 a beneficial and satisfactory intercourse between  
 the two countries will be established so as to secur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764297:1888022201:0182/pct:60.363790186125215,88.02353755624783,13.000564015792442,1.8460828429675782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_elm_ver01:data:sn82015483:00271764297:1888022201:0182/pct:45.29552828325575,66.02053767162802,9.761602482719706,1.3845621322256836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ a beneficial and satisfactory intercourse be
 tween the two countries will he established so  
 as to secure perpetual peace and harmony.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514152111:1888022401:0061/pct:36.98327111848472,47.68363939899833,10.866860223973456,2.5146076794657763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_engledinger_ver02:data:sn85033123:00514152111:1888022401:0061/pct:36.992488133093694,47.68363939899833,10.86225171666897,2.5146076794657763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

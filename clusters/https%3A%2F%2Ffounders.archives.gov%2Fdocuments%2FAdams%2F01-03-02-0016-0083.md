@@ -868,7 +868,7 @@ lonies, or any inhabitants thereof, who are
 friends to the American caule, and warlike  
 ftores.and effefls of such settlers.” Therefor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:47.17730079388415,80.65682434468214,19.523669508967952,9.400421813799337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:47.18220131333921,80.6601720732483,19.51876898951289,9.39707408523317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -889,7 +889,7 @@ ing to any inhabitant or inhabitants of Great Bri­
 tain, taken on the high seas or between high water  
 and low water mark, and being brought into o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:67.46545133784181,29.306015868233402,19.229638341664216,4.800642763884704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795092201:0509/pct:67.46545133784181,29.306015868233402,19.23943938057434,4.810685949583208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

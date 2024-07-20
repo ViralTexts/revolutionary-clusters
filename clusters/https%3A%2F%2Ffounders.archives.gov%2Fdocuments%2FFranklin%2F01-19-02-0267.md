@@ -272,7 +272,7 @@ thereby prevent the subject from giving vent to llielr
   
 grief..&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290100:1839050701:0731/pct:28.59447004608295,46.67311100370549,23.986175115207374,2.883840824875141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290100:1839050701:0731/pct:21.461502996772705,35.00886096342839,18.003688335638543,2.1588529080070886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

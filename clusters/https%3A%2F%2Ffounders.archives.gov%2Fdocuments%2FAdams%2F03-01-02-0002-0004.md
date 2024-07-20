@@ -706,7 +706,7 @@ he ought to think ; but to think soberly, according
 as God hath dealt to every man the measure of  
 faith.&quot; “ Be not high-minded, but fear.&quot; .“Cha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847100801:0196/pct:21.736842105263158,77.29234088457389,14.070175438596491,3.708198489751888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013547:1847100801:0196/pct:21.733029293106473,77.28191991371175,14.072092615330643,3.711069165430767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -744,7 +744,7 @@ ought io think ; but to think soberly, according
 as God hath dealt to every man the measure  
 of faith. For as we have many members i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013535:1848121501:0113/pct:19.812342114760014,27.128524945770064,14.435221941537351,2.643709327548807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013535:1848121501:0113/pct:19.80876781526249,27.124847498983325,14.437127909074508,2.64673986715467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -911,7 +911,7 @@ ing as od nath dealt to every man the measure of
 fatth.&quot;  
 hese words imply that men should have som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743762:1871120401:0824/pct:242.94409738907578,173.4154126766986,46.21175716802819,12.277701778385772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743762:1871120401:0824/pct:80.98136579635859,57.80513755889953,15.403919056009396,4.092567259461925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1139,7 +1139,7 @@ home, mother, heaven. What is homo without
 a mother, and will we ever get to heaven with­  
 out precious mothers to guide and direct us? 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210168:1886061901:0427/pct:79.59100758396534,41.46627565982405,14.653304442036836,12.003910068426197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bradlaugh_ver02:data:sn82015679:00414210168:1886061901:0427/pct:79.59100758396534,41.47279244053438,14.653304442036836,12.007168458781361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1160,7 +1160,7 @@ according as God has dealt to every man the
 measure of faith.&quot; I have read three verses  
 because they cover the ground so thor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_jeffers_ver01:data:sn90059522:00175033233:1887042801:0698/pct:2.218821729150727,40.37144635816559,13.098699311400154,2.7391575015563396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_jeffers_ver01:data:sn90059522:00175033233:1887042801:0698/pct:2.218821729150727,40.374904890364526,13.108900790614639,2.742616033755274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1233,7 +1233,7 @@ soberly, according ai God hath dealt to
 every man the measure of faith.”—  
 Golden Rule
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn86092009:00514157273:1890121801:0356/pct:72.2860318636532,80.65591995553085,11.281956280103742,3.1545302946081155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_goalby_ver01:data:sn86092009:00514157273:1890121801:0356/pct:72.27264308205223,80.64471307489232,11.28449712909798,3.157565652355148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1260,7 +1260,7 @@ anberlv. according as God hath dealt to
   
 every man the measure of faith,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jones_ver01:data:sn83040592:00212473960:1890122001:0417/pct:59.63963963963964,52.965631929046566,21.554054054054053,5.557095343680709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jones_ver01:data:sn83040592:00212473960:1890122001:0417/pct:44.749887336638125,39.73115299334812,16.178458765209555,4.171286031042128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1353,7 +1353,7 @@ to every man the measure of faith,&quot; Ro
   
 mans xll:3. Airs. Hunger and Smyth 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764091:1893041901:0373/pct:86.7291414752116,92.77360581066108,12.832527206771463,2.5483195863597192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:00271764091:1893041901:0373/pct:65.08392560108877,69.58020435799581,9.632541962800545,1.9204727317493537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1394,7 +1394,7 @@ to ought to think, but to think soberly accor
 ing as God hath dealt to every man the mea  
 &gt;d ure of faith.&quot; In the matter of salvati
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287186:1893101801:0326/pct:69.37931034482759,21.13760290815781,13.869731800766283,2.5980968673153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287186:1893101801:0326/pct:69.38952745849298,21.13760290815781,13.864623243933588,2.6087886239709186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1414,7 +1414,7 @@ ought to think, but to think soberly ac­
 cording as God hath dealt to every man the  
 measure of faith.” In the matter of salva
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1893102101:0170/pct:35.87570621468927,43.67163785139237,9.92231638418079,2.2040385376798204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1893102101:0170/pct:35.8693733451015,43.6658749010293,9.924977934686673,2.207046714172605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

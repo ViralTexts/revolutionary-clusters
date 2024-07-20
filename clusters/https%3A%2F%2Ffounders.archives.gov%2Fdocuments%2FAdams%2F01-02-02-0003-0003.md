@@ -429,7 +429,7 @@ angels and in the presence of the Lamb.
 Rev. xiv, 10.  
 To be cast into hell, into the fire tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556527:1873082301:0346/pct:51.39300533491405,130.4265402843602,40.36751630112626,40.23696682464455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294556527:1873082301:0346/pct:12.850155624722099,32.60663507109005,10.093374833259226,10.059241706161137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -623,7 +623,7 @@ chapter of ltevelations, wherein it is said
 And the great dragon was cast out--that old  
 serpent called the devil.&quot; Indeed, millions o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887050101:0881/pct:230.97412480974126,190.12383427610456,51.36986301369863,24.95031340773582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044905:1887050101:0881/pct:57.765511990864105,47.53095856902614,12.847354396650172,6.237578351933955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ Re is the man with an evil spirit. The
 serpent that tempted Eve was not a  
 snake that crawled on his belly, bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663625:1895112301:0079/pct:2.5413186422605296,66.46036657938586,14.110538475208815,7.414901213996667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_arneaux_ver02:data:sn82016211:00211663625:1895112301:0079/pct:2.5472424619394585,66.46433388875664,14.104614655529886,7.418868523367452/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -795,7 +795,7 @@ Jude
 And the angels which kept not their first es  
 tate, but left their own habitation, he hath r
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534746:1897072401:0423/pct:153.58660998937302,240.3157255616272,37.53985122210415,16.57559198542805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_griffith_ver01:data:sn83045555:206534746:1897072401:0423/pct:51.20914164230667,80.10524185387574,12.516609088493224,5.525197328476017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

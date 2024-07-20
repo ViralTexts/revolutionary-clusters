@@ -85,7 +85,7 @@ stacle in anv manner, it is mv deliberate will
   
 that the present
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821022701:0388/pct:36.777526638682595,55.75020855678704,14.14271876009041,11.202478846383029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821022701:0388/pct:36.77158999192898,55.74356530028599,14.145816518697874,11.205115983476327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ change of the ratifications in the 16th article
 may afford no obstacle in any manner, it is my  
 deliberate will&#x27; that the present ratification b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821030601:0246/pct:39.70922308041799,62.16466234967623,17.355747387551112,9.538493164765136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821030601:0246/pct:39.70922308041799,62.17151471545551,17.36079559796052,9.535066981875493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ of those presents, I approve and ratify them ;
 promising, mi the faith and word of a King, to  
 execute and observ e them, and cause them t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821040301:0049/pct:42.81594126900892,67.3297751900372,17.22600943890928,6.808992398512049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821040301:0049/pct:42.804718217562254,67.31888745148771,17.228047182175622,6.811934023285899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

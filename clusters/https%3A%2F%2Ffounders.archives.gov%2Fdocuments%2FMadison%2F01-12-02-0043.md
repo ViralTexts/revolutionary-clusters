@@ -160,7 +160,7 @@ ers, and partly to(it.zens oj the fa, J Jlatesat the rate of &#x27;
 Un al/vej/e/s belonging zuho/yi or part to the fib e.ls of other pow­  
 ers, at the rate of J J J 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789041501:0002/pct:67.31050629206906,46.484962406015036,26.13403570383377,16.033834586466167/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789041501:0002/pct:67.33245537020778,46.48966165413534,26.13403570383377,16.029135338345863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ States at the rate of
 in part to the {ubjeéts of other powers,  
 in the rate of ¢ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789042201:0374/pct:51.38987883107627,4.237693165524933,42.31408885721074,87.65333758164728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1789042201:0374/pct:51.40571790607429,4.237693165524933,42.31408885721074,87.66395836652329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ the rate of thirty cents per ton.
 On oil vessels belong wholly or in part to fubje£ls of other pow­  
 ers, at the rate of fifty cents per ton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789042501:0002/pct:43.50940017905103,37.006079027355625,26.768128916741272,14.152735562310031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789042501:0002/pct:43.531781557743955,37.02032674772037,26.753207997612652,14.162234042553191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ which appears to me to be of the greatest magui­
 tude; a subject, sir, that requires our first attention,  
 and our united exertions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842021701:0276/pct:89.37996820349761,84.42193503318198,39.17329093799682,5.774828268715799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842021701:0276/pct:29.788586870131933,28.137369033760187,13.055688019922641,1.924718665114474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ e oe aeeo
 as it respects our agriculture, our mhanulac.  
 and commerce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1842030301:0037/pct:91.96347031963471,253.6482623740033,60.730593607305934,58.67308560252746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1842030301:0037/pct:22.996117835122174,63.41206559350083,15.186115551495774,14.668271400631864/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -662,7 +662,7 @@ tion which formed the Constitution, said, tion was the true policy of this count
 &quot;I earnestly wish for such a system as that time would show it, but we did not  
 will be some way adequate to our present expect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1842040701:0058/pct:181.76156583629893,272.8296296296296,120.1067615658363,34.370370370370374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:0041566770A:1842040701:0058/pct:45.45050055617352,68.2074074074074,30.03337041156841,8.592592592592593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -742,7 +742,7 @@ United Siates, at the rateol ; on all vessels
 belonging wholly or in part to the subjects ol  
 other Poweis, at the rate o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848062001:0219/pct:3.3263723150357993,25.57182505502919,14.30489260143198,9.608574983251986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848062001:0219/pct:3.3263723150357993,25.57182505502919,14.30986475735879,9.618145277060005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ relates to revenue al ,ne; and this is the point 1
 mean more particularly to bring into tae view  
 of the committee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848062001:0219/pct:3.6694510739856803,55.670399081251794,13.872315035799522,3.560149296583405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848062001:0219/pct:3.6694510739856803,55.6735891791878,13.877287191726333,3.563339394519412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -802,7 +802,7 @@ gars--; on cecoa and coffee--; on all other articles
 per cent, on their value at the time and place  
 of importation. Such was the beginning of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:00200292364:1874082801:0702/pct:158.14931650893797,41.090425531914896,65.29968454258675,8.377659574468085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_eadweard_ver01:data:sn85034076:00200292364:1874082801:0702/pct:39.5477254798843,10.272606382978724,16.329213778595847,2.0944148936170213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -825,7 +825,7 @@ and lawfurly condemned as prizes, which may be adjudged
 to be forleited for a breach of the laws of the United  
 States, being wholly owned by citizens, and no others, ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174402A:1878052201:0691/pct:11.511743301356269,83.14670932358318,45.980813761164406,10.146252285191956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174402A:1878052201:0691/pct:3.837247767118756,27.715569774527726,15.326937920388135,3.3820840950639854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ tions.&quot; On the 9th the subject was re­
 sumed. The lengthy discussion which took  
 place was mainly as to the application o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101908:1880110301:0448/pct:272.6515151515151,112.42896692408567,48.76893939393939,15.212006411190442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101908:1880110301:0448/pct:68.17579086948285,28.107241731021418,12.194544421291912,3.8030016027976106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,7 +929,7 @@ nations will admit. The second relates to revenue
 alone, and this is the point I mean more particu­  
 larly to bring into the view of the committe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883072101:0142/pct:83.33333333333333,55.60022975301551,56.857638888888886,30.844342331993108/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211101970:1883072101:0142/pct:20.837855437377904,13.900057438253878,14.217495116127632,7.711085582998277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -954,7 +954,7 @@ relates to revenue alone, and this is tho poin
 I meun more particularly to bring into th  
 view of the committee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00280775861:1883081501:0786/pct:106.54481132075472,44.29449692607587,15.821540880503145,5.0832208726945565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00280775861:1883081501:0786/pct:79.960668633235,33.228370070475336,11.878072763028515,3.8086669665617032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1089,7 +1089,7 @@ the committee.&quot; .Msttlson then sug
 rested an impost bill which consisted  
 of three classes of articles. The firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295912:1891082101:1107/pct:181.87633262260127,195.89302769818528,55.93461265103056,53.34288443170965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295912:1891082101:1107/pct:45.47716367513773,48.97325692454632,13.986138261951305,13.335721107927412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

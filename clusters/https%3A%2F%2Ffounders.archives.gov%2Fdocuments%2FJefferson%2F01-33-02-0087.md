@@ -78,7 +78,7 @@ compofe it: and to tender them my cordial
 and refpe&amp;ful Adieu.  
 TH. JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801030201:0002/pct:2.654632333421821,13.288288288288289,24.18370055747279,36.663449163449165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801030201:0002/pct:2.6723298823113,13.2990132990133,24.16600300858331,36.65808665808666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ tions hete it has been my conscientiom en.­
 &#x27;ssdsieavor, to observe impar&#x27;rial justice, with.  
 Root regardssto person: or subject; : md&#x27;if I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801030301:0289/pct:48.059508408796894,77.12594746132281,22.018111254851227,14.609074862423425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801030301:0289/pct:48.053291941534084,77.11794019933555,22.01957487172854,14.611018826135105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ compose it : and to tender them my cor­
 dial and respectsul Adieu.  
 , . . ,_ T-H. JEFFERRSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801030301:0289/pct:70.69857697283312,12.210570034264355,22.78137128072445,23.995431419374935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215981:1801030301:0289/pct:70.68943215625404,12.209302325581396,22.78273617039624,23.99640088593577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ tender them my cordial and refpe&amp;ful
 Adieu. %  
 TH. JEFFERSON, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801031701:0464/pct:60.0,6.404418176533282,32.788388082505726,89.29367309369248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801031701:0464/pct:60.010185892538836,6.407647837741821,32.79348102877515,89.29367309369248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -288,7 +288,7 @@ wiflies for the health and happinef-. cf the individuals
 who compofe it : and to tender them my cordial and  
 rcfpctflful adieu. THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801032301:0563/pct:3.5645472061657033,10.57126370455857,44.566473988439306,83.86612810155799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895059:1801032301:0563/pct:3.56386052783664,10.570043849526886,44.562704681178964,83.8593353334872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ formly received, and to congratulate the senate o
 tion proved any thing, it would prove too much;  
 for if Mr. Jefferson here used the word “um
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826081701:0677/pct:42.66467065868263,40.614220540781126,17.548236859614104,6.5872927562034045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826081701:0677/pct:42.65757525361716,40.6097018246551,17.55086202117634,6.590268506156357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

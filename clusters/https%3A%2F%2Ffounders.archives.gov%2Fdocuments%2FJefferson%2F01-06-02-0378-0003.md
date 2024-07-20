@@ -223,7 +223,7 @@ was too limited to be useful; and when the increase
 af the masl sarvics, before the adeption of the cone  
 of the Unitea States, is compared with it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851120301:0879/pct:54.958203573184726,274.9544211485871,52.925749877069336,14.813126709206928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:0027174304A:1851120301:0879/pct:18.319401191061573,91.65147371619568,17.641916625689777,4.937708903068976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ tive, for about eighty years, no discovery was
 made of the existence of the legislative power  
 of appointment in the Congress of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102007:1885021801:0211/pct:151.28006206361522,192.95857988165682,44.685802948021724,28.402366863905325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:00211102007:1885021801:0211/pct:37.84203376673782,48.239644970414204,11.17795458955948,7.100591715976331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ lished an executive branch, and gave to the
 President this power: &quot;He shall nominate,  
 and, by and with the advice and consent o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886021301:0182/pct:105.29141104294479,212.61206503570887,42.94478527607362,27.35146634250114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn86053573:00211102020:1886021301:0182/pct:26.322852760736197,53.15301625892722,10.736196319018404,6.837866585625285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -73,7 +73,7 @@ in articles contraband of war and enemies
 property which are seizable without block­  
 ade ” And Mr. Monroe, in announcing thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812061801:0560/pct:8.323406789755808,34.43340322727687,21.783799880881478,2.2335673261008298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812061801:0560/pct:8.322167634360577,34.430264357338196,21.785519329065554,2.2364023093284717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -107,7 +107,7 @@ trrbuted by active measures to excite against
 us the hostility of the Savage tribes on our  
 frontiers, your committee are not disposed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812062201:0572/pct:76.9185360094451,24.36754607878569,21.310507674144038,3.469461510661366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216158:1812062201:0572/pct:76.90718607053269,24.365344656247178,21.312281737248536,3.4721594844460504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ tributed by active measures to excite against
 us the hostility of the Savage tribes on our  
 frontiers, yoor committee are not dipnsed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062201:0193/pct:39.14250998090609,85.1926021910708,16.50755077243534,1.7316527270585464/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812062201:0193/pct:39.13571676501215,85.18256772673733,16.510470901307418,1.7353749509226541/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ frontiers, yoor committee are not dipnsed t
 Whether the British government has contributed by active ineasures to excite against us  
 the hostility of the Savage tribes on our fromiers, your committee are not dispoesed to occu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812070801:0649/pct:7.241211728495059,49.24933765086841,44.41924509962741,1.3737611618094396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812070801:0649/pct:7.24661158809871,49.24933765086841,44.41384524002376,1.3737611618094396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ secret m Mions to fever the Union, the mury
 der of ouc defence&#x27;efs citizens on the fren­  
 tiers, only tend to “ fill up the pi@ur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812071401:0323/pct:7.061847875396945,26.650148662041627,16.588537728716165,16.669970267591676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812071401:0323/pct:7.071929028680881,26.656755863891643,16.5986188820001,16.669970267591676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

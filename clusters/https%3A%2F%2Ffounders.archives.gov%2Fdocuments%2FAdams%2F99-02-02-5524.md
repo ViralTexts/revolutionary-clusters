@@ -359,7 +359,7 @@ you more of the remaining papers relative
 to this subject.  
 JOHN ADAMS.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810052201:0020/pct:6.193408185440058,2.6209430496019595,35.512495472654834,92.369871402327/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810052201:0020/pct:6.19228680065182,2.6206220915993144,35.512100911340454,92.36264184831415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1104,7 +1104,7 @@ the remaiuing papers relative to this
 autlject.  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810061501:0195/pct:22.935089369708372,11.757269279393173,71.83443085606773,80.78381795195955/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810061501:0195/pct:22.930775018811136,11.755783086841108,71.82718836217708,80.77781991320103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1138,7 +1138,7 @@ will no doubt prevent the fatal consequences of
 the French republican system, w hich Montes*  
 quieu calls extreme liberty.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810062201:0057/pct:39.83754512635379,3.6798639786252125,17.581227436823106,10.541656546028662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810062201:0057/pct:39.83035553149251,3.6794171220400727,17.58407026409192,10.544424205626392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1200,7 +1200,7 @@ Inuulsbed I by his activity his eloquenceand
 tnlulhd  
 bo extent of his atlnlnments and la entitled t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044954:1891050301:0056/pct:179.20868890612877,289.22702373706636,51.82311869666408,39.54656116859404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044954:1891050301:0056/pct:44.80217222653219,72.30675593426659,12.95577967416602,9.88664029214851/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1224,7 +1224,7 @@ beginning by great and generous deeds lay deep
 and firm the foundations of lasting accord be­  
 tween its rising empires.&quot; The author of thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895031701:0034/pct:281.61189358372457,217.94441050702505,52.50391236306729,19.257788637751986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895031701:0034/pct:70.40297339593114,54.486102626756264,13.125978090766823,4.8144471594379965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1254,7 +1254,7 @@ intimated to you, England will at Philadel­
 phia open herself to and ask the cooperation of  
 the United States.&quot; In a letter to Hamilto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895031701:0034/pct:281.2206572769953,262.91997556505805,52.42566510172144,30.97128894318876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895031701:0034/pct:70.30516431924883,65.72999389126451,13.10641627543036,7.74282223579719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

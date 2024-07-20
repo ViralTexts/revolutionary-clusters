@@ -276,7 +276,7 @@ elation was the omnicience of God?&quot;Ihave i
 et the Lord always before me; because he is &lt;  
 iver at my right hand I shall not be moved.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862737:1870052601:0248/pct:50.03494060097834,9.647561409754362,12.12438853948288,1.913492346030616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862737:1870052601:0248/pct:50.03494060097834,9.653494719354455,12.128270828480472,1.913492346030616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ can breast any earthly storm and bid
 defiance even to the gates of hell. Said  
 the late W. H. Vanderbilt: &quot;I am th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777699:1886051201:0150/pct:316.6376306620209,199.46198499221293,57.926829268292686,37.547784227665296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn86071719:00280777699:1886051201:0150/pct:79.15940766550523,49.86549624805323,14.481707317073171,9.386946056916324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ hand, I shall not be moved. Chris
 tian at Work.  
 Young sinners, when breakin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194412:1886052401:0505/pct:22.915531335149865,49.28394118770289,14.550408719346049,4.019476799694481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022871:00202194412:1886052401:0505/pct:17.19580324294863,36.96772961619248,10.914293500476905,3.016994462478518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ church the sacrament of the Lord&#x27;s
 supper was observed In the morning.  
 and three new members were added t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478088:1895070801:0065/pct:36.80408738548273,86.57297898984277,14.570119802677942,5.523862529567274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:00212478088:1895070801:0065/pct:27.61720126894607,64.93669124808682,10.927035600986958,4.146375400027828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ the wilderness like a flock.&quot;
 Having explained the character and  
 office of the Good Shepherd toward
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:00206536883:1895101401:0437/pct:73.72799112713157,41.78926871484206,10.702897546097324,2.2392903504976203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_sebeka_ver01:data:sn90059522:00206536883:1895101401:0437/pct:73.72799112713157,41.78926871484206,10.702897546097324,2.246502235684408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -601,7 +601,7 @@ ist: &quot;I have set the Lord always before me, because
 He is at my right hand I shall not be moved. And  
 in the darkest hours of all human expertence whe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038899:1896021701:0309/pct:57.2634312611589,255.85412667946258,47.78445057620516,9.14530879530315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038899:1896021701:0309/pct:19.0878104203863,85.28470889315419,15.928150192068387,3.04843626510105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

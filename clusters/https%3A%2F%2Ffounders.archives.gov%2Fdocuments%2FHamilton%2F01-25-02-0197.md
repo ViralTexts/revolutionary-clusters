@@ -168,7 +168,7 @@ and that although the Britifh fleets and ar-j
 mies have left our fliores, yet that they jj  
 have left their mantle behind, and that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801031301:0004/pct:6.832145490292455,25.48221820373719,22.044728434504794,14.572031344183243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801031301:0004/pct:6.848529532235602,25.48724131002612,22.028344392561646,14.572031344183243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1434,7 +1434,7 @@ fluential tn the anti-Federal party. It is also cer­
 tain that the meature has never been a favorite of  
 a majority of the Federal party.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870011301:0002/pct:50.628871785244975,46.36177903504636,9.048244790688942,3.4417727487034417/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lake_ver02:data:sn82014064:no_reel:1870011301:0002/pct:50.642951004317624,46.36963696369637,9.043551717664727,3.4496306773534497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

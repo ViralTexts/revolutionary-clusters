@@ -57,7 +57,7 @@ the werld,” that ¢ the people «f England have
 delegated their wiole power, o King Lords and  
 Commons, cven the power of allering the Consti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827082101:0342/pct:39.10323253388947,15.857928964482241,32.5785788768062,77.72886443221611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1827082101:0342/pct:39.10819802373504,15.864598966149742,32.58354436665177,77.72552943138236/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ the same is inconsiderable, they are of the
 opinion that a precedent be not established.  
 In the appointment of Benjamin Franklin t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175045156:1894092301:0541/pct:76.38680659670165,301.1592434411226,49.62518740629685,23.36790726052471/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175045156:1894092301:0541/pct:19.09670164917541,75.28981086028065,12.406296851574213,5.8419768151311775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ mitted, and, though the same is in­
 considerable, they are of the opinion  
 that a precedent be not established.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gecko_ver01:data:sn84020558:00202192154:1894121201:0090/pct:55.669546436285096,112.18607786954323,21.868250539956804,11.680431484914882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gecko_ver01:data:sn84020558:00202192154:1894121201:0090/pct:41.77693761814745,84.13955840215742,16.392114501755334,8.764537333558065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ considerable, they are of the opinloi
 that a precedent be not established.&quot;  
 T&#x27;hy Hall Hat a Bed Rag&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1895010301:0742/pct:66.14447345517841,95.46370967741936,19.016536118363796,11.93836405529954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_audi_ver01:data:sn86088296:00200297507:1895010301:0742/pct:49.61915125136017,71.60138248847926,14.276387377584332,8.9573732718894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ of the accompiarit&#x27;s son can le ad­
 mitted, and, though the same K la­  
 considerable, they are f the opinio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jughead_ver01:data:sn89066489:00294556679:1895011001:0222/pct:83.93258426966293,102.10122902074798,18.651685393258425,6.501916215144707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jughead_ver01:data:sn89066489:00294556679:1895011001:0222/pct:62.982390408392654,76.58252940399102,13.994005245410266,4.87643716135853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -313,7 +313,7 @@ I fear I shall make you repent of bring
 in* out the old gentleman.  
 JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818042501:0694/pct:7.060825180774138,3.823991618648507,55.2956188855806,90.24358302776322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818042501:0694/pct:7.059323835849458,3.823490899567893,55.2909490396201,90.23613111605779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ inense crowded audience appeared to tne logo away, I
 1 he “immense crowded audience,” it is probable,  
 : left the hall with no impressions beyond the particula
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826112401:0285/pct:58.22347771500314,16.22614673462131,17.937853107344633,6.341116510608036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826112401:0285/pct:58.21434175427585,16.22422374970372,17.940268842512683,6.344315398593664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1107,7 +1107,7 @@ can see no foundution for such a writ. But as the practice in England
 is not known, it has been thought best to continue the question to the  
 noxt term, that in the mean time opportunity may be given to kno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041001:0001/pct:239.43524829600779,109.20356111645813,58.730931515741645,18.02213666987488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041001:0001/pct:79.8117494320026,36.40118703881938,19.57697717191388,6.007378889958293/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1134,7 +1134,7 @@ to foundation for such a writ. But as the practice in England
 is not known, it has been thought best to continue the question to the  
 next term, that in the mean time opportunity may be given to kno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041201:0008/pct:179.76825455214274,234.96727832670345,57.99153945190362,17.207750545361222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030212:00206530157:1841041201:0008/pct:59.92275151738091,78.32242610890115,19.33051315063454,5.735916848453741/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ there the child Independence was horn. In
 fifteen years (i. e.) in 177t&gt; lie grew up to  
 manhood, and declared himself free
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082162:00514159324:1848072901:1092/pct:8.319023087197099,24.009486607142858,19.194810150734593,13.295200892857142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn87082162:00514159324:1848072901:1092/pct:6.452089905362776,18.6110210112805,14.880717665615142,10.300212635600245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1535,7 +1535,7 @@ the first act of oppositiont o the arbitrary claims of
 Great Britain. Then and there the child Indepen  
 dence was born. In fifteen years he grew up t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn96091000:00212470223:1857071001:0034/pct:185.9822824387702,198.33883718603022,47.88952579468473,7.965575903132192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn96091000:00212470223:1857071001:0034/pct:46.513749511273296,49.584709296507555,11.977062426690994,1.991393975783048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1616,7 +1616,7 @@ ferson the &quot;Colossus of debate&quot; on the
 floor of the Continental Congress. But  
 he admits that the birth of our independ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1858081101:0167/pct:127.05272255834053,237.3134328358209,60.93344857389801,69.0585533869116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477837:1858081101:0167/pct:31.783783783783782,59.32835820895522,15.243243243243244,17.2646383467279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1700,7 +1700,7 @@ there was the trl scue of the first act it opposition lo ihe
 arbitrary claims of Great Britain. Tben aud there tiie  
 child Independence w as born.-&#x27; (J. Adams1 Work, vel. a.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866022001:0032/pct:88.7888956680903,87.0697896749522,16.96156192800488,2.617112810707457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866022001:0032/pct:66.61580714067745,65.3083173996176,12.725053402502288,1.9598470363288718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1740,7 +1740,7 @@ the air with their sweet perfumes, or­
 nate the grounds. Last, but not  
 least, is an observatory in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022135:1868021801:0036/pct:82.37015362106803,255.4441052478558,56.2545720555962,60.706498037505455/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022135:1868021801:0036/pct:20.600073179656057,63.86102631196395,14.06878887669228,15.176624509376364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2002,7 +2002,7 @@ and there was the first scene of the first great
 act of opposition to the arbitrary claims of Great  
 Britain.” Treating the drama of which h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070601:0626/pct:65.66102997694081,92.92110874200426,14.008455034588778,5.458422174840085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070601:0626/pct:50.89103996028791,72.01454171562867,10.856291883842145,4.233989424206816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2130,7 +2130,7 @@ of opposition to the arbitrary claims of
 Great Britain; then and there the child in­  
 dependence was born.&quot; Here Gen. Gag
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00175035254:1882092401:0368/pct:15.358931552587647,20.29908052945337,13.202559821925432,4.546832373446499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_blaine_ver01:data:sn83025287:00175035254:1882092401:0368/pct:15.358931552587647,20.3024485534337,13.21183453904656,4.55356842140716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2266,7 +2266,7 @@ was then and there born. The seeds of patriots
 and heroes to defend the vigorous youth were  
 then and there sown.” Not without God; no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173460:1887060301:0179/pct:82.10155857214681,11.943874058863791,14.881850175967823,1.89368012776637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173460:1887060301:0179/pct:82.08780160857908,11.942511691570664,14.884941912421805,1.8972662636401658/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2485,7 +2485,7 @@ of opposition to the arbitrary claims of
 Great Britain. Then and there the  
 child Independence was born,&quot; but th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031091:1893012901:0134/pct:18.025965379494007,215.1662192855668,39.78029294274301,8.765228164360932/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_heart_ver01:data:sn85038614:00175031091:1893012901:0134/pct:6.008655126498002,71.72207309518893,13.260097647581004,2.9217427214536444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2615,7 +2615,7 @@ the first act of opposition to the arbitrary claims
 of Great Britain. Then and there the child In­  
 dependence was born.&quot; None of Otis&#x27;s speeche
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896080902:0895/pct:183.8781575037147,286.2211347300811,49.47994056463596,28.995259213947087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896080902:0895/pct:45.986622073578594,71.55528368252027,12.37458193979933,7.248814803486772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2637,7 +2637,7 @@ there was the first scene of the first act
 of opposition to the arbitrary claims of  
 Great Britain.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00340587935:1897082101:0345/pct:57.21649484536083,48.77695759154726,12.848415425735013,4.009263279779997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00340587935:1897082101:0345/pct:57.2055735827448,48.769898697539794,12.85073487306738,4.012301013024602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2918,7 +2918,7 @@ stantly heard in the old state house, in
 the Old South and in Faneuil Hall. His  
 death wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898080601:0423/pct:27.352123858674076,25.68591784144308,10.93687971417229,8.731241473396999/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_gargoyle_ver02:data:sn92063989:00514153437:1898080601:0423/pct:27.352123858674076,25.68591784144308,10.940187905253408,8.736294275175585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

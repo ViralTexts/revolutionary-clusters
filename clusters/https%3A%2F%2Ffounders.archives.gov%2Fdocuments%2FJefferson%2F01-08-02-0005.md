@@ -78,7 +78,7 @@ the &#x27;aws and judges of the land wherein the
 said gouds are. And where on the death of  
 any person holdin’ real estate within
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840092301:0026/pct:34.87573802004668,70.2369297043274,14.156254290814225,5.365185040140983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1840092301:0026/pct:34.87573802004668,70.24345669342732,14.165408027827361,5.368448534690947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ tate within the territ ry of one party, such real
   
 estate would by the law of the and descend on a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_ely_ver01:data:sn84022040:00415668314:1869072801:0091/pct:301.99778024417316,294.84218629715167,69.14539400665927,23.017705927636644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_ely_ver01:data:sn84022040:00415668314:1869072801:0091/pct:75.56234379339072,73.71054657428792,17.30074979172452,5.754426481909161/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

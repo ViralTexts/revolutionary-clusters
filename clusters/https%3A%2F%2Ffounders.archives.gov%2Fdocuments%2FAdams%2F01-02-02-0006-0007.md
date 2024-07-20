@@ -98,7 +98,7 @@ ion of the representatives of the people as would
 best conduce to the happiness and safety of their  
 constituents in particular, and America ingenera
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843051901:0280/pct:103.77046717740724,55.05734063436305,48.70061589304491,20.828597995660708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843051901:0280/pct:34.59015572580241,18.352446878121018,16.233538631014973,6.94286599855357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ America in general.” In the pream­
 ble to this resolution (adopted five  
 days later,) it was declared that “I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85025540:00513685051:1876052701:0450/pct:33.025664115263396,23.00031615554853,14.362899594777128,5.801454315523237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85025540:00513685051:1876052701:0450/pct:33.018230925050645,22.996680891417732,14.36529372045915,5.804488699225542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -314,7 +314,7 @@ minion of the representatives of the people,
 best corsduce to the happiness and safety of their  
 and America in particular
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876070401:0028/pct:200.27955928301267,118.56447124304268,47.29485282025983,23.144712430426715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:00206531265:1876070401:0028/pct:66.75985309433756,39.52149041434756,15.764950940086608,7.714904143475572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ such government as should in the opinion of the rep
 resentatives of the people best conduce to the hap  
 ness and salety of their constituen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877073101:0368/pct:15.26032315978456,224.12043301759135,48.53925248898319,13.351375732972485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_crowfoot_ver01:data:sn83030313:00271743968:1877073101:0368/pct:5.086774386594853,74.70681100586378,16.179750829661064,4.450458577657495/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

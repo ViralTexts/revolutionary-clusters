@@ -209,7 +209,7 @@ tleman whose fame in time was to
 extend throughout tho world as the  
 author of the Declaration of Inde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1876072101:0116/pct:55.987581312832646,24.479407681628874,9.979302188054406,6.200832947709394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn84027186:00279528918:1876072101:0116/pct:55.997437413759116,24.483263921024218,9.979302188054406,6.208545426500077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ totally frustrated by Miss&#x27;R. B&#x27;s marrl­
 ple here tell me they daily expect.  
 Well, the Lord bless her, I say!&quot; Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:0028076811A:1878090801:0346/pct:6.629482071713148,67.33662822624932,13.54581673306773,3.514552443712246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:0028076811A:1878090801:0346/pct:6.6401062416998675,67.34395021050705,13.54581673306773,3.52187442796998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ age with Jacqulin Ambler which the peo­
 ple here tell me they daily expect.  
 Well, the Lord bless her, I say!&quot; Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479317:1878091201:0330/pct:27.857545045045047,58.621819373157145,10.72635135135135,3.188817298241782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_golf_ver01:data:sn85025620:00212479317:1878091201:0330/pct:27.857545045045047,58.621819373157145,10.735735735735735,3.203378107822795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -282,7 +282,7 @@ age with Jacqulin Ambler which the peo­
 ple here tell me they daily expect.  
 Well, the Lord bless her, I say!&#x27;&#x27; M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1878091201:0080/pct:29.010531471956895,58.4377732439522,10.555963752143033,3.2837850966676383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_quasar_ver01:data:sn85025431:00212479743:1878091201:0080/pct:29.010531471956895,58.4410116907931,10.564127683892563,3.2870235435085333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -303,7 +303,7 @@ age with Jacqulin Ambler which the peo­
 ple here tell me they daily expect.  
 Well, the Lord bless her, I say!&quot; Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042404:00212478702:1878091201:0054/pct:28.257575757575758,79.2101067091868,16.174242424242426,4.15797865816264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_hazen_ver01:data:sn85042404:00212478702:1878091201:0054/pct:28.26388888888889,79.21828365836706,16.193181818181817,4.149801708982379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ age with Jacqulin Ambler which the peo­
 ple h re ti-li me they daily &#x27;-Xpert. ■  
 Wed, the Lord bless her. I say!’ Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152391:1878091201:0148/pct:5.744622924040294,55.2549889135255,9.978219439150559,2.915742793791574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_galky_ver01:data:sn85033255:00514152391:1878091201:0148/pct:5.744622924040294,55.25868440502587,9.99183228968146,2.915742793791574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ age with Jacqulin Ambler which the peo­
 ple here tell me they daily expect.  
 Well, the Lord bless her, I say!” Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878091901:0382/pct:25.007878978884335,18.49670122525919,12.574850299401197,3.652214891611687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn85025587:00383346794:1878091901:0382/pct:25.013131631473893,18.49670122525919,12.580102951990755,3.656142004398366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -155,7 +155,7 @@ In the G2d NT&#x27;*. speaking of the concur­
 rent jurisdiction of th ? different courts,  
 he adds, “
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819071401:0416/pct:25.437511048258795,4.29898466191402,35.69029520947499,91.12119248217758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216250:1819071401:0416/pct:25.433015199717214,4.29852035857004,35.68987863791681,91.11495121863412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -175,7 +175,7 @@ milled to that frltiiinul which, having no local
 attachments, will lie likely to be impartial between the  
 different stales and their citizens,&quot; (viz. the federa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820121201:0261/pct:33.60750123375555,85.70042449969678,14.657015956571804,2.462098241358399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820121201:0261/pct:33.60197368421053,85.690031530439,14.660087719298245,2.4658420244158785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ latter « an be considered to have the
 human nature inhibit* abundant evi­  
 dence of the liability of mankind to be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821013001:0341/pct:34.05868776788658,71.79239589619795,14.704912627761292,8.28002414001207/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1821013001:0341/pct:34.0530740069227,71.78373159546223,14.707983077852866,8.28304771099847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ thing like uniformity or decision, no­
 thing like settled principles, could ever  
 be at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825072801:0355/pct:53.37658017298736,5.677533821246396,30.15635395874917,90.85163007318695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216341:1825072801:0355/pct:53.36770330949609,5.676904313116753,30.156882310549364,90.84525261485012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ tablishing Courts with powers embra­
 cing these subjects, nothing like uniform  
 mity of decision, nothing like settle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825080201:0134/pct:3.400774860094705,5.575234868319729,25.721050365906155,91.12890805482827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn84024505:00542866962:1825080201:0134/pct:3.400043038519475,5.574376347397598,25.720895201205078,91.11872497690176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ Suppose Congress should enact an unconstitu­
 tional law, either with or without the approbation  
 of the President, enlarging or restraining the pov
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841101101:0406/pct:318.32963784183295,209.60174577195855,56.39320029563932,13.2569558101473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841101101:0406/pct:79.61182994454714,52.40043644298964,14.10351201478743,3.314238952536825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ when disputes arise upon the question, what it
 is? he should submit that question, for adjudica­  
 tion, in the same mode as the meanest of his fel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841101101:0406/pct:318.1818181818182,222.80414620840153,56.76274944567628,30.22367703218767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1841101101:0406/pct:79.57486136783734,55.70103655210038,14.195933456561923,7.555919258046917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -581,7 +581,7 @@ and prudent provisions for arresting the evils unprof
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1847-04_5_4/page/n21/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1847-04_5_4/page/n21/mode/1up?view=theater)
 
 #### 1847-04-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -643,7 +643,7 @@ wefl as witl? individuals that the judicial power of the
 Union extends, according to the authors of trie Federal.  
 (?t. who were not seeking to enlarge tbe powers grante
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850062201:0731/pct:20.401174168297455,61.74361554912568,15.851272015655578,4.83079632658196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850062201:0731/pct:20.401174168297455,61.74361554912568,15.873015873015873,4.839183125760053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ the General Government with the States, as well as with indi­
 viduals that the judicial power of the Union extends, ac­  
 cording to the authors of the Federalist, who were not seekin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850062901:0266/pct:48.569424964936886,48.72781697669446,16.199158485273493,4.981825956809921/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850062901:0266/pct:48.569424964936886,48.73138051457487,16.203833567087425,4.985389494690328/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ Now, sir, who are the members of this confederated Union
 but tbe 8tates of the Union ? It is then to controversies of  
 the General Government with the States, as well as with indi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850062901:0267/pct:49.10852169029903,48.76979032948224,15.920258318124386,3.990158322635858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1850062901:0267/pct:49.10852169029903,48.76979032948224,15.934297346623614,4.000855798031664/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -722,7 +722,7 @@ he United State, i. the rightful and final judge of the ex­
 atence, conduction, and effect of every law which may be  
 naterial in the trial of any criminal case; and not on 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851112201:0851/pct:1.942810233958134,60.461390579942325,15.309891914078534,4.496422086937947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851112201:0851/pct:1.942810233958134,60.46851080494144,15.319013088885848,4.492861974438393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ axioms, the propriety of the judicial power of
 government being co-extensive with its leg­  
 slative, may be ranked among the number
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861031401:0163/pct:25.26610644257703,187.1637459537895,34.78991596638655,6.295345462663244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861031401:0163/pct:6.317411402157165,46.79093648844737,8.698697296540132,1.573836365665811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -954,7 +954,7 @@ versies between the nation&#x27; and its members
 can only be properly referred to the nation­  
 al tribunals.&quot; And further on, in the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863052801:0094/pct:24.35719249478805,78.83714880332987,19.266851980542043,3.3298647242455774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863052801:0094/pct:18.279756733275413,59.13111342351717,14.456993918331886,2.497398543184183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ institution in appeasing the disorders and
 establishing the tranquility of the empire:  
 this was a court established to decide finall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863052801:0094/pct:24.35719249478805,82.37513007284079,19.35371785962474,8.506763787721123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195234:1863052801:0094/pct:18.279756733275413,61.784599375650366,14.509122502172024,6.386576482830385/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1186,7 +1186,7 @@ Thero havo been those of eminent
 ability who maintain the right of Stato  
 or private interpretation and construc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026844:00202190765:1865092301:0281/pct:37.50554815801154,59.336609336609335,12.272525521526854,7.6693576693576695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026844:00202190765:1865092301:0281/pct:37.52219263204616,59.34977184977185,12.261429205503772,7.6693576693576695/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1250,7 +1250,7 @@ tho Federalist, remains the same.
 be properly referred to the national  
 tribunals. Any other plan would
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016739:00295877534:1867051101:0670/pct:39.85629754860524,5.902192242833053,16.990701606086223,9.412846849609075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn83016739:00295877534:1867051101:0670/pct:29.92175935715796,4.430476774490265,12.75111017128357,7.067300321937759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1296,7 +1296,7 @@ make the law under which he is held to
 answer, can be considered. The refusal  
 of Congress to abide the decision, and it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868012601:0092/pct:23.304093567251464,36.92001767565179,14.181286549707602,23.46442775077331/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038521:0020029337A:1868012601:0092/pct:17.490494296577946,27.695536897923112,10.64638783269962,17.598320813079983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1512,7 +1512,7 @@ opposed to those of another. For these rea­
 sons the fathers of the republic, in the con­  
 stitution of the United States, provided, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn83045160:00280779623:1882032801:0296/pct:145.01738122827348,145.18171160609614,38.58632676709154,22.837045720984758/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn83045160:00280779623:1882032801:0296/pct:36.27010578177076,36.295427901524036,9.650775249963774,5.7092614302461895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1750,7 +1750,7 @@ jurisdiction of the federal courts.
 This section was inserted and adopt­  
 ed as a part of the constitution be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1893100401:0179/pct:6.715832418013495,16.610738255033556,27.91463988702338,80.30201342281879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1893100401:0179/pct:6.721062817092944,16.610738255033556,27.92510068518228,80.30947054436987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1789,7 +1789,7 @@ observed that there is no provision
 here authorizing the court to set  
 aside, nullify, alter or amend an ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1893100401:0179/pct:20.8536011297662,19.161073825503355,13.761179978032324,15.604026845637584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1893100401:0179/pct:20.8536011297662,19.164802386278897,13.766410377111773,15.607755406413125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

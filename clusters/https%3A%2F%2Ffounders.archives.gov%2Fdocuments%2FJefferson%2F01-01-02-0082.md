@@ -53,7 +53,7 @@ s¢ oppose, by all just and proper Means, every Injury to Ame­
 ¢ ers, and the Rev. Mr, Gwatkia to preach a Sermon suitable  
 ¢ ta the Occasion.,” : 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774061701:0268/pct:11.082194751680763,24.416385259139627,26.350032530904357,16.81104096314785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774061701:0268/pct:11.096652931395937,24.416385259139627,26.335574351189184,16.81104096314785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -72,7 +72,7 @@ devoutly to implose the divinelnterpofition for averting the heavy
 Calamity which threatens Deftruion to the civil Rights of  
 America, the fame was very devoutly observed by the Inhabi- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774070101:0275/pct:36.04465709728868,28.00180559735179,27.682843472317156,3.626241348179356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774070101:0275/pct:36.05984658616237,28.006821145551207,27.698032961190854,3.6312568963787744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -106,7 +106,7 @@ sures pregnant with their ruin.” It wax then Ordered, that
 the member* fliould attend the Speaker and the mace to the  
 Church in this city, on the ill of June next, for the purpos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774071601:0610/pct:95.2147785444024,28.489291361218918,27.442688626752727,15.998275118585598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774071601:0610/pct:73.80404783808648,22.08689194207204,21.26839926402944,12.40252506498329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ and unssimously adopted a mantfesto, suggesting a
  which, aming other things, they observe:  
 Wath
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0033/pct:331.0344827586207,235.91443205784876,61.659848042080654,29.7228080747213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347910:1847082601:0033/pct:82.7425009738995,58.96972435607772,15.411959485781068,7.42958276848923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -218,7 +218,7 @@ effect, as one of &quot;fasting, humiliation, and prayer, devoutly
 &#x27; ican rights,&quot; &amp;c. The memliers immediately formed an  
 Aaaoeiatioti, and unanimously adopted a manifesto, suggestin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:49.59097320169253,54.87735955691195,15.585331452750353,4.803888323725556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847090401:0651/pct:49.600376116596145,54.87735955691195,15.585331452750353,4.811423834821597/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ heart and one mind, firmly to oppose, by all
 just and proper means, every injury to Ameri­  
 can rights.” On that day the following entry 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851030101:0459/pct:72.1514135122185,40.562083419226276,12.812649736463824,4.026661169518312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215853:1851030101:0459/pct:72.14449980835569,40.55929641335715,12.814616072569311,4.028674820209793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ mind, lirinly to oppose, by all just and proper &#x27;
 means, every injury to American rights.&quot; On that 1  
 day the following entry was made in the diary* of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851031501:0330/pct:14.064981949458483,14.13662239089184,13.819494584837544,4.044117647058823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851031501:0330/pct:14.06979542719615,14.140575585072739,13.829121540312876,4.044117647058823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ rights.&quot;
 The writer makes honorable mention of the two  
 fine bronze statues of Patrick Henry and Jef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190972:1855111601:0472/pct:17.13602061476164,134.30211259005983,43.82477452604454,28.220783978507754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202190972:1855111601:0472/pct:5.712006871587214,44.76737086335328,14.608258175348181,9.406927992835918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ by all just and proper means, every injury
 to American rights.&quot; This lousjd the  
 wrritli of 1 4l.~ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1857091001:0665/pct:43.70983864058261,24.286526435474702,14.70798229330287,5.184764070494599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_idacox_ver02:data:sn85026945:00202194278:1857091001:0665/pct:43.70983864058261,24.29410649990525,14.727021752582226,5.184764070494599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -439,7 +439,7 @@ for then to untte the people in thoir heroic resistance to
 the Srutsh and the wraintenance of their constitutional  
 righs against their lawless oppressors, what, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860110901:0733/pct:65.24036822366178,39.196985752973035,45.29491987725878,19.604380077711056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860110901:0733/pct:21.74678940788726,13.065661917657678,15.098306625752926,6.534793359237018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ oppose, by all just and proper means, every
 injury to their rights.&#x27;&#x27;  
 Tuesday evening last the Adams&#x27; Expres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860111001:0040/pct:30.412627392493164,24.271759218516237,13.994531444195873,5.447505060283376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860111001:0040/pct:30.42091308310548,24.274692716125436,14.002817134808186,5.450438557892575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ ind one mind firmly to oppose, by all just and proper
 means, every injury to our rights.&quot;  
 Burning of the Williamstou Hotel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862300:1860111301:0149/pct:17.01098901098901,20.04968429769175,14.021978021978022,4.83386812959321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn84027851:00295862300:1860111301:0149/pct:17.02075702075702,20.05658489459338,14.031746031746032,4.83386812959321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ just and proper means, every encroachment upon
 our rights.  
 Given under my hand and the seal of the State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862701:1860111501:0078/pct:86.2211327570636,91.36718373639079,11.97264869049155,4.5283746025628675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862701:1860111501:0078/pct:86.22543327742657,91.36718373639079,11.97264869049155,4.534797828949482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ give us one heart and one mind firmly to op- 1
 pose, by all just and proper means, every in- |  
 jury to our rights.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860111601:0375/pct:14.97991967871486,78.60567319216939,12.677376171352075,4.63443867359169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1860111601:0375/pct:14.97991967871486,78.61233186842456,12.677376171352075,4.63443867359169/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ croachment upon our rights.
 Given under my hand and the seal of the State, at Colum­  
 bia, on the 13th day of Navember, in the year of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860111901:0820/pct:176.44230769230768,48.972160225537415,58.89423076923077,16.057793962175495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860111901:0820/pct:58.81410256410256,16.324053408512473,19.631410256410255,5.352597987391832/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ oppose, by all just and proper means,
 every injury to American rights.&quot;  
 This action, as might have been an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:0029602210A:1867070601:0731/pct:76.37401855817274,52.14907896615736,54.88936473947181,27.930886762815938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:0029602210A:1867070601:0731/pct:19.100321313816494,13.03726974153934,13.727240271331667,6.982721690703984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

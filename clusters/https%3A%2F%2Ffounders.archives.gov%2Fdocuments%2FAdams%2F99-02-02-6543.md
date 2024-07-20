@@ -478,7 +478,7 @@ Congress that - the ftmag gentleman
 t&gt;nU he pretexted with a “ ran ox  
 irru.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818011901:0372/pct:8.636363636363637,79.94818652849742,17.51082251082251,15.751295336787564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn83026170:00414216237:1818011901:0372/pct:8.63449469811729,79.93783188706126,17.5142465555796,15.753572507878944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -507,7 +507,7 @@ Samuel Adams, with a grave and solemn lace,
 moved Congress, that the young gentleman  
 should be presented with ‘ a pair of spurs.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826112201:0293/pct:44.85962831158561,13.119744853580748,18.801897983392646,10.408814149028704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_circe_ver01:data:sn83021206:00517171955:1826112201:0293/pct:34.77194953777006,10.17526777020448,14.57684253536953,8.066811474795895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ Mirror.
 Edward V. Davis, a journeymen printer,  
 is nominated as the Democratic candidat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026141:00296026827:1839071301:0528/pct:43.01801801801802,91.49510631117111,16.8018018018018,12.149848126898414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85026141:00296026827:1839071301:0528/pct:32.282045505744534,68.6297671279109,12.592926334760081,9.112386095173811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

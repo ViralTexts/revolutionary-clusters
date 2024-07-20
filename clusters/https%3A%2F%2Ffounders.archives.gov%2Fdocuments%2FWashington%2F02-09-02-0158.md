@@ -165,7 +165,7 @@ Miss Custis join me in respectful compliments,
 I am, dear sir, your most obedient servant,  
 GEO. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845060701:0470/pct:15.834891413778225,30.98608024330331,37.89731051344743,81.38963621476196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184625:1845060701:0470/pct:5.277538107563992,10.32748538011696,12.630620266513278,27.126705653021443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ Custis join me in respectful compliments.
 I am, dear sir, your most ob&#x27;t sery&#x27;t,  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845062101:0456/pct:170.26148218398592,17.872340425531913,78.29562389920065,272.2956326987682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186452:1845062101:0456/pct:56.74613925765375,5.9567797559063935,26.09500587013456,90.75504796028814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ Curtis join me in respectful compliments.
 most obedient servant,  
 GEORG E WA S HINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845072301:0708/pct:17.731998459761265,14.11407264190029,41.605698883326916,81.74285319707222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_jalapeno_ver02:data:sn83009567:0029602613A:1845072301:0708/pct:17.738416121165447,14.11407264190029,41.59928122192273,81.75666344427566/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ I amy, dear siry your most obedient ser­
 vant,  
 GEORGE WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021532:00340588009:1851100901:0039/pct:74.83047467092142,35.36470270999056,17.81013163143199,51.961709586086016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021532:00340588009:1851100901:0039/pct:74.84377077516288,35.37369107006427,17.81013163143199,51.957215406049166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ ne in respectful compliments.
 I an#, dear sir, your most obedient  
 s ivnnt. GKOUGK WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1851102301:0497/pct:19.218688653317628,11.748745082078415,29.623085983510013,83.53005019671686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182975:1851102301:0497/pct:19.214916584887145,11.747151383613673,29.62217860647694,83.52211068909386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -793,7 +793,7 @@ young ladies that may, by dividing the
 attention, contribute not a little to di­  
 vide the affection.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_mabel_ver01:data:sn85041553:00514159014:1898022201:0202/pct:40.47372060857538,89.73441108545035,16.182572614107883,3.1062355658198615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_mabel_ver01:data:sn85041553:00514159014:1898022201:0202/pct:40.48524665744583,89.74210931485759,16.17680958967266,3.1100846805234794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -822,7 +822,7 @@ hands, and that an alliance with your
 family will be pleasing to his.”  
 hut the couple was very young, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898111801:0847/pct:2.8161133905259232,26.437121324072706,12.47668780305856,7.566129747303089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898111801:0847/pct:2.822329976376974,26.437121324072706,12.482904388909612,7.566129747303089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ Mr. Custis might prosecute his studies
 ai 1 render himself more deserving of the  
 ladv and useful to. society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898111801:0847/pct:2.8720626631853787,34.49091177774494,12.383439015292801,1.9063100339884735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182252:1898111801:0847/pct:2.8782792490364293,34.49091177774494,12.389655601143852,1.9063100339884735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ edged on all hands and that an alli­
 ance with your family will be pleasing  
 to his.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_jasper_ver01:data:sn90051300:00340586104:1899021601:0175/pct:12.42094611687326,46.177726038028716,11.358461927649886,7.547535894450912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_jasper_ver01:data:sn90051300:00340586104:1899021601:0175/pct:12.4272704275234,46.177726038028716,11.358461927649886,7.56208769887466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ ecute his studies and render himself
 more deserving of the lady nnd useful  
 to society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_jasper_ver01:data:sn90051300:00340586104:1899021601:0175/pct:12.42094611687326,54.850601474582845,11.33316468504933,2.2894838960031043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_jasper_ver01:data:sn90051300:00340586104:1899021601:0175/pct:12.4272704275234,54.86030267753201,11.32684037439919,2.294334497477687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -920,7 +920,7 @@ edged on all hands and that an alli­
 ance with your family will be pleasing  
 to his.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283077:1899021601:0090/pct:55.5939226519337,82.85262261165876,20.925414364640883,13.605938907143726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283077:1899021601:0090/pct:37.07477119668451,55.239138371668496,13.952685201174235,9.066569307533163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -939,7 +939,7 @@ ecute his studies and render himself
 more deserving of the lady and useful  
 to society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283077:1899021601:0090/pct:55.5939226519337,98.4422538639406,20.85635359116022,4.064743823779969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283077:1899021601:0090/pct:37.07477119668451,65.63222587318973,13.90088067691245,2.713885846415967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -969,7 +969,7 @@ edged on all hands and that an alli­
 ance with your family will be pleasing  
 to his.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669550:1899021601:0675/pct:34.3506882106523,84.96960956011127,20.795930580490722,13.02153085402287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669550:1899021601:0675/pct:22.908873260511747,56.649840321417535,13.871016010773605,8.684454517358608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +988,7 @@ ecute his studies and render himself
 more deserving of the lady and useful  
 to society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669550:1899021601:0675/pct:34.380610412926394,99.8866797156691,20.81089168162777,3.9147007314309263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669550:1899021601:0675/pct:22.923836600329192,66.59111981044607,13.885979350591052,2.616668383640672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ edged on all hands and that an alli­
 ance with your family will be pleasing  
 to his.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013857:1899021601:0397/pct:20.763677811550153,55.86486486486486,14.076747720364741,9.0/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013857:1899021601:0397/pct:20.759734093067426,55.857316578840695,14.078822412155745,9.002161870017565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1037,7 +1037,7 @@ ecute his studies and render himself
 more deserving of tho lady and useful  
 to society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013857:1899021601:0397/pct:20.820668693009118,66.1891891891892,14.000759878419453,2.7027027027027026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_americanrobin_ver01:data:2010270509:00517013857:1899021601:0397/pct:20.816714150047485,66.1802459127145,14.002849002849002,2.705715443858938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1116,7 +1116,7 @@ edged on all hands and that an alli­
 ance with your family will be pleasing  
 to his.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_isabel_ver01:data:sn85030529:00212473893:1899021701:0869/pct:12.663934426229508,75.08379888268156,18.31967213114754,11.885474860335195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_isabel_ver01:data:sn85030529:00212473893:1899021701:0869/pct:9.510145521623283,56.312849162011176,13.752818200450912,8.924581005586592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1135,7 +1135,7 @@ ecute his studies and render himself
 more deserving of the lady and useful  
 to society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_isabel_ver01:data:sn85030529:00212473893:1899021701:0869/pct:12.827868852459016,88.63128491620111,18.237704918032787,3.5754189944134076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_isabel_ver01:data:sn85030529:00212473893:1899021701:0869/pct:9.633121541299447,66.4804469273743,13.67083418733347,2.6815642458100557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1168,7 +1168,7 @@ ance with your family will be pleasing
 to his. &quot;  
 But the couple was very young , an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536676:1899021701:0406/pct:30.09198423127464,70.57547385247773,17.85479632063075,13.656085864352592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536676:1899021701:0406/pct:22.576404863621427,52.9316053893583,13.40782122905028,10.244918931262845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1187,7 +1187,7 @@ ecute his studies and render himself
 more deserving of the lady and useful  
 to society. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536676:1899021701:0406/pct:30.059132720105126,85.13359214432519,17.83837056504599,3.4368577300753596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536676:1899021701:0406/pct:22.559973710154452,63.85019410824389,13.374958922116333,2.5890614295501257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1217,7 +1217,7 @@ edged on all hands and that an alli­
 ance with your family will be pleasing  
 to his.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_elkton_ver01:data:sn90051267:00383340913:1899021801:0709/pct:49.00734294261626,54.98241500586167,14.441120478651074,8.92926924579914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_elkton_ver01:data:sn90051267:00383340913:1899021801:0709/pct:49.01414196355725,54.99218444704963,14.461517541474027,8.934153966393122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1236,7 +1236,7 @@ ecute his studies and render himself
 more deserving of the lady and useful  
 to society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_elkton_ver01:data:sn90051267:00383340913:1899021801:0709/pct:49.00734294261626,65.24032825322392,14.413924394887136,2.6572880031262214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_elkton_ver01:data:sn90051267:00383340913:1899021801:0709/pct:49.01414196355725,65.24032825322392,14.427522436769106,2.676826885502149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1267,7 +1267,7 @@ edged on all hands and that an alli-
 e ance with your family will be pleasing  
  to his.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1899022401:0377/pct:3.8461538461538463,161.99445983379502,61.93910256410256,26.31578947368421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1899022401:0377/pct:1.282736504543025,53.99815327793167,20.6574024585783,8.771929824561404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1286,7 +1286,7 @@ e ance with your family will be pleasing
  more deserving of the lady and useful  
  to society.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1899022401:0377/pct:4.166666666666667,191.46814404432132,61.618589743589745,8.199445983379501/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_james_ver01:data:sn85058217:00206534862:1899022401:0377/pct:1.389631213254944,63.822714681440445,20.55050774986638,2.7331486611265006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

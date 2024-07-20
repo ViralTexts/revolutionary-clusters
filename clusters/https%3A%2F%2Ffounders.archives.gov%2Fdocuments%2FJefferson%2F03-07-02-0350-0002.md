@@ -120,7 +120,7 @@ announced to Gen. Armstrong, that these de­
 crees were revoked, and that they would cease  
 to operate on the first November. Since th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811111801:0375/pct:60.545859636093574,38.69455006337136,17.508354994430004,4.3726235741444865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811111801:0375/pct:60.53462038240208,38.689646432644786,17.511292618031064,4.376293667891691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -284,7 +284,7 @@ can ships on the high seas, and take out of
 tlum by force of arms British seamen, what  
 Should un der us tr&lt; m having the same righ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813040101:0100/pct:9.261862917398945,78.08348030570252,16.449912126537786,13.239271017048795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813040101:0100/pct:9.260235459497451,78.0743004937691,16.45287881450243,13.241633356846148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ Baden, and seizing the Duke of Enghein ?
 ships on the high seas, and take out of  
 them, by farce of arir-, British seamen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813040201:0419/pct:22.90740740740741,27.900960827790097,17.77777777777778,12.774082286277409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813040201:0419/pct:22.90316608035549,27.89752432565587,17.780657902857495,12.77661452559839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

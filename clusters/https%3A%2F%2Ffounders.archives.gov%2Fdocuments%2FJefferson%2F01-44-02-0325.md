@@ -46,7 +46,7 @@ ig them privately or by proclamation ? &quot; What a
 this, when the officers of the Federal Govern)e  
 ment, instead of being admonished not to medi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858091601:0370/pct:15.46218487394958,62.848473354826474,13.025210084033613,10.714963019154181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858091601:0370/pct:15.46218487394958,62.851634110879324,13.02921168467387,10.71812377520703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -65,7 +65,7 @@ ment are meddling too much with the public e­
 leotions. Will it be best to admonish them pri­  
 vately or by proclamation ?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1858101201:0152/pct:43.79102478231748,61.66682291178401,12.404554588077696,2.203056154495172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024718:00414183773:1858101201:0152/pct:43.78515938923118,61.661042369703786,12.407357799803554,2.2059742532183475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ are meddling too much wilb the pubiio
 elections. Will it bo best to admonish them  
 privately, or by proclamation?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:00415663468:1858101301:0271/pct:41.602509267179926,32.02230106436898,14.798973481608213,2.432843385707045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn85025007:00415663468:1858101301:0271/pct:41.612014067103885,32.025680013515796,14.78946868168425,2.4362223348538605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ vately or by proclamation 1”
 It was something nnusual, in fact unheard  
 of, in the days of the Washingtons and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557177:1858102101:0241/pct:21.47293700088731,4.979623025980642,12.386867790594499,3.3876719307182883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557177:1858102101:0241/pct:21.486246672582077,4.979623025980642,12.386867790594499,3.3972236372898625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -159,7 +159,7 @@ privately or by proclamation?&quot;
 I think the officers of the Federal Gov-­  
 ernment are meddling too much with theor im povemen in seeing macins.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529327:1860041301:0024/pct:94.88588334742181,163.79613356766257,69.45618484080022,3.0755711775043935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529327:1860041301:0024/pct:31.628627782473938,54.59871118922086,23.152061613600075,1.0251903925014645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -176,7 +176,7 @@ ernment are meddling too much with theor im povemen in seeing macins.
 public elections. Will it be best to admonish  
 them privately or by proclamation?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529327:1860041301:0024/pct:94.9563257255565,166.72891036906853,36.841363764440686,3.251318101933216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_dragonite_ver01:data:sn83025161:00279529327:1860041301:0024/pct:31.652108575185498,55.57630345635618,12.280454588146895,1.0837727006444053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -195,7 +195,7 @@ ernment are meddling too iiiiich with the public
 elections. Will it be best to admonish them  
 privately or by proclamatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668892:1860042101:0584/pct:35.42190039899512,75.41144414168937,11.157085857839515,1.9727520435967303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668892:1860042101:0584/pct:35.43175213043693,75.41507720254315,11.157085857839515,1.9763851044504996/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -215,7 +215,7 @@ Government are meddling too much with the
 public elections. Will it be best to admonish  
 them privately or by proclamation?&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1860042701:0478/pct:28.243090806542583,37.652355331064015,10.9278059785674,2.229054573405073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1860042701:0478/pct:28.247790938146267,37.65601551919769,10.941906373378455,2.2327147615387433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -239,7 +239,7 @@ proclamation
   
 Ntrickldur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860050301:0171/pct:21.479791395045634,99.23985498772073,74.29921773142112,74.57607297392119/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1860050301:0171/pct:7.1599304650152105,33.07995166257358,24.766405910473708,24.85869099130706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ meddling too much with the public elec­
 tions. Will it he best to admonish them  
 privately or by proclamation?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1860062301:0445/pct:224.03047091412742,255.55409491258052,102.00831024930748,60.2602865781517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775150:1860062301:0445/pct:56.027017665396606,63.88852372814513,25.510910980256323,15.065071644537925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ elections. Will it bebest to admonish them pri­
 vately or by proclamation? This for considera­  
 tion when we meet
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn83045160:00280779994:1885100401:0317/pct:240.1608579088472,345.93453009503696,34.47721179624665,5.960342602370058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ernie_ver01:data:sn83045160:00280779994:1885100401:0317/pct:60.048263842338116,86.48363252375924,8.620458506502212,1.4900856505925144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

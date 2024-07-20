@@ -177,7 +177,7 @@ fer from the mistaken fury of the country.&quot;
 His fears for his wifo were groundless.  
 There was no heart or hand in Atacrica bas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861053101:0091/pct:164.06109613656784,250.38355323718932,38.33483078766098,24.342845453615627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523994:1861053101:0091/pct:54.67884413834406,83.45264880343629,12.776363727104856,8.11345196700075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ very seldom judge right of any man&#x27;s actions-
   
 It has been believed by the world that tk
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862101801:0430/pct:83.18675633729953,81.42976488841151,14.330056906363167,6.337271750805585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1862101801:0430/pct:83.18675633729953,81.43374308787843,14.341553141346209,6.345228149739428/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ right of any mans actions.
 the writer of this letter was a traitor, and  
 It h8 beehl pelieved Dy the worid tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862102201:0324/pct:175.4277891854894,39.21056071101817,50.03422313483915,33.3028362305581/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_irvington_ver01:data:sn86059058:00296022007:1862102201:0324/pct:43.87196165696679,9.802640177754542,12.5128380691544,8.325709057639525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -375,7 +375,7 @@ any letters she might receive from
 him. His offer was refused, and  
 they ordered her to depart, and no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775800:1872042601:0285/pct:86.50672371638142,26.228924246022324,13.01955990220049,14.379007361671812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_cobweb_ver04:data:sn85038229:00280775800:1872042601:0285/pct:64.89377961179886,19.674661600569937,9.766162310866575,10.781287105200665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ tempt to palliate a step which the world may cen-­
 sure as wrong.&quot; The traitor lived long enough to  
 ind out that fine phrases could not save him fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039818:1880092301:0732/pct:199.36473504803223,74.6095048188767,45.537651069104434,8.397031128835716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039818:1880092301:0732/pct:66.4549116826774,24.86983493962557,15.179217023034811,2.799010376278572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

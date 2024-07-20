@@ -187,7 +187,7 @@ us In Is ns clear a right as that of breathing, and
 can never be Justly taken from men but us pun­  
 ishment fur sumo atrocious crime.&quot; After 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880122401:0007/pct:30.157068062827225,49.47116344043105,12.93193717277487,1.7960486928756736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880122401:0007/pct:30.176701570680628,49.47615246457793,12.925392670157068,1.8110157653163041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

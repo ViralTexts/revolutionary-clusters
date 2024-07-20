@@ -40,7 +40,7 @@ the order of the day for Monday next.
 The amendments&#x27;of the Senate to the Poft-Office bill, were taken  
 into connderauon.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790071001:0003/pct:34.8471356485604,35.488308115543326,25.467497773820124,6.150520730988406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790071001:0003/pct:34.8471356485604,35.488308115543326,25.489759572573465,6.170170956966005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -69,7 +69,7 @@ of the revenue, mentioned in the same Act, (hall kave been prepar­
 ed, (which it is to be presumed will be in the course of the present  
 year) the strict execution of the regulations, contained in thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790091101:0003/pct:33.25205729960378,74.39384979302189,26.363913441024078,7.884880741178789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790091101:0003/pct:33.25967692776592,74.40863394441159,26.35629381286193,7.894736842105263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -87,7 +87,7 @@ for the collection of duties imposed by law on goods, wares and
 merchandize imported into the United States, and on the tonnage  
 of ships or veflels,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791040201:0004/pct:7.642276422764228,43.47826086956522,28.78048780487805,2.566558130626317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791040201:0004/pct:7.642276422764228,43.47826086956522,28.804878048780488,2.58092319479027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ States, and on the tonnage of ships or
 veflels.&quot;  
 And be it farther enaSled, That th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792022301:0001/pct:29.447665547757094,32.661368482264,20.872749465974977,6.2027524714091875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792022301:0001/pct:29.447665547757094,32.67106028300058,20.903265181568507,6.2027524714091875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ number of decks and muds,her length,bi&#x27;t adth,
 depth, the number of tons (lie measures, and  
 such Other particulars as are usually descrip
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793012301:0001/pct:71.10649658854939,58.16859380828049,19.489765648175617,8.317791868705706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793012301:0001/pct:71.12874517947196,58.17325624766878,19.482349451201422,8.327116747482282/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ chandise imported into the United
 States, and on the tonnage of ships and  
 vessels, approved the fourth of August
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183621:1822011201:0012/pct:76.53098643197653,14.407097338498064,16.446644664466447,13.969761339497689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414183621:1822011201:0012/pct:76.51695692025665,14.405297351324338,16.449740299419492,13.972180576378477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

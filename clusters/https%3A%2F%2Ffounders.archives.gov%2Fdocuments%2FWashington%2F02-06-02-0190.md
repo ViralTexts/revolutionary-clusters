@@ -75,7 +75,7 @@ with an agreeable partner for life, and I hope to
 find more happiness in retirement than I ever ex  
 perienced in the wide and bustling world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86071224:00212470053:1855080401:0118/pct:76.20944792259533,193.16258603181768,50.02845759817871,22.385196885930274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86071224:00212470053:1855080401:0118/pct:19.0577853686308,48.29064650795442,12.51067463706234,5.596299221482568/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ this sont, and I hope to find more hap
 piness in retirement than I ever expe  
 rienced in the wide and bustling world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn85048197:00202191356:1858102901:0118/pct:223.3423180592992,81.37689374420282,47.870619946091644,5.93630835823972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn85048197:00202191356:1858102901:0118/pct:55.8355795148248,20.344223436050704,11.967654986522911,1.48407708955993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ more happiness in retirement than I
 ever experienced in the wide and bust­  
 ling world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1858112501:0814/pct:202.09030100334448,90.23421449116559,56.35451505016722,9.587727708533079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn87075163:00280774947:1858112501:0814/pct:50.52257525083612,22.558553622791397,14.088628762541806,2.3969319271332696/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ scat, aud I hope to find more happiness in
 retirement than I ever experienced in the  
 wide and bastling world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858122501:0407/pct:68.27455048409405,77.67416346681294,12.25795297372061,4.758639605046627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858122501:0407/pct:68.26274848746759,77.6635129576306,12.260155574762317,4.761415055532702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ for life; and I hope to find more happiness
 in retirement than I ever experienced in  
 the wide and bustling world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1887021901:0008/pct:272.835583796664,270.751505629746,57.90309769658459,40.58654097931396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1887021901:0008/pct:68.208895949166,67.6878764074365,14.475774424146147,10.14663524482849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -387,7 +387,7 @@ in retirement than I ever experienced
 In this wide and bustling world.&quot;  
 This was no Utopian dream, trans
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn2006060001:00296023310:1891070301:0641/pct:54.05183727034121,14.472934472934472,21.013779527559056,4.512820512820513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn2006060001:00296023310:1891070301:0641/pct:36.05185428290122,9.652421652421653,14.013784049885134,3.0085470085470085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ In retirement than I ever experienced
 In this tylde alid bustling world.&quot;  
 This was no nlopiah drCanlj trans
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilamonster_ver01:data:sn82016245:00211106414:1891070401:0282/pct:76.28254211332312,11.433521004763968,15.46707503828484,3.9122275155189836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_gilamonster_ver01:data:sn82016245:00211106414:1891070401:0282/pct:57.238605898123325,8.575140753572976,11.604749138261203,2.9449978345604158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ ness in retirement than I ever experienced amidst a
 wild bustling world.  
 The unsatisfled yearning to have children o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012701:0337/pct:315.9375,257.22070844686647,60.955882352941174,7.084468664850136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012701:0337/pct:79.02795659370976,64.30517711171662,15.24737906933971,1.771117166212534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ life. And hope to find more happiness
 in retirement than I ever experienced  
 amidst a wild, &#x27;bustling world.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182148:1895020301:0599/pct:87.62848065782097,85.33818181818182,16.07176228742291,2.821818181818182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:00414182148:1895020301:0599/pct:67.92024717582312,66.14436553564047,12.455344211644299,2.1831435764476006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ more happiness In retirement than I ever
 experienced amidst a wild battling world.&#x27;  
 Anneke Jans was a wealthy wido
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769642:1895112801:0381/pct:31.24397299903568,85.19174041297936,12.18900675024108,3.702064896755162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_ogilby_ver01:data:sn85042461:00280769642:1895112801:0381/pct:31.25361620057859,85.202802359882,12.184185149469624,3.7094395280235988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ tirement than I ever experienced in the
 wide and bnstline world.&quot;  
 To be cowtined
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897040901:0326/pct:53.98001378359752,126.29732672069674,20.520330806340453,5.0441514455062295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897040901:0326/pct:36.004825922095826,84.20224990927785,13.68493622888659,3.3627676303374865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

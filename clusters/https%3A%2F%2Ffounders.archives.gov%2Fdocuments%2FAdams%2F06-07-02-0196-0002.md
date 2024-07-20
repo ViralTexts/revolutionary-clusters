@@ -154,7 +154,7 @@ that accefiion of 2s liitle avail as pofiible to
 her enemy. .. _  
 - If, however,there are any who think tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778102701:0080/pct:39.96679809089023,49.06267487409065,26.229508196721312,35.730274202574144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778102701:0080/pct:39.96679809089023,49.06267487409065,26.24334232551705,35.73493751165827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ ruin, and for the aggrandiZemens of France,
 Under fach circamftances the laws of folf­  
 prefervation muft diret the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021183:00340587960:1778102901:0255/pct:63.85772260682741,41.926910299003325,21.580329434232514,30.697674418604652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021183:00340587960:1778102901:0255/pct:63.87363730405029,41.93244739756368,21.580329434232514,30.70874861572536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -794,7 +794,7 @@ France, will dire&amp; her to render that ac­
 cession of as little avail as possible to het  
 encmies.”’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779051801:0190/pct:5.258583224684919,39.608801955990224,28.922207735767056,45.04530418524378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1779051801:0190/pct:5.273069679849341,39.61359604966681,28.91496450818485,45.05009827892037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

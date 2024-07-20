@@ -347,7 +347,7 @@ A youth of follies, an old age ot cares .
 Young yet enervate, old yet never wise ;  
 Vice wastes their frames and their mind impairs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1860072601:0140/pct:22.86902286902287,10.633202414024332,16.307172557172557,2.2032761758789157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1860072601:0140/pct:17.153996101364523,7.979691541335377,12.241715399610136,1.6572468627263148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ on the methods of acquiring useful and polite learning.
 summit level, as a statesman, orator, phil­  
 osopher, and ptoser. is of about tho same ole
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876042201:0009/pct:1.239451476793249,84.4683878837162,12.842827004219409,1.3214067899979671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1876042201:0009/pct:1.2460443037974684,84.4683878837162,12.862605485232068,1.3468184590363894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

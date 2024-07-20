@@ -103,7 +103,7 @@ the REPRESENTATIVES of the people best
 conduce to the happiness and [afety of their con­  
 ffituents in particular, end America in general
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776060801:0010/pct:4.593334484544983,19.143927233814875,28.63063374201347,16.019261637239165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776060801:0010/pct:4.593334484544983,19.143927233814875,28.63638980026478,16.02282860709827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ conduce to the happiness and {afety of their
 constituents in particular, and America in  
 general, By order of the Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776060801:0012/pct:5.004329004329004,20.159151193633953,28.432900432900432,34.41909814323608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776060801:0012/pct:5.015873015873016,20.166224580017683,28.444444444444443,34.41909814323608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -589,7 +589,7 @@ solution ot the Continental Congress of the
 “ government exerted under the authority of  
 “ the people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776070601:0027/pct:5.283281195689955,56.468699839486355,28.449774070212026,9.2776886035313/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025583:0051701509A:1776070601:0027/pct:5.283281195689955,56.468699839486355,28.46136021318503,9.28482254324951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1317,7 +1317,7 @@ s ta  te ti wiste of f a es o
 the Congresses or conventions of this State of aew I ork,  
 and not by virtue of the Constitution then framed, all po
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191290:1845091701:0139/pct:204.18665503706933,197.88808514176435,177.54034016572177,45.863473850503034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191290:1845091701:0139/pct:51.063365688733775,49.47202128544109,44.399607372668775,11.465868462625759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1439,7 +1439,7 @@ After a hard struggle, this resolution passed
 on the 15th of the same month, and preluded  
 Lee’s daring resolution ol the 7th of Jun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856070401:0280/pct:45.46067199383845,10.369318181818182,12.130547800134783,4.169034090909091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215956:1856070401:0280/pct:45.456295725837506,10.368581776862438,12.132588884610447,4.171105271879364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1532,7 +1532,7 @@ the people, best conduce to the happiness and safety of
 their constituents in particular, and America in general.  
 The existence of the states ol this Union be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171694:1866040901:0349/pct:23.481514084507044,19.813519813519815,16.307218309859156,11.704961704961706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171694:1866040901:0349/pct:18.209209778283114,15.364101681792766,12.649232518476406,9.062755387328487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1641,7 +1641,7 @@ opinion of the representatives of the people, best
 conduce to the happiness and safety of their con­  
 •titnents in particular, and America in general.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171876:1872052001:0476/pct:6.038235850842325,38.71285734403605,14.215407912171115,11.463174200816786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn83021205:00517171876:1872052001:0476/pct:4.689486552567237,30.009458672875436,11.02200488997555,8.883876600698487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1682,7 +1682,7 @@ ginia, the Convention which bad organised
 on the 6th passed unanimously a series of  
 resolutions instructing the Virginia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562377A:1876051301:0095/pct:4.266889772014223,53.92390011890606,11.315624346371052,8.308561236623067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562377A:1876051301:0095/pct:4.280833856236492,53.92885453824812,11.329568430593321,8.308561236623067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1709,7 +1709,7 @@ Almost immediate action was taken
 in New Jersey under this resolution,  
 and an independent government form
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85025540:00513685051:1876052701:0450/pct:33.025664115263396,27.473917167246285,14.272850067537146,8.757508694277584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_capemay_ver01:data:sn85025540:00513685051:1876052701:0450/pct:33.018230925050645,27.46957483799589,14.275264460949808,8.760075865339024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

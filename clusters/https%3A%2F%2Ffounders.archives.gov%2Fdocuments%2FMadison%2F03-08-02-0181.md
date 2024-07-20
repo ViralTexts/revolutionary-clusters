@@ -105,7 +105,7 @@ shoe3 : That pant after the dust of the earth on
 the head of the poot, and turn aside the&#x27; way of  
 the meek : and a man and his father will go int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839111601:0173/pct:6.702302631578948,104.95163851595207,23.49917763157895,6.943842933448823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1839111601:0173/pct:5.039078568490333,78.7209470189115,17.626491155902922,5.211491266060343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ the bones of the King of Edom into lime:
 But I will send a fire upon Moab, and it  
 shall devour the palaces of Kirioth; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282243:1880031901:0269/pct:229.5801526717557,223.2360241106252,49.17302798982188,16.45195603356577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282243:1880031901:0269/pct:57.404167329409894,55.8090060276563,12.295212342929855,4.112989008391443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ and said : &quot;The Lord reigneth ! let
 the earth rejoice. The Lord reigneth !  
 let the people tremble. Ameu.&quot; An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:00416156761:1899081001:0536/pct:72.75334608030593,95.1094104986249,16.730401529636712,2.4154011718282913/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_mitchell_ver01:data:sn92073908:00416156761:1899081001:0536/pct:54.59907540251873,71.33803658974053,12.545831340666348,1.8055721630993662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

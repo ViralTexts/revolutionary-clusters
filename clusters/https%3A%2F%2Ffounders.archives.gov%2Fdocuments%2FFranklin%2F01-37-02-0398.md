@@ -59,7 +59,7 @@ Treaties of Commerce, which may be formed by the
 United States of America.  
 B? Dr. FRANKLIN
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789111101:0001/pct:5.481481481481482,77.66603415559773,25.71851851851852,6.603415559772296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789111101:0001/pct:5.496296296296296,77.68026565464896,25.725925925925925,6.589184060721062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ transporting it after its arrival in Europe, than the
 eltizens of London or Paris. And I sincerely believe  
 that if France and England were to decide, by throw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895042001:0453/pct:285.23956723338483,83.21146097597374,53.091190108191654,32.65184300850619/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895042001:0453/pct:71.35124685868935,20.802865243993434,13.280494877247245,8.162960752126548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ to the commerce of all, the profits of the present
 monopolies being by no means equivalent to the ex­  
 pense of maintaining them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895042001:0453/pct:285.16228748068005,114.43068198776302,53.245749613601234,28.771825100731235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045193:1895042001:0453/pct:71.33191571621883,28.607670496940756,13.319157162188285,7.192956275182809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

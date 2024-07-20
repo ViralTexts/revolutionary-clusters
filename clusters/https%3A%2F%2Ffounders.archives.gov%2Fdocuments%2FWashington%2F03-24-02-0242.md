@@ -102,7 +102,7 @@ justice on theself-condemned he deals on
 his own soul.  
 If anything is possible for man, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550031:1882030101:0316/pct:20.970977664838838,78.1600598354525,14.203557576568143,8.405011219147346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dorothy_ver01:data:sn85033295:00279550031:1882030101:0316/pct:20.979893896839197,78.1662926950885,14.212473808568499,8.405011219147346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -147,7 +147,7 @@ that justice on the self-condemned he
 deals oil his own soul.  
 If anything is possible for man, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291931:1882041801:0220/pct:5.733229329173167,82.71965001822822,19.87779511180447,28.745898651111922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_berenice_ver01:data:sn90061066:00200291931:1882041801:0220/pct:4.304851085966966,62.03973751367116,14.917414488229939,21.563981042654028/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ It took Longfellow one month to write
 &quot;The Golden Legend&quot; and six months to  
 correct it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069871:00100481777:1882042101:0053/pct:45.59675550405562,35.56141893872765,19.32213209733488,9.010065474445422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_fargo_ver01:data:sn86069871:00100481777:1882042101:0053/pct:34.21243298072743,26.675950356689142,14.505144182002608,6.755106029512362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ There is nothing so likely to pro
 duce peace as to be well prepared to  
 meet the enemy. &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556278:1882042701:0544/pct:84.3062347188264,57.94678596656463,13.447432762836186,16.800094184129975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556278:1882042701:0544/pct:63.26249808897722,43.46597598304685,10.09020027518728,12.59712738403579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ to draw a straight one.
   
 What we learn in youth grows u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1882042901:0536/pct:4.465522753916658,42.02324797843666,9.794308856442502,13.839285714285714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_fleshgolem_ver02:data:sn92063989:00514153553:1882042901:0536/pct:4.465522753916658,42.02324797843666,9.801413904579203,13.847708894878707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ There is nothing so likely to produce
 peace as to be well prepared to meet the  
 enemy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287484:1882052001:0315/pct:343.99701715137957,202.30596175478064,42.4310216256525,25.0281214848144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287484:1882052001:0315/pct:86.04737922029472,50.57649043869516,10.613691475470993,6.2570303712036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ bored holes in the ears are so large that
 a stick an inch in diameter can be thrust  
 through
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn90061371:00294557179:1896052701:0406/pct:74.19575633127995,72.96496651210717,15.451745379876797,8.78413189077795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_marmaduke_ver02:data:sn90061371:00294557179:1896052701:0406/pct:55.65634092075988,54.726944873776404,11.603628273147356,6.594538897475528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ bored holes in the ears are so large that
 a stick an inch in diameter can be thrust  
 through
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556874:1896052801:0828/pct:76.26412849494349,62.043628013777266,15.972635336109459,20.528128587830082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556874:1896052801:0828/pct:57.206604194556,46.53272101033295,11.988695522832069,15.407577497129736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ There Is nothing so likely to produce
 peace as to be well prepared to meet  
 the enemy. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283806:1896061601:0600/pct:64.88309352517986,81.08066264127574,19.132194244604317,2.9725963771481654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_charlie_ver01:data:sn87075213:00237283806:1896061601:0600/pct:48.706411698537686,60.814367549156216,14.353205849268841,2.229447282861124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -531,7 +531,7 @@ Washington: TlWre is nothing so
 likely to produce peace as to be well  
 prepared to meet the enemy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:0034058241A:1896080101:0838/pct:7.547169811320755,39.50284090909091,17.19313122747509,4.005681818181818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:0034058241A:1896080101:0838/pct:7.5455701568461215,39.49723050703025,17.19478592623993,4.0086635421104955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ produce peace as to be well pre­
 pared to meet the enemy.  
 —God’s livery is a very plain one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896082001:0482/pct:21.036846615252784,88.77402446126966,13.903170522707798,4.586488060570763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896082001:0482/pct:21.032340972370957,88.76110059688456,13.905547226386807,4.589459892269617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -289,7 +289,7 @@ this time, the enjoyment of this right has
 been uniformly prevented, by the Span­  
 iards. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794062301:0003/pct:4.631405864620444,54.069081718618364,16.826527815839956,8.77843302443134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794062301:0003/pct:4.631405864620444,54.069081718618364,16.826527815839956,8.795282224094356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -421,7 +421,7 @@ frontier, is a grievance of the greatest
 magnitude and demands immediate re­  
 dress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794062301:0003/pct:21.814195670046587,4.616680707666386,35.16031789531378,87.39679865206402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794062301:0003/pct:21.814195670046587,4.616680707666386,35.18772266374349,87.40522325189553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -690,7 +690,7 @@ of the river Mississippi.
 enjoyment of this right has been uniformly prevent­  
 ed, by the Spaniards
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806110701:0200/pct:5.808205635195255,4.184844078203263,21.008403361344538,5.348198416545484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806110701:0200/pct:5.8067704472448725,4.184168012924071,21.009389671361504,5.351373182552504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ perienced by every part of the western frontier, is a
 grievance of the greatest magnitude and demands  
 immediate redress/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806110701:0200/pct:5.289174493326742,1.5188237195023429,43.57390014829461,94.63564388431088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806110701:0200/pct:5.28786755621448,1.518578352180937,43.56931060044477,94.62439418416801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -976,7 +976,7 @@ the river Mis- d cause ..11 ol&gt;­
 etions, interruption and hindrance  
 to thi ...hi in future t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807010901:0001/pct:59.233076263924595,36.75456389452333,19.087403598971722,52.27856659905341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807010901:0001/pct:59.24021708083405,36.75456389452333,19.094544415881177,52.28307414919991/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1085,7 +1085,7 @@ zen and the Spanish government. This deponent
 does not believe he has seen any letter from judge  
 Sebastian on the subject of the present enquiry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807011201:0311/pct:5.9171597633136095,2.348399549622004,45.315581854043394,94.45069969438636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807011201:0311/pct:5.915701257086517,2.348021871984561,45.310574315997044,94.43953039562561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1116,7 +1116,7 @@ effeotual measures for its attainment;
 that even the measures thev hv  
 adopted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1896060301:0848/pct:27.04861111111111,87.30446024563672,15.190972222222221,13.135100193923723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1896060301:0848/pct:20.305714782004515,65.48157724628312,11.394823692895605,9.851325145442793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

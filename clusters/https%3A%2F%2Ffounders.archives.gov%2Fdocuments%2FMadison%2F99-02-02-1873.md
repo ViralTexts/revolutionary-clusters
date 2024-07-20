@@ -91,7 +91,7 @@ miracle; their example, the hope of liberty
 throughout the world. Note the ambition  
 that would meditate the destruction of either.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859120501:0361/pct:6.063268892794376,92.87850733513744,18.804920913884008,3.717419171058254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_kent_ver02:data:sn85025750:00280774650:1859120501:0361/pct:4.548450889914305,69.66244124768552,14.128762909250714,2.7916251246261217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -129,7 +129,7 @@ of these States is a wonder--their Constitu­
 tion a miracle; wo to the ambition that would  
 meditate the destruction of either.&quot; An ad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860120901:0500/pct:90.75963718820861,244.90243367682527,34.467120181405896,4.867353650515238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290057:1860120901:0500/pct:22.693125442948265,61.22560841920632,8.618001417434444,1.2168384126288094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ their example the hope of liberty throughout the
 world. Wo to the ambition that would meditate  
 the destruction of either.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861011201:0025/pct:65.83944037308461,9.01093675701379,39.62358427714857,118.188302425107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861011201:0025/pct:49.391970681326,6.76414645744175,29.718474096285192,88.63528292914883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ their example the hope of liberty throughout the
 world. Wo to the ambition that would meditate  
 the destruction of either. Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861041701:0158/pct:6.693440428380187,80.57136083451873,19.410977242302543,15.623518255097203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022792:1861041701:0158/pct:5.021760964178105,60.431484115694644,14.579845999330432,11.723565670934091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -242,7 +242,7 @@ their example the hope of liberty throughout the
 world. Wo to the ambition that would meditate  
 the destruction of either. Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022652:1861041701:0490/pct:7.650073206442167,81.38230043356286,19.509516837481698,15.812292782453456/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022652:1861041701:0490/pct:5.749862662516023,61.04310124968121,14.649331624244644,11.859219586840092/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ throughout the world.
 Woe to the ambition that would meditate  
 the destruction of either.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861052501:0886/pct:124.40775305096913,71.94728725641384,50.753768844221106,49.85279685966634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1861052501:0886/pct:31.101938262742284,17.98682181410346,12.688442211055277,12.463199214916585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -417,7 +417,7 @@ pectively, in their Sovereign character,
   
 and they alone.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022701:0187/pct:142.71604938271605,239.46902654867256,37.839506172839506,6.548672566371682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022701:0187/pct:35.68451921592838,59.86725663716814,9.461336626022534,1.6371681415929205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -453,7 +453,7 @@ of puwer were to be excrelsed by the seneral government
 gas provided that they should be decided by the Supreme­  
 paritlal as it coul be made by the mode o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868013101:0274/pct:61.537211569710756,77.12114337568057,46.36009099772506,17.207350272232304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743610:1868013101:0274/pct:20.512403856570252,25.707047791893526,15.453363665908352,5.735783424077435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -488,7 +488,7 @@ so constituted as to be as impartial as it
 could be made by the mode of appointment  
 and responsibility of the Judges.&quot;--Jame
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774753:1868020101:0388/pct:70.6993006993007,159.26866429659725,48.6013986013986,34.07821229050279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774753:1868020101:0388/pct:17.677915719531388,39.81716607414931,12.152474208777758,8.519553072625698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ lecided by.tbefl3pr?me CourTT?t &quot;t?hT?s????
 t could be male by tho mode_of appointment  
 Ld responsibility of-the judges^-^am** WT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555286:1868020401:0119/pct:43.83691529709229,43.423985733392776,13.353350189633375,8.314757021845743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_brandonblaze_ver01:data:sn84026994:00294555286:1868020401:0119/pct:43.83691529709229,43.43141625798781,13.353350189633375,8.314757021845743/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ er would happen, it was provided that they
 er would happen, it was provided that they  
 should be decided by the supreme court o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029581A:1868020601:0333/pct:219.47634359209923,193.66645734278282,49.931097841065686,62.258903740916836/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dillinger_ver02:data:sn87056248:0020029581A:1868020601:0333/pct:54.88169078796233,48.416614335695705,12.485642085917759,15.564725935229209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ mode of appointment and responsibility
 of the judges.&quot; atn Madison&#x27; Wri-  
 Bat how can tbe Supreme Court hol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779362:1868020601:0124/pct:38.99082568807339,67.46884400515685,17.243536280233528,16.860048703624123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn85033673:00280779362:1868020601:0124/pct:29.259645464025027,50.60879530153273,12.930135557872784,12.648617676550638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ sibility of the Judges. James Madi­
 son&#x27;s Writings, vol, l,p. I8.V i 4 ; M  
 &#x27; But now can the Supreme Court hol
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027455:1868021101:0456/pct:23.870056497175142,83.3721176221705,15.649717514124294,16.1730484451026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027455:1868021101:0456/pct:17.91719655221139,62.534376983287494,11.742263671047054,12.132430717156758/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -778,7 +778,7 @@ the United States, so constituted as to be as&gt;
 impartial as it could be made by the mode of  
 appointment responsibility of the judges.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868021101:0030/pct:56.5955190242609,66.19373776908023,12.819832957709135,8.600782778864971/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762489:1868021101:0030/pct:56.599938132484866,66.19699934768428,12.819832957709135,8.597521200260926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -811,7 +811,7 @@ the Supreme Court of the United States,
 so constituted as to he as impartial as it  
 could be made by the mode of appointmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1868021201:0798/pct:73.93736017897092,73.79729729729729,16.181953765846384,11.68918918918919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn85034406:00296026700:1868021201:0798/pct:55.472683199701656,55.351351351351354,12.138728323699421,8.77027027027027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ by the Supreme Court of the United States,
 bo made by the mode of appointment and  
 * responsibility of the judges.”—James Madi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348690:1868021201:0264/pct:15.6758669497523,42.39808790333289,13.234253361641896,11.021112734032664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348690:1868021201:0264/pct:15.67309393242526,42.392458842272966,13.236334689545375,11.022968667020711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ it could be made by the mode of ap­
 pointment and responsibility of the  
 Judges.---(James Madison&#x27;s Writings
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294555882:1868022201:0032/pct:241.9431279620853,195.45722019536308,43.720379146919434,46.369306814169704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294555882:1868022201:0032/pct:60.485781990521325,48.86430504884077,10.930094786729859,11.592326703542426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ latins thereto certain (tortious of
 jxiwf-r to be ecer« i«.il over the   
 and referring the other portio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291050:1868032801:0840/pct:20.24801395078473,70.35392088827203,14.183297810501841,6.953504510756419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291050:1868032801:0840/pct:20.252857973260998,70.35739070090216,14.188141832978104,6.967383761276891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

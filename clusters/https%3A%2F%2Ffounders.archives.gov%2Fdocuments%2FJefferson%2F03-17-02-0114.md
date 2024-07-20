@@ -116,7 +116,7 @@ sions which would break up our Confedera­
 cy. the only anchor to which the hopes of the  
 world are moored
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860110601:0024/pct:44.18170504044804,66.63730067835434,13.951462352209084,14.77402871993657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860110601:0024/pct:44.19000207425845,66.6431738760168,13.947313835303879,14.77402871993657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ tinuance of our Union depends entirely on
 Pennsylvania and Virginia. If they h&#x27;^Id  
 together, nothing North or South will A)&#x27; off-&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1860111601:0607/pct:16.213537241574624,56.04878584770904,10.960067969413764,1.8019997802439292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1860111601:0607/pct:16.22297743793071,56.04878584770904,10.964788067591806,1.812987583782002/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ owe to all mankind the sacrifice of those morbid pas­
 sions which would break our confederacy, the only  
 anchor to which the hopes of the world are moored
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1860111701:0008/pct:4.017543859649122,45.764838750156855,12.12280701754386,8.997364788555654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_collins_ver01:data:sn83030364:print00211110107:1860111701:0008/pct:4.021929824561403,45.76797590663822,12.12280701754386,8.997364788555654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ sions which would break our Confederacy,
 the only anchor to which the hopes of the  
 world are moored
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1860111701:0792/pct:22.761970853573906,197.44356812618983,48.71616932685635,68.04460157737286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776038:1860111701:0792/pct:5.6914801318757595,49.36089203154746,12.181155648099947,17.011150394343215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ Pennsylvania and Virginia. If they hold
 together, ueibmg North or South will fly  
 of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1860122001:1043/pct:25.070858026281886,84.0909090909091,17.547023962896162,2.866350067842605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn84026881:00279557268:1860122001:1043/pct:25.077299665034786,84.09514925373135,17.55990724040196,2.8833107191316145/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ derground excavations, remarkable for their
 great extent, and for their associations with  
 the history of the early church. The Palerm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557979:1860122901:0426/pct:47.31913330885053,13.859275053304904,30.88505325009181,80.98347547974414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lovage_ver01:data:sn82014998:00279557979:1860122901:0426/pct:47.32372383400661,13.8659381663113,30.88505325009181,80.98014392324095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

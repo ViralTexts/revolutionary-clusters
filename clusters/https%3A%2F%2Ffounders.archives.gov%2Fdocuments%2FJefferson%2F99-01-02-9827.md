@@ -124,7 +124,7 @@ the question for every citizen now is, whether li»
 will rally round the government of his choice,&#x27;or  
 enlist under foreign banners ? Whether he will’ b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112801:0231/pct:77.09440647937231,53.27149246314394,20.982029865856745,9.971840318038762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112801:0231/pct:77.0748987854251,53.26266975819808,20.983046558704455,9.974329248095396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ without a sacrifice of their rights, honor, and inde­
 pendence, submit to the late edicts of Great Britain  
 and France
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112801:0231/pct:77.14502657555049,64.45254265363592,20.90609972158947,3.246645684942852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808112801:0231/pct:77.1255060728745,64.44186816826763,20.907135627530366,3.2502484266313347/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ on tor e\ery citizen now is, whether he w ill
 rally round die government of his choice, o;  
 enlist under foreign banners? Whotber h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0242/pct:22.913226930838377,87.58914049793569,17.42799486332783,2.30201426247967/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0242/pct:22.909024211298608,87.5781836377283,17.430912203472733,2.3058960887332165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ not, without a s ic ri fir a of theirrights, honor j
 nd independence, submit to the late edicts ;  
 of Great Ihitain and France
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0242/pct:22.913226930838377,91.6301764043538,17.81324527609613,2.78994119854873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112901:0242/pct:22.909024211298608,91.61871403552665,17.816091954022987,2.793761988157785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ without a sacrifice of their rights, honor
 and Independence, submit to “ aban­  
 don the navigation of the ocean in conse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120201:0394/pct:60.24535173471344,80.43754769778683,17.826336975273147,3.472398880691936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120201:0394/pct:60.23380605596014,80.42731781762686,17.82930880286189,3.4761965322819957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -241,7 +241,7 @@ mit to the late ediéls of Great Britain
 and IFrance. =  
 2. Resolved, That it is expedient t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808120601:0194/pct:25.413510588962744,16.536380036079375,15.922089967537486,4.149128081779915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1808120601:0194/pct:25.413510588962744,16.539720718914946,15.922089967537486,4.152468764615487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -265,7 +265,7 @@ whether he will rally round the g ivcrnment
 of his choice, or enlist under foreign ban­  
 ners? v\ hether he will lie for his country
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120601:0250/pct:5.762588620250863,68.80433413128387,17.360479912743138,5.795640670278443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120601:0250/pct:5.761541257724464,68.79566641471403,17.363383012237975,5.799109767363736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ and independence, submit to the late edicts
 of Great-Britain and France.  
 T he ques ion was taken on the resolutio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120601:0250/pct:59.261952372295944,55.70114652891521,17.833121250681693,4.636512536222754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808120601:0250/pct:59.25118138858597,55.694129503653315,17.83593844662547,4.640127656000672/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ Was this the part of the report which
 was loathsome and disagreeable to the na­  
 tion ? Mr *i. hoped not. A . the gentleman 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0398/pct:22.752120640904806,71.77124100492362,18.07728557964185,4.734250725918445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0398/pct:22.747832642291744,71.76218126735672,18.080160824224148,4.7378608095598755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ late edicts of Great Brita n and France.
 The question was taken on the reso­  
 lution, and CARRIED nkm com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0398/pct:58.98209236569274,65.68615073854312,17.58718190386428,5.718974876909481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808120601:0398/pct:58.970976253298154,65.67785912648321,17.590149516270888,5.7224606580829755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ of their rights, honour and inde­
 pendence, submit to the late e­  
 diets of Great- Britain and France
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808120901:1079/pct:5.477639587192379,11.370793966517487,16.088912410690657,10.061329355212996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808120901:1079/pct:5.476190476190476,11.368909512761022,16.091269841269842,10.063805104408353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -406,7 +406,7 @@ nor and independence, submit to the late
 edicts of Or cat-liritain—and France.  
 The question was then taken on the firs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808121701:0270/pct:24.65998568360773,88.9112396278602,16.7680744452398,4.6140306763892385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808121701:0270/pct:24.65557344784398,88.90006285355122,16.771038349138188,4.617640896710665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -466,7 +466,7 @@ publicans they have voted “That the United
 “right, honor and independence, submit to  
 “ the late edicts of Great Britain and Frnce.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012101:0332/pct:24.635332252836303,28.499623020859513,16.98181163335134,2.789645639607942/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809012101:0332/pct:24.630896651062297,28.496042216358838,16.98475573160485,2.7934832684173054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ cans they have voted ¢ That the United States cannot with
 « out a facrifice of their rights, honor and independence, sub  
 ¢« mit to the late edi&amp;s of Great DBritain and France.”” Wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809013101:0222/pct:50.39467574678842,70.64914376742334,26.420058814425012,2.001194743130227/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1809013101:0222/pct:50.4049940669659,70.64914376742334,26.420058814425012,2.0078322049648216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ a sacrifice of their rights, honor and inde­
 pendence, submit to tlie late edicts of Great  
 Britain and France.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809060901:0041/pct:41.741030777636134,78.11169242000243,17.264614824257876,2.190047451028106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809060901:0041/pct:41.73343044428259,78.10218978102189,17.267540665210003,2.193836171938362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -571,7 +571,7 @@ without a sacrifice of their rights, honor (s’
 Independence, submit to the late edicts of  
 Great Britain and France.” And yet be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809061601:0049/pct:59.240007169743684,24.267120788225277,17.081914321563005,3.9046344726918867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1809061601:0049/pct:59.229390681003586,24.264169301873025,17.084826762246117,3.908213735506365/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -604,7 +604,7 @@ mit to the late edicts of Great Britain and
 trance.” And now it was proposed to sub­  
 mit to those very edicts—yes, to go beyon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810030601:0389/pct:6.0622811866592965,52.018973485769884,17.412935323383085,10.544879591340306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810030601:0389/pct:6.061164333087693,52.01264745226803,17.415868337017933,10.547650897888037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -637,7 +637,7 @@ submit to the late edifils of Great Britain
 and France.** And now it was proposed  
 to sbbmit to those very edi&amp;s—yes, to g
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810030601:0080/pct:40.92945128779395,38.032786885245905,17.84247853676745,12.887767969735183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810030601:0080/pct:40.92181377122598,38.02799142604968,17.845369160913105,12.890345900054639/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -676,7 +676,7 @@ C O M M E N T,
 BY ONE or TIIE PEOPLE.  
 This is the first of the resolves, dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810082401:0276/pct:22.660190547356624,33.218610579987256,18.158042219316272,11.510516252390058/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810082401:0276/pct:22.655958162121777,33.21437675248534,18.160876603162745,11.51329764635908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ tion for every citizen now is, whether he wi.ll
 rally around the Government of his own choice,  
 or enlist under foreign banners—whether he i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052601:0404/pct:26.005317381189766,68.70619646234286,17.31472249916916,2.369562798976527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052601:0404/pct:26.000996843329457,68.69855394883204,17.317383840062025,2.3730070448646643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -782,7 +782,7 @@ are instituted among men; and for the sup­
 port of this declaration they pledge their  
 lives, their fortunes and their sacred honor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863010801:0003/pct:33.33965125094769,67.52947943629566,10.007581501137226,1.006614897900489/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863010801:0003/pct:33.353866565579985,67.52947943629566,10.007581501137226,1.0174000575208513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -59,7 +59,7 @@ ment, so the present wotk may he in the parti&#x27;
 ctilar biauvh of pulil&#x27;cal ec nomv  
 „ THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121201:0256/pct:37.2093023255814,67.53650945654776,14.701577492275167,13.21522623892746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818121201:0256/pct:37.203252032520325,67.52842609216039,14.70460704607046,13.217634151206862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ civil government, so the present hoi l&lt; may
 he in the particular branch ol Political  
 Economy.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818123101:0283/pct:64.48230668414155,38.26171400825443,14.875491480996068,8.739985433357612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818123101:0283/pct:64.47174447174447,38.25707003277097,14.878514878514878,8.742970425213416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ ing it, and lead us to that just and regular distribu­
 tion of the public burthens, from which we have  
 sometimes strayed.&quot;Thomas Jefferson&#x27;s Pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841121001:0337/pct:15.436241610738255,183.66213648984365,59.144295302013425,33.78635101563642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023294:00200296096:1841121001:0337/pct:3.859060402684564,45.91553412246091,14.786073825503356,8.446587753909105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ question; and as some of his views
 differ widely from those of the anti­  
 silver-men of the present day, it oc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030906:1886020701:0162/pct:80.90324510243757,71.23805523469495,34.46986690593689,32.300745563372885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030906:1886020701:0162/pct:26.96774836747919,23.746018411564982,11.489955635312297,10.766915187790962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

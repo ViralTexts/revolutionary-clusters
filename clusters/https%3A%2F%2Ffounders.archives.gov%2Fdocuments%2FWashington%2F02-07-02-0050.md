@@ -208,7 +208,7 @@ A
 to add, that my stature is six feet; other-  
 wise rather slender than corpulent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1887021901:0008/pct:273.0738681493249,19.114951557999476,116.67990468625894,357.999476302697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471574:1887021901:0008/pct:68.26846703733122,4.778737889499869,29.169976171564734,89.49986907567425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ ton (if worn in. genteel dress), are all
 I desire. My stature Is six feet; other­  
 wise rather slender than corpulent.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206537413:1897021501:0433/pct:57.14891811624947,6.081847232244098,12.41691415641352,2.0616431295742705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206537413:1897021501:0433/pct:57.14891811624947,6.0887193760093465,12.426342337246028,2.0616431295742705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ worn in genteel dress, are all I desire.
 My stature is six feet; otherwise rather  
 slender than corpulent.&quot; But he wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn84024442:0021110207A:1897030301:0492/pct:84.93357487922705,83.02272727272727,18.02536231884058,4.090909090909091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn84024442:0021110207A:1897030301:0492/pct:56.64451827242525,55.35227272727273,12.02053760193295,2.727272727272727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -430,7 +430,7 @@ standing six feet two Inohee i&quot; Ins
 boots. &quot;&#x27;My stature is six feet , other  
 wise rather slender than corpulent.&quot; i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_glass_ver01:data:sn87060165:00175032149:1899050601:0082/pct:2.800829875518672,10.622631293990255,11.662714878482513,1.5484569572279372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_glass_ver01:data:sn87060165:00175032149:1899050601:0082/pct:2.800829875518672,10.626240750767009,11.68247381940328,1.5484569572279372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

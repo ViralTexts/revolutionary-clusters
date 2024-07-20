@@ -69,7 +69,7 @@ induſtry and &amp;conoiny, honeſty and punctuality
 “ and cwconomy, honesty and punc­  
 ¢ tuality, sincerity, sobriety and al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799061101:0095/pct:41.34659525631216,32.7310021488572,16.097934200459065,4.737253369798789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799061101:0095/pct:41.35169599591941,32.73425799309761,16.097934200459065,4.737253369798789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ ployments, it is-of importance to the
 reputation and tranquility of the State,  
 that appointments, {hould be mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800061001:0302/pct:9.065376813855515,8.187192118226601,17.02293649555313,16.610837438423644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1800061001:0302/pct:9.065376813855515,8.19047619047619,17.02813751495293,16.620689655172413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -236,7 +236,7 @@ among the people.
 ; To what extent the Legislature has from  
 , time to time fulfilled these benevolent in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816061101:0276/pct:60.310793784124314,7.62401352874859,18.75262494750105,13.95152198421646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1816061101:0276/pct:60.29813142977115,7.6229392701141325,18.753936594583244,13.953078765675638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ honesty and punctuality in their dealings, sincerity,
 gooil humour, and ad suciul affections and genet vus  
 sentiments urpong the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816062201:0058/pct:19.241056502841857,59.9234205488194,14.944834503510531,4.492661135928526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183918:1816062201:0058/pct:19.237840548219957,59.915773353751916,14.94790796144632,4.496341670920538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -434,7 +434,7 @@ and punctuality in their dealings, sincerity,
 good htijiour, and all social and generous af­  
 fections among the people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823061101:0430/pct:60.28008930383601,17.772097403471008,20.255733712198094,16.803444100632316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1823061101:0430/pct:46.71770134228188,13.776804643241928,15.708892617449665,13.022625377958503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ uy recurring to these principles which
 an their nature and origin are democratic  
 (which form the basis and true conserva
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823061101:0249/pct:2.8392958546280522,7.737018858176182,17.130418322922583,18.496512529062258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184157:1823061101:0249/pct:2.838758516275549,7.736019630634122,17.133484733787533,18.498428688277585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -527,7 +527,7 @@ ty, industry and frugality, honesty and punctu­
 ality in their dealings, sincerity, good humor  
 and all social and generous affections amon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823062401:0097/pct:2.5675675675675675,5.844218674407354,77.67267267267268,87.54716981132076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015143:1823062401:0097/pct:2.5775775775775776,5.850669246895662,77.67767767767768,87.54071923883245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ tions and generous sentiments among the
 executed, to cover the earth with virtue and  
 glory; and every one acting under thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624232:1846031901:0146/pct:56.900878293601004,53.79851362510322,17.14240903387704,11.34393063583815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624232:1846031901:0146/pct:56.90610623170222,53.80539499036609,17.14240903387704,11.347371318469584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -948,7 +948,7 @@ araces of humandty benevolence, charity, honesty, and
 good humor--and all social affections and generous  
 sentiments among the people; and who, withal, ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530297:1849100801:0715/pct:2.444056498968418,240.12600229095074,41.99333439136645,7.147766323024055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530297:1849100801:0715/pct:0.8146854996561392,80.04200076365025,13.997778130455483,2.3825887743413516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -974,7 +974,7 @@ olence, charity, honesty, and good humor
 --and all social affections and generous  
 sentiments among the people; and who
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849101901:0500/pct:125.67463377023901,263.8498957609451,49.961449498843486,17.62334954829743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn87070038:00296028058:1849101901:0500/pct:31.436837029893926,65.96247394023628,12.497589199614271,4.4058373870743575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1055,7 +1055,7 @@ charity, industry and frugality, honesty and punctuality
 in all their dealings; sincerity, good humor, and all social  
 affections and generous sentiments among the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852081201:0784/pct:124.18433931484502,229.37725631768953,37.68352365415987,6.182310469314079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0020219039A:1852081201:0784/pct:41.394779771615006,76.45908543922984,12.561174551386623,2.0607701564380263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1082,7 +1082,7 @@ Commonwealth, to cherish ihe interest- especial­
 ly” of&quot;public schools, and grammar schools in  
 the towns.” During the past twenty years, grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:0051717211A:1853090301:0686/pct:26.844834463502195,85.75268817204301,18.049461507778222,8.333333333333334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021205:0051717211A:1853090301:0686/pct:20.80993353598846,66.46198830409357,13.998660415271265,6.458333333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1423,7 +1423,7 @@ mar schools in the towns.&quot; All this
 must enter into our work of recon?  
 struction, and become one of CT
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551645:1866031401:0654/pct:51.253947612855285,25.703463203463205,15.864759427828348,12.811147186147187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_alexiavalentine_ver01:data:sn84027008:00294551645:1866031401:0654/pct:51.26633228063657,25.703463203463205,15.858567093937705,12.820165945165945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1506,7 +1506,7 @@ did Ihe idea come into their minds that they
 needed it, or could use it to advantage if they  
 had it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952536A:1874032601:0439/pct:72.77300016225864,86.46412105449816,10.984909946454648,5.627142688261023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952536A:1874032601:0439/pct:72.76119402985074,86.45390070921985,10.987183646982478,5.629432624113475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1786,7 +1786,7 @@ all future periods of this constitution to
 cherish the Interests of literature and  
 the sciences and the seminaries of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn93058748:00517171529:1897041401:0139/pct:24.495207016112584,60.453064850458986,16.03100142769733,11.90405685519692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn93058748:00517171529:1897041401:0139/pct:18.994678328679065,46.85408299866131,12.418989409347173,9.233122968062727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1831,7 +1831,7 @@ may give the collage pecuniary sup­
 port  
 The names of William Goddar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534643:1897073001:0595/pct:18.41687817258883,3.541981186854024,26.300761421319798,91.91731506212983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:206534643:1897073001:0595/pct:18.41687817258883,3.541981186854024,26.300761421319798,91.92505709751093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1864,7 +1864,7 @@ and generous sentiments among the
 people.” These beautiful and humane  
 opinions, creditable to the hearts an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn93058748:00517171803:1898022001:0487/pct:39.094400646856684,50.84323214547587,15.868202951283607,10.07479102507699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_demeter_ver01:data:sn93058748:00517171803:1898022001:0487/pct:30.297650130548302,39.41127443552053,12.308093994778067,7.804212759509016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

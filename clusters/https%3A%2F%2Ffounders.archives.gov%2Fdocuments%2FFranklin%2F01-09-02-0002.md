@@ -541,7 +541,7 @@ ships, and your naval power therein, constantly
 increasing, will extend your influence round the  
 whole globe and over the world.&quot; These proph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:8.397200933022326,233.4801251593464,47.60079973342219,28.833004983196197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743889:1874102601:0352/pct:2.7990669776741086,77.8267083864488,15.866933244474064,9.6110016610654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -584,7 +584,7 @@ Penn, immediately exclaimed, &quot;Whence came
 this:--it is William Penn himself!&quot;&quot; From  
 this little bust the large one in the garde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1876042901:0161/pct:28.47168347556245,69.65120940799144,58.88285492629946,37.899238273419755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1876042901:0161/pct:7.120682964687621,17.41280235199786,14.726426076833528,9.474809568354939/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -618,7 +618,7 @@ Penn, immediately exclaimed, &quot;Whence came
 this?-it is William Penn himself?&quot;&quot; From  
 this little bust the large one in the garde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1876042901:0163/pct:29.393706830391405,70.68595927116827,58.71066768994628,37.942122186495176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1876042901:0163/pct:7.34983688351564,17.671489817792068,14.680483592400691,9.485530546623794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1314,7 +1314,7 @@ Intercourse of epistolary correspon­
 dence. lknjamin Franklin,  
 Ono who wants to bo tho object o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282735:1888102601:0535/pct:80.59672386895475,114.87541278895226,14.52808112324493,5.298709096367457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_foxtrot_ver01:data:sn87076843:00237282735:1888102601:0535/pct:60.48780487804878,86.16031221855299,10.907317073170733,3.97778444911438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1378,7 +1378,7 @@ intercourse of epistolary corrospon-
 ience. Benjamin Franklin.  
 One who wants to be the object o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065677:00415661903:1888110301:0114/pct:107.8721745908028,103.55634282599809,16.095089633671083,12.65840032702003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_junebug_ver01:data:sn87065677:00415661903:1888110301:0114/pct:80.9198986552329,77.66725711949857,12.083414539076204,9.497206703910615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1409,7 +1409,7 @@ diately pursued and taken, and which
 would neveSMtve occurred in the duller  
 Intercourse &#x27; 6? epistolary correepon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn87007277:00415662415:1888112401:0704/pct:110.14030612244898,107.76909722222223,16.517857142857142,12.485532407407407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn87007277:00415662415:1888112401:0704/pct:82.62810971720178,80.83043981481481,12.396342759940463,9.375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1448,7 +1448,7 @@ would never have occurred in the duller
 intercourse of epistolary correspond­  
 ence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn84025834:00220720366:1889050401:0002/pct:10.92115848753017,33.74125874125874,16.975060337892195,15.272227772227772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn84025834:00220720366:1889050401:0002/pct:10.927862697774202,33.74542124542125,16.98176454813623,15.28055278055278/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1472,7 +1472,7 @@ correspondence.
 Courage is needed in daily life. A  
 man must have courage to follo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196408:1889052001:0513/pct:54.29113924050633,98.86612672701287,14.417721518987342,7.622677465459743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_middlebury_ver01:data:sn84022871:00202196408:1889052001:0513/pct:40.73183084325146,74.14959504525964,10.812864016206635,5.726536445926632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1556,7 +1556,7 @@ sued ami taken, and vvlileli would never
 have occurred in the duller Intercourse of  
 epistolary correspondence. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287915:1890081601:0150/pct:291.5041782729805,298.58761012445814,42.409470752089135,11.970353796671795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287915:1890081601:0150/pct:72.88873411109176,74.64690253111453,10.604213825526728,2.9925884491679486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1616,7 +1616,7 @@ taken, which would never have
 occurred in the duller intercourse  
 of epistolary correspondence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:00517175420:1893102601:0809/pct:27.085714285714285,22.570761599066238,16.685714285714287,16.09279252990954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_denton_ver02:data:sn86090439:00517175420:1893102601:0809/pct:27.102857142857143,22.574409104172744,16.685714285714287,16.096440035016048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1656,7 +1656,7 @@ of epistolary correspondence.—Frauklin
 See the World’s Fair for Fifteen Cents.  
 Upon receipt of your address and fif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:0039334877A:1893110201:0371/pct:84.87394957983193,79.18685734546744,11.360698125404008,12.256234487649214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:0039334877A:1893110201:0371/pct:84.8602359024075,79.17749940912314,11.362901922766198,12.257740486882534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

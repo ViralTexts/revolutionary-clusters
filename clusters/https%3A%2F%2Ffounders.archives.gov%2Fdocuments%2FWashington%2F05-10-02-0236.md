@@ -71,7 +71,7 @@ the signature, and a like sum to lie paid annually
 nfturwnrd during the continuanco of the treaty,  
 would the Senate upprovu the same 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852032501:0506/pct:30.998552821997105,27.393903753797904,14.138929088277859,4.194844653533274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852032501:0506/pct:31.008200675349734,27.393903753797904,14.138929088277859,4.198111666503316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -98,7 +98,7 @@ tlio signal uru, nmi u like turn to tie paid uiutwi/li/ \
 nftorward during the continuance of the treaty,  
 would the Senate upprovu tho suuie 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852032501:0507/pct:30.943011222853812,26.648894154818326,15.493368313656902,4.660347551342812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620354:1852032501:0507/pct:30.943011222853812,26.655476566614006,15.503085070203566,4.657056345444971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ tore, nnd a like sum to be paid annually afterward
 during the continuance of the treaty, would  
 tho Senate approve tho same 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852040701:0352/pct:71.57591384802063,45.13168871409844,15.000758380100105,6.769157430580384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661496:1852040701:0352/pct:71.5860255826887,45.13168871409844,14.995702512766066,6.777102451038812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ ture, and a like sum to 4&gt;e paid annually afterward
 during the continuance of the treaty, would  
 the Senate approve the same 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852040801:0401/pct:70.95115681233933,43.711639325968086,15.152813481862324,6.684521816761523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014763:00415661460:1852040801:0401/pct:70.95115681233933,43.71535914890451,15.16233457107493,6.684521816761523/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ Americans in captivity there, the sum of forty
 thousand dollars.  
 The annual tribute was continued until the 3
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854100701:0299/pct:19.47921162422673,9.774436090225564,15.95453891526399,8.016364440513048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854100701:0299/pct:19.48880257037357,9.781807459826036,15.949743442190572,8.020050125313283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -181,7 +181,7 @@ hear any man awear, or mats use of an oath or­
 ecration, to order the off nder twenty five lashea im  
 mediately, without a Court Martial.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845011501:0254/pct:87.2496871088861,29.163730326521023,42.61576971214018,15.163260512097722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845011501:0254/pct:29.083229036295368,9.721243442173675,14.205256570713392,5.054420170699241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ of an oath or execration, to order the ofler.dcr
 twenty live lashes immediately, without a Court  
 Martial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1845011701:0476/pct:38.2317562149158,79.70467032967034,14.715316760224539,5.309065934065934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1845011701:0476/pct:38.22792422571916,79.69919648375799,14.717182853897297,5.310990545521141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ they hear any man swear, or make use of an oath
 or execration, to order the offender twenty-five lash­  
 es immediately, without a Court Martial
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845013101:0018/pct:312.98299845440494,295.1668584579977,56.491499227202475,18.814729574223247/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845013101:0018/pct:78.29112700560603,73.79171461449943,14.131065145950126,4.703682393555812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -292,7 +292,7 @@ make use of an oath or execration, to or­
 der the offender twenty-five lashes imme­  
 diately, without a Court-Martial.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668855:1846120301:0564/pct:69.70737289521007,49.916307986609276,13.421611901258787,6.671449067431851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668855:1846120301:0564/pct:69.71282218952646,49.916307986609276,13.432510489891559,6.683405069344811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ the offender twenty-five lashss immadiately
 withe ut a Court-meriiel. For the second of  
 fence he will be more severely punished
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539884:1861081301:0163/pct:276.15947925142393,219.07747424988804,49.71521562245728,18.211673384087177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539884:1861081301:0163/pct:69.08202727457765,54.76936856247201,12.436393242418074,4.552918346021794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -411,7 +411,7 @@ tweuy-five lashes immediately, without a court
 i martial. For the second offence he will be more  
 severely puuished.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861091701:0334/pct:57.29099987197542,10.441999613974136,12.674433491230316,5.027986875120633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861091701:0334/pct:57.299534844023384,10.441999613974136,12.6787009772543,5.027986875120633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ offender twenty-five lashes immediately,
 without a Court-martial. For the second  
 offence he will be more severely punished.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862071101:0760/pct:79.17867435158502,145.6556541988066,47.262247838616716,23.2280599621598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862071101:0760/pct:19.805370336997658,36.41391354970165,11.821949900883043,5.80701499053995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -529,7 +529,7 @@ offender twenty-five lashes immediately,
 withont court martial. For the second of­  
 fence he is to be more severely punished
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1863080501:0523/pct:55.01930501930502,152.02328966521105,81.94980694980696,34.643377001455605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1863080501:0523/pct:13.758146270818248,38.00582241630276,20.492396813902968,8.660844250363901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ the second offence he will he severe­
 ly punished.&#x27;  
 When the American army were a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028605:1864071301:0209/pct:62.81570800065178,44.367952522255194,14.420726739449242,9.222551928783382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032276:00296028605:1864071301:0209/pct:62.81570800065178,44.375865479723046,14.426158274944326,9.214638971315528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -609,7 +609,7 @@ For a second offense he shall be more severe­
 ly punished.”  
 Could this order now be enforced all eve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870042101:0170/pct:21.543147208121827,59.02383654937571,14.862944162436548,7.108399545970488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870042101:0170/pct:21.538773853024768,59.01546318626755,14.86500203004466,7.110937721662647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -676,7 +676,7 @@ make use of an onth or imprecation, to
 order the offender immediately twenty­  
 five lashes. Any
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876092901:0185/pct:145.33941236068895,188.17427385892117,39.31104356636271,20.16597510373444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876092901:0185/pct:36.33485309017224,47.04356846473029,9.827760891590678,5.04149377593361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

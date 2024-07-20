@@ -1009,7 +1009,7 @@ they were to be deceived by England, to break
 their union among themselves, and their faith  
 with their allies, they would-ever after be in the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789101701:0001/pct:5.46095126247798,69.60411115340693,25.836758661186142,24.324324324324323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789101701:0001/pct:5.475631238990018,69.61838599162543,25.84409864944216,24.324324324324323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1232,7 +1232,7 @@ vinced that the aversion and antipathy to the Bri­
 tiflicaufe is very general, so general,that the to­  
 ries are to be accounted but a very little thing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789101701:0001/pct:31.297709923664122,12.504758279406166,53.58191426893717,81.10011419870575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789101701:0001/pct:31.31238990017616,12.519033117624668,53.611274221961246,81.10963075751808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1275,7 +1275,7 @@ be learned the fame way. The omnipotence of
 the British Parliament,and the omnipotence of the  
 British navy, are like to go the fame way.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789101701:0002/pct:19.77897421365826,6.391909940850983,25.0779257580051,23.18259874069834/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789101701:0002/pct:19.77897421365826,6.401450104941805,25.106262397279682,23.18736882274375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1478,7 +1478,7 @@ the Tories are in so small 4 number, and of
 ng. &#x27;  
 ’f Mr. Kalkoen would Lelieve me, I could
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809112201:0124/pct:73.36806120787888,44.12314350349169,22.269249552335992,51.76551588472509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809112201:0124/pct:73.36806120787888,44.12970066555195,22.28010201313148,51.76551588472509/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1510,7 +1510,7 @@ relative to his eénduct in America—to which
 the reader is referred.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809112201:0125/pct:4.122362178962866,2.1631102016954107,22.116800261737282,12.316086914157653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809112201:0125/pct:4.122362178962866,2.1631102016954107,22.13315884181253,12.322582740589171/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1580,7 +1580,7 @@ ompipotence of the British parliament and
 thic.omnipotence of the British navy, are like  
 10 go the same way. &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809112201:0125/pct:3.6479633567806315,14.557147033031278,22.591199083919516,35.71080580726883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1809112201:0125/pct:3.658869076830798,14.560394946247037,22.591199083919516,35.70755789405307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1669,7 +1669,7 @@ come from a source that is not in good odour with
 our countrymen, they should at least operate as a  
 warning voice to hiin whe prays that the hour of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843081101:0033/pct:47.380041212834854,31.193455245428297,15.778628201354136,5.794032723772858/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843081101:0033/pct:47.380041212834854,31.196663458453642,15.788440781081347,5.800449149823549/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1702,7 +1702,7 @@ i request Mr. Calkeon to tell me what is or can be. All
 these horrors the English have practised in every P-irt  
 i of America, Irom Boston to Savannah.&quot; The fathe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843081101:0033/pct:47.409478952016485,39.4706448508181,15.646158375036798,8.306063522617903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843081101:0033/pct:47.409478952016485,39.47385306384344,15.660877244627613,8.312479948668592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1729,7 +1729,7 @@ come from a source that is not in good odour with
 our countrymen, they should at l&#x27;-ast operate as a  
 warning voice to hun whe prays that the hour of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843081101:0034/pct:47.530591183841956,30.91820021196647,15.80421642341147,5.867617304171885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843081101:0034/pct:47.535505430242274,30.921411825159776,15.814044916212099,5.867617304171885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1762,7 +1762,7 @@ I request Mr. Calkeon to tell me what is or can be. All
 these horrors the English have practised in every pari  
 | of America, from Boston to Savannah.&quot; The fathe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843081101:0034/pct:47.63379035824856,39.146353213219,15.64204629220109,8.353405915791502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843081101:0034/pct:47.63870460464888,39.15277643960562,15.65187478500172,8.35661752898481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1784,7 +1784,7 @@ vernment of a 1&#x27;arliamsnt, the most corrupted in the
 world, in which they would have no voics nor influ  
 ence at three thousand miles distance from them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843081101:0035/pct:47.8448275862069,31.533000767459708,15.829369797859691,3.5782808902532617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843081101:0035/pct:47.8448275862069,31.53939626502942,15.834324217201743,3.5782808902532617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1817,7 +1817,7 @@ request .Mr. Calkeon to tell me what is or can be. All
 j these horrors the English have practised in every part  
 ! of America, from 15-slon to Savanr&gt;ah.&quot; The fathe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843081101:0035/pct:47.78537455410226,39.73522640061397,15.84423305588585,8.355717574827322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1843081101:0035/pct:47.78537455410226,39.74162189818368,15.85909631391201,8.352519826042466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

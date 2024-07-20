@@ -73,7 +73,7 @@ Th: Jefferson
 such as he may deem the public welfare  
 may require not to be disclosed, touch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807020201:0129/pct:42.73460284782982,90.96955211472513,17.34431291816778,1.4028889119817105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1807020201:0129/pct:42.72727272727273,90.96009975062344,17.345626072041167,1.4053408146300914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -90,7 +90,7 @@ tive, excepting such as he may deem the
 public ‘&#x27;welfare may require not to be dil­  
 cloled, touching any illegal corbination o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807020301:0440/pct:60.14662299173296,56.66301206020133,16.331305568554047,1.8339479716934117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1807020301:0440/pct:60.157021785472885,56.66301206020133,16.331305568554047,1.837270341207349/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ conn, f athlrcf* them to you for that put pole,
 Mid fe.tule yuu with clleem and ref&#x27;ict.  
 Tils JEFFERSON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807062301:0060/pct:59.63455149501661,28.692971639950677,18.67847914359542,58.8039457459926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807062301:0060/pct:59.62354677984868,28.689434101837012,18.681183490188843,58.80080549048617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ or that purpose, and salute you with es&#x27;e- m and
 erpert. TH t JEFI KR8i&gt;N  
 T CERTIFY thnt the annexed is a tru
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807062401:0211/pct:23.269961977186313,38.60775427995972,17.680608365019012,55.274420946626385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807062401:0211/pct:23.265538870937085,38.60289490245437,17.683583602610405,55.27165932452276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -437,7 +437,7 @@ and respect.
   
 TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807062601:0593/pct:50.93514695166383,3.4744667097608275,42.55525868350741,94.57013574660634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807062601:0593/pct:50.92277804759592,3.473905315883018,42.55099562894609,94.55889481337857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -580,7 +580,7 @@ purpose, and salute you with esteem
 and respect. I  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807070101:0001/pct:1.8880068654795108,8.50447966919366,73.56790388328685,89.73121984838043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807070101:0001/pct:1.8951584066366303,8.509074201699978,73.58220696560109,89.73581438088675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

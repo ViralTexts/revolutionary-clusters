@@ -106,7 +106,7 @@ pi eapy themselves, without any application to conjlituenfs at all.
 4. &quot; Becaitfe a Jingle AJfembly pojfejjed of all the pvicers of goien*  
 ment mould mute arbitrary laws for their own interefl, and adiud/t al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789061301:0002/pct:70.9885596949252,23.490188607353783,25.02200058668231,11.316441226900363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789061301:0002/pct:70.9885596949252,23.490188607353783,25.05133470225873,11.321204038864545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -310,7 +310,7 @@ These great men, in this refpeft, should be, once a year
 &lt;c Like bubbles on the sea of matter borne,  
 &quot; They rife, they bteak, and to that sea retur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790092901:0002/pct:7.941550190597205,4.424254394627691,57.62388818297332,89.1566265060241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790092901:0002/pct:7.957433290978399,4.434129962472842,57.63182973316391,89.1566265060241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ John Milton, in one ot tiis fonnetj,
 •&#x27; When h ! a barbarous noise surrounded me,  
 •&#x27; Of owls, and cuckoos, ajjtS, apes and dig I.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790100201:0004/pct:6.7931456548347615,5.713716902249652,54.34516523867809,88.63229145928727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790100201:0004/pct:6.7931456548347615,5.713716902249652,54.36046511627907,88.64722277523393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1168,7 +1168,7 @@ This will .each them the great political virtues of humility, pa­
 tience, and moderation, without which every man in power be­  
 comes a ravenous beast of prey.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791061801:0002/pct:40.02375296912114,23.569964598472144,25.950118764845605,8.664058133035216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791061801:0002/pct:40.04602137767221,23.569964598472144,25.957541567695962,8.69200670765791/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1285,7 +1285,7 @@ pies, and v., -rous affections in our
 nature, then, have the faireft cbai  
 Support thenobleft and mo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802111901:0002/pct:64.14033727466563,43.387323045529904,17.07695289784842,34.45989032011223/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802111901:0002/pct:64.15002907540222,43.396888152021425,17.07695289784842,34.46307868894274/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1318,7 +1318,7 @@ r us of vanities, levities and fopperies*
 &#x27;lich are real ai iv all great,  
 manly a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802111901:0002/pct:81.77941461523551,40.811121030480805,16.127156425663888,12.230582833822217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802111901:0002/pct:81.77941461523551,40.82068613697233,16.136848226400467,12.230582833822217/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1353,7 +1353,7 @@ on of thecolonies,and its authority should
 tacredly be I to th ■ v, vi%»  
 war, tr, utehes be&lt;wcc n colom an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802111901:0002/pct:81.54681139755766,58.67873995663818,16.107772824190736,13.72273944649917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_burmese_ver01:data:sn83045242:print:1802111901:0002/pct:81.54681139755766,58.6851166942992,16.1223105252956,13.72273944649917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2020,7 +2020,7 @@ sciences, a maxim more infallible than this,—
 “ whe&gt;£t»unual elections end there slavery be­  
 gins.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827120301:0396/pct:43.5705792423985,7.6923076923076925,18.566332597248174,30.924269528920693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827120301:0396/pct:43.563179347826086,7.6913904125924155,18.568840579710145,30.92455680101757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2066,7 +2066,7 @@ war, trade, disputes between colony and colony,
 ‘ These colonies under such forms of govern­  
 I men&#x27;, would be titiconrj nr ruble by all the mu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827120301:0396/pct:43.604552403601154,38.56887298747764,18.549346016646847,20.298151460942158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216389:1827120301:0396/pct:43.59714673913044,38.56427378964941,18.551856884057973,20.2997058589713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2199,7 +2199,7 @@ sion :
 &quot; bike bubbles on the sea of matter borne.  
 They rise, they break, and to that aea return.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061001:0780/pct:78.91536565324569,64.8984771573604,15.579293344289235,2.5380710659898478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854061001:0780/pct:78.92632155573816,64.8984771573604,15.579293344289235,2.5465313028764807/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2232,7 +2232,7 @@ We feel, therefore, that those solemn words
 “ like bubbles on tbe sea of matter borne.  
 They rise—they break—and to that sea return.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864042601:0002/pct:4.188679245283019,50.872134928643504,9.433962264150944,0.6198644947383595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1864042601:0002/pct:4.188679245283019,50.87573879198501,9.44811320754717,0.6306760847628657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2435,7 +2435,7 @@ protected at home and abroad, and the speedy
 release of Martin Koszta is an instance to  
 show with what celerity the protection of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101994:1884091301:0299/pct:20.291095890410958,236.34385201305767,46.917808219178085,15.420488108192135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ike_ver01:data:sn86053573:00211101994:1884091301:0299/pct:5.073859987154785,59.08596300326442,11.731963177049883,3.8551220270480338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2455,7 +2455,7 @@ blind ns to the beauties and immortal principles
 of the Democratic, party, and for the perpetua  
 lion of these principles our organization was es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210065:1884091301:0546/pct:5.630026809651475,55.654071750102304,14.687859057832249,2.687218660482881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210065:1884091301:0546/pct:5.636410060002554,55.65861865138908,14.694242308183327,2.682671759196108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2481,7 +2481,7 @@ The report further sneaks of the
   
 democratic party, under which the citize
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:00295873693:1884091301:0098/pct:70.46952224052718,40.896321070234116,16.392092257001647,4.147157190635451/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_deadline_ver01:data:sn92053943:00295873693:1884091301:0098/pct:52.88421920065925,30.67558528428094,12.299134734239802,3.117056856187291/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2501,7 +2501,7 @@ The mistakes of men cannot blind us to the
 beauties and immortal principles of the Demo­  
 cratic party, and for the perpetuation of thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884091301:0977/pct:58.471237194641446,135.05202671222239,52.32466509062254,9.13185277216959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_angelou_ver01:data:sn83030272:00175044838:1884091301:0977/pct:14.617809298660362,33.763006678055596,13.081166272655635,2.2829631930423977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2522,7 +2522,7 @@ men cannot blind us to the beauties and
 immortal principles of the Democratic  
 party, and for the perpetuation of thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1884091301:0048/pct:123.65428354814253,176.77069972922902,52.38817285822593,12.882998432378509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282322:1884091301:0048/pct:30.92529389457717,44.192674932307256,13.10200985968904,3.220749608094627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2576,7 +2576,7 @@ The report further speaks of the beau­
 ties and immortal principles of the Dem­  
 ocratic party, under which the citizen i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:0021110112A:1884091401:1077/pct:256.59163987138265,148.28510182207933,54.58199356913183,30.117899249732048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_archives_ver01:data:sn87082573:0021110112A:1884091401:1077/pct:64.18660768148,37.07127545551983,13.653730142770963,7.529474812433012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2617,7 +2617,7 @@ of men cannot blind us to the beauties
 and immortal principles of Democratic  
 party, and for the perpetuation of thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288105:1884091801:0219/pct:125.0,161.65904637491835,40.252808988764045,11.648160243849336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn84026913:00237288105:1884091801:0219/pct:41.666666666666664,53.88634879163945,13.417602996254681,3.882720081283112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2638,7 +2638,7 @@ The mistakes of men cannot blind us to the
 beauties and immortal principles of the Demo­  
 cratic party and for the perpetuation of thes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625534:1884091901:0152/pct:21.878617496279148,15.05261755694685,13.825037208533157,3.689889436525909/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625534:1884091901:0152/pct:16.955741626794257,11.672803606455831,10.714285714285714,2.863140507243883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2667,7 +2667,7 @@ The report further speaks of the beau­
 ties and immortal principles of the Dem­  
 ocratic party, under which the citizen i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn87065522:00295878058:1884092001:0919/pct:139.71176941553242,122.14542438484932,44.19535628502802,24.99308819463644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_icydrop_ver05:data:sn87065522:00295878058:1884092001:0919/pct:34.927942353883104,30.53635609621233,11.048839071257005,6.24827204865911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

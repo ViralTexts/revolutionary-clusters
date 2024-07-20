@@ -147,7 +147,7 @@ Still flags thy torpid wing ?
 Fly, mdancohly Seafon, fly,  
 _r And yield the year to Spring
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807040701:0416/pct:22.453919195680506,38.04599099647159,17.706199962762987,10.852901812872613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1807040701:0416/pct:22.449739389426657,38.04136253041362,17.70910896003971,10.855636658556367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ Fly. melancholy Season, fly—
 And yield the year to Spring.  
 Spring, the young cherubim oflovev
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819122201:0259/pct:4.478681476173414,6.899125613137129,17.717663919742026,13.414374066965237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn83026170:00414216262:1819122201:0259/pct:4.477879276374709,6.898390020258023,17.720460923040182,13.416497849806305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ Still flags thy torpid wing?
 Fly, niol&#x27;iiicholly season, ily,  
 And leave the year to Spring.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1849032201:1055/pct:95.62737642585552,58.654235914065666,15.779467680608365,3.648155654641265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1849032201:1055/pct:71.77097203728363,43.994054857451694,11.8508655126498,2.74287258478584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ Fly melancholy Season fly,
 And yield the year to Spring.  
 Spring-the young cherubin of love
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1862122701:0229/pct:11.535688536409516,70.01989201477693,99.78370583994233,318.6700767263427/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn85025181:00237287952:1862122701:0229/pct:2.884442040742744,17.504973003694232,24.950423652424735,79.66751918158567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ And yield the year to Spring.
 Spring, the young harbinger ef love,  
 An exile in diegra 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553871:1877052901:0523/pct:20.157362307980517,179.80835995000695,38.46009741476208,9.012637133731426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_palisade_ver02:data:sn84022046:00279553871:1877052901:0523/pct:5.038396703502529,44.94584837545126,9.613223450084286,2.2528464315467924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

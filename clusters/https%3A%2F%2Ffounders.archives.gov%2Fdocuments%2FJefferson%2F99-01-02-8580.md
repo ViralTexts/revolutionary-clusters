@@ -89,7 +89,7 @@ tic&#x27;siir former. occupation, I sainte them and
 yourself with sentiments of sinccre regarssd  
 lH: JEFVERSO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808092001:0372/pct:6.148474267496584,47.11202650667144,23.834826172764537,27.840959971344137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808092001:0372/pct:6.147540983606557,47.10780802292263,23.836267961951023,27.8414517669532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ i with sentiments of sincere
 ,rd.  
 » TH: JEEITOOO
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808092101:0001/pct:41.196654514261205,60.27450472614269,19.55822431910787,34.14476239803185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808092101:0001/pct:41.20380298806205,60.27450472614269,19.55822431910787,34.15771073417066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -203,7 +203,7 @@ for their former occupation. I salute them and
 yourself with sentiiuenis &lt;&gt;t sincere regard;  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808092101:0118/pct:4.82897384305835,11.67296010507306,20.57344064386318,23.707108849121656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808092101:0118/pct:4.827759617802363,11.671043992120815,20.574553683681167,23.707321076822062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ masters .and males of Philadelphia, says “ should
 “ substitute fur their former occupation.&quot;  
 It ja Astonishing that it did not occur in “ th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808092301:0121/pct:11.224489795918368,17.78688524590164,20.806371329019413,8.59016393442623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808092301:0121/pct:11.221696939537198,17.78396984100967,20.80741477979597,8.59285363055237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ a substitute for their former accupation.
 r»f sincere regard.  
 Til: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808092701:0319/pct:41.4039039039039,3.307046553039939,36.12987987987988,91.1345713558891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808092701:0319/pct:41.39613435916682,3.3066259697316545,36.12935510101958,91.1272203145534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

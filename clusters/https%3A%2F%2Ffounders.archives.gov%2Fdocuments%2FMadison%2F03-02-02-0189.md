@@ -163,7 +163,7 @@ it in a convenient form and to an udcquute
 amount. -  
 JAMES MADlSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810010401:0053/pct:22.163308589607635,34.103247458296316,23.259102156238953,31.81324647122693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1810010401:0053/pct:22.159392118748894,34.0998815633636,23.260882370265655,31.81339649953941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -224,7 +224,7 @@ that may be m-tie for i (sorting to it in a convenient
 *orm and to an adequate amount.  
 James Madison
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810010801:0868/pct:28.078940794404197,7.275968238535084,20.934299275543342,24.744773942634904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810010801:0868/pct:28.07192807192807,7.274789371354505,20.935314685314687,24.744815294880105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ ing to it, in a convenient form, and to an
 adequate amount.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010901:0305/pct:42.36347358997314,4.7411179822965925,34.44941808415398,90.6511458712259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010901:0305/pct:42.35588972431078,4.740543161978661,34.44921828380475,90.64419657290657/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -346,7 +346,7 @@ lor resorting to it m a convenient lot in
 and to an adequate amount*  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010901:0016/pct:22.969662709628793,13.213328226733053,18.334275485208217,30.537469679560832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010901:0016/pct:22.965335342878674,13.211641562420219,18.33710123084652,30.537826567951665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ may be made for resorting to it in a conveni­
 ent form, and to an adequate amount.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810011001:0154/pct:48.36546521374686,17.71371769383698,22.414082145850795,27.017892644135188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1810011001:0154/pct:48.36546521374686,17.720344599072234,22.419670298966192,27.017892644135188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ ting toit in a convenient form, and to an
 adequate amoupt, £A ;  
 &#x27;\ JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810011601:0430/pct:76.23731459797034,6.254357135743452,16.424668227946917,25.057265212628224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010807:1810011601:0430/pct:76.24251886546969,6.257676858214653,16.429872495446265,25.060584935099424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ vision that may be made for resorting to it
 in a convenient form, and to an adequate a  
 mount. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810020301:0348/pct:4.39360929557008,75.10064657801635,17.21132897603486,16.127851653043795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810020301:0348/pct:4.392811762570339,75.0914857282264,17.21425546076118,16.12995039440514/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -888,7 +888,7 @@ message of the 3d in*t. •• which impose on
 them the necessity of the precautionary mea  
 surrs” recommended in that message, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810020601:0352/pct:57.968380883154644,86.96180977864266,17.354170452480464,2.8703478472391146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810020601:0352/pct:57.957848837209305,86.95123434269732,17.357073643410853,2.8740524544975474/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -931,7 +931,7 @@ vhat may be made for resorting to it,
 in a convenient fora), and to an ade­  
 iquate amount.” jL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810021301:0055/pct:40.18024784078107,63.015611118162205,17.96845662786331,20.510217032618353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810021301:0055/pct:40.172705087291156,63.00761421319797,17.971340967398785,20.511844331641285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -983,7 +983,7 @@ for putting into actual service it necessary soy pmt
 ol the naval armament not now employed.  
 Under tliis recommendation a hill passed th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810060801:1122/pct:27.591387080620933,4.504651542353518,21.081622433650477,5.434960013056961/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810060801:1122/pct:27.58448060075094,4.503916449086162,21.082603254067585,5.438152741514361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1021,7 +1021,7 @@ and successive aids, from that source, adequate to
 emergencies, winch may &#x27;call fof tWitk-&#x27; ?-yH&gt;&gt;; f  
 It will rett willt them also, to deUfMna ho
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062801:0592/pct:28.172773598641108,80.82760824412846,21.18417859742781,16.088832081802206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811062801:0592/pct:28.16593886462882,80.814696485623,21.18510431829209,16.090255591054312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1142,7 +1142,7 @@ sorting to it, in a convenient form, &amp; to an ade­
 quate amount.  
 . JAMES MADISON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070501:0072/pct:22.638762511373976,22.74688694365676,17.67060964513194,21.107138453951425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811070501:0072/pct:22.634643377001456,22.744082840236686,17.67345948568656,21.108645627876395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1197,7 +1197,7 @@ provision that inuy be made for- resorting to!
 i:, in a convenient form, and to an adequate  
 h mount*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811070801:0227/pct:39.05017921146953,15.22721865334285,17.168458781362006,22.115155841065906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811070801:0227/pct:39.043182225407634,15.225407398596408,17.171355193215074,22.116490226398636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1447,7 +1447,7 @@ resorting to it; in a&#x27;copvenient form,
 and to att adequate amount.  
 ﬁL“\ME‘S MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811072301:0117/pct:56.79259830377795,20.394864812293328,16.946800308404008,32.53258120988134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1811072301:0117/pct:56.797738370598815,20.401348635155287,16.95194037522488,32.52933929845037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

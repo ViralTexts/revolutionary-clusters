@@ -491,7 +491,7 @@ from him : she will then return to
 L&#x27;Orient, in order to brin ■ back Mr. &#x27;  
 Baker with your communications.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111401:0001/pct:40.939597315436245,9.93999478215497,34.30714567706277,85.82050613096791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808111401:0001/pct:40.939597315436245,9.944342986346639,34.320305303329384,85.82485433515959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ explanations, u the re l e i .: -posit n to offer them,
 ■ rid (or a derision here on any rt ply m y be ol a  
 diff . nt character.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808111801:0215/pct:53.77720870678617,8.1605791378743,21.07554417413572,19.85850608752879/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808111801:0215/pct:53.763440860215056,8.159236716565225,21.076548899129545,19.8593518670834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ lew days to receive communications troin him : she
 will then leturn to L’Orient, in order to briug bark  
 Mr. Baker with your communications.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808111801:0215/pct:53.444302176696546,39.5360315893386,21.818181818181817,39.3385982230997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808111801:0215/pct:53.43061955965182,39.52952788287547,21.81899641577061,39.33623951307781/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -657,7 +657,7 @@ si . - &quot;si - care, as your discretion will doubt­
 *mcnt Wibie ;); she oﬀensiv; tence-le  
 &#x27;si ou ieave e &quot;W&#x27;Q open orfiieni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111801:0576/pct:6.809565470982794,24.60812255076594,23.826188393117526,26.14000712504453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111801:0576/pct:6.808572678232979,24.605931071333156,23.827574476357096,26.14064772761006/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -687,7 +687,7 @@ ss si_ msswhole or in part the embnrgo laws.
 ss ss si sictj intention. They appeal eqictmliy  
 &quot;lo jdstisice and the piﬂicy of; the tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111801:0576/pct:6.809565470982794,53.50017812611329,23.505395158938466,9.618810117563235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111801:0576/pct:6.808572678232979,53.49541366105619,23.5068280118579,9.620922017395435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -738,7 +738,7 @@ WWythosWd polic&#x27;y of France to re- -&#x27;
 so be, the first to taking the retsimgadq stay, L&#x27;  
 ss Missicanswtbe 0!!ka to expect that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111801:0576/pct:6.809565470982794,66.82401140007126,23.826188393117526,24.875311720698253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111801:0576/pct:6.808572678232979,66.81806037937483,23.827574476357096,24.876064950871257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ communications from him; she will then
 return to L&#x27;Oricnt,&quot; in order to bring back  
 Mr. Pus.-ter with ybur comnmnictcafsiions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111801:0576/pct:31.029454651501897,22.203420021375134,22.455526392534267,11.06163163519772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808111801:0576/pct:31.024930747922436,22.201442693026983,22.457112309860523,11.063615044379137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -906,7 +906,7 @@ communicatinw from him 1 she will then re­
 turn to l/( .&lt; &gt;ctit, m order to bring back  
 Mr. Baker with yonr communications.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112201:0236/pct:4.330422125181951,7.650821522638906,18.86826783114993,71.57907939295121/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808112201:0236/pct:4.329634346006912,7.64986205166792,18.870899278394276,71.57428308669844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1054,7 +1054,7 @@ com mudeations from him: she will then re­
 urn i &gt; L’Orniit, i.i order to bring Mr. Ba­  
 ker with your communications.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112201:0382/pct:2.48423466462832,2.436846134217913,38.429199312058095,93.93978055626435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808112201:0382/pct:2.4837600305693543,2.436535272356168,38.42822570373201,93.93204915592975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1238,7 +1238,7 @@ him t she will then return to&#x27; L’­
 Orient, in order to bring back Mr.  
 Baker with your communications.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808112501:1071/pct:3.2387580299785865,5.787076092458242,36.40256959314775,91.09161464484562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808112501:1071/pct:3.237891356703238,5.786099865047233,36.3995183302114,91.08046558704453/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1740,7 +1740,7 @@ her ; it will he desirable, that as little room as possi­
 ble should be left, for this remrining danger to the  
 tranquil enjoyment of our commercial rights.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809031501:0386/pct:24.381713714713964,66.06883179835191,21.08418685985511,13.976409759250283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809031501:0386/pct:24.375624375624376,66.05815831987076,21.085164835164836,13.978190630048465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1775,7 +1775,7 @@ al &#x27;of so much of her decrees as violate
 sisisi&#x27;wsiill be gained by a repeal of that part of  
 &#x27;thmssyct all it may not have the eﬀect of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809031501:0332/pct:4.449900260856222,79.62929799426934,24.858063526162343,16.269699140401148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216092:1809031501:0332/pct:4.449217551396134,79.62216850210403,24.859363813030583,16.27122690781031/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1819,7 +1819,7 @@ as possible shoulil be (ett, fortius remaining
 danger to the tranquil enjoyment of our com­  
 mercial fights.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809031701:0396/pct:5.053289231900036,7.030364117424719,17.695700110253583,16.605770442232583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1809031701:0396/pct:5.052360830424398,7.029478458049887,17.698573090820013,16.60787771898883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1999,7 +1999,7 @@ nable to expect that it will b
 mediately taken.&quot; In another letter f  
 of July 22d, 1803, Mr. M. says 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809081801:0001/pct:60.128230815467845,76.75964546402503,17.55159286716089,6.4520333680917625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809081801:0001/pct:60.14158819207908,76.76833507125478,17.544914178855272,6.447688564476886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2057,7 +2057,7 @@ terj&#x27;to leave the way open for friendly and
 respectful explanations, if there shduld be a  
 ; disposition to oﬀer them !&quot; Genct A&#x27;rmstron
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811051801:0446/pct:30.564784053156146,84.1452868261747,21.627906976744185,4.016527337369078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216134:1811051801:0446/pct:30.559707689752532,84.13720215219062,21.629851076786803,4.0193440942864465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2076,7 +2076,7 @@ employed, [in CbampagnyY Jetted to leave the
 way open for friendly and respectful explanations,  
 if there should be a disposition to offer them !&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811052001:0525/pct:51.83996048407014,6.613713729940023,21.536181773277352,3.4689576916842277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811052001:0525/pct:51.82716049382716,6.612641815235008,21.537037037037038,3.472447325769854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2165,7 +2165,7 @@ ny s letter] to leave the way open for friend­
 ly and respectful explanations, if there should  
 be a disposition to offer them 1” Gen. Arm
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811053101:0091/pct:25.073346874294742,35.35197414641,21.620401715188446,4.468174792749754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811053101:0091/pct:25.06768953068592,35.34700758640067,21.6211642599278,4.471059286316381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2193,7 +2193,7 @@ plied that they [the United States) were susceptible
 ol impressions by winch no independent and honora­  
 ble nation can be guided.” And Grcat-Britain in re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811053101:0091/pct:24.915368991198374,77.2657018406632,21.507560370119613,9.428129829984544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811053101:0091/pct:24.90974729241877,77.2548468670975,21.508348375451263,9.430317504917111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2221,7 +2221,7 @@ state of things called for a patient endurance
 of many wrongs— The proceedings of her  
 government were so extraordinary as t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811053101:0091/pct:24.328593996840443,10.524097231979766,44.27894380501016,83.11086131797106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1811053101:0091/pct:24.323104693140795,10.522618713121663,44.274593862815884,83.10269738690643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2270,7 +2270,7 @@ to be the first in taking the retrograde s’ep,
 •hat it cannot be unreasonable toexpect.ihai  
 it will be immediately rakcii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811080201:0105/pct:40.79309711767946,85.8339492485834,17.899761336515514,8.536585365853659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811080201:0105/pct:40.7856093979442,85.82337726320975,17.902594224180127,8.539639528677588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -54,7 +54,7 @@ national government in the event of a war
 Much may be inferred from the result o  
 the elections of governors, which withi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812031301:0384/pct:58.98729446935725,50.40187955978731,17.843796711509714,9.459626561147521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1812031301:0384/pct:58.976274985989164,50.39564787339268,17.8466903294103,9.462578305308275/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ incline them to break a seal with the same indiffe­
 rence that they break their words, wbea eitbsr eo*  
 riosity or interest is to be indulged. . (
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812031601:1034/pct:71.62907268170426,67.80519692760255,21.904761904761905,4.853734270305606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1812031601:1034/pct:71.61112503132047,67.79411764705883,21.905537459283387,4.85702614379085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -119,7 +119,7 @@ indifference, that they bre^k their words,
 when cither curiosity or interest is to he in­  
 dulged
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812031601:0091/pct:39.87126765599857,62.28633773790762,16.82460218129805,5.552188144017457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:0041418425A:1812031601:0091/pct:39.864140150160885,62.27878787878788,16.827553330949826,5.555555555555555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -191,7 +191,7 @@ break a .•cal with the same indifference that
 they hrfrik their words, when either curiosity  
 or interest is to be indulged
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812032001:0218/pct:5.7808857808857805,32.42816091954023,22.097902097902097,6.307471264367816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1812032001:0218/pct:5.779538569098112,32.42350237034909,22.09857841994873,6.310156586697314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ same indifference, that ‘they break their
 waords,when either curiosity or interest is to  
 e indulged. 50 &#x27; &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812032401:0258/pct:40.69967202873653,59.20935301694244,18.382008433546776,6.539185574160309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1812032401:0258/pct:40.70487792180749,59.21265563591928,18.397626112759642,6.539185574160309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ eral party will carty their opposition to the national govern­
 snent in the event of a war. Much may be inferred trom  
 ‘she&#x27;result of the elections of governors, which within tw
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812040101:0592/pct:4.665478697553864,16.58646764214868,29.612830066418272,8.31778454286556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153152:1812040101:0592/pct:4.670878557157514,16.593014501293005,29.61822992602192,8.321057972437723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

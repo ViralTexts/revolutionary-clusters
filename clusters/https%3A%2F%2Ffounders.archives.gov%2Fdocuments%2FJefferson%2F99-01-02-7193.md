@@ -49,7 +49,7 @@ his acquaintance with military offic
 and the various means of information  
 which he might have possessed whil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808010101:0003/pct:42.68857985672145,3.2423426887094706,35.75642646439107,93.14366269383571/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808010101:0003/pct:42.70262677342323,3.250886411209364,35.74237954768928,93.13511897133581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -73,7 +73,7 @@ United States, corruptly received money
 from the government of Spain, or its  
 agents
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808010801:0892/pct:11.083402604599613,51.359410629714084,20.0609587143253,7.507454832485529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808010801:0892/pct:11.0803324099723,51.350403367239565,20.062326869806093,7.510522623640828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ I Rp_ and by wh
 hej After a few objections to this r.  
 Ution fromAfr. Quincy, onaccount of &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808011501:0002/pct:21.04063018242123,33.460542456044706,20.812603648424545,16.001090363908954/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808011501:0002/pct:21.05444997236042,33.460542456044706,20.79878385848535,16.01017672981691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -263,7 +263,7 @@ guishing ;-s far as possible tfic period ut
 which such information has been forwarded,  
 and by whom.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808012101:0335/pct:23.594286747423613,9.945164506480559,17.447116253841983,15.752741774675972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808012101:0335/pct:23.59002169197397,9.94392523364486,17.44998794890335,15.754932502596054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -290,7 +290,7 @@ or its agents ; and that the said committee
 have power tosend for such persons and pa­  
 pers as may be necessary to assist their en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808012101:0335/pct:23.594286747423613,32.45264207377866,17.320556861327066,7.365403788634097/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808012101:0335/pct:23.59002169197397,32.44859813084112,17.3234514340805,7.3686396677050885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -330,7 +330,7 @@ and by whom.
 Mr. Randolph seconded this motion.  
 After a tew objections to this resolution from Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808012201:0943/pct:75.07148427345984,18.880315219175834,22.121133350662856,18.27286159908061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808012201:0943/pct:75.05197505197505,18.87721602101116,22.121881496881496,18.27396585686146/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ mer day in his place that no information
 had at any time been received by the pre-j  
 sent administration which went to charge 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808012201:0031/pct:22.83613049217424,28.743501965259288,17.706958325476144,10.117915557246102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808012201:0031/pct:22.83182503770739,28.739858012170384,17.709904474610358,10.120858688302908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -403,7 +403,7 @@ Mr Randolph seconded this motion.
 After a few abjections to this resolution  
 from Mr Quincy, on account of its firing to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808012201:0031/pct:22.647557986045634,69.7984024343857,17.688101074863283,16.12780524914416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808012201:0031/pct:22.643288084464555,69.7895537525355,17.691050779286073,16.12998647734956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -427,7 +427,7 @@ sons and papers, and to compel their at*
 tendance and production ; and that they  
 report the result of their inquiries to thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808012201:0901/pct:26.46733111849391,22.763942476324097,20.099667774086377,7.593826727464048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808012201:0901/pct:26.46000553556601,22.75995090303349,20.10102407971215,7.596878835700508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -550,7 +550,7 @@ persons and paper , and to compel their
 attendance and production,and thatth v  
 report the result of their enquiry to tin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808012801:0287/pct:33.97790055248619,80.8904933814681,27.29281767955801,12.370637785800241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808012801:0287/pct:33.96851698425849,80.87102983638114,27.294485869465156,12.375681745267887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ Upon the subjects of our foreign relations ;
 the increase and maintenance of the army of  
 the U
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808020201:0357/pct:3.8880813953488373,50.854123141206834,18.15043604651163,9.450657490475605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808020201:0357/pct:3.887375113533152,50.84787417055788,18.153194066000605,9.453592201196034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ vice of the United States, either ns a civil
 or military offircr, been a pensioner of the  
 government of Spain, or relative to his hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808020201:0045/pct:5.070318282753516,88.5946283572767,17.69059955588453,3.547782635852592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808020201:0045/pct:5.069380203515264,88.5835623282538,17.69349367869257,3.5515030393871263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ has corruptly received money from the
 government or any agents of any fo*  
 reign power ; distinguishing as far a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808020401:0295/pct:5.450437729454956,11.589644326155335,57.01779158429822,84.587466731188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808020401:0295/pct:5.448898927159797,11.586840832123851,57.011104837191795,84.57506853733268/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ having at any time whilst in the scr\ ice of
 the United States, corruptly received money  
 from the government of Spain or its agents 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808020901:0366/pct:42.3090843286283,21.410705352676338,17.20955483170467,3.4517258629314655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808020901:0366/pct:42.301429346842774,21.40802801050394,17.21247210662807,3.4554624650910757/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -707,7 +707,7 @@ whie 11 in his opinion every jrcntle- ■
 man had a right. He perceived that:  
 the gentleman from Kentucky wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808021201:0002/pct:44.634750309533636,51.01279317697228,17.292612463887743,14.978678038379531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808021201:0002/pct:44.64850736002201,51.01723525230988,17.285733938643556,14.98312011371713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ vernment or its agents ; distinguishing as far as
 possible the period at which information has been  
 forwarded, and by whom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041501:1082/pct:49.848331648129424,37.94822318700756,21.713852376137513,10.098086509085062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041501:1082/pct:49.83573414202679,37.942122186495176,21.714682840535758,10.10048231511254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -765,7 +765,7 @@ States.
 That the said committee have power to send for  
 peisuns and papers and compel their attendance an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032601:0994/pct:49.425574425574425,63.806451612903224,20.97902097902098,9.96774193548387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810032601:0994/pct:49.41323345817728,63.79616190936946,20.980024968789014,9.970166102241574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ dominions of the king of Spain or to dismember
 these U. States. That the said committee en­  
 quire generally into the conduct of the sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810032701:0413/pct:60.37043829084907,11.182456990550037,17.494956904456263,6.154591713108796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810032701:0413/pct:60.35936927026036,11.181102362204724,17.49786089720083,6.157884110640016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -814,7 +814,7 @@ the government of Spain or its agents,
 &lt;&gt;r in relation to having during the  
 time atoresaid, been an accomplice o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810032701:0105/pct:22.997754491017965,27.815829528158297,17.365269461077844,6.506849315068493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810032701:0105/pct:22.993451824134706,27.812301838934687,17.36825693794824,6.510251532445571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -927,7 +927,7 @@ of the king of Spain or to dismember these United
 Slates.  
 This part, as well as the proposition generally
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810040901:1018/pct:49.8502994011976,78.06295399515739,21.182634730538922,10.056497175141242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810040901:1018/pct:49.83786480419057,78.05035506778567,21.18358692940883,10.058908973531311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -955,7 +955,7 @@ the king of Spain or to dismember these
 V. S.  
 This part as well as the proposition gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810041001:0120/pct:43.092862624712204,40.45315682281059,17.689946277820415,8.19755600814664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810041001:0120/pct:43.08459620180319,40.44800814560265,17.692947119381035,8.200755165245429/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1014,7 +1014,7 @@ service of the United States, corruptly received
 n&gt;i.uey from the government of Spam, or its agents,  
 «*r rn relation to his having, at any time aforesaid
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810051101:1073/pct:51.64700098328417,7.235561323815704,20.993117010816125,4.7696301103179755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810051101:1073/pct:51.63430818382895,7.2343876723438765,20.994101744900465,4.772911597729116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1034,7 +1034,7 @@ corruptlv received money from the govern­
 ment of Spain, or its agents, or in r* Intion to  
 his having, during the time aforesaid, bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810051101:0007/pct:40.21698466142911,57.70447906523856,17.845117845117844,3.4444985394352483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1810051101:0007/pct:40.2094632504208,57.697456492637215,17.84801446293872,3.44813597825646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1065,7 +1065,7 @@ port, that they have had under Considera­
 tion&#x27;&#x27; the several subjects of enqu ry, and  
 , have investigated them to t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810051801:0164/pct:57.52967359050445,11.036747064023235,17.748516320474778,9.900239929284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810051801:0164/pct:57.519006119043205,11.035353535353535,17.751406143766612,9.903198653198654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1166,7 +1166,7 @@ niied States. And that the said committee enquire
 generally into the conduct of the said James Wilkin­  
 son as brigadier general of the army of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810122801:0282/pct:26.754604280736686,33.90024529844644,20.905923344947734,14.210956663941129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1810122801:0282/pct:26.74794725055984,33.89470241988228,20.906942025379447,14.212720732504906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

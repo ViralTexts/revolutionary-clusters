@@ -448,7 +448,7 @@ er. He that exalteth himself shall be
 abased; but he that humbleth himself  
 shall be exalted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029026:1878011001:0428/pct:23.590546697038725,88.38401491320052,14.308086560364465,1.9107538156821624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029026:1878011001:0428/pct:17.704030764848312,66.29383665385063,10.739210938612732,1.4330653617616218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ He exalts the meek and lowly. Ho that
 exalteth himself shall be abased, but he  
 that humbleth himself shall be exalted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_gandolfini_ver01:data:sn91064029:00332896714:1896060301:0283/pct:30.191106210951855,38.044677330391615,12.05439176773245,1.9580805295091008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_gandolfini_ver01:data:sn91064029:00332896714:1896060301:0283/pct:30.185559434135588,38.0394319591893,12.056770163512768,1.9612574107265959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ He that exalteth himself shall be
 abased, but he that humbleth himself  
 shall be exalte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058217:206534874:1896121101:0903/pct:110.73298429319372,209.26296633303002,40.05235602094241,4.749772520473157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_layden_ver01:data:sn85058217:206534874:1896121101:0903/pct:36.92065985860173,69.75432211101001,13.35428122545169,1.5832575068243857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

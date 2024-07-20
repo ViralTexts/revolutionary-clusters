@@ -173,7 +173,7 @@ cus, which appear the efftdion of an
 avowed enemy to the French republic, and  
 treating on fubjectj which the generolit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793081701:0001/pct:27.904731252011587,84.77086251751051,20.888316704216287,9.605763458074845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793081701:0001/pct:27.904731252011587,84.78086852111267,20.904409398133247,9.595757454472684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ States; except privateers of the powers
 at war with France, and except those  
 vessels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793081701:0002/pct:28.557844690966718,29.876977152899823,21.26782884310618,54.40343682874438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793081701:0002/pct:28.565768621236135,29.89162272993556,21.259904912836767,54.4083186877563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -275,7 +275,7 @@ of the United States, pursuant to the
 seventeenth article of our treaty of amity  
 and commerce with France
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793081701:0002/pct:29.76228209191759,83.71411833626244,20.095087163232964,4.569420035149385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793081701:0002/pct:29.76228209191759,83.72388205428628,20.142630744849445,4.564538176137473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -374,7 +374,7 @@ nature, as being applicable either
 to commerce of war, are deemed  
 lawful ; except those which shall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793082701:0077/pct:72.5922523350176,56.98657384385878,21.451538814882866,38.82645450024863/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793082701:0077/pct:72.60246006226714,56.99320404442234,21.45664267850763,38.82645450024863/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -441,7 +441,7 @@ From the NEW.YORK DIARY.
 M. Printers, &#x27;  
 £ YERTAIN late publications render it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793082701:0078/pct:6.311274509803922,4.788341429562804,21.430759803921568,52.96916823634381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1793082701:0078/pct:6.321486928104576,4.791646013020059,21.42565359477124,52.97247281980106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -184,7 +184,7 @@ in his forehead ; whoever will take up
 said Horse and return him to the  
 owner shall be handsomely rewarded
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799082001:0135/pct:76.72626387176325,82.69136528472018,15.92170160295931,4.0968342644320295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799082001:0135/pct:76.72626387176325,82.69789931066026,15.92170160295931,4.093567251461988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ in his forehead ; whoever will take up
 said Horse and return him to the  
 owner shall be handsomely rewarded
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799082701:0140/pct:59.98452012383901,35.87697099474401,16.207430340557277,5.119719680747518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1799082701:0140/pct:59.99484004127967,35.88345986632925,16.212590299277604,5.116475244954902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -388,7 +388,7 @@ for them throvgh my hands, thall be
 d%aWhﬁam@md fddelity.  
 I have the honour of being ‘your ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806022501:0241/pct:57.956501329995305,18.29075064369182,33.71929275543734,79.14438502673796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806022501:0241/pct:57.956501329995305,18.29405162738496,33.72972409116987,79.14438502673796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1001,7 +1001,7 @@ v Fathe* ive only to
 ! ther, that your tn  
 than ever lor the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807102601:0001/pct:59.3865564498586,8.802768166089965,37.54622579943442,88.17993079584775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807102601:0001/pct:59.40105866144587,8.807381776239907,37.54622579943442,88.1845444059977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1436,7 +1436,7 @@ fidelity. I hare the honor of beibR your excellency’s
 most obedient and most humble servant,  
 JAMES CRAWFURD.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813032601:0413/pct:40.24118738404453,3.9568785985544532,36.641929499072354,90.6651966188901/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183864:1813032601:0413/pct:40.23372287145242,3.956393924546791,36.64131577320225,90.65817409766454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1771,7 +1771,7 @@ ages i fmalk green hoops, whitifh&#x27;
 groyud on the ckin, with-red tears in  
 the middle, %5 black bullér marks
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813101201:0589/pct:75.47804803426648,21.937238900223452,17.209729233593393,51.27756727873312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813101201:0589/pct:75.47804803426648,21.94047734706435,17.22502677068992,51.28404417241491/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1830,7 +1830,7 @@ fg“&#x27;,f:ib’utcd with prudence and ﬁﬂ.eﬁt}?.;
 ) &quot;1 have tle hanor of beiag your excel-|  
 lency’s molt obedient, &amp;c: - . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813101201:0590/pct:8.559436366361865,6.563781988669662,16.62419427372208,29.79097479976558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010819:1813101201:0590/pct:8.56942987058412,6.567037832910073,16.619197521610953,29.797486488246403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2340,7 +2340,7 @@ with some of women and little children, the rest
 to be distributed among both houses of Parlia  
 ment, a double quantity to the bishop-.” Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1845102101:0058/pct:6.860027717283706,30.832940542724394,15.02672738071669,4.437411622112989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215774:1845102101:0058/pct:6.859348708304464,30.830864530029626,15.028539377742584,4.43935721339438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2551,7 +2551,7 @@ made to ungrateful people.
   
 The following letter shows that th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849053001:0264/pct:3.3833522083805208,17.286968114653927,13.094563986409966,52.19420064437285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849053001:0264/pct:3.3833522083805208,17.294374699107507,13.10872027180068,52.201607228826425/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2589,7 +2589,7 @@ lency&#x27;s most obedient and humble serv-
   
 &quot;JAMES CRAWFORD.1*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849053001:0264/pct:3.793884484711212,70.12554160648817,12.797281993204983,13.431840906565936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:0041566882A:1849053001:0264/pct:3.798603246508116,70.12554160648817,12.797281993204983,13.439247491019517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2697,7 +2697,7 @@ see our faithfulness in destroying his enemies,
 and be convinced that his presents have not been  
 marie lo an ungrateful people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1850032801:0032/pct:71.14409847936278,21.776542229282498,31.335988414192613,104.99073338628541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199264:1850032801:0032/pct:53.396123890599526,16.335716176859943,23.510233653323674,78.75297855440826/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2759,7 +2759,7 @@ Cigb, «s their peetha J-roW^g,,, scalped, big sad
 little; small yellow hoops, ante ground; tears,  
 hatchet, club, scalp knife, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1850040901:0609/pct:39.22918100481762,30.066153638450114,12.9043358568479,21.87120291616039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1850040901:0609/pct:39.22243247892654,30.06209503239741,12.906416652330982,21.871625269978402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2860,7 +2860,7 @@ he may see our faithfulness in destroying his
 enemies, and be convinced that his presents  
 have not been made to an ungrateful people.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1850042701:0054/pct:328.4712482468443,95.2676931770024,50.56100981767181,211.1032631727645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776026:1850042701:0054/pct:82.16102438168743,23.8169232942506,12.646904051920716,52.77581579319113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3044,7 +3044,7 @@ families.
 &quot;? &lt; eniaihiag ninety- seven farmers.  
 &#x27;?&quot;&quot;i&#x27;HtiTu, m sliov, \iiat they were kiil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1850052801:0105/pct:3.4108311290547126,59.38396785919265,15.480996797995267,17.371341113449397/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1850052801:0105/pct:3.4108311290547126,59.39034500350743,15.48563738456541,17.36815254129201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3089,7 +3089,7 @@ j?les!ro\ in?f his? enemies, and he convinced
 itliat hir. presents have no! been made to  
 an ungrateful peopU.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1850052801:0105/pct:14.840595851315607,9.25004782858236,19.8663511067799,19.064472929022383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_antares_ver02:data:sn84026824:00271767742:1850052801:0105/pct:14.840595851315607,9.256424972897136,19.87099169335004,19.064472929022383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3456,7 +3456,7 @@ ed in the fields.
 Pack. 4. Containing one hundred and two  
 farmers&#x27; scalps, eighteen of them marked wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853020401:0608/pct:226.9676153091266,104.90294751976995,70.3631010794897,33.889288281811645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347958:1853020401:0608/pct:56.73076923076923,26.22196664749856,17.58732339089482,8.47110408280621/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3486,7 +3486,7 @@ ter.Pack. 2. containing fi3 farmers, killed in
 their houses, on red hoops, with a fipure of a  
 hoe painted on each to denote their occupa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1853022501:0037/pct:75.73162027123483,48.02800800228637,16.2384011420414,5.23006573306659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn84028479:0028077537A:1853022501:0037/pct:56.81899321670832,36.024578450986,12.192074259193145,3.9296941983423834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3509,7 +3509,7 @@ farmens&#x27;, killed in their houses, on red
 denote their occupation.  
 Pat Btinlen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022366:0020029015A:1853022601:0034/pct:122.734375,316.97887007343024,43.828125,18.942005095159598/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022366:0020029015A:1853022601:0034/pct:30.689587810119164,79.24471751835756,10.959171713225238,4.735501273789899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3539,7 +3539,7 @@ the fields.
 Pack 4, Containing one hundred and two  
 farmers&#x27; scalps, eighteen of them marked wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1853030201:0333/pct:85.202834799609,72.1779730843175,11.107038123167156,5.007781744941866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn86083363:00415668831:1853030201:0333/pct:85.20690778755295,72.1779730843175,11.107038123167156,5.016936738991119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3571,7 +3571,7 @@ mer&#x27;s scalps, killed in their houses, on red
 hoops, with a figure of a hoe painted on  
 each to denote their occupation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853042301:0414/pct:0.7331378299120235,30.558687852383393,19.811013359400455,6.304459251665812/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045461:00280654000:1853042301:0414/pct:0.7412838057999348,30.558687852383393,19.811013359400455,6.319835981547924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3593,7 +3593,7 @@ sea&#x27;ps, killed in their houses, on red hoops,
 with a figure of a hoe painted on each to de­  
 note their occupation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_andrews_ver01:data:sn83021636:00271765010:1853062501:0019/pct:139.3581081081081,165.47798815193403,44.79422604422604,13.311650598211175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_andrews_ver01:data:sn83021636:00271765010:1853062501:0019/pct:46.4527027027027,55.159329383978005,14.931408681408682,4.437216866070392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3679,7 +3679,7 @@ farmer&#x27;s scalp*, killed in their houses, on
 red hoops, with a figure of a hoe painted  
 on each to denote their occupation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654048:1854082901:0214/pct:1.5578635014836795,60.96550295245002,14.065281899109792,4.57888739252046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045461:00280654048:1854082901:0214/pct:1.561572700296736,60.973272557754065,14.065281899109792,4.57888739252046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3804,7 +3804,7 @@ hands shall be distributed witli prudence and fidelity.
 r | dicnt and humble servant,  
 | &quot; JAMKH CRAWFORD.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854090901:0247/pct:-1.1550349764112575,5.677517032551098,39.84057263705873,94.72621751198587/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:0041566123A:1854090901:0247/pct:-1.1550349764112575,5.681722600723358,39.856840735318045,94.73042308015813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3885,7 +3885,7 @@ middle-aged men. there being but 07 gray
 hea ls among them all, which makes the ser­  
 vice more essential
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215920:1854091901:0201/pct:16.914569031273835,9.454061251664447,12.833714721586576,22.19496811269185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215920:1854091901:0201/pct:16.912956430546288,9.453398738612474,12.835669113674644,22.195748656855876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3923,7 +3923,7 @@ at hatehde at the hottam io wach their being whle by
 or hatchet at the hottom, to mark thetr being ktiled by  
 It  thep thii pery sgay hiack hoo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856012601:0205/pct:99.56608811748998,71.56885133592144,48.865153538050734,18.28042932176296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743233:1856012601:0205/pct:33.18869603916333,23.85628377864048,16.288384512683578,6.093476440587653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3992,7 +3992,7 @@ white hoops, white ground, no tears, and only
 a Utile black knite in the middle, to show thev  
 were ripped out of their mothers’ bellies
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1856030401:0352/pct:60.31170227058982,49.83524712930604,11.567916162837566,23.285072391412882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_charmander_ver01:data:sn84022882:00414212426:1856030401:0352/pct:60.30360021493821,49.83027156549521,11.569720580333154,23.28524361022364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4070,7 +4070,7 @@ Prtind, no tears, and only a little black
 kaife in the middle fo show they were  
 Commnal their mothers bellie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_sands_ver01:data:sn86079096:00212475191:1857040401:0264/pct:12.130637636080872,143.02616926503342,46.423017107309484,126.73997772828508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_sands_ver01:data:sn86079096:00212475191:1857040401:0264/pct:4.043545878693624,47.67538975501114,15.474339035769828,42.246659242761694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4114,7 +4114,7 @@ the night, and a black hatchet signified
 that they were killed with that instru­  
 ment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874022601:0238/pct:85.32626165220186,50.840387682492945,10.896817743490839,5.594405594405594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874022601:0238/pct:85.31255021693717,50.83415112855741,10.899084043066045,5.596786064769382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4490,7 +4490,7 @@ O Father, we wubc! ta Send rn
 sealps over Lthe water S 0 15,8 grent ing  
 (ha&#x27; he may renard thaan and be 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153322:1899110401:0402/pct:83.80353936906899,36.04411461554319,12.849448576558093,58.0292723149866/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_elderbrain_ver03:data:sn92064073:00514153322:1899110401:0402/pct:83.80781396939386,36.050986050986054,12.845173976233221,58.0292723149866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

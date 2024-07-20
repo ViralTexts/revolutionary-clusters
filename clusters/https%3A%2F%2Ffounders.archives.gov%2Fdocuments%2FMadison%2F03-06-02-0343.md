@@ -63,7 +63,7 @@ W ir Departments,” passed May 8th­
 1792.  
 J AMES M ADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080401:0451/pct:45.6425855513308,16.820401519262074,17.55133079847909,9.115572436245252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216171:1813080401:0451/pct:45.635644768856444,16.81888054977846,17.553730738037306,9.117762305211441/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -93,7 +93,7 @@ and war departments,” passed May 8th,
 1792. J *  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813080601:0071/pct:26.48194412900295,4.331284752707053,45.060186236656826,90.6643254316652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024513:00414184121:1813080601:0071/pct:26.475930971843777,4.330651060716899,45.05752346351802,90.65593757620093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ ons erf the act of Congress, entitled “an act making
 uhwratiwns in the Treasury .and War Departments,*­  
 piosed May 3th, 1790. JAMES MABIiGNvj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080701:0563/pct:74.7051442910916,25.876406326430786,21.93224592220828,5.60900048915702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866615:1813080701:0563/pct:74.6864024084295,25.872187805673295,21.93301555444054,5.612161721552005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -146,7 +146,7 @@ ing alterations in the T easury and War De­
 partments,&quot; passed May 8th, 1702.  
 JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080901:0249/pct:59.46825827455236,64.7188533627343,17.16404413094592,7.840254808281269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813080901:0249/pct:59.45750452079566,64.7109260166585,17.166968053044002,7.843377429364691/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ gress, einitled “ An act making alterations in the Treasury
 and War Departments,9 passed May 8tb, 1792.  
 “ JAMES .MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813111801:0368/pct:4.451364718812969,36.19647044304578,21.670635647554498,5.244970998395656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813111801:0368/pct:4.450549450549451,36.19200394866733,21.672771672771674,5.248436985850609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ War Departments,” passed May* Slh,
 try  
 “ JAMES M A DISOX
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813121101:0084/pct:41.46876141761052,10.322180916976455,33.68651808549507,84.34944237918215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1813121101:0084/pct:41.461187214611876,10.320901994796184,33.68645357686454,84.34312146367654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

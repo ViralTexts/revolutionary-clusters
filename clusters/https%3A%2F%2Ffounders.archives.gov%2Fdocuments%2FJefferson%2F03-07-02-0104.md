@@ -98,7 +98,7 @@ by the tenth amendment the power is reserved to the
 States.&quot; Tefenon&#x27; Words, Vol t9 3  
 The loth Article of Amendments to the Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844040601:0022/pct:149.11894273127754,22.621184919210055,48.6417033773862,64.27289048473968/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530200:1844040601:0022/pct:49.70631424375918,7.540394973070018,16.2139011257954,21.424296828246558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ cumstances may call for, and these may be different
 in different Slates. Of course, then, bv the tenth  
 amendment, the power is reserved to the States 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1844041101:0832/pct:79.00855450756745,77.82367184161801,17.767054178547927,12.035322603617718/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1844041101:0832/pct:78.99122807017544,77.8125890059812,17.76864035087719,12.037168897749929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ may call for, and these may be different in different
 States. Of course, then, by the tenth amendment, the  
 power is reserved to the States.&quot;- Jefferson&#x27;s Works
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1844041201:0702/pct:280.84795321637426,208.86001181334908,50.292397660818715,37.62551683402245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00200290197:1844041201:0702/pct:70.21198830409357,52.21500295333727,12.573099415204679,9.406379208505612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ N
   
 or Cavern; and that Mr. NBet, however vndt an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1844042501:0836/pct:42.62948207171315,4.250108053594583,35.52456839309429,92.98371992508284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1844042501:0836/pct:42.620048683337025,4.24949582252953,35.52223943350299,92.97392682224142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ ercsiitempliiteil. (Jn tho contrary th&quot; uii.iiiup.
 Hon of particular powers seems im exclusion  
 of all not asiiimsd.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:0023728799A:1875012901:0245/pct:67.52450980392157,102.59358288770053,15.073529411764707,26.0427807486631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_carnegie_ver01:data:sn83032011:0023728799A:1875012901:0245/pct:50.665499124343256,76.95187165775401,11.313485113835377,19.532085561497325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ the purest motives, and the more
 readily as we find we have differed  
 from oversetves on it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1887060301:0078/pct:47.58765778401122,10.962326371539922,12.0617110799439,34.345957829519335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1887060301:0078/pct:47.580984434160705,10.961231015187849,12.064694058804282,34.34585664801492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ reasoning appeared sound, but “ on so re­
 cent a change of view caution requires us  
 not to be too confident.” The editor of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867079:1887060901:0095/pct:19.53495260663507,13.532035244207549,12.559241706161137,3.034917872294137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kump_ver01:data:sn84026784:004141867079:1887060901:0095/pct:19.532059825262845,13.530563410920164,12.562317982131399,3.0382133275324485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ Governments was doubtfully or indistinctly drawn, it
 would be prudent and pralseworthy in both parties  
 never to approach it but under urkent necersity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.26937835763624,290.4209884075656,51.95702225633154,9.029896278218425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.84452975047985,72.6052471018914,12.994241842610364,2.2574740695546063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -744,7 +744,7 @@ urgent necessity.
 --—#—­  
 The business failures for the Unit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110901:0364/pct:71.20999438517687,87.41896272285251,12.324536777091522,7.273095623987034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888110901:0364/pct:71.2,87.41010837638002,12.32748538011696,7.275735169992235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -764,7 +764,7 @@ or Indistinctly drawn it would be prudent and
 praiseworthy in both parties never to approach  
 it but under urgent necessit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:66.40378548895899,235.54812224418427,53.07570977917981,13.927322487456287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:16.600946372239747,58.88703056104607,13.268927444794953,3.4818306218640718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -784,7 +784,7 @@ drawn, it would be prudent and praiseworthy in both
 parties never to approach it but nnder urgent neces­  
 sity. 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:50.989208633093526,78.72060756535708,18.637589928057555,3.8410982912224334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ingstad_ver01:data:sn84028296:00296029154:1889071101:0394/pct:38.250505959073536,59.04775814225208,13.986957499437823,2.877172484299693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -823,7 +823,7 @@ sider tho continuance of republican
 government as absolutely hanging on  
 theso two hooks.&quot; Jefferson believe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870382:1890040701:0381/pct:29.157149383280036,35.66043662635464,18.056190041114665,2.779959164441652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870382:1890040701:0381/pct:21.878213184051184,26.74729071776347,13.549640123386268,2.088895869326213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -844,7 +844,7 @@ worthy In both political parties never to ap­
 proach It but under urgent necesilty ap  
 The Printing Committee of Tammany Ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044942:1891030801:0456/pct:52.99610894941634,20.26232473993668,53.540856031128406,13.628825569124077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044942:1891030801:0456/pct:13.251605370694687,5.06558118498417,13.387818641759097,3.407206392281019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -38,7 +38,7 @@ so doing they retain the language, habits, and
 principles, good or bad, which they bring with  
 them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838030301:0145/pct:57.720344599072234,28.755364806866954,18.17428760768721,3.0970885048138266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1838030301:0145/pct:57.73138944113099,28.76309786181031,18.17428760768721,3.093221977342149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -56,7 +56,7 @@ cept oif useful mechanics, and some particular de­
 scriptions of men and professions, there is no need  
 of encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854113001:0071/pct:32.46063365585278,45.081025902768914,15.38607474862455,2.105397473523032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn85042002:00415660996:1854113001:0071/pct:32.46063365585278,45.08953255922759,15.398722570037311,2.1096508017523714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -75,7 +75,7 @@ chanics and some particular descriptions of
 men and professions, there is no need of  
 encouragement. I am, ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854122101:0466/pct:15.58052434456929,305.16367620873854,51.61048689138577,11.066977126421039/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1854122101:0466/pct:3.8958606480614346,76.29091905218463,12.905038396703503,2.7667442816052596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -113,7 +113,7 @@ is, that except of useful mechanics and some
 particular descriptions of men and professions  
 there is no use of encouragement.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1855071101:0113/pct:33.99840383080607,113.73578302712161,56.26496408619314,13.41498979294255/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1855071101:0113/pct:8.499600957701517,28.433945756780403,14.066241021548285,3.3537474482356373/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ migration is, that except of useful mechanics and
 some particular description of men and profession,  
 there is no use of encouragement. I am, etc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86071224:00212470053:1855072401:0078/pct:70.02301495972382,219.77316989345857,50.2301495972382,7.469355023484935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn86071224:00212470053:1855072401:0078/pct:17.510791366906474,54.94329247336464,12.56115107913669,1.8673387558712338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -189,7 +189,7 @@ in either case are attainable.
 My opinion with respect to emigration im­  
 gration is meant, of course,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1855110701:0311/pct:88.06709874189859,88.90772926381236,59.56919557758292,53.030945315811785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1855110701:0311/pct:22.0125786163522,22.223792031647356,14.889460644177625,13.255863238202883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ how far funds in either case are attainable.
 My opinion, with respect to emigration  
 immigration is meant, of course, I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855110801:0655/pct:125.36873156342183,70.23920887344647,50.73746312684366,61.68648937591875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85026105:00296028046:1855110801:0655/pct:31.35952776240546,17.559802218361618,12.691385353255857,15.421622343979687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -342,7 +342,7 @@ opinion upon; or, indeed, how far funds in either
 case are attainable.&quot;  
 WASHINGTON&#x27;S WILL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654450:1886013001:0068/pct:25.199264255058246,18.36265493802479,12.250153280196198,9.066373450619752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654450:1886013001:0068/pct:25.20232985898222,18.37015193922431,12.256284488044145,9.068872451019592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -361,7 +361,7 @@ ants, “get assimilated to our customs, meas­
 ures and laws;” In a word, soon become one  
 people. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210910:1889121201:0601/pct:65.67771960442117,41.36694945632692,9.642233856893542,1.7564822559445572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_halfwayrock_ver01:data:sn83016025:00414210910:1889121201:0601/pct:65.66816925985168,41.36200716845878,9.644467064126799,1.7592592592592593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

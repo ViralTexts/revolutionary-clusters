@@ -1074,7 +1074,7 @@ Your raemoi iahfls confefs they felt them
 selves much hurt at the silence Ihewn them  
 in the late funding system ; they, however
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792101001:0001/pct:28.571428571428573,36.488845780795344,21.22801604443073,24.28709990300679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792101001:0001/pct:28.571428571428573,36.49854510184287,21.243443381672325,24.28709990300679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1133,7 +1133,7 @@ are known to the world, and because tho&#x27;
 the topics are inexhaustible, enough has  
 been said on the fubjeft.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793010201:0002/pct:72.55979314802845,5.772699939867709,20.81447963800905,7.576668671076368/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793010201:0002/pct:72.56787330316742,5.777710964121066,20.838720103425985,7.576668671076368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1151,7 +1151,7 @@ country rescued by their arms from im­
 pending ruin, will never leave unpaid the  
 :lebtofgratitude)—is now (iient
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793010501:0003/pct:70.92063492063492,68.53006233661773,20.53968253968254,2.8152020912929823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793010501:0003/pct:70.94444444444444,68.54514377639252,20.53968253968254,2.8252563844761713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1206,7 +1206,7 @@ ae cheerfully and readily acqujefced in—
 nth a compensation is now in the hand;  
 :•{ government derived from the savings o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793012301:0002/pct:51.19277885235332,7.091633466135458,20.954223081882656,28.187250996015937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793012301:0002/pct:51.20889748549323,7.106573705179283,20.986460348162474,28.187250996015937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1253,7 +1253,7 @@ rescused L?y tneirarms from impending
 ruin will never leave unpaid the debt of  
 gratitud
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820041901:0031/pct:70.02555677254472,26.853180296508846,23.65826944140197,15.076518412242946/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1820041901:0031/pct:70.03164171838871,26.853180296508846,23.65826944140197,15.08448908018492/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1287,7 +1287,7 @@ By the pieced, ng r. maik-, it w ill be i cad ily imagined
 that instead ot rel&#x27;at ting or reprehending, Horn fin diet  
 experience and rcflei t on, the mode so strenuousl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826012001:0019/pct:39.400256574727386,48.03738317757009,18.280949326491342,10.642523364485982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826012001:0019/pct:39.39393939393939,48.03177198925359,18.283362727807173,10.645173850406884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1324,7 +1324,7 @@ apprehensions. A country rescued by their arms from
 impending ruin will never leave unpaid the debt ol  
 gratitude.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826012001:0019/pct:39.384220654265555,59.345794392523366,18.34509300833868,12.11448598130841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826012001:0019/pct:39.37790604457271,59.33886228244364,18.347496125273903,12.11696452906592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1468,7 +1468,7 @@ purpose of influencing their passions,” (for sir,
 it did not enter into the mind of Washington,  
 to conceive that the Newburgh letters were t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826060501:0435/pct:60.98208360982083,74.07202216066482,17.451891174518913,10.515235457063712/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826060501:0435/pct:60.97196881738265,74.06381564369599,17.454525349698677,10.517763498042692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1495,7 +1495,7 @@ try rescued by their arms from impending ru­
 in, will never leave unpaid the debt of grati­  
 tude
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826060501:0435/pct:60.998672859986726,84.60941828254848,17.402123424021234,7.867036011080333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826060501:0435/pct:60.988555315972796,84.60004431641923,17.404765853928236,7.869857448851466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1565,7 +1565,7 @@ liberties of buman wsture.’’
   
 Soch was the language of the saviour of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1827111401:0253/pct:3.9637218676519987,66.1439683911594,14.964729593550555,10.458081244598098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021389:00340588022:1827111401:0253/pct:3.9693203448661962,66.14808412561221,14.970328070764753,10.466312713503724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1656,7 +1656,7 @@ most certain means of preserving (be national faith and
 future tranquillity of this extensive continent, is my deci­  
 ded opinion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853122801:1377/pct:68.07345360824742,20.610399397136398,15.721649484536082,6.217030896759608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853122801:1377/pct:68.07345360824742,20.61877250272126,15.727018900343642,6.217030896759608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1870,7 +1870,7 @@ rious services, because they are perfectly known to the whol
 world, and because, although the topics are inexhaustible  
 enough has already been said on the subject.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:22.89041314404211,16.694027023614094,14.994416972403892,11.680767773708801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:22.89041314404211,16.698236309298313,15.010368479821343,11.68918634507724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1924,7 +1924,7 @@ no such i&quot;?rehensions. A country rescued by their am
 from impending ruli i&quot;ul neverJeave unpaid the debt of gral  
 itude.&quot;?8 Bparks, p, 396
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:22.922316158877013,28.6147240813234,15.185835061413304,16.56774845308751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0055/pct:22.922316158877013,28.6147240813234,15.207103737969906,16.57616702445595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1988,7 +1988,7 @@ hensions. A countiy rescued by them
 from impending ruin will never leave  
 unpaid the debt of gratitude.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_leadville_ver01:data:sn90051167:00340586037:1890020701:0056/pct:19.427402862985684,5.913012221423436,21.40422631220177,92.03810208483105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_leadville_ver01:data:sn90051167:00340586037:1890020701:0056/pct:19.427402862985684,5.921998562185478,21.42126789366053,92.04259525521208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

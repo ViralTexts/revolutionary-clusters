@@ -935,7 +935,7 @@ these presents caused a common scal to be allixed, and the
 part es of the second part have unchangeably set their hands  
 and seals the day and year first above written
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743750:1871082801:0590/pct:97.856221792392,19.77211796246649,52.143778207607994,11.070151921358356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743750:1871082801:0590/pct:32.618740597464004,6.590705987488829,17.381259402536,3.6900506404527853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -971,7 +971,7 @@ binding the document is &quot;sealed&quot; with a
 strip of green carpet binding and patches  
 of red wax, giving to it a highly orna
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472554:1872072501:0632/pct:16.743663378698965,68.64256075874333,10.725433886877264,11.766449318316539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472554:1872072501:0632/pct:15.487969201154957,63.49762397952967,9.932627526467757,10.893140002436944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1015,7 +1015,7 @@ housea. gatea, bars, embankments. Btone, gravel, gravel
 pita, atone quarries, poets and railing, toll issues and  
 profits of said road. Also, all the estate, right, title
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874022601:0239/pct:84.13106328300674,81.96882287958758,11.018310311596531,2.2216766908064316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874022601:0239/pct:84.11755259354425,81.95876288659794,11.020555644772763,2.224472263132057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1037,7 +1037,7 @@ houses, gates, bars, embankments, stone, gravel, gravel
 pits, stone quarries, posts and railing, toll issues and  
 profits of said road. Also, all the estate, right, title
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874030501:0245/pct:71.56941975109099,11.35360470819029,10.926135445288509,2.56253065228053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874030501:0245/pct:71.55785391079509,11.352212823341915,10.928409825468648,2.565281353438764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1059,7 +1059,7 @@ houses, gates, bars, embankments, stone, gravel, gravel
 pits, stone quarries, posts and railing, toll issues and  
 profits of said road. Also, all the estate, right, title
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874031901:0253/pct:71.32117722328854,12.4633072407045,10.860524632117722,2.519569471624266/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685270:1874031901:0253/pct:71.3097713097713,12.461783050018344,10.862785862785863,2.522318698789287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1136,7 +1136,7 @@ Delivered in Precence of us
 William Hekrmans  
 Lewis Bryan Enquirer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763839:1879062501:0351/pct:52.93854415274463,23.738340110021525,14.72255369928401,13.561348959579048/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763839:1879062501:0351/pct:39.72541411729593,17.80674479789524,11.058051037158632,10.176991150442477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1176,7 +1176,7 @@ thereot; and also all and singular the manufactories, build.
 ings, boller houses, erections, offices, improvements, steam  
 engine and bollers, belting, shatting, rubber milla, crackers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:0017503805A:1885031101:0606/pct:202.28405983593373,211.6385735580782,46.67846228084285,6.432748538011696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_geo_ver01:data:sn83030214:0017503805A:1885031101:0606/pct:67.42801994531125,70.54619118602606,15.559487426947618,2.1442495126705654/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1198,7 +1198,7 @@ And also, all aud singular the manufactories,
 buildings, boiler houses, erections, offices, im­  
 provements, steam-engines aud boilers, belting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155896:1888012501:0249/pct:50.63991698374265,25.269251480883145,10.463507436873055,2.544426494345719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155896:1888012501:0249/pct:50.631160297423484,25.265850047112668,10.46602109631679,2.5474491856239063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1220,7 +1220,7 @@ And also, all and singular tho manufactories,
 buildings, boiler houses, erections, offices, im­  
 provements. stiam-en/locs aud boilers, belting
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155896:1888020101:0253/pct:52.225468293521224,25.431732325957906,10.43134559202612,2.549919050188883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155896:1888020101:0253/pct:52.21649484536083,25.428301632267637,10.433848797250858,2.552947524618913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1308,7 +1308,7 @@ bargained premises in the quiet and
 perceable possession of the said party  
 bf the socond part, his heirs and a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536366:1894112201:0755/pct:262.7647714604236,138.80750979987621,102.89855072463769,207.44790592118835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536366:1894112201:0755/pct:65.6911928651059,34.701877449969054,25.72463768115942,51.86197648029709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1381,7 +1381,7 @@ thereof: To have and to hold the
 said premises, of the said party of the  
 second pait, xxx
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776877:1899122801:0877/pct:5.5674061433447095,43.80189798339264,18.813993174061434,12.544483985765124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn83032011:00280776877:1899122801:0877/pct:4.183564567769477,32.858837485172,14.130202774813235,9.415776986951364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

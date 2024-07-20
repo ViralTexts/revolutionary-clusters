@@ -122,7 +122,7 @@ my high ended! end aﬀectioun&quot;: attach­
   
 THOM-AS ]E&#x27;FFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802081301:0300/pct:76.20889748549322,57.255676209279365,18.832424828556356,28.43040473840079/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802081301:0300/pct:76.19549929676512,57.24939679754332,18.83497421472105,28.430942458141406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -139,7 +139,7 @@ prefer.t you this letter, is charged with orders
 to the Capt. of the Maryland to receive a»i  
 accommodate you bjck, if you can be r;aJ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895060:1802081601:0048/pct:53.45744680851064,20.943494038361845,21.70212765957447,1.9803006739243132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016063:00332895060:1802081601:0048/pct:53.44797021804644,20.941322828115283,21.702712285055842,1.9826871241965582/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ and aﬀectiouate attachment.
   
 TH : jEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101201:0448/pct:9.943626683369871,19.571619812583666,22.439711869715,12.1731369924141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802101201:0448/pct:9.942069829340848,19.569873282170267,22.441417462554146,12.175025284074009/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ ssmay live long to continue your USEFUL
 LABOURS, and rcap the reward in me  
 thanktulncss osnations, is my fincere pray
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102001:0476/pct:54.993678887484194,27.487979678853307,22.171302149178256,5.69717862650821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414215993:1802102001:0476/pct:54.98498972981513,27.485486211901307,22.17306578185074,5.699685534591195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ ly to have our public Councils detached
 from foreign views. The return ofotirci­  
 ti-ensfrom tliephrenzy into wbiiiitiie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803042701:0001/pct:72.09302325581395,41.575549993413254,15.894676148375938,16.519562639968385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chartreux_ver01:data:sn83045242:print:1803042701:0001/pct:72.09942981613172,41.575549993413254,15.888269588058172,16.532736134896588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ arrival at Paris, Yoo expreffed a with 1o gera |
 Dawfon is charged with orders 1o the capiain  
 ot the Ma &#x27;!tmf’, to receive and accanmodar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803050701:0320/pct:46.223120749862154,25.435500398497098,19.591986767138394,13.765228281908232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803050701:0320/pct:46.223120749862154,25.443090819385937,19.598113091956137,13.769023492352652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ by ill con dull in F *nc*\ partly by art *
 fiees pr i3ifed upnrv tfifm. is altnoft ex  
 ti .3. an J wi &gt;, I bc&#x27;i!* &quot;, ‘ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1803050901:0201/pct:78.20732124529593,18.483762125685367,17.9609989736572,18.114719527625475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1803050901:0201/pct:78.19394561313494,18.48181338956247,17.962202839062765,18.11544544016869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ pr cytr. /set f t (sjffurances i&#x27; toy tfgi! tfUcm,
 and affilfi^nate attJchtnert.  
 THOMAS JTFFEP.SCN.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1803050901:0201/pct:78.20732124529593,45.04428511176719,20.321587410195004,11.018557570645298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016072:00332895060:1803050901:0201/pct:78.19394561313494,45.03953610964681,20.322387549170514,11.020031628887718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ apt the a**surances«f my high esteem ai
 affectionate attachment.”  
 Thomas Jurrimsox
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805032301:0110/pct:14.706528907452187,74.29787234042553,19.344910969443834,12.75177304964539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805032301:0110/pct:14.703296703296703,74.28733512976882,19.347985347985347,12.754692005862053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -845,7 +845,7 @@ live to continue your useful labors and
 to reap the reward in the thankfulness ,  
 of nations is my sincere Ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806111701:0001/pct:21.460989842230386,10.316593886462883,38.05921763561703,87.84115720524018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806111701:0001/pct:21.475398026078814,10.316593886462883,38.052013543692816,87.85025473071325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -910,7 +910,7 @@ may tong live to continue your tnvriul iahfcur*
 ’2 •«..% aUtcument.  
 8 | THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1806111701:0085/pct:74.68654693324297,41.39496491952126,18.451372416130127,28.889806025588115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1806111701:0085/pct:74.67389462984923,41.390694315485405,18.45248178892089,28.889404725059322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -978,7 +978,7 @@ assurances of my high esteem ami abaction*
 ► ».% attachment.  
 THOMAS JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1806112401:0087/pct:75.98850963163231,40.770183770390254,17.69178776613721,29.351641544497213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1806112401:0087/pct:75.97567156614294,40.76597501806545,17.693022470011826,29.35119231960359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1246,7 +1246,7 @@ of nations, is my sincere prayer. Ac­
 cept the assurances of my high esteem,  
 and affectionate attachment
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855040301:0422/pct:273.95912187736565,134.1983852364475,49.58364875094625,12.975778546712803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn84028880:00296027558:1855040301:0422/pct:68.51571374479364,33.54959630911188,12.400605831124574,3.2439446366782008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1412,7 +1412,7 @@ of nations, is my sincere prayer. Accept tbe as­
 surauces of my high esteem aud affectionate at­  
 tachment.&quot; Ualaxg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876061501:0631/pct:93.1785457163427,40.421052631578945,16.396688264938806,6.582456140350877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876061501:0631/pct:69.92616603637673,30.31578947368421,12.2996578426076,4.940350877192983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1478,7 +1478,7 @@ the reward In the thankfulneu ot nations Is my sincere
 prayer Accept the assurauee of my high stem and  
 affectionate attachment Tuoiul Jarntso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889050601:0069/pct:294.6024941543258,105.10683436884376,52.9423226812159,25.943324746173662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889050601:0069/pct:73.67933723196882,26.27670859221094,13.24074074074074,6.4858311865434155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1583,7 +1583,7 @@ we can enforce those principles, as to ourselves, by peaceable means, now
 that we are likely to have our public councils detached from foreign views.  
 • * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0251/pct:70.07705479452055,21.104801239029428,25.057077625570777,4.274651522973671/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0251/pct:70.08656773211568,21.104801239029428,25.057077625570777,4.278093271381862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1606,7 +1606,7 @@ we can enforce those principles, as to ourselves, by peaceable means, now
 that we are likely to have our public councils detached from foreign views.  
 • * 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0253/pct:69.17808219178082,21.755291688177593,25.28538812785388,4.1610738255033555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0253/pct:69.18759512937595,21.755291688177593,25.28538812785388,4.164515573911547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1631,7 +1631,7 @@ that we must avoid beins entangled in them.
 These words, however, were uttered  
 before the Louisiana purchase; wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0254/pct:29.95148401826484,17.52194114610222,12.628424657534246,4.749612803304078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0254/pct:29.956240487062406,17.528824642918604,12.628424657534246,4.749612803304078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1652,7 +1652,7 @@ ferent from ours that we must avoid being entangled in them. We believe
 we can enforce those principles, as to ourselves, by peaceable means, now  
 that we are likely to have our public councils detached from foreign vie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0254/pct:69.7060502283105,21.724315952503872,25.014269406392692,3.427981414558596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121801:0254/pct:69.7060502283105,21.724315952503872,25.03329528158295,3.4314231629667873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1674,7 +1674,7 @@ we can enforce those principles, as to ourselves, by peaceable means, mm
 that we are likely to have our public councils detached from foreign view*.  
 ♦ • 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121901:0279/pct:71.04737442922375,21.37490995163116,25.28538812785388,3.8695070495008745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_tower_ver01:data:sn90059523:00206537000:1898121901:0279/pct:71.05688736681887,21.37490995163116,25.280631659056315,3.8763678776028265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1710,7 +1710,7 @@ are likely to have our publl
 councila detached from foreign t  
 views.&quot; e o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86071197:0017503495A:1898122301:0615/pct:351.9108280254777,123.52941176470588,44.745222929936304,30.124777183600713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_argentina_ver01:data:sn86071197:0017503495A:1898122301:0615/pct:87.99522197889708,30.88235294117647,11.188532749352976,7.531194295900178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

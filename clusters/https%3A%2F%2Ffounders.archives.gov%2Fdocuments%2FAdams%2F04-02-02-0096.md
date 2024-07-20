@@ -69,7 +69,7 @@ righteousness we shall be given up to the
 chastisements of Ilis judgments. I am  
 ashamed of the age I live in.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742101:1876021901:0182/pct:8.226641242168347,105.69128262076624,42.168346499591394,15.944845456228022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lauren_ver02:data:sn84024738:00271742101:1876021901:0182/pct:2.742213747389449,35.23042754025541,14.056115499863797,5.3149484854093405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ we shall be given up to the chastisements
 of His judgments. I am ashamed of the  
 age I live in.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027691:0023728334A:1876022401:0247/pct:19.78723404255319,118.4038894817977,12.948328267477203,6.201826159136725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_funston_ver01:data:sn84027691:0023728334A:1876022401:0247/pct:14.850281197750418,88.8058816554014,9.712722298221614,4.660263251511918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ l-e given up to the chastisements of Mis 1
 Judgments. I a u ashamed of the  
 1 live in.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1876022501:0197/pct:17.839947950553025,64.91553358055212,12.895250487963565,6.376184590028842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187158:1876022501:0197/pct:17.837626854020296,64.90884746111855,12.897909619221094,6.378961101383596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -235,7 +235,7 @@ had none to spare. One day, after
 hearing his father pray for the poor  
 and needy his little son said to hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1876030201:0669/pct:46.27429805615551,88.59129245498062,12.958963282937365,16.925005698655117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jethro_ver01:data:sn85033964:00212470181:1876030201:0669/pct:34.71040907249899,66.44631866879416,9.734035371945456,12.696603601550034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -271,7 +271,7 @@ lie given up to the chastisement of his
 judgments. lam ashamed of the age 1  
 live in.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688647:1876031801:0235/pct:84.0,73.79310344827586,12.08695652173913,5.902165196471532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_galactic_ver01:data:sn84022982:00513688647:1876031801:0235/pct:84.01449275362319,73.80379577653034,12.079710144927537,5.907511360598771/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -297,7 +297,7 @@ be given up to the chastisement of his
 judgments. I am ashamed of the age  
 live in.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1876032301:0262/pct:307.51252086811354,288.4396355353075,48.080133555926544,22.66514806378132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1876032301:0262/pct:76.87813021702839,72.10990888382688,12.020033388981636,5.66628701594533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ ness, we shall be given up to the chas­
 tisements of His judgments. I am  
 ashamed of the age I live in.&quot; If t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1876052401:0995/pct:348.00955414012736,309.26166738910564,39.888535031847134,21.441988152001155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477862:1876052401:0995/pct:87.01970933704958,77.31541684727641,9.974119052359148,5.360497038000289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ tfoes not Interfere by His grace to control this
 ?i^iViIdolatry to tbe mammon of un­  
 ligtiteousness, we shall be given up to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654462:1876052601:0079/pct:29.186311787072242,76.41573800318399,13.79467680608365,8.210143279508756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mastiff_ver01:data:sn83045462:00280654462:1876052601:0079/pct:29.190114068441066,76.42426654537185,13.802281368821292,8.218671821696612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ ries of war; how it suffered for want of provisions, for
 want of clothing, for want of medicines, for want of  
 ammunition, for want of arms, for want of transport
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876102901:0366/pct:55.773672055427255,24.586800410349937,47.063675354668426,17.724837569816483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271743993:1876102901:0366/pct:18.59122401847575,8.195600136783312,15.687891784889475,5.908279189938828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -591,7 +591,7 @@ of unrighteousness wo shall bo 2ivon up to tho
 chastisements of his judgment. I am ashamed  
 of the age I live in.&quot; Well, who do you su
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023759:1876120101:0297/pct:75.3713606654783,24.55261274158912,21.07843137254902,8.05808364863483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023759:1876120101:0297/pct:50.27492941001635,16.371817159218732,14.058552533808887,5.368647100930565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

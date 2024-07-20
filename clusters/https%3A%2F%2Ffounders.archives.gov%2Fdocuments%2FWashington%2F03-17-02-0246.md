@@ -52,7 +52,7 @@ the superstructure they have been endeavoring to
 raise, like the &#x27;baseless fabric of a vision- falla to  
 nothing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1862061701:0530/pct:67.82682512733446,119.82796167247386,20.599886813808716,5.6293554006968645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:0029587918A:1862061701:0530/pct:50.891593546561,89.87369337979094,15.454288140390602,4.224738675958188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,7 +86,7 @@ to raise. &quot; like the baseless fabric- of a vision.&quot; fails to
 nothing. - GEO. WASHINGTOJ&amp;T  
 , To the President of Congresi.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1862061901:0546/pct:66.21656378600824,122.0992852247136,19.791666666666668,5.189464408107314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879105:1862061901:0546/pct:49.68480638106265,91.57935963967492,14.8462627042326,3.8969940272202095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ this is accomplished, the superstructure
 they have been endeavoring to raise, &#x27;like  
 the baseless fabric of a vision,7 falls tomot
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862701:1862061901:0323/pct:49.4129924341247,90.68181818181819,11.935820506130968,6.287878787878788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862701:1862061901:0323/pct:49.4129924341247,90.68813131313131,11.953213322897643,6.291035353535354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ superstructure they have been endeavor­
 ing to raise, &quot;like, the baseless fabrio of  
 a vision,&quot; fulls to nothing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1862062001:0894/pct:84.05349794238683,55.52,17.28395061728395,7.010909090909091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_homer_ver01:data:sn84024443:00200293861:1862062001:0894/pct:63.0712227254014,41.64363636363636,12.968299711815561,5.265454545454546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ ture they have been endeavering to raise will,
 like the baseless fabric of a vision,&#x27; fall to  
 nothing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1864021901:0081/pct:70.00599880023995,114.3819954266458,42.95140971805639,30.376699963894573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1864021901:0081/pct:17.50412479376031,28.59549885666145,10.739463026848657,7.594174990973643/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -253,7 +253,7 @@ have been endeavoring to
 raise will, (dike the baseless fabric of a vision,&quot;  
 fall to nothing.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862713:1864032301:0066/pct:55.44635544635545,35.34592425873373,16.953316953316953,11.048047754183385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862713:1864032301:0066/pct:55.44635544635545,35.35244805427798,16.953316953316953,11.051309651955508/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ The ArMY and the People. &quot;I shall con
 tinue to exert all my influence and anthority to  
 prevent the interruption of that harmony whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1864040501:0148/pct:294.83910139647844,211.7704044562848,43.59441408621736,31.920561879389684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292923:1864040501:0148/pct:73.74335611237662,52.9426011140712,10.903568716780562,7.980140469847421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -318,7 +318,7 @@ they have been endcavoriug, to
 raise will, Mike the Listless fabric o!  
 a vision,&#x27; fall to nothing.&quot;?Gewj
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042595:00295862312:1864040601:0003/pct:50.50709939148073,71.21195592887531,16.70047329276538,11.999563652230828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042595:00295862312:1864040601:0003/pct:50.50709939148073,71.21922839169484,16.71174216813162,11.999563652230828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ vition,&quot; fall to nothing.&quot;
 The ArNY ANd THs PEOPle. &quot;I shall continue to  
 exert all my influence and authority to prevent the in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184753:1864040801:0175/pct:109.4467382328654,34.10208382111917,44.95458298926507,17.993444158276752/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024669:00414184753:1864040801:0175/pct:36.47622192866579,11.366030668383472,14.982386613826508,5.997112645830895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ The Army and the People.—&quot;l shall contra
 ■ ue to exert all my influence and authority t&lt;  
 f prevent the interruption ot that harmony whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1864041901:0199/pct:67.88163576327153,81.13334616124688,12.496824993649987,9.54396767365788/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762465:1864041901:0199/pct:67.88163576327153,81.13334616124688,12.501058335450004,9.547174652042845/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ till this is accomplished, the  superstructure they
 have been) endeavoring to raise, will like  
 the baseless fabric of a vision,&quot; fall to nothing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn82014371:00212470211:1864112101:0780/pct:128.8863764838892,217.8865671641791,51.44149236856981,18.53134328358209/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn82014371:00212470211:1864112101:0780/pct:32.226148409893995,54.471641791044775,12.862190812720849,4.632835820895522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ wishes, arrJ that, till&#x27;tbis is accomplished, tbe
 superstructure tbeybave.been endeavoring to raise&quot;,  
 like the baseless fabrie&#x27;of a vision, falls to noth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879191:1865013101:0441/pct:67.05685618729098,115.24830452854955,20.498885172798218,8.116385911179172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84020712:00295879191:1865013101:0441/pct:50.31367628607277,86.43622839641216,15.391049769970724,6.0927586961277616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -456,7 +456,7 @@ they have been endeavoring to raise,
 dike the baseless fabrio of a vision,&#x27; falls to  
 nothing.&quot; These words may be profitabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862713:1865020101:0154/pct:43.86617100371747,70.13671875,13.479278535040617,7.6953125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862713:1865020101:0154/pct:43.86617100371747,70.14322916666667,13.48845747854422,7.6953125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -520,7 +520,7 @@ if any are left now, who imagine that
 the possession of one or all the Confede­  
 rate towns is to decide this contest.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:0028077795A:1865020901:0135/pct:145.46241523589669,110.94311693804187,43.211657769441636,47.80080355254811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:0028077795A:1865020901:0135/pct:48.4874717452989,36.98103897934729,14.403885923147213,15.933601184182702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -556,7 +556,7 @@ this contest.--NichMOND DisPATEh.
 kist of Sick and Wounded  
 Of the Garrision of Fort Fither, now in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667127:1865021801:0085/pct:144.84509903504318,31.499540018399266,115.74403250380904,338.5832566697332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667127:1865021801:0085/pct:36.22047244094488,7.874885004599816,28.943357886715773,84.6458141674333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -588,7 +588,7 @@ superstructure they have been endeavor.
 ing to raise, like the baseless fabrie of  
 vision, falls to nothing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn92065574:00237288154:1865021801:0014/pct:15.774299835255354,236.02229392783806,54.427512355848435,41.449105309474916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn92065574:00237288154:1865021801:0014/pct:5.258099945085118,78.67409797594603,18.142504118616145,13.81636843649164/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ ac &#x27;Oinplished, the superstructure they have b cn
 endeavoring to raise, ‘like the baseless l/brio  
 of a vision’ ‘fain to nothing/ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:0041418439A:1865030201:0069/pct:80.1115760111576,63.8404489877731,15.341701534170154,8.518741230707557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:0041418439A:1865030201:0069/pct:80.10040440663785,63.83405150816715,15.344210477385767,8.521227911948426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ till mhir i aeconrisuct, thr superstructare they
 aye hoen endesvoring to ralse, &quot;Ike the baseles  
 fabrie of a vision,&#x27; falls to nothing
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn82014371:00212470211:1865040101:0795/pct:84.81166464155528,85.85154936343983,57.108140947752126,20.466010088878214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_monroe_ver01:data:sn82014371:00212470211:1865040101:0795/pct:21.20291616038882,21.462887340859957,14.277035236938032,5.1165025222195535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

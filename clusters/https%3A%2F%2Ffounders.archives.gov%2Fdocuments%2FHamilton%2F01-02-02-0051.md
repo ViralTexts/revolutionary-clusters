@@ -123,7 +123,7 @@ true policy equally interest me in favor of this infor
 tunafe class of men.  
 The present volume comes down only to the clos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857123001:0622/pct:199.41041598427776,198.08811305070657,47.969210612512285,95.34497090606817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857123001:0622/pct:66.47013866142592,66.02937101690219,15.989736870837428,31.781656968689386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -163,7 +163,7 @@ ure their fidelity, animate their courage, and,
 1 believe, will have a good influence upon those  
 who remain, by opening a door to their emancij*ition.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858030401:0258/pct:0.29314767314034446,28.25099375354912,14.107731769879077,9.293961764149158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620378:1858030401:0258/pct:0.3012906640609096,28.257303299892737,14.107731769879077,9.297116537320967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ matter of importance. If his trade or
 business is confined to his own county he  
 should take measures to let every famil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472529:1861122601:0286/pct:50.239234449760765,11.345438141423255,14.174641148325358,43.57730912371716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn83016836:00212472529:1861122601:0286/pct:50.239234449760765,11.345438141423255,14.179625199362041,43.59234615240029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -470,7 +470,7 @@ believe, will have a good influence upon those
 who remain, by opening a door to their eman  
 cipation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862071201:0678/pct:31.117266851338872,156.78463453672416,50.60018467220683,19.064556286679707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_braniff_ver01:data:sn82014760:00237288890:1862071201:0678/pct:7.779316712834718,39.19615863418104,12.650046168051707,4.766139071669927/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -572,7 +572,7 @@ me in favor of this unfortunate class of
 men.  
 With thn tronStinoe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862071501:0367/pct:62.63966480446928,50.971208155393306,46.298882681564244,157.10152913624466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775630:1862071501:0367/pct:15.665385958784492,12.742802038848327,11.578763534753755,39.275382284061166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ men.
 With the truest respect and esteem.  
 I am, sir, your most obrdiei t sei •ant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:0051415935A:1862080501:0453/pct:82.57607926397735,12.967151319332256,12.880396319886765,50.72697899838449/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:0051415935A:1862080501:0453/pct:82.58551545175749,12.974331358822473,12.885114413776835,50.7305690181296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,13 +780,13 @@ this unfortunate class of men.15
   
 INTEB E STING FROM THE RAPPA
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862080801:0002/pct:55.29369108049311,7.334293948126801,10.025380710659899,27.40634005763689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1862080801:0002/pct:55.307287889775196,7.334293948126801,10.020848440899202,27.4171469740634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The Continental monthly_](https://archive.org/details/sim_continental-monthly_1862-09_2_3/page/n73/mode/1up?view=theater)
+## [From _The Continental Monthly; Devoted to Literature and National Policy (1862-1864)_](https://archive.org/details/sim_continental-monthly_1862-09_2_3/page/n73/mode/1up?view=theater)
 
 #### 1862-09-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1108,7 +1108,7 @@ interest me in favor of this unfortunate
 class of men.”  
 Congress, breathing the spirit of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1863031301:0668/pct:70.41491280817799,3.0068603123631585,26.35798757265985,93.95708655670705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1863031301:0668/pct:70.40080160320642,3.0064214827787508,26.357715430861724,93.94702276707531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1182,7 +1182,7 @@ them their liberty with their swords.
 This will secure their fidelity and ani  
 mate their courage. Extraordinary e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863070901:0622/pct:87.94520547945206,59.46652719665272,48.97260273972603,120.44979079497908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863070901:0622/pct:21.99383350462487,14.86663179916318,12.24734498115793,30.11244769874477/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

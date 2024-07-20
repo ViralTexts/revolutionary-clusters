@@ -98,7 +98,7 @@ exlent, and giving sjiecMl authority to
 make them.&quot;  
 A third loan followed under the act o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn84024442:211103061:1896120301:0658/pct:42.3828125,71.32199343479559,15.52734375,3.6705461056401076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn84024442:211103061:1896120301:0658/pct:31.803086540339912,53.49149507609669,11.642899003711662,2.76037003879439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ exigencies may call for.
 defining their extent and giving spectal authorl  
 make them. A third loan followed under th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175039028:1896120301:0032/pct:105.42698826597132,151.27741352023514,47.767275097783575,6.353153967895094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:00175039028:1896120301:0032/pct:35.14232942199044,50.425804506745045,15.922425032594525,2.1177179892983644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ vided for its repayment upon similar terms as
 the preceding loan from the Bank of New York,  
 the revenues derived from duties on import
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896120501:0471/pct:340.35740878629935,282.4938574938575,59.19583023082651,38.452088452088454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896120501:0471/pct:85.12104283054003,70.62346437346437,14.804469273743017,9.613022113022113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ duties on imports and tonnage being
 pledged for its redemption. The money  
 was needed for the compensation of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:00280776531:1896121601:0486/pct:343.66448542534204,300.88495575221236,41.22546103509816,34.961214902217854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_hetzel_ver01:data:sn84026409:00280776531:1896121601:0486/pct:85.91612135633551,75.22123893805309,10.30636525877454,8.740303725554464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ under the act of Congress of March
 dent Washington, and the amount is­  
 sued was 855,000. The contract fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554899:1896122201:1204/pct:6.746353322528363,47.266099635479954,18.719611021069692,7.96543809909545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554899:1896122201:1204/pct:6.756482982171799,47.26947482111516,18.734805510534844,7.97218847036587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -281,7 +281,7 @@ under the act of Congress of March
 dent Washington, and the amount is­  
 sued was $55,000. The contract fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00271762628:1896122701:1038/pct:58.90236119974473,205.36572690658699,44.06509253350351,23.047940756138754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00271762628:1896122701:1038/pct:14.725590299936183,51.341431726646746,11.016273133375877,5.7619851890346885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ its repayment upon similar terms as
 the preceding loan from the Bank of  
 New York, the revenues derived fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1897010101:1037/pct:110.39279869067103,211.96863392488652,48.6088379705401,31.256018709588663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1897010101:1037/pct:27.598199672667757,52.99215848122163,12.152209492635025,7.814004677397166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -329,7 +329,7 @@ as the public exigencies may call for, de­
 fining tlieir extent and giving special au­  
 thority to make them.” A third loa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:0041421065A:1897010601:0250/pct:30.574257425742573,84.80816831683168,12.514851485148515,2.7382425742574257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:0041421065A:1897010601:0250/pct:30.568204315977034,84.79505027068832,12.517323302316372,2.7416860015467903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -357,7 +357,7 @@ its repayment upon similar terms as
 the preceding loan from the Bank of  
 New York, the revenues derived fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1897010801:1041/pct:52.62732417138238,144.13705940176942,47.93856103476152,31.737115573655384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_daisy_ver01:data:sn87065532:00295878836:1897010801:1041/pct:13.164812942366027,36.034264850442355,11.99191102123357,7.934278893413846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ contract for tho loan provided for
 its payment on terms similar to  
 thoso of the preceding loan of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533213:1897020901:0101/pct:45.869394177812744,27.40046838407494,18.823760818253344,25.747348119575697/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_batman_ver01:data:sn86069395:00206533213:1897020901:0101/pct:34.40881369270116,20.550351288056206,14.125516427306708,19.317399090783855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -435,7 +435,7 @@ cies may call for, denning their extent
 and giving special authority to make  
 them.&#x27;*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_idyllwild_ver01:data:sn85066387:00175037512:1897031901:0307/pct:42.09915917657292,26.772682714301276,20.12177442737025,54.18799695022329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_idyllwild_ver01:data:sn85066387:00175037512:1897031901:0307/pct:42.09915917657292,26.776313400864105,20.136271383009568,54.18436626366046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ amount issued was $55,000. The contract
 for the lean provided for its repayment  
 upon similar terms as the precediug lea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_gandhi_ver01:data:sn86069117:00206533754:1897032301:0290/pct:86.43933386201428,79.95893223819301,18.596352101506742,11.444216290212184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_gandhi_ver01:data:sn86069117:00206533754:1897032301:0290/pct:64.86808172981551,59.97262149212868,13.965483039079547,8.583162217659138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ and the notes were sold at par.
 They were redeemable one year after date,  
 with 5 2-5 per &lt;ent interest. Of the tota
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655156:1897092901:0697/pct:2.0821816841717338,69.03904735530324,13.561820526994657,5.040155081694821/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655156:1897092901:0697/pct:2.0960014741109267,69.04597064525062,13.571033720287451,5.043616726668513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ the amount Issued was $55,000. The
 contract for the loan provided for its  
 payment on terms similar to those o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:00340582433:1897112001:0187/pct:56.533754441373866,29.316972205795388,11.922621397552309,4.642223536369013/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_hiko_ver01:data:sn84022047:00340582433:1897112001:0187/pct:56.52259719755279,29.312638580931264,11.925202289323071,4.6452328159645235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

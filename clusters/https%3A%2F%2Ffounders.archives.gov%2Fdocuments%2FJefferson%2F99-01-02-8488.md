@@ -54,7 +54,7 @@ i
 ; the thiBah&#x27;ctSsi Of subsistcnce are gctsione. \ our ye­  
 Vitious ct_ well ificfsilu&#x27;disinteti with the duues
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808092001:0372/pct:6.148474267496584,19.35166114444345,23.834826172764537,9.134055699829856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808092001:0372/pct:6.147540983606557,19.349928366762178,23.836267961951023,9.136222540592168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -88,7 +88,7 @@ ssct hofdwssmbmit their nhole ease to you: con­
 si &#x27; &#x27;si ,;tsiiionss hoþinsig your exzellsienct siy will zulopt  
 such menaxns as wisdom and justice mea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808092001:0372/pct:6.16365568544102,32.84678069311364,23.40974647032033,10.566848750783558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216080:1808092001:0372/pct:6.162720097146327,32.843839541547275,23.411252782837483,10.56888729703916/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ cellency will adopt such measures .-.a
 wisdo ii and justice may point out,  
 „ and as in duty bound will pray, Sec
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808092101:0001/pct:41.196654514261205,24.89965039492425,19.729787690328116,32.64275540593034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808092101:0001/pct:41.20380298806205,24.89965039492425,19.72263921652727,32.64275540593034/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -190,7 +190,7 @@ ner.
 ^ our petitioneri therefore pr.iv that your excel­  
 lency will take th.ir cube lulu coi.jijefation, and a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808092101:0117/pct:75.11996161228407,78.87122416534181,19.98560460652591,16.931637519872815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808092101:0117/pct:75.1019429119693,78.85868701319345,19.986807387862797,16.932920044508027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -212,7 +212,7 @@ ration, hoping your excellency will adopt such mea­
 sures as wisdom and justice may point out, and as  
 in duly hound will prav, ,Vr.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808092101:0118/pct:4.803822937625754,3.7103923822032505,20.72434607645875,5.943194877688392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1808092101:0118/pct:4.802615036459643,3.70978332239002,20.72542117173749,5.946323046618516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ your excellency will adopt such me.&#x27;ismcs r ,
 wisdom and justice may point out, and ...in in­  
 bound w II pray, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808092301:0171/pct:6.55884995507637,66.50855074272874,17.322551662174305,18.77418549494445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808092301:0171/pct:6.557671577434423,66.50024962556165,17.325428194993414,18.776002662672656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ your excellency will adopt such measmes
 as wisdom and justice may point out, and  
 as in duty bound will pray, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808092701:0319/pct:41.27252252252252,59.60315441363521,18.055555555555557,23.963368099720174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808092701:0319/pct:41.26477763182586,59.59557420831744,18.058422468255458,23.96455975242698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

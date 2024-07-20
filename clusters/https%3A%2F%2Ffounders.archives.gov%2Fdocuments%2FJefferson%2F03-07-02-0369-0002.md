@@ -568,7 +568,7 @@ cannot subsist.
 Resolved, ( hat his majesty’s liege people  
 ot Bits most ancient colony, have nniutcrruut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817111801:0199/pct:34.49574328749181,19.525986525505292,15.193189259986902,17.901828681424448/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1817111801:0199/pct:34.49009657881814,19.52363767592927,15.196158672996125,17.903684991378963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ the tlouse of Pcers, their lunguage was this—
 al principle of the British Coustitution without  
 which freedom can no where exist, thatthe peopl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021520:00340588046:1834071901:0386/pct:36.0655737704918,68.60771627126768,14.886570624275542,4.6848789839444045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021520:00340588046:1834071901:0386/pct:36.0655737704918,68.60771627126768,14.892090301926368,4.700854700854701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ sist,
   
 Resolved, &#x27;That
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842062101:0302/pct:67.53926701570681,52.12039718659495,14.854151084517577,12.122465866776997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1842062101:0302/pct:67.53926701570681,52.12384498689836,14.864123659935178,12.11901806647359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -759,7 +759,7 @@ nized by the Kings and people of Grent Brit
 There is some right good Douglas doctrine  
 in that resolution. Was it considered treaso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859110801:0441/pct:56.44541963795941,236.61166116611662,34.064728469555675,16.58965896589659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_archie_ver01:data:sn83045160:00200290070:1859110801:0441/pct:14.11522633744856,59.152915291529155,8.518518518518519,4.147414741474147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

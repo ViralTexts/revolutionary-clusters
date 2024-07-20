@@ -303,7 +303,7 @@ quire and rely on would be this, that we, in
 our Indr’pcndcfﬂ-/ffe,tf&quot; reburn ts the obedience of that  
 gowrnment.”f——--&#x27;l‘hcfc preliminaries were,b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778071401:0018/pct:3.9117132867132867,49.758110415480935,29.873251748251747,36.72453044963005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778071401:0018/pct:3.926282051282051,49.767596281540506,29.873251748251747,36.72453044963005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ well as in the commncement of it,
 Having thustrom the records slated the  
 autherities of the Commissioners on the or
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778100601:0070/pct:34.26086956521739,25.478434732933447,27.73913043478261,12.78206226792345/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778100601:0070/pct:34.268115942028984,25.48319527753975,27.731884057971016,12.791583357136057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ our feperation from it.”But,can B/itainfay,
 her effers proceed from*real good will to us  
 and to our caufz !’ Can she fay, the withe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778101301:0071/pct:68.03153054521567,38.05892029310603,28.37749069410992,9.630626588903842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1778101301:0071/pct:68.03153054521567,38.05892029310603,28.384789431428363,9.630626588903842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ ent. The only condition he
 fovernent. Ilie only conditioll lic  
  that the United States, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1852042701:0072/pct:90.16129032258064,155.6816891815189,45.26392961876833,26.927006470655012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_cootiestark_ver01:data:sn86053240:00237288476:1852042701:0072/pct:30.053763440860216,51.89389639383963,15.087976539589443,8.97566882355167/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -784,7 +784,7 @@ en o am not arging whether this conduct was justiable
 ee a on oin ta an in te ean a o  
 a part hostile to Great Britain in order to promote he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743531:1865102601:0215/pct:92.10174029451137,48.589921405455385,55.75635876840696,16.655108645399906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743531:1865102601:0215/pct:30.70058009817046,16.19664046848513,18.58545292280232,5.551702881799969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

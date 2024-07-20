@@ -73,7 +73,7 @@ to others or of importance to myself. Accept my affect
 ionate salutations, and assurances of great esteem and  
 respect
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:149.6393652828979,183.14606741573033,47.39541593204039,50.27221128228889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0590/pct:49.87978842763263,61.048689138576776,15.798471977346797,16.757403760762966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ President of the United States. &quot;Genr Wash-­
 &quot;any one after a while who shall endeavor  
 &quot;to extend his term.&quot; &quot;If some period b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0594/pct:55.60844042519435,162.01906512001838,47.40599714421704,14.413690134374642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531186:1874091401:0594/pct:18.53614680839812,54.00635504000613,15.801999048072346,4.804563378124881/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -137,7 +137,7 @@ tend to secure the elective form of government
 and that if a term were not fixed by the Cob  
 stitution or supplied by practice, the offic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874101701:0230/pct:28.019421404005666,11.653684841222288,11.066154157394294,7.234871180347514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874101701:0230/pct:28.03290849012071,11.653684841222288,11.059410614336773,7.2398641901338125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ follow it. And a few more precedents will
 , a while who shall endeavor to extend his  
 term.*’ He said in reply to requests not t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874101701:0232/pct:28.046576992571772,11.967213114754099,11.463561533828548,5.692995529061103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623756:1874101701:0232/pct:28.046576992571772,11.967213114754099,11.476945727096298,5.702930948832588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -229,7 +229,7 @@ engage my acquiescence in another election
 to wit: such a division about a successor as  
 might bring in a Monarchist.” So, Gen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1875061001:0090/pct:61.429706115965054,53.19486866218693,10.786338363780779,4.679291386682957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_eggharbor_ver01:data:sn83032307:00513685282:1875061001:0090/pct:61.41994917407878,53.188370388468115,10.788595933926302,4.681773760078182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ by an amendment to the Constitution
 Constitution. I believe I am  
 doing right, therefore, in pursuing my principles. Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1880020801:1049/pct:24.81089258698941,100.28036004131621,50.75642965204236,14.69676848162904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_cummings_ver01:data:sn83030272:00175044735:1880020801:1049/pct:6.203896349536599,25.070090010329054,12.691507471155665,3.67419212040726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -327,7 +327,7 @@ suing my principle.&quot;
 of  
 th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880021201:0276/pct:28.50877192982456,72.87078800742903,20.657894736842106,53.011408861767045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775046:1880021201:0276/pct:21.386268918622505,54.65640753515521,15.507786795349858,39.75855664632528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -360,7 +360,7 @@ adherence to that that I determine to
 withdraw at the end of my second  
 term.—Jefferson&#x27;s Letter to Colone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554462:1880022501:0069/pct:34.811249049911325,53.87523629489603,14.28933367114264,11.256229592713524/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_tonopah_ver01:data:sn84022053:00279554462:1880022501:0069/pct:34.80243161094225,53.865979381443296,14.292046605876394,11.258591065292096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -384,7 +384,7 @@ tablish it by an amendment to the Cone­
 stitution. I believe I am doing right,  
 therefore, in pursuing these principles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86091341:00271762616:1880022901:0432/pct:119.61697722567288,106.80965147453082,48.75776397515528,24.32975871313673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86091341:00271762616:1880022901:0432/pct:29.90424430641822,26.702412868632706,12.18944099378882,6.0824396782841825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ of friends, who think it best not to put
 a continuance out of my power in de-  
 fiance of all circumstances
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175031182:1895091901:0578/pct:49.15426251691475,52.73768613974799,40.57848443843031,55.945017182130584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175031182:1895091901:0578/pct:16.384754172304916,17.579228713249332,13.526161479476771,18.648339060710196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -608,7 +608,7 @@ think it best not to put a continuance
 out of my power in defiance of all cir­  
 cumstances.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891959:1895092001:0380/pct:36.71104962822065,22.01702842067394,14.421580494553,18.143662309629452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_ford_ver02:data:sn85042104:00332891959:1895092001:0380/pct:36.71104962822065,22.021025702522284,14.433108536515073,18.147659591477794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -698,7 +698,7 @@ custom followed now for upwards of a
 century has become a pant of the con­  
 stitution of this country Not writte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:2065344540:1896012101:0186/pct:47.75263484190948,103.42093339374716,18.36639801611903,18.497961033076574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:2065344540:1896012101:0186/pct:31.840024802356226,68.95106479383779,12.246163385521625,12.33574988672406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

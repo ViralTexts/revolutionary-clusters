@@ -108,7 +108,7 @@ vailing duties of such foreign nation, {o far. -
 3s they operate to the disadvantage of the *  
 United Stdtes, have been abolished, —-;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803020801:0227/pct:80.62142273098937,17.41654571843251,17.61242845461979,11.611030478955007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1803020801:0227/pct:80.63232488416462,17.420001382265532,17.617879531207414,11.607574815121986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ Speaker of the House of Representatives.
 JOHN GAILLARD,  
 President pro tempore of the Senate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815032501:0090/pct:24.303750464166356,64.42089326267978,17.34125510582993,14.685844057532172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815032501:0090/pct:24.299238908483385,64.41276649426013,17.344223748530414,14.688196459358311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ vailing duties of such foreign nation, as far as
 they operate to the Jisadvantage of the United  
 States, have been abolished. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815042501:0277/pct:23.9442688882505,10.046064882877586,39.62941683424303,84.1811231990591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815042501:0277/pct:23.953844680647325,10.049331895847626,39.62941683424303,84.17785618608906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ the said li]nitcd States in British ships,
 and no other or or higher duties of cus­  
 toms ; and it is hereby further ordered
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815102501:0170/pct:3.8331004192453584,9.6714909257983,22.279896186863645,9.740408913393063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1815102501:0170/pct:3.8331004192453584,9.679148479975495,22.293205563319358,9.748066467570258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ g&quot;U&#x27;F, &amp;c. when imported from the said
 United States in British ships, and no other  
 or higher duties of customs : and it is here
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815102501:0048/pct:82.60360962566845,79.62962962962963,14.856283422459892,7.4708269913749366/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1815102501:0048/pct:82.58980785296575,79.61953075459733,14.859370648844333,7.474106954132319/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ it is hereby further ordered, that on the
 exportation from this kingdom to the Uni­  
 ted Sfid03 of any goods, &amp;c. the growth
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815102501:0325/pct:60.451552210724365,3.5256816740646797,35.898400752587015,93.25301204819277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815102501:0325/pct:60.44018058690745,3.525234592949531,35.89791823426135,93.24541381350917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ bis majesty&#x27;s territories in Europe, from this king­
 dom to the United States, in vessels of the Mtd  
 stntes, there shall hi paid the same duties as ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815102601:0623/pct:50.59701492537314,3.2382793620106334,43.98009950248756,93.87787981311422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815102601:0623/pct:50.584431733399654,3.2377577319587627,43.975379258890825,93.86678479381443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -649,7 +649,7 @@ Stales of any goods, kc. the growth, kc. of his
 Majesty’s territories in Eur»pe, in vessels of  
 the said
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1815103101:0105/pct:40.62443274641496,52.96986369888708,16.482120166999454,12.092034512942353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_jumboshrimp_ver01:data:sn84025997:00414216596:1815103101:0105/pct:40.617059891107075,52.96324081020255,16.48517846339988,12.09469033925148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -824,7 +824,7 @@ And wjier. u sati-faei ry ptoof has been re­
 ceived by me, &#x27;rom tlte Burgomasters and  
 Senators ol the Free and&#x27; Hanseatic citv o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818080701:0110/pct:4.810543657331137,35.85490991528457,14.794069192751236,8.984608041999762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1818080701:0110/pct:4.809751276560698,35.85063230732522,14.797122934167902,8.987512924520798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -880,7 +880,7 @@ United_States, be, and the same is hereby re­
 pealec‘éo far as the same respects the produce  
 or manufactures of the territories in Europe, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818081101:0301/pct:6.105658198614319,78.03097563381671,16.68591224018476,4.281345565749236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818081101:0301/pct:6.1152809853733645,78.03426391766138,16.68591224018476,4.284633849593897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -913,7 +913,7 @@ And whereas satistuctory proof has been re­
 ceived by me, from the Burgomasters and Sen­  
 ators of the Frec and Hanseatic city of Ham
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818081101:0302/pct:25.41325283886733,10.535678987942282,16.78884576685353,10.219410950780787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818081101:0302/pct:25.42283551339179,10.535678987942282,16.79363710411576,10.22599986822165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -945,7 +945,7 @@ year of our Lord one thousand-eight hun.
 : of the Indcpendence of the United  
 ’ States. &#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818081101:0302/pct:25.499496909587467,24.530539632338407,16.71697570792008,9.656058509586876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1818081101:0302/pct:25.509079584111927,24.530539632338407,16.707393033395622,9.66264742702774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1051,7 +1051,7 @@ their property, and was Lyt to Ceath.— Bost.
   
 We are happy to find that the Missouri pa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820051601:0079/pct:24.20851126490944,4.65327546179469,33.9861581504933,90.08781669526597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1820051601:0079/pct:24.20851126490944,4.6566400861343835,33.99597506503706,90.08445207092628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1163,7 +1163,7 @@ President of the United States of Arne­
 .hat so much of the several acts imposing j  
 duties on the tonnage ofships and vessels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820080801:0228/pct:25.645708322462824,2.867974287127081,35.09000782676755,90.80270314817867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898000:1820080801:0228/pct:25.639019300991134,2.867501647989453,35.087376108502866,90.79185893210284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1232,7 +1232,7 @@ veflels of the United States, are repealed,
 manufa@ure of the said Kingdom of Nor­  
 way&#x27;u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821082801:0347/pct:4.281389649704483,28.730974500889502,16.41920138388352,7.046847203004546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821082801:0347/pct:4.290999951948489,28.730974500889502,16.414396232761522,7.053436120445411/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1258,7 +1258,7 @@ tUadvnntage of the Uui.cd States, hnve ticen nlMilislied.
 And w hereas satisfactory proof has heen received, liy me, I  
 through the Charge it’AflWrt of the United States ii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821082801:0134/pct:50.77580747308423,5.260702204595824,15.294490183660544,4.140907500291613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821082801:0134/pct:50.767769510843756,5.2600886400746445,15.297345786502031,4.144312261876992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1290,7 +1290,7 @@ thousand eight hundred anil twenty one, uml the
 forty.sixth year of the independence of the United  
 States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821082801:0134/pct:50.77580747308423,10.416423655663129,14.882837238758707,6.497142190598391/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821082801:0134/pct:50.767769510843756,10.415208770702122,14.885758007493008,6.500272140580048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1338,7 +1338,7 @@ dent of the United Hiates of Ymerica, do
 hereby declare and proclaim, toat so much ol  
 the several acts Imposiog duties on the 100
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1821090501:0143/pct:9.592233009708737,19.749652294853963,21.067961165048544,15.73945294390357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153176:1821090501:0143/pct:9.598705501618124,19.749652294853963,21.07443365695793,15.751043115438108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1397,7 +1397,7 @@ vantage of the United States, have been
 abolished : ¢ .  
 And Whereas fatisfalory proof has bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821120401:0402/pct:58.52471482889734,8.502356074574882,17.171102661596958,12.753534111862324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010844:1821120401:0402/pct:58.534854245880865,8.502356074574882,17.17617237008872,12.760363313528648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1490,7 +1490,7 @@ United S ales, be, and the same is here­
 by, suspended, so far as the same re­  
 spects the produce or tnanu&#x27;acture o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824021001:0182/pct:3.568596352101507,37.236495388669304,17.842981760507534,5.764163372859025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1824021001:0182/pct:3.5676532769556024,37.23036390581262,17.84487315010571,5.767330808496625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1543,7 +1543,7 @@ and the British Territories, in Europe; so far as
 related to duties and charges of tonnage, im­  
 post, export, and bounties upon articles of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826032201:0189/pct:4.204054503157195,31.93664345090991,17.813226985709537,11.21096382835318/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826032201:0189/pct:4.203356039209171,31.933056273166347,17.815805504790386,11.2134486502677/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1602,7 +1602,7 @@ On tiie fid ol July, ll!!o, (United States Laws, vol. ti,
 p. 001.) a Convention was concluded with (ireat Britain,  
 by the second article of which, this principle was adopte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826032801:0068/pct:4.766474728087013,8.850279850746269,17.946257197696738,4.57089552238806/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826032801:0068/pct:4.76571245802015,8.849247988807276,17.94871794871795,4.574248960397964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1633,7 +1633,7 @@ course between the United States and the British
 and charges of tonnage, impost, export, and boun­  
 ties upon articles of the produce or manufacture o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826033101:0397/pct:62.83549100094727,22.583363428433852,15.108935901484054,8.763693270735525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826033101:0397/pct:62.82557221783741,22.580645161290324,15.111812680873454,8.76665061787835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1670,7 +1670,7 @@ discriminating or counter vailing duty, to operate
 to the disadvantage of the U Slate* existed, in ra  
 lation to the tride opened by this act of Parliament
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827061201:0051/pct:48.121617319325054,74.56995067965836,14.899713467048711,6.712378202814868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184017:1827061201:0051/pct:48.11395830017508,74.5609814770267,14.902647355297363,6.715580145938578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1845,7 +1845,7 @@ vailing duties of such foreign nation, so 1 n r
 as they operate to the disadvantage ol the  
 United States, have been abolished.” Twelv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840032701:0300/pct:67.48630825975187,6.25,15.502403040125182,8.452380952380953/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840032701:0300/pct:67.47876620473849,6.24953500483595,15.504395768141856,8.45423207598641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1994,7 +1994,7 @@ countervailing duties of such foreign nation, so for
 as they operate to the disadvantage of the U. States,  
 have been abolished.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841020401:0108/pct:50.692259282567655,21.56549520766773,39.096916299559474,11.615700593336376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184595:1841020401:0108/pct:16.894761680037753,7.187678265830006,13.030255361543706,3.87145845217722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2036,9 +2036,9 @@ satisfied that its discriminating duties against th
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1850-01_26_139/page/n65/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1850-01_26_139/page/n65/mode/1up?view=theater)
 
-#### 1850-01-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1850-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -2150,7 +2150,7 @@ be refunded. The incident emphasizes
 the point to which our correspondent refer-­  
 red--the importance of having the trade be-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744006:1877110501:0471/pct:150.64616391297236,35.98879551820728,46.31114019303124,39.80952380952381/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_deadnettle_ver01:data:sn83030313:00271744006:1877110501:0471/pct:50.21538797099078,11.996265172735761,15.437046731010415,13.26984126984127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2256,7 +2256,7 @@ The assumption that any discriminat­
 ing duties of foreign nations “operated  
 to the disadvantage of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_clabbert_ver01:data:sn85040451:00414215142:1899012501:0219/pct:33.29297820823245,61.78707224334601,12.711864406779661,11.248415716096325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_clabbert_ver01:data:sn85040451:00414215142:1899012501:0219/pct:25.808805643395768,47.8881309686221,9.851617611286791,8.71487039563438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2285,7 +2285,7 @@ The assumption that any discriminat­
 ing duties of foreign nations ‘“operated  
 to the disadvantage of the TUnite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1899012601:0398/pct:33.67875647668394,63.417707020959796,14.741768343640315,8.750429504065972/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152652:1899012601:0398/pct:33.689899158727506,63.417707020959796,14.741768343640315,8.76570075974497/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2381,7 +2381,7 @@ inating duties of foreign nations &quot;op­
 erated to the disadvantage of the  
 United States&quot; was false and absurd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283077:1899020201:0074/pct:78.25565455791639,63.84125428711416,41.10692254969157,50.12248897599216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_cessna_ver01:data:sn84029853:00237283077:1899020201:0074/pct:52.202983027601576,42.564919157275845,27.41299502828733,33.41499265066144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2416,7 +2416,7 @@ The assumpt ion that any diseriniinat-
 Ing duties of foreign nations &quot;operated ;  
 to the disadvantage of the I’nited 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1899020201:0871/pct:43.24122479462285,62.87363694676075,14.768483943241225,11.391917896087236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_honeydew_ver01:data:sn99068086:0033289996A:1899020201:0871/pct:43.24589245705751,62.880051314945476,14.773151605675878,11.395125080179602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2467,7 +2467,7 @@ States—not elsewhere—and in time
 war prohibited articles not to be carried  
 at all. The coasting trade in the Indie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:00415623161:1899020301:0347/pct:35.27896995708154,5.258171482709616,27.42489270386266,63.98231485867677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_corsair_ver06:data:sn96090259:00415623161:1899020301:0347/pct:35.2843347639485,5.258171482709616,27.44098712446352,64.00205273961788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

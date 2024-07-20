@@ -221,7 +221,7 @@ unwarrantable combinations, to excite an un­
 •* juftifiable opposition to the constitutional au­  
 ** thority of Parliament.”—and afterwards adds
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774120101:0669/pct:6.2050947093403,54.19024521692266,27.389505769649467,4.607922392886015/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774120101:0669/pct:4.809044378198998,41.99791159067177,21.23291523707745,3.5851026801253045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ ing to create unwarrantable combinations,
 ‘¢ to excite an unjuftifiable opposition to the  
 ¢ constitutional authority of parliament.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775031701:0419/pct:8.18700614574188,28.06437058204241,27.326602282704126,3.8351631824334484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1775031701:0419/pct:8.194322505121452,28.06437058204241,27.3339186420837,3.840176467639244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -118,7 +118,7 @@ following emphatical question. “3d Shall the Uni­
 ted S at&lt; * stipulato solemnly to guarantee the new  
 boundary which may be arranged.1*”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830050501:0428/pct:7.0378837361201825,39.81878874582737,18.076420640104505,25.08345255126371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830050501:0428/pct:7.036734693877551,39.81404219811658,18.07891156462585,25.084435967735526/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ following emphotical question. “3d Shall the Uni
 led S ates stipulate solemnly to guarantee the new  
 boundary which may be arranged-”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830050701:0158/pct:4.730805989168525,39.44318317600669,18.094934692577255,24.60270044210778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830050701:0158/pct:4.730052556139513,39.43847072879331,18.097361575622447,24.603743528474713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ the United States should &quot; stipulate solemn­
 ly to guarantee the new boundary, which  
 may be arranged ?” The Senat# gave thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830072901:0314/pct:6.797741058355992,5.192582025677604,35.6410792721188,90.05706134094152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830072901:0314/pct:6.796319531576746,5.191841392098132,35.638854035968215,90.04778205676794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ to me by the constitution, in order to carry into faith­
 ful execution the treaty oi Hopewell.” “ The letters  
 to the chiefs of the Creek* ate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830072901:0314/pct:43.02447186781008,54.70756062767475,17.485881614724953,5.634807417974322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830072901:0314/pct:43.01547469677959,54.69975752389103,17.487452948557088,5.637569533590073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -552,7 +552,7 @@ tod Steles should &quot;stipulate solemn­
 ly to guaranty the new boundaiy,  
 wiich iuny he arranged?&quot; The Son
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831100701:0001/pct:7.476863127131028,44.848388633116365,15.952264978080857,6.604222892522623/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831100701:0001/pct:7.476863127131028,44.8523575170662,15.970530930345836,6.616129544372122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -582,7 +582,7 @@ order to carry into faithful execution
 the treaty of Hopewell. The letters  
 of the chiefs to the Creekf
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831100701:0001/pct:57.18460789089138,68.67756786791554,15.952264978080857,9.874583267185267/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_topsn83020874_ver01:data:sn83020874:print:1831100701:0001/pct:57.18460789089138,68.6855056358152,15.964442279590843,9.8785521511351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

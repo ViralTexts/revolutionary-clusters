@@ -2265,7 +2265,7 @@ mer, or any furnace for making steel, shall be e-
 . , j j i ,, ,,  
 reeled or continued : and every such 1 ill, Lngine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1842031901:0450/pct:77.55244755244755,42.34875444839858,23.723776223776223,2.6142896249657817/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_larrybird_ver01:data:sn86058217:00271744742:1842031901:0450/pct:58.17450603252317,31.768409526416644,17.80031474033922,1.9572953736654803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2324,7 +2324,7 @@ for slitting or rolling iron, or any plating forge, to
 work with a tilt hammer, or any furnace for mak­  
 ing steel in the colonies under a penalty of $200
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846082701:0349/pct:253.42044581091469,112.40979199094383,55.8032282859339,30.281590491014576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1846082701:0349/pct:63.35511145272867,28.102447997735958,13.950807071483474,7.570397622753644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2451,7 +2451,7 @@ uch erection continue or cause to be con-
 thued in any of the said colonies any such  
 Mill, Engine, Forge or Furnace, every per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777614:1850070401:0111/pct:217.0083523158694,85.24878907970057,51.252847380410024,41.56759136944078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777614:1850070401:0111/pct:54.272692745917205,21.312197269925143,12.818078237751614,10.391897842360194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2534,7 +2534,7 @@ erect or cause to be erected, or after any such erection
 continue or cause to be continued, in any of the said co­  
 lonies, any guch mill, engine, forge, or furnace, every per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852103001:0391/pct:35.54872940519408,23.802892340653454,15.428651214744486,5.763256561328334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852103001:0391/pct:35.54872940519408,23.81003392251384,15.442613795029322,5.763256561328334/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2557,7 +2557,7 @@ or any furnace for maling steel, shanl an
 Erected, or after such erection continued,  
 in any of his Majesty&#x27;s colonies in America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1852111101:0064/pct:180.59040590405905,108.74743326488706,49.96309963099631,17.905544147843944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn88078726:00296028046:1852111101:0064/pct:45.15593282893523,27.186858316221766,12.493079904041336,4.476386036960986/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2614,7 +2614,7 @@ be erected, or after any such erectien continule
 or canse to bo continned, in any of the said  
 colonies, any such mill, engine, forge, or fur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1852113001:0259/pct:105.68381063705435,99.7005988023952,43.08883693746347,19.375534644995724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1852113001:0259/pct:35.24338546996053,33.23353293413174,14.369244262534718,6.4585115483319075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2664,7 +2664,7 @@ the manufacturers of iron with a supply of that
 useful and necessary commodity, and by means  
 whereof large sums of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1852120201:0402/pct:132.39644970414201,200.45197740112994,103.18047337278107,25.423728813559322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777626:1852120201:0402/pct:33.099112426035504,50.112994350282484,25.795118343195266,6.3559322033898304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2682,7 +2682,7 @@ caand to prevent the erectioni of any mill or
 any plating forge to work, with a tilt-hammer,  
 or any furnaces for makin steol in arty of sai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1852120701:0296/pct:76.14195361911455,108.34085342271497,16.321152494729446,2.3978342142580895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1852120701:0296/pct:57.14536825452628,81.25564006703623,12.251713833714184,1.8048214515921104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2724,7 +2724,7 @@ hammer, or any furnace for making steel in the Color­
 nies under the penalty of two hundred pounds. And  
 to secure the enforcement of the law they declared al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855071101:0486/pct:153.97461589846358,130.042194092827,48.27989311957248,14.321880650994576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855071101:0486/pct:51.32487196615453,43.34739803094234,16.093297706524158,4.773960216998192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2949,7 +2949,7 @@ gine for slitting or rolling iron, or any plating
 forge, or any furnace for making steel, under  
 the penalty of two hundred pounds. Nay
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070601:0626/pct:65.62259800153728,22.914001421464107,14.046887009992314,1.890547263681592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171530:1876070601:0626/pct:50.86621990568379,17.765863689776733,10.886075949367088,1.4578437132784958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3060,7 +3060,7 @@ plating forge to work with a tilt
 hammer, or any furnace for making  
 steel in the colonies under th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:0017503237A:1884100301:0157/pct:34.888002454740715,42.212534059945504,10.371279533599264,2.463215258855586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:0017503237A:1884100301:0157/pct:34.898230541065764,42.21616712079928,10.371279533599264,2.466848319709355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3080,7 +3080,7 @@ or roiling bar iron, or any plaiting forge to work
 ued after erection, in any of his Majesty’s colo  
 nies in America.” Another act declared colonia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210077:1884101301:0329/pct:4.96215306980656,96.98613622664256,18.881412952060554,3.315250150693189/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210077:1884101301:0329/pct:3.851167843563281,75.16739333540953,14.627919608908202,2.5731859233883525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3104,7 +3104,7 @@ engine for slitting or rolling iron, or am
 plating forge, to work with a tilt ham­  
 mer, or any furnace for making steel, un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348495:1884103001:0398/pct:86.76775738228253,28.757327080890974,11.428571428571429,3.974208675263775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lippizaner_ver01:data:sn84024707:00393348495:1884103001:0398/pct:86.75390999042452,28.75395615988747,11.430737312480051,3.976673309107959/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3306,7 +3306,7 @@ sba&#x27;l he erected , or after such erection,
 continued, In any of Ills Majesty&#x27;s col­  
 onies In America; ami It any person o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn2008058170:00211103565:1890082001:0302/pct:122.47738343771746,71.23595505617978,43.28462073764788,14.9438202247191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_harry_ver01:data:sn2008058170:00211103565:1890082001:0302/pct:30.619345859429366,17.808988764044944,10.82115518441197,3.735955056179775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3612,7 +3612,7 @@ ing steel in the colonies, under a pen­
 ally of ££iH) line.”  
 “Every such mill, engine, forge o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769234:1892101501:0631/pct:17.526652452025587,33.4467361258771,11.48542999289268,5.974909632149692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:00271769234:1892101501:0631/pct:17.526652452025587,33.45027996314409,11.48542999289268,5.978453469416684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

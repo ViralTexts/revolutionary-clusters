@@ -557,7 +557,7 @@ second part the estate in question, to have and to hold
 or parcel of ground, hereditaments  
 and premises, with the appurtenances unto the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854010601:0036/pct:201.21464226289518,98.61952046500363,48.88519134775375,9.990312424315816/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854010601:0036/pct:67.07154742096506,32.873173488334544,16.29506378258458,3.330104141438605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ teen ami nineteen, in Peter Bcatty, Threckill aitd
 Deakin&#x27;s add&#x27;tiou to said town. i?etng bound oil  
 the north by Prospect street, on the east by Fred
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654103:1857092801:0201/pct:1.0838380618425247,20.083333333333332,16.225693337583678,6.364583333333333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kuvasz_ver02:data:sn83045462:00280654103:1857092801:0201/pct:1.0878227605992987,20.091145833333332,16.229678036340452,6.359375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -717,7 +717,7 @@ simple, of and in all and singular the above granted
 and described premises, with the appurtenances,  
 dower and right of dower, and have good right,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869102101:0495/pct:121.60883280757098,251.076351246709,50.473186119873816,27.62892984358061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869102101:0495/pct:30.42020122312093,62.76908781167725,12.625764450581968,6.907232460895153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -744,7 +744,7 @@ part and parcel thereof, with the appurtenances, un
 to the sald party of the second part, his heirs and  
 assigns, against the said parties of the first part,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869102101:0495/pct:121.13564668769716,316.43177946414744,50.39432176656151,20.938516338857056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:0020653610A:1869102101:0495/pct:30.301834681396723,79.10794486603686,12.606036693627935,5.234629084714264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ Depot TH IRTE ENT H and CALLOWHILL Streets.
 Until farther notice trains will Leave aad Arrive  
 as follows: trains lbavb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776324:1871062901:0421/pct:44.86788617886179,8.226355776788054,18.953252032520325,10.623526329578203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn83025925:00280776324:1871062901:0421/pct:33.6608504150432,6.16976683259104,14.213111976960867,7.9774692166623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ by these presents defend. And the sald parties of the recond
 part, for themselves, their heirs, execntors, administrators, and assigns,  
 do covenant premise, and agree, to and with the said party of the irst
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871092501:0171/pct:100.76360682372055,101.90420560747664,47.01868399675061,16.401869158878505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871092501:0171/pct:33.58786894124018,33.968068535825545,15.672894665583536,5.4672897196261685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -940,7 +940,7 @@ heirs and assigns, or her or their cottn­
 j in witness whereof, the said Ida has  
 : hereunto set her hand and seal this
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1873010401:0416/pct:60.36477740733477,59.40849799819191,14.002745636399293,14.722975590856258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_alvarez_ver01:data:sn84026688:00415623458:1873010401:0416/pct:60.377851866379025,59.40849799819191,13.996208406877166,14.727280554479314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1202,7 +1202,7 @@ SMITH, Ju„ his heirs and assigns forever,
 against ttie lawful claims and demands  
 of all and every person or persons, freel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340767:1892092201:0279/pct:44.04898584003062,38.756933579860615,12.437810945273633,19.826482719385577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_horseradish_ver02:data:sn87068097:00383340767:1892092201:0279/pct:44.040558637841976,38.7514220705347,12.440214272048976,19.82721843003413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1252,7 +1252,7 @@ all right, beneft, privileges, advant
 ages and exemption under or by virtue  
 of any and all statutes of the State o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536366:1894112201:0756/pct:89.66666666666667,182.62842995667424,51.22222222222222,62.9667835774706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_india_ver02:data:sn86071158:00206536366:1894112201:0756/pct:22.416666666666668,45.65710748916856,12.805555555555555,15.74169589436765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1299,7 +1299,7 @@ and other grants, taxes and Incumbrances
 of any kind or nature soever, except as  
 herein stated, and the above bargaine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:0028076064A:1898100101:0654/pct:43.81053268765133,47.59710335747202,18.401937046004843,24.43493526442835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_kurtis_ver01:data:sn82014635:0028076064A:1898100101:0654/pct:29.220287660862983,31.73140223831468,12.278576835730508,16.2936142198815/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

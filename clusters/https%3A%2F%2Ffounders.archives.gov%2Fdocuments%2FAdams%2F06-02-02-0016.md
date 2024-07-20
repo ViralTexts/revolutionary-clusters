@@ -56,7 +56,7 @@ of a general, united, dutiful, loyal and humble
 representation of their condition to his Majesty  
 and the parliament, and to implore relief—An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1765083001:0457/pct:38.23966065747614,73.22741982936158,27.444326617179215,7.399235069137982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1765083001:0457/pct:38.23966065747614,73.22741982936158,27.458465889006717,7.413945278022948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -316,7 +316,7 @@ to enable them to dilchargc the important Trust to which
 countable tor the tame. And said Resolve was font up to  
 the honorable Board for their Concurrence, who accord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774062301:0602/pct:10.155535224153706,13.208600949455459,29.391582799634033,52.33175090756772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021194:00517172169:1774062301:0602/pct:7.870479792011345,10.240225075746645,22.778303001654454,40.556918193622856/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ to enable them to discharge the impertant Trust to whickhahey
 are appointed ; they upon their Return to be accountabls for  
 the fame.---.--- And said Resolve was sent up to the Honorabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774062401:0272/pct:37.27567567567568,40.93727469358328,27.135135135135137,39.985580389329485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774062401:0272/pct:37.28288288288288,40.94208123047344,27.142342342342342,39.99038692621966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ Britain and the colonies, most ardently
 desired by all good men. Therefore  
 resolved, That the Hon. James Bow
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774120901:0364/pct:39.26167209554832,29.108261258574412,27.18783930510315,27.602147330748583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774120901:0364/pct:39.26167209554832,29.118202604632668,27.18783930510315,27.592205984690327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -595,7 +595,7 @@ sent the people of this colony in a ge­
 neral Congress of representatives from  
 this and the other colonies,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774120901:0364/pct:39.08794788273616,5.308678795108857,55.157437567861024,90.09841932597674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774120901:0364/pct:39.08794788273616,5.308678795108857,55.16467607672819,90.10338999900587/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ Eodem die P. M.
 THE house resumed the consideration  
 of the resolve fromthe committee of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774121601:0368/pct:38.967032967032964,50.285542530808534,27.164835164835164,31.15419296663661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774121601:0368/pct:38.97435897435897,50.2905520488929,27.17216117216117,31.14918344855225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ was requested to forward the fame to
 the several members of Afleinbly,by the  
 committees of correspondence, for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774121601:0368/pct:38.83516483516483,3.5166816952209197,55.86813186813187,91.23835287045387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774121601:0368/pct:38.83516483516483,3.5267007313896404,55.89010989010989,91.23835287045387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1026,7 +1026,7 @@ ble address to his Majesty and the Parliament
 for relief.&quot; Three persons were appointed to at­  
 tend such Congress, on the part of Massachu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843050501:0232/pct:56.476683937823836,213.23742496377562,48.127313101406365,28.689712274891328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530182:1843050501:0232/pct:18.825561312607945,71.07914165459187,16.04243770046879,9.563237424963775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1062,7 @@ Great Iiritain ana the Colonies, most ardently desired by j
 ALL oood MES.&quot;  
 To this call, Vieinia responded thus
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850031901:0286/pct:53.13181223659352,55.78488922552547,15.695393111466357,4.686612384018178/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850031901:0286/pct:53.141500750859855,55.7912011613962,15.700237368599526,4.683456416082812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1088,7 +1088,7 @@ all the colonies, for the recovery and establishment
 of their just light* and liberties, civil aud religions,  
 oaf tht rralotalLo* of onion umi harmony btimnn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1850040901:0610/pct:74.14357032191427,44.427974666486996,12.842141504561887,5.390109149710281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342894:1850040901:0610/pct:74.13080895008606,44.421988682295876,12.844234079173837,5.392751279978443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

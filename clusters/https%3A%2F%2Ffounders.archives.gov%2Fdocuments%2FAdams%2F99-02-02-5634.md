@@ -49,7 +49,7 @@ thereof. And he saw him no more; and he
 took hold of his own clothes, and rent them  
 in two pieces.&quot; From this was delivere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858050801:0284/pct:5.242419050882303,50.274320888532046,12.249443207126948,3.064365047504349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340184:1858050801:0284/pct:5.241521068859198,50.26759432700027,12.25162726961288,3.0672999732405675/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -105,7 +105,7 @@ and he saw him no more; and he took
 hold of his own clothes and rent them in  
 two pieces.&quot; We are not here to embal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293034:1871040301:0365/pct:182.24679860302678,82.124943000456,37.951105937136205,9.575923392612859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200293034:1871040301:0365/pct:45.581598485951375,20.531235750114,9.49192022128403,2.3939808481532148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ him no more: and he took hold of his own
 clothes, and rent them in two pieces.  
 13 He took up also the mantle of Elijah tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1885090301:0077/pct:67.24955542382928,40.33926852743022,14.196799051570835,3.188161693936477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_konscak_ver01:data:sn85038180:00296029063:1885090301:0077/pct:50.45953157426623,30.257459095283927,10.643344203972724,2.394128970163619/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ up also the mantle of Elijah that fell fro
 clothes and rent them in two pieces. He took  
 up also the mantle of Elijah that fell fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_overton_ver02:data:2016270581:00340582160:1891021901:0013/pct:31.964285714285715,22.107081174438687,11.875,1.2197754749568221/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_overton_ver02:data:2016270581:00340582160:1891021901:0013/pct:31.959529831870256,22.104695089044792,11.876952834399644,1.2223421478683216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ own clothes and rent them in two pieces.”
 Not fora moment did he take his eyes oS  
 him, and he was rewarded by seeing hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685208:1898080601:0241/pct:23.94040585666581,61.887382690302395,16.33701515540714,3.0066041014946125/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:00513685208:1898080601:0241/pct:23.934257832562917,61.876629018245005,16.33923985618901,3.0104257167680277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

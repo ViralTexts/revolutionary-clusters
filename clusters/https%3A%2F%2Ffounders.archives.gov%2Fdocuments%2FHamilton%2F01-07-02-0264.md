@@ -41,7 +41,7 @@ citizen or citizens thereof, and of which the master is a citizen of
 the United States, and no other, may be registered in manner here*  
 inafter provided, and being so registered, lhallbe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0004/pct:18.91583452211127,7.345926349933219,25.335235378031385,9.61648540354894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789092601:0004/pct:18.937232524964337,7.345926349933219,25.342368045649074,9.626025567639763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -103,7 +103,7 @@ Mr. Gare moved for the order of
 the day on the report of the Secretary  
 of the Treasury for the support of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790050501:0585/pct:26.671565025716387,52.66962378840151,20.867009551800148,12.863479546574668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790050501:0585/pct:26.687892889215448,52.67509993976233,20.867009551800148,12.858003395213844/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ the State of Rhode-Island and Providence Plantations, as else­
 where within the United States, and as if the several clauses there­  
 of wcie repeated and re-enacted in this present act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790061901:0001/pct:36.0490045941807,79.90975083382382,26.493108728943337,4.453600156955072/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790061901:0001/pct:36.06431852986218,79.9195605257995,26.516079632465544,4.473219540906416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -154,7 +154,7 @@ the United States.&quot;
   
 13. An ast to prefcrihe the mode in which the public acts, re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0002/pct:40.34591194968554,38.27893175074184,27.452830188679247,7.774480712166172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790081401:0002/pct:40.369496855345915,38.29376854599406,27.44496855345912,7.784371909000989/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -174,7 +174,7 @@ venue Laws in certain cases therein
 mentioned.  
 E it enalted by the Senate and House o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790091601:0661/pct:50.74843070980203,60.75706756109248,20.352486721390633,5.142948410796997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790091601:0661/pct:50.75647835184291,60.76771548740883,20.34443907934975,5.1323004844806475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ and penalties accruing under the reve­
 nue laws in certain cases therein menti­  
 oned,&quot; shall be, and hereby is, conti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792061401:0001/pct:5.20573566084788,21.480321127863718,20.85411471321696,15.33189739573135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792061401:0001/pct:5.2291147132169575,21.48521636968866,20.83852867830424,15.336792637556295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

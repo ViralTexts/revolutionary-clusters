@@ -75,7 +75,7 @@ tween military oflicens ligh and low. Thay uarrel
 like cats and dog;. They worry one another like mas,  
 like cats and iof for sank and pay like apes far nut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864071901:0557/pct:54.25136998409051,54.240705734089474,47.42796535266042,6.5406427221172025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_cobol_ver01:data:sn83030213:00206530777:1864071901:0557/pct:18.083789994696836,18.080235244696492,15.80932178422014,2.180214240705734/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ and dogs. They worry one another like
 mastiffs, scrambling for rank and pay like  
 apes for nuts.&#x27; Washington, more guarde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668910:1864072301:0255/pct:16.504697116942015,66.84887825987929,14.431486880466473,2.9039972668261016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668910:1864072301:0255/pct:16.504697116942015,66.84887825987929,14.442284850448116,2.9039972668261016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ high and low. They quarrel like cats and dogs.
 They worry one another like mastiffs, scramb­  
 ling for rank and pay like apes for nuts.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_citation_ver01:data:sn89038091:00280762441:1864072701:0179/pct:10.056008146639511,8.886133498656747,52.54582484725051,79.1072535647861/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_citation_ver01:data:sn89038091:00280762441:1864072701:0179/pct:10.06449422946368,8.886133498656747,52.56279701289885,79.11414204036647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ They quarrel like cats and dogs. They worry
 one another like mastiffs, scrambling for rank  
 and pay like apes for nuts.&quot; Washington, mor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1864081901:0558/pct:20.30075187969925,282.8438100466648,45.037593984962406,8.015371946198188/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1864081901:0558/pct:5.075187969924812,70.7109525116662,11.259398496240602,2.003842986549547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ They quarrel, like eats and dogs. They
 worry, one another like mastiffs, scram­  
 bling for rank and pay like apes for nuts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1864082001:0342/pct:83.03471444568869,60.608868299139644,12.67263904441956,3.1634679020516216/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1864082001:0342/pct:83.01922000373204,60.60084700899947,12.674939354357155,3.1663578613022763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ They quarrel like cats and dogs. They worry
 like mastiffs, scrambling for rank and pay  
 likes apes after nuts.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1864091601:0363/pct:170.90806383279198,100.81441514812175,37.72066092359836,8.92802606128474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009571:00279523908:1864091601:0363/pct:56.96131036430387,33.601384364820845,12.571778217076156,2.9757057546145496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -298,7 +298,7 @@ e  o ooooe
 scrambling for rank and pay like ap  
 after nuts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776397:1864092001:0320/pct:10.466988727858293,227.01728024042075,51.44927536231884,14.906085649887302/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85038443:00280776397:1864092001:0320/pct:2.6167471819645733,56.75432006010519,12.86231884057971,3.7265214124718256/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -317,7 +317,7 @@ quarrel like cats and dogs. They worry one
 another like mastiffs scrambling for rauk and  
 pay, like apes after nuts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952519A:1864092601:0015/pct:3.1219191587249426,38.846202292480164,10.762405520867565,2.040559264390981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952519A:1864092601:0015/pct:3.1214062756694596,38.841309823677584,10.764744537539018,2.043450881612091/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ They worry oue another like mastiffs,
 scrambling for rank and pay like apes  
 after nuts.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1864092801:0605/pct:76.66412795125666,35.7820427972645,14.211728865194212,3.6620339730862566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_jeffrey_ver01:data:sn86081096:00296028678:1864092801:0605/pct:76.66412795125666,35.7820427972645,14.226961157654227,3.66571071402309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -370,7 +370,7 @@ and il&#x27;»j». They worry one another
 like latirtV acramblintf for rank and  
 pay like apes af er nu&#x27;s,&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058318:0027952892A:1864102701:0988/pct:44.74985456660849,39.52600247107716,12.390924956369982,3.9200269572054363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_electabuzz_ver01:data:sn87058318:0027952892A:1864102701:0988/pct:44.75470234632538,39.53349058369838,12.390924956369982,3.9200269572054363/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -389,7 +389,7 @@ They quarrel like cats and dogs. They
 worry one another like mastiffs, scrambling  
 for rank and pay like apes after nuts
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1864111201:0360/pct:175.91836734693877,254.69387755102042,49.45578231292517,10.849242922975641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_guildenstern_ver01:data:sn83035216:00280775162:1864111201:0360/pct:43.9870726313999,63.673469387755105,12.366048647729206,2.7123107307439103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -409,7 +409,7 @@ cats and dogs. 1&#x27;iiey worry one another
 like ina-iill-, scrambling for rank and pay  
 like apes for nut- *&#x27; The history of the pe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895382:1875052001:0080/pct:74.40911409624213,39.56386292834891,10.780479510287366,2.544132917964694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895382:1875052001:0080/pct:74.39646378782727,39.558728098637246,10.78289697381843,2.5470473718364697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ like cats and dogs. They worry one
 another like mastiffs, scrambling  
 for rank ami pay like apes lor nuts.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513687990:1899031001:0709/pct:7.479813004674883,82.63661007276359,12.74968125796855,3.723783706662862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513687990:1899031001:0709/pct:7.493979317183737,82.63661007276359,12.74968125796855,3.733295287011937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

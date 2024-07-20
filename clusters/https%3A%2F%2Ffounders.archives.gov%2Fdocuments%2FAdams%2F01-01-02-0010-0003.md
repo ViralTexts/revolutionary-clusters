@@ -138,7 +138,7 @@ h^ve full power ai.d authority to make laws
 a.d statutes of sufficient validity to bind the  
 colonies and people of America, subjects o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811100501:0274/pct:31.056616194865043,68.51530906990179,21.165240289664254,7.461968033891777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024013:00414216146:1811100501:0274/pct:31.05150567714333,68.50871281409454,21.16724260874335,7.464458778601457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

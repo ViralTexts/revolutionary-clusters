@@ -127,7 +127,7 @@ tive complaints and pretensions, may be the best
 calculated to produce mutual fatisfattion and.  
 good underflanding : And also to regulate th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:7.704701918851619,57.837241932250954,19.422879742200088,3.3774303467628783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:7.704701918851619,57.843923297922096,19.442410038572337,3.3774303467628783/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -143,7 +143,7 @@ good underflanding : And also to regulate th
 &quot; the party to whom a promise is made, cannot be  
 required to accept in lieu of it an equivalent ? Di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081201:0002/pct:72.98013245033113,45.03234367225079,21.32450331125828,1.3600928843921047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081201:0002/pct:72.99337748344371,45.03649029689832,21.337748344370862,1.3725327583347156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -171,7 +171,7 @@ their true import&quot;, and not be induced to believe,
 that the two nations met together, with the design  
 of. terminating tJieir differences, and at the fam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081501:0002/pct:29.3804839138527,19.638330234916342,21.13799521403882,9.852966030082813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795081501:0002/pct:29.393778250465303,19.642555348994424,21.164583887264026,9.861416258238972/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -865,7 +865,7 @@ j deliberation and reflection. ard &lt;1 snp
 jlating upon their cretiulity. who Heat  
 j them as children incompetent to thin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806021401:0058/pct:58.216413607534115,14.420711974110032,18.066500096098405,6.576051779935275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806021401:0058/pct:58.20522674865488,14.418845456898783,18.06943376889572,6.579515057382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1001,7 +1001,7 @@ What is to he done, when the pride of neither will
 yield to the arguments of the other f War, or a waaer  
 of the point, is the alternative. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842091201:0250/pct:67.95803066989508,82.91709430949938,17.788539144471347,11.88276884479416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842091201:0250/pct:67.95803066989508,82.92469684874749,17.79930051116492,11.88276884479416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1052,7 +1052,7 @@ Thus it is soon that Hamilton, full in
 the faith of the freedom for which he had  
 fought and conryicrcd, urged tho employ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1863031301:0668/pct:83.56384044898778,55.94803678295139,13.389456804970935,14.21690264195008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895035:1863031301:0668/pct:83.54709418837675,55.93987157034442,13.391783567134269,14.218476357267951/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

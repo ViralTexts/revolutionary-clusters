@@ -399,7 +399,7 @@ the States, specially authorized to revise and amend the con­
 federation, reserving a right to the respective legislatures  
 to ratify their determinations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855092301:1017/pct:19.910846953937593,18.920301906102086,15.766881294370151,5.743891518485352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855092301:1017/pct:19.910846953937593,18.920301906102086,15.772384568818447,5.752419939448211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -469,7 +469,7 @@ The danger is great and immediate, but it is
 in the power of the conservative masses at the  
 North to avert it, and to restore peace and hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1860021801:0388/pct:63.71118593340815,71.72268907563026,12.551440329218106,10.980392156862745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1860021801:0388/pct:63.715862326973436,71.72619047619048,12.570145903479236,10.983893557422968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -491,7 +491,7 @@ perfect co-operation of the States, on which
  their immediate safety and future happi­  
 ness depend.&quot; Does Fernando repudiat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775617:1863060901:0345/pct:23.04316020482809,130.94997837681996,44.98902706656913,17.817500360386333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn83035143:00280775617:1863060901:0345/pct:5.761843790012804,32.73749459420499,11.249314066215474,4.454375090096583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ specialty authorized to renins and amend the Confedera­
 tion reserving a right to the respective legislatures to  
 ratify their .determinations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863062301:0160/pct:7.205240174672489,97.43244758380985,18.777292576419214,6.491759165825766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863062301:0160/pct:5.413416536661466,73.07994169749972,14.087363494539781,4.866016369548156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -543,7 +543,7 @@ pecially authorised to revite and amend the Confeder­
 ttoft reserving a right to the respective Legislatures to  
 .ratify their determinations.&quot; : - . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:4.103915662650603,97.93592503482336,21.009036144578314,6.736735469165506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863062401:0316/pct:3.089093991335468,73.4582752944156,15.765680919193821,5.052551601874129/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ that ready and perfect co-operation of the
 different States on which their immediate  
 safety and future happiness depend. Finally
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863092901:0002/pct:12.394797245600612,72.72727272727273,10.042081101759756,4.276408949306146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863092901:0002/pct:12.404361132364192,72.7343528745398,10.051644988523336,4.283489096573208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -628,7 +628,7 @@ adopted by the Biatc of N- w -Yot-k. de
 claitrig &quot;that the situation of these States  
 is in a peculiar manner critical ; ” an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664198:1865072801:0295/pct:8.082381446867428,3.6205568394409595,28.262374524056767,90.77803455485859/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664198:1865072801:0295/pct:8.093919464635976,3.6205568394409595,28.262374524056767,90.77803455485859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ and perfect co-operation the different
 Stat s on which their immediate safety and  
 future happiness depend?’ Finally, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664198:1865072801:0295/pct:18.22429906542056,6.888962253769121,18.068535825545172,3.9506988004842083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_debaptiste_ver01:data:sn83016710:00211664198:1865072801:0295/pct:18.235837083189107,6.896298741792304,18.068535825545172,3.9506988004842083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ respective Legislatures to ratify their
   
 delerminatiolis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022801:0191/pct:65.26645768025078,314.14852037967614,38.244514106583075,9.782244556113902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867022801:0191/pct:16.316614420062695,78.53713009491904,9.561128526645769,2.4455611390284755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -705,7 +705,7 @@ authorized to revise and amend the Confede­
 ration,&quot; the States, of course, reserving  
 their right of ratification. The experienc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044899:1886070401:0191/pct:71.90082644628099,116.65410700828937,51.31480090157776,38.28183873398643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_dante_ver01:data:sn83030272:00175044899:1886070401:0191/pct:17.985341101296747,29.163526752072343,12.835933095282842,9.570459683496608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

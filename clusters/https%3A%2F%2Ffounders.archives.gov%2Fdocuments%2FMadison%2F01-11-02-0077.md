@@ -74,7 +74,7 @@ considered all wisdom centred in themselves, th
 the v -.lone had the right to dictate to the rest of inn  
 kitio nul thnt all opposition to their tenets wasprot&#x27;a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855031601:0568/pct:29.65990366369873,68.29666634643097,13.384907312801051,6.503986934383707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1855031601:0568/pct:29.65990366369873,68.29666634643097,13.394638252323261,6.510391648253115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -220,7 +220,7 @@ of any one sect to oppress and persecute
 the rest.&quot; Mr. Iredell, of North Carolina,  
 said: &quot;America has set an example t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219929A:1894040401:0305/pct:55.05388872706088,145.62773266708308,37.56189921351587,12.38809077659796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_forks_ver01:data:sn83045604:0020219929A:1894040401:0305/pct:18.351296242353627,48.54257755569436,12.52063307117196,4.1293635921993195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ Government can lay taxes as conveniently to
 the people as the State Governments, by imitat  
 ing the State sistems of taration.&quot; (id 32
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:0017504517A:1894120101:0407/pct:71.51515151515152,125.81674517550525,52.04545454545455,30.694423339917947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_fernandez_ver01:data:sn83030272:0017504517A:1894120101:0407/pct:17.882174654290587,31.45418629387631,13.013828376586474,7.673605834979487/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ J CAMPBELL WII ACT
 aEOHOE  
 as Manager of tho Metropolitan Moa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_angel_ver01:data:sn85047097:00211100357:1896101501:0390/pct:59.85436893203884,47.258091564648666,20.97087378640777,11.017943987925541/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_angel_ver01:data:sn85047097:00211100357:1896101501:0390/pct:44.913814032532166,35.4519537145732,15.7319737800437,8.263457990944156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ ment to intermeddle with religion. Its
 least interference with it would be a  
 most flagrant usurpation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn86072192:00340583267:1897112301:0434/pct:35.05001064056182,74.79820627802691,14.08810385188338,3.9461883408071747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn86072192:00340583267:1897112301:0434/pct:35.04255319148936,74.78702735017187,14.090425531914894,3.9493349275145717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

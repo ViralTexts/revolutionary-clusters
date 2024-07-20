@@ -87,7 +87,7 @@ with the Psalmist, Lord what have 1 done,
 that the wicked shonld praise me 7  
 That Mr, G. is the political fiiend of Mr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831040501:0473/pct:45.34777303233679,50.887154009936125,16.30567419158023,5.444590895265132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1831040501:0473/pct:45.35285743339435,50.887154009936125,16.30567419158023,5.444590895265132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -155,7 +155,7 @@ ly to apprehend I had done wrong, and to ex­
 claim with the Psalinist,”—‘Lord what have  
 1 done, that the wicked shouid praise me !”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832122501:0151/pct:5.335477269405057,19.644779332615716,14.354626516591141,8.557588805166846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1832122501:0151/pct:5.340349851386249,19.64836742016505,14.364371680553525,8.561176892716182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ strongly to ay prehend 1 had done wrong, and
 to excliim with the Psalmist, ‘Lord, what  
 have I done that the wicked should praise me?&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836120601:0396/pct:82.11197086936733,29.034907597535934,13.928083750568957,4.496919917864476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836120601:0396/pct:82.12208567238153,29.03832991101985,13.928083750568957,4.493497604380561/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -228,7 +228,7 @@ the Psalmist ¢ Lord, what have I done, that
 the wicked should praise me !’ ?  
 In a postscript written two days after, he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838071701:0115/pct:4.104363747329875,3.8461538461538463,14.78486420506561,3.5135135135135136/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838071701:0115/pct:4.109449699928796,3.8461538461538463,14.800122062862375,3.5204435204435205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ stamp of double proof. It is a notification to
 the factionaries that their nay is the yeu of  
 truth, and its best test.” Mr. Van Buren ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838071701:0115/pct:3.9060115959719255,7.390852390852391,14.983216356423558,4.8232848232848236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1838071701:0115/pct:3.916183501169769,7.3977823977823975,14.993388261621401,4.83021483021483/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ the attach of the Chesapeake &#x27; Anil when,&quot; he remarks,
 &quot; I found they approved of it, I confess 1 began  
 strongly to apprehend I had done wrong,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845012501:0090/pct:52.55281690140845,80.71491063617047,16.690140845070424,2.974628171478565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845012501:0090/pct:52.55281690140845,80.72324292796733,16.690140845070424,2.9704620255801357/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

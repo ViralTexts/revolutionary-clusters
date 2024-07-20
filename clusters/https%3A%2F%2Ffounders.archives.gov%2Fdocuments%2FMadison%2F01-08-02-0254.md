@@ -34,7 +34,7 @@ thing external we should be one nation, firmly
 hooped together; each state to keep interior  
 government to itself.” Remark his doctrine a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830051001:0748/pct:8.163617535381428,62.582345191040844,17.89782533655506,5.282069708947179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216420:1830051001:0748/pct:8.16220880069025,62.5748502994012,17.900488927236122,5.285429141716567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -59,7 +59,7 @@ in anticipation of the constitution. The commerce
 of the State, without reserve or condition to be given, &#x27;&lt;  
 j that is a cession of it, to the federal heed, of course 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830052101:0172/pct:41.37438501825107,10.317365981219542,18.25107125853039,6.02638773326994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184327:1830052101:0172/pct:41.36781973976515,10.316139767054908,18.2534645086216,6.029633151097378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ mao able to read, all is safe.
 No government can continue good  
 but under the control of the people
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aerosmith_ver01:data:sn89051163:00393342626:1898033001:0168/pct:81.87628865979381,38.9987888574889,17.649484536082475,24.64002153142242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aerosmith_ver01:data:sn89051163:00393342626:1898033001:0168/pct:81.859410430839,38.99354144241119,17.650999793856936,24.640069967707213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ consists in the art of being honest.
 Free government is founded in  
 jealousy and not in confidence.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn89051294:0039334281A:1898042801:0117/pct:25.586178527355,8.636726016476215,33.381324557795146,85.19798033483923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn89051294:0039334281A:1898042801:0117/pct:25.580917129344027,8.635578583765112,33.379601069298786,85.18998272884284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ man is able to read, all is safe.
 No government can continue  
 good but under the of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513687989:1898051901:0386/pct:2.0012507817385865,5.475625087302696,38.83677298311444,91.1440145271686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513687989:1898051901:0386/pct:2.0012507817385865,5.475625087302696,38.84372177055104,91.15798295851376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

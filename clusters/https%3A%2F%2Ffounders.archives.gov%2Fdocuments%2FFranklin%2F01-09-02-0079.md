@@ -1586,7 +1586,7 @@ mate aa white ones ?&quot; 1
 &quot; What signifies philosophy thatdoan ~f|J  
 not apply to some use?&quot; That is a aan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291086:1880081301:0552/pct:65.49968173138129,5.922092856116142,31.16910672607681,87.46586172200661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291086:1880081301:0552/pct:65.51029068533843,5.925686359062815,31.174411203055378,87.46586172200661/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

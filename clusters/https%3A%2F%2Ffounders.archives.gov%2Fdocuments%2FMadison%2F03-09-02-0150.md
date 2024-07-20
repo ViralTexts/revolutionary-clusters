@@ -514,7 +514,7 @@ of the unanimous will of a great nation, whieh
 knows its duties and its rights.” He further  
 •ays, “ 1 am cooie, and from&#x27; the jkpnt where 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815060501:0380/pct:4.748387096774193,14.491331370624795,21.93548387096774,6.1661759895322215/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815060501:0380/pct:4.747162022703819,14.488961569910057,21.936274509803923,6.169255928045789/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -555,7 +555,7 @@ the coniines of the several States, will singly be
 sutSeient to guard their frontiers.  
 “ I seize with haste, fee. &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815060501:0380/pct:27.303225806451614,64.54039908406935,21.883870967741935,18.269545305855413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866627:1815060501:0380/pct:27.296181630546954,64.52984464431725,21.88467492260062,18.270645952575634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ the uranimous will of @ great nation, that
 “knows its duties and its rights. The dynasty  
 ‘which pewer gave&#x27;to the French people was no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815060601:0302/pct:61.268320998403716,83.83658969804618,16.398200551443914,4.302348529701994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1815060601:0302/pct:61.268320998403716,83.83658969804618,16.412712233347847,4.302348529701994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -641,7 +641,7 @@ tice, seated- at the confines 8f the several
 states, will singly be sufficient to guard their  
 frontiers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815060701:0040/pct:44.114411441144114,5.7299642674834095,17.565089842317565,28.34354262378765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:0041418389A:1815060701:0040/pct:44.10632447296059,5.72923312492025,17.56798044607394,28.344179320318148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ tuus ot the several states, will singly be
 sufficient to guard their frontiers. ‘  
 “ I seize with haste j\‘c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815060701:0164/pct:40.80991124260355,3.615520282186949,35.57692307692308,92.83194759385236/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815060701:0164/pct:40.80236642632649,3.615064869630936,35.576508288654715,92.82445312171978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ ties an its rights ihe dynafty, which
 force had impofed on the French peopx,  
 was no longer made for then?, ih
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815061201:0083/pct:55.900621118012424,82.45318537600318,17.763975155279503,9.263846230060437/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn83016082:00332895096:1815061201:0083/pct:55.89194224499301,82.44501684168813,17.765098587175903,9.265405191202694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

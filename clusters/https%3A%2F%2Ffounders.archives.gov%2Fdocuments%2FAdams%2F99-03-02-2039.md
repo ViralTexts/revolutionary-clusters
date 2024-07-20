@@ -177,7 +177,7 @@ ANCIENT HISTORY.
 1. AMD Joseph died, and all his bre­  
 thren, and all that generation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814041401:0487/pct:3.9884670831331093,7.208791208791209,20.807304180682365,2.139194139194139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814041401:0487/pct:3.9875090079269757,7.207735130383827,20.80831131395628,2.142543217111046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -198,7 +198,7 @@ the land was filled with them.
 3 Now there arose up a new President  
 which knew not Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814041401:0487/pct:26.141278231619413,9.47985347985348,21.359923113887554,4.893772893772894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038455:00393348902:1814041401:0487/pct:26.13499879894307,9.478464693817756,21.360797501801585,4.896718429534134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -679,7 +679,7 @@ mean time,
 I remain your affectionate Father.  
 JOHN QuINcY ADAMs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848032501:0095/pct:6.209948123283491,26.424574626013474,84.11657003356729,267.9799017928514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_buttery_ver01:data:sn83030213:00206530273:1848032501:0095/pct:2.069982707761164,8.808191542004492,28.03885667785576,89.32663393095048/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,7 +929,7 @@ Morals. . In the meantime,
 I remain your affectionate Father,  
 JOHN QUINCY ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848040601:0623/pct:91.37630662020906,10.093369578064058,34.088269454123115,116.86561872119135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82016320:00296029816:1848040601:0623/pct:68.56935366739289,7.575936650514124,25.577342047930284,87.64921404089351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1185,7 +1185,7 @@ System of Morals. In the mean time,
 f remain your affectionate Father.  
 JOHN QUINCY ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848040601:0320/pct:31.757016532103037,4.154073241020595,38.86966551326413,92.54234905461446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848040601:0320/pct:31.753964440172993,4.15378127635648,38.86913342944097,92.53818761128292/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2386,7 +2386,7 @@ intermediate occasions.
   
 15th and 18th chapters of Genesis,on wih oe on thei tan e ion e a oe a  a a an e o e o e oe e e e o o ee ae e o e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848051701:1049/pct:8.449612403100776,135.03523467623987,295.0387596899225,126.20662145991224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848051701:1049/pct:2.1136319565638937,33.75880866905997,73.80259840992825,31.55165536497806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2405,7 +2405,7 @@ in a strange land, should become the posis every reson to be convined that the
 sessors of the land of Canaan, from that were less so than their cotemporaries;  
 of Egypt to the river Euphrates. On their vices appeat to us at this day, gross
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848051701:1049/pct:8.449612403100776,270.7618667730355,117.67441860465117,10.370961308336657/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848051701:1049/pct:2.1136319565638937,67.69046669325887,29.435718440954044,2.5927403270841642/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2430,7 +2430,7 @@ Abraham that which He hath spoken to ter ages, because they were in great mea- s
 him,&quot; from all which it is obvious that sure sins of ignorance.a in my name not toadmit the pis.  
 the first of the promises was made as From the time when the sons of Jacob! Conrade paused and shook his head, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848051701:1049/pct:8.294573643410853,269.8577316846164,177.36434108527132,42.813455657492355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848051701:1049/pct:2.0748497188287764,67.4644329211541,44.36687996897421,10.703363914373089/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2465,7 +2465,7 @@ ask your particular attention to the reason assigned to them, and secondarily, h
 assigned by God for bestowing such ev- the means provided by God for keeping  
 traordinary blessings upon Abraham. It separate two nations thus residing toget
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848051701:1049/pct:8.372093023255815,327.19053317378007,177.51937984496124,44.03669724770642/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848051701:1049/pct:2.094240837696335,81.79763329344502,44.40566220670933,11.009174311926605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2537,7 +2537,7 @@ were all the parents o
 lies, which afterward  
 parents of considerable fam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848051701:1049/pct:8.75968992248062,63.39582502326818,178.06201550387595,315.1176705225369/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848051701:1049/pct:2.191196432034128,15.848956255817045,44.541400038782236,78.77941763063423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2593,7 +2593,7 @@ remark that their actions are never spoken
 strong marks of censure, and generally  
 with a minute account of the punishmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848051701:1049/pct:67.05426356589147,168.32867969684884,118.83720930232558,90.25395559101183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848051701:1049/pct:16.77331782043824,42.08216992421221,29.726585223967422,22.563488897752958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2673,7 +2673,7 @@ mean time.
 I remain your affectionate father,  
 JoHN QUINCY ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848051701:1049/pct:68.44961240310077,63.449009440234015,175.42635658914728,270.2300226033772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848051701:1049/pct:17.122357960054295,15.862252360058504,43.88210199728525,67.5575056508443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2976,7 +2976,7 @@ This closes the account of the deaths of the
 patriarchs. As yet, we have not a word  
 about, or intimation of, any intermediat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294555870:1867101201:0164/pct:243.53577871316898,131.76526490852933,43.656043295249546,7.365169874079354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dagwood_ver01:data:sn85033995:00294555870:1867101201:0164/pct:60.9114152504136,32.94131622713233,10.91893517822229,1.8412924685198384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3112,7 +3112,7 @@ Joseph died, and all his brethren, and all that
 generation&quot;-Exodus, 126. He said spiritually, by  
 a generation, is meant a generation of the Church
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876022101:0183/pct:206.53819683413627,78.55095126400833,42.87680660701996,28.928850664581706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eastern_ver01:data:sn86053573:00294558354:1876022101:0183/pct:51.65232358003443,19.637737816002083,10.72289156626506,7.2322126661454265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3376,7 +3376,7 @@ ful, and increased abundantly, and multi­
 plied, anil waxed exceeding mighty ; and  
 the laud was tilled with them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1881062301:0099/pct:3.998462129950019,68.53696170570907,12.283737024221454,5.344368074063683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016184:1881062301:0099/pct:3.9976936382856043,68.5273492286115,12.28618104939458,5.347124824684432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3449,7 +3449,7 @@ filled with them.
 8. Now there arose anew king over Egypt,  
 which knew not Joseph
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210107:1885051701:0016/pct:26.434480918067788,27.494456762749447,18.841740058713636,4.608117227417334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_asimov_ver02:data:sn82015679:00414210107:1885051701:0016/pct:20.486745492778102,21.30796433730139,14.60925919542211,3.5762315086915377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3627,7 +3627,7 @@ multiplied, and waxed exceeding
 mighty; and the land was filled with  
 them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:00383346848:1890010301:0101/pct:64.58888296927722,34.27825438269303,14.49120937666489,2.2131045629740145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:00383346848:1890010301:0101/pct:64.60072219262416,34.28239877326039,14.49120937666489,2.217248953541382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3757,7 +3757,7 @@ abundantly, and multiplied, and waxed
 exceedingly mighty; and the land was  
 filled with them.&quot; At the olose Mr. Sage
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:0027176408A:1892091901:0273/pct:59.71641791044776,14.921941183589496,12.82089552238806,2.444632699987898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_forest_ver01:data:sn82015483:0027176408A:1892091901:0273/pct:44.79773100462756,11.194481423211908,9.628302731751008,1.8395255960304975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3860,7 +3860,7 @@ there make of thee a great nation&quot; (Gen.
 xlvl. 3. And He had done it according  
 to HU word, for &quot;Hath He said, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191514:1894050901:0253/pct:57.56741882223445,41.63188647746244,16.373142542652726,13.073873121869783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_gary_ver01:data:sn87056600:00202191514:1894050901:0253/pct:43.18150543553048,31.22913188647746,12.288427136369892,9.808013355592655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3877,7 +3877,7 @@ to HU word, for &quot;Hath He said, an
 and all that generation.&quot; We are reminded  
 of the e&#x27;?ght times repeated &#x27;&#x27;And he died&quot; o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:0023728737A:1894050901:0115/pct:57.1207669707747,27.338744126441693,13.251894232256069,1.4737291755659974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:0023728737A:1894050901:0115/pct:57.1207669707747,27.345863591057952,13.27251172619968,1.470169443257867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3895,7 +3895,7 @@ and increased abundantly and multiplied
 and waxed exceeding mighty, and the land  
 was filled with them.&quot; God had said t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:0023728737A:1894050901:0115/pct:57.02798824802845,31.845365228534813,14.226070821091696,1.943613840239214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:0023728737A:1894050901:0115/pct:57.03314262151436,31.852484693151077,14.231225194577599,1.9400541079310836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3913,7 +3913,7 @@ ful and increased abundantly and multiplied
 and waxed exceeding mighty, and the land  
 was filled with them.&quot; God had said t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1894051001:0161/pct:255.20477815699658,148.02176790704516,57.25255972696246,7.001029563171055/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn86081895:00280776609:1894051001:0161/pct:63.81480691273736,37.00544197676129,14.316193727330916,1.7502573907927637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3929,7 +3929,7 @@ was filled with them.&quot; God had said t
 6. &quot;And Joseph died, and all his breth­  
 ren, and all that generation.&quot; We are re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1894051001:0851/pct:232.50581846392552,132.4969400244798,49.1078355314197,3.8555691554467564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1894051001:0851/pct:58.137730358874876,33.12423500611995,12.279340446168769,0.9638922888616891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3947,7 +3947,7 @@ fruitful and increased abundantly and
 multiplied and waxed exceeding mighty,  
 and the land was filled with them.&quot; Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1894051001:0851/pct:232.73855702094647,156.609547123623,49.961210240496506,7.527539779681763/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777110:1894051001:0851/pct:58.19592628516004,39.15238678090575,12.492725509214354,1.8818849449204407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3965,7 +3965,7 @@ fruitful and increased abundantly and
 multiplied and waxed exceeding mighty,  
 and the land was filled with them.&quot; Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1894051101:0567/pct:68.30985915492958,153.98442180946674,57.13028169014085,7.369682444577592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1894051101:0567/pct:17.08122386088488,38.496105452366685,14.285714285714286,1.842420611144398/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3982,7 +3982,7 @@ and the land was filled with them.&quot; Go
 and all that generation.” We are reminded  
 of the eight times repeated “And he died&quot; o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894051201:0110/pct:35.803826698922364,31.419753086419753,14.185177039806465,1.3425925925925926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894051201:0110/pct:35.79595426561126,31.41490510723654,14.187554969217238,1.3462428637555932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4001,7 +4001,7 @@ and waxed exceeding mighty, and the land
 was filled with them.&quot; God had said to  
 Jacob, “Pear not to go down Into Egypt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894051201:0110/pct:35.73784913129536,36.358024691358025,14.2071695623488,2.253086419753086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_deal_ver01:data:sn85035722:0051368518A:1894051201:0110/pct:35.72999120492524,36.35241475081006,14.209542656112577,2.2565962042894614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4018,7 +4018,7 @@ fruitful tti.d increased abundantly and
 multiplied and waxed exceeding mighty,  
 and the land was filled with them.” Go
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1894051201:0286/pct:76.9933703637341,29.544831368247873,9.801110912022935,1.0693720866465588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059533:00393349116:1894051201:0286/pct:76.97957721246866,29.5407813570939,9.803833751343605,1.0726525017135025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4108,7 +4108,7 @@ at once commenced and vigorously prose­
 cuted systematic efforts to oppress and de­  
 crease tho numbers and powers of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109105:1897021401:0010/pct:5.966767371601208,55.044858523119395,16.729607250755286,10.420979986197377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063615:00211109105:1897021401:0010/pct:4.477611940298507,41.28364389233955,12.563763461175137,7.826086956521739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

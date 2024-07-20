@@ -103,7 +103,7 @@ will ftom the rest, they have an equal right
 to secede from it ; or in oilier words, to turn  
 it, against its will, out of the Cniou.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1860112401:0082/pct:41.231236937108115,86.13791146424518,15.92247767433023,2.993757094211124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624505:1860112401:0082/pct:31.95405683993521,66.75585529450574,12.339861581504932,2.334787230143313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -256,7 +256,7 @@ Wishing to be assured that the letter has
 not miscarried, a single line acknowledging  
 its receipt will be acceptable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860112601:0093/pct:28.809346259010688,12.890762205830699,14.218245090728312,69.96838777660696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dior_ver01:data:sn85025007:00415663511:1860112601:0093/pct:28.817631949623,12.890762205830699,14.218245090728312,69.9771689497717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ Nerhitter ot. the Government and those for whom it acts but
 resting the Government. Each o  
 wernment. Each of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860112701:0621/pct:52.52790544977019,180.79261164367549,48.850952068286276,71.53378536357259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860112701:0621/pct:17.509301816590064,60.26420388122516,16.283650689428757,23.844595121190867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ what in said  With respect, JAMEs MAdiSoN
 2g to be assured that the letter has not miscarried, a  
 acknowledging its receipt will be soceptable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860112701:0621/pct:53.282994090610636,267.032967032967,48.06303348653972,18.435819499649288/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860112701:0621/pct:17.760998030203545,89.01098901098901,16.021011162179907,6.145273166549762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ State, separately, to decih on and resist by force, en­
 croachments within its linits. A foresight or apprehen­  
 sion of the misconstructhn might easily have guarde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860112701:0512/pct:133.74960974086792,29.313858695652176,37.2463315641586,57.3143115942029/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860112701:0512/pct:44.57624473232402,9.770180006792708,12.413506061079028,19.10260764557153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ Wishing to be assured that the letter has not miscar­
 ried, a single line acknowledging its receipt will be ac­  
 ceptable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860112701:0512/pct:133.3749609740868,86.54891304347827,37.66781142678739,71.34284420289855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hanoverian_ver01:data:sn84024656:00414184704:1860112701:0512/pct:44.45138130170126,28.84637156119099,12.553977420529629,23.778255783237103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ to turn it against its will out
 not till of late have been palatable anywhen  
 nowhere less so th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860112801:0627/pct:2.4346109557493008,135.11709601873537,48.51126830070735,9.976580796252927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alice_ver01:data:sn83030213:00206530662:1860112801:0627/pct:0.8115369852497669,45.03903200624512,16.17042276690245,3.3255269320843093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -558,7 +558,7 @@ would not till of late have been palatable any where,
 and nowhere less so than where it is now most contended  
 for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860112801:0907/pct:41.83915846623685,199.17907822211797,52.23956565999321,23.478362847425824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743361:1860112801:0907/pct:13.946386155412284,66.39302607403933,17.41318855333107,7.8261209491419415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -807,7 +807,7 @@ late have been palatable anywhere, and no­
 where less so than where it is now most con­  
 tended for.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860120701:0580/pct:9.163036714374611,68.83189606898868,12.678904791537025,7.951618322320528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860120701:0580/pct:9.163036714374611,68.83562922313062,12.689276083800042,7.9553514764624635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -979,7 +979,7 @@ It surely does not follow from the fact of
 ! the States, or rather the people embodied in  
 &#x27;them, having, as parties to the constitution- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860122001:0169/pct:5.70944036178632,6.6603535353535355,71.368004522329,88.31018518518519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860122001:0169/pct:5.718861880535142,6.6603535353535355,71.3727152817034,88.31719977553311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1050,7 +1050,7 @@ Wishing to be assured that the letter has
 not miscarried, a single line acknowledging  
 j its receipt will be acceptable
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860122001:0169/pct:19.997173544375354,31.839225589225588,14.202939513849632,32.54419191919192/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:0041562430A:1860122001:0169/pct:20.006595063124177,31.846240179573513,14.202939513849632,32.54419191919192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1156,7 +1156,7 @@ Wishing to he assured that the tetter h
 not miscarried, a single line alknuwledg­  
 ing its receigt will be aceeptab
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045628:00200293587:1861062201:0283/pct:143.1282722513089,152.42648816638777,46.531413612565444,144.20272531675832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045628:00200293587:1861062201:0283/pct:35.79378068739771,38.10662204159694,11.636661211129296,36.05068132918958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

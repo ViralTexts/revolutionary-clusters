@@ -149,7 +149,7 @@ merce may be, and frecpjcntly is opened
 • in time of war, between a colony and  
 : other countries, from consideruUSi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012201:0002/pct:78.5589519650655,33.27780091628488,19.323144104803493,63.987227544078856/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012201:0002/pct:78.56622998544395,33.27780091628488,19.33042212518195,63.99185524549956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ cf peace ; j
 i open her colonial  
 trade both to m-m ra) 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012201:0003/pct:3.558951965065502,8.940719144800777,18.427947598253276,3.720671942246286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012201:0003/pct:3.5735080058224162,8.940719144800777,18.435225618631733,3.7391827479291035/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -365,7 +365,7 @@ Crue in the distant proceedings of-admi­
 able. &#x27;  
 r&gt;. From the decision in the Britishhhth 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012201:0003/pct:2.8384279475982535,1.9852839094821602,38.209606986899566,96.23767874496737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012201:0003/pct:2.8529839883551675,1.9899116109028645,38.20232896652111,96.24230644638808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -419,7 +419,7 @@ States, audio that CO and &#x27;Har­
 mony, which ought to be Cherished be­  
 tween the two nations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012201:0003/pct:21.921397379912662,40.483132028321535,18.624454148471617,24.573094543940027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012201:0003/pct:21.935953420669577,40.49238743116294,18.63901018922853,24.573094543940027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ the transportation of persons in military j
 service ; nor to places actually blocka- !  
 or be..ie,red. Kvtry Other com- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012701:0001/pct:5.7065781282423735,48.56139402944752,17.680016600954556,9.995947588815346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806012701:0001/pct:5.720412257038113,48.56589670854158,17.680016600954556,9.995947588815346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -709,7 +709,7 @@ p - ^&#x27;T declare* - &#x27;* *t i* not ntv l-ufn f to fay w | *
 ■ 1 -r iw-trf illy the tfPe of 4 fc-na fide impoteaclrn,  
 it in &gt;rg.ipd th.it ir «vould I&gt;e ft (
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806012801:0325/pct:60.98463816398297,9.729868134681858,37.34962058115862,87.33836896684163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806012801:0325/pct:60.97335307179867,9.728622631848438,37.34887737478411,87.33145587984298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ able expe&amp;ations of Ihc United States, and to that
 confidence anj harmony, which ooglu to be cheriQi­  
 ed between the two natiou*.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806012801:0326/pct:4.585963609357594,2.2747490151226333,17.823988117341255,9.251493201169145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1806012801:0326/pct:4.58511230740672,2.2744599745870393,17.82686714931007,9.25455315544261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1062,7 @@ ihe reasonable expiations of the United State*,
 and to that confidence and harmony, which onjrht  
 to be cherished between the two nations
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806012801:0037/pct:41.005692599620495,2.9301179826267343,55.69259962049336,91.87086736678336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806012801:0037/pct:40.99791310946689,2.929738138449572,55.68835768038955,91.86327888687235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1460,7 +1460,7 @@ the reasonable expectatiunanf the United Smctsi,
   
 to be elles-filed deemen the two nzlwns.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012901:0168/pct:4.052520667855406,3.3742039730063684,93.61322742745988,91.65478566676171/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216043:1806012901:0168/pct:4.051863857374392,3.3738832921497814,93.60345759049163,91.64924285623772/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2212,7 +2212,7 @@ military service ; nor&#x27;to places actually blockaded or
 beseiged. Every other commerce of a neutral with  
 a belligerent, is considered a lawful commerce; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806020301:0939/pct:31.80280328661189,46.95693627840458,20.71048815853069,7.071349118067694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806020301:0939/pct:31.795119594104857,46.94947569113442,20.711524522831603,7.074197648554178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3364,7 +3364,7 @@ and to that cenfidence and harmony,
 which ought to be cherifhed between  
 the two nations. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806021301:0697/pct:33.637039791744144,5.39601667438629,63.33209371513574,86.67207040296434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1806021301:0697/pct:33.643237882732116,5.39601667438629,63.33829180612371,86.67593021460553/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3388,7 +3388,7 @@ which are deemed contraband of war ; nor to the trans­
 portation of persons in military service ; nor to places adu­  
 ally blockaded or besieged. Every other commerce of 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806021801:0237/pct:41.644767351986395,47.610513739546,24.93430205595919,6.740342493030665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806021801:0237/pct:41.649920131911166,47.617151201380594,24.92914927603442,6.740342493030665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3423,7 +3423,7 @@ j the transportation of persons in milita­
 :ry service ; nor to places actually bloc­  
 t kaded t&gt;r besieged. Every other corn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806051401:0002/pct:59.82277933866436,58.67255416034221,18.845904473741086,13.895404995170415/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1806051401:0002/pct:59.837187522512785,58.67255416034221,18.8531085656653,13.909203808472471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3453,7 +3453,7 @@ drcme.l co»vriband of war ; n r to the t.ampor­
 tat.on of l^sons.n military service; nor to  
 place3 actually bit-., haded or be.leged. Everr 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806052001:0174/pct:39.479186466451246,37.86936236391913,17.316099600836342,8.981337480559876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184194:1806052001:0174/pct:39.47168377042949,37.86445509913179,17.319143544913214,8.984493110448792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3492,7 +3492,7 @@ transportation of persons in military ser*
 vice j nor to places actually blockaded  
 or besieged. Kvery other commerce o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806052301:0604/pct:31.780976573525262,28.288416919507405,20.575783234546993,18.882741388541852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1806052301:0604/pct:31.772009029345373,28.28336902212705,20.577031602708804,18.883832976445397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4405,7 +4405,7 @@ unjust and unfriendly policy.
 I have the honor to be, Sec.  
 (Signed) JAMES MADISON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041501:0448/pct:23.506607929515418,1.9503331314354937,52.52863436123348,91.75045427013931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041501:0448/pct:23.50246652572234,1.9500968992248062,52.525252525252526,91.74337855297158/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4427,7 +4427,7 @@ band of war ; nor to the transportation of
 persons in military service ; nor to places  
 actually blockaded or besieged. Every o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808042201:0454/pct:23.572448251249106,52.59708737864078,17.326909350463954,4.478155339805825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808042201:0454/pct:23.568242640499555,52.590705011527724,17.329765090692835,4.481656756866077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4491,7 +4491,7 @@ t “ rent country whatever, foreign productions, not
 . “ porated and naturalized as part of the commercial  
 . “stock of the country re-exporting it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811111101:0823/pct:28.753056234718827,41.73027989821883,21.882640586797066,4.882315521628499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811111101:0823/pct:28.74602786604742,41.72364445857847,21.88340259105353,4.88551439020512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4522,7 +4522,7 @@ reasonable expectation of the Ufiited States, &amp;
 to that confidence and harmony which ought  
 to be cherished between the two nations.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826041301:0260/pct:42.812345271496945,62.69662921348315,17.577157946855916,10.426966292134832/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826041301:0260/pct:42.805280528052805,62.68958543983822,17.57975797579758,10.42953975208778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4552,7 +4552,7 @@ expectation of the Cnited States, and to that con­
 fidence and harmony which ought to be cherished  
 between the two nations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826050501:0440/pct:37.059288537549406,17.456537270778757,14.703557312252965,8.061443200762087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826050501:0440/pct:37.05343028770155,17.454458864150496,14.706502265781431,8.064452117315554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

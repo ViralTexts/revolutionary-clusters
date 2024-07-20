@@ -78,7 +78,7 @@ not do any tiling at this moment which should commit us
 further, hut reserve ourselves to shape our future mea­  
 sures or no measures, by the events which may happen.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832091401:0147/pct:2.711816776731769,57.624875951042014,15.160882394267247,3.5285036939023047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832091401:0147/pct:2.711435796572071,57.618522601984566,15.163435421935,3.531789783167953/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ moment which should commit us further, but re­
 serve ourselves to shape our future measures or no  
 measures, by the events which may happen.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832122801:0279/pct:65.17433751743376,27.56637168141593,15.034867503486751,3.9712389380530975/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832122801:0279/pct:65.16524891925812,27.56332264130074,15.037419234881234,3.9744865980901816/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -124,7 +124,7 @@ us further, but reserve ourselves to shape our
 which may happen.”  
 That Virginia did nothing more; that sh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833010801:0158/pct:65.77602569718206,32.101788756388416,14.381661556431595,5.302385008517888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015179:1833010801:0158/pct:65.78575947826933,32.108886996024985,14.391395337518858,5.298835888699602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ moment.” Vol. Ill. p. 403.
 
 ---
 
-## [From _The American review : a Whig journal of politics, literature, art, and science_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n13/mode/1up?view=theater)
+## [From _The American Review: a Whig Journal Devoted to Politics and Literature (1848-1850)_](https://archive.org/details/sim_american-whig-review_1849-07_10_19/page/n13/mode/1up?view=theater)
 
 #### 1849-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -189,7 +189,7 @@ trary, and has swallowed mote of the public liberty, than
 even that of Kngland.&quot;  
 II this was true at that lime, when the revenue an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853020101:0147/pct:49.46510443199185,27.51097340562871,16.250636780438104,3.4727601342628454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661216:1853020101:0147/pct:49.46510443199185,27.51097340562871,16.261957321559972,3.4813667269128152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ course of nine or ton years, become more
 arbitrary, and has swallowed more of the  
 public liberty than even that of Engla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1853022601:0740/pct:239.3818777803793,78.78787878787878,52.6574572699602,15.683430045132173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1853022601:0740/pct:59.831460674157306,19.69379532634972,13.16128277153558,3.920225624496374/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -231,7 +231,7 @@ government has, in the rapid course of nine or ten years,
 become more arbitrary and has swallowed up more of  
 the public liberty than even that of England. It wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861030901:0597/pct:114.93161705551086,267.36345246122727,45.14883346741754,8.440098898628905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743373:1861030901:0597/pct:38.31053901850362,89.12115082040908,15.049611155805845,2.8133662995429685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ than did those growing out of the celebra­
 ted Tariff question, and finally resultéd  
 in the passage by South Carolina of wha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1868013001:0445/pct:18.319928507596067,143.5100264262397,59.24932975871314,52.35504430281362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_dorothea_ver01:data:sn90061771:00200292790:1868013001:0445/pct:4.583053878828527,35.877506606559926,14.822266934942991,13.088761075703404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -343,7 +343,7 @@ This amendment was intended only
 for the Federal Constitution, but, if it  
 had been adopted, the probability i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1875061701:0101/pct:133.4658187599364,303.79457917261055,49.84101748807631,34.75035663338088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1875061701:0101/pct:33.3664546899841,75.94864479315264,12.460254372019078,8.68758915834522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ tion. In other words mankin areo e o ae an te e of te
   
 governed by sell-interest; and if men o e ae eor ar u an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1878121901:0841/pct:178.5828025477707,207.40120094958806,102.62738853503184,17.371875436391566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_arthur_ver01:data:sn95068565:00280779167:1878121901:0841/pct:44.64570063694268,51.850300237397015,25.65684713375796,4.342968859097891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ ery state where it lias been prac
 Heed since the revolution, it al­  
 ways carries the gold and the sil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887082501:0152/pct:19.193857965451055,41.213755900202294,12.91746641074856,20.539447066756576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887082501:0152/pct:19.190174630589137,41.20819848975189,12.919785070044137,20.54004854368932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -506,7 +506,7 @@ ticcd since the revolution, it al­
 ways carries the gold and the sil­  
 ver out of the country 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090101:0155/pct:67.83966879939781,47.87378114842904,12.815205118554761,17.7546045503792/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090101:0155/pct:67.82690498588899,47.867298578199055,12.817497648165569,17.755585646580908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -532,7 +532,7 @@ power ot borrowing. I now deny
 their power of making paper mon­  
 ey or any thing else a legal ten
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090801:0159/pct:68.04220840399472,47.587422065600435,12.587149048426607,6.654920032529141/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_jolteon_ver01:data:sn87091048:00414213030:1887090801:0159/pct:68.02938960060287,47.58097303157609,12.589487565938207,6.657406152595202/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -615,7 +615,7 @@ their (Congress) power of making paper money,
 or anything else, a legal tender.  
 reMadizon. The nation should poascse ae
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896101901:0838/pct:177.16417910447763,98.37854220336415,49.1044776119403,7.455675102288225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896101901:0838/pct:44.29930957268147,24.594635550841037,12.278410151147602,1.8639187755720563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -632,7 +632,7 @@ gi ess) power of making paper money,
 or anything else, a legal tender.  
 Madison: The nation should posses
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00514155975:1896102101:0143/pct:68.93396976929196,69.13748673639533,12.748607796340494,2.0312263149916627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00514155975:1896102101:0143/pct:68.92026247762975,69.12700818429828,12.751043945118314,2.0347074871173083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -650,7 +650,7 @@ power of making paper money, or
 anything else, a legal tender.  
 Madison: The nation should pos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1896102401:0219/pct:19.23076923076923,298.705035971223,44.98626373626374,8.894702419882275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:0020029614A:1896102401:0219/pct:4.808517946075906,74.67625899280576,11.248497338141851,2.223675604970569/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ pay their debts. I deny their [congress’]
 power of making paper money or any­  
 thing else a legal tender.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152901:1896110201:0022/pct:85.10925276503912,41.481249347122116,12.678715942810898,1.6609213412723285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152901:1896110201:0022/pct:85.1137487636004,41.48821337790313,12.678715942810898,1.6609213412723285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

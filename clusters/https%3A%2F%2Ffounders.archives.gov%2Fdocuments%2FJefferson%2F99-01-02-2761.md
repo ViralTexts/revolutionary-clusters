@@ -44,7 +44,7 @@ entitled “ An act further to protect the commerce
 and seamen of the U. S. against the Barbary pow­  
 &#x27; ers,&quot; be continued for years/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806040701:1048/pct:3.4639273769708554,87.98214854956966,21.954132823698043,9.515460631176284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806040701:1048/pct:3.4631000716503464,87.96812749003983,21.954860281824697,9.51792828685259/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -70,7 +70,7 @@ lorem, imposed by an ad, entitled
 merce and seamen of the United States,  
 against the Barbary powers,” be con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806041501:0270/pct:42.563216585519086,52.533280349692035,16.020103659494268,8.176038148221737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806041501:0270/pct:42.568451913512384,52.53659182727333,16.025338987487565,8.179349625803033/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -112,7 +112,7 @@ e Rqr?g-ed, ‘That thz additional du­
 ty-of two and ahalf per ccntuin ad  
 walorem imposed by an a@, entitled
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806042201:0274/pct:26.326403971455164,68.30847723704866,16.273658082531803,18.759811616954472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806042201:0274/pct:26.33674630261661,68.31174777603349,16.273658082531803,18.75654107796965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ be laid be ore Congress as soon as may be.
 Mr. WHITE said that his object in rising to address  
 the committee was twofold. According to the prac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846081001:0810/pct:3.2138242894056845,69.48157401623985,15.067829457364342,4.996876951905059/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846081001:0810/pct:3.2138242894056845,69.48990214449303,15.083979328165375,4.992712887778472/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -167,7 +167,7 @@ apphed under the direetian of the freslilent of the tait
 States, who shall cause an account of the expenditure  
 thereof to be laid before Congress as soon as may be.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846081001:0177/pct:11.849759016120991,46.37413394919169,47.847764666777465,6.189376443418014/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742940:1846081001:0177/pct:3.94991967204033,15.458044649730562,15.949254888925822,2.063125481139338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ gress as soon as may be;&quot; and on the 13th July, 1806, an
 appropriation was made of the same amount and in the  
 Same ferms
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846081101:0732/pct:15.196006460138012,89.30891907855877,38.158860666568785,5.788541051388068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846081101:0732/pct:5.064591896652965,29.766123316796598,12.717752984928557,1.9292857705331128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ thereof to be laid before Congress as soon as may
 be; and on the I Jib July, 18(H3. an appropria­  
 tion w as made of the same amount and in the 83m
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846081101:0181/pct:16.51851851851852,78.76431194642471,14.725925925925926,2.0414776409591706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn86071753:00414184388:1846081101:0181/pct:16.516071693082505,78.75580516254455,14.728682170542635,2.044857256003168/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ under the direction of the prosident of the tinited States,
 who shall ehuse an account of the expenditure thereof  
 to be laid before Congress as soon as may be, and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846081201:0248/pct:2.6499523960647413,55.68826868495743,42.08187876864488,5.889309366130558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846081201:0248/pct:0.8833174653549137,18.56275622831914,14.027292922881625,1.9631031220435193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ the United States, who shall cause an ac
 count of the expenditure thereof to be laid be­  
 fore Congress as soon as may be,” and o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021168:00514152779:1846081301:0094/pct:32.611501505808114,8.253508576520383,12.577083034561882,3.018489641345511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021168:00514152779:1846081301:0094/pct:32.611501505808114,8.260934135293681,12.581863377790526,3.018489641345511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ the direction of the President of the U. States,
 who shall cause an account of the expenditure there­  
 of to be laid before Congress as soon as may b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1846081301:0112/pct:6.040767742895403,40.46727911988204,14.908495759559589,2.0982193489849155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183712:1846081301:0112/pct:6.0398690865813744,40.462689952370155,14.911236735098681,2.101761548348076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ thereof to be laid before Congress as coon as may be.&quot;
 and on the 13th February 1806, an appropriation was  
 made of the same amount and in the same terms
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846081401:0254/pct:168.8697017268446,128.45934379457918,42.119309262166404,10.306704707560627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530248:1846081401:0254/pct:56.28990057561486,42.81978126485972,14.039769754055468,3.4355682358535424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -401,7 +401,7 @@ The object in the first case was to enable the President to
 obtain the cession of Louisiana, and in the second that of  
 the Floridas. In neither case was the money actuall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846081401:0745/pct:5.153265215459796,82.01564872124256,38.8864208499926,11.748219082097396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846081401:0745/pct:1.7175007403020432,27.335357309668378,12.96022110354358,3.9156157558773157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ applied under the direction of the President of the
 United States, who shall cause an account of the  
 expenditure thereof to be laid before Congress a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1846081501:0519/pct:7.154340836012862,44.84610917537747,18.85048231511254,4.515098722415796/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_byrd_ver01:data:sn85038115:00296027522:1846081501:0519/pct:5.366834170854271,33.63821138211382,14.150753768844222,3.397212543554007/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -473,7 +473,7 @@ dent of the Urited States, who shall cause an
 account of the expenditure thereof to be laid  
 before Congress as soon as may be; and on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1846081801:0542/pct:6.391901663051338,34.886763965777554,14.417932031814896,2.3251132360342224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1846081801:0542/pct:6.401542540371174,34.886763965777554,14.413111593154976,2.3284683777889614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -510,7 +510,7 @@ case was to enable the President to obtain the ces­
 sion of Louisiana , and, in the second, that of the  
 Floridas. In neither case was the money actuall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1846081901:0565/pct:45.06189451022605,82.80762191839811,19.779332615715823,8.472386693939068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1846081901:0565/pct:33.808882907133246,62.10571643879858,14.84522207267833,6.362364086553988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -535,7 +535,7 @@ soon as may be;&#x27;, aud on the 13th of Feb.,
 amount and in the same terms. The object  
 in the first case was to enable the Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1846082001:0453/pct:68.14066852367688,85.00856277170334,19.516016713091922,8.681333157686733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn84023914:00296029816:1846082001:0453/pct:51.1231063903883,63.75971545250955,14.643914330489292,6.507706494532999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ rt ct ion of the President of the United States,
 woo shall cause an account of the expenditure  
 thereof to be laid before Congress as soon a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn82014375:00414187419:1846082101:0014/pct:16.049145709349204,39.419326881409795,12.76636590516414,2.368915210169002/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn82014375:00414187419:1846082101:0014/pct:16.046065259117082,39.413633737723856,12.768714011516314,2.3721837088388216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -574,7 +574,7 @@ the President of the United States, who
 shall cause an account of the expenditure  
 thereof to be laid before Congress as soo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1846082101:0588/pct:230.3543913713405,239.405412985556,52.31124807395994,14.584209788248492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472037:1846082101:0588/pct:57.59969177422462,59.851353246389,13.080331342708535,3.646052447062123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -602,7 +602,7 @@ from the treasury, and I should hope that the
 result in this respect might be similar or, the  
 present occasion, although the appropriatio
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846082101:0408/pct:88.76556578234975,51.38512204571872,19.694098538170007,10.005811700891128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1846082101:0408/pct:66.58995532692568,38.541263076327006,14.769189116014621,7.5067803177063155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -771,7 +771,7 @@ POST-ROUTES IN TEXAS.
 Mr. RUSK (by leave) introduced a bill to establish Additional  
 post-routes in Texas; which was read twice, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847012001:0077/pct:5.533596837944664,43.97776405188388,18.213438735177867,6.287831995058678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847012001:0077/pct:5.544137022397892,43.98599958822318,18.21870882740448,6.2837142268890265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -816,7 +816,7 @@ Mates, who shall .cause an account of the expenditure
 thereof to be laid before Congress as soon as may be.  
 Mr. SEVIER briefly explained the objects of the bill
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847020201:0125/pct:4.820248266967596,72.627150105185,18.152506851523455,5.086004207400074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847020201:0125/pct:4.830995754742329,72.627150105185,18.157880595410823,5.098378913500804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -900,7 +900,7 @@ tion of the President of the United States, who
 shall cause an account of the expenditure  
 thereof to be laid before Congress as soon a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1847021201:0510/pct:77.29823623730626,88.70174110522332,17.958311063602352,8.951551854655564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879051:1847021201:0510/pct:57.99251537022187,66.53103709311128,13.472333600641539,6.70893262679788/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -927,7 +927,7 @@ Congress as soon as may be.&quot;
 Mr. ASHMUN moved to amend it by appending the words  
 of the Wilmot proviso. [A laugh.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847022001:0505/pct:62.74263371037564,28.698391270109123,15.542521994134898,6.097423782202722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847022001:0505/pct:62.74263371037564,28.705891176360296,15.542521994134898,6.097423782202722/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -954,7 +954,7 @@ Committee, who urged the passage of this bill, dis­
 cluses for the first time, officially, the specific de-  
 1 signs fin which the war with Mexico has bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688210:1847022401:0123/pct:18.24754193175246,9.511817125145292,15.384615384615385,6.47036032545525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688210:1847022401:0123/pct:18.25718141507615,9.518274570579878,15.394254867939079,6.47036032545525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

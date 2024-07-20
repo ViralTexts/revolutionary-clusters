@@ -99,7 +99,7 @@ or for hirt. My fttmoit exertions hdve not been able to pre*
 vent this base and perulMottf cbnduM.&quot;  
 In a letter to the president of Congress, dated Septem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071701:0779/pct:45.93385524844224,23.55226873903234,15.30595941843745,4.5249435948859364/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82003410:00415661071:1856071701:0779/pct:45.944506577195504,23.560625052226957,15.300633754060819,4.529121751483245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -193,7 +193,7 @@ inhabitants of this Colony to be aiding and
 assisting to their said Committers and Select­  
 men, in the execution of this Resolve; and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862072401:0240/pct:23.738991192954362,78.00546448087432,19.395516413130505,19.23497267759563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:0041562833A:1862072401:0240/pct:17.824954936911677,58.51092896174863,14.560384538353695,14.426229508196721/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

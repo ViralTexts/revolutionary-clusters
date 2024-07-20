@@ -31,7 +31,7 @@ letter from Mr. Jackson to the British
 Consuls in the United States,&quot; as re­  
 ceived in a Gazette at the Depart
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809121801:0002/pct:75.60491868306228,61.978163134232496,17.155890519635065,3.481053307642903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809121801:0002/pct:75.61814094935872,61.98244487261828,17.149279386486842,3.493898522800257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -48,7 +48,7 @@ minister in London, purporting to be
 a copy of a despatch from Mr. Canning  
 to Mr. Erski ie of the 23 J of Jan. last
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809121801:0002/pct:76.04125347084491,66.89788053949904,16.64022213407378,1.8625561978163134/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809121801:0002/pct:76.05447573714135,66.89788053949904,16.646833267222004,1.8796831513594519/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

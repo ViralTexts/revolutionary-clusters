@@ -107,7 +107,7 @@ TR R o owith grc;t;rcfpe&#x27;&amp;,‘ €
 | “most obedient. hvmble servant, .  
 ~ (Signed) GUY CARLETON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782061501:0164/pct:11.50326797385621,25.89637305699482,28.235294117647058,59.53367875647668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1782061501:0164/pct:11.50326797385621,25.899827288428323,28.251633986928105,59.53022452504318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

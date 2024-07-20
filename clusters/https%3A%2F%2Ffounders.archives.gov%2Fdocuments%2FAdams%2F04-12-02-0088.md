@@ -285,7 +285,7 @@ For I am arm’d so strong in honesty,
 That they pass by me, as the idle winds,  
 Which 1 respect not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1852122501:0279/pct:19.359283499827765,42.22001982160555,8.715122287289011,1.458303836896503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016750:00383347166:1852122501:0279/pct:19.365024687105294,42.229458681391286,8.709381100011482,1.4488649771107651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -325,7 +325,7 @@ heroic honor may not only be heralded to the
 world, but also that it may be continually cher­  
 ished and revived in the memory of our chi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853092701:0426/pct:190.00282805429865,202.2537820314912,41.7420814479638,21.951219512195124/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668144:1853092701:0426/pct:63.352192362093355,67.4179273438304,13.917963224893917,7.317073170731708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ Which I respect not.&quot;
   
 &quot;Surely the world&#x27;s history contains the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1853112901:0479/pct:59.7153024911032,58.768406961178044,16.92170818505338,4.123159303882195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_drake_ver01:data:sn85038183:00296028010:1853112901:0479/pct:44.79444741057127,44.08299866131191,12.706887346502937,3.0923694779116464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ Which I regard not.
 Cossiet A friend should be ar hir friend&#x27;s infirmities;  
 Eut Erutus makes mine greater than they are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854022201:0358/pct:250.14720314033366,218.76640419947506,36.62087013411842,6.5020281555714625/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_airy_ver01:data:sn83030213:00206530431:1854022201:0358/pct:83.38240104677789,72.92213473315836,12.206956711372806,2.167342718523821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -397,7 +397,7 @@ Which I respoct not
 Cat. A friend should bear his friend&#x27;s infirmities,  
 But Brutus makes mine greater than they are
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854031101:0106/pct:47.897493982726886,35.3244191144235,12.954835055925244,2.740026304252521/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854031101:0106/pct:47.897493982726886,35.331725851234836,12.959554485818114,2.740026304252521/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ spect not.”1
   
 In fact, it is evident that any futur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871091501:0002/pct:29.68108002347877,9.487635364473897,9.03932694189004,1.858736059479554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1871091501:0002/pct:29.695754255527294,9.487635364473897,9.0344355312072,1.870858251171812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ That they pass by me like the idle wind,
 Which Are ard not.&quot;  
 The history of this case may be written hereafter, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874031301:0836/pct:151.9172552976791,183.2420463815406,46.95593676421124,6.059899778580585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743853:1874031301:0836/pct:50.63908509922637,61.080682127180204,15.651978921403744,2.019966592860195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -754,7 +754,7 @@ to try and do unto others as I would
 have them do unto me. This is a hard  
 road to travel, but I have tho satis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294798:1885091201:0098/pct:33.391455972101134,213.9615053145648,50.30514385353095,35.04740017236426/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294798:1885091201:0098/pct:8.349683889252235,53.4903763286412,12.579027686941355,8.761850043091066/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -789,7 +789,7 @@ to try and do unto others as I would
 have them do unto me. This is a hard  
 road to travel, but I have the satis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:02202296588:1885091701:0741/pct:14.576547231270359,209.46138500997435,48.697068403908794,34.425762325448844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:02202296588:1885091701:0741/pct:3.646363821552251,52.36534625249359,12.18170706864942,8.606440581362211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -807,7 +807,7 @@ For I am armed so strong in honesty.
 That they pass me by as the idle winds.  
 Which I respect not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83027102:00211664459:1886052901:0002/pct:39.25387916804226,51.23487280810077,11.670518322878838,1.8152630279081254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ferguson_ver01:data:sn83027102:00211664459:1886052901:0002/pct:39.25387916804226,51.24310529348811,11.670518322878838,1.8111467852144563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -840,7 +840,7 @@ malice of Robert Davis can invent,
 there is no expression of malignity  
 which his hireling slanderer can de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ginger_ver02:data:sn87068097:00383340731:1890101601:0936/pct:2.9667721518987342,61.906860584692225,12.579113924050633,4.172175701483766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ginger_ver02:data:sn87068097:00383340731:1890101601:0936/pct:2.966185485465691,61.89776733254994,12.581570100850307,4.1752350176263215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -862,7 +862,7 @@ His Charges.
   
 My friends say to me tint his attacks ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_faribault_ver01:data:sn90059522:00206538636:1892030301:0026/pct:72.30190781228241,11.526147278548558,10.694889291185072,2.529348986125934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_faribault_ver01:data:sn90059522:00206538636:1892030301:0026/pct:72.30190781228241,11.52970473141231,10.704173049250336,2.536463891853433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ Which I respect not,”
   
 My fiiends say to me that his attacks are such a mess ofi ridiculou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:0038334685A:1892030401:0365/pct:34.53492114579981,82.54079254079254,26.681686514322497,8.193473193473194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059299:0038334685A:1892030401:0365/pct:34.54028537710546,82.54079254079254,26.692414976933804,8.205128205128204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -917,7 +917,7 @@ My fiiends say to me that his attacks are such a mess ofi ridiculou
 That they pass by me as the ulle wind,  
 Which I respect not.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878678:1893100501:0400/pct:94.95614035087719,45.69063631660631,13.788377192982455,1.479565442317641/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878678:1893100501:0400/pct:71.22686771761481,34.26797723745474,10.349554489376285,1.1174340403517848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ pass by me as the idle wind.&quot; I care
 not for the attacks of those who have  
 no standing in this community. Thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102901:1895112301:0585/pct:20.73307218802462,99.54921111945906,18.984331281477335,3.3621337340345603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn84025891:00211102901:1895112301:0585/pct:15.56333100069979,74.66190833959429,14.247725682295311,2.5262960180315552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ wind,
   
 Which I respect not.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn92073953:00295879749:1896030601:0027/pct:37.67605633802817,92.0232654756959,21.431924882629108,5.220883534136546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn92073953:00295879749:1896030601:0027/pct:28.276186002818225,69.02091123113142,16.087364960075153,3.9191247749619165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

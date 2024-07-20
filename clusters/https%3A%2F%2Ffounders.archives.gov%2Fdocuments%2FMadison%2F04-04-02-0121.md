@@ -55,7 +55,7 @@ hi* executor, who is also the legatee ol in* manu­
 script papers, to believe that an early publica­  
 tion of them would hi pat ticumi ly act epi.tblu t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1828052201:0745/pct:51.685630004214076,20.10774606872452,15.360303413400759,4.004076878276063/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348811:1828052201:0745/pct:51.67474194227933,20.104818750909885,15.362334105751001,4.007133498325811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -99,7 +99,7 @@ of die oi igmat draft ol tin* Declaration of Inde­
 pendence, with the amendments and additions  
 of the committee, in the hand writing of each
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216390:1828052301:0501/pct:19.186963378307343,30.631285593117653,18.59120378482565,19.84732824427481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216390:1828052301:0501/pct:19.183601962158374,30.62757450932881,18.593786498481663,19.848962119376463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ his great age, did hot permit him to reduce his
 materials imo a state proper to be embodied in  
 such a work. &#x27; , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1829020601:0727/pct:43.19639452244756,3.6333802156586965,37.68417403362801,92.33473980309424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216407:1829020601:0727/pct:43.18890814558059,3.63295441228173,37.68341998844598,92.327825305676/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -546,7 +546,7 @@ i on hi* return to private life; which, with his great
 age, did not permit him to reduce liia materials in*  
 to a state proper to be embodied in such a woik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021201:0382/pct:20.035318670733666,4.447374730280508,31.096484186867876,89.71469671541597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184029:1829021201:0382/pct:20.032102728731942,4.446841663670143,31.096843231674693,89.70793879100243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -672,7 +672,7 @@ return to private life; which, with his groat ago, did
 not permit him to reduce Ins materials into a° state  
 Ptoper to be embodied in each n work
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829021301:0260/pct:60.974448500238054,15.946418171228888,18.362164735756227,58.80023296447292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829021301:0260/pct:60.9647730879086,15.944560913114373,18.364540357558447,58.7972668685457/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -728,7 +728,7 @@ III. I •• ta and %ggr« «li»&#x27;eg, |ne»? nm! general,
 prruiiMitoi y |u IVcJHiat.ou ol ittdept *»•  
 dence. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829021601:0213/pct:38.54977468250717,2.5814825497548313,29.74190905366653,91.10181713296798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829021601:0213/pct:38.541879991808315,2.5811103100216295,29.740937947982797,91.09228550829128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -827,7 +827,7 @@ his rent age. did not permit him lo reduce his
 materials into a a(ut«: ptoper lo be cm nod ted in  
 such a work
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829021601:0213/pct:53.29782875870545,5.1629650995096625,15.055305202785744,42.22670897029132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348823:1829021601:0213/pct:53.28691378251075,5.162220620043259,15.057341798074955,42.22422494592646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1694,7 +1694,7 @@ Art. xit.--Declared that in determining questions, each
 colony should have one vote.  
 These articles were regarded as relating to kindred sub
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846022701:0192/pct:94.34737923946557,89.97887819760619,37.80648950227573,4.658530861300164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184637:1846022701:0192/pct:31.4445096887845,29.989440337909187,12.600313172832257,1.552661425945481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -198,7 +198,7 @@ centienu n in mass giving precedence to ladles
 in mass In passim from one apartment into  
 another.&quot; When Jefferson was President h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654541:1880121101:0237/pct:16.1839863713799,76.40603566529492,14.721749006246451,4.663923182441701/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654541:1880121101:0237/pct:16.187535491198183,76.40603566529492,14.732396365701305,4.6665611480426294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ I laid down Vy Jefferaoo waatbis: &#x27;When
 brought together in societv all ero per­  
 fectly equal, whether
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341620:1880122801:0621/pct:12.052260716382854,5.677078034388035,23.987081620669407,91.65734052294232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341620:1880122801:0621/pct:12.050491707030677,5.676500508646999,23.98845344684182,91.65140725669718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -238,7 +238,7 @@ in mass in passing from one apartment
 into another&#x27;  
 &#x27;•rite ladies of Washington reg*He
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341620:1880122801:0621/pct:24.80916030534351,7.864482653372673,11.391661773341163,3.9068063892562823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341620:1880122801:0621/pct:24.805518861001026,7.863682604272634,11.394882332795147,3.9097999321804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ gether m society all are perfectly equal,
 whether foreign or domestic, titled or un  
 titled, in or out of- office.&#x27; He furthe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556801:1881010601:0446/pct:46.59410112359551,26.9087291718478,18.75,3.357373787615021/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556801:1881010601:0446/pct:34.96663154197401,20.18154687888585,14.067439409905163,2.5242476995772196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -301,7 +301,7 @@ ing precedence to ladies in mass in
 passing from one apartment to another,  
 &quot; The ladies of Washington regarde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556801:1881010601:0446/pct:46.59410112359551,30.303407112658544,18.73244382022472,6.82666003481721/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556801:1881010601:0446/pct:34.96663154197401,22.730664013926884,14.049877063575694,5.123103705545884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -320,7 +320,7 @@ gether in society all are perfectly equal,
 whether foreign or domestic, titled or un­  
 titled, in or out of office.&#x27; He furthe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283156:1881010701:0681/pct:56.369535519125684,29.8086011342155,20.969945355191257,3.946124763705104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283156:1881010701:0681/pct:37.59180187873612,19.872400756143666,13.988044406490179,2.63468809073724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ ing precedence to ladies in mass in
 passing from one apartment to another.1  
 &quot; The ladies of Washington regarde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283156:1881010701:0681/pct:56.318306010928964,33.77835538752363,21.00409836065574,8.010396975425332/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283156:1881010701:0681/pct:37.55764304013663,22.51890359168242,14.005123825789923,5.340264650283554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -404,7 +404,7 @@ passing from one apartment to another.&#x27;
 this: &quot;When brought together in society  
 all are perfectly equal, whether
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1881012801:0037/pct:121.05263157894737,91.60568230736116,49.53560371517028,5.165733964700818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_ansel_ver01:data:sn90061416:00294559954:1881012801:0037/pct:30.26901490226437,22.90142057684029,12.386297658215598,1.2914334911752046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -431,7 +431,7 @@ men in mass giving precedence to Indies in
 mass, in-passing from one apartment into  
 another.&#x27; The lacles of Washington re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288427:1881022201:0443/pct:57.85224061364554,16.24610759153871,13.187996232001076,6.818425856329862/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_drinksmall_ver01:data:sn93067705:00237288427:1881022201:0443/pct:57.85672632664962,16.253266043881315,13.19248194500516,6.818425856329862/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ another.&#x27; The lacles of Washington re
 this: &#x27;When brought together in society,  
 all are perfectly equal, whether
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83008556:00296028526:1881022401:0236/pct:55.83025360010195,16.031379787724966,12.552567860328788,0.9598523304107061/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kellerman_ver01:data:sn83008556:00296028526:1881022401:0236/pct:55.83025360010195,16.031379787724966,12.565311584044858,0.9598523304107061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ among the diplomatic members givo
 no preference. Ho requested his cabinet  
 ministers to practice these and otherslmi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_bryan_ver01:data:2010270510:00237280453:1889030901:0536/pct:28.44690966719493,82.94100964265456,18.462757527733757,11.798071469086784/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_bryan_ver01:data:2010270510:00237280453:1889030901:0536/pct:21.343638525564803,62.2093023255814,13.8525564803805,8.848553601815087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -653,7 +653,7 @@ nation, which is returned. Ambassadors
 c&#x27;alm that they only call on the President  
 because that Is the Jjabit of Europea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065517A:1897120401:0063/pct:29.40846125046799,81.81564245810056,14.058405091725945,7.891061452513966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065517A:1897120401:0063/pct:29.41314114563834,81.81913407821229,14.063084986896294,7.898044692737431/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

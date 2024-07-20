@@ -160,7 +160,7 @@ Hamburg.
 II# ory Mil-on. of Mary land, o be.  
 C&#x27;on-ui at Nanfz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031001:0551/pct:44.67566969227363,50.34690404503207,17.62231569625858,13.823798926561068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216225:1817031001:0551/pct:44.66578131916777,50.340314136125656,17.625793123801092,13.826352530541012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -185,7 +185,7 @@ hoa, in Brazil
 lleuben O Beasley, of Virginia, to  
 be Consul at Havre do Grace
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031001:0237/pct:5.400696864111498,66.64068589243959,17.16995741385985,6.456222395427384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024513:00414184133:1817031001:0237/pct:5.399651635378363,66.6320301337836,17.17308560738017,6.459713382690393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -178,7 +178,7 @@ phreys. with the best disposition to render service
 to mv country in obedience to its call, but with less  
 hopes* of [answering its expectations.”—Boston Oliv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1855060901:0366/pct:71.42857142857143,75.7210205213533,16.412139957471485,4.312257348863006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014869:0027955727A:1855060901:0366/pct:71.44306978542431,75.7279534109817,16.412139957471485,4.3087909040488075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -202,7 +202,7 @@ position to render service to my country in
 obedience to its call, but with less hopes of  
 answering its expectations.&quot;  Oive Branch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1855062301:0053/pct:23.308957952468006,229.52830188679246,52.23948811700183,20.28301886792453/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_gonne_ver01:data:sn88067030:00202190121:1855062301:0053/pct:7.769652650822669,76.50943396226415,17.413162705667276,6.761006289308176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ tion to render service to my country in obedi­
 ence to its call, but with less hope of answer­  
 ing it&#x27; expectation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175036428:1883112701:0117/pct:84.23475258918297,57.04106280193237,10.817031070195627,1.9082125603864735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_lytton_ver01:data:sn82014381:00175036428:1883112701:0117/pct:84.24708203189216,57.044082125603865,10.817031070195627,1.911231884057971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ to express, set out for New York, with the best dispo
 sition to render service to my country in obedience to its  
 call, but with leas hope of answering its expectation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039983:1883112701:0505/pct:98.29807539366948,156.849392804449,46.842691267695244,8.795823402564976/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chrysler_ver01:data:sn83030214:00175039983:1883112701:0505/pct:32.76602513122316,52.28313093481633,15.61423042256508,2.931941134188325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ out for New York, with the best disposition to ren­
 der service to my country in obedience to its call,  
 but with less hope of answering its expectation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210508:1883112701:0211/pct:51.11147433801896,43.19540779717771,10.918600849950964,2.116718488399904/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_graftonnotch_ver01:data:sn83016025:00414210508:1883112701:0211/pct:51.10312142506945,43.19024273586034,10.920902108187612,2.119454741121607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ disposition to render service to my country
 in obedience to irs call, but with less hope of  
 answering its expectation.&quot; From state t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1883120601:1276/pct:113.52493660185968,319.1216834400732,41.92730346576501,13.113754193351632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1883120601:1276/pct:28.38723314309871,79.7804208600183,10.484041428873388,3.278438548337908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ Vernon, to private life and to domestic
 ruoHanxioOi and paiuful seusatio-js than  
 I bar* words to exprev, set out for Ne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036581:1889022301:0230/pct:39.219712525667354,85.27113702623906,10.75659453482862,1.912536443148688/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_mojave_ver01:data:sn82014381:00175036581:1889022301:0230/pct:39.23155899541936,85.27405247813411,10.748696888327279,1.9154518950437318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -536,7 +536,7 @@ Vernon, to private life and domestic felic­
 ity, and with a mind oppressed with anx­  
 ious and pai: ful sensations set ont fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889043001:0411/pct:26.004649618067088,55.489938757655295,13.01893058784457,1.9028871391076116/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gore_ver01:data:sn86092518:00279550377:1889043001:0411/pct:26.000332060435,55.483870967741936,13.022303392550777,1.906324038636778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ I have words to express, set out for New Yorlc
 with the best disposition to render service to my  
 country in obedience to its call, but with les
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870333:1889050101:0013/pct:7.928730512249444,91.85159500693482,16.314031180400892,3.3460471567267684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_ashbel_ver01:data:sn82015679:00295870333:1889050101:0013/pct:5.9478725774114505,68.88869625520111,12.241033637781243,2.513869625520111/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -600,7 +600,7 @@ best diMxwition to render service to my
 country in obedience to ita call, but with  
 leas hope of answering its expections.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045604:00202198995:1889050101:0560/pct:126.55305112699286,54.86132276744895,32.00934579439252,9.306105862033933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045604:00202198995:1889050101:0560/pct:42.18435037566429,18.28710758914965,10.669781931464174,3.1020352873446444/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -622,7 +622,7 @@ with the best disposition to render service
 to my country in obedience to its call, but  
 with less hope of answering its expecta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473467:1889050201:0293/pct:66.3961038961039,17.66830870279146,18.100649350649352,4.597701149425287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473467:1889050201:0293/pct:44.276048714479025,11.778872468527641,12.070365358592692,3.0651340996168583/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ rlth the best disposition to render service
 to my country in obedience to its call, but  
 with less hope of answering its expecta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029386:00237285220:1889050201:0591/pct:41.38872043662826,18.01982403385678,16.115827774408732,4.131863236440584/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn84029386:00237285220:1889050201:0591/pct:31.0538286580743,13.520436574228755,12.084912812736922,3.096113152912351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -667,7 +667,7 @@ to my country in obedience to its call, but
 with less hope of answering its expecta­  
 tions.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342742:1889050301:0251/pct:30.075989868017597,89.55616216762714,10.838554859352087,3.194823576989182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn83007654:00393342742:1889050301:0251/pct:30.071980805118635,89.5471087747675,10.840442548653693,3.197027901334412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -689,7 +689,7 @@ with the best dlsjiosition to render service
 to my country in obedience to its call, but  
 with less hope of answering its exjecta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285049:1889050301:0412/pct:116.86823679185233,60.307975178119975,49.96817313812858,12.870604458745117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285049:1889050301:0412/pct:29.226361031518625,15.076993794529994,12.496020375676537,3.217651114686279/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ to my country in obedience to its call, but
 with less hope of answering its expecta­  
 tions.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918138:1889050301:1210/pct:42.38146941730004,39.00441902781388,15.88852696344553,4.5360020795425005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_dysprosium_ver01:data:sn88076998:00199918138:1889050301:1210/pct:36.03363412633306,33.161480390351684,13.494667760459393,3.855643527895415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -734,7 +734,7 @@ with the lest disposition to render servica
 to my country in obedience to its call, but  
 villi less hope of&quot; answering its expecta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn89058007:00296020461:1889050301:0674/pct:39.1869918699187,119.80545187196019,14.13279132791328,3.721298495645289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn89058007:00296020461:1889050301:0674/pct:29.398210897262132,89.85408890397014,10.612632149634047,2.79380160615315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ vice to my country in obedience to its
 call, but with less hope of answering its  
 expectations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104661:1889050401:0033/pct:75.4875,11.487219974341262,15.975,6.414684693575446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hedgehog_ver01:data:sn82015133:00211104661:1889050401:0033/pct:50.337584396099025,7.658146649560841,10.652663165791449,4.283035626171913/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -780,7 +780,7 @@ with the Lest disposition to render service
 to my country In obedience to its call, but  
 with leas hope of answering its expecta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877832:1889050401:0697/pct:87.02962369895917,352.6537260757432,44.035228182546035,11.619383738292385/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn83016943:00295877832:1889050401:0697/pct:21.770478670138193,88.1634315189358,11.015421590226318,2.904845934573096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -799,7 +799,7 @@ domestic felicity,&#x27; and with a mind
   
 oppressed with more anxious and pai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1889051601:0087/pct:75.98627787307032,104.05900086132644,16.137793024585477,3.197674418604651/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1889051601:0087/pct:56.997855611150825,78.04694229112833,12.108649035025017,2.400947459086994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -820,7 +820,7 @@ States, tor fear that concentration of best disposition to render service to
 power-would end at the absorptiou of mv country in obedience to its call,,  
 liberty. The large States did not want with less hope of answering its ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1889051601:0087/pct:59.09090909090909,104.6619293712317,64.89422527158376,6.38458225667528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878666:1889051601:0087/pct:44.33166547533953,78.49913867355728,48.67762687634024,4.791128337639965/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -928,7 +928,7 @@ ed with more anxious and painful
 sensations than I have words to ex­  
 press set out for New York,’ whil
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865970:1897030401:0214/pct:20.46871640507418,65.58823529411765,13.867985379488282,4.352941176470588/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865970:1897030401:0214/pct:20.46431642304385,65.57859138362005,13.870378331900257,4.355977062196736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -951,7 +951,7 @@ position to render service to my country
 in obedience to its call, but with less  
 hope of answering its expectations.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897060401:0392/pct:53.45246356696738,43.59797505864922,20.645385149201942,7.630571675515496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_garwood_ver02:data:sn83040340:00237285293:1897060401:0392/pct:35.641159118514665,29.065316705766143,13.777546416796808,5.087047783676997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1055,7 +1055,7 @@ position to render service to my country in
 obedience to its call, but with less hope of an  
 swering its expectations.&quot; Samuel Adams, Patric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:0017503710A:1899121501:0284/pct:54.62512171372931,192.44808743169398,48.42583576760792,9.114754098360656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_lotus_ver01:data:sn83030214:0017503710A:1899121501:0284/pct:18.208373904576437,64.14936247723134,16.141945255869306,3.0382513661202184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

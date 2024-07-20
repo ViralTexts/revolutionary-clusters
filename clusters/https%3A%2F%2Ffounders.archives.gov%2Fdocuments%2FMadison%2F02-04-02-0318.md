@@ -127,7 +127,7 @@ Which he did thrice refuse.
 he did thrice refuse-—  
 Was tliis ambition.:,,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:0039334894A:1834061901:0522/pct:56.64335664335665,45.55858310626703,14.083139083139082,1.2261580381471389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:0039334894A:1834061901:0522/pct:56.632355797242184,45.552377060346004,14.085259273645368,1.229396539980929/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -217,7 +217,7 @@ representatives Conservative. .
 I thrice presented him a kingly crown,  
 Which he did thriee refuse 1 Was this ambition 1
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1864091401:0520/pct:23.096632503660324,97.83454356846472,19.765739385065885,8.778526970954356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1864091401:0520/pct:17.341146310199598,73.37914937759336,14.832448269547703,6.587136929460581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -252,7 +252,7 @@ His counsels were at once too moderate and
 too undecided. His was the fatal reward of all  
 waverers in troublous times. The same in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867021901:0458/pct:241.6530811868275,158.99223034734916,47.35898271926965,36.36882998171846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867021901:0458/pct:80.55102706227584,52.99741011578306,15.786327573089881,12.122943327239488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ You all did see that on the Lupercal
 I thrice presented him a kingly crown,  
 Which he did thrice refuse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743634:1868070501:0068/pct:55.4966008953739,54.750869061413674,50.85392140606864,27.12630359212051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743634:1868070501:0068/pct:18.498866965124634,18.25028968713789,16.951307135356217,9.042101197373503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -313,7 +313,7 @@ vou all did see that on the Lupercal
 I thrice presented him a kingly crown,  
 Which he did thrice refuse. Was this ambitiontgont
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743634:1868071001:0127/pct:151.4612025529056,54.06659705302239,49.42895532415183,18.992922612832114/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743634:1868071001:0127/pct:50.487067517635204,18.02219901767413,16.476318441383942,6.330974204277371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ You all did see that on the Lupercal
 I thrice presented him a kingly crown,  
 which he did thrice refuse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743634:1868071001:0128/pct:55.17875041764116,6.8747807786741495,103.7754761109255,290.1671927978487/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743634:1868071001:0128/pct:18.392916805880386,2.2915935928913833,34.5918253703085,96.7223975992829/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -381,7 +381,7 @@ You all did see that on the Lupercal
 I thrice presented him a kingly crown,  
 Which he did thrice refuse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022147:1868071401:0271/pct:75.21413276231263,318.39873346149494,41.4882226980728,37.00101775415583/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_julian_ver02:data:sn82014296:00296022147:1868071401:0271/pct:18.806050060232902,79.59968336537374,10.37344398340249,9.250254438538958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -444,7 +444,7 @@ You all did see that on the Lupercal
 I thrice presented him a kingly crown,  
 Which he did thrice refuse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743634:1868082601:0535/pct:243.3172034039713,189.76689976689977,51.30986150508927,18.962703962703962/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743634:1868082601:0535/pct:81.10573446799043,63.255633255633256,17.10328716836309,6.320901320901321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ people.
 I thrice presented him a kingly crown,  
 Which he did thrice refuse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_kilo_ver01:data:sn88074142:00280761485:1871061501:0196/pct:73.70054305663305,283.064631188472,52.055857253685026,45.8838636039378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_kilo_ver01:data:sn88074142:00280761485:1871061501:0196/pct:18.432285603414822,70.766157797118,13.019014357780366,11.47096590098445/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -551,7 +551,7 @@ Brutus is not only the biggest liar in the country
 Jlut he is a horse-thief of the deepest dye. t Ap­  
 plause.If yon have tears, prepare to shed them now
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027194:1878051601:0209/pct:10.320965842167256,18.267530936947555,14.472909305064782,14.684737772539776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027194:1878051601:0209/pct:7.746686303387334,13.70654095462581,10.868924889543447,11.007660577489688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ Which he did thrice refuse, because it did not fit
 him quite.  
 Was this ambition? Yet Brutus says he was am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1878052501:1057/pct:17.4079754601227,59.2057761732852,59.04907975460123,36.68939697820564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cataloging_ver01:data:sn84038582:00212471537:1878052501:1057/pct:4.352828379674017,14.8014440433213,14.765100671140939,9.17234924455141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -680,7 +680,7 @@ You all do know this ulster
 &quot;I thrice presented him a kingly crown,  
 Which he did thrice refuse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069392:00202195088:1879072901:0103/pct:74.15359207266722,210.72740631888317,40.46242774566474,2.703894195444526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069392:00202195088:1879072901:0103/pct:18.538398018166806,52.68185157972079,10.115606936416185,0.6759735488611315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -721,7 +721,7 @@ But he is a horse-thief of the deepest dye.
 Apelause,oenta4  
 If you have taers, prepare to shed them now
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069392:00202195088:1881072601:0559/pct:114.4122383252818,143.00853694436267,42.351046698872786,48.10126582278481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_egret_ver01:data:sn86069392:00202195088:1881072601:0559/pct:28.614579138139348,35.75213423609067,10.592025775271848,12.025316455696203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -758,7 +758,7 @@ But he is a horse thief of the deepest dye. aIpplause.
 If you have tears, prepare to shed them now. ILaughter.  
 You all do know this ulster
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882062501:0541/pct:291.49888143176736,65.08982035928143,49.66442953020134,29.40119760479042/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_kobayashi_ver01:data:sn83030272:00175044784:1882062501:0541/pct:72.87472035794184,16.272455089820358,12.416107382550335,7.350299401197605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -800,7 +800,7 @@ But he is a horse thief of the deepest dye.
 [Applause.  
 If you have tears, prepare to shed them now
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026475:1882071901:0572/pct:37.950099234476895,21.218739761930763,11.128437765806634,10.986130828874085/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026475:1882071901:0572/pct:37.950099234476895,21.222379964326016,11.142614119648426,10.989771031269338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -833,7 +833,7 @@ Which he did thrice refuse, because it did not fit
 hint quite.  
 Was this ambition? Y&#x27;et Brutus says he was am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1882072001:0323/pct:27.25225225225225,18.17276574558128,10.907335907335908,8.140403286034354/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00279529601:1882072001:0323/pct:27.247868746984075,18.170504044803984,10.909602702267975,8.142501555693839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -873,7 +873,7 @@ Brutus is not only the biggest liar in the coua­
 But is a horse-thief Of the deepest dye. Ap­  
 plause.If you have tears, prepare to shed them now
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:00202198053:1885040201:0815/pct:16.259870782483848,30.413385826771652,23.81550610193826,20.054133858267715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_alpena_ver01:data:sn85026455:00202198053:1885040201:0815/pct:10.843806104129264,20.275590551181104,15.888689407540395,13.373523622047244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -992,7 +992,7 @@ You all did see that on the Lupercal
 I thrice presented him a kingly crown, *  
 Which he did thrice refuse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ginger_ver02:data:sn87068097:0038334072A:1889120701:0958/pct:16.58361570659757,8.973417535614628,12.656966314530596,11.76384197385813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_ginger_ver02:data:sn87068097:0038334072A:1889120701:0958/pct:16.580310880829014,8.972099853157122,12.659426066161817,11.765785609397945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1106,7 +1106,7 @@ subject:
 I thrice presented him a kingly crown,  
 which he did thrice retuse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175033038:1899070601:0056/pct:170.25848142164782,198.02262990223002,41.35702746365105,22.750741513786664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175033038:1899070601:0056/pct:56.75282714054927,66.00754330074335,13.785675821217017,7.583580504595554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

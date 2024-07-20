@@ -113,7 +113,7 @@ which you have communicated the vote of
 the society to their and your ™end,  
 JOuIN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817081201:0086/pct:9.01803607214429,26.177906165952784,16.36129401660464,18.069528837533618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010832:1817081201:0086/pct:9.01803607214429,26.181226549789155,16.366065464261858,18.069528837533618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

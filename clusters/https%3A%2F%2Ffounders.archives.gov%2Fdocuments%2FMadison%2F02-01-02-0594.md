@@ -159,7 +159,7 @@ the articles which are contraband of war ; the
 said veflcl shall be brought to the nearest or  
 molt convenient port ; and if any property o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:53.025595502293235,41.39303482587065,19.35197514425211,4.746268656716418/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:53.030527198303496,41.39966832504146,19.361838536272625,4.749585406301824/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -179,7 +179,7 @@ ing to the enemy any of the arricles which are con­
 traband of war; the (aid vefsel i!}all be brought to  
 the neareft or molt convenient, port; and if an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795071801:0053/pct:32.64996203492787,46.2436177972283,25.284738041002278,4.3763676148796495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_zarley_ver01:data:sn84038410:01000424529:1795071801:0053/pct:32.63757115749526,46.23237724842003,25.28462998102467,4.381380651434127/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -337,7 +337,7 @@ emy. any of the which are contra­
 band of war, the veflel is to be carried to  
 the neatest port, and after the cafe is deci
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061201:0004/pct:77.61716017719748,7.809495636740127,15.924457915598042,3.6089335897056647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797061201:0004/pct:77.62881790627186,7.809495636740127,15.941944509209605,3.61263126756397/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -358,7 +358,7 @@ which are contraband of War j the said veflel
 (hall be brought to the tieareft or most con­  
 venient port ; and if any property of an ene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091901:0002/pct:25.042138213339754,82.86618444846293,16.903443294004333,4.355033152501507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797091901:0002/pct:25.0541777028654,82.86995177817963,16.897423549241513,4.362567811934901/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -379,7 +379,7 @@ any of the articles which are sontraband of
 war, the said veflels fball be brought to the  
 nearest or mofk convenient pzrz j am‘ii o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798060501:0511/pct:8.044017358958463,81.97521225724603,16.769993800371978,4.69405679711135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798060501:0511/pct:8.054350072328994,81.97521225724603,16.769993800371978,4.700562766338115/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -399,7 +399,7 @@ band of war, a veflel shall be brought into
 port, that ﬁart only which belongs to the en­  
 emy {hall .be made prize, accoiding to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798060501:0511/pct:25.83694978301302,24.904850200058554,16.692498450092994,3.513223382453401/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1798060501:0511/pct:25.84728249638355,24.91135616928532,16.69766480677826,3.5197293516801667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -458,7 +458,7 @@ vvssel shall be brought to the nearest or
   
 most convenient port ; .and if any proper
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805092801:0345/pct:77.24857311552844,36.809492419248514,18.677425703601653,5.313117996044825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805092801:0345/pct:77.23337268791815,36.804640126548904,18.680309589400498,5.31681167062132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ cr for other lawful cause, the said vessel
 •hiill he brought to the nearest ot most con­  
 venient port; and it any property of an en­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0123/pct:4.760126936718312,3.4396183781069545,17.58446891917118,4.230479538036656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184212:1808040801:0123/pct:4.759238521836506,3.439186644910255,17.587408236904317,4.234132463076858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -519,7 +519,7 @@ to the enemy any of the articles which are contra­
 band of war, or for_other lawful cause, the said ves­  
 sel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:52.198508614039596,3.2012934518997573,21.98508614039599,3.7833468067906226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1075/pct:52.18508997429306,3.200775945683802,21.98586118251928,3.7867765923052055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -539,7 +539,7 @@ tho enemy any of the articles which are cor. ri­
 j band of war, or for other lawful cause, the said  
 j vessel shall he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0442/pct:77.51714182605558,46.77736777367774,17.665102850956334,3.321033210332103/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0442/pct:77.50315713512538,46.77161480752675,17.66792952071682,3.3247243061534046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ on board enemy *s property, or of carrying to the
 enemy any of the articles tvhich are contraband  
 &#x27;of war.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0020/pct:3.7530042521723055,10.58793906584414,18.025513033832503,2.0143522598514414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183827:1808051701:0020/pct:3.7523105360443623,10.586606243705942,18.02834257547751,2.0182947297750924/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

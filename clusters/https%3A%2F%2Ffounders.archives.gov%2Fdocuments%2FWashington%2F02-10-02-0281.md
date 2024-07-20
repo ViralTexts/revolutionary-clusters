@@ -79,7 +79,7 @@ with blood or inhabited by slaves ! Sad alter­
 nauve : mm can a virtuous man hesitate in liis  
 choice 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850090501:0283/pct:67.62639482022317,52.13555675094137,14.46480231436837,3.6256051640667026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014764:00415661472:1850090501:0283/pct:67.6355788216926,52.14272906580599,14.46021031363365,3.6256051640667026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -204,7 +204,7 @@ can a virtuous man hesitate iu his choice?”
 To the Congress which elected him he said:  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870050501:0178/pct:6.338312474767864,34.705965308137074,14.796124343964474,5.485827104780708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870050501:0178/pct:6.337033299697276,34.70107163000564,14.798183652875883,5.488578680203045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -260,7 +260,7 @@ plains of America are to be either drenched with
 blood or inhabited by slaves. Had alternative!  
 But can a virtuous man hesitate in bis choice! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879072701:0012/pct:58.18894389438944,66.69687358405075,13.139438943894389,4.395106479383779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879072701:0012/pct:58.20441419141914,66.70064944872375,13.129125412541255,4.406434073402809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -344,7 +344,7 @@ hesitate in his choice?&quot; He becomes
 commander-in-chief of the Amerte­  
 can forces. After another seve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0194/pct:155.23632993512513,186.59804983748646,34.16743898671609,13.867822318526544/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030876:1885022201:0194/pct:51.74544331170837,62.19934994582882,11.389146328905365,4.622607439508848/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -366,7 +366,7 @@ tive! But how can a virtuous man hesitate
 in his choice? He becomes commander-in­  
 chief of the American forces. After seve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762349:1885031801:0054/pct:59.60285941223193,56.447351868159515,10.500397140587769,3.937602214114983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762349:1885031801:0054/pct:59.606830818109614,56.447351868159515,10.50833995234313,3.9501824128821235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ either drenched with blood or inhabited
 by slaves. Sad alternative! But can a  
 ous man hesitate in his choice?&quot; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:0017504839A:1893022301:0329/pct:47.053231939163496,243.4811979283945,40.27249683143219,17.93514974104931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_queen_ver01:data:sn85034438:0017504839A:1893022301:0329/pct:15.684410646387832,81.16039930946484,13.424165610477397,5.9783832470164375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -433,7 +433,7 @@ happy and peaceful plains of America art
 either to be drenched In blood or inhabited  
 by slaves.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022301:0570/pct:40.21935775667119,95.57198708142104,16.56490275893261,2.7961924188339284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665647:1897022301:0570/pct:30.170756530589166,71.68111507734149,12.427909080628746,2.099269080401156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ his friend again?
 &quot;My Dear Friend?You must do  
 doubt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898022401:0045/pct:29.24247436321535,13.533747984335406,13.562686073436984,10.423865468785994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_red_ver01:data:sn85025007:00175033774:1898022401:0045/pct:29.24247436321535,13.541426706596022,13.568199360458706,10.420026107655685/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -443,7 +443,7 @@ our personal contiexion; but I never was more than your
 political enemy; and every sentimonl, even of   
 animosity, has, on my part, long ago subsided. Term
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1844120201:0145/pct:23.4504540071062,294.0711462450593,59.79076194236084,11.812100942535725/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347909:1844120201:0145/pct:5.86145648312611,73.50661194710442,14.944740477600158,2.9525763793889648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

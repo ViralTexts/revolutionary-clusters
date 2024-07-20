@@ -41,9 +41,9 @@ der to subvert the Government.’’ — p. 1507.
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1842-08_11_50/page/n29/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1842-08_11_50/page/n29/mode/1up?view=theater)
 
-#### 1842-08-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1842-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -165,7 +165,7 @@ In appointment to office, and continually tempt­
 ed, by this constitutional disqualification, to  
 abuse thorn hi order to subvert tho Govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880012101:0009/pct:85.603838976273,9.572960939081158,12.876566249000266,2.6512851649463673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880012101:0009/pct:85.61716875499867,9.583080348107671,12.876566249000266,2.6512851649463673/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ to it with the hope of bringing it nearer to
 his views by the mode of its administration.  
 Hence he commenced as a member o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883083001:0141/pct:26.845891707686484,77.21574988939685,10.961756910261265,5.19097478248046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896453:1883083001:0141/pct:26.84081014575052,77.20436449424949,10.964414158621995,5.193895606015925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

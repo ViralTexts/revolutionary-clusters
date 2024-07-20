@@ -155,7 +155,7 @@ of tendering you assurances of my great
 respect and consideration.  
 TH : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012901:0089/pct:1.7641449459631278,24.06398312532958,22.441195168467896,41.219898048866234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024011:00414216006:1803012901:0089/pct:1.7638646114730654,24.06186835398541,22.442926002436568,41.2192049682163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ Th
 Governor Garrar  
 : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803021101:0028/pct:25.306122448979593,4.9040139616055844,44.46064139941691,90.27923211169285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1803021101:0028/pct:25.298746721072572,4.903158262083406,44.454969396677356,90.26784156342697/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -390,7 +390,7 @@ a copy of my commanication to Congrefs, and
 of tendering you aflurances of my great refpet  
 and confideration.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803021201:0274/pct:7.732732732732733,55.17044154655685,20.045045045045047,27.362159688858384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1803021201:0274/pct:7.745245245245245,55.178067566537024,20.03878878878879,27.36597269884847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -190,7 +190,7 @@ force.&quot;
 In that suit plaintiffs had judgment against  
 Doane and Bossier, for $763 83, with interest an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849060101:0526/pct:99.57298136645963,47.77173913043478,43.20652173913044,6.644021739130435/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_diglett_ver01:data:sn82015378:00295872378:1849060101:0526/pct:33.190993788819874,15.923913043478262,14.402173913043478,2.214673913043478/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ else to remain in full force and virtue in
 law.&quot;  
 A similar marriage bond was required i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022998:1876090401:0356/pct:65.61466372657111,70.96639966711744,19.33572216097023,3.2352023301778843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020713:00296022998:1876090401:0356/pct:49.22122674017918,53.23000104025798,14.500344589937974,2.423801102673463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -393,7 +393,7 @@ his heirs, executors and administrators, shall ?Jg
 and do well and truly pay or cause to be paid  
 unto the above named , (cotton factor.) i.J
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287277:1886102001:0157/pct:83.39014564611094,30.38632986627043,18.903005887821507,6.813839949055402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287277:1886102001:0157/pct:83.39014564611094,30.39340550484681,18.913335399235617,6.813839949055402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

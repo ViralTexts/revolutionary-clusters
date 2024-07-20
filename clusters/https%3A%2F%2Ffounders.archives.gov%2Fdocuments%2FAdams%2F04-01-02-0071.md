@@ -77,7 +77,7 @@ which the regard of their own private
 interest would never have betrayed  
 them. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801071401:0531/pct:23.890784982935152,58.47224946067856,16.521874030406455,4.7950578544812705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801071401:0531/pct:23.890784982935152,58.47878669020069,16.521874030406455,4.788520624959142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -95,7 +95,7 @@ who openly avowed that “ he had rather be
 the first man in a village than the second one  
 in Rome,” should hesitate in acting up t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805091101:0696/pct:26.70299727520436,52.89243027888446,21.154322516720338,2.8207171314741037/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805091101:0696/pct:26.69638434868747,52.884002549394516,21.155274888558694,2.8242511153601018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -117,7 +117,7 @@ interest would never have betrayed
   
 mem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807070201:0138/pct:37.69335142469471,33.91965771333492,26.485753052917232,8.842405514618493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807070201:0138/pct:37.683125339121,33.911596958174904,26.487610779526136,8.848225602027883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -177,7 +177,7 @@ hearts of virtuous persons, to which the
 regard of their own private interest  
 would never have betrayed them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813022601:0488/pct:11.872069658405895,27.345651194231635,19.02210314802411,4.389364578639027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813022601:0488/pct:11.870082035827892,27.343186733958184,19.024499134996372,4.391973083393415/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ The post goes on to Stleniate the Eitor&#x27;s ineh­
 nation, when admitted to strum it at the tables of  
 the rich who are not very choice in their company
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842110301:1148/pct:135.63346613545818,4.949911608721273,79.7609561752988,280.49499116087213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842110301:1148/pct:45.20395156150414,1.6497761018147536,26.58274909708944,93.48731243616938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -486,7 +486,7 @@ And study of revenge, immortal hate,
 And courage never to submit or yield.  
 And what is else, not to be overcome,&quot; &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1844112001:0190/pct:30.67750677506775,68.34117144078667,18.739837398373982,4.050876442924326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1844112001:0190/pct:23.011248136603875,51.26122274476272,14.06694674075078,3.035485250106883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ Ami courage never to submit or yield,
 That glory never shall li s wrath or might  
 KlUiri Own me. To bow and ?Ue fur ginr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844120701:0645/pct:58.134006834051405,59.96318899544706,13.801812509285396,3.7392230940618036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844120701:0645/pct:58.13895904521369,59.96641803093416,13.811716931609963,3.745681165036004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ breed passions in the hearts of virtuous per
 sons, to which the regard of their own private  
 interests would never have betrayed them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1854081601:0647/pct:73.08286155429748,75.50091956248185,16.1219763252702,4.220307811441293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_black_ver02:data:sn84026561:00415667802:1854081601:0647/pct:54.819199588212584,56.62568967186139,12.096255308197144,3.174910463653083/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -760,7 +760,7 @@ In his personal attributes he is still invested wit
 nation &quot;never to submit or yield, and what is else  
 not to be overcome.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1855091501:0131/pct:274.9708057609965,58.84680610514415,59.88711560918645,4.027699265121537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347983:1855091501:0131/pct:68.72932477135629,14.709622721492158,14.96886553804242,1.006782534972446/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -785,7 +785,7 @@ All crimes shall cease and ancient fraud shall
 fail,  
 Returning Justice lift aloft her scale
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215944:1856010101:0386/pct:4.765718862635162,19.865148988617413,13.045654785742892,5.568041760313203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_drive_ver01:data:sn85025007:00414215944:1856010101:0386/pct:4.765241765942537,19.86370885892417,13.047685787699804,5.570054613116814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -806,7 +806,7 @@ And courage never to submit or yield,
 And what is else not to be overcome.&quot;  
 The fact is, we have given the Sham Democrac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856111501:0316/pct:248.71879649528847,160.85358624777712,46.83418746900314,9.89922940130409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:00206530522:1856111501:0316/pct:82.90626549842949,53.617862082592374,15.611395823001047,3.29974313376803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -893,7 +893,7 @@ No more shall nation against nation rise,
 or ardent warriors meet with hateful eyes  
 for fields with glimmering steel be covered o&#x27;er
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472086:1863090501:0385/pct:294.5840312674484,52.09860093271153,87.4930206588498,331.42349544747947/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472086:1863090501:0385/pct:73.66657358279811,13.024650233177882,21.879363306339012,82.85587386186987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -913,7 +913,7 @@ And study o revenge, immortal hate,
 With courage never to submit or yield,  
 And what is else, not to be overcome.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864061601:0250/pct:76.59137577002053,295.6911024062675,56.21149897330596,10.744264129826526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_kings_ver01:data:sn83025813:00415667115:1864061601:0250/pct:19.147843942505133,73.92277560156687,14.05287474332649,2.6860660324566314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -949,7 +949,7 @@ And study of revenge, immortal hate,
 And courage never to submit or yield;  
 And what is else not to be overcome.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171694:1866030801:0232/pct:6.92757534862798,46.1255230125523,13.675213675213675,2.912133891213389/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_hera_ver01:data:sn83021205:00517171694:1866030801:0232/pct:5.380592678675189,35.74733019153444,10.598489250435794,2.265554066323663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1041,7 +1041,7 @@ And courage never to submit or yield
 And what is else not to be overcome.&quot;  
 There are but two ways ia whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026645:1867090601:0367/pct:73.94242068155111,42.79773156899811,12.76439482961222,5.0283553875236295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn83035595:00296026645:1867090601:0367/pct:55.48045841904202,32.098298676748584,9.5797825448134,3.780718336483932/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1062,7 +1062,7 @@ And what is else not to be overcome,­
 That glory never shall his wrath or might  
 Extort from me.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101222:1868061001:0006/pct:51.035386631716904,31.51708337483813,10.144167758846658,3.008267755752565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_jinx_ver01:data:sn84026897:00211101222:1868061001:0006/pct:51.039755351681954,31.523724142510876,10.15290519877676,3.0049473719161934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1455,7 +1455,7 @@ Peace o’er the earth her t live wand extend.
 And white-robed Innocence from Heaven descend.  
 Swift fly the years, and rise the expectant morn
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:0027176960A:1878122801:0605/pct:5.114662960389159,28.48772603293262,12.453092425295344,2.050712193150823/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_florence_ver01:data:sn85040344:0027176960A:1878122801:0605/pct:5.1239286541579805,28.49109337643533,12.453092425295344,2.054079536653534/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1539,7 +1539,7 @@ Returning Justice lift aloft her scale;
 Peace o’er the earth and her olive wand ex- :  
 fend, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624578:1881061101:0059/pct:4.978083907326237,79.14206530907339,13.27489041953663,2.2773828172068926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_fitzgerald_ver01:data:sn83016348:00415624578:1881061101:0059/pct:3.857974765448075,61.34163424124514,10.300064703979295,1.7649805447470817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1701,7 +1701,7 @@ When wars shall cease and ancient fraud shall
 fail  
 Returning justice lift aloft her scal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048431:1891010601:0052/pct:26.409774436090224,29.6279745279857,18.530701754385966,1.7651659032510334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_anderson_ver01:data:sn85058130:175048431:1891010601:0052/pct:17.612033845189597,19.751983018657132,12.362895643998746,1.184225226231706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2024,7 +2024,7 @@ And what is else not to be overcome,”
 fail.  
 Returning Justice lifts aloft her sca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036933:1898110401:0046/pct:3.819046058023275,202.5285571697904,48.221603015899035,3.815016080736387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_universal_ver01:data:sn83030214:00175036933:1898110401:0046/pct:1.273015352674425,67.5095190565968,16.073867671966344,1.2716720269121289/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

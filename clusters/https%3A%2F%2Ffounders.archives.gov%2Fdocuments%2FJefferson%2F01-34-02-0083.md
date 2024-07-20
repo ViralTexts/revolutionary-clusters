@@ -333,7 +333,7 @@ recommendation had been given to the Post­
 master General to employ no printer, foreign­  
 er, or revolutionary tory, in any of his offices.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834061601:0577/pct:23.01132747868143,51.90642021609072,18.187603410971107,4.080721492990445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025007:00414216493:1834061601:0577/pct:23.008399083736318,51.901785714285715,18.18953083905998,4.083333333333333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -395,7 +395,7 @@ ER, or revolutionary tory, in any of his offices.&quot;
 That the character of emigrants to the United States  
 ha#, for some years past, been suffering deterioration
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837081001:0062/pct:2.580971659919028,76.92930695360407,18.893387314439945,3.343746384357283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1837081001:0062/pct:2.580971659919028,76.9331636391685,18.899010346378766,3.347603069921709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -418,7 +418,7 @@ That the character of emigrants to the United
 States has, lor some years past, been suffering  
 deterioration, must be apparent to the most casua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839040601:0366/pct:42.589300145466304,1.5743507239715009,35.946339098108936,93.0820501034245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn86053569:00415661502:1839040601:0366/pct:42.589300145466304,1.582011798054087,35.95711437961317,93.0820501034245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -509,7 +509,7 @@ ter, foreigner or Revolutionary tory, in any
  same eea  
 of His olices
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1856043001:0276/pct:83.10428455941795,335.6228172293364,62.00485044462409,8.731082654249127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1856043001:0276/pct:20.780270871235093,83.9057043073341,15.504346068324237,2.1827706635622817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -534,7 +534,7 @@ good-nature. He would havo mode more
 successes of this kind oven than ho did,  
 but for the inadequate compensation attached t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873072001:0007/pct:1.533380514272234,44.34306569343066,13.069120075489502,4.671532846715328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873072001:0007/pct:1.533380514272234,44.356751824817515,13.069120075489502,4.6760948905109485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -569,7 +569,7 @@ task in a country so extensive as th
 about as making the best possible ap­  
 pointments.&quot; He would not give a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291062:1873081601:0916/pct:6.355357488858749,50.54914500208536,13.912032551831041,1.9602391213679966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291062:1873081601:0916/pct:6.3602015113350125,50.5560962046434,13.916876574307304,1.9567635200889755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

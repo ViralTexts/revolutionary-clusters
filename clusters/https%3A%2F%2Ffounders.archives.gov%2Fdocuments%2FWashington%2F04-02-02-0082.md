@@ -205,7 +205,7 @@ terest, to bind all parts of the Union together,
 Thus, it clearly appears that General Wash­  
 ington entertained no doubts of the power of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:23.998004323964743,59.28492849284928,17.877931149176785,4.818481848184819/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826052901:0412/pct:23.994013967409376,59.27840721592784,17.880501053098325,4.821618450482162/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -226,7 +226,7 @@ Middle States.’
 Thus it appears, that General Washington  
 entertained no donbti of the power of the N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826061501:0101/pct:23.383506465974136,62.24562402163085,17.065931736273054,3.8992457663298703/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348926:1826061501:0101/pct:23.37855023314964,62.2367672168469,17.06761339550657,3.9022481502561184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ without considering, perhaps, the difficul­
 ties of the voyage back again, and the time  
 necessary to erfcrm it in. &quot; - 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845091801:0375/pct:69.36619718309859,102.99866725899601,19.108884073672805,9.684584629053754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845091801:0375/pct:52.03846674793444,77.25455353176366,14.330218068535826,7.263438471790315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ nexions with both or either of those powers,
   
 in a commercial way.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845091801:0375/pct:69.50162513542796,112.68325188804975,19.352654387865655,13.060861839182586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877947:1845091801:0375/pct:52.13327915481511,84.51799200355397,14.51984288229717,9.79564637938694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ in their way, as they now doy should hold out lures Jor thei.
 trade and siUiaac* ? When tWy get strength, which will bi  
 sooner than most people conceive, irkat will be the t&#x27;ons
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852041701:0165/pct:33.80262249827467,2.8016071234661744,31.538992408557625,93.94071017482896/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852041701:0165/pct:33.80262249827467,2.808846418358852,31.5527950310559,93.93709052738264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ having formed close connexion* with both or erther of tk??*e
 Powers, in ?i commercial imy.&#x27; It needs not, in my opinion,  
 the gift of prophecy to foretelL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852041701:0165/pct:49.620427881297445,10.500597241828645,15.721187025534851,7.8835921381257466/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852041701:0165/pct:49.620427881297445,10.507836536721323,15.721187025534851,7.8835921381257466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -611,7 +611,7 @@ tlored that the tide waters of the State are nearer to it by one
 hundred and sixty miles than those of the river St. Lawrence,  
 or than those of the Hudson at Albany by 176 miles
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:24.820888393567902,23.92037786774629,47.93822639707053,18.46603688708952/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:8.273629464522635,7.973459289248763,15.97940879902351,6.155345629029839/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -642,7 +642,7 @@ und A ontreal; that a cuffic ent spirit of commerce dees no
 pervad the citizens of this Commonwealth, and that we are,  
 in fact, doing for others what they ought to do for themselves
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:25.21891418563923,42.73504273504273,49.43480337525872,16.587944219523166/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:8.40630472854641,14.245014245014245,16.478267791752906,5.529314739841055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -664,7 +664,7 @@ are disposed to avail ourselves of them, a large portion of the
 trade of the Western country in the bosom of this State irre  
 vecably
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:24.406941569813725,68.37606837606837,46.4575704505652,8.052181736392262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743269:1857080401:0806/pct:8.135647189937908,22.79202279202279,15.485856816855065,2.6840605787974208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -869,7 +869,7 @@ that we are, in fact, doing for others what they ought to do themselves.,” * o
 applying the cement of interest to bind all  
 parts of the Union together,-especially of unit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:00280777961:1860041301:0357/pct:82.1531901933912,115.36830948595654,38.708694990102025,2.405935347111818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_indy_ver01:data:sn84024738:00280777961:1860041301:0357/pct:27.384396731130398,38.45610316198552,12.902898330034008,0.8019784490372726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -896,7 +896,7 @@ Washington said in his letter to Governor Harri­
 son, of applying the cement of interest to bind all  
 parts of the Union together, especially of unitin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860041601:0858/pct:266.5073675826364,171.07137665358337,60.314615690959776,28.041866550370692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:0039334801A:1860041601:0858/pct:66.61357754330082,42.76162790697674,15.075652000796337,7.009447674418604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1022,7 +1022,7 @@ western world. That New York will do
 the same, no person who knows the tem­  
 per, -genius, and policy of these peopl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861022101:0012/pct:42.819478908188586,69.56470028544244,20.037220843672458,12.381065651760228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861022101:0012/pct:32.13343677269201,52.17649857278782,15.034910783553142,9.288772597526165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1052,7 +1052,7 @@ others, and the importance of being upon
 an equal footing with our neighbors.&#x27;&#x27;  
 Time developed&#x27; this predicted rivalr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861022101:0012/pct:42.648883374689824,81.93387250237869,20.238833746898262,13.332540437678402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85054845:00212477667:1861022101:0012/pct:32.00930954228084,61.45337773549001,15.190069821567107,10.002378686964795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1124,7 +1124,7 @@ tensive country back of us would be by one of
 the rivers of this State, which have their  
 sources in the Apalachian Mountains.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528700:1868112901:0513/pct:44.64151510596723,120.80026824633956,33.62392905456185,19.48139041019336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528700:1868112901:0513/pct:14.880505035322411,40.26675608211318,11.207976351520617,6.493796803397787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1143,7 +1143,7 @@ Union together by indissoluble bonds- especially of
 inding that part of it which lies immediately west  
 of us to the Middle States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530923:1869072401:0616/pct:199.8611325412745,283.3241728042212,46.96806048449314,7.024293723205452/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530923:1869072401:0616/pct:66.62037751375817,94.4413909347404,15.656020161497711,2.3414312410684843/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1214,7 +1214,7 @@ and then see what an infinx of articles will
 be poured in upon us; how amazingly our  
 exports will be increased
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870031001:0241/pct:101.14503816793894,164.91351923755735,44.274809160305345,32.192022590893046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_klm_ver01:data:sn86053572:0023728902A:1870031001:0241/pct:25.286259541984734,41.22837980938934,11.068702290076336,8.048005647723262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1240,7 +1240,7 @@ back again, and the same necessary to perform it:
 and because they had no other means of coming to  
 us but by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871122801:0868/pct:201.426697277796,89.4022692712598,48.524106264348966,20.08422037665224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531095:1871122801:0868/pct:67.142232425932,29.800756423753267,16.174702088116323,6.694740125550747/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

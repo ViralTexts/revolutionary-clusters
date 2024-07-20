@@ -32,7 +32,7 @@ The grandso
  seved they will be borne, resistance becomes  
 morality.THOMAS JEFyERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022801:0774/pct:2.639751552795031,96.65202242084533,65.13975155279503,6.3020754431146795/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042982:1898022801:0774/pct:0.6601941747572816,24.163005605211332,16.29126213592233,1.5755188607786699/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -50,7 +50,7 @@ it is believed they will he borne, re­
 sistance becomes morality.?Thomus  
 Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898030501:0216/pct:5.467372134038801,27.18433670751199,17.852243778169704,3.090037293553543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_manhattan_ver01:data:sn84020355:00279554875:1898030501:0216/pct:5.472271213011954,27.18433670751199,17.86204193611601,3.1000266382525306/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -68,7 +68,7 @@ Where wrongs are pressed be­
 borne, resistance becomes moral­  
 ity—Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513687989:1898030601:0141/pct:30.942275042444823,57.074677147669846,13.221561969439728,2.526670409882089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_eclipse_ver01:data:sn86090500:00513687989:1898030601:0141/pct:30.949349179400112,57.074677147669846,13.22863610639502,2.540707467714767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ it is believed they will be borne, re-­
 sistance becomes morality. Thomas  
 Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1898031101:0251/pct:73.32176929748482,135.11723407073785,48.360797918473544,9.206517419525765/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1898031101:0251/pct:18.330442324371205,33.77930851768446,12.090199479618386,2.3016293548814413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -151,7 +151,7 @@ Where wrongs are pressed boenuse it is
 believed they will be borne resistance be­  
 comes morality.—Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898032401:0256/pct:76.80451701510758,84.75994180407372,9.751258965359378,1.139670223084384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_furio_ver01:data:sn87068079:00332896507:1898032401:0256/pct:76.79279829111992,84.74966662625773,9.75358559658224,1.1425627348769547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ Where wrongs are pressed because it
 is believed they will be borne, resist­  
 ance becomes morality. • * •
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898041001:0504/pct:19.903567984570877,18.402676752982252,11.108968177434908,1.7457084666860634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn85042461:00280769782:1898041001:0504/pct:19.908389585342334,18.402676752982252,11.113789778206364,1.752982251963922/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ Where wrongs are pressed because it is
 believed they will be borne resistance be­  
 comes morality. Thomas Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1898041401:0518/pct:51.908396946564885,96.08690285149981,14.401056958308867,3.4810517220096284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_frankenbatch_ver01:data:sn92073232:00295879737:1898041401:0518/pct:38.94845058011455,72.06517713862486,10.809223087090615,2.616960869028515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

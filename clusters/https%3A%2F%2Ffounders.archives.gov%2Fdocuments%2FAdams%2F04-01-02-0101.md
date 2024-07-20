@@ -237,7 +237,7 @@ pened with prayer. It was opposed by
 Mr. Jay of New York, and Mr. Rutledge  
 of South Carolina, because we were so di
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841120201:1288/pct:5.451295799821269,202.81359906213365,58.35567470956211,16.471277842907387/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841120201:1288/pct:1.3628239499553172,50.70339976553341,14.588918677390527,4.117819460726847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -262,7 +262,7 @@ brayers in the ostublished form, and then
 read the collect for the seventh day of Sepe en o ee to oer e eor  
 tember, which was the thirty-fifth Psalm. you fasten upon the vitals of our govern
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841120201:1288/pct:5.987488829311886,264.2438452520516,119.83914209115281,14.185228604923799/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1841120201:1288/pct:1.4968722073279714,66.0609613130129,29.959785522788202,3.5463071512309496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -440,7 +440,7 @@ any in the sortes Virgiliaim?, or sortes Homori­
 , thought providential.”  
 Here was a scone worthy of the painter’s art
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843071801:0677/pct:63.332008742300815,18.360191490796304,15.33876415656666,23.471107814712425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843071801:0677/pct:63.32571769146717,18.358953613807984,15.340551637363001,23.471772743617404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -459,7 +459,7 @@ households. It was believed that Boston had
 j province of Massachusetts Bay, and especially  
 . for the tnwn of Boston:” and w&#x27;ho can realiz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843071801:0677/pct:63.332008742300815,48.027779650731574,15.299026425591098,2.4475760231946597/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215725:1843071801:0677/pct:63.32571769146717,48.02454153182308,15.300817853713454,2.449658396260338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ commences­
 &quot;Plead my cause O Lord, with them that strive  
 with me; fight against them that fight against me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843071801:0568/pct:197.15900172657354,30.107913669064747,44.749646837231204,75.26378896882494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_dawson_ver01:data:sn84038585:00414186439:1843071801:0568/pct:65.70935342121783,10.034768013427646,14.91420799330404,25.08492187187787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ sortes Homerice, or especially the sortes Bibli­
 ca, it would be thought providential.&quot;  
 Here was a scene worthy of the painter&#x27;s ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843072201:0623/pct:74.5275888133031,40.40172166427546,60.090702947845806,131.87948350071736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843072201:0623/pct:18.635418635418635,10.100430416068866,15.025515025515025,32.96987087517934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -668,7 +668,7 @@ for the province of Massachusetts Bay, and es
   
 pecially for the town of Boston;&quot; and who can
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843072201:0623/pct:76.56840513983371,213.88809182209468,58.1254724111867,7.804878048780488/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn85054702:00280776002:1843072201:0623/pct:19.145719145719145,53.47202295552367,14.534114534114535,1.951219512195122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1107,7 +1107,7 @@ or especially the s:&#x27;u.s Biblicas, it would be
 thought providen&#x27;i il.&quot;  
 Here was a sc ne worthy of the painter&#x27;s art
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843080201:0551/pct:85.23230088495575,40.00671817265704,19.99446902654867,37.02832829470384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00202197978:1843080201:0551/pct:63.93306596597981,30.007837868099877,15.00484027105518,27.76844698242078/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1174,7 +1174,7 @@ Virgilians, or sortes Homerica, or es.
 pecially the sortes Biblice, it would   
 thought providential.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1843080201:0515/pct:331.8032786885246,266.0998267989293,53.278688524590166,119.54022988505747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hortonia_ver01:data:sn84023647:00280777778:1843080201:0515/pct:82.95081967213115,66.52495669973233,13.319672131147541,29.885057471264368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1245,7 +1245,7 @@ thought providential.’
 ffere was a scene worthy of the pain­  
 er’sart. It was in Carpenter’s flail
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1843080301:0188/pct:22.747952684258415,29.536987759446514,14.231119199272065,33.32889835018627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1843080301:0188/pct:22.74381368267831,29.533058400957827,14.234594856865598,33.32889894018004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1264,7 +1264,7 @@ ca, for the congress, for the province of
 Massachusetts Bay, and especially for  
 the town of Boston:’ and who can real
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1843080301:0188/pct:22.893539581437672,71.64715274081958,13.885350318471337,2.7541245343267695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_klepper_ver02:data:sn95079484:00393348392:1843080301:0188/pct:22.889374090247454,71.63762139151257,13.88888888888889,2.758192541350716/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1337,7 +1337,7 @@ the times. Il commences: &#x27; 1
 strive with me : fight against them that figliC  
 against me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1843080401:0127/pct:104.8170731707317,22.19898416492381,20.914634146341463,45.159844636988346/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_danby_ver01:data:sn98060050:0028077733A:1843080401:0127/pct:78.66585316249746,16.656707499253063,15.700630465731138,33.86614878996116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1412,7 +1412,7 @@ faith in the sortes Virgiliais, or sortes
 Homoriem, or especiafly the sortes Biblice,  
 it would be thought proverbial.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1843080501:0553/pct:49.09841075794621,15.93070652173913,38.27933985330073,92.2554347826087/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1843080501:0553/pct:16.366136919315405,5.310235507246377,12.759779951100244,30.7518115942029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1429,7 +1429,7 @@ it would be thought proverbial.
 of Massachusetts Bay, and especially for  
 the town of Boston?&quot; and who can fealiz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1843080501:0553/pct:51.94070904645477,138.3491847826087,36.12469437652812,4.585597826086956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_arbok_ver04:data:sn82003383:00295874442:1843080501:0553/pct:17.313569682151588,46.116394927536234,12.04156479217604,1.528532608695652/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1986,7 +1986,7 @@ tin series Virgilllalirir, or fortes llonu riur. cr especially
 the suites Hilda a-, it vvtuhl be lliought providential.&quot;  
 Ileie was a scene worthy of the painter&#x27;s art I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661320:1843081801:0169/pct:82.79457768508864,51.22043758694827,17.48348974626347,20.892879726824333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661320:1843081801:0169/pct:82.79457768508864,51.228868934699214,17.495075889236475,20.892879726824333/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2115,7 +2115,7 @@ beg you to read that psalm. Il there is any faith in H
 the sui tes Virgilliancee, or sortes Homcricoa, or es- H  
 pecially the sortes Biblica.*, il would be thought pro- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1843082101:0105/pct:79.64295997696516,51.00804345555208,15.922833285344083,19.5236602945785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82015015:00415661319:1843082101:0105/pct:79.64295997696516,51.00804345555208,15.942028985507246,19.534106340750025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2352,7 +2352,7 @@ blicac, it would have been thought provi­
 dentiai.Here was a scene worthy of the painter&#x27;s  
 art! It was in Carpenters Hall Philadclphi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877935:1843083001:0647/pct:88.54848304580607,59.87734402641821,20.24092801903629,42.32810472933129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_goldenharvest_ver01:data:sn83016785:00295877935:1843083001:0647/pct:66.43855995239512,44.91095648071707,15.188931865516215,31.749027007901876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2453,7 +2453,7 @@ above picture present. Ths 44 members of
 the First Congress, in their Hall, all bent  
 before the mercy seat and asking
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1843083101:0715/pct:40.69870939029818,13.865546218487395,17.623497997329775,37.80063749637786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182951:1843083101:0715/pct:40.689655172413794,13.863537592351152,17.625139043381534,37.798783137766186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3041,7 +3041,7 @@ is any saith in the Sortes Virgiliance, or Sor­
 tes Homericæ, or especially the Sortes Bibli­  
 ce, it would be thought providential.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847113001:0417/pct:167.5968992248062,46.95678181546284,110.23255813953489,344.48930761178406/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847113001:0417/pct:41.89922480620155,11.73919545386571,27.558139534883722,86.12232690294601/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3060,7 +3060,7 @@ ica, for the Congress, for the Province of
 Massachusetts Bay, and especially for the  
 town of Boston;&quot; and who can realize the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847113001:0417/pct:223.87596899224806,118.13967399431733,53.25581395348837,10.34843726633767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1847113001:0417/pct:55.968992248062015,29.534918498579334,13.313953488372093,2.5871093165844177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3639,7 +3639,7 @@ upon everbody there. I must beg you to
  e e te thare te au alt in the  
 read the psalm. If there is any faith in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1848070101:0669/pct:330.3623188405797,279.3374508702976,54.63768115942029,72.0943290286356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776014:1848070101:0669/pct:82.60554448269615,69.8343627175744,13.661895270882406,18.0235822571589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3739,7 +3739,7 @@ row morning.&quot; The motion was seconded
   
 man present. I must conless I nev
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529194:1848091401:0217/pct:239.07153729071538,47.255584240655516,43.83561643835616,74.80076327309462/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_flareon_ver02:data:sn82014073:00279529194:1848091401:0217/pct:79.69051243023846,15.75186141355184,14.61187214611872,24.93358775769821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3817,7 +3817,7 @@ especially the town of Posto&#x27;n.
 It had excellent effect upon ev­  
 erybody here. Jf there is an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn92058841:00280779659:1848092301:0063/pct:74.89694971145919,17.90452951044685,18.734542456718877,63.91642519444868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn92058841:00280779659:1848092301:0063/pct:56.19459905174191,13.43602257129785,14.058956916099774,47.93350617660516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3918,7 +3918,7 @@ any faith in the sortes Yirgilianap. or Homerictr
 or especially the sorter Bib hear, it would have!  
 been thought providential.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848101101:0254/pct:3.454198473282443,29.70499190311906,13.01526717557252,21.537703302119272/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848101101:0254/pct:3.453868905638775,29.702900591382708,13.017205737366027,21.53853374636253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3935,7 +3935,7 @@ been thought providential.
 vince of Massachusetts Bay, and especially for  
 the town of Boston:&quot; and who can realize tlo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848101101:0254/pct:3.3587786259541983,57.10765331268042,13.034351145038167,1.2814194184327254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215816:1848101101:0254/pct:3.358458162389085,57.10363277949873,13.036287886015966,1.283675959823524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4080,7 +4080,7 @@ excellent effect upon everybody here. I must
 beg you to read the psalm. It there is any  
 faith in the sortes Yarmiana, or Homerics, of ca
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848101501:0449/pct:60.63486948114728,138.08759458839717,55.12407347728005,56.982343499197434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271742988:1848101501:0449/pct:20.211623160382427,46.029198196132384,18.374691159093352,18.994114499732476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4143,7 +4143,7 @@ especially the sortes Biblicae, it would have
 been thought providential,&quot;  
 Here was a scene worthy of the painter&#x27;s ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1848102501:0185/pct:66.93202694427434,8.599376545200473,32.94549908144519,87.38041491991831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_albinoskunk_ver02:data:sn85042796:00295863080:1848102501:0185/pct:66.93202694427434,8.606542692321474,32.94549908144519,87.38041491991831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4214,7 +4214,7 @@ Virgilianas, or llomericae, or especially
 the sortes Biblicae, it would have been  
 thought providential.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1848102801:0176/pct:24.347584675180457,20.23545091070635,19.69739033870072,39.471346068414036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_jefferson_ver02:data:sn84020750:00415667279:1848102801:0176/pct:18.27523955006249,15.182141270546424,14.775725593667547,29.59795646379387/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4299,7 +4299,7 @@ any faith in the sort Virgilianic, or Homeri­
 acao, or especially the sorts Bibliccc, it would  
 have been thought providential.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624244:1848110201:0222/pct:64.83408323959505,58.19968960165546,14.496625421822273,30.65700982928091/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624244:1848110201:0222/pct:64.83408323959505,58.20313847215037,14.505999250093739,30.663907570270737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4317,7 +4317,7 @@ America, for the Congress, for the province
 of Massachusetts Bay, and especially for the  
 town of Boston;” and who can realize th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624244:1848110201:0222/pct:79.51349831271091,19.43093636833937,14.032620922384702,2.3279875840662183/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_elsberg_ver02:data:sn89060060:00415624244:1848110201:0222/pct:79.51349831271091,19.437834109329195,14.041994750656167,2.331436454561131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4367,7 +4367,7 @@ Massachusetts Bay, especially toe town of Bos&#x27;on. It had
 , excellent cffect upon e?ery body here. I must l&gt;eg you lo  
 read tbe paalm. I there is any faith in the sortes Virgilioni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848110401:0379/pct:49.50281020319931,66.09369733737782,15.83801700533218,22.267160993146838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661587:1848110401:0379/pct:49.512417735504634,66.09369733737782,15.833213239179516,22.27465078830094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4440,7 +4440,7 @@ prayer, which filled the bosom of every man
 present. I must confess that I never heard  
 a better prayer, or one so well pronounced.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848110401:0294/pct:37.845659163987136,53.906516547253496,17.15434083601286,28.090526555214375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848110401:0294/pct:28.401415246059827,40.429887410440124,12.86587327114828,21.07358125781872/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4473,7 +4473,7 @@ sortes Biblic?, it would have been thought
   
 providential.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848110401:0294/pct:37.958199356913184,82.8499943136586,17.186495176848876,7.73342431479586/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848110401:0294/pct:28.481826954004504,62.140338905947914,12.89803795432615,5.800068236096895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4580,7 +4580,7 @@ man present. I must ennfess I never heaed
   
 a better prayer, or tine so well pronoune.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848110801:1149/pct:65.73208722741433,93.01204819277109,235.4361370716511,92.53012048192771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848110801:1149/pct:16.436222005842257,23.253012048192772,58.87049659201558,23.132530120481928/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4604,7 +4604,7 @@ for the seventh day of September, which doubt my sistemem?&quot;
 is the 35th Psalm. You must remember0h, neher my god fellow, repi  
 this was the cext morning sfier wethadfed the other, hursting with Lughter; abu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848110801:1149/pct:244.78193146417445,64.14993306559572,116.04361370716511,18.741633199464523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1848110801:1149/pct:61.207400194741965,16.03748326639893,29.016553067185978,4.685408299866131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4735,7 +4735,7 @@ or especially the sortes Biblicue, it would have been
 thought Providential.&quot;  
 Here was a scene worthy of the Painter&#x27;s art. It wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848110901:0116/pct:210.47601543833855,33.90206686086836,61.036574159161916,76.58482452489943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848110901:0116/pct:52.60933480338111,8.474341192787795,15.256339581036384,19.143550624133148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4752,7 +4752,7 @@ bombe rded and destroyed. They prayed ferveatly &quot;for
 America; for the Congress, for the province of Massachu  
 setts Bay, and especially for the town of Boston;&quot; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848110901:0116/pct:210.99062672302887,128.1176307393536,60.521962874471605,6.4502704952143155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347922:1848110901:0116/pct:52.737963983829474,32.0249653259362,15.127710400588018,1.6123439667128987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4808,7 +4808,7 @@ the sortes Biblic?, it would have been thought provideu
 tial.&quot;  
 Here was a scene worthy of the painter&#x27;s art. Ft wa- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848111101:1123/pct:51.65520550135935,37.48419721871049,20.853990084759314,18.761061946902654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848111101:1123/pct:51.65520550135935,37.48419721871049,20.864651633882403,18.77370417193426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4928,7 +4928,7 @@ Presbyterians, and some Congregational.
   
 ists, that we could not join in the same act
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1848111701:0178/pct:6.288751107174491,18.560662036352888,60.93888396811337,25.71301906310034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1848111701:0178/pct:1.5728843597696056,4.640165509088222,15.241470979175897,6.428254765775085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4990,7 +4990,7 @@ cellent effect upon every body here. I slow returns of agriculture, a reconsider
 must beg you to read the Psalm. If theretions which render it impossible to doubt  
 is any faith in the sortes Firgilian ora oter oe tan ta i 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1848111701:0178/pct:6.465899025686448,58.16462243239249,182.72807794508415,78.38037535096794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1848111701:0178/pct:1.6171909614532565,14.541155608098123,45.702259636685866,19.595093837741985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5165,7 +5165,7 @@ was the master of the kings of Europe, as every body, struck out into extemporar
 five or six city merchants are the masters prayer, which filled the bosom of every man  
 of India.present. I must confess I never heard 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1849032301:0329/pct:278.56592135697764,296.0311733294848,104.70316114109484,24.18819454466734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1849032301:0329/pct:69.6817743490839,74.0077933323712,26.19093539054966,6.047048636166835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5207,7 +5207,7 @@ otir
 and received  
 for answer, that if his health would permi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1849032301:0329/pct:330.60909791827294,243.55606869678164,52.8141865844256,48.78048780487805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bibliography_ver01:data:sn84038582:00212472049:1849032301:0329/pct:82.70009643201543,60.88901717419541,13.211186113789779,12.195121951219512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5258,7 +5258,7 @@ dent, waited 011 Mr D. mid received for
   
 EALERS in staple and Fancy Gro- answer, that if his health would pe&#x27;rmit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849032901:0058/pct:3.7005286469495644,31.286298128629813,25.975139305615087,14.422456442245645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849032901:0058/pct:3.7052912320807736,31.286298128629813,25.975139305615087,14.436796443679645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5291,7 +5291,7 @@ a,ter we
 TMri streets. Burlington, May S2 »48 ade of Boston. It seemed as if Heaven  
 If. iYfaill&#x27;O, bad ordained that Psalm to be read on tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849032901:0058/pct:3.7719674239177023,44.611744461174446,26.060865837976852,5.409765540976554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849032901:0058/pct:3.7767300090489115,44.611744461174446,26.070391008239273,5.424105542410555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5314,7 +5314,7 @@ man
   
 ri^ENDERS his professional services to theciti- heard a better prayer, or one so well pro- 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849032901:0058/pct:3.714816402343192,45.741019574101955,25.932276039434203,7.582275758227576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849032901:0058/pct:3.7243415726056104,45.74818957481896,25.932276039434203,7.575105757510576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5346,7 +5346,7 @@ faith in the sortes Virgiliann or Homeri­
 cae, or especially the sortes Biblicse, it  
 would have been thought providential.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849032901:0058/pct:16.730961565937992,48.42976984297698,13.0161451635948,11.518606151860615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849032901:0058/pct:16.74048673620041,48.436939843693985,13.01138257846359,11.518606151860615/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5416,7 +5416,7 @@ Psalm. If there is any faith in the Sortes Virgili­
 an®, or Sortes Homerice, or especially the Sortes  
 Biblicz, it would be thought providential.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1849061201:0515/pct:79.71753057658707,31.706795077581596,14.443797320908562,21.990369181380416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1849061201:0515/pct:79.72723742962532,31.713929017299805,14.443797320908562,21.990369181380416/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5434,7 +5434,7 @@ stroyed. They prayed fervently “for America, for
 the Congress, for the Province of Massachusetts  
 Bay, and especially for the town of Boston.” An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1849061201:0515/pct:79.71753057658707,60.01070090957732,14.327315084449621,1.9689673622257893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn84023141:00517015222:1849061201:0515/pct:79.72723742962532,60.01070090957732,14.332168510968744,1.9689673622257893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5551,7 +5551,7 @@ Congress, for tha province of Massachusetts Bay, and
 especially for tha town of Boaton. it had an excellent  
 effect upon everybody here.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854010101:0009/pct:1.4869281045751634,32.71384928716904,15.735294117647058,8.910386965376782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854010101:0009/pct:1.4923747276688453,32.72233536999321,15.746187363834423,8.914630006788867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5621,7 +5621,7 @@ Homericte, or especially the Sortes Bib­
 [ licie, it would have boon thought prov­  
 idential.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1854061001:0485/pct:56.353305785123965,28.910639840493022,14.28202479338843,34.14899401848831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn86092163:00202192464:1854061001:0485/pct:56.353305785123965,28.924234185245606,14.301394628099173,34.14899401848831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5813,7 +5813,7 @@ If there is any faith in the Sortes Vigilianse
 or sortes Homericse, or especially the sortes’  
 Biblicte, it would bo thought providential.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151374:1861090501:0669/pct:50.42378968539003,49.86449864498645,11.392041373365895,19.11111111111111/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85033123:00514151374:1861090501:0669/pct:50.42857826940573,49.86449864498645,11.401618541397308,19.11833785004517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6066,7 +6066,7 @@ it would have been thought providential.&quot;
 Here was a scene worthy of the painter&#x27;s  
 art. It was in Carpenters&#x27; Hall in Phila
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1875073001:0670/pct:202.47204237786934,138.3744526327032,45.90935844614479,111.50272348606217/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1875073001:0670/pct:50.625459896983074,34.5936131581758,11.479028697571744,27.87568087151554/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6083,7 +6083,7 @@ vently for America, for the Congress, for
 the Province of Massachusetts Bay, and  
 especially for the town of Boston,&quot; and wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1875073001:0670/pct:202.82519128899352,274.8691658656414,44.90876986462625,6.151874399231016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_deike_ver01:data:sn84026403:00280776051:1875073001:0670/pct:50.71376011773363,68.71729146641034,11.228844738778514,1.537968599807754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6130,7 +6130,7 @@ better prayer, or one so well pronouncod. Episeopt
 as hie is, Lir. Cooper hunself never praved with sich  
 such ardor, such ear
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875123101:0720/pct:54.351342607570366,46.4322178105502,48.83532837269492,36.971072036301756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_inform_ver01:data:sn83030214:0020653123A:1875123101:0720/pct:18.117114202523457,15.477405936850067,16.278442790898307,12.323690678767253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6180,7 +6180,7 @@ broke into an extemporaneous prayer,
 which brought tears into the eyes of  
 every man present, aud made the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472578:1876042001:0063/pct:83.16307226636398,24.195913579039985,10.568798082986506,7.273438263759898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472578:1876042001:0063/pct:76.92876030486856,22.38131122833459,9.779903561984757,6.727957799547852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6208,7 +6208,7 @@ niau present, and made them oue by
 an electric sympathy. Urtarlea Tcoinp­  
 son afterward related that a Profoun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020606:1876042901:0071/pct:101.89204229271007,19.747852281602142,13.10517529215359,7.798728104429321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn88061082:00296020606:1876042901:0071/pct:76.42966467232503,14.816467700546692,9.837206066508974,5.846256833649448/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6237,7 +6237,7 @@ Thompson afterward related that a
 profound silence ensued after the  
 prayer, so deep was the sense of re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1876050401:0639/pct:170.66515065378056,263.93817350604115,35.986355884025016,21.900511592467616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775137:1876050401:0639/pct:42.67841910719363,65.98454337651029,8.999147000284333,5.475127898116904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6263,7 +6263,7 @@ Duche broke into an extemporaneous
 prayer, which brought tears into the  
 eyes of every man present, and mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876050501:0088/pct:81.79965055329062,32.77842907385698,14.458357600465929,7.245017584994138/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_animals_ver01:data:sn84027718:00271763827:1876050501:0088/pct:61.383831026948286,24.58382180539273,10.852148579752367,5.439624853458382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6289,7 +6289,7 @@ broke into an extemporaneous prayer,
 which brought tears into the eyes of  
 every man present, and made them on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1876050501:0929/pct:32.17307692307692,21.473014035595426,16.26923076923077,10.143249891477355/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628481:1876050501:0929/pct:24.139257549528754,16.10476052669657,12.213887286016542,7.611054840109969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6388,7 +6388,7 @@ Psalm. If there was any faith in the
 Sortes Biblice, it would be thought  
 providential.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775447:1876051801:0214/pct:37.69128409846973,24.175110418290465,14.886892880904856,34.59340088334633/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775447:1876051801:0214/pct:28.28148394609882,18.134580410496234,11.162868075195474,25.94180306573136/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6414,7 +6414,7 @@ Duche broke into an extemporaneous
 prayer, which brought tears into the  
 eyes of every man present, and mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85026954:0041562010A:1876051801:0094/pct:70.30922431865828,22.048482605477425,13.338574423480084,6.587712805329386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn85026954:0041562010A:1876051801:0094/pct:70.30922431865828,22.0546508758944,13.35167714884696,6.587712805329386/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6440,7 +6440,7 @@ Duche broke inti an extemporaneous
 prayer, which brought tears into the  
 ■eyes of every man present, and mad
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:0027176876A:1876052401:0367/pct:4.526425954997384,57.11811884797667,14.403453689167975,6.3707619394823185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_carrie_ver01:data:sn85033295:0027176876A:1876052401:0367/pct:4.530786673643816,57.124194920403454,14.403453689167975,6.37379997569571/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6467,7 +6467,7 @@ of every man present, and made them one by
 one an electric sympathy. Charles Thomy.  
 son afterwards related that a profound silenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1876070101:0337/pct:164.72491909385113,178.6829836829837,37.98330778402317,21.748251748251747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1876070101:0337/pct:54.90830636461705,59.56099456099456,12.661102594674388,7.24941724941725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6555,7 +6555,7 @@ I must beg you to read that Psalm. If
 there was any faith in the Sortes Bibli­  
 cse, it would be thought Providential
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291074:1876070101:0292/pct:7.598656591099916,44.31472081218274,12.524489224741114,38.07106598984772/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_juno_ver02:data:sn84022770:00200291074:1876070101:0292/pct:7.602155051777218,44.31725888324873,12.531486146095718,38.0736040609137/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6630,7 +6630,7 @@ ery man present, nnd made them one
 by an electric sympathy. Charles Thom­  
 son afterward related that a profoun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290963:1876070801:0144/pct:19.762654395737467,12.132231404958677,15.790748365221603,8.066115702479339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_duwamish_ver01:data:sn87093109:00200290963:1876070801:0144/pct:19.76870913054008,12.144628099173554,15.814967304432066,8.061983471074381/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6871,7 +6871,7 @@ ance, or ffornerica, or especially the
 Sortes Bibliece, it would have been thought prov­  
 idential
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:0028076811A:1878070401:0018/pct:31.38586956521739,73.17244846656611,11.888586956521738,18.431372549019606/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:0028076811A:1878070401:0018/pct:31.394927536231883,73.17915200268142,11.893115942028986,18.434724317077258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6889,7 +6889,7 @@ reverently for America. for the
 Congress, for the Province of Massachusetts  
 Bay, and especially for the town of Boston
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:0028076811A:1878070401:0018/pct:43.61413043478261,10.60834590246355,11.616847826086957,1.5284062342885871/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_dunbar_ver01:data:sn83025287:0028076811A:1878070401:0018/pct:43.61413043478261,10.61504943857885,11.630434782608695,1.535109770403888/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6916,7 +6916,7 @@ which tilled the bosom of every man
 present.” Washington, who was pres­  
 ent, a Delegate from Virginia, was ob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588289:1881021901:0464/pct:85.27620704654197,37.933050723578425,18.181818181818183,8.668323344540273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_goatsbeard_ver01:data:sn88065202:00340588289:1881021901:0464/pct:66.09360076408787,29.402212907367545,14.096297544805887,6.725576828669612/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7261,7 +7261,7 @@ ed promptly next morning “in his
 pontificals, read several prayers in  
 the Established form, and then read
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896070201:0422/pct:49.80527909995673,73.0939063879894,14.17135439203808,23.344127171033264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896070201:0422/pct:49.79450573220852,73.0831493745401,14.173696733722691,23.344370860927153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7287,7 +7287,7 @@ ton. It had an excellent effect upon
 everybody here. It was enough, in­  
 deed, to melt a heart of stone, and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896070201:0422/pct:64.4526179143228,28.89314100677068,14.019904803115534,7.374153664998528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865982:1896070201:0422/pct:64.43867618429591,28.88888888888889,14.022279904823707,7.3767476085356884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7338,7 +7338,7 @@ he entered the halls, read prayers in
 the established form, and the psalter  
 for that day, the 35th psalm, and un
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1897121601:0144/pct:49.381188118811885,179.1572077185017,37.765205091937766,14.85527809307605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1897121601:0144/pct:16.46039603960396,59.71906923950057,12.58840169731259,4.951759364358684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7359,7 +7359,7 @@ ca, for Congress, for the province of
 Massachusetts Bay, and especially for  
 the town of Boston, that even the stai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1897121601:0144/pct:49.32814710042433,195.62996594778662,37.765205091937766,9.321793416572078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_jackrabbit_ver02:data:sn84036012:00294550264:1897121601:0144/pct:16.44271570014144,65.2099886492622,12.58840169731259,3.1072644721906926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7409,7 +7409,7 @@ Y. to-morrow morning. The motion was see
  on tat mornin.&quot;  
  There is a singular likeness between som
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899090301:0236/pct:0.0,84.36649531297249,66.74242424242425,70.51708497127305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_rumi_ver01:data:sn83030272:00206539021:1899090301:0236/pct:0.0,21.091623828243122,16.688766811896194,17.629271242818263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7462,7 +7462,7 @@ upon an audience. It seemed as if heaven
 had ordained that Pealm to bo read on that  
 morning. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_emerson_ver01:data:sn99021999:00206539483:1899090701:0666/pct:56.951305575158784,81.83145321831454,17.16654904728299,23.490378234903783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_emerson_ver01:data:sn99021999:00206539483:1899090701:0666/pct:42.721016410799365,61.376907763769076,12.894829715899064,17.624419376244195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7532,7 +7532,7 @@ dered that psalm rend on that morn­
   
 ing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84020355:00279554863:1899091901:0880/pct:7.979458818882086,24.651287553648068,18.56606754888406,35.17972103004292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_national_ver01:data:sn84020355:00279554863:1899091901:0880/pct:7.979458818882086,24.651287553648068,18.571005332806635,35.199839055793994/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7575,7 +7575,7 @@ audience. It seemed as If heaven had
 ordained that Psalm to be read on that  
 morning.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_fairplay_ver01:data:sn90051265:00383340986:1899092102:0074/pct:9.7953216374269,24.836048233551935,14.502923976608187,16.81827797757563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_fairplay_ver01:data:sn90051265:00383340986:1899092102:0074/pct:9.809941520467836,24.836048233551935,14.502923976608187,16.81827797757563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7632,7 +7632,7 @@ audience. It seemed as if heaven had
 ordained that Psalm to be read on that  
 morning.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_irwin_ver01:data:sn90051548:00340586207:1899092101:0292/pct:5.232247730912974,17.934782608695652,14.709022957821677,25.679347826086957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:cohi:batch_cohi_irwin_ver01:data:sn90051548:00340586207:1899092101:0292/pct:5.232247730912974,17.9493400621118,14.729044313934864,25.679347826086957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7691,7 +7691,7 @@ ence. It seemed that heaven had or
 dered that pealm read on that morn-­  
 ing.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1899092201:0571/pct:76.24442155853072,121.3375796178344,47.69996567112942,103.84819532908705/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_keystone_ver03:data:sn86076366:00279555132:1899092201:0571/pct:19.06110538963268,30.3343949044586,11.924991417782355,25.962048832271762/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -93,7 +93,7 @@ the right of imposing on American vessels
 entering into the British ports in Europe a ton­  
 nage duty equal to that which shall be payabl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:53.040390590324016,11.64179104477612,19.248409528036692,4.1393034825870645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0470/pct:53.05025398234453,11.64179104477612,19.248409528036692,4.1393034825870645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -122,7 +122,7 @@ with the proviso, that 1t shall not be construed
 to operate contrary to former Treaties—Ships.  
 or goods of one party not to be taken by ene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795072801:0478/pct:14.03220996122875,66.23771405410882,19.60930509991053,10.173269834836356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795072801:0478/pct:14.042151307287007,66.23771405410882,19.60930509991053,10.180024994089235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ new clause for the reservation formerly made bv
 Great Britain, of ‘ the right of imposing on Ameri­  
 can vessels entering into the British ports in Eu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807092801:0747/pct:73.91084093211752,17.076326002587322,21.681864235055723,7.664941785252264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807092801:0747/pct:73.89212458850342,17.073565076798708,21.68270448214738,7.667744543249798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -223,7 +223,7 @@ jew clause for the reservation formerly made by
 Croat Britain, of ‘ the right of imposing on Ameri­  
 can vessels entering into the British ports in l.u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807093001:0752/pct:4.110288486086291,28.204299337320187,21.981107990809292,6.75610150315177/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807093001:0752/pct:4.109239407861153,28.199741435035552,21.981878509443593,6.759049773755656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -247,7 +247,7 @@ Great Brita n, of * the right of imposing
 on American vessels entering into British  
 ports in Europe, such duty as mav he
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807093001:0323/pct:24.541634835752483,69.72695390781563,17.436974789915965,5.210420841683367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807093001:0323/pct:24.53694863471453,69.71822166562305,17.440010183947553,5.213942809434356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ j But the British government reserves to itself the
 right of imposing on American vessels entering  
 into tlie British ports in Europe a tonnage dut
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0442/pct:77.51714182605558,21.476014760147603,17.791411042944784,2.2263222632226323/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808041201:0442/pct:77.50315713512538,21.473373508793507,17.794214925732156,2.2301479932767596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -323,7 +323,7 @@ British vessels, in the ports of Ame­
 rica ; and the government of the U.  
 States reserves to itself a right of im
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051601:0002/pct:76.72272354388843,7.3076923076923075,17.165709598031174,6.666666666666667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1808051601:0002/pct:76.73639595296692,7.3076923076923075,17.152037188952693,6.683760683760684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ reserves to itse-It the right of imposing on
 American vessels, entering into the British  
 i polls in Europe, a tonnage duty, equal t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808090501:0460/pct:77.84960871044574,30.352846832397756,18.10139503232392,8.279871692060945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_bangor_ver02:data:sn83016082:00332895072:1808090501:0460/pct:77.83636672903555,30.34980455046607,18.102568464024493,8.281547559386588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ Now, as &quot;the difficulty of agreeing on the precise cases in
 which alone provisions, and other articles not generally  
 contraband, may be regarded as such,&quot; grew out of the fa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032301:0367/pct:21.074646074646076,16.09238924649754,15.717503217503218,1.7796289284361984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855032301:0367/pct:21.074646074646076,16.100803567672177,15.73895323895324,1.7796289284361984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -553,7 +553,7 @@ tured in any of its bays, ports or rivers, or withi
 cannon shot of its coast. in case of war the or  
 zens or subjects of either nation resident i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872020601:0451/pct:4.89167230873392,218.98236415633937,46.31008801624915,30.67206863679695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743774:1872020601:0451/pct:1.63055743624464,72.99412138544646,15.436696005416385,10.224022878932317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

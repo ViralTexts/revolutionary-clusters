@@ -500,7 +500,7 @@ conceived, so.clearly that not a word
 more can be necessary on this branch of his ar-  
 HELrVIDIUS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793083101:0001/pct:5.747126436781609,2.9394922695170833,84.84573502722323,90.79977094865433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793083101:0001/pct:5.754688445251059,2.9538079786218745,84.84573502722323,90.80931475472418/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ would be i:table to scan the extent ok constructive pi
 roqative.&#x27; &quot;  
 &quot;And again, in the next page, in the following (a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847042301:0401/pct:37.69194237771094,45.02598366740906,14.769669146746873,5.864884929472903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847042301:0401/pct:37.69194237771094,45.03010805906129,14.769669146746873,5.864884929472903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ water ; these licst being the very &quot;rules&quot; which the Pit
 dent by his order in council has undertaken to prescribe.  
 Now, he it remembered, the single question before 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847042301:0401/pct:37.64445148013297,51.06409304627567,14.6905176507836,4.875030932937392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847042301:0401/pct:37.64445148013297,51.07234182958014,14.695794417181151,4.875030932937392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -603,7 +603,7 @@ J4 ment under tchich he lives; the most penetrat­
 j 4 OF CONSTRUCTIVE prerogative.&quot;  
 And again, in the next page, in the following (a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847042401:0539/pct:48.107431116059004,71.69493429181175,15.683273030893403,9.648433112434011/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847042401:0539/pct:48.112069765284346,71.70242240443297,15.678634381668058,9.648433112434011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -626,7 +626,7 @@ is proved by the grant to Congress of the specific
 powers to make rules for the government and re­  
 gulation of the land and naval forcps, and to mak
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847042401:0539/pct:48.20484274979126,81.81511849938224,15.502365711104927,5.9418173649331685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847042401:0539/pct:48.20484274979126,81.82260661200344,15.511643009555618,5.9455614212437755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ i 4 under which he lives; thi most pesetratijhj ji hist
 4 TIVK rREROOATITK.&quot;  
 44 And again, in the next page, in the followin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0646/pct:36.42123046600028,67.38159070598749,15.44417851611995,8.724307417336908/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0646/pct:36.42123046600028,67.38903783139708,15.448871368905158,8.724307417336908/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ account of the death of one of the most honorable I
 and amiable gentlemen that we have happened to  
 meet with in* the walks of public life 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0646/pct:36.47754469942278,76.54155495978553,15.486414191186823,6.188561215370867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1847082801:0646/pct:36.47754469942278,76.54155495978553,15.500492749542447,6.1922847780756625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -718,7 +718,7 @@ Still more evident is it, that the some specific fune­
 tion or act cannot possibly belong to the tio deport-  
 ments, and be seperurely crercisuble by each.&quot; Aguin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848022201:0466/pct:283.28173374613004,113.36008322187547,52.244582043343655,11.65106256501709/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848022201:0466/pct:70.86156824782188,28.340020805468868,13.068731848983543,2.9127656412542726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ pendent departments to perform the same function
 with respect to the same thing, would be as awk-  
 ward in practice as it is unnatural in theory.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848022201:0466/pct:283.359133126935,124.65448060633081,52.1671826625387,7.787189775598157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023643:0028077778A:1848022201:0466/pct:70.8809293320426,31.163620151582702,13.049370764762827,1.9467974438995392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -761,7 +761,7 @@ departments, or be properly so vested as to ope­
 rate separately in each. Still more erident it  
 that the same specife filelton asaet eguno
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848022401:0666/pct:72.40143369175627,157.04077343421605,50.60931899641577,19.728177105226287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848022401:0666/pct:18.100358422939067,39.26019335855401,12.652329749103943,4.932044276306572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ concurrent authority in two de partments to per­
 form the same function with re spect to the same  
 thing, would be as awkward i oretiasi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848022401:0666/pct:71.97132616487455,178.7305590584279,51.32616487455197,7.229928541403951/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848022401:0666/pct:17.99283154121864,44.682639764606975,12.831541218637993,1.8074821353509878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -804,7 +804,7 @@ ments to perform the same function with respect
 to the same thing, would be as awkward in prac­  
 tice as it is unnatural in theory.&quot; (Letters o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1848022501:0598/pct:124.62349397590361,244.7655558832203,48.795180722891565,20.053081686818047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1848022501:0598/pct:31.16173978535116,61.19138897080507,12.201092073055921,5.013270421704512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -824,7 +824,7 @@ rately in each. Stilf move evident is it. that the time.
 spetifc funtlionor ait eannot possibly belong to the two  
 departments, and be sepnratily exeriiseable by eatli.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1848030201:1169/pct:25.186258278145694,58.1037982023775,19.49503311258278,3.5517541316323573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1848030201:1169/pct:18.898778720761747,43.57784865178313,14.634651210929414,2.6674398376340966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -853,7 +853,7 @@ in tiie annexation of Texas. An appeal was taken
 from the treaty-making power to the law-making  
 power, and Conyrcss proceeded to legist ite lor 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1848030201:1169/pct:25.186258278145694,61.58306755581328,19.55711920529801,9.16207596404755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_green_ver02:data:sn84022687:00202199240:1848030201:1169/pct:18.898778720761747,46.18730066685996,14.676050507141378,6.886053928674978/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -890,7 +890,7 @@ the du&#x27;y of the President to order the army to the
 Rio Grande??was it his duty to pu: them in a  
 position to protect from invasion the territory l
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848051601:0179/pct:41.363501922508135,84.74657468621251,13.561076604554865,10.232825524576027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848051601:0179/pct:41.36843143054323,84.74976845198174,13.561076604554865,10.236019290345245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,7 +915,7 @@ no citizen could any longer guess at the
 character of the government under which  
 he lives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848062901:0600/pct:30.289660464224056,30.155697098372258,12.52637636677537,6.24203821656051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215804:1848062901:0600/pct:30.2867555385058,30.1535630882457,12.52837185511972,6.243955369990329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -946,7 +946,7 @@ constitutional proclamation.&quot;
 &quot;Pacificus&quot; had quoted the clause of the  
 Constitution authorizing the President to re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896070901:0505/pct:171.7987804878049,240.3522088963109,50.30487804878049,24.836799757097314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042878:1896070901:0505/pct:42.96606938619901,60.08805222407773,12.581014105985513,6.2091999392743285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ which had been claimed by Hamilton under
 the clause of the Constitution authorizing the  
 President to receive ambassadors, Madison said:
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896122301:0727/pct:284.7778587035688,208.78225441376188,48.36125273124545,57.7636939791761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_ovid_ver01:data:sn83030272:00175042908:1896122301:0727/pct:71.20743034055728,52.19556360344047,12.092515024585685,14.440923494794024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1042,7 +1042,7 @@ claroation.&#x27;&#x27;
 Discussing the right of the exeou  
 live to determine the recognition o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551414:1896123001:0488/pct:34.09938815102223,3.5901271503365746,32.39814952992091,95.44689603590128/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551414:1896123001:0488/pct:34.09938815102223,3.5963600099725754,32.408098293787,95.44689603590128/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

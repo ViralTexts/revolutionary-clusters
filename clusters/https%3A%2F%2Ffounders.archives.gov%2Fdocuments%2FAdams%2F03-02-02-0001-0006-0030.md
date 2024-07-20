@@ -690,7 +690,7 @@ A wise man will hear, and will increase
 learning·, and a man of understanding shall at­  
 tain unto wise counsels
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00414210521:1884100701:0026/pct:28.10118371979893,79.14323321766184,10.880492946327225,8.567667823381596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00414210521:1884100701:0026/pct:28.09662775616083,79.13376405838717,10.882782101167315,8.569633883704235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -736,7 +736,7 @@ crease learning; and a man of under­
 standing shall attain unto wise coun­  
 sels.—Solomon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1884112701:0403/pct:55.48030407740152,7.293497363796134,9.68901174844506,12.291300527240773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1884112701:0403/pct:55.48491131075789,7.300820152314001,9.684404515088689,12.294961921499707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -843,7 +843,7 @@ The man Job of us “was perfect
 and upright and one that feared  
 God and eschewed evil.,” yet if th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581210:1893030201:0180/pct:22.191655204034845,37.95948987246812,14.060828366192878,4.265352052298789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_leek_ver02:data:sn99068116:00340581210:1893030201:0180/pct:22.203117835855114,37.962169113707,14.0646492434663,4.276069017254313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

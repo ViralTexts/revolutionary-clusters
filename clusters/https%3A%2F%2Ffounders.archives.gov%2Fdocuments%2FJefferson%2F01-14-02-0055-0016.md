@@ -133,7 +133,7 @@ il sera donne toute aide et
 assistance aux dits Con- .  
 sals
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829032401:0045/pct:15.63071297989031,32.62070376432079,8.211456429006704,13.604746317512275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015167:1829032401:0045/pct:15.640869388584196,32.62070376432079,8.20637822465976,13.611565739225314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

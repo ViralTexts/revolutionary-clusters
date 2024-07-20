@@ -125,7 +125,7 @@ most proper Regulations, for that Purpose, and they were ordered
 to make their Report, to the General Meeting the next Day at 10  
 o’Clock. L% . poE A _ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769061601:0295/pct:50.27726432532347,34.16725228390724,21.912283649806756,12.410400562192551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769061601:0295/pct:50.27726432532347,34.17193722183181,21.912283649806756,12.415085500117124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -400,7 +400,7 @@ hibitions an.! ill-advised regulations made in several acts of
 the Parliaini i&#x27;of Oriat Britain, lately passed, to regulate  
 the colonics, which have limited the cxpoitation of suni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850052801:0369/pct:20.79135640239451,83.24754328497895,15.856329391151993,3.1633130556855407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850052801:0369/pct:20.79135640239451,83.25378256122289,15.866063172239256,3.1633130556855407/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ in hopes that thtir example will stimulate the good people ol
 this Province to be frugal in their use and consumption of  
 all manufactures, excepting those of America, and lawfu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850052801:0369/pct:20.776755730763615,88.08610201216659,15.973134764199154,6.813289658399626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850052801:0369/pct:20.776755730763615,88.08610201216659,15.973134764199154,6.8226485727655595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -454,7 +454,7 @@ w|? n a meeting of the subscribers shall be called, to consi­
 der whether the further continuance ?t this obligation be then  
 nCo.SrTHiv It is agreed, that if goods of any kind do arriv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850052801:0369/pct:36.69148780843919,11.848385587271876,15.797926704628413,3.565746373420683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850052801:0369/pct:36.69148780843919,11.854624863515832,15.802793595172044,3.5626267352987053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

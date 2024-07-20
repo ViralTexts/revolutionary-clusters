@@ -72,7 +72,7 @@ vernment ? at least, as much so as
 they formerly were tinder the king  
 and British parliament.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821091201:0192/pct:43.298206692549456,33.81578947368421,18.61711961545572,16.160287081339714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_apple_ver01:data:sn84026472:00416156980:1821091201:0192/pct:43.31053182966661,33.81977671451356,18.61095704689715,16.16427432216906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -141,7 +141,7 @@ est cnr|&gt;oru(ioii to the highest sovereign ; or that the
 states had vested all the essential rights ol&quot; sovereign­  
 ty in the old Congress ? Who can Itclicvo that Kd
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821091401:0154/pct:36.66613848835367,6.72603702835716,14.530185390587862,3.9137567377548628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821091401:0154/pct:36.660329531051964,6.725248974809608,14.533164343050275,3.917203671157977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -186,7 +186,7 @@ t iglit mind could be warped, lo an unfavorable under­
 standing of xvhat was said in opposition to the prejudi­  
 ecs felt, in noticing the xvork formerly, we spoke o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821091401:0154/pct:36.66613848835367,11.471760018748535,14.720329583267311,13.487227560346849/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183967:1821091401:0154/pct:36.660329531051964,11.470415934387814,14.72327841149134,13.48955282171451/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ under the King and British parliament.”
 If such sentiments are republican,  
 then are our notions of republicanism
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1821091901:0072/pct:52.77050610820244,71.60320359702122,22.054973821989527,19.348039904454122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021201:00517172108:1821091901:0072/pct:40.896027049873204,55.491833030852995,17.092138630600168,15.005444646098004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -259,7 +259,7 @@ and British parliament.&quot;
 If such sentiments are republican, then  
 are our notions of republicanism com
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821100901:0137/pct:60.93913955928647,41.34772652927707,17.497376705141658,14.83480536473667/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898012:1821100901:0137/pct:60.92315761867296,41.34096484055601,17.499344348282193,14.836467702371218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -295,7 +295,7 @@ ties—did this make the counties sovereign?
 ! The States, at present, are only great cor­  
 porations,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1833022801:0252/pct:33.217256722770365,75.49280022368237,15.63165022248017,6.808332168320984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1833022801:0252/pct:33.21083172147002,75.48224769359798,15.633462282398453,6.810875034945485/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -322,7 +322,7 @@ ment at least as much so as they formerly were under the
 King and Parliament ol Great Britain.”  
 Il the States were “ great corporations” and possesse
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833072301:0093/pct:33.751032773340675,59.080890456248625,14.734232993665657,5.86290500330615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1833072301:0093/pct:33.746385790995454,59.074380165289256,14.736793795034192,5.8659320477502295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -347,7 +347,7 @@ The State of Maryland voted by
 counties. Did this make the counties sovreign?  
 The States, at present, arc only grea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861033001:0549/pct:74.72351765489674,66.96173895937838,13.724183877415056,5.183436608635782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664382:1861033001:0549/pct:74.72351765489674,66.96829612143864,13.737508327781478,5.183436608635782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -394,7 +394,7 @@ the King and British Parliament. The argu­
 ments. I observe, have taken a different turn,  
 .and 1 hope may tend to convince all of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_archer_ver01:data:sn86092243:00393348896:1861062201:0089/pct:2.484298674110258,67.20063284880847,15.282623866015353,14.209433402551172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_archer_ver01:data:sn86092243:00393348896:1861062201:0089/pct:2.4839519955344684,67.19398853074945,15.285142803981765,14.211324237031178/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -425,7 +425,7 @@ of making by laws, and these are effectual only if
 they are not contradictory to the uenerat Mniea­  
 eration. The States ought to be placed under th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863102001:0217/pct:8.426966292134832,33.603707995365006,20.538664904163912,10.85747392815759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:00296022810:1863102001:0217/pct:6.329532308709304,25.202780996523753,15.402412824326557,8.146002317497103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -450,7 +450,7 @@ State of Maryland voted by counties&#x27;; did this
 make the counties sovereign ? The States at pres­  
 ent are only great corporations,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863102101:0369/pct:6.095736724008975,35.84714665316968,20.138369483919224,7.161837276983424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045706:00296022664:1863102101:0369/pct:4.582865693976805,26.888523345564977,15.114104002992892,5.377704669112995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ but the General Government mny be so
 constituted as to effect it.&quot;  
 In regard to the powers of tho co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0023728690A:1864050501:0522/pct:74.79050279329608,36.28601921024546,16.375698324022345,18.396478121664888/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:0023728690A:1864050501:0522/pct:56.11246943765281,27.2145144076841,12.294795668878798,13.80736392742796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -183,7 +183,7 @@ aconnier our dcience agatant eavage butcfery
 as a cause of war, we must meet her also in war,  
 with regret, but without fear.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873111801:0492/pct:198.49482596425213,97.20146010776986,43.36782690498589,19.746219363810187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_american_ver01:data:sn86053573:00237288920:1873111801:0492/pct:49.62370649106303,24.300365026942465,10.841956726246472,4.936554840952547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -225,7 +225,7 @@ for tho purpose of giving expression to their
 sense of tho Into outrages at Santiago. William  
 M, Bvnrtii was called to tho chair. Tho list o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873111801:0001/pct:45.40816326530612,63.582358235823584,12.894248608534323,10.261026102610261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1873111801:0001/pct:45.41396103896104,63.59585958595859,12.905844155844155,10.247524752475247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ FELLOW-CITIzENS: It may be perhaps regarded as
 somewhat presumptuous in me to address you after the  
 distinguished gentlemen whom you have listened t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531150:1873111801:0654/pct:55.53732567678425,118.75571820677035,48.07219031993437,23.124428179322965/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grass_ver01:data:sn83030214:00206531150:1873111801:0654/pct:18.512441892261418,39.58523940225678,16.024063439978125,7.708142726440988/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -285,7 +285,7 @@ force. If Spain chooses to consider our detence against
 savage butchery as a cause of war to her, we must meet  
 her also in war, with regret, but without fear.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743841:1873111801:0641/pct:9.986859395532194,82.06534155814485,46.156373193166885,13.936486177747316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743841:1873111801:0641/pct:3.328953131844065,27.35511385271495,15.385457731055629,4.645495392582439/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -324,7 +324,7 @@ re speeeh or the HON, W.A. DArlin.
 As soon as the applause which followed the  
 reading of the telegrams had subsided, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873111801:0843/pct:167.25190839694656,123.59882005899705,53.51145038167939,32.97935103244838/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_brown_ver01:data:sn83030272:00206536159:1873111801:0843/pct:41.82095819812941,30.899705014749262,13.380416109944646,8.244837758112094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ defense against savage butchery as a cause
 I of war to her, we must meet her also in  
 , war, with regret, but without fear.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762428:1873111801:0506/pct:69.50339995878838,22.08269525267994,13.620440964351948,3.644716692189893/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_forego_ver01:data:sn84024670:00280762428:1873111801:0506/pct:69.50855141149805,22.086523736600306,13.625592417061611,3.652373660030628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -502,7 +502,7 @@ thiswise: “It is a very delicate question and
 opinions should be carefully and calmly form­  
 ed. The haste and heat of popular clamor, h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952536A:1873111901:0013/pct:38.27946457721188,33.78443113772455,10.953313744694743,11.928143712574851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:0027952536A:1873111901:0013/pct:38.27321690876448,33.78038558256496,10.95560633262608,11.929709016884205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ Borriel, beforo shooting Cospedee, en?
 deavored to porsuade him to betray his  
 father, President Geepedee. It is re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551207:1873111901:0633/pct:17.47244934233914,4.170073589533933,16.512619978670457,7.726901062959935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_carlacox_ver01:data:sn84027008:00294551207:1873111901:0633/pct:17.47837421495438,4.174616153356955,16.530394596516174,7.731443626782957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ ed that the United States steamer,
 Ada, which left Kingston with forty  
 office.s and men aboard, is los
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297532:1873111901:0068/pct:18.887015177065766,113.2778893031259,49.325463743676224,37.74017780326928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_bentley_ver01:data:sn83025733:00200297532:1873111901:0068/pct:4.7227493147796755,28.319472325781476,12.333965844402277,9.43504445081732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ Loxdos, November 18. The foreign office
 has issued a circular that the Government re-­  
 serves decision upon the question of the exe-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742058:1873111901:0487/pct:214.42031954117166,76.63038507271563,40.84391642769357,16.226104454404098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742058:1873111901:0487/pct:71.47343984705722,25.54346169090521,13.61463880923119,5.408701484801366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -726,7 +726,7 @@ SANTIAGO DE CUNA, November 18.
 The Isabella La Catolica has arrived  
 and will convey the Virginius to Ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:00200296552:1873112201:0414/pct:106.66167664670658,126.39238734956619,44.08682634730539,19.087601455359643/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eagle_ver01:data:sn84022279:00200296552:1873112201:0414/pct:26.67540247098465,31.598096837391548,11.025833021340322,4.771900363839911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -829,7 +829,7 @@ interference of the Spaniards with the
 Indian tribes who live within the  
 borders of the United States, wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1896042201:0824/pct:56.378820184790335,63.96004098360656,15.707178393745558,39.52356557377049/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1896042201:0824/pct:42.303590472804835,47.97643442622951,11.784571631709918,29.64907786885246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -885,7 +885,7 @@ tude and settled in its nurnose. The
 Spu  
 lunuh court might readily perceiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1896042201:0824/pct:56.520966595593464,15.22797131147541,31.6453447050462,110.89907786885246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1896042201:0824/pct:42.41023817987913,11.424180327868852,23.746889441877,83.17110655737704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -936,7 +936,7 @@ with Spain on the Cuban question in this
 resolute action of Jerrerson! Had it been  
 followed, there would have been at leas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897090301:0227/pct:0.0,17.357239716739493,132.58594917787744,379.14720506252826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_pizan_ver01:data:sn83030272:00175042957:1897090301:0227/pct:0.0,4.339309929184873,33.14648729446936,94.78680126563206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ of &#x27;9S Mr. Justin McCarthy says: I know
 of no national movement in the history  
 of the world which was more completel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1898032601:0343/pct:69.59107806691449,61.73232908458864,12.0817843866171,9.936268829663963/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_betelgeuse_ver01:data:sn90059959:00271742861:1898032601:0343/pct:69.6003717472119,61.735950173812284,12.0817843866171,9.947132097334878/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

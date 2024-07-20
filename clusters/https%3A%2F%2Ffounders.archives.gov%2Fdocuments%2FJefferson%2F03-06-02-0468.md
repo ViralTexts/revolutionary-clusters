@@ -121,7 +121,7 @@ We give what we offer without
 limit of time and hour.  
 Our list oF earGain
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020734:1887051501:0862/pct:134.43815683104285,18.962481376134363,143.16895715440583,354.8151158065827/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:00296020734:1887051501:0862/pct:33.62312980186009,4.740620344033591,35.80671249494541,88.70377895164567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -258,7 +258,7 @@ blockade through the winter, we shall be
 absolutely brankrupt by the loss of twe  
 SuCcessive Ccrops.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153395:1887052501:0086/pct:56.10443072256527,47.42876700607513,9.641425631025891,20.296055446222297/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn92064025:00514153395:1887052501:0086/pct:56.11165276423645,47.43161917800405,9.6378146101903,20.293203274293376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ successive crops.
 RELIGIOUS READINGS.  
 That Garden Long Ago
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287277:1887052501:0409/pct:56.45621827411168,1.398448596088714,27.649111675126903,96.49295313012126/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00237287277:1887052501:0409/pct:56.46150592216582,1.402090389307695,27.649111675126903,96.50023671655923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ through the winter, we shall be absolutely
 bankrupt by the loss of two successive  
 crops
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023036:1887052701:0086/pct:39.1372437357631,22.691117984975698,17.027334851936217,33.208130799823245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_dan_ver01:data:sn84020714:00296023036:1887052701:0086/pct:29.36485331814298,17.02386212991604,12.774138422101965,24.9116217410517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -583,7 +583,7 @@ be absolutely bankrupt by the loss of two succes­
 sive crops. ThLs is really the case for exclaiming  
 lO Jortunati mercatvrirs.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887052801:0111/pct:13.32837854576985,31.28610519914868,12.399355877616747,15.080571602310732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887052801:0111/pct:13.334572030224205,31.28610519914868,12.393162393162394,15.083105300496605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -797,7 +797,7 @@ chase will be a heavy tax.
 I am tcld the drought has tecn eiualo&#x27;  
 fatal aa far aa Km! ucky.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477734:1887061701:0019/pct:9.774647887323944,91.22683556181093,14.971830985915492,26.272577996715928/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn83032041:00212477734:1887061701:0019/pct:7.341130054952797,68.42599108608961,11.23009722417923,19.704433497536947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -990,7 +990,7 @@ loss of two successive crops. This Is
 really the case for exclaiming &#x27;Oforln­  
 iHiti mcraitons.&#x27; &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076817:00415669434:1887062501:0183/pct:87.35785953177258,8.9058524173028,25.418060200668897,49.49662573293506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076817:00415669434:1887062501:0183/pct:58.263633322181335,5.940922668436774,16.945466711274673,33.001438212191616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1056,7 +1056,7 @@ loss of two successive crop3. This is
 really the case for. exclaiming &#x27;Uforln­  
 nati merratortsr &quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076817:00415669434:1887062501:0181/pct:89.22155688622755,9.823594266813672,25.43246839654025,49.33847850055127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076817:00415669434:1887062501:0181/pct:59.49093328897022,6.549062844542448,16.96889036765929,32.89966923925027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1189,7 +1189,7 @@ cessive crops. This is really tho case
 for exclaiming &#x27;O fortunati meroa­  
 toros I&#x27;&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_dagger_ver01:data:sn2001063133:00415623240:1887070701:0870/pct:74.9124036440084,62.195444915254235,11.107217939733706,23.053495762711865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_dagger_ver01:data:sn2001063133:00415623240:1887070701:0870/pct:74.916783461808,62.205376059322035,11.124737210932025,23.053495762711865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1251,7 +1251,7 @@ by the loss of two successive crops. This
 Is really the case for exclaiming ‘O FOETC­  
 NATI MERCATORIES !’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623884:1887070901:0141/pct:6.062241410325598,6.949534818156188,10.613419679798525,22.51198195658303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623884:1887070901:0141/pct:6.062241410325598,6.949534818156188,10.625412244408468,22.51198195658303/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1311,7 +1311,7 @@ blockade through the winter, we shall be
 absolutely bankrupt by the loss of two  
 successive orops.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887073001:0457/pct:70.07786429365962,16.00494573430416,12.21727845754542,25.951366946009067/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887073001:0457/pct:70.06487488415199,16.002747252747252,12.21964782205746,25.951236263736263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1394,7 +1394,7 @@ rupt by the loss of two successful crov A
   
 THE PENSION RECORD.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473455:1887090801:0296/pct:32.80440414507772,7.01376421304608,41.70984455958549,133.99162178336326/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_finney_ver02:data:sn83040198:00212473455:1887090801:0296/pct:21.87854251012146,4.679832435667265,27.805668016194332,89.32375822860563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1522,7 +1522,7 @@ continuance of the blockade through
 the winter, we shall be absolutely banke  
 tupt by the loss of two successful crop
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn92064044:0051415319A:1887092401:0017/pct:59.31685642876979,65.87697423108895,12.246598167175785,28.189941812136325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn92064044:0051415319A:1887092401:0017/pct:59.32148477274831,65.87697423108895,12.246598167175785,28.193405375450265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

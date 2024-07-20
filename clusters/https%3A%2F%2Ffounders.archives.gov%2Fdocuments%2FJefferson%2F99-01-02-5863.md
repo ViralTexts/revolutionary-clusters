@@ -113,7 +113,7 @@ part, as aforesaid, beyond the limits, and jurisdiction
 of the United States, the person or persons so offend­  
 ing, shall forfeit and pay a sum not exceeding on
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031801:0406/pct:49.76647638816814,22.356792144026187,22.210690192008304,7.463175122749591/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031801:0406/pct:49.753566796368354,22.353133693339878,22.211413748378728,7.466044837178858/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ By the President,
 JAMES MADISON,  
 __Secretary of State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807033101:0105/pct:78.459505380404,47.22326689231541,16.896356428166886,8.96326939952363/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807033101:0105/pct:78.44469611174029,47.21734770619203,16.899458915313954,8.966324057825688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -251,7 +251,7 @@ j terrain a wish but for the restoration &gt;f
 ! good faith the neutrality they assumed,  
 I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807070301:0002/pct:2.7171587505348738,2.514611934212315,37.847667950363714,94.63096370803316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_exotic_ver01:data:sn83045242:print:1807070301:0002/pct:2.7314220510626157,2.523673598840107,37.83340464983597,94.63549454034707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -287,7 +287,7 @@ PRESIDENT OF THE U. STAGS OF AMERICA,
 A PROCLAMATION.  
 DURING the wars which, for fome
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807070701:0076/pct:57.70860195247744,31.038332713062896,17.88543009762387,16.37513956084853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807070701:0076/pct:57.697974217311234,31.03448275862069,17.88827501534684,16.37724303315968/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -321,7 +321,7 @@ dependence of the United States the
 thirty-firft.  
 TH : JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807070701:0076/pct:75.88874562534536,37.8489021213249,17.314422545588506,11.152462473638506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1807070701:0076/pct:75.87476979742173,37.84420739270652,17.317372621240025,11.155213760026461/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -348,7 +348,7 @@ their accustomed relations of friendship, hospitali­
 ty and commercial intercourse. Taking no part in  
 i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807070801:0613/pct:50.77972709551657,64.38576718724843,21.393762183235868,10.916116567380454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807070801:0613/pct:50.7673568818514,64.37540244687702,21.394640682095005,10.918383773341919/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ harbours and \\ a*ers to the said armed
 vessels, and to all others bearing com­  
 missions under the British government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807071601:0157/pct:36.22802344166222,25.51757342320655,26.10548748002131,12.10881078478575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807071601:0157/pct:36.21837549933422,25.511432009626954,26.10741233910342,12.113918973124749/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -447,7 +447,7 @@ A PROCLAMATION.
 During the wars which, for some  
 &#x27;ime, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807072301:0160/pct:7.355148604022816,5.0071873502635365,28.82017412188532,6.851940584571155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1807072301:0160/pct:7.352941176470588,5.005988023952096,28.821528611444577,6.858283433133733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ vocation or justifiaUe cause.&quot;
 * . We shall now briefly notice his other assertion,  
 * that hosvitalitu under such circumstances ceases to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807093001:0751/pct:5.8896930371849265,10.44344473007712,21.961567257299727,2.506426735218509/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807093001:0751/pct:5.888223552894211,10.441767068273093,21.9623253493014,2.5100401606425704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ pursuance of the authority given to him by law,
 immediately to depart from the harbours and waters  
 of the United States, have in open defiance of tb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807120401:0863/pct:5.157007914220066,82.43071041733036,22.364054123053357,9.381968779866199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807120401:0863/pct:5.15569167942828,82.41758241758242,22.364726901480346,9.384456123586558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ Provided, That whensoever reparation shall be
 made to the United States by the British govern­  
 ment, to the satisfaction of the president of the ti
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807120401:0863/pct:28.593311207556805,3.9821599235425293,21.878989022210877,7.359031538706595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807120401:0863/pct:28.58601327207759,3.9815257206561556,21.87978560490046,7.361841057493232/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -570,7 +570,7 @@ assist in navigating the said armed vessel, contrary
 to ibis prohibition, unless lor the purpose of carry­  
 ing her beyond the limits and jurisdiction of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807120401:0863/pct:28.51672198110799,54.28480407773176,21.853459280061273,5.304237018158649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1807120401:0863/pct:28.50944359367024,54.27615862398471,21.854262378764677,5.307373785634655/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ shall assist in navigating or piloting such ship or
 vessel, unless it he for the purpose of carrying her  
 beyond the limits and jurisdiction of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809030801:0374/pct:3.175,66.64536741214057,20.975,6.916932907348243/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1809030801:0374/pct:3.174206448387903,66.63472288771761,20.976005998500376,6.919821114837886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ character, it had been previously ascertain-­
 eJ that o eoamon demanded were native  
 citizess of the Uaited 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529236:1857040301:0387/pct:15.867768595041323,75.3756951840019,33.603305785123965,11.359602413915512/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_kingler_ver01:data:sn87058152:00279529236:1857040301:0387/pct:5.289256198347108,25.12523172800063,11.201101928374655,3.7865341379718376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -832,7 +832,7 @@ to mark its character, it had been previ
 ously ascertained that the seamen were  
 native citizens of Unifed States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026279:00280775095:1857040301:0165/pct:284.51424397370346,27.21325774095072,49.01387874360847,36.51693560110481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85026279:00280775095:1857040301:0165/pct:71.14155251141553,6.80331443523768,12.255707762557078,9.129233900276203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -859,7 +859,7 @@ which he said: &quot;This enormity was not
 only without provocation or justifiable  
 cause, but was committed with the avowed
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776373:1857040301:0114/pct:272.52396166134184,352.93392884645004,49.4408945686901,34.437086092715234/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn85055197:00280776373:1857040301:0114/pct:68.15821014782261,88.23348221161251,12.365161805833,8.609271523178808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -876,7 +876,7 @@ ocarion or justifiable cause, but was commithalf its value. Compare the List of 
 ted with the avowed purpese of taking byin anin county with the List of an­  
 force from a ship of war of the United States dolph, in Orange County; both are excellent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857040301:0268/pct:78.15457413249212,83.27316486161251,103.07570977917982,6.077015643802647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857040301:0268/pct:19.546351084812624,20.81829121540313,25.779092702169624,1.5192539109506618/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -895,7 +895,7 @@ might be wanting to mark its character, it
 had been previously ascertained that the sea­  
 men demanded were nassee citizens of the b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857040301:0268/pct:77.9968454258675,89.65102286401925,50.94637223974763,7.40072202166065/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857040301:0268/pct:19.5069033530572,22.412755716004813,12.741617357001973,1.8501805054151625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -915,7 +915,7 @@ a part of her crew, and  ea it had
 been previously ascertained that the seamen  
 demanded were native citzens of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1857041101:0060/pct:133.121387283237,275.85218548469646,49.82658959537572,11.58767529941652/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_londonderry_ver01:data:sn84023252:00200296230:1857041101:0060/pct:33.28034682080925,68.96304637117412,12.45664739884393,2.89691882485413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -945,7 +945,7 @@ ting to mark its character, it had
 been previously ascertained that the  
 seamen demanded wore natives o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1857082101:0032/pct:338.04347826086956,140.40952778938572,45.21739130434783,13.316617913358407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1857082101:0032/pct:84.54150054367524,35.10238194734643,11.30844508880029,3.3291544783396017/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -964,7 +964,7 @@ wanting to mark its character, it had
 previonsly ascertained that the  
 demanded were natives o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1857082101:0033/pct:61.70977011494253,126.03500972492358,45.40229885057471,11.225340372325647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn85042591:00280774959:1857082101:0033/pct:15.43298598634567,31.508752431230896,11.354653251886454,2.8063350930814117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -984,7 +984,7 @@ tives of the United States.” p. 6. This procla­
 mation was countersigned by Mr. Madison the  
 Secretary of State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040308:00514151362:1857091001:0557/pct:74.91577765300393,81.82930900189162,11.13138686131387,2.3478357627684434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_dynamite_ver01:data:sn85040308:00514151362:1857091001:0557/pct:74.91577765300393,81.83301806312822,11.140744899868988,2.3478357627684434/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

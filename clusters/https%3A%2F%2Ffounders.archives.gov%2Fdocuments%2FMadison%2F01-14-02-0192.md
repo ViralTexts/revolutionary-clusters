@@ -284,7 +284,7 @@ Jrawback, but as a clause has been drawn up by
 o mvfelf a freedom to be governed in my final  
 mte by the modification which may prevail
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792022301:0004/pct:6.37910085054678,4.0574645699864105,62.81895504252734,89.20597942147155/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1792022301:0004/pct:6.3866950182260025,4.0574645699864105,62.82654921020656,89.22053970102893/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -554,7 +554,7 @@ up by my colleague, in order to be i&#x27;ubltituted- v
 ing to iriyfelf a freedom to be governed in my &#x27;  
 final vote by the modification which may prey ay/
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792030701:0002/pct:7.246376811594203,4.689655172413793,88.866930171278,90.26600985221675/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1792030701:0002/pct:7.271080368906456,4.699507389162561,88.8586956521739,90.25615763546799/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -775,7 +775,7 @@ them, a power directly to tax exports could inner be
 deduced ftom a power to lax imports, although such a  
 power^ might directly, and incidentally affect ex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830021801:0302/pct:3.3810719031448397,58.43456337382535,15.325557360106304,8.50332340132936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830021801:0302/pct:3.380572778269855,58.42786753752721,15.328215726798543,8.506168595546388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1172,7 +1172,7 @@ drawn, or what consequences ensue
 from such a step, it is incumbent on us  
 all to consider.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830101301:0119/pct:6.492932862190813,4.084639078612562,54.946996466431095,92.12535154680594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_elvis_ver01:data:sn87062070:0039334295A:1830101301:0119/pct:6.491499227202473,4.084092126405999,54.94222418488261,92.11747902160329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1254,7 +1254,7 @@ the general terms.” We adhere to the Constitution as the text book of our
 faith—look to it wjth pride and reverence—would guard it as the best in­  
 heritance of our fathers—would use it as a sacred trust, and then hand i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844013001:0086/pct:30.317132023440195,33.324590163934424,22.699069286452946,4.865573770491803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_devo_ver01:data:sn82007022:00393342882:1844013001:0086/pct:30.311907633982422,33.32022029897718,22.699465793555056,4.868214004720692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1358,7 +1358,7 @@ Congress; for every object I have mentioned would ad­
 mit of the application of money, and might be called, if  
 Congress pleased, provisiont for the general welfare.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00175044875:1886031001:0621/pct:226.41065830721004,325.42161149281696,52.03761755485893,37.663960024984384/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00175044875:1886031001:0621/pct:56.613756613756614,81.35540287320424,13.011953752694494,9.415990006246096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1441,7 +1441,7 @@ would admit ot the application of money,
 and might be called, if Congress pleased,  
 provisions for the general welfare. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341760:1886031201:0048/pct:14.94718564607148,6.970128022759602,12.053248444508753,19.162771794350743/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341760:1886031201:0048/pct:14.945023148148149,6.969419892309255,12.056327160493828,19.164211453147754/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1490,7 +1490,7 @@ Apropos of the entertainment at tien.
 Wheeler&#x27;s to-night a letter from Gen. W.  
 I. Sherman sending his regrets is s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_dauer_ver03:data:sn89070049:0029586560A:1886031901:0066/pct:187.25868725868725,135.82606287217837,49.729729729729726,81.70613488436504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:fu:batch_fu_dauer_ver03:data:sn89070049:0029586560A:1886031901:0066/pct:46.84180027042689,33.95651571804459,12.439636855321615,20.42653372109126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1619,7 +1619,7 @@ Congress pleased, provisions for the
 ganeral welfare  
 The constquences por rayed by M
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206535623:1888011701:0345/pct:96.00748596381784,58.05429386289215,56.643792888334374,52.68828562374564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_echo_ver03:data:sn86064205:00206535623:1888011701:0345/pct:24.009360374414978,14.513573465723038,14.165366614664586,13.17207140593641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1696,7 +1696,7 @@ their own haoda the education of
 children, enUbliebiog, in like manner,  
 aoboole throughout the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623562:1889080101:0104/pct:78.0309423347398,46.49510067836761,11.575246132208157,9.615591687304835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623562:1889080101:0104/pct:78.0309423347398,46.49510067836761,11.584622597280825,9.615591687304835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

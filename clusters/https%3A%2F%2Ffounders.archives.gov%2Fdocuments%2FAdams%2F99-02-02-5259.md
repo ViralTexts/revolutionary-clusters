@@ -125,7 +125,7 @@ ireumstaiwes, under which lln v Wert
 vritten, md with the peculiar situation &lt;)  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823100701:0483/pct:21.8717576260635,72.48243559718969,14.837103133430173,12.89519906323185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1823100701:0483/pct:21.86721991701245,72.47182789404361,14.839211618257261,12.896970583930923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ willing that one slr ultl he absolute and
 unchecked as the o her.”  
 In the eleventh letter, Mr. Cun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823110801:0130/pct:78.13591189900617,91.48056244830438,17.91565941445071,3.80479735318445/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823110801:0130/pct:78.11493018259935,91.4654316903738,17.917561761546725,3.808303010254714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ believe no such things, and they are con
 scious they have injured me and mine, and  
 are only forgoing awkward excuses for it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1847012801:0306/pct:126.77029360967185,137.27905731119444,60.44905008635578,32.08355650776647/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1847012801:0306/pct:31.713112983365736,34.31976432779861,15.122056599697558,8.020889126941617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -273,7 +273,7 @@ brought forward, I have no objection to
 Pinkney, but a full conviction that he can  
 never rise to the chair of state, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1847012801:0306/pct:126.3385146804836,169.57686127477237,60.79447322970639,43.59935725763257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_killington_ver02:data:sn84023296:00200296102:1847012801:0306/pct:31.6050982933679,42.39421531869309,15.208468351695831,10.899839314408142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

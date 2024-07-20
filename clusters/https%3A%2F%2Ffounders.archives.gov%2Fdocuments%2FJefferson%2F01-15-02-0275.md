@@ -197,7 +197,7 @@ making them.
 Is uniformity of opinion desirable? No more than of  
 face and stature
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.1926323867997,34.47223917022575,50.95932463545664,12.385600976205003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.82533589251439,8.618059792556437,12.744721689059501,3.096400244051251/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -216,7 +216,7 @@ Is uniformity of opinion desira­
 ble? No more than of face and stat­  
 ure.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.26760563380282,13.392407612526432,11.971830985915492,3.6652905044809185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_neely_ver01:data:sn85059778:00340582135:1888102601:0356/pct:71.25756935642868,13.391059202577527,11.974839224522368,3.6682776211572024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -232,7 +232,7 @@ safe.
 The execution of the laws is more im­  
 portant than the making them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:180.1857585139319,95.61354802887284,48.916408668730654,5.996668517490283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dottie_ver01:data:sn84024448:0029602076A:1888111801:1219/pct:45.055157731759245,23.90338700721821,12.231468937487904,1.4991671293725708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ Tho execution of the laws is more
   
 important than the making of them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:0029602112A:1888120601:0947/pct:73.91767210787793,29.283408650742416,15.6139105748758,2.5048418334409295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:0029602112A:1888120601:0947/pct:55.45696539485359,21.962556488056812,11.712511091393079,1.8850871530019366/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ important than the making of them.
 Is uniformity of opinion desirable?  
 No more than of face and stature.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.2658126501201,11.073592213725295,11.982919669068588,2.27430727976959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_ada_ver01:data:sn85033078:00271768515:1889020701:0206/pct:82.27026065296681,11.073592213725295,11.978471666221866,2.2842387526070116/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -326,7 +326,7 @@ important than the making &#x27;li.-m.
 Is uniformity Of opinion desira?  
 ble .&#x27; No more than of face an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071201:0313/pct:55.91113872922169,33.986856516977,10.532856920925898,3.3515881708652793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_ozzyosbourne_ver01:data:sn85026941:00175032381:1889071201:0313/pct:55.91113872922169,33.994158451989776,10.538035316658899,3.3515881708652793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ JefTerson.
   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn93063557:00280777870:1890070401:0211/pct:334.34163701067615,166.69220162402328,59.6085409252669,153.88386701394208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn93063557:00280777870:1890070401:0211/pct:83.64121967505008,41.67305040600582,14.912085466280882,38.47096675348552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -423,7 +423,7 @@ and does not patter down like a hail—
 I storm.  
 Ill-fortune never crushed that ma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890542:1890070501:0626/pct:58.36415053295627,46.991111758706104,17.380900587339568,5.143523240565351/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_bullfrog_ver01:data:sn84022060:00332890542:1890070501:0626/pct:58.351457155284905,46.98426573426573,17.382557633753805,5.146416083916084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -492,7 +492,7 @@ peisonal difl&#x27;e .nee.
 The execution of the laws is more im  
 portant than the making of them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762507:1891011401:0234/pct:5.781974817760106,46.58990256864482,10.685884691848907,2.4674174364165506/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lure_ver01:data:sn84024718:00280762507:1891011401:0234/pct:5.790258449304175,46.59939263570796,10.685884691848907,2.4674174364165506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ than the making them.
 Is uniformity of opinion desirable? No more  
 than of face and statur
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:223.9296636085627,9.986299284518191,107.11009174311927,376.35865428527933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:55.98241590214067,2.4965748211295478,26.777522935779817,94.08966357131983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -577,7 +577,7 @@ were put there after the most thorough
 discussion and consideration by Congress  
 and the country, provide, as far as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102342:1895020701:0076/pct:57.84313725490196,26.045364891518737,16.613672496025437,7.840236686390533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_franklin_ver01:data:sn82016187:00211102342:1895020701:0076/pct:43.40047707394646,19.536489151873766,12.470182878346144,5.887573964497041/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -616,7 +616,7 @@ and honest administration of their powers.”
 -&#x27;l&#x27;ho execution of the laws is more im­  
 portant than the making of them.—Thom
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_deathkiss_ver01:data:sn92064071:00514153759:1895070301:0747/pct:66.37119113573407,94.69026548672566,13.947368421052632,1.215598560731304/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_deathkiss_ver01:data:sn92064071:00514153759:1895070301:0747/pct:66.37119113573407,94.69026548672566,13.961218836565097,1.2253233492171545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ important than the making of them.
 Great cities are pestilential to the  
 moruls, the health and the libertie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fugazi_ver01:data:sn89051168:00393343072:1898032801:0507/pct:69.32118013912209,85.42869835628609,17.294315183497243,4.161113579150007/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fugazi_ver01:data:sn89051168:00393343072:1898032801:0507/pct:69.30455635491607,85.41604974829731,17.296163069544363,4.164198993189221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -652,7 +652,7 @@ ty. |
 The execution of the laws is more  
 important than the making of them.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aerosmith_ver01:data:sn89051163:00393342626:1898033001:0168/pct:81.83505154639175,68.6044946844301,17.711340206185568,2.2607993540573275/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_aerosmith_ver01:data:sn89051163:00393342626:1898033001:0168/pct:81.81818181818181,68.59526372443487,17.71284271284271,2.263858988159311/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ the only way to insure a long-continued
 and honest administration of its pow­  
 ers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1898041301:0441/pct:18.834204014297498,27.892947241417133,11.740445422051142,5.012613798398596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346824:1898041301:0441/pct:18.834204014297498,27.896603414866,11.758775547612501,5.008957624949727/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -697,7 +697,7 @@ of them.
 Great cities at o pestilential to  
 the morals, the health and tho lib
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn89051294:0039334281A:1898042801:0117/pct:42.5545043192102,30.29497741163965,16.33072809543398,4.889715652404996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_coldplay_ver02:data:sn89051294:0039334281A:1898042801:0117/pct:42.54575365001028,30.29095257074532,16.33251079580506,4.892387405340774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -740,7 +740,7 @@ The;execution of the laws Is more im­
 portant than the making of them.  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898092301:1039/pct:48.32554517133956,9.53519256308101,18.496884735202492,19.01726427622842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_frank_ver01:data:sn96091104:00296020837:1898092301:1039/pct:36.26801714063109,7.158034528552457,13.86832878846903,14.262948207171315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -796,7 +796,7 @@ tant than the making them. However,
 it is best to have the people in all three  
 departments, where that is possible.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn96091104:00296020849:1899041401:0129/pct:66.94884726224784,67.21915285451198,17.038904899135446,7.563799000263089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_jimmy_ver02:data:sn96091104:00296020849:1899041401:0129/pct:50.234234234234236,50.42094185740594,12.792792792792794,5.669560641936332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ portant than the making of them.—Jef-
 ferson.  
 “What might have been” if that littl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899071801:0580/pct:35.84998362266623,87.59783926799692,14.231903046184081,4.828574578326535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_griffin_ver01:data:sn85042104:00332892071:1899071801:0580/pct:35.84998362266623,87.60151398228788,14.237362157440769,4.828574578326535/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

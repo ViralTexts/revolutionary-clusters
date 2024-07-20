@@ -408,7 +408,7 @@ lent magistrates. It yon do not think fit to
 print this letter and that verse. I pray vou to  
 return them to JOHN ADAMS
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818020701:0320/pct:2.867561743742748,19.587878787878786,16.22741587933035,73.73333333333333/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:0041418392A:1818020701:0320/pct:2.8670865097779252,19.585504787298508,16.230250801016464,73.72843695713651/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -763,7 +763,7 @@ John Adams, the third President of the United
 agaiust writs of assistance, breathed into this  
 I natian the breath of life.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875070101:0425/pct:23.874538745387454,108.69811588043632,17.011070110701105,3.2724181895452613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1875070101:0425/pct:17.92174234034699,81.52712848845445,12.753783684016241,2.4507720640317325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

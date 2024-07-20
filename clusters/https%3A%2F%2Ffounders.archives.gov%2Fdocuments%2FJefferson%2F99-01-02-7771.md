@@ -64,7 +64,7 @@ leave to the consideration of Congress the
 expediency of making them publ.c.  
 . ^ TII: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040801:0439/pct:58.59769286229272,30.07162801991016,17.591925018024515,18.987495447371614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183815:1808040801:0439/pct:58.58713281672373,30.06797766448167,17.594761818946356,18.989236869790403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ the consideration of Congress the expe­
 diency of making them public.  
 1 1H : JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808040801:0942/pct:11.766311766311766,6.602953953084275,20.01092001092001,15.412684622067767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1808040801:0942/pct:11.763100436681222,6.60180681028492,20.012281659388645,15.414350243224462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -126,7 +126,7 @@ nf Congress the expediency of making them pub­
 lick.  
 TII : JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1076/pct:4.504271291742169,20.74829931972789,22.055397359565106,10.738581146744412/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1808041101:1076/pct:4.503105590062112,20.74493927125506,22.056159420289855,10.740890688259109/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ lick.
   
 ih: Jefferson
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808042101:0383/pct:6.951154052603328,9.377203290246769,26.757917337627482,43.10223266745006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_moore_ver01:data:sn86092519:00414187390:1808042101:0383/pct:6.949288972363831,9.375,26.7596816027189,43.0999373433584/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

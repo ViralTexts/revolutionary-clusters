@@ -140,7 +140,7 @@ government in person—in a republic
 tb^y administer it by their representa­  
 tives, and by tbr9 great principle of re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810092101:0307/pct:5.313556139692077,60.315240879623744,18.09988734509951,18.990720732172367/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810092101:0307/pct:5.312558663412803,60.30757498729029,18.10274701207684,18.99254363667175/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -160,7 +160,7 @@ good rcquirts.
 America claims the merit of malting  
 thi» experiment upon the largest scale
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810092101:0307/pct:5.764175741644761,79.25511630863099,17.668043559894855,4.25829414007881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810092101:0307/pct:5.763093673737563,79.24504321301474,17.670984293848946,4.26198949330622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -196,7 +196,7 @@ with greater intermissions of attend­
 ance than those from the states in the  
 neighborhood of congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810092101:0307/pct:23.563650018775817,14.783271895258675,18.00600826135937,15.444260836405237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810092101:0307/pct:23.55922658156561,14.78139298423996,18.008885551592517,15.446534485680393/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -234,7 +234,7 @@ trust for the whole human race, they
 pursued anew and mote noble cours.  
 —they- posses-ed Spartan valor, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810092101:0307/pct:23.751408186256104,57.90008897928054,17.818250093879083,16.295919664421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810092101:0307/pct:23.74694950253426,57.89273004575496,17.821162630623867,16.298085070327062/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -363,7 +363,7 @@ Let na not oi ly emulate tbe spirit, but fol­
 low the example and pursue the policy of  
 die founders of our republic. The m^muia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813071201:0216/pct:6.016634224031145,75.62559017941454,16.758095912227922,18.21293673276676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184261:1813071201:0216/pct:6.015569709837226,75.61666469963413,16.761028544468036,18.21472127148983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ more minutely, in reference to some of the pow­
 ers of the general government. In the exercise  
 ol its military power, which has been so muc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824030501:0047/pct:19.414556962025316,30.10815211071055,15.522151898734178,9.1522270031399/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184522:1824030501:0047/pct:19.411485524442334,30.1046511627907,15.524969677793598,9.155038759689923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -474,7 +474,7 @@ ly, in reference to some of the powers of the
 gtneral government. In the exeicise of its  
 military power, which has been so muc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824030601:0403/pct:16.945844852821597,39.96225524887945,15.124410473247682,9.471573484312337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183979:1824030601:0403/pct:16.943089430894307,39.95754216299092,15.127371273712738,9.474387702952392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ ll il alluded to would ever bo made by the States. The
 States coul I make nocompict with each other lor tHi&gt;  
 purpose, without the consent of Congress The pew
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830050701:0392/pct:19.18732580313921,7.6861489191353085,15.314654540120287,9.287429943955164/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1830050701:0392/pct:19.184511586975653,7.685269899359561,15.31729735015156,9.290179932906375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -743,7 +743,7 @@ And if novelties are to be shunned, be­
 h&#x27;*ve u.e, the most aborning ol all novelties, the  
 wild ol a!I pn-j.-cts, is that of mending u
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832102701:0709/pct:1.1253462603878117,51.07264748902974,16.689750692520775,16.89419795221843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_isotopes_ver01:data:sn85025006:00414216468:1832102701:0709/pct:1.1251514626969015,51.066422912858016,16.69263170042121,16.896201503148486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -795,7 +795,7 @@ projects, Ihn most rush of nil attempts, is’nal ofarc.
 D1NI1 US IN PIECES IN ORDER TO PRESERVE OCP. LI­  
 BERTIES AND PROMOTE OCR HAPPINESS.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348847:1832110101:0090/pct:3.1663326653306614,60.9645390070922,15.270541082164328,14.964539007092199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393348847:1832110101:0090/pct:3.165698256862352,60.955892781165794,15.272490482869165,14.96596227485463/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -878,7 +878,7 @@ And if novelties are to be shunned, believe
 me, the most alarming of all novelties, the  
 m ist wild of all projects, isth-&#x27;t of litnderiu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1832110801:0188/pct:63.060742648637046,27.627332678546374,17.23545825284396,17.16009541181423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:0039334894A:1832110801:0188/pct:63.047210300429185,27.623456790123456,17.237124463519315,17.161195286195287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1012,7 +1012,7 @@ tion ol a man of the soundest and most experienced
 head, and the purest and most patriotic heart. Need we  
 say, it was that of James Madison, one of the most dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835081101:0116/pct:34.87115544472153,55.81598168538101,15.211970074812967,6.18118390929903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835081101:0116/pct:34.86632497575842,55.80989753651624,15.214480306598329,6.184143594215537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1033,7 +1033,7 @@ which they have shed in defence of their sacred rights.
 &#x27; consecrate their union, and excite horror at the idea oi’  
 their becoming aliens, livnls, enemies,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835081401:0121/pct:19.050865948452202,48.36109618484686,14.727942179189963,2.9983879634605053/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184091:1835081401:0121/pct:19.048268339241886,48.355899419729205,14.730479047359331,3.001647682498746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1056,7 +1056,7 @@ their sacred rights, consecrate their union,
 and excite horror at the ided of their becom­  
 ing aliens, rivals, enemies.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835082501:0134/pct:67.64196948246028,80.03871800387181,14.252005663048608,4.624650462465047/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1835082501:0134/pct:67.65245660951183,80.0458880045888,14.246762099522837,4.621065462106547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1262,7 @@ governments which have no models on lit*&#x27; face
 &lt;‘omt.dkkai y. which it is incumbt nt on their  
 uccessors to imfnore and yt rythmi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836070401:0089/pct:3.1371676493492044,55.845048899755504,17.465791522972523,15.602078239608803/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215634:1836070401:0089/pct:3.136818687430478,55.840782336312934,17.46755654430849,15.60343290803983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1287,7 +1287,7 @@ j kindred blood which flows in their veins; the mingled
 cred rights, consecrate liieir union and excite horror at  
 i the idea of their becoming aliens, rivals, enemies.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836072201:0411/pct:15.279520423811515,60.9912070343725,16.771225428690926,5.475619504396483/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664229:1836072201:0411/pct:15.279520423811515,60.9912070343725,16.77587248478089,5.482280841993072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1581,7 +1581,7 @@ and to add to thtm such oiher States as may arise in
 their uten bosoms, or in their neighborhoods,  
 ichich we cannot doubt lobe ci/uallt/ practicable.&#x27;^
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845012801:0054/pct:45.783313325330134,74.5795476512662,13.535414165666266,3.4022810748115213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845012801:0054/pct:45.783313325330134,74.5795476512662,13.545418167266908,3.4119466460467813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1599,7 +1599,7 @@ as may arise in their own bosoms, or in* tiieik j
 neighborhoods, which (he) cannot doubt to be  
 equally practicable.&quot; And, moreover, the dis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845020401:0064/pct:17.2326857481833,31.29932627526468,13.49547679074596,1.9056785370548603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845020401:0064/pct:17.2326857481833,31.30253448829002,13.510306985021504,1.9088867500802054/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1902,7 +1902,7 @@ not doubt to be equally practicable”’ :
 So Mr. Macon said in the debate as to Louistana,that  
 the constitution was designedly made broad, so as t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1845030401:0245/pct:64.5955451348183,64.3692435061575,14.522274325908558,4.025664907378661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015210:1845030401:0245/pct:64.5955451348183,64.3726930904826,14.536928487690504,4.02911449170375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1926,7 +1926,7 @@ arise in their own bosoms, or m their neighbor­
 hoods,&quot; &amp;c.  
 So Hamilton, though surrounded by politician
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845031401:0125/pct:17.110379898294944,68.53126792885828,13.655399341908465,4.235991585389176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845031401:0125/pct:17.115365440223353,68.53764263402817,13.655399341908465,4.235991585389176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1968,7 +1968,7 @@ administration of public affairs.
 is to secure the union of the thirteen primitive Stales,  
 which we know lo be practicable, and to add to.them 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845031901:0275/pct:51.4729512587038,60.87341772151899,16.80057132654883,13.050632911392405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845031901:0275/pct:51.47890257692079,60.87341772151899,16.80057132654883,13.059071729957806/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1994,7 +1994,7 @@ tion making powers, and here we have a union-making
 power.  
 It would seem, therefore, that the rule of stric
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845032801:0307/pct:51.295610787942884,54.56036331525167,16.62259827251895,5.752491484798789/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661356:1845032801:0307/pct:51.30148657382925,54.56456835288676,16.616722486632586,5.760901560068962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2107,7 +2107,7 @@ northwestern frontier, must be left to those whom
 further discoveries and  
 experience wilt rende
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845042301:0282/pct:70.30995106035888,68.86611146700832,41.12289287656335,8.904548366431774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_alligator_ver01:data:sn85042147:00296022603:1845042301:0282/pct:52.74680446015774,51.654922058509506,30.853957030187654,6.683749733077088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2147,7 +2147,7 @@ ti asportation, for combating time and ap-.ce,
 for bringing the parts of our great country nearer together,  
 fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846030401:0255/pct:0.8958912573370404,79.56386292834891,15.044794562866851,14.292834890965732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661162:1846030401:0255/pct:0.9010400576665637,79.56801661474559,15.044794562866851,14.29698857736241/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2168,7 +2168,7 @@ cessary for the administration of public
 flairs.&quot; FederALisT, No. 14.!  
 It will be recollected, that when thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1846071101:0323/pct:315.9967845659164,267.399577167019,57.87781350482315,21.19802677942213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_kern_ver01:data:sn85025180:00212477606:1846071101:0323/pct:78.9991961414791,66.84989429175475,14.469453376205788,5.299506694855532/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2188,7 +2188,7 @@ concern all the members ol the Republic,
 but which are not to be attained by the se­  
 parate provisions of any.&quot;?Fed. No. 14.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846111701:0186/pct:31.59211300765156,64.95161444859635,13.419658622719247,2.6348567596052503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664291:1846111701:0186/pct:31.597017853639397,64.95800198013478,13.434373160682755,2.6348567596052503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2213,7 +2213,7 @@ juaUy practicable.&quot; The words of the constitution itself
 eing: &quot;New States may be admitted by the Congress  
 ito this Union.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847062801:0625/pct:53.283864856330915,37.448814989452785,15.503631196716135,5.0254373991810395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847062801:0625/pct:53.283864856330915,37.45708731438971,15.508893800652563,5.0254373991810395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2238,7 +2238,7 @@ each, will be rendered more and more easy by those n
 inerous canals, with which the beneficence of nati  
 has intersected our country.&quot; Yet even Mr. Madi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847081901:0802/pct:15.984836518717422,25.50667325753831,15.195071868583161,6.858625803262481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847081901:0802/pct:15.984836518717422,25.50667325753831,15.200336966250724,6.862745098039215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2259,7 +2259,7 @@ which they have shed in defence of their sacred rights,
 consecrate their union, and excite horror at the idea ol  
 their being aliens, rivals, enemies.&quot; This noble Union
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847082001:0805/pct:68.53950267548001,16.187632201070052,15.423355366698143,4.479283314669653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847082001:0805/pct:68.53950267548001,16.19177968562067,15.43384744517889,4.479283314669653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2286,7 +2286,7 @@ is the distance from the centre, which will barely allow I
 the representatives of the people to meet as often as may be .  
 necessary for the administration of public atruirs.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847110801:0260/pct:31.534727408513817,38.113207547169814,14.301717699775953,4.281567489114659/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014405:00415660923:1847110801:0260/pct:31.547174508339555,38.113207547169814,14.301717699775953,4.2912433478471215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2409,7 +2409,7 @@ st certain that Gen.
 President, the smoking  
 p as such a sweet incens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191253:1847112001:0408/pct:83.4485738980121,259.2635885447107,56.7847882454624,43.3163563496702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191253:1847112001:0408/pct:20.862143474503025,64.81589713617767,14.1961970613656,10.82908908741755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2511,7 +2511,7 @@ mocratic party is willing to add to this Union.
 With the increased and increasing facilities for tray­  
 elling on this continent, the representatives of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848052701:0208/pct:200.513698630137,310.17717346518333,58.1763698630137,57.42068397198187/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848052701:0208/pct:50.14452414088427,77.54429336629583,14.548763515683545,14.355170992995468/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2568,7 +2568,7 @@ mocratic party is willing to add to this Union.
 With the increased and increasing facilities for trav  
 elling on this continent, the representatives of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029798:1848060101:0336/pct:28.186274509803923,65.0,19.730392156862745,31.023206751054854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_hoosier_ver01:data:sn82015677:00296029798:1848060101:0336/pct:21.15515597330064,48.755274261603375,14.807246969077783,23.270042194092827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2597,7 +2597,7 @@ heart. Need we sny it was that of James Madison, one of offer
 the most distinguished founder* of our constitution? Hence, Hont  
 loo, the solemn warning of Washington, the great Vir- p,ir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848063001:0667/pct:-0.048046124279308135,77.8687492127472,17.873158231902625,5.995717344753747/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848063001:0667/pct:-0.048046124279308135,77.8687492127472,17.873158231902625,6.004114707981694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2649,7 +2649,7 @@ Jefferson, on an occasion very similar in all its
 leading features to ihis, holds ihe following Un­  
 guage: &quot;This momentous question,&quot; (the Mis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848081101:0279/pct:57.94979079497908,17.089220050319334,13.717872086072923,7.654344880975421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664308:1848081101:0279/pct:57.95975293883244,17.092445648667827,13.72783422992628,7.654344880975421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2710,7 +2710,7 @@ lar in all its leading features to this, holds
 the following language: &quot;This moment­  
 ous question,(the Missouri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1848102501:0302/pct:6.629143214509068,40.872127283441365,12.664165103189493,10.583382439599292/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn82014116:00279528530:1848102501:0302/pct:6.629143214509068,40.87605578471813,12.679799874921827,10.587310940876057/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2732,7 +2732,7 @@ their neighborhoods, which wa cannot doubt to
 be equally practicable.&quot;  
 The immonal Jefljrson, the very mention c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1849100501:0096/pct:33.091608702086724,77.47660846918106,13.36391889891964,3.3664512395099835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1849100501:0096/pct:33.09654185782645,77.48303913057458,13.36391889891964,3.3664512395099835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2755,7 +2755,7 @@ one degrees; on the West the Mississippi; and on the North
 an irregular line, running, in someinstanses, beyond ire lorty­  
 s tilth deetec, in others falling as low as the forty seemd. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850010101:0198/pct:68.10268515786368,22.824955031714474,16.258483328415462,3.5879958345167093/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566431A:1850010101:0198/pct:68.11252090095407,22.82811070087412,16.263401199960658,3.594307172836/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2809,7 +2809,7 @@ projects, the most rasli ol all attempts, is that of roiidingus
 in pieces, in order to preserve our liberties and promote our  
 happiaass.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850021401:0201/pct:5.83918315252074,18.88208078029261,15.76260370134014,12.079529823683881/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850021401:0201/pct:5.83918315252074,18.88208078029261,15.767921718783237,12.083698053436706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2830,7 +2830,7 @@ which they have shed in defence of their sacred rights,
 consecrate their Union, and excite horror at the idea of  
 their becoming aliens, rivals, enemies.&quot; These words wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850061101:0691/pct:20.63568893191352,36.32010081915564,15.811552113585027,4.385633270321361/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850061101:0691/pct:20.64106701086372,36.328502415458935,15.822308271485426,4.38983406847301/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2861,7 +2861,7 @@ same breadth of territory sweeping westward to
 to the Pacific, embracing a new world of enter­  
 prise and weualth, all this and more would not cer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1850061901:0091/pct:44.33690818728747,57.587391392200445,12.738686895108554,9.163467367144877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153280:1850061901:0091/pct:44.34562734327317,57.59412675961474,12.729967739122852,9.163467367144877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2888,7 +2888,7 @@ with which the benetloouoe of Nature ha# intersected our
 country, and which art ilnds it so little diflioult to conneot  
 and complete
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850062701:0746/pct:31.309543032456,37.358205192840934,15.808170515097691,6.629694983614822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850062701:0746/pct:31.309543032456,37.366607848079994,15.818935357123634,6.625493655995294/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2927,7 +2927,7 @@ Is the work which has been new modelled by the act ol j
 your convention, and it is that act on which you are now to  
 deliberate and to decide
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850082401:0938/pct:63.66606763600719,64.66892825731875,16.075804607090344,10.441010177157935/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661186:1850082401:0938/pct:63.66606763600719,64.67311638815596,16.086696073626314,10.445198307995142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2981,7 +2981,7 @@ ties, the most wild of all projects, the moat rash of all at­
 tempts, is that of rending us in pieces in order to preserve  
 our liberties and promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851010201:0012/pct:5.54458703520895,4.757607013924703,31.605791378743007,92.81846312532232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661198:1851010201:0012/pct:5.54458703520895,4.757607013924703,31.61127563891631,92.82276087330239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3024,7 +3024,7 @@ most wild of all projects, the most rash of all attempts,
 is that of rending us in pieces, in order to  
 preserve our liberties and promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851010201:0028/pct:0.8790288823775638,5.204631434139631,30.096274591879446,92.14719706522985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661393:1851010201:0028/pct:0.8883307753127762,5.204631434139631,30.09162364541184,92.15866101112003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3060,7 +3060,7 @@ i. . iin no longer coroir ue the mufial a&#x27;tar-
 tiieir mti&#x27;tial happit.e--s; can uo longer be i  
 v-c i i.ens ol one gieat, respectable, and tlutir
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851012401:0033/pct:0.0,62.04904352291693,17.683284457478006,9.526254974964694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851012401:0033/pct:0.0,46.53999229682886,13.275634443303506,7.151110540505842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3086,7 +3086,7 @@ tne, the most alarming of all no veil ies,
 p -, is ihat of rending us in pieces, in order  
 i ve lut liberties and promote our happi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851012401:0033/pct:2.19941348973607,72.16587495185519,15.190615835777127,7.061240210553344/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_lightningbolt_ver03:data:sn83016794:00415662397:1851012401:0033/pct:1.657620654246736,54.127615868532544,11.397975649112514,5.302349467197329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3126,7 +3126,7 @@ to be attained by the separate pmri*i&gt;ms ?f any. The federal
 ami State governments are, la fact, but different agents  
 and trustees of the people, Iqtrusted with different powers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854062501:0626/pct:45.8279680659284,36.71003717472119,12.413082668040175,1.9103676166873194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854062501:0626/pct:45.8279680659284,36.71692138234889,12.425959309812,1.9103676166873194/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3150,7 +3150,7 @@ rule the sutrgi -tiens of their own. goo 1 sense,
 the knowledge cf their own situation, and i  
 the lessen of their own experience Re
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855062001:0077/pct:28.126053252443544,61.18219037871034,13.902932254802831,5.539918116683726/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688246:1855062001:0077/pct:28.131670598809123,61.190719890822244,13.902932254802831,5.539918116683726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3188,7 +3188,7 @@ ulation ; receding from the Blue Ridg
 
 ---
 
-## [From _The United States democratic review_](https://archive.org/details/sim_united-states-democratic-review_1856-01_37/page/n25/mode/1up?view=theater)
+## [From _The United States Democratic Review (1856-1859)_](https://archive.org/details/sim_united-states-democratic-review_1856-01_37/page/n25/mode/1up?view=theater)
 
 #### 1856-01-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -3266,7 +3266,7 @@ State where it exists. But I believe that the
 constitution has given no power to the general  
 government to interfere in this matter, and tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1856090301:0250/pct:23.323720259552992,31.380698792050914,16.78082191780822,22.106767112612026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_julian_ver02:data:sn84028794:00296026682:1856090301:0250/pct:17.511271415689812,23.535524094038188,12.587917042380523,16.586569684374595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3393,7 +3393,7 @@ in pieces, in order to preserve our liberties, and
 promote our happiness.&quot;  
 The extremes of the Union attempted to i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190613:1858022401:0182/pct:79.84084880636605,354.2262895174709,65.10916139563355,17.487520798668886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_canada_ver01:data:sn86092535:00202190613:1858022401:0182/pct:19.960212201591514,88.55657237936772,16.277290348908387,4.371880199667221/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3435,7 +3435,7 @@ true distinction is, as Mr. Madison said, that in
 a radical democracy the people meet and ex­  
 ercise the government in person—in a repre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1859070801:0111/pct:17.81299524564184,18.849801896986435,14.62757527733756,6.831552407251771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn82005159:00296028447:1859070801:0111/pct:17.818277865821447,18.849801896986435,14.62757527733756,6.8435586504982595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3453,7 +3453,7 @@ tion, &quot;that great mechanical power in Gov­
 ernment, by the simple agency of which its  
 wull and its force may be directed to any ob
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470272:1860011001:0036/pct:113.81683430386448,54.4314381270903,43.51508734780307,7.775919732441472/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470272:1860011001:0036/pct:28.465510393221237,13.607859531772576,10.883092810803655,1.943979933110368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3483,7 +3483,7 @@ happiness; can no longer be follow-citi7.en3
 of one great, respectable, and flourishing  
 empire.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190662:1860070401:0016/pct:31.922083084873783,40.467597677702805,14.251639833035181,8.394790522516868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_austria_ver01:data:sn84026845:00202190662:1860070401:0016/pct:31.93699065792089,40.47544327632198,14.24667064201948,8.410481719755218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3552,7 +3552,7 @@ all prospects, the most rash of all attempts, is that
 of rending us in pieces, in order to preserve our  
 liberties and promote our happiness.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861030501:0259/pct:30.173187940987813,4.943148968972827,25.721616420782553,92.64790903835036/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861030501:0259/pct:30.181740431900792,4.9463608916297295,25.717340175326065,92.65433288366417/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3576,7 +3576,7 @@ provisions of any. The subordinate gorernments
   
 iects which san we sare to i those othec o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032701:0294/pct:246.17516629711753,40.4142887338829,93.68070953436808,353.11773409427184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861032701:0294/pct:61.55232155232155,10.103572183470725,23.423423423423422,88.27943352356796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3615,7 +3615,7 @@ ing of all novelties, the most wild of all projects,
 is that of rending us in pieces in order to preserve  
 our liberties and promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862052401:0509/pct:64.85727655591951,321.5026833631485,50.11698642957417,44.47227191413238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862052401:0509/pct:16.218113737421017,80.37567084078712,12.532178797098057,11.118067978533094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3695,7 +3695,7 @@ to preserve our liberties and promote our hap
   
 pihe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862062501:0624/pct:64.76368741226018,279.2654662150116,51.09967243799719,39.18702085933322/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862062501:0624/pct:16.196606202457577,69.8163665537529,12.77940315974254,9.796755214833304/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3739,7 +3739,7 @@ alarming of all novelties, the most wild of all
 projects, is that of rending us in pieces in order  
 to pre erve our hberues and promote our ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862062601:0633/pct:63.21784527764594,272.51325366160484,50.78310393925012,47.299847245934046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862062601:0633/pct:15.804461319411486,68.12831341540121,12.69577598481253,11.824961811483512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3783,7 +3783,7 @@ of all projects, is that of rendering us in
 pieces in order to preserve our liberties and  
 promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195209:1862062601:0009/pct:66.68356997971603,18.786944230274994,38.60716700473293,106.79773837059882/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_bunting_ver01:data:sn86069123:00202195209:1862062601:0009/pct:50.04227972264502,14.09663325623233,28.970065956367325,80.09509123618606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3823,7 +3823,7 @@ projects, is that of rending us in pieces in order
 to preserve our liberties and promote our hap-  
 piness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862062701:0637/pct:66.9798027242837,270.1654509873688,50.16439643024894,46.07721046077211/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862062701:0637/pct:16.746917204932473,67.5413627468422,12.54257193188491,11.519302615193027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3862,7 +3862,7 @@ alarming of all novelties, the most wild of all
 projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862062801:0642/pct:70.82352941176471,271.27096600591983,50.305882352941175,44.81119382904296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862062801:0642/pct:17.705882352941178,67.81774150147996,12.576470588235294,11.20279845726074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3934,7 +3934,7 @@ in their charge by the Club.
 Arr. 3. The President shall, at the first meet­  
 ing of the Club, appoint a committee of three t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862063001:0646/pct:70.58275058275058,276.1828388131516,49.93006993006993,70.96141851554843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295730:1862063001:0646/pct:17.65185962457736,69.0457097032879,12.48688352570829,17.740354628887108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3987,7 +3987,7 @@ in their charge by the Club.
 Arr. 3. The President shall, at the first meet­  
 ing of the Club, appoint a committee of three t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862070101:0017/pct:66.96512723845429,273.72759856630825,50.37700282752121,71.39784946236558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862070101:0017/pct:16.74128180961357,68.43189964157706,12.594250706880302,17.849462365591396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4040,7 +4040,7 @@ in their charge by the Club.
 Arr. 3. The President shall, at the first meet­  
 ing of the Club, appoint a committee of three t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862070201:0021/pct:67.67723880597015,268.90547263681594,49.8134328358209,70.78891257995735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862070201:0021/pct:16.925230374431354,67.22636815920399,12.457716085384346,17.69722814498934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4079,7 +4079,7 @@ alarming of all novelties, the most wild of all
 projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862070301:0026/pct:69.82358402971217,268.4118060435699,49.535747446610955,44.096978215038654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862070301:0026/pct:17.45589600742804,67.10295151089248,12.383936861652739,11.024244553759663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4118,7 +4118,7 @@ alarming of all novelties, the most wild of all
 projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862070401:0030/pct:65.34883720930233,267.3036093418259,49.627906976744185,44.232130219391365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862070401:0030/pct:16.337209302325583,66.82590233545648,12.406976744186046,11.058032554847841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4171,7 +4171,7 @@ in their charge by the Club.
 Arr. 3. The President shall, at the first meet­  
 ing of the Club, appoint a committee of three t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862070701:0034/pct:69.10190786412285,269.28938507885874,49.74406700791066,70.8488392698919/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862070701:0034/pct:17.275476966030713,67.32234626971469,12.436016751977665,17.712209817472974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4223,7 +4223,7 @@ in their charge by the Club.
 Art. 3. The President shall, at the first meet­  
 ing of the Club, appoint a committee of three t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862070801:0040/pct:68.41366401497426,272.2770500628028,50.25737014506317,71.63107841378073/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862070801:0040/pct:17.103416003743565,68.0692625157007,12.564342536265793,17.907769603445182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4276,7 +4276,7 @@ in their charge by the Club.
 Arr. 3. The President shall, at the first meet­  
 ing of the Club, appoint a committee of three t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862070901:0044/pct:68.99907321594068,269.3985692837587,49.536607970342914,70.40536960169567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862070901:0044/pct:17.253765932792582,67.34964232093968,12.38702201622248,17.601342400423917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4315,7 +4315,7 @@ alarming of all novelties, the most wild of all
 projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071001:0048/pct:65.87190275829828,269.6681199394964,49.92987377279103,44.16763057211496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071001:0048/pct:16.46990064289889,67.4170299848741,12.483927527761542,11.04190764302874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4354,7 +4354,7 @@ alarming of all novelties, the most wild of all
 projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071101:0052/pct:70.05099675475196,273.5575221238938,49.60593416782569,44.07079646017699/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071101:0052/pct:17.516809645258522,68.38938053097345,12.404358914908416,11.017699115044248/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4394,7 +4394,7 @@ projects, is that of rending us in pieces in order
 to preserve our liberties and promote our hap  
 piness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071201:0056/pct:70.16166281755196,271.36423841059604,49.37644341801386,45.845474613686534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071201:0056/pct:17.54041570438799,67.84105960264901,12.344110854503464,11.461368653421633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4433,7 +4433,7 @@ alarming of all novelties, the most wild of all
 projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071401:0060/pct:70.00461467466543,269.2382210479965,49.10013844023997,43.82210479964773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071401:0060/pct:17.50317295488635,67.30955526199912,12.276450905734395,10.955526199911933/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4473,7 +4473,7 @@ alarming of all novelties, the most wild of all
 projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071501:0064/pct:69.21296296296296,270.25884838880086,49.398148148148145,43.845747490755414/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071501:0064/pct:17.30324074074074,67.56471209720021,12.349537037037036,10.961436872688854/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4512,7 +4512,7 @@ alarming of all novelties, the most wild of all
 projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071601:0068/pct:68.08510638297872,270.2358865624172,49.35245143385754,43.99681950702359/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071601:0068/pct:17.025213971778857,67.5589716406043,12.340966921119593,10.999204876755897/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4551,7 +4551,7 @@ alarming of all novelties, the most wild of all
 projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071701:0072/pct:67.02525724976614,270.80213903743316,49.953227315247894,44.63458110516934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071701:0072/pct:16.756314312441535,67.70053475935829,12.488306828811973,11.158645276292335/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4591,7 +4591,7 @@ projects, is that of rending us in pieces in order
 to preserve our liberties and promote our hap­  
 piness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071801:0078/pct:67.74641369736233,268.21279985836946,49.42156409069875,45.994511817296626/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071801:0078/pct:16.936603424340582,67.05319996459237,12.355391022674688,11.498627954324157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4630,7 +4630,7 @@ alarming of all novelties, the most wild of all
 projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071901:0082/pct:67.14751046998605,270.1464713715047,49.651000465332714,44.38526409232135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862071901:0082/pct:16.788830715532285,67.53661784287617,12.414194299011053,11.096316023080337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4666,7 +4666,7 @@ enemies. And if novelties are to be thauned, believe
 me the most alarming of all novelt es, the most sild  
 of all projects, is that of rending us in piecer th orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862072401:0942/pct:76.4540995094604,328.66475045727725,48.42326559215137,29.422524170368433/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862072401:0942/pct:19.11687401436832,82.16618761431931,12.107937620466094,7.355631042592108/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4703,7 +4703,7 @@ me the most alarming of all novelties, the most wild
 of all proieets, is that of rending us in pieces in order  
 iasate war sbertene  promots sur happiness
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862072501:0948/pct:63.48273328434974,328.1703016847329,50.77149155033064,31.187149013974143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862072501:0948/pct:15.870683321087435,82.04257542118323,12.69287288758266,7.796787253493536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4740,7 +4740,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our happiness.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862072601:0952/pct:75.55401662049861,326.66928002090685,47.714681440443215,30.942114203580296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862072601:0952/pct:18.888504155124654,81.66732000522671,11.928670360110804,7.735528550895074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4776,7 +4776,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862072701:0956/pct:76.37130801687763,327.91463575286525,48.38255977496484,31.142142010275325/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862072701:0956/pct:19.096184279936697,81.97865893821631,12.097766836644979,7.785535502568831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4813,7 +4813,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our liberties aed promote our happiness.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862072901:0960/pct:73.74735356386732,326.7709291628335,49.04728299223712,31.12104087265081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862072901:0960/pct:18.440091759308277,81.69273229070838,12.263984471501676,7.780260218162702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4860,7 +4860,7 @@ orrice, sf High Sts Savage&#x27;s B1
 bf-!  
 H Avina This WItdi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862073001:0964/pct:73.99445214979195,326.7246979342601,48.95977808599168,53.99506301156295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862073001:0964/pct:18.49861303744799,81.68117448356503,12.23994452149792,13.498765752890737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4897,7 +4897,7 @@ me the most alarming of all novelties, the most wild
 of all proiects, is that of rending us in pieces in order  
 so pisseive bur liberties ald promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862073101:0968/pct:72.21833449965011,325.53524804177545,48.00559832050385,30.861618798955615/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862073101:0968/pct:18.06090304515226,81.38381201044386,12.005600280014,7.715404699738904/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4934,7 +4934,7 @@ me the most alarming of all novelties the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862080101:0972/pct:73.47826086956522,326.2120614899488,50.43478260869565,30.9551964262252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862080101:0972/pct:18.379554105492115,81.5530153724872,12.615551930396954,7.7387991065563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4977,7 +4977,7 @@ NeW
 JoHH H WHEELER,  
 ENT FOM HOME, CONTINENTAL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862080201:0976/pct:72.60963335729691,325.3585998157652,54.636951833213516,39.742071325174365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862080201:0976/pct:18.16220104297788,81.3396499539413,13.6666067254091,9.935517831293591/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5014,7 +5014,7 @@ me the most alarining of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862080301:0980/pct:126.57689581856839,325.60462670872766,48.83061658398299,31.07255520504732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862080301:0980/pct:31.661053004786385,81.40115667718192,12.214146427938308,7.76813880126183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5120,7 +5120,7 @@ TNSUNANOD.
 JoHR H WHEELER,  
 GENT foR HOME, CONTINENTAL
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862080501:0984/pct:127.51965689778413,324.8885392079727,49.39242315939957,41.07002360346184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862080501:0984/pct:31.897014124798854,81.22213480199318,12.354729125692831,10.26750590086546/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5157,7 +5157,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to picseive ouf liberties ay pheivte tat wra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862080601:0988/pct:132.4113475177305,325.4059717129387,48.794326241134755,31.01100052383447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862080601:0988/pct:33.12045414227426,81.35149292823468,12.205073620720242,7.752750130958617/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5194,7 +5194,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our liberties a d promote our nappiness-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862080701:0992/pct:122.82453637660485,324.45380363253486,49.64336661911555,31.27138720715978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862080701:0992/pct:30.72256913470116,81.11345090813371,12.417484388938448,7.817846801789945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5231,7 +5231,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our liberties ald promote our nappiness,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862080801:0996/pct:126.73338098641887,326.6842105263158,49.46390278770551,31.263157894736842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862080801:0996/pct:31.68900804289544,81.67105263157895,12.368185880250223,7.815789473684211/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5268,7 +5268,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our liberties and promotesour happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862080901:1000/pct:129.20544022906228,324.08184679958026,49.677881173944165,31.164742917103883/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862080901:1000/pct:32.31292517006803,81.02046169989507,12.42391693519513,7.791185729275971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5305,7 +5305,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 preserve our liberties and promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862081001:1004/pct:126.44978783592644,328.3794466403162,49.71711456859972,31.462450592885375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862081001:1004/pct:31.61244695898161,82.09486166007905,12.42927864214993,7.865612648221344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5344,7 +5344,7 @@ alarming of all novelties, the most wild of all
 projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862081101:0152/pct:174.55399061032864,120.75876879026485,49.859154929577464,44.38081603435934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862081101:0152/pct:43.63849765258216,30.189692197566213,12.464788732394366,11.095204008589835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5384,7 +5384,7 @@ projects, is that of rending us in pieces in order
 to preserve our libesties and promote our hap  
 piness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862081201:0156/pct:180.01850138760406,120.32693674484719,50.32377428307123,45.80668088130775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862081201:0156/pct:45.004625346901015,30.081734186211797,12.580943570767808,11.451670220326937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5421,7 +5421,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in piéces in order  
 o preserve our libestien an promete wut eisyptasssr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862081201:1008/pct:126.60485021398003,326.08353033884947,49.71469329529244,31.20567375886525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862081201:1008/pct:31.668153434433542,81.52088258471237,12.435325602140946,7.801418439716312/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5461,7 +5461,7 @@ alarming of all novelties, the most wild of all
 projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862081301:0160/pct:177.24523033969288,117.35463826009764,49.651000465332714,44.314247669773636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862081301:0160/pct:44.31130758492322,29.33865956502441,12.412750116333179,11.078561917443409/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5498,7 +5498,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pleces in order  
 to preserve our liberties and promots our nappines
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862081301:1012/pct:128.17796610169492,323.11715481171547,48.58757062146893,30.96234309623431/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862081301:1012/pct:32.04449152542373,80.77928870292887,12.146892655367232,7.7405857740585775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5550,7 +5550,7 @@ in their charge by the Club.
 Art. 3. The President shall, at the first meet  
 ing of the Club, appoint a committee of three t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862081401:0164/pct:178.6809103576405,115.60940841054882,50.39479795633999,70.7056307911618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862081401:0164/pct:44.685793936578,28.902352102637206,12.603089789754907,17.67640769779045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5586,7 +5586,7 @@ enemies. And if novelties are to be shunned, believe
 the most alarming of all novelties, the most wild  
 all projects, le that of rending us in pieces in orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862081401:1016/pct:125.08809020436928,322.50592261121346,49.04862579281184,29.79731508291656/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862081401:1016/pct:31.288559844879252,80.62648065280337,12.268640930724484,7.44932877072914/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5626,7 +5626,7 @@ alarming of all novelties, the most wild of all
 projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862081501:0168/pct:177.58620689655172,118.63770447841245,50.51258154706431,44.69473496022169/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862081501:0168/pct:44.40689815893731,29.65942611960311,12.631088324399906,11.173683740055422/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5663,7 +5663,7 @@ the most alarming of all noveltieg, the most wild
 all projects, is that of rending us in pieces in order  
 pieserve our libernes ar promote our neppines
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862081501:1020/pct:130.49546406140962,326.11832611832614,48.91835310537334,31.16883116883117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862081501:1020/pct:32.629558541266796,81.52958152958153,12.231722212528355,7.792207792207792/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5716,7 +5716,7 @@ in their charge by the Club.
 Arr. 3. The President shall, at the first meet­  
 ing of the Club, appoint a committee of three t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862081601:0172/pct:173.8404452690167,118.88908670108599,50.09276437847866,70.85632900124622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862081601:0172/pct:43.46515133944103,29.722271675271497,12.524643395569987,17.714082250311556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5757,7 +5757,7 @@ ENSUETANOM.
  JoHH H WHEELER,  
 A GEnT FoHt HOnsEs oonTiNENTASs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862081601:1024/pct:125.0,325.61679790026244,48.4593837535014,40.577427821522306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862081601:1024/pct:31.260945709281962,81.40419947506561,12.119089316987742,10.144356955380577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5794,7 +5794,7 @@ me the most alarming of all novelties, the most wild
 all projects, is that of rending us in pieces in order  
 preserve our liberties and promote our happiness-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862081701:1028/pct:128.1382228490832,328.29396325459317,49.50634696755994,31.023622047244096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862081701:1028/pct:32.05150820250485,82.07349081364829,12.383136355618275,7.755905511811024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5846,7 +5846,7 @@ in their charge by the Club.
 Arr. 3. The President shall, at the first meet  
 ing of the Club, appoint a committee of three t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862081801:0176/pct:176.41860465116278,117.0722977809592,49.53488372093023,71.04509663564782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862081801:0176/pct:44.104651162790695,29.2680744452398,12.383720930232558,17.761274158911956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5899,7 +5899,7 @@ in their charge by the Club.
 Art. 3. The President shall, at the first meet  
 ing of the Club, appoint a committee of three t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862081901:0180/pct:178.22655524605386,114.98921639108555,50.32497678737233,71.81883537023724/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862081901:0180/pct:44.556638811513466,28.747304097771387,12.581244196843082,17.95470884255931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5936,7 +5936,7 @@ me the most alarming of all novelties, the most wiid
 of all projects, is that of rending us in pieoes in order  
 to preserve our liberties an d promote our happiness.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862081901:1032/pct:129.6640457469621,327.4502044585147,49.96426018584703,31.235984698588577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862081901:1032/pct:32.433398891471484,81.86255111462867,12.497765063472198,7.808996174647144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5976,7 +5976,7 @@ alarming of all novelties, the most wild of all
 projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our hap
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862082001:0184/pct:175.57323350491342,118.60714285714286,50.77211043518952,44.607142857142854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_england_ver02:data:sn82015683:00200295742:1862082001:0184/pct:43.90358062251346,29.651785714285715,12.695998127779077,11.151785714285714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6013,7 +6013,7 @@ the most alarming of all novelties, the most wild
 all projects, is that of rending us in pieces in order  
 preserve our liberties a d promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082001:1036/pct:121.81562280084448,326.4822134387352,48.909218859957775,31.040843214756258/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082001:1036/pct:30.469987678225664,81.6205533596838,12.233761661679281,7.7602108036890645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6053,7 +6053,7 @@ preserve our libernes and promote our happiness.
 Bt  
 o  wheeier
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082101:1040/pct:119.7872340425532,324.5173234594023,49.07801418439716,55.329277968791324/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082101:1040/pct:29.957431713373538,81.12933086485057,12.273855977296913,13.832319492197831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6089,7 +6089,7 @@ enemies. And if novelties are to be shunned, believe
 me the most alarming of all novelties, the most wild  
 of all prosects, is that of rending us in pieces in order
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082201:1044/pct:125.94710507505361,326.8247936050321,50.321658327376696,29.616039837504914/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082201:1044/pct:31.49803360743654,81.70619840125802,12.584912406149446,7.4040099593762285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6130,7 +6130,7 @@ AnSUETANTCT.
 JoHe H WEEELER,  
 A GENT gOR HiOME, ConTineNTa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082301:1048/pct:122.23011363636364,325.48450889914307,49.28977272727273,40.71193144363876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082301:1048/pct:30.5629550701474,81.37112722478577,12.324631504173325,10.17798286090969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6165,7 +6165,7 @@ me the most alarming of all novelt as, the most alld
 of ail protcots, is that of rending us in pieces in order  
 to preserys our liberties ad promote our happines
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082401:1052/pct:125.33904354032833,329.0577988915281,49.53604568165596,29.55925046186329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082401:1052/pct:31.351544367077306,82.26444972288202,12.3906445277629,7.389812615465822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6201,7 +6201,7 @@ enemies. And if novelties are to be shunned, believe
 me the most alarming of all novelties, the moat wild  
 of all projects, is that of rending us in pieoes in orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082601:1056/pct:122.75280898876404,327.0416942422237,47.96348314606742,29.80807412309729/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082601:1056/pct:30.704373792376604,81.76042356055592,11.997189531002986,7.452018530774322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6239,7 +6239,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our lipertes atn paomute ses 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082701:1060/pct:126.32696390658174,326.0438413361169,49.32767162066525,31.002087682672233/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082701:1060/pct:31.581740976645435,81.51096033402922,12.331917905166312,7.750521920668058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6276,7 +6276,7 @@ me the most alarming of all novelties, the most wild
 of all prolects, is that of rending us in pieces in order  
 to preserye our liberties a  promesy wht sevy
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082801:1064/pct:125.52891396332863,325.2219321148825,48.73060648801128,31.174934725848566/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082801:1064/pct:31.393298059964728,81.30548302872063,12.18694885361552,7.793733681462141/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6313,7 +6313,7 @@ the most alarming of all novelties, the most wild
 all nrolests, is that of rending us in pieces in order  
 preserve our liberties and promote our nappmness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082901:1068/pct:134.23487544483984,327.99685575789334,49.32384341637011,30.970784750425782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862082901:1068/pct:33.564691226196835,81.99921393947334,12.333155365723439,7.7426961876064455/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6350,7 +6350,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our liberties a d promote our nappiness-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862083001:1072/pct:126.56695156695157,325.52049233992403,49.35897435897436,30.7974335472044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862083001:1072/pct:31.641737891737893,81.38012308498101,12.33974358974359,7.6993583868011/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6375,7 +6375,7 @@ ulantly toils you that the Government recommended for
 your adoption is a novelty in the political world; that it  
 has never had yet a place in the theories of the wildest
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862083101:1076/pct:132.34880450070324,326.8902038132807,47.81997187060478,14.306377383300461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774674:1862083101:1076/pct:33.093019166520136,81.72255095332018,11.95709512924213,3.5765943458251153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6414,7 +6414,7 @@ of all projects, is that of rending us in pieces in order
 to preserve our liberties and promote our nappinens.  
 e o eoa o e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862090201:0011/pct:127.60115606936417,329.6969696969697,50.216763005780344,30.988142292490117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862090201:0011/pct:31.90028901734104,82.42424242424242,12.554190751445086,7.747035573122529/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6460,7 +6460,7 @@ TEGSUIMT AN OES.
 fJOH HWHREIeR,  
 AEN Erai HonE CONTINEnTa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862090301:0015/pct:124.07541696881799,320.9785610943049,50.97897026831037,52.50558989872419/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862090301:0015/pct:31.03573372029748,80.24464027357622,12.751677852348994,13.126397474681047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6497,7 +6497,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 preserve our liberties and promote our nappiness,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862090401:0019/pct:130.07246376811594,329.42413883775964,50.43478260869565,31.185905863791742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862090401:0019/pct:32.518115942028984,82.35603470943991,12.608695652173912,7.7964764659479355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6538,7 +6538,7 @@ ENSUETANCM.
 JoHh H WHEELER,  
 A ENT FOE HOME, CONTiNENTAl
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862090501:0023/pct:132.42467718794836,329.07988399683626,49.49784791965567,42.604798312681254/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862090501:0023/pct:33.10616929698709,82.26997099920906,12.374461979913917,10.651199578170313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6575,7 +6575,7 @@ me the most alarming of all novelties, the most wild
 all projects, is that of rending us in pieces in order  
 preserve our liberties and promote our happinoos.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862090601:0027/pct:127.6978417266187,327.80692549842604,49.42446043165467,30.84994753410283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862090601:0027/pct:31.935948182799567,81.95173137460651,12.360561353004679,7.712486883525708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6611,7 +6611,7 @@ enemies. And if novelties are to be shunned, believe
 me the most alarming of all novelties, the most wil  
 of all oroiects, is that of rending is in pleoes in ord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862090701:0031/pct:120.98853868194843,325.82295081967214,49.78510028653295,29.21967213114754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862090701:0031/pct:30.252552391187532,81.45573770491804,12.448504388321691,7.304918032786885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6652,7 +6652,7 @@ enemies. And f hovelties are to be shuaned, behieve
 me the most alarming of all novelt es, the most will  
 f all projecis, is that of reoding os in pieoss in ord
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862090901:0035/pct:125.61151079136691,318.6092453575662,49.856115107913666,38.298432767022256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862090901:0035/pct:31.419830843980566,79.65231133939155,12.470757603023214,9.574608191755564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6689,7 +6689,7 @@ me the most afarming of all novelties, the most wiln
 of all projects, is that of rending us in pieces in ordar  
 to preserve our liberties a d promote our fappinens.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091001:0039/pct:130.91822094691534,325.77211197266394,48.99569583931133,30.96333289525562/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091001:0039/pct:32.747173874035525,81.44302799316598,12.255517674502064,7.740833223813905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6726,7 +6726,7 @@ me the most alarming of all novelties, the most wild
 all projects, is that of rending us in pieces in order  
 preserve our liberties ad promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091101:0043/pct:126.7433501078361,325.75259629288814,50.5391804457225,31.076639936900225/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091101:0043/pct:31.691533345317275,81.43814907322204,12.637066331116305,7.769159984225056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6763,7 +6763,7 @@ me the most alarming of all hovelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our happiness,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091201:0047/pct:133.04659498207886,325.4272942413884,49.39068100358423,31.133315803313174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091201:0047/pct:33.27954097184866,81.3568235603471,12.354312354312354,7.7833289508282935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6800,7 +6800,7 @@ the most alarming of all novelties, the most wil
 all projects, is that of rending us in pieces in order  
 to preserve our libernes ad promofe our nappinee.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091301:0053/pct:131.2590448625181,324.9179035859714,50.0,31.262314462104296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091301:0053/pct:32.82069838972318,81.22947589649284,12.502261624751222,7.815578615526074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6837,7 +6837,7 @@ me the most alarming of all novelties, the most wild
 of all profects, is that of rending us in pieces in order  
 to preserve our liberties and promote our happiness.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091401:0057/pct:130.88023088023087,325.4736842105263,49.711399711399714,31.157894736842106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091401:0057/pct:32.737772965168745,81.36842105263158,12.434578595921314,7.7894736842105265/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6874,7 +6874,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in piepes in order  
 to breserve our tidoravs 3 Mromies esasa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091601:0063/pct:132.63988522238162,327.09178996988345,49.85652797704448,30.954563310200342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091601:0063/pct:33.159971305595406,81.77294749247086,12.46413199426112,7.7386408275500855/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6911,7 +6911,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our liberties a d promote our hapginess.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091701:0067/pct:128.56109906001447,326.1025029797378,50.03615328994938,31.254138524698714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091701:0067/pct:32.151898734177216,81.52562574493444,12.513562386980109,7.8135346311746785/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6948,7 +6948,7 @@ me the most alarming of all novelties, the most wild
 all projects, is that of rending us in pieces in order  
 preservs our liberties a d promote our happines
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091801:0071/pct:128.15884476534296,325.03945291951607,50.108303249097474,31.299316149395054/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091801:0071/pct:32.05128205128205,81.25986322987902,12.531599855543517,7.8248290373487634/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -6985,7 +6985,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 preserve our liberties a d promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091901:0075/pct:125.93123209169055,323.38190888801364,49.713467048710605,30.930812655901274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862091901:0075/pct:31.482808022922637,80.84547722200341,12.428366762177651,7.7327031639753185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7022,7 +7022,7 @@ the most alarming of all novelties, the most wild
 all projects, is that of rending us in pieces in order  
 preserve our liberties and promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862092001:0079/pct:132.40542469664524,329.0866017372993,49.179157744468235,30.850223743090286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862092001:0079/pct:33.11317386647626,82.27165043432483,12.299178864691182,7.7125559357725715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7059,7 +7059,7 @@ the most alarming of all novelties, the most wild
 all projects, is that of rending us in pieces in order  
 preserve our liberties and promote our happiness.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862092101:0083/pct:127.12230215827338,322.9478101232625,51.15107913669065,31.209021767637033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862092101:0083/pct:31.797732589526724,80.73695253081563,12.794673384919921,7.802255441909258/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7096,7 +7096,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862092301:0087/pct:130.34433285509326,325.3891432308699,49.92826398852224,31.18378024852845/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862092301:0087/pct:32.586083213773314,81.34728580771747,12.48206599713056,7.7959450621321125/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7132,7 +7132,7 @@ enemies. And if novelties are to be shunned, believe
 me the most alarming of all novelties, the most wild  
 of all projects, is that of rending us in picoes in orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862092401:0091/pct:126.63352272727273,323.8145140162431,49.36079545454545,29.709195703432016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862092401:0091/pct:31.658380681818183,80.95362850406077,12.340198863636363,7.427298925858004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7169,7 +7169,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our napeinebs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862092501:0095/pct:128.4692417739628,326.23294858342075,49.71387696709585,31.269674711437567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862092501:0095/pct:32.13455000894614,81.55823714585519,12.435140454464126,7.817418677859392/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7206,7 +7206,7 @@ the most alarming of all novelties, the most wild
 all projects, is that of rending us in pieces in order  
 pleserve our minertien on paaesy vus seydsssee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862092601:0101/pct:127.8735632183908,326.55530711561227,50.21551724137931,31.25082204393003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862092601:0101/pct:31.97413328543201,81.63882677890307,12.556134363211784,7.812705510982507/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7243,7 +7243,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our liberties an d promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862092701:0107/pct:130.30085959885386,325.7082896117524,49.92836676217765,31.217208814270723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862092701:0107/pct:32.592725318043364,81.4270724029381,12.48880129009138,7.804302203567681/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7280,7 +7280,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our liberties and promete our haprince
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862092801:0111/pct:131.64285714285714,330.09198423127464,50.5,31.484888304862025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862092801:0111/pct:32.92835447561193,82.52299605781866,12.631767018045382,7.871222076215506/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7316,7 +7316,7 @@ enemies. And if novelties are to be shunned, believe
 me the most alarming of all novelties, the most wild  
 all projects, is that of rending us in pieoes in orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862093001:0115/pct:125.26690391459074,323.61623616236164,49.6085409252669,29.836584080126517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862093001:0115/pct:31.316725978647685,80.90405904059041,12.402135231316725,7.459146020031629/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7353,7 +7353,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our libertiss and promote our happiness,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862100101:0119/pct:131.17732558139534,325.4704479194275,50.65406976744186,31.22183938510469/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862100101:0119/pct:32.80029075049973,81.36761197985687,12.665818644375795,7.805459846276173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7390,7 +7390,7 @@ the most alarming of all novelties, the most wild
 all projects, is that of rending us in pieces in order  
 preserve our liborties and promote our nappiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862100201:0123/pct:127.2133526850508,323.91703859280653,50.87082728592163,31.03176686794434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862100201:0123/pct:31.820657106552915,80.97925964820163,12.724632419676892,7.757941716986085/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7427,7 +7427,7 @@ the most alarming of all novelties, the most wild
 all projects, is that of rending us in pieces in order  
 preserve our liberties and promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862100301:0129/pct:128.27187274041938,324.22163588390504,50.54229934924078,31.398416886543536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862100301:0129/pct:32.07376604592298,81.05540897097626,12.637859338275176,7.849604221635884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7464,7 +7464,7 @@ the most alarming of all novelties, the most wild
 all projects, is that of rending us in pieces in order  
 preserve our liberfies and promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862100401:0133/pct:129.56521739130434,326.67628920089226,50.72463768115942,30.86209158903031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862100401:0133/pct:32.40304458137006,81.66907230022306,12.685755708590069,7.715522897257578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7501,7 +7501,7 @@ the mostalarming of all novelties, the most wild
 all projects, is that of rending us in pieces in order  
 preserve our liborties a d promote our happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862100501:0137/pct:119.17024320457797,325.1794804855763,49.4277539341917,30.753165383109256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862100501:0137/pct:29.803220035778175,81.29487012139407,12.361359570661897,7.688291345777314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7538,7 +7538,7 @@ me the most alarming of all novelties, the most wild
 all projects, is that of rending us in pleoss in order  
 preserve our liberties ad promote our happinces.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862100801:0143/pct:123.19255547602005,324.71264367816093,49.96420901932713,31.138975966562175/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862100801:0143/pct:30.809165771571788,81.17816091954023,12.495524525599713,7.784743991640544/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7575,7 +7575,7 @@ me the most alarming of all novelt es, the most wild
 of all prolects, is that of repding yos in pieooit in order  
 to preserve our liberties ad promote our happines
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862100901:0147/pct:131.6275764036958,325.05879278808465,49.324804548685144,31.147112620851843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862100901:0147/pct:32.912742136129374,81.26469819702116,12.333392571530123,7.786778155212961/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7612,7 +7612,7 @@ me the most alarming of all novelties, the most wild
 all projects, is that of rending us in pieces in order  
 to preserve our liberties and promote our happiness-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862101001:0153/pct:122.02295552367288,326.40084779440986,50.43041606886657,31.580341767121475/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862101001:0153/pct:30.52216041629284,81.60021194860246,12.614390812847658,7.895085441780369/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7648,7 +7648,7 @@ nemiss. And if novelties are to be shunned, belier
 the most alarming of all noveltiss; the most ail  
 all projects, is that of rending as in plesss in orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862101101:0159/pct:121.21428571428571,326.5614812883036,50.285714285714285,29.41713391576477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862101101:0159/pct:30.303571428571427,81.6403703220759,12.571428571428571,7.354283478941192/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7686,7 +7686,7 @@ me the most alarming of all novelties, the most wild
 of all projects, is that of rending us in pieces in order  
 to preserve our liberfies and promote our happinesss
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862101201:0163/pct:125.2676659528908,325.1700680272109,49.892933618843685,31.135531135531135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862101201:0163/pct:31.32809710817565,81.29251700680273,12.477686540521242,7.783882783882784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7722,7 +7722,7 @@ enemies. And if novelties are to be shuuned, belleve
 me the most alarming of all novelties, the most wild  
 of all projects, is that of rending us in plecea in orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862101401:0167/pct:123.43304843304843,317.32396199401273,49.643874643874646,29.155277886242352/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862101401:0167/pct:30.858262108262107,79.33099049850318,12.410968660968662,7.288819471560588/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7761,7 +7761,7 @@ me the most alarming of all novelties, the most wild
 all projects, is that of rending us in pieces in order  
 preserve our liberties and promote our happi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862101501:0173/pct:128.6628733997155,325.3053184504268,49.85775248933144,30.991464215364413/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862101501:0173/pct:32.17716115261473,81.3263296126067,12.468872287442192,7.747866053841103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7798,7 +7798,7 @@ me the most alarming of all novelties, the most wild
 of all proiects, is that of rending us in picoss in order  
 to preserve our liberties and promote onr happiness.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862101601:0177/pct:126.06837606837607,327.5495471846699,49.43019943019943,31.185194907468173/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_lysander_ver01:data:sn84028645:00280774686:1862101601:0177/pct:31.528322052012825,81.88738679616748,12.361952262201639,7.796298726867043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7838,7 +7838,7 @@ the Government in person; in a republic,
 they assemble and administer it by their  
 representatives and agents. (P.61) I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863062701:0586/pct:42.93706293706294,165.7974053204036,50.48951048951049,10.064211767789281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_grady_ver01:data:sn83025718:00200293769:1863062701:0586/pct:10.736142682287113,41.4493513301009,12.624584717607974,2.5160529419473203/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -7959,7 +7959,7 @@ any.&quot; The absolutism claimed now for the
 General Government is thus seen to have  
 been repudiated by the old advocates of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279529170:1864111401:0051/pct:16.788434633918857,126.03156049094098,37.509715529302035,43.77556984219755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_hypno_ver01:data:sn83045646:00279529170:1864111401:0051/pct:5.596144877972952,42.01052016364699,12.503238509767346,14.591856614065849/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8043,7 +8043,7 @@ Union in their declaration that, on the con
 trary, the Unionjdid not create a full but only  
 a partial sovereignty, whose functions ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864121901:1032/pct:142.80373831775702,48.38709677419355,58.22429906542056,65.2875175315568/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn85026002:0028077506A:1864121901:1032/pct:35.709277868660905,12.096774193548388,14.55947651320402,16.3218793828892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8097,7 +8097,7 @@ wisest statesmen &quot;the most evil of all projects and the
 most rash of all attempts to rend in pieces in order to  
 preserve our liberties and promote our happiness.&quot; Suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743567:1866100601:0074/pct:104.73527869998253,194.54097350585334,46.531539402411326,6.506469500924214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_juneberry_ver01:data:sn83030313:00271743567:1866100601:0074/pct:34.91175956666084,64.84699116861779,15.510513134137108,2.168823166974738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8118,7 +8118,7 @@ speaking of the new one!, &quot;is to secure
 the Union of the thirteen primitive  
 States,&quot; and to add to them othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:105.36912751677852,138.56670341786108,37.64490543014033,9.393605292171996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:26.350320415013734,34.64167585446527,9.414098260604211,2.348401323042999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8137,7 +8137,7 @@ globe. They formed the design of a
 great Confederacy, which it is incumibent  
 on their successors to improve and per
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:143.44112263575352,341.0363836824697,37.64490543014033,6.835722160970231/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292959:1867030501:0206/pct:35.8712236801953,85.25909592061743,9.414098260604211,1.7089305402425579/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8256,7 +8256,7 @@ former &quot;the people meet and exercise the gov-­
 &quot;ble and administer it by their representatives  
 &quot;and agents.&quot; In either case, it must be the peo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:0020653087A:1867100401:0244/pct:101.54623392529088,179.73151408450704,47.48928352725046,11.256602112676056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030214:0020653087A:1867100401:0244/pct:33.84874464176362,59.91050469483568,15.829761175750154,3.752200704225352/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8276,7 +8276,7 @@ ernment in person; in a republio they assem­
 ble and administer it by their representatives  
 and agents.&quot; In either case it must be th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867100501:0242/pct:47.578347578347575,44.02673350041771,19.31980056980057,4.218880534670008/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776221:1867100501:0242/pct:35.702832709780864,33.02701197438039,14.502048815250312,3.16067947646895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8336,7 +8336,7 @@ exerciso the government in person ; in a
 republic they assemble and administer it  
 by iheir representatives and agsnts.&quot; I
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294579:1867101701:0709/pct:82.32044198895028,52.45537867824409,14.691109994977399,2.952243125904486/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn84038034:00200294579:1867101701:0709/pct:61.75584024114544,39.343945972021224,11.027380055262498,2.2190062711046794/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8380,7 +8380,7 @@ government in person; in a republic they
 assemble and administer it by their repres­  
 entatives and agents,&quot; in either case i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_jackrabbit_ver01:data:sn84022040:00271762367:1867103101:1535/pct:32.968236582694416,350.56698058812225,67.46987951807229,12.992504324428214/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_jackrabbit_ver01:data:sn84022040:00271762367:1867103101:1535/pct:8.242059145673604,87.64174514703056,16.867469879518072,3.2481260811070536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8594,7 +8594,7 @@ to meet as often as may be necessary for the ad­
 ministratlon of public affairs.&quot; !!?* estimates the  
 length of the country, irom north to south, a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887091601:0619/pct:1.6529937553569243,64.89595838335335,12.134198604138607,2.2609043617446978/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_rottweiler_ver01:data:sn83045462:0028065467a:1887091601:0619/pct:1.6560548549038814,64.90096038415366,12.137259703685563,2.258403361344538/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8638,7 +8638,7 @@ be necessary for the administration of
 public affairs.&quot; He estimates the  
 length&#x27;of the country, from north t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_iraryan_ver01:data:sn96061150:00200298251:1887091701:0266/pct:9.134906231094979,37.640449438202246,18.224440411373262,6.753038293969273/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_iraryan_ver01:data:sn96061150:00200298251:1887091701:0266/pct:6.096822995461422,25.097454712221968,12.148260211800302,4.505847282733318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8656,7 +8656,7 @@ than Germany .... or than Poland be
 fore the late dismemberment&quot;  
 In another place he says, &quot;If
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_iraryan_ver01:data:sn96061150:00200298251:1887091701:0266/pct:9.301270417422867,46.44576931896354,17.93708408953418,3.7376748452189865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_iraryan_ver01:data:sn96061150:00200298251:1887091701:0266/pct:6.202723146747353,30.96766796606283,11.966717095310136,2.4879614767255216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8678,7 +8678,7 @@ to meet r.s often as ma}&#x27; be necessary for
 the administration of public affairs.&quot;  
 He estimates the length of the countr
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064525:0021247924A:1887092301:0103/pct:56.87263556116015,24.944974321349964,8.915510718789408,3.6474164133738602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064525:0021247924A:1887092301:0103/pct:56.88104245481295,24.944974321349964,8.91130727196301,3.650910107256402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8696,7 +8696,7 @@ larger than Germany .... or than
 Poland before the late dismemberment.&quot;  
 In another place he says: &quot;If
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064525:0021247924A:1887092301:0103/pct:56.87263556116015,29.535688083010168,8.9281210592686,1.8551514516298082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_neon_ver01:data:sn89064525:0021247924A:1887092301:0103/pct:56.88104245481295,29.54267547077525,8.936527952921395,1.848164063864724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8729,7 +8729,7 @@ to secure the Union of the thirteen primt­
 tive States, and to add to them such other  
 States as may arise.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:65.61814191660571,98.99840325156046,43.59912216532553,30.88982435767165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022501:0228/pct:16.41053787047201,24.749600812890115,10.903768752286863,7.722456089417912/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8828,7 +8828,7 @@ north, an irregular line running in
 some instances beyond the 45th de­  
 gree, in others falling as low as th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878678:1892081101:0149/pct:24.126455906821963,16.005108013195702,14.295618413754854,4.895179312546557/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878678:1892081101:0149/pct:18.102372034956304,12.003831009896775,10.736579275905118,3.671384484409918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8863,7 +8863,7 @@ the republic rocked and groaned with
 the throes of the terrible collision, un­  
 til at last it came to calm and res
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878678:1892081101:0149/pct:24.37603993344426,78.06746834095988,14.44814198557959,14.462062360327764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_haw_ver01:data:sn91068402:00295878678:1892081101:0149/pct:18.296573727285338,58.55060125571991,10.847551671521709,10.854528040864105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8962,7 +8962,7 @@ l  under the weight of some of those forms which have
 argen $ aign of a great confederacy, which it is incumbent on  
 ls Uh2s. their successors to improve and perpetuate.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898063001:0400/pct:0.0,203.69157487347425,75.55555555555556,55.314081571896395/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898063001:0400/pct:0.0,50.92289371836856,18.899388549193997,13.828520392974099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -8994,7 +8994,7 @@ s  fines of the continent, it would only be an
   The American Fathers did not intend that  
  our system of government should be forme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898063001:0400/pct:0.14814814814814814,261.2682345936291,75.85185185185185,37.03483179517713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_qabbani_ver01:data:sn83030272:00175043019:1898063001:0400/pct:0.03705762460626274,65.31705864840727,18.973503798406522,9.258707948794283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -903,7 +903,7 @@ POST-OFFICE.
 BE it enailed by the Senate and House of 1  
 present atives of the United States of America in C
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789101401:0004/pct:71.37276785714286,59.49030049448459,22.879464285714285,17.211867630277673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789101401:0004/pct:71.37974330357143,59.50456447318372,22.872488839285715,17.207112970711297/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1047,7 +1047,7 @@ er, The general lnjuntflion of the Ccnftitution (Article
 ds. Treasury but in eonfequence of appropriations made by  
 law.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0001/pct:67.76694173543386,13.047759724273757,21.630407601900476,71.55752502872149/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0001/pct:67.78569642410602,13.047759724273757,21.61790447611903,71.56573116691285/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1070,7 +1070,7 @@ ture and deGgnating the objetft and the fnnd. This
 be being done, the diiburfement may be made consist­  
 » aut!y with the constitution, either by way of aduaner
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0001/pct:67.76694173543386,88.87247661250615,21.75543885971493,5.383226653536846/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0001/pct:67.78569642410602,88.87657968160184,21.73668417104276,5.391432791728213/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1373,7 +1373,7 @@ the Legislature from increasing or dimimfliing this
 compensation, during any term of his deftion U&quot;r  
 &#x27; pr?Il
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0002/pct:9.740426625546132,2.837815541989771,44.230274993574916,90.16663916845405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0002/pct:9.746851709072217,2.8460650057746246,44.223849910048834,90.16663916845405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1389,7 +1389,7 @@ compensation, during any term of his deftion U&quot;r
 * These ideas with regard to the adminiflration of —  
 the fund appropriated, are very crude and incorrect • 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0002/pct:31.560010280133643,90.64510806797558,22.384991004883062,1.4024088434251774/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0002/pct:31.56643536365973,90.65335753176043,22.40426625546132,1.4024088434251774/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1492,7 +1492,7 @@ n th#ir haDtiß tefpedh&#x27;vely beyond the compensations pri;
 due to the members of the Senate and House of  
 r_ Representatives as will appear by referring to the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0002/pct:51.68337188383449,2.9368091074080183,23.798509380621947,60.74905131166474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0002/pct:51.69622205088666,2.9409338393004454,23.798509380621947,60.761425507342025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1637,7 +1637,7 @@ ates for the fame purpose, - 2 QG
 n the JBth Feb. i7?i, and charged to this apufo­  
 s pnation, are . . 4J)QC
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0002/pct:51.68337188383449,2.4088434251773636,45.12978668722693,91.56904801187923/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0002/pct:51.69622205088666,2.4170928889622174,45.13621177075302,91.56904801187923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1678,7 +1678,7 @@ the irt of Oa.ber, 1795/ * . .
 i-.xcels of appropriation on the of the nth  
 Feb. 1791, Z)aJ
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0002/pct:73.19455152916989,64.74179178353407,21.2798766383963,19.798713083649563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0002/pct:73.21382677974813,64.75416597921135,21.2798766383963,19.798713083649563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1819,7 +1819,7 @@ answered, that I had no doubt of either. *
 Those who&#x27;are acquainted with the great expence  
 or fevera! yens part of living in and Phi­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0003/pct:6.543241186913518,3.6107008042015427,22.29267055541466,86.50910881339242/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0003/pct:6.562262236875475,3.6230100114885935,22.28633020542734,86.51321188248811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1984,7 +1984,7 @@ vely Coippcnfaiiorrdue, . 6^
 ««p- i,g,, Die t!,e U. Siates, 31ft Dec. . .  
 ere- March 31. Warrants d:a*», . 8150
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0003/pct:26.959168146081662,3.7748235680288857,42.98757291402485,90.612177909076/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0003/pct:26.959168146081662,3.7789266371245693,43.01293431397413,90.62038404726735/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2024,7 +2024,7 @@ F j— j)
 Balance due the President, s,fi 2  
 1 ft
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0003/pct:47.75551610448897,69.35827999343509,22.520923154958155,14.869522402757262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111601:0003/pct:47.774537154450925,69.35827999343509,22.501902104996194,14.869522402757262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2088,7 +2088,7 @@ I (pasTed the 29th of Sept. 17o*,) allows Jo each
 r of the House of Reprefeutatives, an ! shall be pa  
 s paSed as public accounts aad paid out «/the Trea- y
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111701:0003/pct:26.40379336161717,4.0215792054928885,42.97479411030696,90.89422919731895/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jungle_ver01:data:sn84026273:print:1795111701:0003/pct:26.410032443224356,4.033840117704758,42.98103319191415,90.90240313879353/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2440,7 +2440,7 @@ propriation. More cunnot be pa:d, but more
 may be advanced, on the accountability of the‘  
 person to whom it is advanced. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795120801:0553/pct:6.85783644363526,4.562816145349437,61.82673342436656,89.12976153607929/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795120801:0553/pct:6.85783644363526,4.569698220983448,61.83684822738077,89.13320257389628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2561,7 +2561,7 @@ tion. It is known that it passed in consequence
 of reprelentanons, that the pay of the army was  
 left too long in arrear, and 1t &#x27;was intended to 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795120801:0553/pct:68.35078136853285,18.106740993083513,20.66454255803368,71.76628471146898/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795120801:0553/pct:68.36089617154705,18.11018203090052,20.66454255803368,71.773166787103/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2581,7 +2581,7 @@ Jeél to go into the developements, :
   
 [9/ #r. Annum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795120801:0553/pct:68.38112577757548,13.915556931970682,20.163859808830225,79.40538866522144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795120801:0553/pct:68.38112577757548,13.915556931970682,20.16891721033733,79.41571177867245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2971,7 +2971,7 @@ the 11th Feb. 1791, - 2,850
 ‘Total excess of appropriations beyond i  
 advances to the 1t O&amp;. 1793, 15,350
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795120801:0554/pct:12.014508085235,4.961399897066392,60.692156566419825,87.78178075141534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795120801:0554/pct:12.019545614830488,4.961399897066392,60.68711903682434,87.79207411219764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3124,7 +3124,7 @@ How far the President was privy to the course
 of advancing, I cannot fay—But it is certain  
 they have been all made to his private Secreta
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795120801:0554/pct:52.92428593017984,5.023160061760165,40.123923228048966,87.67884714359238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795120801:0554/pct:52.929323459775325,5.02659118202093,40.12896075764445,87.67884714359238/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3398,7 +3398,7 @@ Register’s Office, Nov. 13, 1795.
 Extrated from the Books of the Treasury.  
 JOSEPH NOURSE, Regi/ler.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795120801:0556/pct:10.944272445820433,4.616337911804193,61.59442724458204,87.90664050397604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795120801:0556/pct:10.944272445820433,4.619780371097112,61.604747162022704,87.90664050397604/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3427,7 +3427,7 @@ truly virtuous men of our country, and to
 transfer it with the power of the State to  
 ambitious, intriguing and hypocritical pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796043001:0069/pct:8.49473844746073,21.601965601965603,15.86091200244014,8.638820638820638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1796043001:0069/pct:8.499822073102537,21.605241605241606,15.876162879365564,8.635544635544635/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3528,7 +3528,7 @@ thers incident to his official station, have fully
 equalled, if not on some occasions exceeded  
 the allowance made to him by the U. States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826030601:0136/pct:60.31434184675835,36.95963040369596,17.501637197118534,9.82290177098229/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826030601:0136/pct:60.30446881650025,36.95556533216014,17.504228733562503,9.825487608153688/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3555,7 +3555,7 @@ t alive, is easy.
 From the Phila. Aurora and Franklin Gazette  
 Edward Anderson, the person mentioned i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826030601:0136/pct:60.34708578912901,57.166428335716645,17.43614931237721,8.623913760862392/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826030601:0136/pct:60.337207398919624,57.16014078310603,17.43875156872374,8.62663147089016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3602,7 +3602,7 @@ age of this act, the pay and emoluments of all officers of the Fed
 ral Government, in the civil departments thereof, excepting  
 n the diplomatic service abroad, the Conunissioner of Ponsions, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843022101:0176/pct:134.35770463151763,116.62001399580126,39.25138362947859,24.189409843713552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn84024656:00414184613:1843022101:0176/pct:44.77937964176496,38.86880466472303,13.08188922867822,8.062196307094267/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3705,7 +3705,7 @@ President was answerable in case of
 death or other premature vacancy-&quot;  
 If be Mas not in debt, how could th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn84038806:00280768935:1873101701:0055/pct:5.424110735554483,34.223963899774375,11.8622243682601,8.799429996437478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_moonstone_ver01:data:sn84038806:00280768935:1873101701:0055/pct:5.436182198615805,34.223963899774375,11.8622243682601,8.808336302101889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

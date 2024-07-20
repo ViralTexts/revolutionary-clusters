@@ -173,7 +173,7 @@ viz. “‘and not hold any office of pro­
 fit under these States, or any of them,”  
 be, and is hereby repealed.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780102101:0423/pct:5.814207650273224,4.42632498543972,58.032786885245905,89.23995340710542/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780102101:0423/pct:5.814207650273224,4.42632498543972,58.04007285974499,89.23995340710542/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -634,7 +634,7 @@ or in other words, was there an end of the war
 . before thu Bth of May, 178J, the day of captain  
 Hurlbut&#x27;s death ? On the solution of the quef
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797122001:0002/pct:59.81858298602599,60.375075620084694,18.141701397401324,7.017543859649122/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797122001:0002/pct:59.82471193920078,60.37885662431942,18.15395930375092,7.017543859649122/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -677,7 +677,7 @@ the certificates issued to the said officers as evi­
 dence of their claims for the five years full pay,  
 or half pay for life, where the proffered commu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826031001:0149/pct:4.610808130887457,60.27120923456237,17.81523715088415,11.800963801412081/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826031001:0149/pct:4.6100462656972905,60.2644554011654,17.817801277814496,11.803376662184371/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -716,7 +716,7 @@ ceived or the certificates issued to said officers
 as evidence of their claims for the five years full  
 pay or half pay for life, where the proffere
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826031101:0153/pct:4.348544973544974,45.31302497480121,17.857142857142858,9.317952738268563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hops_ver01:data:sn85025006:00414216353:1826031101:0153/pct:4.3478260869565215,45.30795072788354,17.859701328043204,9.320642030608436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -755,7 +755,7 @@ the proffered commutation was not accepted; the
 manner in which such certificates were paid or  
 funded by the United States; and any other in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826031401:0382/pct:21.50383141762452,17.758456407813245,15.118135376756067,12.720343020485945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183992:1826031401:0382/pct:21.500399042298483,17.75634155055377,15.121042830540038,12.722797824619905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -779,7 +779,7 @@ certificate&#x27;s issued to said officers as evidence of their
 claims for the five years full pay or half pay for life,  
 where the proffered commutation was not accepted
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826031401:0053/pct:5.53880336454531,55.630171483391294,17.91779082685288,5.312387576448016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184546:1826031401:0053/pct:5.537924468422723,55.62350119904077,17.920236961811064,5.315747402078338/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -835,7 +835,7 @@ express and solemn promises, thus made to
 the defenders of the country, in the hour  
 of their suffering, and of our peril, hav
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1827022301:0139/pct:59.29776382895253,66.29522630348053,17.24205570812083,11.239510249002613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn82014309:00414182926:1827022301:0139/pct:59.28613453618357,66.28610729023384,17.24357717199451,11.241403026134801/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1071,7 +1071,7 @@ intermarriage, ihe sa? half-pay .hall be given to the or­
 phan ch ildren o) ?he olhrer dying as aforesaid, if he shall  
 have lelt any i\ow, sir, this constitutes one Wa?&lt; o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854032601:0487/pct:63.81589958158996,55.35281357662371,15.832635983263598,4.249074901110118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661228:1854032601:0487/pct:63.827057182705715,55.36132023308239,15.838214783821478,4.244821572880779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1155,7 +1155,7 @@ claims.
 The eleventh section of the bill gives the bene­  
 fit of the first and fifth sections to the officer, i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856081101:0347/pct:249.8423236514523,14.39882366248162,47.684647302904565,50.1866304716661/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856081101:0347/pct:83.2807745504841,4.799607887493873,15.894882434301522,16.7288768238887/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1244,7 +1244,7 @@ protit under these Status, or any of thein,&#x27; be, and is hereby,
 repealed.&quot;?Journal of Congress, August 24, 1780.  
 Thus, the proposed half-puy for seven yeara was no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:77.70883054892602,15.420384567047883,17.517899761336515,8.181475430438608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661083:1857010901:0054/pct:77.71413418191462,15.428762934104142,17.52320339432511,8.185664613966738/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1273,7 +1273,7 @@ the officer so dying
 By a resolution of the 218t October, 1780, the offi­  
 cers to be reduced under a new arrangement of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857010901:0531/pct:15.35181236673774,231.06250923599822,58.32525683271952,29.037978424708143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn85034360:00393347995:1857010901:0531/pct:3.8372093023255816,57.75709219858156,14.578488372093023,7.258421985815603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1378,7 +1378,7 @@ counts then settled were destroyed, and the
 records of the States of the payments they  
 had made under the resolution of 1780 wer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876051101:0445/pct:25.018504811250924,25.0899151201266,44.11547002220578,37.174507265141706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84022473:00280777560:1876051101:0445/pct:6.258100351786706,6.27247878003165,11.03499351971857,9.293626816285427/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

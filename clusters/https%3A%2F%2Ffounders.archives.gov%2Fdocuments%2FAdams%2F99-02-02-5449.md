@@ -118,7 +118,7 @@ and shame at defiance : it becomes more profit­
 able, and reputable too, except with a very few,  
 to be a party man than a public spirited one
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789080101:0004/pct:18.108186288689616,62.70507439908432,25.658085044836564,2.384586035864174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1789080101:0004/pct:18.108186288689616,62.70507439908432,25.658085044836564,2.3893552079359024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -244,7 +244,7 @@ those individuals may be placed some of our most ar­
 dent republicans!  
 It is said that the idea of a union of the people o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805062901:0578/pct:5.169385194479298,5.784855378615535,21.430363864491845,2.9736756581085473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805062901:0578/pct:5.168088309081786,5.78391551584078,21.431259407927747,2.977254264825345/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ those individuals may be played Some of •*­
 our most ardent republicans 1  
 It is said that the idea of a union o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1805071201:0458/pct:70.90803932909196,27.469793887704334,23.048004626951997,3.7313432835820897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1805071201:0458/pct:70.88753975137323,27.46491383904779,23.048568950563748,3.7351216912417837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -367,7 +367,7 @@ ed to ; for a degraded, disappointed, rich and iHustrious
 family, would at any time annihilate heaven and earth,  
 if it could, rather than fail of carrying its points.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828100701:0570/pct:58.61711578323956,73.87056104223576,15.857269766064555,4.5702878756041185/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015155:1828100701:0570/pct:58.61711578323956,73.8740631785389,15.857269766064555,4.5702878756041185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -480,7 +480,7 @@ ed. rich, and illustrious family, would, at any time,
 annihilate heaven and earth, if it could, rather than  
 fail ia carrying ils point.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840062301:0518/pct:50.391143911439116,54.60242449147319,14.966789667896679,5.074994863365523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015192:1840062301:0518/pct:50.39606396063961,54.60242449147319,14.966789667896679,5.081843709334977/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ thought him, personally sufficiently qualified for the
 port but he considered the departare of Col. Webb  
 only two days before the opening of the sossion, an ac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850010601:0034/pct:240.96821999012022,190.28817789879736,45.39766178165651,20.887224869525756/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743014:1850010601:0034/pct:80.32273999670673,63.429392632932455,15.132553927218838,6.962408289841918/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ The stockholders of the Tuscarawas Valley R. R.
 held both aspccial and annual meeting at Cleve­  
 land last Wednesday. There were represente
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1877032201:0967/pct:62.88343558282209,82.71506448610558,18.229623137598598,7.060231352213801/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_jaques_ver01:data:sn84028490:00280775022:1877032201:0967/pct:47.19421306444542,62.03962239063954,13.678211310828583,5.291849488099987/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -675,7 +675,7 @@ Captain of the age called him to his Cabinet
 to administer the finances of this Empire of  
 the Western world
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895837:1883011301:0044/pct:54.913616942225524,29.12087912087912,12.669515140256363,7.001972386587771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895837:1883011301:0044/pct:54.90341753343239,29.116777010846597,12.671805349182764,7.004507677137625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ double treachery by proclaiming that they had joined ou
 It weeps. It bleeds, and each new day a gash  
 Is added to her wounds.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886050201:0718/pct:42.30699032670195,48.12102790826195,12.31976638072641,1.0776457584968224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00414181922:1886050201:0718/pct:42.30699032670195,48.12563323201621,12.331934051225893,1.091461729759602/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

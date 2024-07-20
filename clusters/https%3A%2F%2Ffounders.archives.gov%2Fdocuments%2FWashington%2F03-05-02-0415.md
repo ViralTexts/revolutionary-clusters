@@ -178,7 +178,7 @@ temptation, that every man of sense and
 character detests and despises it.  
 I&#x27;pwards ot IW.WW persons har
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1835010101:0210/pct:31.8144566464514,76.5138049531935,14.046877561055565,14.29079274795592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_jacob_ver01:data:sn84026784:00414186932:1835010101:0210/pct:31.809242871189774,76.50473933649289,14.0500382388288,14.29304897314376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -487,7 +487,7 @@ so mean and low, without any tempta­
 tion, that every man of sense and cha­  
 racter detests and despises it.—Order
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83025196:00415668818:1836110901:0108/pct:6.790992258972555,43.46163986290535,15.024630541871922,14.487213287635118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83025196:00415668818:1836110901:0108/pct:6.790992258972555,43.46163986290535,15.04222378606615,14.496001406098955/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -526,7 +526,7 @@ j »cnse and character detests end despi­
 j ses it.  
 EXAMPLE AND PRECEPT. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837010501:0081/pct:19.121405750798722,85.16559627250976,15.159744408945686,10.187633799269614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183670:1837010501:0081/pct:19.11835170100623,85.15487282800302,15.162647074482244,10.190548140686644/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -630,7 +630,7 @@ added to this, it a vice so mean and low, without
 any temptation, that every man of sense and char­  
 acter detests and despises it. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82016416:00271744730:1837041501:0547/pct:50.833333333333336,57.45249824067558,24.85185185185185,9.190710767065447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn82016416:00271744730:1837041501:0547/pct:38.143756947017415,43.09641097818438,18.65505742867729,6.896551724137931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -784,7 +784,7 @@ the Administration to rally for the next day.
   
 The Chairman, Mr. Grundy, upon th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840022701:0913/pct:38.14159292035398,307.2128227960819,177.34513274336283,77.76788364499852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667693:1840022701:0913/pct:9.539619300575476,76.80320569902048,44.355909694555116,19.44197091124963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -860,7 +860,7 @@ every man of sense and character detests
 and despises it.&quot;  
 Laconics. I used in early life to long t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_mustard_ver01:data:sn82015413:00212471367:1841070301:0228/pct:7.9475982532751095,18.95531222255105,30.436681222707424,16.262207753773307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_mustard_ver01:data:sn82015413:00212471367:1841070301:0228/pct:5.963302752293578,14.220183486238533,22.848405417212756,12.207753773305711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -965,7 +965,7 @@ ery man of sense and character detests and despi
   
 ses it.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1844100401:0117/pct:56.52353426919901,60.96153846153846,23.265895953757227,8.26923076923077/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1844100401:0117/pct:42.411728267602726,45.72802197802198,17.447862894899856,6.195054945054945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -993,7 +993,7 @@ pives it.&quot;
 Jrrrznson&#x27;s Nores oy Viaeisia, It sounds  
 strangely, but most of the demands for this ver
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845011501:0254/pct:87.51564455569462,42.0836269673479,41.974342928660825,22.43363871270848/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530212:1845011501:0254/pct:29.171881518564874,14.027875655782633,13.991447642886943,7.477879570902827/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1020,7 +1020,7 @@ to this, it is a vice so mean and low, without any
 temptation, that every man of sense and charac­  
 ter detests and despises it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1845011701:0476/pct:38.18163592622294,84.07967032967034,14.705292702485966,6.916208791208791/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_bees_ver01:data:sn85025007:00414215750:1845011701:0476/pct:38.177808960609404,84.07389602362476,14.707159800875347,6.918023029553831/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1047,7 +1047,7 @@ every man of sense and character detests and de­
 spises it.&quot;  
 Conpersation. Bill--Have you got a dollar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845013101:0018/pct:312.90571870170015,311.6225546605293,56.646058732612055,27.905638665132336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1845013101:0018/pct:78.27179586313551,77.90563866513233,14.169727430891166,6.976409666283084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1100,7 +1100,7 @@ and low, without any temptation, that every
 man of sense and character detests and de­  
 spises it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661022:1846041001:0398/pct:5.074906367041199,8.736542507115455,18.689138576779026,9.602771934166563/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82014769:00415661022:1846041001:0398/pct:5.087390761548065,8.740667409149033,18.682896379525594,9.611021738233717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1139,7 +1139,7 @@ it is a vice so mean and low, without any
 temptation, that every man of sense and  
 character detests and despises it.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668855:1846120301:0564/pct:69.75641654405754,56.15734098517456,13.258133071767206,8.273553323768532/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668855:1846120301:0564/pct:69.76731513269031,56.161326319145545,13.263582366083591,8.277538657739518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1267,7 +1267,7 @@ piety and folly; added to this, it is a vice so mean
 and low, without any temptation, that every man  
 of sense and character detests and despises it.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013535:1848110301:0088/pct:79.90925589836661,34.84415407649381,15.60798548094374,9.554920375663537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00517013535:1848110301:0088/pct:79.89475594266014,34.839412084921065,15.60968971148612,9.557022318998367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1298,7 +1298,7 @@ by our impiety und folly; added to this, it is a vice so
 mean and low, without any temptation, that every man  
 of sense and character detests and despises it.- Fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848112301:0988/pct:45.55895865237366,21.204500330906683,38.76339969372129,105.18861681005956/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1848112301:0988/pct:34.17576105686387,15.909993381866313,29.082902546429256,78.88815354070152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1394,7 +1394,7 @@ Added to this, it is a vree so mean and low, with­
 out any temptation, that every man of sense and  
 character detests and despises it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021203:00517172030:1849040601:0240/pct:95.84590392202367,64.6797153024911,24.599675098630772,13.448991696322658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_bia_ver01:data:sn83021203:00517172030:1849040601:0240/pct:74.29256594724221,50.13023825940397,19.06474820143885,10.422891289358768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1459,7 +1459,7 @@ man of sense and character detests and
   
 despises it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849052901:0591/pct:131.240269849507,198.96043279940596,37.752983912817854,38.82465259361409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn89080032:00415668132:1849052901:0591/pct:43.76378974691759,66.32014426646866,12.589227774172615,12.94155086453803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1494,7 +1494,7 @@ mean and low, without any temptation,
 that every man of sense and character de­  
 tests and despises it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849053101:0111/pct:42.760990978089644,80.7010044881385,12.831161391951882,11.498183372515495/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn82014327:00415668867:1849053101:0111/pct:42.760990978089644,80.70456650281399,12.84070838703518,11.505307401866496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1528,7 +1528,7 @@ a vice so&#x27;mean and low -without any temp
 tation, that every man ot sense and charac­  
 ter detests ahd - despises if .-(From&quot;&#x27; Wash
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1850020901:0796/pct:26.8048128342246,66.37209302325581,20.30414438502674,14.616279069767442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00237289699:1850020901:0796/pct:20.110330992978938,49.77906976744186,15.245737211634905,10.965116279069768/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1734,7 +1734,7 @@ mean and low, without any temptatien the
 every men of sonss and character detests an  
 lesp&#x27;ses it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539884:1861081301:0163/pct:275.8340113913751,238.90132855650097,49.63384865744508,21.197193610986716/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539884:1861081301:0163/pct:69.00061062487279,59.72533213912524,12.416039079991858,5.299298402746679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1767,7 +1767,7 @@ vice so mean and low, without any temptatios
 that every mon of sanss and character detests  
 and &#x27;despiass it. Sparks&#x27; Writings of Was
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539884:1861081901:0187/pct:276.58889782783586,233.06713989943805,49.7184231697506,30.996746524696835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_carson_ver02:data:sn83030272:00206539884:1861081901:0187/pct:69.16113458056729,58.26678497485951,12.432106216053109,7.749186631174209/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1833,7 +1833,7 @@ this, it is a vice so mean and low, without any
 temptation, that every man of sense and charac­  
 ter detects and despises it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861091701:0334/pct:57.38061707847907,16.12623045744065,12.610421200870567,5.45261532522679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kelso_ver01:data:sn84024718:00280762453:1861091701:0334/pct:57.38061707847907,16.12623045744065,12.618956172918534,5.45261532522679/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1880,7 +1880,7 @@ folly. Added to this it is a vice 60 mean and
 low, without any temptation, that every rnau  
 of Bense and character detests and despise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861092101:0790/pct:29.655813953488373,78.65633765193002,12.725581395348836,15.867503673033257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861092101:0790/pct:29.665116279069768,78.65633765193002,12.744186046511627,15.870842794176573/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2005,7 +2005,7 @@ it is a vice so mean and low, without any
 temptation, that every man of sense and  
 character detests and despises it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862071101:0760/pct:79.39481268011528,173.13345946732645,47.190201729106626,25.032746325134624/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_horatio_ver01:data:sn84028083:00280775241:1862071101:0760/pct:19.859434132276085,43.28336486683161,11.803928635790232,6.258186581283656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2114,7 +2114,7 @@ tle hope of the blessing of Heaven on our
 arms, if we insult it by our impiety and  
 folly.&quot;--N. Y. Sun.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1862110701:0178/pct:238.94967177242887,373.45433919455473,42.669584245076585,6.8633011911514465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280777006:1862110701:0178/pct:59.75921196643561,93.36358479863868,10.671287851149216,1.7158252977878616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2164,7 +2164,7 @@ fleet that we can have little hope of&#x27; the blessing of
 low, without any tenptatijn, that every man of  
 sense and character detests and despises it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn83025760:00415620202:1863071801:0103/pct:34.9406528189911,21.232319947975938,28.684470820969338,15.038205169891075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_kershawhogjam_ver03:data:sn83025760:00415620202:1863071801:0103/pct:34.95713814704913,21.243158294044328,28.700956149027366,15.04362434292527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2195,7 +2195,7 @@ so mean and low, without any temptation,
 that every man of sense and character de­  
 tests and despises it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1863080501:0523/pct:56.08108108108108,186.608442503639,81.46718146718146,40.34934497816594/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1863080501:0523/pct:14.023654356746318,46.65211062590975,20.3717113202993,10.087336244541484/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2232,7 +2232,7 @@ to this, it is a voice so mean and low, with­
 out any temptation, that every man of sense  
 and charecter detests and despises it.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1863081401:1008/pct:60.237892948173325,95.97959795979598,20.26338147833475,15.691569156915692/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_melon_ver01:data:sn84022549:00415628407:1863081401:1008/pct:45.207226354941554,71.99219921992199,15.217853347502658,11.776177617761777/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2358,7 +2358,7 @@ mean and low, withont any temptation, that
 every man of sense and character detests and  
 despises it.—Sparks’ Writings of Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864111801:0445/pct:60.53014385000808,39.60830860534124,13.172781638920316,8.403560830860535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864111801:0445/pct:60.53014385000808,39.60830860534124,13.183556920424547,8.411473788328388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2435,7 +2435,7 @@ without any temptation, that every man
 of sense and character detests and de­  
 spises it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026118:00280776336:1867091101:0478/pct:105.27210884353741,36.40370207139709,19.43027210884354,20.31732040546496/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_fenske_ver02:data:sn84026118:00280776336:1867091101:0478/pct:78.97086965766532,27.31012193330395,14.586434190941953,15.234317614220656/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2463,7 +2463,7 @@ is a vice so mean and low’, without any tempta­
 tion, that every man of sense and character  
 detests and despises it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870051201:0182/pct:20.794729256742844,17.142449329146444,15.173975705167798,7.379389095061376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn97064666:00517016056:1870051201:0182/pct:20.790448744339233,17.140002854288568,15.175998353231783,7.381903810475239/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2729,7 +2729,7 @@ low, and without any temptation, that
 any man of sense and character must  
 detest and despise it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876092901:0185/pct:145.03546099290782,249.91701244813277,39.31104356636271,27.42738589211618/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_cardinal_ver01:data:sn85052141:00202195192:1876092901:0185/pct:36.258865248226954,62.47925311203319,9.827760891590678,6.856846473029045/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2839,7 +2839,7 @@ low, without any temptation, that
 every man of sense and character de  
 tests and despises it;&quot; and using ever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1878022801:0404/pct:127.69402568397544,312.5379609544469,35.175879396984925,24.55531453362256/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_iago_ver01:data:sn87076794:00280775149:1878022801:0404/pct:31.9368803239771,78.13449023861172,8.79765395894428,6.13882863340564/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2865,7 +2865,7 @@ for the observance of the Sabbatli as a day
 of rest and worship. And I may say that,  
 with perhaps a single exception, tho laws o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880080201:0003/pct:15.30910055717697,68.4819469379613,13.10692491377023,5.026929982046679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880080201:0003/pct:15.322366675510745,68.49192100538599,13.100291854603343,5.016955914621983/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3071,7 +3071,7 @@ ny temptation, that every man of
 MnBe and character detests and  
 despises it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284665:1893010501:0651/pct:4.472902746844841,96.77189988623435,15.330363771343727,17.207053469852106/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:okhi:batch_okhi_comanche_ver01:data:sn83025010:00237284665:1893010501:0651/pct:3.3605644262903827,72.58248009101251,11.511325659116228,12.91240045506257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3120,7 +3120,7 @@ this it is a vice so mean and low, without
 SDy temptation, that every man of sense  
 and character detests and despises it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182094:1893041601:0679/pct:3.525758129338692,47.01305918310642,15.546218487394958,8.405112531258682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_drew_ver02:data:sn86063034:00414182094:1893041601:0679/pct:2.7418593676262386,36.439005132254245,12.043416705993392,6.524781968919355/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3155,7 +3155,7 @@ lated and the cause of independence
 was won Washington issued this order  
 to the army: 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:00175031716:1893042101:0051/pct:16.825891986742054,33.20222433202224,16.31897055956327,12.274515122745152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_lilac_ver01:data:sn86071868:00175031716:1893042101:0051/pct:16.838889972054332,33.211266332112665,16.325469552219406,12.274515122745152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3188,7 +3188,7 @@ acter detests and despbesii.&quot;&#x27;
 When Lord Corawallis had capitu­  
 lated and the cause of independenc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286789:1893042301:0351/pct:10.426682692307692,53.69290038525041,18.028846153846153,14.210236653824985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_ingalls_ver02:data:sn82014635:00237286789:1893042301:0351/pct:6.958220619176435,35.79526692350028,12.022843402464684,9.477160154100165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3221,7 +3221,7 @@ acter detests and despises it.”
 When I? Cornwallis had capitu­  
 lated and the cause of inde|M-ndene
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1893050401:0992/pct:10.12240139887313,43.75416611118518,18.47678259180105,13.344887348353552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_jyme_ver01:data:sn85033133:00514159233:1893050401:0992/pct:7.849829351535837,33.90962942554071,14.324432844810278,10.345777655324424/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3318,7 +3318,7 @@ any temptation, that every man of
 sense and character detests and de­  
 spises it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898061601:0228/pct:63.39050131926121,30.505494505494507,14.22603342128408,15.340659340659341/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898061601:0228/pct:63.376566278302924,30.501025490770584,14.228401846559683,15.342074421330208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3380,7 +3380,7 @@ temptation, that every man ol
 sense and character detests and  
 despises it.&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_elgincatfishstomp_ver02:data:sn93067841:0029586249A:1898090801:0143/pct:32.79388226925129,85.35068524703443,17.286146185310333,13.359437982264195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_elgincatfishstomp_ver02:data:sn93067841:0029586249A:1898090801:0143/pct:32.79388226925129,85.35452416599486,17.303930286324025,13.359437982264195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3420,7 +3420,7 @@ sense and character detests and de­
 spises it”  
 Look up and not down; look for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898091501:0337/pct:21.31434830230011,77.30735423381189,14.238773274917854,16.744799296806328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_asparagus_ver01:data:sn87065702:00542865969:1898091501:0337/pct:21.309680245291283,77.29603046726234,14.241130091984232,16.74600849567892/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3468,7 +3468,7 @@ any temptation, that every man of :
 sense and character detests and de- &#x27;  
 spises it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550811:1898101201:0366/pct:55.94247849992951,51.79820671987388,13.9997180318624,16.326731697704208/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550811:1898101201:0366/pct:55.94247849992951,51.804775511544655,14.004417500822408,16.326731697704208/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3508,7 +3508,7 @@ spises it._
 - Eighty young men started Mon­  
 day morning from New York to wal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1898101202:0421/pct:55.662439877568865,51.544697633654685,14.079580236117184,17.747589833479402/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_evadeestruction_ver01:data:sn84026965:00294550859:1898101202:0421/pct:55.662439877568865,51.55200116856559,14.09415537093718,17.747589833479402/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3547,7 +3547,7 @@ mean and low, without any tempta­
 tion, that every man of sense and char­  
 acter despises it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1899080901:0552/pct:27.45098039215686,89.96596324029953,10.469187675070028,1.6609938733832539/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_asburypark_ver01:data:sn84026089:00514155914:1899080901:0552/pct:27.446175389462628,89.95371630819494,10.471731139506389,1.664170977402668/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

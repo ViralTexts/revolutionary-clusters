@@ -166,7 +166,7 @@ maining {ubjeéts of his Britangick Majefly, shall
 be considered as having eleéted to become citi­  
 zens®of the United States. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:27.728138274498317,21.64762477450391,19.08598212977882,6.003207055522148/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1795071401:0469/pct:27.728138274498317,21.654306140175052,19.095747277964943,5.9998663726865775/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -783,7 +783,7 @@ other national productions may be carried
 into every port not under blockade. The  
 whole subject of contraband goods, as be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191046:1859053001:0505/pct:54.315659679408135,251.02279991476667,37.14549938347719,12.433411463882377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_manowar_ver01:data:sn84024738:00202191046:1859053001:0505/pct:18.105219893136045,83.67426663825556,12.381833127825729,4.144470487960793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -806,7 +806,7 @@ other national productions, may be carried
 into every port not under blockade. The  
 whole subject of contraband goods, as be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1859061001:0296/pct:62.161004852983154,63.91002315580549,11.104767342278047,4.024699525857316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027253:00279528517:1859061001:0296/pct:62.170520506232755,63.91737420516779,11.109525168902845,4.024699525857316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -857,7 +857,7 @@ planks only excepted.
 Neutral vessels conveying enemies’ despatch­  
 es, or military persons in the service of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861060701:0211/pct:22.51350492532571,56.46724994088437,13.504925325707022,2.2109245684558996/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347294:1861060701:0211/pct:22.51880097447304,56.47119098289588,13.515517424001695,2.2188066524789156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -904,7 +904,7 @@ and Ambassadors of the enemy residing in
 neutral countries.  
 By the command of tho President of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861061201:0437/pct:29.730232558139534,67.81578238621061,12.632558139534884,5.467277134392674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_jojoba_ver01:data:sn84038814:00279557219:1861061201:0437/pct:29.730232558139534,67.81914893617021,12.637209302325582,5.470643684352276/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -925,7 +925,7 @@ Neutral vessels conveying enemy&#x27;s dis­
 patches, or military persons in the service  
 of the enemy, forfeit their neutral char
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1861061301:0462/pct:64.65616045845272,112.17023124525025,18.76790830945559,5.775702963847573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_flint_ver01:data:sn97063063:00296024302:1861061301:0462/pct:43.12123817712812,74.78015416350016,12.510748065348237,3.8540875040712193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -956,7 +956,7 @@ Secretary of State.
 FORM OF BOND.  
 Know all men by these presents : Tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862701:1861061301:0205/pct:25.673249551166965,24.26407545012861,14.029238266222109,9.907592645517767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295862701:1861061301:0205/pct:25.681798751816704,24.270426471055224,14.029238266222109,9.907592645517767/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1013,7 +1013,7 @@ States genorally confiscate contraband, leaving the
 vessel and the remainder of the cargo free, but no  
 such treaty exists with Russia, and the common la
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743956:1877051701:0620/pct:51.244606704281445,116.14087415395205,46.78061732492532,9.246300332683262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743956:1877051701:0620/pct:17.081535568093816,38.71362471798402,15.593539108308441,3.082100110894421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1035,7 +1035,7 @@ fiscate contraband, leaving the vessel
 and the remainder of the cargo free,  
 but no such treaty exists with Russia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475567:1877052301:0426/pct:147.7578475336323,256.9299163179916,43.7780269058296,11.728556485355648/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_nejat_ver01:data:sn83026413:00212475567:1877052301:0426/pct:49.252615844544096,85.64330543933055,14.592675635276532,3.909518828451883/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1055,7 +1055,7 @@ Ssates generally confiscate contraband, leaving I
 the vessel and the remainder of the cargo free, 1  
 but no such treaty exists with Russia, and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:0033289593A:1877052401:0853/pct:18.191841234840133,48.2163080407701,12.936420433664095,2.5198187995469987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_dyerbrook_ver01:data:sn82014248:0033289593A:1877052401:0853/pct:18.188498989527833,48.209483368719035,12.938636781186846,2.5230007077140835/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1117,7 +1117,7 @@ tion of. remaining British subjects, should
 be considered us having elected to become  
 citizens of the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655223:1898102101:0546/pct:15.288407690871757,33.30078125,13.813701698711967,5.343191964285714/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:00280655223:1898102101:0546/pct:15.288407690871757,33.30775669642857,13.827702072055255,5.350167410714286/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

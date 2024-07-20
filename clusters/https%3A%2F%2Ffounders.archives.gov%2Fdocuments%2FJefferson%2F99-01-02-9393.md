@@ -71,7 +71,7 @@ establishment here it amounts to seven or eight
 thousand dollars, which being to come out of my  
 private funds will be feit by them sensibly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743750:1871080601:0375/pct:55.8789482387961,246.41479464488313,54.473292541756244,34.88767869298843/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743750:1871080601:0375/pct:18.6263160795987,82.13826488162772,18.157764180585414,11.629226230996142/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -156,7 +156,7 @@ three or four months&#x27; salary behind­
 hand,&quot; which &quot;amounts to seven or  
 eight thousand dollars, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:0027952875A:1873091801:0384/pct:24.45145776976255,54.648303000491886,9.828674481514879,4.84505656665027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn92056106:0027952875A:1873091801:0384/pct:24.45897204688909,54.654451549434334,9.836188758641418,4.85735366453517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ paid, of which I am by no means cer­
 tain.&quot;Such is the price, or rather, a very  
 small part of the price, which citizen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628390:1873110601:0364/pct:83.53801169590643,7.776572668112799,31.15497076023392,120.99783080260303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_leek_ver01:data:sn84022367:00415628390:1873110601:0364/pct:62.67914594910793,5.835140997830803,23.3694062591401,90.74837310195228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -319,7 +319,7 @@ should be allowed to depart with them
 unpaid of which I am by no means cer­  
 tain. . obtained the loan, but he wen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1885012201:1523/pct:108.8695652173913,67.49425287356321,43.04347826086956,14.160919540229886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_beetlebailey_ver01:data:sn89066350:0028077974A:1885012201:1523/pct:27.223309415090238,16.873563218390803,10.76320939334638,3.5402298850574714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -351,7 +351,7 @@ unpaid of which I am bv no means cer
 tain. &quot;  
 He obtained the loan , but he won
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_hershey_ver01:data:sn94056414:00206537747:1885012901:0590/pct:64.4578313253012,26.036057129477875,17.95515394912985,5.595879185202529/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_hershey_ver01:data:sn94056414:00206537747:1885012901:0590/pct:48.367654445002515,19.527042847108405,13.477314582286958,4.202762819011941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ mitted to depart with them unpaid,
 of which I am by no means certain.  
 ie obtained the loan, but h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_barberry_ver04:data:sn87090072:00280774455:1885022101:0496/pct:33.22314049586777,124.93827160493827,53.30578512396694,30.925925925925927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_barberry_ver04:data:sn87090072:00280774455:1885022101:0496/pct:8.309218685407194,31.234567901234566,13.33195535345184,7.731481481481482/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -442,7 +442,7 @@ to depart with them unpaid, of which
 I am by no menus certain.&quot;  
 He obtained the loan, but he wen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jones_ver01:data:sn96061150:0020029838A:1885031501:0264/pct:46.474164133738604,34.72317156527683,18.58662613981763,15.97174755069492/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jones_ver01:data:sn96061150:0020029838A:1885031501:0264/pct:31.00197658506918,23.148781043517886,12.391667933708378,10.651629072681704/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -478,7 +478,7 @@ ted to depart with them unpaid, of
 which I am by no means certain.&quot;  
 He obtained the loan, but he wen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885040501:0441/pct:10.680190930787589,45.971014492753625,15.990453460620525,15.057971014492754/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_hotel_ver01:data:sn87076916:00237289262:1885040501:0441/pct:8.019900497512438,34.47826086956522,12.0,11.304347826086957/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -514,7 +514,7 @@ ted to depart with them unpaid, of
 which I am by no means certain.&quot;  
 He obtained the loan, but he wen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285037:1885042401:0097/pct:269.82665222101843,186.3980895026477,47.12892741061755,47.845498909770534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_dunning_ver01:data:sn84022835:00237285037:1885042401:0097/pct:67.47493904091033,46.59952237566193,11.78542400433487,11.961374727442633/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ which I am by no means certain.&quot;
   
 He obtained the loan, but he wen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347725:1885090901:0414/pct:30.041099409195994,85.09796160696615,10.5702543025944,4.047100732238274/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ibo_ver01:data:sn91059394:00383347725:1885090901:0414/pct:30.041099409195994,85.10125997757108,10.578816679510233,4.056995844053038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -557,7 +557,7 @@ become sensible of this deficit,&quot; he wrote,
 &quot;I have been under an agony of mortifi­  
 cation.&quot; This, however, by the way
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665556:1895072901:0283/pct:40.632131446827934,15.184513006654567,16.590597900502054,3.439633566675309/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665556:1895072901:0283/pct:30.48042907680018,11.39054532883934,12.45007417551067,2.58404632270331/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

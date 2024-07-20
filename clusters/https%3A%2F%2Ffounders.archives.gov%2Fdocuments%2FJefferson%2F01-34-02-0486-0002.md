@@ -71,7 +71,7 @@ confided to your care, and practically destructive
 of the fundamental prlnclplesot a Republican C&#x27;on-i  
 etltullon
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879070501:0011/pct:4.096008348552048,86.18394513916903,12.94025567440647,8.45098830173457/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pulaski_ver01:data:sn84031492:no_reel:1879070501:0011/pct:4.096008348552048,86.18898749495764,12.946777980693973,8.456030657523195/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ part of the public administration which la confided
 to your care, and practically destructive  
 of the fundamental principles of a republica
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654516:1879090501:0672/pct:2.01271186440678,15.272691279817876,15.426377118644067,4.929228941898446/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_newfoundland_ver04:data:sn83045462:00280654516:1879090501:0672/pct:2.016022245762712,15.280114817380976,15.436308262711865,4.9366524794615465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -166,7 +166,7 @@ the pule administration which is confided to
 your ce, and practically destructive of the fun-  
 damenl principles of a republican constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1879091001:0610/pct:199.08045977011494,165.2940326542407,40.76628352490422,16.760583730674757/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777675:1879091001:0610/pct:49.79873490511788,41.32350816356018,10.19743147402722,4.190145932668689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ and capacity sultable to the
 station be the only qualinica­  
 tions that shall direct our choice
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294786:1885080601:1025/pct:29.288702928870293,337.65571913929784,48.11715481171548,8.776896942242356/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_chevy_ver01:data:sn83025733:00200294786:1885080601:1025/pct:7.326774126020515,84.41392978482446,12.036843207033703,2.194224235560589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

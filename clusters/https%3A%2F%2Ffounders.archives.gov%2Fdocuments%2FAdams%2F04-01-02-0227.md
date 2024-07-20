@@ -323,7 +323,7 @@ therefore that it is an evil thing and bitter
 that thou hast forsaken the Lord God of hosts  
 and that my fear is not with me. saith th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895801:1881081601:0158/pct:28.584729981378025,32.67509589430317,12.905027932960893,2.784486432731922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895801:1881081601:0158/pct:28.579407931483896,32.67045454545455,12.90727983615714,2.7876420454545454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

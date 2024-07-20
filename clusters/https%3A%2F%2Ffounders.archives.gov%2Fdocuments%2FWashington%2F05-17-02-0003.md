@@ -45,7 +45,7 @@ to all officers and other citizens. These
 alTurances havt not been given. On the  
 contrary, vre learn with emotions, dif
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794091201:0002/pct:77.15053763440861,82.56410256410257,16.451612903225808,7.444168734491315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794091201:0002/pct:77.15053763440861,82.56823821339951,16.48521505376344,7.444168734491315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -68,7 +68,7 @@ President to judge whether an armed
 force be now necessary to support the  
 civil authority in these counties.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794101001:0003/pct:38.471536262022354,31.923959357587677,15.85651156745516,6.047197640117994/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794101001:0003/pct:38.471536262022354,31.93625040970174,15.876007278398752,6.059488692232055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -140,7 +140,7 @@ Pennsylvania, and have them printed in
 thi Pittlburgh Gazette.  
 Alexander Addison, Sec&#x27;ry.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794101801:0002/pct:60.66978193146417,5.579328505595787,33.85254413291796,85.02304147465438/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_korat_ver01:data:sn84026271:print:1794101801:0002/pct:60.68276220145379,5.579328505595787,33.85254413291796,85.0271560236998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ sident to judge whether an armed force be now
 necessary to support the civil authority in these  
 counties, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794102101:0319/pct:30.36392405063291,47.48633294029371,20.727848101265824,5.563297245149534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794102101:0319/pct:30.37447257383966,47.48633294029371,20.727848101265824,5.57044342015936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -221,7 +221,7 @@ Governor of Pennsylvania, and have them 3
 printed in the Pittsburgh Gazette,  
 k 3 ALEX. ADDISON, Sec’ry
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794102801:0323/pct:31.41196795979268,2.0945220193340495,42.076331082142296,93.53383458646617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794102801:0323/pct:31.41196795979268,2.0981023988542784,42.09727239411549,93.54099534550663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -240,7 +240,7 @@ Although this outbreak, lasting about four
 months, created m the minds of the timid  
 fears as to the stability of the Government
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863122201:0003/pct:44.67879256965944,31.4143045968571,10.0812693498452,1.806432662652372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_edgewater_ver02:data:sn84031490:no_reel:1863122201:0003/pct:44.67879256965944,31.4143045968571,10.10545665634675,1.8174474959612277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ ted in the minds of the timid fears as to the
 stability of the Government, yet it is doubt­  
 ful if tne rebels had, at any time, at thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1863122601:0910/pct:64.3949694085656,9.939467312348668,14.225016995241333,3.196125907990315/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84027060:00415668909:1863122601:0910/pct:64.40063448900975,9.939467312348668,14.230682075685475,3.208232445520581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

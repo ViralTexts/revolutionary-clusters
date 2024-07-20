@@ -147,7 +147,7 @@ engines w hieh so soon destroyed the reli­
 gion ol Jr. it s, and iiiavle of Christendom,  
 a men ak.ildaimu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822091701:0054/pct:48.41236240474174,67.46066754888987,15.156646909398814,11.263049551536538/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn85027015:00393348793:1822091701:0054/pct:48.402116402116405,67.45074977947662,15.158730158730158,11.265069097324316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -181,7 +181,7 @@ faith, the engines which so rooh destroy
 ed the rtiigiou of Jk»u., a ,d made of  
 Christendom, a ni^re ukademo.’
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1822101901:0027/pct:71.41638225255973,36.002139800285306,20.9613196814562,15.067760342368045/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn83026162:00542866561:1822101901:0027/pct:71.39607620130793,35.995721162417546,20.962468012510662,15.069531110714923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -250,7 +250,7 @@ engines which so scon destroyed the re­
 ligion ul Jesus, arid mudeol Christendom  
 a mere ytkuldtrma.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823011801:0007/pct:40.93816631130064,11.525704809286898,17.11087420042644,14.72636815920398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_bismuth_ver01:data:sn82015374:00332898024:1823011801:0007/pct:40.92725819344524,11.52379373238269,17.112976285638155,14.72807162991212/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -636,7 +636,7 @@ love their neighbor! I conclude my sermon
 with sincere assurances of my friendly esteem  
 and respect. TH: JEFFERSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831052501:0077/pct:66.31722880583409,5.410821643286573,15.337283500455788,45.09018036072144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_abernethy_ver01:data:sn84021903:00414187432:1831052501:0077/pct:66.30211893369788,5.409918183336116,15.33948507632718,45.086825847386876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -871,7 +871,7 @@ civil world would now have been Christiana7
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1850-11_12_35/page/n40/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1850-11_12_35/page/n40/mode/1up?view=theater)
 
 #### 1850-11-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -1007,7 +1007,7 @@ God is reviving; and I trust there is not a young man
 now living in the United States who will not die a Um  
 tarian.&quot; Had there never been a commentator, he use
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531162:1874012401:0198/pct:151.8524563407867,110.4983848638671,48.00065284804962,16.92431933548685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hugo_ver01:data:sn83030214:00206531162:1874012401:0198/pct:50.617485446928896,36.832794954622365,16.00021761601654,5.641439778495616/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1026,7 +1026,7 @@ preached always as pure as they came
 from his lips, the whole civilized world  
 would now have been Christian.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341632:1881051601:0465/pct:36.14264919941776,22.60806468332124,11.091703056768559,2.187208458588162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092518:00383341632:1881051601:0465/pct:36.137389026342596,22.605721393034827,11.094940086353272,2.1904367053620786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

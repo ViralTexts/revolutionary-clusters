@@ -626,7 +626,7 @@ Thy goodness let me bound,
 Or think thee Lord alone of man,  
 When thousands worlds are round
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1860060901:0448/pct:12.410948631421073,20.27903043968433,9.711286089238845,1.7192784667418264/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn82015099:00279556653:1860060901:0448/pct:12.420322459692539,20.289599774520855,9.725346831646045,1.7157553551296505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -644,7 +644,7 @@ Thy goodness let me bound,
 Or think thee Lord alone of man,  
 When thousand worlds are round
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1864012701:0622/pct:43.348837209302324,112.638322655795,62.13953488372093,12.40535818287711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156384:1864012701:0622/pct:10.842252210330386,28.15958066394875,15.542112610516519,3.1013395457192776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -727,7 +727,7 @@ Thy goodness let me bound,
 Or think thee Lord alone of man,  
 When thousand worlds are round
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287903:1887030501:0049/pct:202.74454609429978,162.72790535838553,31.949331456720618,6.736256089074461/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_borland_ver01:data:sn83032231:00237287903:1887030501:0049/pct:50.70397747272087,40.68197633959638,7.990144315381908,1.6840640222686152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -815,7 +815,7 @@ Thy goodness let me bound,
 Or think the Lord alone of man.  
 When thousand worlds are &#x27;round
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769794:1898051901:0278/pct:19.41787095461022,77.45682408681033,10.116018725829433,1.6659024912119822/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_nicasio_ver01:data:sn85042461:00280769794:1898051901:0278/pct:19.422959495216773,77.45682408681033,10.121107266435986,1.6811860003056702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

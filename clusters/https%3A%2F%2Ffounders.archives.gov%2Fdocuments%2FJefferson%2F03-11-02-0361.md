@@ -51,7 +51,7 @@ derstanding of our southern brethren may be
 sufficiently enlarged and firm to see that their  
 fate depends upon its sacred observance.&#x27;&#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1860122801:0002/pct:13.128069512655836,73.46879953883845,9.803551190026445,4.712494595763078/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_division_ver02:data:sn84031490:no_reel:1860122801:0002/pct:13.142236494144313,73.47960801268194,9.812995844352097,4.716097420377576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -111,7 +111,7 @@ doctor feels as sanguine as ever of success, and
 we are certain of one fact—no new science was  
 ever developed without great individual effor
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557505:1861020801:0540/pct:42.259887005649716,58.813630626840556,12.448210922787194,11.541158322815875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn84026884:00279557505:1861020801:0540/pct:42.259887005649716,58.813630626840556,12.457627118644067,11.562193240779694/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -142,7 +142,7 @@ tirst of all lessons in importance, yet the
 last which is thoroughly learned. This law  
 once disregarded, no other remains but that
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744778:1861052301:0784/pct:93.26074161271336,81.55572365103379,16.12713360800471,4.9798285426122035/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744778:1861052301:0784/pct:69.96320824135394,61.16994452849218,12.097130242825607,3.7443267776096825/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ derstanding of our Southern brethren may
 be sufficiently enlarged and firm to see that  
 their late depends on its sacred observance.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744778:1861052301:0784/pct:93.30488522660389,88.0105900151286,16.068275456150676,2.798789712556732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_indianapolisolympians_ver02:data:sn86058250:00271744778:1861052301:0784/pct:69.99264164827079,66.01109430156329,12.052980132450331,2.1053958648512356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -209,7 +209,7 @@ au ib uiuiuugiuj learueu. i ne law onse disregarded,
 no oiuer remains but that ot force, which ends necessarily in  
 military detpotmru.&quot; vJeIferson&#x27;s Works, vol. vn, p. 7j 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866022001:0033/pct:8.70291616038882,83.48326736236056,16.98055893074119,3.4544800287873336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202197589:1866022001:0033/pct:6.5319763025976,62.61245052177042,12.74494911134741,2.5908600215905/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -245,7 +245,7 @@ sacred as if unanimous, is the first of
 all lessons in importance, yet the last  
 which is thoroughly learned.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1871041901:1085/pct:60.20900321543408,139.05009383571533,45.257234726688104,23.96419806554064/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477850:1871041901:1085/pct:15.055276381909549,34.76252345892883,11.316582914572864,5.99104951638516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -289,7 +289,7 @@ sacred as if unanimous, is the first of all lessons in
 importance, yet the last which is thoroughly learnt.  
 The love of order and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:283.34612432847274,321.72056131787673,50.575594781273985,12.202562538133009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_lorca_ver01:data:sn83030272:00206533109:1888102101:0609/pct:70.8637236084453,80.43014032946918,12.648752399232245,3.050640634533252/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ unanimous tho first of nil lessons In Impor­
 tance yet the last which Is thoroughly learnt  
 The love of order and obedience to tho law
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:66.40378548895899,300.12163600425725,51.813880126182966,24.46404135624145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_borges_ver01:data:sn83030272:00175044851:1889070401:0630/pct:16.600946372239747,75.03040900106431,12.953470031545741,6.116010339060362/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ sacred as if unanimous, is the first of
 all lessons in importance, yet the  
 last which is thoroughly learnt.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176618:1889090901:0474/pct:39.01149425287356,83.3757294628161,17.310344827586206,5.297022295376328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_corinth_ver01:data:sn86090439:00517176618:1889090901:0474/pct:39.01724137931034,83.38321113272482,17.32183908045977,5.30076313033069/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ imous, is the first of all lessons in importance
 et the last which is thoroughly learnt  
 The love of order and
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:277.9051987767584,349.38346780331864,51.37614678899082,20.535850205510734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_erinna_ver01:data:sn83030272:00175045181:1895012301:0288/pct:69.4762996941896,87.34586695082966,12.844036697247706,5.133962551377683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -700,7 +700,7 @@ ance, yet the last, which is thoroughtlv
 learnt. And now, my colored friends, I  
 want you to read and icroad the cards o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623574:1895022101:0239/pct:57.57657536094994,35.8337889557135,11.523411145594388,5.587752870420995/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_cain_ver02:data:sn82006687:00415623574:1895022101:0239/pct:57.58557099806594,35.8337889557135,11.518913327036387,5.595042828503736/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -732,7 +732,7 @@ its vote on all questions like the
 historic Dlet of Poland, by the unanimous  
 f the whole, and not by th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049393:1897041101:0093/pct:16.158787679130292,58.60780191544032,74.23818151869544,38.71758934828311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_metallica_ver01:data:sn85034438:00175049393:1897041101:0093/pct:5.386262559710097,19.53593397181344,24.746060506231814,12.90586311609437/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

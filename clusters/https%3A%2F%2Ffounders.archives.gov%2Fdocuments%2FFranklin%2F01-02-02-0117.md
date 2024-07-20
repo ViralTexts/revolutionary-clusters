@@ -656,7 +656,7 @@ same for 1717 for $52, whlle a &quot;Catalogue
 of Choice and Valuable Books, consisting of  
 near 600 Volumes to be sold for ready money only b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039788:1880032401:0720/pct:63.57054836722119,58.26692109103154,44.36229205175601,4.085755977101807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039788:1880032401:0720/pct:21.19018278907373,19.42230703034385,14.78743068391867,1.3619186590339358/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -178,7 +178,7 @@ of great virtue. As f6on asl know their
 names, I thall take pleasure in transmitting  
 them to Congress. , 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0432/pct:35.34234433857744,20.437206572769952,58.63062264569023,75.19072769953051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025584:00517015106:1780112701:0432/pct:35.349730408449666,20.446987480438185,58.623236575818005,75.18094679186228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1090,7 +1090,7 @@ ae ae hope they wil be otherwise rawarded. As soon as I
 know their nanies I shall take pleasure in transmitting them  
 to Congress.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070601:0058/pct:242.06494587843463,157.81660385976932,54.08825978351374,23.94655704008222/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743087:1853070601:0058/pct:80.68831529281155,52.60553461992311,18.029419927837914,7.982185680027406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1140,7 +1140,7 @@ hem the highest honor, and proves them to be men of
 reat virtue; their conduct gives them a just claim to  
 e thanks of their country.&quot; Congress acted promptly
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039818:1880092401:0738/pct:147.79320987654322,248.75180295129258,44.27469135802469,13.513813380672362/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_avanti_ver01:data:sn83030214:00175039818:1880092401:0738/pct:49.26440329218107,82.91726765043086,14.758230452674898,4.504604460224121/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

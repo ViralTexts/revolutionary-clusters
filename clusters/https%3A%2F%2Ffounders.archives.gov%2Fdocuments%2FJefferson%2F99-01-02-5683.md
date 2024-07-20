@@ -140,7 +140,7 @@ vernmeiit against any control which may be attempted
 by Hie judges in subversion of the independence of tin*  
 Executive and Senate within their peculiar drp.ii tilli n&#x27;.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834021101:0352/pct:35.85946964598196,3.6656089287668236,14.712612733880738,8.786519312835102/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184078:1834021101:0352/pct:35.85464333781965,3.665207877461707,14.71511888739345,8.789204959883296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -249,7 +249,7 @@ other branch. Where the different branches have to act
 1 any law, they may give to it dilfcient and opposite con­  
 -tructlons. From these different constructions ol the sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834090201:0149/pct:81.75703500343171,77.84424624755275,15.09951956074125,5.634109201653252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:0041418408A:1834090201:0149/pct:81.74581388965139,77.8357803153888,15.1020221429225,5.637121624071053/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -477,7 +477,7 @@ that of the Execative. If it is your own, also, you
 { proper, I salute you with fiiendship and respect.  
 TH. JEFFIIRSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837072501:0521/pct:49.06337808304714,11.74564601053058,30.159225725881985,82.75617658971244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837072501:0521/pct:49.06858153814132,11.752396381800999,30.164429180976168,82.75955177534765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -501,7 +501,7 @@ given extra-judiciously and against law 3*° that
 “their reverse will be the rule of action with  
 the Executive;” and that he would ““main
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837072501:0521/pct:64.3303153293787,15.593357634669907,14.829847018420232,4.688132847306602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1837072501:0521/pct:64.3355187844729,15.593357634669907,14.824643563326049,4.691508032941812/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ origin of Gen. Jackson&#x27;s mode of construing the constitution.
 &quot; done by either, it has gi ven no conlroul to ai&#x27;,u&gt;er a*  
 ? branch. ? From these differeot eonvtroc&#x27;&#x27;*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839040901:0645/pct:83.40874811463047,92.08906217935564,16.65158371040724,2.5343730761337984/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_armani_ver02:data:sn84024735:00415664230:1839040901:0645/pct:83.41880341880342,92.0959025925166,16.646556058320765,2.5343730761337984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -585,7 +585,7 @@ Whenever it is asserted, therefore, to be the Pr0*J&quot;?*
 of the Judiciary of the U. S to declare and to ?ellk?he  
 menn&#x27;incr of the Federal Constitution, let it be reme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839071901:0077/pct:15.877271373249926,51.543555781966376,16.27941614536789,13.15333672949567/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839071901:0077/pct:15.877271373249926,51.543555781966376,16.28438089564095,13.15673289183223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -614,7 +614,7 @@ r?.&quot;&#x27; &#x27; ,s, loss mischief arises than trom giving
 ditlerenl branc lies, ic ^ ^ ovef t!ie (,? tin*  
 to any o ? ? hitherto acted; on this I shall eve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840100601:0646/pct:21.814414681071483,14.104257697388476,15.865028858961077,7.021644141855503/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1840100601:0646/pct:21.819347836811207,14.107644887037225,15.869962014700803,7.021644141855503/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -640,7 +640,7 @@ Mr. Jefferson also wrote to Judge Roane, in
 a equal right to decide for itaelf what ia the meaning  
 f the Conatitution, in the caaea aubmitted to it
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841090401:0112/pct:81.0749324612541,75.68692756036636,15.157116451016636,6.504995836802665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841090401:0112/pct:81.0749324612541,75.69386622259229,15.161856012133276,6.504995836802665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -695,7 +695,7 @@ Iidei:nt branches, less mischief arises,
 than from giving to any onoot them a con.  
 trol over ihe nthers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1843050601:0112/pct:43.95032051282051,37.747093023255815,19.391025641025642,13.909883720930232/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_kingsombra_ver01:data:sn83016863:00415662051:1843050601:0112/pct:32.99258368410503,28.313953488372093,14.55201443174985,10.436046511627907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -769,13 +769,13 @@ may te attempted by the Judges, in subversion of the :
 independence of the Executive end Legislature, within ?  
 iheir peculiar departments.*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844041201:0356/pct:47.76693286010056,31.083549658686664,15.794143744454303,12.181521007595423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664278:1844041201:0356/pct:47.76693286010056,31.089959298785374,15.808932268559598,12.17831618754607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The American Whig review_](https://archive.org/details/sim_american-whig-review_1850-08_12_32/page/n74/mode/1up?view=theater)
+## [From _The American Whig Review (1850-1852)_](https://archive.org/details/sim_american-whig-review_1850-08_12_32/page/n74/mode/1up?view=theater)
 
 #### 1850-08-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -825,7 +825,7 @@ tage County whether Thomas Jefferson is not
 as good an expounder of the Constitution as  
 the author of that editorial in tbe &quot; Whig ! 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852090101:0125/pct:111.00283486888732,39.76473769605192,17.16867469879518,12.33098972417523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852090101:0125/pct:83.28606876993973,29.826933477555436,12.885501595179015,9.248242293131423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ control over the others.&quot;
 Thomas Jefferson .may have been&#x27; mieln-  
 ken, but I hope the ? Whig &quot; will not say h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852090101:0125/pct:110.93196314670446,68.9697133585722,16.601700921332387,6.057328285559762/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035044:00296027133:1852090101:0125/pct:83.23289613612194,51.730665224445644,12.460120524636654,4.542996214169822/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -960,7 +960,7 @@ of peohip.itisu the execution of tbe sonteuce.&#x27;&#x27;
 Thesa are tbe words of lhomas Jefferson,  
 who wis the Chief Executive of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023760:1879091201:0227/pct:10.212418300653594,31.320510449417423,21.33714596949891,6.833734048455706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_gaylord_ver02:data:sn85033781:00296023760:1879091201:0227/pct:6.811061163329247,20.880340299611614,14.235117831358126,4.558905122988718/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

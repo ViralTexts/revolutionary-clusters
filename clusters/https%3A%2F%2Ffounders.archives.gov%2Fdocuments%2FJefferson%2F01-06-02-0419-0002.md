@@ -63,7 +63,7 @@ York, this twenty.fifth day of February, in the year ofour
 Lord, one thousand feveu hundred and ninety, and in the  
 fourteenth year of the Independence of the United State
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040701:0003/pct:64.26626323751891,37.61035903472631,26.384266263237517,10.202079654698842/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790040701:0003/pct:64.28895612708018,37.61035903472631,26.376701966717096,10.21679419266235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -102,7 +102,7 @@ this twenty-fifih day of February, in the
 year of our Lord, one thousand seven hun­  
 dred and ninety, and in the fourreent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790081201:0642/pct:10.722833891814265,47.29330708661417,20.51220679751077,21.062992125984252/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790081201:0642/pct:10.73879048986756,47.298775153105865,20.51220679751077,21.057524059492565/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -408,7 +408,7 @@ one or the ofher of these forms in iheir cessions sub
 sequently made : All the five States granted all they  
 had, all they owned, and all they &quot;c!aimed,&quot; in tin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841052801:0308/pct:64.64494820597508,29.38950303754606,16.063654105990093,6.841948013146101/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841052801:0308/pct:64.64494820597508,29.38950303754606,16.068658359605664,6.848587458088504/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -438,7 +438,7 @@ States, Virg&#x27;nia inclusive, according to their usual and
 representative proportions in the general charga and ex- !  
 penditure, and shall
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1841110901:0174/pct:19.78984238178634,4.168837936425222,30.297723292469353,90.95362167795727/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025588:00517015209:1841110901:0174/pct:19.78984238178634,4.168837936425222,30.31231757151197,90.96056974118464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -465,7 +465,7 @@ declared: these lands were to be conveyed &quot;to the U.
 S., in Congress assembled, for the benefit of the said  
 Slates; and all right, title
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841122501:0560/pct:48.35363103292738,80.47872875389722,15.922417681551646,6.104797344865735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664254:1841122501:0560/pct:48.35363103292738,80.48543363840558,15.942464792261815,6.1014449026115525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -495,7 +495,7 @@ the river Ohio.&quot; Several of these deeds cover the
 same territory; for it was, at the time, a question of con­  
 trolling influence, whether either of the Slates were
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842051301:0094/pct:35.3949785670545,75.44994944388272,16.090018371096143,2.8513650151668353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842051301:0094/pct:35.405184731577876,75.45331985170206,16.084915288834456,2.8547354229861814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -523,7 +523,7 @@ thus conveyed to the United States, were conveyed for
 &quot;the use and kenefit,&quot; not of the Confederation, consid  
 ered as a unit, lut of IlE IAles&quot;- and s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842052601:0341/pct:330.5978898007034,266.6470674702337,62.387651426338415,33.529325297662794/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_dartmoor_ver03:data:sn84024649:00393347892:1842052601:0341/pct:82.63332682164486,66.65196942974721,15.593865989451064,8.381099353321575/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -540,7 +540,7 @@ vey, assign and make over unto the United States
 in Congress assembled, for the benefit of the said  
 states,&quot; &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1843081101:0795/pct:328.24074074074076,305.71102227298684,55.864197530864196,5.539691604797259/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777596:1843081101:0795/pct:82.10770121598146,76.42775556824671,13.974136267129898,1.3849229011993147/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -923,7 +923,7 @@ instrument provided there should be organ
 ized in the territory not less than three nor  
 Gtates designating their bo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857032701:0261/pct:224.26127527216175,240.78254326561324,102.099533437014,20.948081264108353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777638:1857032701:0261/pct:56.098035401672824,60.19563581640331,25.53977825325812,5.237020316027088/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -965,7 +965,7 @@ of the before mentioned purposes, or disposed
 &quot;the American Army, shall be considered as  
 &quot;a common fund for the use and benefit o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn96091000:00212470089:1857051801:0474/pct:81.2394366197183,275.6539235412475,49.29577464788732,61.16700201207244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_isaac_ver01:data:sn96091000:00212470089:1857051801:0474/pct:20.309859154929576,68.91348088531187,12.32394366197183,15.29175050301811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -988,7 +988,7 @@ This instrument provided there should lie organized ii:
 the territory not less than three nor more than live States  
 designating their boundaries. It was passed while th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857052901:0159/pct:37.484116899618805,79.3399924137059,15.009529860228717,4.5012011632317614/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857052901:0159/pct:37.484116899618805,79.3399924137059,15.025412960609911,4.513844986723985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1018,7 +1018,7 @@ charter, situate, lying, and being to the northwest
 of the river Ohio.&quot; In 1787 (July 13( the ordinance was  
 passed by the old Congress to govern the Territory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857060201:0171/pct:6.356812010860885,65.6984086890629,17.13783740616515,8.32280879009851/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82006534:00415661083:1857060201:0171/pct:6.3621359740190595,65.6984086890629,17.1484853324815,8.32701860739244/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1040,7 +1040,7 @@ situate, lying, and being in the northwest of the river
 Ohio.&quot; In 1787, (July 13,) the ordinance was passed by  
 the old Congress to govera the Territory
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857061101:0544/pct:123.66603892027621,206.59082913099567,50.40803515379787,11.539814706227277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857061101:0544/pct:30.926216640502354,51.64770728274892,12.605965463108321,2.8849536765568193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1150,7 +1150,7 @@ soldiers of the American army, shall be con­
 sidered as a common fund, for the use and  
 benefit of such of the U. S. as have been, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1858072101:0734/pct:85.1639344262295,85.76037542161608,58.52459016393443,40.88576037542162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156372:1858072101:0734/pct:21.290983606557376,21.44009385540402,14.631147540983607,10.221440093855405/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1278,7 +1278,7 @@ and the Ohio river.&quot;
 So much for tho truth of history. &#x27;  
 This Ordinance has been tho basis an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1859100601:0563/pct:24.70790378006873,105.05419877236515,16.237113402061855,7.718427582604153/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_borachio_ver02:data:sn85038158:00237286911:1859100601:0563/pct:18.549080281932266,78.79064907927386,12.188413271445762,5.798615645814287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1324,7 +1324,7 @@ that State to convey to the United States
 the limits of the Virginia charter, lying and  
 bearing to the northwest of the river Ohio,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0476/pct:76.00124668848372,52.55892255892256,12.94997662459093,2.0650953984287317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347282:1860083101:0476/pct:76.00124668848372,52.562663673774786,12.960365695288557,2.068836513280958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1356,7 +1356,7 @@ Whereas, the General Assembly
 of the Commonwealth of Virginia,  
 at fheir sessions begun on the 20th day of and expenl.tnre, and shall be faith-, When, through a second attempt, we reac
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:31.304347826086957,57.50560881093208,37.952314165497896,8.770140730165204/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:31.30902290790089,57.50900809028486,37.96633941093969,8.770140730165204/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1375,7 +1375,7 @@ of, we have hereunto subscribed our names to see her occasionally flirting with 
 and affixed our seals, in Congress, the—day Smith, Brown I only wonder—wiH she  
 of—in the year of our Lord one thousand take the hint—it&#x27;s leap year—she does no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:44.137447405329596,84.35651641851928,25.133239831697054,3.395880073424434/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn84027352:00279528578:1860100401:0582/pct:44.14679756895746,84.36331497722483,25.137914913510986,3.3890815147188795/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1453,7 +1453,7 @@ Virginia and Maryland included, and nothing
 short of a constitutional amendment can  
 divest the United States of any portion o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102044:1887051301:0498/pct:69.96108949416342,243.23244738055,43.735408560311285,19.28099554463051/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chester_ver02:data:sn86053573:00211102044:1887051301:0498/pct:17.490272373540854,60.8081118451375,10.933852140077821,4.820248886157628/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1552,7 +1552,7 @@ assign, and make over unto the United
 States all right, title, and  
 ciaim&quot; which the State had in the terri
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775307:1890120401:0240/pct:7.52361673414305,21.42765438438824,14.743589743589743,3.607651816664527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_feste_ver01:data:sn85026241:00280775307:1890120401:0240/pct:5.6521005567740845,16.07395044293234,11.067993926100895,2.708948517139556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

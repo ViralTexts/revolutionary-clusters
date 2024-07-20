@@ -227,7 +227,7 @@ selves, we are his people and the sheep of
   
 s pastures
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845052901:0457/pct:187.65337423312883,252.90527991509686,56.441717791411044,9.551605200318386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156359:1845052901:0457/pct:46.9313387034906,63.226319978774214,14.11584196394323,2.3879013000795966/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ one that feared God with all his house,
 which gave much alms to the people, and  
 prayed to God always.”—Acts X: 1.2
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1863013101:0024/pct:42.49271137026239,19.704563439725668,12.973760932944606,2.4795568451595886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_juniper_ver01:data:sn83032103:00383340615:1863013101:0024/pct:42.48496993987976,19.701964921535012,12.975951903807616,2.4825267044705264/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -566,7 +566,7 @@ need of a Savior. In this conscious need he
 was instructed to send men to Goppa, where  
 Peter then was, that he might direct him i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879031701:0263/pct:326.1003861003861,105.832832230908,49.729729729729726,15.333734215273601/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn86053573:0021110238A:1879031701:0263/pct:81.55658555426805,26.458208057727,12.437234453456933,3.8334335538184003/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -587,7 +587,7 @@ and one that feared God with all his house
 which gave much alms to the people, and prayed  
 to God ahvay.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184443:1880111001:0363/pct:58.19836214740673,78.38237104518035,17.32484076433121,3.730148959743937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn89053987:00414184443:1880111001:0363/pct:58.18777292576419,78.3727227966519,17.327753517709848,3.73379287707205/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ and one that feared God with all his
 house, which gave much alms to the  
 people, and prayed to God always.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030906:1886012101:0096/pct:11.25968697766297,34.494072819644366,35.025072177480624,13.717188823031329/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_tesla_ver01:data:sn85038614:00175030906:1886012101:0096/pct:3.753228992554323,11.49802427321479,11.675024059160208,4.5723962743437765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -651,7 +651,7 @@ Knew ye that the Lord, He is God: It is He
 who hath made ns, and not we ourselves: we  
 are His people and the sheep of His pasture
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887112601:0591/pct:6.067961165048544,19.286826093108814,12.19193427931292,2.136691665487477/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_cinnabar_ver01:data:sn90053049:00332897901:1887112601:0591/pct:6.066828448758634,19.284097340124504,12.194325182004853,2.1399264289756648/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -694,7 +694,7 @@ and one that feared God with all his house,
 which gave much alms to the people, and  
 prayed to God always.” The Lora cause
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1890022001:0236/pct:27.160968113714944,89.9039819260096,10.987322320399539,1.80739903981926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_grapes_ver01:data:sn82004649:00517016147:1890022001:0236/pct:27.155751872479353,89.89128900183537,10.990013443441521,1.8106734434561627/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -802,7 +802,7 @@ no respecter of persons.
   
 Him, and worketh righteousness, is a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1892121601:0093/pct:131.79448994787788,60.292682926829265,58.30230826507818,19.121951219512194/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470703:1892121601:0093/pct:32.95475702848631,15.073170731707316,14.57829082107615,4.780487804878049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -921,7 +921,7 @@ ourselves; we are his people, and
  Glet of Is saottee I  
 seep of hiis pasture. Ehte
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86081895:00280776920:1897110401:0342/pct:28.14207650273224,227.59856630824373,59.92714025500911,20.43010752688172/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn86081895:00280776920:1897110401:0342/pct:7.040328092959672,56.89964157706093,14.992025518341308,5.10752688172043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -83,7 +83,7 @@ John Rcecl of Mississippi, to be Re­
 gister of the Land Office of Madison  
 county, in the Mississippi Territories.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813031601:0548/pct:32.39508700102354,16.443438914027148,19.20846127601501,15.085972850678733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1813031601:0548/pct:32.389561657854344,16.441950954664737,19.210870430382627,15.087624046089344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -152,7 +152,7 @@ in the State of Virginia. Michael Kennedy, to be Consul
 of the United States for Cayenne, in French Guiana. Jo  
 siah Raymond, to be consul of the U. States for Manz
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743191:1844052001:0619/pct:105.75432811211871,210.44896084510276,47.568013190436936,13.331036858422321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kudzu_ver01:data:sn83030313:00271743191:1844052001:0619/pct:35.25144270403957,70.14965361503425,15.856004396812311,4.44367895280744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -206,7 +206,7 @@ the Distrit of Norfolk and Portsmouth, in the
 State of Virgnia  
 Michael Ketraedy, to be Consul of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1844053001:0742/pct:11.918850380388841,141.3647342995169,68.04733727810651,39.31159420289855/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84022355:00200290112:1844053001:0742/pct:2.9816028758722775,35.341183574879224,17.02262634806513,9.827898550724637/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -266,7 +266,7 @@ to be Collector of Customs for the District of
 Vermont and Inspector of the revenue for  
 the Port of Alburg in the State of Vermont
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1846081101:0141/pct:62.02435312024353,129.41860465116278,52.35920852359209,15.988372093023257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn84023649:0028077778A:1846081101:0141/pct:15.506088280060883,32.354651162790695,13.089802130898022,3.997093023255814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

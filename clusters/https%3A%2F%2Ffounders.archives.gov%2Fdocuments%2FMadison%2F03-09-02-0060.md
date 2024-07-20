@@ -150,7 +150,7 @@ him favorably, and to give full credence to whatever he shall
 you in hi* safe and holy keeping!  
 Written at the city of Washington, the tenth day of Novem
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846053001:0374/pct:65.60121765601218,3.955661812649424,15.345233153452332,6.346446424690285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661575:1846053001:0374/pct:65.60582998939164,3.962906614504093,15.359070153590702,6.34282402376295/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ God to have you in his safe and holy keeping.
   
 day of November, in the year of our Lord onee e  in i o o e e e
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1848012801:0585/pct:171.2490761271249,242.2329387695455,96.08277900960827,35.83223732281163/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_adamant_ver01:data:sn84023127:00280776956:1848012801:0585/pct:42.82018111254851,60.55823469238638,24.025133986324153,8.958059330702907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ keeping-.
 Written at the city of Washington, tha  
 tenth day of November, in the year of ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848012901:0136/pct:39.41027266962587,34.06356413166856,16.915028535193404,12.587968217934165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_albatross_ver01:data:sn82015050:00280763366:1848012901:0136/pct:29.579698651863602,25.55051078320091,12.688342585249801,9.443813847900113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -428,7 +428,7 @@ to whatever he shall say on the part of the United States
 And I pray God to have you in his sale and holy keeping.  
 &quot;Written at the City of Washington the tenth day of N
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848020301:0654/pct:126.33093525179856,293.09527130701633,49.856115107913666,20.923420281768728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_foxville_ver01:data:sn84023200:00280777602:1848020301:0654/pct:31.588415182586797,73.27381782675408,12.466270912034538,5.230855070442182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -461,7 +461,7 @@ him favorably, and to give full credence to
 whatever he shah say on Die par of The L&quot;-  
 niled States. And I pray God ta hare vo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:0027176974A:1848020401:0088/pct:26.06949806949807,86.61240858693088,15.335907335907336,12.7034677990092/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_inez_ver01:data:sn86086768:0027176974A:1848020401:0088/pct:24.771360101726415,82.2843909909237,14.579155866386268,12.068128338251224/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -511,7 +511,7 @@ veyfto you of the best wishes of this Government
 for the prosperity of the Hawaiian Islands.  
 May God have Your Majesty in bis wise keeping
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195428:1885061301:0572/pct:12.728891149542218,110.49401976079044,15.666327568667345,10.390015600624025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_brutus_ver02:data:sn85047084:00202195428:1885061301:0572/pct:9.553491922147309,82.87051482059282,11.754229741763135,7.800312012480499/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -673,7 +673,7 @@ wise keeping.
 &quot;Written at Washington this 11th day  
 of 3Iarch, in the year 1S9J.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108976:1893040401:0164/pct:9.099018733273862,24.899955535793687,19.402319357716326,29.07959092930191/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108976:1893040401:0164/pct:6.82883284981031,18.674966651845263,14.572640035706316,21.817103898028755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ of this Government for the prosperity of ibe
 Hawaiian Islands.  
 May God bave your Excellency In bis wis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_kaweah_ver01:data:sn94052989:00175040237:1893041401:0407/pct:4.225352112676056,33.63899007662354,10.682069947776547,9.559100615500565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_kaweah_ver01:data:sn94052989:00175040237:1893041401:0407/pct:4.225352112676056,33.64841100364276,10.689982592182307,9.568521542519784/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -747,7 +747,7 @@ Hawaiian lsland. May God have your ex­
 cellency in His wise keeplig. Written at Wash­  
 ington this 11th day of March. in the yea
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654887:1893042101:0610/pct:25.60330578512397,8.4287060724384,12.24793388429752,9.35774875454423/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_pug_ver01:data:sn83045462:00280654887:1893042101:0610/pct:25.611570247933884,8.435438265786994,12.243801652892563,9.361114851218527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -803,7 +803,7 @@ Aeiimr Secretarv of State.
   
 Presiden
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108976:1893111401:0561/pct:29.085689045936395,19.009130369705133,19.103356890459363,24.95135458763658/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_damsel_ver01:data:sn83025121:00211108976:1893111401:0561/pct:21.829429960229785,14.264331686873222,14.339372514361466,18.70977398593025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -877,7 +877,7 @@ tember, in the year l_s*3. ; Your good friend.; j&quot;
 By the President:&#x27; &#x27; Geovki. Cleveland.1  
 &quot; Alvey A. adek, Acting Secretary of State.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040304:1893111901:0034/pct:43.4487021013597,85.417388292345,13.257107540173052,11.996305276526959/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hemet_ver01:data:sn94052989:00175040304:1893111901:0034/pct:43.4590028842192,85.42123696262941,13.257107540173052,12.000153946811377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -920,7 +920,7 @@ excellency in his wise keeping,
 &#x27; Written at Washington this 27th day  
 of September, in the year 1893
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206536779:1893111901:0181/pct:38.220958570268074,68.43934288121314,11.034389385323585,11.625947767481044/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_mankato_ver01:data:sn90059522:00206536779:1893111901:0181/pct:38.229984655654846,68.44285313114294,11.043415470710354,11.625947767481044/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -953,7 +953,7 @@ assurances which I have charged him to convey to you
  o ee   ­  
 pority of the Hawalian Islands. May God have you
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045107:1893111901:1053/pct:6.621519939804364,79.16540671303297,64.40933032355154,35.379498034472334/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_neruda_ver01:data:sn83030272:00175045107:1893111901:1053/pct:1.6560030109145654,19.79135167825824,16.10839292435077,8.844874508618084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ of the Hawaiian Islands. May God
 have your excellency in his wise keep  
 Ing. Written at Washington, this 27t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194564:1893111901:0956/pct:65.00829187396351,75.71805189399196,17.86898839137645,19.66144026640766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194564:1893111901:0956/pct:48.77644131065948,56.79200777022339,13.417669017005393,14.749549049535174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1032,7 +1032,7 @@ wishes of this Government for the prosperity
 of the Hawaiian Islands.  
 May God ha\e your excellency in His wis
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_pescadero_ver01:data:sn82015104:00175036775:1893112001:0350/pct:20.26092423766111,29.63,14.036466519962277,8.35/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_pescadero_ver01:data:sn82015104:00175036775:1893112001:0350/pct:20.271403122707746,29.636666666666667,14.036466519962277,8.35/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1102,7 +1102,7 @@ wishes of this government for the prosperity
 of the Hawaiian Islands. May God have your  
 excellency in his wise keeping
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn83002748:0051415014A:1893113001:0488/pct:72.30428360413589,15.443186255368996,13.047759724273757,11.831315892229599/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_diamondville_ver05:data:sn83002748:0051415014A:1893113001:0488/pct:72.31659281142295,15.448067161265131,13.053914327917282,11.831315892229599/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1139,7 +1139,7 @@ wishes of this government for the prosperity
 of the Hawaiian Islands. May God have your  
 excellency In his wise keeping
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_hartville_ver01:data:sn90051455:00514150515:1893113001:1159/pct:71.78519593613933,16.044624746450303,15.44267053701016,12.109533468559837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_hartville_ver01:data:sn90051455:00514150515:1893113001:1159/pct:71.79245283018868,16.049695740365113,15.4644412191582,12.12474645030426/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1171,7 +1171,7 @@ he shall say on the ptrt of th?.: republic of
 Hawaii, and to the assurances inai 1 have  
 charged him to convey to you of the bes
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065503A:1895120401:0273/pct:43.30085261875761,38.67294260552688,13.824604141291108,7.758882477983602/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ibizanhound_ver01:data:sn83045462:0028065503A:1895120401:0273/pct:43.30592773041007,38.680534467051324,13.829679252943565,7.755086547221379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1194,7 +1194,7 @@ republic of Hawaii and to the assurances
 fhat I have charged him to convey to you  
 of the est wishes of the government fo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:0041566557A:1895120501:0361/pct:5.813689936536718,90.5800911321416,16.523118766999094,4.425166491412548/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:0041566557A:1895120501:0361/pct:4.3635951490422755,67.9372590255871,12.399410631304544,3.3210655450403084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1305,7 +1305,7 @@ terests of the two countries and our sin­
 cere desire to cultivate and maintain the  
 friendship so long existing between th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210673:1897091401:0595/pct:50.402802101576185,16.020392399196663,11.120840630472854,2.8116792831762707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_isleboro_ver01:data:sn83016025:00414210673:1897091401:0595/pct:50.39397653650849,16.01791782514674,11.123270880756435,2.815106580166821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

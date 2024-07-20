@@ -1216,7 +1216,7 @@ lake Huron ; thence along the middle of
 ron,thencethrough the middle of faldlake to  
 the water c ommunication 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783041201:0336/pct:10.737597911227153,7.184812250891546,27.17036553524804,65.63876651982379/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025585:00517015118:1783041201:0336/pct:10.743037423846824,7.184812250891546,27.18668407310705,65.63876651982379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1319,7 +1319,7 @@ Lritain and the citizens of the United
 States.”’—ln this manner the two coun­  
 tries fettied this point, so important t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790082601:0650/pct:8.766079085278704,43.12220089571337,20.22391615054788,4.926423544465771/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790082601:0650/pct:8.781959663331746,43.12220089571337,20.215975861521358,4.937086798891022/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1598,7 +1598,7 @@ which established their boundaries, and by
 which she relinquished all claims to the gov­  
 ernment, propriety, and territorial right
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814120801:0268/pct:23.86136817274542,30.497333498697756,17.27454182544003,1.7487287610070694/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814120801:0268/pct:23.857039187227866,30.49355158730159,17.277455249153363,1.7526455026455026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1619,7 +1619,7 @@ rivers that fill into the Atlantic ocean fro n
 those which fall into tlie river St. Ijiwrence,  
 mid thence along the snld highlands t-. th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814121301:0275/pct:58.886665453883936,19.77205153617443,17.718755684919046,3.939544103072349/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024736:00414183888:1814121301:0275/pct:58.87595489268825,19.769602378298032,17.721595731781253,3.9431851026053923/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1671,7 +1671,7 @@ and at the date of the treaty, an existing
 right in the inhabitants of the United  
 States, to the fisheries on the
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815042101:0196/pct:62.11298606016141,16.61663429277768,18.01907556859868,23.80363764788981/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:00414216195:1815042101:0196/pct:62.103873239436616,16.61516729937318,18.021322378716746,23.80447897354404/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1710,7 +1710,7 @@ the two countries, at an early period of the negotia­
 tion declared, thm they would not !&gt;e revived with­  
 out an equivalent. Whether the treaty of 178.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816033001:0274/pct:36.16279069767442,66.13084112149532,14.784053156146179,11.77570093457944/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183906:1816033001:0274/pct:36.15678458727786,66.12260154497882,14.7871339201683,11.77838690921173/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1779,7 +1779,7 @@ fishermen to dry or cure fish at such pertion
 such purpese, with the inhabitams, propriec­  
 tors, or pogsessors of the ground. Awd th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819021701:0850/pct:5.170387779083431,80.86034177961108,21.17117117117117,4.737772539776075/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00514153164:1819021701:0850/pct:5.183444313879097,80.86427028088784,21.184227705966837,4.733844038499313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2035,7 +2035,7 @@ inhabitants, proprietors, or rs of the ground.
 And the United States heregl renounce, forever, any  
 Tiberty heretofore eajoged or claimed by the inhabi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836020901:0229/pct:6.533333333333333,81.00148841165213,14.474074074074075,7.6334254731022755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836020901:0229/pct:6.533333333333333,81.00148841165213,14.48395061728395,7.6334254731022755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2065,7 +2065,7 @@ inhabitants, proprietors, or possessors of the ground.
 And the Uaited States hereby renounce, forever, any  
 liberty heretcfore enjoyed or claimed by the inhabi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836022301:0240/pct:68.53250407226417,28.59549378816593,14.127054642381164,7.2436302379448305/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517015180:1836022301:0240/pct:68.53744015005677,28.602512809714327,14.13199072017375,7.2436302379448305/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2508,7 +2508,7 @@ and the English as well as the Colonies, about the
 exact boundaries The design plainly was to remove  
 all doubt in future Now let us see if we can fin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840101601:0408/pct:82.11234321032539,6.062951496388029,16.651517905835302,12.667698658410732/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1840101601:0408/pct:82.11234321032539,6.071551427588579,16.669696418832938,12.667698658410732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2666,7 +2666,7 @@ found by experience to form the only permanent
 foundation of peace and friendship between States,  
 &amp;c.&quot;; and says that the objects of the British Go-
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842090301:0120/pct:201.1509517485613,134.10732714138288,49.151541980227236,32.44582043343653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_gritty_ver01:data:sn83030213:00206530170:1842090301:0120/pct:67.05031724952043,44.70244238046096,16.383847326742412,10.815273477812177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2799,7 +2799,7 @@ British plenipotentiaries on the other hand maintained that
 thfj wort concessions depending for thrii continuance  
 upon the continuance of the engagements between the tw 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845060901:0141/pct:17.918709473351257,81.4833438089252,15.625494227423692,10.295411690760528/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845060901:0141/pct:17.918709473351257,81.48753404567358,15.625494227423692,10.295411690760528/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2871,7 +2871,7 @@ a
 &#x27; the inhabitants, proprietors, or possessors of n  
 &#x27; the ground.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852072201:0094/pct:57.83365570599613,24.715162138475023,13.98176291793313,20.124890446976337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852072201:0094/pct:57.842866353504654,24.72246567338592,13.977157594178871,20.128542214431786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2941,7 +2941,7 @@ us and wu no iiyury to our neighbors, except so far as
 it enabled them more successfully to compete with the in­  
 habitants of the Provinces in this profitable branch of in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852072401:0277/pct:2.675212484324927,79.73695466210437,15.675073150341369,12.125748502994012/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852072401:0277/pct:2.675212484324927,79.73695466210437,15.679717616459987,12.132877102936984/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2973,7 +2973,7 @@ ithout previous agreements for such purpose
 with the inhabitants, proprietors or possessors  
 of the ground. And the United States hereb
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852072801:0546/pct:68.57360793287567,45.730027548209364,44.469870327993895,31.16008570554025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777791:1852072801:0546/pct:17.14340198321892,11.432506887052341,11.117467581998474,7.790021426385063/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3012,7 +3012,7 @@ sea where the inhabitants of both countries were at any
 time before used to fish ; and also on the coast of New­  
 foundland, and on the coasts, bays, and creeks of all th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852080701:0295/pct:49.399105645612075,51.587130209458,15.58133035215204,7.277045994385662/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852080701:0295/pct:49.399105645612075,51.59432807888865,15.585988447922489,7.277045994385662/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3085,7 +3085,7 @@ tia, Magdalen Islands, and Labrador, so long
 as the same shall remain unsettled.&quot; The in­  
 habitants of the U. S. were also &quot;to continne
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852080901:0567/pct:287.2412495295446,54.344749504670254,50.52691004892736,42.98046985564676/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852080901:0567/pct:71.79680150517403,13.584264893165416,12.629350893697083,10.743597000141502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3127,7 +3127,7 @@ fisheries were under the alove article re­
 sumed, but did not prosper till after 1700,  
 when the government began to foster th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn84020023:00295878460:1852081701:0431/pct:65.13560804899387,72.29669347631814,20.297462817147856,18.930592791182605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_applejack_ver01:data:sn84020023:00295878460:1852081701:0431/pct:48.88402625820569,54.2299672326482,15.22975929978118,14.194221030682156/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3160,7 +3160,7 @@ Gulf of St. Lawrence, and at all other places in the
 sea where tbe inhabitants of both countries used at  
 anytime heretofore to fish.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852082301:0204/pct:84.97183098591549,45.72186601812956,14.56338028169014,7.9703736458103025/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852082301:0204/pct:84.97183098591549,45.72923575797774,14.568075117370892,7.9703736458103025/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3184,7 +3184,7 @@ same on that island;) and also on the coasts, bays*
 and creeks of all other of his Britannic majesty&#x27;s  
 dominions in America.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852082301:0204/pct:85.01408450704226,53.49325668803891,14.859154929577464,3.8138403714348885/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn82014434:00415661423:1852082301:0204/pct:85.01408450704226,53.49325668803891,14.863849765258216,3.81752524135898/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3228,7 +3228,7 @@ ment for such purpose, with the lohabitanteg
  proprietora, or possessors of the groand.  
 And the United States hereby renounce
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1852091801:0651/pct:220.37839069979483,126.33269107257547,54.91224071119216,39.45086705202312/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1852091801:0651/pct:55.0820419325433,31.57810242414513,13.72493163172288,9.861133408251726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3275,7 +3275,7 @@ as forfeited by the war of 1812. By the Convention
 of 1818, it was agreed &quot;that the inhabitants of the  
 United States shall have forever, in common with th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853021201:0328/pct:6.540649046503847,151.92110363698552,48.05955168952827,42.45810055865922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743075:1853021201:0328/pct:2.180216348834616,50.64036787899517,16.01985056317609,14.15270018621974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3411,7 +3411,7 @@ be free, sovereign,
 and independent States--that he treats  
 with them as such,&quot; Ac., and ac. An
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856082901:0179/pct:52.12095156205216,240.0110741971207,33.319002579535685,19.878183831672203/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_gastly_ver01:data:sn82014134:00279529248:1856082901:0179/pct:17.373650520684055,80.00369139904024,11.106334193178562,6.626061277224068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3470,7 +3470,7 @@ that, without the consent of the proprietors of
   
 the gon. he ee oever wa o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743294:1858061301:0394/pct:107.51058976865428,107.92841771435043,47.132616487455195,41.26175104768377/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_marcus_ver01:data:sn83030313:00271743294:1858061301:0394/pct:35.836863256218095,35.976139238116815,15.710872162485066,13.75391701589459/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3592,7 +3592,7 @@ T ranklin, John Jay and Henry Laurens, four of the
 Commissioners of the said States, &amp;c., &amp;c.. &amp;c.  
 Article VI.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861010201:0010/pct:78.27282728272827,223.9506172839506,43.784378437843785,33.90946502057613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861010201:0010/pct:19.57628284495804,55.98765432098765,10.950612188746733,8.477366255144032/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3617,7 +3617,7 @@ heirs and successors, relinquishes all claims to the
 Government, proprietary and territorial rights of  
 the same and every part thereof.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861010201:0010/pct:123.87238723872387,99.83539094650206,43.784378437843785,15.473251028806585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038518:00200293319:1861010201:0010/pct:30.980877699821157,24.958847736625515,10.950612188746733,3.8683127572016462/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3646,7 +3646,7 @@ asserted by the Colonies, namely, tbe right of a
 State to govern itself, and tbe right of a people to  
 abolish a government when it beoimes destructiv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1861011201:0189/pct:6.963388370423546,97.87903667214012,18.251974156496768,11.288998357963875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_ariel_ver02:data:sn83035487:00211100485:1861011201:0189/pct:5.225354641766924,73.41269841269842,13.700843957622553,8.47016967706623/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3673,7 +3673,7 @@ main free and open to the subjects of Great
 ea ed e eea   e e  
 an and the citizens of the United States.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861011801:0011/pct:200.05543237250555,120.17051828584249,34.03547671840355,15.660758357639669/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200290045:1861011801:0011/pct:50.02772387025229,30.042629571460623,8.511228167452176,3.915189589409917/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3719,7 +3719,7 @@ ion. (ireat Britain, in ceding her sovereignty
 to the 1 nited States, stipulated for a continu- J  
 a nee ot the same privilege from the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn87090585:00414212414:1861012501:0044/pct:32.1774310070799,39.13511187607573,13.018349949429274,11.57487091222031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_dragonair_ver01:data:sn87090585:00414212414:1861012501:0044/pct:32.172782432822885,39.13090244164784,13.020080901473563,11.576314940303323/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3874,7 +3874,7 @@ cut, New York, New Jersey, Pennsylvania,
 &quot;territorial rights of the same and every part  
 &quot;thereof.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_barbaro_ver01:data:sn84025980:00280762210:1863022701:0088/pct:58.05338659887416,61.37179794110606,16.778645360450337,7.277950682307877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_barbaro_ver01:data:sn84025980:00280762210:1863022701:0088/pct:58.05338659887416,61.37977815018753,16.78469826281702,7.273960577767138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3902,7 +3902,7 @@ tates,” Ac, Ac.
 Before the Constitution became bind­  
 ing upon any State, it required nin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863101701:0370/pct:41.379958638841885,56.26790342381667,12.10753901109231,6.915836857181831/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_iris_ver01:data:sn82014487:00279557244:1863101701:0370/pct:41.38935890204926,56.27472377574683,12.102838879488626,6.9124266812167505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3980,7 +3980,7 @@ settlement, without a previous agreement for
 that purpose with the innabitants, proprictors  
 or possessors of the ground.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777018:1866040601:0263/pct:113.5558583106267,222.06110823407562,42.643051771117165,29.932677369238736/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777018:1866040601:0263/pct:28.393800034065748,55.515277058518905,10.662578777039686,7.483169342309684/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4015,7 +4015,7 @@ land as British fishermen shall use, and also
 on the coasts, bays and creeks of all other of  
 His Britanic Majesty&#x27;s dominions in America
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528359:1866040701:0070/pct:15.681354869060687,190.4202648244099,38.02728555747217,34.47322970639033/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_jigglypuff_ver01:data:sn83025182:00279528359:1866040701:0070/pct:5.227118289686896,63.47342160813663,12.675761852490721,11.491076568796776/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4035,7 +4035,7 @@ ritorial rights of the same and every part thereof. That
 subsequently the thirteen States which had thus  
 achteved their independence, for the purpose of formin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867041101:0997/pct:102.34489496824621,86.93175344650791,45.43234000977039,7.337359006494246/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743579:1867041101:0997/pct:34.114964989415405,28.977251148835972,15.144113336590133,2.445786335498082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4059,7 +4059,7 @@ earnestl} reoom mended by the several
 States to reconsider and revise all their  
 acts aud
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665040:1867051501:0455/pct:48.90665058060625,84.42444927086565,12.019303272507917,4.467887061743717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_chekhov_ver01:data:sn84026847:00415665040:1867051501:0455/pct:48.91167747448851,84.43134415830662,12.019303272507917,4.467887061743717/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4095,7 +4095,7 @@ Here there was little or no restriction upon our
 rights. We could fish at all places in the sea where  
 the inhabitants of both countries used theretofore t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869011501:0170/pct:243.2175565923622,28.449210748282926,46.379816830827714,22.544884925894685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fairymoss_ver01:data:sn83030313:00271743658:1869011501:0170/pct:81.07251886412072,9.483070249427643,15.45993894360924,7.514961641964895/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4135,7 +4135,7 @@ on the shores of Newfoundland) at all places used
 thereafter by British fishermen. The rights we  
 assessed in the nislerles in Ilos were permanent
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869012001:0679/pct:158.8697017268446,309.80559103164467,45.91836734693877,32.69476372924649/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1869012001:0679/pct:39.73301923831959,77.45139775791117,11.484098939929329,8.173690932311622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4243,7 +4243,7 @@ set
 tors sgreemnent for that purpose with the inhabitants, propne  
 tors, or possesso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531083:1871051001:0071/pct:247.8952442159383,220.8003722661703,46.802699228791774,21.009771986970684/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fortran_ver01:data:sn83030214:00206531083:1871051001:0071/pct:82.63174807197943,73.60012408872343,15.600899742930592,7.003257328990228/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4386,7 +4386,7 @@ linquishes all claim to the government,
 propriety, aDd territorial rights of the  
 same, and every part thereof.” Advo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882090401:0218/pct:26.12158216087072,81.38667219400975,9.915051765330501,7.275365322831382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_ace_ver02:data:sn82015137:00383342089:1882090401:0218/pct:26.13043093531546,81.39358137285383,9.906202990885763,7.275365322831382/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4424,7 +4424,7 @@ upon between Great Britain and France, and
 his Britanic Majesty shall be ready to conclude  
 such treaty accordingly.&quot; This require
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1882120701:0109/pct:83.87768379960963,70.63860799854241,14.547820429407938,6.386079985424068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861927:1882120701:0109/pct:83.88202125352419,70.64468130333121,14.547820429407938,6.386079985424068/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4491,7 +4491,7 @@ Scotia, Magdalen Islands and Labrador, so
 long as they shouhl remain unsettled, but to  
 dry aud cure after the settlement of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00414210521:1885010101:0322/pct:5.639409520650191,76.99879951980792,11.063194559628462,7.142857142857143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_farmington_ver01:data:sn83016025:00414210521:1885010101:0322/pct:5.638474295190713,76.98955707598128,11.065505804311774,7.145000600168047/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4571,7 +4571,7 @@ Magdalen Islands and Labrador, so long as
 the same remained unsettled, but when settled  
 a previous agreement had to bo made for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1887120201:0902/pct:34.10326086956522,30.499306518723994,14.20807453416149,5.728155339805825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_goshawk_ver03:data:sn2001063112:00415623409:1887120201:0902/pct:28.99802023757149,25.924470468031593,12.082050153981521,4.884662239163752/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4596,7 +4596,7 @@ Magdalen Islands and Labrador, so long as
 the same remained unsettled, but when settled  
 a previous agreement had to be made for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777080:1887120201:1204/pct:25.177935943060497,110.07083461656914,58.00711743772242,22.051124114567294/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_burlington_ver01:data:sn86072143:00280777080:1887120201:1204/pct:6.295884315906563,27.517708654142286,14.505005561735262,5.5127810286418235/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4633,7 +4633,7 @@ viction that mutual advantage and canventence are the
 only permanent foundation of peace and friendship be­  
 tween States, and that with the adoption of the agree
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038218:1888022201:0526/pct:56.38148667601683,52.992213570634036,45.83138538257753,18.242491657397107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:00175038218:1888022201:0526/pct:18.79382889200561,17.664071190211345,15.277128460859176,6.080830552465702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4655,7 +4655,7 @@ now placed before the Senate, a beneficial
 and satisfactory intercourse between the  
 two countries will be established so as to
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022201:0218/pct:6.144842721287491,164.81426448737,45.06217995610827,13.016344725111441/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_grover_ver01:data:sn82000205:00211103589:1888022201:0218/pct:1.5367727771679474,41.2035661218425,11.269667032564946,3.2540861812778603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4701,7 +4701,7 @@ beneficial and satisfactory intercourse
 between the two countries will be &quot; es­  
 tablished so as to secure perpetua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_jeffers_ver01:data:sn90059522:00175033300:1888022201:0536/pct:62.452377592775505,53.02544366046611,11.40115704811627,3.8700021381227283/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_jeffers_ver01:data:sn90059522:00175033300:1888022201:0536/pct:62.46178448802973,53.03257073622692,11.40115704811627,3.8700021381227283/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4723,7 +4723,7 @@ now placed before the senate, beneficial
 and satisfactory intercourse between the  
 two countries will bo established, so as t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623033:1888022301:0975/pct:33.43068535825545,13.39043540328337,12.44158878504673,3.668807994289793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623033:1888022301:0975/pct:33.43068535825545,13.394004282655246,12.456191588785046,3.6759457530335475/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4741,7 +4741,7 @@ nent foundation of peace and friendship be­
 tween States, and that with the adoption  
 of the agreement now placed before the Senat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_flamingo_ver01:data:sn83004226:0029587580A:1888030101:0569/pct:31.369294605809127,172.98850574712642,49.29460580912863,5.977011494252873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:kyu:batch_kyu_flamingo_ver01:data:sn83004226:0029587580A:1888030101:0569/pct:7.843951027184063,43.247126436781606,12.326208757003528,1.4942528735632183/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4789,7 +4789,7 @@ Britain began by narrow legislation and by restrictive
 local regulation to violate the compact in sphit, if  
 not in letter. Then came the war of 1812, whic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:0017503822A:1888031901:0179/pct:240.24729520865534,174.0266901952134,44.79134466769706,41.65655674423734/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ford_ver01:data:sn83030214:0017503822A:1888031901:0179/pct:80.08243173621844,58.008896731737806,14.930448222565687,13.88551891474578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4883,7 +4883,7 @@ tically valueless—a mere wilderness of
 waste land, which could never be reclaim­  
 ed. The Allegheny Mountains, he assert
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026487:1889062801:0622/pct:5.565717272014633,43.561924257932446,9.589756989809251,8.86386898669396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026487:1889062801:0622/pct:5.574427314693842,43.56874786762197,9.589756989809251,8.867280791538724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

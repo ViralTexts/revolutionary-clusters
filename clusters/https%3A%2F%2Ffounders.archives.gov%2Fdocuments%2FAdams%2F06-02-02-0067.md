@@ -185,7 +185,7 @@ And wiat is else not to be overcome,
 hat glory never shall his wrath or might  
 Extort from me
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1844111601:0051/pct:32.5264948318723,74.23889956508546,11.61847442103886,3.4287448164256094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_helmedhorror_ver02:data:sn83021460:00514153267:1844111601:0051/pct:32.535217410266476,74.23889956508546,11.61847442103886,3.4422305384174505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ ever to do ill our sole delight
 To do aught good never will be our task,  
 But ever to do ill our sole delight?
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867110101:0381/pct:61.47642679900744,356.6319094068842,33.6848635235732,2.197555779795941/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_bonnielou_ver01:data:sn83045160:00200292960:1867110101:0381/pct:15.37149061579029,89.15797735172104,8.422522103303862,0.5493889449489853/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -332,7 +332,7 @@ Doing or suffering ! but of this be sure,
 But to do aught good never will be our task,  
 But ever to do ill our sole delight
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289341:1895080801:0259/pct:87.91448516579406,44.67144381765513,17.12478184991274,1.7990547339533465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_india_ver01:data:sn85038161:00237289341:1895080801:0259/pct:65.9611608116954,33.51120597652081,12.851843770456034,1.3416679371855467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

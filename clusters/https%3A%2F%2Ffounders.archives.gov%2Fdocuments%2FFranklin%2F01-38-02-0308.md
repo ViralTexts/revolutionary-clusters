@@ -61,7 +61,7 @@ preliminaries between he British and American
 &#x27;I plenipotentiaries.  
 &#x27; With great respect, 1 am
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842122801:0615/pct:33.264919482159776,40.13635855594054,16.150931480896748,4.001341231697776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661290:1842122801:0615/pct:33.27544469003263,40.14008419954547,16.150931480896748,4.005066875302709/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -83,7 +83,7 @@ irelimiuaries between the British and Auieriean pie
 iipotcutisi ics.  
 &quot; \\ ilh great respect, I am, Ite.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843010401:0014/pct:83.19386331938634,53.65264896455342,16.54463040446304,3.9130987168085376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn84020074:00415661307:1843010401:0014/pct:83.19386331938634,53.66111887519587,16.550441655044164,3.9088637614873165/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -213,7 +213,7 @@ minaries between the British and American I lenipotentiaries : thi 5 ma
 in the preliminaries between the Britsh and  
 American rlcnipotcntiarics. This nort
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1843021101:0611/pct:103.79720853858785,18.2288496652465,21.161740558292284,2.5410833840535605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1843021101:0611/pct:77.90100636681044,13.679245283018869,15.87594988704046,1.902008520998174/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

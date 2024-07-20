@@ -398,7 +398,7 @@ it fbabl be found necessary 5 and towards the further
 defraying the expinces of defending, protelling and  
 securing the said deminicns, we your Majesty’s mos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768012901:0017/pct:64.30112165660051,45.72963800904977,27.998274374460742,9.247737556561086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768012901:0017/pct:64.30112165660051,45.73906485671191,27.998274374460742,9.243024132730016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -432,7 +432,7 @@ raised on that colony without its confenty to make
 “provision” for these purposes, which it does not judge  
 20 be suitable to its abilities, and all other circum
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768041501:0068/pct:6.175771971496437,45.96030192899077,28.41718851220039,18.283477774671514/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768041501:0068/pct:6.190167710357734,45.96496132699655,28.424386381631038,18.28813717267729/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -452,7 +452,7 @@ adequate provision for defraying the charges of the
 administration of justice, the support of civil go­  
 vernment, and the expence of defending the f{ai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768042901:0074/pct:37.643069097075035,32.70856820744081,27.490462060194996,5.538331454340473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1768042901:0074/pct:37.65013423767133,32.71326568959038,27.504592341387593,5.547726418639609/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -467,7 +467,7 @@ vernment, and the expence of defending the f{ai
 the further defraying the expences of defend­  
 ing, protecting and securing the said domin­
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769030301:0244/pct:9.617417036567321,6.134628730048577,27.013316423589092,1.970853573907009/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015076:1769030301:0244/pct:9.617417036567321,6.143881563728892,27.03445360388924,1.9662271570668517/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -525,7 +525,7 @@ his hands; not for the good of those who are
 under it, but for his own private feperate ad­  
 vantage. When the Governor, however in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1771082201:0117/pct:6.885660138976626,51.8131001863265,26.80564329332491,9.201662605704458/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mb:batch_mb_artemis_ver01:data:sn83021193:00517172169:1771082201:0117/pct:5.347331773921558,40.16217417061611,20.763749116031114,7.138625592417061/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ geated Reports that it is to have a further Opperatinn with re­
 focCt to the defreying the Charge of the Adminiftratation of  
 fuftice, which would not only be a further Diminution of thos
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773123101:0177/pct:6.674512441156692,73.79026536114658,21.28446536650975,15.141194834681425/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773123101:0177/pct:6.674512441156692,73.79026536114658,21.28446536650975,15.15065512511234/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -648,7 +648,7 @@ the Duties to arise by virtue of the said aét, to­
 wards defreying the expences of defending, pro­  
 tecling and securing, the Jaid colonies and plan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774052001:0252/pct:65.98194130925508,29.595290654893304,28.013544018058692,23.4289919058131/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774052001:0252/pct:65.98194130925508,29.595290654893304,28.04364183596689,23.4289919058131/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -70,7 +70,7 @@ Jands are dragged into a Slavcry; that can
 [carce be [aid to End with their Lives, since it  
 is entailed ovi their Posterity. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773021201:0025/pct:33.7144089732528,27.578857630008525,26.962899050905953,40.33816425120773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1773021201:0025/pct:33.72878918607995,27.58833001799754,26.970089157319528,40.34763663919674/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -109,7 +109,7 @@ thy coasts, while thy laws continue a traffic
 whereby so many hundreds of thousands are  
 dragged into a slavery that is entailed o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053570:00237288968:1866021201:0153/pct:21.31303520456708,356.32393084622385,48.43006660323501,9.463148316651502/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_hawaiian_ver01:data:sn86053570:00237288968:1866021201:0153/pct:5.329526528669998,89.08098271155596,12.110397335236735,2.3657870791628755/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -128,7 +128,7 @@ laws continue a traffic whereby so many bun-
 drtds of thousands are dragged into a slavery  
 that is entailed on their posterity.&quot; &quot;A seriou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776178:1866021201:0255/pct:45.191612436731745,76.49352457874947,19.342010122921184,3.0775657986352876/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776178:1866021201:0255/pct:33.89983728078105,57.373624843336586,14.518170312782498,2.31165575825094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -169,7 +169,7 @@ that happened to land on thy coasts, while thy laws
 a traflic whereby so many hundreds of thous­  
 sands are dragged into a Slavery that is entailed o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866021301:0324/pct:54.17918360134299,257.7273847670693,47.7999646580668,9.55139265467094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_delphi_ver02:data:sn83030213:00206530820:1866021301:0324/pct:18.059727867114333,85.90912825568975,15.933321552688932,3.18379755155698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ coasts, while thy laws continue a traffic whereby so
 many hundreds of thousands are dragged into a slavery  
 that is entailed on their posterity.&quot; &quot;A serious vie
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866021301:0359/pct:101.78290508652333,185.12110726643598,48.69778010837266,6.3766683143845775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_goldenglow_ver01:data:sn83030313:00271743543:1866021301:0359/pct:33.92763502884111,61.707035755478664,16.232593369457554,2.125556104794859/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ laws continue a traffic whereby so many hundreds of
 thousands are dragged into a slavery that is entailed  
 on their posterity.&quot; &quot;A serious view of the subject.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009569:00296026177:1866021301:0149/pct:37.44757339724386,88.0564125165271,10.964649490713002,1.498457470251212/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_kale_ver01:data:sn83009569:00296026177:1866021301:0149/pct:37.45755941681646,88.0564125165271,10.969642500499301,1.509475539885412/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -237,7 +237,7 @@ thy laws continue a traffic whereby so many
 hundreds of. thousands are dragged into a  
 slavery that is entailed on their posterity.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866021401:0002/pct:42.30339172568021,53.31036548831636,8.777487886693999,2.0521270221689636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_illinois_ver02:data:sn82014064:no_reel:1866021401:0002/pct:42.30339172568021,53.32159976033553,8.782146850540439,2.0521270221689636/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -257,7 +257,7 @@ tinue a traffic whereby so many hundreds
 of thousands are dragged into slavery that  
 is entailed on their posterity.&quot; &quot;A ser
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866021401:0574/pct:141.79202092871157,313.7842023748064,38.97972531066056,9.705730511099638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_desdemona_ver01:data:sn85042437:00280775563:1866021401:0574/pct:35.44800523217789,78.4460505937016,9.74493132766514,2.4264326277749095/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -335,7 +335,7 @@ thyself in setting free a single slave that
 .1 hundreds of thou.-ands arc dragged into a  
 slavery that is entailed on their posterity
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1866022301:0663/pct:15.016632345952797,85.6850947894199,13.448439727546333,2.9515268475422864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_intramural_ver01:data:sn83032006:00296028563:1866022301:0663/pct:15.016632345952797,85.6850947894199,13.448439727546333,2.9666628826578876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -352,7 +352,7 @@ Franklin, in behalf of Virginia, &quot;to pride thyself
 in setting free a single slave that happened to land  
 on thy coasts, while thy laws continue a traffic
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1866022301:0034/pct:168.80877742946709,272.2749886928991,50.940438871473354,5.608322026232474/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_graniteville_ver01:data:sn84023200:00280777651:1866022301:0034/pct:42.210464432686656,68.06874717322478,12.737605330197923,1.4020805065581186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -405,7 +405,7 @@ trafic whereby so many hundreds of
 thousands are dragged into a slavery  
 that is entailed on their posterity.” ‘
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_longview_ver01:data:sn82016224:00220720378:1866022401:0003/pct:39.78822684852835,36.47828673408685,16.421392677674085,4.021415823914337/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_longview_ver01:data:sn82016224:00220720378:1866022401:0003/pct:39.79420914094281,36.47828673408685,16.421392677674085,4.0293476105492765/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

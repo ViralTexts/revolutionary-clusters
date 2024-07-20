@@ -2922,7 +2922,7 @@ ly lament their fate.”
 NOTICE.  
 HTMIE annual meeting of the Stock
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812120801:0246/pct:79.33788296791056,49.69707612608657,16.248003484826484,21.836860128193873/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_greenjackets_ver02:data:sn84024014:0041421616A:1812120801:0246/pct:79.32636469221835,49.69271290605795,16.250483933410763,21.83786947614867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3547,7 +3547,7 @@ happy improvement of the law of nations. The hu- .
 mane and the just cannot but wish general success to  
 the proposition.” What the sagacious forecast of
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829032601:0392/pct:23.126676131882,63.24336955251782,18.047010569490457,7.652763173267905/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:0041418456A:1829032601:0392/pct:23.123028391167193,63.23598130841121,18.049421661409042,7.655763239875389/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3585,7 +3585,7 @@ happy improvement of the law of nations. The hu­
 mane nnd the just cannot but wish general success to  
 the proposition.” What tire sagacious forecast o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829032701:0070/pct:59.68471983767754,42.78643003742605,17.605743717808647,13.606181335265001/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184315:1829032701:0070/pct:59.675405742821475,42.781265089328826,17.608198085726176,13.608562691131498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3723,7 +3723,7 @@ ed. This will be a happy improvement of the
 law of nations. The humane and the Juat cannot  
 but wish general success to the proposition.&quot;—
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829061601:0050/pct:21.40771476871062,24.81520591341077,14.937759336099585,6.687785990848293/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829061601:0050/pct:21.404425322679778,24.8122946973252,14.94058594550297,6.690911934928828/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4183,7 +4183,7 @@ ment in the law of nations. The humane and
 the just cannot but wish success to the proposi­  
 tion.&quot; &quot;Without such a check,&quot; wrote Captai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841010901:0512/pct:82.0480631276901,18.252650402350238,15.799856527977045,2.2480521139353686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841010901:0512/pct:82.0480631276901,18.26116575126666,15.823768531802965,2.2437944394771576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4398,7 +4398,7 @@ he plunders.&#x27; tn a gang) as when single; and
 a nation that makes an unjust, war is only  
 a great ging &#x27;&#x27;&#x27;Franklin, &#x27; &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85026335:00296028873:1846062601:0087/pct:104.13533834586467,115.0330639235856,19.548872180451127,4.981631153563556/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_laing_ver02:data:sn85026335:00296028873:1846062601:0087/pct:78.16091954022988,86.2747979426892,14.670846394984325,3.7472446730345332/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4459,7 +4459,7 @@ an unjust war is only a great gang. Franklin.
 The expediture in England and Wales during  
 the &#x27;20 years ending with 1811, lias amounted t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1847072201:0708/pct:26.62412993039443,120.25316455696202,19.412219644238206,3.637574950033311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_hildene_ver01:data:sn84023209:00202199252:1847072201:0708/pct:19.976793656932895,90.19320453031312,14.561980274608393,2.731512325116589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4756,7 +4756,7 @@ ca, though better situatet than any European nation to
 make profit by priva cerng, are, as far as in them lies,  
 endeavoring to abolh the practice.&quot; France, in her las
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856090401:0541/pct:111.56098377112264,33.26493388052896,46.310858290112094,6.087551299589603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_nosebleed_ver01:data:sn83030313:00271743245:1856090401:0541/pct:37.18699459037421,11.088311293509651,15.436952763370698,2.0291837665298678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4840,7 +4840,7 @@ plunders in a gang as when single; and
 a nation that makes an unjust war is  
 only a large gang. It was remarked b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn93051083:00279557517:1858122501:0080/pct:7.747537151444314,64.53892215568862,14.39305393220905,12.74251497005988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_knotgrass_ver01:data:sn93051083:00279557517:1858122501:0080/pct:7.758668670340068,64.53892215568862,14.381922413313296,12.750499001996008/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4906,7 +4906,7 @@ provement of the law of aatloas. The humane
 I tire just cannot but wish general suecess  
 to the proposition
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045628:00200293587:1861061501:0279/pct:289.7810218978102,133.0120481927711,44.39283344392833,21.97590361445783/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_furry_ver01:data:sn83045628:00200293587:1861061501:0279/pct:72.4572755931641,33.25301204819277,11.100049776007964,5.493975903614458/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4968,7 +4968,7 @@ pass against him. Say, replied he, why
 think the joke has heen carried far enough  
 already, and the less that is said about it th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554231:1866010901:0032/pct:132.32472324723247,348.9187460012796,45.55350553505535,9.584133077415228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nvln:batch_nvln_osceola_ver01:data:sn84022046:00279554231:1866010901:0032/pct:33.07507839881941,87.21852610030706,11.386275594908689,2.3957267144319343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5047,7 +5047,7 @@ sides shall pursue their voyages unmolested.” Dr, Frank­
 lin procured the insertion of both these propositions in the  
 treaty with Prussia. In the subsequent treaty of 1799 wit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110211:1873113001:0004/pct:4.893537542024655,20.663867751246393,12.420620097123646,2.7945421149304646/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eliot_ver01:data:sn85026214:print00211110211:1873113001:0004/pct:4.898206948076204,20.67042770926266,12.420620097123646,2.787982156914196/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5095,7 +5095,7 @@ ing a horse, but that horses may not be
 stolen.&quot;  
  &quot;Truth&quot; has consulted an astrologe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881072601:0087/pct:72.66881028938907,29.25665195084119,49.839228295819936,37.656604223839636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_joepa_ver01:data:sn83032300:00237282279:1881072601:0087/pct:18.167202572347268,7.314162987710297,12.459807073954984,9.414151055959909/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5125,7 +5125,7 @@ robber when he plunders in a gang, ad when
 single; and a nation that makes an unjust  
 war is only a great gang of robbers
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_jeffers_ver01:data:sn90059522:00175035503:1884120701:0336/pct:56.725325172149965,37.34700282456324,13.557765876052027,3.0128674547546814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_jeffers_ver01:data:sn90059522:00175035503:1884120701:0336/pct:56.725325172149965,37.34700282456324,13.567967355266514,3.016354569864351/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5409,7 +5409,7 @@ gang us when single; aud a nation that
 makes an unjust war is only a great  
 gang.&quot; Iu the same vein Thomas Je
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1899081101:1011/pct:29.125475285171103,26.079913606911447,15.836501901140684,5.5345572354211665/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ira_ver01:data:sn84023416:0020219753A:1899081101:1011/pct:21.85241536705972,19.559935205183585,11.886648915937618,4.157667386609071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5437,7 +5437,7 @@ nation that makes an unjust war is only a
 great gang.  I know of but one code of  
 morality for men, whether acting singly o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777900:1899081101:0255/pct:89.2605633802817,74.2522355843355,59.41901408450704,25.77860006167129/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777900:1899081101:0255/pct:22.329883285619907,18.563058896083874,14.864567275930412,6.444650015417823/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5470,7 +5470,7 @@ only for stealing a horse, but that horses
 tnay not be stolen.’  
 “The reformatory principle has emerge
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182276:1899083001:1258/pct:44.344773790951635,46.34489222118088,12.734009360374415,4.0768509840674785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fletcher_ver01:data:sn86063034:00414182276:1899083001:1258/pct:44.344773790951635,46.34489222118088,12.747009880395217,4.082057690305113/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5550,7 +5550,7 @@ Motions to establish the form of govern­
 ment that best suits them, from Washing­  
 ton;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jonesport_ver02:data:sn83016025:00414210740:1899091501:0792/pct:5.55324459234609,71.51718357082984,12.292013311148086,4.844928751047779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_jonesport_ver02:data:sn83016025:00414210740:1899091501:0792/pct:5.552089831565814,71.50519611129735,12.294655853607818,4.8483070734160245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

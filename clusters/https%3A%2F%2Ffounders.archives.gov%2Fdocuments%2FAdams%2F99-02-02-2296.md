@@ -58,7 +58,7 @@ lars and parts of luch dollars, (hall cease to be a
 lfcgal tender, as aforefaid.  
 Sec. 3. And be it further enacted, That al
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022301:0001/pct:6.867079280872384,48.03061414971066,19.363395225464192,11.610976292701139/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1793022301:0001/pct:6.889183613321545,48.03994773193952,19.363395225464192,11.620309874929998/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ rate of one hundred cents for each, the actual weight
 whereof shall not he less than seventeen penny­  
 weights and seven grains, and in proportion for
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806052101:1122/pct:47.80691007106101,74.74715042542944,20.999754962019114,9.632364745545031/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1806052101:1122/pct:47.795198432141106,74.73515248796147,21.000734933855952,9.634831460674157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ of France, Spain, and the dominions
 of Spain, of their present {tandard, at  
 the rate of one hundred cents for eve
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806072201:0325/pct:57.78757027807324,25.18886870039208,15.833459960492327,9.056134646648179/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1806072201:0325/pct:57.78757027807324,25.195244015173248,15.843590133211771,9.04975933186701/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -541,7 +541,7 @@ j be a legal tender for the payment of all
 debts, &amp;c., at the several and respective  
 rates following, &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864112501:0460/pct:52.4810085663488,85.8160237388724,13.43138839502182,3.169139465875371/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_foxtrot_ver01:data:sn83016751:00383347324:1864112501:0460/pct:52.48639620710091,85.8160237388724,13.436776035773935,3.1770524233432247/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -562,7 +562,7 @@ The act of June 25, 1834, makes the
   
 ailver ella o Aevi  o d
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1878020801:0447/pct:85.52301255230125,186.17363344051446,69.6234309623431,13.290460878885316/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_abraham_ver02:data:sn84023963:00200295936:1878020801:0447/pct:21.38522703494455,46.543408360128616,17.409499895375603,3.322615219721329/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -647,7 +647,7 @@ Mr. Horr- Certainly, but unless they are up to
 the standard they are not legal tender.  
 &quot;COIN&quot; ACENOWLEDGES A MiSTAKE
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038814:1895071801:0254/pct:7.830930537352556,262.5852622162585,47.706422018348626,13.731410041373142/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jaguar_ver01:data:sn83030214:00175038814:1895071801:0254/pct:2.6103101791175187,87.52842073875284,15.902140672782874,4.577136680457714/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

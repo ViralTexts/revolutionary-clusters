@@ -106,7 +106,7 @@ lind or dwelling house, situated within his
 said district, and diredled by the said art to  
 be included in the.lilts thereby required t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071601:0002/pct:42.9723783915913,82.64382676147382,17.061843070153998,5.866192630898513/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_ocicat_ver01:data:sn84026272:print:1800071601:0002/pct:42.99071131752628,82.6478668390433,17.061843070153998,5.8742727860374915/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -136,7 +136,7 @@ of slaves fn Sounth Carolina, and for
 other purpoles, was read thethird time  
 and paffeds . 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805010801:0006/pct:41.60401002506266,62.04890554131335,16.760651629072683,4.151055018733977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805010801:0006/pct:41.61445279866332,62.04890554131335,16.750208855472014,4.160915006901992/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -153,7 +153,7 @@ execution of the above-mentioned arts of congress,
 for the: valuation of lands and dwelling houses and  
 the enumeration of slaves, and for levy ing and c il
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805022001:0361/pct:50.36119711042311,71.37546468401487,22.058823529411764,1.9233877485049298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805022001:0361/pct:50.34820737683776,71.3639301874596,22.059582151147794,1.9271170006464124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -254,7 +254,7 @@ In 1798 an act was passed by Congress for the
 valuation of lands and dwelling-houses, and the  
 enumeration of slaves throughout the United States
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851020101:0518/pct:82.8086164043082,83.78610544400301,15.824357912178955,4.295071405562117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661599:1851020101:0518/pct:82.8086164043082,83.79326389634561,15.828960692258123,4.29865063173342/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -283,7 +283,7 @@ he tork to daltase of the IInlen ad
 there is in the two caseso eooo ee e o  
 Another batch of beauties of this free sufa o i ee  a te e 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851021901:0621/pct:91.81286549707602,195.05258480225152,242.1888053467001,66.18278773515034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_chestnut_ver01:data:sn84020716:00415667711:1851021901:0621/pct:22.962808190555787,48.76314620056288,60.57250313414124,16.545696933787585/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -304,7 +304,7 @@ for the valuation of lands and dwelling h
 and the enumeration of slaves within the Unite  
 States.&quot;&quot; February 28, 1700, ch
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853052701:0557/pct:50.22430668841762,131.6849816849817,38.23409461663948,10.668498168498168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_pearse_ver01:data:sn82015753:0021247535A:1853052701:0557/pct:16.741435562805872,43.894993894993895,12.744698205546493,3.556166056166056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

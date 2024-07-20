@@ -396,7 +396,7 @@ pres. ntat.ve, and tint 1 such en.iii.eration - hall be
 made, the State of New Hampshire shall be entitled to  
 choose iiiree; Massachusetts eight; M.o.le I-land an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839122101:0263/pct:65.25735294117646,66.90781314592807,16.222426470588236,2.9350971475816454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664242:1839122101:0263/pct:65.26245915032679,66.91470304533554,16.222426470588236,2.9350971475816454/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -426,7 +426,7 @@ islatutes aguinst Congress throwing of the
 control of the Constitution &#x27;’ | shall notread  
 the other reas ns he has assigned, none o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842031601:0624/pct:7.42746078023046,57.16711617221057,14.25794807719006,8.230945959444611/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_imp_ver01:data:sn83021460:00514153243:1842031601:0624/pct:7.432088481651164,57.16711617221057,14.25794807719006,8.240934971531315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -479,7 +479,7 @@ consequently, has begotten a desire to raise vp hu rriers tit
 the Urate legislatures against Congress throwing off the  
 control of the Constitution&quot; 1 shall not read the othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842082601:0215/pct:3.8337678270203956,4.915202599776582,16.316515871798803,4.691784299786737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1842082601:0215/pct:3.8337678270203956,4.918587725534004,16.32162756223483,4.698554551301581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -516,7 +516,7 @@ r desire to raise up barriers in the State legislatures nginnsi
 Jongress throwing oil the control of the constitution.&quot;  
 hull not read tire other reasons he has assigned, none 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848051201:0498/pct:68.76313662085691,69.94190452134377,15.375909458367017,5.430664309168982/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848051201:0498/pct:68.76313662085691,69.95032415593164,15.381298841282673,5.430664309168982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -538,7 +538,7 @@ ready lo excite a belief that no Presitlent will ever venture to |jc (
 riersin the State legis/utuies against Congress, throwing off j  
 the control of the constitution.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848071501:0715/pct:0.7861382961655704,81.22896672067805,16.926038825605648,4.038389629814284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848071501:0715/pct:0.7861382961655704,81.2372761643608,16.9313867051714,4.038389629814284/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -607,7 +607,7 @@ i throw out of service, at that time, two companies of light
 i dragoons. This hill had been passed by a large majority;  
 &#x27; and it is a singular circumstance, it was presented to hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848072201:0738/pct:67.75991084222258,64.69339328087923,16.08024199968158,8.592481578618708/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848072201:0738/pct:67.75991084222258,64.70171932892053,16.08024199968158,8.592481578618708/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -629,7 +629,7 @@ to use it; and consequently has begotten a desire to raise up
 barriers in the State legislatures against Congress, throw  
 ing off the control of the constitution.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072601:0279/pct:21.970357454228424,105.23503381481173,58.19529206625981,12.857977790765634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_fairmount_ver02:data:sn82014301:00202191289:1848072601:0279/pct:5.492589363557106,26.308758453702932,14.548823016564953,3.2144944476914086/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -654,7 +654,7 @@ shire shall be entitled to choose three.
   
 Massachusetts eight, Rhode Island an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861021302:0314/pct:8.246527777777779,159.5809690091663,59.635416666666664,21.708133275134585/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_lasch_ver01:data:sn83032199:00212477849:1861021302:0314/pct:2.0616319444444446,39.895242252291574,14.908854166666666,5.427033318783646/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -681,7 +681,7 @@ shall be entitled to choose three; Massa­
 chusetts, eight; Rhode Island and Provi­  
 dence plantations, one; Connecticut, five
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026785:1861070501:0425/pct:38.07171089779786,47.42980072463768,14.29983060417843,8.695652173913043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn85038184:00296026785:1861070501:0425/pct:28.56537701214346,35.57518115942029,10.731431798926856,6.521739130434782/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -699,7 +699,7 @@ such enumeration shall be made, the State
 of New Hampshire shall be entitled to  
 chooso three, Massachusetts eigut, iuioue is
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038519:00200293332:1866011201:0136/pct:73.302043070127,75.22651933701657,12.796797349530646,2.3314917127071824/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_elvis_ver01:data:sn85038519:00200293332:1866011201:0136/pct:54.99861916597625,56.41988950276243,9.5967964650649,1.7569060773480663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

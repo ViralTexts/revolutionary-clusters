@@ -2876,7 +2876,7 @@ fending, to appear and answer such presentment at
 the next court; yet, the said Samuel Chase did, at  
 the court aforesaid, award a capias against the bod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804121401:0261/pct:28.252401973513372,29.67015022860875,21.9683199169047,4.84977139124755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1804121401:0261/pct:28.245067497403944,29.66530612244898,21.969106957424714,4.853061224489796/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2899,7 +2899,7 @@ sgaiast die persem, or persons offending,
 tt nppesr and answer such presentment  
 at the next court j yet the said Samue
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804122101:0350/pct:68.5383980181668,71.30266173100652,19.92843380126617,6.821787414066631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804122101:0350/pct:68.51953769950468,71.29009517095524,19.929829389102917,6.824991187874516/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2944,7 +2944,7 @@ The first observation to be made on this part of the
 case is, that the date of the law of Virginia is not  
 mentioned in the article. A very material omission 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805022701:0373/pct:27.708333333333332,55.25887333116249,22.005208333333332,5.958971019211983/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805022701:0373/pct:27.701119500130176,55.24987790981605,22.005988023952096,5.962070649519779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2962,7 +2962,7 @@ the court shall order the clerk to issue a summons, or
 other proper processy. against the person or persons  
 so presented, to appear and answer at the nex
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805022701:0373/pct:27.708333333333332,72.6310647997395,21.979166666666668,2.4259198957994137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805022701:0373/pct:27.701119500130176,72.61924141299039,21.979953137203854,2.4295946605892884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2984,7 +2984,7 @@ tins fact, as-erts that the act not being adduced, he
 . was not hound to know r, jts existence, and that he  
 ought not to be -.ensured for the omissions of the tra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031801:0405/pct:72.80998180400312,67.8048780487805,22.82297894463218,4.9105691056910565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805031801:0405/pct:72.79106029106029,67.79385465777922,22.823544698544698,4.9138351487562995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3011,7 +3011,7 @@ was not hound to know of ifs existence,
 and that he ought not to be censur d for  
 the omisaions of the traverser’s counsel,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805032301:0109/pct:23.820805513676504,22.858771554795496,19.987077320697825,9.277469003847798/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805032301:0109/pct:23.815676141257537,22.855514391564547,19.98995119150158,9.28089674171179/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3034,7 +3034,7 @@ the clerk to issue a summons, or other
 &lt; process, against the person or person* so  
 presented, to appear and answer at th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1805041901:0415/pct:7.22495894909688,53.67608352342516,23.289545703338806,6.738024214774522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1805041901:0415/pct:7.222982216142271,53.666666666666664,23.29001367989056,6.741228070175438/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3061,7 +3061,7 @@ the next court, and thereupon hear and determine
 the same according to law.”  
 In this last provision the words « or other prope
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805061101:0549/pct:75.7014157014157,32.09777919795494,22.084942084942085,7.780795654257869/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805061101:0549/pct:75.68193515182708,32.0926517571885,22.08569222851261,7.783546325878595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3084,7 +3084,7 @@ sentment at the next court; yet the said Samuel
 Chase did at the court aforesaid, award .a capias  
 against&#x27;the bodv of the said James T. Callender, in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805071701:0605/pct:50.77273878895364,39.840442852491044,21.560678996706358,5.356561380657766/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805071701:0605/pct:50.75987841945289,39.83395734982907,21.561550151975684,5.359759075370341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3107,7 +3107,7 @@ meanour at the same term at which he is indicted. It
 however does not warrant the position. When the  
 party appears and answers an indictment, the tria
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805071901:0610/pct:5.394801373222168,8.609058785737231,20.81902893575282,5.268230003212335/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866573:1805071901:0610/pct:5.393478793822015,8.60767624859483,20.82005393478794,5.271398747390396/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3128,7 +3128,7 @@ held monthly) and shall not admit of
 any exception or pleading to the form  
 or manner thereof, but shall proceed t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805080701:0001/pct:42.0905086103324,24.446570101120525,16.70004004805767,4.372779447936595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805080701:0001/pct:42.0971832866106,24.446570101120525,16.71338940061407,4.390999362302997/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3144,7 +3144,7 @@ or manner thereof, but shall proceed t
 George, Elizabeth City, Warwick, York,  
 James City, Charles City, New-Kent, Han
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807022401:0067/pct:59.84102952308857,10.899697580645162,17.46782740348221,1.2600806451612903/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184200:1807022401:0067/pct:59.82970671712393,10.898324303893158,17.470829391359192,1.2641216244592834/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3240,7 +3240,7 @@ cery shall be holden therefor at on
 the day of and day of  
 in every year. The counties ol Greens
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010501:0012/pct:41.87732342007435,36.135524137052606,17.65799256505576,8.355623487453828/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184236:1810010501:0012/pct:41.86954097751347,36.130922058074376,17.660905655702162,8.358804550857531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3265,7 +3265,7 @@ is many several matters, whether of law or fact,
 as he shall think necessary for his defence : ib. p.  
 60. sect. 40. I have referred to this statute t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810031301:0399/pct:24.089994512529724,46.60759800946717,17.505030181086518,5.692438402718777/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810031301:0399/pct:24.08558888076079,46.601941747572816,17.507924896366738,5.6957928802588995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3283,7 +3283,7 @@ the probate of Wills, or certificates for obtain&#x27;
 ing administration, any person wishing to ap­  
 peal, or to obtain a writ of e; ror or supersedeas
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811021901:0378/pct:23.712288447387785,77.62512266928361,17.255334805003677,2.1589793915603535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183840:1811021901:0378/pct:23.707927165716388,77.61560161903594,17.258291950217643,2.1628030581789934/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3302,7 +3302,7 @@ Wills, or certificates for obtaining aiminiitratiou,
 any person wishing to appeal, or to obtain a  
 *rlt of error or supersede^ shall spread th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811021901:0069/pct:4.896626768226333,27.65500694532138,19.278200943054046,2.9675464073746687/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184248:1811021901:0069/pct:4.895738893925658,27.651515151515152,19.280749471139316,2.9713804713804715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3340,7 +3340,7 @@ M •nd •ball thereupon proceed in the manner pres­
 “ cribed by the set, entitled an act directing the  
 “ method of proceeding against free persons charg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811120401:0863/pct:28.535980148883375,67.931535604715,21.588089330024815,16.43791377361537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811120401:0863/pct:28.52890101711734,67.92056829189538,21.58893574795336,16.43929609299322/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3515,7 +3515,7 @@ judgment shall be given as in other* a.-es
 in default. The rules in thed ik’soflice J  
 of the county and corp iratinu • ourts, l 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819030901:0397/pct:48.872917347272136,16.89817610822563,14.94609604704345,10.943350646213311/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183931:1819030901:0397/pct:48.86493548913931,16.896135265700483,14.949099025532147,10.946054750402576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3545,7 +3545,7 @@ in good bail, being ruled so to do. or surrender
 hiin-elf in custody, and shall plead lo issue i&gt;u­  
 metiiatelu&quot;—fist Rev. Co. n .&#x27;ills i77., Ann.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820121901:0273/pct:50.64420218037661,60.54857419043016,15.064420218037661,7.104881585306911/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820121901:0273/pct:50.63583815028902,60.541258910233175,15.067437379576107,7.108050420844911/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3567,7 +3567,7 @@ judgment and recoveiv as the defendant might
 or would be subject to, if he had appealed,  
 and given special bail.’’—(lb. p. out) % Id.) Th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820121901:0273/pct:50.69375619425173,68.65635572740455,15.04790221341262,3.6611889801836637/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_mudhens_ver02:data:sn84024735:00414183955:1820121901:0273/pct:50.68538398018167,68.6480608916274,15.050922102945224,3.6647738713704645/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3929,7 +3929,7 @@ that the order at rules was not copied and annexed to the
 precept of attachment: Whereas in this case it was  
 prefixed to the writ of attachment, was referred to in i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829120801:0189/pct:33.594211458948614,40.0,15.342587123449498,8.948571428571428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184030:1829120801:0189/pct:33.589251439539346,39.99542909381785,15.345243368275998,8.951357940044947/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3967,7 +3967,7 @@ being a witness in any case, nor shall any negro mulat­
 to, or I nr! an, he admitted to give evidence but against or  
 bet woen negroes, initial oes, or Indians.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830062501:0058/pct:18.783303730017764,46.53431650595576,15.393724097098875,1.7810550198525241/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1830062501:0058/pct:18.78052390113956,46.529038112522684,15.396379063687041,1.7846339987900786/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3993,7 +3993,7 @@ shall no&#x27; deny nr drdnv nnv person of common right,
 for &#x27;he letters or r quest of any person, nor for nnv  
 other cause, nnd if any letter or request eorne to yo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830121601:1198/pct:60.272638753651414,69.64180857310629,18.43557286595261,6.388725778038755/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830121601:1198/pct:60.2628589972416,69.63363081258807,18.437990156309155,6.3918897761077185/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4017,7 +4017,7 @@ as well as those which having been, or which shall
 bo committed elsewhere and arc made cognizable in  
 the said circuit courts, excepting all such offences a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831032501:0113/pct:4.657955418908532,26.69091735819029,17.27901614142967,5.479140616119132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831032501:0113/pct:4.657239471257301,26.687883609911342,17.28148375858182,5.482306584829885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4049,7 +4049,7 @@ thereon as shall he proper, and if any reference he
 ; properly taken, appoint a commissioner for the pur­  
 ; I’ose of settling, slating and reporting thercou, o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831032501:0113/pct:39.5695618754804,11.719904512902126,17.755572636433513,9.38956462430374/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831032501:0113/pct:39.56347986474024,11.718572402818822,17.757967004816066,9.392286125634614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4067,7 +4067,7 @@ thereon as shall he proper, and if any reference he
 ; larly from month to month, shall be entered in a book  
 to be kept for the purpose, and shall not expire on th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831032501:0113/pct:39.73866256725596,22.109810162555416,17.478862413528056,2.1143571672160966/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn83045110:00414184339:1831032501:0113/pct:39.732554565016905,22.107297112980223,17.481299313454247,2.1179055846025614/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4086,7 +4086,7 @@ rect any mistakes or errors which may have happened
 therein, and may for good cause shewn set aside any  
 of the said rules or proceedings, and make such orde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831032901:0428/pct:34.71631725553438,51.22615803814714,15.173728192347163,2.327429609445958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184042:1831032901:0428/pct:34.71122837877455,51.22034283119537,15.17639011042705,2.3309494078026263/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4668,7 +4668,7 @@ party, award a commission for taking the
 deposition of such witness, to be read as  
 evidence at such future trial. By the lik
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1842041401:0271/pct:41.93250968098838,56.46481178396072,12.94486446616264,3.7643207855973815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393348975:1842041401:0271/pct:41.924778761061944,56.45711168689486,12.947087020648967,3.767216691667803/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4689,7 +4689,7 @@ commission for taking the deposition of such
 witness, to be read as evidence at such future tri­  
 al. By the like proceedings, any parly to an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1842051201:0244/pct:4.704644521268601,10.71639324914434,15.39155268300015,3.6822849049923287/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024719:00414183694:1842051201:0244/pct:4.703937481214307,10.715128628746754,15.394249073239154,3.685783966643065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4706,7 +4706,7 @@ Officers belonging to this Brigade (composing the
 Counties of Elizabeth city, Warwick, York, James  
 city, Charles city, New Kent, Hanover, Henrico
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842071301:0768/pct:172.4061460478378,230.34153164704512,38.17519404403612,3.7883203170532695/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026768:00414184601:1842071301:0768/pct:57.459613557174535,76.77156177156178,12.723049308415161,1.2626262626262625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4724,7 +4724,7 @@ upon any writing obligatory, bill or note in writing,
 for the payment of money or tobacco, and all actions of  
 covenant and detinue, &amp;c. The bill was opposed b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843021601:0464/pct:65.5125284738041,17.601890135853516,16.12756264236902,1.9393581413664107/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843021601:0464/pct:65.5125284738041,17.601890135853516,16.142748671222474,1.9459211130800027/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4742,7 +4742,7 @@ from the applicant, for administering the oath, filing
 the schedule, entering his name in a book, to be kept  
 by the clerk for that purpose, and giving the applican
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843030201:0491/pct:53.29612309548951,50.230923694779115,15.854578367777945,1.9678714859437751/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843030201:0491/pct:53.29612309548951,50.230923694779115,15.85960677829738,1.9745649263721552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4768,7 +4768,7 @@ city of Richmond, according to the provision of the net
 of Assembly, which created this Court for ihe 21 &gt;t  
 Circuit. This Court has jurisdiction in all crimes an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843051601:0593/pct:3.7437979251240416,80.37373937116868,16.343407006465192,5.388570298596005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664266:1843051601:0593/pct:3.753821480479126,80.37373937116868,16.33338345111011,5.3984575835475574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4805,7 +4805,7 @@ be capable of being a witness in any case.-&#x27;
 mitted to give evidence but against or between  
 negroes, mulattoes or Indians.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845121901:0440/pct:17.498496692723993,85.11881947106171,13.57486470234516,2.2709850517439634/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845121901:0440/pct:17.498496692723993,85.12520761466718,13.584886750851874,2.2741791235466975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4883,7 +4883,7 @@ saty for his defence, and which may be pertinent
 to the cause; Prorided, that he file them at the  
 same time, and in the due order of pleadin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1850062701:0224/pct:126.28175519630484,52.67383973020716,51.38568129330254,9.009153685562872/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:txdn:batch_txdn_eastland_ver01:data:sn83025730:00279559836:1850062701:0224/pct:31.56314938813207,13.166345536287732,12.843454167628723,2.251926782273603/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4942,7 +4942,7 @@ vnt. The caunties of Lancaster, Northumberland, Rich­
 mond, West morel-&#x27;nd, Kinu George, Spoiisv Ivnnia. Caroline,  
 Hanover, King William, King and Queen and Essex shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:48.27939669058427,77.82683816471491,15.961341338409722,5.135342676137454/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851080801:0393/pct:48.27939669058427,77.83323734561976,15.961341338409722,5.1321430856850325/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4971,7 +4971,7 @@ land, Richmond, Westmoreland, King George,
 j Spottsylvania, Caroline, Hanover,King William,  
 | King and Queen and Essex shall constitute th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0337/pct:41.357667052916185,83.89696260073008,12.823483970645036,6.632688201666782/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_crawdads_ver01:data:sn85025007:00414215865:1851081201:0337/pct:41.35367384377716,83.89118457300276,12.825464259277139,6.634527089072543/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4995,7 +4995,7 @@ seventh circuit.
 viji. The counties of Lancaster, North- :  
 umbel land,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0104/pct:18.16250663834307,41.901408450704224,12.8518321826872,5.254604550379198/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn84038468:00393349001:1851081201:0104/pct:18.15929203539823,41.8957345971564,12.853982300884956,5.2572782667569395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5030,7 +5030,7 @@ land, Richmond, Westmorcland, King George,
 Spottsylvania, Caroline, Hanover, King William,  
 King and Queen and Essex shall constitute th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:288.72069411113165,48.609738884968245,44.69263429942773,30.670430486944248/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1851081401:0188/pct:72.16685123661868,12.150719729043184,11.17109634551495,7.666525543324866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5061,7 +5061,7 @@ viti. The counties of Lancaster, Northumberland, Rich- &#x27;
 mond, Westmoreland, Kine George, Spotteylvania. Caroline, ;  
 Hanover, King Willi wn, KLing and Queen and Essex shall 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082201:0406/pct:51.873709058719385,76.47743813682678,16.02242549424609,6.744298884036875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082201:0406/pct:51.873709058719385,76.4839074882743,16.03226123733648,6.744298884036875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5086,7 +5086,7 @@ viu. Tiie counties ot Lancaster, Northumberland, Rich­
 mond, Westmoreland, KinL&#x27; George, Spottsylvania, Caroline,  
 Hanover, King Wiiliam, King and Q,ucen and Essex shal
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0414/pct:50.94727566456161,79.93207180980107,15.94947863122338,4.40562833575934/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:00415664321:1851082901:0414/pct:50.95706662750281,79.93530648552482,15.94947863122338,4.408863011483099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5160,7 +5160,7 @@ or affirmation, as the case may require.” (Practice Act o
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1857-01-31_12_21/page/n5/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1857-01-31_12_21/page/n5/mode/1up?view=theater)
 
 #### 1857-01-31 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5185,7 +5185,7 @@ tion of any party to such contested case, or th
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1858-03-20_13_28/page/n5/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1858-03-20_13_28/page/n5/mode/1up?view=theater)
 
 #### 1858-03-20 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5205,7 +5205,7 @@ case, or the agent or sttorney of such party
 
 ---
 
-## [From _Scientific American (1845-1908)_](https://archive.org/details/sim_scientific-american_1860-03-03_2_10/page/n1/mode/1up?view=theater)
+## [From _Scientific American_](https://archive.org/details/sim_scientific-american_1860-03-03_2_10/page/n1/mode/1up?view=theater)
 
 #### 1860-03-03 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -5255,7 +5255,7 @@ or Territory, and he is hereby required, upon
 the application of any party, to such contested  
 case, or the agent or attorney of such party, t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861031601:0260/pct:12.511499540018399,85.10197027307294,57.129714811407545,23.64327687521604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861031601:0260/pct:3.1278748850045996,21.275492568268234,14.282428702851886,5.91081921880401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5301,7 +5301,7 @@ hereby required, upon the application of any par
   
 ty to such contested case, or the agent or atto
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1861052501:0103/pct:152.6817640047676,55.45722713864307,116.92491060786651,310.2507374631268/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nmu:batch_nmu_coyote_ver02:data:sn88071076:00296025161:1861052501:0103/pct:38.20459290187891,13.864306784660767,29.257381449448257,77.5626843657817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5323,7 +5323,7 @@ Territory, and he is hereby required, upon the
 application of any party to such contested case,  
 or the agent or attorney of such party, to issu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861071601:0661/pct:15.182755388940956,307.80669144981414,59.98125585754452,17.505914160189253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_continental_ver02:data:sn82014760:00237288804:1861071601:0661/pct:3.7965783923131005,76.95167286245353,14.998828216545583,4.376478540047313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5362,7 +5362,7 @@ contested case, or the agent or attorney of such party, to issue subpoena
 tried the second term, suasions, or court after  
 his or ber commitment, uuios thedelay happe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776208:1867020201:0214/pct:105.91726618705036,88.45618915159945,19.118705035971225,1.7385257301808066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_ewing_ver01:data:sn83025925:00280776208:1867020201:0214/pct:79.47103274559194,66.34214186369958,14.339690536164088,1.3073713490959666/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5383,7 +5383,7 @@ three churches. It is composed of the
 counties of Mecklenburg, Lunenburg, Char-­  
 lotte, Halifax, Pittsylvania, Henry, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869050601:0444/pct:6.734417344173441,136.04465709728868,40.77235772357724,10.892203771460737/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741960:1869050601:0444/pct:2.2448057813911473,45.34821903242956,13.590785907859079,3.6307345904869126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5515,7 +5515,7 @@ position in the language of the old judicial oath
 “and poor, according to law, without respect of  
 “persons.&#x27; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1872070501:0486/pct:4.769553935499815,41.424859246427026,12.640553564809094,2.7717626678215677/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_laird_ver01:data:sn84026826:00414187146:1872070501:0486/pct:4.768964665184087,41.420374580491504,12.643110122724652,2.7750712713362926/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5541,7 +5541,7 @@ The Norfolk Firginian has been looking
 over some interesting old documents, includ-­  
 ing two patents of land--one for 8o7 acres
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742034:1872082901:0208/pct:87.53791011855527,180.02969561989607,42.12848083815826,18.56904231625835/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271742034:1872082901:0208/pct:29.17930337285176,60.009898539965356,14.042826946052752,6.189680772086117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5559,7 +5559,7 @@ No Grand Jury ahull make presentments of their own
 knowledge, upon the information of a loss number  
 then two of their own body, unless the Juror givin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874021201:0002/pct:15.274463007159904,27.83282291479013,13.174224343675418,1.1169158710142317/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_fullerton_ver02:data:sn84031492:no_reel:1874021201:0002/pct:15.280429594272077,27.83282291479013,13.192124105011933,1.125923257070798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5599,7 +5599,7 @@ cester, Mathews, Middlesex, Lancaster,
 Northumberland, Richmond, Westmoreland  
 Essex, King and Queen, and King Willia
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101982:1884012301:0156/pct:137.14285714285714,171.03694874851013,57.235023041474655,10.250297973778308/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn86053573:00211101982:1884012301:0156/pct:34.30943048189993,42.75923718712753,14.318653447083237,2.562574493444577/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5623,7 +5623,7 @@ sex, Lancaster, Northumberland, Richmond,
 Westmoreland, Essex, King and Queen and  
 King William
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663900:1884012301:0273/pct:66.77950453915987,5.671427103667934,16.06400984766887,5.918010890783931/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_hilfiger_ver01:data:sn85025007:00415663900:1884012301:0273/pct:66.77950453915987,5.678276653310045,16.06913884187311,5.918010890783931/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5652,7 +5652,7 @@ II1. The counties of Henrico, Chesterfield, Han
 over, Caroline, Powhatan, and the cities of Rtich-  
 mond and Manchester shall form the Third co
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00175030852:1884012301:0089/pct:88.74131274131274,162.06083976006855,39.75289575289575,15.33847472150814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_journey_ver01:data:sn84024738:00175030852:1884012301:0089/pct:29.58043758043758,54.02027992002285,13.250965250965251,5.11282490716938/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5673,7 +5673,7 @@ to the same penalty for failing to attend,
 as is provided for wituesse* in civil cases.&quot;  
 We are then informed by section XXI
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341796:1887051301:0259/pct:49.64079447809551,31.593709305819893,11.22693337089731,3.0752278874085945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341796:1887051301:0259/pct:49.63380281690141,31.590544871794872,11.230046948356808,3.078258547008547/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5692,7 +5692,7 @@ at the option of the payer, to the use of
 the party for whom such witness was sum­  
 moned. Thus it appears that statesme
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341796:1887051301:0259/pct:49.64079447809551,35.12972052489231,11.31145231722778,2.173695281979365/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_odona_ver04:data:sn86092518:00383341796:1887051301:0259/pct:49.63380281690141,35.12620192307692,11.314553990610328,2.1768162393162394/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5722,7 +5722,7 @@ his commitment, or upon his trial shall
 be acquitted, he shall be discharged  
 from his imprisonment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:0023728849A:1887083101:0229/pct:28.29329962073325,31.765028320847797,13.109987357774969,9.163164626347525/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_henryjohnson_ver01:data:2012218613:0023728849A:1887083101:0229/pct:28.30172777075432,31.768073573299226,13.101559207753898,9.163164626347525/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5740,7 +5740,7 @@ and tried the second term after his
 commitment, or upon his trial shall he acquitted,  
 he shall be discharged from his imprisonment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887083101:0036/pct:3.0864197530864197,33.668940132077516,16.91358024691358,2.316769513911443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_joshwhite_ver01:data:sn84026853:00202194060:1887083101:0036/pct:3.0864197530864197,33.668940132077516,16.9238683127572,2.3239868644220705/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5769,7 +5769,7 @@ and tried the second term after his commitment,
 or upon his trial shall be acquitted,  
 he shall be discharged from his imprisonment.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861940:1887090701:0214/pct:43.63368590172714,24.854067858445823,15.678136296692998,6.931776723823422/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_chitlinstrut_ver01:data:sn84026925:00295861940:1887090701:0214/pct:43.63368590172714,24.860148364343914,15.687062078814655,6.928736470874377/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5831,7 +5831,7 @@ truly and ju3tly, according to the best
 of my skill and judgment, do equal  
 and impartial justice to the public
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879270:1890021801:0054/pct:90.31890660592255,7.291158982356955,20.21640091116173,21.922214640803197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_johns_ver01:data:sn92073049:00295879270:1890021801:0054/pct:67.76812419883207,5.468369236767717,15.183022361486968,16.444097865289013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5864,7 +5864,7 @@ Erisoner upon bail, unless it appear to
 im. upon oath made, that the witnesses  
 for the State could not be produced th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295862191:1896070101:0173/pct:3.4171388101983005,40.803311702841796,16.855524079320112,8.972924591631237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_dogwood_ver01:data:sn84026925:00295862191:1896070101:0173/pct:3.4171388101983005,40.810770493026034,16.879131255901793,8.972924591631237/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5963,7 +5963,7 @@ that Hon. Thomas Temple Powell,
 member of the House of Delegates from  
 Newport News ami Hie count &gt; of War
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aqua_ver01:data:sn83045830:00175031613:1899072601:1154/pct:1.7804775869291998,61.8547418967587,16.338500209467952,5.552220888355342/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aqua_ver01:data:sn83045830:00175031613:1899072601:1154/pct:1.7804775869291998,61.8547418967587,16.338500209467952,5.567226890756302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5980,7 +5980,7 @@ nties of Elizabeth city, Warwick,
 York, James City. Charles City. New  
 Kent, and King William, and the citle
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175033063:1899121201:0377/pct:45.86319218241042,245.46153001865878,42.58957654723127,4.8073756997036545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kiss_ver01:data:sn85038614:00175033063:1899121201:0377/pct:15.28773072747014,81.82051000621959,14.196525515743756,1.602458566567885/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

@@ -361,7 +361,7 @@ right without a remedy. 1 must submit to it.,
 1 he law upon the demurrer is in tavor of  
 the defendant
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811121901:0257/pct:41.58596747670382,3.431675101839279,36.32377124063585,93.6674484631527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183852:1811121901:0257/pct:41.57837047862623,3.431251542828931,36.32322494215077,93.66000164568419/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -503,7 +503,7 @@ oo further; if, (or s long course o( |&lt;me, under eir­
 Cemstances which bavin not changed, tfiey havede­  
 tei miped thtflnbe tboitiBH of their fictioujt woul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811122301:0895/pct:50.92890760465692,6.939240918716403,21.649739905870696,86.3984362273986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811122301:0895/pct:50.9162951956414,6.938110749185668,21.650569588905398,86.38843648208469/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -627,7 +627,7 @@ inconvenience of a clear right without a remedy.— -
 1 must submit to it. I .*?&#x27;• - ;« &#x27; ■ - *  
 The law upon the demurrer is i» favor of (ii de* 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811122301:0895/pct:73.14837750805053,2.2479231145137644,21.649739905870696,74.83303469620459/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866603:1811122301:0895/pct:73.13026250619119,2.247557003257329,21.650569588905398,74.82491856677524/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

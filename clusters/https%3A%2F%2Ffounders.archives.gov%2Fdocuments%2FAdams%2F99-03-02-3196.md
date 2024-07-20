@@ -83,7 +83,7 @@ he gives
 Man, like the generous vine supported lives  
 The strength he gains is from the embrace he gives.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1848012301:0001/pct:64.24150943396226,31.259413741165567,9.630188679245283,0.5097902908121886/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_angelou_ver01:data:sn83030362:print00211110016:1848012301:0001/pct:64.25283018867924,31.268103348395318,9.641509433962264,0.5068937550689375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -100,7 +100,7 @@ The strength he gains is from the embrace he gives.
 The strength he gains, is from the embrace  
 he gives.” (Applause.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183748:1852010701:0008/pct:84.33342383926147,17.17114568599717,12.367635080097747,1.4615747289014616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kernals_ver02:data:sn84024718:00414183748:1852010701:0008/pct:84.32197638115922,17.169526683009618,12.370480973711597,1.4645797975988435/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -149,7 +149,7 @@ The strength he gains is from the embrace he gives
 The strength he gains is from the embrace he  
 gives
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777821:1873011401:0655/pct:30.214285714285715,87.26042841037204,40.5,4.6223224351747465/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_irasburg_ver01:data:sn83025667:00280777821:1873011401:0655/pct:7.557620153653743,21.81510710259301,10.130427014472039,1.1555806087936866/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ lives;
 The strength he gains is from the em  
 brace he gives.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198892:1883062701:0100/pct:27.53993610223642,349.953095684803,42.79552715654952,6.543151969981238/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198892:1883062701:0100/pct:6.884984025559105,87.48827392120074,10.69888178913738,1.6357879924953096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

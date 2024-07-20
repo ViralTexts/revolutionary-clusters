@@ -32,7 +32,7 @@ of the diftiift, and surveyor of the port wherein the fame lhall hive
 been incurred, or to such of the fuid officers as there may be in ,  
 the (aid diftrift ; and in diftrifta one of the aforefai
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790100201:0001/pct:35.65635325923701,32.32125367286974,26.28416942024632,3.76101860920666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790100201:0001/pct:35.65635325923701,32.32125367286974,26.321718233703816,3.7708129285014693/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -54,7 +54,7 @@ port wherein the fame shall have incur­
 red, or to such of the said officers as  
 &#x27; there may b¢ in the said diftrit ; an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010801:0727/pct:49.139579349904395,34.13262774929717,20.673996175908222,7.177112617827022/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1791010801:0727/pct:49.15551306564691,34.14365249986219,20.666029318036966,7.182624993109531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -94,7 +94,7 @@ the said district j and in districts where only
 on* of the aforesaid offices shall have been es­  
 tablished the said moiety shall be given to suc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815021801:0050/pct:27.259735619864237,80.25,16.9167559842801,8.416666666666666/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184285:1815021801:0050/pct:27.254866940525094,80.24044756576598,16.919688039530868,8.419632583422608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ district and surveyor of the port, wherein the
 same shall have been incurred, or to such of the  
 said officers as there way be in the said district 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816012301:0453/pct:56.50925793024257,54.15433195184527,16.20496626955648,3.730017761989343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010820:1816012301:0453/pct:56.50925793024257,54.15762120913098,16.20496626955648,3.730017761989343/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

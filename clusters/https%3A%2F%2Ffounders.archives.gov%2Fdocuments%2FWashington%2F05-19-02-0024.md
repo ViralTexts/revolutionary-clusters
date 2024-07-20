@@ -63,7 +63,7 @@ Your most obedient nnd
 And very humble servant,  
 fj. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845112101:0708/pct:13.123874979545082,80.38205353776549,16.527573228604158,9.212014578358678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661125:1845112101:0708/pct:13.123874979545082,80.39043190482175,16.53848251786396,9.212014578358678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -103,7 +103,7 @@ flattering and pleasing to,
 &quot;Very humble servant  
 &quot;G. WASHINGTON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845112501:0411/pct:41.81791353106094,16.32905373276272,13.575328316364173,10.632429862101759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_blass_ver01:data:sn84024735:0041566428A:1845112501:0411/pct:41.82775072549309,16.32905373276272,13.570409719148099,10.641940085592012/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -197,7 +197,7 @@ gageinents, foreign and domestic; hut to keep the
 public tranquillity, and destroy, perhaps for ever,  
 4 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852012101:0090/pct:32.34241673548032,7.940123657663521,12.881915772089183,10.348193947282786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852012101:0090/pct:32.347004312322234,7.94735509997469,12.881915772089183,10.3445782261272/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -233,7 +233,7 @@ gugcinents, foreign and domestic; but to-keep the
 &#x27; public tranquillity, and destroy, perhaps for ever,  
 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852012201:0094/pct:58.81390593047035,8.13852813852814,12.96523517382413,10.313852813852813/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852012201:0094/pct:58.82299477391502,8.145743145743145,12.960690752101796,10.31024531024531/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -269,7 +269,7 @@ Europe may be convinced we act for i0tr$elvn,
 public tranquillity, and destroy, perhaps for ever,  
 &#x27; tire cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852012301:0098/pct:57.89399887829501,7.231975267748703,13.222097588334268,10.654742188362592/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852012301:0098/pct:57.90334641989157,7.239336056825292,13.226771359132549,10.654742188362592/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ gagements, foreign and domestic; but to keep the
 &#x27; public ti anquillity, and destroy, perhaps for ever,  
 &#x27; the cement which hinds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852012401:0102/pct:30.69085833914864,24.433941525610024,13.230983949755757,10.573752473071005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852012401:0102/pct:30.69085833914864,24.433941525610024,13.230983949755757,10.577416281966732/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -341,7 +341,7 @@ Britain or France, create dissensions, disturb the
 public tranquillity, and destroy, perhaps lor ever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852012601:0106/pct:17.380317282044082,16.230828643936885,13.491506387757967,10.471146419507889/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852012601:0106/pct:17.384996958210493,16.238184559932325,13.505545416257196,10.471146419507889/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -377,7 +377,7 @@ Britain or France, create dissensions, disturb the
 public tranquillity, and destroy, perhaps fur ever,  
 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852012701:0111/pct:15.312897301878797,7.357786075115309,13.306964260488769,10.454645288820558/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852012701:0111/pct:15.322314827894711,7.365107255289552,13.297546734472855,10.454645288820558/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -413,7 +413,7 @@ only way to be lespected abroad and happy at
 public ti ancjuillity, and destroy, perhaps for ever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852013001:0122/pct:31.37419535404422,26.56680251128979,13.392107472712008,10.529794030179534/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852013001:0122/pct:31.378859968280622,26.574145463891032,13.387442858475604,10.533465506480155/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ every other country, to see them independent
 public tranquillity, and destroy, perhaps for ever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852013101:0126/pct:18.106359032076533,7.674622290343771,13.238604389420372,10.32406393693891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852013101:0126/pct:18.115738135434253,7.681921027662215,13.233914837741512,10.32406393693891/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -485,7 +485,7 @@ only way to be respected abroad and happy at
 &#x27; public tranquillity, and destroy, perhaps tor ever,  
 tire cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852020201:0130/pct:3.1227821149751596,6.602093075038967,13.498935415188077,10.532175462035182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852020201:0130/pct:3.1275136030281523,6.609515326950197,13.498935415188077,10.532175462035182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ I &#x27; only way to be respected abroad and happy at
 &quot; Jtcaolved, That we regard the series of acts  
 &#x27; known as the Adjustment measures as formin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852020301:0134/pct:44.354950701291486,6.232944001746534,13.373142619080683,12.247571225848706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852020301:0134/pct:44.354950701291486,6.240221227668013,13.3824005925103,12.247571225848706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -596,7 +596,7 @@ home; and not, by becoming the partisans of Great
 ? public tranquillity, and destroy, perhaps forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852020401:0138/pct:70.34426673895365,8.575803981623277,12.849010571970723,10.336906584992343/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852020401:0138/pct:70.34426673895365,8.583096331947786,12.862564380590946,10.340552760154598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -633,7 +633,7 @@ c.urupe may ue couviucca we act tor ouranctt,
 &#x27; public tranquillity, and destroy, perhaps forever,  
 4 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852020501:0142/pct:31.383354528755124,12.985583801034444,13.87593613112901,10.454495433036206/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852020501:0142/pct:31.383354528755124,12.992920289057627,13.880646224859875,10.454495433036206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -674,7 +674,7 @@ disturb the public tranquiliity, and des­
 troy, perhaps for ever, the cement which  
 binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1852020501:0640/pct:15.436530729465824,65.62565063501978,12.148190695002873,15.302935665209244/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_azer_ver02:data:sn83021169:00514152780:1852020501:0640/pct:15.446103771778672,65.62565063501978,12.143404173846449,15.30987577208689/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -745,7 +745,7 @@ Britain or France, create dissensions, disturb the
 public tranquillity, and destroy, perhaps forever,  
 &#x27; the ceincnt which hinds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852020601:0146/pct:31.425024141260863,7.504078303425775,13.008690853910885,10.320826536160958/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852020601:0146/pct:31.434220812066034,7.511328620627152,13.013289189313468,10.320826536160958/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -777,7 +777,7 @@ public tranquillity, and destroy, perhaps forever,
 4 only way to be lespccted abroad and happy at  
 * 11. hi,1 II,.! mil !iv In &#x27;minin &#x27; the nartisans of &lt;I real
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852020701:0150/pct:18.88888888888889,19.806815715215976,12.99039780521262,8.704145864988062/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852020701:0150/pct:18.893461362597165,19.806815715215976,12.99039780521262,8.714998914695029/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -811,7 +811,7 @@ Eur&quot;pe may be convinced we act for ouritlrti, s
 &#x27; Britain or France, create dissensions, disturb tin- a  
 public ti anquillity, and destroy, perhaps forever, ,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852020901:0154/pct:17.206982543640898,31.92044343006195,13.71571072319202,10.096728616454733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852020901:0154/pct:17.216218712478064,31.927689019309497,13.720328807610603,10.096728616454733/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -847,7 +847,7 @@ Britain or France, create diaacnaione, disturb the
 public tranquillity, ami dcatroy, perhaps forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021001:0159/pct:16.526533425223985,16.697567891809356,13.080634045485871,10.448249536481622/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021001:0159/pct:16.526533425223985,16.70120333006144,13.08522857799219,10.448249536481622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -882,7 +882,7 @@ Britain or France, create dissensions, disturb the
 * public tranquillity, and destroy, perhaps forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021101:0162/pct:45.523706018204045,6.306793595845954,13.028121179187611,10.298572046733016/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021101:0162/pct:45.53276275868315,6.310399538439348,13.037177919666712,10.298572046733016/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -925,7 +925,7 @@ ICisoauK Washington, 1795.
 tern of compromise the most conciliatory and the  
 best fur the entire country that could be obtaine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021201:0166/pct:59.073517354468436,8.470562910343343,13.022683793386172,13.615326660208805/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021201:0166/pct:59.073517354468436,8.47773831306282,13.027238771977771,13.611738958849065/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -962,7 +962,7 @@ Britain or France, create dissensions, disturb the
 &lt; public tranquillity, and destroy, perhaps forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021301:0170/pct:58.319716775599126,7.797567332754127,13.003812636165577,10.360556038227628/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021301:0170/pct:58.319716775599126,7.801187373298581,13.008351488743646,10.367796119316536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -994,7 +994,7 @@ o| all ami under the influence of mine. In a wool,
 and not tor nilnrs. This, in my judgment, is the  
 &#x27; only way to lie icapo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021401:0174/pct:18.17801922273297,8.241878841088674,13.079816130380276,8.571115013169447/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021401:0174/pct:18.182662394948228,8.249195200468247,13.079816130380276,8.574773192859233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1032,7 +1032,7 @@ I the cciucnt which hinds the Union.&quot;
 Rfolvtd. That wc regard the scries of acts  
 &#x27; known as the Adjustment &gt;n uurcs as formin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021601:0178/pct:17.77500692712663,35.898557061652824,13.244666112496537,12.319632706602537/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021601:0178/pct:17.77962501154521,35.90584462906282,13.24928419691512,12.319632706602537/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1074,7 +1074,7 @@ Britain or France, create dissensions, disturb the
 tern of compromise the most conciliatory and the  
 &#x27; beat for the entire country that could be obtaine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021701:0182/pct:32.25940265486726,8.427700348432056,13.219026548672566,13.70862369337979/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021701:0182/pct:32.25940265486726,8.434959349593496,13.219026548672566,13.70862369337979/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1111,7 +1111,7 @@ i i. n...u..i i... i
 public tranquillity, and destroy, perhaps forever,  
 &#x27; thcceinent which binds the. Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021801:0186/pct:32.30469835974423,22.59880887926367,13.413956074506533,10.297780184082296/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021801:0186/pct:32.30933185061625,22.60602779281718,13.42322305625058,10.297780184082296/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1147,7 +1147,7 @@ Britain or France, create dimensions, disturb the
 &#x27; public lianquillity, and destroy, perhaps forever,  
 &#x27; the cement which binda the I&#x27;nion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021901:0190/pct:30.743892396376612,27.64148913277383,13.038704364534723,10.22164837529589/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852021901:0190/pct:30.74846738036417,27.64866221935299,13.034129380547169,10.22164837529589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1183,7 +1183,7 @@ aud not for others. This, in my judgment, is the
 public ti&amp;nquilliiy, and dealroy, pirhupd forever, j  
 &#x27; (he cement which bind* the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022001:0194/pct:33.00703157314215,8.634886240520043,13.056666207086723,10.325027085590467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022001:0194/pct:33.00703157314215,8.634886240520043,13.07045360540466,10.335861321776814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1222,7 +1222,7 @@ public tranquillity, and destroy, perhaps forever,
 &quot; lit solved. That we regard the scries of acts  
 &#x27; known as the Adjustment measures as formin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022101:0198/pct:44.147111294085356,7.553685119240315,13.009468917249897,12.085896190784505/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022101:0198/pct:44.15168565024473,7.560879105068163,13.009468917249897,12.085896190784505/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1262,7 +1262,7 @@ and not tor others. This, in my judgment, is the
   
 tern of compromise the moat conciliatory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022301:0202/pct:4.0753232152894885,8.430296377607025,13.392355255761665,13.391877058177826/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022301:0202/pct:4.080007494847292,8.437614343212587,13.387670976203859,13.395536040980607/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1295,7 +1295,7 @@ FS CGEOEGEWASHINgrON, was
 Cewress ondence of the Virginian  
  HOusE oF DElEoates
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852022301:0385/pct:5.610310841546626,124.75078325263458,51.194086429112964,39.31928225576759/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_exmoor_ver01:data:sn84024649:00393347946:1852022301:0385/pct:1.402311919651317,31.183255019222553,12.796096266818267,9.828420902748114/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1330,7 +1330,7 @@ of all and under the intiuence of none. In &amp; word,
 ? public tranquillity, and destroy, perhaps forever,  
 &#x27; the cement which hinds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022401:0206/pct:18.938028559545266,18.44755857236698,14.182725634271454,10.422596890737902/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022401:0206/pct:18.94264984518693,18.4512079410262,14.191968205554785,10.422596890737902/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1369,7 +1369,7 @@ the cement which binds the Union.&quot;
 &quot;Resolved, That we regard the series of acts  
 &#x27; known us the Adjustment measures us formin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022501:0211/pct:29.28184470065287,8.87167175905718,13.126823169884705,12.17808817110432/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022501:0211/pct:29.28184470065287,8.87167175905718,13.126823169884705,12.185363014695184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1405,7 +1405,7 @@ nity, happiness, and true interest of (he people ol
   
 I &#x27; (lie ci&#x27;inriit wlm I, limits the union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022601:0214/pct:30.714879467996674,9.271955599085864,13.272374619008035,10.316682990532158/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022601:0214/pct:30.714879467996674,9.271955599085864,13.276992703426618,10.323938041861647/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1441,7 +1441,7 @@ gagements, foreign and domestic; but to keep the
 * public tranquillity, and destroy, perhaps forever,  
 4 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022701:0218/pct:44.488950276243095,8.10840108401084,13.1353591160221,10.363143631436314/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022701:0218/pct:44.488950276243095,8.115627822944896,13.149171270718233,10.359530261969287/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1479,7 +1479,7 @@ public tranquility, and destroy, perhaps for
 ever, the cement which binds the Union.&#x27;&#x27;  
 In a letter to General Lafayette, dated Moun
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1852022701:0032/pct:70.94281298299846,23.180815876515986,18.334621329211746,16.74476295479603/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_nancy_ver01:data:sn84024443:00280779209:1852022701:0032/pct:53.2379663638121,17.39250275633958,13.763773439010246,12.555126791620728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1515,7 +1515,7 @@ oriiuiii or rritmc, create uisHcnsions, uisiuru me
 &#x27; public tranquillity, and destroy, perhaps forever,  
 &#x27; (he cement which biiula the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022801:0222/pct:43.94886363636363,17.481903926299626,13.423295454545455,10.418951524457118/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852022801:0222/pct:43.958333333333336,17.48921547122907,13.418560606060606,10.42260729692184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1551,7 +1551,7 @@ Britain or France, create dissensions, disturb the
 &#x27; public tranquillity, and destroy, perhaps forever,  
 j 1 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852030101:0226/pct:30.802230802230802,28.647509153445025,14.056914056914056,10.706756906690336/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852030101:0226/pct:30.80699747366414,28.654905876696624,14.056914056914056,10.706756906690336/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1587,7 +1587,7 @@ only way to be respected abroad and happy at
 &#x27; public tiaiKjuillity, and destroy, perhapa forever,  
 the cement which binds the Union.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852030201:0230/pct:32.32394366197183,7.111901322369152,12.985915492957746,10.67896432936993/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852030201:0230/pct:32.333333333333336,7.119309552913287,12.985915492957746,10.67896432936993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1623,7 +1623,7 @@ Britain or France, create dissensions, disturb the
 public tranquillity, ami destroy, perhaps lorcvcr,  
 &#x27; the cement which hinds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852030301:0234/pct:43.98246358365154,6.3146314631463145,13.166454532597935,10.638063806380638/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852030301:0234/pct:43.98717767406779,6.321965529886322,13.17116862301419,10.641730839750641/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1660,7 +1660,7 @@ Britain or France, create dissensions, disturb the
 public tranquillity, and destroy, perhaps forever,  
 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852030401:0238/pct:45.01428571428571,6.288614298323036,13.342857142857143,10.613415710503089/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852030401:0238/pct:45.023809523809526,6.288614298323036,13.342857142857143,10.624448367166814/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1696,7 +1696,7 @@ Hritaiu or France, create dissensious, disturb the
 public tranquillity, and destroy, perhaps forever,  
 &#x27;thcceincnt which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852030501:0242/pct:57.63713080168776,8.119986814635753,13.080168776371307,10.526315789473685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852030501:0242/pct:57.64650726676043,8.119986814635753,13.075480543834974,10.5336409918324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1737,7 +1737,7 @@ the cement which binds the Union.&quot;
 &#x27; in their mutual dependence and connexion uays  
 tcin of compromise the most conciliatory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852030601:0246/pct:43.544090845366604,6.141697740732617,13.037992429552784,13.522702347005922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852030601:0246/pct:43.54876396093275,6.145353513197339,13.037992429552784,13.530013891935367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1786,7 +1786,7 @@ the cement which binds the Union.&quot;
 &#x27;Kttolved, That wc regard the series ol arts  
 &#x27; known as the Adjustment measures as formin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852030801:0250/pct:31.30081300813008,8.31858407079646,13.05018222596019,12.654867256637168/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852030801:0250/pct:31.30081300813008,8.31858407079646,13.064199607513316,12.662241887905605/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1824,7 +1824,7 @@ Britain or France, create dissensions, disturb the
 public tranquillity, and destroy, perhaps forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852030901:0254/pct:45.432994003625716,5.520008675848606,13.066517919397574,11.636481943390088/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852030901:0254/pct:45.44229070794403,5.520008675848606,13.057221215079254,11.64009688030944/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1853,7 +1853,7 @@ tiruns of Great Britain or France, create disssensions,
 disturb the pubilc tranquilily, and destroy, periaps for-­  
 ever, the cement which binds the Union.&quot; But notwith
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852030901:0410/pct:188.95,79.70867208672087,56.43333333333333,17.21996386630533/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_laceflower_ver01:data:sn83030313:00271743051:1852030901:0410/pct:62.983333333333334,26.56955736224029,18.81111111111111,5.73998795543511/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1889,7 +1889,7 @@ Hritain or France, create dissensions, disturb the
 politic ti anquillity, and destroy, perhaps forever,  
 the cement which binds the Uuion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031001:0258/pct:46.047098402018506,6.450197455024133,13.078216989066442,10.607722685388328/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031001:0258/pct:46.05177086253621,6.457510604066111,13.078216989066442,10.611379259909317/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1927,7 +1927,7 @@ the cement which binds the Union.&quot;
 [Gburok washington, 1795.  
 &quot; Itesoloed, That wc regard the series of art
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031101:0262/pct:45.5017774131802,7.779349363507779,12.81104730653541,11.98999020781199/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031101:0262/pct:45.50633488287303,7.782976099807783,12.815604776228238,11.993616944111993/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1963,7 +1963,7 @@ only way to be respected abroad and happy at
 &#x27; public tranquillity, and destroy, perhaps forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031201:0266/pct:57.88170563961486,8.261767583432983,12.8060522696011,10.479399934775518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031201:0266/pct:57.88170563961486,8.269014747979853,12.810637322329207,10.479399934775518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2000,7 +2000,7 @@ United States free from political connexions with
 &#x27; public tianquillity, unJ destroy, perhups forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031301:0270/pct:44.819975168988826,6.143861546782045,13.519106083597737,10.427257977285018/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031301:0270/pct:44.82457350439141,6.147467099332973,13.514507748195154,10.427257977285018/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2041,7 +2041,7 @@ public tninquillity, and destroy, perhaps former,
 &#x27; in tlieir mutual dependence and eunnexlon asye&#x27;  
 lein of comprottii-e the must eoneiliatory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031501:0274/pct:17.940379403794037,8.597626752966558,12.872628726287262,13.387270765911543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031501:0274/pct:17.949412827461607,8.597626752966558,12.872628726287262,13.398058252427184/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2080,7 +2080,7 @@ the cement which binds the Union.&quot;
 &quot; fiteolved, That we regard the scries of acts  
 &#x27; known as the Adjustment measures as formin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031601:0278/pct:31.91609977324263,7.830467637717665,13.151927437641723,12.660168656226043/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031601:0278/pct:31.9208238851096,7.837768773044209,13.151927437641723,12.663819223889314/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2122,7 +2122,7 @@ er, the cement which binds the Union.
 In vasion of England.—General Shields  
 mentioned in a speech the other day, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1852031701:0572/pct:52.86904574752398,66.06477166821995,14.573180317560132,17.730661696178938/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_fullmoon_ver01:data:sn82014751:00513688222:1852031701:0572/pct:52.87952627993502,66.06477166821995,14.583660849971178,17.73842808325567/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2158,7 +2158,7 @@ gagements, foreign and domestic; but to keeptht
 public tranquillity, and destroy, perhaps forever  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031701:0282/pct:46.019042362356835,7.496136012364761,12.694908237891541,10.741885625965997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031701:0282/pct:46.019042362356835,7.496136012364761,12.70410744675958,10.749245602414073/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2194,7 +2194,7 @@ llrituin or France, create dissensions, disturb the
 public tranquillity, and destroy, perhaps forever,  
 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031801:0286/pct:46.029998623916335,6.345067362016515,12.852621439383514,10.451977401129943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031801:0286/pct:46.039172515022244,6.3523105895987255,12.852621439383514,10.451977401129943/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2230,7 +2230,7 @@ I want an Americun character, that the powers of
 &#x27; public tnuiquillity, and destroy, perhaps forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031901:0290/pct:72.93490153172867,7.8079377095274145,12.74617067833698,10.392559749107818/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852031901:0290/pct:72.93490153172867,7.8151472549655745,12.75072939460248,10.396164521826899/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2265,7 +2265,7 @@ every other country, to 6ce them independent
 4 public tranquillity, and destroy, perhaps forever,  
 4 the cement which binds the Union.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852032001:0294/pct:20.310781078107812,17.570053013090988,12.775027502750275,10.41869522882181/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852032001:0294/pct:20.310781078107812,17.5772656785315,12.775027502750275,10.422301561542067/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2305,7 +2305,7 @@ Rey. OrvILlE DeweY on thE SlaverY
 QuestIon. Thus doce this ele quent orator and  
 profound thinker conclude a re ent lectu e o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1852032001:1192/pct:316.32983023443813,176.84614330730238,59.741309620048504,60.391834497876424/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_cloudchaser_ver01:data:sn83016867:00295877637:1852032001:1192/pct:79.08245755860953,44.211535826825596,14.935327405012126,15.097958624469106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2341,7 +2341,7 @@ Hritain or France, create dissensions, disturb the
 &#x27; public ti ancjuillity, and destroy, perhaps forever,  
 4 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852032201:0298/pct:45.38472088876697,8.12720848056537,12.782883006446303,10.311596530677802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852032201:0298/pct:45.3892927353358,8.134347003604955,12.782883006446303,10.315165792197595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2381,7 +2381,7 @@ public tranquillity, and destroy, perhaps forever,
 &quot; liesolved, That wc regard the series of acta  
 &#x27; known aa the Adjustment meaaures as formin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852032301:0302/pct:43.92563156400795,6.059595285746053,13.70990632983253,12.975316877918612/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852032301:0302/pct:43.92563156400795,6.063301460232748,13.70990632983253,12.979023052405307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2419,7 +2419,7 @@ gagements, foreign and domestic; but to keep the
 [Gxoaoa Washington, 1795.  
 &quot;Resolved, That we regard the series of acts 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852032401:0306/pct:29.831332189822756,6.898884004058167,13.536306460834762,12.287228046443467/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852032401:0306/pct:29.831332189822756,6.906399128245594,13.545835715647037,12.287228046443467/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2455,7 +2455,7 @@ gageuieuts, foreign and domestic; but to keep the
   
 &#x27; the ceuient which bind* the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852032501:0310/pct:31.160639192598822,7.980295566502463,13.134286515278946,10.43240284619595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852032501:0310/pct:31.165311653116532,7.9875935048348845,13.138958975796655,10.43605181536216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2490,7 +2490,7 @@ I wuut an American character, that the powers of
 4 public tranquillity, and destroy, perhaps forever,  
 4 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852032601:0314/pct:70.70258261594002,8.032392208360692,13.176895306859207,10.450864521777195/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852032601:0314/pct:70.71183930389707,8.032392208360692,13.167638618902156,10.461807835412563/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2533,7 +2533,7 @@ tern of compromise the most conciliatory and the
 &#x27; best for the entire country that could be obtained (  
 &#x27; from conflicting sectional interests and opinions, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852032701:0318/pct:31.233739559085308,8.884979107103584,13.18636176913597,14.295139652518143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852032701:0318/pct:31.233739559085308,8.89230994795103,13.200054772011502,14.295139652518143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2569,7 +2569,7 @@ ltritain or France, crcute dissensions, disturb the
 public tranquillity, and destroy, perhaps forever,  
 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852032901:0322/pct:16.726125137211856,7.84141934070748,13.048847420417124,10.49173146424269/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852032901:0322/pct:16.735272594218806,7.848720476034023,13.044273691913649,10.495382031905962/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2604,7 +2604,7 @@ and not for others. This, in my judgment, is the
 4 public tranquillity, and destroy, perhaps forever,  
 4 the cement which binds the Union.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852033001:0326/pct:57.86312849162011,8.492201039861351,13.324022346368714,10.322790294627383/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852033001:0326/pct:57.86312849162011,8.492201039861351,13.324022346368714,10.33001155401502/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2639,7 +2639,7 @@ liritain or France, create disscnaious, disturb the
 public tranquillity, and destroy, perhaps forever,  
 :hc cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852033101:0330/pct:58.093650131999446,8.337862811175128,15.31193552869251,10.28372649201/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852033101:0330/pct:58.09828169144551,8.345109975721998,15.307303969246446,10.287350074283436/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2674,7 +2674,7 @@ gagements, foreign and domestic; but to keep the
 4 public tranquillity, and destroy, perhaps forever,  
 &#x27; the cement which binds the Union.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040101:0334/pct:43.9819387611119,6.461167178587099,13.390715394384083,10.388328214129004/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040101:0334/pct:43.991345656366114,6.468480327629077,13.390715394384083,10.388328214129004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2710,7 +2710,7 @@ ana not lor oilier*. I Ins, in my judgment, la the
 public tranquillity, and deatroy, perhapa forever,  
 &#x27; tbe cement which binda the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040201:0338/pct:57.920652785593695,7.585904050938632,13.576252110298256,10.418267647381711/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040201:0338/pct:57.920652785593695,7.59322281992169,13.576252110298256,10.418267647381711/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2748,7 +2748,7 @@ public tranquillity, and destroy, perhaps forever,
 &quot;Heiolved, That we regard the series of acts  
 &#x27; known as the Adjustment measures as formin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040301:0342/pct:31.177700348432055,8.756012243113249,13.170731707317072,12.385220813292523/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040301:0342/pct:31.177700348432055,8.763299810523247,13.175377468060395,12.388864596997522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2784,7 +2784,7 @@ I want an American character, that the powers ol
 &#x27; public tranquillity, and destroy, perhaps forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040501:0346/pct:30.98631698973774,9.21598602314916,13.611744583808438,10.253330421489409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040501:0346/pct:30.98631698973774,9.21598602314916,13.616495629038388,10.256970226395865/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2822,7 +2822,7 @@ the cement which binds the Union.&quot;
 &quot;Keeolvtd, That wc regard the series of acts  
 &#x27; known as the Adjustment measures as formin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040601:0351/pct:2.98114254021076,8.59851787271142,13.325013865779257,12.260244115082825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040601:0351/pct:2.98114254021076,8.605783202557395,13.329635792198188,12.263876780005813/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2857,7 +2857,7 @@ home; and not, by becomingthe partisans of Great
 public tranquillity, and destroy, perhaps forever,  
 the cement which binds the Union.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040701:0354/pct:31.861198738170348,24.232598357111975,13.208064737347415,10.203199308257673/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040701:0354/pct:31.861198738170348,24.23980400634097,13.212636583916243,10.199596483643177/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2894,7 +2894,7 @@ every other country, to see them independent
 4 public tranquillity, and destroy, perhaps forever,  
 1 the ccincnt which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040801:0359/pct:14.886237513873473,8.36609873307121,13.013318534961154,10.375709916994321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040801:0359/pct:14.886237513873473,8.373379933012961,13.013318534961154,10.375709916994321/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2925,7 +2925,7 @@ every other country, to see them independent
 &#x27; and not for others. This, in my judgment, is the  
 &#x27; only way to be icspcctcd abroad and happy at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040901:0362/pct:45.13502510517031,19.224538287072036,12.878273849911793,8.4242358786046/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040901:0362/pct:45.13502510517031,19.23173848867768,12.891844212240466,8.4242358786046/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2949,7 +2949,7 @@ public tranquillity, and destroy, perhaps forever,
 1 in their mutual dependence and connexion aaya&#x27;  
 tein of compromise the most conciliatory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040901:0362/pct:45.121454742841635,27.5623717464089,12.93255529922649,4.773733664542608/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852040901:0362/pct:45.125978196951195,27.569571948014545,12.937078753336047,4.773733664542608/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2987,7 +2987,7 @@ gagements, foreign uud domestic; but to keep the
 &quot; lUsolvcd, That wc regard the series of acts  
 &#x27; known as the Adjustment measures as formin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852041001:0366/pct:45.30103806228374,7.195869635366247,13.065743944636678,12.07916532214693/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852041001:0366/pct:45.30103806228374,7.195869635366247,13.079584775086506,12.089921480047327/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3024,7 +3024,7 @@ Britain or France, create dissensions, disturb the
 uuu uioi &gt;&lt;v? l?l v??-. ,  
 &#x27; tlic cement whicb binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852041201:0370/pct:83.88904072150861,8.206785137318255,13.022683793386172,10.253096392030157/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852041201:0370/pct:83.8935957001002,8.213965176808472,13.022683793386172,10.253096392030157/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3059,7 +3059,7 @@ gagements, foreign and domestic; but to keep the
 4 public tranquillity, mid destroy, perhaps forever,  
 4 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852041301:0374/pct:44.700139470013944,6.4310098006827445,13.333333333333334,10.439378923026098/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852041301:0374/pct:44.700139470013944,6.438351136071652,13.342631334263134,10.443049590720552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3096,7 +3096,7 @@ I want an Amtriean character, that the powers of
 public tranquillity, and destroy, perhaps forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852041401:0378/pct:71.59722222222223,20.300669373422583,13.152777777777779,10.402721387029517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852041401:0378/pct:71.59722222222223,20.307984929953545,13.157407407407407,10.399063608764036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3131,7 +3131,7 @@ llritain or France, create dissensions, disturb th&lt;
 public tranquillity, and destroy, perhaps forever  
 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852041501:0382/pct:44.56385205861828,5.635042923178516,16.00837404047453,10.49966982170372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852041501:0382/pct:44.56385205861828,5.642380218651405,16.0130262851826,10.49966982170372/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3167,7 +3167,7 @@ Britain or France, create dissrndions, disturb the
 public tranquillity, and destroy, perhaps forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852041601:0386/pct:57.205963556046385,16.59949896525433,13.293760353395914,10.325672584685764/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852041601:0386/pct:57.205963556046385,16.60676033837999,13.298361862690962,10.325672584685764/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3206,7 +3206,7 @@ public tranquillity, and destroy, perhaps forever,
 &quot; Jiesolved, That we regard the scries of acts  
 &#x27; known as the Adjustment measures as formin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852041701:0390/pct:58.541637895318324,7.477349634319397,13.064493854439995,12.422224647964196/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852041701:0390/pct:58.541637895318324,7.484626860240876,13.07830410164342,12.425863260924935/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3243,7 +3243,7 @@ j&gt;riuuii or r r.iui c, crcuiu iiibunioiuuti, uiaiuiu uic
 public tranquillity, and destroy, perhaps forever, I1  
 the cement which bind* the Union.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852041901:0394/pct:57.45970519355283,7.548816406676121,13.472930155668825,10.952329006217957/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852041901:0394/pct:57.45970519355283,7.552452638085888,13.486706157872986,10.955965237627723/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3278,7 +3278,7 @@ nity, happiness, and true interest of the people ol
 4 public tranquillity, and destroy, perhaps forever,  
 4 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042001:0398/pct:44.44903581267218,6.758229779812513,12.988980716253444,10.289949858295182/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042001:0398/pct:44.45362718089991,6.7654966935542475,12.988980716253444,10.289949858295182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3314,7 +3314,7 @@ gagemcnts, foreign and domestic; but to keep the
 &#x27; public tranquillity, aud destroy, perhaps for ever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042101:0402/pct:32.53012048192771,8.585418933623505,13.513143483023,10.2829162132753/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042101:0402/pct:32.53924790069368,8.592673195502357,13.513143483023,10.286543344214726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3354,7 +3354,7 @@ public tranquillity, nnd destroy, perhaps for ever,
 &#x27; in their mutual dependence and connexion asye  
 tein of compromise the most conciliatory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042201:0406/pct:58.0063773741855,25.076906757186805,13.129072507971717,12.95215869311552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042201:0406/pct:58.0063773741855,25.08397864290513,13.142936364896714,12.95215869311552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3392,7 +3392,7 @@ liritain or France, create dissensions, disturb the
 &#x27;Heiolved, That we regard the series of acts  
 4 known as the Adjustment measures as formin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042301:0410/pct:57.58940758940759,10.581284945669374,12.994812994812994,11.910539086401519/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042301:0410/pct:57.598507598507595,10.588318036361079,12.994812994812994,11.907022541055667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3429,7 +3429,7 @@ I &gt; &quot;J V.ICI.I
 public, tranquillity, and destroy, perhaps forever,  
 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042401:0414/pct:44.642857142857146,7.705590330239586,14.382613510520487,10.198575437081804/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042401:0414/pct:44.642857142857146,7.712785092452695,14.391842008121078,10.198575437081804/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3469,7 +3469,7 @@ every other country, to sec them independent
 &#x27; in their mutual dependence and connexion aeys&#x27;  
 tern of compromise the most conciliatory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042601:0418/pct:58.99862825788752,8.749189889825017,13.127572016460906,13.156189241736877/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042601:0418/pct:58.99862825788752,8.756390869158205,13.132144490169182,13.159789731403471/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3504,7 +3504,7 @@ Britain or France, create dissensions, disturb the
 4 public tranquillity, and destroy, perhaps forever,  
 1 the cement which hinds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042701:0422/pct:31.13871635610766,8.19672131147541,13.015873015873016,10.281185539029421/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042701:0422/pct:31.13871635610766,8.20395903448775,13.025074764205199,10.281185539029421/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3544,7 +3544,7 @@ public tranquillity, and destroy, perhaps forever,
 &#x27; in their mutual dependence and connexion asys&#x27;  
 tein of compromise the most conciliatory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042801:0426/pct:57.40041928721174,21.116269027312967,13.277428371767995,13.246248515599698/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042801:0426/pct:57.409736780805964,21.123466119687645,13.277428371767995,13.246248515599698/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3580,7 +3580,7 @@ Britain or France, create dissensions, disturb the
 &#x27; public tranquillity, and destroy, perhaps forever,  
 (lie cement w hicli hinds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042901:0432/pct:44.569700302447075,29.873088187438984,12.881495738245807,10.27226380301551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852042901:0432/pct:44.574282833837415,29.876703908594568,12.881495738245807,10.275879524171096/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3619,7 +3619,7 @@ public tranquillity, und destroy, perhaps forever,
 &quot;Resolved, That we regard the series of acts  
 &#x27; known as the Adjustment measures as formin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852043001:0436/pct:71.67717182789805,17.57377049180328,12.935050698821595,12.39344262295082/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852043001:0436/pct:71.68173928930301,17.581056466302368,12.935050698821595,12.39344262295082/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3654,7 +3654,7 @@ United States free from political connexions with
 &#x27; public tranquillity, and destroy, perhaps forever,  
 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852050101:0440/pct:31.819472040874256,8.395704523267165,13.383479988646041,10.196333658748237/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852050101:0440/pct:31.819472040874256,8.395704523267165,13.39294162172391,10.203565101059406/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3688,7 +3688,7 @@ every other country, to see them independent
 &#x27; Datum or France, create dissensions, disturb the  
 &#x27; public tranquillity, and destroy, perhaps forever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852050301:0444/pct:44.2407277816655,7.142085359265262,13.25402379286214,9.864937871420853/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852050301:0444/pct:44.24539304875204,7.149288672789483,13.25402379286214,9.861336214658744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3724,7 +3724,7 @@ Britain or Frunce, create dissensions, disturb the
 public ti anquillity, and destroy, perhaps forever,  
 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852050401:0448/pct:30.866298029207428,6.720955483170467,13.256770168722529,10.901194353963083/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852050401:0448/pct:30.875750271751972,6.724574737604054,13.256770168722529,10.90481360839667/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3759,7 +3759,7 @@ llrilain or France, create dissensions, disturb the
 public ti a:.(juillily, and destroy, perhaps forever,  
 the cement which hinds the Uuion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852050501:0452/pct:17.281009110021024,22.01003928415539,13.02032235459005,10.37756438236578/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852050501:0452/pct:17.281009110021024,22.017314127746253,13.024994160242933,10.37756438236578/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3797,7 +3797,7 @@ public tranquillity, and destroy, perhaps forever,
 &quot;liesolved, That wo regard the series of acts  
 4 known as the Adjustment measures as formin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852050601:0456/pct:44.174153420870766,6.070881645154233,13.116793365583966,12.437103478451105/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852050601:0456/pct:44.174153420870766,6.070881645154233,13.121400598940337,12.44804200393787/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3833,7 +3833,7 @@ Britain or France, create dissensions, disturb the
 ? public tranquillity, and destroy, perhaps forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852050701:0460/pct:83.64596359594276,8.302502720348205,16.49298318743921,10.42437431991295/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852050701:0460/pct:83.65522671483488,8.309756982227059,16.497614746885276,10.428001450852376/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3868,7 +3868,7 @@ Britain or France, create dissension*? disturb the
 &#x27; public tranquillity, and destroy, perhaps forever,  
 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852050801:0464/pct:58.234482758620686,8.215297450424929,13.172413793103448,10.503377642187841/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852050801:0464/pct:58.24367816091954,8.222561197065446,13.172413793103448,10.507009515508098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3904,7 +3904,7 @@ Britain or France, create dissensions, disturb the
 public tranquillity, and destroy, perhaps forever,  
 &#x27; it.c cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051001:0468/pct:7.850390464447185,7.405784399649431,13.125085628168243,10.495179666958808/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051001:0468/pct:7.850390464447185,7.413087934560327,13.129652463807828,10.495179666958808/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3939,7 +3939,7 @@ Britain or France, create dissensions, disturb the :
 public tranquillity, and destroy, perhaps forever,  
 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051101:0472/pct:31.46331352770485,26.297540361902698,13.278983004007186,10.358652074981038/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051101:0472/pct:31.46331352770485,26.304763968649546,13.28358896411957,10.358652074981038/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3974,7 +3974,7 @@ Britain or Prance, create dissensions, disturb the
 &#x27; public tranquillity, and destroy, perhaps forever,  
 4 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051201:0480/pct:30.768162244756216,7.346758132330161,13.224058897069037,10.522239433502987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051201:0480/pct:30.768162244756216,7.350446263922697,13.233319442515164,10.525927565095522/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4010,7 +4010,7 @@ Britain or France, creato dissensions, disturb the 1
 public tranquillity, and destroy, perhaps forever, (  
 the cement which binds tbo Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051301:0485/pct:42.64889629321116,6.344902386117137,14.160766347355269,10.357917570498916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051301:0485/pct:42.65352399463187,6.352133044107013,14.156138645934565,10.354302241503976/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4045,7 +4045,7 @@ Kntain or France, create dissensions, disturb the
 public Itantjuillily, and destroy, perhaps forever,  
 the cement which binds the Union.&quot; /
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051401:0488/pct:18.47035794183445,7.521686614691995,13.282997762863534,10.431536180959702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051401:0488/pct:18.47035794183445,7.529006990959335,13.296979865771812,10.431536180959702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4070,7 +4070,7 @@ we set for os?rst/r?s and not for others. This, in my judg­
 ment, Is the only way to be respected sbroad snd happy at  
 home,&quot; Arc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852051501:0473/pct:51.745345744680854,85.10043224002034,16.07380319148936,4.8944825832697685/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661204:1852051501:0473/pct:51.7508865248227,85.10466988727859,16.08488475177305,4.902957877786253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4106,7 +4106,7 @@ Europe may be convinced we act for ourirlven,
 public tranquillity, and destroy, perhaps forever,  
 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051501:0492/pct:31.767877412031783,8.156338953361068,13.464812712826333,10.40070067878257/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051501:0492/pct:31.772606886114264,8.163637690679513,13.460083238743852,10.40070067878257/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4142,7 +4142,7 @@ Britain or Franco, create dissensions, disturb the
 &#x27; public tranquillity, and dcatroy, per ha pa forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051701:0496/pct:5.229396179054525,7.193928060719393,13.080462975875053,10.526894731052689/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051701:0496/pct:5.2386928833728446,7.201261320720126,13.085111328034213,10.530561361053056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4176,7 +4176,7 @@ Department, to comply Blrictly with all our en
 &#x27; Britain or France, create dissensions, disturb the  
 4 public tranquillity, and destroy, perhaps forever
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051801:0500/pct:30.794419134396357,8.519886981091068,13.496583143507973,9.986959356661595/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051801:0500/pct:30.803910402429764,8.527131782945736,13.491837509491267,9.983336955734261/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4215,7 +4215,7 @@ public ti ani]uil(ity, and destroy, perhaps lorcvcr,
 &#x27; lifnolved, That we regard the ecrtes of a&gt;  
 known as the Adjustment measures as formin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051901:0504/pct:4.992330218937386,8.004362050163577,13.094408032352531,12.333696837513632/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852051901:0504/pct:4.992330218937386,8.004362050163577,13.11300144098917,12.337331879316611/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4257,7 +4257,7 @@ in their mutual dependence and connexion asys
 tern of compromise (he most conciliatory and th&lt;  
 best for the entire country that could be obtaine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052001:0508/pct:31.377228695774253,8.212193534389238,13.196686789274182,13.712302017791277/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052001:0508/pct:31.38190837194066,8.219425761191872,13.196686789274182,13.712302017791277/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4299,7 +4299,7 @@ in their mutual dependence and connexion a ays­
 loin 01 compromise trie most conciliatory and the  
 &#x27; best for the entire country that could be obtaine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052101:0512/pct:32.110601639572046,8.629605688429217,13.22773377796304,13.671622495151906/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052101:0512/pct:32.11523319901811,8.633196868490986,13.22773377796304,13.671622495151906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4340,7 +4340,7 @@ Britain or France, create dissensions, disturb the
 in their mutual dependence and connexion asys&#x27;  
 lein of compromise the most conciliatory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052201:0516/pct:29.836111500210112,7.285934404578472,13.307185880375403,13.42725071538631/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052201:0516/pct:29.836111500210112,7.285934404578472,13.316524256431807,13.434588010859198/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4376,7 +4376,7 @@ Hritain or France, create dissensions, disturb the
 }&gt;ut&gt;iu u itiMjuimiy, nuu ucmroy, luicvir,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052401:0520/pct:17.787992756651345,7.866273352999016,13.191252263546454,10.390036053752867/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052401:0520/pct:17.79727910108186,7.873556939436979,13.195895435761713,10.390036053752867/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4414,7 +4414,7 @@ public tranquillity, and destroy, perhaps forever,
 federal Politicians; and the Nomination. The  
 innorable Senator frotn Michigan and ou
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052501:0524/pct:85.06385341476957,8.422082156053031,13.492504164353138,37.02455987828733/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052501:0524/pct:85.06385341476957,8.422082156053031,13.492504164353138,37.031804680141995/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4449,7 +4449,7 @@ United States free froin political connexions with
 1 public tranquillity, and destroy, perhaps forever,  
 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052601:0528/pct:30.38636051148082,28.839352695316688,13.32325037811082,10.21326760261494/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052601:0528/pct:30.390943672945596,28.84649733862037,13.32325037811082,10.21683992426678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4484,7 +4484,7 @@ Britain or France, create dissensions, disturb the
 public tranquillity, and destroy, perhaps forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052701:0532/pct:44.18186843559978,6.91673894189072,13.004422332780543,10.299219427580226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052701:0532/pct:44.191081628892576,6.920352703093379,12.999815736134144,10.302833188782886/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4519,7 +4519,7 @@ Britain or France, create dissensions, disturb the
 public tranquillity, and destroy, perhaps forever,  
 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052801:0536/pct:32.75458178310597,8.565542665076439,13.008130081300813,10.34370595251003/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052801:0536/pct:32.75458178310597,8.572770971122917,13.008130081300813,10.347320105533269/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4560,7 +4560,7 @@ public tranquillity, and destroy, perhaps forever,
 &#x27; tern of compromise the most conciliatory and the ^  
 &#x27; best for the entire country that could be obtaine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052901:0540/pct:31.323144706044335,8.78275936755469,13.58942585708385,13.764349144466104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852052901:0540/pct:31.323144706044335,8.789979062883546,13.598604800587452,13.764349144466104/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4596,7 +4596,7 @@ home; and not, by becoming the partisans of Great
 &#x27; public, tranquillity, and destroy, perhaps forever,  
 &#x27;the cement which hinds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852053101:0544/pct:58.885500415858054,9.142053445850914,13.349043526476295,10.35378123985719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852053101:0544/pct:58.89474170594215,9.14565977857117,13.3398022363922,10.360993905297702/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4636,7 +4636,7 @@ the cement which binds the Union.&quot;
 &#x27; in their mutual dependence and connexion aaye&#x27;  
 tern of compromise the must conciliatory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852060101:0548/pct:18.036723163841806,10.722584928626757,13.46045197740113,13.533252185459776/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852060101:0548/pct:18.036723163841806,10.729962008041017,13.46045197740113,13.536940725166906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4672,7 +4672,7 @@ lirit.iin or Ki.uice, i realr disdenaioim, iliaturb the
 puhli li uir|uillity, ami ilnalroy, pi&#x27;rha(w forever,  
 the i i im-ni wliii li binds the I&#x27;nion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852060201:0552/pct:16.242937853107346,34.729878721058434,13.206214689265536,10.51819184123484/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852060201:0552/pct:16.242937853107346,34.7372289599412,13.21563088512241,10.521866960676222/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4715,7 +4715,7 @@ in tneir mutual dependence and connexion asys
 tcm of compromise the inoet conciliatory and the  
 best for the entire country that could be obtaine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852060301:0556/pct:5.1177216974481885,7.631578947368421,13.421683349781475,14.024122807017545/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852060301:0556/pct:5.127120635368203,7.631578947368421,13.421683349781475,14.035087719298245/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4754,7 +4754,7 @@ the cement which binds the Union.&quot;
 &#x27; tern of compromise the most conciliatory and the  
 &#x27; best for the entire country that could be obtaine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852060401:0560/pct:18.2641936854028,8.418395346284711,13.662749539855586,12.962353199429261/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852060401:0560/pct:18.26891311529567,8.418395346284711,13.667468969748455,12.96967036183368/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4790,7 +4790,7 @@ Ur.tain or France, create dissensions, disturb the
 pu die tranquillity, and destroy, perhaps forever,  
 he cement which hinds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852060501:0564/pct:16.49789029535865,6.548401226456417,13.403656821378341,11.311870346035917/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852060501:0564/pct:16.49789029535865,6.555701562271865,13.408345053914674,11.31552051394364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4824,7 +4824,7 @@ Mr.tain or France, create dissensions, disturb tin
 public uarxjuillity, and destroy, perhaps forever,  
 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852060701:0568/pct:4.809984574393493,9.926991391522284,13.840976020193521,9.981475427699683/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852060701:0568/pct:4.819333426821857,9.93425592967927,13.83630159397934,9.981475427699683/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4860,7 +4860,7 @@ Britain or France, create dissensions, disturb th
 public tranquillity, and destroy, perbups forever,  
 1 the cement which hinds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852060801:0572/pct:32.843810046664835,8.072143407016386,13.093604172385398,10.590564170240844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852060801:0572/pct:32.85296001463995,8.079475054070897,13.089029188397841,10.586898346713589/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4896,7 +4896,7 @@ Britain or France, create dissensions, disturb the
 &#x27; public tranquillity, and destroy, perhaps forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852060901:0576/pct:32.24104415440156,8.69184455391352,13.176895306859207,10.476190476190476/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852060901:0576/pct:32.250300842358605,8.69184455391352,13.167638618902156,10.479839445356687/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4933,7 +4933,7 @@ nublir. ti anouillit v. and deatrov. nerhans forever.
   
 &#x27; i lie i cincni which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061001:0580/pct:32.068044425699426,7.185496351978776,13.243357233234923,10.523988503205837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061001:0580/pct:32.07273068091288,7.185496351978776,13.243357233234923,10.535043112978112/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4969,7 +4969,7 @@ Britain or France, create dissensions, disturb the
 public tranquillity, and destroy, perhaps lurever,  
 the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061101:0584/pct:18.56212771852057,24.958931113788193,13.201274414738883,10.415069543313985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061101:0584/pct:18.57136260793277,24.966232249114736,13.196656970032784,10.411418975650713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5005,7 +5005,7 @@ every other country, to ace them independent
 &#x27; public tranquillity, and destroy, perhaps forever,  
 4 the cement whim binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061201:0588/pct:44.64759246336357,7.164113303207318,13.217027215631543,10.44858370990852/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061201:0588/pct:44.65224470807164,7.171461111723429,13.217027215631543,10.44858370990852/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5040,7 +5040,7 @@ llritain or France, create dissensions, disturb the
 pul-lic tranquillity, and destroy, perhaps forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061401:0592/pct:18.437846836847946,7.938076416337286,13.22142064372919,10.463328941589811/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061401:0592/pct:18.442471328153903,7.94539598887425,13.22142064372919,10.463328941589811/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5075,7 +5075,7 @@ has been,as far as depended upon the Executive
 &#x27; public tranquillity, and destroy, perhaps forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061501:0596/pct:32.97126357761584,11.849015317286652,13.007012237041112,10.306345733041576/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061501:0596/pct:32.980429900545396,11.856309263311452,13.002429075576332,10.306345733041576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5110,7 +5110,7 @@ Hritain or France, create dissensions, disturb the
 public tranquillity, and destroy, perhaps forever,  
 &#x27; the cement which binds the Union.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061601:0600/pct:44.29397658343913,28.619005328596803,13.42925659472422,10.52397868561279/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061601:0600/pct:44.29867870409555,28.62640615748964,13.424554474067804,10.527679100059206/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5146,7 +5146,7 @@ llritain or France, create dissensions, disturb the
 public tranquillity, and destroy, perhaps forever,  
 the cement which binds the Union.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061701:0605/pct:28.292820802713397,7.4919649783885625,13.241944601469758,10.495400642801728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061701:0605/pct:28.292820802713397,7.499353504008275,13.25607687959299,10.495400642801728/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5181,7 +5181,7 @@ liiitain or France, create dissensions, disturb the
 public it anquillily, and destroy, perhaps forever,  
 thcceinenl which binds the Union.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061801:0608/pct:5.7007125890736345,8.197263901147396,13.245773368729914,10.458958517210945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061801:0608/pct:5.705370033999348,8.20461900558988,13.250430813655628,10.458958517210945/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5223,7 +5223,7 @@ He?olvtil, That we regard the series of acts
 in their mutual dependence and connexion asys  
 tein of compromise the most conciliatory and th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061901:0612/pct:5.14878892733564,7.415977961432507,13.342560553633218,13.421487603305785/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852061901:0612/pct:5.14878892733564,7.419651056014692,13.342560553633218,13.425160697887971/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5263,7 +5263,7 @@ public ti anquillity, and destroy, perhaps forever,
 Resolved, That we regard the series of acta  
 known as the Adjustment measures ae forming 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852062101:0616/pct:5.530081978602196,7.4228615350829035,13.283312491315826,12.265290435928407/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dragon_ver01:data:sn82014434:00415661411:1852062101:0616/pct:5.530081978602196,7.426521723216573,13.287944050761892,12.268950624062077/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5294,7 +5294,7 @@ vinced we act for ourselves, and not for
 others.&quot; Accordingly, after having estab­  
 lished securely the government credit, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879440:1858031901:0016/pct:26.268498942917546,80.33500108766587,18.565010570824523,5.427452686534696/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_adam_ver02:data:sn84026526:00295879440:1858031901:0016/pct:19.7065820777161,60.256689145094626,13.930742796722178,4.06787035022841/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5487,7 +5487,7 @@ lic. With this assurance and with this be-­
 lief I make you this offer of it. My first  
 wish is that you would accept it.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867112801:0538/pct:131.85648273987496,136.11212898497618,41.791247621636316,39.38255771344815/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_kors_ver02:data:sn84024738:00271741935:1867112801:0538/pct:43.95216091329166,45.37070966165873,13.930415873878772,13.127519237816049/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5582,7 +5582,7 @@ in in v opinion, is fhe only way to be
 respected abroad and happy at  
 home.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625571:1896082801:0142/pct:22.950257289879932,103.87195480757914,13.996569468267582,5.284217959279745/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_henson_ver01:data:sn83016107:00415625571:1896082801:0142/pct:17.795108117688763,80.50589809072115,10.842786246012052,4.092180469415055/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5666,7 +5666,7 @@ vinced that we act for ourselves, and
 not for others;&quot; and still more when  
 he made provision in his will for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621164:1897022301:0370/pct:39.52648475120385,9.663294579495696,16.53290529695024,3.1254718405556394/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_ash_ver01:data:sn84020358:00415621164:1897022301:0370/pct:29.666800481734242,7.247470934621773,12.404656764351666,2.355428053752076/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5759,7 +5759,7 @@ destroy, perhaps forever, the ce
 ment which binds the Union   
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_echo_ver01:data:sn82016354:100493974:1899071501:0292/pct:105.73366214549938,177.44133232399696,43.526510480887794,65.50592985112289/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_echo_ver01:data:sn82016354:100493974:1899071501:0292/pct:26.433415536374845,44.36033308099924,10.881627620221948,16.37648246278072/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -5850,7 +5850,7 @@ of Europe may be convinced that we
 act for ourselves, and not for others.&quot;  
 President Jones does not find in th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:0028076887A:1899091001:0217/pct:17.79202816547215,9.78131576539482,12.46070665157802,4.886082898709854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_hessel_ver01:data:sn82015104:0028076887A:1899091001:0217/pct:17.800410746468838,9.78436575471986,12.456515361079676,4.883032909384817/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

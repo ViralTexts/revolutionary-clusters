@@ -28,13 +28,13 @@
 I am conficdert that you will find a rich reward in the conviction  
 that you have made the sindy of Grammar, which has so o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530480:1855091701:0105/pct:101.927589674824,126.38922591603979,47.08347301374455,2.960446493569522/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530480:1855091701:0105/pct:33.975863224941335,42.129741972013264,15.694491004581517,0.9868154978565074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
 ---
 
-## [From _The United States Review (1853-1856)_](https://archive.org/details/sim_united-states-democratic-review_1855-10_36/page/n91/mode/1up?view=theater)
+## [From _The United States review_](https://archive.org/details/sim_united-states-democratic-review_1855-10_36/page/n91/mode/1up?view=theater)
 
 #### 1855-10-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
@@ -99,7 +99,7 @@ am coafident that you will find arich reward in the
 conviction that you have made the stidy of Gram­  
 mar, which has so often been found perplexing an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1855112301:0192/pct:90.90042877560744,67.77039538176669,37.55756709544227,3.507243219692844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1855112301:0192/pct:30.29533185138139,22.587671531256806,12.517201227903039,1.1689537500907572/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -116,7 +116,7 @@ am co fident that you will find a rich reward in the
 conviction that you have made the study of Gram-  
 mar, which has so often been found perplexing an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1855113001:0196/pct:245.04519044544867,62.88180610889774,38.218205293737896,3.7627268702965915/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1855113001:0196/pct:81.66854929804744,20.95828261591236,12.737346027647787,1.254103500424182/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -150,7 +150,7 @@ am co fident that you will find a rich reward in the
 conviction that you have made the stinly of Gram-  
 mar, which has so often bee a found perplexing an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1855120701:0200/pct:247.13914174252275,63.539940338084186,38.198959687906374,3.5907634515523146/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1855120701:0200/pct:82.36632536973833,21.17764030048608,12.730917167777235,1.1967889232582118/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -168,7 +168,7 @@ conviction that you have made the stmly of Grain­
 mar, which has so often leen found perplexing and  
 disheartening, adapted to the comrebension of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856011801:0225/pct:172.8053435114504,134.77165699266237,37.468193384223916,4.9063629394370825/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856011801:0225/pct:57.59262203847989,44.918966272448536,12.487411883182276,1.6352752226602423/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -188,7 +188,7 @@ conviction that you have made the study of Gram
 mr, which has so often leen found perplexing and  
 disheartening, dapted to the comeebension of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856020101:0233/pct:171.08626198083067,135.24427816901408,37.77955271565495,7.372359154929577/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856020101:0233/pct:57.019645424053664,45.07646605787215,12.591172869083746,2.4571826750284225/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -205,7 +205,7 @@ am co fident that you will find a rich reward in the
 conviction that you have made the stnly of Gram-  
 mar, which has so often been found perplexing an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856021501:0241/pct:173.12309908756203,62.50690836741461,37.66607971826477,3.6255112191886814/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856021501:0241/pct:57.69846350832266,20.833333333333332,12.553350405463082,1.2083701738874153/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ am co fident that you will find a rich reward in the
 conviction that you have made the stady of Gram­  
 mar, which has so often been found perplexing an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856022201:0245/pct:171.8634240618457,60.51615749420977,37.799967788693834,3.418991948825411/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856022201:0245/pct:57.27858293075684,20.16982796647552,12.5979602791197,1.1395383031907071/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -243,7 +243,7 @@ am co fident that you will find arich reward in the
 conviction that you have made the stady of Grams  
 mar, which has so often been found perplexing an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856032801:0261/pct:174.07407407407408,56.306156405990016,37.58217091550425,8.79645036051026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856032801:0261/pct:58.01538954793203,18.766637089618456,12.525382066901784,2.931824903874593/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -261,7 +261,7 @@ conviction that you have made the study of Gram-
 mar, which has so olten been found perplexing and  
 adapted to the comrehension of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856041101:0269/pct:134.88335184891287,62.06780798925814,37.24805586414855,4.945731229719145/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856041101:0269/pct:44.95398286258331,20.68695457596778,12.41404845022744,1.648392630715298/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ conviction that you have made the siudy of Grane
 mar, which has so olten leen sound perplexing and  
 disheartening, adapted to the comrehension of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856041801:0273/pct:135.91797500801025,62.05862758161226,37.55206664530599,4.9078392182989115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_allagash_ver02:data:sn83009653:00279523970:1856041801:0273/pct:45.29873458273266,20.683912512490284,12.515350525922367,1.6357647755449465/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

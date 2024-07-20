@@ -367,7 +367,7 @@ twentieth of June they were signed in the
 following form :  
 “
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814032601:0063/pct:22.220258087325437,13.851548801870251,52.00636379706558,78.8895382817066/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814032601:0063/pct:22.216330858960763,13.84992987377279,52.003063508895956,78.88421380707496/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -528,7 +528,7 @@ dering you the assurances of my respect and
 consideration.  
 TH : JFFFF.KSON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814032601:0064/pct:8.957919450966227,5.154882951052258,35.75943651797002,86.69898321116104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024710:00414184273:1814032601:0064/pct:8.956301914048392,5.15427355479371,35.75899843505477,86.69267446900737/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3036,7 +3036,7 @@ j trace the Missouri to its source, to cross the high-lands, and
 follow the best water communication which offered itsell  
 from thence to the Pacific Ocean/’ [Jeff. Life of Capt
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832081001:0107/pct:64.99578770008425,62.72496411615325,15.445099691098006,1.8549188473004306/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184066:1832081001:0107/pct:64.98666292292573,62.718039302274235,15.447611025317048,1.85839405313903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3412,7 +3412,7 @@ fertile country which their sons are
 destined to fill with arts, with freedom  
 and with happine
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472542:1868011601:0157/pct:93.37585868498527,38.2154213036566,10.586359175662414,2.583465818759936/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_datsun_ver01:data:sn85033526:00212472542:1868011601:0157/pct:86.37996898521124,35.35539215686274,9.79235220696698,2.389705882352941/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3489,7 +3489,7 @@ expedition to trace the Missouri to • its
 source, to cross the highlands, and to fol­  
 low down the water courses to the Pacifi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035539:1883090901:0094/pct:43.97844028970861,62.73044945174117,13.171635506147886,6.85624774069165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035539:1883090901:0094/pct:43.97844028970861,62.73446599991967,13.182864521924653,6.8522311925131545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3517,7 +3517,7 @@ expedition to trace the Missouri to its
 source, to cross the highlands, and to fol­  
 low down the water courses to the Pacifi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035539:1883090901:0096/pct:43.658413340070744,62.93529340884444,13.154791982482735,6.85624774069165/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035539:1883090901:0096/pct:43.658413340070744,62.943326505201426,13.16040649037112,6.8522311925131545/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3544,7 +3544,7 @@ for an expedition to trace the Missouri
 to its source, to cross the highlands, and  
 to follow down the water courses to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198892:1883090901:0352/pct:66.78913738019169,305.2841709722875,43.322683706070286,21.254109910756224/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_dungeness_ver03:data:sn83045611:00202198892:1883090901:0352/pct:16.697284345047922,76.32104274307187,10.830670926517572,5.313527477689056/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3565,7 +3565,7 @@ money for an expedition to trace the Missouri
 to its source, to cross the highlands, and to fol­  
 low down the water courses to the Pacifi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525541:1883091001:0593/pct:39.08404464871963,42.032637389008876,10.948785292186473,2.339812814974802/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_edgecomb_ver02:data:sn83016025:00279525541:1883091001:0593/pct:39.077630067290336,42.027594481103776,10.951091416379452,2.3425314937012596/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3593,7 +3593,7 @@ expedition to trace the Missouri to its
 source, to cross the highlands, and to fol­  
 low down tbe water conrses to the Pacifi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035539:1883091001:0110/pct:29.627758127000167,89.40469031870114,13.121104935152434,6.806975345760674/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_chaska_ver01:data:sn83025287:00175035539:1883091001:0110/pct:29.627758127000167,89.41270795750651,13.132333950929201,6.798957706955302/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3616,7 +3616,7 @@ for an expedition to trace the
 Missouri to its source, to cross the  
 highlands, and to follow down th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jones_ver01:data:sn96061149:00200298457:1883091101:0237/pct:23.682616596002422,50.20060180541625,18.26165960024228,8.645937813440321/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_jones_ver01:data:sn96061149:00200298457:1883091101:0237/pct:15.798242956679793,33.47041123370111,12.17812784004847,5.767301905717152/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3694,7 +3694,7 @@ source,
   
 to cross the highlands, and to follo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470855:1883091401:0073/pct:4.025905828811482,69.60331557134398,14.265709784701558,5.494375370041444/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_alamo_ver01:data:sn85042331:00212470855:1883091401:0073/pct:4.037575121068907,69.60726268008683,14.27154443083027,5.506216696269982/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3719,7 +3719,7 @@ Congress voted the money for an expedi
 tion to trace the Missouri to its source, to  
 cross the highlands, and to follow down th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1883092201:1496/pct:112.05913410770856,143.34494773519162,41.71066525871172,15.930313588850174/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_bittern_ver01:data:sn86072040:no_reel:1883092201:1496/pct:37.35304470256952,47.78164924506388,13.90355508623724,5.310104529616725/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

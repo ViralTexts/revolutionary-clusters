@@ -115,7 +115,7 @@ Attest. Chas Thomson secy
 GentleMen,- You are with all conve­  
 nient dispatch, to repair to Canada, an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840031101:0192/pct:82.15200683176772,178.1021897810219,68.48847139197267,5.1524259338772005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840031101:0192/pct:20.53800170794193,44.52554744525548,17.122117847993167,1.2881064834693001/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -210,7 +210,7 @@ ings to Congress. This commission to
 continue in force till revoked by this or a  
 future Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840031101:0192/pct:154.48334756618274,64.80606841276656,138.25789923142614,313.66824101903535/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_fairbanks_ver02:data:sn86086342:00202196895:1840031101:0192/pct:38.620836891545686,16.20151710319164,34.564474807856534,78.41706025475884/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -286,7 +286,7 @@ a future Congiess.
 Dated at Philadelphia, this day of  
 By order of Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841050701:0687/pct:17.864043562269455,60.79908092928262,15.966976989285087,28.74648966045443/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_godzilla_ver01:data:sn82015015:00415661265:1841050701:0687/pct:17.87575384975701,60.807590843332484,15.961121845541308,28.74648966045443/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -364,7 +364,7 @@ and report your proceedings to Congress. This
 &gt;fl commission to continue in force till revoked by this or  
 a future Congress
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841050801:0070/pct:21.370333285652983,58.98829431438127,17.036189386353882,28.26086956521739/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1841050801:0070/pct:21.370333285652983,58.99526198439242,17.036189386353882,28.26086956521739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ Bv order of the Congress.
 JOHN HANCOCK, President.  
 Attested, Chas. Thompson, Sec&#x27;y
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1863042901:0027/pct:65.56091676718938,115.40496284166771,14.203860072376356,3.5142965108955786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035045:00296027145:1863042901:0027/pct:49.178102850248834,86.56002015367174,10.662041924294979,2.6325733719612043/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -496,7 +496,7 @@ ystem of mild and equable laws for them and our
 selves, with only such local differences as may be agree  
 able to each colony respectively,&quot; and further, that 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530935:1869092301:0166/pct:53.391959798994975,87.0732767993042,47.40891959798995,7.545118504022613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_euclid_ver01:data:sn83030214:00206530935:1869092301:0166/pct:17.797319932998324,29.024425599768065,15.802973199329983,2.5150395013408713/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ secure the same genoral system of mild and equable
 laws for them and ourselves, with only such local  
 dimerences an mnay the awrocalls io, caci colony 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743671:1869092301:0886/pct:201.46582580535195,63.79621823437312,56.45133799215954,10.152956762615922/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_itchweed_ver01:data:sn83030313:00271743671:1869092301:0886/pct:67.15527526845065,21.26540607812437,18.81711266405318,3.384318920871974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -573,7 +573,7 @@ ces as may be agreeable to each colo­
 ny respectively,&#x27; and further that in  
 the opinion of the Continental Con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194965:1869101201:0155/pct:87.45847176079734,33.08016877637131,12.929125138427464,7.046413502109704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_ludlow_ver01:data:sn84022548:00202194965:1869101201:0155/pct:65.62802935881457,24.810126582278482,9.70779670405761,5.29535864978903/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -645,7 +645,7 @@ the 10lb, day of Jane 1776, the delegates
 of the United Colonies of New Hamp­  
 shire Massachusetts Bay Rhode Islan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623033:1887070501:0183/pct:9.187214611872147,20.35819224849587,11.872146118721462,1.4411641248076117/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623033:1887070501:0183/pct:9.187214611872147,20.36169021967259,11.894977168949772,1.4481600671610466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -671,7 +671,7 @@ Carolina and Georgia, in oongress
 assembled at Philadelphia resolved:  
 &quot;That ail men are endowed by thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623045:1888070601:0132/pct:54.43798449612403,23.62857142857143,12.4031007751938,5.285714285714286/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bearcat_ver02:data:sn91099608:00415623045:1888070601:0132/pct:54.44767441860465,23.632142857142856,12.4031007751938,5.289285714285715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -696,7 +696,7 @@ Maryland: Virginia Xorth Carolina
 South Carolina and Georgia, in Con­  
 gress assembled at Philadelphia resolv
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_dagger_ver01:data:sn2001063133:00415623240:1888071201:1084/pct:38.77064532606845,6.897916117119493,10.727056019070321,5.262463729886574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_dagger_ver01:data:sn2001063133:00415623240:1888071201:1084/pct:38.77915886259152,6.907807966235822,10.735569555593393,5.262463729886574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

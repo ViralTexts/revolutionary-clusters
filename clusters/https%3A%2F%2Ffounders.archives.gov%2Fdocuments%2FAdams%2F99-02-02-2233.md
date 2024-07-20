@@ -171,7 +171,7 @@ Executive part of our government has been
 rity, talents and firmnefs we place the most  
 antire confidence
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112801:0002/pct:42.87377736376339,4.4324648098233,33.13926408942711,88.76909254267744/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1797112801:0002/pct:42.87959944108058,4.439952081461516,33.14508616674429,88.78406708595388/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -446,7 +446,7 @@ by others, are so injurious &#x27;toa%n: interest at
 10 deserve the ﬁqﬁ‘éxé’t&amp;liryl yunihmerit,  
 - and we will cheerfully afford &quot;Oii aid 1o fra
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797121301:0407/pct:57.89067325509574,24.22471019518478,16.815935762816554,62.89507579510552/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797121301:0407/pct:57.900967675519865,24.23131543313848,16.826230183240682,62.89507579510552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -482,7 +482,7 @@ we place the most entire confidence.
 . To which the President replied :  
 Gentlemen of the Senate, 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797121301:0407/pct:75.60222359481162,18.458337461607055,15.935762816553428,12.117309026057663/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797121301:0407/pct:75.60222359481162,18.458337461607055,15.956351657401688,12.123914264011361/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -766,7 +766,7 @@ afford our aid in framing a law wliicu may prescribe
 a punishment adequate to the commission of crimes  
 so heinous” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806080801:0041/pct:6.946136972946625,26.518804243008677,21.447721179624665,18.434586949533912/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866585:1806080801:0041/pct:6.944444444444445,26.514542825004018,21.448586744639375,18.435641973324763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -819,7 +819,7 @@ Brown, that Governor Greenup has written a
 letter fattening in part his converfation with  
 refpedt to him, we beg leave to lay before th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806090201:0134/pct:25.203101920236335,38.67043499631359,18.020679468242246,15.900712705824526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183803:1806090201:0134/pct:25.198449326195313,38.66568374493181,18.02350624576949,15.902854568538313/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -879,7 +879,7 @@ your oliicial character.&quot;
 The commencement of the next paragraph is, &quot;We cannot  
 but approve of the measures you have token,&quot; &amp; :
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1853111501:0023/pct:17.574257425742573,38.18044116254852,16.118229470005826,3.616396856953517/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_chanel_ver01:data:sn84024735:00415664345:1853111501:0023/pct:17.574257425742573,38.18044116254852,16.123082896524945,3.6227081952728075/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -897,7 +897,7 @@ taken, &quot; &amp;c.
 Of the next &quot;It would have given as much plea­  
 sure to have received, &quot; &amp;c
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853111901:0375/pct:49.04776299879081,47.057419123791334,19.98186215235792,2.53073892801719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853111901:0375/pct:36.795162509448225,35.29903306673033,14.996220710506424,1.8980541960128925/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -916,7 +916,7 @@ merce of the United States is essential to the growth,
 conduct and prosperity of our country. &quot; And so  
 on. The address concludes in this fulsome strain 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853111901:0375/pct:48.98730350665054,49.58815805180852,20.148125755743653,3.1037364211531573/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853111901:0375/pct:36.74981103552532,37.197087262743224,15.11715797430083,2.327802315864868/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -938,7 +938,7 @@ dence. &quot;
 To such a state of humble submission was the  
 Scante of the United States, a body that ought t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853111901:0375/pct:48.94195888754535,52.77545660737734,20.178355501813783,5.2047272293183715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_broad_ver01:data:sn83045450:0029602272A:1853111901:0375/pct:36.71957671957672,39.584576817476425,15.132275132275133,3.903545421988779/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

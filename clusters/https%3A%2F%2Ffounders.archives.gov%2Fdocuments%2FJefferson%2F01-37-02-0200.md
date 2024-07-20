@@ -114,7 +114,7 @@ the five months of past captivity;&#x27;and a pro­
 portional allowance authorifed until their  
 embarkation. TH : JEFFERSON.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802050401:0073/pct:6.432474629195941,1.1226863558207747,17.142857142857142,15.778294730454132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010789:1802050401:0073/pct:6.442883164194639,1.1294292168166953,17.137652875357794,15.77155186945821/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -162,7 +162,7 @@ fthip. The fum of :Jo doliars and 83 eents was
 . of paft captivity, and a proportional allowance  
 &#x27; authorifed sntil their embarkation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802051501:0118/pct:26.1795166858458,6.6513233601841195,20.406597621787494,14.165707710011507/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1802051501:0118/pct:26.185909730213528,6.6513233601841195,20.412990666155224,14.169543536632144/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -276,7 +276,7 @@ ad-o—
 must oft -en be )ielded of mutual opmiou to  
 enable them to meet in a common point. &quot; s
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804082201:0376/pct:51.339894019682056,34.01715447873375,23.966691900075702,31.302502431691572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:0041421602A:1804082201:0376/pct:51.33212231304874,34.01414677276746,23.96810979917247,31.302681992337163/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -305,7 +305,7 @@ enable them to meet in a common point. &quot; s
 “ point.” Had we nof before arrived in  
 that common point, in which Fianc
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804111601:0330/pct:27.354765933446135,73.80701754385964,20.33276931754089,11.228070175438596/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_hogan_ver01:data:sn85059525:00514157443:1804111601:0330/pct:27.347053848322528,73.79407121557621,20.334085142373837,11.230485879670233/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

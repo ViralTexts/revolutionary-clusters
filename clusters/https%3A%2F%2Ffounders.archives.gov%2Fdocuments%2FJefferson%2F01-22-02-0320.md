@@ -162,7 +162,7 @@ position in the government of the U.
 States, it is his majesty&#x27;s desire to re­  
 move every ground aod occasion o(.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122501:0002/pct:76.58936425429827,75.69060773480663,17.413034786085564,18.309135294873442/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122501:0002/pct:76.59602825536452,75.6948905734721,17.413034786085564,18.309135294873442/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -199,7 +199,7 @@ n utfion for establishing that inter- i
 coo&#x27;se upon principles of^eciproca;  
 b.refi-.&quot; &#x27;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122501:0003/pct:6.538537745195166,3.528654217643271,18.10976817911631,16.252414681262074/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122501:0003/pct:6.551746912357176,3.528654217643271,18.096559011954298,16.265292981326464/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -222,7 +222,7 @@ and good understanding between the j
 two countries.&quot; _ &#x27;  
 Such is the language of the British 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122501:0003/pct:7.449970279373885,19.793947198969736,16.980384386764413,6.0399227301996135/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1809122501:0003/pct:7.4565748629548905,19.793947198969736,16.973779803183408,6.044215496887744/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -277,7 +277,7 @@ ment hie ma_&#x27;esty&#x27;s rentliness to enter into a
 negotiation llot cetahliahin &#x27;that intercourse  
 upun- principles of recipro al bettefit.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1809123001:0036/pct:52.4203431372549,5.470737913486005,24.172794117647058,31.770265358051617/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1809123001:0036/pct:52.412314290090364,5.470240799636529,24.174197171593402,31.77040739058004/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -300,7 +300,7 @@ two countries.&quot;
 Such iuthe language of the British mi­  
 nieter plenipotentinry, Mr. Hammond. li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1809123001:0036/pct:52.94117647058823,37.23191566703017,22.748161764705884,7.251908396946565/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024013:00414216110:1809123001:0036/pct:52.93306785112575,37.228532485233984,22.749783019349568,7.254278358321975/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -355,7 +355,7 @@ would be the highest object of my ambition to l&gt;e tltq,
 nimble instrument of contributing m any manner t&lt;  
 uc ap«q a permanent bails the future systeraiot har
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810010101:0855/pct:51.779535343549185,69.34271549656165,21.280276816608996,24.100431792739485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_alpina_ver01:data:sn85025815:00542866597:1810010101:0855/pct:51.7667407956511,69.33162775823473,21.28119594761552,24.100575631595778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -398,7 +398,7 @@ ran add, that I am instructed to enter i* t®
 the discussion of all such measure*#* may  
 be deemed the moM practicable a-,.I reason
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010201:0292/pct:77.0595690747782,78.1489129114539,17.182690566720986,16.166646422932104/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010201:0292/pct:77.04561911658219,78.13942190915715,17.185614289162444,16.168731276819692/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -436,7 +436,7 @@ two countries.”
 Such is the language of the P- itish minis­  
 ter plenipotentiary, Mr. Hammond. He
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010201:0293/pct:5.7340671045624,2.2289890377588306,17.841292384164742,13.909866017052375/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183839:1810010201:0293/pct:5.733049343272985,2.228717573986116,17.844042125192285,13.912231559290383/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

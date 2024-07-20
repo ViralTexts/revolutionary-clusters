@@ -269,7 +269,7 @@ ExtraSfront the report of thl Secretary of
 the Treajury, upon the JubjeCl of manu­  
 factures, pages 36, 37
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793100201:0001/pct:7.7342747111681645,19.775596072931275,41.04621309370989,76.57784011220197/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_germanrex_ver01:data:sn83025887:print:1793100201:0001/pct:7.7342747111681645,19.7856141053897,41.04621309370989,76.57784011220197/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -415,7 +415,7 @@ ie Such, Mr. Sjieaker, wtts the opinion of a statesman
 le justly styled &quot;the father of the constitution and such  
 a was the construction adopted and adhered to by the reii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847030801:0240/pct:14.877470355731225,23.73949579831933,16.774703557312254,4.819574888779041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661150:1847030801:0240/pct:14.88274044795784,23.73949579831933,16.774703557312254,4.831932773109243/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -471,9 +471,9 @@ tended offences, arbitrary punishments upon arbitrary convictions,) unre
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1850-03_26_141/page/n53/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1850-03_26_141/page/n53/mode/1up?view=theater)
 
-#### 1850-03-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1850-03-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -534,7 +534,7 @@ these officers to select jtiror-&lt; who would serve the pnr|MV­
 of the jiarty us well aa a corrupted twnch The coroner  
 are to select the jurors, who it re to lie drawn by lot: au
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855012001:0082/pct:82.75020341741254,13.708036622583927,15.834011391375101,5.048321464903357/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855012001:0082/pct:82.75020341741254,13.71227534757545,15.85570924871169,5.05256018989488/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -563,7 +563,7 @@ Jury in a regular course of legal and judicial proceod­
 ing &quot;Iither va. Metlir, o Latc Rep, 6rswhile in our  
 State the trial by Jury is not in all instances a neces
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855052201:0150/pct:250.44452347083927,150.5422153369481,47.599573257467995,21.3142266976504/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_dry_ver01:data:sn83030213:00206530479:1855052201:0150/pct:83.48150782361309,50.18073844564937,15.866524419155999,7.104742232550134/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -594,7 +594,7 @@ liberty. It may seem superfluous to remark that,
 in the determination of a vast number of cases,  
 cognizable in courts of equity, admiralty, Jtc, in
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471392:1856102501:0538/pct:91.72557840616966,21.740141909968592,20.453084832904885,4.0711876235896245/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:hihouml:batch_hihouml_lilac_ver02:data:sn82015408:00212471392:1856102501:0538/pct:68.8203150112504,16.308014423636152,15.348762455801992,3.059206700011632/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -870,7 +870,7 @@ office of trust or profit, under the United States, shall accept of a title o
 once perceive tbe wide difference be  
 tween silence and abolition. The mod
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:00200298421:1878042601:0071/pct:10.66066066066066,60.7770845150312,15.822072072072071,1.7158252977878616/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:00200298421:1878042601:0071/pct:8.0,45.589903573454336,11.887323943661972,1.290414066931367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -948,7 +948,7 @@ The adversaries of the plan of the
 Convention those who thought the  
 plan good enough as far as it went bu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206535143:1887030601:0488/pct:30.923994038748138,105.6325143753267,21.628166915052162,17.890747516989023/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_fisher_ver01:data:sn85058130:00206535143:1887030601:0488/pct:20.633737185461325,70.4260324098275,14.426840633737186,11.931521170935703/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

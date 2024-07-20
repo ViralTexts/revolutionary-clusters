@@ -100,7 +100,7 @@ the seventh day of Auguit, one thou.
 sand seven hundred and eighty nine,  
 entitled ¢ An a&amp; to provide for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805020501:0021/pct:42.81931464174455,49.390546031116834,16.884735202492212,12.258448122088991/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805020501:0021/pct:42.82969885773624,49.39384930466092,16.87435098650052,12.265054669177154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -227,7 +227,7 @@ Laws U. S. page 367. Thus we see
 that by the ordinance of 1787, re-enacted  
 for Indiana by Congress in 1800, th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840070201:0841/pct:68.17460317460318,242.2077056392481,58.333333333333336,49.80669244100787/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_hawk_ver02:data:sn84026472:00416156347:1840070201:0841/pct:17.043650793650794,60.551926409812026,14.583333333333334,12.451673110251967/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -299,7 +299,7 @@ the original State*, criminal and civil, a* map be neeeuarp
 and belt suited to the circumitance* of the diitrict, and repoet  
 them to Congreu from time to time
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848080101:0771/pct:0.7742139358508453,50.08752188047012,17.569916258492654,12.978244561140285/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848080101:0771/pct:0.7794806973192184,50.095857297657744,17.56464949702428,12.9824122697341/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -331,7 +331,7 @@ i all resjiects similar to that provided by the ordinance cepting a
 Congress, passed on the 13th day of July, 1787, for the running i  
 /eminent of the territory of the United States north- so far n
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848091701:0933/pct:48.02340290955092,13.027155549993743,17.204301075268816,3.841822049806032/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82003410:00415661149:1848091701:0933/pct:48.02340290955092,13.027155549993743,17.209572000843348,3.8459934092520753/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -368,7 +368,7 @@ Louisiana, which lies north of 36? 30&#x27; north lati­
 tude, excepting only such part thereof as is in­  
 cluded within the limits of the State contemplate
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854030101:0216/pct:70.73203857123455,16.75728577642453,13.350536466114356,5.948238364506307/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn84020104:00415661538:1854030101:0216/pct:70.74109285164562,16.75728577642453,13.350536466114356,5.951863128896622/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -402,7 +402,7 @@ egress passed July 13, 1789, for gov
 diana, a government was provided &quot;iu all respects similar  
 to that provided by the ordinance of Congress passed Jul
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855072201:0801/pct:67.51477347340774,56.47983768704032,15.643466841759684,1.2553892974892213/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_chimera_ver01:data:sn82003410:00415661241:1855072201:0801/pct:67.52571678704312,56.47983768704032,15.637995184942,1.2638430974723138/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -420,7 +420,7 @@ tory of Indiana, a Government was provided &quot;in
 all respects similar to that provided by the ordi­  
 nance of Congress passed July 13, 1787, for th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855072401:0244/pct:56.11256544502618,55.28047633970542,12.774869109947645,2.0996552804763398/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn82014835:00415661514:1855072401:0244/pct:56.12129144851658,55.28047633970542,12.783595113438045,2.1066193112573557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -445,7 +445,7 @@ that provided by the Ordinance ot Congress pass­
 ed on the 13th day of July, 1787, for the govern­  
 ment of the Territory of i he United States north
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1856043001:0175/pct:29.294117647058822,51.92982456140351,11.029411764705882,2.642543859649123/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn84037930:00415668880:1856043001:0175/pct:29.30392156862745,51.937134502923975,11.02450980392157,2.642543859649123/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -464,7 +464,7 @@ x 4 Territory a Government in all respects similar t&lt;
 I 4 ed on the 13th day of July,1787,for the govern  
 1 ment of the Territory of the United States nort
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856050101:0503/pct:13.84765149671453,77.90994052676295,12.314431735215381,2.246766732748041/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_elf_ver03:data:sn84026752:00415620366:1856050101:0503/pct:13.851707633649712,77.90994052676295,12.310375598280197,2.2562069291041253/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -489,7 +489,7 @@ Ordinance of Congress passed on the
 ment of ihe Territory of the United State*  
 northwest of the river Ohio and the i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn88059762:00279528566:1856052201:0482/pct:40.588657573582196,36.220302375809936,12.778176597272074,5.62634989200864/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_bellsprout_ver01:data:sn88059762:00279528566:1856052201:0482/pct:40.598229241445324,36.223902087832975,12.7877482651352,5.629949604031678/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -517,7 +517,7 @@ government provided, &quot;in all respects
 similar to that provided by the ordi­  
 nance of Congress, passed July 13
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1857011701:0352/pct:77.80432595573441,70.39651837524178,16.03370221327968,12.940038684719536/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn82006863:00212472827:1857011701:0352/pct:51.88026663312791,46.93423597678917,10.690479185008176,8.62669245647969/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -542,7 +542,7 @@ passed on the 13th day of July, one thou­
 sand seven hundred and eighty-seven, for the  
 government of the territory of the Unite
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857021701:0002/pct:154.48866937826844,53.881037755747734,41.92330040674027,18.31892005905927/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_beulah_ver01:data:sn85033637:00415668156:1857021701:0002/pct:51.50370477989249,17.96034591858258,13.976463751271249,6.10630668635309/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -565,7 +565,7 @@ provided by the ordinance of Congress, passed on
 the 13th day of July, 1787, for the Government of  
 the territory of the United States north-west of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857061001:0540/pct:118.94934333958724,55.022667621092815,50.03126954346467,16.79790026246719/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_dolly_ver01:data:sn85038518:0020029323A:1857061001:0540/pct:29.74198592650508,13.755666905273204,12.509773260359657,4.199475065616798/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

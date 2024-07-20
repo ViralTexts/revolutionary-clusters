@@ -283,7 +283,7 @@ been received for lands sold within the last
 lour years to the amount of $5000 has  
 scarcely been able to keep me afloat.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_kaweah_ver01:data:sn94052989:00175047591:1891042301:0492/pct:73.23608688758522,63.25997762029094,10.591406373870303,4.786771105308964/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_kaweah_ver01:data:sn94052989:00175047591:1891042301:0492/pct:73.24005073727604,63.263085913216464,10.599334073251942,4.786771105308964/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -311,7 +311,7 @@ sold within the laat four yeara, to the
 amount of $50,000, has scarcely been  
 able to keep me afloat.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn84025968:0028076937A:1891042301:0503/pct:37.14971977582066,83.20420586607636,13.590872698158527,6.8068622025456555/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_keswick_ver01:data:sn84025968:0028076937A:1891042301:0503/pct:37.164731785428344,83.20766463752075,13.595876701361089,6.810320973990039/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -328,7 +328,7 @@ ratlin11IIHII.April--.^ At the sab^^ot Washington relics to-day a letter,^signed
 bycropsand reiitsi that hus Iu re  
 ceivedtorlands sold within the lust four^years, to the amount of f.Vi.imi, scarcely^has In-cn able to keep me afloat
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_cutthroat_ver01:data:sn84036012:00294550574:1891042301:0966/pct:195.89257503949446,205.0632911392405,57.59422252313247,40.50632911392405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mthi:batch_mthi_cutthroat_ver01:data:sn84036012:00294550574:1891042301:0966/pct:48.973143759873615,51.265822784810126,14.398555630783118,10.126582278481013/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -356,7 +356,7 @@ for lands sold within the last four years
 to the amount of 50000 has scarcely been  
 able to keep me afloa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048510:1891042301:0307/pct:125.93532022828154,91.46956619213093,18.912492073557388,8.631319358816276/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_boozer_ver01:data:sn85058130:175048510:1891042301:0307/pct:83.97019185032504,60.97971079475395,12.62089741557,5.761685909651384/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -383,7 +383,7 @@ foi lands sold within the last four years, to the
 extent of *30,000, has scarcely been able to keep  
 me afloat.&#x27;*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199070:1891042301:0655/pct:147.66428106701366,239.75788467664862,33.88418998048146,16.162259743017945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_entiat_ver01:data:sn83045604:00202199070:1891042301:0655/pct:49.221427022337885,79.9192948922162,11.294729993493819,5.387419914339316/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -476,7 +476,7 @@ dition to whnt I raised hy crops nnd rents
 thnt hnvo been received for lands sold  
 within the last four years to the nmoiin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn87062228:00211103541:1891042401:0106/pct:300.05219206680584,93.16346421609579,42.397355601948504,19.284321915900865/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_barack_ver01:data:sn87062228:00211103541:1891042401:0106/pct:75.03915767490429,23.290866054023947,10.603028193525931,4.821080478975216/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -504,7 +504,7 @@ the last four years , to the amount of J.10,000 ,
 has scarcely been able to keep mu allo.it. &quot;  
 iK lor Throe Millions
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539112:1891042401:0615/pct:94.10939691444601,90.63481228668942,16.40953716690042,8.696245733788396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539112:1891042401:0615/pct:70.6068046299544,67.98293515358361,12.324622939319537,6.525597269624574/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -548,7 +548,7 @@ aa rents) that have been received for
 Iteads sold within the last four years to  
 fee amount of $50,000 has scarcely bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283223:1891050101:0426/pct:11.287568306010929,116.7352537722908,18.049863387978142,25.09041027559546/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_dole_ver01:data:sn83040340:00237283223:1891050101:0426/pct:7.533310556884182,77.82765930914078,12.04304748889648,16.722783389450058/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -575,7 +575,7 @@ mai rents) that have been received for
 feas-sold within the last four years to  
 amount of 860.000 has scarcely bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jones_ver01:data:sn83040592:00212473960:1891050201:0567/pct:9.700176366843033,114.13888888888889,21.715167548500883,9.402777777777779/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_jones_ver01:data:sn83040592:00212473960:1891050201:0567/pct:7.276736493936053,85.61111111111111,16.2954796030871,7.055555555555555/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -612,7 +612,7 @@ forger, who signed his aged grandfa­
 ther&#x27;s name to notes so freely last yeai  
 in Winchester and Paris, Ivy., has bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074058:00383343604:1891050701:0498/pct:68.43434343434343,44.91569390402075,12.752525252525253,10.415045395590143/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:msar:batch_msar_agate_ver01:data:sn86074058:00383343604:1891050701:0498/pct:68.42200180342651,44.90986901828557,12.75473399458972,10.416936843470367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -656,7 +656,7 @@ rents) that lias been received for lands
 sold within the last four years, to the  
 amount of $50,000, scarcely lias bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291128:1891050801:0154/pct:56.11702127659574,17.80429046690375,20.10933806146572,77.69874956980613/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_kittitas_ver01:data:sn84022770:00200291128:1891050801:0154/pct:56.12440898345154,17.80429046690375,20.105644208037827,77.7073534472869/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -692,7 +692,7 @@ forger, who signed his aged grandfa­
 ther&#x27;s name to notes so freely last year  
 in Winchester and Paris, Ky.. has bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688660:1891050901:0476/pct:59.10460611278519,36.92404466111024,12.54842875591907,10.363264664255386/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_hubble_ver01:data:sn84022982:00513688660:1891050901:0476/pct:59.11178074329172,36.92404466111024,12.54842875591907,10.378990407296746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -729,7 +729,7 @@ forger, who signed his aged grandfa­
 ther&#x27;s name to notes so freely last year  
 in Winchester and Paris, Ky., has bee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_inman_ver01:data:sn84020151:00340583607:1891050901:0116/pct:48.13484939158189,49.25470711297071,14.821464193097945,11.17939330543933/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_inman_ver01:data:sn84020151:00340583607:1891050901:0116/pct:48.125249301954526,49.24826774741796,14.823494216194655,11.181200156883254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1305,7 +1305,7 @@ draught of the furnaces of ocean steam­
 ers is to increase the height of the  
 smoke pipes. The new steamer Scot o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_inman_ver01:data:sn84020151:00340583607:1891091201:0188/pct:63.14633659413057,72.7378640776699,14.933120383310042,12.63430420711974/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_inman_ver01:data:sn84020151:00340583607:1891091201:0188/pct:63.13373253493014,72.72844939166451,14.935129740518962,12.635904737250842/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1389,7 +1389,7 @@ lands.” ; :
 trust. We pine knot for anything of  
 that sort.—New Orieans Picayune.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152603:1891091701:0489/pct:52.10746460746461,79.11545215100966,15.299227799227799,19.62247585601405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152603:1891091701:0489/pct:52.11282711282711,79.11911033069944,15.304590304590304,19.633450395083408/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1455,7 +1455,7 @@ plished, to settle plantations on some of
 my other lands.” He did not live to  
 effect this, for he died four months Later
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521687:1891100601:0501/pct:70.37158829332456,77.1819870009285,12.93982242683328,10.225162488393686/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_galena_ver02:data:sn88065721:00279521687:1891100601:0501/pct:70.37706894661844,77.18585577220675,12.945303080127152,10.236768802228413/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1584,7 +1584,7 @@ plished, to settle plantations on some of
 my other lands.*&#x27; He did not live to  
 effect this, for he died four months later
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522552:1891110601:0880/pct:89.27180685358256,73.21999418773612,16.1993769470405,11.290322580645162/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_belair_ver01:data:sn89060136:00279522552:1891110601:0880/pct:69.19672048689704,56.749249249249246,12.549670539711283,8.76126126126126/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

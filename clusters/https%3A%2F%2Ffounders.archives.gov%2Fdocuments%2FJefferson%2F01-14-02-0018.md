@@ -79,9 +79,9 @@ ty. Perhaps too there may be a certain degree of danger, that a succession of ar
 
 ---
 
-## [From _The United States magazine and Democratic review_](https://archive.org/details/sim_united-states-democratic-review_1848-07_23_121/page/n37/mode/1up?view=theater)
+## [From _The United States Magazine, and Democratic Review (1837-1851)_](https://archive.org/details/sim_united-states-democratic-review_1848-07_23_121/page/n37/mode/1up?view=theater)
 
-#### 1848-07-01 &middot; [Washington](http://dbpedia.org/resource/Washington%2C_D.C.)
+#### 1848-07-01 &middot; [New York](http://dbpedia.org/resource/New_York_City)
 
 <table style="width: 100%;"><tr><td style="width: 50%">
 
@@ -133,7 +133,7 @@ shall concur&quot;--that &quot;the judicial power shall
 extend to all cases in law and equity arising  
 under this Constitution, the laws of the Uni
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470259:1859040501:0326/pct:112.67015706806282,15.509088998634024,88.58638743455498,371.88189555532205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_kitty_ver01:data:sn85033711:00212470259:1859040501:0326/pct:28.17491489918827,3.877272249658506,22.152395915161037,92.97047388883051/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ and municipal governments, which are
 far more despotic than they were a half  
 century ago. The same spirit has en
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583310:1897081701:0363/pct:20.964630225080384,24.654031287605296,14.512325830653804,7.821901323706378/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:au:batch_au_brown_ver01:data:sn86072192:00340583310:1897081701:0363/pct:20.96013716245178,24.650323356895775,14.514573510501501,7.824484884945105/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

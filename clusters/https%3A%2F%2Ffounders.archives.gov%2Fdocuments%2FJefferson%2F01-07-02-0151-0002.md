@@ -312,7 +312,7 @@ a abeolutoly ecessary, yet it is very derirable that
 &quot;more simple and accurate, and of course more withe­  
 &quot;in the power of the great mass of the people.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857120201:0431/pct:2.1214099216710185,95.80698055750761,46.99738903394256,12.391660810494262/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_eggy_ver01:data:sn83030213:0020653056A:1857120201:0431/pct:0.7071366405570061,31.93566018583587,15.66579634464752,4.130553603498087/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -449,7 +449,7 @@ and retlectiou. the greater number, who
 do not know, are made the dupes of tile  
 smaller number, who do.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524664:1874040901:0487/pct:61.23849372384937,49.10893574297189,11.397489539748953,5.133032128514056/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_camden_ver01:data:sn78000873:00279524664:1874040901:0487/pct:61.228246318607766,49.10277324632953,11.399765729585006,5.13552515999498/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -712,7 +712,7 @@ changes In value , so that there Is hardly
 tiny which can bo consldeiod as n ,general  
 standard , unless It bo Spanish dollars
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895070701:0887/pct:5.58885754583921,74.78037572644952,16.555007052186177,3.6491417759156644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895070701:0887/pct:4.197530864197531,56.08528179483714,12.433862433862434,2.7469928368698473/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -791,7 +791,7 @@ and so far it cannot be considered as a
 fixed measure of value.&quot;  
 Jefferson said: &quot;The proportion betwee
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:00211109385:1896091401:0274/pct:41.66029074215761,110.41695914642706,16.717674062739096,4.25382563526604/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_edwards_ver01:data:sn86063624:00211109385:1896091401:0274/pct:31.266743207041714,82.81622911694511,12.533486414083429,3.1868594693247227/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -843,7 +843,7 @@ Impropriety, not to say Injustice, In com­
 pelling a man to receive a part of his rtnbt  
 In discharge of the whole. Arguments ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:0021247812A:1896091901:0631/pct:42.62199845081332,122.68410185822437,15.801704105344694,2.078458362009635/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_nittany_ver01:data:sn84026355:0021247812A:1896091901:0631/pct:31.97753244237846,92.01651754989676,11.853573503776873,1.5554026152787337/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -903,7 +903,7 @@ Morris: The scale by which everything is to
 be measured ought to be as fixed as the nature  
 of things permits. (Unsound currency! ha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896101901:0838/pct:177.3134328358209,75.28413395969086,49.25373134328358,4.485528110319746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nn:batch_nn_goethe_ver01:data:sn83030272:00175042891:1896101901:0838/pct:44.33662996827766,18.821033489922716,12.315730546743795,1.1213820275799364/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -930,7 +930,7 @@ of property depend. Gold may be said
 to have a creator stability than silver,  
 as being of superior value.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00514155975:1896102101:0143/pct:68.99363564041369,58.48112778535698,12.788385043754973,5.987570107624678/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00514155975:1896102101:0143/pct:68.97991648439053,58.47226432252198,12.790813282958839,5.9904516520157625/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -948,7 +948,7 @@ Morris—~The scale by which every.
 thing is to be measured ought to be as  
 fixed as the nature of things permits
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152901:1896110201:0022/pct:85.43296466145131,30.14728925101849,12.651739951443215,1.86984226470281/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152901:1896110201:0022/pct:85.43296466145131,30.154253281799505,12.660731948565777,1.873324280093318/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

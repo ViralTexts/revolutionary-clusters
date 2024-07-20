@@ -151,7 +151,7 @@ ithedesired, cession to Georgia, shall the com­
 missioners make it an ultimatum ?” To the  
 ‘first question, the Senate answered in the af
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830072901:0314/pct:7.006902321690023,64.32239657631955,17.695042878058985,8.901569186875891/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_barnum_ver01:data:sn84020071:00414182938:1830072901:0314/pct:7.005437055625261,64.31322207958922,17.696570472605604,8.903865354443019/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -180,7 +180,7 @@ on that point, was os follows*
 tain thesame. ifnecessary, by a line of military posts&quot; j  
 The Senate advised and couseu’.edto this, and the 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830082001:0792/pct:22.311475409836067,14.386376981796829,18.524590163934427,2.536699941280094/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_appaloosa_ver01:data:sn85026767:00414184571:1830082001:0792/pct:22.307818390427798,14.384687646782528,18.527017428836803,2.540316267418193/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -230,7 +230,7 @@ Southern district, probably amounting to 14,000 fighting
 be regarded as highly worthy of the serious attention of  
 Jfieverxunent.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854100701:0299/pct:3.6109912242842754,43.12251216275984,15.940152496043735,3.593542680229987/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661617:1854100701:0299/pct:3.6109912242842754,43.12251216275984,15.944947969117154,3.597228365030223/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

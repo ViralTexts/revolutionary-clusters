@@ -98,7 +98,7 @@ been a week without any kind o/flesh,! wgosc phL
   
 n him and his the rest three or four days. Naked
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1839121901:0115/pct:50.88591855766242,23.775081661222586,21.52626670811315,1.2132524498366775/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1839121901:0115/pct:50.88591855766242,23.78285892051641,21.541809138949333,1.21714107948359/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -118,7 +118,7 @@ S&#x27;1 admire the incomparable patience} sure* but we must lonk nut fr.
   
 general mutiny and dispersion.&quot; I m-es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1839121901:0115/pct:57.009636307118434,25.011665888940737,20.59372085794218,2.83481101259916/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_abra_ver01:data:sn83016802:00415668843:1839121901:0115/pct:57.01481711739716,25.01555451858765,20.604082478499638,2.8386996422460724/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -315,7 +315,7 @@ days.&quot; let lie adds: &quot;halved ami starving as
 they are, we cannot enough admire the incom­  
 parable patience and fidelity of the soldiers.&quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876012701:0547/pct:93.65968208092485,38.91770643488014,16.347543352601157,3.813262301976728/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_allen_ver02:data:sn82015484:00294555651:1876012701:0547/pct:70.27466570292736,29.1882798261601,12.269606071557643,2.87396607318099/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -338,7 +338,7 @@ admire the incomparable paticnoe and
 fidelity of the soldiers.” A noble com­  
 pliment and nobly won. At tho sam
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562377A:1876012901:0026/pct:15.00617538081515,54.4589774078478,11.156854672704817,5.202140309155767/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:0041562377A:1876012901:0026/pct:15.00617538081515,54.46888624653191,11.156854672704817,5.19223147047166/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -362,7 +362,7 @@ mire the incomparable patience and
 fidelity of the soldiers.&quot; A noble  
 compliment and nobly won. At th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776476:1876020201:0094/pct:57.52427184466019,107.5813953488372,39.62378640776699,19.25581395348837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_grange_ver01:data:sn84026409:00280776476:1876020201:0094/pct:14.387615723174989,26.8953488372093,9.910456821976021,4.813953488372093/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -385,7 +385,7 @@ starving as they are, we cannot
 enough admire the incomparable  
 patience and fidelity of the soldiers.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn84026106:00280776567:1876102601:0307/pct:62.70783847980998,279.7279699030531,49.56452889944576,20.141802922876572/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_irvin_ver01:data:sn84026106:00280776567:1876102601:0307/pct:15.686274509803921,69.93199247576328,12.398494751435928,5.035450730719143/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -410,7 +410,7 @@ Nobly won praise! At the same time
 Warren wrote to Greene: &quot;The situation  
 of the camp is such, that in all huma
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524044:1876120501:0207/pct:82.87990380279574,197.31584878598505,38.92980610251015,19.64962606290339/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_baxter_ver01:data:sn83009653:00279524044:1876120501:0207/pct:27.622482717162608,65.76521204671174,12.974651838493138,6.549204398005873/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -429,7 +429,7 @@ been little less than a famine in camp. A part of the
 army has been a woek without any kind of flesh, and  
 the rest three or four days.&quot; The following is th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174402A:1878062001:1058/pct:147.49551313427966,283.65669938370235,45.0481318322728,6.174389408810773/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:0027174402A:1878062001:1058/pct:49.16517104475989,94.55223312790078,15.016043944090933,2.0581298029369246/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -522,7 +522,7 @@ and fidelity of the soldiery, that they have
 not been ere this excited by their sufferings  
 to a general mutiny and desertion.”
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn88067211:0051415000A:1887051501:0108/pct:44.00645458736745,40.483383685800604,12.332872291378516,4.922694153189977/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_calpet_ver02:data:sn88067211:0051415000A:1887051501:0108/pct:44.02374366067312,40.4878265505598,12.33863531581374,4.9315798827083706/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -624,7 +624,7 @@ of New Jersey, Pennsylvania, Mary­
 land, Delaware and Virginia an appeal  
 for cattle for his starving soldiers an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479378:1894092701:0297/pct:23.604999119873263,69.15864483060382,15.40221791938039,6.938367295911989/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_honda_ver01:data:sn85025620:00212479378:1894092701:0297/pct:21.254686592385276,62.243558489292276,13.851190790515922,6.244608633687132/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

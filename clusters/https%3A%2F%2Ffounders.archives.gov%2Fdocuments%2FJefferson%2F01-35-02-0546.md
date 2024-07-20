@@ -44,7 +44,7 @@ be made a free port, and Ceyloa is to be
 ceded to this coantry. We- thall offer no  
 opinion wpon the conditions, until they ar
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1801112101:0032/pct:25.97027250206441,2.9108098022142057,22.50206440957886,11.941783803955715/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1801112101:0032/pct:25.977153867327278,2.9191027076336193,22.50206440957886,11.95007670937513/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -96,7 +96,7 @@ Ceylon is to be ceded to this country,
 We shall offer no opinion upon the  
 conditions until theyare better authen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801112401:0608/pct:6.806853582554517,58.03536345776031,16.713395638629283,18.104125736738702/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010777:1801112401:0608/pct:6.81723779854621,58.041912246234446,16.708203530633437,18.100851342501638/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -125,7 +125,7 @@ J port, and Ceylon is to be ceded to this
 I country. Wo (hall offer no opinion upon  
 ! the conditions until they are better authen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801112501:0001/pct:23.64333652924257,66.37867193285608,18.21668264621285,9.577882004443348/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_forest_ver01:data:sn83045242:print:1801112501:0001/pct:23.64333652924257,66.37867193285608,18.242249920102267,9.581996214926356/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

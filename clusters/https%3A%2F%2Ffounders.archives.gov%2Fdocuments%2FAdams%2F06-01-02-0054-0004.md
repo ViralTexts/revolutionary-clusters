@@ -265,7 +265,7 @@ pectation, of the Heir apparent, by continuing
 What Jullice and Impartiality are we; at i‘\g/,g&quot;c‘z’p  
 : LHES
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1765101801:0484/pct:35.864511844144346,16.85925925925926,58.5787026787691,78.85925925925926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1765101801:0484/pct:35.871891373330385,16.869135802469135,58.57132314958306,78.85432098765432/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -307,7 +307,7 @@ not have expected from Guardians of Liberty’in
 ¢« Both, 77—  
 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1765101801:0485/pct:6.422217400737687,4.487084870848708,29.203731829030158,26.30258302583026/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1765101801:0485/pct:6.422217400737687,4.487084870848708,29.21096405583279,26.31242312423124/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -513,7 +513,7 @@ none of the {aid amerciaments thall be afleffed,
 but by the oath of honest and lawful men of the  
 Vicinage.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794052001:0230/pct:10.32954041672824,57.52061130102554,19.506428254765776,1.8801528252563844/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010753:1794052001:0230/pct:10.33446628244914,57.5239627320866,19.501502389044873,1.8835042563174476/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -560,7 +560,7 @@ because we arc not represented in that
 assembly in any sense, unless i  
 fiction of law. as insensible i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:00200298433:1874062601:0497/pct:91.90751445086705,91.09835846790338,32.785404624277454,4.724409448818897/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_lyonsport_ver02:data:sn84022673:00200298433:1874062601:0497/pct:68.9430894308943,68.33044174562926,24.607046070460704,3.5499799813158948/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

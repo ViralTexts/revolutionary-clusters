@@ -128,7 +128,7 @@ ground, displaying the charme, both of
   
 her eloquence and person, to seduce him
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1865060101:1200/pct:182.3871181938911,149.00931009787539,41.633466135458164,13.069945094294582/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:iahi:batch_iahi_charizard_ver01:data:sn84027398:00279529406:1865060101:1200/pct:60.795706064630366,49.66977003262513,13.877822045152723,4.35664836476486/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -407,7 +407,7 @@ anence and person, to seduce him into vieo. Hut
 ils is 100 complicated a group for a seal or medal,  
 and it is not original.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877070701:0012/pct:71.55635062611807,34.4937975190076,12.675696396626629,18.48739495798319/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877070701:0012/pct:71.56912854587273,34.50380152060824,12.675696396626629,18.502400960384154/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -499,7 +499,7 @@ reclining on the ground displaying tire
 charms both of her eloquence and par.  
 son, to seduce him into Vice!” Frank
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332897093:1884083001:0364/pct:65.56093066113799,77.61316872427983,13.706519235199263,4.97119341563786/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_irene_ver02:data:sn85035524:00332897093:1884083001:0364/pct:65.54583141409489,77.60039499670836,13.709120221096269,4.974489795918367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -521,7 +521,7 @@ Pleasure, wantonly reclining on thegrouud,
 displaying the cbaru.s both of her eloxueuce  
 and person, to seduce hi in into Vice!
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092523:00383341711:1884083101:0059/pct:38.9103325415677,29.986515921584896,11.520190023752969,3.7029353801472875/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_nova_ver02:data:sn86092523:00383341711:1884083101:0059/pct:38.904556924447085,29.983405932379174,11.523427836326753,3.7060084353177074/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -544,7 +544,7 @@ displaying the charms both of her elo­
 quence and person, to seduce him into  
 vice!” Franklin was for a design pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769362:1884092501:0053/pct:38.8021534320323,33.91042919344806,10.672947510094213,3.980924735641717/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_grace_ver01:data:sn85033139:00271769362:1884092501:0053/pct:38.806639748766266,33.91042919344806,10.686406460296096,3.984380399474739/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -567,7 +567,7 @@ displaying the charms both of her elo
 quence aud person, to seduce mm iuu  
 Vice!&quot; Franklin was lor a design pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027224:1884100901:0028/pct:53.50287907869482,58.29934495118032,13.963531669865644,5.017921146953405/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_fu_ver01:data:sn83035083:00296027224:1884100901:0028/pct:40.144,43.727598566308245,10.48,3.7696205660610556/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -590,7 +590,7 @@ ure, wantonly reclining on the ground,
 quence and person, to seduce him into  
 vice!” Franklin was for a design pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173435:1884101701:0335/pct:2.8595178719867,25.848269642655843,13.99833748960931,4.7007101792357115/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ct:batch_ct_fox_ver01:data:sn82016399:00517173435:1884101701:0335/pct:2.859042553191489,25.845356176735798,14.001551418439716,4.703937481214307/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -612,7 +612,7 @@ ure, wantonly reclining on the ground,
 lisplaying the charms both of her elo­  
 uence and person, to seduce him int
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jughead_ver01:data:sn89066489:00294556618:1884102901:0351/pct:8.130530973451327,37.86990317741716,18.98967551622419,5.850265921178235/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jughead_ver01:data:sn89066489:00294556618:1884102901:0351/pct:6.1047583917373665,28.405836628937678,14.256731833271855,4.391108686758489/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -635,7 +635,7 @@ displaying the charms both of her elo­
 quence and person, to seduce him into  
 vice!&quot; Franklin was for a design pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625108:1884120601:0600/pct:66.36842946157533,26.462491397109428,13.708260105448154,4.748795595320027/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_bermuda_ver01:data:sn99062858:00415625108:1884120601:0600/pct:66.36842946157533,26.462491397109428,13.713585769824785,4.764089623002218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -658,7 +658,7 @@ displaying the charms both of her elo­
 quence and person, to seduce him into  
 vice!” Franklin was for a design pre
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1884121801:0414/pct:55.490686683347235,22.34852665268734,9.535724214623297,3.75234521575985/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_idlewild_ver01:data:sn85033133:00514159208:1884121801:0414/pct:55.490686683347235,22.352205422506714,9.549624687239366,3.75234521575985/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

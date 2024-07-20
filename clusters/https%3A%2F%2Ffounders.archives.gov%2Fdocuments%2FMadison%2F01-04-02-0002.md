@@ -166,7 +166,7 @@ lands whatever, which not having: been ceded
 ‘to or purchased by. us as aforefaid, are reserved  
 to the said Indians, or any of them. =
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1763121601:0147/pct:64.57260556127703,22.517123287671232,27.518022657054583,8.00513698630137/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015064:1763121601:0147/pct:64.57947133539307,22.517123287671232,27.53861997940268,8.019406392694064/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -279,7 +279,7 @@ the Boundary of the Province of Quebec, shall in any-wife affect
 the Boundaries of any other Colony.  
 Previded always, and be it enafied, That nothing in this Aé
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090901:0311/pct:5.392705303199821,66.0413030831879,26.87402103378832,2.981384525887144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025582:00517015088:1774090901:0311/pct:5.392705303199821,66.05099864262168,26.888938614156785,2.976536746170254/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ upon any lands whatever, which not having been
 ceded to, or purchased hy, us (the King) as afore­  
 said^, are reserved to the said Indians, or any of them
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832032001:0417/pct:4.566210045662101,42.51490395230735,15.026982150269822,3.091190108191654/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_naturals_ver01:data:sn84024735:00414184054:1832032001:0417/pct:4.5655783065855005,42.51021084004857,15.029514849658735,3.094528461566766/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

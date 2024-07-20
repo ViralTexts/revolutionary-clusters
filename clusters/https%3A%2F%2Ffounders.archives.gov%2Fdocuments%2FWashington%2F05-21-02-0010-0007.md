@@ -51,7 +51,7 @@ all meet hereafter, in that eternal temple ; whose
 buildet is tSe Great Architect of&quot;, the Universe.  
 Go. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122901:0003/pct:48.49159248269041,69.01973367559762,19.90603363006924,11.503288945932937/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_mainecoon_ver01:data:sn83025881:print:1796122901:0003/pct:48.510138476755685,69.03176640462057,19.893669634025716,11.503288945932937/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -86,7 +86,7 @@ that eternal Temple, whose Builder is the
 Great Architeft of the Universe,  
 &amp; G. WASHINGTON
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797011401:0219/pct:24.988395481974315,55.23331660812845,16.01423487544484,12.363271450075263/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010765:1797011401:0219/pct:24.998710609108258,55.23331660812845,16.01423487544484,12.37330657300552/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -207,7 +207,7 @@ lemph-. whose builder is the Great Architect B
 of the Universe. f  
 G°. WASHINGTON. 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830101401:0385/pct:79.52925933923558,72.37786850626496,18.808032822284602,11.78375334365761/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_boros_ver02:data:sn85059526:00393348938:1830101401:0385/pct:79.51208981001727,72.36768018018019,18.809369602763386,11.78561373873874/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -309,7 +309,7 @@ may all meet thereafter in that eternal temple
 whose builder is the great Architect of the Uni­  
 verse. Geo. Washington
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872011201:0006/pct:49.2897989300867,79.54740761959324,11.160302527209002,5.986823259810943/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_clark_ver03:data:sn82014064:no_reel:1872011201:0006/pct:49.30363401586423,79.55814952735606,11.160302527209002,5.990403895731882/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -345,7 +345,7 @@ that eternal temDle whose builder ia th
 great Architect of the Universe..  
 Geo. WASHnjoToii
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dean_ver02:data:sn84038034:00271740566:1872011801:0108/pct:47.34615384615385,103.43078360699506,18.26923076923077,14.003470831664664/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_dean_ver02:data:sn84038034:00271740566:1872011801:0108/pct:35.53289726818007,77.5730877052463,13.716814159292035,10.5059404618876/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -386,7 +386,7 @@ may all meet hereafter in that eternal temple
 whose outlder is the Great Architect of the Unt­  
 verse.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875060201:0868/pct:10.355512067840834,109.02023550931749,45.69471624266145,25.528752715216644/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_poppy_ver01:data:sn83030313:00271743932:1875060201:0868/pct:3.451837355946945,36.34007850310583,15.23157208088715,8.509584238405548/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

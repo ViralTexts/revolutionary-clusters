@@ -536,7 +536,7 @@ pure silver at 7s. 6d. turnifh the exatt ratio ot Ito 15.6262. But
 this does not coincide with the real difference between the metals,  
 in our market, or which is with us the fame 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791021601:0004/pct:10.831889081455806,8.536358564255162,25.534373194685152,10.489120327320068/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1791021601:0004/pct:10.84633160023108,8.545657429793565,25.51993067590988,10.49841919285847/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -892,7 +892,7 @@ a gold dollar.
 The proportion of 15 te 1 was establish­  
 ed. The llth section of the act of April,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834051401:0077/pct:33.72979000185839,15.10198568148048,30.99795577030292,84.047007969742/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83025561:00340587984:1834051401:0077/pct:33.7421792727498,15.10198568148048,30.99795577030292,84.05151064883606/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -929,7 +929,7 @@ to lefroy the expense attending that metal. Some additional
 prowaion may therefore be found necessary if this limit be  
 adefted.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852073101:0288/pct:2.4736472241742797,14.302728453876137,15.361911454673226,10.491554785621481/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852073101:0288/pct:2.4736472241742797,14.309946585823589,15.37128133052237,10.491554785621481/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -946,7 +946,7 @@ each of the metsls, but &quot;under an impression that a
 small difference tetween the value of the coin and the  
 mint price of bulion&quot; should be the seigniorage. He i
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852080701:0290/pct:49.49537426408747,28.09792027729636,15.629380431735353,1.6572790294627382/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_firedrake_ver01:data:sn83045784:00415661605:1852080701:0290/pct:49.50471918512289,28.101530906990178,15.624707971217644,1.660889659156557/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1203,7 +1203,7 @@ character of one of them as mon
 ey.&quot;: &#x27; - &quot;To annul the  
 use of either of the metals for mo
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472979:1876092201:0668/pct:61.206441393875394,80.62568605927552,13.027983104540654,11.877058177826564/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_brown_ver01:data:sn82016419:00212472979:1876092201:0668/pct:45.914191419141915,60.47200878155873,9.782178217821782,8.913282107574094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1246,7 +1246,7 @@ of the metals, because tide cannot lie done
 effectually utihout detfmvlng the oflce ntul char­  
 acter of one of them at
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877062701:0004/pct:71.40591966173362,7.1025020177562554,13.10782241014799,8.454398708635997/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877062701:0004/pct:71.41252642706131,7.1025020177562554,13.114429175475687,8.484665052461663/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1279,7 +1279,7 @@ last forty years? No merchant, from 1834 to 1873,
 ever kept his accounts in silver dollars, or reckoned  
 scount of two per cent on gold eagles which h
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kite_ver01:data:sn83030214:00206531290:1877072101:0614/pct:3.185233583796145,167.76926648096565,48.382881411303494,31.418291550603527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kite_ver01:data:sn83030214:00206531290:1877072101:0614/pct:1.0617445279320483,55.92308882698855,16.127627137101165,10.472763850201176/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1297,7 +1297,7 @@ than the market proportion thet ween the values
 of the two metals), if this can be supposed to  
 have been produced by the free and steady course o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kite_ver01:data:sn83030214:00206531290:1877072101:0614/pct:2.59719046063378,272.70194986072426,49.01992812806272,7.50928505106778/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kite_ver01:data:sn83030214:00206531290:1877072101:0614/pct:0.8657301535445933,90.90064995357474,16.339976042687574,2.5030950170225936/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1344,7 +1344,7 @@ of a full with tho cvtls of a scanty circulation.
   
 The conclusion which Hamilton drew wa
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877120601:0004/pct:85.98879103282626,17.253098760495803,13.157192420603149,8.376649340263894/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jefferson_ver02:data:sn84031492:no_reel:1877120601:0004/pct:85.98879103282626,17.26309476209516,13.177208433413398,8.376649340263894/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1388,7 +1388,7 @@ ing the office and character of one of them as
 money, and reducing it to the situation of mere  
 merchandise.” And then. Mr. Hamilton wisel
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895941:1878020801:0527/pct:17.85057048214943,3.9252069654581785,25.598086124401913,92.19240650870682/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_eddington_ver01:data:sn82014248:00332895941:1878020801:0527/pct:17.847286108555657,3.924646781789639,25.597976080956762,92.18281718281719/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1532,7 +1532,7 @@ value of tho metals, especially If care tm taken
 to regulate tho proportion betwonn them wltl  
 an rye to their average commercial value.” 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880042001:0009/pct:85.17241379310344,3.1857343217792025,13.183023872679046,6.251252254057303/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_north_ver02:data:sn84031492:no_reel:1880042001:0009/pct:85.18567639257294,3.195752354237628,13.189655172413794,6.24624323782809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1794,7 +1794,7 @@ ing the office and character of one of
 them as money, and reducing it to the  
 situation of mere merchandise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1893083001:0272/pct:46.00431965442765,20.667604553011895,15.676745860331174,4.246067272029672/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1893083001:0272/pct:34.52188006482982,15.50070341475892,11.777417612101567,3.1845504540222533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1816,7 +1816,7 @@ A, , .
 mem as money, ana reducing n to the  
 situation of mere merchandise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1893090601:0276/pct:45.68280346820809,22.46973989183621,15.751445086705202,4.313674993561679/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_brownie_ver01:data:sn85033429:00280779337:1893090601:0276/pct:34.272809394760614,16.855524079320112,11.815718157181571,3.2320370847283026/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1894,7 +1894,7 @@ without destroying the character and of­
 fice of one of them as money, and reducing  
 it to the situation of mere merchandise
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894082201:0551/pct:67.92480757844879,85.01916153756822,11.50088809946714,3.2168157008477527/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_ballet_ver01:data:sn90059591:00383346800:1894082201:0551/pct:67.92480757844879,85.02303255525878,11.510755871324255,3.2206867185383037/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -1966,7 +1966,7 @@ of the (silver) dollar in the several
 states, without regard to the succes  
 sive diminutions of its intrinsic worth.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556977:1895050201:0074/pct:31.9763828464885,85.82647718773373,13.144810441267868,11.480927449513837/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_garfield_ver01:data:sn89067274:00294556977:1895050201:0074/pct:23.993783993783993,64.3729743206183,9.867909867909868,8.613812016953379/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2022,7 +2022,7 @@ the character and office of one of
 them as money and reducing it to the  
 situation of mere merchandise 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653462A:1895050501:0487/pct:29.814241486068113,99.88686502998077,18.69969040247678,8.609571218463627/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653462A:1895050501:0487/pct:19.88231650665841,66.59124335332051,12.480644162279344,5.743485311309726/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2166,7 +2166,7 @@ I
 One silver piece which shall also  
 1 be a unit or dolla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653462A:1895051001:0548/pct:23.98348157560356,54.67691954550671,19.393265565438373,4.843337541604499/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_collins_ver01:data:sn85058130:0020653462A:1895051001:0548/pct:16.001906880661053,36.45127969700447,12.935007150802479,3.2365430965224378/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2193,7 +2193,7 @@ following:
 value of a Spanish milled dollar, as  
 the same is now current, and to con
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_newcastle_ver01:data:sn86072173:00514150680:1895051001:0461/pct:17.548997521964406,35.92507510160806,12.255012390177969,6.874006008128645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_newcastle_ver01:data:sn86072173:00514150680:1895051001:0461/pct:17.560261320117142,35.938328326559464,12.266276188330705,6.88725923308005/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2254,7 +2254,7 @@ What Secretary Smith &lt; alls the “commer­
 cial value of the metals in the market”  
 was determined by the coining ratio of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344672:1895051301:0218/pct:33.96537510305029,38.60900579580918,14.344600164880461,5.316540347748551/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_fornax_ver01:data:sn89053706:00393344672:1895051301:0218/pct:33.96537510305029,38.61643632040422,14.36108821104699,5.316540347748551/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2294,7 +2294,7 @@ i.dlv if care lie taken to regulate the pro­
 portion lietweeu them with an eye to their  
 average commercial valu
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623951:1895051801:0091/pct:72.15389467045097,68.08585918150726,10.454115421002838,7.52447222549829/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623951:1895051801:0091/pct:72.15915063597183,68.0897904627118,10.454115421002838,7.520540944293745/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2347,7 +2347,7 @@ appear to doitrov that inforotice.&quot;
 But it is urged that in 1S34 it was the  
 gold dollar and not the silvor dolla
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193638:1895052701:1017/pct:34.82142857142857,62.000365030114985,15.943877551020408,8.395692644643184/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193638:1895052701:1017/pct:34.82940051020408,62.009490782989594,15.935905612244898,8.391129768205877/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2405,7 +2405,7 @@ sTrat inference. And the circunUncc 1
 of making the dollar the unit in the money  
 of account seems to bef rather a matter o
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665544:1895060501:0345/pct:109.86425339366515,61.028522039757995,16.67420814479638,9.576490924805531/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_kerr_ver01:data:sn82015679:00415665544:1895060501:0345/pct:82.42616272490665,45.77355229040622,12.515559579042662,7.182368193604149/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2431,7 +2431,7 @@ of mere merchandise.&quot;
 Said Thomas Jefferson, writing to Mr.  
 Hamilton after the examination of hi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1895062101:1044/pct:93.86120996441281,312.7073504793791,58.362989323843415,23.558058134226144/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_jamaica_ver01:data:sn93063557:00280777882:1895062101:1044/pct:23.465302491103202,78.17683761984478,14.590747330960854,5.889514533556536/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2492,7 +2492,7 @@ and which alarm at once as well the peo­
 ple as the government. Wars and meas­  
 ures thereof are not always the most cer
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:0041418215A:1895062401:0529/pct:54.09775134733321,40.07173601147776,16.298085857647276,26.829268292682926/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:gu:batch_gu_endeavour_ver01:data:sn86063034:0041418215A:1895062401:0529/pct:41.93470955352856,31.062599607130945,12.635621699471915,20.78499684963493/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2516,7 +2516,7 @@ and value a tenth part of the silver
 unit or dollar. As all know the eagle,  
 half eagle, quarter eagle, dollar, etc.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056249:00200295651:1895070501:0325/pct:11.34393063583815,117.46932981851364,18.569364161849713,7.421676974551353/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_chacha_ver03:data:sn87056249:00200295651:1895070501:0325/pct:8.51402139346632,88.10706681537057,13.934663197455912,5.566257730913515/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2591,7 +2591,7 @@ economy of national affairs of greater mo­
 ment than the uniform preservation of the  
 Intilnslc value of the money unit. On thi
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895070701:0887/pct:40.33850493653033,50.452763887011756,16.889985895627646,30.720367617245575/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895070701:0887/pct:30.264550264550266,37.842951750236516,12.680776014109348,23.04365454791188/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2618,7 +2618,7 @@ Intilnslc value of the money unit. On thi
 of national affairs of greater moment then  
 the uniform preservation of tia mone
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895071401:0955/pct:40.59423347398031,127.0042194092827,16.473277074542896,1.6333197223356473/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_alliance_ver01:data:sn99021999:00206539410:1895071401:0955/pct:30.46078086528315,95.25997005580508,12.363700316567007,1.2249897917517354/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2684,7 +2684,7 @@ port on &quot;The Establishment of a Mint,’’
 jn any country for the legal than the  
 market proportion.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212025:1895080901:0332/pct:8.614393125671322,47.015026397725734,17.508055853920517,4.873426289427372/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_alakazam_ver01:data:sn84022960:00414212025:1895080901:0332/pct:8.612542955326461,47.00866269626421,17.509664948453608,4.87615051434759/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2732,7 +2732,7 @@ Benton, in the couise of his speech, took
 occasion to mention Jefferson, Calhoun  
 nnd other distinguished statesmen wh
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:00296021143:1895101701:0173/pct:27.87091366303437,68.35805360395524,19.027661357921207,15.066354410616706/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_hubert_ver01:data:sn89058128:00296021143:1895101701:0173/pct:20.92243186582809,51.27504553734062,14.276729559748428,11.306271142336715/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2786,7 +2786,7 @@ said, &quot;There can hardly be a better rule
 in any country for the legal than the  
 market proportion. &quot; Thomas Jefferso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292339:1895112301:0371/pct:18.03143093465674,70.52541648868005,17.555831265508687,5.595899188381034/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_jerome_ver01:data:sn89066818:00200292339:1895112301:0371/pct:13.529168390566818,52.89762209881817,13.177492759619362,4.200484123593906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2830,7 +2830,7 @@ and creditor, all the relations and con­
 sequences of price, the essential inter­  
 ests of trade and industry, the valua
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760973:1896021201:0379/pct:109.23913043478261,82.72200772200772,30.222117202268432,11.212998712998713/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:khi:batch_khi_anthony_ver01:data:sn85032018:00280760973:1896021201:0379/pct:72.84329945639328,55.14800514800515,20.160718506263294,7.480694980694981/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2959,7 +2959,7 @@ the money unit as having been hitherto
 virtually attached to gold rather than  
 silver He then takes Jeffersons let
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:206534527:1896070301:0321/pct:26.15606936416185,31.211498973305954,19.428387925497752,11.60164271047228/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:uuml:batch_uuml_dantley_ver01:data:sn85058130:206534527:1896070301:0321/pct:17.44578313253012,20.80766598220397,12.963855421686747,7.734428473648186/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -2993,7 +2993,7 @@ it to the situation of mere merchandise. ”
 and the second, that “to annul the use of  
 either of the metals as money is to abridg
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623963:1896071101:0132/pct:60.568006182380216,67.09057510244453,11.224884080370943,9.848805991239226/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_douglass_ver01:data:sn85038292:00415623963:1896071101:0132/pct:60.57444616177228,67.09057510244453,11.23132405976301,9.858226178700956/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3038,7 +3038,7 @@ hie standard, and said : “The legal
 tender, the constitutional standard of  
 value, is established and cannot li
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522357:1896071801:0320/pct:25.141748731721876,23.49713740458015,10.071620411817367,15.958969465648854/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_denton_ver01:data:sn84026758:00279522357:1896071801:0320/pct:25.141748731721876,23.49713740458015,10.081567691236447,15.966921119592875/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3072,7 +3072,7 @@ view to the relations which commerce
 has created between UH and other coun­  
 tries.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193663:1896071801:0137/pct:28.74617737003058,5.8802373673799675,14.234083958854601,8.757417730623988/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_eritrea_ver01:data:sn84026844:00202193663:1896071801:0137/pct:28.76007784264665,5.8802373673799675,14.227133722546567,8.784391296529401/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3106,7 +3106,7 @@ I dally if care be taken to regulate the
 proportion between them, with an eye  
 to their average comm-rcial value.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186877:1896072701:0186/pct:16.892373485388454,79.5471536900566,14.807555238774055,9.462779023817152/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186877:1896072701:0186/pct:16.889363976483164,79.53865869286629,14.810855751529187,9.465328207318809/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3138,7 +3138,7 @@ sllver Collar were made of equal vale at
 the ratio of 1f to I because that was the  
 conmercial ratte of valus.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199380:1896073101:0507/pct:14.91205380237972,224.43358969029308,32.992757371960685,25.982124298482645/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199380:1896073101:0507/pct:4.97068460079324,74.81119656343103,10.997585790653561,8.660708099494215/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3171,7 +3171,7 @@ pecially if care be taken to regulate the
 proportion between them, with an eye  
 to their average commercial value.’ 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186877:1896080301:0230/pct:16.54625550660793,80.74010877679429,15.400881057268723,9.075397248586969/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_isner_ver01:data:sn86092518:00414186877:1896080301:0230/pct:16.543340380549683,80.7314992535722,15.404040404040405,9.07798393403/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3190,7 +3190,7 @@ metal would be to destroy the office and
 character of one of them as money, and  
 reduce it to mere merchandise; and t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1896080601:0349/pct:4.325546345139412,21.909177365668093,9.585531273549359,2.377555872563005/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1896080601:0349/pct:4.324894514767933,21.90657316058481,9.587854128993369,2.380244859146559/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3294,7 +3294,7 @@ cially is care be taken to regulate the
 proportion-hetween them, with an eye  
 to their average commercial value.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157509:1896080801:0726/pct:43.60254864818323,74.0480831708902,10.005166178749784,8.966861598440547/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kite_ver01:data:sn86092182:00514157509:1896080801:0726/pct:43.59504132231405,74.03846153846153,10.007747933884298,8.968944906444907/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3328,7 +3328,7 @@ if care ne taken to regulate the propor­
 t&#x27;on between them, with an eye to their  
 average commercial value. I do no
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551414:1896081201:0324/pct:17.78102189781022,10.49260619760761,31.635036496350367,88.26410473768485/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_danastjames_ver01:data:sn93067846:00294551414:1896081201:0324/pct:17.78102189781022,10.498885435308154,31.635036496350367,88.26724435653512/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3347,7 +3347,7 @@ metal would be to destroy the office and
 character of one of them as money, and  
 reduce it to mere merchandise; and t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1896082001:0357/pct:3.08868501529052,23.11491206938087,9.954128440366972,2.409058058299205/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:njr:batch_njr_elliot_ver01:data:sn87068079:00332896490:1896082001:0357/pct:3.088212811496713,23.112128146453088,9.956428680629873,2.4117788751053837/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3367,7 +3367,7 @@ cause this cannot be done without de­
 stroying the office and character of one  
 pf them as money&#x27; and reducing it t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kia_ver02:data:sn90060625:00212479597:1896082201:0129/pct:6.798679867986799,53.2146829810901,13.976897689768977,3.136818687430478/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_kia_ver02:data:sn90060625:00212479597:1896082201:0129/pct:6.80968096809681,53.2183908045977,13.965896589658966,3.1405265109380793/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3424,7 +3424,7 @@ to the situation of mere merchandise,&quot;
 and he held that &quot;to annul the use of  
 either of the metals as money is t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn93067634:00237288142:1896082701:0539/pct:167.0589826839827,150.8866200967222,39.08279220779221,35.22837184309511/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:scu:batch_scu_ettabaker_ver02:data:sn93067634:00237288142:1896082701:0539/pct:55.68632756132756,50.29554003224073,13.027597402597403,11.742790614365036/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3466,7 +3466,7 @@ value as it now exists, we incur all; , t u t tl proportion be-
   
 the evil consequences ot failure at tWeeu them, with an eye to thei
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn89058250:00296021210:1896082701:0253/pct:12.804005722460658,92.34209812957441,43.63376251788269,12.849010571970723/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:tu:batch_tu_ida_ver01:data:sn89058250:00296021210:1896082701:0253/pct:9.604721874441067,69.25996204933587,32.7490609908782,9.636757928978042/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3503,7 +3503,7 @@ metals, especially If care be taken to regu­
 late the proportion between them, with  
 an eye to their average commercial value.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863572:1896082801:0739/pct:22.253129346314324,83.4943417057687,14.484402940592092,10.28153463980127/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:batch_ndhi_almont_ver01:data:sn88076741:00295863572:1896082801:0739/pct:22.263063779058214,83.49779188517803,14.484402940592092,10.2849848192106/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3520,7 +3520,7 @@ destroying tbe office and character of one
 of them as money, and reducing it to the  
 situation of mere merchandise. Fro
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hummingbird_ver02:data:sn84024828:00211100655:1896082901:0342/pct:54.92202729044834,114.211411962674,22.90448343079922,2.600581306409668/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:az:batch_az_hummingbird_ver02:data:sn84024828:00211100655:1896082901:0342/pct:41.213746039483304,85.66620774055377,17.182549354131122,1.9580847483555148/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3600,7 +3600,7 @@ destoylng the office and character of
 one of them as money, and reducing it  
 to the situation of mere merchandise.&quot;
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_plasse_ver01:data:sn85042461:00280769691:1896091901:0206/pct:42.17016029593095,17.339778574769998,12.330456226880395,8.997349134570404/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_plasse_ver01:data:sn85042461:00280769691:1896091901:0206/pct:42.18557336621455,17.34757523779822,12.330456226880395,8.98955247154218/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3649,7 +3649,7 @@ mental principle when he said. There can
 harly be a better rule in any country for the­  
 legal than the market proportion. In othe
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:0017503898A:1896092301:0402/pct:7.844703626777441,163.30193905817174,47.73925547212015,22.570637119113574/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kaiser_ver01:data:sn83030214:0017503898A:1896092301:0402/pct:2.6149012089258137,54.43397968605725,15.913085157373382,7.523545706371191/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3720,7 +3720,7 @@ parative valm i f gold and silver will be
 i-hangea in the state of the latter rather  
 t van in that of the former.—Alexande
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895497:1896100101:0317/pct:20.573810691515448,80.58913672739656,15.154487493869544,9.29678188319428/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_aroostook_ver01:data:sn84022374:00332895497:1896100101:0317/pct:20.56876685462123,80.57541709227102,15.156901201274822,9.299455226421518/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3750,7 +3750,7 @@ moment than the uniform preservation
 of the intrinsic value of the money unit.  
 On thi3 security and steady value es
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_plasse_ver01:data:sn85042461:00280769691:1896100201:0367/pct:58.61008610086101,17.961089494163424,12.238622386223863,2.801556420233463/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:curiv:batch_curiv_plasse_ver01:data:sn85042461:00280769691:1896100201:0367/pct:58.62033620336204,17.961089494163424,12.2539975399754,2.809338521400778/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3770,7 +3770,7 @@ preservation of the Intrinsic value of the
 y„U,nit- 0n this security and steady .  
 value of property essentially depends.&quot; W
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206536949:1896100201:0333/pct:82.13597985483632,55.65208065208065,13.094356391645682,2.22007722007722/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_iona_ver01:data:sn90059523:00206536949:1896100201:0333/pct:82.13597985483632,55.65208065208065,13.109169011998222,2.2272272272272273/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3822,7 +3822,7 @@ chandise.” If silver ceases to tie used
 as money in Km ope and America, the  
 mines of the i’ueitic slope will b
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_ancientbison_ver01:data:2018270203:00279527367:1896100201:0457/pct:36.905254447662394,40.55643195181414,13.984278030616467,20.27821597590707/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_ancientbison_ver01:data:2018270203:00279527367:1896100201:0457/pct:36.8976215098242,40.55061657585317,13.986556359875905,20.278893031258963/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3866,7 +3866,7 @@ care be taken to regulate the proportion
 tion between them , with an eye to  
 their average commercial value. &quot; 
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536664:1896100201:0136/pct:49.033816425120776,55.48044422984066,18.564527260179435,22.223563495895704/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536664:1896100201:0136/pct:36.79033649698015,41.61033317238049,13.925798101811907,16.670690487687107/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3885,7 +3885,7 @@ omy of national affairs of greater mon­
 trinsic value of the money unit on this  
 security and steady value essentially de
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199392:1896100201:0257/pct:73.76707872478855,240.15198834062045,34.6779440468445,6.058713304184884/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wa:batch_wa_grace_ver02:data:sn83045604:00202199392:1896100201:0257/pct:24.589026241596184,80.05066278020682,11.559314682281501,2.0195711013949613/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3960,7 +3960,7 @@ i1c&#x27;rbln to possess the kind of money,
 as the kind of commodities best adapted  
 to a foreign market. Hamilton
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669422:1896101501:0033/pct:87.23188405797102,114.79705976350272,18.28985507246377,10.525194417811868/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_douglas_ver01:data:sn96076998:00415669422:1896101501:0033/pct:58.18471799333043,76.53137317566848,12.193707409018414,7.020347288803665/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -3999,7 +3999,7 @@ troubles are cured by the use of De­
 Witt&#x27;s Witch Hazel Salve. It sooths  
 at once, and restores the tissues t
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669549:1896101501:0420/pct:79.45888754534462,47.81063852022155,21.31197097944377,22.374333786184554/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_franklin_ver01:data:sn96076641:00415669549:1896101501:0420/pct:53.00166339029185,31.87375901348103,14.214426130349311,14.923189465983906/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4023,7 +4023,7 @@ hardly be a better rule in any country
 for the legal than the market propor­  
 tion. Each metal tinds its true level
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00514155975:1896102101:0143/pct:68.97374701670644,61.49765044717296,12.808273667462212,4.517204790056086/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:me:batch_me_indianisland_ver01:data:sn82014248:00514155975:1896102101:0143/pct:68.96003181547027,61.488329796908154,12.810697951879101,4.520309184601395/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4047,7 +4047,7 @@ utility in the general system of money
 operation.  
 •
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026517:1896102201:0034/pct:24.764890282131663,77.17601547388782,9.295352323838081,3.5460992907801416/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026517:1896102201:0034/pct:24.76943346508564,77.18317931083888,9.295352323838081,3.5389354538290707/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4080,7 +4080,7 @@ Laroesander Tamition. ,
 No Reason. !  
 Even though the farmers may Db
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152640:1896102201:0106/pct:51.57223150539268,28.03962120387504,28.269785811939844,69.55480570371176/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:whi:batch_whi_arbutus_ver01:data:sn85040614:00514152640:1896102201:0106/pct:51.577295052914074,28.043249519248214,28.27484935946124,69.5620623344581/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4117,7 +4117,7 @@ paiyai. Since the last gathering of iU
 II &#x27;publicans, at. about the same tini as  
 those of many other state-, the na
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_chelsea_ver01:data:sn85038709:00415669288:1896102301:1004/pct:97.94238683127573,70.8515967438948,20.972957084068195,22.145689835107493/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mimtptc:batch_mimtptc_chelsea_ver01:data:sn85038709:00415669288:1896102301:1004/pct:65.31902381652455,47.2343978292632,13.981182005292561,14.767271968273846/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4156,7 +4156,7 @@ level according to its intrinsic utility
 in the general system of money oper­  
 ation.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:0041562766A:1896102401:0181/pct:57.674418604651166,8.518625469246318,32.65503875968992,117.60034652035807/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mdu:batch_mdu_annapolis_ver01:data:sn85025350:0041562766A:1896102401:0181/pct:44.70311404826274,6.609474076837001,25.312906778812454,91.13763521074226/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4180,7 +4180,7 @@ Its true level according to Its Intrinsic
 utility iu the general system of tateaey&#x27;  
 operation
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026517:1896102901:0037/pct:85.60585150427822,84.68526930564569,9.619100193210047,3.828682673588579/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:pst:batch_pst_erie_ver02:data:sn86071045:00296026517:1896102901:0037/pct:85.60585150427822,84.68526930564569,9.632900910847365,3.8322878361814117/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4201,7 +4201,7 @@ Its true level arordlng to Its Intrinsic
 utility In the general system of money  
 opeiatlons.
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194291:1896103101:1053/pct:42.037186742118024,57.76414831335378,15.804365400161682,5.352662391971006/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_oystercatcher_ver01:data:sn96061150:00202194291:1896103101:1053/pct:31.53426318981201,43.32311123501533,11.865777238730544,4.028436018957346/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4223,7 +4223,7 @@ As long as gold retaing so considerable
 condition will be more stationary.  
 Jefferson—The real credif of th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152901:1896110201:0022/pct:85.17669274345832,35.82993836832759,12.80010790396547,4.5962603154705945/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_efreeti_ver01:data:sn91070630:00514152901:1896110201:0022/pct:85.17669274345832,35.82993836832759,12.809099901088032,4.606706361642119/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4294,7 +4294,7 @@ that a protective tariff is a violation of the
 constitution when they know that the!  
 very first act passed under that constit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536664:1897091001:0542/pct:0.715782122905028,75.64798071127186,27.863128491620113,10.970464135021096/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nbu:batch_nbu_indianola_ver01:data:sn94056415:00206536664:1897091001:0542/pct:0.5412956172516151,56.7420132610006,20.900995285489785,8.224834237492466/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4323,7 +4323,7 @@ a
   
 0 framt rs
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065154:00279523398:1897091001:1080/pct:5.327321309285237,58.1130849220104,14.161656646626586,5.567590987868284/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:sdhi:batch_sdhi_cayman_ver01:data:sn00065154:00279523398:1897091001:1080/pct:5.327321309285237,58.11669555170422,14.172790024493432,5.57842287694974/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4388,7 +4388,7 @@ thnt a protective tariff is a violation of the
 &lt;-onst.tution when they know thnt the  
 very first art pasted under that constit
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_jones_ver02:data:sn92067106:00542861915:1897093001:0841/pct:6.129496402877698,58.08419768151312,14.18705035971223,8.704494610534878/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:wyu:batch_wyu_jones_ver02:data:sn92067106:00542861915:1897093001:0841/pct:6.151079136690647,58.08419768151312,14.172661870503598,8.71466341264999/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4430,7 +4430,7 @@ ing one of them of the character and
 office of money, and reducing it to the  
 situation of mere merchandise. To a
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898012001:0670/pct:91.31406436233611,87.74685298533318,15.867103694874851,4.423143550063518/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_hobbs_ver01:data:sn84024283:00294556886:1898012001:0670/pct:68.50968703427719,65.81591407783809,11.907600596125187,3.3144704931285367/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4451,7 +4451,7 @@ ing one of them of the character and
 office of money, and reducing it to the  
 situation of mere merchandise. To an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_andromeda_ver01:data:sn89051293:00513687795:1898012801:0198/pct:52.49410484309813,77.69282662469081,15.508797387992018,3.8228018889138746/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:arhi:batch_arhi_andromeda_ver01:data:sn89051293:00513687795:1898012801:0198/pct:52.500151157869276,77.69657446967993,15.514843702763166,3.8228018889138746/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4472,7 +4472,7 @@ ing one of them of the character and
 office of money, and reducing it to the  
 situation of mere merchandise. To an
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470715:1898012801:0675/pct:206.07857672349888,306.7846607669617,58.56189770200148,14.945919370698132/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:in:batch_in_bird_ver02:data:sn84023963:00212470715:1898012801:0675/pct:51.52919369786839,76.69616519174042,14.64318813716404,3.736479842674533/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -4492,7 +4492,7 @@ ally without destroying the office and
 character of one of them as money and  
 reducing it to the situation of merchan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1899012701:1052/pct:77.08533077660594,88.24410843209373,15.570469798657719,3.677973028197793/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mnhi:batch_mnhi_volvo_ver01:data:sn00065127:00295876529:1899012701:1052/pct:67.46085011185683,77.2219794191267,13.624161073825503,3.2222178076204857/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

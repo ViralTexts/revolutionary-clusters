@@ -61,7 +61,7 @@ to a fele£t committee for the purpose of reporting a bill. This
 was negatived.  
 Mr. Smith, (S. C.) moved for the Ayes and Noes on the Reso
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790051901:0003/pct:34.633097942892235,64.98329730791905,27.295056800736873,17.940656317547653/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790051901:0003/pct:34.633097942892235,64.98329730791905,27.302732575990174,17.940656317547653/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -157,7 +157,7 @@ where certificate, or warrants have been idLd under authority of
 he United States tor any of the fa, d„ rear, of pay, and the fame  
 I,c produced by the claimant or claimants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790061201:0003/pct:35.98030163127116,20.77692760447322,26.900584795321638,19.93329409456543/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_himalayan_ver02:data:sn83030483:print:1790061201:0003/pct:35.987996306555864,20.78673729644889,26.939058171745152,19.928389248577595/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -576,7 +576,7 @@ of those States refpeQively, who are
 entitled to receive arrears of pay due  
 for services in the years one thousan
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790093001:0669/pct:48.252261060865315,20.930979133226323,20.386213639696894,14.237560192616373/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790093001:0669/pct:48.26855699502974,20.930979133226323,20.36991770553247,14.253611556982344/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -625,7 +625,7 @@ for any of the said arrears of pay, and
 the fame shall be produced by the  
 claimant or claimants
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790093001:0669/pct:48.1789293571254,36.82182985553772,20.53287704717673,28.747993579454253/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_bondcliff_ver01:data:sn83025587:00517015131:1790093001:0669/pct:48.19522529128982,36.827180310326376,20.516581113012304,28.742643124665598/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

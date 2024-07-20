@@ -47,7 +47,7 @@ f entering more fully hito tin
 li remains to be seen wh t will be  
 ue. of this important business
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805101601:0002/pct:80.04000889086464,12.94598787195036,18.270726828184042,11.507544775066986/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_domestic_ver01:data:sn83045242:print:1805101601:0002/pct:80.05482699859228,12.94598787195036,18.270726828184042,11.526347952804024/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -88,7 +88,7 @@ mains to be seen what will be the man 0
   
 (his important basincss
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805101701:0594/pct:76.23650716932495,64.41891128272745,21.12131464475592,17.988321717837636/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_flyingsquirrels_ver03:data:sn84024012:00414216031:1805101701:0594/pct:76.22422680412372,64.41284490064977,21.12328178694158,17.989766770254576/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -123,7 +123,7 @@ Mr Monroe, for the purpofe of entering more
 in• Iy into the affair, it remains to be feen wnat  
 . &#x27;♦‘H be the iffue of this important btifinef*
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805102201:0195/pct:77.99256505576209,19.21119592875318,18.25278810408922,12.073791348600508/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_loons_ver01:data:sn84024736:00414183797:1805102201:0195/pct:77.97807099052221,19.208752067167026,18.255590658489748,12.076495780859094/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -161,7 +161,7 @@ entering more fully into the affaja, it re­
 mains tv be seen what will be the i*su« of  
 this imporuBi busmen
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805102301:0374/pct:78.46743295019157,30.580124869927158,17.624521072796934,15.803850156087409/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_otters_ver02:data:sn84024710:00414184182:1805102301:0374/pct:78.4524037540701,30.576147743529717,17.627529847411097,15.806129969220098/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -294,7 +294,7 @@ parpote of entering more fully. into
 the affuir, it remains to_be seen what  
 will be the iffie of this important by
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805102901:0174/pct:42.3088875077688,75.56539312866904,16.190180236171535,18.092580117409298/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:nhd:batch_nhd_avalon_ver02:data:sn83025588:00517010790:1805102901:0174/pct:42.3088875077688,75.56539312866904,16.200538636834473,18.095788021685433/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -333,7 +333,7 @@ of entering more fully into the affair, it
 remains 1o be Jeen what will be the ifue  
 of this important bufinefs.~Nat, Intel,
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1805110201:0638/pct:45.34736842105263,35.79044359615638,22.147368421052633,22.890614716335396/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:rp:batch_rp_beholder_ver02:data:sn83021188:00514153140:1805110201:0638/pct:45.35438596491228,35.79921898995217,22.147368421052633,22.8862270194375/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 

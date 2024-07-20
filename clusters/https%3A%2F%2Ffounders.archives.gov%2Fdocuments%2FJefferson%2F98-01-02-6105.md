@@ -70,7 +70,7 @@ of the people j it approaches their firesides, and
 touches their most iniimale domestic interests. If  
 the inhab
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839013101:0781/pct:3.6253776435045317,33.84969139537698,15.407854984894259,7.176570252934769/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_alicanto_ver02:data:sn82015015:00415660960:1839013101:0781/pct:3.636567080675842,33.84969139537698,15.39666554772295,7.184638347654201/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -90,7 +90,7 @@ believed that every other power was swallowed up
 by the General Government, was satisfied that this  
 portion of sovereignty, at least, was left entire to th
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1839020201:0029/pct:80.3921568627451,66.11717765644687,16.53690888119954,2.960940781184376/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_basilisk_ver03:data:sn82014039:00415660972:1839020201:0029/pct:80.3921568627451,66.11717765644687,16.541714725105727,2.9679406411871763/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -127,7 +127,7 @@ forefathers reasoned very differently. They
 snuffed the approach of tyranny in every  
 tainted breeze.” They braved and bearde
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840051501:0458/pct:22.24952529878253,54.57403802964516,15.022897352842623,1.8865099565803265/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_aquasox_ver01:data:sn85025007:00414215671:1840051501:0458/pct:22.24704042885861,54.5699528407815,15.02494229766957,1.8888639369214262/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -145,7 +145,7 @@ reasoned very differently. They &quot;augured mis­
 government at a distance, and snuffed the approach  
 of tyranny in every tainted breeze.&quot; They brave
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840061301:0050/pct:8.988985051140833,65.78786955196587,19.217151848937846,2.6973483693995735/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:mohi:batch_mohi_henri_ver01:data:sn83016957:0020029242A:1840061301:0050/pct:6.750639637866562,49.34471197805547,14.426294036606967,2.0268210911307527/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -165,7 +165,7 @@ distinguished son of South Carolina, &quot; Could
 in the darkest hour stand up to their enemies  
 and say, &#x27; we have counted the cost, and fin
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848072101:0117/pct:38.48806366047745,31.407393328898603,17.453580901856764,4.694478760809655/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_lumber_ver01:data:sn84026536:00295879063:1848072101:0117/pct:28.876508820798513,23.557920745034686,13.09192200557103,3.5256105673287084/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -208,7 +208,7 @@ was not the temper of our fathers. &quot;They augured mis­
 Government at a distance, and snuffed the approach of  
 tyranny in every tainted breeze.&quot; I do not suppose tha
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860012801:0099/pct:167.9049676025918,33.56013608164899,39.193664506839454,3.5521312787672605/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vi:batch_vi_balikun_ver01:data:sn84024656:00414184698:1860012801:0099/pct:55.96026490066225,11.185592796398199,13.06267396103273,1.183925295981324/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
@@ -274,7 +274,7 @@ proach of tyranny in every tainted
 breeze.&quot; They were the most dangerous  
 people in the world to meddle with, be
 </td><td style="width: 50%; max-height: 75%; margin: auto; display: block;">
-<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:0020219705A:1898010701:0429/pct:111.98501872659176,72.07110153514678,49.9625468164794,17.613789388634526/!600,600/0/default.jpg"/>
+<img alt="Page image" src="https://tile.loc.gov/image-services/iiif/service:ndnp:vtu:batch_vtu_dakin_ver03:data:sn84023253:0020219705A:1898010701:0429/pct:28.00149840794156,18.017775383786695,12.492976212773927,4.4034473471586315/!600,600/0/default.jpg"/>
 </td>
 </tr></table>
 
